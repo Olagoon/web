@@ -1,16 +1,16 @@
 const fs = require('fs');
 const path = require('path');
 const { createRequire } = require('module');
-const req = createRequire('E:\\github\\afarer\\node_modules\\js-yaml\\package.json');
+const req = createRequire('E:\\github\\olagoon\\node_modules\\js-yaml\\package.json');
 const yaml = req('js-yaml');
 
 const TMP = 'C:\\Users\\Helleo\\AppData\\Local\\Temp\\deveco';
 const SLUGS = [
   'inflatable-boat-maintenance',
   'marine-life-vest-guide',
-  'afarer-vs-red-paddle',
-  'afarer-vs-irocker',
-  'afarer-vs-bluefin',
+  'olagoon-vs-red-paddle',
+  'olagoon-vs-irocker',
+  'olagoon-vs-bluefin',
   'inflatable-sup-vs-hard-board',
   'wetsuit-care-guide',
   'how-to-choose-a-wetsuit',
@@ -21,8 +21,8 @@ const SLUGS = [
   'understanding-tides',
   'wind-conditions-sup',
   'weather-planning-water-sports',
-  'afarer-sup-explorer-11-review',
-  'afarer-sup-tour-12-review',
+  'olagoon-sup-explorer-11-review',
+  'olagoon-sup-tour-12-review',
 ];
 const FAQN = [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4];
 const FIELDS = [
@@ -94,8 +94,8 @@ function checkLang(lang, parts, expected) {
   if (hits.length) bad(lang + ' possible EN residue in ' + hits.length + ' fields, e.g.: ' + hits[0].slice(0, 80));
   else ok(lang + ' no obvious EN residue');
   const lower = joined.toLowerCase();
-  if (lower.includes('afarer ')) ok(lang + ' brand afarer present');
-  else bad(lang + ' brand afarer missing');
+  if (lower.includes('olagoon ')) ok(lang + ' brand olagoon present');
+  else bad(lang + ' brand olagoon missing');
 }
 
 checkLang('pt', ['_v2pt_b3_p1.yaml', '_v2pt_b3_p2.yaml', '_v2pt_b3_p3.yaml', '_v2pt_b3_p4.yaml'], 17);

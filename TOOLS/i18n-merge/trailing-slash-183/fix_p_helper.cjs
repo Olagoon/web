@@ -1,7 +1,7 @@
 const fs = require('fs');
 const files = [
-  'E:/github/afarer/src/pages/[lang]/buyer-center/index.astro',
-  'E:/github/afarer/src/pages/[lang]/people/index.astro',
+  'E:/github/olagoon/src/pages/[lang]/buyer-center/index.astro',
+  'E:/github/olagoon/src/pages/[lang]/people/index.astro',
 ];
 let n = 0;
 for (const f of files) {

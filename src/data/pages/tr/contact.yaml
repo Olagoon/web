@@ -1,8 +1,8 @@
 meta:
   title: 'İletişim — Ortaklık ve ürün soruları | {SITE}'
-  description: 'Ortaklık, ortak marka ve özel etiket soruları veya profesyonel filolar için afarer ile iletişime geçin. Şişme SUP tahtası markası, 2 iş günü içinde yanıt veriyoruz.'
+  description: 'Ortaklık, ortak marka ve özel etiket soruları veya profesyonel filolar için olagoon ile iletişime geçin. Şişme SUP tahtası markası, 2 iş günü içinde yanıt veriyoruz.'
   keywords:
-    - 'afarer iletişim'
+    - 'olagoon iletişim'
     - 'SUP distribütör teklifi'
     - 'profesyonel SUP tedarikçisi'
     - 'SUP üreticisi iletişim'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Mesaj Gönderin
   subtitle: Fiyat teklifi, teknik sorular veya iş birliği için bize yazın. Bir iş günü içinde yanıtlıyoruz.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Talep gönder → Teklif al
   success_message: Teşekkürler! Mesajınız alındı. Bir iş günü içinde yanıtlayacağız.
   error_message: Gönderim sırasında bir hata oluştu. Lütfen tekrar deneyin veya doğrudan e-posta adresine yazın.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-posta
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Genel Merkez
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

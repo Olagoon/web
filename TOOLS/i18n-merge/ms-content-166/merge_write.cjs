@@ -1,9 +1,9 @@
 ﻿const fs = require('fs');
 const path = require('path');
-const yaml = require(path.join('E:\\github\\afarer', 'node_modules', 'js-yaml'));
+const yaml = require(path.join('E:\\github\\olagoon', 'node_modules', 'js-yaml'));
 
 const dir = __dirname;
-const outPath = 'E:\\github\\afarer\\src\\data\\site\\content-v2.ms.yaml';
+const outPath = 'E:\\github\\olagoon\\src\\data\\site\\content-v2.ms.yaml';
 
 let ms = [];
 for (let i = 1; i <= 24; i++) {

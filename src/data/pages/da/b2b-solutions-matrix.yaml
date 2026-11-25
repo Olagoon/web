@@ -1,16 +1,16 @@
 meta:
   title: Matrix over B2B-kundeløsninger | {SITE}
-  description: Komplet Afarer B2B-matrix over kundeløsninger, der dækker 24 kundetyper — fra udendørs startups til marine bevaringsinstitutioner.
+  description: Komplet OLagoon B2B-matrix over kundeløsninger, der dækker 24 kundetyper — fra udendørs startups til marine bevaringsinstitutioner.
 hero:
   tagline: B2B-kundeløsninger
   title: 24 B2B-løsninger<br />Matchet til din virksomhed
-  subtitle: Fra startup-grundlæggere til globale distributører — find den helt rigtige Afarer-løsning, designet til din forretningsmodel, branche og dine mål.
+  subtitle: Fra startup-grundlæggere til globale distributører — find den helt rigtige OLagoon-løsning, designet til din forretningsmodel, branche og dine mål.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Afarers fabrik og produktionsanlæg
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: OLagoons fabrik og produktionsanlæg
 solutions:
   title: Kundeløsningsmatrix
-  subtitle: Hver kundetype, deres centrale behov og den Afarer-løsningsside, der er designet til dem.
+  subtitle: Hver kundetype, deres centrale behov og den OLagoon-løsningsside, der er designet til dem.
   items:
     - clientType: Stifter af outdoor-startup
       need: Brandskabelse

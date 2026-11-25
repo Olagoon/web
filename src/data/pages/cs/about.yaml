@@ -1,6 +1,6 @@
 meta:
-  title: 'O Afarer — Značka nafukovacích SUP a vodních sportů | {SITE}'
-  description: 'Afarer je globální značka nafukovacích SUP a vodních sportů, kterou provozuje Aquafarer LLC a buduje náš operační tým v Qingdao. Poznejte náš příběh, inženýrství, certifikovanou kvalitu a programy partnerství pro jednotlivé země.'
+  title: 'O OLagoon — Značka nafukovacích SUP a vodních sportů | {SITE}'
+  description: 'OLagoon je globální značka nafukovacích SUP a vodních sportů, kterou provozuje Olagoon LLC a buduje náš operační tým v Qingdao. Poznejte náš příběh, inženýrství, certifikovanou kvalitu a programy partnerství pro jednotlivé země.'
   keywords:
     - 'značka nafukovacích sup prken'
     - 'značka vodních sportů'
@@ -9,9 +9,9 @@ meta:
 hero:
   tagline: O nás
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Továrna a dílny afarer
-  title: O afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: Továrna a dílny olagoon
+  title: O olagoon
   subtitle: 'Začínali jsme v přímořské dílně s jedním prknem a neochvějným přesvědčením: námořní výrobky by měly být konstruovány tak, jako by na nich skutečně záleželo — protože záleží. Dnes dodáváme do více než 40 zemí, ale každý trup stále prochází rukama týchž lidí, kteří firmu založili.'
 stats:
   title: V číslech
@@ -54,7 +54,7 @@ features3_more:
       description: Návrh řešení projekt od projektu pro komerční, vědecké a vojenské zákazníky.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Návrh prken a technické řešení
 steps2_values:
   title: Naše hodnoty
@@ -71,7 +71,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Milníky
-  subtitle: Krátká verze příběhu značky afarer.
+  subtitle: Krátká verze příběhu značky olagoon.
   isReversed: true
   items:
     - title: Založeno v přímořské dílně
@@ -106,7 +106,7 @@ brand_hub_cards:
     desc: Zasíláme do více než 50 zemí z našeho závodu v Qingdao, s autorizovanými servisními partnery v Evropě, asijsko-pacifickém regionu a Americe.
     link: /brand-global-presence/
     link_label: Zjistit více →
-  - title: Proč afarer
+  - title: Proč olagoon
     desc: 'Značka postavená na ověřené kvalitě — dvojitá certifikace (ISO 9001 + BSCI), soulad s CE a exkluzivní partnerství pro jednotlivé země s limitovanými co-branded kolekcemi pro vodní sportovní podniky.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Zjistit více →

@@ -1,6 +1,6 @@
 meta:
   title: 'פתרונות עסקיים — SUP לכל עסק | {SITE}'
-  description: 'פתרונות עסקיים של afarer: ציים של לוחות SUP לאתרי נופש, למועדונים, להשכרה, להפצה ולמותגים פרטיים. ספק ציוד ימי מקצועי ל-B2B.'
+  description: 'פתרונות עסקיים של olagoon: ציים של לוחות SUP לאתרי נופש, למועדונים, להשכרה, להפצה ולמותגים פרטיים. ספק ציוד ימי מקצועי ל-B2B.'
   keywords:
     - 'פתרונות עסקיים ל-sup'
     - 'ספק לוחות חתירה ניפחים'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'פתרונות עסקיים'
   title: 'פתרונות SUP<br />לכל עסק'
-  subtitle: 'מאתרי נופש ועד קמעונאות, ממפעילי השכרה ועד מפיצים גלובליים — Afarer מספקת פתרונות SUP מלאים המותאמים למודל העסקי שלכם.'
+  subtitle: 'מאתרי נופש ועד קמעונאות, ממפעילי השכרה ועד מפיצים גלובליים — OLagoon מספקת פתרונות SUP מלאים המותאמים למודל העסקי שלכם.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'לוחות SUP של Afarer לעסקים וליישומים מקצועיים'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'לוחות SUP של OLagoon לעסקים וליישומים מקצועיים'
 stats:
-  title: 'Afarer במבט'
+  title: 'OLagoon במבט'
   stats:
     - title: 'שנות ניסיון'
       amount: 'מאז 2012'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'בנו מותג משלכם'
-      description: 'ייצור SUP מקצה לקצה במודל OEM/ODM — עיצוב, אב-טיפוס, ייצור סדרתי ולוגיסטיקה. השיקו את המותג שלכם עם Afarer.'
+      description: 'ייצור SUP מקצה לקצה במודל OEM/ODM — עיצוב, אב-טיפוס, ייצור סדרתי ולוגיסטיקה. השיקו את המותג שלכם עם OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

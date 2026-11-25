@@ -1,6 +1,6 @@
 meta:
   title: 'Sertifioinnit — CE, ISO 9001 ja vaatimustenmukaisuus | {SITE}'
-  description: 'afarerin laatusertifioinnit: CE (EN ISO 25649), ISO 9001:2015, BSCI. Vaatimustenmukaisuus ja turvallisuus täytettävien SUP-lautojen valmistajalle.'
+  description: 'olagoonin laatusertifioinnit: CE (EN ISO 25649), ISO 9001:2015, BSCI. Vaatimustenmukaisuus ja turvallisuus täytettävien SUP-lautojen valmistajalle.'
   keywords:
     - 'CE-sertifiointi paddle board'
     - 'ISO 9001 paddle board'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Sertifikaatit ja standardit
   title: Laatusertifioinnit<br />& Vaatimustenmukaisuusstandardit
-  subtitle: afarer tuotteet valmistetaan kansainvälisten meriturvallisuusstandardien, laadunhallintajärjestelmien ja ympäristömääräysten mukaisesti.
+  subtitle: olagoon tuotteet valmistetaan kansainvälisten meriturvallisuusstandardien, laadunhallintajärjestelmien ja ympäristömääräysten mukaisesti.
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: afarerin laatutodistukset ja vaatimustenmukaisuusasiakirjat
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: olagoonin laatutodistukset ja vaatimustenmukaisuusasiakirjat
 content_certifications:
   tagline: Sertifikaattimme
   title: Sertifioitu laatu,<br />maailmanlaajuisesti tunnustettu
-  subtitle: Jokaista afarer-tuotetta tukevat sertifioinnit, jotka osoittavat sitoutumisemme laatuun, turvallisuuteen ja ympäristövastuuseen.
+  subtitle: Jokaista olagoon-tuotetta tukevat sertifioinnit, jotka osoittavat sitoutumisemme laatuun, turvallisuuteen ja ympäristövastuuseen.
   items:
     - title: CE-sertifioitu
-      description: Kaikki afarer-tuotteet täyttävät eurooppalaiset CE-merkintävaatimukset vapaa-ajan vesikulkuneuvoille varmistaen turvallisuus-, terveys- ja ympäristönsuojelustandardien täyttymisen.
+      description: Kaikki olagoon-tuotteet täyttävät eurooppalaiset CE-merkintävaatimukset vapaa-ajan vesikulkuneuvoille varmistaen turvallisuus-, terveys- ja ympäristönsuojelustandardien täyttymisen.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Laadunhallintajärjestelmämme on ISO 9001:2015 -sertifioitu ja kattaa täytettävien vesialusten ja merivarusteiden suunnittelun, valmistuksen ja jakelun.
@@ -28,10 +28,10 @@ content_certifications:
       description: Ison-Britannian markkinoilla myytävät tuotteet kantavat UKCA-merkinnän, joka vahvistaa Ison-Britannian merivarusteita ja henkilökohtaisia vesikulkuneuvoja koskevien määräysten noudattamisen.
       icon: tabler:shield
     - title: BSCI-vaatimukset täyttävä
-      description: afarer on BSCI (Business Social Compliance Initiative) -auditoitu, mikä osoittaa eettisiä valmistuskäytäntöjä, oikeudenmukaisia työoloja ja toimitusketjun vastuullisuutta.
+      description: olagoon on BSCI (Business Social Compliance Initiative) -auditoitu, mikä osoittaa eettisiä valmistuskäytäntöjä, oikeudenmukaisia työoloja ja toimitusketjun vastuullisuutta.
       icon: tabler:heart-handshake
     - title: REACH-määräysten mukainen
-      description: Kaikki afarer-tuotteissa käytetyt materiaalit täyttävät EU:n REACH-asetuksen kemikaaliturvallisuusvaatimukset, mikä varmistaa, että PVC:ssämme, EVA:ssamme tai komponenteissamme ei ole rajoitettuja aineita.
+      description: Kaikki olagoon-tuotteissa käytetyt materiaalit täyttävät EU:n REACH-asetuksen kemikaaliturvallisuusvaatimukset, mikä varmistaa, että PVC:ssämme, EVA:ssamme tai komponenteissamme ei ole rajoitettuja aineita.
       icon: tabler:flask
     - title: Materiaalitestaus
       description: Kankaat testataan vetolujuuden, repäisylujuuden, UV-hajoamisen ja kylmämurtumisen suhteen. Jokainen tuotantoerä näytteistetään ja varmennetaan.
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Meriturvallisuusstandardit
   title: Turvallisuus ensin<br />— suunniteltu luotettavaan käyttöön
-  subtitle: afarer-tuotteet on suunniteltu ja testattu täyttämään kansainväliset meriturvallisuusstandardit kaupalliseen ja virkistyskäyttöön.
+  subtitle: olagoon-tuotteet on suunniteltu ja testattu täyttämään kansainväliset meriturvallisuusstandardit kaupalliseen ja virkistyskäyttöön.
   items:
     - title: EN ISO 25649
       description: Täytettävät SUP-laudat täyttävät EN ISO 25649 -standardit rakenteen, vakauden, kelluvuuden ja kantavuuden osalta.

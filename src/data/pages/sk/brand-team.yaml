@@ -1,22 +1,22 @@
 meta:
   title: 'Náš tím — námorní inžinieri a stavbári | {SITE}'
-  description: 'Založená v roku 2012 v Qingdau bola značka afarer vybudovaná námornými inžiniermi, vedcami v oblasti materiálov a nadšencami vodných športov. Spoznajte tím, ktorý stojí za továreňou.'
+  description: 'Založená v roku 2012 v Qingdau bola značka olagoon vybudovaná námornými inžiniermi, vedcami v oblasti materiálov a nadšencami vodných športov. Spoznajte tím, ktorý stojí za továreňou.'
   keywords:
-    - 'tím afarer'
+    - 'tím olagoon'
     - 'námorní inžinieri'
     - 'výrobca nafukovacích sup'
     - 'tím továrne sup'
 hero:
   tagline: 'Náš tím'
-  title: 'Ľudia za značkou afarer<br />— inžinierstvo slobody na vode'
-  subtitle: 'Založená v roku 2012 v čínskom Qingdau bola značka afarer vybudovaná námornými inžiniermi, vedcami v oblasti materiálov a nadšencami vodných športov, ktorí verili, že profesionálne nafukovacie plavidlá by mali byť dostupné po celom svete.'
+  title: 'Ľudia za značkou olagoon<br />— inžinierstvo slobody na vode'
+  subtitle: 'Založená v roku 2012 v čínskom Qingdau bola značka olagoon vybudovaná námornými inžiniermi, vedcami v oblasti materiálov a nadšencami vodných športov, ktorí verili, že profesionálne nafukovacie plavidlá by mali byť dostupné po celom svete.'
   image:
     src: /images/team-all.webp
-    alt: 'skupinová fotografia tímu afarer — inžinierstvo, výroba a vedenie'
+    alt: 'skupinová fotografia tímu olagoon — inžinierstvo, výroba a vedenie'
 founding:
   tagline: 'Naše založenie'
   title: 'Od pobrežnej dielne<br />po areál s rozlohou 12 000 m²'
-  subtitle: 'afarer založil tím námorných inžinierov s desaťročiami spojených skúseností v dizajne nafukovacích SUP, spracovaní PVC a globálnej výrobe námorného vybavenia.'
+  subtitle: 'olagoon založil tím námorných inžinierov s desaťročiami spojených skúseností v dizajne nafukovacích SUP, spracovaní PVC a globálnej výrobe námorného vybavenia.'
   items:
     - title: 'Založené: 2012'
       description: 'Založené v čínskom Qingdau — významnej námornej križovatke s hlbokým loďárskym dedičstvom.'
@@ -40,7 +40,7 @@ leadership:
       name: 'Toby Liu'
       description: '15+ rokov v námornej výrobe. Predtým viedol vývoj u významného čínskeho výrobcu pádlového športového vybavenia. Držiteľ viacerých patentov v dizajne nafukovacích SUP.'
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: 'Hlavný inžinier'
       name: 'Zhang Wei'
       description: '20+ rokov v spracovaní PVC a drop-stitch dizajne. Bývalý technický riaditeľ európskej značky pádlového športového vybavenia.'
@@ -65,13 +65,13 @@ leadership:
       name: 'Helen Lee'
       description: '15+ rokov v medzinárodnom B2B obchode. Riadila co-brand a distribučné partnerstvá vo viac než 30 krajinách. Hovorí 4 jazykmi.'
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: 'Dizajnová filozofia'
   title: 'Inžiniersky vedený dizajn<br />— každý detail záleží'
   subtitle: 'Naša inžinierska filozofia sa sústreďuje na tri princípy, ktoré sprevádzajú každý produkt, ktorý vyrábame.'
   list:
-    - 'Spoľahlivosť na prvom mieste: Každý produkt afarer je testovaný tak, aby zvládol reálne podmienky — od záchranných operácií v studenej vode po prenájmy v tropických rezortoch. Konštrukciu preceňujeme tam, kde to má najväčší význam.'
+    - 'Spoľahlivosť na prvom mieste: Každý produkt olagoon je testovaný tak, aby zvládol reálne podmienky — od záchranných operácií v studenej vode po prenájmy v tropických rezortoch. Konštrukciu preceňujeme tam, kde to má najväčší význam.'
     - 'Výrobná presnosť: Naše zariadenia používajú CNC rezanie, vysokofrekvenčné zváranie a automatizované tlakové testovanie. Každý šev, každý ventil, každé upevnenie spĺňa zdokumentované špecifikácie.'
     - 'Neustála inovácia: Náš tím výskumu a vývoja priebežne vyhodnocuje nové materiály, výrobné metódy a dizajnové vylepšenia.Na problémy nečakáme — predvídame ich.'
 cta:

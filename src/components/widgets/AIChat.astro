@@ -9,7 +9,7 @@ import { localizeHref } from '~/i18n/routing';
 import { getUiForLang } from '~/i18n/generated/ui-all';
 import { getWhatsAppLink, getContactEmail } from '~/utils/whatsapp';
 
-const { position = 'bottom-right', title = 'Afarer Water Advisor AI' } = Astro.props;
+const { position = 'bottom-right', title = 'OLagoon Water Advisor AI' } = Astro.props;
 const _locale = getLangFromUrl(Astro.url);
 const _ui = (key: string, fallback: string) => getUiForLang(_locale)?.[key] || fallback;
 const _waLink = getWhatsAppLink();

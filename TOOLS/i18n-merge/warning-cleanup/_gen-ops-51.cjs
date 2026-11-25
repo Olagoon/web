@@ -31,8 +31,8 @@
 // Output: _ops-data-51.cjs (142 ops). See TECH.md L41.
 const fs = require('fs');
 
-const REPO = 'E:/github/afarer';
-const DIR = 'E:/github/afarer/TOOLS/i18n-merge/warning-cleanup';
+const REPO = 'E:/github/olagoon';
+const DIR = 'E:/github/olagoon/TOOLS/i18n-merge/warning-cleanup';
 const yaml = require(REPO + '/node_modules/js-yaml');
 const prettier = require(REPO + '/node_modules/prettier');
 
@@ -70,8 +70,8 @@ const RKEYS = ['metaDesc', 'heroTitle', 'heroSubtitle', 'ctaTitle', 'ctaSubtitle
 // pre-patch v0 EN constants (recon-verified uniform across the 19 locales, _s51-dump.cjs)
 const V0_RETAIL = {
   metaDesc:
-    'Become an Afarer retail partner. Full product line, professional marketing materials, dropshipping options, and competitive margins for SUP retailers.',
-  heroTitle: 'Become An Afarer<br />Retail Partner',
+    'Become an OLagoon retail partner. Full product line, professional marketing materials, dropshipping options, and competitive margins for SUP retailers.',
+  heroTitle: 'Become An OLagoon<br />Retail Partner',
   heroSubtitle:
     'Sell the fastest-growing SUP brand in your market. Full product line, professional marketing materials, dropshipping options, and margins that make sense.',
   ctaTitle: 'Ready to become a partner?',

@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorij 04'
   title: 'Hidrodinamični preskusni bazen'
   subtitle: 'Preverjanje zmogljivosti pred prvim prototipom v polni velikosti'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp'
-  image_alt: 'Preskušanje zmogljivosti v hidrodinamičnem preskusnem bazenu Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp'
+  image_alt: 'Preskušanje zmogljivosti v hidrodinamičnem preskusnem bazenu OLagoon'
 
-intro: 'Pogosta zmotna predstava je, da je hidrodinamično preskušanje rezervirano za oceanske ladje. V resnici je zmogljivost majhnega drsečega trupa — na primer napihljive SUP deske — prav tako odvisna od njegove podvodne oblike, kot je tanker od svojega bulbastega premca. Kot trimanja, omočena površina, nastajanje pršca in zračenje imajo dramatičen učinek na drsenje, hitrost in udobje vožnje. V Afarerju upravljamo namenski hidrodinamični preskusni bazen, ki nam omogoča kvantificiranje teh učinkov v merilu modela — preden vložimo tkanino in orodja v prototip v polni velikosti.'
+intro: 'Pogosta zmotna predstava je, da je hidrodinamično preskušanje rezervirano za oceanske ladje. V resnici je zmogljivost majhnega drsečega trupa — na primer napihljive SUP deske — prav tako odvisna od njegove podvodne oblike, kot je tanker od svojega bulbastega premca. Kot trimanja, omočena površina, nastajanje pršca in zračenje imajo dramatičen učinek na drsenje, hitrost in udobje vožnje. V OLagoonju upravljamo namenski hidrodinamični preskusni bazen, ki nam omogoča kvantificiranje teh učinkov v merilu modela — preden vložimo tkanino in orodja v prototip v polni velikosti.'
 
 content_html: |
   <h2>Zakaj preskušati veslaško desko v bazenu?</h2>

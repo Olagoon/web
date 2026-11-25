@@ -2,7 +2,7 @@
 // - href="/x" -> href="/x/"  (insert / before ? or # if present, skip files/external/anchors)
 const fs = require('fs');
 
-const FILES = ['E:/github/afarer/src/pages/index.astro', 'E:/github/afarer/src/pages/404.astro'];
+const FILES = ['E:/github/olagoon/src/pages/index.astro', 'E:/github/olagoon/src/pages/404.astro'];
 const isFile = (h) => /\/[^/]*\.[a-z0-9]{1,6}(?:[?#]|$)/i.test(h);
 
 for (const fp of FILES) {

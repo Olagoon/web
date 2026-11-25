@@ -37,17 +37,17 @@ header:
           href: /use-cases/tourism-recreation/
         - text: Visos paskirtys
           href: /use-cases/
-    - text: Atraskite Afarer
+    - text: Atraskite OLagoon
       links:
-        - text: Kodėl Afarer
-          href: /afarer-story/
+        - text: Kodėl OLagoon
+          href: /olagoon-story/
         - text: Technologijos ir medžiagos
           href: /technology/
         - text: Kokybė ir saugumas
           href: /quality/
         - text: Istorijos ir vadovai
           href: /journal/
-        - text: Apie Afarer
+        - text: Apie OLagoon
           href: /about/
     - text: Pagalba
       links:
@@ -85,17 +85,17 @@ footer:
           href: /ultra-stable-sup/
         - text: Priedai
           href: /sup-accessories/
-    - title: Atraskite Afarer
+    - title: Atraskite OLagoon
       links:
-        - text: Kodėl Afarer
-          href: /afarer-story/
+        - text: Kodėl OLagoon
+          href: /olagoon-story/
         - text: Technologijos ir medžiagos
           href: /technology/
         - text: Kokybė ir saugumas
           href: /quality/
         - text: Istorijos ir vadovai
           href: /journal/
-        - text: Apie Afarer
+        - text: Apie OLagoon
           href: /about/
     - title: Pagalba
       links:
@@ -111,7 +111,7 @@ footer:
           href: /contact/
     - title: Verslo partneriams
       links:
-        - text: Bendras prekės ženklas su Afarer
+        - text: Bendras prekės ženklas su OLagoon
           href: /co-brand/
         - text: Klubams ir kurortams
           href: /solutions/resorts-hotels/
@@ -130,12 +130,8 @@ footer:
       href: /disclaimer/
   socialLinks:
     - text: YouTube
-      href: https://www.youtube.com/@afarer
-    - text: X
-      href: https://x.com/afarer
-    - text: Instagram
-      href: https://www.instagram.com/afarer_watersports/
+      href: https://www.youtube.com/@TheOlagoon
     - text: Facebook
-      href: https://www.facebook.com/profile.php?id=61572404318679
+      href: https://www.facebook.com/TheOlagoon
     - text: RSS
       href: /rss.xml

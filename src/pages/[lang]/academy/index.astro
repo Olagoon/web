@@ -27,10 +27,10 @@ const kcSubtitle =
   'Expert knowledge and buying guides for marine professionals, fleet operators, and water sports enthusiasts.';
 
 const metadata = {
-  title: t('academy.metaTitle') || 'Learning Center �?Afarer Academy',
+  title: t('academy.metaTitle') || 'Learning Center �?OLagoon Academy',
   description:
     t('academy.metaDesc') ||
-    'Guides and tutorials for every skill level �?from SUP basics to advanced rescue techniques. Learn at your own pace with Afarer Academy.',
+    'Guides and tutorials for every skill level �?from SUP basics to advanced rescue techniques. Learn at your own pace with OLagoon Academy.',
 };
 
 const crumbs = [{ name: 'Home', href: `/${lang}/` }, { name: t('academy.title') || 'Academy' }];
@@ -154,9 +154,9 @@ const crumbs = [{ name: 'Home', href: `/${lang}/` }, { name: t('academy.title') 
     set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'CollectionPage',
-      name: 'Afarer Academy — Learning Center',
+      name: 'OLagoon Academy — Learning Center',
       description: 'Guides and tutorials for every skill level from SUP basics to advanced rescue techniques.',
-      url: `https://afarer.com/${lang}/academy`,
+      url: `https://olagoon.com/${lang}/academy`,
       mainEntity: {
         '@type': 'ItemList',
         itemListElement: categories.flatMap((cat) =>
@@ -167,7 +167,7 @@ const crumbs = [{ name: 'Home', href: `/${lang}/` }, { name: t('academy.title') 
               '@type': 'Article',
               headline: g.title,
               description: g.desc,
-              url: `https://afarer.com/${lang}/v2/${g.slug}`,
+              url: `https://olagoon.com/${lang}/v2/${g.slug}`,
             },
           }))
         ),

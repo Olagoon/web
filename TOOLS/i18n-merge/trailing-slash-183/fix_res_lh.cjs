@@ -3,9 +3,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const base = 'E:/github/afarer/src/pages/[lang]';
+const base = 'E:/github/olagoon/src/pages/[lang]';
 const files = [
-  'brand-why-afarer.astro',
+  'brand-why-olagoon.astro',
   'solutions/build-your-own-brand.astro',
   'solutions/distributors.astro',
   'solutions/index.astro',

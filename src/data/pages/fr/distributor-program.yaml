@@ -1,6 +1,6 @@
 meta:
-  title: 'Partenaires Pays — Un Pays, Un Distributeur Officiel Afarer | {SITE}'
-  description: 'Postulez pour devenir le distributeur Afarer officiel de votre pays. Un partenaire agréé par marché, protection territoriale, marges direct usine, remises annuelles et un programme de soutien partenaire pays en 10 modules pour les distributeurs mondiaux de SUP et de sports nautiques.'
+  title: 'Partenaires Pays — Un Pays, Un Distributeur Officiel OLagoon | {SITE}'
+  description: 'Postulez pour devenir le distributeur OLagoon officiel de votre pays. Un partenaire agréé par marché, protection territoriale, marges direct usine, remises annuelles et un programme de soutien partenaire pays en 10 modules pour les distributeurs mondiaux de SUP et de sports nautiques.'
   keywords:
     - 'programme de partenariat pays'
     - 'devenir distributeur'
@@ -11,8 +11,8 @@ meta:
     - 'candidature partenaire pays'
 hero:
   tagline: 'Partenariat Pays'
-  title: 'Un Pays.<br />Un Distributeur Officiel Afarer.'
-  subtitle: 'Afarer nomme un distributeur pays agréé unique pour chaque marché approuvé. Territoire exclusif, tarifs revendeur avec remises annuelles et un programme complet de soutien aux distributeurs — en échange d’un accord signé et d’un réel engagement à développer le marché.'
+  title: 'Un Pays.<br />Un Distributeur Officiel OLagoon.'
+  subtitle: 'OLagoon nomme un distributeur pays agréé unique pour chaque marché approuvé. Territoire exclusif, tarifs revendeur avec remises annuelles et un programme complet de soutien aux distributeurs — en échange d’un accord signé et d’un réel engagement à développer le marché.'
   actions:
     - text: 'Postuler au Partenariat Pays'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Délai standard en jours (FOB Qingdao)'
 features:
-  title: 'Pourquoi S’associer à Afarer'
+  title: 'Pourquoi S’associer à OLagoon'
   subtitle: 'Un modèle « un pays, un distributeur » avec la structure de soutien qui rend le territoire rentable. L’exclusivité se gagne et se maintient — elle n’est pas un droit permanent.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'Un distributeur agréé par pays ou région. Pas d’importations parallèles, pas de concurrence interne. Votre investissement bâtit votre propre rempart.'
       icon: 'tabler:shield-check'
     - title: 'Protection Contre les Conflits de Canal'
-      description: 'Les commandes directes de votre région transitent par vous, et les prix protègent votre marge. Afarer ne vend pas en contournant ses partenaires pays.'
+      description: 'Les commandes directes de votre région transitent par vous, et les prix protègent votre marge. OLagoon ne vend pas en contournant ses partenaires pays.'
       icon: 'tabler:users'
     - title: 'Marges Direct Usine & Remises'
       description: 'Liste de prix revendeur avec remises sur volumes engagés. Aucun intermédiaire. Expédition FOB Qingdao avec documentation d’exportation complète.'
@@ -59,7 +59,7 @@ features:
       description: 'Fourniture de pièces de rechange, enregistrement des garanties et traitement des réclamations, fiches techniques et manuels produits pour votre équipe de service local.'
       icon: 'tabler:settings'
     - title: 'Gestionnaire de Compte Dédié & Portail Partenaire'
-      description: 'Un responsable distributeur personnel ainsi qu’un accès aux listes de prix, au suivi des commandes et aux ressources marketing via le portail partenaire Afarer.'
+      description: 'Un responsable distributeur personnel ainsi qu’un accès aux listes de prix, au suivi des commandes et aux ressources marketing via le portail partenaire OLagoon.'
       icon: 'tabler:user-check'
 table:
   title: 'Niveaux de Partenariat, MOQ & Conditions de Commande'
@@ -89,14 +89,14 @@ faqs:
   subtitle: 'Les questions que se posent les partenaires pays sérieux avant de postuler.'
   items:
     - title: 'Que signifie vraiment « un pays, un distributeur » ?'
-      description: 'Afarer nomme un distributeur agréé unique disposant de droits exclusifs sur un territoire défini. Nous ne vendons pas depuis nos canaux mondiaux ou régionaux dans un pays protégé. Vous êtes propriétaire de votre territoire tant que la Distribution Agreement est respectée.'
+      description: 'OLagoon nomme un distributeur agréé unique disposant de droits exclusifs sur un territoire défini. Nous ne vendons pas depuis nos canaux mondiaux ou régionaux dans un pays protégé. Vous êtes propriétaire de votre territoire tant que la Distribution Agreement est respectée.'
     - title: 'Le territoire est-il exclusif pour toujours ?'
       description: 'Non. L’exclusivité est conditionnelle, pas perpétuelle. Elle se maintient par un accord Distribution Agreement signé, la réalisation de votre première commande, des objectifs d’achat annuels, un stock local, une capacité après-vente et un investissement continu sur le marché. Si ces éléments ne sont pas réunis, le territoire peut être renégocié ou réattribué.'
     - title: 'Quelle est la première commande minimale ?'
       description: 'Les distributeurs pays et régionaux démarrent à 100–300 unités ; les revendeurs agréés à 30–50 unités ; les commandes d’essai de 10–30 unités permettent de valider d’abord le marché (les commandes d’essai et d’échantillons ne comportent aucune protection territoriale). Les programmes personnalisés et marque privée suivent des MOQ distincts listés dans les niveaux ci-dessus.'
     - title: 'Que couvre le programme de soutien en 10 modules ?'
       description: 'Niveaux et qualification, protection territoriale, MOQ / tarifs / remises annuelles, gestion des stocks et exécution des commandes, supports marketing et fonds marketing conjoints, formation produit / vente / technique, pièces de rechange et après-vente, enregistrement des garanties, portail partenaire, fiches techniques produits, bibliothèque de supports marketing, échéancier des remises annuelles et listes d’expédition et d’emballage.'
-    - title: 'Comment Afarer me protège-t-il des conflits de canal ?'
+    - title: 'Comment OLagoon me protège-t-il des conflits de canal ?'
       description: 'Chaque territoire compte exactement un distributeur agréé. Les demandes et commandes directes de votre région transitent par vous, les formulaires du site sont transmis au partenaire local lorsqu’il en existe un, et l’équipe mondiale n’intervient qu’en l’absence de réponse du partenaire.'
     - title: 'Quelles sont les conditions d’expédition et de paiement ?'
       description: 'Les commandes partent en FOB Qingdao avec documentation d’exportation complète. Les commandes de production sont payées à 30% d’acompte puis 70% avant expédition ; les commandes d’essai et d’échantillons sont payées d’avance. Le délai standard est de 30–45 jours ouvrés, et de 15–20 jours ouvrés pour les séries d’échantillons.'
@@ -104,7 +104,7 @@ faqs:
       description: 'Envoyez votre candidature via le formulaire de contact avec les informations sur votre marché. Nous évaluons l’adéquation au marché, la présence en retail et la capacité logistique, puis vous répondons sous 3 jours ouvrés avec les prochaines étapes et un exemple de Distribution Agreement.'
 cta:
   title: 'Prenez possession de votre marché.'
-  subtitle: 'Postulez au Partenariat Pays Afarer et recevez une réponse sous 3 jours ouvrés.'
+  subtitle: 'Postulez au Partenariat Pays OLagoon et recevez une réponse sous 3 jours ouvrés.'
   actions:
     - text: 'Postuler au Partenariat Pays'
       href: /contact/?subject=Country Partnership Application
@@ -114,7 +114,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'Avec Qui Nous Nous Associons'
-  sentence: 'Afarer s’associe à des distributeurs établis des secteurs maritime, outdoor et sport qui servent des chaînes de retail, des flottes de location, des écoles de sports nautiques, des resorts et des acheteurs institutionnels avec des SUP gonflables et embarcations premium — et qui s’engagent à développer la marque Afarer dans leur pays.'
+  sentence: 'OLagoon s’associe à des distributeurs établis des secteurs maritime, outdoor et sport qui servent des chaînes de retail, des flottes de location, des écoles de sports nautiques, des resorts et des acheteurs institutionnels avec des SUP gonflables et embarcations premium — et qui s’engagent à développer la marque OLagoon dans leur pays.'
   audiences:
     - 'Distributeurs Marins & Nautiques'
     - 'Retail Outdoor & Sport'

@@ -1,22 +1,22 @@
 meta:
   title: 'Pasukan Kami — Jurutera Marin & Pembina | {SITE}'
-  description: 'Ditubuhkan pada 2012 di Qingdao, afarer dibina oleh jurutera marin, ahli sains bahan, dan peminat sukan air. Kenali pasukan di sebalik kilang ini.'
+  description: 'Ditubuhkan pada 2012 di Qingdao, olagoon dibina oleh jurutera marin, ahli sains bahan, dan peminat sukan air. Kenali pasukan di sebalik kilang ini.'
   keywords:
-    - 'pasukan afarer'
+    - 'pasukan olagoon'
     - 'jurutera marin'
     - 'pengilang sup boleh tiup'
     - 'pasukan kilang sup'
 hero:
   tagline: 'Pasukan Kami'
-  title: 'Orang-Orang di Sebalik afarer<br />— Merekayasa Kebebasan di Atas Air'
-  subtitle: 'Ditubuhkan pada 2012 di Qingdao, China, afarer dibina oleh jurutera marin, ahli sains bahan, dan peminat sukan air yang percaya untuk menjadikan kenderaan air boleh tiup gred profesional mudah diakses di seluruh dunia.'
+  title: 'Orang-Orang di Sebalik olagoon<br />— Merekayasa Kebebasan di Atas Air'
+  subtitle: 'Ditubuhkan pada 2012 di Qingdao, China, olagoon dibina oleh jurutera marin, ahli sains bahan, dan peminat sukan air yang percaya untuk menjadikan kenderaan air boleh tiup gred profesional mudah diakses di seluruh dunia.'
   image:
     src: /images/team-all.webp
-    alt: 'foto pasukan penuh afarer — kejuruteraan, pengeluaran, dan kepimpinan'
+    alt: 'foto pasukan penuh olagoon — kejuruteraan, pengeluaran, dan kepimpinan'
 founding:
   tagline: 'Penubuhan Kami'
   title: 'Daripada Bengkel Pesisir<br />ke Kemudahan 12,000 m²'
-  subtitle: 'afarer ditubuhkan oleh sepasukan jurutera marin dengan pengalaman bergabung selama berdekad-dekad dalam reka bentuk SUP boleh tiup, fabrikasi PVC, dan pembuatan peralatan marin global.'
+  subtitle: 'olagoon ditubuhkan oleh sepasukan jurutera marin dengan pengalaman bergabung selama berdekad-dekad dalam reka bentuk SUP boleh tiup, fabrikasi PVC, dan pembuatan peralatan marin global.'
   items:
     - title: 'Ditubuhkan: 2012'
       description: 'Ditubuhkan di Qingdao, China — hab maritim utama dengan warisan pembinaan kapal yang mendalam.'
@@ -40,7 +40,7 @@ leadership:
       name: 'Toby Liu'
       description: '15+ tahun dalam pembuatan marin. Sebelum ini memimpin R&D di sebuah pengilang sukan dayung China yang utama. Memegang pelbagai paten dalam reka bentuk SUP boleh tiup.'
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: 'Ketua Jurutera'
       name: 'Zhang Wei'
       description: '20+ tahun dalam fabrikasi PVC dan reka bentuk drop-stitch. Bekas pengarah teknikal di sebuah jenama sukan dayung Eropah.'
@@ -65,13 +65,13 @@ leadership:
       name: 'Helen Lee'
       description: '15+ tahun dalam perdagangan B2B antarabangsa. Menguruskan perkongsian jenama bersama dan pengedaran merentas 30+ negara. Fasih dalam 4 bahasa.'
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: 'Falsafah Reka Bentuk'
   title: 'Reka Bentuk Diterajui Kejuruteraan<br />— Setiap Butiran Penting'
   subtitle: 'Falsafah kejuruteraan kami berpaksikan tiga prinsip yang memandu setiap produk yang kami bina.'
   list:
-    - 'Kebolehpercayaan Didahulukan: Setiap produk afarer diuji untuk menahan keadaan dunia sebenar — daripada operasi penyelamatan air sejuk sehingga sewaan resort tropika. Kami merekayasa secara melampaui di perkara yang paling penting.'
+    - 'Kebolehpercayaan Didahulukan: Setiap produk olagoon diuji untuk menahan keadaan dunia sebenar — daripada operasi penyelamatan air sejuk sehingga sewaan resort tropika. Kami merekayasa secara melampaui di perkara yang paling penting.'
     - 'Ketepatan Pembuatan: Kemudahan kami menggunakan pemotongan CNC, kimpalan frekuensi tinggi, dan ujian tekanan automatik. Setiap jahitan, setiap injap, setiap kelengkapan memenuhi spesifikasi yang didokumenkan.'
     - 'Inovasi Berterusan: Pasukan R&D kami menilai bahan baharu, kaedah pengeluaran, dan penambahbaikan reka bentuk secara berterusan. Kami tidak menunggu masalah timbul — kami mengantisipasinya.'
 cta:

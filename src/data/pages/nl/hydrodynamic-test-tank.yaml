@@ -7,11 +7,11 @@ hero:
   tagline: Lab 04
   title: Hydrodynamische testtank
   subtitle: Prestaties valideren voordat het eerste volwaardige prototype wordt gemaakt
-  image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
-  image_alt: Afarer hydrodynamische testtankprestatie test
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
+  image_alt: OLagoon hydrodynamische testtankprestatie test
 intro: >-
   Het is een veelvoorkomend misverstand dat hydrodynamisch testen is voorbehouden aan zeegaande schepen. In werkelijkheid is de prestatie van een klein glijhuls — zoals een opblaasbare SUP — net zo afhankelijk van zijn onderwatervorm als een tanker van zijn bolle boeg. Trimhoek, bevochtigd oppervlak,
-  spuitvorming en ventilatie hebben allemaal een dramatisch effect op glijvermogen, snelheid en rijcomfort. Bij Afarer beschikken we over een speciaal hydrodynamisch testbassin waarmee we deze effecten op modelschaal kunnen kwantificeren — voordat we stof en gereedschap inzetten
+  spuitvorming en ventilatie hebben allemaal een dramatisch effect op glijvermogen, snelheid en rijcomfort. Bij OLagoon beschikken we over een speciaal hydrodynamisch testbassin waarmee we deze effecten op modelschaal kunnen kwantificeren — voordat we stof en gereedschap inzetten
   voor een prototype op ware grootte.
 content_html: >
   <h2>Waarom een paddle board in een sleeptank testen?</h2>

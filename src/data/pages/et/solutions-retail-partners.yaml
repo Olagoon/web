@@ -5,10 +5,10 @@ meta:
 hero:
   tagline: 'Jaemüügipartnerid'
   title: 'Müü premium täispuhutavaid SUP-e<br />marginaalidega, mis töötavad'
-  subtitle: 'Hakka afarer jaemüügipartneriks — paku turu kiireima kasvuga supi kaubamärki koos täielike hulgihindade, otsetarnega, professionaalsete turundusmaterjalide ja pühendatud toega.'
+  subtitle: 'Hakka olagoon jaemüügipartneriks — paku turu kiireima kasvuga supi kaubamärki koos täielike hulgihindade, otsetarnega, professionaalsete turundusmaterjalide ja pühendatud toega.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'afarer supilauad jaemüügipoes välja panduna'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'olagoon supilauad jaemüügipoes välja panduna'
 
 margin_section:
   title: 'Jaemüügimarginaalid ja MOQ'
@@ -92,7 +92,7 @@ support:
     - 'Maksetingimus Net 30'
 
 cta:
-  title: 'Valmis afarer jaemüügipartneriks saama?'
+  title: 'Valmis olagoon jaemüügipartneriks saama?'
   subtitle: 'Taotle partnerlust või laadi alla meie jaemüügi kataloog alustamiseks.'
   actions:
     - text: 'Taotle partnerlust'

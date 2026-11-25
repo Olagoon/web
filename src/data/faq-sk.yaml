@@ -8,7 +8,7 @@
     - beginner-guide
 - id: ocean-use
   question: 'Môžem ju použiť v oceáne?'
-  answer: 'Áno. SUP dosky afarer sú vyrobené na použitie v oceáne, na jazerách aj na riekach. Naša séria Touring zvláda pobrežné vlnenie a všetky dosky používajú námornú PVC, ktorá odoláva korózii od slanej vody. Po použití v oceáne ich opláchnite sladkou vodou.'
+  answer: 'Áno. SUP dosky olagoon sú vyrobené na použitie v oceáne, na jazerách aj na riekach. Naša séria Touring zvláda pobrežné vlnenie a všetky dosky používajú námornú PVC, ktorá odoláva korózii od slanej vody. Po použití v oceáne ich opláchnite sladkou vodou.'
   category: general
   relatedProducts: []
   relatedGuides:
@@ -22,7 +22,7 @@
     - sup-maintenance
 - id: travel-sup
   question: 'Môžem cestovať s nafukovacou SUP doskou?'
-  answer: 'Samozrejme. Každá doska afarer sa zmestí do puzdra veľkosti batohu, ktoré spĺňa požiadavky aerolínií na batožinu. S hmotnosťou len 18–22 lbs ju ľahko prenesiete na pláž, k jazeru alebo cez terminály letiska.'
+  answer: 'Samozrejme. Každá doska olagoon sa zmestí do puzdra veľkosti batohu, ktoré spĺňa požiadavky aerolínií na batožinu. S hmotnosťou len 18–22 lbs ju ľahko prenesiete na pláž, k jazeru alebo cez terminály letiska.'
   category: general
   relatedProducts: []
   relatedGuides: []
@@ -35,7 +35,7 @@
     - understanding-specs
 - id: box-contents
   question: 'Čo je súčasťou balenia?'
-  answer: 'Každá SUP doska afarer obsahuje dosku, cestovný batoh, dvojčinnú ručnú pumpu, odnímateľnú plutvu, šnúrový leash a opravnú sadu. Niektoré modely ponúkajú aj možnosť výbavy karbónovým pádlom.'
+  answer: 'Každá SUP doska olagoon obsahuje dosku, cestovný batoh, dvojčinnú ručnú pumpu, odnímateľnú plutvu, šnúrový leash a opravnú sadu. Niektoré modely ponúkajú aj možnosť výbavy karbónovým pádlom.'
   category: product
   relatedProducts: []
   relatedGuides: []
@@ -62,7 +62,7 @@
   relatedGuides: []
 - id: puncture-repair
   question: 'Ako opravím prepichnutie?'
-  answer: 'Očistite miesto, vystrihnite záplatu s zaoblenými rohmi, naneste PVC lepidlo, pevne pritlačte a pred nafúknutím počkajte 24 hodín. Dosky afarer obsahujú opravnú sadu. Podrobný postup nájdete v našom sprievodcovi opravami nafukovacích dosiek.'
+  answer: 'Očistite miesto, vystrihnite záplatu s zaoblenými rohmi, naneste PVC lepidlo, pevne pritlačte a pred nafúknutím počkajte 24 hodín. Dosky olagoon obsahujú opravnú sadu. Podrobný postup nájdete v našom sprievodcovi opravami nafukovacích dosiek.'
   category: maintenance
   relatedProducts: []
   relatedGuides:
@@ -92,8 +92,8 @@
     - weather-conditions
     - safety-tips
 - id: warranty
-  question: 'Aká je záruka afarer?'
-  answer: 'Všetky produkty afarer sú kryté komplexnou zárukou výrobcu. SUP dosky sú kryté viac ako 2 roky proti výrobným vadám. Záruka pokrýva vady materiálu a spracovania pri bežnom používaní.'
+  question: 'Aká je záruka olagoon?'
+  answer: 'Všetky produkty olagoon sú kryté komplexnou zárukou výrobcu. SUP dosky sú kryté viac ako 2 roky proti výrobným vadám. Záruka pokrýva vady materiálu a spracovania pri bežnom používaní.'
   category: warranty
   relatedProducts: []
   relatedGuides: []
@@ -130,13 +130,13 @@
     - choosing-paddle
 - id: material-difference
   question: 'Aký je rozdiel medzi jednovrstvovými a viacvrstvovými PVC SUP doskami?'
-  answer: 'Jednovrstvové PVC dosky sú ľahké a cenovo dostupné, pri vysokom tlaku sú však menej tuhé. Dvojvrstvové a fúzne laminované konštrukcie pridávajú tuhosť, odolnosť voči prepichnutiu a životnosť. Vojenská trieda PVC s UV-odolným povlakom ponúka pre rekreačné použitie SUP najlepšiu rovnováhu medzi odolnosťou a hmotnosťou. afarer používa trojvrstvové laminované PVC vo všetkých produktových triedach.'
+  answer: 'Jednovrstvové PVC dosky sú ľahké a cenovo dostupné, pri vysokom tlaku sú však menej tuhé. Dvojvrstvové a fúzne laminované konštrukcie pridávajú tuhosť, odolnosť voči prepichnutiu a životnosť. Vojenská trieda PVC s UV-odolným povlakom ponúka pre rekreačné použitie SUP najlepšiu rovnováhu medzi odolnosťou a hmotnosťou. olagoon používa trojvrstvové laminované PVC vo všetkých produktových triedach.'
   category: product
   relatedProducts: []
   relatedGuides: []
 - id: sup-width-stability
   question: 'Aká šírka SUP dosky je najlepšia pre stabilitu?'
-  answer: 'Pre začiatočníkov poskytuje šírka 33–34 palcov najlepšiu rovnováhu medzi stabilitou a ľahkým pádlovaním. Dosky užšie ako 32 palcov pôsobia na nových pádlarov nestabilne. afarer SUP Explorer 11 so šírkou 33 palcov je na učenie ideálny.'
+  answer: 'Pre začiatočníkov poskytuje šírka 33–34 palcov najlepšiu rovnováhu medzi stabilitou a ľahkým pádlovaním. Dosky užšie ako 32 palcov pôsobia na nových pádlarov nestabilne. olagoon SUP Explorer 11 so šírkou 33 palcov je na učenie ideálny.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -152,21 +152,21 @@
   relatedGuides:
     - sup-size-guide
     - paddle-board-size-guide
-- id: afarer-vs-others
-  question: 'Ako sa afarer porovnáva s inými značkami?'
-  answer: 'afarer ponúka najlepší pomer ceny a výkonu v nafukovacej výbave pre vodné športy. V porovnaní s Red Paddle Co prináša afarer 90% výkonu za 60% ceny. V porovnaní s iRocker používa afarer kvalitnejšiu trojvrstvovú vojenskú PVC a vyššie hodnoty PSI. V porovnaní s Bluefin ponúka afarer lepšie materiálové parametre. Pre väčšinu rekreačných pádlarov poskytuje afarer najlepšiu rovnováhu medzi kvalitou a cenou.'
+- id: olagoon-vs-others
+  question: 'Ako sa olagoon porovnáva s inými značkami?'
+  answer: 'olagoon ponúka najlepší pomer ceny a výkonu v nafukovacej výbave pre vodné športy. V porovnaní s Red Paddle Co prináša olagoon 90% výkonu za 60% ceny. V porovnaní s iRocker používa olagoon kvalitnejšiu trojvrstvovú vojenskú PVC a vyššie hodnoty PSI. V porovnaní s Bluefin ponúka olagoon lepšie materiálové parametre. Pre väčšinu rekreačných pádlarov poskytuje olagoon najlepšiu rovnováhu medzi kvalitou a cenou.'
   category: general
   relatedProducts:
     - sup-explorer-11
     - sup-touring-cruiser
   relatedGuides:
     - best-surf-gear-brands-compared
-    - afarer-vs-red-paddle
-    - afarer-vs-irocker
-    - afarer-vs-bluefin
+    - olagoon-vs-red-paddle
+    - olagoon-vs-irocker
+    - olagoon-vs-bluefin
 - id: fishing-sup-setup
   question: 'Môžem rybárčiť z SUP dosky?'
-  answer: 'Áno. Rybárčenie z SUP dosky je čoraz populárnejšie, pretože stojaca pozícia ponúka vynikajúci výhľad do vody. Pre stabilitu zvoľte dosku dlhú aspoň 11 stôp a širokú 33–34 palcov. Pridajte mliečnu debničku s držiakmi prútov upevnenú na palubné gumičky, malú kotvu a vždy noste záchrannú vestu. afarer SUP Explorer 11 sa výborne hodí na príležitostné rybárčenie.'
+  answer: 'Áno. Rybárčenie z SUP dosky je čoraz populárnejšie, pretože stojaca pozícia ponúka vynikajúci výhľad do vody. Pre stabilitu zvoľte dosku dlhú aspoň 11 stôp a širokú 33–34 palcov. Pridajte mliečnu debničku s držiakmi prútov upevnenú na palubné gumičky, malú kotvu a vždy noste záchrannú vestu. olagoon SUP Explorer 11 sa výborne hodí na príležitostné rybárčenie.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -183,7 +183,7 @@
     - yoga-sup-guide
 - id: airline-travel-sup
   question: 'Aké pravidlá aerolínií platia pre cestovanie s nafukovacou SUP doskou?'
-  answer: 'Väčšina aerolínií prijíma SUP batohy ako odbavenú batožinu, ak jej hmotnosť nepresahuje 23–32 kg. Batoh afarer má približne rozmery 90x40x30 cm a zabalený váži asi 15 kg. Niektoré aerolínie môžu účtovať poplatky za nadrozmernú batožinu. Príďte skoro, zabaľte plutvy a pumpu osobitne do príručnej batožiny a označte batoh ako krehký. Pred letom si vždy overte pravidlá vašej aerolínie pre prepravu športového vybavenia.'
+  answer: 'Väčšina aerolínií prijíma SUP batohy ako odbavenú batožinu, ak jej hmotnosť nepresahuje 23–32 kg. Batoh olagoon má približne rozmery 90x40x30 cm a zabalený váži asi 15 kg. Niektoré aerolínie môžu účtovať poplatky za nadrozmernú batožinu. Príďte skoro, zabaľte plutvy a pumpu osobitne do príručnej batožiny a označte batoh ako krehký. Pred letom si vždy overte pravidlá vašej aerolínie pre prepravu športového vybavenia.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -204,14 +204,14 @@
   relatedProducts: []
   relatedGuides: []
 - id: oem-custom-branding
-  question: 'Môžem umiestniť vlastné logo na produkty afarer?'
+  question: 'Môžem umiestniť vlastné logo na produkty olagoon?'
   answer: 'Áno. Naša služba OEM zahŕňa vlastné umiestnenie loga, vlastné farebné schémy a vlastné balenie. Ponúkame tampónovú tlač, termotransfer a vyšívanie v závislosti od typu produktu. Pošlite námety a špecifikácie nášmu predajnému tímu pre cenovú ponuku a odhad dodacej lehoty.'
   category: ordering
   relatedProducts: []
   relatedGuides: []
 - id: sup-inflate-pressure
   question: 'Na aký PSI mám nafúkať svoju SUP dosku?'
-  answer: 'Pre najlepší výkon ju nafúkajte na nominálny maximálny PSI dosky — zvyčajne 15–18 PSI pri kvalitných nafukovacích SUP doskách. afarer SUP Explorer 11 dosahuje najlepší výkon pri 15–18 PSI. Nedostatočné nafúknutie spôsobuje, že doska pôsobí mäkko a zle drží smer. Prekročenie nominálneho maxima riskuje poškodenie nití drop-stitch. Konkrétnu hodnotu vašej dosky nájdete na nálepke pri ventile.'
+  answer: 'Pre najlepší výkon ju nafúkajte na nominálny maximálny PSI dosky — zvyčajne 15–18 PSI pri kvalitných nafukovacích SUP doskách. olagoon SUP Explorer 11 dosahuje najlepší výkon pri 15–18 PSI. Nedostatočné nafúknutie spôsobuje, že doska pôsobí mäkko a zle drží smer. Prekročenie nominálneho maxima riskuje poškodenie nití drop-stitch. Konkrétnu hodnotu vašej dosky nájdete na nálepke pri ventile.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -229,7 +229,7 @@
     - inflatable-sup-maintenance
 - id: sup-seated-paddling
   question: 'Môžem pádlovať na SUP doske v sede?'
-  answer: 'Áno. Mnohé SUP dosky vrátane afarer Explorer 11 majú D-krúžky, ktoré umožňujú pripojenie sedadla. Pádlovanie v sede je pohodlnou možnosťou pri dlhších výletoch, pri rybárčení alebo keď si chcete na vode zmeniť pozíciu.'
+  answer: 'Áno. Mnohé SUP dosky vrátane olagoon Explorer 11 majú D-krúžky, ktoré umožňujú pripojenie sedadla. Pádlovanie v sede je pohodlnou možnosťou pri dlhších výletoch, pri rybárčení alebo keď si chcete na vode zmeniť pozíciu.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -252,7 +252,7 @@
     - sup-leash-guide
 - id: drop-stitch-technology
   question: 'Čo je technológia jadra drop-stitch a prečo je dôležitá?'
-  answer: 'Technológia jadra drop-stitch využíva tisíce polyesterových nití, ktoré spájajú vrchnú a spodnú vrstvu PVC dosky. Po nafúkaní na 15-20 PSI tieto nite vytvárajú tuhú štruktúru odolnú voči krúteniu, ktorá sa správa ako doska s pevným telom. afarer používa vojenskú trojvrstvovú PVC s drop-stitch lamináciou vo všetkých produktových triedach SUP, čím dosahuje tuhosť porovnateľnú s epoxidovými doskami a zároveň si zachováva prenositeľnosť nafukovacej dosky.'
+  answer: 'Technológia jadra drop-stitch využíva tisíce polyesterových nití, ktoré spájajú vrchnú a spodnú vrstvu PVC dosky. Po nafúkaní na 15-20 PSI tieto nite vytvárajú tuhú štruktúru odolnú voči krúteniu, ktorá sa správa ako doska s pevným telom. olagoon používa vojenskú trojvrstvovú PVC s drop-stitch lamináciou vo všetkých produktových triedach SUP, čím dosahuje tuhosť porovnateľnú s epoxidovými doskami a zároveň si zachováva prenositeľnosť nafukovacej dosky.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -262,7 +262,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-inflatable-vs-rigid
   question: 'Nafukovacia alebo pevná SUP doska: ktorá je lepšia pre rôzne spôsoby použitia?'
-  answer: 'Nafukovacie SUP dosky vynikajú v prenositeľnosti, skladovaní a absorpcii nárazov — sú ideálne na cestovanie, pre začiatočníkov a rekreačné použitie. Pevné epoxidové dosky ponúkajú maximálnu rýchlosť a kĺzavosť pre preteky a surfovanie. Pre 90% pádlarov poskytuje kvalitná nafukovacia doska s jadrom drop-stitch (15-20 PSI) dostatočnú tuhosť na turistiku, kondičné tréningy, jogu a rybárčenie. Nafukovacie dosky afarer sa výkonom vyrovnajú pevným doskám strednej triedy, pričom sa zmestia do batohu.'
+  answer: 'Nafukovacie SUP dosky vynikajú v prenositeľnosti, skladovaní a absorpcii nárazov — sú ideálne na cestovanie, pre začiatočníkov a rekreačné použitie. Pevné epoxidové dosky ponúkajú maximálnu rýchlosť a kĺzavosť pre preteky a surfovanie. Pre 90% pádlarov poskytuje kvalitná nafukovacia doska s jadrom drop-stitch (15-20 PSI) dostatočnú tuhosť na turistiku, kondičné tréningy, jogu a rybárčenie. Nafukovacie dosky olagoon sa výkonom vyrovnajú pevným doskám strednej triedy, pričom sa zmestia do batohu.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -272,7 +272,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-skill-progression
   question: 'Aký je typický postup zručností v SUP od začiatočníka po pokročilého?'
-  answer: 'Začiatočník (1-3. výjazd): postavenie sa, základný zdvih vpred, otáčanie, bezpečné pády. Stredne pokročilý (5-15. výjazdov): efektívna technika zdvihu, pivotové otáčanie, pohyb vo vlnení, základné záchranné zručnosti. Pokročilý (20+ výjazdov): pretekárske štarty, otáčanie okolo bójí, surfovanie na malých vlnách, pádlovanie po vetre. Profesionál: pretekárske preteky, surf SUP, dlhé turistické trate. Dosky afarer podporujú každú fázu: Explorer 11 pre začiatočníkov, Ocean Voyager pre turistiku a Cheetah Surge pre výkonnostné pádlovanie.'
+  answer: 'Začiatočník (1-3. výjazd): postavenie sa, základný zdvih vpred, otáčanie, bezpečné pády. Stredne pokročilý (5-15. výjazdov): efektívna technika zdvihu, pivotové otáčanie, pohyb vo vlnení, základné záchranné zručnosti. Pokročilý (20+ výjazdov): pretekárske štarty, otáčanie okolo bójí, surfovanie na malých vlnách, pádlovanie po vetre. Profesionál: pretekárske preteky, surf SUP, dlhé turistické trate. Dosky olagoon podporujú každú fázu: Explorer 11 pre začiatočníkov, Ocean Voyager pre turistiku a Cheetah Surge pre výkonnostné pádlovanie.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -284,7 +284,7 @@
     - sup-paddle-guide
 - id: sup-weight-capacity
   question: 'Koľko hmotnosti unesie nafukovacia SUP doska?'
-  answer: 'Nosnosť sa líši podľa objemu dosky. Dosky afarer: SUP Explorer 11 (260L, do 100 kg / 220 lbs), Ocean Voyager 12 (310L, do 140 kg / 308 lbs), Leviathan Wake (350L, do 180 kg / 396 lbs). Pre optimálny výkon udržujte celkové zaťaženie (jazdec + výbava) do 80% maximálnej kapacity. Nepreťažená doska pláva vyššie a lepšie drží smer, najmä pri rozbúrenej vode.'
+  answer: 'Nosnosť sa líši podľa objemu dosky. Dosky olagoon: SUP Explorer 11 (260L, do 100 kg / 220 lbs), Ocean Voyager 12 (310L, do 140 kg / 308 lbs), Leviathan Wake (350L, do 180 kg / 396 lbs). Pre optimálny výkon udržujte celkové zaťaženie (jazdec + výbava) do 80% maximálnej kapacity. Nepreťažená doska pláva vyššie a lepšie drží smer, najmä pri rozbúrenej vode.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -301,7 +301,7 @@
   relatedGuides: []
 - id: sup-inflatable-durability
   question: 'Ako dlho vydržia nafukovacie SUP dosky pri správnej starostlivosti?'
-  answer: 'Pri správnej starostlivosti vydrží kvalitná nafukovacia SUP doska 5-10 rokov pravidelného rekreačného používania. Vojenská trojvrstvová PVC s UV-odolným povlakom — aká sa používa vo všetkých doskách afarer — odoláva poškodeniu slnkom, korózii od slanej vody a oderu. Kľúčové faktory životnosti: po každom použití opláchnite sladkou vodou, pred uložením dôkladne vysušte, nepoužívanú dosku uchovávajte mimo priameho UV žiarenia, skladujte ju čiastočne nafúkanú na chladnom a suchom mieste a vyhýbajte sa vlečeniu po drsných povrchoch. Nite drop-stitch a švy sú zvyčajne prvým miestom poruchy, nie samotná PVC tkanina.'
+  answer: 'Pri správnej starostlivosti vydrží kvalitná nafukovacia SUP doska 5-10 rokov pravidelného rekreačného používania. Vojenská trojvrstvová PVC s UV-odolným povlakom — aká sa používa vo všetkých doskách olagoon — odoláva poškodeniu slnkom, korózii od slanej vody a oderu. Kľúčové faktory životnosti: po každom použití opláchnite sladkou vodou, pred uložením dôkladne vysušte, nepoužívanú dosku uchovávajte mimo priameho UV žiarenia, skladujte ju čiastočne nafúkanú na chladnom a suchom mieste a vyhýbajte sa vlečeniu po drsných povrchoch. Nite drop-stitch a švy sú zvyčajne prvým miestom poruchy, nie samotná PVC tkanina.'
   category: maintenance
   relatedProducts:
     - sup-explorer-11
@@ -312,7 +312,7 @@
     - inflatable-sup-repair
 - id: sup-choppy-water
   question: 'Ako pádlujem na SUP doske v rozbúrenej vode alebo vo vetre?'
-  answer: 'Pri vlnení: pokrčte kolená, použite širší postoj, skráťte zdvih pádla a pre rovnováhu zapojte svaly stredu tela. Pri protivetre: použite nižší uhol pádla, robte kratšie zdvihy a predkloňte sa. Pri bočnom vetre: pádlujte po naveternej strane, aby ste korigovali drift. Pri vetre v chrbte: surfrujte na vlnách a získavajte rýchlosť. Začiatočníci by sa mali vyhnúť vetru nad 10 mph a pre stabilitu si zvoliť širšie a dlhšie dosky. Turistická SUP doska afarer Ocean Voyager je navrhnutá tak, aby zvládla mierne vlnenie a veterné podmienky.'
+  answer: 'Pri vlnení: pokrčte kolená, použite širší postoj, skráťte zdvih pádla a pre rovnováhu zapojte svaly stredu tela. Pri protivetre: použite nižší uhol pádla, robte kratšie zdvihy a predkloňte sa. Pri bočnom vetre: pádlujte po naveternej strane, aby ste korigovali drift. Pri vetre v chrbte: surfrujte na vlnách a získavajte rýchlosť. Začiatočníci by sa mali vyhnúť vetru nad 10 mph a pre stabilitu si zvoliť širšie a dlhšie dosky. Turistická SUP doska olagoon Ocean Voyager je navrhnutá tak, aby zvládla mierne vlnenie a veterné podmienky.'
   category: safety
   relatedProducts:
     - sup-ocean-voyager
@@ -323,7 +323,7 @@
     - wind-conditions-sup
 - id: sup-sustainability
   question: 'Sú nafukovacie SUP dosky environmentálne udržateľné?'
-  answer: 'Nafukovacie SUP dosky majú v niekoľkých ohľadoch menšiu environmentálnu stopu ako pevné dosky: vo výrobe spotrebujú menej surovín, ich nižšia hmotnosť znižuje emisie pri preprave a ich životnosť znamená v priebehu času menej náhrad. PVC používané v doskách afarer je bezolovnaté a v súlade s REACH. Kľúčové postupy udržateľnosti: kúpte si kvalitnú dosku, ktorá vydrží 5-10 rokov, prepichnutia radšej opravujte, ako vymieňajte, dosku na konci životnosti recyklujte prostredníctvom špecializovaných programov recyklácie PVC a vyhnite sa jednorazovému baleniu výberom značiek, ktoré používajú opakovane použiteľné prenosné vrecká.'
+  answer: 'Nafukovacie SUP dosky majú v niekoľkých ohľadoch menšiu environmentálnu stopu ako pevné dosky: vo výrobe spotrebujú menej surovín, ich nižšia hmotnosť znižuje emisie pri preprave a ich životnosť znamená v priebehu času menej náhrad. PVC používané v doskách olagoon je bezolovnaté a v súlade s REACH. Kľúčové postupy udržateľnosti: kúpte si kvalitnú dosku, ktorá vydrží 5-10 rokov, prepichnutia radšej opravujte, ako vymieňajte, dosku na konci životnosti recyklujte prostredníctvom špecializovaných programov recyklácie PVC a vyhnite sa jednorazovému baleniu výberom značiek, ktoré používajú opakovane použiteľné prenosné vrecká.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -341,8 +341,8 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-certification
-  question: 'Aké certifikácie majú produkty afarer OEM?'
-  answer: 'Všetky produkty afarer OEM/ODM nesú: CE deklaráciu zhody (trh EÚ), UKCA (trh UK), systém manažérstva kvality ISO 9001:2015, audit sociálnej súladu BSCI, súlad materiálov REACH a RoHS a klasifikáciu EN ISO 25649 pre nafukovacie SUP dosky. Ďalšie certifikácie na žiadosť: dokumentácia súladu s US Coast Guard, skúšky podľa vojenského štandardu (MIL-STD-810) a podpora pri certifikácii dovozu do cieľovej krajiny.'
+  question: 'Aké certifikácie majú produkty olagoon OEM?'
+  answer: 'Všetky produkty olagoon OEM/ODM nesú: CE deklaráciu zhody (trh EÚ), UKCA (trh UK), systém manažérstva kvality ISO 9001:2015, audit sociálnej súladu BSCI, súlad materiálov REACH a RoHS a klasifikáciu EN ISO 25649 pre nafukovacie SUP dosky. Ďalšie certifikácie na žiadosť: dokumentácia súladu s US Coast Guard, skúšky podľa vojenského štandardu (MIL-STD-810) a podpora pri certifikácii dovozu do cieľovej krajiny.'
   category: b2b
   relatedProducts: []
   relatedGuides: []
@@ -359,7 +359,7 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-ip-protection
-  question: 'Ako afarer chráni moje duševné vlastníctvo a dizajny?'
+  question: 'Ako olagoon chráni moje duševné vlastníctvo a dizajny?'
   answer: 'Ochrana duševného vlastníctva je jadrom našej služby OEM. NDA podpisujeme pred akoukoľvek diskusiou o dizajne. Súbory dizajnov sa spracovávajú na izolovaných pracovných staniciach so zaznamenávaním prístupov. Všetky nástroje a formy zostávajú vaším výhradným majetkom (hradíte ich vy). Vaše formy ani dizajny nebudeme využívať pre iných klientov. Skladovanie a údržba foriem sú pre aktívne účty zahrnuté. Po ukončení zmluvy sa formy buď odošlú vám, alebo sa zničia s video dokumentáciou. Rešpektujeme všetky práva ochranných známok a patentov.'
   category: b2b
   relatedProducts: []

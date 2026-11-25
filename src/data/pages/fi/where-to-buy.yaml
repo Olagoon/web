@@ -1,18 +1,18 @@
 meta:
-  title: Mistä ostaa Afarerin täytettävät melontalaudat | Afarer
-  description: Selvitä, miten hankit Afarerin täytettävän melontalaudan — maasi virallisen jakelijan kautta tai suoraan Afarer-tiimiltä.
+  title: Mistä ostaa OLagoonin täytettävät melontalaudat | OLagoon
+  description: Selvitä, miten hankit OLagoonin täytettävän melontalaudan — maasi virallisen jakelijan kautta tai suoraan OLagoon-tiimiltä.
 hero:
   tagline: Mistä ostaa
-  title: Pääse vesille Afarer SUP-laudallasi
-  subtitle: Afarer-laudat tavoittavat melojat yli 50 maassa. Löydä helpoin tapa hankkia omasi — lähimmän virallisen jälleenmyyjän kautta tai suoraan Afarer-tiimiltä.
+  title: Pääse vesille OLagoon SUP-laudallasi
+  subtitle: OLagoon-laudat tavoittavat melojat yli 50 maassa. Löydä helpoin tapa hankkia omasi — lähimmän virallisen jälleenmyyjän kautta tai suoraan OLagoon-tiimiltä.
 channels:
   items:
     - title: Viralliset maakohtaiset jakelijat
-      description: Afarer tekee yhteistyötä yksinoikeutettujen jakelijoiden kanssa monissa maissa. Kerro, missä melot, ja yhdistämme sinut paikalliseen jälleenmyyjään sekä hinnoitteluun ja saatavuuteen.
+      description: OLagoon tekee yhteistyötä yksinoikeutettujen jakelijoiden kanssa monissa maissa. Kerro, missä melot, ja yhdistämme sinut paikalliseen jälleenmyyjään sekä hinnoitteluun ja saatavuuteen.
       cta: Etsi paikallinen jälleenmyyjäsi
       href: /contact/?subject=Where to Buy
-    - title: Tilaus suoraan Afarerilta
-      description: Maassasi ei ole vielä jakelijaa? Afarer-tiimi voi järjestää suorat tilaukset ja toimitukset, jotta pääset vesille asuinpisteestäsi riippumatta.
+    - title: Tilaus suoraan OLagoonilta
+      description: Maassasi ei ole vielä jakelijaa? OLagoon-tiimi voi järjestää suorat tilaukset ja toimitukset, jotta pääset vesille asuinpisteestäsi riippumatta.
       cta: Kysy saatavuutta
       href: /contact/?subject=Where to Buy
 form_intro:

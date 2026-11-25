@@ -1,13 +1,13 @@
 meta:
   title: 'Proizvodnja SUP dasaka s privatnom markom i lansiranje prilagođene marke | {SITE}'
-  description: 'Proizvođač SUP dasaka s privatnom markom za nove marke daska za veslanje. Lansirajte svoju marku SUP dasaka s Afarer — kompletta OEM/ODM usluga uključujući dizajn, prototipove, prilagođeno brendiranje, proizvodnju i globalnu logistiku.'
+  description: 'Proizvođač SUP dasaka s privatnom markom za nove marke daska za veslanje. Lansirajte svoju marku SUP dasaka s OLagoon — kompletta OEM/ODM usluga uključujući dizajn, prototipove, prilagođeno brendiranje, proizvodnju i globalnu logistiku.'
 
 hero:
   tagline: 'Izgradite svoju marku'
   title: 'Lansirajte vlastitu<br />marku SUP dasaka'
   subtitle: 'Vi imate viziju. Mi imamo tvornicu, stručnost i lanac opskrbe. Proizvodnja SUP dasaka s privatnom markom i razvoj prilagođene marke SUP dasaka — zajedno ćemo izgraditi marku koja se ističe.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Prilagođeno brendirana SUP daska na vodi'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Prioritetna proizvodnja'
 
 features:
-  title: 'Zašto marke odabiru Afarer'
+  title: 'Zašto marke odabiru OLagoon'
   subtitle: '10+ godina OEM iskustva, potpuna certifikacija i najniži MOQ u industriji.'
   items:
     - title: '10+ godina OEM iskustva'

@@ -77,8 +77,8 @@ async function main() {
 
   // Hardcoded sitemap (matches src/pages/api/ai/sitemap.ts)
   const pages = [
-    { id: 'home', url: '/', title: 'afarer —Premium Inflatables', type: 'page', section: 'main' },
-    { id: 'about', url: '/about', title: 'About afarer', type: 'page', section: 'main' },
+    { id: 'home', url: '/', title: 'olagoon —Premium Inflatables', type: 'page', section: 'main' },
+    { id: 'about', url: '/about', title: 'About olagoon', type: 'page', section: 'main' },
     { id: 'services', url: '/services', title: 'Services', type: 'page', section: 'main' },
     { id: 'pricing', url: '/pricing', title: 'Pricing', type: 'page', section: 'main' },
     { id: 'contact', url: '/contact', title: 'Contact', type: 'page', section: 'main' },

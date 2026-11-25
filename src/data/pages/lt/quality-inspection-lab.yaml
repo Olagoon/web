@@ -8,8 +8,8 @@ hero:
   tagline: 'Laboratorija 06'
   title: 'Kokybės ir patikros laboratorija'
   subtitle: 'Nepriklausomas patvirtinimas — kiekvienas testas išlaikytas prieš pristatymą'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'Afarer kokybės patikros laboratorijos UV testavimas'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'OLagoon kokybės patikros laboratorijos UV testavimas'
 
 intro: 'Kiekviena lenta, išvykstanti iš mūsų dirbtuvių, turi sertifikatą, patvirtinantį, kad ji išlaikė nustatytą kokybės patikrų ir medžiagų testų rinkinį. Mūsų kokybės ir patikros laboratorija yra nepriklausoma padalinio funkcija organizacijoje — ji atsiskaito tiesiogiai generaliniam direktoriui, o ne gamybai — taip užtikrinant, kad joks komercinis spaudimas negali pažeisti patikros barjero. Jei medžiagų partija ar baigta lenta neatitinka paskelbtos specifikacijos, laboratorija turi įgaliojimus sustabdyti siuntimą, kol neatitiktis bus pašalinta.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Mūsų įsipareigojimas jums</h2>
-  <p>Gaudami Afarer lentą, jūs taip pat gaunate jos kokybės dosjė — sudarytą testų rezultatų, taikomų jūsų konkrečiai lentai, įrašą. Audinio partijos sertifikatas, suvirinimo lupimo testai, kamerų oro testų žurnalai ir priešpristatymo patikros kontrolinis sąrašas. Kiekvienas skaičius atsekamas. Kiekvienas inspektorius identifikuojamas. Tai ne tuščias popierių darbas — tai mūsų pažadas, kad tai, ką pristatėme, yra būtent tai, ką nurodėme.</p>
+  <p>Gaudami OLagoon lentą, jūs taip pat gaunate jos kokybės dosjė — sudarytą testų rezultatų, taikomų jūsų konkrečiai lentai, įrašą. Audinio partijos sertifikatas, suvirinimo lupimo testai, kamerų oro testų žurnalai ir priešpristatymo patikros kontrolinis sąrašas. Kiekvienas skaičius atsekamas. Kiekvienas inspektorius identifikuojamas. Tai ne tuščias popierių darbas — tai mūsų pažadas, kad tai, ką pristatėme, yra būtent tai, ką nurodėme.</p>
   <p>Jei kils kokybės klausimų, galite susisiekti su laboratorija tiesiogiai — kontaktiniai duomenys yra atspausdinti jūsų atitikties sertifikate. Kiekvieną užklausą vertiname rimtai ir įsipareigojame atlikti oficialų tyrimą per 48 valandas.</p>
 
 cta:

@@ -1,13 +1,13 @@
 meta:
   title: SUP Distributie Partnerprogramma | {SITE}
-  description: Word lid van Afarer's wereldwijde distributienetwerk. Exclusieve gebieden, compleet productportfolio, concurrerende groothandelsprijzen en toegewijd accountbeheer.
+  description: Word lid van OLagoon's wereldwijde distributienetwerk. Exclusieve gebieden, compleet productportfolio, concurrerende groothandelsprijzen en toegewijd accountbeheer.
 hero:
   tagline: Distributeurs
   title: Word lid van ons wereldwijde<br />distributienetwerk
-  subtitle: Exclusieve territoria. Volledig productportfolio. Wereldklasse ondersteuning. Afarer verzendt naar meer dan 50 landen en we zijn op zoek naar gevestigde marine- en watersportdistributeurs.
+  subtitle: Exclusieve territoria. Volledig productportfolio. Wereldklasse ondersteuning. OLagoon verzendt naar meer dan 50 landen en we zijn op zoek naar gevestigde marine- en watersportdistributeurs.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Afarer wereldwijde distributie- en verzendingsactiviteiten
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: OLagoon wereldwijde distributie- en verzendingsactiviteiten
 benefits:
   title: Wat distributeurs krijgen
   subtitle: Alles wat je nodig hebt om succesvol te zijn in jouw markt.
@@ -24,7 +24,7 @@ benefits:
     - Betalingsvoorwaarden van 45-60 dagen
 coverage:
   title: Huidige distributie
-  subtitle: Afarer bedient momenteel deze markten rechtstreeks.
+  subtitle: OLagoon bedient momenteel deze markten rechtstreeks.
   regions:
     - name: Europa
       countries: Frankrijk, Duitsland, VK, Spanje, Italië, Nederland, Zweden, Noorwegen, Polen, Griekenland

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const dir = __dirname;
-const outDir = 'E:/github/afarer/src/data/site/evidence-meta';
+const outDir = 'E:/github/olagoon/src/data/site/evidence-meta';
 const en = JSON.parse(fs.readFileSync(path.join(dir, '_ev-meta-en.json'), 'utf8'));
 const locales = [
   'ja',

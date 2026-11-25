@@ -1,28 +1,28 @@
 site:
-  name: Afarer
-  site: 'https://afarer.com'
+  name: OLagoon
+  site: 'https://olagoon.com'
   base: '/'
   trailingSlash: true
   googleSiteVerificationId: ''
 metadata:
   title:
-    default: Afarer — Σύγχρονες λύσεις για φουσκωτές βάρκες και τεχνικά προϊόντα
-    template: '%s — Afarer'
-  description: 'Afarer is a premium global water adventure equipment brand designing commercial-grade SUPs and marine safety accessories. CE-certified since 2012.'
+    default: OLagoon — Σύγχρονες λύσεις για φουσκωτές βάρκες και τεχνικά προϊόντα
+    template: '%s — OLagoon'
+  description: 'OLagoon is a premium global water adventure equipment brand designing commercial-grade SUPs and marine safety accessories. CE-certified since 2012.'
   keywords:
-    - Afarer
+    - OLagoon
     - SUP
     - paddleboard
     - inflatable SUP
     - stand up paddle board
     - drop stitch SUP
     - water adventure accessories
-  author: Afarer
+  author: OLagoon
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: Afarer
+    site_name: OLagoon
     images:
       - url: '~/assets/images/default.webp'
         width: 1200
@@ -30,8 +30,8 @@ metadata:
     type: website
     locale: el_GR
   twitter:
-    handle: '@Afarer'
-    site: '@Afarer'
+$1''
+$1''
     cardType: summary_large_image
 i18n:
   textDirection: ltr
@@ -89,30 +89,30 @@ ui:
 
 # ----- Per-language site settings -----
 siteSettings:
-  siteName: 'Afarer'
-  siteTagline: 'Afarer — Premium φουσκωτές βάρκες, SUP & εξοπλισμός θαλάσσιων σπορ'
-  siteDescription: 'Η Afarer σχεδιάζει και κατασκευάζει premium φουσκωτές βάρκες, SUP και εξοπλισμό θαλάσσιων σπορ.'
+  siteName: 'OLagoon'
+  siteTagline: 'OLagoon — Premium φουσκωτές βάρκες, SUP & εξοπλισμός θαλάσσιων σπορ'
+  siteDescription: 'Η OLagoon σχεδιάζει και κατασκευάζει premium φουσκωτές βάρκες, SUP και εξοπλισμό θαλάσσιων σπορ.'
   organization:
-    name: 'Afarer'
+    name: 'OLagoon'
     logo: '/android-chrome-512x512.png'
-    contactEmail: info@afarer.com
+    contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
 
 branding:
-  site_name: 'Afarer'
+  site_name: 'OLagoon'
   logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'Afarer_Logo'
+  logo_alt: 'OLagoon_Logo'
   copyright: '© {year} {site_name} · Με επιφύλαξη παντός δικαιώματος.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
-  email: info@afarer.com
+  email: info@olagoon.com
   whatsapp_number: '+12135577888'
   whatsapp_default_message: 'Γεια, θέλω να ρωτήσω για ένα προϊόν.'
-  contact_email_to: info@afarer.com
+  contact_email_to: info@olagoon.com
   contact_email_provider: resend
-  contact_from_email: web@afarer.net
-  contact_from_name: Afarer
+  contact_from_email: web@olagoon.com
+  contact_from_name: OLagoon
   contact_resend_api_key: Aa123456#
   contact_submissions_pat: ''
   gmap_api_key: ''

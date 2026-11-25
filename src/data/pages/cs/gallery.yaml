@@ -1,6 +1,6 @@
 meta:
   title: 'Galerie — nafukovací SUP prkna | {SITE}'
-  description: 'Prozkoumejte galerii afarera: fotografie nafukovacích SUP prken, továrny a výroby z naší profesionální paddleboardové továrny.'
+  description: 'Prozkoumejte galerii olagoona: fotografie nafukovacích SUP prken, továrny a výroby z naší profesionální paddleboardové továrny.'
   keywords:
     - 'fotky SUP'
     - 'galerie nafukovacích SUP'
@@ -14,16 +14,16 @@ albums:
   - title: SUP prkna
     desc: Nafukovací SUP prkna s drop-stitch konstrukcí pro výlety, surfing, jógu a rybaření.
     images:
-      - https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp
-      - https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      - https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
   - title: Továrna a dílna
     desc: Naše výrobní zařízení o rozloze 12 000 m² v čínském Qingdao.
     images:
-      - https://assets.afarer.com/images/afarer/products/SUP/afarer-SUP-330-boat.webp
-      - https://assets.afarer.com/images/afarer/products/SUP/afarer-SUP-450-patrol-boat.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      - https://assets.olagoon.com/images/olagoon/products/SUP/olagoon-SUP-330-boat.webp
+      - https://assets.olagoon.com/images/olagoon/products/SUP/olagoon-SUP-450-patrol-boat.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 cta:
   title: Chcete vidět více?
   desc: Sledujte nás na sociálních sítích pro nejnovější produktové novinky, informace z továrny a zákaznická dobrodružství.

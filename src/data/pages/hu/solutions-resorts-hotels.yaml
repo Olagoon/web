@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Reszortok és szállodák'
   title: 'Alakítsa parti területét bevételi központtá<br />prémium SUP flottákkal'
-  subtitle: 'Az Afarer kereskedelmi minőségű felfújható SUP flottákkal szereli fel a reszortokat világszerte — a 20 deszkás kezdőcsomagoktól a 100+ deszkás zászlóshajó programokig. Egyedi márkázás, személyzeti képzés és cserealkatrészek mellékelve.'
+  subtitle: 'Az OLagoon kereskedelmi minőségű felfújható SUP flottákkal szereli fel a reszortokat világszerte — a 20 deszkás kezdőcsomagoktól a 100+ deszkás zászlóshajó programokig. Egyedi márkázás, személyzeti képzés és cserealkatrészek mellékelve.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Reszortvendégek SUP evezés élvezetén egy makulátlan tengerparton'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'A teljes flottabefektetés egy szezonon belül megtérül'
     - metric: '40%'
       label: 'Bevételnövekedés'
-      detail: 'Átlagos növekedés az Afarer flottákra való áttérés után'
+      detail: 'Átlagos növekedés az OLagoon flottákra való áttérés után'
     - metric: '500+'
       label: 'Kölcsönzési ciklus deszkánként'
       detail: 'Kereskedelmi minőségű tartósság napi használatra'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Zászlóshajó csomag beszerzése'
 
 case_study:
-  quote: 'Mióta az Afarerre váltottunk, SUP kölcsönzési bevételünk 40%-kal nőtt. A deszka-cserék költségei 60%-kal csökkentek. A teljes flottabefektetés 4 hónap alatt megtérült.'
+  quote: 'Mióta az OLagoonre váltottunk, SUP kölcsönzési bevételünk 40%-kal nőtt. A deszka-cserék költségei 60%-kal csökkentek. A teljes flottabefektetés 4 hónap alatt megtérült.'
   author: 'Vízi programok menedzser'
   location: '5 csillagos reszort, Maldív-szigetek'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 hónap'
 
 features:
-  title: 'Miért választják a reszortok az Afarert'
+  title: 'Miért választják a reszortok az OLagoont'
   subtitle: 'Kereskedelmi minőségű tartósság, globális logisztika és egy partner, aki érti a vendéglátást.'
   items:
     - title: '500+ kölcsönzési ciklus'

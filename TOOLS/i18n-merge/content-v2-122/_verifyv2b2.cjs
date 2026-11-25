@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const read = (p) => fs.readFileSync(path.join(DIST, p), 'utf8');
 
 let fail = 0;
@@ -11,9 +11,9 @@ function check(name, cond) {
 
 // --- all 16 new slugs (EN 17-32) must now be translated on ro + th ---
 const NEW_SLUGS = [
-  'afarer-surfboard-pro',
-  'afarer-wetsuit-pro',
-  'why-afarer-exists',
+  'olagoon-surfboard-pro',
+  'olagoon-wetsuit-pro',
+  'why-olagoon-exists',
   'ocean-safety-and-responsibility',
   'sup-size-guide',
   'beginner-sup-guide',

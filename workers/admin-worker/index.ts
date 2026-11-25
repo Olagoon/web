@@ -14,7 +14,7 @@ interface Env {
 const SESSION_DURATION = 24 * 60 * 60 * 1000;
 
 const CORS = {
-  'Access-Control-Allow-Origin': 'https://afarer.com',
+  'Access-Control-Allow-Origin': 'https://olagoon.com',
   'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
   'Access-Control-Allow-Headers': 'Content-Type, Authorization',
 };
@@ -164,14 +164,14 @@ async function handleAdmin(request: Request, env: Env, path: string): Promise<Re
   const token = env.GITHUB_TOKEN;
   if (!token) return json({ error: 'GitHub token not configured' }, 500);
 
-  const owner = env.GITHUB_OWNER || 'afarer';
+  const owner = env.GITHUB_OWNER || 'olagoon';
   const repo = env.GITHUB_REPO || 'official';
   const api = `https://api.github.com/repos/${owner}/${repo}`;
 
   if (path === '/api/admin/list' && request.method === 'GET') {
     const dir = urlParam(request, 'dir') || 'src/content/news';
     const res = await fetch(`${api}/contents/${dir}`, {
-      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'afarer-admin' },
+      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'olagoon-admin' },
     });
     const data = await res.json();
     return json(data);
@@ -182,7 +182,7 @@ async function handleAdmin(request: Request, env: Env, path: string): Promise<Re
     const branch = urlParam(request, 'branch') || 'main';
     const format = urlParam(request, 'format');
     const readUrl = `${api}/contents/${filePath}${branch !== 'main' ? `?ref=${branch}` : ''}`;
-    const res = await fetch(readUrl, { headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'afarer-admin' } });
+    const res = await fetch(readUrl, { headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'olagoon-admin' } });
     const data = await res.json();
 
     if (data.content && data.encoding === 'base64') {
@@ -222,7 +222,7 @@ async function handleAdmin(request: Request, env: Env, path: string): Promise<Re
     const { path: filePath, content, message, branch } = (await request.json()) as any;
     const res = await fetch(`${api}/contents/${filePath}`, {
       method: 'PUT',
-      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'afarer-admin', 'Content-Type': 'application/json' },
+      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'olagoon-admin', 'Content-Type': 'application/json' },
       body: JSON.stringify({
         message: message || 'Create via admin',
         content: b64encode(content || ''),
@@ -246,7 +246,7 @@ async function handleAdmin(request: Request, env: Env, path: string): Promise<Re
     const targetBranch = branch || 'main';
     const res = await fetch(`${api}/contents/${filePath}`, {
       method: 'PUT',
-      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'afarer-admin', 'Content-Type': 'application/json' },
+      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'olagoon-admin', 'Content-Type': 'application/json' },
       body: JSON.stringify({
         message: message || 'Update via admin',
         content: b64encode(content || ''),
@@ -262,7 +262,7 @@ async function handleAdmin(request: Request, env: Env, path: string): Promise<Re
     const { path: filePath, sha, message, branch } = (await request.json()) as any;
     const res = await fetch(`${api}/contents/${filePath}`, {
       method: 'DELETE',
-      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'afarer-admin', 'Content-Type': 'application/json' },
+      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'olagoon-admin', 'Content-Type': 'application/json' },
       body: JSON.stringify({ message: message || 'Delete via admin', sha, branch: branch || 'main' }),
     });
     return json({ success: res.ok }, res.status);
@@ -272,7 +272,7 @@ async function handleAdmin(request: Request, env: Env, path: string): Promise<Re
     // Merge draft branch into main, triggering Cloudflare Pages deployment
     const res = await fetch(`${api}/merges`, {
       method: 'POST',
-      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'afarer-admin', 'Content-Type': 'application/json' },
+      headers: { Authorization: `Bearer ${token}`, 'User-Agent': 'olagoon-admin', 'Content-Type': 'application/json' },
       body: JSON.stringify({ base: 'main', head: 'draft', commit_message: 'Publish drafts to production' }),
     });
     if (res.status === 204) {

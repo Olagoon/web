@@ -5,7 +5,7 @@ import { localizeHref } from '~/i18n/routing';
 const { messages = [] } = Astro.props;
 const currentLang = getLangFromUrl(Astro.url);
 const _ = (k: string) => getUiForLang(currentLang)?.[k] || getUiForLang('en')?.[k] || '';
-const defaultMessages = [{ tag: 'NEW', text: 'Welcome to Afarer', href: '/' }];
+const defaultMessages = [{ tag: 'NEW', text: 'Welcome to OLagoon', href: '/' }];
 const items = messages.length ? messages : defaultMessages;
 ---
 

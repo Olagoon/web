@@ -37,17 +37,17 @@ header:
           href: /use-cases/tourism-recreation/
         - text: Visi lietojumi
           href: /use-cases/
-    - text: Atklājiet Afarer
+    - text: Atklājiet OLagoon
       links:
-        - text: Kāpēc Afarer
-          href: /afarer-story/
+        - text: Kāpēc OLagoon
+          href: /olagoon-story/
         - text: Tehnoloģijas un materiāli
           href: /technology/
         - text: Kvalitāte un drošība
           href: /quality/
         - text: Stāsti un ceļveži
           href: /journal/
-        - text: Par Afarer
+        - text: Par OLagoon
           href: /about/
     - text: Atbalsts
       links:
@@ -85,17 +85,17 @@ footer:
           href: /ultra-stable-sup/
         - text: Piederumi
           href: /sup-accessories/
-    - title: Atklājiet Afarer
+    - title: Atklājiet OLagoon
       links:
-        - text: Kāpēc Afarer
-          href: /afarer-story/
+        - text: Kāpēc OLagoon
+          href: /olagoon-story/
         - text: Tehnoloģijas un materiāli
           href: /technology/
         - text: Kvalitāte un drošība
           href: /quality/
         - text: Stāsti un ceļveži
           href: /journal/
-        - text: Par Afarer
+        - text: Par OLagoon
           href: /about/
     - title: Atbalsts
       links:
@@ -111,7 +111,7 @@ footer:
           href: /contact/
     - title: Biznesa partneriem
       links:
-        - text: Kopīgs zīmols ar Afarer
+        - text: Kopīgs zīmols ar OLagoon
           href: /co-brand/
         - text: Klubiem un kūrortiem
           href: /solutions/resorts-hotels/
@@ -130,12 +130,8 @@ footer:
       href: /disclaimer/
   socialLinks:
     - text: YouTube
-      href: https://www.youtube.com/@afarer
-    - text: X
-      href: https://x.com/afarer
-    - text: Instagram
-      href: https://www.instagram.com/afarer_watersports/
+      href: https://www.youtube.com/@TheOlagoon
     - text: Facebook
-      href: https://www.facebook.com/profile.php?id=61572404318679
+      href: https://www.facebook.com/TheOlagoon
     - text: RSS
       href: /rss.xml

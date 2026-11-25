@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 
 function walkHtml(dir, out = []) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {

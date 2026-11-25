@@ -1,6 +1,6 @@
 meta:
   title: 'Socios — Distribución y Venta al por Mayor | {SITE}'
-  description: 'Conviértase en socio de afarer: redes de distribución, precios al por mayor, programas OEM/de marca privada y soporte para empresas de paddle surf en todo el mundo.'
+  description: 'Conviértase en socio de olagoon: redes de distribución, precios al por mayor, programas OEM/de marca privada y soporte para empresas de paddle surf en todo el mundo.'
   keywords:
     - 'socio de distribución de SUP'
     - 'paddle surf al por mayor'
@@ -8,11 +8,11 @@ meta:
     - 'asociación de SUP'
 hero:
   tagline: Socios y Distribución
-  title: Sea socio de afarer<br />— Red Global de Distribución
-  subtitle: Únase a la red global afarer. Trabajamos con distribuidores en 50+ países.
+  title: Sea socio de olagoon<br />— Red Global de Distribución
+  subtitle: Únase a la red global olagoon. Trabajamos con distribuidores en 50+ países.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: red global de socios y distribuidores de Afarer
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: red global de socios y distribuidores de OLagoon
 content_programs:
   tagline: Programas de socios
   title: Programas de Socios<br />Diseñados para el Crecimiento
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: Por qué asociarse con nosotros
-  title: Por qué los Socios Eligen afarer
+  title: Por qué los Socios Eligen olagoon
   subtitle: Nuestros socios se benefician de capacidad de fabricación real, calidad constante y soporte receptivo.
   list:
     - 'Acceso directo a fábrica: trabaje directamente con nuestro equipo de fabricación'
@@ -62,7 +62,7 @@ content_process:
     - title: 'Paso 4: Capacitación y Lanzamiento'
       description: Capacitación, apoyo de ventas y materiales proporcionados. Listo para vender.
 cta:
-  title: ¿Listo para ser socio de afarer?
+  title: ¿Listo para ser socio de olagoon?
   subtitle: Solicite una asociación. Respondemos en 3 días hábiles.
   actions:
     - variant: primary

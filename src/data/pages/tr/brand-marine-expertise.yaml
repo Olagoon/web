@@ -1,6 +1,6 @@
 meta:
   title: 'Denizcilik Uzmanlığı — Her gövdede mühendislik | {SITE}'
-  description: "Her gövdede onlarca yıllık deniz mühendisliği. afarer, drop stitch, deniz PVC'si ve profesyonel şişme SUP tasarımında uzmandır."
+  description: "Her gövdede onlarca yıllık deniz mühendisliği. olagoon, drop stitch, deniz PVC'si ve profesyonel şişme SUP tasarımında uzmandır."
   keywords:
     - 'denizcilik mühendisliği'
     - 'şişme SUP tahtası üreticisi'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: Denizcilik Uzmanlığı
   title: Her Gövdede Onlarca Yıllık Deniz Mühendisliği<br />
-  subtitle: afarer, önemli olduğunda performans gösteren deniz taşıtları üretmek için derin malzeme bilimini, hassas üretimi ve gerçek dünya testlerini birleştirir.
+  subtitle: olagoon, önemli olduğunda performans gösteren deniz taşıtları üretmek için derin malzeme bilimini, hassas üretimi ve gerçek dünya testlerini birleştirir.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: afarer deniz mühendisliği ve Ar-Ge ekibi çalışmalarında
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: olagoon deniz mühendisliği ve Ar-Ge ekibi çalışmalarında
 expertise_materials:
   tagline: Malzeme Bilimi
   title: Her Uygulama İçin<br />Doğru Malzemeyi Seçmek

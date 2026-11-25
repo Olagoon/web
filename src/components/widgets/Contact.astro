@@ -484,7 +484,7 @@ const rows = Object.keys(grouped)
 
 <script is:inline>
   (function () {
-    const FORMS_KEY = 'afarer_partial_form';
+    const FORMS_KEY = 'olagoon_partial_form';
 
     // Abandonment recovery: save partial input to localStorage
     function savePartialData(formEl) {
@@ -655,7 +655,7 @@ const rows = Object.keys(grouped)
         const urlParams = new URLSearchParams(window.location.search);
         let storedUtm = {};
         try {
-          storedUtm = JSON.parse(sessionStorage.getItem('afarer_utm') || '{}');
+          storedUtm = JSON.parse(sessionStorage.getItem('olagoon_utm') || '{}');
         } catch {
           /* keep default */
         }
@@ -696,7 +696,7 @@ const rows = Object.keys(grouped)
           console.log('Contact form success:', result);
           try {
             sessionStorage.setItem(
-              'afarer_inquiry',
+              'olagoon_inquiry',
               JSON.stringify({ id: result.id || '', key: data.submissionKey || '', ts: Date.now() })
             );
           } catch {

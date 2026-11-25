@@ -1,8 +1,8 @@
 meta:
   title: 'ติดต่อเรา — สอบถามความร่วมมือและสินค้า | {SITE}'
-  description: 'ติดต่อ afarer สำหรับสอบถามความร่วมมือ โครงการร่วมแบรนด์และแบรนด์ส่วนตัว หรือกองเรือมืออาชีพ ผู้ผลิตบอร์ด SUP แบบสูบลมและเรือพอง เราตอบกลับภายใน 2 วันทำการ'
+  description: 'ติดต่อ olagoon สำหรับสอบถามความร่วมมือ โครงการร่วมแบรนด์และแบรนด์ส่วนตัว หรือกองเรือมืออาชีพ ผู้ผลิตบอร์ด SUP แบบสูบลมและเรือพอง เราตอบกลับภายใน 2 วันทำการ'
   keywords:
-    - 'ติดต่อ afarer'
+    - 'ติดต่อ olagoon'
     - 'ข้อเสนอ SUP สำหรับตัวแทนจำหน่าย'
     - 'ผู้จัดจำหน่าย SUP มืออาชีพ'
     - 'ติดต่อผู้ผลิต SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: ส่งข้อความถึงเรา
   subtitle: สำหรับใบเสนอราคา คำถามทางเทคนิค หรือสอบถามความร่วมมือ กรุณาส่งข้อความถึงเรา เราจะตอบกลับภายในหนึ่งวันทำการ
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: ส่งคำถาม → ขอใบเสนอราคา
   success_message: ขอบคุณ! ข้อความของคุณถึงกล่องจดหมายของเราแล้ว เราจะตอบกลับภายในหนึ่งวันทำการ
   error_message: เกิดข้อผิดพลาดในการส่งข้อความของคุณ กรุณาลองอีกครั้งหรือส่งอีเมลถึงเราโดยตรง
@@ -133,7 +133,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: อีเมล
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: สำนักงานใหญ่
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

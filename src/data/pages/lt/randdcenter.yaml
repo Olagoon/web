@@ -8,7 +8,7 @@ hero:
   subtitle: 'Sutelktas į pažangą'
 
 intro:
-  - 'afarer Mokslinių tyrimų ir plėtros (R&D) centras yra varomoji jėga už mūsų misijos revoliucionizuoti vandens sporto įrangą. Mes suteikiame galimybę vandens sporto entuziastams visame pasaulyje naudotis saugesniais, patogesniais ir malonesniais produktais per atkaklų inovacijas pripučiamose stovėjimo irklentėse (SUP). Mūsų skirta inžinierių, dizainerių ir aistringų vandens sporto ekspertų komanda formuoja pramonės ateitį, nuolat keldama kokybės, našumo ir tvarumo kartelę.'
+  - 'olagoon Mokslinių tyrimų ir plėtros (R&D) centras yra varomoji jėga už mūsų misijos revoliucionizuoti vandens sporto įrangą. Mes suteikiame galimybę vandens sporto entuziastams visame pasaulyje naudotis saugesniais, patogesniais ir malonesniais produktais per atkaklų inovacijas pripučiamose stovėjimo irklentėse (SUP). Mūsų skirta inžinierių, dizainerių ir aistringų vandens sporto ekspertų komanda formuoja pramonės ateitį, nuolat keldama kokybės, našumo ir tvarumo kartelę.'
   - 'Mūsų R&D įrenginys vienoje vietoje sujungia medžiagotyrininkus, jūrų inžinierius ir gamybos inžinierius. Nuo audinio formuliavimo ir korpuso modeliavimo iki suvirinimo proceso kūrimo ir viso dydžio jūros bandymų, kiekvieną produkto vystymo etapą skatina duomenys ir patvirtina testavimas.'
 
 mission:
@@ -98,33 +98,33 @@ rd_services:
 vision:
   tagline: 'Mūsų vizija'
   title: 'Formuojanti vandens sporto ateitį'
-  body: 'afarer siekia pirmauti pripučiamų SUP pramonėje per nuolatines inovacijas, nepajudinamą kokybę ir tvirtą įsipareigojimą saugai ir tvarumui — galiausiai praturtindamas vandens sporto entuziastų patirtis visame pasaulyje. afarer R&D centras yra vieta, kur aistra susitinka su inovacijomis, nustatant naujus vandens sporto pramonės standartus.'
+  body: 'olagoon siekia pirmauti pripučiamų SUP pramonėje per nuolatines inovacijas, nepajudinamą kokybę ir tvirtą įsipareigojimą saugai ir tvarumui — galiausiai praturtindamas vandens sporto entuziastų patirtis visame pasaulyje. olagoon R&D centras yra vieta, kur aistra susitinka su inovacijomis, nustatant naujus vandens sporto pramonės standartus.'
 
 labs_section:
   tagline: 'Laboratorijos'
   title: 'Mūsų laboratorijos'
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: 'PVC audinių laboratorija'
       description: 'Nuolatiniai PVC denų audinių tyrimai ir testavimas dėl tempimo stiprio, UV atsparumo, abrazyvo ir žemos temperatūros lankstumo, siekiant užtikrinti ilgalaikį patikimumą jūrinėse aplinkose.'
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Korpusų inžinerijos studija'
       description: 'CAD grindžiamas dizainas ir baigtinių elementų analizė HDPE, aliuminio ir stiklo pluošto korpusams. Kiekvienas korpusas skaitmeniškai modeliuojamas dėl įtempimų pasiskirstymo ir smūgio atsparumo, kol statomas pirmasis prototipas.'
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'RF suvirinimo centras'
       description: 'Specializuota radijo dažnio suvirinimo įstaiga su precizine temperatūros ir slėgio kontrole, gaminanti didelio stiprio, oro nepraleidžiančias siūles, atitinkančias jūrų pramonės standartus pripučiamiems laivams.'
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Hidrodinaminis testų baseinas'
       description: 'Mažo modelio testavimas mūsų vidiniame testų baseine, siekiant optimizuoti korpuso formą, planavimo našumą, stabilumą ir kuro efektyvumą įvairioms apkrovos ir jūros sąlygoms.'
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Prototipų dirbtuvės'
       description: 'Viso dydžio prototipų ir aprūpinimo įstaiga, kurioje nauji modeliai statomi, įrengiami ir bandomi jūroje. Kiekvienas prototipas atlieka mažiausiai 20 valandų vandenyje testų programą prieš gamybos patvirtinimą.'
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: 'Kokybės ir patikros laboratorija'
       description: 'Specializuota kokybės užtikrinimo laboratorija, atliekanti tempimo testus, oro sulaikymo ciklus, siūlių atplyšimo testus ir medžiagų sertifikavimą, kad kiekviena lenta, paliekanti dirbtuves, atitiktų mūsų paskelbtas specifikacijas.'
       href: /randdcenter/quality-inspection-lab/

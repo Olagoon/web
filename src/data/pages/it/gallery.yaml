@@ -1,6 +1,6 @@
 meta:
   title: 'Galleria — SUP Gonfiabili | {SITE}'
-  description: 'Esplora la galleria afarer: foto di tavole SUP gonfiabili, fabbrica e produzione dalla nostra fabbrica professionale di paddle board.'
+  description: 'Esplora la galleria olagoon: foto di tavole SUP gonfiabili, fabbrica e produzione dalla nostra fabbrica professionale di paddle board.'
   keywords:
     - 'foto SUP'
     - 'galleria SUP gonfiabile'
@@ -14,16 +14,16 @@ albums:
   - title: Tavole SUP
     desc: Tavole SUP gonfiabili drop-stitch per touring, surf, yoga e pesca.
     images:
-      - https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      - https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-      - https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp
+      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+      - https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp
   - title: Fabbrica e Officina
     desc: Il nostro stabilimento di produzione di 12.000 m² a Qingdao, in Cina.
     images:
-      - https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 cta:
   title: Vuoi vedere di più?
   desc: Seguici sui social media per le ultime novità sui prodotti, aggiornamenti dalla fabbrica e avventure dei clienti.

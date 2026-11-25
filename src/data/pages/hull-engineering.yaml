@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 02'
   title: 'Hull Engineering Studio'
   subtitle: 'Digital simulation, structural intelligence, custom hull design'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Afarer hull engineering CAD design workstation'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'OLagoon hull engineering CAD design workstation'
 
-intro: 'The hull is the backbone of any inflatable SUP. It must be light enough to glide efficiently, strong enough to handle rocky shorelines, and rigid enough to convert every paddle stroke into forward motion. At Afarer, our Hull Engineering Studio combines advanced CAD modelling, finite element analysis (FEA), and decades of practical board-design experience to deliver hulls that are optimised for their intended discipline — not generic shapes adapted from a catalogue.'
+intro: 'The hull is the backbone of any inflatable SUP. It must be light enough to glide efficiently, strong enough to handle rocky shorelines, and rigid enough to convert every paddle stroke into forward motion. At OLagoon, our Hull Engineering Studio combines advanced CAD modelling, finite element analysis (FEA), and decades of practical board-design experience to deliver hulls that are optimised for their intended discipline — not generic shapes adapted from a catalogue.'
 
 content_html: |
   <h2>Where strength meets hydrodynamics</h2>

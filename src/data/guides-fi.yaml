@@ -19,7 +19,7 @@
     - q: Täytettävä vai kova SUP-lauta?
       a: Täytettävät laudat tarjoavat kannettavuuden, helpon säilytyksen ja iskunvaimennuksen. Kovat laudat tarjoavat maksimaalisen jäykkyyden ja nopeuden. Useimmille virkistyskäyttäjille laadukas drop-stitch-ytimellä varustettu täytettävä on käytännöllisin valinta.
     - q: Moneen PSI:iin minun pitäisi täyttää?
-      a: afarer-laudat suosittelevat 12-15 PSI:a. 15 PSI:ssa lautta saavuttaa kovaa lautaa vastaavan enimmäisjäykkyyden. Pysy aina laudaan painetun arvoalueen sisällä.
+      a: olagoon-laudat suosittelevat 12-15 PSI:a. 15 PSI:ssa lautta saavuttaa kovaa lautaa vastaavan enimmäisjäykkyyden. Pysy aina laudaan painetun arvoalueen sisällä.
   relatedProducts: []
   relatedGuides:
     - beginner-guide
@@ -208,7 +208,7 @@
     - q: Voinko pitää SUP-lautani täytettynä koko kauden?
       a: Voit, mutta pidä se poissa suorasta auringonvalosta, kun et käytä sitä. Osittainen tyhjennys (8-10 PSI) on suositeltavaa pitkään säilytykseen.
     - q: Miten korjaan reiän?
-      a: Puhdista alue, leikkaa paikka pyöristetyin kulmin, levitä liimaa, paina lujasti ja odota 24 tuntia ennen täyttöä. afarer-laudat toimitetaan korjaussarjan kanssa.
+      a: Puhdista alue, leikkaa paikka pyöristetyin kulmin, levitä liimaa, paina lujasti ja odota 24 tuntia ennen täyttöä. olagoon-laudat toimitetaan korjaussarjan kanssa.
     - q: Kuinka usein venttiili tulisi tarkistaa?
       a: Kuukausittain. Venttiili on yleisin vauriokohta. Varmista, että venttiilin nasta liikkuu vapaasti ja O-rengas on ehjä.
   relatedProducts: []
@@ -703,7 +703,7 @@
   description: Miten matkustat täytettävän SUP:n kanssa lentokoneella, autolla tai asuntoautolla. Vinkkejä lentoyhtiömaksuihin, pakkaukseen, täyttämiseen matkakohteessa ja kansainvälisiin matkahuomioihin.
   tldr: Tyhjennä, rullaa ja pakkaa SUP reppuunsa. Useimmat lentoyhtiöt hyväksyvät sen kirjattuna matkatavarana (alle 50 paunaa / 50 lineaarituumaa). Pakkaa aina pumppu ja mela samaan reppuun. Saavu ajoissa, jotta sinulla on ylimääräistä aikaa, jos tiskin henkilökunta kyseenalaistaa repun koon. Harkitse etukäteislähetystä pitkille matkoille.
   problem: SUP:n kanssa matkustaminen vaikuttaa monimutkaiselta — lentoyhtiöiden kokorajat, turvatarkastukset ja täyttäminen syrjäisessä kohteessa luovat epävarmuutta.
-  solution: afarerin SUP-reput on suunniteltu täyttämään lentoyhtiöiden kirjatun matkatavaran rajat. Pakkaa strategisesti, ota mukaan korjaussarja ja tutki täyttöpaikat (venesatamat, sähköllä varustetut leirintäalueet) ennen lähtöä.
+  solution: olagoonin SUP-reput on suunniteltu täyttämään lentoyhtiöiden kirjatun matkatavaran rajat. Pakkaa strategisesti, ota mukaan korjaussarja ja tutki täyttöpaikat (venesatamat, sähköllä varustetut leirintäalueet) ennen lähtöä.
   audience: Melojat, jotka suunnittelevat SUP-matkaa lentäen, autolla tai asuntoautolla.
   steps:
     - Tyhjennä lautta kokonaan ja rullaa se keulasta perään
@@ -736,7 +736,7 @@
   description: Opas täytettävien SUP:den valintaan suuremmille melojille (200-400 paunaa). Leveys-, pituus-, tilavuus- ja kantokykysuositukset isoille ja pitkille melojille.
   tldr: Suuret melojat tarvitsevat leveämpiä lauttoja (34-36"), pidempiä pituuksia (11'6"-12') ja suuremman kantokyvyn (300-400 paunaa). Etsi sotilasluokan PVC:tä, vahvistettua drop-stitchiä ja kaksikerrosrakennetta. Vältä kapeita lauttoja alle 32" riippumatta pituudesta.
   problem: Vakio-SUP:den kantokyvyt ovat 200-250 paunaa, mikä sulkee monet melojat ulkopuolelle. Liian pienellä laudalla melominen on epämukavaa, epävakaata ja mahdollisesti vaarallista.
-  solution: Valitse laudat, joiden luokitus on yli 300 paunaa, ja lisäleveys vakan vuoksi. afarerin Tropical Breeze ja Leviathan Wake -sarjat tarjoavat tilavuuden ja vahvistuksen, jotka suuret melojat tarvitsevat.
+  solution: Valitse laudat, joiden luokitus on yli 300 paunaa, ja lisäleveys vakan vuoksi. olagoonin Tropical Breeze ja Leviathan Wake -sarjat tarjoavat tilavuuden ja vahvistuksen, jotka suuret melojat tarvitsevat.
   audience: Yli 200 paunan melojat, jotka tarvitsevat laudan, joka kantaa painon turvallisesti.
   steps:
     - 'Laske kokonaiskuorma — kehonpaino + varusteet + 20 %:n turvamarginaali'
@@ -835,7 +835,7 @@
   description: Miten valitset retkeily-SUP:n pitkän matkan melontaan — runkomuotoilu, pituus, leveys, suunnanpito ja varustesuositukset usean päivän retkiä varten.
   tldr: Retkeily-SUP:t tarvitsevat pidemmät rungot (12-14'), tehokkaan liukuvuuden uppoamakeulan ja maltillisen leveyden (30-32") suunnanpitoa varten. Etsi kuminauhakiinnikkeitä, useita D-renkaita ja korkean PSI:n drop-stitchiä. Retkeilyyn suunniteltu mela, jossa on pienempi lappe, vähentää väsymystä pitkinä päivinä.
   problem: Lyhyen yleislaudan käyttö retkeilyyn johtaa hitaaseen nopeuteen, huonoon suunnanpitoon ja aikaiseen väsymykseen. Matkamelonta vaatii erikoistunutta runkomuotoilua.
-  solution: Valitse lautta, joka on 12 jalkaa tai pidempi, ja jossa on uppoamakeula. afarerin Ocean Pulse ja Ocean Voyager tarjoavat retkeilyyn tarvittavan runkomuodon ja kuminauhakiinnikkeet retkimelontaan.
+  solution: Valitse lautta, joka on 12 jalkaa tai pidempi, ja jossa on uppoamakeula. olagoonin Ocean Pulse ja Ocean Voyager tarjoavat retkeilyyn tarvittavan runkomuodon ja kuminauhakiinnikkeet retkimelontaan.
   audience: Melojat, jotka suunnittelevat päiväretkiä, usean päivän retkiä tai kuntoilumatkamelontaa.
   steps:
     - 'Valitse 12-14 jalkaa pitkä lautta tehokkaan liukuvuuden ja suunnanpidon vuoksi'

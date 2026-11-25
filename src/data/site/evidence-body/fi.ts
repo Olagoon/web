@@ -129,7 +129,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Fortune 500 -teknologiayhtiö halusi käynnistää vesipohjaisen hyvinvointiohjelman työntekijöille 4 järvenrantakampuksella: 60 SUP:aa yritysbrändäyksellä, säilytysratkaisuilla ja ohjaajakoulutuksella.',
     solution:
-      'Toimitimme vakaista all-around-SUP-laudoista koostuvan kaluston yrityksen logolla varustetuilla kantografiikoilla. Suunnittelimme säänkestävät säilytystelineet paikan päälle. Sertifioimme 12 sisäistä ohjaajaa afarer-koulutusohjelman kautta.',
+      'Toimitimme vakaista all-around-SUP-laudoista koostuvan kaluston yrityksen logolla varustetuilla kantografiikoilla. Suunnittelimme säänkestävät säilytystelineet paikan päälle. Sertifioimme 12 sisäistä ohjaajaa olagoon-koulutusohjelman kautta.',
     result:
       'Ohjelma käynnistettiin 4 toimipisteessä. 2,400+ työntekijän osallistumista ensimmäisenä vuonna. 94%:n työntekijätyytyväisyys. Esillä yhtiön vastuullisuusraportissa.',
     outcomeMetrics: [
@@ -381,7 +381,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Koko tuotesarja — SUP ja tarvikkeet',
     industry: 'Jakelu / Merenkulku',
     challenge:
-      'GCC-pohjainen jakelija halusi yksinoikeudet koko Afarer-tuotesarjaan 6 Persianlahden maassa: arabiankielinen pakkaus, lämmönkestävät materiaalimääritelmät ja šarian mukaiset takuuehdot.',
+      'GCC-pohjainen jakelija halusi yksinoikeudet koko OLagoon-tuotesarjaan 6 Persianlahden maassa: arabiankielinen pakkaus, lämmönkestävät materiaalimääritelmät ja šarian mukaiset takuuehdot.',
     solution:
       'Sovimme eksklusiivisesta jakelusopimuksesta. Kehitimme arabiankieliset pakkaukset ja markkinointimateriaalit. Varmensimme materiaalimääritykset 50°C:n ympäristölämpötilassa. Mukautimme takuuehdot alueellista vaatimustenmukaisuutta varten.',
     result:

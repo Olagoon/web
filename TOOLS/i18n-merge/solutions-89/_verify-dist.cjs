@@ -47,8 +47,8 @@ for (const l of L) {
       continue;
     }
     const m = getMeta(fs.readFileSync(p, 'utf8'));
-    const enT = en[s].title.replace('{SITE}', 'Afarer');
-    const enD = en[s].description.replace('{SITE}', 'Afarer');
+    const enT = en[s].title.replace('{SITE}', 'OLagoon');
+    const enD = en[s].description.replace('{SITE}', 'OLagoon');
     if (m.title === enT || m.desc === enD || !m.title || !m.desc) {
       fail++;
       fails.push(`META ${l}/${s}`);

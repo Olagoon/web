@@ -1,14 +1,14 @@
 meta:
   title: 'SUP-i hulgilevituse partnerprogramm | {SITE}'
-  description: 'Liituge Afareri globaalse SUP-i hulgilevituse võrgustikuga. Eksklusiivsed territooriumid, täielik täispuhutavate SUP-ide tooteportfell, konkurentsivõimelised hulgihinnad ja pühendatud kontohaldus 50+ riigis.'
+  description: 'Liituge OLagooni globaalse SUP-i hulgilevituse võrgustikuga. Eksklusiivsed territooriumid, täielik täispuhutavate SUP-ide tooteportfell, konkurentsivõimelised hulgihinnad ja pühendatud kontohaldus 50+ riigis.'
 
 hero:
   tagline: 'Levitajad'
   title: 'Liituge meie globaalse<br />levitusvõrgustikuga'
-  subtitle: 'SUP-i hulgilevituse partnerprogramm koos eksklusiivsete territooriumide, täieliku täispuhutavate SUP-ide tooteportfelli ja maailmaklassi toega. Afarer saadab 50+ riiki — otsime asutatud mere- ja veespordi levitajaid.'
+  subtitle: 'SUP-i hulgilevituse partnerprogramm koos eksklusiivsete territooriumide, täieliku täispuhutavate SUP-ide tooteportfelli ja maailmaklassi toega. OLagoon saadab 50+ riiki — otsime asutatud mere- ja veespordi levitajaid.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'Afareri globaalne levitus ja saatmisoperatsioonid'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'OLagooni globaalne levitus ja saatmisoperatsioonid'
 
 benefits:
   title: 'Mida levitajad saavad'
@@ -27,7 +27,7 @@ benefits:
 
 coverage:
   title: 'Praegune levitus'
-  subtitle: 'Afarer teenindab hetkel neid turge otse.'
+  subtitle: 'OLagoon teenindab hetkel neid turge otse.'
   regions:
     - name: 'Euroopa'
       countries: 'Prantsusmaa, Saksamaa, Suurbritannia, Hispaania, Itaalia, Holland, Rootsi, Norra, Poola, Kreeka'

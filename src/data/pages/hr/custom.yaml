@@ -8,7 +8,7 @@ meta:
     - 'napuhiva sup daska s privatnom markom'
     - 'proizvodnja paddleboard dasaka'
 hero:
-  tagline: 'afarer Prilagođeni laboratorij'
+  tagline: 'olagoon Prilagođeni laboratorij'
   title: 'Dizajnirajte vlastitu<br />SUP dasku'
   subtitle: 'Partner za prilagođene SUP daske koji nudi proizvodnju daska s dvije marke, privatnom markom i po mjeri za tvrtke diljem svijeta. Od jednog prototipa do punih proizvodnih serija.'
   cta: 'Započnite svoj projekt'
@@ -69,7 +69,7 @@ capabilities_section:
       value: 'CE, UKCA, FCC (podrška za globalnu usklađenost)'
 
 why_section:
-  tagline: 'Zašto afarer'
+  tagline: 'Zašto olagoon'
   title: 'Jedna tvornica. Jedan standard. Nula kompromisa.'
   points:
     - text: 'Integrirani proizvodni objekt od 12,000 m²'

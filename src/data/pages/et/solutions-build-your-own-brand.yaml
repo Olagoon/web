@@ -1,13 +1,13 @@
 meta:
   title: 'Eramärgisega SUP-tootmine ja kohandatud brändi käivitamine | {SITE}'
-  description: 'Eramärgisega SUP-tootja uutele sõudelaua brändidele. Käivitage oma SUP-bränd Afareriga — täielik OEM/ODM teenus, sealhulgas disain, prototüübid, kohandatud bränding, tootmine ja globaalne logistika.'
+  description: 'Eramärgisega SUP-tootja uutele sõudelaua brändidele. Käivitage oma SUP-bränd OLagooniga — täielik OEM/ODM teenus, sealhulgas disain, prototüübid, kohandatud bränding, tootmine ja globaalne logistika.'
 
 hero:
   tagline: 'Ehita oma bränd'
   title: 'Käivitage oma<br />SUP-bränd'
   subtitle: 'Sul on visioon. Meil on tehas, ekspertiis ja tarneahel. Eramärgisega SUP-tootmine ja kohandatud SUP-brändi arendus — koos ehitame brändi, mis eristub.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Kohandatud brändinguga SUP-laud vees'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Prioriteetne tootmine'
 
 features:
-  title: 'Miks brändid valivad Afareri'
+  title: 'Miks brändid valivad OLagooni'
   subtitle: '10+ aastat OEM-kogemust, täielik sertifitseerimine ja madalaim MOQ tööstuses.'
   items:
     - title: '10+ aastat OEM-kogemust'

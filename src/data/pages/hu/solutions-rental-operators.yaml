@@ -1,13 +1,13 @@
 meta:
   title: 'SUP kölcsönzési felszerelés-beszállító és flottamegoldások | {SITE}'
-  description: 'SUP kölcsönzési felszerelés-beszállító kölcsönző üzemeltetőknek. Nagy forgalmú kereskedelmi SUP deszkák napi használatra tervezve — UV-álló PVC, megerősített varratok, gyorsan szárító anyagok. Növelje kölcsönzési vállalkozását az Afarerrel.'
+  description: 'SUP kölcsönzési felszerelés-beszállító kölcsönző üzemeltetőknek. Nagy forgalmú kereskedelmi SUP deszkák napi használatra tervezve — UV-álló PVC, megerősített varratok, gyorsan szárító anyagok. Növelje kölcsönzési vállalkozását az OLagoonrel.'
 
 hero:
   tagline: 'Kölcsönző üzemeltetők'
   title: 'Növelje kölcsönzési vállalkozását<br />bizalommal'
   subtitle: 'SUP kölcsönzési felszerelés-beszállító kölcsönző üzemeltetőknek. Nagy forgalmú SUP deszkák, amelyeket napi kölcsönzési használatra terveztek, év 365 napján. Az Ön bevétele sosem tart pihenőnapot.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Forgalmas kölcsönző pavilon vendégre váró SUP deszkákkal'
 
 features:

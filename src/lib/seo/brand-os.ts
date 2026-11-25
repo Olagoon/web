@@ -64,7 +64,7 @@ export interface EngineStatus {
 }
 
 export const BRAND: BrandIdentity = {
-  name: 'afarer',
+  name: 'olagoon',
   tagline: 'Inflatable Watercraft Manufacturer — OEM/ODM Factory',
   taglineShort: 'Inflatable Watercraft Factory',
   description: 'China-based manufacturer of CE-certified SUPs and marine safety equipment since 2012.',
@@ -101,7 +101,7 @@ export const BRAND: BrandIdentity = {
     },
   ],
   brandStory:
-    'Founded in 2012 in Qingdao, China, afarer began as a specialized inflatable workshop serving local marine operators. Over a decade of engineering refinement, we grew into a 12,000 m² facility producing CE-certified SUPs and marine safety equipment for 40+ countries. Our R&D center drives innovation in drop-stitch construction and PVC formulation — bridging the gap between custom OEM manufacturing and commercial-grade reliability.',
+    'Founded in 2012 in Qingdao, China, olagoon began as a specialized inflatable workshop serving local marine operators. Over a decade of engineering refinement, we grew into a 12,000 m² facility producing CE-certified SUPs and marine safety equipment for 40+ countries. Our R&D center drives innovation in drop-stitch construction and PVC formulation — bridging the gap between custom OEM manufacturing and commercial-grade reliability.',
   milestones: [
     {
       year: 2012,
@@ -225,10 +225,10 @@ const CTA_RULES: Array<{
     keywords: ['safety', 'protection', 'life vest', 'marine safety'],
   },
   {
-    match: (s) => ['why-afarer', 'manufacturing-process', 'factory-tour', 'quality-control'].some((k) => s.includes(k)),
+    match: (s) => ['why-olagoon', 'manufacturing-process', 'factory-tour', 'quality-control'].some((k) => s.includes(k)),
     cta: { text: 'Visit our factory', link: '/factory', reason: 'Brand content — manufacturing hub' },
     products: ['sup-explorer-11', 'life-vest-pro'],
-    keywords: ['afarer', 'manufacturer', 'factory', 'OEM'],
+    keywords: ['olagoon', 'manufacturer', 'factory', 'OEM'],
   },
 ];
 

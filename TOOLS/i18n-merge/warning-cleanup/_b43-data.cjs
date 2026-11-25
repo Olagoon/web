@@ -36,7 +36,7 @@ module.exports = {
       'Nopeasti käyttöönotettavat ilmatäytteiset alukset tulvapelastukseen, humanitaarisen avun toimittamiseen ja ensivasteeseen.',
     ],
     ['useCase.fishing', 'Kalastus'],
-    ['useCase.hubDesc', 'Aloittelijoista ammattilaisiin — afarer varustaa jokaisen vesiseikkailun.'],
+    ['useCase.hubDesc', 'Aloittelijoista ammattilaisiin — olagoon varustaa jokaisen vesiseikkailun.'],
     ['useCase.hubTitle', 'Sovellukset ja käyttötapaukset'],
     ['useCase.maritimeSafety', 'Meriturvallisuus ja puolustus'],
     [
@@ -153,7 +153,7 @@ module.exports = {
     ],
     [
       'people.heroDesc',
-      'Jokaisen afarer-tuotteen takana on kokeneiden ammattilaisten tiimi insinöörityöstä ja valmistuksesta laadunvalvontaan, suunnitteluun ja asiakastukeen.',
+      'Jokaisen olagoon-tuotteen takana on kokeneiden ammattilaisten tiimi insinöörityöstä ja valmistuksesta laadunvalvontaan, suunnitteluun ja asiakastukeen.',
     ],
     ['people.joinCta', 'Katso avoimet työpaikat'],
     ['people.joinDesc', 'Etsimme jatkuvasti lahjakkaita ihmisiä, jotka palavat merivalmistuksen puolesta.'],
@@ -171,7 +171,7 @@ module.exports = {
     ],
     [
       'people.subtitle',
-      'Tutustu afarerin taustalla toimivaan tiimiin — insinööreihin, suunnittelijoihin, laatuasiantuntijoihin ja tukiammattilaisiin.',
+      'Tutustu olagoonin taustalla toimivaan tiimiin — insinööreihin, suunnittelijoihin, laatuasiantuntijoihin ja tukiammattilaisiin.',
     ],
     ['people.title', 'Tiimimme'],
     ['engineeringTeam.title', 'Insinööri- ja R&D-tiimi — Puhallettavien veneiden suunnittelu ja valmistus'],
@@ -225,7 +225,7 @@ module.exports = {
     ['techspecs.paramWeight', 'Paino'],
     [
       'techspecs.subtitle',
-      'Yksityiskohtaiset mitat, materiaalit, kapasiteetit ja suorituskykytiedot kaikista afarer-tuotteista.',
+      'Yksityiskohtaiset mitat, materiaalit, kapasiteetit ja suorituskykytiedot kaikista olagoon-tuotteista.',
     ],
     ['techspecs.sup', 'SUP-laudat'],
     ['techspecs.supDesc', 'Suurpaineiset, jäykät drop-stitch-ilmatäytteiset SUP-laudat.'],

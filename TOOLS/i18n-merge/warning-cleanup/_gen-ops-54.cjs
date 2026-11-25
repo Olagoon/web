@@ -3,7 +3,7 @@
 //      in 13 locales (ru,pl,ar,nl,sv,no,el,tr,fi,cs,da,ro,th) — translate from each locale's own page
 //      titles + dict vocab (groundings in _b54-data.cjs header).
 //   2. 5 nav keys referenced by Header/Footer label->key maps but ABSENT from the dict in ALL 21
-//      locales (brandWhyAfarer, inflatableSup, b2bSolutionsMatrix, solutionsResortsHotels,
+//      locales (brandWhyOLagoon, inflatableSup, b2bSolutionsMatrix, solutionsResortsHotels,
 //      solutionsOemBrands) — t() falls back to the raw EN label in every locale. Add keys everywhere.
 //   3. nav.resourcesJournal holds EN "Journal" in 10 locales — set each locale's own nav.journal value.
 //   4. 16 scattered residues (da guides family, sv/da designPowerhouse, pt/tr r8a/r8b price format,
@@ -20,10 +20,10 @@
 // 287 changed/new key-lines).
 const fs = require('fs');
 
-const REPO = 'E:/github/afarer';
+const REPO = 'E:/github/olagoon';
 const prettier = require(REPO + '/node_modules/prettier');
 
-const DIR = 'E:/github/afarer/TOOLS/i18n-merge/warning-cleanup';
+const DIR = 'E:/github/olagoon/TOOLS/i18n-merge/warning-cleanup';
 const OPS_PATH = DIR + '/_ops-data-54.cjs';
 if (fs.existsSync(OPS_PATH) && !process.argv.includes('--force')) {
   throw new Error('_ops-data-54.cjs already exists — delete it first (generator runs on pre-patch state only)');

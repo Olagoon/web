@@ -30,8 +30,8 @@
 // Output: _ops-data-49.cjs (39 ops = 19x2 block ops + 1 fr line op). See TECH.md L39.
 const fs = require('fs');
 
-const REPO = 'E:/github/afarer';
-const DIR = 'E:/github/afarer/TOOLS/i18n-merge/warning-cleanup';
+const REPO = 'E:/github/olagoon';
+const DIR = 'E:/github/olagoon/TOOLS/i18n-merge/warning-cleanup';
 const yaml = require(REPO + '/node_modules/js-yaml');
 const prettier = require(REPO + '/node_modules/prettier');
 
@@ -96,7 +96,7 @@ const V0 = {
   metaDesc:
     'Complete SUP fleet programs for paddle clubs. Start-up packages, professional fleets, competition boards, custom branding, and replacement parts support.',
   heroTagline: 'Paddle Clubs',
-  heroTitle: 'Build Your Paddle Club<br />With Afarer',
+  heroTitle: 'Build Your Paddle Club<br />With OLagoon',
   heroSubtitle:
     'Everything you need to launch, run, and grow a successful paddle club — from equipment to training to replacement parts.',
   p0Name: 'Start-Up Package',

@@ -1,12 +1,12 @@
 meta:
   title: Fabricação de SUP de Marca Própria | {SITE}
-  description: Lance sua própria marca de SUP com a Afarer. Da ideia ao mercado — serviço completo de OEM/ODM incluindo design, prototipagem, produção e logística global.
+  description: Lance sua própria marca de SUP com a OLagoon. Da ideia ao mercado — serviço completo de OEM/ODM incluindo design, prototipagem, produção e logística global.
 hero:
   tagline: Construa Sua Própria Marca
   title: Lance Sua Própria<br />Marca de SUP
   subtitle: Você tem a visão. Nós temos a fábrica, a experiência e a cadeia de suprimentos. Juntos, construiremos uma marca que se destaca.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Prancha de SUP personalizada com marca na água
 process:
   title: A Jornada da Sua Marca
@@ -77,7 +77,7 @@ packages:
         - Materiais de marketing
         - Produção prioritária
 features:
-  title: Por Que as Marcas Escolhem a Afarer
+  title: Por Que as Marcas Escolhem a OLagoon
   subtitle: 10 anos de experiência em OEM, certificação completa e o menor MOQ do setor.
   items:
     - title: 10 Anos de Experiência como OEM

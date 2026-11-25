@@ -1,18 +1,18 @@
 meta:
   title: 'מטריצת פתרונות ללקוחות B2B | {SITE}'
-  description: 'מטריצת הפתרונות המלאה של Afarer ללקוחות B2B המקיפה 24 סוגי לקוחות — מסטארטאפים בתחום האאוטדור ועד מוסדות לשמירה על הסביבה הימית.'
+  description: 'מטריצת הפתרונות המלאה של OLagoon ללקוחות B2B המקיפה 24 סוגי לקוחות — מסטארטאפים בתחום האאוטדור ועד מוסדות לשמירה על הסביבה הימית.'
 
 hero:
   tagline: 'פתרונות B2B ללקוחות'
   title: '24 פתרונות B2B<br />מותאמים לעסק שלכם'
-  subtitle: 'ממייסדי סטארטאפים ועד מפיצים גלובליים — מצאו את פתרון Afarer המדויק שתוכנן עבור מודל העסקי, הענף והיעדים שלכם.'
+  subtitle: 'ממייסדי סטארטאפים ועד מפיצים גלובליים — מצאו את פתרון OLagoon המדויק שתוכנן עבור מודל העסקי, הענף והיעדים שלכם.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'מפעל Afarer ומתקן הייצור'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'מפעל OLagoon ומתקן הייצור'
 
 solutions:
   title: 'מטריצת פתרונות ללקוחות'
-  subtitle: 'כל סוג לקוח, הצורך המרכזי שלו, ועמוד פתרון Afarer שתוכנן עבורו.'
+  subtitle: 'כל סוג לקוח, הצורך המרכזי שלו, ועמוד פתרון OLagoon שתוכנן עבורו.'
   items:
     - clientType: 'מייסד סטארטאפ בתחום האאוטדור'
       need: 'יצירת מותג'

@@ -1,6 +1,6 @@
 // Correct cross-audit: manifest routes vs sitemap, proper root<->en normalization
 const fs = require('fs');
-const manifest = JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/route-manifest.json', 'utf8'));
+const manifest = JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/route-manifest.json', 'utf8'));
 const smRaw = fs.readFileSync('C:/Users/Helleo/AppData/Local/Temp/deveco/sitemisc_work/sitemap0.xml', 'utf8');
 const smUrls = [...smRaw.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
 
@@ -39,7 +39,7 @@ const LOCALES = new Set([
   'tl',
 ]);
 
-const smRaw2 = new Set(smUrls.map((u) => u.replace(/^https:\/\/afarer\.com/, '').replace(/\/+$/, '') || '/'));
+const smRaw2 = new Set(smUrls.map((u) => u.replace(/^https:\/\/olagoon\.com/, '').replace(/\/+$/, '') || '/'));
 // sitemap forms index: for coverage checks we accept exact form or equivalent form
 const covered = (r) => {
   if (smRaw2.has(r)) return true;
@@ -60,8 +60,8 @@ const EXCLUDED = [
   '/geo-report',
   '/404',
   '/500',
-  '/about/afarer',
-  '/aquafarer',
+  '/about/olagoon',
+  '/olagoon',
   '/brand-story',
   '/oem-process',
   '/oem-odm',

@@ -5,7 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOTS = ['E:/github/afarer/src/components', 'E:/github/afarer/src/layouts'];
+const ROOTS = ['E:/github/olagoon/src/components', 'E:/github/olagoon/src/layouts'];
 let hits = 0;
 
 function walk(dir) {
@@ -37,7 +37,7 @@ function scan(fp) {
 }
 
 function rel(fp) {
-  return fp.replace(/\\/g, '/').replace('E:/github/afarer/', '');
+  return fp.replace(/\\/g, '/').replace('E:/github/olagoon/', '');
 }
 
 for (const r of ROOTS) walk(r);

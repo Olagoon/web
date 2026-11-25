@@ -9,7 +9,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const ops = [];
 
 function must(cond, msg) {
@@ -73,7 +73,7 @@ uiLines.forEach((l, i) => {
   }
 });
 must(mgmtIdxs.length === 2, 'el+fi mgmt lines count, got ' + mgmtIdxs.length);
-const mgmtIdx = mgmtIdxs.find((i) => uiLines[i + 5].includes('"people.subtitle": "Meet the team behind afarer'));
+const mgmtIdx = mgmtIdxs.find((i) => uiLines[i + 5].includes('"people.subtitle": "Meet the team behind olagoon'));
 must(mgmtIdx !== undefined, 'fi anchor: no mgmt line followed by EN subtitle');
 const fiMgmtSeq = uiLines.slice(mgmtIdx, mgmtIdx + 6).join('\n');
 must(count(uiRaw, fiMgmtSeq) === 1, 'fi 6-line anchor count');

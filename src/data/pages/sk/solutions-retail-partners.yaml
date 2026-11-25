@@ -5,10 +5,10 @@ meta:
 hero:
   tagline: 'Maloobchodní partneri'
   title: 'Predávajte prémiové nafukovacie dosky SUP<br />s maržami, ktoré fungujú'
-  subtitle: 'Staňte sa maloobchodným partnerom Afarer — ponúkajte najrýchlejšie rastúcu značku SUP na vašom trhu s plnými veľkoobchodnými cenami, dropshippingom, profesionálnymi marketingovými materiálmi a vyhradenou podporou.'
+  subtitle: 'Staňte sa maloobchodným partnerom OLagoon — ponúkajte najrýchlejšie rastúcu značku SUP na vašom trhu s plnými veľkoobchodnými cenami, dropshippingom, profesionálnymi marketingovými materiálmi a vyhradenou podporou.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Dosky SUP Afarer vystavené v maloobchodnom obchode'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Dosky SUP OLagoon vystavené v maloobchodnom obchode'
 
 margin_section:
   title: 'Maloobchodné marže a MOQ'
@@ -92,7 +92,7 @@ support:
     - 'Splatnosť 30 dní'
 
 cta:
-  title: 'Pripravení stať sa maloobchodným partnerom Afarer?'
+  title: 'Pripravení stať sa maloobchodným partnerom OLagoon?'
   subtitle: 'Požiadajte o partnerstvo alebo stiahnite náš maloobchodný katalóg a začnite.'
   actions:
     - text: 'Požiadať o partnerstvo'

@@ -4,7 +4,7 @@
 // " ${SITE.name}" suffix stripped. Validate via deterministic mapping, never a fuzzy match.
 const fs = require('fs');
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
-const OUT = 'E:/github/afarer/src/data/landing-i18n/privacy.json';
+const OUT = 'E:/github/olagoon/src/data/landing-i18n/privacy.json';
 const LOCALES = [
   'de',
   'pt',
@@ -45,7 +45,7 @@ for (const loc of LOCALES) {
   for (let i = 0; i < k.length; i++) if (k[i] !== ref[i]) throw new Error(loc + ': key mismatch at ' + k[i]);
 }
 const manifest = JSON.parse(
-  fs.readFileSync('E:/github/afarer/TOOLS/i18n-merge/landing-i18n/_landing-manifest.json', 'utf8')
+  fs.readFileSync('E:/github/olagoon/TOOLS/i18n-merge/landing-i18n/_landing-manifest.json', 'utf8')
 );
 const mEntries = manifest.pages['privacy.astro'];
 if (mEntries.length !== EXPECTED_KEYS) throw new Error('manifest key count ' + mEntries.length);

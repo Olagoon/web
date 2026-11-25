@@ -1,6 +1,6 @@
 meta:
   title: 'Pomorsko strokovno znanje — inženiring v vsakem trupu | {SITE}'
-  description: 'Desetletja pomorskega inženiringa v vsakem trupu. afarer obvlada drop-stitch, pomorski PVC in profesionalno oblikovanje napihljivih desk SUP.'
+  description: 'Desetletja pomorskega inženiringa v vsakem trupu. olagoon obvlada drop-stitch, pomorski PVC in profesionalno oblikovanje napihljivih desk SUP.'
   keywords:
     - 'pomorski inženiring'
     - 'proizvajalec napihljivih desk sup'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: 'Pomorsko strokovno znanje'
   title: 'Desetletja pomorskega inženiringa<br />v vsakem trupu'
-  subtitle: 'afarer združuje globoko znanost o materialih, natančno proizvodnjo in preizkušanje v resničnem svetu za ustvarjanje plovil, ki delujejo, ko je to pomembno.'
+  subtitle: 'olagoon združuje globoko znanost o materialih, natančno proizvodnjo in preizkušanje v resničnem svetu za ustvarjanje plovil, ki delujejo, ko je to pomembno.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: 'pomorski inženiring afarer in ekipa za R&D pri delu'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: 'pomorski inženiring olagoon in ekipa za R&D pri delu'
 expertise_materials:
   tagline: 'Znanost o materialih'
   title: 'Izbira pravega materiala<br />za vsako aplikacijo'

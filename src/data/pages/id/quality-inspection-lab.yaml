@@ -8,8 +8,8 @@ hero:
   tagline: 'Lab 06'
   title: 'Lab Kualitas & Inspeksi'
   subtitle: 'Verifikasi independen — setiap pengujian lulus sebelum pengiriman'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'Pengujian UV di laboratorium inspeksi kualitas Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'Pengujian UV di laboratorium inspeksi kualitas OLagoon'
 
 intro: 'Setiap papan yang keluar dari workshop kami membawa sertifikasi bahwa papan tersebut telah lulus serangkaian inspeksi kualitas dan pengujian material yang terdefinisi. Lab Kualitas & Inspeksi kami adalah fungsi independen dalam organisasi — melapor langsung kepada direktur utama, bukan kepada produksi — memastikan tidak ada tekanan komersial yang dapat mengorbankan gerbang inspeksi. Jika suatu batch material atau papan jadi tidak memenuhi spesifikasi yang dipublikasikan, lab memiliki wewenang untuk menghentikan pengiriman hingga ketidaksesuaian tersebut teratasi.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Komitmen kami kepada Anda</h2>
-  <p>Saat Anda menerima papan Afarer, Anda juga menerima dosir kualitasnya — catatan lengkap hasil pengujian yang berlaku untuk papan spesifik Anda. Sertifikat batch kain, uji kelupasan las, log uji udara ruang, dan daftar periksa inspeksi pra-pengiriman. Setiap angka dapat dilacak. Setiap inspektur teridentifikasi. Ini bukan sekadar dokumen — ini janji kami bahwa apa yang kami kirim adalah apa yang kami spesifikasikan.</p>
+  <p>Saat Anda menerima papan OLagoon, Anda juga menerima dosir kualitasnya — catatan lengkap hasil pengujian yang berlaku untuk papan spesifik Anda. Sertifikat batch kain, uji kelupasan las, log uji udara ruang, dan daftar periksa inspeksi pra-pengiriman. Setiap angka dapat dilacak. Setiap inspektur teridentifikasi. Ini bukan sekadar dokumen — ini janji kami bahwa apa yang kami kirim adalah apa yang kami spesifikasikan.</p>
   <p>Jika Anda pernah memiliki kekhawatiran kualitas, Anda dapat menghubungi lab secara langsung — detail kontaknya tercetak pada sertifikat kesesuaian Anda. Kami menanggapi setiap pertanyaan dengan serius dan berkomitmen melakukan investigasi formal dalam 48 jam.</p>
 
 cta:

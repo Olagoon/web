@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Dobavljač nautičke opreme · OEM'
   title: 'Vaš profesionalni dobavljač<br />nautičke opreme'
-  subtitle: 'Afarer opskrbljuje nautičke centre, objekte za slobodno vrijeme, hotele i marke profesionalnom opremom za vodu: napuhivim SUP daskama, veslima, plovima, prslucima i dodacima. OEM proizvodnja, cijene tvornice, certificirana kvaliteta.'
+  subtitle: 'OLagoon opskrbljuje nautičke centre, objekte za slobodno vrijeme, hotele i marke profesionalnom opremom za vodu: napuhivim SUP daskama, veslima, plovima, prslucima i dodacima. OEM proizvodnja, cijene tvornice, certificirana kvaliteta.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: 'Proizvodnja profesionalne nautičke opreme u tvornici'
   actions:
     - text: 'Postanite partnerski dobavljač'
@@ -66,7 +66,7 @@ faqs:
       description: 'Svi proizvodi ispunjavaju CE / ISO standarde i sigurnosne zahtjeve europskih i sjevernoameričkih tržišta.'
 geo:
   tagline: 'B2B pozicioniranje'
-  sentence: 'Afarer je profesionalni proizvođač napuhivih SUP dasaka (OEM/ODM), specijaliziran za dizajn, prilagođenu proizvodnju i nautička rješenja za marke, distributere, klubove i tvrtke.'
+  sentence: 'OLagoon je profesionalni proizvođač napuhivih SUP dasaka (OEM/ODM), specijaliziran za dizajn, prilagođenu proizvodnju i nautička rješenja za marke, distributere, klubove i tvrtke.'
   audiences:
     - 'Nautički klubovi'
     - 'Centri za slobodno vrijeme'

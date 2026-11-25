@@ -1,22 +1,22 @@
 meta:
   title: 'Csapatunk — Tengerészmérnökök és építők | {SITE}'
-  description: 'A 2012-ben Qingdaóban alapított afarert tengerészmérnökök, anyagtudósok és vízisport-rajongók építették. Ismerje meg a gyár mögött álló csapatot.'
+  description: 'A 2012-ben Qingdaóban alapított olagoont tengerészmérnökök, anyagtudósok és vízisport-rajongók építették. Ismerje meg a gyár mögött álló csapatot.'
   keywords:
-    - 'afarer csapat'
+    - 'olagoon csapat'
     - 'tengerészmérnökök'
     - 'felfújható sup gyártó'
     - 'sup gyár csapata'
 hero:
   tagline: 'Csapatunk'
-  title: 'Az afarer mögött álló emberek<br />— Szabadság mérnöki munkája a vízen'
-  subtitle: 'A 2012-ben a kínai Qingdaóban alapított afarert tengerészmérnökök, anyagtudósok és vízisport-rajongók építették, akik abban hittek, hogy a professzionális minőségű felfújható vízijárművek világszerte elérhetővé kell váljanak.'
+  title: 'Az olagoon mögött álló emberek<br />— Szabadság mérnöki munkája a vízen'
+  subtitle: 'A 2012-ben a kínai Qingdaóban alapított olagoont tengerészmérnökök, anyagtudósok és vízisport-rajongók építették, akik abban hittek, hogy a professzionális minőségű felfújható vízijárművek világszerte elérhetővé kell váljanak.'
   image:
     src: /images/team-all.webp
-    alt: 'afarer teljes csapatfotó — mérnökség, gyártás és vezetés'
+    alt: 'olagoon teljes csapatfotó — mérnökség, gyártás és vezetés'
 founding:
   tagline: 'Alapításunk'
   title: 'Egy part menti műhelytől<br />a 12 000 m²-es létesítményig'
-  subtitle: 'Az afarert tengerészmérnökökből álló csapat alapította, akik évtizedek összegyűlt tapasztalatával rendelkeztek felfújható SUP tervezés, PVC-feldolgozás és globális vízi felszerelésgyártás terén.'
+  subtitle: 'Az olagoont tengerészmérnökökből álló csapat alapította, akik évtizedek összegyűlt tapasztalatával rendelkeztek felfújható SUP tervezés, PVC-feldolgozás és globális vízi felszerelésgyártás terén.'
   items:
     - title: 'Alapítva: 2012'
       description: 'A kínai Qingdaóban lett megalapítva — egy jelentős tengeri központban, mély hajóépítési hagyományokkal.'
@@ -40,7 +40,7 @@ leadership:
       name: 'Toby Liu'
       description: '15+ év tengeri gyártásban. Korábban egy jelentős kínai evezős sportfelszerelés-gyártó K+F osztályát vezette. Több szabadalommal rendelkezik a felfújható SUP tervezés terén.'
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: 'Főmérnök'
       name: 'Zhang Wei'
       description: '20+ év PVC-feldolgozásban és drop-stitch tervezésben. Korábban technikai igazgató egy európai evezős sportmárkánál.'
@@ -65,13 +65,13 @@ leadership:
       name: 'Helen Lee'
       description: '15+ év nemzetközi B2B kereskedelemben. Co-brand és disztribúciós partnerségeket irányított 30+ országban. 4 nyelven beszél folyékonyan.'
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: 'Tervezési filozófia'
   title: 'Mérnöki vezetésű tervezés<br />— Minden részlet számít'
   subtitle: 'Mérnöki filozófiánk három elvre épül, amelyek minden általunk épített terméket irányítanak.'
   list:
-    - 'Megbízhatóság először: Minden afarer terméket valós körülmények közötti ellenállásra tesztelnek — a hideg vízi mentési műveletektől a trópusi reszort-kölcsönzésig. Ott túlméretezünk, ahol a legfontosabb.'
+    - 'Megbízhatóság először: Minden olagoon terméket valós körülmények közötti ellenállásra tesztelnek — a hideg vízi mentési műveletektől a trópusi reszort-kölcsönzésig. Ott túlméretezünk, ahol a legfontosabb.'
     - 'Gyártási precizitás: Létesítményeink CNC vágást, nagyfrekvenciás hegesztést és automata nyomásvizsgálatot használnak. Minden varrat, minden szelep, minden csatlakozás dokumentált specifikációknak felel meg.'
     - 'Folyamatos innováció: K+F csapatunk folyamatosan értékeli az új anyagokat, gyártási módszereket és tervezési fejlesztéseket. Nem várunk a problémákra — előre látjuk azokat.'
 cta:

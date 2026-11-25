@@ -1,6 +1,6 @@
 meta:
   title: 'Jūrinė kompetencija — inžinerija kiekviename korpuse | {SITE}'
-  description: 'Kelerios jūrinės inžinerijos dešimtmečiai kiekviename korpuse. afarer valdo „Drop-Stitch“, jūrinį PVC ir profesionalų pripučiamų SUP lentų dizainą.'
+  description: 'Kelerios jūrinės inžinerijos dešimtmečiai kiekviename korpuse. olagoon valdo „Drop-Stitch“, jūrinį PVC ir profesionalų pripučiamų SUP lentų dizainą.'
   keywords:
     - 'jūrinė inžinerija'
     - 'pripučiamų SUP gamintojas'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: 'Jūrinė kompetencija'
   title: 'Kelerių dešimtmečių jūrinės inžinerijos<br />patirtis kiekviename korpuse'
-  subtitle: 'afarer derina gilų medžiagų mokslą, precizinę gamybą ir realius bandymus, kad sukurtų vandens transporto priemones, veikiančias tada, kai to reikia.'
+  subtitle: 'olagoon derina gilų medžiagų mokslą, precizinę gamybą ir realius bandymus, kad sukurtų vandens transporto priemones, veikiančias tada, kai to reikia.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: 'afarer jūrinės inžinerijos ir tyrimų komanda darbe'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: 'olagoon jūrinės inžinerijos ir tyrimų komanda darbe'
 expertise_materials:
   tagline: 'Medžiagų mokslas'
   title: 'Teisingos medžiagos parinkimas<br />kiekvienam taikymui'

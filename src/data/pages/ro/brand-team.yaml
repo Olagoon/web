@@ -1,22 +1,22 @@
 meta:
   title: 'Echipa noastră — ingineri marini și constructori | {SITE}'
-  description: 'Fondat în 2012 la Qingdao, afarer a fost construit de ingineri marini, specialiști în materiale și pasionați de sporturi nautice. Cunoașteți echipa din spatele fabricii.'
+  description: 'Fondat în 2012 la Qingdao, olagoon a fost construit de ingineri marini, specialiști în materiale și pasionați de sporturi nautice. Cunoașteți echipa din spatele fabricii.'
   keywords:
-    - 'echipa afarer'
+    - 'echipa olagoon'
     - 'ingineri marini'
     - 'producător plăci de SUP gonflabile'
     - 'echipa fabricii SUP'
 hero:
   tagline: Echipa noastră
-  title: Oamenii din spatele afarer<br />— ingineria libertății pe apă
-  subtitle: Fondată în 2012 în Qingdao, China, afarer a fost construită de ingineri marini, oameni de știință în materiale și entuziaști ai sporturilor nautice care au crezut în a face plăcile inflabile de calitate profesională accesibile la nivel mondial.
+  title: Oamenii din spatele olagoon<br />— ingineria libertății pe apă
+  subtitle: Fondată în 2012 în Qingdao, China, olagoon a fost construită de ingineri marini, oameni de știință în materiale și entuziaști ai sporturilor nautice care au crezut în a face plăcile inflabile de calitate profesională accesibile la nivel mondial.
   image:
     src: /images/team-all.webp
-    alt: fotografia întregii echipe afarer — inginerie, producție și conducere
+    alt: fotografia întregii echipe olagoon — inginerie, producție și conducere
 founding:
   tagline: Începuturile noastre
   title: De la un atelier de coastă<br />la o facilitate de 12.000 m²
-  subtitle: afarer a fost fondată de o echipă de ingineri marini cu decenii de experiență combinată în proiectarea plăcilor SUP gonflabile, fabricarea PVC și fabricarea globală de echipamente marine.
+  subtitle: olagoon a fost fondată de o echipă de ingineri marini cu decenii de experiență combinată în proiectarea plăcilor SUP gonflabile, fabricarea PVC și fabricarea globală de echipamente marine.
   items:
     - title: 'Fondată: 2012'
       description: Fondată în Qingdao, China — un important hub maritim cu o moștenire profundă în construcții navale.
@@ -40,7 +40,7 @@ leadership:
       name: Toby Liu
       description: Peste 15 ani în producția nautică. Anterior a condus departamentul R&D la un mare producător chinez de sporturi cu vâsla. Deține mai multe brevete în designul plăcilor SUP gonflabile.
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: Inginer șef
       name: Zhang Wei
       description: Peste 20 de ani de experiență în fabricația din PVC și proiectarea drop-stitch. Fost director tehnic la o marcă europeană de sporturi cu vâsla.
@@ -65,13 +65,13 @@ leadership:
       name: Helen Lee
       description: Peste 15 ani în comerțul internațional B2B. Am gestionat parteneriate co-brand și de distribuție în peste 30 de țări. Fluent în 4 limbi.
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: Filosofia de design
   title: Design condus de inginerie<br />— fiecare detaliu contează
   subtitle: Filosofia noastră inginerească se concentrează pe trei principii care ghidează fiecare produs pe care îl construim.
   list:
-    - 'Fiabilitatea pe primul loc: fiecare produs afarer este testat să reziste în condiții reale — de la operațiuni de salvare în ape reci până la închirieri în stațiuni tropicale. Supradimensionăm exact acolo unde contează cel mai mult.'
+    - 'Fiabilitatea pe primul loc: fiecare produs olagoon este testat să reziste în condiții reale — de la operațiuni de salvare în ape reci până la închirieri în stațiuni tropicale. Supradimensionăm exact acolo unde contează cel mai mult.'
     - 'Precizie de fabricație: facilitățile noastre utilizează tăiere CNC, sudare de înaltă frecvență și testare automată a presiunii. Fiecare cusătură, fiecare valvă, fiecare racord respectă specificațiile documentate.'
     - 'Inovație continuă: echipa noastră de cercetare și dezvoltare evaluează constant materiale noi, metode de producție și îmbunătățiri de design. Nu așteptăm să apară problemele — le anticipăm.'
 cta:

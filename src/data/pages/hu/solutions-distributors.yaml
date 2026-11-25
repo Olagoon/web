@@ -1,14 +1,14 @@
 meta:
   title: 'SUP nagykereskedelmi disztribúciós partnerprogram | {SITE}'
-  description: 'Csatlakozzon az Afarer globális SUP nagykereskedelmi disztribúciós hálózatához. Kizárólagos területek, teljes felfújható SUP termékportfólió, versenyképes nagykereskedelmi árazás és dedikált ügyfélkezelés 50+ országban.'
+  description: 'Csatlakozzon az OLagoon globális SUP nagykereskedelmi disztribúciós hálózatához. Kizárólagos területek, teljes felfújható SUP termékportfólió, versenyképes nagykereskedelmi árazás és dedikált ügyfélkezelés 50+ országban.'
 
 hero:
   tagline: 'Forgalmazók'
   title: 'Csatlakozzon globális<br />disztribúciós hálózatunkhoz'
-  subtitle: 'SUP nagykereskedelmi disztribúciós partnerprogram kizárólagos területekkel, teljes felfújható SUP termékportfólióval és világosszínvonalú támogatással. Az Afarer 50+ országba szállít — bevált vízi és vízisport-forgalmazókat keresünk.'
+  subtitle: 'SUP nagykereskedelmi disztribúciós partnerprogram kizárólagos területekkel, teljes felfújható SUP termékportfólióval és világosszínvonalú támogatással. Az OLagoon 50+ országba szállít — bevált vízi és vízisport-forgalmazókat keresünk.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'Afarer globális disztribúciós és szállítási műveletek'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'OLagoon globális disztribúciós és szállítási műveletek'
 
 benefits:
   title: 'Amit a forgalmazók kapnak'
@@ -27,7 +27,7 @@ benefits:
 
 coverage:
   title: 'Jelenlegi disztribúció'
-  subtitle: 'Az Afarer jelenleg ezeket a piacokat szolgálja ki közvetlenül.'
+  subtitle: 'Az OLagoon jelenleg ezeket a piacokat szolgálja ki közvetlenül.'
   regions:
     - name: 'Európa'
       countries: 'Franciaország, Németország, Egyesült Királyság, Spanyolország, Olaszország, Hollandia, Svédország, Norvégia, Lengyelország, Görögország'

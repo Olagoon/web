@@ -1,6 +1,6 @@
 meta:
   title: 'Kaalaman sa Marine — Engineering sa Bawat Hull | {SITE}'
-  description: 'Dekada ng marine engineering sa bawat hull. Kinamumulatan ng afarer ang drop stitch, marine PVC, at propesyonal na disenyo ng inflatable SUP.'
+  description: 'Dekada ng marine engineering sa bawat hull. Kinamumulatan ng olagoon ang drop stitch, marine PVC, at propesyonal na disenyo ng inflatable SUP.'
   keywords:
     - 'marine engineering'
     - 'manufacturer ng inflatable SUP'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: 'Kaalaman sa Marine'
   title: 'Dekada ng Marine Engineering<br />sa Bawat Hull'
-  subtitle: 'Pinagsasama ng afarer ang malalim na material science, precision manufacturing, at pagsubok sa tunay na mundo upang lumikha ng mga watercraft na gumagana kapag mahalaga.'
+  subtitle: 'Pinagsasama ng olagoon ang malalim na material science, precision manufacturing, at pagsubok sa tunay na mundo upang lumikha ng mga watercraft na gumagana kapag mahalaga.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: 'marine engineering at R&D team ng afarer sa trabaho'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: 'marine engineering at R&D team ng olagoon sa trabaho'
 expertise_materials:
   tagline: 'Agham ng Materyales'
   title: 'Pagpili ng Tamang Materyales<br />para sa Bawat Aplikasyon'

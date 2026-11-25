@@ -2,7 +2,7 @@ module.exports = {
   about: {
     title: 'Acerca de — Fabricante de SUP Hinchables y Barcas | {SITE}',
     description:
-      'afarer es un fabricante profesional de SUP hinchables y barcas neumáticas con fábrica propia, ingeniería marina y producción OEM/ODM. Descubra nuestra planta certificada y soluciones náuticas para marcas y empresas.',
+      'olagoon es un fabricante profesional de SUP hinchables y barcas neumáticas con fábrica propia, ingeniería marina y producción OEM/ODM. Descubra nuestra planta certificada y soluciones náuticas para marcas y empresas.',
     keywords: [
       'fabricante de SUP hinchable',
       'fabricante de barcas hinchables',
@@ -14,7 +14,7 @@ module.exports = {
   academy: {
     title: 'Academia — Guías de SUP y Entrenamiento de Remo | {SITE}',
     description:
-      'Academia afarer: guías de paddle surf hinchable, técnicas de stand up paddle, seguridad náutica y conocimiento de materiales para principiantes y profesionales.',
+      'Academia olagoon: guías de paddle surf hinchable, técnicas de stand up paddle, seguridad náutica y conocimiento de materiales para principiantes y profesionales.',
     keywords: [
       'aprender stand up paddle',
       'guía para principiantes de SUP',
@@ -23,16 +23,16 @@ module.exports = {
       'clases de SUP',
     ],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Nuestra Historia — Fabricante de SUP Hinchables y Barcas | {SITE}',
     description:
-      'De un taller costero a un fabricante marino global: la historia de afarer, ingeniería para la libertad sobre el agua con una fábrica certificada de 12.000 m².',
-    keywords: ['historia de afarer', 'marca afarer', 'fabricante de SUP hinchable', 'fabricante de barcas hinchables'],
+      'De un taller costero a un fabricante marino global: la historia de olagoon, ingeniería para la libertad sobre el agua con una fábrica certificada de 12.000 m².',
+    keywords: ['historia de olagoon', 'marca olagoon', 'fabricante de SUP hinchable', 'fabricante de barcas hinchables'],
   },
   'brand-global-presence': {
     title: 'Presencia Global — Fabricante de SUP para 50+ Países | {SITE}',
     description:
-      'afarer exporta SUP hinchables y barcas a más de 50 países en todos los continentes. Fabricante y proveedor profesional para marcas, distribuidores y flotas.',
+      'olagoon exporta SUP hinchables y barcas a más de 50 países en todos los continentes. Fabricante y proveedor profesional para marcas, distribuidores y flotas.',
     keywords: [
       'fabricante global de SUP',
       'exportador de paddle surf',
@@ -43,7 +43,7 @@ module.exports = {
   'brand-marine-expertise': {
     title: 'Experiencia Marina — Ingeniería en Cada Casco | {SITE}',
     description:
-      'Décadas de ingeniería marina en cada casco. afarer domina el drop stitch, el PVC marino y el diseño profesional de barcas hinchables y SUP.',
+      'Décadas de ingeniería marina en cada casco. olagoon domina el drop stitch, el PVC marino y el diseño profesional de barcas hinchables y SUP.',
     keywords: [
       'ingeniería marina',
       'fabricante de barcas hinchables',
@@ -54,26 +54,26 @@ module.exports = {
   'brand-team': {
     title: 'Nuestro Equipo — Ingenieros Marinos y Constructores | {SITE}',
     description:
-      'Fundado en 2012 en Qingdao, afarer se construyó con ingenieros marinos, científicos de materiales y entusiastas de los deportes acuáticos. Conozca al equipo detrás de la fábrica.',
-    keywords: ['equipo afarer', 'ingenieros marinos', 'fabricante de SUP hinchable', 'equipo de fábrica de SUP'],
+      'Fundado en 2012 en Qingdao, olagoon se construyó con ingenieros marinos, científicos de materiales y entusiastas de los deportes acuáticos. Conozca al equipo detrás de la fábrica.',
+    keywords: ['equipo olagoon', 'ingenieros marinos', 'fabricante de SUP hinchable', 'equipo de fábrica de SUP'],
   },
-  'brand-why-afarer': {
-    title: 'Por qué afarer — 7 Razones por las que las Marcas Globales Nos Eligen | {SITE}',
+  'brand-why-olagoon': {
+    title: 'Por qué olagoon — 7 Razones por las que las Marcas Globales Nos Eligen | {SITE}',
     description:
-      'Por qué las marcas globales eligen afarer: certificaciones CE e ISO, MOQ flexible, moldes personalizados y plazos de 30 días desde una fábrica profesional de SUP.',
+      'Por qué las marcas globales eligen olagoon: certificaciones CE e ISO, MOQ flexible, moldes personalizados y plazos de 30 días desde una fábrica profesional de SUP.',
     keywords: [
-      'por qué elegir afarer',
+      'por qué elegir olagoon',
       'fabricante de SUP hinchable',
       'fábrica de SUP en China',
       'proveedor de paddle surf hinchable',
     ],
   },
   brand: {
-    title: 'La Marca afarer — Fabricante Marino Profesional | {SITE}',
+    title: 'La Marca olagoon — Fabricante Marino Profesional | {SITE}',
     description:
-      'afarer: fabricante profesional de SUP hinchables y barcas neumáticas con producción OEM/ODM para marcas, distribuidores, clubes náuticos y empresas.',
+      'olagoon: fabricante profesional de SUP hinchables y barcas neumáticas con producción OEM/ODM para marcas, distribuidores, clubes náuticos y empresas.',
     keywords: [
-      'marca afarer',
+      'marca olagoon',
       'fabricante de SUP hinchable',
       'fabricante de barcas hinchables',
       'fábrica de SUP en China',
@@ -82,7 +82,7 @@ module.exports = {
   cases: {
     title: 'Casos de Éxito — Proyectos OEM Exitosos | {SITE}',
     description:
-      'Proyectos reales, resultados reales: flotas de SUP para resorts, marcas privadas, distribución y rescate. Vea cómo afarer apoya a sus socios OEM.',
+      'Proyectos reales, resultados reales: flotas de SUP para resorts, marcas privadas, distribución y rescate. Vea cómo olagoon apoya a sus socios OEM.',
     keywords: [
       'casos de éxito SUP',
       'proyectos OEM de paddle surf',
@@ -93,7 +93,7 @@ module.exports = {
   certifications: {
     title: 'Certificaciones — CE, ISO 9001 y Conformidad | {SITE}',
     description:
-      'Certificaciones de calidad afarer: CE (Directiva 2013/53/UE), ISO 9001:2015, BSCI. Conformidad y seguridad para un fabricante de SUP hinchables y barcas.',
+      'Certificaciones de calidad olagoon: CE (Directiva 2013/53/UE), ISO 9001:2015, BSCI. Conformidad y seguridad para un fabricante de SUP hinchables y barcas.',
     keywords: [
       'certificación CE paddle surf',
       'ISO 9001 paddle surf',
@@ -104,7 +104,7 @@ module.exports = {
   'commercial-workboats': {
     title: 'Embarcaciones de Trabajo Comerciales — Barcas Hinchables OEM para la Industria Marina | {SITE}',
     description:
-      'afarer fabrica barcas hinchables de trabajo de grado comercial para patrullaje, apoyo al buceo, topografía marina y logística offshore. OEM/ODM con certificación CE y configuraciones personalizadas.',
+      'olagoon fabrica barcas hinchables de trabajo de grado comercial para patrullaje, apoyo al buceo, topografía marina y logística offshore. OEM/ODM con certificación CE y configuraciones personalizadas.',
     keywords: [
       'fabricante comercial de barcas hinchables',
       'barca de trabajo OEM',
@@ -115,15 +115,15 @@ module.exports = {
   community: {
     title: 'Comunidad — Aventuras de SUP y Deportes de Remo | {SITE}',
     description:
-      'La comunidad afarer: clubes de paddle, eventos de SUP, aventuras náuticas e historias de entusiastas del paddle surf hinchable.',
+      'La comunidad olagoon: clubes de paddle, eventos de SUP, aventuras náuticas e historias de entusiastas del paddle surf hinchable.',
     keywords: ['comunidad de paddle', 'club de SUP', 'eventos de paddle', 'aventuras de SUP'],
   },
   contact: {
     title: 'Contacto — Presupuestos OEM y Fabricante de SUP | {SITE}',
     description:
-      'Contacte con afarer para presupuestos OEM/ODM, proyectos de marca propia o flotas profesionales. Fabricante de SUP hinchables y barcas; respondemos en 2 días laborables.',
+      'Contacte con olagoon para presupuestos OEM/ODM, proyectos de marca propia o flotas profesionales. Fabricante de SUP hinchables y barcas; respondemos en 2 días laborables.',
     keywords: [
-      'contactar afarer',
+      'contactar olagoon',
       'presupuesto OEM paddle surf',
       'proveedor profesional de SUP',
       'contactar fabricante de SUP',
@@ -144,7 +144,7 @@ module.exports = {
   'disaster-relief': {
     title: 'Barcas Hinchables para Ayuda en Desastres — Fabricación OEM | {SITE}',
     description:
-      'afarer fabrica barcas hinchables diseñadas para ayuda en desastres y asistencia humanitaria: rescate en inundaciones, MEDEVAC, entrega de ayuda y transporte de personal. Certificado CE.',
+      'olagoon fabrica barcas hinchables diseñadas para ayuda en desastres y asistencia humanitaria: rescate en inundaciones, MEDEVAC, entrega de ayuda y transporte de personal. Certificado CE.',
     keywords: [
       'barca hinchable de ayuda en desastres',
       'fabricante de barcas de rescate',
@@ -155,7 +155,7 @@ module.exports = {
   'factory-capacity': {
     title: 'Capacidad de Producción — Fábrica de 12.000 m² | {SITE}',
     description:
-      'Capacidad de la fábrica afarer: instalación de 12.000 m² que produce más de 15.000 barcas al año con margen de expansión. Fabricación OEM/ODM a gran escala de SUP hinchables y barcas.',
+      'Capacidad de la fábrica olagoon: instalación de 12.000 m² que produce más de 15.000 barcas al año con margen de expansión. Fabricación OEM/ODM a gran escala de SUP hinchables y barcas.',
     keywords: [
       'capacidad de producción de SUP',
       'fábrica de SUP hinchable',
@@ -166,7 +166,7 @@ module.exports = {
   'factory-equipment': {
     title: 'Equipamiento de Fábrica — Corte, Soldadura RF e Impresión | {SITE}',
     description:
-      'Equipamiento de fabricación industrial afarer: corte de PVC, soldadura RF, impresión digital, montaje y pruebas para SUP hinchables y barcas.',
+      'Equipamiento de fabricación industrial olagoon: corte de PVC, soldadura RF, impresión digital, montaje y pruebas para SUP hinchables y barcas.',
     keywords: [
       'equipamiento de fabricación de SUP',
       'fábrica de SUP hinchable',
@@ -188,7 +188,7 @@ module.exports = {
   'factory-process': {
     title: 'Proceso de Fabricación — De la Materia Prima al SUP | {SITE}',
     description:
-      'De la materia prima al SUP listo para el mar: cada paso del proceso de fabricación de afarer bajo nuestro control, del corte y la soldadura a las pruebas.',
+      'De la materia prima al SUP listo para el mar: cada paso del proceso de fabricación de olagoon bajo nuestro control, del corte y la soldadura a las pruebas.',
     keywords: [
       'proceso de fabricación de SUP',
       'fábrica de SUP hinchable',
@@ -199,7 +199,7 @@ module.exports = {
   'factory-quality-lab': {
     title: 'Laboratorio de Calidad — Pruebas y Aseguramiento de Calidad | {SITE}',
     description:
-      'Laboratorio de calidad independiente con procesos ISO 9001 en afarer: cada unidad se prueba antes de su envío para garantizar la calidad de SUP hinchables y barcas.',
+      'Laboratorio de calidad independiente con procesos ISO 9001 en olagoon: cada unidad se prueba antes de su envío para garantizar la calidad de SUP hinchables y barcas.',
     keywords: [
       'control de calidad de SUP',
       'laboratorio de pruebas de paddle surf',
@@ -210,7 +210,7 @@ module.exports = {
   factory: {
     title: 'Fábrica y Fabricación — OEM de SUP Hinchable | {SITE}',
     description:
-      'Recorra la fábrica afarer: planta de 12.000 m² con corte, soldadura RF, impresión, montaje y laboratorio de calidad para fabricación OEM/ODM de SUP hinchables y barcas.',
+      'Recorra la fábrica olagoon: planta de 12.000 m² con corte, soldadura RF, impresión, montaje y laboratorio de calidad para fabricación OEM/ODM de SUP hinchables y barcas.',
     keywords: [
       'fábrica de SUP en China',
       'fábrica de paddle surf hinchable',
@@ -227,13 +227,13 @@ module.exports = {
   gallery: {
     title: 'Galería — SUP Hinchables y Barcas | {SITE}',
     description:
-      'Explore la galería afarer: fotos de tablas de SUP hinchables, barcas, fábrica y producción de nuestra fábrica profesional de paddle surf.',
+      'Explore la galería olagoon: fotos de tablas de SUP hinchables, barcas, fábrica y producción de nuestra fábrica profesional de paddle surf.',
     keywords: ['fotos de SUP', 'galería de SUP hinchable', 'imágenes de paddle surf', 'fotos de barcas hinchables'],
   },
   guides: {
     title: 'Guías de SUP — Comprar, Elegir, Practicar | {SITE}',
     description:
-      'Guías de SUP de afarer: cómo comprar, elegir y practicar paddle surf. Tallas, materiales y consejos de expertos para principiantes y profesionales.',
+      'Guías de SUP de olagoon: cómo comprar, elegir y practicar paddle surf. Tallas, materiales y consejos de expertos para principiantes y profesionales.',
     keywords: [
       'guía de compra de SUP',
       'cómo elegir SUP',
@@ -255,13 +255,13 @@ module.exports = {
   journal: {
     title: 'Revista — Artículos y Guías Náuticas | {SITE}',
     description:
-      'La revista afarer: artículos y guías sobre SUP hinchables, paddle surf, barcas y la industria náutica.',
+      'La revista olagoon: artículos y guías sobre SUP hinchables, paddle surf, barcas y la industria náutica.',
     keywords: ['revista de SUP', 'artículos de paddle surf', 'blog de SUP hinchable', 'guías náuticas'],
   },
   knowledge: {
     title: 'Conocimiento — Guías de SUP y Barcas | {SITE}',
     description:
-      'Base de conocimiento afarer: guías sobre SUP hinchables, materiales de paddle surf, selección de barcas y perspectivas del sector para marcas y profesionales.',
+      'Base de conocimiento olagoon: guías sobre SUP hinchables, materiales de paddle surf, selección de barcas y perspectivas del sector para marcas y profesionales.',
     keywords: [
       'conocimiento de SUP',
       'guía de SUP hinchable',
@@ -272,13 +272,13 @@ module.exports = {
   learn: {
     title: 'Aprende — SUP, Remo y Navegación | {SITE}',
     description:
-      'Aprende con afarer: tutoriales de SUP hinchable, técnicas de remo, nociones básicas de embarcaciones y formación náutica para aficionados y empresas.',
+      'Aprende con olagoon: tutoriales de SUP hinchable, técnicas de remo, nociones básicas de embarcaciones y formación náutica para aficionados y empresas.',
     keywords: ['aprender SUP', 'tutorial de paddle surf', 'formación en SUP hinchable', 'técnicas de remo'],
   },
   lifestyle: {
     title: 'Estilo de Vida — Remo, Aventura y Exploración | {SITE}',
     description:
-      'Explore el estilo de vida afarer: aventuras de remo, exploración acuática y experiencias al aire libre con SUP hinchables y barcas.',
+      'Explore el estilo de vida olagoon: aventuras de remo, exploración acuática y experiencias al aire libre con SUP hinchables y barcas.',
     keywords: [
       'estilo de vida SUP',
       'aventuras de remo',
@@ -289,7 +289,7 @@ module.exports = {
   'maritime-safety-defense': {
     title: 'Barcas Hinchables de Seguridad y Defensa Marítima — OEM | {SITE}',
     description:
-      'afarer ofrece calidad sin concesiones para la seguridad y defensa marítima: patrullaje, seguridad costera, protección de fuerzas y embarcaciones de respuesta rápida. OEM certificado CE.',
+      'olagoon ofrece calidad sin concesiones para la seguridad y defensa marítima: patrullaje, seguridad costera, protección de fuerzas y embarcaciones de respuesta rápida. OEM certificado CE.',
     keywords: [
       'barca hinchable de seguridad marítima',
       'fabricante de barcas de defensa',
@@ -298,11 +298,11 @@ module.exports = {
     ],
   },
   media: {
-    title: 'Centro de Prensa — Notas y Recursos de afarer | {SITE}',
+    title: 'Centro de Prensa — Notas y Recursos de olagoon | {SITE}',
     description:
-      'El centro de prensa afarer: comunicados, recursos de marca y materiales de nuestra empresa fabricante de SUP hinchables y barcas.',
+      'El centro de prensa olagoon: comunicados, recursos de marca y materiales de nuestra empresa fabricante de SUP hinchables y barcas.',
     keywords: [
-      'prensa afarer',
+      'prensa olagoon',
       'medios del fabricante de SUP',
       'kit de prensa de paddle surf',
       'noticias de empresa náutica',
@@ -311,10 +311,10 @@ module.exports = {
   news: {
     title: 'Noticias — Fabricante de SUP y Novedades Náuticas | {SITE}',
     description:
-      'Últimas noticias de afarer: actualizaciones de la fábrica, nuevos modelos de SUP hinchables, certificaciones y anuncios de la industria náutica.',
+      'Últimas noticias de olagoon: actualizaciones de la fábrica, nuevos modelos de SUP hinchables, certificaciones y anuncios de la industria náutica.',
     keywords: [
       'noticias del fabricante de SUP',
-      'actualizaciones afarer',
+      'actualizaciones olagoon',
       'anuncios de SUP hinchable',
       'noticias de la industria náutica',
     ],
@@ -322,7 +322,7 @@ module.exports = {
   partners: {
     title: 'Socios — Distribución y Venta al por Mayor | {SITE}',
     description:
-      'Conviértase en socio de afarer: redes de distribución, precios al por mayor, programas OEM/de marca privada y soporte para empresas de paddle surf en todo el mundo.',
+      'Conviértase en socio de olagoon: redes de distribución, precios al por mayor, programas OEM/de marca privada y soporte para empresas de paddle surf en todo el mundo.',
     keywords: [
       'socio de distribución de SUP',
       'paddle surf al por mayor',
@@ -333,7 +333,7 @@ module.exports = {
   quality: {
     title: 'Calidad y Pruebas — Control de Fabricación | {SITE}',
     description:
-      'Sistema de calidad afarer: laboratorio de pruebas independiente, procesos ISO 9001 y cada unidad probada antes del envío. Control de calidad para la fabricación de SUP hinchables y barcas.',
+      'Sistema de calidad olagoon: laboratorio de pruebas independiente, procesos ISO 9001 y cada unidad probada antes del envío. Control de calidad para la fabricación de SUP hinchables y barcas.',
     keywords: [
       'control de calidad de SUP',
       'pruebas de SUP hinchable',
@@ -355,7 +355,7 @@ module.exports = {
   safety: {
     title: 'Seguridad — Normas y Certificaciones | {SITE}',
     description:
-      'Seguridad de productos afarer: SUP hinchables y barcas certificados CE, pruebas rigurosas y conformidad con las normas internacionales de seguridad náutica.',
+      'Seguridad de productos olagoon: SUP hinchables y barcas certificados CE, pruebas rigurosas y conformidad con las normas internacionales de seguridad náutica.',
     keywords: [
       'normas de seguridad de SUP',
       'paddle surf certificado CE',
@@ -366,7 +366,7 @@ module.exports = {
   'search-and-rescue': {
     title: 'Barcas Hinchables de Búsqueda y Rescate — Fabricación OEM | {SITE}',
     description:
-      'afarer marca el estándar de las barcas hinchables SAR: diseñadas para la fiabilidad, durabilidad y rendimiento que exigen las misiones que salvan vidas. OEM certificado CE.',
+      'olagoon marca el estándar de las barcas hinchables SAR: diseñadas para la fiabilidad, durabilidad y rendimiento que exigen las misiones que salvan vidas. OEM certificado CE.',
     keywords: [
       'fabricante de barcas de búsqueda y rescate',
       'barca hinchable SAR',
@@ -377,7 +377,7 @@ module.exports = {
   'size-guide': {
     title: 'Guía de Tallas y Especificaciones — SUP Hinchables y Barcas | {SITE}',
     description:
-      'Dimensiones, capacidades y usos recomendados para cada producto afarer. Encuentre el tamaño correcto de SUP hinchable o barca para sus necesidades.',
+      'Dimensiones, capacidades y usos recomendados para cada producto olagoon. Encuentre el tamaño correcto de SUP hinchable o barca para sus necesidades.',
     keywords: [
       'guía de tallas de SUP',
       'dimensiones de paddle surf',
@@ -388,7 +388,7 @@ module.exports = {
   solutions: {
     title: 'Soluciones Empresariales — SUP para Cada Negocio | {SITE}',
     description:
-      'Soluciones empresariales afarer: flotas de SUP para resorts, clubes, alquileres, distribución y marcas privadas. Proveedor profesional de equipamiento náutico para B2B.',
+      'Soluciones empresariales olagoon: flotas de SUP para resorts, clubes, alquileres, distribución y marcas privadas. Proveedor profesional de equipamiento náutico para B2B.',
     keywords: [
       'soluciones empresariales de SUP',
       'proveedor de paddle surf hinchable',
@@ -399,7 +399,7 @@ module.exports = {
   technology: {
     title: 'Tecnología — Drop Stitch y PVC Marino | {SITE}',
     description:
-      'Tecnologías afarer: construcción drop stitch, PVC marino, construcciones de doble capa y alta presión. Innovación de un fabricante profesional de SUP hinchables.',
+      'Tecnologías olagoon: construcción drop stitch, PVC marino, construcciones de doble capa y alta presión. Innovación de un fabricante profesional de SUP hinchables.',
     keywords: ['tecnología de SUP', 'construcción drop stitch', 'SUP de alta presión', 'materiales de SUP hinchable'],
   },
   'tourism-recreation': {
@@ -416,7 +416,7 @@ module.exports = {
   trust: {
     title: 'Confianza — Calidad, Normas y Reputación | {SITE}',
     description:
-      'Por qué confiar en afarer: certificaciones CE e ISO, fábrica integrada, referencias globales y garantía. Un fabricante profesional de SUP hinchables y barcas.',
+      'Por qué confiar en olagoon: certificaciones CE e ISO, fábrica integrada, referencias globales y garantía. Un fabricante profesional de SUP hinchables y barcas.',
     keywords: [
       'fabricante de SUP de confianza',
       'fábrica de paddle surf certificada',
@@ -427,7 +427,7 @@ module.exports = {
   warranty: {
     title: 'Garantía — SUP Hinchables y Barcas | {SITE}',
     description:
-      'Garantía afarer y soporte postventa para SUP hinchables, barcas y accesorios. Nuestro compromiso de calidad con socios y clientes.',
+      'Garantía olagoon y soporte postventa para SUP hinchables, barcas y accesorios. Nuestro compromiso de calidad con socios y clientes.',
     keywords: ['garantía de SUP', 'garantía de barca hinchable', 'garantía de paddle surf', 'soporte postventa'],
   },
   'what-is-sup': {

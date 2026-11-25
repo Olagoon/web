@@ -1,6 +1,6 @@
 meta:
-  title: 'Over afarer — Inflatable SUP & Watersportmerk | {SITE}'
-  description: "afarer is een wereldwijd inflatable SUP- en watersportmerk, geëxploiteerd door Aquafarer LLC (VS) en opgebouwd door ons operationele team in Qingdao. Ontdek ons verhaal, onze techniek, gecertificeerde kwaliteit en landenpartnerprogramma's."
+  title: 'Over olagoon — Inflatable SUP & Watersportmerk | {SITE}'
+  description: "olagoon is een wereldwijd inflatable SUP- en watersportmerk, geëxploiteerd door Olagoon LLC (VS) en opgebouwd door ons operationele team in Qingdao. Ontdek ons verhaal, onze techniek, gecertificeerde kwaliteit en landenpartnerprogramma's."
   keywords:
     - 'inflatable sup merk'
     - 'watersportmerk'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: Over het bedrijf
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer werkplaats
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon werkplaats
   title: |
     Scheepsbouwkunde <br />
-    in <span class="text-accent dark:text-white">afarer</span>-stijl
+    in <span class="text-accent dark:text-white">olagoon</span>-stijl
   subtitle: 'We begonnen in een kustwerkplaats met één board en een onwrikbaar geloof: maritieme producten moeten ontworpen zijn alsof er levens van afhangen — want dat is zo. Vandaag leveren we aan 40+ landen, maar elke romp gaat nog steeds door dezelfde handen die het bedrijf hebben opgericht.'
 stats:
   title: In cijfers
@@ -56,7 +56,7 @@ features3_more:
       description: Ontwerpen voor commerciële, wetenschappelijke en militaire klanten.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Boardontwerp en engineeringdiscussie
 steps2_values:
   title: Onze waarden
@@ -73,7 +73,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Mijlpalen
-  subtitle: Een korte versie van de geschiedenis van afarer.
+  subtitle: Een korte versie van de geschiedenis van olagoon.
   isReversed: true
   items:
     - title: Opgericht in een kustwerkplaats
@@ -108,7 +108,7 @@ brand_hub_cards:
     desc: Verzending naar meer dan 50 landen vanuit onze Qingdao-faciliteit met geautoriseerde servicepartners in Europa, Azië-Pacific en Amerika.
     link: /brand-global-presence/
     link_label: Meer informatie →
-  - title: Waarom afarer
+  - title: Waarom olagoon
     desc: Een merk dat bouwt op geverifieerde kwaliteit — dubbele certificering (ISO 9001 + BSCI), CE-naleving en exclusieve landenpartnerschappen met beperkte co-branded collecties voor watersportbedrijven.
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Meer informatie →

@@ -59,13 +59,13 @@ export function buildSimilarityMatrix(source: number[], targets: Record<string, 
 }
 
 export function detectOpportunityGap(
-  afarerVec: number[],
+  olagoonVec: number[],
   competitorVecs: Record<string, number[]>,
   threshold = 0.3
 ): string[] {
   const gaps: string[] = [];
   for (const [name, vec] of Object.entries(competitorVecs)) {
-    const sim = cosineSimilarity(afarerVec, vec);
+    const sim = cosineSimilarity(olagoonVec, vec);
     if (sim < threshold) {
       gaps.push(`${name}: similarity=${sim.toFixed(3)} — low overlap, potential gap`);
     }

@@ -7,7 +7,7 @@ hero:
   subtitle: Zaměřeni na pokrok
 intro:
   - >-
-    Centrum výzkumu a vývoje (R&D) společnosti afarer je hybnou silou našeho poslání měnit svět vodních sportů. Nabízíme nadšencům vodních sportů po celém světě bezpečnější, pohodlnější a radostnější produkty díky neustálým inovacím v oblasti nafukovacích paddleboardů (SUP). Náš oddaný tým
+    Centrum výzkumu a vývoje (R&D) společnosti olagoon je hybnou silou našeho poslání měnit svět vodních sportů. Nabízíme nadšencům vodních sportů po celém světě bezpečnější, pohodlnější a radostnější produkty díky neustálým inovacím v oblasti nafukovacích paddleboardů (SUP). Náš oddaný tým
     inženýrů, designérů a vášnivých odborníků na vodní sporty utváří budoucnost odvětví a neustále zvyšuje laťku kvality, výkonu a udržitelnosti.
   - Naše centrum R&D sdružuje pod jednou střechou materiálové vědce, námořní inženýry a výrobní inženýry. Od formulace tkanin a simulace trupu až po vývoj svařovacích procesů a zkoušky na moři v plném měřítku – každá fáze vývoje produktu je řízena daty a ověřována testováním.
 mission:
@@ -93,33 +93,33 @@ vision:
   tagline: Naše vize
   title: Utváříme budoucnost vodních sportů
   body: >-
-    Společnost afarer usiluje o vedoucí postavení v odvětví nafukovacích SUP díky neustálým inovacím, neochvějné kvalitě a pevnému závazku k bezpečnosti a udržitelnosti — a v konečném důsledku obohacuje zážitky milovníků vodních sportů po celém světě. Centrum výzkumu a vývoje afarer je
+    Společnost olagoon usiluje o vedoucí postavení v odvětví nafukovacích SUP díky neustálým inovacím, neochvějné kvalitě a pevnému závazku k bezpečnosti a udržitelnosti — a v konečném důsledku obohacuje zážitky milovníků vodních sportů po celém světě. Centrum výzkumu a vývoje olagoon je
     místem, kde se setkává vášeň s inovacemi a kde se nastavují nové standardy pro odvětví vodních sportů.
 labs_section:
   tagline: Laboratoře
   title: Naše laboratoře
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: Laboratoř PVC tkanin
       description: Průběžný výzkum a testování PVC tkanin palub z hlediska pevnosti v tahu, odolnosti vůči UV záření, oděru a pružnosti při nízkých teplotách pro zajištění dlouhodobé spolehlivosti v námořním prostředí.
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Studio pro konstrukci trupů
       description: Konstrukce řízená CAD a analýza konečných prvků trupů z HDPE, hliníku a sklolaminátu. Každý trup je digitálně simulován z hlediska rozložení napětí a odolnosti proti nárazu ještě před vytvořením prvního prototypu.
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Centrum RF svařování
       description: Specializované pracoviště pro vysokofrekvenční svařování s přesnou regulací teploty a tlaku, které vyrábí vysoce pevné a vzduchotěsné spoje splňující standardy námořního průmyslu pro nafukovací plavidla.
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Hydrodynamická zkušební nádrž
       description: Testování zmenšených modelů v naší testovací nádrži pro optimalizaci tvaru trupu, klouzavosti, stability a spotřeby paliva při různém zatížení a mořských podmínkách.
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Prototypová dílna
       description: Pracoviště pro prototypy v plné velikosti a montáž, kde se nové modely staví, kompletují a testují na moři. Každý prototyp absolvuje minimálně 20hodinový testovací program ve vodě, než je schválen do výroby.
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: Laboratoř kvality a kontroly
       description: Specializovaná laboratoř zajištění kvality provádí tahové zkoušky, cyklické testy zadržení vzduchu, odtrhové zkoušky svarů a certifikaci materiálů, aby bylo zajištěno, že každé prkno opouštějící dílnu splňuje naše zveřejněné specifikace.
       href: /randdcenter/quality-inspection-lab/

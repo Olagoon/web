@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Tatil Köyleri ve Oteller
   title: Su kenarınızı bir gelir merkezine dönüştürün<br />premium SUP filolarıyla
-  subtitle: Afarer, dünyadaki tatil köylerini ticari kalitede şişme SUP filolarıyla donatır — 20 tahtalık başlangıç paketlerinden 100+ tahtalık amiral programlarına kadar. Marka özelleştirmesi, personel eğitimi ve yedek parçalar dahildir.
+  subtitle: OLagoon, dünyadaki tatil köylerini ticari kalitede şişme SUP filolarıyla donatır — 20 tahtalık başlangıç paketlerinden 100+ tahtalık amiral programlarına kadar. Marka özelleştirmesi, personel eğitimi ve yedek parçalar dahildir.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Bozulmamış bir plajda SUP keyfi yapan tatil köyü misafirleri
 roi_section:
   title: Tatil Köyü SUP Gelir Modeli
@@ -20,7 +20,7 @@ roi_section:
       detail: Tüm filo yatırımını bir sezon içinde geri kazanın
     - metric: 40%
       label: Gelir Artışı
-      detail: Afarer filolarına geçişten sonra ortalama artış
+      detail: OLagoon filolarına geçişten sonra ortalama artış
     - metric: 500+
       label: Board Başına Kiralama Döngüsü
       detail: Günlük kullanım için ticari düzeyde dayanıklılık
@@ -67,7 +67,7 @@ packages:
       revenue: 200K$+ yıllık gelir potansiyeli
       cta_text: Bayrak Ürün Paketini Edinin
 case_study:
-  quote: Afarer'e geçtiğimizden beri SUP kira gelirimiz %40 arttı. Panel yenileme maliyetleri %60 düştü. Tam filo yatırımımızı 4 ayda geri kazandık.
+  quote: OLagoon'e geçtiğimizden beri SUP kira gelirimiz %40 arttı. Panel yenileme maliyetleri %60 düştü. Tam filo yatırımımızı 4 ayda geri kazandık.
   author: Su Aktiviteleri Yöneticisi
   location: 5 yıldızlı tatil köyü, Maldivler
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Geri Ödeme Süresi
       value: 4 Ay
 features:
-  title: Tatil Köyleri Neden Afarer'i Seçiyor
+  title: Tatil Köyleri Neden OLagoon'i Seçiyor
   subtitle: Ticari sınıf dayanıklılık, küresel lojistik ve konukseverliği anlayan bir ortak.
   items:
     - title: 500+ Kiralama Döngüsü

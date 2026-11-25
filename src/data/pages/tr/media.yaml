@@ -1,8 +1,8 @@
 meta:
-  title: 'Medya Merkezi — Basın ve afarer kaynakları | {SITE}'
-  description: 'afarer medya merkezi: şişme SUP üretim şirketimizden basın bültenleri, marka materyalleri ve kaynaklar.'
+  title: 'Medya Merkezi — Basın ve olagoon kaynakları | {SITE}'
+  description: 'olagoon medya merkezi: şişme SUP üretim şirketimizden basın bültenleri, marka materyalleri ve kaynaklar.'
   keywords:
-    - 'afarer basın'
+    - 'olagoon basın'
     - 'SUP üreticisi medya'
     - 'paddle board basın kiti'
     - 'denizcilik şirket haberleri'
@@ -21,7 +21,7 @@ sections:
       - Aksesuarlar ve Güvenlik Ekipmanları
   - id: logo-brand-kit
     title: Logo ve Marka Kiti
-    desc: Resmi afarer logo dosyaları, renk paleti, tipografi ve marka yönergeleri.
+    desc: Resmi olagoon logo dosyaları, renk paleti, tipografi ve marka yönergeleri.
     items:
       - Ana Logo (PNG/SVG/EPS)
       - İkon İşareti
@@ -55,7 +55,7 @@ cta:
       desc: 12.000 m² üretim tesisimizi görün
     - label: Marka Yönergeleri
       href: /brand/
-      desc: afarer markasını tanıyın
+      desc: olagoon markasını tanıyın
     - label: Bizimle Çalışın
       href: /contact/
       desc: OEM, ODM ve distribütörlük talepleri

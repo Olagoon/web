@@ -1,6 +1,6 @@
 meta:
   title: 'Rūpnīca un ražošana — piepūšamie SUP OEM | {SITE}'
-  description: 'Apmeklējiet afarer rūpnīcu: 12,000 m² ražotne ar griešanas, RF metināšanas, drukas un montāžas cehiem, kā arī kvalitātes laboratoriju piepūšamo SUP OEM/ODM ražošanai.'
+  description: 'Apmeklējiet olagoon rūpnīcu: 12,000 m² ražotne ar griešanas, RF metināšanas, drukas un montāžas cehiem, kā arī kvalitātes laboratoriju piepūšamo SUP OEM/ODM ražošanai.'
   keywords:
     - 'sup rūpnīca ķīnā'
     - 'piepūšamo airu dēļu rūpnīca'
@@ -12,7 +12,7 @@ hero:
   subtitle: '12,000 m² integrētas ražošanas — no izejmateriāla līdz gatavam dēlim'
 
 intro:
-  - 'Kā **Aquafarer LLC (ASV)** ražošanas struktūrvienība afarer Cindao operāciju komanda kontrolē katru ražošanas posmu — no izejvielu PVC un stikla šķiedras materiālu ierašanās līdz gatavā dēļa pēcpiegādes pārbaudei. Mūsu ražošanas objekts Cindao ekonomiskās attīstības zonā aizņem 12,000 kvadrātmetru un ietver specializētus cehus PVC griešanai, balonu termiskai hermetizācijai, FRP veidņu izgatavošanai, SUP digitālajai drukai, galīgajai montāžai un kvalitātes testēšanai.'
+  - 'Kā **Olagoon LLC (ASV)** ražošanas struktūrvienība olagoon Cindao operāciju komanda kontrolē katru ražošanas posmu — no izejvielu PVC un stikla šķiedras materiālu ierašanās līdz gatavā dēļa pēcpiegādes pārbaudei. Mūsu ražošanas objekts Cindao ekonomiskās attīstības zonā aizņem 12,000 kvadrātmetru un ietver specializētus cehus PVC griešanai, balonu termiskai hermetizācijai, FRP veidņu izgatavošanai, SUP digitālajai drukai, galīgajai montāžai un kvalitātes testēšanai.'
   - 'Integrējot dizainu, inženieriju, prototipu izstrādi, ražošanu un testēšanu zem viena jumta, mēs novēršam līgumražošanas neefektivitāti un saglabājam tiešu kontroli pār izgatavošanas kvalitāti, materiālu izvēli un piegādes termiņiem. Katrs dēlis, kas pamet mūsu darbnīcu, ir uzbūvēts ar mūsu cilvēku rokām, ar mūsu iekārtām un atbilstoši mūsu standartiem.'
 
 stats:
@@ -69,22 +69,22 @@ workshops_section:
   workshops:
     - title: 'PVC griešana un materiālu sagatavošana'
       description: 'Automātiskās CNC griešanas mašīnas apstrādā PVC un Drop-Stitch audumus ar precizitāti, kas mazāka par vienu milimetru. Ar datoru optimizēta paneļu izkārtojuma izmantošana samazina materiālu atkritumus un nodrošina, ka katrs panels pirms metināšanas atbilst izmēru specifikācijai.'
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: 'Balonu metināšana un termiskā hermetizācija'
       description: 'Specializēta metināšanas darbnīca ar termiskās hermetizācijas mašīnām un RF dielektriskajām presēm. Karstā gaisa hermetizācijas iekārtas savieno un sapludina PVC balonu kameras, savukārt RF metinājumi veido augstas izturības hermētiskas šuves, kas pārsniedz EN ISO 25649 prasības.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: 'FRP veidnes un kompozītu izgatavošana'
       description: 'Pielāgotas FRP veidnes SUP komponentiem, kas izgatavotas, izmantojot stikla šķiedras rokas pārklāšanas veidošanu ar poliesteru un vinilesteru sveķu sistēmām. Katrs slānis tiek veltnēts ar rokām un iepakots vakuumā vienmērīgas kvalitātes nodrošināšanai. Želejvirsmas krāsošanas kabīne nodrošina augsta spīduma, UV izturīgu jūras apdari.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'SUP druka un noformējums'
       description: 'SUP dēļi tiek noformēti, izmantojot digitālo druku pilnkrāsu grafikai un sitiena druku logotipiem un atkārtojošiem rakstiem. Digitālie printeri rada fotokvalitātes klājuma dizainu, savukārt sitiena druka nodrošina izturīgas, košas zīmolu zīmes.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Galīgā montāža un aprīkošana'
       description: 'Montāžas līnija, kurā Drop-Stitch kodoli tiek pabeigti ar sānu sliedēm, tiek uzklāti EVA klājumi un uzstādīti spurņi, vārsti un piederumi. Katrs dēlis iziet 100 punktu montāžas kontrolsarakstu, ko apstiprina komandas vadītājs.'
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: 'Kvalitātes testēšana un pārbaude'
       description: 'Katrs pabeigtais dēlis pirms nosūtīšanas iziet obligāto gaisa noturības testēšanu, šuvju atdalīšanas pārbaudi un pilnu sistēmu pārbaudi. Mūsu kvalitātes laboratorija darbojas neatkarīgi no ražošanas un ziņo tieši vadībai.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
   tagline: 'Iekārtas'
@@ -141,7 +141,7 @@ faq_section:
   questions:
     - q: 'Kāds ir minimālais pasūtījuma daudzums (MOQ) OEM piepūšamajiem SUP dēļiem?'
       a: 'MOQ sākas no 5–10 vienībām standarta OEM modeļiem. Pielāgotu veidņu un privātā zīmola projektiem atkarībā no sarežģītības ir nepieciešamas vismaz 200 vienības. Jaunu zīmolu palaišanai ir pieejami izmēģinājuma pasūtījumi un paraugu partijas.'
-    - q: 'Vai afarer ir BSCI sertifikāts?'
+    - q: 'Vai olagoon ir BSCI sertifikāts?'
       a: 'Jā. Mūsu rūpnīca uztur derīgu BSCI sociālās atbilstības sertifikātu (audita pārskats pieejams pēc pieprasījuma). Mums ir arī ISO 9001 kvalitātes vadības sertifikāts, un visiem produktiem ir CE sertifikāts. Ar katru OEM sūtījumu tiek piegādāta REACH un RoHS atbilstības dokumentācija.'
     - q: 'Kāds ir tipiskais izpildes laiks OEM pasūtījumam?'
       a: 'Standarta izpildes laiks lielapjoma OEM ražošanai ir 30–45 dienas no apstiprināta pirkuma pasūtījuma un priekšapmaksas. Pielāgotu veidņu izstrāde pievieno 15–20 dienas. Steidzamiem pasūtījumiem un sezonas pieprasījuma pikiem ir pieejama paātrinātā ražošana. Prototipu paraugi parasti tiek nosūtīti 15–20 dienu laikā.'

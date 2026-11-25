@@ -5,10 +5,10 @@ meta:
 hero:
   tagline: 'Mga Retail Partner'
   title: 'Magbenta ng Premium na Inflatable SUP<br />Na May Gumaganang Margin'
-  subtitle: 'Maging retail partner ng Afarer — dalhin ang pinakamabilis na lumalagong SUP brand sa iyong merkado na may buong wholesale pricing, dropshipping, propesyonal na marketing material, at nakalaang suporta.'
+  subtitle: 'Maging retail partner ng OLagoon — dalhin ang pinakamabilis na lumalagong SUP brand sa iyong merkado na may buong wholesale pricing, dropshipping, propesyonal na marketing material, at nakalaang suporta.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Mga SUP board ng Afarer na nakadisplay sa isang retail store'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Mga SUP board ng OLagoon na nakadisplay sa isang retail store'
 
 margin_section:
   title: 'Retail Margin at MOQ'
@@ -92,7 +92,7 @@ support:
     - 'Net 30 payment terms'
 
 cta:
-  title: 'Handa ka na bang maging retail partner ng Afarer?'
+  title: 'Handa ka na bang maging retail partner ng OLagoon?'
   subtitle: 'Mag-apply para sa partnership o i-download ang aming retail catalog upang magsimula.'
   actions:
     - text: 'Mag-apply para sa Partnership'

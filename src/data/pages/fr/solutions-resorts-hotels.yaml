@@ -9,9 +9,9 @@ meta:
 hero:
   tagline: Complexes et hôtels
   title: Transformez Votre Front de Mer en Centre de Revenus<br />Avec des Flottes SUP Premium
-  subtitle: afarer équipe les complexes du monde entier avec des flottes SUP gonflables de qualité commerciale — du pack de démarrage de 20 planches aux programmes phares de 100+ planches. Marque personnalisée, formation du personnel et pièces de rechange incluses.
+  subtitle: olagoon équipe les complexes du monde entier avec des flottes SUP gonflables de qualité commerciale — du pack de démarrage de 20 planches aux programmes phares de 100+ planches. Marque personnalisée, formation du personnel et pièces de rechange incluses.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Clients d'un complexe profitant du SUP sur une plage immaculée
 roi_section:
   title: Le Modèle de Revenu SUP Resort
@@ -25,7 +25,7 @@ roi_section:
       detail: Récupérez l'investissement total de la flotte en une saison
     - metric: 40%
       label: Augmentation des Revenus
-      detail: Augmentation moyenne après passage aux flottes Afarer
+      detail: Augmentation moyenne après passage aux flottes OLagoon
     - metric: 500+
       label: Cycles de Location par Planche
       detail: Durabilité de qualité commerciale pour un usage quotidien
@@ -72,7 +72,7 @@ packages:
       revenue: Potentiel de revenus annuels 200K$+
       cta_text: Obtenir le Pack Flagship
 case_study:
-  quote: Depuis que nous sommes passés chez Afarer, nos revenus de location de SUP ont augmenté de 40 %. Les coûts de remplacement des planches ont chuté de 60 %. Nous avons récupéré notre investissement total de flotte en 4 mois.
+  quote: Depuis que nous sommes passés chez OLagoon, nos revenus de location de SUP ont augmenté de 40 %. Les coûts de remplacement des planches ont chuté de 60 %. Nous avons récupéré notre investissement total de flotte en 4 mois.
   author: Gestionnaire d'Activités Nautiques
   location: Resort 5 étoiles, Maldives
   results:
@@ -83,7 +83,7 @@ case_study:
     - label: Période de Remboursement
       value: 4 Mois
 features:
-  title: Pourquoi les Resorts Choisissent Afarer
+  title: Pourquoi les Resorts Choisissent OLagoon
   subtitle: Durabilité qualité commerciale, logistique mondiale et un partenaire qui comprend l'hôtellerie.
   items:
     - title: 500+ Cycles de Location

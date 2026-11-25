@@ -1,8 +1,8 @@
 meta:
   title: 'اتصل بنا — استفسارات الشراكة والمنتجات | {SITE}'
-  description: 'تواصل مع afarer للحصول على استفسارات الشراكة والعلامة المشتركة والعلامات الخاصة، أو الأساطيل الاحترافية. علامة ألواح SUP القابلة للنفخ، نرد خلال يومي عمل.'
+  description: 'تواصل مع olagoon للحصول على استفسارات الشراكة والعلامة المشتركة والعلامات الخاصة، أو الأساطيل الاحترافية. علامة ألواح SUP القابلة للنفخ، نرد خلال يومي عمل.'
   keywords:
-    - 'اتصل بـ afarer'
+    - 'اتصل بـ olagoon'
     - 'عرض SUP للموزعين'
     - 'مورّد SUP محترف'
     - 'التواصل مع مصنّع SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: أرسل لنا رسالة
   subtitle: للاستفسار عن الأسعار أو الأسئلة الفنية أو استفسارات الشراكة، أرسل لنا رسالة. نرد خلال يوم عمل واحد.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: أرسل الاستفسار → احصل على عرض سعر
   success_message: شكراً! رسالتك قد وصلت إلى صندوق الوارد لدينا. سنرد خلال يوم عمل واحد.
   error_message: حدث خطأ أثناء إرسال رسالتك. يرجى المحاولة مرة أخرى أو مراسلتنا مباشرة عبر البريد الإلكتروني.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: البريد الإلكتروني
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: المقر الرئيسي
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

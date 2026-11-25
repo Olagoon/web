@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 02'
   title: 'Studio za inženjerstvo trupova'
   subtitle: 'Digitalna simulacija, strukturna inteligencija, dizajn trupa po mjeri'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Afarer CAD radna stanica za inženjerski dizajn trupova'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'OLagoon CAD radna stanica za inženjerski dizajn trupova'
 
-intro: 'Trup je okosnica svake napuhive SUP daske. Mora biti dovoljno lagan za učinkovito klizanje, dovoljno jak za stjenovite obale i dovoljno krut da svaki zamah veslom pretvori u kretanje naprijed. U Afareru naš Studio za inženjerstvo trupova spaja napredno CAD modeliranje, analizu konačnih elemenata (FEA) i desetljeća praktičnog iskustva u dizajnu daska kako bi isporučio trupove optimizirane za namijenjenu disciplinu — a ne generičke oblike prilagođene iz kataloga.'
+intro: 'Trup je okosnica svake napuhive SUP daske. Mora biti dovoljno lagan za učinkovito klizanje, dovoljno jak za stjenovite obale i dovoljno krut da svaki zamah veslom pretvori u kretanje naprijed. U OLagoonu naš Studio za inženjerstvo trupova spaja napredno CAD modeliranje, analizu konačnih elemenata (FEA) i desetljeća praktičnog iskustva u dizajnu daska kako bi isporučio trupove optimizirane za namijenjenu disciplinu — a ne generičke oblike prilagođene iz kataloga.'
 
 content_html: |
   <h2>Gdje se snaga susreće s hidrodinamikom</h2>

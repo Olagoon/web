@@ -5,10 +5,10 @@ meta:
 hero:
   tagline: 'Maloprodajni partnerji'
   title: 'Prodajajte premium napihljive deske SUP<br />z maržami, ki delujejo'
-  subtitle: 'Postanite maloprodajni partner Afarer — ponujajte najhitreje rastočo znamko SUP na svojem trgu s polnimi cenami na debelo, dropshippingom, profesionalnimi trženimi materiali in posvečeno podporo.'
+  subtitle: 'Postanite maloprodajni partner OLagoon — ponujajte najhitreje rastočo znamko SUP na svojem trgu s polnimi cenami na debelo, dropshippingom, profesionalnimi trženimi materiali in posvečeno podporo.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Deske SUP Afarer prikazane v maloprodajni trgovini'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Deske SUP OLagoon prikazane v maloprodajni trgovini'
 
 margin_section:
   title: 'Maloprodajne marže in MOQ'
@@ -92,7 +92,7 @@ support:
     - 'Plačilni pogoji neto 30 dni'
 
 cta:
-  title: 'Pripravljeni postati maloprodajni partner Afarer?'
+  title: 'Pripravljeni postati maloprodajni partner OLagoon?'
   subtitle: 'Prijavite se na partnerstvo ali prenesite naš maloprodajni katalog za začetek.'
   actions:
     - text: 'Prijavite se na partnerstvo'

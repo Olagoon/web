@@ -1,9 +1,9 @@
-// Validate every https://afarer.com URL in public/llms-full.txt against dist file existence
+// Validate every https://olagoon.com URL in public/llms-full.txt against dist file existence
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
-const txt = fs.readFileSync('E:/github/afarer/public/llms-full.txt', 'utf8');
-const urls = [...txt.matchAll(/https:\/\/afarer\.com(\/[^\s)\]]*)/g)].map((m) => m[1]);
+const DIST = 'E:/github/olagoon/dist';
+const txt = fs.readFileSync('E:/github/olagoon/public/llms-full.txt', 'utf8');
+const urls = [...txt.matchAll(/https:\/\/olagoon\.com(\/[^\s)\]]*)/g)].map((m) => m[1]);
 const seen = new Set();
 const missing = [];
 let checked = 0;

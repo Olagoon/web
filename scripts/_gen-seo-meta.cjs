@@ -48,9 +48,9 @@ for (const f of routeFiles) {
 // Additional manual mappings for routes whose pages aren't derivable:
 const manual = {
   '/': 'home',
-  '/about/afarer': 'about',
+  '/about/olagoon': 'about',
   '/brand': 'brand',
-  '/brand/afarer': 'brand',
+  '/brand/olagoon': 'brand',
   '/brand/team': 'brand-team',
   '/compare': 'compare',
   '/use-cases': 'use-cases',

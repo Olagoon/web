@@ -13,7 +13,7 @@ hero:
   back_label: Tillbaka till fabriken
   back_link: /factory/
 intro: >-
-  Till skillnad från märken som lägger ut produktion på tredjepartsfabriker äger och driver afarer hela sin produktionskedja. Denna vertikala integration gör att vi kan upprätthålla strikt kvalitetskontroll i varje steg, snabbt reagera på anpassade krav och leverera jämn produktkvalitet batch efter
+  Till skillnad från märken som lägger ut produktion på tredjepartsfabriker äger och driver olagoon hela sin produktionskedja. Denna vertikala integration gör att vi kan upprätthålla strikt kvalitetskontroll i varje steg, snabbt reagera på anpassade krav och leverera jämn produktkvalitet batch efter
   batch. Så här byggs en bräda i vår anläggning.
 steps:
   - step: '01'
@@ -47,6 +47,6 @@ steps:
     duration: 1 dag
 cta:
   title: Se vår utrustning och maskiner
-  desc: Lär känna den industriella utrustningen bakom varje afarer-bräda.
+  desc: Lär känna den industriella utrustningen bakom varje olagoon-bräda.
   label: Se utrustning →
   link: /factory/equipment/

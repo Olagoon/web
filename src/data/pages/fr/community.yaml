@@ -1,6 +1,6 @@
 meta:
   title: 'Communauté — Aventures SUP & Paddle | {SITE}'
-  description: 'La communauté afarer : clubs de paddle, événements SUP, aventures nautiques et témoignages de passionnés de stand up paddle gonflable.'
+  description: 'La communauté olagoon : clubs de paddle, événements SUP, aventures nautiques et témoignages de passionnés de stand up paddle gonflable.'
   keywords:
     - 'communauté paddle'
     - 'club SUP'
@@ -8,64 +8,64 @@ meta:
     - 'aventure SUP'
 hero:
   tagline: Communauté
-  title: La Communauté afarer
+  title: La Communauté olagoon
   subtitle: |-
     Vraies personnes, vraie eau, vraies aventures. Des pagayeurs du week-end aux<br />
     opérateurs professionnels — découvrez comment notre communauté explore le monde sur l'eau.
-  image: https://assets.afarer.com/images/afarer/team/afarer-paddle-girls-team.webp
-  imageAlt: Communauté afarer pagayant sur des eaux calmes
+  image: https://assets.olagoon.com/images/olagoon/team/olagoon-paddle-girls-team.webp
+  imageAlt: Communauté olagoon pagayant sur des eaux calmes
 stats:
   title: La communauté en chiffres
   stats:
     - title: 40+
-      description: Pays avec des clients afarer
+      description: Pays avec des clients olagoon
     - title: 12+
       description: Des années d'aventures en communauté
     - title: 10,000+
       description: Pagayeurs heureux dans le monde
     - title: 98%
-      description: Je recommanderais afarer
+      description: Je recommanderais olagoon
 stories:
   tagline: Explorer Stories
   title: De vraies aventures de vraies personnes
-  subtitle: Écoutez les pagayeurs, familles et professionnels qui utilisent l'équipement afarer sur l'eau.
+  subtitle: Écoutez les pagayeurs, familles et professionnels qui utilisent l'équipement olagoon sur l'eau.
   items:
     - name: Sarah et Mike
       title: Propriétaires de SUP Explorer 11, Canada
       content: Nous avons emmené nos Explorer 11s pour un voyage d’une semaine dans le parc Algonquin. Elles ont magnifiquement géré les portages et les traversées de lacs. La construction drop-stitch nous permettait de gonfler à 15 PSI et d’obtenir des performances de planche rigide à partir d’une planche transportable.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
       location: Parc Algonquin, Canada
     - name: Carlos R.
       title: Pilote Cheetah Surge, Espagne
       content: Le Cheetah Surge est mon choix pour la croisière côtière. Le design vibrant attire les regards sur la plage, et la stabilité me donne confiance dans les clapots légers. Il se comporte magnifiquement, que je fasse de la randonnée ou que je profite simplement du coucher du soleil.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
       location: Costa Brava, Espagne
     - name: Lina et sa famille
       title: Pagayeurs Flowing Lotus, Suède
       content: Aventures familiales du week-end sur l’archipel. Le Flowing Lotus est assez stable pour que ma fille se tienne debout pendant que je pagaye. Il se gonfle en moins de 10 minutes — pas besoin de remorque, juste du pur plaisir familial sur l’eau.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-flowing-lotus-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
       location: Archipel de Stockholm, Suède
     - name: Lt. Cmdr. Andres
       title: Explorateur Ocean Voyager, Philippines
       content: J’utilise mon Ocean Voyager pour des excursions côtières au long cours autour de Palawan. Après des mois d’utilisation quotidienne en conditions tropicales, la planche fonctionne toujours comme neuve. La forme de randonnée traverse les clapots qui arrêteraient des planches moins performantes.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       location: Palawan, Philippines
     - name: Emma T.
       title: Débutant Tropical Breeze, Australie
       content: Je n’étais jamais monté sur un SUP avant. Le Tropical Breeze est si stable que je me suis senti en confiance dès mon premier essai. Maintenant je pagaye tous les week-ends. La courbe d’apprentissage est pratiquement nulle — et la planche est magnifique sur l’eau.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
       location: Gold Coast, Australie
 adventures_cta:
   tagline: Share Your Adventure
   title: Votre histoire pourrait être ici
-  subtitle: 'Taguez @afarer_watersports sur Instagram ou utilisez #afarerAdventure pour être présenté.'
+  subtitle: 'Taguez @olagoon_watersports sur Instagram ou utilisez #olagoonAdventure pour être présenté.'
   instagram: Suivre sur Instagram
   youtube: S'abonner sur YouTube
   facebook: Rejoindre sur Facebook
 locations:
   tagline: Communauté Mondiale
-  title: Où afarer voyage
-  subtitle: 'Taguez @afarer_watersports sur Instagram ou utilisez #afarerAdventure pour être présenté.'
+  title: Où olagoon voyage
+  subtitle: 'Taguez @olagoon_watersports sur Instagram ou utilisez #olagoonAdventure pour être présenté.'
   regions:
     - title: Europe
       description: Lac de Côme · Archipel de Stockholm · Costa Brava · Côte Croate · Lacs Écossais
@@ -77,7 +77,7 @@ locations:
       description: Côte de la Mer Rouge · Lac Victoria · Péninsule du Cap · Mer de Galilée
 cta:
   title: Prêt à rejoindre la communauté ?
-  subtitle: Chaque produit afarer est certifié CE, garanti et conçu pour de vraies aventures. Trouvez le vôtre.
+  subtitle: Chaque produit olagoon est certifié CE, garanti et conçu pour de vraies aventures. Trouvez le vôtre.
   actions:
     - variant: primary
       text: Explorer les produits

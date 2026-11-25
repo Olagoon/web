@@ -1,6 +1,6 @@
 meta:
   title: 'Kilang & Pembuatan — OEM SUP Boleh Tiup | {SITE}'
-  description: 'Lawati kilang afarer: kilang seluas 12,000 m² dengan pemotongan, kimpalan RF, percetakan, pemasangan, dan makmal kualiti untuk pembuatan OEM/ODM SUP boleh tiup.'
+  description: 'Lawati kilang olagoon: kilang seluas 12,000 m² dengan pemotongan, kimpalan RF, percetakan, pemasangan, dan makmal kualiti untuk pembuatan OEM/ODM SUP boleh tiup.'
   keywords:
     - 'kilang sup china'
     - 'kilang papan dayung boleh tiup'
@@ -12,7 +12,7 @@ hero:
   subtitle: '12,000 m² pembuatan bersepadu — daripada bahan mentah hingga papan siap'
 
 intro:
-  - 'Sebagai lengan pengeluaran **Aquafarer LLC**, Pasukan Operasi Qingdao afarer mengawal setiap peringkat pengeluaran — daripada ketibaan bahan mentah PVC dan gentian kaca sehingga pemeriksaan prapenghantaran papan siap. Kemudahan pembuatan kami di Zon Pembangunan Ekonomi Qingdao meliputi keluasan 12,000 meter persegi dan menempatkan bengkel khusus untuk pemotongan PVC, penyegelan haba tiub, fabrikasi acuan FRP, percetakan digital SUP, pemasangan akhir, serta ujian kualiti.'
+  - 'Sebagai lengan pengeluaran **Olagoon LLC**, Pasukan Operasi Qingdao olagoon mengawal setiap peringkat pengeluaran — daripada ketibaan bahan mentah PVC dan gentian kaca sehingga pemeriksaan prapenghantaran papan siap. Kemudahan pembuatan kami di Zon Pembangunan Ekonomi Qingdao meliputi keluasan 12,000 meter persegi dan menempatkan bengkel khusus untuk pemotongan PVC, penyegelan haba tiub, fabrikasi acuan FRP, percetakan digital SUP, pemasangan akhir, serta ujian kualiti.'
   - 'Dengan menyepadukan reka bentuk, kejuruteraan, pembikinan prototaip, pembuatan, dan pengujian di bawah satu bumbung, kami menghapuskan ketidakefisienan pembuatan kontrak serta mengekalkan kawalan langsung terhadap kualiti binaan, pemilihan bahan, dan tempoh penghantaran. Setiap papan yang meninggalkan bengkel kami dibina oleh tenaga kami, menggunakan peralatan kami, mengikut piawaian kami.'
 
 stats:
@@ -69,22 +69,22 @@ workshops_section:
   workshops:
     - title: 'Pemotongan PVC & Penyediaan Bahan'
       description: 'Mesin pemotong CNC automatik memproses fabrik PVC dan drop-stitch dengan ketepatan bawah milimeter. Penyusunan sarang dioptimumkan oleh komputer meminimumkan sisa bahan dan memastikan setiap panel memenuhi spesifikasi dimensinya sebelum dikimpal.'
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: 'Kimpalan Tiub & Penyegelan Haba'
       description: 'Bengkel kimpalan khusus dengan mesin penyegelan haba dan akuan dielektrik RF. Penyegel haba udara panas mengikat dan meleburkan kebuk tiub PVC, manakala kimpalan RF menghasilkan jahitan kedap udara berkekuatan tinggi yang melebihi keperluan EN ISO 25649.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: 'Acuan FRP & Fabrikasi Komposit'
       description: 'Acuan FRP tersuai untuk komponen SUP, dihasilkan menggunakan pengacuan gentian kaca sapuan tangan dengan sistem resin polyester dan vinylester. Setiap lapisan digolek dengan tangan dan dibungkus vakum untuk kualiti yang konsisten. Kebuk semburan gelcoat menghasilkan kemasan marin berkilau tinggi dan rintang UV.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Percetakan & Hiasan SUP'
       description: 'Papan SUP dihias menggunakan percetakan digital untuk grafik warna penuh dan percetakan skrin untuk logo serta corak berulang. Pencetak digital menghasilkan reka bentuk dek berkualiti foto, manakala percetakan skrin menghasilkan tanda jenama yang tahan lama dan jelas.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Pemasangan Akhir & Kelengkapan'
       description: 'Garisan pemasangan tempat teras drop-stitch diakhiri dengan rel, dek EVA dipasang, serta sirip, injap, dan aksesori dipasang. Setiap papan mengikut senarai semak pemasangan 100 perkara yang disahkan oleh ketua pasukan.'
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: 'Pengujian & Pemeriksaan Kualiti'
       description: 'Setiap papan yang siap menjalani ujian penahanan udara wajib, pengesahan pelesapan jahitan, dan semakan sistem penuh sebelum dihantar. Makmal kualiti kami beroperasi secara bebas daripada pengeluaran dan melapor terus kepada pengurusan.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
   tagline: 'Peralatan'
@@ -141,7 +141,7 @@ faq_section:
   questions:
     - q: 'Berapakah kuantiti pesanan minimum (MOQ) untuk papan SUP boleh tiup OEM?'
       a: 'MOQ bermula pada 5–10 unit untuk model OEM standard. Acuan tersuai dan projek label peribadi memerlukan minimum 200 unit bergantung pada kerumitan. Pesanan percubaan dan jalanan sampel tersedia untuk pelancaran jenama baharu.'
-    - q: 'Adakah afarer memegang pensijilan BSCI?'
+    - q: 'Adakah olagoon memegang pensijilan BSCI?'
       a: 'Ya. Kilang kami mengekalkan pensijilan pematuhan sosial BSCI yang sah (laporan audit tersedia atas permintaan). Kami turut memegang ISO 9001 untuk pengurusan kualiti dan semua produk membawa pensijilan CE. Dokumentasi pematuhan REACH dan RoHS disertakan dengan setiap penghantaran OEM.'
     - q: 'Berapakah tempoh pengeluaran biasa untuk pesanan OEM?'
       a: 'Tempoh pengeluaran standard ialah 30–45 hari daripada PO disahkan dan deposit untuk pengeluaran OEM pukal. Pembangunan acuan tersuai menambah 15–20 hari untuk peralatan. Pengeluaran dipercepat tersedia untuk pesanan segera dan musim puncak. Sampel prototaip biasanya dihantar dalam masa 15–20 hari.'

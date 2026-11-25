@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratórium 03'
   title: 'Centrum RF zvárania'
   subtitle: 'Dielektrická technológia spájania pre zvary, ktoré odolajú tlaku'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Proces dielektrického spájania RF zváraním v Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'Proces dielektrického spájania RF zváraním v OLagoon'
 
-intro: 'Nafukovacie SUP je spoľahlivé len natoľko, nakoľko jeho švy. Jediný slabý zvar môže ohroziť celú komoru — a na mori nie je zlyhanie komory nepríjemnosťou; je to bezpečnostné riziko. V Afarer sme investovali do vyhradeného centra rádiofrekvenčného (RF) zvárania, ktoré spája priemyselné dielektrické zváracie lisy s prísnou kontrolou procesu a testovaním po zváraní. Každý šev, ktorý vyrobíme, je zdokumentovaný, vysledovateľný a certifikovaný tak, aby spĺňal alebo prekračoval požiadavky normy EN ISO 25649 — európskej normy pre nafukovacie vybavenie na voľný čas.'
+intro: 'Nafukovacie SUP je spoľahlivé len natoľko, nakoľko jeho švy. Jediný slabý zvar môže ohroziť celú komoru — a na mori nie je zlyhanie komory nepríjemnosťou; je to bezpečnostné riziko. V OLagoon sme investovali do vyhradeného centra rádiofrekvenčného (RF) zvárania, ktoré spája priemyselné dielektrické zváracie lisy s prísnou kontrolou procesu a testovaním po zváraní. Každý šev, ktorý vyrobíme, je zdokumentovaný, vysledovateľný a certifikovaný tak, aby spĺňal alebo prekračoval požiadavky normy EN ISO 25649 — európskej normy pre nafukovacie vybavenie na voľný čas.'
 
 content_html: |
   <h2>Veda za švom</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Náš záväzok voči vám</h2>
   <p>Každá doska, ktorú dodáme, nesie našu záruku kvality zvarov: ak niektorý šev počas záručnej doby zlyhá v normálnej prevádzke, príslušnú komoru bezplatne opravíme alebo vymeníme a vykoná sa analýza príčin, aby sa zabránilo opakovaniu. Nie je to len záruka — je to záväzok k neustálemu zlepšovaniu poháňaný skutočnými prevádzkovými údajmi.</p>
-  <p>Keď si vyberiete Afarer, vyberáte si švy, ktoré sú skonštruované, otestované a zdokumentované — nielen zvárané. To je rozdiel medzi doskou, ktorá pláva, a doskou, ktorá podáva výkon.</p>
+  <p>Keď si vyberiete OLagoon, vyberáte si švy, ktoré sú skonštruované, otestované a zdokumentované — nielen zvárané. To je rozdiel medzi doskou, ktorá pláva, a doskou, ktorá podáva výkon.</p>
 
 cta:
   title: 'Prediskutujte vaše zváracie požiadavky'

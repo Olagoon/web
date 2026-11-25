@@ -6,11 +6,11 @@ hero:
   title: Kürek kulübünüzü başlatın, yönetin ve büyütün<br />ticari kalitede SUP filolarıyla
   subtitle: Dünya genelinde kürek kulüpleri ve SUP okulları için SUP ekipmanları tedarikçisi — dayanıklı ticari tahtalar, kulüpler için toplu fiyatlar, marka özelleştirmesi ve hızlı yedek parçalar, böylece topluluğunuzun büyümesine odaklanabilirsiniz.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: Eş Afarer SUP boardlarında kürek kulübü üyeleri
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: Eş OLagoon SUP boardlarında kürek kulübü üyeleri
 benefits:
   title: Klüp Filo Avantajları
-  subtitle: 50'den fazla ülkedeki kürek kulüpleri neden Afarer'i ekipman ortağı olarak seçiyor.
+  subtitle: 50'den fazla ülkedeki kürek kulüpleri neden OLagoon'i ekipman ortağı olarak seçiyor.
   items:
     - metric: '%40+'
       label: Filo Maliyet Tasarrufu
@@ -81,7 +81,7 @@ training:
         - Eğitim müfredatı ve sertifikasyon desteği
         - CE sertifikalı ekipman
 features:
-  title: Kulüpler Neden Afarer'i Seçiyor
+  title: Kulüpler Neden OLagoon'i Seçiyor
   subtitle: Büyüken kulüpler için tutarlı kalite, hızlı yedek parça ve toplu fiyatlandırma.
   items:
     - title: 500+ Kiralama Döngüsü

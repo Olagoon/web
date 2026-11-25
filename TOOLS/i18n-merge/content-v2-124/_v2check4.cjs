@@ -1,19 +1,19 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const TEMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
 const EN_SLUGS = [
-  'afarer-sup-explorer-11-review',
-  'afarer-sup-tour-12-review',
-  'afarer-airdeck-360-review',
-  'afarer-airdeck-270-review',
-  'afarer-rib-330-review',
-  'afarer-rib-450-patrol-review',
-  'afarer-life-vest-classic-review',
-  'afarer-life-vest-pro-review',
-  'afarer-oars-pump-set-review',
-  'afarer-zb-mt350-review',
+  'olagoon-sup-explorer-11-review',
+  'olagoon-sup-tour-12-review',
+  'olagoon-airdeck-360-review',
+  'olagoon-airdeck-270-review',
+  'olagoon-rib-330-review',
+  'olagoon-rib-450-patrol-review',
+  'olagoon-life-vest-classic-review',
+  'olagoon-life-vest-pro-review',
+  'olagoon-oars-pump-set-review',
+  'olagoon-zb-mt350-review',
   'sup-vs-surfboard',
   'kayak-vs-sup',
   'sup-fitness-workout',

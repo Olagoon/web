@@ -1,6 +1,6 @@
 meta:
   title: 'Továrna a výroba — nafukovací SUP OEM | {SITE}'
-  description: 'Navštivte továrnu afarera: areál o rozloze 12 000 m² s řezáním, HF svařováním, tiskem, montáží a laboratoří kvality pro výrobu OEM/ODM nafukovacích SUP prken.'
+  description: 'Navštivte továrnu olagoona: areál o rozloze 12 000 m² s řezáním, HF svařováním, tiskem, montáží a laboratoří kvality pro výrobu OEM/ODM nafukovacích SUP prken.'
   keywords:
     - 'SUP továrna Čína'
     - 'továrna na nafukovací paddleboardy'
@@ -11,7 +11,7 @@ hero:
   title: Naše továrna
   subtitle: 12 000 m² moderního výrobního zařízení v Qingdao, Čína.
 intro:
-  - Naše továrna v Qingdao je srdcem výroby afarer. S rozlohou 12 000 m² a více než 200 kvalifikovanými zaměstnanci máme kapacitu a odbornost vyrábět vysoce kvalitní nafukovací SUP prkna a vybavení pro vodní sporty v měřítku.
+  - Naše továrna v Qingdao je srdcem výroby olagoon. S rozlohou 12 000 m² a více než 200 kvalifikovanými zaměstnanci máme kapacitu a odbornost vyrábět vysoce kvalitní nafukovací SUP prkna a vybavení pro vodní sporty v měřítku.
   - Naše zařízení je vybaveno nejmodernějšími stroji, včetně automatických CNC řezacích strojů, RF dielektrických svářeček, horkovzdušných těsnicích zařízení a digitálních tiskáren.
 stats:
   - value: 12 000 m²
@@ -64,22 +64,22 @@ workshops_section:
   workshops:
     - title: Řezání PVC a příprava materiálu
       description: Automatické CNC řezací stroje zpracovávají tkaniny PVC a drop-stitch s přesností pod jeden milimetr. Počítačově optimalizované rozmístění dílů minimalizuje odpad materiálu a zajišťuje, že každý panel splňuje rozměrovou specifikaci ještě před svařováním.
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: Svařování nafukovacích komor a tepelné svařování
       description: Samostatná svařovací dílna se stroji pro tepelné svařování a RF dielektrickými lisy. Horkovzdušné svářečky spojují a natavují PVC komory, zatímco RF svary vytvářejí vysoce pevné vzduchotěsné švy, které překračují požadavky EN ISO 25649.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: Spojení drop-stitch jádra
       description: Drop-stitch jádra SUP prken jsou k vnějším PVC laminátům spojena tepelnou laminací. Tisíce vnitřních polyesterových vláken spojují horní a spodní vrstvu a vytvářejí tuhou strukturu při tlaku 12–15 PSI. Okrajové pásy jsou pro pevnost hran spojeny třívrstvým svařováním (fusion).
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: Potisk a dekorace SUP
       description: SUP prkna jsou zdobena digitálním tiskem pro vícebarevnou grafiku a sítotiskem pro loga a opakující se vzory. Digitální tiskárny vytvářejí designy paluby v kvalitě fotografií, zatímco sítotisk zajišťuje odolné a výrazné prvky značky.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: Finální montáž a osazení
       description: Montážní linka, kde se na každé SUP prkno instalují ventily, kroužky D, madla, krabice pro ploutve a podlážky. Každé prkno prochází 100bodovým montážním kontrolním seznamem, který potvrzuje vedoucí týmu.
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: Testování a kontrola kvality
       description: Každé hotové prkno před expedicí prochází povinnou zkouškou zadržení vzduchu, ověřením pevnosti švů a kompletní kontrolou systémů. Naše laboratoř kvality pracuje nezávisle na výrobě a odpovídá přímo vedení.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 equipment_section:
   tagline: Vybavení
   title: Klíčové výrobní zařízení
@@ -132,7 +132,7 @@ faq_section:
   questions:
     - q: Jaké je minimální objednací množství (MOQ) pro OEM nafukovací SUP prkna?
       a: MOQ začíná na 5–10 kusech u standardních modelů OEM. Vlastní formy a projekty privátních značek vyžadují minimálně 200 kusů podle náročnosti. Pro uvedení nových značek nabízíme zkušební a vzorové zakázky.
-    - q: Má afarer certifikaci BSCI?
+    - q: Má olagoon certifikaci BSCI?
       a: Ano. Naše továrna udržuje platnou certifikaci sociální shody BSCI (protokol z auditu je k dispozici na vyžádání). Držíme také ISO 9001 pro řízení kvality a všechny produkty nesou certifikaci CE. Dokumentace o souladu s REACH a RoHS je přiložena ke každé zásilce OEM.
     - q: Jaká je typická dodací lhůta objednávky OEM?
       a: Standardní dodací lhůta je 30–45 dnů od potvrzené objednávky a zálohy u hromadné výroby OEM. Vývoj vlastních forem přidává 15–20 dnů na výrobu nástrojů. Urychlená výroba je k dispozici pro naléhavé zakázky a sezónní špičky. Prototypové vzorky se obvykle odesílají do 15–20 dnů.

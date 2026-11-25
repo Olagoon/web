@@ -1,6 +1,6 @@
 import openpyxl, os, re
 
-BASE = r'C:\afarer RIB boat'
+BASE = r'C:\olagoon RIB boat'
 OUT = r'C:\aweb\src\content\products'
 
 MODEL_NAMES = {
@@ -147,7 +147,7 @@ def generate_frontmatter(model_id, specs, std_acc, opt_acc):
     summary = f'High-performance {str(total_len).strip()} rigid-hull inflatable boat ({title}) for transport, fishing.'
     description = f'A {str(total_len).strip()} RIB ({title}) designed for {use_case} conditions, supporting engines up to {str(max_engine).strip()}.'
 
-    gallery_img = f'/images/afarer/products/rib/afarer-{slug}.jpg'
+    gallery_img = f'/images/olagoon/products/rib/olagoon-{slug}.jpg'
 
     # Build specs list
     spec_items = []
@@ -183,8 +183,8 @@ def generate_frontmatter(model_id, specs, std_acc, opt_acc):
     add_gallery(gallery_img, title, 1)
 
     # Check for additional gallery images (various naming patterns)
-    img_dir = r'C:\aweb\public\images\afarer\products\rib'
-    base_name = f'afarer-{slug}'
+    img_dir = r'C:\aweb\public\images\olagoon\products\rib'
+    base_name = f'olagoon-{slug}'
     model_lower = model_id.lower()
     patterns = [
         f'{base_name}-{{n}}',
@@ -199,7 +199,7 @@ def generate_frontmatter(model_id, specs, std_acc, opt_acc):
                 fname = pat_tmpl.replace('{n}', str(n)) + ext
                 full_path = os.path.join(img_dir, fname)
                 if os.path.exists(full_path):
-                    url = f'/images/afarer/products/rib/{fname}'
+                    url = f'/images/olagoon/products/rib/{fname}'
                     if url not in found_urls:
                         found_urls.add(url)
                         add_gallery(url, title, len(found_urls))

@@ -1,6 +1,6 @@
 meta:
   title: "Üretim Süreci — Hammaddeden SUP'a | {SITE}"
-  description: "Hammaddeden suya hazır SUP tahtasına: afarer'ın üretim sürecinin her adımı, kesme ve kaynaktan teste kadar kontrolümüz altındadır."
+  description: "Hammaddeden suya hazır SUP tahtasına: olagoon'ın üretim sürecinin her adımı, kesme ve kaynaktan teste kadar kontrolümüz altındadır."
   keywords:
     - 'SUP üretim süreci'
     - 'şişme SUP fabrikası'
@@ -13,7 +13,7 @@ hero:
   back_label: Fabrikaya Dön
   back_link: /factory/
 intro: >-
-  Üretimi üçüncü taraf fabrikalara yaptıran markaların aksine afarer, tüm üretim zincirinin sahibidir ve işletir. Bu dikey entegrasyon, her aşamada sıkı kalite kontrolü sağlamamıza, özel taleplere hızlı yanıt vermemize ve partiden partiye tutarlı ürün kalitesi sunmamıza olanak tanır. İşte
+  Üretimi üçüncü taraf fabrikalara yaptıran markaların aksine olagoon, tüm üretim zincirinin sahibidir ve işletir. Bu dikey entegrasyon, her aşamada sıkı kalite kontrolü sağlamamıza, özel taleplere hızlı yanıt vermemize ve partiden partiye tutarlı ürün kalitesi sunmamıza olanak tanır. İşte
   tesisimizde bir tahtanın nasıl inşa edildiği.
 steps:
   - step: '01'
@@ -50,6 +50,6 @@ steps:
     duration: 1 gün
 cta:
   title: Ekipman ve makinelerimizi görün
-  desc: Her afarer tahtasının arkasındaki endüstriyel ekipmanı keşfedin.
+  desc: Her olagoon tahtasının arkasındaki endüstriyel ekipmanı keşfedin.
   label: Ekipmanı Görün →
   link: /factory/equipment/

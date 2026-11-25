@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Resorts och hotell
   title: Förvandla din strandfront till ett intäktscenter<br />med premium SUP-flottor
-  subtitle: Afarer utrustar resorts världen över med uppblåsbara SUP-flottor i kommersiell kvalitet – från startpaket med 20 tavlor till flagship-program med 100+ tavlor. Skräddarsydd varumärkesprofil, personalutbildning och reservdelar ingår.
+  subtitle: OLagoon utrustar resorts världen över med uppblåsbara SUP-flottor i kommersiell kvalitet – från startpaket med 20 tavlor till flagship-program med 100+ tavlor. Skräddarsydd varumärkesprofil, personalutbildning och reservdelar ingår.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Resortgäster som njuter av SUP-på en orörd strand
 roi_section:
   title: Resortens SUP-intäktsmodell
@@ -20,7 +20,7 @@ roi_section:
       detail: Återhämta hela flottinvesteringen inom en säsong
     - metric: 40%
       label: Intäktsökning
-      detail: Genomsnittlig förbättring efter byte till Afarer-flottor
+      detail: Genomsnittlig förbättring efter byte till OLagoon-flottor
     - metric: 500+
       label: Uthyrningscykler per bräda
       detail: Kommersiell hållbarhet för dagligt bruk
@@ -67,7 +67,7 @@ packages:
       revenue: $200K+ potentiell årsintäkt
       cta_text: Skaffa Flaggskeppspaket
 case_study:
-  quote: Sedan vi bytte till Afarer har vår SUP-uthyrningsintäkt ökat med 40 %. Kostnaderna för bräduppsättning minskade med 60 %. Vi återfick hela flottinvesteringen på 4 månader.
+  quote: Sedan vi bytte till OLagoon har vår SUP-uthyrningsintäkt ökat med 40 %. Kostnaderna för bräduppsättning minskade med 60 %. Vi återfick hela flottinvesteringen på 4 månader.
   author: Vattenaktivitetsansvarig
   location: 5-stjärnig resort, Maldiverna
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Återbetalningstid
       value: 4 månader
 features:
-  title: Varför resorter väljer Afarer
+  title: Varför resorter väljer OLagoon
   subtitle: Kommersiell hållbarhet, global logistik och en partner som förstår hotellbranschen.
   items:
     - title: 500+ uthyrningscykler

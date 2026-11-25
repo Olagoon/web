@@ -82,13 +82,13 @@ for (const loc of LOCALES) {
     const dec = loc === 'ja' || loc === 'ko' ? '2.2' : '2,2';
     if (!vw.a.includes(dec)) errs.push(`sup-volume-weight: decimal ${dec} missing (got: ${vw.a.slice(0, 80)}...)`);
   }
-  const avo = by('afarer-vs-others');
+  const avo = by('olagoon-vs-others');
   if (avo) {
     if (loc === 'es') {
       if (!avo.a.includes('90 %') || !avo.a.includes('60 %'))
-        errs.push('afarer-vs-others: es percent spacing "90 %" missing');
+        errs.push('olagoon-vs-others: es percent spacing "90 %" missing');
     } else if (!avo.a.includes('90%') || !avo.a.includes('60%')) {
-      errs.push('afarer-vs-others: "90%"/"60%" missing');
+      errs.push('olagoon-vs-others: "90%"/"60%" missing');
     }
   }
   const ws = by('wind-safety');
@@ -102,17 +102,17 @@ for (const loc of LOCALES) {
     if (!qc.a.includes('AQL') || !qc.a.includes('ISO 2859')) errs.push('b2b-quality-control: AQL/ISO 2859 missing');
   }
 
-  // brand casing report: flag "Afarer" not at sentence start
+  // brand casing report: flag "OLagoon" not at sentence start
   const brandIssues = [];
   let lowerCount = 0;
   data.forEach((r) => {
     const text = r.q + ' ' + r.a;
-    lowerCount += (text.match(/afarer/g) || []).length;
+    lowerCount += (text.match(/olagoon/g) || []).length;
     let idx = 0;
-    while ((idx = text.indexOf('Afarer', idx)) !== -1) {
+    while ((idx = text.indexOf('OLagoon', idx)) !== -1) {
       const prev = text.slice(Math.max(0, idx - 2), idx);
       if (!/(^|[.?!…]\s|:\s)$/.test(prev)) {
-        brandIssues.push(`${r.id}: "Afarer" mid-sentence (prev "${prev}")`);
+        brandIssues.push(`${r.id}: "OLagoon" mid-sentence (prev "${prev}")`);
       }
       idx += 6;
     }
@@ -126,7 +126,7 @@ for (const loc of LOCALES) {
     console.log(`[${loc}] ${errs.length} issue(s):`);
     errs.slice(0, 25).forEach((e) => console.log(`   ${e}`));
   } else {
-    console.log(`[${loc}] clean (afarer lowercase x${lowerCount})`);
+    console.log(`[${loc}] clean (olagoon lowercase x${lowerCount})`);
   }
 }
 console.log(fail === 0 ? 'ALL CLEAN' : `${fail} locale(s) FAILED`);

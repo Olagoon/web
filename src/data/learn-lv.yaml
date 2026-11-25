@@ -1,10 +1,10 @@
 misc:
   readGuide: Lasīt ceļvedi →
   techDesc: Jūras drošības inženierija un materiālu testēšana
-  productsDesc: Izpētiet pilno afarer produktu katalogu
+  productsDesc: Izpētiet pilno olagoon produktu katalogu
   trustDesc: CE, ISO un BSCI atbilstība
 sup:
-  title: SUP zināšanas — Piepūšamo SUP ceļveži un resursi | Afarer
+  title: SUP zināšanas — Piepūšamo SUP ceļveži un resursi | OLagoon
   description: Pilnīgs SUP zināšanu centrs, kas aptver iesācēju ceļvežus, dēļu izmērus, tehnikas pamācības, drošības padomus un piepūšamo SUP tehnoloģijas.
   articles:
     - title: SUP pamati — Iesācēju ceļvedis
@@ -26,7 +26,7 @@ sup:
       desc: Būtiskas drošības zināšanas, tostarp laikapstākļu novērtēšana, PFD izvēle, pašglābšanās un airēšana grupā.
       href: /learn/water-safety/
 water-safety:
-  title: Zināšanas par drošību uz ūdens — Drošas airēšanas ceļveži | Afarer
+  title: Zināšanas par drošību uz ūdens — Drošas airēšanas ceļveži | OLagoon
   description: Vispusīgs resurss par drošību uz ūdens SUP, kajaku un laivu braucējiem. Uzziniet par PFD izvēli, laikapstākļu novērtēšanu, pašglābšanos, drošību aukstā ūdenī un CE sertifikāciju.
   articles:
     - title: Drošības uz ūdens ceļvedis
@@ -49,7 +49,7 @@ water-safety:
       href: /trust/
 sup-basics:
   title: SUP pamati — Iesācēja ceļvedis airēšanā ar SUP dēli
-  description: Viss, kas jāzina, lai sāktu airēt ar SUP dēli. Aprīkojuma ceļveži, padomi par izmēru izvēli, drošības ieteikumi un iesācēju tehnikas no afarer zināšanu centra.
+  description: Viss, kas jāzina, lai sāktu airēt ar SUP dēli. Aprīkojuma ceļveži, padomi par izmēru izvēli, drošības ieteikumi un iesācēju tehnikas no olagoon zināšanu centra.
   articles: []
 drop-stitch-core:
   title: Drop-stitch kodola tehnoloģija — Kā piepūšamie SUP iegūst stingrību

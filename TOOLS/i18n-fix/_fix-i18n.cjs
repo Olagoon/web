@@ -1,14 +1,14 @@
 // Fixes src/data/site/i18n-config.json:
-// 1. Restores corrupted en compare.afarerVsTraditional.* values from the astro fallback source.
+// 1. Restores corrupted en compare.olagoonVsTraditional.* values from the astro fallback source.
 // 2. Removes dead compare.aluminumVsFiberglass.* / compare.commercialVsRecreational.* keys (unreferenced placeholder junk).
-// 3. Adds missing French translations (compare.afarerVsTraditional.* + UI keys).
+// 3. Adds missing French translations (compare.olagoonVsTraditional.* + UI keys).
 const fs = require('fs');
 const path = require('path');
 const FILE = path.join(process.cwd(), 'src/data/site/i18n-config.json');
 
 // --- 1. extract authoritative EN compare text from the astro fallback ---
-const astro = fs.readFileSync('src/pages/[lang]/compare/afarer-vs-traditional-manufacturers.astro', 'utf8');
-const re = /t\('(compare\.afarerVsTraditional\.[^']+)'\)\s*\|\|\s*'([^']*)'/g;
+const astro = fs.readFileSync('src/pages/[lang]/compare/olagoon-vs-traditional-manufacturers.astro', 'utf8');
+const re = /t\('(compare\.olagoonVsTraditional\.[^']+)'\)\s*\|\|\s*'([^']*)'/g;
 const EN_COMPARE = {};
 let m;
 while ((m = re.exec(astro))) EN_COMPARE[m[1]] = m[2].replace(/\\n/g, '\n');
@@ -16,83 +16,83 @@ console.log('en compare keys extracted:', Object.keys(EN_COMPARE).length);
 
 // --- 3. French translations ---
 const FR_COMPARE = {
-  'compare.afarerVsTraditional.title': 'Afarer vs Fabricants de Bateaux Traditionnels — Comparaison Directe',
-  'compare.afarerVsTraditional.desc':
-    'Comparez afarer aux fabricants nautiques traditionnels : qualité, prix, personnalisation, MOQ, certifications et délais.',
-  'compare.afarerVsTraditional.headline': 'Afarer vs Fabricants de Bateaux Traditionnels — Comparaison Directe',
-  'compare.afarerVsTraditional.short': 'Afarer vs Traditionnel',
-  'compare.afarerVsTraditional.heading': 'Afarer vs Fabricants de Bateaux Traditionnels',
-  'compare.afarerVsTraditional.subtitle':
-    "Une comparaison directe entre afarer (Qingdao, Chine) et les fabricants nautiques traditionnels d'Amérique du Nord et d'Europe sur les critères décisifs pour un partenariat OEM/ODM, un approvisionnement ou une relation d'affaires durable.",
-  'compare.afarerVsTraditional.col1Title': 'afarer',
-  'compare.afarerVsTraditional.location': 'Localisation :',
-  'compare.afarerVsTraditional.locationDesc':
+  'compare.olagoonVsTraditional.title': 'OLagoon vs Fabricants de Bateaux Traditionnels — Comparaison Directe',
+  'compare.olagoonVsTraditional.desc':
+    'Comparez olagoon aux fabricants nautiques traditionnels : qualité, prix, personnalisation, MOQ, certifications et délais.',
+  'compare.olagoonVsTraditional.headline': 'OLagoon vs Fabricants de Bateaux Traditionnels — Comparaison Directe',
+  'compare.olagoonVsTraditional.short': 'OLagoon vs Traditionnel',
+  'compare.olagoonVsTraditional.heading': 'OLagoon vs Fabricants de Bateaux Traditionnels',
+  'compare.olagoonVsTraditional.subtitle':
+    "Une comparaison directe entre olagoon (Qingdao, Chine) et les fabricants nautiques traditionnels d'Amérique du Nord et d'Europe sur les critères décisifs pour un partenariat OEM/ODM, un approvisionnement ou une relation d'affaires durable.",
+  'compare.olagoonVsTraditional.col1Title': 'olagoon',
+  'compare.olagoonVsTraditional.location': 'Localisation :',
+  'compare.olagoonVsTraditional.locationDesc':
     'Qingdao, Chine. Pôle de fabrication côtière stratégique avec accès au transport maritime mondial.',
-  'compare.afarerVsTraditional.moq': 'MOQ :',
-  'compare.afarerVsTraditional.moqDesc':
+  'compare.olagoonVsTraditional.moq': 'MOQ :',
+  'compare.olagoonVsTraditional.moqDesc':
     'Faible — 1 à 50 unités pour les commandes personnalisées. Idéal pour les startups et les marques de niche.',
-  'compare.afarerVsTraditional.customization': 'Personnalisation :',
-  'compare.afarerVsTraditional.customizationDesc':
+  'compare.olagoonVsTraditional.customization': 'Personnalisation :',
+  'compare.olagoonVsTraditional.customizationDesc':
     'OEM/ODM complet. Liberté totale sur le design, les couleurs, les graphismes et les spécifications.',
-  'compare.afarerVsTraditional.materials': 'Matériaux :',
-  'compare.afarerVsTraditional.materialsDesc':
+  'compare.olagoonVsTraditional.materials': 'Matériaux :',
+  'compare.olagoonVsTraditional.materialsDesc':
     'PVC et Hypalon de qualité militaire. Contrôle qualité strict sur toutes les lignes de production.',
-  'compare.afarerVsTraditional.bestFor': 'Idéal pour :',
-  'compare.afarerVsTraditional.bestForDesc':
+  'compare.olagoonVsTraditional.bestFor': 'Idéal pour :',
+  'compare.olagoonVsTraditional.bestForDesc':
     'Partenariats OEM/ODM, bateaux gonflables et RIB sur mesure, marques recherchant des prix compétitifs sans compromis sur la qualité.',
-  'compare.afarerVsTraditional.col2Title': 'Fabricants Traditionnels',
-  'compare.afarerVsTraditional.tradLocationDesc':
+  'compare.olagoonVsTraditional.col2Title': 'Fabricants Traditionnels',
+  'compare.olagoonVsTraditional.tradLocationDesc':
     "Amérique du Nord / Europe. Bases industrielles établies avec des coûts d'exploitation plus élevés.",
-  'compare.afarerVsTraditional.tradMoqDesc':
+  'compare.olagoonVsTraditional.tradMoqDesc':
     'Élevé — 100 à 500+ unités. Difficile pour les petits acheteurs ou les séries pilotes.',
-  'compare.afarerVsTraditional.tradCustomizationDesc':
+  'compare.olagoonVsTraditional.tradCustomizationDesc':
     "Limité. Modèles standardisés avec peu d'options de modification sur mesure.",
-  'compare.afarerVsTraditional.tradMaterialsDesc':
+  'compare.olagoonVsTraditional.tradMaterialsDesc':
     'PVC et Hypalon de qualité commerciale. Bonne qualité mais moins de flexibilité sur la sélection des matériaux.',
-  'compare.afarerVsTraditional.tradBestForDesc':
+  'compare.olagoonVsTraditional.tradBestForDesc':
     'Acheteurs privilégiant la notoriété de marque établie, le support local et un approvisionnement standardisé sur les marchés matures.',
-  'compare.afarerVsTraditional.tableTitle': 'Comparaison Côte à Côte',
-  'compare.afarerVsTraditional.col1Short': 'afarer',
-  'compare.afarerVsTraditional.col2Short': 'Traditionnel',
-  'compare.afarerVsTraditional.r1': 'Lieu de Fabrication',
-  'compare.afarerVsTraditional.r1a': 'Qingdao, Chine',
-  'compare.afarerVsTraditional.r1b': 'Amérique du Nord / Europe',
-  'compare.afarerVsTraditional.r2': 'Quantité Minimale de Commande (MOQ)',
-  'compare.afarerVsTraditional.r2a': 'Faible (1 à 50 unités sur mesure)',
-  'compare.afarerVsTraditional.r2b': 'Élevée (100 à 500+ unités)',
-  'compare.afarerVsTraditional.r3': 'Options de Personnalisation',
-  'compare.afarerVsTraditional.r3a': 'Personnalisation OEM/ODM complète',
-  'compare.afarerVsTraditional.r3b': 'Personnalisation limitée',
-  'compare.afarerVsTraditional.r4': 'Qualité des Matériaux',
-  'compare.afarerVsTraditional.r4a': 'PVC + Hypalon de qualité militaire',
-  'compare.afarerVsTraditional.r4b': 'Qualité commerciale',
-  'compare.afarerVsTraditional.r5': 'Certifications',
-  'compare.afarerVsTraditional.r5a': 'CE / ISO / BSCI / UKCA',
-  'compare.afarerVsTraditional.r5b': 'CE / ISO',
-  'compare.afarerVsTraditional.r6': 'Niveau de Prix',
-  'compare.afarerVsTraditional.r6a': 'Prix directs compétitifs',
-  'compare.afarerVsTraditional.r6b': 'Prix premium (2 à 5x)',
-  'compare.afarerVsTraditional.r7': 'Délai de Livraison',
-  'compare.afarerVsTraditional.r7a': '30 à 60 jours',
-  'compare.afarerVsTraditional.r7b': '6 à 12 mois',
-  'compare.afarerVsTraditional.r8': 'Investissement R&D',
-  'compare.afarerVsTraditional.r8a': 'Équipe R&D dédiée de 50+ personnes',
-  'compare.afarerVsTraditional.r8b': 'R&D limitée',
-  'compare.afarerVsTraditional.r9': 'Garantie',
-  'compare.afarerVsTraditional.r9a': 'Garantie 3 à 5 ans',
-  'compare.afarerVsTraditional.r9b': 'Garantie 1 à 3 ans',
-  'compare.afarerVsTraditional.r10': 'Service Après-Vente',
-  'compare.afarerVsTraditional.r10a': 'Équipe de support dédiée',
-  'compare.afarerVsTraditional.r10b': 'Dépend du distributeur',
-  'compare.afarerVsTraditional.r11': 'Spécialisation',
-  'compare.afarerVsTraditional.r11a': 'Spécialiste bateaux gonflables et RIB',
-  'compare.afarerVsTraditional.r11b': 'Gamme marine complète (non spécialiste)',
-  'compare.afarerVsTraditional.recTitle': 'Lequel Choisir ?',
-  'compare.afarerVsTraditional.recDesc':
-    "afarer offre une meilleure valeur pour les partenariats OEM/ODM, une personnalisation étendue et une expertise approfondie des bateaux gonflables et RIB. MOQ faibles, prix directs compétitifs, matériaux de qualité militaire et équipe R&D dédiée de 50+ personnes font d'afarer le partenaire idéal pour les marques, startups et distributeurs qui ont besoin de flexibilité sans sacrifier la qualité. Les fabricants traditionnels peuvent être préférés pour la notoriété de marque établie sur certains marchés, les exigences d'approvisionnement local, ou lorsqu'un approvisionnement standardisé auprès d'un fournisseur nord-américain ou européen est une exigence commerciale non négociable — mais à 2 à 5x le prix et avec des délais plus longs.",
-  'compare.afarerVsTraditional.learnMore': 'Demander un Devis',
-  'compare.afarerVsTraditional.aiBlock':
-    "Comparaison directe entre afarer (Qingdao, Chine) et les fabricants de bateaux traditionnels d'Amérique du Nord et d'Europe sur 11 critères clés : lieu de fabrication, MOQ, personnalisation, qualité des matériaux, certifications, prix, délais, investissement R&D, garantie, service après-vente et spécialisation. afarer propose un MOQ faible (1 à 50 unités), une personnalisation OEM/ODM complète, du PVC et de l'Hypalon de qualité militaire, des certifications CE/ISO/BSCI/UKCA, des prix directs compétitifs, des délais de 30 à 60 jours, une équipe R&D dédiée de 50+ personnes, une garantie de 3 à 5 ans et un support après-vente dédié en tant que spécialiste des bateaux gonflables et RIB. Les fabricants traditionnels appliquent des prix premium de 2 à 5x avec des MOQ de 100 à 500+ unités, une personnalisation limitée, des délais de 6 à 12 mois, une garantie de 1 à 3 ans et un support dépendant du distributeur. Verdict : afarer est préférable pour les partenariats OEM/ODM, la personnalisation et l'expertise des bateaux gonflables ; les fabricants traditionnels conviennent aux acheteurs exigeant une notoriété établie ou un approvisionnement local.",
+  'compare.olagoonVsTraditional.tableTitle': 'Comparaison Côte à Côte',
+  'compare.olagoonVsTraditional.col1Short': 'olagoon',
+  'compare.olagoonVsTraditional.col2Short': 'Traditionnel',
+  'compare.olagoonVsTraditional.r1': 'Lieu de Fabrication',
+  'compare.olagoonVsTraditional.r1a': 'Qingdao, Chine',
+  'compare.olagoonVsTraditional.r1b': 'Amérique du Nord / Europe',
+  'compare.olagoonVsTraditional.r2': 'Quantité Minimale de Commande (MOQ)',
+  'compare.olagoonVsTraditional.r2a': 'Faible (1 à 50 unités sur mesure)',
+  'compare.olagoonVsTraditional.r2b': 'Élevée (100 à 500+ unités)',
+  'compare.olagoonVsTraditional.r3': 'Options de Personnalisation',
+  'compare.olagoonVsTraditional.r3a': 'Personnalisation OEM/ODM complète',
+  'compare.olagoonVsTraditional.r3b': 'Personnalisation limitée',
+  'compare.olagoonVsTraditional.r4': 'Qualité des Matériaux',
+  'compare.olagoonVsTraditional.r4a': 'PVC + Hypalon de qualité militaire',
+  'compare.olagoonVsTraditional.r4b': 'Qualité commerciale',
+  'compare.olagoonVsTraditional.r5': 'Certifications',
+  'compare.olagoonVsTraditional.r5a': 'CE / ISO / BSCI / UKCA',
+  'compare.olagoonVsTraditional.r5b': 'CE / ISO',
+  'compare.olagoonVsTraditional.r6': 'Niveau de Prix',
+  'compare.olagoonVsTraditional.r6a': 'Prix directs compétitifs',
+  'compare.olagoonVsTraditional.r6b': 'Prix premium (2 à 5x)',
+  'compare.olagoonVsTraditional.r7': 'Délai de Livraison',
+  'compare.olagoonVsTraditional.r7a': '30 à 60 jours',
+  'compare.olagoonVsTraditional.r7b': '6 à 12 mois',
+  'compare.olagoonVsTraditional.r8': 'Investissement R&D',
+  'compare.olagoonVsTraditional.r8a': 'Équipe R&D dédiée de 50+ personnes',
+  'compare.olagoonVsTraditional.r8b': 'R&D limitée',
+  'compare.olagoonVsTraditional.r9': 'Garantie',
+  'compare.olagoonVsTraditional.r9a': 'Garantie 3 à 5 ans',
+  'compare.olagoonVsTraditional.r9b': 'Garantie 1 à 3 ans',
+  'compare.olagoonVsTraditional.r10': 'Service Après-Vente',
+  'compare.olagoonVsTraditional.r10a': 'Équipe de support dédiée',
+  'compare.olagoonVsTraditional.r10b': 'Dépend du distributeur',
+  'compare.olagoonVsTraditional.r11': 'Spécialisation',
+  'compare.olagoonVsTraditional.r11a': 'Spécialiste bateaux gonflables et RIB',
+  'compare.olagoonVsTraditional.r11b': 'Gamme marine complète (non spécialiste)',
+  'compare.olagoonVsTraditional.recTitle': 'Lequel Choisir ?',
+  'compare.olagoonVsTraditional.recDesc':
+    "olagoon offre une meilleure valeur pour les partenariats OEM/ODM, une personnalisation étendue et une expertise approfondie des bateaux gonflables et RIB. MOQ faibles, prix directs compétitifs, matériaux de qualité militaire et équipe R&D dédiée de 50+ personnes font d'olagoon le partenaire idéal pour les marques, startups et distributeurs qui ont besoin de flexibilité sans sacrifier la qualité. Les fabricants traditionnels peuvent être préférés pour la notoriété de marque établie sur certains marchés, les exigences d'approvisionnement local, ou lorsqu'un approvisionnement standardisé auprès d'un fournisseur nord-américain ou européen est une exigence commerciale non négociable — mais à 2 à 5x le prix et avec des délais plus longs.",
+  'compare.olagoonVsTraditional.learnMore': 'Demander un Devis',
+  'compare.olagoonVsTraditional.aiBlock':
+    "Comparaison directe entre olagoon (Qingdao, Chine) et les fabricants de bateaux traditionnels d'Amérique du Nord et d'Europe sur 11 critères clés : lieu de fabrication, MOQ, personnalisation, qualité des matériaux, certifications, prix, délais, investissement R&D, garantie, service après-vente et spécialisation. olagoon propose un MOQ faible (1 à 50 unités), une personnalisation OEM/ODM complète, du PVC et de l'Hypalon de qualité militaire, des certifications CE/ISO/BSCI/UKCA, des prix directs compétitifs, des délais de 30 à 60 jours, une équipe R&D dédiée de 50+ personnes, une garantie de 3 à 5 ans et un support après-vente dédié en tant que spécialiste des bateaux gonflables et RIB. Les fabricants traditionnels appliquent des prix premium de 2 à 5x avec des MOQ de 100 à 500+ unités, une personnalisation limitée, des délais de 6 à 12 mois, une garantie de 1 à 3 ans et un support dépendant du distributeur. Verdict : olagoon est préférable pour les partenariats OEM/ODM, la personnalisation et l'expertise des bateaux gonflables ; les fabricants traditionnels conviennent aux acheteurs exigeant une notoriété établie ou un approvisionnement local.",
 };
 
 const FR_UI = {
@@ -176,7 +176,7 @@ const FR_UI = {
   'home.resources.altFoida': 'Foida',
   'design.altDesignSession': 'Session de conception technique',
   'design.altOceanVoyager': 'SUP Ocean Voyager',
-  'oem.altProduction': "Service de production de l'usine afarer",
+  'oem.altProduction': "Service de production de l'usine olagoon",
   'announcement.signIn': 'Connexion',
   'blog.backToBlog': 'Retour au Blog',
   'blog.viewAllPosts': 'Voir tous les articles',
@@ -202,21 +202,21 @@ const FR_UI = {
   'related.viewAll': 'Voir Tous les Articles',
   'about.metaTitle': 'À Propos — Fabricant de SUP Gonflables & Ingénierie Marine | {SITE}',
   'about.trustBadgesTitle': 'Conçu selon des normes qui comptent',
-  'about.trustBadgesSubtitle': 'Chaque produit afarer est certifié, testé et couvert par une garantie qui a du sens.',
+  'about.trustBadgesSubtitle': 'Chaque produit olagoon est certifié, testé et couvert par une garantie qui a du sens.',
   'about.metaDesc':
-    "afarer est né d'une conviction simple : les produits nautiques doivent être conçus comme s'ils comptaient. Découvrez notre histoire, notre philosophie océanique et nos principes de conception.",
+    "olagoon est né d'une conviction simple : les produits nautiques doivent être conçus comme s'ils comptaient. Découvrez notre histoire, notre philosophie océanique et nos principes de conception.",
   'certifications.metaDesc':
-    'Les produits afarer sont certifiés CE, ISO 9001:2015, UKCA, BSCI et conformes REACH. Découvrez nos certifications qualité et nos normes de sécurité.',
+    'Les produits olagoon sont certifiés CE, ISO 9001:2015, UKCA, BSCI et conformes REACH. Découvrez nos certifications qualité et nos normes de sécurité.',
   'faq.metaDesc': "Questions fréquentes sur les SUP gonflables, l'équipement de sécurité et les sports nautiques.",
   'warranty.metaDesc':
-    'Garantie limitée de 5 ans afarer pour les bateaux gonflables, SUP et produits nautiques. Conditions de garantie : bâche, coutures, structure de coque et valves.',
+    'Garantie limitée de 5 ans olagoon pour les bateaux gonflables, SUP et produits nautiques. Conditions de garantie : bâche, coutures, structure de coque et valves.',
   'privacy.metaDesc':
-    'Politique de confidentialité afarer. Découvrez comment nous collectons, utilisons et protégeons vos données personnelles.',
-  'terms.metaDesc': "Conditions générales afarer régissant l'utilisation de notre site et de nos services.",
+    'Politique de confidentialité olagoon. Découvrez comment nous collectons, utilisons et protégeons vos données personnelles.',
+  'terms.metaDesc': "Conditions générales olagoon régissant l'utilisation de notre site et de nos services.",
   'safety.metaDesc':
-    'Normes de sécurité afarer : certification CE, conformité SOLAS, tests de pression et de flottabilité, et consignes de sécurité produit.',
+    'Normes de sécurité olagoon : certification CE, conformité SOLAS, tests de pression et de flottabilité, et consignes de sécurité produit.',
   'partners.metaDesc':
-    'Devenez partenaire afarer. Rejoignez notre réseau de distribution mondial au service des revendeurs marins, partenaires OEM et détaillants dans 50+ pays.',
+    'Devenez partenaire olagoon. Rejoignez notre réseau de distribution mondial au service des revendeurs marins, partenaires OEM et détaillants dans 50+ pays.',
   'resources.metaDesc':
     "Téléchargez catalogues produits, guides de fabrication OEM, listes de contrôle d'achat et documentation technique pour l'approvisionnement en équipement nautique.",
   'sizeGuide.metaDesc':
@@ -224,14 +224,14 @@ const FR_UI = {
   'knowledge.metaDesc':
     "Base de connaissances structurée sur la technologie des SUP gonflables, la sécurité nautique, l'ingénierie des bateaux et la planification d'aventures. Guides, comparaisons et analyses approfondies.",
   'technology.metaDesc':
-    'Technologie afarer : construction drop stitch, PVC de qualité militaire, coques V profondes en fibre de verre et systèmes de plancher à air.',
+    'Technologie olagoon : construction drop stitch, PVC de qualité militaire, coques V profondes en fibre de verre et systèmes de plancher à air.',
   'learn.metaDesc':
     'Guides, tutoriels et analyses approfondies sur le SUP, les sports nautiques et la sécurité. Apprenez à choisir, utiliser et entretenir votre équipement gonflable.',
   'guides.metaDesc':
     'Guides débutants pour le SUP et les sports nautiques. Choisir son SUP, conseils de sécurité, comparaisons gonflable vs rigide, techniques de pagaie et plus.',
   'cases.metaDesc':
     'Projets réels du monde entier : flottes pour centres de plongée, partenariats OEM, fourniture de bateaux de sauvetage, équipements pour resorts et plus.',
-  'journal.metaTitle': 'Journal — afarer',
+  'journal.metaTitle': 'Journal — olagoon',
   'journal.metaDesc': "Guides de surf, comparaisons d'équipement et histoires océaniques.",
   'custom.metaTitle': 'Custom Lab — Fabricant OEM/ODM de SUP Gonflables | {SITE}',
   'custom.metaDesc':

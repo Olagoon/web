@@ -1,6 +1,6 @@
 meta:
   title: 'Especialização Marítima — Engenharia em Cada Casco | {SITE}'
-  description: 'Décadas de engenharia marítima em cada casco. A afarer domina drop stitch, PVC marinho e design profissional de SUP inflável.'
+  description: 'Décadas de engenharia marítima em cada casco. A olagoon domina drop stitch, PVC marinho e design profissional de SUP inflável.'
   keywords:
     - 'engenharia marítima'
     - 'fabricante de SUP inflável'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: Especialização Marítima
   title: Décadas de Engenharia Marítima<br />em Cada Casco
-  subtitle: A afarer combina ciência profunda dos materiais, fabricação de precisão e testes em condições reais para produzir embarcações que performam quando importa.
+  subtitle: A olagoon combina ciência profunda dos materiais, fabricação de precisão e testes em condições reais para produzir embarcações que performam quando importa.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: uma equipe de engenharia marítima e P&D da Afarer em trabalho
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: uma equipe de engenharia marítima e P&D da OLagoon em trabalho
 expertise_materials:
   tagline: Ciência dos Materiais
   title: Escolher o Material Certo<br />para Cada Aplicação

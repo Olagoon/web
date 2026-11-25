@@ -3,8 +3,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const DIST = 'E:/github/afarer/dist';
-const SITE = 'https://afarer.com';
+const DIST = 'E:/github/olagoon/dist';
+const SITE = 'https://olagoon.com';
 const ROOT_TREE = new Set([
   'guides',
   'marine-industry',

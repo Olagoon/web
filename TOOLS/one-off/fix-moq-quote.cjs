@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const root = 'E:\\github\\afarer\\src\\data\\pages';
+const root = 'E:\\github\\olagoon\\src\\data\\pages';
 const targets = [];
 for (const f of fs.readdirSync(root)) {
   if (f.endsWith('.yaml') && f === 'distributor-program.yaml') targets.push(path.join(root, f));

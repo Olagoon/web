@@ -1,6 +1,6 @@
 meta:
   title: 'Poznatky — príručky SUP | {SITE}'
-  description: 'Databáza poznatkov afarer: príručky o nafukovacích SUP, materiáloch paddle boardov, výbere dosiek a pohľade do odvetvia pre značky a profesionálov.'
+  description: 'Databáza poznatkov olagoon: príručky o nafukovacích SUP, materiáloch paddle boardov, výbere dosiek a pohľade do odvetvia pre značky a profesionálov.'
   keywords:
     - 'poznatky sup'
     - 'príručka nafukovacích sup'
@@ -17,7 +17,7 @@ hero:
 clusters:
   tagline: 'Zoskupenia poznatkov'
   title: 'Preskúmajte podľa témy'
-  subtitle: 'Hlbšie pohľady na technológiu, bezpečnosť a zručnosti za každým produktom afarer.'
+  subtitle: 'Hlbšie pohľady na technológiu, bezpečnosť a zručnosti za každým produktom olagoon.'
   items:
     - title: 'Nákupné príručky SUP'
       description: 'Od výberu prvej dosky po pokročilé touringové techniky — všetko o pádlovaní v stoji.'

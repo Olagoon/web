@@ -1,10 +1,10 @@
 const fs = require('fs');
 const path = require('path');
-const js = require('E:/github/afarer/node_modules/js-yaml');
+const js = require('E:/github/olagoon/node_modules/js-yaml');
 
 const DIR = __dirname;
-const EN = js.load(fs.readFileSync('E:/github/afarer/src/data/site/content-v2.yaml', 'utf8'));
-const ID = js.load(fs.readFileSync('E:/github/afarer/src/data/site/content-v2.id.yaml', 'utf8'));
+const EN = js.load(fs.readFileSync('E:/github/olagoon/src/data/site/content-v2.yaml', 'utf8'));
+const ID = js.load(fs.readFileSync('E:/github/olagoon/src/data/site/content-v2.id.yaml', 'utf8'));
 const FIELDS = [
   'slug',
   'title',

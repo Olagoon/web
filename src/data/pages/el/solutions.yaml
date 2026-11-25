@@ -1,6 +1,6 @@
 meta:
   title: 'Επιχειρηματικές λύσεις — SUP για κάθε εταιρεία | {SITE}'
-  description: 'Οι επιχειρηματικές λύσεις afarer: στόλοι SUP για θέρετρα, συλλόγους, ενοικιάσεις, διανομή και ιδιωτικές μάρκες. Επαγγελματίας προμηθευτής ναυτικού εξοπλισμού για B2B.'
+  description: 'Οι επιχειρηματικές λύσεις olagoon: στόλοι SUP για θέρετρα, συλλόγους, ενοικιάσεις, διανομή και ιδιωτικές μάρκες. Επαγγελματίας προμηθευτής ναυτικού εξοπλισμού για B2B.'
   keywords:
     - 'επιχειρηματικές λύσεις SUP'
     - 'προμηθευτής φουσκωτών paddle board'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Επιχειρηματικές Λύσεις
   title: SUP Λύσεις<br />Για κάθε επιχείρηση
-  subtitle: Από resorts και λιανική πώληση έως εταιρείες ενοικίασης και παγκόσμιους διανομείς — η Afarer παρέχει ολοκληρωμένες λύσεις SUP προσαρμοσμένες στο επιχειρηματικό σας μοντέλο.
+  subtitle: Από resorts και λιανική πώληση έως εταιρείες ενοικίασης και παγκόσμιους διανομείς — η OLagoon παρέχει ολοκληρωμένες λύσεις SUP προσαρμοσμένες στο επιχειρηματικό σας μοντέλο.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Σανίδες SUP της Afarer για επιχειρηματικές και επαγγελματικές εφαρμογές
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Σανίδες SUP της OLagoon για επιχειρηματικές και επαγγελματικές εφαρμογές
 stats:
-  title: Η Afarer με μια ματιά
+  title: Η OLagoon με μια ματιά
   stats:
     - title: Χρόνια Εμπειρίας
       amount: Από το 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Χτίστε τη Δική σας Μάρκα
-      description: Ολοκληρωμένη κατασκευή OEM/ODM σανίδων SUP — σχεδιασμός, πρωτοτυποποίηση, μαζική παραγωγή και logistics. Ξεκινήστε τη μάρκα σας με την Afarer.
+      description: Ολοκληρωμένη κατασκευή OEM/ODM σανίδων SUP — σχεδιασμός, πρωτοτυποποίηση, μαζική παραγωγή και logistics. Ξεκινήστε τη μάρκα σας με την OLagoon.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

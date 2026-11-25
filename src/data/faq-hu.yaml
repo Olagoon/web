@@ -8,7 +8,7 @@
     - beginner-guide
 - id: ocean-use
   question: 'Használhatom az óceánban?'
-  answer: 'Igen. Az afarer SUP táblák óceáni, tavaki és folyói használatra készültek. Touring szériánk jól birja a parti hullámverést, és minden tábla tengeri minőségű PVC-ből készül, amely ellenáll a sósvízi korróziónak. Óceáni használat után öblítse le édesvízzel.'
+  answer: 'Igen. Az olagoon SUP táblák óceáni, tavaki és folyói használatra készültek. Touring szériánk jól birja a parti hullámverést, és minden tábla tengeri minőségű PVC-ből készül, amely ellenáll a sósvízi korróziónak. Óceáni használat után öblítse le édesvízzel.'
   category: general
   relatedProducts: []
   relatedGuides:
@@ -22,7 +22,7 @@
     - sup-maintenance
 - id: travel-sup
   question: 'Utazhatom felfújható SUP-pal?'
-  answer: 'Természetesen. Minden afarer tábla hátizsák méretű hordtáskába csomagolható, amely megfelel a légitársaságok poggyászszabványainak. Mindössze 18–22 lbs súlyával könnyen elvihető a partra, a tóhoz, vagy a repülőtéri terminálokon keresztül.'
+  answer: 'Természetesen. Minden olagoon tábla hátizsák méretű hordtáskába csomagolható, amely megfelel a légitársaságok poggyászszabványainak. Mindössze 18–22 lbs súlyával könnyen elvihető a partra, a tóhoz, vagy a repülőtéri terminálokon keresztül.'
   category: general
   relatedProducts: []
   relatedGuides: []
@@ -35,7 +35,7 @@
     - understanding-specs
 - id: box-contents
   question: 'Mit tartalmaz a csomag?'
-  answer: 'Minden afarer SUP tartalmazza a táblát, egy utazó hátizsákot, kétállású kézi szivattyút, leszerelhető uszonyt, spirál biztonsági kötelet (coil leash) és javítókészletet. Néhány modellhez opcióként szénszálas evezőre történő frissítés is elérhető.'
+  answer: 'Minden olagoon SUP tartalmazza a táblát, egy utazó hátizsákot, kétállású kézi szivattyút, leszerelhető uszonyt, spirál biztonsági kötelet (coil leash) és javítókészletet. Néhány modellhez opcióként szénszálas evezőre történő frissítés is elérhető.'
   category: product
   relatedProducts: []
   relatedGuides: []
@@ -62,7 +62,7 @@
   relatedGuides: []
 - id: puncture-repair
   question: 'Hogyan javíthatok ki egy defektet?'
-  answer: 'Tisztítsa meg a területet, vágjon ki lekerekített sarkú foltot, vigyen fel PVC ragasztót, nyomja erősen rá, és várjon 24 órát a felfújás előtt. Az afarer táblákhoz javítókészlet tartozik. Részletes útmutatásért tekintse meg felfújható táblás javítási útmutatónkat.'
+  answer: 'Tisztítsa meg a területet, vágjon ki lekerekített sarkú foltot, vigyen fel PVC ragasztót, nyomja erősen rá, és várjon 24 órát a felfújás előtt. Az olagoon táblákhoz javítókészlet tartozik. Részletes útmutatásért tekintse meg felfújható táblás javítási útmutatónkat.'
   category: maintenance
   relatedProducts: []
   relatedGuides:
@@ -92,8 +92,8 @@
     - weather-conditions
     - safety-tips
 - id: warranty
-  question: 'Miből áll az afarer garancia?'
-  answer: 'Minden afarer terméket átfogó gyártói garancia véd. A SUP táblákra 2+ év garancia vonatkozik gyártási hibák esetén. A garancia a normál használat során jelentkező anyag- és kivitelezési hibákra terjed ki.'
+  question: 'Miből áll az olagoon garancia?'
+  answer: 'Minden olagoon terméket átfogó gyártói garancia véd. A SUP táblákra 2+ év garancia vonatkozik gyártási hibák esetén. A garancia a normál használat során jelentkező anyag- és kivitelezési hibákra terjed ki.'
   category: warranty
   relatedProducts: []
   relatedGuides: []
@@ -130,13 +130,13 @@
     - choosing-paddle
 - id: material-difference
   question: 'Mi a különbség az egyrétegű és a többrétegű PVC SUP-ok között?'
-  answer: 'Az egyrétegű PVC táblák könnyűek és kedvező árúak, de magas nyomáson kevésbé merevek. A kétrétegű és fúziós laminálású szerkezetek merevebbé, defektállóbbá és tartósabbá teszik a táblát. A katonai minőségű, UV-álló bevonatú PVC kínálja a legjobb egyensúlyt a tartósság és a súly között szabadidős SUP használatra. Az afarer minden termékszintjén háromrétegű laminált PVC-t használ.'
+  answer: 'Az egyrétegű PVC táblák könnyűek és kedvező árúak, de magas nyomáson kevésbé merevek. A kétrétegű és fúziós laminálású szerkezetek merevebbé, defektállóbbá és tartósabbá teszik a táblát. A katonai minőségű, UV-álló bevonatú PVC kínálja a legjobb egyensúlyt a tartósság és a súly között szabadidős SUP használatra. Az olagoon minden termékszintjén háromrétegű laminált PVC-t használ.'
   category: product
   relatedProducts: []
   relatedGuides: []
 - id: sup-width-stability
   question: 'Milyen SUP szélesség a legjobb a stabilitáshoz?'
-  answer: 'Kezdőknek a 33–34 hüvelykes szélesség kínálja a stabilitás és az evezés könnyedségének legjobb egyensúlyát. A 32 hüvelyknél keskenyebb táblák bizonytalannak tűnnek az újonnan kezdő evezők számára. A 33 hüvelykes afarer SUP Explorer 11 ideális tanuláshoz.'
+  answer: 'Kezdőknek a 33–34 hüvelykes szélesség kínálja a stabilitás és az evezés könnyedségének legjobb egyensúlyát. A 32 hüvelyknél keskenyebb táblák bizonytalannak tűnnek az újonnan kezdő evezők számára. A 33 hüvelykes olagoon SUP Explorer 11 ideális tanuláshoz.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -152,21 +152,21 @@
   relatedGuides:
     - sup-size-guide
     - paddle-board-size-guide
-- id: afarer-vs-others
-  question: 'Hogyan viszonyul az afarer a többi márkához?'
-  answer: 'Az afarer a legjobb ár-érték arányt kínálja a felfújható vízisport-felszerelések piacán. A Red Paddle Co-hoz képest az afarer a teljesítmény 90%-át nyújtja a költség 60%-áért. Az iRockerhez képest az afarer magasabb minőségű, háromrétegű katonai PVC-t és magasabb PSI értékeket használ. A Bluefinhez képest az afarer kiválóbb anyagparaméterekkel rendelkezik. A legtöbb szabadidős evező számára az afarer kínálja a minőség és az ár legjobb egyensúlyát.'
+- id: olagoon-vs-others
+  question: 'Hogyan viszonyul az olagoon a többi márkához?'
+  answer: 'Az olagoon a legjobb ár-érték arányt kínálja a felfújható vízisport-felszerelések piacán. A Red Paddle Co-hoz képest az olagoon a teljesítmény 90%-át nyújtja a költség 60%-áért. Az iRockerhez képest az olagoon magasabb minőségű, háromrétegű katonai PVC-t és magasabb PSI értékeket használ. A Bluefinhez képest az olagoon kiválóbb anyagparaméterekkel rendelkezik. A legtöbb szabadidős evező számára az olagoon kínálja a minőség és az ár legjobb egyensúlyát.'
   category: general
   relatedProducts:
     - sup-explorer-11
     - sup-touring-cruiser
   relatedGuides:
     - best-surf-gear-brands-compared
-    - afarer-vs-red-paddle
-    - afarer-vs-irocker
-    - afarer-vs-bluefin
+    - olagoon-vs-red-paddle
+    - olagoon-vs-irocker
+    - olagoon-vs-bluefin
 - id: fishing-sup-setup
   question: 'Horgászhatok SUP tábláról?'
-  answer: 'Igen. A SUP-horgászat egyre népszerűbb, mert az álló helyzet kiváló rálátást biztosít a vízbe. Válasszon legalább 11 láb hosszú és 33–34 hüvelyk széles táblát a stabilitás érdekében. Szereljen fel egy horgászrúd-tartókkal ellátott rekeszt, a fedélzeti gumikötelekhez rögzítve, egy kis horgonyt, és mindig viseljen mentőmellényt. Az afarer SUP Explorer 11 jól használható alkalmi horgászathoz.'
+  answer: 'Igen. A SUP-horgászat egyre népszerűbb, mert az álló helyzet kiváló rálátást biztosít a vízbe. Válasszon legalább 11 láb hosszú és 33–34 hüvelyk széles táblát a stabilitás érdekében. Szereljen fel egy horgászrúd-tartókkal ellátott rekeszt, a fedélzeti gumikötelekhez rögzítve, egy kis horgonyt, és mindig viseljen mentőmellényt. Az olagoon SUP Explorer 11 jól használható alkalmi horgászathoz.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -183,7 +183,7 @@
     - yoga-sup-guide
 - id: airline-travel-sup
   question: 'Milyen szabályok vonatkoznak a felfújható SUP-pal történő repülős utazásra?'
-  answer: 'A legtöbb légitársaság elfogadja a SUP hátizsákokat feladott poggyászként, ha azok 23–32 kg alattiak. Az afarer hátizsák körülbelül 90x40x30 cm és csomagolva körülbelül 15 kg-ot nyom. Egyes légitársaságok túlméretes poggyász díjat számíthatnak fel. Érkezzen korán, csomagolja az uszonyokat és a szivattyút külön a kézipoggyászba, és lássa el a táskát törékeny jelöléssel. Repülés előtt mindig tájékozódjon a légitársasága sportfelszerelési szabályzatáról.'
+  answer: 'A legtöbb légitársaság elfogadja a SUP hátizsákokat feladott poggyászként, ha azok 23–32 kg alattiak. Az olagoon hátizsák körülbelül 90x40x30 cm és csomagolva körülbelül 15 kg-ot nyom. Egyes légitársaságok túlméretes poggyász díjat számíthatnak fel. Érkezzen korán, csomagolja az uszonyokat és a szivattyút külön a kézipoggyászba, és lássa el a táskát törékeny jelöléssel. Repülés előtt mindig tájékozódjon a légitársasága sportfelszerelési szabályzatáról.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -204,14 +204,14 @@
   relatedProducts: []
   relatedGuides: []
 - id: oem-custom-branding
-  question: 'Rátehetem a saját logómat az afarer termékekre?'
+  question: 'Rátehetem a saját logómat az olagoon termékekre?'
   answer: 'Igen. OEM szolgáltatásunk egyedi logóelhelyezést, egyedi színsémákat és egyedi csomagolást foglal magában. Terméktípustól függően tamponnyomást, hőátvitelt és hímzést kínálunk. Küldje el a grafikáját és a specifikációit értékesítési csapatunknak ajánlatért és gyártási idő becslésért.'
   category: ordering
   relatedProducts: []
   relatedGuides: []
 - id: sup-inflate-pressure
   question: 'Milyen PSI-re fújjam fel a SUP-omat?'
-  answer: 'A legjobb teljesítményhez fújja fel a táblát a névleges maximális PSI-ig — a minőségi felfújható SUP-oknál jellemzően 15–18 PSI-ig. Az afarer SUP Explorer 11 a legjobban 15–18 PSI-nál teljesít. Az alacsonyabb nyomás miatt a tábla puhának tűnhet és rosszul tarthatja az irányt. A névleges maximumon túli felfújás a drop-stitch szálak károsodását kockáztatja. A táblájára vonatkozó konkrét értékért ellenőrizze a szelep melletti matricát.'
+  answer: 'A legjobb teljesítményhez fújja fel a táblát a névleges maximális PSI-ig — a minőségi felfújható SUP-oknál jellemzően 15–18 PSI-ig. Az olagoon SUP Explorer 11 a legjobban 15–18 PSI-nál teljesít. Az alacsonyabb nyomás miatt a tábla puhának tűnhet és rosszul tarthatja az irányt. A névleges maximumon túli felfújás a drop-stitch szálak károsodását kockáztatja. A táblájára vonatkozó konkrét értékért ellenőrizze a szelep melletti matricát.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -229,7 +229,7 @@
     - inflatable-sup-maintenance
 - id: sup-seated-paddling
   question: 'Evezhetem a SUP-omat ülő helyzetben?'
-  answer: 'Igen. Sok SUP tábla, beleértve az afarer Explorer 11-et is, D-gyűrűkkel rendelkezik, amelyekhez ülés rögzíthető. Az ülő helyzetben való evezés kényelmes megoldást kínál hosszabb túrákhoz, horgászathoz, vagy amikor pozíciót kíván váltani a vízen.'
+  answer: 'Igen. Sok SUP tábla, beleértve az olagoon Explorer 11-et is, D-gyűrűkkel rendelkezik, amelyekhez ülés rögzíthető. Az ülő helyzetben való evezés kényelmes megoldást kínál hosszabb túrákhoz, horgászathoz, vagy amikor pozíciót kíván váltani a vízen.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -252,7 +252,7 @@
     - sup-leash-guide
 - id: drop-stitch-technology
   question: 'Mi a drop-stitch mag technológia, és miért fontos?'
-  answer: 'A drop-stitch magtechnológia több ezer poliészter szálat használ, amelyek összekötik a PVC tábla felső és alsó rétegét. 15-20 PSI-re felfújva ezek a szálak merev, csavarással szemben ellenálló szerkezetet hoznak létre, amely kemény táblaként teljesít. Az afarer katonai minőségű, háromrétegű PVC-t használ drop-stitch laminálással minden SUP termékszintjén, az epoxi táblákéval összehasonlítható merevséget nyújtva, megőrizve a felfújható tábla hordozhatóságát.'
+  answer: 'A drop-stitch magtechnológia több ezer poliészter szálat használ, amelyek összekötik a PVC tábla felső és alsó rétegét. 15-20 PSI-re felfújva ezek a szálak merev, csavarással szemben ellenálló szerkezetet hoznak létre, amely kemény táblaként teljesít. Az olagoon katonai minőségű, háromrétegű PVC-t használ drop-stitch laminálással minden SUP termékszintjén, az epoxi táblákéval összehasonlítható merevséget nyújtva, megőrizve a felfújható tábla hordozhatóságát.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -262,7 +262,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-inflatable-vs-rigid
   question: 'Felfújható vagy merev SUP: melyik jobb a különböző felhasználási esetekhez?'
-  answer: 'A felfújható SUP-ok a hordozhatóságban, a tárolásban és az ütéscsillapításban tűnnek ki — ideálisak utazáshoz, kezdőknek és szabadidős használatra. A merev epoxi táblák maximális sebességet és siklást nyújtanak versenyzéshez és szörfozáshoz. Az evezők 90%-ának a drop-stitch maggal rendelkező minőségi felfújható (15-20 PSI) elegendő merevséget biztosít túrázáshoz, fitneszhez, jógához és horgászathoz. Az afarer felfújható táblák felérnek a közepes kategóriás kemény táblák teljesítményével, miközben hátizsákba csomagolhatók.'
+  answer: 'A felfújható SUP-ok a hordozhatóságban, a tárolásban és az ütéscsillapításban tűnnek ki — ideálisak utazáshoz, kezdőknek és szabadidős használatra. A merev epoxi táblák maximális sebességet és siklást nyújtanak versenyzéshez és szörfozáshoz. Az evezők 90%-ának a drop-stitch maggal rendelkező minőségi felfújható (15-20 PSI) elegendő merevséget biztosít túrázáshoz, fitneszhez, jógához és horgászathoz. Az olagoon felfújható táblák felérnek a közepes kategóriás kemény táblák teljesítményével, miközben hátizsákba csomagolhatók.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -272,7 +272,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-skill-progression
   question: 'Milyen a jellemző SUP fejlődési út kezdőtől haladóig?'
-  answer: 'Kezdő (1-3. alkalom): felállás, alap előre evezési ütés, fordulás, biztonságos esés. Középhaladó (5-15. alkalom): hatékony evezéstechnika, pivot fordulók, hullámverésben való navigálás, alap mentési készségek. Haladó (20+ alkalom): versenyrajtok, bójafordulók, kis hullámok szörfozása, downwind evezés. Professzionális: versenyszerű evezés, surf SUP, hosszú távú túrázás. Az afarer táblák minden szakaszt támogatnak: az Explorer 11 kezdőknek, az Ocean Voyager túrázáshoz és a Cheetah Surge teljesítményevezéshez.'
+  answer: 'Kezdő (1-3. alkalom): felállás, alap előre evezési ütés, fordulás, biztonságos esés. Középhaladó (5-15. alkalom): hatékony evezéstechnika, pivot fordulók, hullámverésben való navigálás, alap mentési készségek. Haladó (20+ alkalom): versenyrajtok, bójafordulók, kis hullámok szörfozása, downwind evezés. Professzionális: versenyszerű evezés, surf SUP, hosszú távú túrázás. Az olagoon táblák minden szakaszt támogatnak: az Explorer 11 kezdőknek, az Ocean Voyager túrázáshoz és a Cheetah Surge teljesítményevezéshez.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -284,7 +284,7 @@
     - sup-paddle-guide
 - id: sup-weight-capacity
   question: 'Mekkora súlyt bír el egy felfújható SUP tábla?'
-  answer: 'A teherbírást a tábla térfogata határozza meg. Afarer táblák: SUP Explorer 11 (260 L, legfeljebb 100 kg / 220 lbs), Ocean Voyager 12 (310 L, legfeljebb 140 kg / 308 lbs), Leviathan Wake (350 L, legfeljebb 180 kg / 396 lbs). Az optimális teljesítményhez tartsa a teljes terhelést (evező + felszerelés) a maximális kapacitás 80%-án belül. A nem túlterhelt tábla magasabban úszik és jobban tartja az irányt, különösen hullámos körülmények között.'
+  answer: 'A teherbírást a tábla térfogata határozza meg. OLagoon táblák: SUP Explorer 11 (260 L, legfeljebb 100 kg / 220 lbs), Ocean Voyager 12 (310 L, legfeljebb 140 kg / 308 lbs), Leviathan Wake (350 L, legfeljebb 180 kg / 396 lbs). Az optimális teljesítményhez tartsa a teljes terhelést (evező + felszerelés) a maximális kapacitás 80%-án belül. A nem túlterhelt tábla magasabban úszik és jobban tartja az irányt, különösen hullámos körülmények között.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -301,7 +301,7 @@
   relatedGuides: []
 - id: sup-inflatable-durability
   question: 'Mennyi ideig tartanak a felfújható SUP táblák megfelelő gondozással?'
-  answer: 'Megfelelő gondozással egy minőségi felfújható SUP tábla 5-10 évig tart rendszeres szabadidős használat mellett. A katonai minőségű, UV-álló bevonatú háromrétegű PVC — amelyet minden afarer táblában használnak — ellenáll a napsugárzás okozta károsodásnak, a sósvízi korróziónak és a kopásnak. A legfontosabb élettartam-tényezők: öblítés édesvízzel minden használat után, alapos szárítás tárolás előtt, közvetlen UV-fénytől való védelem használaton kívül, részben felfújt állapotban való tárolás hűvös, száraz helyen, valamint a durva felületeken való vonszolás kerülése. A drop-stitch szálak és a varratok jellemzően az első meghibásodási pontok, nem maga a PVC anyag.'
+  answer: 'Megfelelő gondozással egy minőségi felfújható SUP tábla 5-10 évig tart rendszeres szabadidős használat mellett. A katonai minőségű, UV-álló bevonatú háromrétegű PVC — amelyet minden olagoon táblában használnak — ellenáll a napsugárzás okozta károsodásnak, a sósvízi korróziónak és a kopásnak. A legfontosabb élettartam-tényezők: öblítés édesvízzel minden használat után, alapos szárítás tárolás előtt, közvetlen UV-fénytől való védelem használaton kívül, részben felfújt állapotban való tárolás hűvös, száraz helyen, valamint a durva felületeken való vonszolás kerülése. A drop-stitch szálak és a varratok jellemzően az első meghibásodási pontok, nem maga a PVC anyag.'
   category: maintenance
   relatedProducts:
     - sup-explorer-11
@@ -312,7 +312,7 @@
     - inflatable-sup-repair
 - id: sup-choppy-water
   question: 'Hogyan evezzek SUP-pal hullámos vízen vagy szélben?'
-  answer: 'Hullámverésben: hajlitsa a térdét, vegyen fel szélesebb állást, rövidítse az evezési ütéseket, és aktiválja a törzsizmait az egyensúlyért. Szembeszélben: használjon alacsonyabb evezési szöget, végezzen rövidebb ütéseket, és dőljön előre. Oldalszélben: a szél felőli oldalon evezzen a sodródás korrigálásához. Követő szélben: szörfölje a hullámokat a sebességért. A kezdők kerüljék a 10 mph-t meghaladó szeleket, és a stabilitás érdekében válasszanak szélesebb, hosszabb táblákat. Az afarer Ocean Voyager túra SUP-ot úgy tervezték, hogy kezelje a mérsékelt hullámverést és szélviszonyokat.'
+  answer: 'Hullámverésben: hajlitsa a térdét, vegyen fel szélesebb állást, rövidítse az evezési ütéseket, és aktiválja a törzsizmait az egyensúlyért. Szembeszélben: használjon alacsonyabb evezési szöget, végezzen rövidebb ütéseket, és dőljön előre. Oldalszélben: a szél felőli oldalon evezzen a sodródás korrigálásához. Követő szélben: szörfölje a hullámokat a sebességért. A kezdők kerüljék a 10 mph-t meghaladó szeleket, és a stabilitás érdekében válasszanak szélesebb, hosszabb táblákat. Az olagoon Ocean Voyager túra SUP-ot úgy tervezték, hogy kezelje a mérsékelt hullámverést és szélviszonyokat.'
   category: safety
   relatedProducts:
     - sup-ocean-voyager
@@ -323,7 +323,7 @@
     - wind-conditions-sup
 - id: sup-sustainability
   question: 'Környezetbarátok-e a felfújható SUP táblák?'
-  answer: 'A felfújható SUP-ok több szempontból kisebb környezeti lábnyommal rendelkeznek, mint a merev táblák: kevesebb nyersanyagot használnak fel a gyártásban, kisebb súlyuk csökkenti a szállítási kibocsátást, és tartósságuk révén idővel kevesebb csere szükséges. Az afarer táblákban használt PVC ólommentes és REACH-megfelelő. A legfontosabb fenntarthatósági gyakorlatok: vásároljon minőségi táblát, amely 5-10 évig tart; a defekteket javítsa, ne cserélje; a tábla élettartama végén juttassa el különleges PVC-újrahasznosítási programokon keresztül; és az egyszer használatos csomagolás kerülésével válasszon olyan márkákat, amelyek újrafelhasználható hordtáskákat használnak.'
+  answer: 'A felfújható SUP-ok több szempontból kisebb környezeti lábnyommal rendelkeznek, mint a merev táblák: kevesebb nyersanyagot használnak fel a gyártásban, kisebb súlyuk csökkenti a szállítási kibocsátást, és tartósságuk révén idővel kevesebb csere szükséges. Az olagoon táblákban használt PVC ólommentes és REACH-megfelelő. A legfontosabb fenntarthatósági gyakorlatok: vásároljon minőségi táblát, amely 5-10 évig tart; a defekteket javítsa, ne cserélje; a tábla élettartama végén juttassa el különleges PVC-újrahasznosítási programokon keresztül; és az egyszer használatos csomagolás kerülésével válasszon olyan márkákat, amelyek újrafelhasználható hordtáskákat használnak.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -341,8 +341,8 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-certification
-  question: 'Milyen tanúsítványokkal rendelkeznek az afarer OEM termékek?'
-  answer: 'Minden afarer OEM/ODM termék rendelkezik a következőkkel: CE megfelelőségi nyilatkozat (EU piac), UKCA (UK piac), ISO 9001:2015 minőségirányítási rendszer, BSCI társadalmi megfelelőségi audit, REACH és RoHS anyagmegfelelés, EN ISO 25649 osztályozás felfújható SUP táblákhoz. Kérésre elérhető további tanúsítványok: US Coast Guard megfelelőségi dokumentáció, katonai szabványú tesztelés (MIL-STD-810) és a célország import tanúsítási támogatása.'
+  question: 'Milyen tanúsítványokkal rendelkeznek az olagoon OEM termékek?'
+  answer: 'Minden olagoon OEM/ODM termék rendelkezik a következőkkel: CE megfelelőségi nyilatkozat (EU piac), UKCA (UK piac), ISO 9001:2015 minőségirányítási rendszer, BSCI társadalmi megfelelőségi audit, REACH és RoHS anyagmegfelelés, EN ISO 25649 osztályozás felfújható SUP táblákhoz. Kérésre elérhető további tanúsítványok: US Coast Guard megfelelőségi dokumentáció, katonai szabványú tesztelés (MIL-STD-810) és a célország import tanúsítási támogatása.'
   category: b2b
   relatedProducts: []
   relatedGuides: []
@@ -359,7 +359,7 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-ip-protection
-  question: 'Hogyan védi az afarer a szellemi tulajdonomat és a terveimet?'
+  question: 'Hogyan védi az olagoon a szellemi tulajdonomat és a terveimet?'
   answer: 'Az IP-védelem az OEM szolgáltatásunk alapvető része. Minden tervezési megbeszélés előtt NDA-t írunk alá. A tervfájlok izolált munkaállomásokon, hozzáférés-naplózással kerülnek kezelésre. Minden szerszám és forma kizárólagos tulajdona marad (az Ön által fizetve). Nem használjuk újra az Ön formáit vagy terveit más ügyfelek számára. Aktív fiókok számára a formák tárolása és karbantartása biztosított. A megállapodás megszűnésekor a formák vagy az Ön részére kerülnek kiszállításra, vagy videós dokumentációval együtt megsemmisítésre. Tiszteletben tartunk minden védjegy- és szabadalmi jogot.'
   category: b2b
   relatedProducts: []

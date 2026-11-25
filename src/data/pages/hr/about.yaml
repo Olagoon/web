@@ -1,6 +1,6 @@
 meta:
-  title: 'O Afareru — Brend napuhivih SUP daska i vodenih sportova | {SITE}'
-  description: 'Afarer je globalni brend napuhivih SUP daska i vodenih sportova, kojim upravlja Aquafarer LLC (SAD), a grade ga naši timovi u Qingdaou. Otkrijte našu priču, inženjerstvo, certificiranu kvalitetu i programe partnerstva po zemljama.'
+  title: 'O OLagoonu — Brend napuhivih SUP daska i vodenih sportova | {SITE}'
+  description: 'OLagoon je globalni brend napuhivih SUP daska i vodenih sportova, kojim upravlja Olagoon LLC (SAD), a grade ga naši timovi u Qingdaou. Otkrijte našu priču, inženjerstvo, certificiranu kvalitetu i programe partnerstva po zemljama.'
   keywords:
     - 'brend napuhivih SUP daska'
     - 'brend vodenih sportova'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'O nama'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'afarer tvornica i radionica'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'olagoon tvornica i radionica'
   title: |
     Pomorsko inženjerstvo, <br />
-    izgrađeno na <span class="text-accent dark:text-white">afarer</span> način
+    izgrađeno na <span class="text-accent dark:text-white">olagoon</span> način
   subtitle: 'Počeli smo u obalnoj radionici s jednom daskom i tvrdoglavim uvjerenjem: proizvodi za more trebaju biti konstruirani kao da su važni, jer jesu. Danas isporučujemo u više od 40 zemalja, ali svaki trup i dalje prolazi kroz iste ruke koje su osnovale tvrtku.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Dizajn projekt po projekt za komercijalne, znanstvene i vojne kupce.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Rasprava o dizajnu i inženjerstvu daska'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Ključni trenuci'
-  subtitle: 'Kratka verzija priče o afareru.'
+  subtitle: 'Kratka verzija priče o olagoonu.'
   isReversed: true
   items:
     - title: 'Osnovano u obalnoj radionici'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Isporuka u više od 50 zemalja iz našeg pogona u Qingdaou s ovlaštenim servisnim partnerima diljem Europe, Azije-Pacifika i Amerike.'
     link: /brand-global-presence/
     link_label: 'Saznajte više →'
-  - title: 'Zašto afarer'
+  - title: 'Zašto olagoon'
     desc: 'Brend izgrađen na provjerenoj kvaliteti — dvostruka certifikacija (ISO 9001 + BSCI), CE sukladnost i ekskluzivna partnerstva po zemljama s ograničenim kolekcijama u zajedničkom brendiranju za tvrtke u vodenim sportovima.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Saznajte više →'

@@ -1,13 +1,13 @@
 meta:
   title: 'ייצור SUP במותג פרטי והשקת מותג מותאם אישית | {SITE}'
-  description: 'יצרן SUP במותג פרטי עבור מותגי לוחות חתירה חדשים. השיקו מותג SUP משלכם עם Afarer — שירות OEM/ODM מלא הכולל עיצוב, אבות טיפוס, מיתוג מותאם אישית, ייצור ולוגיסטיקה גלובלית.'
+  description: 'יצרן SUP במותג פרטי עבור מותגי לוחות חתירה חדשים. השיקו מותג SUP משלכם עם OLagoon — שירות OEM/ODM מלא הכולל עיצוב, אבות טיפוס, מיתוג מותאם אישית, ייצור ולוגיסטיקה גלובלית.'
 
 hero:
   tagline: 'בנו מותג משלכם'
   title: 'השיקו מותג SUP<br />משלכם'
   subtitle: 'יש לכם את החזון. יש לנו את המפעל, את המומחיות ואת שרשרת האספקה. ייצור SUP במותג פרטי ופיתוח מותג SUP מותאם אישית — יחד נבנה מותג שבולט מעל כולם.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'לוח SUP ממותג מותאם אישית על המים'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'עדיפות בייצור'
 
 features:
-  title: 'למה מותגים בוחרים ב-Afarer'
+  title: 'למה מותגים בוחרים ב-OLagoon'
   subtitle: '10+ שנות ניסיון ב-OEM, הסמכה מלאה וה-MOQ הנמוך בענף.'
   items:
     - title: '10+ שנות ניסיון ב-OEM'

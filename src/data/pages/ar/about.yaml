@@ -1,6 +1,6 @@
 meta:
-  title: 'عن Afarer — علامة ألواح SUP القابلة للنفخ والرياضات المائية | {SITE}'
-  description: 'afarer هي علامة عالمية لألواح SUP القابلة للنفخ والرياضات المائية، تدار من خلال Aquafarer LLC (الولايات المتحدة) وتبنيها فريق عمليات تشينغداو لدينا. اكتشف قصتنا وهندستنا وجودتنا المعتمدة وبرامج شركاء الدول.'
+  title: 'عن OLagoon — علامة ألواح SUP القابلة للنفخ والرياضات المائية | {SITE}'
+  description: 'olagoon هي علامة عالمية لألواح SUP القابلة للنفخ والرياضات المائية، تدار من خلال Olagoon LLC (الولايات المتحدة) وتبنيها فريق عمليات تشينغداو لدينا. اكتشف قصتنا وهندستنا وجودتنا المعتمدة وبرامج شركاء الدول.'
   keywords:
     - 'علامة ألواح SUP القابلة للنفخ'
     - 'علامة رياضات مائية'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: عن الشركة
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: مصنع afarer ورشة العمل
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: مصنع olagoon ورشة العمل
   title: |
     هندسة بحرية، <br />
-    بطريقة <span class="text-accent dark:text-white">afarer</span>
+    بطريقة <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'بدأنا في ورشة ساحلية بلوح واحد وإيمان راسخ: المنتجات البحرية يجب أن تُهندس كما لو كانت مهمة، لأنها كذلك. اليوم نشحن إلى أكثر من 40 دولة، لكن كل هيكل لا يزال يمر عبر نفس الأيدي التي بدأت الشركة.'
 stats:
   title: بالأرقام
@@ -56,7 +56,7 @@ features3_more:
       description: تصميم حسب المشروع للعملاء التجاريين والعلميين والعسكريين.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: مناقشة تصميم وهندسة الألواح
 steps2_values:
   title: قيمنا
@@ -73,7 +73,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: محطات بارزة
-  subtitle: نسخة مختصرة من قصة afarer.
+  subtitle: نسخة مختصرة من قصة olagoon.
   isReversed: true
   items:
     - title: تأسست في ورشة ساحلية
@@ -110,5 +110,5 @@ brand_hub_cards:
     link_label: تعرّفوا على المزيد
   - title: لماذا أفار
     desc: علامة مبنية على جودة مُتحقق منها — شهادة مزدوجة (ISO 9001 + BSCI)، وامتثال CE، وشراكات حصرية حسب الدولة مع مجموعات محدودة مشتركة العلامة لشركات الرياضات المائية.
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: تعرّفوا على المزيد

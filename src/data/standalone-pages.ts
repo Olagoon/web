@@ -12,7 +12,7 @@ export const standalonePages: StandalonePage[] = [
     slug: 'engineering-perfection',
     title: 'Engineering Perfection',
     description:
-      "afarer's engineering philosophy: precision manufacturing, premium material selection, rigorous quality control, and segment-specific design for recreational and professional inflatable SUP boards.",
+      "olagoon's engineering philosophy: precision manufacturing, premium material selection, rigorous quality control, and segment-specific design for recreational and professional inflatable SUP boards.",
     pageType: 'about',
     sections: [
       {
@@ -25,7 +25,7 @@ export const standalonePages: StandalonePage[] = [
       },
       {
         heading: 'Craftsmanship & Manufacturing Excellence',
-        body: 'afarer employs highly skilled technicians. Our production facility is equipped with state-of-the-art CNC cutting machines and thermo-welding equipment.',
+        body: 'olagoon employs highly skilled technicians. Our production facility is equipped with state-of-the-art CNC cutting machines and thermo-welding equipment.',
       },
       {
         heading: 'Rigorous Quality Control & Testing',
@@ -43,7 +43,7 @@ export const standalonePages: StandalonePage[] = [
     slug: 'oem-odm-manufacturer',
     title: 'Inflatable SUP OEM/ODM Manufacturer',
     description:
-      'afarer is a premier OEM/ODM manufacturer of inflatable SUP boards and accessories, operated by Aquafarer LLC. CE-certified factory. Drop-stitch core lamination, custom mold design, private label. 12,000 m\u00B2 facility in Qingdao, China.',
+      'olagoon is a premier OEM/ODM manufacturer of inflatable SUP boards and accessories, operated by Olagoon LLC. CE-certified factory. Drop-stitch core lamination, custom mold design, private label. 12,000 m\u00B2 facility in Qingdao, China.',
     pageType: 'capability',
     sections: [
       {
@@ -84,7 +84,7 @@ export const standalonePages: StandalonePage[] = [
     slug: 'design-powerhouse',
     title: 'Design & Innovation',
     description:
-      'afarer is more than a factory — we are a design-driven manufacturer. In-house R&D, hydrodynamic simulation, custom ODM solutions, and advanced material engineering for global B2B partners.',
+      'olagoon is more than a factory — we are a design-driven manufacturer. In-house R&D, hydrodynamic simulation, custom ODM solutions, and advanced material engineering for global B2B partners.',
     pageType: 'capability',
     sections: [
       {

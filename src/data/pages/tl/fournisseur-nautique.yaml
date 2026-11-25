@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Tagapagtustos ng Kagamitang Pandagat · OEM'
   title: 'Ang Iyong Propesyonal na<br />Tagapagtustos ng Kagamitang Pandagat'
-  subtitle: 'Sinusuplayan ng Afarer ang mga sentrong pandagat, pasilidad ng libangan, hotel, at brand ng propesyonal na kagamitang pantubig: mga inflatable SUP, paddle, float, vest, at aksesorya. Produksyong OEM, presyong pabrika, sertipikadong kalidad.'
+  subtitle: 'Sinusuplayan ng OLagoon ang mga sentrong pandagat, pasilidad ng libangan, hotel, at brand ng propesyonal na kagamitang pantubig: mga inflatable SUP, paddle, float, vest, at aksesorya. Produksyong OEM, presyong pabrika, sertipikadong kalidad.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: 'Produksyon ng propesyonal na kagamitang pandagat sa pabrika'
   actions:
     - text: 'Maging Partner na Tagapagtustos'
@@ -66,7 +66,7 @@ faqs:
       description: 'Ang lahat ng produkto ay tumutugon sa mga pamantayang CE / ISO at sa mga kinakailangan sa kaligtasan ng mga market sa Europe at North America.'
 geo:
   tagline: 'Posisyon sa B2B'
-  sentence: 'Ang Afarer ay isang propesyonal na tagagawa ng mga inflatable SUP (OEM/ODM), espesyal sa disenyo, custom na produksyon, at mga solusyong pandagat para sa mga brand, distributor, club, at negosyo.'
+  sentence: 'Ang OLagoon ay isang propesyonal na tagagawa ng mga inflatable SUP (OEM/ODM), espesyal sa disenyo, custom na produksyon, at mga solusyong pandagat para sa mga brand, distributor, club, at negosyo.'
   audiences:
     - 'Mga club na pandagat'
     - 'Mga sentro ng libangan'

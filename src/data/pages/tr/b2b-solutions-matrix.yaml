@@ -1,16 +1,16 @@
 meta:
   title: B2B Müşteri Çözüm Matrisi | {SITE}
-  description: Açık hava girişimlerinden deniz koruma kuruluşlarına kadar 24 müşteri türünü kapsayan kapsamlı Afarer B2B müşteri çözümleri matrisi.
+  description: Açık hava girişimlerinden deniz koruma kuruluşlarına kadar 24 müşteri türünü kapsayan kapsamlı OLagoon B2B müşteri çözümleri matrisi.
 hero:
   tagline: B2B Müşteri Çözümleri
   title: 24 B2B Çözüm<br />İşinize Uygun
-  subtitle: Girişimcilerden küresel distribütörlere — iş modelinize, söktorünüze ve hedeflerinize özel Afarer çözümünü bulun.
+  subtitle: Girişimcilerden küresel distribütörlere — iş modelinize, söktorünüze ve hedeflerinize özel OLagoon çözümünü bulun.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Afarer fabrika ve üretim tesisi
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: OLagoon fabrika ve üretim tesisi
 solutions:
   title: Müşteri Çözüm Matrisi
-  subtitle: Her müşteri tipi, temel ihtiyaçları ve onlar için tasarlanmış Afarer çözüm sayfası.
+  subtitle: Her müşteri tipi, temel ihtiyaçları ve onlar için tasarlanmış OLagoon çözüm sayfası.
   items:
     - clientType: Açık Hava Girişimcisi
       need: Marka Yaratma

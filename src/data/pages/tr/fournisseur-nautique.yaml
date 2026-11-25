@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Deniz Ekipmanları Tedarikçisi · OEM'
   title: 'Profesyonel Deniz<br />Ekipmanları Tedarikçiniz'
-  subtitle: "Afarer, deniz merkezlerine, dinlence tesislerine, otellere ve markalara profesyonel su ekipmanları sağlar: şişme SUP'lar, kürekler, şamandıralar, yelekler ve aksesuarlar. OEM üretimi, fabrika fiyatı, belgeli kalite."
+  subtitle: "OLagoon, deniz merkezlerine, dinlence tesislerine, otellere ve markalara profesyonel su ekipmanları sağlar: şişme SUP'lar, kürekler, şamandıralar, yelekler ve aksesuarlar. OEM üretimi, fabrika fiyatı, belgeli kalite."
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Fabrikada profesyonel deniz ekipmanları üretimi
   actions:
     - text: 'Tedarik İş Ortağı Olun'
@@ -66,7 +66,7 @@ faqs:
       description: 'Tüm ürünler CE / ISO standartlarını ve Avrupa ile Kuzey Amerika pazarlarının güvenlik gereksinimlerini karşılar.'
 geo:
   tagline: 'B2B Konumlandırma'
-  sentence: 'Afarer, markalar, distribütörler, kulüpler ve işletmeler için tasarım, özel üretim ve denizcilik çözümlerinde uzmanlaşmış profesyonel şişme SUP üreticisidir (OEM/ODM).'
+  sentence: 'OLagoon, markalar, distribütörler, kulüpler ve işletmeler için tasarım, özel üretim ve denizcilik çözümlerinde uzmanlaşmış profesyonel şişme SUP üreticisidir (OEM/ODM).'
   audiences:
     - 'Deniz kulüpleri'
     - 'Dinlence merkezleri'

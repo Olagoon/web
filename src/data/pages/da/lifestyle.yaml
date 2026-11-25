@@ -1,6 +1,6 @@
 meta:
   title: 'Lifestyle — padling, eventyr & udforskning | {SITE}'
-  description: 'Udforsk afarers lifestyle: padleeventyr, vandudforskning og udendørsoplevelser med oppustelige SUP-brædder og boards.'
+  description: 'Udforsk olagoons lifestyle: padleeventyr, vandudforskning og udendørsoplevelser med oppustelige SUP-brædder og boards.'
   keywords:
     - 'SUP lifestyle'
     - 'padleeventyr'
@@ -8,7 +8,7 @@ meta:
     - 'vandsport lifestyle'
 hero:
   tagline: Livsstil
-  title: afarer-<br />livsstilen
+  title: olagoon-<br />livsstilen
   subtitle: Bygget til dem, der lever på vandet — fra weekendopdagelsesrejsende til kommercielle operatører.
 values:
   - icon: 🌊
@@ -35,7 +35,7 @@ ethos_section:
   subtitle: Seks principper, der former hver beslutning.
 community_section:
   tagline: Fællesskab
-  title: Bliv en del af afarer fællesskabet
+  title: Bliv en del af olagoon fællesskabet
   subtitle: Følg vores rejse og del dine egne eventyr på vandet.
   instagram: Følg på Instagram
   youtube: Abonner på YouTube

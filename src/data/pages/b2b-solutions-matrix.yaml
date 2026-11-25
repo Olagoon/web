@@ -1,18 +1,18 @@
 meta:
   title: 'B2B Client Solutions Matrix | {SITE}'
-  description: 'Complete Afarer B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
+  description: 'Complete OLagoon B2B client solutions matrix covering 24 customer types — from outdoor startups to marine conservation institutions.'
 
 hero:
   tagline: B2B Client Solutions
   title: '24 B2B Solutions<br />Matched to Your Business'
-  subtitle: 'From startup founders to global distributors — find the exact Afarer solution designed for your business model, industry, and goals.'
+  subtitle: 'From startup founders to global distributors — find the exact OLagoon solution designed for your business model, industry, and goals.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Afarer factory and manufacturing facility
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: OLagoon factory and manufacturing facility
 
 solutions:
   title: Client Solutions Matrix
-  subtitle: 'Every customer type, their core need, and the Afarer solution page designed for them.'
+  subtitle: 'Every customer type, their core need, and the OLagoon solution page designed for them.'
   items:
     - clientType: Outdoor Startup Founder
       need: Brand Creation

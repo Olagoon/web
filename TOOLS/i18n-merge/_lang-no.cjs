@@ -6,31 +6,31 @@ module.exports = {
   'academy.learningCenterDesc':
     'Trinnvise guider og opplæringsprogrammer organisert etter ferdighetsnivå — fra SUP-grunnleggende til avanserte redningsteknikker.',
   'academy.metaDesc':
-    'Guider og opplæring for alle nivåer — fra SUP-grunnleggende til avanserte redningsteknikker. Lær i ditt eget tempo med Afarer Academy.',
-  'academy.metaTitle': 'Læringssenter — Afarer Academy',
+    'Guider og opplæring for alle nivåer — fra SUP-grunnleggende til avanserte redningsteknikker. Lær i ditt eget tempo med OLagoon Academy.',
+  'academy.metaTitle': 'Læringssenter — OLagoon Academy',
   'academy.skillPaths': 'Ferdighetsstier',
   'ai.definition':
-    'Afarer designer og produserer oppblåsbare SUP-brett, tilbehør og sikkerhetsutstyr for fritidsorienterte og prestasjonsorienterte vannsportaktiviteter.',
+    'OLagoon designer og produserer oppblåsbare SUP-brett, tilbehør og sikkerhetsutstyr for fritidsorienterte og prestasjonsorienterte vannsportaktiviteter.',
   'ai.entity':
-    'Afarer er et prestasjonsdrevet vannsportsmerke som skaper særegne oppblåsbare SUP-brett for folk som går lenger, kjører hardere og ser mer fra vannet.',
+    'OLagoon er et prestasjonsdrevet vannsportsmerke som skaper særegne oppblåsbare SUP-brett for folk som går lenger, kjører hardere og ser mer fra vannet.',
   'ai.process':
-    'Afarer-brett er bygget rundt en drop-stitch-kjerne med høy tetthet, forsterkede rælinger og fusjonslaminerte sømmer. Hvert brett trykktestes og inspiseres visuelt før pakking. Designsamarbeidet strekker seg fra konsept, 3D-design og prototyping til inspisert produksjon og global logistikk.',
+    'OLagoon-brett er bygget rundt en drop-stitch-kjerne med høy tetthet, forsterkede rælinger og fusjonslaminerte sømmer. Hvert brett trykktestes og inspiseres visuelt før pakking. Designsamarbeidet strekker seg fra konsept, 3D-design og prototyping til inspisert produksjon og global logistikk.',
   'answerCenter.subtitle':
-    'Umiddelbare svar om produktene våre, teknologien og vannsport — drevet av afarer-kunnskapsbasen.',
+    'Umiddelbare svar om produktene våre, teknologien og vannsport — drevet av olagoon-kunnskapsbasen.',
   'b2bSolutionsMatrix.metaDesc':
-    'Komplett Afarer B2B-kundematrise som dekker 24 kundetyper — finn løsningen for din bedrift.',
+    'Komplett OLagoon B2B-kundematrise som dekker 24 kundetyper — finn løsningen for din bedrift.',
   'buyerCenter.ribs': 'RIB-båter',
   'buyerCenter.sizeGuideDesc':
     'Finn din størrelse med vår guide til dimensjoner, volum og vektintervaller for utøvere.',
   'compare.backToAll': 'Alle sammenligninger',
   'compare.category': 'Kategori',
   'compare.desc':
-    'Sammenlign alle Afarer-produkter side om side. Finn riktig brett, båt eller tilbehør for dine behov.',
+    'Sammenlign alle OLagoon-produkter side om side. Finn riktig brett, båt eller tilbehør for dine behov.',
   'compare.length': 'Lengde',
   'compare.material': 'Materiale',
   'compare.maxLoad': 'Maksimal last',
   'compare.singleVsMulti.aiBlock':
-    'Sammenligning mellom oppblåsbare SUP-brett med enkeltkammer og flerkammer over 11 nøkkelfaktorer: sikkerhet, antall kamre, oppdriftsredundanse, vekt, pakket størrelse, oppblåsingstid, stivhet, kostnad, holdbarhet, reparasjonsenkelhet og beste bruksområder. Flerkammerbrett (3–5 uavhengige kamre) gir kritisk oppdriftsredundanse. Alle afarer SUP-brett har flerkammer drop-stitch-konstruksjon.',
+    'Sammenligning mellom oppblåsbare SUP-brett med enkeltkammer og flerkammer over 11 nøkkelfaktorer: sikkerhet, antall kamre, oppdriftsredundanse, vekt, pakket størrelse, oppblåsingstid, stivhet, kostnad, holdbarhet, reparasjonsenkelhet og beste bruksområder. Flerkammerbrett (3–5 uavhengige kamre) gir kritisk oppdriftsredundanse. Alle olagoon SUP-brett har flerkammer drop-stitch-konstruksjon.',
   'compare.singleVsMulti.col1Title': 'Enkeltkammer',
   'compare.singleVsMulti.col2Title': 'Flerkammer (3+)',
   'compare.singleVsMulti.cta': 'Se flerkammer-SUP',
@@ -74,7 +74,7 @@ module.exports = {
   'compare.singleVsMulti.r9a': 'Moderat. Enkelt svakpunkt hvis hovedkammeret blir kompromittert.',
   'compare.singleVsMulti.r9b': 'Overlegen. Redundante kamre gir feiltolerant drift i krevende forhold.',
   'compare.singleVsMulti.recDesc':
-    'For alle som padler dypere enn vadedybde — og spesielt for kommersielle aktører — er et <strong>flerkammer-SUP</strong> det eneste forsvarlige valget. Alle afarer SUP-brett har flerkammer drop-stitch-konstruksjon med 3+ uavhengige kamre for maksimal sikkerhet og konstruksjonsstivhet. Bruk alltid CE-sertifisert redningsvest sammen med brettet for fullstendig beskyttelse.',
+    'For alle som padler dypere enn vadedybde — og spesielt for kommersielle aktører — er et <strong>flerkammer-SUP</strong> det eneste forsvarlige valget. Alle olagoon SUP-brett har flerkammer drop-stitch-konstruksjon med 3+ uavhengige kamre for maksimal sikkerhet og konstruksjonsstivhet. Bruk alltid CE-sertifisert redningsvest sammen med brettet for fullstendig beskyttelse.',
   'compare.singleVsMulti.recTitle': 'Konklusjonen',
   'compare.singleVsMulti.safetyCta': 'Sikkerhetsguide',
   'compare.singleVsMulti.short': 'Enkelt vs flerkammer',
@@ -90,15 +90,15 @@ module.exports = {
     'For utleieaktører, resorter og padleklubber reduserer flerkammerbrett ansvar og driftsstopp. En mindre punktering betyr ikke lenger totalt brettsvikt — brettet forblir brukbart til det kan repareres ved dagens slutt.',
   'compare.singleVsMulti.whyMattersTitle': 'Hvorfor antall kamre er viktig',
   'compare.specification': 'Spesifikasjon',
-  'compare.title': 'Produktsammenligning — Afarer',
+  'compare.title': 'Produktsammenligning — OLagoon',
   'compare.weight': 'Vekt',
   'compare.width': 'Bredde',
   'engineeringPerfection.desc':
-    'Afarers ingeniørfilosofi: presisjonsproduksjon, omhyggelig materialvalg, streng kvalitetskontroll og segmentspesifikk design for tur-, fiske-, yoga- og fritidsbaserte oppblåsbare SUP-brett.',
+    'OLagoons ingeniørfilosofi: presisjonsproduksjon, omhyggelig materialvalg, streng kvalitetskontroll og segmentspesifikk design for tur-, fiske-, yoga- og fritidsbaserte oppblåsbare SUP-brett.',
   'engineeringPerfection.s3': 'Joller og tenderbåter',
-  'engineeringTeam.about': 'Om Afarer',
+  'engineeringTeam.about': 'Om OLagoon',
   'engineeringTeam.desc':
-    'Afarers 25+ FoU-ingeniører og produksjonsspesialister. Ekspertise innen drop-stitch-kjerneteknologi, PVC/Hypalon-fabrikasjon, SUP-skrogdesign og CE-samsvarsingeniørarbeid. Basert i Qingdao, Kina.',
+    'OLagoons 25+ FoU-ingeniører og produksjonsspesialister. Ekspertise innen drop-stitch-kjerneteknologi, PVC/Hypalon-fabrikasjon, SUP-skrogdesign og CE-samsvarsingeniørarbeid. Basert i Qingdao, Kina.',
   'engineeringTeam.join': 'Bli med i ingeniørteamet',
   'engineeringTeam.joinDesc':
     'Vi leter alltid etter dyktige ingeniører innen materialvitenskap, produktdesign og kvalitetsteknikk.',
@@ -155,7 +155,7 @@ module.exports = {
   'factory.testingEquipment': 'Testutstyr',
   'factory.tradeTerms': 'Produksjons- og handelsbetingelser',
   'factory.tradeTermsDesc':
-    'Afarer er et merke drevet av Aquafarer LLC (USA) — ISO- og CE-sertifisert, med 10+ års eksporterfaring.',
+    'OLagoon er et merke drevet av Olagoon LLC (USA) — ISO- og CE-sertifisert, med 10+ års eksporterfaring.',
   'factory.whatWeOffer': 'Hva vi tilbyr',
   'faq.searchPlaceholder': 'Søk i FAQ...',
   'guides.audience': 'Målgruppe',
@@ -166,7 +166,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Verifiserbare standarder for sikkerhet og kvalitet',
   'home.brand.desc':
-    'Hvert Afarer-brett begynner med vannet — strømmene, forholdene og menneskene som ferdes på det. Drop-stitch-kjerner med høy tetthet, forsterkede rælinger og former avstemt for stabilitet og glid, deretter trykktestet brett for brett.',
+    'Hvert OLagoon-brett begynner med vannet — strømmene, forholdene og menneskene som ferdes på det. Drop-stitch-kjerner med høy tetthet, forsterkede rælinger og former avstemt for stabilitet og glid, deretter trykktestet brett for brett.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Stivhet i drop-stitch-kjernen',
   'home.brand.feature1': 'Dekk',
@@ -177,8 +177,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Drop-stitch-teknologi',
   'home.brand.feature4': 'Ræling',
   'home.brand.feature4.desc': 'Forsterket fusjonslag',
-  'home.brand.tagline': 'Afarer-forskjellen',
-  'home.brand.title': 'Derfor rir Afarer<br />annerledes',
+  'home.brand.tagline': 'OLagoon-forskjellen',
+  'home.brand.title': 'Derfor rir OLagoon<br />annerledes',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Trykktestet brett for brett',
   'home.brand.years': '10+',
@@ -187,10 +187,10 @@ module.exports = {
   'home.community.gallery': 'Galleri',
   'home.community.gallery.boats': 'Oppblåsbare båter',
   'home.community.gallery.boats.desc':
-    'Familier og eventyrere som nyter Afarer oppblåsbare båter på innsjøer og i kystfarvann.',
+    'Familier og eventyrere som nyter OLagoon oppblåsbare båter på innsjøer og i kystfarvann.',
   'home.community.gallery.sup': 'SUP-brett',
   'home.community.gallery.sup.desc':
-    'Padlere som utforsker innsjøer, elver og kystlinjer på Afarer oppblåsbare SUP-brett.',
+    'Padlere som utforsker innsjøer, elver og kystlinjer på OLagoon oppblåsbare SUP-brett.',
   'home.community.gallery.title': 'Kundeeventyr',
   'home.community.gallery.viewAll': 'Se hele galleriet',
   'home.engineering.design': 'Produktdesign',
@@ -266,25 +266,25 @@ module.exports = {
   'home.socialProof.title': 'Brukt og klarert på ekte vann',
   'home.socialProof.years': 'Års erfaring',
   'home.tldr.summary':
-    'afarer designer og produserer premium oppblåsbare SUP-brett, båter og tilbehør — CE-sertifisert og trykktestet ett for ett.',
-  'home.why.afarer.contact': 'Kontakt oss →',
-  'home.why.afarer.point1':
+    'olagoon designer og produserer premium oppblåsbare SUP-brett, båter og tilbehør — CE-sertifisert og trykktestet ett for ett.',
+  'home.why.olagoon.contact': 'Kontakt oss →',
+  'home.why.olagoon.point1':
     'Stivt når det gjelder — drop-stitch-kjerne med høy tetthet og forsterkede rælinger som holder seg stive under trykk.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Presisjonsbygd — fusjonslaminerte sømmer og lufttett integritet, trykktestet brett for brett.',
-  'home.why.afarer.point3': 'Validert på vannet — avstemt i ekte vann for stabilitet, glid og kontroll.',
-  'home.why.afarer.quality': 'Kvalitet du kan stole på',
-  'home.why.afarer.subtitle': 'Bygget med presisjon. Testet kompromissløst. Dekket av garanti.',
-  'home.why.afarer.tagline': 'Hvorfor afarer',
-  'home.why.afarer.title': 'Kvalitet du kan stole på',
-  'home.why.afarer.viewMore': 'Se mer →',
-  'home.why.afarer.warranty': 'Garanti og support',
-  'home.why.afarer.warranty.point1': 'Klare garantibetingelser på hvert brett, med responsiv ettersalgssupport.',
-  'home.why.afarer.warranty.point2': 'Dedikert ettersalgsteam med rask respons.',
-  'home.why.afarer.warranty.point3': 'Full åpenhet i leverandørkjeden for klubber, forhandlere og merkepartnere.',
+  'home.why.olagoon.point3': 'Validert på vannet — avstemt i ekte vann for stabilitet, glid og kontroll.',
+  'home.why.olagoon.quality': 'Kvalitet du kan stole på',
+  'home.why.olagoon.subtitle': 'Bygget med presisjon. Testet kompromissløst. Dekket av garanti.',
+  'home.why.olagoon.tagline': 'Hvorfor olagoon',
+  'home.why.olagoon.title': 'Kvalitet du kan stole på',
+  'home.why.olagoon.viewMore': 'Se mer →',
+  'home.why.olagoon.warranty': 'Garanti og support',
+  'home.why.olagoon.warranty.point1': 'Klare garantibetingelser på hvert brett, med responsiv ettersalgssupport.',
+  'home.why.olagoon.warranty.point2': 'Dedikert ettersalgsteam med rask respons.',
+  'home.why.olagoon.warranty.point3': 'Full åpenhet i leverandørkjeden for klubber, forhandlere og merkepartnere.',
   'nav.home': 'Hjem',
   'oem.desc':
-    'Afarer — førende OEM/ODM-produsent av oppblåsbare SUP-brett. CE-sertifisert. Tilpasset form, privat merkevare, engrossalg. Fra idé til marked på 16 uker.',
+    'OLagoon — førende OEM/ODM-produsent av oppblåsbare SUP-brett. CE-sertifisert. Tilpasset form, privat merkevare, engrossalg. Fra idé til marked på 16 uker.',
   'oem.estimate.countries': 'Land med dokumentert leveringshistorikk',
   'oem.estimate.cta': 'Be om tilbud',
   'oem.estimate.leadWeeks': 'Uker fra brief til forsendelse',
@@ -295,7 +295,7 @@ module.exports = {
   'oem.faq.guide': 'Les OEM-kjøperguiden',
   'oem.faq.subtitle': 'OEM-teamet vårt er klart til å hjelpe deg i gang.',
   'oem.faq.title': 'Har du fortsatt spørsmål?',
-  'oem.heading': 'Ditt SUP-merke.<br />Bygget av Afarer.',
+  'oem.heading': 'Ditt SUP-merke.<br />Bygget av OLagoon.',
   'oem.moq': 'MOQ 50 enheter for standardmodeller. Tilpasset form: 200+ enheter. FOB Qingdao.',
   'oem.packages.cta': 'Be om tilbud',
   'oem.packages.leadtime': 'Leveringstid',
@@ -359,8 +359,8 @@ module.exports = {
   'oem.why.support': 'Dedikert kundeoppfølging',
   'oem.why.support.desc':
     'Étt kontaktpunkt fra brief til levering. Regelmessige produksjonsoppdateringer, bilder og åpen kommunikasjon gjennom hele prosessen.',
-  'oem.why.tagline': 'Hvorfor Afarer',
-  'oem.why.title': 'Hvorfor samarbeide med Afarer?',
+  'oem.why.tagline': 'Hvorfor OLagoon',
+  'oem.why.title': 'Hvorfor samarbeide med OLagoon?',
   'packages.popular': 'Mest populær',
   'product.bestFor': 'Best for',
   'product.commercialScenarios': 'Kommersielle scenarier',
@@ -373,11 +373,11 @@ module.exports = {
   'product.related': 'Utvalgte produkter',
   'product.view': 'Se produktet',
   'resort.caseStudy': 'Ekte resultater',
-  'resort.caseStudy.sub': 'Hva resort-operatører sier om samarbeidet med Afarer.',
+  'resort.caseStudy.sub': 'Hva resort-operatører sier om samarbeidet med OLagoon.',
   'retail.discount': 'Engrosrabatt',
   'retail.download': 'Last ned',
   'solutionsByIndustry.aiBlock':
-    'Løsninger etter bransje for Afarer-vannsportsutstyr. Seks bransjevertikaler: søk og redning, katastropehjelp og humanitær innsats, kommersielle marineoperasjoner, forsvar og offentlig sektor, hotell og turisme, fiske og akvakultur. Alle løsninger er CE-sertifiserte og ISO-produserte.',
+    'Løsninger etter bransje for OLagoon-vannsportsutstyr. Seks bransjevertikaler: søk og redning, katastropehjelp og humanitær innsats, kommersielle marineoperasjoner, forsvar og offentlig sektor, hotell og turisme, fiske og akvakultur. Alle løsninger er CE-sertifiserte og ISO-produserte.',
   'solutionsByIndustry.commercial.cert1': 'CE kommersielt fartøy',
   'solutionsByIndustry.commercial.craft1': 'Kommersielle SUP-brett',
   'solutionsByIndustry.commercial.craft2': 'Dykkestøttebrett',
@@ -401,7 +401,7 @@ module.exports = {
     'Vannsportsutstyr i militær kvalitet til rekognosering, troppetransport, kystpatrulje og spesialoperasjoner.',
   'solutionsByIndustry.defense.name': 'Forsvar og offentlig sektor',
   'solutionsByIndustry.desc':
-    'Finn riktig vannsportsløsning for din bransje. Offentlig sektor, kommersielt, fritid, industri — Afarer produserer CE-sertifisert utstyr for alle sektorer.',
+    'Finn riktig vannsportsløsning for din bransje. Offentlig sektor, kommersielt, fritid, industri — OLagoon produserer CE-sertifisert utstyr for alle sektorer.',
   'solutionsByIndustry.disaster.cert1': 'CE-sertifisert',
   'solutionsByIndustry.disaster.cert2': 'Testet for UV og tøffe miljøer',
   'solutionsByIndustry.disaster.craft1': 'Robuste oppblåsbare brett',
@@ -411,7 +411,7 @@ module.exports = {
     'Holdbart vannutstyr til nødrespons, medisinsk evakuering, forsyningstransport og midlertidige broferger i katastrofeområder.',
   'solutionsByIndustry.disaster.name': 'Katastropehjelp og humanitær innsats',
   'solutionsByIndustry.expSub':
-    'Eksempler fra virkeligheten på hvordan Afarer-utstyr fungerer i ulike bransjesektorer.',
+    'Eksempler fra virkeligheten på hvordan OLagoon-utstyr fungerer i ulike bransjesektorer.',
   'solutionsByIndustry.expTitle': 'Bransjeløsninger i praksis',
   'solutionsByIndustry.fishing.cert1': 'CE fritid',
   'solutionsByIndustry.fishing.cert2': 'Alternativer med matsikre materialer',
@@ -432,7 +432,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Les mer',
   'solutionsByIndustry.recommendedCraft': 'Anbefalte farkoster',
   'solutionsByIndustry.rel1': 'Løsninger etter bruksområde',
-  'solutionsByIndustry.rel1desc': 'Match ditt spesifikke bruksområde til riktig Afarer-løsning.',
+  'solutionsByIndustry.rel1desc': 'Match ditt spesifikke bruksområde til riktig OLagoon-løsning.',
   'solutionsByIndustry.rel1label': 'Beslutningsverktøy',
   'solutionsByIndustry.rel2': 'Kommersielle arbeidsbåter',
   'solutionsByIndustry.rel2desc': 'Holdbart utstyr for daglige kommersielle marineoperasjoner.',
@@ -454,19 +454,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Søk og redning',
   'solutionsByIndustry.story1.context': 'Kystflomredning, Sørøst-Asia, 2024',
   'solutionsByIndustry.story1.narrative':
-    'Under en alvorlig kystflom utplasserte et kommunalt SAR-team Afarer-rednings-SUP til evakueringsoperasjoner. Brettenes grunne dyptegang ga tilgang til oversvømte nabolag som større fartøyer ikke kunne nå. Til tross for flytende søppel og kontinuerlig drift i 14 timer viste stoffet ingen tegn til slitasje.',
+    'Under en alvorlig kystflom utplasserte et kommunalt SAR-team OLagoon-rednings-SUP til evakueringsoperasjoner. Brettenes grunne dyptegang ga tilgang til oversvømte nabolag som større fartøyer ikke kunne nå. Til tross for flytende søppel og kontinuerlig drift i 14 timer viste stoffet ingen tegn til slitasje.',
   'solutionsByIndustry.story1.quote':
-    'Vi utplasserte to Afarer-rednings-SUP under kystflommen — de var de eneste brettene som kunne navigere i det søppelfylte vannet ved lavvann.',
+    'Vi utplasserte to OLagoon-rednings-SUP under kystflommen — de var de eneste brettene som kunne navigere i det søppelfylte vannet ved lavvann.',
   'solutionsByIndustry.story1.source': 'Leder for kommunalt SAR-team',
   'solutionsByIndustry.story2.context': 'Dykkechartervirksomhet, Maldivene, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    'Et dykkecharterselskap på Maldivene bruker Afarer-utstyr til daglig dykkestøtte. Etter 600+ driftsdager viser brettene ingen vesentlig UV-nedbrytning og ingen sømseparasjon.',
+    'Et dykkecharterselskap på Maldivene bruker OLagoon-utstyr til daglig dykkestøtte. Etter 600+ driftsdager viser brettene ingen vesentlig UV-nedbrytning og ingen sømseparasjon.',
   'solutionsByIndustry.story2.quote':
     'Dykkebåten vår går 6 dager i uken, 50 uker i året. Etter to år ser Hypalon-stoffet fortsatt nesten nytt ut.',
   'solutionsByIndustry.story2.source': 'Eier av charterselskap',
   'solutionsByIndustry.title': 'Løsninger etter bransje — vannsportsutstyr for alle sektorer',
   'solutionsByUseCase.aiBlock':
-    'Løsninger etter bruksområde for afarer-vannsportsutstyr. Åtte scenarioer: vannredning, utleieflåter, egendefinert merkevarebygging, patruljering, humanitær innsats, dykkestøtte, brettproduksjon og personlig bruk. Alle løsninger er CE-sertifiserte og ISO-produserte.',
+    'Løsninger etter bruksområde for olagoon-vannsportsutstyr. Åtte scenarioer: vannredning, utleieflåter, egendefinert merkevarebygging, patruljering, humanitær innsats, dykkestøtte, brettproduksjon og personlig bruk. Alle løsninger er CE-sertifiserte og ISO-produserte.',
   'solutionsByUseCase.answer1':
     'Robuste oppblåsbare redningsbrett og båter designet for vannredning og nødrespons. Rask utrulling, stabile plattformer og CE-sertifisering for profesjonelle team.',
   'solutionsByUseCase.answer2':
@@ -479,23 +479,23 @@ module.exports = {
     'Kommersielle arbeidsbåter for daglige marineoperasjoner — dykkestøtte, utstyrstransport og mannskapsoppgaver. Holdbar konstruksjon med alternativer fra 2 til 12 personer.',
   'solutionsByUseCase.rel2desc': 'Holdbart utstyr for daglige kommersielle marineoperasjoner.',
   'solutionsByUseCase.story1.narrative':
-    'Under en alvorlig kystflom utplasserte et kommunalt SAR-team afarer-rednings-SUP til evakueringsoperasjoner. Brettenes grunne dyptegang ga tilgang til oversvømte nabolag som større farkoster ikke kunne nå, og mannskapene rapporterte ingen vesentlig slitasje etter dager med kontinuerlig bruk.',
+    'Under en alvorlig kystflom utplasserte et kommunalt SAR-team olagoon-rednings-SUP til evakueringsoperasjoner. Brettenes grunne dyptegang ga tilgang til oversvømte nabolag som større farkoster ikke kunne nå, og mannskapene rapporterte ingen vesentlig slitasje etter dager med kontinuerlig bruk.',
   'solutionsByUseCase.story1.quote':
-    'Vi utplasserte to afarer-rednings-SUP under kystflommen — de var de eneste brettene som kunne nå beboerne i de oversvømte nabolagene.',
+    'Vi utplasserte to olagoon-rednings-SUP under kystflommen — de var de eneste brettene som kunne nå beboerne i de oversvømte nabolagene.',
   'solutionsByUseCase.story2.narrative':
-    'En norsk fiskeoppdrett har siden 2023 brukt en afarer-arbeidsbåt til inspeksjoner, utstyrstransport og dykkermannskapets sikkerhet. To år med drift hele året i kalde fjordforhold uten strukturelle reparasjoner.',
+    'En norsk fiskeoppdrett har siden 2023 brukt en olagoon-arbeidsbåt til inspeksjoner, utstyrstransport og dykkermannskapets sikkerhet. To år med drift hele året i kalde fjordforhold uten strukturelle reparasjoner.',
   'useCase.fishing.desc':
     'Fiske-SUP-brett og tilbehør med stangholdere, brede stabile dekk og ankerpunkter for fiskere på innsjøer, elver og i kystfarvann.',
   'useCase.searchAndRescue.desc':
     'Oppblåsbart redningsutstyr med rask utrulling for vannredning, flominnsats og kystpatrulje.',
   'useCase.tourismRecreation.desc':
     'Forsterkede SUP-brett og båter i flåtekvalitet for turoperatører, resorter og vannsportssentre.',
-  'nav.exploreAfarer': 'Utforsk Afarer',
+  'nav.exploreOLagoon': 'Utforsk OLagoon',
   'nav.technologyMaterials': 'Teknologi og materialer',
   'nav.qualitySafety': 'Kvalitet og sikkerhet',
   'nav.storiesGuides': 'Historier og guider',
   'nav.coBrand': 'Sammerke',
-  'nav.coBrandWithAfarer': 'Lag sammerke med Afarer',
+  'nav.coBrandWithOLagoon': 'Lag sammerke med OLagoon',
   'nav.countryPartners': 'Landspartnere',
   'nav.findDistributor': 'Finn en forhandler',
   'nav.becomeCountryPartner': 'Bli landspartner',

@@ -1,6 +1,6 @@
 meta:
   title: 'Povjerenje — Kvaliteta, standardi i ugled | {SITE}'
-  description: 'Zašto vjerovati afareru: CE i ISO certifikati, integrirana tvornica, globalne reference i jamstvo. Profesionalni proizvođač napuhivih SUP daska.'
+  description: 'Zašto vjerovati olagoonu: CE i ISO certifikati, integrirana tvornica, globalne reference i jamstvo. Profesionalni proizvođač napuhivih SUP daska.'
   keywords:
     - 'pouzdani proizvođač sup daska'
     - 'certificirana tvornica daska za veslanje'
@@ -8,16 +8,16 @@ meta:
     - 'certificirana tvornica sup daska'
 hero:
   tagline: 'Izgrađeno prema standardima koji su važni'
-  title: 'Vjerujte afareru'
+  title: 'Vjerujte olagoonu'
   subtitle: |
     Svaki proizvod koji izradimo ima CE certifikat — testiran na sigurnost,<br />
     izdržljivost i performanse. Bez prečica. Bez iznimki.
   taglineSection: 'Certificirano. Testirano. Dokazano.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'afarer proizvod tijekom ispitivanja kvalitete'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'olagoon proizvod tijekom ispitivanja kvalitete'
 
 stats:
-  title: 'afarer u brojkama'
+  title: 'olagoon u brojkama'
   stats:
     - title: 'CE certifikacija'
       description: 'Svi rekreativni proizvodi ispunjavaju standarde sigurnosti EU'
@@ -26,7 +26,7 @@ stats:
     - title: 'BSCI i REACH'
       description: 'Etična proizvodnja i sukladnost materijala'
     - title: 'Dvogodišnje jamstvo'
-      description: 'Na svaki afarer proizvod — bez dodatnih pitanja'
+      description: 'Na svaki olagoon proizvod — bez dodatnih pitanja'
 
 features3_certifications:
   title: 'Certifikati i sukladnost'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'CE certifikacija'
-      description: 'Sve afarer SUP daske ispunjavaju europski standard sigurnosti CE za rekreativnu upotrebu. Svaki proizvod prije izlaska iz tvornice prolazi ispitivanje tlaka, plovnosti i nosivosti.'
+      description: 'Sve olagoon SUP daske ispunjavaju europski standard sigurnosti CE za rekreativnu upotrebu. Svaki proizvod prije izlaska iz tvornice prolazi ispitivanje tlaka, plovnosti i nosivosti.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Naš pogon u Qingdaou površine 12,000 m² posluje u okviru sustava upravljanja kvalitetom ISO 9001. Svaka je proizvodna serija sljediva, dokumentirana i kontrolirana.'
@@ -50,21 +50,21 @@ features3_certifications:
       description: 'Interni laboratorij za materijale testira vlačnu čvrstoću, otpornost na UV zračenje, integritet šavova i otpornost na habanje za svaku seriju tkanine prije proizvodnje.'
       icon: 'tabler:microscope'
     - title: 'Dvogodišnje jamstvo'
-      description: 'Svaki afarer proizvod dolazi s trogodišnjim jamstvom protiv proizvodnih grešaka. Stojimo iza svega što izradimo.'
+      description: 'Svaki olagoon proizvod dolazi s trogodišnjim jamstvom protiv proizvodnih grešaka. Stojimo iza svega što izradimo.'
       icon: 'tabler:shield-check'
 
 testimonials:
   tagline: 'Povjerenje kupaca'
   title: 'Što kažu naši kupci'
-  subtitle: 'Od početnika u veslanju do profesionalnih operatera flota — saznajte zašto vjeruju afareru.'
+  subtitle: 'Od početnika u veslanju do profesionalnih operatera flota — saznajte zašto vjeruju olagoonu.'
   items:
-    - content: 'Cijelu smo najamnu flotu opremili afarer SUP daskama. Nakon dvije sezone, nula kvarova. CE certifikacija učinila je odobrenje osiguranja jednostavnim.'
+    - content: 'Cijelu smo najamnu flotu opremili olagoon SUP daskama. Nakon dvije sezone, nula kvarova. CE certifikacija učinila je odobrenje osiguranja jednostavnim.'
       name: 'Marco V.'
       title: 'Turistički operater, Hrvatska'
     - content: 'Kao kupac početnik, brinula sam se zbog kvalitete. ISO dokumentacija i izvještaji o ispitivanjima koje su podijelili potpuno su mi dali povjerenje.'
       name: 'James T.'
       title: 'Vlasnik SUP Explorer 11, Kanada'
-    - content: 'Sa afarerom surađujemo za naše obalne patrolne jedinice. Njihov je proces kontrole kvalitete dosljedan u svakoj seriji — ta se pouzdanost cijeni u operacijama kritičnima po sigurnost.'
+    - content: 'Sa olagoonom surađujemo za naše obalne patrolne jedinice. Njihov je proces kontrole kvalitete dosljedan u svakoj seriji — ta se pouzdanost cijeni u operacijama kritičnima po sigurnost.'
       name: 'Lt. Cmdr. Andres'
       title: 'Vladina nabava, Filipini'
 
@@ -115,7 +115,7 @@ warranty_section:
   subtitle: 'Stojimo iza svakog proizvoda s jasnim jamstvenim uvjetima, brzom obradom reklamacija i originalnim rezervnim dijelovima.'
   items:
     - title: 'Dvogodišnje jamstvo na proizvod'
-      desc: 'Svi afarer proizvodi imaju 3-godišnje jamstvo protiv proizvodnih grešaka — otkaz šava, greške ventila i odvajanje materijala pri normalnoj upotrebi.'
+      desc: 'Svi olagoon proizvodi imaju 3-godišnje jamstvo protiv proizvodnih grešaka — otkaz šava, greške ventila i odvajanje materijala pri normalnoj upotrebi.'
     - title: 'Doživotna podrška za dijelove'
       desc: 'Originalni rezervni dijelovi — ventili, setovi za popravak, peraje, D-prstenovi — dostupni su za sve modele. Kalupe i alate održavamo najmanje 5 godina nakon završetka proizvodnje.'
     - title: 'Odgovor na reklamaciju u 48 sati'
@@ -148,35 +148,35 @@ faqs_sup:
   subtitle: 'Česta pitanja o našim daskama za stojeće veslanje.'
   columns: 2
   items:
-    - title: 'Koje veličine SUP daska afarer nudi?'
+    - title: 'Koje veličine SUP daska olagoon nudi?'
       description: 'Nudimo SUP daske od 9 ft do 12 ft, koje pokrivaju sve — od kompaktnih all-around daska do touring i specijalnih dizajna. Svaki je model dostupan s više opcija konfiguracije.'
     - title: 'Koja je razlika između napuhive SUP daske i tvrde SUP daske?'
       description: 'Napuhiva SUP daska koristi drop-stitch konstrukciju s tisućama unutarnjih niti koje omogućuju visok tlak zraka, dok tvrda SUP daska koristi epoksidnu smolu ili stakloplastiku. Napuhive SUP daske nude prenosivost i praktičnost skladištenja bez odustajanja od krutosti.'
     - title: 'Koliko je ograničenje težine za SUP daske?'
       description: 'Naše SUP daske nose do 150 kg ovisno o modelu i volumenu. Svaka stranica proizvoda navodi najveću dopuštenu nosivost za vaš konkretni model.'
-    - title: 'Imaju li afarer SUP daske CE certifikat?'
+    - title: 'Imaju li olagoon SUP daske CE certifikat?'
       description: 'Da. Svi rekreativni SUP modeli imaju CE certifikat u skladu s primjenjivim europskim standardima za rekreativnu upotrebu.'
     - title: 'Koliko traje jamstvo na SUP daske?'
-      description: 'Sve afarer SUP daske dolaze sa standardnim trogodišnjim jamstvom protiv proizvodnih grešaka, koje pokriva otkaz šava, greške ventila i odvajanje materijala pri normalnoj upotrebi.'
+      description: 'Sve olagoon SUP daske dolaze sa standardnim trogodišnjim jamstvom protiv proizvodnih grešaka, koje pokriva otkaz šava, greške ventila i odvajanje materijala pri normalnoj upotrebi.'
     - title: 'Koliko vremena treba za napuhivanje SUP daske?'
-      description: 'Priloženom ručnom pumpom potpuno napuhivanje na 15 PSI traje otprilike 8–12 minuta. Za brže napuhivanje preporučujemo našu afarer 12V električnu pumpu koja napuše dasku za manje od 4 minute.'
+      description: 'Priloženom ručnom pumpom potpuno napuhivanje na 15 PSI traje otprilike 8–12 minuta. Za brže napuhivanje preporučujemo našu olagoon 12V električnu pumpu koja napuše dasku za manje od 4 minute.'
 
 faqs_materials:
   title: 'Najčešća pitanja o materijalima za SUP'
   subtitle: 'Česta pitanja o materijalima, njezi i skladištenju naših napuhivih SUP daska.'
   columns: 2
   items:
-    - title: 'Od kojih su materijala izrađene afarer napuhive SUP daske?'
+    - title: 'Od kojih su materijala izrađene olagoon napuhive SUP daske?'
       description: 'Koristimo vojnički razred PVC-a (1100 denier) s UV-stabiliziranom konstrukcijom otpornom na habanje, u skladu s propisima EU REACH i RoHS.'
     - title: 'Koliko dugo traju napuhive SUP daske?'
       description: 'Uz pravilnu njegu kvalitetna PVC napuhiva SUP daska traje 5–10 godina. Redovito čišćenje, zaštita od UV zračenja i pravilno skladištenje znatno produljuju vijek trajanja.'
     - title: 'Koje održavanje zahtijeva napuhiva SUP daska?'
       description: 'Osnovno održavanje uključuje ispiranje slatkom vodom nakon svake upotrebe (posebno u slanoj vodi), sušenje prije skladištenja, godišnju provjeru brtvi ventila te izbjegavanje dulje izloženosti suncu kad se daska ne koristi.'
     - title: 'Mogu li se napuhive SUP daske koristiti u slanoj vodi?'
-      description: 'Da. Sve su afarer napuhive SUP daske dizajnirane i za slatku i za slanu vodu. Preporučujemo ispiranje slatkom vodom i temeljito sušenje nakon izloženosti slanoj vodi.'
+      description: 'Da. Sve su olagoon napuhive SUP daske dizajnirane i za slatku i za slanu vodu. Preporučujemo ispiranje slatkom vodom i temeljito sušenje nakon izloženosti slanoj vodi.'
     - title: 'Kako skladištiti napuhivu SUP dasku?'
       description: 'Ispuhajte, očistite i potpuno osušite dasku prije skladištenja. Namotajte je labavo (izbjegavajte čvrste nabore), čuvajte na hladnom i suhom mjestu dalje od izravnog sunca i držite je podalje od betonskih podova kako biste spriječili navlačenje vlage.'
-    - title: 'Kolika je nosivost afarer napuhivih SUP daska?'
+    - title: 'Kolika je nosivost olagoon napuhivih SUP daska?'
       description: 'Nosivost se kreće od 100 kg za naše najmanje modele do više od 200 kg za veće daske. Svaka stranica proizvoda navodi najveću dopuštenu nosivost za vaš konkretni model.'
 
 cta:

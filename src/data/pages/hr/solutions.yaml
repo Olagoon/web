@@ -1,6 +1,6 @@
 meta:
   title: 'Poslovna rješenja — SUP daska za svaki biznis | {SITE}'
-  description: 'afarer poslovna rješenja: SUP flote za odmarališta, klubove, najam, distribuciju i privatne oznake. Profesionalni dobavljač nautičke opreme za B2B.'
+  description: 'olagoon poslovna rješenja: SUP flote za odmarališta, klubove, najam, distribuciju i privatne oznake. Profesionalni dobavljač nautičke opreme za B2B.'
   keywords:
     - 'sup poslovna rješenja'
     - 'dobavljač napuhivih daska za veslanje'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Poslovna rješenja'
   title: 'SUP rješenja<br />za svaki biznis'
-  subtitle: 'Od odmarališta do maloprodaje, od najamnih operatera do globalnih distributera — Afarer pruža potpuna SUP rješenja prilagođena vašem poslovnom modelu.'
+  subtitle: 'Od odmarališta do maloprodaje, od najamnih operatera do globalnih distributera — OLagoon pruža potpuna SUP rješenja prilagođena vašem poslovnom modelu.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Afarer SUP daske za poslovne i profesionalne namjene'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'OLagoon SUP daske za poslovne i profesionalne namjene'
 stats:
-  title: 'Afarer u kratkim crtama'
+  title: 'OLagoon u kratkim crtama'
   stats:
     - title: 'Godina iskustva'
       amount: 'Od 2012.'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Izgradite vlastiti brend'
-      description: 'Kompletna OEM/ODM proizvodnja SUP daska — dizajn, prototipiranje, serijska proizvodnja i logistika. Lansirajte svoj brend s Afarerom.'
+      description: 'Kompletna OEM/ODM proizvodnja SUP daska — dizajn, prototipiranje, serijska proizvodnja i logistika. Lansirajte svoj brend s OLagoonom.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

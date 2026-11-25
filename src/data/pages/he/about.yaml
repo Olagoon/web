@@ -1,6 +1,6 @@
 meta:
-  title: 'על אודות Afarer — מותג SUP ניפחים וספורט ימי | {SITE}'
-  description: 'Afarer הוא מותג גלובלי של SUP ניפחים וספורט ימי, המופעל על ידי Aquafarer LLC (ארה״ב) ונבנה על ידי צוות ההפעלה שלנו בצ׳ינגדאו. גלו את הסיפור שלנו, את ההנדסה, את האיכות המוסמכת ואת תוכניות השותפים הארציות.'
+  title: 'על אודות OLagoon — מותג SUP ניפחים וספורט ימי | {SITE}'
+  description: 'OLagoon הוא מותג גלובלי של SUP ניפחים וספורט ימי, המופעל על ידי Olagoon LLC (ארה״ב) ונבנה על ידי צוות ההפעלה שלנו בצ׳ינגדאו. גלו את הסיפור שלנו, את ההנדסה, את האיכות המוסמכת ואת תוכניות השותפים הארציות.'
   keywords:
     - 'מותג SUP ניפחים'
     - 'מותג ספורט ימי'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'על אודותינו'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'מפעל וסדנה של afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'מפעל וסדנה של olagoon'
   title: |
     הנדסה ימית, <br />
-    נבנת בדרך של <span class="text-accent dark:text-white">afarer</span>
+    נבנת בדרך של <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'התחלנו בסדנה חופית עם לוח אחד ואמונה עקשנית: מוצרים ימיים צריכים להיות מהונדסים כאילו שיש להם חשיבות, כי יש להם. כיום אנו מוכרים ליותר מ-40 מדינות, אך כל גוף עדיין עובר דרך אותן ידיים שהקימו את החברה.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'עיצוב פרויקט אחר פרויקט עבור לקוחות מסחריים, מדעיים וצבאיים.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'דיון על עיצוב והנדסת לוחות'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'אבני דרך'
-  subtitle: 'גרסה קצרה של סיפור afarer.'
+  subtitle: 'גרסה קצרה של סיפור olagoon.'
   isReversed: true
   items:
     - title: 'הוקם בסדנה חופית'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'משלוחים ליותר מ-50 מדינות מהמתקן שלנו בצ׳ינגדאו, עם שותפי שירות מורשים ברחבי אירופה, אסיה-פסיפיק ואמריקות.'
     link: /brand-global-presence/
     link_label: 'למידע נוסף →'
-  - title: 'למה afarer'
+  - title: 'למה olagoon'
     desc: 'מותג שנבנה על איכות מאומתת — הסמכה כפולה (ISO 9001 + BSCI), עמידה בדרישות CE, ושותפויות ארציות בלעדיות עם אוספים מוגבלים במותג משותף לעסקי ספורט ימי.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'למידע נוסף →'

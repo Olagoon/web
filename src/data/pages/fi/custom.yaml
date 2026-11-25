@@ -8,7 +8,7 @@ meta:
     - 'yksityisen etiketin täytettävä SUP'
     - 'paddle board -valmistus'
 hero:
-  tagline: afarer Räätälöity Lab
+  tagline: olagoon Räätälöity Lab
   title: Suunnittele oma<br />SUP-lautasi
   subtitle: Räätälöity SUP-kumppani, joka tarjoaa co-brand-, yksityisen etiketin ja räätälöidyn paddle board -tuotannon palveluita yrityksille maailmanlaajuisesti. Yhdestä prototyypistä täyteen tuotantosarjaan.
   cta: Aloita projektisi
@@ -65,7 +65,7 @@ capabilities_section:
     - label: Sertifiointi
       value: CE, UKCA, FCC (tuki maailmanlaajuiselle vaatimustenmukaisuudelle)
 why_section:
-  tagline: Miksi afarer
+  tagline: Miksi olagoon
   title: Yksi tehdas. Yksi standardi. Ei kompromisseja.
   points:
     - text: 12 000 m² integroitu tuotantolaitos

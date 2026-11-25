@@ -1,6 +1,6 @@
 meta:
   title: 'Certifikati — CE, ISO 9001 in skladnost | {SITE}'
-  description: 'Certifikati kakovosti afarer: CE (EN ISO 25649), ISO 9001:2015, BSCI. Skladnost in varnost proizvajalca napihljivih SUP desk.'
+  description: 'Certifikati kakovosti olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Skladnost in varnost proizvajalca napihljivih SUP desk.'
   keywords:
     - 'certifikat ce sup'
     - 'iso 9001 sup'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: 'Certifikati in standardi'
   title: 'Certifikati kakovosti<br />in standardi skladnosti'
-  subtitle: 'Proizvodnja SUP desk afarer je certificirana po mednarodnih standardih pomorske varnosti, sistemih upravljanja kakovosti in okoljskih predpisih — CE, ISO 9001, UKCA, BSCI in REACH.'
+  subtitle: 'Proizvodnja SUP desk olagoon je certificirana po mednarodnih standardih pomorske varnosti, sistemih upravljanja kakovosti in okoljskih predpisih — CE, ISO 9001, UKCA, BSCI in REACH.'
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: 'certifikati kakovosti afarer in dokumentacija o skladnosti'
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: 'certifikati kakovosti olagoon in dokumentacija o skladnosti'
 content_certifications:
   tagline: 'Naši certifikati'
   title: 'Certificirana kakovost,<br />svetovno priznana'
-  subtitle: 'Vsak izdelek afarer podpirajo certifikati, ki dokazujejo našo zavezanost kakovosti, varnosti in okoljski odgovornosti.'
+  subtitle: 'Vsak izdelek olagoon podpirajo certifikati, ki dokazujejo našo zavezanost kakovosti, varnosti in okoljski odgovornosti.'
   items:
     - title: 'Certifikat CE'
-      description: 'Vsi izdelki afarer ustrezajo evropskim zahtevam označevanja CE za rekreacijska plovila, kar zagotavlja izpolnjevanje standardov varnosti, zdravja in varstva okolja.'
+      description: 'Vsi izdelki olagoon ustrezajo evropskim zahtevam označevanja CE za rekreacijska plovila, kar zagotavlja izpolnjevanje standardov varnosti, zdravja in varstva okolja.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'Naš sistem upravljanja kakovosti je certificiran po ISO 9001:2015 in zajema oblikovanje, proizvodnjo in distribucijo napihljivih plovil ter pomorske opreme.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'Izdelki, prodajani na trgu Združenega kraljestva, nosijo oznako UKCA, ki potrjuje skladnost s predpisi Združenega kraljestva za pomorsko opremo in osebna plovila.'
       icon: tabler:shield
     - title: 'Skladnost z BSCI'
-      description: 'afarer je reviziran po BSCI (Business Social Compliance Initiative), kar dokazuje etične proizvodne prakse, poštene delovne pogoje in odgovornost v dobavni verigi.'
+      description: 'olagoon je reviziran po BSCI (Business Social Compliance Initiative), kar dokazuje etične proizvodne prakse, poštene delovne pogoje in odgovornost v dobavni verigi.'
       icon: tabler:heart-handshake
     - title: 'Skladnost z REACH'
-      description: 'Vsi materiali v izdelkih afarer ustrezajo predpisom EU REACH o kemični varnosti, kar zagotavlja, da v naših materialih PVC, EVA ali komponentah ni omejenih snovi.'
+      description: 'Vsi materiali v izdelkih olagoon ustrezajo predpisom EU REACH o kemični varnosti, kar zagotavlja, da v naših materialih PVC, EVA ali komponentah ni omejenih snovi.'
       icon: tabler:flask
     - title: 'Preskušanje materialov'
       description: 'Tkanine se preskušajo na natezno trdnost, odpornost na trganje, razgradnjo zaradi UV in zmogljivost pri hladnem lomu. Vsaka proizvodna serija se vzorči in preveri.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: 'Standardi pomorske varnosti'
   title: 'Varnost na prvem mestu<br />— zasnovano za zanesljivo delovanje'
-  subtitle: 'Izdelki afarer so oblikovani in preskušeni tako, da izpolnjujejo mednarodne standarde pomorske varnosti za komercialno in rekreacijsko uporabo.'
+  subtitle: 'Izdelki olagoon so oblikovani in preskušeni tako, da izpolnjujejo mednarodne standarde pomorske varnosti za komercialno in rekreacijsko uporabo.'
   items:
     - title: 'EN ISO 25649'
       description: 'Napihljive SUP deske ustrezajo standardom EN ISO 25649 za konstrukcijo, stabilnost, plovnost in nosilnost.'

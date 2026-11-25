@@ -33,11 +33,11 @@
     - { key: steps2_milestones, type: steps2, label: 'Milestones' }
     - { key: features2_locations, type: features2, label: 'Our locations' }
 
-- slug: about-afarer
-  label: About afarer
-  path: /about/afarer
-  permalink: /about/afarer/
-  file: src/data/pages/about-afarer.yaml
+- slug: about-olagoon
+  label: About olagoon
+  path: /about/olagoon
+  permalink: /about/olagoon/
+  file: src/data/pages/about-olagoon.yaml
   sections:
     - { key: hero, type: hero, label: 'Top Hero' }
     - { key: intro, type: content, label: 'Introduction' }
@@ -67,11 +67,11 @@
     - { key: read_guide, type: content, label: 'Read Guide Link Text' }
     - { key: cta, type: cta, label: 'Bottom CTA' }
 
-- slug: afarer-story
-  label: afarer Story
-  path: /afarer-story
-  permalink: /afarer-story/
-  file: src/data/pages/afarer-story.yaml
+- slug: olagoon-story
+  label: olagoon Story
+  path: /olagoon-story
+  permalink: /olagoon-story/
+  file: src/data/pages/olagoon-story.yaml
   sections:
     - { key: hero, type: hero, label: 'Top Hero' }
     - { key: stats, type: stats, label: 'Statistics' }
@@ -97,11 +97,11 @@
     - { key: social_section, type: content, label: 'Social Section' }
     - { key: cta_section, type: cta, label: 'Bottom CTA' }
 
-- slug: brand-afarer
-  label: Brand afarer
-  path: /en/brand/afarer
-  permalink: /en/brand/afarer/
-  file: src/data/pages/brand-afarer.yaml
+- slug: brand-olagoon
+  label: Brand olagoon
+  path: /en/brand/olagoon
+  permalink: /en/brand/olagoon/
+  file: src/data/pages/brand-olagoon.yaml
   sections:
     - { key: hero, type: hero, label: 'Top Hero' }
     - { key: timeline, type: steps, label: 'Timeline' }
@@ -158,11 +158,11 @@
     - { key: philosophy, type: content, label: 'Philosophy' }
     - { key: cta, type: cta, label: 'Bottom CTA' }
 
-- slug: brand-why-afarer
-  label: Brand Why afarer
-  path: /brand-why-afarer
-  permalink: /brand-why-afarer/
-  file: src/data/pages/brand-why-afarer.yaml
+- slug: brand-why-olagoon
+  label: Brand Why olagoon
+  path: /brand-why-olagoon
+  permalink: /brand-why-olagoon/
+  file: src/data/pages/brand-why-olagoon.yaml
   sections:
     - { key: hero, type: hero, label: 'Top Hero' }
     - { key: stats, type: stats, label: 'Statistics' }

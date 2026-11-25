@@ -5,11 +5,11 @@
 const fs = require('fs');
 const path = require('path');
 const { createRequire } = require('module');
-const req = createRequire('E:\\github\\afarer\\node_modules\\js-yaml\\package.json');
+const req = createRequire('E:\\github\\olagoon\\node_modules\\js-yaml\\package.json');
 const yaml = req('js-yaml');
 
-const DIST = 'E:\\github\\afarer\\dist';
-const SITE = 'E:\\github\\afarer\\src\\data\\site';
+const DIST = 'E:\\github\\olagoon\\dist';
+const SITE = 'E:\\github\\olagoon\\src\\data\\site';
 
 const en = yaml.load(fs.readFileSync(path.join(SITE, 'content-v2.yaml'), 'utf8'));
 const pt = yaml.load(fs.readFileSync(path.join(SITE, 'content-v2.pt.yaml'), 'utf8'));
@@ -78,14 +78,14 @@ for (const lang of ['es', 'it']) {
   else ok(lang + ' batch-3 regression intact');
 }
 
-// 4) pt fallback for untranslated record (afarer-surfboard-pro is beyond the first 16)
+// 4) pt fallback for untranslated record (olagoon-surfboard-pro is beyond the first 16)
 const ptSlugs = new Set(pt.map((r) => r.slug));
-if (ptSlugs.has('afarer-surfboard-pro')) {
-  bad('test invalid: afarer-surfboard-pro unexpectedly present in pt overlay');
+if (ptSlugs.has('olagoon-surfboard-pro')) {
+  bad('test invalid: olagoon-surfboard-pro unexpectedly present in pt overlay');
 } else {
-  const html = readPage('pt', 'afarer-surfboard-pro');
+  const html = readPage('pt', 'olagoon-surfboard-pro');
   if (!html) bad('pt fallback page missing');
-  else if (!html.includes(enBySlug.get('afarer-surfboard-pro').title.slice(0, 30)))
+  else if (!html.includes(enBySlug.get('olagoon-surfboard-pro').title.slice(0, 30)))
     bad('pt fallback (untranslated record) missing EN title');
   else ok('pt renders EN fallback for records beyond batch 1');
 }

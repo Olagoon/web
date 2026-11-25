@@ -10,7 +10,7 @@ function walk(dir, out = []) {
   return out;
 }
 
-const files = walk('E:/github/afarer/src/pages');
+const files = walk('E:/github/olagoon/src/pages');
 for (const f of files) {
   const s = fs.readFileSync(f, 'utf8');
   const lines = s.split('\n');
@@ -19,7 +19,7 @@ for (const f of files) {
     // only non-already-slashed templates
     const interesting = ms.filter((m) => !/\/`\s*$/.test(m) && !m.slice(0, -1).endsWith('/'));
     if (interesting.length) {
-      const short = f.replace(/\\/g, '/').replace('E:/github/afarer/src/pages/', '');
+      const short = f.replace(/\\/g, '/').replace('E:/github/olagoon/src/pages/', '');
       console.log(`${short}:${i + 1}\t${line.trim().slice(0, 160)}`);
     }
   });

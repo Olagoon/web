@@ -61,11 +61,11 @@ jobs:
           curl -s -X POST "https://api.cloudflare.com/client/v4/accounts/${{ secrets.CLOUDFLARE_ACCOUNT_ID }}/pages/projects" \
             -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
             -H "Content-Type: application/json" \
-            -d '{"name":"afarer","production_branch":"main"}' || true
+            -d '{"name":"olagoon","production_branch":"main"}' || true
 
       # Deploy Pages
       - name: Deploy Pages
-        run: npx --yes wrangler pages deploy dist/ --project-name afarer
+        run: npx --yes wrangler pages deploy dist/ --project-name olagoon
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -99,10 +99,10 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
-      # Delete legacy seo-worker (afarer-seo) — removed from the repo; harmless no-op once gone
+      # Delete legacy seo-worker (olagoon-seo) — removed from the repo; harmless no-op once gone
       - name: Delete legacy seo-worker
         continue-on-error: true
-        run: npx --yes wrangler delete afarer-seo
+        run: npx --yes wrangler delete olagoon-seo
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

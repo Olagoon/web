@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorij 03'
   title: 'Center za varjenje RF'
   subtitle: 'Tehnologija dielektričnega spajanja za vari, ki vzdržijo pod pritiskom'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Postopek dielektričnega spajanja z varjenjem RF pri Afarerju'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'Postopek dielektričnega spajanja z varjenjem RF pri OLagoonju'
 
-intro: 'Napihljiva SUP deska je le toliko zanesljiva, kolikor so njeni šivi. En sam šibek var lahko ogrozi celotno komoro — na morju odpoved komore ni nevšečnost; je varnostno tveganje. V Afarerju smo investirali v namenski center za varjenje z radiofrekvenco (RF), ki združuje industrijske dielektrične varilne preše s strogim nadzorom postopkov in preskušanjem po varjenju. Vsak šiv, ki ga izdelamo, je dokumentiran, sledljiv in certificiran, da izpolnjuje ali presega zahteve standarda EN ISO 25649 — evropskega standarda za napihljivo opremo za prosti čas.'
+intro: 'Napihljiva SUP deska je le toliko zanesljiva, kolikor so njeni šivi. En sam šibek var lahko ogrozi celotno komoro — na morju odpoved komore ni nevšečnost; je varnostno tveganje. V OLagoonju smo investirali v namenski center za varjenje z radiofrekvenco (RF), ki združuje industrijske dielektrične varilne preše s strogim nadzorom postopkov in preskušanjem po varjenju. Vsak šiv, ki ga izdelamo, je dokumentiran, sledljiv in certificiran, da izpolnjuje ali presega zahteve standarda EN ISO 25649 — evropskega standarda za napihljivo opremo za prosti čas.'
 
 content_html: |
   <h2>Znanost za šivom</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Naša zaveza vam</h2>
   <p>Vsaka deska, ki jo dostavimo, nosi našo garancijo kakovosti varov: če kateri koli šiv v običajni uporabi odpove v garancijskem obdobju, prizadeto komoro brezplačno popravimo ali zamenjamo, izvedemo pa tudi analizo vzrokov, da preprečimo ponovitev. To ni zgolj garancija — to je zaveza stalnemu izboljševanju, ki ga poganjajo dejanski obratovalni podatki.</p>
-  <p>Če izberete Afarer, izberete šive, ki so konstruirani, preskušeni in dokumentirani — ne le zvarjeni. To je razlika med desko, ki plava, in desko, ki deluje.</p>
+  <p>Če izberete OLagoon, izberete šive, ki so konstruirani, preskušeni in dokumentirani — ne le zvarjeni. To je razlika med desko, ki plava, in desko, ki deluje.</p>
 
 cta:
   title: 'Pogovorite se o svojih zahtevah glede varjenja'

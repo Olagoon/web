@@ -12,9 +12,9 @@
  */
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const LOCALES = (process.argv[2] || 'nl,da').split(',');
 const EN_DIR = path.join(ROOT, 'src/content/news');
 
@@ -135,7 +135,7 @@ const TECH = new Set([
   'OEM',
   'ODM',
   'MOQ',
-  'Afarer',
+  'OLagoon',
   'HH',
   'Clifton',
   'drop-stitch',

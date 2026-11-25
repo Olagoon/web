@@ -4,8 +4,8 @@
 module.exports = [
   {
     f: 'src/data/pages/da/home.yaml',
-    find: "  description: 'afarer designer performance-oppustelige SUPer til åbent vand, touring, yoga og eventyr. Drop-stitch-stivhed, tryktestet board for board, med eksklusive landepartnerskaber og begrænsede co-branded kollektioner. Udforsk kollektionen.'",
-    rep: '  description: "afarer designer performance-oppustelige SUP\'er til åbent vand, touring, yoga og eventyr. Drop-stitch-stivhed, tryktestet board for board, med eksklusive landepartnerskaber og begrænsede co-branded kollektioner. Udforsk kollektionen."',
+    find: "  description: 'olagoon designer performance-oppustelige SUPer til åbent vand, touring, yoga og eventyr. Drop-stitch-stivhed, tryktestet board for board, med eksklusive landepartnerskaber og begrænsede co-branded kollektioner. Udforsk kollektionen.'",
+    rep: '  description: "olagoon designer performance-oppustelige SUP\'er til åbent vand, touring, yoga og eventyr. Drop-stitch-stivhed, tryktestet board for board, med eksklusive landepartnerskaber og begrænsede co-branded kollektioner. Udforsk kollektionen."',
     n: 1,
   },
   {
@@ -58,8 +58,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/da/academy.yaml',
-    find: 'tagline: afarer Academy',
-    rep: 'tagline: afarer Akademi',
+    find: 'tagline: olagoon Academy',
+    rep: 'tagline: olagoon Akademi',
     n: 1,
   },
   {
@@ -225,7 +225,7 @@ module.exports = [
     n: 1,
   },
   {
-    f: 'src/data/pages/da/brand-why-afarer.yaml',
+    f: 'src/data/pages/da/brand-why-olagoon.yaml',
     find: 'Download produktkatalog',
     rep: 'Hent produktkatalog',
     n: 1,

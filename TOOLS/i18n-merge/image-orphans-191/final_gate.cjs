@@ -1,22 +1,22 @@
 // Final pre-deletion gate for legacy image removal (TECH 191)
-// 1) Find what references afarer-inflatable-boat-factory.webp (the one REFERENCED legacy image)
+// 1) Find what references olagoon-inflatable-boat-factory.webp (the one REFERENCED legacy image)
 // 2) Verify the other 105 legacy images are referenced NOWHERE in the repo (any text file)
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
-const IMG_DIR = 'E:/github/afarer/public/images/afarer';
+const ROOT = 'E:/github/olagoon';
+const IMG_DIR = 'E:/github/olagoon/public/images/olagoon';
 const SKIP_DIRS = new Set(['node_modules', '.git', '.astro', 'TOOLS']);
 const BINEXT = /\.(png|jpe?g|webp|gif|avif|ico|cur|woff2?|ttf|otf|eot|mp4|webm|mp3|pdf|zip|gz|wasm)$/i;
-const KEEP = new Set(['afarer-inflatable-boat-factory.webp']);
+const KEEP = new Set(['olagoon-inflatable-boat-factory.webp']);
 
 const LEGACY_PATTERNS = [
   /products[\\/]rib[\\/]/,
-  /afarer-kayak-river-category/,
-  /afarer-dinghy-category/,
-  /afarer-rib-boat-category/,
-  /afarer-inflatable-boat/,
-  /afarer-zb-mt350/,
+  /olagoon-kayak-river-category/,
+  /olagoon-dinghy-category/,
+  /olagoon-rib-boat-category/,
+  /olagoon-inflatable-boat/,
+  /olagoon-zb-mt350/,
 ];
 
 function walk(dir, out) {
@@ -81,7 +81,7 @@ for (const f of files) {
   } catch {
     continue;
   }
-  if (c.includes('afarer-inflatable-boat-factory')) factoryRefs.push(path.relative(ROOT, f));
+  if (c.includes('olagoon-inflatable-boat-factory')) factoryRefs.push(path.relative(ROOT, f));
   combined.lastIndex = 0;
   const m = c.match(combined);
   if (m) {
@@ -96,7 +96,7 @@ for (const f of files) {
   }
 }
 
-console.log('\n=== references to kept image afarer-inflatable-boat-factory.webp ===');
+console.log('\n=== references to kept image olagoon-inflatable-boat-factory.webp ===');
 for (const r of factoryRefs) console.log('  ' + r);
 console.log('\n=== candidate hits (should be EMPTY for deletion) ===');
 for (const [f, hits] of candidateHits) console.log('  ' + f + ' -> ' + hits.join(', '));

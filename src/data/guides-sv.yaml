@@ -19,7 +19,7 @@
     - q: Uppblåsbar eller hård SUP-bräda?
       a: Uppblåsbara brädor erbjuder portabilitet, enkel förvaring och stötdämpning. Hårda brädor ger maximal styvhet och fart. För de flesta fritidsanvändare är en kvalitetsbräda med drop-stitch-kärna det praktiska valet.
     - q: Till hur många PSI ska jag pumpa?
-      a: afarer-brädor rekommenderar 12-15 PSI. Vid 15 PSI uppnår brädan maximal styvhet som kan jämföras med en hård bräda. Håll dig alltid inom det tryckområde som är tryckt på brädan.
+      a: olagoon-brädor rekommenderar 12-15 PSI. Vid 15 PSI uppnår brädan maximal styvhet som kan jämföras med en hård bräda. Håll dig alltid inom det tryckområde som är tryckt på brädan.
   relatedProducts: []
   relatedGuides:
     - beginner-guide
@@ -208,7 +208,7 @@
     - q: Kan jag lämna min SUP uppumpad hela säsongen?
       a: Ja, men håll den borta från direkt solljus när den inte används. Delvis tömning (8-10 PSI) rekommenderas vid förvaring under längre tid.
     - q: Hur reparerar jag ett hål?
-      a: Rengör området, klipp en lapp med rundade hörn, applicera lim, tryck hårt och vänta 24 timmar innan du pumpar upp. afarer-brädor inkluderar ett reparationskit.
+      a: Rengör området, klipp en lapp med rundade hörn, applicera lim, tryck hårt och vänta 24 timmar innan du pumpar upp. olagoon-brädor inkluderar ett reparationskit.
     - q: Hur ofta ska jag kontrollera ventilen?
       a: Månadsvis. Ventilen är den vanligaste felkällan. Kontrollera att ventilpinnen rör sig fritt och att O-ringen är intakt.
   relatedProducts: []
@@ -703,7 +703,7 @@
   description: Så reser du med en uppblåsbar SUP med flyg, bil eller husbil. Tips om flygbolagsavgifter, packning, pumpning på plats och överväganden vid utlandsresor.
   tldr: Töm, rulla och packa din SUP i sin ryggsäck. De flesta flygbolag accepterar den som incheckat bagage (under 50 pund / 50 linjära tum). Packa alltid pumpen och paddeln i samma väska. Kom i god tid så att du har extra tid om personalen ifrågasätter väskans storlek. Överväg att skicka brädan i förväg vid långa resor.
   problem: Att resa med en SUP verkar krångligt — flygbolagens storleksgränser, säkerhetskontroller och frågan om hur man pumpar upp brädan på en avlägsen destination skapar osäkerhet.
-  solution: Afarers SUP-ryggsäckar är konstruerade för att klara flygbolagens gränser för incheckat bagage. Packa strategiskt, ta med ett reparationskit och undersök pumpmöjligheter (marinor, campingplatser med el) före avresa.
+  solution: OLagoons SUP-ryggsäckar är konstruerade för att klara flygbolagens gränser för incheckat bagage. Packa strategiskt, ta med ett reparationskit och undersök pumpmöjligheter (marinor, campingplatser med el) före avresa.
   audience: Paddlare som planerar SUP-resor med flyg, bil eller husbil.
   steps:
     - Töm brädan helt och rulla den från nos till akter
@@ -736,7 +736,7 @@
   description: Guide till val av uppblåsbar SUP för tyngre paddlare (200-400 pund). Rekommendationer för brädans bredd, längd, volym och maxvikt för stora och långa paddlare.
   tldr: Tyngre paddlare behöver bredare brädor (34-36"), längre längder (11'6"-12') och högre maxvikt (300-400 pund). Leta efter PVC i militärkvalitet, förstärkt drop-stitch och dubbellagerskonstruktion. Undvik smala brädor under 32" oavsett längd.
   problem: Standardbrädor har maxvikter på 200-250 pund, vilket utesluter många paddlare. Att åka på en för liten bräda är obekvämt, instabilt och potentiellt farligt.
-  solution: Välj brädor godkända för 300+ pund med extra bredd för stabilitet. Tropical Breeze- och Leviathan Wake-serierna från Afarer erbjuder den volym och förstärkning som tyngre paddlare behöver.
+  solution: Välj brädor godkända för 300+ pund med extra bredd för stabilitet. Tropical Breeze- och Leviathan Wake-serierna från OLagoon erbjuder den volym och förstärkning som tyngre paddlare behöver.
   audience: Paddlare över 200 pund som behöver en bräda som bär deras vikt säkert.
   steps:
     - Beräkna totallasten — kroppsvikt + utrustning + 20 % säkerhetsmarginal
@@ -835,7 +835,7 @@
   description: Så väljer du en tur-SUP för långdistanspaddling — skrovdesign, längd, bredd, kurshållning och utrustningsrekommendationer för expeditioner över flera dagar.
   tldr: Tur-SUP behöver längre skrov (12-14'), deplacerande stävar för effektivt glid och måttlig bredd (30-32") för kurshållning. Leta efter spännband på däcket, flera D-ringar och drop-stitch som tål högt PSI. En turanpassad paddel med mindre blad minskar tröttheten på långa dagar.
   problem: Att använda en kort allroundbräda för turpaddling ger låg fart, dålig kurshållning och tidig trötthet. Distanspaddling kräver specialiserad skrovdesign.
-  solution: Välj en bräda på 12' eller längre med deplacerande nos. Ocean Pulse och Ocean Voyager från Afarer erbjuder den turanpassade skrovformen och spännbanden som expeditionspaddling kräver.
+  solution: Välj en bräda på 12' eller längre med deplacerande nos. Ocean Pulse och Ocean Voyager från OLagoon erbjuder den turanpassade skrovformen och spännbanden som expeditionspaddling kräver.
   audience: Paddlare som planerar dagsturer, expeditioner över flera dagar eller distansträning.
   steps:
     - Välj en bräda på 12-14' för effektivt glid och kurshållning

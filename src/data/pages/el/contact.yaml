@@ -1,8 +1,8 @@
 meta:
   title: 'Επικοινωνία — ερωτήματα συνεργασίας και προϊόντων SUP | {SITE}'
-  description: 'Επικοινωνήστε με την afarer για ερωτήματα συνεργασίας, co-brand και private label ή επαγγελματικούς στόλους. Μάρκα φουσκωτών σανίδων SUP, απαντάμε εντός 2 εργάσιμων ημερών.'
+  description: 'Επικοινωνήστε με την olagoon για ερωτήματα συνεργασίας, co-brand και private label ή επαγγελματικούς στόλους. Μάρκα φουσκωτών σανίδων SUP, απαντάμε εντός 2 εργάσιμων ημερών.'
   keywords:
-    - 'επικοινωνία afarer'
+    - 'επικοινωνία olagoon'
     - 'ερώτημα διανομέα SUP'
     - 'επαγγελματίας προμηθευτής SUP'
     - 'επικοινωνία κατασκευαστή SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Στείλτε μήνυμα
   subtitle: Για προσφορά, τεχνικές ερωτήσεις ή συνεργασία — γράψτε μας. Απαντάμε εντός μίας εργάσιμης ημέρας.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Αποστολή ερωτήματος → Λήψη προσφοράς
   success_message: Ευχαριστούμε! Το μήνυμά σας ελήφθη. Θα απαντήσουμε εντός μίας εργάσιμης ημέρας.
   error_message: Παρουσιάστηκε σφάλμα κατά την αποστολή. Δοκιμάστε ξανά ή γράψτε απευθείας στο email.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: Email
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Έδρα
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

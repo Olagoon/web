@@ -8,8 +8,8 @@ hero:
   tagline: 'Labor 06'
   title: 'Kvaliteedi- ja inspektsioonilabor'
   subtitle: 'Sõltumatu verifitseerimine — iga test läbitud enne tarnet'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'afarer kvaliteediinspektsiooni labori UV-testimine'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'olagoon kvaliteediinspektsiooni labori UV-testimine'
 
 intro: 'Iga laud, mis meie töökojast lahkub, kannab kinnitust, et see on läbinud kindlaksmääratud kvaliteediinspektsioonide ja materjalitestide komplekti. Meie kvaliteedi- ja inspektsioonilabor on sõltumatu funktsioon organisatsioonis — see allub otse tegevjuhile, mitte tootmisele — tagades, et ükski äriline surve ei saa kontrollpunkti ohustada. Kui materjalipartii või valmis laud ei vasta avaldatud spetsifikatsioonile, on laboril õigus saadetis peatada, kuni mittevastavus on kõrvaldatud.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Meie kohustus teie ees</h2>
-  <p>Kui saate afarer laua, saate ka selle kvaliteedimapi — koondatud ülevaate testitulemustest, mis kehtivad teie konkreetse laua kohta. Kangapartii sertifikaat, keevituste eemaldustestid, kambrite õhutesti logid ja kontroll-loend enne tarnet. Iga number on jälgitav. Iga inspektor on identifitseeritav. See ei ole lihtsalt paberimajandus — see on meie lubadus, et see, mida me tarnisime, on täpselt see, mida me määratlesime.</p>
+  <p>Kui saate olagoon laua, saate ka selle kvaliteedimapi — koondatud ülevaate testitulemustest, mis kehtivad teie konkreetse laua kohta. Kangapartii sertifikaat, keevituste eemaldustestid, kambrite õhutesti logid ja kontroll-loend enne tarnet. Iga number on jälgitav. Iga inspektor on identifitseeritav. See ei ole lihtsalt paberimajandus — see on meie lubadus, et see, mida me tarnisime, on täpselt see, mida me määratlesime.</p>
   <p>Kui teil tekib kvaliteedikahtlus, võite laboriga otse ühendust võtta — kontaktandmed on trükitud teie vastavussertifikaadile. Me võtame iga päringu tõsiselt ja kohustume 48 tunni jooksul läbi viima ametliku uurimise.</p>
 
 cta:

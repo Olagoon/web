@@ -1,16 +1,16 @@
 meta:
   title: Matricea de soluții pentru clienți B2B | {SITE}
-  description: Matrice completă a soluțiilor B2B pentru clienți Afarer, care acoperă 24 de tipuri de clienți — de la startup-uri outdoor la instituții de conservare marină.
+  description: Matrice completă a soluțiilor B2B pentru clienți OLagoon, care acoperă 24 de tipuri de clienți — de la startup-uri outdoor la instituții de conservare marină.
 hero:
   tagline: Soluții pentru clienți B2B
   title: 24 de soluții B2B<br />Potrivite afacerii dvs.
-  subtitle: De la fondatorii de startup-uri la distribuitori globali — găsiți soluția Afarer exactă, proiectată pentru modelul dvs. de afaceri, industria și obiectivele dvs.
+  subtitle: De la fondatorii de startup-uri la distribuitori globali — găsiți soluția OLagoon exactă, proiectată pentru modelul dvs. de afaceri, industria și obiectivele dvs.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Fabrica și unitatea de producție afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: Fabrica și unitatea de producție olagoon
 solutions:
   title: Matricea Soluțiilor pentru Clienți
-  subtitle: Fiecare tip de client, nevoia sa principală și pagina de soluții Afarer creată special pentru acesta.
+  subtitle: Fiecare tip de client, nevoia sa principală și pagina de soluții OLagoon creată special pentru acesta.
   items:
     - clientType: Fondator de startup outdoor
       need: Creare de brand

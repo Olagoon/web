@@ -1,22 +1,22 @@
 meta:
   title: 'Ekibimiz — Deniz mühendisleri ve yapımcılar | {SITE}'
-  description: "2012 yılında Qingdao'da kurulan afarer, deniz mühendisleri, malzeme uzmanları ve su sporu tutkunları tarafından inşa edildi. Fabrikanın arkasındaki ekiple tanışın."
+  description: "2012 yılında Qingdao'da kurulan olagoon, deniz mühendisleri, malzeme uzmanları ve su sporu tutkunları tarafından inşa edildi. Fabrikanın arkasındaki ekiple tanışın."
   keywords:
-    - 'afarer ekibi'
+    - 'olagoon ekibi'
     - 'deniz mühendisleri'
     - 'şişme SUP tahtası üreticisi'
     - 'SUP fabrikası ekibi'
 hero:
   tagline: Ekibimiz
-  title: afarer'ın Arkasındaki İnsanlar<br />— Suda Mühendislik Özgürlüğü
-  subtitle: 2012 yılında Çin'in Qingdao kentinde kurulan afarer, profesyonel düzeyde şişirilebilir deniz taşıtlarını dünya çapında erişilebilir hale getirmeye inanan deniz mühendisleri, malzeme bilimcileri ve su sporları meraklıları tarafından inşa edildi.
+  title: olagoon'ın Arkasındaki İnsanlar<br />— Suda Mühendislik Özgürlüğü
+  subtitle: 2012 yılında Çin'in Qingdao kentinde kurulan olagoon, profesyonel düzeyde şişirilebilir deniz taşıtlarını dünya çapında erişilebilir hale getirmeye inanan deniz mühendisleri, malzeme bilimcileri ve su sporları meraklıları tarafından inşa edildi.
   image:
     src: /images/team-all.webp
-    alt: afarer tüm ekip fotoğrafı — mühendislik, üretim ve yönetim
+    alt: olagoon tüm ekip fotoğrafı — mühendislik, üretim ve yönetim
 founding:
   tagline: Kuruluşumuz
   title: Kıyı Atölyesinden<br />12.000 m²'lik Tesise
-  subtitle: afarer, şişme SUP tasarımı, PVC imalatı ve küresel denizcilik ekipmanı imalatında onlarca yıllık ortak deneyime sahip bir deniz mühendisleri ekibi tarafından kuruldu.
+  subtitle: olagoon, şişme SUP tasarımı, PVC imalatı ve küresel denizcilik ekipmanı imalatında onlarca yıllık ortak deneyime sahip bir deniz mühendisleri ekibi tarafından kuruldu.
   items:
     - title: 'Kuruluş: 2012'
       description: Derin gemi inşa mirasına sahip büyük bir denizcilik merkezi olan Çin'in Qingdao şehrinde kuruldu.
@@ -40,7 +40,7 @@ leadership:
       name: Toby Liu
       description: Denizcilik üretiminde 15 yılı aşkın deneyim. Daha önce büyük bir Çin paddle sporları üreticisinde Ar-Ge liderliği yaptı. Şişme SUP tasarımında çok sayıda patente sahiptir.
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: Baş Mühendis
       name: Zhang Wei
       description: PVC imalatı ve drop-stitch tasarımında 20 yılı aşkın deneyim. Eski bir Avrupalı paddle sporları markasında teknik direktör.
@@ -65,13 +65,13 @@ leadership:
       name: Helen Lee
       description: 15 yılı aşkın uluslararası B2B ticaret deneyimi. 30'dan fazla ülkede ortak marka ve dağıtım iş ortaklıkları yönetti. 4 dilde akıcı.
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: Tasarım Felsefesi
   title: Mühendislik Odaklı Tasarım<br />— Her Detay Önemlidir
   subtitle: Mühendislik felsefemiz, ürettiğimiz her ürüne rehberlik eden üç prensibe dayanmaktadır.
   list:
-    - 'Öncelik Güvenilirlik: Her afarer ürünü, gerçek dünya koşullarına dayanacak şekilde test edilir — soğuk su rescue operasyonlarından tropikal tatil köyü kiralama süreçlerine kadar. En kritik noktalarda mühendislik aşırı güvenli yapılır.'
+    - 'Öncelik Güvenilirlik: Her olagoon ürünü, gerçek dünya koşullarına dayanacak şekilde test edilir — soğuk su rescue operasyonlarından tropikal tatil köyü kiralama süreçlerine kadar. En kritik noktalarda mühendislik aşırı güvenli yapılır.'
     - 'Üretim Hassasiyeti: Tesislerimiz CNC kesim, yüksek frekanslı kaynak ve otomatik basınç testi kullanmaktadır. Her dikiş, her valf, her fitting belgelenmiş spesifikasyonlara uygundur.'
     - 'Sürekli İnovasyon: Ar-Ge ekibimiz yeni malzemeleri, üretim yöntemlerini ve tasarım iyileştirmelerini sürekli olarak değerlendirir. Sorunları beklemeyiz — onları önceden tahmin ederiz.'
 cta:

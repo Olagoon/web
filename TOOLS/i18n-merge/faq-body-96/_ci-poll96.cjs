@@ -16,7 +16,7 @@ const headers = {
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 async function main() {
   for (let attempt = 1; attempt <= 60; attempt++) {
-    const res = await fetch('https://api.github.com/repos/theafarer/afarer/actions/runs?head_sha=' + SHA, { headers });
+    const res = await fetch('https://api.github.com/repos/theolagoon/olagoon/actions/runs?head_sha=' + SHA, { headers });
     const j = await res.json();
     const runs = j.workflow_runs || [];
     if (runs.length >= 2 && runs.every((r) => r.status === 'completed')) {

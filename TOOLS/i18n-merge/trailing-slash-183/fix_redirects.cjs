@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer/src/pages';
+const ROOT = 'E:/github/olagoon/src/pages';
 let filesChanged = 0;
 let fixes = 0;
 
@@ -48,7 +48,7 @@ function fix(fp) {
   if (changed) {
     fs.writeFileSync(fp, lines.join('\n'));
     filesChanged++;
-    console.log('fixed:', fp.replace(/\\/g, '/').replace('E:/github/afarer/src/pages/', ''));
+    console.log('fixed:', fp.replace(/\\/g, '/').replace('E:/github/olagoon/src/pages/', ''));
   }
 }
 

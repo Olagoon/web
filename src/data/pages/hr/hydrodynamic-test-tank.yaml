@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorij 04'
   title: 'Hidrodinamički ispitni bazen'
   subtitle: 'Potvrđivanje performansi prije prvog prototipa u punoj veličini'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp'
-  image_alt: 'Ispitivanje performansi u Afarer hidrodinamičkom ispitnom bazenu'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp'
+  image_alt: 'Ispitivanje performansi u OLagoon hidrodinamičkom ispitnom bazenu'
 
-intro: 'Uobičajena je zabluda da je hidrodinamičko ispitivanje rezervirano za oceanske brodove. U stvarnosti performanse malog trupa za glisanje — poput napuhive SUP daske — jednako ovise o podvodnom obliku kao što tanker ovisi o svom bulbastom pramcu. Kut nagiba trupa, kvašena površina, stvaranje prskanja i ventilacija dramatično utječu na klizanje, brzinu i udobnost vožnje. U Afareru vodimo namjenski hidrodinamički ispitni bazen koji nam omogućuje kvantifikaciju tih učinaka na modelu — prije nego što posvetimo tkaninu i alate prototipu u punoj veličini.'
+intro: 'Uobičajena je zabluda da je hidrodinamičko ispitivanje rezervirano za oceanske brodove. U stvarnosti performanse malog trupa za glisanje — poput napuhive SUP daske — jednako ovise o podvodnom obliku kao što tanker ovisi o svom bulbastom pramcu. Kut nagiba trupa, kvašena površina, stvaranje prskanja i ventilacija dramatično utječu na klizanje, brzinu i udobnost vožnje. U OLagoonu vodimo namjenski hidrodinamički ispitni bazen koji nam omogućuje kvantifikaciju tih učinaka na modelu — prije nego što posvetimo tkaninu i alate prototipu u punoj veličini.'
 
 content_html: |
   <h2>Zašto ispitivati dasku za veslanje u bazenu?</h2>

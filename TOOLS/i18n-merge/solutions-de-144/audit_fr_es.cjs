@@ -1,5 +1,5 @@
 const fs = require('fs');
-const dir = 'E:/github/afarer/src/data/biz-solutions/translations';
+const dir = 'E:/github/olagoon/src/data/biz-solutions/translations';
 for (const lang of ['fr', 'es']) {
   const s = fs.readFileSync(dir + '/' + lang + '.ts', 'utf8');
   const body = s.slice(s.indexOf('const overrides'));
@@ -16,7 +16,7 @@ for (const lang of ['fr', 'es']) {
       'challenge',
       'solutions',
       'caseStudy',
-      'whyAfarer',
+      'whyOLagoon',
       'faqs',
       'cta',
     ]

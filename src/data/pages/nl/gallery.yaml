@@ -1,6 +1,6 @@
 meta:
   title: 'Galerij — Opblaasbare SUPs & Boten | {SITE}'
-  description: "Bekijk de afarer-galerij: foto's van opblaasbare SUP-boards, boten, fabriek en productie uit onze professionele paddle board-fabriek."
+  description: "Bekijk de olagoon-galerij: foto's van opblaasbare SUP-boards, boten, fabriek en productie uit onze professionele paddle board-fabriek."
   keywords:
     - "SUP-foto's"
     - 'opblaasbare SUP galerij'
@@ -14,16 +14,16 @@ albums:
   - title: SUP-boten
     desc: Aluminium romp SUP's van 3,3 m tot 7,5 m voor patrouille, duiken, vissen en gezinsgebruik.
     images:
-      - https://assets.afarer.com/images/afarer/hero/factory-gate.webp
-      - https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-      - https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp
+      - https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
+      - https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+      - https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp
   - title: SUP-boards
     desc: Opblaasbare SUP-boards met drop-stitch-technologie voor toeren, surfen, yoga en vissen.
     images:
-      - https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      - https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 cta:
   title: Wil je meer zien?
   desc: Volg ons op social media voor het laatste productnieuws, fabrieksupdates en klantavonturen.

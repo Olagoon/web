@@ -1,6 +1,6 @@
 meta:
   title: יצירת קשר — פניות שותפות ומוצרים | {SITE}
-  description: צרו קשר עם afarer לפניות בנושא שותפות, מיתוג משותף ומותג פרטי, או ציים מקצועיים. מותג SUP מתנפח, אנו מגיבים תוך יומי עסקים.
+  description: צרו קשר עם olagoon לפניות בנושא שותפות, מיתוג משותף ומותג פרטי, או ציים מקצועיים. מותג SUP מתנפח, אנו מגיבים תוך יומי עסקים.
   keywords:
     - הצעת מחיר למפיץ SUP
     - ספק SUP מקצועי
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: שלחו לנו הודעה
   subtitle: להצעות מחיר, שאלות טכניות או פניות שותפות, כתבו לנו שורה. אנחנו משיבים תוך יום עסקים אחד.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: שלחו פנייה ← קבלו הצעת מחיר
   success_message: תודה! ההודעה שלכם נחתה בתיבת הדואר הנכנס שלנו. נשיב תוך יום עסקים אחד.
   error_message: משהו השתבש בשליחת ההודעה שלכם. נסו שוב או שלחו לנו מייל ישירות.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: אימייל
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: מטה
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

@@ -1,6 +1,6 @@
 meta:
   title: 'Globālā klātbūtne — SUP ražotājs, kas apkalpo 50+ valstis | {SITE}'
-  description: 'afarer eksportē piepūšamos SUP dēļus uz 50+ valstīm visos kontinentos. Profesionāls ražotājs un piegādātājs zīmoliem, izplatītājiem un flotēm.'
+  description: 'olagoon eksportē piepūšamos SUP dēļus uz 50+ valstīm visos kontinentos. Profesionāls ražotājs un piegādātājs zīmoliem, izplatītājiem un flotēm.'
   keywords:
     - 'globāls sup ražotājs'
     - 'airu dēļu eksportētājs'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: 'Globālā klātbūtne'
   title: 'Apkalpojam 50+ valstis<br />visos kontinentos'
-  subtitle: 'No Eiropas piekrastes patruļas operatoriem līdz Austrālijas ūdens sporta izplatītājiem un Tuvo Austrumu glābšanas komandām — afarer dēļi ir uz ūdens visā pasaulē.'
+  subtitle: 'No Eiropas piekrastes patruļas operatoriem līdz Austrālijas ūdens sporta izplatītājiem un Tuvo Austrumu glābšanas komandām — olagoon dēļi ir uz ūdens visā pasaulē.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'afarer globālā jūras ražošana un izplatīšana'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'olagoon globālā jūras ražošana un izplatīšana'
 stats:
   title: 'Globālais sasniegums'
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: 'Krājumi Montklērā, Kalifornijā, ātrai piegādei visā Ziemeļamerikā. Rietumu krasts: 2-3 dienas, centrālā daļa: 3-4 dienas, Austrumu krasts: 4-5 dienas.'
       icon: tabler:building-warehouse
     - title: 'Rezerves daļas'
-      description: 'Īstās afarer rezerves daļas un palīgmateriāli krājumos visu gadu. Biežākās daļas tiek nosūtītas 24 stundu laikā.'
+      description: 'Īstās olagoon rezerves daļas un palīgmateriāli krājumos visu gadu. Biežākās daļas tiek nosūtītas 24 stundu laikā.'
       icon: tabler:package
     - title: 'Tehniskais atbalsts'
       description: 'Tieša līnija uz mūsu inženieru komandu tehniskiem jautājumiem, remonta padomiem un rezerves daļu atbalstam. Mēs atbalstām arī dēļus, ko uzbūvējām pirms 20 gadiem.'

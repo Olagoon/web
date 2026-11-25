@@ -13,13 +13,13 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 
 const CONFIG = 'workers/contact-worker/wrangler.toml';
-const DB_NAME = 'afarer-inquiries';
+const DB_NAME = 'olagoon-inquiries';
 const MAX_RETRY = 5;
 
 const resendKey = process.env.CONTACT_RESEND_API_KEY;
 const fromEmail = process.env.CONTACT_FROM_EMAIL;
-const toEmail = process.env.CONTACT_EMAIL_TO || 'info@afarer.com';
-const fromName = process.env.CONTACT_FROM_NAME || 'afarer Contact';
+const toEmail = process.env.CONTACT_EMAIL_TO || 'info@olagoon.com';
+const fromName = process.env.CONTACT_FROM_NAME || 'olagoon Contact';
 
 if (!resendKey || !fromEmail) {
   console.error('Missing CONTACT_RESEND_API_KEY or CONTACT_FROM_EMAIL environment variables — cannot resend.');
@@ -28,7 +28,7 @@ if (!resendKey || !fromEmail) {
 
 // Pass SQL via a temp file (--file) instead of --command: user-submitted content
 // contains quotes/newlines that break shell escaping, especially on Windows cmd.
-const tmpDir = mkdtempSync(join(tmpdir(), 'afarer-d1-'));
+const tmpDir = mkdtempSync(join(tmpdir(), 'olagoon-d1-'));
 
 function d1(sql) {
   const file = join(tmpDir, 'query.sql');

@@ -1,6 +1,6 @@
 meta:
   title: 'Globaalne kohalolek — supilaudade tootja, kes teenindab üle 50 riigi | {SITE}'
-  description: 'afarer ekspordib täispuhutavaid SUP-e üle 50 riiki igal kontinendil. Professionaalne tootja ja tarnija kaubamärkidele, jaotajatele ja laevastikele.'
+  description: 'olagoon ekspordib täispuhutavaid SUP-e üle 50 riiki igal kontinendil. Professionaalne tootja ja tarnija kaubamärkidele, jaotajatele ja laevastikele.'
   keywords:
     - 'globaalne supi tootja'
     - 'supilaudade eksportija'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: 'Globaalne kohalolek'
   title: 'Teenindame üle 50 riigi<br />igal kontinendil'
-  subtitle: 'Alates Euroopa rannikupatrulli operaatoritest kuni Austraalia vesispordi jaotajate ja Lähis-Ida päästemeeskondadeni — afarer laudad on vees üle kogu maailma.'
+  subtitle: 'Alates Euroopa rannikupatrulli operaatoritest kuni Austraalia vesispordi jaotajate ja Lähis-Ida päästemeeskondadeni — olagoon laudad on vees üle kogu maailma.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'afarer ülemaailmne meretootmine ja jaotus'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'olagoon ülemaailmne meretootmine ja jaotus'
 stats:
   title: 'Globaalne haardeulatus'
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: 'Lattu hoitud kaubad Montclairis, CA-s kiireks tarnimiseks üle Põhja-Ameerika. Läänerannik: 2-3 päeva, keskosa: 3-4 päeva, idarannik: 4-5 päeva.'
       icon: tabler:building-warehouse
     - title: 'Varuosad'
-      description: 'Originaal afarer varuosad ja tarbekaubad laos aastaringselt. Levinud osad saadetakse 24 tunni jooksul.'
+      description: 'Originaal olagoon varuosad ja tarbekaubad laos aastaringselt. Levinud osad saadetakse 24 tunni jooksul.'
       icon: tabler:package
     - title: 'Tehniline tugi'
       description: 'Otseliin meie insenerimeeskonnani tehniliste küsimuste, remondinõu ja asendusosade toe jaoks. Me toetame laudu, mille ehitasime 20 aastat tagasi.'

@@ -7,11 +7,11 @@ hero:
   tagline: Lab 04
   title: Bazin de testare hidrodinamică
   subtitle: Validarea performanței înainte de primul prototip la scară completă
-  image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
-  image_alt: Testarea performanței în rezervorul hidrodinamic de testare afarer
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
+  image_alt: Testarea performanței în rezervorul hidrodinamic de testare olagoon
 intro: >-
   Este o concepție greșită comună că testarea hidrodinamică este rezervată navelor oceanice. În realitate, performanța unei carene mici de planare — cum ar fi o placă SUP gonflabilă — depinde la fel de mult de forma sa subacvatică pe cât depinde un petrolier de bulbul de la prova. Unghiul de
-  asietă, suprafața udată, generarea de stropi și ventilația au un efect dramatic asupra alunecării, vitezei și confortului de navigare. La Afarer, operăm un bazin hidrodinamic dedicat care ne permite să cuantificăm aceste efecte la scară de model — înainte de a angaja țesătura și sculele
+  asietă, suprafața udată, generarea de stropi și ventilația au un efect dramatic asupra alunecării, vitezei și confortului de navigare. La OLagoon, operăm un bazin hidrodinamic dedicat care ne permite să cuantificăm aceste efecte la scară de model — înainte de a angaja țesătura și sculele
   pentru un prototip la scară reală.
 content_html: >-
   <h2>De ce testăm în bazin o placă de paddle?</h2>

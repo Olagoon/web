@@ -1,6 +1,6 @@
 meta:
   title: 'Partner — Vertrieb & Großhandel | {SITE}'
-  description: 'Werden Sie afarer-Partner: Vertriebsnetze, Großhandelspreise, OEM/Eigenmarkenprogramme und Support für Paddleboard-Unternehmen weltweit.'
+  description: 'Werden Sie olagoon-Partner: Vertriebsnetze, Großhandelspreise, OEM/Eigenmarkenprogramme und Support für Paddleboard-Unternehmen weltweit.'
   keywords:
     - 'SUP-Vertriebspartner'
     - 'Paddleboard-Großhandel'
@@ -8,11 +8,11 @@ meta:
     - 'SUP-Partnerschaft'
 hero:
   tagline: Partner & Vertrieb
-  title: Werden Sie afarer-Partner<br />— Globales Vertriebsnetz
+  title: Werden Sie olagoon-Partner<br />— Globales Vertriebsnetz
   subtitle: Treten Sie dem globalen Partnernetzwerk bei. Wir arbeiten mit Vertriebspartnern und Händlern in 50+ Ländern.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: afarer globales Partner- und Vertriebsnetz
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: olagoon globales Partner- und Vertriebsnetz
 content_programs:
   tagline: Partnerprogramme
   title: Partnerprogramme<br />Für Wachstum
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: Warum mit uns zusammenarbeiten
-  title: Warum Partner afarer wählen
+  title: Warum Partner olagoon wählen
   subtitle: Unsere Partner profitieren von echter Fertigungskapazität, gleichbleibender Qualität und reaktionsschnellem Support.
   list:
     - 'Direkter Fabrikzugang: Arbeiten Sie direkt mit unserem Fertigungsteam – ohne Zwischenhändler'
@@ -62,7 +62,7 @@ content_process:
     - title: 'Schritt 4: Schulung & Start'
       description: Produktschulungen, Vertriebsunterstützung und Marketingmaterialien bereitgestellt. Sie sind startbereit.
 cta:
-  title: Bereit, afarer-Partner zu werden?
+  title: Bereit, olagoon-Partner zu werden?
   subtitle: Bewerben Sie sich für eine Partnerschaft. Wir antworten innerhalb von 3 Werktagen.
   actions:
     - variant: primary

@@ -69,7 +69,7 @@ const byKey = {
   zh: {
     'faq.inflatable.lifespan.a':
       'PVC充氣船保養得當可使用8–12年。Hypalon船可使用15–20年以上。適當充氣、淡水沖洗和避免尖銳物體可顯著延長使用壽命。',
-    'faq.sup.travel.a': '完全可以。每塊afarer槳板可裝入背包大小的手提箱，符合航空公司行李要求。僅18–22磅，便於攜帶。',
+    'faq.sup.travel.a': '完全可以。每塊olagoon槳板可裝入背包大小的手提箱，符合航空公司行李要求。僅18–22磅，便於攜帶。',
     'home.tech.ds.desc': '數千根內線連接上下層，形成12–15 PSI的剛性高壓結構。',
     'home.useCases.beginner.solution':
       'SUP Explorer 11 為初學者提供寬體穩定性。Classic 救生衣確保有 CE 認證浮力。雙動作泵 10 分鐘內充好兩塊板。',
@@ -77,7 +77,7 @@ const byKey = {
       'AirDeck 360 最多容納 5 人，配備加固充氣甲板。現場充氣、車內存放，平靜湖泊和隱蔽海域均可使用。',
     'home.tldr.point2': '為超過 50 個國家的休閒、商業及專業用戶提供服務',
     'oem.para1':
-      'afarer不是貿易公司。我們是青島Vatrad集團的生產部門——一個垂直整合的中國工業集團，擁有12,000平方米的生產面積和超過15,000件的年產能。',
+      'olagoon不是貿易公司。我們是青島Vatrad集團的生產部門——一個垂直整合的中國工業集團，擁有12,000平方米的生產面積和超過15,000件的年產能。',
     'people.engineeringDesc':
       '25+ 名工程師專注於船用 PVC/Hypalon 製造、Drop-Stitch 結構、模具製造和生產線優化。平均擁有 8 年以上行業經驗。',
     'people.salesDesc':
@@ -96,14 +96,14 @@ const byKey = {
     'solutionsByUseCase.story1.context': '沿海洪災救援，東南亞，2024',
     'home.brandStatement.title': '自 2012 年起的品質充氣船',
     'home.catalog.sup.desc': '9 英尺到 12 英尺站立式槳板——全能、旅行、瑜伽等。',
-    'home.resources.engineeringDesc': '瞭解每款 afarer 產品背後的 25+ 名工程師。',
+    'home.resources.engineeringDesc': '瞭解每款 olagoon 產品背後的 25+ 名工程師。',
     'buyerCenter.oemProcessDesc': '從詢價到 FOB 發貨的 8 步流程。',
     'ai.useCase':
-      'afarer 產品用於休閒劃槳、旅行、釣魚、潛水支持、搜救、災難救援、巡邏、遊艇附屬艇、白水漂流、SUP 瑜伽及 OEM/ODM 自有品牌製造。',
+      'olagoon 產品用於休閒劃槳、旅行、釣魚、潛水支持、搜救、災難救援、巡邏、遊艇附屬艇、白水漂流、SUP 瑜伽及 OEM/ODM 自有品牌製造。',
     'answerCenter.placeholder': '詢問關於我們的產品、技術或使用場景的問題。',
     '404.title': '頁面未找到 →{name}',
-    'home.community.subtitle': '加入數千名劃手，與 afarer 一起探索湖泊、河流和海岸。',
-    'home.community.cta': '在 Instagram 標記 @afarer 分享你的冒險。',
+    'home.community.subtitle': '加入數千名劃手，與 olagoon 一起探索湖泊、河流和海岸。',
+    'home.community.cta': '在 Instagram 標記 @olagoon 分享你的冒險。',
     'home.learn.guide3': '充氣板 vs 硬板',
     'chat.disclaimer': '點擊按鈕將按優先級打開相應應用（WhatsApp 或郵件）；若均未配置，將跳轉至聯繫表單。',
     'geo.highSeverity': '高嚴重度({count})',
@@ -115,7 +115,7 @@ const byKey = {
     'faq.inflatable.lifespan.a':
       'PVCインフレータブルボートは適切な管理の下で8～12年持つのが一般的です。Hypalon製品は15～20年以上持つこともあります。適切な加圧、真水での洗浄、鋭利な物との接触を避けることが寿命を大幅に延ばします。',
     'faq.sup.travel.a':
-      'もちろんです。すべてのafarerボードは Checked Baggage の規格に合ったバックパックサイズのトートバッグに収まります。たった18～22 lbsでどこにでも簡単に持ち運べます。',
+      'もちろんです。すべてのolagoonボードは Checked Baggage の規格に合ったバックパックサイズのトートバッグに収まります。たった18～22 lbsでどこにでも簡単に持ち運べます。',
     'faq.sup.weight.a':
       'オールラウンドSUPは最大220 lbsまで対応しています。ツーリングおよびヨガシリーズは最大250 lbsまで対応しています。',
     'home.tech.ds.desc': '何千もの内部糸が上下層を接続し、12～15 PSIで剛性の高い高圧構造を創出。',
@@ -126,7 +126,7 @@ const byKey = {
     'techspecs.materialDropstitchDesc': '高密度ドロップスティッチ生地、12～15 PSI作動圧力。剛性フロア構造。',
     'techspecs.materialAluminumDesc': 'マリングレード5083アルミニウム板。ディープVデザイン。溶接構造。',
     'oem.para1':
-      'afarerは貿易会社ではありません。青島Vatradグループの生産部門であり、12,000m²の生産エリアと年間15,000台以上の生産能力を備えた中国の垂直統合型産業グループの一員です。',
+      'olagoonは貿易会社ではありません。青島Vatradグループの生産部門であり、12,000m²の生産エリアと年間15,000台以上の生産能力を備えた中国の垂直統合型産業グループの一員です。',
     'oem.ctaSub': 'ご要望をお知らせください。4時間以内に詳細な見積もりと納期でお答えします。',
     'engineeringTeam.subtitle': '材料科学、製品設計、品質エンジニアリング、生産管理の専門家25名以上。',
     'people.managementDesc':
@@ -163,7 +163,7 @@ const byKey = {
     'home.useCases.family.solution':
       'AirDeck 360은 강화 에어덱으로 최대 5인 수용. 런치지에서 인플레이트하면 차에 들어가며, 잔잔한 호수와 보호된 해안 수역 모두에 적합합니다.',
     'oem.para1':
-      'afarer는 무역 회사가 아닙니다. 우리는 칭다오 Vatrad 그룹의 생산 부서입니다. 12,000m² 생산 면적과 연간 15,000대 이상의 생산 능력을 갖춘 수직 통합 중국 산업 그룹입니다.',
+      'olagoon는 무역 회사가 아닙니다. 우리는 칭다오 Vatrad 그룹의 생산 부서입니다. 12,000m² 생산 면적과 연간 15,000대 이상의 생산 능력을 갖춘 수직 통합 중국 산업 그룹입니다.',
     'commercialWorkboats.f3desc':
       '스테인리스316 피팅, 무거운 스크래프 스트립, 강화 트랜섬, 내부 격벽이 있는 3~5개 이상의 독립 에어 챔버.',
     'commercialWorkboats.f4desc':
@@ -172,7 +172,7 @@ const byKey = {
       '가벼운 휴대용 보트가 필요하거나 온화한 기후에서 계절적으로 사용할 레크리에이션 보트 사용자라면 예산을 고려하여 PVC를 선택하세요. 열대 햇빛 아래에서 연중 보트를 공기로 채워두거나 상업용 함대를 운영하거나 15년 이상 보트를 보유할 계획이라면 Hypalon을 선택하세요.',
     'home.resources.oemDesc': '문의부터 FOB 출하까지의 완전한 8단계 OEM 여정.',
     'ai.comparison':
-      '리지드 하드셸 수상 차량과 비교하여 팽창식 afarer 제품은 우수한 휴대성, 수납 공간, 충격 저항성, 낮은 총 소유 비용을 제공합니다. 현대 드롭스티치 기술(15~20 PSI)로 하드셸과의 성능 격차가 크게 줄어들었습니다.',
+      '리지드 하드셸 수상 차량과 비교하여 팽창식 olagoon 제품은 우수한 휴대성, 수납 공간, 충격 저항성, 낮은 총 소유 비용을 제공합니다. 현대 드롭스티치 기술(15~20 PSI)로 하드셸과의 성능 격차가 크게 줄어들었습니다.',
   },
   it: {
     'compare.inflatableVsHard.r8a': '$200–$500',

@@ -1,6 +1,6 @@
 meta:
   title: 'Wiedza — poradniki SUP | {SITE}'
-  description: 'Baza wiedzy afarera: poradniki o nadmuchiwanych deskach SUP, materiałach na paddle boardy, wyborze deski i wiedzy branżowej dla marek i profesjonalistów.'
+  description: 'Baza wiedzy olagoona: poradniki o nadmuchiwanych deskach SUP, materiałach na paddle boardy, wyborze deski i wiedzy branżowej dla marek i profesjonalistów.'
   keywords:
     - 'wiedza o SUP'
     - 'poradnik nadmuchiwany SUP'
@@ -16,7 +16,7 @@ hero:
 clusters:
   tagline: Klastry wiedzy
   title: Odkrywaj według tematu
-  subtitle: Dogłębne spojrzenie na technologię, bezpieczeństwo i umiejętności stojące za każdym produktem afarer.
+  subtitle: Dogłębne spojrzenie na technologię, bezpieczeństwo i umiejętności stojące za każdym produktem olagoon.
   items:
     - title: Wiedza o SUP
       description: Od wyboru pierwszej deski po zaawansowane techniki turystyczne — wszystko o wiosłowaniu na stojąco.
@@ -47,7 +47,7 @@ clusters:
         - Techniki naprawy produktów nadmuchiwanych
         - Świadomość pogody i warunków wodnych
     - title: Technologia
-      description: Inżynieria stojąca za produktami afarer — materiały, metody konstrukcyjne i testowanie jakości.
+      description: Inżynieria stojąca za produktami olagoon — materiały, metody konstrukcyjne i testowanie jakości.
       icon: tabler:microscope
       topics:
         - Technologia PVC klasy morskiej

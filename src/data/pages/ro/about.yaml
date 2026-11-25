@@ -1,6 +1,6 @@
 meta:
-  title: 'Despre afarer — Brand de SUP Gonflabil și Sporturi Nautice | {SITE}'
-  description: 'afarer este un brand global de SUP-uri gonflabile și sporturi nautice, administrat de Aquafarer LLC (SUA) și dezvoltat de echipa noastră operațională din Qingdao. Descoperiți povestea, ingineria, calitatea certificată și programele de parteneriat pe țări.'
+  title: 'Despre olagoon — Brand de SUP Gonflabil și Sporturi Nautice | {SITE}'
+  description: 'olagoon este un brand global de SUP-uri gonflabile și sporturi nautice, administrat de Olagoon LLC (SUA) și dezvoltat de echipa noastră operațională din Qingdao. Descoperiți povestea, ingineria, calitatea certificată și programele de parteneriat pe țări.'
   keywords:
     - 'brand de sup gonflabil'
     - 'brand de sporturi nautice'
@@ -9,9 +9,9 @@ meta:
 hero:
   tagline: Despre noi
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Fabrica și atelierul afarer
-  title: Despre afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: Fabrica și atelierul olagoon
+  title: Despre olagoon
   subtitle: 'Am început într-un atelier de pe coastă, cu o singură placă și o convingere fermă: produsele marine trebuie proiectate ca și cum ar conta cu adevărat, pentru că așa este. Astăzi livrăm în peste 40 de țări, dar fiecare carenă trece în continuare prin aceleași mâini care au fondat compania.'
 stats:
   title: În cifre
@@ -54,7 +54,7 @@ features3_more:
       description: Proiectare realizată proiect cu proiect pentru clienți comerciali, științifici și militari.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Discuții privind proiectarea și ingineria plăcilor
 steps2_values:
   title: Valorile noastre
@@ -71,7 +71,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Momente-cheie
-  subtitle: O versiune scurtă a poveștii afarer.
+  subtitle: O versiune scurtă a poveștii olagoon.
   isReversed: true
   items:
     - title: Fondată într-un atelier de coastă
@@ -106,7 +106,7 @@ brand_hub_cards:
     desc: Livrăm în peste 50 de țări din unitatea noastră din Qingdao, cu parteneri de service autorizați în Europa, Asia-Pacific și Americi.
     link: /brand-global-presence/
     link_label: Aflați mai multe →
-  - title: De ce afarer
+  - title: De ce olagoon
     desc: 'Un brand construit pe calitate verificată — certificare dublă (ISO 9001 + BSCI), conformitate CE și parteneriate exclusive pe țări cu colecții co-branded limitate pentru companii de sporturi nautice.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Aflați mai multe →

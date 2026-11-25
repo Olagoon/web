@@ -33,10 +33,10 @@ OP(
 
 // --- 2. ko pages m2 normalization ---
 const KO = [
-  ['afarer-story.yaml', '\u33a1', 1], // 12,000㎡
+  ['olagoon-story.yaml', '\u33a1', 1], // 12,000㎡
   ['brand-marine-expertise.yaml', 'm\u00b2', 1],
   ['brand-team.yaml', 'm\u00b2', 1],
-  ['brand-why-afarer.yaml', 'm\u00b2', 1],
+  ['brand-why-olagoon.yaml', 'm\u00b2', 1],
   ['certifications.yaml', 'm\u00b2', 1],
   ['custom.yaml', '\u33a1', 1],
   ['factory-capacity.yaml', '\u33a1', 2],
@@ -56,10 +56,10 @@ OP('src/data/site/i18n-config.json', '12,000m\u00b2', '12,000 m\u00b2', 10);
 
 // --- sanity: no other bad variants in ko pages / UI dict ---
 for (const file of [
-  'afarer-story.yaml',
+  'olagoon-story.yaml',
   'brand-marine-expertise.yaml',
   'brand-team.yaml',
-  'brand-why-afarer.yaml',
+  'brand-why-olagoon.yaml',
   'certifications.yaml',
   'custom.yaml',
   'factory-capacity.yaml',

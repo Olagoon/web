@@ -3,8 +3,8 @@ const fs = require('fs');
 // ===== _verify-dist101.cjs — dist verification for slice 101 (guides [lang] wiring) =====
 // Asserts: 21 locales x guides index + 2 slug pages match UI SSOT exactly + EN regression + invariants.
 
-const DIST = 'E:/github/afarer/dist';
-const SSOT = JSON.parse(fs.readFileSync('E:/github/afarer/src/data/site/i18n-config.json', 'utf8'));
+const DIST = 'E:/github/olagoon/dist';
+const SSOT = JSON.parse(fs.readFileSync('E:/github/olagoon/src/data/site/i18n-config.json', 'utf8'));
 const LOCALES = Object.keys(SSOT);
 const CATS = ['buying-guide', 'tutorial', 'safety', 'technical', 'maintenance', 'lifestyle', 'planning', 'comparison'];
 const SLUG_TARGETS = [
@@ -31,13 +31,13 @@ const sitemap = fs.readFileSync(DIST + '/sitemap-0.xml', 'utf8');
 const locCount = (sitemap.match(/<loc>/g) || []).length;
 if (locCount !== 11164) bad('sitemap-0.xml loc count = ' + locCount + ' (expected 11164)');
 else ok();
-const routeManifest = JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/route-manifest.json', 'utf8'));
+const routeManifest = JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/route-manifest.json', 'utf8'));
 const manifestRoutes = Array.isArray(routeManifest) ? routeManifest.length : Object.keys(routeManifest).length;
 if (manifestRoutes !== 13858) bad('route-manifest = ' + manifestRoutes + ' (expected 13858)');
 else ok();
 
 // localized page meta (title/description) — source of truth for <title>
-const seoMetaRaw = fs.readFileSync('E:/github/afarer/src/i18n/generated/seo-meta.ts', 'utf8');
+const seoMetaRaw = fs.readFileSync('E:/github/olagoon/src/i18n/generated/seo-meta.ts', 'utf8');
 const seoMeta = JSON.parse(seoMetaRaw.slice(seoMetaRaw.indexOf('=') + 1, seoMetaRaw.lastIndexOf('}') + 1));
 
 // ===== 2. Per-locale index + slug pages =====
@@ -79,8 +79,8 @@ for (const loc of LOCALES) {
   // <title> comes from localized seo-meta ({loc}/guides); fallback = pageLabel — SITE.name
   const pageMeta = seoMeta[loc + '/guides'];
   const expectedTitle = pageMeta?.title
-    ? String(pageMeta.title).replace('{SITE}', 'Afarer')
-    : T['guides.pageLabel'] + ' — Afarer';
+    ? String(pageMeta.title).replace('{SITE}', 'OLagoon')
+    : T['guides.pageLabel'] + ' — OLagoon';
   const titleMatch = idx.match(/<title>([^<]*)<\/title>/);
   if (!titleMatch) bad(loc + ' index no <title>');
   else if (titleMatch[1] !== expectedTitle)

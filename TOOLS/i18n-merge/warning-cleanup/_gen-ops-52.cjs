@@ -25,17 +25,17 @@
 //
 // Chain check: every prior op (shards 01..51) touching these files must classify 'already' on
 // BOTH raw and terminal (shard 14: el/ro/th address+description, de dcc; shard 34: dcc x5,
-// afar→afarer brand fixes — all outside this shard's changed regions).
+// afar→olagoon brand fixes — all outside this shard's changed regions).
 //
 // Run ONCE against pre-patch state: node _gen-ops-52.cjs   (delete output first, or --force)
 // Output: _ops-data-52.cjs (45 ops = 20 block + 13 submit + 3 hero + 7 phone + 2 ja address).
 const fs = require('fs');
 
-const REPO = 'E:/github/afarer';
+const REPO = 'E:/github/olagoon';
 const yaml = require(REPO + '/node_modules/js-yaml');
 const prettier = require(REPO + '/node_modules/prettier');
 
-const DIR = 'E:/github/afarer/TOOLS/i18n-merge/warning-cleanup';
+const DIR = 'E:/github/olagoon/TOOLS/i18n-merge/warning-cleanup';
 const OPS_PATH = DIR + '/_ops-data-52.cjs';
 if (fs.existsSync(OPS_PATH) && !process.argv.includes('--force')) {
   throw new Error('_ops-data-52.cjs already exists — delete it first (generator runs on pre-patch state only)');

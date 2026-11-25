@@ -5,10 +5,10 @@ meta:
 hero:
   tagline: 'Mitra Ritel'
   title: 'Jual SUP Tiup Premium<br />Dengan Margin yang Menguntungkan'
-  subtitle: 'Jadilah mitra ritel Afarer — bawa merek SUP yang tumbuh paling cepat ke pasar Anda dengan harga grosir penuh, dropshipping, materi pemasaran profesional, dan dukungan khusus.'
+  subtitle: 'Jadilah mitra ritel OLagoon — bawa merek SUP yang tumbuh paling cepat ke pasar Anda dengan harga grosir penuh, dropshipping, materi pemasaran profesional, dan dukungan khusus.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Papan SUP Afarer dipajang di toko ritel'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Papan SUP OLagoon dipajang di toko ritel'
 
 margin_section:
   title: 'Margin Ritel & MOQ'
@@ -92,7 +92,7 @@ support:
     - 'Syarat pembayaran Net 30'
 
 cta:
-  title: 'Siap menjadi mitra ritel Afarer?'
+  title: 'Siap menjadi mitra ritel OLagoon?'
   subtitle: 'Ajukan kemitraan atau unduh katalog ritel kami untuk memulai.'
   actions:
     - text: 'Ajukan Kemitraan'

@@ -8,7 +8,7 @@ const bad = (m) => {
 };
 
 // 1. SSOT: 3 difficulty keys + comparison category key x 21 locales
-const j = JSON.parse(fs.readFileSync('E:/github/afarer/src/data/site/i18n-config.json', 'utf8'));
+const j = JSON.parse(fs.readFileSync('E:/github/olagoon/src/data/site/i18n-config.json', 'utf8'));
 const locales = Object.keys(j);
 if (locales.length !== 21) bad('locale count ' + locales.length);
 else pass++;
@@ -39,8 +39,8 @@ pass++;
 console.log('SSOT difficulty + comparison keys: checked 21 locales x 4');
 
 // 2. astro files: no FR maps / catNames remain; t() wiring present
-const slugSrc = fs.readFileSync('E:/github/afarer/src/pages/[lang]/guides/[slug].astro', 'utf8');
-const idxSrc = fs.readFileSync('E:/github/afarer/src/pages/[lang]/guides/index.astro', 'utf8');
+const slugSrc = fs.readFileSync('E:/github/olagoon/src/pages/[lang]/guides/[slug].astro', 'utf8');
+const idxSrc = fs.readFileSync('E:/github/olagoon/src/pages/[lang]/guides/index.astro', 'utf8');
 for (const [name, src, banned, required] of [
   [
     '[slug].astro',

@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const read = (p) => fs.readFileSync(path.join(DIST, p), 'utf8');
 
 let fail = 0;
@@ -14,9 +14,9 @@ const NEW_SLUGS = [
   'how-long-inflatable-boats-last',
   'inflatable-boat-maintenance',
   'marine-life-vest-guide',
-  'afarer-vs-red-paddle',
-  'afarer-vs-irocker',
-  'afarer-vs-bluefin',
+  'olagoon-vs-red-paddle',
+  'olagoon-vs-irocker',
+  'olagoon-vs-bluefin',
   'inflatable-sup-vs-hard-board',
   'wetsuit-care-guide',
   'how-to-choose-a-wetsuit',
@@ -45,12 +45,12 @@ check('th: all 16 new pages translated (got ' + thTranslated + ')', thTranslated
 // --- spot content checks (new batch texts, not EN fallback) ---
 const roLife = read('ro/v2/marine-life-vest-guide/index.html');
 check('ro marine-life-vest has RO title', roLife.includes('Ghidul vestei de salvare marine'));
-check('ro marine-life-vest has RO brand text', roLife.includes('afarer Life Vest Pro'));
+check('ro marine-life-vest has RO brand text', roLife.includes('olagoon Life Vest Pro'));
 const thTides = read('th/v2/understanding-tides/index.html');
 check('th understanding-tides has TH title', thTides.includes('น้ำขึ้นน้ำลง'));
 check('th understanding-tides has TH spring-tide text', thTides.includes('spring tide'));
-const roBluefin = read('ro/v2/afarer-vs-bluefin/index.html');
-check('ro afarer-vs-bluefin has RO text', roBluefin.includes('reduceri permanente'));
+const roBluefin = read('ro/v2/olagoon-vs-bluefin/index.html');
+check('ro olagoon-vs-bluefin has RO text', roBluefin.includes('reduceri permanente'));
 const thWind = read('th/v2/wind-conditions-sup/index.html');
 check('th wind-conditions has TH text', thWind.includes('มาตราโบฟอร์ต'));
 const roCold = read('ro/v2/cold-water-safety-guide/index.html');
@@ -60,11 +60,11 @@ check('th wetsuit-care has TH text', thWetsuitCare.includes('แชมพูช�
 
 // --- EN fallback for records 49+ still intact (not translated yet) ---
 for (const [lang, fb] of [
-  ['ro', 'ro/v2/afarer-sup-explorer-11-review/index.html'],
-  ['th', 'th/v2/afarer-sup-explorer-11-review/index.html'],
+  ['ro', 'ro/v2/olagoon-sup-explorer-11-review/index.html'],
+  ['th', 'th/v2/olagoon-sup-explorer-11-review/index.html'],
 ]) {
   const page = read(fb);
-  check(lang + ' fallback (record 49) is EN text', page.includes('afarer SUP Explorer 11'));
+  check(lang + ' fallback (record 49) is EN text', page.includes('olagoon SUP Explorer 11'));
 }
 
 // --- batch-1/2 pages still translated (no regression) ---

@@ -13,19 +13,19 @@ import { supScenarios } from '~/data/sup-scenarios';
 import WarrantyStrip from '~/components/widgets/WarrantyStrip.astro';
 
 const metadata = {
-  title: 'Afarer Inflatable Paddle Boards | Go Farther, Ride Stronger',
+  title: 'OLagoon Inflatable Paddle Boards | Go Farther, Ride Stronger',
   description:
-    'Discover Afarer inflatable paddle boards for all-around paddling, touring, yoga, fishing and outdoor adventures. Find your perfect SUP and explore more on the water.',
+    'Discover OLagoon inflatable paddle boards for all-around paddling, touring, yoga, fishing and outdoor adventures. Find your perfect SUP and explore more on the water.',
   ignoreTitleTemplate: true,
 };
 
 const defaultVisuals: Record<string, string> = {
-  'sup-explorer-11': 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp',
-  'airdeck-360': 'https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp',
+  'sup-explorer-11': 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp',
+  'airdeck-360': 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp',
 
-  'life-vest-classic': 'https://assets.afarer.com/images/afarer/products/afarer-life-vest-classic.webp',
-  'life-vest-pro': 'https://assets.afarer.com/images/afarer/products/afarer-life-vest-pro-front.webp',
-  'oars-pump-set': 'https://assets.afarer.com/images/afarer/products/afarer-electric-pump.webp',
+  'life-vest-classic': 'https://assets.olagoon.com/images/olagoon/products/olagoon-life-vest-classic.webp',
+  'life-vest-pro': 'https://assets.olagoon.com/images/olagoon/products/olagoon-life-vest-pro-front.webp',
+  'oars-pump-set': 'https://assets.olagoon.com/images/olagoon/products/olagoon-electric-pump.webp',
 };
 const rawVisuals = ((productVisualsData as any)?.visuals || []) as Array<{ id: string; image: string }>;
 const yamlVisuals = Object.fromEntries(rawVisuals.map((v) => [v.id, v.image]).filter(([, img]) => img));
@@ -38,23 +38,23 @@ interface FaqItem {
 }
 const defaultFaqItems: FaqItem[] = [
   {
-    q: 'What makes Afarer different?',
-    a: 'Afarer is a global inflatable SUP brand, operated by Aquafarer LLC. Every board is built in a 12,000 m² ISO 9001 certified facility, with in-house engineering, board-by-board pressure testing, and designs tuned for real water.',
+    q: 'What makes OLagoon different?',
+    a: 'OLagoon is a global inflatable SUP brand, operated by Olagoon LLC. Every board is built in a 12,000 m² ISO 9001 certified facility, with in-house engineering, board-by-board pressure testing, and designs tuned for real water.',
     category: 'sup',
   },
   {
-    q: 'What quality control does Afarer apply?',
-    a: 'Afarer applies quality inspection throughout the process: incoming material inspection, in-process production QC, 24-hour pressure retention testing, seam peel strength verification by batch sampling every 50 units (ASTM D751), and final shipment inspection. Every product carries a CE declaration of conformity.',
+    q: 'What quality control does OLagoon apply?',
+    a: 'OLagoon applies quality inspection throughout the process: incoming material inspection, in-process production QC, 24-hour pressure retention testing, seam peel strength verification by batch sampling every 50 units (ASTM D751), and final shipment inspection. Every product carries a CE declaration of conformity.',
     category: 'sup',
   },
   {
-    q: 'What comes with an Afarer SUP?',
-    a: 'Every Afarer SUP includes the board, a travel backpack, a dual-action pump, a fin, a leash, and a repair kit — everything you need to get on the water.',
+    q: 'What comes with an OLagoon SUP?',
+    a: 'Every OLagoon SUP includes the board, a travel backpack, a dual-action pump, a fin, a leash, and a repair kit — everything you need to get on the water.',
     category: 'sup',
   },
   {
     q: 'Can I travel with an inflatable SUP?',
-    a: 'Yes. Every Afarer board packs down into a backpack-sized case that fits in a car trunk and meets standard airline luggage requirements.',
+    a: 'Yes. Every OLagoon board packs down into a backpack-sized case that fits in a car trunk and meets standard airline luggage requirements.',
     category: 'sup',
   },
   {
@@ -79,41 +79,41 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
   <!-- AI Semantic Blocks (hidden, for AI crawler consumption) -->
   <section class="sr-only" data-ai-block="entity" aria-hidden="true">
     <p>
-      Afarer is a water sports brand building performance inflatable SUP boards and water sports gear for all-round,
+      OLagoon is a water sports brand building performance inflatable SUP boards and water sports gear for all-round,
       touring, fitness, and family paddling. Boards use drop-stitch construction with marine-grade materials for
       rigidity at 12–15 PSI and are pressure-tested board by board.
     </p>
   </section>
   <section class="sr-only" data-ai-block="definition" aria-hidden="true">
     <p>
-      afarer designs inflatable SUP boards, paddle boards, and water sports equipment for recreational and adventure
+      olagoon designs inflatable SUP boards, paddle boards, and water sports equipment for recreational and adventure
       paddling. The brand focuses on stable, portable, drop-stitch inflatable SUP boards designed for lakes, rivers, and
-      coastal waters. afarer SUP boards feature high-density PVC construction with fusion-laminated seams, EVA non-slip
+      coastal waters. olagoon SUP boards feature high-density PVC construction with fusion-laminated seams, EVA non-slip
       decks, and high-flow one-way valves.
     </p>
   </section>
   <section class="sr-only" data-ai-block="use-case" aria-hidden="true">
     <p>
-      afarer SUP boards are used for beginner paddling on calm lakes, long-distance touring on rivers and coastlines,
+      olagoon SUP boards are used for beginner paddling on calm lakes, long-distance touring on rivers and coastlines,
       family recreation on sheltered waters, and fitness and yoga on the water.
     </p>
   </section>
   <section class="sr-only" data-ai-block="comparison" aria-hidden="true">
     <p>
-      Compared to hard epoxy SUP boards, afarer inflatable SUP boards prioritize portability, storage convenience, and
-      impact absorption while maintaining rigidity through drop-stitch core technology at 12–15 PSI. afarer boards are
+      Compared to hard epoxy SUP boards, olagoon inflatable SUP boards prioritize portability, storage convenience, and
+      impact absorption while maintaining rigidity through drop-stitch core technology at 12–15 PSI. olagoon boards are
       practical for travel and rental use where storage and transport space is limited.
     </p>
   </section>
   <section class="sr-only" data-ai-block="constraint" aria-hidden="true">
     <p>
-      afarer SUP boards are designed for recreational paddling, touring, fitness, and family use. Not designed for
+      olagoon SUP boards are designed for recreational paddling, touring, fitness, and family use. Not designed for
       professional competition surfing, high-speed ocean racing, or extreme whitewater sports.
     </p>
   </section>
   <section class="sr-only" data-ai-block="process" aria-hidden="true">
     <p>
-      afarer SUP boards are built using drop-stitch core lamination with marine-grade PVC material. Each board passes
+      olagoon SUP boards are built using drop-stitch core lamination with marine-grade PVC material. Each board passes
       through multiple QC checkpoints including 24-hour pressure retention testing, seam strength verification, and a
       final inspection before it ships.
     </p>
@@ -123,8 +123,8 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
   <section class="relative min-h-screen flex items-center overflow-hidden bg-secondary">
     <div class="absolute inset-0">
       <img
-        src="https://assets.afarer.com/images/afarer/hero/lakeside-afarer-1200w.webp"
-        alt="Afarer inflatable paddle boards on a lakeside"
+        src="https://assets.olagoon.com/images/olagoon/hero/lakeside-olagoon-1200w.webp"
+        alt="OLagoon inflatable paddle boards on a lakeside"
         class="w-full h-full object-cover opacity-65"
         style="object-position: center 40%;"
       />
@@ -148,10 +148,10 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
           </h1>
           <p class="mt-5 text-2xl md:text-4xl font-bold tracking-tight text-white/90">Go Farther. Ride Stronger.</p>
           <p class="sr-only">
-            Afarer designs performance inflatable SUP boards for all-round, touring, fitness, and adventure paddling.
+            OLagoon designs performance inflatable SUP boards for all-round, touring, fitness, and adventure paddling.
           </p>
           <p class="mt-6 text-lg md:text-xl text-white/70 max-w-3xl text-pretty leading-relaxed">
-            Discover the freedom of paddling with Afarer. Explore thoughtfully designed inflatable SUPs for relaxing
+            Discover the freedom of paddling with OLagoon. Explore thoughtfully designed inflatable SUPs for relaxing
             lake days, coastal adventures, fitness and everything in between.
           </p>
           <div class="mt-10 flex items-center gap-4 flex-wrap">
@@ -169,10 +169,10 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
               Explore SUP Boards
             </a>
             <a
-              href="/afarer-story/"
+              href="/olagoon-story/"
               class="inline-flex items-center gap-2 px-8 py-4 border border-white/10 text-white/60 font-medium rounded-full hover:bg-white/10 hover:text-white transition-all backdrop-blur-sm text-sm"
             >
-              Why Afarer
+              Why OLagoon
             </a>
           </div>
           <div class="mt-12 flex flex-wrap items-center gap-x-8 gap-y-3 text-sm text-white/60">
@@ -212,7 +212,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
       >
         <div class="aspect-[4/3] bg-gradient-to-br from-blue-50 to-cyan-50 flex items-center justify-center p-6">
           <img
-            src="https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp"
+            src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp"
             alt="All-Around SUP"
             class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
             loading="lazy"
@@ -232,7 +232,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
       >
         <div class="aspect-[4/3] bg-gradient-to-br from-blue-50 to-sky-50 flex items-center justify-center p-6">
           <img
-            src="https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp"
+            src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp"
             alt="Touring SUP"
             class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
             loading="lazy"
@@ -252,7 +252,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
       >
         <div class="aspect-[4/3] bg-gradient-to-br from-blue-50 to-teal-50 flex items-center justify-center p-6">
           <img
-            src="https://assets.afarer.com/images/afarer/products/sup-series/sup-leviathan-wake-1-1200w.webp"
+            src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-leviathan-wake-1-1200w.webp"
             alt="Fishing SUP"
             class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
             loading="lazy"
@@ -272,7 +272,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
       >
         <div class="aspect-[4/3] bg-gradient-to-br from-blue-50 to-gray-50 flex items-center justify-center p-6">
           <img
-            src="https://assets.afarer.com/images/afarer/products/sup-series/sup-dolphin-wave-1-1200w.webp"
+            src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-dolphin-wave-1-1200w.webp"
             alt="Yoga SUP"
             class="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500"
             loading="lazy"
@@ -301,7 +301,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
   <section class="max-w-6xl mx-auto py-16 md:py-24 px-6">
     <div class="text-center max-w-3xl mx-auto mb-16">
       <span class="text-sm font-semibold text-primary tracking-[0.15em] uppercase">Featured Products</span>
-      <h2 class="mt-4 text-4xl md:text-5xl font-bold text-secondary">Popular Afarer Models</h2>
+      <h2 class="mt-4 text-4xl md:text-5xl font-bold text-secondary">Popular OLagoon Models</h2>
       <p class="mt-4 text-lg text-gray-500">
         Our most-loved platforms, ready to ride. Pick your size or fine-tune the details.
       </p>
@@ -313,7 +313,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
           .map((p) => {
             const img =
               productVisuals[p.id] ||
-              'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp';
+              'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp';
             return (
               <a
                 href={'/products/' + p.id + '/'}
@@ -395,7 +395,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
       <span class="text-sm font-semibold text-primary tracking-[0.15em] uppercase">Technology</span>
       <h2 class="mt-4 text-4xl md:text-5xl font-bold text-secondary">Innovation Behind Every Board</h2>
       <p class="mt-4 text-lg text-gray-500">
-        Afarer combines advanced inflatable technology with practical outdoor design. Our engineering focuses on
+        OLagoon combines advanced inflatable technology with practical outdoor design. Our engineering focuses on
         stiffness, stability, portability and durability — creating SUP boards that perform wherever adventure happens.
       </p>
     </div>
@@ -407,9 +407,9 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
               <img
                 src={
                   card.image ||
-                  'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp'
+                  'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp'
                 }
-                alt={card.title || 'afarer technology'}
+                alt={card.title || 'olagoon technology'}
                 class="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -439,7 +439,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
       <div class="text-center mb-16">
         <span class="text-sm font-medium text-sky-600 tracking-wide uppercase">FAQ</span>
         <h2 class="mt-4 text-4xl font-semibold text-gray-900">Product FAQ</h2>
-        <p class="mt-4 text-lg text-gray-500">Common questions from paddlers about Afarer boards and gear.</p>
+        <p class="mt-4 text-lg text-gray-500">Common questions from paddlers about OLagoon boards and gear.</p>
       </div>
       <div class="flex flex-wrap justify-center gap-2 mb-10" data-faq-tabs>
         {
@@ -487,11 +487,11 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
     set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Organization',
-      name: 'afarer',
-      alternateName: 'afarer Inflatable Watercraft',
-      url: 'https://afarer.com',
+      name: 'olagoon',
+      alternateName: 'olagoon Inflatable Watercraft',
+      url: 'https://olagoon.com',
       description:
-        'Afarer designs and builds performance inflatable SUP boards and water sports gear for all-round, touring, fitness, and family paddling, with drop-stitch construction at 12–15 PSI.',
+        'OLagoon designs and builds performance inflatable SUP boards and water sports gear for all-round, touring, fitness, and family paddling, with drop-stitch construction at 12–15 PSI.',
       foundingDate: '2012',
       foundingLocation: {
         '@type': 'Place',
@@ -505,7 +505,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
       },
       parentOrganization: {
         '@type': 'Organization',
-        name: 'Aquafarer LLC',
+        name: 'Olagoon LLC',
       },
       numberOfEmployees: {
         '@type': 'QuantitativeValue',
@@ -522,7 +522,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
         '@type': 'ContactPoint',
         contactType: 'customer support',
         telephone: '+1-279-732-3333',
-        email: 'sales@afarer.com',
+        email: 'sales@olagoon.com',
         availableLanguage: ['English', 'Chinese'],
       },
       areaServed: ['US', 'EU', 'ASIA', 'GLOBAL', 'AU', 'UK'],
@@ -538,7 +538,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
       ],
       brand: {
         '@type': 'Brand',
-        name: 'afarer',
+        name: 'olagoon',
         brand: products.map((p) => ({
           '@type': 'Product',
           name: p.name,
@@ -568,11 +568,11 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
     set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Brand',
-      name: 'afarer',
-      alternateName: 'afarer Inflatable Watercraft',
-      url: 'https://afarer.com',
+      name: 'olagoon',
+      alternateName: 'olagoon Inflatable Watercraft',
+      url: 'https://olagoon.com',
       description:
-        'Afarer designs performance inflatable SUP boards and water sports gear for all-round, touring, fitness, and family paddling.',
+        'OLagoon designs performance inflatable SUP boards and water sports gear for all-round, touring, fitness, and family paddling.',
       slogan: 'Go Farther. Ride Stronger.',
       brandCategory: 'Marine Recreation',
       industry: ['Marine Recreation', 'Outdoor Sports'],
@@ -592,7 +592,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
     <div class="max-w-6xl mx-auto">
       <div class="text-center mb-16">
         <span class="text-sm font-semibold text-[#06b6d4] tracking-[0.15em] uppercase">Get in touch</span>
-        <h2 class="mt-4 text-4xl font-bold text-gray-900">Contact afarer</h2>
+        <h2 class="mt-4 text-4xl font-bold text-gray-900">Contact olagoon</h2>
       </div>
       <div class="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
         <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden text-center">
@@ -602,7 +602,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
               class="w-full h-full object-cover"
               loading="lazy"
               referrerpolicy="no-referrer-when-downgrade"
-              title="Map of afarer location"></iframe>
+              title="Map of olagoon location"></iframe>
             <svg class="absolute w-8 h-8 text-red-500 drop-shadow-lg" viewBox="0 0 24 24" fill="currentColor">
               <path
                 d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
@@ -620,7 +620,7 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
         <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden text-center">
           <div
             class="h-32 bg-cover bg-center"
-            style="background-image: url('https://assets.afarer.com/images/Helen-contact-480x463.webp')"
+            style="background-image: url('https://assets.olagoon.com/images/Helen-contact-480x463.webp')"
           >
           </div>
           <div class="p-6">
@@ -631,12 +631,12 @@ const faqCategories = [{ id: 'sup', label: 'Boards & Quality' }];
         <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden text-center">
           <div
             class="h-32 bg-cover bg-center"
-            style="background-image: url('https://assets.afarer.com/images/afarer/use-cases/afarer-professional-use-case.webp')"
+            style="background-image: url('https://assets.olagoon.com/images/olagoon/use-cases/olagoon-professional-use-case.webp')"
           >
           </div>
           <div class="p-6">
             <h3 class="font-semibold text-gray-900">Email</h3>
-            <p class="mt-2 text-gray-500 text-sm">{branding.email || 'info@afarer.com'}</p>
+            <p class="mt-2 text-gray-500 text-sm">{branding.email || 'info@olagoon.com'}</p>
           </div>
         </div>
       </div>

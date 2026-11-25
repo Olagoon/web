@@ -1,8 +1,8 @@
 meta:
-  title: 'Mediecenter — presse & afarer-ressourcer | {SITE}'
-  description: 'afarers mediecenter: pressemeddelelser, brandmateriale og ressourcer fra vores virksomhed, der producerer oppustelige SUP-brædder.'
+  title: 'Mediecenter — presse & olagoon-ressourcer | {SITE}'
+  description: 'olagoons mediecenter: pressemeddelelser, brandmateriale og ressourcer fra vores virksomhed, der producerer oppustelige SUP-brædder.'
   keywords:
-    - 'afarer presse'
+    - 'olagoon presse'
     - 'SUP-producent medie'
     - 'paddle board presskit'
     - 'nautiske virksomhedsnyheder'
@@ -21,7 +21,7 @@ sections:
       - Tilbehør og sikkerhedsudstyr
   - id: logo-brand-kit
     title: Logo og brandkit
-    desc: Officielle afarer logofiler, farvepalet, typografi og brandretningslinjer.
+    desc: Officielle olagoon logofiler, farvepalet, typografi og brandretningslinjer.
     items:
       - Primært logo (PNG/SVG/EPS)
       - Ikon
@@ -55,7 +55,7 @@ cta:
       desc: Se vores 12.000 m² produktionsfacilitet
     - label: Brandretningslinjer
       href: /brand/
-      desc: Lær om afarer brandet
+      desc: Lær om olagoon brandet
     - label: Bliv partner
       href: /contact/
       desc: OEM, ODM og distributionsforespørgsler

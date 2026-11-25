@@ -1,6 +1,6 @@
 meta:
   title: 'โซลูชันทางธุรกิจ — SUP สำหรับทุกธุรกิจ | {SITE}'
-  description: 'โซลูชันทางธุรกิจของ afarer: กองเรือ SUP สำหรับรีสอร์ท ชมรม บริการเช่า การจัดจำหน่าย และแบรนด์ส่วนตัว ผู้จัดจำหน่ายอุปกรณ์ทางทะเลมืออาชีพสำหรับ B2B'
+  description: 'โซลูชันทางธุรกิจของ olagoon: กองเรือ SUP สำหรับรีสอร์ท ชมรม บริการเช่า การจัดจำหน่าย และแบรนด์ส่วนตัว ผู้จัดจำหน่ายอุปกรณ์ทางทะเลมืออาชีพสำหรับ B2B'
   keywords:
     - 'โซลูชันทางธุรกิจ SUP'
     - 'ผู้จัดจำหน่ายพายบอร์ดแบบสูบลม'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: โซลูชันสำหรับธุรกิจ
   title: โซลูชันซัพ<br />สำหรับทุกธุรกิจ
-  subtitle: ตั้งแต่รีสอร์ตไปจนถึงค้าปลีก ตั้งแต่ผู้ให้บริการเช่าไปจนถึงตัวแทนจำหน่ายทั่วโลก — Afarer มอบโซลูชัน SUP ครบวงจรที่ปรับให้เหมาะกับรูปแบบธุรกิจของคุณ
+  subtitle: ตั้งแต่รีสอร์ตไปจนถึงค้าปลีก ตั้งแต่ผู้ให้บริการเช่าไปจนถึงตัวแทนจำหน่ายทั่วโลก — OLagoon มอบโซลูชัน SUP ครบวงจรที่ปรับให้เหมาะกับรูปแบบธุรกิจของคุณ
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: บอร์ด SUP ของ afarer สำหรับธุรกิจและการใช้งานระดับมืออาชีพ
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: บอร์ด SUP ของ olagoon สำหรับธุรกิจและการใช้งานระดับมืออาชีพ
 stats:
-  title: Afarer ภาพรวมโดยย่อ
+  title: OLagoon ภาพรวมโดยย่อ
   stats:
     - title: ปีแห่งประสบการณ์
       amount: ตั้งแต่ปี 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: สร้างแบรนด์ของคุณเอง
-      description: การผลิต SUP แบบ OEM/ODM ครบวงจร — การออกแบบ การทำต้นแบบ การผลิตจำนวนมาก และโลจิสติกส์ เปิดตัวแบรนด์ของคุณกับ Afarer
+      description: การผลิต SUP แบบ OEM/ODM ครบวงจร — การออกแบบ การทำต้นแบบ การผลิตจำนวนมาก และโลจิสติกส์ เปิดตัวแบรนด์ของคุณกับ OLagoon
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

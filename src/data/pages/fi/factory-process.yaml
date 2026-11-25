@@ -1,6 +1,6 @@
 meta:
   title: 'Valmistusprosessi — raaka-aineesta SUP-lautaan | {SITE}'
-  description: 'Raaka-aineesta merivalmiiseen SUP-lautaan: jokainen afarerin valmistusprosessin vaihe on hallinnassamme leikkauksesta ja hitsauksesta testaukseen.'
+  description: 'Raaka-aineesta merivalmiiseen SUP-lautaan: jokainen olagoonin valmistusprosessin vaihe on hallinnassamme leikkauksesta ja hitsauksesta testaukseen.'
   keywords:
     - 'SUP-valmistusprosessi'
     - 'täytettävien SUP-lautojen tehdas'
@@ -13,7 +13,7 @@ hero:
   back_label: Takaisin tehtaalle
   back_link: /factory/
 intro: >-
-  Toisin kuin brändit, jotka ulkoistavat tuotannon kolmannen osapuolen tehtaille, afarer omistaa ja operoi koko tuotantoketjunsa. Tämä vertikaalinen integraatio mahdollistaa tiukan laadunvalvonnan jokaisessa vaiheessa, nopean reagoinnin räätälöityihin vaatimuksiin ja tasaisen tuotelaadun erästä
+  Toisin kuin brändit, jotka ulkoistavat tuotannon kolmannen osapuolen tehtaille, olagoon omistaa ja operoi koko tuotantoketjunsa. Tämä vertikaalinen integraatio mahdollistaa tiukan laadunvalvonnan jokaisessa vaiheessa, nopean reagoinnin räätälöityihin vaatimuksiin ja tasaisen tuotelaadun erästä
   toiseen. Näin lauta rakennetaan laitoksessamme.
 steps:
   - step: '01'
@@ -55,6 +55,6 @@ steps:
     duration: 1 päivä
 cta:
   title: Katso laitteitamme ja koneitamme
-  desc: Tutustu teollisuusluokan laitteisiin jokaisen afarer-laudan takana.
+  desc: Tutustu teollisuusluokan laitteisiin jokaisen olagoon-laudan takana.
   label: Katso laitteet →
   link: /factory/equipment/

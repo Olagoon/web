@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Resort e Hotel
   title: Trasforma il tuo fronte mare in un centro di ricavi<br />con flotte SUP premium
-  subtitle: Afarer fornisce ai resort di tutto il mondo flotte SUP gonfiabili di qualità commerciale — dai pacchetti iniziali da 20 tavole ai programmi di punta con 100+ tavole. Personalizzazione del marchio, formazione del personale e pezzi di ricambio inclusi.
+  subtitle: OLagoon fornisce ai resort di tutto il mondo flotte SUP gonfiabili di qualità commerciale — dai pacchetti iniziali da 20 tavole ai programmi di punta con 100+ tavole. Personalizzazione del marchio, formazione del personale e pezzi di ricambio inclusi.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Ospiti del resort che si godono il SUP su una spiaggia incontaminata
 roi_section:
   title: Il modello di ricavi del Resort SUP
@@ -20,7 +20,7 @@ roi_section:
       detail: Recuperare l'intero investimento della flotta in una stagione
     - metric: 40%
       label: Aumento dei ricavi
-      detail: Aumento medio dopo il passaggio alle flotte Afarer
+      detail: Aumento medio dopo il passaggio alle flotte OLagoon
     - metric: '500+'
       label: Cicli di Noleggio Per Tavola
       detail: Resistenza di livello commerciale per l'uso quotidiano
@@ -67,7 +67,7 @@ packages:
       revenue: Potenziale di ricavo annuale di $200.000
       cta_text: Ottieni il pacchetto di punta
 case_study:
-  quote: Da quando siamo passati a Afarer, il nostro fatturato degli affitti SUP è aumentato del 40%. I costi di sostituzione delle tavole sono diminuiti del 60%. Abbiamo recuperato l'investimento dell'intera flotta in 4 mesi.
+  quote: Da quando siamo passati a OLagoon, il nostro fatturato degli affitti SUP è aumentato del 40%. I costi di sostituzione delle tavole sono diminuiti del 60%. Abbiamo recuperato l'investimento dell'intera flotta in 4 mesi.
   author: Responsabile delle Attività Acquatiche
   location: Resort a 5 stelle, Maldive
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Periodo di recupero
       value: 4 Mesi
 features:
-  title: Perché i resort scelgono Afarer
+  title: Perché i resort scelgono OLagoon
   subtitle: Durata di livello commerciale, logistica globale e un partner che comprende l'ospitalità.
   items:
     - title: 500 cicli di noleggio

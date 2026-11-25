@@ -11,11 +11,11 @@ hero:
   title: Lancez, gérez et développez votre club de paddle<br />avec des flottes SUP de qualité commerciale
   subtitle: Fournisseur d’équipements SUP pour clubs de paddle et écoles de SUP dans le monde entier — planches durables de qualité commerciale, tarifs de groupe pour les clubs, personnalisation de marque et pièces de rechange rapides, pour que vous puissiez vous concentrer sur le développement de votre communauté.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: Membres d'un club de paddle sur des planches SUP Afarer assorties
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: Membres d'un club de paddle sur des planches SUP OLagoon assorties
 benefits:
   title: Avantages de la flotte club
-  subtitle: Pourquoi les clubs de paddle de 50+ pays choisissent afarer comme partenaire d'équipement.
+  subtitle: Pourquoi les clubs de paddle de 50+ pays choisissent olagoon comme partenaire d'équipement.
   items:
     - metric: 40%+
       label: Économies sur la Flotte
@@ -86,7 +86,7 @@ training:
         - Programme de formation et support de certification
         - Équipement certifié CE
 features:
-  title: Pourquoi les clubs choisissent Afarer
+  title: Pourquoi les clubs choisissent OLagoon
   subtitle: Qualité constante, pièces rapides et tarifs de gros conçus pour les clubs en croissance.
   items:
     - title: 500+ Cycles de Location

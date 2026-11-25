@@ -1,6 +1,6 @@
 meta:
-  title: 'O Afarer — Marka pompowanych SUP i sportów wodnych | {SITE}'
-  description: 'Afarer to globalna marka pompowanych SUP i sportów wodnych, prowadzona przez Aquafarer LLC i budowana przez nasz zespół operacyjny w Qingdao. Poznaj naszą historię, inżynierię, certyfikowaną jakość i programy partnerstwa krajowego.'
+  title: 'O OLagoon — Marka pompowanych SUP i sportów wodnych | {SITE}'
+  description: 'OLagoon to globalna marka pompowanych SUP i sportów wodnych, prowadzona przez Olagoon LLC i budowana przez nasz zespół operacyjny w Qingdao. Poznaj naszą historię, inżynierię, certyfikowaną jakość i programy partnerstwa krajowego.'
   keywords:
     - 'marka pompowanych desek sup'
     - 'marka sportów wodnych'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: O firmie
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Warsztat afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: Warsztat olagoon
   title: |
     Inżynieria okrętowa <br />
-    w stylu <span class="text-accent dark:text-white">afarer</span>
+    w stylu <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'Zaczęliśmy w nadmorskim warsztacie z jedną deską i niezachwianym przekonaniem: produkty morskie powinny być zaprojektowane tak, jakby od nich zależało życie — bo tak jest. Dziś dostarczamy do 40+ krajów, ale każdy kadłub wciąż przechodzi przez te same ręce, które założyły firmę.'
 stats:
   title: W liczbach
@@ -56,7 +56,7 @@ features3_more:
       description: Projektowanie dla klientów komercyjnych, naukowych i wojskowych.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Dyskusja nad projektowaniem i inżynierią desek
 steps2_values:
   title: Nasze wartości
@@ -73,7 +73,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Kamienie milowe
-  subtitle: Krótka wersja historii afarer.
+  subtitle: Krótka wersja historii olagoon.
   isReversed: true
   items:
     - title: Założona w nadmorskim warsztacie
@@ -108,7 +108,7 @@ brand_hub_cards:
     desc: Wysyłka do ponad 50 krajów z naszego zakładu w Qingdao z autoryzowanymi partnerami serwisowymi w Europie, Azji-Pacyfiku i Amerykach.
     link: /brand-global-presence/
     link_label: Dowiedz się więcej →
-  - title: Dlaczego afarer
+  - title: Dlaczego olagoon
     desc: 'Marka zbudowana na zweryfikowanej jakości — podwójna certyfikacja (ISO 9001 + BSCI), zgodność z CE oraz ekskluzywne partnerstwa krajowe z limitowanymi kolekcjami co-branded dla firm z branży sportów wodnych.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Dowiedz się więcej →

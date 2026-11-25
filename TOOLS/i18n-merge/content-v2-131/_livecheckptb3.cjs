@@ -1,11 +1,11 @@
-// Live verification for pt content-v2 batch 3 (records 34-50) on afarer.com
+// Live verification for pt content-v2 batch 3 (records 34-50) on olagoon.com
 const fs = require('fs');
 const path = require('path');
 const { createRequire } = require('module');
-const req = createRequire('E:\\github\\afarer\\node_modules\\js-yaml\\package.json');
+const req = createRequire('E:\\github\\olagoon\\node_modules\\js-yaml\\package.json');
 const yaml = req('js-yaml');
 
-const SITE = 'E:\\github\\afarer\\src\\data\\site';
+const SITE = 'E:\\github\\olagoon\\src\\data\\site';
 const en = yaml.load(fs.readFileSync(path.join(SITE, 'content-v2.yaml'), 'utf8'));
 const pt = yaml.load(fs.readFileSync(path.join(SITE, 'content-v2.pt.yaml'), 'utf8'));
 const enBySlug = new Map(en.map((r) => [r.slug, r]));
@@ -27,7 +27,7 @@ async function main() {
   // 1) all 17 batch-3 pt pages live and translated
   let pass = 0;
   for (const r of pt.slice(33, 50)) {
-    const url = 'https://afarer.com/pt/v2/' + r.slug + '/';
+    const url = 'https://olagoon.com/pt/v2/' + r.slug + '/';
     let html;
     try {
       html = await fetchText(url);
@@ -56,16 +56,16 @@ async function main() {
   // 2) pt batch-1/2/3 regression spot checks
   for (const slug of ['how-to-choose-a-surfboard-for-beginners', 'sup-size-guide', 'sup-safety-guide']) {
     const r = pt.find((x) => x.slug === slug);
-    const html = await fetchText('https://afarer.com/pt/v2/' + slug + '/');
+    const html = await fetchText('https://olagoon.com/pt/v2/' + slug + '/');
     if (!html) bad('pt regression page not live: ' + slug);
     else if (!html.includes(r.title.slice(0, 25))) bad('pt regression: translated title missing for ' + slug);
     else ok('pt regression intact for ' + slug);
   }
 
-  // 3) pt fallback for untranslated record #51 (afarer-airdeck-360-review)
+  // 3) pt fallback for untranslated record #51 (olagoon-airdeck-360-review)
   {
     const fb = en[50];
-    const html = await fetchText('https://afarer.com/pt/v2/' + fb.slug + '/');
+    const html = await fetchText('https://olagoon.com/pt/v2/' + fb.slug + '/');
     if (!html) bad('pt fallback page not live');
     else if (!html.includes(fb.title.slice(0, 30))) bad('pt fallback missing EN title');
     else ok('pt renders EN fallback for records beyond batch 3');
@@ -73,7 +73,7 @@ async function main() {
 
   // 4) nl pure EN fallback spot check (batch-2 slug)
   {
-    const html = await fetchText('https://afarer.com/nl/v2/sup-size-guide/');
+    const html = await fetchText('https://olagoon.com/nl/v2/sup-size-guide/');
     if (!html) bad('nl fallback page not live');
     else if (!html.includes(enBySlug.get('sup-size-guide').title.slice(0, 30))) bad('nl fallback missing EN title');
     else ok('nl renders EN fallback as expected');
@@ -81,12 +81,12 @@ async function main() {
 
   // 5) es/it regression (batch-1 page + batch-3 sup-safety-guide)
   for (const lang of ['es', 'it']) {
-    const h1 = await fetchText('https://afarer.com/' + lang + '/v2/how-to-choose-a-surfboard-for-beginners/');
+    const h1 = await fetchText('https://olagoon.com/' + lang + '/v2/how-to-choose-a-surfboard-for-beginners/');
     if (!h1) bad(lang + ' regression page 1 not live');
     else if (h1.includes(enBySlug.get('how-to-choose-a-surfboard-for-beginners').title.slice(0, 30)))
       bad(lang + ' regression 1: EN title visible');
     else ok(lang + ' regression 1 intact');
-    const h2 = await fetchText('https://afarer.com/' + lang + '/v2/sup-safety-guide/');
+    const h2 = await fetchText('https://olagoon.com/' + lang + '/v2/sup-safety-guide/');
     if (!h2) bad(lang + ' regression page 2 not live');
     else if (h2.includes(enBySlug.get('sup-safety-guide').title.slice(0, 30)))
       bad(lang + ' regression 2: EN title visible');
@@ -95,7 +95,7 @@ async function main() {
 
   // 6) pt v2 index lists all 75 records
   {
-    const idx = await fetchText('https://afarer.com/pt/v2/');
+    const idx = await fetchText('https://olagoon.com/pt/v2/');
     if (!idx) bad('pt v2 index not live');
     else {
       const missing = en.filter((r) => !idx.includes('/pt/v2/' + r.slug)).map((r) => r.slug);

@@ -19,7 +19,7 @@
     - q: Dmuchana czy twarda deska SUP?
       a: Deski dmuchane oferują przenośność, wygodę przechowywania i amortyzację uderzeń. Deski twarde zapewniają maksymalną sztywność i prędkość. Dla większości użytkowników rekreacyjnych praktycznym wyborem jest jakościowa deska dmuchana z rdzeniem drop-stitch.
     - q: Do ilu PSI powinienem napompować deskę?
-      a: Deski afarer zalecają 12-15 PSI. Przy 15 PSI deska osiąga maksymalną sztywność porównywalną z deską twardą. Zawsze pozostań w zakresie ciśnień podanym na desce.
+      a: Deski olagoon zalecają 12-15 PSI. Przy 15 PSI deska osiąga maksymalną sztywność porównywalną z deską twardą. Zawsze pozostań w zakresie ciśnień podanym na desce.
   relatedProducts: []
   relatedGuides:
     - beginner-guide
@@ -208,7 +208,7 @@
     - q: Czy mogę zostawić deskę SUP napompowaną przez cały sezon?
       a: Tak, ale trzymaj ją z dala od bezpośredniego słońca, gdy nie jest używana. Przy dłuższym przechowywaniu zalecane jest częściowe spuszczenie powietrza (8-10 PSI).
     - q: Jak naprawić przebicie?
-      a: Oczyść obszar, wytnij łatkę z zaokrąglonymi rogami, nałóż klej, mocno dociśnij i odczekaj 24 godziny przed napompowaniem. Deski afarer mają w zestawie zestaw naprawczy.
+      a: Oczyść obszar, wytnij łatkę z zaokrąglonymi rogami, nałóż klej, mocno dociśnij i odczekaj 24 godziny przed napompowaniem. Deski olagoon mają w zestawie zestaw naprawczy.
     - q: Jak często sprawdzać zawór?
       a: Co miesiąc. Zawór to najczęstszy punkt awarii. Sprawdź, czy trzpień zaworu porusza się swobodnie, a O-ring jest nienaruszony.
   relatedProducts: []
@@ -703,7 +703,7 @@
   description: Jak podróżować z dmuchaną deską SUP samolotem, samochodem lub kamperem. Wskazówki dotyczące opłat lotniczych, pakowania, pompowania w miejscu docelowym oraz specyfiki podróży zagranicznych.
   tldr: Spuść powietrze, zwiń deskę i spakuj ją do plecaka. Większość linii lotniczych przyjmuje ją jako bagaż rejestrowany (poniżej 50 funtów / 50 cali liniowych). Zawsze pakuj pompkę i wiosło do tej samej torby. Przyjdź na lotnisko wcześniej, aby mieć zapas czasu, jeśli pracownik odprawy zakwestionuje rozmiar bagażu. Przy długich wyjazdach rozważ wysłanie deski z wyprzedzeniem.
   problem: 'Podróżowanie z deską SUP wydaje się skomplikowane — limity rozmiarów linii lotniczych, kwestie TSA i pytanie, jak napompować deskę w odległym miejscu, budzą niepewność.'
-  solution: Plecaki SUP marki afarer są zaprojektowane tak, aby spełniać limity bagażu rejestrowanego linii lotniczych. Pakuj strategicznie, zabierz zestaw naprawczy i sprawdź przed wyjazdem miejsca pompowania (mariny, kempingi z dostępem do prądu).
+  solution: Plecaki SUP marki olagoon są zaprojektowane tak, aby spełniać limity bagażu rejestrowanego linii lotniczych. Pakuj strategicznie, zabierz zestaw naprawczy i sprawdź przed wyjazdem miejsca pompowania (mariny, kempingi z dostępem do prądu).
   audience: Użytkownicy planujący podróże z deską SUP samolotem, samochodem lub kamperem.
   steps:
     - Spuść powietrze całkowicie i zwiń deskę od dziobu w stronę rufy
@@ -736,7 +736,7 @@
   description: 'Poradnik wyboru dmuchanych desek SUP dla cięższych użytkowników (200-400 funtów). Zalecenia dotyczące szerokości, długości, objętości i nośności desek dla wysokich i ciężkich pływających.'
   tldr: 'Ciężsi użytkownicy potrzebują szerszych desek (34-36"), dłuższych kadłubów (11''6"-12'') i wyższej nośności (300-400 funtów). Szukaj PVC klasy militarnej, wzmocnionego drop-stitch i konstrukcji dwuwarstwowej. Unikaj wąskich desek poniżej 32" niezależnie od długości.'
   problem: 'Standardowe deski SUP mają nośność 200-250 funtów, co wyklucza wielu użytkowników. Pływanie na za małej desce jest niewygodne, niestabilne i potencjalnie niebezpieczne.'
-  solution: 'Wybieraj deski z dopuszczeniem 300+ funtów i dodatkową szerokością dla stabilności. Serie Tropical Breeze i Leviathan Wake marki afarer oferują objętość i wzmocnienia, których potrzebują ciężsi użytkownicy.'
+  solution: 'Wybieraj deski z dopuszczeniem 300+ funtów i dodatkową szerokością dla stabilności. Serie Tropical Breeze i Leviathan Wake marki olagoon oferują objętość i wzmocnienia, których potrzebują ciężsi użytkownicy.'
   audience: Użytkownicy o wadze powyżej 200 funtów, którzy potrzebują deski bezpiecznie utrzymującej ich wagę.
   steps:
     - 'Oblicz całkowite obciążenie — waga ciała plus sprzęt plus 20% marginesu bezpieczeństwa'
@@ -835,7 +835,7 @@
   description: 'Jak wybrać deskę SUP do turystyki na długie dystanse — projekt kadłuba, długość, szerokość, utrzymywanie kursu i zalecenia sprzętowe na wielodniowe ekspedycje.'
   tldr: 'Deski turystyczne SUP wymagają dłuższych kadłubów (12-14''), dziobów wypornościowych dla wydajnego ślizgu i umiarkowanej szerokości (30-32") dla utrzymywania kursu. Szukaj mocowań bungee na pokładzie, licznych uchwytów D i drop-stitch na wysokie PSI. Wiosło turystyczne z mniejszym piórem zmniejsza zmęczenie w długie dni.'
   problem: 'Używanie krótkiej deski uniwersalnej do turystyki oznacza niską prędkość, słabe utrzymywanie kursu i szybkie zmęczenie. Wiosłowanie na długich dystansach wymaga wyspecjalizowanego kadłuba.'
-  solution: "Wybierz deskę o długości 12' lub większej z dziobem wypornościowym. Ocean Pulse i Ocean Voyager marki afarer oferują turystyczny kształt kadłuba i mocowania bungee potrzebne do pływania ekspedycyjnego."
+  solution: "Wybierz deskę o długości 12' lub większej z dziobem wypornościowym. Ocean Pulse i Ocean Voyager marki olagoon oferują turystyczny kształt kadłuba i mocowania bungee potrzebne do pływania ekspedycyjnego."
   audience: Użytkownicy planujący jednodniowe wycieczki, wielodniowe ekspedycje lub treningowe pływanie na dystansach.
   steps:
     - "Wybierz deskę o długości 12-14' dla wydajnego ślizgu i utrzymywania kursu"

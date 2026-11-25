@@ -1,6 +1,6 @@
 meta:
   title: 'Znalosti — průvodci SUP | {SITE}'
-  description: 'Znalostní báze afarera: průvodci nafukovacími SUP prkny, materiály paddleboardů, výběrem prken a oborovými poznatky pro značky a profesionály.'
+  description: 'Znalostní báze olagoona: průvodci nafukovacími SUP prkny, materiály paddleboardů, výběrem prken a oborovými poznatky pro značky a profesionály.'
   keywords:
     - 'znalosti o SUP'
     - 'průvodce nafukovacím SUP'
@@ -16,7 +16,7 @@ hero:
 clusters:
   tagline: Znalostní klastry
   title: Objevujte podle tématu
-  subtitle: Hluboké ponory do technologie, bezpečnosti a dovedností za každým produktem afarer.
+  subtitle: Hluboké ponory do technologie, bezpečnosti a dovedností za každým produktem olagoon.
   items:
     - title: Znalosti o SUP
       description: Od výběru prvního prkna po pokročilé techniky touringu — vše o paddleboardingu.
@@ -47,7 +47,7 @@ clusters:
         - Techniky oprav nafukovacích výrobků
         - Povědomí o počasí a vodních podmínkách
     - title: Technologie
-      description: Inženýrství za produkty afarer — materiály, konstrukční metody a testování kvality.
+      description: Inženýrství za produkty olagoon — materiály, konstrukční metody a testování kvality.
       icon: tabler:microscope
       topics:
         - Námořní PVC technologie

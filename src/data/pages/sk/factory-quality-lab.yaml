@@ -1,6 +1,6 @@
 meta:
   title: 'Laboratórium kvality — testovanie a zabezpečenie kvality | {SITE}'
-  description: 'Nezávislé laboratórium kvality s procesmi ISO 9001 v afarer: každá jednotka testovaná pred odoslaním na záruku kvality nafukovacích dosiek SUP.'
+  description: 'Nezávislé laboratórium kvality s procesmi ISO 9001 v olagoon: každá jednotka testovaná pred odoslaním na záruku kvality nafukovacích dosiek SUP.'
   keywords:
     - 'kontrola kvality sup'
     - 'testovacie laboratórium paddle boardov'
@@ -11,7 +11,7 @@ hero:
   title: 'Testovacie laboratórium a zabezpečenie kvality'
   subtitle: 'Nezávislé laboratórium kvality s procesmi ISO 9001 — každá jednotka testovaná pred odoslaním'
 
-intro: 'afarer prevádzkuje vyhradené laboratórium kontroly kvality, ktoré funguje nezávisle od výroby. Každá šarža surovín a každá hotová doska prechádza zdokumentovanými kontrolnými protokolmi pred uvoľnením. Náš tím QC reportuje priamo vedeniu, čo zaručuje nestranné rozhodnutia o kvalite.'
+intro: 'olagoon prevádzkuje vyhradené laboratórium kontroly kvality, ktoré funguje nezávisle od výroby. Každá šarža surovín a každá hotová doska prechádza zdokumentovanými kontrolnými protokolmi pred uvoľnením. Náš tím QC reportuje priamo vedeniu, čo zaručuje nestranné rozhodnutia o kvalite.'
 
 highlights:
   - value: '100%'

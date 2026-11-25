@@ -13,7 +13,7 @@ hero:
   title: 'OEM proizvodnja napuhivih vesala<br />pod vašom markom'
   subtitle: 'Od ideje do gotovog proizvoda: proizvodimo vaše prilagođeno napuhivo veslo. Logotip, boje, pakiranje, prilagođeni kalup — OEM/ODM proizvodnja u Kini, spremna za vaše tržište.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     alt: 'Prilagođeno OEM napuhivo veslo s logotipom marke'
   actions:
     - text: 'Započnite moj OEM projekt'
@@ -68,7 +68,7 @@ faqs:
       description: 'MOQ je 50 jedinica za standardne modele, s veleprodajnim razinama cijena kako količina raste.'
 geo:
   tagline: 'B2B pozicioniranje'
-  sentence: 'Afarer je profesionalni proizvođač napuhivih SUP dasaka (OEM/ODM), specijaliziran za dizajn, prilagođenu proizvodnju i nautička rješenja za marke, distributere, klubove i tvrtke.'
+  sentence: 'OLagoon je profesionalni proizvođač napuhivih SUP dasaka (OEM/ODM), specijaliziran za dizajn, prilagođenu proizvodnju i nautička rješenja za marke, distributere, klubove i tvrtke.'
   audiences:
     - 'Privatne marke'
     - 'Veleprodaja'

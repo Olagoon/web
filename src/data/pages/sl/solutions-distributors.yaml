@@ -1,14 +1,14 @@
 meta:
   title: 'Program partnerstva za velikoprodajo in distribucijo SUP | {SITE}'
-  description: 'Pridružite se globalnemu omrežju velikoprodajne distribucije SUP znamke Afarer. Ekskluzivna območja, popoln portfelj izdelkov napihljivih SUP desk, konkurenčne velikoprodajne cene in posvečeno upravljanje računov v 50+ državah.'
+  description: 'Pridružite se globalnemu omrežju velikoprodajne distribucije SUP znamke OLagoon. Ekskluzivna območja, popoln portfelj izdelkov napihljivih SUP desk, konkurenčne velikoprodajne cene in posvečeno upravljanje računov v 50+ državah.'
 
 hero:
   tagline: 'Distributerji'
   title: 'Pridružite se našemu globalnemu<br />distribucijskemu omrežju'
-  subtitle: 'Program partnerstva za velikoprodajno distribucijo SUP z ekskluzivnimi območji, popolnim portfeljem izdelkov napihljivih SUP desk in podporo svetovnega razreda. Afarer odpošilja v 50+ držav — iščemo uveljavljene distributerje pomorske opreme in vodnih športov.'
+  subtitle: 'Program partnerstva za velikoprodajno distribucijo SUP z ekskluzivnimi območji, popolnim portfeljem izdelkov napihljivih SUP desk in podporo svetovnega razreda. OLagoon odpošilja v 50+ držav — iščemo uveljavljene distributerje pomorske opreme in vodnih športov.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'Globalna distribucija in odpošiljanje Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'Globalna distribucija in odpošiljanje OLagoon'
 
 benefits:
   title: 'Kaj dobijo distributerji'
@@ -27,7 +27,7 @@ benefits:
 
 coverage:
   title: 'Trenutna distribucija'
-  subtitle: 'Afarer trenutno neposredno oskrbuje te trge.'
+  subtitle: 'OLagoon trenutno neposredno oskrbuje te trge.'
   regions:
     - name: 'Evropa'
       countries: 'Francija, Nemčija, Združeno kraljestvo, Španija, Italija, Nizozemska, Švedska, Norveška, Poljska, Grčija'

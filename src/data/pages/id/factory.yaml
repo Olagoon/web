@@ -1,6 +1,6 @@
 meta:
   title: 'Pabrik & Manufaktur — SUP Tiup OEM | {SITE}'
-  description: 'Jelajahi pabrik afarer: fasilitas 12,000 m² dengan pemotongan, pengelasan RF, pencetakan, perakitan, dan lab kualitas untuk manufaktur SUP tiup OEM/ODM.'
+  description: 'Jelajahi pabrik olagoon: fasilitas 12,000 m² dengan pemotongan, pengelasan RF, pencetakan, perakitan, dan lab kualitas untuk manufaktur SUP tiup OEM/ODM.'
   keywords:
     - 'pabrik sup tiongkok'
     - 'pabrik papan dayung tiup'
@@ -12,7 +12,7 @@ hero:
   subtitle: '12,000 m² manufaktur terintegrasi — dari material baku hingga papan jadi'
 
 intro:
-  - 'Sebagai lengan produksi **Aquafarer LLC**, Tim Operasional Qingdao afarer mengendalikan setiap tahap produksi — dari kedatangan material PVC dan fiberglass hingga inspeksi prapengiriman papan jadi. Fasilitas manufaktur kami di Zona Pengembangan Ekonomi Qingdao membentang seluas 12,000 meter persegi dan menampung workshop khusus untuk pemotongan PVC, penyegelan panas tabung, fabrikasi cetakan FRP, pencetakan digital SUP, perakitan akhir, dan pengujian kualitas.'
+  - 'Sebagai lengan produksi **Olagoon LLC**, Tim Operasional Qingdao olagoon mengendalikan setiap tahap produksi — dari kedatangan material PVC dan fiberglass hingga inspeksi prapengiriman papan jadi. Fasilitas manufaktur kami di Zona Pengembangan Ekonomi Qingdao membentang seluas 12,000 meter persegi dan menampung workshop khusus untuk pemotongan PVC, penyegelan panas tabung, fabrikasi cetakan FRP, pencetakan digital SUP, perakitan akhir, dan pengujian kualitas.'
   - 'Dengan mengintegrasikan desain, teknik, prototyping, manufaktur, dan pengujian di bawah satu atap, kami menghilangkan inefisiensi manufaktur kontraktual dan mempertahankan kontrol langsung atas kualitas pembuatan, pemilihan material, dan jadwal pengiriman. Setiap papan yang meninggalkan workshop kami dibangun oleh orang-orang kami, dengan peralatan kami, sesuai standar kami.'
 
 stats:
@@ -69,22 +69,22 @@ workshops_section:
   workshops:
     - title: 'Pemotongan PVC & Persiapan Material'
       description: 'Mesin pemotong CNC otomatis memproses PVC dan kain drop-stitch dengan presisi sub-milimeter. Penataan panel yang dioptimalkan komputer meminimalkan limbah material dan memastikan setiap panel memenuhi spesifikasi dimensi sebelum pengelasan.'
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: 'Pengelasan Tabung & Penyegelan Panas'
       description: 'Workshop pengelasan khusus dengan mesin penyegelan panas dan press dielektrik RF. Alat penyegel udara panas merekatkan dan meleburkan ruang tabung PVC, sementara las RF menghasilkan sambungan kedap udara berkekuatan tinggi yang melampaui persyaratan EN ISO 25649.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: 'Cetakan FRP & Fabrikasi Komposit'
       description: 'Cetakan FRP kustom untuk komponen SUP, diproduksi menggunakan pencetakan fiberglass hand-lay-up dengan sistem resin polyester dan vinylester. Setiap lapisan digulung dengan tangan dan vacuum-bagged demi kualitas yang konsisten. Bilik semprot gelcoat menghasilkan finishing marin berkilau tinggi yang tahan UV.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Pencetakan & Dekorasi SUP'
       description: 'Papan SUP didekorasi menggunakan cetak digital untuk grafis penuh warna dan sablon untuk logo serta pola berulang. Printer digital menghasilkan desain dek berkualitas foto, sementara sablon menghasilkan tanda merek yang tahan lama dan cerah.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Perakitan Akhir & Rigging'
       description: 'Lini perakitan tempat inti drop-stitch diselesaikan dengan rail, dek EVA dipasang, serta sirip, valve, dan aksesori dipasang. Setiap papan mengikuti daftar periksa perakitan 100 titik yang disetujui oleh kepala tim.'
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: 'Pengujian & Inspeksi Kualitas'
       description: 'Setiap papan yang telah selesai menjalani pengujian retensi udara wajib, verifikasi peeling sambungan, dan pemeriksaan sistem menyeluruh sebelum pengiriman. Lab kualitas kami beroperasi independen dari produksi dan melapor langsung kepada manajemen.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
   tagline: 'Peralatan'
@@ -141,7 +141,7 @@ faq_section:
   questions:
     - q: 'Berapa kuantitas pesanan minimum (MOQ) untuk papan SUP tiup OEM?'
       a: 'MOQ dimulai dari 5–10 unit untuk model OEM standar. Cetakan kustom dan proyek label pribadi memerlukan minimal 200 unit tergantung pada kompleksitasnya. Pesanan uji coba dan produksi sampel tersedia untuk peluncuran merek baru.'
-    - q: 'Apakah afarer memiliki sertifikasi BSCI?'
+    - q: 'Apakah olagoon memiliki sertifikasi BSCI?'
       a: 'Ya. Pabrik kami mempertahankan sertifikasi kepatuhan sosial BSCI yang valid (laporan audit tersedia atas permintaan). Kami juga memegang ISO 9001 untuk manajemen kualitas dan semua produk membawa sertifikasi CE. Dokumentasi kepatuhan REACH dan RoHS disertakan dengan setiap pengiriman OEM.'
     - q: 'Berapa waktu pengerjaan tipikal untuk pesanan OEM?'
       a: 'Waktu pengerjaan standar adalah 30–45 hari dari PO yang dikonfirmasi dan deposit untuk produksi OEM massal. Pengembangan cetakan kustom menambah 15–20 hari untuk tooling. Produksi yang dipercepat tersedia untuk pesanan mendesak dan lonjakan musiman. Sampel prototipe umumnya dikirim dalam 15–20 hari.'

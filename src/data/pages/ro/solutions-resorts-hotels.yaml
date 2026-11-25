@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Stațiuni și hoteluri
   title: Transformați zona de pe malul apei într-un centru de venituri<br />cu flote SUP premium
-  subtitle: Afarer echipează resorturile din întreaga lume cu flote SUP gonflabile de calitate comercială — de la pachete de start cu 20 de table la programe flagship cu 100+ de table. Personalizare a mărcii, instruirea personalului și piesele de schimb incluse.
+  subtitle: OLagoon echipează resorturile din întreaga lume cu flote SUP gonflabile de calitate comercială — de la pachete de start cu 20 de table la programe flagship cu 100+ de table. Personalizare a mărcii, instruirea personalului și piesele de schimb incluse.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Oaspeți ai unui resort care se bucură de plăci SUP pe o plajă curată
 roi_section:
   title: Modelul de venituri pentru SUP în stațiuni
@@ -20,7 +20,7 @@ roi_section:
       detail: Recuperați integral investiția în flotă într-un singur sezon
     - metric: 40%
       label: Creșterea veniturilor
-      detail: Creștere medie după trecerea la flotele Afarer
+      detail: Creștere medie după trecerea la flotele OLagoon
     - metric: 500+
       label: Cicluri de închiriere per placă
       detail: Durabilitate de calitate comercială pentru utilizare zilnică
@@ -67,7 +67,7 @@ packages:
       revenue: Potențial de venituri anuale de $200K+
       cta_text: Obține Pachetul Flagship
 case_study:
-  quote: De când am trecut la Afarer, veniturile din închirierea plăcilor SUP au crescut cu 40%. Costurile de înlocuire a plăcilor au scăzut cu 60%. Ne-am recuperat integral investiția în flotă în 4 luni.
+  quote: De când am trecut la OLagoon, veniturile din închirierea plăcilor SUP au crescut cu 40%. Costurile de înlocuire a plăcilor au scăzut cu 60%. Ne-am recuperat integral investiția în flotă în 4 luni.
   author: Manager de activități acvatice
   location: Rezort de 5 stele, Maldive
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Perioada de recuperare a investiției
       value: 4 luni
 features:
-  title: De ce aleg resorturile afarer
+  title: De ce aleg resorturile olagoon
   subtitle: Durabilitate de nivel comercial, logistică globală și un partener care înțelege industria hotelieră.
   items:
     - title: Peste 500 de cicluri de închiriere

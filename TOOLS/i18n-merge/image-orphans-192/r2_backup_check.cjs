@@ -3,16 +3,16 @@ const fs = require('fs');
 const https = require('https');
 const path = require('path');
 
-const IMG_ROOT = 'E:/github/afarer/public/images';
+const IMG_ROOT = 'E:/github/olagoon/public/images';
 const list = fs
   .readFileSync('round2_orphans.txt', 'utf8')
   .split(/\r?\n/)
   .filter((l) => l.trim());
-list.push('E:\\github\\afarer\\public\\images\\afarer\\news\\afarer-supply-chain.webp');
+list.push('E:\\github\\olagoon\\public\\images\\olagoon\\news\\olagoon-supply-chain.webp');
 
 const targets = [...new Set(list)].map((p) => {
   const rel = path.relative(IMG_ROOT, p).replace(/\\/g, '/');
-  return { p, rel, url: 'https://assets.afarer.com/images/' + rel };
+  return { p, rel, url: 'https://assets.olagoon.com/images/' + rel };
 });
 
 function check(url) {

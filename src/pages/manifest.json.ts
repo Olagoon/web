@@ -6,8 +6,8 @@ export const prerender = true;
 export const GET: APIRoute = async () => {
   const siteUrl = String(SITE.site).replace(/\/+$/, '');
   const manifest = {
-    name: 'afarer',
-    short_name: 'afarer',
+    name: 'olagoon',
+    short_name: 'olagoon',
     description:
       'Professional inflatable SUPs and water sports equipment. Manufacturer-direct pricing with global shipping.',
     start_url: '/',

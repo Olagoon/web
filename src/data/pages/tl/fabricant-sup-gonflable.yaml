@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Tagagawa ng Inflatable SUP · Pabrika sa Tsina'
   title: 'Ang Iyong Tagagawa ng Inflatable SUP<br />at Paddle Board'
-  subtitle: 'Ang Afarer ang pabrikang OEM/ODM sa likod ng maraming brand ng inflatable SUP. Kami ang nagdidisenyo, gumagawa, at nagpapadala ng mga custom na inflatable paddle board — private label, custom mold, bulk wholesale. Kasama ang CE certification.'
+  subtitle: 'Ang OLagoon ang pabrikang OEM/ODM sa likod ng maraming brand ng inflatable SUP. Kami ang nagdidisenyo, gumagawa, at nagpapadala ng mga custom na inflatable paddle board — private label, custom mold, bulk wholesale. Kasama ang CE certification.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Custom na inflatable SUP board na ginawa ng Afarer'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Custom na inflatable SUP board na ginawa ng OLagoon'
   actions:
     - text: 'Maging Partner'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Ibahagi ang iyong espesipikasyon sa aming contact form, makatanggap ng quote sa loob ng 24 oras, aprubahan ang sample, pagkatapos ay simulan ang bulk production.'
 geo:
   tagline: 'Posisyon sa B2B'
-  sentence: 'Ang Afarer ay isang propesyonal na tagagawa ng mga inflatable SUP (OEM/ODM), espesyal sa disenyo, custom na produksyon, at mga solusyong pandagat para sa mga brand, distributor, club, at negosyo.'
+  sentence: 'Ang OLagoon ay isang propesyonal na tagagawa ng mga inflatable SUP (OEM/ODM), espesyal sa disenyo, custom na produksyon, at mga solusyong pandagat para sa mga brand, distributor, club, at negosyo.'
   audiences:
     - 'Mga brand ng paddle'
     - 'Mga distributor'

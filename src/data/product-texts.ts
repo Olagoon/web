@@ -340,7 +340,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Comment atteindre la pression maximale ?',
-          a: 'La pompe à main double cylindre incluse déplace un grand volume rapidement et atteint des pressions élevées avec moins d’effort, et la planche est compatible avec la pompe électrique afarer 12VDC optionnelle.',
+          a: 'La pompe à main double cylindre incluse déplace un grand volume rapidement et atteint des pressions élevées avec moins d’effort, et la planche est compatible avec la pompe électrique olagoon 12VDC optionnelle.',
         },
       ],
     },
@@ -652,7 +652,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Wie erreiche ich den vollen Druck?',
-          a: 'Die enthaltene Doppelzylinder-Handpumpe bewegt schnell großes Volumen und erreicht höhere Drücke mit weniger Aufwand; kompatibel mit der optionalen afarer 12VDC-Elektropumpe.',
+          a: 'Die enthaltene Doppelzylinder-Handpumpe bewegt schnell großes Volumen und erreicht höhere Drücke mit weniger Aufwand; kompatibel mit der optionalen olagoon 12VDC-Elektropumpe.',
         },
       ],
     },
@@ -964,7 +964,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Como atingir a pressão máxima?',
-          a: 'A bomba manual de cilindro duplo incluída move grande volume rapidamente e atinge altas pressões com menos esforço; compatível com a bomba elétrica afarer 12VDC opcional.',
+          a: 'A bomba manual de cilindro duplo incluída move grande volume rapidamente e atinge altas pressões com menos esforço; compatível com a bomba elétrica olagoon 12VDC opcional.',
         },
       ],
     },
@@ -1276,7 +1276,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: '¿Cómo alcanzo la presión máxima?',
-          a: 'La bomba manual de doble cilindro incluida mueve gran volumen rápido y alcanza altas presiones con menos esfuerzo; compatible con la bomba eléctrica afarer 12VDC opcional.',
+          a: 'La bomba manual de doble cilindro incluida mueve gran volumen rápido y alcanza altas presiones con menos esfuerzo; compatible con la bomba eléctrica olagoon 12VDC opcional.',
         },
       ],
     },
@@ -1588,7 +1588,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Come raggiungo la pressione massima?',
-          a: 'La pompa a mano a doppio cilindro inclusa sposta rapidamente un grande volume e raggiunge pressioni più elevate con meno sforzo, e la tavola è compatibile con l’elettropompa afarer 12VDC opzionale.',
+          a: 'La pompa a mano a doppio cilindro inclusa sposta rapidamente un grande volume e raggiunge pressioni più elevate con meno sforzo, e la tavola è compatibile con l’elettropompa olagoon 12VDC opzionale.',
         },
       ],
     },
@@ -1900,7 +1900,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Jak osiągnąć pełne ciśnienie?',
-          a: 'Dołączona ręczna pompka dwucylindrowa szybko tłoczy dużą objętość i osiąga wyższe ciśnienia mniejszym wysiłkiem, a deska jest kompatybilna z opcjonalną elektryczną pompką afarer 12VDC.',
+          a: 'Dołączona ręczna pompka dwucylindrowa szybko tłoczy dużą objętość i osiąga wyższe ciśnienia mniejszym wysiłkiem, a deska jest kompatybilna z opcjonalną elektryczną pompką olagoon 12VDC.',
         },
       ],
     },
@@ -2212,7 +2212,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Как достичь полного давления?',
-          a: 'Входящий в комплект ручной насос с двумя цилиндрами быстро перемещает большой объём и достигает более высокого давления с меньшим усилием, а доска совместима с опциональным электрическим насосом afarer 12VDC.',
+          a: 'Входящий в комплект ручной насос с двумя цилиндрами быстро перемещает большой объём и достигает более высокого давления с меньшим усилием, а доска совместима с опциональным электрическим насосом olagoon 12VDC.',
         },
       ],
     },
@@ -2508,7 +2508,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'كيف أصل إلى الضغط الكامل؟',
-          a: 'تنقل المضخة اليدوية ثنائية الأسطوانة المرفقة حجمًا كبيرًا بسرعة وتصل إلى ضغوط أعلى بمجهود أقل، واللوح متوافق مع مضخة afarer الكهربائية 12VDC الاختيارية.',
+          a: 'تنقل المضخة اليدوية ثنائية الأسطوانة المرفقة حجمًا كبيرًا بسرعة وتصل إلى ضغوط أعلى بمجهود أقل، واللوح متوافق مع مضخة olagoon الكهربائية 12VDC الاختيارية.',
         },
       ],
     },
@@ -2724,7 +2724,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Hur når jag fullt tryck?',
-          a: 'Den medföljande dubbelcylindriga handpumpen flyttar snabbt stor volym och når högre tryck med mindre ansträngning, och brädan är kompatibel med den valfria afarer 12VDC elektriska pumpen.',
+          a: 'Den medföljande dubbelcylindriga handpumpen flyttar snabbt stor volym och når högre tryck med mindre ansträngning, och brädan är kompatibel med den valfria olagoon 12VDC elektriska pumpen.',
         },
       ],
     },
@@ -2969,7 +2969,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Hoe bereik ik de volledige druk?',
-          a: 'De meegeleverde dubbelcilinder handpomp verplaatst snel een groot volume en bereikt hogere drukken met minder moeite, en het board is compatibel met de optionele afarer 12VDC elektrische pomp.',
+          a: 'De meegeleverde dubbelcilinder handpomp verplaatst snel een groot volume en bereikt hogere drukken met minder moeite, en het board is compatibel met de optionele olagoon 12VDC elektrische pomp.',
         },
       ],
     },
@@ -3225,7 +3225,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Hvordan når jeg fullt trykk?',
-          a: 'Den medfølgende dobbeltsylindrede håndpumpen flytter raskt stort volum og når høyere trykk med mindre innsats, og brettet er kompatibelt med den valgfrie afarer 12VDC-elektriske pumpen.',
+          a: 'Den medfølgende dobbeltsylindrede håndpumpen flytter raskt stort volum og når høyere trykk med mindre innsats, og brettet er kompatibelt med den valgfrie olagoon 12VDC-elektriske pumpen.',
         },
       ],
     },
@@ -3482,7 +3482,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Πώς φτάνω στη μέγιστη πίεση;',
-          a: 'Η περιλαμβανόμενη χειροκίνητη αντλία διπλού κυλίνδρου μετακινεί γρήγορα μεγάλο όγκο και φτάνει σε υψηλότερες πιέσεις με λιγότερη προσπάθεια, και η σανίδα είναι συμβατή με την προαιρετική ηλεκτρική αντλία afarer 12VDC.',
+          a: 'Η περιλαμβανόμενη χειροκίνητη αντλία διπλού κυλίνδρου μετακινεί γρήγορα μεγάλο όγκο και φτάνει σε υψηλότερες πιέσεις με λιγότερη προσπάθεια, και η σανίδα είναι συμβατή με την προαιρετική ηλεκτρική αντλία olagoon 12VDC.',
         },
       ],
     },
@@ -3738,7 +3738,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Tam basınca nasıl ulaşırım?',
-          a: 'Dahil edilen çift silindirli el pompası büyük hacmi hızla hareket ettirir ve daha az eforla daha yüksek basınçlara ulaşır; board ayrıca isteğe bağlı afarer 12VDC elektrikli pompayla uyumludur.',
+          a: 'Dahil edilen çift silindirli el pompası büyük hacmi hızla hareket ettirir ve daha az eforla daha yüksek basınçlara ulaşır; board ayrıca isteğe bağlı olagoon 12VDC elektrikli pompayla uyumludur.',
         },
       ],
     },
@@ -3994,7 +3994,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Miten saavutan täyden paineen?',
-          a: 'Mukana toimitettava kaksisylinterinen käsipumppu liikuttaa suuren tilavuuden nopeasti ja saavuttaa korkeammat paineet vähemmällä vaivalla, ja lauta on yhteensopiva valinnaisen afarer 12 VDC -sähköpumpun kanssa.',
+          a: 'Mukana toimitettava kaksisylinterinen käsipumppu liikuttaa suuren tilavuuden nopeasti ja saavuttaa korkeammat paineet vähemmällä vaivalla, ja lauta on yhteensopiva valinnaisen olagoon 12 VDC -sähköpumpun kanssa.',
         },
       ],
     },
@@ -4250,7 +4250,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Jak dosáhnu plného tlaku?',
-          a: 'Přiložená dvouválcová ruční pumpa rychle přemísťuje velký objem a dosahuje vyššího tlaku s menší námahou, přičemž prkno je kompatibilní s volitelnou elektrickou pumpou afarer 12 V DC.',
+          a: 'Přiložená dvouválcová ruční pumpa rychle přemísťuje velký objem a dosahuje vyššího tlaku s menší námahou, přičemž prkno je kompatibilní s volitelnou elektrickou pumpou olagoon 12 V DC.',
         },
       ],
     },
@@ -4506,7 +4506,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Hvordan når jeg fuldt tryk?',
-          a: 'Den inkluderede dobbeltcylindrede håndpumpe bevæger stort volumen hurtigt og når højere tryk med mindre indsats, og brættet er kompatibelt med den valgfrie afarer 12 V DC elektriske pumpe.',
+          a: 'Den inkluderede dobbeltcylindrede håndpumpe bevæger stort volumen hurtigt og når højere tryk med mindre indsats, og brættet er kompatibelt med den valgfrie olagoon 12 V DC elektriske pumpe.',
         },
       ],
     },
@@ -4763,7 +4763,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'Cum ating presiunea maximă?',
-          a: 'Pompa de mână cu dublu cilindru inclusă mișcă rapid un volum mare și atinge presiuni mai mari cu mai puțin efort, iar placa este compatibilă cu pompa electrică opțională afarer de 12 V CC.',
+          a: 'Pompa de mână cu dublu cilindru inclusă mișcă rapid un volum mare și atinge presiuni mai mari cu mai puțin efort, iar placa este compatibilă cu pompa electrică opțională olagoon de 12 V CC.',
         },
       ],
     },
@@ -5018,7 +5018,7 @@ export const productTexts: Record<string, Record<string, ProductTexts>> = {
         },
         {
           q: 'ทำความดันเต็มยังไง?',
-          a: 'ปั๊มมือสูบคู่ที่ให้มาเคลื่อนปริมาณอากาศมากได้เร็วและถึงแรงดันสูงด้วยแรงน้อยลง และบอร์ดรองรับปั๊มไฟฟ้า afarer 12VDC (อุปกรณ์เสริม)',
+          a: 'ปั๊มมือสูบคู่ที่ให้มาเคลื่อนปริมาณอากาศมากได้เร็วและถึงแรงดันสูงด้วยแรงน้อยลง และบอร์ดรองรับปั๊มไฟฟ้า olagoon 12VDC (อุปกรณ์เสริม)',
         },
       ],
     },

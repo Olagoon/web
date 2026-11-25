@@ -323,7 +323,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Pilnā produktu līnija — SUP dēļi un piederumi',
     industry: 'Izplatīšana / Jūras',
     challenge:
-      'GCC bāzētam izplatītājam bija vajadzīgas ekskluzīvas tiesības pārstāvēt pilno afarer produktu līniju 6 Persijas līča valstīs, ar pielāgotu arābu iepakojumu, karstumizturīgu materiālu specifikācijām un šarīai atbilstošiem garantijas nosacījumiem.',
+      'GCC bāzētam izplatītājam bija vajadzīgas ekskluzīvas tiesības pārstāvēt pilno olagoon produktu līniju 6 Persijas līča valstīs, ar pielāgotu arābu iepakojumu, karstumizturīgu materiālu specifikācijām un šarīai atbilstošiem garantijas nosacījumiem.',
     solution:
       'Noslēdzām ekskluzīvu izplatīšanas līgumu. Izstrādājām arābu iepakojumu un mārketinga materiālus. Validējām materiālu specifikācijas 50°C vides temperatūrā. Pielāgojām garantijas nosacījumus reģionālajai atbilstībai.',
     result:
@@ -400,7 +400,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Fortune 500 tehnoloģiju uzņēmums vēlējās palaist ūdens aktivitāšu labsajūtas programmu darbiniekiem 4 globālās pilsētiņās pie ezeriem, kas prasīja 60 SUP ar korporatīvo zīmolradu, glabāšanas risinājumiem un instruktoru apmācību.',
     solution:
-      'Piegādājām stabilu universālo SUP floti ar korporatīvā logotipa klāja grafiku. Izstrādājām laikapstākļu izturīgus glabāšanas statīvus. Sertificējām 12 iekšējos instruktorus caur afarer apmācības programmu.',
+      'Piegādājām stabilu universālo SUP floti ar korporatīvā logotipa klāja grafiku. Izstrādājām laikapstākļu izturīgus glabāšanas statīvus. Sertificējām 12 iekšējos instruktorus caur olagoon apmācības programmu.',
     result:
       'Programma palaista 4 pilsētiņās. Vairāk nekā 2 400 darbinieku dalību pirmajā gadā. 94% darbinieku apmierinātības vērtējums. Iekļauta uzņēmuma ilgtspējas pārskatā.',
     outcomeMetrics: [

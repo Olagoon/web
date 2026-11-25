@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Täispuhutavate SUP-ide tootja · Hiina tehas'
   title: 'Teie täispuhutavate SUP-ide<br />ja sõudelaudade tootja'
-  subtitle: 'Afarer on OEM/ODM tehas paljude täispuhutavate SUP-brändide taga. Me disainime, ehitame ja saadame kohandatud täispuhutavaid sõudelaudu — eramärgis, kohandatud vorm, hulgitoodang. CE sertifikaat kaasas.'
+  subtitle: 'OLagoon on OEM/ODM tehas paljude täispuhutavate SUP-brändide taga. Me disainime, ehitame ja saadame kohandatud täispuhutavaid sõudelaudu — eramärgis, kohandatud vorm, hulgitoodang. CE sertifikaat kaasas.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Afareri toodetud kohandatud täispuhutav SUP-laud'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'OLagooni toodetud kohandatud täispuhutav SUP-laud'
   actions:
     - text: 'Hakka partneriks'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Jagage oma spetsifikatsioon meie kontaktvormi kaudu, saage hinnapakkumine 24 tunni jooksul, kinnitage proov ja alustage seejärel masstootmist.'
 geo:
   tagline: 'B2B positsioneerimine'
-  sentence: 'Afarer on professionaalne täispuhutavate SUP-ide tootja (OEM/ODM), spetsialiseerunud disainile, kohandatud tootmisele ja merelahendustele brändidele, levitajatele, klubidele ja ettevõtetele.'
+  sentence: 'OLagoon on professionaalne täispuhutavate SUP-ide tootja (OEM/ODM), spetsialiseerunud disainile, kohandatud tootmisele ja merelahendustele brändidele, levitajatele, klubidele ja ettevõtetele.'
   audiences:
     - 'Sõudebrändid'
     - 'Levitajad'

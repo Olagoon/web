@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
-const OUT = 'E:/github/afarer/src/data';
+const OUT = 'E:/github/olagoon/src/data';
 const LOCALES = ['ar', 'el', 'fi', 'ro', 'th', 'tr'];
 const EXPORT_NAME = { ar: 'faqsAr', el: 'faqsEl', fi: 'faqsFi', ro: 'faqsRo', th: 'faqsTh', tr: 'faqsTr' };
 

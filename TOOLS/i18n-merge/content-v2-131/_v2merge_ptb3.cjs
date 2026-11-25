@@ -2,11 +2,11 @@
 const fs = require('fs');
 const path = require('path');
 const { createRequire } = require('module');
-const req = createRequire('E:\\github\\afarer\\node_modules\\js-yaml\\package.json');
+const req = createRequire('E:\\github\\olagoon\\node_modules\\js-yaml\\package.json');
 const yaml = req('js-yaml');
 
 const TMP = 'C:\\Users\\Helleo\\AppData\\Local\\Temp\\deveco';
-const OUT = 'E:\\github\\afarer\\src\\data\\site\\content-v2.pt.yaml';
+const OUT = 'E:\\github\\olagoon\\src\\data\\site\\content-v2.pt.yaml';
 const PARTS = ['_v2pt_b3_p1.yaml', '_v2pt_b3_p2.yaml', '_v2pt_b3_p3.yaml', '_v2pt_b3_p4.yaml'];
 
 const existing = fs.readFileSync(OUT, 'utf8');
@@ -38,7 +38,7 @@ if (unique.size !== 50) {
   console.log('FAIL: duplicate slugs');
   process.exit(1);
 }
-const enDocs = yaml.load(fs.readFileSync('E:\\github\\afarer\\src\\data\\site\\content-v2.yaml', 'utf8'));
+const enDocs = yaml.load(fs.readFileSync('E:\\github\\olagoon\\src\\data\\site\\content-v2.yaml', 'utf8'));
 const enSlugs = enDocs.slice(0, 50).map((r) => r.slug);
 for (let i = 0; i < 50; i++) {
   if (slugs[i] !== enSlugs[i]) {

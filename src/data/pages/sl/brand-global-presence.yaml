@@ -1,6 +1,6 @@
 meta:
   title: 'Globalna prisotnost — proizvajalec SUP za več kot 50 držav | {SITE}'
-  description: 'afarer izvaža napihljive deske SUP v več kot 50 držav po vseh celinah. Profesionalni proizvajalec in dobavitelj za znamke, distributerje in flote.'
+  description: 'olagoon izvaža napihljive deske SUP v več kot 50 držav po vseh celinah. Profesionalni proizvajalec in dobavitelj za znamke, distributerje in flote.'
   keywords:
     - 'globalni proizvajalec sup'
     - 'izvoznik desk za veslanje'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: 'Globalna prisotnost'
   title: 'Oskrba več kot 50 držav<br />po vseh celinah'
-  subtitle: 'Od evropskih operaterjev obalnega patruljiranja do avstralskih distributerjev vodnih športov in reševalnih ekip z Bližnjega vzhoda — deske afarer so na vodi po vsem svetu.'
+  subtitle: 'Od evropskih operaterjev obalnega patruljiranja do avstralskih distributerjev vodnih športov in reševalnih ekip z Bližnjega vzhoda — deske olagoon so na vodi po vsem svetu.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'globalna pomorska proizvodnja in distribucija afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'globalna pomorska proizvodnja in distribucija olagoon'
 stats:
   title: 'Globalni doseg'
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: 'Zaloge v Montclairju v Kaliforniji za hitro dostavo po Severni Ameriki. Zahodna obala: 2–3 dni, srednji del: 3–4 dni, vzhodna obala: 4–5 dni.'
       icon: tabler:building-warehouse
     - title: 'Nadomestni deli'
-      description: 'Originalni nadomestni deli in potrošni material afarer na zalogi vse leto. Pogosti deli se odpošljejo v 24 urah.'
+      description: 'Originalni nadomestni deli in potrošni material olagoon na zalogi vse leto. Pogosti deli se odpošljejo v 24 urah.'
       icon: tabler:package
     - title: 'Tehnična podpora'
       description: 'Neposredna linija do naše inženirske ekipe za tehnična vprašanja, nasvete za popravila in podporo nadomestnih delov. Podpiramo deske, ki smo jih izdelali pred 20 leti.'

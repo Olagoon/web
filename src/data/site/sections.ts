@@ -5,7 +5,7 @@ export interface SiteSection {
 }
 
 export const SITE_SECTIONS: SiteSection[] = [
-  { label: 'Home', path: '/', sitemap: { entity: 'afarer', type: 'brand', priority: '1.0' } },
+  { label: 'Home', path: '/', sitemap: { entity: 'olagoon', type: 'brand', priority: '1.0' } },
   { label: 'Products', path: '/products', sitemap: { entity: 'products', type: 'product', priority: '0.9' } },
   {
     label: 'Engineering Perfection',
@@ -25,7 +25,7 @@ export const SITE_SECTIONS: SiteSection[] = [
   { label: 'Technology', path: '/technology', sitemap: { entity: 'technology', type: 'technology', priority: '0.7' } },
   { label: 'Academy', path: '/academy', sitemap: { entity: 'academy', type: 'education', priority: '0.7' } },
   { label: 'Size Guide', path: '/size-guide', sitemap: { entity: 'size-guide', type: 'product', priority: '0.5' } },
-  { label: 'afarer Story', path: '/afarer-story', sitemap: { entity: 'afarer-story', type: 'brand', priority: '0.8' } },
+  { label: 'olagoon Story', path: '/olagoon-story', sitemap: { entity: 'olagoon-story', type: 'brand', priority: '0.8' } },
   { label: 'Gallery', path: '/gallery', sitemap: { entity: 'gallery', type: 'media', priority: '0.5' } },
   { label: 'Warranty', path: '/warranty', sitemap: { entity: 'warranty', type: 'support', priority: '0.5' } },
   { label: 'Factory', path: '/factory', sitemap: { entity: 'factory', type: 'service', priority: '0.7' } },
@@ -51,9 +51,9 @@ export const SITE_SECTIONS: SiteSection[] = [
     sitemap: { entity: 'inflatable-vs-hardboard', type: 'compare', priority: '0.7' },
   },
   {
-    label: 'afarer vs Traditional Manufacturers Comparison',
-    path: '/compare/afarer-vs-traditional-manufacturers',
-    sitemap: { entity: 'afarer-vs-traditional', type: 'compare', priority: '0.7' },
+    label: 'olagoon vs Traditional Manufacturers Comparison',
+    path: '/compare/olagoon-vs-traditional-manufacturers',
+    sitemap: { entity: 'olagoon-vs-traditional', type: 'compare', priority: '0.7' },
   },
   {
     label: 'SUP Basics',
@@ -71,8 +71,8 @@ export const SITE_SECTIONS: SiteSection[] = [
     sitemap: { entity: 'safety-water-sports', type: 'guide', priority: '0.7' },
   },
   {
-    label: 'afarer AI Brand Profile',
-    path: '/llms/brand/afarer',
+    label: 'olagoon AI Brand Profile',
+    path: '/llms/brand/olagoon',
     sitemap: { entity: 'llms-brand', type: 'reference', priority: '0.3' },
   },
   {
@@ -146,9 +146,9 @@ export const SITE_SECTIONS: SiteSection[] = [
     sitemap: { entity: 'brand-global-presence', type: 'brand', priority: '0.6' },
   },
   {
-    label: 'Why Afarer',
-    path: '/brand-why-afarer',
-    sitemap: { entity: 'brand-why-afarer', type: 'brand', priority: '0.6' },
+    label: 'Why OLagoon',
+    path: '/brand-why-olagoon',
+    sitemap: { entity: 'brand-why-olagoon', type: 'brand', priority: '0.6' },
   },
   {
     label: 'Brand Team',

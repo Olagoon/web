@@ -4,64 +4,64 @@ const glob = require('glob');
 const ROOT = process.cwd();
 
 const REPLACEMENTS = {
-  'https://assets.afarer.com/images/afarer/factory/afarer factory.webp':
-    'https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp',
-  'https://assets.afarer.com/images/afarer/factory/design discuss2.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp',
-  'https://assets.afarer.com/images/afarer/factory/design discuss original.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp',
-  'https://assets.afarer.com/images/afarer/factory/PVC material.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-pvc-material-testing.webp',
-  'https://assets.afarer.com/images/afarer/factory/Pressure Testing.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp',
-  'https://assets.afarer.com/images/afarer/factory/Stock Boat.webp':
-    'https://assets.afarer.com/images/afarer/factory/afarer-stock-boat-inventory.webp',
-  'https://assets.afarer.com/images/afarer/factory/UV Resistance Testing.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp',
-  'https://assets.afarer.com/images/afarer/factory/sup making.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing.webp',
-  'https://assets.afarer.com/images/afarer/factory/sup making3.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp',
-  'https://assets.afarer.com/images/afarer/factory/producing department.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp',
-  'https://assets.afarer.com/images/afarer/factory/producing department2.jpeg':
-    'https://assets.afarer.com/images/afarer/factory/afarer-production-department-2.webp',
-  'https://assets.afarer.com/images/afarer/hero/about-banner.webp':
-    'https://assets.afarer.com/images/afarer/hero/production-dept.webp',
-  'https://assets.afarer.com/images/afarer/hero/academy-banner.webp':
-    'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp',
-  'https://assets.afarer.com/images/afarer/hero/contact-banner.webp':
-    'https://assets.afarer.com/images/afarer/hero/factory-gate.webp',
-  'https://assets.afarer.com/images/afarer/hero/custom-banner.webp':
-    'https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp',
-  'https://assets.afarer.com/images/afarer/products/fishing-banner.webp':
-    'https://assets.afarer.com/images/afarer/hero/production-dept.webp',
-  'https://assets.afarer.com/images/afarer/factory/factory-banner.webp':
-    'https://assets.afarer.com/images/afarer/hero/factory-gate.webp',
-  'https://assets.afarer.com/images/afarer/factory/process-banner.webp':
-    'https://assets.afarer.com/images/afarer/hero/production-dept.webp',
-  'https://assets.afarer.com/images/afarer/factory/production-workshop.webp':
-    'https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp',
-  'https://assets.afarer.com/images/afarer/factory/quality-workshop.webp':
-    'https://assets.afarer.com/images/afarer/factory/afarer-pvc-material-testing.webp',
-  'https://assets.afarer.com/images/afarer/factory/rib-workshop.webp':
-    'https://assets.afarer.com/images/afarer/products/rib/afarer-rib-330-boat.webp',
-  'https://assets.afarer.com/images/afarer/factory/welding-workshop.webp':
-    'https://assets.afarer.com/images/afarer/factory/producting department3.webp',
-  'https://assets.afarer.com/images/afarer/hero/hero-5.webp':
-    'https://assets.afarer.com/images/afarer/hero/factory-gate.webp',
-  'https://assets.afarer.com/images/afarer/hero/hero-image.webp':
-    'https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp',
-  'https://assets.afarer.com/images/afarer/hero/hero-scenic.webp':
-    'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp',
-  'https://assets.afarer.com/images/afarer/hero/boat man afarer-min.jpeg':
-    'https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp',
-  'https://assets.afarer.com/images/afarer/hero/production-workshop.webp':
-    'https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp',
-  'https://assets.afarer.com/images/afarer/hero/trust-hero.webp':
-    'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp',
-  'https://assets.afarer.com/images/afarer/products/rib-330.webp':
-    'https://assets.afarer.com/images/afarer/products/rib/afarer-rib-330-boat.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/olagoon factory.webp':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/design discuss2.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/design discuss original.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/PVC material.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-pvc-material-testing.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/Pressure Testing.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/Stock Boat.webp':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-stock-boat-inventory.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/UV Resistance Testing.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/sup making.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/sup making3.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/producing department.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/producing department2.jpeg':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department-2.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/about-banner.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/production-dept.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/academy-banner.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/contact-banner.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/custom-banner.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp',
+  'https://assets.olagoon.com/images/olagoon/products/fishing-banner.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/production-dept.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/factory-banner.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/process-banner.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/production-dept.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/production-workshop.webp':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/quality-workshop.webp':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-pvc-material-testing.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/rib-workshop.webp':
+    'https://assets.olagoon.com/images/olagoon/products/rib/olagoon-rib-330-boat.webp',
+  'https://assets.olagoon.com/images/olagoon/factory/welding-workshop.webp':
+    'https://assets.olagoon.com/images/olagoon/factory/producting department3.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/hero-5.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/hero-image.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/hero-scenic.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/boat man olagoon-min.jpeg':
+    'https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/production-workshop.webp':
+    'https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp',
+  'https://assets.olagoon.com/images/olagoon/hero/trust-hero.webp':
+    'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp',
+  'https://assets.olagoon.com/images/olagoon/products/rib-330.webp':
+    'https://assets.olagoon.com/images/olagoon/products/rib/olagoon-rib-330-boat.webp',
 };
 
 const yamlFiles = glob.sync('src/data/pages/**/*.yaml').map((f) => path.join(ROOT, f));

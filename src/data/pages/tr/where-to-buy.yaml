@@ -1,18 +1,18 @@
 meta:
-  title: Afarer şişme paddle tahtaları nereden alınır | Afarer
-  description: Afarer şişme paddle tahtasını nasıl satın alacağınızı öğrenin — ülkenizdeki resmi distribütörden veya doğrudan Afarer ekibinden.
+  title: OLagoon şişme paddle tahtaları nereden alınır | OLagoon
+  description: OLagoon şişme paddle tahtasını nasıl satın alacağınızı öğrenin — ülkenizdeki resmi distribütörden veya doğrudan OLagoon ekibinden.
 hero:
   tagline: Nereden alınır
-  title: Afarer SUP'unuzla suya çıkın
-  subtitle: Afarer tahtaları 50'den fazla ülkede kürekçilere ulaşıyor. Kendi tahtanıza ulaşmanın en kolay yolunu bulun — size en yakın resmi distribütörden ya da doğrudan Afarer ekibinden.
+  title: OLagoon SUP'unuzla suya çıkın
+  subtitle: OLagoon tahtaları 50'den fazla ülkede kürekçilere ulaşıyor. Kendi tahtanıza ulaşmanın en kolay yolunu bulun — size en yakın resmi distribütörden ya da doğrudan OLagoon ekibinden.
 channels:
   items:
     - title: Ülke Bazında Resmi Distribütörler
-      description: Afarer birçok ülkede özel distribütörlerle çalışır. Nerede kullandığınızı bize bildirin; sizi yerel satıcınız, fiyatlar ve stok durumuyla buluşturalım.
+      description: OLagoon birçok ülkede özel distribütörlerle çalışır. Nerede kullandığınızı bize bildirin; sizi yerel satıcınız, fiyatlar ve stok durumuyla buluşturalım.
       cta: Yerel satıcınızı bulun
       href: /contact/?subject=Where to Buy
-    - title: Afarer'den Doğrudan Sipariş
-      description: Ülkenizde henüz distribütör yok mu? Afarer ekibi, nerede yaşarsanız yaşayın suya çıkabilmeniz için doğrudan sipariş ve sevkiyat düzenleyebilir.
+    - title: OLagoon'den Doğrudan Sipariş
+      description: Ülkenizde henüz distribütör yok mu? OLagoon ekibi, nerede yaşarsanız yaşayın suya çıkabilmeniz için doğrudan sipariş ve sevkiyat düzenleyebilir.
       cta: Stok sorun
       href: /contact/?subject=Where to Buy
 form_intro:

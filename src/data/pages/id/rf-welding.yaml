@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 03'
   title: 'Pusat Pengelasan RF'
   subtitle: 'Teknologi perekatan dielektrik untuk las yang bertahan di bawah tekanan'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Proses perekatan dielektrik pengelasan RF Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'Proses perekatan dielektrik pengelasan RF OLagoon'
 
-intro: 'SUP tiup hanya seandal sambungannya. Satu las yang lemah dapat mengorbankan seluruh ruang — dan di laut, kegagalan ruang bukanlah sekadar ketidaknyamanan; itu adalah bahaya keselamatan. Di Afarer, kami telah berinvestasi dalam Pusat Pengelasan Frekuensi Radio (RF) khusus yang menggabungkan press pengelasan dielektrik kelas industri dengan kontrol proses yang ketat serta pengujian pasca-pengelasan. Setiap sambungan yang kami hasilkan terdokumentasi, terlacak, dan tersertifikasi memenuhi atau melampaui persyaratan EN ISO 25649 — standar Eropa untuk peralatan rekreasi tiup.'
+intro: 'SUP tiup hanya seandal sambungannya. Satu las yang lemah dapat mengorbankan seluruh ruang — dan di laut, kegagalan ruang bukanlah sekadar ketidaknyamanan; itu adalah bahaya keselamatan. Di OLagoon, kami telah berinvestasi dalam Pusat Pengelasan Frekuensi Radio (RF) khusus yang menggabungkan press pengelasan dielektrik kelas industri dengan kontrol proses yang ketat serta pengujian pasca-pengelasan. Setiap sambungan yang kami hasilkan terdokumentasi, terlacak, dan tersertifikasi memenuhi atau melampaui persyaratan EN ISO 25649 — standar Eropa untuk peralatan rekreasi tiup.'
 
 content_html: |
   <h2>Ilmu di balik sambungan</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Komitmen kami kepada Anda</h2>
   <p>Setiap papan yang kami kirim membawa jaminan kualitas las kami: jika ada sambungan yang gagal dalam penggunaan normal selama masa garansi, kami memperbaiki atau mengganti ruang yang terdampak tanpa biaya, dan investigasi akar masalah dilakukan untuk mencegah keberulangan. Ini bukan sekadar garansi — ini adalah komitmen terhadap perbaikan berkelanjutan yang didorong oleh data operasional dunia nyata.</p>
-  <p>Saat Anda memilih Afarer, Anda memilih sambungan yang direkayasa, diuji, dan terdokumentasi — bukan sekadar dilas. Itulah perbedaan antara papan yang mengapung dan papan yang berkinerja.</p>
+  <p>Saat Anda memilih OLagoon, Anda memilih sambungan yang direkayasa, diuji, dan terdokumentasi — bukan sekadar dilas. Itulah perbedaan antara papan yang mengapung dan papan yang berkinerja.</p>
 
 cta:
   title: 'Diskusikan kebutuhan pengelasan Anda'

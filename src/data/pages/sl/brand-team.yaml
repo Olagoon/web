@@ -1,22 +1,22 @@
 meta:
   title: 'Naša ekipa — pomorski inženirji in graditelji | {SITE}'
-  description: 'Ustanovljeno leta 2012 v Qingdau je bilo podjetje afarer zgrajeno s strani pomorskih inženirjev, znanstvenikov na področju materialov in ljubiteljev vodnih športov. Spoznajte ekipo za tovarno.'
+  description: 'Ustanovljeno leta 2012 v Qingdau je bilo podjetje olagoon zgrajeno s strani pomorskih inženirjev, znanstvenikov na področju materialov in ljubiteljev vodnih športov. Spoznajte ekipo za tovarno.'
   keywords:
-    - 'ekipa afarer'
+    - 'ekipa olagoon'
     - 'pomorski inženirji'
     - 'proizvajalec napihljivih sup'
     - 'ekipa tovarne sup'
 hero:
   tagline: 'Naša ekipa'
-  title: 'Ljudje za znamko afarer<br />— inženiring svobode na vodi'
-  subtitle: 'Ustanovljeno leta 2012 v Qingdau na Kitajskem je bilo podjetje afarer zgrajeno s strani pomorskih inženirjev, znanstvenikov na področju materialov in ljubiteljev vodnih športov, ki so verjeli, da je treba profesionalna napihljiva plovila narediti dostopna po vsem svetu.'
+  title: 'Ljudje za znamko olagoon<br />— inženiring svobode na vodi'
+  subtitle: 'Ustanovljeno leta 2012 v Qingdau na Kitajskem je bilo podjetje olagoon zgrajeno s strani pomorskih inženirjev, znanstvenikov na področju materialov in ljubiteljev vodnih športov, ki so verjeli, da je treba profesionalna napihljiva plovila narediti dostopna po vsem svetu.'
   image:
     src: /images/team-all.webp
-    alt: 'skupinska fotografija celotne ekipe afarer — inženiring, proizvodnja in vodstvo'
+    alt: 'skupinska fotografija celotne ekipe olagoon — inženiring, proizvodnja in vodstvo'
 founding:
   tagline: 'Naša ustanovitev'
   title: 'Od obalne delavnice<br />do obrata s 12,000 m²'
-  subtitle: 'afarer so ustanovili pomorski inženirji z desetletji skupnih izkušenj z oblikovanjem napihljivih SUP desk, obdelavo PVC in svetovno proizvodnjo pomorske opreme.'
+  subtitle: 'olagoon so ustanovili pomorski inženirji z desetletji skupnih izkušenj z oblikovanjem napihljivih SUP desk, obdelavo PVC in svetovno proizvodnjo pomorske opreme.'
   items:
     - title: 'Ustanovljeno: 2012'
       description: 'Ustanovljeno v Qingdau na Kitajskem — pomembno pomorsko središče z bogato ladjedelniško dediščino.'
@@ -40,7 +40,7 @@ leadership:
       name: 'Toby Liu'
       description: '15+ let v pomorski proizvodnji. Prej je vodil raziskave in razvoj pri velikem kitajskem proizvajalcu opreme za veslaške športe. Ima več patentov z oblikovanja napihljivih SUP desk.'
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: 'Glavni inženir'
       name: 'Zhang Wei'
       description: '20+ let v obdelavi PVC in oblikovanju drop-stitch. Nekdanji tehnični direktor evropske znamke opreme za veslaške športe.'
@@ -65,13 +65,13 @@ leadership:
       name: 'Helen Lee'
       description: '15+ let v mednarodni trgovini B2B. Upravljala je partnerstva sooblikovanja znamk in distribucije v več kot 30 državah. Tekoče govori štiri jezike.'
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: 'Oblikovalska filozofija'
   title: 'Oblikovanje pod vodstvom inženirjev<br />— vsaka podrobnost je pomembna'
   subtitle: 'Naša inženirska filozofija temelji na treh načelih, ki usmerjajo vsak izdelek, ki ga izdelamo.'
   list:
-    - 'Zanesljivost na prvem mestu: Vsak izdelek afarer je preskušen, da zdrži realne razmere — od reševalnih operacij v hladni vodi do najema v tropskih letoviščih. Kjer je najpomembneje, konstruiramo z rezervo.'
+    - 'Zanesljivost na prvem mestu: Vsak izdelek olagoon je preskušen, da zdrži realne razmere — od reševalnih operacij v hladni vodi do najema v tropskih letoviščih. Kjer je najpomembneje, konstruiramo z rezervo.'
     - 'Proizvodna natančnost: Naše naprave uporabljajo rezanje CNC, varjenje visoke frekvence in samodejno preskušanje tlaka. Vsak šiv, vsak ventil, vsak priključek ustreza dokumentiranim specifikacijam.'
     - 'Stalne inovacije: Naša ekipa za raziskave in razvoj neprestano ocenjuje nove materiale, proizvodne metode in izboljšave oblikovanja. Ne čakamo na težave — jih predvidevamo.'
 cta:

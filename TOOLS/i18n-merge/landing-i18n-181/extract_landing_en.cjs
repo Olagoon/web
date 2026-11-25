@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dir = 'E:/github/afarer/src/data/landing-i18n';
+const dir = 'E:/github/olagoon/src/data/landing-i18n';
 const BASE = __dirname;
 const SKIP = new Set(['dock-platform.json', 'giant-sup.json', 'surf-sup.json']); // all-empty parity files
 const files = fs

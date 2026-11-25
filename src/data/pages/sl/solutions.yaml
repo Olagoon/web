@@ -1,6 +1,6 @@
 meta:
   title: 'Poslovne rešitve — SUP za vsako podjetje | {SITE}'
-  description: 'Poslovne rešitve afarer: flote SUP za letovišča, klube, izposoje, distribucijo in zasebne znamke. Profesionalni dobavitelj nautične opreme za B2B.'
+  description: 'Poslovne rešitve olagoon: flote SUP za letovišča, klube, izposoje, distribucijo in zasebne znamke. Profesionalni dobavitelj nautične opreme za B2B.'
   keywords:
     - 'poslovne rešitve sup'
     - 'dobavitelj napihljivih desk za veslanje'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Poslovne rešitve
   title: 'Rešitve SUP<br />za vsako podjetje'
-  subtitle: 'Od letovišč do maloprodaje, od izposojevalcev do globalnih distributerjev — Afarer ponuja popolne rešitve SUP, prilagojene vašemu poslovnemu modelu.'
+  subtitle: 'Od letovišč do maloprodaje, od izposojevalcev do globalnih distributerjev — OLagoon ponuja popolne rešitve SUP, prilagojene vašemu poslovnemu modelu.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Deske SUP Afarer za poslovne in profesionalne aplikacije
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Deske SUP OLagoon za poslovne in profesionalne aplikacije
 stats:
-  title: Afarer na prvi pogled
+  title: OLagoon na prvi pogled
   stats:
     - title: Let izkušenj
       amount: Od leta 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Ustvarite svojo znamko
-      description: 'Celovita proizvodnja SUP OEM/ODM — oblikovanje, izdelava prototipov, masovna proizvodnja in logistika. Zaženite svojo znamko z Afarerjem.'
+      description: 'Celovita proizvodnja SUP OEM/ODM — oblikovanje, izdelava prototipov, masovna proizvodnja in logistika. Zaženite svojo znamko z OLagoonjem.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

@@ -1,11 +1,11 @@
 // ===== _live-verify101.mjs — live verification for slice 101 (guides [lang] wiring) =====
-// Runs the same assertions as _verify-dist101.cjs against https://afarer.com.
+// Runs the same assertions as _verify-dist101.cjs against https://olagoon.com.
 // Usage: node _live-verify101.mjs
 
 import fs from 'node:fs';
 
-const BASE = 'https://afarer.com';
-const SSOT = JSON.parse(fs.readFileSync('E:/github/afarer/src/data/site/i18n-config.json', 'utf8'));
+const BASE = 'https://olagoon.com';
+const SSOT = JSON.parse(fs.readFileSync('E:/github/olagoon/src/data/site/i18n-config.json', 'utf8'));
 const LOCALES = Object.keys(SSOT);
 const CATS = ['buying-guide', 'tutorial', 'safety', 'technical', 'maintenance', 'lifestyle', 'planning', 'comparison'];
 const SLUG_TARGETS = [
@@ -32,7 +32,7 @@ async function get(path) {
 }
 
 // localized page meta (title) — source of truth for <title>
-const seoMetaRaw = fs.readFileSync('E:/github/afarer/src/i18n/generated/seo-meta.ts', 'utf8');
+const seoMetaRaw = fs.readFileSync('E:/github/olagoon/src/i18n/generated/seo-meta.ts', 'utf8');
 const seoMeta = JSON.parse(seoMetaRaw.slice(seoMetaRaw.indexOf('=') + 1, seoMetaRaw.lastIndexOf('}') + 1));
 
 // ===== 0. sitemap invariant =====
@@ -79,8 +79,8 @@ for (const loc of LOCALES) {
 
   const pageMeta = seoMeta[loc + '/guides'];
   const expectedTitle = pageMeta?.title
-    ? String(pageMeta.title).replace('{SITE}', 'Afarer')
-    : T['guides.pageLabel'] + ' — Afarer';
+    ? String(pageMeta.title).replace('{SITE}', 'OLagoon')
+    : T['guides.pageLabel'] + ' — OLagoon';
   const titleMatch = idx.match(/<title>([^<]*)<\/title>/);
   if (!titleMatch) bad(loc + ' index no <title>');
   else if (titleMatch[1] !== expectedTitle)

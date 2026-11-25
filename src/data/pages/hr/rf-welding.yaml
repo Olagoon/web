@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorij 03'
   title: 'Centar za RF zavarivanje'
   subtitle: 'Tehnologija dielektričkog spajanja za zavare koji izdržavaju tlak'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Afarerov postupak dielektričkog spajanja RF zavarivanjem'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'OLagoonov postupak dielektričkog spajanja RF zavarivanjem'
 
-intro: 'Napuhiva SUP daska pouzdana je onoliko koliko i njezini šavovi. Jedan slab zavar može ugroziti cijelu komoru — a na moru kvar komore nije neugodnost; to je sigurnosni rizik. U Afareru smo uložili u namjenski Centar za zavarivanje radiofrekvencijom (RF) koji kombinira industrijske dielektričke zavarene preše sa strogom kontrolom postupka i ispitivanjem nakon zavarivanja. Svaki šav koji proizvedemo dokumentiran je, sljediv i certificiran tako da ispunjava ili premašuje zahtjeve standarda EN ISO 25649 — europskog standarda za napuhivu opremu za slobodno vrijeme.'
+intro: 'Napuhiva SUP daska pouzdana je onoliko koliko i njezini šavovi. Jedan slab zavar može ugroziti cijelu komoru — a na moru kvar komore nije neugodnost; to je sigurnosni rizik. U OLagoonu smo uložili u namjenski Centar za zavarivanje radiofrekvencijom (RF) koji kombinira industrijske dielektričke zavarene preše sa strogom kontrolom postupka i ispitivanjem nakon zavarivanja. Svaki šav koji proizvedemo dokumentiran je, sljediv i certificiran tako da ispunjava ili premašuje zahtjeve standarda EN ISO 25649 — europskog standarda za napuhivu opremu za slobodno vrijeme.'
 
 content_html: |
   <h2>Znanost iza šava</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Naša obveza prema vama</h2>
   <p>Svaka daska koju isporučimo nosi naše jamstvo kvalitete zavara: ako bilo koji šav otkaže u normalnoj upotrebi tijekom jamstvenog razdoblja, besplatno ćemo popraviti ili zamijeniti zahvaćenu komoru te provesti istraživanje korijenskog uzroka kako bi se spriječilo ponavljanje. To nije samo jamstvo — to je predanost neprestanom poboljšanju vođena stvarnim operativnim podacima.</p>
-  <p>Odabirom Afarera odabirete šavove koji su konstruirani, ispitani i dokumentirani — a ne samo zavareni. To je razlika između daske koja pluta i daske koja pruža vrhunske performanse.</p>
+  <p>Odabirom OLagoona odabirete šavove koji su konstruirani, ispitani i dokumentirani — a ne samo zavareni. To je razlika između daske koja pluta i daske koja pruža vrhunske performanse.</p>
 
 cta:
   title: 'Raspravite o svojim zahtjevima za zavarivanje'

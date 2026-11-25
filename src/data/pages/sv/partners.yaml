@@ -1,6 +1,6 @@
 meta:
   title: 'Partner — distribution & partihandel | {SITE}'
-  description: 'Bli en afarer-partner: distributionsnätverk, partipriser, OEM/privatlabel-program och stöd för paddle board-företag över hela världen.'
+  description: 'Bli en olagoon-partner: distributionsnätverk, partipriser, OEM/privatlabel-program och stöd för paddle board-företag över hela världen.'
   keywords:
     - 'SUP distributionspartner'
     - 'paddle board partihandel'
@@ -8,15 +8,15 @@ meta:
     - 'SUP partnerskap'
 hero:
   tagline: Partners och distribution
-  title: Bli en afarer-partner<br />— Globalt distributionsnätverk
-  subtitle: Gå med i Afarers globala partnernätverk. Vi samarbetar med marina distributörer, paddelsportsåterförsäljare, utrustningsåterförsäljare och varumärkespartners i 50+ länder.
+  title: Bli en olagoon-partner<br />— Globalt distributionsnätverk
+  subtitle: Gå med i OLagoons globala partnernätverk. Vi samarbetar med marina distributörer, paddelsportsåterförsäljare, utrustningsåterförsäljare och varumärkespartners i 50+ länder.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: afarers globala partner- och distributörnätverk
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: olagoons globala partner- och distributörnätverk
 content_programs:
   tagline: Partnerskapsprogram
   title: Partnerprogram<br />byggda för tillväxt
-  subtitle: Oavsett om du är distributör, återförsäljare eller varumärkespartner erbjuder afarer program utformade för att stödja din verksamhet.
+  subtitle: Oavsett om du är distributör, återförsäljare eller varumärkespartner erbjuder olagoon program utformade för att stödja din verksamhet.
   columns: 3
   items:
     - title: Distributörsprogram
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: Varför samarbeta med oss
-  title: Varför partners väljer afarer
+  title: Varför partners väljer olagoon
   subtitle: Våra partners drar nytta av verklig tillverkningskapacitet, konsekvent kvalitet och lyhörd support.
   list:
     - 'Direkt fabrikstillgång: Arbeta direkt med vårt tillverkningsteam — inga mellanhänder. Snabbare svar, bättre priser och full insyn i produktionen.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: Så blir du partner
   title: Enkel partnerskapsprocess
-  subtitle: Vår partnerskapsprocess är okomplicerad — utformad för att få dig att sälja afarer-produkter snabbt.
+  subtitle: Vår partnerskapsprocess är okomplicerad — utformad för att få dig att sälja olagoon-produkter snabbt.
   items:
     - title: 'Steg 1: Skicka in ansökan'
       description: Fyll i vår partneransökningsblankett med din företagsprofil, målmarknad och produktintressen.
@@ -62,7 +62,7 @@ content_process:
     - title: 'Steg 4: Utbildning och lansering'
       description: Produktutbildning, säljstöd och marknadsföringsmaterial tillhandahålls. Du är redo att börja sälja.
 cta:
-  title: Redo att bli en afarer-partner?
+  title: Redo att bli en olagoon-partner?
   subtitle: Ansök om partnerskap och vårt team svarar inom 3 arbetsdagar.
   actions:
     - variant: primary

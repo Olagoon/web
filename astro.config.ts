@@ -90,7 +90,7 @@ const ROOT_SERVED_PATHS = [
   '/odm-sup-board',
   '/oem-sup-board',
   '/ai-context',
-  '/about/afarer-brand',
+  '/about/olagoon-brand',
   '/bundles',
   '/guides/kayak-techniques',
   '/resources/download-catalog',

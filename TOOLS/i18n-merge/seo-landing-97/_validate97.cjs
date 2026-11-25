@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
-const ROOT = 'E:/github/afarer/src/data/pages';
+const ROOT = 'E:/github/olagoon/src/data/pages';
 const PAGES = [
   'oem-paddle',
   'co-brand',
@@ -41,7 +41,7 @@ const TECH = new Set([
   '3D',
   '2D',
   'VS',
-  'Afarer',
+  'OLagoon',
   'Qingdao',
   'Co-Brand',
   'Co-Branding',

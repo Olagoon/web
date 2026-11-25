@@ -1,6 +1,6 @@
 meta:
   title: 'Pomorska stručnost — Inženjerstvo u svakom trupu | {SITE}'
-  description: 'Desetljeća pomorskog inženjerstva u svakom trupu. afarer vlada drop stitch tehnologijom, pomorskim PVC-om i profesionalnim dizajnom napuhivih SUP daska.'
+  description: 'Desetljeća pomorskog inženjerstva u svakom trupu. olagoon vlada drop stitch tehnologijom, pomorskim PVC-om i profesionalnim dizajnom napuhivih SUP daska.'
   keywords:
     - 'pomorsko inženjerstvo'
     - 'proizvođač napuhivih SUP daska'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: 'Pomorska stručnost'
   title: 'Desetljeća pomorskog inženjerstva<br />u svakom trupu'
-  subtitle: 'afarer spaja duboku znanost o materijalima, preciznu proizvodnju i testiranje u stvarnim uvjetima kako bi stvorio plovila koja funkcioniraju kada je najvažnije.'
+  subtitle: 'olagoon spaja duboku znanost o materijalima, preciznu proizvodnju i testiranje u stvarnim uvjetima kako bi stvorio plovila koja funkcioniraju kada je najvažnije.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: 'afarer tim za pomorsko inženjerstvo i R&D na radu'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: 'olagoon tim za pomorsko inženjerstvo i R&D na radu'
 expertise_materials:
   tagline: 'Znanost o materijalima'
   title: 'Odabir pravog materijala<br />za svaku namjenu'

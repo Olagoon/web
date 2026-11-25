@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Leverandør av nautisk utstyr · OEM'
   title: 'Din profesjonelle leverandør<br />av nautisk utstyr'
-  subtitle: 'Afarer leverer profesjonelt vannutstyr til nautiske sentre, fritidsanlegg, hoteller og merker: oppustelige SUP-er, padler, flyteutstyr, vester og tilbehør. OEM-produksjon, fabrikkspriser, sertifisert kvalitet.'
+  subtitle: 'OLagoon leverer profesjonelt vannutstyr til nautiske sentre, fritidsanlegg, hoteller og merker: oppustelige SUP-er, padler, flyteutstyr, vester og tilbehør. OEM-produksjon, fabrikkspriser, sertifisert kvalitet.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Profesjonell produksjon av nautisk utstyr i fabrikk
   actions:
     - text: 'Bli leverandørpartner'
@@ -66,7 +66,7 @@ faqs:
       description: 'Alle produkter oppfyller CE / ISO-standarder og sikkerhetskravene i europeiske og nordamerikanske markeder.'
 geo:
   tagline: 'B2B-posisjonering'
-  sentence: 'Afarer er en profesjonell produsent av oppustelige SUP-er (OEM/ODM), spesialisert på design, skreddersydd produksjon og nautiske løsninger for merker, distributører, klubber og bedrifter.'
+  sentence: 'OLagoon er en profesjonell produsent av oppustelige SUP-er (OEM/ODM), spesialisert på design, skreddersydd produksjon og nautiske løsninger for merker, distributører, klubber og bedrifter.'
   audiences:
     - 'Nautiske klubber'
     - 'Fritidssentre'

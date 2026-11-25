@@ -11,7 +11,7 @@ for (const f of files) {
 
   // branding.logo_image / logo_alt (any indentation)
   s = s.replace(/^(\s*logo_image:\s*).*$/m, `$1'/android-chrome-192x192.png'`);
-  s = s.replace(/^(\s*logo_alt:\s*).*$/m, `$1'Afarer_Logo'`);
+  s = s.replace(/^(\s*logo_alt:\s*).*$/m, `$1'OLagoon_Logo'`);
 
   // organization.logo
   s = s.replace(/^(\s*logo:\s*).*$/m, `$1'/android-chrome-512x512.png'`);

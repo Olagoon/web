@@ -6,11 +6,11 @@ hero:
   title: Käynnistä, aja ja kasvata melontakerhoasi<br />kaupallisen laatuisilla SUP-kalustoilla
   subtitle: SUP-varusteiden toimittaja melonta- ja paddelkerhoille ja SUP-kouluille ympäri maailmaa — kestävät kaupalliset laudat, kerhojen volyymihinnat, räätälöity brändäys ja nopeat varaosat, jotta voit keskittyä yhteisösi kasvattamiseen.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: Melontakerhon jäsenet yhtenäisillä Afarer SUP -laudoilla
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: Melontakerhon jäsenet yhtenäisillä OLagoon SUP -laudoilla
 benefits:
   title: Klubilaivaston edut
-  subtitle: Miksi melontaseurat yli 50 maassa valitsevat Afarerin varustekumppanikseen.
+  subtitle: Miksi melontaseurat yli 50 maassa valitsevat OLagoonin varustekumppanikseen.
   items:
     - metric: 40%+
       label: Laivaston kustannussäästöt
@@ -81,7 +81,7 @@ training:
         - Koulutusopetussuunnitelma ja sertifikaatiotuki
         - CE-sertifioituja laitteita
 features:
-  title: Miksi seurat valitsevat Afarerin
+  title: Miksi seurat valitsevat OLagoonin
   subtitle: Tasaista laatua, nopea varaosien toimitus ja määräalennushinnoittelu kasvaville seuroille.
   items:
     - title: 500+ vuokrakertaa

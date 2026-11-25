@@ -1,6 +1,6 @@
 meta:
-  title: 'Σχετικά με την afarer — Μάρκα Φουσκωτών SUP & Θαλάσσιων Σπορ | {SITE}'
-  description: 'Η afarer είναι μια παγκόσμια μάρκα φουσκωτών SUP και θαλάσσιων σπορ, που διοικείται από την Aquafarer LLC (ΗΠΑ) και την ομάδα λειτουργίας μας στο Qingdao. Ανακαλύψτε την ιστορία μας, τη μηχανική, την πιστοποιημένη ποιότητα και τα προγράμματα συνεργατών χωρών.'
+  title: 'Σχετικά με την olagoon — Μάρκα Φουσκωτών SUP & Θαλάσσιων Σπορ | {SITE}'
+  description: 'Η olagoon είναι μια παγκόσμια μάρκα φουσκωτών SUP και θαλάσσιων σπορ, που διοικείται από την Olagoon LLC (ΗΠΑ) και την ομάδα λειτουργίας μας στο Qingdao. Ανακαλύψτε την ιστορία μας, τη μηχανική, την πιστοποιημένη ποιότητα και τα προγράμματα συνεργατών χωρών.'
   keywords:
     - 'μάρκα φουσκωτών SUP'
     - 'μάρκα θαλάσσιων σπορ'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: Σχετικά με την εταιρεία
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Εργαστήριο afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: Εργαστήριο olagoon
   title: |
     Ναυτική μηχανική <br />
-    σε στιλ <span class="text-accent dark:text-white">afarer</span>
+    σε στιλ <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'Ξεκινήσαμε σε ένα παραθαλάσσιο εργαστήριο με μία σανίδα και μια ακλόνητη πεποίθηση: τα θαλάσσια προϊόντα πρέπει να σχεδιάζονται σαν να έχουν πραγματική σημασία — γιατί έχουν. Σήμερα, εξάγουμε σε 40+ χώρες, αλλά κάθε γάστρα περνά ακόμα από τα ίδια χέρια που ίδρυσαν την εταιρεία.'
 stats:
   title: Με αριθμούς
@@ -56,7 +56,7 @@ features3_more:
       description: Σχεδιασμός έργο-προς-έργο για εμπορικούς, επιστημονικούς και στρατιωτικούς πελάτες.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Σχεδιασμός και μηχανική σανίδων
 steps2_values:
   title: Οι αξίες μας
@@ -73,7 +73,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Ορόσημα
-  subtitle: Η σύντομη έκδοση της ιστορίας της afarer.
+  subtitle: Η σύντομη έκδοση της ιστορίας της olagoon.
   isReversed: true
   items:
     - title: Ιδρύθηκε σε παραθαλάσσιο εργαστήριο
@@ -108,7 +108,7 @@ brand_hub_cards:
     desc: Αποστολές σε 50+ χώρες από τις εγκαταστάσεις μας στο Qingdao, με εξουσιοδοτημένους συνεργάτες εξυπηρέτησης σε Ευρώπη, Ασία-Ειρηνικό και Αμερικές.
     link: /brand-global-presence/
     link_label: Μάθετε περισσότερα →
-  - title: Γιατί afarer;
+  - title: Γιατί olagoon;
     desc: 'Μια μάρκα βασισμένη σε επαληθευμένη ποιότητα — διπλή πιστοποίηση (ISO 9001 + BSCI), συμμόρφωση CE και αποκλειστικές συνεργασίες ανά χώρα με περιορισμένες co-branded συλλογές για επιχειρήσεις θαλάσσιων σπορ.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Μάθετε περισσότερα →

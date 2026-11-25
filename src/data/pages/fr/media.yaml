@@ -1,8 +1,8 @@
 meta:
-  title: 'Centre Média — Presse & Ressources afarer | {SITE}'
-  description: 'Centre média afarer : communiqués, photos de presse, logos et ressources pour journalistes de notre entreprise de fabrication de SUP gonflables.'
+  title: 'Centre Média — Presse & Ressources olagoon | {SITE}'
+  description: 'Centre média olagoon : communiqués, photos de presse, logos et ressources pour journalistes de notre entreprise de fabrication de SUP gonflables.'
   keywords:
-    - 'centre média afarer'
+    - 'centre média olagoon'
     - 'presse paddle'
     - 'communiqués SUP'
     - 'photos paddle gonflable'
@@ -21,7 +21,7 @@ sections:
       - Accessoires et Équipements de Sécurité
   - id: logo-brand-kit
     title: Kit Logo et Marque
-    desc: Fichiers logo afarer officiels, palette de couleurs, typographie et charte graphique.
+    desc: Fichiers logo olagoon officiels, palette de couleurs, typographie et charte graphique.
     items:
       - Logo Principal (PNG/SVG/EPS)
       - Icon Mark
@@ -55,7 +55,7 @@ cta:
       desc: Voir notre installation de fabrication de 12 000 m²
     - label: Brand guidelines
       href: /brand/
-      desc: Découvrir la marque afarer
+      desc: Découvrir la marque olagoon
     - label: Partner with us
       href: /contact/
       desc: Demandes OEM, ODM et distribution

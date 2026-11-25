@@ -14,7 +14,7 @@ module.exports = {
   'home.resources.download': 'Hent PDF',
   'retail.download': 'Hent',
   'home.resources.b2bSubtitle':
-    'Hent produktkataloger, kvalitetsrapporter og overholdelsesdokumentation for at udforske afarers kollektioner og partnerprogrammer.',
+    'Hent produktkataloger, kvalitetsrapporter og overholdelsesdokumentation for at udforske olagoons kollektioner og partnerprogrammer.',
   'buyerCenter.downloadCatalog': 'Hent katalog',
   'buyerCenter.b2bResourcesDesc': 'Hent kataloger, QC-rapporter og fabriksrundvisningsinformation.',
   'oem.catalog': 'Hent produktkatalog',
@@ -43,7 +43,7 @@ module.exports = {
   'academy.learningCenterDesc':
     'Trinvise guider og tutorials organiseret efter færdighedsniveau — fra det grundlæggende i SUP til avancerede redningsteknikker.',
   'academy.metaDesc':
-    'Guider og tutorials for hvert færdighedsniveau — fra det grundlæggende i SUP til avancerede redningsteknikker. Lær i dit eget tempo med Afarer Academy.',
+    'Guider og tutorials for hvert færdighedsniveau — fra det grundlæggende i SUP til avancerede redningsteknikker. Lær i dit eget tempo med OLagoon Academy.',
   'oem.pkg.growing.f2': 'Skræddersyet emballage & etiketter',
   'solutionsByIndustry.sar.cert1': 'SOLAS-kompatible muligheder',
 };

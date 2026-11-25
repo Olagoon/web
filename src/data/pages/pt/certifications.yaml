@@ -1,6 +1,6 @@
 meta:
   title: 'Certificações — CE, ISO 9001 e Conformidade | {SITE}'
-  description: 'Certificações de qualidade da afarer: CE (EN ISO 25649), ISO 9001:2015, BSCI. Conformidade e segurança para um fabricante de SUP inflável.'
+  description: 'Certificações de qualidade da olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Conformidade e segurança para um fabricante de SUP inflável.'
   keywords:
     - 'certificação CE paddle board'
     - 'ISO 9001 SUP'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Certificações e Normas
   title: Certificações de Qualidade<br />& Padrões de Conformidade
-  subtitle: Os produtos afarer são fabricados em conformidade com padrões internacionais de segurança marítima, sistemas de gestão da qualidade e regulamentações ambientais.
+  subtitle: Os produtos olagoon são fabricados em conformidade com padrões internacionais de segurança marítima, sistemas de gestão da qualidade e regulamentações ambientais.
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
     alt: certificações de qualidade e documentação de conformidade de um comerciante
 content_certifications:
   tagline: Nossas Certificações
   title: Qualidade Certificada,<br />Reconhecida Globalmente
-  subtitle: Cada produto afarer é apoiado por certificações que demonstram nosso compromisso com a qualidade, segurança e responsabilidade ambiental.
+  subtitle: Cada produto olagoon é apoiado por certificações que demonstram nosso compromisso com a qualidade, segurança e responsabilidade ambiental.
   items:
     - title: Certificado CE
-      description: Todos os produtos afarer cumprem os requisitos de marcação CE.
+      description: Todos os produtos olagoon cumprem os requisitos de marcação CE.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Nosso SGQ é certificado ISO 9001:2015 para projeto, fabricação e distribuição.
@@ -28,10 +28,10 @@ content_certifications:
       description: Os produtos vendidos no Reino Unido possuem a marcação UKCA.
       icon: tabler:shield
     - title: Conforme BSCI
-      description: afarer é auditado BSCI por práticas éticas de fabricação.
+      description: olagoon é auditado BSCI por práticas éticas de fabricação.
       icon: tabler:heart-handshake
     - title: Conforme REACH
-      description: Todos os materiais usados nos produtos afarer estão em conformidade com o regulamento REACH da UE
+      description: Todos os materiais usados nos produtos olagoon estão em conformidade com o regulamento REACH da UE
       icon: tabler:flask
     - title: Teste de Materiais
       description: Os tecidos são testados para resistência, UV e fissuração a frio. Cada lote é verificado.
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Padrões de Segurança Marítima
   title: Segurança Primeiro<br />— Projetado para Operação Confiável
-  subtitle: Os produtos afarer são projetados e testados para atender padrões internacionais de segurança marítima.
+  subtitle: Os produtos olagoon são projetados e testados para atender padrões internacionais de segurança marítima.
   items:
     - title: EN ISO 25649
       description: Os SUPs infláveis estão em conformidade com a EN ISO 25649 em termos de construção, estabilidade, flutuabilidade e capacidade de carga.

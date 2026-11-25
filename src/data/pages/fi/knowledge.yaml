@@ -1,6 +1,6 @@
 meta:
   title: 'Tietopankki — SUP-oppaat | {SITE}'
-  description: 'afarerin tietopankki: oppaita täytettävistä SUP-laudoista, paddle board -materiaaleista, lautavalinnasta ja alan oivalluksista brändeille ja ammattilaisille.'
+  description: 'olagoonin tietopankki: oppaita täytettävistä SUP-laudoista, paddle board -materiaaleista, lautavalinnasta ja alan oivalluksista brändeille ja ammattilaisille.'
   keywords:
     - 'SUP-tietopankki'
     - 'täytettävä SUP-opas'
@@ -16,7 +16,7 @@ hero:
 clusters:
   tagline: Tietoklusterit
   title: Tutki aiheen mukaan
-  subtitle: Syväsukellukset teknologiaan, turvallisuuteen ja taitoihin jokaisen afarer-tuotteen takana.
+  subtitle: Syväsukellukset teknologiaan, turvallisuuteen ja taitoihin jokaisen olagoon-tuotteen takana.
   items:
     - title: SUP-tietämys
       description: Ensimmäisen laudan valinnasta edistyneisiin retkeilytekniikoihin — kaikki seisomamelonnasta.
@@ -47,7 +47,7 @@ clusters:
         - Korjaustekniikat ilmavatuille tuotteille
         - Sää- ja vesiolosuhteiden tiedostaminen
     - title: Teknologia
-      description: Tekniikka afarer-tuotteiden takana — materiaalit, valmistusmenetelmät ja laadun testaus.
+      description: Tekniikka olagoon-tuotteiden takana — materiaalit, valmistusmenetelmät ja laadun testaus.
       icon: tabler:microscope
       topics:
         - Merilaatuinen PVC-teknologia

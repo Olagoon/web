@@ -1,8 +1,8 @@
 meta:
   title: 'Контакты — запросы о партнёрстве и продукции SUP | {SITE}'
-  description: 'Свяжитесь с afarera по вопросам партнёрства, со-бренда и private label или профессиональных флотов. Производитель надувных SUP-досок и лодок, отвечаем в течение 2 рабочих дней.'
+  description: 'Свяжитесь с olagoona по вопросам партнёрства, со-бренда и private label или профессиональных флотов. Производитель надувных SUP-досок и лодок, отвечаем в течение 2 рабочих дней.'
   keywords:
-    - 'контакты afarera'
+    - 'контакты olagoona'
     - 'запрос дистрибьютора SUP'
     - 'профессиональный поставщик SUP'
     - 'контакты производителя SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Отправьте нам сообщение
   subtitle: По вопросам цен, техническим вопросам или партнёрству — напишите нам. Мы отвечаем в течение одного рабочего дня.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Отправить запрос → Получить смету
   success_message: Спасибо! Ваше сообщение получено. Мы ответим в течение одного рабочего дня.
   error_message: Произошла ошибка при отправке. Попробуйте снова или напишите нам напрямую по электронной почте.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: '+1 279 732 3333'
       icon: tabler:headset
     - title: Электронная почта
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Головной офис
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

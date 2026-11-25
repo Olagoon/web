@@ -1,6 +1,6 @@
 meta:
   title: 'Soluții de afaceri — SUP pentru fiecare companie | {SITE}'
-  description: 'Soluțiile de afaceri afarer: flote SUP pentru stațiuni, cluburi, închirieri, distribuție și mărci proprii. Furnizor profesionist de echipamente nautice pentru B2B.'
+  description: 'Soluțiile de afaceri olagoon: flote SUP pentru stațiuni, cluburi, închirieri, distribuție și mărci proprii. Furnizor profesionist de echipamente nautice pentru B2B.'
   keywords:
     - 'soluții de afaceri SUP'
     - 'furnizor de paddle board-uri gonflabile'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Soluții de afaceri
   title: Soluții SUP<br />Pentru orice afacere
-  subtitle: De la stațiuni la retail, de la operatori de închirieri la distribuitori globali — Afarer oferă soluții SUP complete, adaptate modelului dvs. de afaceri.
+  subtitle: De la stațiuni la retail, de la operatori de închirieri la distribuitori globali — OLagoon oferă soluții SUP complete, adaptate modelului dvs. de afaceri.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Plăci SUP afarer pentru aplicații comerciale și profesionale
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Plăci SUP olagoon pentru aplicații comerciale și profesionale
 stats:
-  title: afarer pe scurt
+  title: olagoon pe scurt
   stats:
     - title: Ani de experiență
       amount: Din 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Construiți-vă propria marcă
-      description: Producție OEM/ODM de SUP integrală — design, prototipare, producție de serie și logistică. Lansați-vă brandul cu Afarer.
+      description: Producție OEM/ODM de SUP integrală — design, prototipare, producție de serie și logistică. Lansați-vă brandul cu OLagoon.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

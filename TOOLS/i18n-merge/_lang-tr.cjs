@@ -6,30 +6,30 @@ module.exports = {
   'academy.learningCenterDesc':
     'Beceri seviyesine göre düzenlenmiş adım adım rehberler ve eğitimler — SUP temellerinden ileri kurtarma tekniklerine.',
   'academy.metaDesc':
-    'Her beceri seviyesi için rehberler ve eğitimler — SUP temellerinden ileri kurtarma tekniklerine. Afarer Academy ile kendi hızınızda öğrenin.',
-  'academy.metaTitle': 'Öğrenme Merkezi — Afarer Academy',
+    'Her beceri seviyesi için rehberler ve eğitimler — SUP temellerinden ileri kurtarma tekniklerine. OLagoon Academy ile kendi hızınızda öğrenin.',
+  'academy.metaTitle': 'Öğrenme Merkezi — OLagoon Academy',
   'academy.skillPaths': 'Beceri Yolları',
   'ai.definition':
-    'Afarer, rekreasyonel ve performans su sporları için şişme SUP tabloları, aksesuarlar ve güvenlik ekipmanları tasarlar ve üretir.',
+    'OLagoon, rekreasyonel ve performans su sporları için şişme SUP tabloları, aksesuarlar ve güvenlik ekipmanları tasarlar ve üretir.',
   'ai.entity':
-    'Afarer, daha uzağa giden, daha sert süren ve sudan daha fazlasını görenler için özgün şişme SUP tabloları üreten performans odaklı bir su sporları markasıdır.',
+    'OLagoon, daha uzağa giden, daha sert süren ve sudan daha fazlasını görenler için özgün şişme SUP tabloları üreten performans odaklı bir su sporları markasıdır.',
   'ai.process':
-    'Afarer tablaları, takviyeli kenarlar ve füzyon lamineli dikişlerle yüksek yoğunluklu drop-stitch çekirdek etrafında inşa edilir. Her tablo paketlenmeden önce basınç testinden ve görsel denetimden geçer. Tasarım ortaklığı konsept, 3D tasarım ve prototiplemeden denetlenen üretime ve küresel lojistiğe kadar uzanır.',
+    'OLagoon tablaları, takviyeli kenarlar ve füzyon lamineli dikişlerle yüksek yoğunluklu drop-stitch çekirdek etrafında inşa edilir. Her tablo paketlenmeden önce basınç testinden ve görsel denetimden geçer. Tasarım ortaklığı konsept, 3D tasarım ve prototiplemeden denetlenen üretime ve küresel lojistiğe kadar uzanır.',
   'answerCenter.subtitle':
-    'Ürünlerimiz, teknolojimiz ve su sporları hakkında anında yanıtlar — afarer bilgi tabanı destekli.',
+    'Ürünlerimiz, teknolojimiz ve su sporları hakkında anında yanıtlar — olagoon bilgi tabanı destekli.',
   'b2bSolutionsMatrix.metaDesc':
-    '24 müşteri tipini kapsayan eksiksiz Afarer B2B müşteri çözümleri matrisi — işletmeniz için doğru çözümü bulun.',
+    '24 müşteri tipini kapsayan eksiksiz OLagoon B2B müşteri çözümleri matrisi — işletmeniz için doğru çözümü bulun.',
   'buyerCenter.ribs': 'Katı Şişme Botlar (RIB)',
   'buyerCenter.sizeGuideDesc': 'Boyutlar, hacimler ve sürücü ağırlığı aralıkları rehberimizle kendi boyutunuzu bulun.',
   'compare.backToAll': 'Tüm Karşılaştırmalar',
   'compare.category': 'Kategori',
   'compare.desc':
-    'Tüm Afarer ürünlerini yan yana karşılaştırın. İhtiyaçlarınıza uygun tabloyu, botu veya aksesuarı bulun.',
+    'Tüm OLagoon ürünlerini yan yana karşılaştırın. İhtiyaçlarınıza uygun tabloyu, botu veya aksesuarı bulun.',
   'compare.length': 'Uzunluk',
   'compare.material': 'Malzeme',
   'compare.maxLoad': 'Maksimum Yük',
   'compare.singleVsMulti.aiBlock':
-    'Tek hücreli ve çok hücreli şişme SUP tablolarının 11 temel faktör açısından karşılaştırması: güvenlik, hücre sayısı, yüzdürme yedekliliği, ağırlık, paket boyutu, kurulum süresi, sertlik, maliyet, dayanıklılık, tamir kolaylığı ve en uygun kullanım alanları. Çok hücreli tablolar (3–5 bağımsız hücre) kritik yüzdürme yedekliliği sağlar. Tüm afarer SUP tabloları çok hücreli drop-stitch yapısına sahiptir.',
+    'Tek hücreli ve çok hücreli şişme SUP tablolarının 11 temel faktör açısından karşılaştırması: güvenlik, hücre sayısı, yüzdürme yedekliliği, ağırlık, paket boyutu, kurulum süresi, sertlik, maliyet, dayanıklılık, tamir kolaylığı ve en uygun kullanım alanları. Çok hücreli tablolar (3–5 bağımsız hücre) kritik yüzdürme yedekliliği sağlar. Tüm olagoon SUP tabloları çok hücreli drop-stitch yapısına sahiptir.',
   'compare.singleVsMulti.col1Title': 'Tek Hücre',
   'compare.singleVsMulti.col2Title': 'Çok Hücre (3+)',
   'compare.singleVsMulti.cta': "Çok Hücreli SUP'ları Gör",
@@ -73,7 +73,7 @@ module.exports = {
   'compare.singleVsMulti.r9a': 'Orta. Ana hücre hasar görürse tek arıza noktası.',
   'compare.singleVsMulti.r9b': 'Üstün. Yedekli hücreler zorlu koşullarda arızaya dayanıklı kullanım sağlar.',
   'compare.singleVsMulti.recDesc':
-    'Sığ su derinliğini aşan herkes için — ve özellikle ticari işletmeciler için — <strong>çok hücreli SUP</strong> tek sorumlu seçenektir. Tüm afarer SUP tabloları, maksimum güvenlik ve yapısal sertlik için 3+ bağımsız hücreye sahip çok hücreli drop-stitch yapısına sahiptir. Tam koruma için tablonuzu her zaman CE sertifikalı can yeleğiyle birlikte kullanın.',
+    'Sığ su derinliğini aşan herkes için — ve özellikle ticari işletmeciler için — <strong>çok hücreli SUP</strong> tek sorumlu seçenektir. Tüm olagoon SUP tabloları, maksimum güvenlik ve yapısal sertlik için 3+ bağımsız hücreye sahip çok hücreli drop-stitch yapısına sahiptir. Tam koruma için tablonuzu her zaman CE sertifikalı can yeleğiyle birlikte kullanın.',
   'compare.singleVsMulti.recTitle': 'Özet',
   'compare.singleVsMulti.safetyCta': 'Güvenlik Rehberi',
   'compare.singleVsMulti.short': 'Tek vs Çok Hücre',
@@ -89,15 +89,15 @@ module.exports = {
     'Kiralama işletmecileri, tatil köyleri ve kürek kulüpleri için çok hücreli tablolar sorumluluğu ve ekipman duruş süresini azaltır. Küçük bir delinme artık tablonun tamamen kullanılamaz olması demek değildir — tablo gün sonunda tamire kadar kullanılabilir kalır.',
   'compare.singleVsMulti.whyMattersTitle': 'Hücre Sayısı Neden Önemli',
   'compare.specification': 'Teknik Özellikler',
-  'compare.title': 'Ürün Karşılaştırması — Afarer',
+  'compare.title': 'Ürün Karşılaştırması — OLagoon',
   'compare.weight': 'Ağırlık',
   'compare.width': 'Genişlik',
   'engineeringPerfection.desc':
-    'Afarer mühendislik felsefesi: hassas üretim, premium malzeme seçimi, titiz kalite kontrol ve gezi, balıkçılık, yoga ve rekreasyon şişme SUP tabloları için segmente özel tasarım.',
+    'OLagoon mühendislik felsefesi: hassas üretim, premium malzeme seçimi, titiz kalite kontrol ve gezi, balıkçılık, yoga ve rekreasyon şişme SUP tabloları için segmente özel tasarım.',
   'engineeringPerfection.s3': 'Dingiler ve Tender Botlar',
-  'engineeringTeam.about': 'Afarer Hakkında',
+  'engineeringTeam.about': 'OLagoon Hakkında',
   'engineeringTeam.desc':
-    "Afarer'in 25+ Ar-Ge mühendisi ve üretim uzmanı. Drop-stitch çekirdek teknolojisi, PVC/Hypalon imalatı, SUP gövde tasarımı ve CE uygunluk mühendisliğinde uzmanlık. Qingdao, Çin merkezli.",
+    "OLagoon'in 25+ Ar-Ge mühendisi ve üretim uzmanı. Drop-stitch çekirdek teknolojisi, PVC/Hypalon imalatı, SUP gövde tasarımı ve CE uygunluk mühendisliğinde uzmanlık. Qingdao, Çin merkezli.",
   'engineeringTeam.join': 'Mühendislik Ekibine Katılın',
   'engineeringTeam.joinDesc':
     'Malzeme bilimi, ürün tasarımı ve kalite mühendisliği alanlarında yetenekli mühendisler arıyoruz.',
@@ -154,7 +154,7 @@ module.exports = {
   'factory.testingEquipment': 'Test Ekipmanları',
   'factory.tradeTerms': 'Üretim ve Ticaret Koşulları',
   'factory.tradeTermsDesc':
-    'Afarer, Aquafarer LLC (ABD) tarafından işletilen bir markadır — ISO ve CE sertifikalı, 10+ yıl ihracat deneyimli.',
+    'OLagoon, Olagoon LLC (ABD) tarafından işletilen bir markadır — ISO ve CE sertifikalı, 10+ yıl ihracat deneyimli.',
   'factory.whatWeOffer': 'Sunduklarımız',
   'faq.searchPlaceholder': 'SSS arama...',
   'guides.audience': 'Hedef Kitle',
@@ -165,7 +165,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Doğrulanabilir Güvenlik ve Kalite Standartları',
   'home.brand.desc':
-    'Her Afarer tablosu sudan başlar — akıntılarından, koşullarından ve üzerinde süren insanlardan. Yüksek yoğunluklu drop-stitch çekirdekler, takviyeli kenarlar, stabilite ve kayış için ayarlanmış formlar, ardından tablo tablo basınç testi.',
+    'Her OLagoon tablosu sudan başlar — akıntılarından, koşullarından ve üzerinde süren insanlardan. Yüksek yoğunluklu drop-stitch çekirdekler, takviyeli kenarlar, stabilite ve kayış için ayarlanmış formlar, ardından tablo tablo basınç testi.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Drop-Stitch Çekirdek Sertliği',
   'home.brand.feature1': 'Güverte',
@@ -176,8 +176,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Drop-Stitch Teknolojisi',
   'home.brand.feature4': 'Kenar',
   'home.brand.feature4.desc': 'Takviyeli Füzyon Katmanı',
-  'home.brand.tagline': 'Afarer Farkı',
-  'home.brand.title': 'Afarer Neden<br />Farklı Sürer',
+  'home.brand.tagline': 'OLagoon Farkı',
+  'home.brand.title': 'OLagoon Neden<br />Farklı Sürer',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Tablo Tablo Basınç Testinden Geçer',
   'home.brand.years': '10+',
@@ -186,10 +186,10 @@ module.exports = {
   'home.community.gallery': 'Galeri',
   'home.community.gallery.boats': 'Şişme Botlar',
   'home.community.gallery.boats.desc':
-    'Ailelerin ve kaşiflerin göllerde ve kıyı sularında Afarer şişme botlarla keyifli anları.',
+    'Ailelerin ve kaşiflerin göllerde ve kıyı sularında OLagoon şişme botlarla keyifli anları.',
   'home.community.gallery.sup': 'SUP Tabloları',
   'home.community.gallery.sup.desc':
-    'Kürekçilerin Afarer şişme SUP tablolarıyla gölleri, nehirleri ve kıyı şeritlerini keşfi.',
+    'Kürekçilerin OLagoon şişme SUP tablolarıyla gölleri, nehirleri ve kıyı şeritlerini keşfi.',
   'home.community.gallery.title': 'Müşteri Maceraları',
   'home.community.gallery.viewAll': 'Tüm Galeriyi Gör',
   'home.engineering.design': 'Ürün Tasarımı',
@@ -266,25 +266,25 @@ module.exports = {
   'home.socialProof.title': 'Gerçek suda kullanıldı, güvenildi',
   'home.socialProof.years': 'Yıl Deneyim',
   'home.tldr.summary':
-    'afarer, premium şişme SUP tabloları, botlar ve aksesuarlar tasarlar ve üretir — CE sertifikalı ve tek tek basınç testinden geçmiş.',
-  'home.why.afarer.contact': 'Bize Ulaşın →',
-  'home.why.afarer.point1':
+    'olagoon, premium şişme SUP tabloları, botlar ve aksesuarlar tasarlar ve üretir — CE sertifikalı ve tek tek basınç testinden geçmiş.',
+  'home.why.olagoon.contact': 'Bize Ulaşın →',
+  'home.why.olagoon.point1':
     'Gerektiğinde sert — basınç altında sertliğini koruyan yüksek yoğunluklu drop-stitch çekirdek ve takviyeli kenarlar.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Hassas üretim — füzyon lamineli dikişler ve hava sızdırmaz bütünlük, tablo tablo basınç testi.',
-  'home.why.afarer.point3': 'Suda doğrulanmış — stabilite, kayış ve kontrol için gerçek suda ayarlanmış.',
-  'home.why.afarer.quality': 'Güvenebileceğiniz Kalite',
-  'home.why.afarer.subtitle': 'Hassas üretilmiş. Acımasızca test edilmiş. Garanti altında.',
-  'home.why.afarer.tagline': 'Neden afarer',
-  'home.why.afarer.title': 'Güvenebileceğiniz Kalite',
-  'home.why.afarer.viewMore': 'Daha Fazlasını Gör →',
-  'home.why.afarer.warranty': 'Garanti ve Destek',
-  'home.why.afarer.warranty.point1': 'Her tabloda net garanti koşulları ve hızlı satış sonrası destek.',
-  'home.why.afarer.warranty.point2': 'Hızlı yanıt veren özel satış sonrası ekip.',
-  'home.why.afarer.warranty.point3': 'Kulüpler, perakendeciler ve marka ortakları için tam tedarik zinciri şeffaflığı.',
+  'home.why.olagoon.point3': 'Suda doğrulanmış — stabilite, kayış ve kontrol için gerçek suda ayarlanmış.',
+  'home.why.olagoon.quality': 'Güvenebileceğiniz Kalite',
+  'home.why.olagoon.subtitle': 'Hassas üretilmiş. Acımasızca test edilmiş. Garanti altında.',
+  'home.why.olagoon.tagline': 'Neden olagoon',
+  'home.why.olagoon.title': 'Güvenebileceğiniz Kalite',
+  'home.why.olagoon.viewMore': 'Daha Fazlasını Gör →',
+  'home.why.olagoon.warranty': 'Garanti ve Destek',
+  'home.why.olagoon.warranty.point1': 'Her tabloda net garanti koşulları ve hızlı satış sonrası destek.',
+  'home.why.olagoon.warranty.point2': 'Hızlı yanıt veren özel satış sonrası ekip.',
+  'home.why.olagoon.warranty.point3': 'Kulüpler, perakendeciler ve marka ortakları için tam tedarik zinciri şeffaflığı.',
   'nav.home': 'Ana Sayfa',
   'oem.desc':
-    'Afarer — şişme SUP tablolarının önde gelen OEM/ODM üreticisi. CE sertifikalı. Özel kalıp, özel etiket, toplu toptan satış. Fikirden pazara 16 haftada.',
+    'OLagoon — şişme SUP tablolarının önde gelen OEM/ODM üreticisi. CE sertifikalı. Özel kalıp, özel etiket, toplu toptan satış. Fikirden pazara 16 haftada.',
   'oem.estimate.countries': 'Teslimat referansı olan ülkeler',
   'oem.estimate.cta': 'Teklif İsteyin',
   'oem.estimate.leadWeeks': "Brief'ten sevkiyata hafta",
@@ -295,7 +295,7 @@ module.exports = {
   'oem.faq.guide': 'OEM Alıcı Rehberini Okuyun',
   'oem.faq.subtitle': 'OEM ekibimiz başlamanıza yardımcı olmaya hazır.',
   'oem.faq.title': 'Hâlâ Sorunuz mu Var?',
-  'oem.heading': 'Sizin SUP Markanız.<br />Afarer Tarafından Üretildi.',
+  'oem.heading': 'Sizin SUP Markanız.<br />OLagoon Tarafından Üretildi.',
   'oem.moq': 'Standart modeller için MOQ 50 adet. Özel kalıp: 200+ adet. FOB Qingdao.',
   'oem.packages.cta': 'Teklif Alın',
   'oem.packages.leadtime': 'Teslim Süresi',
@@ -359,8 +359,8 @@ module.exports = {
   'oem.why.support': 'Özel Hesap Yönetimi',
   'oem.why.support.desc':
     "Brief'ten teslimata tek iletişim noktası. Süreç boyunca düzenli üretim güncellemeleri, fotoğraflar ve şeffaf iletişim.",
-  'oem.why.tagline': 'Neden Afarer',
-  'oem.why.title': 'Neden Afarer ile Ortak Olmalı?',
+  'oem.why.tagline': 'Neden OLagoon',
+  'oem.why.title': 'Neden OLagoon ile Ortak Olmalı?',
   'packages.popular': 'En Popüler',
   'product.bestFor': 'En Uygun',
   'product.commercialScenarios': 'Ticari Senaryolar',
@@ -373,11 +373,11 @@ module.exports = {
   'product.related': 'Öne Çıkan Ürünler',
   'product.view': 'Ürünü Gör',
   'resort.caseStudy': 'Gerçek Sonuçlar',
-  'resort.caseStudy.sub': 'Afarer ile çalışmak hakkında tatil köyü işletmecilerinin görüşleri.',
+  'resort.caseStudy.sub': 'OLagoon ile çalışmak hakkında tatil köyü işletmecilerinin görüşleri.',
   'retail.discount': 'Toptan İndirim',
   'retail.download': 'İndir',
   'solutionsByIndustry.aiBlock':
-    'Afarer su sporları ekipmanları için sektörel çözümler. Altı dikey sektör: Arama Kurtarma, Afet Yardımı ve İnsani Destek, Ticari Deniz Operasyonları, Savunma ve Kamu, Konaklama ve Turizm, Balıkçılık ve Akuakültür. Tüm çözümler CE sertifikalı ve ISO üretilmiştir.',
+    'OLagoon su sporları ekipmanları için sektörel çözümler. Altı dikey sektör: Arama Kurtarma, Afet Yardımı ve İnsani Destek, Ticari Deniz Operasyonları, Savunma ve Kamu, Konaklama ve Turizm, Balıkçılık ve Akuakültür. Tüm çözümler CE sertifikalı ve ISO üretilmiştir.',
   'solutionsByIndustry.commercial.cert1': 'CE ticari tekne',
   'solutionsByIndustry.commercial.craft1': 'Ticari SUP tabloları',
   'solutionsByIndustry.commercial.craft2': 'Dalış destek tabloları',
@@ -400,7 +400,7 @@ module.exports = {
     'Keşif, birlik taşıma, kıyı devriyesi ve özel operasyonlar için askeri sınıf su ekipmanları.',
   'solutionsByIndustry.defense.name': 'Savunma ve Kamu',
   'solutionsByIndustry.desc':
-    'Sektörünüz için doğru su sporları çözümünü bulun. Kamu, ticari, rekreasyon, endüstri — Afarer her sektör için CE sertifikalı ekipman üretir.',
+    'Sektörünüz için doğru su sporları çözümünü bulun. Kamu, ticari, rekreasyon, endüstri — OLagoon her sektör için CE sertifikalı ekipman üretir.',
   'solutionsByIndustry.disaster.cert1': 'CE sertifikalı',
   'solutionsByIndustry.disaster.cert2': 'UV/zorlu çevre testli',
   'solutionsByIndustry.disaster.craft1': 'Ağır hizmet şişme tablolar',
@@ -410,7 +410,7 @@ module.exports = {
     'Afet bölgelerinde acil müdahale, tıbbi tahliye, ikmal taşıma ve geçici köprü feribotları için dayanıklı su ekipmanları.',
   'solutionsByIndustry.disaster.name': 'Afet Yardımı ve İnsani Destek',
   'solutionsByIndustry.expSub':
-    'Afarer ekipmanlarının farklı sektörlerde nasıl performans gösterdiğine dair gerçek örnekler.',
+    'OLagoon ekipmanlarının farklı sektörlerde nasıl performans gösterdiğine dair gerçek örnekler.',
   'solutionsByIndustry.expTitle': 'Sektör Çözümleri Uygulamada',
   'solutionsByIndustry.fishing.cert1': 'CE rekreasyonel',
   'solutionsByIndustry.fishing.cert2': 'Gıdaya uygun malzeme seçenekleri',
@@ -431,7 +431,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Daha fazla bilgi',
   'solutionsByIndustry.recommendedCraft': 'Önerilen Araçlar',
   'solutionsByIndustry.rel1': 'Kullanım Amacına Göre Çözümler',
-  'solutionsByIndustry.rel1desc': 'Belirli kullanım amacınızı doğru Afarer çözümüyle eşleştirin.',
+  'solutionsByIndustry.rel1desc': 'Belirli kullanım amacınızı doğru OLagoon çözümüyle eşleştirin.',
   'solutionsByIndustry.rel1label': 'Karar Aracı',
   'solutionsByIndustry.rel2': 'Ticari Çalışma Botları',
   'solutionsByIndustry.rel2desc': 'Günlük ticari deniz operasyonları için dayanıklı ekipman.',
@@ -454,19 +454,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Arama Kurtarma',
   'solutionsByIndustry.story1.context': 'Kıyı sel kurtarma, Güneydoğu Asya, 2024',
   'solutionsByIndustry.story1.narrative':
-    "Şiddetli bir kıyı seli sırasında bir belediye arama kurtarma ekibi, tahliye operasyonları için Afarer kurtarma SUP'larını konuşlandırdı. Tabloların sığ su çekimi, daha büyük teknelerin ulaşamadığı sular altındaki mahallelere erişim sağladı. Enkaz ve 14 saat kesintisiz kullanıma rağmen kumaşta aşınma belirtisi görülmedi.",
+    "Şiddetli bir kıyı seli sırasında bir belediye arama kurtarma ekibi, tahliye operasyonları için OLagoon kurtarma SUP'larını konuşlandırdı. Tabloların sığ su çekimi, daha büyük teknelerin ulaşamadığı sular altındaki mahallelere erişim sağladı. Enkaz ve 14 saat kesintisiz kullanıma rağmen kumaşta aşınma belirtisi görülmedi.",
   'solutionsByIndustry.story1.quote':
-    "Kıyı seli sırasında iki Afarer kurtarma SUP'u konuşlandırdık — alçak su seviyesinde enkaz dolu sularda gezinebilen tek tablolardı.",
+    "Kıyı seli sırasında iki OLagoon kurtarma SUP'u konuşlandırdık — alçak su seviyesinde enkaz dolu sularda gezinebilen tek tablolardı.",
   'solutionsByIndustry.story1.source': 'Belediye Arama Kurtarma Ekip Lideri',
   'solutionsByIndustry.story2.context': 'Dalış charter operasyonları, Maldivler, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    "Maldivler'deki bir dalış charter işletmesi günlük dalış desteği için Afarer ekipmanı kullanıyor. 600+ operasyon gününden sonra tablolarda belirgin UV bozulması ve dikiş ayrılması yok.",
+    "Maldivler'deki bir dalış charter işletmesi günlük dalış desteği için OLagoon ekipmanı kullanıyor. 600+ operasyon gününden sonra tablolarda belirgin UV bozulması ve dikiş ayrılması yok.",
   'solutionsByIndustry.story2.quote':
     'Dalış tekmemiz haftada 6 gün, yılda 50 hafta çalışıyor. İki yıl sonra Hypalon kumaş hâlâ yeni gibi görünüyor.',
   'solutionsByIndustry.story2.source': 'Charter Şirketi Sahibi',
   'solutionsByIndustry.title': 'Sektörel Çözümler — Her Sektör İçin Su Sporları Ekipmanları',
   'solutionsByUseCase.aiBlock':
-    'afarer su sporları ekipmanları için kullanım amaçlı çözümler. Sekiz senaryo: su kurtarma, kiralama filoları, özel markalandırma, devriye, insani yardım, dalış desteği, tablo imalatı ve kişisel kullanım. Tüm çözümler CE sertifikalı ve ISO üretilmiştir.',
+    'olagoon su sporları ekipmanları için kullanım amaçlı çözümler. Sekiz senaryo: su kurtarma, kiralama filoları, özel markalandırma, devriye, insani yardım, dalış desteği, tablo imalatı ve kişisel kullanım. Tüm çözümler CE sertifikalı ve ISO üretilmiştir.',
   'solutionsByUseCase.answer1':
     'Su kurtarma ve acil müdahale için tasarlanmış ağır hizmet şişme kurtarma tabloları ve botları. Hızlı konuşlanma, stabil platformlar ve profesyonel ekipler için CE sertifikası.',
   'solutionsByUseCase.answer2':
@@ -479,23 +479,23 @@ module.exports = {
     'Günlük deniz operasyonları için ticari çalışma botları — dalış desteği, ekipman taşıma ve mürettebat görevleri. 2 ila 12 kişilik seçeneklerle dayanıklı yapım.',
   'solutionsByUseCase.rel2desc': 'Günlük ticari deniz operasyonları için dayanıklı ekipman.',
   'solutionsByUseCase.story1.narrative':
-    "Şiddetli bir kıyı seli sırasında bir belediye arama kurtarma ekibi, tahliye operasyonları için afarer kurtarma SUP'larını konuşlandırdı. Tabloların sığ su çekimi, daha büyük araçların ulaşamadığı sular altındaki mahallelere erişim sağladı ve ekipler, günlerce kesintisiz kullanımdan sonra önemli aşınma bildirmedi.",
+    "Şiddetli bir kıyı seli sırasında bir belediye arama kurtarma ekibi, tahliye operasyonları için olagoon kurtarma SUP'larını konuşlandırdı. Tabloların sığ su çekimi, daha büyük araçların ulaşamadığı sular altındaki mahallelere erişim sağladı ve ekipler, günlerce kesintisiz kullanımdan sonra önemli aşınma bildirmedi.",
   'solutionsByUseCase.story1.quote':
-    "Kıyı seli sırasında iki afarer kurtarma SUP'u konuşlandırdık — sular altındaki mahallelerdeki sakinlere ulaşabilen tek tablolardı.",
+    "Kıyı seli sırasında iki olagoon kurtarma SUP'u konuşlandırdık — sular altındaki mahallelerdeki sakinlere ulaşabilen tek tablolardı.",
   'solutionsByUseCase.story2.narrative':
-    "Norveçli bir balık çiftliği, 2023'ten beri denetimler, ekipman taşıma ve dalış ekibi güvenliği için bir afarer çalışma botu işletiyor. Soğuk fiyort koşullarında iki yıldır yıl boyu kesintisiz işletiyor; yapısal onarım yok.",
+    "Norveçli bir balık çiftliği, 2023'ten beri denetimler, ekipman taşıma ve dalış ekibi güvenliği için bir olagoon çalışma botu işletiyor. Soğuk fiyort koşullarında iki yıldır yıl boyu kesintisiz işletiyor; yapısal onarım yok.",
   'useCase.fishing.desc':
     "Göllerde, nehirlerde ve kıyı sularında balıkçılar için oltalık tutucuları, geniş stabil güverteler ve demirme noktalarıyla balıkçılık SUP'ları ve aksesuarlar.",
   'useCase.searchAndRescue.desc':
     'Su kurtarma, sel müdahalesi ve kıyı devriyesi için hızla şişirilen kurtarma ekipmanları.',
   'useCase.tourismRecreation.desc':
     'Tur operatörleri, tatil köyleri ve su sporları merkezleri için takviyeli filo sınıfı SUP tablolar ve botlar.',
-  'nav.exploreAfarer': "Afarer'i Keşfedin",
+  'nav.exploreOLagoon': "OLagoon'i Keşfedin",
   'nav.technologyMaterials': 'Teknoloji ve Malzemeler',
   'nav.qualitySafety': 'Kalite ve Güvenlik',
   'nav.storiesGuides': 'Öyküler ve Rehberler',
   'nav.coBrand': 'Ortak Marka',
-  'nav.coBrandWithAfarer': 'Afarer ile Ortak Marka',
+  'nav.coBrandWithOLagoon': 'OLagoon ile Ortak Marka',
   'nav.countryPartners': 'Ülke Ortakları',
   'nav.findDistributor': 'Distribütör Bulun',
   'nav.becomeCountryPartner': 'Ülke Ortağı Olun',

@@ -1,6 +1,6 @@
 meta:
   title: 'Sertifikalar — CE, ISO 9001 ve uygunluk | {SITE}'
-  description: 'afarer kalite sertifikaları: CE (EN ISO 25649), ISO 9001:2015, BSCI. Şişme SUP üreticisi için uygunluk ve güvenlik.'
+  description: 'olagoon kalite sertifikaları: CE (EN ISO 25649), ISO 9001:2015, BSCI. Şişme SUP üreticisi için uygunluk ve güvenlik.'
   keywords:
     - 'CE sertifikası paddle board'
     - 'ISO 9001 paddle board'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Sertifikalar ve Standartlar
   title: Kalite Sertifikaları<br />& Uyumluluk Standartları
-  subtitle: afarer SUP üretimi, uluslararası deniz güvenliği standartlarına, kalite yönetim sistemlerine ve çevre düzenlemelerine göre sertifikalıdır — CE, ISO 9001, UKCA, BSCI ve REACH.
+  subtitle: olagoon SUP üretimi, uluslararası deniz güvenliği standartlarına, kalite yönetim sistemlerine ve çevre düzenlemelerine göre sertifikalıdır — CE, ISO 9001, UKCA, BSCI ve REACH.
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: afarer kalite sertifikaları ve uyumluluk dokümantasyonu
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: olagoon kalite sertifikaları ve uyumluluk dokümantasyonu
 content_certifications:
   tagline: Sertifikalarımız
   title: Sertifikalı Kalite,<br />Dünya çapında Tanınmış
-  subtitle: Her afarer ürünü kalite, güvenlik ve çevre sorumluluğuna olan bağlılığımızı gösteren sertifikalarla desteklenmektedir.
+  subtitle: Her olagoon ürünü kalite, güvenlik ve çevre sorumluluğuna olan bağlılığımızı gösteren sertifikalarla desteklenmektedir.
   items:
     - title: CE Sertifikalı
-      description: Tüm afarer ürünleri, eğlence amaçlı deniz taşıtlarına yönelik Avrupa CE işaretleme gerekliliklerine uygundur ve güvenlik, sağlık ve çevre koruma standartlarının karşılanmasını sağlar.
+      description: Tüm olagoon ürünleri, eğlence amaçlı deniz taşıtlarına yönelik Avrupa CE işaretleme gerekliliklerine uygundur ve güvenlik, sağlık ve çevre koruma standartlarının karşılanmasını sağlar.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Kalite yönetim sistemimiz ISO 9001:2015 sertifikalıdır ve şişirilebilir deniz taşıtları ve denizcilik ekipmanlarının tasarımını, üretimini ve dağıtımını kapsar.
@@ -28,10 +28,10 @@ content_certifications:
       description: Birleşik Krallık pazarında satılan ürünler, denizcilik ekipmanı ve kişisel deniz taşıtlarına ilişkin Birleşik Krallık düzenlemelerine uygunluğu doğrulayan UKCA işaretini taşır.
       icon: tabler:shield
     - title: BSCI Uyumlu
-      description: afarer, BSCI (İşletme Sosyal Uyumluluk Girişimi) tarafından denetlenmiş olup, etik üretim uygulamaları, adil çalışma koşulları ve tedarik zinciri sorumluluğunu kanıtlamaktadır.
+      description: olagoon, BSCI (İşletme Sosyal Uyumluluk Girişimi) tarafından denetlenmiş olup, etik üretim uygulamaları, adil çalışma koşulları ve tedarik zinciri sorumluluğunu kanıtlamaktadır.
       icon: tabler:heart-handshake
     - title: REACH Uyumlu
-      description: afarer ürünlerinde kullanılan tüm malzemeler, kimyasal güvenlik açısından AB REACH düzenlemelerine uygundur ve PVC, EVA veya bileşenlerimizde kısıtlanmış maddelerin bulunmadığını garanti eder.
+      description: olagoon ürünlerinde kullanılan tüm malzemeler, kimyasal güvenlik açısından AB REACH düzenlemelerine uygundur ve PVC, EVA veya bileşenlerimizde kısıtlanmış maddelerin bulunmadığını garanti eder.
       icon: tabler:flask
     - title: Malzeme Testleri
       description: Kumaşlar çekme mukavemeti, yırtılma direnci, UV bozulması ve soğukta çatlama performansı açısından test edilir. Her üretim partisinden numune alınır ve doğrulanır.
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Deniz Güvenliği Standartları
   title: Önce Güvenlik<br />— Güvenilir Çalışma için Tasarlandı
-  subtitle: afarer ürünleri, ticari ve eğlence amaçlı kullanıma yönelik uluslararası deniz güvenliği standartlarını karşılayacak şekilde tasarlanmış ve test edilmiştir.
+  subtitle: olagoon ürünleri, ticari ve eğlence amaçlı kullanıma yönelik uluslararası deniz güvenliği standartlarını karşılayacak şekilde tasarlanmış ve test edilmiştir.
   items:
     - title: EN ISO 25649
       description: Şişme SUP'lar inşaat, stabilite, yüzdürme ve yük kapasitesi açısından EN ISO 25649 standartlarına uygundur.

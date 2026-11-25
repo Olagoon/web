@@ -1,6 +1,6 @@
 meta:
   title: 'Ortaklar — Dağıtım ve toptan satış | {SITE}'
-  description: 'afarer ortağı olun: distribütör ağları, toptan fiyatlar, OEM/özel etiket programları ve dünya genelindeki paddle board şirketleri için destek.'
+  description: 'olagoon ortağı olun: distribütör ağları, toptan fiyatlar, OEM/özel etiket programları ve dünya genelindeki paddle board şirketleri için destek.'
   keywords:
     - 'SUP dağıtım ortağı'
     - 'paddle board toptan'
@@ -9,14 +9,14 @@ meta:
 hero:
   tagline: Ortaklar ve Dağıtım
   title: Daha Uzak Bir İş Ortağı Olun<br />— Küresel Dağıtım Ağı
-  subtitle: Afarer'in küresel ortak ağına katılın. 50'den fazla ülkede denizcilik distribütörleri, kürek sporları bayileri, ekipman perakendecileri ve marka ortaklarıyla çalışıyoruz.
+  subtitle: OLagoon'in küresel ortak ağına katılın. 50'den fazla ülkede denizcilik distribütörleri, kürek sporları bayileri, ekipman perakendecileri ve marka ortaklarıyla çalışıyoruz.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: afarer küresel partner ve distribütör ağı
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: olagoon küresel partner ve distribütör ağı
 content_programs:
   tagline: Ortak Programları
   title: İş Ortağı Programları<br />Büyümeye Yönelik Geliştirildi
-  subtitle: İster distribütör, ister bayi, ister marka ortağı olun, afarer işinizi desteklemek için tasarlanmış programlar sunar.
+  subtitle: İster distribütör, ister bayi, ister marka ortağı olun, olagoon işinizi desteklemek için tasarlanmış programlar sunar.
   columns: 3
   items:
     - title: Distributor Programı

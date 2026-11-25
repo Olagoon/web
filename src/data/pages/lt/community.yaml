@@ -1,6 +1,6 @@
 meta:
   title: 'Bendruomenė — SUP nuotykiai ir irklavimo sportas | {SITE}'
-  description: 'afarer bendruomenė: irklavimo klubai, SUP renginiai, jūriniai nuotykiai ir pripučiamų irklavimo lentų stovint entuziastų istorijos.'
+  description: 'olagoon bendruomenė: irklavimo klubai, SUP renginiai, jūriniai nuotykiai ir pripučiamų irklavimo lentų stovint entuziastų istorijos.'
   keywords:
     - 'irkluotojų bendruomenė'
     - 'sup klubas'
@@ -8,68 +8,68 @@ meta:
     - 'sup nuotykiai'
 hero:
   tagline: 'Bendruomenė'
-  title: 'afarer bendruomenė'
+  title: 'olagoon bendruomenė'
   subtitle: |
     Tikri žmonės, tikras vanduo, tikri nuotykiai. Nuo savaitgalio irkluotojų iki<br />
     profesionalių operatorių — sužinokite, kaip mūsų bendruomenė tyrinėja pasaulį vandenyje.
-  image: 'https://assets.afarer.com/images/afarer/team/afarer-paddle-girls-team.webp'
-  imageAlt: 'afarer bendruomenė irkluojanti ramiame vandenyje'
+  image: 'https://assets.olagoon.com/images/olagoon/team/olagoon-paddle-girls-team.webp'
+  imageAlt: 'olagoon bendruomenė irkluojanti ramiame vandenyje'
 
 stats:
   title: 'Bendruomenė skaičiais'
   stats:
     - title: '40+'
-      description: 'Šalių su afarer klientais'
+      description: 'Šalių su olagoon klientais'
     - title: '12+'
       description: 'Bendruomenės nuotykių metų'
     - title: '10,000+'
       description: 'Laimingų irkluotojų visame pasaulyje'
     - title: '98%'
-      description: 'Rekomenduotų afarer'
+      description: 'Rekomenduotų olagoon'
 
 stories:
   tagline: 'Tyrinėtojų istorijos'
   title: 'Tikri nuotykiai iš tikrų žmonių'
-  subtitle: 'Paklausykite irkluotojų, šeimų ir profesionalų, kurie vandenyje naudoja afarer įrangą.'
+  subtitle: 'Paklausykite irkluotojų, šeimų ir profesionalų, kurie vandenyje naudoja olagoon įrangą.'
   items:
     - name: 'Sarah ir Mike'
       title: 'SUP Explorer 11 savininkai, Kanada'
       content: 'Savo Explorer 11 lentes pasiėmėme savaitės kelionėn per Algonquin parką. Jos puikiai atlaikė perkėlas ir ežerų kirtojimus. „Drop-Stitch“ konstrukcija reiškė, kad galėjome pripūsti iki 15 PSI ir gauti kietos lentos našumą iš sulankstomos lentos.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp'
       location: 'Algonquin parkas, Kanada'
     - name: 'Carlos R.'
       title: 'Cheetah Surge raitelis, Ispanija'
       content: 'Cheetah Surge yra mano pirmasis pasirinkimas pakrančių plaukiojimams. Ryškus dizainas paplūdimyje atkreipia dėmesį, o stabilumas suteikia man pasitikėjimo lengvame bangavime. Ji valdoma puikiai, nesvarbu, ar turizmo reisu, ar tiesiog mėgaujuosi saulėlydžiu.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp'
       location: 'Costa Brava, Ispanija'
     - name: 'Lina ir šeima'
       title: 'Flowing Lotus irkluotojai, Švedija'
       content: 'Savaitgalio šeimos nuotykiai salyne. Flowing Lotus pakankamai stabili, kad ant jos galėtų stovėti mano dukra, kol aš irkluoju. Pripučiama per maždaug 10 minučių — priekabos nereikia, tik tyras šeimos džiaugsmas vandenyje.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-flowing-lotus-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp'
       location: 'Stokholmo salynas, Švedija'
     - name: 'Lt. Cmdr. Andres'
       title: 'Ocean Voyager tyrinėtojas, Filipinai'
       content: 'Savo Ocean Voyager naudoju ilgo nuotolio pakrančių turams aplink Palavaną. Po mėnesių kasdienio naudojimo atogrąžų sąlygomis lenta vis dar veikia kaip nauja. Turizmo forma kerta bangavimą, kuris sustabdytų silpnesnes lentas.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
       location: 'Palavanas, Filipinai'
     - name: 'Emma T.'
       title: 'Tropical Breeze pirmą kartą išbandžiusi, Australija'
       content: 'Anksčiau niekada nebuvau ant SUP lentos. Tropical Breeze tokia stabili, kad pasijutau užtikrintai jau pirmą kartą. Dabar irkluoju kiekvieną savaitgalį. Mokymosi kreivė iš esmės nulinė — o lenta vandenyje atrodo nuostabiai.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp'
       location: 'Gold Coast, Australija'
 
 adventures_cta:
   tagline: 'Pasidalinkite savo nuotykiu'
   title: 'Jūsų istorija gali būti čia'
-  subtitle: 'Pažymėkite @afarer_watersports Instagram arba naudokite #afarerAdventure, kad turėtumėte galimybę būti pristatytiems.'
+  subtitle: 'Pažymėkite @olagoon_watersports Instagram arba naudokite #olagoonAdventure, kad turėtumėte galimybę būti pristatytiems.'
   instagram: 'Sekite Instagram'
   youtube: 'Prenumeruokite YouTube'
   facebook: 'Prisijunkite Facebook'
 
 locations:
   tagline: 'Pasaulinė bendruomenė'
-  title: 'Kur keliauja afarer'
-  subtitle: 'Pažymėkite @afarer_watersports Instagram arba naudokite #afarerAdventure, kad turėtumėte galimybę būti pristatytiems.'
+  title: 'Kur keliauja olagoon'
+  subtitle: 'Pažymėkite @olagoon_watersports Instagram arba naudokite #olagoonAdventure, kad turėtumėte galimybę būti pristatytiems.'
   regions:
     - title: 'Europa'
       description: 'Komo ežeras · Stokholmo salynas · Costa Brava · Kroatijos pakrantė · Škotijos ežerai'
@@ -82,7 +82,7 @@ locations:
 
 cta:
   title: 'Pasirengę prisijungti prie bendruomenės?'
-  subtitle: 'Kiekvienas afarer produktas turi CE sertifikatą, yra patikimas garantijos ir sukurtas tikriems nuotykiams. Raskite savąjį jau šiandien.'
+  subtitle: 'Kiekvienas olagoon produktas turi CE sertifikatą, yra patikimas garantijos ir sukurtas tikriems nuotykiams. Raskite savąjį jau šiandien.'
   actions:
     - variant: primary
       text: 'Peržiūrėti produktus'

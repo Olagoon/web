@@ -1,6 +1,6 @@
 meta:
   title: Kontakt — Upiti za partnerstvo i proizvode | {SITE}
-  description: Kontaktirajte afarer za upite o partnerstvu, markama s dvije marke i privatnim markama te profesionalne flote. Marka napuhivih SUP dasaka, odgovaramo u roku od 2 radna dana.
+  description: Kontaktirajte olagoon za upite o partnerstvu, markama s dvije marke i privatnim markama te profesionalne flote. Marka napuhivih SUP dasaka, odgovaramo u roku od 2 radna dana.
   keywords:
     - ponuda sup distributeru
     - profesionalni dobavljač sup dasaka
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Pošaljite nam poruku
   subtitle: Za ponude, tehnička pitanja ili upite o partnerstvu, javite nam se. Odgovaramo u roku od jednog radnog dana.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Pošaljite upit → Zatražite ponudu
   success_message: Hvala! Vaša je poruka stigla u naš sandučić. Odgovorit ćemo u roku od jednog radnog dana.
   error_message: Došlo je do pogreške pri slanju vaše poruke. Pokušajte ponovno ili nam pošaljite izravno e-poštu.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-pošta
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Sjedište
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

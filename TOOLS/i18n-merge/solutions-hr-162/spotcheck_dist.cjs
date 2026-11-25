@@ -27,7 +27,7 @@ const slugs = [
 ];
 let fail = 0;
 for (const s of slugs) {
-  const p = 'E:/github/afarer/dist/hr/solutions/' + s + '/index.html';
+  const p = 'E:/github/olagoon/dist/hr/solutions/' + s + '/index.html';
   if (!fs.existsSync(p)) {
     console.log(s + ': MISSING');
     fail++;

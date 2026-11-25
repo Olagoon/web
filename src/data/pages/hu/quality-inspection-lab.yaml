@@ -8,8 +8,8 @@ hero:
   tagline: 'Labor 06'
   title: 'Minőség- és ellenőrző labor'
   subtitle: 'Független ellenőrzés — minden teszt teljesítve szállítás előtt'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'Afarer minőség-ellenőrző labor UV tesztelés'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'OLagoon minőség-ellenőrző labor UV tesztelés'
 
 intro: 'Minden nálunk elkészült lap olyan tanúsítvánnyal rendelkezik, amely igazolja, hogy teljesítette a meghatározott minőség-ellenőrzések és anyagtesztek körét. Minőség- és ellenőrző laborunk független funkció a szervezeten belül — közvetlenül az ügyvezető igazgatónak jelent, nem a gyártásnak — biztosítva, hogy semmilyen kereskedelmi nyomás ne befolyásolhassa az ellenőrzési kaput. Ha egy anyagtétel vagy kész lap nem felel meg a közzétett specifikációnak, a labor jogosult leállítani a szállítást, amíg a meg nem felelést meg nem szüntetik.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Elkötelezettségünk Ön felé</h2>
-  <p>Amikor egy Afarer lapot kap, a minőségi doszziéjét is megkapja — az Ön konkrét lapjára vonatkozó teszteredmények összeállított rekordját. Szövettétel-tanúsítvány, hegesztési hámlási tesztek, kamra-levegőteszt naplók és szállítás előtti ellenőrzőlista. Minden szám nyomon követhető. Minden ellenőr azonosítható. Ez nem csak papírmunka — ez a mi ígéretünk, hogy amit leszállítottunk, az az, amit meghatároztunk.</p>
+  <p>Amikor egy OLagoon lapot kap, a minőségi doszziéjét is megkapja — az Ön konkrét lapjára vonatkozó teszteredmények összeállított rekordját. Szövettétel-tanúsítvány, hegesztési hámlási tesztek, kamra-levegőteszt naplók és szállítás előtti ellenőrzőlista. Minden szám nyomon követhető. Minden ellenőr azonosítható. Ez nem csak papírmunka — ez a mi ígéretünk, hogy amit leszállítottunk, az az, amit meghatároztunk.</p>
   <p>Ha bármikor minőségi aggálya van, közvetlenül fordulhat a laborhoz — az elérhetőségeket a megfelelőségi tanúsítványára nyomtatjuk. Minden megkeresést komolyan veszünk, és 48 órán belüli formális vizsgálatot vállalunk.</p>
 
 cta:

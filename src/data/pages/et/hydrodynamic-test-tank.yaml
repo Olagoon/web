@@ -8,10 +8,10 @@ hero:
   tagline: 'Labor 04'
   title: 'Hüdrodünaamiline testbassein'
   subtitle: 'Jõudluse valideerimine enne esimest täismõõdus prototüüpi'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp'
-  image_alt: 'Afarer hüdrodünaamilise testbasseini jõudlustestimine'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp'
+  image_alt: 'OLagoon hüdrodünaamilise testbasseini jõudlustestimine'
 
-intro: 'On levinud arvamus, et hüdrodünaamiline testimine on reserveeritud ookeanilaevadele. Tegelikult sõltub väikse planeeriva kere — nagu täispuhutava SUP-i — jõudlus oma veealusest kujust sama palju kui tanker oma pirnvettninast. Trimmnurk, märgatud pind, pritsmete teke ja ventilatsioon mõjutavad dramaatiliselt liuget, kiirust ja sõidumugavust. Afareril kasutame spetsiaalset hüdrodünaamilist testbasseini, mis võimaldab meil neid mõjusid kvantifitseerida mudeli mõõdus — enne kanga ja tööriistade pühendumist täissuuruses prototüübile.'
+intro: 'On levinud arvamus, et hüdrodünaamiline testimine on reserveeritud ookeanilaevadele. Tegelikult sõltub väikse planeeriva kere — nagu täispuhutava SUP-i — jõudlus oma veealusest kujust sama palju kui tanker oma pirnvettninast. Trimmnurk, märgatud pind, pritsmete teke ja ventilatsioon mõjutavad dramaatiliselt liuget, kiirust ja sõidumugavust. OLagoonil kasutame spetsiaalset hüdrodünaamilist testbasseini, mis võimaldab meil neid mõjusid kvantifitseerida mudeli mõõdus — enne kanga ja tööriistade pühendumist täissuuruses prototüübile.'
 
 content_html: |
   <h2>Miks basseinis testida sõudelauda?</h2>

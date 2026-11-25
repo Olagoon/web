@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Lomakohteet ja hotellit
   title: Muuta ranta-alueesi tulokeskukseksi<br />premium-SUP-kalustoilla
-  subtitle: Afarer varustaa lomakohteita ympäri maailmaa kaupallisen laadun ilmalla täytettävillä SUP-kalustoilla — 20 laudan aloituspaketeista 100+ laudan lippulaivaohjelmiin. Räätälöity brändäys, henkilöstökoulutus ja varaosat sisältyvät.
+  subtitle: OLagoon varustaa lomakohteita ympäri maailmaa kaupallisen laadun ilmalla täytettävillä SUP-kalustoilla — 20 laudan aloituspaketeista 100+ laudan lippulaivaohjelmiin. Räätälöity brändäys, henkilöstökoulutus ja varaosat sisältyvät.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Lomakkeen vieraat nauttivat SUP-lautailusta rikkumattomalla rannalla
 roi_section:
   title: Lomakohteiden SUP-tulomalli
@@ -20,7 +20,7 @@ roi_section:
       detail: Koko laivastoinvestointi takaisin yhdessä vuodessa
     - metric: 40%
       label: Tulojen kasvu
-      detail: Keskimääräinen parannus siirryttäessä Afarer-valikoimiin
+      detail: Keskimääräinen parannus siirryttäessä OLagoon-valikoimiin
     - metric: 500+
       label: Vuorokierrokset laudaa kohti
       detail: Kaupallisen tason kestävyys päivittäiseen käyttöön
@@ -67,7 +67,7 @@ packages:
       revenue: $200K+ vuosittainen tulopotentiaali
       cta_text: Hanki lippulaivapaketti
 case_study:
-  quote: Afareriin siirtymisen jälkeen SUP-vuokraustulomme kasvoivat 40 %. Lautojen uusintakustannukset laskivat 60 %. Saimme koko kalustoinvestoinnin takaisin 4 kuukaudessa.
+  quote: OLagooniin siirtymisen jälkeen SUP-vuokraustulomme kasvoivat 40 %. Lautojen uusintakustannukset laskivat 60 %. Saimme koko kalustoinvestoinnin takaisin 4 kuukaudessa.
   author: Vesiliikuntapäällikkö
   location: 5 tähden lomakeskus, Malediivit
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Takaisinmaksuaika
       value: 4 kuukautta
 features:
-  title: Miksi lomakohteet valitsevat Afarerin
+  title: Miksi lomakohteet valitsevat OLagoonin
   subtitle: Kaupallisen tason kestävyys, maailmanlaajuiset logistiikat ja kumppani, joka ymmärrää majoitusalan.
   items:
     - title: 500+ vuokrakertaa

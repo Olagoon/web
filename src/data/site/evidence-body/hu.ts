@@ -323,7 +323,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Teljes termékcsalád — SUP-ok és kiegészítők',
     industry: 'Disztribúció / Tengeri',
     challenge:
-      'Egy GCC-székhelyű forgalmazó kizárólagos jogokat kért a teljes afarer termékcsalád képviseletére 6 öböl-menti országban, egyedi arab nyelvű csomagolással, hőálló anyagspecifikációkkal és a saríának megfelelő garanciális feltételekkel.',
+      'Egy GCC-székhelyű forgalmazó kizárólagos jogokat kért a teljes olagoon termékcsalád képviseletére 6 öböl-menti országban, egyedi arab nyelvű csomagolással, hőálló anyagspecifikációkkal és a saríának megfelelő garanciális feltételekkel.',
     solution:
       'Kizárólagos forgalmazási megállapodást kötöttünk. Arab nyelvű csomagolást és marketinganyagokat fejlesztettünk. Az anyagspecifikációkat 50°C környezeti hőmérsékleten validáltuk. A garanciális feltételeket a regionális előírásokhoz igazítottuk.',
     result:
@@ -400,7 +400,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Egy Fortune 500 technológiai vállalat vízalapú wellness-programot kívánt indítani munkatársai számára 4, tóparti fekvésű globális campusán, amihez 60 SUP-ra volt szüksége vállalati márkázással, tárolási megoldásokkal és oktatóképzéssel.',
     solution:
-      'Stabil, univerzális SUP-okból álló flottát szállítottunk a vállalat logóját viselő fedélzeti grafikával. Időjárásálló, helyszíni tárolóállványokat terveztünk. 12 házi oktatót képeztünk ki az afarer képzési programján.',
+      'Stabil, univerzális SUP-okból álló flottát szállítottunk a vállalat logóját viselő fedélzeti grafikával. Időjárásálló, helyszíni tárolóállványokat terveztünk. 12 házi oktatót képeztünk ki az olagoon képzési programján.',
     result:
       'A program 4 campuson indult el. 2,400+ munkatársi részvétel az első évben. 94%-os munkatársi elégedettség. A vállalat fenntarthatósági jelentésében is szerepelt.',
     outcomeMetrics: [

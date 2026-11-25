@@ -1,6 +1,6 @@
 meta:
   title: 'Zaufanie — jakość, standardy i reputacja | {SITE}'
-  description: 'Dlaczego warto zaufać afarerowi: certyfikaty CE i ISO, zintegrowana fabryka, globalne referencje i gwarancja. Profesjonalny producent nadmuchiwanych desek SUP.'
+  description: 'Dlaczego warto zaufać olagoonowi: certyfikaty CE i ISO, zintegrowana fabryka, globalne referencje i gwarancja. Profesjonalny producent nadmuchiwanych desek SUP.'
   keywords:
     - 'niezawodny producent SUP'
     - 'certyfikowana fabryka paddle boardów'
@@ -8,15 +8,15 @@ meta:
     - 'certyfikowana fabryka SUP'
 hero:
   tagline: Zbudowane według standardów, które mają znaczenie
-  title: Zaufaj afarer
+  title: Zaufaj olagoon
   subtitle: |
     Każdy produkt, który budujemy, jest certyfikowany CE — testowany pod kątem bezpieczeństwa,<br />
     trwałości i wydajności. Żadnych skrótów. Żadnych wyjątków.
   taglineSection: Certyfikowane. Przetestowane. Sprawdzone.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: Produkt afarer przechodzący testy jakości
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: Produkt olagoon przechodzący testy jakości
 stats:
-  title: afarer w liczbach
+  title: olagoon w liczbach
   stats:
     - title: Certyfikat CE
       description: Wszystkie produkty rekreacyjne spełniają normy bezpieczeństwa UE
@@ -25,7 +25,7 @@ stats:
     - title: BSCI i REACH
       description: Etyczna produkcja i zgodność materiałowa
     - title: 3-letnia gwarancja
-      description: Na każdy produkt afarer — bez zadawania pytań
+      description: Na każdy produkt olagoon — bez zadawania pytań
 features3_certifications:
   title: Certyfikaty i zgodność
   subtitle: Każdy produkt jest niezależnie testowany i certyfikowany zgodnie z międzynarodowymi normami.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: Certyfikat CE
-      description: Wszystkie SUP-y afarer spełniają europejską normę bezpieczeństwa CE dla rekreacyjnych jednostek pływających. Każdy produkt przechodzi testy ciśnienia, wyporności i obciążenia przed opuszczeniem fabryki.
+      description: Wszystkie SUP-y olagoon spełniają europejską normę bezpieczeństwa CE dla rekreacyjnych jednostek pływających. Każdy produkt przechodzi testy ciśnienia, wyporności i obciążenia przed opuszczeniem fabryki.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Nasz zakład w Qingdao o powierzchni 12 000 m² działa w ramach systemu zarządzania jakością ISO 9001:2015. Każda partia produkcyjna jest identyfikowalna, udokumentowana i kontrolowana.
@@ -48,20 +48,20 @@ features3_certifications:
       description: Wewnętrzne laboratorium materiałowe testuje wytrzymałość na rozciąganie, odporność na UV, integralność szwów i ścieralność każdej partii tkaniny przed produkcją.
       icon: tabler:microscope
     - title: 3-letnia gwarancja
-      description: Każdy produkt afarer jest objęty trzyletnią gwarancją na wady produkcyjne. Ręczymy za to, co budujemy.
+      description: Każdy produkt olagoon jest objęty trzyletnią gwarancją na wady produkcyjne. Ręczymy za to, co budujemy.
       icon: tabler:shield-check
 testimonials:
   tagline: Zaufanie klientów
   title: Co mówią nasi klienci
-  subtitle: Od początkujących wioślarzy po profesjonalnych operatorów floty — zobacz, dlaczego ufają afarer.
+  subtitle: Od początkujących wioślarzy po profesjonalnych operatorów floty — zobacz, dlaczego ufają olagoon.
   items:
-    - content: Wyposażyliśmy całą naszą flotę wynajmu w SUP-y afarer. Dwa sezony, zero awarii. Certyfikat CE sprawił, że zatwierdzenie ubezpieczenia przebiegło bezproblemowo.
+    - content: Wyposażyliśmy całą naszą flotę wynajmu w SUP-y olagoon. Dwa sezony, zero awarii. Certyfikat CE sprawił, że zatwierdzenie ubezpieczenia przebiegło bezproblemowo.
       name: Marco V.
       title: Organizator wycieczek, Chorwacja
     - content: Jako kupujący po raz pierwszy, obawiałem się jakości. Dokumentacja ISO i raporty z testów, które udostępnili, dały mi pełną pewność.
       name: James T.
       title: Właściciel SUP Explorer 11, Kanada
-    - content: Współpracujemy z afarer w zakresie naszych przybrzeżnych jednostek patrolowych. Ich proces kontroli jakości jest spójny w każdej partii — ta niezawodność ma znaczenie w operacjach krytycznych.
+    - content: Współpracujemy z olagoon w zakresie naszych przybrzeżnych jednostek patrolowych. Ich proces kontroli jakości jest spójny w każdej partii — ta niezawodność ma znaczenie w operacjach krytycznych.
       name: Kmdr ppor. Andres
       title: Zamówienia morskie, Filipiny
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Stojymy za każdym produktem z jasnymi warunkami gwarancji, szybkim rozpatrywaniem roszczeń i oryginalnymi częściami zamiennymi.
   items:
     - title: 3-letnia gwarancja na produkt
-      desc: Wszystkie produkty afarer objęte są 3-letnią gwarancją na wady produkcyjne — pęknięcia szwów, wady zaworów oraz rozwarstwienie materiału przy normalnym użytkowaniu.
+      desc: Wszystkie produkty olagoon objęte są 3-letnią gwarancją na wady produkcyjne — pęknięcia szwów, wady zaworów oraz rozwarstwienie materiału przy normalnym użytkowaniu.
     - title: Wsparcie części przez całe życie
       desc: Oryginalne części zamienne — zawory, zestawy naprawcze, płetwy, pierścienie D — dostępne dla wszystkich modeli. Utrzymujemy formy i narzędzia przez co najmniej 5 lat po zakończeniu produkcji.
     - title: Odpowiedź na roszczenie w ciągu 48 godzin
@@ -149,25 +149,25 @@ faqs_sup:
     - title: Czy oferujecie kompletne pakiety SUP?
       description: Tak. Każda deska SUP jest wysyłana z kompletnym pakietem zawierającym 3-częściowe wiosło aluminiowe, ręczną pompkę wysokociśnieniową, linkę spiralną, plecak podróżny i zestaw naprawczy. Niektóre modele zawierają również wymienny zestaw stateczników.
     - title: Jaka jest gwarancja na deski SUP?
-      description: Wszystkie deski SUP afarer są objęte roczną gwarancją na wady produkcyjne, w tym pęknięcia szwów, wady zaworów i delaminację materiału przy normalnym użytkowaniu.
+      description: Wszystkie deski SUP olagoon są objęte roczną gwarancją na wady produkcyjne, w tym pęknięcia szwów, wady zaworów i delaminację materiału przy normalnym użytkowaniu.
     - title: Ile czasu zajmuje pompowanie deski SUP?
-      description: Przy użyciu dołączonej pompki ręcznej, pełne napompowanie do 15 PSI zajmuje około 8–12 minut. Aby przyspieszyć pompowanie, zalecamy naszą elektryczną pompkę afarer 12V, która pompuje deskę w mniej niż 4 minuty.
+      description: Przy użyciu dołączonej pompki ręcznej, pełne napompowanie do 15 PSI zajmuje około 8–12 minut. Aby przyspieszyć pompowanie, zalecamy naszą elektryczną pompkę olagoon 12V, która pompuje deskę w mniej niż 4 minuty.
 faqs_materials:
   title: FAQ dotyczące materiału i pielęgnacji SUP
   subtitle: Częste pytania dotyczące materiałów naszych dmuchanych desek SUP, pielęgnacji i przechowywania.
   columns: 2
   items:
-    - title: Jakie materiały są używane w nadmuchiwanych SUP-ach firmy Afarer?
+    - title: Jakie materiały są używane w nadmuchiwanych SUP-ach firmy OLagoon?
       description: Używamy wojskowej klasy PVC (1100 denier) o konstrukcji odpornej na ścieranie i stabilizowanej na działanie promieni UV, zgodnej z przepisami UE REACH i RoHS.
     - title: Jak długo wytrzymują nadmuchiwane deski SUP?
       description: Przy odpowiedniej pielęgnacji wysokiej jakości dmuchany SUP z PVC wytrzymuje 5–10 lat. Regularne czyszczenie, ochrona przed promieniowaniem UV i właściwe przechowywanie znacznie wydłużają jego żywotność.
     - title: Jakie czynności konserwacyjne są wymagane dla nadmuchiwanego SUP-a?
       description: Podstawowa konserwacja obejmuje płukanie świeżą wodą po każdym użyciu (szczególnie w wodzie słonej), suszenie przed przechowywaniem, coroczną kontrolę uszczelek zaworów oraz unikanie długotrwałego narażenia na słońce, gdy nie jest używane.
     - title: Czy dmuchane deski SUP mogą być używane w wodzie słonej?
-      description: Tak. Wszystkie dmuchane SUP-y Afarer są przeznaczone do używania zarówno w wodzie słodkiej, jak i słonej. Zalecamy spłukanie świeżą wodą i dokładne osuszenie po kontakcie z wodą słoną.
+      description: Tak. Wszystkie dmuchane SUP-y OLagoon są przeznaczone do używania zarówno w wodzie słodkiej, jak i słonej. Zalecamy spłukanie świeżą wodą i dokładne osuszenie po kontakcie z wodą słoną.
     - title: Jak przechowywać nadmuchiwany SUP?
       description: Spuść powietrze, oczyść i całkowicie wysusz deskę przed przechowywaniem. Zwiń luźno (unikaj ciasnych zgięć), przechowuj w chłodnym, suchym miejscu z dala od bezpośredniego światła słonecznego i trzymaj z dala od betonowych podłóg, aby zapobiec wchłanianiu wilgoci.
-    - title: Jaka jest nośność dmuchanych desek SUP marki afarer?
+    - title: Jaka jest nośność dmuchanych desek SUP marki olagoon?
       description: Nośność waha się od 100 kg dla naszych najmniejszych modeli do ponad 200 kg dla większych desek. Na każdej stronie produktu znajduje się informacja o maksymalnym obciążeniu dla konkretnego modelu.
 cta:
   title: Chcesz zobaczyć certyfikaty osobiście?

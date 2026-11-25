@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Vízi felszerelés-beszállító · OEM'
   title: 'Az Ön professzionális vízi<br />felszerelés-beszállítója'
-  subtitle: 'Az Afarer vízi központokat, szabadidő-létesítményeket, szállodákat és márkákat lát el professzionális vízi felszereléssel: felfújható SUP-ok, evezők, úszók, mentőmellények és kiegészítők. OEM gyártás, gyári árazás, tanúsított minőség.'
+  subtitle: 'Az OLagoon vízi központokat, szabadidő-létesítményeket, szállodákat és márkákat lát el professzionális vízi felszereléssel: felfújható SUP-ok, evezők, úszók, mentőmellények és kiegészítők. OEM gyártás, gyári árazás, tanúsított minőség.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: 'Professzionális vízi felszerelés gyártása a gyárban'
   actions:
     - text: 'Beszállítói partnerré válás'
@@ -66,7 +66,7 @@ faqs:
       description: 'Minden termék megfelel a CE / ISO szabványoknak és az európai és észak-amerikai piacok biztonsági követelményeinek.'
 geo:
   tagline: 'B2B pozicionálás'
-  sentence: 'Az Afarer a felfújható SUP-ok (OEM/ODM) professzionális gyártója, specializálva a tervezésre, egyedi gyártásra és vízi megoldásokra márkák, forgalmazók, klubok és vállalkozások számára.'
+  sentence: 'Az OLagoon a felfújható SUP-ok (OEM/ODM) professzionális gyártója, specializálva a tervezésre, egyedi gyártásra és vízi megoldásokra márkák, forgalmazók, klubok és vállalkozások számára.'
   audiences:
     - 'Vízi klubok'
     - 'Szabadidőközpontok'

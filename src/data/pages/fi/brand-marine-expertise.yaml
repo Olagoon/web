@@ -1,6 +1,6 @@
 meta:
   title: 'Merellinen osaaminen — tekniikkaa jokaisessa rungossa | {SITE}'
-  description: 'Vuosikymmenten meritekniikkaa jokaisessa rungossa. afarer hallitsee drop stitch -rakenteen, meri-PVC:n ja ammattimaisen täytettävien SUP-lautojen suunnittelun.'
+  description: 'Vuosikymmenten meritekniikkaa jokaisessa rungossa. olagoon hallitsee drop stitch -rakenteen, meri-PVC:n ja ammattimaisen täytettävien SUP-lautojen suunnittelun.'
   keywords:
     - 'meritekniikka'
     - 'täytettävien SUP-lautojen valmistaja'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: Meriasiantuntemus
   title: Vuosikymmenten meritekniikka<br />jokaisessa rungossa
-  subtitle: afarer yhdistää syvällisen materiaalitieteen, tarkkuusvalmistuksen ja todellisen maailman testauksen tuottaakseen vesikulkuneuvoja, jotka suoriutuvat kun sillä on merkitystä.
+  subtitle: olagoon yhdistää syvällisen materiaalitieteen, tarkkuusvalmistuksen ja todellisen maailman testauksen tuottaakseen vesikulkuneuvoja, jotka suoriutuvat kun sillä on merkitystä.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: afarerin meritekniikan ja tuotekehityksen tiimi työssä
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: olagoonin meritekniikan ja tuotekehityksen tiimi työssä
 expertise_materials:
   tagline: Materiaalitiede
   title: Oikean materiaalin valinta<br />jokaiseen käyttötarkoitukseen

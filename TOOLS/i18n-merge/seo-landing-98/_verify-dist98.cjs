@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
-const ROOT = 'E:/github/afarer/src/data/pages';
-const DIST = 'E:/github/afarer/dist';
+const ROOT = 'E:/github/olagoon/src/data/pages';
+const DIST = 'E:/github/olagoon/dist';
 const PAGES = [
   'oem-paddle',
   'co-brand',
@@ -99,7 +99,7 @@ for (const [loc, page] of REGRESS) {
 }
 
 // 3. route-manifest invariant (30 new routes present + total)
-const manifest = JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/route-manifest.json', 'utf8'));
+const manifest = JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/route-manifest.json', 'utf8'));
 console.log('route-manifest count: ' + manifest.length);
 if (manifest.length !== 13858) {
   console.log('FAIL route-manifest expected 13858');

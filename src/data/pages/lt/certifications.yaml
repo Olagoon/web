@@ -1,6 +1,6 @@
 meta:
   title: 'Sertifikatai — CE, ISO 9001 ir atitiktis | {SITE}'
-  description: 'afarer kokybės sertifikatai: CE (EN ISO 25649), ISO 9001:2015, BSCI. Atitiktis ir sauga pripučiamų SUP gamintojui.'
+  description: 'olagoon kokybės sertifikatai: CE (EN ISO 25649), ISO 9001:2015, BSCI. Atitiktis ir sauga pripučiamų SUP gamintojui.'
   keywords:
     - 'ce sertifikavimas sup'
     - 'iso 9001 sup'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: 'Sertifikatai ir standartai'
   title: 'Kokybės sertifikatai<br />ir atitikties standartai'
-  subtitle: 'afarer SUP gamyba yra sertifikuota pagal tarptautinius jūrinės saugos standartus, kokybės vadybos sistemas ir aplinkosaugos reglamentus — CE, ISO 9001, UKCA, BSCI ir REACH.'
+  subtitle: 'olagoon SUP gamyba yra sertifikuota pagal tarptautinius jūrinės saugos standartus, kokybės vadybos sistemas ir aplinkosaugos reglamentus — CE, ISO 9001, UKCA, BSCI ir REACH.'
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: 'afarer kokybės sertifikatai ir atitikties dokumentacija'
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: 'olagoon kokybės sertifikatai ir atitikties dokumentacija'
 content_certifications:
   tagline: 'Mūsų sertifikatai'
   title: 'Sertifikuota kokybė,<br />pripažinta visame pasaulyje'
-  subtitle: 'Kiekvienas afarer produktas yra patvirtintas sertifikatais, įrodančiais mūsų įsipareigojimą kokybei, saugai ir aplinkosaugos atsakomybei.'
+  subtitle: 'Kiekvienas olagoon produktas yra patvirtintas sertifikatais, įrodančiais mūsų įsipareigojimą kokybei, saugai ir aplinkosaugos atsakomybei.'
   items:
     - title: 'CE sertifikuota'
-      description: 'Visi afarer produktai atitinka Europos CE ženklinimo reikalavimus rekreaciniams vandens transporto priemonėms, užtikrinant saugos, sveikatos ir aplinkos apsaugos standartus.'
+      description: 'Visi olagoon produktai atitinka Europos CE ženklinimo reikalavimus rekreaciniams vandens transporto priemonėms, užtikrinant saugos, sveikatos ir aplinkos apsaugos standartus.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'Mūsų kokybės vadybos sistema yra ISO 9001:2015 sertifikuota, apimanti pripučiamų vandens transporto priemonių ir jūrinės įrangos dizainą, gamybą ir platinimą.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'Produktai, parduodami JK rinkoje, turi UKCA ženklą, patvirtinantį atitiktį JK reglamentams jūrinei įrangai ir asmeninėms vandens transporto priemonėms.'
       icon: tabler:shield
     - title: 'BSCI atitiktis'
-      description: 'afarer yra BSCI (Business Social Compliance Initiative) audituota, įrodanti etišką gamybos praktiką, sąžiningas darbo sąlygas ir tiekimo grandinės atsakomybę.'
+      description: 'olagoon yra BSCI (Business Social Compliance Initiative) audituota, įrodanti etišką gamybos praktiką, sąžiningas darbo sąlygas ir tiekimo grandinės atsakomybę.'
       icon: tabler:heart-handshake
     - title: 'REACH atitiktis'
-      description: 'Visos medžiagos, naudojamos afarer produktuose, atitinka ES REACH reglamentus dėl cheminės saugos, užtikrinant, kad mūsų PVC, EVA ar komponentuose nėra apribotų medžiagų.'
+      description: 'Visos medžiagos, naudojamos olagoon produktuose, atitinka ES REACH reglamentus dėl cheminės saugos, užtikrinant, kad mūsų PVC, EVA ar komponentuose nėra apribotų medžiagų.'
       icon: tabler:flask
     - title: 'Medžiagų testavimas'
       description: 'Audiniai yra testuojami dėl tempimo stiprio, plyšimo atsparumo, UV gedimo ir šalčio įtrūkimų našumo. Kiekviena gamybos partija yra mėginama ir tikrinama.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: 'Jūrinės saugos standartai'
   title: 'Sauga visų pirma<br />— sukurta patikimai eksploatacijai'
-  subtitle: 'afarer produktai yra suprojektuoti ir išbandyti, kad atitiktų tarptautinius jūrinės saugos standartus komerciniam ir rekreaciniam naudojimui.'
+  subtitle: 'olagoon produktai yra suprojektuoti ir išbandyti, kad atitiktų tarptautinius jūrinės saugos standartus komerciniam ir rekreaciniam naudojimui.'
   items:
     - title: 'EN ISO 25649'
       description: 'Pripučiami SUP atitinka EN ISO 25649 standartus dėl konstrukcijos, stabilumo, plūdrumo ir keliamosios galios.'

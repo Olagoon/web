@@ -17,9 +17,9 @@
 
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const DIST = path.join(ROOT, 'dist');
 
 let pass = 0;

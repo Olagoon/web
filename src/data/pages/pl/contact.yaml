@@ -1,8 +1,8 @@
 meta:
   title: 'Kontakt — zapytania o partnerstwo i produkty | {SITE}'
-  description: 'Skontaktuj się z afareren w sprawie zapytań o partnerstwo, co-brand i private label lub flot profesjonalnych. Marka nadmuchiwanych desek SUP — odpowiadamy w ciągu 2 dni roboczych.'
+  description: 'Skontaktuj się z olagoonen w sprawie zapytań o partnerstwo, co-brand i private label lub flot profesjonalnych. Marka nadmuchiwanych desek SUP — odpowiadamy w ciągu 2 dni roboczych.'
   keywords:
-    - 'kontakt afarer'
+    - 'kontakt olagoon'
     - 'wycena dystrybutora SUP'
     - 'profesjonalny dostawca SUP'
     - 'kontakt producent SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Wyślij wiadomość
   subtitle: W sprawie wyceny, pytań technicznych lub partnerstwa — napisz do nas. Odpowiadamy w ciągu jednego dnia roboczego.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Wyślij zapytanie → Uzyskaj wycenę
   success_message: Dziękujemy! Twoja wiadomość została odebrana. Odpowiemy w ciągu jednego dnia roboczego.
   error_message: Wystąpił błąd podczas wysyłania. Spróbuj ponownie lub napisz bezpośrednio na adres e-mail.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: '+1 279 732 3333'
       icon: tabler:headset
     - title: E-mail
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Siedziba główna
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

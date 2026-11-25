@@ -7,11 +7,11 @@ hero:
   tagline: Lab 05
   title: Prototype Werkplaats
   subtitle: Van CAD-model tot waterklaar board — gebouwd, uitgerust en bewezen
-  image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: Afarer prototype werkplaats boardfabricage
+  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+  image_alt: OLagoon prototype werkplaats boardfabricage
 intro: >-
   Een CAD-model, hoe gedetailleerd ook, kan niet laten zien hoe een board daadwerkelijk zal varen totdat deze het water ontmoet. Daarom is onze Prototype Werkplaats ontworpen om engineeringgegevens zo snel en nauwkeurig mogelijk om te zetten in een fysiek, waterklaar board. Elk nieuw
-  Afarer-model — en elke belangrijke custom build — gaat door deze werkplaats voordat het productiegereedschap wordt ingezet.
+  OLagoon-model — en elke belangrijke custom build — gaat door deze werkplaats voordat het productiegereedschap wordt ingezet.
 content_html: |
   <h2>Waar ontwerp werkelijkheid wordt</h2>
 

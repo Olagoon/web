@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 const WORK = 'C:/Users/Helleo/AppData/Local/Temp/deveco/ro_sol_work';
 const file = process.argv[2];
 if (!file) {

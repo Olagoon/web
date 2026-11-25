@@ -1,11 +1,11 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const WORK = __dirname;
 const OUT = path.join(WORK, 'out');
-const SITE = 'E:/github/afarer/src/data/site';
-const DATA = 'E:/github/afarer/src/data';
+const SITE = 'E:/github/olagoon/src/data/site';
+const DATA = 'E:/github/olagoon/src/data';
 
 const LOCALES = ['hr', 'hu', 'sk', 'bg', 'sl', 'sr', 'id', 'he', 'ms', 'lt', 'lv', 'et', 'tl'];
 const CLDR_LOCALES = ['hr', 'hu', 'sk', 'bg', 'sl', 'sr', 'id', 'he', 'ms', 'lt', 'lv', 'et'];

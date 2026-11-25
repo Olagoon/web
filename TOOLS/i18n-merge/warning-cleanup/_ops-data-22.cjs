@@ -1,4 +1,4 @@
-// Shard 22 — 阿拉伯品牌拼写统一 (2026-09): أكوافارير (aquafarer 旧转写) → أفارير (afarer 正确转写)
+// Shard 22 — 阿拉伯品牌拼写统一 (2026-09): أكوافارير (olagoon 旧转写) → أفارير (olagoon 正确转写)
 // 依据: academy/brand-*/cases/distributor-program 等近期验证文件均用 أفارير
 module.exports = [
   { f: 'src/data/pages/ar/commercial-workboats.yaml', find: 'أكوافارير', rep: 'أفارير', n: 9 },

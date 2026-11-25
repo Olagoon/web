@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Resorts und Hotels
   title: Machen Sie aus Ihrer Uferlage ein Einnahmezentrum<br />mit Premium-SUP-Flotten
-  subtitle: Afarer stattet Resorts weltweit mit aufblasbaren SUP-Flotten in kommerzieller Qualität aus — von 20-Board-Starterpaketen bis zu Flaggschiff-Programmen mit 100+ Boards. Individuelles Branding, Mitarbeiterschulungen und Ersatzteile inklusive.
+  subtitle: OLagoon stattet Resorts weltweit mit aufblasbaren SUP-Flotten in kommerzieller Qualität aus — von 20-Board-Starterpaketen bis zu Flaggschiff-Programmen mit 100+ Boards. Individuelles Branding, Mitarbeiterschulungen und Ersatzteile inklusive.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Resortgäste beim Stand-Up-Paddeln an einem unberührten Strand
 roi_section:
   title: Das Einnahmenmodell für Resort-SUP
@@ -20,7 +20,7 @@ roi_section:
       detail: Vollständige Flotteninvestition innerhalb einer Saison zurückgewinnen
     - metric: 40%
       label: Umsatzsteigerung
-      detail: Durchschnittlicher Schub nach dem Wechsel zu Afarer-Flotten
+      detail: Durchschnittlicher Schub nach dem Wechsel zu OLagoon-Flotten
     - metric: '500+'
       label: Verleihzyklen pro Board
       detail: Kommerzielle Haltbarkeit für den täglichen Gebrauch
@@ -67,7 +67,7 @@ packages:
       revenue: $200.000 jährliches Umsatzpotenzial
       cta_text: Flaggschiff-Paket erhalten
 case_study:
-  quote: Seit dem Wechsel zu Afarer ist unser SUP-Vermietungsumsatz um 40 % gestiegen. Die Kosten für den Austausch der Boards sanken um 60 %. Wir haben unsere gesamten Investitionen in die Flotte in 4 Monaten wieder hereingeholt.
+  quote: Seit dem Wechsel zu OLagoon ist unser SUP-Vermietungsumsatz um 40 % gestiegen. Die Kosten für den Austausch der Boards sanken um 60 %. Wir haben unsere gesamten Investitionen in die Flotte in 4 Monaten wieder hereingeholt.
   author: Leiter für Wasseraktivitäten
   location: 5-Sterne-Resort, Malediven
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Amortisationszeit
       value: 4 Monate
 features:
-  title: Warum Resorts Afarer wählen
+  title: Warum Resorts OLagoon wählen
   subtitle: Gewerbliche Haltbarkeit, globale Logistik und ein Partner, der Gastfreundschaft versteht.
   items:
     - title: 500 Mietzyklen

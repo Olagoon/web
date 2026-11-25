@@ -17,7 +17,7 @@ module.exports = {
       'afar Akademin: guider för uppblåsbara paddle boards, stand up paddle-tekniker, nautisk säkerhet och materialkunskap för nybörjare och proffs.',
     keywords: ['lära sig stand up paddle', 'SUP nybörjarguide', 'paddle board grunder', 'SUP-teknik', 'SUP-lektioner'],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Vår Historia — Tillverkare av uppblåsbara SUP:ar & båtar | {SITE}',
     description:
       'Från en kustverkstad till en global marintillverkare: afars berättelse om teknik och frihet på vattnet med en certifierad fabrik på 12 000 m².',
@@ -51,7 +51,7 @@ module.exports = {
       'Grundat 2012 i Qingdao byggdes afar av mariningenjörer, materialspecialister och vattensportentusiaster. Möt teamet bakom fabriken.',
     keywords: ['afar team', 'mariningenjörer', 'tillverkare av uppblåsbara SUP', 'SUP-fabriksteam'],
   },
-  'brand-why-afarer': {
+  'brand-why-olagoon': {
     title: 'Varför afar — 7 anledningar till varför globala varumärken väljer oss | {SITE}',
     description:
       'Varför globala varumärken väljer afar: CE- och ISO-certifieringar, flexibel MOQ, anpassade formar och 30 dagars ledtid från en professionell SUP-fabrik.',

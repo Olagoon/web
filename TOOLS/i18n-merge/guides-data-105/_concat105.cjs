@@ -10,12 +10,12 @@
  * Usage (repo root): node TOOLS/i18n-merge/guides-data-105/_concat105.cjs pl|cs [tempDir]
  */
 const fs = require('fs');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const T = process.argv[3] || 'C:/Users/Helleo/AppData/Local/Temp/deveco';
 const OUT = {
-  pl: 'E:/github/afarer/src/data/guides-pl.yaml',
-  cs: 'E:/github/afarer/src/data/guides-cs.yaml',
+  pl: 'E:/github/olagoon/src/data/guides-pl.yaml',
+  cs: 'E:/github/olagoon/src/data/guides-cs.yaml',
 };
 const PARTS = {
   // R1-8 / R9-15 / R16-22 / R23-29 (EN guides.ts order), both locales

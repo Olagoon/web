@@ -9,11 +9,11 @@ for (const f of yamlFiles) {
   const lines = content.split('\n');
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
-    const idx = line.indexOf('https://assets.afarer.com/images/');
+    const idx = line.indexOf('https://assets.olagoon.com/images/');
     if (idx === -1) continue;
     // Extract full URL until end of line or quote
     const after = line.substring(idx);
-    const quoteMatch = after.match(/^https:\/\/assets\.afarer\.com\/(images\/[^"'\s}\])]+(?:\s+[^"'\s}\])]+)*)/);
+    const quoteMatch = after.match(/^https:\/\/assets\.olagoon\.com\/(images\/[^"'\s}\])]+(?:\s+[^"'\s}\])]+)*)/);
     const urlPath = quoteMatch ? quoteMatch[1] : null;
     if (!urlPath) {
       // Try reading until end of line

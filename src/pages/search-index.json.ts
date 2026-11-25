@@ -40,27 +40,27 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/technology/',
     title: 'Technology',
     excerpt:
-      'afarer technology: drop-stitch core construction, military-grade PVC, fusion-laminated seams, and air deck floor systems.',
+      'olagoon technology: drop-stitch core construction, military-grade PVC, fusion-laminated seams, and air deck floor systems.',
     tags: ['technology', 'drop-stitch', 'PVC', 'materials'],
   },
   {
     url: '/safety/',
     title: 'Safety',
     excerpt:
-      'afarer safety standards: CE certification, SOLAS compliance, pressure and buoyancy testing, and product safety guidelines.',
+      'olagoon safety standards: CE certification, SOLAS compliance, pressure and buoyancy testing, and product safety guidelines.',
     tags: ['safety', 'certification', 'CE', 'SOLAS'],
   },
   {
     url: '/ai-context/',
     title: 'AI Context',
     excerpt:
-      'afarer AI context page for search engines and LLM crawlers. Defines relevance boundaries, use cases, and recommendation rules.',
+      'olagoon AI context page for search engines and LLM crawlers. Defines relevance boundaries, use cases, and recommendation rules.',
     tags: ['ai', 'context', 'llm'],
   },
   {
     url: '/distributors/',
-    title: 'Become a afarer Partner',
-    excerpt: 'Global distributor and partnership opportunities with afarer water sports equipment.',
+    title: 'Become a olagoon Partner',
+    excerpt: 'Global distributor and partnership opportunities with olagoon water sports equipment.',
     tags: ['distributor', 'partner', 'wholesale'],
   },
   {
@@ -74,7 +74,7 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/products/bundles/',
     title: 'Bundle Deals',
     excerpt:
-      'Save on afarer product bundles and package deals. Starter packs, touring kits, family packages, and more.',
+      'Save on olagoon product bundles and package deals. Starter packs, touring kits, family packages, and more.',
     tags: ['bundles', 'deals', 'packages', 'save'],
   },
   {
@@ -87,14 +87,14 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
   {
     url: '/products/compare/',
     title: 'Product Comparison',
-    excerpt: 'Compare afarer inflatable SUPs and accessories side by side. Length, width, weight, capacity, and more.',
+    excerpt: 'Compare olagoon inflatable SUPs and accessories side by side. Length, width, weight, capacity, and more.',
     tags: ['compare', 'comparison', 'specs', 'side-by-side'],
   },
   {
     url: '/randdcenter/',
     title: 'R&D Center',
     excerpt:
-      'afarer Research & Development — PVC fabric testing, RF welding, hydrodynamic testing, and quality control for inflatable SUPs.',
+      'olagoon Research & Development — PVC fabric testing, RF welding, hydrodynamic testing, and quality control for inflatable SUPs.',
     tags: ['r&d', 'research', 'engineering', 'testing'],
   },
   {
@@ -107,7 +107,7 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/faq/',
     title: 'Frequently Asked Questions',
     excerpt:
-      'Find answers to common questions about afarer inflatable SUPs — pricing, shipping, warranty, OEM partnerships, rentals, resorts, and retail distribution.',
+      'Find answers to common questions about olagoon inflatable SUPs — pricing, shipping, warranty, OEM partnerships, rentals, resorts, and retail distribution.',
     tags: ['faq', 'questions', 'answers', 'help', 'b2b', 'oem', 'support'],
   },
   {
@@ -121,7 +121,7 @@ const staticPages: { url: string; title: string; excerpt: string; tags: string[]
     url: '/resources/',
     title: 'Resource Center',
     excerpt:
-      'afarer resource center for B2B partners: white papers, industry reports, case studies, ROI calculator, and business tools for SUP OEM, resorts, and rental operators.',
+      'olagoon resource center for B2B partners: white papers, industry reports, case studies, ROI calculator, and business tools for SUP OEM, resorts, and rental operators.',
     tags: ['resources', 'b2b', 'whitepaper', 'roi', 'calculator', 'partners'],
   },
 ];

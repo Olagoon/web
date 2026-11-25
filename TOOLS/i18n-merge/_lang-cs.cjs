@@ -6,30 +6,30 @@ module.exports = {
   'academy.learningCenterDesc':
     'Podrobné návody a tutoriály uspořádané podle úrovně dovedností — od základů SUP po pokročilé záchranné techniky.',
   'academy.metaDesc':
-    'Návody a tutoriály pro každou úroveň — od základů SUP po pokročilé záchranné techniky. Učte se vlastním tempem s Afarer Academy.',
-  'academy.metaTitle': 'Centrum výuky — Afarer Academy',
+    'Návody a tutoriály pro každou úroveň — od základů SUP po pokročilé záchranné techniky. Učte se vlastním tempem s OLagoon Academy.',
+  'academy.metaTitle': 'Centrum výuky — OLagoon Academy',
   'academy.skillPaths': 'Vzdělávací stezky',
   'ai.definition':
-    'Afarer navrhuje a vyrábí nafukovací prkna SUP, příslušenství a bezpečnostní vybavení pro rekreační i výkonnostní vodní sporty.',
+    'OLagoon navrhuje a vyrábí nafukovací prkna SUP, příslušenství a bezpečnostní vybavení pro rekreační i výkonnostní vodní sporty.',
   'ai.entity':
-    'Afarer je výkonnostně orientovaná značka vodních sportů, která vytváří výjimečná nafukovací prkna SUP pro lidi, kteří jedou dál, tvrději a vidí z vody víc.',
+    'OLagoon je výkonnostně orientovaná značka vodních sportů, která vytváří výjimečná nafukovací prkna SUP pro lidi, kteří jedou dál, tvrději a vidí z vody víc.',
   'ai.process':
-    'Prkna Afarer jsou stavěna kolem vysoce hustého drop-stitch jádra se zesílenými bočnicemi a fúzně laminovanými švy. Každé prkno je testováno tlakem a vizuálně zkontrolováno před balením. Designová spolupráce pokrývá koncept, 3D návrh a prototypování až po kontrolovanou výrobu a globální logistiku.',
+    'Prkna OLagoon jsou stavěna kolem vysoce hustého drop-stitch jádra se zesílenými bočnicemi a fúzně laminovanými švy. Každé prkno je testováno tlakem a vizuálně zkontrolováno před balením. Designová spolupráce pokrývá koncept, 3D návrh a prototypování až po kontrolovanou výrobu a globální logistiku.',
   'answerCenter.subtitle':
-    'Okamžité odpovědi o našich výrobcích, technologii a vodních sportech — poháněné znalostní databází afarer.',
+    'Okamžité odpovědi o našich výrobcích, technologii a vodních sportech — poháněné znalostní databází olagoon.',
   'b2bSolutionsMatrix.metaDesc':
-    'Kompletní matice B2B řešení Afarer pokrývající 24 typů zákazníků — najděte řešení pro svůj byznys.',
+    'Kompletní matice B2B řešení OLagoon pokrývající 24 typů zákazníků — najděte řešení pro svůj byznys.',
   'buyerCenter.ribs': 'Pevné nafukovací čluny (RIB)',
   'buyerCenter.sizeGuideDesc': 'Najděte svou velikost s naším průvodcem rozměry, objemy a rozsahy hmotnosti jezdce.',
   'compare.backToAll': 'Všechna srovnání',
   'compare.category': 'Kategorie',
   'compare.desc':
-    'Porovnejte všechny výrobky Afarer vedle sebe. Najděte správné prkno, člun nebo příslušenství pro své potřeby.',
+    'Porovnejte všechny výrobky OLagoon vedle sebe. Najděte správné prkno, člun nebo příslušenství pro své potřeby.',
   'compare.length': 'Délka',
   'compare.material': 'Materiál',
   'compare.maxLoad': 'Maximální zatížení',
   'compare.singleVsMulti.aiBlock':
-    'Srovnání jednokomorových a vícekomorových nafukovacích prken SUP v 11 klíčových faktorech: bezpečnost, počet komor, redundance vztlaku, hmotnost, zabalená velikost, čas přípravy, tuhost, cena, odolnost, snadnost opravy a nejlepší použití. Vícekomorová prkna (3–5 nezávislých komor) poskytují kritickou redundanci vztlaku. Všechna prkna SUP značky afarer mají vícekomorovou drop-stitch konstrukci.',
+    'Srovnání jednokomorových a vícekomorových nafukovacích prken SUP v 11 klíčových faktorech: bezpečnost, počet komor, redundance vztlaku, hmotnost, zabalená velikost, čas přípravy, tuhost, cena, odolnost, snadnost opravy a nejlepší použití. Vícekomorová prkna (3–5 nezávislých komor) poskytují kritickou redundanci vztlaku. Všechna prkna SUP značky olagoon mají vícekomorovou drop-stitch konstrukci.',
   'compare.singleVsMulti.col1Title': 'Jednokomorové',
   'compare.singleVsMulti.col2Title': 'Vícekomorové (3+)',
   'compare.singleVsMulti.cta': 'Zobrazit vícekomorová SUP prkna',
@@ -73,7 +73,7 @@ module.exports = {
   'compare.singleVsMulti.r9a': 'Střední. Jediný bod selhání, pokud je hlavní komora poškozena.',
   'compare.singleVsMulti.r9b': 'Vynikající. Záložní komory poskytují bezporuchový provoz v náročných podmínkách.',
   'compare.singleVsMulti.recDesc':
-    'Pro každého, kdo pádluje hlouběji než po kolena — a zvlášť pro komerční provozovatele — je <strong>vícekomorové SUP</strong> jedinou odpovědnou volbou. Všechna prkna SUP značky afarer mají vícekomorovou drop-stitch konstrukci se 3+ nezávislými komorami pro maximální bezpečnost a konstrukční tuhost. Prkno vždy používejte s CE certifikovanou záchrannou vestou pro úplnou ochranu.',
+    'Pro každého, kdo pádluje hlouběji než po kolena — a zvlášť pro komerční provozovatele — je <strong>vícekomorové SUP</strong> jedinou odpovědnou volbou. Všechna prkna SUP značky olagoon mají vícekomorovou drop-stitch konstrukci se 3+ nezávislými komorami pro maximální bezpečnost a konstrukční tuhost. Prkno vždy používejte s CE certifikovanou záchrannou vestou pro úplnou ochranu.',
   'compare.singleVsMulti.recTitle': 'Závěr',
   'compare.singleVsMulti.safetyCta': 'Průvodce bezpečností',
   'compare.singleVsMulti.short': 'Jednokomorové vs vícekomorové',
@@ -89,15 +89,15 @@ module.exports = {
     'Pro provozovatele půjčoven, resorty a pádlařské kluby vícekomorová prkna snižují odpovědnost a prostoje vybavení. Menší defekt už neznamená úplné selhání prkna — prkno zůstane použitelné do opravy na konci dne.',
   'compare.singleVsMulti.whyMattersTitle': 'Proč počet komor záleží',
   'compare.specification': 'Specifikace',
-  'compare.title': 'Srovnání výrobků — Afarer',
+  'compare.title': 'Srovnání výrobků — OLagoon',
   'compare.weight': 'Hmotnost',
   'compare.width': 'Šířka',
   'engineeringPerfection.desc':
-    'Konstruktérská filozofie Afarer: precizní výroba, prémiový výběr materiálů, přísná kontrola kvality a design pro konkrétní segmenty — touringová, rybářská, jóga a rekreační nafukovací prkna SUP.',
+    'Konstruktérská filozofie OLagoon: precizní výroba, prémiový výběr materiálů, přísná kontrola kvality a design pro konkrétní segmenty — touringová, rybářská, jóga a rekreační nafukovací prkna SUP.',
   'engineeringPerfection.s3': 'Vlečné čluny a tendry',
-  'engineeringTeam.about': 'O společnosti Afarer',
+  'engineeringTeam.about': 'O společnosti OLagoon',
   'engineeringTeam.desc':
-    'Tým Afarer: 25+ vývojových inženýrů a výrobních specialistů. Odbornost v technologii drop-stitch jádra, zpracování PVC/Hypalon, designu trupu SUP a inženýrství souladu s CE. Sídlo v Qingdao, Čína.',
+    'Tým OLagoon: 25+ vývojových inženýrů a výrobních specialistů. Odbornost v technologii drop-stitch jádra, zpracování PVC/Hypalon, designu trupu SUP a inženýrství souladu s CE. Sídlo v Qingdao, Čína.',
   'engineeringTeam.join': 'Přidejte se ke konstruktérskému týmu',
   'engineeringTeam.joinDesc':
     'Vždy hledáme talentované inženýry v oblasti materiálových věd, produktového designu a kvalitativního inženýrství.',
@@ -154,7 +154,7 @@ module.exports = {
   'factory.testingEquipment': 'Zkušební zařízení',
   'factory.tradeTerms': 'Výrobní a obchodní podmínky',
   'factory.tradeTermsDesc':
-    'Afarer je značka provozovaná společností Aquafarer LLC (USA) — certifikace ISO a CE, s více než 10letými zkušenostmi s exportem.',
+    'OLagoon je značka provozovaná společností Olagoon LLC (USA) — certifikace ISO a CE, s více než 10letými zkušenostmi s exportem.',
   'factory.whatWeOffer': 'Co nabízíme',
   'faq.searchPlaceholder': 'Hledat v FAQ...',
   'guides.audience': 'Cílová skupina',
@@ -165,7 +165,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Ověřitelné standardy bezpečnosti a kvality',
   'home.brand.desc':
-    'Každé prkno Afarer začíná u vody — jejími proudy, podmínkami a lidmi, kteří na ní jezdí. Vysoce hustá drop-stitch jádra, zesílené bočnice a tvary laděné pro stabilitu a kluznost, poté tlakově testované prkno po prkně.',
+    'Každé prkno OLagoon začíná u vody — jejími proudy, podmínkami a lidmi, kteří na ní jezdí. Vysoce hustá drop-stitch jádra, zesílené bočnice a tvary laděné pro stabilitu a kluznost, poté tlakově testované prkno po prkně.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Tuhost drop-stitch jádra',
   'home.brand.feature1': 'Paluba',
@@ -176,8 +176,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Drop-stitch technologie',
   'home.brand.feature4': 'Bočnice',
   'home.brand.feature4.desc': 'Zesílená fúzní vrstva',
-  'home.brand.tagline': 'Rozdíl Afarer',
-  'home.brand.title': 'Proč Afarer<br />jezdí jinak',
+  'home.brand.tagline': 'Rozdíl OLagoon',
+  'home.brand.title': 'Proč OLagoon<br />jezdí jinak',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Tlakově testováno prkno po prkně',
   'home.brand.years': '10+',
@@ -186,9 +186,9 @@ module.exports = {
   'home.community.gallery': 'Galerie',
   'home.community.gallery.boats': 'Nafukovací čluny',
   'home.community.gallery.boats.desc':
-    'Rodiny a objevitelé si užívají nafukovací čluny Afarer na jezerech a v pobřežních vodách.',
+    'Rodiny a objevitelé si užívají nafukovací čluny OLagoon na jezerech a v pobřežních vodách.',
   'home.community.gallery.sup': 'Prkna SUP',
-  'home.community.gallery.sup.desc': 'Pádlaři objevují jezera, řeky a pobřeží na nafukovacích prknech SUP Afarer.',
+  'home.community.gallery.sup.desc': 'Pádlaři objevují jezera, řeky a pobřeží na nafukovacích prknech SUP OLagoon.',
   'home.community.gallery.title': 'Dobrodružství zákazníků',
   'home.community.gallery.viewAll': 'Zobrazit celou galerii',
   'home.engineering.design': 'Produktový design',
@@ -265,26 +265,26 @@ module.exports = {
   'home.socialProof.title': 'Ježděno a ověřeno na skutečné vodě',
   'home.socialProof.years': 'Let zkušeností',
   'home.tldr.summary':
-    'afarer navrhuje a vyrábí prémiová nafukovací prkna SUP, čluny a příslušenství — s certifikací CE a tlakově testovaná kus po kusu.',
-  'home.why.afarer.contact': 'Kontaktujte nás →',
-  'home.why.afarer.point1':
+    'olagoon navrhuje a vyrábí prémiová nafukovací prkna SUP, čluny a příslušenství — s certifikací CE a tlakově testovaná kus po kusu.',
+  'home.why.olagoon.contact': 'Kontaktujte nás →',
+  'home.why.olagoon.point1':
     'Tuhé, když na tom záleží — vysoce husté drop-stitch jádro a zesílené bočnice, které zůstávají tuhé pod tlakem.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Precizně zhotoveno — fúzně laminované švy a vzduchotěsnost, tlakově testováno prkno po prkně.',
-  'home.why.afarer.point3': 'Ověřeno na vodě — laděno ve skutečné vodě pro stabilitu, kluznost a kontrolu.',
-  'home.why.afarer.quality': 'Kvalita, které můžete věřit',
-  'home.why.afarer.subtitle': 'Postaveno s precizností. Nemilosrdně testováno. Podpořeno zárukou.',
-  'home.why.afarer.tagline': 'Proč afarer',
-  'home.why.afarer.title': 'Kvalita, které můžete věřit',
-  'home.why.afarer.viewMore': 'Zobrazit více →',
-  'home.why.afarer.warranty': 'Záruka a podpora',
-  'home.why.afarer.warranty.point1': 'Jasná záruční podmínky u každého prkna s rychle reagujícím poprodejním servisem.',
-  'home.why.afarer.warranty.point2': 'Vyhrazený poprodejní tým s rychlou odezvou.',
-  'home.why.afarer.warranty.point3':
+  'home.why.olagoon.point3': 'Ověřeno na vodě — laděno ve skutečné vodě pro stabilitu, kluznost a kontrolu.',
+  'home.why.olagoon.quality': 'Kvalita, které můžete věřit',
+  'home.why.olagoon.subtitle': 'Postaveno s precizností. Nemilosrdně testováno. Podpořeno zárukou.',
+  'home.why.olagoon.tagline': 'Proč olagoon',
+  'home.why.olagoon.title': 'Kvalita, které můžete věřit',
+  'home.why.olagoon.viewMore': 'Zobrazit více →',
+  'home.why.olagoon.warranty': 'Záruka a podpora',
+  'home.why.olagoon.warranty.point1': 'Jasná záruční podmínky u každého prkna s rychle reagujícím poprodejním servisem.',
+  'home.why.olagoon.warranty.point2': 'Vyhrazený poprodejní tým s rychlou odezvou.',
+  'home.why.olagoon.warranty.point3':
     'Plná transparentnost dodavatelského řetězce pro kluby, maloobchodníky a partnerské značky.',
   'nav.home': 'Domů',
   'oem.desc':
-    'Afarer — přední OEM/ODM výrobce nafukovacích prken SUP. CE certifikace. Vlastní forma, privátní značka, velkoobchod. Od nápadu na trh za 16 týdnů.',
+    'OLagoon — přední OEM/ODM výrobce nafukovacích prken SUP. CE certifikace. Vlastní forma, privátní značka, velkoobchod. Od nápadu na trh za 16 týdnů.',
   'oem.estimate.countries': 'Zemí s prokázanou historií dodávek',
   'oem.estimate.cta': 'Vyžádat nabídku',
   'oem.estimate.leadWeeks': 'Týdnů od briefu k odeslání',
@@ -295,7 +295,7 @@ module.exports = {
   'oem.faq.guide': 'Přečtěte si průvodce OEM kupujícího',
   'oem.faq.subtitle': 'Náš tým OEM je připraven pomoci vám začít.',
   'oem.faq.title': 'Máte ještě otázky?',
-  'oem.heading': 'Vaše značka SUP.<br />Postavil Afarer.',
+  'oem.heading': 'Vaše značka SUP.<br />Postavil OLagoon.',
   'oem.moq': 'MOQ 50 kusů pro standardní modely. Vlastní forma: 200+ kusů. FOB Qingdao.',
   'oem.packages.cta': 'Získat nabídku',
   'oem.packages.leadtime': 'Dodací lhůta',
@@ -359,8 +359,8 @@ module.exports = {
   'oem.why.support': 'Vyhrazená správa účtu',
   'oem.why.support.desc':
     'Jeden kontaktní bod od briefu po dodání. Pravidelné aktualizace o výrobě, fotografie a transparentní komunikace po celou dobu.',
-  'oem.why.tagline': 'Proč Afarer',
-  'oem.why.title': 'Proč partnerství s Afarer?',
+  'oem.why.tagline': 'Proč OLagoon',
+  'oem.why.title': 'Proč partnerství s OLagoon?',
   'packages.popular': 'Nejpopulárnější',
   'product.bestFor': 'Nejlepší pro',
   'product.commercialScenarios': 'Komerční scénáře',
@@ -373,11 +373,11 @@ module.exports = {
   'product.related': 'Doporučené výrobky',
   'product.view': 'Zobrazit výrobek',
   'resort.caseStudy': 'Skutečné výsledky',
-  'resort.caseStudy.sub': 'Co říkají provozovatelé resortů o spolupráci s Afarer.',
+  'resort.caseStudy.sub': 'Co říkají provozovatelé resortů o spolupráci s OLagoon.',
   'retail.discount': 'Velkoobchodní sleva',
   'retail.download': 'Stáhnout',
   'solutionsByIndustry.aiBlock':
-    'Řešení podle odvětví pro vybavení pro vodní sporty Afarer. Šest odvětví: pátrání a záchrana, pomoc při katastrofách a humanitární pomoc, komerční námořní operace, obrana a státní správa, pohostinství a cestovní ruch, rybolov a akvakultura. Všechna řešení s certifikací CE a výrobou ISO.',
+    'Řešení podle odvětví pro vybavení pro vodní sporty OLagoon. Šest odvětví: pátrání a záchrana, pomoc při katastrofách a humanitární pomoc, komerční námořní operace, obrana a státní správa, pohostinství a cestovní ruch, rybolov a akvakultura. Všechna řešení s certifikací CE a výrobou ISO.',
   'solutionsByIndustry.commercial.cert1': 'CE komerční plavidlo',
   'solutionsByIndustry.commercial.craft1': 'Komerční prkna SUP',
   'solutionsByIndustry.commercial.craft2': 'Prkna pro podporu potápění',
@@ -401,7 +401,7 @@ module.exports = {
     'Vodní vybavení vojenské třídy pro průzkum, přepravu jednotek, pobřežní hlídky a speciální operace.',
   'solutionsByIndustry.defense.name': 'Obrana a státní správa',
   'solutionsByIndustry.desc':
-    'Najděte správné řešení vodních sportů pro vaše odvětví. Vláda, obchod, rekreace, průmysl — Afarer vyrábí CE certifikované vybavení pro každý sektor.',
+    'Najděte správné řešení vodních sportů pro vaše odvětví. Vláda, obchod, rekreace, průmysl — OLagoon vyrábí CE certifikované vybavení pro každý sektor.',
   'solutionsByIndustry.disaster.cert1': 'CE certifikace',
   'solutionsByIndustry.disaster.cert2': 'Testováno na UV a drsné prostředí',
   'solutionsByIndustry.disaster.craft1': 'Náročná nafukovací prkna',
@@ -410,7 +410,7 @@ module.exports = {
   'solutionsByIndustry.disaster.desc':
     'Odolné vodní vybavení pro nouzovou odezvu, lékařskou evakuaci, přepravu zásob a dočasné přívozní mosty v oblastech postižených katastrofou.',
   'solutionsByIndustry.disaster.name': 'Pomoc při katastrofách a humanitární pomoc',
-  'solutionsByIndustry.expSub': 'Skutečné příklady toho, jak se vybavení Afarer osvědčuje v různých odvětvích.',
+  'solutionsByIndustry.expSub': 'Skutečné příklady toho, jak se vybavení OLagoon osvědčuje v různých odvětvích.',
   'solutionsByIndustry.expTitle': 'Odvětvová řešení v praxi',
   'solutionsByIndustry.fishing.cert1': 'CE rekreační',
   'solutionsByIndustry.fishing.cert2': 'Varianty materiálů bezpečných pro potraviny',
@@ -430,7 +430,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Dozvědět se více',
   'solutionsByIndustry.recommendedCraft': 'Doporučená plavidla',
   'solutionsByIndustry.rel1': 'Řešení podle použití',
-  'solutionsByIndustry.rel1desc': 'Přiřaďte své konkrétní použití ke správnému řešení Afarer.',
+  'solutionsByIndustry.rel1desc': 'Přiřaďte své konkrétní použití ke správnému řešení OLagoon.',
   'solutionsByIndustry.rel1label': 'Rozhodovací nástroj',
   'solutionsByIndustry.rel2': 'Komerční pracovní čluny',
   'solutionsByIndustry.rel2desc': 'Odolné vybavení pro každodenní komerční námořní operace.',
@@ -453,19 +453,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Pátrání a záchrana',
   'solutionsByIndustry.story1.context': 'Záchrana při pobřežních povodních, jihovýchodní Asie, 2024',
   'solutionsByIndustry.story1.narrative':
-    'Během závažných pobřežních povodní nasadil městský tým záchrany prkna SUP Afarer pro evakuační operace. Nízký ponor prken umožnil přístup do zaplavených čtvrtí, kam se větší plavidla nedostala. Navzdory troskám a 14hodinovému nepřetržitému provozu nevykazovala látka žádné známky opotřebení.',
+    'Během závažných pobřežních povodní nasadil městský tým záchrany prkna SUP OLagoon pro evakuační operace. Nízký ponor prken umožnil přístup do zaplavených čtvrtí, kam se větší plavidla nedostala. Navzdory troskám a 14hodinovému nepřetržitému provozu nevykazovala látka žádné známky opotřebení.',
   'solutionsByIndustry.story1.quote':
-    'Během pobřežních povodní jsme nasadili dvě záchranná prkna SUP Afarer — byla to jediná prkna, která dokázala plavit ve vodě plné trosek při odlivu.',
+    'Během pobřežních povodní jsme nasadili dvě záchranná prkna SUP OLagoon — byla to jediná prkna, která dokázala plavit ve vodě plné trosek při odlivu.',
   'solutionsByIndustry.story1.source': 'Vedoucí městského záchranného týmu',
   'solutionsByIndustry.story2.context': 'Potápěčské charterové operace, Maledivy, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    'Potápěčská charterová operace na Maledivách používá vybavení Afarer pro každodenní podporu potápění. Po 600+ provozních dnech prkna nevykazují významnou degradaci UV ani oddělování švů.',
+    'Potápěčská charterová operace na Maledivách používá vybavení OLagoon pro každodenní podporu potápění. Po 600+ provozních dnech prkna nevykazují významnou degradaci UV ani oddělování švů.',
   'solutionsByIndustry.story2.quote':
     'Naše potápěčská loď jezdí 6 dní v týdnu, 50 týdnů v roce. Po dvou letech vypadá látka Hypalon stále jako nová.',
   'solutionsByIndustry.story2.source': 'Majitel charterové společnosti',
   'solutionsByIndustry.title': 'Řešení podle odvětví — vybavení pro vodní sporty pro každý sektor',
   'solutionsByUseCase.aiBlock':
-    'Řešení podle použití pro vybavení pro vodní sporty afarer. Osm scénářů: záchrana na vodě, flotily pro pronájem, vlastní značka, hlídkování, humanitární pomoc, podpora potápění, výroba prken a osobní použití. Všechna řešení s certifikací CE a výrobou ISO.',
+    'Řešení podle použití pro vybavení pro vodní sporty olagoon. Osm scénářů: záchrana na vodě, flotily pro pronájem, vlastní značka, hlídkování, humanitární pomoc, podpora potápění, výroba prken a osobní použití. Všechna řešení s certifikací CE a výrobou ISO.',
   'solutionsByUseCase.answer1':
     'Náročná nafukovací záchranná prkna a čluny navržené pro záchranu na vodě a nouzovou odezvu. Rychlé nasazení, stabilní plošiny a certifikace CE pro profesionální týmy.',
   'solutionsByUseCase.answer2':
@@ -478,23 +478,23 @@ module.exports = {
     'Komerční pracovní čluny pro každodenní námořní operace — podpora potápění, přeprava vybavení a povinnosti posádky. Odolná konstrukce s variantami od 2 do 12 osob.',
   'solutionsByUseCase.rel2desc': 'Odolné vybavení pro každodenní komerční námořní operace.',
   'solutionsByUseCase.story1.narrative':
-    'Během závažných pobřežních povodní nasadil městský záchranný tým prkna SUP afarer pro evakuační operace. Nízký ponor prken umožnil přístup do zaplavených čtvrtí, kam se větší plavidla nedostala, a posádky po dnech nepřetržitého používání nehlásily významné opotřebení.',
+    'Během závažných pobřežních povodní nasadil městský záchranný tým prkna SUP olagoon pro evakuační operace. Nízký ponor prken umožnil přístup do zaplavených čtvrtí, kam se větší plavidla nedostala, a posádky po dnech nepřetržitého používání nehlásily významné opotřebení.',
   'solutionsByUseCase.story1.quote':
-    'Během pobřežních povodní jsme nasadili dvě záchranná prkna SUP afarer — byla to jediná prkna, která se dokázala dostat k obyvatelům v zaplavených čtvrtích.',
+    'Během pobřežních povodní jsme nasadili dvě záchranná prkna SUP olagoon — byla to jediná prkna, která se dokázala dostat k obyvatelům v zaplavených čtvrtích.',
   'solutionsByUseCase.story2.narrative':
-    'Norská rybí farma provozuje pracovní člun afarer pro inspekce, přepravu vybavení a bezpečnost potápěčského týmu od roku 2023. Dva roky celoročního provozu v chladných fjordových podmínkách bez strukturálních oprav.',
+    'Norská rybí farma provozuje pracovní člun olagoon pro inspekce, přepravu vybavení a bezpečnost potápěčského týmu od roku 2023. Dva roky celoročního provozu v chladných fjordových podmínkách bez strukturálních oprav.',
   'useCase.fishing.desc':
     'Rybářská prkna SUP a příslušenství s držáky prutů, širokými stabilními palubami a kotvicími body pro rybáře na jezerech, řekách a pobřežních vodách.',
   'useCase.searchAndRescue.desc':
     'Nafukovací záchranné vybavení pro rychlé nasazení při záchraně na vodě, povodních a pobřežních hlídkách.',
   'useCase.tourismRecreation.desc':
     'Zesílená prkna SUP a čluny ve třídě pro flotily pro provozovatele výletů, resorty a centra vodních sportů.',
-  'nav.exploreAfarer': 'Prozkoumat Afarer',
+  'nav.exploreOLagoon': 'Prozkoumat OLagoon',
   'nav.technologyMaterials': 'Technologie a materiály',
   'nav.qualitySafety': 'Kvalita a bezpečnost',
   'nav.storiesGuides': 'Příběhy a průvodci',
   'nav.coBrand': 'Společná značka',
-  'nav.coBrandWithAfarer': 'Společná značka s Afarer',
+  'nav.coBrandWithOLagoon': 'Společná značka s OLagoon',
   'nav.countryPartners': 'Partneři v zemích',
   'nav.findDistributor': 'Najít distributora',
   'nav.becomeCountryPartner': 'Stát se partnerem země',

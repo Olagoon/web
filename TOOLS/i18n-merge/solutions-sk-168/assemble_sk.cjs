@@ -1,11 +1,11 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require(path.join('E:', 'github', 'afarer', 'node_modules', 'js-yaml'));
+const yaml = require(path.join('E:', 'github', 'olagoon', 'node_modules', 'js-yaml'));
 
 const base = __dirname;
 const partsDir = path.join(base, 'parts');
-const frPath = path.join('E:', 'github', 'afarer', 'src', 'data', 'biz-solutions', 'translations', 'fr.ts');
-const outPath = path.join('E:', 'github', 'afarer', 'src', 'data', 'biz-solutions', 'translations', 'sk.ts');
+const frPath = path.join('E:', 'github', 'olagoon', 'src', 'data', 'biz-solutions', 'translations', 'fr.ts');
+const outPath = path.join('E:', 'github', 'olagoon', 'src', 'data', 'biz-solutions', 'translations', 'sk.ts');
 
 // copy the SolutionOverride type header verbatim from fr.ts (lines 1-42, ends with '};')
 const frLines = fs.readFileSync(frPath, 'utf8').split(/\r?\n/);

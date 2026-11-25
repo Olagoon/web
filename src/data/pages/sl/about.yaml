@@ -1,6 +1,6 @@
 meta:
-  title: 'O znamki Afarer — znamka napihljivih desk SUP in vodnih športov | {SITE}'
-  description: 'Afarer je globalna znamka napihljivih desk SUP in vodnih športov, ki jo upravlja Aquafarer LLC (ZDA), gradila pa jo je naša operativna ekipa v Qingdaou. Odkrijte našo zgodbo, inženiring, certificirano kakovost in programe državnih partnerjev.'
+  title: 'O znamki OLagoon — znamka napihljivih desk SUP in vodnih športov | {SITE}'
+  description: 'OLagoon je globalna znamka napihljivih desk SUP in vodnih športov, ki jo upravlja Olagoon LLC (ZDA), gradila pa jo je naša operativna ekipa v Qingdaou. Odkrijte našo zgodbo, inženiring, certificirano kakovost in programe državnih partnerjev.'
   keywords:
     - 'znamka napihljivih desk SUP'
     - 'znamka vodnih športov'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'O nas'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'tovarna in delavnica afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'tovarna in delavnica olagoon'
   title: |
     Pomorski inženiring, <br />
-    zgrajen na način <span class="text-accent dark:text-white">afarer</span>
+    zgrajen na način <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'Začeli smo v obalni delavnici z eno desko in trmastim prepričanjem: pomorski izdelki morajo biti inženirsko zasnovani, kot da so pomembni, ker so. Danes odpošiljamo v več kot 40 držav, vsak trup pa še vedno preide skozi iste roke, ki so začele podjetje.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Oblikovanje projekt za projektom za komercialne, znanstvene in vojaške stranke.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Pogovor o oblikovanju in inženiringu desk'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Mejniki'
-  subtitle: 'Kratka različica zgodbe afarer.'
+  subtitle: 'Kratka različica zgodbe olagoon.'
   isReversed: true
   items:
     - title: 'Ustanovljeno v obalni delavnici'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Odpošiljanje v več kot 50 držav iz našega objekta v Qingdaou s pooblaščenimi servisnimi partnerji po Evropi, azijsko-pacifiški regiji in Amerikah.'
     link: /brand-global-presence/
     link_label: 'Več →'
-  - title: 'Zakaj afarer'
+  - title: 'Zakaj olagoon'
     desc: 'Znamka, zgrajena na preverjeni kakovosti — dvojna certifikacija (ISO 9001 + BSCI), skladnost s CE ter ekskluzivna državna partnerstva z omejenimi kolekcijami s skupno znamko za podjetja vodnih športov.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Več →'

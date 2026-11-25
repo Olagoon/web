@@ -29,7 +29,7 @@ const PAGES = [
   'whitepaper/oem-sup-manufacturing-guide.astro',
   'ultra-stable-sup.astro',
   'disclaimer.astro',
-  'afarer-story.astro',
+  'olagoon-story.astro',
 ];
 
 const HELPER = "const fr = (en: string, francais: string) => (lang === 'fr' ? francais : en);";

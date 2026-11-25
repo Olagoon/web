@@ -1,8 +1,8 @@
 meta:
-  title: 'Media & Pers — Persberichten en afarer-materiaal | {SITE}'
-  description: 'Het afarer mediacentrum: persberichten, merkmateriaal en bronnen van ons bedrijf dat opblaasbare SUPs produceert.'
+  title: 'Media & Pers — Persberichten en olagoon-materiaal | {SITE}'
+  description: 'Het olagoon mediacentrum: persberichten, merkmateriaal en bronnen van ons bedrijf dat opblaasbare SUPs produceert.'
   keywords:
-    - 'afarer pers'
+    - 'olagoon pers'
     - 'SUP-fabrikant media'
     - 'paddle board perskit'
     - 'nautisch bedrijfsnieuws'
@@ -21,7 +21,7 @@ sections:
       - Accessoires en veiligheidsuitrusting
   - id: logo-brand-kit
     title: Logo en merkset
-    desc: Officiële afarer-logo bestanden, kleurenpalet, typografie en merkrichtlijnen.
+    desc: Officiële olagoon-logo bestanden, kleurenpalet, typografie en merkrichtlijnen.
     items:
       - Primair logo (PNG/SVG/EPS)
       - Icoonmerk
@@ -55,7 +55,7 @@ cta:
       desc: Bekijk onze productiefaciliteit van 12.000 m²
     - label: Merkrichtlijnen
       href: /brand/
-      desc: Ontdek het merk afarer
+      desc: Ontdek het merk olagoon
     - label: Werk met ons samen
       href: /contact/
       desc: OEM-, ODM- en distributievragen

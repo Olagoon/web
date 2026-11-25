@@ -50,7 +50,7 @@ function get(u, method = 'GET') {
   const rootSample = [
     '/yoga-sup',
     '/research/sup-valve-types',
-    '/about/afarer-brand',
+    '/about/olagoon-brand',
     '/solutions/oem-brands',
     '/guides/kayak-techniques',
     '/resources/download-catalog',
@@ -59,7 +59,7 @@ function get(u, method = 'GET') {
   ];
   for (const p of rootSample) {
     try {
-      const r = await get('https://afarer.com' + p, 'HEAD');
+      const r = await get('https://olagoon.com' + p, 'HEAD');
       console.log(p, '->', r.s, r.loc || '(no redirect)');
     } catch (e) {
       console.log(p, 'ERR', e.message);
@@ -69,7 +69,7 @@ function get(u, method = 'GET') {
   // 3) de-only pages: what are they?
   console.log('\n=== de-only use-cases pages ===');
   for (const p of ['/de/use-cases/fishing-from-inflatable-craft', '/de/use-cases/touring-distance-paddling']) {
-    const r = await get('https://afarer.com' + p + '/');
+    const r = await get('https://olagoon.com' + p + '/');
     const title = (r.b.match(/<title>([^<]*)<\/title>/) || [])[1] || '?';
     console.log(p, r.s, 'title:', title);
   }
@@ -78,7 +78,7 @@ function get(u, method = 'GET') {
     ['en', '/en/use-cases/'],
     ['de', '/de/use-cases/'],
   ]) {
-    const r = await get('https://afarer.com' + p);
+    const r = await get('https://olagoon.com' + p);
     const links = [...r.b.matchAll(/href="\/[^"]*use-cases\/[^"]+"/g)].map((m) => m[0].slice(6, -1));
     const uniq = [...new Set(links)].filter((l) => !l.endsWith('/use-cases/'));
     console.log(loc, 'use-case links:', uniq.length, uniq.join(' '));

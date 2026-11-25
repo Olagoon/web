@@ -1,6 +1,6 @@
 meta:
   title: 'Verslo sprendimai — SUP kiekvienam verslui | {SITE}'
-  description: 'afarer verslo sprendimai: SUP flotilės kurortams, klubams, nuomos įmonėms, platinimui ir privačiems prekės ženklams. Profesionalios jūrinės įrangos tiekėjas B2B sektoriui.'
+  description: 'olagoon verslo sprendimai: SUP flotilės kurortams, klubams, nuomos įmonėms, platinimui ir privačiems prekės ženklams. Profesionalios jūrinės įrangos tiekėjas B2B sektoriui.'
   keywords:
     - 'sup verslo sprendimai'
     - 'pripučiamų irklavimo lentų tiekėjas'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Verslo sprendimai'
   title: 'SUP sprendimai<br />Kiekvienam verslui'
-  subtitle: 'Nuo kurortų iki mažmeninės prekybos, nuomos operatorių iki pasaulinių platintojų — Afarer teikia išsamius SUP sprendimus, pritaikytus jūsų verslo modeliui.'
+  subtitle: 'Nuo kurortų iki mažmeninės prekybos, nuomos operatorių iki pasaulinių platintojų — OLagoon teikia išsamius SUP sprendimus, pritaikytus jūsų verslo modeliui.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Afarer SUP lentos verslui ir profesionalioms reikmėms'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'OLagoon SUP lentos verslui ir profesionalioms reikmėms'
 stats:
-  title: 'Afarer iš arti'
+  title: 'OLagoon iš arti'
   stats:
     - title: 'Metų patirtis'
       amount: 'Nuo 2012 m.'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Sukurkite savo prekės ženklą'
-      description: 'Visapusiška OEM/ODM SUP gamyba — dizainas, prototipai, masinė gamyba ir logistika. Paleiskite savo prekės ženklą su Afarer.'
+      description: 'Visapusiška OEM/ODM SUP gamyba — dizainas, prototipai, masinė gamyba ir logistika. Paleiskite savo prekės ženklą su OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

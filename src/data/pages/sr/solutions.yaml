@@ -1,6 +1,6 @@
 meta:
   title: 'Пословна решења — SUP даске за сваки бизнис | {SITE}'
-  description: 'afarer пословна решења: SUP флоте за одмаралишта, клубове, изнајмљивање, дистрибуцију и приватне марке. Професионални добављач наутичке опреме за B2B.'
+  description: 'olagoon пословна решења: SUP флоте за одмаралишта, клубове, изнајмљивање, дистрибуцију и приватне марке. Професионални добављач наутичке опреме за B2B.'
   keywords:
     - 'sup пословна решења'
     - 'добављач надувних дасака за веслање'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Пословна решења'
   title: 'SUP решења<br />за сваки бизнис'
-  subtitle: 'Од одмаралишта до малопродаје, од оператера изнајмљивања до глобалних дистрибутера — Afarer пружа потпуна SUP решења прилагођена вашем пословном моделу.'
+  subtitle: 'Од одмаралишта до малопродаје, од оператера изнајмљивања до глобалних дистрибутера — OLagoon пружа потпуна SUP решења прилагођена вашем пословном моделу.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Afarer SUP даске за пословне и професионалне примене'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'OLagoon SUP даске за пословне и професионалне примене'
 stats:
-  title: 'Afarer на први поглед'
+  title: 'OLagoon на први поглед'
   stats:
     - title: 'Година искуства'
       amount: 'Од 2012.'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Изградите сопствени бренд'
-      description: 'Потпуна OEM/ODM производња SUP дасака — дизајн, прототипови, серијска производња и логистика. Лансирајте свој бренд са Afarer-ом.'
+      description: 'Потпуна OEM/ODM производња SUP дасака — дизајн, прототипови, серијска производња и логистика. Лансирајте свој бренд са OLagoon-ом.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

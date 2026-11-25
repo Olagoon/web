@@ -1,6 +1,6 @@
 meta:
   title: 'Încrederea — calitate, standarde și reputație | {SITE}'
-  description: 'De ce să aveți încredere în afarer: certificări CE și ISO, fabrică integrată, referințe globale și garanție. Un producător profesionist de plăci de SUP gonflabile.'
+  description: 'De ce să aveți încredere în olagoon: certificări CE și ISO, fabrică integrată, referințe globale și garanție. Un producător profesionist de plăci de SUP gonflabile.'
   keywords:
     - 'producător SUP de încredere'
     - 'fabrica certificată de paddle board'
@@ -8,15 +8,15 @@ meta:
     - 'fabrica SUP certificată'
 hero:
   tagline: Construit după standarde care contează
-  title: Ai Încredere în afarer
+  title: Ai Încredere în olagoon
   subtitle: |
     Fiecare produs pe care îl construim este certificat CE — testat pentru siguranță,<br />
     durabilitate și performanță. Fără scurtături. Fără excepții.
   taglineSection: Certificat. Testat. Dovedit.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: Produs afarer supus testării de calitate
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: Produs olagoon supus testării de calitate
 stats:
-  title: afarer în cifre
+  title: olagoon în cifre
   stats:
     - title: Certificat CE
       description: Toate produsele recreaționale îndeplinesc standardele de siguranță UE
@@ -25,7 +25,7 @@ stats:
     - title: BSCI & REACH
       description: Fabricație etică și conformitate materială
     - title: Garanție de 3 ani
-      description: Pentru fiecare produs afarer — fără întrebări
+      description: Pentru fiecare produs olagoon — fără întrebări
 features3_certifications:
   title: Certificări și Conformitate
   subtitle: Fiecare produs este testat independent și certificat conform standardelor internaționale.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: Certificare CE
-      description: Toate SUP-urile afarer îndeplinesc standardul european de siguranță CE pentru utilizare recreațională. Fiecare produs trece prin testare de presiune, flotabilitate și încărcare înainte de a părăsi fabrica.
+      description: Toate SUP-urile olagoon îndeplinesc standardul european de siguranță CE pentru utilizare recreațională. Fiecare produs trece prin testare de presiune, flotabilitate și încărcare înainte de a părăsi fabrica.
       icon: tabler:certificate
     - title: ISO 9001
       description: Unitatea noastră de 12.000 m² din Qingdao funcționează sub un sistem de management al calității ISO 9001. Fiecare lot de producție este trasabil, documentat și inspectat.
@@ -48,20 +48,20 @@ features3_certifications:
       description: Laboratorul intern de materiale testează rezistența la tracțiune, rezistența UV, integritatea cusăturilor și abraziunea pentru fiecare lot de țesătură înainte de producție.
       icon: tabler:microscope
     - title: Garanție de 3 ani
-      description: Fiecare produs afarer vine cu o garanție de trei ani împotriva defectelor de fabricație. Garantăm ceea ce construim.
+      description: Fiecare produs olagoon vine cu o garanție de trei ani împotriva defectelor de fabricație. Garantăm ceea ce construim.
       icon: tabler:shield-check
 testimonials:
   tagline: Încrederea Clienților
   title: Ce spun clienții noștri
-  subtitle: De la vâslași începători la operatori profesioniști de flotă — vedeți de ce au încredere în afarer.
+  subtitle: De la vâslași începători la operatori profesioniști de flotă — vedeți de ce au încredere în olagoon.
   items:
-    - content: Am echipat întreaga noastră flotă de închiriat cu SUP-uri afarer. Două sezoane mai târziu, zero defecțiuni. Certificarea CE a făcut aprobarea asigurării fără probleme.
+    - content: Am echipat întreaga noastră flotă de închiriat cu SUP-uri olagoon. Două sezoane mai târziu, zero defecțiuni. Certificarea CE a făcut aprobarea asigurării fără probleme.
       name: Marco V.
       title: Operator turistic, Croația
     - content: Ca un cumpărător pentru prima dată, eram nervos în privința calității. Documentația ISO și rapoartele de testare pe care le-au împărtășit mi-au dat încredere deplină.
       name: James T.
       title: Proprietar SUP Explorer 11, Canada
-    - content: Colaborăm cu afarer pentru unitățile noastre de patrulare de coastă. Procesul lor de QC este consecvent în fiecare lot — această fiabilitate contează în operațiunile critice pentru misiune.
+    - content: Colaborăm cu olagoon pentru unitățile noastre de patrulare de coastă. Procesul lor de QC este consecvent în fiecare lot — această fiabilitate contează în operațiunile critice pentru misiune.
       name: Lt. Cmdr. Andres
       title: Achiziții guvernamentale, Filipine
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Stăm în spatele fiecărui produs cu termeni clari de garanție, procesare rapidă a cererilor de despăgubire și piese de schimb originale.
   items:
     - title: Garanție de 3 Ani
-      desc: Toate produsele afarer beneficiază de o garanție de 3 ani împotriva defectelor de fabricație — cusături defecte, valve defecte și delaminarea materialului în condiții normale de utilizare.
+      desc: Toate produsele olagoon beneficiază de o garanție de 3 ani împotriva defectelor de fabricație — cusături defecte, valve defecte și delaminarea materialului în condiții normale de utilizare.
     - title: Suport pe viață pentru piese de schimb
       desc: Piese de schimb originale — supape, kituri de reparații, aripioare, inele D — disponibile pentru toate modelele. Păstrăm mucelele și sculele de producție minimum 5 ani după încetarea producției.
     - title: Răspuns la cereri în 48 de ore
@@ -151,25 +151,25 @@ faqs_sup:
     - title: Oferiți pachete complete SUP?
       description: Da. Fiecare placă SUP este livrată cu un pachet complet, incluzând o paddă din aluminiu din 3 piese, pompă de mână de înaltă presiune, lesă spiralată, rucsac de călătorie și kit de reparații. Unele modele includ și un set de aripioare detașabile.
     - title: Care este garanția pentru plăcile SUP?
-      description: Toate plăcile SUP afarer beneficiază de o garanție de trei ani împotriva defectelor de fabricație, inclusiv defectarea cusăturilor, defecte ale supapelor și delaminarea materialului în condiții normale de utilizare.
+      description: Toate plăcile SUP olagoon beneficiază de o garanție de trei ani împotriva defectelor de fabricație, inclusiv defectarea cusăturilor, defecte ale supapelor și delaminarea materialului în condiții normale de utilizare.
     - title: Cât timp durează umflarea unei plăci SUP?
-      description: Folosind pompa de mână inclusă, umflarea completă la 15 PSI durează aproximativ 8–12 minute. Pentru umflare mai rapidă, recomandăm pompa noastră electrică afarer 12V, care umflă o placă în mai puțin de 4 minute.
+      description: Folosind pompa de mână inclusă, umflarea completă la 15 PSI durează aproximativ 8–12 minute. Pentru umflare mai rapidă, recomandăm pompa noastră electrică olagoon 12V, care umflă o placă în mai puțin de 4 minute.
 faqs_materials:
   title: Întrebări frecvente despre materialele și îngrijirea SUP-urilor
   subtitle: Întrebări frecvente despre materialele SUP-urilor noastre gonflabile, îngrijirea și depozitarea lor.
   columns: 2
   items:
-    - title: Ce materiale sunt folosite în SUP-urile gonflabile afarer?
+    - title: Ce materiale sunt folosite în SUP-urile gonflabile olagoon?
       description: Folosim PVC de calitate militară (1100 denieri) cu construcție stabilizată la UV și rezistentă la abraziune, conformă cu reglementările UE REACH și RoHS.
     - title: Cât timp rezistă plăcile SUP gonflabile?
       description: Cu îngrijire adecvată, o placă SUP inflabilă din PVC de calitate rezistă 5–10 ani. Curățarea regulată, protecția UV și depozitarea corespunzătoare prelungesc semnificativ durata de viață.
     - title: Ce întreținere este necesară pentru un SUP gonflabil?
       description: Întreținerea de bază include clătirea cu apă dulce după fiecare utilizare (mai ales în apă sărată), uscarea înainte de depozitare, verificarea anuală a garniturilor supapelor și evitarea expunerii prelungite la soare atunci când nu sunt folosite.
     - title: Pot fi folosite plăcile SUP pneumatice în apă sărată?
-      description: Da. Toate plăcile SUP gonflabile afarer sunt proiectate pentru utilizare atât în apă dulce, cât și în apă sărată. Recomandăm clătirea cu apă dulce și uscarea completă după expunerea la apă sărată.
+      description: Da. Toate plăcile SUP gonflabile olagoon sunt proiectate pentru utilizare atât în apă dulce, cât și în apă sărată. Recomandăm clătirea cu apă dulce și uscarea completă după expunerea la apă sărată.
     - title: Cum depozitez un SUP gonflabil?
       description: Dezaflați, curățați și uscați complet placa înainte de depozitare. Rulați lejer (evitați pliurile strânse), depozitați într-un loc răcoros și uscat, ferit de lumina directă a soarelui, și nu o lăsați pe podele de beton, pentru a preveni absorbția umidității.
-    - title: Care este capacitatea de greutate a plăcilor SUP gonflabile afarer?
+    - title: Care este capacitatea de greutate a plăcilor SUP gonflabile olagoon?
       description: Capacitățile de greutate variază de la 100 kg pentru cele mai mici modele până la peste 200 kg pentru plăcile mai mari. Fiecare pagină de produs listează sarcina maximă pentru modelul dumneavoastră specific.
 cta:
   title: Vrei să vezi certificările personal?

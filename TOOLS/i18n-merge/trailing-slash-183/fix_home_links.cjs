@@ -1,5 +1,5 @@
 const fs = require('fs');
-const file = 'E:/github/afarer/src/pages/[lang]/index.astro';
+const file = 'E:/github/olagoon/src/pages/[lang]/index.astro';
 let s = fs.readFileSync(file, 'utf8');
 const orig = s;
 

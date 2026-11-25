@@ -2,7 +2,7 @@ module.exports = {
   about: {
     title: 'Über uns — Hersteller aufblasbarer SUPs & Boote | {SITE}',
     description:
-      'afarer ist ein professioneller Hersteller aufblasbarer SUPs und Boote mit eigener Fabrik, Schiffsbautechnik und OEM/ODM-Produktion. Entdecken Sie unser zertifiziertes Werk und nautische Lösungen für Marken und Unternehmen.',
+      'olagoon ist ein professioneller Hersteller aufblasbarer SUPs und Boote mit eigener Fabrik, Schiffsbautechnik und OEM/ODM-Produktion. Entdecken Sie unser zertifiziertes Werk und nautische Lösungen für Marken und Unternehmen.',
     keywords: [
       'Hersteller aufblasbarer SUPs',
       'Hersteller aufblasbarer Boote',
@@ -14,7 +14,7 @@ module.exports = {
   academy: {
     title: 'Akademie — SUP-Guides & Paddeltraining | {SITE}',
     description:
-      'afarer Akademie: Guides für aufblasbare Paddleboards, Stand-up-Paddle-Techniken, nautische Sicherheit und Materialwissen für Anfänger und Profis.',
+      'olagoon Akademie: Guides für aufblasbare Paddleboards, Stand-up-Paddle-Techniken, nautische Sicherheit und Materialwissen für Anfänger und Profis.',
     keywords: [
       'Stand up Paddle lernen',
       'SUP-Anfängerguide',
@@ -23,22 +23,22 @@ module.exports = {
       'SUP-Unterricht',
     ],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Unsere Geschichte — Hersteller aufblasbarer SUPs & Boote | {SITE}',
     description:
-      'Von einer Küstenwerkstatt zu einem globalen Marinehersteller: die afarer Geschichte von Ingenieurskunst und Freiheit auf dem Wasser mit einem zertifizierten 12.000-m²-Werk.',
-    keywords: ['afarer Geschichte', 'Marke afarer', 'Hersteller aufblasbarer SUPs', 'Hersteller aufblasbarer Boote'],
+      'Von einer Küstenwerkstatt zu einem globalen Marinehersteller: die olagoon Geschichte von Ingenieurskunst und Freiheit auf dem Wasser mit einem zertifizierten 12.000-m²-Werk.',
+    keywords: ['olagoon Geschichte', 'Marke olagoon', 'Hersteller aufblasbarer SUPs', 'Hersteller aufblasbarer Boote'],
   },
   'brand-global-presence': {
     title: 'Globale Präsenz — SUP-Hersteller für 50+ Länder | {SITE}',
     description:
-      'afarer exportiert aufblasbare SUPs und Boote in über 50 Länder auf allen Kontinenten. Professioneller Hersteller und Lieferant für Marken, Händler und Flotten.',
+      'olagoon exportiert aufblasbare SUPs und Boote in über 50 Länder auf allen Kontinenten. Professioneller Hersteller und Lieferant für Marken, Händler und Flotten.',
     keywords: ['globaler SUP-Hersteller', 'Paddleboard-Exporteur', 'SUP-Fabrik China', 'professioneller SUP-Lieferant'],
   },
   'brand-marine-expertise': {
     title: 'Marine-Kompetenz — Ingenieurskunst in jedem Rumpf | {SITE}',
     description:
-      'Jahrzehntelange Schiffsbaukompetenz in jedem Rumpf. afarer beherrscht Drop-Stitch, Marine-PVC und professionelles Design aufblasbarer Boote und SUPs.',
+      'Jahrzehntelange Schiffsbaukompetenz in jedem Rumpf. olagoon beherrscht Drop-Stitch, Marine-PVC und professionelles Design aufblasbarer Boote und SUPs.',
     keywords: [
       'Schiffstechnik',
       'Hersteller aufblasbarer Boote',
@@ -49,30 +49,30 @@ module.exports = {
   'brand-team': {
     title: 'Unser Team — Schiffsingenieure & Konstrukteure | {SITE}',
     description:
-      '2012 in Qingdao gegründet, wurde afarer von Schiffsingenieuren, Materialwissenschaftlern und Wassersportbegeisterten aufgebaut. Lernen Sie das Team hinter der Fabrik kennen.',
-    keywords: ['afarer Team', 'Schiffsingenieure', 'Hersteller aufblasbarer SUPs', 'SUP-Fabrikteam'],
+      '2012 in Qingdao gegründet, wurde olagoon von Schiffsingenieuren, Materialwissenschaftlern und Wassersportbegeisterten aufgebaut. Lernen Sie das Team hinter der Fabrik kennen.',
+    keywords: ['olagoon Team', 'Schiffsingenieure', 'Hersteller aufblasbarer SUPs', 'SUP-Fabrikteam'],
   },
-  'brand-why-afarer': {
-    title: 'Warum afarer — 7 Gründe, warum globale Marken uns wählen | {SITE}',
+  'brand-why-olagoon': {
+    title: 'Warum olagoon — 7 Gründe, warum globale Marken uns wählen | {SITE}',
     description:
-      'Warum globale Marken afarer wählen: CE- und ISO-Zertifizierungen, flexible MOQ, kundenspezifische Formen und Lieferzeiten von 30 Tagen aus einer professionellen SUP-Fabrik.',
+      'Warum globale Marken olagoon wählen: CE- und ISO-Zertifizierungen, flexible MOQ, kundenspezifische Formen und Lieferzeiten von 30 Tagen aus einer professionellen SUP-Fabrik.',
     keywords: [
-      'warum afarer',
+      'warum olagoon',
       'Hersteller aufblasbarer SUPs',
       'SUP-Fabrik China',
       'Lieferant aufblasbarer Paddleboards',
     ],
   },
   brand: {
-    title: 'Die Marke afarer — Professioneller Marinehersteller | {SITE}',
+    title: 'Die Marke olagoon — Professioneller Marinehersteller | {SITE}',
     description:
-      'afarer: ein professioneller Hersteller aufblasbarer SUPs und Boote mit OEM/ODM-Produktion für Marken, Händler, Wassersportclubs und Unternehmen.',
-    keywords: ['Marke afarer', 'Hersteller aufblasbarer SUPs', 'Hersteller aufblasbarer Boote', 'SUP-Fabrik China'],
+      'olagoon: ein professioneller Hersteller aufblasbarer SUPs und Boote mit OEM/ODM-Produktion für Marken, Händler, Wassersportclubs und Unternehmen.',
+    keywords: ['Marke olagoon', 'Hersteller aufblasbarer SUPs', 'Hersteller aufblasbarer Boote', 'SUP-Fabrik China'],
   },
   cases: {
     title: 'Fallstudien — Erfolgreiche OEM-Projekte | {SITE}',
     description:
-      'Echte Projekte, echte Ergebnisse: SUP-Flotten für Resorts, Eigenmarken, Vertrieb und Rettung. Sehen Sie, wie afarer seine OEM-Partner unterstützt.',
+      'Echte Projekte, echte Ergebnisse: SUP-Flotten für Resorts, Eigenmarken, Vertrieb und Rettung. Sehen Sie, wie olagoon seine OEM-Partner unterstützt.',
     keywords: [
       'SUP-Fallstudien',
       'OEM-Paddleboard-Projekte',
@@ -83,13 +83,13 @@ module.exports = {
   certifications: {
     title: 'Zertifizierungen — CE, ISO 9001 & Konformität | {SITE}',
     description:
-      'Qualitätszertifizierungen von afarer: CE (Richtlinie 2013/53/EU), ISO 9001:2015, BSCI. Konformität und Sicherheit für einen Hersteller aufblasbarer SUPs und Boote.',
+      'Qualitätszertifizierungen von olagoon: CE (Richtlinie 2013/53/EU), ISO 9001:2015, BSCI. Konformität und Sicherheit für einen Hersteller aufblasbarer SUPs und Boote.',
     keywords: ['CE-Zertifizierung SUP', 'ISO 9001 SUP', 'nautische Konformität', 'Paddleboard-Zertifizierung'],
   },
   'commercial-workboats': {
     title: 'Kommerzielle Arbeitsboote — OEM-Schlauchboote für die Marineindustrie | {SITE}',
     description:
-      'afarer fertigt kommerzielle aufblasbare Arbeitsboote für Patrouille, Tauchbetrieb, Meeresvermessung und Offshore-Logistik. OEM/ODM mit CE-Zertifizierung und individuellen Konfigurationen.',
+      'olagoon fertigt kommerzielle aufblasbare Arbeitsboote für Patrouille, Tauchbetrieb, Meeresvermessung und Offshore-Logistik. OEM/ODM mit CE-Zertifizierung und individuellen Konfigurationen.',
     keywords: [
       'kommerzieller Schlauchboot-Hersteller',
       'Arbeitsboot OEM',
@@ -100,15 +100,15 @@ module.exports = {
   community: {
     title: 'Gemeinschaft — SUP-Abenteuer & Paddelsport | {SITE}',
     description:
-      'Die afarer Gemeinschaft: Paddle-Clubs, SUP-Events, nautische Abenteuer und Geschichten von begeisterten Stand-up-Paddlern.',
+      'Die olagoon Gemeinschaft: Paddle-Clubs, SUP-Events, nautische Abenteuer und Geschichten von begeisterten Stand-up-Paddlern.',
     keywords: ['Paddle-Gemeinschaft', 'SUP-Club', 'Paddle-Events', 'SUP-Abenteuer'],
   },
   contact: {
     title: 'Kontakt — OEM-Angebote & SUP-Hersteller | {SITE}',
     description:
-      'Kontaktieren Sie afarer für OEM/ODM-Angebote, Eigenmarkenprojekte oder professionelle Flotten. Hersteller aufblasbarer SUPs und Boote — Antwort innerhalb von 2 Werktagen.',
+      'Kontaktieren Sie olagoon für OEM/ODM-Angebote, Eigenmarkenprojekte oder professionelle Flotten. Hersteller aufblasbarer SUPs und Boote — Antwort innerhalb von 2 Werktagen.',
     keywords: [
-      'afarer kontaktieren',
+      'olagoon kontaktieren',
       'OEM-Paddleboard-Angebot',
       'professioneller SUP-Lieferant',
       'SUP-Hersteller kontaktieren',
@@ -129,7 +129,7 @@ module.exports = {
   'disaster-relief': {
     title: 'Schlauchboote für Katastrophenhilfe — OEM-Fertigung | {SITE}',
     description:
-      'afarer fertigt aufblasbare Boote für Katastrophenhilfe und humanitäre Einsätze: Hochwasserrettung, MEDEVAC, Hilfslieferungen und Personentransport. CE-zertifiziert.',
+      'olagoon fertigt aufblasbare Boote für Katastrophenhilfe und humanitäre Einsätze: Hochwasserrettung, MEDEVAC, Hilfslieferungen und Personentransport. CE-zertifiziert.',
     keywords: [
       'Schlauchboot Katastrophenhilfe',
       'Rettungsboot-Hersteller',
@@ -140,13 +140,13 @@ module.exports = {
   'factory-capacity': {
     title: 'Produktionskapazität — 12.000-m²-Werk | {SITE}',
     description:
-      'Kapazität der afarer-Fabrik: 12.000-m²-Anlage mit über 15.000 Booten pro Jahr und Ausbaupotenzial. Großserien-OEM/ODM-Fertigung aufblasbarer SUPs und Boote.',
+      'Kapazität der olagoon-Fabrik: 12.000-m²-Anlage mit über 15.000 Booten pro Jahr und Ausbaupotenzial. Großserien-OEM/ODM-Fertigung aufblasbarer SUPs und Boote.',
     keywords: ['SUP-Produktionskapazität', 'aufblasbare SUP-Fabrik', 'Paddleboard-Produktion', 'SUP-Fabrik China'],
   },
   'factory-equipment': {
     title: 'Fabrikausstattung — Zuschnitt, HF-Schweißen & Druck | {SITE}',
     description:
-      'Industrielle Fertigungsausrüstung von afarer: PVC-Zuschnitt, HF-Schweißen, Digitaldruck, Montage und Prüfung aufblasbarer SUPs und Boote.',
+      'Industrielle Fertigungsausrüstung von olagoon: PVC-Zuschnitt, HF-Schweißen, Digitaldruck, Montage und Prüfung aufblasbarer SUPs und Boote.',
     keywords: ['SUP-Fertigungsausrüstung', 'aufblasbare SUP-Fabrik', 'HF-Schweißen PVC', 'Paddleboard-Produktion'],
   },
   'factory-oem-capability': {
@@ -158,7 +158,7 @@ module.exports = {
   'factory-process': {
     title: 'Fertigungsprozess — Vom Rohmaterial zum SUP | {SITE}',
     description:
-      'Vom Rohmaterial zum seetauglichen SUP: jeder Schritt des Fertigungsprozesses von afarer unter unserer Kontrolle — vom Zuschnitt und Schweißen bis zur Prüfung.',
+      'Vom Rohmaterial zum seetauglichen SUP: jeder Schritt des Fertigungsprozesses von olagoon unter unserer Kontrolle — vom Zuschnitt und Schweißen bis zur Prüfung.',
     keywords: [
       'SUP-Fertigungsprozess',
       'aufblasbare SUP-Fabrik',
@@ -169,13 +169,13 @@ module.exports = {
   'factory-quality-lab': {
     title: 'Qualitätslabor — Prüfung & Qualitätssicherung | {SITE}',
     description:
-      'Unabhängiges Qualitätslabor mit ISO-9001-Prozessen bei afarer: jedes Gerät wird vor dem Versand geprüft, um die Qualität aufblasbarer SUPs und Boote zu garantieren.',
+      'Unabhängiges Qualitätslabor mit ISO-9001-Prozessen bei olagoon: jedes Gerät wird vor dem Versand geprüft, um die Qualität aufblasbarer SUPs und Boote zu garantieren.',
     keywords: ['SUP-Qualitätskontrolle', 'Paddleboard-Prüflabor', 'ISO 9001 SUP-Fabrik', 'Qualität aufblasbarer SUPs'],
   },
   factory: {
     title: 'Werk & Fertigung — aufblasbarer SUP-OEM | {SITE}',
     description:
-      'Besichtigen Sie die afarer-Fabrik: 12.000-m²-Anlage mit Zuschnitt, HF-Schweißen, Druck, Montage und Qualitätslabor für OEM/ODM-Fertigung aufblasbarer SUPs und Boote.',
+      'Besichtigen Sie die olagoon-Fabrik: 12.000-m²-Anlage mit Zuschnitt, HF-Schweißen, Druck, Montage und Qualitätslabor für OEM/ODM-Fertigung aufblasbarer SUPs und Boote.',
     keywords: [
       'SUP-Fabrik China',
       'Fabrik für aufblasbare Paddleboards',
@@ -192,13 +192,13 @@ module.exports = {
   gallery: {
     title: 'Galerie — Aufblasbare SUPs & Boote | {SITE}',
     description:
-      'Stöbern Sie durch die afarer-Galerie: Fotos aufblasbarer SUP-Boards, Boote, Fabrik und Produktion aus unserer professionellen Paddleboard-Fabrik.',
+      'Stöbern Sie durch die olagoon-Galerie: Fotos aufblasbarer SUP-Boards, Boote, Fabrik und Produktion aus unserer professionellen Paddleboard-Fabrik.',
     keywords: ['SUP-Fotos', 'Galerie aufblasbarer SUPs', 'Paddleboard-Bilder', 'Fotos aufblasbarer Boote'],
   },
   guides: {
     title: 'SUP-Guides — Kaufen, Auswählen, Üben | {SITE}',
     description:
-      'afarer-SUP-Guides: wie man Paddleboarding kauft, auswählt und übt. Größen, Materialien und Profi-Tipps für Anfänger und Profis aufblasbarer SUPs.',
+      'olagoon-SUP-Guides: wie man Paddleboarding kauft, auswählt und übt. Größen, Materialien und Profi-Tipps für Anfänger und Profis aufblasbarer SUPs.',
     keywords: ['SUP-Kaufberatung', 'SUP auswählen', 'SUP-Größenberatung', 'Tipps für aufblasbares Paddleboard'],
   },
   'inflatable-vs-hardboard': {
@@ -215,31 +215,31 @@ module.exports = {
   journal: {
     title: 'Journal — Nautische Artikel & Guides | {SITE}',
     description:
-      'Das afarer-Journal: Artikel und Guides über aufblasbare SUPs, Paddleboarding, Boote und die Nautikbranche.',
+      'Das olagoon-Journal: Artikel und Guides über aufblasbare SUPs, Paddleboarding, Boote und die Nautikbranche.',
     keywords: ['SUP-Journal', 'Paddleboard-Artikel', 'Blog aufblasbarer SUPs', 'nautische Guides'],
   },
   knowledge: {
     title: 'Wissen — SUP- & Boots-Guides | {SITE}',
     description:
-      'afarer-Wissensdatenbank: Guides zu aufblasbaren SUPs, Paddleboard-Materialien, Bootsauswahl und Brancheneinblicke für Marken und Profis.',
+      'olagoon-Wissensdatenbank: Guides zu aufblasbaren SUPs, Paddleboard-Materialien, Bootsauswahl und Brancheneinblicke für Marken und Profis.',
     keywords: ['SUP-Wissen', 'Guide aufblasbarer SUPs', 'Paddleboard-Materialien', 'SUP-Brancheneinblicke'],
   },
   learn: {
     title: 'Lernen — SUP, Paddeln & Bootfahren | {SITE}',
     description:
-      'Lernen Sie mit afarer: Tutorials zu aufblasbaren SUPs, Paddeltechniken, Bootsgrundlagen und nautische Weiterbildung für Enthusiasten und Unternehmen.',
+      'Lernen Sie mit olagoon: Tutorials zu aufblasbaren SUPs, Paddeltechniken, Bootsgrundlagen und nautische Weiterbildung für Enthusiasten und Unternehmen.',
     keywords: ['SUP lernen', 'Paddleboard-Tutorial', 'Weiterbildung aufblasbarer SUPs', 'Paddeltechniken'],
   },
   lifestyle: {
     title: 'Lifestyle — Paddeln, Abenteuer & Entdeckung | {SITE}',
     description:
-      'Entdecken Sie den afarer-Lifestyle: Paddelabenteuer, Wassererkundung und Outdoor-Erlebnisse mit aufblasbaren SUPs und Booten.',
+      'Entdecken Sie den olagoon-Lifestyle: Paddelabenteuer, Wassererkundung und Outdoor-Erlebnisse mit aufblasbaren SUPs und Booten.',
     keywords: ['SUP-Lifestyle', 'Paddelabenteuer', 'aufblasbares SUP im Freien', 'Wassersport-Lifestyle'],
   },
   'maritime-safety-defense': {
     title: 'Aufblasbare Boote für maritime Sicherheit & Verteidigung — OEM | {SITE}',
     description:
-      'afarer liefert kompromisslose Qualität für maritime Sicherheit und Verteidigung: Patrouille, Küstensicherheit, Objektschutz und schnelle Einsatzboote. CE-zertifizierter OEM.',
+      'olagoon liefert kompromisslose Qualität für maritime Sicherheit und Verteidigung: Patrouille, Küstensicherheit, Objektschutz und schnelle Einsatzboote. CE-zertifizierter OEM.',
     keywords: [
       'Schlauchboot maritime Sicherheit',
       'Defense-Schlauchboot-Hersteller',
@@ -248,27 +248,27 @@ module.exports = {
     ],
   },
   media: {
-    title: 'Medienzentrum — Presse & afarer-Ressourcen | {SITE}',
+    title: 'Medienzentrum — Presse & olagoon-Ressourcen | {SITE}',
     description:
-      'Das afarer-Medienzentrum: Pressemitteilungen, Markenmaterialien und Ressourcen unseres Unternehmens für aufblasbare SUPs und Boote.',
-    keywords: ['afarer Presse', 'SUP-Hersteller Medien', 'Paddleboard-Pressekit', 'Nautik-Unternehmensnews'],
+      'Das olagoon-Medienzentrum: Pressemitteilungen, Markenmaterialien und Ressourcen unseres Unternehmens für aufblasbare SUPs und Boote.',
+    keywords: ['olagoon Presse', 'SUP-Hersteller Medien', 'Paddleboard-Pressekit', 'Nautik-Unternehmensnews'],
   },
   news: {
     title: 'News — SUP-Hersteller & nautische Updates | {SITE}',
     description:
-      'Aktuelle News von afarer: Werksupdates, neue Modelle aufblasbarer SUPs, Zertifizierungen und Ankündigungen aus der Nautikbranche.',
-    keywords: ['SUP-Hersteller News', 'afarer Updates', 'Ankündigungen aufblasbarer SUPs', 'Nautik-Branchennews'],
+      'Aktuelle News von olagoon: Werksupdates, neue Modelle aufblasbarer SUPs, Zertifizierungen und Ankündigungen aus der Nautikbranche.',
+    keywords: ['SUP-Hersteller News', 'olagoon Updates', 'Ankündigungen aufblasbarer SUPs', 'Nautik-Branchennews'],
   },
   partners: {
     title: 'Partner — Vertrieb & Großhandel | {SITE}',
     description:
-      'Werden Sie afarer-Partner: Vertriebsnetze, Großhandelspreise, OEM/Eigenmarkenprogramme und Support für Paddleboard-Unternehmen weltweit.',
+      'Werden Sie olagoon-Partner: Vertriebsnetze, Großhandelspreise, OEM/Eigenmarkenprogramme und Support für Paddleboard-Unternehmen weltweit.',
     keywords: ['SUP-Vertriebspartner', 'Paddleboard-Großhandel', 'aufblasbarer SUP-Distributor', 'SUP-Partnerschaft'],
   },
   quality: {
     title: 'Qualität & Prüfung — Fertigungskontrolle | {SITE}',
     description:
-      'Qualitätssystem von afarer: unabhängiges Prüflabor, ISO-9001-Prozesse und Prüfung jedes Geräts vor Versand. Qualitätskontrolle für die Fertigung aufblasbarer SUPs und Boote.',
+      'Qualitätssystem von olagoon: unabhängiges Prüflabor, ISO-9001-Prozesse und Prüfung jedes Geräts vor Versand. Qualitätskontrolle für die Fertigung aufblasbarer SUPs und Boote.',
     keywords: [
       'SUP-Qualitätskontrolle',
       'Prüfung aufblasbarer SUPs',
@@ -285,7 +285,7 @@ module.exports = {
   safety: {
     title: 'Sicherheit — Standards & Zertifizierungen | {SITE}',
     description:
-      'Produktsicherheit von afarer: CE-zertifizierte aufblasbare SUPs und Boote, strenge Prüfungen und Konformität mit internationalen nautischen Sicherheitsstandards.',
+      'Produktsicherheit von olagoon: CE-zertifizierte aufblasbare SUPs und Boote, strenge Prüfungen und Konformität mit internationalen nautischen Sicherheitsstandards.',
     keywords: [
       'SUP-Sicherheitsstandards',
       'CE-zertifiziertes Paddleboard',
@@ -296,13 +296,13 @@ module.exports = {
   'search-and-rescue': {
     title: 'Such- & Rettungsschlauchboote — OEM-Fertigung | {SITE}',
     description:
-      'afarer setzt den Standard für SAR-Schlauchboote: konstruiert für Zuverlässigkeit, Haltbarkeit und Leistung, die Rettungseinsätze erfordern. CE-zertifizierter OEM.',
+      'olagoon setzt den Standard für SAR-Schlauchboote: konstruiert für Zuverlässigkeit, Haltbarkeit und Leistung, die Rettungseinsätze erfordern. CE-zertifizierter OEM.',
     keywords: ['Such- und Rettungsboot-Hersteller', 'SAR-Schlauchboot', 'Rettungsboot OEM', 'Notfall-Schlauchboot'],
   },
   'size-guide': {
     title: 'Größen- & Spezifikations-Guide — Aufblasbare SUPs & Boote | {SITE}',
     description:
-      'Abmessungen, Kapazitäten und empfohlene Verwendungen für jedes afarer-Produkt. Finden Sie die richtige Größe für Ihr aufblasbares SUP oder Boot.',
+      'Abmessungen, Kapazitäten und empfohlene Verwendungen für jedes olagoon-Produkt. Finden Sie die richtige Größe für Ihr aufblasbares SUP oder Boot.',
     keywords: [
       'SUP-Größenguide',
       'Paddleboard-Abmessungen',
@@ -313,7 +313,7 @@ module.exports = {
   solutions: {
     title: 'Business-Lösungen — SUP für jedes Unternehmen | {SITE}',
     description:
-      'afarer-Business-Lösungen: SUP-Flotten für Resorts, Clubs, Verleiher, Vertrieb und Eigenmarken. Professioneller nautischer Ausrüster für B2B.',
+      'olagoon-Business-Lösungen: SUP-Flotten für Resorts, Clubs, Verleiher, Vertrieb und Eigenmarken. Professioneller nautischer Ausrüster für B2B.',
     keywords: [
       'SUP-Business-Lösungen',
       'Lieferant aufblasbarer Paddleboards',
@@ -324,7 +324,7 @@ module.exports = {
   technology: {
     title: 'Technologie — Drop-Stitch & Marine-PVC | {SITE}',
     description:
-      'afarer-Technologien: Drop-Stitch-Konstruktion, Marine-PVC, Doppellagen-Builds und hoher Druck. Innovation eines professionellen Herstellers aufblasbarer SUPs.',
+      'olagoon-Technologien: Drop-Stitch-Konstruktion, Marine-PVC, Doppellagen-Builds und hoher Druck. Innovation eines professionellen Herstellers aufblasbarer SUPs.',
     keywords: ['SUP-Technologie', 'Drop-Stitch-Konstruktion', 'Hochdruck-SUP', 'Materialien aufblasbarer SUPs'],
   },
   'tourism-recreation': {
@@ -336,7 +336,7 @@ module.exports = {
   trust: {
     title: 'Vertrauen — Qualität, Standards & Ruf | {SITE}',
     description:
-      'Warum Sie afarer vertrauen können: CE- und ISO-Zertifizierungen, integrierte Fabrik, globale Referenzen und Garantie. Ein professioneller Hersteller aufblasbarer SUPs und Boote.',
+      'Warum Sie olagoon vertrauen können: CE- und ISO-Zertifizierungen, integrierte Fabrik, globale Referenzen und Garantie. Ein professioneller Hersteller aufblasbarer SUPs und Boote.',
     keywords: [
       'vertrauenswürdiger SUP-Hersteller',
       'zertifizierte Paddleboard-Fabrik',
@@ -347,7 +347,7 @@ module.exports = {
   warranty: {
     title: 'Garantie — Aufblasbare SUPs & Boote | {SITE}',
     description:
-      'afarer-Garantie und After-Sales-Support für aufblasbare SUPs, Boote und Zubehör. Unser Qualitätsversprechen für Partner und Kunden.',
+      'olagoon-Garantie und After-Sales-Support für aufblasbare SUPs, Boote und Zubehör. Unser Qualitätsversprechen für Partner und Kunden.',
     keywords: ['SUP-Garantie', 'Schlauchboot-Garantie', 'Paddleboard-Garantie', 'After-Sales-Support'],
   },
   'what-is-sup': {

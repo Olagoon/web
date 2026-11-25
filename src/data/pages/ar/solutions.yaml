@@ -1,6 +1,6 @@
 meta:
   title: 'حلول الأعمال — SUP لكل شركة | {SITE}'
-  description: 'حلول أعمال afarer: أساطيل SUP للمنتجعات، والأندية، والتأجير، والتوزيع، والعلامات الخاصة. مورّد محترف للمعدات البحرية B2B.'
+  description: 'حلول أعمال olagoon: أساطيل SUP للمنتجعات، والأندية، والتأجير، والتوزيع، والعلامات الخاصة. مورّد محترف للمعدات البحرية B2B.'
   keywords:
     - 'حلول أعمال SUP'
     - 'مورّد ألواح التجديف القابلة للنفخ'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: حلول الأعمال
   title: حلول SUP<br />لكل الأعمال
-  subtitle: من المنتجعات إلى التجزئة، ومن مشغلي الإيجار إلى الموزعين العالميين — تقدم afarer حلول SUP كاملة مصممة خصيصًا لنموذج عملك.
+  subtitle: من المنتجعات إلى التجزئة، ومن مشغلي الإيجار إلى الموزعين العالميين — تقدم olagoon حلول SUP كاملة مصممة خصيصًا لنموذج عملك.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: ألواح SUP من Afarer للتطبيقات التجارية والمهنية
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: ألواح SUP من OLagoon للتطبيقات التجارية والمهنية
 stats:
-  title: afarer في لمحة
+  title: olagoon في لمحة
   stats:
     - title: سنوات من الخبرة
       amount: منذ عام 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: ابنِ علامتك التجارية الخاصة
-      description: تصنيع ألواح SUP بالكامل وفق معايير OEM/ODM من البداية إلى النهاية — التصميم، والنماذج الأولية، والإنتاج الضخم، والخدمات اللوجستية. أطلق علامتك التجارية مع Afarer.
+      description: تصنيع ألواح SUP بالكامل وفق معايير OEM/ODM من البداية إلى النهاية — التصميم، والنماذج الأولية، والإنتاج الضخم، والخدمات اللوجستية. أطلق علامتك التجارية مع OLagoon.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

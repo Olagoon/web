@@ -12,7 +12,7 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, '..', '..');
 const DIR = path.join(ROOT, 'src', 'data', 'pages');
 const WRITE = process.argv.includes('--write');
-const BRAND = 'Afarer';
+const BRAND = 'OLagoon';
 
 function walk(d) {
   const out = [];

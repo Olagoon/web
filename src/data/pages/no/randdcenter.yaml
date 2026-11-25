@@ -7,7 +7,7 @@ hero:
   subtitle: Fokusert på fremgang
 intro:
   - >-
-    afarers forsknings- og utviklingsavdeling (R&D) er drivkraften bak vårt oppdrag å revolusjonere vannsportsutstyr. Vi gir vannsportsentusiaster over hele verden sikrere, mer komfortable og mer fornøyelige produkter gjennom utrettelig innovasjon innen oppblåsbare padlebrett (SUP-er). Vårt
+    olagoons forsknings- og utviklingsavdeling (R&D) er drivkraften bak vårt oppdrag å revolusjonere vannsportsutstyr. Vi gir vannsportsentusiaster over hele verden sikrere, mer komfortable og mer fornøyelige produkter gjennom utrettelig innovasjon innen oppblåsbare padlebrett (SUP-er). Vårt
     dedikerte team av ingeniører, designere og lidenskapelige vannsportseksperter former fremtiden for bransjen og hever stadig listen for kvalitet, ytelse og bærekraft.
   - Vår FoU-fasilitet samler materialvitenskapsfolk, marineingeniører og produksjonsingeniører under ett tak. Fra stoffformulering og skrogsimulering til sveiseprosessutvikling og fullskala sjøforsøk, hvert stadium av produktutviklingen drives av data og valideres gjennom testing.
 mission:
@@ -93,33 +93,33 @@ vision:
   tagline: Vår visjon
   title: Forme fremtiden for vannsport
   body: >-
-    afarer arbeider for å lede industrien for oppblåsbare SUP-er gjennom kontinuerlig innovasjon, urokkelig kvalitet og et ubrytelig engasjement for sikkerhet og bærekraft – og beriker dermed opplevelsene til vannsportentusiaster over hele verden. afarer FoU-senteret er der lidenskap møter
+    olagoon arbeider for å lede industrien for oppblåsbare SUP-er gjennom kontinuerlig innovasjon, urokkelig kvalitet og et ubrytelig engasjement for sikkerhet og bærekraft – og beriker dermed opplevelsene til vannsportentusiaster over hele verden. olagoon FoU-senteret er der lidenskap møter
     innovasjon, og setter nye standarder for vannsportsindustrien.
 labs_section:
   tagline: Laboratorier
   title: Våre laboratorier
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: PVC-stofflaboratorium
       description: Kontinuerlig forskning og testing av PVC-dekkstoffer for trekkfasthet, UV-resistens, slitasje og fleksibilitet ved lave temperaturer for å sikre langsiktig pålitelighet i marine miljøer.
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Skrogteknisk studio
       description: CAD-drevet design og endelig elementanalyse av HDPE-, aluminiums- og glassfiberskrog. Hvert skrog simuleres digitalt for spenningsfordeling og støtmotstand før den første prototypen bygges.
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: RF-sveisesenter
       description: Dedikert sveiseanlegg for radiofrekvenssveising med presis temperatur- og trykkontroll, som produserer høyfester tetteste sommer som oppfyller marineindustriens standarder for oppblåsbare farkoster.
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Hydrodynamisk testtank
       description: Modelltesting i vår interne testtank for å optimalisere skrogform, planeytelse, stabilitet og drivstoffeffektivitet under ulike last- og sjøforhold.
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Prototypverksted
       description: Fullskala prototyping og utrustning der nye modeller bygges, utrustes og prøvekjøres. Hver prototype gjennomgår minimum 20 timers vanntest før produksjonsgodkjenning.
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: Kvalitets- og inspeksjonslaboratorium
       description: Dedikert kvalitetssikringslaboratorium som utfører trekktesting, luftretensjonssykling, sømskalltester og materialgodkjenning for å sikre at hvert brett som forlater verkstedet oppfyller våre publiserte spesifikasjoner.
       href: /randdcenter/quality-inspection-lab/

@@ -1,6 +1,6 @@
 meta:
   title: Kontakti — partnerības un produktu pieprasījumi | {SITE}
-  description: Sazinieties ar afarer par partnerību, kopīgu zīmolu un privātā zīmola jautājumiem vai profesionālām flotēm. Piepūšamo SUP zīmols, mēs atbildam 2 darba dienu laikā.
+  description: Sazinieties ar olagoon par partnerību, kopīgu zīmolu un privātā zīmola jautājumiem vai profesionālām flotēm. Piepūšamo SUP zīmols, mēs atbildam 2 darba dienu laikā.
   keywords:
     - sup izplatītāja piedāvājums
     - profesionāls sup piegādātājs
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Nosūtiet mums ziņu
   subtitle: Piedāvājumiem, tehniskiem jautājumiem vai partnerības pieprasījumiem rakstiet mums. Mēs atbildam vienas darba dienas laikā.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Nosūtīt pieprasījumu → Saņemt piedāvājumu
   success_message: Paldies! Jūsu ziņa ir nonākusi mūsu pastkastē. Mēs atbildēsim vienas darba dienas laikā.
   error_message: Nosūtot ziņu, radās kļūda. Lūdzu, mēģiniet vēlreiz vai rakstiet mums tieši e-pastā.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-pasts
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Galvenā mītne
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

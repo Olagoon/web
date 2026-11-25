@@ -1,13 +1,13 @@
 meta:
   title: 'Privātā zīmola SUP ražošana un pielāgota zīmola palaišana | {SITE}'
-  description: 'Privātā zīmola SUP ražotājs jauniem airu dēļu zīmoliem. Palaidiet savu SUP zīmolu ar Afarer — pilns OEM/ODM serviss, ietverot dizainu, prototipēšanu, pielāgotu zīmolējumu, ražošanu un globālo loģistiku.'
+  description: 'Privātā zīmola SUP ražotājs jauniem airu dēļu zīmoliem. Palaidiet savu SUP zīmolu ar OLagoon — pilns OEM/ODM serviss, ietverot dizainu, prototipēšanu, pielāgotu zīmolējumu, ražošanu un globālo loģistiku.'
 
 hero:
   tagline: 'Izveidojiet savu zīmolu'
   title: 'Palaidiet savu<br />SUP zīmolu'
   subtitle: 'Jums ir redzējums. Mums ir rūpnīca, kompetence un piegādes ķēde. Privātā zīmola SUP ražošana un pielāgota SUP zīmola izstrāde — kopā mēs izveidosim zīmolu, kas izceļas.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Pielāgota zīmola SUP dēlis uz ūdens'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Prioritārā ražošana'
 
 features:
-  title: 'Kāpēc zīmoli izvēlas Afarer'
+  title: 'Kāpēc zīmoli izvēlas OLagoon'
   subtitle: '10+ gadu OEM pieredze, pilna sertifikācija un zemākais MOQ nozarē.'
   items:
     - title: '10+ gadu OEM pieredze'

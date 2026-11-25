@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 04'
   title: 'Hydrodynamic Test Tank'
   subtitle: 'Pagpapatunay ng performance bago ang unang full-scale na prototype'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp'
-  image_alt: 'Pagsubok sa performance ng hydrodynamic test tank ng Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp'
+  image_alt: 'Pagsubok sa performance ng hydrodynamic test tank ng OLagoon'
 
-intro: 'Karaniwang maling akala na ang hydrodynamic testing ay nakalaan lamang para sa mga barkong tumatawid ng karagatan. Sa katotohanan, ang performance ng maliit na planing hull — tulad ng inflatable SUP — ay kasingdepende nito sa hugis sa ilalim ng tubig kung paanong ang tanker ay nakadepende sa bulbous bow nito. Ang trim angle, wetted surface area, pagbuo ng spray, at ventilation ay lahat may malaking epekto sa glide, bilis, at kaginhawaan sa pagsakay. Sa Afarer, nagpapatakbo kami ng nakalaang hydrodynamic test tank na nagpapahintulot sa amin na sukatin ang mga epektong ito sa sukat ng model — bago mag-commit ng fabric at tooling para sa full-size na prototype.'
+intro: 'Karaniwang maling akala na ang hydrodynamic testing ay nakalaan lamang para sa mga barkong tumatawid ng karagatan. Sa katotohanan, ang performance ng maliit na planing hull — tulad ng inflatable SUP — ay kasingdepende nito sa hugis sa ilalim ng tubig kung paanong ang tanker ay nakadepende sa bulbous bow nito. Ang trim angle, wetted surface area, pagbuo ng spray, at ventilation ay lahat may malaking epekto sa glide, bilis, at kaginhawaan sa pagsakay. Sa OLagoon, nagpapatakbo kami ng nakalaang hydrodynamic test tank na nagpapahintulot sa amin na sukatin ang mga epektong ito sa sukat ng model — bago mag-commit ng fabric at tooling para sa full-size na prototype.'
 
 content_html: |
   <h2>Bakit tank-testin ang isang paddle board?</h2>

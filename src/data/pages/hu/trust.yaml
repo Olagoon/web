@@ -13,11 +13,11 @@ hero:
     Minden termékünk CE-tanúsítvánnyal rendelkezik — biztonság,<br />
     tartósság és teljesítmény szempontjából tesztelve. Nincs rövidebb út. Nincs kivétel.
   taglineSection: 'Tanúsítva. Tesztelve. Bizonyítva.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'afarer termék minőségi tesztelés alatt'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'olagoon termék minőségi tesztelés alatt'
 
 stats:
-  title: 'afarer számokban'
+  title: 'olagoon számokban'
   stats:
     - title: 'CE-tanúsítvány'
       description: 'Minden szabadidős termék megfelel az EU-s biztonsági szabványoknak'

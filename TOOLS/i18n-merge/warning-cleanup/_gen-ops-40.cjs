@@ -5,7 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const DATA = require('./_b40-data.cjs');
 const LANGS = [
   'ar',

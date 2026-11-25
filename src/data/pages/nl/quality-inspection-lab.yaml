@@ -7,8 +7,8 @@ hero:
   tagline: Lab 06
   title: Kwaliteit & Inspectie Lab
   subtitle: Onafhankelijke verificatie — elke test geslaagd vóór levering
-  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
-  image_alt: Afarer kwaliteitsinspectie laboratorium UV-test
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
+  image_alt: OLagoon kwaliteitsinspectie laboratorium UV-test
 intro: >-
   Elk board dat onze werkplaats verlaat, draagt de certificering dat deze een gedefinieerde set kwaliteitscontroles en materiaalspecificatietests heeft doorstaan. Ons Kwaliteits- en Inspectielab is een onafhankelijke functie binnen de organisatie — het rapporteert rechtstreeks aan de algemeen
   directeur, niet aan de productie — zodat geen commerciële druk het inspectiepunt kan beïnvloeden. Als een materiaalbatch of een voltooid board niet voldoet aan de gepubliceerde specificatie, heeft het lab de bevoegdheid om verzending stop te zetten totdat de afwijking is opgelost.
@@ -128,7 +128,7 @@ content_html: >
 
   <h2>Onze belofte aan u</h2>
 
-  <p>Wanneer u een Afarer-board ontvangt, ontvangt u ook het bijbehorende kwaliteitsdossier — een samengesteld overzicht van de testresultaten die van toepassing zijn op uw specifieke board. Weefselbatchcertificaat, laspelproeven, luchttestlogs van compartimenten en de inspectielijst vóór
+  <p>Wanneer u een OLagoon-board ontvangt, ontvangt u ook het bijbehorende kwaliteitsdossier — een samengesteld overzicht van de testresultaten die van toepassing zijn op uw specifieke board. Weefselbatchcertificaat, laspelproeven, luchttestlogs van compartimenten en de inspectielijst vóór
   levering. Elk cijfer is traceerbaar. Elke inspecteur is geïdentificeerd. Dit is niet zomaar papierwerk — het is onze belofte dat wat we hebben geleverd overeenkomt met wat we hebben gespecificeerd.</p>
 
   <p>Als u ooit een kwaliteitsprobleem heeft, kunt u rechtstreeks contact opnemen met het laboratorium — de contactgegevens staan op uw conformiteitsverklaring. We nemen elke vraag serieus en verbinden ons ertoe om binnen 48 uur een formeel onderzoek te starten.</p>

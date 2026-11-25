@@ -1,6 +1,6 @@
 meta:
   title: 'Distribution — Réseau Mondial SUP | {SITE}'
-  description: 'Rejoignez le réseau de distribution mondial afarer : territoires exclusifs, portefeuille complet de SUP gonflables et tarifs grossistes compétitifs.'
+  description: 'Rejoignez le réseau de distribution mondial olagoon : territoires exclusifs, portefeuille complet de SUP gonflables et tarifs grossistes compétitifs.'
   keywords:
     - 'réseau distribution SUP'
     - 'grossiste paddle gonflable'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Distributeurs
   title: Rejoignez Notre Réseau<br />Mondial de Distribution
-  subtitle: Territoires exclusifs. Portefeuille produit complet. Support de classe mondiale. afarer expédie vers 50+ pays et recherche des distributeurs marins et sports nautiques établis.
+  subtitle: Territoires exclusifs. Portefeuille produit complet. Support de classe mondiale. olagoon expédie vers 50+ pays et recherche des distributeurs marins et sports nautiques établis.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Opérations mondiales de distribution et d'expédition Afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: Opérations mondiales de distribution et d'expédition OLagoon
 benefits:
   title: Ce Que les Distributeurs Obtiennent
   subtitle: Tout ce dont vous avez besoin pour réussir dans votre marché.
@@ -29,7 +29,7 @@ benefits:
     - Conditions de paiement 45-60 jours
 coverage:
   title: Distribution Actuelle
-  subtitle: afarer dessert actuellement ces marchés directement.
+  subtitle: olagoon dessert actuellement ces marchés directement.
   regions:
     - name: Europe
       countries: France, Allemagne, Royaume-Uni, Espagne, Italie, Pays-Bas, Suède, Norvège, Pologne, Grèce

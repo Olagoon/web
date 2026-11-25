@@ -1,18 +1,18 @@
 meta:
   title: 'Matrica B2B rešitev za stranke | {SITE}'
-  description: 'Popolna matrica B2B rešitev Afarer za stranke, ki pokriva 24 vrst strank — od zagonskih podjetij za dejavnosti na prostem do ustanov za ohranjanje morja.'
+  description: 'Popolna matrica B2B rešitev OLagoon za stranke, ki pokriva 24 vrst strank — od zagonskih podjetij za dejavnosti na prostem do ustanov za ohranjanje morja.'
 
 hero:
   tagline: 'B2B rešitve za stranke'
   title: '24 B2B rešitev,<br />prilagojenih vašemu podjetju'
-  subtitle: 'Od ustanoviteljev zagonskih podjetij do globalnih distributerjev — poiščite točno tisto rešitev Afarer, zasnovano za vaš poslovni model, panogo in cilje.'
+  subtitle: 'Od ustanoviteljev zagonskih podjetij do globalnih distributerjev — poiščite točno tisto rešitev OLagoon, zasnovano za vaš poslovni model, panogo in cilje.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Tovarna in proizvodna naprava Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'Tovarna in proizvodna naprava OLagoon'
 
 solutions:
   title: 'Matrica rešitev za stranke'
-  subtitle: 'Vsaka vrsta stranke, njena osnovna potreba in stran z rešitvijo Afarer, zasnovana zanjo.'
+  subtitle: 'Vsaka vrsta stranke, njena osnovna potreba in stran z rešitvijo OLagoon, zasnovana zanjo.'
   items:
     - clientType: 'Ustanovitelj zagonskega podjetja za dejavnosti na prostem'
       need: 'Ustvarjanje znamke'

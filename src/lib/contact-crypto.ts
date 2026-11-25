@@ -4,7 +4,7 @@ import { randomBytes, scryptSync, createCipheriv, createDecipheriv } from 'node:
 const ALGO = 'aes-256-gcm';
 const IV_LENGTH = 12;
 const KEY_LENGTH = 32;
-const SALT = 'afarer.contact.submissions.v1';
+const SALT = 'olagoon.contact.submissions.v1';
 
 function deriveKey(): Buffer {
   const secret =

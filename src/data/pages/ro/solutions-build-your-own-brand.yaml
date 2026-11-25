@@ -1,12 +1,12 @@
 meta:
   title: Producție SUP cu Etichetă Privată | {SITE}
-  description: Lansați-vă propriul brand SUP cu Afarer. De la idee la piață — servicii OEM/ODM complete, inclusiv design, prototipare, producție și logistică globală.
+  description: Lansați-vă propriul brand SUP cu OLagoon. De la idee la piață — servicii OEM/ODM complete, inclusiv design, prototipare, producție și logistică globală.
 hero:
   tagline: Construiți-vă propria marcă
   title: Lansați-vă propria<br />marcă SUP
   subtitle: Dumneavoastră aveți viziunea. Noi avem fabrica, expertiza și lanțul de aprovizionare. Împreună vom construi un brand care se remarcă.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Placă SUP personalizată cu branding, pe apă
 process:
   title: Călătoria mărcii dumneavoastră
@@ -77,7 +77,7 @@ packages:
         - Materiale de marketing
         - Producție prioritară
 features:
-  title: De ce brandurile aleg Afarer
+  title: De ce brandurile aleg OLagoon
   subtitle: Peste 10 ani de experiență în OEM, certificare completă și cel mai mic MOQ din industrie.
   items:
     - title: Peste 10 ani de experiență OEM

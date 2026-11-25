@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const locales = fs.readdirSync(DIST).filter((d) => fs.existsSync(path.join(DIST, d, 'use-cases')));
 const map = {};
 for (const loc of locales) {

@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const dir = 'E:/github/afarer/src/data/landing-i18n';
+const dir = 'E:/github/olagoon/src/data/landing-i18n';
 const files = fs.readdirSync(dir).filter((f) => f.endsWith('.json'));
 let html = 0,
   md = 0,

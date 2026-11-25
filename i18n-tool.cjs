@@ -375,7 +375,7 @@ const commands = {
   // Show usage
   help() {
     console.log(`
-i18n-tool 鈥?afarer i18n management
+i18n-tool 鈥?olagoon i18n management
 
 Usage: node i18n-tool.cjs <command> [args]
 

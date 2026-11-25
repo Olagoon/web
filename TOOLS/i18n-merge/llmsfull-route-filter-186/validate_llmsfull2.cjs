@@ -1,7 +1,7 @@
 // Middleware-aware validation of llms-full.txt URLs against dist
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const LANGS = new Set([
   'en',
   'fr',
@@ -36,8 +36,8 @@ const LANGS = new Set([
   'et',
   'tl',
 ]);
-const txt = fs.readFileSync('E:/github/afarer/public/llms-full.txt', 'utf8');
-const urls = [...txt.matchAll(/https:\/\/afarer\.com(\/[^\s)\]]*)/g)].map((m) => m[1]);
+const txt = fs.readFileSync('E:/github/olagoon/public/llms-full.txt', 'utf8');
+const urls = [...txt.matchAll(/https:\/\/olagoon\.com(\/[^\s)\]]*)/g)].map((m) => m[1]);
 
 const exists = (p) => fs.existsSync(path.join(DIST, p));
 

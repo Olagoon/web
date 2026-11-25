@@ -8,7 +8,7 @@ hero:
   subtitle: 'Fookuses areng'
 
 intro:
-  - 'afareri uuringute ja arenduse (R&D) keskus on jõud meie missiooni taga — revolutsioneerida veespordivarustust. Me võimaldame veespordi huvilistel kogu maailmas turvalisemaid, mugavamaid ja nauditavamaid tooteid tänu pidevale innovatsioonile täispuhutavates stand-up sõudelaudades (SUP). Meie pühendunud inseneride, disainerite ja veespordiekspertide meeskond kujundab tööstuse tulevikku, tõstes pidevalt kvaliteedi, jõudluse ja jätkusuutlikkuse latti.'
+  - 'olagooni uuringute ja arenduse (R&D) keskus on jõud meie missiooni taga — revolutsioneerida veespordivarustust. Me võimaldame veespordi huvilistel kogu maailmas turvalisemaid, mugavamaid ja nauditavamaid tooteid tänu pidevale innovatsioonile täispuhutavates stand-up sõudelaudades (SUP). Meie pühendunud inseneride, disainerite ja veespordiekspertide meeskond kujundab tööstuse tulevikku, tõstes pidevalt kvaliteedi, jõudluse ja jätkusuutlikkuse latti.'
   - 'Meie R&D objekt ühendab materjaliteadlased, mereinsenerid ja tootmisinsenerid ühe katuse all. Kangakoostise ja kere simuleerimisest keevitusprotsesside arenduseni ja täismõõdus meretestideni juhib iga tootearenduse etappi andmed ja valideeritakse testimisega.'
 
 mission:
@@ -98,33 +98,33 @@ rd_services:
 vision:
   tagline: 'Meie visioon'
   title: 'Veespordi tuleviku kujundamine'
-  body: 'afarer püüdleb täispuhutava SUP-i tööstuse juhtimisele pideva innovatsiooni, kindla kvaliteedi ja püsiva pühendumisega ohutusele ja jätkusuutlikkusele — rikastades lõpuks veespordi huviliste kogemusi kogu maailmas. afarer R&D keskus on koht, kus kirg kohtub innovatsiooniga, seades veesporditööstusele uusi standardeid.'
+  body: 'olagoon püüdleb täispuhutava SUP-i tööstuse juhtimisele pideva innovatsiooni, kindla kvaliteedi ja püsiva pühendumisega ohutusele ja jätkusuutlikkusele — rikastades lõpuks veespordi huviliste kogemusi kogu maailmas. olagoon R&D keskus on koht, kus kirg kohtub innovatsiooniga, seades veesporditööstusele uusi standardeid.'
 
 labs_section:
   tagline: 'Laborid'
   title: 'Meie laborid'
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: 'PVC-kanga labor'
       description: 'PVC-tekkikangaste pidev uurimine ja testimine tõmbetugevuse, UV-kindluse, kulumise ja madalatemperatuurilise painduvuse osas, et tagada pikaajaline usaldusväärsus merekeskkonnas.'
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Kere inseneritöö stuudio'
       description: 'CAD-põhine disain ja lõplike elementide analüüs HDPE-, alumiiniumi ja klaaskiudkeredele. Iga kere simuleeritakse digitaalselt pingejaotuse ja löögikindluse osas enne esimese prototüübi ehitamist.'
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'RF-keevituse keskus'
       description: 'Eraldatud raadiosagedusliku keevituse rajatis täpse temperatuuri ja rõhu kontrolliga, tootes kõrge tugevusega õhukindlaid õmblusi, mis vastavad täispuhutavate veesõidukite mere-tööstusstandarditele.'
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Hüdrodünaamiline testbassein'
       description: 'Mudelitestimine meie omas testbasseinis, et optimeerida kere kuju, planeerimisjõudlust, stabiilsust ja kütuse tõhusust erinevatel koormus- ja meretingimustel.'
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Prototüüpide töökoda'
       description: 'Täismõõdus prototüüpimise ja varustuse rajatis, kus uued mudelid ehitatakse, varustatakse ja meretestitakse. Iga prototüüp läbib vähemalt 20-tunnise veetestide programmi enne tootmise heakskiitu.'
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: 'Kvaliteedi ja inspektsiooni labor'
       description: 'Eraldatud kvaliteedikindluse labor, mis teostab tõmbetestimist, õhukindluse tsükleid, õmbluste kooretestid ja materjalisertifitseerimist, et tagada, et iga töökojast lahkuv laud vastab meie avaldatud spetsifikatsioonidele.'
       href: /randdcenter/quality-inspection-lab/

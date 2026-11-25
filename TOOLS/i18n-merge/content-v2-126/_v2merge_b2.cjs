@@ -2,11 +2,11 @@
 const fs = require('fs');
 const path = require('path');
 const { createRequire } = require('module');
-const req = createRequire('E:\\github\\afarer\\node_modules\\js-yaml\\package.json');
+const req = createRequire('E:\\github\\olagoon\\node_modules\\js-yaml\\package.json');
 const yaml = req('js-yaml');
 
 const TMP = 'C:\\Users\\Helleo\\AppData\\Local\\Temp\\deveco';
-const SITE = 'E:\\github\\afarer\\src\\data\\site';
+const SITE = 'E:\\github\\olagoon\\src\\data\\site';
 
 function mergeAppend(lang, parts, out) {
   const existing = fs.readFileSync(path.join(SITE, out), 'utf8').replace(/\r\n/g, '\n').trimEnd();

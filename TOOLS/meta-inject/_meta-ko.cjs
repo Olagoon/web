@@ -2,25 +2,25 @@ module.exports = {
   about: {
     title: '회사 소개 — 팽창식 SUP 보드·보트 제조사 | {SITE}',
     description:
-      'afarer는 자체 공장, 선박 공학, OEM/ODM 생산을 갖춘 전문 팽창식 SUP 보드·보트 제조사입니다. 인증된 공장과 브랜드·기업을 위한 선박 솔루션을 만나보세요.',
+      'olagoon는 자체 공장, 선박 공학, OEM/ODM 생산을 갖춘 전문 팽창식 SUP 보드·보트 제조사입니다. 인증된 공장과 브랜드·기업을 위한 선박 솔루션을 만나보세요.',
     keywords: ['팽창식 SUP 보드 제조사', '팽창식 보트 제조사', 'SUP 공장 중국', 'OEM 패들보드 생산', '패들보드 제조사'],
   },
   academy: {
     title: '아카데미 — SUP 가이드와 패들 트레이닝 | {SITE}',
     description:
-      'afarer 아카데미: 팽창식 패들보드 가이드, 스탠드업 패들 테크닉, 선박 안전, 초보자와 전문가를 위한 소재 지식.',
+      'olagoon 아카데미: 팽창식 패들보드 가이드, 스탠드업 패들 테크닉, 선박 안전, 초보자와 전문가를 위한 소재 지식.',
     keywords: ['스탠드업 패들 배우기', 'SUP 초보자 가이드', '패들보드 기초', 'SUP 테크닉', 'SUP 레슨'],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: '우리의 이야기 — 팽창식 SUP 보드·보트 제조사 | {SITE}',
     description:
       '해안 작업장에서 글로벌 보트 제조사로: 12,000㎡ 인증 공장을 갖춘 afar의 기술과 물 위의 자유에 관한 이야기.',
-    keywords: ['afarer 역사', 'afarer 브랜드', '팽창식 SUP 보드 제조사', '팽창식 보트 제조사'],
+    keywords: ['olagoon 역사', 'olagoon 브랜드', '팽창식 SUP 보드 제조사', '팽창식 보트 제조사'],
   },
   'brand-global-presence': {
     title: '글로벌 진출 — 50개국 이상에 공급하는 SUP 제조사 | {SITE}',
     description:
-      'afarer는 팽창식 SUP 보드와 보트를 모든 대륙 50개국 이상에 수출합니다. 브랜드, 유통사, 함대를 위한 전문 제조사이자 공급업체입니다.',
+      'olagoon는 팽창식 SUP 보드와 보트를 모든 대륙 50개국 이상에 수출합니다. 브랜드, 유통사, 함대를 위한 전문 제조사이자 공급업체입니다.',
     keywords: ['글로벌 SUP 제조사', '패들보드 수출업체', 'SUP 공장 중국', '전문 SUP 공급업체'],
   },
   'brand-marine-expertise': {
@@ -33,19 +33,19 @@ module.exports = {
     title: '우리 팀 — 선박 엔지니어와 제작자 | {SITE}',
     description:
       '2012년 칭다오에서 설립된 afar는 선박 엔지니어, 소재 전문가, 수상 스포츠 애호가들이 함께 만들었습니다. 공장을 이끄는 팀을 소개합니다.',
-    keywords: ['afarer 팀', '선박 엔지니어', '팽창식 SUP 보드 제조사', 'SUP 공장 팀'],
+    keywords: ['olagoon 팀', '선박 엔지니어', '팽창식 SUP 보드 제조사', 'SUP 공장 팀'],
   },
-  'brand-why-afarer': {
+  'brand-why-olagoon': {
     title: '왜 afar인가 — 글로벌 브랜드가 선택하는 7가지 이유 | {SITE}',
     description:
       '글로벌 브랜드가 afar를 선택하는 이유: CE·ISO 인증, 유연한 MOQ, 맞춤 금형, 전문 SUP 공장의 30일 리드타임.',
     keywords: ['왜 afar', '팽창식 SUP 보드 제조사', 'SUP 공장 중국', '팽창식 패들보드 공급업체'],
   },
   brand: {
-    title: 'afarer 브랜드 — 전문 선박 제조사 | {SITE}',
+    title: 'olagoon 브랜드 — 전문 선박 제조사 | {SITE}',
     description:
-      'afarer: 브랜드, 유통사, 요트 클럽, 기업을 위한 OEM/ODM 생산을 제공하는 전문 팽창식 SUP 보드·보트 제조사.',
-    keywords: ['afarer 브랜드', '팽창식 SUP 보드 제조사', '팽창식 보트 제조사', 'SUP 공장 중국'],
+      'olagoon: 브랜드, 유통사, 요트 클럽, 기업을 위한 OEM/ODM 생산을 제공하는 전문 팽창식 SUP 보드·보트 제조사.',
+    keywords: ['olagoon 브랜드', '팽창식 SUP 보드 제조사', '팽창식 보트 제조사', 'SUP 공장 중국'],
   },
   cases: {
     title: '성공 사례 — 성공적인 OEM 프로젝트 | {SITE}',
@@ -56,7 +56,7 @@ module.exports = {
   certifications: {
     title: '인증 — CE, ISO 9001 및 적합성 | {SITE}',
     description:
-      'afarer의 품질 인증: CE(지침 2013/53/EU), ISO 9001:2015, BSCI. 팽창식 SUP 보드·보트 제조사로서의 적합성과 안전성.',
+      'olagoon의 품질 인증: CE(지침 2013/53/EU), ISO 9001:2015, BSCI. 팽창식 SUP 보드·보트 제조사로서의 적합성과 안전성.',
     keywords: ['패들보드 CE 인증', 'ISO 9001 패들보드', '선박 적합성', '패들보드 인증'],
   },
   'commercial-workboats': {
@@ -67,14 +67,14 @@ module.exports = {
   },
   community: {
     title: '커뮤니티 — SUP 모험과 패들 스포츠 | {SITE}',
-    description: 'afarer 커뮤니티: 패들 클럽, SUP 이벤트, 선박 모험, 팽창식 스탠드업 패들보드 애호가들의 이야기.',
+    description: 'olagoon 커뮤니티: 패들 클럽, SUP 이벤트, 선박 모험, 팽창식 스탠드업 패들보드 애호가들의 이야기.',
     keywords: ['패들 커뮤니티', 'SUP 클럽', '패들 이벤트', 'SUP 모험'],
   },
   contact: {
     title: '문의하기 — OEM 견적 및 SUP 제조사 | {SITE}',
     description:
       'OEM/ODM 견적, 자체 브랜드 프로젝트, 전문 함대에 대해 afar에 문의하세요. 팽창식 SUP 보드·보트 제조사, 영업일 기준 2일 이내 답변.',
-    keywords: ['afarer 문의', 'OEM 패들보드 견적', '전문 SUP 공급업체', 'SUP 제조사 문의'],
+    keywords: ['olagoon 문의', 'OEM 패들보드 견적', '전문 SUP 공급업체', 'SUP 제조사 문의'],
   },
   custom: {
     title: 'Custom Lab — 맞춤형 팽창식 패들보드 | {SITE}',
@@ -173,12 +173,12 @@ module.exports = {
   media: {
     title: '미디어 센터 — 프레스와 afar 리소스 | {SITE}',
     description: 'afar 미디어 센터: 팽창식 SUP 보드·보트를 제조하는 회사의 보도자료, 브랜드 자료, 리소스.',
-    keywords: ['afarer 프레스', 'SUP 제조사 미디어', '패들보드 프레스 킷', '선박 기업 뉴스'],
+    keywords: ['olagoon 프레스', 'SUP 제조사 미디어', '패들보드 프레스 킷', '선박 기업 뉴스'],
   },
   news: {
     title: '뉴스 — SUP 제조사와 해양 업데이트 | {SITE}',
     description: 'afar의 최신 뉴스: 공장 업데이트, 신형 팽창식 SUP 보드 모델, 인증, 해양산업 발표.',
-    keywords: ['SUP 제조사 뉴스', 'afarer 업데이트', '팽창식 SUP 발표', '해양산업 뉴스'],
+    keywords: ['SUP 제조사 뉴스', 'olagoon 업데이트', '팽창식 SUP 발표', '해양산업 뉴스'],
   },
   partners: {
     title: '파트너 — 유통과 도매 | {SITE}',

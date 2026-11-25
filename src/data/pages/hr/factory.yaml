@@ -1,6 +1,6 @@
 meta:
   title: 'Tvornica i proizvodnja — OEM napuhivih SUP dasaka | {SITE}'
-  description: 'Upoznajte tvornicu afarer: pogon od 12,000 m² s rezanjem, RF zavarivanjem, tiskom, montažom i laboratorijem kvalitete za OEM/ODM proizvodnju napuhivih SUP dasaka.'
+  description: 'Upoznajte tvornicu olagoon: pogon od 12,000 m² s rezanjem, RF zavarivanjem, tiskom, montažom i laboratorijem kvalitete za OEM/ODM proizvodnju napuhivih SUP dasaka.'
   keywords:
     - 'sup tvornica kina'
     - 'tvornica napuhivih daska za veslanje'
@@ -12,7 +12,7 @@ hero:
   subtitle: '12,000 m² integrirane proizvodnje — od sirovine do gotove daske'
 
 intro:
-  - 'Kao proizvodni ogran tvrtke **Aquafarer LLC**, afarerov operativni tim u Qingdou nadzire svaku fazu proizvodnje — od dolaska sirovina od PVC-a i stakloplastike do završnog pregleda gotove daske prije isporuke. Naš proizvodni pogon u Qingdaoskoj gospodarskoj razvojnoj zoni prostire se na 12,000 četvornih metara i obuhvaća namjenske radionice za rezanje PVC-a, toplinsko spajanje cijevi, izradu FRP kalupa, digitalni tisak SUP dasaka, završnu montažu i ispitivanje kvalitete.'
+  - 'Kao proizvodni ogran tvrtke **Olagoon LLC**, olagoonov operativni tim u Qingdou nadzire svaku fazu proizvodnje — od dolaska sirovina od PVC-a i stakloplastike do završnog pregleda gotove daske prije isporuke. Naš proizvodni pogon u Qingdaoskoj gospodarskoj razvojnoj zoni prostire se na 12,000 četvornih metara i obuhvaća namjenske radionice za rezanje PVC-a, toplinsko spajanje cijevi, izradu FRP kalupa, digitalni tisak SUP dasaka, završnu montažu i ispitivanje kvalitete.'
   - 'Integracijom dizajna, inženjerstva, izrade prototipova, proizvodnje i ispitivanja pod jednim krovom otklanjamo neučinkovitost ugovorne proizvodnje i zadržavamo izravan nadzor nad kvalitetom izrade, odabirom materijala i rokovima isporuke. Svaku dasku koja napusti našu radionicu izrađuju naši ljudi, na našoj opremi, prema našim standardima.'
 
 stats:
@@ -69,22 +69,22 @@ workshops_section:
   workshops:
     - title: 'Rezanje PVC-a i priprema materijala'
       description: 'Automatski CNC strojevi za rezanje obrađuju PVC i drop-stitch tkanine s preciznošću ispod milimetra. Računalno optimizirano raspoređivanje smanjuje otpad materijala i osigurava da svaki panel zadovoljava dimenzionalnu specifikaciju prije zavarivanja.'
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: 'Zavarivanje cijevi i toplinsko spajanje'
       description: 'Namjenska radionica za zavarivanje sa strojevima za toplinsko spajanje i RF prešama. Toplinski spajači s vrućim zrakom spajaju i stapaju komore PVC cijevi, dok RF zavari daju visokočvrste nepropusne šavove koji premašuju zahtjeve standarda EN ISO 25649.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: 'FRP kalupi i izrada kompozita'
       description: 'Prilagođeni FRP kalupi za SUP komponente, izrađeni ručnim polaganjem stakloplastike s poliesterskim i vinilesterskim sustavima smola. Svaki se sloj ručno valja i pakira u vakuum radi dosljedne kvalitete. Kabina za prskanje gelcoata pruža visokosjajni, UV-otporni pomorski završni sloj.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Tisak i dekoriranje SUP dasaka'
       description: 'SUP daske ukrašavaju se digitalnim tiskom za grafiku u punim bojama i sitotiskom za logotipove i ponavljajuće uzorke. Digitalni pisači proizvode dizajne palube fotografske kvalitete, dok sitotisak daje trajne, živopisne oznake marke.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Završna montaža i opremanje'
       description: 'Montažna linija na kojoj se drop-stitch jezgre dovršavaju rubnim trakama, postavljaju EVA palube te ugrađuju peraje, ventili i dodaci. Svaka daska slijedi kontrolni popis montaže od 100 točaka koje ovjerava voditelj tima.'
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: 'Ispitivanje kvalitete i pregled'
       description: 'Svaka dovršena daska prolazi obavezno ispitivanje zadržavanja zraka, provjeru odvajanja šava i kompletnu provjeru sustava prije otpreme. Naš laboratorij kvalitete djeluje neovisno o proizvodnji i izvještava izravno upravi.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
   tagline: 'Oprema'
@@ -141,7 +141,7 @@ faq_section:
   questions:
     - q: 'Koja je minimalna količina narudžbe (MOQ) za OEM napuhive SUP daske?'
       a: 'MOQ počinje od 5–10 jedinica za standardne OEM modele. Prilagođeni kalupi i projekti s privatnom markom zahtijevaju najmanje 200 jedinica, ovisno o složenosti. Probne narudžbe i ograničene serije uzoraka dostupne su za lansiranja novih marki.'
-    - q: 'Posjeduje li afarer BSCI certifikat?'
+    - q: 'Posjeduje li olagoon BSCI certifikat?'
       a: 'Da. Naša tvornica održava važeći BSCI certifikat socijalne usklađenosti (revizijsko izvješće dostupno na zahtjev). Također posjedujemo ISO 9001 za upravljanje kvalitetom, a svi proizvodi nose CE certifikat. Dokumentacija o usklađenosti s REACH-om i RoHS-om dostavlja se uz svaku OEM pošiljku.'
     - q: 'Koliki je uobičajeni rok isporuke za OEM narudžbu?'
       a: 'Standardni rok isporuke je 30–45 dana od potvrđenog PO-a i uplate akontacije za serijsku OEM proizvodnju. Razvoj prilagođenih kalupa dodaje 15–20 dana za izradu alata. Ubrzana proizvodnja dostupna je za hitne narudžbe i sezonske vršnjake. Prototipovi se obično šalju unutar 15–20 dana.'

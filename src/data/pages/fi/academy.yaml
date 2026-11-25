@@ -1,6 +1,6 @@
 meta:
   title: 'Akatemia — SUP-oppaat ja melontaharjoittelu | {SITE}'
-  description: 'afarer Akatemia: täytettävien paddle board -lautojen oppaat, stand up paddle -tekniikat, meriturvallisuus ja materiaalitieto aloittelijoille ja ammattilaisille.'
+  description: 'olagoon Akatemia: täytettävien paddle board -lautojen oppaat, stand up paddle -tekniikat, meriturvallisuus ja materiaalitieto aloittelijoille ja ammattilaisille.'
   keywords:
     - 'stand up paddle -opiskelu'
     - 'SUP-alkajanoppa'
@@ -8,7 +8,7 @@ meta:
     - 'SUP-tekniikka'
     - 'SUP-tunnit'
 hero:
-  tagline: afarer-akatemia
+  tagline: olagoon-akatemia
   title: Oppimiskeskus
   subtitle: Oppaita ja opetusohjelmia jokaiselle taitotasolle — SUP-perusteista edistyneisiin pelastustekniikoihin
 categories:

@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const roots = ['E:/github/afarer/src/content/news', 'E:/github/afarer/src/content/post'].filter((p) =>
+const roots = ['E:/github/olagoon/src/content/news', 'E:/github/olagoon/src/content/post'].filter((p) =>
   fs.existsSync(p)
 );
 const FILE_RE = /\/[^/]*\.[a-z0-9]+$/i;
@@ -40,7 +40,7 @@ function scan(fp) {
     );
     summary[key] = summary[key] || { count: 0, files: new Set() };
     summary[key].count++;
-    summary[key].files.add(fp.replace(/\\/g, '/').replace('E:/github/afarer/src/content/', ''));
+    summary[key].files.add(fp.replace(/\\/g, '/').replace('E:/github/olagoon/src/content/', ''));
   }
 }
 

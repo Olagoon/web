@@ -1,6 +1,6 @@
-# Afarer B2B Strategy — Information Architecture
+# OLagoon B2B Strategy — Information Architecture
 
-> **Goal:** Transform afarer.com from a "SUP Manufacturer" site into "The World's Most Trusted Water Adventure Business Partner".
+> **Goal:** Transform olagoon.com from a "SUP Manufacturer" site into "The World's Most Trusted Water Adventure Business Partner".
 > **Audience:** Resorts, Paddle Clubs, Rental Operators, Retailers, Distributors, Startup Brand Founders.
 > **Current built:** 8788 pages, ~1m 40s build.
 
@@ -11,7 +11,7 @@
 ### Header Navigation (Desktop)
 
 ```
-[Logo]  Products  Explore Afarer ▼  Co-Brand ▼  Country Partners ▼  Support ▼  [🌐 Lang] [🔍] [Find a Distributor] [Get a Quote]
+[Logo]  Products  Explore OLagoon ▼  Co-Brand ▼  Country Partners ▼  Support ▼  [🌐 Lang] [🔍] [Find a Distributor] [Get a Quote]
 ```
 
 #### Products dropdown
@@ -29,11 +29,11 @@ Products
 └─ Accessories                   → /sup-accessories
 ```
 
-#### Explore Afarer dropdown
+#### Explore OLagoon dropdown
 
 ```
-Explore Afarer
-├─ Why Afarer                    → /afarer-story
+Explore OLagoon
+├─ Why OLagoon                    → /olagoon-story
 ├─ Technology & Materials        → /technology
 ├─ Quality & Safety              → /quality-testing
 ├─ Stories & Guides              → /en/journal
@@ -44,7 +44,7 @@ Explore Afarer
 
 ```
 Co-Brand
-├─ Co-Brand With Afarer          → /co-brand
+├─ Co-Brand With OLagoon          → /co-brand
 ├─ For Clubs & Resorts           → /en/solutions/resorts-hotels
 └─ For Retail Partners           → /en/solutions/retail-partners
 ```
@@ -83,8 +83,8 @@ Solutions
 ### Footer Navigation
 
 ```
-Products        Explore Afarer  Co-Brand                Country Partners     Support
-SUP Boards      Why Afarer      Co-Brand With Afarer    Find a Distributor   Warranty & Claims
+Products        Explore OLagoon  Co-Brand                Country Partners     Support
+SUP Boards      Why OLagoon      Co-Brand With OLagoon    Find a Distributor   Warranty & Claims
 Accessories     Technology      For Clubs & Resorts     Become a Country     FAQ
 Bundles         Quality &       For Retail Partners     Partner              Downloads & Manuals
                 Safety                                   For Distributors     Contact Support
@@ -106,13 +106,13 @@ Bundles         Quality &       For Retail Partners     Partner              Dow
 #### Hero Section
 
 ```
-Image: 5-star resort beach with guests on Afarer SUPs, golden hour lighting
+Image: 5-star resort beach with guests on OLagoon SUPs, golden hour lighting
 
 Headline:
 Create Premium Water Experiences For Your Guests
 
 Subheadline:
-Afarer provides complete SUP fleet solutions for resorts, hotels, and
+OLagoon provides complete SUP fleet solutions for resorts, hotels, and
 waterfront destinations worldwide. One partner. One invoice. Zero hassle.
 
 CTA Button:
@@ -167,7 +167,7 @@ Estimated annual profit:  $XXX,XXX
 ROI period:               X months
 ```
 
-#### Why Resorts Choose Afarer
+#### Why Resorts Choose OLagoon
 
 ```
 ─ Commercial-grade durability (tested for 500+ rental cycles)
@@ -181,7 +181,7 @@ ROI period:               X months
 #### Social Proof
 
 ```
-"Since switching to Afarer, our SUP rental revenue increased 40%.
+"Since switching to OLagoon, our SUP rental revenue increased 40%.
 Board replacement costs dropped 60%. The ROI calculator was
 conservative — we recouped our investment in 4 months."
 — Water Activities Manager, 5-star resort, Maldives
@@ -201,20 +201,20 @@ Ready to upgrade your guest experience?
 ### 2.2 Paddle Clubs — `/solutions/paddle-clubs`
 
 **URL slug:** `solutions-paddle-clubs`
-**H1:** Build Your Paddle Club With Afarer
+**H1:** Build Your Paddle Club With OLagoon
 **Tagline:** Everything you need to launch, run, and grow a successful paddle club.
 
 #### Hero Section
 
 ```
-Image: A thriving paddle club on a lake, members with matching Afarer boards
+Image: A thriving paddle club on a lake, members with matching OLagoon boards
 
 Headline:
-Build Your Paddle Club With Afarer
+Build Your Paddle Club With OLagoon
 
 Subheadline:
 Whether you're launching your first club or scaling an established fleet,
-Afarer gives you commercial-grade equipment, bulk pricing, and
+OLagoon gives you commercial-grade equipment, bulk pricing, and
 replacement parts support.
 
 CTA Button:
@@ -251,7 +251,7 @@ Competition Fleet
 → For: Racing clubs, events, competitions
 ```
 
-#### Why Paddle Clubs Choose Afarer
+#### Why Paddle Clubs Choose OLagoon
 
 ```
 ─ Boards survive 500+ rental cycles
@@ -299,7 +299,7 @@ Headline:
 Scale Your Rental Business With Confidence
 
 Subheadline:
-Every Afarer board is built for the daily grind — UV-resistant PVC,
+Every OLagoon board is built for the daily grind — UV-resistant PVC,
 reinforced seams, and impact-tested rails. Your revenue never
 takes a day off.
 
@@ -347,16 +347,16 @@ Large beach rental      50-100 boards        $XXX,XXX/yr
 ### 2.4 Retail Partners — `/solutions/retail-partners`
 
 **URL slug:** `solutions-retail-partners`
-**H1:** Become An Afarer Retail Partner
+**H1:** Become An OLagoon Retail Partner
 **Tagline:** A complete product line, real marketing support, and margins that make sense.
 
 #### Hero Section
 
 ```
-Image: A well-lit retail store with Afarer boards displayed, customers browsing
+Image: A well-lit retail store with OLagoon boards displayed, customers browsing
 
 Headline:
-Become An Afarer Retail Partner
+Become An OLagoon Retail Partner
 
 Subheadline:
 Sell the fastest-growing SUP brand in your market. Full product line,
@@ -434,13 +434,13 @@ Flagship Partner
 #### Hero Section
 
 ```
-Image: Global map with Afarer distribution points highlighted, shipping containers
+Image: Global map with OLagoon distribution points highlighted, shipping containers
 
 Headline:
 Join Our Global Distribution Network
 
 Subheadline:
-Afarer ships to 50+ countries. We're looking for established marine,
+OLagoon ships to 50+ countries. We're looking for established marine,
 outdoor, and water sports distributors in key markets worldwide.
 
 CTA Button:
@@ -503,7 +503,7 @@ Seeking distributors in: [remaining markets]
 ### 2.6 Build Your Own Brand — `/solutions/build-your-own-brand`
 
 **URL slug:** `solutions-build-your-own-brand`
-**H1:** Launch Your Own SUP Brand With Afarer
+**H1:** Launch Your Own SUP Brand With OLagoon
 **Tagline:** From idea to market. We guide you through every step of building a successful inflatable SUP brand.
 
 #### Hero Section
@@ -512,7 +512,7 @@ Seeking distributors in: [remaining markets]
 Image: A branded SUP board on water, logo visible, modern design
 
 Headline:
-Launch Your Own SUP Brand With Afarer
+Launch Your Own SUP Brand With OLagoon
 
 Subheadline:
 You have the vision. We have the factory, the expertise, and the
@@ -586,7 +586,7 @@ Established Brand
 ─ From $XX/unit
 ```
 
-#### Why Brands Choose Afarer
+#### Why Brands Choose OLagoon
 
 ```
 ─ 10+ years OEM experience

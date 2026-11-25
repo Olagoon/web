@@ -1,8 +1,8 @@
 meta:
   title: 'Contacto — Consultas de Asociación y Productos | {SITE}'
-  description: 'Contacte con afarer para consultas de asociación, co-brand y marca privada, o flotas profesionales. Fabricante de SUP hinchables y barcas; respondemos en 2 días laborables.'
+  description: 'Contacte con olagoon para consultas de asociación, co-brand y marca privada, o flotas profesionales. Fabricante de SUP hinchables y barcas; respondemos en 2 días laborables.'
   keywords:
-    - 'contactar afarer'
+    - 'contactar olagoon'
     - 'presupuesto distribuidor de SUP'
     - 'proveedor profesional de SUP'
     - 'contactar fabricante de SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Envíanos un mensaje
   subtitle: Para presupuestos, preguntas técnicas o consultas de colaboración, escríbenos. Respondemos en un día hábil.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Enviar consulta → Obtener presupuesto
   success_message: ¡Gracias! Tu mensaje ha llegado a nuestra bandeja de entrada. Responderemos en un día hábil.
   error_message: Algo salió mal al enviar tu mensaje. Inténtalo de nuevo o escríbenos directamente por correo.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: '+1 279 732 3333'
       icon: tabler:headset
     - title: Correo electrónico
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Sede central
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

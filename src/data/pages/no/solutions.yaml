@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Forretningsløsninger
   title: SUP-løsninger<br />for enhver virksomhet
-  subtitle: Fra resorter til butikker, utleiere til globale distributører — Afarer tilbyr komplette SUP-løsninger tilpasset din forretningsmodell.
+  subtitle: Fra resorter til butikker, utleiere til globale distributører — OLagoon tilbyr komplette SUP-løsninger tilpasset din forretningsmodell.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Afarer SUP-brett for forretnings- og profesjonelle bruksområder
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: OLagoon SUP-brett for forretnings- og profesjonelle bruksområder
 stats:
-  title: Afarer på ett øyeblikk
+  title: OLagoon på ett øyeblikk
   stats:
     - title: Års erfaring
       amount: Siden 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Bygg ditt eget merke
-      description: Helhetlig OEM/ODM SUP-produksjon — design, prototyping, storskala produksjon og logistikk. Lanser din merkevare med Afarer.
+      description: Helhetlig OEM/ODM SUP-produksjon — design, prototyping, storskala produksjon og logistikk. Lanser din merkevare med OLagoon.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

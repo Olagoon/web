@@ -1,13 +1,13 @@
 meta:
   title: SUP-distributörspartnerskap | {SITE}
-  description: Gå med i Afarers globala distributionsnätverk. Exklusiva territorier, komplett produktportfölj, konkurrerande grossistpriser och dedikerad kontoansvarig.
+  description: Gå med i OLagoons globala distributionsnätverk. Exklusiva territorier, komplett produktportfölj, konkurrerande grossistpriser och dedikerad kontoansvarig.
 hero:
   tagline: Distributörer
   title: Gå med i vårt globala<br />distributionsnätverk
-  subtitle: Exklusiva territorier. Komplett produktportfölj. Världsklass support. Afarer levererar till 50+ länder och vi söker etablerade marina och vattensportåterförsäljare.
+  subtitle: Exklusiva territorier. Komplett produktportfölj. Världsklass support. OLagoon levererar till 50+ länder och vi söker etablerade marina och vattensportåterförsäljare.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Afarers globala distributions- och fraktverksamhet
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: OLagoons globala distributions- och fraktverksamhet
 benefits:
   title: Vad distributörer får
   subtitle: Allt du behöver för att lyckas på din marknad.
@@ -24,7 +24,7 @@ benefits:
     - 45-60 dagars betalningsvillkor
 coverage:
   title: Nuvarande distribution
-  subtitle: Afarer betjänar dessa marknader direkt.
+  subtitle: OLagoon betjänar dessa marknader direkt.
   regions:
     - name: Europa
       countries: Frankrike, Tyskland, Storbritannien, Spanien, Italien, Nederländerna, Sverige, Norge, Polen, Grekland

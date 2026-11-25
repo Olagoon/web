@@ -182,7 +182,7 @@ async function sendInquiryEmail(
   if (!env.CONTACT_RESEND_API_KEY || !env.CONTACT_FROM_EMAIL) {
     return { ok: false, error: 'Resend not configured' };
   }
-  const fromName = env.CONTACT_FROM_NAME || 'afarer Contact';
+  const fromName = env.CONTACT_FROM_NAME || 'olagoon Contact';
   const from = `${fromName} <${env.CONTACT_FROM_EMAIL}>`;
   const replyTo = `${fields.firstName} ${fields.lastName} <${fields.email}>`;
 
@@ -339,7 +339,7 @@ export default {
     }
 
     // Fallback keeps the public contact inbox always reachable even if the var/secret is lost.
-    const destinationEmail = env.CONTACT_EMAIL_TO || 'info@afarer.com';
+    const destinationEmail = env.CONTACT_EMAIL_TO || 'info@olagoon.com';
     if (!destinationEmail || !EMAIL_RE.test(destinationEmail)) {
       return json({ success: false, error: 'Destination email not configured' }, 500);
     }

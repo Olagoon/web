@@ -1,6 +1,6 @@
 meta:
-  title: 'Country Partners — One Country, One Official Afarer Distributor | {SITE}'
-  description: 'Apply to become the official Afarer distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global SUP and water sports distributors.'
+  title: 'Country Partners — One Country, One Official OLagoon Distributor | {SITE}'
+  description: 'Apply to become the official OLagoon distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global SUP and water sports distributors.'
   keywords:
     - 'country partnership program'
     - 'become a distributor'
@@ -11,8 +11,8 @@ meta:
     - 'country partnership application'
 hero:
   tagline: 'Country Partnership'
-  title: 'One Country.<br />One Official Afarer Distributor.'
-  subtitle: 'Afarer appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
+  title: 'One Country.<br />One Official OLagoon Distributor.'
+  subtitle: 'OLagoon appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
   actions:
     - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '12–16'
     label: 'Weeks standard lead time (FOB Qingdao)'
 features:
-  title: 'Why Partner With Afarer'
+  title: 'Why Partner With OLagoon'
   subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
       icon: 'tabler:shield-check'
     - title: 'Channel Conflict Protection'
-      description: 'Direct orders from your region are routed through you, and pricing protects your margin. Afarer does not sell around its country partners.'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. OLagoon does not sell around its country partners.'
       icon: 'tabler:users'
     - title: 'Direct-Factory Margins & Rebates'
       description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
@@ -59,7 +59,7 @@ features:
       description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
       icon: 'tabler:settings'
     - title: 'Dedicated Account Manager & Partner Portal'
-      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the Afarer partner portal.'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
   title: 'Partnership Tiers, MOQ & Order Terms'
@@ -83,14 +83,14 @@ faqs:
   subtitle: 'The questions serious country partners ask before applying.'
   items:
     - title: 'What does one-country-one-distributor really mean?'
-      description: 'Afarer appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+      description: 'OLagoon appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
     - title: 'Is the territory exclusive forever?'
       description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
     - title: 'What is the minimum first order?'
       description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
     - title: 'What support is included in the 10-module support program?'
       description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
-    - title: 'How does Afarer protect me from channel conflict?'
+    - title: 'How does OLagoon protect me from channel conflict?'
       description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
     - title: 'What are the shipping and payment terms?'
       description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
@@ -98,7 +98,7 @@ faqs:
       description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
 cta:
   title: 'Own your market.'
-  subtitle: 'Apply for the Afarer Country Partnership and get a response within 3 business days.'
+  subtitle: 'Apply for the OLagoon Country Partnership and get a response within 3 business days.'
   actions:
     - text: 'Apply for Country Partnership'
       href: /contact/?subject=Country Partnership Application
@@ -108,7 +108,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'Who We Partner With'
-  sentence: 'Afarer partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable SUP boards and watercraft — and who commit to building the Afarer brand in their country.'
+  sentence: 'OLagoon partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable SUP boards and watercraft — and who commit to building the OLagoon brand in their country.'
   audiences:
     - 'Marine & Paddle Sports Distributors'
     - 'Outdoor & Sports Retail'

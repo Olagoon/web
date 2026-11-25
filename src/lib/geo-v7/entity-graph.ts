@@ -13,13 +13,13 @@ export interface EntityRelationship {
 
 export const entityGraph: EntityNode[] = [
   {
-    id: 'afarer',
+    id: 'olagoon',
     type: 'brand',
-    name: 'afarer',
+    name: 'olagoon',
     description:
       'Global water sports brand designing inflatable SUP boards for all-around paddling, touring, yoga, fishing, and family adventures.',
     relationships: [
-      { type: 'parent', targetId: 'aquafarer-llc' },
+      { type: 'parent', targetId: 'olagoon-llc' },
       { type: 'operatesIn', targetId: 'marine-recreation' },
       { type: 'operatesIn', targetId: 'outdoor-sports' },
       { type: 'operatesIn', targetId: 'marine-manufacturing' },
@@ -29,11 +29,11 @@ export const entityGraph: EntityNode[] = [
     ],
   },
   {
-    id: 'aquafarer-llc',
+    id: 'olagoon-llc',
     type: 'brand',
-    name: 'Aquafarer LLC',
-    description: 'Global operating company of afarer, headquartered in the United States.',
-    relationships: [{ type: 'child', targetId: 'afarer' }],
+    name: 'Olagoon LLC',
+    description: 'Global operating company of olagoon, headquartered in the United States.',
+    relationships: [{ type: 'child', targetId: 'olagoon' }],
   },
   {
     id: 'marine-recreation',
@@ -64,7 +64,7 @@ export const entityGraph: EntityNode[] = [
     name: 'SUP Boards',
     description: 'Stand-up paddle boards including all-around, touring, yoga, fishing, and adventure SUP models.',
     relationships: [
-      { type: 'belongsTo', targetId: 'afarer' },
+      { type: 'belongsTo', targetId: 'olagoon' },
       { type: 'uses', targetId: 'drop-stitch' },
       { type: 'uses', targetId: 'pvc-fabric' },
     ],
@@ -168,7 +168,7 @@ export function getEntityGraphJsonLd(): object {
                     : 'Thing',
         name: node.name,
         description: node.description,
-        identifier: `afarer:entity:${node.id}`,
+        identifier: `olagoon:entity:${node.id}`,
       };
       if (node.relationships.length > 0) {
         base.relatedEntity = node.relationships.map((r) => ({

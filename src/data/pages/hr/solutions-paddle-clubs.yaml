@@ -7,12 +7,12 @@ hero:
   title: 'Pokrenite, vodite i razvijajte svoj veslački klub<br />flotama SUP dasaka komercijalne klase'
   subtitle: 'Dobavljač opreme za SUP klubove za veslačke klubove i SUP škole diljem svijeta — trajne komercijalne daske, klupske cijene za velike narudžbe, prilagođeno brendiranje i brzi rezervni dijelovi, kako biste se mogli usredotočiti na razvoj svoje zajednice.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: 'Članovi veslačkog kluba na usklađenim Afarer SUP daskama'
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: 'Članovi veslačkog kluba na usklađenim OLagoon SUP daskama'
 
 benefits:
   title: 'Prednosti klupske flote'
-  subtitle: 'Zašto veslački klubovi u 50+ zemalja odabiru Afarera kao partnera za opremu.'
+  subtitle: 'Zašto veslački klubovi u 50+ zemalja odabiru OLagoona kao partnera za opremu.'
   items:
     - metric: '40%+'
       label: 'Ušteda na troškovima flote'
@@ -86,7 +86,7 @@ training:
         - 'Oprema s CE certifikatom'
 
 features:
-  title: 'Zašto klubovi odabiru Afarer'
+  title: 'Zašto klubovi odabiru OLagoon'
   subtitle: 'Dosljedna kvaliteta, brzi dijelovi i cijene za velike narudžbe stvorene za klubove u rastu.'
   items:
     - title: '500+ ciklusa iznajmljivanja'

@@ -8,8 +8,8 @@ hero:
   tagline: 'Laboratorija 06'
   title: 'Kvalitātes un pārbaudes laboratorija'
   subtitle: 'Neatkarīga pārbaude — katrs tests sekmīgi iziets pirms piegādes'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'Afarer kvalitātes pārbaudes laboratorijas UV testēšana'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'OLagoon kvalitātes pārbaudes laboratorijas UV testēšana'
 
 intro: 'Katrs dēlis, kas atstāj mūsu darbnīcu, nes sertifikāciju, ka tas ir izgājis noteiktu kvalitātes pārbaužu un materiālu testu kopu. Mūsu Kvalitātes un pārbaudes laboratorija ir neatkarīga funkcija organizācijā — tā atskaitas tieši izpilddirektoram, nevis ražošanai —, tādējādi nodrošinot, ka neviens komerciāls spiediens nevar ietekmēt pārbaudes posmu. Ja materiāla partija vai pabeigts dēlis neatbilst publicētajai specifikācijai, laboratorijai ir pilnvaras apturēt nosūtīšanu, līdz neatbilstība ir novērsta.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Mūsu apņemšanās jums</h2>
-  <p>Saņemot Afarer dēli, jūs saņemat arī tā kvalitātes dosjē — apkopotu ierakstu par testu rezultātiem, kas attiecas uz jūsu konkrēto dēli. Auduma partijas sertifikāts, metinājumu atlobīšanas testi, kameru gaisa testu žurnāli un pārbaudes kontrolsaraksts pirms piegādes. Katrs skaitlis ir izsekojams. Katrs inspektors ir identificēts. Šī nav tikai dokumentācija — tas ir mūsu solījums, ka piegādātais ir tieši tas, ko esam norādījuši.</p>
+  <p>Saņemot OLagoon dēli, jūs saņemat arī tā kvalitātes dosjē — apkopotu ierakstu par testu rezultātiem, kas attiecas uz jūsu konkrēto dēli. Auduma partijas sertifikāts, metinājumu atlobīšanas testi, kameru gaisa testu žurnāli un pārbaudes kontrolsaraksts pirms piegādes. Katrs skaitlis ir izsekojams. Katrs inspektors ir identificēts. Šī nav tikai dokumentācija — tas ir mūsu solījums, ka piegādātais ir tieši tas, ko esam norādījuši.</p>
   <p>Ja jums jebkad rodas kvalitātes bažas, varat sazināties ar laboratoriju tieši — kontaktinformācija ir norādīta jūsu atbilstības sertifikātā. Katru jautājumu uztveram nopietni un apņemamies uzsākt formālu izmeklēšanu 48 stundu laikā.</p>
 
 cta:

@@ -1,5 +1,5 @@
 const fs = require('fs');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 const WORK = 'C:/Users/Helleo/AppData/Local/Temp/deveco/tr_sol_work';
 const en = JSON.parse(fs.readFileSync(WORK + '/en_body.json', 'utf8'));
 const outDir = WORK + '/en_parts';
@@ -11,7 +11,7 @@ en.forEach((sol, i) => {
     challenge: sol.challenge,
     solutions: sol.solutions,
     caseStudy: sol.caseStudy,
-    whyAfarer: sol.whyAfarer,
+    whyOLagoon: sol.whyOLagoon,
     faqs: sol.faqs,
     cta: {
       title: sol.cta.title,

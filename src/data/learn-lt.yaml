@@ -1,10 +1,10 @@
 misc:
   readGuide: Skaityti vadovą →
   techDesc: Jūrinės saugos inžinerija ir medžiagų bandymai
-  productsDesc: Peržiūrėkite visą Afarer produktų katalogą
+  productsDesc: Peržiūrėkite visą OLagoon produktų katalogą
   trustDesc: CE, ISO ir BSCI atitiktis
 sup:
-  title: SUP žinios — pripučiamų SUP vadovai ir ištekliai | Afarer
+  title: SUP žinios — pripučiamų SUP vadovai ir ištekliai | OLagoon
   description: Išsamus SUP žinių centras, apimantis pradedančiųjų vadovus, lentų dydžių parinkimą, technikos pamokas, saugos patarimus ir pripučiamų SUP technologijas.
   articles:
     - title: SUP pagrindai — vadovas pradedantiesiems
@@ -26,7 +26,7 @@ sup:
       desc: 'Būtinos saugos žinios: orų skaitymas, PFD pasirinkimas, savarankiškas gelbimasis ir grupinis irklavimas.'
       href: /learn/water-safety/
 water-safety:
-  title: Saugos vandenyje žinios — saugaus irklavimo vadovai | Afarer
+  title: Saugos vandenyje žinios — saugaus irklavimo vadovai | OLagoon
   description: Išsamūs saugos vandenyje ištekliai, skirti SUP, baidarėms ir valtims. Sužinokite apie PFD pasirinkimą, orų skaitymą, savarankišką gelbimąsi, saugą šaltame vandenyje ir CE sertifikavimą.
   articles:
     - title: Saugos vandenyje vadovas
@@ -49,7 +49,7 @@ water-safety:
       href: /trust/
 sup-basics:
   title: SUP pagrindai — pradedančiųjų vadovas irklavimui stovint ant lentos
-  description: Viskas, ką reikia žinoti pradedant irkluoti stovint ant lentos. Įrangos vadovai, dydžių patarimai, saugos patarimai ir pradedančiųjų technikos iš Afarer žinių centro.
+  description: Viskas, ką reikia žinoti pradedant irkluoti stovint ant lentos. Įrangos vadovai, dydžių patarimai, saugos patarimai ir pradedančiųjų technikos iš OLagoon žinių centro.
   articles: []
 drop-stitch-core:
   title: Drop-stitch branduolio technologija — kaip pripučiami SUP įgauna standumą

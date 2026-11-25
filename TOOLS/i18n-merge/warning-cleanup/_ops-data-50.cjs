@@ -7,8 +7,8 @@
 module.exports = [
   {
     f: 'src/data/pages/de/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resorts & Hotels\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Resortgäste beim Stand-Up-Paddeln an einem unberührten Strand\n',
-    rep: 'hero:\n  tagline: Resorts und Hotels\n  title: Machen Sie aus Ihrer Uferlage ein Einnahmezentrum<br />mit Premium-SUP-Flotten\n  subtitle: Afarer stattet Resorts weltweit mit aufblasbaren SUP-Flotten in kommerzieller Qualität aus — von 20-Board-Starterpaketen bis zu Flaggschiff-Programmen mit 100+ Boards. Individuelles Branding, Mitarbeiterschulungen und Ersatzteile inklusive.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Resortgäste beim Stand-Up-Paddeln an einem unberührten Strand\n',
+    find: 'hero:\n  tagline: Resorts & Hotels\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Resortgäste beim Stand-Up-Paddeln an einem unberührten Strand\n',
+    rep: 'hero:\n  tagline: Resorts und Hotels\n  title: Machen Sie aus Ihrer Uferlage ein Einnahmezentrum<br />mit Premium-SUP-Flotten\n  subtitle: OLagoon stattet Resorts weltweit mit aufblasbaren SUP-Flotten in kommerzieller Qualität aus — von 20-Board-Starterpaketen bis zu Flaggschiff-Programmen mit 100+ Boards. Individuelles Branding, Mitarbeiterschulungen und Ersatzteile inklusive.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Resortgäste beim Stand-Up-Paddeln an einem unberührten Strand\n',
     n: 1,
   },
   {
@@ -25,8 +25,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/es/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resorts y Hoteles\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Huéspedes del resort disfrutando del paddle surf en una playa prístina\n',
-    rep: 'hero:\n  tagline: Resorts y Hoteles\n  title: Convierta su zona costera en un centro de ingresos<br />con flotas SUP premium\n  subtitle: Afarer equipa a los resorts de todo el mundo con flotas SUP inflables de calidad comercial — desde paquetes iniciales de 20 tablas hasta programas insignia de 100+ tablas. Personalización de marca, capacitación del personal y piezas de repuesto incluidas.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Huéspedes del resort disfrutando del paddle surf en una playa prístina\n',
+    find: 'hero:\n  tagline: Resorts y Hoteles\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Huéspedes del resort disfrutando del paddle surf en una playa prístina\n',
+    rep: 'hero:\n  tagline: Resorts y Hoteles\n  title: Convierta su zona costera en un centro de ingresos<br />con flotas SUP premium\n  subtitle: OLagoon equipa a los resorts de todo el mundo con flotas SUP inflables de calidad comercial — desde paquetes iniciales de 20 tablas hasta programas insignia de 100+ tablas. Personalización de marca, capacitación del personal y piezas de repuesto incluidas.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Huéspedes del resort disfrutando del paddle surf en una playa prístina\n',
     n: 1,
   },
   {
@@ -43,8 +43,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/it/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resort e Hotel\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Ospiti del resort che si godono il SUP su una spiaggia incontaminata\n',
-    rep: 'hero:\n  tagline: Resort e Hotel\n  title: Trasforma il tuo fronte mare in un centro di ricavi<br />con flotte SUP premium\n  subtitle: Afarer fornisce ai resort di tutto il mondo flotte SUP gonfiabili di qualità commerciale — dai pacchetti iniziali da 20 tavole ai programmi di punta con 100+ tavole. Personalizzazione del marchio, formazione del personale e pezzi di ricambio inclusi.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Ospiti del resort che si godono il SUP su una spiaggia incontaminata\n',
+    find: 'hero:\n  tagline: Resort e Hotel\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Ospiti del resort che si godono il SUP su una spiaggia incontaminata\n',
+    rep: 'hero:\n  tagline: Resort e Hotel\n  title: Trasforma il tuo fronte mare in un centro di ricavi<br />con flotte SUP premium\n  subtitle: OLagoon fornisce ai resort di tutto il mondo flotte SUP gonfiabili di qualità commerciale — dai pacchetti iniziali da 20 tavole ai programmi di punta con 100+ tavole. Personalizzazione del marchio, formazione del personale e pezzi di ricambio inclusi.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Ospiti del resort che si godono il SUP su una spiaggia incontaminata\n',
     n: 1,
   },
   {
@@ -61,8 +61,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/pt/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resorts e Hotéis\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Hóspedes do resort aproveitando o stand up paddle em uma praia intocada\n',
-    rep: 'hero:\n  tagline: Resorts e Hotéis\n  title: Transforme sua área à beira-mar em um centro de receitas<br />com frotas SUP premium\n  subtitle: A Afarer equipa resorts do mundo todo com frotas SUP infláveis de qualidade comercial — de pacotes iniciais com 20 pranchas a programas principais com 100+ pranchas. Personalização de marca, treinamento da equipe e peças de reposição incluídos.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Hóspedes do resort aproveitando o stand up paddle em uma praia intocada\n',
+    find: 'hero:\n  tagline: Resorts e Hotéis\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Hóspedes do resort aproveitando o stand up paddle em uma praia intocada\n',
+    rep: 'hero:\n  tagline: Resorts e Hotéis\n  title: Transforme sua área à beira-mar em um centro de receitas<br />com frotas SUP premium\n  subtitle: A OLagoon equipa resorts do mundo todo com frotas SUP infláveis de qualidade comercial — de pacotes iniciais com 20 pranchas a programas principais com 100+ pranchas. Personalização de marca, treinamento da equipe e peças de reposição incluídos.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Hóspedes do resort aproveitando o stand up paddle em uma praia intocada\n',
     n: 1,
   },
   {
@@ -79,8 +79,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/nl/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resorts & hotels\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Resortgasten die van SUP-boarden genieten op een ongerept strand\n',
-    rep: 'hero:\n  tagline: Resorts & hotels\n  title: Maak van uw waterfront een inkomstencentrum<br />met premium SUP-vloten\n  subtitle: "Afarer levert resorts wereldwijd opblaasbare SUP-vloten van commerciële kwaliteit — van startpakketten met 20 borden tot flagship-programma\'s met 100+ borden. Inclusief merkpersonalisatie, personeelstraining en vervangingsonderdelen."\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Resortgasten die van SUP-boarden genieten op een ongerept strand\n',
+    find: 'hero:\n  tagline: Resorts & hotels\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Resortgasten die van SUP-boarden genieten op een ongerept strand\n',
+    rep: 'hero:\n  tagline: Resorts & hotels\n  title: Maak van uw waterfront een inkomstencentrum<br />met premium SUP-vloten\n  subtitle: "OLagoon levert resorts wereldwijd opblaasbare SUP-vloten van commerciële kwaliteit — van startpakketten met 20 borden tot flagship-programma\'s met 100+ borden. Inclusief merkpersonalisatie, personeelstraining en vervangingsonderdelen."\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Resortgasten die van SUP-boarden genieten op een ongerept strand\n',
     n: 1,
   },
   {
@@ -97,8 +97,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/da/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resorts og hoteller\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Resortgæster nyder SUP-boarding på en uberørt strand\n',
-    rep: 'hero:\n  tagline: Resorts og hoteller\n  title: Forvandl din strandfront til et indtægtscenter<br />med premium SUP-flåder\n  subtitle: Afarer udstyrer resorts i hele verden med oppustelige SUP-flåder i kommerciel kvalitet — fra startpakker med 20 bræt til flagship-programmer med 100+ bræt. Skræddersyet branding, personaleuddannelse og reservedele inkluderet.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Resortgæster nyder SUP-boarding på en uberørt strand\n',
+    find: 'hero:\n  tagline: Resorts og hoteller\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Resortgæster nyder SUP-boarding på en uberørt strand\n',
+    rep: 'hero:\n  tagline: Resorts og hoteller\n  title: Forvandl din strandfront til et indtægtscenter<br />med premium SUP-flåder\n  subtitle: OLagoon udstyrer resorts i hele verden med oppustelige SUP-flåder i kommerciel kvalitet — fra startpakker med 20 bræt til flagship-programmer med 100+ bræt. Skræddersyet branding, personaleuddannelse og reservedele inkluderet.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Resortgæster nyder SUP-boarding på en uberørt strand\n',
     n: 1,
   },
   {
@@ -115,8 +115,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/sv/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resorts och hotell\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Resortgäster som njuter av SUP-på en orörd strand\n',
-    rep: 'hero:\n  tagline: Resorts och hotell\n  title: Förvandla din strandfront till ett intäktscenter<br />med premium SUP-flottor\n  subtitle: Afarer utrustar resorts världen över med uppblåsbara SUP-flottor i kommersiell kvalitet – från startpaket med 20 tavlor till flagship-program med 100+ tavlor. Skräddarsydd varumärkesprofil, personalutbildning och reservdelar ingår.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Resortgäster som njuter av SUP-på en orörd strand\n',
+    find: 'hero:\n  tagline: Resorts och hotell\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Resortgäster som njuter av SUP-på en orörd strand\n',
+    rep: 'hero:\n  tagline: Resorts och hotell\n  title: Förvandla din strandfront till ett intäktscenter<br />med premium SUP-flottor\n  subtitle: OLagoon utrustar resorts världen över med uppblåsbara SUP-flottor i kommersiell kvalitet – från startpaket med 20 tavlor till flagship-program med 100+ tavlor. Skräddarsydd varumärkesprofil, personalutbildning och reservdelar ingår.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Resortgäster som njuter av SUP-på en orörd strand\n',
     n: 1,
   },
   {
@@ -133,8 +133,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/no/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resorter og hoteller\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Gjester på feriesteder som nyter SUP-padling på en uberørt strand\n',
-    rep: 'hero:\n  tagline: Resorter og hoteller\n  title: Gjør strandfronten din om til et inntektssenter<br />med premium SUP-flåter\n  subtitle: Afarer utstyrer resorter over hele verden med oppblåsbare SUP-flåter i kommersiell kvalitet — fra startpakker med 20 brett til flagship-programmer med 100+ brett. Skreddersydd merkevareprofil, personopplæring og reservedeler inkludert.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Gjester på feriesteder som nyter SUP-padling på en uberørt strand\n',
+    find: 'hero:\n  tagline: Resorter og hoteller\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Gjester på feriesteder som nyter SUP-padling på en uberørt strand\n',
+    rep: 'hero:\n  tagline: Resorter og hoteller\n  title: Gjør strandfronten din om til et inntektssenter<br />med premium SUP-flåter\n  subtitle: OLagoon utstyrer resorter over hele verden med oppblåsbare SUP-flåter i kommersiell kvalitet — fra startpakker med 20 brett til flagship-programmer med 100+ brett. Skreddersydd merkevareprofil, personopplæring og reservedeler inkludert.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Gjester på feriesteder som nyter SUP-padling på en uberørt strand\n',
     n: 1,
   },
   {
@@ -151,8 +151,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/fi/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Lomakohteet ja hotellit\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Lomakkeen vieraat nauttivat SUP-lautailusta rikkumattomalla rannalla\n',
-    rep: 'hero:\n  tagline: Lomakohteet ja hotellit\n  title: Muuta ranta-alueesi tulokeskukseksi<br />premium-SUP-kalustoilla\n  subtitle: Afarer varustaa lomakohteita ympäri maailmaa kaupallisen laadun ilmalla täytettävillä SUP-kalustoilla — 20 laudan aloituspaketeista 100+ laudan lippulaivaohjelmiin. Räätälöity brändäys, henkilöstökoulutus ja varaosat sisältyvät.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Lomakkeen vieraat nauttivat SUP-lautailusta rikkumattomalla rannalla\n',
+    find: 'hero:\n  tagline: Lomakohteet ja hotellit\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Lomakkeen vieraat nauttivat SUP-lautailusta rikkumattomalla rannalla\n',
+    rep: 'hero:\n  tagline: Lomakohteet ja hotellit\n  title: Muuta ranta-alueesi tulokeskukseksi<br />premium-SUP-kalustoilla\n  subtitle: OLagoon varustaa lomakohteita ympäri maailmaa kaupallisen laadun ilmalla täytettävillä SUP-kalustoilla — 20 laudan aloituspaketeista 100+ laudan lippulaivaohjelmiin. Räätälöity brändäys, henkilöstökoulutus ja varaosat sisältyvät.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Lomakkeen vieraat nauttivat SUP-lautailusta rikkumattomalla rannalla\n',
     n: 1,
   },
   {
@@ -169,8 +169,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/cs/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Resorty a hotely\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Hosté resortu si užívají pádlování na SUP na nedotčené pláži\n',
-    rep: 'hero:\n  tagline: Resorty a hotely\n  title: Proměňte své pobřežní umístění v zdroj příjmů<br />s prémiovými SUP flotilami\n  subtitle: Afarer vybavuje resorty po celém světě nafukovacími SUP flotilami komerční kvality – od startovacích balíčků s 20 deskami po vlajkové programy se 100+ deskami. Přizpůsobená brandová identita, školení personálu a náhradní díly v ceně.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Hosté resortu si užívají pádlování na SUP na nedotčené pláži\n',
+    find: 'hero:\n  tagline: Resorty a hotely\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Hosté resortu si užívají pádlování na SUP na nedotčené pláži\n',
+    rep: 'hero:\n  tagline: Resorty a hotely\n  title: Proměňte své pobřežní umístění v zdroj příjmů<br />s prémiovými SUP flotilami\n  subtitle: OLagoon vybavuje resorty po celém světě nafukovacími SUP flotilami komerční kvality – od startovacích balíčků s 20 deskami po vlajkové programy se 100+ deskami. Přizpůsobená brandová identita, školení personálu a náhradní díly v ceně.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Hosté resortu si užívají pádlování na SUP na nedotčené pláži\n',
     n: 1,
   },
   {
@@ -187,8 +187,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/pl/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Ośrodki wypoczynkowe i hotele\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Goście ośrodka korzystający z deski SUP na dziewiczej plaży\n',
-    rep: 'hero:\n  tagline: Ośrodki wypoczynkowe i hotele\n  title: Zamień nadbrzeżny teren w centrum przychodów<br />z flotami SUP premium\n  subtitle: Afarer wyposaża kurorty na całym świecie w nadmuchiwane floty SUP klasy komercyjnej — od pakietów startowych z 20 deskami po flagowe programy ze 100+ deskami. Spersonalizowany branding, szkolenia personelu i części zamienne w cenie.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Goście ośrodka korzystający z deski SUP na dziewiczej plaży\n',
+    find: 'hero:\n  tagline: Ośrodki wypoczynkowe i hotele\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Goście ośrodka korzystający z deski SUP na dziewiczej plaży\n',
+    rep: 'hero:\n  tagline: Ośrodki wypoczynkowe i hotele\n  title: Zamień nadbrzeżny teren w centrum przychodów<br />z flotami SUP premium\n  subtitle: OLagoon wyposaża kurorty na całym świecie w nadmuchiwane floty SUP klasy komercyjnej — od pakietów startowych z 20 deskami po flagowe programy ze 100+ deskami. Spersonalizowany branding, szkolenia personelu i części zamienne w cenie.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Goście ośrodka korzystający z deski SUP na dziewiczej plaży\n',
     n: 1,
   },
   {
@@ -205,8 +205,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/ru/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Курорты и отели\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Гости курорта наслаждаются занятиями SUP-серфингом на нетронутом пляже\n',
-    rep: 'hero:\n  tagline: Курорты и отели\n  title: Превратите прибрежную территорию в центр доходов<br />с премиальными SUP-флотами\n  subtitle: Afarer оснащает курорты по всему миру надувными SUP-флотами коммерческого класса — от стартовых пакетов на 20 досок до флагманских программ на 100+ досок. Индивидуальный брендинг, обучение персонала и запчасти включены.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Гости курорта наслаждаются занятиями SUP-серфингом на нетронутом пляже\n',
+    find: 'hero:\n  tagline: Курорты и отели\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Гости курорта наслаждаются занятиями SUP-серфингом на нетронутом пляже\n',
+    rep: 'hero:\n  tagline: Курорты и отели\n  title: Превратите прибрежную территорию в центр доходов<br />с премиальными SUP-флотами\n  subtitle: OLagoon оснащает курорты по всему миру надувными SUP-флотами коммерческого класса — от стартовых пакетов на 20 досок до флагманских программ на 100+ досок. Индивидуальный брендинг, обучение персонала и запчасти включены.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Гости курорта наслаждаются занятиями SUP-серфингом на нетронутом пляже\n',
     n: 1,
   },
   {
@@ -223,8 +223,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/tr/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Tatil Köyleri ve Oteller\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Bozulmamış bir plajda SUP keyfi yapan tatil köyü misafirleri\n',
-    rep: 'hero:\n  tagline: Tatil Köyleri ve Oteller\n  title: Su kenarınızı bir gelir merkezine dönüştürün<br />premium SUP filolarıyla\n  subtitle: Afarer, dünyadaki tatil köylerini ticari kalitede şişme SUP filolarıyla donatır — 20 tahtalık başlangıç paketlerinden 100+ tahtalık amiral programlarına kadar. Marka özelleştirmesi, personel eğitimi ve yedek parçalar dahildir.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Bozulmamış bir plajda SUP keyfi yapan tatil köyü misafirleri\n',
+    find: 'hero:\n  tagline: Tatil Köyleri ve Oteller\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Bozulmamış bir plajda SUP keyfi yapan tatil köyü misafirleri\n',
+    rep: 'hero:\n  tagline: Tatil Köyleri ve Oteller\n  title: Su kenarınızı bir gelir merkezine dönüştürün<br />premium SUP filolarıyla\n  subtitle: OLagoon, dünyadaki tatil köylerini ticari kalitede şişme SUP filolarıyla donatır — 20 tahtalık başlangıç paketlerinden 100+ tahtalık amiral programlarına kadar. Marka özelleştirmesi, personel eğitimi ve yedek parçalar dahildir.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Bozulmamış bir plajda SUP keyfi yapan tatil köyü misafirleri\n',
     n: 1,
   },
   {
@@ -241,8 +241,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/ar/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: المنتجعات والفنادق\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: ضيوف منتجع يستمتعون بركوب SUP على شاطئ بكر\n',
-    rep: 'hero:\n  tagline: المنتجعات والفنادق\n  title: حوّل واجهتك البحرية إلى مصدر دخل<br />بأساطيل SUP فاخرة\n  subtitle: تجهّز afarer المنتجعات حول العالم بأساطيل SUP قابلة للنفخ بجودة تجارية — من حزم البدء بواقع 20 لوحًا إلى البرامج الرئيسية بواقع 100+ لوح. تشمل هوية العلامة المخصصة وتدريب الموظفين وقطع الغيار.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: ضيوف منتجع يستمتعون بركوب SUP على شاطئ بكر\n',
+    find: 'hero:\n  tagline: المنتجعات والفنادق\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: ضيوف منتجع يستمتعون بركوب SUP على شاطئ بكر\n',
+    rep: 'hero:\n  tagline: المنتجعات والفنادق\n  title: حوّل واجهتك البحرية إلى مصدر دخل<br />بأساطيل SUP فاخرة\n  subtitle: تجهّز olagoon المنتجعات حول العالم بأساطيل SUP قابلة للنفخ بجودة تجارية — من حزم البدء بواقع 20 لوحًا إلى البرامج الرئيسية بواقع 100+ لوح. تشمل هوية العلامة المخصصة وتدريب الموظفين وقطع الغيار.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: ضيوف منتجع يستمتعون بركوب SUP على شاطئ بكر\n',
     n: 1,
   },
   {
@@ -259,8 +259,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/el/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Θέρετρα & Ξενοδοχεία\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Επισκέπτες εστίας που απολαμβάνουν SUP boarding σε μια ακατάμαχτη παραλία\n',
-    rep: 'hero:\n  tagline: Θέρετρα & Ξενοδοχεία\n  title: Μετατρέψτε την παραθαλάσσια περιοχή σας σε κέντρο εσόδων<br />με premium στόλους SUP\n  subtitle: Η Afarer εξοπλίζει θέρετρα σε όλο τον κόσμο με φουσκωτούς στόλους SUP εμπορικής ποιότητας — από πακέτα εκκίνησης 20 πινάκων έως flagship προγράμματα με 100+ πίνακες. Προσαρμοσμένη ταυτότητα μάρκας, εκπαίδευση προσωπικού και ανταλλακτικά περιλαμβάνονται.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Επισκέπτες εστίας που απολαμβάνουν SUP boarding σε μια ακατάμαχτη παραλία\n',
+    find: 'hero:\n  tagline: Θέρετρα & Ξενοδοχεία\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Επισκέπτες εστίας που απολαμβάνουν SUP boarding σε μια ακατάμαχτη παραλία\n',
+    rep: 'hero:\n  tagline: Θέρετρα & Ξενοδοχεία\n  title: Μετατρέψτε την παραθαλάσσια περιοχή σας σε κέντρο εσόδων<br />με premium στόλους SUP\n  subtitle: Η OLagoon εξοπλίζει θέρετρα σε όλο τον κόσμο με φουσκωτούς στόλους SUP εμπορικής ποιότητας — από πακέτα εκκίνησης 20 πινάκων έως flagship προγράμματα με 100+ πίνακες. Προσαρμοσμένη ταυτότητα μάρκας, εκπαίδευση προσωπικού και ανταλλακτικά περιλαμβάνονται.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Επισκέπτες εστίας που απολαμβάνουν SUP boarding σε μια ακατάμαχτη παραλία\n',
     n: 1,
   },
   {
@@ -277,8 +277,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/ro/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: Stațiuni și hoteluri\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Oaspeți ai unui resort care se bucură de plăci SUP pe o plajă curată\n',
-    rep: 'hero:\n  tagline: Stațiuni și hoteluri\n  title: Transformați zona de pe malul apei într-un centru de venituri<br />cu flote SUP premium\n  subtitle: Afarer echipează resorturile din întreaga lume cu flote SUP gonflabile de calitate comercială — de la pachete de start cu 20 de table la programe flagship cu 100+ de table. Personalizare a mărcii, instruirea personalului și piesele de schimb incluse.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: Oaspeți ai unui resort care se bucură de plăci SUP pe o plajă curată\n',
+    find: 'hero:\n  tagline: Stațiuni și hoteluri\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Oaspeți ai unui resort care se bucură de plăci SUP pe o plajă curată\n',
+    rep: 'hero:\n  tagline: Stațiuni și hoteluri\n  title: Transformați zona de pe malul apei într-un centru de venituri<br />cu flote SUP premium\n  subtitle: OLagoon echipează resorturile din întreaga lume cu flote SUP gonflabile de calitate comercială — de la pachete de start cu 20 de table la programe flagship cu 100+ de table. Personalizare a mărcii, instruirea personalului și piesele de schimb incluse.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: Oaspeți ai unui resort care se bucură de plăci SUP pe o plajă curată\n',
     n: 1,
   },
   {
@@ -295,8 +295,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/ja/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: リゾート＆ホテル\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: 清廉なビーチでSUPボードを楽しむリゾートゲスト\n',
-    rep: 'hero:\n  tagline: リゾート＆ホテル\n  title: ウォーターフロントを収益センターに変えましょう<br />プレミアムSUPフリートで\n  subtitle: afarerは世界中のリゾートに商業グレードの空気注入式SUPフリートを供給します ― 20台のスターターパッケージから100台以上のフラッグシッププログラムまで。オリジナルブランド刻印、スタッフトレーニング、交換パーツが含まれます。\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: 清廉なビーチでSUPボードを楽しむリゾートゲスト\n',
+    find: 'hero:\n  tagline: リゾート＆ホテル\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: 清廉なビーチでSUPボードを楽しむリゾートゲスト\n',
+    rep: 'hero:\n  tagline: リゾート＆ホテル\n  title: ウォーターフロントを収益センターに変えましょう<br />プレミアムSUPフリートで\n  subtitle: olagoonは世界中のリゾートに商業グレードの空気注入式SUPフリートを供給します ― 20台のスターターパッケージから100台以上のフラッグシッププログラムまで。オリジナルブランド刻印、スタッフトレーニング、交換パーツが含まれます。\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: 清廉なビーチでSUPボードを楽しむリゾートゲスト\n',
     n: 1,
   },
   {
@@ -313,8 +313,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/ko/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: 리조트 및 호텔\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: 깨끗한 해변에서 SUP를 즐기는 리조트 투숙객\n',
-    rep: 'hero:\n  tagline: 리조트 및 호텔\n  title: 워터프론트를 수익 센터로 바꾸세요<br />프리미엄 SUP 플릿으로\n  subtitle: afarer는 전 세계 리조트에 상업용 급 공기주입식 SUP 플릿을 공급합니다 — 20대 규모의 스타터 패키지부터 100대 이상의 플래그십 프로그램까지. 맞춤 브랜딩, 직원 교육, 교체 부품이 포함됩니다.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: 깨끗한 해변에서 SUP를 즐기는 리조트 투숙객\n',
+    find: 'hero:\n  tagline: 리조트 및 호텔\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: 깨끗한 해변에서 SUP를 즐기는 리조트 투숙객\n',
+    rep: 'hero:\n  tagline: 리조트 및 호텔\n  title: 워터프론트를 수익 센터로 바꾸세요<br />프리미엄 SUP 플릿으로\n  subtitle: olagoon는 전 세계 리조트에 상업용 급 공기주입식 SUP 플릿을 공급합니다 — 20대 규모의 스타터 패키지부터 100대 이상의 플래그십 프로그램까지. 맞춤 브랜딩, 직원 교육, 교체 부품이 포함됩니다.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: 깨끗한 해변에서 SUP를 즐기는 리조트 투숙객\n',
     n: 1,
   },
   {
@@ -331,8 +331,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/th/solutions-resorts-hotels.yaml',
-    find: 'hero:\n  tagline: รีสอร์ทและโรงแรม\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: แขกของรีสอร์ทกำลังเพลิดเพลินกับการพาย SUP บนชายหาดที่บริสุทธิ์\n',
-    rep: 'hero:\n  tagline: รีสอร์ทและโรงแรม\n  title: เปลี่ยนพื้นที่ริมน้ำของคุณให้เป็นศูนย์รายได้<br />ด้วยกองเรือ SUP ระดับพรีเมียม\n  subtitle: afarer ส่งมอบกองเรือ SUP แบบสูบลมระดับเชิงพาณิชย์ให้รีสอร์ททั่วโลก — ตั้งแต่แพ็กเกจเริ่มต้น 20 บอร์ด ไปจนถึงโปรแกรมแฟลกชิป 100+ บอร์ด รวมการปั๊มแบรนด์ของคุณเอง การฝึกอบรมพนักงาน และอะไหล่ทดแทน\n  image:\n    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp\n    alt: แขกของรีสอร์ทกำลังเพลิดเพลินกับการพาย SUP บนชายหาดที่บริสุทธิ์\n',
+    find: 'hero:\n  tagline: รีสอร์ทและโรงแรม\n  title: Create Premium Water Experiences<br />For Your Guests\n  subtitle: Complete SUP fleet solutions for resorts, hotels, and waterfront destinations worldwide. One partner. One invoice. Zero hassle.\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: แขกของรีสอร์ทกำลังเพลิดเพลินกับการพาย SUP บนชายหาดที่บริสุทธิ์\n',
+    rep: 'hero:\n  tagline: รีสอร์ทและโรงแรม\n  title: เปลี่ยนพื้นที่ริมน้ำของคุณให้เป็นศูนย์รายได้<br />ด้วยกองเรือ SUP ระดับพรีเมียม\n  subtitle: olagoon ส่งมอบกองเรือ SUP แบบสูบลมระดับเชิงพาณิชย์ให้รีสอร์ททั่วโลก — ตั้งแต่แพ็กเกจเริ่มต้น 20 บอร์ด ไปจนถึงโปรแกรมแฟลกชิป 100+ บอร์ด รวมการปั๊มแบรนด์ของคุณเอง การฝึกอบรมพนักงาน และอะไหล่ทดแทน\n  image:\n    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp\n    alt: แขกของรีสอร์ทกำลังเพลิดเพลินกับการพาย SUP บนชายหาดที่บริสุทธิ์\n',
     n: 1,
   },
   {

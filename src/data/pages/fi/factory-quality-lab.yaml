@@ -1,6 +1,6 @@
 meta:
   title: 'Laatulaboratorio — testaus ja laadunvarmistus | {SITE}'
-  description: 'Riippumaton laatulaboratorio ISO 9001 -prosesseilla afarerilla: jokainen yksikkö testataan ennen toimitusta täytettävien SUP-lautojen laadun takaamiseksi.'
+  description: 'Riippumaton laatulaboratorio ISO 9001 -prosesseilla olagoonilla: jokainen yksikkö testataan ennen toimitusta täytettävien SUP-lautojen laadun takaamiseksi.'
   keywords:
     - 'SUP-laadunvalvonta'
     - 'paddle board -testauslaboratorio'
@@ -10,7 +10,7 @@ hero:
   tagline: Laadunvalvontalaboratorio
   title: Testauslaboratorio ja laadintatarkastus
   subtitle: Riippumaton laadunvarmistuslaboratorio ISO 9001-prosesseilla — joka yksikkö testataan ennen lähettämistä
-intro: afarerilla on oma laadunvalvontalaboratorio, joka toimii itsenäisesti tuotannosta. Jokainen raaka-aine-erä ja jokainen valmis lauta kulkee dokumentoituja tarkastusprotokollia ennen vapauttamista. QC-tiimi raportoi suoraan johdolle, mikä varmistaa puolueettomat laadulliset päätökset.
+intro: olagoonilla on oma laadunvalvontalaboratorio, joka toimii itsenäisesti tuotannosta. Jokainen raaka-aine-erä ja jokainen valmis lauta kulkee dokumentoituja tarkastusprotokollia ennen vapauttamista. QC-tiimi raportoi suoraan johdolle, mikä varmistaa puolueettomat laadulliset päätökset.
 highlights:
   - value: 100%
     label: Yksiköt painekokeilla

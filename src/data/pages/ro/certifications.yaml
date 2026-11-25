@@ -1,6 +1,6 @@
 meta:
   title: 'Certificări — CE, ISO 9001 și conformitate | {SITE}'
-  description: 'Certificările de calitate afarer: CE (EN ISO 25649), ISO 9001:2015, BSCI. Conformitate și siguranță pentru un producător de plăci de SUP gonflabile.'
+  description: 'Certificările de calitate olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Conformitate și siguranță pentru un producător de plăci de SUP gonflabile.'
   keywords:
     - 'certificare CE paddle board'
     - 'ISO 9001 paddle board'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Certificări & Standarde
   title: Certificări de calitate<br />și standarde de conformitate
-  subtitle: Produsele afarer sunt fabricate în conformitate cu standardele internaționale de siguranță marină, sistemele de management al calității și reglementările de mediu.
+  subtitle: Produsele olagoon sunt fabricate în conformitate cu standardele internaționale de siguranță marină, sistemele de management al calității și reglementările de mediu.
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: Certificările de calitate afarer și documentația de conformitate
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: Certificările de calitate olagoon și documentația de conformitate
 content_certifications:
   tagline: Certificările noastre
   title: Calitate certificată,<br />recunoscută global
-  subtitle: Fiecare produs afarer este susținut de certificări care demonstrează angajamentul nostru față de calitate, siguranță și responsabilitate față de mediu.
+  subtitle: Fiecare produs olagoon este susținut de certificări care demonstrează angajamentul nostru față de calitate, siguranță și responsabilitate față de mediu.
   items:
     - title: Certificat CE
-      description: Toate produsele afarer respectă cerințele europene de marcare CE pentru echipamentele acvatice de agrement, asigurând îndeplinirea standardelor de siguranță, sănătate și protecție a mediului.
+      description: Toate produsele olagoon respectă cerințele europene de marcare CE pentru echipamentele acvatice de agrement, asigurând îndeplinirea standardelor de siguranță, sănătate și protecție a mediului.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Sistemul nostru de management al calității este certificat ISO 9001:2015, acoperind proiectarea, fabricarea și distribuția plăcilor gonflabile și a echipamentelor marine.
@@ -28,10 +28,10 @@ content_certifications:
       description: Produsele vândute pe piața din Marea Britanie poartă marcajul UKCA, confirmând conformitatea cu reglementările britanice pentru echipamente marine și echipamente acvatice personale.
       icon: tabler:shield
     - title: Conform BSCI
-      description: afarer este auditat BSCI (Business Social Compliance Initiative), demonstrând practici etice de fabricație, condiții de muncă echitabile și responsabilitate în lanțul de aprovizionare.
+      description: olagoon este auditat BSCI (Business Social Compliance Initiative), demonstrând practici etice de fabricație, condiții de muncă echitabile și responsabilitate în lanțul de aprovizionare.
       icon: tabler:heart-handshake
     - title: Conform REACH
-      description: Toate materialele utilizate în produsele afarer respectă reglementările UE REACH privind siguranța chimică, asigurând că nu există substanțe restricționate în PVC, EVA sau componentele noastre.
+      description: Toate materialele utilizate în produsele olagoon respectă reglementările UE REACH privind siguranța chimică, asigurând că nu există substanțe restricționate în PVC, EVA sau componentele noastre.
       icon: tabler:flask
     - title: Testarea materialelor
       description: Țesăturile sunt testate pentru rezistența la tracțiune, rezistența la rupere, degradarea UV și performanța la fisurare la rece. Fiecare lot de producție este eșantionat și verificat.
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Standarde de siguranță maritimă
   title: Siguranța pe primul loc<br />— proiectat pentru funcționare fiabilă
-  subtitle: Produsele afarer sunt proiectate și testate pentru a îndeplini standardele internaționale de siguranță marină pentru uz comercial și recreativ.
+  subtitle: Produsele olagoon sunt proiectate și testate pentru a îndeplini standardele internaționale de siguranță marină pentru uz comercial și recreativ.
   items:
     - title: EN ISO 25649
       description: Plăcile SUP gonflabile respectă standardele EN ISO 25649 pentru construcție, stabilitate, flotabilitate și capacitate de încărcare.

@@ -2,12 +2,12 @@
   {
     "id": "sup-learning",
     "q": "Onko SUP:n opettelu vaikeaa?",
-    "a": "Ei lainkaan. Useimmat aloittelijat onnistuvat nousemaan seisomaan ja soutamaan ensimmäisellä kerrallaan. afarerin All-Around-sarja tarjoaa erittäin vakaat, leveät alustat, jotka on suunniteltu erityisesti ensikertalaisille. Aloita rauhallisessa vedessä, niin pärjäät muutamassa minuutissa."
+    "a": "Ei lainkaan. Useimmat aloittelijat onnistuvat nousemaan seisomaan ja soutamaan ensimmäisellä kerrallaan. olagoonin All-Around-sarja tarjoaa erittäin vakaat, leveät alustat, jotka on suunniteltu erityisesti ensikertalaisille. Aloita rauhallisessa vedessä, niin pärjäät muutamassa minuutissa."
   },
   {
     "id": "ocean-use",
     "q": "Voinko käyttää lautaa merellä?",
-    "a": "Voit. afarerin SUP-laudat on valmistettu meri-, järvi- ja jokikäyttöön. Touring-sarja kestää rannikon aallokkoa, ja kaikissa laudoissa käytetään merenkulun laatuista PVC:tä, joka kestää suolaveden syövytystä. Huuhdo makealla vedellä merikäytön jälkeen."
+    "a": "Voit. olagoonin SUP-laudat on valmistettu meri-, järvi- ja jokikäyttöön. Touring-sarja kestää rannikon aallokkoa, ja kaikissa laudoissa käytetään merenkulun laatuista PVC:tä, joka kestää suolaveden syövytystä. Huuhdo makealla vedellä merikäytön jälkeen."
   },
   {
     "id": "inflation-time",
@@ -17,7 +17,7 @@
   {
     "id": "travel-sup",
     "q": "Voinko matkustaa täytettävällä SUP-laudalla?",
-    "a": "Totta kai. Jokainen afarer-lauta pakataan lentoyhtiöiden matkatavaravaatimukset täyttävään reputolkkuun. Vain 18–22 paunaa painavana se on helppo viedä rannalle, järvelle tai läpi lentokenttien."
+    "a": "Totta kai. Jokainen olagoon-lauta pakataan lentoyhtiöiden matkatavaravaatimukset täyttävään reputolkkuun. Vain 18–22 paunaa painavana se on helppo viedä rannalle, järvelle tai läpi lentokenttien."
   },
   {
     "id": "weight-limit",
@@ -27,7 +27,7 @@
   {
     "id": "box-contents",
     "q": "Mitä paketissa on?",
-    "a": "Jokainen afarer SUP sisältää laudan, matkustusrepun, kaksitoimisen käsipumpun, irrotettavan evän, kierreleashin ja korjaussarjan. Joissain malleissa on myös mahdollisuus hiilikuitumelan päivitykseen."
+    "a": "Jokainen olagoon SUP sisältää laudan, matkustusrepun, kaksitoimisen käsipumpun, irrotettavan evän, kierreleashin ja korjaussarjan. Joissain malleissa on myös mahdollisuus hiilikuitumelan päivitykseen."
   },
   {
     "id": "bundle-deals",
@@ -47,7 +47,7 @@
   {
     "id": "puncture-repair",
     "q": "Miten korjaan reiän?",
-    "a": "Puhdista alue, leikkaa paikka pyöristetyin kulmin, levitä PVC-liimaa, paina lujasti ja odota 24 tuntia ennen täyttöä. afarer-laudat toimitetaan korjaussarjan kanssa. Yksityiskohtaiset ohjeet löydät täytettävien lautien korjausoppaastamme."
+    "a": "Puhdista alue, leikkaa paikka pyöristetyin kulmin, levitä PVC-liimaa, paina lujasti ja odota 24 tuntia ennen täyttöä. olagoon-laudat toimitetaan korjaussarjan kanssa. Yksityiskohtaiset ohjeet löydät täytettävien lautien korjausoppaastamme."
   },
   {
     "id": "storage",
@@ -66,8 +66,8 @@
   },
   {
     "id": "warranty",
-    "q": "Mikä on afarerin takuu?",
-    "a": "Kaikki afarer-tuotteet kuuluvat kattavan valmistajan takuun piiriin. SUP-laudat on katettu 2+ vuodeksi valmistusvirheiltä. Takuu kattaa materiaali- ja valmistusvirheet normaalissa käytössä."
+    "q": "Mikä on olagoonin takuu?",
+    "a": "Kaikki olagoon-tuotteet kuuluvat kattavan valmistajan takuun piiriin. SUP-laudat on katettu 2+ vuodeksi valmistusvirheiltä. Takuu kattaa materiaali- ja valmistusvirheet normaalissa käytössä."
   },
   {
     "id": "warranty-claim",
@@ -97,12 +97,12 @@
   {
     "id": "material-difference",
     "q": "Mikä on PVC:n ja Hypalonin ero?",
-    "a": "PVC on kevyttä, edullista ja helppo korjata mukana toimitettavalla korjaussarjalla. UV-kestävällä pinnoitteella varustettu sotilasluokan PVC tarjoaa parhaan kestävyys- ja painotasapainon virkistyskäyttöön. afarer käyttää kolmikerroksista pinnoitettua PVC:tä kaikissa tuotekategorioissa."
+    "a": "PVC on kevyttä, edullista ja helppo korjata mukana toimitettavalla korjaussarjalla. UV-kestävällä pinnoitteella varustettu sotilasluokan PVC tarjoaa parhaan kestävyys- ja painotasapainon virkistyskäyttöön. olagoon käyttää kolmikerroksista pinnoitettua PVC:tä kaikissa tuotekategorioissa."
   },
   {
     "id": "sup-width-stability",
     "q": "Mikä SUP-laudan leveys on paras vakauteen?",
-    "a": "Aloittelijoille 33–34 tuuman leveys tarjoaa parhaan yhdistelmän vakautta ja melomisen helppoutta. Alle 32 tuuman leveät laudat voivat tuntua epävakaalta uusilta melojilta. 33 tuuman leveä afarer SUP Explorer 11 on ihanteellinen opetteluun."
+    "a": "Aloittelijoille 33–34 tuuman leveys tarjoaa parhaan yhdistelmän vakautta ja melomisen helppoutta. Alle 32 tuuman leveät laudat voivat tuntua epävakaalta uusilta melojilta. 33 tuuman leveä olagoon SUP Explorer 11 on ihanteellinen opetteluun."
   },
   {
     "id": "sup-volume-weight",
@@ -110,14 +110,14 @@
     "a": "Kerro painosi kiloina luvulla 2,2 saadaksesi aloittelijaystävällisen tavoitetilavuuden. Esimerkiksi 75 kg:n meloja tarvitsee vähintään 165 litraa, mutta 220–260 litraa on paljon vakaampaa opettelussa. SUP Explorer 11 tarjoaa 260 litraa ja sopii jopa 100 kg:n ajajille."
   },
   {
-    "id": "afarer-vs-others",
-    "q": "Miten afarer vertautuu muihin merkkeihin?",
-    "a": "afarer tarjoaa parhaan vastineen täytettävien vesilajien varusteiden markkinassa. Red Paddle Co:hon verrattuna afarer tarjoaa 90 % suorituskyvystä 60 % hinnalla. iRockeriin verrattuna afarer käyttää laadukkaampaa kolmikerroksista sotilasluokan PVC:tä ja korkeampia PSI-arvoja. Bluefiniin verrattuna afarer tarjoaa paremmat materiaalispesifikaatiot. Useimmille virkistysmelojille afarer tarjoaa parhaan laatu-hinta-suhteen."
+    "id": "olagoon-vs-others",
+    "q": "Miten olagoon vertautuu muihin merkkeihin?",
+    "a": "olagoon tarjoaa parhaan vastineen täytettävien vesilajien varusteiden markkinassa. Red Paddle Co:hon verrattuna olagoon tarjoaa 90 % suorituskyvystä 60 % hinnalla. iRockeriin verrattuna olagoon käyttää laadukkaampaa kolmikerroksista sotilasluokan PVC:tä ja korkeampia PSI-arvoja. Bluefiniin verrattuna olagoon tarjoaa paremmat materiaalispesifikaatiot. Useimmille virkistysmelojille olagoon tarjoaa parhaan laatu-hinta-suhteen."
   },
   {
     "id": "fishing-sup-setup",
     "q": "Voinko kalastaa SUP-laudalta?",
-    "a": "Voit. SUP-kalastus on yhä suositumpaa, koska seisoma-asento antaa erinomaisen näkyvyyden veteen. Valitse vähintään 11 jalkaa pitkä ja 33–34 tuumaa leveä lauta vakauden takia. Kiinnitä vavatelineillä varustettu laatikko kannen elastisiin kiinnitysnauhoihin, lisää pieni ankkuri ja pidä aina pelastusliivit yllä. afarer SUP Explorer 11 sopii hyvin rentoon kalastukseen."
+    "a": "Voit. SUP-kalastus on yhä suositumpaa, koska seisoma-asento antaa erinomaisen näkyvyyden veteen. Valitse vähintään 11 jalkaa pitkä ja 33–34 tuumaa leveä lauta vakauden takia. Kiinnitä vavatelineillä varustettu laatikko kannen elastisiin kiinnitysnauhoihin, lisää pieni ankkuri ja pidä aina pelastusliivit yllä. olagoon SUP Explorer 11 sopii hyvin rentoon kalastukseen."
   },
   {
     "id": "sup-yoga",
@@ -127,7 +127,7 @@
   {
     "id": "airline-travel-sup",
     "q": "Mitä sääntöjä lentoyhtiöillä on täytettävän SUP-laudan matkustamisesta?",
-    "a": "Useimmat lentoyhtiöt hyväksyvät SUP-reput ylikokoisina matkatavaroina, jos ne ovat alle 23–32 kg. afarerin repun mitat ovat noin 90x40x30 cm ja paino noin 15 kg pakattuna. Jotkin lentoyhtiöt voivat periä lisämaksun suurista matkatavaroista. Saavu ajoissa, pakkaa evä ja pumppu erikseen käsimatkatavaroihin ja merkitse repku särkyväksi. Tutki aina lentoyhtiösi urheiluvälinesäännöt ennen lentoa."
+    "a": "Useimmat lentoyhtiöt hyväksyvät SUP-reput ylikokoisina matkatavaroina, jos ne ovat alle 23–32 kg. olagoonin repun mitat ovat noin 90x40x30 cm ja paino noin 15 kg pakattuna. Jotkin lentoyhtiöt voivat periä lisämaksun suurista matkatavaroista. Saavu ajoissa, pakkaa evä ja pumppu erikseen käsimatkatavaroihin ja merkitse repku särkyväksi. Tutki aina lentoyhtiösi urheiluvälinesäännöt ennen lentoa."
   },
   {
     "id": "cold-weather-safety",
@@ -141,13 +141,13 @@
   },
   {
     "id": "oem-custom-branding",
-    "q": "Voinko saada oman logoni afarer-tuotteisiin?",
+    "q": "Voinko saada oman logoni olagoon-tuotteisiin?",
     "a": "Voit. OEM-palvelumme sisältää räätälöidyn logon sijoittelun, räätälöidyt väriskaalat ja räätälöidyn pakkauksen. Tarjoamme pad-silkkipaino-, lämmönsiirto- ja brodeerivaihtoehtoja tuotetyypistä riippuen. Lähetä grafiikkatiedostosi ja erittelysi myyntitiimillemme tarjousta ja toimitusaika-arviota varten."
   },
   {
     "id": "sup-inflate-pressure",
     "q": "Moneen PSI:n minun pitäisi täyttää SUP-lautani?",
-    "a": "Täytä laudan nimelliseen enimmäis-PSI:in parhaan suorituskyvyn saamiseksi — tyypillisesti 15–18 PSI laadukkaille täytettäville SUP-lautoille. afarer SUP Explorer 11 toimii parhaiten 15–18 PSI:ssa. Riittämätön täyttö tekee laudasta pehmeän ja epävakaan kulkea. Ylitäyttö enimmäisarvon yli voi vahingoittaa drop-stitch-kuituja. Tarkista venttiilin lähellä olevasta tarrasta lautasi arvo."
+    "a": "Täytä laudan nimelliseen enimmäis-PSI:in parhaan suorituskyvyn saamiseksi — tyypillisesti 15–18 PSI laadukkaille täytettäville SUP-lautoille. olagoon SUP Explorer 11 toimii parhaiten 15–18 PSI:ssa. Riittämätön täyttö tekee laudasta pehmeän ja epävakaan kulkea. Ylitäyttö enimmäisarvon yli voi vahingoittaa drop-stitch-kuituja. Tarkista venttiilin lähellä olevasta tarrasta lautasi arvo."
   },
   {
     "id": "sup-deck-pad-care",
@@ -157,7 +157,7 @@
   {
     "id": "sup-seated-paddling",
     "q": "Voinko soutaa SUP-lautaa istuen?",
-    "a": "Voit. Monissa SUP-lautoissa, afarer Explorer 11 mukaan lukien, on D-renkaat istuimen kiinnittämiseen. Istuva melominen tarjoaa mukavan vaihtoehdon pidemmillä matkoilla, kalastuksessa tai kun haluat vaihtaa asentoa vedessä."
+    "a": "Voit. Monissa SUP-lautoissa, olagoon Explorer 11 mukaan lukien, on D-renkaat istuimen kiinnittämiseen. Istuva melominen tarjoaa mukavan vaihtoehdon pidemmillä matkoilla, kalastuksessa tai kun haluat vaihtaa asentoa vedessä."
   },
   {
     "id": "saltwater-rinse",
@@ -172,27 +172,27 @@
   {
     "id": "drop-stitch-technology",
     "q": "Mikä drop-stitch-ytimen teknologia on ja miksi sillä on väliä?",
-    "a": "Drop-stitch-ydinteknologia käyttää tuhansia polyesterikuituja, jotka yhdistävät laudan ylä- ja alakerroksen. Kun lauta täytetään 15-20 PSI:iin, nämä kuidut luovat jäykän, vääntöä kestävän rakenteen, joka toimii kuin kovakuorinen lauta. afarer käyttää kolmikerroksista sotilasluokan PVC:tä ja drop-stitch-laminaattia kaikissa SUP-tuotekategorioissa tarjoten epoxy-lautaa vastaavan jäykkyyden säilyttäen täytettävän kannettavuuden."
+    "a": "Drop-stitch-ydinteknologia käyttää tuhansia polyesterikuituja, jotka yhdistävät laudan ylä- ja alakerroksen. Kun lauta täytetään 15-20 PSI:iin, nämä kuidut luovat jäykän, vääntöä kestävän rakenteen, joka toimii kuin kovakuorinen lauta. olagoon käyttää kolmikerroksista sotilasluokan PVC:tä ja drop-stitch-laminaattia kaikissa SUP-tuotekategorioissa tarjoten epoxy-lautaa vastaavan jäykkyyden säilyttäen täytettävän kannettavuuden."
   },
   {
     "id": "sup-inflatable-vs-rigid",
     "q": "Täytettävä vai kova SUP: kumpi sopii mihinkin käyttöön?",
-    "a": "Täytettävät SUP-laudat ovat parhaitaan kannettavuudessa, säilytyksessä ja iskunvaimennuksessa — ihanteellisia matkustamiseen, aloittelijoille ja virkistyskäyttöön. Kovat epoxy-laudat tarjoavat maksiminopeuden ja liukuvuuden kilpailuihin ja surffaukseen. 90 % melojista laadukas drop-stitch-ytimellä varustettu täytettävä (15-20 PSI) antaa riittävän jäykkyyden retkeilyyn, kuntoiluun, joogaan ja kalastukseen. afarerin täytettävät laudat vastaavat keskiluokan kovien lautien suorituskykyä ja pakkaantuvat reppuun."
+    "a": "Täytettävät SUP-laudat ovat parhaitaan kannettavuudessa, säilytyksessä ja iskunvaimennuksessa — ihanteellisia matkustamiseen, aloittelijoille ja virkistyskäyttöön. Kovat epoxy-laudat tarjoavat maksiminopeuden ja liukuvuuden kilpailuihin ja surffaukseen. 90 % melojista laadukas drop-stitch-ytimellä varustettu täytettävä (15-20 PSI) antaa riittävän jäykkyyden retkeilyyn, kuntoiluun, joogaan ja kalastukseen. olagoonin täytettävät laudat vastaavat keskiluokan kovien lautien suorituskykyä ja pakkaantuvat reppuun."
   },
   {
     "id": "pvc-vs-hypalon-boats",
     "q": "PVC- vai Hypalon-täytettävät veneet: kumpi materiaali on parempi?",
-    "a": "PVC on kevyempää, edullisempaa ja helpommin korjattavaa, ja sotilasluokan koostumuksina se vastustaa UV-hajoamista. Hypalon (CSM) tarjoaa paremman kemiallisen ja hankauskestävyyden kaupalliseen ja sotilaskäyttöön, mutta on raskaampaa, kalliimpaa ja vaikeammin korjattavaa. Virkistyskäyttäjille afarerin kolmikerroksinen, UV-kestävällä pinnoitteella varustettu sotilasluokan PVC tarjoaa parhaan painon, kestävyyden ja hinnan tasapainon. Ammatti- ja kaupalliskäyttäjille, jotka vaativat maksimikestävyyttä, suositellaan Hypalonia."
+    "a": "PVC on kevyempää, edullisempaa ja helpommin korjattavaa, ja sotilasluokan koostumuksina se vastustaa UV-hajoamista. Hypalon (CSM) tarjoaa paremman kemiallisen ja hankauskestävyyden kaupalliseen ja sotilaskäyttöön, mutta on raskaampaa, kalliimpaa ja vaikeammin korjattavaa. Virkistyskäyttäjille olagoonin kolmikerroksinen, UV-kestävällä pinnoitteella varustettu sotilasluokan PVC tarjoaa parhaan painon, kestävyyden ja hinnan tasapainon. Ammatti- ja kaupalliskäyttäjille, jotka vaativat maksimikestävyyttä, suositellaan Hypalonia."
   },
   {
     "id": "sup-skill-progression",
     "q": "Mikä on tyypillinen SUP-taitojen eteneminen aloittelijasta edistyneeksi?",
-    "a": "Aloittelija (kerta 1-3): seisoma-asento, perus etumelaveto, käännökset, turvallinen putoaminen. Keskiverto (kerta 5-15): tehokas melatekniikka, kääntömelonta, aallokossa melominen, peruspelastustaidot. Edistynyt (20+ kertaa): kilpailulähdöt, poijukäännökset, pienessä aallokossa surffaaminen, myötätuulimelonta. Ammattilainen: kilpailutoiminta, SUP-surffaus, pitkien matkojen retkeily. afarer-laudat tukevat jokaista vaihetta: Explorer 11 aloittelijoille, Ocean Voyager retkeilyyn ja Cheetah Surge suorituskykymelontaan."
+    "a": "Aloittelija (kerta 1-3): seisoma-asento, perus etumelaveto, käännökset, turvallinen putoaminen. Keskiverto (kerta 5-15): tehokas melatekniikka, kääntömelonta, aallokossa melominen, peruspelastustaidot. Edistynyt (20+ kertaa): kilpailulähdöt, poijukäännökset, pienessä aallokossa surffaaminen, myötätuulimelonta. Ammattilainen: kilpailutoiminta, SUP-surffaus, pitkien matkojen retkeily. olagoon-laudat tukevat jokaista vaihetta: Explorer 11 aloittelijoille, Ocean Voyager retkeilyyn ja Cheetah Surge suorituskykymelontaan."
   },
   {
     "id": "sup-weight-capacity",
     "q": "Kuinka paljon painoa täytettävä SUP-lauta kestää?",
-    "a": "Painokapasiteetti vaihtelee tilavuuden mukaan. afarer-laudat: SUP Explorer 11 (260L, jopa 100 kg / 220 paunaa), Ocean Voyager 12 (310L, jopa 140 kg / 308 paunaa), Leviathan Wake (350L, jopa 180 kg / 396 paunaa). Parhaan suorituskyvyn saamiseksi pidä kokonaiskuorma (ajaja + varusteet) enintään 80 % maksimikapasiteetista. Lauta kelluu korkeammalla ja pitää kurssia paremmin, kun sitä ei ylikuormiteta, erityisesti aallokossa."
+    "a": "Painokapasiteetti vaihtelee tilavuuden mukaan. olagoon-laudat: SUP Explorer 11 (260L, jopa 100 kg / 220 paunaa), Ocean Voyager 12 (310L, jopa 140 kg / 308 paunaa), Leviathan Wake (350L, jopa 180 kg / 396 paunaa). Parhaan suorituskyvyn saamiseksi pidä kokonaiskuorma (ajaja + varusteet) enintään 80 % maksimikapasiteetista. Lauta kelluu korkeammalla ja pitää kurssia paremmin, kun sitä ei ylikuormiteta, erityisesti aallokossa."
   },
   {
     "id": "sup-oem-process",
@@ -202,17 +202,17 @@
   {
     "id": "sup-inflatable-durability",
     "q": "Kauan täytettävät SUP-laudat kestävät asianmukaisella hoidolla?",
-    "a": "Asianmukaisella hoidolla laadukas täytettävä SUP-lauta kestää 5-10 vuotta normaalia virkistyskäyttöä. Kolmikerroksinen, UV-kestävä sotilasluokan PVC — kuten kaikissa afarer-lautoissa — vastustaa aurinkovaurioita, suolasyövytystä ja kulumista. Keskeiset pitkäikäisyystekijät: huuhdo makealla vedellä jokaisen käytön jälkeen, kuivaa täysin ennen säilytystä, pidä poissa suorasta auringosta käytön ulkopuolella, säilytä osittain täytettynä viileässä kuivassa paikassa ja vältä raahaamista karkeilla pinnoilla. Drop-stitch-kuidut ja saumat ovat yleensä ensimmäinen vikakohta, ei PVC-kangas."
+    "a": "Asianmukaisella hoidolla laadukas täytettävä SUP-lauta kestää 5-10 vuotta normaalia virkistyskäyttöä. Kolmikerroksinen, UV-kestävä sotilasluokan PVC — kuten kaikissa olagoon-lautoissa — vastustaa aurinkovaurioita, suolasyövytystä ja kulumista. Keskeiset pitkäikäisyystekijät: huuhdo makealla vedellä jokaisen käytön jälkeen, kuivaa täysin ennen säilytystä, pidä poissa suorasta auringosta käytön ulkopuolella, säilytä osittain täytettynä viileässä kuivassa paikassa ja vältä raahaamista karkeilla pinnoilla. Drop-stitch-kuidut ja saumat ovat yleensä ensimmäinen vikakohta, ei PVC-kangas."
   },
   {
     "id": "sup-choppy-water",
     "q": "Miten melon SUP:lla aallokossa tai tuulessa?",
-    "a": "Aallokossa: taivuta polvia, pidä leveämpi asento, lyhennä melavetoja ja aktivoi keskivartalosi tasapainoon. Vastatuulessa: käytä matalampaa melakulmaa, ota lyhyempiä vetoja ja kallistu eteenpäin. Sivutuulessa: melo tuulen tulosuunnan puolelta korjataksesi ajautumista. Myötätuulessa: surffaa aalloista nopeutta. Aloittelijoiden tulisi välttää yli 10 mph:n tuulia ja valita leveämpiä, pidempiä lautoja vakauteen. afarerin retkeily-SUP Ocean Voyager on suunniteltu kestämään kohtalaista aallokkoa ja tuulta."
+    "a": "Aallokossa: taivuta polvia, pidä leveämpi asento, lyhennä melavetoja ja aktivoi keskivartalosi tasapainoon. Vastatuulessa: käytä matalampaa melakulmaa, ota lyhyempiä vetoja ja kallistu eteenpäin. Sivutuulessa: melo tuulen tulosuunnan puolelta korjataksesi ajautumista. Myötätuulessa: surffaa aalloista nopeutta. Aloittelijoiden tulisi välttää yli 10 mph:n tuulia ja valita leveämpiä, pidempiä lautoja vakauteen. olagoonin retkeily-SUP Ocean Voyager on suunniteltu kestämään kohtalaista aallokkoa ja tuulta."
   },
   {
     "id": "sup-sustainability",
     "q": "Ovatko täytettävät SUP-laudat ympäristöystävällisiä?",
-    "a": "Täytettävien SUP-lautojen ympäristövaikutus on pienempi kuin kovien lautien monella tavalla: ne kuluttavat vähemmän raaka-aineita valmistuksessa, kevyempi paino pienentää kuljetuspäästöjä ja niiden kestävyys tarkoittaa vähemmän vaihdoksia ajan myötä. afarer-lautojen PVC on lyijytöntä ja REACH-yhteensopivaa. Keskeiset kestävät käytännöt: osta laadukas lauta, joka kestää 5-10 vuotta, korjaa reiät vaihtamisen sijaan, kierrätä lauta elinkaaren lopussa erikoistuneiden PVC-kierrätysohjelmien kautta ja vältä kertakäyttöpakkauksia valitsemalla merkit, jotka käyttävät uudelleenkäytettäviä kuljetuspusseja."
+    "a": "Täytettävien SUP-lautojen ympäristövaikutus on pienempi kuin kovien lautien monella tavalla: ne kuluttavat vähemmän raaka-aineita valmistuksessa, kevyempi paino pienentää kuljetuspäästöjä ja niiden kestävyys tarkoittaa vähemmän vaihdoksia ajan myötä. olagoon-lautojen PVC on lyijytöntä ja REACH-yhteensopivaa. Keskeiset kestävät käytännöt: osta laadukas lauta, joka kestää 5-10 vuotta, korjaa reiät vaihtamisen sijaan, kierrätä lauta elinkaaren lopussa erikoistuneiden PVC-kierrätysohjelmien kautta ja vältä kertakäyttöpakkauksia valitsemalla merkit, jotka käyttävät uudelleenkäytettäviä kuljetuspusseja."
   },
   {
     "id": "b2b-moq",
@@ -226,8 +226,8 @@
   },
   {
     "id": "b2b-certification",
-    "q": "Mitä sertifiointeja afarerin OEM-tuotteet kantavat?",
-    "a": "Kaikki afarerin OEM/ODM-tuotteet kantavat: CE-vaatimustenmukaisuusvakuutuksen (EU-markkinat), UKCA:n (Yhdistyneen kuningaskunnan markkinat), ISO 9001:2015-laatujärjestelmän, BSCI-sosiaalisen vastuun tarkistuksen, REACH- ja RoHS-materiaalivaatimustenmukaisuuden sekä EN ISO 25649 -luokituksen täytettäville veneille. Lisäsertifioinnit pyynnöstä: US Coast Guard -vaatimustenmukaisuusasiakirjat, sotilasstandarditestit (MIL-STD-810) ja kohdemaan tuontisertifiointituki."
+    "q": "Mitä sertifiointeja olagoonin OEM-tuotteet kantavat?",
+    "a": "Kaikki olagoonin OEM/ODM-tuotteet kantavat: CE-vaatimustenmukaisuusvakuutuksen (EU-markkinat), UKCA:n (Yhdistyneen kuningaskunnan markkinat), ISO 9001:2015-laatujärjestelmän, BSCI-sosiaalisen vastuun tarkistuksen, REACH- ja RoHS-materiaalivaatimustenmukaisuuden sekä EN ISO 25649 -luokituksen täytettäville veneille. Lisäsertifioinnit pyynnöstä: US Coast Guard -vaatimustenmukaisuusasiakirjat, sotilasstandarditestit (MIL-STD-810) ja kohdemaan tuontisertifiointituki."
   },
   {
     "id": "b2b-samples",
@@ -241,7 +241,7 @@
   },
   {
     "id": "b2b-ip-protection",
-    "q": "Miten afarer suojaa immateriaalioikeuksiani ja suunnitelmiani?",
+    "q": "Miten olagoon suojaa immateriaalioikeuksiani ja suunnitelmiani?",
     "a": "IP-suojaus on keskeinen osa OEM-palveluamme. Allekirjoitamme NDA:n ennen kaikkia suunnittelukeskusteluja. Suunnittelutiedostoja hallitaan eristetyillä työasemilla pääsylokilla. Kaikki työkalut ja muotit pysyvät yksinomaisena omaisuutenasi (sinun maksaminasi). Emme koskaan käytä muottejasi tai suunnitelmiasi muiden asiakkaiden hyväksi. Muotien varastointi ja ylläpito sisältyvät aktiivisille tileille. Sopimuksen päättyessä muotit joko toimitetaan sinulle tai tuhotaan videodokumentoidusti. Kunnioitamme kaikkia tavaramerkki- ja patenttioikeuksia."
   },
   {

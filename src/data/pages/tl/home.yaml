@@ -1,6 +1,6 @@
 meta:
-  title: Mga Inflatable Paddle Board ng Afarer | Magpunta nang Mas Malayo. Mas Malakas na Paddle.
-  description: Tuklasin ang mga inflatable paddle board ng Afarer para sa all-around paddling, touring, yoga, pangingisda, at mga outdoor adventure. Hanapin ang perpektong SUP mo at tuklasin ang higit pa sa tubig.
+  title: Mga Inflatable Paddle Board ng OLagoon | Magpunta nang Mas Malayo. Mas Malakas na Paddle.
+  description: Tuklasin ang mga inflatable paddle board ng OLagoon para sa all-around paddling, touring, yoga, pangingisda, at mga outdoor adventure. Hanapin ang perpektong SUP mo at tuklasin ang higit pa sa tubig.
   keywords:
     - inflatable paddle board
     - inflatable sup
@@ -14,7 +14,7 @@ hero:
   tagline: Mga Inflatable Paddle Board
   title: Mga Inflatable Paddle Board para sa Bawat Adventure
   slogan: Magpunta nang Mas Malayo. Mas Malakas na Paddle.
-  subtitle: Tuklasin ang kalayaan ng pag-paddle kasama ang Afarer. Galugarin ang mga maingat na dinisenyong inflatable SUP para sa mga relaxing na araw sa lawa, mga coastal adventure, fitness, at lahat ng nasa pagitan.
+  subtitle: Tuklasin ang kalayaan ng pag-paddle kasama ang OLagoon. Galugarin ang mga maingat na dinisenyong inflatable SUP para sa mga relaxing na araw sa lawa, mga coastal adventure, fitness, at lahat ng nasa pagitan.
   taglineSection: Binuo para sa kumpiyansa. Dinisenyo para tumayo.
   actions:
     - variant: primary
@@ -24,16 +24,16 @@ hero:
     - text: Galugarin ang mga SUP
       href: /inflatable-sup/
       icon: tabler:waves
-    - text: Bakit Afarer
-      href: /afarer-story/
+    - text: Bakit OLagoon
+      href: /olagoon-story/
       icon: tabler:heart
   image:
     src: ~/assets/images/hero-image.webp
-    alt: Mga inflatable paddle board ng Afarer na dumadausdos sa kalmadong tubig sa pagsikat ng araw — binuo para sa bawat adventure
+    alt: Mga inflatable paddle board ng OLagoon na dumadausdos sa kalmadong tubig sa pagsikat ng araw — binuo para sa bawat adventure
 who_we_serve:
   tagline: Mag-paddle Kasama Namin
   title: Hanapin ang Daan Mo sa Tubig
-  subtitle: May kanya-kanyang ideya ng adventure ang bawat paddler. Tuklasin ang isang Afarer SUP na dinisenyo para sa paraan ng pag-paddle mo.
+  subtitle: May kanya-kanyang ideya ng adventure ang bawat paddler. Tuklasin ang isang OLagoon SUP na dinisenyo para sa paraan ng pag-paddle mo.
   items:
     - title: Mga Baguhan at Rekreyasyonal na Paddler
       keywords: inflatable sup para sa mga baguhan, all around paddle board, matatag na sup

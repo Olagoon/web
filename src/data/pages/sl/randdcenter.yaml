@@ -8,7 +8,7 @@ hero:
   subtitle: 'Usmerjeni v napredek'
 
 intro:
-  - 'Center afarer za raziskave in razvoj (R&D) je gonilna sila našega poslanstva preoblikovanja opreme za vodne športe. Ljubiteljem vodnih športov po vsem svetu omogočamo varnejše, bolj udobne in prijetnejše izdelke z neomajnim inoviranjem na področju napihljivih desk za stoječe veslanje (SUP). Naša predana ekipa inženirjev, oblikovalcev in strastnih strokovnjakov za vodne športe oblikuje prihodnost panoge in dosledno dviguje merila kakovosti, zmogljivosti in trajnosti.'
+  - 'Center olagoon za raziskave in razvoj (R&D) je gonilna sila našega poslanstva preoblikovanja opreme za vodne športe. Ljubiteljem vodnih športov po vsem svetu omogočamo varnejše, bolj udobne in prijetnejše izdelke z neomajnim inoviranjem na področju napihljivih desk za stoječe veslanje (SUP). Naša predana ekipa inženirjev, oblikovalcev in strastnih strokovnjakov za vodne športe oblikuje prihodnost panoge in dosledno dviguje merila kakovosti, zmogljivosti in trajnosti.'
   - 'Naša raziskovalno-razvojna naprava povezuje znanstvenike s področja materialov ter pomorske in proizvodne inženirje pod eno streho. Od formulacij tkanin in simulacij trupov do razvoja postopkov varjenja in preskušanj na morju v polni velikosti je vsaka stopnja razvoja izdelka podprta s podatki in potrjena s preskušanjem.'
 
 mission:
@@ -98,33 +98,33 @@ rd_services:
 vision:
   tagline: 'Naša vizija'
   title: 'Oblikovanje prihodnosti vodnih športov'
-  body: 'afarer si prizadeva voditi panogo napihljivih SUP s stalnimi inovacijami, neomajno kakovostjo in trdno zavezanostjo varnosti ter trajnosti — s čimer bogati izkušnje ljubiteljev vodnih športov po vsem svetu. Center afarer za raziskave in razvoj je kraj, kjer se strast srečuje z inovacijami in določa nova merila panogi vodnih športov.'
+  body: 'olagoon si prizadeva voditi panogo napihljivih SUP s stalnimi inovacijami, neomajno kakovostjo in trdno zavezanostjo varnosti ter trajnosti — s čimer bogati izkušnje ljubiteljev vodnih športov po vsem svetu. Center olagoon za raziskave in razvoj je kraj, kjer se strast srečuje z inovacijami in določa nova merila panogi vodnih športov.'
 
 labs_section:
   tagline: 'Laboratoriji'
   title: 'Naši laboratoriji'
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: 'Laboratorij za tkanine PVC'
       description: 'Nenehne raziskave in preskušanje tkanin iz PVC za palube glede natezne trdnosti, odpornosti proti UV, obrabe in prožnosti pri nizkih temperaturah za dolgoročno zanesljivost v morskem okolju.'
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Studio za inženiring trupov'
       description: 'Oblikovanje na podlagi CAD in analiza končnih elementov trupov iz HDPE, aluminija in steklenih vlaken. Vsak trup se digitalno simulira za porazdelitev napetosti in odpornost na udarce, preden se zgradi prvi prototip.'
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'Center za varjenje RF'
       description: 'Namenska naprava za varjenje z radiofrekvenco z natančnim nadzorom temperature in tlaka, ki ustvarja visokotrdna, zrakotesna tesnila v skladu s standardi pomorske panoge za napihljiva plovila.'
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Hidrodinamični preskusni bazen'
       description: 'Preskušanje modelov v merilu v našem lastnem preskusnem bazenu za optimizacijo oblike trupa, zmogljivosti drsenja, stabilnosti in učinkovitosti v različnih pogojih obremenitve in morja.'
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Delavnica za prototipe'
       description: 'Naprava za izdelavo prototipov v polni velikosti in njihovo opremljanje, kjer se gradijo, opremijo in preizkušajo na morju novi modeli. Vsak prototip pred odobritvijo proizvodnje opravi najmanj 20-urni preskusni program v vodi.'
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: 'Laboratorij za kakovost in pregledovanje'
       description: 'Namenski laboratorij zagotavljanja kakovosti, ki izvaja natezna preskušanja, cikle zadrževanja zraka, preskuse luščenja šivov in certifikacijo materialov, da vsaka deska, ki zapusti delavnico, ustreza našim objavljenim specifikacijam.'
       href: /randdcenter/quality-inspection-lab/

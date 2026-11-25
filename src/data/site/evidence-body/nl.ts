@@ -129,7 +129,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       "Een Fortune 500 techbedrijf wilde een watergebonden wellnessprogramma lanceren op 4 wereldwijde campussen aan het meer: 60 SUP's met bedrijfsbranding, opslagoplossingen en instructeurstraining.",
     solution:
-      "Leverden een vloot stabiele all-around SUP's met deckgraphics in bedrijfslogo. Ontwierpen weersbestendige opslagrekken op locatie. Certificeerden 12 interne instructeurs via het trainingsprogramma van afarer.",
+      "Leverden een vloot stabiele all-around SUP's met deckgraphics in bedrijfslogo. Ontwierpen weersbestendige opslagrekken op locatie. Certificeerden 12 interne instructeurs via het trainingsprogramma van olagoon.",
     result:
       'Programma gelanceerd op 4 campussen. 2,400+ personeelsdeelnames in het eerste jaar. 94% tevredenheid onder medewerkers. Opgenomen in het duurzaamheidsrapport van het bedrijf.',
     outcomeMetrics: [
@@ -381,7 +381,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: "Volledige productlijn — SUP's, boten, accessoires",
     industry: 'Distributie / Maritiem',
     challenge:
-      'Een in de GCC gevestigde distributeur wilde exclusieve rechten op de volledige Afarer-productlijn in 6 Golfstaten, met Arabische verpakking, hittebestendige materiaalspecificaties en sharia-conforme garantiebepalingen.',
+      'Een in de GCC gevestigde distributeur wilde exclusieve rechten op de volledige OLagoon-productlijn in 6 Golfstaten, met Arabische verpakking, hittebestendige materiaalspecificaties en sharia-conforme garantiebepalingen.',
     solution:
       'Sloten een exclusieve distributieovereenkomst. Ontwikkelden Arabische verpakkingen en marketingmateriaal. Valideerden materiaalspecificaties bij 50°C omgevingstemperatuur. Pasten garantiebepalingen aan op regionale regelgeving.',
     result:

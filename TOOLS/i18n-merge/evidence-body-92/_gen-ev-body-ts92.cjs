@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const dir = __dirname;
-const OUT = 'E:/github/afarer/src/data/site/evidence-body';
+const OUT = 'E:/github/olagoon/src/data/site/evidence-body';
 const NEW_LOCALES = ['nl', 'sv', 'no', 'da', 'cs', 'pl'];
 const ALL_LOCALES = ['cs', 'da', 'es', 'it', 'ja', 'ko', 'nl', 'no', 'pl', 'pt', 'ru', 'sv'];
 
@@ -16,7 +16,7 @@ for (const loc of NEW_LOCALES) {
     const d = draft[slug];
     const title = meta[slug].title;
     const client = title.slice(0, title.indexOf(' \u2014 '));
-    const product = title.slice(title.indexOf(' \u2014 ') + 3, title.length - ' | Afarer'.length);
+    const product = title.slice(title.indexOf(' \u2014 ') + 3, title.length - ' | OLagoon'.length);
     const entry = {
       client: client,
       product: product,

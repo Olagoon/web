@@ -1,6 +1,6 @@
 meta:
   title: 'Tiwala — Kalidad, mga Pamantayan at Reputasyon | {SITE}'
-  description: 'Bakit mapagkakatiwalaan ang afarer: mga sertipikasyon na CE at ISO, integradong pabrika, mga pandaigdigang reference, at warranty. Isang propesyonal na manufacturer ng inflatable SUP.'
+  description: 'Bakit mapagkakatiwalaan ang olagoon: mga sertipikasyon na CE at ISO, integradong pabrika, mga pandaigdigang reference, at warranty. Isang propesyonal na manufacturer ng inflatable SUP.'
   keywords:
     - 'pinagkakatiwalaan na sup manufacturer'
     - 'certified na pabrika ng paddle board'
@@ -8,16 +8,16 @@ meta:
     - 'certified na pabrika ng sup'
 hero:
   tagline: 'Itinayo ayon sa mga pamantayang mahalaga'
-  title: 'Pagkatiwalaan ang afarer'
+  title: 'Pagkatiwalaan ang olagoon'
   subtitle: |
     Bawat produktong ginagawa namin ay CE certified — sinusubukan para sa kaligtasan,<br />
     tibay, at pagganap. Walang shortcut. Walang eksepsiyon.
   taglineSection: 'Certified. Sinubukan. Napatunayan.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'produkto ng afarer habang sumasailalim sa quality testing'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'produkto ng olagoon habang sumasailalim sa quality testing'
 
 stats:
-  title: 'ang afarer sa mga numero'
+  title: 'ang olagoon sa mga numero'
   stats:
     - title: 'CE Certified'
       description: 'Lahat ng recreational na produkto ay tumutugon sa mga safety standard ng EU'
@@ -26,7 +26,7 @@ stats:
     - title: 'BSCI at REACH'
       description: 'Etikal na pagmamanupaktura at pagsunod sa mga pamantayan ng materyales'
     - title: '3-Taong Warranty'
-      description: 'Sa bawat produkto ng afarer — walang mga tanong'
+      description: 'Sa bawat produkto ng olagoon — walang mga tanong'
 
 features3_certifications:
   title: 'Mga Sertipikasyon at Pagsunod sa Pamantayan'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'CE Certification'
-      description: 'Lahat ng SUP ng afarer ay tumutugon sa European CE safety standard para sa recreational na paggamit. Bawat produkto ay sumasailalim sa pressure, buoyancy, at load testing bago umalis sa pabrika.'
+      description: 'Lahat ng SUP ng olagoon ay tumutugon sa European CE safety standard para sa recreational na paggamit. Bawat produkto ay sumasailalim sa pressure, buoyancy, at load testing bago umalis sa pabrika.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Ang aming 12,000 m² na pasilidad sa Qingdao ay gumagana sa ilalim ng ISO 9001 quality management system. Bawat production batch ay mababakas, naka-dokumento, at sinspeksyunan.'
@@ -50,21 +50,21 @@ features3_certifications:
       description: 'Ang aming sariling materials lab ay sinusubok ang tensile strength, UV resistance, seam integrity, at abrasion para sa bawat batch ng tela bago ang produksyon.'
       icon: 'tabler:microscope'
     - title: '3-Taong Warranty'
-      description: 'Bawat produkto ng afarer ay may kasamang tatlong taong warranty laban sa mga depekto sa pagmamanupaktura. Naninindigan kami sa aming ginagawa.'
+      description: 'Bawat produkto ng olagoon ay may kasamang tatlong taong warranty laban sa mga depekto sa pagmamanupaktura. Naninindigan kami sa aming ginagawa.'
       icon: 'tabler:shield-check'
 
 testimonials:
   tagline: 'Tiwala ng mga Customer'
   title: 'Ano ang sinasabi ng aming mga customer'
-  subtitle: 'Mula sa mga first-time paddler hanggang sa mga propesyonal na fleet operator — alamin kung bakit sila nagtitiwala sa afarer.'
+  subtitle: 'Mula sa mga first-time paddler hanggang sa mga propesyonal na fleet operator — alamin kung bakit sila nagtitiwala sa olagoon.'
   items:
-    - content: 'Binentuhan namin ang aming buong rental fleet ng mga SUP ng afarer. Dalawang season na, zero pagkabigo. Ang CE certification ay nagpa-dali sa pag-approve ng insurance.'
+    - content: 'Binentuhan namin ang aming buong rental fleet ng mga SUP ng olagoon. Dalawang season na, zero pagkabigo. Ang CE certification ay nagpa-dali sa pag-approve ng insurance.'
       name: 'Marco V.'
       title: 'Tour operator, Croatia'
     - content: 'Bilang first-time buyer, natakot ako tungkol sa kalidad. Ang ISO documentation at mga test report na ibinahagi nila ay nagbigay sa akin ng kumpletong kumpiyansa.'
       name: 'James T.'
       title: 'May-ari ng SUP Explorer 11, Canada'
-    - content: 'Nakikipagtulungan kami sa afarer para sa aming mga coastal patrol unit. Ang kanilang QC process ay pare-pareho sa bawat batch — mahalaga ang ganitong maaasahan sa mga mission-critical na operasyon.'
+    - content: 'Nakikipagtulungan kami sa olagoon para sa aming mga coastal patrol unit. Ang kanilang QC process ay pare-pareho sa bawat batch — mahalaga ang ganitong maaasahan sa mga mission-critical na operasyon.'
       name: 'Lt. Cmdr. Andres'
       title: 'Government procurement, Pilipinas'
 
@@ -115,7 +115,7 @@ warranty_section:
   subtitle: 'Naninindigan kami sa bawat produkto na may malinaw na mga tuntunin ng warranty, mabilis na pagproseso ng claim, at orihinal na replacement parts.'
   items:
     - title: '3-Taong Product Warranty'
-      desc: 'Lahat ng produkto ng afarer ay may tatlong taong warranty laban sa mga depekto sa pagmamanupaktura — pagkasira ng seam, mga depekto sa valve, at delamination ng materyales sa normal na paggamit.'
+      desc: 'Lahat ng produkto ng olagoon ay may tatlong taong warranty laban sa mga depekto sa pagmamanupaktura — pagkasira ng seam, mga depekto sa valve, at delamination ng materyales sa normal na paggamit.'
     - title: 'Lifetime Parts Support'
       desc: 'Mga orihinal na replacement parts — mga valve, repair kit, fin, D-ring — ay available para sa lahat ng modelo. Pinapanatili namin ang mga mould at tooling nang hindi bababa sa 5 taon pagkatapos ng katapusan ng produksyon.'
     - title: '48-Oras na Tugon sa Claim'
@@ -148,35 +148,35 @@ faqs_sup:
   subtitle: 'Mga karaniwang tanong tungkol sa aming mga stand-up paddle board.'
   columns: 2
   items:
-    - title: 'Anong mga laki ng SUP board ang inaalok ng afarer?'
+    - title: 'Anong mga laki ng SUP board ang inaalok ng olagoon?'
       description: 'Nag-aalok kami ng mga SUP board mula 9 ft hanggang 12 ft, sumasaklaw sa lahat mula sa compact all-around board hanggang sa touring at specialty design. Bawat modelo ay available na may maraming opsyon sa configuration.'
     - title: 'Ano ang pagkakaiba ng inflatable SUP at hard SUP?'
       description: 'Ang inflatable SUP ay gumagamit ng drop-stitch construction na may libu-libong internal thread na nagpapahintulot ng mataas na presyon ng hangin, habang ang hard SUP ay gumagamit ng epoxy o fiberglass. Nag-aalok ang mga inflatable SUP ng portability at kaginhawaan sa pag-iimbak nang hindi isinasakripisyo ang rigidity.'
     - title: 'Ano ang weight limit para sa mga SUP board?'
       description: 'Sinusuportahan ng aming mga SUP board ang hanggang 150 kg depende sa modelo at volume. Nakalista sa bawat pahina ng produkto ang maximum load rating para sa iyong partikular na modelo.'
-    - title: 'Ba ang mga SUP ng afarer ay CE certified?'
+    - title: 'Ba ang mga SUP ng olagoon ay CE certified?'
       description: 'Oo. Lahat ng recreational na modelo ng SUP ay CE certified sa ilalim ng mga naaangkop na European standard para sa recreational na paggamit.'
     - title: 'Ano ang warranty sa mga SUP board?'
-      description: 'Lahat ng SUP ng afarer ay may kasamang karaniwang tatlong taong warranty laban sa mga depekto sa pagmamanupaktura, sumasaklaw sa pagkasira ng seam, mga depekto sa valve, at delamination ng materyales sa normal na paggamit.'
+      description: 'Lahat ng SUP ng olagoon ay may kasamang karaniwang tatlong taong warranty laban sa mga depekto sa pagmamanupaktura, sumasaklaw sa pagkasira ng seam, mga depekto sa valve, at delamination ng materyales sa normal na paggamit.'
     - title: 'Gaano katagal bago mapamaga ang isang SUP board?'
-      description: 'Sa paggamit ng kasamang hand pump, ang kumpletong pagpapamaga hanggang 15 PSI ay tumatagal ng humigit-kumulang 8–12 minuto. Para sa mas mabilis na pagpapamaga, inirerekomenda namin ang aming afarer 12V electric pump, na namamaga ng isang board sa mas mababa sa 4 minuto.'
+      description: 'Sa paggamit ng kasamang hand pump, ang kumpletong pagpapamaga hanggang 15 PSI ay tumatagal ng humigit-kumulang 8–12 minuto. Para sa mas mabilis na pagpapamaga, inirerekomenda namin ang aming olagoon 12V electric pump, na namamaga ng isang board sa mas mababa sa 4 minuto.'
 
 faqs_materials:
   title: 'Mga FAQ tungkol sa Materyales at Pangangalaga ng SUP'
   subtitle: 'Mga karaniwang tanong tungkol sa aming mga materyales ng inflatable SUP, pangangalaga, at pag-iimbak.'
   columns: 2
   items:
-    - title: 'Anong mga materyales ang ginagamit sa mga inflatable SUP ng afarer?'
+    - title: 'Anong mga materyales ang ginagamit sa mga inflatable SUP ng olagoon?'
       description: 'Gumagamit kami ng military-grade PVC (1100 denier) na may UV-stabilized at abrasion-resistant na konstruksyon, na sumusunod sa mga regulasyon ng EU REACH at RoHS.'
     - title: 'Gaano katagal tumatagal ang mga inflatable SUP?'
       description: 'Sa tamang pangangalaga, ang isang de-kalidad na PVC inflatable SUP ay tumatagal ng 5–10 taon. Ang regular na paglilinis, proteksyon sa UV, at tamang pag-iimbak ay malaking nagpapahaba ng buhay ng serbisyo.'
     - title: 'Anong maintenance ang kailangan para sa isang inflatable SUP?'
       description: 'Ang pangunahing maintenance ay kinabibilangan ng pagbanlaw gamit ang sariwang tubig pagkatapos ng bawat paggamit (lalo na sa saltwater), pagpapatuyo bago iimbak, pagsusuri ng mga valve seal taun-taon, at pag-iwas sa matagal na pagkakalantad sa araw kapag hindi ginagamit.'
     - title: 'Pwedeng gamitin ba ang mga inflatable SUP sa saltwater?'
-      description: 'Oo. Lahat ng inflatable SUP ng afarer ay dinisenyo para sa paggamit sa freshwater at saltwater. Inirerekomenda namin ang pagbanlaw gamit ang sariwang tubig at maayos na pagpapatuyo pagkatapos malantad sa saltwater.'
+      description: 'Oo. Lahat ng inflatable SUP ng olagoon ay dinisenyo para sa paggamit sa freshwater at saltwater. Inirerekomenda namin ang pagbanlaw gamit ang sariwang tubig at maayos na pagpapatuyo pagkatapos malantad sa saltwater.'
     - title: 'Paano ko maiimbak ang isang inflatable SUP?'
       description: 'I-deflate, linisin, at patuyuin nang kumpleto ang board bago iimbak. I-roll nang maluwag (iwasan ang masisikip na tiklop), iimbak sa malamig at tuyong lugar na malayo sa direktang sikat ng araw, at huwag ilagay sa sahig ng kongkreto upang maiwasan ang pagsipsip ng kahalumigmigan.'
-    - title: 'Ano ang weight capacity ng mga inflatable SUP ng afarer?'
+    - title: 'Ano ang weight capacity ng mga inflatable SUP ng olagoon?'
       description: 'Mula 100 kg para sa aming mga pinakamaliit na modelo hanggang higit sa 200 kg para sa mas malalaking board. Nakalista sa bawat pahina ng produkto ang maximum load rating para sa iyong partikular na modelo.'
 
 cta:

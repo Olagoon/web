@@ -7,12 +7,12 @@ hero:
   title: 'Launch, Run & Grow Your Paddle Club<br />With Commercial-Grade SUP Fleets'
   subtitle: 'SUP club equipment supplier for paddle clubs and SUP schools worldwide — durable commercial boards, bulk club pricing, custom branding, and fast replacement parts, so you can focus on growing your community.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: Paddle club members on matching Afarer SUP boards
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: Paddle club members on matching OLagoon SUP boards
 
 benefits:
   title: Club Fleet Benefits
-  subtitle: Why paddle clubs across 50+ countries choose Afarer as their equipment partner.
+  subtitle: Why paddle clubs across 50+ countries choose OLagoon as their equipment partner.
   items:
     - metric: '40%+'
       label: Fleet Cost Savings
@@ -86,7 +86,7 @@ training:
         - 'CE certified equipment'
 
 features:
-  title: Why Clubs Choose Afarer
+  title: Why Clubs Choose OLagoon
   subtitle: 'Consistent quality, fast parts, and bulk pricing built for growing clubs.'
   items:
     - title: '500+ Rental Cycles'

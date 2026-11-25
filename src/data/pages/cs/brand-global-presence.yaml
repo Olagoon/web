@@ -1,6 +1,6 @@
 meta:
   title: 'Globální přítomnost — výrobce SUP ve více než 50 zemích | {SITE}'
-  description: 'afarer vyváží nafukovací SUP prkna do více než 50 zemí na všech kontinentech. Profesionální výrobce a dodavatel pro značky, distributory a flotily.'
+  description: 'olagoon vyváží nafukovací SUP prkna do více než 50 zemí na všech kontinentech. Profesionální výrobce a dodavatel pro značky, distributory a flotily.'
   keywords:
     - 'globální výrobce SUP'
     - 'vývozce paddleboardů'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Globální přítomnost
   title: Obsluhujeme 50+ zemí<br />na každém kontinentu
-  subtitle: Od evropských operátorů pobřežních hlídek po australské distributory vodních sportů a záchranné týmy na Blízkém východě — prkna afarer jsou na vodě po celém světě.
+  subtitle: Od evropských operátorů pobřežních hlídek po australské distributory vodních sportů a záchranné týmy na Blízkém východě — prkna olagoon jsou na vodě po celém světě.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer – globální výroba a distribuce námořního vybavení
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon – globální výroba a distribuce námořního vybavení
 stats:
   title: Globální dosah
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: 'Skladové zásoby v Montclair, CA pro rychlé doručení po celé Severní Americe. Západní pobřeží: 2-3 dny, Střed: 3-4 dny, Východní pobřeží: 4-5 dní.'
       icon: tabler:building-warehouse
     - title: Náhradní díly
-      description: Originální náhradní díly afarer a spotřební materiál skladem po celý rok. Běžné díly odesílány do 24 hodin.
+      description: Originální náhradní díly olagoon a spotřební materiál skladem po celý rok. Běžné díly odesílány do 24 hodin.
       icon: tabler:package
     - title: Technická podpora
       description: Přímá linka k našemu inženýrskému týmu pro technické dotazy, rady ohledně oprav a podporu při renovaci. Podporujeme prkna, která jsme vyrobili před 20 lety.

@@ -5,10 +5,10 @@ meta:
 hero:
   tagline: 'Mazumtirdzniecības partneri'
   title: 'Pārdodiet premium piepūšamos SUP dēļus<br />ar peļņu, kas strādā'
-  subtitle: 'Kļūstiet par Afarer mazumtirdzniecības partneri — piedāvājiet ātrāk augošo SUP zīmolu savā tirgū ar pilnu vairumtirdzniecības cenu politiku, dropshipping, profesionāliem mārketinga materiāliem un atveltītu atbalstu.'
+  subtitle: 'Kļūstiet par OLagoon mazumtirdzniecības partneri — piedāvājiet ātrāk augošo SUP zīmolu savā tirgū ar pilnu vairumtirdzniecības cenu politiku, dropshipping, profesionāliem mārketinga materiāliem un atveltītu atbalstu.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Afarer SUP dēļi izstādīti mazumtirdzniecības veikalā'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'OLagoon SUP dēļi izstādīti mazumtirdzniecības veikalā'
 
 margin_section:
   title: 'Mazumtirdzniecības peļņa un MOQ'
@@ -92,7 +92,7 @@ support:
     - 'Maksājuma termiņš Net 30'
 
 cta:
-  title: 'Gatavi kļūt par Afarer mazumtirdzniecības partneri?'
+  title: 'Gatavi kļūt par OLagoon mazumtirdzniecības partneri?'
   subtitle: 'Pieteicieties partnerībai vai lejupielādējiet mūsu mazumtirdzniecības katalogu, lai sāktu.'
   actions:
     - text: 'Pieteikties partnerībai'

@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const { createRequire } = require('module');
 
-const PROJ = 'E:/github/afarer';
+const PROJ = 'E:/github/olagoon';
 const projRequire = createRequire(path.join(PROJ, 'package.json'));
 const yaml = projRequire('js-yaml');
 

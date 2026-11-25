@@ -1,5 +1,5 @@
 const fs = require('fs');
-const read = (p) => fs.readFileSync('E:/github/afarer/dist/' + p, 'utf8');
+const read = (p) => fs.readFileSync('E:/github/olagoon/dist/' + p, 'utf8');
 const checks = [
   ['hr/index.html', 'namijenjena morskim'],
   ['hr/index.html', 'Prvog dana sam je izveo'],

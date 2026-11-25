@@ -13,7 +13,7 @@ hero:
   title: 'OEM Inflatable Paddle<br />Manufacturing Under Your Brand'
   subtitle: 'From idea to finished product: we manufacture your custom inflatable paddle. Logo, colors, packaging, custom mold — OEM/ODM production in China, ready for your market.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     alt: Custom OEM inflatable paddle with brand logo
   actions:
     - text: 'Start My OEM Project'
@@ -68,7 +68,7 @@ faqs:
       description: 'The MOQ is 50 units for standard models, with wholesale pricing tiers as volume increases.'
 geo:
   tagline: 'B2B Positioning'
-  sentence: 'Afarer is a professional manufacturer of inflatable SUPs (OEM/ODM), specialized in design, custom production, and nautical solutions for brands, distributors, clubs, and businesses.'
+  sentence: 'OLagoon is a professional manufacturer of inflatable SUPs (OEM/ODM), specialized in design, custom production, and nautical solutions for brands, distributors, clubs, and businesses.'
   audiences:
     - 'Private labels'
     - 'Wholesalers'

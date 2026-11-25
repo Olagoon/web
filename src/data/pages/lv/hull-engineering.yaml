@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorija 02'
   title: 'Korpusa inženierijas studija'
   subtitle: 'Digitālā simulācija, strukturālā inteligence, pielāgots korpusa dizains'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Afarer korpusa inženierijas CAD dizaina darba vieta'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'OLagoon korpusa inženierijas CAD dizaina darba vieta'
 
-intro: 'Korpuss ir katra piepūšamā SUP dēļa mugurkauls. Tam jābūt pietiekami vieglam, lai efektīvi slīdētu, pietiekami stipram, lai izturētu akmeņainas krasta līnijas, un pietiekami stingram, lai katru aira vicienu pārvērstu virzībā uz priekšu. Afarer mūsu Korpusa inženierijas studija apvieno progresīvu CAD modelēšanu, galīgo elementu analīzi (FEA) un gadu desmitu praktisko dēļu dizaina pieredzi, lai radītu korpusus, kas ir optimizēti to paredzētajai disciplīnai — nevis vispārīgas formas, kas paņemtas no kataloga.'
+intro: 'Korpuss ir katra piepūšamā SUP dēļa mugurkauls. Tam jābūt pietiekami vieglam, lai efektīvi slīdētu, pietiekami stipram, lai izturētu akmeņainas krasta līnijas, un pietiekami stingram, lai katru aira vicienu pārvērstu virzībā uz priekšu. OLagoon mūsu Korpusa inženierijas studija apvieno progresīvu CAD modelēšanu, galīgo elementu analīzi (FEA) un gadu desmitu praktisko dēļu dizaina pieredzi, lai radītu korpusus, kas ir optimizēti to paredzētajai disciplīnai — nevis vispārīgas formas, kas paņemtas no kataloga.'
 
 content_html: |
   <h2>Kur stiprums satiek hidrodinamiku</h2>

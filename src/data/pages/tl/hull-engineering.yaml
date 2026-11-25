@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 02'
   title: 'Hull Engineering Studio'
   subtitle: 'Digital na simulation, structural intelligence, custom hull design'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Workstation ng CAD design sa hull engineering ng Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'Workstation ng CAD design sa hull engineering ng OLagoon'
 
-intro: 'Ang hull ang gulugod ng bawat inflatable SUP. Dapat itong magaan upang maka-glide nang mahusay, malakas upang makayanan ang mabatong dalampasigan, at rigid upang maging pagharap ang bawat sagwan sa pasulong na galaw. Sa Afarer, pinagsasama ng aming Hull Engineering Studio ang advanced na CAD modelling, finite element analysis (FEA), at dekada ng praktikal na karanasan sa board design upang maihanda ang mga hull na naka-optimize para sa inaasahang disiplina — hindi mga generic na hugis na hinango mula sa catalog.'
+intro: 'Ang hull ang gulugod ng bawat inflatable SUP. Dapat itong magaan upang maka-glide nang mahusay, malakas upang makayanan ang mabatong dalampasigan, at rigid upang maging pagharap ang bawat sagwan sa pasulong na galaw. Sa OLagoon, pinagsasama ng aming Hull Engineering Studio ang advanced na CAD modelling, finite element analysis (FEA), at dekada ng praktikal na karanasan sa board design upang maihanda ang mga hull na naka-optimize para sa inaasahang disiplina — hindi mga generic na hugis na hinango mula sa catalog.'
 
 content_html: |
   <h2>Kung saan nagtatagpo ang lakas at hydrodynamics</h2>

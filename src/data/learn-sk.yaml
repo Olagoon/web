@@ -1,10 +1,10 @@
 misc:
   readGuide: Prečítať príručku →
   techDesc: Inžinierstvo morskej bezpečnosti a testovanie materiálov
-  productsDesc: Preskúmajte kompletný katalóg produktov afarer
+  productsDesc: Preskúmajte kompletný katalóg produktov olagoon
   trustDesc: Súlad s CE, ISO a BSCI
 sup:
-  title: Znalosti o SUP — Príručky a zdroje pre nafukovacie SUP | Afarer
+  title: Znalosti o SUP — Príručky a zdroje pre nafukovacie SUP | OLagoon
   description: Kompletné centrum znalostí o SUP pokrývajúce príručky pre začiatočníkov, výber veľkosti dosiek, návody na techniky, tipy pre bezpečnosť a technológiu nafukovacích SUP.
   articles:
     - title: Základy SUP — Príručka pre začiatočníkov
@@ -26,7 +26,7 @@ sup:
       desc: Základné bezpečnostné znalosti vrátane čítania počasia, výberu PFD, sebazáchrannej techniky a skupinového pádlovania.
       href: /learn/water-safety/
 water-safety:
-  title: Znalosti o bezpečnosti na vode — Príručky bezpečného pádlovania | Afarer
+  title: Znalosti o bezpečnosti na vode — Príručky bezpečného pádlovania | OLagoon
   description: Komplexné zdroje o bezpečnosti na vode pre SUP, kajakovanie a plavbu loďou. Dozviete sa o výbere PFD, čítaní počasia, sebazáchrane, bezpečnosti v studenej vode a certifikácii CE.
   articles:
     - title: Príručka bezpečnosti na vode
@@ -49,7 +49,7 @@ water-safety:
       href: /trust/
 sup-basics:
   title: Základy SUP — Príručka pre začiatočníkov v paddleboardingu
-  description: Všetko, čo potrebujete vedieť na začiatok paddleboardingu. Príručky vybavenia, rady pre výber veľkosti, tipy na bezpečnosť a techniky pre začiatočníkov z centra znalostí afarer.
+  description: Všetko, čo potrebujete vedieť na začiatok paddleboardingu. Príručky vybavenia, rady pre výber veľkosti, tipy na bezpečnosť a techniky pre začiatočníkov z centra znalostí olagoon.
   articles: []
 drop-stitch-core:
   title: Technológia drop-stitch jadra — Ako nafukovacie dosky SUP dosahujú tuhosť

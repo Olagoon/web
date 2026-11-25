@@ -1,6 +1,6 @@
 meta:
   title: 'Processus de Fabrication — De la Matière Première au SUP | {SITE}'
-  description: 'De la matière première au SUP prêt pour la mer : chaque étape du processus de fabrication afarer sous notre contrôle, de la découpe et la soudure aux tests.'
+  description: 'De la matière première au SUP prêt pour la mer : chaque étape du processus de fabrication olagoon sous notre contrôle, de la découpe et la soudure aux tests.'
   keywords:
     - 'processus fabrication SUP'
     - 'usine SUP gonflable'
@@ -13,7 +13,7 @@ hero:
   back_label: Retour à l'Usine
   back_link: /factory/
 
-intro: Contrairement aux marques qui externalisent la production dans des usines tierces, afarer possède et opère toute sa chaîne de fabrication. Cette intégration verticale nous permet de maintenir un contrôle qualité strict à chaque étape, de répondre rapidement aux exigences personnalisées et de fournir une qualité produit constante lot après lot. Voici comment une planche est construite dans notre installation.
+intro: Contrairement aux marques qui externalisent la production dans des usines tierces, olagoon possède et opère toute sa chaîne de fabrication. Cette intégration verticale nous permet de maintenir un contrôle qualité strict à chaque étape, de répondre rapidement aux exigences personnalisées et de fournir une qualité produit constante lot après lot. Voici comment une planche est construite dans notre installation.
 
 steps:
   - step: '01'
@@ -47,6 +47,6 @@ steps:
 
 cta:
   title: Découvrez nos équipements et machines
-  desc: Explorez l'équipement industriel derrière chaque planche afarer.
+  desc: Explorez l'équipement industriel derrière chaque planche olagoon.
   label: Voir l'équipement →
   link: /factory/equipment/

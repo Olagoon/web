@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Resorts y Hoteles
   title: Convierta su zona costera en un centro de ingresos<br />con flotas SUP premium
-  subtitle: Afarer equipa a los resorts de todo el mundo con flotas SUP inflables de calidad comercial — desde paquetes iniciales de 20 tablas hasta programas insignia de 100+ tablas. Personalización de marca, capacitación del personal y piezas de repuesto incluidas.
+  subtitle: OLagoon equipa a los resorts de todo el mundo con flotas SUP inflables de calidad comercial — desde paquetes iniciales de 20 tablas hasta programas insignia de 100+ tablas. Personalización de marca, capacitación del personal y piezas de repuesto incluidas.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Huéspedes del resort disfrutando del paddle surf en una playa prístina
 roi_section:
   title: El Modelo de Ingresos de SUP del Resort
@@ -20,7 +20,7 @@ roi_section:
       detail: Recuperar la inversión total de la flota en una temporada
     - metric: 40%
       label: Aumento de ingresos
-      detail: Aumento promedio después de cambiar a las flotas Afarer
+      detail: Aumento promedio después de cambiar a las flotas OLagoon
     - metric: 500+
       label: Ciclos de Alquiler por Tablero
       detail: Durabilidad de grado comercial para uso diario
@@ -67,7 +67,7 @@ packages:
       revenue: Potencial de ingresos anuales de $200,000
       cta_text: Obtener el paquete principal
 case_study:
-  quote: Desde que cambiamos a Afarer, nuestros ingresos por alquiler de SUP aumentaron un 40%. Los costos de reemplazo de la tabla disminuyeron un 60%. Recuperamos toda nuestra inversión en la flota en 4 meses.
+  quote: Desde que cambiamos a OLagoon, nuestros ingresos por alquiler de SUP aumentaron un 40%. Los costos de reemplazo de la tabla disminuyeron un 60%. Recuperamos toda nuestra inversión en la flota en 4 meses.
   author: Gerente de Actividades Acuáticas
   location: Resort de 5 estrellas, Maldivas
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Periodo de recuperación
       value: 4 meses
 features:
-  title: Por qué los resorts eligen Afarer
+  title: Por qué los resorts eligen OLagoon
   subtitle: Durabilidad de nivel comercial, logística global y un socio que entiende la hospitalidad.
   items:
     - title: 500 Ciclos de Alquiler

@@ -1,5 +1,5 @@
 const https = require('https');
-https.get('https://afarer.com/', { headers: { 'User-Agent': 'Mozilla/5.0' } }, (r) => {
+https.get('https://olagoon.com/', { headers: { 'User-Agent': 'Mozilla/5.0' } }, (r) => {
   let b = '';
   r.on('data', (c) => (b += c));
   r.on('end', () => {

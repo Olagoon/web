@@ -35,7 +35,7 @@ const metadata = {
   title: `B2B Client Solutions Matrix — ${SITE.name} | 24 Business Solutions`,
   description:
     t('b2bSolutionsMatrix.metaDesc') ||
-    'Complete Afarer B2B client solutions matrix covering 24 customer types — find the solution for your business.',
+    'Complete OLagoon B2B client solutions matrix covering 24 customer types — find the solution for your business.',
 };
 const crumbs = [
   { name: t('nav.home'), href: `/${lang}/` },
@@ -108,7 +108,7 @@ const crumbs = [
     type="ItemList"
     itemList={{
       name: 'B2B Client Solutions Matrix',
-      description: '24 Afarer B2B solutions matched to customer types',
+      description: '24 OLagoon B2B solutions matched to customer types',
       url: withTrailingSlash(`/${lang}/b2b-solutions-matrix`),
       numberOfItems: localizedItems?.length || 24,
       itemListElement: localizedItems?.map((item, idx) => ({
@@ -118,7 +118,7 @@ const crumbs = [
           '@type': 'Service',
           name: item.clientType,
           description: item.need,
-          url: `${SITE.siteUrl || 'https://afarer.com'}${item.link}`,
+          url: `${SITE.siteUrl || 'https://olagoon.com'}${item.link}`,
         },
       })),
     }}

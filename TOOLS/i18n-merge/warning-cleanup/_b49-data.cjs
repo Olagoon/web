@@ -509,7 +509,7 @@ module.exports = {
     heroTagline: 'パドルクラブとスクール',
     heroTitle: '商用グレードのSUPフリートで<br />パドルクラブを立ち上げ、運営し、成長させる',
     heroSubtitle:
-      '世界中のパドルクラブとSUPスクールに器材を供給するafarer ― 耐久性の高い商用ボード、クラブ向けの大量注文価格、オリジナルブランド刻印、迅速な交換パーツ供給で、コミュニティの成長に集中できます。',
+      '世界中のパドルクラブとSUPスクールに器材を供給するolagoon ― 耐久性の高い商用ボード、クラブ向けの大量注文価格、オリジナルブランド刻印、迅速な交換パーツ供給で、コミュニティの成長に集中できます。',
     p0Name: 'スタートアップパッケージ',
     p0Tag: '新規クラブ向け、30名まで',
     p1Name: 'プロフェッショナルフリート',
@@ -538,7 +538,7 @@ module.exports = {
     heroTagline: '패들 클럽과 학교',
     heroTitle: '상업용 급 SUP 플릿으로<br />패들 클럽을 시작하고 운영하고 성장시키세요',
     heroSubtitle:
-      '전 세계 패들 클럽과 SUP 학교를 위한 SUP 장비 공급업체 afarer — 내구성 높은 상업용 보드, 클럽 대량 구매 가격, 맞춤 브랜딩, 신속한 교체 부품으로 커뮤니티 성장에 집중할 수 있습니다.',
+      '전 세계 패들 클럽과 SUP 학교를 위한 SUP 장비 공급업체 olagoon — 내구성 높은 상업용 보드, 클럽 대량 구매 가격, 맞춤 브랜딩, 신속한 교체 부품으로 커뮤니티 성장에 집중할 수 있습니다.',
     p0Name: '스타트업 패키지',
     p0Tag: '신설 클럽용, 최대 30명',
     p1Name: '프로페셔널 플릿',
@@ -593,7 +593,7 @@ module.exports = {
     'Fournisseur d’équipements SUP pour clubs de paddle et écoles de SUP dans le monde entier — planches durables de qualité commerciale, tarifs de groupe pour les clubs, personnalisation de marque et pièces de rechange rapides, pour que vous puissiez vous concentrer sur le développement de votre communauté.',
   // Pre-patch disk value of the fr hero.subtitle (find-anchor for the fr line op).
   frOldSubtitle:
-    'afarer équipe les clubs de paddle et écoles SUP du monde entier avec des planches durables, des prix de gros, une marque personnalisée et des pièces de rechange rapides.',
+    'olagoon équipe les clubs de paddle et écoles SUP du monde entier avec des planches durables, des prix de gros, une marque personnalisée et des pièces de rechange rapides.',
 
   // Which of pkg0 features 3|4 (0-based) carries the launch-guide string per locale.
   launchGuideFrom: { fi: 3, nl: 3, th: 3 }, // default 4

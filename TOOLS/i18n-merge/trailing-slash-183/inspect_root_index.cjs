@@ -1,5 +1,5 @@
 const fs = require('fs');
-const h = fs.readFileSync('E:/github/afarer/dist/index.html', 'utf8');
+const h = fs.readFileSync('E:/github/olagoon/dist/index.html', 'utf8');
 const c = h.match(/rel="canonical" href="([^"]+)"/);
 console.log('canonical:', c && c[1]);
 const t = h.match(/<title>([^<]*)<\/title>/);

@@ -300,7 +300,7 @@ const hasFileFields = fields.some((f) => (f.type ?? '').toLowerCase() === 'file'
         const urlParams = new URLSearchParams(window.location.search);
         let storedUtm = {};
         try {
-          storedUtm = JSON.parse(sessionStorage.getItem('afarer_utm') || '{}');
+          storedUtm = JSON.parse(sessionStorage.getItem('olagoon_utm') || '{}');
         } catch {
           /* keep default */
         }
@@ -341,7 +341,7 @@ const hasFileFields = fields.some((f) => (f.type ?? '').toLowerCase() === 'file'
           console.log('Quotation form success:', result);
           try {
             sessionStorage.setItem(
-              'afarer_inquiry',
+              'olagoon_inquiry',
               JSON.stringify({ id: result.id || '', key: data.submissionKey || '', ts: Date.now() })
             );
           } catch {

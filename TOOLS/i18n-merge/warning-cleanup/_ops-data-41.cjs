@@ -9,22 +9,22 @@ module.exports = [
     rep: '    - title: Første 1.000 skrog leveret',
   },
   {
-    f: 'src/data/pages/da/afarer-story.yaml',
+    f: 'src/data/pages/da/olagoon-story.yaml',
     find: '      amount: 12,000 m²',
     rep: '      amount: 12.000 m²',
   },
   {
-    f: 'src/data/pages/da/afarer-story.yaml',
+    f: 'src/data/pages/da/olagoon-story.yaml',
     find: '      amount: 15,000+ enheder',
     rep: '      amount: 15.000+ enheder',
   },
   {
-    f: 'src/data/pages/da/afarer-story.yaml',
+    f: 'src/data/pages/da/olagoon-story.yaml',
     find: '        value: 12,000 m²',
     rep: '        value: 12.000 m²',
   },
   {
-    f: 'src/data/pages/da/afarer-story.yaml',
+    f: 'src/data/pages/da/olagoon-story.yaml',
     find: '        value: 15,000+',
     rep: '        value: 15.000+',
   },
@@ -34,14 +34,14 @@ module.exports = [
     rep: '    - title: Facilitet på 12.000 m²',
   },
   {
-    f: 'src/data/pages/da/brand-why-afarer.yaml',
+    f: 'src/data/pages/da/brand-why-olagoon.yaml',
     find: '      amount: 15,000+',
     rep: '      amount: 15.000+',
   },
   {
     f: 'src/data/pages/da/commercial-workboats.yaml',
-    find: '  <p>afarer-oppustelige både er designet og bygget specifikt til disse krævende anvendelser. Vores 12,000 m² ISO- og CE-certificerede fabrik i Qingdao, Kina producerer arbejdsbåde, der lever op til de strenge krav fra kommercielle operatører på verdensplan.</p>',
-    rep: '  <p>afarer-oppustelige både er designet og bygget specifikt til disse krævende anvendelser. Vores 12.000 m² ISO- og CE-certificerede fabrik i Qingdao, Kina producerer arbejdsbåde, der lever op til de strenge krav fra kommercielle operatører på verdensplan.</p>',
+    find: '  <p>olagoon-oppustelige både er designet og bygget specifikt til disse krævende anvendelser. Vores 12,000 m² ISO- og CE-certificerede fabrik i Qingdao, Kina producerer arbejdsbåde, der lever op til de strenge krav fra kommercielle operatører på verdensplan.</p>',
+    rep: '  <p>olagoon-oppustelige både er designet og bygget specifikt til disse krævende anvendelser. Vores 12.000 m² ISO- og CE-certificerede fabrik i Qingdao, Kina producerer arbejdsbåde, der lever op til de strenge krav fra kommercielle operatører på verdensplan.</p>',
   },
   {
     f: 'src/data/pages/da/community.yaml',
@@ -65,8 +65,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/da/factory-oem-capability.yaml',
-    find: '  afarer tilbyder omfattende OEM- og ODM-services til brands, distributører og offentlige myndigheder verden over. Med over 10 års eksporterfaring og en 12,000 m² fabrik certificeret efter ISO 9001 & BSCI klarer vi alt fra produktdesign og formudvikling til fuldskalaproduktion, emballage og',
-    rep: '  afarer tilbyder omfattende OEM- og ODM-services til brands, distributører og offentlige myndigheder verden over. Med over 10 års eksporterfaring og en 12.000 m² fabrik certificeret efter ISO 9001 & BSCI klarer vi alt fra produktdesign og formudvikling til fuldskalaproduktion, emballage og',
+    find: '  olagoon tilbyder omfattende OEM- og ODM-services til brands, distributører og offentlige myndigheder verden over. Med over 10 års eksporterfaring og en 12,000 m² fabrik certificeret efter ISO 9001 & BSCI klarer vi alt fra produktdesign og formudvikling til fuldskalaproduktion, emballage og',
+    rep: '  olagoon tilbyder omfattende OEM- og ODM-services til brands, distributører og offentlige myndigheder verden over. Med over 10 års eksporterfaring og en 12.000 m² fabrik certificeret efter ISO 9001 & BSCI klarer vi alt fra produktdesign og formudvikling til fuldskalaproduktion, emballage og',
   },
   {
     f: 'src/data/pages/da/factory-oem-capability.yaml',
@@ -110,13 +110,13 @@ module.exports = [
   },
   {
     f: 'src/data/pages/da/research-drop-stitch.yaml',
-    find: '  <p>afarer bruger en 1,680 DTEX drop-stitch-kerne i hele sit SUP-sortiment med 2 tråde pr. kvadrattomme og et 1.2 mm PVC-laminat udenpå. Boards er klassificeret til 20 PSI og gennemgår en 24-timers trykholdtest ved 1.5x nominelt tryk før afsendelse. Railbåndene er varmluftssvejset med tredobbelt',
-    rep: '  <p>afarer bruger en 1.680 DTEX drop-stitch-kerne i hele sit SUP-sortiment med 2 tråde pr. kvadrattomme og et 1.2 mm PVC-laminat udenpå. Boards er klassificeret til 20 PSI og gennemgår en 24-timers trykholdtest ved 1.5x nominelt tryk før afsendelse. Railbåndene er varmluftssvejset med tredobbelt',
+    find: '  <p>olagoon bruger en 1,680 DTEX drop-stitch-kerne i hele sit SUP-sortiment med 2 tråde pr. kvadrattomme og et 1.2 mm PVC-laminat udenpå. Boards er klassificeret til 20 PSI og gennemgår en 24-timers trykholdtest ved 1.5x nominelt tryk før afsendelse. Railbåndene er varmluftssvejset med tredobbelt',
+    rep: '  <p>olagoon bruger en 1.680 DTEX drop-stitch-kerne i hele sit SUP-sortiment med 2 tråde pr. kvadrattomme og et 1.2 mm PVC-laminat udenpå. Boards er klassificeret til 20 PSI og gennemgår en 24-timers trykholdtest ved 1.5x nominelt tryk før afsendelse. Railbåndene er varmluftssvejset med tredobbelt',
   },
   {
     f: 'src/data/pages/da/research-oem-buyer-guide.yaml',
-    find: "  <p>Afarer har fremstillet OEM/ODM-oppustelige vandfartøjer siden 2012. Med et ISO 9001-certificeret anlæg på 12,000 m&sup2;, 25+ ingeniører og CE-certificering på tværs af alle produktlinjer opfylder vi hvert kriterium i denne guide. Vi tilbyder prøve-MOQ'er for nye partnere og komplette pakker",
-    rep: "  <p>Afarer har fremstillet OEM/ODM-oppustelige vandfartøjer siden 2012. Med et ISO 9001-certificeret anlæg på 12.000 m&sup2;, 25+ ingeniører og CE-certificering på tværs af alle produktlinjer opfylder vi hvert kriterium i denne guide. Vi tilbyder prøve-MOQ'er for nye partnere og komplette pakker",
+    find: "  <p>OLagoon har fremstillet OEM/ODM-oppustelige vandfartøjer siden 2012. Med et ISO 9001-certificeret anlæg på 12,000 m&sup2;, 25+ ingeniører og CE-certificering på tværs af alle produktlinjer opfylder vi hvert kriterium i denne guide. Vi tilbyder prøve-MOQ'er for nye partnere og komplette pakker",
+    rep: "  <p>OLagoon har fremstillet OEM/ODM-oppustelige vandfartøjer siden 2012. Med et ISO 9001-certificeret anlæg på 12.000 m&sup2;, 25+ ingeniører og CE-certificering på tværs af alle produktlinjer opfylder vi hvert kriterium i denne guide. Vi tilbyder prøve-MOQ'er for nye partnere og komplette pakker",
   },
   {
     f: 'src/data/pages/da/research-pvc-vs-hypalon.yaml',
@@ -135,8 +135,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/da/research-pvc-vs-hypalon.yaml',
-    find: '  <p>For de fleste fritidsbrugere tilbyder moderne PVC i høj kvalitet med UV-stabilisatorer den bedste balance mellem pris, vægt, ydeevne og holdbarhed. afarer anvender 1,680 DTEX marine-PVC med tredobbelt coating til sine forbruger- og OEM-produktlinjer. Til kommercielle og offentlige kunder, der',
-    rep: '  <p>For de fleste fritidsbrugere tilbyder moderne PVC i høj kvalitet med UV-stabilisatorer den bedste balance mellem pris, vægt, ydeevne og holdbarhed. afarer anvender 1.680 DTEX marine-PVC med tredobbelt coating til sine forbruger- og OEM-produktlinjer. Til kommercielle og offentlige kunder, der',
+    find: '  <p>For de fleste fritidsbrugere tilbyder moderne PVC i høj kvalitet med UV-stabilisatorer den bedste balance mellem pris, vægt, ydeevne og holdbarhed. olagoon anvender 1,680 DTEX marine-PVC med tredobbelt coating til sine forbruger- og OEM-produktlinjer. Til kommercielle og offentlige kunder, der',
+    rep: '  <p>For de fleste fritidsbrugere tilbyder moderne PVC i høj kvalitet med UV-stabilisatorer den bedste balance mellem pris, vægt, ydeevne og holdbarhed. olagoon anvender 1.680 DTEX marine-PVC med tredobbelt coating til sine forbruger- og OEM-produktlinjer. Til kommercielle og offentlige kunder, der',
   },
   {
     f: 'src/data/pages/da/resources.yaml',
@@ -165,8 +165,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/da/tourism-recreation.yaml',
-    find: '  <p>Med vores 12,000 m² ISO- og CE-certificerede fabrik i Qingdao, Kina, tilbyder afarer tour-operatører, udlejningsflåder og rekreationsbrands en pålidelig produktionspartner. Vores OEM/ODM-services omfatter specialbranding, privat label, emballage og logistikstøtte. Standard-MOQ fra 50 enheder',
-    rep: '  <p>Med vores 12.000 m² ISO- og CE-certificerede fabrik i Qingdao, Kina, tilbyder afarer tour-operatører, udlejningsflåder og rekreationsbrands en pålidelig produktionspartner. Vores OEM/ODM-services omfatter specialbranding, privat label, emballage og logistikstøtte. Standard-MOQ fra 50 enheder',
+    find: '  <p>Med vores 12,000 m² ISO- og CE-certificerede fabrik i Qingdao, Kina, tilbyder olagoon tour-operatører, udlejningsflåder og rekreationsbrands en pålidelig produktionspartner. Vores OEM/ODM-services omfatter specialbranding, privat label, emballage og logistikstøtte. Standard-MOQ fra 50 enheder',
+    rep: '  <p>Med vores 12.000 m² ISO- og CE-certificerede fabrik i Qingdao, Kina, tilbyder olagoon tour-operatører, udlejningsflåder og rekreationsbrands en pålidelig produktionspartner. Vores OEM/ODM-services omfatter specialbranding, privat label, emballage og logistikstøtte. Standard-MOQ fra 50 enheder',
   },
   {
     f: 'src/data/pages/da/trust.yaml',
@@ -184,27 +184,27 @@ module.exports = [
     rep: '    - value: 15.000+',
   },
   {
-    f: 'src/data/pages/fi/afarer-story.yaml',
+    f: 'src/data/pages/fi/olagoon-story.yaml',
     find: '      amount: 12,000 m²',
     rep: '      amount: 12 000 m²',
   },
   {
-    f: 'src/data/pages/fi/afarer-story.yaml',
+    f: 'src/data/pages/fi/olagoon-story.yaml',
     find: '      amount: 15,000+ yksikköä',
     rep: '      amount: 15 000+ yksikköä',
   },
   {
-    f: 'src/data/pages/fi/afarer-story.yaml',
+    f: 'src/data/pages/fi/olagoon-story.yaml',
     find: '        value: 12,000 m²',
     rep: '        value: 12 000 m²',
   },
   {
-    f: 'src/data/pages/fi/afarer-story.yaml',
+    f: 'src/data/pages/fi/olagoon-story.yaml',
     find: '        value: 15,000+',
     rep: '        value: 15 000+',
   },
   {
-    f: 'src/data/pages/fi/brand-why-afarer.yaml',
+    f: 'src/data/pages/fi/brand-why-olagoon.yaml',
     find: '      amount: 15,000+',
     rep: '      amount: 15 000+',
   },
@@ -230,8 +230,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/fi/research-drop-stitch.yaml',
-    find: '  <p>Afarer käyttää 1,680 DTEX drop-stitch-sydäntä koko SUP-mallistossaan, 2 langalla neliötuumaa kohti ja 1.2 mm PVC-ulkopinnoituksella. Laudat on mitoitettu 20 PSI:n paineelle ja ne käyvät läpi 24 tunnin painetestin 1.5-kertaisella nimellispaineella ennen toimitusta. Reunakaistat hitsataan',
-    rep: '  <p>Afarer käyttää 1 680 DTEX drop-stitch-sydäntä koko SUP-mallistossaan, 2 langalla neliötuumaa kohti ja 1.2 mm PVC-ulkopinnoituksella. Laudat on mitoitettu 20 PSI:n paineelle ja ne käyvät läpi 24 tunnin painetestin 1.5-kertaisella nimellispaineella ennen toimitusta. Reunakaistat hitsataan',
+    find: '  <p>OLagoon käyttää 1,680 DTEX drop-stitch-sydäntä koko SUP-mallistossaan, 2 langalla neliötuumaa kohti ja 1.2 mm PVC-ulkopinnoituksella. Laudat on mitoitettu 20 PSI:n paineelle ja ne käyvät läpi 24 tunnin painetestin 1.5-kertaisella nimellispaineella ennen toimitusta. Reunakaistat hitsataan',
+    rep: '  <p>OLagoon käyttää 1 680 DTEX drop-stitch-sydäntä koko SUP-mallistossaan, 2 langalla neliötuumaa kohti ja 1.2 mm PVC-ulkopinnoituksella. Laudat on mitoitettu 20 PSI:n paineelle ja ne käyvät läpi 24 tunnin painetestin 1.5-kertaisella nimellispaineella ennen toimitusta. Reunakaistat hitsataan',
   },
   {
     f: 'src/data/pages/fi/research-pvc-vs-hypalon.yaml',
@@ -250,8 +250,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/fi/research-pvc-vs-hypalon.yaml',
-    find: '  <p>Useimmille virkistyskäyttäjille moderni, korkealaatuinen UV-stabilisoitu PVC tarjoaa parhaan tasapainon hinnan, painon, suorituskyvyn ja kestävyyden välillä. Afarer käyttää 1,680 DTEX -meri-PVC:tä kolmikerroksisella pinnoitteella kuluttaja- ja OEM-tuotelinjoissaan. Kaupallisille ja',
-    rep: '  <p>Useimmille virkistyskäyttäjille moderni, korkealaatuinen UV-stabilisoitu PVC tarjoaa parhaan tasapainon hinnan, painon, suorituskyvyn ja kestävyyden välillä. Afarer käyttää 1 680 DTEX -meri-PVC:tä kolmikerroksisella pinnoitteella kuluttaja- ja OEM-tuotelinjoissaan. Kaupallisille ja',
+    find: '  <p>Useimmille virkistyskäyttäjille moderni, korkealaatuinen UV-stabilisoitu PVC tarjoaa parhaan tasapainon hinnan, painon, suorituskyvyn ja kestävyyden välillä. OLagoon käyttää 1,680 DTEX -meri-PVC:tä kolmikerroksisella pinnoitteella kuluttaja- ja OEM-tuotelinjoissaan. Kaupallisille ja',
+    rep: '  <p>Useimmille virkistyskäyttäjille moderni, korkealaatuinen UV-stabilisoitu PVC tarjoaa parhaan tasapainon hinnan, painon, suorituskyvyn ja kestävyyden välillä. OLagoon käyttää 1 680 DTEX -meri-PVC:tä kolmikerroksisella pinnoitteella kuluttaja- ja OEM-tuotelinjoissaan. Kaupallisille ja',
   },
   {
     f: 'src/data/pages/fi/research-sup-thickness.yaml',
@@ -295,7 +295,7 @@ module.exports = [
   },
   {
     f: 'src/data/site/i18n-config.json',
-    find: '    "people.managementDesc": "Experienced leadership team overseeing 12,000 m² facility, 200+ workers, supply chain, and continuous improvement programs.",\n    "people.quality": "Quality & Testing",\n    "people.qualityDesc": "Dedicated QC team conducting 24-hour pressure hold tests, UV aging per ISO, tensile strength validation, and dimensional inspection on every production batch.",\n    "people.sales": "Sales & Support",\n    "people.salesDesc": "Global sales team covering 50+ countries with multilingual support for B2B, OEM/ODM, and retail partners. Average response time under 4 hours.",\n    "people.subtitle": "Meet the team behind afarer — engineers, designers, quality specialists, and support professionals.",',
-    rep: '    "people.managementDesc": "Kokenut johtoryhmä valvoo 12 000 m²:n tuotantolaitosta, 200+ työntekijää, toimitusketjua ja jatkuvan parantamisen ohjelmia.",\n    "people.quality": "Laatu ja testaus",\n    "people.qualityDesc": "Omistautunut QA-tiimi suorittaa 24 tunnin painetestit, ISO-mukaisen UV-ikääntymisen, vetolujuuden validoinnin ja mittojen tarkastuksen jokaisesta tuotantoerästä.",\n    "people.sales": "Myynti ja tuki",\n    "people.salesDesc": "Maailmanlaajuinen myyntitiimi yli 50 maassa monikielisellä tuella B2B-kumppaneille, OEM/ODM-toimijoille ja jälleenmyyjille. Keskimääräinen vastausaika alle 4 tuntia.",\n    "people.subtitle": "Tutustu afarerin taustalla toimivaan tiimiin — insinööreihin, suunnittelijoihin, laatuasiantuntijoihin ja tukiammattilaisiin.",',
+    find: '    "people.managementDesc": "Experienced leadership team overseeing 12,000 m² facility, 200+ workers, supply chain, and continuous improvement programs.",\n    "people.quality": "Quality & Testing",\n    "people.qualityDesc": "Dedicated QC team conducting 24-hour pressure hold tests, UV aging per ISO, tensile strength validation, and dimensional inspection on every production batch.",\n    "people.sales": "Sales & Support",\n    "people.salesDesc": "Global sales team covering 50+ countries with multilingual support for B2B, OEM/ODM, and retail partners. Average response time under 4 hours.",\n    "people.subtitle": "Meet the team behind olagoon — engineers, designers, quality specialists, and support professionals.",',
+    rep: '    "people.managementDesc": "Kokenut johtoryhmä valvoo 12 000 m²:n tuotantolaitosta, 200+ työntekijää, toimitusketjua ja jatkuvan parantamisen ohjelmia.",\n    "people.quality": "Laatu ja testaus",\n    "people.qualityDesc": "Omistautunut QA-tiimi suorittaa 24 tunnin painetestit, ISO-mukaisen UV-ikääntymisen, vetolujuuden validoinnin ja mittojen tarkastuksen jokaisesta tuotantoerästä.",\n    "people.sales": "Myynti ja tuki",\n    "people.salesDesc": "Maailmanlaajuinen myyntitiimi yli 50 maassa monikielisellä tuella B2B-kumppaneille, OEM/ODM-toimijoille ja jälleenmyyjille. Keskimääräinen vastausaika alle 4 tuntia.",\n    "people.subtitle": "Tutustu olagoonin taustalla toimivaan tiimiin — insinööreihin, suunnittelijoihin, laatuasiantuntijoihin ja tukiammattilaisiin.",',
   },
 ];

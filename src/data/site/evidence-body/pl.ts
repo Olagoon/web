@@ -129,7 +129,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Firma technologiczna z listy Fortune 500 chciała uruchomić program wodnego wellness dla pracowników na 4 globalnych kampusach nad jeziorami: 60 SUP z firmowym brandingiem, przechowywaniem i szkoleniami instruktorów.',
     solution:
-      'Dostarczyliśmy flotyllę stabilnych SUP typu all-around z grafiką pokładów z logo firmy. Zaprojektowaliśmy odporne na warunki atmosferyczne stojaki magazynowe na miejscu. Certyfikowaliśmy 12 wewnętrznych instruktorów w ramach programu szkoleniowego afarer.',
+      'Dostarczyliśmy flotyllę stabilnych SUP typu all-around z grafiką pokładów z logo firmy. Zaprojektowaliśmy odporne na warunki atmosferyczne stojaki magazynowe na miejscu. Certyfikowaliśmy 12 wewnętrznych instruktorów w ramach programu szkoleniowego olagoon.',
     result:
       'Program uruchomiony na 4 kampusach. 2,400+ udziałów pracowników w pierwszym roku. 94% wskaźnik zadowolenia pracowników. Opisano w raporcie zrównoważonego rozwoju firmy.',
     outcomeMetrics: [
@@ -381,7 +381,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'pełna linia produktów — SUP, łodzie, akcesoria',
     industry: 'Dystrybucja / Morski',
     challenge:
-      'Dystrybutor z regionu GCC chciał wyłącznych praw do pełnej linii Afarer w 6 krajach Zatoki, z arabskim opakowaniem, specyfikacją materiałów odpornych na ciepło i gwarancją zgodną z szariatem.',
+      'Dystrybutor z regionu GCC chciał wyłącznych praw do pełnej linii OLagoon w 6 krajach Zatoki, z arabskim opakowaniem, specyfikacją materiałów odpornych na ciepło i gwarancją zgodną z szariatem.',
     solution:
       'Zawarliśmy ekskluzywną umowę dystrybucyjną. Opracowaliśmy arabskie opakowania i materiały marketingowe. Zweryfikowaliśmy specyfikacje materiałów w temperaturze otoczenia 50°C. Dostosowaliśmy warunki gwarancji do regionalnych przepisów.',
     result:

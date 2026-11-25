@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Dobavitelj nautične opreme · OEM'
   title: 'Vaš profesionalni dobavitelj<br />nautične opreme'
-  subtitle: 'Afarer oskrbuje nautične centre, prostotovorne objekte, hotele in znamke s profesionalno vodno opremo: napihljive deske SUP, vesla, plovce, jopiče in dodatke. Proizvodnja OEM, tovarniške cene, certificirana kakovost.'
+  subtitle: 'OLagoon oskrbuje nautične centre, prostotovorne objekte, hotele in znamke s profesionalno vodno opremo: napihljive deske SUP, vesla, plovce, jopiče in dodatke. Proizvodnja OEM, tovarniške cene, certificirana kakovost.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: 'Proizvodnja profesionalne nautične opreme v tovarni'
   actions:
     - text: 'Postanite partnerski dobavitelj'
@@ -66,7 +66,7 @@ faqs:
       description: 'Vsi izdelki izpolnjujejo standarde CE / ISO ter varnostne zahteve evropskih in severnoameriških trgov.'
 geo:
   tagline: 'Pozicioniranje B2B'
-  sentence: 'Afarer je profesionalni proizvajalec napihljivih SUP desk (OEM/ODM), specializiran za oblikovanje, proizvodnjo po meri in nautične rešitve za znamke, distributerje, klube in podjetja.'
+  sentence: 'OLagoon je profesionalni proizvajalec napihljivih SUP desk (OEM/ODM), specializiran za oblikovanje, proizvodnjo po meri in nautične rešitve za znamke, distributerje, klube in podjetja.'
   audiences:
     - 'Nautični klubi'
     - 'Centerji prostega časa'

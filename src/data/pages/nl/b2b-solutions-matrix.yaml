@@ -1,16 +1,16 @@
 meta:
   title: B2B Klantoplossingenmatrix | {SITE}
-  description: Complete Afarer B2B klantoplossingenmatrix die 24 klanttypes dekt — van outdoor startups tot mariene natuurbeschermingsinstellingen.
+  description: Complete OLagoon B2B klantoplossingenmatrix die 24 klanttypes dekt — van outdoor startups tot mariene natuurbeschermingsinstellingen.
 hero:
   tagline: B2B Klantoplossingen
   title: 24 B2B-oplossingen<br />Afgestemd op uw bedrijf
-  subtitle: Van startup-oprichters tot wereldwijde distributeurs — vind de exacte Afarer-oplossing die is ontworpen voor jouw bedrijfsmodel, sector en doelen.
+  subtitle: Van startup-oprichters tot wereldwijde distributeurs — vind de exacte OLagoon-oplossing die is ontworpen voor jouw bedrijfsmodel, sector en doelen.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Afarer fabriek en productiebedrijf
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: OLagoon fabriek en productiebedrijf
 solutions:
   title: Matrix voor klantoplossingen
-  subtitle: Elk klanttype, hun kernbehoefte en de Afarer-oplossingspagina die voor hen is ontworpen.
+  subtitle: Elk klanttype, hun kernbehoefte en de OLagoon-oplossingspagina die voor hen is ontworpen.
   items:
     - clientType: Oprichter van buitensport-startup
       need: Merkcreatie

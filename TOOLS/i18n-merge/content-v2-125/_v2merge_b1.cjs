@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const TMP = 'C:\\Users\\Helleo\\AppData\\Local\\Temp\\deveco';
-const SITE = 'E:\\github\\afarer\\src\\data\\site';
+const SITE = 'E:\\github\\olagoon\\src\\data\\site';
 
 function merge(lang, parts, out) {
   const chunks = parts.map((p) => fs.readFileSync(path.join(TMP, p), 'utf8').replace(/\r\n/g, '\n').trimEnd());

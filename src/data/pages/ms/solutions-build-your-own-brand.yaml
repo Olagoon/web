@@ -1,13 +1,13 @@
 meta:
   title: 'Pembuatan SUP Label Peribadi & Pelancaran Jenama Tersuai | {SITE}'
-  description: 'Pengilang SUP label peribadi untuk jenama papan dayung baharu. Lancarkan jenama SUP anda sendiri dengan Afarer — perkhidmatan OEM/ODM penuh termasuk reka bentuk, pembikinan prototaip, penjenamaan tersuai, pengeluaran, dan logistik global.'
+  description: 'Pengilang SUP label peribadi untuk jenama papan dayung baharu. Lancarkan jenama SUP anda sendiri dengan OLagoon — perkhidmatan OEM/ODM penuh termasuk reka bentuk, pembikinan prototaip, penjenamaan tersuai, pengeluaran, dan logistik global.'
 
 hero:
   tagline: 'Bina Jenama Anda Sendiri'
   title: 'Lancarkan Jenama SUP<br />Anda Sendiri'
   subtitle: 'Anda mempunyai visi. Kami mempunyai kilang, kepakaran, dan rantai bekalan. Pembuatan SUP label peribadi dan pembangunan jenama SUP tersuai — bersama-sama, kami akan membina jenama yang menonjol.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Papan SUP berjenama tersuai di atas air'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Keutamaan pengeluaran'
 
 features:
-  title: 'Mengapa Jenama Memilih Afarer'
+  title: 'Mengapa Jenama Memilih OLagoon'
   subtitle: 'Pengalaman OEM 10+ tahun, pensijilan penuh, dan MOQ terendah dalam industri.'
   items:
     - title: 'Pengalaman OEM 10+ Tahun'

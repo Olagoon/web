@@ -1,6 +1,6 @@
 meta:
-  title: 'Parteneri de Țară — O Țară, Un Distribuitor Oficial Afarer | {SITE}'
-  description: 'Aplicați pentru a deveni distribuitorul oficial Afarer pentru țara dumneavoastră. Un partener autorizat pe piață, protecție teritorială, marje directe de fabrică, bonusuri anuale și un program de sprijin pentru parteneri de țară cu 10 module pentru distribuitori globali de SUP și sporturi acvatice.'
+  title: 'Parteneri de Țară — O Țară, Un Distribuitor Oficial OLagoon | {SITE}'
+  description: 'Aplicați pentru a deveni distribuitorul oficial OLagoon pentru țara dumneavoastră. Un partener autorizat pe piață, protecție teritorială, marje directe de fabrică, bonusuri anuale și un program de sprijin pentru parteneri de țară cu 10 module pentru distribuitori globali de SUP și sporturi acvatice.'
   keywords:
     - 'program de parteneriat de țară'
     - 'deveniți distribuitor'
@@ -11,8 +11,8 @@ meta:
     - 'aplicare parteneriat de țară'
 hero:
   tagline: 'Parteneriat de Țară'
-  title: 'O Țară.<br />Un Distribuitor Oficial Afarer.'
-  subtitle: 'Afarer numește un singur distribuitor autorizat de țară pentru fiecare piață aprobată. Teritoriu exclusiv, prețuri de dealer cu bonusuri anuale și un program complet de sprijin pentru distribuitor — în schimbul unui acord semnat și a unui angajament real de a dezvolta piața.'
+  title: 'O Țară.<br />Un Distribuitor Oficial OLagoon.'
+  subtitle: 'OLagoon numește un singur distribuitor autorizat de țară pentru fiecare piață aprobată. Teritoriu exclusiv, prețuri de dealer cu bonusuri anuale și un program complet de sprijin pentru distribuitor — în schimbul unui acord semnat și a unui angajament real de a dezvolta piața.'
   actions:
     - text: 'Aplicați pentru Parteneriat de Țară'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Zile termen standard de livrare (FOB Qingdao)'
 features:
-  title: 'De Ce Parteneriat Cu Afarer'
+  title: 'De Ce Parteneriat Cu OLagoon'
   subtitle: 'Un model de o țară — un distribuitor, cu structura de sprijin care face teritoriul să fie profitabil. Exclusivitatea se câștigă și se menține — nu este un drept permanent.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'Un distribuitor autorizat per țară sau regiune. Fără importuri paralele, fără concurență internă. Investiția dumneavoastră vă construiește propriul avantaj.'
       icon: 'tabler:shield-check'
     - title: 'Protecție Împotriva Conflictelor de Canal'
-      description: 'Comenzile directe din regiunea dumneavoastră sunt direcționate prin dumneavoastră, iar prețurile protejează marja dumneavoastră. Afarer nu vinde pe lângă partenerii săi de țară.'
+      description: 'Comenzile directe din regiunea dumneavoastră sunt direcționate prin dumneavoastră, iar prețurile protejează marja dumneavoastră. OLagoon nu vinde pe lângă partenerii săi de țară.'
       icon: 'tabler:users'
     - title: 'Marje Directe de Fabrică & Bonusuri'
       description: 'Listă de prețuri de dealer cu bonusuri pentru volumele angajate. Fără intermediari. Expediere FOB Qingdao cu documentație completă de export.'
@@ -59,7 +59,7 @@ features:
       description: 'Aprovizionare cu piese de schimb, înregistrarea garanțiilor și gestionarea cererilor, plus fișe tehnice de produs și manuale pentru echipa locală de service.'
       icon: 'tabler:settings'
     - title: 'Manager de Cont Dedicat & Portal pentru Parteneri'
-      description: 'Un manager personal de distribuitor plus acces la liste de prețuri, statusul comenzilor și resurse de marketing prin portalul de parteneri Afarer.'
+      description: 'Un manager personal de distribuitor plus acces la liste de prețuri, statusul comenzilor și resurse de marketing prin portalul de parteneri OLagoon.'
       icon: 'tabler:user-check'
 table:
   title: 'Niveluri de Parteneriat, MOQ & Condiții de Comandă'
@@ -83,14 +83,14 @@ faqs:
   subtitle: 'Întrebările pe care partenerii serioși de țară le pun înainte de a aplica.'
   items:
     - title: 'Ce înseamnă cu adevărat o țară — un distribuitor?'
-      description: 'Afarer numește un singur distribuitor autorizat cu drepturi exclusive pentru un teritoriu definit. Nu vindem pe o țară protejată prin canalele noastre globale sau regionale. Deținerea teritoriului durează atâta timp cât Acordul de Distribuție este respectat.'
+      description: 'OLagoon numește un singur distribuitor autorizat cu drepturi exclusive pentru un teritoriu definit. Nu vindem pe o țară protejată prin canalele noastre globale sau regionale. Deținerea teritoriului durează atâta timp cât Acordul de Distribuție este respectat.'
     - title: 'Teritoriul este exclusiv pentru totdeauna?'
       description: 'Nu. Exclusivitatea este condiționată, nu perpetuă. Ea este menținută printr-un Acord de Distribuție semnat, finalizarea primei comenzi, ținte anuale de achiziție, stoc local, capacitate post-vânzare și investiție continuă în piață. Dacă acestea nu sunt îndeplinite, teritoriul poate fi renegociat sau reatribuit.'
     - title: 'Care este comanda minimă inițială?'
       description: 'Distribuitorii de țară și regionali încep de la 100–300 unități; dealerii autorizați de la 30–50 unități; comenzile de test de la 10–30 unități vă permit să validați mai întâi piața (comenzile de test și de probă nu au protecție teritorială). Programele custom și private label urmează MOQ-uri separate, listate în nivelurile de mai sus.'
     - title: 'Ce sprijin include programul cu 10 module?'
       description: 'Niveluri și calificare, protecția teritoriului, MOQ / prețuri / bonusuri anuale, managementul stocului și execuția comenzilor, materiale de marketing și fonduri comune de piață, instruire de produs / vânzări / tehnică, piese de schimb și service post-vânzare, înregistrarea garanțiilor, portalul pentru parteneri, plus fișe tehnice de produs, bibliotecă de materiale de marketing, calendar de bonusuri anuale și liste de expediere și ambalare.'
-    - title: 'Cum mă protejează Afarer de conflictele de canal?'
+    - title: 'Cum mă protejează OLagoon de conflictele de canal?'
       description: 'Fiecare teritoriu are exact un distribuitor autorizat. Solicitările și comenzile directe din regiunea dumneavoastră sunt direcționate prin dumneavoastră, formularele de pe site sunt redirecționate către partenerul local unde acesta există, iar echipa globală intervine doar când un partener nu răspunde.'
     - title: 'Care sunt condițiile de expediere și plată?'
       description: 'Comenzile se expediază FOB Qingdao cu documentație completă de export. Comenzile de producție au 30% avans și 70% înainte de expediere; comenzile de test și de probă sunt preplătite. Termenul standard de livrare este de 30–45 zile lucrătoare, cu 15–20 zile lucrătoare pentru seriile de probă.'
@@ -98,7 +98,7 @@ faqs:
       description: 'Trimiteți cererea dumneavoastră prin formularul de contact cu detalii despre piață. Evaluăm potrivirea cu piața, prezența în retail și capacitatea logistică, apoi răspundem în termen de 3 zile lucrătoare cu următorii pași și un model de Acord de Distribuție.'
 cta:
   title: 'Dețineți piața dumneavoastră.'
-  subtitle: 'Aplicați pentru Parteneriatul de Țară Afarer și primiți un răspuns în termen de 3 zile lucrătoare.'
+  subtitle: 'Aplicați pentru Parteneriatul de Țară OLagoon și primiți un răspuns în termen de 3 zile lucrătoare.'
   actions:
     - text: 'Aplicați pentru Parteneriat de Țară'
       href: /contact/?subject=Country Partnership Application
@@ -108,7 +108,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'Cu Cine Colaborăm'
-  sentence: 'Afarer colaborează cu distribuitori consacrați din industria marină, outdoor și sport care deservesc lanțuri de retail, flote de închiriere, școli de sporturi acvatice, resorturi și cumpărători guvernamentali cu plăci SUP gonflabile premium și echipamente acvatice — și care se angajează să dezvolte brandul Afarer în țara lor.'
+  sentence: 'OLagoon colaborează cu distribuitori consacrați din industria marină, outdoor și sport care deservesc lanțuri de retail, flote de închiriere, școli de sporturi acvatice, resorturi și cumpărători guvernamentali cu plăci SUP gonflabile premium și echipamente acvatice — și care se angajează să dezvolte brandul OLagoon în țara lor.'
   audiences:
     - 'Distribuitori de Sporturi Marine & Paddle'
     - 'Retail Outdoor & Sport'

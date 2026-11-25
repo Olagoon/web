@@ -2,7 +2,7 @@ module.exports = {
   about: {
     title: 'Despre noi — Producător de plăci de SUP gonflabile și bărci | {SITE}',
     description:
-      'afarer este un producător profesionist de plăci de SUP gonflabile și bărci, cu fabrică proprie, inginerie navală și producție OEM/ODM. Descoperiți fabrica noastră certificată și soluțiile nautice pentru mărci și companii.',
+      'olagoon este un producător profesionist de plăci de SUP gonflabile și bărci, cu fabrică proprie, inginerie navală și producție OEM/ODM. Descoperiți fabrica noastră certificată și soluțiile nautice pentru mărci și companii.',
     keywords: [
       'producător plăci de SUP gonflabile',
       'producător de bărci gonflabile',
@@ -23,7 +23,7 @@ module.exports = {
       'lecții SUP',
     ],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Povestea noastră — Producător de plăci de SUP gonflabile și bărci | {SITE}',
     description:
       'De la un atelier de coastă la un producător global de bărci: povestea afar despre inginerie și libertate pe apă, cu o fabrică certificată de 12.000 m².',
@@ -32,7 +32,7 @@ module.exports = {
   'brand-global-presence': {
     title: 'Prezență globală — producător SUP în peste 50 de țări | {SITE}',
     description:
-      'afarer exportă plăci de SUP gonflabile și bărci în peste 50 de țări de pe toate continentele. Producător și furnizor profesionist pentru mărci, distribuitori și flote.',
+      'olagoon exportă plăci de SUP gonflabile și bărci în peste 50 de țări de pe toate continentele. Producător și furnizor profesionist pentru mărci, distribuitori și flote.',
     keywords: ['producător global SUP', 'exportator paddle board', 'fabrica SUP China', 'furnizor profesionist SUP'],
   },
   'brand-marine-expertise': {
@@ -52,7 +52,7 @@ module.exports = {
       'Fondat în 2012 la Qingdao, afar a fost construit de ingineri navali, specialiști în materiale și pasionați de sporturi nautice. Cunoașteți echipa din spatele fabricii.',
     keywords: ['echipa afar', 'ingineri navali', 'producător plăci de SUP gonflabile', 'echipa fabricii SUP'],
   },
-  'brand-why-afarer': {
+  'brand-why-olagoon': {
     title: 'De ce afar — 7 motive pentru care mărcile globale ne aleg | {SITE}',
     description:
       'De ce aleg mărcile globale pe afar: certificări CE și ISO, MOQ flexibil, forme personalizate și termen de livrare de 30 de zile dintr-o fabrică profesionistă de SUP.',

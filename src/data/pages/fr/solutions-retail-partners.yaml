@@ -1,6 +1,6 @@
 meta:
   title: 'Revendeurs — SUP Marque Privée | {SITE}'
-  description: 'Devenez partenaire de vente afarer : gamme complète, supports marketing, dropshipping et marges compétitives. SUP gonflables en marque privée pour détaillants.'
+  description: 'Devenez partenaire de vente olagoon : gamme complète, supports marketing, dropshipping et marges compétitives. SUP gonflables en marque privée pour détaillants.'
   keywords:
     - 'fournisseur paddle détaillant'
     - 'SUP marque privée'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Partenaires de vente au détail
   title: Vendez des SUP Gonflables Premium<br />Avec des Marges Qui Fonctionnent
-  subtitle: Devenez partenaire de vente afarer — proposez la marque SUP qui connaît la croissance la plus rapide avec des prix de gros complets, dropshipping, supports marketing professionnels et assistance dédiée.
+  subtitle: Devenez partenaire de vente olagoon — proposez la marque SUP qui connaît la croissance la plus rapide avec des prix de gros complets, dropshipping, supports marketing professionnels et assistance dédiée.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Planches SUP Afarer exposées dans un magasin de détail
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Planches SUP OLagoon exposées dans un magasin de détail
 margin_section:
   title: Marges de Détail et MOQ
   subtitle: Niveaux de prix de gros conçus pour la rentabilité du détail.
@@ -91,7 +91,7 @@ support:
     - Option dropshipping disponible — aucun risque de stock
     - Conditions de paiement Net 30
 cta:
-  title: Prêt à devenir partenaire de vente au détail Afarer ?
+  title: Prêt à devenir partenaire de vente au détail OLagoon ?
   subtitle: Postulez pour un partenariat ou téléchargez notre catalogue de vente.
   actions:
     - text: Postuler comme Partenaire

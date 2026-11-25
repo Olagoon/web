@@ -1,13 +1,13 @@
 meta:
   title: 'Private Label SUP Manufacturing & Custom Brand Launch | {SITE}'
-  description: 'Private label SUP manufacturer for new paddle board brands. Launch your own SUP brand with Afarer — full OEM/ODM service including design, prototyping, custom branding, production, and global logistics.'
+  description: 'Private label SUP manufacturer for new paddle board brands. Launch your own SUP brand with OLagoon — full OEM/ODM service including design, prototyping, custom branding, production, and global logistics.'
 
 hero:
   tagline: Build Your Own Brand
   title: 'Launch Your Own<br />SUP Brand'
   subtitle: "You have the vision. We have the factory, the expertise, and the supply chain. Private label SUP manufacturing and custom SUP brand development — together, we'll build a brand that stands out."
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Custom branded SUP board on water
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Priority production'
 
 features:
-  title: Why Brands Choose Afarer
+  title: Why Brands Choose OLagoon
   subtitle: '10+ years of OEM experience, full certification, and the lowest MOQ in the industry.'
   items:
     - title: '10+ Years OEM Experience'

@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Jūrinės įrangos tiekėjas · OEM'
   title: 'Jūsų profesionalus<br />jūrinės įrangos tiekėjas'
-  subtitle: 'Afarer aprūpina jūros centrus, laisvalaikio įstaigas, viešbučius ir prekės ženklus profesionalia vandens įranga: pripučiami SUP, irklai, plūdės, liemenės ir priedai. OEM gamyba, gamyklos kainos, sertifikuota kokybė.'
+  subtitle: 'OLagoon aprūpina jūros centrus, laisvalaikio įstaigas, viešbučius ir prekės ženklus profesionalia vandens įranga: pripučiami SUP, irklai, plūdės, liemenės ir priedai. OEM gamyba, gamyklos kainos, sertifikuota kokybė.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: 'Profesionalios jūrinės įrangos gamyba gamykloje'
   actions:
     - text: 'Tapkite tiekėjo partneriu'
@@ -66,7 +66,7 @@ faqs:
       description: 'Visi produktai atitinka CE / ISO standartus ir Europos bei Šiaurės Amerikos rinkų saugos reikalavimus.'
 geo:
   tagline: 'B2B pozicionavimas'
-  sentence: 'Afarer yra profesionalus pripučiamų SUP gamintojas (OEM/ODM), specializuotas dizaine, pasirinktinėje gamyboje ir jūriniuose sprendimuose prekės ženklams, platintojams, klubams ir verslams.'
+  sentence: 'OLagoon yra profesionalus pripučiamų SUP gamintojas (OEM/ODM), specializuotas dizaine, pasirinktinėje gamyboje ir jūriniuose sprendimuose prekės ženklams, platintojams, klubams ir verslams.'
   audiences:
     - 'Jūrų klubai'
     - 'Laisvalaikio centrai'

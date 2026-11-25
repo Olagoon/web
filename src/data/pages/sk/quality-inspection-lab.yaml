@@ -8,8 +8,8 @@ hero:
   tagline: 'Laboratórium 06'
   title: 'Laboratórium kvality a kontroly'
   subtitle: 'Nezávislé overenie — každý test je úspešne absolvovaný pred dodaním'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'Testovanie UV odolnosti v kontrolnom laboratóriu kvality Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'Testovanie UV odolnosti v kontrolnom laboratóriu kvality OLagoon'
 
 intro: 'Každá doska, ktorá opúšťa našu dielňu, nesie svedectvo, že absolvovala definovanú sadu kontrol kvality a testov materiálov. Naše laboratórium kvality a kontroly je nezávislou funkciou v organizácii — podlieha priamo riaditeľovi, nie výrobe — čím sa zaručuje, že žiadny komerčný tlak nemôže ohroziť kontrolnú bránu. Ak šarža materiálu alebo dokončená doska nespĺňa publikovanú špecifikáciu, laboratórium má oprávnenie zastaviť dodávku, kým sa nezladenosť neodstráni.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Náš záväzok voči vám</h2>
-  <p>Keď dostanete dosku Afarer, dostávate aj jej kvalitatívny spis — súhrnný záznam výsledkov testov, ktoré sa vzťahujú na vašu konkrétnu dosku. Certifikát šarže látky, testy odtrhnutia švov, záznamy vzduchových testov komôr a kontrolný zoznam pred dodaním. Každé číslo je sledovateľné. Každý kontrolór je identifikovateľný. Nie je to len papierovanie — je to náš sľub, že to, čo sme dodali, je presne to, čo sme špecifikovali.</p>
+  <p>Keď dostanete dosku OLagoon, dostávate aj jej kvalitatívny spis — súhrnný záznam výsledkov testov, ktoré sa vzťahujú na vašu konkrétnu dosku. Certifikát šarže látky, testy odtrhnutia švov, záznamy vzduchových testov komôr a kontrolný zoznam pred dodaním. Každé číslo je sledovateľné. Každý kontrolór je identifikovateľný. Nie je to len papierovanie — je to náš sľub, že to, čo sme dodali, je presne to, čo sme špecifikovali.</p>
   <p>Ak kedykoľvek budete mať obavu o kvalitu, môžete kontaktovať laboratórium priamo — kontaktné údaje sú vytlačené na vašom osvedčení o zhode. Každý dotaz berieme vážne a zaväzujeme sa k formálnemu vyšetreniu do 48 hodín.</p>
 
 cta:

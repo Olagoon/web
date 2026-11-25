@@ -1,6 +1,6 @@
 meta:
   title: 'Partnerzy — dystrybucja i hurt | {SITE}'
-  description: 'Zostań partnerem afarera: sieci dystrybucyjne, ceny hurtowe, programy OEM/private label i wsparcie dla firm paddleboardowych na całym świecie.'
+  description: 'Zostań partnerem olagoona: sieci dystrybucyjne, ceny hurtowe, programy OEM/private label i wsparcie dla firm paddleboardowych na całym świecie.'
   keywords:
     - 'partner dystrybucyjny SUP'
     - 'paddle board hurtowo'
@@ -8,15 +8,15 @@ meta:
     - 'partnerstwo SUP'
 hero:
   tagline: Partnerzy i dystrybucja
-  title: Zostań partnerem afarer<br />— globalna sieć dystrybucji
-  subtitle: Dołącz do globalnej sieci partnerów afarera. Współpracujemy z dystrybutorami morskimi, dealerami sportów wiosłowych, detalistami sprzętu i partnerami marek w ponad 50 krajach.
+  title: Zostań partnerem olagoon<br />— globalna sieć dystrybucji
+  subtitle: Dołącz do globalnej sieci partnerów olagoona. Współpracujemy z dystrybutorami morskimi, dealerami sportów wiosłowych, detalistami sprzętu i partnerami marek w ponad 50 krajach.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: globalna sieć partnerów i dystrybutorów afarer
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: globalna sieć partnerów i dystrybutorów olagoon
 content_programs:
   tagline: Programy partnerskie
   title: Programy partnerskie<br />stworzone dla wzrostu
-  subtitle: Niezależnie od tego, czy jesteś dystrybutorem, dealerem czy partnerem marki, afarer oferuje programy zaprojektowane, aby wspierać Twój biznes.
+  subtitle: Niezależnie od tego, czy jesteś dystrybutorem, dealerem czy partnerem marki, olagoon oferuje programy zaprojektowane, aby wspierać Twój biznes.
   columns: 3
   items:
     - title: Program dystrybutora
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: Dlaczego współpracować z nami
-  title: Dlaczego partnerzy wybierają afarer
+  title: Dlaczego partnerzy wybierają olagoon
   subtitle: Nasi partnerzy korzystają z rzeczywistych zdolności produkcyjnych, stałej jakości i szybkiego wsparcia.
   list:
     - 'Bezpośredni dostęp do fabryki: Współpracuj bezpośrednio z naszym zespołem produkcyjnym — bez pośredników. Otrzymuj szybsze odpowiedzi, lepsze ceny i pełną kontrolę nad produkcją.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: Jak zostać partnerem
   title: Prosty proces partnerski
-  subtitle: Nasz proces partnerski jest prosty — zaprojektowany, aby szybko zacząć sprzedawać produkty afarer.
+  subtitle: Nasz proces partnerski jest prosty — zaprojektowany, aby szybko zacząć sprzedawać produkty olagoon.
   items:
     - title: 'Krok 1: Złóż wniosek'
       description: Wypełnij nasz formularz zgłoszeniowy partnera, podając profil firmy, rynek docelowy i zainteresowania produktowe.
@@ -62,7 +62,7 @@ content_process:
     - title: 'Krok 4: Szkolenie i uruchomienie'
       description: Szkolenie produktowe, wsparcie sprzedaży i materiały marketingowe zapewnione. Jesteś gotowy, aby rozpocząć sprzedaż.
 cta:
-  title: Gotowy, aby zostać partnerem afarer?
+  title: Gotowy, aby zostać partnerem olagoon?
   subtitle: Złóż wniosek o partnerstwo, a nasz zespół odpowie w ciągu 3 dni roboczych.
   actions:
     - variant: primary

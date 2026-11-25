@@ -1,6 +1,6 @@
 meta:
   title: Kapcsolat — Partnerségi és termékmegkeresések | {SITE}
-  description: Vegye fel a kapcsolatot az afarertel partnershipség, co-brand és saját márkás megkeresések vagy professzionális flották ügyében. Felfújható SUP márka, 2 munkanapon belül válaszolunk.
+  description: Vegye fel a kapcsolatot az olagoontel partnershipség, co-brand és saját márkás megkeresések vagy professzionális flották ügyében. Felfújható SUP márka, 2 munkanapon belül válaszolunk.
   keywords:
     - sup forgalmazói árajánlat
     - professzionális sup beszállító
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Küldjön üzenetet
   subtitle: Árajánlatok, műszaki kérdések vagy partnerségi megkeresések esetén írjon nekünk. Egy munkanapon belül válaszolunk.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Megkeresés küldése → Árajánlat kérése
   success_message: Köszönjük! Üzenete megérkezett a postaládánkba. Egy munkanapon belül válaszolunk.
   error_message: Hiba történt az üzenet küldése közben. Kérjük, próbálja újra, vagy írjon nekünk közvetlenül e-mailben.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-mail
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Székhely
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

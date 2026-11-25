@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const dir = 'E:/github/afarer/src/data/site';
+const dir = 'E:/github/olagoon/src/data/site';
 const files = [
   'content-v2.he.yaml',
   'learning-center.he.yaml',

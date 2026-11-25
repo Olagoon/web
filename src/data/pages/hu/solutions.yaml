@@ -1,6 +1,6 @@
 meta:
   title: 'Üzleti megoldások — SUP minden vállalkozásnak | {SITE}'
-  description: 'afarer üzleti megoldások: SUP flották üdülőknek, kluboknak, kölcsönzőknek, disztribúcióhoz és saját márkákhoz. Professionális tengeri felszerelés beszállító B2B számára.'
+  description: 'olagoon üzleti megoldások: SUP flották üdülőknek, kluboknak, kölcsönzőknek, disztribúcióhoz és saját márkákhoz. Professionális tengeri felszerelés beszállító B2B számára.'
   keywords:
     - 'sup üzleti megoldások'
     - 'felfújható paddle lap beszállító'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Üzleti megoldások'
   title: 'SUP megoldások<br />minden vállalkozásnak'
-  subtitle: 'Üdülőktől a kiskereskedelemig, bérlési üzemeltetőktől a globális forgalmazókig — az Afarer teljes SUP megoldásokat kínál az Ön üzleti modelljére szabva.'
+  subtitle: 'Üdülőktől a kiskereskedelemig, bérlési üzemeltetőktől a globális forgalmazókig — az OLagoon teljes SUP megoldásokat kínál az Ön üzleti modelljére szabva.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Afarer SUP lapok üzleti és professzionális alkalmazásokhoz
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: OLagoon SUP lapok üzleti és professzionális alkalmazásokhoz
 stats:
-  title: 'Az Afarer röviden'
+  title: 'Az OLagoon röviden'
   stats:
     - title: 'Év tapasztalat'
       amount: '2012 óta'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Építse saját márkáját'
-      description: 'Végpontok közötti OEM/ODM SUP gyártás — tervezés, prototípusgyártás, tömeggyártás és logisztika. Indítsa el márkáját az Afarerrel.'
+      description: 'Végpontok közötti OEM/ODM SUP gyártás — tervezés, prototípusgyártás, tömeggyártás és logisztika. Indítsa el márkáját az OLagoonrel.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

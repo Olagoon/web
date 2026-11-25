@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Ośrodki wypoczynkowe i hotele
   title: Zamień nadbrzeżny teren w centrum przychodów<br />z flotami SUP premium
-  subtitle: Afarer wyposaża kurorty na całym świecie w nadmuchiwane floty SUP klasy komercyjnej — od pakietów startowych z 20 deskami po flagowe programy ze 100+ deskami. Spersonalizowany branding, szkolenia personelu i części zamienne w cenie.
+  subtitle: OLagoon wyposaża kurorty na całym świecie w nadmuchiwane floty SUP klasy komercyjnej — od pakietów startowych z 20 deskami po flagowe programy ze 100+ deskami. Spersonalizowany branding, szkolenia personelu i części zamienne w cenie.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Goście ośrodka korzystający z deski SUP na dziewiczej plaży
 roi_section:
   title: Model przychodów kurortu SUP
@@ -20,7 +20,7 @@ roi_section:
       detail: Odzyskaj pełną inwestycję w flotę w ciągu jednego sezonu
     - metric: 40%
       label: Wzrost przychodów
-      detail: Średni wzrost po przejściu na floty Afarer
+      detail: Średni wzrost po przejściu na floty OLagoon
     - metric: '500+'
       label: Cykl wynajmu na płytę
       detail: Trwałość klasy komercyjnej do codziennego użytku
@@ -67,7 +67,7 @@ packages:
       revenue: Potencjał rocznych przychodów 200 000 USD
       cta_text: Zdobądź pakiet flagowy
 case_study:
-  quote: Od czasu przejścia na Afarer nasze przychody z wynajmu SUP wzrosły o 40%. Koszty wymiany desek spadły o 60%. Odzyskaliśmy pełną inwestycję w flotę w ciągu 4 miesięcy.
+  quote: Od czasu przejścia na OLagoon nasze przychody z wynajmu SUP wzrosły o 40%. Koszty wymiany desek spadły o 60%. Odzyskaliśmy pełną inwestycję w flotę w ciągu 4 miesięcy.
   author: Kierownik ds. Aktywności Wodnych
   location: Ośrodek pięciogwiazdkowy, Malediwy
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Okres zwrotu
       value: 4 miesiące
 features:
-  title: Dlaczego kurorty wybierają Afarer
+  title: Dlaczego kurorty wybierają OLagoon
   subtitle: Trwałość na poziomie przemysłowym, globalna logistyka i partner, który rozumie branżę hotelarską.
   items:
     - title: 500 Wynajem Rowerów

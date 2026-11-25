@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const dir = __dirname;
-const OUT = 'E:/github/afarer/src/data/site/evidence-body';
+const OUT = 'E:/github/olagoon/src/data/site/evidence-body';
 const LOCALES = ['es', 'it', 'ja', 'ko', 'pt', 'ru'];
 
 fs.mkdirSync(OUT, { recursive: true });
@@ -45,7 +45,7 @@ for (const loc of LOCALES) {
     const d = draft[slug];
     const title = meta[slug].title;
     const client = title.slice(0, title.indexOf(' \u2014 '));
-    const product = title.slice(title.indexOf(' \u2014 ') + 3, title.length - ' | Afarer'.length);
+    const product = title.slice(title.indexOf(' \u2014 ') + 3, title.length - ' | OLagoon'.length);
     const entry = {
       client: client,
       product: product,

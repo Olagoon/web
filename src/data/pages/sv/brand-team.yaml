@@ -1,22 +1,22 @@
 meta:
   title: 'Vårt Team — Mariningenjörer & byggare | {SITE}'
-  description: 'Grundat 2012 i Qingdao byggdes afarer av mariningenjörer, materialspecialister och vattensportentusiaster. Möt teamet bakom fabriken.'
+  description: 'Grundat 2012 i Qingdao byggdes olagoon av mariningenjörer, materialspecialister och vattensportentusiaster. Möt teamet bakom fabriken.'
   keywords:
-    - 'afarer team'
+    - 'olagoon team'
     - 'mariningenjörer'
     - 'tillverkare av uppblåsbara SUP'
     - 'SUP-fabriksteam'
 hero:
   tagline: Vårt team
-  title: Människorna bakom afarer<br />— Konstruktionsfrihet på vattnet
-  subtitle: Grundat 2012 i Qingdao, Kina, byggdes afarer av mariningenjörer, materialvetare och vattensportentusiaster som trodde på att göra professionella uppblåsbara vattenfarkoster tillgängliga över hela världen.
+  title: Människorna bakom olagoon<br />— Konstruktionsfrihet på vattnet
+  subtitle: Grundat 2012 i Qingdao, Kina, byggdes olagoon av mariningenjörer, materialvetare och vattensportentusiaster som trodde på att göra professionella uppblåsbara vattenfarkoster tillgängliga över hela världen.
   image:
     src: /images/team-all.webp
-    alt: afarer helteamfoto — teknik, produktion och ledning
+    alt: olagoon helteamfoto — teknik, produktion och ledning
 founding:
   tagline: Vår grundande
   title: Från en kustverkstad<br />till en 12 000 m² anläggning
-  subtitle: afarer grundades av ett team mariningenjörer med årtionden av kombinerad erfarenhet inom design av uppblåsbara SUP:ar, PVC-tillverkning och global marin utrustningstillverkning.
+  subtitle: olagoon grundades av ett team mariningenjörer med årtionden av kombinerad erfarenhet inom design av uppblåsbara SUP:ar, PVC-tillverkning och global marin utrustningstillverkning.
   items:
     - title: 'Grundat: 2012'
       description: Grundat i Qingdao, Kina — en stor maritim knutpunkt med ett djupt skeppsbyggnadsarv.
@@ -40,7 +40,7 @@ leadership:
       name: Toby Liu
       description: Över 15 år inom marintillverkning. Tidigare ledde forskning och utveckling vid en stor kinesisk paddelsportstillverkare. Innehaver flera patent inom design av uppblåsbara SUP:ar.
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: Chefingenjör
       name: Zhang Wei
       description: 20+ års erfarenhet av PVC-tillverkning och drop-stitch-design. Tidigare teknisk direktör vid ett europeiskt paddelsportsvarumärke.
@@ -65,13 +65,13 @@ leadership:
       name: Helen Lee
       description: 15+ år i internationell B2B-handel. Hanterat co-brand- och distributionspartnerskap i över 30 länder. Flytande i 4 språk.
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: Designfilosofi
   title: Ingenjörs-ledd design<br />— varje detalj räknas
   subtitle: Vår ingenjörsfilosofi centreras kring tre principer som vägleder varje produkt vi bygger.
   list:
-    - 'Pålitlighet först: Varje afarer-produkt testas för att klara verklighetsförhållanden — från kallvattenräddningsoperationer till tropiska resortuthyrningar. Vi överkonstruerar där det är viktigast.'
+    - 'Pålitlighet först: Varje olagoon-produkt testas för att klara verklighetsförhållanden — från kallvattenräddningsoperationer till tropiska resortuthyrningar. Vi överkonstruerar där det är viktigast.'
     - 'Tillverkningsprecision: Våra anläggningar använder CNC-skärning, högfrekvenssvetsning och automatiserad tryckprovning. Varje söm, varje ventil, varje koppling uppfyller dokumenterade specifikationer.'
     - 'Kontinuerlig innovation: Vårt FoU-team utvärderar kontinuerligt nya material, produktionsmetoder och designförbättringar. Vi väntar inte på problem — vi förebygger dem.'
 cta:

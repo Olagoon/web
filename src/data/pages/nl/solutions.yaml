@@ -1,6 +1,6 @@
 meta:
   title: 'Business Solutions — SUP voor Elk Bedrijf | {SITE}'
-  description: 'afarer business solutions: SUP-vloten voor resorts, clubs, verhuur, distributie en private labels. Professionele leverancier van nautische uitrusting voor B2B.'
+  description: 'olagoon business solutions: SUP-vloten voor resorts, clubs, verhuur, distributie en private labels. Professionele leverancier van nautische uitrusting voor B2B.'
   keywords:
     - 'SUP business solutions'
     - 'leverancier opblaasbare paddle boards'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Zakelijke oplossingen
   title: SUP-oplossingen<br />Voor Elk Bedrijf
-  subtitle: Van resorts tot detailhandel, verhuurders tot wereldwijde distributeurs — Afarer biedt complete SUP-oplossingen die zijn afgestemd op uw bedrijfsmodel.
+  subtitle: Van resorts tot detailhandel, verhuurders tot wereldwijde distributeurs — OLagoon biedt complete SUP-oplossingen die zijn afgestemd op uw bedrijfsmodel.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Afarer SUP-boards voor zakelijke en professionele toepassingen
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: OLagoon SUP-boards voor zakelijke en professionele toepassingen
 stats:
-  title: Afarer in één oogopslag
+  title: OLagoon in één oogopslag
   stats:
     - title: Jaren Ervaring
       amount: Sinds 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Bouw je eigen merk
-      description: End-to-end OEM/ODM SUP-productie — ontwerp, prototyping, massaproductie en logistiek. Lanceer uw merk met Afarer.
+      description: End-to-end OEM/ODM SUP-productie — ontwerp, prototyping, massaproductie en logistiek. Lanceer uw merk met OLagoon.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

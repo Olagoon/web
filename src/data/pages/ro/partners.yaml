@@ -1,6 +1,6 @@
 meta:
   title: 'Parteneri — distribuție și en-gros | {SITE}'
-  description: 'Deveniți partener afarer: rețele de distribuție, prețuri en-gros, programe OEM/cu marcă proprie și suport pentru companiile de paddle board din întreaga lume.'
+  description: 'Deveniți partener olagoon: rețele de distribuție, prețuri en-gros, programe OEM/cu marcă proprie și suport pentru companiile de paddle board din întreaga lume.'
   keywords:
     - 'partener de distribuție SUP'
     - 'paddle board en-gros'
@@ -8,15 +8,15 @@ meta:
     - 'parteneriat SUP'
 hero:
   tagline: Parteneri și distribuție
-  title: Deveniți partener afarer<br />— rețea globală de distribuție
-  subtitle: Alăturați-vă rețelei globale de parteneri afarer. Colaborăm cu distribuitori marini, dealeri de sporturi cu paddle, retaileri de echipamente și parteneri de brand din peste 50 de țări.
+  title: Deveniți partener olagoon<br />— rețea globală de distribuție
+  subtitle: Alăturați-vă rețelei globale de parteneri olagoon. Colaborăm cu distribuitori marini, dealeri de sporturi cu paddle, retaileri de echipamente și parteneri de brand din peste 50 de țări.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: rețeaua globală de parteneri și distribuitori afarer
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: rețeaua globală de parteneri și distribuitori olagoon
 content_programs:
   tagline: Programe pentru parteneri
   title: Programe partenere<br />create pentru creștere
-  subtitle: Indiferent dacă sunteți distribuitor, dealer sau partener de marcă, afarer oferă programe concepute pentru a vă sprijini afacerea.
+  subtitle: Indiferent dacă sunteți distribuitor, dealer sau partener de marcă, olagoon oferă programe concepute pentru a vă sprijini afacerea.
   columns: 3
   items:
     - title: Program pentru distribuitori
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: De Ce Să Deveniți Partener
-  title: De ce partenerii aleg afarer
+  title: De ce partenerii aleg olagoon
   subtitle: Partenerii noștri beneficiază de capacități reale de producție, calitate constantă și suport receptiv.
   list:
     - 'Acces direct la fabrică: lucrați direct cu echipa noastră de producție — fără intermediari. Beneficiați de răspunsuri mai rapide, prețuri mai bune și vizibilitate completă asupra procesului de producție.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: Cum deveniți partener
   title: Proces simplu de parteneriat
-  subtitle: Procesul nostru de parteneriat este simplu — conceput pentru a vă face să vindeți produse afarer rapid.
+  subtitle: Procesul nostru de parteneriat este simplu — conceput pentru a vă face să vindeți produse olagoon rapid.
   items:
     - title: 'Pasul 1: Trimiteți cererea'
       description: Completați formularul nostru de cerere de parteneriat cu profilul companiei dvs., piața țintă și interesele privind produsele.
@@ -62,7 +62,7 @@ content_process:
     - title: 'Pasul 4: Instruire și lansare'
       description: Oferim instruire privind produsul, suport de vânzări și materiale de marketing. Sunteți gata să începeți vânzările.
 cta:
-  title: Sunteți gata să deveniți partener afarer?
+  title: Sunteți gata să deveniți partener olagoon?
   subtitle: Aplicați pentru parteneriat și echipa noastră va răspunde în termen de 3 zile lucrătoare.
   actions:
     - variant: primary

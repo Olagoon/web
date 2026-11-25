@@ -1,10 +1,10 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require(path.join('E:', 'github', 'afarer', 'node_modules', 'js-yaml'));
+const yaml = require(path.join('E:', 'github', 'olagoon', 'node_modules', 'js-yaml'));
 
 const base = __dirname;
 const partsDir = path.join(base, 'parts');
-const outFile = path.join('E:', 'github', 'afarer', 'src', 'data', 'biz-solutions', 'translations', 'he.ts');
+const outFile = path.join('E:', 'github', 'olagoon', 'src', 'data', 'biz-solutions', 'translations', 'he.ts');
 
 const expectedSlugs = [
   'sup-brand-startup',

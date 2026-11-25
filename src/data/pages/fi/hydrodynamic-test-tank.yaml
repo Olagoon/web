@@ -7,11 +7,11 @@ hero:
   tagline: Laboratorio 04
   title: Dynaaminen testiallas
   subtitle: Suorituskyvyn vahvistus ennen ensimmäistä täysmittakaavan prototyyppiä
-  image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
-  image_alt: Afarerin hydrodynaamisen testi altaan suorituskykytestaus
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
+  image_alt: OLagoonin hydrodynaamisen testi altaan suorituskykytestaus
 intro: >-
   Yleinen väärinkäsitys on, että hydrodynaaminen testaus kuuluu vain valtamerilaivoille. Todellisuudessa pienen liukurungon — kuten täytettävän SUP-laudan — suorituskyky riippuu vedenalaisesta muodosta yhtä paljon kuin tankkerin suorituskyky riippuu sen sipulikeulasta. Trim-kulma, märkäpinta-ala,
-  roiskeiden syntyminen ja ilmanotto vaikuttavat dramaattisesti nopeuteen, polttoaineenkulutukseen ja ajomukavuuteen. Afarer:llä on käytössään erillinen hydrodynaaminen testausallas, jonka avulla voimme mitata nämä vaikutukset mallimittakaavassa — ennen kuin sitoudumme metalliin ja kankaaseen
+  roiskeiden syntyminen ja ilmanotto vaikuttavat dramaattisesti nopeuteen, polttoaineenkulutukseen ja ajomukavuuteen. OLagoon:llä on käytössään erillinen hydrodynaaminen testausallas, jonka avulla voimme mitata nämä vaikutukset mallimittakaavassa — ennen kuin sitoudumme metalliin ja kankaaseen
   täysikokoisessa prototyypissä.
 content_html: >
   <h2>Miksi tank-testata SUP-lautaa?</h2>

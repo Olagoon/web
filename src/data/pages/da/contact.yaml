@@ -1,8 +1,8 @@
 meta:
   title: 'Kontakt — Partnerskabs- & produkthenvendelser | {SITE}'
-  description: 'Kontakt afarer for partnerskab-, co-brand- og private label-henvendelser eller professionelle flåder. Producent af oppustelige SUP-brædder, vi svarer inden for 2 arbejdsdage.'
+  description: 'Kontakt olagoon for partnerskab-, co-brand- og private label-henvendelser eller professionelle flåder. Producent af oppustelige SUP-brædder, vi svarer inden for 2 arbejdsdage.'
   keywords:
-    - 'kontakt afarer'
+    - 'kontakt olagoon'
     - 'SUP distributør tilbud'
     - 'professionel SUP-leverandør'
     - 'kontakt SUP-producent'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Send os en besked
   subtitle: Tilbud, tekniske spørgsmål eller partnerskabshenvendelser — skriv til os. Vi svarer inden for én arbejdsdag.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Send forespørgsel → Få et tilbud
   success_message: Tak! Din besked er landet i vores indbakke. Vi svarer inden for én arbejdsdag.
   error_message: Noget gik galt ved afsendelse af din besked. Prøv igen eller send os en e-mail direkte.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-mail
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Hovedkontor
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

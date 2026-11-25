@@ -1,6 +1,6 @@
 meta:
   title: 'Partnerji — distribucija in prodaja na debelo | {SITE}'
-  description: 'Postanite partner afarer: distribucijska omrežja, cene na debelo, programi OEM/zasebnih znamk in podpora podjetjem za deske za veslanje po vsem svetu.'
+  description: 'Postanite partner olagoon: distribucijska omrežja, cene na debelo, programi OEM/zasebnih znamk in podpora podjetjem za deske za veslanje po vsem svetu.'
   keywords:
     - 'distribucijski partner sup'
     - 'prodaja desk za veslanje na debelo'
@@ -8,15 +8,15 @@ meta:
     - 'partnerstvo sup'
 hero:
   tagline: 'Partnerji in distribucija'
-  title: 'Postanite partner afarer<br />— globalno distribucijsko omrežje'
-  subtitle: 'Pridružite se globalnemu omrežju partnerjev afarer. Sodelujemo z pomorskimi distributerji, prodajalci veslaške opreme, trgovci z opremo in partnerji znamk v več kot 50 državah.'
+  title: 'Postanite partner olagoon<br />— globalno distribucijsko omrežje'
+  subtitle: 'Pridružite se globalnemu omrežju partnerjev olagoon. Sodelujemo z pomorskimi distributerji, prodajalci veslaške opreme, trgovci z opremo in partnerji znamk v več kot 50 državah.'
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: 'globalno omrežje partnerjev in distributerjev afarer'
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: 'globalno omrežje partnerjev in distributerjev olagoon'
 content_programs:
   tagline: 'Programi za partnerje'
   title: 'Programi za partnerje,<br />zgrajeni za rast'
-  subtitle: 'Ne glede na to, ali ste distributer, prodajalec ali partner znamke, afarer ponuja programe, zasnovane za podporo vašemu podjetju.'
+  subtitle: 'Ne glede na to, ali ste distributer, prodajalec ali partner znamke, olagoon ponuja programe, zasnovane za podporo vašemu podjetju.'
   columns: 3
   items:
     - title: 'Program za distributerje'
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: 'Zakaj partnerstvo z nami'
-  title: 'Zakaj partnerji izbirajo afarer'
+  title: 'Zakaj partnerji izbirajo olagoon'
   subtitle: 'Naši partnerji imajo koristi od prave proizvodne zmožnosti, dosledne kakovosti in odzivne podpore.'
   list:
     - 'Neposreden dostop do tovarne: delajte neposredno z našo proizvodno ekipo — brez posrednikov. Hitrejši odgovori, boljše cene in popoln vpogled v proizvodnjo.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: 'Kako postati partner'
   title: 'Preprost proces partnerstva'
-  subtitle: 'Naš proces partnerstva je preprost — zasnovan tako, da začnete prodajati izdelke afarer čim prej.'
+  subtitle: 'Naš proces partnerstva je preprost — zasnovan tako, da začnete prodajati izdelke olagoon čim prej.'
   items:
     - title: 'Korak 1: oddaja prijave'
       description: 'Izpolnite naš obrazec za prijavo partnerjev s profilom podjetja, ciljnim trgom in zanimanjem za izdelke.'
@@ -62,7 +62,7 @@ content_process:
     - title: 'Korak 4: usposabljanje in zagon'
       description: 'Usposabljanje o izdelkih, prodajna podpora in tržen material. Pripravljeni ste na začetek prodaje.'
 cta:
-  title: 'Pripravljeni postati partner afarer?'
+  title: 'Pripravljeni postati partner olagoon?'
   subtitle: 'Prijavite se na partnerstvo in naša ekipa bo odgovorila v 3 delovnih dneh.'
   actions:
     - variant: primary

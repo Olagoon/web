@@ -1,6 +1,6 @@
 meta:
   title: 'Pabrika at Paggawa ng Produkto — Inflatable SUP OEM | {SITE}'
-  description: 'Ilibot ang pabrika ng afarer: 12,000 m² na planta na may paggugupot, RF welding, pag-print, pagpupuwesto, at quality lab para sa OEM/ODM manufacturing ng inflatable SUP.'
+  description: 'Ilibot ang pabrika ng olagoon: 12,000 m² na planta na may paggugupot, RF welding, pag-print, pagpupuwesto, at quality lab para sa OEM/ODM manufacturing ng inflatable SUP.'
   keywords:
     - 'sup factory china'
     - 'pabrika ng inflatable paddle board'
@@ -12,7 +12,7 @@ hero:
   subtitle: '12,000 m² ng pinagsamang paggawa ng produkto — mula sa hilaw na materyal hanggang sa tapos na board'
 
 intro:
-  - 'Bilang produksyon na sangay ng **Aquafarer LLC**, kinokontrol ng Qingdao Operation Team ng afarer ang bawat yugto ng produksyon — mula sa pagdating ng hilaw na PVC at fiberglass na materyales hanggang sa huling pagsisiyasat bago mag-delivery ng tapos na board. Ang aming pasilidad ng paggawa sa Qingdao Economic Development Zone ay sumasaklaw sa 12,000 square metro at naglalaman ng mga nakalaang workshop para sa paggugupot ng PVC, tube heat sealing, paggawa ng FRP mould, digital printing ng SUP, huling pagpupuwesto, at pagsusuri ng kalidad.'
+  - 'Bilang produksyon na sangay ng **Olagoon LLC**, kinokontrol ng Qingdao Operation Team ng olagoon ang bawat yugto ng produksyon — mula sa pagdating ng hilaw na PVC at fiberglass na materyales hanggang sa huling pagsisiyasat bago mag-delivery ng tapos na board. Ang aming pasilidad ng paggawa sa Qingdao Economic Development Zone ay sumasaklaw sa 12,000 square metro at naglalaman ng mga nakalaang workshop para sa paggugupot ng PVC, tube heat sealing, paggawa ng FRP mould, digital printing ng SUP, huling pagpupuwesto, at pagsusuri ng kalidad.'
   - 'Sa pagsasama-sama ng disenyo, engineering, prototyping, paggawa ng produkto, at pagsubok sa iisang bubong, nasisiwalat namin ang mga kahinaan ng kontratang paggawa at pinapanatili ang direktang kontrol sa kalidad ng pagbuo, pagpili ng materyal, at iskedyul ng paghahatid. Ang bawat board na lumalabas sa aming workshop ay ginagawa ng aming mga tao, sa aming kagamitan, ayon sa aming pamantayan.'
 
 stats:
@@ -69,22 +69,22 @@ workshops_section:
   workshops:
     - title: 'Paggugupot at Paghahanda ng PVC'
       description: 'Ang mga automatic CNC cutting machine ay nagpaproseso ng PVC at drop-stitch fabrics na may sub-millimetre na kawastuhan. Ang computer-optimised nesting ay pinaikli ang pagkakawaste ng materyal at tinitiyak na ang bawat panel ay tumutugon sa dimensional na espesipikasyon nito bago mag-welding.'
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: 'Pag-weld at Heat Sealing ng Tube'
       description: 'Nakalaang welding workshop na may heat sealing machines at RF dielectric presses. Ang mga hot-air heat sealer ay nagdudugtong at nagsasama ng mga PVC tube chamber, habang ang mga RF weld ay lumilikha ng malakas na hindi tumatablan ng hangin na seams na lumalampas sa mga kinakailangan ng EN ISO 25649.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: 'Mga FRP Mould at Paggawa ng Composite'
       description: 'Custom na FRP moulds para sa mga bahagi ng SUP, ginagawa gamit ang hand-lay-up fiberglass moulding na may polyester at vinylester resin systems. Ang bawat patong ay ina-rol de-kamay at vacuum-bagged para sa tuloy-tuloy na kalidad. Ang gelcoat spray booth ay nagbibigay ng makintab na UV-resistant na marine finish.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Pag-print at Dekorasyon ng SUP'
       description: 'Ang mga SUP board ay idinadekora gamit ang digital printing para sa buong-kulay na graphics at screen printing para sa mga logo at umuulit na disenyo. Ang mga digital printer ay lumilikha ng photo-quality na disenyo ng deck, habang ang screen printing ay nagbibigay ng matibay at malinaw na tatak ng brand.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Huling Pagpupuwesto at Rigging'
       description: 'Assembly line kung saan tinatapos ang mga drop-stitch core ng rails, inilalagay ang mga EVA deck, at iniinstala ang mga fin, valve, at aksesorya. Sinusunod ng bawat board ang 100-point assembly checklist na pinagtibay ng team lead.'
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: 'Pagsubok at Pagsisiyasat ng Kalidad'
       description: 'Ang bawat natapos na board ay dadaan sa mandatoryong air-retention testing, seam peel verification, at buong pagsusuri ng sistema bago ipadala. Ang aming quality lab ay gumagana nang malaya sa produksyon at direktang nag-uulat sa pamunuan.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
   tagline: 'Mga Kagamitan'
@@ -141,7 +141,7 @@ faq_section:
   questions:
     - q: 'Ano ang pinakamababang dami ng order (MOQ) para sa mga OEM inflatable SUP board?'
       a: 'Nagsisimula ang MOQ sa 5–10 unit para sa mga karaniwang OEM model. Ang mga custom mould at private-label na project ay nangangailangan ng hindi bababa sa 200 unit depende sa pagkakumplikado. Available ang mga trial order at sample run para sa mga bagong paglulunsad ng brand.'
-    - q: 'May hawak ba ang afarer ng BSCI certification?'
+    - q: 'May hawak ba ang olagoon ng BSCI certification?'
       a: 'Oo. Pinapanatili ng aming pabrika ang wastong BSCI social compliance certification (available ang audit report kapag hiniling). Mayroon din kaming ISO 9001 para sa quality management at ang lahat ng produkto ay may CE certification. Kasama ang REACH at RoHS compliance documentation sa bawat OEM shipment.'
     - q: 'Ano ang karaniwang lead time para sa OEM order?'
       a: 'Ang karaniwang lead time ay 30–45 araw mula sa kumpirmadong PO at deposito para sa bulk OEM production. Ang pag-develop ng custom mould ay nagdaragdag ng 15–20 araw para sa tooling. Available ang pinalaking bilis ng produksyon para sa mga urgent na order at seasonal rush. Ang mga prototype sample ay karaniwang ipinapadala sa loob ng 15–20 araw.'

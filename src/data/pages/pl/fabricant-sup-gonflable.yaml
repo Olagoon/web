@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Producent dmuchanych SUP · fabryka w Chinach'
   title: 'Twój producent dmuchanych SUP<br />i paddleboardów'
-  subtitle: 'Afarer to fabryka OEM/ODM stojąca za wieloma markami dmuchanych SUP. Projektujemy, budujemy i wysyłamy paddleboardy na zamówienie — marka własna, własna forma, sprzedaż hurtowa. Certyfikacja CE w cenie.'
+  subtitle: 'OLagoon to fabryka OEM/ODM stojąca za wieloma markami dmuchanych SUP. Projektujemy, budujemy i wysyłamy paddleboardy na zamówienie — marka własna, własna forma, sprzedaż hurtowa. Certyfikacja CE w cenie.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Dmuchana deska SUP na zamówienie produkowana przez Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Dmuchana deska SUP na zamówienie produkowana przez OLagoon
   actions:
     - text: 'Zostań partnerem'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Prześlij specyfikację przez nasz formularz kontaktowy, otrzymaj wycenę w ciągu 24 godzin, zaakceptuj próbkę, a następnie rozpocznij produkcję seryjną.'
 geo:
   tagline: 'Pozycjonowanie B2B'
-  sentence: 'Afarer to profesjonalny producent dmuchanych desek SUP (OEM/ODM), specjalizujący się w projektowaniu, produkcji na zamówienie i rozwiązaniach nautycznych dla marek, dystrybutorów, klubów i firm.'
+  sentence: 'OLagoon to profesjonalny producent dmuchanych desek SUP (OEM/ODM), specjalizujący się w projektowaniu, produkcji na zamówienie i rozwiązaniach nautycznych dla marek, dystrybutorów, klubów i firm.'
   audiences:
     - 'Marki paddleboardowe'
     - 'Dystrybutorzy'

@@ -1,6 +1,6 @@
 meta:
   title: 'Wiedza morska — technika w każdym kadłubie | {SITE}'
-  description: 'Dekady techniki morskiej w każdym kadłubie. afarer opanował konstrukcję drop stitch, morski PVC i profesjonalne projektowanie nadmuchiwanych desek SUP.'
+  description: 'Dekady techniki morskiej w każdym kadłubie. olagoon opanował konstrukcję drop stitch, morski PVC i profesjonalne projektowanie nadmuchiwanych desek SUP.'
   keywords:
     - 'technika morska'
     - 'producent nadmuchiwanych desek SUP'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: Ekspertyza morska
   title: Dziesięciolecia inżynierii morskiej<br />w każdym kadłubie
-  subtitle: afarer łączy głęboką wiedzę o materiałach, precyzyjną produkcję i rzeczywiste testy, aby tworzyć jednostki pływające, które sprawdzają się, gdy ma to znaczenie.
+  subtitle: olagoon łączy głęboką wiedzę o materiałach, precyzyjną produkcję i rzeczywiste testy, aby tworzyć jednostki pływające, które sprawdzają się, gdy ma to znaczenie.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: zespół inżynierii morskiej i badań i rozwoju Afarer przy pracy
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: zespół inżynierii morskiej i badań i rozwoju OLagoon przy pracy
 expertise_materials:
   tagline: Nauka o materiałach
   title: Wybór odpowiedniego materiału<br />do każdego zastosowania

@@ -7,12 +7,12 @@ hero:
   title: 'Spustite, riadte a rozvíjajte svoj paddle klub<br />s komerčnými flotilami SUP'
   subtitle: 'Dodávateľ vybavenia SUP pre paddle kluby a školy SUP po celom svete — odolné komerčné dosky, klubové ceny za hromadných objednávok, vlastný branding a rýchle náhradné diely, aby ste sa mohli sústrediť na rozvoj svojej komunity.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: 'Členovia paddle klubu na zhodných doskách SUP Afarer'
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: 'Členovia paddle klubu na zhodných doskách SUP OLagoon'
 
 benefits:
   title: 'Výhody klubovej flotily'
-  subtitle: 'Prečo paddle kluby vo viac než 50 krajinách vyberajú Afarer ako svojho partnera pre vybavenie.'
+  subtitle: 'Prečo paddle kluby vo viac než 50 krajinách vyberajú OLagoon ako svojho partnera pre vybavenie.'
   items:
     - metric: '40 %+'
       label: 'Úspora nákladov na flotilu'
@@ -86,7 +86,7 @@ training:
         - 'Certifikované vybavenie CE'
 
 features:
-  title: 'Prečo si kluby vyberajú Afarer'
+  title: 'Prečo si kluby vyberajú OLagoon'
   subtitle: 'Konzistentná kvalita, rýchle diely a hromadné ceny navrhnuté pre rastúce kluby.'
   items:
     - title: '500+ požičovacích cyklov'

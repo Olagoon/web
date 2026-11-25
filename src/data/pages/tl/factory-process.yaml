@@ -1,6 +1,6 @@
 meta:
   title: 'Proseso ng Pagmamanupaktura — Mula Hilaw na Materyales hanggang SUP | {SITE}'
-  description: 'Mula hilaw na materyales hanggang sa SUP na handa-na-sa-dagat: bawat hakbang ng proseso ng pagmamanupaktura ng afarer sa ilalim ng aming kontrol, mula cutting at welding hanggang testing.'
+  description: 'Mula hilaw na materyales hanggang sa SUP na handa-na-sa-dagat: bawat hakbang ng proseso ng pagmamanupaktura ng olagoon sa ilalim ng aming kontrol, mula cutting at welding hanggang testing.'
   keywords:
     - 'proseso ng pagmamanupaktura ng sup'
     - 'pabrika ng inflatable sup'
@@ -13,7 +13,7 @@ hero:
   back_label: 'Bumalik sa Factory'
   back_link: /factory/
 
-intro: 'Hindi tulad ng mga brand na ipinapasa ang produksyon sa mga third-party na pabrika, ang afarer ang nag-aari at nagpapatakbo ng buong chain ng pagmamanupaktura nito. Pinapahintulutan ng vertical integration na ito na mapanatili namin ang mahigpit na quality control sa bawat yugto, tumugon nang mabilis sa mga custom na kinakailangan, at maihanda ang pare-parehong kalidad ng produkto batch matapos ang batch. Ganito ang pagtatayo ng isang board sa aming pasilidad.'
+intro: 'Hindi tulad ng mga brand na ipinapasa ang produksyon sa mga third-party na pabrika, ang olagoon ang nag-aari at nagpapatakbo ng buong chain ng pagmamanupaktura nito. Pinapahintulutan ng vertical integration na ito na mapanatili namin ang mahigpit na quality control sa bawat yugto, tumugon nang mabilis sa mga custom na kinakailangan, at maihanda ang pare-parehong kalidad ng produkto batch matapos ang batch. Ganito ang pagtatayo ng isang board sa aming pasilidad.'
 
 steps:
   - step: '01'
@@ -47,6 +47,6 @@ steps:
 
 cta:
   title: 'Tingnan ang aming kagamitan at makinarya'
-  desc: 'Tuklasin ang industrial-grade na kagamitan sa likod ng bawat board ng afarer.'
+  desc: 'Tuklasin ang industrial-grade na kagamitan sa likod ng bawat board ng olagoon.'
   label: 'Tingnan ang kagamitan →'
   link: /factory/equipment/

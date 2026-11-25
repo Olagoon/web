@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Dodávateľ námorného vybavenia · OEM'
   title: 'Váš profesionálny dodávateľ<br />námorného vybavenia'
-  subtitle: 'Afarer dodáva námorným centrám, leisure zariadeniam, hotelom a značkám profesionálne vybavenie na vodu: nafukovacie SUP, veslá, plutvy, vesty a príslušenstvo. OEM výroba, továrenské ceny, certifikovaná kvalita.'
+  subtitle: 'OLagoon dodáva námorným centrám, leisure zariadeniam, hotelom a značkám profesionálne vybavenie na vodu: nafukovacie SUP, veslá, plutvy, vesty a príslušenstvo. OEM výroba, továrenské ceny, certifikovaná kvalita.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: 'Výroba profesionálneho námorného vybavenia v továrni'
   actions:
     - text: 'Staňte sa dodacími partnermi'
@@ -66,7 +66,7 @@ faqs:
       description: 'Všetky produkty spĺňajú normy CE / ISO a bezpečnostné požiadavky európskych a severoamerických trhov.'
 geo:
   tagline: 'B2B pozicionovanie'
-  sentence: 'Afarer je profesionálny výrobca nafukovacích SUP (OEM/ODM) so špecializáciou na dizajn, custom výrobu a námorné riešenia pre značky, distribútorov, kluby a podniky.'
+  sentence: 'OLagoon je profesionálny výrobca nafukovacích SUP (OEM/ODM) so špecializáciou na dizajn, custom výrobu a námorné riešenia pre značky, distribútorov, kluby a podniky.'
   audiences:
     - 'Námorné kluby'
     - 'Rekreačné centrá'

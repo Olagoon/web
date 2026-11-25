@@ -7,8 +7,8 @@ hero:
   tagline: Lab 06
   title: Kalite ve Muayene Laboratuvarı
   subtitle: Bağımsız doğrulama — teslimattan önce her test geçildi
-  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
-  image_alt: Afarer kalite kontrol laboratuvarı UV testi
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
+  image_alt: OLagoon kalite kontrol laboratuvarı UV testi
 intro: >-
   Atölyemizden çıkan her tahta, belirlenmiş bir dizi kalite kontrolü ve malzeme testinden geçtiğini belgeleyen sertifikayla birlikte gelir. Kalite ve Kontrol Laboratuvarımız kuruluş bünyesinde bağımsız bir birimdir — doğrudan Genel Müdüre rapor verir, Üretim bölümüne değil — böylece hiçbir ticari
   baskının kontrol kapılarını olumsuz etkilemesi önlenir. Bir malzeme partisi veya tamamlanmış bir tahta yayımlanan teknik özelliklere uymuyorsa, laboratuvar uygunsuzluk giderilene kadar sevkiyatı durdurma yetkisine sahiptir.
@@ -128,7 +128,7 @@ content_html: >
 
   <h2>Size olan taahhütümüz</h2>
 
-  <p>Bir Afarer tahtası aldığınızda, kalite dosyasını da alırsınız — belirli tahtanıza uygulanabilir test sonuçlarının derlenmiş bir kaydı. Kumaş parti sertifikası, kaynak soyma testleri, kamara hava testi kayıtları ve teslimat öncesi muayene kontrol listesi. Her rakam izlenebilir. Her denetçi
+  <p>Bir OLagoon tahtası aldığınızda, kalite dosyasını da alırsınız — belirli tahtanıza uygulanabilir test sonuçlarının derlenmiş bir kaydı. Kumaş parti sertifikası, kaynak soyma testleri, kamara hava testi kayıtları ve teslimat öncesi muayene kontrol listesi. Her rakam izlenebilir. Her denetçi
   tanımlıdır. Bu yalnızca bir kağıt işi değil — teslim ettiğimizin spesifiye ettiğimiz olduğuna dair sözümüzdür.</p>
 
   <p>Herhangi bir kalite endişeniz olursa laboratuvarla doğrudan iletişime geçebilirsiniz — iletişim bilgileri uygunluk sertifikanızın üzerindedir. Her sorguyu ciddiye alırız ve 48 saat içinde resmi bir soruşturma taahhüt ederiz.</p>

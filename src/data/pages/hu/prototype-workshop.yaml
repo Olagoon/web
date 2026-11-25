@@ -8,10 +8,10 @@ hero:
   tagline: 'Labor 05'
   title: 'Prototípus műhely'
   subtitle: 'CAD modelltől a vízre kész lapig — megépítve, felszerelve és bizonyítva'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'Afarer prototípus műhely lapgyártás'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
+  image_alt: 'OLagoon prototípus műhely lapgyártás'
 
-intro: 'Egy CAD modell, bármilyen részletes, nem árulhatja el, hogyan viselkedik valójában egy lap, amíg nem találkozik a vízzel. Ezért prototípus műhelyünk arra lett tervezve, hogy a mérnöki adatokat a lehető leggyorsabban és legpontosabban fizikai, vízre kész lappá alakítsa át. Minden új Afarer modell — és minden jelentős egyedi gyártás — átmegy ezen a műhelyen, mielőtt a gyártóeszközöket lekötnék.'
+intro: 'Egy CAD modell, bármilyen részletes, nem árulhatja el, hogyan viselkedik valójában egy lap, amíg nem találkozik a vízzel. Ezért prototípus műhelyünk arra lett tervezve, hogy a mérnöki adatokat a lehető leggyorsabban és legpontosabban fizikai, vízre kész lappá alakítsa át. Minden új OLagoon modell — és minden jelentős egyedi gyártás — átmegy ezen a műhelyen, mielőtt a gyártóeszközöket lekötnék.'
 
 content_html: |
   <h2>Ahol a dizájn valósággá válik</h2>

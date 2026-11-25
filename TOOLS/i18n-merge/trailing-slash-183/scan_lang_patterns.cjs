@@ -10,14 +10,14 @@ function walk(dir, out = []) {
   return out;
 }
 
-const files = walk('E:/github/afarer/src/pages');
+const files = walk('E:/github/olagoon/src/pages');
 const report = [];
 for (const f of files) {
   const s = fs.readFileSync(f, 'utf8');
   const tpl = (s.match(/`\/\$\{lang\}(\/[^`?]*)`/g) || []).length;
   const plus = (s.match(/'\/' \+ lang \+/g) || []).length;
   const hard = (s.match(/href="\/(?!\/)[^"]*"/g) || []).filter((m) => !/\.[a-z0-9]+["?]$/i.test(m)).length;
-  if (tpl || plus) report.push({ f: f.replace(/\\/g, '/').replace('E:/github/afarer/', ''), tpl, plus });
+  if (tpl || plus) report.push({ f: f.replace(/\\/g, '/').replace('E:/github/olagoon/', ''), tpl, plus });
 }
 report.sort((a, b) => b.tpl + b.plus - (a.tpl + a.plus));
 console.log('files with lang-template/plus patterns:', report.length);

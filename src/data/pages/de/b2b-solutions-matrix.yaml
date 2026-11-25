@@ -1,16 +1,16 @@
 meta:
   title: B2B-Kundenlösungs-Matrix | {SITE}
-  description: Vollständige Afarer B2B-Kundenlösungsmatrix, die 24 Kundentypen abdeckt – von Outdoor-Startups bis hin zu Meeresnaturschutzinstitutionen.
+  description: Vollständige OLagoon B2B-Kundenlösungsmatrix, die 24 Kundentypen abdeckt – von Outdoor-Startups bis hin zu Meeresnaturschutzinstitutionen.
 hero:
   tagline: B2B-Kundenlösungen
   title: 24 B2B-Lösungen<br />Abgestimmt auf Ihr Unternehmen
-  subtitle: Von Start-up-Gründern bis hin zu globalen Vertriebspartnern – finden Sie die genaue Afarer-Lösung, die für Ihr Geschäftsmodell, Ihre Branche und Ihre Ziele entwickelt wurde.
+  subtitle: Von Start-up-Gründern bis hin zu globalen Vertriebspartnern – finden Sie die genaue OLagoon-Lösung, die für Ihr Geschäftsmodell, Ihre Branche und Ihre Ziele entwickelt wurde.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Afarer Fabrik und Produktionsanlage
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: OLagoon Fabrik und Produktionsanlage
 solutions:
   title: Kundenlösungs-Matrix
-  subtitle: Jeder Kundentyp, sein Kernbedürfnis und die für ihn gestaltete Afarer-Lösungsseite.
+  subtitle: Jeder Kundentyp, sein Kernbedürfnis und die für ihn gestaltete OLagoon-Lösungsseite.
   items:
     - clientType: Outdoor-Startup-Gründer
       need: Markenschaffung

@@ -1,22 +1,22 @@
 meta:
   title: 'Il Nostro Team — Ingegneri Navali e Costruttori | {SITE}'
-  description: 'Fondata nel 2012 a Qingdao, afarer è stata costruita da ingegneri navali, scienziati dei materiali e appassionati di sport acquatici. Scopri il team dietro la fabbrica.'
+  description: 'Fondata nel 2012 a Qingdao, olagoon è stata costruita da ingegneri navali, scienziati dei materiali e appassionati di sport acquatici. Scopri il team dietro la fabbrica.'
   keywords:
-    - 'team afarer'
+    - 'team olagoon'
     - 'ingegneri navali'
     - 'produttore di SUP gonfiabili'
     - 'team della fabbrica SUP'
 hero:
   tagline: La nostra squadra
-  title: Le persone dietro afarer<br />— Ingegneria della libertà sull'acqua
-  subtitle: Fondata nel 2012 a Qingdao, in Cina, afarer è stata creata da ingegneri navali, scienziati dei materiali e appassionati di sport acquatici che credevano nell'accessibilità a livello mondiale di natanti gonfiabili di qualità professionale.
+  title: Le persone dietro olagoon<br />— Ingegneria della libertà sull'acqua
+  subtitle: Fondata nel 2012 a Qingdao, in Cina, olagoon è stata creata da ingegneri navali, scienziati dei materiali e appassionati di sport acquatici che credevano nell'accessibilità a livello mondiale di natanti gonfiabili di qualità professionale.
   image:
     src: /images/team-all.webp
-    alt: Foto di squadra completa di Afarer — ingegneria, produzione e leadership
+    alt: Foto di squadra completa di OLagoon — ingegneria, produzione e leadership
 founding:
   tagline: La nostra fondazione
   title: Da un laboratorio costiero<br />a una struttura di 12.000 m²
-  subtitle: Afarer è stata fondata da un team di ingegneri marini con decenni di esperienza combinata nella progettazione di SUP gonfiabili, nella fabbricazione di PVC e nella produzione globale di attrezzature marine.
+  subtitle: OLagoon è stata fondata da un team di ingegneri marini con decenni di esperienza combinata nella progettazione di SUP gonfiabili, nella fabbricazione di PVC e nella produzione globale di attrezzature marine.
   items:
     - title: 'Fondato: 2012'
       description: Fondata a Qingdao, in Cina — un importante centro marittimo con una profonda tradizione cantieristica.
@@ -40,7 +40,7 @@ leadership:
       name: Toby Liu
       description: 15 anni nella produzione marina. In precedenza ha guidato la R&S presso un importante produttore cinese di sport di paddle. Detiene diversi brevetti nel design di SUP gonfiabili.
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: Capo Ingegnere
       name: Zhang Wei
       description: 20 anni nella fabbricazione di PVC e nella progettazione drop-stitch. Ex direttore tecnico presso un marchio europeo di sport di paddle.
@@ -65,13 +65,13 @@ leadership:
       name: Helen Lee
       description: 15 anni nel commercio B2B internazionale. Gestito partnership co-brand e di distribuzione in oltre 30 paesi. Fluente in 4 lingue.
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: Filosofia del design
   title: Design Guidato dall'Ingegneria<br />— Ogni Dettaglio Conta
   subtitle: La nostra filosofia ingegneristica si concentra su tre principi che guidano ogni prodotto che realizziamo.
   list:
-    - 'Affidabilità prima di tutto: ogni prodotto afarer è testato per resistere alle condizioni del mondo reale — dalle operazioni di soccorso in acque fredde agli affitti in resort tropicali. Progettiamo in eccesso dove conta di più.'
+    - 'Affidabilità prima di tutto: ogni prodotto olagoon è testato per resistere alle condizioni del mondo reale — dalle operazioni di soccorso in acque fredde agli affitti in resort tropicali. Progettiamo in eccesso dove conta di più.'
     - 'Precisione nella produzione: Le nostre strutture utilizzano taglio CNC, saldatura ad alta frequenza e test di pressione automatizzati. Ogni cucitura, ogni valvola, ogni raccordo soddisfa le specifiche documentate.'
     - 'Innovazione continua: Il nostro team di R&S valuta continuamente nuovi materiali, metodi di produzione e miglioramenti del design. Non aspettiamo i problemi — li anticipiamo.'
 cta:

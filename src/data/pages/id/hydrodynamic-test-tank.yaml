@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 04'
   title: 'Tangki Uji Hidrodinamika'
   subtitle: 'Memvalidasi performa sebelum prototipe skala penuh pertama'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp'
-  image_alt: 'Pengujian performa tangki uji hidrodinamika Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp'
+  image_alt: 'Pengujian performa tangki uji hidrodinamika OLagoon'
 
-intro: 'Anggapan bahwa pengujian hidrodinamika hanya dikhususkan untuk kapal laut lepas adalah kesalahpahaman yang umum. Pada kenyataannya, performa lambung planing kecil — seperti SUP tiup — sama bergantungnya pada bentuk bawah airnya seperti halnya kapal tanker pada haluan bulbous-nya. Sudut trim, luas permukaan basah, pembentukan semprotan, dan ventilasi semuanya berpengaruh besar terhadap glide, kecepatan, dan kenyamanan berkendara. Di Afarer, kami mengoperasikan tangki uji hidrodinamika khusus yang memungkinkan kami mengkuantifikasi efek-efek ini pada skala model — sebelum berkomitmen pada kain dan tooling untuk prototipe ukuran penuh.'
+intro: 'Anggapan bahwa pengujian hidrodinamika hanya dikhususkan untuk kapal laut lepas adalah kesalahpahaman yang umum. Pada kenyataannya, performa lambung planing kecil — seperti SUP tiup — sama bergantungnya pada bentuk bawah airnya seperti halnya kapal tanker pada haluan bulbous-nya. Sudut trim, luas permukaan basah, pembentukan semprotan, dan ventilasi semuanya berpengaruh besar terhadap glide, kecepatan, dan kenyamanan berkendara. Di OLagoon, kami mengoperasikan tangki uji hidrodinamika khusus yang memungkinkan kami mengkuantifikasi efek-efek ini pada skala model — sebelum berkomitmen pada kain dan tooling untuk prototipe ukuran penuh.'
 
 content_html: |
   <h2>Mengapa menguji papan dayung di tangki?</h2>

@@ -1,6 +1,6 @@
 meta:
   title: 'Merendusekspertiis — inseneerimine igas keres | {SITE}'
-  description: 'Aastakümnete merenduse inseneerimine igas keres. afarer valdab Drop Stichi, mere-PVC-d ja professionaalset täispuhutavate SUP-ide disaini.'
+  description: 'Aastakümnete merenduse inseneerimine igas keres. olagoon valdab Drop Stichi, mere-PVC-d ja professionaalset täispuhutavate SUP-ide disaini.'
   keywords:
     - 'merainseneerimine'
     - 'täispuhutavate supilaudade tootja'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: 'Merendusekspertiis'
   title: 'Aastakümnete merainseneerimine<br />igas keres'
-  subtitle: 'afarer ühendab sügava materjaliteaduse, täppistootmise ja reaalse maailma testimise, et toota veesõidukeid, mis toimivad siis, kui see oluline on.'
+  subtitle: 'olagoon ühendab sügava materjaliteaduse, täppistootmise ja reaalse maailma testimise, et toota veesõidukeid, mis toimivad siis, kui see oluline on.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: 'afarer merainseneerimise ja U&A meeskond tööl'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: 'olagoon merainseneerimise ja U&A meeskond tööl'
 expertise_materials:
   tagline: 'Materjaliteadus'
   title: 'Õige materjali valik<br />iga rakenduse jaoks'

@@ -1,8 +1,8 @@
 meta:
-  title: 'Centrum medialne — prasa i materiały afarera | {SITE}'
-  description: 'Centrum medialne afarera: komunikaty prasowe, materiały marki i zasoby z naszej firmy produkującej nadmuchiwane deski SUP.'
+  title: 'Centrum medialne — prasa i materiały olagoona | {SITE}'
+  description: 'Centrum medialne olagoona: komunikaty prasowe, materiały marki i zasoby z naszej firmy produkującej nadmuchiwane deski SUP.'
   keywords:
-    - 'prasa afarera'
+    - 'prasa olagoona'
     - 'media producenta SUP'
     - 'press kit paddle board'
     - 'wiadomości firm morskich'
@@ -21,7 +21,7 @@ sections:
       - Akcesoria i sprzęt bezpieczeństwa
   - id: logo-brand-kit
     title: Logo i zestaw marki
-    desc: Oficjalne pliki logo afarer, paleta kolorów, typografia i wytyczne marki.
+    desc: Oficjalne pliki logo olagoon, paleta kolorów, typografia i wytyczne marki.
     items:
       - Podstawowe logo (PNG/SVG/EPS)
       - Znak ikonograficzny
@@ -55,7 +55,7 @@ cta:
       desc: Zobacz nasz zakład produkcyjny o powierzchni 12 000 m²
     - label: Wytyczne marki
       href: /brand/
-      desc: Poznaj markę afarer
+      desc: Poznaj markę olagoon
     - label: Współpracuj z nami
       href: /contact/
       desc: Zapytania OEM, ODM i dystrybucyjne

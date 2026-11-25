@@ -1,22 +1,22 @@
 meta:
   title: 'Nasz zespół — inżynierowie morscy i budowniczowie | {SITE}'
-  description: 'Założony w 2012 roku w Qingdao, afarer został zbudowany przez inżynierów morskich, specjalistów od materiałów i entuzjastów sportów wodnych. Poznaj zespół stojący za fabryką.'
+  description: 'Założony w 2012 roku w Qingdao, olagoon został zbudowany przez inżynierów morskich, specjalistów od materiałów i entuzjastów sportów wodnych. Poznaj zespół stojący za fabryką.'
   keywords:
-    - 'zespół afarera'
+    - 'zespół olagoona'
     - 'inżynierowie morscy'
     - 'producent nadmuchiwanych desek SUP'
     - 'zespół fabryki SUP'
 hero:
   tagline: Nasz Zespół
-  title: Ludzie stojący za afarer<br />— inżynieria wolności na wodzie
-  subtitle: Założona w 2012 roku w Qingdao w Chinach, afarer została zbudowana przez inżynierów morskich, materiałoznawców i entuzjastów sportów wodnych, którzy wierzyli w uczynienie profesjonalnych nadmuchiwanych jednostek pływających dostępnymi na całym świecie.
+  title: Ludzie stojący za olagoon<br />— inżynieria wolności na wodzie
+  subtitle: Założona w 2012 roku w Qingdao w Chinach, olagoon została zbudowana przez inżynierów morskich, materiałoznawców i entuzjastów sportów wodnych, którzy wierzyli w uczynienie profesjonalnych nadmuchiwanych jednostek pływających dostępnymi na całym świecie.
   image:
     src: /images/team-all.webp
-    alt: Pełne zdjęcie zespołu afarer — inżynieria, produkcja i kierownictwo
+    alt: Pełne zdjęcie zespołu olagoon — inżynieria, produkcja i kierownictwo
 founding:
   tagline: Nasze Założenie
   title: Od przybrzeżnego warsztatu<br />do obiektu o powierzchni 12 000 m²
-  subtitle: afarer została założona przez zespół inżynierów morskich z dziesięcioleciami łącznego doświadczenia w projektowaniu nadmuchiwanych desek SUP, obróbce PVC i globalnej produkcji sprzętu morskiego.
+  subtitle: olagoon została założona przez zespół inżynierów morskich z dziesięcioleciami łącznego doświadczenia w projektowaniu nadmuchiwanych desek SUP, obróbce PVC i globalnej produkcji sprzętu morskiego.
   items:
     - title: 'Założono: 2012'
       description: Założona w Qingdao w Chinach — głównym węźle morskim z głębokim dziedzictwem stoczniowym.
@@ -40,7 +40,7 @@ leadership:
       name: Toby Liu
       description: 15 lat w produkcji morskiej. Wcześniej kierował działem B+R w dużym chińskim producencie sprzętu wiosłowego. Posiada wiele patentów w projektowaniu nadmuchiwanych desek SUP.
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: Główny Inżynier
       name: Zhang Wei
       description: 20 lat doświadczenia w obróbce PVC i projektowaniu drop-stitch. Były dyrektor techniczny w europejskiej marce sprzętu wiosłowego.
@@ -65,13 +65,13 @@ leadership:
       name: Helen Lee
       description: 15 lat w międzynarodowym handlu B2B. Zarządzał partnerstwami co-brand i dystrybucyjnymi w ponad 30 krajach. Biegle włada 4 językami.
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: Filozofia projektowania
   title: Projektowanie zorientowane na inżynierię<br />— każdy szczegół ma znaczenie
   subtitle: Nasza filozofia inżynieryjna koncentruje się na trzech zasadach, które kierują każdym produktem, który budujemy.
   list:
-    - 'Niezawodność przede wszystkim: Każdy produkt Afarer jest testowany, aby wytrzymać warunki rzeczywiste — od akcji ratunkowych w zimnej wodzie po wynajem w tropikalnych kurortach. Przeprojektowujemy tam, gdzie to ma największe znaczenie.'
+    - 'Niezawodność przede wszystkim: Każdy produkt OLagoon jest testowany, aby wytrzymać warunki rzeczywiste — od akcji ratunkowych w zimnej wodzie po wynajem w tropikalnych kurortach. Przeprojektowujemy tam, gdzie to ma największe znaczenie.'
     - 'Precyzja w produkcji: Nasze zakłady korzystają z cięcia CNC, spawania wysokiej częstotliwości oraz automatycznego testowania ciśnienia. Każdy szew, każdy zawór, każda armatura spełnia udokumentowane specyfikacje.'
     - 'Ciągła innowacja: Nasz zespół badawczo-rozwojowy nieustannie ocenia nowe materiały, metody produkcji i udoskonalenia projektowe. Nie czekamy na problemy — przewidujemy je.'
 cta:

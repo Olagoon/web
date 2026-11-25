@@ -323,7 +323,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Visa produktų linija — SUP lentos ir aksesuarai',
     industry: 'Platinimas / Jūrinė',
     challenge:
-      'GCC platintojas pageidavo išskirtinių teisių atstovauti visą afarer produktų liniją 6 Persijos įlankos šalyse, su tinkinta arabų kalbos pakuote, karščiui atspariomis medžiagų specifikacijomis ir šariatui atitinkančiomis garantijos sąlygomis.',
+      'GCC platintojas pageidavo išskirtinių teisių atstovauti visą olagoon produktų liniją 6 Persijos įlankos šalyse, su tinkinta arabų kalbos pakuote, karščiui atspariomis medžiagų specifikacijomis ir šariatui atitinkančiomis garantijos sąlygomis.',
     solution:
       'Sudarėme išskirtinį platinimo susitarimą. Sukūrėme arabų kalbos pakuotę ir rinkodaros medžiagas. Patvirtinome medžiagų specifikacijas esant 50°C aplinkos temperatūrai. Prisitaikėme garantijos sąlygas regiono reikalavimams.',
     result:
@@ -400,7 +400,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Fortune 500 technologijų bendrovė norėjo paleisti vandens sveikatingumo programą darbuotojams 4 pasaulio miesteliuose prie ežerų — reikėjo 60 SUP lentų su įmonės prekės ženklu, sandėliavimo sprendimų ir instruktorių mokymų.',
     solution:
-      'Pateikėme stabilių universalių SUP lentų flotilę su įmonės logotipo denio grafika. Sukūrėme orui atsparius sandėliavimo stovus vietoje. Sertifikuoti 12 vidinių instruktorių per afarer mokymų programą.',
+      'Pateikėme stabilių universalių SUP lentų flotilę su įmonės logotipo denio grafika. Sukūrėme orui atsparius sandėliavimo stovus vietoje. Sertifikuoti 12 vidinių instruktorių per olagoon mokymų programą.',
     result:
       'Programa paleista 4 miesteliuose. Daugiau nei 2,400 darbuotojų dalyvavimų pirmaisiais metais. 94 % darbuotojų pasitenkinimo įvertinimas. Paminėta įmonės tvarumo ataskaitoje.',
     outcomeMetrics: [

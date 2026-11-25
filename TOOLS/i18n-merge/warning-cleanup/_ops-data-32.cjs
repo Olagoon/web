@@ -427,8 +427,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/sv/tourism-recreation.yaml',
-    find: 'afarer oppustbara SUP:er',
-    rep: 'afarer uppblåsbara SUP:er',
+    find: 'olagoon oppustbara SUP:er',
+    rep: 'olagoon uppblåsbara SUP:er',
   },
   {
     f: 'src/data/pages/sv/trust.yaml',
@@ -443,8 +443,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/sv/trust.yaml',
-    find: 'Afarers oppust SUP-brädor',
-    rep: 'Afarers uppblåsbara SUP-brädor',
+    find: 'OLagoons oppust SUP-brädor',
+    rep: 'OLagoons uppblåsbara SUP-brädor',
   },
   {
     f: 'src/data/pages/sv/trust.yaml',

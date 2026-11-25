@@ -5,7 +5,7 @@
 // Reusable pattern for future per-page shards: swap PAGE/EXPECTED_KEYS/manifest entry and part prefix.
 const fs = require('fs');
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
-const OUT = 'E:/github/afarer/src/data/landing-i18n/marine-industry.json';
+const OUT = 'E:/github/olagoon/src/data/landing-i18n/marine-industry.json';
 const LOCALES = [
   'de',
   'pt',
@@ -48,7 +48,7 @@ for (const loc of LOCALES) {
 }
 // key set matches manifest
 const manifest = JSON.parse(
-  fs.readFileSync('E:/github/afarer/TOOLS/i18n-merge/landing-i18n/_landing-manifest.json', 'utf8')
+  fs.readFileSync('E:/github/olagoon/TOOLS/i18n-merge/landing-i18n/_landing-manifest.json', 'utf8')
 );
 const mKeys = manifest.pages['marine-industry/index.astro'].map((e) => e.en).sort();
 if (mKeys.length !== EXPECTED_KEYS) throw new Error('manifest key count ' + mKeys.length);

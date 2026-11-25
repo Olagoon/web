@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Resorts e Hotéis
   title: Transforme sua área à beira-mar em um centro de receitas<br />com frotas SUP premium
-  subtitle: A Afarer equipa resorts do mundo todo com frotas SUP infláveis de qualidade comercial — de pacotes iniciais com 20 pranchas a programas principais com 100+ pranchas. Personalização de marca, treinamento da equipe e peças de reposição incluídos.
+  subtitle: A OLagoon equipa resorts do mundo todo com frotas SUP infláveis de qualidade comercial — de pacotes iniciais com 20 pranchas a programas principais com 100+ pranchas. Personalização de marca, treinamento da equipe e peças de reposição incluídos.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Hóspedes do resort aproveitando o stand up paddle em uma praia intocada
 roi_section:
   title: O Modelo de Receita de SUP do Resort
@@ -20,7 +20,7 @@ roi_section:
       detail: Recupere o investimento total da frota em uma temporada
     - metric: 40%
       label: Aumento de Receita
-      detail: Aumento médio após a mudança para frotas Afarer
+      detail: Aumento médio após a mudança para frotas OLagoon
     - metric: '500+'
       label: Ciclos de Aluguel Por Placa
       detail: Durabilidade de nível comercial para uso diário
@@ -67,7 +67,7 @@ packages:
       revenue: Potencial de receita anual de $200 mil
       cta_text: Obter Pacote Principal
 case_study:
-  quote: Desde que mudamos para a Afarer, nossa receita com aluguel de SUP aumentou 40%. Os custos de substituição de pranchas caíram 60%. Recuperamos todo o investimento da nossa frota em 4 meses.
+  quote: Desde que mudamos para a OLagoon, nossa receita com aluguel de SUP aumentou 40%. Os custos de substituição de pranchas caíram 60%. Recuperamos todo o investimento da nossa frota em 4 meses.
   author: Gerente de Atividades Aquáticas
   location: Resort 5 estrelas, Maldivas
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Período de Retorno
       value: 4 Meses
 features:
-  title: Por Que Resorts Escolhem Afarer
+  title: Por Que Resorts Escolhem OLagoon
   subtitle: Durabilidade de nível comercial, logística global e um parceiro que entende de hospitalidade.
   items:
     - title: 500 Ciclos de Aluguel

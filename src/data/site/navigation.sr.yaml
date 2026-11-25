@@ -37,17 +37,17 @@ header:
           href: /use-cases/tourism-recreation/
         - text: Све намене
           href: /use-cases/
-    - text: Откријте Afarer
+    - text: Откријте OLagoon
       links:
-        - text: Зашто Afarer
-          href: /afarer-story/
+        - text: Зашто OLagoon
+          href: /olagoon-story/
         - text: Технологија и материјали
           href: /technology/
         - text: Квалитет и безбедност
           href: /quality/
         - text: Приче и водичи
           href: /journal/
-        - text: О Afarer
+        - text: О OLagoon
           href: /about/
     - text: Подршка
       links:
@@ -85,17 +85,17 @@ footer:
           href: /ultra-stable-sup/
         - text: Опрема
           href: /sup-accessories/
-    - title: Откријте Afarer
+    - title: Откријте OLagoon
       links:
-        - text: Зашто Afarer
-          href: /afarer-story/
+        - text: Зашто OLagoon
+          href: /olagoon-story/
         - text: Технологија и материјали
           href: /technology/
         - text: Квалитет и безбедност
           href: /quality/
         - text: Приче и водичи
           href: /journal/
-        - text: О Afarer
+        - text: О OLagoon
           href: /about/
     - title: Подршка
       links:
@@ -111,7 +111,7 @@ footer:
           href: /contact/
     - title: За пословне партнере
       links:
-        - text: Заједнички бренд са Afarer
+        - text: Заједнички бренд са OLagoon
           href: /co-brand/
         - text: За клубове и одмаралишта
           href: /solutions/resorts-hotels/
@@ -130,12 +130,8 @@ footer:
       href: /disclaimer/
   socialLinks:
     - text: YouTube
-      href: https://www.youtube.com/@afarer
-    - text: X
-      href: https://x.com/afarer
-    - text: Instagram
-      href: https://www.instagram.com/afarer_watersports/
+      href: https://www.youtube.com/@TheOlagoon
     - text: Facebook
-      href: https://www.facebook.com/profile.php?id=61572404318679
+      href: https://www.facebook.com/TheOlagoon
     - text: RSS
       href: /rss.xml

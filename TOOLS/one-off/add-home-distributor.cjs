@@ -4,7 +4,7 @@ const yaml = require('yaml');
 const BLOCKS = {
   ar: {
     tagline: 'برنامج الشركاء العالمي',
-    title: 'بع afarer في سوقك',
+    title: 'بع olagoon في سوقك',
     subtitle: 'برنامج دولة واحدة – موزّع واحد مع حصرية إقليمية، وأسعار موزعين، ودعم تسويقي، وبرنامج نجاح موزعين مخصص.',
     benefits: [
       {
@@ -31,7 +31,7 @@ const BLOCKS = {
   },
   cs: {
     tagline: 'Globální partnerský program',
-    title: 'Prodávejte afarer na svém trhu',
+    title: 'Prodávejte olagoon na svém trhu',
     subtitle:
       'Program jeden stát – jeden distributor s územní exkluzivitou, dealerskými cenami, marketingovou podporou a vyhrazeným Distributor Success Program.',
     benefits: [
@@ -63,7 +63,7 @@ const BLOCKS = {
   },
   da: {
     tagline: 'Globalt partnerprogram',
-    title: 'Sælg afarer på dit marked',
+    title: 'Sælg olagoon på dit marked',
     subtitle:
       'Ét program med én distributør pr. land, territorie-eksklusivitet, forhandlerpriser, marketingstøtte og et dedikeret Distributor Success Program.',
     benefits: [
@@ -95,7 +95,7 @@ const BLOCKS = {
   },
   de: {
     tagline: 'Globales Partnerprogramm',
-    title: 'Verkaufen Sie afarer in Ihrem Markt',
+    title: 'Verkaufen Sie olagoon in Ihrem Markt',
     subtitle:
       'Ein Programm mit einem autorisierten Distributor pro Land, Gebietsexklusivität, Händlerpreisen, Marketing-Support und einem dedizierten Distributor Success Program.',
     benefits: [
@@ -128,7 +128,7 @@ const BLOCKS = {
   },
   el: {
     tagline: 'Παγκόσμιο Πρόγραμμα Συνεργατών',
-    title: 'Πουλήστε το afarer στην αγορά σας',
+    title: 'Πουλήστε το olagoon στην αγορά σας',
     subtitle:
       'Ένα πρόγραμμα με έναν διανομέα ανά χώρα, αποκλειστικότητα περιοχής, τιμές αντιπροσώπου, υποστήριξη μάρκετινγκ και ένα εξειδικευμένο Πρόγραμμα Επιτυχίας Διανομέα.',
     benefits: [
@@ -160,7 +160,7 @@ const BLOCKS = {
   },
   es: {
     tagline: 'Programa Global de Socios',
-    title: 'Vende afarer en tu mercado',
+    title: 'Vende olagoon en tu mercado',
     subtitle:
       'Un programa de un distribuidor por país con exclusividad territorial, precios de distribuidor, soporte de marketing y un Distributor Success Program dedicado.',
     benefits: [
@@ -193,7 +193,7 @@ const BLOCKS = {
   },
   fi: {
     tagline: 'Globaali kumppaniohjelma',
-    title: 'Myy afarer markkinallasi',
+    title: 'Myy olagoon markkinallasi',
     subtitle:
       'Yksi maa, yksi jälleenmyyjä -ohjelma, johon sisältyy alueellinen yksinoikeus, jälleenmyyntihinnat, markkinointituki ja oma Distributor Success Program.',
     benefits: [
@@ -225,7 +225,7 @@ const BLOCKS = {
   },
   fr: {
     tagline: 'Programme Partenaires Global',
-    title: 'Vendez Afarer sur votre marché',
+    title: 'Vendez OLagoon sur votre marché',
     subtitle:
       'Un programme avec un distributeur par pays, incluant exclusivité territoriale, tarifs revendeur, support marketing et un programme de réussite distributeur dédié.',
     benefits: [
@@ -257,7 +257,7 @@ const BLOCKS = {
   },
   it: {
     tagline: 'Programma Partner Globali',
-    title: 'Vendi afarer nel tuo mercato',
+    title: 'Vendi olagoon nel tuo mercato',
     subtitle:
       'Un programma con un distributore per paese: esclusività territoriale, prezzi da dealer, supporto marketing e un Distribution Success Program dedicato.',
     benefits: [
@@ -289,7 +289,7 @@ const BLOCKS = {
   },
   ja: {
     tagline: 'グローバルパートナープログラム',
-    title: 'afarerをあなたの市場で販売',
+    title: 'olagoonをあなたの市場で販売',
     subtitle:
       '1つの国につき1つの販売代理店を設けるプログラムです。地域独占権、代理店価格、マーケティング支援、専任のDistributor Success Programをご用意しています。',
     benefits: [
@@ -320,7 +320,7 @@ const BLOCKS = {
   },
   ko: {
     tagline: '글로벌 파트너 프로그램',
-    title: '귀하의 시장에서 afarer 판매',
+    title: '귀하의 시장에서 olagoon 판매',
     subtitle:
       '국가당 하나의 유통업자를 통해 지역 독점권, 대리점 가격, 마케팅 지원, 전담 유통업자 성공 프로그램을 제공합니다.',
     benefits: [
@@ -342,7 +342,7 @@ const BLOCKS = {
   },
   nl: {
     tagline: 'Wereldwijd Partnerprogramma',
-    title: 'Verkoop afarer in uw markt',
+    title: 'Verkoop olagoon in uw markt',
     subtitle:
       'Een programma met één distributeur per land, met gebiedsexclusiviteit, dealerprijzen, marketingsupport en een toegewijd Distributor Success Program.',
     benefits: [
@@ -375,7 +375,7 @@ const BLOCKS = {
   },
   no: {
     tagline: 'Globalt partnerprogram',
-    title: 'Selg afarer i ditt marked',
+    title: 'Selg olagoon i ditt marked',
     subtitle:
       'Et program med én distributør per land, med territoriell eksklusivitet, forhandlerpriser, markedsføringsstøtte og et dedikert Distributor Success Program.',
     benefits: [
@@ -407,7 +407,7 @@ const BLOCKS = {
   },
   pl: {
     tagline: 'Globalny Program Partnerski',
-    title: 'Sprzedawaj afarer na swoim rynku',
+    title: 'Sprzedawaj olagoon na swoim rynku',
     subtitle:
       'Program jeden dystrybutor na kraj z ekskluzywnością terytorialną, cenami dealerskimi, wsparciem marketingowym i dedykowanym Programem Sukcesu Dystrybutora.',
     benefits: [
@@ -439,7 +439,7 @@ const BLOCKS = {
   },
   pt: {
     tagline: 'Programa Global de Parceiros',
-    title: 'Venda afarer no seu mercado',
+    title: 'Venda olagoon no seu mercado',
     subtitle:
       'Um programa de um distribuidor por país, com exclusividade territorial, preços de revenda, suporte de marketing e um Distributor Success Program dedicado.',
     benefits: [
@@ -472,7 +472,7 @@ const BLOCKS = {
   },
   ro: {
     tagline: 'Program Global de Parteneri',
-    title: 'Vindeți afarer pe piața dumneavoastră',
+    title: 'Vindeți olagoon pe piața dumneavoastră',
     subtitle:
       'Un program cu un distribuitor per țară, cu exclusivitate teritorială, prețuri de dealer, suport de marketing și un Program de Succes al Distribuitorului dedicat.',
     benefits: [
@@ -505,7 +505,7 @@ const BLOCKS = {
   },
   ru: {
     tagline: 'Глобальная Партнерская Программа',
-    title: 'Продавайте afarer на вашем рынке',
+    title: 'Продавайте olagoon на вашем рынке',
     subtitle:
       'Программа «один дистрибьютор на страну» с территориальной эксклюзивностью, дилерскими ценами, маркетинговой поддержкой и выделенной Программой успеха дистрибьютора.',
     benefits: [
@@ -537,7 +537,7 @@ const BLOCKS = {
   },
   sv: {
     tagline: 'Globalt partnerskapsprogram',
-    title: 'Sälj afarer på din marknad',
+    title: 'Sälj olagoon på din marknad',
     subtitle:
       'Ett program med en distributör per land, med territoriell exklusivitet, återförsäljarpriser, marknadsföringsstöd och ett dedikerat Distributor Success Program.',
     benefits: [
@@ -569,7 +569,7 @@ const BLOCKS = {
   },
   th: {
     tagline: 'โปรแกรมพันธมิตรทั่วโลก',
-    title: 'จำหน่าย afarer ในตลาดของคุณ',
+    title: 'จำหน่าย olagoon ในตลาดของคุณ',
     subtitle:
       'โปรแกรมหนึ่งประเทศหนึ่งตัวแทนจำหน่าย พร้อมความเป็นเอกสิทธิ์ในเขตพื้นที่ ราคาตัวแทนจำหน่าย การสนับสนุนการตลาด และ Distributor Success Program เฉพาะทีม',
     benefits: [
@@ -601,7 +601,7 @@ const BLOCKS = {
   },
   tr: {
     tagline: 'Küresel Ortak Programı',
-    title: 'afarer’i kendi pazarınızda satın',
+    title: 'olagoon’i kendi pazarınızda satın',
     subtitle:
       'Ülke başına tek dağıtıcı programı; bölgesel münhasırlık, bayi fiyatları, pazarlama desteği ve özel bir Distribütör Başarı Programı.',
     benefits: [

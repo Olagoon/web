@@ -12,10 +12,10 @@ meta:
 hero:
   tagline: 'Fabricant SUP Gonflable · Usine OEM Chine'
   title: 'Votre Fabricant de<br />Paddle Gonflable & SUP'
-  subtitle: "Afarer est l'usine OEM/ODM de stand up paddle gonflable derrière de nombreuses marques. Nous concevons, fabriquons et expédions des planches SUP gonflables personnalisées — marque privée, moule sur mesure, production en gros. Certification CE incluse."
+  subtitle: "OLagoon est l'usine OEM/ODM de stand up paddle gonflable derrière de nombreuses marques. Nous concevons, fabriquons et expédions des planches SUP gonflables personnalisées — marque privée, moule sur mesure, production en gros. Certification CE incluse."
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Paddle gonflable personnalisé fabriqué par Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Paddle gonflable personnalisé fabriqué par OLagoon
   actions:
     - text: 'Devenir Partenaire'
       href: /contact/
@@ -67,7 +67,7 @@ faqs:
       description: "Partagez votre cahier des charges via notre formulaire de contact, recevez une offre sous 24 h, validez l'échantillon puis la production en série."
 geo:
   tagline: 'Positionnement B2B'
-  sentence: 'Afarer est un fabricant professionnel de SUP gonflables (OEM/ODM), spécialisé dans la conception, la production personnalisée et les solutions nautiques pour marques, distributeurs, clubs et entreprises.'
+  sentence: 'OLagoon est un fabricant professionnel de SUP gonflables (OEM/ODM), spécialisé dans la conception, la production personnalisée et les solutions nautiques pour marques, distributeurs, clubs et entreprises.'
   audiences:
     - 'Marques de paddle'
     - 'Distributeurs'

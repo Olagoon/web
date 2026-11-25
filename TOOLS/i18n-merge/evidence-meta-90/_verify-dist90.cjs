@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const dir = __dirname;
-const dist = 'E:/github/afarer/dist';
+const dist = 'E:/github/olagoon/dist';
 const en = JSON.parse(fs.readFileSync(path.join(dir, '_ev-meta-en.json'), 'utf8'));
 const locales = [
   'ja',
@@ -70,9 +70,9 @@ for (const loc of locales) {
 }
 
 // de/fr regression: localized titles from full yaml translations
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 for (const loc of ['de', 'fr']) {
-  const data = yaml.load(fs.readFileSync(`E:/github/afarer/src/data/site/evidence.${loc}.yaml`, 'utf8'));
+  const data = yaml.load(fs.readFileSync(`E:/github/olagoon/src/data/site/evidence.${loc}.yaml`, 'utf8'));
   const studies = data.case_studies || [];
   let checked = 0;
   let nonEn = 0;
@@ -86,7 +86,7 @@ for (const loc of ['de', 'fr']) {
     const html = fs.readFileSync(file, 'utf8');
     const tm = html.match(/<title>([\s\S]*?)<\/title>/);
     const title = tm ? decode(tm[1].trim()) : '';
-    const expected = `${cs.client} — ${cs.product} | Afarer`;
+    const expected = `${cs.client} — ${cs.product} | OLagoon`;
     checked++;
     if (title === expected) {
       pass++;
@@ -127,7 +127,7 @@ for (const loc of ['de', 'fr']) {
     fail++;
     issues.push(`sitemap-0 count ${locCount} != 11164`);
   }
-  const rm = JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/route-manifest.json', 'utf8'));
+  const rm = JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/route-manifest.json', 'utf8'));
   const rmCount = Array.isArray(rm) ? rm.length : Object.keys(rm).length;
   console.log(`route-manifest.json count: ${rmCount}`);
   if (rmCount !== 13858) {

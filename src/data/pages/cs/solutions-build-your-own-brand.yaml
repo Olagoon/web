@@ -1,12 +1,12 @@
 meta:
   title: Výroba SUP prken privátních značek | {SITE}
-  description: Uveďte na trh vlastní značku SUP se společností Afarer. Od nápadu k trhu — kompletní služba OEM/ODM včetně designu, prototypování, výroby a globální logistiky.
+  description: Uveďte na trh vlastní značku SUP se společností OLagoon. Od nápadu k trhu — kompletní služba OEM/ODM včetně designu, prototypování, výroby a globální logistiky.
 hero:
   tagline: Vybudujte si vlastní značku
   title: Spusťte vlastní<br />značku SUP
   subtitle: Vy máte vizi. My máme továrnu, odborné znalosti a dodavatelský řetězec. Společně vybudujeme značku, která vynikne.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Zakázkové SUP prkno s vlastním potiskem na vodě
 process:
   title: Cesta vaší značky
@@ -77,7 +77,7 @@ packages:
         - Marketingové materiály
         - Prioritní výroba
 features:
-  title: Proč značky volí Afarer
+  title: Proč značky volí OLagoon
   subtitle: Více než 10 let zkušeností s OEM, kompletní certifikace a nejnižší MOQ v oboru.
   items:
     - title: Více než 10 let zkušeností s OEM

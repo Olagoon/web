@@ -1,18 +1,18 @@
 meta:
   title: 'B2B ügyfélmegoldási mátrix | {SITE}'
-  description: 'Teljes Afarer B2B ügyfélmegoldási mátrix, amely 24 ügyféltípust fed le — szabadtéri startupoktól a tengeri természetvédelmi intézményekig.'
+  description: 'Teljes OLagoon B2B ügyfélmegoldási mátrix, amely 24 ügyféltípust fed le — szabadtéri startupoktól a tengeri természetvédelmi intézményekig.'
 
 hero:
   tagline: 'B2B ügyfélmegoldások'
   title: '24 B2B megoldás<br />az Ön vállalkozásához igazítva'
-  subtitle: 'Startup alapítóktól globális forgalmazókig — megtalálhatja az Ön üzleti modelljéhez, iparágához és céljaihoz tervezett konkrét Afarer megoldást.'
+  subtitle: 'Startup alapítóktól globális forgalmazókig — megtalálhatja az Ön üzleti modelljéhez, iparágához és céljaihoz tervezett konkrét OLagoon megoldást.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Afarer gyár és gyártási létesítmény'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'OLagoon gyár és gyártási létesítmény'
 
 solutions:
   title: 'Ügyfélmegoldási mátrix'
-  subtitle: 'Minden ügyféltípus, alapvető igényük és a számukra tervezett Afarer megoldási oldal.'
+  subtitle: 'Minden ügyféltípus, alapvető igényük és a számukra tervezett OLagoon megoldási oldal.'
   items:
     - clientType: 'Szabadtéri startup alapító'
       need: 'Márka létrehozása'

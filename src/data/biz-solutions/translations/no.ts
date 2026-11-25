@@ -12,9 +12,9 @@ const no: Record<string, SolutionOverride> = {
       tagline: 'Kommersiell SUP-flåte™',
       title: 'Profesjonelle løsninger for SUP-utstyr til padleklubber, utleieoperatører og vannsportskoler',
       subtitle:
-        'Afarer leverer kommersielle SUP-flåteløsninger designet spesielt for profesjonelle operatører. Vi hjelper SUP-skoler, padleklubber, utleieselskaper, resorter, eventyroperatører og arrangementsarrangører med å bygge pålitelige utstyrsflåter med konstruksjon i kommersiell kvalitet og langsiktig støtte.',
+        'OLagoon leverer kommersielle SUP-flåteløsninger designet spesielt for profesjonelle operatører. Vi hjelper SUP-skoler, padleklubber, utleieselskaper, resorter, eventyroperatører og arrangementsarrangører med å bygge pålitelige utstyrsflåter med konstruksjon i kommersiell kvalitet og langsiktig støtte.',
       image: {
-        alt: 'Afarers kommersielle SUP-flåte for padleklubber og vannsportskoler',
+        alt: 'OLagoons kommersielle SUP-flåte for padleklubber og vannsportskoler',
       },
     },
     challenge: {
@@ -48,7 +48,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Oppblåsbar SUP-konstruksjon i kommersiell kvalitet',
           description:
-            'Afarers kommersielle SUP-produkter har forsterkede PVC-materialesystemer med bedre slitestyrke, flerlags forsterkning av kantene mot støt, drop stitch-struktur med høy tetthet for stivhet og ventilsystemer i tung klasse designet for hyppige oppblåsningssykluser.',
+            'OLagoons kommersielle SUP-produkter har forsterkede PVC-materialesystemer med bedre slitestyrke, flerlags forsterkning av kantene mot støt, drop stitch-struktur med høy tetthet for stivhet og ventilsystemer i tung klasse designet for hyppige oppblåsningssykluser.',
           features: [
             'Forsterket PVC-materialesystem',
             'Flerlags forsterkning av kantene',
@@ -59,7 +59,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'SUP-produktdesign optimalisert for flåte',
           description:
-            'Afarer utvikler SUP-utstyr basert på driftsbehov, med dedikerte treningsflåter for nybegynnere, utleieflåter for hyppige brukere og arrangementsflåter for gruppeaktiviteter. Hver konfigurasjon fokuserer på stabilitet, holdbarhet og enkelt vedlikehold.',
+            'OLagoon utvikler SUP-utstyr basert på driftsbehov, med dedikerte treningsflåter for nybegynnere, utleieflåter for hyppige brukere og arrangementsflåter for gruppeaktiviteter. Hver konfigurasjon fokuserer på stabilitet, holdbarhet og enkelt vedlikehold.',
           features: [
             'SUP-treningsflåte for undervisning',
             'Utleieflåte for hyppige brukere',
@@ -70,12 +70,12 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Komplett pakkekonfigurasjon for kommersielt bruk',
           description:
-            'Afarer bidrar til å lage komplette flåtepakker med oppblåsbare SUP-brett, profesjonelle padleårer, høytrykkspumper, holdbare leasher, ryggsekker i tung klasse og reperasjonssett, med tilleggsalternativer som reservedeler til ventiler, ekstra finner og utskiftingshåndtak.',
+            'OLagoon bidrar til å lage komplette flåtepakker med oppblåsbare SUP-brett, profesjonelle padleårer, høytrykkspumper, holdbare leasher, ryggsekker i tung klasse og reperasjonssett, med tilleggsalternativer som reservedeler til ventiler, ekstra finner og utskiftingshåndtak.',
         },
         {
           title: 'Flåtetilpasning for vannbedrifter',
           description:
-            'Kommersielle operatører trenger sterk visuell identitet. Afarer støtter logotilpasning, fargetilpasning til klubbprofilen eller resortmiljøet og identifikasjonssystemer for flåten med nummerprint og modellidentifikasjon for effektiv styring av store flåter.',
+            'Kommersielle operatører trenger sterk visuell identitet. OLagoon støtter logotilpasning, fargetilpasning til klubbprofilen eller resortmiljøet og identifikasjonssystemer for flåten med nummerprint og modellidentifikasjon for effektiv styring av store flåter.',
           features: [
             'Logotilpasning',
             'Fargetilpasning',
@@ -86,27 +86,27 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Reduser langsiktige driftskostnader',
           description:
-            'Det billigste brettet er ikke alltid det mest lønnsomme. Afarers løsninger forbedrer utstyrets levetid gjennom sterkere materialer, vedlikeholdseffektivitet gjennom standardiserte komponenter og lønnsomhet gjennom mindre driftsstopp og høyere utnyttelsesgrad.',
+            'Det billigste brettet er ikke alltid det mest lønnsomme. OLagoons løsninger forbedrer utstyrets levetid gjennom sterkere materialer, vedlikeholdseffektivitet gjennom standardiserte komponenter og lønnsomhet gjennom mindre driftsstopp og høyere utnyttelsesgrad.',
         },
         {
           title: 'Støtte for SUP-utleiebedrifter',
           description:
-            'Utleieoperatører trenger utstyr som er enkelt for kundene, enkelt for staben og enkelt å vedlikeholde. Afarer leverer nybegynnervennlig design med høy stabilitet, rask betjening for raskere kundeturnover og holdbart tilbehør, inkludert sterke padleårer og pålitelige pumper.',
+            'Utleieoperatører trenger utstyr som er enkelt for kundene, enkelt for staben og enkelt å vedlikeholde. OLagoon leverer nybegynnervennlig design med høy stabilitet, rask betjening for raskere kundeturnover og holdbart tilbehør, inkludert sterke padleårer og pålitelige pumper.',
         },
         {
           title: 'Utstyrs løsninger for SUP-skoler',
           description:
-            'SUP-instruktører trenger utstyr som støtter læring. Afarers produkter kan optimaliseres for nybegynnerkurs, ungdomsprogrammer, gruppetrening og instruktørdemonstrasjoner, med funksjoner som forbedrer undervisningsopplevelsen.',
+            'SUP-instruktører trenger utstyr som støtter læring. OLagoons produkter kan optimaliseres for nybegynnerkurs, ungdomsprogrammer, gruppetrening og instruktørdemonstrasjoner, med funksjoner som forbedrer undervisningsopplevelsen.',
         },
         {
           title: 'Løsninger for vannaktiviteter ved arrangementer og resorter',
           description:
-            'Hoteller, resorter og arrangementselskaper tilbyr i økende grad strandaktiviteter, teambuilding og friluftsopplevelser. Afarer støtter flåteplanlegging, produkttilpasning og serieproduksjon for disse hospita litetsanvendelsene.',
+            'Hoteller, resorter og arrangementselskaper tilbyr i økende grad strandaktiviteter, teambuilding og friluftsopplevelser. OLagoon støtter flåteplanlegging, produkttilpasning og serieproduksjon for disse hospita litetsanvendelsene.',
         },
         {
           title: 'Vedlikeholds- og ettersalgsstøtte',
           description:
-            'Profesjonelle operatører trenger støtte etter levering. Afarer tilbyr planlegging av reservedeler med reperasjonsmateriell og utskiftningstilbehør, vedlikeholdsveiledning for lagring og rengjøring og støtte til flåteutvidelse når nye brett og modeller skal legges til.',
+            'Profesjonelle operatører trenger støtte etter levering. OLagoon tilbyr planlegging av reservedeler med reperasjonsmateriell og utskiftningstilbehør, vedlikeholdsveiledning for lagring og rengjøring og støtte til flåteutvidelse når nye brett og modeller skal legges til.',
           features: [
             'Planlegging av reservedeler',
             'Vedlikeholdsveiledning',
@@ -128,7 +128,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Planlegging av kommersiell flåte',
           detail:
-            'Afarer analyserte daglige bruksmønstre, kundenes ferdighetsnivå og forholdene i vannmiljøet, og anbefalte deretter en konfigurasjon av en kommersiell oppblåsbar SUP-flåte tilpasset klubbens driftsbehov.',
+            'OLagoon analyserte daglige bruksmønstre, kundenes ferdighetsnivå og forholdene i vannmiljøet, og anbefalte deretter en konfigurasjon av en kommersiell oppblåsbar SUP-flåte tilpasset klubbens driftsbehov.',
         },
         {
           title: 'Produktutvikling',
@@ -159,35 +159,35 @@ const no: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubai, De forente arabiske emirater',
             background:
-              'Ahmed Al-Rashid (41) grunnla «Dubai Paddle Club» i 2020 med 8 SUP-brett i nybegynnerklasse leid ut fra en container ved Dubai Marina. Innen 2023 hadde driften vokst organisk til 45 brett på to steder, men slet med 60 % årlig tap av lagerbeholdningen på grunn av delaminering, UV-skader og saltvannskorrosjon. Gjennomsnittlig levetid på brettene var bare 7 måneder. Ahmeds 12 ansatte brukte 22 timer per uke på reparasjoner i stedet for å betjene kunder. Han henvendte seg til Afarer etter at en konkurrent anbefalte deres iSUP-er som varte i over 3 år under forhold i Midtøsten.',
+              'Ahmed Al-Rashid (41) grunnla «Dubai Paddle Club» i 2020 med 8 SUP-brett i nybegynnerklasse leid ut fra en container ved Dubai Marina. Innen 2023 hadde driften vokst organisk til 45 brett på to steder, men slet med 60 % årlig tap av lagerbeholdningen på grunn av delaminering, UV-skader og saltvannskorrosjon. Gjennomsnittlig levetid på brettene var bare 7 måneder. Ahmeds 12 ansatte brukte 22 timer per uke på reparasjoner i stedet for å betjene kunder. Han henvendte seg til OLagoon etter at en konkurrent anbefalte deres iSUP-er som varte i over 3 år under forhold i Midtøsten.',
             goal: 'Å standardisere på én holdbar flåte på 200 brett som betjener 3 lokasjoner (Dubai Marina, Abu Dhabi Corniche og Fujairah-stranden), med en årlig utskiftingsrate på maksimalt 15 % og 40 % høyere månedlig utnyttelse per brett.',
           },
           steps: [
             {
               title: 'Stresstest av 14 brett under sommerforholdene i De forente arabiske emirater',
               detail:
-                'I mai 2024 sendte Afarer regionssalgssjefen Karim Nasr og produktingeniøren Sophie Chen til Dubai til en 6-ukers felttest. De satte ut 14 konkurrerende iSUP-er og 6 Afarer-prototyper på alle 3 stedene i høysesongen (lufttemperatur 48 °C, vann 35 °C, UV-indeks 11). Ahmeds stab registrerte over 1 100 utleietimer med data om trykkhold, ventilsvikt, slitasje og kundetilfredshet. Afarers XHD-brett på 15,0 mm mistet bare 0,3 PSI i løpet av 8 timer, mot i gjennomsnitt 2,1 PSI for konkurrentene. Afarer-brettene hadde null ventilsvikt – konkurrentene hadde i gjennomsnitt 1 svikt per 120 utleietimer.',
+                'I mai 2024 sendte OLagoon regionssalgssjefen Karim Nasr og produktingeniøren Sophie Chen til Dubai til en 6-ukers felttest. De satte ut 14 konkurrerende iSUP-er og 6 OLagoon-prototyper på alle 3 stedene i høysesongen (lufttemperatur 48 °C, vann 35 °C, UV-indeks 11). Ahmeds stab registrerte over 1 100 utleietimer med data om trykkhold, ventilsvikt, slitasje og kundetilfredshet. OLagoons XHD-brett på 15,0 mm mistet bare 0,3 PSI i løpet av 8 timer, mot i gjennomsnitt 2,1 PSI for konkurrentene. OLagoon-brettene hadde null ventilsvikt – konkurrentene hadde i gjennomsnitt 1 svikt per 120 utleietimer.',
             },
             {
               title: 'Egendefinert flåtekonfigurasjon med RFID-sporing og fargekoding',
               detail:
-                'Basert på feltdataene anbefalte Afarer en flåteblanding på 3 brett: 120 «Marina Pro 11.6» (allround), 50 «Expedition 12.6» (touring for kysten ved Fujairah) og 30 «Yoga XL 10.8» (til soloppgangstimer ledet av kvinner). Afarer bygde inn RFID-merker i finneboksen på hvert brett til Ahmeds egendefinerte lagersystem med håndholdte lesere. Brettene var fargekodet etter sted: Dubai Marina i petroleum blått, Abu Dhabi i sandfarge, Fujairah i havblått. Ahmed la til et pristillegg på 5 USD per time for Afarer-brettene sammenlignet med resten av den generiske flåten – og 92 % av kundene valgte Afarer.',
+                'Basert på feltdataene anbefalte OLagoon en flåteblanding på 3 brett: 120 «Marina Pro 11.6» (allround), 50 «Expedition 12.6» (touring for kysten ved Fujairah) og 30 «Yoga XL 10.8» (til soloppgangstimer ledet av kvinner). OLagoon bygde inn RFID-merker i finneboksen på hvert brett til Ahmeds egendefinerte lagersystem med håndholdte lesere. Brettene var fargekodet etter sted: Dubai Marina i petroleum blått, Abu Dhabi i sandfarge, Fujairah i havblått. Ahmed la til et pristillegg på 5 USD per time for OLagoon-brettene sammenlignet med resten av den generiske flåten – og 92 % av kundene valgte OLagoon.',
             },
             {
               title: 'Opplæring av staben og standardisert vedlikeholdsprotokoll',
               detail:
-                'I juli 2024 gjennomførte Afarer en intensiv 3-dagers opplæring for Ahmeds 15 ansatte ved Dubai Marina. Opplæringen dekket riktig teknikk for opp- og nedblåsing for å unngå slitasje på ventiltråden, prosedyrer for skylling i ferskvann (tidsatt til 90 sekunder per brett), påføring av UV-beskyttelse hver 30. utleietime og stablingsprosedyrer for lagring for å unngå brettkanter. Afarer leverte et egendefinert vedlikeholdssett med kalibrerte manometre, silikonsmøring og UV-teststriper. Ahmed innførte en daglig digital sjekkliste med bilder; etterlevelsen ble fulgt opp og lå i gjennomsnitt på 94 % de første 6 månedene.',
+                'I juli 2024 gjennomførte OLagoon en intensiv 3-dagers opplæring for Ahmeds 15 ansatte ved Dubai Marina. Opplæringen dekket riktig teknikk for opp- og nedblåsing for å unngå slitasje på ventiltråden, prosedyrer for skylling i ferskvann (tidsatt til 90 sekunder per brett), påføring av UV-beskyttelse hver 30. utleietime og stablingsprosedyrer for lagring for å unngå brettkanter. OLagoon leverte et egendefinert vedlikeholdssett med kalibrerte manometre, silikonsmøring og UV-teststriper. Ahmed innførte en daglig digital sjekkliste med bilder; etterlevelsen ble fulgt opp og lå i gjennomsnitt på 94 % de første 6 månedene.',
             },
             {
               title: 'Lansering i august 2024 og resultatene for første sesong',
               detail:
-                'Flåten på 200 brett ankom via havnen Jebel Ali i Dubai 1. august 2024, med opplæringen av Ahmeds team fullført. Omsetningen den første måneden nådde 487 000 AED (132 600 USD), en økning på 210 % fra samme måned året før. Lokasjonen i Fujairah la til snorkleturer med SUP til 220 AED per person, med i gjennomsnitt 40 deltakere daglig. Innen desember 2024 var total flåteutnyttelse 73 % på tvers av alle stedene – bransjegjennomsnittet er 45 %. Bare 3 brett ble skadet (alle ved kundefeil), og de ble reparert under Afarers kommersielle garanti innen 5 virkedager hver.',
+                'Flåten på 200 brett ankom via havnen Jebel Ali i Dubai 1. august 2024, med opplæringen av Ahmeds team fullført. Omsetningen den første måneden nådde 487 000 AED (132 600 USD), en økning på 210 % fra samme måned året før. Lokasjonen i Fujairah la til snorkleturer med SUP til 220 AED per person, med i gjennomsnitt 40 deltakere daglig. Innen desember 2024 var total flåteutnyttelse 73 % på tvers av alle stedene – bransjegjennomsnittet er 45 %. Bare 3 brett ble skadet (alle ved kundefeil), og de ble reparert under OLagoons kommersielle garanti innen 5 virkedager hver.',
             },
           ],
           results: [
             'Månedlig flåteomsetning vokste fra 157 000 AED til 487 000 AED (132 600 USD) – en økning på 210 % i løpet av 6 måneder',
             'Den årlige utskiftingsraten for brett falt fra 60 % til 4,5 %, en besparelse på omtrent 312 000 AED per år',
-            'Kundetilfredsheten økte fra 3,8/5 (generisk flåte) til 4,7/5 (Afarer-flåte); Google-anmeldelsene økte fra 187 til 1 420',
+            'Kundetilfredsheten økte fra 3,8/5 (generisk flåte) til 4,7/5 (OLagoon-flåte); Google-anmeldelsene økte fra 187 til 1 420',
             'Ahmed utvidet til en 4. lokasjon (Ras Al Khaimah) i februar 2025 og bestilte 80 ekstra brett',
           ],
         },
@@ -203,26 +203,26 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Vurdering øy for øy og produkttilpasning',
               detail:
-                'Afarers EMEA-kontodirektør Stefan Berger besøkte alle 5 øyene i april 2024 sammen med Dimitri. Hvert sted hadde ulike forhold: Santorinis vulkanske sand (slipende, pH 8,2), Mykonos’ vindutsatte strender (vedvarende 20–25 knops Meltemi-vind), Naxos’ grunne steinete innløp som krevde forsterkede neser, Paros’ lange kyststier (8–12 km) og Kretas rolle, familievennlige bukter. Afarer utviklet 3 skreddersydde modeller: «Med RockShield 11.0» med 50 % tykkere nesebeskytter (testet med 2 000 drag over sandstein), «Meltemi Pro 10.6» med lavt dekk for stabilitet i vind og «Family Cruiser 11.6» med kapasitet på 275 kg for bruk av foreldre og barn.',
+                'OLagoons EMEA-kontodirektør Stefan Berger besøkte alle 5 øyene i april 2024 sammen med Dimitri. Hvert sted hadde ulike forhold: Santorinis vulkanske sand (slipende, pH 8,2), Mykonos’ vindutsatte strender (vedvarende 20–25 knops Meltemi-vind), Naxos’ grunne steinete innløp som krevde forsterkede neser, Paros’ lange kyststier (8–12 km) og Kretas rolle, familievennlige bukter. OLagoon utviklet 3 skreddersydde modeller: «Med RockShield 11.0» med 50 % tykkere nesebeskytter (testet med 2 000 drag over sandstein), «Meltemi Pro 10.6» med lavt dekk for stabilitet i vind og «Family Cruiser 11.6» med kapasitet på 275 kg for bruk av foreldre og barn.',
             },
             {
               title: 'Konstruksjon i kommersiell kvalitet og modulært tilbehørsskinne',
               detail:
-                'Afarers fabrikk i Xiamen produserte brett med 1 200 denier PVC (mot standard 1 000D), dobbeltsveisede sømmer testet ved 14 PSI sprengtrykk (bransjestandarden er 10 PSI) og D-ringer i rustfritt stål i stedet for plasticsveiset. Hvert brett inkluderte Afarers nye «QuickRail»-system – en ekstrudert aluminiumsprofil festet inn i kanten – som lot Dimitri klipsse på GoPro-fester, flaskeholdere og stangholdere. Dette økte inntektene fra tilbehrsutleie med 12 EUR per brett per dag. Afarer la til reflekterende logoer for synlighet – avgjørende når havnevesenet på Mykonos regulerer farkoster etter solnedgang.',
+                'OLagoons fabrikk i Xiamen produserte brett med 1 200 denier PVC (mot standard 1 000D), dobbeltsveisede sømmer testet ved 14 PSI sprengtrykk (bransjestandarden er 10 PSI) og D-ringer i rustfritt stål i stedet for plasticsveiset. Hvert brett inkluderte OLagoons nye «QuickRail»-system – en ekstrudert aluminiumsprofil festet inn i kanten – som lot Dimitri klipsse på GoPro-fester, flaskeholdere og stangholdere. Dette økte inntektene fra tilbehrsutleie med 12 EUR per brett per dag. OLagoon la til reflekterende logoer for synlighet – avgjørende når havnevesenet på Mykonos regulerer farkoster etter solnedgang.',
             },
             {
               title: 'Sertifisering av staben før sesongen og flåtestyringssystem',
               detail:
-                'I mai 2024 opplærte Afarer 22 av Dimitris ansatte på alle øyene i en 2-dagers workshop på Santorini. Opplæringen omfattet teknikk for landing på stein for å minimere slitasje, riktig oppblåsing med justering til 14–16 PSI etter vanntemperatur (sesongvariasjon 18–26 °C), nødreparasjon i felten med PVC-lapper (instruktøren testet hver elev på å fullføre en reparasjon på under 6 minutter) og protokoller for tilpasning til kunden for å sikre valg av brett etter vekt. Afarer leverte et digitalt flåte dashbord som viste hvert bretts utleietimer, vedlikeholdshistorikk og GPS-basert posisjon. Ved sesongslutt håndterte 97 % av feltparasjonene av staben uten å ringe Afarer.',
+                'I mai 2024 opplærte OLagoon 22 av Dimitris ansatte på alle øyene i en 2-dagers workshop på Santorini. Opplæringen omfattet teknikk for landing på stein for å minimere slitasje, riktig oppblåsing med justering til 14–16 PSI etter vanntemperatur (sesongvariasjon 18–26 °C), nødreparasjon i felten med PVC-lapper (instruktøren testet hver elev på å fullføre en reparasjon på under 6 minutter) og protokoller for tilpasning til kunden for å sikre valg av brett etter vekt. OLagoon leverte et digitalt flåte dashbord som viste hvert bretts utleietimer, vedlikeholdshistorikk og GPS-basert posisjon. Ved sesongslutt håndterte 97 % av feltparasjonene av staben uten å ringe OLagoon.',
             },
             {
               title: 'Sesongen juni–oktober 2024: lansering, utflukter og avkastning',
               detail:
-                'Dimitri lanserte den nye flåten 1. juni 2024 på alle øyene samtidig. Det guidede SUP-utfluktsproduktet (55 EUR per person for 3 timers kystutforskning med snorkelstopp) ble lansert 15. juni, med 4 turer daglig fra Red Beach på Santorini og Agios Prokopios på Naxos. Innen august nådde bestillingene av utflukter 2 100 per uke på tvers av alle øyene. Total sesongomsetning (juni–oktober) ble 2,85 mill. EUR, opp 137 % fra 1,2 mill. EUR i 2023. Reparasjonskostnadene for brett falt fra 22 000 EUR til 2 800 EUR. Bare 4 brett ble avskrevet (alle forårsaket av kunder og utover reparasjon). Ved sesongslutt bestilte Dimitri 100 ekstra brett for 2025-sesongen og ba Afarer utvikle en ombyggingssett for pedaldrevet SUP.',
+                'Dimitri lanserte den nye flåten 1. juni 2024 på alle øyene samtidig. Det guidede SUP-utfluktsproduktet (55 EUR per person for 3 timers kystutforskning med snorkelstopp) ble lansert 15. juni, med 4 turer daglig fra Red Beach på Santorini og Agios Prokopios på Naxos. Innen august nådde bestillingene av utflukter 2 100 per uke på tvers av alle øyene. Total sesongomsetning (juni–oktober) ble 2,85 mill. EUR, opp 137 % fra 1,2 mill. EUR i 2023. Reparasjonskostnadene for brett falt fra 22 000 EUR til 2 800 EUR. Bare 4 brett ble avskrevet (alle forårsaket av kunder og utover reparasjon). Ved sesongslutt bestilte Dimitri 100 ekstra brett for 2025-sesongen og ba OLagoon utvikle en ombyggingssett for pedaldrevet SUP.',
             },
           ],
           results: [
-            'Sesongomsetningen vokste 137 % fra 1,2 mill. EUR til 2,85 mill. EUR det første året med Afarer',
+            'Sesongomsetningen vokste 137 % fra 1,2 mill. EUR til 2,85 mill. EUR det første året med OLagoon',
             'Reparasjonskostnadene for brett falt fra 22 000 EUR til 2 800 EUR – en reduksjon på 87 %, en besparelse på 19 200 EUR',
             'Bare 4 av 200 brett avskrevet (2 % årlig tap mot 35 % med den forrige flåten); beregnet levetid på 4–5 sesonger',
             'Det guidede utfluktsproduktet genererte 843 000 EUR i første sesong med 87 % fortjenestemargin; 4,9/5 på TripAdvisor',
@@ -230,8 +230,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor padleklubber velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor padleklubber velger OLagoon',
       items: [
         {
           title: 'Forretningsdrift',
@@ -241,7 +241,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Holdbarhet for kommersielt bruk',
           description:
-            'Afarers produkter er designet for daglig profesjonell bruk, med forsterket konstruksjon, sterkere materialer og stringent testing.',
+            'OLagoons produkter er designet for daglig profesjonell bruk, med forsterket konstruksjon, sterkere materialer og stringent testing.',
         },
         {
           title: 'Flåtestyring',
@@ -251,15 +251,15 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Langsiktig partnertskap',
           description:
-            'Afarer støtter veksten i bedriften din med reservedeler, vedlikeholdsveiledning og utvidelsesplaner utover det første kjøpet.',
+            'OLagoon støtter veksten i bedriften din med reservedeler, vedlikeholdsveiledning og utvidelsesplaner utover det første kjøpet.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Hva gjør Afarers SUP-brett egnet for kommersielle padleklubber?',
+        question: 'Hva gjør OLagoons SUP-brett egnet for kommersielle padleklubber?',
         answer:
-          'Afarers kommersielle SUP-brett har forsterket PVC-konstruksjon, flerlags forsterkning av kantene, drop stitch-struktur med høy tetthet og ventilsystemer i tung klasse, spesielt designet for daglig hyppig bruk i utleie- og treningsmiljøer.',
+          'OLagoons kommersielle SUP-brett har forsterket PVC-konstruksjon, flerlags forsterkning av kantene, drop stitch-struktur med høy tetthet og ventilsystemer i tung klasse, spesielt designet for daglig hyppig bruk i utleie- og treningsmiljøer.',
       },
       {
         question: 'Hva er forskjellen på SUP-utstyr i forbruker- og kommersiell kvalitet?',
@@ -267,30 +267,30 @@ const no: Record<string, SolutionOverride> = {
           'SUP-brett i kommersiell kvalitet bruker sterkere materialer, forsterket konstruksjon og mer holdbare komponenter for å tåle daglig bruk av mange brukere. Forbrukerbrett er designet for sporadisk fritidsbruk og slites raskt ut under kommersielle forhold.',
       },
       {
-        question: 'Kan Afarer tilpasse SUP-brett med klubbens logo og farger?',
+        question: 'Kan OLagoon tilpasse SUP-brett med klubbens logo og farger?',
         answer:
-          'Ja, Afarer tilbyr full flåtetilpasning, inkludert logoplassering, merkevarefarger, nummersystemer for brett, modellidentifikasjon og merking av instruktørbrett, for å skape en ensartet og profesjonell flåteidentitet.',
+          'Ja, OLagoon tilbyr full flåtetilpasning, inkludert logoplassering, merkevarefarger, nummersystemer for brett, modellidentifikasjon og merking av instruktørbrett, for å skape en ensartet og profesjonell flåteidentitet.',
       },
       {
-        question: 'Hva er typisk levetid for et kommersielt SUP-brett fra Afarer?',
+        question: 'Hva er typisk levetid for et kommersielt SUP-brett fra OLagoon?',
         answer:
-          'Med riktig vedlikehold varer Afarers kommersielle SUP-brett betydelig lengre enn produkter i forbrukerkvalitet, noe som reduserer utskiftingsfrekvensen og de totale eierkostnadene. Eksakt levetid avhenger av bruksintensitet og vedlikeholdsrutiner.',
+          'Med riktig vedlikehold varer OLagoons kommersielle SUP-brett betydelig lengre enn produkter i forbrukerkvalitet, noe som reduserer utskiftingsfrekvensen og de totale eierkostnadene. Eksakt levetid avhenger av bruksintensitet og vedlikeholdsrutiner.',
       },
       {
         question: 'Tilbyr dere reservedeler og vedlikeholdsstøtte for flåteoperatører?',
         answer:
-          'Ja, Afarer tilbyr omfattende ettersalgsstøtte med planlegging av reservedeler, reperasjonsmateriell, utskiftningstilbehør, vedlikeholdsveiledning, lagringsanbefalinger og rengjøringsinstruksjoner.',
+          'Ja, OLagoon tilbyr omfattende ettersalgsstøtte med planlegging av reservedeler, reperasjonsmateriell, utskiftningstilbehør, vedlikeholdsveiledning, lagringsanbefalinger og rengjøringsinstruksjoner.',
       },
       {
-        question: 'Hvilke flåtestørrelser kan Afarer støtte for padleklubber?',
+        question: 'Hvilke flåtestørrelser kan OLagoon støtte for padleklubber?',
         answer:
-          'Afarer støtter flåter i alle størrelser, fra små klubber med 10–30 brett til store operasjoner med over 100 brett. Vi tilbyr voluminnkjøpsløsninger, ensartet produktkvalitet og utvidelsesstøtte etter hvert som bedriften vokser.',
+          'OLagoon støtter flåter i alle størrelser, fra små klubber med 10–30 brett til store operasjoner med over 100 brett. Vi tilbyr voluminnkjøpsløsninger, ensartet produktkvalitet og utvidelsesstøtte etter hvert som bedriften vokser.',
       },
     ],
     cta: {
-      title: 'Bygg din kommersielle SUP-flåte med Afarer',
+      title: 'Bygg din kommersielle SUP-flåte med OLagoon',
       subtitle:
-        'Utstyret ditt er grunnmuren i bedriften din. Velg produkter designet for å prestere hver dag. Afarer hjelper padleklubber, SUP-skoler, utleieoperatører og resorter med å skape profesjonelle SUP-flåter med pålitelig produksjonsstøtte.',
+        'Utstyret ditt er grunnmuren i bedriften din. Velg produkter designet for å prestere hver dag. OLagoon hjelper padleklubber, SUP-skoler, utleieoperatører og resorter med å skape profesjonelle SUP-flåter med pålitelig produksjonsstøtte.',
       primaryAction: {
         text: 'Start ditt kommersielle SUP-prosjekt i dag',
       },
@@ -304,7 +304,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP-flåteleverandør for kommersielle vannparker | {SITE}',
       description:
-        'Afarer tilbyr kommersielle SUP-flåteløsninger for vannparker og fornøyelsesparker. Svært robuste paddleboards, nybegynnervennlige design, sikkerhetsfokusert konstruksjon og storskala OEM-leveranse.',
+        'OLagoon tilbyr kommersielle SUP-flåteløsninger for vannparker og fornøyelsesparker. Svært robuste paddleboards, nybegynnervennlige design, sikkerhetsfokusert konstruksjon og storskala OEM-leveranse.',
     },
     hero: {
       tagline: 'SUP-løsninger med høy gjennomstrømning for vannparker, temaparker og store underholdningsanlegg',
@@ -351,12 +351,12 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Sikkerhetsorientert konstruksjon',
           description:
-            'Afarer støtter produktutvikling med sikkerhetsfokus. Beskyttende kantdesign med forsterket sidebeskyttelse og mykere støtsoner reduserer kollisjonskraft. EVA-sikkerhetsdekk med full dekning gir sklisikker overflate og komfortabelt ståområde. Avrundede nybegynnervennlige former reduserer skarpe kanter og vanskelig håndtering.',
+            'OLagoon støtter produktutvikling med sikkerhetsfokus. Beskyttende kantdesign med forsterket sidebeskyttelse og mykere støtsoner reduserer kollisjonskraft. EVA-sikkerhetsdekk med full dekning gir sklisikker overflate og komfortabelt ståområde. Avrundede nybegynnervennlige former reduserer skarpe kanter og vanskelig håndtering.',
         },
         {
           title: 'Flåteplanlegging for høy gjennomstrømning',
           description:
-            'Afarer hjelper parker med å velge riktig flåtestørrelse. Små aktivitetssoner (100–300 brett) for vannområder på resorter, mellomstore underholdningsparker (300–600 brett) for regionale vannparker og store temaparkdrifter (600–1000+ brett) for store underholdningskonsern og attraksjoner med flere soner.',
+            'OLagoon hjelper parker med å velge riktig flåtestørrelse. Små aktivitetssoner (100–300 brett) for vannområder på resorter, mellomstore underholdningsparker (300–600 brett) for regionale vannparker og store temaparkdrifter (600–1000+ brett) for store underholdningskonsern og attraksjoner med flere soner.',
         },
         {
           title: 'Komplett utstyrspakke for vannpark',
@@ -397,7 +397,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Planlegging av kommersiell flåte',
           detail:
-            'Afarer designet et SUP-aktivitetssystem for vannparken, inkludert stabile nybegynnerbrett, kommersielt tilbehør og reservedeler.',
+            'OLagoon designet et SUP-aktivitetssystem for vannparken, inkludert stabile nybegynnerbrett, kommersielt tilbehør og reservedeler.',
         },
         {
           title: 'Sikkerhetstilpasning',
@@ -434,17 +434,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1: Valg av gruntvanns-SUP og modulært hinderdesign',
               detail:
-                'I januar 2025 evaluerte Delgado 7 leverandører av oppblåsbare SUP. Han forkastet 4 på grunn av gjenoppblåsningssykluser på over 6 minutter og 2 til på grunn av delaminering i UV-testing. Han valgte Afarer Explorer 11\'6" X (34" bredde, 6" tykkelse, 320 L volum) på grunn av maksimal stivhet ved 15 PSI og en 5-minutters syklus fra full tømming til lagring. Han samarbeidet med Afarers OEM-team om å legge til 4 integrerte D-ringfestepunkter per brett for klipp-på-hindermoduler — balansebjelker, flytende hekker og krypebuer — med et egendefinert skinnefestesystem testet til 220 lbs lateral kraft.',
+                'I januar 2025 evaluerte Delgado 7 leverandører av oppblåsbare SUP. Han forkastet 4 på grunn av gjenoppblåsningssykluser på over 6 minutter og 2 til på grunn av delaminering i UV-testing. Han valgte OLagoon Explorer 11\'6" X (34" bredde, 6" tykkelse, 320 L volum) på grunn av maksimal stivhet ved 15 PSI og en 5-minutters syklus fra full tømming til lagring. Han samarbeidet med OLagoons OEM-team om å legge til 4 integrerte D-ringfestepunkter per brett for klipp-på-hindermoduler — balansebjelker, flytende hekker og krypebuer — med et egendefinert skinnefestesystem testet til 220 lbs lateral kraft.',
             },
             {
               title: 'Fase 2: Oppsett av hinderbanen og samsvar med vanndyp',
               detail:
-                'I løpet av 6 uker designet Delgado og hans ledende vanningeniør Sarah Kim 3 banekonfigurasjoner for ulike bassengdybder (3,5–5,5 fot). De brukte Afarers CAD-filer til å modellere brettavstand med 8 fots mellomrom, som skapte 150 fots slangebaner. Hver bane krevde 16 brett pluss 4 reservebrett per park. Kim fikk TDLR-sertifisering for fornøyelsesattraksjoner ved å integrere bruddkoblinger med skjærpinne på alle hinderfestene, slik at ingen komponent oversteg 15 lbs løsrivningskraft.',
+                'I løpet av 6 uker designet Delgado og hans ledende vanningeniør Sarah Kim 3 banekonfigurasjoner for ulike bassengdybder (3,5–5,5 fot). De brukte OLagoons CAD-filer til å modellere brettavstand med 8 fots mellomrom, som skapte 150 fots slangebaner. Hver bane krevde 16 brett pluss 4 reservebrett per park. Kim fikk TDLR-sertifisering for fornøyelsesattraksjoner ved å integrere bruddkoblinger med skjærpinne på alle hinderfestene, slik at ingen komponent oversteg 15 lbs løsrivningskraft.',
             },
             {
               title: 'Fase 3: Badevaktsertifisering i SUP og rask responsøvelser',
               detail:
-                'I mars 2025 gjennomførte Afarers opplæringsteam en 3-dagers sertifisering på stedet i flaggskipsparken Red Oak for 24 badevakter. Opplæringen dekket redningsteknikker med SUP, nødavstigning og håndtering av folkemengder. Delgado innførte et 15-minutters rotasjonssystem: 12 minutters SUP-økt + 3 minutters brettskifte. Hver park fikk en dedikert forberedelsessone på 40 fot med 50 veggmonterte brettstativer produsert av Paddletek. Andelen som fullførte badevaktsertifiseringen, var 100 % med et skriftlig eksamensgjennomsnitt på 94 %.',
+                'I mars 2025 gjennomførte OLagoons opplæringsteam en 3-dagers sertifisering på stedet i flaggskipsparken Red Oak for 24 badevakter. Opplæringen dekket redningsteknikker med SUP, nødavstigning og håndtering av folkemengder. Delgado innførte et 15-minutters rotasjonssystem: 12 minutters SUP-økt + 3 minutters brettskifte. Hver park fikk en dedikert forberedelsessone på 40 fot med 50 veggmonterte brettstativer produsert av Paddletek. Andelen som fullførte badevaktsertifiseringen, var 100 % med et skriftlig eksamensgjennomsnitt på 94 %.',
             },
             {
               title: 'Fase 4: Lansering på Memorial Day og sesongresultater',
@@ -472,7 +472,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: SUP-valg for beskjedenhet, stabilitet og varmebestandighet',
               detail:
-                'I november 2024 testet Al Falasi 9 SUP-modeller fra 5 merkevarer. Bare Afarer Explorer 10\'8" X (33" x 6" x 320 L) bestod 48-timers varmekammertesten på 50 °C uten materialforringelse. Hun bestilte 120 brett i to fargevarianter (sanddynbeige og havturkis) for å matche La Mers estetikk. Hvert brett ble utstyrt med et egendefinert, avtagbart taklynnesystem — en bue i karbonfiber med UPF 50+-stoff — designet av Afarers ingeniørteam over 3 prototype-iterasjoner. Taklynnene la til 1,2 kg, men stabiliteten ble beholdt innen 0,5 graders krenging.',
+                'I november 2024 testet Al Falasi 9 SUP-modeller fra 5 merkevarer. Bare OLagoon Explorer 10\'8" X (33" x 6" x 320 L) bestod 48-timers varmekammertesten på 50 °C uten materialforringelse. Hun bestilte 120 brett i to fargevarianter (sanddynbeige og havturkis) for å matche La Mers estetikk. Hvert brett ble utstyrt med et egendefinert, avtagbart taklynnesystem — en bue i karbonfiber med UPF 50+-stoff — designet av OLagoons ingeniørteam over 3 prototype-iterasjoner. Taklynnene la til 1,2 kg, men stabiliteten ble beholdt innen 0,5 graders krenging.',
             },
             {
               title: 'Steg 2: Soneinndeling av lagunen, personvern og kjønnsdelt planlegging',
@@ -482,7 +482,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 3: Rekruttering av kvinnelige SUP-instruktører og kulturell opplæring',
               detail:
-                'AquaFun startet en målrettet rekrutteringskampanje i januar 2025 og ansatte 12 kvinnelige SUP-instruktører (8 emiratiske, 4 utenlandske) og 6 mannlige instruktører. Afarer leverte en tilpasset 5-dagers sertifisering i SUP-guiding med kulturell tilpasning — med arabisk terminologi for padlekommandoer, redningsteknikker i samsvar med beskjedenhet (brett-til-brett-sleping uten fysisk kontakt) og tempostrategier for familiegrupper. Alle 18 instruktørene bestod den tilsvarende IRF nivå 1-vurderingen innen 20. februar. Opplæringen kostet 28 000 USD og ble samfinansiert av Dubai Tourisms tilskudd for produktinnovasjon.',
+                'AquaFun startet en målrettet rekrutteringskampanje i januar 2025 og ansatte 12 kvinnelige SUP-instruktører (8 emiratiske, 4 utenlandske) og 6 mannlige instruktører. OLagoon leverte en tilpasset 5-dagers sertifisering i SUP-guiding med kulturell tilpasning — med arabisk terminologi for padlekommandoer, redningsteknikker i samsvar med beskjedenhet (brett-til-brett-sleping uten fysisk kontakt) og tempostrategier for familiegrupper. Alle 18 instruktørene bestod den tilsvarende IRF nivå 1-vurderingen innen 20. februar. Opplæringen kostet 28 000 USD og ble samfinansiert av Dubai Tourisms tilskudd for produktinnovasjon.',
             },
             {
               title: 'Steg 4: Myk lansering tilpasset ramadan og løpende drift',
@@ -499,28 +499,28 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor vannparker velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor vannparker velger OLagoon',
       items: [
         {
           title: 'Drift med stor trafikk',
           description:
-            'Utstyret må overleve daglig kommersiell bruk. Afarer designer for kontinuerlig drift med store volumer og holdbar konstruksjon.',
+            'Utstyret må overleve daglig kommersiell bruk. OLagoon designer for kontinuerlig drift med store volumer og holdbar konstruksjon.',
         },
         {
           title: 'Sikkerhetskrav',
           description:
-            'Gjestene trenger trygghet og beskyttelse. Afarer prioriterer sikkerhet i hvert produktdesign med nybegynnervennlige funksjoner.',
+            'Gjestene trenger trygghet og beskyttelse. OLagoon prioriterer sikkerhet i hvert produktdesign med nybegynnervennlige funksjoner.',
         },
         {
           title: 'Flåtestyring',
           description:
-            'Store prosjekter krever komplette systemer. Afarer tilbyr flåteplanlegging fra ende til ende, mengdeanbefalinger og støtte.',
+            'Store prosjekter krever komplette systemer. OLagoon tilbyr flåteplanlegging fra ende til ende, mengdeanbefalinger og støtte.',
         },
         {
           title: 'Langsiktig pålitelighet',
           description:
-            'Attraksjoner er avhengige av stabil drift. Afarer sikrer holdbare produkter og pålitelig forsyning for år med kontinuerlig bruk.',
+            'Attraksjoner er avhengige av stabil drift. OLagoon sikrer holdbare produkter og pålitelig forsyning for år med kontinuerlig bruk.',
         },
       ],
     },
@@ -528,36 +528,36 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvilken flåtestørrelse anbefales for en SUP-attraksjon i vannpark?',
         answer:
-          'Afarer anbefaler 100–300 brett for små aktivitetssoner og vannområder på resorter, 300–600 brett for regionale vannparker og turistdestinasjoner, og 600–1000+ brett for store temaparker og attraksjoner med flere soner.',
+          'OLagoon anbefaler 100–300 brett for små aktivitetssoner og vannområder på resorter, 300–600 brett for regionale vannparker og turistdestinasjoner, og 600–1000+ brett for store temaparker og attraksjoner med flere soner.',
       },
       {
         question: 'Hvor holdbare er kommersielle SUP-brett til daglig bruk i vannpark?',
         answer:
-          'Afarers kommersielle SUP-brett er konstruert for drift med stor trafikk, med forsterket PVC-konstruksjon, holdbare sømmer og tilbehør i kommersiell klasse. De tåler kontinuerlig daglig bruk, hyppige nybegynnerfeil og gjentatte støt som ville skadet produkter i forbrukerklasse.',
+          'OLagoons kommersielle SUP-brett er konstruert for drift med stor trafikk, med forsterket PVC-konstruksjon, holdbare sømmer og tilbehør i kommersiell klasse. De tåler kontinuerlig daglig bruk, hyppige nybegynnerfeil og gjentatte støt som ville skadet produkter i forbrukerklasse.',
       },
       {
         question: 'Kan SUP-brett tilpasses med vannparkens profilering?',
         answer:
-          'Ja, Afarer støtter full tilpasning, inkludert parklogoer, grafikk med figurer, egendefinerte farger og integrasjon av attraksjonstemaer. Egendefinert profilering gjør SUP-utstyret til attraksjoner verdt å fotografere, som skaper eksponering i sosiale medier.',
+          'Ja, OLagoon støtter full tilpasning, inkludert parklogoer, grafikk med figurer, egendefinerte farger og integrasjon av attraksjonstemaer. Egendefinert profilering gjør SUP-utstyret til attraksjoner verdt å fotografere, som skaper eksponering i sosiale medier.',
       },
       {
-        question: 'Hvilke sikkerhetsfunksjoner har Afarers kommersielle SUP-brett?',
+        question: 'Hvilke sikkerhetsfunksjoner har OLagoons kommersielle SUP-brett?',
         answer:
-          'Afarers brett har beskyttende kantdesign, EVA-sikkerhetsdekk med full sklisikring, konstruksjon med høy oppdrift, avrundede nybegynnervennlige former og forsterket sidebeskyttelse. Disse funksjonene minimaliserer kollisjonskraft og sikrer trygg drift for førstegangsbrukere.',
+          'OLagoons brett har beskyttende kantdesign, EVA-sikkerhetsdekk med full sklisikring, konstruksjon med høy oppdrift, avrundede nybegynnervennlige former og forsterket sidebeskyttelse. Disse funksjonene minimaliserer kollisjonskraft og sikrer trygg drift for førstegangsbrukere.',
       },
       {
-        question: 'Hvordan støtter Afarer vedlikehold og utskifting for store flåter?',
+        question: 'Hvordan støtter OLagoon vedlikehold og utskifting for store flåter?',
         answer:
-          'Afarer tilbyr standardiserte komponenter for enklere utskifting, reparasjonsmaterialer og veiledning, inspeksjonssystemer for flåten med daglige kontroller og tilgjengelighet av reservedeler. Vi tilbyr også årlige forsyningsprogrammer for sesongutskifting og flåteoppgraderinger.',
+          'OLagoon tilbyr standardiserte komponenter for enklere utskifting, reparasjonsmaterialer og veiledning, inspeksjonssystemer for flåten med daglige kontroller og tilgjengelighet av reservedeler. Vi tilbyr også årlige forsyningsprogrammer for sesongutskifting og flåteoppgraderinger.',
       },
       {
         question: 'Hva er typisk leveringstid for en stor SUP-flåtebestilling?',
         answer:
-          'Leveringstiden varierer etter bestillingsstørrelse og tilpasningsbehov. Afarer samarbeider tett med hver kunde om å fastsette produksjonsplaner, fra pilotprosjekter på 100–500 sett til fullskalainstallasjoner på 500–1000+ sett, og sikrer levering i tide til sesongåpninger.',
+          'Leveringstiden varierer etter bestillingsstørrelse og tilpasningsbehov. OLagoon samarbeider tett med hver kunde om å fastsette produksjonsplaner, fra pilotprosjekter på 100–500 sett til fullskalainstallasjoner på 500–1000+ sett, og sikrer levering i tide til sesongåpninger.',
       },
     ],
     cta: {
-      title: 'Bygg vannparkens SUP-attraksjon med Afarer',
+      title: 'Bygg vannparkens SUP-attraksjon med OLagoon',
       subtitle:
         'Skap mer enn en vannaktivitet. Skap en minnerik gjesteopplevelse som får besøkende til å komme tilbake.',
       primaryAction: {
@@ -573,7 +573,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Leverandør av kommersielt SUP-utstyr | Strandutleieflåteløsninger | {SITE}',
       description:
-        'Afarer tilbyr kommersielle SUP-flåteløsninger for strandfritidsbedrifter og vannsportsentre. Robuste utleiepaddleboards, komplette utstyrspakker, støtte med reservedeler og OEM-tilpasning.',
+        'OLagoon tilbyr kommersielle SUP-flåteløsninger for strandfritidsbedrifter og vannsportsentre. Robuste utleiepaddleboards, komplette utstyrspakker, støtte med reservedeler og OEM-tilpasning.',
     },
     hero: {
       tagline: 'Komplette løsninger for strandaktivitetsutstyr™',
@@ -614,49 +614,49 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'SUP-flåtedesign i kommersiell klasse',
           description:
-            'Afarer utvikler SUP-produkter spesifikt for kommersielle miljøer, med forsterket PVC-konstruksjon, sterk sømteknologi, EVA-dekksystemer i tung klasse og tilbehør i kommersiell klasse, inkludert holdbare padleårer og pumper.',
+            'OLagoon utvikler SUP-produkter spesifikt for kommersielle miljøer, med forsterket PVC-konstruksjon, sterk sømteknologi, EVA-dekksystemer i tung klasse og tilbehør i kommersiell klasse, inkludert holdbare padleårer og pumper.',
           features: ['Forsterket konstruksjon', 'EVA-dekksystem i tung klasse', 'Kommersielt tilbehør'],
         },
         {
           title: 'Komplett planlegging av utleieflåte',
           description:
-            'Afarer hjelper til med å velge riktig utstyrsmiks for strandutleieflåter med stabile allround-SUP, vannsportssenterflåter med flere størrelser og instruktørbrett, og resortaktivitetsflåter med merket premiumutstyr.',
+            'OLagoon hjelper til med å velge riktig utstyrsmiks for strandutleieflåter med stabile allround-SUP, vannsportssenterflåter med flere størrelser og instruktørbrett, og resortaktivitetsflåter med merket premiumutstyr.',
           features: ['Strandutleieflåte', 'Vannsportssenterflåte', 'Resortaktivitetsflåte'],
         },
         {
           title: 'Utleie-SUP-konfigurasjon med høy holdbarhet',
           description:
-            'Afarer optimaliserer produktene for ripebestandighet mot strandsand og hyppig håndtering, enkel reparasjon med reperasjonssett og standardiserte komponenter, og lang levetid som maksimerer utstyrets avkastning.',
+            'OLagoon optimaliserer produktene for ripebestandighet mot strandsand og hyppig håndtering, enkel reparasjon med reperasjonssett og standardiserte komponenter, og lang levetid som maksimerer utstyrets avkastning.',
           features: ['Ripebestandighet', 'Enkel reparasjon', 'Lang levetid'],
         },
         {
           title: 'Standardisert reservedelssystem',
           description:
-            'Afarer støtter kommersielle operatører med erstatningstilbehør, inkludert ventiler, leasher, padleårer, pumper og reperasjonsmaterialer, i tillegg til vedlikeholdsplanlegging for flåten med daglig inspeksjon og sesongvedlikehold.',
+            'OLagoon støtter kommersielle operatører med erstatningstilbehør, inkludert ventiler, leasher, padleårer, pumper og reperasjonsmaterialer, i tillegg til vedlikeholdsplanlegging for flåten med daglig inspeksjon og sesongvedlikehold.',
           features: ['Erstatningstilbehør', 'Vedlikeholdsplanlegging for flåten', 'Rask gjenoppretting'],
         },
         {
           title: 'Komplette strandaktivitetspakker',
           description:
-            'Afarer tilbyr SUP-utleiepakker med kommersielle brett og tilbehør, familiepakker for vannaktiviteter for resorter og turistområder, og gruppearrangementpakker for bedrifts- og skoleaktiviteter.',
+            'OLagoon tilbyr SUP-utleiepakker med kommersielle brett og tilbehør, familiepakker for vannaktiviteter for resorter og turistområder, og gruppearrangementpakker for bedrifts- og skoleaktiviteter.',
           features: ['SUP-utleiepakke', 'Familiepakke for vannaktiviteter', 'Gruppearrangementpakke'],
         },
         {
           title: 'Merkevare- og bedriftstilpasning',
           description:
-            'Afarer støtter egendefinert operatørprofil med logotrykk og farger, design av turistopplevelser som skaper merkede aktiviteter og fotomuligheter, og integrering i resort og strand tilpasset destinasjonens identitet.',
+            'OLagoon støtter egendefinert operatørprofil med logotrykk og farger, design av turistopplevelser som skaper merkede aktiviteter og fotomuligheter, og integrering i resort og strand tilpasset destinasjonens identitet.',
           features: ['Egendefinert operatørprofil', 'Design av turistopplevelser', 'Integrering i resort og strand'],
         },
         {
           title: 'Sikkerhet og nybegynnervennlig design',
           description:
-            'Afarer fokuserer på stabilitetsdesign med bredere brettformer for turister og familier, og enkel betjening som hjelper førstegangspadlere til raskt å nyte opplevelsen med trygghet og sikkerhet.',
+            'OLagoon fokuserer på stabilitetsdesign med bredere brettformer for turister og familier, og enkel betjening som hjelper førstegangspadlere til raskt å nyte opplevelsen med trygghet og sikkerhet.',
           features: ['Stabilitetsdesign', 'Enkel betjening', 'Nybegynnervennlig ytelse'],
         },
         {
           title: 'Forsyningsstøtte for sesongbaserte bedrifter',
           description:
-            'Afarer hjelper operatører med planlegging før sesongen for utstyrsvalg og produksjonsplanlegging, sesongutskifting for ekstra utstyr og reservedeler, og langsiktig flåtevekst fra små driftssteder til store sentre.',
+            'OLagoon hjelper operatører med planlegging før sesongen for utstyrsvalg og produksjonsplanlegging, sesongutskifting for ekstra utstyr og reservedeler, og langsiktig flåtevekst fra små driftssteder til store sentre.',
           features: ['Planlegging før sesongen', 'Sesongutskifting', 'Langsiktig flåtevekst'],
         },
       ],
@@ -673,7 +673,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Flåteplanlegging',
           detail:
-            'Afarer designet en kommersiell SUP-utstyrspakke med stabile allroundbrett, tilbehør i tung klasse og reservedeler tilpasset operatørens strandmiljø.',
+            'OLagoon designet en kommersiell SUP-utstyrspakke med stabile allroundbrett, tilbehør i tung klasse og reservedeler tilpasset operatørens strandmiljø.',
         },
         {
           title: 'Produkttilpasning',
@@ -710,27 +710,27 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Omfattende resortgjennomgang og utstyrsspesifikasjon',
               detail:
-                'I september 2024 gjennomførte Carlos og Afarers team for Hospitality Solutions en 5-dagers revisjon på stedet på alle 3 eiendommene. De analyserte gjestedemografi, toppbruksmønstre, lagringsbegrensninger, bemanningsnivåer og saltvannseksponering. Revisjonen avdekket at over 60 gjestedager gikk tapt årlig på grunn av nedetid på utstyret, og at eksisterende brett varte bare 8–12 måneder før de forfalt i den karibiske solen og saltspruten. Afarer foreslo en flåte på 140 enheter: 100 SUP-er (10\'6" allround), 20 padlebrett med gjennomsiktig bunn for revvisning, 20 pedalbrett og 10 tandem fiske-SUP. Hvert brett hadde UV-stabilisert PVC i marin klasse med 5 års kommersiell garanti, beslag i rustfritt stål og Hyatt Ziva-merket grafikk i merkevarens kjennetegnende turkis og hvitt.',
+                'I september 2024 gjennomførte Carlos og OLagoons team for Hospitality Solutions en 5-dagers revisjon på stedet på alle 3 eiendommene. De analyserte gjestedemografi, toppbruksmønstre, lagringsbegrensninger, bemanningsnivåer og saltvannseksponering. Revisjonen avdekket at over 60 gjestedager gikk tapt årlig på grunn av nedetid på utstyret, og at eksisterende brett varte bare 8–12 måneder før de forfalt i den karibiske solen og saltspruten. OLagoon foreslo en flåte på 140 enheter: 100 SUP-er (10\'6" allround), 20 padlebrett med gjennomsiktig bunn for revvisning, 20 pedalbrett og 10 tandem fiske-SUP. Hvert brett hadde UV-stabilisert PVC i marin klasse med 5 års kommersiell garanti, beslag i rustfritt stål og Hyatt Ziva-merket grafikk i merkevarens kjennetegnende turkis og hvitt.',
             },
             {
               title: 'Driftsinfrastruktur på stranden og lagringsløsninger',
               detail:
-                'Afarers team designet et komplett driftsnav på stranden for hvert resort, inkludert: en låsbar 40-fots fraktcontainer bygget om til et sikkert utstyrsrom med solcelledrevet ventilasjon, 10 kraftige elektriske oppblåsingsstasjoner med digitale trykkmålere, et mobilt stativsystem som rommer 50 brett med dryping og drenering, og en reparasjons- og vedlikeholdsstasjon med reservedeler, lappesett og rengjøringsutstyr. Eiendommen i Puerto Morelos fikk en dedikert kiosk på stranden med innsjekkdisk, vegg for redningsvester og digital planleggingsskjerm. Afarers installasjonsteam tilbrakte 2 uker på hver eiendom med å ombygge eksisterende lagringsområder og lære opp vedlikeholdspersonell i riktige rutiner, inkludert protokollen med ferskvannsskylling etter hver bruk.',
+                'OLagoons team designet et komplett driftsnav på stranden for hvert resort, inkludert: en låsbar 40-fots fraktcontainer bygget om til et sikkert utstyrsrom med solcelledrevet ventilasjon, 10 kraftige elektriske oppblåsingsstasjoner med digitale trykkmålere, et mobilt stativsystem som rommer 50 brett med dryping og drenering, og en reparasjons- og vedlikeholdsstasjon med reservedeler, lappesett og rengjøringsutstyr. Eiendommen i Puerto Morelos fikk en dedikert kiosk på stranden med innsjekkdisk, vegg for redningsvester og digital planleggingsskjerm. OLagoons installasjonsteam tilbrakte 2 uker på hver eiendom med å ombygge eksisterende lagringsområder og lære opp vedlikeholdspersonell i riktige rutiner, inkludert protokollen med ferskvannsskylling etter hver bruk.',
             },
             {
               title: 'Aktivitetsprogrammer, opplæring av personalet og design av gjesteopplevelsen',
               detail:
-                "Afarer utviklet et aktivitetsprogram i trinn for hvert resort: gratis (SUP-utleie i 1-timers økter), guidet (SUP-yoga om morgenen til 45 USD per person, solnedgangsturer til revet til 55 USD per person) og premium (private padlepicnic-ekskursjoner til 120 USD per person). Afarers trenere tilbrakte 12 dager på de 3 resortene og lærte opp 24 rekreasjonsansatte i utstyrshåndtering, gjesteinstruksjon, sikkerhetsprotokoller og enkel reparasjon. Opplæringen omfattet et sertifiseringsprogram anerkjent av Mexican Association of Water Sports Operators. Carlos' team lanserte et QR-kodebestillingssystem integrert med Hyatts gjesteapp, slik at gjestene kunne reservere utstyr 48 timer på forhånd.",
+                "OLagoon utviklet et aktivitetsprogram i trinn for hvert resort: gratis (SUP-utleie i 1-timers økter), guidet (SUP-yoga om morgenen til 45 USD per person, solnedgangsturer til revet til 55 USD per person) og premium (private padlepicnic-ekskursjoner til 120 USD per person). OLagoons trenere tilbrakte 12 dager på de 3 resortene og lærte opp 24 rekreasjonsansatte i utstyrshåndtering, gjesteinstruksjon, sikkerhetsprotokoller og enkel reparasjon. Opplæringen omfattet et sertifiseringsprogram anerkjent av Mexican Association of Water Sports Operators. Carlos' team lanserte et QR-kodebestillingssystem integrert med Hyatts gjesteapp, slik at gjestene kunne reservere utstyr 48 timer på forhånd.",
             },
             {
               title: 'Sesongdrift, målfølging og ROI-analyse',
               detail:
-                "Hele programmet ble lansert 15. januar 2025, og innen juni 2025 hadde det støttet 14 200 gjesteopplevelser uten en eneste sikkerhetshendelse. Gjestetilfredsheten for vannsportsaktiviteter lå i gjennomsnitt på 4,7/5, og padlebrettene med gjennomsiktig bunn fikk de høyeste vurderingene (4,9/5). Utstyrets vedlikeholdskostnader falt 42 % sammenlignet med året før med flere leverandører — fra 34 000 USD til 19 700 USD på tvers av de 3 eiendommene. De premium-guidede programmene genererte 112 000 USD i ekstra inntekter i løpet av de første 6 månedene. Carlos' team rapporterte en økning på 22 % i gjester som forlenget oppholdet med én eller flere netter spesifikt på grunn av vannsport. Hyatts Inclusive Collection godkjente et budsjett på 240 000 USD for 2026 til å ta i bruk Afarer-utstyr på 2 ekstra eiendommer i Den dominikanske republikk og Jamaica.",
+                "Hele programmet ble lansert 15. januar 2025, og innen juni 2025 hadde det støttet 14 200 gjesteopplevelser uten en eneste sikkerhetshendelse. Gjestetilfredsheten for vannsportsaktiviteter lå i gjennomsnitt på 4,7/5, og padlebrettene med gjennomsiktig bunn fikk de høyeste vurderingene (4,9/5). Utstyrets vedlikeholdskostnader falt 42 % sammenlignet med året før med flere leverandører — fra 34 000 USD til 19 700 USD på tvers av de 3 eiendommene. De premium-guidede programmene genererte 112 000 USD i ekstra inntekter i løpet av de første 6 månedene. Carlos' team rapporterte en økning på 22 % i gjester som forlenget oppholdet med én eller flere netter spesifikt på grunn av vannsport. Hyatts Inclusive Collection godkjente et budsjett på 240 000 USD for 2026 til å ta i bruk OLagoon-utstyr på 2 ekstra eiendommer i Den dominikanske republikk og Jamaica.",
             },
           ],
           results: [
             'Over 14 200 gjesteopplevelser i løpet av de første 6 månedene uten sikkerhetshendelser, med 4,7/5 i gjestetilfredshet for vannsportsaktiviteter',
-            'Utstyrets vedlikeholdskostnader redusert med 42 %, fra 34 000 USD til 19 700 USD årlig, takket være Afarers konstruksjon i kommersiell klasse og UV-stabiliserte materialer',
+            'Utstyrets vedlikeholdskostnader redusert med 42 %, fra 34 000 USD til 19 700 USD årlig, takket være OLagoons konstruksjon i kommersiell klasse og UV-stabiliserte materialer',
             'Premium-guidede programmer genererte 112 000 USD i ekstra inntekter på 6 måneder, med SUP-yoga og solnedgangsturer til revet som de mest populære',
             '22 % økning i gjester som forlenger oppholdet med én eller flere netter og nevner vannsport som en viktig faktor, anslått å bidra med 340 000 USD i ekstra rominntekter',
           ],
@@ -747,22 +747,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Behovsanalyse for flere eiendommer og egendefinert flåteutvikling',
               detail:
-                'I oktober 2024 gjennomførte Afarers Hospitality-team individuelle vurderinger på hver BlueWave-lokasjon under en 10 dagers rundreise i Kykladene. Hver klubb hadde ulike forhold: Mykonos (fylte bukter, kresne kunder, vindeksponering), Santorini (vulkansk sand, roligere farvann, solnedgangsturisme), Naxos (familieorientert, grunt vann, lengre strandlinje), Paros (kryssing med brettseiling, sportslige kunder) og Kreta (større bølger, blandet publikum). Afarer designet en flåte på 200 enheter med lokasjonsspesifikke konfigurasjoner: 110 SUP-er (inkludert 20 SUP-yogaplattformer med forlenget lengde og 20 brett med gjennomsiktig bunn), 30 pedalbrett til premiumgjester, 30 windSUP-hybrider til Mykonos og Paros og 30 ungdomsbrett til familieprogrammet på Naxos. Alle enhetene hadde BlueWaves kjennetegnende marineblå og hvite fargeskjema med logoer i gullfarge.',
+                'I oktober 2024 gjennomførte OLagoons Hospitality-team individuelle vurderinger på hver BlueWave-lokasjon under en 10 dagers rundreise i Kykladene. Hver klubb hadde ulike forhold: Mykonos (fylte bukter, kresne kunder, vindeksponering), Santorini (vulkansk sand, roligere farvann, solnedgangsturisme), Naxos (familieorientert, grunt vann, lengre strandlinje), Paros (kryssing med brettseiling, sportslige kunder) og Kreta (større bølger, blandet publikum). OLagoon designet en flåte på 200 enheter med lokasjonsspesifikke konfigurasjoner: 110 SUP-er (inkludert 20 SUP-yogaplattformer med forlenget lengde og 20 brett med gjennomsiktig bunn), 30 pedalbrett til premiumgjester, 30 windSUP-hybrider til Mykonos og Paros og 30 ungdomsbrett til familieprogrammet på Naxos. Alle enhetene hadde BlueWaves kjennetegnende marineblå og hvite fargeskjema med logoer i gullfarge.',
             },
             {
               title: 'Lokasjonsspesifikk infrastruktur og logistikkimplementering',
               detail:
-                'Afarers driftsteam utarbeidet en logistikkplan med frakt av 40 containere til 5 øyer, i samarbeid med BlueWaves lokale logistikkpartnere for overføring mellom øynene. Hver lokasjon fikk en egendefinert lagringsløsning: Mykonos fikk et klimakontrollert lagerrom ved stranden med UV-beskyttede stativer, Santorini fikk et taljesystem i fjellsiden for transport av brett fra lager til strand, Naxos fikk en familievennlig utleiekiosk med visning av barneutstyr, og Paros og Kreta fikk dobbeltfunksjonell lagring som kunne bygges om til vindbeskyttelsesskjermer. Afarer installerte et felles digitalt bestillingssystem på tvers av alle 5 eiendommene og lærte opp 35 BlueWave-ansatte i et 2-ukers intensivprogram på flaggskiplokasjonen på Mykonos i april 2025.',
+                'OLagoons driftsteam utarbeidet en logistikkplan med frakt av 40 containere til 5 øyer, i samarbeid med BlueWaves lokale logistikkpartnere for overføring mellom øynene. Hver lokasjon fikk en egendefinert lagringsløsning: Mykonos fikk et klimakontrollert lagerrom ved stranden med UV-beskyttede stativer, Santorini fikk et taljesystem i fjellsiden for transport av brett fra lager til strand, Naxos fikk en familievennlig utleiekiosk med visning av barneutstyr, og Paros og Kreta fikk dobbeltfunksjonell lagring som kunne bygges om til vindbeskyttelsesskjermer. OLagoon installerte et felles digitalt bestillingssystem på tvers av alle 5 eiendommene og lærte opp 35 BlueWave-ansatte i et 2-ukers intensivprogram på flaggskiplokasjonen på Mykonos i april 2025.',
             },
             {
               title: 'Standardisering av aktivitetsprogrammer og etablering av premiumnivå',
               detail:
-                'Dimitris team lanserte BlueWaves standardiserte vannsportsprogram «Aegean Blue Experiences» med 3 nivåer: gratis (30 minutters SUP-økter for klubbens gjester), premium (guidet SUP til avsides strender til 65–95 EUR) og ultra-premium (private padleekskursjoner med lystbåttransport til 250 EUR per person, inkludert piknik på stranden med champagne). Afarers programteam laget 12 guidete ruter på tvers av de 5 øyene, med GPS-sporede ruter, markeringer av severdigheter og fotografstøtte. Eiendommen på Mykonos lanserte også «Sunset SUP at Little Venice» — en 2-timers guidet kveldspadling som var utsolgt hver eneste økt til 85 EUR per person, med 95 % kapasitetsutnyttelse gjennom sommeren.',
+                'Dimitris team lanserte BlueWaves standardiserte vannsportsprogram «Aegean Blue Experiences» med 3 nivåer: gratis (30 minutters SUP-økter for klubbens gjester), premium (guidet SUP til avsides strender til 65–95 EUR) og ultra-premium (private padleekskursjoner med lystbåttransport til 250 EUR per person, inkludert piknik på stranden med champagne). OLagoons programteam laget 12 guidete ruter på tvers av de 5 øyene, med GPS-sporede ruter, markeringer av severdigheter og fotografstøtte. Eiendommen på Mykonos lanserte også «Sunset SUP at Little Venice» — en 2-timers guidet kveldspadling som var utsolgt hver eneste økt til 85 EUR per person, med 95 % kapasitetsutnyttelse gjennom sommeren.',
             },
             {
               title: 'Gjennomgang av sesongresultater og bærekraft i programmet',
               detail:
-                'Gjennom sesongen mai–september 2025 støttet BlueWaves samlede flåte 52 000 gjesteutleier på 5 lokasjoner (4 % over målet på 50 000). Totale utstyrskostnader ble 198 000 USD avskrevet over Afarers 5-årige garantiperiode, mot tidligere 165 000 USD årlig til utstyr som ble byttet ut hver 18. måned — en årlig kostnadsreduksjon på 52 %. Gjestetilfredsheten for vannsport økte fra 3,8/5 (flere leverandører, før 2025) til 4,6/5 på alle lokasjonene. Dimitri rapporterte 340 000 EUR i inntekter fra premiumprogrammene (SUP-yoga, guidete turer, solnedgangspadling), som ga en avkastning på 4,7 ganger utstyrsinvesteringen i løpet av én sesong. BlueWave signerte en 3-årig fornyelse med Afarer og utvider til 2 ekstra lokasjoner på Rhodos og Korfu i 2026, med 80 brett til.',
+                'Gjennom sesongen mai–september 2025 støttet BlueWaves samlede flåte 52 000 gjesteutleier på 5 lokasjoner (4 % over målet på 50 000). Totale utstyrskostnader ble 198 000 USD avskrevet over OLagoons 5-årige garantiperiode, mot tidligere 165 000 USD årlig til utstyr som ble byttet ut hver 18. måned — en årlig kostnadsreduksjon på 52 %. Gjestetilfredsheten for vannsport økte fra 3,8/5 (flere leverandører, før 2025) til 4,6/5 på alle lokasjonene. Dimitri rapporterte 340 000 EUR i inntekter fra premiumprogrammene (SUP-yoga, guidete turer, solnedgangspadling), som ga en avkastning på 4,7 ganger utstyrsinvesteringen i løpet av én sesong. BlueWave signerte en 3-årig fornyelse med OLagoon og utvider til 2 ekstra lokasjoner på Rhodos og Korfu i 2026, med 80 brett til.',
             },
           ],
           results: [
@@ -774,8 +774,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor strandoperatører velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor strandoperatører velger OLagoon',
       items: [
         {
           title: 'Holdbarhet',
@@ -812,22 +812,22 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvor mange SUP-brett bør jeg starte med for en strandutleiebedrift?',
         answer:
-          'Afarer anbefaler å starte med 10–20 brett for små stranddrifter, skalere til 30–50 for etablerte utleiebedrifter og over 50 for store vannsportssentre. Flåteplanleggingen omfatter en miks av brettstørrelser og konfigurasjoner for å betjene ulike kundetyper, fra nybegynnere til erfarne padlere.',
+          'OLagoon anbefaler å starte med 10–20 brett for små stranddrifter, skalere til 30–50 for etablerte utleiebedrifter og over 50 for store vannsportssentre. Flåteplanleggingen omfatter en miks av brettstørrelser og konfigurasjoner for å betjene ulike kundetyper, fra nybegynnere til erfarne padlere.',
       },
       {
-        question: 'Hvilke reservedeler og vedlikeholdsstøtte tilbyr Afarer for utleieflåter?',
+        question: 'Hvilke reservedeler og vedlikeholdsstøtte tilbyr OLagoon for utleieflåter?',
         answer:
-          'Afarer tilbyr et standardisert reservedelssystem med ventiler, leasher, padleårer, pumper og reperasjonsmaterialer. Vi tilbyr også veiledninger i vedlikeholdsplanlegging for flåten, med daglig inspeksjon, sesongvedlikehold og prosedyrer for rask gjenoppretting for å minimere nedetid på utstyret.',
+          'OLagoon tilbyr et standardisert reservedelssystem med ventiler, leasher, padleårer, pumper og reperasjonsmaterialer. Vi tilbyr også veiledninger i vedlikeholdsplanlegging for flåten, med daglig inspeksjon, sesongvedlikehold og prosedyrer for rask gjenoppretting for å minimere nedetid på utstyret.',
       },
       {
         question: 'Kan SUP-brett tilpasses med bedriftens logo og profilering?',
         answer:
-          'Ja, Afarer støtter full bedriftsprofilering med logotrykk, egendefinerte farger og utleieidentifikasjonsgrafikk. Dette gjør flåten din til en markedsføringsressurs og skaper fotomuligheter som øker eksponeringen i sosiale medier for bedriften din.',
+          'Ja, OLagoon støtter full bedriftsprofilering med logotrykk, egendefinerte farger og utleieidentifikasjonsgrafikk. Dette gjør flåten din til en markedsføringsressurs og skaper fotomuligheter som øker eksponeringen i sosiale medier for bedriften din.',
       },
       {
-        question: 'Hvor holdbare er Afarers kommersielle SUP-brett til daglig utleie?',
+        question: 'Hvor holdbare er OLagoons kommersielle SUP-brett til daglig utleie?',
         answer:
-          'Afarers kommersielle SUP-brett er konstruert for utleiedrift med høy frekvens, med forsterket PVC, sterk sømteknologi og beskyttende ytre lag. Med riktig vedlikehold varer de betydelig lenger enn brett i forbrukerklasse i kommersielle miljøer, noe som reduserer de totale eierkostnadene.',
+          'OLagoons kommersielle SUP-brett er konstruert for utleiedrift med høy frekvens, med forsterket PVC, sterk sømteknologi og beskyttende ytre lag. Med riktig vedlikehold varer de betydelig lenger enn brett i forbrukerklasse i kommersielle miljøer, noe som reduserer de totale eierkostnadene.',
       },
       {
         question: 'Hva er typisk avkastning på en SUP-utleieflåte?',
@@ -836,7 +836,7 @@ const no: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Bygg strandvannaktivitetsbedriften din med Afarer',
+      title: 'Bygg strandvannaktivitetsbedriften din med OLagoon',
       subtitle: 'Skap mer enn en utleietjeneste. Skap minnerike vannopplevelser.',
       primaryAction: {
         text: 'Start ditt kommersielle SUP-flåteprosjekt i dag',
@@ -851,7 +851,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Skreddersydde SUP-boards med egen merkevare for bedriftsevents | OEM-eventløsninger | {SITE}',
       description:
-        'Afarer lager skreddersydde SUP-boards med egen merkevare for bedriftsevents, teambuildingaktiviteter og markedsføringskampanjer. Fullstendig logo-tilpasning, samsvarende bedriftsfarger, rask prototyping og bulk-OEM-produksjon.',
+        'OLagoon lager skreddersydde SUP-boards med egen merkevare for bedriftsevents, teambuildingaktiviteter og markedsføringskampanjer. Fullstendig logo-tilpasning, samsvarende bedriftsfarger, rask prototyping og bulk-OEM-produksjon.',
     },
     hero: {
       tagline: 'SUP-arrangementspakke for bedrifter™',
@@ -892,25 +892,25 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Full merkevaretilpasning for bedriften',
           description:
-            'Afarer støtter logoutskrift over store flater, merkevare på brettoverflaten, tilpasning av padleårer og merking av tilbehør med firmafargematching basert på Pantonereferanser og krav til visuell identitet.',
+            'OLagoon støtter logoutskrift over store flater, merkevare på brettoverflaten, tilpasning av padleårer og merking av tilbehør med firmafargematching basert på Pantonereferanser og krav til visuell identitet.',
           features: ['Påføring av firmalogo', 'Firmafargematching', 'Egendefinert grafisk design'],
         },
         {
           title: 'Utvikling av SUP-produkter tilpasset arrangementet',
           description:
-            'Ulike arrangementer krever ulike løsninger. Afarer tilbyr teambuildingpakker for store ansattgrupper, merkevareaktiveringspakker for markedsføringskampanjer og VIP-opplevelsespakker for arrangementer for luksuskunder.',
+            'Ulike arrangementer krever ulike løsninger. OLagoon tilbyr teambuildingpakker for store ansattgrupper, merkevareaktiveringspakker for markedsføringskampanjer og VIP-opplevelsespakker for arrangementer for luksuskunder.',
           features: ['Teambuildingpakke', 'Merkevareaktiveringspakke', 'VIP-opplevelsespakke'],
         },
         {
           title: 'Rask prototype- og godkjenningsprosess',
           description:
-            'Afarer støtter rask designbekreftelse med gjennomgang av grafisk materiale og justeringer, prototypeutvikling for bekreftelse av farger og logoplassering, og produksjonsplanlegging tilpasset fristene for arrangementet.',
+            'OLagoon støtter rask designbekreftelse med gjennomgang av grafisk materiale og justeringer, prototypeutvikling for bekreftelse av farger og logoplassering, og produksjonsplanlegging tilpasset fristene for arrangementet.',
           features: ['Rask designbekreftelse', 'Prototypeutvikling', 'Produksjonsplanlegging'],
         },
         {
           title: 'Kapasitet for egendefinert produksjon i volum',
           description:
-            'Afarer støtter bedriftsbestillinger fra små arrangementer på 50–100 enheter til interne aktiviteter, mellomstore markedsføringsprosjekter på 100–500 enheter for merkevareaktivering og store bedriftskampanjer på 500–1 000+ enheter for nasjonale arrangementer.',
+            'OLagoon støtter bedriftsbestillinger fra små arrangementer på 50–100 enheter til interne aktiviteter, mellomstore markedsføringsprosjekter på 100–500 enheter for merkevareaktivering og store bedriftskampanjer på 500–1 000+ enheter for nasjonale arrangementer.',
           features: [
             'Små bedriftsarrangementer (50–100 enheter)',
             'Mellomstore markedsføringsprosjekter (100–500 enheter)',
@@ -920,7 +920,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Komplette utstyrspakker for arrangementet',
           description:
-            'Afarer leverer komplette arrangementsløsninger, inkludert egendefinerte SUP-brett, justerbare padleårer, pumper, leasher, bæretasker, reperasjonssett og valgfrie merkede padleårer, arrangementstilbehør og displaymateriell.',
+            'OLagoon leverer komplette arrangementsløsninger, inkludert egendefinerte SUP-brett, justerbare padleårer, pumper, leasher, bæretasker, reperasjonssett og valgfrie merkede padleårer, arrangementstilbehør og displaymateriell.',
           features: ['Standardpakken inneholder', 'Valgfri tilpasning', 'Utstyr til staben'],
         },
         {
@@ -932,13 +932,13 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Kvalitetskontroll for merkevareprosjekter',
           description:
-            'Afarer gjennomfører kvalitetsinspeksjon i produksjonen av materialer og trykk, kontroll av merkevarenøyaktighet for logoplassering og fargekonsistens, og leveranseinspeksjon av antall, emballasje og tilbehør.',
+            'OLagoon gjennomfører kvalitetsinspeksjon i produksjonen av materialer og trykk, kontroll av merkevarenøyaktighet for logoplassering og fargekonsistens, og leveranseinspeksjon av antall, emballasje og tilbehør.',
           features: ['Kvalitetsinspeksjon i produksjonen', 'Kontroll av merkevarenøyaktighet', 'Leveranseinspeksjon'],
         },
         {
           title: 'Leveransestøtte for arrangementer globalt',
           description:
-            'For multinasjonale selskaper støtter Afarer prosjekter i flere land, regionale arrangementer og globale kampanjer med koordinert produksjon, emballasje og forsendelsesklargjøring på tvers av stedene.',
+            'For multinasjonale selskaper støtter OLagoon prosjekter i flere land, regionale arrangementer og globale kampanjer med koordinert produksjon, emballasje og forsendelsesklargjøring på tvers av stedene.',
           features: ['Prosjekter i flere land', 'Regionale arrangementer', 'Globale kampanjer'],
         },
       ],
@@ -955,7 +955,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Integrasjon av merkevaredesignet',
           detail:
-            'Afarer utviklet egendefinert brettgrafikk med eksakt fargematching mot merkevaren og stor logoplassering for å maksimere det visuelle inntrykket på vannet.',
+            'OLagoon utviklet egendefinert brettgrafikk med eksakt fargematching mot merkevaren og stor logoplassering for å maksimere det visuelle inntrykket på vannet.',
         },
         {
           title: 'Godkjenning av prototype',
@@ -992,17 +992,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Programkonsept og egendefinert produktutvikling',
               detail:
-                "I november 2024 møtte Klaus' team Afarers avdeling for bedriftsarrangementer på båtmessen boot Düsseldorf for å gjennomgå konseptet. Afarer foreslo et egendefinert 11'6\" touringbrett i BMW i-seriens farger (Blue Ridge Mountain Metallic, Frozen Pure Grey) med innvevede kullfiberdetaljer som matchet interiøret i i7. Afarers ingeniører laget 3 prototypebrett med integrerte GoPro-fester for actionfotografering, sklisikre dekkputer med sømmer inspirert av BMW M og egendefinerte ventilhetter med BMW-emblemet. BMW godkjente 120 enheter til 895 EUR per brett, med et eget system for lagring og transport med egendefinerte trillevogner.",
+                "I november 2024 møtte Klaus' team OLagoons avdeling for bedriftsarrangementer på båtmessen boot Düsseldorf for å gjennomgå konseptet. OLagoon foreslo et egendefinert 11'6\" touringbrett i BMW i-seriens farger (Blue Ridge Mountain Metallic, Frozen Pure Grey) med innvevede kullfiberdetaljer som matchet interiøret i i7. OLagoons ingeniører laget 3 prototypebrett med integrerte GoPro-fester for actionfotografering, sklisikre dekkputer med sømmer inspirert av BMW M og egendefinerte ventilhetter med BMW-emblemet. BMW godkjente 120 enheter til 895 EUR per brett, med et eget system for lagring og transport med egendefinerte trillevogner.",
             },
             {
               title: 'Merkevareintegrasjon og planlegging av arrangementslogistikk',
               detail:
-                'Afarers grafikkteam utviklet dekaler i full størrelse med UV-stabile farger og BMW i-merkevare, QR-koder med lenke til BMW i-konfiguratoren og grafikk med sikkerhetsinstruksjoner på 8 språk. Logistikkteamet designet et rotasjonssystem som sendte 40 brett til hver av 3 regioner (Sør-Europa, Sentral-Europa, Norden/Baltikum) med mobile pumpestasjoner, batteridrevne oppblåsere og vanntette omkledningsrom. BMWs arrangementsteam valgte 18 steder, inkludert Comosjøen (Italia), St. Tropez (Frankrike), Lucernesjøen (Sveits), Gardasjøen (Italia) og skjærgården ved Stockholm (Sverige), der hvert sted tok imot 300–600 gjester over programmer på 2–3 dager.',
+                'OLagoons grafikkteam utviklet dekaler i full størrelse med UV-stabile farger og BMW i-merkevare, QR-koder med lenke til BMW i-konfiguratoren og grafikk med sikkerhetsinstruksjoner på 8 språk. Logistikkteamet designet et rotasjonssystem som sendte 40 brett til hver av 3 regioner (Sør-Europa, Sentral-Europa, Norden/Baltikum) med mobile pumpestasjoner, batteridrevne oppblåsere og vanntette omkledningsrom. BMWs arrangementsteam valgte 18 steder, inkludert Comosjøen (Italia), St. Tropez (Frankrike), Lucernesjøen (Sveits), Gardasjøen (Italia) og skjærgården ved Stockholm (Sverige), der hvert sted tok imot 300–600 gjester over programmer på 2–3 dager.',
             },
             {
               title: 'Aktivering på stedet og design av gjesteopplevelsen',
               detail:
-                'Hvert arrangement hadde en «BMW i Paddle Experience» med 40 brett tilgjengelig i 90-minutters guidede økter ledet av Afarer-opplærte instruktører. Gjestene fikk personaliserte rash guards og vanntette telefonpoucher merket BMW i. Profesjonelle fotografer fanget hver gjest som padlet med brettenes integrerte kamerafester; bildene ble redigert og levert innen 2 timer via et merket mikronettsted. Aktiveringen ble koblet til testkjøring av BMW i7 på naturskjønne kystveier, noe som skapte en merkevareopplevelse både på land og i vann. Over de første 10 arrangementene oppnådde gjestetilfredsheten 4,8/5, og BMW rapporterte at 23 % av deltakerne ba om oppfølging med prøvekjøring hos en forhandler.',
+                'Hvert arrangement hadde en «BMW i Paddle Experience» med 40 brett tilgjengelig i 90-minutters guidede økter ledet av OLagoon-opplærte instruktører. Gjestene fikk personaliserte rash guards og vanntette telefonpoucher merket BMW i. Profesjonelle fotografer fanget hver gjest som padlet med brettenes integrerte kamerafester; bildene ble redigert og levert innen 2 timer via et merket mikronettsted. Aktiveringen ble koblet til testkjøring av BMW i7 på naturskjønne kystveier, noe som skapte en merkevareopplevelse både på land og i vann. Over de første 10 arrangementene oppnådde gjestetilfredsheten 4,8/5, og BMW rapporterte at 23 % av deltakerne ba om oppfølging med prøvekjøring hos en forhandler.',
             },
             {
               title: 'Gjennomgang av resultatene og utvidelse av programmet',
@@ -1029,17 +1029,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Programdesign og logistikkplanlegging for flere steder',
               detail:
-                'Dr. Sharmas team engasjerte Afarer i februar 2025 til et egendefinert bedriftsprogram. Afarer foreslo temaet «Paddle into Production», der lag med 8–10 ingeniører skulle navigere SUP-løyper som representerte fasene i Google Clouds utrullingspipeline. Afarer tilpasset 80 brett med Google Cloud-merkevare, fargekoding per lag og vanntette tekniske dekkholdere for mobilenheter. Logistikkplanen dekket 6 steder: hovedkvarteret i Sunnyvale, Seattle, New York, Austin, Chicago og Boulder, med arrangementer spredt med 2 ukers mellomrom fra juni til august 2025. Afarer forpliktet seg til 320 000 EUR for 80 brett, 24 instruktører, full logistikk og merket utstyr til 1 200 deltakere.',
+                'Dr. Sharmas team engasjerte OLagoon i februar 2025 til et egendefinert bedriftsprogram. OLagoon foreslo temaet «Paddle into Production», der lag med 8–10 ingeniører skulle navigere SUP-løyper som representerte fasene i Google Clouds utrullingspipeline. OLagoon tilpasset 80 brett med Google Cloud-merkevare, fargekoding per lag og vanntette tekniske dekkholdere for mobilenheter. Logistikkplanen dekket 6 steder: hovedkvarteret i Sunnyvale, Seattle, New York, Austin, Chicago og Boulder, med arrangementer spredt med 2 ukers mellomrom fra juni til august 2025. OLagoon forpliktet seg til 320 000 EUR for 80 brett, 24 instruktører, full logistikk og merket utstyr til 1 200 deltakere.',
             },
             {
               title: 'Utvikling av inkluderende aktiviteter og rammeverk for sikkerhet',
               detail:
-                'Afarers programteam laget 3 ferdighetsspor: «Beginner Buoy» (grunnleggende padling og stabilitetsleker), «Production Racer» (stafettløp for lag) og «Cloud Cluster» (formasjonsutfordringer i gruppe som krevde koordinering). Hvert spor inneholdt utfordringer med Google Cloud-tema, som «deploy a container» (balansere en ball på brettet mens man padler) og «scale to zero» (alle må sette seg samtidig). Afarer hyrte 24 sertifiserte SUP-instruktører på tvers av alle stedene og utviklet en omfattende sikkerhetsprotokoll med obligatoriske redningsvester, makkersystem, svømmetester og observatører på vannet med redningsbrett.',
+                'OLagoons programteam laget 3 ferdighetsspor: «Beginner Buoy» (grunnleggende padling og stabilitetsleker), «Production Racer» (stafettløp for lag) og «Cloud Cluster» (formasjonsutfordringer i gruppe som krevde koordinering). Hvert spor inneholdt utfordringer med Google Cloud-tema, som «deploy a container» (balansere en ball på brettet mens man padler) og «scale to zero» (alle må sette seg samtidig). OLagoon hyrte 24 sertifiserte SUP-instruktører på tvers av alle stedene og utviklet en omfattende sikkerhetsprotokoll med obligatoriske redningsvester, makkersystem, svømmetester og observatører på vannet med redningsbrett.',
             },
             {
               title: 'Introduksjon, merket utstyr og gjennomføring',
               detail:
-                'Hver deltaker fikk en merket velkomstpakke med rash guard fra Google Cloud x Afarer, leppebalsam med SPF, vanntett pose og et arrangementshefte. Øktene på 2 timer besto av 30 minutter med instruksjon på land, 75 minutter med aktiviteter på vannet og 15 minutter nedkjøling med lagbilde tatt med drone. Afarers arrangementsteam håndterte all oppsetting, nedrigging og rengjøring på hvert sted — de ansatte i Google trengte bare å møte opp. Det første arrangementet på Shoreline Lake i Mountain View 12. juni 2025 oppnådde 97 % oppmøte, og lagene konkurrerte om prisen «Highest Availability» basert på koordinering og fart.',
+                'Hver deltaker fikk en merket velkomstpakke med rash guard fra Google Cloud x OLagoon, leppebalsam med SPF, vanntett pose og et arrangementshefte. Øktene på 2 timer besto av 30 minutter med instruksjon på land, 75 minutter med aktiviteter på vannet og 15 minutter nedkjøling med lagbilde tatt med drone. OLagoons arrangementsteam håndterte all oppsetting, nedrigging og rengjøring på hvert sted — de ansatte i Google trengte bare å møte opp. Det første arrangementet på Shoreline Lake i Mountain View 12. juni 2025 oppnådde 97 % oppmøte, og lagene konkurrerte om prisen «Highest Availability» basert på koordinering og fart.',
             },
             {
               title: 'Analyse av resultatene og utvidelse i år to',
@@ -1056,8 +1056,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor bedrifter velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor bedrifter velger OLagoon',
       items: [
         {
           title: 'Merkevarepresentasjon',
@@ -1067,7 +1067,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Rask prosjektgjennomføring',
           description:
-            'Frister betyr noe. Afarers strømlinjeformede prosess går fra konsept til leveranse innen stramme arrangementstidsplaner.',
+            'Frister betyr noe. OLagoons strømlinjeformede prosess går fra konsept til leveranse innen stramme arrangementstidsplaner.',
         },
         {
           title: 'Egendefinert produksjon',
@@ -1077,7 +1077,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Pålitelig leveranse',
           description:
-            'Arrangementer kan ikke vente. Afarer garanterer produksjonsplanlegging og koordinert forsendelse som treffer faste arrangementsdatoer.',
+            'Arrangementer kan ikke vente. OLagoon garanterer produksjonsplanlegging og koordinert forsendelse som treffer faste arrangementsdatoer.',
         },
         {
           title: 'Visuelt inntrykk',
@@ -1095,36 +1095,36 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan dere matche eksakte firmamerkevarefarger (Pantone) på SUP-brett?',
         answer:
-          'Ja, Afarer støtter Pantone-fargematching og krav til bedriftens visuelle identitet med presis fargereproduksjon. Vi leverer prototypeprøver til fargegodkjenning før masseproduksjon, for å sikre at det endelige produktet matcher merkevarestandardene dine nøyaktig.',
+          'Ja, OLagoon støtter Pantone-fargematching og krav til bedriftens visuelle identitet med presis fargereproduksjon. Vi leverer prototypeprøver til fargegodkjenning før masseproduksjon, for å sikre at det endelige produktet matcher merkevarestandardene dine nøyaktig.',
       },
       {
         question: 'Hva er minstebestillingen for egendefinerte merkede SUP-brett?',
         answer:
-          'Afarer imøtekommer ulike prosjektstørrelser. Små bedriftsarrangementer og interne aktiviteter starter på 50–100 enheter. Mellomstore markedsføringskampanjer ligger på 100–500 enheter, og store nasjonale arrangementer eller arrangementer på flere steder kan skaleres til 500–1 000+ enheter.',
+          'OLagoon imøtekommer ulike prosjektstørrelser. Små bedriftsarrangementer og interne aktiviteter starter på 50–100 enheter. Mellomstore markedsføringskampanjer ligger på 100–500 enheter, og store nasjonale arrangementer eller arrangementer på flere steder kan skaleres til 500–1 000+ enheter.',
       },
       {
         question: 'Hvor lang tid tar prototype- og godkjenningsprosessen?',
         answer:
-          'Prototypeprosessen er designet for fart. Afarer leverer rask designbekreftelse, gjennomgang av grafikk og prototypeutvikling, vanligvis innen 1–2 uker. Dette gir god tid til godkjenning og masseproduksjon før fristene for arrangementet.',
+          'Prototypeprosessen er designet for fart. OLagoon leverer rask designbekreftelse, gjennomgang av grafikk og prototypeutvikling, vanligvis innen 1–2 uker. Dette gir god tid til godkjenning og masseproduksjon før fristene for arrangementet.',
       },
       {
         question: 'Kan dere levere til flere steder for kampanjearrangementer globalt?',
         answer:
-          'Ja, Afarer støtter arrangementskampanjer i flere land og på flere steder. Vi koordinerer produksjon, emballasje og forsendelsesklargjøring for å sikre ensartet leveranse til alle regionale eller globale arrangementssteder.',
+          'Ja, OLagoon støtter arrangementskampanjer i flere land og på flere steder. Vi koordinerer produksjon, emballasje og forsendelsesklargjøring for å sikre ensartet leveranse til alle regionale eller globale arrangementssteder.',
       },
       {
         question: 'Hvilke tilpasningsmuligheter finnes utover utskrift av logo?',
         answer:
-          'I tillegg til logoutskrift tilbyr Afarer full merkevarekledning av brettoverflaten, tilpasning av padleårer, firmafargematching med Pantonereferanser, grafisk design med arrangementstema, begrenset kunstnerisk utgave og merket tilbehør, inkludert padleårer, pumper og tasker.',
+          'I tillegg til logoutskrift tilbyr OLagoon full merkevarekledning av brettoverflaten, tilpasning av padleårer, firmafargematching med Pantonereferanser, grafisk design med arrangementstema, begrenset kunstnerisk utgave og merket tilbehør, inkludert padleårer, pumper og tasker.',
       },
       {
         question: 'Tilbyr dere komplette arrangementspakker med tilbehør og padleårer?',
         answer:
-          'Ja, Afarer leverer komplette utstyrspakker for arrangementer, inkludert egendefinerte SUP-brett, justerbare padleårer, pumper, leasher, bæretasker og reperasjonssett. Valgfrie tillegg omfatter merkede padleårer, arrangementstilbehør, displaymateriell og utstyr til staben.',
+          'Ja, OLagoon leverer komplette utstyrspakker for arrangementer, inkludert egendefinerte SUP-brett, justerbare padleårer, pumper, leasher, bæretasker og reperasjonssett. Valgfrie tillegg omfatter merkede padleårer, arrangementstilbehør, displaymateriell og utstyr til staben.',
       },
     ],
     cta: {
-      title: 'Skap bedriftens vannopplevelse med Afarer',
+      title: 'Skap bedriftens vannopplevelse med OLagoon',
       subtitle: 'Merkevaren din fortjener å bli husket.',
       primaryAction: {
         text: 'Start ditt bedrifts-SUP-prosjekt i dag',
@@ -1139,15 +1139,15 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fiske-SUP-produsent | Skreddersydde oppblåsbare fiskepaddleboards | {SITE}',
       description:
-        'Afarer hjelper fiskeutstyrsmerker med å lage skreddersydde fiske-SUP-produkter med høystabile design, stangholdersystemer, kjølerfestinger, D-ring-tilbehør og private label-produksjonsløsninger.',
+        'OLagoon hjelper fiskeutstyrsmerker med å lage skreddersydde fiske-SUP-produkter med høystabile design, stangholdersystemer, kjølerfestinger, D-ring-tilbehør og private label-produksjonsløsninger.',
     },
     hero: {
       tagline: 'Skap din fiske-SUP-merkevare™',
       title: 'Skreddersydd produksjon av fiske-SUP for fiskeutstyrsmerker',
       subtitle:
-        'Afarer hjelper fiskeutstyrsmerker med å lage skreddersydde fiske-SUP-produkter med design for høy stabilitet, stangholdere, kjøleboks festeanordninger, D-ring tilbehør og private label-produksjonsløsninger.',
+        'OLagoon hjelper fiskeutstyrsmerker med å lage skreddersydde fiske-SUP-produkter med design for høy stabilitet, stangholdere, kjøleboks festeanordninger, D-ring tilbehør og private label-produksjonsløsninger.',
       image: {
-        alt: 'Beskrivelse av Afarers skreddersydde SUP-brett',
+        alt: 'Beskrivelse av OLagoons skreddersydde SUP-brett',
       },
     },
     challenge: {
@@ -1250,7 +1250,7 @@ const no: Record<string, SolutionOverride> = {
       customer:
         'Nordamerikansk merkevare for fiskeutstyr som opprinnelig solgte fiskestenger, fiskebokser og utendørs fisketilbehør til et lojalt miljø av erfarne fiskere.',
       steps: [
-        'Afarer analyserte målbrukerne og definerte produktposisjoneringen som «Profesjonell oppblåsbar fiskeplattform for seriøse fiskere», i tråd med merkevarens omdømme.',
+        'OLagoon analyserte målbrukerne og definerte produktposisjoneringen som «Profesjonell oppblåsbar fiskeplattform for seriøse fiskere», i tråd med merkevarens omdømme.',
         "Skapte en 11' fiske-SUP-modell med ekstra bred ståplattform, høy lastekapasitet, forsterket Drop Stitch-struktur, flere D-ring-systemer og kompatibilitet med stangholdere.",
         'Utviklet fiskefokusert grafikk, utendørs fargesystem og profesjonell emballasje som appellerte til erfarne fiskere.',
         'Lanserte med 500 enheter distribuert gjennom eksisterende fiskekunder, e-handelsbutikk og nettverk av friluftsforhandlere.',
@@ -1275,22 +1275,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Codesign med profesjonelle fiskere og ergonomisk analyse',
               detail:
-                'Afarer sendte et produktutviklingsteam på 3 personer til Göteborg i mars 2023 til et 10-dagers codesign-workshop. De arbeidet med 8 profesjonelle og semiprofesjonelle fiskere (inkludert den svenske sportsfiskemesteren Lars Nilsson), som alle hadde over 15 års erfaring med fiske-SUP. Teamet gjennomførte bevegelsesanalyse av kaste- og innspinnbevegelser på prototypebrett for å finne de beste ståposisjonene. Viktige funn: den ideelle vinkelen på stangholderen var 22 grader fra loddrett (mot 15 grader på konkurrerende produkter), området for fiskeutstyr måtte ligge innenfor 40 cm fra padlerens naturlige rekkevidde, og brettet måtte være minimum 34" bredt for stabil ståing i vind på 30 km/h. Workshopen resulterte i 47 spesifikke designkrav, der 42 ble innarbeidet i det endelige designet.',
+                'OLagoon sendte et produktutviklingsteam på 3 personer til Göteborg i mars 2023 til et 10-dagers codesign-workshop. De arbeidet med 8 profesjonelle og semiprofesjonelle fiskere (inkludert den svenske sportsfiskemesteren Lars Nilsson), som alle hadde over 15 års erfaring med fiske-SUP. Teamet gjennomførte bevegelsesanalyse av kaste- og innspinnbevegelser på prototypebrett for å finne de beste ståposisjonene. Viktige funn: den ideelle vinkelen på stangholderen var 22 grader fra loddrett (mot 15 grader på konkurrerende produkter), området for fiskeutstyr måtte ligge innenfor 40 cm fra padlerens naturlige rekkevidde, og brettet måtte være minimum 34" bredt for stabil ståing i vind på 30 km/h. Workshopen resulterte i 47 spesifikke designkrav, der 42 ble innarbeidet i det endelige designet.',
             },
             {
               title: 'Steg 2: Engineering av integrert fiskesystem og prototypetesting',
               detail:
-                'Afarers industridesignere utviklet et modulært «Fishing Deck»-system: et avtagbart aluminumskinnsystem (1,2 m lengde) montert via 12 innsettinger i rustfritt stål støpt inn i brettets drop stitch-kjerne. Skinnet tok imot 4 stangholdere (justerbar vinkel, hurtigløsning), en stor fiskekasse (32 L, vanntett i IP67-klassen, avtagbar), en holster for landingnett og en koppholder for termoser (et krav i det nordiske markedet). Tre prototypebrett ble produsert i mai 2023 og testet i 4 uker på 6 svenske innsjøer (Vänern, Vättern, Mälaren og 3 mindre innsjøer i Småland). Testprogrammet registrerte 340 timer med aktiv fisking. Én prototype utviklet en lett vrikk etter 3 dager med kontinuerlig soleksponering i 26 °C – Afarer økte PVC-tykkelsen på dekket fra 0,9 mm til 1,2 mm for alle produksjonsenheter.',
+                'OLagoons industridesignere utviklet et modulært «Fishing Deck»-system: et avtagbart aluminumskinnsystem (1,2 m lengde) montert via 12 innsettinger i rustfritt stål støpt inn i brettets drop stitch-kjerne. Skinnet tok imot 4 stangholdere (justerbar vinkel, hurtigløsning), en stor fiskekasse (32 L, vanntett i IP67-klassen, avtagbar), en holster for landingnett og en koppholder for termoser (et krav i det nordiske markedet). Tre prototypebrett ble produsert i mai 2023 og testet i 4 uker på 6 svenske innsjøer (Vänern, Vättern, Mälaren og 3 mindre innsjøer i Småland). Testprogrammet registrerte 340 timer med aktiv fisking. Én prototype utviklet en lett vrikk etter 3 dager med kontinuerlig soleksponering i 26 °C – OLagoon økte PVC-tykkelsen på dekket fra 0,9 mm til 1,2 mm for alle produksjonsenheter.',
             },
             {
               title: 'Steg 3: Nordisk butikkemballasje, katalogintegrasjon og forhåndssalg',
               detail:
-                'Afarer designet robust emballasje med tospråklig merking (svensk/finsk) og et interiøroppsett som «Fishing SUP Starter Kit»: brett, fiskeskinne med 4 stangholdere, fiskekasse, 3-delt padleåre, dobbelvirkende pumpe, ryggsekk og en 32-siders guide om «Fishing from SUP» på svensk, norsk og finsk. Nordic Angler startet forhåndssalget på den svenske sportsfiskemessen i Stockholm (august 2023) og sikret faste bestillinger fra 34 butikker på 860 enheter. Erik forhandlet frem en eksklusiv 12-måneders distribusjonsavtale for Norden med Afarer, som sikret at ingen konkurrerende private label-fiske-SUP-er skulle selges til Nordic Anglers konkurrenter i den perioden.',
+                'OLagoon designet robust emballasje med tospråklig merking (svensk/finsk) og et interiøroppsett som «Fishing SUP Starter Kit»: brett, fiskeskinne med 4 stangholdere, fiskekasse, 3-delt padleåre, dobbelvirkende pumpe, ryggsekk og en 32-siders guide om «Fishing from SUP» på svensk, norsk og finsk. Nordic Angler startet forhåndssalget på den svenske sportsfiskemessen i Stockholm (august 2023) og sikret faste bestillinger fra 34 butikker på 860 enheter. Erik forhandlet frem en eksklusiv 12-måneders distribusjonsavtale for Norden med OLagoon, som sikret at ingen konkurrerende private label-fiske-SUP-er skulle selges til Nordic Anglers konkurrenter i den perioden.',
             },
             {
               title: 'Steg 4: Produksjon, sesongtiming og førsteårs salg',
               detail:
-                'Produksjonen av 1 200 enheter (700 Lake Angler, 500 Expedition Angler) pågikk fra september til november 2023 ved Afarers anlegg i Zhongshan. Forsendelsen forlot Ningbo 18. november 2023 og ankom havnen i Göteborg 18. desember 2023 – ideelt tidspunkt for butikkenes vårinnkjøp. Nordic Angler distribuerte 760 enheter til butikkhyllene innen 1. mars 2024, og de resterende 440 enhetene ble liggende på eget lager for direkte ordrehåndtering. Innen 31. mai 2024 var 980 enheter solgt (81,7 % av den første serien). Lake Angler-brettet ble den mest solgte fiske-SUP-en hos XXL Sverige i løpet av 90 dager. Erik la inn en nybestilling på 1 800 enheter i juni 2024 med 3 designforbedringer: en mer polstret bærepose, justeringsknopper for skinnet uten verktøy og en lomme til montering av GPS-sporer.',
+                'Produksjonen av 1 200 enheter (700 Lake Angler, 500 Expedition Angler) pågikk fra september til november 2023 ved OLagoons anlegg i Zhongshan. Forsendelsen forlot Ningbo 18. november 2023 og ankom havnen i Göteborg 18. desember 2023 – ideelt tidspunkt for butikkenes vårinnkjøp. Nordic Angler distribuerte 760 enheter til butikkhyllene innen 1. mars 2024, og de resterende 440 enhetene ble liggende på eget lager for direkte ordrehåndtering. Innen 31. mai 2024 var 980 enheter solgt (81,7 % av den første serien). Lake Angler-brettet ble den mest solgte fiske-SUP-en hos XXL Sverige i løpet av 90 dager. Erik la inn en nybestilling på 1 800 enheter i juni 2024 med 3 designforbedringer: en mer polstret bærepose, justeringsknopper for skinnet uten verktøy og en lomme til montering av GPS-sporer.',
             },
           ],
           results: [
@@ -1312,22 +1312,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: produktspecifikasjon med guidefokus og analyse av kundetilbakemeldinger',
               detail:
-                'Afarers produktteam intervjuet 14 fiskeguider i USA i mars 2023 (fra Texas, Florida, Michigan og Oregon) for å lage en samlet spesifikasjon. De 3 mest etterspurte funksjonene var: (1) en hevet kasteplattform i nesen (8" heving) for bedre sikt og frihet bakover ved kasting, (2) et lydløst monteringssystem for elektromotor (minst 55 lbs skyvekraft, aktermontering) og (3) et utstyrsskinnsystem kompatibelt med «yak-attack». Dwayne insisterte også på en maksimal vekt kapasitet på 450 lbs for å bære to fiskere (guide og kunde). Den resulterende spesifikasjonen var på 18 sider, inkludert en strukturell elementanalyse (FEA) fra Afarers engineeringteam som viste at brettet kunne bære en punktlaster på 250 lbs midt på spennet med mindre enn 1,5" bøyning.',
+                'OLagoons produktteam intervjuet 14 fiskeguider i USA i mars 2023 (fra Texas, Florida, Michigan og Oregon) for å lage en samlet spesifikasjon. De 3 mest etterspurte funksjonene var: (1) en hevet kasteplattform i nesen (8" heving) for bedre sikt og frihet bakover ved kasting, (2) et lydløst monteringssystem for elektromotor (minst 55 lbs skyvekraft, aktermontering) og (3) et utstyrsskinnsystem kompatibelt med «yak-attack». Dwayne insisterte også på en maksimal vekt kapasitet på 450 lbs for å bære to fiskere (guide og kunde). Den resulterende spesifikasjonen var på 18 sider, inkludert en strukturell elementanalyse (FEA) fra OLagoons engineeringteam som viste at brettet kunne bære en punktlaster på 250 lbs midt på spennet med mindre enn 1,5" bøyning.',
             },
             {
               title: 'Steg 2: Prototyping, testing i guideflåten og iterasjonssyklus',
               detail:
-                'Afarer produserte 4 prototype Guide Pro-brett i mai 2023. Dwayne brukte dem utelukkende på 22 guidede turer i løpet av 6 uker (juni–juli 2023) med 54 kunder. Hver tur ble dokumentert med skriftlige kundetilbakemeldinger og video. Viktige funn: den hevede kasteplattformen ble godt mottatt (vurdert 4,8/5), men kundene synes den første plasseringen av utstyrsskinnet var for langt fremme – Afarer flyttet det 6" akterover. Den lydløse monteringen av elektromotoren fungerte, men vekten (9 lbs) forskjøv brettets balanse – Afarer redesignet den som en 2-delt aluminiumsbrakett på 5,2 lbs. Den vanligste kommentaren fra kundene: «Jeg følte meg stabil nok til å stå og kaste ved første forsøk.» Etter 54 kundeturer viste null brett strukturelle problemer. Dwayne ga endelig godkjenning i august 2023.',
+                'OLagoon produserte 4 prototype Guide Pro-brett i mai 2023. Dwayne brukte dem utelukkende på 22 guidede turer i løpet av 6 uker (juni–juli 2023) med 54 kunder. Hver tur ble dokumentert med skriftlige kundetilbakemeldinger og video. Viktige funn: den hevede kasteplattformen ble godt mottatt (vurdert 4,8/5), men kundene synes den første plasseringen av utstyrsskinnet var for langt fremme – OLagoon flyttet det 6" akterover. Den lydløse monteringen av elektromotoren fungerte, men vekten (9 lbs) forskjøv brettets balanse – OLagoon redesignet den som en 2-delt aluminiumsbrakett på 5,2 lbs. Den vanligste kommentaren fra kundene: «Jeg følte meg stabil nok til å stå og kaste ved første forsøk.» Etter 54 kundeturer viste null brett strukturelle problemer. Dwayne ga endelig godkjenning i august 2023.',
             },
             {
               title: 'Steg 3: Merkevarelansering, DTC-nettsted og affiliateprogram for guider',
               detail:
-                'Texas Tailwaters ble lansert 1. november 2023 med et Shopify DTC-nettsted bygget av Afarers e-handelsteam. Nettstedet inneholdt 8 produktvideoer, 34 livsstilsbilder tatt ved Lake Travis (inkludert droneopptak) og detaljerte «Guide Notes» (Dwaynes personlige tips for hvert brett). Afarer implementerte et trinnvis affiliateprogram for guider: guider fikk 15 % provisjon på direkte henvisninger, et gratis demobrett etter 10 henviste salg og eksklusiv tilgang til en lukket Facebook-gruppe (42 guidemedlemmer innen mars 2024). Lanseringskampanjen inkluderte en Google Ads-strategi rettet mot «fishing SUP», «SUP fishing» og «guide paddleboard» med et månedlig budsjett på 3 500 USD. Dwaynes eget Instagram-innhold drev betydelig trafikk – hans «Day on the Water»-reels hadde i gjennomsnitt 12 000 visninger.',
+                'Texas Tailwaters ble lansert 1. november 2023 med et Shopify DTC-nettsted bygget av OLagoons e-handelsteam. Nettstedet inneholdt 8 produktvideoer, 34 livsstilsbilder tatt ved Lake Travis (inkludert droneopptak) og detaljerte «Guide Notes» (Dwaynes personlige tips for hvert brett). OLagoon implementerte et trinnvis affiliateprogram for guider: guider fikk 15 % provisjon på direkte henvisninger, et gratis demobrett etter 10 henviste salg og eksklusiv tilgang til en lukket Facebook-gruppe (42 guidemedlemmer innen mars 2024). Lanseringskampanjen inkluderte en Google Ads-strategi rettet mot «fishing SUP», «SUP fishing» og «guide paddleboard» med et månedlig budsjett på 3 500 USD. Dwaynes eget Instagram-innhold drev betydelig trafikk – hans «Day on the Water»-reels hadde i gjennomsnitt 12 000 visninger.',
             },
             {
               title: 'Steg 4: Ordrehåndtering, kundestøtte og oppskalering i år to',
               detail:
-                'Den første produksjonsserien på 450 enheter (300 Guide Pro, 150 Expedition Elite) ble sendt fra Afarers fabrikk 15. oktober 2023 og ankom Dwaynes 3PL-partner i Houston (ShipBob-anlegg) 22. november 2023. Dwayne solgte 87 enheter før lansering gjennom guide nettverket sitt. Innen 31. mars 2024 var 334 enheter solgt (74,2 % av beholdningen). Afarers kundestøtteteam håndterte alle garantihenvendelser (6 rapporterte problemer: 3 lekkasjer i ventilkjerne, 2 løse finnebokser, 1 blære i dekkputen) – alle løst innen 48 timer. Dwayne ansatte en kundeservicekoordinator på deltid i april 2024 etter hvert som volumet vokste. En andre produksjonsserie på 800 enheter ble bestilt i mai 2024 med utvidelse til to nye butikker: Austin Kayak og Fishing Tackle Unlimited (begge i Texas).',
+                'Den første produksjonsserien på 450 enheter (300 Guide Pro, 150 Expedition Elite) ble sendt fra OLagoons fabrikk 15. oktober 2023 og ankom Dwaynes 3PL-partner i Houston (ShipBob-anlegg) 22. november 2023. Dwayne solgte 87 enheter før lansering gjennom guide nettverket sitt. Innen 31. mars 2024 var 334 enheter solgt (74,2 % av beholdningen). OLagoons kundestøtteteam håndterte alle garantihenvendelser (6 rapporterte problemer: 3 lekkasjer i ventilkjerne, 2 løse finnebokser, 1 blære i dekkputen) – alle løst innen 48 timer. Dwayne ansatte en kundeservicekoordinator på deltid i april 2024 etter hvert som volumet vokste. En andre produksjonsserie på 800 enheter ble bestilt i mai 2024 med utvidelse til to nye butikker: Austin Kayak og Fishing Tackle Unlimited (begge i Texas).',
             },
           ],
           results: [
@@ -1339,8 +1339,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor OLagoon',
       items: [
         {
           title: 'Fiskebrukerens behov',
@@ -1376,7 +1376,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan jeg legge til stangholdere og kjøleboksfester på SUP-en?',
         answer:
-          'Ja. Afarer integrerer fiskespesifikke tilbehørssystemer, inkludert stangholdere, monteringsområder for kjøleboks, kameramonteringer og D-ring-festepunkter, direkte i brettdesignet.',
+          'Ja. OLagoon integrerer fiskespesifikke tilbehørssystemer, inkludert stangholdere, monteringsområder for kjøleboks, kameramonteringer og D-ring-festepunkter, direkte i brettdesignet.',
       },
       {
         question: 'Hva er vekt kapasiteten til en fiske-SUP?',
@@ -1386,7 +1386,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Tilbyr dere egendefinert merkevareprofilering for fiskeutstyrselskaper?',
         answer:
-          'Ja. Afarer leverer komplett private label-produksjon med egendefinert brettgrafikk, merkevarefarger, logoplassering, EVA-dekkdesign og emballasje for fiske merkevarer.',
+          'Ja. OLagoon leverer komplett private label-produksjon med egendefinert brettgrafikk, merkevarefarger, logoplassering, EVA-dekkdesign og emballasje for fiske merkevarer.',
       },
       {
         question: 'Kan fiske-SUP brukes i både ferskvann og saltvann?',
@@ -1416,12 +1416,12 @@ const no: Record<string, SolutionOverride> = {
         '{SITE} hjelper YouTube-, TikTok- og Instagram-skapere samt Kickstarter-merker med å lansere skreddersydde SUP-produkter med raske prototyper, produksjon med lav MOQ, design i begrenset opplag og private label-løsninger.',
     },
     hero: {
-      tagline: 'Forvandle publikummet ditt til en vannsportsmerkevare med Afarer',
+      tagline: 'Forvandle publikummet ditt til en vannsportsmerkevare med OLagoon',
       title: 'Skreddersydde SUP-produksjonsløsninger for skapere på YouTube, TikTok, Instagram og Kickstarter-merker',
       subtitle:
-        'Afarer hjelper skapere med å lansere sine egne SUP-merkevarer gjennom rask prototypeutvikling, produksjon med små MOQ, egendefinert grafikk, limited edition-design, merkevareemballasje og fleksible produksjonsløsninger.',
+        'OLagoon hjelper skapere med å lansere sine egne SUP-merkevarer gjennom rask prototypeutvikling, produksjon med små MOQ, egendefinert grafikk, limited edition-design, merkevareemballasje og fleksible produksjonsløsninger.',
       image: {
-        alt: 'Afarers skreddersydde SUP-brett for skaper- og influencermerker',
+        alt: 'OLagoons skreddersydde SUP-brett for skaper- og influencermerker',
       },
     },
     challenge: {
@@ -1455,7 +1455,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Rask utvikling av SUP-prototyper',
           description:
-            'Afarer bidrar til å forvandle idéer til fysiske prototyper raskt. Fra konseptutvikling og brettprøver til grafikktesting og konfigurasjonsjustering – skapere kan iterere raskt basert på tilbakemeldinger fra fellesskapet.',
+            'OLagoon bidrar til å forvandle idéer til fysiske prototyper raskt. Fra konseptutvikling og brettprøver til grafikktesting og konfigurasjonsjustering – skapere kan iterere raskt basert på tilbakemeldinger fra fellesskapet.',
           features: [
             'Utvikling av produktkonsept',
             'Fremstilling av prototype',
@@ -1466,7 +1466,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Produksjon med lavt MOQ for skapermerker',
           description:
-            'Skapere må validere etterspørselen før de skalerer. Afarer støtter fleksible oppstartsvolumer fra 100–300 enheter for testing i fellesskapet og begrensede lanseringer, med oppskalering til 500–2 000 for vekst og 3 000+ for full merkevardrift.',
+            'Skapere må validere etterspørselen før de skalerer. OLagoon støtter fleksible oppstartsvolumer fra 100–300 enheter for testing i fellesskapet og begrensede lanseringer, med oppskalering til 500–2 000 for vekst og 3 000+ for full merkevardrift.',
           features: [
             'Lanseringsfase for skapere: 100–300 enheter',
             'Vekstfase: 500–2 000 enheter',
@@ -1477,7 +1477,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Limited edition-design av skaper-SUP',
           description:
-            'Skapermerker lykkes gjennom unikheter. Afarer bidrar til å utvikle eksklusive utgaver med egendefinert grafikk, signaturkunst, spesielle fargeutgaver og designelementer inspirert av fellesskapet som fans faktisk ønsker seg.',
+            'Skapermerker lykkes gjennom unikheter. OLagoon bidrar til å utvikle eksklusive utgaver med egendefinert grafikk, signaturkunst, spesielle fargeutgaver og designelementer inspirert av fellesskapet som fans faktisk ønsker seg.',
           features: [
             'Egendefinert grafikk og kunstverk',
             'Signatur- og fellesskapsutgaver',
@@ -1488,12 +1488,12 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Premium emballasje for skaperlanseringer',
           description:
-            'For skapere er utpakking en del av merkevareopplevelsen. Afarer støtter egendefinert emballasje med merkede esker, produktkort, takkemeldinger og QR-koder med lenke til skaperens innhold, som forvandler kunder til langsiktige følgere.',
+            'For skapere er utpakking en del av merkevareopplevelsen. OLagoon støtter egendefinert emballasje med merkede esker, produktkort, takkemeldinger og QR-koder med lenke til skaperens innhold, som forvandler kunder til langsiktige følgere.',
         },
         {
           title: 'Produktstøtte for Kickstarter og crowdfunding',
           description:
-            'Mange skapere bruker crowdfunding for å validere etterspørselen. Afarer støtter prototypeutvikling før lansering, produksjonsplanlegging under kampanjen og batchvis ordrehåndtering etter kampanjen, slik at skaperne kan holde det de har lovet.',
+            'Mange skapere bruker crowdfunding for å validere etterspørselen. OLagoon støtter prototypeutvikling før lansering, produksjonsplanlegging under kampanjen og batchvis ordrehåndtering etter kampanjen, slik at skaperne kan holde det de har lovet.',
           features: [
             'Utvikling før lansering',
             'Produksjonsplanlegging under kampanjen',
@@ -1504,7 +1504,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Produktutvidelse for skapermerker',
           description:
-            'En vellykket skapermerkevare kan vokse til et komplett friluftøkosystem. Afarer støtter SUP-produktlinjer, vanntilbehør og sesongkolleksjoner som vokser sammen med fellesskapet.',
+            'En vellykket skapermerkevare kan vokse til et komplett friluftøkosystem. OLagoon støtter SUP-produktlinjer, vanntilbehør og sesongkolleksjoner som vokser sammen med fellesskapet.',
           features: [
             'Signaturlinje for SUP-brett',
             'Vanntilbehør',
@@ -1515,7 +1515,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Produktutvikling egnet for innhold',
           description:
-            'Skapere trenger produkter som naturlig støtter historiefortelling. Afarer bidrar til å utvikle produkter som egner seg for utpakkingsvideoer, eventyrinnhold, produktanmeldelser og utfordringer i fellesskapet som skaper organisisk engasjement.',
+            'Skapere trenger produkter som naturlig støtter historiefortelling. OLagoon bidrar til å utvikle produkter som egner seg for utpakkingsvideoer, eventyrinnhold, produktanmeldelser og utfordringer i fellesskapet som skaper organisisk engasjement.',
           features: [
             'Design av utpakkingsopplevelse',
             'Produkter klare for eventyr',
@@ -1526,7 +1526,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Kvalitetskontroll for skaperens omdømme',
           description:
-            'Tillit er skaperens mest verdifulle ressurs. Afarers kvalitetskontroll omfatter testing av stabilitet i lufttrykk, verifisering av brettenes holdbarhet, kontroll av grafikk- og fargekonsistens og komplett inspeksjon av tilbehør for å beskytte forholdet til fellesskapet.',
+            'Tillit er skaperens mest verdifulle ressurs. OLagoons kvalitetskontroll omfatter testing av stabilitet i lufttrykk, verifisering av brettenes holdbarhet, kontroll av grafikk- og fargekonsistens og komplett inspeksjon av tilbehør for å beskytte forholdet til fellesskapet.',
         },
       ],
     },
@@ -1545,7 +1545,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Prototypeutvikling',
           detail:
-            'Afarer laget et skreddersydd brettdesign med signaturgrafikk og produktprøver. Skaperen testet ytelse og utseende og samlet tilbakemeldinger fra publikummet før produksjonen ble forpliktet.',
+            'OLagoon laget et skreddersydd brettdesign med signaturgrafikk og produktprøver. Skaperen testet ytelse og utseende og samlet tilbakemeldinger fra publikummet før produksjonen ble forpliktet.',
         },
         {
           title: 'Lansering som limited edition',
@@ -1570,29 +1570,29 @@ const no: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brasil',
             background:
-              'Carlos Mendes (34) er en eventyrfotograf og dronepilot omtalt i National Geographic, med 890 000 Instagram-følgere. Etter 7 år med å dokumentere ekspedisjoner på fjerne elver i Amazonas la han merke til at publikummet stadig oftere spurte om de oppblåsbare SUP-brettene han brukte for å komme til opptaksstedene. Uten padlebakgrunn trengte han Afarer til å konstruere et skreddersydd brett som kunne fungere både som kameraplattform og ekspedisjonsfartøy, samtidig som han lanserte en merchandise-merkevare rundt serien sin «Rios do Brasil».',
+              'Carlos Mendes (34) er en eventyrfotograf og dronepilot omtalt i National Geographic, med 890 000 Instagram-følgere. Etter 7 år med å dokumentere ekspedisjoner på fjerne elver i Amazonas la han merke til at publikummet stadig oftere spurte om de oppblåsbare SUP-brettene han brukte for å komme til opptaksstedene. Uten padlebakgrunn trengte han OLagoon til å konstruere et skreddersydd brett som kunne fungere både som kameraplattform og ekspedisjonsfartøy, samtidig som han lanserte en merchandise-merkevare rundt serien sin «Rios do Brasil».',
             goal: 'Å lansere et signatur-SUP i sammerkevare innen mai 2025 som fanger Brasils 5 store vannbiomer (Amazonas, Pantanal, São Francisco, Paraná og kystens Rio), med forhåndssalg av 500 enheter til 4 990 BRL per stykk før produksjon.',
           },
           steps: [
             {
-              title: 'FoU-ekspedisjon i biomen sammen med Afarers ingeniører',
+              title: 'FoU-ekspedisjon i biomen sammen med OLagoons ingeniører',
               detail:
-                'I august 2024 sendte Afarer den erfarne mariningeniøren Li Wei og produktdesigneren Henrik Larsson til Manaus i 10 dager. De padlet 180 km på Rio Negro sammen med Carlos og målte vanntemperatur (28–32 °C), sedimentmengde og typisk last (40 kg kamerautstyr pluss 25 kg campingutstyr). De fant at standard drop stitch-brett ble delaminert av kombinasjonen av ekvatorial UV-indeks på over 12 og slitende sand som kom inn under bæring mellom farvann. Carlos insisterte på at brettet måtte kunne tømmes og få plass i en 65-liters tørrbag for transport med småfly.',
+                'I august 2024 sendte OLagoon den erfarne mariningeniøren Li Wei og produktdesigneren Henrik Larsson til Manaus i 10 dager. De padlet 180 km på Rio Negro sammen med Carlos og målte vanntemperatur (28–32 °C), sedimentmengde og typisk last (40 kg kamerautstyr pluss 25 kg campingutstyr). De fant at standard drop stitch-brett ble delaminert av kombinasjonen av ekvatorial UV-indeks på over 12 og slitende sand som kom inn under bæring mellom farvann. Carlos insisterte på at brettet måtte kunne tømmes og få plass i en 65-liters tørrbag for transport med småfly.',
             },
             {
               title: 'Tre-lags Fusion-konstruksjon og modulært riggesystem',
               detail:
-                'Afarers FoU-senter i Xiamen produserte 7 prototyper mellom september og november 2024. Det endelige designet brukte en 3-lags sandwich av PVC-Dropstitch-PVC med et ekstra UV-reflekterende topplag, testet ved 1 200 timer akselerert UV-eksponering. Et proprietært avstivningssystem («Rails-to-Rail») ga sideveis stivhet uten ekstra vekt. Carlos og Afarer designet sammen et modulært skinnsystem for kameramontering som ble boltet gjennom forsterkede puter – ingen sugekopper – testet til å holde 28 kg ved slepehastighet på 30 km/h. Hvert brett veide bare 11,8 kg, men bar 220 kg last.',
+                'OLagoons FoU-senter i Xiamen produserte 7 prototyper mellom september og november 2024. Det endelige designet brukte en 3-lags sandwich av PVC-Dropstitch-PVC med et ekstra UV-reflekterende topplag, testet ved 1 200 timer akselerert UV-eksponering. Et proprietært avstivningssystem («Rails-to-Rail») ga sideveis stivhet uten ekstra vekt. Carlos og OLagoon designet sammen et modulært skinnsystem for kameramontering som ble boltet gjennom forsterkede puter – ingen sugekopper – testet til å holde 28 kg ved slepehastighet på 30 km/h. Hvert brett veide bare 11,8 kg, men bar 220 kg last.',
             },
             {
               title: 'Innledende kampanje ledet av innhold og begrensede biomeutgaver',
               detail:
-                'Fra desember 2024 ga Carlos ut 5 minidokumentarer (i gjennomsnitt 4,2 millioner visninger hver) som viste prototypetesting i hvert biom. Afarer opprettet en dedikert Shopify D2C-butikk med regionale logistikknoder i Manaus, São Paulo og Brasília. De produserte 5 bio spesifikke fargevarianter (Rio Negro mørkt vann, Pantanal solnedgang, São Francisco canyonrødt, Paraná skoggrønt, Costa Dourada gull), hver begrenset til 100 enheter. Kundene kunne «adoptere» sitt biom og fikk en GPS-spor donasjon til Carlos sitt gjengrodning fond for Amazonas.',
+                'Fra desember 2024 ga Carlos ut 5 minidokumentarer (i gjennomsnitt 4,2 millioner visninger hver) som viste prototypetesting i hvert biom. OLagoon opprettet en dedikert Shopify D2C-butikk med regionale logistikknoder i Manaus, São Paulo og Brasília. De produserte 5 bio spesifikke fargevarianter (Rio Negro mørkt vann, Pantanal solnedgang, São Francisco canyonrødt, Paraná skoggrønt, Costa Dourada gull), hver begrenset til 100 enheter. Kundene kunne «adoptere» sitt biom og fikk en GPS-spor donasjon til Carlos sitt gjengrodning fond for Amazonas.',
             },
             {
               title: 'Lansering i april 2025 og distribusjonsnett i Brasil',
               detail:
-                '5. april 2025 ble «Rios do Brasil Explorer 12.6» lansert i Ibirapuera-parken i São Paulo med 350 influencere og medier til stede. Alle 500 enhetene ble solgt på forhånd i løpet av 11 timer – 2,495 mill. BRL i omsetning. Afarer fløy 200 enheter med flyfrakt for å komme før tørketiden i Amazonas, mens 300 gikk med sjøfrakt. Carlos sitt donasjonsprogram for biomene samlet inn 187 000 BRL den første måneden. Afarer og Carlos signerte en 3-årig eksklusivitetsavtale for Latin-Amerika med minimum 2 000 enheter per år, og en andre modell («Expedition Tandem») er allerede under utvikling for 2026.',
+                '5. april 2025 ble «Rios do Brasil Explorer 12.6» lansert i Ibirapuera-parken i São Paulo med 350 influencere og medier til stede. Alle 500 enhetene ble solgt på forhånd i løpet av 11 timer – 2,495 mill. BRL i omsetning. OLagoon fløy 200 enheter med flyfrakt for å komme før tørketiden i Amazonas, mens 300 gikk med sjøfrakt. Carlos sitt donasjonsprogram for biomene samlet inn 187 000 BRL den første måneden. OLagoon og Carlos signerte en 3-årig eksklusivitetsavtale for Latin-Amerika med minimum 2 000 enheter per år, og en andre modell («Expedition Tandem») er allerede under utvikling for 2026.',
             },
           ],
           results: [
@@ -1607,29 +1607,29 @@ const no: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norge',
             background:
-              'Tor Haugen (29) er tidligere landslagsløper i langrenn, senere semifinalist i CrossFit Games, med 620 000 YouTube-abonnenter og 410 000 TikTok-følgere. Treingskanalen hans «Nordic Strength» viser utendørs økter med utradisjonelt utstyr. Etter en viral video (8,7 millioner visninger) der han gjorde burpees på en billig SUP i Oslofjorden, krevde fellesskapet et brett bygget for høyintensiv trening. Tor hadde ingen erfaring med produktdesign og trengte Afarer til å konstruere en stabil plattform som kunne tåle hopp, vektdropping og nordiske vær ekstreme.',
+              'Tor Haugen (29) er tidligere landslagsløper i langrenn, senere semifinalist i CrossFit Games, med 620 000 YouTube-abonnenter og 410 000 TikTok-følgere. Treingskanalen hans «Nordic Strength» viser utendørs økter med utradisjonelt utstyr. Etter en viral video (8,7 millioner visninger) der han gjorde burpees på en billig SUP i Oslofjorden, krevde fellesskapet et brett bygget for høyintensiv trening. Tor hadde ingen erfaring med produktdesign og trengte OLagoon til å konstruere en stabil plattform som kunne tåle hopp, vektdropping og nordiske vær ekstreme.',
             goal: 'Å skape den første «funksjonelle trenings-SUP-en» sertifisert for CrossFit-liknende trening, lansert i oktober 2024 til 3 990 NOK (370 USD), med forhåndssalg av 1 000 enheter og en samtidig turné i 20 europeiske byer.',
           },
           steps: [
             {
               title: 'Prototypeforsøk i Oslofjorden med testing av lastceller',
               detail:
-                'Afarers produktteam, ledet av strukturingeniør Marta Johansson, tilbrakte en uke i mars 2024 ved Kongshavn Marina i Oslo. De instrumenterte 6 konkurrentbrett med 14 tøyingsmålere og akselerometre mens Tor gjennomførte burpees (120 bpm-takt), overhead hold med vektstang (60 kg) og bokshopp (50 cm boks). Resultatene viste at standard SUP-brett ble utsatt for 3,7 ganger den dynamiske lasten fra fritidspadling. Dekkbøyningen oversteg 22 mm – farlig for ankelstabiliteten. Martas team beregnet at de trengte en torsjonsboks 200 % stivere, med en unik «drop-through»-ståplattform.',
+                'OLagoons produktteam, ledet av strukturingeniør Marta Johansson, tilbrakte en uke i mars 2024 ved Kongshavn Marina i Oslo. De instrumenterte 6 konkurrentbrett med 14 tøyingsmålere og akselerometre mens Tor gjennomførte burpees (120 bpm-takt), overhead hold med vektstang (60 kg) og bokshopp (50 cm boks). Resultatene viste at standard SUP-brett ble utsatt for 3,7 ganger den dynamiske lasten fra fritidspadling. Dekkbøyningen oversteg 22 mm – farlig for ankelstabiliteten. Martas team beregnet at de trengte en torsjonsboks 200 % stivere, med en unik «drop-through»-ståplattform.',
             },
             {
               title: 'Plattform i kompositt-stringer og sklisikkert dekk',
               detail:
-                'I løpet av 4 måneder bygde Afarer 9 prototyper med økende stivhet. Gjennombruddet kom fra en 2,5 mm aluminiumsstringer i marinkvalitet innebygd mellom to drop stitch-lag, som ga et brett med 0,8 mm bøyning under 100 kg dynamisk last. Dekket brukte et EVA-skum i lukket celle med 6 mm opphøyd diamantmønster – Tor testet det vått, salt og gjørmete, og fant at grepet overgikk griptape til skateboard. Afarer la til D-ring-festeanordninger i 22 punkter rundt brettet for motstandsbånd og vektskiver. Hvert brett hadde en festepunkt for sikkerhetsleash i klipsmodul, klassifisert til 500 kg statisk last.',
+                'I løpet av 4 måneder bygde OLagoon 9 prototyper med økende stivhet. Gjennombruddet kom fra en 2,5 mm aluminiumsstringer i marinkvalitet innebygd mellom to drop stitch-lag, som ga et brett med 0,8 mm bøyning under 100 kg dynamisk last. Dekket brukte et EVA-skum i lukket celle med 6 mm opphøyd diamantmønster – Tor testet det vått, salt og gjørmete, og fant at grepet overgikk griptape til skateboard. OLagoon la til D-ring-festeanordninger i 22 punkter rundt brettet for motstandsbånd og vektskiver. Hvert brett hadde en festepunkt for sikkerhetsleash i klipsmodul, klassifisert til 500 kg statisk last.',
             },
             {
               title: 'Sammerkevare for Nordic Strength og sertifiseringsprosessen',
               detail:
-                'Tor og Afarer utviklet merkevaren «Nordic Strength Trainer 11.0», med Tors signaturfarger i blått og hvitt som matchet kanalprofilen hans. Afarer hjalp Tor gjennom EU-ens CE-sertifisering for treningsutstyr (en egen prosess adskilt fra standard SUP-sertifisering), som krevde 200 timer mekanisk utmattingstesting. Emballasjen inneholdt QR-koder med lenke til Tors 12-ukers treningsprogram «Fjord Fitness», filmet i partnertskap med en norsk idrettsmedisinsk klinikk. Afarer opprettet et europeisk distribusjonshub i Rotterdam som betjener 20 land.',
+                'Tor og OLagoon utviklet merkevaren «Nordic Strength Trainer 11.0», med Tors signaturfarger i blått og hvitt som matchet kanalprofilen hans. OLagoon hjalp Tor gjennom EU-ens CE-sertifisering for treningsutstyr (en egen prosess adskilt fra standard SUP-sertifisering), som krevde 200 timer mekanisk utmattingstesting. Emballasjen inneholdt QR-koder med lenke til Tors 12-ukers treningsprogram «Fjord Fitness», filmet i partnertskap med en norsk idrettsmedisinsk klinikk. OLagoon opprettet et europeisk distribusjonshub i Rotterdam som betjener 20 land.',
             },
             {
               title: 'Lansering i oktober 2024 på tvers av 20 europeiske byer',
               detail:
-                'Tors «Fjord to Peak»-turné startet 12. oktober 2024 i badeområdet Sørenga i Oslo, med 1 200 deltakere i en felles SUP-økt. I løpet av 5 uker besøkte Tor København, Hamburg, Amsterdam, Berlin, Warszawa, Praha, München, Zürich, Milano, Barcelona, Madrid, Paris, London, Dublin, Edinburgh, Stockholm, Helsingfors, Tallinn og Riga. Hvert arrangement kombinerte en 45 minutters SUP-treningsøkt og et meet-and-greet. Alle 1 000 lanseringsenhetene ble solgt i forhåndssalg før det første arrangementet; Afarer fikk hurry med å fly 500 ekstra enheter med flyfrakt midt i turneen. Totalt salg i 2024 nådde 2 300 enheter på tvers av 18 europeiske land.',
+                'Tors «Fjord to Peak»-turné startet 12. oktober 2024 i badeområdet Sørenga i Oslo, med 1 200 deltakere i en felles SUP-økt. I løpet av 5 uker besøkte Tor København, Hamburg, Amsterdam, Berlin, Warszawa, Praha, München, Zürich, Milano, Barcelona, Madrid, Paris, London, Dublin, Edinburgh, Stockholm, Helsingfors, Tallinn og Riga. Hvert arrangement kombinerte en 45 minutters SUP-treningsøkt og et meet-and-greet. Alle 1 000 lanseringsenhetene ble solgt i forhåndssalg før det første arrangementet; OLagoon fikk hurry med å fly 500 ekstra enheter med flyfrakt midt i turneen. Totalt salg i 2024 nådde 2 300 enheter på tvers av 18 europeiske land.',
             },
           ],
           results: [
@@ -1641,8 +1641,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor skapere velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor skapere velger OLagoon',
       items: [
         {
           title: 'Produkt ekspertise',
@@ -1670,38 +1670,38 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hva er minste bestillingsantall for SUP-produkter med skapermerke?',
         answer:
-          'Afarer støtter produksjon med lavt MOQ fra 100–300 enheter i skapernes lanseringsfase, slik at du kan validere etterspørselen uten store lagerinvesteringer. Etter hvert som merkevaren vokser, kan vi skalerer produksjonen til 500–2 000 enheter og mer.',
+          'OLagoon støtter produksjon med lavt MOQ fra 100–300 enheter i skapernes lanseringsfase, slik at du kan validere etterspørselen uten store lagerinvesteringer. Etter hvert som merkevaren vokser, kan vi skalerer produksjonen til 500–2 000 enheter og mer.',
       },
       {
-        question: 'Kan Afarer hjelpe til med design og prototyping av mitt skreddersydde SUP-brett?',
+        question: 'Kan OLagoon hjelpe til med design og prototyping av mitt skreddersydde SUP-brett?',
         answer:
-          'Ja, Afarer tilbyr full utvikling av produktkonsept, fremstilling av prototyper, testing av farger og grafikk og konfigurasjonsjustering. Vi arbeider tett med skapere for å realisere visjonen deres med skreddersydde brettdesign, signaturgrafikk og produktprøver.',
+          'Ja, OLagoon tilbyr full utvikling av produktkonsept, fremstilling av prototyper, testing av farger og grafikk og konfigurasjonsjustering. Vi arbeider tett med skapere for å realisere visjonen deres med skreddersydde brettdesign, signaturgrafikk og produktprøver.',
       },
       {
         question: 'Hvor lang tid tar det å utvikle en prototype og starte produksjonen?',
         answer:
-          'Afarer prioriterer fart i skaperprosjekter. Prototypeutvikling tar typisk noen uker, og produksjonstidene er fleksible for å matche kampanjeplaner, sesongtidspunkt og publikumsmomentum.',
+          'OLagoon prioriterer fart i skaperprosjekter. Prototypeutvikling tar typisk noen uker, og produksjonstidene er fleksible for å matche kampanjeplaner, sesongtidspunkt og publikumsmomentum.',
       },
       {
         question: 'Kan dere støtte Kickstarter-kampanjer med produksjon og ordrehåndtering?',
         answer:
-          'Ja, Afarer støtter forberedelse av prototyper før lansering, produksjonsplanlegging under kampanjen, utvikling av estimert tidslinje og batchvis ordrehåndtering etter kampanjen, inkludert klargjøring av emballasje og forsendelse.',
+          'Ja, OLagoon støtter forberedelse av prototyper før lansering, produksjonsplanlegging under kampanjen, utvikling av estimert tidslinje og batchvis ordrehåndtering etter kampanjen, inkludert klargjøring av emballasje og forsendelse.',
       },
       {
         question: 'Hvilke tilpasningsmuligheter finnes for SUP-brett i limited edition?',
         answer:
-          'Afarer tilbyr egendefinert grafikk, signaturkunst, skaperlogoer, fellesskapssymboler, unike mønstre, spesielle fargeutgaver, begrenset nummerering og premium emballasje med merkede esker og historiemateriell.',
+          'OLagoon tilbyr egendefinert grafikk, signaturkunst, skaperlogoer, fellesskapssymboler, unike mønstre, spesielle fargeutgaver, begrenset nummerering og premium emballasje med merkede esker og historiemateriell.',
       },
       {
-        question: 'Hvordan sikrer Afarer kvalitetskontroll for produkter med skapermerke?',
+        question: 'Hvordan sikrer OLagoon kvalitetskontroll for produkter med skapermerke?',
         answer:
-          'Afarer gjennomfører testing av stabilitet i lufttrykk, verifisering av brettenes holdbarhet, inspeksjon av materialkvalitet, kontroll av grafikk- og fargekonsistens, gjennomgang av emballasjekvalitet og komplett inspeksjon av tilbehør for å beskytte tilliten i fellesskapet ditt.',
+          'OLagoon gjennomfører testing av stabilitet i lufttrykk, verifisering av brettenes holdbarhet, inspeksjon av materialkvalitet, kontroll av grafikk- og fargekonsistens, gjennomgang av emballasjekvalitet og komplett inspeksjon av tilbehør for å beskytte tilliten i fellesskapet ditt.',
       },
     ],
     cta: {
-      title: 'Bygg din Creator Edition SUP-merkevare med Afarer',
+      title: 'Bygg din Creator Edition SUP-merkevare med OLagoon',
       subtitle:
-        'Publikummet ditt følger allerede reisen din. Skap nå noe de kan oppleve. Afarer hjelper skapere med å lansere skreddersydde SUP-produkter, limited edition-brett og private label-friluftsutstyr.',
+        'Publikummet ditt følger allerede reisen din. Skap nå noe de kan oppleve. OLagoon hjelper skapere med å lansere skreddersydde SUP-produkter, limited edition-brett og private label-friluftsutstyr.',
       primaryAction: {
         text: 'Start ditt skaper-SUP-prosjekt i dag',
       },
@@ -1715,7 +1715,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Leverandør av vannsportutstyr for destinasjoner | {SITE}',
       description:
-        'Afarer tilbyr vannsportløsninger for destinasjoner til turistmyndigheter, offentlige parker og kystprosjekter. Kommersielle SUP-flåter, miljøvennlig utstyr, støtte til offentlige prosjekter og storskala OEM-leveranse.',
+        'OLagoon tilbyr vannsportløsninger for destinasjoner til turistmyndigheter, offentlige parker og kystprosjekter. Kommersielle SUP-flåter, miljøvennlig utstyr, støtte til offentlige prosjekter og storskala OEM-leveranse.',
     },
     hero: {
       tagline: 'Bærekraftige vannopplevelsesløsninger for turistnemnder, offentlige parker og destinasjonsprosjekter',
@@ -1807,7 +1807,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Destinasjonsplanlegging',
           detail:
-            'Afarer designet et komplett system for vannaktiviteter, inkludert planlegging av flåtemengde, aktivitetssoner og utstyrskonfigurasjon.',
+            'OLagoon designet et komplett system for vannaktiviteter, inkludert planlegging av flåtemengde, aktivitetssoner og utstyrskonfigurasjon.',
         },
         {
           title: 'Levering av kommersielt utstyr',
@@ -1844,17 +1844,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Spesifikasjon av stille flåte og krav til biologisk nedbrytbare materialer',
               detail:
-                'I september 2024 sendte Kovacic ut en anbudsforespørsel med krav om (1) null engangsplast i brettkonstruksjonen, (2) full gjenvinnbarhet ved livsslutt og (3) sertifisering av stille drift under 25 dB på 5 m. Afarer vant med EcoTouring 12\'6" X, bygget av drop stitch-garn fra biologiske kilder (polymer basert på ricinolje, 42 % fornybart innhold) og naturkork på dekkplatene (FSC-sertifisert portugisisk kork). Hvert brett hadde en forseglet bambuslengdestivhet uten petroleumsbaserte komponenter. LBTB bestilte 200 brett (totalt 246 000 EUR) i tillegg til 12 elektriske oppblåsingsstasjoner drevet av solcelleladestasjoner ved innsjøen.',
+                'I september 2024 sendte Kovacic ut en anbudsforespørsel med krav om (1) null engangsplast i brettkonstruksjonen, (2) full gjenvinnbarhet ved livsslutt og (3) sertifisering av stille drift under 25 dB på 5 m. OLagoon vant med EcoTouring 12\'6" X, bygget av drop stitch-garn fra biologiske kilder (polymer basert på ricinolje, 42 % fornybart innhold) og naturkork på dekkplatene (FSC-sertifisert portugisisk kork). Hvert brett hadde en forseglet bambuslengdestivhet uten petroleumsbaserte komponenter. LBTB bestilte 200 brett (totalt 246 000 EUR) i tillegg til 12 elektriske oppblåsingsstasjoner drevet av solcelleladestasjoner ved innsjøen.',
             },
             {
               title: 'Steg 2: 6 km lang GPS-guidet økorute med 12 tolkende stoppesteder',
               detail:
-                "I løpet av vinteren 2024–2025 kartla LBTB en rute på 6,2 km rundt innsjøen med 12 tolkende stoppesteder (varmekilden ved Bled Castle, klokkeverket i St. Mary's Church, sedimentsoner ved øya). Afarer integrerte en vanntett lydguideenhet med GPS (solid IP68-nettbrett i en dekkfestet holder) som leverte 90 sekunder lange fortalte segmenter ved hvert stopp på 7 språk. Ruten var lagt slik at den unngikk følsomme hekkeområder for fugl (lokaliteter med toppdykker, stengt november–mars). LBTB installerte 12 bøyer med bambusmarkører til en kostnad av 18 000 EUR, som erstattet 32 eksisterende motorbåtbøyer.",
+                "I løpet av vinteren 2024–2025 kartla LBTB en rute på 6,2 km rundt innsjøen med 12 tolkende stoppesteder (varmekilden ved Bled Castle, klokkeverket i St. Mary's Church, sedimentsoner ved øya). OLagoon integrerte en vanntett lydguideenhet med GPS (solid IP68-nettbrett i en dekkfestet holder) som leverte 90 sekunder lange fortalte segmenter ved hvert stopp på 7 språk. Ruten var lagt slik at den unngikk følsomme hekkeområder for fugl (lokaliteter med toppdykker, stengt november–mars). LBTB installerte 12 bøyer med bambusmarkører til en kostnad av 18 000 EUR, som erstattet 32 eksisterende motorbåtbøyer.",
             },
             {
               title: 'Steg 3: Overgangsprogram og sertifisering for utleieoperatører',
               detail:
-                'I lavsesongen januar–mars 2025 drev LBTB et obligatorisk overgangsprogram for alle 14 lisensierte båtutleieoperatører. Afarer ga 36 operatører og ansatte en 4-dagers sertifisering i SUP-guiding som dekket rutekunnskap, nødrespons og formidling av miljøinformasjon. LBTB tilbød et tilskudd på 4 000 EUR per operatør for overgang fra motorbåter til SUP-utleie, finansiert av det slovenske turistdepartementets Green Transition-tilskudd (totalt 280 000 EUR). Innen 1. april hadde 11 av 14 operatører fullført overgangen; de resterende 3 forpliktet seg til hybriddrift med en utfasingsplan for 2026.',
+                'I lavsesongen januar–mars 2025 drev LBTB et obligatorisk overgangsprogram for alle 14 lisensierte båtutleieoperatører. OLagoon ga 36 operatører og ansatte en 4-dagers sertifisering i SUP-guiding som dekket rutekunnskap, nødrespons og formidling av miljøinformasjon. LBTB tilbød et tilskudd på 4 000 EUR per operatør for overgang fra motorbåter til SUP-utleie, finansiert av det slovenske turistdepartementets Green Transition-tilskudd (totalt 280 000 EUR). Innen 1. april hadde 11 av 14 operatører fullført overgangen; de resterende 3 forpliktet seg til hybriddrift med en utfasingsplan for 2026.',
             },
             {
               title: 'Steg 4: Lansering på Jorda-dagen, sesongresultater og UNESCO-samsvar',
@@ -1882,17 +1882,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Rutekartlegging, risikovurdering og samsvar med marin sonering',
               detail:
-                "Fra november 2024 til februar 2025 samarbeidet Delacroix' team med Afarers rutespesialister og det franske Office of Biodiversity (OFB) om å kartlegge og klassifisere 50 km kystlinje. De identifiserte 5 ruter: (1) Cap d'Antibes til Baie des Milliardaires (4,2 km, middels), (2) rundt Ile Sainte-Marguerite (7,1 km, avansert), (3) Calanque de Maubois (2,8 km, nybegynner), (4) marine reservat ved Villefranche-sur-Mer (3,5 km, kun guidet) og (5) solnedgangspadling fra Menton til Cap Martin (5,5 km, middels). Hver rute var GPS-kartlagt med 12–15 veipunkter, inkludert obligatoriske hvilestopp på forhåndsgodkjente private strandklubber som betalte et årlig partnerskapsgebyr på 2 500 EUR.",
+                "Fra november 2024 til februar 2025 samarbeidet Delacroix' team med OLagoons rutespesialister og det franske Office of Biodiversity (OFB) om å kartlegge og klassifisere 50 km kystlinje. De identifiserte 5 ruter: (1) Cap d'Antibes til Baie des Milliardaires (4,2 km, middels), (2) rundt Ile Sainte-Marguerite (7,1 km, avansert), (3) Calanque de Maubois (2,8 km, nybegynner), (4) marine reservat ved Villefranche-sur-Mer (3,5 km, kun guidet) og (5) solnedgangspadling fra Menton til Cap Martin (5,5 km, middels). Hver rute var GPS-kartlagt med 12–15 veipunkter, inkludert obligatoriske hvilestopp på forhåndsgodkjente private strandklubber som betalte et årlig partnerskapsgebyr på 2 500 EUR.",
             },
             {
               title: 'Steg 2: Premiumspesifikasjoner for flåten og integrasjon med hotellets concierge',
               detail:
-                'FRTCB bestilte 350 Afarer Explorer 11\'6" X-brett i en egendefinert fargepalett kalt «Mediterranean Breeze» (terracotta, oliven og krem) med integrert GoPro-feste, rille for vanntett telefonfutter og en holder for champagneflaske (en egendefinert nettlomme med D-ringer foran dekkplaten). Hvert brett kom med en 4-delt padleåre i karbonfiber som passet i en reisepakke i Peli-case. Afarers programvareteam bygde en mobil webapp med white label som gjorde det mulig for hotellenes concierger å bestille brett, sjekke ruteforhold i sanntid via 6 tilkoblede værbøyer og utløse nødvarsler. Totalbestillingen var på 429 000 EUR.',
+                'FRTCB bestilte 350 OLagoon Explorer 11\'6" X-brett i en egendefinert fargepalett kalt «Mediterranean Breeze» (terracotta, oliven og krem) med integrert GoPro-feste, rille for vanntett telefonfutter og en holder for champagneflaske (en egendefinert nettlomme med D-ringer foran dekkplaten). Hvert brett kom med en 4-delt padleåre i karbonfiber som passet i en reisepakke i Peli-case. OLagoons programvareteam bygde en mobil webapp med white label som gjorde det mulig for hotellenes concierger å bestille brett, sjekke ruteforhold i sanntid via 6 tilkoblede værbøyer og utløse nødvarsler. Totalbestillingen var på 429 000 EUR.',
             },
             {
               title: 'Steg 3: Guidesertifisering, sikkerhetsprotokoll og nettverk av partnerstrandklubber',
               detail:
-                'I mars 2025 holdt Afarer 5 regionale opplæringsøkter i Nice Yacht Club og sertifiserte 62 guider (23 ansatte i hotellenes aktivitetstilbud, 39 uavhengige vannsportsoperatører). Sertifiseringen omfattet FRTCB-spesifikt innhold: gjenkjenning av vindmønstre på Middelhavet (beredskap for Mistral/Libeccio), førstehjelp ved manetstikk og standarder for kommunikasjon med luksusgjester. Delacroix etablerte en sikkerhetsprotokoll med obligatoriske redningsvester for alle gjester (RFD NRS Orion-vester med fløyte og kniv), kommunikasjon mellom brett via vanntette VHF-radioer og en maksgruppestørrelse på 12 gjester per 2 guider.',
+                'I mars 2025 holdt OLagoon 5 regionale opplæringsøkter i Nice Yacht Club og sertifiserte 62 guider (23 ansatte i hotellenes aktivitetstilbud, 39 uavhengige vannsportsoperatører). Sertifiseringen omfattet FRTCB-spesifikt innhold: gjenkjenning av vindmønstre på Middelhavet (beredskap for Mistral/Libeccio), førstehjelp ved manetstikk og standarder for kommunikasjon med luksusgjester. Delacroix etablerte en sikkerhetsprotokoll med obligatoriske redningsvester for alle gjester (RFD NRS Orion-vester med fløyte og kniv), kommunikasjon mellom brett via vanntette VHF-radioer og en maksgruppestørrelse på 12 gjester per 2 guider.',
             },
             {
               title: 'Steg 4: Lansering under filmfestivalen i Cannes og akselerert sesongvekst',
@@ -1909,13 +1909,13 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor turistprosjekter velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor turistprosjekter velger OLagoon',
       items: [
         {
           title: 'Sikkerhet',
           description:
-            'Designet for alle. Afarer sørger for at utstyret oppfyller de høyeste sikkerhetsstandardene for mangfoldige offentlige brukere.',
+            'Designet for alle. OLagoon sørger for at utstyret oppfyller de høyeste sikkerhetsstandardene for mangfoldige offentlige brukere.',
         },
         {
           title: 'Bærekraft',
@@ -1938,7 +1938,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvilke sikkerhetssertifiseringer er relevante for utstyr til offentlige SUP-flåter?',
         answer:
-          'Afarer tilbyr produktspesifikasjoner, ytelsesinformasjon og samsvarsdokumentasjon egnet for offentlige anskaffelser. Vi støtter offentlige prosjekter med materialinformasjon og kvalitetssertifiseringer som kreves i anbudsprosesser.',
+          'OLagoon tilbyr produktspesifikasjoner, ytelsesinformasjon og samsvarsdokumentasjon egnet for offentlige anskaffelser. Vi støtter offentlige prosjekter med materialinformasjon og kvalitetssertifiseringer som kreves i anbudsprosesser.',
       },
       {
         question: 'Hvor mange SUP-brett trengs til et offentlig program for vannfritid?',
@@ -1948,28 +1948,28 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan SUP-brett tilpasses med byens eller destinasjonens profilering?',
         answer:
-          'Ja, Afarer støtter tilpasning av destinasjonsprofilering, inkludert bylogoer, turistidentitetsgrafikk, lokale designelementer og temaspesifikk kunst. Dette bidrar til å skape en signaturopplevelse på vannet som styrker destinasjonens identitet.',
+          'Ja, OLagoon støtter tilpasning av destinasjonsprofilering, inkludert bylogoer, turistidentitetsgrafikk, lokale designelementer og temaspesifikk kunst. Dette bidrar til å skape en signaturopplevelse på vannet som styrker destinasjonens identitet.',
       },
       {
-        question: 'Hvilke miljøvennlige funksjoner tilbyr Afarers SUP-brett?',
+        question: 'Hvilke miljøvennlige funksjoner tilbyr OLagoons SUP-brett?',
         answer:
-          'Afarer fokuserer på holdbare materialer som forlenger produktets levetid og reduserer utskiftingsfrekvensen, noe som gir lavere ressursforbruk og mindre avfall. Vi tilbyr også miljødokumentasjon og samsvarsinformasjon for å støtte bærekraftige turismeinitiativer.',
+          'OLagoon fokuserer på holdbare materialer som forlenger produktets levetid og reduserer utskiftingsfrekvensen, noe som gir lavere ressursforbruk og mindre avfall. Vi tilbyr også miljødokumentasjon og samsvarsinformasjon for å støtte bærekraftige turismeinitiativer.',
       },
       {
-        question: 'Hvordan støtter Afarer offentlige anskaffelser og anbudsprosesser?',
+        question: 'Hvordan støtter OLagoon offentlige anskaffelser og anbudsprosesser?',
         answer:
-          'Afarer tilbyr omfattende støtte, inkludert utarbeiding av tekniske spesifikasjoner, dokumentasjon av produktytelse, konfigurasjonsalternativer, bistand til prosjektforslag, flåteanbefalinger, implementeringstidsplaner og koordinering av store ordrer for produksjon og levering.',
+          'OLagoon tilbyr omfattende støtte, inkludert utarbeiding av tekniske spesifikasjoner, dokumentasjon av produktytelse, konfigurasjonsalternativer, bistand til prosjektforslag, flåteanbefalinger, implementeringstidsplaner og koordinering av store ordrer for produksjon og levering.',
       },
       {
         question: 'Hvilket vedlikehold kreves for offentlige SUP-flåter i kommunal drift?',
         answer:
-          'Afarer tilbyr komplett driftsstøtte, inkludert vedlikeholdsveiledning, inspeksjonsprosesser, prosedyrer for komponentutskifting, tilgjengelighet av reservedeler og planlegging av flåtestyring. Dette sikrer langsiktig pålitelighet for offentlige fritidsprogrammer.',
+          'OLagoon tilbyr komplett driftsstøtte, inkludert vedlikeholdsveiledning, inspeksjonsprosesser, prosedyrer for komponentutskifting, tilgjengelighet av reservedeler og planlegging av flåtestyring. Dette sikrer langsiktig pålitelighet for offentlige fritidsprogrammer.',
       },
     ],
     cta: {
-      title: 'Skap destinasjonens vannopplevelse med Afarer',
+      title: 'Skap destinasjonens vannopplevelse med OLagoon',
       subtitle:
-        'Vannressursene dine har turistpotensial. Afarer bidrar til å forvandle innsjøer, elver, vannkanter og offentlige parker til minnerike friluftsdestinasjoner.',
+        'Vannressursene dine har turistpotensial. OLagoon bidrar til å forvandle innsjøer, elver, vannkanter og offentlige parker til minnerike friluftsdestinasjoner.',
       primaryAction: {
         text: 'Start prosjektet ditt',
       },
@@ -1989,9 +1989,9 @@ const no: Record<string, SolutionOverride> = {
       tagline: 'Løsning for holdbar utleieflåte™',
       title: 'Kommersielle SUP-utstyrsløsninger for utleiebedrifter, strender og turistdestinasjoner',
       subtitle:
-        'Afarer leverer løsninger for holdbare utleieflåter designet spesielt for kommersielle utleiebedrifter. Vi hjelper strandutleieselskaper, aktivitetsoperatører ved innsjøer, resortvannsentre og eventyrturismeselskaper med å bygge lønnsomme SUP-flåter med holdbar konstruksjon og enkelt vedlikehold.',
+        'OLagoon leverer løsninger for holdbare utleieflåter designet spesielt for kommersielle utleiebedrifter. Vi hjelper strandutleieselskaper, aktivitetsoperatører ved innsjøer, resortvannsentre og eventyrturismeselskaper med å bygge lønnsomme SUP-flåter med holdbar konstruksjon og enkelt vedlikehold.',
       image: {
-        alt: 'Afarers holdbare utleie-SUP-flåte for strand- og vannsportsoperatører',
+        alt: 'OLagoons holdbare utleie-SUP-flåte for strand- og vannsportsoperatører',
       },
     },
     challenge: {
@@ -2025,7 +2025,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Oppblåsbar SUP-konstruksjon i utleiekvalitet',
           description:
-            'Afarers utleie-SUP-produkter fokuserer på praktisk holdbarhet med slitesterkt PVC-materiale, forsterket kantkonstruksjon mot hyppige støt, holdbar drop stitch-struktur for stabil ytelse og ventilsystemer med høy holdbarhet designet for daglig drift.',
+            'OLagoons utleie-SUP-produkter fokuserer på praktisk holdbarhet med slitesterkt PVC-materiale, forsterket kantkonstruksjon mot hyppige støt, holdbar drop stitch-struktur for stabil ytelse og ventilsystemer med høy holdbarhet designet for daglig drift.',
           features: [
             'Slitesterkt PVC-materiale',
             'Forsterket kantkonstruksjon',
@@ -2036,7 +2036,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Kostnadsoptimalisert utleie-SUP-design',
           description:
-            'Utleiekunder trenger ikke konkurranseivå på ytelse. De trenger stabilitet, sikkerhet, enkel betjening og pålitelighet. Afarer konfigurerer produkter med stabile allround-former, standardisert tilbehør og praktisk emballasje for raskere utstyrshåndtering.',
+            'Utleiekunder trenger ikke konkurranseivå på ytelse. De trenger stabilitet, sikkerhet, enkel betjening og pålitelighet. OLagoon konfigurerer produkter med stabile allround-former, standardisert tilbehør og praktisk emballasje for raskere utstyrshåndtering.',
           features: [
             'Stabil allround-form for nybegynnere',
             'Standardisert tilbehør',
@@ -2047,17 +2047,17 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Komplett pakke for utleieflåte',
           description:
-            'Afarer lager ferdige utleiepakker med holdbare oppblåsbare SUP-brett, justerbare padleårer, pumper, leasher, bæretryggsekker og reperasjonssett, med kommersielle tilleggsalternativer som ekstra finner, ekstra padleårer, utskiftingsventiler og lagringsløsninger.',
+            'OLagoon lager ferdige utleiepakker med holdbare oppblåsbare SUP-brett, justerbare padleårer, pumper, leasher, bæretryggsekker og reperasjonssett, med kommersielle tilleggsalternativer som ekstra finner, ekstra padleårer, utskiftingsventiler og lagringsløsninger.',
         },
         {
           title: 'Voluminnkjøpsløsninger for flåter',
           description:
-            'Afarer støtter operatører som kjøper flåter på 50, 100, 300 eller over 500 brett, med støtte til flåteutvidelse fra små utleieoperasjoner til bedrifter med flere steder, og sikrer ensartet utstyrskvalitet og bedre innkjøpseffektivitet.',
+            'OLagoon støtter operatører som kjøper flåter på 50, 100, 300 eller over 500 brett, med støtte til flåteutvidelse fra små utleieoperasjoner til bedrifter med flere steder, og sikrer ensartet utstyrskvalitet og bedre innkjøpseffektivitet.',
         },
         {
           title: 'Enkelt vedlikeholds- og reparasjonssystem',
           description:
-            'Utleiebedrifter har ikke råd til langt driftsstopp for utstyr. Afarer tilbyr reparasjonsvennlig produktdesign med utskiftbare komponenter, vedlikeholdsveiledning for rengjøring og lagring og nødrepairasjonstøtte med sett og feilsøkingsveiledning.',
+            'Utleiebedrifter har ikke råd til langt driftsstopp for utstyr. OLagoon tilbyr reparasjonsvennlig produktdesign med utskiftbare komponenter, vedlikeholdsveiledning for rengjøring og lagring og nødrepairasjonstøtte med sett og feilsøkingsveiledning.',
           features: [
             'Utskiftbare komponenter',
             'Standardtilbehør',
@@ -2068,23 +2068,23 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Sesongoptimalisering av utleiebedriften',
           description:
-            'Mange utleiebedrifter drives sesongvis. Afarer hjelper med lagerplanlegging etter etterspørsel med egnede produkter for sommerdrift på stranden, familie-SUP-pakker, resortaktiviteter og eventyrturisme med touringmodeller.',
+            'Mange utleiebedrifter drives sesongvis. OLagoon hjelper med lagerplanlegging etter etterspørsel med egnede produkter for sommerdrift på stranden, familie-SUP-pakker, resortaktiviteter og eventyrturisme med touringmodeller.',
         },
         {
           title: 'Egendefinert merkevarebygging for utleieoperatører',
           description:
-            'Utleieutstyr er synlig for hundrevis av kunder. Afarer støtter logomerking, fargetilpasning til strandatmosfæren eller resortstilen og flåteidentifikasjon med brettnummerering og modellmerker som gjør utstyret om til et markedsføringsverktøy.',
+            'Utleieutstyr er synlig for hundrevis av kunder. OLagoon støtter logomerking, fargetilpasning til strandatmosfæren eller resortstilen og flåteidentifikasjon med brettnummerering og modellmerker som gjør utstyret om til et markedsføringsverktøy.',
           features: ['Logomerking', 'Fargetilpasning', 'Brett-nummerering', 'Modell- og driftsmerker'],
         },
         {
           title: 'Støtte for turistdestinasjoner og resorter',
           description:
-            'Mange turismeselskaper bruker SUP som et opplevelsesprodukt. Afarer støtter hoteller, resorter, campingplasser og eventyerparker med flåteplanlegging, produkttilpasning og serieproduksjon for komplette vannaktivitetsopplevelser.',
+            'Mange turismeselskaper bruker SUP som et opplevelsesprodukt. OLagoon støtter hoteller, resorter, campingplasser og eventyerparker med flåteplanlegging, produkttilpasning og serieproduksjon for komplette vannaktivitetsopplevelser.',
         },
         {
           title: 'Forbedre avkastningen i utleiebedriften',
           description:
-            'Afarer hjelper operatører med å forbedre lønnsomheten gjennom lengre produktlevetid som reduserer utskiftingsfrekvensen, lavere vedlikeholdskostnader som reduserer reparasjonstiden og høyere tilgjengelighet som øker daglig utleiekapasitet og kundetilfredshet.',
+            'OLagoon hjelper operatører med å forbedre lønnsomheten gjennom lengre produktlevetid som reduserer utskiftingsfrekvensen, lavere vedlikeholdskostnader som reduserer reparasjonstiden og høyere tilgjengelighet som øker daglig utleiekapasitet og kundetilfredshet.',
         },
       ],
     },
@@ -2100,7 +2100,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Analyse av utleieflåten',
           detail:
-            'Afarer vurderte bruksfrekvens, kundeprofil og driftsmiljø, og anbefalte deretter en kommersiell utleie-SUP-konfigurasjon optimalisert for strandmiljøet ved Middelhavet.',
+            'OLagoon vurderte bruksfrekvens, kundeprofil og driftsmiljø, og anbefalte deretter en kommersiell utleie-SUP-konfigurasjon optimalisert for strandmiljøet ved Middelhavet.',
         },
         {
           title: 'Produktutvikling',
@@ -2136,19 +2136,19 @@ const no: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Simulering av vinterlagring i Afarers kuldekammerfasilitet',
+              title: 'Simulering av vinterlagring i OLagoons kuldekammerfasilitet',
               detail:
-                'I januar 2024 sendte Sarah 8 konkurrentbrett og 6 Afarer-prototyper til Afarers anlegg i Xiamen til 4 ukers testing i ekstrem kulde. Testkammeret vekslet daglig mellom -35 °C og +25 °C (som simulerer frys-tine-sykluser i kanadisk mars). Brettene ble lagret i simulerte stativforhold under 200 kg snølaster. Afarers XHD-Plus-materiale — en 4-lags laminat med en indre TPU-membran — viste null mikrosprekker etter 28 sykluser, mens 5 av 8 konkurrentbrett utviklet synlige sprekker. TPU-laget hindret fuktinntrengning selv når brettenes overflater var ripefulle. Sarah ba også om en «cold-fold»-test: brett brettet sammen for transport ved -20 °C; Afarers brett overlevde 500 sammenbrettinger uten svikt i brettesken.',
+                'I januar 2024 sendte Sarah 8 konkurrentbrett og 6 OLagoon-prototyper til OLagoons anlegg i Xiamen til 4 ukers testing i ekstrem kulde. Testkammeret vekslet daglig mellom -35 °C og +25 °C (som simulerer frys-tine-sykluser i kanadisk mars). Brettene ble lagret i simulerte stativforhold under 200 kg snølaster. OLagoons XHD-Plus-materiale — en 4-lags laminat med en indre TPU-membran — viste null mikrosprekker etter 28 sykluser, mens 5 av 8 konkurrentbrett utviklet synlige sprekker. TPU-laget hindret fuktinntrengning selv når brettenes overflater var ripefulle. Sarah ba også om en «cold-fold»-test: brett brettet sammen for transport ved -20 °C; OLagoons brett overlevde 500 sammenbrettinger uten svikt i brettesken.',
             },
             {
               title: 'Egendefinert «Canadian Shield»-pakke med isolerte lagervetter',
               detail:
-                'Basert på testresultatene utviklet Afarer spesifikasjonen «Canadian Shield»: 4-lags PVC/TPU-konstruksjon, ventiler i rustfritt stål taksert til -40 °C (standard messingventiler setter seg fast med is) og forsterkede bærehåndtak taksert til dobbel brettvekt for bæring i snø. Afarer designet en foret, isolert lagervett («Winter Jacket») som holdt den indre temperaturen 12 °C over omgivelsestemperaturen. Sarah testet vettene i mars 2024 ved Lake Muskoka: brett lagret ved -22 °C over natten inne i vettene var på -8 °C om morgenen og var oppblåst 3 minutter raskere. Afarer produserte 150 vetter som en del av bestillingen.',
+                'Basert på testresultatene utviklet OLagoon spesifikasjonen «Canadian Shield»: 4-lags PVC/TPU-konstruksjon, ventiler i rustfritt stål taksert til -40 °C (standard messingventiler setter seg fast med is) og forsterkede bærehåndtak taksert til dobbel brettvekt for bæring i snø. OLagoon designet en foret, isolert lagervett («Winter Jacket») som holdt den indre temperaturen 12 °C over omgivelsestemperaturen. Sarah testet vettene i mars 2024 ved Lake Muskoka: brett lagret ved -22 °C over natten inne i vettene var på -8 °C om morgenen og var oppblåst 3 minutter raskere. OLagoon produserte 150 vetter som en del av bestillingen.',
             },
             {
               title: 'Oppkjøringskurs før sesongen for resortansatte på 3 eiendommer',
               detail:
-                'I mai 2024 tilbrakte Afarers serviceleder for Nord-Amerika, Jake Patterson, 5 dager på å opplære 28 ansatte på tvers av de 3 resortene. Kanadisk-spesifikke protokoller omfattet: vårklargjøring (detaljert sjekkliste for inspeksjon av kuldelagringsskader), riktig oppblåsing til 13–15 PSI (justert for kaldt vann — Lake Muskoka har i gjennomsnitt 14 °C i juni), vinterklargjøringsprosedyre for brett lagret i uoppvarmede båthus og et WhatsApp-basert system for «skaderapportering innen 15 minutter». Jake lærte også staben å gjenkjenne typiske biter fra kanadisk bever (et reelt problem: 2 brett gikk tapt til bevere i 2023) og hvordan de repareres med ekstra sterke PVC-lapper.',
+                'I mai 2024 tilbrakte OLagoons serviceleder for Nord-Amerika, Jake Patterson, 5 dager på å opplære 28 ansatte på tvers av de 3 resortene. Kanadisk-spesifikke protokoller omfattet: vårklargjøring (detaljert sjekkliste for inspeksjon av kuldelagringsskader), riktig oppblåsing til 13–15 PSI (justert for kaldt vann — Lake Muskoka har i gjennomsnitt 14 °C i juni), vinterklargjøringsprosedyre for brett lagret i uoppvarmede båthus og et WhatsApp-basert system for «skaderapportering innen 15 minutter». Jake lærte også staben å gjenkjenne typiske biter fra kanadisk bever (et reelt problem: 2 brett gikk tapt til bevere i 2023) og hvordan de repareres med ekstra sterke PVC-lapper.',
             },
             {
               title: 'Lansering sommeren 2024 og ytelse i løvsesongen',
@@ -2176,17 +2176,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Varmestressstudie i juli 2023 på Marbellas Playa de la Fontanilla',
               detail:
-                'I juli 2023 gjennomførte Afarers tekniske leder for Middelhavet, Pedro Sánchez, en 3-ukers studie på Miguels flaggskipstrand. De instrumenterte 10 konkurrentbrett og 5 Afarer-prototyper med Bluetooth-trykksensorer som logget hvert 5. minutt. Resultatene viste at konkurrentbrettene mistet 2,8–4,1 PSI i løpet av 8 timer (startet på 15 PSI, falt til 10,9–12,2 PSI ved 16-tiden). Afarers XHD-Thermal-brett — med et varmereflekterende ytre sølvsjikt og fylling med nitrogengass — mistet bare 0,7 PSI. Pedro oppdaget hovedproblemet: vanlig luft utvider seg i varme og øker det indre trykket, noe som utløser sikkerhetsventilen; Afarers nitrogenfylling (større molekyler, langsommere diffusjon) reduserte denne effekten. Brettets overflatetemperatur på sanden nådde 67 °C ved 15-tiden — Afarers sølvsjikt reflekterte 34 % av den infrarøde strålingen.',
+                'I juli 2023 gjennomførte OLagoons tekniske leder for Middelhavet, Pedro Sánchez, en 3-ukers studie på Miguels flaggskipstrand. De instrumenterte 10 konkurrentbrett og 5 OLagoon-prototyper med Bluetooth-trykksensorer som logget hvert 5. minutt. Resultatene viste at konkurrentbrettene mistet 2,8–4,1 PSI i løpet av 8 timer (startet på 15 PSI, falt til 10,9–12,2 PSI ved 16-tiden). OLagoons XHD-Thermal-brett — med et varmereflekterende ytre sølvsjikt og fylling med nitrogengass — mistet bare 0,7 PSI. Pedro oppdaget hovedproblemet: vanlig luft utvider seg i varme og øker det indre trykket, noe som utløser sikkerhetsventilen; OLagoons nitrogenfylling (større molekyler, langsommere diffusjon) reduserte denne effekten. Brettets overflatetemperatur på sanden nådde 67 °C ved 15-tiden — OLagoons sølvsjikt reflekterte 34 % av den infrarøde strålingen.',
             },
             {
               title: '«Costa del Sol Edition» med varmespredende dekk og tyverisikret forankring',
               detail:
-                'Afarer laget en egendefinert spesifikasjon for Miguel: «Costasol Edition 11.0» med korkdekk (holder seg 8 °C kjøligere enn EVA-skum i sterkest sol, verifisert med termokamera), varmebestandige ventiler i rustfritt stål med silikon-O-ringer (mot standard gummi som brytes ned etter over 400 timer i spansk sol) og et UV-stabilisert finnesystem taksert til 2 000 timer UV-eksponering. Miguel ba om en tyverihemmende funksjon: Afarer integrerte en kabeløyle i rustfritt stål i brettets nese som staben kunne tre en kombinasjonslås gjennom — noe som reduserte bretttyveri fra 12 per år til 0. Hvert brett hadde strandklubblogoen til Miguel varmepreget (ingen klistremerker som løsner) med en QR-kode som lenket til ansvarsfraskrivelse og utleieavtale.',
+                'OLagoon laget en egendefinert spesifikasjon for Miguel: «Costasol Edition 11.0» med korkdekk (holder seg 8 °C kjøligere enn EVA-skum i sterkest sol, verifisert med termokamera), varmebestandige ventiler i rustfritt stål med silikon-O-ringer (mot standard gummi som brytes ned etter over 400 timer i spansk sol) og et UV-stabilisert finnesystem taksert til 2 000 timer UV-eksponering. Miguel ba om en tyverihemmende funksjon: OLagoon integrerte en kabeløyle i rustfritt stål i brettets nese som staben kunne tre en kombinasjonslås gjennom — noe som reduserte bretttyveri fra 12 per år til 0. Hvert brett hadde strandklubblogoen til Miguel varmepreget (ingen klistremerker som løsner) med en QR-kode som lenket til ansvarsfraskrivelse og utleieavtale.',
             },
             {
               title: 'Utleielogistikk i stort volum og opplæring av teamet',
               detail:
-                'Afarers driftskonsulent Ana Martínez tilbrakte 2 uker i februar 2024 med å optimalisere Miguels utleiearbeidsflyt. «Hent-og-gå»-modellen: 50 brett holdes alltid oppblåst på et egendefinert rullende stativ (bygget av Afarers tilbehørsteam), noe som reduserte uthentingstiden fra 8 minutter til 90 sekunder. Ana opplærte 22 sesongansatte i: 1-minutters trykkontroll med kalibrert manometer, riktig rengjøring av korkdekket (mild såpe, ingen høytrykksspuler), ettermiddagsprotokoll for påfylling av trykk (30-sekunders kontroll klokka 14) og skylling på slutten av dagen med ferskvannsspraysystem (installert av Afarer, 80 EUR per stasjon). Den nye arbeidsflyten tillot 2 ansatte å administrere 200 brett i stedet for 5 ansatte for 85.',
+                'OLagoons driftskonsulent Ana Martínez tilbrakte 2 uker i februar 2024 med å optimalisere Miguels utleiearbeidsflyt. «Hent-og-gå»-modellen: 50 brett holdes alltid oppblåst på et egendefinert rullende stativ (bygget av OLagoons tilbehørsteam), noe som reduserte uthentingstiden fra 8 minutter til 90 sekunder. Ana opplærte 22 sesongansatte i: 1-minutters trykkontroll med kalibrert manometer, riktig rengjøring av korkdekket (mild såpe, ingen høytrykksspuler), ettermiddagsprotokoll for påfylling av trykk (30-sekunders kontroll klokka 14) og skylling på slutten av dagen med ferskvannsspraysystem (installert av OLagoon, 80 EUR per stasjon). Den nye arbeidsflyten tillot 2 ansatte å administrere 200 brett i stedet for 5 ansatte for 85.',
             },
             {
               title: 'Sommeren 2024: Spanias varmeste juli noensinne',
@@ -2203,8 +2203,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor utleiebedrifter velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor utleiebedrifter velger OLagoon',
       items: [
         {
           title: 'Kommersiell bruk',
@@ -2232,38 +2232,38 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvilken type SUP-brett egner seg best for utleiebedrifter?',
         answer:
-          'Utleiebedrifter trenger holdbare, stabile allround SUP-brett med forsterket konstruksjon, nybegynnervennlige former, standardisert tilbehør og funksjoner for enkelt vedlikehold. Afarers utleiebrett er spesielt designet for å tåle hyppig bruk av kunder på alle ferdighetsnivåer.',
+          'Utleiebedrifter trenger holdbare, stabile allround SUP-brett med forsterket konstruksjon, nybegynnervennlige former, standardisert tilbehør og funksjoner for enkelt vedlikehold. OLagoons utleiebrett er spesielt designet for å tåle hyppig bruk av kunder på alle ferdighetsnivåer.',
       },
       {
         question: 'Hvordan kan jeg redusere vedlikeholdskostnadene for utleieflåten min av SUP?',
         answer:
-          'Afarer bidrar til å redusere vedlikeholdskostnadene gjennom holdbar konstruksjon som motstår skader, standardiserte komponenter som forenkler reparasjoner, utskiftbare deler som fjerner behovet for å bytte hele brett, og vedlikeholdsveiledning som hjelper teamet ditt med grundig basisvedlikehold.',
+          'OLagoon bidrar til å redusere vedlikeholdskostnadene gjennom holdbar konstruksjon som motstår skader, standardiserte komponenter som forenkler reparasjoner, utskiftbare deler som fjerner behovet for å bytte hele brett, og vedlikeholdsveiledning som hjelper teamet ditt med grundig basisvedlikehold.',
       },
       {
         question: 'Hva er minste bestillingsantall for utleieflåter av SUP?',
         answer:
-          'Afarer støtter fleksible flåtestørrelser, fra små operasjoner som starter med 50 brett til storskala flåter på over 500 brett. Vi tilbyr voluminnkjøpsløsninger med ensartet kvalitet på tvers av alle bestillingsstørrelser.',
+          'OLagoon støtter fleksible flåtestørrelser, fra små operasjoner som starter med 50 brett til storskala flåter på over 500 brett. Vi tilbyr voluminnkjøpsløsninger med ensartet kvalitet på tvers av alle bestillingsstørrelser.',
       },
       {
         question: 'Tilbyr dere volumpriser for utleieoperatører?',
         answer:
-          'Ja, Afarer tilbyr konkurransedyktige volumpriser for utleieoperatører som kjøper flåter på 50, 100, 300 eller over 500 brett, med ensartet utstyrskvalitet og effektive produksjonstider for store bestillinger.',
+          'Ja, OLagoon tilbyr konkurransedyktige volumpriser for utleieoperatører som kjøper flåter på 50, 100, 300 eller over 500 brett, med ensartet utstyrskvalitet og effektive produksjonstider for store bestillinger.',
       },
       {
-        question: 'Hvordan håndterer Afarers SUP-brett saltvann og strandmiljøer?',
+        question: 'Hvordan håndterer OLagoons SUP-brett saltvann og strandmiljøer?',
         answer:
-          'Afarers utleiebrett har slitesterkt PVC-materiale, UV-bestandig konstruksjon, forsterkede kanter mot strandkontakt og korrosjonsbestandig beslag som tåler saltvannseksponering, sandslitasje og utendørs lagring.',
+          'OLagoons utleiebrett har slitesterkt PVC-materiale, UV-bestandig konstruksjon, forsterkede kanter mot strandkontakt og korrosjonsbestandig beslag som tåler saltvannseksponering, sandslitasje og utendørs lagring.',
       },
       {
         question: 'Kan jeg merke utleie-SUP-brettene mine med bedriftens logo?',
         answer:
-          'Ja, Afarer støtter full tilpasning, inkludert logomerking, fargematching, brettnummerering og modellmerker som gjør utleieutstyret ditt om til synlige markedsføringsverktøy på stranden eller resortet ditt.',
+          'Ja, OLagoon støtter full tilpasning, inkludert logomerking, fargematching, brettnummerering og modellmerker som gjør utleieutstyret ditt om til synlige markedsføringsverktøy på stranden eller resortet ditt.',
       },
     ],
     cta: {
-      title: 'Bygg din holdbare SUP-utleieflåte med Afarer',
+      title: 'Bygg din holdbare SUP-utleieflåte med OLagoon',
       subtitle:
-        'Utstyret ditt avgjør bedriftens lønnsomhet. Velg SUP-produkter designet for å jobbe hardere og vare lenger. Afarer hjelper utleieoperatører med å bygge strand-SUP-flåter, utstyr for resortvannaktiviteter og turismesystemer for eventyr med pålitelig OEM-produksjonsstøtte.',
+        'Utstyret ditt avgjør bedriftens lønnsomhet. Velg SUP-produkter designet for å jobbe hardere og vare lenger. OLagoon hjelper utleieoperatører med å bygge strand-SUP-flåter, utstyr for resortvannaktiviteter og turismesystemer for eventyr med pålitelig OEM-produksjonsstøtte.',
       primaryAction: {
         text: 'Start ditt utleieflåteprosjekt i dag',
       },
@@ -2277,7 +2277,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsent av SUP-plattformer for økologisk forskning | {SITE}',
       description:
-        'Afarer tilbyr miljøvennlige SUP-forskningsplattformer for marinverns-NGO-er, universiteter og miljøovervåkingsorganisasjoner. Stabile flyteplattformer, monteringssystemer for utstyr og skreddersydde OEM-løsninger.',
+        'OLagoon tilbyr miljøvennlige SUP-forskningsplattformer for marinverns-NGO-er, universiteter og miljøovervåkingsorganisasjoner. Stabile flyteplattformer, monteringssystemer for utstyr og skreddersydde OEM-løsninger.',
     },
     hero: {
       tagline:
@@ -2408,7 +2408,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Lavstøy-SUP-konfigurasjon og integrering av sensorplattform',
               detail:
-                'I september 2024 gikk Huamán i partnerskap med Afarers miljøforskningsdivisjon om å tilpasse EcoTouring 12\'6" X for utsetting av vitenskapelig nyttelast. Endringene omfattet en forsterket montasjeplate på dekket (rustfritt stål, 4-bolts mønster) til en Garmin echoMAP Plus 74cv ekkolodd/sonar-sender; et integrert RAM-mount-system til en GoPro HERO12 Black i undervannshus; en vanntett utstyrsbrønn (7 L, skrudd forsegling) i brettets kjerne til dataloggere og GPS-sporere; og en lav kjølbeskytter som tillot landing på gjørmete elvebredder. Tre prototypebrett ble testet i Ucayali i oktober 2024, med målt støyutgang under vann på 18 dB (mot 52 dB for en 25 hk Tohatsu utenbordsmotor på 5 m). ARA bestilte 18 brett for 212 000 USD, finansiert av Gordon and Betty Moore Foundation.',
+                'I september 2024 gikk Huamán i partnerskap med OLagoons miljøforskningsdivisjon om å tilpasse EcoTouring 12\'6" X for utsetting av vitenskapelig nyttelast. Endringene omfattet en forsterket montasjeplate på dekket (rustfritt stål, 4-bolts mønster) til en Garmin echoMAP Plus 74cv ekkolodd/sonar-sender; et integrert RAM-mount-system til en GoPro HERO12 Black i undervannshus; en vanntett utstyrsbrønn (7 L, skrudd forsegling) i brettets kjerne til dataloggere og GPS-sporere; og en lav kjølbeskytter som tillot landing på gjørmete elvebredder. Tre prototypebrett ble testet i Ucayali i oktober 2024, med målt støyutgang under vann på 18 dB (mot 52 dB for en 25 hk Tohatsu utenbordsmotor på 5 m). ARA bestilte 18 brett for 212 000 USD, finansiert av Gordon and Betty Moore Foundation.',
             },
             {
               title: 'Steg 2: Tilpasning av forskningsprotokoll og utvikling av stille observasjonsmetode',
@@ -2418,7 +2418,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 3: Sertifisering av forskerne og logistikk for fjerntliggende stasjoner',
               detail:
-                'I november 2024 gjennomførte Afarer et 12-dagers feltopplæringsprogram på 3 ARA-stasjoner og sertifiserte 12 forskere (5 ph.d.-kandidater, 4 feltteknikere og 3 lokale elveguider). Opplæringen dekket elvestrømmer (Ucayali har opp til 4 knop strøm), unngåelse av tømmer og flytegods, natt-padleteknikker for undersøkelser av nattaktive arter og oppstartsprosedyrer i jungelen (bæring av oppblåste brett 400 m gjennom urskog til isolerte elvesjøer). Hver forsker fullførte 40 timer med overvåket padling og en avsluttende eksamen som krevde et 6 km langt transekt på under 2 timer med samtidig dataregistrering. Beståelsesraten for sertifiseringen var 92 % (11 av 12). Den siste forskeren fungerte som roterende støtte.',
+                'I november 2024 gjennomførte OLagoon et 12-dagers feltopplæringsprogram på 3 ARA-stasjoner og sertifiserte 12 forskere (5 ph.d.-kandidater, 4 feltteknikere og 3 lokale elveguider). Opplæringen dekket elvestrømmer (Ucayali har opp til 4 knop strøm), unngåelse av tømmer og flytegods, natt-padleteknikker for undersøkelser av nattaktive arter og oppstartsprosedyrer i jungelen (bæring av oppblåste brett 400 m gjennom urskog til isolerte elvesjøer). Hver forsker fullførte 40 timer med overvåket padling og en avsluttende eksamen som krevde et 6 km langt transekt på under 2 timer med samtidig dataregistrering. Beståelsesraten for sertifiseringen var 92 % (11 av 12). Den siste forskeren fungerte som roterende støtte.',
             },
             {
               title: 'Steg 4: Resultater fra feltsesongen 2025 og naturverneffekt',
@@ -2446,7 +2446,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Integrasjon av SUP-sensorer og design av forskningsplattform',
               detail:
-                'I desember 2024 arbeidet Torres med Afarers miljø-FoU-team med å konfigurere EcoTouring 12\'6" X for kystovervåking. Afarer integrerte en montasjeplate for YSI EXO2-sonden (montert i en spesiallaget brønn som går gjennom brettets kjerne, slik at vannet strømmer kontinuerlig forbi uten drag fra en slepet sonde). Brettet fikk en davitsarm i baugen (karbonfiber, 1,5 kg, klassifisert for 50 lb) til å senke og heve et undervannsvideosystem (GoPro HERO12 Black i et backscatter-hus med rødfiltre). En dataloggerboks i akteren (Pelican 1040) rommet en GNSS-mottaker og et mobilmodem for opplasting av data i sanntid via Motes skyplattform. Tre prototyper ble satt i drift i januar 2025 for en 30-dagers valideringsstudie, som bekreftet sondeavlesninger innenfor 2 % av båtbaserte avlesninger på parvise stasjoner. Mote bestilte 15 brett for 186 000 USD, finansiert av SBEP og Gulf Research Program.',
+                'I desember 2024 arbeidet Torres med OLagoons miljø-FoU-team med å konfigurere EcoTouring 12\'6" X for kystovervåking. OLagoon integrerte en montasjeplate for YSI EXO2-sonden (montert i en spesiallaget brønn som går gjennom brettets kjerne, slik at vannet strømmer kontinuerlig forbi uten drag fra en slepet sonde). Brettet fikk en davitsarm i baugen (karbonfiber, 1,5 kg, klassifisert for 50 lb) til å senke og heve et undervannsvideosystem (GoPro HERO12 Black i et backscatter-hus med rødfiltre). En dataloggerboks i akteren (Pelican 1040) rommet en GNSS-mottaker og et mobilmodem for opplasting av data i sanntid via Motes skyplattform. Tre prototyper ble satt i drift i januar 2025 for en 30-dagers valideringsstudie, som bekreftet sondeavlesninger innenfor 2 % av båtbaserte avlesninger på parvise stasjoner. Mote bestilte 15 brett for 186 000 USD, finansiert av SBEP og Gulf Research Program.',
             },
             {
               title: 'Steg 2: Nettverk av overvåkingsstasjoner og prøvetakingsprotokoll for tidevann',
@@ -2456,7 +2456,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 3: Sertifisering av forskningsmedarbeiderne og navigeringstrening i grunt vann',
               detail:
-                'I februar 2025 sertifiserte Afarers forskningsdivisjon 8 forskningsmedarbeidere ved Mote (4 forskere på ph.d.-nivå og 4 feltteknikere) gjennom et 5-dagers operatørkurs i SUP-forskning i grunt vann. Opplæringen dekket navigering i ålegrasenger (unngåelse av skader av samme type som propellskader, nemlig finnedrag), protokoller for tilnærming til manater (minimum 50 m tilnærmingsavstand, stille driv ved observasjon, atferdsobservasjon helt uten motorstøy), håndtering av tidvannsstrøm (maks 1,5 knop strøm under prøvetaking, 2,5 knop for forflytning) og utsetting og berging av utstyr i vind. Torres krevde også at alle fullførte Florida FWCs opplæring i møte med manater (2 timer på nett + feltdel). Sertifiseringen ble vurdert gjennom en prøvedag med prøvetaking på 4 stasjoner i løpet av 3 timer med 100 % datakompletthet. Alle 8 besto i første forsøk, med en gjennomsnittlig gjennomføringstid per stasjon på 38 minutter (mot 68 minutter for motorbåtprotokollen).',
+                'I februar 2025 sertifiserte OLagoons forskningsdivisjon 8 forskningsmedarbeidere ved Mote (4 forskere på ph.d.-nivå og 4 feltteknikere) gjennom et 5-dagers operatørkurs i SUP-forskning i grunt vann. Opplæringen dekket navigering i ålegrasenger (unngåelse av skader av samme type som propellskader, nemlig finnedrag), protokoller for tilnærming til manater (minimum 50 m tilnærmingsavstand, stille driv ved observasjon, atferdsobservasjon helt uten motorstøy), håndtering av tidvannsstrøm (maks 1,5 knop strøm under prøvetaking, 2,5 knop for forflytning) og utsetting og berging av utstyr i vind. Torres krevde også at alle fullførte Florida FWCs opplæring i møte med manater (2 timer på nett + feltdel). Sertifiseringen ble vurdert gjennom en prøvedag med prøvetaking på 4 stasjoner i løpet av 3 timer med 100 % datakompletthet. Alle 8 besto i første forsøk, med en gjennomsnittlig gjennomføringstid per stasjon på 38 minutter (mot 68 minutter for motorbåtprotokollen).',
             },
             {
               title: 'Steg 4: Overvåkingssesongen mars–november 2025 og målbar økologisk effekt',
@@ -2473,8 +2473,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor forskningsorganisasjoner velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor forskningsorganisasjoner velger OLagoon',
       items: [
         {
           title: 'Stabilitet',
@@ -2500,24 +2500,24 @@ const no: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Hvilket vitenskapelig utstyr kan monteres på en Afarer-forsknings-SUP-plattform?',
+        question: 'Hvilket vitenskapelig utstyr kan monteres på en OLagoon-forsknings-SUP-plattform?',
         answer:
-          'Afarers forskningsplattformer støtter et bredt spekter av utstyr, blant annet sensorer for vannkvalitet, kameraer og GPS-enheter, prøvebeholdere, måleverktøy og datainnsamlingsenheter. Det modulære montasjesystemet kan tilpasses spesifikke forskningskonfigurasjoner.',
+          'OLagoons forskningsplattformer støtter et bredt spekter av utstyr, blant annet sensorer for vannkvalitet, kameraer og GPS-enheter, prøvebeholdere, måleverktøy og datainnsamlingsenheter. Det modulære montasjesystemet kan tilpasses spesifikke forskningskonfigurasjoner.',
       },
       {
         question: 'Hvor stabil er SUP-plattformen for vannprøvetaking og overvåkingsaktiviteter?',
         answer:
-          'Afarers forskningsplattformer har ekstra bred design, økt ståareal, forbedret balanse og konstruksjon med høy flyteevne, spesielt utviklet for vitenskapelige feltoperasjoner. Stabiliteten gjør at forskere trygt kan betjene utstyr, samle prøver og gjennomføre målinger.',
+          'OLagoons forskningsplattformer har ekstra bred design, økt ståareal, forbedret balanse og konstruksjon med høy flyteevne, spesielt utviklet for vitenskapelige feltoperasjoner. Stabiliteten gjør at forskere trygt kan betjene utstyr, samle prøver og gjennomføre målinger.',
       },
       {
-        question: 'Hvilke miljøvennlige materialer brukes i Afarers forsknings-SUP-brett?',
+        question: 'Hvilke miljøvennlige materialer brukes i OLagoons forsknings-SUP-brett?',
         answer:
-          'Afarer satser på holdbar konstruksjon med lang levetid som reduserer utskiftingsfrekvensen og ressursforbruket. Vi tilbyr bærekraftige materialalternativer, inkludert resirkulerbare valg og produksjonsmetoder med lavere påvirkning, i tråd med oppdragene innen miljøvern.',
+          'OLagoon satser på holdbar konstruksjon med lang levetid som reduserer utskiftingsfrekvensen og ressursforbruket. Vi tilbyr bærekraftige materialalternativer, inkludert resirkulerbare valg og produksjonsmetoder med lavere påvirkning, i tråd med oppdragene innen miljøvern.',
       },
       {
         question: 'Kan SUP-plattformer tilpasses spesifikke krav i forskningsprosjekter?',
         answer:
-          'Ja, Afarer støtter full tilpasning, inkludert egendefinerte brettdimensjoner (ekstra bredde, ekstra lengde), økt lastekapasitet, montasjonsgrensesnitt for utstyr, oppbevaringsløsninger, organisasjonslogoer og prosjektspesifikt tilbehør.',
+          'Ja, OLagoon støtter full tilpasning, inkludert egendefinerte brettdimensjoner (ekstra bredde, ekstra lengde), økt lastekapasitet, montasjonsgrensesnitt for utstyr, oppbevaringsløsninger, organisasjonslogoer og prosjektspesifikt tilbehør.',
       },
       {
         question: 'Hvordan er SUP sammenlignet med tradisjonelle forskningsbåter for miljøovervåking?',
@@ -2527,13 +2527,13 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hva er typisk leveringstid for en egendefinert forsknings-SUP-plattform?',
         answer:
-          'Leveringstidene varierer etter hvor kompleks tilpasningen er og hvor stor ordren er. Afarer støtter alt fra prototypeutvikling for nye forskningskonsepter til serieproduksjon for institusjonelle ordrer. Vi samarbeider tett med forskningsteamene for å møte prosjektfrister og kravene til feltsesongen.',
+          'Leveringstidene varierer etter hvor kompleks tilpasningen er og hvor stor ordren er. OLagoon støtter alt fra prototypeutvikling for nye forskningskonsepter til serieproduksjon for institusjonelle ordrer. Vi samarbeider tett med forskningsteamene for å møte prosjektfrister og kravene til feltsesongen.',
       },
     ],
     cta: {
-      title: 'Bygg din bærekraftige forskningsplattform på vannet med Afarer',
+      title: 'Bygg din bærekraftige forskningsplattform på vannet med OLagoon',
       subtitle:
-        'Fremtidens vannforskning krever fleksible og bærekraftige løsninger. Afarer hjelper marine NGO-er, universiteter, forskningsinstitusjoner og miljøorganisasjoner med å lage profesjonelle mobile forskningsplattformer for vann.',
+        'Fremtidens vannforskning krever fleksible og bærekraftige løsninger. OLagoon hjelper marine NGO-er, universiteter, forskningsinstitusjoner og miljøorganisasjoner med å lage profesjonelle mobile forskningsplattformer for vann.',
       primaryAction: {
         text: 'Start prosjektet ditt',
       },
@@ -2547,15 +2547,15 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP-merkevareleverandør for Amazon | Produsent av skreddersydde oppblåsbare SUP-er | {SITE}',
       description:
-        'Afarer hjelper Amazon-, Walmart- og Shopify-selgere med å bygge differensierte SUP-merkevarer med skreddersydde oppblåsbare paddleboards, private label-produksjon, unik grafikk, rask leverandkjede og e-handelsproduktsstøtte.',
+        'OLagoon hjelper Amazon-, Walmart- og Shopify-selgere med å bygge differensierte SUP-merkevarer med skreddersydde oppblåsbare paddleboards, private label-produksjon, unik grafikk, rask leverandkjede og e-handelsproduktsstøtte.',
     },
     hero: {
       tagline: 'Produktdifferensiering og rask leveranse™',
       title: 'Differensierte SUP-produkter for selgere på e-handelsmarkedsplasser',
       subtitle:
-        'Afarer hjelper selgere på Amazon, Walmart og Shopify med å bygge differensierte SUP-merkevarer med skreddersydde oppblåsbare paddleboards, private label-produksjon, unik grafikk, rask forsyningskjede og støtte til e-handelsprodukter.',
+        'OLagoon hjelper selgere på Amazon, Walmart og Shopify med å bygge differensierte SUP-merkevarer med skreddersydde oppblåsbare paddleboards, private label-produksjon, unik grafikk, rask forsyningskjede og støtte til e-handelsprodukter.',
       image: {
-        alt: 'Beskrivelse av Afarers skreddersydde SUP-brett',
+        alt: 'Beskrivelse av OLagoons skreddersydde SUP-brett',
       },
     },
     challenge: {
@@ -2669,7 +2669,7 @@ const no: Record<string, SolutionOverride> = {
       customer:
         'Amerikansk Amazon-selger innen friluftsliv som tidligere solgte campingtilbehør, friluftsprodukter og treningsutstyr gjennom kanalene Amazon og Shopify.',
       steps: [
-        'Afarer bidro til å definere målgruppen som unge forbrukere med friluftslivsstil, og posisjonerte produktet som en prisgunstig SUP med premium utseende og unik visuell identitet.',
+        'OLagoon bidro til å definere målgruppen som unge forbrukere med friluftslivsstil, og posisjonerte produktet som en prisgunstig SUP med premium utseende og unik visuell identitet.',
         "Skapte en skreddersydd 10'6 Inflatable SUP med unik brettgrafikk, premium fargesystem, forbedret tilbehørspakke og emballasje med fokus på merkevaren.",
         'Utarbeidet en innholdsstrategi for e-handel med bildestruktur, funksjonspresentasjon og visuell livsstilsretning for markedsføringsoppføringene.',
         'Lanserte med 500 enheter for lansering på Amazon, annons testing og innhenting av tilbakemeldinger fra kunder.',
@@ -2694,22 +2694,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Kategorianalyse på Amazon og SKU-arkitektur',
               detail:
-                'I januar 2023 gjennomførte Afarers team for e-handelsstrategi en dypdykk-analyse av SUP-kategorien på Amazon UK med verktøyene Helium 10 og Jungle Scout. De fant at 78 % av førstegangskjøperne søkte etter «komplette pakker» (brett + padleåre + pumpe + bag + leash + finne), men bare 4 merker tilbød en ekte alt-i-ett-pakke med premium tilbehør. Afarer foreslo en oppstilling med 3 SKU-er: «AquaStart 10\'6" Complete Kit» (målpris 449 GBP), «AquaStart 11\'0" Touring Kit» (549 GBP) og «AquaStart Duo» (699 GBP, en familipakke med 2 brett). Hver pakke inneholdt en håndpumpe med manometer, en 3-delt padleåre i karbonfiber, coiled leash, en 5" avtagbar US-finne og en vanntett mobilpose – i motsetning til konkurrentene, som solgte det meste av tilbehøret separat.',
+                'I januar 2023 gjennomførte OLagoons team for e-handelsstrategi en dypdykk-analyse av SUP-kategorien på Amazon UK med verktøyene Helium 10 og Jungle Scout. De fant at 78 % av førstegangskjøperne søkte etter «komplette pakker» (brett + padleåre + pumpe + bag + leash + finne), men bare 4 merker tilbød en ekte alt-i-ett-pakke med premium tilbehør. OLagoon foreslo en oppstilling med 3 SKU-er: «AquaStart 10\'6" Complete Kit» (målpris 449 GBP), «AquaStart 11\'0" Touring Kit» (549 GBP) og «AquaStart Duo» (699 GBP, en familipakke med 2 brett). Hver pakke inneholdt en håndpumpe med manometer, en 3-delt padleåre i karbonfiber, coiled leash, en 5" avtagbar US-finne og en vanntett mobilpose – i motsetning til konkurrentene, som solgte det meste av tilbehøret separat.',
             },
             {
               title: 'Steg 2: Emballasjedesign for e-handel og FBA-samsvar',
               detail:
-                'Afarer designet en butikkklar pakke som passet Amazons FBA-grenser for dimensjoner: esken til 10\'6"-brettet målte 34" × 18" × 14" og veide 14,2 kg – under Amazons grense på 15 kg for å unngå tillegg for tunge og voluminøse sendinger. Esken hadde en utstanset bærhåndtak på begge sider for lagerpersonell. Brettet var vakuum pakket i en 0,1 mm PE-POSE, lagt sammen med tilbehøret i egendefinerte utskårne EVA-skuminnlegg. Alt tilbehøret var pakket enkeltvis i polyposer med AquaStart-profilering. Pakken inneholdt en «hurtigstartguide» (QR-kode med lenke til en 6 minutter lang utpakkingsvideo). Afarers emballasjeingeniør reduserte det totale eskevolumet med 22 % sammenlignet med det første designet, noe som sparte Priya 1,80 GBP per enhet i FBA-gebyrer.',
+                'OLagoon designet en butikkklar pakke som passet Amazons FBA-grenser for dimensjoner: esken til 10\'6"-brettet målte 34" × 18" × 14" og veide 14,2 kg – under Amazons grense på 15 kg for å unngå tillegg for tunge og voluminøse sendinger. Esken hadde en utstanset bærhåndtak på begge sider for lagerpersonell. Brettet var vakuum pakket i en 0,1 mm PE-POSE, lagt sammen med tilbehøret i egendefinerte utskårne EVA-skuminnlegg. Alt tilbehøret var pakket enkeltvis i polyposer med AquaStart-profilering. Pakken inneholdt en «hurtigstartguide» (QR-kode med lenke til en 6 minutter lang utpakkingsvideo). OLagoons emballasjeingeniør reduserte det totale eskevolumet med 22 % sammenlignet med det første designet, noe som sparte Priya 1,80 GBP per enhet i FBA-gebyrer.',
             },
             {
               title: 'Steg 3: Listeroptimalisering på Amazon, A+-innhold og lanseringsstrategi',
               detail:
-                'Afarers innholdsstudio produserte 14 A+-modulbilder, 6 livsstilbilder tatt ved Windermere, en 90 sekunder lang merkevarevideo og en 360-graders produktvisning. De skrev søkeordoptimaliserte punktlister rettet mot 237 longtail-søkeord identifisert i Amazons søkeordsrapport. Lanseringsstrategien brukte et 21-dagers «Vine»-program (30 enheter med 50 % rabatt) for å bygge opp anbefalinger tidlig, etterfulgt av en Amazon PPC-kampanje på 2 000 GBP (Sponsored Products + Sponsored Brand) med daglig budsjett fordelt på 3 SKU-er. Kampanjen ble lansert 15. april 2023. På dag 45 hadde AquaStart 24 anmeldelser med gjennomsnitt 4,6 stjerner, og 10\'6"-pakken nådde nr. 17 i SUP-kategorien.',
+                'OLagoons innholdsstudio produserte 14 A+-modulbilder, 6 livsstilbilder tatt ved Windermere, en 90 sekunder lang merkevarevideo og en 360-graders produktvisning. De skrev søkeordoptimaliserte punktlister rettet mot 237 longtail-søkeord identifisert i Amazons søkeordsrapport. Lanseringsstrategien brukte et 21-dagers «Vine»-program (30 enheter med 50 % rabatt) for å bygge opp anbefalinger tidlig, etterfulgt av en Amazon PPC-kampanje på 2 000 GBP (Sponsored Products + Sponsored Brand) med daglig budsjett fordelt på 3 SKU-er. Kampanjen ble lansert 15. april 2023. På dag 45 hadde AquaStart 24 anmeldelser med gjennomsnitt 4,6 stjerner, og 10\'6"-pakken nådde nr. 17 i SUP-kategorien.',
             },
             {
               title: 'Steg 4: Lagerstyring, etterspørselsprognoser og andre produksjonsserie',
               detail:
-                'Afarers team for etterspørselsplanlegging bygde en 6-måneders prognosemodell basert på Amazons historiske data, Google Trends (søkevolum for padling i Storbritannia) og sesongfaktorer. Modellen forutsa salg av 410 enheter innen september 2023. Priyas første produksjonsserie var på 500 enheter (300 × 10\'6", 120 × 11\'0", 80 × Duo), sendt til Amazons FBA-sentre i Manchester og Doncaster. Faktisk salg innen 30. september var 386 enheter – innen 6 % av prognosen. En andre produksjonsserie på 700 enheter ble bestilt i oktober 2023 med 2 viktige endringer: forsterkede håndtak på bæreposen (9 skaderapporter fra første serie) og oppgraderte D-ringer i rustfritt stål (etter 4 klager på korrosjon). Innen desember 2023 nådde omsetningen for AquaStart UK 298 000 GBP, med 10\'6"-pakken på nr. 12 på Amazon UK.',
+                'OLagoons team for etterspørselsplanlegging bygde en 6-måneders prognosemodell basert på Amazons historiske data, Google Trends (søkevolum for padling i Storbritannia) og sesongfaktorer. Modellen forutsa salg av 410 enheter innen september 2023. Priyas første produksjonsserie var på 500 enheter (300 × 10\'6", 120 × 11\'0", 80 × Duo), sendt til Amazons FBA-sentre i Manchester og Doncaster. Faktisk salg innen 30. september var 386 enheter – innen 6 % av prognosen. En andre produksjonsserie på 700 enheter ble bestilt i oktober 2023 med 2 viktige endringer: forsterkede håndtak på bæreposen (9 skaderapporter fra første serie) og oppgraderte D-ringer i rustfritt stål (etter 4 klager på korrosjon). Innen desember 2023 nådde omsetningen for AquaStart UK 298 000 GBP, med 10\'6"-pakken på nr. 12 på Amazon UK.',
             },
           ],
           results: [
@@ -2731,22 +2731,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Innkjøp av resirkulerte materialer og sertifisering av forsyningskjeden',
               detail:
-                'Afarer brukte 14 uker fra januar til april 2023 på å utvikle et resirkulert PVC-laminat basert på industriavfall fra stoffproduksjonen på egen fabrikk. Materialet – med merkenavnet «EcoShell RPVC» – inneholdt 63 % resirkulert innhold etter vekt og oppnådde en strekkfasthet på 3 200 N/5 cm (mot 3 500 N for jomfruelig PVC). Afarer sikret GRS-sertifisering (Global Recycled Standard) for materialet og ordnet en livssyklusanalyse fra tredjepart som viste 37 % lavere CO₂e-utslipp per brett sammenlignet med brett av jomfruelig PVC. Teamet til Felix skaffet 50 000 resirkulerte PET-flasker fra et resirkuleringssamvirke i Berlin til produksjon av bæreposestoffet og EVA-dekkputen (30 % resirkulert innhold). Premien for bærekraftige materialer ble 18 EUR per brett, noe Afarer tok inn i egen margin for at UrbanPulse skulle nå mål utsalgsprisen.',
+                'OLagoon brukte 14 uker fra januar til april 2023 på å utvikle et resirkulert PVC-laminat basert på industriavfall fra stoffproduksjonen på egen fabrikk. Materialet – med merkenavnet «EcoShell RPVC» – inneholdt 63 % resirkulert innhold etter vekt og oppnådde en strekkfasthet på 3 200 N/5 cm (mot 3 500 N for jomfruelig PVC). OLagoon sikret GRS-sertifisering (Global Recycled Standard) for materialet og ordnet en livssyklusanalyse fra tredjepart som viste 37 % lavere CO₂e-utslipp per brett sammenlignet med brett av jomfruelig PVC. Teamet til Felix skaffet 50 000 resirkulerte PET-flasker fra et resirkuleringssamvirke i Berlin til produksjon av bæreposestoffet og EVA-dekkputen (30 % resirkulert innhold). Premien for bærekraftige materialer ble 18 EUR per brett, noe OLagoon tok inn i egen margin for at UrbanPulse skulle nå mål utsalgsprisen.',
             },
             {
               title: 'Steg 2: Klimanøytral ordrehåndtering og DTC-logistikkarkitektur',
               detail:
-                'Afarers logistikkteam inngikk partnertskap med DHL GoGreen Climate Neutral for UrbanPulse-kontoen og kompenserte for 1,8 kg CO₂ per utsendt brett (dekkende sjøfrakt fra Kina til Hamburg og leveranse til sluttmarkedet). De opprettet en dedikert sone på 200 m² for ordrehåndtering i UrbanPulses lager i Köln, med egendefinerte reoler for esker med oppblåsbar SUP. Hver forsendelse inneholdt en forhåndsbetalt returetikett for pappesken (trykt på 100 % resirkulert FSC-sertifisert papp med blekk basert på soya). Afarers emballasjedesign eliminerte alt engangsplast: brettet var innpakket i en komposterbar PBAT/PLA-film, tilbehøret var sikret med papirteip, og bruksanvisningen var trykt på frøpapir (plant den etter lesing).',
+                'OLagoons logistikkteam inngikk partnertskap med DHL GoGreen Climate Neutral for UrbanPulse-kontoen og kompenserte for 1,8 kg CO₂ per utsendt brett (dekkende sjøfrakt fra Kina til Hamburg og leveranse til sluttmarkedet). De opprettet en dedikert sone på 200 m² for ordrehåndtering i UrbanPulses lager i Köln, med egendefinerte reoler for esker med oppblåsbar SUP. Hver forsendelse inneholdt en forhåndsbetalt returetikett for pappesken (trykt på 100 % resirkulert FSC-sertifisert papp med blekk basert på soya). OLagoons emballasjedesign eliminerte alt engangsplast: brettet var innpakket i en komposterbar PBAT/PLA-film, tilbehøret var sikret med papirteip, og bruksanvisningen var trykt på frøpapir (plant den etter lesing).',
             },
             {
               title: 'Steg 3: Shopify-integrasjon, innhold før lansering og influencerstrategi',
               detail:
-                'Afarers e-handelsteam integrerte UrbanPulses Shopify-butikk med en egendefinert produktkonfigurator som lot kundene velge brettfarge (3 alternativer), padleårefarge (2 alternativer) og legge til en «bærekraftmerke» med brettets serienummer og den eksakte mengden resirkulert innhold (i gram). Afarer produserte 6 korte videoelementer (15–45 sekunder) med Berlin-baserte SUP-influencere «GreenPaddle» og «ElisePaddlesBerlin» (til sammen 72 000 følgere). Innholdet fokuserte på «urban padling» på kanalene og innsjøene i Berlin og posisjonerte SUP som en helgeaktivitet for byfolk. E-postkampanjen før lansering (sendt til 12 000 UrbanPulse-abonnenter) oppnådde en åpningsrate på 34 % og 2 100 klikk til produktsiden.',
+                'OLagoons e-handelsteam integrerte UrbanPulses Shopify-butikk med en egendefinert produktkonfigurator som lot kundene velge brettfarge (3 alternativer), padleårefarge (2 alternativer) og legge til en «bærekraftmerke» med brettets serienummer og den eksakte mengden resirkulert innhold (i gram). OLagoon produserte 6 korte videoelementer (15–45 sekunder) med Berlin-baserte SUP-influencere «GreenPaddle» og «ElisePaddlesBerlin» (til sammen 72 000 følgere). Innholdet fokuserte på «urban padling» på kanalene og innsjøene i Berlin og posisjonerte SUP som en helgeaktivitet for byfolk. E-postkampanjen før lansering (sendt til 12 000 UrbanPulse-abonnenter) oppnådde en åpningsrate på 34 % og 2 100 klikk til produktsiden.',
             },
             {
               title: 'Steg 4: Lansering, kanalutvidelse og beslutning om nybestilling',
               detail:
-                'UrbanPulse SUP-kolleksjonen ble lansert 1. juni 2023 med 500 enheter (350 allround, 150 touring). Salget den første uken var 112 enheter (22,4 %). Afarers etterspørselsplanleggere justerte PPC-strategien på Google Shopping og Meta og flyttet budsjettet mot søkeord med høy kjøpsintensjon som «nachhaltiges SUP kaufen». Innen uke 8 var allroundbrettet den nest mest solgte SUP-en i det tyske Shopify DTC-markedet (etter Fanatics direktesalg). I august 2023 sikret Felix et partnertskap med SportScheck, med 80 brett plassert i 8 butikker og egne «Sustainable Sports»-varehusendekapper. Innen desember 2023 nådde total omsetning 487 000 EUR, der allroundbrettet sto for 71 % av salget. En andre produksjonsserie på 800 enheter ble bestilt for februar 2024.',
+                'UrbanPulse SUP-kolleksjonen ble lansert 1. juni 2023 med 500 enheter (350 allround, 150 touring). Salget den første uken var 112 enheter (22,4 %). OLagoons etterspørselsplanleggere justerte PPC-strategien på Google Shopping og Meta og flyttet budsjettet mot søkeord med høy kjøpsintensjon som «nachhaltiges SUP kaufen». Innen uke 8 var allroundbrettet den nest mest solgte SUP-en i det tyske Shopify DTC-markedet (etter Fanatics direktesalg). I august 2023 sikret Felix et partnertskap med SportScheck, med 80 brett plassert i 8 butikker og egne «Sustainable Sports»-varehusendekapper. Innen desember 2023 nådde total omsetning 487 000 EUR, der allroundbrettet sto for 71 % av salget. En andre produksjonsserie på 800 enheter ble bestilt for februar 2024.',
             },
           ],
           results: [
@@ -2758,8 +2758,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor OLagoon',
       items: [
         {
           title: 'Produktdifferensiering',
@@ -2791,7 +2791,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvordan kan jeg differensiere SUP-produktet mitt på Amazon?',
         answer:
-          'Afarer bidrar til å lage unik brettgrafikk, egendefinerte fargesystemer, forbedrede tilbehørspakker og emballasje med merkevarefokus, slik at produktet ditt skiller seg ut fra identiske konkurrentlister.',
+          'OLagoon bidrar til å lage unik brettgrafikk, egendefinerte fargesystemer, forbedrede tilbehørspakker og emballasje med merkevarefokus, slik at produktet ditt skiller seg ut fra identiske konkurrentlister.',
       },
       {
         question: 'Hva er minste bestillingsantall for selgere på markedsplasser?',
@@ -2801,7 +2801,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan dere hjelpe til med innhold og bilder for Amazon-lister?',
         answer:
-          'Ja. Afarer leverer visuell e-handelsstøtte med hovedbildkonsepter, funksjonsbilder, retning for livsstilsfotografering og strukturering av produktinformasjon.',
+          'Ja. OLagoon leverer visuell e-handelsstøtte med hovedbildkonsepter, funksjonsbilder, retning for livsstilsfotografering og strukturering av produktinformasjon.',
       },
       {
         question: 'Hvor raskt kan dere produsere og sende min skreddersydde SUP-bestilling?',
@@ -2816,7 +2816,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan dere hjelpe meg med å utvide fra ett SUP-produkt til en hel merkevare?',
         answer:
-          'Ja. Afarer støtter komplett utvikling av produktporteføljer, inkludert flere SUP-modeller og friluftstilbehør for merkevareutvidelse.',
+          'Ja. OLagoon støtter komplett utvikling av produktporteføljer, inkludert flere SUP-modeller og friluftstilbehør for merkevareutvidelse.',
       },
     ],
     cta: {
@@ -2833,15 +2833,15 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Utvid outdoor-merkevaren din til vannsport | SUP OEM-produsent | {SITE}',
       description:
-        'Afarer hjelper etablerte outdoor-merkevarer med å ekspandere til vannsport med skreddersydd SUP-produksjon, Drop Stitch-teknologi, PVC-ekspertise, private label-paddleboards og komplette produktutviklingsløsninger.',
+        'OLagoon hjelper etablerte outdoor-merkevarer med å ekspandere til vannsport med skreddersydd SUP-produksjon, Drop Stitch-teknologi, PVC-ekspertise, private label-paddleboards og komplette produktutviklingsløsninger.',
     },
     hero: {
       tagline: 'Utvid friluftslivsmerket ditt til vannsport™',
       title: 'Produktutvidelse innen vannsport for etablerte friluftslivsmerker',
       subtitle:
-        'Afarer hjelper etablerte friluftslivsmerker med å utvide seg til vannsport med skreddersydd SUP-produksjon, Drop Stitch-teknologi, PVC-ekspertise, private label-paddleboards og komplette løsninger for produktutvikling.',
+        'OLagoon hjelper etablerte friluftslivsmerker med å utvide seg til vannsport med skreddersydd SUP-produksjon, Drop Stitch-teknologi, PVC-ekspertise, private label-paddleboards og komplette løsninger for produktutvikling.',
       image: {
-        alt: 'Beskrivelse av Afarers skreddersydde SUP-brett',
+        alt: 'Beskrivelse av OLagoons skreddersydde SUP-brett',
       },
     },
     challenge: {
@@ -2945,7 +2945,7 @@ const no: Record<string, SolutionOverride> = {
       customer:
         'Europeisk merkevare for friluftslivslivsstil, opprinnelig fokusert på campingutstyr, friluftstilbehør og eventyrprodukter, med et sterkt butikknett og en lojal kundebase.',
       steps: [
-        'Afarer analyserte merkevareposisjoneringen og anbefalte en strategi med en premium kolleksjon for friluftsliv-SUP, inkludert allround SUP, touring SUP og tilbehør med temaet «friluftseventyr fra land til vann».',
+        'OLagoon analyserte merkevareposisjoneringen og anbefalte en strategi med en premium kolleksjon for friluftsliv-SUP, inkludert allround SUP, touring SUP og tilbehør med temaet «friluftseventyr fra land til vann».',
         "Utviklet en 10'6 All-Round SUP med høy stabilitet, premium konstruksjon og friluftslivsdesign, samt en 12'6 Touring SUP med eventyrytelse og langdistans kapabilitet.",
         'Skapte egendefinert grafikk, merkevarefarger, emballasje og et tilbehørssystem som samsvarte perfekt med den eksisterende merkevareidentiteten innen friluftsliv.',
         'Lanserte med en første bestilling på 1 000 enheter distribuert gjennom eksisterende forhandlere, e-handelskanaler og friluftslivsbutikker.',
@@ -2970,22 +2970,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Markedsanalyse og planlegging av produktarkitektur',
               detail:
-                'I mars 2023 analyserte Afarers team for markedsintelligens 18 måneder med SUP-salgsdata fra 120 amerikanske og kanadiske forhandlere. De identifiserte det raskest voksende delsegmentet: allround SUP mellom 10\'6" og 11\'6" priset til 749–999 CAD, som vokste 34 % fra året før. Afarer foreslo en oppstilling med 4 SKU-er: «Discovery» 10\'6" allroundbrett (målpris 799 CAD), «Expedition» 11\'6" touringbrett (949 CAD), «Crossover» 10\'2" SUP for yoga og trening (699 CAD) og «Angler» fiske-SUP med avtagbart monteringssystem for kasse (1 049 CAD). Henrik godtok forslaget i april med måldato for lansering i februar 2024, klar for vårens innkjøpssesong i butikk.',
+                'I mars 2023 analyserte OLagoons team for markedsintelligens 18 måneder med SUP-salgsdata fra 120 amerikanske og kanadiske forhandlere. De identifiserte det raskest voksende delsegmentet: allround SUP mellom 10\'6" og 11\'6" priset til 749–999 CAD, som vokste 34 % fra året før. OLagoon foreslo en oppstilling med 4 SKU-er: «Discovery» 10\'6" allroundbrett (målpris 799 CAD), «Expedition» 11\'6" touringbrett (949 CAD), «Crossover» 10\'2" SUP for yoga og trening (699 CAD) og «Angler» fiske-SUP med avtagbart monteringssystem for kasse (1 049 CAD). Henrik godtok forslaget i april med måldato for lansering i februar 2024, klar for vårens innkjøpssesong i butikk.',
             },
             {
               title: 'Steg 2: Integrering av samdesign og samsvar med butikkrav',
               detail:
-                'Afarers industridesignere samarbeidet med North Ridges kreative team i Vancouver i 8 uker for å utvikle en visuell identitet som knyttet merkevarens fjellestetikk til vannsport. Det endelige designet brukte North Ridges karakteristiske fargevalg i kullgrått og glør med topografiske linjemønstre på dekkputen. Afarer sikret at alle brett oppfylte leverandørkravene til REI: emballasje i FSC-sertifisert papp, bæreposer i resirkulert PET og samsvar med California Proposition 65 for ftalater og tungmetaller. Spesifikasjonsarket for produktinformasjonsstyring (PIM) på 14 sider ble sendt inn til REIs leverandørportal 1. oktober 2023.',
+                'OLagoons industridesignere samarbeidet med North Ridges kreative team i Vancouver i 8 uker for å utvikle en visuell identitet som knyttet merkevarens fjellestetikk til vannsport. Det endelige designet brukte North Ridges karakteristiske fargevalg i kullgrått og glør med topografiske linjemønstre på dekkputen. OLagoon sikret at alle brett oppfylte leverandørkravene til REI: emballasje i FSC-sertifisert papp, bæreposer i resirkulert PET og samsvar med California Proposition 65 for ftalater og tungmetaller. Spesifikasjonsarket for produktinformasjonsstyring (PIM) på 14 sider ble sendt inn til REIs leverandørportal 1. oktober 2023.',
             },
             {
               title: 'Steg 3: Fotografering, tekstproduksjon og presentasjoner for butikkinnkjøpere før lansering',
               detail:
-                'Afarer produserte 230 elementer for kolleksjonen: produktbilder i studio på hvit bakgrunn, livsstilsbilder tatt ved Garibaldi Lake (1 500 moh. i British Columbia) og 360-graders rotasjonsfotografering. De skrev lokalisert produkttekst på engelsk og fransk-kanadisk for forhandlere i Quebec. Afarers team for salgsstøtte laget et presentasjonsdokument for butikker på 22 sider med konkurranseanalyse mot merker som BOTE og Isle, marginprognoser som viste 48 % bruttomargin for butikkene og salgsdata fra testmarkeder. Henrik og salgssjefen i Afarer presenterte for REIs nasjonale innkjøper 15. november 2023 og sikret avtaler med 34 REI-butikker.',
+                'OLagoon produserte 230 elementer for kolleksjonen: produktbilder i studio på hvit bakgrunn, livsstilsbilder tatt ved Garibaldi Lake (1 500 moh. i British Columbia) og 360-graders rotasjonsfotografering. De skrev lokalisert produkttekst på engelsk og fransk-kanadisk for forhandlere i Quebec. OLagoons team for salgsstøtte laget et presentasjonsdokument for butikker på 22 sider med konkurranseanalyse mot merker som BOTE og Isle, marginprognoser som viste 48 % bruttomargin for butikkene og salgsdata fra testmarkeder. Henrik og salgssjefen i OLagoon presenterte for REIs nasjonale innkjøper 15. november 2023 og sikret avtaler med 34 REI-butikker.',
             },
             {
               title: 'Steg 4: Første produksjonsserie, lagring og salgsresultater',
               detail:
-                'Produksjon av 2 800 enheter fordelt på de 4 SKU-ene startet i desember 2023 ved Afarers anlegg i Dongguan. Afarer arrangerte sjøfrakt til Vancouver med ankomst 22. januar 2024. De første 800 enhetene ble sendt direkte videre til North Ridges oppfyllingssenter i Mississauga for distribusjon i det østlige Canada. Innen 1. mars 2024 var kolleksjonen i hyllene i 34 REI-butikker, 18 MEC-butikker og på NorthRidgeGear.com. Discovery-brettet solgte 340 enheter i mars alene – 136 % av prognosen. Innen juni 2024 nådde omsetningen for hele kolleksjonen 678 000 CAD, og fiske-SUP-en Angler hadde restordre ut august.',
+                'Produksjon av 2 800 enheter fordelt på de 4 SKU-ene startet i desember 2023 ved OLagoons anlegg i Dongguan. OLagoon arrangerte sjøfrakt til Vancouver med ankomst 22. januar 2024. De første 800 enhetene ble sendt direkte videre til North Ridges oppfyllingssenter i Mississauga for distribusjon i det østlige Canada. Innen 1. mars 2024 var kolleksjonen i hyllene i 34 REI-butikker, 18 MEC-butikker og på NorthRidgeGear.com. Discovery-brettet solgte 340 enheter i mars alene – 136 % av prognosen. Innen juni 2024 nådde omsetningen for hele kolleksjonen 678 000 CAD, og fiske-SUP-en Angler hadde restordre ut august.',
             },
           ],
           results: [
@@ -3007,22 +3007,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Materialinnovasjon for å oppfylle europeiske standarder',
               detail:
-                'Afarers FoU-team i Guangzhou tilbrakte 10 uker på å utvikle et proprietært 5-lags PVC-laminat som overgikk EUs kjemiske sikkerhetsstandard REACH og de tyske sikkerhetssertifiseringskravene GS. De skaffet et drop stitch-garn i tekstilkvalitet fra en tysk leverandør (Karl Mayer Technische Textilien) for å understøtte AlpenWerks markedsføringsvinkel «Made with German Technology». Fire prototypebrett ble produsert i juli 2023 og sendt til TÜV Rheinland for testing. To besto ikke den første GS-sertifiseringen på grunn av utilstrekkelig slitestyrke i haleputen, noe som krevde 12 % tykkere PVC-overflatelag, fra 0,8 mm til 0,9 mm.',
+                'OLagoons FoU-team i Guangzhou tilbrakte 10 uker på å utvikle et proprietært 5-lags PVC-laminat som overgikk EUs kjemiske sikkerhetsstandard REACH og de tyske sikkerhetssertifiseringskravene GS. De skaffet et drop stitch-garn i tekstilkvalitet fra en tysk leverandør (Karl Mayer Technische Textilien) for å understøtte AlpenWerks markedsføringsvinkel «Made with German Technology». Fire prototypebrett ble produsert i juli 2023 og sendt til TÜV Rheinland for testing. To besto ikke den første GS-sertifiseringen på grunn av utilstrekkelig slitestyrke i haleputen, noe som krevde 12 % tykkere PVC-overflatelag, fra 0,8 mm til 0,9 mm.',
             },
             {
               title: 'Steg 2: Forhandlinger med butikkinnkjøpere og hylleklar emballasje',
               detail:
-                'Lena og Afarers europeiske salgsdirektør presenterte kolleksjonen på bransjemessen ISPO München i november 2023. De sikret forhåndsbestillinger fra 38 Intersport-butikker, 12 Globetrotter-butikker og Bergfreunde.de. Afarer designet hylleklar butikkemballasje som oppfylte den tyske emballasjeloven (VerpackG): en 100 % resirkulerbar pappeske med trykk i blekk basert på soya, ingen plastshrink og en QR-kode med lenke til en 3 minutter lang monteringsvideo på tysk. Emballasjen kostet 4,20 EUR per enhet, men eliminerte butikkskader som hadde ligget på 2,3 % for konkurrerende merker som brukte plastposer.',
+                'Lena og OLagoons europeiske salgsdirektør presenterte kolleksjonen på bransjemessen ISPO München i november 2023. De sikret forhåndsbestillinger fra 38 Intersport-butikker, 12 Globetrotter-butikker og Bergfreunde.de. OLagoon designet hylleklar butikkemballasje som oppfylte den tyske emballasjeloven (VerpackG): en 100 % resirkulerbar pappeske med trykk i blekk basert på soya, ingen plastshrink og en QR-kode med lenke til en 3 minutter lang monteringsvideo på tysk. Emballasjen kostet 4,20 EUR per enhet, men eliminerte butikkskader som hadde ligget på 2,3 % for konkurrerende merker som brukte plastposer.',
             },
             {
               title: 'Steg 3: Etablering av europeisk lager og distribusjon til sluttmarkedet',
               detail:
-                'Afarer hjalp AlpenWerk med å etablere et distribusjonshub i et 3PL-lager i Dortmund med kapasitet til 3 000 enheter. De forhandlet DDP-fraktvilkår med en speditør med base i Ningbo, inkludert tollklarering i havnen i Hamburg og lastebiltransport til Dortmund innen 5 virkedager etter at fartøyet ankom. Lagerbeholdningen ble konfigurert med et Kanban-system: når beholdningen falt under 400 enheter, ble en automatisk nybestilling utløst til Afarers fabrikk med 45 dager leveringstid. Den første containeren med 1 500 enheter ankom 15. februar 2024, og den andre containeren med 1 200 enheter ankom 10. april.',
+                'OLagoon hjalp AlpenWerk med å etablere et distribusjonshub i et 3PL-lager i Dortmund med kapasitet til 3 000 enheter. De forhandlet DDP-fraktvilkår med en speditør med base i Ningbo, inkludert tollklarering i havnen i Hamburg og lastebiltransport til Dortmund innen 5 virkedager etter at fartøyet ankom. Lagerbeholdningen ble konfigurert med et Kanban-system: når beholdningen falt under 400 enheter, ble en automatisk nybestilling utløst til OLagoons fabrikk med 45 dager leveringstid. Den første containeren med 1 500 enheter ankom 15. februar 2024, og den andre containeren med 1 200 enheter ankom 10. april.',
             },
             {
               title: 'Steg 4: Lanseringskampanje, influencerpartnertskap og nybestillingstakt',
               detail:
-                'AlpenWerk lanserte modellene «SeeWolf» 10\'8", «Flussläufer» 11\'6" og «Gipfelstürmer» 12\'0" touring 1. mars 2024 i alle salgskanaler og på alpenwerk.de. Afarers innholdsteam produserte 18 elementer for sosiale medier med tyske SUP-influencere som «SUP_mit_Michi» (43 000 følgere) og «PaddelPia» (28 000 følgere). Innen 31. mai 2024 var 1 870 enheter solgt – 87 % av den innledende salgssendingsen. Intersport la inn en nybestilling på 450 enheter 15. juni. Lenas direktesalgskanal på nett bidro med 320 000 EUR i omsetning med 54 % bruttomargin, bedre enn de 40 % som opprinnelig var anslått.',
+                'AlpenWerk lanserte modellene «SeeWolf» 10\'8", «Flussläufer» 11\'6" og «Gipfelstürmer» 12\'0" touring 1. mars 2024 i alle salgskanaler og på alpenwerk.de. OLagoons innholdsteam produserte 18 elementer for sosiale medier med tyske SUP-influencere som «SUP_mit_Michi» (43 000 følgere) og «PaddelPia» (28 000 følgere). Innen 31. mai 2024 var 1 870 enheter solgt – 87 % av den innledende salgssendingsen. Intersport la inn en nybestilling på 450 enheter 15. juni. Lenas direktesalgskanal på nett bidro med 320 000 EUR i omsetning med 54 % bruttomargin, bedre enn de 40 % som opprinnelig var anslått.',
             },
           ],
           results: [
@@ -3034,8 +3034,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor OLagoon',
       items: [
         {
           title: 'Teknisk ekspertise',
@@ -3068,7 +3068,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvordan kan friluftslivsmerket mitt utvide seg til vannsport uten SUP-ekspertise?',
         answer:
-          'Afarer bidrar med komplett produksjonsekspertise, inkludert Drop Stitch-teknologi, PVC-engineering og produktdesign. Merkevaren din bidrar med kundekunnskap, mens vi håndterer den tekniske produksjonen.',
+          'OLagoon bidrar med komplett produksjonsekspertise, inkludert Drop Stitch-teknologi, PVC-engineering og produktdesign. Merkevaren din bidrar med kundekunnskap, mens vi håndterer den tekniske produksjonen.',
       },
       {
         question: 'Hvilke typer vannsportsprodukter kan dere produsere?',
@@ -3078,7 +3078,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan dere leve opp til de eksisterende kvalitetsstandardene til merkevaren min?',
         answer:
-          'Ja. Afarer utvikler produkter etter designspråket, kvalitetsstandardene og markedsposisjoneringen din, med stringent kvalitetskontroll gjennom hele produksjonen.',
+          'Ja. OLagoon utvikler produkter etter designspråket, kvalitetsstandardene og markedsposisjoneringen din, med stringent kvalitetskontroll gjennom hele produksjonen.',
       },
       {
         question: 'Hva er typisk bestillingsvolum for etablerte merker?',
@@ -3110,7 +3110,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'OEM-produsent av oppblåsbare SUP-er for vannsportmerker | {SITE}',
       description:
-        'Afarer hjelper kajakk-, kano-, seilas- og dykkemerker med å ekspandere til oppblåsbare SUP-er med profesjonell Drop Stitch-teknologi, OEM-produksjon og komplette vannsportproduktløsninger.',
+        'OLagoon hjelper kajakk-, kano-, seilas- og dykkemerker med å ekspandere til oppblåsbare SUP-er med profesjonell Drop Stitch-teknologi, OEM-produksjon og komplette vannsportproduktløsninger.',
     },
     hero: {
       tagline: 'Utvid porteføljen din for vannsport™',
@@ -3151,13 +3151,13 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Moden produksjonsteknologi for oppblåsbar SUP',
           description:
-            'Afarer leverer profesjonell drop stitch-teknologi for høytrykks oppblåsbare konstruksjoner med ytelse som et stivt brett, flerlags PVC-konstruksjon for holdbarhet og profesjonell sveiseteknologi for sterke sømmer.',
+            'OLagoon leverer profesjonell drop stitch-teknologi for høytrykks oppblåsbare konstruksjoner med ytelse som et stivt brett, flerlags PVC-konstruksjon for holdbarhet og profesjonell sveiseteknologi for sterke sømmer.',
           features: ['Drop stitch-teknologi', 'Flerlags PVC-konstruksjon', 'Profesjonell sveiseteknologi'],
         },
         {
           title: 'Komplett utvikling av SUP-produktportefølje',
           description:
-            'Afarer tilbyr utprøvde produktplattformer, inkludert allround-SUP for nybegynnere og familier, touring-SUP for eventyrbrukere, fiske-SUP med festesystemer, yoga-SUP for helsemarkeder og SUP for barn.',
+            'OLagoon tilbyr utprøvde produktplattformer, inkludert allround-SUP for nybegynnere og familier, touring-SUP for eventyrbrukere, fiske-SUP med festesystemer, yoga-SUP for helsemarkeder og SUP for barn.',
           features: [
             'Allround-SUP-serie',
             'Touring-SUP-serie',
@@ -3169,37 +3169,37 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'OEM- og ODM-produktutvikling',
           description:
-            'Afarer støtter private label-produksjon med merkevarelogo og emballasje, produktmodifisering av dimensjoner og funksjoner og eksklusive kolleksjoner for modell- og sesongprodukter spesifikke for merkevaren.',
+            'OLagoon støtter private label-produksjon med merkevarelogo og emballasje, produktmodifisering av dimensjoner og funksjoner og eksklusive kolleksjoner for modell- og sesongprodukter spesifikke for merkevaren.',
           features: ['Private label-produksjon', 'Produktmodifisering', 'Eksklusive kolleksjoner'],
         },
         {
           title: 'Program for rask markedsinntreden',
           description:
-            'Afarer bidrar til å forkorte utviklingstiden gjennom eksisterende produktplattformer med utprøvde brettformer og testede konstruksjoner, rask prototypeutvikling fra diskusjon til produksjon og raskere kommersiell lansering for å fange sesongmulighetene.',
+            'OLagoon bidrar til å forkorte utviklingstiden gjennom eksisterende produktplattformer med utprøvde brettformer og testede konstruksjoner, rask prototypeutvikling fra diskusjon til produksjon og raskere kommersiell lansering for å fange sesongmulighetene.',
           features: ['Eksisterende produktplattformer', 'Rask prototypeutvikling', 'Raskere kommersiell lansering'],
         },
         {
           title: 'Produktintegrasjon kompatibel med merkevaren',
           description:
-            'Afarer samarbeider med merkevareledere om å samordne produktets designspråk — farger, grafikk og materialer — med den eksisterende merkevareidentiteten, både for eventyr-, familie- og premium marin-posisjonering.',
+            'OLagoon samarbeider med merkevareledere om å samordne produktets designspråk — farger, grafikk og materialer — med den eksisterende merkevareidentiteten, både for eventyr-, familie- og premium marin-posisjonering.',
           features: ['Produktets designspråk', 'Kundeposisjonering', 'Merkevaresamordning'],
         },
         {
           title: 'Tilbehør og utvikling av komplette pakker',
           description:
-            'Afarer støtter SUP-tilbehør, inkludert padleårer, pumper, leasher, tasker og reperasjonssett, i tillegg til produktpakker som nybegynnerpakker, eventyrpakker og familiepakker.',
+            'OLagoon støtter SUP-tilbehør, inkludert padleårer, pumper, leasher, tasker og reperasjonssett, i tillegg til produktpakker som nybegynnerpakker, eventyrpakker og familiepakker.',
           features: ['SUP-tilbehør', 'Produktpakker', 'Pakkeutvikling'],
         },
         {
           title: 'Integrasjon av forsyningskjeden',
           description:
-            'For etablerte merkevarer tilbyr Afarer stabil produksjonskapasitet på 500–10 000 sett per år, årlig planlegging av produktveikart og sesongproduksjon og ensartet kvalitet på tvers av alle spesifikasjoner.',
+            'For etablerte merkevarer tilbyr OLagoon stabil produksjonskapasitet på 500–10 000 sett per år, årlig planlegging av produktveikart og sesongproduksjon og ensartet kvalitet på tvers av alle spesifikasjoner.',
           features: ['Stabil produksjonskapasitet', 'Årlig planlegging', 'Kvalitetskonsistens'],
         },
         {
           title: 'Støtte til kvalitetskontroll',
           description:
-            'Afarers kvalitetsprosesser omfatter materiellinspeksjon av PVC og drop stitch-stoff, produksjonsovervåking av sveising og montering og endelig inspeksjon av produktets ytelse, tilbehør og emballasje.',
+            'OLagoons kvalitetsprosesser omfatter materiellinspeksjon av PVC og drop stitch-stoff, produksjonsovervåking av sveising og montering og endelig inspeksjon av produktets ytelse, tilbehør og emballasje.',
           features: ['Materiellinspeksjon', 'Produksjonsovervåking', 'Endelig inspeksjon'],
         },
       ],
@@ -3216,7 +3216,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Utvikling av produktstrategi',
           detail:
-            'Afarer analyserte merkevarens eksisterende kundebase, markedsposisjonering og prissegment for å anbefale en utvidelse av SUP-produktfamilien samordnet med merkevaren deres.',
+            'OLagoon analyserte merkevarens eksisterende kundebase, markedsposisjonering og prissegment for å anbefale en utvidelse av SUP-produktfamilien samordnet med merkevaren deres.',
         },
         {
           title: 'Oppbygging av produktporteføljen',
@@ -3253,22 +3253,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Planlegging av produktportefølje og tilpasning til det brasilianske markedet',
               detail:
-                'Pedro besøkte Afarers anlegg i Shenzhen i januar 2025 med sin produktdirektør og industridesigner til et 5-dagers samarbeidsworkshop. De valgte 10 SUP-modeller: 4 allround, 3 touring, 2 fiske og 1 yogaplattform. Afarers ingeniører modifiserte hvert produkt for brasilianske forhold, inkludert UV-bestandig PVC mot tropisk sol, forsterkede skrog mot steinete elvebredder i Minas Gerais og fargekombinasjoner inspirert av Brasils flagg og motiv fra regnskogen i Amazonas. Pedro la inn en startbestilling på 3,2 mill. BRL på 4 500 enheter, med 30 % depositum og resten ved fraktbrevet.',
+                'Pedro besøkte OLagoons anlegg i Shenzhen i januar 2025 med sin produktdirektør og industridesigner til et 5-dagers samarbeidsworkshop. De valgte 10 SUP-modeller: 4 allround, 3 touring, 2 fiske og 1 yogaplattform. OLagoons ingeniører modifiserte hvert produkt for brasilianske forhold, inkludert UV-bestandig PVC mot tropisk sol, forsterkede skrog mot steinete elvebredder i Minas Gerais og fargekombinasjoner inspirert av Brasils flagg og motiv fra regnskogen i Amazonas. Pedro la inn en startbestilling på 3,2 mill. BRL på 4 500 enheter, med 30 % depositum og resten ved fraktbrevet.',
             },
             {
               title: 'Merkevareintegrasjon, lokalisering til portugisisk og samsvar',
               detail:
-                'Afarers designteam skapte den komplette visuelle identiteten for «ÁguaVita Adventure», inkludert logoer, fargeordener, emballasje og salgsmateriell på brasiliansk portugisisk. Samsvarsteamet håndterte INMETRO-sertifisering av alle 10 produktene (obligatorisk for sportsutstyr i Brasil) og utviklet instruksjonsmanualer på portugisisk med illustrerte monteringsguider for Brasils grupper med lavere leseferdighet. Afarer produserte 200 forproduksjonsenheter sendt med flyfrakt i mars 2025, til vurdering hos Pedros 50 beste forhandlere — 46 av 50 la inn startbestillinger på i gjennomsnitt 48 000 BRL hver.',
+                'OLagoons designteam skapte den komplette visuelle identiteten for «ÁguaVita Adventure», inkludert logoer, fargeordener, emballasje og salgsmateriell på brasiliansk portugisisk. Samsvarsteamet håndterte INMETRO-sertifisering av alle 10 produktene (obligatorisk for sportsutstyr i Brasil) og utviklet instruksjonsmanualer på portugisisk med illustrerte monteringsguider for Brasils grupper med lavere leseferdighet. OLagoon produserte 200 forproduksjonsenheter sendt med flyfrakt i mars 2025, til vurdering hos Pedros 50 beste forhandlere — 46 av 50 la inn startbestillinger på i gjennomsnitt 48 000 BRL hver.',
             },
             {
               title: 'Forhandlerlansering og distribusjon i hele landet',
               detail:
-                'Hoved sjøforsendelse på 4 300 enheter ankom havnen i Santos 15. mai 2025 og ble tollklarert i løpet av 5 dager. Afarers logistikkteam koordinerte med ÁguaVitas 5 regionale distribusjonssentre i São Paulo, Rio de Janeiro, Belo Horizonte, Recife og Porto Alegre. Pedros salgsteam på 6 personer lanserte linjen på messen São Paulo Outdoor Sports Expo 2025 (12.–15. juni) med levende demonstrasjoner i padlebasseng med OL-canoeisten Isabella Santos. I løpet av 4 dager signerte ÁguaVita 340 nye forhandlerkontoer spesifikt for Adventure-linjen og solgte 800 enheter direkte fra messegulvet.',
+                'Hoved sjøforsendelse på 4 300 enheter ankom havnen i Santos 15. mai 2025 og ble tollklarert i løpet av 5 dager. OLagoons logistikkteam koordinerte med ÁguaVitas 5 regionale distribusjonssentre i São Paulo, Rio de Janeiro, Belo Horizonte, Recife og Porto Alegre. Pedros salgsteam på 6 personer lanserte linjen på messen São Paulo Outdoor Sports Expo 2025 (12.–15. juni) med levende demonstrasjoner i padlebasseng med OL-canoeisten Isabella Santos. I løpet av 4 dager signerte ÁguaVita 340 nye forhandlerkontoer spesifikt for Adventure-linjen og solgte 800 enheter direkte fra messegulvet.',
             },
             {
               title: 'Kategoriutvidelse og markedslederskap',
               detail:
-                'Innen november 2025 hadde «ÁguaVita Adventure» solgt 6 200 enheter på tvers av alle 10 SKU-ene og generert 16,2 mill. BRL i omsetning (35 % over målet på 12 mill. BRL). Den oppblåsbare SUP-modellen «Ipanema 10\'6"» var det enkelproduktet som solgte best på tvers av alle ÁguaVitas kategorier, inkludert det eldre dykkerutstyret. Pedro krediterte suksessen Afarers kvalitetskonsistens — bare 0,8 % feilrate mot 4,2 % hos hans tidligere dykkerutstyrsleverandører. Han la inn en bestilling på 8,5 mill. BRL for 2026, inkludert 4 nye fiske-SUP-modeller og et stand-up-pedalbrett, noe som posisjonerte ÁguaVita som Brasils største padlingsselskap.',
+                'Innen november 2025 hadde «ÁguaVita Adventure» solgt 6 200 enheter på tvers av alle 10 SKU-ene og generert 16,2 mill. BRL i omsetning (35 % over målet på 12 mill. BRL). Den oppblåsbare SUP-modellen «Ipanema 10\'6"» var det enkelproduktet som solgte best på tvers av alle ÁguaVitas kategorier, inkludert det eldre dykkerutstyret. Pedro krediterte suksessen OLagoons kvalitetskonsistens — bare 0,8 % feilrate mot 4,2 % hos hans tidligere dykkerutstyrsleverandører. Han la inn en bestilling på 8,5 mill. BRL for 2026, inkludert 4 nye fiske-SUP-modeller og et stand-up-pedalbrett, noe som posisjonerte ÁguaVita som Brasils største padlingsselskap.',
             },
           ],
           results: [
@@ -3290,17 +3290,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Analyse av flåtesammensetning og gjennomgang av spesifikasjoner i kommersiell klasse',
               detail:
-                'I august 2024 samarbeidet Kai og sønnen hans Mako (utdannet innen hotellledelse) med Afarers avdeling for kommersielle flåter om å designe den ideelle utleieflåten. Etter å ha analysert 3 år med lokale turistdata landet de på 60 SUP-er (30 allround 10\'6", 15 touring 11\'6", 8 yogabrett og 7 fiskebrett). Afarer leverte konstruksjon i kommersiell klasse med forsterket drop stitch, dobbeltlagte PVC-kanter, D-ringer i rustfritt stål (i stedet for plast) og ventiler i kommersiell klasse taksert for over 100 000 oppblåsningssykluser. Flåten kostet totalt 48 000 USD levert (mot 78 000 USD for sammenlignbare brett laget på Hawaii), og Kai la inn bestillingen med 50 % depositum 1. september 2024.',
+                'I august 2024 samarbeidet Kai og sønnen hans Mako (utdannet innen hotellledelse) med OLagoons avdeling for kommersielle flåter om å designe den ideelle utleieflåten. Etter å ha analysert 3 år med lokale turistdata landet de på 60 SUP-er (30 allround 10\'6", 15 touring 11\'6", 8 yogabrett og 7 fiskebrett). OLagoon leverte konstruksjon i kommersiell klasse med forsterket drop stitch, dobbeltlagte PVC-kanter, D-ringer i rustfritt stål (i stedet for plast) og ventiler i kommersiell klasse taksert for over 100 000 oppblåsningssykluser. Flåten kostet totalt 48 000 USD levert (mot 78 000 USD for sammenlignbare brett laget på Hawaii), og Kai la inn bestillingen med 50 % depositum 1. september 2024.',
             },
             {
               title: 'Opplæring i utleiedrift og oppsett av logistikk',
               detail:
-                'Afarers spesialist på utleiedrift tilbrakte 4 dager i Kais butikk i oktober 2024 med å optimalisere utleiearbeidsflyten. De implementerte et flåtestyringssystem med QR-kodede brett og en mobilapp for inn- og utsjekk, skadesporing og planer for forebyggende vedlikehold. Afarer leverte 10 kraftige batteripumper for daglig flåtebruk og et egendefinert stativsystem som maksimerte lageret på 600 kvadratfot. Opplæringen dekket oppblåsingsprotokoller (hvert brett blåst opp til 12–15 PSI på under 4 minutter med batteripumpene), inspeksjonssjekklister, reparasjonsprosedyrer og standardiserte sikkerhetsbriefinger for kundene for hele utleiestaben.',
+                'OLagoons spesialist på utleiedrift tilbrakte 4 dager i Kais butikk i oktober 2024 med å optimalisere utleiearbeidsflyten. De implementerte et flåtestyringssystem med QR-kodede brett og en mobilapp for inn- og utsjekk, skadesporing og planer for forebyggende vedlikehold. OLagoon leverte 10 kraftige batteripumper for daglig flåtebruk og et egendefinert stativsystem som maksimerte lageret på 600 kvadratfot. Opplæringen dekket oppblåsingsprotokoller (hvert brett blåst opp til 12–15 PSI på under 4 minutter med batteripumpene), inspeksjonssjekklister, reparasjonsprosedyrer og standardiserte sikkerhetsbriefinger for kundene for hele utleiestaben.',
             },
             {
               title: 'Prisstrategi, lansering og integrasjon av online booking',
               detail:
-                'Kai lanserte flåten 1. desember 2024 med priser i trinn: 35 USD per time for SUP, 89 USD for halv dag, 129 USD for hel dag og ukespriser. Afarer hjalp Kai med å integrere seg med bookingplattformene FareHarbor og Peek Pro, laget profesjonell produktfotografering og utviklet en optimalisering av Google My Business-profilen som flyttet Kais butikk fra side 4 til topp 3 i lokale søkeresultater i løpet av 6 uker. Innen 31. desember oppnådde flåten 42 % utnyttelse og solgte 780 utleiedager til tross for lavsesongen, med 62 000 USD i omsetning i desember alene.',
+                'Kai lanserte flåten 1. desember 2024 med priser i trinn: 35 USD per time for SUP, 89 USD for halv dag, 129 USD for hel dag og ukespriser. OLagoon hjalp Kai med å integrere seg med bookingplattformene FareHarbor og Peek Pro, laget profesjonell produktfotografering og utviklet en optimalisering av Google My Business-profilen som flyttet Kais butikk fra side 4 til topp 3 i lokale søkeresultater i løpet av 6 uker. Innen 31. desember oppnådde flåten 42 % utnyttelse og solgte 780 utleiedager til tross for lavsesongen, med 62 000 USD i omsetning i desember alene.',
             },
             {
               title: 'Opptrapping i høysesongen og planlegging av utvidelse',
@@ -3309,7 +3309,7 @@ const no: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            '764 000 USD i total omsetning det første året (12 % over målet på 680 000 USD) med 487 000 USD i netto utleieinntekt fra Afarer-flåten',
+            '764 000 USD i total omsetning det første året (12 % over målet på 680 000 USD) med 487 000 USD i netto utleieinntekt fra OLagoon-flåten',
             '78 % flåteutnyttelse i toppsommermånedene på tvers av alle 60 SUP-ene, med betjening av opptil 180 kunder daglig',
             'Break-even på flåteinvesteringen på 48 000 USD oppnådd på bare 3,5 måneder (desember 2024 til midten av mars 2025)',
             'Verdivurderingen av bedriften økte fra 420 000 USD til 1,8 mill. USD i løpet av 12 måneder, noe som muliggjorde oppkjøpet av en ny strandlokasjon i Kona',
@@ -3317,8 +3317,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor vannsportsmerkevarer velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor vannsportsmerkevarer velger OLagoon',
       items: [
         {
           title: 'Vannsportsmarkeder',
@@ -3357,7 +3357,7 @@ const no: Record<string, SolutionOverride> = {
         question:
           'Hvordan kan en kajakk- eller kanomerkevare legge til oppblåsbare SUP-produkter uten å bygge en fabrikk?',
         answer:
-          'Afarers OEM/ODM-partnertskapsmodell lar etablerte vannsportsmerkevarer legge til oppblåsbare SUP-produkter ved å bruke vår eksisterende produksjonsinfrastruktur. Merkevarene utnytter kundebasen og distribusjonskanalene sine, mens Afarer håndterer drop stitch-konstruksjon, PVC-produksjon, kvalitetskontroll og styring av forsyningskjeden.',
+          'OLagoons OEM/ODM-partnertskapsmodell lar etablerte vannsportsmerkevarer legge til oppblåsbare SUP-produkter ved å bruke vår eksisterende produksjonsinfrastruktur. Merkevarene utnytter kundebasen og distribusjonskanalene sine, mens OLagoon håndterer drop stitch-konstruksjon, PVC-produksjon, kvalitetskontroll og styring av forsyningskjeden.',
       },
       {
         question: 'Hva er drop stitch-teknologi, og hvorfor er den viktig for SUP-produksjon?',
@@ -3367,26 +3367,26 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan eksisterende merkevaredesign og farger overføres til SUP-produkter?',
         answer:
-          'Ja, Afarer støtter full merkevareintegrasjon, inkludert egendefinert grafikk, Pantone-fargematching, logopåføring og emballasjedesign. Vi samarbeider med merkevareledere for å sikre at SUP-produktene stemmer overens med det eksisterende designspråket og markedsposisjoneringen.',
+          'Ja, OLagoon støtter full merkevareintegrasjon, inkludert egendefinert grafikk, Pantone-fargematching, logopåføring og emballasjedesign. Vi samarbeider med merkevareledere for å sikre at SUP-produktene stemmer overens med det eksisterende designspråket og markedsposisjoneringen.',
       },
       {
         question: 'Hvor lang tid tar det typisk fra konsept til marked for en ny SUP-produktlinje?',
         answer:
-          'Med Afarers eksisterende produktplattformer og raske prototypeprosess kan merkevarer vanligvis gå fra konsept til markedsklare produkter på 8–12 uker. Dette omfatter produktvalg, designtilpasning, prototypegodkjenning, produksjon og frakt.',
+          'Med OLagoons eksisterende produktplattformer og raske prototypeprosess kan merkevarer vanligvis gå fra konsept til markedsklare produkter på 8–12 uker. Dette omfatter produktvalg, designtilpasning, prototypegodkjenning, produksjon og frakt.',
       },
       {
         question: 'Hvilke minstebestillinger kreves for OEM/ODM-produksjon av SUP?',
         answer:
-          'Afarer støtter et spekter av volumer, fra 500 enheter til innledende markedstesting til over 10 000 enheter årlig for etablerte programmer. Vi planlegger produksjonsvolumene sammen med merkevarene, tilpasset distribusjonsskalaen og sesongetterspørselen.',
+          'OLagoon støtter et spekter av volumer, fra 500 enheter til innledende markedstesting til over 10 000 enheter årlig for etablerte programmer. Vi planlegger produksjonsvolumene sammen med merkevarene, tilpasset distribusjonsskalaen og sesongetterspørselen.',
       },
       {
-        question: 'Tilbyr Afarer produksjon av oppblåsbar SUP ved siden av eksisterende kajakkproduktlinjer?',
+        question: 'Tilbyr OLagoon produksjon av oppblåsbar SUP ved siden av eksisterende kajakkproduktlinjer?',
         answer:
-          'Ja, Afarer produserer oppblåsbare SUP-brett med drop stitch- og PVC-sveiseteknologi. Dette lar vannsportsmerkevarer legge til en komplett kategori med oppblåsbar SUP gjennom én enkelt produksjonspartner, samtidig som de eksisterende produktene deres forblir uendret.',
+          'Ja, OLagoon produserer oppblåsbare SUP-brett med drop stitch- og PVC-sveiseteknologi. Dette lar vannsportsmerkevarer legge til en komplett kategori med oppblåsbar SUP gjennom én enkelt produksjonspartner, samtidig som de eksisterende produktene deres forblir uendret.',
       },
     ],
     cta: {
-      title: 'Utvid vannsportsmerkevaren din med Afarer',
+      title: 'Utvid vannsportsmerkevaren din med OLagoon',
       subtitle: 'Du har allerede kundene. Du har allerede markedet. Legg nå til produktene de vil ha.',
       primaryAction: {
         text: 'Start ditt SUP-utvidelsesprosjekt i dag',
@@ -3401,15 +3401,15 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Oppblåsbare SUP-løsninger for surfbutikker | Private label-produsent | {SITE}',
       description:
-        'Afarer hjelper surfbutikker og vannlivsstilsmerker med å vokse med private label-oppblåsbare SUP-er og skreddersydde vannsportprodukter. Reduser frakt-, lager- og varekostnader med avansert oppblåsbar teknologi.',
+        'OLagoon hjelper surfbutikker og vannlivsstilsmerker med å vokse med private label-oppblåsbare SUP-er og skreddersydde vannsportprodukter. Reduser frakt-, lager- og varekostnader med avansert oppblåsbar teknologi.',
     },
     hero: {
       tagline: 'Ta oppblåsbar teknologi inn i surfbedriften™',
       title: 'Oppblåsbare SUP-løsninger for surfebutikker og kystbedrifter',
       subtitle:
-        'Afarer hjelper surfebutikker og merker for vannlivsstil med å utvide seg med private label oppblåsbar SUP og skreddersydde vannsportsprodukter. Reduser kostnader til frakt, lagring og lagerbeholdning med avansert oppblåsbar teknologi.',
+        'OLagoon hjelper surfebutikker og merker for vannlivsstil med å utvide seg med private label oppblåsbar SUP og skreddersydde vannsportsprodukter. Reduser kostnader til frakt, lagring og lagerbeholdning med avansert oppblåsbar teknologi.',
       image: {
-        alt: 'Beskrivelse av Afarers skreddersydde SUP-brett',
+        alt: 'Beskrivelse av OLagoons skreddersydde SUP-brett',
       },
     },
     challenge: {
@@ -3523,7 +3523,7 @@ const no: Record<string, SolutionOverride> = {
       customer:
         'Europeisk surfebutikkjede på Atlanterhavskysten i Europa. Opprinnelig fokusert på surfebrett, surfe tilbehør og produkter for strandlivsstil med et sterkt lokalt kundemiljø.',
       steps: [
-        "Afarer anbefalte en kolleksjon med oppblåsbar SUP, inkludert 10'6 Allround SUP, 12'6 Touring SUP og familipakker tilpasset butikkens beliggenhet ved stranden og kundebasen.",
+        "OLagoon anbefalte en kolleksjon med oppblåsbar SUP, inkludert 10'6 Allround SUP, 12'6 Touring SUP og familipakker tilpasset butikkens beliggenhet ved stranden og kundebasen.",
         'Skapte egendefinert brettgrafikk, merkevarefarger og butikkemballasje som samsvarte med surfebutikkens eksisterende merkevareidentitet og posisjonering innen strandlivsstil.',
         'Forvandlede forretningsmodellen fra tradisjonell surfebutikk til en komplett virksomhet innen vannlivsstil ved å legge til SUP-salg, utleiepakker og nybegynnerundervisning.',
         'Lanserte den oppblåsbare produktlinjen som et supplement til eksisterende hardbrett uten å øke lagringspresset.',
@@ -3548,17 +3548,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Ytelsesmåling og materialvalg',
               detail:
-                'Afarers produktingeniører besøkte Gold Coast i februar 2023 og gjennomførte blinde tester med 12 av Brendans instruktører. Hver instruktør testet 6 prototypebrett opp mot sitt standard 9\'0" epoksy soft-top-brett på 4 målinger: stabilitet i stående stilling (vurdert 1–10), glideffekt (sekunder på 50 m), respons ved sving fra kant til kant og elevens trygghetsvurdering. Vinnerprototypen – med betegnelsen M9-IS – brukte en 3-lags drop stitch-kjerne med dekkpute i 0,5 mm EVA i full lengde og en forsterket bambus-stringer. Instruktørene ga den 8,7/10 samlet, mot 7,4/10 for epoksybrettene. Brendan bestilte 60 enheter i mars 2023.',
+                'OLagoons produktingeniører besøkte Gold Coast i februar 2023 og gjennomførte blinde tester med 12 av Brendans instruktører. Hver instruktør testet 6 prototypebrett opp mot sitt standard 9\'0" epoksy soft-top-brett på 4 målinger: stabilitet i stående stilling (vurdert 1–10), glideffekt (sekunder på 50 m), respons ved sving fra kant til kant og elevens trygghetsvurdering. Vinnerprototypen – med betegnelsen M9-IS – brukte en 3-lags drop stitch-kjerne med dekkpute i 0,5 mm EVA i full lengde og en forsterket bambus-stringer. Instruktørene ga den 8,7/10 samlet, mot 7,4/10 for epoksybrettene. Brendan bestilte 60 enheter i mars 2023.',
             },
             {
               title: 'Steg 2: Kommersiell holdbarhetstesting under skoleforhold',
               detail:
-                'Brendan og Afarer ble enige om en 4-måneders pilot på stedet i Surfers Paradise med 20 prototypebrett som gjennomgikk 1 200 utleiesykluser hver. Hvert brett ble brukt i gjennomsnitt 14 ganger per uke av nybegynnerelever (60–90 kg). Afarers team fulgte 6 feilmålinger: søm integritet, ventillekkasje, hefting av dekkpute, UV-misfarging, slitasje på kantene og finneboksens holdbarhet. I måned 3 fikk 3 brett løsning av dekkputen ved kontakt punktet i nesen – Afarer formulerte limet på nytt med en varmeaktivert polyuretanfilm og erstattet de berørte brettene. Innen juni 2023 hadde piloten null strukturelle svikt og en tilgjengelighetsrate på 97,3 %.',
+                'Brendan og OLagoon ble enige om en 4-måneders pilot på stedet i Surfers Paradise med 20 prototypebrett som gjennomgikk 1 200 utleiesykluser hver. Hvert brett ble brukt i gjennomsnitt 14 ganger per uke av nybegynnerelever (60–90 kg). OLagoons team fulgte 6 feilmålinger: søm integritet, ventillekkasje, hefting av dekkpute, UV-misfarging, slitasje på kantene og finneboksens holdbarhet. I måned 3 fikk 3 brett løsning av dekkputen ved kontakt punktet i nesen – OLagoon formulerte limet på nytt med en varmeaktivert polyuretanfilm og erstattet de berørte brettene. Innen juni 2023 hadde piloten null strukturelle svikt og en tilgjengelighetsrate på 97,3 %.',
             },
             {
               title: 'Steg 3: Full utrulling av flåten, opplæring og lagringsinfrastruktur',
               detail:
-                'Brendan la inn en andre bestilling på 50 ekstra M9-IS-brett i juli 2023, slik at den oppblåsbare flåten kom opp i 70 enheter (58 % av totalen). Afarers logistikkteam sendte brettene i sammenleggbare 32-liters ryggsekker som reduserte lagringsvolumet med 80 % sammenlignet med hardbrett – en avgjørende fordel med tanke på Brendans lagerbod på 65 m² i Burleigh Heads. Afarer laget en opplæringsvideo på 14 minutter for Brendans 22 instruktører om riktig oppblåsningstrykk (15 PSI for surfing, 18 PSI for flatt vann), prosedyre for skylling av saltvann og en sjekkliste med 5 punkter før hver økt. Hele flåten var i drift innen 1. september 2023, i starten av den australske vårsesongen.',
+                'Brendan la inn en andre bestilling på 50 ekstra M9-IS-brett i juli 2023, slik at den oppblåsbare flåten kom opp i 70 enheter (58 % av totalen). OLagoons logistikkteam sendte brettene i sammenleggbare 32-liters ryggsekker som reduserte lagringsvolumet med 80 % sammenlignet med hardbrett – en avgjørende fordel med tanke på Brendans lagerbod på 65 m² i Burleigh Heads. OLagoon laget en opplæringsvideo på 14 minutter for Brendans 22 instruktører om riktig oppblåsningstrykk (15 PSI for surfing, 18 PSI for flatt vann), prosedyre for skylling av saltvann og en sjekkliste med 5 punkter før hver økt. Hele flåten var i drift innen 1. september 2023, i starten av den australske vårsesongen.',
             },
             {
               title: 'Steg 4: Måling av operasjonell effekt og kost-nytte-analyse',
@@ -3585,17 +3585,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Innkjøp med valutasikring og kostnadsmodellering',
               detail:
-                'Afarers finansteam arbeidet med Thabo fra oktober til desember 2022 med å strukturere en kjøpsavtale denominert i sørafrikanske rand (ZAR) med en klausul om fast valutakurs i 6 måneder på 17,80 ZAR per USD, som beskyttet ham mot ZAR-volatiliteten som hadde nådd 19,20 per USD i juli 2022. Afarer identifiserte en fabrikk i Shenzhen som kunne produsere et tolags Fusion PVC-brett med 5 års UV-garanti til en landet kostnad på 3 100 ZAR per enhet (inkludert 22 % importavgifter, logistikk og tollformidling). Thabos utsalgspris på 7 200 ZAR ga ham en bruttomargin på 56,9 % – betydelig over hans gjennomsnitt på 22 % for merkede brett.',
+                'OLagoons finansteam arbeidet med Thabo fra oktober til desember 2022 med å strukturere en kjøpsavtale denominert i sørafrikanske rand (ZAR) med en klausul om fast valutakurs i 6 måneder på 17,80 ZAR per USD, som beskyttet ham mot ZAR-volatiliteten som hadde nådd 19,20 per USD i juli 2022. OLagoon identifiserte en fabrikk i Shenzhen som kunne produsere et tolags Fusion PVC-brett med 5 års UV-garanti til en landet kostnad på 3 100 ZAR per enhet (inkludert 22 % importavgifter, logistikk og tollformidling). Thabos utsalgspris på 7 200 ZAR ga ham en bruttomargin på 56,9 % – betydelig over hans gjennomsnitt på 22 % for merkede brett.',
             },
             {
               title: 'Steg 2: Cape Town-inspirert design og kulturell merkevarebygging',
               detail:
-                "Afarers grafiske designere samarbeidet med en lokal illustratør fra Cape Town, Mbali Dlamini, om å lage 3 egendefinerte dekkdesign: «Seal Island» (med sørafrikanske pelselere), «Chapman's Peak» (fjell silhuett) og «Boulder's Beach» (afrikanske pingviner). Hvert design brukte varmeoverførings trykk i 6 farger med UV-bestandige blekk testet for over 500 timer i sol. Brettene hadde en unik funksjon for det sørafrikanske markedet: et forsterket spennesystem i nesen for tørrbager (populært for padleturer over flere dager langs Skeleton Coast til Durban). Thabo lanserte en nettside (kalkbaysurfco.co.za) på Shopify med Afarers produktfotografering tatt på Muizenberg Beach.",
+                "OLagoons grafiske designere samarbeidet med en lokal illustratør fra Cape Town, Mbali Dlamini, om å lage 3 egendefinerte dekkdesign: «Seal Island» (med sørafrikanske pelselere), «Chapman's Peak» (fjell silhuett) og «Boulder's Beach» (afrikanske pingviner). Hvert design brukte varmeoverførings trykk i 6 farger med UV-bestandige blekk testet for over 500 timer i sol. Brettene hadde en unik funksjon for det sørafrikanske markedet: et forsterket spennesystem i nesen for tørrbager (populært for padleturer over flere dager langs Skeleton Coast til Durban). Thabo lanserte en nettside (kalkbaysurfco.co.za) på Shopify med OLagoons produktfotografering tatt på Muizenberg Beach.",
             },
             {
               title: 'Steg 3: Prøveproduksjon, kvalitetstesting og sertifisering',
               detail:
-                'Afarer produserte 6 prøver per variant i januar 2023. Thabo og to lokale surfebrettfomere (med over 50 års kombinert erfaring) gjennomførte destruktiv testing: hvert brett ble blåst opp til 25 PSI (125 % av nominelt trykk) og holdt i 72 timer – alle prøvene besto med mindre enn 0,5 PSI tap. De testet sømstyrken med et digitalt trekkraftsmåler med krav om minst 120 N/cm (prøvene kom i gjennomsnitt på 138 N/cm). Thabo tok med 3 brett på en guidet 5-dagers padletur fra Arniston til Struisbaai (120 km) i februar 2023 for å simulere krevende turforhold. Finneboksen på ett brett ble løs etter 80 km – Afarer erstattet nylon-finneboksen med en versjon forsterket i rustfritt stål.',
+                'OLagoon produserte 6 prøver per variant i januar 2023. Thabo og to lokale surfebrettfomere (med over 50 års kombinert erfaring) gjennomførte destruktiv testing: hvert brett ble blåst opp til 25 PSI (125 % av nominelt trykk) og holdt i 72 timer – alle prøvene besto med mindre enn 0,5 PSI tap. De testet sømstyrken med et digitalt trekkraftsmåler med krav om minst 120 N/cm (prøvene kom i gjennomsnitt på 138 N/cm). Thabo tok med 3 brett på en guidet 5-dagers padletur fra Arniston til Struisbaai (120 km) i februar 2023 for å simulere krevende turforhold. Finneboksen på ett brett ble løs etter 80 km – OLagoon erstattet nylon-finneboksen med en versjon forsterket i rustfritt stål.',
             },
             {
               title: 'Steg 4: Lansering i butikk, partnertskap med turoperatører og nybestilling',
@@ -3612,8 +3612,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor OLagoon',
       items: [
         {
           title: 'Forståelse for surfemarkedet',
@@ -3659,7 +3659,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan jeg skape min egen merkevarelinje for oppblåsbar SUP?',
         answer:
-          'Ja. Afarer leverer komplette private label-løsninger med skreddersydd brettdesign, grafikk, farger, emballasje og tilbehør under surfe merkevarenavnet ditt.',
+          'Ja. OLagoon leverer komplette private label-løsninger med skreddersydd brettdesign, grafikk, farger, emballasje og tilbehør under surfe merkevarenavnet ditt.',
       },
       {
         question: 'Hvor mye kan jeg spare på frakt med oppblåsbare brett?',
@@ -3669,7 +3669,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Tilbyr dere produkter i utleiekvalitet for surfskoler?',
         answer:
-          'Ja. Afarer utvikler holdbare produkter designet for hyppig bruk i utleie, med enkelt vedlikehold, pålitelig tilbehør og kostnadseffektive flåtepriser.',
+          'Ja. OLagoon utvikler holdbare produkter designet for hyppig bruk i utleie, med enkelt vedlikehold, pålitelig tilbehør og kostnadseffektive flåtepriser.',
       },
       {
         question: 'Kan jeg kombinere hardbrett og oppblåsbare produkter i butikken min?',
@@ -3691,7 +3691,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsent av barn-SUP-er | {SITE}',
       description:
-        'Afarer tilbyr trygge barn-SUP-løsninger for sommerleirer, skoler og ungdomseventyrprogrammer. Paddleboards for barn, Giant SUP-utstyr, kommersielle flåter og skreddersydde OEM-løsninger.',
+        'OLagoon tilbyr trygge barn-SUP-løsninger for sommerleirer, skoler og ungdomseventyrprogrammer. Paddleboards for barn, Giant SUP-utstyr, kommersielle flåter og skreddersydde OEM-løsninger.',
     },
     hero: {
       tagline: 'Trygge og morsomme SUP-løsninger for barnas eventyrleirer, skoler og friluftsprogrammer for ungdom',
@@ -3783,7 +3783,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Ungdomsproduktvalg',
           detail:
-            'Afarer anbefalte barn-SUP-modeller, stabile nybegynnerbrett og instruktørutstyr tilpasset leirens aldersgrupper.',
+            'OLagoon anbefalte barn-SUP-modeller, stabile nybegynnerbrett og instruktørutstyr tilpasset leirens aldersgrupper.',
         },
         {
           title: 'Sikkerhetstilpasning',
@@ -3820,17 +3820,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: SUP-design spesifikt for barn (Junior Explorer 9\'6" X)',
               detail:
-                'I juli 2024 gikk Connolly sammen med Afarers produktteam om å utvikle en spesialbygd barne-SUP. Etter 3 prototype-iterasjoner ferdigstilte de Junior Explorer 9\'6" X (28" bredde, 4" tykkelse, 180 L volum) — 25 % smalere og 40 % lettere enn standardbrett. Nøkkelfunksjoner: en senket dekkplate (1,5" senkning) som senket tyngdepunktet med 22 %; en vektindikator (fargekodede striper for 18–55 kg); og to sikkerhetshåndtak langs hver kant. Connolly bestilte 120 brett med skoleprofilert dekkgrafikk (6 skolefargevarianter, 20 av hver). Prototyping og testing kostet 14 000 USD; produksjonsbestillingen var på 96 000 USD.',
+                'I juli 2024 gikk Connolly sammen med OLagoons produktteam om å utvikle en spesialbygd barne-SUP. Etter 3 prototype-iterasjoner ferdigstilte de Junior Explorer 9\'6" X (28" bredde, 4" tykkelse, 180 L volum) — 25 % smalere og 40 % lettere enn standardbrett. Nøkkelfunksjoner: en senket dekkplate (1,5" senkning) som senket tyngdepunktet med 22 %; en vektindikator (fargekodede striper for 18–55 kg); og to sikkerhetshåndtak langs hver kant. Connolly bestilte 120 brett med skoleprofilert dekkgrafikk (6 skolefargevarianter, 20 av hver). Prototyping og testing kostet 14 000 USD; produksjonsbestillingen var på 96 000 USD.',
             },
             {
               title: 'Steg 2: Pensumutvikling med ACARA-samsvar',
               detail:
-                'Connolly samarbeidet med Afarers utdanningskonsulenter og Queenslands læreplanmyndighet om å skrive «Paddle & Discover», et 14-økers SUP-utforskningsprogram tilpasset den australske læreplanen v9.0 (naturfag, kroppsøving og geografi). Øktene omfattet: prøvetaking av vanninsekter (med en innsamlingsbakke montert på dekket), måling av oppløst oksygen (bærbar måler festet til D-ringer), eksperimenter med oppdrift og fortrengning og kartlegging av økosystemet i Everglades. Programmet hadde 3 vanskelighetsnivåer: Ål (forberedelsesklasse–årstrinn 1, basseng/rolig vann), Skilpadder (årstrinn 2–3, beskyttet vik) og Rocker (årstrinn 4–6, åpne Everglades). Afarer trykket værbestandige instruksjonskort for hvert nivå.',
+                'Connolly samarbeidet med OLagoons utdanningskonsulenter og Queenslands læreplanmyndighet om å skrive «Paddle & Discover», et 14-økers SUP-utforskningsprogram tilpasset den australske læreplanen v9.0 (naturfag, kroppsøving og geografi). Øktene omfattet: prøvetaking av vanninsekter (med en innsamlingsbakke montert på dekket), måling av oppløst oksygen (bærbar måler festet til D-ringer), eksperimenter med oppdrift og fortrengning og kartlegging av økosystemet i Everglades. Programmet hadde 3 vanskelighetsnivåer: Ål (forberedelsesklasse–årstrinn 1, basseng/rolig vann), Skilpadder (årstrinn 2–3, beskyttet vik) og Rocker (årstrinn 4–6, åpne Everglades). OLagoon trykket værbestandige instruksjonskort for hvert nivå.',
             },
             {
               title: 'Steg 3: Lærersertifisering, risikovurdering og integrasjon av solsikkerhet',
               detail:
-                'Over 3 helger i september 2024 sertifiserte Afarers opplæringsteam 14 skolelærere (uten tidligere SUP-erfaring) gjennom et tilpasset IRF nivå 1-kurs med vekt på barnespesifikk sikkerhet: gruppestyring med fløytesignaler (3 støt = stans, 5 = nød), «koala-avstigning» (barnet faller fra sittende stilling over på brettet) og retting av kantring for barn under 30 kg. Queenslands departement for utdanning godkjente SUP-programmet under delstatens rammeverk for risikovurdering av friluftsaktiviteter, med krav om 1:6-forhold mellom instruktør og elev i rolig vann (<0,3 m dønning, <12 knop vind). Solsikkerhet (rash vests, SPF 50+, nakkeklaffer) var integrert som et krav i økt 0.',
+                'Over 3 helger i september 2024 sertifiserte OLagoons opplæringsteam 14 skolelærere (uten tidligere SUP-erfaring) gjennom et tilpasset IRF nivå 1-kurs med vekt på barnespesifikk sikkerhet: gruppestyring med fløytesignaler (3 støt = stans, 5 = nød), «koala-avstigning» (barnet faller fra sittende stilling over på brettet) og retting av kantring for barn under 30 kg. Queenslands departement for utdanning godkjente SUP-programmet under delstatens rammeverk for risikovurdering av friluftsaktiviteter, med krav om 1:6-forhold mellom instruktør og elev i rolig vann (<0,3 m dønning, <12 knop vind). Solsikkerhet (rash vests, SPF 50+, nakkeklaffer) var integrert som et krav i økt 0.',
             },
             {
               title: 'Steg 4: Utrulling i termin 1 2025 og målbare elevresultater',
@@ -3858,7 +3858,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Anskaffelse av flåte og alderstilpassede brettstørrelser',
               detail:
-                'I januar 2025 valgte Whitfield Afarer Junior Explorer 9\'6" X for deltakere på 8–11 år (40 brett) og Explorer 10\'8" X for 12–15 år (30 brett), til sammen 58 000 USD. Hun spesifiserte hvert brett med to D-ringer i baugen for festing av GoPro eller innsamlingsbakke og en bungee på dekket til en vanntett naturskildringsbok (Rite in the Rain, spiralinnbundet). Hvert brett ble lasergravert med et deltakernummer og Camp Keowees vaskebjørnlogo.',
+                'I januar 2025 valgte Whitfield OLagoon Junior Explorer 9\'6" X for deltakere på 8–11 år (40 brett) og Explorer 10\'8" X for 12–15 år (30 brett), til sammen 58 000 USD. Hun spesifiserte hvert brett med to D-ringer i baugen for festing av GoPro eller innsamlingsbakke og en bungee på dekket til en vanntett naturskildringsbok (Rite in the Rain, spiralinnbundet). Hvert brett ble lasergravert med et deltakernummer og Camp Keowees vaskebjørnlogo.',
             },
             {
               title: 'Steg 2: Design av 4-nivås merkepensum i SUP-utforskning',
@@ -3868,7 +3868,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 3: Instruktørsertifisering og kartlegging av sikkerhetssoner på Lake Jocassee',
               detail:
-                'I mai 2025 (opplæring av personalet før leiren) sertifiserte Afarer 22 vanninstruktører (19–24 år) gjennom et 3-dagers SUP-guidkurs basert på IRF, med fokus på styring av ungdomsgrupper. Whitfield kartla 6 sikkerhetssoner med fargekodede merkebøyer: svømmedelen (rød), nybegynnerpadlesonen (gul, innen 200 m fra bryggen), mellomsonen (grønn, opptil 1 km langs vestsiden), den avanserte sonen (blå, hele innsjøen med radiokontroll) og forbudssoner (lilla, rundt deminntaket og Bald Rock-klippene). Hver instruktør hadde en vanntett VHF-radio med kanal 15 reservert for SUP-drift. Duke Power, myndigheten som forvalter innsjøen, godkjente planen etter en felles sikkerhetsgjennomgang 12. mai.',
+                'I mai 2025 (opplæring av personalet før leiren) sertifiserte OLagoon 22 vanninstruktører (19–24 år) gjennom et 3-dagers SUP-guidkurs basert på IRF, med fokus på styring av ungdomsgrupper. Whitfield kartla 6 sikkerhetssoner med fargekodede merkebøyer: svømmedelen (rød), nybegynnerpadlesonen (gul, innen 200 m fra bryggen), mellomsonen (grønn, opptil 1 km langs vestsiden), den avanserte sonen (blå, hele innsjøen med radiokontroll) og forbudssoner (lilla, rundt deminntaket og Bald Rock-klippene). Hver instruktør hadde en vanntett VHF-radio med kanal 15 reservert for SUP-drift. Duke Power, myndigheten som forvalter innsjøen, godkjente planen etter en felles sikkerhetsgjennomgang 12. mai.',
             },
             {
               title: 'Steg 4: Resultater for sesongen 2025 og oppnådde merker',
@@ -3885,8 +3885,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor ungdomsprogrammer velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor ungdomsprogrammer velger OLagoon',
       items: [
         {
           title: 'Barns sikkerhet',
@@ -3914,7 +3914,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvilken størrelse på SUP-brett passer for barn i ulike aldre?',
         answer:
-          'Afarer tilbyr mindre ungdomsspesifikke SUP-størrelser designet for barn og tenåringer. Disse brettene har lavere volum, smalere bredde og lavere vekt enn voksenmodellene, noe som gjør dem enklere for unge brukere å håndtere, styre og lære på.',
+          'OLagoon tilbyr mindre ungdomsspesifikke SUP-størrelser designet for barn og tenåringer. Disse brettene har lavere volum, smalere bredde og lavere vekt enn voksenmodellene, noe som gjør dem enklere for unge brukere å håndtere, styre og lære på.',
       },
       {
         question: 'Hvordan fungerer Giant SUP for teambuilding?',
@@ -3924,26 +3924,26 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvilke sikkerhetsfunksjoner finnes på barn-SUP-brett?',
         answer:
-          'Afarers ungdomsbrett har sikkerhetsdesign med flere håndtak (side-, front- og bærehandtak), EVA-dekk med full sklisikring for trygg ståplass, avrundede sikkerhetsformer uten skarpe kanter, konstruksjon med høy oppdrift for stabil flyting og design for enkel gjenoppretting etter fall.',
+          'OLagoons ungdomsbrett har sikkerhetsdesign med flere håndtak (side-, front- og bærehandtak), EVA-dekk med full sklisikring for trygg ståplass, avrundede sikkerhetsformer uten skarpe kanter, konstruksjon med høy oppdrift for stabil flyting og design for enkel gjenoppretting etter fall.',
       },
       {
         question: 'Kan SUP-brett tilpasses med leirens logo og farger?',
         answer:
-          'Ja, Afarer støtter full tilpasning, inkludert leirlogoer, programfarger, profileringselementer og temagrafikk. Egendefinert profilering bidrar til å skape en unik leiridentitet og gjør utstyret lett å kjenne igjen.',
+          'Ja, OLagoon støtter full tilpasning, inkludert leirlogoer, programfarger, profileringselementer og temagrafikk. Egendefinert profilering bidrar til å skape en unik leiridentitet og gjør utstyret lett å kjenne igjen.',
       },
       {
         question: 'Hvor mange brett trengs for å starte et SUP-program for ungdom?',
         answer:
-          'Afarer anbefaler en startpakke med barnebrett, instruktørbrett, padleårer, pumper, leasher og bæretasker. Flåtestørrelsen avhenger av gruppekapasiteten — en typisk leir kan starte med 10–20 ungdomsbrett pluss instruktørutstyr, med muligheter for sesongutvidelse.',
+          'OLagoon anbefaler en startpakke med barnebrett, instruktørbrett, padleårer, pumper, leasher og bæretasker. Flåtestørrelsen avhenger av gruppekapasiteten — en typisk leir kan starte med 10–20 ungdomsbrett pluss instruktørutstyr, med muligheter for sesongutvidelse.',
       },
       {
         question: 'Hvilket instruktørutstyr anbefales for SUP-programmer på leir?',
         answer:
-          'Afarer anbefaler instruktørspesifikke brett med forbedret stabilitet og kontrollfunksjoner, i tillegg til sikkerhetstilbehør som leasher, pumper, reperasjonssett og kommunikasjonsutstyr. Leirflåtepakken kan omfatte dedikerte instruktørbrett og reservedelkomponenter.',
+          'OLagoon anbefaler instruktørspesifikke brett med forbedret stabilitet og kontrollfunksjoner, i tillegg til sikkerhetstilbehør som leasher, pumper, reperasjonssett og kommunikasjonsutstyr. Leirflåtepakken kan omfatte dedikerte instruktørbrett og reservedelkomponenter.',
       },
     ],
     cta: {
-      title: 'Bygg barnas vanneventyrprogram med Afarer',
+      title: 'Bygg barnas vanneventyrprogram med OLagoon',
       subtitle:
         'Hjelp barn med å oppdage trygghet, samarbeid, natur og eventyr gjennom profesjonelt designede SUP-utforskningsprogrammer.',
       primaryAction: {
@@ -3965,9 +3965,9 @@ const no: Record<string, SolutionOverride> = {
       tagline: 'Luksuriøs portabel SUP-pakke™',
       title: 'Premium portable vannsportsløsninger for cruiselinjer, yachtselskaper og marine gjestfrihetsmerker',
       subtitle:
-        'Afarer leverer luksuriøse portable SUP-pakker designet spesielt for cruiseselskaper, operatører av ekspedisjonscruise, yachtcharter-selskaper, eiere av superyachter og marinaaktivitetstilbydere. Vi leverer ultra portable oppblåsbare SUP-design med komponenter i marin klasse og luksuriøs tilpasning.',
+        'OLagoon leverer luksuriøse portable SUP-pakker designet spesielt for cruiseselskaper, operatører av ekspedisjonscruise, yachtcharter-selskaper, eiere av superyachter og marinaaktivitetstilbydere. Vi leverer ultra portable oppblåsbare SUP-design med komponenter i marin klasse og luksuriøs tilpasning.',
       image: {
-        alt: 'Afarers luksuriøse portable SUP-pakke for yachter og cruiseskip',
+        alt: 'OLagoons luksuriøse portable SUP-pakke for yachter og cruiseskip',
       },
     },
     challenge: {
@@ -4001,13 +4001,13 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Ultra portabelt oppblåsbart SUP-design',
           description:
-            'Oppblåsbar SUP-teknologi gir en stor fordel for yachter og cruiseoperatører. Afarers brett har kompakte foldersystemer for lite lagringsvolum, lett vekt for raskere utsetting og komplette reisepakker med brett, sammenleggbar padleåre, pumpe og ryggsekk.',
+            'Oppblåsbar SUP-teknologi gir en stor fordel for yachter og cruiseoperatører. OLagoons brett har kompakte foldersystemer for lite lagringsvolum, lett vekt for raskere utsetting og komplette reisepakker med brett, sammenleggbar padleåre, pumpe og ryggsekk.',
           features: ['Kompakt foldersystem', 'Lett transport', 'Komplett reisepakke', 'Enkel plassering om bord'],
         },
         {
           title: 'Materialvalg i marin klasse',
           description:
-            'Afarer bruker saltvannsbestandige komponenter med korrosjonsbestandig beslag, UV-bestandig konstruksjon mot soleksponering og forsterket SUP-struktur med holdbare PVC-lag og sterk drop stitch-kjerne, designet spesielt for havmiljøer.',
+            'OLagoon bruker saltvannsbestandige komponenter med korrosjonsbestandig beslag, UV-bestandig konstruksjon mot soleksponering og forsterket SUP-struktur med holdbare PVC-lag og sterk drop stitch-kjerne, designet spesielt for havmiljøer.',
           features: [
             'Saltvannsbestandige komponenter',
             'UV-bestandig konstruksjon',
@@ -4018,7 +4018,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Luksuriøs tilpasning for yacht og cruise',
           description:
-            'For marine premiumbedrifter betyr utseendet mye. Afarer støtter egendefinert merkevarebygging med yachtlogoer og cruiseidentitet, premium fargedesign i yachtluksus-, ekspedisjons- eller resortmarin-stil, og merkede utstyrssett med matchende padleårer og egendefinerte tasker.',
+            'For marine premiumbedrifter betyr utseendet mye. OLagoon støtter egendefinert merkevarebygging med yachtlogoer og cruiseidentitet, premium fargedesign i yachtluksus-, ekspedisjons- eller resortmarin-stil, og merkede utstyrssett med matchende padleårer og egendefinerte tasker.',
           features: [
             'Egendefinert merkevare for yacht og cruise',
             'Premium fargedesign',
@@ -4029,27 +4029,27 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'SUP-pakke for yachtcharter',
           description:
-            'Yachtgjester forventer bekvemmelighet og eksklusivitet. Afarer støtter private utstyrssett for charter av superyachter, katamaraner og seilyachter, med gjestvennlig betjening for nybegynnere og familier, organisert lagring og premium presentasjon med luksuriøst utseende.',
+            'Yachtgjester forventer bekvemmelighet og eksklusivitet. OLagoon støtter private utstyrssett for charter av superyachter, katamaraner og seilyachter, med gjestvennlig betjening for nybegynnere og familier, organisert lagring og premium presentasjon med luksuriøst utseende.',
         },
         {
           title: 'Løsninger for vannaktiviteter på ekspedisjonscruise',
           description:
-            'Eventyrcruise krever fleksibelt utstyr for øystopp, kystutforskning og naturopplevelser. Afarers løsninger støtter drift i fjerntliggende områder med enkel transport og kompakt lagring, i tillegg til gruppeprogrammer for små grupper og guideturer.',
+            'Eventyrcruise krever fleksibelt utstyr for øystopp, kystutforskning og naturopplevelser. OLagoons løsninger støtter drift i fjerntliggende områder med enkel transport og kompakt lagring, i tillegg til gruppeprogrammer for små grupper og guideturer.',
         },
         {
           title: 'Komplette lagringsløsninger om bord',
           description:
-            'Afarer forstår begrensningene i marin plass og tilbyr kompakt lagringsplanlegging for organisering av brett og tilbehør, beskyttelsessystemer med lagervasker og driftseffektivitet som hjelper besetningen med å klargjøre raskere og håndtere utstyret enklere.',
+            'OLagoon forstår begrensningene i marin plass og tilbyr kompakt lagringsplanlegging for organisering av brett og tilbehør, beskyttelsessystemer med lagervasker og driftseffektivitet som hjelper besetningen med å klargjøre raskere og håndtere utstyret enklere.',
         },
         {
           title: 'Opplæring av besetningen og vedlikeholdsstøtte',
           description:
-            'Afarer gir driftsveiledninger for besetningen som dekker oppblåsingsprosedyrer, utstyrshåndtering og rengjøringsmetoder, i tillegg til vedlikeholdsanbefalinger for rengjøring i saltvann, tørkeprosedyrer og lagringspraksis med inspeksjonssjekklister før og etter aktivitetene.',
+            'OLagoon gir driftsveiledninger for besetningen som dekker oppblåsingsprosedyrer, utstyrshåndtering og rengjøringsmetoder, i tillegg til vedlikeholdsanbefalinger for rengjøring i saltvann, tørkeprosedyrer og lagringspraksis med inspeksjonssjekklister før og etter aktivitetene.',
         },
         {
           title: 'Design av premium vannopplevelser',
           description:
-            'SUP kan bli en del av en luksusopplevelsespakke. Afarer bidrar til å skape SUP-opplevelser på yacht i solnedgang for par og VIP-gjester, privat øyutforskning for charterkunder, helseprogrammer på havet for luksuscruise og marine økoopplevelser for ekspedisjonscruise.',
+            'SUP kan bli en del av en luksusopplevelsespakke. OLagoon bidrar til å skape SUP-opplevelser på yacht i solnedgang for par og VIP-gjester, privat øyutforskning for charterkunder, helseprogrammer på havet for luksuscruise og marine økoopplevelser for ekspedisjonscruise.',
         },
       ],
     },
@@ -4065,7 +4065,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Produktplanlegging',
           detail:
-            'Afarer designet en luksuriøs portabel SUP-pakke basert på yachtens lagringsbegrensninger, kravene til gjesteopplevelsen og marinmiljøet i Middelhavet.',
+            'OLagoon designet en luksuriøs portabel SUP-pakke basert på yachtens lagringsbegrensninger, kravene til gjesteopplevelsen og marinmiljøet i Middelhavet.',
         },
         {
           title: 'Produkttilpasning',
@@ -4103,29 +4103,29 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Felttesting i Arktis i Kongsfjorden på 79° nord',
               detail:
-                'I mai 2024 sluttet Afarers team for ekstreme miljøer (sjefsingeniør Sven Lehmann fra Afarers Hamburg-kontor) seg til Hurtigrutens MS Maud på en 14-dagers seilas til Svalbard. De testet 8 konkurrentbrett og 6 arktiske Afarer-prototyper over 11 Zodiac-utsettinger nær Ny-Ålesund og Monaco-breen. Viktige funn: standardventiler frøs fast i åpen stilling i -8 °C luft etter neddykking i 2 °C vann (varmt vann inne i ventilstilken frøs på nytt ved kontakt med kald luft). Afarers løsning: et ventilsystem med nitrogenspyling som drev ut all fuktighet før lukking, pluss et neoprendeksel til ventilen. Brettmateriale: standard PVC mistet 40 % fleksibilitet ved -15 °C — Afarers Polarex TPU-blanding beholdt 92 % fleksibilitet ved -20 °C. Brettene måtte blåses opp på under 7 minutter (grensen for gjestenes tålmodighet i kulde) og tømmes og pakkes på 5 minutter (for å minimere eksponeringsvinduet for isbjørn). Afarers 2-trinns pumpe (håndpumpe til de første 10 PSI, nitrogenpatron som forsterker til 18 PSI) oppnådde oppblåsing på 6,2 minutter.',
+                'I mai 2024 sluttet OLagoons team for ekstreme miljøer (sjefsingeniør Sven Lehmann fra OLagoons Hamburg-kontor) seg til Hurtigrutens MS Maud på en 14-dagers seilas til Svalbard. De testet 8 konkurrentbrett og 6 arktiske OLagoon-prototyper over 11 Zodiac-utsettinger nær Ny-Ålesund og Monaco-breen. Viktige funn: standardventiler frøs fast i åpen stilling i -8 °C luft etter neddykking i 2 °C vann (varmt vann inne i ventilstilken frøs på nytt ved kontakt med kald luft). OLagoons løsning: et ventilsystem med nitrogenspyling som drev ut all fuktighet før lukking, pluss et neoprendeksel til ventilen. Brettmateriale: standard PVC mistet 40 % fleksibilitet ved -15 °C — OLagoons Polarex TPU-blanding beholdt 92 % fleksibilitet ved -20 °C. Brettene måtte blåses opp på under 7 minutter (grensen for gjestenes tålmodighet i kulde) og tømmes og pakkes på 5 minutter (for å minimere eksponeringsvinduet for isbjørn). OLagoons 2-trinns pumpe (håndpumpe til de første 10 PSI, nitrogenpatron som forsterker til 18 PSI) oppnådde oppblåsing på 6,2 minutter.',
             },
             {
               title: '«Polar Explorer»-pakke med Zodiac-integrasjon og sikkerhetssystemer',
               detail:
-                'Afarer designet «Polar Explorer 12.0» med spesifikke arktiske tilpasninger: klart internasjonalt oransje farge (synlig mot is på 2 km med kikkert), reflekterende striper i SOLAS-klasse, en innebygd redningsøyle taksert til 600 kg (for berging ved slep fra Zodiac) og en lomme for GPS-nødsender i nesen (Hurtigruten leverte Garmin inReach Mini 2-enheter). Pakken inneholdt en oppblåsbar redningsvest som passer med tørrdrakt (Mustang Survival HIT, testet av Afarer for bevegelsesfrihet under padling), et neopren-pogie-sett (håndvarmere integrert i padleskaftet) og en egendefinert ryggsekk som passer i et Zodiac-lagerrom (pakket mål 60 x 30 x 30 cm). Zodiac-systemet: et rullestativ festet med klemmer til Zodiacens pongtong lot en enkelt guide skli brettene ut i vannet uten å løfte.',
+                'OLagoon designet «Polar Explorer 12.0» med spesifikke arktiske tilpasninger: klart internasjonalt oransje farge (synlig mot is på 2 km med kikkert), reflekterende striper i SOLAS-klasse, en innebygd redningsøyle taksert til 600 kg (for berging ved slep fra Zodiac) og en lomme for GPS-nødsender i nesen (Hurtigruten leverte Garmin inReach Mini 2-enheter). Pakken inneholdt en oppblåsbar redningsvest som passer med tørrdrakt (Mustang Survival HIT, testet av OLagoon for bevegelsesfrihet under padling), et neopren-pogie-sett (håndvarmere integrert i padleskaftet) og en egendefinert ryggsekk som passer i et Zodiac-lagerrom (pakket mål 60 x 30 x 30 cm). Zodiac-systemet: et rullestativ festet med klemmer til Zodiacens pongtong lot en enkelt guide skli brettene ut i vannet uten å løfte.',
             },
             {
               title: 'Sikkerhetsprotokoller for isbjørn og opplæringsprogram for guider',
               detail:
-                'Afarers sikkerhetskonsulent, tidligere sikkerhetsrådgiver i Sysselmannen på Svalbard, Bjørn Viken, utviklet sammen med Hurtigruten et 3-dagers opplæringsprogram for 12 guider. «Arctic Paddle Safety Protocol» omfattet: rotasjon av isbjørnvakt (én guide dedikert til å speide etter bjørn, med rifle i .308-kaliber og signalpistol — standardkrav på Svalbard), formasjon (på linje innen 50 meter, aldri lenger enn 200 meter fra Zodiacen), rask evakuering (hele gruppen om bord på under 90 sekunder, øvd ukentlig) og akuttrespons ved hypotermi. Afarer leverte vanntette laminerte hurtigreferansekort til hver guide. Hver økt var begrenset til 8 gjester med 2 guider og 1 bevæpnet sikkerhets-Zodiac på 100 meters avstand. Isbjørnobservert under padling: 2 hendelser i 2024-sesongen — begge håndtert med varselskudd med signalpistol, uten skader. Gjestene vurderte «trygghetsfølelsen» til 4,9/5.',
+                'OLagoons sikkerhetskonsulent, tidligere sikkerhetsrådgiver i Sysselmannen på Svalbard, Bjørn Viken, utviklet sammen med Hurtigruten et 3-dagers opplæringsprogram for 12 guider. «Arctic Paddle Safety Protocol» omfattet: rotasjon av isbjørnvakt (én guide dedikert til å speide etter bjørn, med rifle i .308-kaliber og signalpistol — standardkrav på Svalbard), formasjon (på linje innen 50 meter, aldri lenger enn 200 meter fra Zodiacen), rask evakuering (hele gruppen om bord på under 90 sekunder, øvd ukentlig) og akuttrespons ved hypotermi. OLagoon leverte vanntette laminerte hurtigreferansekort til hver guide. Hver økt var begrenset til 8 gjester med 2 guider og 1 bevæpnet sikkerhets-Zodiac på 100 meters avstand. Isbjørnobservert under padling: 2 hendelser i 2024-sesongen — begge håndtert med varselskudd med signalpistol, uten skader. Gjestene vurderte «trygghetsfølelsen» til 4,9/5.',
             },
             {
               title: 'Oppstart av arktisk sesong juni–september 2024 og resultatene',
               detail:
-                'Flåten på 60 brett ble distribuert på 4 skip fra og med 1. juni 2024. Hvert skip tilbød 3 padleøkter per uke (væravhengige, 90 minutter hver). Totalt antall økter i 2024-sesongen: 288 økter på tvers av alle skipene (4 skip × 3 per uke × 24 uker). Gjennomsnittlig belegg: 7,2 gjester per økt (90 % av kapasiteten på 8). Omsetning: 288 × 7,2 × 450 USD (prispremie på utflukten) = 933 120 USD. Brettytelse: ingen katastrofale svikt. Ett brett fikk et 3 cm hull fra havis (en spiss brashisfjellbit) — reparert med arktisk reparasjonssett på 8 minutter under en Zodiac-drev. Ventilene fungerte feilfritt gjennom 288 oppblåsings- og tømmingssykluser. Gjetilbakemeldinger: 4,93/5 i gjennomsnitt. 83 % av gjestene sa at SUP-opplevelsen var «reisens høydepunkt». Erik bestilte 40 ekstra brett for 2025-sesongen og ba Afarer utvikle en «Twin»-modell for tandempadling i Arktis.',
+                'Flåten på 60 brett ble distribuert på 4 skip fra og med 1. juni 2024. Hvert skip tilbød 3 padleøkter per uke (væravhengige, 90 minutter hver). Totalt antall økter i 2024-sesongen: 288 økter på tvers av alle skipene (4 skip × 3 per uke × 24 uker). Gjennomsnittlig belegg: 7,2 gjester per økt (90 % av kapasiteten på 8). Omsetning: 288 × 7,2 × 450 USD (prispremie på utflukten) = 933 120 USD. Brettytelse: ingen katastrofale svikt. Ett brett fikk et 3 cm hull fra havis (en spiss brashisfjellbit) — reparert med arktisk reparasjonssett på 8 minutter under en Zodiac-drev. Ventilene fungerte feilfritt gjennom 288 oppblåsings- og tømmingssykluser. Gjetilbakemeldinger: 4,93/5 i gjennomsnitt. 83 % av gjestene sa at SUP-opplevelsen var «reisens høydepunkt». Erik bestilte 40 ekstra brett for 2025-sesongen og ba OLagoon utvikle en «Twin»-modell for tandempadling i Arktis.',
             },
           ],
           results: [
             '933 120 USD i omsetning fra 288 SUP-økter i én enkelt 4-måneders arktisk sesong med 90 % kapasitetsutnyttelse',
             'Ingen katastrofale brettsvikt på tvers av 288 økter i ekstreme arktiske forhold; 1 mindre hul/opp/iskontakt reparert om bord på 8 minutter',
             'Gjestetilfredshet 4,93/5; 83 % vurderte SUP-opplevelsen som «reisens høydepunkt»; skipene tok SUP inn som permanent utfluktskategori',
-            'Afarer tildelt 3-årig eksklusivt partnerskap for alle Hurtigruten Svalbard-operasjoner; 40 ekstra brett bestilt for 2025-sesongen',
+            'OLagoon tildelt 3-årig eksklusivt partnerskap for alle Hurtigruten Svalbard-operasjoner; 40 ekstra brett bestilt for 2025-sesongen',
           ],
         },
         {
@@ -4141,36 +4141,36 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Øyvurdering og skreddersydd designkonsultasjon i mars 2024',
               detail:
-                'Afarers luksusdivisjonsdirektør Philippe Moreau og seniordesigner Amira Al Hashimi tilbrakte 4 dager på Al Nabigha-øya. De dokumenterte hver eneste detalj: villaenes interiører (samtidsarabisk design i krem-, sand- og gulltoner), korallhavlens fargepalett (teal, turkis, korallrosa), marinaens pantonematchede trebeis og til og med familiens porselensmønster (Wedgwood «Middle East Pearl»). Philippe og Amira foreslo et «unik» estetisk uttrykk: brett som matchet øyas faktiske revfarger, med Al Nabigha-familiens våpenskjold (en falk over en daddelpalme) preget i 24-karats bladgull under klar epoksy. Lagring var en begrensning — Hamdans eksisterende strandcabana hadde bare 8 kubikkmeter til det som skulle bli 20 brett. Afarer foreslo egendefinerte teakmøbler med individuelle ventilerte skuffer, der hvert brett ble rullet og lagret med en fuktighetssensor.',
+                'OLagoons luksusdivisjonsdirektør Philippe Moreau og seniordesigner Amira Al Hashimi tilbrakte 4 dager på Al Nabigha-øya. De dokumenterte hver eneste detalj: villaenes interiører (samtidsarabisk design i krem-, sand- og gulltoner), korallhavlens fargepalett (teal, turkis, korallrosa), marinaens pantonematchede trebeis og til og med familiens porselensmønster (Wedgwood «Middle East Pearl»). Philippe og Amira foreslo et «unik» estetisk uttrykk: brett som matchet øyas faktiske revfarger, med Al Nabigha-familiens våpenskjold (en falk over en daddelpalme) preget i 24-karats bladgull under klar epoksy. Lagring var en begrensning — Hamdans eksisterende strandcabana hadde bare 8 kubikkmeter til det som skulle bli 20 brett. OLagoon foreslo egendefinerte teakmøbler med individuelle ventilerte skuffer, der hvert brett ble rullet og lagret med en fuktighetssensor.',
             },
             {
               title: '«Royal Heritage»-tilpasset produksjon og stille elektrisk infrastruktur',
               detail:
-                'Afarers anlegg i Xiamen avsatte en egen produksjonslinje til Al Nabigha-bestillingen. Hvert brett ble lagt for hånd med egendydd PVC i «Arabian Teal» — en egendefinert Pantone-farge (PMS 7712 C) matchet til øyas dypere revsoner. Bladgullpregingen: 0,5 mikron 24K gull påført rundt familievåpenet, beskyttet av 3 lag marineklasse epoksy herdet med UV. Afarer skaffet stille elektriske pumper (JOBE Aero, modifisert med lyddempende kabinetter som reduserte driften til 38 dB — stillere enn øyas omgivende bølgelyd). Hver pumpeledning var flettet i kremfarget stoff for å matche villaenes interiør. Settet med 20 padleårer: egendefinerte skaft i karbonfiber i matt krem med 24K gullband ved koblingen og blader håndmalt med korallrevmotiver av den Xiamen-baserte marinekunstneren Liao Fang. En fuktighetsstyrt lagringskabinett ble bygget av Afarers snekkerpartner i Milano, levert flatpakket og montert på øya.',
+                'OLagoons anlegg i Xiamen avsatte en egen produksjonslinje til Al Nabigha-bestillingen. Hvert brett ble lagt for hånd med egendydd PVC i «Arabian Teal» — en egendefinert Pantone-farge (PMS 7712 C) matchet til øyas dypere revsoner. Bladgullpregingen: 0,5 mikron 24K gull påført rundt familievåpenet, beskyttet av 3 lag marineklasse epoksy herdet med UV. OLagoon skaffet stille elektriske pumper (JOBE Aero, modifisert med lyddempende kabinetter som reduserte driften til 38 dB — stillere enn øyas omgivende bølgelyd). Hver pumpeledning var flettet i kremfarget stoff for å matche villaenes interiør. Settet med 20 padleårer: egendefinerte skaft i karbonfiber i matt krem med 24K gullband ved koblingen og blader håndmalt med korallrevmotiver av den Xiamen-baserte marinekunstneren Liao Fang. En fuktighetsstyrt lagringskabinett ble bygget av OLagoons snekkerpartner i Milano, levert flatpakket og montert på øya.',
             },
             {
               title: '«White-Glove»-serviceprotokoll og opplæring av staben',
               detail:
-                'Saeed Al Mazrouei valgte ut 6 av øyas ansatte (3 butlere, 2 strandvertinner og strandverter, 1 marinahjelper) til Afarers «White-Glove»-serviceopplæring i mai 2024. Det 5-dagers programmet dekket: mottak av gjester (brett presentert på en rottingstativ, aldri plassert på bakken), oppblåsingsseremoni (pumpen startet før gjesten ankommer — brettet klart når gjesten kommer til stranden — målt til 11,5 minutter fra pumpestart til fulle 15 PSI), personlig tilpasning (riktig padleårehøyde, leash-montering, størrelse på redningsvest — må være diskret, så Afarer leverte egendefinerte oppblåsbare redningsvester i krem med beslag i matt gull) og stell etter økten (brettet tørket av med pH-nøytral rengjøringsmiddel, UV-beskyttelse påført hver 5. økt, ventil inspisert og rullet tilbake i skuffen innen 8 minutter etter at gjesten har forlatt stedet). Protokollmanualen (45 sider, innbundet i skinn med forgylte sider) ble oppbevart i cabanaens skjulte safe. Hamdans tilbakemelding etter opplæringen: «Slik skal utstyr behandles.»',
+                'Saeed Al Mazrouei valgte ut 6 av øyas ansatte (3 butlere, 2 strandvertinner og strandverter, 1 marinahjelper) til OLagoons «White-Glove»-serviceopplæring i mai 2024. Det 5-dagers programmet dekket: mottak av gjester (brett presentert på en rottingstativ, aldri plassert på bakken), oppblåsingsseremoni (pumpen startet før gjesten ankommer — brettet klart når gjesten kommer til stranden — målt til 11,5 minutter fra pumpestart til fulle 15 PSI), personlig tilpasning (riktig padleårehøyde, leash-montering, størrelse på redningsvest — må være diskret, så OLagoon leverte egendefinerte oppblåsbare redningsvester i krem med beslag i matt gull) og stell etter økten (brettet tørket av med pH-nøytral rengjøringsmiddel, UV-beskyttelse påført hver 5. økt, ventil inspisert og rullet tilbake i skuffen innen 8 minutter etter at gjesten har forlatt stedet). Protokollmanualen (45 sider, innbundet i skinn med forgylte sider) ble oppbevart i cabanaens skjulte safe. Hamdans tilbakemelding etter opplæringen: «Slik skal utstyr behandles.»',
             },
             {
               title:
                 'Leveranse i juni 2024 og den første VIP-helgen (Qatars emir erstattet prins Andrews avlyste opphold)',
               detail:
-                'Den første fullstendige flåteutsettingen var et statsbesøk fra Qatars emir, Tamim bin Hamad Al Thani, og hans familie 24. juni 2024 (opprinnelig planlagt for en britisk kongelig som trakk seg). Seks SUP-er var satt opp på den private stranden innen klokka 07:30. Emirens 14 år gamle sønn, Sheikh Jassim, padlet i 3 timer med en marinbiolog som guide (også egentrent av Afarer) og utforsket korallhagen. Hamdan rapporterte: «Emirens sønn sa at det var den beste delen av besøket.» En ny utsetting i oktober 2024 for 12 gjester fra det saudiske kongehuset omfattet en padletur i solnedgang med champagneservering (glass holdt i Afarers egendefinerte drikkeholder, designet for ikke å velte i kjølvann). Innen mars 2025 var brettene brukt 47 ganger uten skader, uten vedlikeholdshendelser og uten klager fra gjester. Hamdan bestilte 8 ekstra brett til familiens private yacht (den 65 meter lange «Al Nabigha Star») og ga Afarer i oppdrag å utvikle en padleåreserie i bladgull til feiringen av EAs nasjonaldag.',
+                'Den første fullstendige flåteutsettingen var et statsbesøk fra Qatars emir, Tamim bin Hamad Al Thani, og hans familie 24. juni 2024 (opprinnelig planlagt for en britisk kongelig som trakk seg). Seks SUP-er var satt opp på den private stranden innen klokka 07:30. Emirens 14 år gamle sønn, Sheikh Jassim, padlet i 3 timer med en marinbiolog som guide (også egentrent av OLagoon) og utforsket korallhagen. Hamdan rapporterte: «Emirens sønn sa at det var den beste delen av besøket.» En ny utsetting i oktober 2024 for 12 gjester fra det saudiske kongehuset omfattet en padletur i solnedgang med champagneservering (glass holdt i OLagoons egendefinerte drikkeholder, designet for ikke å velte i kjølvann). Innen mars 2025 var brettene brukt 47 ganger uten skader, uten vedlikeholdshendelser og uten klager fra gjester. Hamdan bestilte 8 ekstra brett til familiens private yacht (den 65 meter lange «Al Nabigha Star») og ga OLagoon i oppdrag å utvikle en padleåreserie i bladgull til feiringen av EAs nasjonaldag.',
             },
           ],
           results: [
             'Flåte på 20 brett brukt i 47 VIP-gjesteøkter i løpet av de første 9 månedene, uten vedlikeholdshendelser eller klager fra gjester',
             'Gjennomsnittlig oppsettstid på 11,5 minutter for det stille elektriske pumpesystemet; nedpakking etter økten fullført på 8 minutter — begge deler bedre enn 15-minutters standarden for luksusservice',
             'De egendefinerte lagringsmøblene opprettholdt i gjennomsnitt 58 % luftfuktighet (optimalt for PVC); ingen mugg eller materialeforringelse rapportert',
-            'Ekstrabestilling på 8 brett til familieyachten «Al Nabigha Star»; Afarer fikk i oppdrag en eksklusiv padleåreserie i bladgull til EAs nasjonaldag 2025',
+            'Ekstrabestilling på 8 brett til familieyachten «Al Nabigha Star»; OLagoon fikk i oppdrag en eksklusiv padleåreserie i bladgull til EAs nasjonaldag 2025',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor cruise- og yachtselskaper velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor cruise- og yachtselskaper velger OLagoon',
       items: [
         {
           title: 'Marinmiljø',
@@ -4196,19 +4196,19 @@ const no: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Hvor kompakte er Afarers SUP-brett når de pakkes for lagring på yacht?',
+        question: 'Hvor kompakte er OLagoons SUP-brett når de pakkes for lagring på yacht?',
         answer:
-          'Afarers luksuriøse portable SUP-brett har kompakte foldersystemer som reduserer lagringsvolumet betydelig, og de passer lett i yachtkabiner, lagerrom, tenderbåter og ekspedisjonsfartøy. Hvert brett pakkes i en bæreryggsekk sammen med alt tilbehøret.',
+          'OLagoons luksuriøse portable SUP-brett har kompakte foldersystemer som reduserer lagringsvolumet betydelig, og de passer lett i yachtkabiner, lagerrom, tenderbåter og ekspedisjonsfartøy. Hvert brett pakkes i en bæreryggsekk sammen med alt tilbehøret.',
       },
       {
-        question: 'Er Afarers SUP-brett motstandsdyktige mot saltvann og UV-skader?',
+        question: 'Er OLagoons SUP-brett motstandsdyktige mot saltvann og UV-skader?',
         answer:
-          'Ja, Afarer bruker materialer i marin klasse, inkludert saltvannsbestandige komponenter, korrosjonsbestandig beslag, UV-bestandig konstruksjon og holdbare PVC-lag, spesielt designet for å tåle havmiljøer, fuktighet og soleksponering.',
+          'Ja, OLagoon bruker materialer i marin klasse, inkludert saltvannsbestandige komponenter, korrosjonsbestandig beslag, UV-bestandig konstruksjon og holdbare PVC-lag, spesielt designet for å tåle havmiljøer, fuktighet og soleksponering.',
       },
       {
         question: 'Kan dere tilpasse SUP-brett med min yacht- eller cruisebedrifts merkevare?',
         answer:
-          'Ja, Afarer tilbyr full tilpasning, inkludert yachtlogoer, cruisebedriftens identitet, premium fargedesign i ulike stiler, matchende merkede padleårer, egendefinerte tasker og komplette utstyrssett som gjenspeiler merkevarens luksusposisjonering.',
+          'Ja, OLagoon tilbyr full tilpasning, inkludert yachtlogoer, cruisebedriftens identitet, premium fargedesign i ulike stiler, matchende merkede padleårer, egendefinerte tasker og komplette utstyrssett som gjenspeiler merkevarens luksusposisjonering.',
       },
       {
         question: 'Hva inngår i en luksuriøs portabel SUP-pakke?',
@@ -4218,18 +4218,18 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvor enkelt er det for besetningsmedlemmer å klargjøre og sette ut utstyret?',
         answer:
-          'Afarer gir driftsveiledninger for besetningen som dekker oppblåsingsprosedyrer, utstyrshåndtering, rengjøringsmetoder og inspeksjonssjekklister. Den lette, portable designen gir raskere utsetting og enklere håndtering enn tradisjonelle hardbrett.',
+          'OLagoon gir driftsveiledninger for besetningen som dekker oppblåsingsprosedyrer, utstyrshåndtering, rengjøringsmetoder og inspeksjonssjekklister. Den lette, portable designen gir raskere utsetting og enklere håndtering enn tradisjonelle hardbrett.',
       },
       {
         question: 'Tilbyr dere volumløsninger for cruiselinjer med flere fartøy?',
         answer:
-          'Ja, Afarer støtter cruiseselskaper, yachtcharterbedrifter og marine gjestfrihetsmerker med løsninger i flåteskala, inkludert ensartet produktkvalitet på tvers av fartøyene, effektiv voluminnkjøp og standardiserte utstyrspakker.',
+          'Ja, OLagoon støtter cruiseselskaper, yachtcharterbedrifter og marine gjestfrihetsmerker med løsninger i flåteskala, inkludert ensartet produktkvalitet på tvers av fartøyene, effektiv voluminnkjøp og standardiserte utstyrspakker.',
       },
     ],
     cta: {
-      title: 'Skap din luksuriøse vannopplevelse med Afarer',
+      title: 'Skap din luksuriøse vannopplevelse med OLagoon',
       subtitle:
-        'Havet er destinasjonen din. Skap nå uforglemmelige opplevelser på det. Afarer hjelper cruiseselskaper, yachtoperatører, charterbedrifter og marine gjestfrihetsmerker med å bygge premium portable SUP-opplevelser.',
+        'Havet er destinasjonen din. Skap nå uforglemmelige opplevelser på det. OLagoon hjelper cruiseselskaper, yachtoperatører, charterbedrifter og marine gjestfrihetsmerker med å bygge premium portable SUP-opplevelser.',
       primaryAction: {
         text: 'Start ditt luksuriøse marine SUP-prosjekt i dag',
       },
@@ -4243,7 +4243,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsent av kjæledyrvennlige paddleboards | OEM-leverandør av hund-SUP-er | {SITE}',
       description:
-        'Afarer lager skreddersydde kjæledyrvennlige paddleboards for hundeeventyrmerker og outdoor-bedrifter for kjæledyr. Robuste ripebestandige SUP-design, brede stabile plattformer, OEM-produksjon og private label-løsninger.',
+        'OLagoon lager skreddersydde kjæledyrvennlige paddleboards for hundeeventyrmerker og outdoor-bedrifter for kjæledyr. Robuste ripebestandige SUP-design, brede stabile plattformer, OEM-produksjon og private label-løsninger.',
     },
     hero: {
       tagline: 'Kjæledyrvennlig padlebrettprogram™',
@@ -4285,7 +4285,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'SUP-design optimalisert for kjæledyr',
           description:
-            'Afarer utvikler SUP-konstruksjoner spesifikt for kjæledyrsbruk, med ultrastabil bred plattform, økt brettbredde, større ståflate og en lang aktivitetsflate over hele dekket for hunder i alle størrelser.',
+            'OLagoon utvikler SUP-konstruksjoner spesifikt for kjæledyrsbruk, med ultrastabil bred plattform, økt brettbredde, større ståflate og en lang aktivitetsflate over hele dekket for hunder i alle størrelser.',
           features: [
             'Design med ultrastabil bred plattform',
             'Lang aktivitetsflate over hele dekket',
@@ -4295,43 +4295,43 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Ripebestandig og kjæledyrsikker materialstruktur',
           description:
-            'Afarer støtter forsterket PVC-konstruksjon for ripebestandighet, dekkplater i tung klasse av EVA med full dekning og forbedret grep samt punksjonsbestandig struktur som beskytter mot kløtrykk.',
+            'OLagoon støtter forsterket PVC-konstruksjon for ripebestandighet, dekkplater i tung klasse av EVA med full dekning og forbedret grep samt punksjonsbestandig struktur som beskytter mot kløtrykk.',
           features: ['Forsterket PVC-konstruksjon', 'EVA-dekkplate i tung klasse', 'Punksjonsbestandig struktur'],
         },
         {
           title: 'Kjæledyrvennlig produktkonfigurasjon',
           description:
-            'Afarer støtter komplette produktløsninger, inkludert standard kjæledyr-SUP-pakker med brett og tilbehør, premium hundeeventyrpakker med sikkerhetstilbehør og reisekjæledyrpakker for bilturer og camping.',
+            'OLagoon støtter komplette produktløsninger, inkludert standard kjæledyr-SUP-pakker med brett og tilbehør, premium hundeeventyrpakker med sikkerhetstilbehør og reisekjæledyrpakker for bilturer og camping.',
           features: ['Standard kjæledyr-SUP-pakke', 'Premium hundeeventyrpakke', 'Reisekjæledyrpakke'],
         },
         {
           title: 'Egendefinert private label-utvikling av kjæledyr-SUP',
           description:
-            'Afarer hjelper kjæledyrmerkevarer med å skape egendefinerte merkede produkter med logoplassering, farger og grafisk design, livsstilsorientert design for premium-posisjonering og kolleksjoner i begrenset opplag for influensere.',
+            'OLagoon hjelper kjæledyrmerkevarer med å skape egendefinerte merkede produkter med logoplassering, farger og grafisk design, livsstilsorientert design for premium-posisjonering og kolleksjoner i begrenset opplag for influensere.',
           features: ['Merkevaretilpasning', 'Livsstilsorientert design', 'Kolleksjoner i begrenset opplag'],
         },
         {
           title: 'Støtte til markedsposisjonering for kjæledyrmerkevarer',
           description:
-            'Afarer utvikler produkter som matcher ulike merkevareposisjoner, fra premium kjæledyrslivsstilsmerkevarer med fokus på luksuriøst utseende til eventyrhundmerkevarer med fokus på holdbarhet og familiekjæledyrmerkevarer med fokus på sikkerhet.',
+            'OLagoon utvikler produkter som matcher ulike merkevareposisjoner, fra premium kjæledyrslivsstilsmerkevarer med fokus på luksuriøst utseende til eventyrhundmerkevarer med fokus på holdbarhet og familiekjæledyrmerkevarer med fokus på sikkerhet.',
           features: ['Premium kjæledyrslivsstilsmerkevarer', 'Eventyrhundmerkevarer', 'Familiekjæledyrmerkevarer'],
         },
         {
           title: 'OEM-støtte for gründere innen kjæledyrprodukter',
           description:
-            'Mange kjæledyrmerkevarer har kundefellesskap og markedsføringskompetanse, men mangler produksjonskunnskap. Afarer tilbyr produktutvikling, prototypeutvikling, produksjon, kvalitetskontroll og eksportstøtte.',
+            'Mange kjæledyrmerkevarer har kundefellesskap og markedsføringskompetanse, men mangler produksjonskunnskap. OLagoon tilbyr produktutvikling, prototypeutvikling, produksjon, kvalitetskontroll og eksportstøtte.',
           features: ['Produktutvikling', 'Prototypeutvikling', 'Produksjonsstøtte'],
         },
         {
           title: 'Innholdvennlig produktdesign',
           description:
-            'Afarer støtter design optimalisert for synlighet i sosiale medier med tiltalende grafikk og livsstilsutseende, som oppmuntrer kunder til å ta bilder og videoer som skaper delbare opplevelser og engasjement i fellesskapet.',
+            'OLagoon støtter design optimalisert for synlighet i sosiale medier med tiltalende grafikk og livsstilsutseende, som oppmuntrer kunder til å ta bilder og videoer som skaper delbare opplevelser og engasjement i fellesskapet.',
           features: ['Synlighet i sosiale medier', 'Kundefotos og -videoer', 'Merkevarebevissthet'],
         },
         {
           title: 'Kvalitetskontroll for kjæledyrsikkerhet',
           description:
-            'Afarer fokuserer på materialsikkerhet gjennom kontroll av overflateholdbarhet, testing av produktytelse med oppblåsing og stabilitet, og sluttinspeksjon av utseende, tilbehør og emballasje.',
+            'OLagoon fokuserer på materialsikkerhet gjennom kontroll av overflateholdbarhet, testing av produktytelse med oppblåsing og stabilitet, og sluttinspeksjon av utseende, tilbehør og emballasje.',
           features: ['Materialsikkerhet', 'Produktytelse', 'Sluttinspeksjon'],
         },
       ],
@@ -4348,7 +4348,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Produktutvikling',
           detail:
-            'Afarer designet en SUP-konstruksjon spesifikt for kjæledyr, inkludert bredere brettform, større dekkflate og forsterket overflate for å ta imot hunder trygt og komfortabelt.',
+            'OLagoon designet en SUP-konstruksjon spesifikt for kjæledyr, inkludert bredere brettform, større dekkflate og forsterket overflate for å ta imot hunder trygt og komfortabelt.',
         },
         {
           title: 'Materialoptimalisering',
@@ -4386,22 +4386,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Produktforskning og sikkerhetsutvikling spesifikt for hunder',
               detail:
-                'I januar 2025 tilbrakte Emma og produktteamet hennes en uke i Afarers innovasjonslaboratorium med Afarers materialingeniører og en veterinærkonsulent. De utviklet 3 hundespesifikke innovasjoner: (1) en dekkplate med dobbel tetthet og ekstra grepsoner for hundepoter med 3 ganger høyere friksjonskoeffisient enn standardplater, (2) en forsterket midtseksjon med testet lastekapasitet på 50 kg (testet med vektsimuleringer av labrador og golden retriever) og (3) et D-ring-festesystem kompatibelt med redningsvester for hunder. Afarer produserte 6 prototypevarianter, og Emmas team gjennomførte 8 ukers testing med 50 hundeeiere over hele Storbritannia og finjusterte designet basert på 347 svar fra spørreundersøkelser. Det endelige designet hadde potetrykk i reliekk, «mudderbestandig» materiale og en bæreposeholder integrert i dekkplaten.',
+                'I januar 2025 tilbrakte Emma og produktteamet hennes en uke i OLagoons innovasjonslaboratorium med OLagoons materialingeniører og en veterinærkonsulent. De utviklet 3 hundespesifikke innovasjoner: (1) en dekkplate med dobbel tetthet og ekstra grepsoner for hundepoter med 3 ganger høyere friksjonskoeffisient enn standardplater, (2) en forsterket midtseksjon med testet lastekapasitet på 50 kg (testet med vektsimuleringer av labrador og golden retriever) og (3) et D-ring-festesystem kompatibelt med redningsvester for hunder. OLagoon produserte 6 prototypevarianter, og Emmas team gjennomførte 8 ukers testing med 50 hundeeiere over hele Storbritannia og finjusterte designet basert på 347 svar fra spørreundersøkelser. Det endelige designet hadde potetrykk i reliekk, «mudderbestandig» materiale og en bæreposeholder integrert i dekkplaten.',
             },
             {
               title: 'Merkevareutvikling, emballasje og samsvar for kjæledyrhandelen',
               detail:
-                "Afarers designteam skapte den visuelle identiteten for «Paws & Paddle Adventure», inkludert emballasje med hundefotografering, hylleskilt og QR-koder med lenke til en videoguide om «Dog SUP Safety». De 3 modellene som ble lansert: «The Spaniel» (10' allround for små til mellomstore hunder), «The Labrador» (11'6\" nyttebrett for mellomstore til store hunder) og «The Retriever» (12'6\" touring for store hunder og lengre turer). Afarer håndterte UKCA-sertifisering og CE-merking og utviklet en samsvarspakke for Pet Industry Federation med sikkerhetsadvarsler, vektgrenser for hunder og ansvarsdokumentasjon. Emma forhåndssolgte 1 800 enheter gjennom det eksisterende nettverket av kjæledyrbutikker før produksjonen i det hele tatt startet.",
+                "OLagoons designteam skapte den visuelle identiteten for «Paws & Paddle Adventure», inkludert emballasje med hundefotografering, hylleskilt og QR-koder med lenke til en videoguide om «Dog SUP Safety». De 3 modellene som ble lansert: «The Spaniel» (10' allround for små til mellomstore hunder), «The Labrador» (11'6\" nyttebrett for mellomstore til store hunder) og «The Retriever» (12'6\" touring for store hunder og lengre turer). OLagoon håndterte UKCA-sertifisering og CE-merking og utviklet en samsvarspakke for Pet Industry Federation med sikkerhetsadvarsler, vektgrenser for hunder og ansvarsdokumentasjon. Emma forhåndssolgte 1 800 enheter gjennom det eksisterende nettverket av kjæledyrbutikker før produksjonen i det hele tatt startet.",
             },
             {
               title: 'Influenserlansering og opplæring i butikk',
               detail:
-                'Kolleksjonen ble lansert i mars 2025 med en koordinert kampanje med 12 britiske hundeinfluensere, blant andre @myadventureswithoscar (2,1 mill. følgere) og @the_hiking_husky (890 000 følgere). Afarer stilte med 50 demoenheter til influenserinnhold og arrangementer i kjæledyrbutikker. Afarers opplæringsteam laget en 20 minutters «Retail Pro»-modul som dekket sikkerhet ved hund-SUP, tilpasning til ulike raser og kryssalg av redningsvester for hunder og beskyttelsesstøvler for poter. Paws & Paddles 340 butikkpartnere holdt demodager i butikk der kundene kunne prøve brettene med hundene sine i oppblåsbare bassenger — 78 % av demodeltakerne kjøpte produktet.',
+                'Kolleksjonen ble lansert i mars 2025 med en koordinert kampanje med 12 britiske hundeinfluensere, blant andre @myadventureswithoscar (2,1 mill. følgere) og @the_hiking_husky (890 000 følgere). OLagoon stilte med 50 demoenheter til influenserinnhold og arrangementer i kjæledyrbutikker. OLagoons opplæringsteam laget en 20 minutters «Retail Pro»-modul som dekket sikkerhet ved hund-SUP, tilpasning til ulike raser og kryssalg av redningsvester for hunder og beskyttelsesstøvler for poter. Paws & Paddles 340 butikkpartnere holdt demodager i butikk der kundene kunne prøve brettene med hundene sine i oppblåsbare bassenger — 78 % av demodeltakerne kjøpte produktet.',
             },
             {
               title: 'Kategoriutvidelse og partnerskapsprogram med veterinærer',
               detail:
-                'Innen september 2025 hadde den hundevennlige SUP-linjen solgt 4 200 enheter i 340 butikklokasjoner og generert 2,1 mill. GBP i engrossalg (40 % over målet på 1,5 mill. GBP). Modellen «The Labrador» sto for 52 % av salget. Emma lanserte et banebrytende samarbeid med British Veterinary Association for å fremme vannsikkerhet for hunder, og Afarer produserte 5 000 hefter om «Dog SUP Safety» distribuert via veterinærer. En nybestilling på 3 000 enheter omfattet en ny modell, «The Terrier» (8\'6" for små hunder), og en matchende linje med redningsvester for hunder. Kolleksjonen ble kåret til «Pet Product of the Year» på UK Pet Show 2025.',
+                'Innen september 2025 hadde den hundevennlige SUP-linjen solgt 4 200 enheter i 340 butikklokasjoner og generert 2,1 mill. GBP i engrossalg (40 % over målet på 1,5 mill. GBP). Modellen «The Labrador» sto for 52 % av salget. Emma lanserte et banebrytende samarbeid med British Veterinary Association for å fremme vannsikkerhet for hunder, og OLagoon produserte 5 000 hefter om «Dog SUP Safety» distribuert via veterinærer. En nybestilling på 3 000 enheter omfattet en ny modell, «The Terrier» (8\'6" for små hunder), og en matchende linje med redningsvester for hunder. Kolleksjonen ble kåret til «Pet Product of the Year» på UK Pet Show 2025.',
             },
           ],
           results: [
@@ -4418,28 +4418,28 @@ const no: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Australia',
             background:
               'Blue Heeler Expeditions ble grunnlagt i 2018 av Lachlan «Locky» Murphy, tidligere hundehandler i den australske hæren og senere atferdsspesialist for hunder. Locky var spesialist på trening av høyenergiras (kelpie, heeler og border collie) og hadde bygget en trofast tilhengerskare gjennom YouTube-kanalen sin (480 000 abonnenter) og utsolgte workshops. Han hadde et anlegg på 12 000 kvadratfot nær Noosa River, men ønsket å skape en helt ny kategori: et strukturert trenings- og sertifiseringsprogram i hund-SUP. Hundeeierskapet i Australia var på rekordnivå (5,1 mill. hunder), og #dogpaddle trendet i australske sosiale medier, men ingen tilbød profesjonell hund-SUP-trening eller utstyr designet for det australske klimaet.',
-            goal: 'Utvikle et omfattende «Canine SUP Certification»-program med egendefinerte Afarer-brett, lære opp og sertifisere 80 instruktører i hele Australia i løpet av 18 måneder og generere 1,2 mill. AUD i programinntekter ved å kombinere brettsalg, sertifiseringsgebyrer og merchandise.',
+            goal: 'Utvikle et omfattende «Canine SUP Certification»-program med egendefinerte OLagoon-brett, lære opp og sertifisere 80 instruktører i hele Australia i løpet av 18 måneder og generere 1,2 mill. AUD i programinntekter ved å kombinere brettsalg, sertifiseringsgebyrer og merchandise.',
           },
           steps: [
             {
               title: 'Atferdsanalyse for hunder og utvikling av SUP-treningsprotokoll',
               detail:
-                'Locky tilbrakte 3 måneder fra oktober til desember 2024 sammen med Afarers produktteam og en forsker i dyrs biomekanikk fra University of Queensland med å designe et brett optimalisert for balansetrening av hunder. De skapte en 12\' x 34" bred plattform med ultramyk EVA-dekkpolstring (8 mm mot standard 4 mm), kanter med lav profil for enkel ombordstigning for hunder og en sklisikker strukturert overflate testet på 14 hunderaser. Locky testet 30 hunder på 6 prototype-iterasjoner og utviklet en treningsprotokoll for hund-SUP i 5 trinn: trinn 1 (tilvenning til brettet på land), trinn 2 (statisk flyt), trinn 3 (padling sittende), trinn 4 (padling stående med sittende hund), trinn 5 (full padling med stående hund). Afarer produserte 200 instruktørbrett med egendefinert «Blue Heeler»-grafikk med silhuetten av en australsk cattle dog.',
+                'Locky tilbrakte 3 måneder fra oktober til desember 2024 sammen med OLagoons produktteam og en forsker i dyrs biomekanikk fra University of Queensland med å designe et brett optimalisert for balansetrening av hunder. De skapte en 12\' x 34" bred plattform med ultramyk EVA-dekkpolstring (8 mm mot standard 4 mm), kanter med lav profil for enkel ombordstigning for hunder og en sklisikker strukturert overflate testet på 14 hunderaser. Locky testet 30 hunder på 6 prototype-iterasjoner og utviklet en treningsprotokoll for hund-SUP i 5 trinn: trinn 1 (tilvenning til brettet på land), trinn 2 (statisk flyt), trinn 3 (padling sittende), trinn 4 (padling stående med sittende hund), trinn 5 (full padling med stående hund). OLagoon produserte 200 instruktørbrett med egendefinert «Blue Heeler»-grafikk med silhuetten av en australsk cattle dog.',
             },
             {
               title: 'Instruktørsertifisering og regelverk',
               detail:
-                'Locky og Afarer utviklet sammen en sertifisering for hund-SUP-instruktører i 3 nivåer: nivå 1 (40 timer online + praktisk helgeseminar), nivå 2 (10 dager avansert med vannredning), nivå 3 (14 dager hovedinstruktør). Læreplanen dekket hundeadferd i vann, førstehjelp for hunder, rasespesifikke treningsmetoder, australske forskrifter for vannsikkerhet, forsikringskrav og bedriftsetablering. Afarer finansierte produksjonen av 25 timer HD-videoinnhold filmet ved Noosa River og produserte en instruktørhåndbok på 200 sider. Locky lanserte sertifiseringsprogrammet i februar 2025 med et første kull på 24 kandidater — alle 24 besto nivå 1, og 18 fortsatte til nivå 2.',
+                'Locky og OLagoon utviklet sammen en sertifisering for hund-SUP-instruktører i 3 nivåer: nivå 1 (40 timer online + praktisk helgeseminar), nivå 2 (10 dager avansert med vannredning), nivå 3 (14 dager hovedinstruktør). Læreplanen dekket hundeadferd i vann, førstehjelp for hunder, rasespesifikke treningsmetoder, australske forskrifter for vannsikkerhet, forsikringskrav og bedriftsetablering. OLagoon finansierte produksjonen av 25 timer HD-videoinnhold filmet ved Noosa River og produserte en instruktørhåndbok på 200 sider. Locky lanserte sertifiseringsprogrammet i februar 2025 med et første kull på 24 kandidater — alle 24 besto nivå 1, og 18 fortsatte til nivå 2.',
             },
             {
               title: 'Utstyrsprogram, detaljhandelsdistribusjon og YouTube-lansering',
               detail:
-                "Merkevaren «Blue Heeler Expeditions» lanserte 4 detaljhandelsprodukter: «Blue» (12' instruktørbrett til 899 AUD), «Heeler» (10'6\" fritidsbrett for hunder til 649 AUD), en redningsvest spesifikt for hunder (89 AUD) og et treningstethersystem (39 AUD). Afarer produserte 1 000 enheter til den første detaljhandels- og instruktørpipelinen. Locky ga ut en YouTube-serie i 6 deler, «Paddle Paws», som dokumenterte treningsprotokollen — den første episoden fikk 2,1 mill. visninger på 2 uker. I løpet av 30 dager mottok Lockys nettsted 47 000 ordreforespørsler, og 340 australiere skrev seg på ventelisten for instruktørsertifisering.",
+                "Merkevaren «Blue Heeler Expeditions» lanserte 4 detaljhandelsprodukter: «Blue» (12' instruktørbrett til 899 AUD), «Heeler» (10'6\" fritidsbrett for hunder til 649 AUD), en redningsvest spesifikt for hunder (89 AUD) og et treningstethersystem (39 AUD). OLagoon produserte 1 000 enheter til den første detaljhandels- og instruktørpipelinen. Locky ga ut en YouTube-serie i 6 deler, «Paddle Paws», som dokumenterte treningsprotokollen — den første episoden fikk 2,1 mill. visninger på 2 uker. I løpet av 30 dager mottok Lockys nettsted 47 000 ordreforespørsler, og 340 australiere skrev seg på ventelisten for instruktørsertifisering.",
             },
             {
               title: 'Programskala, nasjonal utvidelse og internasjonale henvendelser',
               detail:
-                'Innen august 2025 hadde Blue Heeler Expeditions 85 sertifiserte instruktører i alle australske delstater (5 over 18-månedersmålet, oppnådd på 6 måneder). Instrukturene betalte 2 500 AUD for sertifisering på nivå 1 pluss 899 AUD for brett, som genererte 296 000 AUD i sertifiseringsinntekter. Locky solgte 1 400 detaljhandelsbrett til hundeeiere, 200 instruktørbrett til sertifiserte trenere og 3 400 redningsvester for hunder. Total programinntekt nådde 1,85 mill. AUD på 8 måneder (54 % over 18-månedersmålet på 1,2 mill. AUD). Locky mottok henvendelser fra 14 land og signerte en lisensavtale med en amerikansk partner om en nordamerikansk versjon. Afarer forpliktet seg til et eksklusivt globalt partnerskap over 3 år for produktlinjen for hund-SUP.',
+                'Innen august 2025 hadde Blue Heeler Expeditions 85 sertifiserte instruktører i alle australske delstater (5 over 18-månedersmålet, oppnådd på 6 måneder). Instrukturene betalte 2 500 AUD for sertifisering på nivå 1 pluss 899 AUD for brett, som genererte 296 000 AUD i sertifiseringsinntekter. Locky solgte 1 400 detaljhandelsbrett til hundeeiere, 200 instruktørbrett til sertifiserte trenere og 3 400 redningsvester for hunder. Total programinntekt nådde 1,85 mill. AUD på 8 måneder (54 % over 18-månedersmålet på 1,2 mill. AUD). Locky mottok henvendelser fra 14 land og signerte en lisensavtale med en amerikansk partner om en nordamerikansk versjon. OLagoon forpliktet seg til et eksklusivt globalt partnerskap over 3 år for produktlinjen for hund-SUP.',
             },
           ],
           results: [
@@ -4451,8 +4451,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor kjæledyreventyrmerkevarer velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor kjæledyreventyrmerkevarer velger OLagoon',
       items: [
         {
           title: 'Kjæledyrsikkerhet',
@@ -4496,26 +4496,26 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan kjæledyrmerkevarer tilpasse SUP-brett med egen logo og farger?',
         answer:
-          'Absolutt. Afarer tilbyr full merkevaretilpasning, inkludert logoplassering, egendefinert fargematching, grafisk design og emballasje med merkevare. Vi støtter også kolleksjoner i begrenset opplag for kjæledyrinfluensere og sesonglanseringer.',
+          'Absolutt. OLagoon tilbyr full merkevaretilpasning, inkludert logoplassering, egendefinert fargematching, grafisk design og emballasje med merkevare. Vi støtter også kolleksjoner i begrenset opplag for kjæledyrinfluensere og sesonglanseringer.',
       },
       {
         question: 'Hvilken brettstørrelse anbefales for padling med hund?',
         answer:
-          'For padling med hunder anbefales bredere brett med større dekkflater. Afarers kjæledyrvennlige design har økt brettbredde og lange aktivitetsflater over hele dekket som gir plass til små, mellomstore og store hunder, samtidig som stabiliteten opprettholdes.',
+          'For padling med hunder anbefales bredere brett med større dekkflater. OLagoons kjæledyrvennlige design har økt brettbredde og lange aktivitetsflater over hele dekket som gir plass til små, mellomstore og store hunder, samtidig som stabiliteten opprettholdes.',
       },
       {
         question: 'Tilbyr dere komplette kjæledyr-SUP-pakker med tilbehør?',
         answer:
-          'Ja, Afarer tilbyr standard kjæledyr-SUP-pakker med brett, padleåre, pumpe, leash, bæretaske og reperasjonssett, i tillegg til premium hundeeventyrpakker med sikkerhetstilbehør for kjæledyr og reisekjæledyrpakker optimalisert for bilturer og camping.',
+          'Ja, OLagoon tilbyr standard kjæledyr-SUP-pakker med brett, padleåre, pumpe, leash, bæretaske og reperasjonssett, i tillegg til premium hundeeventyrpakker med sikkerhetstilbehør for kjæledyr og reisekjæledyrpakker optimalisert for bilturer og camping.',
       },
       {
         question: 'Hva er minstebestillingen for egendefinerte kjæledyrvennlige SUP-brett?',
         answer:
-          'Afarer samarbeider med kjæledyrmerkevarer i alle størrelser. Minstebestillinger kan struktureres etter merkevarens fase, fra lanseringer i små opplag i begrenset utgave for kjæledyrinfluensere til fullskalaproduksjon for etablerte friluftsmerkevarer for kjæledyr.',
+          'OLagoon samarbeider med kjæledyrmerkevarer i alle størrelser. Minstebestillinger kan struktureres etter merkevarens fase, fra lanseringer i små opplag i begrenset utgave for kjæledyrinfluensere til fullskalaproduksjon for etablerte friluftsmerkevarer for kjæledyr.',
       },
     ],
     cta: {
-      title: 'Skap kjæledyreventyr-SUP-merkevaren din med Afarer',
+      title: 'Skap kjæledyreventyr-SUP-merkevaren din med OLagoon',
       subtitle: 'Fremtiden for kjæledyrprodukter er ikke bare innendørs. Den er utendørs.',
       primaryAction: {
         text: 'Start ditt kjæledyrvennlige SUP-prosjekt i dag',
@@ -4530,7 +4530,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsent av luksuriøse skreddersydde SUP-er | {SITE}',
       description:
-        'Afarer lager premium skreddersydde SUP-kolleksjoner for private øyer, yachtklubber, luksusresorter og eksklusive livsstilsmerker. Eksklusivt design, luksusmaterialer, VIP-tilpasning og boutique-OEM-produksjon.',
+        'OLagoon lager premium skreddersydde SUP-kolleksjoner for private øyer, yachtklubber, luksusresorter og eksklusive livsstilsmerker. Eksklusivt design, luksusmaterialer, VIP-tilpasning og boutique-OEM-produksjon.',
     },
     hero: {
       tagline: 'Eksklusive luksus-SUP-løsninger for private øyer, yachtklubber og elite livsstilsdestinasjoner',
@@ -4571,7 +4571,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Eksklusivt luksuriøst SUP-design',
           description:
-            'Afarer støtter full estetisk tilpasning med utvikling av egendefinerte farger, merkevarespesifikke toner og design som matcher resorten. Stiler inkluderer Ocean Luxury med dyp marineblå og perlehvit, Tropical Island med naturlige toner og Modern Yacht med minimalistiske farger og premium finish.',
+            'OLagoon støtter full estetisk tilpasning med utvikling av egendefinerte farger, merkevarespesifikke toner og design som matcher resorten. Stiler inkluderer Ocean Luxury med dyp marineblå og perlehvit, Tropical Island med naturlige toner og Modern Yacht med minimalistiske farger og premium finish.',
         },
         {
           title: 'Valg av premiummaterialer og finish',
@@ -4658,17 +4658,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Skreddersydd designsamarbeid og materialvalg',
               detail:
-                'I august 2024 engasjerte Voss Afarers egendefinerte avdeling med et detaljert oppdrag: brettene måtte matche resortets fargepalett «Ocean Sand» (varm beige, kullgrå, blekrosa og turkis) med et dekke med pussetekstur som matchet gulvbelegget i villene. Afarers designteam utviklet 14 fargeprototypevarianter i løpet av 6 uker og landet på en 5-lags fusion drop stitch-kjerne med UV-stabilisert matt PVC-hud. Hvert brett fikk en håndmalt gullbladlogo — bladmotivet i Coco-logoen — påført av en balinesisk håndverker, noe som tok 4 timer per brett. Bestillingen på 30 brett (25 Explorer 11\'6" X, 5 12\'6" touring) kom på totalt 87 000 USD.',
+                'I august 2024 engasjerte Voss OLagoons egendefinerte avdeling med et detaljert oppdrag: brettene måtte matche resortets fargepalett «Ocean Sand» (varm beige, kullgrå, blekrosa og turkis) med et dekke med pussetekstur som matchet gulvbelegget i villene. OLagoons designteam utviklet 14 fargeprototypevarianter i løpet av 6 uker og landet på en 5-lags fusion drop stitch-kjerne med UV-stabilisert matt PVC-hud. Hvert brett fikk en håndmalt gullbladlogo — bladmotivet i Coco-logoen — påført av en balinesisk håndverker, noe som tok 4 timer per brett. Bestillingen på 30 brett (25 Explorer 11\'6" X, 5 12\'6" touring) kom på totalt 87 000 USD.',
             },
             {
               title: 'Steg 2: Integrasjon av flytende brygge og lagringsarkitektur',
               detail:
-                'Voss samarbeidet med Afarers marinearkitekter om å designe et flytende system for betjent bretthåndtering på to nivåer. Det nedre nivået rommet 15 brett med nesen ut for umiddelbar gjestetilgang; det øvre nivået lagret 15 brett i egendefinerte neoprenstropper for å hindre UV-forringelse. Bryggen, bygget i Phuket og fraktet i modulære seksjoner, kostet 42 000 USD inkludert installasjon. Hvert brett ble NFC-merket med en vanntett brikke koblet til resortets RMS for automatisert innsjekk og utsjekk, noe som reduserte bemanningen med 3,2 timer per dag sammenlignet med det tidligere papirbaserte manifestsysten.',
+                'Voss samarbeidet med OLagoons marinearkitekter om å designe et flytende system for betjent bretthåndtering på to nivåer. Det nedre nivået rommet 15 brett med nesen ut for umiddelbar gjestetilgang; det øvre nivået lagret 15 brett i egendefinerte neoprenstropper for å hindre UV-forringelse. Bryggen, bygget i Phuket og fraktet i modulære seksjoner, kostet 42 000 USD inkludert installasjon. Hvert brett ble NFC-merket med en vanntett brikke koblet til resortets RMS for automatisert innsjekk og utsjekk, noe som reduserte bemanningen med 3,2 timer per dag sammenlignet med det tidligere papirbaserte manifestsysten.',
             },
             {
               title: 'Steg 3: Opplæring av butlere og integrasjon med concierge',
               detail:
-                'I november 2024 gjennomførte Afarers opplæringsteam et 4-dagers intensivprogram for 8 resortbutlere og 4 ansatte i dykkesenteret på Coco Private Island. Opplæringen dekket SUP-etikette for meget velstående gjester (lydløs sjøsetting, fruktserving ved brettet, GoPro-festepunkter). Hver butler fullførte 15 overvåkede gjesteøkter. Voss integrerte SUP-reservasjonen i villaenes concierge-app for tiden før ankomst, slik at gjestene kunne forhåndsvelge brettfarge og planlegge ruter for soloppgang, lagune og rev. Andelen som tok det i bruk, nådde 28 % i løpet av de første 2 månedene.',
+                'I november 2024 gjennomførte OLagoons opplæringsteam et 4-dagers intensivprogram for 8 resortbutlere og 4 ansatte i dykkesenteret på Coco Private Island. Opplæringen dekket SUP-etikette for meget velstående gjester (lydløs sjøsetting, fruktserving ved brettet, GoPro-festepunkter). Hver butler fullførte 15 overvåkede gjesteøkter. Voss integrerte SUP-reservasjonen i villaenes concierge-app for tiden før ankomst, slik at gjestene kunne forhåndsvelge brettfarge og planlegge ruter for soloppgang, lagune og rev. Andelen som tok det i bruk, nådde 28 % i løpet av de første 2 månedene.',
             },
             {
               title: 'Steg 4: Influenserlansering og målt avkastning på sosial kapital',
@@ -4696,22 +4696,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Kunstnerisk mønsteroverføring og materialinnovasjon',
               detail:
-                'Fra februar 2025 tilbrakte Afarers FoU-team og Verlaines atelier 10 uker på å utvikle en sublimeringsprosess direkte på PVC som kunne gjengi Verlaines 14-fargede «Geometrica»-mønster i 1 200 DPI uten fargesvig eller strekkforvrengning. Etter 18 mislykkede prøver (mønsteret bølget rundt kantkurven) skapte Afarers ingeniører en 7-delt stanset mal som tillot fortrykk på flate PVC-ark før fusjonslaminering. Hvert brett krevde 11,5 timer produksjonstid (mot 3 timer for standardbrett). Den endelige overflaten fikk et matt antisklibelegg utviklet eksklusivt for Verlaine.',
+                'Fra februar 2025 tilbrakte OLagoons FoU-team og Verlaines atelier 10 uker på å utvikle en sublimeringsprosess direkte på PVC som kunne gjengi Verlaines 14-fargede «Geometrica»-mønster i 1 200 DPI uten fargesvig eller strekkforvrengning. Etter 18 mislykkede prøver (mønsteret bølget rundt kantkurven) skapte OLagoons ingeniører en 7-delt stanset mal som tillot fortrykk på flate PVC-ark før fusjonslaminering. Hvert brett krevde 11,5 timer produksjonstid (mot 3 timer for standardbrett). Den endelige overflaten fikk et matt antisklibelegg utviklet eksklusivt for Verlaine.',
             },
             {
               title: 'Steg 2: Strategi for emballasje, utpakking og detaljhandelspresentasjon',
               detail:
-                'Rinaldi insisterte på en utpakningsopplevelse i flaggskipklassen. Afarer samarbeidet med Verlaines emballasjedesignere om å skape et stivt reiseetui kledd i Verlaines kjennetegnende ecru-canvas med lærbeskyttere i hjørnene (produsert av Verlaines eget skinnvaraverksted i Toscana). Etuiet rommet SUP-en, en 3-delt padleåre i karbonfiber med Verlaine-monogram, en egendefinert pumpe med trykkmåler gravert med Geometrica-motivet og en nummerert ekthetsattest i en konvolutt med foliestempling. Totale emballasjekostnader per enhet var 340 EUR. Det komplette settet veide 26 kg — lett nok til innsjekk på førsteklasseflyreiser.',
+                'Rinaldi insisterte på en utpakningsopplevelse i flaggskipklassen. OLagoon samarbeidet med Verlaines emballasjedesignere om å skape et stivt reiseetui kledd i Verlaines kjennetegnende ecru-canvas med lærbeskyttere i hjørnene (produsert av Verlaines eget skinnvaraverksted i Toscana). Etuiet rommet SUP-en, en 3-delt padleåre i karbonfiber med Verlaine-monogram, en egendefinert pumpe med trykkmåler gravert med Geometrica-motivet og en nummerert ekthetsattest i en konvolutt med foliestempling. Totale emballasjekostnader per enhet var 340 EUR. Det komplette settet veide 26 kg — lett nok til innsjekk på førsteklasseflyreiser.',
             },
             {
               title: 'Steg 3: Forhåndsvisning for VIP-kunder og salg kun på avtale',
               detail:
-                'Kolleksjonen ble lansert 8. mai 2025 under Milan Design Week med en privat forhåndsvisning kun på avtale i Verlaines flaggskipbutikk i Via Monte Napoleone. Bare 200 kunder fikk pregede invitasjoner. Hver 45-minutters avtale omfattet en live SUP-demonstrasjon i et spesialbygd basseng på 40 000 liter installert i butikkens gårdsplass, med Afarers merkevareambassadør som demonstrerte brettets stivhet (oppblåst til 18 PSI med Verlaine-merket pumpe). 127 enheter ble forhåndsbestilt i løpet av Design Week, som genererte 1,62 mill. EUR i depositum. Rinaldi begrenset promoteringen i sosiale medier til Verlaines private WhatsApp-kanaler for kunder.',
+                'Kolleksjonen ble lansert 8. mai 2025 under Milan Design Week med en privat forhåndsvisning kun på avtale i Verlaines flaggskipbutikk i Via Monte Napoleone. Bare 200 kunder fikk pregede invitasjoner. Hver 45-minutters avtale omfattet en live SUP-demonstrasjon i et spesialbygd basseng på 40 000 liter installert i butikkens gårdsplass, med OLagoons merkevareambassadør som demonstrerte brettets stivhet (oppblåst til 18 PSI med Verlaine-merket pumpe). 127 enheter ble forhåndsbestilt i løpet av Design Week, som genererte 1,62 mill. EUR i depositum. Rinaldi begrenset promoteringen i sosiale medier til Verlaines private WhatsApp-kanaler for kunder.',
             },
             {
               title: 'Steg 4: Global ekspedisjon, concierglevering og utsolgt-resultat',
               detail:
-                'Bestillingene ble sendt fra juni 2025, med premiumlevering med full service til 34 land. Hver levering omfattet en 90-minutters virtuell økt med en Afarer-instruktør personlig presentert for kunden via WhatsApp-video. Innen november 2025 var 468 av 500 enheter solgt (93,6 % utsolgt), som genererte 5,85 mill. EUR i omsetning til full pris uten rabatter. De resterende 32 enhetene ble holdt tilbake til Verlaines arkivkolleksjon. Rinaldi rapporterte at 41 % av kjøperne var nye for Verlaine — vervet gjennom SUP-kolleksjonen — med et gjennomsnittlig ekstra forbruk på 3 200 EUR på konfeksjon under kjøpsavtalen.',
+                'Bestillingene ble sendt fra juni 2025, med premiumlevering med full service til 34 land. Hver levering omfattet en 90-minutters virtuell økt med en OLagoon-instruktør personlig presentert for kunden via WhatsApp-video. Innen november 2025 var 468 av 500 enheter solgt (93,6 % utsolgt), som genererte 5,85 mill. EUR i omsetning til full pris uten rabatter. De resterende 32 enhetene ble holdt tilbake til Verlaines arkivkolleksjon. Rinaldi rapporterte at 41 % av kjøperne var nye for Verlaine — vervet gjennom SUP-kolleksjonen — med et gjennomsnittlig ekstra forbruk på 3 200 EUR på konfeksjon under kjøpsavtalen.',
             },
           ],
           results: [
@@ -4723,8 +4723,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor luksuskunder velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor luksuskunder velger OLagoon',
       items: [
         {
           title: 'Designforståelse',
@@ -4752,38 +4752,38 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvilke tilpasningsmuligheter finnes for luksuriøse SUP-kolleksjoner?',
         answer:
-          'Afarer tilbyr full tilpasning, inkludert utvikling av egendefinerte farger, merkevarespesifikke toner, elegante mønstre, merkevaresymboler, signaturkunst, PVC-konstruksjon i premiumklasse, egendefinerte EVA-teksturer på dekket, raffinert beslag og personalisert emballasje.',
+          'OLagoon tilbyr full tilpasning, inkludert utvikling av egendefinerte farger, merkevarespesifikke toner, elegante mønstre, merkevaresymboler, signaturkunst, PVC-konstruksjon i premiumklasse, egendefinerte EVA-teksturer på dekket, raffinert beslag og personalisert emballasje.',
       },
       {
         question: 'Hva er minstebestillingen for produksjon av premium egendefinerte SUP?',
         answer:
-          'Afarer er spesialist på luksusproduksjon i små partier, med typiske prosjekter fra 10 til 50 sett. Dette gjør det ideelt for eiere av private øyer, yachtklubber, luksusresorter og eksklusive livsstilsmerkevarer.',
+          'OLagoon er spesialist på luksusproduksjon i små partier, med typiske prosjekter fra 10 til 50 sett. Dette gjør det ideelt for eiere av private øyer, yachtklubber, luksusresorter og eksklusive livsstilsmerkevarer.',
       },
       {
         question: 'Hvor lang tid tar design- og produksjonsprosessen for en egendefinert SUP-kolleksjon?',
         answer:
-          'Tidslinjen avhenger av kompleksitet og tilpasningsnivå. Afarer samarbeider tett med hver kunde fra konseptutvikling til produksjon, og fullfører typisk luksuskolleksjoner innen en tidsramme som møter prosjektets krav og sesongbehov.',
+          'Tidslinjen avhenger av kompleksitet og tilpasningsnivå. OLagoon samarbeider tett med hver kunde fra konseptutvikling til produksjon, og fullfører typisk luksuskolleksjoner innen en tidsramme som møter prosjektets krav og sesongbehov.',
       },
       {
         question: 'Kan SUP-brett designes for å matche eksisterende eiendomsprofilering og estetikk?',
         answer:
-          'Ja, Afarer er spesialist på å skape kolleksjoner som smidig integreres med eiendommens estetikk. Vi kan matche eksisterende merkevarefarger, arkitektoniske temaer og interiørdesignelementer for et sammenhengende luksusmiljø.',
+          'Ja, OLagoon er spesialist på å skape kolleksjoner som smidig integreres med eiendommens estetikk. Vi kan matche eksisterende merkevarefarger, arkitektoniske temaer og interiørdesignelementer for et sammenhengende luksusmiljø.',
       },
       {
         question: 'Hvilke materialer brukes til SUP-brett i luksusklasse?',
         answer:
-          'Afarer bruker PVC-konstruksjon i premiumklasse for elegant utseende og holdbarhet, EVA-dekkmaterialer i høy klasse med egendefinerte teksturer og farger, og raffinerte metallkomponenter i premiumklasse til beslag — alle valgt for sin estetiske kvalitet og ytelse i marin klasse.',
+          'OLagoon bruker PVC-konstruksjon i premiumklasse for elegant utseende og holdbarhet, EVA-dekkmaterialer i høy klasse med egendefinerte teksturer og farger, og raffinerte metallkomponenter i premiumklasse til beslag — alle valgt for sin estetiske kvalitet og ytelse i marin klasse.',
       },
       {
         question: 'Tilbyr dere egendefinert emballasje for VIP-SUP-kolleksjoner?',
         answer:
-          'Ja, Afarer tilbyr egendefinert VIP-emballasje, inkludert merkede presentasjonsesker, luksuriøse oppbevaringsposer, personlige etiketter og presentasjon i begrenset utgave. Utpakningsopplevelsen er designet for å matche produktets egen eksklusivitet.',
+          'Ja, OLagoon tilbyr egendefinert VIP-emballasje, inkludert merkede presentasjonsesker, luksuriøse oppbevaringsposer, personlige etiketter og presentasjon i begrenset utgave. Utpakningsopplevelsen er designet for å matche produktets egen eksklusivitet.',
       },
     ],
     cta: {
-      title: 'Skap din eksklusive kolleksjon for vannlivsstil med Afarer',
+      title: 'Skap din eksklusive kolleksjon for vannlivsstil med OLagoon',
       subtitle:
-        'Eiendommen din er unik. Utstyret ditt bør også være unikt. La Afarer hjelpe deg med å lage en signatur-SUP-kolleksjon.',
+        'Eiendommen din er unik. Utstyret ditt bør også være unikt. La OLagoon hjelpe deg med å lage en signatur-SUP-kolleksjon.',
       primaryAction: {
         text: 'Start prosjektet ditt',
       },
@@ -4797,7 +4797,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsent av SUP-er for vannredning | {SITE}',
       description:
-        'Afarer tilbyr profesjonelle vannrednings-SUP-systemer for bademestere, beredskapsteam og sikkerhetsorganisasjoner. Redningsboards med høy kapasitet, design med flere håndtak, tauesystemer og skreddersydde OEM-løsninger.',
+        'OLagoon tilbyr profesjonelle vannrednings-SUP-systemer for bademestere, beredskapsteam og sikkerhetsorganisasjoner. Redningsboards med høy kapasitet, design med flere håndtak, tauesystemer og skreddersydde OEM-løsninger.',
     },
     hero: {
       tagline: 'Avanserte rednings-SUP-løsninger for livreddere, beredskapsteam og organisasjoner for vannsikkerhet',
@@ -4928,7 +4928,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Redningsspesifikt SUP-design og medisinsk integrering',
               detail:
-                'Fra januar til april 2025 arbeidet Tran med Afarers marineindustridivisjon med å designe RescuePro 12\'6" XR. Brettet har en bredde på 34" for stabilitet ved lav fart, 6" tykk PVC i militærkvalitet (1 200 denier, testet til 25 PSI) og et flatt dekk uten rocker for ensartet montering av utstyr. Afarer integrerte 12 D-ringer i rustfritt stål i en forut/akter-konfigurasjon for bungee-sikrede medisinpods (førstehjelp, hjertestarter, oksygen). Brettet har en neongul synlighetsstripe med reflekterende tape i SOLAS-kvalitet og en tauklyne i baugen testet til 400 kg linjetrekk. Etter 14 dager med bølgetanktester ved University of Queensland ble den endelige designen godkjent med en toppfart på 7,5 knop med last (110 kg padler + 30 kg utstyr).',
+                'Fra januar til april 2025 arbeidet Tran med OLagoons marineindustridivisjon med å designe RescuePro 12\'6" XR. Brettet har en bredde på 34" for stabilitet ved lav fart, 6" tykk PVC i militærkvalitet (1 200 denier, testet til 25 PSI) og et flatt dekk uten rocker for ensartet montering av utstyr. OLagoon integrerte 12 D-ringer i rustfritt stål i en forut/akter-konfigurasjon for bungee-sikrede medisinpods (førstehjelp, hjertestarter, oksygen). Brettet har en neongul synlighetsstripe med reflekterende tape i SOLAS-kvalitet og en tauklyne i baugen testet til 400 kg linjetrekk. Etter 14 dager med bølgetanktester ved University of Queensland ble den endelige designen godkjent med en toppfart på 7,5 knop med last (110 kg padler + 30 kg utstyr).',
             },
             {
               title: 'Steg 2: Klubbfordeling, oppbevaringsstativ og hurtigutsettingssystem',
@@ -4938,12 +4938,12 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 3: SUP-redningssertifisering for livreddere og surferdighetstesting',
               detail:
-                'I august 2025 (opplæringsperioden før sommeren) gjennomførte Afarers redningsopplæringsavdeling en 40-timers «SUP Rescue Operator»-sertifisering for 82 seniorlivreddere på 5 regionale knutepunkter. Kurset dekket padlebasert tauing av bevisstløse personer (100 m tauing på under 3 min), teknikker for inn- og utgang fra surfsonen med utstyr, bruk av hjertestarter på en ustabil plattform og ryggimmobilisering på brettet (ortopediske krager ble påsatt samtidig som brettets stabilitet ble opprettholdt). Hver kandidat besto en praktisk eksamen med 200 m padling frem til en person i nød, simulert redning av en bevisstløs person med berging av utstyr og retur til land, alt sammen innen 7 minutter. Beståelsesraten var 89 % (73 av 82). Kandidater som ikke besto, ble omplassert til sekundære roller.',
+                'I august 2025 (opplæringsperioden før sommeren) gjennomførte OLagoons redningsopplæringsavdeling en 40-timers «SUP Rescue Operator»-sertifisering for 82 seniorlivreddere på 5 regionale knutepunkter. Kurset dekket padlebasert tauing av bevisstløse personer (100 m tauing på under 3 min), teknikker for inn- og utgang fra surfsonen med utstyr, bruk av hjertestarter på en ustabil plattform og ryggimmobilisering på brettet (ortopediske krager ble påsatt samtidig som brettets stabilitet ble opprettholdt). Hver kandidat besto en praktisk eksamen med 200 m padling frem til en person i nød, simulert redning av en bevisstløs person med berging av utstyr og retur til land, alt sammen innen 7 minutter. Beståelsesraten var 89 % (73 av 82). Kandidater som ikke besto, ble omplassert til sekundære roller.',
             },
             {
               title: 'Steg 4: Utrulling i sommersesongen og data om redningsytelse',
               detail:
-                'SUP-redningsflåten ble aktivert 1. oktober 2025 i alle 11 klubbene til den australske sommeren. Per 31. mars 2026 (sesongen på 6 måneder) hadde SLSQ registrert 347 SUP-assisterte redninger mot 512 IRB-redninger, som utgjorde 40,4 % av alle redninger i vannet. Gjennomsnittlig utsettingstid for SUP var 47 sekunder (mot 4 min 20 sek for IRB). Den raskeste redningen tok 22 sekunder og gjaldt et barn på 9 år fanget i en ripestrøm 80 m fra land ved Surfers Paradise. Suksessraten for SUP-redninger var 99,1 % (344 vellykkede, 3 tilfeller krevde ytterligere IRB-backup). Tran rapporterte 0 propellskader, 0 brettfeil og 2 brettreparasjoner (delaminerte finnebokser, begge reparert innen 48 timer av Afarers hurtigreparasjonstjeneste). SLSQ bestilte 18 ekstra RescuePro-brett til utrullingen i klubbene i North Queensland i sesongen 2026–27.',
+                'SUP-redningsflåten ble aktivert 1. oktober 2025 i alle 11 klubbene til den australske sommeren. Per 31. mars 2026 (sesongen på 6 måneder) hadde SLSQ registrert 347 SUP-assisterte redninger mot 512 IRB-redninger, som utgjorde 40,4 % av alle redninger i vannet. Gjennomsnittlig utsettingstid for SUP var 47 sekunder (mot 4 min 20 sek for IRB). Den raskeste redningen tok 22 sekunder og gjaldt et barn på 9 år fanget i en ripestrøm 80 m fra land ved Surfers Paradise. Suksessraten for SUP-redninger var 99,1 % (344 vellykkede, 3 tilfeller krevde ytterligere IRB-backup). Tran rapporterte 0 propellskader, 0 brettfeil og 2 brettreparasjoner (delaminerte finnebokser, begge reparert innen 48 timer av OLagoons hurtigreparasjonstjeneste). SLSQ bestilte 18 ekstra RescuePro-brett til utrullingen i klubbene i North Queensland i sesongen 2026–27.',
             },
           ],
           results: [
@@ -4966,7 +4966,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Shorebreak-spesifikt SUP-design og integrering av traumeutstyr',
               detail:
-                'Fra mars til juni 2025 arbeidet Rodriguez med Afarers redningsavdeling med å tilpasse RescuePro 12\'6" XR til shorebreak-forholdene på vestkysten. Endringene omfattet en baug med rocker (2,5" heving) for gjennomslagskraft i hule 1–3 fots bølger, en finnebokskonfigurasjon med quad-finner for manøvrering i trang surf og en slepering i baugen for festing av redningssvømmer. Medisinpoden ble utstyrt med et traumeutstyr av typen North American Rescue M9 (turniquet, brystforsegling, hemostatisk gasbind), en hjertestarter av typen Phillips HeartStart FRx og en Ferno KED-enhet for ryggimmobilisering. NBFDs marinavdeling testet 4 prototyper i 12 treningsøkter ved the Wedge før den endelige designen ble godkjent.',
+                'Fra mars til juni 2025 arbeidet Rodriguez med OLagoons redningsavdeling med å tilpasse RescuePro 12\'6" XR til shorebreak-forholdene på vestkysten. Endringene omfattet en baug med rocker (2,5" heving) for gjennomslagskraft i hule 1–3 fots bølger, en finnebokskonfigurasjon med quad-finner for manøvrering i trang surf og en slepering i baugen for festing av redningssvømmer. Medisinpoden ble utstyrt med et traumeutstyr av typen North American Rescue M9 (turniquet, brystforsegling, hemostatisk gasbind), en hjertestarter av typen Phillips HeartStart FRx og en Ferno KED-enhet for ryggimmobilisering. NBFDs marinavdeling testet 4 prototyper i 12 treningsøkter ved the Wedge før den endelige designen ble godkjent.',
             },
             {
               title: 'Steg 2: Stasjonsutrulling, oppbevaring og protokoller for hurtigrespons',
@@ -4976,7 +4976,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 3: NBFD-spesifikk sertifisering i SUP-redning og realistiske øvelser',
               detail:
-                'Over 5 dager i juli 2025 gjennomførte Afarers hovedredningstrener sertifisering på stranden for 18 offiserer fra NBFDs marine sikkerhetsavdeling. Kurset var tilpasset vestkystforhold med duck-dive gjennom shorebreak på et SUP, redningsuttak med strandstart (draging av den nødstedte opp på brettet i brennende bølger) og scenariokoordinering med NBFDs Bell 412-helikopter. Rodriguez krevde at alle 18 offiserene besto et avsluttende scenario med lokalisering av en simulert nødsted person (en 80 kg dukke) 150 m utenfor the Wedge i 2–3 fots surf, ryggimmobilisering i vannet og retur til stranden, alt sammen innen 8 minutter. Beståelsesraten var 100 % med en median fullføringstid på 6 minutter og 12 sekunder.',
+                'Over 5 dager i juli 2025 gjennomførte OLagoons hovedredningstrener sertifisering på stranden for 18 offiserer fra NBFDs marine sikkerhetsavdeling. Kurset var tilpasset vestkystforhold med duck-dive gjennom shorebreak på et SUP, redningsuttak med strandstart (draging av den nødstedte opp på brettet i brennende bølger) og scenariokoordinering med NBFDs Bell 412-helikopter. Rodriguez krevde at alle 18 offiserene besto et avsluttende scenario med lokalisering av en simulert nødsted person (en 80 kg dukke) 150 m utenfor the Wedge i 2–3 fots surf, ryggimmobilisering i vannet og retur til stranden, alt sammen innen 8 minutter. Beståelsesraten var 100 % med en median fullføringstid på 6 minutter og 12 sekunder.',
             },
             {
               title: 'Steg 4: Aktivering 1. september 2025 og beredskapsstatistikk',
@@ -4993,8 +4993,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor redningsorganisasjoner velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor redningsorganisasjoner velger OLagoon',
       items: [
         {
           title: 'Sikkerhet først',
@@ -5020,24 +5020,24 @@ const no: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Hvor mye last kan Afarers rednings-SUP-brett bære?',
+        question: 'Hvor mye last kan OLagoons rednings-SUP-brett bære?',
         answer:
-          'Afarers rednings-SUP-brett har ekstremt høy lastekapasitet og er designet for samtidig å bære en redder, en nødsted person, redningsutstyr og medisinsk utstyr. Den ekstra brede redningsplattformen gir økt stabilitet og et større arbeidsområde for trygg hjelp til pasienten.',
+          'OLagoons rednings-SUP-brett har ekstremt høy lastekapasitet og er designet for samtidig å bære en redder, en nødsted person, redningsutstyr og medisinsk utstyr. Den ekstra brede redningsplattformen gir økt stabilitet og et større arbeidsområde for trygg hjelp til pasienten.',
       },
       {
-        question: 'Hva skiller Afarers rednings-SUP-brett fra vanlige padlebrett?',
+        question: 'Hva skiller OLagoons rednings-SUP-brett fra vanlige padlebrett?',
         answer:
-          'Afarers redningsbrett er konstruert spesielt for nødoperasjoner, med plattformer med høy kapasitet, flere redningshåndtak, forsterkede slepesystemer med D-ringer, høytsynlige farger, reflekterende elementer, slitesterke materialer og kraftig sømteknologi — funksjoner man ikke finner på fritidsprodukter.',
+          'OLagoons redningsbrett er konstruert spesielt for nødoperasjoner, med plattformer med høy kapasitet, flere redningshåndtak, forsterkede slepesystemer med D-ringer, høytsynlige farger, reflekterende elementer, slitesterke materialer og kraftig sømteknologi — funksjoner man ikke finner på fritidsprodukter.',
       },
       {
         question: 'Hvilke fargealternativer finnes for rednings-SUP-brett?',
         answer:
-          'Afarer tilbyr profesjonelle redningsfarger, blant annet redningsgul, sikkerhetsoransje og nødrød. Alle alternativene kan kombineres med reflekterende sikkerhetselementer for sikt i svakt lys og om natten, i tillegg til teamlogoer og etatsmerker.',
+          'OLagoon tilbyr profesjonelle redningsfarger, blant annet redningsgul, sikkerhetsoransje og nødrød. Alle alternativene kan kombineres med reflekterende sikkerhetselementer for sikt i svakt lys og om natten, i tillegg til teamlogoer og etatsmerker.',
       },
       {
         question: 'Kan rednings-SUP-brett tilpasses med teamets logo og merking?',
         answer:
-          'Ja, Afarer støtter full profilering av redningsorganisasjonen, inkludert teamlogoer, etatsidentitet, sikkerhetsmerking og egendefinerte fargevalg. Dette styrker det profesjonelle uttrykket og gjør utstyret lett å identifisere ved operasjoner med flere etater.',
+          'Ja, OLagoon støtter full profilering av redningsorganisasjonen, inkludert teamlogoer, etatsidentitet, sikkerhetsmerking og egendefinerte fargevalg. Dette styrker det profesjonelle uttrykket og gjør utstyret lett å identifisere ved operasjoner med flere etater.',
       },
       {
         question: 'Hva inngår i en profesjonell rednings-SUP-pakke?',
@@ -5047,13 +5047,13 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvordan vedlikeholdes og oppbevares rednings-SUP-brett?',
         answer:
-          'Afarers redningsbrett er designet for enkelt vedlikehold, med holdbare materialer som tåler hyppig bruk og utendørs oppbevaring. Ettersom de er oppustelige, pakkes de kompakt for transport og oppbevaring. Vi leverer vedlikeholdsveiledning, inspeksjonsprosedyrer og reservedeler for langsiktig pålitelighet.',
+          'OLagoons redningsbrett er designet for enkelt vedlikehold, med holdbare materialer som tåler hyppig bruk og utendørs oppbevaring. Ettersom de er oppustelige, pakkes de kompakt for transport og oppbevaring. Vi leverer vedlikeholdsveiledning, inspeksjonsprosedyrer og reservedeler for langsiktig pålitelighet.',
       },
     ],
     cta: {
-      title: 'Bygg ditt profesjonelle vannredningssystem med Afarer',
+      title: 'Bygg ditt profesjonelle vannredningssystem med OLagoon',
       subtitle:
-        'Hvert redningsoppdrag krever tillit. Afarer hjelper livredderteam, redningsorganisasjoner, opplæringsinstitusjoner og beredskapsetater med å bygge pålitelige systemer for vannsikkerhetsutstyr.',
+        'Hvert redningsoppdrag krever tillit. OLagoon hjelper livredderteam, redningsorganisasjoner, opplæringsinstitusjoner og beredskapsetater med å bygge pålitelige systemer for vannsikkerhetsutstyr.',
       primaryAction: {
         text: 'Start prosjektet ditt',
       },
@@ -5067,7 +5067,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Leverandør for SUP-distributører | Bulk-OEM-paddleboardprodusent | {SITE}',
       description:
-        'Afarer inngår partnerskap med globale SUP-distributører og importører gjennom bulk-OEM-produksjon, private label-løsninger, regional markedsstøtte og pålitelig leverandkjedestyring.',
+        'OLagoon inngår partnerskap med globale SUP-distributører og importører gjennom bulk-OEM-produksjon, private label-løsninger, regional markedsstøtte og pålitelig leverandkjedestyring.',
     },
     hero: {
       tagline: 'Regional OEM- og forsyningskjedepartner™',
@@ -5108,13 +5108,13 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'OEM-produksjonskapasitet i stor skala',
           description:
-            'Afarer støtter mellomstore bestillinger, containerforsendelser og årlige leveranseavtaler på tvers av tre samarbeidsfaser: markedstesting (1 000–3 000 enheter), regional utvidelse (5 000–10 000 enheter) og stor distributørskala (10 000–20 000+ enheter).',
+            'OLagoon støtter mellomstore bestillinger, containerforsendelser og årlige leveranseavtaler på tvers av tre samarbeidsfaser: markedstesting (1 000–3 000 enheter), regional utvidelse (5 000–10 000 enheter) og stor distributørskala (10 000–20 000+ enheter).',
           features: ['Fase for markedstesting', 'Fase for regional utvidelse', 'Fase for stor distributør'],
         },
         {
           title: 'Eksklusiv utvikling av OEM-merkevare',
           description:
-            'Afarer støtter distributører som vil utover ren import, ved å lage private label-merkevarer med egendefinert posisjonering, produktutvalg, grafisk design, emballasje og eksklusive produktkolleksjoner.',
+            'OLagoon støtter distributører som vil utover ren import, ved å lage private label-merkevarer med egendefinert posisjonering, produktutvalg, grafisk design, emballasje og eksklusive produktkolleksjoner.',
           features: [
             'Utvikling av private label',
             'Eksklusive produktkolleksjoner',
@@ -5124,19 +5124,19 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Program for regional markedsbeskyttelse',
           description:
-            'For kvalifiserte partnere tilbyr Afarer områdesamarbeid basert på markedsstørrelse og engasjement, produktdifferensiering gjennom eksklusiv grafikk og konfigurasjoner og støtte til forhandlernettverket.',
+            'For kvalifiserte partnere tilbyr OLagoon områdesamarbeid basert på markedsstørrelse og engasjement, produktdifferensiering gjennom eksklusiv grafikk og konfigurasjoner og støtte til forhandlernettverket.',
           features: ['Områdesamarbeid', 'Produktdifferensiering', 'Støtte til forhandlernettverk'],
         },
         {
           title: 'Komplett planlegging av produktportefølje',
           description:
-            'Afarer hjelper distributører med å bygge hele vannsportskategorier, inkludert allround-SUP, touring-SUP, barn-SUP, fiske-SUP, yoga-SUP, tilbehør og utstyr for vannfritid.',
+            'OLagoon hjelper distributører med å bygge hele vannsportskategorier, inkludert allround-SUP, touring-SUP, barn-SUP, fiske-SUP, yoga-SUP, tilbehør og utstyr for vannfritid.',
           features: ['SUP-produktkategorier', 'Videre produktutvidelse', 'Tilbehør'],
         },
         {
           title: 'Støtte til logistikkoptimalisering',
           description:
-            'Afarer støtter optimalisering av containerlast for maksimal frakteffektivitet og god importøkonomi, planlegging av produktmiks som kombinerer rasktselgende modeller med premium-produkter, og koordinering av eksportdokumentasjon.',
+            'OLagoon støtter optimalisering av containerlast for maksimal frakteffektivitet og god importøkonomi, planlegging av produktmiks som kombinerer rasktselgende modeller med premium-produkter, og koordinering av eksportdokumentasjon.',
           features: [
             'Optimalisering av containerlast',
             'Planlegging av produktmiks',
@@ -5146,19 +5146,19 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Kvalitetskontroll for internasjonale markeder',
           description:
-            'Afarers kvalitetsstyring omfatter materiellinspeksjon av PVC og drop stitch-materialer, produksjonsovervåking av fremstillingsprosessene og endelig forsendelsesinspeksjon av utseende, tilbehør, emballasje og antall.',
+            'OLagoons kvalitetsstyring omfatter materiellinspeksjon av PVC og drop stitch-materialer, produksjonsovervåking av fremstillingsprosessene og endelig forsendelsesinspeksjon av utseende, tilbehør, emballasje og antall.',
           features: ['Materiellinspeksjon', 'Produksjonsovervåking', 'Endelig forsendelsesinspeksjon'],
         },
         {
           title: 'Salgsstøtte for distributører',
           description:
-            'Afarer støtter partnerne med produktspesifikasjoner og teknisk informasjon, markedsføringsmateriell med produkt- og livsstilsbilder og produktopplæring i fordeler, bruksområder og salgsposisjonering.',
+            'OLagoon støtter partnerne med produktspesifikasjoner og teknisk informasjon, markedsføringsmateriell med produkt- og livsstilsbilder og produktopplæring i fordeler, bruksområder og salgsposisjonering.',
           features: ['Produktinformasjon', 'Markedsføringsmateriell', 'Produktopplæring'],
         },
         {
           title: 'Langsiktig leverandørpartnertskap',
           description:
-            'Afarer fokuserer på relasjoner utover enkeltbestillinger, med en stabil produksjonsbase, løpende produktutvikling og støtte til forretningsvekst fra importør til distributør til regional merkevareeier.',
+            'OLagoon fokuserer på relasjoner utover enkeltbestillinger, med en stabil produksjonsbase, løpende produktutvikling og støtte til forretningsvekst fra importør til distributør til regional merkevareeier.',
           features: ['Stabil produksjonsbase', 'Løpende produktutvikling', 'Støtte til forretningsvekst'],
         },
       ],
@@ -5175,7 +5175,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Regional markedsanalyse',
           detail:
-            'Afarer bidro til å identifisere etterspørselen etter SUP for nybegynnere, muligheter i markedet for familiefritid og turismeanvendelser spesifikke for Midtøsten-regionen.',
+            'OLagoon bidro til å identifisere etterspørselen etter SUP for nybegynnere, muligheter i markedet for familiefritid og turismeanvendelser spesifikke for Midtøsten-regionen.',
         },
         {
           title: 'Utvikling av produktportefølje',
@@ -5206,28 +5206,28 @@ const no: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Australia',
             background:
               'PaddleHub Australia var en liten importør drevet av grunnlegger James Whitfield, en tidligere konkurransesurfer som i 3 år hadde distribuert generiske kinesiske SUP-brett til 45 lokale surfbutikker, med en årlig omsetning på rundt 1,8 mill. AUD. Marginene ble stadig dårligere fordi konkurrentene underbød prisene og leverandørene nektet å tilby eksklusivitet. James innså at han trengte en unik egen merkevare med områdebeskyttelse for å bygge varig verdi. Han hadde 350 000 AUD i tilgjengelig kapital og et lager i Burleigh Heads, men trengte en produksjonspartner som kunne levere brett i OEM-kvalitet med australske designegenskaper og regional eksklusivitet for Oseania.',
-            goal: 'Skape en egen SUP-merkevare med 12 unike modeller, signere over 200 forhandlerkontoer i Australia og New Zealand i løpet av 18 måneder, oppnå 6 mill. AUD i årlig engrosomsetning og sikre eksklusive distribusjonsrettigheter for Oseania fra Afarer.',
+            goal: 'Skape en egen SUP-merkevare med 12 unike modeller, signere over 200 forhandlerkontoer i Australia og New Zealand i løpet av 18 måneder, oppnå 6 mill. AUD i årlig engrosomsetning og sikre eksklusive distribusjonsrettigheter for Oseania fra OLagoon.',
           },
           steps: [
             {
               title: 'Forhandling om strategisk partnertskap og avtale om eksklusivt område',
               detail:
-                'I februar 2024 presenterte James forretningsplanen sin for Afarers visepresident for globale partnertskap i et 3-dagers møte ved Afarers anlegg i Shenzhen. Afarer gjennomførte en studie av markedslevedyktighet som viste at Australia har over 340 surfbutikker, over 180 vannsportsforhandlere og over 60 marineforhandlere som kunne ført SUP, men bare 23 % tilbød kategorien i dag. Afarer ga PaddleHub eksklusive distribusjonsrettigheter for Oseania for produktfamiliene «WaveGlide» og «Expedition», mot en minimumsårlig innkjøp på 2,5 mill. AUD. James forpliktet seg til en startbestilling (MOQ) på 800 000 AUD og godtok Afarers milepæler for områdeutvikling, inkludert mål for antall eksklusive forhandlere.',
+                'I februar 2024 presenterte James forretningsplanen sin for OLagoons visepresident for globale partnertskap i et 3-dagers møte ved OLagoons anlegg i Shenzhen. OLagoon gjennomførte en studie av markedslevedyktighet som viste at Australia har over 340 surfbutikker, over 180 vannsportsforhandlere og over 60 marineforhandlere som kunne ført SUP, men bare 23 % tilbød kategorien i dag. OLagoon ga PaddleHub eksklusive distribusjonsrettigheter for Oseania for produktfamiliene «WaveGlide» og «Expedition», mot en minimumsårlig innkjøp på 2,5 mill. AUD. James forpliktet seg til en startbestilling (MOQ) på 800 000 AUD og godtok OLagoons milepæler for områdeutvikling, inkludert mål for antall eksklusive forhandlere.',
             },
             {
               title: 'Utvikling av egendefinert produktplattform og australsk tilpasning',
               detail:
-                'Afarers FoU-team brukte 6 uker på å utvikle PaddleHubs 12-modellers lineup, inkludert 5 allround-brett, 3 touringbrett, 2 racebrett, 1 fiskebrett og 1 juniorbrett. Hver modell hadde australske tilpasninger: UV-stabilisert PVC mot Queenslands intense sol, forsterkede kanter mot steinete stup ned mot Great Barrier Reef og egendefinerte grafikkpakker med mønstre inspirert av aboriginsk prikkunst. Afarer produserte 300 forproduksjonsenheter på tvers av alle 12 modellene, som James distribuerte til 50 betatestere, inkludert surfbutikkeiere, padleinstruktører og fiskeguider, som ga detaljerte tilbakemeldinger som førte til 23 designforbedringer.',
+                'OLagoons FoU-team brukte 6 uker på å utvikle PaddleHubs 12-modellers lineup, inkludert 5 allround-brett, 3 touringbrett, 2 racebrett, 1 fiskebrett og 1 juniorbrett. Hver modell hadde australske tilpasninger: UV-stabilisert PVC mot Queenslands intense sol, forsterkede kanter mot steinete stup ned mot Great Barrier Reef og egendefinerte grafikkpakker med mønstre inspirert av aboriginsk prikkunst. OLagoon produserte 300 forproduksjonsenheter på tvers av alle 12 modellene, som James distribuerte til 50 betatestere, inkludert surfbutikkeiere, padleinstruktører og fiskeguider, som ga detaljerte tilbakemeldinger som førte til 23 designforbedringer.',
             },
             {
               title: 'Rekruttering av forhandlernettverk og kanalutvikling',
               detail:
-                'James og salgsteamet hans på 3 personer lanserte et «Dealer Pro»-program med priser i trinn, betalingsbetingelser på 0 % i 60 dager for nye kontoer, gratis displaystativer og opplæring av staben. Afarer bidro med et delt CRM-system, produktkataloger, sammenligningsguider og et nettsted med forhandleroversikt. Ved å delta på Sydney International Boat Show og 7 regionale fiske- og friluftsmesser signerte James 97 forhandlere i løpet av de første 6 månedene, inkludert store kontoer som Anaconda (42 butikker), BCF (35 butikker) og 20 uavhengige surfbutikker. Afarers logistikkteam etablerte et konsolideringslager i Sydney med leveringsgaranti på 14 dager.',
+                'James og salgsteamet hans på 3 personer lanserte et «Dealer Pro»-program med priser i trinn, betalingsbetingelser på 0 % i 60 dager for nye kontoer, gratis displaystativer og opplæring av staben. OLagoon bidro med et delt CRM-system, produktkataloger, sammenligningsguider og et nettsted med forhandleroversikt. Ved å delta på Sydney International Boat Show og 7 regionale fiske- og friluftsmesser signerte James 97 forhandlere i løpet av de første 6 månedene, inkludert store kontoer som Anaconda (42 butikker), BCF (35 butikker) og 20 uavhengige surfbutikker. OLagoons logistikkteam etablerte et konsolideringslager i Sydney med leveringsgaranti på 14 dager.',
             },
             {
               title: 'Merkevarelansering, markedsføringsstøtte og akselerert vekst',
               detail:
-                'PaddleHub ble offisielt lansert med en kampanje på 250 000 AUD med den tidligere australske SUP-mesteren Jessica Krieger som merkevareambassadør. Afarer bidro med felles markedsføringsmidler tilsvarende 4 % av engrosinnkjøpene og produserte 24 produktvideoer, 360-graders produktfotografering og innhold til sosiale medier. Innen august 2025 hadde PaddleHub 215 aktive forhandlerkontoer, 5,8 mill. AUD i engrosomsetning de siste 12 månedene og hadde lagt inn 3 ytterligere produksjonsbestillinger på totalt 3,2 mill. AUD. James utvidet teamet sitt til 12 ansatte, inkludert en produktleder på fulltid, og PaddleHub ble den nest største SUP-merkevaren i det australske markedet målt i antall salgssteder.',
+                'PaddleHub ble offisielt lansert med en kampanje på 250 000 AUD med den tidligere australske SUP-mesteren Jessica Krieger som merkevareambassadør. OLagoon bidro med felles markedsføringsmidler tilsvarende 4 % av engrosinnkjøpene og produserte 24 produktvideoer, 360-graders produktfotografering og innhold til sosiale medier. Innen august 2025 hadde PaddleHub 215 aktive forhandlerkontoer, 5,8 mill. AUD i engrosomsetning de siste 12 månedene og hadde lagt inn 3 ytterligere produksjonsbestillinger på totalt 3,2 mill. AUD. James utvidet teamet sitt til 12 ansatte, inkludert en produktleder på fulltid, og PaddleHub ble den nest største SUP-merkevaren i det australske markedet målt i antall salgssteder.',
             },
           ],
           results: [
@@ -5243,41 +5243,41 @@ const no: Record<string, SolutionOverride> = {
             location: 'Dubai, De forente arabiske emirater',
             background:
               'Dune Sports DMCC, ledet av den emiratarabiske gründeren Rashid Al Maktoum, var en Dubai-basert distributør av vannsportsutstyr med 2,3 mill. USD i årlig omsetning som leverte vannscootere og kajakker til marineforhandlere i hele GCC. Rashid så SUP som en udøpt mulighet i Midtøsten, der strandturisme, luksusresorter og vannsport blomstret. Regionen hadde ingen dominerende SUP-merkevare, og de fleste produktene var importvarer av lav kvalitet solgt på Amazon uten service eller garanti. Rashid ville bli den eksklusive regionale OEM-partneren for en premium SUP-merkevare som kunne dominere Midtøsten-markedet, med en startinvestering på 1,2 mill. USD.',
-            goal: 'Sikre eksklusive distribusjonsrettigheter for Midtøsten og Nord-Afrika fra Afarer, lansere en regional premiummerkevare i 8 land, oppnå 5 mill. USD i engrosomsetning i løpet av 24 måneder og kapre over 60 % markedsandel i GCC-segmentet for premium-SUP.',
+            goal: 'Sikre eksklusive distribusjonsrettigheter for Midtøsten og Nord-Afrika fra OLagoon, lansere en regional premiummerkevare i 8 land, oppnå 5 mill. USD i engrosomsetning i løpet av 24 måneder og kapre over 60 % markedsandel i GCC-segmentet for premium-SUP.',
           },
           steps: [
             {
               title: 'Regional markedsanalyse og rammeartale om eksklusivitet',
               detail:
-                'Rashid bestilte en 6-ukers markedsstudie i De forente arabiske emirater, Saudi-Arabia, Qatar, Kuwait, Oman, Bahrain, Egypt og Jordan. Studien identifiserte over 280 potensielle forhandlere, inkludert marineforhandlere, innkjøpsavdelinger i hoteller og spesialsportbutikker, med en total adresserbar marked på 18 mill. USD årlig. I april 2024 signerte Rashid en 5-årig eksklusiv OEM-avtale med Afarer som dekker 15 land i MENA, med forpliktelse til minimum 3 mill. USD i årlig innkjøp med 15 % eskalering per år. Afarer gikk med på å medinvestere 150 000 USD i markedsføringsmateriell på arabisk, tilstedeværelse på regionale bransjemesser og et reservedelslager i Dubai.',
+                'Rashid bestilte en 6-ukers markedsstudie i De forente arabiske emirater, Saudi-Arabia, Qatar, Kuwait, Oman, Bahrain, Egypt og Jordan. Studien identifiserte over 280 potensielle forhandlere, inkludert marineforhandlere, innkjøpsavdelinger i hoteller og spesialsportbutikker, med en total adresserbar marked på 18 mill. USD årlig. I april 2024 signerte Rashid en 5-årig eksklusiv OEM-avtale med OLagoon som dekker 15 land i MENA, med forpliktelse til minimum 3 mill. USD i årlig innkjøp med 15 % eskalering per år. OLagoon gikk med på å medinvestere 150 000 USD i markedsføringsmateriell på arabisk, tilstedeværelse på regionale bransjemesser og et reservedelslager i Dubai.',
             },
             {
               title: 'Strategi for produktlinje og ørkentilpasset ingeniørarbeid',
               detail:
-                'Afarers ingeniører utviklet merkevaren «Oryx» for Dune Sports med 8 modeller optimalisert for forholdene i Midtøsten: PVC som tåler høye temperaturer (testet til 75 °C overflatetemperatur), UV-stabile pigmenter som ikke falmet i arabisk sol og sandbestandige finnesystemer med hurtigkoblinger. Afarer produserte 500 enheter før lansering, inkludert en spesialutgave kalt «Royal Edition» med golddetaljer og lærhåndtak til luksusresortsegmentet. Rashids team testet brettene i Den arabiske gulfen, Rødehavet og innendørs bølgebasseng, og oppnådde gjennomsnittlige kvalitetsskårer på 4,7/5 fra 200 testere.',
+                'OLagoons ingeniører utviklet merkevaren «Oryx» for Dune Sports med 8 modeller optimalisert for forholdene i Midtøsten: PVC som tåler høye temperaturer (testet til 75 °C overflatetemperatur), UV-stabile pigmenter som ikke falmet i arabisk sol og sandbestandige finnesystemer med hurtigkoblinger. OLagoon produserte 500 enheter før lansering, inkludert en spesialutgave kalt «Royal Edition» med golddetaljer og lærhåndtak til luksusresortsegmentet. Rashids team testet brettene i Den arabiske gulfen, Rødehavet og innendørs bølgebasseng, og oppnådde gjennomsnittlige kvalitetsskårer på 4,7/5 fra 200 testere.',
             },
             {
               title: 'Kanalutvikling og partnertskap med hoteller og resorter',
               detail:
-                'Rashid bygde et regionalt salgsteam på 5 personer med base i Dubai, Riyadh og Kairo. Afarers team for kanalutvikling bidro med rekrutteringsskript til forhandlere, presentasjonsmateriell og et forhandlerprogram i 3 trinn (Platinum, Gold, Silver). Dune Sports sikret eksklusive distribusjonsavtaler med 65 marineforhandlere og direkte innkjøpskontrakter med 22 luksushotellkjeder, inkludert Jumeirah, Four Seasons og St. Regis. Merkevaren «Oryx» ble spesifisert som standardutstyr for de nye resortutviklingene til Rixos og Anantara i Ras Al Khaimah, Red Sea Project og på Maldivene.',
+                'Rashid bygde et regionalt salgsteam på 5 personer med base i Dubai, Riyadh og Kairo. OLagoons team for kanalutvikling bidro med rekrutteringsskript til forhandlere, presentasjonsmateriell og et forhandlerprogram i 3 trinn (Platinum, Gold, Silver). Dune Sports sikret eksklusive distribusjonsavtaler med 65 marineforhandlere og direkte innkjøpskontrakter med 22 luksushotellkjeder, inkludert Jumeirah, Four Seasons og St. Regis. Merkevaren «Oryx» ble spesifisert som standardutstyr for de nye resortutviklingene til Rixos og Anantara i Ras Al Khaimah, Red Sea Project og på Maldivene.',
             },
             {
               title: 'Regional lansering, ramadankampanje og markedsdominans',
               detail:
-                'Merkevaren «Oryx» ble lansert i alle de 8 markedene i oktober 2024, med samtidige arrangementer i Dubai Marina Mall, Red Sea Mall i Saudi-Arabia og Doha Festival City i Qatar. Afarer støttet med en markedsføringskampanje på 200 000 USD, inkludert TV-reklamer på arabisk, influencerpartnertskap med 15 eventyrere fra Midtøsten og sponsing av Dubai SUP Festival. Innen mars 2025 hadde Dune Sports solgt 8 400 enheter, oppnådd 4,7 mill. USD i engrosomsetning og kapret 58 % av GCC-markedet for premium-SUP. Rashid utløste sin første fornyelse av opsjonsåret med Afarer til 4,5 mill. USD i årlige innkjøp.',
+                'Merkevaren «Oryx» ble lansert i alle de 8 markedene i oktober 2024, med samtidige arrangementer i Dubai Marina Mall, Red Sea Mall i Saudi-Arabia og Doha Festival City i Qatar. OLagoon støttet med en markedsføringskampanje på 200 000 USD, inkludert TV-reklamer på arabisk, influencerpartnertskap med 15 eventyrere fra Midtøsten og sponsing av Dubai SUP Festival. Innen mars 2025 hadde Dune Sports solgt 8 400 enheter, oppnådd 4,7 mill. USD i engrosomsetning og kapret 58 % av GCC-markedet for premium-SUP. Rashid utløste sin første fornyelse av opsjonsåret med OLagoon til 4,5 mill. USD i årlige innkjøp.',
             },
           ],
           results: [
             '4,7 mill. USD i engrosomsetning de første 12 månedene på tvers av 8 land, og nådde 94 % av 24-månedersmålet på halv tiden',
             '58 % markedsandel i GCC-segmentet for premium-SUP (butikkpris 349–799 USD), med dominans over fragmenterte konkurrentmerker',
             '22 eksklusive innkjøpskontrakter med hoteller og resorter, tilsvarende 3 100 enheter solgt til gjestfrihetssektoren med 72 % gjentakelsesrate',
-            'Verdivurderingen av Dune Sports vokste fra 2,3 mill. USD til 12 mill. USD i løpet av 14 måneder, og Rashid utvidet til nærliggende vannsportskategorier gjennom Afarers OEM-plattform',
+            'Verdivurderingen av Dune Sports vokste fra 2,3 mill. USD til 12 mill. USD i løpet av 14 måneder, og Rashid utvidet til nærliggende vannsportskategorier gjennom OLagoons OEM-plattform',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor globale distributører velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor globale distributører velger OLagoon',
       items: [
         {
           title: 'Produksjonsskala',
@@ -5312,38 +5312,38 @@ const no: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Hva skiller Afarer fra andre SUP-OEM-produsenter for distributører?',
+        question: 'Hva skiller OLagoon fra andre SUP-OEM-produsenter for distributører?',
         answer:
-          'Afarer tilbyr en komplett partnertskapsmodell utover selve produksjonen, inkludert programmer for regional markedsbeskyttelse, støtte til utvikling av eksklusive merkevarer, logistikkoptimalisering og salgsopplæring for distributører. Vi fokuserer på langsiktige relasjoner som hjelper partnerne å vokse fra importører til regionale merkevareeiere.',
+          'OLagoon tilbyr en komplett partnertskapsmodell utover selve produksjonen, inkludert programmer for regional markedsbeskyttelse, støtte til utvikling av eksklusive merkevarer, logistikkoptimalisering og salgsopplæring for distributører. Vi fokuserer på langsiktige relasjoner som hjelper partnerne å vokse fra importører til regionale merkevareeiere.',
       },
       {
         question: 'Hvordan fungerer programmet for regional markedsbeskyttelse for eksklusive distributører?',
         answer:
-          'For kvalifiserte partnere tilbyr Afarer områdebaserte samarbeidsavtaler, produktdifferensiering gjennom eksklusiv grafikk og konfigurasjoner og støtte til forhandlernettverket. Dette sikrer at distributørene kan investere i markedsutvikling med trygghet for at deres regionale posisjon er beskyttet.',
+          'For kvalifiserte partnere tilbyr OLagoon områdebaserte samarbeidsavtaler, produktdifferensiering gjennom eksklusiv grafikk og konfigurasjoner og støtte til forhandlernettverket. Dette sikrer at distributørene kan investere i markedsutvikling med trygghet for at deres regionale posisjon er beskyttet.',
       },
       {
         question: 'Hvilke bestillingsmengder er typiske for SUP-forsendelser på containernivå?',
         answer:
-          'Afarer støtter tre samarbeidsfaser: markedstesting (1 000–3 000 enheter), regional utvidelse (5 000–10 000 enheter) og stor distributørskala (10 000–20 000+ enheter). Optimalisering av containerlast bidrar til å maksimere frakteffektiviteten og redusere importkostnadene per enhet.',
+          'OLagoon støtter tre samarbeidsfaser: markedstesting (1 000–3 000 enheter), regional utvidelse (5 000–10 000 enheter) og stor distributørskala (10 000–20 000+ enheter). Optimalisering av containerlast bidrar til å maksimere frakteffektiviteten og redusere importkostnadene per enhet.',
       },
       {
-        question: 'Kan distributører lage sine egne private label SUP-merkevarer med Afarer?',
+        question: 'Kan distributører lage sine egne private label SUP-merkevarer med OLagoon?',
         answer:
-          'Ja, Afarer støtter komplett utvikling av private label, inkludert merkevareposisjonering, produktutvalg, egendefinert grafisk design, emballasjetilpasning og eksklusive produktkolleksjoner. Dette lar distributørene bygge regionale merkevarer i stedet for å konkurrere kun på pris.',
+          'Ja, OLagoon støtter komplett utvikling av private label, inkludert merkevareposisjonering, produktutvalg, egendefinert grafisk design, emballasjetilpasning og eksklusive produktkolleksjoner. Dette lar distributørene bygge regionale merkevarer i stedet for å konkurrere kun på pris.',
       },
       {
-        question: 'Hvordan hjelper Afarer med logistikkoptimalisering og reduksjon av importkostnader?',
+        question: 'Hvordan hjelper OLagoon med logistikkoptimalisering og reduksjon av importkostnader?',
         answer:
-          'Afarer tilbyr optimalisering av containerlast for maksimal frakteffektivitet, planlegging av produktmiks som kombinerer rasktselgende modeller med premium-produkter og omfattende støtte til eksportdokumentasjon for enklere tollklarering og færre forsinkelser.',
+          'OLagoon tilbyr optimalisering av containerlast for maksimal frakteffektivitet, planlegging av produktmiks som kombinerer rasktselgende modeller med premium-produkter og omfattende støtte til eksportdokumentasjon for enklere tollklarering og færre forsinkelser.',
       },
       {
         question: 'Hvilke prosesser for kvalitetskontroll gjelder for internasjonale forsendelser?',
         answer:
-          'Afarer gjennomfører kvalitetsstyring i tre trinn: materiellinspeksjon av PVC- og drop stitch-komponenter, produksjonsovervåking underveis og endelig inspeksjon før forsendelse som dekker utseende, tilbehør, emballasje og riktig antall.',
+          'OLagoon gjennomfører kvalitetsstyring i tre trinn: materiellinspeksjon av PVC- og drop stitch-komponenter, produksjonsovervåking underveis og endelig inspeksjon før forsendelse som dekker utseende, tilbehør, emballasje og riktig antall.',
       },
     ],
     cta: {
-      title: 'Bli en regional partner for Afarer',
+      title: 'Bli en regional partner for OLagoon',
       subtitle: 'Markedet ditt fortjener en pålitelig leverandørpartner for vannsport.',
       primaryAction: {
         text: 'Start ditt regionale OEM-partnertskap i dag',
@@ -5364,9 +5364,9 @@ const no: Record<string, SolutionOverride> = {
       tagline: 'Pakke for vannaktiviteter ved resort™',
       title: 'Premium SUP- og vannsportsløsninger for luksushoteller, resorter og hotellmerkevarer',
       subtitle:
-        'Afarer leverer komplette pakker for vannaktiviteter ved resorter, designet spesielt for hotell- og gjestfrihetsbedrifter. Vi hjelper luksusresorter, strandhoteller, øydestinasjoner, økoresorter og helserefugier med å skape merkede vannopplevelser gjennom egendefinerte SUP-flåter, lagringssystemer og opplæring av staben.',
+        'OLagoon leverer komplette pakker for vannaktiviteter ved resorter, designet spesielt for hotell- og gjestfrihetsbedrifter. Vi hjelper luksusresorter, strandhoteller, øydestinasjoner, økoresorter og helserefugier med å skape merkede vannopplevelser gjennom egendefinerte SUP-flåter, lagringssystemer og opplæring av staben.',
       image: {
-        alt: 'Afarers pakke for vannaktiviteter ved resort med egendefinerte merkede SUP-brett',
+        alt: 'OLagoons pakke for vannaktiviteter ved resort med egendefinerte merkede SUP-brett',
       },
     },
     challenge: {
@@ -5400,7 +5400,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Utvikling av egendefinert SUP-flåte for resorten',
           description:
-            'Afarer hjelper resorter med å utvikle dedikerte utstyrsflåter basert på sted, gjesteprofil, vannmiljø og aktivitetsprogrammer. Pakkene spenner fra familieresortkonfigurasjoner med stabile allround-brett til luksuspakker for øyer med premium-design og pakker for helserefugier med brede yoga-SUP-brett.',
+            'OLagoon hjelper resorter med å utvikle dedikerte utstyrsflåter basert på sted, gjesteprofil, vannmiljø og aktivitetsprogrammer. Pakkene spenner fra familieresortkonfigurasjoner med stabile allround-brett til luksuspakker for øyer med premium-design og pakker for helserefugier med brede yoga-SUP-brett.',
           features: [
             'Familieresort-pakke',
             'Luksuspakke for øyresort',
@@ -5411,7 +5411,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Merkevaretilpasning for resorten',
           description:
-            'Vannutstyret ditt blir en del av gjestereisen. Afarer støtter egendefinert logointegrasjon, egendefinert fargedesign som matcher resortets arkitektur og merkevarefarger, og premium-emballasje med merket tilbehør og instruksjonsmateriell for gjestene.',
+            'Vannutstyret ditt blir en del av gjestereisen. OLagoon støtter egendefinert logointegrasjon, egendefinert fargedesign som matcher resortets arkitektur og merkevarefarger, og premium-emballasje med merket tilbehør og instruksjonsmateriell for gjestene.',
           features: [
             'Egendefinert utskrift av logo',
             'Fargedesign tilpasset merkevaren',
@@ -5422,27 +5422,27 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'System for lagring og utstyrshåndtering ved resorten',
           description:
-            'Afarer hjelper resorter med å planlegge utstyrslagring med SUP-stativer, organiseringssystemer og værbeskyttende løsninger som tar hensyn til soleksponering, fuktighet og kystmiljøer. Staben kan effektivt håndtere daglig utstyrsklargjøring, uthenting for gjester og vedlikeholdskontroll.',
+            'OLagoon hjelper resorter med å planlegge utstyrslagring med SUP-stativer, organiseringssystemer og værbeskyttende løsninger som tar hensyn til soleksponering, fuktighet og kystmiljøer. Staben kan effektivt håndtere daglig utstyrsklargjøring, uthenting for gjester og vedlikeholdskontroll.',
         },
         {
           title: 'Støtte for sikkerhets- og driftsopplæring av staben',
           description:
-            'Afarer gir driftsveiledning med prosedyrer for utstyrshåndtering, oppblåsingsinstruksjoner, rengjøringsmetoder, lagringsretningslinjer, sikkerhetsprosedyrer for gjester og daglige driftssjekklister som dekker inspeksjon før bruk og rengjøring etter bruk.',
+            'OLagoon gir driftsveiledning med prosedyrer for utstyrshåndtering, oppblåsingsinstruksjoner, rengjøringsmetoder, lagringsretningslinjer, sikkerhetsprosedyrer for gjester og daglige driftssjekklister som dekker inspeksjon før bruk og rengjøring etter bruk.',
         },
         {
           title: 'Komplett pakke for vannaktiviteter ved resorten',
           description:
-            'Eksempelpakker omfatter egendefinerte merkede SUP-brett, justerbare padleårer, pumper, sikkerhetsleasher, lagringsstativer, reperasjonssett og driftsveiledninger for staben. Afarer kan også støtte utvidelse til vannfitnessprodukter og familieutstyr for vann.',
+            'Eksempelpakker omfatter egendefinerte merkede SUP-brett, justerbare padleårer, pumper, sikkerhetsleasher, lagringsstativer, reperasjonssett og driftsveiledninger for staben. OLagoon kan også støtte utvidelse til vannfitnessprodukter og familieutstyr for vann.',
         },
         {
           title: 'Kommersielt utstyr med lavt vedlikehold',
           description:
-            'Resortutstyr må balansere gjesteopplevelse, holdbarhet og vedlikeholdseffektivitet. Afarer fokuserer på holdbar konstruksjon med forsterket PVC og komponenter i kommersiell klasse, enkelt vedlikehold med standardtilbehør og langsiktig verdi som reduserer utskiftingsfrekvensen.',
+            'Resortutstyr må balansere gjesteopplevelse, holdbarhet og vedlikeholdseffektivitet. OLagoon fokuserer på holdbar konstruksjon med forsterket PVC og komponenter i kommersiell klasse, enkelt vedlikehold med standardtilbehør og langsiktig verdi som reduserer utskiftingsfrekvensen.',
         },
         {
           title: 'Støtte for design av resortopplevelser',
           description:
-            'Afarer bidrar til å gjøre utstyr om til signaturaktiviteter for gjestene, inkludert SUP-opplevelser i solnedgang for par, familieeventyr i havet, flytende helseprogrammer for yogarefugier og økoutforskning for naturresorter og marine destinasjoner.',
+            'OLagoon bidrar til å gjøre utstyr om til signaturaktiviteter for gjestene, inkludert SUP-opplevelser i solnedgang for par, familieeventyr i havet, flytende helseprogrammer for yogarefugier og økoutforskning for naturresorter og marine destinasjoner.',
         },
       ],
     },
@@ -5458,7 +5458,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Planlegging av resortaktiviteter',
           detail:
-            'Afarer analyserte gjestedemografi, strandforhold og aktivitetsmål, og anbefalte deretter en egendefinert resort-SUP-flåte tilpasset resortets luksusposisjonering og gjestenes forventninger.',
+            'OLagoon analyserte gjestedemografi, strandforhold og aktivitetsmål, og anbefalte deretter en egendefinert resort-SUP-flåte tilpasset resortets luksusposisjonering og gjestenes forventninger.',
         },
         {
           title: 'Produkttilpasning',
@@ -5488,29 +5488,29 @@ const no: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Mexico',
             background:
-              'Ana Sofía Villanueva (36) er Director of Guest Experiences ved «Casa del Pacífico», et luksuriøst økoresort med 62 suiter på Punta Mitas stillehavskyst (rompriser 1 800–8 000 USD per natt). Anleggsområdet på 12 acre omfatter 3 private strender, 2 lagunebassenger og et mangrovestuarmiljø som fører til skjulte cenoter. I 2023 viste gjesteundersøkelser at «unikke vannopplevelser» var den største udekkede etterspørselen (78 % av gjestene ønsket det). Ana henvendte seg til Afarer etter at en konkurrerende resort i Tulum lanserte et SUP-program — hun trengte noe mer eksklusivt. Utfordringen: én enkelt pakke som fungerer i havbølger, rolige mangrover og ferske cenoter med skiftende lysnivåer, strømmer og økologisk sårbarhet.',
+              'Ana Sofía Villanueva (36) er Director of Guest Experiences ved «Casa del Pacífico», et luksuriøst økoresort med 62 suiter på Punta Mitas stillehavskyst (rompriser 1 800–8 000 USD per natt). Anleggsområdet på 12 acre omfatter 3 private strender, 2 lagunebassenger og et mangrovestuarmiljø som fører til skjulte cenoter. I 2023 viste gjesteundersøkelser at «unikke vannopplevelser» var den største udekkede etterspørselen (78 % av gjestene ønsket det). Ana henvendte seg til OLagoon etter at en konkurrerende resort i Tulum lanserte et SUP-program — hun trengte noe mer eksklusivt. Utfordringen: én enkelt pakke som fungerer i havbølger, rolige mangrover og ferske cenoter med skiftende lysnivåer, strømmer og økologisk sårbarhet.',
             goal: 'Utvikle en pakke kalt «Signature Cenote-to-Ocean SUP Experience» (3-timers guidet tur, profesjonelt fotografi og meksikansk smaksmeny) til 450 USD per person med minst 40 % fortjenestemargin og gjestetilfredshet på minst 4,8.',
           },
           steps: [
             {
               title: 'Stedsgjennomgang og konsekvensanalyse for miljø i mars 2024',
               detail:
-                'Afarers direktør for Latin-Amerika, Felipe Ortíz, og marinbiologen Dr. Camila Reyes brukte 10 dager på å kartlegge Casa del Pacíficos vannveier. De identifiserte 4 distinkte SUP-miljøer: stillehavssanden med startpunkt (jevn 2–3 fots bølgebrytning), mangrovetunnelen (smale 2 meter brede kanaler med hengende røtter), den skjulte cenoten (18 meter dypt ferskvann, konstant 24 °C, ømfintlige mikrobielle belegg på veggene) og lagunebassengen (for nybegynnere). Dr. Reyes gjennomførte sedimentprøvetaking og hekkefugltellinger for å fastslå bæreevnen: maksimalt 8 gjester per tur, med start klokka 07:30 før sjøfuglene spiser. Vurderingen konkluderte med at standard SUP-brett med sinkfosfatpigmenter ville lekke ut i cenoten — Afarer byttet til keramiske pigmenter.',
+                'OLagoons direktør for Latin-Amerika, Felipe Ortíz, og marinbiologen Dr. Camila Reyes brukte 10 dager på å kartlegge Casa del Pacíficos vannveier. De identifiserte 4 distinkte SUP-miljøer: stillehavssanden med startpunkt (jevn 2–3 fots bølgebrytning), mangrovetunnelen (smale 2 meter brede kanaler med hengende røtter), den skjulte cenoten (18 meter dypt ferskvann, konstant 24 °C, ømfintlige mikrobielle belegg på veggene) og lagunebassengen (for nybegynnere). Dr. Reyes gjennomførte sedimentprøvetaking og hekkefugltellinger for å fastslå bæreevnen: maksimalt 8 gjester per tur, med start klokka 07:30 før sjøfuglene spiser. Vurderingen konkluderte med at standard SUP-brett med sinkfosfatpigmenter ville lekke ut i cenoten — OLagoon byttet til keramiske pigmenter.',
             },
             {
               title: 'Egendefinert «Explora México»-brett med integrert fotografisystem',
               detail:
-                'Afarer designet «Explora México 10.8» med 4-lags konstruksjon, revvennlig antibegroeingsbunn (silikonbelegg uten biocider, testet i 200 timer i 28 °C stillehavsvann) og et blanks matte olivengrønt dekk som motvirker blendning. Ana ba om profesjonelt fotografi som del av opplevelsen — Afarer integrerte en vanntett startplattform for droner i brettets nese (en forsterket 25 x 25 cm kullfiberplattform med sklisikkert belegg, testet til å holde en DJI Mini 4 Pro ved start og henting fra hånden). Hvert brett hadde også et festepunkt for en undervannskamerastang. Brettene ble produsert i begrenset «Casa del Pacífico»-merking med mayainspirerte geometriske mønstre — preget, ikke malt, for å unngå giftig avrenning.',
+                'OLagoon designet «Explora México 10.8» med 4-lags konstruksjon, revvennlig antibegroeingsbunn (silikonbelegg uten biocider, testet i 200 timer i 28 °C stillehavsvann) og et blanks matte olivengrønt dekk som motvirker blendning. Ana ba om profesjonelt fotografi som del av opplevelsen — OLagoon integrerte en vanntett startplattform for droner i brettets nese (en forsterket 25 x 25 cm kullfiberplattform med sklisikkert belegg, testet til å holde en DJI Mini 4 Pro ved start og henting fra hånden). Hvert brett hadde også et festepunkt for en undervannskamerastang. Brettene ble produsert i begrenset «Casa del Pacífico»-merking med mayainspirerte geometriske mønstre — preget, ikke malt, for å unngå giftig avrenning.',
             },
             {
               title: 'Sertifiseringsprogram for guider og logistikkintegrasjon',
               detail:
-                'I mai 2024 gjennomførte Afarers senior guideinstruktør Diego Castillo et 2-ukers intensivprogram som sertifiserte 8 av Casa del Pacíficos aktivitetsguider. Læreplanen omfattet: teknikk for start og henting i bølgesone for stillehavets strandbrytere, mangronavigasjon med tidevann (guiden må kunne det 3 timer lange tidevannsvinduet for å unngå å sitte fast i gjørme ved lavvann), cenote-etikette (ingen solkrem, ingen berøring av veggene — Dr. Reyes kom tilbake for en halvdags økt om sårbarhet), nødprotokoller (inkludert møter med puma — mangroven har en fast hannpuma) og tospråklig guiding på spansk og engelsk. Afarer integrerte også SUP-lageret i resortens Oracle Opera PMS-system, slik at SUP-reservasjoner automatisk dukket opp på gjestenes regninger. Fotografiarbeidsflyten: guidene bruker GoPro Hero12 Black med en forhåndsinnstilt «Cenote»-fargeprofil, og bildene overføres til gjestene via NFC-kort innen 30 minutter.',
+                'I mai 2024 gjennomførte OLagoons senior guideinstruktør Diego Castillo et 2-ukers intensivprogram som sertifiserte 8 av Casa del Pacíficos aktivitetsguider. Læreplanen omfattet: teknikk for start og henting i bølgesone for stillehavets strandbrytere, mangronavigasjon med tidevann (guiden må kunne det 3 timer lange tidevannsvinduet for å unngå å sitte fast i gjørme ved lavvann), cenote-etikette (ingen solkrem, ingen berøring av veggene — Dr. Reyes kom tilbake for en halvdags økt om sårbarhet), nødprotokoller (inkludert møter med puma — mangroven har en fast hannpuma) og tospråklig guiding på spansk og engelsk. OLagoon integrerte også SUP-lageret i resortens Oracle Opera PMS-system, slik at SUP-reservasjoner automatisk dukket opp på gjestenes regninger. Fotografiarbeidsflyten: guidene bruker GoPro Hero12 Black med en forhåndsinnstilt «Cenote»-fargeprofil, og bildene overføres til gjestene via NFC-kort innen 30 minutter.',
             },
             {
               title: 'Lansering i høysesongen november 2024 og mediedekning',
               detail:
-                '«Cenote-to-Ocean»-opplevelsen ble lansert 15. november 2024 (starten på Punta Mitas høysesong). Første 30 dager: 112 turer solgt til 450 USD per person = 50 400 USD i omsetning. En journalist fra Condé Nast Traveler var gjest nummer 47; artikkelen hennes «Mexicos nyeste øko-thrill: Padling fra cenote til Stillehavet», publisert i januar 2025, ga over 800 bookinger frem til mars. Gjestetilfredsheten lå i gjennomsnitt på 4,94/5 på tvers av 340 turer. Resorten la til fotografitillegget «Golden Hour» på 150 USD (solnedgangsøkt med profesjonell dronepilot, champagne og østers) — 94 % av gjestene kjøpte det. Innen april 2025 hadde programmet generert 1,12 mill. USD i direkte omsetning med 52 % fortjenestemargin. Casa del Pacífico bestilte 20 ekstra brett for 2026 og kontraherte Afarer til å utvikle en «Whale-Watching SUP»-pakke (vandring av knølhval desember–mars).',
+                '«Cenote-to-Ocean»-opplevelsen ble lansert 15. november 2024 (starten på Punta Mitas høysesong). Første 30 dager: 112 turer solgt til 450 USD per person = 50 400 USD i omsetning. En journalist fra Condé Nast Traveler var gjest nummer 47; artikkelen hennes «Mexicos nyeste øko-thrill: Padling fra cenote til Stillehavet», publisert i januar 2025, ga over 800 bookinger frem til mars. Gjestetilfredsheten lå i gjennomsnitt på 4,94/5 på tvers av 340 turer. Resorten la til fotografitillegget «Golden Hour» på 150 USD (solnedgangsøkt med profesjonell dronepilot, champagne og østers) — 94 % av gjestene kjøpte det. Innen april 2025 hadde programmet generert 1,12 mill. USD i direkte omsetning med 52 % fortjenestemargin. Casa del Pacífico bestilte 20 ekstra brett for 2026 og kontraherte OLagoon til å utvikle en «Whale-Watching SUP»-pakke (vandring av knølhval desember–mars).',
             },
           ],
           results: [
@@ -5525,19 +5525,19 @@ const no: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Thailand',
             background:
-              'Pimchanok «Mint» Suwannarat (32) er opplevelsesdirektør for «Veranda Samui», et 5-stjerners resort med utsikt over Chaweng Noi-stranden, med 98 villaer og et gjennomsnittlig opphold på 6,4 netter. Mint la merke til at 73 % av gjestene booket minst én «øyutflukt» (typisk en hurtigbåttur til Ang Thong Marine Park til 3 500 THB per person), men undersøkelser etter oppholdet klaget på «overfylte turer» og «for mange stopp, for lite padling». Hun forestilte seg en flerdagers SUP-ekspedisjon der gjestene padler mellom Koh Samui og nærliggende øyer og overnatter på økolodger og strandleirer. Ingen resort i Thailand tilbød dette. Hun trengte Afarer til å designe ekspedisjonsutstyr i ekspedisjonsklasse som kunne støtte flerdagersferder uten ekstern støtte, med campingutstyr og forsyninger på vestlige luksusstandarder.',
+              'Pimchanok «Mint» Suwannarat (32) er opplevelsesdirektør for «Veranda Samui», et 5-stjerners resort med utsikt over Chaweng Noi-stranden, med 98 villaer og et gjennomsnittlig opphold på 6,4 netter. Mint la merke til at 73 % av gjestene booket minst én «øyutflukt» (typisk en hurtigbåttur til Ang Thong Marine Park til 3 500 THB per person), men undersøkelser etter oppholdet klaget på «overfylte turer» og «for mange stopp, for lite padling». Hun forestilte seg en flerdagers SUP-ekspedisjon der gjestene padler mellom Koh Samui og nærliggende øyer og overnatter på økolodger og strandleirer. Ingen resort i Thailand tilbød dette. Hun trengte OLagoon til å designe ekspedisjonsutstyr i ekspedisjonsklasse som kunne støtte flerdagersferder uten ekstern støtte, med campingutstyr og forsyninger på vestlige luksusstandarder.',
             goal: 'Lansere «The Samui Archipelago Paddle» — en 5 dager/4 netter lang guidet SUP-ekspedisjon over 4 øyer (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → retur) til 89 000 THB (2 500 USD) per person, med minst 12 avganger per år og 100 % belegg.',
           },
           steps: [
             {
               title: 'Rutekartlegging og logistikkundersøkelse i Samui-øygruppen',
               detail:
-                'I oktober 2023 brukte Afarers ekspedisjonsspesialist for Asia-Stillehavet, Tomo Kato, og den thailandske marineøkologen Dr. Narong Chaiyasit, 14 dager på å padle kajakk og følge den foreslåtte ruten med motorbåt. De identifiserte 7 kritiske faktorer: monsunvindmønstre (nordøstmonsunen november–januar gjør kryssingen Koh Samui–Koh Phangan farlig; februar–oktober er trygt), campingplasser på Koh Tao (bare 2 strandtomter med tillatelse til telt — hver begrenset til 10 personer), påfyll av ferskvann (ingen på Koh Nang Yuan — gjestene bærer 4 liter per person per dag) og navigasjonskorridorer utenom korallrev (korallene i Koh Taos Shark Bay krever brett med minst 40 cm klaring mot korallen ved lavvann). Den endelige ruten var 68 km over 5 dager med daglige padleavstander på 8–18 km. Tomo testet 14 ankertyper med dragetrekk for strandcamping (Danforth-typen holdt best i Samuis sandbunn).',
+                'I oktober 2023 brukte OLagoons ekspedisjonsspesialist for Asia-Stillehavet, Tomo Kato, og den thailandske marineøkologen Dr. Narong Chaiyasit, 14 dager på å padle kajakk og følge den foreslåtte ruten med motorbåt. De identifiserte 7 kritiske faktorer: monsunvindmønstre (nordøstmonsunen november–januar gjør kryssingen Koh Samui–Koh Phangan farlig; februar–oktober er trygt), campingplasser på Koh Tao (bare 2 strandtomter med tillatelse til telt — hver begrenset til 10 personer), påfyll av ferskvann (ingen på Koh Nang Yuan — gjestene bærer 4 liter per person per dag) og navigasjonskorridorer utenom korallrev (korallene i Koh Taos Shark Bay krever brett med minst 40 cm klaring mot korallen ved lavvann). Den endelige ruten var 68 km over 5 dager med daglige padleavstander på 8–18 km. Tomo testet 14 ankertyper med dragetrekk for strandcamping (Danforth-typen holdt best i Samuis sandbunn).',
             },
             {
               title: '«Archipelago Expedition»-brett med funksjoner for overlevelse og komfort',
               detail:
-                'Afarer designet «Veranda Explorer 13.0» med 400 liter volum — nok til å bære 35 kg campingutstyr pluss 20 kg med gjestenes personlige eiendeler. Funksjonene omfattet: en vanntett lasteluke i baugen med skrudd lokk (testet på 1 meters dybde i 30 minutter), 6 festepunkter i kjede for vanntette poser, et bungee-system på dekket med hurtigkobling for kameratilgang og en avtagbar ror-kjølbord for kursstabilitet i havet (etappen Koh Phangan–Koh Tao har kryssstrøm på 2 knop). Mint insisterte på komfort: hvert brett hadde en oppblåsbar ryggstøtte («LoungePak») med koppholder og et patentert «ShadowDeck»-tak (spent kullfiberstang med stoff i UPF 50+, testet i 35 °C varme). Afarer produserte 24 brett: 12 til gjester, 6 til guider og 6 reserve.',
+                'OLagoon designet «Veranda Explorer 13.0» med 400 liter volum — nok til å bære 35 kg campingutstyr pluss 20 kg med gjestenes personlige eiendeler. Funksjonene omfattet: en vanntett lasteluke i baugen med skrudd lokk (testet på 1 meters dybde i 30 minutter), 6 festepunkter i kjede for vanntette poser, et bungee-system på dekket med hurtigkobling for kameratilgang og en avtagbar ror-kjølbord for kursstabilitet i havet (etappen Koh Phangan–Koh Tao har kryssstrøm på 2 knop). Mint insisterte på komfort: hvert brett hadde en oppblåsbar ryggstøtte («LoungePak») med koppholder og et patentert «ShadowDeck»-tak (spent kullfiberstang med stoff i UPF 50+, testet i 35 °C varme). OLagoon produserte 24 brett: 12 til gjester, 6 til guider og 6 reserve.',
             },
             {
               title: 'Rekruttering av guideteam og sikkerhetssertifisering',
@@ -5547,7 +5547,7 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Den første ekspedisjonen i januar 2025 og en bestillingspipeline for 12 måneder',
               detail:
-                'Jomfruturen gikk 15. januar 2025 med 6 gjester (3 par, alle australske, 34–52 år). Mints team filmet ekspedisjonen til innholdsmateriell. Kryssingen til Koh Phangan på dag 2 ble rammet av et uventet uvær (30 knops vind i 45 minutter) — Afarer-brettene håndterte det uten en eneste kanting; guideprotokollen brukte «flåte»-formasjonen (brett bundet sammen i et stjernemønster). Innen mars 2025 var 11 av de 12 planlagte avgangene i 2025 helt utsolgt (venteliste på 40 gjester). Omsetningsprognose for 2025: 12 × 6 gjester × 89 000 THB = 6,41 mill. THB (178 000 USD). Verandas administrerende direktør godkjente bygging av en dedikert «Expedition Pavilion» ved stranden til briefinger før avgang. Mint utvikler nå en 3-dagers «Family Explorer»-rute (kortere avstander, camping med resortbase) for 2026.',
+                'Jomfruturen gikk 15. januar 2025 med 6 gjester (3 par, alle australske, 34–52 år). Mints team filmet ekspedisjonen til innholdsmateriell. Kryssingen til Koh Phangan på dag 2 ble rammet av et uventet uvær (30 knops vind i 45 minutter) — OLagoon-brettene håndterte det uten en eneste kanting; guideprotokollen brukte «flåte»-formasjonen (brett bundet sammen i et stjernemønster). Innen mars 2025 var 11 av de 12 planlagte avgangene i 2025 helt utsolgt (venteliste på 40 gjester). Omsetningsprognose for 2025: 12 × 6 gjester × 89 000 THB = 6,41 mill. THB (178 000 USD). Verandas administrerende direktør godkjente bygging av en dedikert «Expedition Pavilion» ved stranden til briefinger før avgang. Mint utvikler nå en 3-dagers «Family Explorer»-rute (kortere avstander, camping med resortbase) for 2026.',
             },
           ],
           results: [
@@ -5559,8 +5559,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor resorter velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor resorter velger OLagoon',
       items: [
         {
           title: 'Gjesteopplevelse',
@@ -5588,38 +5588,38 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvilke SUP-brett egner seg best for vannaktiviteter ved resorter?',
         answer:
-          'Resorter trenger stabile, nybegynnervennlige SUP-brett som passer for gjester på alle ferdighetsnivåer. Afarer tilbyr familieresortpakker med allround-brett, luksuspakker for øyer med premium-design og pakker for helserefugier med brede yogabrett — alle kan tilpasses med resortets merkevare.',
+          'Resorter trenger stabile, nybegynnervennlige SUP-brett som passer for gjester på alle ferdighetsnivåer. OLagoon tilbyr familieresortpakker med allround-brett, luksuspakker for øyer med premium-design og pakker for helserefugier med brede yogabrett — alle kan tilpasses med resortets merkevare.',
       },
       {
-        question: 'Kan Afarer tilpasse SUP-brett med resortets logo og merkevarefarger?',
+        question: 'Kan OLagoon tilpasse SUP-brett med resortets logo og merkevarefarger?',
         answer:
-          'Ja, Afarer tilbyr full tilpasning, inkludert logointegrasjon, fargedesign som matcher resortets arkitektur og merkevareidentitet, og premium-emballasje med merket tilbehør og instruksjonsmateriell for gjestene.',
+          'Ja, OLagoon tilbyr full tilpasning, inkludert logointegrasjon, fargedesign som matcher resortets arkitektur og merkevareidentitet, og premium-emballasje med merket tilbehør og instruksjonsmateriell for gjestene.',
       },
       {
         question: 'Tilbyr dere lagringsløsninger for resortens SUP-utstyr?',
         answer:
-          'Ja, Afarer hjelper med å planlegge utstyrslagring med SUP-stativer, organiseringssystemer og værbeskyttende løsninger som tar hensyn til soleksponering, fuktighet og kystmiljøer, for å beskytte investeringen din og opprettholde resortets utseende.',
+          'Ja, OLagoon hjelper med å planlegge utstyrslagring med SUP-stativer, organiseringssystemer og værbeskyttende løsninger som tar hensyn til soleksponering, fuktighet og kystmiljøer, for å beskytte investeringen din og opprettholde resortets utseende.',
       },
       {
         question: 'Hvilken opplæring trenger resortansatte for å drive SUP-programmer?',
         answer:
-          'Afarer gir driftsveiledning med prosedyrer for utstyrshåndtering, oppblåsingsinstruksjoner, rengjøringsmetoder, lagringsretningslinjer, sikkerhetsprosedyrer for gjester og daglige driftssjekklister, slik at alle ansatte kan drive programmet profesjonelt.',
+          'OLagoon gir driftsveiledning med prosedyrer for utstyrshåndtering, oppblåsingsinstruksjoner, rengjøringsmetoder, lagringsretningslinjer, sikkerhetsprosedyrer for gjester og daglige driftssjekklister, slik at alle ansatte kan drive programmet profesjonelt.',
       },
       {
-        question: 'Hvor holdbare er Afarers SUP-brett ved daglig bruk i resort?',
+        question: 'Hvor holdbare er OLagoons SUP-brett ved daglig bruk i resort?',
         answer:
-          'Afarers resort-SUP-brett har forsterket PVC-konstruksjon, komponenter i kommersiell klasse og holdbare drop stitch-strukturer designet for å tåle daglig bruk av gjester, samtidig som de beholder premium-utseende og ytelse.',
+          'OLagoons resort-SUP-brett har forsterket PVC-konstruksjon, komponenter i kommersiell klasse og holdbare drop stitch-strukturer designet for å tåle daglig bruk av gjester, samtidig som de beholder premium-utseende og ytelse.',
       },
       {
         question: 'Kan vi tilby SUP sammen med andre vannaktiviteter?',
         answer:
-          'Ja, Afarer kan støtte utvidelse til vannfitnessprodukter, familieutstyr for vann og andre friluftsprodukter for å skape en komplett portefølje av vannaktiviteter ved resortet.',
+          'Ja, OLagoon kan støtte utvidelse til vannfitnessprodukter, familieutstyr for vann og andre friluftsprodukter for å skape en komplett portefølje av vannaktiviteter ved resortet.',
       },
     ],
     cta: {
-      title: 'Skap din vannopplevelse for resortet med Afarer',
+      title: 'Skap din vannopplevelse for resortet med OLagoon',
       subtitle:
-        'Destinasjonen din har allerede havet. Skap nå uforglemmelige øyeblikk på det. Afarer hjelper luksushoteller, øyresorter og helsedestinasjoner med å bygge egendefinerte SUP-flåter, merkede vannaktiviteter og komplette utstyrsløsninger for resortet.',
+        'Destinasjonen din har allerede havet. Skap nå uforglemmelige øyeblikk på det. OLagoon hjelper luksushoteller, øyresorter og helsedestinasjoner med å bygge egendefinerte SUP-flåter, merkede vannaktiviteter og komplette utstyrsløsninger for resortet.',
       primaryAction: {
         text: 'Start ditt prosjekt for resortens vannaktiviteter i dag',
       },
@@ -5633,7 +5633,7 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Private label SUP-produsent | OEM-paddleboardleverandør for detaljhandelen | {SITE}',
       description:
-        'Afarer tilbyr private label SUP-produksjonsløsninger for outdoor-detaljhandlere, sportsbutikkjeder og globale merker. Skreddersydde paddleboards med detaljhandelsemballasje, samsvarsstøtte og pålitelig OEM-leveranse.',
+        'OLagoon tilbyr private label SUP-produksjonsløsninger for outdoor-detaljhandlere, sportsbutikkjeder og globale merker. Skreddersydde paddleboards med detaljhandelsemballasje, samsvarsstøtte og pålitelig OEM-leveranse.',
     },
     hero: {
       tagline: 'Private label-program for detaljhandel™',
@@ -5675,7 +5675,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Egendefinert produktutvikling av SUP med privat merkevare',
           description:
-            'Afarer hjelper forhandlere med å utvikle produkter basert på målgrupper, prisposisjonering, salgskanaler og markedstrender på tvers av SUP-kolleksjoner i inngangsnivå, mellomklasse for livsstil og premium.',
+            'OLagoon hjelper forhandlere med å utvikle produkter basert på målgrupper, prisposisjonering, salgskanaler og markedstrender på tvers av SUP-kolleksjoner i inngangsnivå, mellomklasse for livsstil og premium.',
           features: [
             'SUP-kolleksjon i inngangsnivå',
             'SUP-kolleksjon i mellomklasse for livsstil',
@@ -5685,25 +5685,25 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Optimalisering av marginer i detaljhandelen',
           description:
-            'Afarer hjelper forhandlere med å optimalisere produktstrukturen gjennom kostnadskontroll i produksjonen og justeringer av produktkonfigurasjonen, slik at den matcher målbutikkpris, kundeforventninger og marginmål.',
+            'OLagoon hjelper forhandlere med å optimalisere produktstrukturen gjennom kostnadskontroll i produksjonen og justeringer av produktkonfigurasjonen, slik at den matcher målbutikkpris, kundeforventninger og marginmål.',
           features: ['Kostnadskontroll i produksjonen', 'Optimalisering av produktkonfigurasjonen', 'Materialvalg'],
         },
         {
           title: 'Emballasjedesign klar for detaljhandel',
           description:
-            'Afarer støtter komplette emballasjeløsninger, inkludert displayemballasje med fargekartonger og produktbilder, e-handelsemballasje optimalisert for Amazon og Shopify, og integrasjon av merkevarehistorikken.',
+            'OLagoon støtter komplette emballasjeløsninger, inkludert displayemballasje med fargekartonger og produktbilder, e-handelsemballasje optimalisert for Amazon og Shopify, og integrasjon av merkevarehistorikken.',
           features: ['Displayemballasje', 'E-handelsemballasje', 'Integrasjon av merkevarehistorikk'],
         },
         {
           title: 'Internasjonal støtte for kvalitet og samsvar',
           description:
-            'Afarer støtter forhandlerne med kvalitetsdokumentasjon, inkludert samsvarsopplysninger for materialer, støtte til produkttesting og eksportdokumentasjon for å hjelpe med å håndtere importkravene.',
+            'OLagoon støtter forhandlerne med kvalitetsdokumentasjon, inkludert samsvarsopplysninger for materialer, støtte til produkttesting og eksportdokumentasjon for å hjelpe med å håndtere importkravene.',
           features: ['Støtte for materialsamsvar', 'Støtte til produkttesting', 'Støtte for eksportdokumentasjon'],
         },
         {
           title: 'OEM-produksjon i store volumer',
           description:
-            'Afarer støtter ulike innkjøpsvolumer, fra lanseringer av nye produkter på 500–2 000 enheter til utvidelse i detaljhandelen på 3 000–10 000 enheter, og globale detaljhandelsprogrammer med årlige leveranseavtaler.',
+            'OLagoon støtter ulike innkjøpsvolumer, fra lanseringer av nye produkter på 500–2 000 enheter til utvidelse i detaljhandelen på 3 000–10 000 enheter, og globale detaljhandelsprogrammer med årlige leveranseavtaler.',
           features: [
             'Lansering av nytt produkt (500–2 000 enheter)',
             'Utvidelse i detaljhandelen (3 000–10 000 enheter)',
@@ -5713,24 +5713,24 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Sesongplanlegging av forsyningskjeden',
           description:
-            'Afarer støtter produktplanlegging basert på etterspørselen om våren og sommeren og regionale markeder, i tillegg til produksjonsplanlegging som hjelper forhandlerne med å styre lagertidsføring, lagerplanlegging og kampanjer.',
+            'OLagoon støtter produktplanlegging basert på etterspørselen om våren og sommeren og regionale markeder, i tillegg til produksjonsplanlegging som hjelper forhandlerne med å styre lagertidsføring, lagerplanlegging og kampanjer.',
         },
         {
           title: 'ODM-støtte til produktinnovasjon',
           description:
-            'Forhandlere trenger differensiering. Afarer støtter egendefinerte brettformer, egendefinert grafikk med forhandlerens merkevareidentitet og produktpakker, inkludert SUP-pakker og komplette friluftskit.',
+            'Forhandlere trenger differensiering. OLagoon støtter egendefinerte brettformer, egendefinert grafikk med forhandlerens merkevareidentitet og produktpakker, inkludert SUP-pakker og komplette friluftskit.',
           features: ['Egendefinerte brettformer', 'Egendefinert grafikk', 'Produktpakker'],
         },
         {
           title: 'Støtte for detaljhandel over flere kanaler',
           description:
-            'Afarer støtter produkter for fysiske butikker med attraktiv emballasje, e-handelsplattformer med sterke visuelle uttrykk og forhandlernettverk med stabil leveranse og ensartede spesifikasjoner.',
+            'OLagoon støtter produkter for fysiske butikker med attraktiv emballasje, e-handelsplattformer med sterke visuelle uttrykk og forhandlernettverk med stabil leveranse og ensartede spesifikasjoner.',
           features: ['Fysiske butikker', 'E-handelsplattformer', 'Forhandlernettverk'],
         },
         {
           title: 'Kvalitetskontroll og leveringspålitelighet',
           description:
-            'Afarer forstår at forhandlere selger tillit. Kvalitetssystemene omfatter produksjonsinspeksjon, inspeksjon før forsendelse og kontroll av partikonsistens som sikrer samme kvalitet i store bestillinger.',
+            'OLagoon forstår at forhandlere selger tillit. Kvalitetssystemene omfatter produksjonsinspeksjon, inspeksjon før forsendelse og kontroll av partikonsistens som sikrer samme kvalitet i store bestillinger.',
           features: ['Produksjonsinspeksjon', 'Inspeksjon før forsendelse', 'Kontroll av partikonsistens'],
         },
       ],
@@ -5747,7 +5747,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Planlegging av produktlinjen',
           detail:
-            'Afarer bidro til å lage en SUP-kolleksjon med privat merkevare, inkludert familie-SUP i inngangsnivå, touring-SUP og premium livsstils-SUP rettet mot deres eksisterende kundebase.',
+            'OLagoon bidro til å lage en SUP-kolleksjon med privat merkevare, inkludert familie-SUP i inngangsnivå, touring-SUP og premium livsstils-SUP rettet mot deres eksisterende kundebase.',
         },
         {
           title: 'Produkttilpasning',
@@ -5784,29 +5784,29 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Sammenligning av leverandører og workshop for produktspesifikasjoner',
               detail:
-                'I mars 2024 fløy Sarahs team til Afarers hovedkontor i Shenzhen til en 3-dagers produktworkshop. De testet 14 ulike SUP-konstruksjoner, inkludert varianter av drop stitch-tetthet, kantprofiler og dekkputekonfigurasjoner. Afarers ingeniørteam laget 3 egendefinerte PVC-formuleringer for å oppfylle australske standarder for UV-stråling. Rebel Sport forpliktet seg til en startbestilling (MOQ) på 5 000 enheter fordelt på 6 SKU-er med 1,8 mill. AUD i investering på forhånd, inkludert 2 allround-brett, 2 touringformer, 1 yogaplattform og 1 juniorbrett.',
+                'I mars 2024 fløy Sarahs team til OLagoons hovedkontor i Shenzhen til en 3-dagers produktworkshop. De testet 14 ulike SUP-konstruksjoner, inkludert varianter av drop stitch-tetthet, kantprofiler og dekkputekonfigurasjoner. OLagoons ingeniørteam laget 3 egendefinerte PVC-formuleringer for å oppfylle australske standarder for UV-stråling. Rebel Sport forpliktet seg til en startbestilling (MOQ) på 5 000 enheter fordelt på 6 SKU-er med 1,8 mill. AUD i investering på forhånd, inkludert 2 allround-brett, 2 touringformer, 1 yogaplattform og 1 juniorbrett.',
             },
             {
               title: 'Egendefinert merkevare, emballasje og samsvarsarbeid',
               detail:
-                'Afarers designteam utviklet Rebel Sports merkevareidentitet «Coastal Force», inkludert egendefinert dekkgrafikk, fargekombinasjoner eksklusive for Rebel og butikkklar emballasje med hyllepratere. Samsvarsteamet sikret sertifisering etter AS/NZS 1900-2014, samsvar med australsk forbrukerlovgivning og fullførte ISTA 3A-transittesting. Afarer produserte 200 forproduksjonsenheter sendt med flyfrakt i april 2024 til testing i butikk på 12 flaggskipslokasjoner, der 87 % av displayenhetene ble solgt i løpet av 2 uker til full butikkpris på 399 AUD.',
+                'OLagoons designteam utviklet Rebel Sports merkevareidentitet «Coastal Force», inkludert egendefinert dekkgrafikk, fargekombinasjoner eksklusive for Rebel og butikkklar emballasje med hyllepratere. Samsvarsteamet sikret sertifisering etter AS/NZS 1900-2014, samsvar med australsk forbrukerlovgivning og fullførte ISTA 3A-transittesting. OLagoon produserte 200 forproduksjonsenheter sendt med flyfrakt i april 2024 til testing i butikk på 12 flaggskipslokasjoner, der 87 % av displayenhetene ble solgt i løpet av 2 uker til full butikkpris på 399 AUD.',
             },
             {
               title: 'Utrulling av lager i faser og opplæringsprogram for staben',
               detail:
-                'Afarer koordinerte en 3-faset sjøfraktplan: fase 1 (1 500 enheter til distribusjonssenteret i Sydney innen 1. juni), fase 2 (2 000 enheter til distribusjonssentrene i Melbourne og Brisbane innen 1. juli), fase 3 (1 500 enheter til distribusjonssentrene i Perth og Adelaide innen 1. august). Afarers opplæringsteam gjennomførte 24 virtuelle train-the-trainer-økter for Rebels avdelingsledere som dekket produktfunksjoner, forskjeller i brettkonstruksjon, krysssalg av tilbehør og spørsmål om tilpasning til kunden. Hver butikk fikk et demobrett og en sammenligningsguide ved kassen.',
+                'OLagoon koordinerte en 3-faset sjøfraktplan: fase 1 (1 500 enheter til distribusjonssenteret i Sydney innen 1. juni), fase 2 (2 000 enheter til distribusjonssentrene i Melbourne og Brisbane innen 1. juli), fase 3 (1 500 enheter til distribusjonssentrene i Perth og Adelaide innen 1. august). OLagoons opplæringsteam gjennomførte 24 virtuelle train-the-trainer-økter for Rebels avdelingsledere som dekket produktfunksjoner, forskjeller i brettkonstruksjon, krysssalg av tilbehør og spørsmål om tilpasning til kunden. Hver butikk fikk et demobrett og en sammenligningsguide ved kassen.',
             },
             {
               title: 'Lanseringskampanje, måling av ytelse og optimalisering av etterbestilling',
               detail:
-                'Linjen «Coastal Force» ble lansert 15. august 2024 med en markedsføringskampanje på 500 000 AUD, inkludert skilting i butikk, katalogomtale og influencerpartnertskap med australske padlebrettutøvere. Afarers dedikerte kundeteam leverte ukentlige salgsrapporter via et delt dashbord. Innen november 2024 lå salgsandelen (sell-through) i gjennomsnitt på 72 % på tvers av alle SKU-er, der allround-modellen 10\'6" sto for 41 % av salget. Rebel la inn en etterbestilling på 3 000 enheter til vårsesongen 2025, inkludert 2 nye touringmodeller basert på tilbakemeldinger fra kundene.',
+                'Linjen «Coastal Force» ble lansert 15. august 2024 med en markedsføringskampanje på 500 000 AUD, inkludert skilting i butikk, katalogomtale og influencerpartnertskap med australske padlebrettutøvere. OLagoons dedikerte kundeteam leverte ukentlige salgsrapporter via et delt dashbord. Innen november 2024 lå salgsandelen (sell-through) i gjennomsnitt på 72 % på tvers av alle SKU-er, der allround-modellen 10\'6" sto for 41 % av salget. Rebel la inn en etterbestilling på 3 000 enheter til vårsesongen 2025, inkludert 2 nye touringmodeller basert på tilbakemeldinger fra kundene.',
             },
           ],
           results: [
             '4,8 mill. AUD i detaljhandelssalg det første året (14 % over målet på 4,2 mill. AUD) i 87 butikker med 62 % salgsandel',
             'Bruttomargin på 55,3 % oppnådd, mot 32 % margin på tredjepartsmerker — en tilleggsvinst på 1,1 mill. AUD',
             '19,2 % markedsandel i det australske SUP-segmentet under 500 AUD i løpet av 10 måneder etter lansering',
-            'Returandelen fra kundene ble 3,2 % (bransjegjennomsnittet er 8–12 %) takket være Afarers kvalitetskontroll og konstruksjon sertifisert for Australia',
+            'Returandelen fra kundene ble 3,2 % (bransjegjennomsnittet er 8–12 %) takket være OLagoons kvalitetskontroll og konstruksjon sertifisert for Australia',
           ],
         },
         {
@@ -5821,35 +5821,35 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Validering av konseptet og design-sprint for produktet',
               detail:
-                "I september 2024 engasjerte Macy's produktutviklingsteam, ledet av David, Afarer til en 8-ukers rask design-sprint. Afarers industridesignere laget 8 konseptbrett med detaljerte spesifikasjoner, inkludert 3 allround-brett (10', 11', 12') og 1 touringbrett. Macy's valgte 4 SKU-er med eksklusiv «Boardwalk Reserve»-merking, kystinspirerte fargekombinasjoner (Seafoam, Sandbar, Coral, Navy) og butikkpriser på 349–549 USD. Afarer laget egendefinerte 3D-visualiseringer og fysiske modeller i løpet av 14 dager, og Macy's godkjente hele linjen 15. oktober 2024 med en bestilling på 6 000 enheter til en verdi av 1,2 mill. USD i engrossalg.",
+                "I september 2024 engasjerte Macy's produktutviklingsteam, ledet av David, OLagoon til en 8-ukers rask design-sprint. OLagoons industridesignere laget 8 konseptbrett med detaljerte spesifikasjoner, inkludert 3 allround-brett (10', 11', 12') og 1 touringbrett. Macy's valgte 4 SKU-er med eksklusiv «Boardwalk Reserve»-merking, kystinspirerte fargekombinasjoner (Seafoam, Sandbar, Coral, Navy) og butikkpriser på 349–549 USD. OLagoon laget egendefinerte 3D-visualiseringer og fysiske modeller i løpet av 14 dager, og Macy's godkjente hele linjen 15. oktober 2024 med en bestilling på 6 000 enheter til en verdi av 1,2 mill. USD i engrossalg.",
             },
             {
               title: 'Integrasjon av forsyningskjeden og forberedelse til samsvar',
               detail:
-                "Afarers forsyningskjedeteam arbeidet med Macy's samsvarsavdeling for å oppfylle alle amerikanske CPSC-sikkerhetsstandarder, sertifisering etter ASTM F3340-18 og kravene i California Prop 65. Emballasjen ble designet for Macy's krav til hylleklar visning, inkludert EAS-merker, QR-koder med lenker til videomontasjeveiledninger og kompakte kartongdimensjoner (36 x 16 x 12 tommer) optimalisert for plassering i Macy's distribusjonssenter. Afarer produserte 500 forsalgsenheter i november 2024 og sendte dem med flyfrakt til Macy's til tester i 20 butikker og til produktfotografering på nett. Hver testbutikk solgte i gjennomsnitt 14 enheter per uke i julesesongen til en butikkpris på 399 USD.",
+                "OLagoons forsyningskjedeteam arbeidet med Macy's samsvarsavdeling for å oppfylle alle amerikanske CPSC-sikkerhetsstandarder, sertifisering etter ASTM F3340-18 og kravene i California Prop 65. Emballasjen ble designet for Macy's krav til hylleklar visning, inkludert EAS-merker, QR-koder med lenker til videomontasjeveiledninger og kompakte kartongdimensjoner (36 x 16 x 12 tommer) optimalisert for plassering i Macy's distribusjonssenter. OLagoon produserte 500 forsalgsenheter i november 2024 og sendte dem med flyfrakt til Macy's til tester i 20 butikker og til produktfotografering på nett. Hver testbutikk solgte i gjennomsnitt 14 enheter per uke i julesesongen til en butikkpris på 399 USD.",
             },
             {
               title: 'Lansering over flere kanaler og opplevelse i butikk',
               detail:
-                "Hovedforsendelsen på 5 500 enheter ankom Macy's distribusjonssenter i Robbinsville i New Jersey 1. februar 2025. Afarer leverte 340 displaystativer i full størrelse med integrert brettlagring og podder for tilbehør. Afarers opplæringsteam laget en 12-minutters videomodul for 8 500 sesongansatte i Macy's som dekket produktkunnskap og krysssalgsteknikker for pumper, padleårer og redningsvester. Kolleksjonen ble lansert på macys.com 1. mars 2025 og i alle 340 butikkene innen 15. mars, med en egen «Boardwalk Reserve»-butikk-i-butikk-opplevelse i de 50 butikkene med størst volum.",
+                "Hovedforsendelsen på 5 500 enheter ankom Macy's distribusjonssenter i Robbinsville i New Jersey 1. februar 2025. OLagoon leverte 340 displaystativer i full størrelse med integrert brettlagring og podder for tilbehør. OLagoons opplæringsteam laget en 12-minutters videomodul for 8 500 sesongansatte i Macy's som dekket produktkunnskap og krysssalgsteknikker for pumper, padleårer og redningsvester. Kolleksjonen ble lansert på macys.com 1. mars 2025 og i alle 340 butikkene innen 15. mars, med en egen «Boardwalk Reserve»-butikk-i-butikk-opplevelse i de 50 butikkene med størst volum.",
             },
             {
               title: 'Ytelsesanalyse og sesongpåfylling',
               detail:
-                "Innen mai 2025 nådde salgsandelen 58 %, med allround-brettet Seafoam 11' som bestselger (36 % av salget). Konverteringsraten på nett var 4,2 %, betydelig over Macy's kategorigjennomsnitt på 2,1 % for sportsutstyr. Afarers dashbord for lager i sanntid lot Macy's utløse påfyllingsordrer automatisk når butikklageret falt under 6 enheter. Programmet drev salg av tilbehør (padleårer, pumper, tasker, redningsvester) på 2,1 mill. USD med 62 % margin. Macy's benyttet opsjonen sin på en etterbestilling til høsten 2025 på 4 000 enheter med 2 nye fargekombinasjoner med snø- og surftema.",
+                "Innen mai 2025 nådde salgsandelen 58 %, med allround-brettet Seafoam 11' som bestselger (36 % av salget). Konverteringsraten på nett var 4,2 %, betydelig over Macy's kategorigjennomsnitt på 2,1 % for sportsutstyr. OLagoons dashbord for lager i sanntid lot Macy's utløse påfyllingsordrer automatisk når butikklageret falt under 6 enheter. Programmet drev salg av tilbehør (padleårer, pumper, tasker, redningsvester) på 2,1 mill. USD med 62 % margin. Macy's benyttet opsjonen sin på en etterbestilling til høsten 2025 på 4 000 enheter med 2 nye fargekombinasjoner med snø- og surftema.",
             },
           ],
           results: [
             '4,1 mill. USD i total GMV på tvers av 340 butikker og macys.com i løpet av de første 7 månedene, 17 % over målet på 3,5 mill. USD',
             'Opprinnelig påslag på 53 % oppnådd, mot 38 % på sammenlignbart friluftsutstyr fra tredjepartsmerker, som bidro med 1,6 mill. USD i bruttofortjeneste',
             'Konverteringsrate på 4,2 % på nett med en tilknytningsrate på 11,7 % for tilbehør, som drev et ekstra salg på 2,1 mill. USD med høy margin',
-            '98,4 % punktlighet i leveranser fra Afarers forsyningskjede fra fabrikk til distribusjonssenter, uten utsolgte varer i toppsalgssesongen mars–mai',
+            '98,4 % punktlighet i leveranser fra OLagoons forsyningskjede fra fabrikk til distribusjonssenter, uten utsolgte varer i toppsalgssesongen mars–mai',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor innkjøpere i detaljhandelen velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor innkjøpere i detaljhandelen velger OLagoon',
       items: [
         {
           title: 'Produktutvikling',
@@ -5887,37 +5887,37 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hva er et private label-program for SUP, og hvordan fungerer det for friluftsforhandlere?',
         answer:
-          'Et private label-program for SUP lar friluftsforhandlere lage og selge padlebrett under sitt eget merkenavn. Afarer håndterer hele OEM/ODM-prosessen, inkludert produktutvikling, produksjon, sertifiseringsstøtte, emballasjedesign og leveranser i volum. Forhandlerne kan lansere egendefinerte SUP-kolleksjoner uten å investere i fabrikkutstyr eller kompetanse på oppblåsbar produksjon.',
+          'Et private label-program for SUP lar friluftsforhandlere lage og selge padlebrett under sitt eget merkenavn. OLagoon håndterer hele OEM/ODM-prosessen, inkludert produktutvikling, produksjon, sertifiseringsstøtte, emballasjedesign og leveranser i volum. Forhandlerne kan lansere egendefinerte SUP-kolleksjoner uten å investere i fabrikkutstyr eller kompetanse på oppblåsbar produksjon.',
       },
       {
         question:
           'Hvordan kan forhandlere sikre at sine private label SUP-produkter oppfyller internasjonale sikkerhetsstandarder?',
         answer:
-          'Afarer støtter forhandlerne med komplett samsvarsdokumentasjon, inkludert CE- og REACH-krav, sikkerhetsdata for materialer, produkttestrapporter og kvalitetsinspeksjonsregistreringer. Dette sikrer at private label SUP-produkter oppfyller forskriftskravene for europeiske, nordamerikanske og andre internasjonale markeder.',
+          'OLagoon støtter forhandlerne med komplett samsvarsdokumentasjon, inkludert CE- og REACH-krav, sikkerhetsdata for materialer, produkttestrapporter og kvalitetsinspeksjonsregistreringer. Dette sikrer at private label SUP-produkter oppfyller forskriftskravene for europeiske, nordamerikanske og andre internasjonale markeder.',
       },
       {
         question: 'Hvilke minstebestillinger kreves vanligvis for egendefinert SUP-produksjon?',
         answer:
-          'Afarer imøtekommer ulike volumer. Lanseringer av nye produkter og markedstesting starter typisk på 500–2 000 enheter. Bestillinger for utvidelse i detaljhandelen ligger på 3 000–10 000 enheter. Store globale detaljhandelsprogrammer med årlige leveranseavtaler kan skaleres til titusenvis av enheter på tvers av flere modeller.',
+          'OLagoon imøtekommer ulike volumer. Lanseringer av nye produkter og markedstesting starter typisk på 500–2 000 enheter. Bestillinger for utvidelse i detaljhandelen ligger på 3 000–10 000 enheter. Store globale detaljhandelsprogrammer med årlige leveranseavtaler kan skaleres til titusenvis av enheter på tvers av flere modeller.',
       },
       {
         question: 'Hvor lang tid tar det å utvikle og lansere en private label SUP-produktlinje?',
         answer:
-          'Tidslinjen avhenger av hvor kompleks tilpasningen er. Afarers strømlinjeformede prosess fra produktkonsept til hylleklar leveranse tar vanligvis 8–16 uker, inkludert produktplanlegging, designgodkjenning, prototypeutvikling, sertifiseringsstøtte, produksjon og frakt. Sesongplanlegging anbefales for å treffe etterspørselssyklusene om våren og sommeren.',
+          'Tidslinjen avhenger av hvor kompleks tilpasningen er. OLagoons strømlinjeformede prosess fra produktkonsept til hylleklar leveranse tar vanligvis 8–16 uker, inkludert produktplanlegging, designgodkjenning, prototypeutvikling, sertifiseringsstøtte, produksjon og frakt. Sesongplanlegging anbefales for å treffe etterspørselssyklusene om våren og sommeren.',
       },
       {
         question: 'Kan forhandlere tilpasse SUP-emballasjen til sin merkevareidentitet?',
         answer:
-          'Ja, Afarer støtter full tilpasning av emballasjen, inkludert merkede fargekartonger, produktbilder, fordelsmarkeringer og merkevarebudskap. Emballasjealternativer finnes både for fysiske butikkhyller og e-handelsplattformer som Amazon og Shopify, med veiledning i produktfotografering og informasjonsstruktur.',
+          'Ja, OLagoon støtter full tilpasning av emballasjen, inkludert merkede fargekartonger, produktbilder, fordelsmarkeringer og merkevarebudskap. Emballasjealternativer finnes både for fysiske butikkhyller og e-handelsplattformer som Amazon og Shopify, med veiledning i produktfotografering og informasjonsstruktur.',
       },
       {
-        question: 'Hvilken støtte gir Afarer for planlegging av sesongetterspørsel?',
+        question: 'Hvilken støtte gir OLagoon for planlegging av sesongetterspørsel?',
         answer:
-          'Afarer hjelper forhandlerne med å håndtere sesongetterspørselen for friluftsprodukter gjennom koordinert produksjonsplanlegging, tidsføring av lager, lagerplanlegging og tilpasning til kampanjer. Årlige leveranseavtaler gir forutsigbare leveringstider og garantert produksjonskapasitet i høysesongene.',
+          'OLagoon hjelper forhandlerne med å håndtere sesongetterspørselen for friluftsprodukter gjennom koordinert produksjonsplanlegging, tidsføring av lager, lagerplanlegging og tilpasning til kampanjer. Årlige leveranseavtaler gir forutsigbare leveringstider og garantert produksjonskapasitet i høysesongene.',
       },
     ],
     cta: {
-      title: 'Bygg din private label SUP-kolleksjon med Afarer',
+      title: 'Bygg din private label SUP-kolleksjon med OLagoon',
       subtitle: 'Kundene dine kjøper allerede friluftsprodukter. Skap nå din egen vannsportskategori.',
       primaryAction: {
         text: 'Start ditt private label-prosjekt for detaljhandel i dag',
@@ -5939,9 +5939,9 @@ const no: Record<string, SolutionOverride> = {
       title:
         'Profesjonelle SUP-utstyrsløsninger for vannsportsskoler, ungdomsprogrammer og organisasjoner for friluftsliv',
       subtitle:
-        'Afarer leverer utstyrsprogram for SUP-akademier, en komplett utstyrsløsning utviklet for profesjonelle læringsmiljøer. Vi hjelper SUP-skoler, ungdomssentre, sommerleirer og friluftsbedrifter med å bygge pålitelige treningsflåter med nybegynnervennlige brett, barnemodeller og instruktørutstyr.',
+        'OLagoon leverer utstyrsprogram for SUP-akademier, en komplett utstyrsløsning utviklet for profesjonelle læringsmiljøer. Vi hjelper SUP-skoler, ungdomssentre, sommerleirer og friluftsbedrifter med å bygge pålitelige treningsflåter med nybegynnervennlige brett, barnemodeller og instruktørutstyr.',
       image: {
-        alt: 'Afarers akademiutstyr for SUP for treningsskoler og ungdomsprogrammer',
+        alt: 'OLagoons akademiutstyr for SUP for treningsskoler og ungdomsprogrammer',
       },
     },
     challenge: {
@@ -5975,7 +5975,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'SUP-treningsbrett for nybegynnere',
           description:
-            'Afarer utvikler stabile SUP-brett spesielt for læringsmiljøer, med plattformdesign med høy stabilitet for enklere balanse, konstruksjon med høy oppdrift for bedre flytestøtte og allround-former for nybegynnere med sakte fart og enkel styring.',
+            'OLagoon utvikler stabile SUP-brett spesielt for læringsmiljøer, med plattformdesign med høy stabilitet for enklere balanse, konstruksjon med høy oppdrift for bedre flytestøtte og allround-former for nybegynnere med sakte fart og enkel styring.',
           features: [
             'Plattformdesign med høy stabilitet',
             'Konstruksjon med høy oppdrift',
@@ -5986,7 +5986,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'SUP-program for barn',
           description:
-            'Barn trenger utstyr designet rundt deres størrelse og ferdigheter. Afarer tilbyr SUP-brett for barn med passende lengde, lett håndtering, stabil form og et barnvennlig utseende for skoleprogrammer, sommerleirer, juniorkurs og familieaktiviteter.',
+            'Barn trenger utstyr designet rundt deres størrelse og ferdigheter. OLagoon tilbyr SUP-brett for barn med passende lengde, lett håndtering, stabil form og et barnvennlig utseende for skoleprogrammer, sommerleirer, juniorkurs og familieaktiviteter.',
           features: [
             'Design av SUP-brett for barn',
             'Bruk i ungdomstrening',
@@ -6002,12 +6002,12 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Komplett flåtepakke for SUP-akademiet',
           description:
-            'Afarer hjelper akademier med å bygge komplette utstyrssystemer, inkludert elevutstyr med nybegynnerbrett og justerbare padleårer, instruktørutstyr med premium SUP-brett og vedlikeholdsutstyr med reperasjonssett og reservedeler for smidig daglig drift.',
+            'OLagoon hjelper akademier med å bygge komplette utstyrssystemer, inkludert elevutstyr med nybegynnerbrett og justerbare padleårer, instruktørutstyr med premium SUP-brett og vedlikeholdsutstyr med reperasjonssett og reservedeler for smidig daglig drift.',
         },
         {
           title: 'Kommersiell holdbarhet for daglig undervisning',
           description:
-            'Treningsutstyr krever sterkere konstruksjon. Afarer fokuserer på forsterkede PVC-materialer for bedre slitestyrke, holdbar drop stitch-struktur for brettenes stivhet og forsterkede kanter som beskytter mot støt mot strand og skader under transport.',
+            'Treningsutstyr krever sterkere konstruksjon. OLagoon fokuserer på forsterkede PVC-materialer for bedre slitestyrke, holdbar drop stitch-struktur for brettenes stivhet og forsterkede kanter som beskytter mot støt mot strand og skader under transport.',
           features: [
             'Forsterkede PVC-materialer',
             'Holdbar drop stitch-struktur',
@@ -6018,22 +6018,22 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Støtte til flåtestyring for akademiet',
           description:
-            'Store opplæringsprogrammer trenger struktur. Afarer støtter standardisert flåtekonfigurasjon for enklere treneropplæring, identifikasjon av utstyr med brettnummerering og akademilogoer og reservedelsplanlegging med reservepadleårer og reperasjonsmateriell.',
+            'Store opplæringsprogrammer trenger struktur. OLagoon støtter standardisert flåtekonfigurasjon for enklere treneropplæring, identifikasjon av utstyr med brettnummerering og akademilogoer og reservedelsplanlegging med reservepadleårer og reperasjonsmateriell.',
         },
         {
           title: 'Løsninger for sommerleirer og ungdomsprogrammer',
           description:
-            'SUP blir stadig mer populært i sommerleirer og ungdomsprogrammer for eventyr. Afarer støtter design av leirflåter med tanke på elevenes alder og gruppestørrelse, gruppeaktivitetsutstyr med flere identiske brett og sesongplanlegging for sommerprogrammer og ferieaktiviteter.',
+            'SUP blir stadig mer populært i sommerleirer og ungdomsprogrammer for eventyr. OLagoon støtter design av leirflåter med tanke på elevenes alder og gruppestørrelse, gruppeaktivitetsutstyr med flere identiske brett og sesongplanlegging for sommerprogrammer og ferieaktiviteter.',
         },
         {
           title: 'Støtte for sikkerhet og vedlikehold',
           description:
-            'Afarer gir praktisk veiledning for daglig drift, inkludert inspeksjonsveiledning for utstyr som dekker lufttrykk, overflate og kontroll av tilbehør før timen, samt rengjøring, tørking og lagringsprosedyrer etter timen, i tillegg til grunnleggende reparasjonsveiledning.',
+            'OLagoon gir praktisk veiledning for daglig drift, inkludert inspeksjonsveiledning for utstyr som dekker lufttrykk, overflate og kontroll av tilbehør før timen, samt rengjøring, tørking og lagringsprosedyrer etter timen, i tillegg til grunnleggende reparasjonsveiledning.',
         },
         {
           title: 'Egendefinert merkevarebygging for akademiet',
           description:
-            'Afarer støtter tilpasning av akademiets logo, fargematching og profesjonelt utseende som skaper sterkere merkevargjenkjennelse, mer profesjonelle timer og bedre elevopplevelse gjennom merkede brett og instruktørutstyr.',
+            'OLagoon støtter tilpasning av akademiets logo, fargematching og profesjonelt utseende som skaper sterkere merkevargjenkjennelse, mer profesjonelle timer og bedre elevopplevelse gjennom merkede brett og instruktørutstyr.',
         },
       ],
     },
@@ -6047,7 +6047,7 @@ const no: Record<string, SolutionOverride> = {
         {
           title: 'Analyse av opplæringsprogrammet',
           detail:
-            'Afarer gikk gjennom elevenes aldersgrupper, undervisningsmetoder og bruksfrekvens for å forstå akademiets spesifikke behov for utstyr til nybegynnere, ungdom og instruktører.',
+            'OLagoon gikk gjennom elevenes aldersgrupper, undervisningsmetoder og bruksfrekvens for å forstå akademiets spesifikke behov for utstyr til nybegynnere, ungdom og instruktører.',
         },
         {
           title: 'Utvikling av flåten',
@@ -6078,29 +6078,29 @@ const no: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Japan',
             background:
-              'Kenji Nakamura (44) er tidligere olympisk bronsevinner i slalåmkajakk (Aten 2004) og 6 ganger japansk nasjonal mester. Etter at han la opp var han trener for Japans juniorlandslag i kajakk i 8 år før han oppdaget SUP i 2018. Han så at Japan ikke hadde ett eneste SUP-tilbud for ungdom, til tross for at sporten var med i OL i Paris i 2024. I 2023 overbeviste han Kamakura by (173 000 innbyggere, kystby 50 km sør for Tokyo) om å la ham bruke den historiske Yuigahama-stranden som treningsarena. Han trengte Afarer til å levere en komplett akademiutstyrspakke: juniorbrett, treningsmateriell og et progresjonsprogram som japanske skoler ville anerkjenne.',
+              'Kenji Nakamura (44) er tidligere olympisk bronsevinner i slalåmkajakk (Aten 2004) og 6 ganger japansk nasjonal mester. Etter at han la opp var han trener for Japans juniorlandslag i kajakk i 8 år før han oppdaget SUP i 2018. Han så at Japan ikke hadde ett eneste SUP-tilbud for ungdom, til tross for at sporten var med i OL i Paris i 2024. I 2023 overbeviste han Kamakura by (173 000 innbyggere, kystby 50 km sør for Tokyo) om å la ham bruke den historiske Yuigahama-stranden som treningsarena. Han trengte OLagoon til å levere en komplett akademiutstyrspakke: juniorbrett, treningsmateriell og et progresjonsprogram som japanske skoler ville anerkjenne.',
             goal: 'Lansere «Kamakura SUP Academy» i april 2024 med 40 juniorstudenter (10–18 år), et 3-nivås sertifiseringssystem (bronse/sølv/gull) og en vei til Japans landslag i SUP — med utstyrskostnader under 8 mill. JPY (53 000 USD) de første 2 årene.',
           },
           steps: [
             {
               title: 'Utvikling av juniorbrett etter japanske standarder for skolesport',
               detail:
-                'I oktober 2023 jobbet Afarers produktutviklingsdirektør Yuki Tanaka (basert i Afarers Osaka-kontor) med Kenji for å designe «Academy Junior 10.0» — et brett spesifikt for asiatiske ungdommers kroppsbygning (en gjennomsnittlig japansk elev på 12 år: 150 cm, 42 kg). Nøkkelspesifikasjoner: 10\'0" x 30" x 4.5" (152 liter volum), vekt 6,8 kg (lett nok til at elevene kan bære det), myke EVA-kanter (reduserer skaderisikoen ved fall) og en kort 120 cm padleåre i glassfiber (egendannet håndtak for små hender). Afarer produserte 40 brett i Japans nasjonale farger (hvitt med rød soloppgangssirkel) og 20 reservebrett. Hvert brett hadde en QR-kode knyttet til Kenjis teknikkvideoer — elevene skannet før trening.',
+                'I oktober 2023 jobbet OLagoons produktutviklingsdirektør Yuki Tanaka (basert i OLagoons Osaka-kontor) med Kenji for å designe «Academy Junior 10.0» — et brett spesifikt for asiatiske ungdommers kroppsbygning (en gjennomsnittlig japansk elev på 12 år: 150 cm, 42 kg). Nøkkelspesifikasjoner: 10\'0" x 30" x 4.5" (152 liter volum), vekt 6,8 kg (lett nok til at elevene kan bære det), myke EVA-kanter (reduserer skaderisikoen ved fall) og en kort 120 cm padleåre i glassfiber (egendannet håndtak for små hender). OLagoon produserte 40 brett i Japans nasjonale farger (hvitt med rød soloppgangssirkel) og 20 reservebrett. Hvert brett hadde en QR-kode knyttet til Kenjis teknikkvideoer — elevene skannet før trening.',
             },
             {
               title: 'Læreplan med 3-nivås sertifisering og sikkerhetsprotokoller',
               detail:
-                'Afarers trenerkonsulent Dave Kalama (via videosamtaler fra Hawaii) samarbeidet med Kenji om læreplanen. Bronse (10 økter): balanse i flattvann, grunnleggende fremdriftsslag, selvedning. Sølv (20 økter): padling på 2 km med tidstaking, pivot-sving, vindbevissthet. Gull (40 økter): padling på 5 km i havet, inn- og utgang fra bølgesonen, racetaktikk og grunnleggende treningslære. Kenji insisterte på sikkerhet: Afarer leverte 50 Type V-redningsvester (japansk-sertifisert, neonoransje med refleksstriper), 50 leash-sett (spiralformet, med hurtigkobling) og et vanntett nettbrett for hendelsesrapportering. Akademiets «Safety First»-protokoll krevde et 4:1-forhold mellom elever og trenere, med redningsbrett og førstehjelpssett innen 30 sekunder fra enhver elev.',
+                'OLagoons trenerkonsulent Dave Kalama (via videosamtaler fra Hawaii) samarbeidet med Kenji om læreplanen. Bronse (10 økter): balanse i flattvann, grunnleggende fremdriftsslag, selvedning. Sølv (20 økter): padling på 2 km med tidstaking, pivot-sving, vindbevissthet. Gull (40 økter): padling på 5 km i havet, inn- og utgang fra bølgesonen, racetaktikk og grunnleggende treningslære. Kenji insisterte på sikkerhet: OLagoon leverte 50 Type V-redningsvester (japansk-sertifisert, neonoransje med refleksstriper), 50 leash-sett (spiralformet, med hurtigkobling) og et vanntett nettbrett for hendelsesrapportering. Akademiets «Safety First»-protokoll krevde et 4:1-forhold mellom elever og trenere, med redningsbrett og førstehjelpssett innen 30 sekunder fra enhver elev.',
             },
             {
               title: 'Godkjenning i bystyret og integreringsprogram med skolene',
               detail:
-                'Afarers landssjef for Japan, Hiroshi Abe, hjalp Kenji gjennom Kamakura bys tillatelsesprosess. Dette krevde: ansvarsforsikring (dekning på 100 mill. JPY), avgrensing av strandsonen (fargede bøyer som markerte et treningsområde på 200 x 50 m — ingen overlapping med badende), støybegrensninger (ingen fløyter etter 17-tiden) og en plan for avfallshåndtering. Afarer produserte tospråklige sikkerhetsmanualer på japansk og engelsk samt verktøy for hendelsesregistrering. Kenji signerte avtaler med 3 lokale ungdomsskoler (Kamakura Daiichi, Koshigoe og Hase) som tilbød SUP som offisiell fritidsklubb etter skoletid — det første i Japan. Hver skole betalte 36 000 JPY per elev per semester for programmet; byen subsidierte 40 % for familier med lav inntekt.',
+                'OLagoons landssjef for Japan, Hiroshi Abe, hjalp Kenji gjennom Kamakura bys tillatelsesprosess. Dette krevde: ansvarsforsikring (dekning på 100 mill. JPY), avgrensing av strandsonen (fargede bøyer som markerte et treningsområde på 200 x 50 m — ingen overlapping med badende), støybegrensninger (ingen fløyter etter 17-tiden) og en plan for avfallshåndtering. OLagoon produserte tospråklige sikkerhetsmanualer på japansk og engelsk samt verktøy for hendelsesregistrering. Kenji signerte avtaler med 3 lokale ungdomsskoler (Kamakura Daiichi, Koshigoe og Hase) som tilbød SUP som offisiell fritidsklubb etter skoletid — det første i Japan. Hver skole betalte 36 000 JPY per elev per semester for programmet; byen subsidierte 40 % for familier med lav inntekt.',
             },
             {
               title: 'Oppstart i april 2024 og utvikling de første 12 månedene',
               detail:
-                'Kamakura SUP Academy åpnet 6. april 2024 med 43 elever (over Kenjis mål på 40). Innen mars 2025 vokste påmeldingen til 87 elever (127 % kapasitet). To elever (Sora Yamamoto (16) og Mei Taniguchi (15)) kvalifiserte seg for Japans juniorlandslag i SUP og deltok i ISA World SUP Championships 2024 i København. Kenjis gullsertifisering ble anerkjent av Japan Canoe Federation som kredit mot nasjonal trenersertifisering. Utrustningssvikt: 2 brett trengte mindre ventilreparasjoner (utbedret i løpet av 24 timer av Afarers servicesenter i Osaka). Afarer og Kenji signerte et 3-årig partnerskap om å utvikle et «Academy Pro» 12.6-brett for avanserte elever og om å utvide til 5 ytterligere kystbyer innen 2027.',
+                'Kamakura SUP Academy åpnet 6. april 2024 med 43 elever (over Kenjis mål på 40). Innen mars 2025 vokste påmeldingen til 87 elever (127 % kapasitet). To elever (Sora Yamamoto (16) og Mei Taniguchi (15)) kvalifiserte seg for Japans juniorlandslag i SUP og deltok i ISA World SUP Championships 2024 i København. Kenjis gullsertifisering ble anerkjent av Japan Canoe Federation som kredit mot nasjonal trenersertifisering. Utrustningssvikt: 2 brett trengte mindre ventilreparasjoner (utbedret i løpet av 24 timer av OLagoons servicesenter i Osaka). OLagoon og Kenji signerte et 3-årig partnerskap om å utvikle et «Academy Pro» 12.6-brett for avanserte elever og om å utvide til 5 ytterligere kystbyer innen 2027.',
             },
           ],
           results: [
@@ -6115,29 +6115,29 @@ const no: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Australia',
             background:
-              "Kylie Brennan (38) er tidligere australsk «Ironwoman» (konkurranseredning) og drev «Kylie's Paddle School», en 5-manns virksomhet ved Tallebudgera Creek på Gold Coast siden 2019. Innen 2023 hadde hun 350 elever årlig, men måtte avslå 60 % av henvendelsene fordi hun ikke kunne skalere utstyret. De 20 brettene hennes fra ulike merker var utslitte, elevene varierte fra 6 til 72 år, og forsikringen hennes krevde et 4:1-forhold mellom elever og trenere som begrenset lønnsomheten. Hun henvendte seg til Afarer på SUP-messen i Sydney i 2023 og trengte en komplett akademiløsning: alders- og størrelsestilpassede brett, padleårer, redningsvester, læremateriell og et bestillingssystem integrert med tildeling av utstyr.",
+              "Kylie Brennan (38) er tidligere australsk «Ironwoman» (konkurranseredning) og drev «Kylie's Paddle School», en 5-manns virksomhet ved Tallebudgera Creek på Gold Coast siden 2019. Innen 2023 hadde hun 350 elever årlig, men måtte avslå 60 % av henvendelsene fordi hun ikke kunne skalere utstyret. De 20 brettene hennes fra ulike merker var utslitte, elevene varierte fra 6 til 72 år, og forsikringen hennes krevde et 4:1-forhold mellom elever og trenere som begrenset lønnsomheten. Hun henvendte seg til OLagoon på SUP-messen i Sydney i 2023 og trengte en komplett akademiløsning: alders- og størrelsestilpassede brett, padleårer, redningsvester, læremateriell og et bestillingssystem integrert med tildeling av utstyr.",
             goal: 'Lansere «Australia SUP Academy — Gold Coast» i september 2024 med over 200 elever påmeldt i strukturerte 8-ukers terminer til 499 AUD per person, med fornyelsesrate på minst 85 % og 95 % fortjenestemargin på utstyret.',
           },
           steps: [
             {
               title: 'Egendefinert akademiflåte designet for 4 aldersgrupper',
               detail:
-                "Afarers kundedirektør for Oseania, Lachlan Murphy, tilbrakte 3 uker med Kylie i mars 2024 med å analysere elevsammensetningen hennes. De delte den inn i 4 grupper: «Paddlers» (6–9 år, lett 9.6'x28'-brett, 4,2 kg, med tegneseriepregede «Sea Dragon»-grafikker), «Juniors» (10–14 år, 10.6'x30'-brett, 6,5 kg), «Adults» (15–55 år, 11.6'x32'-brett, 8,9 kg) og «Seniors & Adaptive» (over 55, ultrastabilt 10.0'x34'-brett med hjelperem, 9,2 kg). Afarer designet hvert brett med fargekodede kantbånd (grønn/gul/blå/rød) for umiddelbar størrelsesidentifikasjon og produserte 120 brett (30 per gruppe). Hvert brett hadde en egen navneliste-spalte og en klistremerkebasert progresjonssporing (elevene fikk stempler for ferdigheter de mestret).",
+                "OLagoons kundedirektør for Oseania, Lachlan Murphy, tilbrakte 3 uker med Kylie i mars 2024 med å analysere elevsammensetningen hennes. De delte den inn i 4 grupper: «Paddlers» (6–9 år, lett 9.6'x28'-brett, 4,2 kg, med tegneseriepregede «Sea Dragon»-grafikker), «Juniors» (10–14 år, 10.6'x30'-brett, 6,5 kg), «Adults» (15–55 år, 11.6'x32'-brett, 8,9 kg) og «Seniors & Adaptive» (over 55, ultrastabilt 10.0'x34'-brett med hjelperem, 9,2 kg). OLagoon designet hvert brett med fargekodede kantbånd (grønn/gul/blå/rød) for umiddelbar størrelsesidentifikasjon og produserte 120 brett (30 per gruppe). Hvert brett hadde en egen navneliste-spalte og en klistremerkebasert progresjonssporing (elevene fikk stempler for ferdigheter de mestret).",
             },
             {
-              title: 'Opplæringsprogram for instruktører og Afarer-sertifisert læreplan',
+              title: 'Opplæringsprogram for instruktører og OLagoon-sertifisert læreplan',
               detail:
-                'Afarer utviklet et 40-timers sertifiseringskurs for trenere med Kylie som første mestertrener. Kurset dekket: undervisningsmetoder tilpasset hver gruppe (f.eks. inn- og utgangsteknikker for eldre med begrenset bevegelighet; spillifisering og redningsferdigheter for barn), progresjonskartlegging (hvert nivå hadde 12 ferdigheter med videoreferanser) og sikkerhetsstyring (Tallebudgera Creek på Gold Coast har 4 knops strøm ved høyvann — trenerne må kunne tidevannsvinduene). 12 av Kylies 15 eksisterende trenere fullførte sertifiseringen; Afarer sertifiserte dem som «Level 1 SUP Academy Instructors». Afarer leverte også et komplett startsett til hver elev: et merket rash guard, et vanntett ferdighetshefte og en loggbok med prestasjonsklistremerker.',
+                'OLagoon utviklet et 40-timers sertifiseringskurs for trenere med Kylie som første mestertrener. Kurset dekket: undervisningsmetoder tilpasset hver gruppe (f.eks. inn- og utgangsteknikker for eldre med begrenset bevegelighet; spillifisering og redningsferdigheter for barn), progresjonskartlegging (hvert nivå hadde 12 ferdigheter med videoreferanser) og sikkerhetsstyring (Tallebudgera Creek på Gold Coast har 4 knops strøm ved høyvann — trenerne må kunne tidevannsvinduene). 12 av Kylies 15 eksisterende trenere fullførte sertifiseringen; OLagoon sertifiserte dem som «Level 1 SUP Academy Instructors». OLagoon leverte også et komplett startsett til hver elev: et merket rash guard, et vanntett ferdighetshefte og en loggbok med prestasjonsklistremerker.',
             },
             {
               title: 'Integrasjon av bestillingssystem og utstyrlogistikk',
               detail:
-                'Afarers teknologteam integrerte Kylies eksisterende BookingKit-reservasjonssystem med Afarers lagermodul. Hvert brett hadde en RFID-etikett som ble skannet ved utlevering og retur — med sporing av brukstimer, forsinkede returer og vedlikeholdsbehov. Systemet tildelte automatisk riktig brettstørrelse når en elev bestilte time. Afarer designet et modulært stativsystem (24 brett per stativ, totalt 5 stativer) med UV-beskyttende tak og RFID-leserporter. Gold Coast City Council ga Kylie en 5-årig tillatelse for et permanent inngjerget område på 500 m² i den sørlige enden av Tallebudgera-stranden — et kupp gitt områdets strenge regler for kystutvikling. Afarers Lachlan forhandlet frem tillatelsen ved å bruke Afarers klassifisering som «Community Sports Facility», som rådet aldri før hadde brukt på en SUP-skole.',
+                'OLagoons teknologteam integrerte Kylies eksisterende BookingKit-reservasjonssystem med OLagoons lagermodul. Hvert brett hadde en RFID-etikett som ble skannet ved utlevering og retur — med sporing av brukstimer, forsinkede returer og vedlikeholdsbehov. Systemet tildelte automatisk riktig brettstørrelse når en elev bestilte time. OLagoon designet et modulært stativsystem (24 brett per stativ, totalt 5 stativer) med UV-beskyttende tak og RFID-leserporter. Gold Coast City Council ga Kylie en 5-årig tillatelse for et permanent inngjerget område på 500 m² i den sørlige enden av Tallebudgera-stranden — et kupp gitt områdets strenge regler for kystutvikling. OLagoons Lachlan forhandlet frem tillatelsen ved å bruke OLagoons klassifisering som «Community Sports Facility», som rådet aldri før hadde brukt på en SUP-skole.',
             },
             {
               title: 'Oppstart av termin 1 i september 2024 og en bølge av påmeldinger',
               detail:
-                'Termin 1 (september–november 2024, australsk vår) startet med 183 påmeldte elever — 91 % av målet på 200. Kylie drev 28 klasser per uke med 12 trenere. Foreldrenes tilfredshet: 4,8/5. Påmeldingen i termin 2 (februar–april 2025) nådde 264 elever (132 % av målet). Omsetning: termin 1 = 91 317 AUD; termin 2 = 131 736 AUD. Akademiets «Adaptive Paddle»-program (for elever med nedsatt funksjonsevne, utviklet sammen med Spinal Life Australia) fikk 12 påmeldte og vant «Inclusive Program of the Year» fra Gold Coast Sport & Recreation for 2025. Vedlikeholdskostnad for brett: totalt 1 220 AUD på tvers av 120 brett i løpet av 6 måneder (for det meste finneskruer og ventilhetter). Kylie bestilte 60 ekstra brett for 2025–26 og kontrakterte Afarer til å utvikle et avansert «Race Squad»-brett til sine 15 konkurranseelever.',
+                'Termin 1 (september–november 2024, australsk vår) startet med 183 påmeldte elever — 91 % av målet på 200. Kylie drev 28 klasser per uke med 12 trenere. Foreldrenes tilfredshet: 4,8/5. Påmeldingen i termin 2 (februar–april 2025) nådde 264 elever (132 % av målet). Omsetning: termin 1 = 91 317 AUD; termin 2 = 131 736 AUD. Akademiets «Adaptive Paddle»-program (for elever med nedsatt funksjonsevne, utviklet sammen med Spinal Life Australia) fikk 12 påmeldte og vant «Inclusive Program of the Year» fra Gold Coast Sport & Recreation for 2025. Vedlikeholdskostnad for brett: totalt 1 220 AUD på tvers av 120 brett i løpet av 6 måneder (for det meste finneskruer og ventilhetter). Kylie bestilte 60 ekstra brett for 2025–26 og kontrakterte OLagoon til å utvikle et avansert «Race Squad»-brett til sine 15 konkurranseelever.',
             },
           ],
           results: [
@@ -6149,8 +6149,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor SUP-akademier velger Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor SUP-akademier velger OLagoon',
       items: [
         {
           title: 'Læringsopplevelse',
@@ -6178,22 +6178,22 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hvilke SUP-brett egner seg best til å undervise nybegynnere?',
         answer:
-          'Treningsbrett for nybegynnere bør ha bredere plattformer, høyere volum og stabile allround-former som gir trygghet, balanse og enkel kontroll. Afarers nybegynnerbrett har plattformdesign med høy stabilitet og konstruksjon med høy oppdrift, spesielt for læringsmiljøer.',
+          'Treningsbrett for nybegynnere bør ha bredere plattformer, høyere volum og stabile allround-former som gir trygghet, balanse og enkel kontroll. OLagoons nybegynnerbrett har plattformdesign med høy stabilitet og konstruksjon med høy oppdrift, spesielt for læringsmiljøer.',
       },
       {
         question: 'Tilbyr dere SUP-brett i barnestørrelser for ungdomsprogrammer?',
         answer:
-          'Ja, Afarer tilbyr egne SUP-brett for barn med passende lengde, lett håndtering, stabil form og et barnvennlig utseende, designet for skoleprogrammer, sommerleirer, juniorkurs og familieaktiviteter.',
+          'Ja, OLagoon tilbyr egne SUP-brett for barn med passende lengde, lett håndtering, stabil form og et barnvennlig utseende, designet for skoleprogrammer, sommerleirer, juniorkurs og familieaktiviteter.',
       },
       {
-        question: 'Hvor holdbare er Afarers treningsbrett ved daglig bruk i opplæring?',
+        question: 'Hvor holdbare er OLagoons treningsbrett ved daglig bruk i opplæring?',
         answer:
-          'Afarers treningsbrett har forsterkede PVC-materialer, holdbar drop stitch-struktur og forsterkede kanter, designet for å tåle daglig bruk av flere elever, hyppig transport, gjentatt oppblåsing og nybegynnerfeil.',
+          'OLagoons treningsbrett har forsterkede PVC-materialer, holdbar drop stitch-struktur og forsterkede kanter, designet for å tåle daglig bruk av flere elever, hyppig transport, gjentatt oppblåsing og nybegynnerfeil.',
       },
       {
         question: 'Kan dere tilpasse brett med akademiets merkevare?',
         answer:
-          'Ja, Afarer støtter tilpasning av akademiets logo, fargematching, brettnummerering og identifikasjonssystemer som skaper et profesjonelt uttrykk og gjør flåtestyringen enklere for instruktørene.',
+          'Ja, OLagoon støtter tilpasning av akademiets logo, fargematching, brettnummerering og identifikasjonssystemer som skaper et profesjonelt uttrykk og gjør flåtestyringen enklere for instruktørene.',
       },
       {
         question: 'Hvilket tilbehør inngår i en akademiflåtepakke?',
@@ -6203,13 +6203,13 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Tilbyr dere vedlikeholdsstøtte for treningsutstyr?',
         answer:
-          'Ja, Afarer gir inspeksjonsveiledning for utstyr, prosedyrer for rengjøring og lagring, grunnleggende reparasjonsveiledning for mindre skader og ventilvedlikehold, samt reservedelsplanlegging som holder treningsflåten i drift gjennom hele sesongen.',
+          'Ja, OLagoon gir inspeksjonsveiledning for utstyr, prosedyrer for rengjøring og lagring, grunnleggende reparasjonsveiledning for mindre skader og ventilvedlikehold, samt reservedelsplanlegging som holder treningsflåten i drift gjennom hele sesongen.',
       },
     ],
     cta: {
-      title: 'Bygg flåten for SUP-akademiet ditt med Afarer',
+      title: 'Bygg flåten for SUP-akademiet ditt med OLagoon',
       subtitle:
-        'Elevenes første SUP-opplevelse betyr noe. Velg utstyr designet for å hjelpe dem med å lære trygt og med selvtillit. Afarer hjelper SUP-skoler, ungdomsakademier, sommerleirer og frilivsorganisasjoner med å skape profesjonelle opplæringsprogrammer.',
+        'Elevenes første SUP-opplevelse betyr noe. Velg utstyr designet for å hjelpe dem med å lære trygt og med selvtillit. OLagoon hjelper SUP-skoler, ungdomsakademier, sommerleirer og frilivsorganisasjoner med å skape profesjonelle opplæringsprogrammer.',
       primaryAction: {
         text: 'Start ditt SUP-akademiprosjekt i dag',
       },
@@ -6223,15 +6223,15 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Bygg ditt eget SUP-merkevare | OEM-produsent av oppblåsbare SUP-er | {SITE}',
       description:
-        'Afarer hjelper outdoor-startups med å bygge skreddersydde SUP-merkevarer med OEM-produksjon, private label-paddleboards, produksjon med lav MOQ, produktdesign, kvalitetskontroll og global leverandkjedestøtte.',
+        'OLagoon hjelper outdoor-startups med å bygge skreddersydde SUP-merkevarer med OEM-produksjon, private label-paddleboards, produksjon med lav MOQ, produktdesign, kvalitetskontroll og global leverandkjedestøtte.',
     },
     hero: {
       tagline: 'Bygg din SUP-merkevare™',
       title: 'Skreddersydd SUP-produksjon for gründere av oppstartsbedrifter innen friluftsliv',
       subtitle:
-        'Afarer hjelper oppstartsbedrifter innen friluftsliv med å bygge egne SUP-merkevarer med OEM-produksjon, private label-paddleboards, produksjon med lavt MOQ, produktdesign, kvalitetskontroll og støtte til den globale forsyningskjeden.',
+        'OLagoon hjelper oppstartsbedrifter innen friluftsliv med å bygge egne SUP-merkevarer med OEM-produksjon, private label-paddleboards, produksjon med lavt MOQ, produktdesign, kvalitetskontroll og støtte til den globale forsyningskjeden.',
       image: {
-        alt: 'Beskrivelse av Afarers skreddersydde SUP-brett',
+        alt: 'Beskrivelse av OLagoons skreddersydde SUP-brett',
       },
     },
     challenge: {
@@ -6346,7 +6346,7 @@ const no: Record<string, SolutionOverride> = {
       customer:
         'Gründer av en oppstartsmerkevare innen friluftsliv fra USA. Tidligere butikksjef i friluftshandelen, surf- og kajakkentusiast og Shopify-gründer med mål om å skape en premiummerkevare for oppblåsbare SUP.',
       steps: [
-        'Afarer bidro til å definere retningen for merkevaren som en premium merkevare for friluftsliv rettet mot forbrukere mellom 25 og 45 år. Det ble gjennomført analyse av markedsposisjonering og konkurranseundersøkelser.',
+        'OLagoon bidro til å definere retningen for merkevaren som en premium merkevare for friluftsliv rettet mot forbrukere mellom 25 og 45 år. Det ble gjennomført analyse av markedsposisjonering og konkurranseundersøkelser.',
         "Utviklet det første produktet: 10'6 Premium Inflatable SUP med holdbar Drop Stitch-konstruksjon, premium PVC-struktur, moderne EVA-design, karbonpadleåre og tilbehør av høy kvalitet.",
         'Skapte egendefinert brettgrafikk, fargesystem for merkevaren, emballasjedesign og en komplett butikkklar produktpakke i tråd med merkevareidentiteten.',
         'Lanserte med 300 enheter for Shopify-butikken, markedsføringskampanjer med influencere og kundetesting for å validere etterspørselen i markedet.',
@@ -6371,22 +6371,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Merkevareidentitet og leverandørsøk på tre kontinenter',
               detail:
-                'James tilbrakte januar–mars 2023 med å besøke 5 fabrikker i Kina, Vietnam og Thailand sammen med Afarers innkjøpsteam. Afarer introduserte ham for et spesialisert anlegg for PVC-laminering i militær kvalitet i Qingdao, som tidligere kun hadde produsert white label-brett for europeiske distributører. Sammen forhandlet de ned minste bestillingsantall fra 1 000 til 500 enheter mot å akseptere en 6-måneders eksklusivitetsklausul. Afarers team for kvalitetskontroll gjennomførte 3 runder med prøvetesting og forkastet de to første batchene på grunn av inkonsistent sveisning av ralsømmene før den tredje ble godkjent.',
+                'James tilbrakte januar–mars 2023 med å besøke 5 fabrikker i Kina, Vietnam og Thailand sammen med OLagoons innkjøpsteam. OLagoon introduserte ham for et spesialisert anlegg for PVC-laminering i militær kvalitet i Qingdao, som tidligere kun hadde produsert white label-brett for europeiske distributører. Sammen forhandlet de ned minste bestillingsantall fra 1 000 til 500 enheter mot å akseptere en 6-måneders eksklusivitetsklausul. OLagoons team for kvalitetskontroll gjennomførte 3 runder med prøvetesting og forkastet de to første batchene på grunn av inkonsistent sveisning av ralsømmene før den tredje ble godkjent.',
             },
             {
               title: 'Steg 2: Infrastruktur for crowdfundingkampanjen og planlegging av ordrehåndtering',
               detail:
-                'Afarers logistikkteam hjalp James med å etablere et 3PL-partnerskap med et oppfyllingssenter i Gloucester med kapasitet til å håndtere 2 000 pakker per dag. De laget en detaljert belønningstruktur på Kickstarter: 399 GBP for tidlig bestilling (50 enheter), 449 GBP standard (300 enheter) og 549 GBP premiumpakke med padleåre og pumpe (150 enheter). Afarer produserte 12 produktrender i høy oppløsning, en 4 minutter lang kampanjevideo filmet ved Symonds Yat ved elven Wye, og et komplett datablad som fremhevet 6-tommers tykkelsen, 32 PSI drop stitch-kjernen og valgmuligheten for padleåre i karbonfiber. Kampanjen ble lansert 1. mai 2023 med et mål på 150 000 GBP.',
+                'OLagoons logistikkteam hjalp James med å etablere et 3PL-partnerskap med et oppfyllingssenter i Gloucester med kapasitet til å håndtere 2 000 pakker per dag. De laget en detaljert belønningstruktur på Kickstarter: 399 GBP for tidlig bestilling (50 enheter), 449 GBP standard (300 enheter) og 549 GBP premiumpakke med padleåre og pumpe (150 enheter). OLagoon produserte 12 produktrender i høy oppløsning, en 4 minutter lang kampanjevideo filmet ved Symonds Yat ved elven Wye, og et komplett datablad som fremhevet 6-tommers tykkelsen, 32 PSI drop stitch-kjernen og valgmuligheten for padleåre i karbonfiber. Kampanjen ble lansert 1. mai 2023 med et mål på 150 000 GBP.',
             },
             {
               title: 'Steg 3: Krisehåndtering midt i kampanjen og gjennomføring av stretch goals',
               detail:
-                "Da kampanjen nådde 85 000 GBP i løpet av de første 72 timene, men stanset opp på 110 000 GBP ved dag 14, iverksatte Afarers markedsføringsstrateger en målrettet annonsekampanje på Facebook og Instagram rettet mot britiske padlingsgrupper på Facebook med til sammen over 500 000 medlemmer. De laget 8 A/B-testede annonsevarianter med James' YouTube-anbefalinger. Innen dag 30 hadde ytterligere 212 støttespillere presset totalen opp til 162 000 GBP. Afarer koordinerte en stretch goal – alle som lovte over 449 GBP fikk en gratis tørrbag verdt 45 GBP – som utløste en siste bølge på 88 støttespillere i løpet av de siste 48 timene, og kampanjen ble avsluttet på 198 740 GBP fra 487 støttespillere.",
+                "Da kampanjen nådde 85 000 GBP i løpet av de første 72 timene, men stanset opp på 110 000 GBP ved dag 14, iverksatte OLagoons markedsføringsstrateger en målrettet annonsekampanje på Facebook og Instagram rettet mot britiske padlingsgrupper på Facebook med til sammen over 500 000 medlemmer. De laget 8 A/B-testede annonsevarianter med James' YouTube-anbefalinger. Innen dag 30 hadde ytterligere 212 støttespillere presset totalen opp til 162 000 GBP. OLagoon koordinerte en stretch goal – alle som lovte over 449 GBP fikk en gratis tørrbag verdt 45 GBP – som utløste en siste bølge på 88 støttespillere i løpet av de siste 48 timene, og kampanjen ble avsluttet på 198 740 GBP fra 487 støttespillere.",
             },
             {
               title: 'Steg 4: Produksjon, kvalitetssikring og ordrehåndtering etter kampanjen',
               detail:
-                'Produksjonen startet i august 2023 ved anlegget i Qingdao, der Afarer stasjonerte en QC-inspektør på heltid i 6 uker. Hvert brett gjennomgikk en 24-timers oppblåsingstest ved 18 PSI og en peel-styrketest av sømmen på over 150 N/cm. De første 200 enhetene ble sendt med sjøfrakt 15. september og ble tollklarert i Storbritannia i løpet av 4 dager takket være Afarers forhåndsklarte dokumentasjon. Alle 487 støttespillerne fikk brettene sine innen 25. oktober 2023 – 9 dager før oppgitt leveringsdato. James rapporterte en gjennomsnittsvurdering på 4,7/5 blant de første 150 tilbakemeldingsskjemaene fra kundene.',
+                'Produksjonen startet i august 2023 ved anlegget i Qingdao, der OLagoon stasjonerte en QC-inspektør på heltid i 6 uker. Hvert brett gjennomgikk en 24-timers oppblåsingstest ved 18 PSI og en peel-styrketest av sømmen på over 150 N/cm. De første 200 enhetene ble sendt med sjøfrakt 15. september og ble tollklarert i Storbritannia i løpet av 4 dager takket være OLagoons forhåndsklarte dokumentasjon. Alle 487 støttespillerne fikk brettene sine innen 25. oktober 2023 – 9 dager før oppgitt leveringsdato. James rapporterte en gjennomsnittsvurdering på 4,7/5 blant de første 150 tilbakemeldingsskjemaene fra kundene.',
             },
           ],
           results: [
@@ -6408,22 +6408,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Kartlegging av tropisk miljø og spesifikasjon av materialer',
               detail:
-                'Afarers produktingeniører tilbrakte 2 uker i Cairns i mai 2023 med å teste den eksisterende flåten til Mara. De dokumenterte 8 spesifikke svakheter: UV-nedbrutt PVC (synlig på 22 brett), korroderte D-ringer i rustfritt stål (innen 6 måneder) og svikt i sømmen ved håndtaket i baugen (3 brett). Afarers labteam formulerte PVC-topplaget på nytt med et UV-stabiliserende tilsetningsstoff (UV-531 i 0,6 % konsentrasjon) og spesifiserte marint rustfritt stål i kvalitet 304 til alt beslag. De designet et forsterket håndtak i baugen med et 3-lags vevd bånd-sandwich klassifisert til 400 kg bruddstyrke.',
+                'OLagoons produktingeniører tilbrakte 2 uker i Cairns i mai 2023 med å teste den eksisterende flåten til Mara. De dokumenterte 8 spesifikke svakheter: UV-nedbrutt PVC (synlig på 22 brett), korroderte D-ringer i rustfritt stål (innen 6 måneder) og svikt i sømmen ved håndtaket i baugen (3 brett). OLagoons labteam formulerte PVC-topplaget på nytt med et UV-stabiliserende tilsetningsstoff (UV-531 i 0,6 % konsentrasjon) og spesifiserte marint rustfritt stål i kvalitet 304 til alt beslag. De designet et forsterket håndtak i baugen med et 3-lags vevd bånd-sandwich klassifisert til 400 kg bruddstyrke.',
             },
             {
               title: 'Steg 2: Prototypeproduksjon og felttesting på tre turruter',
               detail:
-                'Afarer produserte 10 prototypebrett i juli 2023 ved fabrikken sin i Guangzhou, hvert med et unikt fargeskjema (korallblått, mangrovegrønt, revoransje) for enkel identifisering i flåten. Mara gjennomførte en 60-dagers feltprøve på de tre hovedrutene sine: Fitzroy Island (saltvann, 6 timer med direkte sol), morgenturer på Mulgrave-elven (ferskvann, skyggefullt) og solnedgangsturer ved Trinity Inlet (blandede forhold). Hvert brett logget over 300 timer i bruk. To prototyper viste ventillekkasje etter 250 timer og ble sendt tilbake til Afarer for redesign av ventilstammen – bytte fra messing til en nylonforsterket komposittventil.',
+                'OLagoon produserte 10 prototypebrett i juli 2023 ved fabrikken sin i Guangzhou, hvert med et unikt fargeskjema (korallblått, mangrovegrønt, revoransje) for enkel identifisering i flåten. Mara gjennomførte en 60-dagers feltprøve på de tre hovedrutene sine: Fitzroy Island (saltvann, 6 timer med direkte sol), morgenturer på Mulgrave-elven (ferskvann, skyggefullt) og solnedgangsturer ved Trinity Inlet (blandede forhold). Hvert brett logget over 300 timer i bruk. To prototyper viste ventillekkasje etter 250 timer og ble sendt tilbake til OLagoon for redesign av ventilstammen – bytte fra messing til en nylonforsterket komposittventil.',
             },
             {
               title: 'Steg 3: Opptrapping av produksjon, tilpasset merkevareprofil og emballasjedesign',
               detail:
-                'Etter å ha bestått feltprøvene la Mara inn en bestilling (PO) på 200 Reef Runner-brett i september 2023. Afarers designteam laget egendefinert grafikk med varmeoverføring, med Reef & River-logoen på dekkputen og et serienummer for flåtestyring på siden av brettet. Hvert brett kom med en skreddersydd bærepose i 1000-denier nylon med forsterkede sømmer (testet til 80 kg last). Afarer arrangerte sjøfrakt via havnen i Townsville med 28 dager transittid, inkludert sertifisering for avgassing for å oppfylle australske biosikkerhetskrav. Forsendelsen ble tollklarert 5. november 2023.',
+                'Etter å ha bestått feltprøvene la Mara inn en bestilling (PO) på 200 Reef Runner-brett i september 2023. OLagoons designteam laget egendefinert grafikk med varmeoverføring, med Reef & River-logoen på dekkputen og et serienummer for flåtestyring på siden av brettet. Hvert brett kom med en skreddersydd bærepose i 1000-denier nylon med forsterkede sømmer (testet til 80 kg last). OLagoon arrangerte sjøfrakt via havnen i Townsville med 28 dager transittid, inkludert sertifisering for avgassing for å oppfylle australske biosikkerhetskrav. Forsendelsen ble tollklarert 5. november 2023.',
             },
             {
               title: 'Steg 4: Opplæringsprogram for staben og dokumentasjon av vedlikeholdsprotokoll',
               detail:
-                'Afarers kundesuksess-team fløy til Cairns i november 2023 for å gjennomføre en 2-dagers opplæringsworkshop for Maras 12 guider og 3 vedlikeholdspersoner. Opplæringen dekket daglige inspeksjonssjekklister, korrekte prosedyrer for oppblåsing og tømming, skylling av saltvann og et reparasjonssett med 6 PVC-lapper og 2 utskiftingsventiler. Afarer leverte en laminert hurtigguide på engelsk og mandarin. Mara implementerte en digital flåtelogg i Google Sheets med registrering av brukstimer per brett. Den første kvartalsvise etterfyllingsbestillingen på 65 brett ble lagt inn i februar 2024.',
+                'OLagoons kundesuksess-team fløy til Cairns i november 2023 for å gjennomføre en 2-dagers opplæringsworkshop for Maras 12 guider og 3 vedlikeholdspersoner. Opplæringen dekket daglige inspeksjonssjekklister, korrekte prosedyrer for oppblåsing og tømming, skylling av saltvann og et reparasjonssett med 6 PVC-lapper og 2 utskiftingsventiler. OLagoon leverte en laminert hurtigguide på engelsk og mandarin. Mara implementerte en digital flåtelogg i Google Sheets med registrering av brukstimer per brett. Den første kvartalsvise etterfyllingsbestillingen på 65 brett ble lagt inn i februar 2024.',
             },
           ],
           results: [
@@ -6435,8 +6435,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor OLagoon',
       items: [
         {
           title: 'Produktekspertise',
@@ -6463,12 +6463,12 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hva er minste bestillingsantall for skreddersydde SUP-brett?',
         answer:
-          'Afarer tilbyr fleksibelt MOQ fra 100–500 enheter for markedstesting, slik at oppstartsbedrifter kan validere produktene sine og samle tilbakemeldinger fra kundene før produksjonen skalerer opp.',
+          'OLagoon tilbyr fleksibelt MOQ fra 100–500 enheter for markedstesting, slik at oppstartsbedrifter kan validere produktene sine og samle tilbakemeldinger fra kundene før produksjonen skalerer opp.',
       },
       {
         question: 'Kan jeg skape min egen SUP-merkevare uten å eie en fabrikk?',
         answer:
-          'Ja. Afarer leverer komplette private label-produksjonstjenester, slik at du kan bygge din egen SUP-merkevare med egendefinert profilering, brettdesign, emballasje og tilbehør – uten å investere i noen fabrikk.',
+          'Ja. OLagoon leverer komplette private label-produksjonstjenester, slik at du kan bygge din egen SUP-merkevare med egendefinert profilering, brettdesign, emballasje og tilbehør – uten å investere i noen fabrikk.',
       },
       {
         question: 'Hvor lang tid tar det å utvikle et skreddersydd SUP-produkt?',
@@ -6478,17 +6478,17 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Hjelper dere til med produktdesign og markedsstrategi?',
         answer:
-          'Ja. Afarer tilbyr konsultasjon i merkevare- og produktstrategi for å hjelpe deg med å definere målmarkedet, produktposisjoneringen, prisstrategien og differensieringen før produksjonen starter.',
+          'Ja. OLagoon tilbyr konsultasjon i merkevare- og produktstrategi for å hjelpe deg med å definere målmarkedet, produktposisjoneringen, prisstrategien og differensieringen før produksjonen starter.',
       },
       {
         question: 'Hvilke tiltak for kvalitetskontroll har dere på plass?',
         answer:
-          'Afarer har et omfattende kvalitetskontrollsystem som dekker inspeksjon av materialer, overvåking under produksjonen, lufttrykktesting og sluttinspeksjon av produktet før forsendelse.',
+          'OLagoon har et omfattende kvalitetskontrollsystem som dekker inspeksjon av materialer, overvåking under produksjonen, lufttrykktesting og sluttinspeksjon av produktet før forsendelse.',
       },
       {
         question: 'Kan dere sende til landet mitt?',
         answer:
-          'Ja. Afarer sender til USA, Canada, Australia, Storbritannia, Tyskland, Frankrike, Nederland og andre globale markeder med pålitelig logistikkstøtte.',
+          'Ja. OLagoon sender til USA, Canada, Australia, Storbritannia, Tyskland, Frankrike, Nederland og andre globale markeder med pålitelig logistikkstøtte.',
       },
     ],
     cta: {
@@ -6505,15 +6505,15 @@ const no: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsent av SUP-yogautstyr | Skreddersydde yoga-paddleboards | {SITE}',
       description:
-        'Afarer tilbyr skreddersydde SUP-yogautstyrsløsninger for yogastudioer, wellnessretreater og treningsmerker. Lag premium oppblåsbare yoga-SUP-er med bred stabildesign, komplette EVA-dekk og private label-produksjon.',
+        'OLagoon tilbyr skreddersydde SUP-yogautstyrsløsninger for yogastudioer, wellnessretreater og treningsmerker. Lag premium oppblåsbare yoga-SUP-er med bred stabildesign, komplette EVA-dekk og private label-produksjon.',
     },
     hero: {
       tagline: 'Løsninger for SUP-yogautstyr™',
       title: 'Premium SUP-yogautstyr for wellnessmerker og retreats',
       subtitle:
-        'Afarer leverer skreddersydde løsninger for SUP-yogautstyr til yogastudioer, wellnessretreats og treningsmerker. Skap premium oppblåsbare yoga-SUP-brett med bredt stabilt design, fulle EVA-dekk og private label-produksjon.',
+        'OLagoon leverer skreddersydde løsninger for SUP-yogautstyr til yogastudioer, wellnessretreats og treningsmerker. Skap premium oppblåsbare yoga-SUP-brett med bredt stabilt design, fulle EVA-dekk og private label-produksjon.',
       image: {
-        alt: 'Beskrivelse av Afarers skreddersydde SUP-brett',
+        alt: 'Beskrivelse av OLagoons skreddersydde SUP-brett',
       },
     },
     challenge: {
@@ -6638,7 +6638,7 @@ const no: Record<string, SolutionOverride> = {
       customer:
         'Europeisk merkevare for wellnessretreats som driver yogaretreats, meditasjonsprogrammer og utendørs wellnessopplevelser for krevende wellnessreisende.',
       steps: [
-        'Afarer definerte produktkonseptet som «luksuriøs flytende yogaopplevelse», rettet mot wellnessreisende, kvinnelige treningskunder og gjester på premium retreats.',
+        'OLagoon definerte produktkonseptet som «luksuriøs flytende yogaopplevelse», rettet mot wellnessreisende, kvinnelige treningskunder og gjester på premium retreats.',
         'Skapte en Premium Wide Yoga SUP med ekstra bred stabil plattform, fullt EVA-yogadekk, komfortabel barfotflate og balansert flyteytelse.',
         'Utviklet en myk naturlig fargepalett, minimal grafikk og premium emballasje som samsvarte perfekt med den beroligende identiteten til wellnessmerkevaren.',
         'Lanserte med retreatprogrammer, yogatimer og premium kundeopplevelser som den første anvendelsen.',
@@ -6663,17 +6663,17 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Yogaspesifikt brettdesign og sanskritestetikk',
               detail:
-                'Afarers designteam brukte 3 uker i mars 2023 på å studere Simones krav. Resultatet: SUP-yogabrettet «Serenity» – 34" bredt (mot standard 32"), 11\'6" langt, med en 7-lags drop stitch-kjerne for stiv stabilitet. Dekket hadde en 6 mm tykk EVA-pute i lukket celle med diamantmønstruktur (testet friksjonskoeffisient: 0,85 tørr, 0,72 våt) som dekket 85 % av dekkflaten. Afarer inkluderte et sanskrit «Om»-symbol i sølvreflekterende varmeoverføring på nesen og et lotusmønster rundt midtbær håndtaket. Brettene kom i 4 farger (korall, turkis, solnedgangsoransje, laguneblå) tilsvarende de 4 fargepalettene til Azure Resort. Hvert brett hadde 8 D-ringer i rustfritt stål – 4 til et strikksystem for å sikre yogamatter og 4 til valgfrie ankerliner for stasjonær utøvelse i strøm.',
+                'OLagoons designteam brukte 3 uker i mars 2023 på å studere Simones krav. Resultatet: SUP-yogabrettet «Serenity» – 34" bredt (mot standard 32"), 11\'6" langt, med en 7-lags drop stitch-kjerne for stiv stabilitet. Dekket hadde en 6 mm tykk EVA-pute i lukket celle med diamantmønstruktur (testet friksjonskoeffisient: 0,85 tørr, 0,72 våt) som dekket 85 % av dekkflaten. OLagoon inkluderte et sanskrit «Om»-symbol i sølvreflekterende varmeoverføring på nesen og et lotusmønster rundt midtbær håndtaket. Brettene kom i 4 farger (korall, turkis, solnedgangsoransje, laguneblå) tilsvarende de 4 fargepalettene til Azure Resort. Hvert brett hadde 8 D-ringer i rustfritt stål – 4 til et strikksystem for å sikre yogamatter og 4 til valgfrie ankerliner for stasjonær utøvelse i strøm.',
             },
             {
               title: 'Steg 2: Pilotprogram på Azure North med opplæring av yogainstruktører',
               detail:
-                'Afarer produserte 15 prototypebrett og sendte dem med ekspressflyfrakt (Singapore Airlines Cargo) til et 6-ukers pilotprogram på Azure North fra 1. juni 2023. Simone og 4 faste yogainstruktører fullførte et 40-timers sertifiseringsprogram for SUP-yogainstruktører, utviklet i fellesskap av Afarers wellnesskonsulenter og fagfolk fra Yoga Alliance. Sertifiseringen dekket oppsett og oppblåsing av brett for yoga (12 PSI for maksimal stabilitet), timeoppbygging tilpasset vannforhold, sikkerhetsprotokoller for vind og strøm og 15 unike SUP-yogastillinger tilpasset brettmiljøet. Piloten gjennomførte 42 timer over 6 uker med 186 gjestedeltakere. Undersøkelser før og etter piloten viste at gjestenes trygghet bedret seg med 58 %, og gjennomsnittsvurderingen for timene var 4,8/5. Gjestetilbakemeldingene pekte på to endringer: ønske om en padleårefeste på brettkanten (så padleårene ikke driver bort under utøvelsen) og preferanse for brett med «myk» nese radius for partnerstillinger.',
+                'OLagoon produserte 15 prototypebrett og sendte dem med ekspressflyfrakt (Singapore Airlines Cargo) til et 6-ukers pilotprogram på Azure North fra 1. juni 2023. Simone og 4 faste yogainstruktører fullførte et 40-timers sertifiseringsprogram for SUP-yogainstruktører, utviklet i fellesskap av OLagoons wellnesskonsulenter og fagfolk fra Yoga Alliance. Sertifiseringen dekket oppsett og oppblåsing av brett for yoga (12 PSI for maksimal stabilitet), timeoppbygging tilpasset vannforhold, sikkerhetsprotokoller for vind og strøm og 15 unike SUP-yogastillinger tilpasset brettmiljøet. Piloten gjennomførte 42 timer over 6 uker med 186 gjestedeltakere. Undersøkelser før og etter piloten viste at gjestenes trygghet bedret seg med 58 %, og gjennomsnittsvurderingen for timene var 4,8/5. Gjestetilbakemeldingene pekte på to endringer: ønske om en padleårefeste på brettkanten (så padleårene ikke driver bort under utøvelsen) og preferanse for brett med «myk» nese radius for partnerstillinger.',
             },
             {
               title: 'Steg 3: Utrulling på flere resorter, infrastruktur og programinnhold',
               detail:
-                'Basert på den vellykkede piloten la Azure inn en bestilling på 40 Serenity-brett (10 per resort) i august 2023. Afarer la til to designendringer basert på pilotens tilbakemeldinger: en stropp i silikon for å holde padleåren på styrbord side og 15 cm bredere nese radius (fra 45 cm til 60 cm radius) for frihet i partnerstillinger. Afarer sendte med sjøfrakt i en dedikert 20-fots container, inkludert 40 egendefinerte oppblåsningspumper med manometre kalibrert i PSI i stedet for bar. Forsendelsen ankom Malé 1. november 2023. Simone opplærte 12 flere instruktører på tvers av de 4 resortene (3 per eiendom) med sertifiseringslærep lanen, og to hovedinstruktører deltok i et 2-ukers train-the-trainer-program på Bali (koordinert av Afarers wellnesspartner). Hver resort etablerte et eget startpunkt for SUP-yoga med flytende brygge, utstyrlager og et skyggelagt avslapningsområde.',
+                'Basert på den vellykkede piloten la Azure inn en bestilling på 40 Serenity-brett (10 per resort) i august 2023. OLagoon la til to designendringer basert på pilotens tilbakemeldinger: en stropp i silikon for å holde padleåren på styrbord side og 15 cm bredere nese radius (fra 45 cm til 60 cm radius) for frihet i partnerstillinger. OLagoon sendte med sjøfrakt i en dedikert 20-fots container, inkludert 40 egendefinerte oppblåsningspumper med manometre kalibrert i PSI i stedet for bar. Forsendelsen ankom Malé 1. november 2023. Simone opplærte 12 flere instruktører på tvers av de 4 resortene (3 per eiendom) med sertifiseringslærep lanen, og to hovedinstruktører deltok i et 2-ukers train-the-trainer-program på Bali (koordinert av OLagoons wellnesspartner). Hver resort etablerte et eget startpunkt for SUP-yoga med flytende brygge, utstyrlager og et skyggelagt avslapningsområde.',
             },
             {
               title: 'Steg 4: Omsetningsresultater, gjestelojalitet og programutvidelse',
@@ -6700,22 +6700,22 @@ const no: Record<string, SolutionOverride> = {
             {
               title: 'Steg 1: Designvisjonen til yogainstruktøren og det ergonomiske studiobrettet',
               detail:
-                'Afarers produktdesignere fløy til Santa Monica i februar 2023 for å observere 4 av Kais timer og forstå undervisningsstilen hennes. Kai underviste i en blanding av Vinyasa-flow, restorative yin og partner acro-yoga på brett – noe som krevde mer dekkplass enn standard SUP-er ga. Afarer designet 3 SKU-er: (1) «Drift 10\'6"» – standard SUP-yogabrett (34" bredde, 6 mm dekkpute), (2) «Studio 12\'0"» – ekstrabredt brett på 38" med 8 mm polstret dekk (designet for acro og partnerstillinger, maksvekt 450 lbs) og (3) «Mini 9\'0"» – barnvennlig brett (30" bredde, 5 mm dekk, lyse fargevalg). Studiobrettet hadde en unik «midtlinjemarkering» – en diskret trykt linje nedover midten av dekket for å hjelpe elevene med å plassere mattene likt hver gang. Alle brettene brukte Afarers Fusion-Lite drop stitch-teknologi og veide 3 lbs mindre enn standardbrett for enklere håndtering.',
+                'OLagoons produktdesignere fløy til Santa Monica i februar 2023 for å observere 4 av Kais timer og forstå undervisningsstilen hennes. Kai underviste i en blanding av Vinyasa-flow, restorative yin og partner acro-yoga på brett – noe som krevde mer dekkplass enn standard SUP-er ga. OLagoon designet 3 SKU-er: (1) «Drift 10\'6"» – standard SUP-yogabrett (34" bredde, 6 mm dekkpute), (2) «Studio 12\'0"» – ekstrabredt brett på 38" med 8 mm polstret dekk (designet for acro og partnerstillinger, maksvekt 450 lbs) og (3) «Mini 9\'0"» – barnvennlig brett (30" bredde, 5 mm dekk, lyse fargevalg). Studiobrettet hadde en unik «midtlinjemarkering» – en diskret trykt linje nedover midten av dekket for å hjelpe elevene med å plassere mattene likt hver gang. Alle brettene brukte OLagoons Fusion-Lite drop stitch-teknologi og veide 3 lbs mindre enn standardbrett for enklere håndtering.',
             },
             {
               title: 'Steg 2: Merkevareidentitet, innholdsproduksjon og forhåndssalgsstrategi',
               detail:
-                'Afarers kreative team utviklet den visuelle identiteten til Drift & Downward Dog: en minimalistisk logo med en stilisert lotus/mandala-bølge-hybrid, en fargepalett i salviegrønt, sand og havblått og et egendefinert skriftpar (Lora til overskrifter, Nunito til brødtekst). De produserte en 6-dagers fotoshoot i mars 2023 på 5 steder i Santa Monica Bay (Santa Monica Pier, Point Dume i Malibu, Venice Beach, Marina del Rey og Paradise Cove), med 480 endelige bilder og 8 timer med 4K-videoopptak. Kai lanserte et 30-dagers forhåndssalg 1. mai 2023 gjennom en Kickstarter-kampanje med et mål på 35 000 USD. Kampanjen hadde 3 belønningsnivåer: Drift-brett til tidlig bestilling (599 USD, 40 enheter), Studio-brettpakke med matte og stropp (949 USD, 25 enheter) og Mini-brett (449 USD, 20 enheter). Kampanjen nådde målet på 11 timer og ble avsluttet på 74 200 USD fra 118 støttespillere.',
+                'OLagoons kreative team utviklet den visuelle identiteten til Drift & Downward Dog: en minimalistisk logo med en stilisert lotus/mandala-bølge-hybrid, en fargepalett i salviegrønt, sand og havblått og et egendefinert skriftpar (Lora til overskrifter, Nunito til brødtekst). De produserte en 6-dagers fotoshoot i mars 2023 på 5 steder i Santa Monica Bay (Santa Monica Pier, Point Dume i Malibu, Venice Beach, Marina del Rey og Paradise Cove), med 480 endelige bilder og 8 timer med 4K-videoopptak. Kai lanserte et 30-dagers forhåndssalg 1. mai 2023 gjennom en Kickstarter-kampanje med et mål på 35 000 USD. Kampanjen hadde 3 belønningsnivåer: Drift-brett til tidlig bestilling (599 USD, 40 enheter), Studio-brettpakke med matte og stropp (949 USD, 25 enheter) og Mini-brett (449 USD, 20 enheter). Kampanjen nådde målet på 11 timer og ble avsluttet på 74 200 USD fra 118 støttespillere.',
             },
             {
               title: 'Steg 3: Produksjon, logistikk for ordrehåndtering og integrering av timer',
               detail:
-                'Produksjonen av 180 brett (80 Drift, 50 Studio, 50 Mini) pågikk juni–juli 2023 ved Afarers anlegg i Vietnam. Innen 1. august 2023 var alle Kickstarter-bestillingene levert fra et 3PL-lager i Long Beach (25 km fra Kais yogastudio i Santa Monica). Kai lanserte sin plattform for timebestilling på Shopify med en egendefinert planleggingsapp integrert med Acuity Scheduling. Hun tilbød 4 timetyper: «Sunrise Flow» (nybegynner, Drift-brett), «Full Moon Studio» (avansert/partner, Studio-brett), «Family Paddle» (barn + foreldre, Mini + Drift) og «Restorative Yin & Float» (kombinasjon av yin-stillinger og guidet meditasjon). Hun ansatte 3 flere sertifiserte SUP-yogainstruktører for å dekke den utvidede timeplanen. Innen september 2023 drev Kai 22 timer per uke med i gjennomsnitt 14 elever per time.',
+                'Produksjonen av 180 brett (80 Drift, 50 Studio, 50 Mini) pågikk juni–juli 2023 ved OLagoons anlegg i Vietnam. Innen 1. august 2023 var alle Kickstarter-bestillingene levert fra et 3PL-lager i Long Beach (25 km fra Kais yogastudio i Santa Monica). Kai lanserte sin plattform for timebestilling på Shopify med en egendefinert planleggingsapp integrert med Acuity Scheduling. Hun tilbød 4 timetyper: «Sunrise Flow» (nybegynner, Drift-brett), «Full Moon Studio» (avansert/partner, Studio-brett), «Family Paddle» (barn + foreldre, Mini + Drift) og «Restorative Yin & Float» (kombinasjon av yin-stillinger og guidet meditasjon). Hun ansatte 3 flere sertifiserte SUP-yogainstruktører for å dekke den utvidede timeplanen. Innen september 2023 drev Kai 22 timer per uke med i gjennomsnitt 14 elever per time.',
             },
             {
               title: 'Steg 4: Utvidelse til butikkanal, bedriftswellness og vekst i år 2',
               detail:
-                'I oktober 2023 ble Kai kontaktet av en regional innkjøper for REI i Sør-California som hadde vært på én av timene hennes. REI la inn en testbestilling på 30 Drift-brett og 15 Mini-brett til 5 butikker i Santa Monica-området. Afarer tilpasset emballasjen med hengemerker i tråd med REIs krav og produktregistrering via QR-kode. Innen desember 2023 nådde sell-through-raten for REI 82 % på tvers av de 5 butikkene, og REI la inn en oppfølgingsbestilling på 100 brett til 20 steder i Sør-California. Kai lanserte også et bedriftswellnessprogram – med kontrakter med 4 teknologiselskaper (Google Venice, Hulu Santa Monica og to andre) for ukentlige SUP-yogatimer på arbeidsplassen som en ansattfordel. Bedriftsprogrammet genererte 4 200 USD per måned i gjentakende inntekter. Ved utgangen av år 1 (mars 2024) hadde Drift & Downward Dog generert 342 000 USD i samlet omsetning (produktsalg: 218 000 USD, timeinntekter: 94 000 USD, bedriftswellness: 30 000 USD).',
+                'I oktober 2023 ble Kai kontaktet av en regional innkjøper for REI i Sør-California som hadde vært på én av timene hennes. REI la inn en testbestilling på 30 Drift-brett og 15 Mini-brett til 5 butikker i Santa Monica-området. OLagoon tilpasset emballasjen med hengemerker i tråd med REIs krav og produktregistrering via QR-kode. Innen desember 2023 nådde sell-through-raten for REI 82 % på tvers av de 5 butikkene, og REI la inn en oppfølgingsbestilling på 100 brett til 20 steder i Sør-California. Kai lanserte også et bedriftswellnessprogram – med kontrakter med 4 teknologiselskaper (Google Venice, Hulu Santa Monica og to andre) for ukentlige SUP-yogatimer på arbeidsplassen som en ansattfordel. Bedriftsprogrammet genererte 4 200 USD per måned i gjentakende inntekter. Ved utgangen av år 1 (mars 2024) hadde Drift & Downward Dog generert 342 000 USD i samlet omsetning (produktsalg: 218 000 USD, timeinntekter: 94 000 USD, bedriftswellness: 30 000 USD).',
             },
           ],
           results: [
@@ -6727,8 +6727,8 @@ const no: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Hvorfor Afarer',
+    whyOLagoon: {
+      title: 'Hvorfor OLagoon',
       items: [
         {
           title: 'Forståelse for wellnessopplevelsen',
@@ -6769,7 +6769,7 @@ const no: Record<string, SolutionOverride> = {
       {
         question: 'Kan jeg skape min egen merkevarelinje for SUP-yogaprodukter?',
         answer:
-          'Ja. Afarer leverer komplett private label-produksjon med egendefinerte farger, grafikk, emballasje og tilbehør, spesielt designet for yoga- og wellnessmerker.',
+          'Ja. OLagoon leverer komplett private label-produksjon med egendefinerte farger, grafikk, emballasje og tilbehør, spesielt designet for yoga- og wellnessmerker.',
       },
       {
         question: 'Er SUP-yogabrettene deres egnet for profesjonell bruk i studio?',

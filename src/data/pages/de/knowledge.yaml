@@ -1,6 +1,6 @@
 meta:
   title: 'Wissen — SUP-Guides | {SITE}'
-  description: 'afarer-Wissensdatenbank: Guides zu aufblasbaren SUPs, Paddleboard-Materialien, Boardauswahl und Brancheneinblicke für Marken und Profis.'
+  description: 'olagoon-Wissensdatenbank: Guides zu aufblasbaren SUPs, Paddleboard-Materialien, Boardauswahl und Brancheneinblicke für Marken und Profis.'
   keywords:
     - 'SUP-Wissen'
     - 'Guide aufblasbarer SUPs'
@@ -16,7 +16,7 @@ hero:
 clusters:
   tagline: Wissenscluster
   title: Nach Thema erkunden
-  subtitle: Tiefgehende Einblicke in die Technologie, Sicherheit und Fähigkeiten hinter jedem afarer-Produkt.
+  subtitle: Tiefgehende Einblicke in die Technologie, Sicherheit und Fähigkeiten hinter jedem olagoon-Produkt.
   items:
     - title: SUP-Wissen
       description: Von der Auswahl Ihres ersten Boards bis zu fortgeschrittenen Tourentechniken — alles über Stand-Up-Paddle-Boarding.
@@ -47,7 +47,7 @@ clusters:
         - Reparaturtechniken für Aufblasprodukte
         - Wetter- und Wasserbewusstsein
     - title: Technologie
-      description: Die Technik hinter afarer-Produkten — Materialien, Konstruktionsmethoden und Qualitätstests.
+      description: Die Technik hinter olagoon-Produkten — Materialien, Konstruktionsmethoden und Qualitätstests.
       icon: tabler:microscope
       topics:
         - Marine-PVC-Technologie

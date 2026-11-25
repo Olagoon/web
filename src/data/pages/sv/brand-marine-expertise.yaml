@@ -1,6 +1,6 @@
 meta:
   title: 'Marin Expertis — Teknik i varje skrov | {SITE}'
-  description: 'Decennier av marin teknik i varje skrov. afarer behärskar drop stitch, marin PVC och professionell design av uppblåsbara SUP:ar.'
+  description: 'Decennier av marin teknik i varje skrov. olagoon behärskar drop stitch, marin PVC och professionell design av uppblåsbara SUP:ar.'
   keywords:
     - 'marin teknik'
     - 'tillverkare av uppblåsbara SUP:ar'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Marin kompetens
   title: Årtionden av marinteknik<br />i varje skrov
-  subtitle: afarer kombinerar djup materialvetenskap, precisionstillverkning och verklighetstestning för att producera vattenfarkoster som presterar när det räknas.
+  subtitle: olagoon kombinerar djup materialvetenskap, precisionstillverkning och verklighetstestning för att producera vattenfarkoster som presterar när det räknas.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: afarers marina ingenjörs- och FoU-team i arbete
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: olagoons marina ingenjörs- och FoU-team i arbete
 expertise_materials:
   tagline: Materialvetenskap
   title: Välj rätt material<br />för varje tillämpning

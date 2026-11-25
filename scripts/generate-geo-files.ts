@@ -18,7 +18,7 @@ const ENTITY_JSON = path.join(WELL_KNOWN_DIR, 'entity.json');
 // scripts/_gen-route-manifest.cjs for the generation logic).
 const ROUTE_MANIFEST = path.join(ROOT, 'src', 'i18n', 'generated', 'route-manifest.json');
 
-const SITE_URL = 'https://afarer.com';
+const SITE_URL = 'https://olagoon.com';
 
 function loadRenderedRoutes(): Set<string> {
   try {
@@ -125,7 +125,7 @@ function extractPageTitle(content: string): string | null {
     const val = parsed[key];
     if (val && typeof val === 'object' && val.title) {
       return String(val.title)
-        .replace(/\{SITE\}/g, 'Afarer')
+        .replace(/\{SITE\}/g, 'OLagoon')
         .replace(/<br\s*\/?>/gi, ' ')
         .replace(/\s+/g, ' ')
         .trim();
@@ -297,7 +297,7 @@ function main(): void {
   if (!fs.existsSync(LLMS_TXT)) {
     fs.writeFileSync(
       LLMS_TXT,
-      `# Aquafarer\n\nAquafarer is a professional OEM/ODM manufacturer of inflatable water sports equipment.\n`
+      `# Olagoon\n\nOlagoon is a professional OEM/ODM manufacturer of inflatable water sports equipment.\n`
     );
     console.log('[geo] Created default llms.txt');
   }
@@ -320,7 +320,7 @@ function main(): void {
   } else {
     // Default base
     baseParts.push(
-      `# Aquafarer Knowledge Base\n\nAquafarer is a water sports equipment manufacturer specializing in inflatable watercraft.`
+      `# Olagoon Knowledge Base\n\nOlagoon is a water sports equipment manufacturer specializing in inflatable watercraft.`
     );
   }
 

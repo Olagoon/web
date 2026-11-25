@@ -8,7 +8,7 @@ meta:
     - 'eramärgisega täispuhutav SUP'
     - 'sõudelaudade tootmine'
 hero:
-  tagline: 'afarer kohandatud labor'
+  tagline: 'olagoon kohandatud labor'
   title: 'Disaini oma<br />SUP-laud'
   subtitle: 'Kohandatud SUP-partner, kes pakub kaasbrändi, eramärgise ja tellistöö sõudelaudade tootmist ettevõtetele kogu maailmas. Üksikust prototüübist täistootmiseni.'
   cta: 'Alusta oma projekti'
@@ -69,7 +69,7 @@ capabilities_section:
       value: 'CE, UKCA, FCC (tugi globaalseks vastavuseks)'
 
 why_section:
-  tagline: 'Miks afarer'
+  tagline: 'Miks olagoon'
   title: 'Üks tehas. Üks standard. Nulli kompromisse.'
   points:
     - text: '12 000 m² integreeritud tootmisüksus'

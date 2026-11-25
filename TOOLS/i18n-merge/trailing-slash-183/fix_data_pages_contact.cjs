@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer/src/data/pages';
+const ROOT = 'E:/github/olagoon/src/data/pages';
 let files = 0;
 let fixes = 0;
 

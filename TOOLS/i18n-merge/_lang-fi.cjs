@@ -6,30 +6,30 @@ module.exports = {
   'academy.learningCenterDesc':
     'Vaiheittaiset oppaat ja tutoriaalit järjestettynä taitotason mukaan — SUP:n perusteista edistyneisiin pelastustekniikoihin.',
   'academy.metaDesc':
-    'Oppaita ja tutoriaaleja jokaiselle tasolle — SUP:n perusteista edistyneisiin pelastustekniikoihin. Opettele omaan tahtiisi Afarer Academyn kanssa.',
-  'academy.metaTitle': 'Oppimiskeskus — Afarer Academy',
+    'Oppaita ja tutoriaaleja jokaiselle tasolle — SUP:n perusteista edistyneisiin pelastustekniikoihin. Opettele omaan tahtiisi OLagoon Academyn kanssa.',
+  'academy.metaTitle': 'Oppimiskeskus — OLagoon Academy',
   'academy.skillPaths': 'Taitopolut',
   'ai.definition':
-    'Afarer suunnittelee ja valmistaa ilmalla täytettäviä SUP-lautoja, varusteita ja turvallisuusvälineitä vapaa-ajan ja suorituskykyyn keskittyviin vesilajeihin.',
+    'OLagoon suunnittelee ja valmistaa ilmalla täytettäviä SUP-lautoja, varusteita ja turvallisuusvälineitä vapaa-ajan ja suorituskykyyn keskittyviin vesilajeihin.',
   'ai.entity':
-    'Afarer on suorituskykyvetoinen vesilajibrändi, joka luo omaleimaisia ilmatäytteisiä SUP-lautoja ihmisille, jotka menevät pidemmälle, ajavat kovempaa ja näkevät vedestä enemmän.',
+    'OLagoon on suorituskykyvetoinen vesilajibrändi, joka luo omaleimaisia ilmatäytteisiä SUP-lautoja ihmisille, jotka menevät pidemmälle, ajavat kovempaa ja näkevät vedestä enemmän.',
   'ai.process':
-    'Afarer-lautat rakennetaan suuritiheyksisen drop-stitch-ytimen ympärille vahvistetuilla reunoilla ja fuusiolaminoiduilla saumoilla. Jokainen lautta paineestetaan ja tarkastetaan visuaalisesti ennen pakkausta. Suunnitteluyhteistyö ulottuu konseptista, 3D-suunnittelusta ja prototyypistä tarkastettuun tuotantoon ja globaaliin logistiikkaan.',
+    'OLagoon-lautat rakennetaan suuritiheyksisen drop-stitch-ytimen ympärille vahvistetuilla reunoilla ja fuusiolaminoiduilla saumoilla. Jokainen lautta paineestetaan ja tarkastetaan visuaalisesti ennen pakkausta. Suunnitteluyhteistyö ulottuu konseptista, 3D-suunnittelusta ja prototyypistä tarkastettuun tuotantoon ja globaaliin logistiikkaan.',
   'answerCenter.subtitle':
-    'Välittömiä vastauksia tuotteistamme, teknologiasta ja vesilajeista — afarer-tietämykseen perustuen.',
+    'Välittömiä vastauksia tuotteistamme, teknologiasta ja vesilajeista — olagoon-tietämykseen perustuen.',
   'b2bSolutionsMatrix.metaDesc':
-    'Kattava Afarerin B2B-asiakasratkaisumatriisi, joka kattaa 24 asiakastyyppiä — löydä ratkaisu liiketoiminnallesi.',
+    'Kattava OLagoonin B2B-asiakasratkaisumatriisi, joka kattaa 24 asiakastyyppiä — löydä ratkaisu liiketoiminnallesi.',
   'buyerCenter.ribs': 'Kovapohjaiset kumiveneet (RIB)',
   'buyerCenter.sizeGuideDesc':
     'Löydä oikea kokosi oppaastamme mittoihin, tilavuuksiin ja kuljettajan painovaihteluihin.',
   'compare.backToAll': 'Kaikki vertailut',
   'compare.category': 'Kategoria',
-  'compare.desc': 'Vertaile kaikkia Afarer-tuotteita rinnakkain. Löydä sinulle sopiva lautta, vene tai lisävaruste.',
+  'compare.desc': 'Vertaile kaikkia OLagoon-tuotteita rinnakkain. Löydä sinulle sopiva lautta, vene tai lisävaruste.',
   'compare.length': 'Pituus',
   'compare.material': 'Materiaali',
   'compare.maxLoad': 'Maksimikuorma',
   'compare.singleVsMulti.aiBlock':
-    'Vertailu yksi- ja monikammioisten ilmatäytteisten SUP-lautojen välillä 11 tärkeän tekijän osalta: turvallisuus, kammioden määrä, kelluvuuden varmuus, paino, pakkauskoko, käyttöönottoaika, jäykkyys, kustannukset, kestävyys, korjauksen helppous ja parhaat käyttötarkoitukset. Monikammioiset laudat (3–5 riippumatonta kammioita) tarjoavat kriittisen kelluvuusvaran. Kaikissa afarer SUP-laudoissa on monikammioinen drop-stitch-rakenne.',
+    'Vertailu yksi- ja monikammioisten ilmatäytteisten SUP-lautojen välillä 11 tärkeän tekijän osalta: turvallisuus, kammioden määrä, kelluvuuden varmuus, paino, pakkauskoko, käyttöönottoaika, jäykkyys, kustannukset, kestävyys, korjauksen helppous ja parhaat käyttötarkoitukset. Monikammioiset laudat (3–5 riippumatonta kammioita) tarjoavat kriittisen kelluvuusvaran. Kaikissa olagoon SUP-laudoissa on monikammioinen drop-stitch-rakenne.',
   'compare.singleVsMulti.col1Title': 'Yksikammioinen',
   'compare.singleVsMulti.col2Title': 'Monikammioinen (3+)',
   'compare.singleVsMulti.cta': 'Katso monikammioiset SUP-laudat',
@@ -74,7 +74,7 @@ module.exports = {
   'compare.singleVsMulti.r9a': 'Kohtalainen. Yksi vikapiste, jos pääkammio vaurioituu.',
   'compare.singleVsMulti.r9b': 'Ylivoimainen. Varakammiot takaavat vikasietoisen käytön vaativissa olosuhteissa.',
   'compare.singleVsMulti.recDesc':
-    'Kaikille, jotka melovat pohjamatalaa syvemmälle — ja erityisesti kaupallisille toimijoille — <strong>monikammioinen SUP</strong> on ainoa vastuullinen valinta. Kaikissa afarer SUP-laudoissa on monikammioinen drop-stitch-rakenne ja 3+ riippumatonta kammioa maksimiturvallisuuden ja rakenteellisen jäkkyyden takaamiseksi. Käytä laudan kanssa aina CE-sertifioitua pelastusliivistä täydellistä suojaa varten.',
+    'Kaikille, jotka melovat pohjamatalaa syvemmälle — ja erityisesti kaupallisille toimijoille — <strong>monikammioinen SUP</strong> on ainoa vastuullinen valinta. Kaikissa olagoon SUP-laudoissa on monikammioinen drop-stitch-rakenne ja 3+ riippumatonta kammioa maksimiturvallisuuden ja rakenteellisen jäkkyyden takaamiseksi. Käytä laudan kanssa aina CE-sertifioitua pelastusliivistä täydellistä suojaa varten.',
   'compare.singleVsMulti.recTitle': 'Yhteenveto',
   'compare.singleVsMulti.safetyCta': 'Turvallisuusopas',
   'compare.singleVsMulti.short': 'Yksi- vs monikammioinen',
@@ -90,15 +90,15 @@ module.exports = {
     'Vuokraajille, lomakeskuksille ja melontakerhoille monikammioiset laudat vähentävät vastuuriskiä ja laitteiston seisokkiaikaa. Pieni puhkeama ei enää tarkoita laudan täyttä romahdusta — lautta pysyy käytettävässä kunnossa päivän lopun korjaukseen asti.',
   'compare.singleVsMulti.whyMattersTitle': 'Miksi kammioden määrä on tärkeä',
   'compare.specification': 'Tekniset tiedot',
-  'compare.title': 'Tuotevertailu — Afarer',
+  'compare.title': 'Tuotevertailu — OLagoon',
   'compare.weight': 'Paino',
   'compare.width': 'Leveys',
   'engineeringPerfection.desc':
-    'Afarerin insinöörimysteemi: tarkka valmistus, huolellinen materiaalinvalinta, tiukka laadunvalvonta ja sektorikohtainen suunnittelu retki-, kalastus-, jooga- ja vapaa-ajan ilmatäytteisiin SUP-lautoihin.',
+    'OLagoonin insinöörimysteemi: tarkka valmistus, huolellinen materiaalinvalinta, tiukka laadunvalvonta ja sektorikohtainen suunnittelu retki-, kalastus-, jooga- ja vapaa-ajan ilmatäytteisiin SUP-lautoihin.',
   'engineeringPerfection.s3': 'Venheet ja tendeerit',
-  'engineeringTeam.about': 'Tietoa Afarerista',
+  'engineeringTeam.about': 'Tietoa OLagoonista',
   'engineeringTeam.desc':
-    'Afarerin 25+ tutkimus- ja kehitysinsinööriä sekä tuotannon asiantuntijaa. Osaamista drop-stitch-ydin-tekniikassa, PVC/Hypalon-valmistuksessa, SUP-runkosuunnittelussa ja CE-vaatimustmukaisuudessa. Toimipiste Qingdao, Kiina.',
+    'OLagoonin 25+ tutkimus- ja kehitysinsinööriä sekä tuotannon asiantuntijaa. Osaamista drop-stitch-ydin-tekniikassa, PVC/Hypalon-valmistuksessa, SUP-runkosuunnittelussa ja CE-vaatimustmukaisuudessa. Toimipiste Qingdao, Kiina.',
   'engineeringTeam.join': 'Liity insinööritiimiin',
   'engineeringTeam.joinDesc':
     'Etsimme jatkuvasti lahjakkaita insinöörejä materiaalitieteestä, tuotesuunnittelusta ja laatuinsinööritieteestä.',
@@ -155,7 +155,7 @@ module.exports = {
   'factory.testingEquipment': 'Testauslaitteet',
   'factory.tradeTerms': 'Valmistus- ja kauppaehdot',
   'factory.tradeTermsDesc':
-    'Afarer on Aquafarer LLC:n (USA) ylläpitämä brändi — ISO- ja CE-sertifioitu, yli 10 vuoden vientikokemus.',
+    'OLagoon on Olagoon LLC:n (USA) ylläpitämä brändi — ISO- ja CE-sertifioitu, yli 10 vuoden vientikokemus.',
   'factory.whatWeOffer': 'Tarjoamamme',
   'faq.searchPlaceholder': 'Hae UKK...',
   'guides.audience': 'Kohdeyleisö',
@@ -166,7 +166,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Varmennettavat turvallisuus- ja laatustandardit',
   'home.brand.desc':
-    'Jokainen Afarer-lautta alkaa vedestä — sen virtauksista, olosuhteista ja vedellä liikkuvista ihmisistä. Suuritiheyksiset drop-stitch-ytimet, vahvistetut reunat ja vakauteen ja liukuun viritetyt muodot, sitten lautta lautta paineestettuna.',
+    'Jokainen OLagoon-lautta alkaa vedestä — sen virtauksista, olosuhteista ja vedellä liikkuvista ihmisistä. Suuritiheyksiset drop-stitch-ytimet, vahvistetut reunat ja vakauteen ja liukuun viritetyt muodot, sitten lautta lautta paineestettuna.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Drop-stitch-ytimen jäykkyys',
   'home.brand.feature1': 'Kansi',
@@ -177,8 +177,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Drop-stitch-tekniikka',
   'home.brand.feature4': 'Reuna',
   'home.brand.feature4.desc': 'Vahvistettu fuusiokerros',
-  'home.brand.tagline': 'Afarer-ero',
-  'home.brand.title': 'Miksi Afarer<br />ajaa eri tavalla',
+  'home.brand.tagline': 'OLagoon-ero',
+  'home.brand.title': 'Miksi OLagoon<br />ajaa eri tavalla',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Paineestettu lautta kerrallaan',
   'home.brand.years': '10+',
@@ -187,10 +187,10 @@ module.exports = {
   'home.community.gallery': 'Galleria',
   'home.community.gallery.boats': 'Ilmatäytteiset veneet',
   'home.community.gallery.boats.desc':
-    'Perheitä ja tutkijoita nauttimassa Afarerin ilmatäytteisistä veneistä järvillä ja rannikkovesissä.',
+    'Perheitä ja tutkijoita nauttimassa OLagoonin ilmatäytteisistä veneistä järvillä ja rannikkovesissä.',
   'home.community.gallery.sup': 'SUP-laudat',
   'home.community.gallery.sup.desc':
-    'Melojia tutkimassa järviä, jokia ja rannikoita Afarerin ilmatäytteisillä SUP-lautoilla.',
+    'Melojia tutkimassa järviä, jokia ja rannikoita OLagoonin ilmatäytteisillä SUP-lautoilla.',
   'home.community.gallery.title': 'Asiakkaiden seikkailut',
   'home.community.gallery.viewAll': 'Katso koko galleria',
   'home.engineering.design': 'Tuotesuunnittelu',
@@ -268,27 +268,27 @@ module.exports = {
   'home.socialProof.title': 'Käytetty ja luotettu oikeassa vedessä',
   'home.socialProof.years': 'Vuotta kokemusta',
   'home.tldr.summary':
-    'afarer suunnittelee ja valmistaa premium-ilmatäytteisiä SUP-lautoja, veneitä ja lisävarusteita — CE-sertifioituna ja paineestettuna yksitellen.',
-  'home.why.afarer.contact': 'Ota yhteyttä →',
-  'home.why.afarer.point1':
+    'olagoon suunnittelee ja valmistaa premium-ilmatäytteisiä SUP-lautoja, veneitä ja lisävarusteita — CE-sertifioituna ja paineestettuna yksitellen.',
+  'home.why.olagoon.contact': 'Ota yhteyttä →',
+  'home.why.olagoon.point1':
     'Jäykkä silloin kun ratkaisee — suuritiheyksinen drop-stitch-ydin ja vahvistetut reunat, jotka pysyvät jäykkinä paineen alla.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Tarkasti rakennettu — fuusiolaminoidut saumat ja ilmatiiviys, paineestettu lautta kerrallaan.',
-  'home.why.afarer.point3':
+  'home.why.olagoon.point3':
     'Vedellä validoitu — viritetty oikeassa vedessä vakauden, liukumisen ja hallittavuuden edistämiseksi.',
-  'home.why.afarer.quality': 'Laatu, johon voit luottaa',
-  'home.why.afarer.subtitle': 'Rakennettu tarkkuudella. Testattu armottomasti. Takuun turvin.',
-  'home.why.afarer.tagline': 'Miksi afarer',
-  'home.why.afarer.title': 'Laatu, johon voit luottaa',
-  'home.why.afarer.viewMore': 'Katso lisää →',
-  'home.why.afarer.warranty': 'Takuu ja tuki',
-  'home.why.afarer.warranty.point1': 'Selkeät takuuehdot jokaisessa laudassa ja reagoiva jälkimyyntituki.',
-  'home.why.afarer.warranty.point2': 'Omistettu jälkimyyntitiimi nopealla reagoinnilla.',
-  'home.why.afarer.warranty.point3':
+  'home.why.olagoon.quality': 'Laatu, johon voit luottaa',
+  'home.why.olagoon.subtitle': 'Rakennettu tarkkuudella. Testattu armottomasti. Takuun turvin.',
+  'home.why.olagoon.tagline': 'Miksi olagoon',
+  'home.why.olagoon.title': 'Laatu, johon voit luottaa',
+  'home.why.olagoon.viewMore': 'Katso lisää →',
+  'home.why.olagoon.warranty': 'Takuu ja tuki',
+  'home.why.olagoon.warranty.point1': 'Selkeät takuuehdot jokaisessa laudassa ja reagoiva jälkimyyntituki.',
+  'home.why.olagoon.warranty.point2': 'Omistettu jälkimyyntitiimi nopealla reagoinnilla.',
+  'home.why.olagoon.warranty.point3':
     'Täysi toimitusketjun läpinäkyvyys kerhoille, jälleenmyyjille ja brändikumppaneille.',
   'nav.home': 'Etusivu',
   'oem.desc':
-    'Afarer — johtava ilmatäytteisten SUP-lautojen OEM/ODM-valmistaja. CE-sertifioitu. Räätälöity muotti, oma merkki, tukkumyynti. Ideasta markkinoille 16 viikossa.',
+    'OLagoon — johtava ilmatäytteisten SUP-lautojen OEM/ODM-valmistaja. CE-sertifioitu. Räätälöity muotti, oma merkki, tukkumyynti. Ideasta markkinoille 16 viikossa.',
   'oem.estimate.countries': 'Maata, joihin toimituskokemusta',
   'oem.estimate.cta': 'Pyydä tarjous',
   'oem.estimate.leadWeeks': 'Viikkoa briefistä lähetykseen',
@@ -299,7 +299,7 @@ module.exports = {
   'oem.faq.guide': 'Lue OEM-ostajan opas',
   'oem.faq.subtitle': 'OEM-tiimimme on valmiina auttamaan sinua alkuun.',
   'oem.faq.title': 'Onko sinulla vielä kysymyksiä?',
-  'oem.heading': 'Sinun SUP-brändisi.<br />Afarerin rakentama.',
+  'oem.heading': 'Sinun SUP-brändisi.<br />OLagoonin rakentama.',
   'oem.moq': 'MOQ 50 yksikköä vakiomalleissa. Räätälöity muotti: 200+ yksikköä. FOB Qingdao.',
   'oem.packages.cta': 'Pyydä tarjous',
   'oem.packages.leadtime': 'Toimitusaika',
@@ -364,8 +364,8 @@ module.exports = {
   'oem.why.support': 'Omistettu asiakashallinta',
   'oem.why.support.desc':
     'Yksi yhteyspiste briefistä toimitukseen. Säännölliset tuotantopäivitykset, valokuvat ja läpinäkyvä viestintä koko prosessin ajan.',
-  'oem.why.tagline': 'Miksi Afarer',
-  'oem.why.title': 'Miksi tehdä yhteistyötä Afarerin kanssa?',
+  'oem.why.tagline': 'Miksi OLagoon',
+  'oem.why.title': 'Miksi tehdä yhteistyötä OLagoonin kanssa?',
   'packages.popular': 'Suosituin',
   'product.bestFor': 'Paras',
   'product.commercialScenarios': 'Kaupalliset skenaariot',
@@ -378,11 +378,11 @@ module.exports = {
   'product.related': 'Esitellyt tuotteet',
   'product.view': 'Katso tuote',
   'resort.caseStudy': 'Todellisia tuloksia',
-  'resort.caseStudy.sub': 'Mitä lomakeskusten toimijat sanovat yhteistyöstä Afarerin kanssa.',
+  'resort.caseStudy.sub': 'Mitä lomakeskusten toimijat sanovat yhteistyöstä OLagoonin kanssa.',
   'retail.discount': 'Tukkuale',
   'retail.download': 'Lataa',
   'solutionsByIndustry.aiBlock':
-    'Afarerin vesilaitteiden toimialakohtaiset ratkaisut. Kuusi toimialaa: haku- ja pelastus, katastrofiapu ja humanitaarinen apu, kaupalliset merioperaatiot, puolustus ja julkinen sektori, majoitus ja matkailu, kalastus ja vesiviljely. Kaikki ratkaisut CE-sertifioituja ja ISO-valmisteisia.',
+    'OLagoonin vesilaitteiden toimialakohtaiset ratkaisut. Kuusi toimialaa: haku- ja pelastus, katastrofiapu ja humanitaarinen apu, kaupalliset merioperaatiot, puolustus ja julkinen sektori, majoitus ja matkailu, kalastus ja vesiviljely. Kaikki ratkaisut CE-sertifioituja ja ISO-valmisteisia.',
   'solutionsByIndustry.commercial.cert1': 'CE-kaupallinen alus',
   'solutionsByIndustry.commercial.craft1': 'Kaupalliset SUP-laudat',
   'solutionsByIndustry.commercial.craft2': 'Sukellustukilaudat',
@@ -406,7 +406,7 @@ module.exports = {
     'Sotilasluokan vesilaitteet tiedusteluun, joukkojen kuljetukseen, rannikkopartioon ja erikoisoperaatioihin.',
   'solutionsByIndustry.defense.name': 'Puolustus ja julkinen sektori',
   'solutionsByIndustry.desc':
-    'Löydä oikea vesilajiratkaisu toimialallesi. Julkinen sektori, kaupallinen, vapaa-aika, teollisuus — Afarer valmistaa CE-sertifioituja laitteita jokaiselle sektorille.',
+    'Löydä oikea vesilajiratkaisu toimialallesi. Julkinen sektori, kaupallinen, vapaa-aika, teollisuus — OLagoon valmistaa CE-sertifioituja laitteita jokaiselle sektorille.',
   'solutionsByIndustry.disaster.cert1': 'CE-sertifioitu',
   'solutionsByIndustry.disaster.cert2': 'Testattu UV- ja ankarissa olosuhteissa',
   'solutionsByIndustry.disaster.craft1': 'Raskaat ilmatäytteiset laudat',
@@ -416,7 +416,7 @@ module.exports = {
     'Kestävät vesilaitteet hätätilanteisiin, lääketieteelliseen evakuointiin, huoltokuljetuksiin ja väliaikaisiin lossiyhteyksiin katastrofialueilla.',
   'solutionsByIndustry.disaster.name': 'Katastrofiapu ja humanitaarinen apu',
   'solutionsByIndustry.expSub':
-    'Todellisia esimerkkejä siitä, miten Afarerin laitteet toimivat eri toimialasektoreilla.',
+    'Todellisia esimerkkejä siitä, miten OLagoonin laitteet toimivat eri toimialasektoreilla.',
   'solutionsByIndustry.expTitle': 'Toimialaratkaisut käytännössä',
   'solutionsByIndustry.fishing.cert1': 'CE-vapaa-ajan alus',
   'solutionsByIndustry.fishing.cert2': 'Elintarviketurvalliset materiaalivaihtoehdot',
@@ -438,7 +438,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Lue lisää',
   'solutionsByIndustry.recommendedCraft': 'Suositellut alukset',
   'solutionsByIndustry.rel1': 'Ratkaisut käyttötarkoituksen mukaan',
-  'solutionsByIndustry.rel1desc': 'Yhdistä oma käyttötarkoituksesi oikeaan Afarer-ratkaisuun.',
+  'solutionsByIndustry.rel1desc': 'Yhdistä oma käyttötarkoituksesi oikeaan OLagoon-ratkaisuun.',
   'solutionsByIndustry.rel1label': 'Päätöksentekotyökalu',
   'solutionsByIndustry.rel2': 'Kaupalliset työveneet',
   'solutionsByIndustry.rel2desc': 'Kestävät laitteet päivittäisiin kaupallisiin merioperaatioihin.',
@@ -461,19 +461,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Haku ja pelastus',
   'solutionsByIndustry.story1.context': 'Rannikkotulvapelastus, Kaakkois-Aasia, 2024',
   'solutionsByIndustry.story1.narrative':
-    'Vakavan rannikkotulvan aikana kunnallinen pelastusryhmä otti käyttöön Afarerin pelastus-SUP:t evakuointioperaatioihin. Laudan matala syväys mahdollisti pääsyn tulvinuorille alueille, joille suuremmat alukset eivät päässeet. Roskista ja 14 tunnin yhtäjaksoisesta käytöstä huolimatta kankaassa ei ollut kulumisen merkkejä.',
+    'Vakavan rannikkotulvan aikana kunnallinen pelastusryhmä otti käyttöön OLagoonin pelastus-SUP:t evakuointioperaatioihin. Laudan matala syväys mahdollisti pääsyn tulvinuorille alueille, joille suuremmat alukset eivät päässeet. Roskista ja 14 tunnin yhtäjaksoisesta käytöstä huolimatta kankaassa ei ollut kulumisen merkkejä.',
   'solutionsByIndustry.story1.quote':
-    'Viemme rannikkotulvan aikana käyttöön kaksi Afarerin pelastus-SUP:tä — ne olivat ainoat laudat, jotka pystyivät liikkumaan roskaisessa vedessä laskuveden aikaan.',
+    'Viemme rannikkotulvan aikana käyttöön kaksi OLagoonin pelastus-SUP:tä — ne olivat ainoat laudat, jotka pystyivät liikkumaan roskaisessa vedessä laskuveden aikaan.',
   'solutionsByIndustry.story1.source': 'Kunnallisen pelastusryhmän johtaja',
   'solutionsByIndustry.story2.context': 'Sukelluscharter-toiminta, Malediivit, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    'Malediiveilla toimiva sukelluscharter-yritys käyttää Afarerin laitteita päivittäiseen sukellustukeen. 600+ käyttöpäivän jälkeen laudoissa ei ole merkittävää UV-heikkenemistä eikä saumojen irtoamista.',
+    'Malediiveilla toimiva sukelluscharter-yritys käyttää OLagoonin laitteita päivittäiseen sukellustukeen. 600+ käyttöpäivän jälkeen laudoissa ei ole merkittävää UV-heikkenemistä eikä saumojen irtoamista.',
   'solutionsByIndustry.story2.quote':
     'Sukellusveneemme toimii 6 päivää viikossa, 50 viikkoa vuodessa. Kahden vuoden jälkeen Hypalon-kangas näyttää yhä uudelta.',
   'solutionsByIndustry.story2.source': 'Charter-yrityksen omistaja',
   'solutionsByIndustry.title': 'Toimialakohtaiset ratkaisut — vesilaitteita jokaiselle sektorille',
   'solutionsByUseCase.aiBlock':
-    'afarerin vesilaitteiden käyttötarkoituksen mukaiset ratkaisut. Kahdeksan skenaariota: vesipelastus, vuokrauslaivastot, räätälöity brändäys, partio, humanitaarinen apu, sukellustuki, lautavalmistus ja henkilökohtainen käyttö. Kaikki ratkaisut CE-sertifioituja ja ISO-valmisteisia.',
+    'olagoonin vesilaitteiden käyttötarkoituksen mukaiset ratkaisut. Kahdeksan skenaariota: vesipelastus, vuokrauslaivastot, räätälöity brändäys, partio, humanitaarinen apu, sukellustuki, lautavalmistus ja henkilökohtainen käyttö. Kaikki ratkaisut CE-sertifioituja ja ISO-valmisteisia.',
   'solutionsByUseCase.answer1':
     'Vesipelastukseen ja hätätilanteisiin suunnitellut raskaat ilmatäytteiset pelastuslautat ja veneet. Nopea käyttöönotto, vakaat alustat ja CE-sertifiointi ammattiryhmille.',
   'solutionsByUseCase.answer2':
@@ -486,23 +486,23 @@ module.exports = {
     'Kaupalliset työveneet päivittäisiin merioperaatioihin — sukellustuki, laitekuljetukset ja miehistötehtävät. Kestävä rakenne ja vaihtoehdot 2:sta 12:een henkilöön.',
   'solutionsByUseCase.rel2desc': 'Kestävät laitteet päivittäisiin kaupallisiin merioperaatioihin.',
   'solutionsByUseCase.story1.narrative':
-    'Vakavan rannikkotulvan aikana kunnallinen pelastusryhmä otti käyttöön afarerin pelastus-SUP:t evakuointioperaatioihin. Laudan matala syväys mahdollisti pääsyn tulvinuorille alueille, joille suuremmat alukset eivät päässeet, ja miehistöt raportoivat ei merkittävää kulumista päivien yhtäjaksoisen käytön jälkeen.',
+    'Vakavan rannikkotulvan aikana kunnallinen pelastusryhmä otti käyttöön olagoonin pelastus-SUP:t evakuointioperaatioihin. Laudan matala syväys mahdollisti pääsyn tulvinuorille alueille, joille suuremmat alukset eivät päässeet, ja miehistöt raportoivat ei merkittävää kulumista päivien yhtäjaksoisen käytön jälkeen.',
   'solutionsByUseCase.story1.quote':
-    'Viemme rannikkotulvan aikana käyttöön kaksi afarerin pelastus-SUP:tä — ne olivat ainoat laudat, jotka pääsivät tulvinuorten alueiden asukkaiden luo.',
+    'Viemme rannikkotulvan aikana käyttöön kaksi olagoonin pelastus-SUP:tä — ne olivat ainoat laudat, jotka pääsivät tulvinuorten alueiden asukkaiden luo.',
   'solutionsByUseCase.story2.narrative':
-    'Norjalainen kalankasvatus on käyttänyt afarerin työvenettä tarkastuksiin, laitekuljetuksiin ja sukellusryhmän turvallisuuteen vuodesta 2023. Kaksi vuotta ympärivuotista käyttöä kylmässä vuonossa ilman rakenteellisia korjauksia.',
+    'Norjalainen kalankasvatus on käyttänyt olagoonin työvenettä tarkastuksiin, laitekuljetuksiin ja sukellusryhmän turvallisuuteen vuodesta 2023. Kaksi vuotta ympärivuotista käyttöä kylmässä vuonossa ilman rakenteellisia korjauksia.',
   'useCase.fishing.desc':
     'Kalastus-SUP:t ja lisävarusteet vavatelineillä, leveillä vakailla kannilla ja ankkurointipisteillä järvi-, joki- ja rannikkovesien kalastajille.',
   'useCase.searchAndRescue.desc':
     'Nopeasti käyttöönotettavat ilmatäytteiset pelastuslaitteet vesipelastukseen, tulvavasteeseen ja rannikkopartioon.',
   'useCase.tourismRecreation.desc':
     'Vahvistetut laivastoluokan SUP-laudat ja veneet retkien järjestäjille, lomakeskuksille ja vesilajikeskuksille.',
-  'nav.exploreAfarer': 'Tutustu Afareriin',
+  'nav.exploreOLagoon': 'Tutustu OLagooniin',
   'nav.technologyMaterials': 'Teknologia ja materiaalit',
   'nav.qualitySafety': 'Laatu ja turvallisuus',
   'nav.storiesGuides': 'Tarinat ja oppaat',
   'nav.coBrand': 'Yhteisbrändi',
-  'nav.coBrandWithAfarer': 'Tee yhteisbrändi Afarerin kanssa',
+  'nav.coBrandWithOLagoon': 'Tee yhteisbrändi OLagoonin kanssa',
   'nav.countryPartners': 'Maakumppanit',
   'nav.findDistributor': 'Etsi jälleenmyyjä',
   'nav.becomeCountryPartner': 'Ryhdy maakumppaniksi',

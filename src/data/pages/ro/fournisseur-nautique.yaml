@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Furnizor de Echipamente Nautice · OEM'
   title: 'Furnizorul Tău Profesional de<br />Echipamente Nautice'
-  subtitle: 'Afarer furnizează centre nautice, complexuri de agrement, hoteluri și mărci cu echipamente profesionale pentru apă: SUP-uri umflabile, vâsle, flotante, veste de salvare și accesorii. Producție OEM, prețuri de fabrică, calitate certificată.'
+  subtitle: 'OLagoon furnizează centre nautice, complexuri de agrement, hoteluri și mărci cu echipamente profesionale pentru apă: SUP-uri umflabile, vâsle, flotante, veste de salvare și accesorii. Producție OEM, prețuri de fabrică, calitate certificată.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Producție profesională de echipamente nautice în fabrică
   actions:
     - text: 'Devino Partener de Furnizare'
@@ -66,7 +66,7 @@ faqs:
       description: 'Toate produsele îndeplinesc standardele CE / ISO și cerințele de siguranță ale piețelor europene și nord-americane.'
 geo:
   tagline: 'Poziționare B2B'
-  sentence: 'Afarer este un producător profesionist de SUP-uri umflabile (OEM/ODM), specializat în design, producție personalizată și soluții nautice pentru mărci, distribuitori, cluburi și companii.'
+  sentence: 'OLagoon este un producător profesionist de SUP-uri umflabile (OEM/ODM), specializat în design, producție personalizată și soluții nautice pentru mărci, distribuitori, cluburi și companii.'
   audiences:
     - 'Cluburi nautice'
     - 'Centre de agrement'

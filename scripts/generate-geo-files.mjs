@@ -28,7 +28,7 @@ function mergePagesIntoFullTxt() {
         const name = e.replace(/\.yaml$/, '');
         const content = fs.readFileSync(path.join(pagesDir, e), 'utf8');
         const title = content.match(/title:\s*["']?(.+?)["']?\n/);
-        if (title) learned.push(`- https://afarer.com/${name}/ –${title[1]}`);
+        if (title) learned.push(`- https://olagoon.com/${name}/ –${title[1]}`);
       }
     }
   } catch {
@@ -62,7 +62,7 @@ function main() {
   if (!fs.existsSync(LLMS_TXT)) {
     fs.writeFileSync(
       LLMS_TXT,
-      `# afarer\n\nafarer is a professional OEM/ODM manufacturer of inflatable water sports equipment.\n`
+      `# olagoon\n\nolagoon is a professional OEM/ODM manufacturer of inflatable water sports equipment.\n`
     );
     console.log('[geo] Created default llms.txt');
   }
@@ -70,7 +70,7 @@ function main() {
   if (!fs.existsSync(LLMS_FULL_TXT)) {
     fs.writeFileSync(
       LLMS_FULL_TXT,
-      `# afarer Knowledge Base\n\nafarer is a water sports equipment manufacturer specializing in inflatable watercraft.\n`
+      `# olagoon Knowledge Base\n\nolagoon is a water sports equipment manufacturer specializing in inflatable watercraft.\n`
     );
     console.log('[geo] Created default llms-full.txt');
   }
@@ -79,9 +79,9 @@ function main() {
     const fallback = {
       '@context': 'https://schema.org',
       '@type': 'Organization',
-      name: 'afarer',
-      url: 'https://afarer.com',
-      description: 'afarer is an OEM/ODM manufacturer of inflatable water sports equipment.',
+      name: 'olagoon',
+      url: 'https://olagoon.com',
+      description: 'olagoon is an OEM/ODM manufacturer of inflatable water sports equipment.',
     };
     fs.writeFileSync(ENTITY_JSON, JSON.stringify(fallback, null, 2));
     console.log('[geo] Created default .well-known/entity.json');

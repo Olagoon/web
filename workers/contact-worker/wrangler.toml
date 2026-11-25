@@ -1,14 +1,14 @@
-name = "afarer-contact"
+name = "olagoon-contact"
 main = "index.ts"
 compatibility_date = "2026-07-08"
 compatibility_flags = ["nodejs_compat"]
 
-routes = [{ pattern = "afarer.com/api/contact*", zone_name = "afarer.com" }]
+routes = [{ pattern = "olagoon.com/api/contact*", zone_name = "olagoon.com" }]
 
 [vars]
 # Destination inbox for contact form submissions (public address, also rendered on the site).
 # Overrides: set a CONTACT_EMAIL_TO secret in the Cloudflare dashboard to redirect.
-CONTACT_EMAIL_TO = "info@afarer.com"
+CONTACT_EMAIL_TO = "info@olagoon.com"
 
 # Anti-spam: TURNSTILE_SECRET (Cloudflare Turnstile widget secret) is synced from the
 # repo secret CONTACT_TURNSTILE_SECRET by .github/workflows/deploy.yml. When absent,
@@ -19,5 +19,5 @@ CONTACT_EMAIL_TO = "info@afarer.com"
 # locally it stays a placeholder and only affects `wrangler deploy --dry-run`.
 [[d1_databases]]
 binding = "DB"
-database_name = "afarer-inquiries"
+database_name = "olagoon-inquiries"
 database_id = "__D1_DATABASE_ID__"

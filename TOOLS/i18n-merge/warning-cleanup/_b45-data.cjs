@@ -40,10 +40,10 @@ module.exports = {
   'home.useCases.browse': 'Ver todos los casos de uso →',
   'useCase.view': 'Ver caso de uso →',
   'useCase.hubDesc':
-    'Desde palistas principiantes hasta operadores profesionales — afarer equipa cada aventura acuática.',
+    'Desde palistas principiantes hasta operadores profesionales — olagoon equipa cada aventura acuática.',
   'home.evidence.read': 'Ver estudio de caso →',
   'home.evidence.browse': 'Ver todas las evidencias →',
-  'oem.why': '¿Por qué asociarse con afarer para OEM/ODM?',
+  'oem.why': '¿Por qué asociarse con olagoon para OEM/ODM?',
   'compare.pvcVsHypalon.recDesc':
     'Elige PVC si eres un navegante recreativo con presupuesto limitado, necesitas un bote ligero portátil o usas tu bote estacionalmente en climas moderados. Elige Hypalon si dejas tu bote inflado permanentemente al sol tropical, operas una flota comercial o planeas conservar el bote por 15+ años.',
   'compare.inflatableVsHard.hardBestDesc':

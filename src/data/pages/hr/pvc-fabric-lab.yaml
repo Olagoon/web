@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 01'
   title: 'Laboratorij za PVC tkanine'
   subtitle: 'Znanstveno ispitivanje materijala — od vlakna do gotove daske'
-  image: 'https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp'
-  image_alt: 'afarer laboratorij za ispitivanje PVC tkanina i materijala'
+  image: 'https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp'
+  image_alt: 'olagoon laboratorij za ispitivanje PVC tkanina i materijala'
 
-intro: 'Tkanina površine i rubova najkritičniji je materijal na napuhivoj SUP dasci. Mora izdržati stalnu UV izloženost, ponovljene cikluse napuhivanja, habanje o vezove i otpad te ekstremne temperaturne promjene — sve uz očuvanje strukturnog integriteta godinama. U Afareru je naš laboratorij za PVC tkanine posvećen isključivo karakterizaciji, validaciji i kontinuiranom poboljšanju tkanina koje koristimo u svakoj dasci koju izrađujemo.'
+intro: 'Tkanina površine i rubova najkritičniji je materijal na napuhivoj SUP dasci. Mora izdržati stalnu UV izloženost, ponovljene cikluse napuhivanja, habanje o vezove i otpad te ekstremne temperaturne promjene — sve uz očuvanje strukturnog integriteta godinama. U OLagoonu je naš laboratorij za PVC tkanine posvećen isključivo karakterizaciji, validaciji i kontinuiranom poboljšanju tkanina koje koristimo u svakoj dasci koju izrađujemo.'
 
 content_html: |
   <h2>Temelj svake napuhive SUP daske</h2>
@@ -82,7 +82,7 @@ content_html: |
     <li>PVC formulacija za niske temperature za arktičku ekspediciju, testirana na -50 °C bez krhkosti.</li>
     <li>Tkanina narančaste boje stabilizirana u boji za flotu spasilaca i spasilačkih daska, koja održava vidljivost nakon 3 godine izloženosti tropskom suncu.</li>
   </ul>
-  <p>Ne prodajemo gotove tkanine "s police" u nadi da će funkcionirati. Testiramo, validiramo i preporučujemo — ili stvaramo — rješenje prilagođeno vašem specifičnom profilu misije. To je Afarer razlika.</p>
+  <p>Ne prodajemo gotove tkanine "s police" u nadi da će funkcionirati. Testiramo, validiramo i preporučujemo — ili stvaramo — rješenje prilagođeno vašem specifičnom profilu misije. To je OLagoon razlika.</p>
 
   <h2>Kako vas servisiramo</h2>
   <p>Kada nam donesete izazov s materijalom, evo što možete očekivati:</p>

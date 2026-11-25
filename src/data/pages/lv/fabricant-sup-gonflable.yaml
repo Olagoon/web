@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Piepūšamo SUP ražotājs · rūpnīca Ķīnā'
   title: 'Jūsu piepūšamo SUP<br />un airu dēļu ražotājs'
-  subtitle: 'Afarer ir OEM/ODM rūpnīca aiz daudziem piepūšamo SUP zīmoliem. Mēs projektējam, būvējam un piegādājam pielāgotus piepūšamos airu dēļus — privātais zīmols, pielāgota veidne, vairumtirdzniecība. CE sertifikācija iekļauta.'
+  subtitle: 'OLagoon ir OEM/ODM rūpnīca aiz daudziem piepūšamo SUP zīmoliem. Mēs projektējam, būvējam un piegādājam pielāgotus piepūšamos airu dēļus — privātais zīmols, pielāgota veidne, vairumtirdzniecība. CE sertifikācija iekļauta.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Pielāgots piepūšamais SUP dēlis, ko ražojis Afarer'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Pielāgots piepūšamais SUP dēlis, ko ražojis OLagoon'
   actions:
     - text: 'Kļūstiet par partneri'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Nosūtiet savu specifikāciju, izmantojot mūsu kontaktformu, saņemiet piedāvājumu 24 stundu laikā, apstipriniet paraugu un sāciet lielapjoma ražošanu.'
 geo:
   tagline: 'B2B pozicionēšana'
-  sentence: 'Afarer ir profesionāls piepūšamo SUP ražotājs (OEM/ODM), kas specializējas dizainā, pielāgotā ražošanā un jūras risinājumos zīmoliem, izplatītājiem, klubiem un uzņēmumiem.'
+  sentence: 'OLagoon ir profesionāls piepūšamo SUP ražotājs (OEM/ODM), kas specializējas dizainā, pielāgotā ražošanā un jūras risinājumos zīmoliem, izplatītājiem, klubiem un uzņēmumiem.'
   audiences:
     - 'Airu zīmoli'
     - 'Izplatītāji'

@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 05'
   title: 'Prototype Workshop'
   subtitle: 'Mula CAD model hanggang sa board na handa-na-sa-tubig — itinayo, inayos, at napatunayan'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'Pagbubuo ng board sa prototype workshop ng Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
+  image_alt: 'Pagbubuo ng board sa prototype workshop ng OLagoon'
 
-intro: "Ang isang CAD model, gaano man ito kadetalyado, ay hindi makapagsasabi kung paano talaga tutugon ang isang board hanggang hindi ito nakakakita ng tubig. Kaya naman ang aming Prototype Workshop ay dinisenyo upang isalin ang data ng engineering sa isang pisikal na board na handa-na-sa-tubig nang mabilis at tumpak hangga't maaari. Bawat bagong modelo ng Afarer — at bawat mahalagang custom build — ay dumadaan sa workshop na ito bago ikompromiso ang production tooling."
+intro: "Ang isang CAD model, gaano man ito kadetalyado, ay hindi makapagsasabi kung paano talaga tutugon ang isang board hanggang hindi ito nakakakita ng tubig. Kaya naman ang aming Prototype Workshop ay dinisenyo upang isalin ang data ng engineering sa isang pisikal na board na handa-na-sa-tubig nang mabilis at tumpak hangga't maaari. Bawat bagong modelo ng OLagoon — at bawat mahalagang custom build — ay dumadaan sa workshop na ito bago ikompromiso ang production tooling."
 
 content_html: |
   <h2>Kung saan nagiging realidad ang disenyo</h2>

@@ -1,5 +1,5 @@
 const fs = require('fs');
-const s = fs.readFileSync('E:/github/afarer/dist/en/index.html', 'utf8');
+const s = fs.readFileSync('E:/github/olagoon/dist/en/index.html', 'utf8');
 const pats = [
   'href="/login"',
   'href="/resources/download-catalog"',

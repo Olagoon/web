@@ -1,8 +1,8 @@
 meta:
-  title: 'Medijski center — mediji in viri afarer | {SITE}'
-  description: 'Medijski center afarer: novinarska obvestila, sredstva znamke in viri našega podjetja za proizvodnjo napihljivih SUP desk.'
+  title: 'Medijski center — mediji in viri olagoon | {SITE}'
+  description: 'Medijski center olagoon: novinarska obvestila, sredstva znamke in viri našega podjetja za proizvodnjo napihljivih SUP desk.'
   keywords:
-    - 'mediji afarer'
+    - 'mediji olagoon'
     - 'mediji proizvajalca sup'
     - 'novinarski komplet veslaških desk'
     - 'nove nautičnega podjetja'
@@ -22,7 +22,7 @@ sections:
       - 'Dodatki in varnostna oprema'
   - id: logo-brand-kit
     title: 'Komplet logotipa in znamke'
-    desc: 'Uradne datoteke logotipa afarer, barvna paleta, tipografija in smernice znamke.'
+    desc: 'Uradne datoteke logotipa olagoon, barvna paleta, tipografija in smernice znamke.'
     items:
       - 'Primarni logotip (PNG/SVG/EPS)'
       - 'Znak ikone'
@@ -58,7 +58,7 @@ cta:
       desc: 'Oglejte si naš proizvodni obrat s 12,000 m²'
     - label: 'Smernice znamke'
       href: /brand/
-      desc: 'Izvedite več o znamki afarer'
+      desc: 'Izvedite več o znamki olagoon'
     - label: 'Postanite naš partner'
       href: /contact/
       desc: 'Povpraševanja OEM, ODM in distribucije'

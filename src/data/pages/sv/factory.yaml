@@ -12,7 +12,7 @@ hero:
   subtitle: 12 000 m² integrerad produktion — från råmaterial till färdig bräda
 intro:
   - >-
-    Som ett fabriksmärke under **Qingdao Vatrad Group Co., Ltd.** kontrollerar afarer varje steg i produktionen — från mottagning av rå PVC- och glasfibermaterial till slutkontroll före frakt av färdig bräda. Vår produktionsanläggning i Qingdao Economic Development Zone täcker 12 000 kvadratmeter och
+    Som ett fabriksmärke under **Qingdao Vatrad Group Co., Ltd.** kontrollerar olagoon varje steg i produktionen — från mottagning av rå PVC- och glasfibermaterial till slutkontroll före frakt av färdig bräda. Vår produktionsanläggning i Qingdao Economic Development Zone täcker 12 000 kvadratmeter och
     rymmer dedikerade verkstäder för PVC-skärning, rörsvetsning, FRP-formtillverkning, digitalt SUP-tryck, slutmontering och kvalitetstestning.
   - >-
     Genom att integrera design, ingenjörskonst, prototyptillverkning, produktion och testning under ett tak eliminerar vi ineffektiviteten i kontraktstillverkning och upprätthåller direkt kontroll över utförandekvalitet, materialval och leveranstider. Varje bräda som lämnar vår verkstad är byggd av
@@ -68,22 +68,22 @@ workshops_section:
   workshops:
     - title: PVC-skärning och materialförberedelse
       description: Automatiska CNC-skärmaskiner bearbetar PVC- och drop-stitch-tyger med submillimeterprecision. Datoroptimerad placering minimerar materialsvinn och säkerställer att varje panel uppfyller sina dimensionsspecifikationer före svetsning.
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: Rörsvetsning och värmegeförsegling
       description: Dedikerad svetsverkstad med varmluftsförseglingsmaskiner och dielektriska RF-pressar. Varmluftssvetsar fogar samman och smälter PVC-rörkammare, medan RF-förseglare skapar höghållfasta, lufttäta sömmar som överträffar EN ISO 25649-kraven.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: FRP-formar och komposittillverkning
       description: Kundanpassade FRP-formar för SUP-komponenter, tillverkade med handuppläggning av glasfiber med polyester- och vinylesterhartser. Varje lager handrullas och vakuumpackas för jämn kvalitet. Gelcoat-sprutbox ger en högglansig, UV-beständig marin yta.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
     - title: SUP-tryck och dekor
       description: SUP-brädor dekoreras med digitaltryck för helfärgsgrafik och screentryck för logotyper och återkommande mönster. Digitala skrivare skapar fotokvalitets däckdesign, medan screentryck levererar hållbara, livfulla varumärkesmärken.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     - title: Slutmontering och riggning
       description: Monteringslinje där drop-stitch-kärnor färdigställs med rails, EVA-däck appliceras samt fenor, ventiler och tillbehör installeras. Varje bräda följer en 100-punkts monteringschecklista som godkänns av teamledaren.
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: Kvalitetstestning och inspektion
       description: Varje färdig bräda genomgår obligatoriska lufttäthetstester, sömhållfasthetsverifiering och full systemkontroll före frakt. Vårt kvalitetslaboratorium arbetar oberoende av produktionen och rapporterar direkt till ledningen.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 equipment_section:
   tagline: Utrustning
   title: Viktig produktionsutrustning
@@ -136,7 +136,7 @@ faq_section:
   questions:
     - q: Vad är minsta beställningskvantitet (MOQ) för OEM av uppblåsbara SUP-brädor?
       a: MOQ börjar från 5–10 enheter för standard OEM-modeller. Anpassade formar och private label-projekt kräver minimum 200 enheter, beroende på komplexitet. Provbeställningar och testserier finns tillgängliga för nya varumärken.
-    - q: Är afarer BSCI-certifierat?
+    - q: Är olagoon BSCI-certifierat?
       a: Ja. Vår fabrik har ett giltigt BSCI-intyg om social regelefterlevnad (revisionsrapport tillgänglig på begäran). Vi är även certifierade enligt ISO 9001 för kvalitetsledning, och alla produkter är CE-certifierade. REACH- och RoHS-efterlevnadsdokumentation medföljer varje OEM-leverans.
     - q: Vad är typisk ledtid för en OEM-beställning?
       a: Standardledtiden är 30–45 dagar från bekräftad order och deposition för OEM-serieproduktion. Utveckling av anpassade formar tillför 15–20 dagar för verktygstillverkning. Accelererad produktion finns tillgänglig för brådskande order och säsongstoppar. Prototypexemplar skickas normalt inom 15–20 dagar.

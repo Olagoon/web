@@ -1,10 +1,10 @@
 misc:
   readGuide: Preberite vodič →
   techDesc: Pomorsko varnostno inženirstvo in preskušanje materialov
-  productsDesc: Raziščite celoten katalog izdelkov afarer
+  productsDesc: Raziščite celoten katalog izdelkov olagoon
   trustDesc: Skladnost s CE, ISO in BSCI
 sup:
-  title: SUP znanje — vodiči in viri za napihljive SUP | Afarer
+  title: SUP znanje — vodiči in viri za napihljive SUP | OLagoon
   description: Celovito središče SUP znanja, ki zajema vodiče za začetnike, dimenzioniranje desk, vadnice tehnike, varnostne nasvete in tehnologijo napihljivih SUP desk.
   articles:
     - title: Osnove SUP — vodič za začetnike
@@ -26,7 +26,7 @@ sup:
       desc: Bistveno varnostno znanje, vključno z branjem vremena, izbiro PFD, samoreševanjem in skupinskim veslanjem.
       href: /learn/water-safety/
 water-safety:
-  title: Znanje o varnosti na vodi — vodiči za varno veslanje | Afarer
+  title: Znanje o varnosti na vodi — vodiči za varno veslanje | OLagoon
   description: Celoviti viri o varnosti na vodi za SUP, kajakaštvo in čolnarjenje. Izvedite več o izbiri PFD, branju vremena, samoreševanju, varnosti v hladni vodi in certifikaciji CE.
   articles:
     - title: Vodič po varnosti na vodi
@@ -49,7 +49,7 @@ water-safety:
       href: /trust/
 sup-basics:
   title: Osnove SUP — vodič za začetnike veslanja stoje na deski
-  description: Vse, kar morate vedeti, da začnete s SUP — veslanjem stoje na deski. Vodiči po opremi, nasveti glede velikosti, varnostni nasveti in tehnike za začetnike iz centra znanja afarer.
+  description: Vse, kar morate vedeti, da začnete s SUP — veslanjem stoje na deski. Vodiči po opremi, nasveti glede velikosti, varnostni nasveti in tehnike za začetnike iz centra znanja olagoon.
   articles: []
 drop-stitch-core:
   title: Tehnologija drop-stitch jedra — kako napihljive SUP deske dosežejo togost

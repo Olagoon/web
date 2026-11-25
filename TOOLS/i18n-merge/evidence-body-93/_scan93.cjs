@@ -38,7 +38,7 @@ const AR_LATIN_OK = new Set(
     'flex',
     'drop',
     'stitch',
-    'afarer',
+    'olagoon',
     'Best',
     'Fishing',
     'Lakeside',

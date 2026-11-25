@@ -1,10 +1,10 @@
 misc:
   readGuide: Baca panduan →
   techDesc: Rekayasa keselamatan kelautan dan pengujian material
-  productsDesc: Jelajahi katalog lengkap produk Afarer
+  productsDesc: Jelajahi katalog lengkap produk OLagoon
   trustDesc: Kepatuhan CE, ISO, dan BSCI
 sup:
-  title: Pengetahuan SUP — Panduan & Sumber Daya SUP Tiup | Afarer
+  title: Pengetahuan SUP — Panduan & Sumber Daya SUP Tiup | OLagoon
   description: Pusat pengetahuan SUP lengkap yang mencakup panduan pemula, ukuran papan, tutorial teknik, tips keselamatan, dan teknologi SUP tiup.
   articles:
     - title: Dasar-Dasar SUP — Panduan Pemula
@@ -26,7 +26,7 @@ sup:
       desc: Pengetahuan keselamatan penting termasuk membaca cuaca, pemilihan PFD, penyelamatan diri, dan dayung berkelompok.
       href: /learn/water-safety/
 water-safety:
-  title: Pengetahuan Keselamatan Air — Panduan Dayung yang Aman | Afarer
+  title: Pengetahuan Keselamatan Air — Panduan Dayung yang Aman | OLagoon
   description: Sumber daya keselamatan air yang komprehensif untuk SUP, berkayak, dan berperahu. Pelajari pemilihan PFD, membaca cuaca, penyelamatan diri, keselamatan air dingin, dan sertifikasi CE.
   articles:
     - title: Panduan Keselamatan Air
@@ -49,7 +49,7 @@ water-safety:
       href: /trust/
 sup-basics:
   title: Dasar-Dasar SUP — Panduan Pemula untuk Papan Dayung Berdiri
-  description: Semua yang perlu Anda ketahui untuk memulai papan dayung berdiri. Panduan peralatan, saran ukuran, tips keselamatan, dan teknik pemula dari pusat pengetahuan Afarer.
+  description: Semua yang perlu Anda ketahui untuk memulai papan dayung berdiri. Panduan peralatan, saran ukuran, tips keselamatan, dan teknik pemula dari pusat pengetahuan OLagoon.
   articles: []
 drop-stitch-core:
   title: Teknologi Inti Drop-Stitch — Bagaimana SUP Tiup Mencapai Kekakuan

@@ -15,9 +15,9 @@
  */
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const LOCALES = (process.argv[2] || 'ar,el').split(',');
 const EXPECTED_COUNT = 29;
 
@@ -139,7 +139,7 @@ const TECH = new Set([
   'OEM',
   'ODM',
   'MOQ',
-  'Afarer',
+  'OLagoon',
   'HH',
   'Clifton',
   'drop-stitch',

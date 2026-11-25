@@ -1,6 +1,6 @@
 meta:
   title: Hubungi Kami — Pertanyaan Perkongsian & Produk | {SITE}
-  description: Hubungi afarer untuk pertanyaan perkongsian, jenama bersama, dan label peribadi, atau armada profesional. Jenama SUP boleh tiup, kami membalas dalam masa 2 hari bekerja.
+  description: Hubungi olagoon untuk pertanyaan perkongsian, jenama bersama, dan label peribadi, atau armada profesional. Jenama SUP boleh tiup, kami membalas dalam masa 2 hari bekerja.
   keywords:
     - sebut harga pengedar sup
     - pembekal sup profesional
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Hantar mesej kepada kami
   subtitle: Untuk sebut harga, soalan teknikal atau pertanyaan perkongsian, hubungi kami. Kami membalas dalam masa satu hari bekerja.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Hantar Pertanyaan → Dapatkan Sebut Harga
   success_message: Terima kasih! Mesej anda telah tiba dalam peti masuk kami. Kami akan membalas dalam masa satu hari bekerja.
   error_message: Sesuatu tidak kena ketika menghantar mesej anda. Sila cuba lagi atau e-mel kami secara terus.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-mel
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Ibu Pejabat
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

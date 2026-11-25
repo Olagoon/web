@@ -1,7 +1,7 @@
 // Inject id_ui_merged.json into src/data/site/i18n-config.json as a top-level "id" object
 // and run the sync chain checks. Does NOT run generators (done separately).
 const fs = require('fs');
-const cfgPath = 'E:\\github\\afarer\\src\\data\\site\\i18n-config.json';
+const cfgPath = 'E:\\github\\olagoon\\src\\data\\site\\i18n-config.json';
 const mergedPath = __dirname + '\\id_ui_merged.json';
 
 const cfg = JSON.parse(fs.readFileSync(cfgPath, 'utf8'));

@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Resorty a hotely
   title: Proměňte své pobřežní umístění v zdroj příjmů<br />s prémiovými SUP flotilami
-  subtitle: Afarer vybavuje resorty po celém světě nafukovacími SUP flotilami komerční kvality – od startovacích balíčků s 20 deskami po vlajkové programy se 100+ deskami. Přizpůsobená brandová identita, školení personálu a náhradní díly v ceně.
+  subtitle: OLagoon vybavuje resorty po celém světě nafukovacími SUP flotilami komerční kvality – od startovacích balíčků s 20 deskami po vlajkové programy se 100+ deskami. Přizpůsobená brandová identita, školení personálu a náhradní díly v ceně.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Hosté resortu si užívají pádlování na SUP na nedotčené pláži
 roi_section:
   title: Model výnosů z SUP pro resorty
@@ -20,7 +20,7 @@ roi_section:
       detail: Vraťte plnou investici do flotily během jedné sezóny
     - metric: 40%
       label: Růst tržeb
-      detail: Průměrný nárůst po přechodu na flotily Afarer
+      detail: Průměrný nárůst po přechodu na flotily OLagoon
     - metric: 500+
       label: Počet zápůjček na prkno
       detail: Odolnost pro komerční provoz a každodenní použití
@@ -67,7 +67,7 @@ packages:
       revenue: Potenciál ročních tržeb přes 200 000 USD
       cta_text: Získejte vlajkový balíček
 case_study:
-  quote: Od přechodu na Afarer vzrostly naše tržby z půjčovny SUP o 40 %. Náklady na výměnu prken klesly o 60 %. Investici do celé flotily jsme splatili za 4 měsíce.
+  quote: Od přechodu na OLagoon vzrostly naše tržby z půjčovny SUP o 40 %. Náklady na výměnu prken klesly o 60 %. Investici do celé flotily jsme splatili za 4 měsíce.
   author: Manažer vodních aktivit
   location: 5hvězdičkový resort, Maledivy
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Doba návratnosti
       value: 4 měsíce
 features:
-  title: Proč resorty volí Afarer
+  title: Proč resorty volí OLagoon
   subtitle: Odolnost komerční třídy, globální logistika a partner, který rozumí pohostinství.
   items:
     - title: 500+ cyklů pronájmu

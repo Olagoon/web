@@ -1,5 +1,5 @@
 const fs = require('fs');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 const WORK = 'C:/Users/Helleo/AppData/Local/Temp/deveco/sitemisc_work';
 const CLDR_LOCALES = ['hr', 'hu', 'sk', 'bg', 'sl', 'sr', 'id', 'he', 'ms', 'lt', 'lv', 'et'];
 
@@ -21,7 +21,7 @@ const ALIAS = {
   'State of Palestine': 'PS',
 };
 
-const countries = yaml.load(fs.readFileSync('E:/github/afarer/src/data/site/countries.yaml', 'utf8')).countries;
+const countries = yaml.load(fs.readFileSync('E:/github/olagoon/src/data/site/countries.yaml', 'utf8')).countries;
 
 const enJ = JSON.parse(fs.readFileSync(`${WORK}/cldr/en.json`, 'utf8'));
 const enT = enJ.main.en.localeDisplayNames.territories;

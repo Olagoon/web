@@ -21,14 +21,14 @@ const page = getPageContent(lang, 'warranty') || {};
 const metadata = {
   title: `Warranty — ${SITE.name}`,
   description:
-    t('warranty.metaDesc') || 'Afarer 3-year limited warranty coverage for inflatable SUPs and marine products.',
+    t('warranty.metaDesc') || 'OLagoon 3-year limited warranty coverage for inflatable SUPs and marine products.',
 };
 
 const crumbs = [{ name: t('nav.home'), href: `/${lang}/` }, { name: t('nav.warranty') }];
 
 const graphJsonLd = articleSchema({
-  headline: page.headline || 'Afarer Manufacturer Limited Warranty',
-  description: page.seo?.description || 'Afarer 3-year limited warranty on inflatable marine products.',
+  headline: page.headline || 'OLagoon Manufacturer Limited Warranty',
+  description: page.seo?.description || 'OLagoon 3-year limited warranty on inflatable marine products.',
   datePublished: page.seo?.datePublished || '2024-01-01',
   dateModified: page.seo?.dateModified || '2026-06-01',
   author: SITE.name,
@@ -45,7 +45,7 @@ const graphJsonLd = articleSchema({
       {page.headline || 'Manufacturer Limited Warranty'}
     </h1>
     <p class="mt-4 text-lg text-gray-500 dark:text-gray-400">
-      {page.subtitle || 'Afarer stands behind the quality of every product we manufacture.'}
+      {page.subtitle || 'OLagoon stands behind the quality of every product we manufacture.'}
     </p>
   </section>
 

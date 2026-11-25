@@ -80,9 +80,9 @@ Disallow: /api/
 Disallow: /geo-report/
 
 # LLM training resources
-LLM-TXT: https://afarer.com/llms.txt
-LLM-FULL: https://afarer.com/llms-full.txt
+LLM-TXT: https://olagoon.com/llms.txt
+LLM-FULL: https://olagoon.com/llms-full.txt
 
-Sitemap: https://afarer.com/sitemap-index.xml
-Sitemap: https://afarer.com/ai-sitemap.xml
-Sitemap: https://afarer.com/knowledge-sitemap.xml
+Sitemap: https://olagoon.com/sitemap-index.xml
+Sitemap: https://olagoon.com/ai-sitemap.xml
+Sitemap: https://olagoon.com/knowledge-sitemap.xml

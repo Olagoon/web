@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "afarer",
+    "name": "olagoon",
     "description": "Water sports equipment manufacturer — inflatable SUP boards, kayaks, safety equipment, and accessories.",
     "founded": 2012,
     "certifications": ["CE", "ISO 12402", "SOLAS (Life Vest Pro)"],
@@ -57,7 +57,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": true,
-      "image": "/images/afarer/products/sup-touring.jpg"
+      "image": "/images/olagoon/products/sup-touring.jpg"
     },
     {
       "id": "SUP-EX11",
@@ -108,7 +108,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": true,
-      "image": "/images/afarer/products/sup-allround.jpg"
+      "image": "/images/olagoon/products/sup-allround.jpg"
     },
     {
       "id": "ACC-PMP",
@@ -147,7 +147,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": false,
-      "image": "/images/afarer/products/electric-pump.jpg"
+      "image": "/images/olagoon/products/electric-pump.jpg"
     },
     {
       "id": "ACC-CP",
@@ -186,7 +186,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": false,
-      "image": "/images/afarer/products/sup-paddle.jpg"
+      "image": "/images/olagoon/products/sup-paddle.jpg"
     },
     {
       "id": "ACC-OAR-PUMP",
@@ -221,7 +221,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": false,
-      "image": "/images/afarer/products/electric-pump.jpg"
+      "image": "/images/olagoon/products/electric-pump.jpg"
     },
     {
       "id": "LV-PRO",
@@ -260,7 +260,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": false,
-      "image": "/images/afarer/products/life-jacket-2.jpg"
+      "image": "/images/olagoon/products/life-jacket-2.jpg"
     },
     {
       "id": "LV-CL",
@@ -299,7 +299,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": false,
-      "image": "/images/afarer/products/life-jacket.png"
+      "image": "/images/olagoon/products/life-jacket.png"
     },
     {
       "id": "KAY-TD",
@@ -346,7 +346,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": false,
-      "image": "/images/afarer/products/rk-expedition.jpg"
+      "image": "/images/olagoon/products/rk-expedition.jpg"
     },
     {
       "id": "KAY-LT",
@@ -393,13 +393,13 @@
       "currency": "USD",
       "inStock": true,
       "featured": false,
-      "image": "/images/afarer/products/rk-river.jpg"
+      "image": "/images/olagoon/products/rk-river.jpg"
     },
     {
       "id": "AIR-360",
       "name": "AirDeck 360",
       "summary": "Versatile 12' (360 cm) inflatable SUP with drop-stitch construction. Ideal for family recreation and touring.",
-      "description": "The afarer AirDeck 360 is a 12' (360 cm) inflatable stand-up paddle board with drop-stitch construction, designed for recreational paddling and touring. Inflates to 15–18 PSI for a rigid platform and rolls up for compact storage in the included backpack.",
+      "description": "The olagoon AirDeck 360 is a 12' (360 cm) inflatable stand-up paddle board with drop-stitch construction, designed for recreational paddling and touring. Inflates to 15–18 PSI for a rigid platform and rolls up for compact storage in the included backpack.",
       "category": "inflatable",
       "tags": ["inflatable", "family", "touring"],
       "specs": [
@@ -428,13 +428,13 @@
       "currency": "USD",
       "inStock": true,
       "featured": true,
-      "image": "/images/afarer/products/airdeck-360.jpg"
+      "image": "/images/olagoon/products/airdeck-360.jpg"
     },
     {
       "id": "AIR-270",
       "name": "AirDeck 270",
       "summary": "Lightweight 9' (270 cm) compact inflatable SUP with drop-stitch construction. Stows in a car boot.",
-      "description": "The afarer AirDeck 270 is a 9' (270 cm) inflatable stand-up paddle board with drop-stitch construction — the smallest and most portable SUP in afarer's lineup. Packs down to a bag that fits in a small car boot and inflates in minutes.",
+      "description": "The olagoon AirDeck 270 is a 9' (270 cm) inflatable stand-up paddle board with drop-stitch construction — the smallest and most portable SUP in olagoon's lineup. Packs down to a bag that fits in a small car boot and inflates in minutes.",
       "category": "inflatable",
       "tags": ["inflatable", "portable", "travel"],
       "specs": [
@@ -463,7 +463,7 @@
       "currency": "USD",
       "inStock": true,
       "featured": true,
-      "image": "/images/afarer/products/airdeck-270.jpg"
+      "image": "/images/olagoon/products/airdeck-270.jpg"
     }
   ],
   "technologies": [
@@ -471,7 +471,7 @@
       "id": "military-grade-pvc",
       "title": "Military-Grade PVC Fabric",
       "summary": "Multi-layer laminated PVC fabric rated for marine environments, fusion-welded to eliminate delamination.",
-      "description": "Military-grade PVC is the primary material used across afarer inflatable products. Multi-layer lamination provides UV resistance, saltwater corrosion protection, and abrasion resistance.",
+      "description": "Military-grade PVC is the primary material used across olagoon inflatable products. Multi-layer lamination provides UV resistance, saltwater corrosion protection, and abrasion resistance.",
       "category": "materials",
       "tags": ["pvc", "material", "marine", "durability"]
     },
@@ -479,7 +479,7 @@
       "id": "drop-stitch-core",
       "title": "Drop-Stitch Core Construction",
       "summary": "Thousands of internal polyester threads connect top and bottom layers, creating a rigid inflatable structure at 12-15 PSI.",
-      "description": "Drop-stitch core is the foundational technology behind afarer inflatable SUP boards and kayaks. It provides rigid-body performance from an inflatable platform.",
+      "description": "Drop-stitch core is the foundational technology behind olagoon inflatable SUP boards and kayaks. It provides rigid-body performance from an inflatable platform.",
       "category": "materials",
       "tags": ["drop-stitch", "construction", "rigid", "pvc"]
     },
@@ -497,7 +497,7 @@
       "id": "marine-professional-operations",
       "title": "Professional Marine Operations",
       "summary": "Professional-grade SUP equipment and safety gear for lifeguard, rescue, and commercial marine use.",
-      "description": "Professional marine operators require rugged, high-performance equipment. afarer SUP boards and safety gear serve lifeguard teams, water rescue programs, and commercial operators.",
+      "description": "Professional marine operators require rugged, high-performance equipment. olagoon SUP boards and safety gear serve lifeguard teams, water rescue programs, and commercial operators.",
       "category": "professional",
       "environment": "sea",
       "skill": "professional",
@@ -519,7 +519,7 @@
       "id": "coastal-touring",
       "title": "Coastal Touring & Exploration",
       "summary": "Longer touring boards for covering distance on open water with efficiency and tracking.",
-      "description": "Coastal touring requires boards with good tracking, glide efficiency, and the ability to handle moderate chop. afarer Tour 12 is designed for this use case.",
+      "description": "Coastal touring requires boards with good tracking, glide efficiency, and the ability to handle moderate chop. olagoon Tour 12 is designed for this use case.",
       "category": "recreation",
       "environment": "coastal",
       "skill": "intermediate",
@@ -530,7 +530,7 @@
       "id": "beginner-sup-training",
       "title": "Beginner SUP Training",
       "summary": "Stable inflatable SUP platforms for first-time paddlers learning on lakes and calm coastal waters.",
-      "description": "Beginner SUP training requires stable, forgiving boards that inspire confidence. afarer Explorer 11 and similar boards provide the wide platform needed for successful first paddling experiences.",
+      "description": "Beginner SUP training requires stable, forgiving boards that inspire confidence. olagoon Explorer 11 and similar boards provide the wide platform needed for successful first paddling experiences.",
       "category": "training",
       "environment": "lake",
       "skill": "beginner",
@@ -540,24 +540,24 @@
   ],
   "articles": [
     {
-      "id": "afarer-supply-chain-2025",
+      "id": "olagoon-supply-chain-2025",
       "title": "Expand Your Business Horizons — Become a Dealer for Hifond's Leading Brands",
-      "excerpt": "Hifond is actively seeking ambitious dealers nationwide to partner with our portfolio of high-quality product brands including afarer watersports products.",
+      "excerpt": "Hifond is actively seeking ambitious dealers nationwide to partner with our portfolio of high-quality product brands including olagoon watersports products.",
       "category": "Corporation News",
       "tags": ["dealership", "hifond", "partnership"],
       "publishDate": "2025-02-23T00:00:00.000Z"
     },
     {
-      "id": "afarer-rd-center-innovation",
-      "title": "afarer R&D Center — Forging the Future of Inflatable Water Sports",
-      "excerpt": "afarer's state-of-the-art R&D center drives innovation in inflatable SUP and boat design, focusing on material science, structural engineering, and sustainability.",
+      "id": "olagoon-rd-center-innovation",
+      "title": "olagoon R&D Center — Forging the Future of Inflatable Water Sports",
+      "excerpt": "olagoon's state-of-the-art R&D center drives innovation in inflatable SUP and boat design, focusing on material science, structural engineering, and sustainability.",
       "category": "Company",
       "tags": ["innovation", "R&D", "quality"],
       "publishDate": "2025-01-15T00:00:00.000Z"
     },
     {
       "id": "sup-tour-12-launch",
-      "title": "afarer Launches SUP Tour 12 — A New Standard for Touring Inflatable SUPs",
+      "title": "olagoon Launches SUP Tour 12 — A New Standard for Touring Inflatable SUPs",
       "excerpt": "The SUP Tour 12 brings displacement hull performance to inflatable SUP touring. Longer, faster, and built for distance paddlers.",
       "category": "Product News",
       "tags": ["product launch", "SUP", "touring"],
@@ -572,16 +572,16 @@
       "publishDate": "2026-04-15T00:00:00.000Z"
     },
     {
-      "id": "seeking-dealers-for-afarer",
-      "title": "We Are Seeking Dealers for afarer",
-      "excerpt": "Ride the Wave of Success: Become a afarer Dealer Across the USA! Hifond is actively seeking dynamic dealers to partner with our watersports brand.",
+      "id": "seeking-dealers-for-olagoon",
+      "title": "We Are Seeking Dealers for olagoon",
+      "excerpt": "Ride the Wave of Success: Become a olagoon Dealer Across the USA! Hifond is actively seeking dynamic dealers to partner with our watersports brand.",
       "category": "Corporation News",
       "tags": ["dealership", "partners", "USA"],
       "publishDate": "2025-03-03T00:00:00.000Z"
     },
     {
       "id": "recycled-pvc-initiative",
-      "title": "afarer Launches Recycled PVC Initiative for Sustainable Inflatable Manufacturing",
+      "title": "olagoon Launches Recycled PVC Initiative for Sustainable Inflatable Manufacturing",
       "excerpt": "A new closed-loop recycling program repurposes production PVC waste into new inflatable boards, reducing landfill impact by an estimated 40%.",
       "category": "Company",
       "tags": ["sustainability", "manufacturing", "environment"],
@@ -597,8 +597,8 @@
     },
     {
       "id": "miami-boat-show-2026",
-      "title": "afarer to Exhibit at Miami International Boat Show 2026",
-      "excerpt": "afarer debuts at the Miami International Boat Show with the full product lineup including SUPs, kayaks, and safety equipment.",
+      "title": "olagoon to Exhibit at Miami International Boat Show 2026",
+      "excerpt": "olagoon debuts at the Miami International Boat Show with the full product lineup including SUPs, kayaks, and safety equipment.",
       "category": "Events",
       "tags": ["event", "boat show", "Miami", "exhibition"],
       "publishDate": "2026-06-20T00:00:00.000Z"
@@ -606,31 +606,31 @@
     {
       "id": "life-vest-pro-solas",
       "title": "Life Vest Pro Receives Full SOLAS Certification for Commercial Marine Use",
-      "excerpt": "afarer Life Vest Pro achieves SOLAS/MED certification, opening commercial shipping, fishing, and offshore markets to the automatic inflatable life vest.",
+      "excerpt": "olagoon Life Vest Pro achieves SOLAS/MED certification, opening commercial shipping, fishing, and offshore markets to the automatic inflatable life vest.",
       "category": "Product News",
       "tags": ["product", "safety", "SOLAS"],
       "publishDate": "2026-05-20T00:00:00.000Z"
     },
     {
       "id": "lake-tahoe-paddle-club",
-      "title": "Lake Tahoe Paddle Club Chooses afarer for Fleet Program",
-      "excerpt": "How a 200-member paddle club standardized on afarer SUPs and kayaks for rental and instructional fleets across multiple Lake Tahoe locations.",
+      "title": "Lake Tahoe Paddle Club Chooses olagoon for Fleet Program",
+      "excerpt": "How a 200-member paddle club standardized on olagoon SUPs and kayaks for rental and instructional fleets across multiple Lake Tahoe locations.",
       "category": "Customer Stories",
       "tags": ["customer story", "fleet", "Lake Tahoe"],
       "publishDate": "2026-04-02T00:00:00.000Z"
     },
     {
       "id": "iso-14001-certification",
-      "title": "afarer Manufacturing Facility Achieves ISO 14001 Environmental Management Certification",
-      "excerpt": "The afarer production facility in China earns ISO 14001:2015 certification for its environmental management systems and sustainable manufacturing processes.",
+      "title": "olagoon Manufacturing Facility Achieves ISO 14001 Environmental Management Certification",
+      "excerpt": "The olagoon production facility in China earns ISO 14001:2015 certification for its environmental management systems and sustainable manufacturing processes.",
       "category": "Company",
       "tags": ["certification", "ISO", "manufacturing", "sustainability"],
       "publishDate": "2026-06-10T00:00:00.000Z"
     },
     {
       "id": "great-lake-sup-challenge",
-      "title": "afarer Sponsors Great Lake SUP Challenge 2026 — Lake Michigan Crossing",
-      "excerpt": "The annual 22-mile Lake Michigan SUP crossing returns with afarer as title sponsor, featuring a new recreational division for touring boards.",
+      "title": "olagoon Sponsors Great Lake SUP Challenge 2026 — Lake Michigan Crossing",
+      "excerpt": "The annual 22-mile Lake Michigan SUP crossing returns with olagoon as title sponsor, featuring a new recreational division for touring boards.",
       "category": "Community",
       "tags": ["event", "sponsorship", "SUP", "community"],
       "publishDate": "2026-06-01T00:00:00.000Z"

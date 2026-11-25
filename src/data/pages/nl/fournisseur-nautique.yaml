@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Leverancier van nautische uitrusting · OEM'
   title: 'Uw professionele leverancier<br />van nautische uitrusting'
-  subtitle: 'Afarer levert nautische centra, recreatievoorzieningen, hotels en merken professionele wateruitrusting: opblaasbare paddleboards, boten, drijvers, vesten en accessoires. OEM-productie, fabrieksprijzen, gecertificeerde kwaliteit.'
+  subtitle: 'OLagoon levert nautische centra, recreatievoorzieningen, hotels en merken professionele wateruitrusting: opblaasbare paddleboards, boten, drijvers, vesten en accessoires. OEM-productie, fabrieksprijzen, gecertificeerde kwaliteit.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Professionele productie van nautische uitrusting in de fabriek
   actions:
     - text: 'Word leverancierspartner'
@@ -66,7 +66,7 @@ faqs:
       description: 'Alle producten voldoen aan CE / ISO-normen en de veiligheidseisen van Europese en Noord-Amerikaanse markten.'
 geo:
   tagline: 'B2B-positionering'
-  sentence: 'Afarer is een professionele fabrikant van opblaasbare SUP’s en opblaasbare boten (OEM/ODM), gespecialiseerd in ontwerp, productie op maat en nautische oplossingen voor merken, distributeurs, clubs en bedrijven.'
+  sentence: 'OLagoon is een professionele fabrikant van opblaasbare SUP’s en opblaasbare boten (OEM/ODM), gespecialiseerd in ontwerp, productie op maat en nautische oplossingen voor merken, distributeurs, clubs en bedrijven.'
   audiences:
     - 'Nautische clubs'
     - 'Recreatiecentra'

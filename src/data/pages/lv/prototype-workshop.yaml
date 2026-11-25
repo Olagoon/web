@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorija 05'
   title: 'Prototipu darbnīca'
   subtitle: 'No CAD modeļa līdz ūdenim gatavam dēlim — uzbūvēts, aprīkots un pārbaudīts'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'Afarer prototipu darbnīcas dēļu izgatavošana'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
+  image_alt: 'OLagoon prototipu darbnīcas dēļu izgatavošana'
 
-intro: 'Ne cik detalizēts arī būtu CAD modelis, tas nevar parādīt, kā dēlis patiesībā uzvedīsies, līdz tas saskaras ar ūdeni. Tāpēc mūsu Prototipu darbnīca ir izveidota, lai pēc iespējas ātrāk un precīzāk pārvērstu inženierijas datus fiziskā, ūdenim gatavā dēlī. Katrs jaunais Afarer modelis — un katrs nozīmīgs pielāgots būvējums — iziet cauri šai darbnīcai, pirms tiek uzsākta ražošanas tehnoloģiskā aprīkojuma izgatavošana.'
+intro: 'Ne cik detalizēts arī būtu CAD modelis, tas nevar parādīt, kā dēlis patiesībā uzvedīsies, līdz tas saskaras ar ūdeni. Tāpēc mūsu Prototipu darbnīca ir izveidota, lai pēc iespējas ātrāk un precīzāk pārvērstu inženierijas datus fiziskā, ūdenim gatavā dēlī. Katrs jaunais OLagoon modelis — un katrs nozīmīgs pielāgots būvējums — iziet cauri šai darbnīcai, pirms tiek uzsākta ražošanas tehnoloģiskā aprīkojuma izgatavošana.'
 
 content_html: |
   <h2>Kur dizains kļūst par realitāti</h2>

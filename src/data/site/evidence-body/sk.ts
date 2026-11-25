@@ -323,7 +323,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Kompletná produktová línia — SUP dosky a príslušenstvo',
     industry: 'Distribúcia / Námorníctvo',
     challenge:
-      'Distribútor pôsobiaci v GCC chcel výhradné práva na zastupovanie kompletnej produktovej línie afarer v 6 krajinách Perzského zálivu, s vlastným arabským balením, špecifikáciami materiálov odolných voči teplu a záručnými podmienkami v súlade so šaríou.',
+      'Distribútor pôsobiaci v GCC chcel výhradné práva na zastupovanie kompletnej produktovej línie olagoon v 6 krajinách Perzského zálivu, s vlastným arabským balením, špecifikáciami materiálov odolných voči teplu a záručnými podmienkami v súlade so šaríou.',
     solution:
       'Uzavreli sme exkluzívnu distribučnú zmluvu. Vyvinuli sme arabské balenie a marketingové materiály. Overili sme špecifikácie materiálov pri teplote okolia 50 °C. Prispôsobili sme záručné podmienky regionálnym predpisom.',
     result:
@@ -400,7 +400,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Technologická spoločnosť z rebríčka Fortune 500 chcela spustiť vodný wellness program pre zamestnancov na 4 globálnych areáloch pri jazerách, pričom potrebovala 60 SUP dosiek s firemnou značkou, riešenia na uskladnenie a školenie inštruktorov.',
     solution:
-      'Dodali sme flotilu stabilných univerzálnych SUP dosiek s grafikou paluby s firemným logom. Navrhli sme nepremokavé skladovacie stojany priamo na mieste. Certifikovali sme 12 interných inštruktorov prostredníctvom tréningového programu afarer.',
+      'Dodali sme flotilu stabilných univerzálnych SUP dosiek s grafikou paluby s firemným logom. Navrhli sme nepremokavé skladovacie stojany priamo na mieste. Certifikovali sme 12 interných inštruktorov prostredníctvom tréningového programu olagoon.',
     result:
       'Program bol spustený na 4 areáloch. Viac ako 2,400 účastí zamestnancov v prvom roku. 94% spokojnosť zamestnancov. Predstavené v správe spoločnosti o udržateľnosti.',
     outcomeMetrics: [

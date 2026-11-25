@@ -1,15 +1,15 @@
 // Quantify unambiguous legacy image families (deleted product lines: RIB/kayak/dinghy/boat)
 const fs = require('fs');
 const path = require('path');
-const IMG_DIR = 'E:/github/afarer/public/images/afarer';
+const IMG_DIR = 'E:/github/olagoon/public/images/olagoon';
 
 const LEGACY_PATTERNS = [
   /products[\\/]rib[\\/]/,
-  /afarer-kayak-river-category/,
-  /afarer-dinghy-category/,
-  /afarer-rib-boat-category/,
-  /afarer-inflatable-boat/,
-  /afarer-zb-mt350/,
+  /olagoon-kayak-river-category/,
+  /olagoon-dinghy-category/,
+  /olagoon-rib-boat-category/,
+  /olagoon-inflatable-boat/,
+  /olagoon-zb-mt350/,
 ];
 
 function walkFiles(dir, out) {

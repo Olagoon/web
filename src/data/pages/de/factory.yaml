@@ -1,6 +1,6 @@
 meta:
   title: 'Werk & Fertigung — aufblasbarer SUP-OEM | {SITE}'
-  description: 'Besichtigen Sie die afarer-Fabrik: 12.000-m²-Anlage mit Zuschnitt, HF-Schweißen, Druck, Montage und Qualitätslabor für OEM/ODM-Fertigung aufblasbarer SUPs.'
+  description: 'Besichtigen Sie die olagoon-Fabrik: 12.000-m²-Anlage mit Zuschnitt, HF-Schweißen, Druck, Montage und Qualitätslabor für OEM/ODM-Fertigung aufblasbarer SUPs.'
   keywords:
     - 'SUP-Fabrik China'
     - 'Fabrik für aufblasbare Paddleboards'
@@ -12,7 +12,7 @@ hero:
   subtitle: 12.000 m² integrierte Fertigung — vom Rohmaterial bis zum fertigen Board
 intro:
   - >-
-    Als Fabrikmarke der **Qingdao Vatrad Group Co., Ltd.** kontrolliert afarer jede Produktionsstufe — vom Eingang der rohen PVC- und Glasfasermaterialien bis zur endgültigen Vorversandinspektion des fertigen Boards. Unsere Fertigungsanlage in der Qingdao Economic Development Zone erstreckt sich über
+    Als Fabrikmarke der **Qingdao Vatrad Group Co., Ltd.** kontrolliert olagoon jede Produktionsstufe — vom Eingang der rohen PVC- und Glasfasermaterialien bis zur endgültigen Vorversandinspektion des fertigen Boards. Unsere Fertigungsanlage in der Qingdao Economic Development Zone erstreckt sich über
     12.000 Quadratmeter und beherbergt spezielle Werkstätten für PVC-Zuschnitt, Schlauchwärmeverbindung, GFK-Formenbau, SUP-Digitaldruck, Endmontage und Qualitätsprüfung.
   - >-
     Durch die Integration von Design, Technik, Prototyping, Fertigung und Prüfung unter einem Dach eliminieren wir die Ineffizienzen der Auftragsfertigung und behalten die direkte Kontrolle über Bauqualität, Materialauswahl und Liefertermine. Jedes Board, das unsere Werkstatt verlässt, wird von
@@ -68,22 +68,22 @@ workshops_section:
   workshops:
     - title: PVC-Zuschnitt & Materialvorbereitung
       description: Automatische CNC-Schneidemaschinen bearbeiten PVC und Drop-Stitch-Gewebe mit submillimetergenauer Präzision. Computeroptimierte Verschachtelung minimiert Materialabfall und stellt sicher, dass jede Platte vor dem Schweißen ihre Maßvorgaben erfüllt.
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: Schlauchschweißen & Heißsiegeln
       description: Spezielle Schweißwerkstatt mit Heißsiegelmaschinen und HF-Dielektrikumspressen. Heißluftschweißgeräte verbinden und verschmelzen PVC-Schlauchkammern, während HF-Schweißungen hochfeste luftdichte Nähte erzeugen, die die EN-ISO-25649-Anforderungen übertreffen.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: GFK-Formen & Verbundfertigung
       description: Kundenspezifische GFK-Formen für SUP-Komponenten, hergestellt im Handlaminier-Glasfaserverfahren mit Polyester- und Vinylesterharzsystemen. Jede Schicht wird von Hand gerollt und vakuumverpackt für gleichbleibende Qualität. Die Gelcoat-Spritzkabine sorgt für eine hochglänzende, UV-beständige Marineoberfläche.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
     - title: SUP-Druck & Dekoration
       description: SUP-Boards werden mit Digitaldruck für Vollfarbgrafiken und Siebdruck für Logos und sich wiederholende Muster dekoriert. Digitaldrucker produzieren fotorealistische Deckdesigns, während Siebdruck haltbare, lebendige Markenzeichen liefert.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: Endmontage & Rigging
       description: Montagelinie, in der Drop-Stitch-Kerne mit Rails fertiggestellt, EVA-Decks aufgebracht sowie Finnen, Ventile und Zubehör montiert werden. Jedes Board folgt einer 100-Punkte-Montagecheckliste, die vom Teamleiter abgezeichnet wird.
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: Qualitätsprüfung & Kontrolle
       description: Jedes fertige Board durchläuft vor dem Versand eine obligatorische Luftdichtheitsprüfung, Nahtschälprüfung und vollständige Systemkontrolle. Unser Qualitätslabor arbeitet unabhängig von der Produktion und berichtet direkt an das Management.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 equipment_section:
   tagline: Ausrüstung
   title: Wichtige Fertigungsausrüstung
@@ -136,7 +136,7 @@ faq_section:
   questions:
     - q: Wie hoch ist die Mindestbestellmenge (MOQ) für OEM-aufblasbare SUP-Boards?
       a: Die MOQ beginnt bei 5–10 Einheiten für Standard-OEM-Modelle. Kundenspezifische Formen und Private-Label-Projekte erfordern je nach Komplexität mindestens 200 Einheiten. Probebestellungen und Musterläufe sind für neue Marken erhältlich.
-    - q: Besitzt afarer eine BSCI-Zertifizierung?
+    - q: Besitzt olagoon eine BSCI-Zertifizierung?
       a: Ja. Unser Werk unterhält eine gültige BSCI-Social-Compliance-Zertifizierung (Prüfbericht auf Anfrage erhältlich). Wir besitzen auch ISO 9001 für Qualitätsmanagement und alle Produkte tragen die CE-Zertifizierung. REACH- und RoHS-Konformitätsdokumentation wird mit jeder OEM-Sendung bereitgestellt.
     - q: Wie ist die typische Lieferzeit für einen OEM-Auftrag?
       a: Die Standardlieferzeit beträgt 30–45 Tage ab bestätigter Bestellung und Anzahlung für die OEM-Serienproduktion. Für die Entwicklung kundenspezifischer Formen kommen 15–20 Tage für den Werkzeugbau hinzu. Für dringende Aufträge und saisonale Spitzen ist eine beschleunigte Produktion verfügbar. Prototypenmuster werden in der Regel innerhalb von 15–20 Tagen versendet.

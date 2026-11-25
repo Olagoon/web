@@ -8,8 +8,8 @@ hero:
   tagline: 'Laboratorij 06'
   title: 'Laboratorij za kakovost in inšpekcijo'
   subtitle: 'Neodvisno preverjanje — vsak preskus opravljen pred dobavo'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'Preskušanje odpornosti na UV v kakovostno-inšpekcijskem laboratoriju Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'Preskušanje odpornosti na UV v kakovostno-inšpekcijskem laboratoriju OLagoon'
 
 intro: 'Vsaka deska, ki zapusti našo delavnico, nosi potrdilo, da je opravila določen niz pregledov kakovosti in preskusov materialov. Naš laboratorij za kakovost in inšpekcijo je neodvisna funkcija v organizaciji — poroča neposredno direktorju podjetja in ne proizvodnji — s čimer je zagotovljeno, da noben komercialni pritisk ne more ogroziti inšpekcijskega preverjanja. Če serija materiala ali dokončana deska ne izpolnjuje objavljene specifikacije, ima laboratorij pooblastilo zaustaviti odpošiljanje, dokler se neskladnost ne odpravi.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Naša zaveza vam</h2>
-  <p>Ko prejmete desko Afarer, prejmete tudi njen kakovostni dosje — zbrani zapis rezultatov preskusov, ki veljajo za vašo konkretno desko. Certifikat serije tkanine, preskusi luščenja varov, dnevniki zračnih preskusov komor in kontrolni seznam pred dobavo. Vsaka številka je sledljiva. Vsak inšpektor je identificiran. To ni le birokracija — to je naša obljuba, da je bilo dobavljeno tisto, kar je bilo določeno v specifikaciji.</p>
+  <p>Ko prejmete desko OLagoon, prejmete tudi njen kakovostni dosje — zbrani zapis rezultatov preskusov, ki veljajo za vašo konkretno desko. Certifikat serije tkanine, preskusi luščenja varov, dnevniki zračnih preskusov komor in kontrolni seznam pred dobavo. Vsaka številka je sledljiva. Vsak inšpektor je identificiran. To ni le birokracija — to je naša obljuba, da je bilo dobavljeno tisto, kar je bilo določeno v specifikaciji.</p>
   <p>Če se kdaj pojavi dvom o kakovosti, se lahko obrnete neposredno na laboratorij — kontaktni podatki so natisnjeni na vašem potrdilu o skladnosti. Vsako vprašanje jemljemo resno in se zavezujemo do formalne preiskave v 48 urah.</p>
 
 cta:

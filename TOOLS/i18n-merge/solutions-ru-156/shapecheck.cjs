@@ -1,6 +1,6 @@
 ﻿const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 function shape(node, keyPath) {
   if (Array.isArray(node)) {

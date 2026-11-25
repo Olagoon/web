@@ -1,6 +1,6 @@
 meta:
-  title: Afarer Felfújható Paddleboardok | Menj távolabbra. Evezd erősebben.
-  description: Fedezd fel az Afarer felfújható paddleboardokat all-around evezéshez, túrázáshoz, jógához, horgászathoz és szabadtéri kalandokhoz. Találd meg a tökéletes SUP-ot és fedezz fel többet a vízen.
+  title: OLagoon Felfújható Paddleboardok | Menj távolabbra. Evezd erősebben.
+  description: Fedezd fel az OLagoon felfújható paddleboardokat all-around evezéshez, túrázáshoz, jógához, horgászathoz és szabadtéri kalandokhoz. Találd meg a tökéletes SUP-ot és fedezz fel többet a vízen.
   keywords:
     - felfújható paddleboard
     - felfújható sup
@@ -14,7 +14,7 @@ hero:
   tagline: Felfújható Paddleboardok
   title: Felfújható Paddleboardok Minden Kalandhoz
   slogan: Menj távolabbra. Evezd erősebben.
-  subtitle: Fedezd fel az evezés szabadságát az Afarerrel. Fedezz fel átgondolt felfújható SUP-okat nyugodt tavas napokhoz, tengerparti kalandokhoz, fitneszhez és minden máshoz.
+  subtitle: Fedezd fel az evezés szabadságát az OLagoonrel. Fedezz fel átgondolt felfújható SUP-okat nyugodt tavas napokhoz, tengerparti kalandokhoz, fitneszhez és minden máshoz.
   taglineSection: Bizalomra építve. Kiválóságra tervezve.
   actions:
     - variant: primary
@@ -24,16 +24,16 @@ hero:
     - text: SUP-ok Felfedezése
       href: /inflatable-sup/
       icon: tabler:waves
-    - text: Miért Afarer
-      href: /afarer-story/
+    - text: Miért OLagoon
+      href: /olagoon-story/
       icon: tabler:heart
   image:
     src: ~/assets/images/hero-image.webp
-    alt: Afarer felfújható paddleboardok suhannak a nyugodt vízen napkeltkor — minden kalandhoz
+    alt: OLagoon felfújható paddleboardok suhannak a nyugodt vízen napkeltkor — minden kalandhoz
 who_we_serve:
   tagline: Evezz Velünk
   title: Találd Meg a Saját Utad a Vízen
-  subtitle: Minden evezősnek más a kalandozásról alkotott képe. Fedezz fel egy Afarer SUP-ot, amely a te stílusodra lett tervezve.
+  subtitle: Minden evezősnek más a kalandozásról alkotott képe. Fedezz fel egy OLagoon SUP-ot, amely a te stílusodra lett tervezve.
   items:
     - title: Kezdők és Szabadidős Evezősök
       keywords: felfújható sup kezdőknek, all-around paddleboard, stabil sup

@@ -22,11 +22,11 @@
 // Output: _ops-data-48.cjs (23 ops = 19 block ops + 4 fr line ops). Delete output before re-running.
 const fs = require('fs');
 
-const REPO = 'E:/github/afarer';
+const REPO = 'E:/github/olagoon';
 const yaml = require(REPO + '/node_modules/js-yaml');
 const prettier = require(REPO + '/node_modules/prettier');
 
-const OPS_PATH = 'E:/github/afarer/TOOLS/i18n-merge/warning-cleanup/_ops-data-48.cjs';
+const OPS_PATH = 'E:/github/olagoon/TOOLS/i18n-merge/warning-cleanup/_ops-data-48.cjs';
 if (fs.existsSync(OPS_PATH) && !process.argv.includes('--force')) {
   throw new Error('_ops-data-48.cjs already exists — delete it first (generator runs on pre-patch state only)');
 }

@@ -1,6 +1,6 @@
 meta:
   title: 'Ärilahendused — SUP igale ettevõttele | {SITE}'
-  description: 'afarer ärilahendused: SUP-laevastikud kuurortidele, klubidele, rendile, jaotusele ja eramärkidele. Professionaalne merevarustuse tarnija B2B-sektorile.'
+  description: 'olagoon ärilahendused: SUP-laevastikud kuurortidele, klubidele, rendile, jaotusele ja eramärkidele. Professionaalne merevarustuse tarnija B2B-sektorile.'
   keywords:
     - 'supi ärilahendused'
     - 'täispuhutavate supilaudade tarnija'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Ärilahendused'
   title: 'SUP-lahendused<br />igale ettevõttele'
-  subtitle: 'Alates kuurortidest kuni jaemüügini, rendioperaatoritest kuni globaalsete jaotajateni — afarer pakub täielikke SUP-lahendusi, mis on kohandatud sinu ärimudelile.'
+  subtitle: 'Alates kuurortidest kuni jaemüügini, rendioperaatoritest kuni globaalsete jaotajateni — olagoon pakub täielikke SUP-lahendusi, mis on kohandatud sinu ärimudelile.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'afarer supilauad äri- ja professionaalseks kasutuseks'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'olagoon supilauad äri- ja professionaalseks kasutuseks'
 stats:
-  title: 'afarer ühe pilguga'
+  title: 'olagoon ühe pilguga'
   stats:
     - title: 'Aastaid kogemust'
       amount: 'Alates 2012'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Ehita oma kaubamärk'
-      description: 'Täielik OEM/ODM SUP-ide tootmine — disain, prototüübid, masstootmine ja logistika. Käivita oma kaubamärk koos afareriga.'
+      description: 'Täielik OEM/ODM SUP-ide tootmine — disain, prototüübid, masstootmine ja logistika. Käivita oma kaubamärk koos olagooniga.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

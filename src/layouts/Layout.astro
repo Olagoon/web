@@ -106,7 +106,7 @@ const mobileT = (key: string, fallback: string): string => mobileUi?.[key] || fa
           const m = p.get('utm_medium');
           const c = p.get('utm_campaign');
           if (s || m || c) {
-            sessionStorage.setItem('afarer_utm', JSON.stringify({ s: s || '', m: m || '', c: c || '', t: Date.now() }));
+            sessionStorage.setItem('olagoon_utm', JSON.stringify({ s: s || '', m: m || '', c: c || '', t: Date.now() }));
           }
         } catch {
           /* ignore */
@@ -115,7 +115,7 @@ const mobileT = (key: string, fallback: string): string => mobileUi?.[key] || fa
     </script>
     <link rel="preconnect" href="https://www.google-analytics.com" crossorigin />
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
-    <link rel="preconnect" href="https://assets.afarer.com" crossorigin />
+    <link rel="preconnect" href="https://assets.olagoon.com" crossorigin />
 
     {hreflangAlternates.map((a) => <link rel="alternate" hreflang={a.locale} href={hreflangUrl(a.target)} />)}
     {
@@ -128,7 +128,7 @@ const mobileT = (key: string, fallback: string): string => mobileUi?.[key] || fa
       type="Organization"
       data={{
         name: orgName,
-        alternateName: 'Afarer Water Adventure Equipment',
+        alternateName: 'OLagoon Water Adventure Equipment',
         url: seo.siteUrl,
         logo: orgLogo,
         description: SITE_SETTINGS.siteDescription,
@@ -151,11 +151,11 @@ const mobileT = (key: string, fallback: string): string => mobileUi?.[key] || fa
         },
         parentOrganization: {
           '@type': 'Organization',
-          name: 'Aquafarer LLC',
+          name: 'Olagoon LLC',
         },
         brand: {
           '@type': 'Brand',
-          name: 'Afarer',
+          name: 'OLagoon',
         },
         knowsAbout: [
           'Inflatable SUP board design and manufacturing',

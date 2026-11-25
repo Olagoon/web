@@ -1,9 +1,9 @@
-# afarer — Astro v6 Multilingual Platform
+# olagoon — Astro v6 Multilingual Platform
 
-Multilingual (22 languages) B2B water adventure equipment brand platform for **afarer** (SUPs & Accessories only), built on [Astro v6](https://astro.build) with pure static generation (`output:'static'`), deployed to **Cloudflare Pages + 4 Workers**.
+Multilingual (22 languages) B2B water adventure equipment brand platform for **olagoon** (SUPs & Accessories only), built on [Astro v6](https://astro.build) with pure static generation (`output:'static'`), deployed to **Cloudflare Pages + 4 Workers**.
 
 **Scale:** 8,788 pages across 22 languages, 0 build errors
-**Domains:** `afarer.com` (production), `assets.afarer.com` (R2 asset storage)
+**Domains:** `olagoon.com` (production), `assets.olagoon.com` (R2 asset storage)
 
 ---
 
@@ -12,7 +12,7 @@ Multilingual (22 languages) B2B water adventure equipment brand platform for **a
 ```bash
 # Prerequisites: Node.js >= 22.12.0, Yarn 4.16
 git clone <repo>
-cd afarer
+cd olagoon
 yarn install
 
 # Development
@@ -85,7 +85,7 @@ This section is the fastest path to a correct mental model of the whole site. Re
 ## 1. Architecture Overview
 
 ```
-Request → afarer.com/{lang}/{path}
+Request → olagoon.com/{lang}/{path}
               ↓
     ┌──────────────────────┐
     │Cloudflare CDN       │ → Brotli/gzip, HTTP/3, WAF
@@ -93,7 +93,7 @@ Request → afarer.com/{lang}/{path}
               ↓
     ┌──────────────────────┐
     │Routes:              │
-    │ afarer.com/* → Pages (static HTML via Cloudflare Pages)
+    │ olagoon.com/* → Pages (static HTML via Cloudflare Pages)
     │ /api/contact* → contact-worker
     │ /api/chat*, /ask* → ai-worker
     │ /api/admin/* → admin-worker
@@ -104,20 +104,20 @@ Request → afarer.com/{lang}/{path}
     ┌──────────────────────┐
     │Pages Functions      │ → _middleware.ts
     │ - Locale detection  │    (cookie → geo-ip → Accept-Language)
-    │ - R2 asset redirect │    (/images/* → assets.afarer.com)
+    │ - R2 asset redirect │    (/images/* → assets.olagoon.com)
     │ - Security headers  │
     └──────────────────────┘
               ↓
     ┌──────────────────────┐
     │R2 Buckets:          │
-    │ afarer-assets → Static images/files/PDFs
-    │ afarer-data → GEO data, rules (automation/ai workers)
+    │ olagoon-assets → Static images/files/PDFs
+    │ olagoon-data → GEO data, rules (automation/ai workers)
     └──────────────────────┘
 ```
 
 All pages are pre-rendered at build time (pure SSG, no SSR adapter). API Workers handle dynamic requests at the edge.
 
-All locale URLs use **path-based** format: `afarer.com/fr/products`, `afarer.com/de/guides`.
+All locale URLs use **path-based** format: `olagoon.com/fr/products`, `olagoon.com/de/guides`.
 
 ---
 
@@ -256,8 +256,8 @@ See `TECH.md §3` for full Worker implementation details (wrangler config, 3 MB 
 
 ## 4. Workers
 
-### 4.1 contact-worker (afarer-contact)
-- **Route:** `afarer.com/api/contact*`
+### 4.1 contact-worker (olagoon-contact)
+- **Route:** `olagoon.com/api/contact*`
 - **Methods:** `POST`
 - **Features:**
   - JSON body parsing (Contact widget) and FormData parsing (Newsletter widget) with validation (firstName, lastName, email, message, etc.)
@@ -266,8 +266,8 @@ See `TECH.md §3` for full Worker implementation details (wrangler config, 3 MB 
   - CORS headers
 - **Secrets:** `CONTACT_RESEND_API_KEY`, `CONTACT_EMAIL_TO`, `CONTACT_FROM_EMAIL`, `CONTACT_FROM_NAME`
 
-### 4.2 ai-worker (afarer-ai)
-- **Routes:** `afarer.com/api/chat*`, `/api/ask*`, `/api/search*`, `/api/embed*`, `/api/ai/*`
+### 4.2 ai-worker (olagoon-ai)
+- **Routes:** `olagoon.com/api/chat*`, `/api/ask*`, `/api/search*`, `/api/embed*`, `/api/ai/*`
 - **Bindings:** `AI` (Workers AI), `VECTORIZE` (ai-index), `DATA_BUCKET` (R2)
 - **Endpoints:**
   - `POST /api/chat` —Conversational chat with RAG (Vectorize + llama-3.2-3b-instruct)
@@ -277,8 +277,8 @@ See `TECH.md §3` for full Worker implementation details (wrangler config, 3 MB 
   - `GET /api/quota` —Usage status
   - `GET /api/sitemap` —AI sitemap (22 languages)
 
-### 4.3 admin-worker (afarer-admin)
-- **Routes:** `afarer.com/api/admin/*`, `/api/auth/*`
+### 4.3 admin-worker (olagoon-admin)
+- **Routes:** `olagoon.com/api/admin/*`, `/api/auth/*`
 - **Endpoints:**
   - `POST /api/auth/login` —JWT + HMAC cookie auth
   - `GET /api/auth/logout` —Logout
@@ -292,8 +292,8 @@ See `TECH.md §3` for full Worker implementation details (wrangler config, 3 MB 
 - **Secrets:** `SESSION_SECRET`, `GITHUB_TOKEN`, `ADMIN_PASSWORD_HASH`
 - **Vars:** `ADMIN_USERNAME`, `GITHUB_OWNER`, `GITHUB_REPO`
 
-### 4.4 automation-worker (afarer-automation)
-- **Route:** `afarer.com/api/automation/*`
+### 4.4 automation-worker (olagoon-automation)
+- **Route:** `olagoon.com/api/automation/*`
 - **Cron:** Daily `0 2 * * *`
 - **Binding:** `DATA_BUCKET` (R2)
 - **Endpoints:**
@@ -329,7 +329,7 @@ Two layers of locale detection:
    - Excludes: `/api`, `/keystatic`, `/admin`, `/login`, `/internal`, file extensions
 
 ### 5.2 R2 Asset Redirect
-`functions/_middleware.ts` redirects `/images/*` and `/files/*` to `https://assets.afarer.com/{path}` (301)
+`functions/_middleware.ts` redirects `/images/*` and `/files/*` to `https://assets.olagoon.com/{path}` (301)
 
 ### 5.3 Supported Languages (22)
 `en`, `zh`, `fr`, `de`, `es`, `pt`, `ar` (RTL), `it`, `ja`, `ko`, `ru`, `pl`, `nl`, `sv`, `no`, `el`, `tr`, `fi`, `cs`, `da`, `ro`, `th`
@@ -367,11 +367,11 @@ See `TECH.md §2.2` for the full CI/CD pipeline. Trigger: push to `main`. Requir
 
 Images, photos, PDFs, and other static files must be uploaded to R2, **not committed to the repo**.
 
-- **Bucket:** `afarer-assets` (served via `assets.afarer.com`)
+- **Bucket:** `olagoon-assets` (served via `assets.olagoon.com`)
 - **Upload command:** `npm run deploy:r2` (runs `scripts/fast-upload-r2.mjs`)
 - **Source dir:** `public/images/` and `public/files/` are uploaded to R2
 - **Repo:** Only keep source assets in `public/` for build-time processing; large media files go directly to R2
-- **URL pattern:** `https://assets.afarer.com/images/afarer/products/{slug}.webp`
+- **URL pattern:** `https://assets.olagoon.com/images/olagoon/products/{slug}.webp`
 
 ---
 
@@ -387,7 +387,7 @@ Images, photos, PDFs, and other static files must be uploaded to R2, **not commi
 
 ### 7.2 GEO Data Pipeline (R2)
 ```
-afarer-data/
+olagoon-data/
 ├── geo/
 │  ├── entity.json             # Organization entity
 │  ├── knowledge-base.json     # Brand/factory/certification facts
@@ -493,7 +493,7 @@ Keystatic CMS provides a form-based navigation editor at `/keystatic/navigation`
 | Feature | Status |
 |---------|--------|
 | Endpoint | `POST /api/contact` → contact-worker (JSON from Contact widget, FormData from Newsletter widget) |
-| Email | Resend API (to `info@afarer.com`, from `web@mail.afarer.com`) |
+| Email | Resend API (to `info@olagoon.com`, from `web@mail.olagoon.com`) |
 | Fields | firstName, lastName, email, message, companyName, address, tel, subject, country, zip |
 | Validation | Required fields, email regex, spam keyword filter |
 | Captcha | Not implemented (no HMAC captcha cookie) |
@@ -546,8 +546,8 @@ AI-facing data (llms.txt, llms-full.txt, search index, GEO content) is auto-gene
 ### R2 Buckets
 | Bucket | Binding | Purpose |
 |--------|---------|---------|
-| `afarer-assets` | `ASSETS_R2` | Static images, files, PDFs (served via `assets.afarer.com`) |
-| `afarer-data` | `DATA_BUCKET` | SEO/GEO data, search index, rules, scores, GEO content |
+| `olagoon-assets` | `ASSETS_R2` | Static images, files, PDFs (served via `assets.olagoon.com`) |
+| `olagoon-data` | `DATA_BUCKET` | SEO/GEO data, search index, rules, scores, GEO content |
 
 Worker data is loaded at runtime from `DATA_BUCKET` —no JSON is bundled into Worker deployments (keeps Workers under 3 MB).
 
@@ -559,7 +559,7 @@ Worker data is loaded at runtime from `DATA_BUCKET` —no JSON is bundled into W
 - **Zero cold start for static routes:** No SSR Worker —every page is served as static HTML
 - **4 Workers with specific routes:** Only API requests trigger Worker execution
 - **R2 data offload:** SEO/GEO data loaded at runtime from R2 (no bundled JSON in Workers) —keeps Workers under 3 MB
-- **R2 asset offload:** Images served from `assets.afarer.com` (separate subdomain, no cookie overhead)
+- **R2 asset offload:** Images served from `assets.olagoon.com` (separate subdomain, no cookie overhead)
 - **Remote image handling:** `adaptOpenGraphImages()` in `src/utils/images.ts` bypasses `getImage()` for remote URLs, avoiding Sharp fetch errors on CDN 404s
 - **Pages Functions middleware:** Minimal overhead (locale detection + redirect logic)
 - **Idempotent GEO generation:** `llms-full.txt` is rebuilt from scratch each build —no duplicate accumulation

@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Resort & Hotel'
   title: 'Jadikan Tepi Air Anda Pusat Hasil<br />Dengan Armada SUP Premium'
-  subtitle: 'Afarer melengkapi resort di seluruh dunia dengan armada SUP boleh tiup gred komersial — daripada pakej permulaan 20 papan hingga program utama 100+ papan. Penjenamaan tersuai, latihan staf, dan alat ganti disertakan.'
+  subtitle: 'OLagoon melengkapi resort di seluruh dunia dengan armada SUP boleh tiup gred komersial — daripada pakej permulaan 20 papan hingga program utama 100+ papan. Penjenamaan tersuai, latihan staf, dan alat ganti disertakan.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Tetamu resort menikmati papan SUP di pantai yang bersih'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Pulihkan pelaburan armada penuh dalam satu musim'
     - metric: '40%'
       label: 'Peningkatan Hasil'
-      detail: 'Peningkatan purata selepas beralih kepada armada Afarer'
+      detail: 'Peningkatan purata selepas beralih kepada armada OLagoon'
     - metric: '500+'
       label: 'Kitaran Sewaan Setiap Papan'
       detail: 'Ketahanan gred komersial untuk penggunaan harian'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Dapatkan Pakej Utama'
 
 case_study:
-  quote: 'Sejak beralih kepada Afarer, hasil sewaan SUP kami meningkat 40%. Kos penggantian papan menurun 60%. Kami memulihkan pelaburan armada penuh dalam masa 4 bulan.'
+  quote: 'Sejak beralih kepada OLagoon, hasil sewaan SUP kami meningkat 40%. Kos penggantian papan menurun 60%. Kami memulihkan pelaburan armada penuh dalam masa 4 bulan.'
   author: 'Pengurus Aktiviti Air'
   location: 'resort 5 bintang, Maldives'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 Bulan'
 
 features:
-  title: 'Mengapa Resort Memilih Afarer'
+  title: 'Mengapa Resort Memilih OLagoon'
   subtitle: 'Ketahanan gred komersial, logistik global, dan rakan kongsi yang memahami industri perhotelan.'
   items:
     - title: '500+ Kitaran Sewaan'

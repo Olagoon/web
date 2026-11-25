@@ -1,6 +1,6 @@
 meta:
   title: 'Solusi Bisnis — SUP untuk Setiap Bisnis | {SITE}'
-  description: 'Solusi bisnis afarer: armada SUP untuk resor, klub, rental, distribusi, dan private label. Pemasok peralatan bahari profesional untuk B2B.'
+  description: 'Solusi bisnis olagoon: armada SUP untuk resor, klub, rental, distribusi, dan private label. Pemasok peralatan bahari profesional untuk B2B.'
   keywords:
     - 'solusi bisnis sup'
     - 'pemasok papan dayung tiup'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Solusi Bisnis'
   title: 'Solusi SUP<br />Untuk Setiap Bisnis'
-  subtitle: 'Dari resor hingga ritel, operator rental hingga distributor global — Afarer menyediakan solusi SUP lengkap yang disesuaikan dengan model bisnis Anda.'
+  subtitle: 'Dari resor hingga ritel, operator rental hingga distributor global — OLagoon menyediakan solusi SUP lengkap yang disesuaikan dengan model bisnis Anda.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Papan SUP Afarer untuk aplikasi bisnis dan profesional'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Papan SUP OLagoon untuk aplikasi bisnis dan profesional'
 stats:
-  title: 'Sekilas tentang Afarer'
+  title: 'Sekilas tentang OLagoon'
   stats:
     - title: 'Tahun Pengalaman'
       amount: 'Sejak 2012'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Bangun Merek Anda Sendiri'
-      description: 'Manufaktur SUP OEM/ODM menyeluruh — desain, prototyping, produksi massal, dan logistik. Luncurkan merek Anda bersama Afarer.'
+      description: 'Manufaktur SUP OEM/ODM menyeluruh — desain, prototyping, produksi massal, dan logistik. Luncurkan merek Anda bersama OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

@@ -8,7 +8,7 @@ hero:
   subtitle: 'ממוקדים בהתקדמות'
 
 intro:
-  - 'מרכז המחקר והפיתוח (מו״פ) של afarer הוא הכוח המניע מאחורי המשימה שלנו לחולל מהפכה בציוד ספורט המים. אנו מעצימים חובבי ספורט מים ברחבי העולם במוצרים בטוחים, נוחים ומהנים יותר באמצעות חדשנות בלתי מתפשרת בגלשני פאדל מתנפחים בעמידה (SUP). הצוות המסור שלנו — מהנדסים, מעצבים ומומחי ספורט מים נלהבים — מעצב את עתיד הענף ומציב בעקביות רף גבוה יותר לאיכות, לביצועים ולקיימות.'
+  - 'מרכז המחקר והפיתוח (מו״פ) של olagoon הוא הכוח המניע מאחורי המשימה שלנו לחולל מהפכה בציוד ספורט המים. אנו מעצימים חובבי ספורט מים ברחבי העולם במוצרים בטוחים, נוחים ומהנים יותר באמצעות חדשנות בלתי מתפשרת בגלשני פאדל מתנפחים בעמידה (SUP). הצוות המסור שלנו — מהנדסים, מעצבים ומומחי ספורט מים נלהבים — מעצב את עתיד הענף ומציב בעקביות רף גבוה יותר לאיכות, לביצועים ולקיימות.'
   - 'מתקן המו״פ שלנו מאחד תחת קורת גג אחת מדעני חומרים, מהנדסי ימייה ומהנדסי ייצור. מניסוח בדים וסימולציית גוף שיט ועד פיתוח תהליכי ריתוך והפלגות ניסוי בקנה מידה מלא בים — כל שלב בפיתוח המוצר מונע על ידי נתונים ומאומת בבדיקות.'
 
 mission:
@@ -98,33 +98,33 @@ rd_services:
 vision:
   tagline: 'החזון שלנו'
   title: 'מעצבים את עתיד ספורט המים'
-  body: 'afarer שואף להוביל את ענף ה-SUP המתנפח באמצעות חדשנות מתמדת, איכות בלתי מתפשרת ומחויבות איתנה לבטיחות ולקיימות — ובסופו של דבר להעשיר את חוויותיהם של חובבי ספורט המים ברחבי העולם. מרכז המו״פ של afarer הוא המקום שבו תשוקה פוגשת חדשנות, הקובע סטנדרטים חדשים לענף ספורט המים.'
+  body: 'olagoon שואף להוביל את ענף ה-SUP המתנפח באמצעות חדשנות מתמדת, איכות בלתי מתפשרת ומחויבות איתנה לבטיחות ולקיימות — ובסופו של דבר להעשיר את חוויותיהם של חובבי ספורט המים ברחבי העולם. מרכז המו״פ של olagoon הוא המקום שבו תשוקה פוגשת חדשנות, הקובע סטנדרטים חדשים לענף ספורט המים.'
 
 labs_section:
   tagline: 'מעבדות'
   title: 'המעבדות שלנו'
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: 'מעבדת בדי PVC'
       description: 'מחקר ובדיקות מתמשכים של בדי סיפון PVC לחוזק מתיחה, עמידות ל-UV, שחיקה וגמישות בטמפרטורות נמוכות, כדי להבטיח אמינות ארוכת טווח בסביבות ימיות.'
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'סטודיו הנדסת גוף שיט'
       description: 'עיצוב מונע CAD וניתוח אלמנטים סופיים של גופי HDPE, אלומיניום ופיברגלס. כל גוף שיט עובר סימולציה דיגיטלית להתפלגות מאמצים ולעמידות בפגיעות לפני בניית אב-הטיפוס הראשון.'
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'מרכז הריתוך RF'
       description: 'מתקן ריתוך בתדר רדיו ייעודי עם בקרת טמפרטורה ולחץ מדויקת, המייצר תפרים חזקים ואטומים העומדים בסטנדרטים של ענף הימייה לכלי שיט מתנפחים.'
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'בריכת הבדיקות ההידרודינמית'
       description: 'בדיקות דגמים בקנה מידה בבריכת הבדיקות הפנימית שלנו למיטוב צורת גוף השיט, ביצועי הגלישה, היציבות ויעילות הדלק במגוון תנאי עומס וים.'
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'סדנת אבות-טיפוס'
       description: 'מתקן לבניית אבות-טיפוס ולציוד בקנה מידה מלא, שבו דגמים חדשים נבנים, מצוידים ונבדקים בים. כל אב-טיפוס עובר תוכנית בדיקות במים של 20 שעות לפחות לפני אישור ייצור.'
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: 'מעבדת איכות ופיקוח'
       description: 'מעבדת הבטחת איכות ייעודית המבצעת בדיקות מתיחה, מחזורי שמירת אוויר, בדיקות קילוף תפרים והסמכת חומרים, כדי להבטיח שכל לוח היוצא מהסדנה עומד במפרטים המפורסמים שלנו.'
       href: /randdcenter/quality-inspection-lab/

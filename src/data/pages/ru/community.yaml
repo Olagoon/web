@@ -1,6 +1,6 @@
 meta:
   title: 'Сообщество — приключения SUP и гребной спорт | {SITE}'
-  description: 'Сообщество afarera: paddle-клубы, события SUP, морские приключения и истории энтузиастов надувных досок для гребли стоя.'
+  description: 'Сообщество olagoona: paddle-клубы, события SUP, морские приключения и истории энтузиастов надувных досок для гребли стоя.'
   keywords:
     - 'paddle-сообщество'
     - 'клуб SUP'
@@ -8,63 +8,63 @@ meta:
     - 'приключения SUP'
 hero:
   tagline: Сообщество
-  title: Сообщество afarer
+  title: Сообщество olagoon
   subtitle: |
     Реальные люди, настоящая вода, настоящие приключения. От гребцов выходного дня до<br />
     профессиональных операторов — узнайте, как наше сообщество исследует мир на воде.
-  image: https://assets.afarer.com/images/afarer/team/afarer-paddle-girls-team.webp
+  image: https://assets.olagoon.com/images/olagoon/team/olagoon-paddle-girls-team.webp
   imageAlt: сообщество дальних путешественников, гребущее по спокойным водам
 stats:
   title: Сообщество в цифрах
   stats:
     - title: '40+'
-      description: Стран с клиентами afarer
+      description: Стран с клиентами olagoon
     - title: '12+'
       description: Лет приключений сообщества
     - title: 10 000+
       description: Счастливых гребцов по всему миру
     - title: 98%
-      description: Рекомендуют afarer
+      description: Рекомендуют olagoon
 stories:
   tagline: Истории исследователей
   title: Реальные приключения реальных людей
-  subtitle: Узнайте от гребцов, семей и профессионалов, использующих снаряжение afarer на воде.
+  subtitle: Узнайте от гребцов, семей и профессионалов, использующих снаряжение olagoon на воде.
   items:
     - name: Сара и Майк
       title: Владельцы SUP Explorer 11, Канада
       content: Мы взяли наши Explorer 11 в недельное путешествие по парку Алгонкин. Они отлично справились с волоками и пересечением озер. Конструкция drop-stitch позволила накачать до 15 PSI и получить производительность жесткой доски из упаковываемой доски.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
       location: Парк Алгонкин, Канада
     - name: Карлос Р.
       title: Райдер Cheetah Surge, Испания
       content: Cheetah Surge — моя основная доска для прибрежных прогулок. Яркий дизайн привлекает внимание на пляже, а устойчивость дает уверенность в легкую волну. Она прекрасно ведет себя как в турах, так и на закате.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
       location: Коста-Брава, Испания
     - name: Лина и семья
       title: Гребцы Flowing Lotus, Швеция
       content: Семейные приключения по выходным на архипелаге. Flowing Lotus достаточно стабильна, чтобы моя дочь могла стоять, пока я гребу. Надувается менее чем за 10 минут — никакого прицепа, только чистое семейное веселье на воде.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-flowing-lotus-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
       location: Стокгольмский архипелаг, Швеция
     - name: Капитан-лейтенант Андрес
       title: Исследователь Ocean Voyager, Филиппины
       content: Я использую свой Ocean Voyager для дальних прибрежных туров вокруг Палавана. После месяцев ежедневного использования в тропических условиях доска все еще работает как новая. Туринговая форма рассекает волны, которые остановили бы доски послабее.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       location: Палаван, Филиппины
     - name: Эмма Т.
       title: Новичок Tropical Breeze, Австралия
       content: Я никогда раньше не стояла на SUP. Tropical Breeze настолько стабильна, что я почувствовала уверенность с первой попытки. Теперь гребу каждые выходные. Кривая обучения практически нулевая — и доска выглядит потрясающе на воде.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
       location: Золотой Берег, Австралия
 adventures_cta:
   tagline: Поделитесь своим приключением
   title: Ваша история может быть здесь
-  subtitle: 'Отмечайте @afarer_watersports в Instagram или используйте #afarerAdventure для шанса быть опубликованным.'
+  subtitle: 'Отмечайте @olagoon_watersports в Instagram или используйте #olagoonAdventure для шанса быть опубликованным.'
   instagram: Подписаться в Instagram
   youtube: Подписаться на YouTube
   facebook: Присоединиться в Facebook
 locations:
   tagline: Глобальное сообщество
-  title: Где путешествует afarer
+  title: Где путешествует olagoon
   subtitle: От европейских озер до побережий Юго-Восточной Азии — наше сообщество гребет повсюду.
   regions:
     - title: Европа
@@ -77,7 +77,7 @@ locations:
       description: Побережье Красного моря · Озеро Виктория · Капский полуостров · Галилейское море
 cta:
   title: Готовы присоединиться к сообществу?
-  subtitle: Каждый продукт afarer сертифицирован CE, обеспечен гарантией и создан для настоящих приключений. Найдите свой сегодня.
+  subtitle: Каждый продукт olagoon сертифицирован CE, обеспечен гарантией и создан для настоящих приключений. Найдите свой сегодня.
   actions:
     - variant: primary
       text: Посмотреть продукты

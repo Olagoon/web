@@ -1,6 +1,6 @@
 site:
-  name: Afarer
-  site: 'https://afarer.com'
+  name: OLagoon
+  site: 'https://olagoon.com'
   base: '/'
   trailingSlash: true
 
@@ -9,11 +9,11 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: Afarer | Premium Inflatable SUP Boards & Water Sports
-    template: '%s — Afarer'
-  description: 'Discover Afarer premium inflatable SUP boards designed for adventure, touring and family paddling — a global water sports brand with exclusive country partnerships, limited co-branded collections, and certified quality.'
+    default: OLagoon | Premium Inflatable SUP Boards & Water Sports
+    template: '%s — OLagoon'
+  description: 'Discover OLagoon premium inflatable SUP boards designed for adventure, touring and family paddling — a global water sports brand with exclusive country partnerships, limited co-branded collections, and certified quality.'
   keywords:
-    - Afarer
+    - OLagoon
     - SUP brand
     - water adventure equipment
     - water sports brand
@@ -22,12 +22,12 @@ metadata:
     - drop stitch SUP
     - commercial SUP
     - CE certified watercraft
-  author: Afarer
+  author: OLagoon
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: Afarer
+    site_name: OLagoon
     images:
       - url: '~/assets/images/default.webp'
         width: 1200
@@ -35,8 +35,8 @@ metadata:
     type: website
     locale: en_US
   twitter:
-    handle: '@afarer'
-    site: '@afarer'
+$1''
+$1''
     cardType: summary_large_image
 
 i18n:
@@ -100,30 +100,24 @@ analytics:
       id: null
 
 siteSettings:
-  siteName: Afarer
+  siteName: OLagoon
   siteTagline: 'Water Adventure Equipment Brand — Inflatable SUP, Boats & Marine Gear'
-  siteDescription: 'Afarer is a global water adventure equipment brand designing reliable inflatable SUPs, boats, and marine safety gear. CE-certified and trusted by beginners, families, explorers and professionals in 40+ countries since 2012.'
+  siteDescription: 'OLagoon is a global water adventure equipment brand designing reliable inflatable SUPs, boats, and marine safety gear. CE-certified and trusted by beginners, families, explorers and professionals in 40+ countries since 2012.'
   organization:
-    name: Afarer
+    name: OLagoon
     logo: '/android-chrome-512x512.png'
-    contactEmail: info@afarer.com
+    contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
   socialLinks:
     - platform: linkedin
-      url: 'https://www.linkedin.com/company/afarer'
+      url: 'https://www.linkedin.com/company/olagoon'
       icon: tabler:brand-linkedin
     - platform: youtube
-      url: 'https://www.youtube.com/@Afarer'
+      url: 'https://www.youtube.com/@TheOlagoon'
       icon: tabler:brand-youtube
-    - platform: x
-      url: 'https://x.com/afarer'
-      icon: tabler:brand-x
-    - platform: instagram
-      url: 'https://www.instagram.com/afarer'
-      icon: tabler:brand-instagram
     - platform: facebook
-      url: 'https://www.facebook.com/afarer'
+      url: 'https://www.facebook.com/TheOlagoon'
       icon: tabler:brand-facebook
     - platform: rss
       url: /rss.xml
@@ -132,19 +126,19 @@ ui:
   theme: 'system'
 
 branding:
-  site_name: 'Afarer'
+  site_name: 'OLagoon'
   logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'Afarer_Logo'
-  copyright: '© {year} {site_name}. Operated by Aquafarer LLC. All Rights Reserved.'
+  logo_alt: 'OLagoon_Logo'
+  copyright: '© {year} {site_name}. Operated by Olagoon LLC. All Rights Reserved.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
-  email: info@afarer.com
+  email: info@olagoon.com
   whatsapp_number: '+12135577888'
   whatsapp_default_message: 'Hello, I would like to inquire about a product.'
-  contact_email_to: info@afarer.com
+  contact_email_to: info@olagoon.com
   # API keys moved to /keystatic (API Keys panel) or Cloudflare Worker secrets
   # Run: wrangler secret put CONTACT_RESEND_API_KEY
-  contact_from_email: web@afarer.com
-  contact_from_name: Afarer
+  contact_from_email: web@olagoon.com
+  contact_from_name: OLagoon
   map_latitude: '36.8861'
   map_longitude: '120.5261'

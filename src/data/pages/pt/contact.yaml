@@ -1,8 +1,8 @@
 meta:
   title: 'Contato — Consultas de Parceria e Produtos | {SITE}'
-  description: 'Contate a afarer para consultas de parceria, co-brand e marca própria, ou frotas profissionais. Marca de SUP inflável, respondemos em 2 dias úteis.'
+  description: 'Contate a olagoon para consultas de parceria, co-brand e marca própria, ou frotas profissionais. Marca de SUP inflável, respondemos em 2 dias úteis.'
   keywords:
-    - 'contatar a afarer'
+    - 'contatar a olagoon'
     - 'orçamento distribuidor de SUP'
     - 'fornecedor profissional de SUP'
     - 'contatar fabricante de SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Envie-nos uma mensagem
   subtitle: Para orçamentos, questões técnicas ou propostas de parceria, escreva-nos. Respondemos num dia útil.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Enviar solicitação → Obter cotação
   success_message: Obrigado! A sua mensagem chegou à nossa caixa de entrada. Responderemos num dia útil.
   error_message: Ocorreu um erro ao enviar a sua mensagem. Tente novamente ou envie-nos um e-mail diretamente.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: '+1 279 732 3333'
       icon: tabler:headset
     - title: E-mail
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Sede
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

@@ -1,6 +1,6 @@
 meta:
   title: 'Confianza — Calidad, Normas y Reputación | {SITE}'
-  description: 'Por qué confiar en afarer: certificaciones CE e ISO, fábrica integrada, referencias globales y garantía. Un fabricante profesional de SUP inflables.'
+  description: 'Por qué confiar en olagoon: certificaciones CE e ISO, fábrica integrada, referencias globales y garantía. Un fabricante profesional de SUP inflables.'
   keywords:
     - 'fabricante de SUP de confianza'
     - 'fábrica de paddle surf certificada'
@@ -8,15 +8,15 @@ meta:
     - 'fábrica de SUP certificada'
 hero:
   tagline: Construido según estándares que importan
-  title: Confía en afarer
+  title: Confía en olagoon
   subtitle: |
     Cada producto que construimos está certificado CE — probado para seguridad,<br />
     durabilidad y rendimiento. Sin atajos. Sin excepciones.
   taglineSection: Certificado. Probado. Comprobado.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: Producto afarer sometido a pruebas de calidad
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: Producto olagoon sometido a pruebas de calidad
 stats:
-  title: afarer en cifras
+  title: olagoon en cifras
   stats:
     - title: Certificado CE
       description: Todos los productos recreativos cumplen con las normas de seguridad de la UE
@@ -25,7 +25,7 @@ stats:
     - title: BSCI y REACH
       description: Fabricación ética y cumplimiento de materiales
     - title: Garantía de 3 años
-      description: En cada producto afarer — sin preguntas
+      description: En cada producto olagoon — sin preguntas
 features3_certifications:
   title: Certificaciones y Cumplimiento
   subtitle: Cada producto es probado independientemente y certificado según estándares internacionales.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: Certificación CE
-      description: Todos los SUP de afarer cumplen con el estándar europeo de seguridad CE para uso recreativo. Cada producto se somete a pruebas de presión, flotabilidad y carga antes de salir de la fábrica.
+      description: Todos los SUP de olagoon cumplen con el estándar europeo de seguridad CE para uso recreativo. Cada producto se somete a pruebas de presión, flotabilidad y carga antes de salir de la fábrica.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Nuestra instalación de 12,000 m² en Qingdao opera bajo un sistema de gestión de calidad ISO 9001:2015. Cada lote de producción es trazable, documentado e inspeccionado.
@@ -48,20 +48,20 @@ features3_certifications:
       description: El laboratorio interno de materiales prueba resistencia a la tracción, resistencia UV, integridad de costuras y abrasión para cada lote de tela antes de la producción.
       icon: tabler:microscope
     - title: Garantía de 3 años
-      description: Cada producto afarer viene con una garantía de tres años contra defectos de fabricación. Respadamos lo que construimos.
+      description: Cada producto olagoon viene con una garantía de tres años contra defectos de fabricación. Respadamos lo que construimos.
       icon: tabler:shield-check
 testimonials:
   tagline: Confianza del Cliente
   title: Lo que dicen nuestros clientes
-  subtitle: Desde remeros principiantes hasta operadores de flotas profesionales — mira por qué confían en afarer.
+  subtitle: Desde remeros principiantes hasta operadores de flotas profesionales — mira por qué confían en olagoon.
   items:
-    - content: Equipamos toda nuestra flota de alquiler con SUP de afarer. Dos temporadas después, cero fallos. La certificación CE hizo que la aprobación del seguro fuera sin problemas.
+    - content: Equipamos toda nuestra flota de alquiler con SUP de olagoon. Dos temporadas después, cero fallos. La certificación CE hizo que la aprobación del seguro fuera sin problemas.
       name: Marco V.
       title: Operador turístico, Croacia
     - content: Como comprador por primera vez, estaba nervioso por la calidad. La documentación ISO y los informes de prueba que compartieron me dieron total confianza.
       name: James T.
       title: Propietario de SUP Explorer 11, Canadá
-    - content: Trabajamos con afarer para nuestras unidades de patrulla costera. Su proceso de QC es consistente en cada lote — esa confiabilidad importa en operaciones críticas.
+    - content: Trabajamos con olagoon para nuestras unidades de patrulla costera. Su proceso de QC es consistente en cada lote — esa confiabilidad importa en operaciones críticas.
       name: Lt. Cmdr. Andres
       title: Adquisiciones gubernamentales, Filipinas
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Respaldamos cada producto con términos de garantía claros, un procesamiento rápido de reclamaciones y piezas de repuesto genuinas.
   items:
     - title: Garantía del producto de 3 años
-      desc: 'Todos los productos de afarer tienen una garantía de 3 años contra defectos de fabricación: fallos en las costuras, defectos en las válvulas y deslaminación del material bajo uso normal.'
+      desc: 'Todos los productos de olagoon tienen una garantía de 3 años contra defectos de fabricación: fallos en las costuras, defectos en las válvulas y deslaminación del material bajo uso normal.'
     - title: Soporte de piezas de por vida
       desc: Piezas de repuesto genuinas — válvulas, kits de reparación, aletas, anillos en D — disponibles para todos los modelos. Mantenemos moldes y herramientas durante un mínimo de 5 años después del fin de la producción.
     - title: Respuesta de Reclamo en 48 Horas
@@ -149,25 +149,25 @@ faqs_sup:
     - title: ¿Ofrecen paquetes completos de SUP?
       description: Sí. Cada tabla SUP se envía con un paquete completo que incluye un remo de aluminio de 3 piezas, bomba manual de alta presión, correa espiral, mochila de viaje y kit de reparación. Algunos modelos también incluyen un juego de aletas desmontables.
     - title: ¿Cuál es la garantía de las tablas SUP?
-      description: Todas las tablas SUP afarer tienen una garantía de tres años contra defectos de fabricación, incluyendo fallo de costuras, defectos de válvulas y delaminación de material bajo uso normal.
+      description: Todas las tablas SUP olagoon tienen una garantía de tres años contra defectos de fabricación, incluyendo fallo de costuras, defectos de válvulas y delaminación de material bajo uso normal.
     - title: ¿Cuánto tiempo se tarda en inflar una tabla SUP?
-      description: Usando la bomba manual incluida, la inflación completa a 15 PSI toma aproximadamente 8-12 minutos. Para inflación más rápida, recomendamos nuestra bomba eléctrica afarer 12V, que infla una tabla en menos de 4 minutos.
+      description: Usando la bomba manual incluida, la inflación completa a 15 PSI toma aproximadamente 8-12 minutos. Para inflación más rápida, recomendamos nuestra bomba eléctrica olagoon 12V, que infla una tabla en menos de 4 minutos.
 faqs_materials:
   title: Material de SUP y Preguntas Frecuentes sobre su Cuidado
   subtitle: Preguntas comunes sobre nuestros materiales de SUP inflables, cuidado y almacenamiento.
   columns: 2
   items:
-    - title: ¿Qué materiales se utilizan en los SUPs inflables de afarer?
+    - title: ¿Qué materiales se utilizan en los SUPs inflables de olagoon?
       description: Usamos PVC de grado militar (1100 deniers) con construcción estabilizada contra rayos UV y resistente a la abrasión, cumple con las normativas REACH y RoHS de la UE.
     - title: ¿Cuánto duran los SUP inflables?
       description: Con el cuidado adecuado, un SUP inflable de PVC de calidad dura de 5 a 10 años. La limpieza regular, la protección contra los rayos UV y el almacenamiento adecuado prolongan significativamente la vida útil.
     - title: ¿Qué mantenimiento requiere un SUP inflable?
       description: El mantenimiento básico incluye enjuagar con agua dulce después de cada uso (especialmente en agua salada), secar antes de guardar, revisar las juntas de las válvulas anualmente y evitar la exposición prolongada al sol cuando no se esté usando.
     - title: ¿Se pueden usar los SUP inflables en agua salada?
-      description: Sí. Todos los SUPs inflables de Afarer están diseñados para su uso tanto en agua dulce como en agua salada. Recomendamos enjuagarlos con agua dulce y secarlos completamente después de su exposición al agua salada.
+      description: Sí. Todos los SUPs inflables de OLagoon están diseñados para su uso tanto en agua dulce como en agua salada. Recomendamos enjuagarlos con agua dulce y secarlos completamente después de su exposición al agua salada.
     - title: ¿Cómo guardo un SUP inflable?
       description: Desinfle, limpie y seque la tabla completamente antes de almacenarla. Enróllela sueltamente (evite pliegues apretados), guárdela en un lugar fresco y seco, alejado de la luz solar directa, y manténgala alejada de los suelos de concreto para evitar la absorción de humedad.
-    - title: ¿Cuál es la capacidad de peso de los SUP inflables de Afarer?
+    - title: ¿Cuál es la capacidad de peso de los SUP inflables de OLagoon?
       description: Las capacidades de peso varían desde 100 kg para nuestros modelos más pequeños hasta más de 200 kg para tablas más grandes. Cada página de producto indica la capacidad máxima de carga de su modelo específico.
 cta:
   title: ¿Quieres ver las certificaciones tú mismo?

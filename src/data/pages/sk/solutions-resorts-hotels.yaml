@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Rezorty a hotely'
   title: 'Premieňajte svoje pobrežie na zdroj príjmov<br />s prémiovými flotilami SUP'
-  subtitle: 'Afarer vybavuje rezorty po celom svete komerčnými nafukovacími flotilami SUP — od startovacích balíkov s 20 doskami po vlajkové programy so 100+ doskami. Súčasťou je vlastný branding, školenie personálu a náhradné diely.'
+  subtitle: 'OLagoon vybavuje rezorty po celom svete komerčnými nafukovacími flotilami SUP — od startovacích balíkov s 20 doskami po vlajkové programy so 100+ doskami. Súčasťou je vlastný branding, školenie personálu a náhradné diely.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Hostia rezortu si užívajú pádlovanie na SUP na nedotknutej pláži'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Plnú investíciu do flotily vrátite v rámci jednej sezóny'
     - metric: '40 %'
       label: 'Rast príjmov'
-      detail: 'Priemerné zvýšenie po prechode na flotily Afarer'
+      detail: 'Priemerné zvýšenie po prechode na flotily OLagoon'
     - metric: '500+'
       label: 'Požičovacie cykly na dosku'
       detail: 'Komerčná odolnosť pre denné používanie'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Získať vlajkový balík'
 
 case_study:
-  quote: 'Od prechodu na Afarer sa naše príjmy z požičovania SUP zvýšili o 40 %. Náklady na výmenu dosiek klesli o 60 %. Plnú investíciu do flotily sme vrátili za 4 mesiace.'
+  quote: 'Od prechodu na OLagoon sa naše príjmy z požičovania SUP zvýšili o 40 %. Náklady na výmenu dosiek klesli o 60 %. Plnú investíciu do flotily sme vrátili za 4 mesiace.'
   author: 'Manažér vodných aktivít'
   location: '5-hviezdičkový rezort, Maldivy'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 mesiace'
 
 features:
-  title: 'Prečo si rezorty vyberajú Afarer'
+  title: 'Prečo si rezorty vyberajú OLagoon'
   subtitle: 'Komerčná odolnosť, globálna logistika a partner, ktorý rozumie hotelierstvu.'
   items:
     - title: '500+ požičovacích cyklov'

@@ -1,14 +1,14 @@
 meta:
   title: 'Programa ng Partnership sa Wholesale Distribusyon ng SUP | {SITE}'
-  description: 'Sumali sa global na network ng wholesale distribusyon ng SUP ng Afarer. Mga eksklusibong teritoryo, kumpletong portfolio ng produktong inflatable SUP, mapagkumpitensyang presyong wholesale, at nakalaang pamamahala ng account sa 50+ bansa.'
+  description: 'Sumali sa global na network ng wholesale distribusyon ng SUP ng OLagoon. Mga eksklusibong teritoryo, kumpletong portfolio ng produktong inflatable SUP, mapagkumpitensyang presyong wholesale, at nakalaang pamamahala ng account sa 50+ bansa.'
 
 hero:
   tagline: 'Mga Distributor'
   title: 'Sumali Sa Aming Global na<br />Network ng Distribusyon'
-  subtitle: 'Programa ng partnership sa wholesale distribusyon ng SUP na may mga eksklusibong teritoryo, kumpletong portfolio ng produktong inflatable SUP, at suportang pang-world-class. Nagpapadala ang Afarer sa 50+ bansa — naghahanap kami ng mga established na distributor ng marine at water sports.'
+  subtitle: 'Programa ng partnership sa wholesale distribusyon ng SUP na may mga eksklusibong teritoryo, kumpletong portfolio ng produktong inflatable SUP, at suportang pang-world-class. Nagpapadala ang OLagoon sa 50+ bansa — naghahanap kami ng mga established na distributor ng marine at water sports.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'Mga operasyon ng global na distribusyon at pagpapadala ng Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'Mga operasyon ng global na distribusyon at pagpapadala ng OLagoon'
 
 benefits:
   title: 'Ang Makukuha ng mga Distributor'
@@ -27,7 +27,7 @@ benefits:
 
 coverage:
   title: 'Kasalukuyang Distribusyon'
-  subtitle: 'Kasalukuyang pinaglilingkuran ng Afarer ang mga market na ito nang direkta.'
+  subtitle: 'Kasalukuyang pinaglilingkuran ng OLagoon ang mga market na ito nang direkta.'
   regions:
     - name: 'Europe'
       countries: 'Pransya, Alemanya, UK, Espanya, Italya, Olanda, Suwesya, Noruwega, Polonya, Griyega'

@@ -1,6 +1,6 @@
 meta:
   title: Контакт — упити за партнерство и производе | {SITE}
-  description: Контактирајте afarer ради партнерства, ко-брендирања, приватних ознака или професионалних флота. Бренд надуваних SUP плоча — одговарамо у року од 2 радна дана.
+  description: Контактирајте olagoon ради партнерства, ко-брендирања, приватних ознака или професионалних флота. Бренд надуваних SUP плоча — одговарамо у року од 2 радна дана.
   keywords:
     - понуда за sup дистрибутера
     - професионални sup добављач
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Пошаљите нам поруку
   subtitle: За понуде, техничка питања или упите за партнерство, напишите нам. Одговарамо у року од једног радног дана.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Пошаљите упит → Затражите понуду
   success_message: Хвала! Ваша порука је стигла у наш пријемни сандучић. Одговорићемо у року од једног радног дана.
   error_message: Дошло је до грешке при слању ваше поруке. Покушајте поново или нам пишите директно на е-пошту.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: Е-пошта
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Седиште
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

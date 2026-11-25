@@ -47,7 +47,7 @@ async function fetchRetry(url, tries = 3) {
   const failures = [];
   for (const loc of LOCALES) {
     for (const route of ROUTES) {
-      const url = 'https://afarer.com/' + loc + route;
+      const url = 'https://olagoon.com/' + loc + route;
       try {
         const { status, text } = await fetchRetry(url);
         if (status !== 200) {

@@ -9,10 +9,10 @@ hero:
   tagline: 'Laboratorija 03'
   title: 'RF metināšanas centrs'
   subtitle: 'Dielektriskās savienošanas tehnoloģija metinājumiem, kas iztur spiedienu'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Afarer RF metināšanas dielektriskās savienošanas process'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'OLagoon RF metināšanas dielektriskās savienošanas process'
 
-intro: 'Piepūšamais SUP ir tikpat uzticams, cik tā šuves. Viens vājš metinājums var kompromitēt visu kameru — un jūrā kameras bojājums nav neērtība; tas ir drošības apdraudējums. Afarer mēs esam investējuši īpašā Radiofrekvences (RF) metināšanas centrā, kas apvieno rūpnieciska līmeņa dielektriskās metināšanas preses ar stingru procesa kontroli un pēcmetināšanas testēšanu. Katra mūsu ražotā šuve ir dokumentēta, izsekojama un sertificēta, lai atbilstu vai pārsniegtu EN ISO 25649 prasības — Eiropas standartu piepūšamajām atpūtas ierīcēm.'
+intro: 'Piepūšamais SUP ir tikpat uzticams, cik tā šuves. Viens vājš metinājums var kompromitēt visu kameru — un jūrā kameras bojājums nav neērtība; tas ir drošības apdraudējums. OLagoon mēs esam investējuši īpašā Radiofrekvences (RF) metināšanas centrā, kas apvieno rūpnieciska līmeņa dielektriskās metināšanas preses ar stingru procesa kontroli un pēcmetināšanas testēšanu. Katra mūsu ražotā šuve ir dokumentēta, izsekojama un sertificēta, lai atbilstu vai pārsniegtu EN ISO 25649 prasības — Eiropas standartu piepūšamajām atpūtas ierīcēm.'
 
 content_html: |
   <h2>Zinātne aiz šuves</h2>
@@ -81,7 +81,7 @@ content_html: |
 
   <h2>Mūsu apņemšanās jūsu labā</h2>
   <p>Katrs mūsu piegādātais dēlis ietver mūsu metinājumu kvalitātes garantiju: ja jebkāda šuve normālas ekspluatācijas laikā garantijas periodā izirst, mēs bez maksas izlabojam vai nomainām skarto kameru un veicam pamatcēloņa izmeklēšanu, lai novērstu atkārtošanos. Tā nav vienkārši garantija — tā ir apņemšanās par nepārtrauktu uzlabošanu, ko vada reāli ekspluatācijas dati.</p>
-  <p>Izvēloties Afarer, jūs izvēlaties šuves, kas ir izprojektētas, testētas un dokumentētas — ne vienkārši sametinātas. Tā ir atšķirība starp dēli, kas peld, un dēli, kas strādā.</p>
+  <p>Izvēloties OLagoon, jūs izvēlaties šuves, kas ir izprojektētas, testētas un dokumentētas — ne vienkārši sametinātas. Tā ir atšķirība starp dēli, kas peld, un dēli, kas strādā.</p>
 
 cta:
   title: 'Apspriediet savas metināšanas prasības'

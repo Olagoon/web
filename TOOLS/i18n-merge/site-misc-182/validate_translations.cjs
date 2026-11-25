@@ -149,7 +149,7 @@ for (const loc of LOCALES) {
       [/ISO 2859/, 'ISO 2859'],
       [/#1/, '#1'],
       [/\b15-25 PSI\b/, '15-25 PSI'],
-      [/\| Afarer/, '| Afarer'],
+      [/\| OLagoon/, '| OLagoon'],
     ];
     for (const [re, label] of numChecks) {
       if (re.test(env) && !v.includes(label)) errors.push(k + ': missing numeric/unit ' + label);
@@ -188,11 +188,11 @@ for (const loc of LOCALES) {
     }
   }
 
-  // afarer lowercase preservation
-  const afarKeys = EN_KEYS.filter((k) => /\bafarer\b/.test(en[k]) && !/Afarer/.test(en[k]));
+  // olagoon lowercase preservation
+  const afarKeys = EN_KEYS.filter((k) => /\bolagoon\b/.test(en[k]) && !/OLagoon/.test(en[k]));
   for (const k of afarKeys) {
     if (!(k in data)) continue;
-    if (!data[k].includes('afarer')) errors.push(k + ': lowercase afarer missing');
+    if (!data[k].includes('olagoon')) errors.push(k + ': lowercase olagoon missing');
   }
 
   report[loc] = { errors, warnings };

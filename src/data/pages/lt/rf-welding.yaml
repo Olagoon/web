@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorija 03'
   title: 'RF suvirinimo centras'
   subtitle: 'Dielektrinio suklijavimo technologija siūlėms, kurios atlaiko slėgį'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Afarer RF suvirinimo dielektrinio suklijavimo procesas'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'OLagoon RF suvirinimo dielektrinio suklijavimo procesas'
 
-intro: 'Pripučiamas SUP yra tiek pat patikimas, kiek jo siūlės. Vienas silpnas suvirinimas gali pažeisti visą kamerą — o jūroje kameros gedimas nėra nepatogumas; tai saugos pavojus. Afarer mes investavome į specialų radijo dažnio (RF) suvirinimo centrą, kuris jungia pramoninės klasės dielektrinius suvirinimo presus su griežta proceso kontrole ir testavimu po suvirinimo. Kiekviena mūsų pagaminta siūlė yra dokumentuota, atsekama ir sertifikuota, kad atitiktų arba viršytų EN ISO 25649 reikalavimus — Europos standartą pripučiamai laisvalaikio įrangai.'
+intro: 'Pripučiamas SUP yra tiek pat patikimas, kiek jo siūlės. Vienas silpnas suvirinimas gali pažeisti visą kamerą — o jūroje kameros gedimas nėra nepatogumas; tai saugos pavojus. OLagoon mes investavome į specialų radijo dažnio (RF) suvirinimo centrą, kuris jungia pramoninės klasės dielektrinius suvirinimo presus su griežta proceso kontrole ir testavimu po suvirinimo. Kiekviena mūsų pagaminta siūlė yra dokumentuota, atsekama ir sertifikuota, kad atitiktų arba viršytų EN ISO 25649 reikalavimus — Europos standartą pripučiamai laisvalaikio įrangai.'
 
 content_html: |
   <h2>Mokslas už siūlės</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Mūsų įsipareigojimas jums</h2>
   <p>Kiekviena mūsų pristatyta lenta turi mūsų suvirinimo kokybės garantiją: jei bet kuri siūlė sugenda normalioje eksploatacijoje garantiniu laikotarpiu, mes nemokamai sutaisome arba pakeis paveiktą kamerą, o siekdami išvengti pasikartojimo atliekame priežasčių tyrimą. Tai nėra tiesiog garantija — tai įsipareigojimas nuolatinei tobulejimui, grindžiamas realiais eksploatacijos duomenimis.</p>
-  <p>Rinkdamiesi Afarer, jūs renkatės siūles, kurios yra suprojektuotos, išbandytos ir dokumentuotos — o ne tik suvirintos. Tai skirtumas tarp lentos, kuri plūduriuoja, ir lentos, kuri atlieka.</p>
+  <p>Rinkdamiesi OLagoon, jūs renkatės siūles, kurios yra suprojektuotos, išbandytos ir dokumentuotos — o ne tik suvirintos. Tai skirtumas tarp lentos, kuri plūduriuoja, ir lentos, kuri atlieka.</p>
 
 cta:
   title: 'Aptarkite savo suvirinimo reikalavimus'

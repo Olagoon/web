@@ -1,6 +1,6 @@
 meta:
-  title: 'Tungkol sa Afarer — Brand ng Inflatable SUP at Water Sports | {SITE}'
-  description: 'Ang Afarer ay isang pandaigdigang brand ng inflatable SUP at water sports, na pinapatakbo ng Aquafarer LLC at itinayo ng aming Qingdao Operation Team. Tuklasin ang aming kuwento, engineering, sertipikadong kalidad, at mga programang country partner.'
+  title: 'Tungkol sa OLagoon — Brand ng Inflatable SUP at Water Sports | {SITE}'
+  description: 'Ang OLagoon ay isang pandaigdigang brand ng inflatable SUP at water sports, na pinapatakbo ng Olagoon LLC at itinayo ng aming Qingdao Operation Team. Tuklasin ang aming kuwento, engineering, sertipikadong kalidad, at mga programang country partner.'
   keywords:
     - 'brand ng inflatable SUP'
     - 'brand ng water sports'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'Tungkol sa amin'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'pabrika at workshop ng afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'pabrika at workshop ng olagoon'
   title: |
     Marine engineering, <br />
-    itinayo sa paraang <span class="text-accent dark:text-white">afarer</span>
+    itinayo sa paraang <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'Nagsimula kami sa isang coastal workshop na may isang board at isang matibay na paniniwala: ang mga marine na produkto ay dapat i-engineer na para bang mahalaga ang mga ito, dahil mahalaga nga. Ngayon ay nagpapadala kami sa mahigit 40 bansa, ngunit bawat hull ay dumadaan pa rin sa parehong mga kamay na nagsimula ng kumpanya.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Disenyo bawat proyekto para sa mga komersyal, siyentipiko at military na customer.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Pagtalakay sa disenyo at engineering ng board'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Mga Milestone'
-  subtitle: 'Isang maikling bersyon ng kuwento ng afarer.'
+  subtitle: 'Isang maikling bersyon ng kuwento ng olagoon.'
   isReversed: true
   items:
     - title: 'Itinatag sa isang coastal workshop'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Nagpapadala sa 50+ bansa mula sa aming pasilidad sa Qingdao na may awtorisadong service partner sa buong Europa, Asia-Pacific, at Americas.'
     link: /brand-global-presence/
     link_label: 'Alamin pa →'
-  - title: 'Bakit afarer'
+  - title: 'Bakit olagoon'
     desc: 'Isang brand na nakabatay sa beripikadong kalidad — dobleng sertipikasyon (ISO 9001 + BSCI), pagsunod sa CE, at mga eksklusibong country partnership na may limitadong co-branded na koleksyon para sa mga negosyo ng water sports.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Alamin pa →'

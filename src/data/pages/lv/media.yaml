@@ -1,8 +1,8 @@
 meta:
-  title: 'Mediju centrs — prese un afarer resursi | {SITE}'
-  description: 'afarer mediju centrs: preses relīzes, zīmola asseti un resursi no mūsu piepūšamo SUP ražošanas uzņēmuma.'
+  title: 'Mediju centrs — prese un olagoon resursi | {SITE}'
+  description: 'olagoon mediju centrs: preses relīzes, zīmola asseti un resursi no mūsu piepūšamo SUP ražošanas uzņēmuma.'
   keywords:
-    - 'afarer prese'
+    - 'olagoon prese'
     - 'sup ražotāja mediji'
     - 'airu dēļu preses komplekts'
     - 'nautiskā uzņēmuma ziņas'
@@ -22,7 +22,7 @@ sections:
       - 'Piederumi un drošības aprīkojums'
   - id: logo-brand-kit
     title: 'Logo un zīmola komplekts'
-    desc: 'Oficiālie afarer logo faili, krāsu palete, tipogrāfija un zīmola vadlīnijas.'
+    desc: 'Oficiālie olagoon logo faili, krāsu palete, tipogrāfija un zīmola vadlīnijas.'
     items:
       - 'Primārais logo (PNG/SVG/EPS)'
       - 'Ikonas zīme'
@@ -58,7 +58,7 @@ cta:
       desc: 'Apskatiet mūsu 12,000 kvadrātmetru ražošanas objektu'
     - label: 'Zīmola vadlīnijas'
       href: /brand/
-      desc: 'Uzziniet par afarer zīmolu'
+      desc: 'Uzziniet par olagoon zīmolu'
     - label: 'Kļūstiet par mūsu partneri'
       href: /contact/
       desc: 'OEM, ODM un izplatīšanas vaicājumi'

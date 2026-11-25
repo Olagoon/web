@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const read = (p) => fs.readFileSync(path.join(DIST, p), 'utf8');
 
 let fail = 0;
@@ -16,16 +16,16 @@ check('ro page has RO title', roPage.includes('placă de surf'));
 check('ro page has RO diacritics', /ță|ș|ă/.test(roPage));
 check('ro page TLDR ro', roPage.includes('Concentrează-te pe volum'));
 // EN fallback page (slug 17, not translated)
-const roFallback = read('ro/v2/afarer-surfboard-pro/index.html');
+const roFallback = read('ro/v2/olagoon-surfboard-pro/index.html');
 check('ro fallback page exists', roFallback.length > 0);
-check('ro fallback is EN text', roFallback.includes('The afarer Surfboard Pro'));
+check('ro fallback is EN text', roFallback.includes('The olagoon Surfboard Pro'));
 // th
 const thPage = read('th/v2/how-to-choose-a-surfboard-for-beginners/index.html');
 check('th translated page exists', thPage.length > 0);
 check('th page has TH text', thPage.includes('บอร์ดเซิร์ฟ'));
 check('th page TLDR th', thPage.includes('ผู้เริ่มต้นควรเริ่มด้วยบอร์ดโฟม'));
-const thFallback = read('th/v2/afarer-surfboard-pro/index.html');
-check('th fallback is EN text', thFallback.includes('The afarer Surfboard Pro'));
+const thFallback = read('th/v2/olagoon-surfboard-pro/index.html');
+check('th fallback is EN text', thFallback.includes('The olagoon Surfboard Pro'));
 // index pages: 75 entries each
 for (const lang of ['ro', 'th']) {
   const idx = read(lang + '/v2/index.html');

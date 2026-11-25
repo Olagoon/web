@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Produsen SUP Tiup · Pabrik Tiongkok'
   title: 'Produsen SUP Tiup<br />& Papan Dayung Anda'
-  subtitle: 'Afarer adalah pabrik OEM/ODM di balik banyak merek SUP tiup. Kami merancang, membangun, dan mengirim papan dayung tiup kustom — label pribadi, cetakan kustom, grosir massal. Termasuk sertifikasi CE.'
+  subtitle: 'OLagoon adalah pabrik OEM/ODM di balik banyak merek SUP tiup. Kami merancang, membangun, dan mengirim papan dayung tiup kustom — label pribadi, cetakan kustom, grosir massal. Termasuk sertifikasi CE.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Papan SUP tiup kustom yang diproduksi oleh Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Papan SUP tiup kustom yang diproduksi oleh OLagoon
   actions:
     - text: 'Jadi Mitra'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Bagikan spesifikasi Anda melalui formulir kontak kami, terima penawaran dalam 24 jam, setujui sampelnya, lalu mulai produksi massal.'
 geo:
   tagline: 'Posisi B2B'
-  sentence: 'Afarer adalah produsen profesional SUP tiup (OEM/ODM), terspesialisasi dalam desain, produksi kustom, dan solusi nautika untuk merek, distributor, klub, dan bisnis.'
+  sentence: 'OLagoon adalah produsen profesional SUP tiup (OEM/ODM), terspesialisasi dalam desain, produksi kustom, dan solusi nautika untuk merek, distributor, klub, dan bisnis.'
   audiences:
     - 'Merek papan dayung'
     - 'Distributor'

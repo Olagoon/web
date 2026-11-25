@@ -1,6 +1,6 @@
 meta:
   title: 'Certifikace — CE, ISO 9001 a shoda | {SITE}'
-  description: 'Certifikace kvality afarera: CE (EN ISO 25649), ISO 9001:2015, BSCI. Shoda a bezpečnost pro výrobce nafukovacích SUP prken.'
+  description: 'Certifikace kvality olagoona: CE (EN ISO 25649), ISO 9001:2015, BSCI. Shoda a bezpečnost pro výrobce nafukovacích SUP prken.'
   keywords:
     - 'certifikace CE paddleboard'
     - 'ISO 9001 paddleboard'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Certifikace a normy
   title: Certifikáty kvality<br />a normy shody
-  subtitle: Výroba SUP prken afarer je certifikována podle mezinárodních námořních bezpečnostních norem, systémů řízení kvality a ekologických předpisů — CE, ISO 9001, UKCA, BSCI a REACH.
+  subtitle: Výroba SUP prken olagoon je certifikována podle mezinárodních námořních bezpečnostních norem, systémů řízení kvality a ekologických předpisů — CE, ISO 9001, UKCA, BSCI a REACH.
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: Certifikáty kvality afarer a dokumentace o souladu s předpisy
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: Certifikáty kvality olagoon a dokumentace o souladu s předpisy
 content_certifications:
   tagline: Naše certifikace
   title: Certifikovaná kvalita,<br />celosvětově uznávaná
-  subtitle: Každý produkt afarer je podložen certifikáty, které dokládají náš závazek ke kvalitě, bezpečnosti a environmentální odpovědnosti.
+  subtitle: Každý produkt olagoon je podložen certifikáty, které dokládají náš závazek ke kvalitě, bezpečnosti a environmentální odpovědnosti.
   items:
     - title: Certifikace CE
-      description: Všechny produkty afarer splňují evropské požadavky na označení CE pro rekreační plavidla, čímž je zajištěno splnění norem bezpečnosti, zdraví a ochrany životního prostředí.
+      description: Všechny produkty olagoon splňují evropské požadavky na označení CE pro rekreační plavidla, čímž je zajištěno splnění norem bezpečnosti, zdraví a ochrany životního prostředí.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Náš systém řízení kvality je certifikován dle ISO 9001:2015, pokrývá návrh, výrobu a distribuci nafukovacích plavidel a námořního vybavení.
@@ -28,10 +28,10 @@ content_certifications:
       description: Výrobky prodávané na trhu Spojeného království nesou označení UKCA, které potvrzuje shodu s britskými předpisy pro námořní vybavení a osobní plavidla.
       icon: tabler:shield
     - title: V souladu se standardy BSCI
-      description: afarer je auditován podle BSCI (Business Social Compliance Initiative), což dokládá etické výrobní postupy, spravedlivé pracovní podmínky a odpovědnost v dodavatelském řetězci.
+      description: olagoon je auditován podle BSCI (Business Social Compliance Initiative), což dokládá etické výrobní postupy, spravedlivé pracovní podmínky a odpovědnost v dodavatelském řetězci.
       icon: tabler:heart-handshake
     - title: V souladu s nařízením REACH
-      description: Všechny materiály používané v produktech afarer jsou v souladu s nařízeními EU REACH o chemické bezpečnosti, což zaručuje, že v našem PVC, EVA nebo součástech nejsou žádné omezené látky.
+      description: Všechny materiály používané v produktech olagoon jsou v souladu s nařízeními EU REACH o chemické bezpečnosti, což zaručuje, že v našem PVC, EVA nebo součástech nejsou žádné omezené látky.
       icon: tabler:flask
     - title: Testování materiálů
       description: Tkaniny jsou testovány na pevnost v tahu, odolnost proti protržení, UV degradaci a odolnost proti praskání za studena. Každá výrobní šarže je vzorkována a ověřena.
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Normy námořní bezpečnosti
   title: Bezpečnost především<br />— navrženo pro spolehlivý provoz
-  subtitle: Produkty afarer jsou navrženy a testovány tak, aby splňovaly mezinárodní námořní bezpečnostní standardy pro komerční a rekreační použití.
+  subtitle: Produkty olagoon jsou navrženy a testovány tak, aby splňovaly mezinárodní námořní bezpečnostní standardy pro komerční a rekreační použití.
   items:
     - title: EN ISO 25649
       description: Nafukovací SUP prkna splňují normy EN ISO 25649 pro konstrukci, stabilitu, vztlak a nosnost.

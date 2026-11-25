@@ -1,6 +1,6 @@
 meta:
   title: 'Usaldus — kvaliteet, standardid ja maine | {SITE}'
-  description: 'Miks usaldada afarer: CE- ja ISO-sertifikaadid, integreeritud tehas, ülemaailmsed viited ja garantii. Professionaalne täispuhutavate supilaudade tootja.'
+  description: 'Miks usaldada olagoon: CE- ja ISO-sertifikaadid, integreeritud tehas, ülemaailmsed viited ja garantii. Professionaalne täispuhutavate supilaudade tootja.'
   keywords:
     - 'usaldusväärne supi tootja'
     - 'sertifitseeritud supilauatehas'
@@ -8,16 +8,16 @@ meta:
     - 'sertifitseeritud supi tehas'
 hero:
   tagline: 'Ehitatud oluliste standardite järgi'
-  title: 'Usaldage afarerit'
+  title: 'Usaldage olagoonit'
   subtitle: |
     Iga meie toodetud toode on CE-sertifitseeritud — testitud ohutuse,<br />
     vastupidavuse ja jõudluse osas. Otseteid ei ole. Erandeid ei ole.
   taglineSection: 'Sertifitseeritud. Testitud. Tõestatud.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'afarer toode kvaliteeditestimisel'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'olagoon toode kvaliteeditestimisel'
 
 stats:
-  title: 'afarer arvudes'
+  title: 'olagoon arvudes'
   stats:
     - title: 'CE-sertifitseeritud'
       description: 'Kõik vabaajatooted vastavad ELi ohutusstandarditele'
@@ -26,7 +26,7 @@ stats:
     - title: 'BSCI & REACH'
       description: 'Eetiline tootmine ja materjalide vastavus'
     - title: '3-aastane garantii'
-      description: 'Igal afareri tootel — ilma lisaküsimusteta'
+      description: 'Igal olagooni tootel — ilma lisaküsimusteta'
 
 features3_certifications:
   title: 'Sertifikaadid ja vastavus'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'CE-sertifitseerimine'
-      description: 'Kõik afareri supilauad vastavad Euroopa CE-ohutusstandardile vabaajakasutuseks. Iga toode läbib rõhu-, ujuvus- ja koormustesti enne tehasest väljumist.'
+      description: 'Kõik olagooni supilauad vastavad Euroopa CE-ohutusstandardile vabaajakasutuseks. Iga toode läbib rõhu-, ujuvus- ja koormustesti enne tehasest väljumist.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Meie 12,000 m² Qingdao tehas töötab ISO 9001 kvaliteedijuhtimissüsteemi alusel. Iga tootepartii on jälgitav, dokumenteeritud ja kontrollitud.'
@@ -50,21 +50,21 @@ features3_certifications:
       description: 'Sisemine materjalilabor testib enne tootmist iga kangapartii tõmbetugevust, UV-kindlust, õmbluste terviklikkust ja kulumiskindlust.'
       icon: 'tabler:microscope'
     - title: '3-aastane garantii'
-      description: 'Iga afareri toode tuleb kaheaastase garantiiga tootmisvigade vastu. Me vastutame selle eest, mida toodame.'
+      description: 'Iga olagooni toode tuleb kaheaastase garantiiga tootmisvigade vastu. Me vastutame selle eest, mida toodame.'
       icon: 'tabler:shield-check'
 
 testimonials:
   tagline: 'Klientide usaldus'
   title: 'Mida meie kliendid ütlevad'
-  subtitle: 'Esmakordsetest sõudjatest professionaalsete laevastikuoperaatoriteni — vaadake, miks nad afarerit usaldavad.'
+  subtitle: 'Esmakordsetest sõudjatest professionaalsete laevastikuoperaatoriteni — vaadake, miks nad olagoonit usaldavad.'
   items:
-    - content: 'Varustasime kogu meie rendilaevastiku afareri supilaudadega. Kahe hooaja jooksul pole ühtegi riket. CE-sertifikaat tegi kindlustuse kinnitamise sujuvaks.'
+    - content: 'Varustasime kogu meie rendilaevastiku olagooni supilaudadega. Kahe hooaja jooksul pole ühtegi riket. CE-sertifikaat tegi kindlustuse kinnitamise sujuvaks.'
       name: 'Marco V.'
       title: 'Tuuri korraldaja, Horvaatia'
     - content: 'Esmase ostjana olin kvaliteedi suhtes murelik. Nende jagatud ISO-dokumentatsioon ja testiaruanded andsid mulle täieliku kindluse.'
       name: 'James T.'
       title: 'SUP Explorer 11 omanik, Kanada'
-    - content: 'Me töötame afareriga meie rannikupatrulli üksuste jaoks. Nende kvaliteedikontrolli protsess on igas partiis ühtlane — selline usaldusväärsus on missioonikriitilistes operatsioonides oluline.'
+    - content: 'Me töötame olagooniga meie rannikupatrulli üksuste jaoks. Nende kvaliteedikontrolli protsess on igas partiis ühtlane — selline usaldusväärsus on missioonikriitilistes operatsioonides oluline.'
       name: 'Lt. Cmdr. Andres'
       title: 'Riigihanked, Filipiinid'
 
@@ -115,7 +115,7 @@ warranty_section:
   subtitle: 'Me vastutame iga toote eest selgete garantiitingimuste, kiire nõuete menetluse ja originaalvaruosadega.'
   items:
     - title: '3-aastane tootegarantii'
-      desc: 'Kõikidel afareri toodetel on 3-aastane garantii tootmisvigade vastu — õmbluse purunemine, klappide defektid ja materjali delamineerumine normaalse kasutamise korral.'
+      desc: 'Kõikidel olagooni toodetel on 3-aastane garantii tootmisvigade vastu — õmbluse purunemine, klappide defektid ja materjali delamineerumine normaalse kasutamise korral.'
     - title: 'Eluaegne varuosade tugi'
       desc: 'Originaalvaruosad — klapid, remondikomplektid, uimed, D-rõngad — saadaval kõigile mudelitele. Me säilitame vorme ja tööriistu vähemalt 5 aastat pärast tootmise lõppu.'
     - title: '48-tunnine vastus nõuetele'
@@ -148,35 +148,35 @@ faqs_sup:
   subtitle: 'Korduma kippuvad küsimused meie supilaudade kohta.'
   columns: 2
   items:
-    - title: 'Millistes suurustes supilaudu afarer pakub?'
+    - title: 'Millistes suurustes supilaudu olagoon pakub?'
       description: 'Pakume supilaudu suurusega 9 ft kuni 12 ft, hõlmates kõike alates kompaktsetest universaalsetest laudadest kuni turismi- ja eridisainideni. Iga mudel on saadaval mitmete konfiguratsioonivalikutega.'
     - title: 'Mis vahe on täispuhutaval SUP-il ja kõval SUP-il?'
       description: 'Täispuhutav SUP kasutab Drop-Stitch konstruktsiooni tuhandete siseste niitidega, mis võimaldavad kõrget õhurõhku, samas kui kõva SUP kasutab epoksü- või klaaskiudu. Täispuhutavad SUP-id pakuvad kaasaskantavust ja mugavat säilitamist ilma jäikust ohverdamata.'
     - title: 'Mis on supilaudade kaalupiir?'
       description: 'Meie supilauad kannavad sõltuvalt mudelist ja mahust kuni 150 kg. Igal tootelehel on esitatud teie konkreetse mudeli maksimaalne koormushinne.'
-    - title: 'Kas afareri supilauad on CE-sertifitseeritud?'
+    - title: 'Kas olagooni supilauad on CE-sertifitseeritud?'
       description: 'Jah. Kõik vabaaja SUP-mudelid on CE-sertifitseeritud vastavalt kehtivatele Euroopa standarditele vabaajakasutuseks.'
     - title: 'Milline on supilaudade garantii?'
-      description: 'Kõik afareri supilauad tulevad standardselt kolmeaastase garantiiga tootmisvigade vastu, hõlmates õmbluse purunemist, klappide defekte ja materjali delamineerumist normaalse kasutamise korral.'
+      description: 'Kõik olagooni supilauad tulevad standardselt kolmeaastase garantiiga tootmisvigade vastu, hõlmates õmbluse purunemist, klappide defekte ja materjali delamineerumist normaalse kasutamise korral.'
     - title: 'Kui kaua võtab supilaua ülespuhumine aega?'
-      description: 'Kaasasoleva käsipumbaga võtab täielik ülespuhumine 15 PSI-ni umbes 8–12 minutit. Kiirema puhumise jaoks soovitame afareri 12V elektripumpa, mis pumbab laua üles vähem kui 4 minutiga.'
+      description: 'Kaasasoleva käsipumbaga võtab täielik ülespuhumine 15 PSI-ni umbes 8–12 minutit. Kiirema puhumise jaoks soovitame olagooni 12V elektripumpa, mis pumbab laua üles vähem kui 4 minutiga.'
 
 faqs_materials:
   title: 'SUP-i materjalide ja hoolduse KKK'
   subtitle: 'Korduma kippuvad küsimused meie täispuhutavate supilaudade materjalide, hoolduse ja säilitamise kohta.'
   columns: 2
   items:
-    - title: 'Milliseid materjale kasutatakse afareri täispuhutavates supilaudades?'
+    - title: 'Milliseid materjale kasutatakse olagooni täispuhutavates supilaudades?'
       description: 'Kasutame sõjaväeklassi PVC-d (1100 denier) UV-stabiliseeritud, kulumiskindla konstruktsiooniga, mis vastab ELi REACH ja RoHS määrustele.'
     - title: 'Kui kaua täispuhutavad supilauad vastu peavad?'
       description: 'Nõuetekohase hoolduse korral kestab kvaliteetne täispuhutav PVC-supp 5–10 aastat. Regulaarne puhastamine, UV-kaitse ja õige säilitamine pikendavad teenindusiga oluliselt.'
     - title: 'Millist hooldust vajab täispuhutav SUP?'
       description: 'Põhihooldus hõlmab mageveega loputamist pärast iga kasutamist (eriti soolvees), kuivatamist enne säilitamist, klapitihendite aastast kontrollimist ning pikaajalise otsese päikese käes hoidmise vältimist, kui laud pole kasutusel.'
     - title: 'Kas täispuhutavaid supilaudu saab kasutada soolvees?'
-      description: 'Jah. Kõik afareri täispuhutavad supilauad on mõeldud nii mage- kui ka soolveeks. Soovitame pärast soolvees kasutamist laud mageveega loputada ja põhjalikult kuivatada.'
+      description: 'Jah. Kõik olagooni täispuhutavad supilauad on mõeldud nii mage- kui ka soolveeks. Soovitame pärast soolvees kasutamist laud mageveega loputada ja põhjalikult kuivatada.'
     - title: 'Kuidas täispuhutavat supilauda säilitada?'
       description: 'Tühjendage, puhastage ja kuivatage laud enne säilitamist täielikult. Rullige laialt (vältige tihedaid volte), säilitage jahedas kuivas kohas eemal otsesest päikesevalgusest ja hoidke eemal betoonpõrandatest, et vältida niiskuse tõmbumist.'
-    - title: 'Milline on afareri täispuhutavate supilaudade kandevõime?'
+    - title: 'Milline on olagooni täispuhutavate supilaudade kandevõime?'
       description: 'Kandevõimed ulatuvad 100 kg meie väikseimate mudelite puhul kuni üle 200 kg suurematel laudadel. Igal tootelehel on esitatud teie konkreetse mudeli maksimaalne koormushinne.'
 
 cta:

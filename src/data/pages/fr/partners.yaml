@@ -1,22 +1,22 @@
 meta:
   title: 'Partenaires — Distribution & Grossiste | {SITE}'
-  description: 'Rejoignez le réseau de distribution afarer : distributeurs, grossistes et importateurs de SUP gonflables. Conditions avantageuses et portefeuille complet.'
+  description: 'Rejoignez le réseau de distribution olagoon : distributeurs, grossistes et importateurs de SUP gonflables. Conditions avantageuses et portefeuille complet.'
   keywords:
-    - 'partenaire afarer'
+    - 'partenaire olagoon'
     - 'réseau distribution'
     - 'grossiste paddle gonflable'
     - 'importateur paddle gonflable'
 hero:
   tagline: Partenaires et Distribution
-  title: Devenez Partenaire afarer<br />— Réseau de Distribution Mondial
-  subtitle: Rejoignez le réseau mondial d'afarer. Nous collaborons avec des distributeurs maritimes, des concessionnaires nautiques, des détaillants d’équipements et des partenaires de marque dans plus de 50 pays.
+  title: Devenez Partenaire olagoon<br />— Réseau de Distribution Mondial
+  subtitle: Rejoignez le réseau mondial d'olagoon. Nous collaborons avec des distributeurs maritimes, des concessionnaires nautiques, des détaillants d’équipements et des partenaires de marque dans plus de 50 pays.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: réseau mondial de partenaires et de distributeurs afarer
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: réseau mondial de partenaires et de distributeurs olagoon
 content_programs:
   tagline: Programmes Partenaires
   title: Programmes Partenaires<br />Conçus pour la Croissance
-  subtitle: Distributeur, revendeur ou partenaire de marque, afarer propose des programmes adaptés à votre activité.
+  subtitle: Distributeur, revendeur ou partenaire de marque, olagoon propose des programmes adaptés à votre activité.
   columns: 3
   items:
     - title: Programme Distributeur
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: Pourquoi Devenir Partenaire
-  title: Pourquoi les Partenaires Choisissent afarer
+  title: Pourquoi les Partenaires Choisissent olagoon
   subtitle: Nos partenaires bénéficient d'une capacité de fabrication réelle, d'une qualité constante et d'un support réactif.
   list:
     - "Accès direct à l'usine : travaillez directement avec notre équipe — sans intermédiaires."
@@ -62,7 +62,7 @@ content_process:
     - title: 'Étape 4 : Formation et Lancement'
       description: Formation produit, support commercial et documentation fournis. Prêt à vendre.
 cta:
-  title: Prêt à devenir partenaire afarer ?
+  title: Prêt à devenir partenaire olagoon ?
   subtitle: Postulez et notre équipe répondra sous 3 jours ouvrés.
   actions:
     - variant: primary

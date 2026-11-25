@@ -6,31 +6,31 @@ module.exports = {
   'academy.learningCenterDesc':
     'Przewodniki i samouczki krok po kroku, uporządkowane według poziomu umiejętności — od podstaw SUP po zaawansowane techniki ratownicze.',
   'academy.metaDesc':
-    'Przewodniki i samouczki dla każdego poziomu umiejętności — od podstaw SUP po zaawansowane techniki ratownicze. Ucz się we własnym tempie z Afarer Academy.',
-  'academy.metaTitle': 'Centrum Wiedzy — Afarer Academy',
+    'Przewodniki i samouczki dla każdego poziomu umiejętności — od podstaw SUP po zaawansowane techniki ratownicze. Ucz się we własnym tempie z OLagoon Academy.',
+  'academy.metaTitle': 'Centrum Wiedzy — OLagoon Academy',
   'academy.skillPaths': 'Ścieżki Umiejętności',
   'ai.definition':
-    'Afarer projektuje i produkuje dmuchane deski SUP, akcesoria oraz sprzęt bezpieczeństwa do rekreacyjnych i wyczynowych sportów wodnych.',
+    'OLagoon projektuje i produkuje dmuchane deski SUP, akcesoria oraz sprzęt bezpieczeństwa do rekreacyjnych i wyczynowych sportów wodnych.',
   'ai.entity':
-    'Afarer to marka sprzętu wodnego nastawiona na osiągi, tworząca wyjątkowe dmuchane deski SUP dla osób, które płyną dalej, jeżdżą odważniej i widzą z wody więcej.',
+    'OLagoon to marka sprzętu wodnego nastawiona na osiągi, tworząca wyjątkowe dmuchane deski SUP dla osób, które płyną dalej, jeżdżą odważniej i widzą z wody więcej.',
   'ai.process':
-    'Deski Afarer powstają wokół rdzenia drop-stitch o wysokiej gęstości, ze wzmocnionymi burtami i szwami laminowanymi metodą fuzji. Każda deska przechodzi próbę ciśnieniową i oględziny przed pakowaniem. Współpraca projektowa obejmuje koncepcję, projektowanie 3D i prototypowanie, aż po skontrolowaną produkcję i globalną logistykę.',
+    'Deski OLagoon powstają wokół rdzenia drop-stitch o wysokiej gęstości, ze wzmocnionymi burtami i szwami laminowanymi metodą fuzji. Każda deska przechodzi próbę ciśnieniową i oględziny przed pakowaniem. Współpraca projektowa obejmuje koncepcję, projektowanie 3D i prototypowanie, aż po skontrolowaną produkcję i globalną logistykę.',
   'answerCenter.subtitle':
-    'Natychmiastowe odpowiedzi na temat naszych produktów, technologii i sportów wodnych — oparte na bazie wiedzy afarer.',
+    'Natychmiastowe odpowiedzi na temat naszych produktów, technologii i sportów wodnych — oparte na bazie wiedzy olagoon.',
   'b2bSolutionsMatrix.metaDesc':
-    'Kompletna macierz rozwiązań B2B Afarer obejmująca 24 typy klientów — znajdź rozwiązanie dla swojej firmy.',
+    'Kompletna macierz rozwiązań B2B OLagoon obejmująca 24 typy klientów — znajdź rozwiązanie dla swojej firmy.',
   'buyerCenter.ribs': 'Łodzie sztywno-dmuchane (RIB)',
   'buyerCenter.sizeGuideDesc':
     'Dobierz swój rozmiar dzięki naszemu przewodnikowi po wymiarach, objętościach i zakresach wagi pływacza.',
   'compare.backToAll': 'Wszystkie porównania',
   'compare.category': 'Kategoria',
   'compare.desc':
-    'Porównaj wszystkie produkty Afarer obok siebie. Znajdź deskę, łódź lub akcesoria najlepiej dopasowane do Twoich potrzeb.',
+    'Porównaj wszystkie produkty OLagoon obok siebie. Znajdź deskę, łódź lub akcesoria najlepiej dopasowane do Twoich potrzeb.',
   'compare.length': 'Długość',
   'compare.material': 'Materiał',
   'compare.maxLoad': 'Maksymalne Obciążenie',
   'compare.singleVsMulti.aiBlock':
-    'Porównanie dmuchanych desek SUP jednokomorowych i wielokomorowych w 11 kluczowych aspektach: bezpieczeństwo, liczba komór, redundancja wyporności, waga, rozmiar po spakowaniu, czas przygotowania, sztywność, koszt, trwałość, łatwość naprawy i najlepsze zastosowania. Deski wielokomorowe (3-5 niezależnych komór) zapewniają krytyczną redundancję wyporności. Wszystkie deski SUP afarer mają wielokomorową konstrukcję drop-stitch.',
+    'Porównanie dmuchanych desek SUP jednokomorowych i wielokomorowych w 11 kluczowych aspektach: bezpieczeństwo, liczba komór, redundancja wyporności, waga, rozmiar po spakowaniu, czas przygotowania, sztywność, koszt, trwałość, łatwość naprawy i najlepsze zastosowania. Deski wielokomorowe (3-5 niezależnych komór) zapewniają krytyczną redundancję wyporności. Wszystkie deski SUP olagoon mają wielokomorową konstrukcję drop-stitch.',
   'compare.singleVsMulti.col1Title': 'Jedna Komora',
   'compare.singleVsMulti.col2Title': 'Wiele Komór (3+)',
   'compare.singleVsMulti.cta': 'Kup deski SUP wielokomorowe',
@@ -79,7 +79,7 @@ module.exports = {
   'compare.singleVsMulti.r9b':
     'Znakomita. Nadmiarowe komory zapewniają bezpieczną eksploatację w wymagających warunkach.',
   'compare.singleVsMulti.recDesc':
-    'Dla każdego, kto pływa poza głębokością brodzenia — a zwłaszcza dla operatorów komercyjnych — <strong>deska SUP wielokomorowa</strong> to jedyny odpowiedzialny wybór. Wszystkie deski SUP afarer mają wielokomorową konstrukcję drop-stitch z 3+ niezależnymi komorami, zapewniającą maksymalne bezpieczeństwo i sztywność konstrukcji. Zawsze łącz swoją deskę z kamizelką ratunkową z certyfikatem CE, aby zapewnić sobie pełną ochronę.',
+    'Dla każdego, kto pływa poza głębokością brodzenia — a zwłaszcza dla operatorów komercyjnych — <strong>deska SUP wielokomorowa</strong> to jedyny odpowiedzialny wybór. Wszystkie deski SUP olagoon mają wielokomorową konstrukcję drop-stitch z 3+ niezależnymi komorami, zapewniającą maksymalne bezpieczeństwo i sztywność konstrukcji. Zawsze łącz swoją deskę z kamizelką ratunkową z certyfikatem CE, aby zapewnić sobie pełną ochronę.',
   'compare.singleVsMulti.recTitle': 'Podsumowanie',
   'compare.singleVsMulti.safetyCta': 'Przewodnik bezpieczeństwa',
   'compare.singleVsMulti.short': 'Jedna komora vs wiele komór',
@@ -95,15 +95,15 @@ module.exports = {
     'Dla wypożyczalni, ośrodków wypoczynkowych i klubów SUP deski wielokomorowe ograniczają ryzyko odpowiedzialności i przestoje sprzętu. Drobne przebicie nie oznacza już całkowitej awarii deski — pozostaje ona używalna do naprawy po zakończeniu dnia.',
   'compare.singleVsMulti.whyMattersTitle': 'Dlaczego liczba komór ma znaczenie',
   'compare.specification': 'Specyfikacja',
-  'compare.title': 'Porównanie produktów — Afarer',
+  'compare.title': 'Porównanie produktów — OLagoon',
   'compare.weight': 'Waga',
   'compare.width': 'Szerokość',
   'engineeringPerfection.desc':
-    'Filozofia inżynieryjna Afarer: precyzyjna produkcja, selekcja materiałów premium, rygorystyczna kontrola jakości oraz projektowanie pod konkretne segmenty — dmuchanych desek SUP turystycznych, wędkarskich, do jogi i rekreacyjnych.',
+    'Filozofia inżynieryjna OLagoon: precyzyjna produkcja, selekcja materiałów premium, rygorystyczna kontrola jakości oraz projektowanie pod konkretne segmenty — dmuchanych desek SUP turystycznych, wędkarskich, do jogi i rekreacyjnych.',
   'engineeringPerfection.s3': 'Dinghy i tendery',
-  'engineeringTeam.about': 'O marce Afarer',
+  'engineeringTeam.about': 'O marce OLagoon',
   'engineeringTeam.desc':
-    '25+ inżynierów R&D i specjalistów produkcji Afarer. Doświadczenie w technologii rdzeni drop-stitch, obróbce PVC/Hypalon, projektowaniu kadłubów SUP oraz inżynierii zgodności z CE. Siedziba w Qingdao, w Chinach.',
+    '25+ inżynierów R&D i specjalistów produkcji OLagoon. Doświadczenie w technologii rdzeni drop-stitch, obróbce PVC/Hypalon, projektowaniu kadłubów SUP oraz inżynierii zgodności z CE. Siedziba w Qingdao, w Chinach.',
   'engineeringTeam.join': 'Dołącz do Zespołu Inżynierów',
   'engineeringTeam.joinDesc':
     'Zawsze poszukujemy utalentowanych inżynierów z zakresu nauki o materiałach, projektowania produktów i inżynierii jakości.',
@@ -160,7 +160,7 @@ module.exports = {
   'factory.testingEquipment': 'Wyposażenie do badań',
   'factory.tradeTerms': 'Produkcja i Warunki Handlowe',
   'factory.tradeTermsDesc':
-    'Afarer to marka prowadzona przez Aquafarer LLC (USA) — z certyfikatami ISO i CE oraz 10+ lat doświadczenia w eksporcie.',
+    'OLagoon to marka prowadzona przez Olagoon LLC (USA) — z certyfikatami ISO i CE oraz 10+ lat doświadczenia w eksporcie.',
   'factory.whatWeOffer': 'Co Oferujemy',
   'faq.searchPlaceholder': 'Szukaj w FAQ...',
   'guides.audience': 'Odbiorcy',
@@ -172,7 +172,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Weryfikowalne Standardy Bezpieczeństwa i Jakości',
   'home.brand.desc':
-    'Każda deska Afarer zaczyna się od wody — od jej prądów, warunków i osób, które na niej pływają. Rdzenie drop-stitch o wysokiej gęstości, wzmocnione burty i kształty dostrojone pod stabilność oraz poślizg, a na końcu próba ciśnieniowa wykonywana deska po desce.',
+    'Każda deska OLagoon zaczyna się od wody — od jej prądów, warunków i osób, które na niej pływają. Rdzenie drop-stitch o wysokiej gęstości, wzmocnione burty i kształty dostrojone pod stabilność oraz poślizg, a na końcu próba ciśnieniowa wykonywana deska po desce.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Sztywność rdzenia Drop-Stitch',
   'home.brand.feature1': 'Pokład',
@@ -183,8 +183,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Technologia Drop-Stitch',
   'home.brand.feature4': 'Burta',
   'home.brand.feature4.desc': 'Wzmocniona warstwa fuzji',
-  'home.brand.tagline': 'To, co wyróżnia Afarer',
-  'home.brand.title': 'Dlaczego Afarer<br />Płynie Inaczej',
+  'home.brand.tagline': 'To, co wyróżnia OLagoon',
+  'home.brand.title': 'Dlaczego OLagoon<br />Płynie Inaczej',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Testowana ciśnieniowo deska po desce',
   'home.brand.years': '10+',
@@ -193,9 +193,9 @@ module.exports = {
   'home.community.gallery': 'Galeria',
   'home.community.gallery.boats': 'Łodzie dmuchane',
   'home.community.gallery.boats.desc':
-    'Rodziny i odkrywcy czerpiący radość z pływania łodziami dmuchanymi Afarer po jeziorach i wodach przybrzeżnych.',
+    'Rodziny i odkrywcy czerpiący radość z pływania łodziami dmuchanymi OLagoon po jeziorach i wodach przybrzeżnych.',
   'home.community.gallery.sup': 'Deski SUP',
-  'home.community.gallery.sup.desc': 'Pływacze odkrywający jeziora, rzeki i wybrzeża na dmuchanych deskach SUP Afarer.',
+  'home.community.gallery.sup.desc': 'Pływacze odkrywający jeziora, rzeki i wybrzeża na dmuchanych deskach SUP OLagoon.',
   'home.community.gallery.title': 'Przygody Klientów',
   'home.community.gallery.viewAll': 'Zobacz całą galerię',
   'home.engineering.design': 'Projektowanie produktów',
@@ -272,27 +272,27 @@ module.exports = {
   'home.socialProof.title': 'Testowane i cenione na prawdziwej wodzie',
   'home.socialProof.years': 'Lat Doświadczenia',
   'home.tldr.summary':
-    'afarer projektuje i wytwarza dmuchane deski SUP, łodzie i akcesoria klasy premium — z certyfikatem CE i testowane ciśnieniowo sztuka po sztuce.',
-  'home.why.afarer.contact': 'Kontakt →',
-  'home.why.afarer.point1':
+    'olagoon projektuje i wytwarza dmuchane deski SUP, łodzie i akcesoria klasy premium — z certyfikatem CE i testowane ciśnieniowo sztuka po sztuce.',
+  'home.why.olagoon.contact': 'Kontakt →',
+  'home.why.olagoon.point1':
     'Sztywna, kiedy trzeba — rdzeń drop-stitch o wysokiej gęstości i wzmocnione burty, które pozostają sztywne pod ciśnieniem.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Zbudowana z precyzją — szwy laminowane fuzją i pełna szczelność, testowana ciśnieniowo deska po desce.',
-  'home.why.afarer.point3':
+  'home.why.olagoon.point3':
     'Sprawdzona na wodzie — dostrojona w rzeczywistych warunkach pod stabilność, poślizg i kontrolę.',
-  'home.why.afarer.quality': 'Jakość, na której możesz polegać',
-  'home.why.afarer.subtitle': 'Zbudowana z precyzją. Testowana bezlitośnie. Wsparta gwarancją.',
-  'home.why.afarer.tagline': 'Dlaczego afarer',
-  'home.why.afarer.title': 'Jakość, na której możesz polegać',
-  'home.why.afarer.viewMore': 'Zobacz więcej →',
-  'home.why.afarer.warranty': 'Gwarancja i Wsparcie',
-  'home.why.afarer.warranty.point1': 'Jasne warunki gwarancji na każdą deskę oraz sprawna obsługa posprzedażowa.',
-  'home.why.afarer.warranty.point2': 'Dedykowany zespół posprzedażowy o szybkim czasie reakcji.',
-  'home.why.afarer.warranty.point3':
+  'home.why.olagoon.quality': 'Jakość, na której możesz polegać',
+  'home.why.olagoon.subtitle': 'Zbudowana z precyzją. Testowana bezlitośnie. Wsparta gwarancją.',
+  'home.why.olagoon.tagline': 'Dlaczego olagoon',
+  'home.why.olagoon.title': 'Jakość, na której możesz polegać',
+  'home.why.olagoon.viewMore': 'Zobacz więcej →',
+  'home.why.olagoon.warranty': 'Gwarancja i Wsparcie',
+  'home.why.olagoon.warranty.point1': 'Jasne warunki gwarancji na każdą deskę oraz sprawna obsługa posprzedażowa.',
+  'home.why.olagoon.warranty.point2': 'Dedykowany zespół posprzedażowy o szybkim czasie reakcji.',
+  'home.why.olagoon.warranty.point3':
     'Pełna przejrzystość łańcucha dostaw dla klubów, sprzedawców detalicznych i partnerów marki.',
   'nav.home': 'Strona główna',
   'oem.desc':
-    'Afarer — czołowy producent OEM/ODM dmuchanych desek SUP. Certyfikat CE. Dedykowane formy, marka własna, sprzedaż hurtowa. Od pomysłu do rynku w 16 tygodni.',
+    'OLagoon — czołowy producent OEM/ODM dmuchanych desek SUP. Certyfikat CE. Dedykowane formy, marka własna, sprzedaż hurtowa. Od pomysłu do rynku w 16 tygodni.',
   'oem.estimate.countries': 'Kraje z udokumentowaną historią dostaw',
   'oem.estimate.cta': 'Zapytaj o ofertę',
   'oem.estimate.leadWeeks': 'Tygodnie od briefu do wysyłki',
@@ -303,7 +303,7 @@ module.exports = {
   'oem.faq.guide': 'Przeczytaj przewodnik dla kupujących OEM',
   'oem.faq.subtitle': 'Nasz zespół OEM jest gotowy pomóc Ci zacząć.',
   'oem.faq.title': 'Masz jeszcze pytania?',
-  'oem.heading': 'Twoja Marka SUP.<br />Zbudowana przez Afarer.',
+  'oem.heading': 'Twoja Marka SUP.<br />Zbudowana przez OLagoon.',
   'oem.moq': 'MOQ 50 sztuk dla modeli standardowych. Dedykowana forma: 200+ sztuk. FOB Qingdao.',
   'oem.packages.cta': 'Zapytaj o wycenę',
   'oem.packages.leadtime': 'Czas Realizacji',
@@ -368,8 +368,8 @@ module.exports = {
   'oem.why.support': 'Dedykowana obsługa konta',
   'oem.why.support.desc':
     'Jeden punkt kontaktu od briefu do dostawy. Regularne raporty z produkcji, zdjęcia i przejrzysta komunikacja na każdym etapie.',
-  'oem.why.tagline': 'Dlaczego Afarer',
-  'oem.why.title': 'Dlaczego warto współpracować z Afarer?',
+  'oem.why.tagline': 'Dlaczego OLagoon',
+  'oem.why.title': 'Dlaczego warto współpracować z OLagoon?',
   'packages.popular': 'Najpopularniejszy',
   'product.bestFor': 'Najlepsze dla',
   'product.commercialScenarios': 'Scenariusze komercyjne',
@@ -382,11 +382,11 @@ module.exports = {
   'product.related': 'Polecane produkty',
   'product.view': 'Zobacz produkt',
   'resort.caseStudy': 'Realne rezultaty',
-  'resort.caseStudy.sub': 'Co mówią operatorzy ośrodków o współpracy z Afarer.',
+  'resort.caseStudy.sub': 'Co mówią operatorzy ośrodków o współpracy z OLagoon.',
   'retail.discount': 'Rabat hurtowy',
   'retail.download': 'Pobierz',
   'solutionsByIndustry.aiBlock':
-    'Rozwiązania dla branż — sprzęt wodny Afarer. Sześć obszarów branżowych: poszukiwanie i ratownictwo, pomoc w katastrofach i pomoc humanitarna, komercyjne operacje morskie, obronność i sektor rządowy, hotelarstwo i turystyka, wędkarstwo i akwakultura. Wszystkie rozwiązania są certyfikowane CE i produkowane zgodnie z ISO.',
+    'Rozwiązania dla branż — sprzęt wodny OLagoon. Sześć obszarów branżowych: poszukiwanie i ratownictwo, pomoc w katastrofach i pomoc humanitarna, komercyjne operacje morskie, obronność i sektor rządowy, hotelarstwo i turystyka, wędkarstwo i akwakultura. Wszystkie rozwiązania są certyfikowane CE i produkowane zgodnie z ISO.',
   'solutionsByIndustry.commercial.cert1': 'Jednostki komercyjne z certyfikatem CE',
   'solutionsByIndustry.commercial.craft1': 'Deski SUP do zastosowań komercyjnych',
   'solutionsByIndustry.commercial.craft2': 'Deski do wsparcia nurkowania',
@@ -410,7 +410,7 @@ module.exports = {
     'Sprzęt wodny klasy wojskowej do zwiadu, transportu wojsk, patroli przybrzeżnych i operacji specjalnych.',
   'solutionsByIndustry.defense.name': 'Obronność i Sektor Rządowy',
   'solutionsByIndustry.desc':
-    'Znajdź rozwiązanie sportów wodnych dla swojej branży. Administracja, komercja, rekreacja, przemysł — Afarer produkuje sprzęt z certyfikatem CE dla każdego sektora.',
+    'Znajdź rozwiązanie sportów wodnych dla swojej branży. Administracja, komercja, rekreacja, przemysł — OLagoon produkuje sprzęt z certyfikatem CE dla każdego sektora.',
   'solutionsByIndustry.disaster.cert1': 'Certyfikacja CE',
   'solutionsByIndustry.disaster.cert2': 'Badane pod kątem UV i trudnych warunków',
   'solutionsByIndustry.disaster.craft1': 'Wzmocnione deski dmuchane',
@@ -419,7 +419,7 @@ module.exports = {
   'solutionsByIndustry.disaster.desc':
     'Trwały sprzęt wodny do reagowania w sytuacjach awaryjnych, ewakuacji medycznej, transportu zaopatrzenia i tymczasowych przepraw promowych na terenach dotkniętych katastrofą.',
   'solutionsByIndustry.disaster.name': 'Pomoc w Katastrofach i Pomoc Humanitarna',
-  'solutionsByIndustry.expSub': 'Realne przykłady tego, jak sprzęt Afarer sprawdza się w różnych branżach.',
+  'solutionsByIndustry.expSub': 'Realne przykłady tego, jak sprzęt OLagoon sprawdza się w różnych branżach.',
   'solutionsByIndustry.expTitle': 'Rozwiązania branżowe w akcji',
   'solutionsByIndustry.fishing.cert1': 'CE rekreacyjne',
   'solutionsByIndustry.fishing.cert2': 'Opcje materiałów dopuszczonych do kontaktu z żywnością',
@@ -441,7 +441,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Dowiedz się więcej',
   'solutionsByIndustry.recommendedCraft': 'Polecane jednostki',
   'solutionsByIndustry.rel1': 'Rozwiązania według zastosowania',
-  'solutionsByIndustry.rel1desc': 'Dopasuj swoje konkretne zastosowanie do odpowiedniego rozwiązania Afarer.',
+  'solutionsByIndustry.rel1desc': 'Dopasuj swoje konkretne zastosowanie do odpowiedniego rozwiązania OLagoon.',
   'solutionsByIndustry.rel1label': 'Narzędzie decyzyjne',
   'solutionsByIndustry.rel2': 'Komercyjne łodzie robocze',
   'solutionsByIndustry.rel2desc': 'Trwały sprzęt do codziennych komercyjnych operacji morskich.',
@@ -465,19 +465,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Poszukiwanie i Ratownictwo',
   'solutionsByIndustry.story1.context': 'Ratownictwo podczas powodzi przybrzeżnej, Azja Południowo-Wschodnia, 2024',
   'solutionsByIndustry.story1.narrative':
-    'Podczas silnej powodzi przybrzeżnej miejski zespół ratowniczy SAR użył ratowniczych desek SUP Afarer do działań ewakuacyjnych. Niskie zanurzenie desek umożliwiło dotarcie do zalanych osiedli, nieosiągalnych dla większych jednostek. Mimo zanieczyszczeń i 14 godzin ciągłej eksploatacji tkanina nie wykazywała śladów zużycia.',
+    'Podczas silnej powodzi przybrzeżnej miejski zespół ratowniczy SAR użył ratowniczych desek SUP OLagoon do działań ewakuacyjnych. Niskie zanurzenie desek umożliwiło dotarcie do zalanych osiedli, nieosiągalnych dla większych jednostek. Mimo zanieczyszczeń i 14 godzin ciągłej eksploatacji tkanina nie wykazywała śladów zużycia.',
   'solutionsByIndustry.story1.quote':
-    'Podczas powodzi przybrzeżnej użyliśmy dwóch ratowniczych desek SUP Afarer — były to jedyne deski, które mogły poruszać się po zanieczyszczonych wodach przy odpływie.',
+    'Podczas powodzi przybrzeżnej użyliśmy dwóch ratowniczych desek SUP OLagoon — były to jedyne deski, które mogły poruszać się po zanieczyszczonych wodach przy odpływie.',
   'solutionsByIndustry.story1.source': 'Lider miejskiego zespołu ratowniczego SAR',
   'solutionsByIndustry.story2.context': 'Operacje czarterów nurkowych, Malediwy, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    'Operator czarteru nurkowego na Malediwach używa sprzętu Afarer do codziennego wsparcia nurkowań. Po 600+ dniach eksploatacji deski nie wykazują istotnej degradacji UV ani rozwarstwienia szwów.',
+    'Operator czarteru nurkowego na Malediwach używa sprzętu OLagoon do codziennego wsparcia nurkowań. Po 600+ dniach eksploatacji deski nie wykazują istotnej degradacji UV ani rozwarstwienia szwów.',
   'solutionsByIndustry.story2.quote':
     'Nasz statek nurkowy pływa 6 dni w tygodniu, 50 tygodni w roku. Po dwóch latach tkanina Hypalon wciąż wygląda jak nowa.',
   'solutionsByIndustry.story2.source': 'Właściciel firmy czarterowej',
   'solutionsByIndustry.title': 'Rozwiązania branżowe — sprzęt wodny dla każdego sektora',
   'solutionsByUseCase.aiBlock':
-    'Rozwiązania według zastosowań dla sprzętu wodnego afarer. Osiem scenariuszy: ratownictwo wodne, floty wypożyczalni, marka własna, patrole, pomoc humanitarna, wsparcie nurkowania, produkcja desek i użytkowanie prywatne. Wszystkie rozwiązania są certyfikowane CE i produkowane zgodnie z ISO.',
+    'Rozwiązania według zastosowań dla sprzętu wodnego olagoon. Osiem scenariuszy: ratownictwo wodne, floty wypożyczalni, marka własna, patrole, pomoc humanitarna, wsparcie nurkowania, produkcja desek i użytkowanie prywatne. Wszystkie rozwiązania są certyfikowane CE i produkowane zgodnie z ISO.',
   'solutionsByUseCase.answer1':
     'Wzmocnione dmuchane deski i łodzie ratownicze zaprojektowane do ratownictwa wodnego i reagowania awaryjnego. Szybkie rozmieszczenie, stabilne platformy i certyfikacja CE dla zespołów profesjonalnych.',
   'solutionsByUseCase.answer2':
@@ -490,23 +490,23 @@ module.exports = {
     'Komercyjne łodzie robocze do codziennych operacji morskich — wsparcie nurkowania, transport sprzętu i zadania załóg. Trwała konstrukcja w wariantach od 2 do 12 osób.',
   'solutionsByUseCase.rel2desc': 'Trwały sprzęt do codziennych komercyjnych operacji morskich.',
   'solutionsByUseCase.story1.narrative':
-    'Podczas silnej powodzi przybrzeżnej miejski zespół ratowniczy SAR użył ratowniczych desek SUP afarer do działań ewakuacyjnych. Niskie zanurzenie desek umożliwiło dotarcie do zalanych osiedli, nieosiągalnych dla większych jednostek, a załogi nie zgłosiły istotnego zużycia po wielu dniach ciągłej pracy.',
+    'Podczas silnej powodzi przybrzeżnej miejski zespół ratowniczy SAR użył ratowniczych desek SUP olagoon do działań ewakuacyjnych. Niskie zanurzenie desek umożliwiło dotarcie do zalanych osiedli, nieosiągalnych dla większych jednostek, a załogi nie zgłosiły istotnego zużycia po wielu dniach ciągłej pracy.',
   'solutionsByUseCase.story1.quote':
-    'Podczas powodzi przybrzeżnej użyliśmy dwóch ratowniczych desek SUP afarer — jako jedyne pozwoliły dotrzeć do mieszkańców zalanych dzielnic.',
+    'Podczas powodzi przybrzeżnej użyliśmy dwóch ratowniczych desek SUP olagoon — jako jedyne pozwoliły dotrzeć do mieszkańców zalanych dzielnic.',
   'solutionsByUseCase.story2.narrative':
-    'Norweska farma rybna użytkuje łódź roboczą afarer do inspekcji, transportu sprzętu i bezpieczeństwa zespołów nurkowych od 2023 roku. Dwa lata całorocznej eksploatacji w zimnych warunkach fiordowych bez napraw konstrukcyjnych.',
+    'Norweska farma rybna użytkuje łódź roboczą olagoon do inspekcji, transportu sprzętu i bezpieczeństwa zespołów nurkowych od 2023 roku. Dwa lata całorocznej eksploatacji w zimnych warunkach fiordowych bez napraw konstrukcyjnych.',
   'useCase.fishing.desc':
     'Wędkarskie deski SUP i akcesoria z uchwytami na wędki, szerokimi stabilnymi pokładami i punktami kotwicznymi — dla wędkarzy na jeziorach, rzekach i wodach przybrzeżnych.',
   'useCase.searchAndRescue.desc':
     'Dmuchany sprzęt ratowniczy do szybkiego rozmieszczenia — ratownictwo wodne, reagowanie na powodzie i patrole przybrzeżne.',
   'useCase.tourismRecreation.desc':
     'Wzmocnione deski SUP i łodzie klasy flot dla operatorów wycieczek, ośrodków wypoczynkowych i centrów sportów wodnych.',
-  'nav.exploreAfarer': 'Odkryj Afarer',
+  'nav.exploreOLagoon': 'Odkryj OLagoon',
   'nav.technologyMaterials': 'Technologia i Materiały',
   'nav.qualitySafety': 'Jakość i Bezpieczeństwo',
   'nav.storiesGuides': 'Historie i Poradniki',
   'nav.coBrand': 'Ko-branding',
-  'nav.coBrandWithAfarer': 'Ko-branding z Afarer',
+  'nav.coBrandWithOLagoon': 'Ko-branding z OLagoon',
   'nav.countryPartners': 'Partnerzy Krajowi',
   'nav.findDistributor': 'Znajdź Dystrybutora',
   'nav.becomeCountryPartner': 'Zostań Partnerem Krajowym',

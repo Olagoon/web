@@ -1,18 +1,18 @@
 meta:
   title: 'B2B kliendilahenduste maatriks | {SITE}'
-  description: 'Täielik Afarer B2B kliendilahenduste maatriks, mis hõlmab 24 klienditüüpi — välistingimuste idufirmadest merekaitse instituutideni.'
+  description: 'Täielik OLagoon B2B kliendilahenduste maatriks, mis hõlmab 24 klienditüüpi — välistingimuste idufirmadest merekaitse instituutideni.'
 
 hero:
   tagline: 'B2B kliendilahendused'
   title: '24 B2B lahendust<br />teie äriga sobivad'
-  subtitle: 'Idufirma asutajatest globaalsete levitajateni — leidke täpne Afarer lahendus, mis on disainitud teie ärimudelile, tööstusele ja eesmärkidele.'
+  subtitle: 'Idufirma asutajatest globaalsete levitajateni — leidke täpne OLagoon lahendus, mis on disainitud teie ärimudelile, tööstusele ja eesmärkidele.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Afarer tehas ja tootmisüksus'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'OLagoon tehas ja tootmisüksus'
 
 solutions:
   title: 'Kliendilahenduste maatriks'
-  subtitle: 'Iga klienditüüp, nende põhivajadus ja neile disainitud Afarer lahenduse lehekülg.'
+  subtitle: 'Iga klienditüüp, nende põhivajadus ja neile disainitud OLagoon lahenduse lehekülg.'
   items:
     - clientType: 'Välistingimuste idufirma asutaja'
       need: 'Brändi loomine'

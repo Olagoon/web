@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const BASE = __dirname;
-const REPO = 'E:/github/afarer';
+const REPO = 'E:/github/olagoon';
 const LOCALES = ['hr', 'hu', 'sk', 'bg', 'sl', 'sr', 'id', 'he', 'ms', 'lt', 'lv', 'et', 'tl'];
 
 for (const lang of LOCALES) {

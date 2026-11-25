@@ -1,6 +1,6 @@
 meta:
   title: 'المصنع والإنتاج — SUP قابل للنفخ OEM | {SITE}'
-  description: 'زر مصنع afarer: منشأة بمساحة 12,000 م² تضم القص، ولحام HF، والطباعة، والتجميع، ومختبر الجودة لإنتاج OEM/ODM لألواح SUP القابلة للنفخ.'
+  description: 'زر مصنع olagoon: منشأة بمساحة 12,000 م² تضم القص، ولحام HF، والطباعة، والتجميع، ومختبر الجودة لإنتاج OEM/ODM لألواح SUP القابلة للنفخ.'
   keywords:
     - 'مصنع SUP الصين'
     - 'مصنع ألواح التجديف القابلة للنفخ'
@@ -12,7 +12,7 @@ hero:
   subtitle: 12,000 m² من التصنيع المتكامل — من المواد الخام إلى لوح مكتمل
 intro:
   - >-
-    بصفتها الذراع الإنتاجية لشركة **Aquafarer LLC**، يتحكم فريق عمليات أفارير في تشينغداو في كل مرحلة من مراحل الإنتاج — من وصول مواد PVC والألياف الزجاجية الخام إلى الفحص النهائي قبل التسليم للوح المكتمل. وتمتد منشأتنا التصنيعية في منطقة تشينغداو للتنمية الاقتصادية على مساحة 12,000 متر مربع وتضم ورشاً مخصصة
+    بصفتها الذراع الإنتاجية لشركة **Olagoon LLC**، يتحكم فريق عمليات أفارير في تشينغداو في كل مرحلة من مراحل الإنتاج — من وصول مواد PVC والألياف الزجاجية الخام إلى الفحص النهائي قبل التسليم للوح المكتمل. وتمتد منشأتنا التصنيعية في منطقة تشينغداو للتنمية الاقتصادية على مساحة 12,000 متر مربع وتضم ورشاً مخصصة
     للقطع PVC، والختم الحراري للأنابيب، وتصنيع قوالب FRP، والطباعة الرقمية SUP، والتجميع النهائي، واختبار الجودة.
   - من خلال دمج التصميم والهندسة والنماذج الأولية والتصنيع والاختبار تحت سقف واحد، نلغي قصور التصنيع التعاقدي ونحتفظ بسيطرة مباشرة على جودة البناء واختيار المواد وجداول التسليم. وكل لوح يغادر ورشتنا يبنيه أشخاصنا، باستخدام معداتنا، وفق معاييرنا.
 stats:
@@ -66,22 +66,22 @@ workshops_section:
   workshops:
     - title: القطع PVC وتجهيز المواد
       description: تعالج ماكينات القطع التلقائية CNC أقمشة PVC وDrop-Stitch بدقة تقل عن المليمتر. ويقلل التعشيش المُحسَّن حاسوبياً من هدر المواد ويضمن أن كل لوح يلبي مواصفاته الأبعاد قبل اللحام.
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: لحام الأنابيب والختم الحراري
       description: ورشة لحام مخصصة مزودة بماكينات الختم الحراري ومكابس RF ثنائية الاستقطاب. وتربط أجهزة الختم الحراري بالهواء الساخن وتدمج حجرات أنابيب PVC، بينما ينتج لحام RF وصلات محكمة الهواء عالية المتانة تتجاوز متطلبات EN ISO 25649.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: قوالب FRP والتصنيع المركب
       description: قوالب FRP مخصصة لمكونات SUP، تُنتج باستخدام تشكيل الألياف الزجاجية اليدوي بأنظمة راتنج بوليستر وفينيل إستر. وتُدحرج كل طبقة يدوياً وتُغلّف بالتفريغ لضمان جودة متسقة. ويوفر كشك رش الجلكوت تشطيباً بحرياً لامعاً ومقاوماً للأشعة فوق البنفسجية.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: طباعة وتزيين SUP
       description: تُزيّن ألواح SUP باستخدام الطباعة الرقمية للرسومات ملونة بالكامل والطباعة بالشاشة للشعارات والأنماط المتكررة. وتنتج الطابعات الرقمية تصاميم سطح بجودة الصورة، بينما توفر الطباعة بالشاشة علامات تجارية متينة وزاهية.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: التجميع النهائي والتجهيز
       description: خط تجميع تُنجز فيه نوى الغرزة الساقطة بتركيب الحواف، وتُلصق أسطح EVA، وتُركب الزعانف والصمامات والملحقات. ويتبع كل لوح قائمة تدقيق تجميع من 100 نقطة يوقع عليها قائد الفريق.
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: اختبار الجودة والفحص
       description: يخضع كل لوح مكتمل لاختبار إلزامي لاحتفاظ الهواء، والتحقق من تقشير المفاصل، وفحص كامل للأنظمة قبل الشحن. ويعمل مختبر الجودة لدينا بشكل مستقل عن الإنتاج ويبلغ الإدارة مباشرة.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 equipment_section:
   tagline: المعدات
   title: معدات التصنيع الرئيسية

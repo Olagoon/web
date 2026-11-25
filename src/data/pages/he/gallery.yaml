@@ -1,6 +1,6 @@
 meta:
   title: 'גלריה — SUP מתנפחים | {SITE}'
-  description: 'עיינו בגלריה של afarer: לוחות SUP מתנפחים, מפעל ותמונות ייצור מהמפעל המקצועי שלנו ללוחות חתירה.'
+  description: 'עיינו בגלריה של olagoon: לוחות SUP מתנפחים, מפעל ותמונות ייצור מהמפעל המקצועי שלנו ללוחות חתירה.'
   keywords:
     - 'תמונות SUP'
     - 'גלריית SUP מתנפח'
@@ -15,16 +15,16 @@ albums:
   - title: 'לוחות SUP'
     desc: 'לוחות SUP מתנפחים מסוג Drop-Stitch לטיולים, לגלישה, ליוגה ולדיג.'
     images:
-      - https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      - https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-      - https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp
+      - https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+      - https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp
   - title: 'מפעל וסדנה'
     desc: 'מתקן הייצור שלנו, בשטח 12,000 מ״ר, בצ׳ינגדאו שבסין.'
     images:
-      - https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
-      - https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
+      - https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 cta:
   title: 'רוצים לראות עוד?'

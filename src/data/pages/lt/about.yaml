@@ -1,6 +1,6 @@
 meta:
-  title: 'Apie Afarer — pripučiamų SUP lentų ir vandens sporto prekės ženklas | {SITE}'
-  description: 'Afarer yra pasaulinis pripučiamų SUP lentų ir vandens sporto prekės ženklas, valdomas Aquafarer LLC (JAV) ir kuriamas mūsų Cindao operacijų komandos. Sužinokite mūsų istoriją, inžineriją, sertifikuotą kokybę ir šalių partnerių programas.'
+  title: 'Apie OLagoon — pripučiamų SUP lentų ir vandens sporto prekės ženklas | {SITE}'
+  description: 'OLagoon yra pasaulinis pripučiamų SUP lentų ir vandens sporto prekės ženklas, valdomas Olagoon LLC (JAV) ir kuriamas mūsų Cindao operacijų komandos. Sužinokite mūsų istoriją, inžineriją, sertifikuotą kokybę ir šalių partnerių programas.'
   keywords:
     - 'pripučiamų SUP prekės ženklas'
     - 'vandens sporto prekės ženklas'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'Apie mus'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'afarer gamykla ir dirbtuvės'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'olagoon gamykla ir dirbtuvės'
   title: |
     Jūrinė inžinerija, <br />
-    sukurta taip, kaip daro <span class="text-accent dark:text-white">afarer</span>
+    sukurta taip, kaip daro <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'Pradėjome pakrantės dirbtuvėse su viena lenta ir atkakliu įsitikinimu: jūriniai produktai turi būti kuriami taip, lyg jie būtų svarbūs, nes jie ir yra svarbūs. Šiandien siunčiame į daugiau nei 40 šalių, tačiau kiekvienas korpusas vis dar praeina pro tas pačias rankas, įkūrusias įmonę.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Projektų po projekto dizainas komerciniams, mokslo ir kariniams klientams.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Lentų dizaino ir inžinerijos aptarimas'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Svarbiausi įvykiai'
-  subtitle: 'Trumpa afarer istorijos versija.'
+  subtitle: 'Trumpa olagoon istorijos versija.'
   isReversed: true
   items:
     - title: 'Įkurta pakrantės dirbtuvėse'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Siuntimas į 50+ šalių iš mūsų Cindao objekto su įgaliotais aptarnavimo partneriais visoje Europoje, Azijos ir Ramiojo vandenyno regione bei Amerikose.'
     link: /brand-global-presence/
     link_label: 'Sužinoti daugiau →'
-  - title: 'Kodėl afarer'
+  - title: 'Kodėl olagoon'
     desc: 'Prekės ženklas, sukurtas patikrintos kokybės pagrindu — dvigubas sertifikavimas (ISO 9001 + BSCI), CE atitiktis ir išskirtinės šalių partnerystės su ribotomis bendro prekės ženklo kolekcijomis vandens sporto įmonėms.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Sužinoti daugiau →'

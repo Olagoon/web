@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Resorts og hoteller
   title: Forvandl din strandfront til et indtægtscenter<br />med premium SUP-flåder
-  subtitle: Afarer udstyrer resorts i hele verden med oppustelige SUP-flåder i kommerciel kvalitet — fra startpakker med 20 bræt til flagship-programmer med 100+ bræt. Skræddersyet branding, personaleuddannelse og reservedele inkluderet.
+  subtitle: OLagoon udstyrer resorts i hele verden med oppustelige SUP-flåder i kommerciel kvalitet — fra startpakker med 20 bræt til flagship-programmer med 100+ bræt. Skræddersyet branding, personaleuddannelse og reservedele inkluderet.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Resortgæster nyder SUP-boarding på en uberørt strand
 roi_section:
   title: Resort-SUP-indtjeningsmodellen
@@ -20,7 +20,7 @@ roi_section:
       detail: Tjen hele flådeinvesteringen hjem på én sæson
     - metric: 40%
       label: Omsætningsstigning
-      detail: Gennemsnitlig forbedring efter skift til Afarer-flåder
+      detail: Gennemsnitlig forbedring efter skift til OLagoon-flåder
     - metric: 500+
       label: Udlejninger pr. board
       detail: Holdbarhed i kommerciel kvalitet til daglig brug
@@ -67,7 +67,7 @@ packages:
       revenue: Omsætningspotentiale på $200K+ om året
       cta_text: Få Flagship-pakken
 case_study:
-  quote: Siden vi skiftede til Afarer, er vores SUP-udlejningsomsætning steget med 40 %. Udgifterne til brædderstatning faldt med 60 %. Vi tjente hele vores flådeinvestering hjem på 4 måneder.
+  quote: Siden vi skiftede til OLagoon, er vores SUP-udlejningsomsætning steget med 40 %. Udgifterne til brædderstatning faldt med 60 %. Vi tjente hele vores flådeinvestering hjem på 4 måneder.
   author: Manager for vandaktiviteter
   location: 5-stjernet resort, Maldiverne
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Tilbagebetalingstid
       value: 4 måneder
 features:
-  title: Hvorfor resorts vælger Afarer
+  title: Hvorfor resorts vælger OLagoon
   subtitle: Holdbarhed i kommerciel klasse, global logistik og en partner, der forstår hotelbranchen.
   items:
     - title: 500+ udlejninger

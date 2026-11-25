@@ -1,6 +1,6 @@
 meta:
   title: 'Výrobný proces — od suroviny po SUP | {SITE}'
-  description: 'Od suroviny po SUP pripravenú na more: každý krok výrobného procesu afarer pod našou kontrolou, od strihania a zvárania po testovanie.'
+  description: 'Od suroviny po SUP pripravenú na more: každý krok výrobného procesu olagoon pod našou kontrolou, od strihania a zvárania po testovanie.'
   keywords:
     - 'výrobný proces sup'
     - 'továreň nafukovacích sup'
@@ -13,7 +13,7 @@ hero:
   back_label: 'Späť na továreň'
   back_link: /factory/
 
-intro: 'Na rozdiel od značiek, ktoré prenajímajú výrobu externým továrňam, afarer vlastní a prevádzkuje celý svoj výrobný reťazec. Táto vertikálna integrácia nám umožňuje udržiavať prísnu kontrolu kvality v každej fáze, rýchlo reagovať na zákazkové požiadavky a dodávať konzistentnú kvalitu produktu šaržu za šaržou. Takto sa v našom zariadení stavá doska.'
+intro: 'Na rozdiel od značiek, ktoré prenajímajú výrobu externým továrňam, olagoon vlastní a prevádzkuje celý svoj výrobný reťazec. Táto vertikálna integrácia nám umožňuje udržiavať prísnu kontrolu kvality v každej fáze, rýchlo reagovať na zákazkové požiadavky a dodávať konzistentnú kvalitu produktu šaržu za šaržou. Takto sa v našom zariadení stavá doska.'
 
 steps:
   - step: '01'
@@ -47,6 +47,6 @@ steps:
 
 cta:
   title: 'Pozrite si naše zariadenia a stroje'
-  desc: 'Preskúmajte priemyselné vybavenie za každou doskou afarer.'
+  desc: 'Preskúmajte priemyselné vybavenie za každou doskou olagoon.'
   label: 'Pozrieť vybavenie →'
   link: /factory/equipment/

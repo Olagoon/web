@@ -1,6 +1,6 @@
 meta:
   title: 'Uzticēšanās — kvalitāte, standarti un reputācija | {SITE}'
-  description: 'Kāpēc uzticēties afarer: CE un ISO sertifikāti, integrēta rūpnīca, globālas atsauksmes un garantija. Profesionāls piepūšamo SUP dēļu ražotājs.'
+  description: 'Kāpēc uzticēties olagoon: CE un ISO sertifikāti, integrēta rūpnīca, globālas atsauksmes un garantija. Profesionāls piepūšamo SUP dēļu ražotājs.'
   keywords:
     - 'uzticams sup ražotājs'
     - 'sertificēta airu dēļu rūpnīca'
@@ -8,16 +8,16 @@ meta:
     - 'sertificēta sup rūpnīca'
 hero:
   tagline: 'Radīts pēc standartiem, kas ir svarīgi'
-  title: 'Uzticies afarer'
+  title: 'Uzticies olagoon'
   subtitle: |
     Katrs mūsu izgatavotais produkts ir CE sertificēts — pārbaudīts drošumam,<br />
     izturībai un veiktspējai. Bez īsceļiem. Bez izņēmumiem.
   taglineSection: 'Sertificēts. Pārbaudīts. Pierādīts.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'afarer produkta kvalitātes testēšana'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'olagoon produkta kvalitātes testēšana'
 
 stats:
-  title: 'afarer skaitļos'
+  title: 'olagoon skaitļos'
   stats:
     - title: 'CE sertificēts'
       description: 'Visi atpūtas produkti atbilst ES drošības standartiem'
@@ -26,7 +26,7 @@ stats:
     - title: 'BSCI un REACH'
       description: 'Ētiska ražošana un materiālu atbilstība'
     - title: '3 gadu garantija'
-      description: 'Uz katru afarer produktu — bez liekiem jautājumiem'
+      description: 'Uz katru olagoon produktu — bez liekiem jautājumiem'
 
 features3_certifications:
   title: 'Sertifikāti un atbilstība'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'CE sertifikācija'
-      description: 'Visi afarer SUP dēļi atbilst Eiropas CE drošības standartam atpūtas lietošanai. Katrs produkts pirms rūpnīcas atstāšanas tiek pakļauts spiediena, peldspējas un slodzes testiem.'
+      description: 'Visi olagoon SUP dēļi atbilst Eiropas CE drošības standartam atpūtas lietošanai. Katrs produkts pirms rūpnīcas atstāšanas tiek pakļauts spiediena, peldspējas un slodzes testiem.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Mūsu 12,000 m² lielā Cindao rūpnīca darbojas saskaņā ar ISO 9001 kvalitātes vadības sistēmu. Katra ražošanas partija ir izsekojama, dokumentēta un pārbaudīta.'
@@ -50,21 +50,21 @@ features3_certifications:
       description: 'Iekšējā materiālu laboratorija pirms ražošanas pārbauda stiepes izturību, UV izturību, šuvju integritāti un pretberzes īpašības katrai auduma partijai.'
       icon: 'tabler:microscope'
     - title: '3 gadu garantija'
-      description: 'Katram afarer produktam ir trīs gadu garantija pret ražošanas defektiem. Mēs stāvam aiz tā, ko radām.'
+      description: 'Katram olagoon produktam ir trīs gadu garantija pret ražošanas defektiem. Mēs stāvam aiz tā, ko radām.'
       icon: 'tabler:shield-check'
 
 testimonials:
   tagline: 'Klientu uzticība'
   title: 'Ko saka mūsu klienti'
-  subtitle: 'No pirmajiem airētājiem līdz profesionāliem flotes operatoriem — uzziniet, kāpēc viņi uzticas afarer.'
+  subtitle: 'No pirmajiem airētājiem līdz profesionāliem flotes operatoriem — uzziniet, kāpēc viņi uzticas olagoon.'
   items:
-    - content: 'Mēs aprīkojām visu savu nomas floti ar afarer SUP dēļiem. Divas sezonas vēlāk — nulle avāriju. CE sertifikāts padarīja apdrošināšanas apstiprināšanu vienkāršu.'
+    - content: 'Mēs aprīkojām visu savu nomas floti ar olagoon SUP dēļiem. Divas sezonas vēlāk — nulle avāriju. CE sertifikāts padarīja apdrošināšanas apstiprināšanu vienkāršu.'
       name: 'Marco V.'
       title: 'Tūrisma operators, Horvātija'
     - content: 'Kā pircējs pirmajā reizē es raizējos par kvalitāti. ISO dokumentācija un testu atskaites, ar kurām viņi dalījās, deva man pilnīgu pārliecību.'
       name: 'James T.'
       title: 'SUP Explorer 11 īpašnieks, Kanāda'
-    - content: 'Mēs sadarbojamies ar afarer mūsu piekrastes patruļas vienībām. Viņu kvalitātes kontroles process ir nemainīgs katrai partijai — šī uzticamība ir svarīga misijai kritiskās operācijās.'
+    - content: 'Mēs sadarbojamies ar olagoon mūsu piekrastes patruļas vienībām. Viņu kvalitātes kontroles process ir nemainīgs katrai partijai — šī uzticamība ir svarīga misijai kritiskās operācijās.'
       name: 'Lt. Cmdr. Andres'
       title: 'Valsts iepirkumi, Filipīnas'
 
@@ -115,7 +115,7 @@ warranty_section:
   subtitle: 'Mēs stāvam aiz katra produkta ar skaidriem garantijas nosacījumiem, ātru prasījumu izskatīšanu un īstām rezerves daļām.'
   items:
     - title: '3 gadu produkta garantija'
-      desc: 'Visiem afarer produktiem ir 3 gadu garantija pret ražošanas defektiem — šuvju plīsumi, vārstu defekti un materiālu delaminācija normālā lietošanā.'
+      desc: 'Visiem olagoon produktiem ir 3 gadu garantija pret ražošanas defektiem — šuvju plīsumi, vārstu defekti un materiālu delaminācija normālā lietošanā.'
     - title: 'Detaļu atbalsts visu kalpošanas laiku'
       desc: 'Īstas rezerves daļas — vārsti, remonta komplekti, spuras, D-gredzeni — pieejamas visiem modeļiem. Mēs uzturam veidnes un iekārtas vismaz 5 gadus pēc ražošanas beigām.'
     - title: 'Atbilde uz prasījumiem 48 stundu laikā'
@@ -148,35 +148,35 @@ faqs_sup:
   subtitle: 'Bieži uzdotie jautājumi par mūsu stāvēšanas airu dēļiem.'
   columns: 2
   items:
-    - title: 'Kāda izmēra SUP dēļus afarer piedāvā?'
+    - title: 'Kāda izmēra SUP dēļus olagoon piedāvā?'
       description: 'Mēs piedāvājam SUP dēļus no 9 pēdām līdz 12 pēdām — no kompaktiem universāliem dēļiem līdz tūrisma un specializētiem dizainiem. Katrs modelis ir pieejams ar vairākām konfigurācijas opcijām.'
     - title: 'Kāda ir atšķirība starp piepūšamo SUP un cieto SUP?'
       description: 'Piepūšamais SUP izmanto Drop-Stitch konstrukciju ar tūkstošiem iekšēju diegu, kas ļauj izturēt augstu gaisa spiedienu, savukārt cietais SUP izmanto epoksīda vai stikla šķiedras materiālu. Piepūšamie SUP dēļi piedāvā pārvadāšanas un uzglabāšanas ērtību, nezaudējot stingrību.'
     - title: 'Kāds ir svara ierobežojums SUP dēļiem?'
       description: 'Mūsu SUP dēļi atkarībā no modeļa un tilpuma iztur līdz 150 kg. Katrā produkta lapā ir norādīts maksimālais slodzes vērtējums jūsu konkrētajam modelim.'
-    - title: 'Vai afarer SUP dēļi ir CE sertificēti?'
+    - title: 'Vai olagoon SUP dēļi ir CE sertificēti?'
       description: 'Jā. Visi atpūtas SUP modeļi ir CE sertificēti saskaņā ar piemērojamiem Eiropas standartiem atpūtas lietošanai.'
     - title: 'Kāda garantija attiecas uz SUP dēļiem?'
-      description: 'Visiem afarer SUP dēļiem ir standarta trīs gadu garantija pret ražošanas defektiem, kas aptver šuvju plīsumus, vārstu defektus un materiālu delamināciju normālā lietošanā.'
+      description: 'Visiem olagoon SUP dēļiem ir standarta trīs gadu garantija pret ražošanas defektiem, kas aptver šuvju plīsumus, vārstu defektus un materiālu delamināciju normālā lietošanā.'
     - title: 'Cik ilgs laiks nepieciešams SUP dēļa piepūšanai?'
-      description: 'Izmantojot komplektā iekļauto roku sūkni, pilna piepūšana līdz 15 PSI aizņem aptuveni 8–12 minūtes. Ātrākai piepūšanai mēs iesakām afarer 12V elektrisko sūkni, kas piepūš dēli mazāk nekā 4 minūtēs.'
+      description: 'Izmantojot komplektā iekļauto roku sūkni, pilna piepūšana līdz 15 PSI aizņem aptuveni 8–12 minūtes. Ātrākai piepūšanai mēs iesakām olagoon 12V elektrisko sūkni, kas piepūš dēli mazāk nekā 4 minūtēs.'
 
 faqs_materials:
   title: 'Biežāk uzdotie jautājumi par SUP materiāliem un kopšanu'
   subtitle: 'Bieži uzdotie jautājumi par mūsu piepūšamo SUP materiāliem, kopšanu un uzglabāšanu.'
   columns: 2
   items:
-    - title: 'Kādi materiāli tiek izmantoti afarer piepūšamajos SUP dēļos?'
+    - title: 'Kādi materiāli tiek izmantoti olagoon piepūšamajos SUP dēļos?'
       description: 'Mēs izmantojam militārā līmeņa PVC (1100 denjē) ar UV stabilizētu, pret berzi izturīgu konstrukciju, kas atbilst ES REACH un RoHS regulām.'
     - title: 'Cik ilgi kalpo piepūšamie SUP dēļi?'
       description: 'Ar pareizu kopšanu kvalitatīvs PVC piepūšamais SUP kalpo 5–10 gadus. Regulāra tīrīšana, UV aizsardzība un pareiza uzglabāšana ievērojami pagarina kalpošanas laiku.'
     - title: 'Kāda apkope ir nepieciešama piepūšamajam SUP?'
       description: 'Pamata apkope ietver skalošanu ar saldūdeni pēc katras lietošanas (īpaši sālsūdenī), izžāvēšanu pirms uzglabāšanas, vārstu blīvju pārbaudi reizi gadā un ilgstošas tiešas saules starojuma izvairīšanos, ja dēlis netiek lietots.'
     - title: 'Vai piepūšamos SUP dēļus var lietot sālsūdenī?'
-      description: 'Jā. Visi afarer piepūšamie SUP dēļi ir paredzēti lietošanai gan saldūdenī, gan sālsūdenī. Pēc sālsūdens lietošanas iesakām noskalot ar saldūdeni un rūpīgi izžāvēt.'
+      description: 'Jā. Visi olagoon piepūšamie SUP dēļi ir paredzēti lietošanai gan saldūdenī, gan sālsūdenī. Pēc sālsūdens lietošanas iesakām noskalot ar saldūdeni un rūpīgi izžāvēt.'
     - title: 'Kā uzglabāt piepūšamo SUP?'
       description: 'Pirms uzglabāšanas dēli atspiediet, notīriet un pilnībā izžāvējiet. Satiniet brīvi (izvairieties no ciešām krokām), uzglabājiet vēsā, sausā vietā prom no tiešiem saules stariem un turiet prom no betona grīdas, lai novērstu mitruma uzsūkšanos.'
-    - title: 'Kāda ir afarer piepūšamo SUP dēļu svarietilpība?'
+    - title: 'Kāda ir olagoon piepūšamo SUP dēļu svarietilpība?'
       description: 'Svarietilpība svārstās no 100 kg mazākajiem modeļiem līdz vairāk nekā 200 kg lielākajiem dēļiem. Katrā produkta lapā ir norādīts maksimālais slodzes vērtējums jūsu konkrētajam modelim.'
 
 cta:

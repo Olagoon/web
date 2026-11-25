@@ -1,13 +1,13 @@
 meta:
   title: Program Partnerski Dystrybucji SUP | {SITE}
-  description: Dołącz do globalnej sieci dystrybucji Afarer. Wyłączne terytoria, pełne portfolio produktów, konkurencyjne ceny hurtowe oraz dedykowane zarządzanie kontem.
+  description: Dołącz do globalnej sieci dystrybucji OLagoon. Wyłączne terytoria, pełne portfolio produktów, konkurencyjne ceny hurtowe oraz dedykowane zarządzanie kontem.
 hero:
   tagline: Dystrybutorzy
   title: Dołącz do naszej globalnej<br />sieci dystrybucji
-  subtitle: Ekskluzywne terytoria. Pełne portfolio produktów. Wsparcie na światowym poziomie. Afarer wysyła do ponad 50 krajów i szukamy ugruntowanych dystrybutorów sprzętu morskiego i sportów wodnych.
+  subtitle: Ekskluzywne terytoria. Pełne portfolio produktów. Wsparcie na światowym poziomie. OLagoon wysyła do ponad 50 krajów i szukamy ugruntowanych dystrybutorów sprzętu morskiego i sportów wodnych.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Afarer globalna dystrybucja i operacje wysyłkowe
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: OLagoon globalna dystrybucja i operacje wysyłkowe
 benefits:
   title: Co otrzymują dystrybutorzy
   subtitle: Wszystko, czego potrzebujesz, aby odnieść sukces na swoim rynku.
@@ -24,7 +24,7 @@ benefits:
     - Warunki płatności 45-60 dni
 coverage:
   title: Obecna dystrybucja
-  subtitle: Afarer obecnie obsługuje te rynki bezpośrednio.
+  subtitle: OLagoon obecnie obsługuje te rynki bezpośrednio.
   regions:
     - name: Europa
       countries: Francja, Niemcy, Wielka Brytania, Hiszpania, Włochy, Holandia, Szwecja, Norwegia, Polska, Grecja

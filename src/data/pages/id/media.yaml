@@ -1,8 +1,8 @@
 meta:
-  title: 'Pusat Media — Pers & Sumber Daya afarer | {SITE}'
-  description: 'Pusat media afarer: siaran pers, aset merek, dan sumber daya dari perusahaan manufaktur SUP tiup kami.'
+  title: 'Pusat Media — Pers & Sumber Daya olagoon | {SITE}'
+  description: 'Pusat media olagoon: siaran pers, aset merek, dan sumber daya dari perusahaan manufaktur SUP tiup kami.'
   keywords:
-    - 'pers afarer'
+    - 'pers olagoon'
     - 'media produsen sup'
     - 'kit pers papan dayung'
     - 'berita perusahaan nautika'
@@ -22,7 +22,7 @@ sections:
       - Aksesori & Peralatan Keselamatan
   - id: logo-brand-kit
     title: Logo & Kit Merek
-    desc: File logo resmi afarer, palet warna, tipografi, dan pedoman merek.
+    desc: File logo resmi olagoon, palet warna, tipografi, dan pedoman merek.
     items:
       - Logo Utama (PNG/SVG/EPS)
       - Ikon Merek
@@ -58,7 +58,7 @@ cta:
       desc: Lihat fasilitas manufaktur 12,000 m² kami
     - label: Pedoman merek
       href: /brand/
-      desc: Pelajari tentang merek afarer
+      desc: Pelajari tentang merek olagoon
     - label: Jadi mitra kami
       href: /contact/
       desc: Pertanyaan OEM, ODM, dan distribusi

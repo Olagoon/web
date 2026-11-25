@@ -1,6 +1,6 @@
 meta:
   title: 'Eluviis — sõudmine, seiklus ja avastamine | {SITE}'
-  description: 'Avasta afarer eluviisi: sõudeseiklused, vee avastamine ja välisõue kogemused täispuhutavate SUP-ide ja laudadega.'
+  description: 'Avasta olagoon eluviisi: sõudeseiklused, vee avastamine ja välisõue kogemused täispuhutavate SUP-ide ja laudadega.'
   keywords:
     - 'supi eluviis'
     - 'sõudeseiklused'
@@ -8,7 +8,7 @@ meta:
     - 'veespordi eluviis'
 hero:
   tagline: 'Eluviis'
-  title: 'afarer<br />eluviis'
+  title: 'olagoon<br />eluviis'
   subtitle: 'Loodud neile, kes elavad vee peal — alates nädalalõpu avastajatest kuni kommertsoperaatoriteni, kes loevad oma varustusele igapäevaselt.'
 
 values:
@@ -38,7 +38,7 @@ ethos_section:
 
 community_section:
   tagline: 'Kogukond'
-  title: 'Liitu afarer kogukonnaga'
+  title: 'Liitu olagoon kogukonnaga'
   subtitle: 'Jälgi meie teekonda ja jaga oma seiklusi vees.'
   instagram: 'Jälgi Instagramis'
   youtube: "Telli YouTube'is"

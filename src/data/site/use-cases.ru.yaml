@@ -10,7 +10,7 @@ cases:
       - SUP Explorer 11
       - Life Vest Classic
       - Dual-Action Pump
-    image: https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp
+    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
   - id: outdoor
     title: 'Исследование природы'
     desc: 'Портативные SUP-доски для рек, озёр и прибрежных походов.'
@@ -22,7 +22,7 @@ cases:
       - SUP Explorer 11
       - Carbon Paddle
       - Life Vest Classic
-    image: https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
   - id: family
     title: 'Семейный отдых'
     desc: 'Устойчивые SUP-доски для однодневных поездок и водных развлечений.'
@@ -34,4 +34,4 @@ cases:
       - SUP Explorer 11
       - Life Vest Classic
       - Dual-Action Pump
-    image: https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp
+    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp

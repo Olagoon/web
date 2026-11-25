@@ -106,7 +106,7 @@ const ACCEPT_LANG_MAP: Record<string, string> = {
   tl: 'tl',
 };
 
-const ASSETS_BASE = 'https://assets.afarer.com';
+const ASSETS_BASE = 'https://assets.olagoon.com';
 const I18N_EXCLUDED = [
   '/api',
   '/keystatic',
@@ -142,7 +142,7 @@ const I18N_EXCLUDED = [
   // below turns them into live 404s (dist root asset exists but is never served)
   '/ai-context',
   '/thank-you',
-  '/about/afarer-brand',
+  '/about/olagoon-brand',
   '/bundles',
   '/guides/kayak-techniques',
   '/resources/download-catalog',
@@ -168,11 +168,11 @@ const ASSET_PREFIXES = ['/images', '/files'];
 // language-prefixed request keeps its prefix; a root request gets a root
 // target which the i18n logic below then localizes.
 const LEGACY_REDIRECTS: Record<string, string> = {
-  '/about/afarer': '/about/',
-  '/aquafarer': '/about/',
-  '/brand': '/afarer-story/',
-  '/brand/afarer': '/afarer-story/',
-  '/brand-story': '/afarer-story/',
+  '/about/olagoon': '/about/',
+  '/olagoon': '/about/',
+  '/brand': '/olagoon-story/',
+  '/brand/olagoon': '/olagoon-story/',
+  '/brand-story': '/olagoon-story/',
   '/oem-process': '/oem-odm-manufacturer/',
   '/oem-odm': '/oem-odm-manufacturer/',
   '/quality-testing': '/quality/',

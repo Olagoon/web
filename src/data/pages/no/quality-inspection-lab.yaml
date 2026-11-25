@@ -7,8 +7,8 @@ hero:
   tagline: Lab 06
   title: Kvalitets- og inspeksjonslaboratorium
   subtitle: Uavhengig verifisering — enhver test bestått før levering
-  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
-  image_alt: Afarer kvalitetsinspeksjonslaboratorium UV-testing
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
+  image_alt: OLagoon kvalitetsinspeksjonslaboratorium UV-testing
 intro: >-
   Hvert brett som forlater vårt verksted bærer sertifiseringen på at det har bestått et definert sett kvalitetsinspeksjoner og materialtester. Vårt kvalitets- og inspeksjonslaboratorium er en uavhengig funksjon i organisasjonen — det rapporterer direkte til administrerende direktør, ikke til produksjon
   — noe som sikrer at intet kommersielt press kan kompromittere inspeksjonsporten. Hvis et materialparti eller et ferdig brett ikke oppfyller den publiserte spesifikasjonen, har laboratoriet myndighet til å stanse forsendelsen til ikke-samsvar er løst.
@@ -128,7 +128,7 @@ content_html: >
 
   <h2>Vårt engasjement overfor deg</h2>
 
-  <p>Når du mottar et Afarer-brett, mottar du også dets kvalitetsdokumentasjon — en kompilert register over testresultatene som gjelder for ditt spesifikke brett. Stoffbatch-sertifikat, sveisepeeltester, kammer-lufttestlogger og forleveringsinspeksjonssjekkliste. Hvert tall er sporbar. Hver
+  <p>Når du mottar et OLagoon-brett, mottar du også dets kvalitetsdokumentasjon — en kompilert register over testresultatene som gjelder for ditt spesifikke brett. Stoffbatch-sertifikat, sveisepeeltester, kammer-lufttestlogger og forleveringsinspeksjonssjekkliste. Hvert tall er sporbar. Hver
   inspektør er identifisert. Dette er ikke bare papirarbeid — det er vårt løfte om det vi leverte er det vi spesifiserte.</p>
 
   <p>Hvis du noen gang har en kvalitetsbekymring, kan du kontakte laboratoriet direkte — kontaktinformasjonen er utskrevet på samsvarserklæringen din. Vi tar ethvert spørsmål alvorlig og forplikter oss til en formell undersøkelse innen 48 timer.</p>

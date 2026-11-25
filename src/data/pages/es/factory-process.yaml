@@ -1,6 +1,6 @@
 meta:
   title: 'Proceso de Fabricación — De la Materia Prima al SUP | {SITE}'
-  description: 'De la materia prima al SUP listo para el mar: cada paso del proceso de fabricación de afarer bajo nuestro control, del corte y la soldadura a las pruebas.'
+  description: 'De la materia prima al SUP listo para el mar: cada paso del proceso de fabricación de olagoon bajo nuestro control, del corte y la soldadura a las pruebas.'
   keywords:
     - 'proceso de fabricación de SUP'
     - 'fábrica de SUP hinchable'
@@ -13,7 +13,7 @@ hero:
   back_label: Volver a la fábrica
   back_link: /factory/
 intro: >-
-  A diferencia de las marcas que subcontratan la producción a fábricas de terceros, afarer posee y opera toda su cadena de fabricación. Esta integración vertical nos permite mantener un estricto control de calidad en cada etapa, responder rápidamente a los requisitos personalizados y entregar una
+  A diferencia de las marcas que subcontratan la producción a fábricas de terceros, olagoon posee y opera toda su cadena de fabricación. Esta integración vertical nos permite mantener un estricto control de calidad en cada etapa, responder rápidamente a los requisitos personalizados y entregar una
   calidad de producto constante lote tras lote. Así es como se construye una tabla en nuestras instalaciones.
 steps:
   - step: '01'
@@ -58,6 +58,6 @@ steps:
     duration: 1 día
 cta:
   title: Conoce nuestro equipamiento y maquinaria
-  desc: Explora el equipamiento de grado industrial detrás de cada tabla afarer.
+  desc: Explora el equipamiento de grado industrial detrás de cada tabla olagoon.
   label: Ver equipamiento →
   link: /factory/equipment/

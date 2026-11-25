@@ -1,6 +1,6 @@
 meta:
   title: 'Global Tilstedeværelse — SUP-producent i 50+ lande | {SITE}'
-  description: "afarer eksporterer oppustelige SUP'er til over 50 lande på alle kontinenter. Professionel producent og leverandør til brands, distributører og flåder."
+  description: "olagoon eksporterer oppustelige SUP'er til over 50 lande på alle kontinenter. Professionel producent og leverandør til brands, distributører og flåder."
   keywords:
     - 'global SUP-producent'
     - 'paddle board eksportør'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Global tilstedeværelse
   title: Betjener 50+ lande<br />over alle kontinenter
-  subtitle: Fra europæiske kystpatruljeoperatører til australske vandsportsdistributører til redningsteams i Mellemøsten — afarer-boards er på vandet verden over.
+  subtitle: Fra europæiske kystpatruljeoperatører til australske vandsportsdistributører til redningsteams i Mellemøsten — olagoon-boards er på vandet verden over.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer global produktion og distribution af marineprodukter
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon global produktion og distribution af marineprodukter
 stats:
   title: Global rækkevidde
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: 'Lager i Montclair, CA til hurtig levering på tværs af Nordamerika. Vestkysten: 2-3 dage, Centralt: 3-4 dage, Østkysten: 4-5 dage.'
       icon: tabler:building-warehouse
     - title: Reservedele
-      description: Ægte afarer-reservedele og forbrugsvarer på lager året rundt. Almindelige dele sendes inden for 24 timer.
+      description: Ægte olagoon-reservedele og forbrugsvarer på lager året rundt. Almindelige dele sendes inden for 24 timer.
       icon: tabler:package
     - title: Teknisk support
       description: Direkte linje til vores ingeniørteam for tekniske spørgsmål, reparationsråd og support til reservedele. Vi støtter boards, vi byggede for 20 år siden.

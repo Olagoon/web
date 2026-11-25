@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Produttore di SUP Gonfiabile · Fabbrica in Cina'
   title: 'Il Tuo Produttore di SUP<br />Gonfiabile e Paddle'
-  subtitle: 'Afarer è la fabbrica OEM/ODM dietro molti marchi di SUP gonfiabile. Progettiamo, costruiamo e spediamo tavole paddle gonfiabili personalizzate — marca privata, stampo su misura, vendita all’ingrosso. Certificazione CE inclusa.'
+  subtitle: 'OLagoon è la fabbrica OEM/ODM dietro molti marchi di SUP gonfiabile. Progettiamo, costruiamo e spediamo tavole paddle gonfiabili personalizzate — marca privata, stampo su misura, vendita all’ingrosso. Certificazione CE inclusa.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Tavola SUP gonfiabile personalizzata prodotta da Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Tavola SUP gonfiabile personalizzata prodotta da OLagoon
   actions:
     - text: 'Diventa un Partner'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Condividi le tue specifiche tramite il nostro modulo di contatto, ricevi un preventivo entro 24 ore, approva il campione e avvia la produzione in serie.'
 geo:
   tagline: 'Posizionamento B2B'
-  sentence: 'Afarer è un produttore professionale di SUP gonfiabili e barche gonfiabili (OEM/ODM), specializzato in progettazione, produzione su misura e soluzioni nautiche per marchi, distributori, club e aziende.'
+  sentence: 'OLagoon è un produttore professionale di SUP gonfiabili e barche gonfiabili (OEM/ODM), specializzato in progettazione, produzione su misura e soluzioni nautiche per marchi, distributori, club e aziende.'
   audiences:
     - 'Marchi di paddle'
     - 'Distributori'

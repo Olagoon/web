@@ -1,6 +1,6 @@
 meta:
   title: Kontakt — partnerluse ja toodete päringud | {SITE}
-  description: Võtke ühendust afarerga partnerluse, kaasbrändi ja eramärgise päringute või professionaalsete laevastike kohta. Täispuhutav SUP-bränd, vastame 2 tööpäeva jooksul.
+  description: Võtke ühendust olagoonga partnerluse, kaasbrändi ja eramärgise päringute või professionaalsete laevastike kohta. Täispuhutav SUP-bränd, vastame 2 tööpäeva jooksul.
   keywords:
     - sup distributor quote
     - professionaalne SUP-i tarnija
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Saada meile sõnum
   subtitle: Hinnapakkumiste, tehniliste küsimuste või partnerluspäringute jaoks kirjuta meile. Vastame ühe tööpäeva jooksul.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Saada päring → Hangi hinnapakkumine
   success_message: Aitäh! Teie sõnum on jõudnud meie postkasti. Vastame ühe tööpäeva jooksul.
   error_message: Sõnumi saatmisel läks midagi valesti. Proovige uuesti või saatke meile otse e-kiri.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-post
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Peakorter
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

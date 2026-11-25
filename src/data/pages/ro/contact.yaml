@@ -1,8 +1,8 @@
 meta:
   title: 'Contact — întrebări despre parteneriat și produse SUP | {SITE}'
-  description: 'Contactați afarer pentru întrebări despre parteneriat, co-brand și private label sau flote profesionale. Brand de plăci de SUP gonflabile, răspundem în 2 zile lucrătoare.'
+  description: 'Contactați olagoon pentru întrebări despre parteneriat, co-brand și private label sau flote profesionale. Brand de plăci de SUP gonflabile, răspundem în 2 zile lucrătoare.'
   keywords:
-    - 'contact afarer'
+    - 'contact olagoon'
     - 'întrebare distribuitor SUP'
     - 'furnizor profesionist SUP'
     - 'contact producător SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Trimiteți-ne un mesaj
   subtitle: Pentru oferte, întrebări tehnice sau solicitări de parteneriat, scrieți-ne. Răspundem într-o zi lucrătoare.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Trimite solicitarea → Obține o ofertă
   success_message: Mulțumim! Mesajul dvs. a ajuns în căsuța noastră poștală. Vom răspunde într-o zi lucrătoare.
   error_message: Ceva a mers greșit la trimiterea mesajului. Încercați din nou sau trimiteți-ne un e-mail direct.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-mail
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Sediu central
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

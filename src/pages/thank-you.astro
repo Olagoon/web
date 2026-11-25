@@ -40,7 +40,7 @@ import Headline from '~/components/ui/Headline.astro';
       </div>
       <p class="mt-8 text-sm text-muted dark:text-slate-400">
         Didn't receive a reply? Check your spam folder, or email us directly at
-        <a href="mailto:info@afarer.com" class="text-primary underline underline-offset-2">info@afarer.com</a>.
+        <a href="mailto:info@olagoon.com" class="text-primary underline underline-offset-2">info@olagoon.com</a>.
       </p>
     </div>
   </section>
@@ -51,7 +51,7 @@ import Headline from '~/components/ui/Headline.astro';
     // redirect; consume-and-clear here so refresh/back-forward never recount.
     (function () {
       try {
-        const raw = sessionStorage.getItem('afarer_inquiry');
+        const raw = sessionStorage.getItem('olagoon_inquiry');
         if (!raw) return;
         const inquiry = JSON.parse(raw);
         window.dataLayer = window.dataLayer || [];
@@ -67,7 +67,7 @@ import Headline from '~/components/ui/Headline.astro';
       } catch {
         /* ignore malformed session data */
       }
-      sessionStorage.removeItem('afarer_inquiry');
+      sessionStorage.removeItem('olagoon_inquiry');
     })();
   </script>
 </Layout>

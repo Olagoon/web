@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Proizvođač napuhivih SUP dasaka · Tvornica u Kini'
   title: 'Vaš proizvođač napuhivih SUP<br />i paddleboard dasaka'
-  subtitle: 'Afarer je OEM/ODM tvornica koja stoji iza mnogih marki napuhivih SUP dasaka. Dizajniramo, izrađujemo i isporučujemo prilagođene napuhive daske za veslanje — privatna marka, prilagođeni kalup, veleprodaja. CE certifikat uključen.'
+  subtitle: 'OLagoon je OEM/ODM tvornica koja stoji iza mnogih marki napuhivih SUP dasaka. Dizajniramo, izrađujemo i isporučujemo prilagođene napuhive daske za veslanje — privatna marka, prilagođeni kalup, veleprodaja. CE certifikat uključen.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Prilagođena napuhiva SUP daska koju je proizveo Afarer'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Prilagođena napuhiva SUP daska koju je proizveo OLagoon'
   actions:
     - text: 'Postanite partner'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Podijelite svoju specifikaciju putem našeg kontaktnog obrasca, primite ponudu u roku od 24 sata, odobrite uzorak, a zatim započnite serijsku proizvodnju.'
 geo:
   tagline: 'B2B pozicioniranje'
-  sentence: 'Afarer je profesionalni proizvođač napuhivih SUP dasaka (OEM/ODM), specijaliziran za dizajn, prilagođenu proizvodnju i nautička rješenja za marke, distributere, klubove i tvrtke.'
+  sentence: 'OLagoon je profesionalni proizvođač napuhivih SUP dasaka (OEM/ODM), specijaliziran za dizajn, prilagođenu proizvodnju i nautička rješenja za marke, distributere, klubove i tvrtke.'
   audiences:
     - 'Marke za veslanje'
     - 'Distributeri'

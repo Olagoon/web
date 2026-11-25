@@ -13,7 +13,7 @@ const slugs = [
 const locales = ['hr', 'hu', 'sk', 'bg', 'sl', 'sr', 'id', 'he', 'ms', 'lt', 'lv', 'et', 'tl'];
 let allOk = true;
 for (const l of locales) {
-  const c = fs.readFileSync('E:/github/afarer/src/i18n/generated/ui/' + l + '.ts', 'utf8');
+  const c = fs.readFileSync('E:/github/olagoon/src/i18n/generated/ui/' + l + '.ts', 'utf8');
   const miss = slugs.filter(
     (s) => !c.includes('"learn.' + s + '.title"') || !c.includes('"learn.' + s + '.description"')
   );

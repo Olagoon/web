@@ -88,7 +88,7 @@ const SCRIPT_RULES = {
 const EN_WORDS =
   /(?<![\p{L}\p{N}-])(the|and|with|your|from|this|that|will|should|must|without|between|their|about|which|when|where|while|also|more|most|best|only|every|each|other|into|onto|over|under|after|before|during|because|however|please|thank)(?![\p{L}\p{N}-])/giu;
 const BRANDS = [
-  'afarer',
+  'olagoon',
   'SUP Explorer 11',
   'SUP Tour 12',
   'SUP Ocean Pulse',

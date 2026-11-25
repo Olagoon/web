@@ -1,18 +1,18 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://afarer.com/#organization",
-  "name": "afarer",
-  "alternateName": "afarer Marine",
-  "url": "https://afarer.com",
-  "description": "afarer is a global water sports equipment and marine innovation partner — designing and manufacturing premium inflatable SUP boards and custom marine solutions for brands, distributors, and professionals worldwide.",
+  "@id": "https://olagoon.com/#organization",
+  "name": "olagoon",
+  "alternateName": "olagoon Marine",
+  "url": "https://olagoon.com",
+  "description": "olagoon is a global water sports equipment and marine innovation partner — designing and manufacturing premium inflatable SUP boards and custom marine solutions for brands, distributors, and professionals worldwide.",
   "industry": "Marine Equipment Manufacturing",
   "foundingDate": "2012",
   "isicV4": "3012",
   "numberOfEmployees": "200+",
   "location": {
     "@type": "Place",
-    "name": "Aquafarer LLC Headquarters",
+    "name": "Olagoon LLC Headquarters",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "1209 Mountain Road PL NE STE N",
@@ -23,38 +23,79 @@
     }
   },
   "areaServed": [
-    { "@type": "Country", "name": "United States" },
-    { "@type": "Country", "name": "Germany" },
-    { "@type": "Country", "name": "France" },
-    { "@type": "Country", "name": "United Kingdom" },
-    { "@type": "Country", "name": "Australia" },
-    { "@type": "Country", "name": "Japan" },
-    { "@type": "Country", "name": "Spain" },
-    { "@type": "Country", "name": "Italy" },
-    { "@type": "Country", "name": "Netherlands" },
-    { "@type": "Country", "name": "United Arab Emirates" },
-    { "@type": "Country", "name": "China" }
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
+      "@type": "Country",
+      "name": "Germany"
+    },
+    {
+      "@type": "Country",
+      "name": "France"
+    },
+    {
+      "@type": "Country",
+      "name": "United Kingdom"
+    },
+    {
+      "@type": "Country",
+      "name": "Australia"
+    },
+    {
+      "@type": "Country",
+      "name": "Japan"
+    },
+    {
+      "@type": "Country",
+      "name": "Spain"
+    },
+    {
+      "@type": "Country",
+      "name": "Italy"
+    },
+    {
+      "@type": "Country",
+      "name": "Netherlands"
+    },
+    {
+      "@type": "Country",
+      "name": "United Arab Emirates"
+    },
+    {
+      "@type": "Country",
+      "name": "China"
+    }
   ],
   "contactPoint": [
     {
       "@type": "ContactPoint",
       "telephone": "+1-279-732-3333",
       "contactType": "sales",
-      "availableLanguage": ["English", "Chinese", "French", "Spanish", "Arabic", "German"]
+      "availableLanguage": [
+        "English",
+        "Chinese",
+        "French",
+        "Spanish",
+        "Arabic",
+        "German"
+      ]
     },
     {
       "@type": "ContactPoint",
       "telephone": "+1-279-732-3333",
       "contactType": "customer service",
-      "availableLanguage": ["English", "Chinese"]
+      "availableLanguage": [
+        "English",
+        "Chinese"
+      ]
     }
   ],
   "sameAs": [
-    "https://www.youtube.com/@afarer",
-    "https://x.com/afarer",
-    "https://www.instagram.com/afarer_watersports/",
-    "https://www.facebook.com/profile.php?id=61572404318679",
-    "https://www.linkedin.com/company/afarer"
+    "https://www.youtube.com/@TheOlagoon",
+    "https://www.facebook.com/TheOlagoon",
+    "https://www.linkedin.com/company/olagoon"
   ],
   "foundingLocation": {
     "@type": "Place",
@@ -65,24 +106,74 @@
     }
   },
   "makesOffer": [
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "OEM Manufacturing" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "ODM Services" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Private Label Manufacturing" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Custom Mold Development" } },
-    { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Product Design & Engineering" } }
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "OEM Manufacturing"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "ODM Services"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Private Label Manufacturing"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Custom Mold Development"
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Product Design & Engineering"
+      }
+    }
   ],
   "hasCertification": [
     {
       "@type": "Certification",
       "name": "CE Certification",
-      "authority": { "@type": "Organization", "name": "European Union" }
+      "authority": {
+        "@type": "Organization",
+        "name": "European Union"
+      }
     },
-    { "@type": "Certification", "name": "ISO 9001:2015", "authority": { "@type": "Organization", "name": "SGS" } },
-    { "@type": "Certification", "name": "BSCI Compliance", "authority": { "@type": "Organization", "name": "amfori" } },
+    {
+      "@type": "Certification",
+      "name": "ISO 9001:2015",
+      "authority": {
+        "@type": "Organization",
+        "name": "SGS"
+      }
+    },
+    {
+      "@type": "Certification",
+      "name": "BSCI Compliance",
+      "authority": {
+        "@type": "Organization",
+        "name": "amfori"
+      }
+    },
     {
       "@type": "Certification",
       "name": "UKCA Marking",
-      "authority": { "@type": "Organization", "name": "UK Government" }
+      "authority": {
+        "@type": "Organization",
+        "name": "UK Government"
+      }
     }
   ],
   "knowsAbout": [
@@ -93,19 +184,8 @@
     "RF Welding Technology",
     "Marine Safety Standards (EN ISO 25649, SOLAS)"
   ],
-  "sameAs": [
-    "https://www.youtube.com/@afarer",
-    "https://x.com/afarer",
-    "https://www.instagram.com/afarer_watersports/",
-    "https://www.facebook.com/profile.php?id=61572404318679",
-    "https://www.linkedin.com/company/afarer",
-    "https://afarer.en.alibaba.com",
-    "https://afarer.en.made-in-china.com",
-    "https://www.nauticexpo.com/shipbuilder/afarer-129340.html",
-    "https://www.globalspec.com/supplier/afarer"
-  ],
   "parentOrganization": {
     "@type": "Organization",
-    "name": "Aquafarer LLC"
+    "name": "Olagoon LLC"
   }
 }

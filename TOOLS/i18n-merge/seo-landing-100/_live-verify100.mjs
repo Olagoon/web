@@ -1,10 +1,10 @@
 import { readFileSync } from 'fs';
 import { createRequire } from 'module';
 
-const require = createRequire('file:///E:/github/afarer/package.json');
+const require = createRequire('file:///E:/github/olagoon/package.json');
 const yaml = require('js-yaml');
 
-const ROOT = 'E:/github/afarer/src/data/pages/';
+const ROOT = 'E:/github/olagoon/src/data/pages/';
 const NEW_LOCALES = ['de'];
 const PAGES = [
   'oem-paddle',
@@ -24,7 +24,7 @@ const decode = (s) =>
     .replace(/&gt;/g, '>');
 
 const fetchHtml = async (p) => {
-  const res = await fetch('https://afarer.com' + p, { redirect: 'follow' });
+  const res = await fetch('https://olagoon.com' + p, { redirect: 'follow' });
   if (!res.ok) return { err: 'HTTP ' + res.status };
   return { html: decode(await res.text()) };
 };

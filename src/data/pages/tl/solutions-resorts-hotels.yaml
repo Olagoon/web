@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Mga Resort at Hotel'
   title: 'Gawing Sentro ng Kita ang Iyong Tabing-Dagat<br />Sa Mga Premium na SUP Fleet'
-  subtitle: 'Sinusuplayan ng Afarer ang mga resort sa buong mundo ng mga fleet ng komersyal na antas na inflatable SUP — mula sa starter package na 20 board hanggang sa flagship program na 100+ board. Kasama ang custom branding, pagsasanay ng tauhan, at mga piyesang pamalit.'
+  subtitle: 'Sinusuplayan ng OLagoon ang mga resort sa buong mundo ng mga fleet ng komersyal na antas na inflatable SUP — mula sa starter package na 20 board hanggang sa flagship program na 100+ board. Kasama ang custom branding, pagsasanay ng tauhan, at mga piyesang pamalit.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Mga bisita ng resort na nag-e-enjoy sa SUP boarding sa malinis na beach'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Mababawi ang buong pamumuhunan sa fleet sa loob ng isang season'
     - metric: '40%'
       label: 'Pagtaas ng Kita'
-      detail: 'Karaniwang dagdag pagkatapos lumipat sa mga fleet ng Afarer'
+      detail: 'Karaniwang dagdag pagkatapos lumipat sa mga fleet ng OLagoon'
     - metric: '500+'
       label: 'Mga Siklo ng Rental Kada Board'
       detail: 'Tibay na antas-komersyal para sa araw-araw na paggamit'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Kunin ang Flagship Package'
 
 case_study:
-  quote: 'Mula nang lumipat sa Afarer, tumaas ng 40% ang aming kita sa SUP rental. Bumaba ng 60% ang gastos sa pagpapalit ng board. Nabawi namin ang buong pamumuhunan sa fleet sa loob ng 4 buwan.'
+  quote: 'Mula nang lumipat sa OLagoon, tumaas ng 40% ang aming kita sa SUP rental. Bumaba ng 60% ang gastos sa pagpapalit ng board. Nabawi namin ang buong pamumuhunan sa fleet sa loob ng 4 buwan.'
   author: 'Manager ng mga Aktibidad sa Tubig'
   location: '5-star resort, Maldives'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 Buwan'
 
 features:
-  title: 'Bakit Pinipili ng mga Resort ang Afarer'
+  title: 'Bakit Pinipili ng mga Resort ang OLagoon'
   subtitle: 'Tibay na antas-komersyal, global na lohestika, at partner na tumutugon sa pangangailangan ng hospitality.'
   items:
     - title: '500+ Siklo ng Rental'

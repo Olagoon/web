@@ -23,7 +23,7 @@ module.exports = {
       'SUP-leksjoner',
     ],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Vår Historie — Produsent av oppblåsbare SUPer & båter | {SITE}',
     description:
       'Fra et kystverksted til en global marinprodusent: afars historie om teknikk og frihet på vannet med en sertifisert fabrikk på 12 000 m².',
@@ -52,7 +52,7 @@ module.exports = {
       'Grunnlagt i 2012 i Qingdao ble afar bygget av mariningeniører, materialforskere og vannsportentusiaster. Møt teamet bak fabrikken.',
     keywords: ['afar team', 'mariningeniører', 'produsent av oppblåsbare SUP', 'SUP-fabrikkteam'],
   },
-  'brand-why-afarer': {
+  'brand-why-olagoon': {
     title: 'Hvorfor afar — 7 grunner til at globale merker velger oss | {SITE}',
     description:
       'Hvorfor globale merker velger afar: CE- og ISO-sertifiseringer, fleksibel MOQ, tilpassede former og 30 dagers leveringstid fra en profesjonell SUP-fabrikk.',

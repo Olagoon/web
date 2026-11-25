@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 05'
   title: 'Prototype Workshop'
   subtitle: 'From CAD model to water-ready board — built, fitted, and proven'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp'
-  image_alt: 'Afarer prototype workshop board fabrication'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
+  image_alt: 'OLagoon prototype workshop board fabrication'
 
-intro: 'A CAD model, no matter how detailed, cannot reveal how a board will actually handle until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready board as quickly and accurately as possible. Every new Afarer model — and every significant custom build — passes through this workshop before the production tooling is committed.'
+intro: 'A CAD model, no matter how detailed, cannot reveal how a board will actually handle until it meets the water. That is why our Prototype Workshop is designed to translate engineering data into a physical, water-ready board as quickly and accurately as possible. Every new OLagoon model — and every significant custom build — passes through this workshop before the production tooling is committed.'
 
 content_html: |
   <h2>Where design becomes reality</h2>

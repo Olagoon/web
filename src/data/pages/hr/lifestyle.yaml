@@ -1,6 +1,6 @@
 meta:
   title: 'Lifestyle — Veslanje, avantura i istraživanje | {SITE}'
-  description: 'Istražite afarer lifestyle: veslačke avanture, istraživanje voda i iskustva na otvorenom s napuhivim SUP daskama.'
+  description: 'Istražite olagoon lifestyle: veslačke avanture, istraživanje voda i iskustva na otvorenom s napuhivim SUP daskama.'
   keywords:
     - 'sup lifestyle'
     - 'veslačke avanture'
@@ -8,7 +8,7 @@ meta:
     - 'lifestyle vodenih sportova'
 hero:
   tagline: 'Lifestyle'
-  title: 'afarer<br />lifestyle'
+  title: 'olagoon<br />lifestyle'
   subtitle: 'Izgrađeno za one koji žive na vodi — od vikend istraživača do komercijalnih operatera koji se svakog dana oslanjaju na svoju opremu.'
 
 values:
@@ -38,7 +38,7 @@ ethos_section:
 
 community_section:
   tagline: 'Zajednica'
-  title: 'Pridružite se zajednici afarer'
+  title: 'Pridružite se zajednici olagoon'
   subtitle: 'Pratite naše putovanje i podijelite svoje avanture na vodi.'
   instagram: 'Pratite na Instagramu'
   youtube: 'Pretplatite se na YouTube'

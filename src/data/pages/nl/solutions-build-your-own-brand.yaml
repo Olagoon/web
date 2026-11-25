@@ -1,12 +1,12 @@
 meta:
   title: Private label SUP-fabricage | {SITE}
-  description: Start je eigen SUP-merk met Afarer. Van idee tot markt — volledige OEM/ODM-service inclusief ontwerp, prototyping, productie en wereldwijde logistiek.
+  description: Start je eigen SUP-merk met OLagoon. Van idee tot markt — volledige OEM/ODM-service inclusief ontwerp, prototyping, productie en wereldwijde logistiek.
 hero:
   tagline: Bouw je eigen merk
   title: Start je eigen<br />SUP-merk
   subtitle: Jij hebt de visie. Wij hebben de fabriek, de expertise en de toeleveringsketen. Samen zullen we een merk opbouwen dat opvalt.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Op maat gemaakte SUP-board met merk op het water
 process:
   title: Je Merkreis
@@ -77,7 +77,7 @@ packages:
         - Marketingmateriaal
         - Prioriteitsproductie
 features:
-  title: Waarom merken voor Afarer kiezen
+  title: Waarom merken voor OLagoon kiezen
   subtitle: 10 jaar OEM-ervaring, volledige certificering en de laagste MOQ in de sector.
   items:
     - title: 10 jaar OEM-ervaring

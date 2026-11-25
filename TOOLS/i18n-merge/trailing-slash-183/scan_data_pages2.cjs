@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer/src/data/pages';
+const ROOT = 'E:/github/olagoon/src/data/pages';
 const FILE_RE = /\/[^/]*\.[a-z0-9]+$/i;
 const summary = new Map();
 
@@ -20,7 +20,7 @@ function add(href, fp) {
   if (base.endsWith('/')) return;
   if (FILE_RE.test(base)) return;
   if (!summary.has(href)) summary.set(href, new Set());
-  summary.get(href).add(fp.replace(/\\/g, '/').replace('E:/github/afarer/src/data/pages/', ''));
+  summary.get(href).add(fp.replace(/\\/g, '/').replace('E:/github/olagoon/src/data/pages/', ''));
 }
 
 function scan(fp) {

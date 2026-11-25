@@ -8,10 +8,10 @@ hero:
   tagline: '03. labor'
   title: 'RF hegesztési központ'
   subtitle: 'Dielektromos illesztési technológia nyomásnak ellenálló varratokhoz'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Afarer RF hegesztési dielektromos illesztési eljárás'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'OLagoon RF hegesztési dielektromos illesztési eljárás'
 
-intro: 'Egy felfújható SUP csak annyira megbízható, mint amennyire a varratai. Egyetlen gyenge hegesztés kompromittálhat egy egész kamrát — és a tengeren egy kamra meghibásodása nem kellemetlenség: biztonsági veszély. Az Afarer dedikált rádiófrekvenciás (RF) hegesztési központba fektetett, amely ipari minőségű dielektromos hegesztőpréseket kombinál szigorú folyamatszabályozással és hegesztés utáni teszteléssel. Minden varrat, amelyet előállítunk, dokumentált, visszakövethető, és tanúsítva van, hogy megfeleljen vagy meghaladja az EN ISO 25649 — a felfújható szabadidő-felszerelések európai szabványának — követelményeit.'
+intro: 'Egy felfújható SUP csak annyira megbízható, mint amennyire a varratai. Egyetlen gyenge hegesztés kompromittálhat egy egész kamrát — és a tengeren egy kamra meghibásodása nem kellemetlenség: biztonsági veszély. Az OLagoon dedikált rádiófrekvenciás (RF) hegesztési központba fektetett, amely ipari minőségű dielektromos hegesztőpréseket kombinál szigorú folyamatszabályozással és hegesztés utáni teszteléssel. Minden varrat, amelyet előállítunk, dokumentált, visszakövethető, és tanúsítva van, hogy megfeleljen vagy meghaladja az EN ISO 25649 — a felfújható szabadidő-felszerelések európai szabványának — követelményeit.'
 
 content_html: |
   <h2>A varrat mögötti tudomány</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Elkötelezettségünk Ön felé</h2>
   <p>Minden leszállított deszkánk hegesztésminőségi garanciát hordoz: ha bármely varrat a garanciaidőszak alatt normál használatban meghibásodik, díjmentesen megjavítjuk vagy kicseréljük az érintett kamrát, és kiváltó okok vizsgálata zajlik az ismétlődés megelőzése érdekében. Ez nem egyszerűen garancia — ez a valós üzemeltetési adatok által vezérelt folyamatos fejlesztésre tett elkötelezettség.</p>
-  <p>Ha az Afarert választja, olyan varratokat választ, amelyeket megterveztek, teszteltek és dokumentáltak — nem csak hegesztettek. Ez a különbség egy úszó deszka és egy teljesítő deszka között.</p>
+  <p>Ha az OLagoont választja, olyan varratokat választ, amelyeket megterveztek, teszteltek és dokumentáltak — nem csak hegesztettek. Ez a különbség egy úszó deszka és egy teljesítő deszka között.</p>
 
 cta:
   title: 'Egyeztessen hegesztési igényeiről'

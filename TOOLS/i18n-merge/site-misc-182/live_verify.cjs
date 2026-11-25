@@ -19,22 +19,22 @@ function get(url, redirects = 0) {
 }
 
 (async () => {
-  const y = require('E:/github/afarer/node_modules/js-yaml');
+  const y = require('E:/github/olagoon/node_modules/js-yaml');
   const checks = [
-    ['https://afarer.com/he/about/', /[\u05D0-\u05EA]{3,}/, 'HEBREW'],
-    ['https://afarer.com/sr/evidence/', /Сертификац/, 'SR-CYR'],
-    ['https://afarer.com/sr/evidence/case-studies/retail-private-label', /Малопродаја/, 'SR-TAG'],
-    ['https://afarer.com/et/research/', /[\u00F5\u0161\u017E]/, 'ET-DIACR'],
-    ['https://afarer.com/tl/learn/sup/', /Basahin ang gabay|gabay →/, 'TL-READGUIDE'],
-    ['https://afarer.com/bg/contact/', /България/, 'BG-COUNTRY'],
-    ['https://afarer.com/hr/learn/water-safety/', /Sigurnost na vodi/, 'HR-WS-TITLE'],
-    ['https://afarer.com/hu/about/', /v\u00EDzen \u00E9p\u00EDtett|v\u00EDzre \u00E9p\u00EDtett/i, 'HU-ABOUT'],
-    ['https://afarer.com/id/research/', /Riset|Penelitian/, 'ID-RESEARCH'],
-    ['https://afarer.com/lv/evidence/', /Sertific\u0113\u0161ana|sertifik/, 'LV-EVID'],
-    ['https://afarer.com/ms/learn/sup/', /Baca panduan/, 'MS-READGUIDE'],
-    ['https://afarer.com/lt/contact/', /Lietuva/, 'LT-COUNTRY'],
-    ['https://afarer.com/sk/about/', /postaven\u00E9 na vode|vode/i, 'SK-ABOUT'],
-    ['https://afarer.com/sl/research/', /Raziskave|raziskav/, 'SL-RESEARCH'],
+    ['https://olagoon.com/he/about/', /[\u05D0-\u05EA]{3,}/, 'HEBREW'],
+    ['https://olagoon.com/sr/evidence/', /Сертификац/, 'SR-CYR'],
+    ['https://olagoon.com/sr/evidence/case-studies/retail-private-label', /Малопродаја/, 'SR-TAG'],
+    ['https://olagoon.com/et/research/', /[\u00F5\u0161\u017E]/, 'ET-DIACR'],
+    ['https://olagoon.com/tl/learn/sup/', /Basahin ang gabay|gabay →/, 'TL-READGUIDE'],
+    ['https://olagoon.com/bg/contact/', /България/, 'BG-COUNTRY'],
+    ['https://olagoon.com/hr/learn/water-safety/', /Sigurnost na vodi/, 'HR-WS-TITLE'],
+    ['https://olagoon.com/hu/about/', /v\u00EDzen \u00E9p\u00EDtett|v\u00EDzre \u00E9p\u00EDtett/i, 'HU-ABOUT'],
+    ['https://olagoon.com/id/research/', /Riset|Penelitian/, 'ID-RESEARCH'],
+    ['https://olagoon.com/lv/evidence/', /Sertific\u0113\u0161ana|sertifik/, 'LV-EVID'],
+    ['https://olagoon.com/ms/learn/sup/', /Baca panduan/, 'MS-READGUIDE'],
+    ['https://olagoon.com/lt/contact/', /Lietuva/, 'LT-COUNTRY'],
+    ['https://olagoon.com/sk/about/', /postaven\u00E9 na vode|vode/i, 'SK-ABOUT'],
+    ['https://olagoon.com/sl/research/', /Raziskave|raziskav/, 'SL-RESEARCH'],
   ];
   let pass = 0,
     fail = 0;

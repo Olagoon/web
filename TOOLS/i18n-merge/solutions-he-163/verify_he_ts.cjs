@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const f = path.join('E:', 'github', 'afarer', 'src', 'data', 'biz-solutions', 'translations', 'he.ts');
+const f = path.join('E:', 'github', 'olagoon', 'src', 'data', 'biz-solutions', 'translations', 'he.ts');
 const raw = fs.readFileSync(f, 'utf8');
 
 const expectedSlugs = [

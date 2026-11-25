@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
-const ARC = 'E:/github/afarer/TOOLS/i18n-merge/faq-body-95';
+const ARC = 'E:/github/olagoon/TOOLS/i18n-merge/faq-body-95';
 const LOCALES = ['ar', 'el', 'fi', 'ro', 'th', 'tr'];
 
 // EN source: prefer Temp copy, fall back to 95 archive
@@ -113,8 +113,8 @@ for (const loc of LOCALES) {
     if (/\b(lbs|pounds|inches|feet)\b/i.test(r.a)) errs.push(`${id}: un-localized imperial unit`);
     // brand always lowercase, incl. sentence-initial
     let idx = 0;
-    while ((idx = text.indexOf('Afarer', idx)) !== -1) {
-      errs.push(`${id}: capitalized "Afarer"`);
+    while ((idx = text.indexOf('OLagoon', idx)) !== -1) {
+      errs.push(`${id}: capitalized "OLagoon"`);
       idx += 6;
     }
   });
@@ -127,10 +127,10 @@ for (const loc of LOCALES) {
       errs.push(`sup-volume-weight: decimal "${d}" / 165 / 260 missing`);
     }
   }
-  const avo = by('afarer-vs-others');
+  const avo = by('olagoon-vs-others');
   if (avo) {
     if (!avo.a.includes(pct(loc, 90)) || !avo.a.includes(pct(loc, 60))) {
-      errs.push(`afarer-vs-others: percent "${pct(loc, 90)}"/"${pct(loc, 60)}" missing`);
+      errs.push(`olagoon-vs-others: percent "${pct(loc, 90)}"/"${pct(loc, 60)}" missing`);
     }
   }
   const wc = by('sup-weight-capacity');
@@ -168,8 +168,8 @@ for (const loc of LOCALES) {
     console.log(`[${loc}] ${errs.length} issue(s):`);
     errs.slice(0, 25).forEach((e) => console.log(`   ${e}`));
   } else {
-    const lowerCount = data.reduce((n, r) => n + ((r.q + ' ' + r.a).match(/afarer/g) || []).length, 0);
-    console.log(`[${loc}] clean (afarer lowercase x${lowerCount})`);
+    const lowerCount = data.reduce((n, r) => n + ((r.q + ' ' + r.a).match(/olagoon/g) || []).length, 0);
+    console.log(`[${loc}] clean (olagoon lowercase x${lowerCount})`);
   }
 }
 console.log(fail === 0 ? 'ALL CLEAN' : `${fail} locale(s) FAILED`);

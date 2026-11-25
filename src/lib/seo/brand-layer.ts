@@ -84,13 +84,13 @@ const CTA_RULES: Array<{
       [
         'surf-etiquette-rules',
         'best-water-sports-gear-for-beginners',
-        'afarer-surfboard-pro',
-        'afarer-wetsuit-pro',
-        'why-afarer-exists',
+        'olagoon-surfboard-pro',
+        'olagoon-wetsuit-pro',
+        'why-olagoon-exists',
       ].some((k) => s.includes(k)),
-    cta: { text: 'Explore afarer', link: '/', reason: 'Brand content → brand homepage' },
+    cta: { text: 'Explore olagoon', link: '/', reason: 'Brand content → brand homepage' },
     products: ['sup-explorer-11', 'sup-tour-12', 'life-vest-pro', 'paddle-carbon', 'pump-dual'],
-    keywords: ['afarer', 'brand', 'about', 'community'],
+    keywords: ['olagoon', 'brand', 'about', 'community'],
   },
 ];
 
@@ -147,7 +147,7 @@ export function getAllBrandPages(): BrandPageEntry[] {
 }
 
 export const BRAND_SUMMARY = {
-  name: 'afarer',
+  name: 'olagoon',
   tagline: 'Ocean Performance Gear for Modern Surfers',
   description: 'Built for real ocean conditions, not laboratory assumptions.',
   foundingYear: 2012,

@@ -138,10 +138,10 @@
       { "text": "Privacy Policy", "href": "/privacy" }
     ],
     "socialLinks": [
-      { "icon": "tabler--brand-youtube", "href": "https://www.youtube.com/@Afarer" },
-      { "icon": "tabler--brand-x", "href": "https://x.com/Afarer" },
-      { "icon": "tabler--brand-instagram", "href": "https://www.instagram.com/afarer_watersports/" },
-      { "icon": "tabler--brand-facebook", "href": "https://www.facebook.com/profile.php?id=61572404318679" }
+      { "icon": "tabler--brand-youtube", "href": "https://www.youtube.com/@TheOlagoon" },
+      { "icon": "tabler--brand-x", "href": "https://x.com/OLagoon" },
+      { "icon": "tabler--brand-instagram", "href": "https://www.instagram.com/olagoon_watersports/" },
+      { "icon": "tabler--brand-facebook", "href": "https://www.facebook.com/TheOlagoon" }
     ]
   }
 }

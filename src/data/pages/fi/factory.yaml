@@ -1,6 +1,6 @@
 meta:
   title: 'Tehdas ja valmistus — täytettävä SUP-OEM | {SITE}'
-  description: 'Tutustu afarerin tehtaaseen: 12 000 m² laitos, jossa on leikkaus, HF-hitsaus, painatus, kokoonpano ja laatulaboratorio täytettävien SUP-lautojen OEM/ODM-valmistukseen.'
+  description: 'Tutustu olagoonin tehtaaseen: 12 000 m² laitos, jossa on leikkaus, HF-hitsaus, painatus, kokoonpano ja laatulaboratorio täytettävien SUP-lautojen OEM/ODM-valmistukseen.'
   keywords:
     - 'SUP-tehdas Kiina'
     - 'täytettävien paddle board -lautojen tehdas'
@@ -12,7 +12,7 @@ hero:
   subtitle: 12 000 m² integroitua tuotantoa — raaka-aineesta valmiiseen lautaan
 intro:
   - >-
-    Qingdao Vatrad Group Co., Ltd.:n tehdasbrändinä afarer hallitsee jokaista tuotannon vaihetta — raaka-PVC:n ja lasikuitumateriaalien saapumisesta valmiin laudan lopulliseen esitarkastukseen. Tuotantolaitoksemme Qingdaon talouskehitysalueella kattaa 12 000 neliömetriä ja sisältää erilliset työpajat
+    Qingdao Vatrad Group Co., Ltd.:n tehdasbrändinä olagoon hallitsee jokaista tuotannon vaihetta — raaka-PVC:n ja lasikuitumateriaalien saapumisesta valmiin laudan lopulliseen esitarkastukseen. Tuotantolaitoksemme Qingdaon talouskehitysalueella kattaa 12 000 neliömetriä ja sisältää erilliset työpajat
     PVC-leikkaukselle, putkien kuumasaumaukselle, FRP-muottien valmistukselle, SUP-digitaalipainatukselle, loppukokoonpanolle ja laaduntestaukselle.
   - >-
     Yhdistämällä suunnittelun, insinöörityön, prototyyppauksen, valmistuksen ja testauksen saman katon alle eliminoimme sopimusvalmistuksen tehottomuudet ja säilytämme suoran hallinnan rakennuslaadussa, materiaalivalinnassa ja toimitusaikatauluissa. Jokainen työpajaltamme lähtevä lauta on rakennettu
@@ -68,22 +68,22 @@ workshops_section:
   workshops:
     - title: PVC-leikkaus ja materiaalin valmistelu
       description: Automaattiset CNC-leikkauskoneet käsittelevät PVC- ja drop-stitch-kankaita alle millimetrin tarkkuudella. Tietokoneoptimoitu sijoittelu minimoi materiaalihukkaa ja varmistaa, että jokainen paneeli täyttää mittamäärittelynsä ennen hitsausta.
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: Putkien hitsaus ja kuumasaumaus
       description: Erillinen hitsaustyöpaja kuumasaumauskoneilla ja RF-dielektrisillä puristimilla. Kuumailmatiivistimet liimaavat ja sulattavat PVC-putkikammioita, kun taas RF-hitsaus tuottaa lujia, ilmatiiviitä saumoja, jotka ylittävät EN ISO 25649 -vaatimukset.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: FRP-muotit ja komposiittivalmistus
       description: Räätälöidyt FRP-muotit SUP-komponentteihin valmistetaan käsilaminoidulla lasikuidulla polyesteri- ja vinyyliesterihartsijärjestelmillä. Jokainen kerros käsitellään käsin ja tyhjiöpussitetaan tasaisen laadun varmistamiseksi. Gelcoat-ruiskutuskoppi tuottaa korkeakiiltoisen, UV-kestävän meripinnan.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-warehouse-storage.webp
     - title: SUP-painatus ja koristelu
       description: SUP-laudat koristellaan digitaalipainatuksella täysvärigrafiikoille ja silkkipainatuksella logoille ja toistuville kuvioille. Digitaalitulostimet tuottavat valokuvanlaatuisia kansikuvioita, kun taas silkkipainatus tuottaa kestäviä, kirkkaita brändimerkkejä.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     - title: Loppukokoonpano ja varustelu
       description: Kokoonpanolinja, jossa venttiilit, D-renkaat, kahvat, evätelineet ja kansipehmusteet asennetaan jokaiseen SUP-lautaan. Jokainen lauta noudattaa 100-pisteistä kokoonpanotarkistuslistaa, jonka tiiminvetäjä allekirjoittaa.
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: Laaduntestaus ja tarkastus
       description: Jokainen valmis lauta käy läpi pakollisen ilmanpysyvyystestauksen, sauman vetolujuuden varmistuksen ja täydellisen järjestelmätarkastuksen ennen lähetystä. Laatulaboratoriomme toimii riippumattomana tuotannosta ja raportoi suoraan johdolle.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 equipment_section:
   tagline: Laitteet
   title: Keskeiset tuotantolaitteet
@@ -136,7 +136,7 @@ faq_section:
   questions:
     - q: Mikä on vähimmäistilausmäärä (MOQ) täytettäville OEM-SUP-lautoille?
       a: MOQ alkaa 5–10 yksiköstä vakio-OEM-malleille. Räätälöidyt muotit ja oman etiketin projektit vaativat vähintään 200 yksikköä riippuen monimutkaisuudesta. Koetilaukset ja näyte-erät ovat saatavilla uusille brändilanseerauksille.
-    - q: Onko afarerilla BSCI-sertifiointi?
+    - q: Onko olagoonilla BSCI-sertifiointi?
       a: >-
         Kyllä. Tehtaallamme on voimassa oleva BSCI-sosiaalisen vaatimustenmukaisuuden sertifiointi (auditointiraportti saatavilla pyynnöstä). Meillä on myös ISO 9001 -sertifiointi laadunhallinnalle, ja kaikki tuotteet ovat CE-sertifioituja. REACH- ja RoHS-vaatimustenmukaisuusdokumentaatio toimitetaan jokaisen
         OEM-toimituksen mukana.

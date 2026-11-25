@@ -28,7 +28,7 @@ module.exports = {
   de: {
     heroTitle: 'Machen Sie aus Ihrer Uferlage ein Einnahmezentrum<br />mit Premium-SUP-Flotten',
     heroSubtitle:
-      'Afarer stattet Resorts weltweit mit aufblasbaren SUP-Flotten in kommerzieller Qualität aus — von 20-Board-Starterpaketen bis zu Flaggschiff-Programmen mit 100+ Boards. Individuelles Branding, Mitarbeiterschulungen und Ersatzteile inklusive.',
+      'OLagoon stattet Resorts weltweit mit aufblasbaren SUP-Flotten in kommerzieller Qualität aus — von 20-Board-Starterpaketen bis zu Flaggschiff-Programmen mit 100+ Boards. Individuelles Branding, Mitarbeiterschulungen und Ersatzteile inklusive.',
     pkgSubtitle:
       'Wählen Sie das Paket, das zu Ihrer Gästekapazität und Ihren Umsatzzielen passt. Alle Pakete enthalten eine 12-monatige Garantie und CE-Zertifizierung.',
     p0Name: 'Starter-Paket',
@@ -58,7 +58,7 @@ module.exports = {
   es: {
     heroTitle: 'Convierta su zona costera en un centro de ingresos<br />con flotas SUP premium',
     heroSubtitle:
-      'Afarer equipa a los resorts de todo el mundo con flotas SUP inflables de calidad comercial — desde paquetes iniciales de 20 tablas hasta programas insignia de 100+ tablas. Personalización de marca, capacitación del personal y piezas de repuesto incluidas.',
+      'OLagoon equipa a los resorts de todo el mundo con flotas SUP inflables de calidad comercial — desde paquetes iniciales de 20 tablas hasta programas insignia de 100+ tablas. Personalización de marca, capacitación del personal y piezas de repuesto incluidas.',
     pkgSubtitle:
       'Elija el paquete que se adapte a su capacidad de huéspedes y a sus objetivos de ingresos. Todos los paquetes incluyen garantía de 12 meses y certificación CE.',
     p0Name: 'Paquete de Inicio',
@@ -88,7 +88,7 @@ module.exports = {
   it: {
     heroTitle: 'Trasforma il tuo fronte mare in un centro di ricavi<br />con flotte SUP premium',
     heroSubtitle:
-      'Afarer fornisce ai resort di tutto il mondo flotte SUP gonfiabili di qualità commerciale — dai pacchetti iniziali da 20 tavole ai programmi di punta con 100+ tavole. Personalizzazione del marchio, formazione del personale e pezzi di ricambio inclusi.',
+      'OLagoon fornisce ai resort di tutto il mondo flotte SUP gonfiabili di qualità commerciale — dai pacchetti iniziali da 20 tavole ai programmi di punta con 100+ tavole. Personalizzazione del marchio, formazione del personale e pezzi di ricambio inclusi.',
     pkgSubtitle:
       'Scegli il pacchetto adatto alla tua capacità di ospiti e ai tuoi obiettivi di ricavi. Tutti i pacchetti includono garanzia di 12 mesi e certificazione CE.',
     p0Name: 'Pacchetto Iniziale',
@@ -118,7 +118,7 @@ module.exports = {
   pt: {
     heroTitle: 'Transforme sua área à beira-mar em um centro de receitas<br />com frotas SUP premium',
     heroSubtitle:
-      'A Afarer equipa resorts do mundo todo com frotas SUP infláveis de qualidade comercial — de pacotes iniciais com 20 pranchas a programas principais com 100+ pranchas. Personalização de marca, treinamento da equipe e peças de reposição incluídos.',
+      'A OLagoon equipa resorts do mundo todo com frotas SUP infláveis de qualidade comercial — de pacotes iniciais com 20 pranchas a programas principais com 100+ pranchas. Personalização de marca, treinamento da equipe e peças de reposição incluídos.',
     pkgSubtitle:
       'Escolha o pacote adequado à sua capacidade de hóspedes e às suas metas de receita. Todos os pacotes incluem garantia de 12 meses e certificação CE.',
     p0Name: 'Pacote Inicial',
@@ -148,7 +148,7 @@ module.exports = {
   nl: {
     heroTitle: 'Maak van uw waterfront een inkomstencentrum<br />met premium SUP-vloten',
     heroSubtitle:
-      'Afarer levert resorts wereldwijd opblaasbare SUP-vloten van commerciële kwaliteit — van startpakketten met 20 borden tot flagship-programma\u0027s met 100+ borden. Inclusief merkpersonalisatie, personeelstraining en vervangingsonderdelen.',
+      'OLagoon levert resorts wereldwijd opblaasbare SUP-vloten van commerciële kwaliteit — van startpakketten met 20 borden tot flagship-programma\u0027s met 100+ borden. Inclusief merkpersonalisatie, personeelstraining en vervangingsonderdelen.',
     pkgSubtitle:
       'Kies het pakket dat past bij uw gastencapaciteit en omzetdoelen. Alle pakketten bevatten 12 maanden garantie en CE-certificering.',
     p0Name: 'Startpakket',
@@ -178,7 +178,7 @@ module.exports = {
   da: {
     heroTitle: 'Forvandl din strandfront til et indtægtscenter<br />med premium SUP-flåder',
     heroSubtitle:
-      'Afarer udstyrer resorts i hele verden med oppustelige SUP-flåder i kommerciel kvalitet — fra startpakker med 20 bræt til flagship-programmer med 100+ bræt. Skræddersyet branding, personaleuddannelse og reservedele inkluderet.',
+      'OLagoon udstyrer resorts i hele verden med oppustelige SUP-flåder i kommerciel kvalitet — fra startpakker med 20 bræt til flagship-programmer med 100+ bræt. Skræddersyet branding, personaleuddannelse og reservedele inkluderet.',
     pkgSubtitle:
       'Vælg den pakke, der passer til din gæstekapacitet og dine omsætningsmål. Alle pakker inkluderer 12 måneders garanti og CE-certificering.',
     p0Name: 'Startpakke',
@@ -208,7 +208,7 @@ module.exports = {
   sv: {
     heroTitle: 'Förvandla din strandfront till ett intäktscenter<br />med premium SUP-flottor',
     heroSubtitle:
-      'Afarer utrustar resorts världen över med uppblåsbara SUP-flottor i kommersiell kvalitet – från startpaket med 20 tavlor till flagship-program med 100+ tavlor. Skräddarsydd varumärkesprofil, personalutbildning och reservdelar ingår.',
+      'OLagoon utrustar resorts världen över med uppblåsbara SUP-flottor i kommersiell kvalitet – från startpaket med 20 tavlor till flagship-program med 100+ tavlor. Skräddarsydd varumärkesprofil, personalutbildning och reservdelar ingår.',
     pkgSubtitle:
       'Välj det paket som passar din gästkapacitet och dina intäktsmål. Alla paket innehåller 12 månaders garanti och CE-certificering.',
     p0Name: 'Startpaket',
@@ -238,7 +238,7 @@ module.exports = {
   no: {
     heroTitle: 'Gjør strandfronten din om til et inntektssenter<br />med premium SUP-flåter',
     heroSubtitle:
-      'Afarer utstyrer resorter over hele verden med oppblåsbare SUP-flåter i kommersiell kvalitet — fra startpakker med 20 brett til flagship-programmer med 100+ brett. Skreddersydd merkevareprofil, personopplæring og reservedeler inkludert.',
+      'OLagoon utstyrer resorter over hele verden med oppblåsbare SUP-flåter i kommersiell kvalitet — fra startpakker med 20 brett til flagship-programmer med 100+ brett. Skreddersydd merkevareprofil, personopplæring og reservedeler inkludert.',
     pkgSubtitle:
       'Velg pakken som passer til gjestekapasiteten og inntektsmålene dine. Alle pakker inkluderer 12 måneders garanti og CE-sertifisering.',
     p0Name: 'Startpakke',
@@ -268,7 +268,7 @@ module.exports = {
   fi: {
     heroTitle: 'Muuta ranta-alueesi tulokeskukseksi<br />premium-SUP-kalustoilla',
     heroSubtitle:
-      'Afarer varustaa lomakohteita ympäri maailmaa kaupallisen laadun ilmalla täytettävillä SUP-kalustoilla — 20 laudan aloituspaketeista 100+ laudan lippulaivaohjelmiin. Räätälöity brändäys, henkilöstökoulutus ja varaosat sisältyvät.',
+      'OLagoon varustaa lomakohteita ympäri maailmaa kaupallisen laadun ilmalla täytettävillä SUP-kalustoilla — 20 laudan aloituspaketeista 100+ laudan lippulaivaohjelmiin. Räätälöity brändäys, henkilöstökoulutus ja varaosat sisältyvät.',
     pkgSubtitle:
       'Valitse paketti, joka sopii vieraskapasiteettiisi ja tulotavoitteisiisi. Kaikki paketit sisältävät 12 kuukauden takuun ja CE-sertifioinnin.',
     p0Name: 'Aloituspaketti',
@@ -298,7 +298,7 @@ module.exports = {
   cs: {
     heroTitle: 'Proměňte své pobřežní umístění v zdroj příjmů<br />s prémiovými SUP flotilami',
     heroSubtitle:
-      'Afarer vybavuje resorty po celém světě nafukovacími SUP flotilami komerční kvality – od startovacích balíčků s 20 deskami po vlajkové programy se 100+ deskami. Přizpůsobená brandová identita, školení personálu a náhradní díly v ceně.',
+      'OLagoon vybavuje resorty po celém světě nafukovacími SUP flotilami komerční kvality – od startovacích balíčků s 20 deskami po vlajkové programy se 100+ deskami. Přizpůsobená brandová identita, školení personálu a náhradní díly v ceně.',
     pkgSubtitle:
       'Vyberte balíček, který odpovídá vaší kapacitě hostů a příjmovým cílům. Všechny balíčky zahrnují 12měsíční záruku a certifikaci CE.',
     p0Name: 'Startovací balíček',
@@ -328,7 +328,7 @@ module.exports = {
   pl: {
     heroTitle: 'Zamień nadbrzeżny teren w centrum przychodów<br />z flotami SUP premium',
     heroSubtitle:
-      'Afarer wyposaża kurorty na całym świecie w nadmuchiwane floty SUP klasy komercyjnej — od pakietów startowych z 20 deskami po flagowe programy ze 100+ deskami. Spersonalizowany branding, szkolenia personelu i części zamienne w cenie.',
+      'OLagoon wyposaża kurorty na całym świecie w nadmuchiwane floty SUP klasy komercyjnej — od pakietów startowych z 20 deskami po flagowe programy ze 100+ deskami. Spersonalizowany branding, szkolenia personelu i części zamienne w cenie.',
     pkgSubtitle:
       'Wybierz pakiet dopasowany do liczby gości i celów przychodowych. Wszystkie pakiety obejmują 12-miesięczną gwarancję i certyfikację CE.',
     p0Name: 'Pakiet Startowy',
@@ -358,7 +358,7 @@ module.exports = {
   ru: {
     heroTitle: 'Превратите прибрежную территорию в центр доходов<br />с премиальными SUP-флотами',
     heroSubtitle:
-      'Afarer оснащает курорты по всему миру надувными SUP-флотами коммерческого класса — от стартовых пакетов на 20 досок до флагманских программ на 100+ досок. Индивидуальный брендинг, обучение персонала и запчасти включены.',
+      'OLagoon оснащает курорты по всему миру надувными SUP-флотами коммерческого класса — от стартовых пакетов на 20 досок до флагманских программ на 100+ досок. Индивидуальный брендинг, обучение персонала и запчасти включены.',
     pkgSubtitle:
       'Выберите пакет, соответствующий вашей вместимости гостей и целям по доходам. Все пакеты включают 12-месячную гарантию и сертификацию CE.',
     p0Name: 'Стартовый пакет',
@@ -388,7 +388,7 @@ module.exports = {
   tr: {
     heroTitle: 'Su kenarınızı bir gelir merkezine dönüştürün<br />premium SUP filolarıyla',
     heroSubtitle:
-      'Afarer, dünyadaki tatil köylerini ticari kalitede şişme SUP filolarıyla donatır — 20 tahtalık başlangıç paketlerinden 100+ tahtalık amiral programlarına kadar. Marka özelleştirmesi, personel eğitimi ve yedek parçalar dahildir.',
+      'OLagoon, dünyadaki tatil köylerini ticari kalitede şişme SUP filolarıyla donatır — 20 tahtalık başlangıç paketlerinden 100+ tahtalık amiral programlarına kadar. Marka özelleştirmesi, personel eğitimi ve yedek parçalar dahildir.',
     pkgSubtitle:
       'Misafir kapasitenize ve gelir hedeflerinize uygun paketi seçin. Tüm paketler 12 ay garanti ve CE sertifikası içerir.',
     p0Name: 'Başlangıç Paketi',
@@ -418,7 +418,7 @@ module.exports = {
   ar: {
     heroTitle: 'حوّل واجهتك البحرية إلى مصدر دخل<br />بأساطيل SUP فاخرة',
     heroSubtitle:
-      'تجهّز afarer المنتجعات حول العالم بأساطيل SUP قابلة للنفخ بجودة تجارية — من حزم البدء بواقع 20 لوحًا إلى البرامج الرئيسية بواقع 100+ لوح. تشمل هوية العلامة المخصصة وتدريب الموظفين وقطع الغيار.',
+      'تجهّز olagoon المنتجعات حول العالم بأساطيل SUP قابلة للنفخ بجودة تجارية — من حزم البدء بواقع 20 لوحًا إلى البرامج الرئيسية بواقع 100+ لوح. تشمل هوية العلامة المخصصة وتدريب الموظفين وقطع الغيار.',
     pkgSubtitle:
       'اختر الحزمة التي تناسب طاقة استيعابك للضيوف وأهدافك من الإيرادات. تشمل جميع الحزم ضمانًا لمدة 12 شهرًا وشهادة CE.',
     p0Name: 'حزمة البدء',
@@ -448,7 +448,7 @@ module.exports = {
   el: {
     heroTitle: 'Μετατρέψτε την παραθαλάσσια περιοχή σας σε κέντρο εσόδων<br />με premium στόλους SUP',
     heroSubtitle:
-      'Η Afarer εξοπλίζει θέρετρα σε όλο τον κόσμο με φουσκωτούς στόλους SUP εμπορικής ποιότητας — από πακέτα εκκίνησης 20 πινάκων έως flagship προγράμματα με 100+ πίνακες. Προσαρμοσμένη ταυτότητα μάρκας, εκπαίδευση προσωπικού και ανταλλακτικά περιλαμβάνονται.',
+      'Η OLagoon εξοπλίζει θέρετρα σε όλο τον κόσμο με φουσκωτούς στόλους SUP εμπορικής ποιότητας — από πακέτα εκκίνησης 20 πινάκων έως flagship προγράμματα με 100+ πίνακες. Προσαρμοσμένη ταυτότητα μάρκας, εκπαίδευση προσωπικού και ανταλλακτικά περιλαμβάνονται.',
     pkgSubtitle:
       'Επιλέξτε το πακέτο που ταιριάζει στη φιλοξενούμενη ικανότητα και τους στόχους εσόδων σας. Όλα τα πακέτα περιλαμβάνουν εγγύηση 12 μηνών και πιστοποίηση CE.',
     p0Name: 'Πακέτο Εκκίνησης',
@@ -478,7 +478,7 @@ module.exports = {
   ro: {
     heroTitle: 'Transformați zona de pe malul apei într-un centru de venituri<br />cu flote SUP premium',
     heroSubtitle:
-      'Afarer echipează resorturile din întreaga lume cu flote SUP gonflabile de calitate comercială — de la pachete de start cu 20 de table la programe flagship cu 100+ de table. Personalizare a mărcii, instruirea personalului și piesele de schimb incluse.',
+      'OLagoon echipează resorturile din întreaga lume cu flote SUP gonflabile de calitate comercială — de la pachete de start cu 20 de table la programe flagship cu 100+ de table. Personalizare a mărcii, instruirea personalului și piesele de schimb incluse.',
     pkgSubtitle:
       'Alegeți pachetul potrivit capacității dvs. de cazare și obiectivelor de venituri. Toate pachetele includ garanție de 12 luni și certificare CE.',
     p0Name: 'Pachet de Start',
@@ -508,7 +508,7 @@ module.exports = {
   ja: {
     heroTitle: 'ウォーターフロントを収益センターに変えましょう<br />プレミアムSUPフリートで',
     heroSubtitle:
-      'afarerは世界中のリゾートに商業グレードの空気注入式SUPフリートを供給します ― 20台のスターターパッケージから100台以上のフラッグシッププログラムまで。オリジナルブランド刻印、スタッフトレーニング、交換パーツが含まれます。',
+      'olagoonは世界中のリゾートに商業グレードの空気注入式SUPフリートを供給します ― 20台のスターターパッケージから100台以上のフラッグシッププログラムまで。オリジナルブランド刻印、スタッフトレーニング、交換パーツが含まれます。',
     pkgSubtitle:
       '宿泊人数と収益目標に合ったパッケージをお選びください。すべてのパッケージに12ヶ月保証とCE認証が含まれます。',
     p0Name: 'スターターパッケージ',
@@ -538,7 +538,7 @@ module.exports = {
   ko: {
     heroTitle: '워터프론트를 수익 센터로 바꾸세요<br />프리미엄 SUP 플릿으로',
     heroSubtitle:
-      'afarer는 전 세계 리조트에 상업용 급 공기주입식 SUP 플릿을 공급합니다 — 20대 규모의 스타터 패키지부터 100대 이상의 플래그십 프로그램까지. 맞춤 브랜딩, 직원 교육, 교체 부품이 포함됩니다.',
+      'olagoon는 전 세계 리조트에 상업용 급 공기주입식 SUP 플릿을 공급합니다 — 20대 규모의 스타터 패키지부터 100대 이상의 플래그십 프로그램까지. 맞춤 브랜딩, 직원 교육, 교체 부품이 포함됩니다.',
     pkgSubtitle:
       '고객 수용 규모와 수익 목표에 맞는 패키지를 선택하세요. 모든 패키지에는 12개월 보증과 CE 인증이 포함됩니다.',
     p0Name: '스타터 패키지',
@@ -568,7 +568,7 @@ module.exports = {
   th: {
     heroTitle: 'เปลี่ยนพื้นที่ริมน้ำของคุณให้เป็นศูนย์รายได้<br />ด้วยกองเรือ SUP ระดับพรีเมียม',
     heroSubtitle:
-      'afarer ส่งมอบกองเรือ SUP แบบสูบลมระดับเชิงพาณิชย์ให้รีสอร์ททั่วโลก — ตั้งแต่แพ็กเกจเริ่มต้น 20 บอร์ด ไปจนถึงโปรแกรมแฟลกชิป 100+ บอร์ด รวมการปั๊มแบรนด์ของคุณเอง การฝึกอบรมพนักงาน และอะไหล่ทดแทน',
+      'olagoon ส่งมอบกองเรือ SUP แบบสูบลมระดับเชิงพาณิชย์ให้รีสอร์ททั่วโลก — ตั้งแต่แพ็กเกจเริ่มต้น 20 บอร์ด ไปจนถึงโปรแกรมแฟลกชิป 100+ บอร์ด รวมการปั๊มแบรนด์ของคุณเอง การฝึกอบรมพนักงาน และอะไหล่ทดแทน',
     pkgSubtitle:
       'เลือกแพ็กเกจที่เหมาะกับจำนวนแขกที่รองรับและเป้าหมายรายได้ของคุณ ทุกแพ็กเกจรวมการรับประกัน 12 เดือนและการรับรอง CE',
     p0Name: 'แพ็กเกจเริ่มต้น',

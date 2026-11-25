@@ -1,6 +1,6 @@
 meta:
   title: 'Partneriai — platinimas ir didmeninė prekyba | {SITE}'
-  description: 'Tapkite afarer partneriu: platinimo tinklai, didmeninės kainos, OEM/privataus ženklo programos ir palaikymas irklavimo lentų verslams visame pasaulyje.'
+  description: 'Tapkite olagoon partneriu: platinimo tinklai, didmeninės kainos, OEM/privataus ženklo programos ir palaikymas irklavimo lentų verslams visame pasaulyje.'
   keywords:
     - 'sup platinimo partneris'
     - 'irklavimo lentų didmeninė prekyba'
@@ -8,15 +8,15 @@ meta:
     - 'sup partnerystė'
 hero:
   tagline: 'Partneriai ir platinimas'
-  title: 'Tapkite afarer partneriu<br />— pasaulinis platinimo tinklas'
-  subtitle: 'Prisijunkite prie afarer pasaulinio partnerių tinklo. Mes bendradarbiaujame su jūrinės technikos platintojais, irklavimo sporto pardavėjais, įrangos mažmenininkais ir prekės ženklų partneriais daugiau nei 50 šalių.'
+  title: 'Tapkite olagoon partneriu<br />— pasaulinis platinimo tinklas'
+  subtitle: 'Prisijunkite prie olagoon pasaulinio partnerių tinklo. Mes bendradarbiaujame su jūrinės technikos platintojais, irklavimo sporto pardavėjais, įrangos mažmenininkais ir prekės ženklų partneriais daugiau nei 50 šalių.'
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: 'afarer pasaulinis partnerių ir platintojų tinklas'
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: 'olagoon pasaulinis partnerių ir platintojų tinklas'
 content_programs:
   tagline: 'Partnerių programos'
   title: 'Partnerių programos,<br />sukurtos augimui'
-  subtitle: 'Nesvarbu, ar esate platintojas, pardavėjas ar prekės ženklo partneris, afarer siūlo programas, sukurtas jūsų verslui palaikyti.'
+  subtitle: 'Nesvarbu, ar esate platintojas, pardavėjas ar prekės ženklo partneris, olagoon siūlo programas, sukurtas jūsų verslui palaikyti.'
   columns: 3
   items:
     - title: 'Platintojų programa'
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: 'Kodėl bendradarbiauti su mumis'
-  title: 'Kodėl partneriai renkasi afarer'
+  title: 'Kodėl partneriai renkasi olagoon'
   subtitle: 'Mūsų partneriai naudojasi realiais gamybos pajėgumais, nuoseklia kokybe ir reaguojančiu palaikymu.'
   list:
     - 'Tiesioginė prieiga prie gamyklos: Dirbkite tiesiogiai su mūsų gamybos komanda — be tarpininkų. Gaukite greitesnius atsakymus, geresnes kainas ir pilną gamybos matomumą.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: 'Kaip tapti partneriu'
   title: 'Paprastas partnerystės procesas'
-  subtitle: 'Mūsų partnerystės procesas yra paprastas — sukurtas, kad greitai pradėtumėte parduoti afarer produktus.'
+  subtitle: 'Mūsų partnerystės procesas yra paprastas — sukurtas, kad greitai pradėtumėte parduoti olagoon produktus.'
   items:
     - title: '1 žingsnis: Pateikite paraišką'
       description: 'Užpildykite mūsų partnerių paraiškos formą su jūsų įmonės profiliu, tikslinė rinka ir produktais, kuriais domitės.'
@@ -62,7 +62,7 @@ content_process:
     - title: '4 žingsnis: Mokymai ir paleidimas'
       description: 'Teikiami produktų mokymai, pardavimų palaikymas ir rinkodaros medžiagos. Jūs pasirengę pradėti pardavinėti.'
 cta:
-  title: 'Pasirengę tapti afarer partneriu?'
+  title: 'Pasirengę tapti olagoon partneriu?'
   subtitle: 'Pateikite partnerystės paraišką, o mūsų komanda atsakys per 3 darbo dienas.'
   actions:
     - variant: primary

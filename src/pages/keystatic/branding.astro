@@ -18,13 +18,13 @@ const file = siteFileForLocale('src/config.yaml', locale);
 getRepoInfo();
 
 let data: Record<string, any> = {
-  site_name: 'afarer',
+  site_name: 'olagoon',
   logo_image: '',
-  logo_alt: 'afarer logo',
-  copyright: '© {year} afarer · All rights reserved.',
+  logo_alt: 'olagoon logo',
+  copyright: '© {year} olagoon · All rights reserved.',
   phone: '+1 279 732 3333',
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA',
-  email: 'info@afarer.com',
+  email: 'info@olagoon.com',
   whatsapp_number: '',
   whatsapp_default_message: 'Hello, I would like to inquire about your products.',
   contact_email_to: '',
@@ -133,7 +133,7 @@ const year = new Date().getFullYear();
           type="text"
           name="site_name"
           value={data.site_name ?? ''}
-          placeholder="afarer"
+          placeholder="olagoon"
           class="w-full px-3 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-sm"
         />
         <p class="mt-1 text-xs text-gray-500">
@@ -161,7 +161,7 @@ const year = new Date().getFullYear();
           type="text"
           name="logo_alt"
           value={data.logo_alt ?? ''}
-          placeholder="afarer logo"
+          placeholder="olagoon logo"
           class="w-full px-3 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-sm"
         />
       </div>
@@ -217,7 +217,7 @@ const year = new Date().getFullYear();
           type="email"
           name="email"
           value={data.email ?? ''}
-          placeholder="info@afarer.com"
+          placeholder="info@olagoon.com"
           class="w-full px-3 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-sm font-mono"
         />
       </div>
@@ -309,7 +309,7 @@ const year = new Date().getFullYear();
           type="text"
           name="contact_from_name"
           value={data.contact_from_name ?? ''}
-          placeholder="afarer Contact"
+          placeholder="olagoon Contact"
           class="w-full px-3 py-2 border border-gray-300 dark:border-gray-700 rounded-md bg-white dark:bg-gray-900 text-sm"
         />
       </div>
@@ -502,7 +502,7 @@ const year = new Date().getFullYear();
       function refreshCopyright() {
         if (copyrightEl instanceof HTMLTextAreaElement && previewEl) {
           const name =
-            siteNameEl instanceof HTMLInputElement ? (siteNameEl.value || 'afarer').trim() || 'afarer' : 'afarer';
+            siteNameEl instanceof HTMLInputElement ? (siteNameEl.value || 'olagoon').trim() || 'olagoon' : 'olagoon';
           previewEl.textContent = (copyrightEl.value || '')
             .replace(/\\{year\\}/gi, String(year))
             .replace(/\\{site_name\\}/gi, name);

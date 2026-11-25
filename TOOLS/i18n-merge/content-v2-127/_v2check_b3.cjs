@@ -1,18 +1,18 @@
 const fs = require('fs');
 const path = require('path');
 const { createRequire } = require('module');
-const req = createRequire('E:\\github\\afarer\\node_modules\\js-yaml\\package.json');
+const req = createRequire('E:\\github\\olagoon\\node_modules\\js-yaml\\package.json');
 const yaml = req('js-yaml');
 
 const TMP = 'C:\\Users\\Helleo\\AppData\\Local\\Temp\\deveco';
-const SITE = 'E:\\github\\afarer\\src\\data\\site';
+const SITE = 'E:\\github\\olagoon\\src\\data\\site';
 const SLUGS = [
   'how-long-inflatable-boats-last',
   'inflatable-boat-maintenance',
   'marine-life-vest-guide',
-  'afarer-vs-red-paddle',
-  'afarer-vs-irocker',
-  'afarer-vs-bluefin',
+  'olagoon-vs-red-paddle',
+  'olagoon-vs-irocker',
+  'olagoon-vs-bluefin',
   'inflatable-sup-vs-hard-board',
   'wetsuit-care-guide',
   'how-to-choose-a-wetsuit',
@@ -92,10 +92,10 @@ function checkLang(lang, parts) {
   const hits = texts.filter((t) => enWords.test(t));
   if (hits.length) bad(lang + ' possible EN residue in ' + hits.length + ' fields, e.g.: ' + hits[0].slice(0, 80));
   else ok(lang + ' no obvious EN residue');
-  // afarer brand check
+  // olagoon brand check
   const lower = joined.toLowerCase();
-  if (lower.includes('afarer ')) ok(lang + ' brand afarer present');
-  else bad(lang + ' brand afarer missing');
+  if (lower.includes('olagoon ')) ok(lang + ' brand olagoon present');
+  else bad(lang + ' brand olagoon missing');
 }
 
 checkLang('es', ['_v2es3_p1.yaml', '_v2es3_p2.yaml', '_v2es3_p3.yaml', '_v2es3_p4.yaml']);

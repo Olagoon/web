@@ -1,6 +1,6 @@
 meta:
   title: 'Turvallisuus — standardit ja sertifioinnit | {SITE}'
-  description: 'afarerin tuoteturvallisuus: CE-sertifioidut täytettävät SUP-laudat, perusteellinen testaus ja kansainvälisten merellisten turvallisuusstandardien noudattaminen.'
+  description: 'olagoonin tuoteturvallisuus: CE-sertifioidut täytettävät SUP-laudat, perusteellinen testaus ja kansainvälisten merellisten turvallisuusstandardien noudattaminen.'
   keywords:
     - 'SUP-turvallisuusstandardit'
     - 'CE-sertifioitu paddle board'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Turvallisuus
   title: Turvallisuusstandardit ja -sertifiointi
-  subtitle: Jokainen afarer-tuote käy läpi tiukan testauksen ja täyttää kansainväliset turvallisuusstandardit virkistys- ja ammattikäyttöön.
+  subtitle: Jokainen olagoon-tuote käy läpi tiukan testauksen ja täyttää kansainväliset turvallisuusstandardit virkistys- ja ammattikäyttöön.
 certifications:
   - title: CE-sertifiointi
-    description: Kaikki afarerin turvavarusteet täyttävät CE-merkinnän vaatimukset Euroopan henkilönsuojainasetuksen (EU) 2016/425 mukaisesti.
+    description: Kaikki olagoonin turvavarusteet täyttävät CE-merkinnän vaatimukset Euroopan henkilönsuojainasetuksen (EU) 2016/425 mukaisesti.
   - title: ISO 12402-sertifiointi
     description: Pelastusliivit täyttävät ISO 12402 -kelluvuusstandardit. Life Vest Classic tarjoaa 50N+ kelluvuuden; Life Vest Pro täyttää SOLAS-vaatimukset automaattisella täytöllä.
   - title: SOLAS-vaatimustenmukaisuus

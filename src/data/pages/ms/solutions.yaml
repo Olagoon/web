@@ -1,6 +1,6 @@
 meta:
   title: 'Penyelesaian Perniagaan — SUP untuk Setiap Perniagaan | {SITE}'
-  description: 'Penyelesaian perniagaan afarer: armada SUP untuk taman peranginan, kelab, sewaan, pengedaran dan label persendirian. Pembekal kelengkapan nautika profesional untuk B2B.'
+  description: 'Penyelesaian perniagaan olagoon: armada SUP untuk taman peranginan, kelab, sewaan, pengedaran dan label persendirian. Pembekal kelengkapan nautika profesional untuk B2B.'
   keywords:
     - 'penyelesaian perniagaan sup'
     - 'pembekal papan dayung boleh tiup'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Penyelesaian Perniagaan'
   title: 'Penyelesaian SUP<br />Untuk Setiap Perniagaan'
-  subtitle: 'Daripada taman peranginan hingga runcit, pengendali sewaan hingga pengedar global — Afarer menyediakan penyelesaian SUP lengkap yang disesuaikan dengan model perniagaan anda.'
+  subtitle: 'Daripada taman peranginan hingga runcit, pengendali sewaan hingga pengedar global — OLagoon menyediakan penyelesaian SUP lengkap yang disesuaikan dengan model perniagaan anda.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Papan SUP Afarer untuk aplikasi perniagaan dan profesional'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Papan SUP OLagoon untuk aplikasi perniagaan dan profesional'
 stats:
-  title: 'Afarer Sekilas'
+  title: 'OLagoon Sekilas'
   stats:
     - title: 'Tahun Pengalaman'
       amount: 'Sejak 2012'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Bina Jenama Anda Sendiri'
-      description: 'Pembuatan SUP OEM/ODM hujung-ke-hujung — reka bentuk, pemprototaipan, pengeluaran besar-besaran dan logistik. Lancarkan jenama anda bersama Afarer.'
+      description: 'Pembuatan SUP OEM/ODM hujung-ke-hujung — reka bentuk, pemprototaipan, pengeluaran besar-besaran dan logistik. Lancarkan jenama anda bersama OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

@@ -1,7 +1,7 @@
 // Validate every live sitemap URL resolves to a dist file (served set), incl. middleware rewrite
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const smRaw = fs.readFileSync('C:/Users/Helleo/AppData/Local/Temp/deveco/sitemisc_work/sitemap0.xml', 'utf8');
 const urls = [...smRaw.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
 
@@ -14,7 +14,7 @@ const exists = (p) => {
 let bad = 0;
 const badList = [];
 for (const u of urls) {
-  const p = u.replace(/^https:\/\/afarer\.com/, '');
+  const p = u.replace(/^https:\/\/olagoon\.com/, '');
   if (exists(p)) continue;
   // middleware rewrite: root URL -> /en/<path>
   const en = '/en' + (p === '/' ? '' : p);

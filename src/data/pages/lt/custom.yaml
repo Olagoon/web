@@ -8,7 +8,7 @@ meta:
     - 'privatus prekės ženklas pripučiamam sup'
     - 'irklentės gamyba'
 hero:
-  tagline: 'afarer pritaikymo laboratorija'
+  tagline: 'olagoon pritaikymo laboratorija'
   title: 'Sukurkite savo<br />SUP lentą'
   subtitle: 'Pasirinktinio SUP partneris, siūlantis bendrą prekės ženklą, privatų prekės ženklą ir individualią irklentės gamybą verslams visame pasaulyje. Nuo vieno prototipo iki pilnų gamybos serijų.'
   cta: 'Pradėkite savo projektą'
@@ -69,7 +69,7 @@ capabilities_section:
       value: 'CE, UKCA, FCC (parama pasaulinei atitikčiai)'
 
 why_section:
-  tagline: 'Kodėl afarer'
+  tagline: 'Kodėl olagoon'
   title: 'Viena gamykla. Vienas standartas. Jokių kompromisų.'
   points:
     - text: '12 000 m² integruota gamybos įmonė'

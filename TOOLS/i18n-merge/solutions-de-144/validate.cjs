@@ -2,7 +2,7 @@
 // Usage: node validate.cjs <NN>  (e.g. node validate.cjs 01)  or no arg = all translated parts
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const WORK = __dirname;
 const EN_DIR = path.join(WORK, 'en_parts');

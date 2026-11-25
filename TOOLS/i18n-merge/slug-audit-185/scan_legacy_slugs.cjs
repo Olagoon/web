@@ -1,7 +1,7 @@
 // Scan dist for legacy slug strings from 6 flagged nodes (non use-case types)
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const NEEDLES = [
   'inflatable-sup-board',
   'carbon-fiber-paddle',

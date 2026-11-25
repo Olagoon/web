@@ -129,7 +129,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Una empresa tecnológica Fortune 500 quería lanzar un programa de bienestar acuático en 4 campus junto al lago: 60 SUP con branding corporativo, soluciones de almacenaje y formación de instructores.',
     solution:
-      'Suministramos una flota de SUP todoterreno estables con gráficos de cubierta con el logotipo corporativo. Diseñamos soportes de almacenamiento resistentes a la intemperie en las instalaciones. Certificamos a 12 instructores internos mediante el programa de formación de afarer.',
+      'Suministramos una flota de SUP todoterreno estables con gráficos de cubierta con el logotipo corporativo. Diseñamos soportes de almacenamiento resistentes a la intemperie en las instalaciones. Certificamos a 12 instructores internos mediante el programa de formación de olagoon.',
     result:
       'Programa lanzado en 4 campus. Más de 2,400 participaciones de empleados en el primer año. Valoración de satisfacción del 94% de los empleados. Incluido en el informe de sostenibilidad de la empresa.',
     outcomeMetrics: [
@@ -381,7 +381,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Línea completa — SUP y accesorios',
     industry: 'Distribución / Náutica',
     challenge:
-      'Un distribuidor del CCG deseaba derechos exclusivos de toda la línea Afarer en 6 países del Golfo, con embalaje en árabe, especificaciones de materiales resistentes al calor y garantía conforme a la sharia.',
+      'Un distribuidor del CCG deseaba derechos exclusivos de toda la línea OLagoon en 6 países del Golfo, con embalaje en árabe, especificaciones de materiales resistentes al calor y garantía conforme a la sharia.',
     solution:
       'Establecimos un acuerdo de distribución en exclusiva. Desarrollamos embalaje y material de marketing en árabe. Validamos las especificaciones de los materiales a 50°C de temperatura ambiente. Adaptamos los términos de garantía a la conformidad regional.',
     result:

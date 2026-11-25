@@ -87,8 +87,8 @@ module.exports = [
   { f: 'src/data/pages/sv/rf-welding.yaml', find: 'Dragprov ()', rep: 'Dragprov', n: 1 },
   { f: 'src/data/pages/th/rf-welding.yaml', find: 'การทดสอบการลอก ()', rep: 'การทดสอบการลอก', n: 1 },
   // === ITSCAR: plain scalar 中的 '' 应为 ' ===
-  { f: 'src/data/pages/it/afarer-story.yaml', find: "L''inizio", rep: "L'inizio", n: 1 },
-  { f: 'src/data/pages/tr/afarer-story.yaml', find: "Qingdao''daki", rep: "Qingdao'daki", n: 1 },
+  { f: 'src/data/pages/it/olagoon-story.yaml', find: "L''inizio", rep: "L'inizio", n: 1 },
+  { f: 'src/data/pages/tr/olagoon-story.yaml', find: "Qingdao''daki", rep: "Qingdao'daki", n: 1 },
   { f: 'src/data/pages/it/factory.yaml', find: "Segui un''imbarcazione", rep: "Segui un'imbarcazione", n: 1 },
   // === factory role/supplier 列表: 3 空格 → " + " (EN+fr/ja/th/cs/da/ro 既有惯例) ===
   {

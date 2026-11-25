@@ -1,14 +1,14 @@
 meta:
   title: 'Partnerský program veľkoobchodnej distribúcie SUP | {SITE}'
-  description: 'Pridajte sa k globálnej veľkoobchodnej distribučnej sieti SUP značky Afarer. Exkluzívne teritóriá, kompletné portfólio nafukovacích produktov SUP, konkurencieschopné veľkoobchodné ceny a vyhradené riadenie účtov vo viac než 50 krajinách.'
+  description: 'Pridajte sa k globálnej veľkoobchodnej distribučnej sieti SUP značky OLagoon. Exkluzívne teritóriá, kompletné portfólio nafukovacích produktov SUP, konkurencieschopné veľkoobchodné ceny a vyhradené riadenie účtov vo viac než 50 krajinách.'
 
 hero:
   tagline: 'Distribútori'
   title: 'Pridajte sa k našej globálnej<br />distribučnej sieti'
-  subtitle: 'Partnerský program veľkoobchodnej distribúcie SUP s exkluzívnymi teritóriami, kompletným portfóliom nafukovacích produktov SUP a podporou na svetovej úrovni. Afarer expeduje do 50+ krajín — hľadáme etablovaných distribútorov námorného a vodného vybavenia.'
+  subtitle: 'Partnerský program veľkoobchodnej distribúcie SUP s exkluzívnymi teritóriami, kompletným portfóliom nafukovacích produktov SUP a podporou na svetovej úrovni. OLagoon expeduje do 50+ krajín — hľadáme etablovaných distribútorov námorného a vodného vybavenia.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'Globálna distribúcia a prepravné operácie Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'Globálna distribúcia a prepravné operácie OLagoon'
 
 benefits:
   title: 'Čo distribútori získajú'
@@ -27,7 +27,7 @@ benefits:
 
 coverage:
   title: 'Súčasná distribúcia'
-  subtitle: 'Afarer v súčasnosti obsluhuje tieto trhy priamo.'
+  subtitle: 'OLagoon v súčasnosti obsluhuje tieto trhy priamo.'
   regions:
     - name: 'Európa'
       countries: 'Francúzsko, Nemecko, Veľká Británia, Španielsko, Taliansko, Holandsko, Švédsko, Nórsko, Poľsko, Grécko'

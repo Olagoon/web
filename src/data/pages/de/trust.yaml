@@ -1,6 +1,6 @@
 meta:
   title: 'Vertrauen — Qualität, Standards & Ruf | {SITE}'
-  description: 'Warum Sie afarer vertrauen können: CE- und ISO-Zertifizierungen, integrierte Fabrik, globale Referenzen und Garantie. Ein professioneller Hersteller aufblasbarer SUPs.'
+  description: 'Warum Sie olagoon vertrauen können: CE- und ISO-Zertifizierungen, integrierte Fabrik, globale Referenzen und Garantie. Ein professioneller Hersteller aufblasbarer SUPs.'
   keywords:
     - 'vertrauenswürdiger SUP-Hersteller'
     - 'zertifizierte Paddleboard-Fabrik'
@@ -8,15 +8,15 @@ meta:
     - 'zertifizierte SUP-Fabrik'
 hero:
   tagline: Nach Standards gebaut, die zählen
-  title: Vertraue auf afarer
+  title: Vertraue auf olagoon
   subtitle: |
     Jedes unserer Produkte ist CE-zertifiziert — geprüft auf Sicherheit,<br />
     Haltbarkeit und Leistung. Keine Kompromisse. Keine Ausnahmen.
   taglineSection: Zertifiziert. Getestet. Bewährt.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: afarer-Produkt bei der Qualitätsprüfung
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: olagoon-Produkt bei der Qualitätsprüfung
 stats:
-  title: afarer in Zahlen
+  title: olagoon in Zahlen
   stats:
     - title: CE-zertifiziert
       description: Alle Freizeitprodukte erfüllen die EU-Sicherheitsstandards
@@ -25,7 +25,7 @@ stats:
     - title: BSCI & REACH
       description: Ethische Fertigung und Materialkonformität
     - title: 3 Jahre Garantie
-      description: Auf jedes afarer-Produkt — ohne Wenn und Aber
+      description: Auf jedes olagoon-Produkt — ohne Wenn und Aber
 features3_certifications:
   title: Zertifizierungen & Konformität
   subtitle: Jedes Produkt wird unabhängig geprüft und nach internationalen Standards zertifiziert.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: CE-Zertifizierung
-      description: Alle afarer SUPs erfüllen die europäischen CE-Sicherheitsstandards für Freizeitwasserfahrzeuge. Jedes Produkt wird vor Verlassen des Werks Druck-, Auftriebs- und Lasttests unterzogen.
+      description: Alle olagoon SUPs erfüllen die europäischen CE-Sicherheitsstandards für Freizeitwasserfahrzeuge. Jedes Produkt wird vor Verlassen des Werks Druck-, Auftriebs- und Lasttests unterzogen.
       icon: tabler:certificate
     - title: ISO 9001
       description: Unsere 12.000 m² große Anlage in Qingdao arbeitet nach einem Qualitätsmanagementsystem gemäß ISO 9001. Jede Produktionscharge ist rückverfolgbar, dokumentiert und geprüft.
@@ -48,20 +48,20 @@ features3_certifications:
       description: Unser internes Labor testet Zugfestigkeit, UV-Beständigkeit, Nahtintegrität und Abriebfestigkeit jeder Stoffcharge vor der Produktion.
       icon: tabler:microscope
     - title: 3 Jahre Garantie
-      description: Jedes afarer-Produkt wird mit einer dreijährigen Garantie gegen Herstellungsfehler geliefert. Wir stehen zu dem, was wir bauen.
+      description: Jedes olagoon-Produkt wird mit einer dreijährigen Garantie gegen Herstellungsfehler geliefert. Wir stehen zu dem, was wir bauen.
       icon: tabler:shield-check
 testimonials:
   tagline: Kundenvertrauen
   title: Was unsere Kunden sagen
-  subtitle: Vom Anfänger bis zum professionellen Flottenbetreiber — sehen Sie, warum sie afarer vertrauen.
+  subtitle: Vom Anfänger bis zum professionellen Flottenbetreiber — sehen Sie, warum sie olagoon vertrauen.
   items:
-    - content: Wir haben unsere gesamte Verleihflotte mit afarer SUPs ausgestattet. Zwei Saisons lang, kein einziger Ausfall. Die CE-Zertifizierung machte die Versicherungsgenehmigung reibungslos.
+    - content: Wir haben unsere gesamte Verleihflotte mit olagoon SUPs ausgestattet. Zwei Saisons lang, kein einziger Ausfall. Die CE-Zertifizierung machte die Versicherungsgenehmigung reibungslos.
       name: Marco V.
       title: Touristikunternehmer, Kroatien
     - content: Als Erstkäufer war ich besorgt über die Qualität. Die ISO-Dokumentation und Prüfberichte, die sie teilten, gaben mir volles Vertrauen.
       name: James T.
       title: SUP Explorer 11 Besitzer, Kanada
-    - content: Wir arbeiten mit afarer für unsere Küstenpatrouilleneinheiten. Ihr QS-Prozess ist über alle Chargen hinweg konsistent — diese Zuverlässigkeit zählt bei missionkritischen Einsätzen.
+    - content: Wir arbeiten mit olagoon für unsere Küstenpatrouilleneinheiten. Ihr QS-Prozess ist über alle Chargen hinweg konsistent — diese Zuverlässigkeit zählt bei missionkritischen Einsätzen.
       name: Lt. Cmdr. Andres
       title: Marinebeschaffung, Philippinen
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Wir stehen hinter jedem Produkt mit klaren Garantiebedingungen, schneller Schadensbearbeitung und echten Ersatzteilen.
   items:
     - title: 3 Jahre Produktgarantie
-      desc: Alle afarer-Produkte haben eine 3-jährige Garantie gegen Herstellungsfehler — Nahtversagen, Ventilfehler und Materialdelamination unter normaler Nutzung.
+      desc: Alle olagoon-Produkte haben eine 3-jährige Garantie gegen Herstellungsfehler — Nahtversagen, Ventilfehler und Materialdelamination unter normaler Nutzung.
     - title: Lebenslange Ersatzteilunterstützung
       desc: Echte Ersatzteile — Ventile, Reparaturkits, Finnen, D-Ringe — für alle Modelle erhältlich. Wir erhalten Formen und Werkzeuge mindestens 5 Jahre nach Produktionsende.
     - title: 48-Stunden-Antragsantwort
@@ -149,25 +149,25 @@ faqs_sup:
     - title: Bieten Sie komplette SUP-Pakete an?
       description: Ja. Jedes SUP-Board wird mit einem Komplettpaket geliefert, das ein 3-teiliges Aluminiumpaddel, eine Hochdruck-Handpumpe, eine Spiralleine, einen Reiserucksack und ein Reparaturset enthält. Einige Modelle enthalten auch einen abnehmbaren Finnen-Satz.
     - title: Welche Garantie gilt für SUP-Boards?
-      description: Alle afarer SUP-Boards haben eine dreijährige Garantie gegen Herstellungsfehler, einschließlich Nahtversagen, Ventildefekte und Materialdelamination bei normalem Gebrauch.
+      description: Alle olagoon SUP-Boards haben eine dreijährige Garantie gegen Herstellungsfehler, einschließlich Nahtversagen, Ventildefekte und Materialdelamination bei normalem Gebrauch.
     - title: Wie lange dauert es, ein SUP-Board aufzupumpen?
-      description: Mit der mitgelieferten Handpumpe dauert eine vollständige Befüllung auf 15 PSI etwa 8–12 Minuten. Für schnelleres Aufpumpen empfehlen wir unsere afarer 12V-Elektropumpe, die ein Board in unter 4 Minuten aufpumpt.
+      description: Mit der mitgelieferten Handpumpe dauert eine vollständige Befüllung auf 15 PSI etwa 8–12 Minuten. Für schnelleres Aufpumpen empfehlen wir unsere olagoon 12V-Elektropumpe, die ein Board in unter 4 Minuten aufpumpt.
 faqs_materials:
   title: SUP Material & Pflege FAQs
   subtitle: Häufige Fragen zu unseren aufblasbaren SUP-Materialien, deren Pflege und Lagerung.
   columns: 2
   items:
-    - title: Welche Materialien werden in Afarer aufblasbaren SUPs verwendet?
+    - title: Welche Materialien werden in OLagoon aufblasbaren SUPs verwendet?
       description: Wir verwenden militärischen PVC-Qualität (1100 Denier) mit UV-stabilisierter, verschleißfester Konstruktion, die den EU-REACH- und RoHS-Vorschriften entspricht.
     - title: Wie lange halten aufblasbare SUPs?
       description: Bei richtiger Pflege hält ein hochwertiges PVC-aufblasbares SUP 5–10 Jahre. Regelmäßige Reinigung, UV-Schutz und sachgemäße Lagerung verlängern die Lebensdauer erheblich.
     - title: Welche Wartung ist für ein aufblasbares SUP erforderlich?
       description: Grundlegende Wartung umfasst das Abspülen mit Süßwasser nach jedem Gebrauch (insbesondere in Salzwasser), das Trocknen vor der Lagerung, die jährliche Überprüfung der Ventildichtungen und das Vermeiden von längerer Sonneneinstrahlung, wenn es nicht in Gebrauch ist.
     - title: Können aufblasbare SUPs in Salzwasser verwendet werden?
-      description: Ja. Alle aufblasbaren SUPs von Afarer sind sowohl für den Gebrauch in Süßwasser als auch in Salzwasser konzipiert. Wir empfehlen, nach dem Einsatz im Salzwasser mit Süßwasser zu spülen und gründlich zu trocknen.
+      description: Ja. Alle aufblasbaren SUPs von OLagoon sind sowohl für den Gebrauch in Süßwasser als auch in Salzwasser konzipiert. Wir empfehlen, nach dem Einsatz im Salzwasser mit Süßwasser zu spülen und gründlich zu trocknen.
     - title: Wie lagere ich ein aufblasbares SUP?
       description: Entlüften, reinigen und das Brett vor der Lagerung vollständig trocknen. Locker aufrollen (enge Falten vermeiden), an einem kühlen, trockenen Ort ohne direkte Sonneneinstrahlung lagern und von Betonböden fernhalten, um das Aufsaugen von Feuchtigkeit zu verhindern.
-    - title: Wie hoch ist die Gewichtskapazität von afarer aufblasbaren SUPs?
+    - title: Wie hoch ist die Gewichtskapazität von olagoon aufblasbaren SUPs?
       description: Die Tragfähigkeiten reichen von 100 kg für unsere kleinsten Modelle bis über 200 kg für größere Boards. Jede Produktseite gibt die maximale Traglast für Ihr spezifisches Modell an.
 cta:
   title: Möchten Sie die Zertifikate selbst sehen?

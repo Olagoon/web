@@ -322,7 +322,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Barisan Produk Penuh — SUP & Aksesori',
     industry: 'Pengedaran / Marin',
     challenge:
-      'Pengedar berpangkalan di GCC ingin mendapatkan hak eksklusif untuk mewakili barisan produk afarer yang penuh merentasi 6 negara Teluk, dengan pembungkusan bahasa Arab tersuai, spesifikasi bahan tahan haba, dan terma waranti patuh syariah.',
+      'Pengedar berpangkalan di GCC ingin mendapatkan hak eksklusif untuk mewakili barisan produk olagoon yang penuh merentasi 6 negara Teluk, dengan pembungkusan bahasa Arab tersuai, spesifikasi bahan tahan haba, dan terma waranti patuh syariah.',
     solution:
       'Menubuhkan perjanjian pengedaran eksklusif. Membangunkan pembungkusan bahasa Arab dan bahan pemasaran. Mengesahkan spesifikasi bahan pada suhu ambien 50°C. Menyesuaikan terma waranti untuk pematuhan serantau.',
     result:
@@ -399,7 +399,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Syarikat teknologi Fortune 500 ingin melancarkan program kebajikan berasaskan air untuk pekerja merentasi 4 kampus global bertempat tepi tasik, memerlukan 60 SUP dengan penjenamaan korporat, penyelesaian storan, dan latihan jurulatih.',
     solution:
-      'Membekalkan armada SUP serba boleh yang stabil dengan grafik dek logo korporat. Mereka bentuk rak storan tahan cuaca di lokasi. Menganugerahkan pensijilan kepada 12 jurulatih dalaman melalui program latihan afarer.',
+      'Membekalkan armada SUP serba boleh yang stabil dengan grafik dek logo korporat. Mereka bentuk rak storan tahan cuaca di lokasi. Menganugerahkan pensijilan kepada 12 jurulatih dalaman melalui program latihan olagoon.',
     result:
       'Program dilancarkan di 4 kampus. 2,400+ penyertaan pekerja pada tahun pertama. Penilaian kepuasan pekerja 94%. Ditampilkan dalam laporan kemampanan syarikat.',
     outcomeMetrics: [

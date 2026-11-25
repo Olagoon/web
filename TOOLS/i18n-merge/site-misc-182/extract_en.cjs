@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
-const SITE = 'E:/github/afarer/src/data/site';
+const SITE = 'E:/github/olagoon/src/data/site';
 const OUT = path.join(__dirname, 'out');
 fs.mkdirSync(OUT, { recursive: true });
 
@@ -75,7 +75,7 @@ tagList.forEach((w) => put(`evidence.tags.${w}`, w));
 // ---- learn (EN hardcoded in src/pages/[lang]/learn/[slug].astro) ----
 const learn = {
   sup: {
-    title: 'SUP Knowledge — Inflatable SUP Guides & Resources | Afarer',
+    title: 'SUP Knowledge — Inflatable SUP Guides & Resources | OLagoon',
     description:
       'Complete SUP knowledge hub covering beginner guides, board sizing, technique tutorials, safety tips, and inflatable SUP technology.',
     articles: [
@@ -106,7 +106,7 @@ const learn = {
     ],
   },
   'water-safety': {
-    title: 'Water Safety Knowledge — Safe Paddling Guides | Afarer',
+    title: 'Water Safety Knowledge — Safe Paddling Guides | OLagoon',
     description:
       'Comprehensive water safety resources for SUP, kayaking, and boating. Learn about PFD selection, weather reading, self-rescue, cold water safety, and CE certification.',
     articles: [
@@ -139,7 +139,7 @@ const learn = {
   'sup-basics': {
     title: "SUP Basics — Beginner's Guide to Stand-Up Paddle Boarding",
     description:
-      "Everything you need to know to start stand-up paddle boarding. Gear guides, sizing advice, safety tips, and beginner techniques from Afarer's knowledge center.",
+      "Everything you need to know to start stand-up paddle boarding. Gear guides, sizing advice, safety tips, and beginner techniques from OLagoon's knowledge center.",
   },
   'drop-stitch-core': {
     title: 'Drop-Stitch Core Technology — How Inflatable SUPs Achieve Rigidity',
@@ -182,11 +182,11 @@ for (const [slug, d] of Object.entries(learn)) {
 }
 put('learn.misc.readGuide', 'Read guide →');
 put('learn.misc.techDesc', 'Marine safety engineering and material testing');
-put('learn.misc.productsDesc', 'Explore the full Afarer product catalog');
+put('learn.misc.productsDesc', 'Explore the full OLagoon product catalog');
 put('learn.misc.trustDesc', 'CE, ISO and BSCI compliance');
 
 // cross-check learn EN strings appear verbatim in the .astro source
-const astro = fs.readFileSync('E:/github/afarer/src/pages/[lang]/learn/[slug].astro', 'utf8');
+const astro = fs.readFileSync('E:/github/olagoon/src/pages/[lang]/learn/[slug].astro', 'utf8');
 for (const [id, v] of Object.entries(src)) {
   if (!id.startsWith('learn.')) continue;
   if (id === 'learn.misc.readGuide') continue; // 'Read guide →' is inside fr() call

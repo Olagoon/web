@@ -1,10 +1,10 @@
 misc:
   readGuide: Loe juhendit →
   techDesc: Mereohutuse inseneritöö ja materjalide testimine
-  productsDesc: Tutvu afareri täieliku tootekataloogiga
+  productsDesc: Tutvu olagooni täieliku tootekataloogiga
   trustDesc: CE-, ISO- ja BSCI-vastavus
 sup:
-  title: SUP-i teadmised — täispuhutavate SUP-ide juhendid ja ressursid | Afarer
+  title: SUP-i teadmised — täispuhutavate SUP-ide juhendid ja ressursid | OLagoon
   description: Täielik SUP-i teadmusbaas, hõlmates algajate juhendeid, lauamõõte, tehnilisi õpetusi, ohutusnippe ja täispuhutava SUP-i tehnoloogiat.
   articles:
     - title: SUP-i alused — algaja juhend
@@ -26,7 +26,7 @@ sup:
       desc: Hädavajalik ohutusteave, sealhulgas ilma lugemine, PFD-i valik, isepääste ja rühmasõudmine.
       href: /learn/water-safety/
 water-safety:
-  title: Veeohutuse teadmised — ohutu sõudmise juhendid | Afarer
+  title: Veeohutuse teadmised — ohutu sõudmise juhendid | OLagoon
   description: Põhjalikud veeohutuse ressursid SUP-iks, kajakisõiduks ja paadisõiduks. Teave PFD-i valiku, ilma lugemise, isepääste, külma vee ohutuse ja CE-sertifitseerimise kohta.
   articles:
     - title: Veeohutuse juhend
@@ -49,7 +49,7 @@ water-safety:
       href: /trust/
 sup-basics:
   title: SUP-i alused — algaja juhend SUP-sõudmiseks
-  description: Kõik, mida on vaja teada SUP-sõudmise alustamiseks. Varustuse juhendid, mõõdunõuanded, ohutusnipid ja algajate tehnikad afareri teadmiste keskusest.
+  description: Kõik, mida on vaja teada SUP-sõudmise alustamiseks. Varustuse juhendid, mõõdunõuanded, ohutusnipid ja algajate tehnikad olagooni teadmiste keskusest.
   articles: []
 drop-stitch-core:
   title: Drop-stitch-tuumtehnoloogia — kuidas täispuhutavad SUP-id saavutavad jäikuse

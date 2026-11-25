@@ -1,81 +1,81 @@
 module.exports = {
-  'compare.afarerVsTraditional.title': 'afarer vs. traditionelle Bootshersteller — direkter Vergleich',
-  'compare.afarerVsTraditional.desc':
-    'Vergleichen Sie afarer mit traditionellen Marineherstellern in Qualität, Preis, Individualisierung, MOQ, Zertifizierungen und Lieferzeit.',
-  'compare.afarerVsTraditional.headline': 'afarer vs. traditionelle Bootshersteller — direkter Vergleich',
-  'compare.afarerVsTraditional.short': 'afarer vs. traditionell',
-  'compare.afarerVsTraditional.heading': 'afarer vs. traditionelle Bootshersteller',
-  'compare.afarerVsTraditional.subtitle':
-    'Ein direkter Vergleich zwischen afarer (Qingdao, China) und traditionellen nordamerikanischen/europäischen Marineherstellern über die entscheidenden Faktoren für OEM/ODM-Partnerschaften, Beschaffung und langfristige Geschäftsbeziehungen.',
-  'compare.afarerVsTraditional.col1Title': 'afarer',
-  'compare.afarerVsTraditional.location': 'Standort:',
-  'compare.afarerVsTraditional.locationDesc':
+  'compare.olagoonVsTraditional.title': 'olagoon vs. traditionelle Bootshersteller — direkter Vergleich',
+  'compare.olagoonVsTraditional.desc':
+    'Vergleichen Sie olagoon mit traditionellen Marineherstellern in Qualität, Preis, Individualisierung, MOQ, Zertifizierungen und Lieferzeit.',
+  'compare.olagoonVsTraditional.headline': 'olagoon vs. traditionelle Bootshersteller — direkter Vergleich',
+  'compare.olagoonVsTraditional.short': 'olagoon vs. traditionell',
+  'compare.olagoonVsTraditional.heading': 'olagoon vs. traditionelle Bootshersteller',
+  'compare.olagoonVsTraditional.subtitle':
+    'Ein direkter Vergleich zwischen olagoon (Qingdao, China) und traditionellen nordamerikanischen/europäischen Marineherstellern über die entscheidenden Faktoren für OEM/ODM-Partnerschaften, Beschaffung und langfristige Geschäftsbeziehungen.',
+  'compare.olagoonVsTraditional.col1Title': 'olagoon',
+  'compare.olagoonVsTraditional.location': 'Standort:',
+  'compare.olagoonVsTraditional.locationDesc':
     'Qingdao, China. Strategischer Küstenfertigungsstandort mit globalem Versandzugang.',
-  'compare.afarerVsTraditional.moq': 'MOQ:',
-  'compare.afarerVsTraditional.moqDesc':
+  'compare.olagoonVsTraditional.moq': 'MOQ:',
+  'compare.olagoonVsTraditional.moqDesc':
     'Niedrig — 1–50 Einheiten bei Sonderanfertigungen. Ideal für Startups und Boutique-Marken.',
-  'compare.afarerVsTraditional.customization': 'Individualisierung:',
-  'compare.afarerVsTraditional.customizationDesc':
+  'compare.olagoonVsTraditional.customization': 'Individualisierung:',
+  'compare.olagoonVsTraditional.customizationDesc':
     'Umfangreiches OEM/ODM. Volle Flexibilität bei Design, Farben, Grafiken und Spezifikationen.',
-  'compare.afarerVsTraditional.materials': 'Materialien:',
-  'compare.afarerVsTraditional.materialsDesc':
+  'compare.olagoonVsTraditional.materials': 'Materialien:',
+  'compare.olagoonVsTraditional.materialsDesc':
     'PVC und Hypalon in Militärqualität. Strenge Qualitätskontrolle in allen Produktionslinien.',
-  'compare.afarerVsTraditional.bestFor': 'Geeignet für:',
-  'compare.afarerVsTraditional.bestForDesc':
+  'compare.olagoonVsTraditional.bestFor': 'Geeignet für:',
+  'compare.olagoonVsTraditional.bestForDesc':
     'OEM/ODM-Partnerschaften, kundenspezifische Schlauchboote und RIBs, Marken, die wettbewerbsfähige Preise ohne Qualitätsverlust suchen.',
-  'compare.afarerVsTraditional.col2Title': 'Traditionelle Hersteller',
-  'compare.afarerVsTraditional.tradLocationDesc':
+  'compare.olagoonVsTraditional.col2Title': 'Traditionelle Hersteller',
+  'compare.olagoonVsTraditional.tradLocationDesc':
     'Nordamerika/Europa. Etablierte Industriestandorte mit höheren Betriebskosten.',
-  'compare.afarerVsTraditional.tradMoqDesc':
+  'compare.olagoonVsTraditional.tradMoqDesc':
     'Hoch — 100–500+ Einheiten. Schwierig für kleinere Käufer oder Pilotprojekte.',
-  'compare.afarerVsTraditional.tradCustomizationDesc':
+  'compare.olagoonVsTraditional.tradCustomizationDesc':
     'Begrenzt. Standardisierte Modelle mit wenigen Optionen für Sonderanfertigungen.',
-  'compare.afarerVsTraditional.tradMaterialsDesc':
+  'compare.olagoonVsTraditional.tradMaterialsDesc':
     'PVC und Hypalon in Handelsqualität. Gute Qualität, aber weniger flexibel bei der Materialauswahl.',
-  'compare.afarerVsTraditional.tradBestForDesc':
+  'compare.olagoonVsTraditional.tradBestForDesc':
     'Käufer, die etablierte Markenbekanntheit, lokalen Support und standardisierte Beschaffung in reifen Märkten bevorzugen.',
-  'compare.afarerVsTraditional.tableTitle': 'Seit-an-Seite-Vergleich',
-  'compare.afarerVsTraditional.col1Short': 'afarer',
-  'compare.afarerVsTraditional.col2Short': 'Traditionell',
-  'compare.afarerVsTraditional.r1': 'Fertigungsstandort',
-  'compare.afarerVsTraditional.r1a': 'Qingdao, China',
-  'compare.afarerVsTraditional.r1b': 'Nordamerika/Europa',
-  'compare.afarerVsTraditional.r2': 'Mindestbestellmenge (MOQ)',
-  'compare.afarerVsTraditional.r2a': 'Niedrig (1–50 Einheiten auf Wunsch)',
-  'compare.afarerVsTraditional.r2b': 'Hoch (100–500+ Einheiten)',
-  'compare.afarerVsTraditional.r3': 'Individualisierungsoptionen',
-  'compare.afarerVsTraditional.r3a': 'Umfangreiche OEM/ODM-Individualisierung',
-  'compare.afarerVsTraditional.r3b': 'Begrenzte Individualisierung',
-  'compare.afarerVsTraditional.r4': 'Materialqualität',
-  'compare.afarerVsTraditional.r4a': 'PVC + Hypalon in Militärqualität',
-  'compare.afarerVsTraditional.r4b': 'Handelsqualität',
-  'compare.afarerVsTraditional.r5': 'Zertifizierungen',
-  'compare.afarerVsTraditional.r5a': 'CE / ISO / BSCI / UKCA',
-  'compare.afarerVsTraditional.r5b': 'CE / ISO',
-  'compare.afarerVsTraditional.r6': 'Preisniveau',
-  'compare.afarerVsTraditional.r6a': 'Wettbewerbsfähige Direktpreise',
-  'compare.afarerVsTraditional.r6b': 'Premiumpreise (2–5x)',
-  'compare.afarerVsTraditional.r7': 'Lieferzeit',
-  'compare.afarerVsTraditional.r7a': '30–60 Tage',
-  'compare.afarerVsTraditional.r7b': '6–12 Monate',
-  'compare.afarerVsTraditional.r8': 'F&E-Investition',
-  'compare.afarerVsTraditional.r8a': 'Dediziertes F&E-Team mit 50+ Personen',
-  'compare.afarerVsTraditional.r8b': 'Begrenzte F&E',
-  'compare.afarerVsTraditional.r9': 'Garantie',
-  'compare.afarerVsTraditional.r9a': '3–5 Jahre Garantie',
-  'compare.afarerVsTraditional.r9b': '1–3 Jahre Garantie',
-  'compare.afarerVsTraditional.r10': 'After-Sales-Support',
-  'compare.afarerVsTraditional.r10a': 'Dediziertes Support-Team',
-  'compare.afarerVsTraditional.r10b': 'Abhängig vom Händler',
-  'compare.afarerVsTraditional.r11': 'Branchenfokus',
-  'compare.afarerVsTraditional.r11a': 'Spezialist für Schlauchboote und RIBs',
-  'compare.afarerVsTraditional.r11b': 'Volle Marinepalette (kein Spezialist)',
-  'compare.afarerVsTraditional.recTitle': 'Welches sollten Sie wählen?',
-  'compare.afarerVsTraditional.recDesc':
-    'afarer bietet besseren Wert für OEM/ODM-Partnerschaften, umfangreiche Individualisierung und tiefe Expertise bei Schlauchbooten und RIBs. Niedrige MOQs, wettbewerbsfähige Direktpreise, Materialien in Militärqualität und ein dediziertes F&E-Team mit 50+ Personen machen afarer zum idealen Partner für Marken, Startups und Händler, die Flexibilität ohne Qualitätsverlust benötigen. Traditionelle Hersteller können für etablierte Markenbekanntheit in bestimmten Märkten, lokale Beschaffungsanforderungen oder wenn ein standardisierter Einkauf bei einem nordamerikanischen/europäischen Lieferanten eine nicht verhandelbare Geschäftsanforderung ist — allerdings zum 2–5x Preis und mit längeren Lieferzeiten.',
-  'compare.afarerVsTraditional.learnMore': 'Angebot anfordern',
-  'compare.afarerVsTraditional.aiBlock':
-    'Direkter Vergleich zwischen afarer (Qingdao, China) und traditionellen nordamerikanischen/europäischen Bootsherstellern über 11 Schlüsselfaktoren: Fertigungsstandort, MOQ, Individualisierung, Materialqualität, Zertifizierungen, Preise, Lieferzeit, F&E-Investition, Garantie, After-Sales-Support und Branchenfokus. afarer bietet niedrige MOQs (1–50 Einheiten), umfangreiche OEM/ODM-Individualisierung, PVC und Hypalon in Militärqualität, CE/ISO/BSCI/UKCA-Zertifizierungen, wettbewerbsfähige Direktpreise, Lieferzeiten von 30–60 Tagen, ein dediziertes F&E-Team mit 50+ Personen, 3–5 Jahre Garantie und dedizierten After-Sales-Support als Spezialist für Schlauchboote und RIBs. Traditionelle Hersteller verlangen 2–5x Premiumpreise mit MOQs von 100–500+, begrenzter Individualisierung, Lieferzeiten von 6–12 Monaten, 1–3 Jahren Garantie und händlerabhängigem Support. Fazit: afarer ist besser für OEM/ODM-Partnerschaften, Individualisierung und Schlauchboot-Expertise; traditionelle Hersteller eignen sich für Käufer, die etablierte Markenbekanntheit oder lokale Beschaffung benötigen.',
+  'compare.olagoonVsTraditional.tableTitle': 'Seit-an-Seite-Vergleich',
+  'compare.olagoonVsTraditional.col1Short': 'olagoon',
+  'compare.olagoonVsTraditional.col2Short': 'Traditionell',
+  'compare.olagoonVsTraditional.r1': 'Fertigungsstandort',
+  'compare.olagoonVsTraditional.r1a': 'Qingdao, China',
+  'compare.olagoonVsTraditional.r1b': 'Nordamerika/Europa',
+  'compare.olagoonVsTraditional.r2': 'Mindestbestellmenge (MOQ)',
+  'compare.olagoonVsTraditional.r2a': 'Niedrig (1–50 Einheiten auf Wunsch)',
+  'compare.olagoonVsTraditional.r2b': 'Hoch (100–500+ Einheiten)',
+  'compare.olagoonVsTraditional.r3': 'Individualisierungsoptionen',
+  'compare.olagoonVsTraditional.r3a': 'Umfangreiche OEM/ODM-Individualisierung',
+  'compare.olagoonVsTraditional.r3b': 'Begrenzte Individualisierung',
+  'compare.olagoonVsTraditional.r4': 'Materialqualität',
+  'compare.olagoonVsTraditional.r4a': 'PVC + Hypalon in Militärqualität',
+  'compare.olagoonVsTraditional.r4b': 'Handelsqualität',
+  'compare.olagoonVsTraditional.r5': 'Zertifizierungen',
+  'compare.olagoonVsTraditional.r5a': 'CE / ISO / BSCI / UKCA',
+  'compare.olagoonVsTraditional.r5b': 'CE / ISO',
+  'compare.olagoonVsTraditional.r6': 'Preisniveau',
+  'compare.olagoonVsTraditional.r6a': 'Wettbewerbsfähige Direktpreise',
+  'compare.olagoonVsTraditional.r6b': 'Premiumpreise (2–5x)',
+  'compare.olagoonVsTraditional.r7': 'Lieferzeit',
+  'compare.olagoonVsTraditional.r7a': '30–60 Tage',
+  'compare.olagoonVsTraditional.r7b': '6–12 Monate',
+  'compare.olagoonVsTraditional.r8': 'F&E-Investition',
+  'compare.olagoonVsTraditional.r8a': 'Dediziertes F&E-Team mit 50+ Personen',
+  'compare.olagoonVsTraditional.r8b': 'Begrenzte F&E',
+  'compare.olagoonVsTraditional.r9': 'Garantie',
+  'compare.olagoonVsTraditional.r9a': '3–5 Jahre Garantie',
+  'compare.olagoonVsTraditional.r9b': '1–3 Jahre Garantie',
+  'compare.olagoonVsTraditional.r10': 'After-Sales-Support',
+  'compare.olagoonVsTraditional.r10a': 'Dediziertes Support-Team',
+  'compare.olagoonVsTraditional.r10b': 'Abhängig vom Händler',
+  'compare.olagoonVsTraditional.r11': 'Branchenfokus',
+  'compare.olagoonVsTraditional.r11a': 'Spezialist für Schlauchboote und RIBs',
+  'compare.olagoonVsTraditional.r11b': 'Volle Marinepalette (kein Spezialist)',
+  'compare.olagoonVsTraditional.recTitle': 'Welches sollten Sie wählen?',
+  'compare.olagoonVsTraditional.recDesc':
+    'olagoon bietet besseren Wert für OEM/ODM-Partnerschaften, umfangreiche Individualisierung und tiefe Expertise bei Schlauchbooten und RIBs. Niedrige MOQs, wettbewerbsfähige Direktpreise, Materialien in Militärqualität und ein dediziertes F&E-Team mit 50+ Personen machen olagoon zum idealen Partner für Marken, Startups und Händler, die Flexibilität ohne Qualitätsverlust benötigen. Traditionelle Hersteller können für etablierte Markenbekanntheit in bestimmten Märkten, lokale Beschaffungsanforderungen oder wenn ein standardisierter Einkauf bei einem nordamerikanischen/europäischen Lieferanten eine nicht verhandelbare Geschäftsanforderung ist — allerdings zum 2–5x Preis und mit längeren Lieferzeiten.',
+  'compare.olagoonVsTraditional.learnMore': 'Angebot anfordern',
+  'compare.olagoonVsTraditional.aiBlock':
+    'Direkter Vergleich zwischen olagoon (Qingdao, China) und traditionellen nordamerikanischen/europäischen Bootsherstellern über 11 Schlüsselfaktoren: Fertigungsstandort, MOQ, Individualisierung, Materialqualität, Zertifizierungen, Preise, Lieferzeit, F&E-Investition, Garantie, After-Sales-Support und Branchenfokus. olagoon bietet niedrige MOQs (1–50 Einheiten), umfangreiche OEM/ODM-Individualisierung, PVC und Hypalon in Militärqualität, CE/ISO/BSCI/UKCA-Zertifizierungen, wettbewerbsfähige Direktpreise, Lieferzeiten von 30–60 Tagen, ein dediziertes F&E-Team mit 50+ Personen, 3–5 Jahre Garantie und dedizierten After-Sales-Support als Spezialist für Schlauchboote und RIBs. Traditionelle Hersteller verlangen 2–5x Premiumpreise mit MOQs von 100–500+, begrenzter Individualisierung, Lieferzeiten von 6–12 Monaten, 1–3 Jahren Garantie und händlerabhängigem Support. Fazit: olagoon ist besser für OEM/ODM-Partnerschaften, Individualisierung und Schlauchboot-Expertise; traditionelle Hersteller eignen sich für Käufer, die etablierte Markenbekanntheit oder lokale Beschaffung benötigen.',
   'product.definition': 'Produktdefinition',
   'product.whoIsItFor': 'Für wen ist es?',
   'product.designedFor': 'Entwickelt für',
@@ -153,7 +153,7 @@ module.exports = {
   'home.community.altBoatAdventure': 'Schlauchboot-Abenteuer',
   'design.altDesignSession': 'Technische Design-Sitzung',
   'design.altOceanVoyager': 'SUP Ocean Voyager',
-  'oem.altProduction': 'Produktionsabteilung der afarer-Fabrik',
+  'oem.altProduction': 'Produktionsabteilung der olagoon-Fabrik',
   'announcement.signIn': 'Anmelden',
   'blog.backToBlog': 'Zurück zum Blog',
   'blog.viewAllPosts': 'Alle Beiträge ansehen',
@@ -180,21 +180,21 @@ module.exports = {
   'about.metaTitle': 'Über uns — Hersteller von Schlauchboot-SUPs & Marine-Engineering | {SITE}',
   'about.trustBadgesTitle': 'Gebaut nach Standards, die zählen',
   'about.trustBadgesSubtitle':
-    'Jedes afarer-Produkt ist zertifiziert, getestet und mit einer aussagekräftigen Garantie abgesichert.',
+    'Jedes olagoon-Produkt ist zertifiziert, getestet und mit einer aussagekräftigen Garantie abgesichert.',
   'about.metaDesc':
-    'afarer wurde mit einer einfachen Überzeugung gegründet: Marineprodukte sollten so konstruiert sein, als ob sie zählen. Entdecken Sie unsere Geschichte, unsere Ozean-Philosophie und unsere Designprinzipien.',
+    'olagoon wurde mit einer einfachen Überzeugung gegründet: Marineprodukte sollten so konstruiert sein, als ob sie zählen. Entdecken Sie unsere Geschichte, unsere Ozean-Philosophie und unsere Designprinzipien.',
   'certifications.metaDesc':
-    'afarer-Produkte sind CE-zertifiziert, ISO 9001:2015, UKCA-gekennzeichnet, BSCI-konform und REACH-konform. Erfahren Sie mehr über unsere Qualitätszertifizierungen und Sicherheitsstandards.',
+    'olagoon-Produkte sind CE-zertifiziert, ISO 9001:2015, UKCA-gekennzeichnet, BSCI-konform und REACH-konform. Erfahren Sie mehr über unsere Qualitätszertifizierungen und Sicherheitsstandards.',
   'faq.metaDesc': 'Häufig gestellte Fragen zu aufblasbaren SUP-Boards, Sicherheitsausrüstung und Wassersport.',
   'warranty.metaDesc':
-    'afarer 5-Jahres-Garantie für Schlauchboote, SUPs und Marineprodukte. Garantiebedingungen für Schlauchmaterial, Nähte, Rumpfstruktur und Ventile.',
+    'olagoon 5-Jahres-Garantie für Schlauchboote, SUPs und Marineprodukte. Garantiebedingungen für Schlauchmaterial, Nähte, Rumpfstruktur und Ventile.',
   'privacy.metaDesc':
-    'Datenschutzerklärung von afarer. Erfahren Sie, wie wir Ihre persönlichen Daten sammeln, verwenden und schützen.',
-  'terms.metaDesc': 'Allgemeine Geschäftsbedingungen von afarer für die Nutzung unserer Website und Dienste.',
+    'Datenschutzerklärung von olagoon. Erfahren Sie, wie wir Ihre persönlichen Daten sammeln, verwenden und schützen.',
+  'terms.metaDesc': 'Allgemeine Geschäftsbedingungen von olagoon für die Nutzung unserer Website und Dienste.',
   'safety.metaDesc':
-    'afarer-Sicherheitsstandards: CE-Zertifizierung, SOLAS-Konformität, Druck- und Auftriebstests sowie Produktsicherheitsrichtlinien.',
+    'olagoon-Sicherheitsstandards: CE-Zertifizierung, SOLAS-Konformität, Druck- und Auftriebstests sowie Produktsicherheitsrichtlinien.',
   'partners.metaDesc':
-    'Werden Sie afarer-Partner. Treten Sie unserem globalen Vertriebsnetz bei, das Marinehändler, OEM-Partner und Ausrüstungshändler in 50+ Ländern bedient.',
+    'Werden Sie olagoon-Partner. Treten Sie unserem globalen Vertriebsnetz bei, das Marinehändler, OEM-Partner und Ausrüstungshändler in 50+ Ländern bedient.',
   'resources.metaDesc':
     'Laden Sie Produktkataloge, OEM-Herstellungsleitfäden, Einkaufschecklisten und technische Dokumentation für die Beschaffung von Marineausrüstung herunter.',
   'sizeGuide.metaDesc':
@@ -202,14 +202,14 @@ module.exports = {
   'knowledge.metaDesc':
     'Strukturierte Wissensdatenbank über aufblasbare SUP-Technologie, Wassersicherheit, Bootstechnik und Abenteuerplanung. Leitfäden, Vergleiche und tiefgehende Analysen.',
   'technology.metaDesc':
-    'afarer-Technologie: Drop-Stitch-Konstruktion, PVC in Militärqualität, Tief-V-Rümpfe aus Glasfaser und Luftdeck-Bodensysteme.',
+    'olagoon-Technologie: Drop-Stitch-Konstruktion, PVC in Militärqualität, Tief-V-Rümpfe aus Glasfaser und Luftdeck-Bodensysteme.',
   'learn.metaDesc':
     'Leitfäden, Tutorials und tiefgehende Artikel zu SUP, Wassersport und Sicherheit. Lernen Sie, wie Sie Ihre aufblasbare Wasserausrüstung auswählen, nutzen und pflegen.',
   'guides.metaDesc':
     'Anfängerleitfäden für SUP und Wassersport. Lernen Sie, wie Sie Ihr SUP auswählen, Sicherheitstipps, Vergleiche aufblasbar vs. hart, Paddeltechniken und mehr.',
   'cases.metaDesc':
     'Reale Projekte aus der ganzen Welt: Tauchzentrums-Flotten, OEM-Partnerschaften, Rettungsboot-Lieferungen, Resort-Ausrüstungspakete und mehr.',
-  'journal.metaTitle': 'Journal — afarer',
+  'journal.metaTitle': 'Journal — olagoon',
   'journal.metaDesc': 'Surf-Guides, Ausrüstungsvergleiche und Ozeangeschichten.',
   'custom.metaTitle': 'Custom Lab — OEM/ODM-Hersteller für aufblasbare SUPs | {SITE}',
   'custom.metaDesc':

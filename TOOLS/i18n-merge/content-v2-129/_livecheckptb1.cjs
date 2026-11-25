@@ -1,11 +1,11 @@
-// v2 pt batch-1 live verification via curl (direct, no proxy — afarer.com direct OK).
+// v2 pt batch-1 live verification via curl (direct, no proxy — olagoon.com direct OK).
 // Fetches /pt/v2/<16 batch-1 slugs> + pt index + pt EN-fallback for a record beyond batch 1
 // + nl pure EN-fallback page (nl has no overlay).
 const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const yaml = require(path.join(ROOT, 'node_modules', 'js-yaml'));
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
 
@@ -27,7 +27,7 @@ const SLUGS = [
   'longboard-vs-shortboard',
   'best-surf-gear-brands-compared',
 ];
-const PT_FALLBACK = 'afarer-surfboard-pro'; // beyond batch 1 -> EN fallback inside pt
+const PT_FALLBACK = 'olagoon-surfboard-pro'; // beyond batch 1 -> EN fallback inside pt
 const NL_FALLBACK = 'how-to-choose-a-surfboard-for-beginners'; // nl has no overlay -> pure EN
 
 const ptRecs = yaml.load(fs.readFileSync(path.join(ROOT, 'src/data/site/content-v2.pt.yaml'), 'utf8'));
@@ -56,7 +56,7 @@ const fetch = (url, out) =>
 // 1) pt index
 {
   const idxOut = path.join(TMP, 'liveptb1_pt_index.html');
-  const code = fetch('https://afarer.com/pt/v2/', idxOut);
+  const code = fetch('https://olagoon.com/pt/v2/', idxOut);
   const idxBody = fs.readFileSync(idxOut, 'utf8');
   if (code === '200' && idxBody.includes('<html')) pass('/pt/v2/ index 200');
   else fail('/pt/v2/ index code=' + code);
@@ -70,7 +70,7 @@ const fetch = (url, out) =>
 // 2) 16 translated pt pages
 for (const slug of SLUGS) {
   const out = path.join(TMP, 'liveptb1_pt_' + slug + '.html');
-  const c = fetch('https://afarer.com/pt/v2/' + slug, out);
+  const c = fetch('https://olagoon.com/pt/v2/' + slug, out);
   const body = fs.readFileSync(out, 'utf8');
   const t = String(titles.get(slug));
   const enT = enTitle(slug);
@@ -86,7 +86,7 @@ for (const slug of SLUGS) {
 // 3) pt EN fallback for record beyond batch 1
 {
   const fbOut = path.join(TMP, 'liveptb1_pt_fb.html');
-  const fc = fetch('https://afarer.com/pt/v2/' + PT_FALLBACK, fbOut);
+  const fc = fetch('https://olagoon.com/pt/v2/' + PT_FALLBACK, fbOut);
   const fb = fs.readFileSync(fbOut, 'utf8');
   const t = enTitle(PT_FALLBACK);
   if (fc === '200' && fb.includes(esc(t))) pass('/pt/v2/' + PT_FALLBACK + ' EN fallback (beyond batch 1)');
@@ -96,7 +96,7 @@ for (const slug of SLUGS) {
 // 4) nl pure EN fallback
 {
   const fbOut = path.join(TMP, 'liveptb1_nl_fb.html');
-  const fc = fetch('https://afarer.com/nl/v2/' + NL_FALLBACK, fbOut);
+  const fc = fetch('https://olagoon.com/nl/v2/' + NL_FALLBACK, fbOut);
   const fb = fs.readFileSync(fbOut, 'utf8');
   const t = enTitle(NL_FALLBACK);
   if (fc === '200' && fb.includes(esc(t))) pass('/nl/v2/' + NL_FALLBACK + ' EN fallback');

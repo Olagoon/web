@@ -1,5 +1,5 @@
 ﻿const fs = require('fs');
-const path = 'E:/github/afarer/src/data/biz-solutions/index.ts';
+const path = 'E:/github/olagoon/src/data/biz-solutions/index.ts';
 const WORK = 'C:/Users/Helleo/AppData/Local/Temp/deveco/el_sol_work';
 const s = fs.readFileSync(path, 'utf8');
 const start = s.indexOf('const solutions: BizSolution[] = ');

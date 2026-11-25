@@ -7,11 +7,11 @@ hero:
   tagline: Laboratuvar 04
   title: Hidrodinamik Test Tankı
   subtitle: İlk tam ölçekli prototip öncesi performans doğrulaması
-  image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
-  image_alt: Afarer hidrodinamik test havuzu performans testleri
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
+  image_alt: OLagoon hidrodinamik test havuzu performans testleri
 intro: >-
   Hidrodinamik testlerin yalnızca okyanus gemileri için ayrıldığı yaygın bir yanlış kanıdır. Gerçekte, küçük bir planing gövdenin — örneğin bir şişirilebilir SUP — performansı, su altı şekline tankerlerin bulbous bow'una olduğu kadar bağımlıdır. Trim açısı, ıslak yüzey alanı, su sıçraması
-  oluşturma ve ventilasyon süzülme, hız ve sürüş konforu üzerinde büyük bir etkiye sahiptir. Afarer olarak, kumaşı ve kalıpları tam boyutlu bir prototipe yatırmadan önce bu etkileri model ölçünde nicel olarak analiz edebilmemizi sağlayan özel bir hidrodinamik test havuzu işletiyoruz.
+  oluşturma ve ventilasyon süzülme, hız ve sürüş konforu üzerinde büyük bir etkiye sahiptir. OLagoon olarak, kumaşı ve kalıpları tam boyutlu bir prototipe yatırmadan önce bu etkileri model ölçünde nicel olarak analiz edebilmemizi sağlayan özel bir hidrodinamik test havuzu işletiyoruz.
 content_html: >-
   <h2>Neden bir SUP tahtasını tank testinden geçiriyoruz?</h2>
 

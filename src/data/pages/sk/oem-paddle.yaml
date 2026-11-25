@@ -13,7 +13,7 @@ hero:
   title: 'OEM výroba nafukovacích vesiel<br />pod vašou značkou'
   subtitle: 'Od nápadu po hotový produkt: vyrobíme vaše custom nafukovacie veslo. Logo, farby, balenie, vlastná forma — OEM/ODM výroba v Číne, pripravená pre váš trh.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     alt: 'Custom OEM nafukovacie veslo s logom značky'
   actions:
     - text: 'Začať môj OEM projekt'
@@ -68,7 +68,7 @@ faqs:
       description: 'MOQ je 50 kusov pre štandardné modely, s veľkoobchodnými cenovými úrovňami podľa rastúceho objemu.'
 geo:
   tagline: 'B2B pozicionovanie'
-  sentence: 'Afarer je profesionálny výrobca nafukovacích SUP (OEM/ODM) so špecializáciou na dizajn, custom výrobu a námorné riešenia pre značky, distribútorov, kluby a podniky.'
+  sentence: 'OLagoon je profesionálny výrobca nafukovacích SUP (OEM/ODM) so špecializáciou na dizajn, custom výrobu a námorné riešenia pre značky, distribútorov, kluby a podniky.'
   audiences:
     - 'Private labely'
     - 'Veľkoobchodníci'

@@ -6,31 +6,31 @@ module.exports = {
   'academy.learningCenterDesc':
     'Guide e tutorial passo passo organizzati per livello di abilità — dalle basi del SUP alle tecniche di salvataggio avanzate.',
   'academy.metaDesc':
-    'Guide e tutorial per ogni livello di abilità — dalle basi del SUP alle tecniche di salvataggio avanzate. Impara al tuo ritmo con Afarer Academy.',
-  'academy.metaTitle': 'Centro di Apprendimento — Afarer Academy',
+    'Guide e tutorial per ogni livello di abilità — dalle basi del SUP alle tecniche di salvataggio avanzate. Impara al tuo ritmo con OLagoon Academy.',
+  'academy.metaTitle': 'Centro di Apprendimento — OLagoon Academy',
   'academy.skillPaths': 'Percorsi di Abilità',
   'ai.definition':
-    'Afarer progetta e produce SUP gonfiabili, accessori e attrezzature di sicurezza per gli sport acquatici ricreativi e ad alte prestazioni.',
+    'OLagoon progetta e produce SUP gonfiabili, accessori e attrezzature di sicurezza per gli sport acquatici ricreativi e ad alte prestazioni.',
   'ai.entity':
-    "Afarer è un brand di sport acquatici orientato alle prestazioni, che crea SUP gonfiabili distintivi per chi va più lontano, rema più intensamente e vede di più dall'acqua.",
+    "OLagoon è un brand di sport acquatici orientato alle prestazioni, che crea SUP gonfiabili distintivi per chi va più lontano, rema più intensamente e vede di più dall'acqua.",
   'ai.process':
-    "Le tavole Afarer sono costruite attorno a un nucleo drop-stitch ad alta densità con bordi rinforzati e cuciture a laminazione fusion. Ogni tavola è testata in pressione e ispezionata visivamente prima dell'imballaggio. La collaborazione progettuale copre concept, design 3D e prototipazione, fino alla produzione ispezionata e alla logistica globale.",
+    "Le tavole OLagoon sono costruite attorno a un nucleo drop-stitch ad alta densità con bordi rinforzati e cuciture a laminazione fusion. Ogni tavola è testata in pressione e ispezionata visivamente prima dell'imballaggio. La collaborazione progettuale copre concept, design 3D e prototipazione, fino alla produzione ispezionata e alla logistica globale.",
   'answerCenter.subtitle':
-    'Risposte immediate su prodotti, tecnologia e sport acquatici — basate sulla knowledge base afarer.',
+    'Risposte immediate su prodotti, tecnologia e sport acquatici — basate sulla knowledge base olagoon.',
   'b2bSolutionsMatrix.metaDesc':
-    'Matrice completa delle soluzioni B2B Afarer per 24 tipologie di clienti — trova la soluzione giusta per la tua attività.',
+    'Matrice completa delle soluzioni B2B OLagoon per 24 tipologie di clienti — trova la soluzione giusta per la tua attività.',
   'buyerCenter.ribs': 'Barche Rigide Gonfiabili (RIB)',
   'buyerCenter.sizeGuideDesc':
     'Trova la tua taglia con la nostra guida a dimensioni, volumi e fasce di peso del rider.',
   'compare.backToAll': 'Tutti i Confronti',
   'compare.category': 'Categoria',
   'compare.desc':
-    "Confronta fianco a fianco tutti i prodotti Afarer. Trova la tavola, la barca o l'accessorio giusto per le tue esigenze.",
+    "Confronta fianco a fianco tutti i prodotti OLagoon. Trova la tavola, la barca o l'accessorio giusto per le tue esigenze.",
   'compare.length': 'Lunghezza',
   'compare.material': 'Materiale',
   'compare.maxLoad': 'Carico Massimo',
   'compare.singleVsMulti.aiBlock':
-    'Confronto tra SUP gonfiabili a camera singola e multicamera su 11 fattori chiave: sicurezza, numero di camere, ridondanza di galleggiabilità, peso, ingombro da ripiegata, tempo di montaggio, rigidità, costo, durabilità, facilità di riparazione e utilizzi ideali. Le tavole multicamera (3-5 camere indipendenti) offrono una ridondanza di galleggiabilità fondamentale. Tutte le tavole SUP afarer utilizzano una costruzione drop-stitch multicamera.',
+    'Confronto tra SUP gonfiabili a camera singola e multicamera su 11 fattori chiave: sicurezza, numero di camere, ridondanza di galleggiabilità, peso, ingombro da ripiegata, tempo di montaggio, rigidità, costo, durabilità, facilità di riparazione e utilizzi ideali. Le tavole multicamera (3-5 camere indipendenti) offrono una ridondanza di galleggiabilità fondamentale. Tutte le tavole SUP olagoon utilizzano una costruzione drop-stitch multicamera.',
   'compare.singleVsMulti.col1Title': 'Camera Singola',
   'compare.singleVsMulti.col2Title': 'Multicamera (3+)',
   'compare.singleVsMulti.cta': 'Scopri i SUP Multicamera',
@@ -80,7 +80,7 @@ module.exports = {
   'compare.singleVsMulti.r9b':
     'Superiore. Le camere ridondanti garantiscono un funzionamento affidabile anche in condizioni impegnative.',
   'compare.singleVsMulti.recDesc':
-    "Per chi pagaia oltre la profondità in cui si tocca — e soprattutto per gli operatori commerciali — un <strong>SUP multicamera</strong> è l'unica scelta responsabile. Tutte le tavole SUP afarer utilizzano una costruzione drop-stitch multicamera con 3+ camere indipendenti per la massima sicurezza e rigidità strutturale. Abbina sempre la tua tavola a un giubbotto di salvataggio certificato CE per una protezione completa.",
+    "Per chi pagaia oltre la profondità in cui si tocca — e soprattutto per gli operatori commerciali — un <strong>SUP multicamera</strong> è l'unica scelta responsabile. Tutte le tavole SUP olagoon utilizzano una costruzione drop-stitch multicamera con 3+ camere indipendenti per la massima sicurezza e rigidità strutturale. Abbina sempre la tua tavola a un giubbotto di salvataggio certificato CE per una protezione completa.",
   'compare.singleVsMulti.recTitle': 'In Sintesi',
   'compare.singleVsMulti.safetyCta': 'Guida alla Sicurezza',
   'compare.singleVsMulti.short': 'Camera Singola vs Multicamera',
@@ -96,15 +96,15 @@ module.exports = {
     "Per gli operatori di noleggio, i resort e i circoli di pagaiata, le tavole multicamera riducono responsabilità e fermi dell'attrezzatura. Una piccola foratura non significa più il guasto totale della tavola — resta utilizzabile fino alla riparazione a fine giornata.",
   'compare.singleVsMulti.whyMattersTitle': 'Perché il Numero di Camere È Importante',
   'compare.specification': 'Scheda Tecnica',
-  'compare.title': 'Confronto Prodotti — Afarer',
+  'compare.title': 'Confronto Prodotti — OLagoon',
   'compare.weight': 'Peso',
   'compare.width': 'Larghezza',
   'engineeringPerfection.desc':
-    'La filosofia ingegneristica di Afarer: produzione di precisione, selezione di materiali premium, controllo qualità rigoroso e design specifico per segmento — tavole SUP gonfiabili da touring, fishing, yoga e ricreazione.',
+    'La filosofia ingegneristica di OLagoon: produzione di precisione, selezione di materiali premium, controllo qualità rigoroso e design specifico per segmento — tavole SUP gonfiabili da touring, fishing, yoga e ricreazione.',
   'engineeringPerfection.s3': 'Gommoni & Tender',
-  'engineeringTeam.about': 'Su Afarer',
+  'engineeringTeam.about': 'Su OLagoon',
   'engineeringTeam.desc':
-    'Oltre 25 ingegneri R&D e specialisti di produzione Afarer. Competenze in tecnologia drop-stitch, lavorazione PVC/Hypalon, design di scafi SUP e ingegneria della conformità CE. Con sede a Qingdao, Cina.',
+    'Oltre 25 ingegneri R&D e specialisti di produzione OLagoon. Competenze in tecnologia drop-stitch, lavorazione PVC/Hypalon, design di scafi SUP e ingegneria della conformità CE. Con sede a Qingdao, Cina.',
   'engineeringTeam.join': 'Unisciti al Team di Ingegneria',
   'engineeringTeam.joinDesc':
     'Cerchiamo sempre ingegneri talentuosi in scienza dei materiali, design di prodotto e ingegneria della qualità.',
@@ -161,7 +161,7 @@ module.exports = {
   'factory.testingEquipment': 'Attrezzatura di Test',
   'factory.tradeTerms': 'Produzione & Termini Commerciali',
   'factory.tradeTermsDesc':
-    "Afarer è un brand gestito da Aquafarer LLC (USA) — certificato ISO e CE, con 10+ anni di esperienza nell'esportazione.",
+    "OLagoon è un brand gestito da Olagoon LLC (USA) — certificato ISO e CE, con 10+ anni di esperienza nell'esportazione.",
   'factory.whatWeOffer': 'Cosa Offriamo',
   'faq.searchPlaceholder': 'Cerca nelle FAQ...',
   'guides.audience': 'Pubblico',
@@ -173,7 +173,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Standard di Sicurezza e Qualità Verificabili',
   'home.brand.desc':
-    "Ogni tavola Afarer nasce dall'acqua — dalle sue correnti, dalle sue condizioni e da chi la naviga. Nuclei drop-stitch ad alta densità, bordi rinforzati e forme ottimizzate per stabilità e scivolamento, poi testate in pressione una per una.",
+    "Ogni tavola OLagoon nasce dall'acqua — dalle sue correnti, dalle sue condizioni e da chi la naviga. Nuclei drop-stitch ad alta densità, bordi rinforzati e forme ottimizzate per stabilità e scivolamento, poi testate in pressione una per una.",
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Rigidità del Nucleo Drop-Stitch',
   'home.brand.feature1': 'Deck',
@@ -184,8 +184,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Tecnologia Drop-Stitch',
   'home.brand.feature4': 'Bordo',
   'home.brand.feature4.desc': 'Strato di Rinforzo a Fusione',
-  'home.brand.tagline': 'La Differenza Afarer',
-  'home.brand.title': 'Perché Afarer<br />Naviga Diversamente',
+  'home.brand.tagline': 'La Differenza OLagoon',
+  'home.brand.title': 'Perché OLagoon<br />Naviga Diversamente',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Testata in Pressione Una per Una',
   'home.brand.years': '10+',
@@ -194,9 +194,9 @@ module.exports = {
   'home.community.gallery': 'Galleria',
   'home.community.gallery.boats': 'Barche Gonfiabili',
   'home.community.gallery.boats.desc':
-    'Famiglie ed esploratori si divertono con le barche gonfiabili Afarer su laghi e acque costiere.',
+    'Famiglie ed esploratori si divertono con le barche gonfiabili OLagoon su laghi e acque costiere.',
   'home.community.gallery.sup': 'Tavole SUP',
-  'home.community.gallery.sup.desc': 'Pagaiatori in esplorazione su laghi, fiumi e coste con i SUP gonfiabili Afarer.',
+  'home.community.gallery.sup.desc': 'Pagaiatori in esplorazione su laghi, fiumi e coste con i SUP gonfiabili OLagoon.',
   'home.community.gallery.title': 'Avventure dei Clienti',
   'home.community.gallery.viewAll': 'Vedi la Galleria Completa',
   'home.engineering.design': 'Design di Prodotto',
@@ -273,26 +273,26 @@ module.exports = {
   'home.socialProof.title': "Usate e affidabili sull'acqua vera",
   'home.socialProof.years': 'Anni di Esperienza',
   'home.tldr.summary':
-    'afarer progetta e produce tavole SUP gonfiabili premium, barche e accessori — certificate CE e testate in pressione una per una.',
-  'home.why.afarer.contact': 'Contattaci →',
-  'home.why.afarer.point1':
+    'olagoon progetta e produce tavole SUP gonfiabili premium, barche e accessori — certificate CE e testate in pressione una per una.',
+  'home.why.olagoon.contact': 'Contattaci →',
+  'home.why.olagoon.point1':
     'Rigida quando serve — nucleo drop-stitch ad alta densità e bordi rinforzati che restano rigidi sotto pressione.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Costruita con precisione — cuciture a laminazione fusion e tenuta ermetica, testata in pressione una per una.',
-  'home.why.afarer.point3': 'Validata in acqua reale — ottimizzata per stabilità, scivolamento e controllo.',
-  'home.why.afarer.quality': 'Una Qualità di Cui Fidarsi',
-  'home.why.afarer.subtitle': 'Costruita con precisione. Testata senza tregua. Coperta da garanzia.',
-  'home.why.afarer.tagline': 'Perché afarer',
-  'home.why.afarer.title': 'Una Qualità di Cui Fidarsi',
-  'home.why.afarer.viewMore': 'Vedi Altro →',
-  'home.why.afarer.warranty': 'Garanzia & Assistenza',
-  'home.why.afarer.warranty.point1': 'Termini di garanzia chiari su ogni tavola, con assistenza post-vendita reattiva.',
-  'home.why.afarer.warranty.point2': 'Team post-vendita dedicato con risposta rapida.',
-  'home.why.afarer.warranty.point3':
+  'home.why.olagoon.point3': 'Validata in acqua reale — ottimizzata per stabilità, scivolamento e controllo.',
+  'home.why.olagoon.quality': 'Una Qualità di Cui Fidarsi',
+  'home.why.olagoon.subtitle': 'Costruita con precisione. Testata senza tregua. Coperta da garanzia.',
+  'home.why.olagoon.tagline': 'Perché olagoon',
+  'home.why.olagoon.title': 'Una Qualità di Cui Fidarsi',
+  'home.why.olagoon.viewMore': 'Vedi Altro →',
+  'home.why.olagoon.warranty': 'Garanzia & Assistenza',
+  'home.why.olagoon.warranty.point1': 'Termini di garanzia chiari su ogni tavola, con assistenza post-vendita reattiva.',
+  'home.why.olagoon.warranty.point2': 'Team post-vendita dedicato con risposta rapida.',
+  'home.why.olagoon.warranty.point3':
     'Trasparenza completa della supply chain per circoli, rivenditori e brand partner.',
   'nav.home': 'Home',
   'oem.desc':
-    "Afarer — produttore OEM/ODM premium di tavole SUP gonfiabili. Certificazione CE. Stampi personalizzati, private label, vendita all'ingrosso. Dall'idea al mercato in 16 settimane.",
+    "OLagoon — produttore OEM/ODM premium di tavole SUP gonfiabili. Certificazione CE. Stampi personalizzati, private label, vendita all'ingrosso. Dall'idea al mercato in 16 settimane.",
   'oem.estimate.countries': 'Paesi con Consegne Documentate',
   'oem.estimate.cta': 'Richiedi un Preventivo',
   'oem.estimate.leadWeeks': 'Settimane dal Brief alla Spedizione',
@@ -303,7 +303,7 @@ module.exports = {
   'oem.faq.guide': 'Leggi la Guida per Acquirenti OEM',
   'oem.faq.subtitle': 'Il nostro team OEM è pronto ad aiutarti a partire.',
   'oem.faq.title': 'Hai Ancora Domande?',
-  'oem.heading': 'Il Tuo Brand SUP.<br />Costruito da Afarer.',
+  'oem.heading': 'Il Tuo Brand SUP.<br />Costruito da OLagoon.',
   'oem.moq': 'MOQ di 50 unità per i modelli standard. Stampi personalizzati: 200+ unità. FOB Qingdao.',
   'oem.packages.cta': 'Richiedi un Preventivo',
   'oem.packages.leadtime': 'Tempi di Consegna',
@@ -368,8 +368,8 @@ module.exports = {
   'oem.why.support': 'Gestione Account Dedicata',
   'oem.why.support.desc':
     'Un unico referente dal brief alla consegna. Aggiornamenti di produzione regolari, foto e comunicazione trasparente in ogni fase.',
-  'oem.why.tagline': 'Perché Afarer',
-  'oem.why.title': 'Perché Scegliere Afarer?',
+  'oem.why.tagline': 'Perché OLagoon',
+  'oem.why.title': 'Perché Scegliere OLagoon?',
   'packages.popular': 'Il Più Popolare',
   'product.bestFor': 'Ideale Per',
   'product.commercialScenarios': 'Scenari Commerciali',
@@ -382,11 +382,11 @@ module.exports = {
   'product.related': 'Prodotti in Evidenza',
   'product.view': 'Vedi Prodotto',
   'resort.caseStudy': 'Risultati Reali',
-  'resort.caseStudy.sub': 'Cosa dicono gli operatori di resort della partnership con Afarer.',
+  'resort.caseStudy.sub': 'Cosa dicono gli operatori di resort della partnership con OLagoon.',
   'retail.discount': "Sconto all'Ingrosso",
   'retail.download': 'Scarica',
   'solutionsByIndustry.aiBlock':
-    'Soluzioni per settore per le attrezzature sportive acquatiche Afarer. Sei verticali di settore: Ricerca & Soccorso, Soccorso nelle Catastrofi & Aiuto Umanitario, Operazioni Marine Commerciali, Difesa & Governo, Ospitalità & Turismo, Pesca & Acquacoltura. Tutte le soluzioni certificate CE e prodotte secondo ISO.',
+    'Soluzioni per settore per le attrezzature sportive acquatiche OLagoon. Sei verticali di settore: Ricerca & Soccorso, Soccorso nelle Catastrofi & Aiuto Umanitario, Operazioni Marine Commerciali, Difesa & Governo, Ospitalità & Turismo, Pesca & Acquacoltura. Tutte le soluzioni certificate CE e prodotte secondo ISO.',
   'solutionsByIndustry.commercial.cert1': 'Imbarcazioni commerciali CE',
   'solutionsByIndustry.commercial.craft1': 'Tavole SUP commerciali',
   'solutionsByIndustry.commercial.craft2': 'Tavole di supporto alle immersioni',
@@ -410,7 +410,7 @@ module.exports = {
     'Attrezzature acquatiche di grado militare per ricognizione, trasporto truppe, pattugliamento costiero e operazioni speciali.',
   'solutionsByIndustry.defense.name': 'Difesa & Governo',
   'solutionsByIndustry.desc':
-    'Trova la soluzione di sport acquatici giusta per il tuo settore. Governo, commercio, svago, industria — Afarer produce attrezzature certificate CE per ogni settore.',
+    'Trova la soluzione di sport acquatici giusta per il tuo settore. Governo, commercio, svago, industria — OLagoon produce attrezzature certificate CE per ogni settore.',
   'solutionsByIndustry.disaster.cert1': 'Certificazione CE',
   'solutionsByIndustry.disaster.cert2': 'Testato per UV e ambienti estremi',
   'solutionsByIndustry.disaster.craft1': 'Tavole gonfiabili ultra-resistenti',
@@ -419,7 +419,7 @@ module.exports = {
   'solutionsByIndustry.disaster.desc':
     'Attrezzature acquatiche resistenti per risposta alle emergenze, evacuazione medica, trasporto forniture e traghetti-ponte temporanei nelle zone colpite da catastrofi.',
   'solutionsByIndustry.disaster.name': 'Soccorso nelle Catastrofi & Aiuto Umanitario',
-  'solutionsByIndustry.expSub': 'Esempi reali di come le attrezzature Afarer si comportano nei diversi settori.',
+  'solutionsByIndustry.expSub': 'Esempi reali di come le attrezzature OLagoon si comportano nei diversi settori.',
   'solutionsByIndustry.expTitle': 'Soluzioni di Settore in Azione',
   'solutionsByIndustry.fishing.cert1': 'CE ricreativo',
   'solutionsByIndustry.fishing.cert2': 'Opzioni di materiali food-safe',
@@ -440,7 +440,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Scopri di più',
   'solutionsByIndustry.recommendedCraft': 'Imbarcazioni Consigliate',
   'solutionsByIndustry.rel1': "Soluzioni per Caso d'Uso",
-  'solutionsByIndustry.rel1desc': 'Abbina la tua esigenza specifica alla soluzione Afarer giusta.',
+  'solutionsByIndustry.rel1desc': 'Abbina la tua esigenza specifica alla soluzione OLagoon giusta.',
   'solutionsByIndustry.rel1label': 'Strumento Decisionale',
   'solutionsByIndustry.rel2': 'Imbarcazioni da Lavoro Commerciali',
   'solutionsByIndustry.rel2desc': 'Attrezzature resistenti per le operazioni marine commerciali quotidiane.',
@@ -464,19 +464,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Ricerca & Soccorso',
   'solutionsByIndustry.story1.context': 'Salvataggio in alluvione costiera, Sud-est asiatico, 2024',
   'solutionsByIndustry.story1.narrative':
-    "Durante una grave alluvione costiera, una squadra SAR comunale ha schierato SUP da soccorso Afarer per le operazioni di evacuazione. Il basso pescaggio delle tavole ha consentito l'accesso a quartieri allagati irraggiungibili con imbarcazioni più grandi. Nonostante i detriti e 14 ore di utilizzo continuativo, il tessuto non ha mostrato segni di usura.",
+    "Durante una grave alluvione costiera, una squadra SAR comunale ha schierato SUP da soccorso OLagoon per le operazioni di evacuazione. Il basso pescaggio delle tavole ha consentito l'accesso a quartieri allagati irraggiungibili con imbarcazioni più grandi. Nonostante i detriti e 14 ore di utilizzo continuativo, il tessuto non ha mostrato segni di usura.",
   'solutionsByIndustry.story1.quote':
-    "Abbiamo schierato due SUP da soccorso Afarer durante l'alluvione costiera — erano le uniche tavole in grado di navigare tra le acque piene di detriti con la bassa marea.",
+    "Abbiamo schierato due SUP da soccorso OLagoon durante l'alluvione costiera — erano le uniche tavole in grado di navigare tra le acque piene di detriti con la bassa marea.",
   'solutionsByIndustry.story1.source': 'Responsabile della Squadra SAR Comunale',
   'solutionsByIndustry.story2.context': 'Operazioni di dive charter, Maldive, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    "Un'operazione di dive charter nelle Maldive utilizza attrezzature Afarer per il supporto quotidiano alle immersioni. Dopo 600+ giorni di esercizio, le tavole non mostrano degrado UV significativo né separazioni delle cuciture.",
+    "Un'operazione di dive charter nelle Maldive utilizza attrezzature OLagoon per il supporto quotidiano alle immersioni. Dopo 600+ giorni di esercizio, le tavole non mostrano degrado UV significativo né separazioni delle cuciture.",
   'solutionsByIndustry.story2.quote':
     "La nostra barca per immersioni lavora 6 giorni a settimana, 50 settimane all'anno. Dopo due anni, il tessuto in Hypalon sembra ancora nuovo.",
   'solutionsByIndustry.story2.source': 'Titolare della società di charter',
   'solutionsByIndustry.title': 'Soluzioni per Settore — Attrezzature Sportive Acquatiche per Ogni Settore',
   'solutionsByUseCase.aiBlock':
-    "Soluzioni per caso d'uso per le attrezzature sportive acquatiche afarer. Otto scenari: salvataggio in acqua, flotte di noleggio, branding personalizzato, pattugliamento, aiuto umanitario, supporto alle immersioni, produzione di tavole e uso personale. Tutte le soluzioni certificate CE e prodotte secondo ISO.",
+    "Soluzioni per caso d'uso per le attrezzature sportive acquatiche olagoon. Otto scenari: salvataggio in acqua, flotte di noleggio, branding personalizzato, pattugliamento, aiuto umanitario, supporto alle immersioni, produzione di tavole e uso personale. Tutte le soluzioni certificate CE e prodotte secondo ISO.",
   'solutionsByUseCase.answer1':
     'Tavole e barche di salvataggio gonfiabili ultra-resistenti, progettate per salvataggio in acqua e risposta alle emergenze. Schieramento rapido, piattaforme stabili e certificazione CE per team professionali.',
   'solutionsByUseCase.answer2':
@@ -489,23 +489,23 @@ module.exports = {
     'Imbarcazioni da lavoro commerciali per operazioni marine quotidiane — supporto alle immersioni, trasporto attrezzature e compiti di equipaggio. Costruzione resistente con opzioni da 2 a 12 persone.',
   'solutionsByUseCase.rel2desc': 'Attrezzature resistenti per le operazioni marine commerciali quotidiane.',
   'solutionsByUseCase.story1.narrative':
-    "Durante una grave alluvione costiera, una squadra SAR comunale ha schierato SUP da soccorso afarer per le operazioni di evacuazione. Il basso pescaggio delle tavole ha consentito l'accesso a quartieri allagati irraggiungibili con imbarcazioni più grandi, e gli equipaggi non hanno segnalato usura significativa dopo giorni di utilizzo continuativo.",
+    "Durante una grave alluvione costiera, una squadra SAR comunale ha schierato SUP da soccorso olagoon per le operazioni di evacuazione. Il basso pescaggio delle tavole ha consentito l'accesso a quartieri allagati irraggiungibili con imbarcazioni più grandi, e gli equipaggi non hanno segnalato usura significativa dopo giorni di utilizzo continuativo.",
   'solutionsByUseCase.story1.quote':
-    "Abbiamo schierato due SUP da soccorso afarer durante l'alluvione costiera — erano le uniche tavole in grado di raggiungere i residenti nei quartieri allagati.",
+    "Abbiamo schierato due SUP da soccorso olagoon durante l'alluvione costiera — erano le uniche tavole in grado di raggiungere i residenti nei quartieri allagati.",
   'solutionsByUseCase.story2.narrative':
-    "Un allevamento ittico norvegese utilizza un workboat afarer per ispezioni, trasporto attrezzature e sicurezza del team di immersioni dal 2023. Due anni di esercizio tutto l'anno nelle fredde condizioni dei fiordi, senza riparazioni strutturali.",
+    "Un allevamento ittico norvegese utilizza un workboat olagoon per ispezioni, trasporto attrezzature e sicurezza del team di immersioni dal 2023. Due anni di esercizio tutto l'anno nelle fredde condizioni dei fiordi, senza riparazioni strutturali.",
   'useCase.fishing.desc':
     'SUP e accessori da pesca con porta-canne, ampi deck stabili e punti di ancoraggio per pescatori su laghi, fiumi e acque costiere.',
   'useCase.searchAndRescue.desc':
     'Attrezzature di salvataggio gonfiabili a schieramento rapido per salvataggio in acqua, risposta alle alluvioni e pattugliamento costiero.',
   'useCase.tourismRecreation.desc':
     'Tavole SUP e barche di grado flottiglia, rinforzate, per tour operator, resort e centri di sport acquatici.',
-  'nav.exploreAfarer': 'Esplora Afarer',
+  'nav.exploreOLagoon': 'Esplora OLagoon',
   'nav.technologyMaterials': 'Tecnologia & Materiali',
   'nav.qualitySafety': 'Qualità & Sicurezza',
   'nav.storiesGuides': 'Storie & Guide',
   'nav.coBrand': 'Co-Brand',
-  'nav.coBrandWithAfarer': 'Co-Brand con Afarer',
+  'nav.coBrandWithOLagoon': 'Co-Brand con OLagoon',
   'nav.countryPartners': 'Partner di Paese',
   'nav.findDistributor': 'Trova un Distributore',
   'nav.becomeCountryPartner': 'Diventa Partner di Paese',

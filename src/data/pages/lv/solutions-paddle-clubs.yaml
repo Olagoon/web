@@ -7,12 +7,12 @@ hero:
   title: 'Uzsāciet, vadiet un attīstiet savu airu klubu<br />ar komerciāla līmeņa SUP flotēm'
   subtitle: 'SUP klubu aprīkojuma piegādātājs airu klubiem un SUP skolām visā pasaulē — izturīgi komerciālie dēļi, kluba vairumtirdzniecības cenas, pielāgots zīmolējums un ātras rezerves daļas, lai jūs varētu koncentrēties savas kopienas izaugsmei.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: 'Airu kluba dalībnieki uz vienādiem Afarer SUP dēļiem'
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: 'Airu kluba dalībnieki uz vienādiem OLagoon SUP dēļiem'
 
 benefits:
   title: 'Kluba flotes priekšrocības'
-  subtitle: 'Kāpēc airu klubi 50+ valstīs izvēlas Afarer par savu aprīkojuma partneri.'
+  subtitle: 'Kāpēc airu klubi 50+ valstīs izvēlas OLagoon par savu aprīkojuma partneri.'
   items:
     - metric: '40%+'
       label: 'Flotes izmaksu ietaupījums'
@@ -86,7 +86,7 @@ training:
         - 'CE sertificēts aprīkojums'
 
 features:
-  title: 'Kāpēc klubi izvēlas Afarer'
+  title: 'Kāpēc klubi izvēlas OLagoon'
   subtitle: 'Pastāvīga kvalitāte, ātras daļas un vairumu cenas augošiem klubiem.'
   items:
     - title: '500+ nomas cikli'

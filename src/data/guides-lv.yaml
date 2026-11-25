@@ -19,7 +19,7 @@
     - q: Uzpumpējamais vai cietā SUP dēlis?
       a: Uzpumpējamie dēļi piedāvā pārnēsājamību, uzglabāšanas ērtību un triecienu uzsūkšanu. Cietie dēļi piedāvā maksimālu stingrību un ātrumu. Vairumam atpūtas lietotāju kvalitatīvs uzpumpējamais dēlis ar drop-stitch kodolu ir praktiska izvēle.
     - q: Līdz kādam PSI jāuzpumpē?
-      a: afarer dēļiem ieteikts 12-15 PSI. Pie 15 PSI dēlis sasniedz maksimālu stingrību, kas salīdzināma ar cietā dēļa stingrību. Vienmēr palieciet dēļa uzdrukātajā atļautajā spiediena diapazonā.
+      a: olagoon dēļiem ieteikts 12-15 PSI. Pie 15 PSI dēlis sasniedz maksimālu stingrību, kas salīdzināma ar cietā dēļa stingrību. Vienmēr palieciet dēļa uzdrukātajā atļautajā spiediena diapazonā.
   relatedProducts: []
   relatedGuides:
     - beginner-guide
@@ -208,7 +208,7 @@
     - q: Vai varu atstāt savu SUP uzpumpētu visu sezonu?
       a: Jā, taču, kad nelietojat, turiet to ārpus tiešiem saules stariem. Ilgstošai uzglabāšanai ieteicama daļēja gaisa nolaide (8-10 PSI).
     - q: Kā salabot caurdurumu?
-      a: Notīriet vietu, izgrieziet plāksteri ar noapaļotiem stūriem, uzklājiet līmi, stingri piespiediet un pirms uzpumpēšanas gaidiet 24 stundas. afarer dēļu komplektā ir iekļauts remonta komplekts.
+      a: Notīriet vietu, izgrieziet plāksteri ar noapaļotiem stūriem, uzklājiet līmi, stingri piespiediet un pirms uzpumpēšanas gaidiet 24 stundas. olagoon dēļu komplektā ir iekļauts remonta komplekts.
     - q: Cik bieži jāpārbauda vārsts?
       a: Reizi mēnesī. Vārsts ir vieta, kas bojājas visbiežāk. Pārbaudiet, vai vārsta adata brīvi kustas un vai O-gredzens ir neskarts.
   relatedProducts: []
@@ -703,7 +703,7 @@
   description: Kā ceļot ar piepūšamo SUP ar lidmašīnu, automašīnu vai autonomu. Padomi par aviokompāniju maksām, iepakošanu, dēļa piepūšanu galamērķī un starptautiskās ceļošanas apsvērumiem.
   tldr: Izlaidiet gaisu, sarullējiet un iepakojiet savu SUP tā mugorsomā. Lielākā daļa aviokompāniju to pieņem kā reģistrēto bagāžu (zem 50 lbs / 50 linear inches). Vienmēr ielieciet sūkni un airi tajā pašā somā. Ierodaties agri, lai būtu laika rezerve, ja reģistrācijas darbinieks apšauba somas izmēru. Garākiem ceļojumiem apsveriet iespēju nosūtīt bagāžu uz galamērķi iepriekš.
   problem: Ceļošana ar SUP šķiet sarežģīta — aviokompāniju izmēru ierobežojumi, bažas par drošības pārbaudēm lidostā un jautājums, kā piepūst dēli attālā galamērķī, rada nenoteiktību.
-  solution: afarer SUP mugorsomas ir izstrādātas tā, lai atbilstu aviokompāniju reģistrētās bagāžas ierobežojumiem. Iepakojiet pārdomāti, paņemiet līdzi remonta komplektu un pirms došanās ceļā izpētiet piepūšanas vietas (marīnas, autokempingus ar elektroapgādi).
+  solution: olagoon SUP mugorsomas ir izstrādātas tā, lai atbilstu aviokompāniju reģistrētās bagāžas ierobežojumiem. Iepakojiet pārdomāti, paņemiet līdzi remonta komplektu un pirms došanās ceļā izpētiet piepūšanas vietas (marīnas, autokempingus ar elektroapgādi).
   audience: Airētāji, kas plāno ceļot ar SUP ar lidmašīnu, automašīnu vai autonomu.
   steps:
     - Izlaidiet gaisu pilnībā un sarullējiet dēli no deguna līdz astei
@@ -736,7 +736,7 @@
   description: Ceļvedis piepūšamo SUP izvēlei lielāka auguma airētājiem (200-400 lbs). Dēļu platuma, garuma, tilpuma un maksimālās slodzes ieteikumi liela auguma braucējiem.
   tldr: Lielāka auguma airētājiem vajag platākus dēļus (34-36"), lielāku garumu (11'6"-12') un lielāku maksimālo slodzi (300-400 lbs). Meklējiet militārās kvalitātes PVC, pastiprinātu drop-stitch un divslāņu konstrukciju. Izvairieties no šauriem dēļiem zem 32" neatkarīgi no garuma.
   problem: Standarta SUP maksimālā slodze ir 200-250 lbs, kas izslēdz daudzus airētājus. Braukšana uz par maza dēļa ir neērta, nestabila un potenciāli bīstama.
-  solution: Izvēlieties dēļus ar atļautu slodzi 300+ lbs un papildu platumu stabilitātei. afarer sērijas Tropical Breeze un Leviathan Wake piedāvā tilpumu un pastiprinājumu, kas lielāka auguma airētājiem nepieciešams.
+  solution: Izvēlieties dēļus ar atļautu slodzi 300+ lbs un papildu platumu stabilitātei. olagoon sērijas Tropical Breeze un Leviathan Wake piedāvā tilpumu un pastiprinājumu, kas lielāka auguma airētājiem nepieciešams.
   audience: Airētāji, kas sver vairāk par 200 lbs un kuriem vajag dēli, kas droši iztur viņu svaru.
   steps:
     - 'Izrēķiniet kopējo slodzi: ķermeņa svars + ekipējums + 20% drošības rezerve'
@@ -835,7 +835,7 @@
   description: 'Kā izvēlēties tūrisma SUP gara distanču airēšanai: korpusa dizains, garums, platums, kursa noturēšana un ekipējuma ieteikumi vairāku dienu ekspedīcijām.'
   tldr: Tūrisma SUP vajag garāku korpusu (12-14'), izspiedes priekšgalu efektīvai slīdēšanai un mērenu platumu (30-32") kursa noturēšanai. Meklējiet elastīgo auklu nostiprinājumu uz klājuma, vairākus D-gredzenus un drop-stitch konstrukciju ar augstu PSI. Tūrismam paredzēts airs ar mazāku airslapu mazina nogurumu garās dienās.
   problem: Īsa universālā dēļa izmantošana tūrismā noved pie zema ātruma, sliktas kursa noturēšanas un agra noguruma. Gara distanču airēšana prasa specializētu korpusa dizainu.
-  solution: Izvēlieties 12' garu vai garāku dēli ar izspiedes degunu. Ocean Pulse un Ocean Voyager no afarer piedāvā tūrismam paredzēto korpusa formu un elastīgo auklu nostiprinājumu, kas nepieciešams ekspedīciju airēšanai.
+  solution: Izvēlieties 12' garu vai garāku dēli ar izspiedes degunu. Ocean Pulse un Ocean Voyager no olagoon piedāvā tūrismam paredzēto korpusa formu un elastīgo auklu nostiprinājumu, kas nepieciešams ekspedīciju airēšanai.
   audience: Airētāji, kas plāno vienas dienas izbraucienus, vairāku dienu ekspedīcijas vai fitnesa airēšanu garās distancēs.
   steps:
     - Izvēlieties 12-14' garu dēli efektīvai slīdēšanai un kursa noturēšanai

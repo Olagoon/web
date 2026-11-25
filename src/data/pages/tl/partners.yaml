@@ -1,6 +1,6 @@
 meta:
   title: 'Mga Partner — Distribusyon at Wholesale | {SITE}'
-  description: 'Maging partner ng afarer: mga network ng distribusyon, wholesale pricing, mga programang OEM/private label, at suporta para sa mga negosyo ng paddle board sa buong mundo.'
+  description: 'Maging partner ng olagoon: mga network ng distribusyon, wholesale pricing, mga programang OEM/private label, at suporta para sa mga negosyo ng paddle board sa buong mundo.'
   keywords:
     - 'partner ng sup distribution'
     - 'wholesale ng paddle board'
@@ -8,15 +8,15 @@ meta:
     - 'partnership sa sup'
 hero:
   tagline: 'Mga Partner at Distribusyon'
-  title: 'Maging Partner ng afarer<br />— Pandaigdigang Network ng Distribusyon'
-  subtitle: 'Sumali sa pandaigdigang network ng partner ng afarer. Nakipagtulungan kami sa mga marine distributor, paddle sports dealer, equipment retailer, at brand partner sa 50+ bansa.'
+  title: 'Maging Partner ng olagoon<br />— Pandaigdigang Network ng Distribusyon'
+  subtitle: 'Sumali sa pandaigdigang network ng partner ng olagoon. Nakipagtulungan kami sa mga marine distributor, paddle sports dealer, equipment retailer, at brand partner sa 50+ bansa.'
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: 'pandaigdigang partner at distributor network ng afarer'
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: 'pandaigdigang partner at distributor network ng olagoon'
 content_programs:
   tagline: 'Mga Partner Program'
   title: 'Mga Partner Program<br />Itinayo para sa Paglago'
-  subtitle: "Manapa't distributor, dealer, o brand partner ka, nag-aalok ang afarer ng mga programang dinisenyo upang suportahan ang iyong negosyo."
+  subtitle: "Manapa't distributor, dealer, o brand partner ka, nag-aalok ang olagoon ng mga programang dinisenyo upang suportahan ang iyong negosyo."
   columns: 3
   items:
     - title: 'Distributor Program'
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: 'Bakit Makipagpartner sa Amin'
-  title: 'Bakit Pinipili ng mga Partner ang afarer'
+  title: 'Bakit Pinipili ng mga Partner ang olagoon'
   subtitle: 'Nakikinabang ang aming mga partner mula sa tunay na kakayahang magmaniobra, pare-parehong kalidad, at tumutugong suporta.'
   list:
     - 'Direktang Daan sa Pabrika: Makipagtulungan nang direkta sa aming manufacturing team — walang middleman. Makakuha ng mas mabilis na tugon, mas mabuting presyo, at buong tanaw sa produksyon.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: 'Paano Maging Partner'
   title: 'Simpleng Proseso ng Partnership'
-  subtitle: 'Simple ang aming proseso ng partnership — dinisenyo upang mabilis ka nang makapagbenta ng mga produkto ng afarer.'
+  subtitle: 'Simple ang aming proseso ng partnership — dinisenyo upang mabilis ka nang makapagbenta ng mga produkto ng olagoon.'
   items:
     - title: 'Hakbang 1: Magsumite ng Aplikasyon'
       description: 'Punan ang aming partner application form na may profile ng iyong kumpanya, target merkado, at mga interes sa produkto.'
@@ -62,7 +62,7 @@ content_process:
     - title: 'Hakbang 4: Training at Paglunsad'
       description: 'Product training, sales support, at marketing collateral ang ibinibigay. Handa ka nang magsimulang magbenta.'
 cta:
-  title: 'Handa ka na bang maging partner ng afarer?'
+  title: 'Handa ka na bang maging partner ng olagoon?'
   subtitle: 'Mag-apply para sa partnership at tutugon ang aming koponan sa loob ng 3 business day.'
   actions:
     - variant: primary

@@ -7,7 +7,7 @@ hero:
   subtitle: Enfocado en el progreso
 intro:
   - >-
-    El Centro de Investigación y Desarrollo (I+D) de Afarer es la fuerza impulsora detrás de nuestra misión de revolucionar el equipo de deportes acuáticos. Empoderamos a los entusiastas de los deportes acuáticos en todo el mundo con productos más seguros, cómodos y agradables mediante la innovación
+    El Centro de Investigación y Desarrollo (I+D) de OLagoon es la fuerza impulsora detrás de nuestra misión de revolucionar el equipo de deportes acuáticos. Empoderamos a los entusiastas de los deportes acuáticos en todo el mundo con productos más seguros, cómodos y agradables mediante la innovación
     constante en tablas de paddle inflables de pie (SUP). Nuestro equipo dedicado de ingenieros, diseñadores y expertos apasionados por los deportes acuáticos está moldeando el futuro de la industria, elevando consistentemente el estándar en calidad, rendimiento y sostenibilidad.
   - >-
     Nuestra instalación de I+D reúne a científicos de materiales, ingenieros marinos e ingenieros de producción bajo un mismo techo. Desde la formulación de materiales y la simulación del casco hasta el desarrollo de procesos de soldadura y las pruebas en el mar a gran escala, cada etapa del
@@ -95,33 +95,33 @@ vision:
   tagline: Nuestra Visión
   title: Dando forma al futuro de los deportes acuáticos
   body: >-
-    afarer se esfuerza por liderar la industria de SUP inflables a través de la innovación continua, una calidad inquebrantable y un compromiso firme con la seguridad y la sostenibilidad, enriqueciendo en última instancia las experiencias de los entusiastas de los deportes acuáticos
-    en todo el mundo. El Centro de I+D de afarer es donde la pasión se encuentra con la innovación, estableciendo nuevos estándares para la industria de los deportes acuáticos.
+    olagoon se esfuerza por liderar la industria de SUP inflables a través de la innovación continua, una calidad inquebrantable y un compromiso firme con la seguridad y la sostenibilidad, enriqueciendo en última instancia las experiencias de los entusiastas de los deportes acuáticos
+    en todo el mundo. El Centro de I+D de olagoon es donde la pasión se encuentra con la innovación, estableciendo nuevos estándares para la industria de los deportes acuáticos.
 labs_section:
   tagline: Laboratorios
   title: Nuestros Laboratorios
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: Laboratorio de Tela de PVC
       description: Investigación y pruebas continuas de telas de PVC para cubiertas en resistencia a la tracción, resistencia a los rayos UV, abrasión y flexibilidad a bajas temperaturas para garantizar la fiabilidad a largo plazo en entornos marinos.
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Estudio de Ingeniería Hull
       description: Diseño impulsado por CAD y análisis de elementos finitos de cascos de HDPE, aluminio y fibra de vidrio. Cada casco se simula digitalmente para la distribución de tensiones y la resistencia a impactos antes de construir el primer prototipo.
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Centro de Soldadura RF
       description: Instalación dedicada a la soldadura por radiofrecuencia con control preciso de temperatura y presión, que produce costuras de alta resistencia e impermeables que cumplen con los estándares de la industria marina para equipos inflables.
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Tanque de prueba hidrodinámico
       description: Pruebas con modelos a escala en nuestro tanque de pruebas interno para optimizar la forma del casco, el rendimiento de planeo, la estabilidad y la eficiencia de combustible en una variedad de condiciones de carga y mar.
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Taller de Prototipos
       description: Instalación de prototipado y aparejo a gran escala donde se construyen, ajustan y prueban en el mar los nuevos modelos. Cada prototipo pasa por un programa de pruebas en agua de mínimo 20 horas antes de la aprobación de producción.
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: Laboratorio de Calidad e Inspección
       description: Laboratorio de aseguramiento de calidad dedicado, realizando pruebas de tracción, ciclos de retención de aire, pruebas de desprendimiento de costuras y certificación de materiales para garantizar que cada tabla que salga del taller cumpla con nuestras especificaciones publicadas.
       href: /randdcenter/quality-inspection-lab/

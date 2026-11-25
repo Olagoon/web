@@ -1,8 +1,8 @@
 meta:
-  title: 'Medijų centras — spaudos ir afarer ištekliai | {SITE}'
-  description: 'afarer medijų centras: spaudos pranešimai, prekės ženklo ištekliai ir medžiaga iš mūsų pripučiamų SUP gamybos įmonės.'
+  title: 'Medijų centras — spaudos ir olagoon ištekliai | {SITE}'
+  description: 'olagoon medijų centras: spaudos pranešimai, prekės ženklo ištekliai ir medžiaga iš mūsų pripučiamų SUP gamybos įmonės.'
   keywords:
-    - 'afarer spauda'
+    - 'olagoon spauda'
     - 'sup gamintojo medijos'
     - 'irklentės spaudos rinkinys'
     - 'jūrinės įmonės naujienos'
@@ -22,7 +22,7 @@ sections:
       - 'Priedai ir saugos įranga'
   - id: logo-brand-kit
     title: 'Logotipas ir prekės ženklo rinkinys'
-    desc: 'Oficialūs afarer logotipo failai, spalvų paletė, tipografija ir prekės ženklo gairės.'
+    desc: 'Oficialūs olagoon logotipo failai, spalvų paletė, tipografija ir prekės ženklo gairės.'
     items:
       - 'Pagrindinis logotipas (PNG/SVG/EPS)'
       - 'Ikona'
@@ -58,7 +58,7 @@ cta:
       desc: 'Pamatykite mūsų 12 000 kv. m gamybos įmonę'
     - label: 'Prekės ženklo gairės'
       href: /brand/
-      desc: 'Sužinokite apie afarer prekės ženklą'
+      desc: 'Sužinokite apie olagoon prekės ženklą'
     - label: 'Tapkite mūsų partneriu'
       href: /contact/
       desc: 'OEM, ODM ir platinimo užklausos'

@@ -159,9 +159,9 @@ brand_hub_cards:
     desc: 'Shipping to 50+ countries from our Qingdao facility with authorized service partners across Europe, Asia-Pacific, and the Americas.'
     link: /brand-global-presence
     link_label: 'Learn more \u2192'
-  - title: Why afarer
+  - title: Why olagoon
     desc: 'Vertical integration, dual certification (ISO 9001 + BSCI), CE compliance, and low MOQs \u2014 built for brands, distributors, and government agencies.'
-    link: /brand-why-afarer
+    link: /brand-why-olagoon
     link_label: 'Learn more \u2192'\n"""
 
 

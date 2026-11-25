@@ -1,14 +1,14 @@
 // Process SUP usage-scenario photos -> compressed webp sources in
-// public/images/afarer/scenarios/<series>/<name>.webp
+// public/images/olagoon/scenarios/<series>/<name>.webp
 // Rules: width min 1024 (mild upscale so -768w variant exists), max 1920 (cap repo weight).
 // CI deploy (optimize-assets.mjs + fast-upload-r2.mjs) generates -480w/-768w/-1200w/-1920w
-// variants and uploads them to R2 -> https://assets.afarer.com/images/afarer/scenarios/...
-const sharp = require('E:/github/afarer/node_modules/sharp');
+// variants and uploads them to R2 -> https://assets.olagoon.com/images/olagoon/scenarios/...
+const sharp = require('E:/github/olagoon/node_modules/sharp');
 const fs = require('fs');
 const path = require('path');
 
-const SRC_ROOT = 'E:/github/afarer优化/图片';
-const DEST_ROOT = 'E:/github/afarer/public/images/afarer/scenarios';
+const SRC_ROOT = 'E:/github/olagoon优化/图片';
+const DEST_ROOT = 'E:/github/olagoon/public/images/olagoon/scenarios';
 
 const JOBS = [
   ['ALL-AROUND Series', 'Sunlit Paddleboarding in Turquoise Waters.jpg', 'all-around', 'all-around-paddling-1'],

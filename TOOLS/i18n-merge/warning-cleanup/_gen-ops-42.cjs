@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const CFG = path.join(ROOT, 'src/data/site/i18n-config.json');
 const OUT = path.join(ROOT, 'TOOLS/i18n-merge/warning-cleanup/_ops-data-42.cjs');
 

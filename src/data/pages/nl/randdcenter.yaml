@@ -7,7 +7,7 @@ hero:
   subtitle: Gefocust op Vooruitgang
 intro:
   - >-
-    Het Onderzoeks- en Ontwikkelingscentrum (R&D) van afarer is de drijvende kracht achter onze missie om watersportuitrusting te revolutioneren. We geven watersportliefhebbers wereldwijd de mogelijkheid om veiliger, comfortabeler en plezieriger te genieten van onze producten door voortdurende
+    Het Onderzoeks- en Ontwikkelingscentrum (R&D) van olagoon is de drijvende kracht achter onze missie om watersportuitrusting te revolutioneren. We geven watersportliefhebbers wereldwijd de mogelijkheid om veiliger, comfortabeler en plezieriger te genieten van onze producten door voortdurende
     innovatie in opblaasbare stand-up paddleboards (SUP's). Ons toegewijde team van ingenieurs, ontwerpers en gepassioneerde watersportexperts vormt de toekomst van de industrie en blijft consequent de lat hoger leggen voor kwaliteit, prestaties en duurzaamheid.
   - Onze R&D-faciliteit brengt materiaalkundigen, maritieme ingenieurs en productietechnici onder één dak samen. Van stofformulering en romp simulatie tot ontwikkeling van lasprocessen en volledige zeetrials, elke fase van productontwikkeling wordt gestuurd door gegevens en gevalideerd door testen.
 mission:
@@ -93,33 +93,33 @@ vision:
   tagline: Onze Visie
   title: De Toekomst van Watersport Vormgeven
   body: >-
-    afarer streeft ernaar de opblaasbare SUP-industrie te leiden door voortdurende innovatie, onwankelbare kwaliteit en een standvastige toewijding aan veiligheid en duurzaamheid — uiteindelijk verrijkend de ervaringen van watersportliefhebbers wereldwijd. Het afarer R&D Center is waar
+    olagoon streeft ernaar de opblaasbare SUP-industrie te leiden door voortdurende innovatie, onwankelbare kwaliteit en een standvastige toewijding aan veiligheid en duurzaamheid — uiteindelijk verrijkend de ervaringen van watersportliefhebbers wereldwijd. Het olagoon R&D Center is waar
     passie innovatie ontmoet en nieuwe normen stelt voor de watersportindustrie.
 labs_section:
   tagline: Laboratoria
   title: Onze laboratoria
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: PVC Stof Laboratorium
       description: Continue onderzoek en testen van PVC-dekstoffen voor treksterkte, UV-bestendigheid, slijtvastheid en flexibiliteit bij lage temperaturen om langdurige betrouwbaarheid in mariene omgevingen te waarborgen.
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Engineeringstudio voor de romp
       description: CAD-gestuurde ontwerp- en eindige-elementenanalyse van HDPE-, aluminium- en glasvezelhullen. Elke romp wordt digitaal gesimuleerd op spanningsverdeling en slagvastheid voordat het eerste prototype wordt gebouwd.
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: RF Lascentrum
       description: Toegewijde radiofrequentielasfaciliteit met nauwkeurige temperatuur- en drukregeling, die sterke, luchtdichte naden produceert die voldoen aan de normen van de maritieme industrie voor opblaasbare vaartuigen.
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Hydrodynamische testtank
       description: Schaalmodeltests in onze interne testtank om de rompvorm, het glijvermogen, de stabiliteit en de brandstofefficiëntie te optimaliseren over een reeks laad- en zeecondities.
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Prototype Werkplaats
       description: Volledige prototyping- en tuigagefaciliteit waar nieuwe modellen worden gebouwd, gemonteerd en getest op zee. Elk prototype ondergaat een testprogramma van minimaal 20 uur in het water voordat goedkeuring voor productie wordt gegeven.
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: Kwaliteit & Inspectie Lab
       description: Toegewijd laboratorium voor kwaliteitsborging dat trekproeven, luchtretentiecycli, naadpeeltests en materiaalcategoriecertificering uitvoert om ervoor te zorgen dat elk board dat de werkplaats verlaat aan onze gepubliceerde specificaties voldoet.
       href: /randdcenter/quality-inspection-lab/

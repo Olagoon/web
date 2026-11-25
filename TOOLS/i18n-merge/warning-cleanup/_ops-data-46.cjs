@@ -5,8 +5,8 @@
 module.exports = [
   {
     f: 'src/data/site/i18n-config.json',
-    find: '    "home.tech.subtitle": "Hvert afarer board er designet med præcise materialer og fremstillingsmetoder.",\n    "home.tech.pvc.title": "Militær-grade PVC-lag",',
-    rep: '    "home.tech.subtitle": "Hvert afarer board er designet med præcise materialer og fremstillingsmetoder.",\n    "home.tech.pvc.title": "PVC-lag i militærkvalitet",',
+    find: '    "home.tech.subtitle": "Hvert olagoon board er designet med præcise materialer og fremstillingsmetoder.",\n    "home.tech.pvc.title": "Militær-grade PVC-lag",',
+    rep: '    "home.tech.subtitle": "Hvert olagoon board er designet med præcise materialer og fremstillingsmetoder.",\n    "home.tech.pvc.title": "PVC-lag i militærkvalitet",',
   }, // L28528-28528, 1 keys (anchor L28527)
   {
     f: 'src/data/site/i18n-config.json',
@@ -40,8 +40,8 @@ module.exports = [
   }, // L28923-28932, 2 keys (anchor L28922)
   {
     f: 'src/data/site/i18n-config.json',
-    find: '    "home.resources.b2bNote": "Alle ressourcer tilgængelige for registrerede B2B-partnere.",\n    "home.resources.b2bSubtitle": "Download produktkataloger, kvalitetsrapporter og overholdelsesdokumentation for at udforske afarers kollektioner og partnerprogrammer.",\n    "home.resources.bsci": "BSCI-certificeret",\n    "home.resources.buyersCenter": "Købercenter",\n    "home.resources.catalog": "Produktkatalog 2026",\n    "home.resources.catalog.desc": "Komplet sortiment med specifikationer, minimumsordrer, prisniveauer og tilpasningsmuligheder. PDF-format.",\n    "home.resources.ce": "CE",\n    "home.resources.certifications": "Certificeringer",\n    "home.resources.compare": "Sammenlign",\n    "home.resources.download": "Download PDF",',
-    rep: '    "home.resources.b2bNote": "Alle ressourcer tilgængelige for registrerede B2B-partnere.",\n    "home.resources.b2bSubtitle": "Hent produktkataloger, kvalitetsrapporter og overholdelsesdokumentation for at udforske afarers kollektioner og partnerprogrammer.",\n    "home.resources.bsci": "BSCI-certificeret",\n    "home.resources.buyersCenter": "Købercenter",\n    "home.resources.catalog": "Produktkatalog 2026",\n    "home.resources.catalog.desc": "Komplet sortiment med specifikationer, minimumsordrer, prisniveauer og tilpasningsmuligheder. PDF-format.",\n    "home.resources.ce": "CE",\n    "home.resources.certifications": "Certificeringer",\n    "home.resources.compare": "Sammenlign",\n    "home.resources.download": "Hent PDF",',
+    find: '    "home.resources.b2bNote": "Alle ressourcer tilgængelige for registrerede B2B-partnere.",\n    "home.resources.b2bSubtitle": "Download produktkataloger, kvalitetsrapporter og overholdelsesdokumentation for at udforske olagoons kollektioner og partnerprogrammer.",\n    "home.resources.bsci": "BSCI-certificeret",\n    "home.resources.buyersCenter": "Købercenter",\n    "home.resources.catalog": "Produktkatalog 2026",\n    "home.resources.catalog.desc": "Komplet sortiment med specifikationer, minimumsordrer, prisniveauer og tilpasningsmuligheder. PDF-format.",\n    "home.resources.ce": "CE",\n    "home.resources.certifications": "Certificeringer",\n    "home.resources.compare": "Sammenlign",\n    "home.resources.download": "Download PDF",',
+    rep: '    "home.resources.b2bNote": "Alle ressourcer tilgængelige for registrerede B2B-partnere.",\n    "home.resources.b2bSubtitle": "Hent produktkataloger, kvalitetsrapporter og overholdelsesdokumentation for at udforske olagoons kollektioner og partnerprogrammer.",\n    "home.resources.bsci": "BSCI-certificeret",\n    "home.resources.buyersCenter": "Købercenter",\n    "home.resources.catalog": "Produktkatalog 2026",\n    "home.resources.catalog.desc": "Komplet sortiment med specifikationer, minimumsordrer, prisniveauer og tilpasningsmuligheder. PDF-format.",\n    "home.resources.ce": "CE",\n    "home.resources.certifications": "Certificeringer",\n    "home.resources.compare": "Sammenlign",\n    "home.resources.download": "Hent PDF",',
   }, // L29053-29061, 2 keys (anchor L29052)
   {
     f: 'src/data/site/i18n-config.json',
@@ -65,13 +65,13 @@ module.exports = [
   }, // L29520-29526, 3 keys (anchor L29519)
   {
     f: 'src/data/site/i18n-config.json',
-    find: '    "partners.metaDesc": "Bliv afarer-partner. Bliv en del af vores globale distributionsnetværk, der betjener marineforhandlere, OEM-partnere og udstyrsdetailhandlere i 50+ lande.",\n    "resources.metaDesc": "Download produktkataloger, OEM-produktionsguider, indkøbschecklister og teknisk dokumentation til indkøb af marineudstyr.",',
-    rep: '    "partners.metaDesc": "Bliv afarer-partner. Bliv en del af vores globale distributionsnetværk, der betjener marineforhandlere, OEM-partnere og udstyrsdetailhandlere i 50+ lande.",\n    "resources.metaDesc": "Hent produktkataloger, OEM-produktionsguider, indkøbschecklister og teknisk dokumentation til indkøb af marineudstyr.",',
+    find: '    "partners.metaDesc": "Bliv olagoon-partner. Bliv en del af vores globale distributionsnetværk, der betjener marineforhandlere, OEM-partnere og udstyrsdetailhandlere i 50+ lande.",\n    "resources.metaDesc": "Download produktkataloger, OEM-produktionsguider, indkøbschecklister og teknisk dokumentation til indkøb af marineudstyr.",',
+    rep: '    "partners.metaDesc": "Bliv olagoon-partner. Bliv en del af vores globale distributionsnetværk, der betjener marineforhandlere, OEM-partnere og udstyrsdetailhandlere i 50+ lande.",\n    "resources.metaDesc": "Hent produktkataloger, OEM-produktionsguider, indkøbschecklister og teknisk dokumentation til indkøb af marineudstyr.",',
   }, // L29546-29546, 1 keys (anchor L29545)
   {
     f: 'src/data/site/i18n-config.json',
-    find: '    "academy.learningCenter": "Læringscenter",\n    "academy.learningCenterDesc": "Trinvise guider og tutorials organiseret efter færdighedsniveau — fra SUP-basics til avancerede redningsteknikker.",\n    "academy.metaDesc": "Guider og tutorials for hvert færdighedsniveau — fra SUP-basics til avancerede redningsteknikker. Lær i dit eget tempo med Afarer Academy.",',
-    rep: '    "academy.learningCenter": "Læringscenter",\n    "academy.learningCenterDesc": "Trinvise guider og tutorials organiseret efter færdighedsniveau — fra det grundlæggende i SUP til avancerede redningsteknikker.",\n    "academy.metaDesc": "Guider og tutorials for hvert færdighedsniveau — fra det grundlæggende i SUP til avancerede redningsteknikker. Lær i dit eget tempo med Afarer Academy.",',
+    find: '    "academy.learningCenter": "Læringscenter",\n    "academy.learningCenterDesc": "Trinvise guider og tutorials organiseret efter færdighedsniveau — fra SUP-basics til avancerede redningsteknikker.",\n    "academy.metaDesc": "Guider og tutorials for hvert færdighedsniveau — fra SUP-basics til avancerede redningsteknikker. Lær i dit eget tempo med OLagoon Academy.",',
+    rep: '    "academy.learningCenter": "Læringscenter",\n    "academy.learningCenterDesc": "Trinvise guider og tutorials organiseret efter færdighedsniveau — fra det grundlæggende i SUP til avancerede redningsteknikker.",\n    "academy.metaDesc": "Guider og tutorials for hvert færdighedsniveau — fra det grundlæggende i SUP til avancerede redningsteknikker. Lær i dit eget tempo med OLagoon Academy.",',
   }, // L29572-29573, 2 keys (anchor L29571)
   {
     f: 'src/data/site/i18n-config.json',

@@ -1,6 +1,6 @@
 meta:
-  title: 'Državni partnerji — ena država, en uradni distributer Afarer | {SITE}'
-  description: 'Prijavite se za uradnega distributerja Afarer za svojo državo. En pooblaščeni partner na trg, zaščita ozemlja, marže neposredno iz tovarne, letni popusti in program podpore državnim partnerjem z 10 moduli za distributerje SUP in vodnih športov po vsem svetu.'
+  title: 'Državni partnerji — ena država, en uradni distributer OLagoon | {SITE}'
+  description: 'Prijavite se za uradnega distributerja OLagoon za svojo državo. En pooblaščeni partner na trg, zaščita ozemlja, marže neposredno iz tovarne, letni popusti in program podpore državnim partnerjem z 10 moduli za distributerje SUP in vodnih športov po vsem svetu.'
   keywords:
     - 'program državnega partnerstva'
     - 'postanite distributer'
@@ -11,8 +11,8 @@ meta:
     - 'vloga za državno partnerstvo'
 hero:
   tagline: 'Državno partnerstvo'
-  title: 'Ena država.<br />En uradni distributer Afarer.'
-  subtitle: 'Afarer za vsak odobren trg imenuje enega samega pooblaščenega državnega distributerja. Ekskluzivno ozemlje, prodajne cene za trgovce z letnimi popusti in popoln program podpore distributerjem — v zameno za podpisan sporazum in pravo zavezanost gradnji trga.'
+  title: 'Ena država.<br />En uradni distributer OLagoon.'
+  subtitle: 'OLagoon za vsak odobren trg imenuje enega samega pooblaščenega državnega distributerja. Ekskluzivno ozemlje, prodajne cene za trgovce z letnimi popusti in popoln program podpore distributerjem — v zameno za podpisan sporazum in pravo zavezanost gradnji trga.'
   actions:
     - text: 'Prijavite se na državno partnerstvo'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Dni standardnega roka dobave (FOB Qingdao)'
 features:
-  title: 'Zakaj biti partner Afarer'
+  title: 'Zakaj biti partner OLagoon'
   subtitle: 'Model ena država–en distributer s strukturo podpore, zaradi katere se ozemlje obrestuje. Ekskluzivnost si prislužite in jo ohranjate — ni trajna pravica.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'En pooblaščeni distributer na državo ali regijo. Brez vzporednih uvozov, brez notranje konkurence. Vaša naložba gradi vašo lastno prednost.'
       icon: 'tabler:shield-check'
     - title: 'Zaščita pred konflikti prodajnih kanalov'
-      description: 'Neposredna naročila iz vaše regije se usmerjajo skozi vas, cenovna politika pa ščiti vašo maržo. Afarer ne prodaja mimo svojih državnih partnerjev.'
+      description: 'Neposredna naročila iz vaše regije se usmerjajo skozi vas, cenovna politika pa ščiti vašo maržo. OLagoon ne prodaja mimo svojih državnih partnerjev.'
       icon: 'tabler:users'
     - title: 'Marže neposredno iz tovarne in popusti'
       description: 'Cenik za trgovce s popusti za dogovorjene količine. Brez posrednikov. Dostava FOB Qingdao s popolno izvozno dokumentacijo.'
@@ -59,7 +59,7 @@ features:
       description: 'Dobava rezervnih delov, registracija garancije in obravnavanje zahtevkov ter podatki in priročniki o izdelkih za vašo lokalno servisno ekipo.'
       icon: 'tabler:settings'
     - title: 'Posvečen upravitelj računa in portal za partnerje'
-      description: 'Osebni skrbnik distributerja plus dostop do cenikov, statusa naročil in tržnih virov prek portala za partnerje Afarer.'
+      description: 'Osebni skrbnik distributerja plus dostop do cenikov, statusa naročil in tržnih virov prek portala za partnerje OLagoon.'
       icon: 'tabler:user-check'
 table:
   title: 'Ravni partnerstva, MOQ in pogoji naročanja'
@@ -99,14 +99,14 @@ faqs:
   subtitle: 'Vprašanja, ki jih resni državni partnerji zastavijo pred prijavo.'
   items:
     - title: 'Kaj model ena država–en distributer dejansko pomeni?'
-      description: 'Afarer imenuje enega samega pooblaščenega distributerja z ekskluzivnimi pravicami za določeno ozemlje. Ne prodajamo iz svojih globalnih ali regionalnih kanalov v zaščiteno državo. Lastništvo vašega ozemlja velja, dokler so izpolnjene obveznosti distribucijskega sporazuma.'
+      description: 'OLagoon imenuje enega samega pooblaščenega distributerja z ekskluzivnimi pravicami za določeno ozemlje. Ne prodajamo iz svojih globalnih ali regionalnih kanalov v zaščiteno državo. Lastništvo vašega ozemlja velja, dokler so izpolnjene obveznosti distribucijskega sporazuma.'
     - title: 'Je ozemlje ekskluzivno za vedno?'
       description: 'Ne. Ekskluzivnost je pogojna, ne večna. Ohranja se s podpisanim distribucijskim sporazumom, izvedbo prvega naročila, letnimi nakupnimi cilji, lokalno zalogo, poprodajnimi zmožnostmi in nadaljnjimi naložbami v trg. Če ti pogoji niso izpolnjeni, se lahko ozemlje znova pogaja ali prenese.'
     - title: 'Kolikšno je najmanjše prvo naročilo?'
       description: 'Državni in regionalni distributerji začnejo pri 100–300 kosih; pooblaščeni trgovci pri 30–50 kosih; poskusna naročila od 10–30 kosov vam omogočajo, da najprej preverite trg (poskusna in vzorčna naročila ne nosijo ozemeljske zaščite). Programi po meri in zasebnih znamk sledijo ločenim MOQ, navedenim v ravneh zgoraj.'
     - title: 'Kakšna podpora je vključena v program podpore z 10 moduli?'
       description: 'Ravni in kvalifikacije, zaščita ozemlja, MOQ / cene / letni popusti, zaloga in izvedba naročil, tržna sredstva in skupna tržna sredstva, usposabljanje o izdelkih / prodaji / tehniki, rezervni deli in poprodajne storitve, registracija garancije, portal za partnerje ter podatki o izdelkih, knjižnica trženih sredstev, letni razpored popustov ter transportni in pakirni seznami.'
-    - title: 'Kako me Afarer ščiti pred konflikti prodajnih kanalov?'
+    - title: 'Kako me OLagoon ščiti pred konflikti prodajnih kanalov?'
       description: 'Vsako ozemlje ima natanko enega pooblaščenega distributerja. Poizvedbe in neposredna naročila iz vaše regije se usmerjajo skozi vas, spletni obrazci se posredujejo lokalnemu partnerju, kjer ta obstaja, globalna ekipa pa posreduje šele, ko partner ne odgovori.'
     - title: 'Kakšni so pogoji dostave in plačila?'
       description: 'Naročila se odpošiljajo FOB Qingdao s popolno izvozno dokumentacijo. Proizvodna naročila: 30 % akontacija in 70 % pred odpošiljanjem; poskusna in vzorčna naročila so predplačana. Standardni rok dobave je 30–45 delovnih dni, za vzorčne serije 15–20 delovnih dni.'
@@ -114,7 +114,7 @@ faqs:
       description: 'Pošljite vlogo prek kontaktnega obrazca s podrobnostmi o trgu. Pregledamo ujemanje s trgom, maloprodajno prisotnost in logistične zmožnosti, nato v 3 delovnih dneh odgovorimo z naslednjimi koraki in vzorčnim distribucijskim sporazumom.'
 cta:
   title: 'Prevladajte na svojem trgu.'
-  subtitle: 'Prijavite se na državno partnerstvo Afarer in v 3 delovnih dneh prejmite odgovor.'
+  subtitle: 'Prijavite se na državno partnerstvo OLagoon in v 3 delovnih dneh prejmite odgovor.'
   actions:
     - text: 'Prijavite se na državno partnerstvo'
       href: /contact/?subject=Country Partnership Application
@@ -124,7 +124,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'S kom sodelujemo'
-  sentence: 'Afarer sodeluje z uveljavljenimi distributerji na področju pomorstva, dejavnosti na prostem in športa, ki oskrbujejo maloprodajne verige, flote za najem, šole vodnih športov, letovišča in vladne kupce s premijskimi napihljivimi SUP deskami in plovili — in ki se zavezujejo k gradnji znamke Afarer v svoji državi.'
+  sentence: 'OLagoon sodeluje z uveljavljenimi distributerji na področju pomorstva, dejavnosti na prostem in športa, ki oskrbujejo maloprodajne verige, flote za najem, šole vodnih športov, letovišča in vladne kupce s premijskimi napihljivimi SUP deskami in plovili — in ki se zavezujejo k gradnji znamke OLagoon v svoji državi.'
   audiences:
     - 'Distributerji pomorskih in veslaških športov'
     - 'Maloprodaja opreme za prostočasne dejavnosti in šport'

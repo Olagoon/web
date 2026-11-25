@@ -1,18 +1,18 @@
 meta:
   title: 'Matriks Penyelesaian Klien B2B | {SITE}'
-  description: 'Matriks penyelesaian klien B2B Afarer yang lengkap merangkumi 24 jenis pelanggan — daripada syarikat permulaan luar rumah sehingga institusi pemuliharaan marin.'
+  description: 'Matriks penyelesaian klien B2B OLagoon yang lengkap merangkumi 24 jenis pelanggan — daripada syarikat permulaan luar rumah sehingga institusi pemuliharaan marin.'
 
 hero:
   tagline: 'Penyelesaian Klien B2B'
   title: '24 Penyelesaian B2B<br />Dipadankan dengan Perniagaan Anda'
-  subtitle: 'Daripada pengasas syarikat permulaan sehingga pengedar global — temui penyelesaian Afarer yang tepat, direka untuk model perniagaan, industri, dan matlamat anda.'
+  subtitle: 'Daripada pengasas syarikat permulaan sehingga pengedar global — temui penyelesaian OLagoon yang tepat, direka untuk model perniagaan, industri, dan matlamat anda.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Kilang dan kemudahan pembuatan Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'Kilang dan kemudahan pembuatan OLagoon'
 
 solutions:
   title: 'Matriks Penyelesaian Klien'
-  subtitle: 'Setiap jenis pelanggan, keperluan teras mereka, dan halaman penyelesaian Afarer yang direka untuk mereka.'
+  subtitle: 'Setiap jenis pelanggan, keperluan teras mereka, dan halaman penyelesaian OLagoon yang direka untuk mereka.'
   items:
     - clientType: 'Pengasas Syarikat Permulaan Luar Rumah'
       need: 'Penciptaan Jenama'

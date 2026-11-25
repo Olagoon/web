@@ -129,7 +129,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Et Fortune 500-teknologiselskap ville lansere et vannbasert helseprogram for ansatte på 4 globale campuser ved sjøer: 60 SUP-er med bedriftsbranding, lagringsløsninger og instruktøropplæring.',
     solution:
-      'Leverte en flåte stabile allaround-SUP-er med dekkgrafikk i firmaets logo. Utformet værbestandige lagringsstativer på stedet. Sertifiserte 12 interne instruktører gjennom afarers opplæringsprogram.',
+      'Leverte en flåte stabile allaround-SUP-er med dekkgrafikk i firmaets logo. Utformet værbestandige lagringsstativer på stedet. Sertifiserte 12 interne instruktører gjennom olagoons opplæringsprogram.',
     result:
       'Program lansert på 4 campuser. 2,400+ ansattdeltakelser første året. 94% tilfredshet blant de ansatte. Omtalt i selskapets bærekraftsrapport.',
     outcomeMetrics: [
@@ -381,7 +381,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Hele produktlinjen — SUP og tilbehør',
     industry: 'Distribusjon / Maritim',
     challenge:
-      'En GCC-basert distributør ønsket eksklusive rettigheter til hele Afarer-produktlinjen i 6 Gulfstater, med arabisk emballasje, varmebestandige materialspesifikasjoner og sharia-kompatible garantivilkår.',
+      'En GCC-basert distributør ønsket eksklusive rettigheter til hele OLagoon-produktlinjen i 6 Gulfstater, med arabisk emballasje, varmebestandige materialspesifikasjoner og sharia-kompatible garantivilkår.',
     solution:
       'Etablerte eksklusiv distribusjonsavtale. Utviklet arabisk emballasje og markedsføringsmateriell. Validerte materialespesifikasjoner ved 50°C omgivelsestemperatur. Tilpasset garantivilkår til regional forskriftssamsvar.',
     result:

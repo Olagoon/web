@@ -14,8 +14,8 @@
  *   Lifestyle -> nav.lifestyle | News -> nav.news | Partners -> nav.partners
  *   Request a Quote -> cta.requestQuote | Resources -> nav.resources | Solutions -> nav.solutions
  *   Trust -> nav.trust | Warranty -> nav.warranty | Global Presence -> nav.brandGlobalPresence
- *   Marine Expertise -> nav.brandMarineExpertise | Why Afarer -> nav.brandWhyAfarer
- *   Afarer Story -> nav.afarerStory (EN casing "Afarer Story" -> "afarer Story", site nav convention)
+ *   Marine Expertise -> nav.brandMarineExpertise | Why OLagoon -> nav.brandWhyOLagoon
+ *   OLagoon Story -> nav.olagoonStory (EN casing "OLagoon Story" -> "olagoon Story", site nav convention)
  *   B2B Solutions Matrix -> nav.b2bSolutionsMatrix
  *   Build Your Own Brand -> nav.solutionsBuildBrand | Distributors -> nav.solutionsDistributors
  *   Rental Operators -> nav.solutionsRentalOperators | Retail Partners -> nav.solutionsRetailPartners
@@ -37,7 +37,7 @@
  */
 const fs = require('fs');
 
-const REPO = 'E:/github/afarer';
+const REPO = 'E:/github/olagoon';
 const dry = process.argv.includes('--dry');
 const patch = process.argv.includes('--patch');
 if (!dry && !patch) {
@@ -59,11 +59,11 @@ const QUALITY_T = "const t = (s: string) => (typeof s === 'string' ? s.replace(/
 // anchor: 'lang' (after LANG_DESTR) | 'fr' (after contact/news fr helper) | 'qualityT'
 const HELPERS = {
   'about.astro': { imp: false, tline: T_LINE, anchor: 'lang' },
-  'afarer-story.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
+  'olagoon-story.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
   'brand/team.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
   'brand-global-presence.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
   'brand-marine-expertise.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
-  'brand-why-afarer.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
+  'brand-why-olagoon.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
   'cases/index.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
   'community.astro': { imp: true, tline: T_LINE, anchor: 'lang' },
   'contact.astro': { imp: true, tline: TNAV_LINE, anchor: 'fr' }, // local function t(record) exists
@@ -95,9 +95,9 @@ const EDITS = [
     rep: "const crumbs = [{ name: t('nav.home'), href: `/${lang}/` }, { name: t('nav.about') }];",
   },
   {
-    f: 'afarer-story.astro',
-    find: "const crumbs = [{ name: 'Home', href: `/${lang}/` }, { name: 'Afarer Story' }];",
-    rep: "const crumbs = [{ name: t('nav.home'), href: `/${lang}/` }, { name: t('nav.afarerStory') }];",
+    f: 'olagoon-story.astro',
+    find: "const crumbs = [{ name: 'Home', href: `/${lang}/` }, { name: 'OLagoon Story' }];",
+    rep: "const crumbs = [{ name: t('nav.home'), href: `/${lang}/` }, { name: t('nav.olagoonStory') }];",
   },
   {
     f: 'cases/index.astro',
@@ -313,9 +313,9 @@ const EDITS = [
     rep: "const crumbs = [\n  { name: t('nav.home'), href: `/${lang}/` },\n  { name: t('nav.brand') },\n  { name: t('nav.brandMarineExpertise') },\n];",
   },
   {
-    f: 'brand-why-afarer.astro',
-    find: "const crumbs = [{ name: 'Home', href: `/${lang}/` }, { name: 'Brand' }, { name: 'Why Afarer' }];",
-    rep: "const crumbs = [\n  { name: t('nav.home'), href: `/${lang}/` },\n  { name: t('nav.brand') },\n  { name: t('nav.brandWhyAfarer') },\n];",
+    f: 'brand-why-olagoon.astro',
+    find: "const crumbs = [{ name: 'Home', href: `/${lang}/` }, { name: 'Brand' }, { name: 'Why OLagoon' }];",
+    rep: "const crumbs = [\n  { name: t('nav.home'), href: `/${lang}/` },\n  { name: t('nav.brand') },\n  { name: t('nav.brandWhyOLagoon') },\n];",
   },
 
   // ---- solutions subpage third crumbs ----

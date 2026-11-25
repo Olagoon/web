@@ -1,6 +1,6 @@
 meta:
   title: 'Tillid — kvalitet, standarder & omdømme | {SITE}'
-  description: 'Hvorfor stole på afarer: CE- og ISO-certificeringer, integreret fabrik, globale referencer og garanti. En professionel producent af oppustelige SUP-brædder.'
+  description: 'Hvorfor stole på olagoon: CE- og ISO-certificeringer, integreret fabrik, globale referencer og garanti. En professionel producent af oppustelige SUP-brædder.'
   keywords:
     - 'pålidelig SUP-producent'
     - 'certificeret paddle board fabrik'
@@ -8,15 +8,15 @@ meta:
     - 'certificeret SUP-fabrik'
 hero:
   tagline: Bygget til standarder, der betyder noget
-  title: Stol på afarer
+  title: Stol på olagoon
   subtitle: |
     Hvert produkt vi bygger er CE-certificeret — testet for sikkerhed,<br />
     holdbarhed og ydeevne. Ingen genveje. Ingen undtagelser.
   taglineSection: Certificeret. Testet. Bevist.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: afarer-produkt gennemgår kvalitetstestning
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: olagoon-produkt gennemgår kvalitetstestning
 stats:
-  title: afarer i tal
+  title: olagoon i tal
   stats:
     - title: CE-certificeret
       description: Alle rekreative produkter opfylder EU-sikkerhedsstandarder
@@ -25,7 +25,7 @@ stats:
     - title: BSCI og REACH
       description: Etisk fremstilling og materialeoverholdelse
     - title: 3-års garanti
-      description: På hvert afarer-produkt — uden spørgsmål
+      description: På hvert olagoon-produkt — uden spørgsmål
 features3_certifications:
   title: Certificeringer & overholdelse
   subtitle: Hvert produkt er uafhængigt testet og certificeret efter internationale standarder.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: CE-certificering
-      description: Alle afarer SUP'er opfylder den europæiske CE-sikkerhedsstandard til rekreativt brug. Hvert produkt gennemgår tryk-, opdrifts- og belastningstest, før det forlader fabrikken.
+      description: Alle olagoon SUP'er opfylder den europæiske CE-sikkerhedsstandard til rekreativt brug. Hvert produkt gennemgår tryk-, opdrifts- og belastningstest, før det forlader fabrikken.
       icon: tabler:certificate
     - title: ISO 9001-certificeret
       description: Vores 12.000 m² Qingdao-facilitet opererer under et kvalitetsstyringssystem. Hver produktionsbatch er sporbar, dokumenteret og inspiceret.
@@ -48,20 +48,20 @@ features3_certifications:
       description: Internt materialelaboratorium tester trækstyrke, UV-bestandighed, sømintegritet og slidstyrke for hver stofbatch før produktion.
       icon: tabler:microscope
     - title: 3-års garanti
-      description: Hvert afarer-produkt leveres med en to-års garanti mod produktionsfejl. Vi står ved det, vi bygger.
+      description: Hvert olagoon-produkt leveres med en to-års garanti mod produktionsfejl. Vi står ved det, vi bygger.
       icon: tabler:shield-check
 testimonials:
   tagline: Kundetillid
   title: Hvad vores kunder siger
-  subtitle: Fra førstegangspadlere til professionelle flådeoperatører — se hvorfor de stoler på afarer.
+  subtitle: Fra førstegangspadlere til professionelle flådeoperatører — se hvorfor de stoler på olagoon.
   items:
-    - content: Vi udstyrede hele vores udlejningsflåde med afarer SUP'er. To sæsoner inde, nul fejl. CE-certificeringen gjorde forsikringsgodkendelse problemfri.
+    - content: Vi udstyrede hele vores udlejningsflåde med olagoon SUP'er. To sæsoner inde, nul fejl. CE-certificeringen gjorde forsikringsgodkendelse problemfri.
       name: Marco V.
       title: Turarrangør, Kroatien
     - content: Som førstegangskøber var jeg nervøs for kvaliteten. ISO-dokumentationen og testrapporterne, de delte, gav mig fuldstændig tillid.
       name: James T.
       title: SUP Explorer 11-ejer, Canada
-    - content: Vi arbejder med afarer til vores kystpatruljeenheder. Deres QC-proces er konsekvent på tværs af hver batch — den pålidelighed betyder noget i missionskritiske operationer.
+    - content: Vi arbejder med olagoon til vores kystpatruljeenheder. Deres QC-proces er konsekvent på tværs af hver batch — den pålidelighed betyder noget i missionskritiske operationer.
       name: Lt. Cmdr. Andres
       title: Flådeindkøb, Filippinerne
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Vi står bag hvert eneste produkt med klare garantibetingelser, hurtig reklamationsbehandling og ægte reservedele.
   items:
     - title: 3 års produktgaranti
-      desc: Alle afarer-produkter har 3 års garanti mod fabrikationsfejl — svigtende sømme, defekte ventiler og delaminering af materialet ved normal brug.
+      desc: Alle olagoon-produkter har 3 års garanti mod fabrikationsfejl — svigtende sømme, defekte ventiler og delaminering af materialet ved normal brug.
     - title: Livsvarig reservedelssupport
       desc: Ægte reservedele — ventiler, reparationssæt, finner, D-ringe — fås til alle modeller. Vi vedligeholder forme og værktøj i mindst 5 år efter produktionens ophør.
     - title: 48-timers svar på reklamationer
@@ -149,25 +149,25 @@ faqs_sup:
     - title: Tilbyder du komplette SUP-pakker?
       description: Ja. Hvert SUP-bræt leveres med en komplet pakke inklusive 3-delt aluminiumspagaj, højtryks håndpumpe, spiralsnor, rejserygsæk og reparationssæt. Nogle modeller inkluderer også et aftageligt finnesæt.
     - title: Hvad er garantien på SUP-brædder?
-      description: Alle afarer SUP-brædder har tre-års garanti mod produktionsfejl, inklusive sømfejl, ventilfejl og materialedelaminering under normal brug.
+      description: Alle olagoon SUP-brædder har tre-års garanti mod produktionsfejl, inklusive sømfejl, ventilfejl og materialedelaminering under normal brug.
     - title: Hvor lang tid tager det at pumpe et SUP-bræt op?
-      description: Ved brug af den medfølgende håndpumpe tager fuld oppumpning til 15 PSI cirka 8-12 minutter. For hurtigere oppumpning anbefaler vi vores afarer 12V elektriske pumpe, der pumper et bræt op på under 4 minutter.
+      description: Ved brug af den medfølgende håndpumpe tager fuld oppumpning til 15 PSI cirka 8-12 minutter. For hurtigere oppumpning anbefaler vi vores olagoon 12V elektriske pumpe, der pumper et bræt op på under 4 minutter.
 faqs_materials:
   title: SUP-materiale- og pleje-FAQ
   subtitle: Almindelige spørgsmål om vores oppustelige SUP-materialer, pleje og opbevaring.
   columns: 2
   items:
-    - title: Hvilke materialer anvendes i afarer oppustelige SUPs?
+    - title: Hvilke materialer anvendes i olagoon oppustelige SUPs?
       description: Vi bruger PVC i militær kvalitet (1100 denier) med UV-stabiliseret, slidstærk konstruktion, der overholder EU's REACH- og RoHS-regler.
     - title: Hvor længe holder oppustelige SUP-boards?
       description: Med korrekt pleje holder en kvalitets-PVC-opblæselig SUP i 5–10 år. Regelmæssig rengøring, UV-beskyttelse og korrekt opbevaring forlænger levetiden betydeligt.
     - title: Hvilken vedligeholdelse kræver en oppustelig SUP?
       description: Grundlæggende vedligeholdelse omfatter skylning med ferskvand efter hver brug (især i saltvand), tørring før opbevaring, årlig kontrol af ventiltætninger og undgåelse af længerevarende solpåvirkning, når udstyret ikke er i brug.
     - title: Kan oppustelige SUP'er bruges i saltvand?
-      description: Ja. Alle oppustelige SUP-brætter fra afarer er designet til både ferskvand og saltvand. Vi anbefaler at skylle brætterne med ferskvand og tørre dem grundigt efter ophold i saltvand.
+      description: Ja. Alle oppustelige SUP-brætter fra olagoon er designet til både ferskvand og saltvand. Vi anbefaler at skylle brætterne med ferskvand og tørre dem grundigt efter ophold i saltvand.
     - title: Hvordan opbevarer jeg en oppustelig SUP?
       description: Tøm luften ud af boardet, og rengør og tør det helt, før det opbevares. Rul det løst (undgå stramme folder), opbevar det køligt og tørt og beskyttet mod direkte sollys, og lad det ikke stå på betongulve for at undgå fugtsugning.
-    - title: Hvad er vægtkapaciteten for afarer-oppustelige SUP-brædder?
+    - title: Hvad er vægtkapaciteten for olagoon-oppustelige SUP-brædder?
       description: Bæreevnen spænder fra 100 kg på vores mindste modeller til over 200 kg på de større boards. Hver produktside viser den maksimale lastkapacitet for din specifikke model.
 cta:
   title: Vil du se certificeringerne selv?

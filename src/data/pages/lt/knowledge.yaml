@@ -1,6 +1,6 @@
 meta:
   title: 'Žinios — SUP vadovai | {SITE}'
-  description: 'afarer žinių bazė: vadovai apie pripučiamus SUP, irklentės medžiagas, lentų parinkimą ir pramonės įžvalgas prekės ženklams ir profesionalams.'
+  description: 'olagoon žinių bazė: vadovai apie pripučiamus SUP, irklentės medžiagas, lentų parinkimą ir pramonės įžvalgas prekės ženklams ir profesionalams.'
   keywords:
     - 'sup žinios'
     - 'pripučiamų sup vadovas'
@@ -17,7 +17,7 @@ hero:
 clusters:
   tagline: 'Žinių grupės'
   title: 'Tyrinėkite pagal temą'
-  subtitle: 'Gilus panirimas į technologijas, saugą ir įgūdžius, esančius už kiekvieno afarer produkto.'
+  subtitle: 'Gilus panirimas į technologijas, saugą ir įgūdžius, esančius už kiekvieno olagoon produkto.'
   items:
     - title: 'SUP pirkimo vadovai'
       description: 'Nuo pirmosios lentos pasirinkimo iki pažangių turizmo technikų — viskas apie stovėjimo irklentę.'

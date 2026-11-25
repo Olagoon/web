@@ -1,6 +1,6 @@
 meta:
   title: 'Zināšanas — SUP ceļveži | {SITE}'
-  description: 'afarer zināšanu bāze: ceļveži par piepūšamajiem SUP, airu dēļu materiāliem, dēļu izvēli un nozares ieskatiem zīmoliem un profesionāļiem.'
+  description: 'olagoon zināšanu bāze: ceļveži par piepūšamajiem SUP, airu dēļu materiāliem, dēļu izvēli un nozares ieskatiem zīmoliem un profesionāļiem.'
   keywords:
     - 'sup zināšanas'
     - 'piepūšamā sup ceļvedis'
@@ -17,7 +17,7 @@ hero:
 clusters:
   tagline: 'Zināšanu kopas'
   title: 'Izpētiet pēc tēmas'
-  subtitle: 'Padziļināts ieskats tehnoloģijās, drošībā un prasmēs aiz katra afarer produkta.'
+  subtitle: 'Padziļināts ieskats tehnoloģijās, drošībā un prasmēs aiz katra olagoon produkta.'
   items:
     - title: 'SUP pirkumu ceļveži'
       description: 'No pirmā dēļa izvēles līdz advancētām tūrisma tehnikām — viss par stāvus airēšanu.'

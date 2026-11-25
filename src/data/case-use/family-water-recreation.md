@@ -17,6 +17,6 @@ tags:
 entityType: case-use
 ---
 
-Family water recreation is a core use case for afarer's larger inflatables. The AirDeck 360 carries up to five people, making it ideal for family outings.
+Family water recreation is a core use case for olagoon's larger inflatables. The AirDeck 360 carries up to five people, making it ideal for family outings.
 
 All family recreation requires proper safety equipment including CE-certified life vests for all occupants, especially children.

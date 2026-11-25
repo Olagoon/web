@@ -1,25 +1,25 @@
-// v2 es/it batch-4 live verification via curl (direct, no proxy — afarer.com direct OK).
+// v2 es/it batch-4 live verification via curl (direct, no proxy — olagoon.com direct OK).
 // Fetches /es/v2/<27 batch-4 slugs>, /it/v2/<27 batch-4 slugs> + both index pages + pt EN-fallback page,
 // checks HTTP 200 and translated <title> from the merged yaml source.
 const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const yaml = require(path.join(ROOT, 'node_modules', 'js-yaml'));
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
 
 const SLUGS = [
-  'afarer-sup-explorer-11-review',
-  'afarer-sup-tour-12-review',
-  'afarer-airdeck-360-review',
-  'afarer-airdeck-270-review',
-  'afarer-rib-330-review',
-  'afarer-rib-450-patrol-review',
-  'afarer-life-vest-classic-review',
-  'afarer-life-vest-pro-review',
-  'afarer-oars-pump-set-review',
-  'afarer-zb-mt350-review',
+  'olagoon-sup-explorer-11-review',
+  'olagoon-sup-tour-12-review',
+  'olagoon-airdeck-360-review',
+  'olagoon-airdeck-270-review',
+  'olagoon-rib-330-review',
+  'olagoon-rib-450-patrol-review',
+  'olagoon-life-vest-classic-review',
+  'olagoon-life-vest-pro-review',
+  'olagoon-oars-pump-set-review',
+  'olagoon-zb-mt350-review',
   'sup-vs-surfboard',
   'kayak-vs-sup',
   'sup-fitness-workout',
@@ -39,7 +39,7 @@ const SLUGS = [
   'sup-accessories-guide',
 ];
 const FALLBACK_LANG = 'pt'; // pt has no overlay -> EN fallback
-const FALLBACK = 'afarer-surfboard-pro';
+const FALLBACK = 'olagoon-surfboard-pro';
 
 const titles = {};
 for (const loc of ['es', 'it']) {
@@ -66,7 +66,7 @@ const fetch = (url, out) =>
 for (const loc of ['es', 'it']) {
   // index page
   const idxOut = path.join(TMP, 'liveb4_' + loc + '_index.html');
-  const code = fetch('https://afarer.com/' + loc + '/v2/', idxOut);
+  const code = fetch('https://olagoon.com/' + loc + '/v2/', idxOut);
   const idxBody = fs.readFileSync(idxOut, 'utf8');
   if (code === '200' && idxBody.includes('<html')) pass('/' + loc + '/v2/ index 200');
   else fail('/' + loc + '/v2/ index code=' + code);
@@ -78,7 +78,7 @@ for (const loc of ['es', 'it']) {
 
   for (const slug of SLUGS) {
     const out = path.join(TMP, 'liveb4_' + loc + '_' + slug + '.html');
-    const c = fetch('https://afarer.com/' + loc + '/v2/' + slug, out);
+    const c = fetch('https://olagoon.com/' + loc + '/v2/' + slug, out);
     const body = fs.readFileSync(out, 'utf8');
     const ok = c === '200' && body.includes(esc(String(titles[loc].get(slug))));
     if (ok) {
@@ -94,7 +94,7 @@ for (const loc of ['es', 'it']) {
 // pt fallback page (no overlay -> EN)
 {
   const fbOut = path.join(TMP, 'liveb4_pt_fb.html');
-  const fc = fetch('https://afarer.com/' + FALLBACK_LANG + '/v2/' + FALLBACK, fbOut);
+  const fc = fetch('https://olagoon.com/' + FALLBACK_LANG + '/v2/' + FALLBACK, fbOut);
   const fb = fs.readFileSync(fbOut, 'utf8');
   if (fc === '200' && fb.includes(esc(enFallbackTitle))) pass('/' + FALLBACK_LANG + '/v2/' + FALLBACK + ' EN fallback');
   else

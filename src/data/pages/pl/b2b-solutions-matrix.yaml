@@ -1,16 +1,16 @@
 meta:
   title: Macierz Rozwiązań dla Klientów B2B | {SITE}
-  description: Kompletny matrix rozwiązań dla klientów B2B Afarer obejmujący 24 typy klientów — od start-upów outdoorowych po instytucje zajmujące się ochroną mórz.
+  description: Kompletny matrix rozwiązań dla klientów B2B OLagoon obejmujący 24 typy klientów — od start-upów outdoorowych po instytucje zajmujące się ochroną mórz.
 hero:
   tagline: Rozwiązania dla klientów B2B
   title: 24 Rozwiązania B2B<br />Dopasowane do Twojego Biznesu
-  subtitle: Od założycieli startupów po globalnych dystrybutorów — znajdź dokładne rozwiązanie Afarer zaprojektowane dla Twojego modelu biznesowego, branży i celów.
+  subtitle: Od założycieli startupów po globalnych dystrybutorów — znajdź dokładne rozwiązanie OLagoon zaprojektowane dla Twojego modelu biznesowego, branży i celów.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Fabryka i zakład produkcyjny Afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: Fabryka i zakład produkcyjny OLagoon
 solutions:
   title: Macierz Rozwiązań Klienta
-  subtitle: Każdy typ klienta, ich podstawowa potrzeba oraz strona rozwiązania Afarer zaprojektowana dla nich.
+  subtitle: Każdy typ klienta, ich podstawowa potrzeba oraz strona rozwiązania OLagoon zaprojektowana dla nich.
   items:
     - clientType: Założyciel startupu outdoorowego
       need: Tworzenie marki

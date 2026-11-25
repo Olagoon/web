@@ -1,6 +1,6 @@
 meta:
   title: 'Luottamus — laatu, standardit ja maine | {SITE}'
-  description: 'Miksi afareriin voi luottaa: CE- ja ISO-sertifioinnit, integroitu tehdas, globaalit referenssit ja takuu. Ammattimainen täytettävien SUP-lautojen valmistaja.'
+  description: 'Miksi olagooniin voi luottaa: CE- ja ISO-sertifioinnit, integroitu tehdas, globaalit referenssit ja takuu. Ammattimainen täytettävien SUP-lautojen valmistaja.'
   keywords:
     - 'luotettava SUP-valmistaja'
     - 'sertifioitu paddle board -tehdas'
@@ -8,15 +8,15 @@ meta:
     - 'sertifioitu SUP-tehdas'
 hero:
   tagline: Rakennettu standardeihin, joilla on merkitystä
-  title: Luota afareriin
+  title: Luota olagooniin
   subtitle: |
     Jokainen rakentamamme tuote on CE-sertifioitu — testattu turvallisuuden,<br />
     kestävyyden ja suorituskyvyn suhteen. Ei oikoteitä. Ei poikkeuksia.
   taglineSection: Sertifioitu. Testattu. Todistettu.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: afarer-tuote läpikäymässä laadun testausta
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: olagoon-tuote läpikäymässä laadun testausta
 stats:
-  title: afarer numeroina
+  title: olagoon numeroina
   stats:
     - title: CE-sertifioitu
       description: Kaikki vapaa-ajan tuotteet täyttävät EU:n turvallisuusstandardit
@@ -25,7 +25,7 @@ stats:
     - title: BSCI & REACH
       description: Eettinen valmistus ja materiaalien vaatimustenmukaisuus
     - title: 3 vuoden takuu
-      description: Jokaiselle afarer-tuotteelle — ilman kysymyksiä
+      description: Jokaiselle olagoon-tuotteelle — ilman kysymyksiä
 features3_certifications:
   title: Sertifioinnit ja vaatimustenmukaisuus
   subtitle: Jokainen tuote on itsenäisesti testattu ja sertifioitu kansainvälisten standardien mukaan.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: CE-sertifiointi
-      description: Kaikki afarer SUP-laudat täyttävät Euroopan CE-turvallisuusstandardin vapaa-ajan vesikulkuneuvoille. Jokainen tuote käy läpi paine-, kelluvuus- ja kuormitustestauksen ennen tehtaalta lähtöä.
+      description: Kaikki olagoon SUP-laudat täyttävät Euroopan CE-turvallisuusstandardin vapaa-ajan vesikulkuneuvoille. Jokainen tuote käy läpi paine-, kelluvuus- ja kuormitustestauksen ennen tehtaalta lähtöä.
       icon: tabler:certificate
     - title: ISO 9001
       description: 12 000 m² Qingdaon laitoksemme toimii ISO 9001 -laadunhallintajärjestelmän alla. Jokainen tuotantoerä on jäljitettävissä, dokumentoitu ja tarkastettu.
@@ -48,20 +48,20 @@ features3_certifications:
       description: Sisäinen materiaalilaboratorio testaa vetolujuuden, UV-kestävyyden, saumojen eheyden ja kulutuskestävyyden jokaiselle kangaserälle ennen tuotantoa.
       icon: tabler:microscope
     - title: 3 vuoden takuu
-      description: Jokainen afarer-tuote toimitetaan kolmen vuoden takuulla valmistusvirheitä vastaan. Seisomme rakentamiemme tuotteiden takana.
+      description: Jokainen olagoon-tuote toimitetaan kolmen vuoden takuulla valmistusvirheitä vastaan. Seisomme rakentamiemme tuotteiden takana.
       icon: tabler:shield-check
 testimonials:
   tagline: Asiakkaiden luottamus
   title: Mitä asiakkaamme sanovat
-  subtitle: Ensikertalaisista melojista ammattimaisiin laivasto-operaattoreihin — katso miksi he luottavat afareriin.
+  subtitle: Ensikertalaisista melojista ammattimaisiin laivasto-operaattoreihin — katso miksi he luottavat olagooniin.
   items:
-    - content: Varustimme koko vuokrauslaivastomme afarer SUP-lautoilla. Kaksi kautta takana, nolla vikaa. CE-sertifiointi teki vakuutushyväksynnästä saumatonta.
+    - content: Varustimme koko vuokrauslaivastomme olagoon SUP-lautoilla. Kaksi kautta takana, nolla vikaa. CE-sertifiointi teki vakuutushyväksynnästä saumatonta.
       name: Marco V.
       title: Matkanjärjestäjä, Kroatia
     - content: Ensikertalaisena ostajana olin hermostunut laadusta. ISO-dokumentaatio ja testiraportit, jotka he jakoivat, antoivat minulle täyden luottamuksen.
       name: James T.
       title: SUP Explorer 11 -omistaja, Kanada
-    - content: Teemme yhteistyötä afarerin kanssa rannikkopartioyksiköidemme osalta. Heidän QC-prosessinsa on johdonmukainen jokaisessa erässä — tällä luotettavuudella on merkitystä kriittisissä operaatioissa.
+    - content: Teemme yhteistyötä olagoonin kanssa rannikkopartioyksiköidemme osalta. Heidän QC-prosessinsa on johdonmukainen jokaisessa erässä — tällä luotettavuudella on merkitystä kriittisissä operaatioissa.
       name: Lt. Cmdr. Andres
       title: Laivaston hankinta, Filippiinit
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Seisomme jokaisen tuotteen takana selkein takuuehdoin, nopealla reklamaatioiden käsittelyllä ja aidoilla varaosilla.
   items:
     - title: 3 vuoden tuotetakuu
-      desc: Kaikkiin afarer-tuotteisiin sisältyy 3 vuoden takuu valmistusvirheitä vastaan — saumapettäminen, venttiilivirheet ja materiaalin delaminaatio normaalikäytössä.
+      desc: Kaikkiin olagoon-tuotteisiin sisältyy 3 vuoden takuu valmistusvirheitä vastaan — saumapettäminen, venttiilivirheet ja materiaalin delaminaatio normaalikäytössä.
     - title: Elinkaari varaosatuki
       desc: Alkuperäiset vaihdeosat — venttiilit, korjauspakkaus, kilvet, D-ringit — saatavilla kaikille malleille. Ylläpidämme muotteja ja työkaluja vähintään 5 vuotta tuotannon päätyttyä.
     - title: 48 tunnin reklamaatiovastaus
@@ -149,25 +149,25 @@ faqs_sup:
     - title: Tarjoatteko täydellisiä SUP-paketteja?
       description: Kyllä. Jokainen SUP-lauta toimitetaan täydellisenä pakettina, mukaan lukien 3-osainen alumiinimela, korkeapaineinen käsipumppu, kierrehihna, matkareppu ja korjaussarja. Jotkut mallit sisältävät myös irrotettavan eväsarjan.
     - title: Mikä on SUP-lautojen takuu?
-      description: Kaikilla afarer SUP-laudoilla on kolmen vuoden takuu valmistusvirheitä vastaan, mukaan lukien saumojen pettäminen, venttiiliviat ja materiaalin delaminaatio normaalikäytössä.
+      description: Kaikilla olagoon SUP-laudoilla on kolmen vuoden takuu valmistusvirheitä vastaan, mukaan lukien saumojen pettäminen, venttiiliviat ja materiaalin delaminaatio normaalikäytössä.
     - title: Kuinka kauan SUP-laudan täyttäminen kestää?
-      description: Mukana tulevalla käsipumpulla täysi täyttö 15 PSI:hen kestää noin 8–12 minuuttia. Nopeampaa täyttöä varten suosittelemme afarer 12V sähköpumppuamme, joka täyttää laudan alle 4 minuutissa.
+      description: Mukana tulevalla käsipumpulla täysi täyttö 15 PSI:hen kestää noin 8–12 minuuttia. Nopeampaa täyttöä varten suosittelemme olagoon 12V sähköpumppuamme, joka täyttää laudan alle 4 minuutissa.
 faqs_materials:
   title: 'SUP-materiaalit ja -huolto: UKK'
   subtitle: Usein kysytyt kysymykset täytettävien SUP-lautojen materiaaleista, hoidosta ja säilytyksestä.
   columns: 2
   items:
-    - title: Mitä materiaaleja afarerin täytettävissä SUP-laudoissa käytetään?
+    - title: Mitä materiaaleja olagoonin täytettävissä SUP-laudoissa käytetään?
       description: Käytämme sotilasluokan PVC:tä (1100 denieriä) UV-stabiloidulla, hankauskestävällä rakenteella, EU:n REACH- ja RoHS-määrästen mukaisena.
     - title: Kauanko tiedostamatonta SUP-lautaa kestää?
       description: Oikealla hoidolla laadukas PVC-kumilastu SUP kestää 5–10 vuotta. Säännöllinen puhdistus, UV-suojus ja oikea varastointi pidentävät huomattavasti käyttöikää.
     - title: Mitä huoltoa laukeavalle SUP:lle tarvitaan?
       description: Perushuolto sisältää huuhtomisen puhtaalla vedellä jokaisen käytön jälkeen (erityisesti suolaisessa vedessä), kuivattamisen ennen säilytystä, venttiilien tiivisteiden vuositarkistuksen ja auringon altistuksen välttämisen kun laitetta ei käytetä.
     - title: Voiko täytettäviä SUP-lautoja käyttää suolaisessa vedessä?
-      description: Kyllä. Kaikki afarerin ilmatäytettävät SUP-laudat on suunniteltu sekä makeaan että suolaiseen veteen. Suosittelemme huuhtomista makealla vedellä ja kuivaamista perusteellisesti suolaisen veden jälkeen.
+      description: Kyllä. Kaikki olagoonin ilmatäytettävät SUP-laudat on suunniteltu sekä makeaan että suolaiseen veteen. Suosittelemme huuhtomista makealla vedellä ja kuivaamista perusteellisesti suolaisen veden jälkeen.
     - title: Kuinka säilytän puhallettavan SUP-laudan?
       description: Tyhjennä, puhdista ja kuivaa lauta kokonaan ennen varastointia. Rullaa löyhästi (vältä tiukkoja taitoksia), säilytä viileässä ja kuivassa paikassa suojassa suoralta auringonvalolta ja pidä erossa betonilattiasta kosteuden imeytymisen estämiseksi.
-    - title: Mikä on afarerin puhallettavien SUP-lautojen kantavuus?
+    - title: Mikä on olagoonin puhallettavien SUP-lautojen kantavuus?
       description: Kantavuudet vaihtelevat 100 kg:sta pienimmillä malleilla yli 200 kg:aan suuremmilla laudoilla. Jokainen tuotesivu ilmoittaa mallisi maksimikuorman.
 cta:
   title: Haluatko nähdä sertifioinnit itse?

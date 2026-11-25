@@ -1,6 +1,6 @@
 meta:
   title: 'Certificeringen — CE, ISO 9001 & Conformiteit | {SITE}'
-  description: 'Kwaliteitscertificeringen van afarer: CE (Richtlijn 2013/53/EU), ISO 9001:2015, BSCI. Conformiteit en veiligheid voor een fabrikant van opblaasbare SUPs.'
+  description: 'Kwaliteitscertificeringen van olagoon: CE (Richtlijn 2013/53/EU), ISO 9001:2015, BSCI. Conformiteit en veiligheid voor een fabrikant van opblaasbare SUPs.'
   keywords:
     - 'CE-certificering paddle board'
     - 'ISO 9001 paddle board'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Certificeringen & Normen
   title: Kwaliteitscertificeringen<br />& Nalevingsnormen
-  subtitle: afarer-producten worden vervaardigd in overeenstemming met internationale maritieme veiligheidsnormen, kwaliteitsmanagementsystemen en milieuvoorschriften.
+  subtitle: olagoon-producten worden vervaardigd in overeenstemming met internationale maritieme veiligheidsnormen, kwaliteitsmanagementsystemen en milieuvoorschriften.
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: afarer kwaliteitscertificeringen en nalevingsdocumentatie
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: olagoon kwaliteitscertificeringen en nalevingsdocumentatie
 content_certifications:
   tagline: Onze certificeringen
   title: Gecertificeerde Kwaliteit,<br />Wereldwijd Erkend
-  subtitle: Elk afarer-product wordt ondersteund door certificeringen die onze toewijding aan kwaliteit, veiligheid en milieuverantwoordelijkheid aantonen.
+  subtitle: Elk olagoon-product wordt ondersteund door certificeringen die onze toewijding aan kwaliteit, veiligheid en milieuverantwoordelijkheid aantonen.
   items:
     - title: CE-gecertificeerd
-      description: Alle afarer-producten voldoen aan de Europese CE-markeringseisen voor recreatievaartuigen, waardoor aan veiligheids-, gezondheids- en milieubeschermingsnormen wordt voldaan.
+      description: Alle olagoon-producten voldoen aan de Europese CE-markeringseisen voor recreatievaartuigen, waardoor aan veiligheids-, gezondheids- en milieubeschermingsnormen wordt voldaan.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Ons kwaliteitsmanagementsysteem is ISO 9001:2015 gecertificeerd en dekt ontwerp, productie en distributie van opblaasbare vaartuigen en maritieme uitrusting.
@@ -28,10 +28,10 @@ content_certifications:
       description: Producten die op de Britse markt worden verkocht, dragen de UKCA-markering, wat naleving van Britse regelgeving voor maritieme uitrusting en persoonlijke vaartuigen bevestigt.
       icon: tabler:shield
     - title: BSCI-conform
-      description: afarer is BSCI (Business Social Compliance Initiative) geaudit, wat ethische productiepraktijken, eerlijke arbeidsomstandigheden en verantwoordelijkheid in de toeleveringsketen aantoont.
+      description: olagoon is BSCI (Business Social Compliance Initiative) geaudit, wat ethische productiepraktijken, eerlijke arbeidsomstandigheden en verantwoordelijkheid in de toeleveringsketen aantoont.
       icon: tabler:heart-handshake
     - title: REACH-conform
-      description: Alle materialen gebruikt in afarer-producten voldoen aan EU REACH-voorschriften voor chemische veiligheid, waardoor er geen beperkte stoffen in ons PVC, EVA of componenten zitten.
+      description: Alle materialen gebruikt in olagoon-producten voldoen aan EU REACH-voorschriften voor chemische veiligheid, waardoor er geen beperkte stoffen in ons PVC, EVA of componenten zitten.
       icon: tabler:flask
     - title: Materiaaltesten
       description: Stoffen worden getest op treksterkte, scheurbestendigheid, UV-afbraak en koudscheurgedrag. Elke productiebatch wordt bemonsterd en geverifieerd.
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Maritieme veiligheidsnormen
   title: Veiligheid Voorop<br />— Ontworpen voor Betrouwbare Werking
-  subtitle: afarer-producten zijn ontworpen en getest om te voldoen aan internationale maritieme veiligheidsnormen voor commercieel en recreatief gebruik.
+  subtitle: olagoon-producten zijn ontworpen en getest om te voldoen aan internationale maritieme veiligheidsnormen voor commercieel en recreatief gebruik.
   items:
     - title: EN ISO 25649
       description: Opblaasbare SUP's voldoen aan de EN ISO 25649-normen voor constructie, stabiliteit, drijfvermogen en draagvermogen.

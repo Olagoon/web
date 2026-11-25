@@ -1,6 +1,6 @@
 meta:
   title: 'Proses Manufaktur — Dari Bahan Baku hingga SUP | {SITE}'
-  description: 'Dari bahan baku hingga SUP siap laut: setiap langkah proses manufaktur afarer berada di bawah kendali kami, dari pemotongan dan pengelasan hingga pengujian.'
+  description: 'Dari bahan baku hingga SUP siap laut: setiap langkah proses manufaktur olagoon berada di bawah kendali kami, dari pemotongan dan pengelasan hingga pengujian.'
   keywords:
     - 'proses manufaktur sup'
     - 'pabrik sup tiup'
@@ -13,7 +13,7 @@ hero:
   back_label: 'Kembali ke Pabrik'
   back_link: /factory/
 
-intro: 'Berbeda dengan merek yang mengalihdayakan produksi ke pabrik pihak ketiga, afarer memiliki dan mengoperasikan seluruh rantai manufakturnya sendiri. Integrasi vertikal ini memungkinkan kami mempertahankan kendali kualitas yang ketat di setiap tahap, merespons dengan cepat terhadap persyaratan kustom, dan menghadirkan kualitas produk yang konsisten batch demi batch. Berikut adalah bagaimana sebuah papan dibangun di fasilitas kami.'
+intro: 'Berbeda dengan merek yang mengalihdayakan produksi ke pabrik pihak ketiga, olagoon memiliki dan mengoperasikan seluruh rantai manufakturnya sendiri. Integrasi vertikal ini memungkinkan kami mempertahankan kendali kualitas yang ketat di setiap tahap, merespons dengan cepat terhadap persyaratan kustom, dan menghadirkan kualitas produk yang konsisten batch demi batch. Berikut adalah bagaimana sebuah papan dibangun di fasilitas kami.'
 
 steps:
   - step: '01'
@@ -47,6 +47,6 @@ steps:
 
 cta:
   title: 'Lihat peralatan dan mesin kami'
-  desc: 'Jelajahi peralatan kelas industri di balik setiap papan afarer.'
+  desc: 'Jelajahi peralatan kelas industri di balik setiap papan olagoon.'
   label: 'Lihat peralatan →'
   link: /factory/equipment/

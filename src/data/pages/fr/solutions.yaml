@@ -1,6 +1,6 @@
 meta:
   title: 'Solutions SUP — Pour Toute Entreprise | {SITE}'
-  description: "Solutions nautiques afarer : flottes pour resorts, clubs, location, distribution et marques privées. Fournisseur professionnel d'équipement nautique B2B."
+  description: "Solutions nautiques olagoon : flottes pour resorts, clubs, location, distribution et marques privées. Fournisseur professionnel d'équipement nautique B2B."
   keywords:
     - 'solutions SUP B2B'
     - 'fournisseur paddle gonflable'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Solutions Commerciales
   title: Solutions SUP<br />Pour Toute Entreprise
-  subtitle: Des complexes aux magasins, des opérateurs de location aux distributeurs mondiaux — afarer fournit des solutions SUP complètes adaptées à votre modèle d'entreprise.
+  subtitle: Des complexes aux magasins, des opérateurs de location aux distributeurs mondiaux — olagoon fournit des solutions SUP complètes adaptées à votre modèle d'entreprise.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Planches SUP Afarer pour applications professionnelles et commerciales
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Planches SUP OLagoon pour applications professionnelles et commerciales
 stats:
-  title: afarer en Bref
+  title: olagoon en Bref
   stats:
     - title: Années d'expérience
       amount: Depuis 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Construisez Votre Propre Marque
-      description: Fabrication SUP OEM/ODM complète — conception, prototypage, production de masse et logistique. Lancez votre marque avec afarer.
+      description: Fabrication SUP OEM/ODM complète — conception, prototypage, production de masse et logistique. Lancez votre marque avec olagoon.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

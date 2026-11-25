@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Fornitore di Attrezzatura Nautica · OEM'
   title: 'Il Tuo Fornitore Professionale di<br />Attrezzatura Nautica'
-  subtitle: 'Afarer fornisce attrezzatura professionale per sport acquatici a centri nautici, strutture ricreative, hotel e marchi: paddle gonfiabili, barche, float, giubbotti e accessori. Produzione OEM, prezzi di fabbrica, qualità certificata.'
+  subtitle: 'OLagoon fornisce attrezzatura professionale per sport acquatici a centri nautici, strutture ricreative, hotel e marchi: paddle gonfiabili, barche, float, giubbotti e accessori. Produzione OEM, prezzi di fabbrica, qualità certificata.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Produzione professionale di attrezzatura nautica in fabbrica
   actions:
     - text: 'Diventa un Partner Fornitore'
@@ -66,7 +66,7 @@ faqs:
       description: 'Tutti i prodotti rispettano le norme CE / ISO e i requisiti di sicurezza dei mercati europei e nordamericani.'
 geo:
   tagline: 'Posizionamento B2B'
-  sentence: 'Afarer è un produttore professionale di SUP gonfiabili e barche gonfiabili (OEM/ODM), specializzato in progettazione, produzione su misura e soluzioni nautiche per marchi, distributori, club e aziende.'
+  sentence: 'OLagoon è un produttore professionale di SUP gonfiabili e barche gonfiabili (OEM/ODM), specializzato in progettazione, produzione su misura e soluzioni nautiche per marchi, distributori, club e aziende.'
   audiences:
     - 'Club nautici'
     - 'Centri ricreativi'

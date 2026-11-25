@@ -1,13 +1,13 @@
 meta:
   title: 'Dodávateľ požičovného vybavenia SUP a riešenia flotíl | {SITE}'
-  description: 'Dodávateľ požičovného vybavenia SUP pre prevádzkovateľov požičovní. Komerčné dosky SUP na vysokú rotáciu navrhnuté pre denné použitie — UV-odolné PVC, zosilnené švy, rýchloschnúce materiály. Škálujte svoju požičovňu s Afarer.'
+  description: 'Dodávateľ požičovného vybavenia SUP pre prevádzkovateľov požičovní. Komerčné dosky SUP na vysokú rotáciu navrhnuté pre denné použitie — UV-odolné PVC, zosilnené švy, rýchloschnúce materiály. Škálujte svoju požičovňu s OLagoon.'
 
 hero:
   tagline: 'Prevádzkovatelia požičovní'
   title: 'Škálujte svoju požičovňu<br />so sebadôverou'
   subtitle: 'Dodávateľ požičovného vybavenia SUP pre prevádzkovateľov požičovní. Dosky SUP na vysokú rotáciu navrhnuté pre denné požičanie, 365 dní v roku. Vaše príjmy si nikdy neberú voľno.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Rušný požičovný kiosk s doskami SUP pripravenými pre hostí'
 
 features:

@@ -128,7 +128,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'O companie tech din Fortune 500 dorea să lanseze un program de wellness pe apă pentru angajați pe 4 campusuri globale lângă lacuri: 60 de SUP-uri cu branding corporativ, soluții de depozitare și instruire.',
     solution:
-      'Am furnizat o flotilă de SUP-uri all-around stabile cu grafică de punte cu logo corporativ. Am proiectat standuri de depozitare rezistente la intemperii pe loc. Am certificat 12 instructori interni prin programul de formare afarer.',
+      'Am furnizat o flotilă de SUP-uri all-around stabile cu grafică de punte cu logo corporativ. Am proiectat standuri de depozitare rezistente la intemperii pe loc. Am certificat 12 instructori interni prin programul de formare olagoon.',
     result:
       'Program lansat în 4 campusuri. 2,400+ participări ale angajaților în primul an. Rating de satisfacție a angajaților de 94%. Prezentat în raportul de sustenabilitate al companiei.',
     outcomeMetrics: [
@@ -380,7 +380,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Gamă completă de produse — SUP, bărci, accesorii',
     industry: 'Distribuție / Maritim',
     challenge:
-      'Un distribuitor din GCC dorea drepturi exclusive pentru întreaga gamă Afarer în 6 țări din Golf, cu ambalaj în arabă, specificații de materiale rezistente la căldură și condiții de garanție conforme sharia.',
+      'Un distribuitor din GCC dorea drepturi exclusive pentru întreaga gamă OLagoon în 6 țări din Golf, cu ambalaj în arabă, specificații de materiale rezistente la căldură și condiții de garanție conforme sharia.',
     solution:
       'Am stabilit un acord de distribuție exclusivă. Am dezvoltat ambalaje și materiale de marketing în arabă. Am validat specificațiile materialelor la temperatură ambiantă de 50°C. Am adaptat termenii garanției pentru conformitate regională.',
     result:

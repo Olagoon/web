@@ -1,6 +1,6 @@
 meta:
   title: 'Cunoștințe — ghiduri SUP | {SITE}'
-  description: 'Baza de cunoștințe afarer: ghiduri despre plăci de SUP gonflabile, materiale pentru paddle board, alegerea plăcilor și informații din industrie pentru mărci și profesioniști.'
+  description: 'Baza de cunoștințe olagoon: ghiduri despre plăci de SUP gonflabile, materiale pentru paddle board, alegerea plăcilor și informații din industrie pentru mărci și profesioniști.'
   keywords:
     - 'cunoștințe SUP'
     - 'ghid SUP gonflabil'
@@ -16,7 +16,7 @@ hero:
 clusters:
   tagline: Grupuri de Cunoaștere
   title: Explorează pe subiect
-  subtitle: Scufundări profunde în tehnologia, siguranța și abilitățile din spatele fiecărui produs afarer.
+  subtitle: Scufundări profunde în tehnologia, siguranța și abilitățile din spatele fiecărui produs olagoon.
   items:
     - title: Cunoaștere SUP
       description: De la alegerea primei plăci la tehnici avansate de turism — totul despre paddleboarding.
@@ -47,7 +47,7 @@ clusters:
         - Tehnici de reparare pentru produse gonflabile
         - Conștientizarea vremii și condițiilor apei
     - title: Tehnologie
-      description: Ingineria din spatele produselor afarer — materiale, metode de construcție și testare a calității.
+      description: Ingineria din spatele produselor olagoon — materiale, metode de construcție și testare a calității.
       icon: tabler:microscope
       topics:
         - Tehnologie PVC de calitate marină

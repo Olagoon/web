@@ -190,7 +190,7 @@ const map = {
 export default config({
   storage: {
     kind: 'github',
-    repo: 'afarer/official',
+    repo: 'olagoon/official',
   },
   singletons: {
     about: singleton({

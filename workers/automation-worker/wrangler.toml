@@ -1,10 +1,10 @@
-name = "afarer-automation"
+name = "olagoon-automation"
 main = "src/index.ts"
 compatibility_date = "2026-07-08"
 compatibility_flags = ["nodejs_compat"]
 
 routes = [
-  { pattern = "afarer.com/api/automation/*", zone_name = "afarer.com" },
+  { pattern = "olagoon.com/api/automation/*", zone_name = "olagoon.com" },
 ]
 
 [triggers]
@@ -12,4 +12,4 @@ crons = ["0 2 * * *"]
 
 [[r2_buckets]]
 binding = "DATA_BUCKET"
-bucket_name = "afarer-data"
+bucket_name = "olagoon-data"

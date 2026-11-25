@@ -1,6 +1,6 @@
 meta:
   title: 'Zaupanje — kakovost, standardi in ugled | {SITE}'
-  description: 'Zakaj zaupati afarer: certifikati CE in ISO, integrirana tovarna, globalne reference in garancija. Profesionalni proizvajalec napihljivih desk SUP.'
+  description: 'Zakaj zaupati olagoon: certifikati CE in ISO, integrirana tovarna, globalne reference in garancija. Profesionalni proizvajalec napihljivih desk SUP.'
   keywords:
     - 'zanesljiv proizvajalec sup'
     - 'certificirana tovarna desk za veslanje'
@@ -8,16 +8,16 @@ meta:
     - 'certificirana tovarna sup'
 hero:
   tagline: 'Zgrajeno po standardih, ki so pomembni'
-  title: 'Zaupajte afarer'
+  title: 'Zaupajte olagoon'
   subtitle: |
     Vsak izdelek, ki ga izdelamo, je certifikiran po CE — preizkušen na varnost,<br />
     trajnost in zmogljivost. Brez bližnjic. Brez izjem.
   taglineSection: 'Certificirano. Preizkušeno. Dokazano.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'izdelek afarer med preizkusom kakovosti'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'izdelek olagoon med preizkusom kakovosti'
 
 stats:
-  title: 'afarer v številkah'
+  title: 'olagoon v številkah'
   stats:
     - title: 'Certifikat CE'
       description: 'Vsi rekreacijski izdelki izpolnjujejo standarde varnosti EU'
@@ -26,7 +26,7 @@ stats:
     - title: 'BSCI in REACH'
       description: 'Etična proizvodnja in skladnost materialov'
     - title: '3-letna garancija'
-      description: 'Za vsak izdelek afarer — brez dodatnih vprašanj'
+      description: 'Za vsak izdelek olagoon — brez dodatnih vprašanj'
 
 features3_certifications:
   title: 'Certifikati in skladnost'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'Certifikacija CE'
-      description: 'Vse deske SUP afarer izpolnjujejo evropski varnostni standard CE za rekreacijsko uporabo. Vsak izdelek pred odhodom iz tovarne prestane preizkuse tlaka, plovnosti in obremenitve.'
+      description: 'Vse deske SUP olagoon izpolnjujejo evropski varnostni standard CE za rekreacijsko uporabo. Vsak izdelek pred odhodom iz tovarne prestane preizkuse tlaka, plovnosti in obremenitve.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Naš objekt v Qingdaou s površino 12.000 m² deluje po sistemu upravljanja kakovosti ISO 9001. Vsaka proizvodna serija je sledljiva, dokumentirana in pregledana.'
@@ -50,21 +50,21 @@ features3_certifications:
       description: 'Interni laboratorij za materiale preizkuša natezno trdnost, odpornost na UV, celovitost šivov in odpornost proti obrabi za vsak los tkanine pred proizvodnjo.'
       icon: 'tabler:microscope'
     - title: '3-letna garancija'
-      description: 'Vsak izdelek afarer ima dvoletno garancijo proti proizvodnim napakam. Za svoje izdelke jamčimo.'
+      description: 'Vsak izdelek olagoon ima dvoletno garancijo proti proizvodnim napakam. Za svoje izdelke jamčimo.'
       icon: 'tabler:shield-check'
 
 testimonials:
   tagline: 'Zaupanje strank'
   title: 'Kaj pravijo naše stranke'
-  subtitle: 'Od veslačev začetnikov do profesionalnih upravljavcev flot — poglejte, zakaj zaupajo afarer.'
+  subtitle: 'Od veslačev začetnikov do profesionalnih upravljavcev flot — poglejte, zakaj zaupajo olagoon.'
   items:
-    - content: 'Svojo celotno najemno floto smo opremili z deskami SUP afarer. Po dveh sezonah nič odpovedi. Certifikacija CE je omogočila brezhibno odobritev zavarovanja.'
+    - content: 'Svojo celotno najemno floto smo opremili z deskami SUP olagoon. Po dveh sezonah nič odpovedi. Certifikacija CE je omogočila brezhibno odobritev zavarovanja.'
       name: 'Marco V.'
       title: 'Upravljavec turističnih izletov, Hrvaška'
     - content: 'Kot kupec prvič sem bil nervozen glede kakovosti. Dokumentacija ISO in poročila o preizkusih, ki so jih delili z mano, so mi dala popolno zaupanje.'
       name: 'James T.'
       title: 'Lastnik SUP Explorer 11, Kanada'
-    - content: 'Z afarerjem sodelujemo pri naših enotah za obalni nadzor. Njihov proces kontrole kakovosti je dosleden pri vsaki seriji — ta zanesljivost je ključna pri misijah z najvišjo stopnjo odgovornosti.'
+    - content: 'Z olagoonjem sodelujemo pri naših enotah za obalni nadzor. Njihov proces kontrole kakovosti je dosleden pri vsaki seriji — ta zanesljivost je ključna pri misijah z najvišjo stopnjo odgovornosti.'
       name: 'Lt. Cmdr. Andres'
       title: 'Vladna javna naročila, Filipini'
 
@@ -115,7 +115,7 @@ warranty_section:
   subtitle: 'Za vsak izdelek jamčimo z jasnimi garancijskimi pogoji, hitro obdelavo zahtevkov in originalnimi nadomestnimi deli.'
   items:
     - title: '3-letna garancija na izdelek'
-      desc: 'Vsi izdelki afarer imajo 3-letno garancijo proti proizvodnim napakam — odpoved šivov, napake ventilov in luščenje materiala pri normalni uporabi.'
+      desc: 'Vsi izdelki olagoon imajo 3-letno garancijo proti proizvodnim napakam — odpoved šivov, napake ventilov in luščenje materiala pri normalni uporabi.'
     - title: 'Podpora delov vse življenje'
       desc: 'Originalni nadomestni deli — ventili, kompleti za popravilo, plavutke, D-obroči — so na voljo za vse modele. Kalupe in orodja ohranjamo najmanj 5 let po koncu proizvodnje.'
     - title: 'Odgovor na zahtevek v 48 urah'
@@ -148,35 +148,35 @@ faqs_sup:
   subtitle: 'Pogosta vprašanja o naših deskah za stoječe veslanje.'
   columns: 2
   items:
-    - title: 'Katere velikosti desk SUP ponuja afarer?'
+    - title: 'Katere velikosti desk SUP ponuja olagoon?'
       description: 'Ponujamo deske SUP od 9 do 12 čevljev, ki pokrivajo vse od kompaktnih vsestranskih desk do turističnih in specialnih modelov. Vsak model je na voljo z več možnostmi konfiguracije.'
     - title: 'Kakšna je razlika med napihljivo desko SUP in trdo desko SUP?'
       description: 'Napihljiva deska SUP uporablja konstrukcijo drop-stitch s tisoči notranjih nitic, ki omogočajo visok zračni tlak, trda deska SUP pa epoksi ali steklena vlakna. Napihljive deske SUP ponujajo prenosljivost in priročno shranjevanje, ne da bi žrtvovale togost.'
     - title: 'Kolikšna je omejitev teže desk SUP?'
       description: 'Naše deske SUP nosijo do 150 kg, odvisno od modela in prostornine. Na strani vsakega izdelka je navedena največja dovoljena obremenitev za vaš model.'
-    - title: 'Ali so deske SUP afarer certificirane po CE?'
+    - title: 'Ali so deske SUP olagoon certificirane po CE?'
       description: 'Da. Vsi rekreacijski modeli SUP so certificirani po CE v skladu z veljavnimi evropskimi standardi za rekreacijsko uporabo.'
     - title: 'Kakšna je garancija na deske SUP?'
-      description: 'Vse deske SUP afarer imajo standardno triletno garancijo proti proizvodnim napakam, ki pokriva odpoved šivov, napake ventilov in luščenje materiala pri normalni uporabi.'
+      description: 'Vse deske SUP olagoon imajo standardno triletno garancijo proti proizvodnim napakam, ki pokriva odpoved šivov, napake ventilov in luščenje materiala pri normalni uporabi.'
     - title: 'Kako dolgo traja napihnitev deske SUP?'
-      description: 'Z vključeno ročno črpalko traja popolno napihovanje do 15 PSI približno 8–12 minut. Za hitrejše napihovanje priporočamo našo električno črpalko afarer 12V, ki napihne desko v manj kot 4 minutah.'
+      description: 'Z vključeno ročno črpalko traja popolno napihovanje do 15 PSI približno 8–12 minut. Za hitrejše napihovanje priporočamo našo električno črpalko olagoon 12V, ki napihne desko v manj kot 4 minutah.'
 
 faqs_materials:
   title: 'Pogosta vprašanja o materialih SUP'
   subtitle: 'Pogosta vprašanja o materialih, negi in shranjevanju naših napihljivih desk SUP.'
   columns: 2
   items:
-    - title: 'Kateri materiali se uporabljajo v napihljivih deskah SUP afarer?'
+    - title: 'Kateri materiali se uporabljajo v napihljivih deskah SUP olagoon?'
       description: 'Uporabljamo vojaški PVC (1100 denier) s konstrukcijo, stabilizirano proti UV in odporno proti obrabi, v skladu z uredbama EU REACH in RoHS.'
     - title: 'Kako dolgo trajajo napihljive deske SUP?'
       description: 'Z ustrezno nego kakovostna napihljiva deska SUP iz PVC traja 5–10 let. Redno čiščenje, zaščita pred UV in pravilno shranjevanje bistveno podaljšajo življenjsko dobo.'
     - title: 'Kakšno vzdrževanje zahteva napihljiva deska SUP?'
       description: 'Osnovno vzdrževanje vključuje izpiranje s sladko vodo po vsaki uporabi (zlasti v slani vodi), sušenje pred shranjevanjem, letno preverjanje tesnil ventilov in izogibanje dolgotrajni izpostavljenosti soncu, ko se deska ne uporablja.'
     - title: 'Ali je napihljive deske SUP mogoče uporabljati v slani vodi?'
-      description: 'Da. Vse napihljive deske SUP afarer so zasnovane za uporabo tako v sladki kot slani vodi. Po stiku s slano vodo priporočamo izpiranje s sladko vodo in temeljito sušenje.'
+      description: 'Da. Vse napihljive deske SUP olagoon so zasnovane za uporabo tako v sladki kot slani vodi. Po stiku s slano vodo priporočamo izpiranje s sladko vodo in temeljito sušenje.'
     - title: 'Kako shranim napihljivo desko SUP?'
       description: 'Desko pred shranjevanjem popolnoma izpustite, očistite in osušite. Rahljano zvijte (izogibajte se ostrim pregibom), shranite na hladnem in suhem mestu stran od neposredne sončne svetlobe in jo ne hranite na betonskih tleh, da preprečite vlečenje vlage.'
-    - title: 'Kolikšna je nosilnost napihljivih desk SUP afarer?'
+    - title: 'Kolikšna je nosilnost napihljivih desk SUP olagoon?'
       description: 'Nosilnost se giblje od 100 kg pri naših najmanjših modelih do več kot 200 kg pri večjih deskah. Na strani vsakega izdelka je navedena največja dovoljena obremenitev za vaš model.'
 
 cta:

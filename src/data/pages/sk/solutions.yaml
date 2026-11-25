@@ -1,6 +1,6 @@
 meta:
   title: 'Biznis riešenia — SUP pre každý podnik | {SITE}'
-  description: 'Biznis riešenia afarer: flotily SUP pre rezorty, kluby, požičovne, distribúciu a private labels. Profesionálny dodávateľ námorného vybavenia pre B2B.'
+  description: 'Biznis riešenia olagoon: flotily SUP pre rezorty, kluby, požičovne, distribúciu a private labels. Profesionálny dodávateľ námorného vybavenia pre B2B.'
   keywords:
     - 'biznis riešenia sup'
     - 'dodávateľ nafukovacích paddle boardov'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Biznis riešenia'
   title: 'Riešenia SUP<br />pre každý podnik'
-  subtitle: 'Od rezortov po maloobchod, od požičovní po globálnych distribútorov — Afarer poskytuje kompletné riešenia SUP prispôsobené vášmu obchodnému modelu.'
+  subtitle: 'Od rezortov po maloobchod, od požičovní po globálnych distribútorov — OLagoon poskytuje kompletné riešenia SUP prispôsobené vášmu obchodnému modelu.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Dosky SUP Afarer pre biznis a profesionálne aplikácie'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Dosky SUP OLagoon pre biznis a profesionálne aplikácie'
 stats:
-  title: 'Afarer na prvý pohľad'
+  title: 'OLagoon na prvý pohľad'
   stats:
     - title: 'Rokov skúseností'
       amount: 'Od roku 2012'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Vybudujte si vlastnú značku'
-      description: 'Komplexná výroba SUP OEM/ODM — dizajn, prototypovanie, hromadná výroba a logistika. Spustite svoju značku so spoločnosťou Afarer.'
+      description: 'Komplexná výroba SUP OEM/ODM — dizajn, prototypovanie, hromadná výroba a logistika. Spustite svoju značku so spoločnosťou OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

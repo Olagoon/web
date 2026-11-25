@@ -25,9 +25,9 @@ jobs:
           echo $! > tail.pid
           sleep 20
           echo '--- probe request:'
-          curl -sS -X POST https://afarer.com/api/contact \
+          curl -sS -X POST https://olagoon.com/api/contact \
             -H 'Content-Type: application/json' \
-            -d '{"firstName":"Debug","lastName":"Tail","email":"debug-tail@afarer.com","subject":"debug tail probe","message":"probe message to capture worker logs in debug workflow"}' || true
+            -d '{"firstName":"Debug","lastName":"Tail","email":"debug-tail@olagoon.com","subject":"debug tail probe","message":"probe message to capture worker logs in debug workflow"}' || true
           echo ''
           sleep 12
           kill "$(cat tail.pid)" 2>/dev/null || true

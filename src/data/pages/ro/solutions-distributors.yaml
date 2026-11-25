@@ -1,13 +1,13 @@
 meta:
   title: Program de parteneri de distribuție SUP | {SITE}
-  description: Alăturați-vă rețelei globale de distribuție Afarer. Teritorii exclusive, portofoliu complet de produse, prețuri angro competitive și management de cont dedicat.
+  description: Alăturați-vă rețelei globale de distribuție OLagoon. Teritorii exclusive, portofoliu complet de produse, prețuri angro competitive și management de cont dedicat.
 hero:
   tagline: Distribuitori
   title: Alăturați-vă rețelei noastre globale<br />de distribuție
-  subtitle: Teritorii exclusive. Portofoliu complet de produse. Asistență de clasă mondială. Afarer livrează în peste 50 de țări și căutăm distribuitori consacrați din domeniul nautic și al sporturilor de apă.
+  subtitle: Teritorii exclusive. Portofoliu complet de produse. Asistență de clasă mondială. OLagoon livrează în peste 50 de țări și căutăm distribuitori consacrați din domeniul nautic și al sporturilor de apă.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Operațiunile globale de distribuție și transport Afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: Operațiunile globale de distribuție și transport OLagoon
 benefits:
   title: Ce primesc distribuitorii
   subtitle: Tot ce aveți nevoie pentru a reuși pe piața dumneavoastră.
@@ -24,7 +24,7 @@ benefits:
     - Condiții de plată la 45-60 de zile
 coverage:
   title: Distribuția actuală
-  subtitle: Afarer deservește în prezent aceste piețe în mod direct.
+  subtitle: OLagoon deservește în prezent aceste piețe în mod direct.
   regions:
     - name: Europa
       countries: Franța, Germania, Regatul Unit, Spania, Italia, Țările de Jos, Suedia, Norvegia, Polonia, Grecia

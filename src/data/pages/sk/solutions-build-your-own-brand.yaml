@@ -1,13 +1,13 @@
 meta:
   title: 'Výroba private label SUP a spustenie vlastnej značky | {SITE}'
-  description: 'Výrobca private label SUP pre nové značky paddle boardov. Spustite vlastnú značku SUP s Afarer — kompletná služba OEM/ODM vrátane dizajnu, prototypovania, vlastného brandingu, výroby a globálnej logistiky.'
+  description: 'Výrobca private label SUP pre nové značky paddle boardov. Spustite vlastnú značku SUP s OLagoon — kompletná služba OEM/ODM vrátane dizajnu, prototypovania, vlastného brandingu, výroby a globálnej logistiky.'
 
 hero:
   tagline: 'Vybudujte si vlastnú značku'
   title: 'Spustite vlastnú<br />značku SUP'
   subtitle: 'Vy máte víziu. My máme továreň, odbornosť a dodávateľský reťazec. Výroba private label SUP a vývoj vlastnej značky SUP — spoločne vybudujeme značku, ktorá vynikne.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Doska SUP s vlastným brandingom na vode'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Prioritná výroba'
 
 features:
-  title: 'Prečo si značky vyberajú Afarer'
+  title: 'Prečo si značky vyberajú OLagoon'
   subtitle: '10+ rokov skúseností s OEM, kompletná certifikácia a najnižšie MOQ v odvetví.'
   items:
     - title: '10+ rokov skúseností s OEM'

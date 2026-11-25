@@ -47,7 +47,7 @@ export const guides: GuideRecord[] = [
       },
       {
         q: 'What PSI should I inflate to?',
-        a: 'afarer boards recommend 12-15 PSI. At 15 PSI the board achieves maximum rigidity comparable to a hard board. Always stay within the rated pressure range printed on the board.',
+        a: 'olagoon boards recommend 12-15 PSI. At 15 PSI the board achieves maximum rigidity comparable to a hard board. Always stay within the rated pressure range printed on the board.',
       },
     ],
     relatedProducts: [],
@@ -279,7 +279,7 @@ export const guides: GuideRecord[] = [
       },
       {
         q: 'How do I repair a puncture?',
-        a: 'Clean the area, cut a patch with rounded corners, apply adhesive, press firmly, and wait 24 hours before inflating. afarer boards include a repair kit.',
+        a: 'Clean the area, cut a patch with rounded corners, apply adhesive, press firmly, and wait 24 hours before inflating. olagoon boards include a repair kit.',
       },
       {
         q: 'How often should I check the valve?',
@@ -880,7 +880,7 @@ export const guides: GuideRecord[] = [
     problem:
       'Traveling with a SUP seems complicated — airline size limits, TSA concerns, and figuring out how to inflate at a remote destination create uncertainty.',
     solution:
-      'Afarer SUP backpacks are designed to meet airline checked baggage limits. Pack strategically, carry a repair kit, and research inflation locations (marinas, campsites with power) before departure.',
+      'OLagoon SUP backpacks are designed to meet airline checked baggage limits. Pack strategically, carry a repair kit, and research inflation locations (marinas, campsites with power) before departure.',
     audience: 'Paddlers planning SUP travel by air, car, or RV.',
     steps: [
       'Deflate fully and roll the board from nose to tail',
@@ -919,7 +919,7 @@ export const guides: GuideRecord[] = [
     problem:
       'Standard SUPs have weight capacities of 200-250 lbs, excluding many paddlers. Riding an undersized board is uncomfortable, unstable, and potentially dangerous.',
     solution:
-      'Choose boards rated for 300+ lbs with extra width for stability. The Tropical Breeze and Leviathan Wake series from Afarer offer the volume and reinforcement larger paddlers need.',
+      'Choose boards rated for 300+ lbs with extra width for stability. The Tropical Breeze and Leviathan Wake series from OLagoon offer the volume and reinforcement larger paddlers need.',
     audience: 'Paddlers over 200 lbs who need a board that supports their weight safely.',
     steps: [
       'Calculate total load: body weight + gear + 20% safety margin',
@@ -1035,7 +1035,7 @@ export const guides: GuideRecord[] = [
     problem:
       'Using a short all-around board for touring results in slow speed, poor tracking, and early fatigue. Distance paddling demands specialized hull design.',
     solution:
-      "Choose a board 12' or longer with a displacement nose. The Ocean Pulse and Ocean Voyager from Afarer offer the touring-specific hull shape and bungee rigging needed for expedition paddling.",
+      "Choose a board 12' or longer with a displacement nose. The Ocean Pulse and Ocean Voyager from OLagoon offer the touring-specific hull shape and bungee rigging needed for expedition paddling.",
     audience: 'Paddlers planning day trips, multi-day expeditions, or fitness distance paddling.',
     steps: [
       "Choose a board 12-14' long for efficient glide and tracking",

@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer/src/data';
+const ROOT = 'E:/github/olagoon/src/data';
 const issues = [];
 const stats = { files: 0, values: 0, fullUrl: 0, mailtoTel: 0, anchorOnly: 0, cleanSlashed: 0, fragmentReview: [] };
 
@@ -61,7 +61,7 @@ function checkVal(val, file, line, kind, key) {
 }
 
 function scanFile(fp) {
-  const rel = path.relative('E:/github/afarer/src', fp).replace(/\\/g, '/');
+  const rel = path.relative('E:/github/olagoon/src', fp).replace(/\\/g, '/');
   const lines = fs.readFileSync(fp, 'utf8').split(/\r?\n/);
   lines.forEach((ln, i) => {
     // yaml: href: /x   |  link: /x   |  href="/x" (inline html in yaml strings)

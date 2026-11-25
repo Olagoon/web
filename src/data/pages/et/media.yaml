@@ -1,8 +1,8 @@
 meta:
-  title: 'Meediakeskus — press ja afarer ressursid | {SITE}'
-  description: 'afarer meediakeskus: pressiteated, brändi varad ja ressursid meie täispuhutavate SUP-ide tootmisettevõttest.'
+  title: 'Meediakeskus — press ja olagoon ressursid | {SITE}'
+  description: 'olagoon meediakeskus: pressiteated, brändi varad ja ressursid meie täispuhutavate SUP-ide tootmisettevõttest.'
   keywords:
-    - 'afarer press'
+    - 'olagoon press'
     - 'sup manufacturer media'
     - 'paddle board press kit'
     - 'nautical company news'
@@ -22,7 +22,7 @@ sections:
       - 'Tarvikud ja ohutusvarustus'
   - id: logo-brand-kit
     title: 'Logo ja brändikomplekt'
-    desc: 'Ametlikud afarer logo failid, värvipalett, tüpograafia ja brändijuhised.'
+    desc: 'Ametlikud olagoon logo failid, värvipalett, tüpograafia ja brändijuhised.'
     items:
       - 'Peamine logo (PNG/SVG/EPS)'
       - 'Ikoonimärk'
@@ -58,7 +58,7 @@ cta:
       desc: 'Vaadake meie 12 000 m² tootmisüksust'
     - label: 'Brändijuhised'
       href: /brand/
-      desc: 'Lugege afarer brändi kohta'
+      desc: 'Lugege olagoon brändi kohta'
     - label: 'Olge meie partner'
       href: /contact/
       desc: 'OEM, ODM ja levituse päringud'

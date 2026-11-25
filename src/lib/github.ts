@@ -40,12 +40,12 @@ function getEnv(key: string, fallback: string): string {
   }
 }
 
-const REPO_OWNER = getEnv('GITHUB_OWNER', 'afarer');
+const REPO_OWNER = getEnv('GITHUB_OWNER', 'olagoon');
 const REPO_NAME = getEnv('GITHUB_REPO', 'official');
 const DEFAULT_BRANCH = 'main';
-const COMMIT_AUTHOR_NAME = 'Afarer Admin';
-const COMMIT_AUTHOR_EMAIL = 'admin@Afarer.local';
-const USER_AGENT = 'Afarer-admin';
+const COMMIT_AUTHOR_NAME = 'OLagoon Admin';
+const COMMIT_AUTHOR_EMAIL = 'admin@OLagoon.local';
+const USER_AGENT = 'OLagoon-admin';
 
 export function getRepoInfo(): { owner: string; repo: string } {
   return { owner: REPO_OWNER, repo: REPO_NAME };

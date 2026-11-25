@@ -1,6 +1,6 @@
 meta:
-  title: 'Šalių partneriai — viena šalis, vienas oficialus Afarer platintojas | {SITE}'
-  description: 'Teikite paraišką tapti oficialiu Afarer platintoju savo šalyje. Vienas įgaliotas partneris rinkai, teritorijos apsauga, tiesioginiai gamyklos maržos, kasmetės premijos ir 10 modulių šalies partnerio palaikymo programa pasaulio SUP ir vandens sporto platintojams.'
+  title: 'Šalių partneriai — viena šalis, vienas oficialus OLagoon platintojas | {SITE}'
+  description: 'Teikite paraišką tapti oficialiu OLagoon platintoju savo šalyje. Vienas įgaliotas partneris rinkai, teritorijos apsauga, tiesioginiai gamyklos maržos, kasmetės premijos ir 10 modulių šalies partnerio palaikymo programa pasaulio SUP ir vandens sporto platintojams.'
   keywords:
     - 'šalių partnerystės programa'
     - 'tapti platintoju'
@@ -11,8 +11,8 @@ meta:
     - 'šalių partnerystės paraiška'
 hero:
   tagline: 'Šalių partnerystė'
-  title: 'Viena šalis.<br />Vienas oficialus Afarer platintojas.'
-  subtitle: 'Afarer skiria vieną įgaliotą šalies platintoją kiekvienai patvirtintai rinkai. Išskirtinė teritorija, prekiautojų kainos su kasmetėmis premijomis ir pilna platintojų palaikymo programa — mainais už pasirašytą sutartį ir realų įsipareigojimą kurti rinką.'
+  title: 'Viena šalis.<br />Vienas oficialus OLagoon platintojas.'
+  subtitle: 'OLagoon skiria vieną įgaliotą šalies platintoją kiekvienai patvirtintai rinkai. Išskirtinė teritorija, prekiautojų kainos su kasmetėmis premijomis ir pilna platintojų palaikymo programa — mainais už pasirašytą sutartį ir realų įsipareigojimą kurti rinką.'
   actions:
     - text: 'Teikti paraišką dėl šalių partnerystės'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Dienų standartinis pagaminimo terminas (FOB Čingdao)'
 features:
-  title: 'Kodėl verta bendradarbiauti su Afarer'
+  title: 'Kodėl verta bendradarbiauti su OLagoon'
   subtitle: 'Vienos šalies — vieno platintojo modelis su palaikymo struktūra, padedančia teritorijai atsipirkti. Išskirtinumas užsidirbamas ir išlaikomas — tai nėra nuolatinė teisė.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'Vienas įgaliotas platintojas kiekvienai šaliai ar regionui. Jokių lygiagrečių importų, jokios vidinės konkurencijos. Jūsų investicija kuria jūsų paties pranašumą.'
       icon: 'tabler:shield-check'
     - title: 'Kanalų konfliktų apsauga'
-      description: 'Tiesioginiai užsakymai iš jūsų regiono nukreipiami per jus, o kainodara apsaugo jūsų maržą. Afarer neparduoda aplink savo šalių partnerius.'
+      description: 'Tiesioginiai užsakymai iš jūsų regiono nukreipiami per jus, o kainodara apsaugo jūsų maržą. OLagoon neparduoda aplink savo šalių partnerius.'
       icon: 'tabler:users'
     - title: 'Tiesioginės gamyklos maržos ir premijos'
       description: 'Prekiautojų kainoraštis su premijomis už įsipareigotus kiekius. Jokių tarpininkų. FOB Čingdao siuntimas su pilna eksporto dokumentacija.'
@@ -59,7 +59,7 @@ features:
       description: 'Atsarginių dalių tiekimas, garantijos registracija ir pretenzijų tvarkymas, produkto duomenų lapai ir vadovai jūsų vietinei aptarnavimo komandai.'
       icon: 'tabler:settings'
     - title: 'Skiriamasis sąskaitų vadybininkas ir partnerių portalas'
-      description: 'Asmeninis platintojų vadybininkas bei prieiga prie kainoraščių, užsakymų būsenos ir rinkodaros išteklių per Afarer partnerių portalą.'
+      description: 'Asmeninis platintojų vadybininkas bei prieiga prie kainoraščių, užsakymų būsenos ir rinkodaros išteklių per OLagoon partnerių portalą.'
       icon: 'tabler:user-check'
 table:
   title: 'Partnerystės lygiai, MOQ ir užsakymo sąlygos'
@@ -94,14 +94,14 @@ faqs:
   subtitle: 'Klausimai, kurių klausia rimti šalių partneriai prieš teikdami paraišką.'
   items:
     - title: 'Ką iš tiesų reiškia viena šalis — vienas platintojas?'
-      description: 'Afarer skiria vieną įgaliotą platintoją su išskirtinėmis teisėmis apibrėžtai teritorijai. Mes neparduodame iš savo pasaulinių ar regioninių kanalų į apsaugotą šalį. Jūsų teritorijos nuosavybė galioja, kai laikomasi Platinimo sutarties.'
+      description: 'OLagoon skiria vieną įgaliotą platintoją su išskirtinėmis teisėmis apibrėžtai teritorijai. Mes neparduodame iš savo pasaulinių ar regioninių kanalų į apsaugotą šalį. Jūsų teritorijos nuosavybė galioja, kai laikomasi Platinimo sutarties.'
     - title: 'Ar teritorija išskirtinė visam laikui?'
       description: 'Ne. Išskirtinumas sąlyginis, ne amžinas. Jis palaikomas pasirašyta Platinimo sutartimi, pirmojo užsakymo įvykdymu, kasmetiniais pirkimo tikslais, vietinėmis atsargomis, pardavimų aptarnavimo galimybėmis ir tęsiamomis rinkos investicijomis. Jei šios sąlygos nesilaikoma, teritorija gali būti peržiūrėta arba perskirta.'
     - title: 'Koks yra minimalus pirmasis užsakymas?'
       description: 'Šalies ir regioniniai platintojai pradeda nuo 100–300 vienetų; įgalioti prekiautojai — nuo 30–50 vienetų; bandomieji užsakymai nuo 10–30 vienetų leidžia jums pirmiausia patikrinti rinką (bandomieji ir mėginių užsakymai nesuteikia teritorijos apsaugos). Pasirinktinės ir privataus prekės ženklo programos vadovaujasi atskirais MOQ, nurodytais aukščiau pateiktuose lygiuose.'
     - title: 'Koks palaikymas įtrauktas į 10 modulių palaikymo programą?'
       description: 'Lygiai ir kvalifikacija, teritorijos apsauga, MOQ / kainodara / kasmetės premijos, atsargos ir užsakymų vykdymas, rinkodaros medžiaga ir bendras rinkos finansavimas, produkto / pardavimų / techniniai mokymai, atsarginės dalys ir pardavimų aptarnavimas, garantijos registracija, partnerių portalas bei produkto duomenų lapai, rinkodaros medžiagos biblioteka, kasmetinis premijų grafikas ir siuntimo bei pakavimo sąrašai.'
-    - title: 'Kaip Afarer apsaugo mane nuo kanalų konfliktų?'
+    - title: 'Kaip OLagoon apsaugo mane nuo kanalų konfliktų?'
       description: 'Kiekvienoje teritorijoje yra tiksliai vienas įgaliotas platintojas. Užklausos ir tiesioginiai užsakymai iš jūsų regiono nukreipiami per jus, svetainės formos persiunčiamos vietiniam partneriui, jei toks yra, o pasaulinė komanda įsikiša tik tada, kai partneris neatsako.'
     - title: 'Kokios yra siuntimo ir apmokėjimo sąlygos?'
       description: 'Užsakymai siunčiami FOB Čingdao su pilna eksporto dokumentacija. Gamybos užsakymai — 30 % avansas ir 70 % prieš siuntimą; bandomieji ir mėginių užsakymai apmokami iš anksto. Standartinis pagaminimo terminas — 30–45 darbo dienos, o mėginių serijoms — 15–20 darbo dienų.'
@@ -109,7 +109,7 @@ faqs:
       description: 'Atsiųskite paraišką per kontaktų formą su rinkos detalėmis. Mes peržiūrime rinkos tinkamumą, mažmeninę buvimą ir logistikos galimybes, tada atsakome per 3 darbo dienas su tolesniais žingsniais ir pavyzdine Platinimo sutartimi.'
 cta:
   title: 'Valdykite savo rinką.'
-  subtitle: 'Teikite paraišką Afarer šalių partnerystės programai ir gaukite atsakymą per 3 darbo dienas.'
+  subtitle: 'Teikite paraišką OLagoon šalių partnerystės programai ir gaukite atsakymą per 3 darbo dienas.'
   actions:
     - text: 'Teikti paraišką dėl šalių partnerystės'
       href: /contact/?subject=Country Partnership Application
@@ -119,7 +119,7 @@ cta:
       variant: 'secondary'
 geo:
   tagline: 'Su kuo mes bendradarbiaujame'
-  sentence: 'Afarer bendradarbiauja su įsitvirtinusiais jūrinės, lauko ir sporto prekės platintojais, aptarnaujančiais mažmenines grandines, nuomos parkus, vandens sporto mokyklas, kurortus ir vyriausybinius pirkėjus, kokybiškomis pripučiamomis SUP lentomis ir vandens transportu — ir įsipareigojančiais kurti Afarer prekės ženklą savo šalyje.'
+  sentence: 'OLagoon bendradarbiauja su įsitvirtinusiais jūrinės, lauko ir sporto prekės platintojais, aptarnaujančiais mažmenines grandines, nuomos parkus, vandens sporto mokyklas, kurortus ir vyriausybinius pirkėjus, kokybiškomis pripučiamomis SUP lentomis ir vandens transportu — ir įsipareigojančiais kurti OLagoon prekės ženklą savo šalyje.'
   audiences:
     - 'Jūrinės ir irklavimo sporto platintojai'
     - 'Lauko ir sporto mažmeninė prekyba'

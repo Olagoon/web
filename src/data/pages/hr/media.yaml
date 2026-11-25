@@ -1,8 +1,8 @@
 meta:
-  title: 'Medijski centar — Mediji i resursi afarer | {SITE}'
-  description: 'Medijski centar afarer: priopćenja za tisak, resursi marke i materijali naše tvrtke za proizvodnju napuhivih SUP dasaka.'
+  title: 'Medijski centar — Mediji i resursi olagoon | {SITE}'
+  description: 'Medijski centar olagoon: priopćenja za tisak, resursi marke i materijali naše tvrtke za proizvodnju napuhivih SUP dasaka.'
   keywords:
-    - 'afarer tisak'
+    - 'olagoon tisak'
     - 'mediji proizvođača sup dasaka'
     - 'medijski komplet paddleboard dasaka'
     - 'vijesti nautičke tvrtke'
@@ -22,7 +22,7 @@ sections:
       - 'Dodaci i sigurnosna oprema'
   - id: logo-brand-kit
     title: 'Logotip i komplet marke'
-    desc: 'Službene datoteke logotipa afarer, paleta boja, tipografija i smjernice marke.'
+    desc: 'Službene datoteke logotipa olagoon, paleta boja, tipografija i smjernice marke.'
     items:
       - 'Primarni logotip (PNG/SVG/EPS)'
       - 'Znak ikone'
@@ -58,7 +58,7 @@ cta:
       desc: 'Pogledajte naš proizvodni objekt od 12,000 m²'
     - label: 'Smjernice marke'
       href: /brand/
-      desc: 'Saznajte više o marki afarer'
+      desc: 'Saznajte više o marki olagoon'
     - label: 'Postanite naš partner'
       href: /contact/
       desc: 'OEM, ODM i distribucijski upiti'

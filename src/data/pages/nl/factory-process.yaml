@@ -1,6 +1,6 @@
 meta:
   title: 'Productieproces — Van Grondstof tot SUP | {SITE}'
-  description: 'Van grondstof tot zeeklare SUP: elke stap van het afarer-productieproces onder onze controle, van snijden en lassen tot testen.'
+  description: 'Van grondstof tot zeeklare SUP: elke stap van het olagoon-productieproces onder onze controle, van snijden en lassen tot testen.'
   keywords:
     - 'SUP productieproces'
     - 'opblaasbare SUP fabriek'
@@ -13,7 +13,7 @@ hero:
   back_label: Terug naar de fabriek
   back_link: /factory/
 intro: >-
-  In tegenstelling tot merken die productie uitbesteden aan derden, bezit en beheert afarer zijn volledige productieketen. Deze verticale integratie stelt ons in staat om strikte kwaliteitscontrole te handhaven in elke fase, snel te reageren op maatwerkvereisten en consistente productkwaliteit te
+  In tegenstelling tot merken die productie uitbesteden aan derden, bezit en beheert olagoon zijn volledige productieketen. Deze verticale integratie stelt ons in staat om strikte kwaliteitscontrole te handhaven in elke fase, snel te reageren op maatwerkvereisten en consistente productkwaliteit te
   leveren batch na batch. Zo wordt een board gebouwd in onze fabriek.
 steps:
   - step: '01'
@@ -55,6 +55,6 @@ steps:
     duration: 1 dag
 cta:
   title: Bekijk onze apparatuur en machines
-  desc: Ontdek de industriële apparatuur achter elke afarer-board.
+  desc: Ontdek de industriële apparatuur achter elke olagoon-board.
   label: Bekijk apparatuur →
   link: /factory/equipment/

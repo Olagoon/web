@@ -13,7 +13,7 @@ hero:
   back_label: Tilbake til fabrikken
   back_link: /factory/
 intro: >-
-  I motsetning til merker som setter bort produksjonen til tredjepartsfabrikker, eier og driver afarer hele sin produksjonskjede. Denne vertikale integrasjonen lar oss opprettholde streng kvalitetskontroll på hvert trinn, raskt respondere på tilpassede krav og levere jevn produktkvalitet batch etter
+  I motsetning til merker som setter bort produksjonen til tredjepartsfabrikker, eier og driver olagoon hele sin produksjonskjede. Denne vertikale integrasjonen lar oss opprettholde streng kvalitetskontroll på hvert trinn, raskt respondere på tilpassede krav og levere jevn produktkvalitet batch etter
   batch. Slik bygges et brett i vårt anlegg.
 steps:
   - step: '01'
@@ -46,6 +46,6 @@ steps:
     duration: 1 dag
 cta:
   title: Se vårt utstyr og maskiner
-  desc: Oppdag industriutstyret bak hvert afarer-brett.
+  desc: Oppdag industriutstyret bak hvert olagoon-brett.
   label: Se utstyr →
   link: /factory/equipment/

@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Kurortai ir viešbučiai'
   title: 'Paverskite savo pakrantę pajamų centru<br />su kokybiškomis SUP parkomis'
-  subtitle: 'Afarer aprūpina kurortus visame pasaulyje komercinės klasės pripučiamų SUP parkais — nuo 20 lentų pradžios paketų iki 100+ lentų flagmano programų. Pasirinktinis prekės ženklas, personalo mokymai ir atsarginės dalys įtrauktos.'
+  subtitle: 'OLagoon aprūpina kurortus visame pasaulyje komercinės klasės pripučiamų SUP parkais — nuo 20 lentų pradžios paketų iki 100+ lentų flagmano programų. Pasirinktinis prekės ženklas, personalo mokymai ir atsarginės dalys įtrauktos.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Kurortų svečiai mėgaujasi SUP lentomis tyrą paplūdimyje'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Visa parko investicija atsiperka per vieną sezoną'
     - metric: '40%'
       label: 'Pajamų padidėjimas'
-      detail: 'Vidutinis augimas perėjus prie Afarer parkų'
+      detail: 'Vidutinis augimas perėjus prie OLagoon parkų'
     - metric: '500+'
       label: 'Nuomos ciklų vienai lentai'
       detail: 'Komercinės klasės patvarumas kasdieniniam naudojimui'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Gauti Flagmano paketą'
 
 case_study:
-  quote: 'Nuo perėjimo prie Afarer mūsų SUP nuomos pajamos išaugo 40 %. Lentų pakeitimo išlaidos sumažėjo 60 %. Visa parko investicija mums atsiperka per 4 mėnesius.'
+  quote: 'Nuo perėjimo prie OLagoon mūsų SUP nuomos pajamos išaugo 40 %. Lentų pakeitimo išlaidos sumažėjo 60 %. Visa parko investicija mums atsiperka per 4 mėnesius.'
   author: 'Vandens veiklų vadybininkas'
   location: '5 žvaigždučių kurortas, Maldyvai'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 mėnesiai'
 
 features:
-  title: 'Kodėl kurortai renkasi Afarer'
+  title: 'Kodėl kurortai renkasi OLagoon'
   subtitle: 'Komercinės klasės patvarumas, pasaulinė logistika ir partneris, suprantantis svetingumą.'
   items:
     - title: '500+ nuomos ciklų'

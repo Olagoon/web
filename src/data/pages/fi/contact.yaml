@@ -1,8 +1,8 @@
 meta:
   title: 'Yhteystiedot — Kumppanuus & tuotetiedustelut | {SITE}'
-  description: 'Ota yhteyttä afareriin kumppanuus-, co-brand- ja private label -tiedusteluja varten tai ammattikalustoja varten. Täytettävien SUP-lautojen brändi, vastaamme 2 arkipäivässä.'
+  description: 'Ota yhteyttä olagooniin kumppanuus-, co-brand- ja private label -tiedusteluja varten tai ammattikalustoja varten. Täytettävien SUP-lautojen brändi, vastaamme 2 arkipäivässä.'
   keywords:
-    - 'ota yhteyttä afareriin'
+    - 'ota yhteyttä olagooniin'
     - 'sup-jakelija tarjous'
     - 'ammattimainen SUP-toimittaja'
     - 'ota yhteyttä SUP-valmistajaan'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Lähetä meille viesti
   subtitle: Tarjouksia, teknisiä kysymyksiä tai kumppanuustiedusteluja varten, lähetä meille viesti. Vastaamme yhden arkipäivän kuluessa.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Lähetä tiedustelu → Pyydä tarjous
   success_message: Kiitos! Viestisi on saapunut postilaatikkoomme. Vastaamme yhden arkipäivän kuluessa.
   error_message: Viestisi lähettämisessä tapahtui virhe. Yritä uudelleen tai lähetä sähköpostia suoraan.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: Sähköposti
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Pääkonttori
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

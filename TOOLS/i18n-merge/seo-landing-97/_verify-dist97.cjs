@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
-const ROOT = 'E:/github/afarer/src/data/pages';
-const DIST = 'E:/github/afarer/dist';
+const ROOT = 'E:/github/olagoon/src/data/pages';
+const DIST = 'E:/github/olagoon/dist';
 const PAGES = [
   'oem-paddle',
   'co-brand',

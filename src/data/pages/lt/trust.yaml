@@ -1,6 +1,6 @@
 meta:
   title: 'Pasitikėjimas — kokybė, standartai ir reputacija | {SITE}'
-  description: 'Kodėl verta pasitikėti afarer: CE ir ISO sertifikatai, integruota gamykla, pasaulinės rekomendacijos ir garantija. Profesionalus pripučiamų SUP lentų gamintojas.'
+  description: 'Kodėl verta pasitikėti olagoon: CE ir ISO sertifikatai, integruota gamykla, pasaulinės rekomendacijos ir garantija. Profesionalus pripučiamų SUP lentų gamintojas.'
   keywords:
     - 'patikimas sup gamintojas'
     - 'sertifikuota irklentinių lentų gamykla'
@@ -8,16 +8,16 @@ meta:
     - 'sertifikuota sup gamykla'
 hero:
   tagline: 'Sukurta pagal standartus, kurie svarbūs'
-  title: 'Pasitikėkite afarer'
+  title: 'Pasitikėkite olagoon'
   subtitle: |
     Kiekvienas mūsų gaminamas produktas turi CE sertifikatą — išbandytas dėl saugos,<br />
     patvarumo ir našumo. Jokių aplinkkelių. Jokių išimčių.
   taglineSection: 'Sertifikuota. Išbandyta. Įrodyta.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'afarer produkto kokybės testavimas'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'olagoon produkto kokybės testavimas'
 
 stats:
-  title: 'afarer skaičiais'
+  title: 'olagoon skaičiais'
   stats:
     - title: 'CE sertifikatas'
       description: 'Visi poilsio produktai atitinka ES saugos standartus'
@@ -26,7 +26,7 @@ stats:
     - title: 'BSCI ir REACH'
       description: 'Etinė gamyba ir medžiagų atitiktis'
     - title: '3 metų garantija'
-      description: 'Kiekvienam afarer produktui — be jokių klausimų'
+      description: 'Kiekvienam olagoon produktui — be jokių klausimų'
 
 features3_certifications:
   title: 'Sertifikatai ir atitiktis'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'CE sertifikavimas'
-      description: 'Visos afarer SUP lentos atitinka Europos CE saugos standartą, skirtą poilsio naudojimui. Kiekvienas produktas prieš palikdamas gamyklą atlieka slėgio, plūdumo ir apkrovos testus.'
+      description: 'Visos olagoon SUP lentos atitinka Europos CE saugos standartą, skirtą poilsio naudojimui. Kiekvienas produktas prieš palikdamas gamyklą atlieka slėgio, plūdumo ir apkrovos testus.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Mūsų 12,000 m² ploto objektas Cindao veikia pagal ISO 9001 kokybės vadybos sistemą. Kiekviena gamybos partija yra atsekama, dokumentuojama ir tikrinama.'
@@ -50,21 +50,21 @@ features3_certifications:
       description: 'Vidinė medžiagų laboratorija prieš gamybą išbando kiekvieną audinio partiją dėl tempimo stiprio, UV atsparumo, siūlių vientisumo ir atsparumo dilimui.'
       icon: 'tabler:microscope'
     - title: '3 metų garantija'
-      description: 'Kiekvienas afarer produktas turi trejų metų garantiją nuo gamybos defektų. Mes atsakome už tai, ką gaminame.'
+      description: 'Kiekvienas olagoon produktas turi trejų metų garantiją nuo gamybos defektų. Mes atsakome už tai, ką gaminame.'
       icon: 'tabler:shield-check'
 
 testimonials:
   tagline: 'Klientų pasitikėjimas'
   title: 'Ką sako mūsų klientai'
-  subtitle: 'Nuo pirmą kartą irkluojančių iki profesionalių flotilės operatorių — sužinokite, kodėl jie pasitiki afarer.'
+  subtitle: 'Nuo pirmą kartą irkluojančių iki profesionalių flotilės operatorių — sužinokite, kodėl jie pasitiki olagoon.'
   items:
-    - content: 'Savo visą nuomos flotilę aprūpinome afarer SUP lentomis. Praėjo du sezonai — nulis gedimų. CE sertifikatas draudimo patvirtinimą padarė labai sklandų.'
+    - content: 'Savo visą nuomos flotilę aprūpinome olagoon SUP lentomis. Praėjo du sezonai — nulis gedimų. CE sertifikatas draudimo patvirtinimą padarė labai sklandų.'
       name: 'Marco V.'
       title: 'Turizmo operatorius, Kroatija'
     - content: 'Kaip pirmą kartą perkantis pirkėjas jaudinausi dėl kokybės. Jų pateikta ISO dokumentacija ir testų ataskaitos suteikė man visišką pasitikėjimą.'
       name: 'James T.'
       title: 'SUP Explorer 11 savininkas, Kanada'
-    - content: 'Su afarer dirbame dėl mūsų pakrančių patrulių vienetų. Jų kokybės kontrolės procesas nuoseklus kiekvienoje partijoje — toks patikimumas svarbus itin kritinėse operacijose.'
+    - content: 'Su olagoon dirbame dėl mūsų pakrančių patrulių vienetų. Jų kokybės kontrolės procesas nuoseklus kiekvienoje partijoje — toks patikimumas svarbus itin kritinėse operacijose.'
       name: 'Lt. Cmdr. Andres'
       title: 'Vyriausybiniai pirkimai, Filipinai'
 
@@ -115,7 +115,7 @@ warranty_section:
   subtitle: 'Už kiekvieną produktą atsakome su aiškiomis garantijos sąlygomis, greitu pretenzijų tvarkymu ir originaliomis atsarginėmis dalimis.'
   items:
     - title: '3 metų produkto garantija'
-      desc: 'Visi afarer produktai turi 3 metų garantiją nuo gamybos defektų — siūlių gedimų, vožtuvų defektų ir medžiagų delaminacijos esant normaliam naudojimui.'
+      desc: 'Visi olagoon produktai turi 3 metų garantiją nuo gamybos defektų — siūlių gedimų, vožtuvų defektų ir medžiagų delaminacijos esant normaliam naudojimui.'
     - title: 'Ilgalaikis atsarginių dalių palaikymas'
       desc: 'Originalios atsarginės dalys — vožtuvai, remonto rinkiniai, peleksai, D žiedai — prieinamos visiems modeliams. Formas ir įrankius palaikome mažiausiai 5 metus po gamybos pabaigos.'
     - title: 'Atsakymas į pretenzijas per 48 valandas'
@@ -148,35 +148,35 @@ faqs_sup:
   subtitle: 'Dažni klausimai apie mūsų SUP lentas.'
   columns: 2
   items:
-    - title: 'Kokių dydžių SUP lentas afarer siūlo?'
+    - title: 'Kokių dydžių SUP lentas olagoon siūlo?'
       description: 'Siūlome SUP lentas nuo 9 ft iki 12 ft, apimančias viską — nuo kompaktiškų universalių lentų iki turizmo ir specialiųjų dizainų. Kiekvienas modelis prieinamas su keliomis konfigūracijos parinktimis.'
     - title: 'Kuo skiriasi pripučiama SUP lenta nuo kietos SUP lentos?'
       description: 'Pripučiama SUP lenta naudoja "Drop-Stitch" konstrukciją su tūkstančiais vidinių siūlų, leidžiančių aukštą oro slėgį, o kietą SUP lentą sudaro epoksidinė derva arba stiklo pluoštas. Pripučiamos SUP lentos suteikia pernešimo ir laikymo patogumą neaukodamos standumo.'
     - title: 'Koks SUP lentų svorio limitas?'
       description: 'Mūsų SUP lentos atlaiko iki 150 kg priklausomai nuo modelio ir tūrio. Kiekvieno produkto puslapyje nurodytas maksimalus apkrovos įvertis jūsų konkrečiam modeliui.'
-    - title: 'Ar afarer SUP lentos turi CE sertifikatą?'
+    - title: 'Ar olagoon SUP lentos turi CE sertifikatą?'
       description: 'Taip. Visi poilsio SUP modeliai yra CE sertifikuoti pagal taikytinus Europos standartus, skirtus poilsio naudojimui.'
     - title: 'Kokia SUP lentų garantija?'
-      description: 'Visos afarer SUP lentos turi standartinė trejų metų garantiją nuo gamybos defektų, apimančią siūlių gedimus, vožtuvų defektus ir medžiagų delaminaciją esant normaliam naudojimui.'
+      description: 'Visos olagoon SUP lentos turi standartinė trejų metų garantiją nuo gamybos defektų, apimančią siūlių gedimus, vožtuvų defektus ir medžiagų delaminaciją esant normaliam naudojimui.'
     - title: 'Kiek laiko trunka pripūsti SUP lentą?'
-      description: 'Naudojant pridedamą rankinį siurblį, pilnas pripūtimas iki 15 PSI trunka maždaug 8–12 minučių. Greitesniam pripūtimui rekomenduojame mūsų afarer 12V elektrinį siurblį, kuris lentą pripučia per mažiau nei 4 minutes.'
+      description: 'Naudojant pridedamą rankinį siurblį, pilnas pripūtimas iki 15 PSI trunka maždaug 8–12 minučių. Greitesniam pripūtimui rekomenduojame mūsų olagoon 12V elektrinį siurblį, kuris lentą pripučia per mažiau nei 4 minutes.'
 
 faqs_materials:
   title: 'SUP medžiagų ir priežiūros DUK'
   subtitle: 'Dažni klausimai apie mūsų pripučiamų SUP lentų medžiagas, priežiūrą ir laikymą.'
   columns: 2
   items:
-    - title: 'Kokios medžiagos naudojamos afarer pripučiamose SUP lentose?'
+    - title: 'Kokios medžiagos naudojamos olagoon pripučiamose SUP lentose?'
       description: 'Naudojame karinės klasės PVC (1100 denjerų) su UV stabilizuota, atsparia dilimui konstrukcija, atitinkančia ES REACH ir RoHS reglamentus.'
     - title: 'Kiek laiko tarnauja pripučiamos SUP lentos?'
       description: 'Tinkamai prižiūrint, kokybiška PVC pripučiama SUP lenta tarnauja 5–10 metų. Reguliarus valymas, UV apsauga ir tinkamas laikymas ženkliai prailgina eksploatacijos laiką.'
     - title: 'Kokios priežiūros reikia pripučiamai SUP lentai?'
       description: 'Pagrindinė priežiūra apima skalavimą gėlu vandeniu po kiekvieno naudojimo (ypač jūros vandenyje), džiovinimą prieš laikymą, vožtuvų sandarų tikrinimą kasmet ir ilgos saulės ekspozicijos vengimą nenaudojant.'
     - title: 'Ar pripučiamas SUP lentas galima naudoti jūros vandenyje?'
-      description: 'Taip. Visos afarer pripučiamos SUP lentos sukurtos tiek gėlam, tiek jūros vandeniui. Rekomenduojame nuplauti gėlu vandeniu ir kruopščiai išdžiovinti po kontakto su jūros vandeniu.'
+      description: 'Taip. Visos olagoon pripučiamos SUP lentos sukurtos tiek gėlam, tiek jūros vandeniui. Rekomenduojame nuplauti gėlu vandeniu ir kruopščiai išdžiovinti po kontakto su jūros vandeniu.'
     - title: 'Kaip laikyti pripučiamą SUP lentą?'
       description: 'Prieš laikymą lentą visiškai išleiskite orą, išvalykite ir išdžiovinkite. Vyniokite laisvai (venkite stiprių lenkimų), laikykite vėsioje, sausoje vietoje atokiau nuo tiesioginių saulės spindulių ir nestatykite ant betoninių grindų, kad būtų išvengta drėgmės susigėrimo.'
-    - title: 'Kokią apkrovą atlaiko afarer pripučiamos SUP lentos?'
+    - title: 'Kokią apkrovą atlaiko olagoon pripučiamos SUP lentos?'
       description: 'Svorio talpos svyruoja nuo 100 kg mažiausiems mūsų modeliams iki daugiau nei 200 kg didesnėms lentoms. Kiekvieno produkto puslapyje nurodytas maksimalus apkrovos įvertis jūsų konkrečiam modeliui.'
 
 cta:

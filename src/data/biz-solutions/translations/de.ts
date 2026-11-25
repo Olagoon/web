@@ -12,9 +12,9 @@ const de: Record<string, SolutionOverride> = {
       tagline: 'Commercial SUP Fleet™',
       title: 'Professionelle SUP-Ausrüstungslösungen für Paddle Clubs, Verleihbetreiber & Wassersportschulen',
       subtitle:
-        'Afarer bietet Commercial-SUP-Fleet-Lösungen, die speziell für professionelle Betreiber entwickelt wurden. Wir helfen SUP-Schulen, Paddle Clubs, Verleihfirmen, Resorts, Adventure-Anbietern und Eventorganisatoren, zuverlässige Ausrüstungsflotten mit kommerzieller Bauweise und langfristiger Unterstützung aufzubauen.',
+        'OLagoon bietet Commercial-SUP-Fleet-Lösungen, die speziell für professionelle Betreiber entwickelt wurden. Wir helfen SUP-Schulen, Paddle Clubs, Verleihfirmen, Resorts, Adventure-Anbietern und Eventorganisatoren, zuverlässige Ausrüstungsflotten mit kommerzieller Bauweise und langfristiger Unterstützung aufzubauen.',
       image: {
-        alt: 'Afarer Commercial-SUP-Flotte für Paddle Clubs und Wassersportschulen',
+        alt: 'OLagoon Commercial-SUP-Flotte für Paddle Clubs und Wassersportschulen',
       },
     },
     challenge: {
@@ -48,7 +48,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Kommerzielle Bauweise für aufblasbare SUPs',
           description:
-            'Afarers kommerzielle SUP-Produkte verfügen über verstärkte PVC-Materialsysteme mit höherer Abriebfestigkeit, mehrlagige Rail-Verstärkung für Stoßfestigkeit, hochdichte Drop-Stitch-Struktur für Steifigkeit und robuste Ventilsysteme für häufige Aufblaszyklen.',
+            'OLagoons kommerzielle SUP-Produkte verfügen über verstärkte PVC-Materialsysteme mit höherer Abriebfestigkeit, mehrlagige Rail-Verstärkung für Stoßfestigkeit, hochdichte Drop-Stitch-Struktur für Steifigkeit und robuste Ventilsysteme für häufige Aufblaszyklen.',
           features: [
             'Verstärktes PVC-Materialsystem',
             'Mehrlagige Rail-Verstärkung',
@@ -59,7 +59,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Flottenoptimiertes SUP-Produktdesign',
           description:
-            'Afarer entwickelt SUP-Ausrüstung auf Basis betrieblicher Anforderungen – mit eigenen Trainingsflotten für Anfänger, Verleihflotten für Vielnutzer und Eventflotten für Gruppenaktivitäten. Jede Konfiguration legt den Fokus auf Stabilität, Haltbarkeit und einfache Wartung.',
+            'OLagoon entwickelt SUP-Ausrüstung auf Basis betrieblicher Anforderungen – mit eigenen Trainingsflotten für Anfänger, Verleihflotten für Vielnutzer und Eventflotten für Gruppenaktivitäten. Jede Konfiguration legt den Fokus auf Stabilität, Haltbarkeit und einfache Wartung.',
           features: [
             'SUP-Trainingsflotte für Kurse',
             'Verleihflotte für Vielnutzer',
@@ -70,12 +70,12 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Komplette kommerzielle Paketkonfiguration',
           description:
-            'Afarer hilft bei der Zusammenstellung vollständiger Flottenpakete inklusive aufblasbarer SUP-Boards, professioneller Paddel, Hochdruckpumpen, strapazierfähiger Leashes, robuster Rucksäcke und Reparatursets – mit Zusatzoptionen wie Ersatzventilen, weiteren Finnen und Austausch-Griffschalen.',
+            'OLagoon hilft bei der Zusammenstellung vollständiger Flottenpakete inklusive aufblasbarer SUP-Boards, professioneller Paddel, Hochdruckpumpen, strapazierfähiger Leashes, robuster Rucksäcke und Reparatursets – mit Zusatzoptionen wie Ersatzventilen, weiteren Finnen und Austausch-Griffschalen.',
         },
         {
           title: 'Flottenanpassung für Wasserunternehmen',
           description:
-            'Kommerzielle Betreiber brauchen eine starke visuelle Identität. Afarer unterstützt Logoanpassung, Farbanpassung passend zum Club-Branding oder Resortambiente sowie Flottenkennzeichnungssysteme mit Nummerierung und Modellkennzeichnung für ein effizientes Management großer Flotten.',
+            'Kommerzielle Betreiber brauchen eine starke visuelle Identität. OLagoon unterstützt Logoanpassung, Farbanpassung passend zum Club-Branding oder Resortambiente sowie Flottenkennzeichnungssysteme mit Nummerierung und Modellkennzeichnung für ein effizientes Management großer Flotten.',
           features: [
             'Logoanpassung',
             'Farbanpassung',
@@ -86,27 +86,27 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Langfristige Betriebskosten senken',
           description:
-            'Das günstigste Board ist nicht immer das profitabelste. Afarer-Lösungen verlängern die Lebensdauer der Ausrüstung durch stärkere Materialien, steigern die Wartungseffizienz durch standardisierte Komponenten und verbessern die Wirtschaftlichkeit durch weniger Ausfallzeiten und höhere Auslastung.',
+            'Das günstigste Board ist nicht immer das profitabelste. OLagoon-Lösungen verlängern die Lebensdauer der Ausrüstung durch stärkere Materialien, steigern die Wartungseffizienz durch standardisierte Komponenten und verbessern die Wirtschaftlichkeit durch weniger Ausfallzeiten und höhere Auslastung.',
         },
         {
           title: 'Unterstützung für SUP-Verleihgeschäfte',
           description:
-            'Verleihbetreiber brauchen Ausrüstung, die für Kunden einfach, für das Personal unkompliziert und leicht zu warten ist. Afarer liefert anfängerfreundliche Designs mit hoher Stabilität, schnelle Handhabung für einen schnelleren Kundendurchsatz und robustes Zubehör inklusive stabiler Paddel und zuverlässiger Pumpen.',
+            'Verleihbetreiber brauchen Ausrüstung, die für Kunden einfach, für das Personal unkompliziert und leicht zu warten ist. OLagoon liefert anfängerfreundliche Designs mit hoher Stabilität, schnelle Handhabung für einen schnelleren Kundendurchsatz und robustes Zubehör inklusive stabiler Paddel und zuverlässiger Pumpen.',
         },
         {
           title: 'Ausrüstungslösungen für SUP-Schulen',
           description:
-            'SUP-Instruktoren brauchen Ausrüstung, die das Lernen unterstützt. Afarer-Produkte lassen sich für Anfängerkurse, Jugendprogramme, Gruppentraining und Instruktordemonstrationen optimieren – mit Funktionen, die die Lehrerfahrung verbessern.',
+            'SUP-Instruktoren brauchen Ausrüstung, die das Lernen unterstützt. OLagoon-Produkte lassen sich für Anfängerkurse, Jugendprogramme, Gruppentraining und Instruktordemonstrationen optimieren – mit Funktionen, die die Lehrerfahrung verbessern.',
         },
         {
           title: 'Event- & Resort-Lösungen für Wasseraktivitäten',
           description:
-            'Hotels, Resorts und Eventunternehmen bieten zunehmend Strandaktivitäten, Teambuilding und Outdoor-Erlebnisse an. Afarer unterstützt Flottenplanung, Produktanpassung und Serienproduktion für diese Hospitality-Anwendungen.',
+            'Hotels, Resorts und Eventunternehmen bieten zunehmend Strandaktivitäten, Teambuilding und Outdoor-Erlebnisse an. OLagoon unterstützt Flottenplanung, Produktanpassung und Serienproduktion für diese Hospitality-Anwendungen.',
         },
         {
           title: 'Wartungs- & After-Sales-Support',
           description:
-            'Professionelle Betreiber brauchen auch nach der Lieferung Unterstützung. Afarer bietet Ersatzteilplanung mit Reparaturmaterial und Austausch-Zubehör, Wartungsanleitungen für Lagerung und Reinigung sowie Unterstützung bei der Flottenerweiterung um neue Boards und Modelle.',
+            'Professionelle Betreiber brauchen auch nach der Lieferung Unterstützung. OLagoon bietet Ersatzteilplanung mit Reparaturmaterial und Austausch-Zubehör, Wartungsanleitungen für Lagerung und Reinigung sowie Unterstützung bei der Flottenerweiterung um neue Boards und Modelle.',
           features: [
             'Ersatzteilplanung',
             'Wartungsanleitungen',
@@ -128,7 +128,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Kommerzielle Flottenplanung',
           detail:
-            'Afarer analysierte tägliche Nutzungsmuster, Fähigkeitsniveaus der Kunden und Bedingungen des Gewässers und empfahl anschließend eine kommerzielle Konfiguration aufblasbarer SUP-Flotten, die auf die betrieblichen Anforderungen des Clubs zugeschnitten war.',
+            'OLagoon analysierte tägliche Nutzungsmuster, Fähigkeitsniveaus der Kunden und Bedingungen des Gewässers und empfahl anschließend eine kommerzielle Konfiguration aufblasbarer SUP-Flotten, die auf die betrieblichen Anforderungen des Clubs zugeschnitten war.',
         },
         {
           title: 'Produktentwicklung',
@@ -143,7 +143,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Langfristige Lieferunterstützung',
           detail:
-            'Afarer stellte Ersatzteile, Wartungsmaterial und Unterstützung für künftige Erweiterungen bereit, damit der Club seine Flotte über mehrere Saisons halten und ausbauen kann.',
+            'OLagoon stellte Ersatzteile, Wartungsmaterial und Unterstützung für künftige Erweiterungen bereit, damit der Club seine Flotte über mehrere Saisons halten und ausbauen kann.',
         },
       ],
       results: [
@@ -159,35 +159,35 @@ const de: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubai, Vereinigte Arabische Emirate',
             background:
-              'Ahmed Al-Rashid, 41, gründete 2020 den „Dubai Paddle Club“ mit 8 Einsteiger-SUPs, die er von einem Versandcontainer nahe der Dubai Marina verlieh. Bis 2023 war sein Betrieb organisch auf 45 Boards an zwei Standorten gewachsen, doch er litt unter 60 % jährlichem Inventarverlust durch Delamination, UV-Schäden und Salzwasserkorrosion. Die durchschnittliche Lebensdauer eines Boards betrug nur 7 Monate. Ahmeds 12 Mitarbeiter verbrachten 22 Stunden pro Woche mit Reparaturen, statt Kunden zu betreuen. Er wandte sich an Afarer, nachdem ihn ein Mitbewerber auf iSUPs aufmerksam gemacht hatte, die unter den Bedingungen des Nahen Ostens über 3 Jahre halten.',
+              'Ahmed Al-Rashid, 41, gründete 2020 den „Dubai Paddle Club“ mit 8 Einsteiger-SUPs, die er von einem Versandcontainer nahe der Dubai Marina verlieh. Bis 2023 war sein Betrieb organisch auf 45 Boards an zwei Standorten gewachsen, doch er litt unter 60 % jährlichem Inventarverlust durch Delamination, UV-Schäden und Salzwasserkorrosion. Die durchschnittliche Lebensdauer eines Boards betrug nur 7 Monate. Ahmeds 12 Mitarbeiter verbrachten 22 Stunden pro Woche mit Reparaturen, statt Kunden zu betreuen. Er wandte sich an OLagoon, nachdem ihn ein Mitbewerber auf iSUPs aufmerksam gemacht hatte, die unter den Bedingungen des Nahen Ostens über 3 Jahre halten.',
             goal: 'Standardisierung auf eine einzige robuste Flotte aus 200 Boards an 3 Standorten (Dubai Marina, Abu Dhabi Corniche und Fujairah Beach) mit einer jährlichen Austauschquote von höchstens 15 % und 40 % höherer monatlicher Auslastung pro Board.',
           },
           steps: [
             {
               title: 'Belastungstest von 14 Boards unter den Sommerbedingungen der VAE',
               detail:
-                'Im Mai 2024 schickte Afarer den Regionalverkaufsleiter Karim Nasr und die Produktentwicklerin Sophie Chen für einen 6-wöchigen Feldtest nach Dubai. Sie setzten 14 Konkurrenz-iSUPs und 6 Afarer-Prototypen während der Hochsommersaison an allen 3 Standorten ein (48 °C Luft, 35 °C Wasser, UV-Index 11). Ahmeds Mitarbeiter dokumentierten über 1.100 Mietstunden mit Daten zum Druckverlust, zu Ventilausfällen, Abrieb und Kundenzufriedenheit. Afarers XHD-Boards mit 15,0 mm verloren in 8 Stunden nur 0,3 PSI – die Konkurrenz im Schnitt 2,1 PSI. Die Afarer-Boards zeigten null Ventilausfälle, während die Konkurrenz im Durchschnitt 1 Ausfall pro 120 Mietstunden hatte.',
+                'Im Mai 2024 schickte OLagoon den Regionalverkaufsleiter Karim Nasr und die Produktentwicklerin Sophie Chen für einen 6-wöchigen Feldtest nach Dubai. Sie setzten 14 Konkurrenz-iSUPs und 6 OLagoon-Prototypen während der Hochsommersaison an allen 3 Standorten ein (48 °C Luft, 35 °C Wasser, UV-Index 11). Ahmeds Mitarbeiter dokumentierten über 1.100 Mietstunden mit Daten zum Druckverlust, zu Ventilausfällen, Abrieb und Kundenzufriedenheit. OLagoons XHD-Boards mit 15,0 mm verloren in 8 Stunden nur 0,3 PSI – die Konkurrenz im Schnitt 2,1 PSI. Die OLagoon-Boards zeigten null Ventilausfälle, während die Konkurrenz im Durchschnitt 1 Ausfall pro 120 Mietstunden hatte.',
             },
             {
               title: 'Individuelle Flottenkonfiguration mit RFID-Tracking und Farbcodierung',
               detail:
-                'Auf Basis der Felddaten empfahl Afarer eine Flottenmischung aus 3 Modellen – 120 „Marina Pro 11.6“ (Allround), 50 „Expedition 12.6“ (Touring für Fujairahs Küste) und 30 „Yoga XL 10.8“ (für von Frauen geleitete Sonnenaufgangskurse). Afarer bettete RFID-Tags in die Finnenbox jedes Boards ein, für Ahmeds individuelles Bestandssystem mit Handscannern. Die Boards wurden nach Standort farbcodiert – Dubai Marina in Petrol, Abu Dhabi in Sand, Fujairah in Ozeanblau. Ahmed verlangte für Afarer-Boards einen Aufpreis von 5 $ pro Stunde gegenüber seiner verbleibenden Standardflotte – und 92 % der Kunden wählten Afarer.',
+                'Auf Basis der Felddaten empfahl OLagoon eine Flottenmischung aus 3 Modellen – 120 „Marina Pro 11.6“ (Allround), 50 „Expedition 12.6“ (Touring für Fujairahs Küste) und 30 „Yoga XL 10.8“ (für von Frauen geleitete Sonnenaufgangskurse). OLagoon bettete RFID-Tags in die Finnenbox jedes Boards ein, für Ahmeds individuelles Bestandssystem mit Handscannern. Die Boards wurden nach Standort farbcodiert – Dubai Marina in Petrol, Abu Dhabi in Sand, Fujairah in Ozeanblau. Ahmed verlangte für OLagoon-Boards einen Aufpreis von 5 $ pro Stunde gegenüber seiner verbleibenden Standardflotte – und 92 % der Kunden wählten OLagoon.',
             },
             {
               title: 'Schulung des Personals und standardisiertes Wartungsprotokoll',
               detail:
-                'Im Juli 2024 führte Afarer an der Dubai Marina ein 3-tägiges Intensivtraining für Ahmeds 15 Mitarbeiter durch. Die Schulung umfasste die richtige Aufblas- und Ablasstechnik zum Schutz der Ventilgewinde, Süßwasserspülprotokolle (zeitlich festgelegt auf 90 Sekunden pro Board), UV-Schutzanwendung alle 30 Mietstunden und Stapelverfahren zur Lagerung gegen Knickstellen. Afarer lieferte ein individuelles Wartungsset mit kalibrierten Manometern, Silikonschmiermittel und UV-Teststreifen. Ahmed führte eine tägliche digitale Checkliste mit Fotos ein – die Einhaltung wurde erfasst und lag in den ersten 6 Monaten im Schnitt bei 94 %.',
+                'Im Juli 2024 führte OLagoon an der Dubai Marina ein 3-tägiges Intensivtraining für Ahmeds 15 Mitarbeiter durch. Die Schulung umfasste die richtige Aufblas- und Ablasstechnik zum Schutz der Ventilgewinde, Süßwasserspülprotokolle (zeitlich festgelegt auf 90 Sekunden pro Board), UV-Schutzanwendung alle 30 Mietstunden und Stapelverfahren zur Lagerung gegen Knickstellen. OLagoon lieferte ein individuelles Wartungsset mit kalibrierten Manometern, Silikonschmiermittel und UV-Teststreifen. Ahmed führte eine tägliche digitale Checkliste mit Fotos ein – die Einhaltung wurde erfasst und lag in den ersten 6 Monaten im Schnitt bei 94 %.',
             },
             {
               title: 'Start im August 2024 und Ergebnisse der ersten Saison',
               detail:
-                'Die Flotte aus 200 Boards kam am 1. August 2024 über Dubais Hafen Jebel Ali an, das Training von Ahmeds Team war abgeschlossen. Der Umsatz des ersten Monats erreichte 487.000 AED (132.600 $) – ein Plus von 210 % gegenüber dem Vorjahresmonat. Der Standort Fujairah ergänzte Schnorchel-SUP-Touren für 220 AED pro Person mit täglich rund 40 Teilnehmern. Bis Dezember 2024 lag die Gesamtflottenauslastung an allen Standorten bei 73 % – der Branchendurchschnitt liegt bei 45 %. Nur 3 Boards erlitten Schäden (alles Fehlbedienung durch Kunden) und wurden innerhalb von je 5 Werktagen unter Afarers kommerzieller Garantie repariert.',
+                'Die Flotte aus 200 Boards kam am 1. August 2024 über Dubais Hafen Jebel Ali an, das Training von Ahmeds Team war abgeschlossen. Der Umsatz des ersten Monats erreichte 487.000 AED (132.600 $) – ein Plus von 210 % gegenüber dem Vorjahresmonat. Der Standort Fujairah ergänzte Schnorchel-SUP-Touren für 220 AED pro Person mit täglich rund 40 Teilnehmern. Bis Dezember 2024 lag die Gesamtflottenauslastung an allen Standorten bei 73 % – der Branchendurchschnitt liegt bei 45 %. Nur 3 Boards erlitten Schäden (alles Fehlbedienung durch Kunden) und wurden innerhalb von je 5 Werktagen unter OLagoons kommerzieller Garantie repariert.',
             },
           ],
           results: [
             'Der monatliche Flottenerlös stieg von 157.000 auf 487.000 AED (132.600 $) – ein Anstieg um 210 % in 6 Monaten',
             'Die jährliche Board-Austauschquote sank von 60 % auf 4,5 % und spart rund 312.000 AED pro Jahr',
-            'Die Kundenzufriedenheit stieg von 3,8/5 (Standardflotte) auf 4,7/5 (Afarer-Flotte); die Google-Bewertungen wuchsen von 187 auf 1.420',
+            'Die Kundenzufriedenheit stieg von 3,8/5 (Standardflotte) auf 4,7/5 (OLagoon-Flotte); die Google-Bewertungen wuchsen von 187 auf 1.420',
             'Ahmed eröffnete im Februar 2025 einen 4. Standort (Ras Al Khaimah) und bestellte 80 weitere Boards',
           ],
         },
@@ -204,26 +204,26 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Inselbewertung und Produktanpassung',
               detail:
-                'Afarers EMEA-Kundenleiter Stefan Berger besuchte im April 2024 gemeinsam mit Dimitri alle 5 Inseln. Jeder Standort hatte andere Bedingungen – Santorins Vulkansand (abrasiv, pH 8,2), die windexponierten Strände von Mykonos (konstante 20-25 Knoten Meltemi), die flachen felsigen Einstiegsstellen von Naxos, die verstärkte Bugs erfordern, die langen Küstenrouten von Paros (8-12 km) und Kretas familienfreundliche, ruhige Buchten. Afarer entwickelte 3 maßgeschneiderte Modelle – das „Med RockShield 11.0“ mit 50 % dickerem Bugstoßschutz (bei 2.000 Schleiftests über Sandstein geprüft), das „Meltemi Pro 10.6“ mit flachem Deck für Windstabilität und das „Family Cruiser 11.6“ mit 275 kg Zuladung für die Nutzung von Eltern und Kindern.',
+                'OLagoons EMEA-Kundenleiter Stefan Berger besuchte im April 2024 gemeinsam mit Dimitri alle 5 Inseln. Jeder Standort hatte andere Bedingungen – Santorins Vulkansand (abrasiv, pH 8,2), die windexponierten Strände von Mykonos (konstante 20-25 Knoten Meltemi), die flachen felsigen Einstiegsstellen von Naxos, die verstärkte Bugs erfordern, die langen Küstenrouten von Paros (8-12 km) und Kretas familienfreundliche, ruhige Buchten. OLagoon entwickelte 3 maßgeschneiderte Modelle – das „Med RockShield 11.0“ mit 50 % dickerem Bugstoßschutz (bei 2.000 Schleiftests über Sandstein geprüft), das „Meltemi Pro 10.6“ mit flachem Deck für Windstabilität und das „Family Cruiser 11.6“ mit 275 kg Zuladung für die Nutzung von Eltern und Kindern.',
             },
             {
               title: 'Kommerzielle Bauweise und modulare Zubehör-Rail',
               detail:
-                'Afarers Fabrik in Xiamen produzierte Boards aus 1.200-Denier-PVC (statt der üblichen 1.000D), doppelt verschweißte Nähte, geprüft bei 14 PSI Berstdruck (Branchenstandard 10 PSI), und Edelstahl-D-Ringe anstelle von kunststoffverschweißten. Jedes Board enthielt Afarers neues „QuickRail“-System – ein extrudiertes Aluminiumprofil, das in die Rail eingearbeitet wird –, mit dem Dimitri GoPro-Halterungen, Trinkflaschenhalter und Rutenhalter einklinken kann. Das steigerte die Zubehöreinnahmen um 12 € pro Board und Tag. Afarer ergänzte reflektierende Logos für bessere Sichtbarkeit – entscheidend, wenn die Hafenpatrouille von Mykonos Wasserfahrzeuge nach Sonnenuntergang reguliert.',
+                'OLagoons Fabrik in Xiamen produzierte Boards aus 1.200-Denier-PVC (statt der üblichen 1.000D), doppelt verschweißte Nähte, geprüft bei 14 PSI Berstdruck (Branchenstandard 10 PSI), und Edelstahl-D-Ringe anstelle von kunststoffverschweißten. Jedes Board enthielt OLagoons neues „QuickRail“-System – ein extrudiertes Aluminiumprofil, das in die Rail eingearbeitet wird –, mit dem Dimitri GoPro-Halterungen, Trinkflaschenhalter und Rutenhalter einklinken kann. Das steigerte die Zubehöreinnahmen um 12 € pro Board und Tag. OLagoon ergänzte reflektierende Logos für bessere Sichtbarkeit – entscheidend, wenn die Hafenpatrouille von Mykonos Wasserfahrzeuge nach Sonnenuntergang reguliert.',
             },
             {
               title: 'Personal-Zertifizierung vor der Saison und Flottenmanagementsystem',
               detail:
-                'Im Mai 2024 schulte Afarer 22 von Dimitris Mitarbeitern auf allen Inseln in einem 2-tägigen Workshop auf Santorin. Die Schulung umfasste die Landetechnik auf Felsen zur Minimierung von Abrieb, das korrekte Aufpumpen auf 14-16 PSI abhängig von der Wassertemperatur (saisonale Schwankung 18-26 °C), die Notfallreparatur im Feld mit PVC-Patches (der Trainer ließ jeden Teilnehmer eine Reparatur in unter 6 Minuten abschließen) und Kundenanpassungsprotokolle für die gewichtsgerechte Boardwahl. Afarer stellte ein digitales Flotten-Dashboard bereit, das Mietstunden, Wartungshistorie und GPS-Standort jedes Boards zeigt. Am Saisonende erledigte das Personal 97 % der Feldreparaturen, ohne Afarer anrufen zu müssen.',
+                'Im Mai 2024 schulte OLagoon 22 von Dimitris Mitarbeitern auf allen Inseln in einem 2-tägigen Workshop auf Santorin. Die Schulung umfasste die Landetechnik auf Felsen zur Minimierung von Abrieb, das korrekte Aufpumpen auf 14-16 PSI abhängig von der Wassertemperatur (saisonale Schwankung 18-26 °C), die Notfallreparatur im Feld mit PVC-Patches (der Trainer ließ jeden Teilnehmer eine Reparatur in unter 6 Minuten abschließen) und Kundenanpassungsprotokolle für die gewichtsgerechte Boardwahl. OLagoon stellte ein digitales Flotten-Dashboard bereit, das Mietstunden, Wartungshistorie und GPS-Standort jedes Boards zeigt. Am Saisonende erledigte das Personal 97 % der Feldreparaturen, ohne OLagoon anrufen zu müssen.',
             },
             {
               title: 'Saison Juni-Oktober 2024 – Start, Ausflüge und ROI',
               detail:
-                'Dimitri startete die neue Flotte am 1. Juni 2024 gleichzeitig auf allen Inseln. Das geführte SUP-Ausflugsprodukt (55 € pro Person für eine 3-stündige Küstenerkundung mit Schnorchelstopp) startete am 15. Juni mit täglich 4 Touren ab Santorins Red Beach und dem Agios Prokopios auf Naxos. Bis August erreichten die Ausflugsbuchungen 2.100 pro Woche über alle Inseln. Der Gesamtumsatz der Saison (Juni-Oktober) betrug 2,85 Mio. € – 137 % mehr als die 1,2 Mio. € im Jahr 2023. Die Board-Reparaturkosten sanken von 22.000 € auf 2.800 €. Nur 4 Boards wurden abgeschrieben (alle durch Kunden verursacht und irreparabel). Am Saisonende bestellte Dimitri 100 weitere Boards für die Saison 2025 und bat Afarer um die Entwicklung eines Pedal-Anbaukits für SUPs.',
+                'Dimitri startete die neue Flotte am 1. Juni 2024 gleichzeitig auf allen Inseln. Das geführte SUP-Ausflugsprodukt (55 € pro Person für eine 3-stündige Küstenerkundung mit Schnorchelstopp) startete am 15. Juni mit täglich 4 Touren ab Santorins Red Beach und dem Agios Prokopios auf Naxos. Bis August erreichten die Ausflugsbuchungen 2.100 pro Woche über alle Inseln. Der Gesamtumsatz der Saison (Juni-Oktober) betrug 2,85 Mio. € – 137 % mehr als die 1,2 Mio. € im Jahr 2023. Die Board-Reparaturkosten sanken von 22.000 € auf 2.800 €. Nur 4 Boards wurden abgeschrieben (alle durch Kunden verursacht und irreparabel). Am Saisonende bestellte Dimitri 100 weitere Boards für die Saison 2025 und bat OLagoon um die Entwicklung eines Pedal-Anbaukits für SUPs.',
             },
           ],
           results: [
-            'Der Saisonumsatz stieg im ersten Jahr mit Afarer um 137 % von 1,2 Mio. € auf 2,85 Mio. €',
+            'Der Saisonumsatz stieg im ersten Jahr mit OLagoon um 137 % von 1,2 Mio. € auf 2,85 Mio. €',
             'Die Board-Reparaturkosten sanken von 22.000 € auf 2.800 € – eine Verringerung um 87 %, die 19.200 € spart',
             'Nur 4 von 200 Boards wurden abgeschrieben (2 % jährlicher Verlust gegenüber 35 % mit der bisherigen Flotte); prognostizierte Lebensdauer von 4 bis 5 Saisons',
             'Das geführte Ausflugsprodukt erwirtschaftete in der ersten Saison 843.000 € mit 87 % Gewinnmarge; 4,9/5 auf TripAdvisor',
@@ -231,8 +231,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Paddle Clubs Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Paddle Clubs OLagoon wählen',
       items: [
         {
           title: 'Geschäftsbetrieb',
@@ -242,7 +242,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Kommerzielle Haltbarkeit',
           description:
-            'Afarer-Produkte sind für die tägliche professionelle Nutzung ausgelegt – mit verstärkter Konstruktion, stärkeren Materialien und strengen Tests.',
+            'OLagoon-Produkte sind für die tägliche professionelle Nutzung ausgelegt – mit verstärkter Konstruktion, stärkeren Materialien und strengen Tests.',
         },
         {
           title: 'Flottenmanagement',
@@ -252,15 +252,15 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Langfristige Partnerschaft',
           description:
-            'Afarer unterstützt Ihr Geschäftswachstum mit Ersatzteilen, Wartungsanleitung und Erweiterungsplanung über den ursprünglichen Kauf hinaus.',
+            'OLagoon unterstützt Ihr Geschäftswachstum mit Ersatzteilen, Wartungsanleitung und Erweiterungsplanung über den ursprünglichen Kauf hinaus.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Was macht Afarer-SUP-Boards für kommerzielle Paddle Clubs geeignet?',
+        question: 'Was macht OLagoon-SUP-Boards für kommerzielle Paddle Clubs geeignet?',
         answer:
-          'Afarers kommerzielle SUP-Boards verfügen über verstärkte PVC-Konstruktion, mehrlagige Rail-Verstärkung, hochdichte Drop-Stitch-Struktur und robuste Ventilsysteme, die speziell für die tägliche hochfrequente Nutzung in Verleih- und Trainingsumgebungen entwickelt wurden.',
+          'OLagoons kommerzielle SUP-Boards verfügen über verstärkte PVC-Konstruktion, mehrlagige Rail-Verstärkung, hochdichte Drop-Stitch-Struktur und robuste Ventilsysteme, die speziell für die tägliche hochfrequente Nutzung in Verleih- und Trainingsumgebungen entwickelt wurden.',
       },
       {
         question: 'Worin unterscheidet sich Consumer-Ausrüstung von kommerzieller SUP-Ausrüstung?',
@@ -268,30 +268,30 @@ const de: Record<string, SolutionOverride> = {
           'Kommerzielle SUP-Boards nutzen stärkere Materialien, verstärkte Konstruktion und haltbarere Komponenten, um der täglichen Nutzung durch wechselnde Nutzer standzuhalten. Consumer-Boards sind für gelegentliche Freizeitnutzung ausgelegt und verschleißen unter kommerziellen Bedingungen schnell.',
       },
       {
-        question: 'Kann Afarer SUP-Boards mit dem Logo und den Farben meines Clubs anpassen?',
+        question: 'Kann OLagoon SUP-Boards mit dem Logo und den Farben meines Clubs anpassen?',
         answer:
-          'Ja, Afarer bietet eine vollständige Flottenanpassung inklusive Logoplatzierung, Markenfarben, Board-Nummerierungssystemen, Modellkennzeichnung und Markierungen für Instruktoren-Boards für ein einheitliches und professionelles Flottenbild.',
+          'Ja, OLagoon bietet eine vollständige Flottenanpassung inklusive Logoplatzierung, Markenfarben, Board-Nummerierungssystemen, Modellkennzeichnung und Markierungen für Instruktoren-Boards für ein einheitliches und professionelles Flottenbild.',
       },
       {
-        question: 'Wie lang ist die typische Lebensdauer eines kommerziellen SUP-Boards von Afarer?',
+        question: 'Wie lang ist die typische Lebensdauer eines kommerziellen SUP-Boards von OLagoon?',
         answer:
-          'Bei richtiger Wartung überdauern Afarers kommerzielle SUP-Boards Consumer-Produkte deutlich, was die Austauschhäufigkeit und die Gesamtbetriebskosten senkt. Die genaue Lebensdauer hängt von der Nutzungsintensität und den Wartungspraktiken ab.',
+          'Bei richtiger Wartung überdauern OLagoons kommerzielle SUP-Boards Consumer-Produkte deutlich, was die Austauschhäufigkeit und die Gesamtbetriebskosten senkt. Die genaue Lebensdauer hängt von der Nutzungsintensität und den Wartungspraktiken ab.',
       },
       {
         question: 'Bieten Sie Ersatzteile und Wartungssupport für Flottenbetreiber?',
         answer:
-          'Ja, Afarer bietet umfassenden After-Sales-Support inklusive Ersatzteilplanung, Reparaturmaterial, Austausch-Zubehör, Wartungsanleitung, Lagerungsempfehlungen und Reinigungshinweisen.',
+          'Ja, OLagoon bietet umfassenden After-Sales-Support inklusive Ersatzteilplanung, Reparaturmaterial, Austausch-Zubehör, Wartungsanleitung, Lagerungsempfehlungen und Reinigungshinweisen.',
       },
       {
-        question: 'Welche Flottengrößen kann Afarer für Paddle Clubs unterstützen?',
+        question: 'Welche Flottengrößen kann OLagoon für Paddle Clubs unterstützen?',
         answer:
-          'Afarer unterstützt Flotten aller Größen – von kleinen Clubs mit 10-30 Boards bis zu großen Betrieben mit über 100 Boards. Wir bieten Mengenkauf-Lösungen, gleichbleibende Produktqualität und Erweiterungssupport für das Wachstum Ihres Geschäfts.',
+          'OLagoon unterstützt Flotten aller Größen – von kleinen Clubs mit 10-30 Boards bis zu großen Betrieben mit über 100 Boards. Wir bieten Mengenkauf-Lösungen, gleichbleibende Produktqualität und Erweiterungssupport für das Wachstum Ihres Geschäfts.',
       },
     ],
     cta: {
-      title: 'Bauen Sie Ihre kommerzielle SUP-Flotte mit Afarer',
+      title: 'Bauen Sie Ihre kommerzielle SUP-Flotte mit OLagoon',
       subtitle:
-        'Ihre Ausrüstung ist das Fundament Ihres Geschäfts. Wählen Sie Produkte, die jeden Tag zuverlässig funktionieren. Afarer hilft Paddle Clubs, SUP-Schulen, Verleihbetreibern und Resorts beim Aufbau professioneller SUP-Flotten mit verlässlicher Fertigungsunterstützung.',
+        'Ihre Ausrüstung ist das Fundament Ihres Geschäfts. Wählen Sie Produkte, die jeden Tag zuverlässig funktionieren. OLagoon hilft Paddle Clubs, SUP-Schulen, Verleihbetreibern und Resorts beim Aufbau professioneller SUP-Flotten mit verlässlicher Fertigungsunterstützung.',
       primaryAction: {
         text: 'Starten Sie heute Ihr kommerzielles SUP-Projekt',
       },
@@ -305,7 +305,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP-Flottenlieferant für kommerzielle Wasserparks | {SITE}',
       description:
-        'Afarer bietet kommerzielle SUP-Flottenlösungen für Wasser- und Themenparks. Hochgradig robuste Paddleboards, einsteigerfreundliche Designs, sicherheitsorientierte Konstruktion und Großserien-OEM-Lieferung.',
+        'OLagoon bietet kommerzielle SUP-Flottenlösungen für Wasser- und Themenparks. Hochgradig robuste Paddleboards, einsteigerfreundliche Designs, sicherheitsorientierte Konstruktion und Großserien-OEM-Lieferung.',
     },
     hero: {
       tagline: 'High-Throughput-SUP-Lösungen für Wasserparks, Themenparks & große Freizeiteinrichtungen',
@@ -352,12 +352,12 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Sicherheitsorientierte Konstruktion',
           description:
-            'Afarer unterstützt produktentwicklung mit Sicherheitsfokus. Die schützende Kantenkonstruktion mit verstärktem Seitenschutz und weicheren Aufprallzonen mindert die Aufprallwirkung bei Kollisionen. Das vollflächige EVA-Sicherheitsdeck bietet eine rutschfeste Oberfläche und eine komfortable Standfläche. Abgerundete einsteigerfreundliche Formen reduzieren scharfe Kanten und schwierige Handhabung.',
+            'OLagoon unterstützt produktentwicklung mit Sicherheitsfokus. Die schützende Kantenkonstruktion mit verstärktem Seitenschutz und weicheren Aufprallzonen mindert die Aufprallwirkung bei Kollisionen. Das vollflächige EVA-Sicherheitsdeck bietet eine rutschfeste Oberfläche und eine komfortable Standfläche. Abgerundete einsteigerfreundliche Formen reduzieren scharfe Kanten und schwierige Handhabung.',
         },
         {
           title: 'Flottenplanung für hohen Durchsatz',
           description:
-            'Afarer hilft den Parks, die richtige Flottengröße zu wählen. Kleine Aktivitätszonen (100-300 Boards) für Wasserbereiche in Resorts, mittlere Freizeitparks (300-600 Boards) für regionale Wasserparks und große Themenpark-Operationen (600-1000+ Boards) für große Unterhaltungsgruppen und Multizonen-Attraktionen.',
+            'OLagoon hilft den Parks, die richtige Flottengröße zu wählen. Kleine Aktivitätszonen (100-300 Boards) für Wasserbereiche in Resorts, mittlere Freizeitparks (300-600 Boards) für regionale Wasserparks und große Themenpark-Operationen (600-1000+ Boards) für große Unterhaltungsgruppen und Multizonen-Attraktionen.',
         },
         {
           title: 'Vollständiges Wasserpark-Ausrüstungspaket',
@@ -398,7 +398,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Kommerzielle Flottenplanung',
           detail:
-            'Afarer gestaltete ein SUP-Aktivitätssystem für den Wasserpark – inklusive stabiler Einsteiger-Boards, kommerziellem Zubehör und Ersatzteilen.',
+            'OLagoon gestaltete ein SUP-Aktivitätssystem für den Wasserpark – inklusive stabiler Einsteiger-Boards, kommerziellem Zubehör und Ersatzteilen.',
         },
         {
           title: 'Sicherheitsanpassung',
@@ -435,17 +435,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Phase 1: Zero-Draft-SUP-Auswahl & modulares Hindernisdesign',
               detail:
-                'Im Januar 2025 prüfte Delgado 7 Anbieter aufblasbarer SUPs. 4 lehnte er wegen Aufblaszyklen von über 6 Minuten ab, 2 weitere wegen Delamination im UV-Test. Er wählte den Afarer Explorer 11\'6" X (34" Breite, 6" Dicke, 320 l Volumen) wegen seiner maximalen Steifigkeit bei 15 PSI und des 5-Minuten-Zyklus vom vollständigen Entleeren bis zum Verstauen. Mit Afarers OEM-Team ergänzte er 4 integrierte D-Ring-Montagepunkte pro Board für aufsteckbare Hindernismodule – Balancebalken, schwimmende Hürden und Durchkriech-Bögen – über ein individuelles Rail-Mount-System, das auf 220 lbs Seitenkraft getestet wurde.',
+                'Im Januar 2025 prüfte Delgado 7 Anbieter aufblasbarer SUPs. 4 lehnte er wegen Aufblaszyklen von über 6 Minuten ab, 2 weitere wegen Delamination im UV-Test. Er wählte den OLagoon Explorer 11\'6" X (34" Breite, 6" Dicke, 320 l Volumen) wegen seiner maximalen Steifigkeit bei 15 PSI und des 5-Minuten-Zyklus vom vollständigen Entleeren bis zum Verstauen. Mit OLagoons OEM-Team ergänzte er 4 integrierte D-Ring-Montagepunkte pro Board für aufsteckbare Hindernismodule – Balancebalken, schwimmende Hürden und Durchkriech-Bögen – über ein individuelles Rail-Mount-System, das auf 220 lbs Seitenkraft getestet wurde.',
             },
             {
               title: 'Phase 2: Hindernisbahn-Layout & Einhaltung der Wassertiefe',
               detail:
-                'Über 6 Wochen hinweg gestalteten Delgado und seine leitende Wasserbau-Ingenieurin Sarah Kim 3 Bahnkonfigurationen für unterschiedliche Beckentiefen (3,5 ft bis 5,5 ft). Mit Afarers CAD-Dateien modellierten sie den Boardabstand in 8-ft-Intervallen und schufen 150-ft-Slalomstrecken. Jede Bahn benötigte 16 Boards plus 4 Ersatzboards pro Park. Kim erhielt die TDLR-Zulassung für Fahrgeschäfte durch die Integration von Scherbolzen-Steckverbindungen an allen Hindernisbefestigungen – keine Komponente überschritt 15 lbs Abruchkraft.',
+                'Über 6 Wochen hinweg gestalteten Delgado und seine leitende Wasserbau-Ingenieurin Sarah Kim 3 Bahnkonfigurationen für unterschiedliche Beckentiefen (3,5 ft bis 5,5 ft). Mit OLagoons CAD-Dateien modellierten sie den Boardabstand in 8-ft-Intervallen und schufen 150-ft-Slalomstrecken. Jede Bahn benötigte 16 Boards plus 4 Ersatzboards pro Park. Kim erhielt die TDLR-Zulassung für Fahrgeschäfte durch die Integration von Scherbolzen-Steckverbindungen an allen Hindernisbefestigungen – keine Komponente überschritt 15 lbs Abruchkraft.',
             },
             {
               title: 'Phase 3: Rettungsschwimmer-SUP-Zertifizierung & Schnellreaktions-Drills',
               detail:
-                'Im März 2025 führte Afarers Schulungsteam im Red-Oak-Flagship-Park eine 3-tägige Zertifizierung vor Ort für 24 Rettungsschwimmer durch. Die Schulung umfasste Rettungstechniken mit dem SUP, Notfall-Abstiege und das Management von Besucherströmen. Delgado implementierte ein 15-minütiges Rotationssystem – 12-Minuten-SUP-Session plus 3-Minuten-Boardwechsel. Jeder Park ergänzte eine 40-ft-Staging-Zone mit 50 wandmontierten Boardgestellen von Paddletek. Die Abschlussquote der Rettungsschwimmer-Zertifizierung lag bei 100 % mit einem schriftlichen Prüfungsschnitt von 94 %.',
+                'Im März 2025 führte OLagoons Schulungsteam im Red-Oak-Flagship-Park eine 3-tägige Zertifizierung vor Ort für 24 Rettungsschwimmer durch. Die Schulung umfasste Rettungstechniken mit dem SUP, Notfall-Abstiege und das Management von Besucherströmen. Delgado implementierte ein 15-minütiges Rotationssystem – 12-Minuten-SUP-Session plus 3-Minuten-Boardwechsel. Jeder Park ergänzte eine 40-ft-Staging-Zone mit 50 wandmontierten Boardgestellen von Paddletek. Die Abschlussquote der Rettungsschwimmer-Zertifizierung lag bei 100 % mit einem schriftlichen Prüfungsschnitt von 94 %.',
             },
             {
               title: 'Phase 4: Memorial-Day-Launch & Saison-Performance',
@@ -473,7 +473,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: SUP-Auswahl nach Schamhaftigkeit, Stabilität & Hitzebeständigkeit',
               detail:
-                'Im November 2024 testete Al Falasi 9 SUP-Modelle von 5 Marken. Nur Afarers Explorer 10\'8" X (33" x 6" x 320 l) bestand den 48-stündigen Heizkammertest bei 50 °C ohne Materialschäden. Sie bestellte 120 Boards in zwei Farbvarianten (Sanddünen-Beige und Ozean-Türkis), passend zur Ästhetik von La Mer. Jedes Board erhielt ein individuell gefertigtes, abnehmbares Beschattungssystem – ein Carbonfaser-Bogen mit UPF-50+-Stoff –, das Afarers Ingenieurteam über 3 Prototyp-Iterationen entwickelte. Die Beschattungen erhöhten das Gewicht um 1,2 kg, blieben aber innerhalb von 0,5° Krängung stabil.',
+                'Im November 2024 testete Al Falasi 9 SUP-Modelle von 5 Marken. Nur OLagoons Explorer 10\'8" X (33" x 6" x 320 l) bestand den 48-stündigen Heizkammertest bei 50 °C ohne Materialschäden. Sie bestellte 120 Boards in zwei Farbvarianten (Sanddünen-Beige und Ozean-Türkis), passend zur Ästhetik von La Mer. Jedes Board erhielt ein individuell gefertigtes, abnehmbares Beschattungssystem – ein Carbonfaser-Bogen mit UPF-50+-Stoff –, das OLagoons Ingenieurteam über 3 Prototyp-Iterationen entwickelte. Die Beschattungen erhöhten das Gewicht um 1,2 kg, blieben aber innerhalb von 0,5° Krängung stabil.',
             },
             {
               title: 'Schritt 2: Lagunenzonung, Privatsphäre & nach Geschlechtern getrennte Zeitplanung',
@@ -483,7 +483,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 3: Rekrutierung von SUP-Trainerinnen & kulturelle Schulung',
               detail:
-                'AquaFun startete im Januar 2025 eine gezielte Rekrutierungskampagne und stellte 12 SUP-Trainerinnen (8 Emiratinnen, 4 Expatinnen) sowie 6 Trainer ein. Afarer lieferte eine individuell angepasste 5-tägige SUP-Guide-Zertifizierung mit kultureller Sensibilität – mit arabischer Terminologie für Paddelkommandos, schamhaft-konformen Rettungstechniken (Bergungen von Board zu Board ohne Körperkontakt) und Strategien für das Tempo von Familiengruppen. Alle 18 Trainer bestanden bis zum 20. Februar die IRF-Level-1-äquivalente Prüfung. Die Schulung kostete 28.000 $ und wurde gemeinsam durch den Produktinnovations-Zuschuss von Dubai Tourism finanziert.',
+                'AquaFun startete im Januar 2025 eine gezielte Rekrutierungskampagne und stellte 12 SUP-Trainerinnen (8 Emiratinnen, 4 Expatinnen) sowie 6 Trainer ein. OLagoon lieferte eine individuell angepasste 5-tägige SUP-Guide-Zertifizierung mit kultureller Sensibilität – mit arabischer Terminologie für Paddelkommandos, schamhaft-konformen Rettungstechniken (Bergungen von Board zu Board ohne Körperkontakt) und Strategien für das Tempo von Familiengruppen. Alle 18 Trainer bestanden bis zum 20. Februar die IRF-Level-1-äquivalente Prüfung. Die Schulung kostete 28.000 $ und wurde gemeinsam durch den Produktinnovations-Zuschuss von Dubai Tourism finanziert.',
             },
             {
               title: 'Schritt 4: Ramadan-angepasster Soft-Launch & laufender Betrieb',
@@ -500,28 +500,28 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Wasserparks Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Wasserparks OLagoon wählen',
       items: [
         {
           title: 'Betrieb mit hohem Besucheraufkommen',
           description:
-            'Ausrüstung muss die tägliche kommerzielle Nutzung überstehen. Afarer konstruiert für den kontinuierlichen Betrieb mit hohem Aufkommen – mit langlebiger Bauweise.',
+            'Ausrüstung muss die tägliche kommerzielle Nutzung überstehen. OLagoon konstruiert für den kontinuierlichen Betrieb mit hohem Aufkommen – mit langlebiger Bauweise.',
         },
         {
           title: 'Sicherheitsanforderungen',
           description:
-            'Gäste brauchen Vertrauen und Schutz. Afarer stellt in jedem Produktdesign die Sicherheit in den Vordergrund – mit einsteigerfreundlichen Merkmalen.',
+            'Gäste brauchen Vertrauen und Schutz. OLagoon stellt in jedem Produktdesign die Sicherheit in den Vordergrund – mit einsteigerfreundlichen Merkmalen.',
         },
         {
           title: 'Flottenmanagement',
           description:
-            'Große Projekte brauchen vollständige Systeme. Afarer bietet End-to-End-Flottenplanung, Mengenempfehlungen und Support.',
+            'Große Projekte brauchen vollständige Systeme. OLagoon bietet End-to-End-Flottenplanung, Mengenempfehlungen und Support.',
         },
         {
           title: 'Langfristige Zuverlässigkeit',
           description:
-            'Attraktionen hängen von stabilem Betrieb ab. Afarer sichert langlebige Produkte und zuverlässige Lieferung für Jahre durchgehender Nutzung.',
+            'Attraktionen hängen von stabilem Betrieb ab. OLagoon sichert langlebige Produkte und zuverlässige Lieferung für Jahre durchgehender Nutzung.',
         },
       ],
     },
@@ -529,36 +529,36 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Welche Flottengröße wird für eine SUP-Attraktion im Wasserpark empfohlen?',
         answer:
-          'Afarer empfiehlt 100-300 Boards für kleine Aktivitätszonen und Wasserbereiche in Resorts, 300-600 Boards für regionale Wasserparks und Reiseziele sowie 600-1000+ Boards für große Themenparks und Multizonen-Attraktionen.',
+          'OLagoon empfiehlt 100-300 Boards für kleine Aktivitätszonen und Wasserbereiche in Resorts, 300-600 Boards für regionale Wasserparks und Reiseziele sowie 600-1000+ Boards für große Themenparks und Multizonen-Attraktionen.',
       },
       {
         question: 'Wie langlebig sind kommerzielle SUP-Boards für die tägliche Nutzung im Wasserpark?',
         answer:
-          'Afarers kommerzielle SUP-Boards sind für den Betrieb mit hohem Besucheraufkommen konstruiert – mit verstärkter PVC-Bauweise, langlebigen Nähten und Zubehör in Kommerzialqualität. Sie halten durchgehender täglicher Nutzung, häufigen Anfängerfehlern und wiederholten Stößen stand, die Produkte in Verbraucherqualität beschädigen würden.',
+          'OLagoons kommerzielle SUP-Boards sind für den Betrieb mit hohem Besucheraufkommen konstruiert – mit verstärkter PVC-Bauweise, langlebigen Nähten und Zubehör in Kommerzialqualität. Sie halten durchgehender täglicher Nutzung, häufigen Anfängerfehlern und wiederholten Stößen stand, die Produkte in Verbraucherqualität beschädigen würden.',
       },
       {
         question: 'Können SUP-Boards mit dem Branding meines Wasserparks individualisiert werden?',
         answer:
-          'Ja, Afarer unterstützt vollständige Individualisierung inklusive Park-Logos, Charaktergrafiken, individuellen Farben und der Integration von Attraktionsthemen. Individuelles Branding macht aus der SUP-Ausrüstung fotogene Attraktionen, die Präsenz in sozialen Medien erzeugen.',
+          'Ja, OLagoon unterstützt vollständige Individualisierung inklusive Park-Logos, Charaktergrafiken, individuellen Farben und der Integration von Attraktionsthemen. Individuelles Branding macht aus der SUP-Ausrüstung fotogene Attraktionen, die Präsenz in sozialen Medien erzeugen.',
       },
       {
-        question: 'Welche Sicherheitsmerkmale bieten Afarers kommerzielle SUP-Boards?',
+        question: 'Welche Sicherheitsmerkmale bieten OLagoons kommerzielle SUP-Boards?',
         answer:
-          'Afarer-Boards bieten schützende Kantenkonstruktion, vollflächiges EVA-Rutsch-Sicherheitsdeck, Struktur mit hohem Auftrieb, abgerundete einsteigerfreundliche Formen und verstärkten Seitenschutz. Diese Merkmale minimieren die Aufprallwirkung bei Kollisionen und gewährleisten sicheren Betrieb für Erstanwender.',
+          'OLagoon-Boards bieten schützende Kantenkonstruktion, vollflächiges EVA-Rutsch-Sicherheitsdeck, Struktur mit hohem Auftrieb, abgerundete einsteigerfreundliche Formen und verstärkten Seitenschutz. Diese Merkmale minimieren die Aufprallwirkung bei Kollisionen und gewährleisten sicheren Betrieb für Erstanwender.',
       },
       {
-        question: 'Wie unterstützt Afarer Wartung und Ersatz für große Flotten?',
+        question: 'Wie unterstützt OLagoon Wartung und Ersatz für große Flotten?',
         answer:
-          'Afarer bietet standardisierte Komponenten für einfacheren Austausch, Reparaturmaterial und -anleitung, Flotteninspektionssysteme für tägliche Kontrollen und Verfügbarkeit von Ersatzteilen. Zusätzlich gibt es jährliche Lieferprogramme für den saisonalen Ersatz und Flotten-Upgrades.',
+          'OLagoon bietet standardisierte Komponenten für einfacheren Austausch, Reparaturmaterial und -anleitung, Flotteninspektionssysteme für tägliche Kontrollen und Verfügbarkeit von Ersatzteilen. Zusätzlich gibt es jährliche Lieferprogramme für den saisonalen Ersatz und Flotten-Upgrades.',
       },
       {
         question: 'Wie lange ist die typische Vorlaufzeit für eine SUP-Flottenbestellung in großem Maßstab?',
         answer:
-          'Die Vorlaufzeiten variieren je nach Bestellgröße und Individualisierungsaufwand. Afarer arbeitet eng mit jedem Kunden an Produktionsplänen – von Pilotprojekten mit 100-500 Sets bis zu Großinstallationen von 500-1000+ Sets – und gewährleistet termingerechte Lieferung für saisonale Eröffnungen.',
+          'Die Vorlaufzeiten variieren je nach Bestellgröße und Individualisierungsaufwand. OLagoon arbeitet eng mit jedem Kunden an Produktionsplänen – von Pilotprojekten mit 100-500 Sets bis zu Großinstallationen von 500-1000+ Sets – und gewährleistet termingerechte Lieferung für saisonale Eröffnungen.',
       },
     ],
     cta: {
-      title: 'Bauen Sie Ihre Wasserpark-SUP-Attraktion mit Afarer',
+      title: 'Bauen Sie Ihre Wasserpark-SUP-Attraktion mit OLagoon',
       subtitle:
         'Schaffen Sie mehr als eine Wasseraktivität. Schaffen Sie ein unvergessliches Gästerlebnis, das Besucher wiederkommen lässt.',
       primaryAction: {
@@ -574,7 +574,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Kommerzieller SUP-Ausrüstungslieferant | Strand-Verleih-Flottenlösungen | {SITE}',
       description:
-        'Afarer bietet kommerzielle SUP-Flottenlösungen für Strandfreizeitbetriebe und Wassersportzentren. Robuste Verleih-Paddleboards, komplette Ausrüstungspakete, Ersatzteilsupport und OEM-Anpassung.',
+        'OLagoon bietet kommerzielle SUP-Flottenlösungen für Strandfreizeitbetriebe und Wassersportzentren. Robuste Verleih-Paddleboards, komplette Ausrüstungspakete, Ersatzteilsupport und OEM-Anpassung.',
     },
     hero: {
       tagline: 'Complete Beach Activity Equipment Solutions™',
@@ -615,49 +615,49 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'SUP-Flottendesign in Kommerzialqualität',
           description:
-            'Afarer entwickelt SUP-Produkte speziell für kommerzielle Umgebungen – mit verstärkter PVC-Konstruktion, starker Nahttechnik, robusten EVA-Decksystemen und Zubehör in Kommerzialqualität inklusive langlebiger Paddel und Pumpen.',
+            'OLagoon entwickelt SUP-Produkte speziell für kommerzielle Umgebungen – mit verstärkter PVC-Konstruktion, starker Nahttechnik, robusten EVA-Decksystemen und Zubehör in Kommerzialqualität inklusive langlebiger Paddel und Pumpen.',
           features: ['Verstärkte Konstruktion', 'Robustes EVA-Decksystem', 'Kommerzielles Zubehör'],
         },
         {
           title: 'Vollständige Vermietungsflotten-Planung',
           description:
-            'Afarer hilft, die richtige Ausrüstungsmischung zu wählen – mit stabilen Allround-SUPs für Strandvermietungsflotten, Flotten für Wassersportzentren mit mehreren Größen und Trainer-Boards sowie Resort-Aktivitätsflotten mit gebrandeter Premium-Ausrüstung.',
+            'OLagoon hilft, die richtige Ausrüstungsmischung zu wählen – mit stabilen Allround-SUPs für Strandvermietungsflotten, Flotten für Wassersportzentren mit mehreren Größen und Trainer-Boards sowie Resort-Aktivitätsflotten mit gebrandeter Premium-Ausrüstung.',
           features: ['Strand-Vermietungsflotte', 'Wassersportzentren-Flotte', 'Resort-Aktivitätsflotte'],
         },
         {
           title: 'Hochdurable Vermietungs-SUP-Konfiguration',
           description:
-            'Afarer optimiert die Produkte für Kratzfestigkeit gegen Strandsand und häufige Handhabung, einfache Reparatur mit Reparatursets und standardisierten Komponenten sowie lange Lebensdauer für eine maximale Ausrüstungs-ROI.',
+            'OLagoon optimiert die Produkte für Kratzfestigkeit gegen Strandsand und häufige Handhabung, einfache Reparatur mit Reparatursets und standardisierten Komponenten sowie lange Lebensdauer für eine maximale Ausrüstungs-ROI.',
           features: ['Kratzfestigkeit', 'Einfache Reparatur', 'Lange Lebensdauer'],
         },
         {
           title: 'Standardisiertes Ersatzteilsystem',
           description:
-            'Afarer unterstützt kommerzielle Betreiber mit Ersatzzubehör inklusive Ventilen, Leashes, Paddeln, Pumpen und Reparaturmaterial sowie Flottenwartungsplanung für tägliche Kontrolle und saisonale Wartung.',
+            'OLagoon unterstützt kommerzielle Betreiber mit Ersatzzubehör inklusive Ventilen, Leashes, Paddeln, Pumpen und Reparaturmaterial sowie Flottenwartungsplanung für tägliche Kontrolle und saisonale Wartung.',
           features: ['Ersatzzubehör', 'Flottenwartungsplanung', 'Schnelle Wiederherstellung'],
         },
         {
           title: 'Vollständige Strandaktivitäts-Pakete',
           description:
-            'Afarer bietet SUP-Vermietungspakete mit Kommercial-Boards und Zubehör, Familien-Wasseraktivitäts-Pakete für Resorts und Touristengebiete sowie Gruppen-Event-Pakete für Firmen- und Schulaktivitäten.',
+            'OLagoon bietet SUP-Vermietungspakete mit Kommercial-Boards und Zubehör, Familien-Wasseraktivitäts-Pakete für Resorts und Touristengebiete sowie Gruppen-Event-Pakete für Firmen- und Schulaktivitäten.',
           features: ['SUP-Vermietungspaket', 'Familien-Wasseraktivitäts-Paket', 'Gruppen-Event-Paket'],
         },
         {
           title: 'Branding & geschäftliche Individualisierung',
           description:
-            'Afarer unterstützt individuelles Betreiber-Branding mit Logodruck und Farben, Tourismus-Erlebnisdesign mit gebrandeten Aktivitäten und Fotogelegenheiten sowie die Integration in Resorts und Strände passend zur Identität des Reiseziels.',
+            'OLagoon unterstützt individuelles Betreiber-Branding mit Logodruck und Farben, Tourismus-Erlebnisdesign mit gebrandeten Aktivitäten und Fotogelegenheiten sowie die Integration in Resorts und Strände passend zur Identität des Reiseziels.',
           features: ['Individuelles Betreiber-Branding', 'Tourismus-Erlebnisdesign', 'Resort- & Strand-Integration'],
         },
         {
           title: 'Sicherheits- & einsteigerfreundliches Design',
           description:
-            'Afarer setzt den Fokus auf Stabilitätsdesign mit breiteren Boardformen für Touristen und Familien sowie einfache Handhabung, mit der Erstpaddler das Erlebnis schnell, sicher und mit Vertrauen genießen können.',
+            'OLagoon setzt den Fokus auf Stabilitätsdesign mit breiteren Boardformen für Touristen und Familien sowie einfache Handhabung, mit der Erstpaddler das Erlebnis schnell, sicher und mit Vertrauen genießen können.',
           features: ['Stabilitätsdesign', 'Einfache Handhabung', 'Einsteigerfreundliche Performance'],
         },
         {
           title: 'Beschaffungssupport für saisonale Unternehmen',
           description:
-            'Afarer hilft Betreibern bei der Planung vor der Saison mit Flottenauswahl und Produktionsterminen, beim saisonalen Ersatz mit zusätzlicher Ausrüstung und Ersatzteilen sowie beim langfristigen Flottenwachstum von kleinen Betrieben bis zu großen Zentren.',
+            'OLagoon hilft Betreibern bei der Planung vor der Saison mit Flottenauswahl und Produktionsterminen, beim saisonalen Ersatz mit zusätzlicher Ausrüstung und Ersatzteilen sowie beim langfristigen Flottenwachstum von kleinen Betrieben bis zu großen Zentren.',
           features: ['Planung vor der Saison', 'Saisonaler Ersatz', 'Langfristiges Flottenwachstum'],
         },
       ],
@@ -674,7 +674,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Flottenplanung',
           detail:
-            'Afarer stellte ein kommerzielles SUP-Ausrüstungspaket zusammen – inklusive stabiler Allround-Boards, robustem Zubehör und Ersatzteilen, zugeschnitten auf die Strandumgebung des Betreibers.',
+            'OLagoon stellte ein kommerzielles SUP-Ausrüstungspaket zusammen – inklusive stabiler Allround-Boards, robustem Zubehör und Ersatzteilen, zugeschnitten auf die Strandumgebung des Betreibers.',
         },
         {
           title: 'Produktindividualisierung',
@@ -711,27 +711,27 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Umfassende Resort-Analyse & Ausrüstungsspezifikation',
               detail:
-                'Im September 2024 führten Carlos und Afarers Hospitality-Solutions-Team über 5 Tage eine Vor-Ort-Analyse in allen 3 Anlagen durch. Sie untersuchten Gästedemografie, Nutzungsspitzen, Lagerbedingungen, Personalstärke und Salzwasserbedingungen. Die Analyse zeigte, dass jährlich über 60 Gasttage durch Ausrüstungsausfälle verloren gingen und bestehende Boards unter der karibischen Sonne und dem Salz nur 8-12 Monate hielten, bevor sie verfielen. Afarer schlug eine 140-Einheiten-Flotte vor – 100 SUPs (10\'6" Allround), 20 Paddleboards mit transparentem Boden für Riffbeobachtungen, 20 Pedal-Boards und 10 Tandem-Fishing-SUPs. Jedes Board hatte UV-stabilisiertes Marine-PVC mit 5-jähriger Commercial-Garantie, Edelstahl-Beschläge und Hyatt-Ziva-gebrandete Grafiken im markentypischen Türkis und Weiß.',
+                'Im September 2024 führten Carlos und OLagoons Hospitality-Solutions-Team über 5 Tage eine Vor-Ort-Analyse in allen 3 Anlagen durch. Sie untersuchten Gästedemografie, Nutzungsspitzen, Lagerbedingungen, Personalstärke und Salzwasserbedingungen. Die Analyse zeigte, dass jährlich über 60 Gasttage durch Ausrüstungsausfälle verloren gingen und bestehende Boards unter der karibischen Sonne und dem Salz nur 8-12 Monate hielten, bevor sie verfielen. OLagoon schlug eine 140-Einheiten-Flotte vor – 100 SUPs (10\'6" Allround), 20 Paddleboards mit transparentem Boden für Riffbeobachtungen, 20 Pedal-Boards und 10 Tandem-Fishing-SUPs. Jedes Board hatte UV-stabilisiertes Marine-PVC mit 5-jähriger Commercial-Garantie, Edelstahl-Beschläge und Hyatt-Ziva-gebrandete Grafiken im markentypischen Türkis und Weiß.',
             },
             {
               title: 'Strandbetriebs-Infrastruktur & Lagerlösungen',
               detail:
-                'Afarers Team entwarf für jedes Resort einen vollständigen Strandbetriebs-Hub – inklusive eines abschließbaren 40-Fuß-Containers als sicherer Ausrüstungsraum mit solarbetriebener Belüftung, 10 robusten elektrischen Aufblasstationen mit digitalen Druckanzeigen, einem mobilen Gestellsystem für 50 Boards mit Abtropfentwässerung sowie einer Reparatur-/Wartungsstation mit Ersatzventilen, Flicksets und Reinigungsmitteln. Die Anlage in Puerto Morelos erhielt einen eigenen Strandkiosk mit Check-in-Schalter, Schwimmwestenwand und digitalem Planungsbildschirm. Afarers Installationsteam verbrachte 2 Wochen pro Anlage, baute bestehende Lagerbereiche um und schulte das Wartungspersonal in der richtigen Pflege – einschließlich des Süßwasser-Spülprotokolls nach jeder Nutzung.',
+                'OLagoons Team entwarf für jedes Resort einen vollständigen Strandbetriebs-Hub – inklusive eines abschließbaren 40-Fuß-Containers als sicherer Ausrüstungsraum mit solarbetriebener Belüftung, 10 robusten elektrischen Aufblasstationen mit digitalen Druckanzeigen, einem mobilen Gestellsystem für 50 Boards mit Abtropfentwässerung sowie einer Reparatur-/Wartungsstation mit Ersatzventilen, Flicksets und Reinigungsmitteln. Die Anlage in Puerto Morelos erhielt einen eigenen Strandkiosk mit Check-in-Schalter, Schwimmwestenwand und digitalem Planungsbildschirm. OLagoons Installationsteam verbrachte 2 Wochen pro Anlage, baute bestehende Lagerbereiche um und schulte das Wartungspersonal in der richtigen Pflege – einschließlich des Süßwasser-Spülprotokolls nach jeder Nutzung.',
             },
             {
               title: 'Aktivitätenprogrammierung, Personalschulung & Gästerlebnis-Design',
               detail:
-                "Afarer entwickelte für jedes Resort ein gestuftes Aktivitätenprogramm – inklusive (SUP-Vermietung in 1-Stunden-Slots), geführt (SUP-Yoga am Morgen für 45 $ pro Person, Sonnenuntergangs-Rifftouren für 55 $ pro Person) und Premium (private Paddle-Picknick-Ausflüge für 120 $ pro Person). Afarers Trainer verbrachten 12 Tage in den 3 Resorts und schulten 24 Freizeitmitarbeiter in Ausrüstungshandhabung, Gästeunterweisung, Sicherheitsprotokollen und einfachen Reparaturen. Die Schulung enthielt ein Zertifizierungsprogramm, das von der Mexican Association of Water Sports Operators anerkannt ist. Carlos' Team startete ein QR-Code-Buchungssystem, integriert in die Hyatt-Gäste-App, mit dem Gäste Ausrüstung 48 Stunden im Voraus reservieren konnten.",
+                "OLagoon entwickelte für jedes Resort ein gestuftes Aktivitätenprogramm – inklusive (SUP-Vermietung in 1-Stunden-Slots), geführt (SUP-Yoga am Morgen für 45 $ pro Person, Sonnenuntergangs-Rifftouren für 55 $ pro Person) und Premium (private Paddle-Picknick-Ausflüge für 120 $ pro Person). OLagoons Trainer verbrachten 12 Tage in den 3 Resorts und schulten 24 Freizeitmitarbeiter in Ausrüstungshandhabung, Gästeunterweisung, Sicherheitsprotokollen und einfachen Reparaturen. Die Schulung enthielt ein Zertifizierungsprogramm, das von der Mexican Association of Water Sports Operators anerkannt ist. Carlos' Team startete ein QR-Code-Buchungssystem, integriert in die Hyatt-Gäste-App, mit dem Gäste Ausrüstung 48 Stunden im Voraus reservieren konnten.",
             },
             {
               title: 'Saisonaler Betrieb, Performance-Tracking & ROI-Analyse',
               detail:
-                "Das vollständige Programm startete am 15. Januar 2025 und hatte bis Juni 2025 14.200 Gästerlebnisse ohne einen einzigen Sicherheitsvorfall ermöglicht. Die Gästzufriedenheit bei Wassersportaktivitäten lag im Schnitt bei 4,7/5, wobei die Paddleboards mit transparentem Boden die besten Bewertungen erhielten (4,9/5). Die Wartungskosten sanken um 42 % gegenüber dem Vorjahresprogramm mit gemischten Anbietern – von 34.000 $ auf 19.700 $ über die 3 Anlagen. Die Premium-Programme mit Führung erzeugten in den ersten 6 Monaten 112.000 $ Zusatzumsatz. Carlos' Team meldete, dass 22 % mehr Gäste ihren Aufenthalt um mindestens eine Nacht verlängerten – gezielt wegen des Wassersports. Hyatts Inclusive Collection genehmigte ein Budget von 240.000 $ für 2026, um Afarer-Ausrüstung an 2 weiteren Anlagen in der Dominikanischen Republik und auf Jamaika einzuführen.",
+                "Das vollständige Programm startete am 15. Januar 2025 und hatte bis Juni 2025 14.200 Gästerlebnisse ohne einen einzigen Sicherheitsvorfall ermöglicht. Die Gästzufriedenheit bei Wassersportaktivitäten lag im Schnitt bei 4,7/5, wobei die Paddleboards mit transparentem Boden die besten Bewertungen erhielten (4,9/5). Die Wartungskosten sanken um 42 % gegenüber dem Vorjahresprogramm mit gemischten Anbietern – von 34.000 $ auf 19.700 $ über die 3 Anlagen. Die Premium-Programme mit Führung erzeugten in den ersten 6 Monaten 112.000 $ Zusatzumsatz. Carlos' Team meldete, dass 22 % mehr Gäste ihren Aufenthalt um mindestens eine Nacht verlängerten – gezielt wegen des Wassersports. Hyatts Inclusive Collection genehmigte ein Budget von 240.000 $ für 2026, um OLagoon-Ausrüstung an 2 weiteren Anlagen in der Dominikanischen Republik und auf Jamaika einzuführen.",
             },
           ],
           results: [
             'Über 14.200 Gästerlebnisse in den ersten 6 Monaten ohne Sicherheitsvorfälle und mit 4,7/5 Gästzufriedenheit bei Wassersportaktivitäten',
-            'Wartungskosten um 42 % gesenkt – von 34.000 $ auf 19.700 $ jährlich dank Afarers Kommerzial-Konstruktion und UV-stabilisierten Materialien',
+            'Wartungskosten um 42 % gesenkt – von 34.000 $ auf 19.700 $ jährlich dank OLagoons Kommerzial-Konstruktion und UV-stabilisierten Materialien',
             'Premium-Programme mit Führung erzeugten 112.000 $ Zusatzumsatz in 6 Monaten – mit SUP-Yoga und Sonnenuntergangs-Rifftouren als stärksten Angeboten',
             '22 % mehr Gäste verlängerten ihren Aufenthalt um mindestens eine Nacht und nannten Wassersport als wesentlichen Faktor – das entspricht geschätzt 340.000 $ zusätzlichen Zimmerumsätzen',
           ],
@@ -749,22 +749,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Bedarfsanalyse mehrerer Standorte & individuelle Flottenentwicklung',
               detail:
-                'Im Oktober 2024 führte Afarers Hospitality-Team auf einer 10-tägigen Tour durch die Kykladen an jedem BlueWave-Standort eine eigene Analyse durch. Jeder Club hatte andere Bedingungen – Mykonos (volle Buchten, gehobenes Publikum, Windeinwirkung), Santorin (vulkanischer Sand, ruhigeres Wasser, Sonnenuntergangstourismus), Naxos (familienorientiert, flaches Wasser, längere Strandfront), Paros (Windsurf-Crossover, sportliches Publikum) und Kreta (größere Wellen, gemischtes Publikum). Afarer konstruierte eine 200-Einheiten-Flotte mit standortspezifischen Konfigurationen – 110 SUPs (darunter 20 SUP-Yoga-Plattformen mit verlängerter Länge und 20 Boards mit transparentem Boden), 30 Pedal-Boards für Premium-Gäste, 30 WindSUP-Hybride für Mykonos und Paros sowie 30 Youth-Boards für die Familienprogramme auf Naxos. Alle Einheiten trugen BlueWaves markantes Marineblau-Weiß mit goldenen Akzentlogos.',
+                'Im Oktober 2024 führte OLagoons Hospitality-Team auf einer 10-tägigen Tour durch die Kykladen an jedem BlueWave-Standort eine eigene Analyse durch. Jeder Club hatte andere Bedingungen – Mykonos (volle Buchten, gehobenes Publikum, Windeinwirkung), Santorin (vulkanischer Sand, ruhigeres Wasser, Sonnenuntergangstourismus), Naxos (familienorientiert, flaches Wasser, längere Strandfront), Paros (Windsurf-Crossover, sportliches Publikum) und Kreta (größere Wellen, gemischtes Publikum). OLagoon konstruierte eine 200-Einheiten-Flotte mit standortspezifischen Konfigurationen – 110 SUPs (darunter 20 SUP-Yoga-Plattformen mit verlängerter Länge und 20 Boards mit transparentem Boden), 30 Pedal-Boards für Premium-Gäste, 30 WindSUP-Hybride für Mykonos und Paros sowie 30 Youth-Boards für die Familienprogramme auf Naxos. Alle Einheiten trugen BlueWaves markantes Marineblau-Weiß mit goldenen Akzentlogos.',
             },
             {
               title: 'Standortspezifische Infrastruktur & Logistik-Umsetzung',
               detail:
-                'Afarers Operationsteam setzte einen Logistikplan um, der 40 Container über 5 Inseln verschiffte, und koordinierte mit BlueWaves lokalen Logistikpartnern die Inselsprünge. Jeder Standort erhielt eine individuelle Lagerlösung – Mykonos einen klimatisierten Lagerraum am Strand mit UV-geschützten Gestellen, Santorin ein Seilzugsystem an der Klippe für den Boardtransport vom Lager zum Strand, Naxos ein familienfreundliches Vermietungskiosk mit Kinder-Ausrüstungspräsentation, Paros und Kreta Zweifach-Lösungen, die sich als Windschutzwände umfunktionieren ließen. Afarer installierte ein gemeinsames digitales Buchungssystem über alle 5 Anlagen und schulte im April 2025 in einem 2-wöchigen Intensivprogramm am Mykonos-Flagship-Standort 35 BlueWave-Mitarbeiter.',
+                'OLagoons Operationsteam setzte einen Logistikplan um, der 40 Container über 5 Inseln verschiffte, und koordinierte mit BlueWaves lokalen Logistikpartnern die Inselsprünge. Jeder Standort erhielt eine individuelle Lagerlösung – Mykonos einen klimatisierten Lagerraum am Strand mit UV-geschützten Gestellen, Santorin ein Seilzugsystem an der Klippe für den Boardtransport vom Lager zum Strand, Naxos ein familienfreundliches Vermietungskiosk mit Kinder-Ausrüstungspräsentation, Paros und Kreta Zweifach-Lösungen, die sich als Windschutzwände umfunktionieren ließen. OLagoon installierte ein gemeinsames digitales Buchungssystem über alle 5 Anlagen und schulte im April 2025 in einem 2-wöchigen Intensivprogramm am Mykonos-Flagship-Standort 35 BlueWave-Mitarbeiter.',
             },
             {
               title: 'Vereinheitlichung des Aktivitätenprogramms & Aufbau der Premium-Stufe',
               detail:
-                'Dimitris Team startete BlueWays standardisiertes Wassersportprogramm „Aegean Blue Experiences“ mit 3 Stufen – inklusive (30-Minuten-SUP-Sessions für Clubgäste), Premium (geführte SUP-Touren zu abgelegenen Stränden für 65-95 €) und Ultra-Premium (private Paddle-Ausflüge mit Yachttransfer für 250 € pro Person inklusive Champagner-Picknick am Strand). Afarers Programmteam schuf 12 geführte Tourenrouten über die 5 Inseln – mit GPS-verfolgten Routen, Markierungen für Sehenswürdigkeiten und Fotografen-Unterstützung. Die Anlage in Mykonos startete zusätzlich „Sunset SUP at Little Venice“ – eine 2-stündige geführte Abendpaddeltour, die jede Session zum Preis von 85 € pro Person ausverkaufte – mit 95 % Auslastung über den Sommer.',
+                'Dimitris Team startete BlueWays standardisiertes Wassersportprogramm „Aegean Blue Experiences“ mit 3 Stufen – inklusive (30-Minuten-SUP-Sessions für Clubgäste), Premium (geführte SUP-Touren zu abgelegenen Stränden für 65-95 €) und Ultra-Premium (private Paddle-Ausflüge mit Yachttransfer für 250 € pro Person inklusive Champagner-Picknick am Strand). OLagoons Programmteam schuf 12 geführte Tourenrouten über die 5 Inseln – mit GPS-verfolgten Routen, Markierungen für Sehenswürdigkeiten und Fotografen-Unterstützung. Die Anlage in Mykonos startete zusätzlich „Sunset SUP at Little Venice“ – eine 2-stündige geführte Abendpaddeltour, die jede Session zum Preis von 85 € pro Person ausverkaufte – mit 95 % Auslastung über den Sommer.',
             },
             {
               title: 'Saison-Review der Performance & Programm-Nachhaltigkeit',
               detail:
-                'Über die Saison Mai bis September 2025 unterstützte BlueWays vereinheitlichte Flotte 52.000 Gästevermietungen an 5 Standorten (4 % über dem Ziel von 50.000). Die gesamten Ausrüstungskosten betrugen 198.000 $, verteilt über die 5-jährige Afarer-Garantie – gegenüber bisherigen 165.000 $ jährlich für Ausrüstung, die alle 18 Monate ersetzt wurde – eine jährliche Kostenreduktion von 52 %. Die Gästzufriedenheit beim Wassersport stieg von 3,8/5 (gemischte Anbieter, vor 2025) auf 4,6/5 an allen Standorten. Dimitri meldete 340.000 € Erlöse aus den Premium-Programmen (SUP-Yoga, geführte Touren, Sonnenuntergangspaddeln) – das 4,7-Fache der Ausrüstungsinvestition in einer einzigen Saison. BlueWave unterzeichnete eine 3-jährige Verlängerung mit Afarer und erweitert 2026 um 2 weitere Standorte auf Rhodos und Korfu – mit 80 zusätzlichen Boards.',
+                'Über die Saison Mai bis September 2025 unterstützte BlueWays vereinheitlichte Flotte 52.000 Gästevermietungen an 5 Standorten (4 % über dem Ziel von 50.000). Die gesamten Ausrüstungskosten betrugen 198.000 $, verteilt über die 5-jährige OLagoon-Garantie – gegenüber bisherigen 165.000 $ jährlich für Ausrüstung, die alle 18 Monate ersetzt wurde – eine jährliche Kostenreduktion von 52 %. Die Gästzufriedenheit beim Wassersport stieg von 3,8/5 (gemischte Anbieter, vor 2025) auf 4,6/5 an allen Standorten. Dimitri meldete 340.000 € Erlöse aus den Premium-Programmen (SUP-Yoga, geführte Touren, Sonnenuntergangspaddeln) – das 4,7-Fache der Ausrüstungsinvestition in einer einzigen Saison. BlueWave unterzeichnete eine 3-jährige Verlängerung mit OLagoon und erweitert 2026 um 2 weitere Standorte auf Rhodos und Korfu – mit 80 zusätzlichen Boards.',
             },
           ],
           results: [
@@ -776,8 +776,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Strandbetreiber Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Strandbetreiber OLagoon wählen',
       items: [
         {
           title: 'Langlebigkeit',
@@ -817,22 +817,22 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Mit wie vielen SUP-Boards sollte ich ein Strandvermietungsgeschäft starten?',
         answer:
-          'Afarer empfiehlt den Start mit 10-20 Boards für kleine Strandbetriebe, die Skalierung auf 30-50 für etablierte Vermietungsunternehmen und über 50 für große Wassersportzentren. Die Flottenplanung umfasst eine Mischung aus Boardgrößen und Konfigurationen, um verschiedene Kundentypen von Anfängern bis zu erfahrenen Paddlern zu bedienen.',
+          'OLagoon empfiehlt den Start mit 10-20 Boards für kleine Strandbetriebe, die Skalierung auf 30-50 für etablierte Vermietungsunternehmen und über 50 für große Wassersportzentren. Die Flottenplanung umfasst eine Mischung aus Boardgrößen und Konfigurationen, um verschiedene Kundentypen von Anfängern bis zu erfahrenen Paddlern zu bedienen.',
       },
       {
-        question: 'Welche Ersatzteile und welche Wartungsunterstützung bietet Afarer für Vermietungsflotten?',
+        question: 'Welche Ersatzteile und welche Wartungsunterstützung bietet OLagoon für Vermietungsflotten?',
         answer:
-          'Afarer bietet ein standardisiertes Ersatzteilsystem inklusive Ventilen, Leashes, Paddeln, Pumpen und Reparaturmaterial. Zusätzlich gibt es Flottenwartungs-Planungshilfen für tägliche Kontrolle, saisonale Wartung und Verfahren zur schnellen Wiederherstellung, um Ausfallzeiten der Ausrüstung zu minimieren.',
+          'OLagoon bietet ein standardisiertes Ersatzteilsystem inklusive Ventilen, Leashes, Paddeln, Pumpen und Reparaturmaterial. Zusätzlich gibt es Flottenwartungs-Planungshilfen für tägliche Kontrolle, saisonale Wartung und Verfahren zur schnellen Wiederherstellung, um Ausfallzeiten der Ausrüstung zu minimieren.',
       },
       {
         question: 'Können SUP-Boards mit dem Logo und Branding meines Unternehmens individualisiert werden?',
         answer:
-          'Ja, Afarer unterstützt vollständiges Unternehmens-Branding inklusive Logodruck, individuellen Farben und Vermietungs-Kennzeichnungsgrafiken. So wird Ihre Flotte zu einem Marketing-Asset und schafft Fotogelegenheiten, die die Präsenz Ihres Unternehmens in sozialen Medien erhöhen.',
+          'Ja, OLagoon unterstützt vollständiges Unternehmens-Branding inklusive Logodruck, individuellen Farben und Vermietungs-Kennzeichnungsgrafiken. So wird Ihre Flotte zu einem Marketing-Asset und schafft Fotogelegenheiten, die die Präsenz Ihres Unternehmens in sozialen Medien erhöhen.',
       },
       {
-        question: 'Wie langlebig sind Afarers Kommercial-SUP-Boards für die tägliche Vermietung?',
+        question: 'Wie langlebig sind OLagoons Kommercial-SUP-Boards für die tägliche Vermietung?',
         answer:
-          'Afarers Kommercial-SUP-Boards sind für hochfrequente Vermietungsoperationen konstruiert – mit verstärktem PVC, starker Nahttechnik und schützenden Außenschichten. Bei richtiger Wartung überdauern sie Verbraucher-Boards in kommerziellen Umgebungen deutlich und senken so die Gesamtbetriebskosten.',
+          'OLagoons Kommercial-SUP-Boards sind für hochfrequente Vermietungsoperationen konstruiert – mit verstärktem PVC, starker Nahttechnik und schützenden Außenschichten. Bei richtiger Wartung überdauern sie Verbraucher-Boards in kommerziellen Umgebungen deutlich und senken so die Gesamtbetriebskosten.',
       },
       {
         question: 'Was ist die typische Rendite für eine SUP-Vermietungsflotte?',
@@ -841,7 +841,7 @@ const de: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Bauen Sie mit Afarer Ihr Strand-Wasseraktivitäten-Geschäft auf',
+      title: 'Bauen Sie mit OLagoon Ihr Strand-Wasseraktivitäten-Geschäft auf',
       subtitle: 'Schaffen Sie mehr als einen Vermietungsservice. Schaffen Sie unvergessliche Wassererlebnisse.',
       primaryAction: {
         text: 'Starten Sie heute Ihr kommerzielles SUP-Flottenprojekt',
@@ -856,7 +856,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Individuell gebrandete SUP-Boards für Firmenevents | OEM-Event-Lösungen | {SITE}',
       description:
-        'Afarer erstellt individuelle gebrandete SUP-Boards für Firmenevents, Teambuilding-Aktivitäten und Marketingkampagnen. Vollständige Logo-Anpassung, Corporate-Farbabstimmung, schnelle Prototypen und Bulk-OEM-Produktion.',
+        'OLagoon erstellt individuelle gebrandete SUP-Boards für Firmenevents, Teambuilding-Aktivitäten und Marketingkampagnen. Vollständige Logo-Anpassung, Corporate-Farbabstimmung, schnelle Prototypen und Bulk-OEM-Produktion.',
     },
     hero: {
       tagline: 'Corporate SUP Event Package™',
@@ -897,25 +897,25 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Vollständige Anpassung an das Firmen-Branding',
           description:
-            'Afarer unterstützt großflächigen Logodruck, Branding der Boardoberfläche, individuelle Paddel und gebrandetes Zubehör – mit Farbangleichung an die Firmenfarben nach Pantone-Referenzen und den Vorgaben des visuellen Erscheinungsbilds.',
+            'OLagoon unterstützt großflächigen Logodruck, Branding der Boardoberfläche, individuelle Paddel und gebrandetes Zubehör – mit Farbangleichung an die Firmenfarben nach Pantone-Referenzen und den Vorgaben des visuellen Erscheinungsbilds.',
           features: ['Anwendung des Firmen-Logos', 'Angleichung der Firmenfarben', 'Individuelles Grafikdesign'],
         },
         {
           title: 'Event-spezifische SUP-Produktentwicklung',
           description:
-            'Unterschiedliche Events brauchen unterschiedliche Lösungen. Afarer bietet Teambuilding-Pakete für große Mitarbeitergruppen, Brand-Activation-Pakete für Marketingkampagnen und VIP-Erlebnispakete für Events für Luxuskunden.',
+            'Unterschiedliche Events brauchen unterschiedliche Lösungen. OLagoon bietet Teambuilding-Pakete für große Mitarbeitergruppen, Brand-Activation-Pakete für Marketingkampagnen und VIP-Erlebnispakete für Events für Luxuskunden.',
           features: ['Teambuilding-Paket', 'Brand-Activation-Paket', 'VIP-Erlebnispaket'],
         },
         {
           title: 'Schneller Prototypen- & Freigabeprozess',
           description:
-            'Afarer ermöglicht eine schnelle Designbestätigung mit Prüfung der Druckvorlagen und Grafikanpassungen, Prototypenentwicklung zur Bestätigung von Farben und Logoplatzierung sowie Produktionsplanung abgestimmt auf die Event-Termine.',
+            'OLagoon ermöglicht eine schnelle Designbestätigung mit Prüfung der Druckvorlagen und Grafikanpassungen, Prototypenentwicklung zur Bestätigung von Farben und Logoplatzierung sowie Produktionsplanung abgestimmt auf die Event-Termine.',
           features: ['Schnelle Designbestätigung', 'Prototypenentwicklung', 'Produktionsplanung'],
         },
         {
           title: 'Individuelle Produktion in großen Stückzahlen',
           description:
-            'Afarer begleitet Firmenbestellungen von kleinen Events mit 50-100 Stück für interne Aktivitäten über mittlere Marketingprojekte mit 100-500 Stück für Markenkampagnen bis zu großen Firmen-Kampagnen mit 500-1000 und mehr Stück für nationale Events.',
+            'OLagoon begleitet Firmenbestellungen von kleinen Events mit 50-100 Stück für interne Aktivitäten über mittlere Marketingprojekte mit 100-500 Stück für Markenkampagnen bis zu großen Firmen-Kampagnen mit 500-1000 und mehr Stück für nationale Events.',
           features: [
             'Kleine Firmen-Events (50-100 Stück)',
             'Mittlere Marketingprojekte (100-500 Stück)',
@@ -925,7 +925,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Vollständige Event-Ausrüstungspakete',
           description:
-            'Afarer liefert vollständige Event-Lösungen – inklusive individueller SUP-Boards, verstellbarer Paddel, Pumpen, Leashes, Tragetaschen, Reparatursets und optionaler gebrandeter Paddel, Event-Zubehör und Displaymaterial.',
+            'OLagoon liefert vollständige Event-Lösungen – inklusive individueller SUP-Boards, verstellbarer Paddel, Pumpen, Leashes, Tragetaschen, Reparatursets und optionaler gebrandeter Paddel, Event-Zubehör und Displaymaterial.',
           features: ['Standardpaket enthält', 'Optionale Anpassung', 'Ausrüstung für das Personal'],
         },
         {
@@ -937,13 +937,13 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Qualitätskontrolle für Markenprojekte',
           description:
-            'Afarer bietet Produktions-Qualitätsprüfung für Materialien und Druck, Kontrolle der Branding-Genauigkeit für Logoposition und Farbkonstanz sowie eine Lieferprüfung für Menge, Verpackung und Zubehör.',
+            'OLagoon bietet Produktions-Qualitätsprüfung für Materialien und Druck, Kontrolle der Branding-Genauigkeit für Logoposition und Farbkonstanz sowie eine Lieferprüfung für Menge, Verpackung und Zubehör.',
           features: ['Produktions-Qualitätsprüfung', 'Kontrolle der Branding-Genauigkeit', 'Lieferprüfung'],
         },
         {
           title: 'Globale Unterstützung bei der Event-Lieferung',
           description:
-            'Für internationale Unternehmen unterstützt Afarer länderübergreifende Projekte, regionale Events und globale Kampagnen – mit koordinierter Produktion, Verpackung und Versandvorbereitung über alle Standorte hinweg.',
+            'Für internationale Unternehmen unterstützt OLagoon länderübergreifende Projekte, regionale Events und globale Kampagnen – mit koordinierter Produktion, Verpackung und Versandvorbereitung über alle Standorte hinweg.',
           features: ['Länderübergreifende Projekte', 'Regionale Events', 'Globale Kampagnen'],
         },
       ],
@@ -960,12 +960,12 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Integration des Markendesigns',
           detail:
-            'Afarer entwickelte individuelle Board-Grafiken mit exakter Angleichung der Markenfarben und großflächiger Logoplatzierung, um die visuelle Wirkung auf dem Wasser zu maximieren.',
+            'OLagoon entwickelte individuelle Board-Grafiken mit exakter Angleichung der Markenfarben und großflächiger Logoplatzierung, um die visuelle Wirkung auf dem Wasser zu maximieren.',
         },
         {
           title: 'Freigabe der Prototypen',
           detail:
-            'Afarer lieferte die Designbestätigung mit Anschauungsmustern und die Produktionsfreigabe, damit vor der Serienproduktion jedes Detail den hohen Ansprüchen der Marke entsprach.',
+            'OLagoon lieferte die Designbestätigung mit Anschauungsmustern und die Produktionsfreigabe, damit vor der Serienproduktion jedes Detail den hohen Ansprüchen der Marke entsprach.',
         },
         {
           title: 'Serienproduktion',
@@ -997,17 +997,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Programmkonzept & individuelle Produktentwicklung',
               detail:
-                "Im November 2024 traf sich Klaus' Team auf der Boot Düsseldorf mit Afarers Abteilung für Firmen-Events, um das Konzept zu prüfen. Afarer schlug ein individuelles 11'6\"-Touring-Board in den i-Farben von BMW vor (Blue Ridge Mountain Metallic, Frozen Pure Grey) mit Akzenten aus gewebtem Carbonfaser, passend zur Innenraumverkleidung des i7. Afarers Ingenieure schufen 3 Prototyp-Boards mit integrierten GoPro-Halterungen für Actionfotografie, rutschfesten Deckpads mit an BMW M angelehnter Ziernaht und individuellen Ventilkappen mit dem BMW-Emblem. BMW genehmigte 120 Einheiten zu 895 € pro Board – inklusive einem eigenen Aufbewahrungs- und Transportsystem mit individuellen Rollwagen.",
+                "Im November 2024 traf sich Klaus' Team auf der Boot Düsseldorf mit OLagoons Abteilung für Firmen-Events, um das Konzept zu prüfen. OLagoon schlug ein individuelles 11'6\"-Touring-Board in den i-Farben von BMW vor (Blue Ridge Mountain Metallic, Frozen Pure Grey) mit Akzenten aus gewebtem Carbonfaser, passend zur Innenraumverkleidung des i7. OLagoons Ingenieure schufen 3 Prototyp-Boards mit integrierten GoPro-Halterungen für Actionfotografie, rutschfesten Deckpads mit an BMW M angelehnter Ziernaht und individuellen Ventilkappen mit dem BMW-Emblem. BMW genehmigte 120 Einheiten zu 895 € pro Board – inklusive einem eigenen Aufbewahrungs- und Transportsystem mit individuellen Rollwagen.",
             },
             {
               title: 'Markenintegration & Planung der Event-Logistik',
               detail:
-                'Afarers Grafikteam entwickelte ganzflächige UV-stabile Dekale mit BMW-i-Branding, QR-Codes mit Link zum BMW-i-Konfigurator und Sicherheitsgrafiken in 8 Sprachen. Das Logistikteam entwarf ein Rotationssystem, das je 40 Boards in 3 Regionen verschiffte (Südeuropa, Mitteleuropa, Nord-/Baltikum) – mit mobilen Pumpstationen, akkubetriebenen Gebläsen und wasserdichten Umkleidekabinen. BMWs Event-Team wählte 18 Veranstaltungsorte – darunter der Comer See (Italien), St. Tropez (Frankreich), der Vierwaldstättersee (Schweiz), der Gardasee (Italien) und das Schärengarten vor Stockholm (Schweden) – jeder mit 300-600 Gästen über 2- bis 3-tägige Programme.',
+                'OLagoons Grafikteam entwickelte ganzflächige UV-stabile Dekale mit BMW-i-Branding, QR-Codes mit Link zum BMW-i-Konfigurator und Sicherheitsgrafiken in 8 Sprachen. Das Logistikteam entwarf ein Rotationssystem, das je 40 Boards in 3 Regionen verschiffte (Südeuropa, Mitteleuropa, Nord-/Baltikum) – mit mobilen Pumpstationen, akkubetriebenen Gebläsen und wasserdichten Umkleidekabinen. BMWs Event-Team wählte 18 Veranstaltungsorte – darunter der Comer See (Italien), St. Tropez (Frankreich), der Vierwaldstättersee (Schweiz), der Gardasee (Italien) und das Schärengarten vor Stockholm (Schweden) – jeder mit 300-600 Gästen über 2- bis 3-tägige Programme.',
             },
             {
               title: 'Aktivierung vor Ort & Gestaltung des Gästeerlebnisses',
               detail:
-                'Jedes Event bot ein „BMW i Paddle Experience“ mit 40 Boards in 90-minütigen geführten Sessions unter Anleitung von Afarer-geschulten Instruktoren. Die Gäste erhielten personalisierte BMW-i-Rash-Guards und wasserdichte Handyhüllen. Professionelle Fotografen hielten jeden paddelnden Gast mit den integrierten Kamera-Halterungen der Boards fest; die Bilder wurden innerhalb von 2 Stunden über eine gebrandete Microsite übermittelt. Die Aktivierung wurde mit i7-Probefahrten auf malerischen Küstenstraßen kombiniert – ein Marken-Eintauchen zu Lande und zu Wasser. Über die ersten 10 Events lag die Gästezufriedenheit bei 4,8/5, und BMW meldete, dass 23 % der Teilnehmer eine Probefahrt beim Händler anfragten.',
+                'Jedes Event bot ein „BMW i Paddle Experience“ mit 40 Boards in 90-minütigen geführten Sessions unter Anleitung von OLagoon-geschulten Instruktoren. Die Gäste erhielten personalisierte BMW-i-Rash-Guards und wasserdichte Handyhüllen. Professionelle Fotografen hielten jeden paddelnden Gast mit den integrierten Kamera-Halterungen der Boards fest; die Bilder wurden innerhalb von 2 Stunden über eine gebrandete Microsite übermittelt. Die Aktivierung wurde mit i7-Probefahrten auf malerischen Küstenstraßen kombiniert – ein Marken-Eintauchen zu Lande und zu Wasser. Über die ersten 10 Events lag die Gästezufriedenheit bei 4,8/5, und BMW meldete, dass 23 % der Teilnehmer eine Probefahrt beim Händler anfragten.',
             },
             {
               title: 'Performance-Review & Programmerweiterung',
@@ -1034,17 +1034,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Programmdesign & Logistikplanung für mehrere Standorte',
               detail:
-                'Dr. Sharmas Team engagierte Afarer im Februar 2025 für ein individuelles Firmenprogramm. Afarer schlug das Thema „Paddle into Production“ vor, bei dem Teams aus 8-10 Ingenieuren SUP-Parcours durchfahren, die die Pipeline-Phasen der Bereitstellung bei Google Cloud darstellen. Afarer stattete 80 Boards mit Google-Cloud-Branding, Team-Farbcodierung und wasserdichten Tech-Decks für Mobilgeräte aus. Der Logistikplan umfasste 6 Standorte – Sunnyvale HQ, Seattle, New York, Austin, Chicago und Boulder – mit Events im 2-Wochen-Rhythmus von Juni bis August 2025. Afarer legerte sich auf 320.000 € für 80 Boards, 24 Instruktoren, die komplette Logistik und gebrandete Ausstattung für 1.200 Teilnehmer.',
+                'Dr. Sharmas Team engagierte OLagoon im Februar 2025 für ein individuelles Firmenprogramm. OLagoon schlug das Thema „Paddle into Production“ vor, bei dem Teams aus 8-10 Ingenieuren SUP-Parcours durchfahren, die die Pipeline-Phasen der Bereitstellung bei Google Cloud darstellen. OLagoon stattete 80 Boards mit Google-Cloud-Branding, Team-Farbcodierung und wasserdichten Tech-Decks für Mobilgeräte aus. Der Logistikplan umfasste 6 Standorte – Sunnyvale HQ, Seattle, New York, Austin, Chicago und Boulder – mit Events im 2-Wochen-Rhythmus von Juni bis August 2025. OLagoon legerte sich auf 320.000 € für 80 Boards, 24 Instruktoren, die komplette Logistik und gebrandete Ausstattung für 1.200 Teilnehmer.',
             },
             {
               title: 'Entwicklung inklusiver Aktivitäten & Sicherheitsrahmen',
               detail:
-                'Afarers Programmteam schuf 3 Könner-Stufen – „Beginner Buoy“ (Grundlagen des Paddelns und Gleichgewichtsspiele), „Production Racer“ (Team-Staffelrennen) und „Cloud Cluster“ (Gruppenformations-Aufgaben, die Koordination erfordern). Jede Stufe enthielt Aufgaben im Google-Cloud-Stil wie „deploy a container“ (einen Ball beim Paddeln auf dem Board balancieren) und „scale to zero“ (alle müssen sich gleichzeitig hinsetzen). Afarer engagierte an allen Standorten 24 zertifizierte SUP-Instruktoren und entwickelte ein umfassendes Sicherheitsprotokoll – mit vorgeschriebenen Schwimmwesten, Buddy-System, Schwimmtests und Wasser-Beobachtern mit Rettungsboards.',
+                'OLagoons Programmteam schuf 3 Könner-Stufen – „Beginner Buoy“ (Grundlagen des Paddelns und Gleichgewichtsspiele), „Production Racer“ (Team-Staffelrennen) und „Cloud Cluster“ (Gruppenformations-Aufgaben, die Koordination erfordern). Jede Stufe enthielt Aufgaben im Google-Cloud-Stil wie „deploy a container“ (einen Ball beim Paddeln auf dem Board balancieren) und „scale to zero“ (alle müssen sich gleichzeitig hinsetzen). OLagoon engagierte an allen Standorten 24 zertifizierte SUP-Instruktoren und entwickelte ein umfassendes Sicherheitsprotokoll – mit vorgeschriebenen Schwimmwesten, Buddy-System, Schwimmtests und Wasser-Beobachtern mit Rettungsboards.',
             },
             {
               title: 'Onboarding, gebrandete Give-aways & Event-Umsetzung',
               detail:
-                'Jeder Teilnehmer erhielt ein gebrandetes Willkommenspaket – mit einem Google-Cloud-x-Afarer-Rash-Guard, SPF-Lippenbalsam, Dry Bag und Event-Heft. Die 2-stündigen Sessions umfassten 30 Minuten Anleitung an Land, 75 Minuten Aktivitäten auf dem Wasser und 15 Minuten Abklingen mit einem Teamfoto per Drohne. Afarers Event-Team übernahm Aufbau, Abbau und Reinigung an jedem Austragungsort – die Google-Mitarbeiter mussten nur erscheinen. Das erste Event am Shoreline Lake in Mountain View am 12. Juni 2025 erreichte 97 % Anwesenheit, wobei Teams um den „Highest Availability“-Award für Koordination und Geschwindigkeit kämpften.',
+                'Jeder Teilnehmer erhielt ein gebrandetes Willkommenspaket – mit einem Google-Cloud-x-OLagoon-Rash-Guard, SPF-Lippenbalsam, Dry Bag und Event-Heft. Die 2-stündigen Sessions umfassten 30 Minuten Anleitung an Land, 75 Minuten Aktivitäten auf dem Wasser und 15 Minuten Abklingen mit einem Teamfoto per Drohne. OLagoons Event-Team übernahm Aufbau, Abbau und Reinigung an jedem Austragungsort – die Google-Mitarbeiter mussten nur erscheinen. Das erste Event am Shoreline Lake in Mountain View am 12. Juni 2025 erreichte 97 % Anwesenheit, wobei Teams um den „Highest Availability“-Award für Koordination und Geschwindigkeit kämpften.',
             },
             {
               title: 'Analyse der Ergebnisse & Ausbau im zweiten Jahr',
@@ -1061,8 +1061,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Unternehmen Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Unternehmen OLagoon wählen',
       items: [
         {
           title: 'Markenpräsentation',
@@ -1072,7 +1072,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Schnelle Projektumsetzung',
           description:
-            'Termine zählen. Afarers strukturierter Prozess führt vom Konzept zur Lieferung innerhalb enger Event-Zeitpläne.',
+            'Termine zählen. OLagoons strukturierter Prozess führt vom Konzept zur Lieferung innerhalb enger Event-Zeitpläne.',
         },
         {
           title: 'Individuelle Fertigung',
@@ -1082,7 +1082,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Zuverlässige Lieferung',
           description:
-            'Events können nicht warten. Afarer garantiert Produktionsplanung und Versand-Koordination, um feste Event-Termine zu treffen.',
+            'Events können nicht warten. OLagoon garantiert Produktionsplanung und Versand-Koordination, um feste Event-Termine zu treffen.',
         },
         {
           title: 'Visuelle Wirkung',
@@ -1100,36 +1100,36 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Können Sie exakte Firmenfarben (Pantone) auf SUP-Boards treffen?',
         answer:
-          'Ja, Afarer unterstützt Pantone-Farbangleichung und die Anforderungen an das visuelle Erscheinungsbild des Unternehmens mit präziser Farbwiedergabe. Vor der Serienproduktion stellen wir Prototypenmuster zur Farbfreigabe bereit, damit das Endprodukt exakt Ihren Markenstandards entspricht.',
+          'Ja, OLagoon unterstützt Pantone-Farbangleichung und die Anforderungen an das visuelle Erscheinungsbild des Unternehmens mit präziser Farbwiedergabe. Vor der Serienproduktion stellen wir Prototypenmuster zur Farbfreigabe bereit, damit das Endprodukt exakt Ihren Markenstandards entspricht.',
       },
       {
         question: 'Wie lautet die Mindestbestellmenge für individuell gebrandete SUP-Boards?',
         answer:
-          'Afarer begleitet unterschiedliche Projektgrößen. Kleine Firmen-Events und interne Aktivitäten starten bei 50-100 Einheiten. Mittlere Marketingkampagnen umfassen 100-500 Einheiten, und große nationale oder Multi-Location-Events skalieren auf 500-1000 und mehr Einheiten.',
+          'OLagoon begleitet unterschiedliche Projektgrößen. Kleine Firmen-Events und interne Aktivitäten starten bei 50-100 Einheiten. Mittlere Marketingkampagnen umfassen 100-500 Einheiten, und große nationale oder Multi-Location-Events skalieren auf 500-1000 und mehr Einheiten.',
       },
       {
         question: 'Wie lange dauert der Prototypen- und Freigabeprozess?',
         answer:
-          'Der Prototypenprozess ist auf Geschwindigkeit ausgelegt. Afarer liefert schnelle Designbestätigung, Prüfung der Druckvorlagen und Prototypenentwicklung typischerweise innerhalb von 1-2 Wochen. Das lässt ausreichend Zeit für Freigabe und Serienproduktion vor den Event-Terminen.',
+          'Der Prototypenprozess ist auf Geschwindigkeit ausgelegt. OLagoon liefert schnelle Designbestätigung, Prüfung der Druckvorlagen und Prototypenentwicklung typischerweise innerhalb von 1-2 Wochen. Das lässt ausreichend Zeit für Freigabe und Serienproduktion vor den Event-Terminen.',
       },
       {
         question: 'Können Sie für globale Kampagnen-Events an mehrere Standorte liefern?',
         answer:
-          'Ja, Afarer unterstützt länder- und standortübergreifende Event-Kampagnen. Wir koordinieren Produktion, Verpackung und Versandvorbereitung, um eine konsistente Lieferung an allen regionalen oder globalen Event-Standorten sicherzustellen.',
+          'Ja, OLagoon unterstützt länder- und standortübergreifende Event-Kampagnen. Wir koordinieren Produktion, Verpackung und Versandvorbereitung, um eine konsistente Lieferung an allen regionalen oder globalen Event-Standorten sicherzustellen.',
       },
       {
         question: 'Welche Anpassungsoptionen gibt es über den Logodruck hinaus?',
         answer:
-          'Über den Logodruck hinaus bietet Afarer ganzflächiges Branding der Boardoberfläche, individuelle Paddel, Farbangleichung an Firmenfarben nach Pantone-Referenzen, Event-thematische Grafikdesigns, limitierte Artworks und gebrandetes Zubehör inklusive Paddeln, Pumpen und Taschen.',
+          'Über den Logodruck hinaus bietet OLagoon ganzflächiges Branding der Boardoberfläche, individuelle Paddel, Farbangleichung an Firmenfarben nach Pantone-Referenzen, Event-thematische Grafikdesigns, limitierte Artworks und gebrandetes Zubehör inklusive Paddeln, Pumpen und Taschen.',
       },
       {
         question: 'Bieten Sie vollständige Event-Pakete inklusive Zubehör und Paddeln an?',
         answer:
-          'Ja, Afarer liefert vollständige Event-Ausrüstungspakete – inklusive individueller SUP-Boards, verstellbarer Paddel, Pumpen, Leashes, Tragetaschen und Reparatursets. Optionale Ergänzungen sind gebrandete Paddel, Event-Zubehör, Displaymaterial und Ausrüstung für das Personal.',
+          'Ja, OLagoon liefert vollständige Event-Ausrüstungspakete – inklusive individueller SUP-Boards, verstellbarer Paddel, Pumpen, Leashes, Tragetaschen und Reparatursets. Optionale Ergänzungen sind gebrandete Paddel, Event-Zubehör, Displaymaterial und Ausrüstung für das Personal.',
       },
     ],
     cta: {
-      title: 'Schaffen Sie Ihr Firmen-Wassererlebnis mit Afarer',
+      title: 'Schaffen Sie Ihr Firmen-Wassererlebnis mit OLagoon',
       subtitle: 'Ihre Marke verdient es, in Erinnerung zu bleiben.',
       primaryAction: {
         text: 'Starten Sie heute Ihr Firmen-SUP-Projekt',
@@ -1144,15 +1144,15 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fishing-SUP-Hersteller | Individuelle aufblasbare Angler-Paddleboards | {SITE}',
       description:
-        'Afarer hilft Angelmarken, maßgeschneiderte Fishing-SUP-Produkte mit hochstabilen Designs, Rutenhalter-Systemen, Kühlbox-Halterungen, D-Ring-Zubehör und Private-Label-Fertigungslösungen zu entwickeln.',
+        'OLagoon hilft Angelmarken, maßgeschneiderte Fishing-SUP-Produkte mit hochstabilen Designs, Rutenhalter-Systemen, Kühlbox-Halterungen, D-Ring-Zubehör und Private-Label-Fertigungslösungen zu entwickeln.',
     },
     hero: {
       tagline: 'Erstellen Sie Ihre Angel-SUP-Marke™',
       title: 'Individuelle Angel-SUP-Fertigung für Angelbedarf-Marken',
       subtitle:
-        'Afarer hilft Angelbedarf-Marken beim Aufbau individueller Angel-SUP-Produkte mit hochstabilen Designs, Rutenhaltersystemen, Kühlboxen-Halterungen, D-Ring-Zubehör und Private-Label-Fertigungslösungen.',
+        'OLagoon hilft Angelbedarf-Marken beim Aufbau individueller Angel-SUP-Produkte mit hochstabilen Designs, Rutenhaltersystemen, Kühlboxen-Halterungen, D-Ring-Zubehör und Private-Label-Fertigungslösungen.',
       image: {
-        alt: 'Beschreibung individueller Afarer-SUP-Boards',
+        alt: 'Beschreibung individueller OLagoon-SUP-Boards',
       },
     },
     challenge: {
@@ -1255,7 +1255,7 @@ const de: Record<string, SolutionOverride> = {
       customer:
         'Nordamerikanische Angelausrüstungs-Marke, die ursprünglich Angelruten, Tackleboxen und Outdoor-Angelzubehör an eine treue Community erfahrener Angler verkaufte.',
       steps: [
-        'Afarer analysierte die Zielnutzer und definierte die Produktpositionierung als „Professionelle aufblasbare Angelplattform für ernsthafte Angler“, passend zum Ruf der Marke.',
+        'OLagoon analysierte die Zielnutzer und definierte die Produktpositionierung als „Professionelle aufblasbare Angelplattform für ernsthafte Angler“, passend zum Ruf der Marke.',
         "Entwicklung eines 11' Angel-SUP-Modells mit extra-breiter Standplattform, hoher Tragfähigkeit, verstärkter Drop-Stitch-Struktur, mehreren D-Ring-Systemen und Rutenhalter-Kompatibilität.",
         'Entwicklung Angel-fokussierter Grafiken, eines Outdoor-Farbsystems und professioneller Verpackung, die erfahrene Angler ansprachen.',
         'Launch mit 500 Einheiten, vertrieben über bestehende Angelkunden, den E-Commerce-Shop und das Outdoor-Händlernetzwerk.',
@@ -1280,22 +1280,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Co-Design mit professionellen Anglern und ergonomische Analyse',
               detail:
-                'Afarer entsendete im März 2023 ein 3-köpfiges Produktentwicklungsteam nach Göteborg zu einem 10-tägigen Co-Design-Workshop. Sie arbeiteten mit 8 professionellen und semiprofessionellen Anglern (darunter der schwedische Sportfischmeister Lars Nilsson), die jeweils über 15 Jahre Erfahrung mit Angel-SUPs hatten. Das Team führte Bewegungsanalysen der Wurf- und Einholbewegungen auf Prototyp-Boards durch, um optimale Standpositionen zu ermitteln. Wichtigste Erkenntnisse – der ideale Rutenhalterwinkel betrug 22 Grad von der Vertikalen (gegenüber 15 Grad bei Wettbewerbsprodukten), der Tackle-Stauraum musste innerhalb von 40 cm natürlicher Reichweite des Paddlers liegen, und das Board brauchte eine Mindestbreite von 34", um bei 30 km/h Wind stabil zu stehen. Der Workshop brachte 47 konkrete Designanforderungen hervor, von denen 42 in das finale Design einflossen.',
+                'OLagoon entsendete im März 2023 ein 3-köpfiges Produktentwicklungsteam nach Göteborg zu einem 10-tägigen Co-Design-Workshop. Sie arbeiteten mit 8 professionellen und semiprofessionellen Anglern (darunter der schwedische Sportfischmeister Lars Nilsson), die jeweils über 15 Jahre Erfahrung mit Angel-SUPs hatten. Das Team führte Bewegungsanalysen der Wurf- und Einholbewegungen auf Prototyp-Boards durch, um optimale Standpositionen zu ermitteln. Wichtigste Erkenntnisse – der ideale Rutenhalterwinkel betrug 22 Grad von der Vertikalen (gegenüber 15 Grad bei Wettbewerbsprodukten), der Tackle-Stauraum musste innerhalb von 40 cm natürlicher Reichweite des Paddlers liegen, und das Board brauchte eine Mindestbreite von 34", um bei 30 km/h Wind stabil zu stehen. Der Workshop brachte 47 konkrete Designanforderungen hervor, von denen 42 in das finale Design einflossen.',
             },
             {
               title: 'Schritt 2 – Integriertes Angel-System-Engineering und Prototyp-Tests',
               detail:
-                'Afarers Industriedesigner entwickelten ein modulares „Fishing Deck“-System – ein abnehmbares Aluminium-Railsystem (1,2 m Länge), das über 12 Edelstahl-Einsätze im Drop-Stitch-Kern des Boards montiert wird. Das Rail nahm 4 Rutenhalter (winkelverstellbar, Schnellverschluss), eine große Tackle-Kiste (32 L, wasserdicht nach IP67, abnehmbar), eine Netz-Halterung und einen Becherhalter für Thermoskannen (Anforderung des nordischen Markts) auf. Im Mai 2023 wurden drei Prototyp-Boards produziert und vier Wochen lang auf 6 schwedischen Seen getestet (Vänern, Vättern, Mälaren und 3 kleinere Seen in Småland). Das Testprogramm verzeichnete 340 Stunden aktive Angelzeit. Ein Prototyp entwickelte nach 3 Tagen durchgehender Sonneneinstrahlung bei 26 °C eine leichte Verwölbung – Afarer erhöhte für alle Serien-Boards die PVC-Deckdicke von 0,9 mm auf 1,2 mm.',
+                'OLagoons Industriedesigner entwickelten ein modulares „Fishing Deck“-System – ein abnehmbares Aluminium-Railsystem (1,2 m Länge), das über 12 Edelstahl-Einsätze im Drop-Stitch-Kern des Boards montiert wird. Das Rail nahm 4 Rutenhalter (winkelverstellbar, Schnellverschluss), eine große Tackle-Kiste (32 L, wasserdicht nach IP67, abnehmbar), eine Netz-Halterung und einen Becherhalter für Thermoskannen (Anforderung des nordischen Markts) auf. Im Mai 2023 wurden drei Prototyp-Boards produziert und vier Wochen lang auf 6 schwedischen Seen getestet (Vänern, Vättern, Mälaren und 3 kleinere Seen in Småland). Das Testprogramm verzeichnete 340 Stunden aktive Angelzeit. Ein Prototyp entwickelte nach 3 Tagen durchgehender Sonneneinstrahlung bei 26 °C eine leichte Verwölbung – OLagoon erhöhte für alle Serien-Boards die PVC-Deckdicke von 0,9 mm auf 1,2 mm.',
             },
             {
               title: 'Schritt 3 – Nordische Handelsverpackung, Katalog-Integration und Vorverkauf',
               detail:
-                'Afarer gestaltete robuste Verpackungen mit zweisprachigen Etiketten (Schwedisch/Finnisch) und einem Innenlayout als „Fishing-SUP-Starterkit“ – Board, Angel-Rail mit 4 Rutenhaltern, Tackle-Kiste, 3-teiliges Paddle, Doppelhub-Pumpe, Rucksack und ein 32-seitiger Ratgeber „Fischen vom SUP“ auf Schwedisch, Norwegisch und Finnisch. Nordic Angler startete den Vorverkauf auf der schwedischen Sportfisch-Fachmesse in Stockholm (August 2023) und sicherte feste Bestellungen von 34 Händlern über 860 Einheiten. Erik verhandelte mit Afarer einen exklusiven 12-monatigen Distributionsvertrag für den nordischen Raum, der sicherstellte, dass in diesem Zeitraum keine konkurrierenden Private-Label-Angel-SUPs an die Wettbewerber von Nordic Angler verkauft wurden.',
+                'OLagoon gestaltete robuste Verpackungen mit zweisprachigen Etiketten (Schwedisch/Finnisch) und einem Innenlayout als „Fishing-SUP-Starterkit“ – Board, Angel-Rail mit 4 Rutenhaltern, Tackle-Kiste, 3-teiliges Paddle, Doppelhub-Pumpe, Rucksack und ein 32-seitiger Ratgeber „Fischen vom SUP“ auf Schwedisch, Norwegisch und Finnisch. Nordic Angler startete den Vorverkauf auf der schwedischen Sportfisch-Fachmesse in Stockholm (August 2023) und sicherte feste Bestellungen von 34 Händlern über 860 Einheiten. Erik verhandelte mit OLagoon einen exklusiven 12-monatigen Distributionsvertrag für den nordischen Raum, der sicherstellte, dass in diesem Zeitraum keine konkurrierenden Private-Label-Angel-SUPs an die Wettbewerber von Nordic Angler verkauft wurden.',
             },
             {
               title: 'Schritt 4 – Produktion, saisonales Timing und Erstjahres-Abverkauf',
               detail:
-                'Die Produktion von 1.200 Einheiten (700 Lake Angler, 500 Expedition Angler) lief von September bis November 2023 in Afarers Werk in Zhongshan. Die Sendung verließ Ningbo am 18. November 2023 und erreichte den Hafen von Göteborg am 18. Dezember 2023 – perfekt getimt für die Frühjahrseinkäufe des Handels. Nordic Angler verteilte bis zum 1. März 2024 760 Einheiten in die Regale, die restlichen 440 Einheiten lagen für den Direktversand im eigenen Lager. Bis zum 31. Mai 2024 waren 980 Einheiten abverkauft (81,7 % der Erstauflage). Das Lake-Angler-Board wurde innerhalb von 90 Tagen zur meistverkauften Angel-SUP bei XXL Schweden. Erik bestellte im Juni 2024 1.800 Einheiten nach, mit 3 Designverbesserungen – eine besser gepolsterte Tragetasche, werkzeuglose Rail-Verstellknöpfe und eine GPS-Tracker-Montagetasche.',
+                'Die Produktion von 1.200 Einheiten (700 Lake Angler, 500 Expedition Angler) lief von September bis November 2023 in OLagoons Werk in Zhongshan. Die Sendung verließ Ningbo am 18. November 2023 und erreichte den Hafen von Göteborg am 18. Dezember 2023 – perfekt getimt für die Frühjahrseinkäufe des Handels. Nordic Angler verteilte bis zum 1. März 2024 760 Einheiten in die Regale, die restlichen 440 Einheiten lagen für den Direktversand im eigenen Lager. Bis zum 31. Mai 2024 waren 980 Einheiten abverkauft (81,7 % der Erstauflage). Das Lake-Angler-Board wurde innerhalb von 90 Tagen zur meistverkauften Angel-SUP bei XXL Schweden. Erik bestellte im Juni 2024 1.800 Einheiten nach, mit 3 Designverbesserungen – eine besser gepolsterte Tragetasche, werkzeuglose Rail-Verstellknöpfe und eine GPS-Tracker-Montagetasche.',
             },
           ],
           results: [
@@ -1317,22 +1317,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Guide-zentrierte Produktspezifikation und Analyse des Kunden-Feedbacks',
               detail:
-                'Afarers Produktteam befragte im März 2023 14 in den USA tätige Angel-Guides (aus Texas, Florida, Michigan und Oregon) und erstellte daraus eine konsolidierte Spezifikation. Die drei meistgeforderten Features waren (1) eine erhöhte Wurfplattform am Bug (8 Zoll erhöht) für bessere Sicht und Freiraum für Rückhandwürfe, (2) ein geräuschloses Montagesystem für Elektromotoren (mindestens 55 lbs Schub, Heckmontage) und (3) ein „YakAttack“-kompatibles Gear-Track-System. Dwayne bestand zusätzlich auf einer maximalen Tragfähigkeit von 450 lbs für zwei Angler (Guide und Kunde). Das resultierende Datenblatt umfasste 18 Seiten, inklusive eines Strukturberichts mit Finite-Elemente-Analyse (FEA) von Afarers Engineering-Team, der zeigte, dass das Board eine Punklast von 250 lbs in der Mitte mit weniger als 1,5 Zoll Durchbiegung tragen kann.',
+                'OLagoons Produktteam befragte im März 2023 14 in den USA tätige Angel-Guides (aus Texas, Florida, Michigan und Oregon) und erstellte daraus eine konsolidierte Spezifikation. Die drei meistgeforderten Features waren (1) eine erhöhte Wurfplattform am Bug (8 Zoll erhöht) für bessere Sicht und Freiraum für Rückhandwürfe, (2) ein geräuschloses Montagesystem für Elektromotoren (mindestens 55 lbs Schub, Heckmontage) und (3) ein „YakAttack“-kompatibles Gear-Track-System. Dwayne bestand zusätzlich auf einer maximalen Tragfähigkeit von 450 lbs für zwei Angler (Guide und Kunde). Das resultierende Datenblatt umfasste 18 Seiten, inklusive eines Strukturberichts mit Finite-Elemente-Analyse (FEA) von OLagoons Engineering-Team, der zeigte, dass das Board eine Punklast von 250 lbs in der Mitte mit weniger als 1,5 Zoll Durchbiegung tragen kann.',
             },
             {
               title: 'Schritt 2 – Prototypenbau, Guide-Flottentests und Iterationszyklus',
               detail:
-                'Afarer produzierte im Mai 2023 4 Prototypen des Guide Pro. Dwayne nutzte sie exklusiv auf 22 geführten Touren über 6 Wochen (Juni-Juli 2023) mit 54 Kunden. Jede Tour wurde mit schriftlichem Kunden-Feedback und Videomaterial dokumentiert. Wichtigste Erkenntnisse – die erhöhte Wurfplattform kam sehr gut an (bewertet mit 4,8/5), aber die Kunden fanden die ursprüngliche Gear-Track-Position zu weit vorn, woraufhin Afarer sie um 6 Zoll nach hinten versetzte. Die geräuschlose Elektromotor-Halterung funktionierte, doch ihr Gewicht (9 lbs) verschob die Balance des Boards – Afarer konstruierte sie als 2-teilige Aluminium-Halterung mit 5,2 lbs neu. Der häufigste Kundenkommentar lautete „Ich fühlte mich beim ersten Versuch stabil genug, um zu stehen und zu werfen.“ Nach 54 Kundentouren zeigten null Boards strukturelle Probleme. Dwayne gab im August 2023 die finale Freigabe.',
+                'OLagoon produzierte im Mai 2023 4 Prototypen des Guide Pro. Dwayne nutzte sie exklusiv auf 22 geführten Touren über 6 Wochen (Juni-Juli 2023) mit 54 Kunden. Jede Tour wurde mit schriftlichem Kunden-Feedback und Videomaterial dokumentiert. Wichtigste Erkenntnisse – die erhöhte Wurfplattform kam sehr gut an (bewertet mit 4,8/5), aber die Kunden fanden die ursprüngliche Gear-Track-Position zu weit vorn, woraufhin OLagoon sie um 6 Zoll nach hinten versetzte. Die geräuschlose Elektromotor-Halterung funktionierte, doch ihr Gewicht (9 lbs) verschob die Balance des Boards – OLagoon konstruierte sie als 2-teilige Aluminium-Halterung mit 5,2 lbs neu. Der häufigste Kundenkommentar lautete „Ich fühlte mich beim ersten Versuch stabil genug, um zu stehen und zu werfen.“ Nach 54 Kundentouren zeigten null Boards strukturelle Probleme. Dwayne gab im August 2023 die finale Freigabe.',
             },
             {
               title: 'Schritt 3 – Markenlaunch, DTC-Website und Guide-Affiliate-Programm',
               detail:
-                'Texas Tailwaters startete am 1. November 2023 mit einer Shopify-DTC-Seite, die Afarers E-Commerce-Team umsetzte. Die Seite bot 8 Produktvideos, 34 Lifestyle-Bilder vom Lake Travis (inklusive Drohnenaufnahmen) und detaillierte „Guide Notes“ mit den persönlichen Tipps von Dwayne zu jedem Board. Afarer implementierte ein gestuftes Guide-Affiliate-Programm – Guides erhielten 15 % Provision auf direkte Empfehlungen, ein kostenloses Demo-Board nach 10 vermittelten Verkäufen und exklusiven Zugang zu einer privaten Facebook-Gruppe (42 Guide-Mitglieder bis März 2024). Die Launch-Kampagne umfasste eine Google-Ads-Strategie auf die Keywords „fishing SUP“, „SUP fishing“ und „guide paddleboard“ mit einem Monatsbudget von 3.500 $. Sein eigener Instagram-Content sorgte für erheblichen Traffic – seine „Day on the Water“-Reels erzielten im Schnitt 12.000 Aufrufe.',
+                'Texas Tailwaters startete am 1. November 2023 mit einer Shopify-DTC-Seite, die OLagoons E-Commerce-Team umsetzte. Die Seite bot 8 Produktvideos, 34 Lifestyle-Bilder vom Lake Travis (inklusive Drohnenaufnahmen) und detaillierte „Guide Notes“ mit den persönlichen Tipps von Dwayne zu jedem Board. OLagoon implementierte ein gestuftes Guide-Affiliate-Programm – Guides erhielten 15 % Provision auf direkte Empfehlungen, ein kostenloses Demo-Board nach 10 vermittelten Verkäufen und exklusiven Zugang zu einer privaten Facebook-Gruppe (42 Guide-Mitglieder bis März 2024). Die Launch-Kampagne umfasste eine Google-Ads-Strategie auf die Keywords „fishing SUP“, „SUP fishing“ und „guide paddleboard“ mit einem Monatsbudget von 3.500 $. Sein eigener Instagram-Content sorgte für erheblichen Traffic – seine „Day on the Water“-Reels erzielten im Schnitt 12.000 Aufrufe.',
             },
             {
               title: 'Schritt 4 – Produktionsabwicklung, Kundensupport und Skalierung in Jahr 2',
               detail:
-                'Die erste Produktionsauflage von 450 Einheiten (300 Guide Pro, 150 Expedition Elite) verließ am 15. Oktober 2023 Afarers Fabrik und traf am 22. November 2023 beim 3PL-Partner von Dwayne in Houston ein (ShipBob-Fulfillment-Center). Dwayne verkaufte vor dem Launch 87 Einheiten über sein Guide-Netzwerk. Bis zum 31. März 2024 waren 334 Einheiten verkauft (74,2 % des Bestands). Afarers Kundensupport-Team bearbeitete alle Garantieanfragen (6 gemeldete Probleme – 3 Ventillecks am Ventil-Innenteil, 2 gelockerte Finnenboxen, 1 Blase im Deck-Pad), alle innerhalb von 48 Stunden gelöst. Mit wachsendem Volumen stellte Dwayne im April 2024 eine Teilzeit-Kundenservice-Koordinatorin ein. Eine zweite Produktionsauflage über 800 Einheiten wurde im Mai 2024 bestellt, mit Expansion in zwei neue Handelsketten – Austin Kayak und Fishing Tackle Unlimited (beide in Texas).',
+                'Die erste Produktionsauflage von 450 Einheiten (300 Guide Pro, 150 Expedition Elite) verließ am 15. Oktober 2023 OLagoons Fabrik und traf am 22. November 2023 beim 3PL-Partner von Dwayne in Houston ein (ShipBob-Fulfillment-Center). Dwayne verkaufte vor dem Launch 87 Einheiten über sein Guide-Netzwerk. Bis zum 31. März 2024 waren 334 Einheiten verkauft (74,2 % des Bestands). OLagoons Kundensupport-Team bearbeitete alle Garantieanfragen (6 gemeldete Probleme – 3 Ventillecks am Ventil-Innenteil, 2 gelockerte Finnenboxen, 1 Blase im Deck-Pad), alle innerhalb von 48 Stunden gelöst. Mit wachsendem Volumen stellte Dwayne im April 2024 eine Teilzeit-Kundenservice-Koordinatorin ein. Eine zweite Produktionsauflage über 800 Einheiten wurde im Mai 2024 bestellt, mit Expansion in zwei neue Handelsketten – Austin Kayak und Fishing Tackle Unlimited (beide in Texas).',
             },
           ],
           results: [
@@ -1344,8 +1344,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Afarer',
+    whyOLagoon: {
+      title: 'Warum OLagoon',
       items: [
         {
           title: 'Bedürfnisse von Angel-Nutzern',
@@ -1382,7 +1382,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Kann ich Rutenhalter und Kühlboxen-Halterungen am SUP anbringen?',
         answer:
-          'Ja. Afarer integriert Angel-spezifische Zubehörsysteme direkt ins Board-Design – Rutenhalter, Kühlboxen-Montageflächen, Kamerahalterungen und D-Ring-Befestigungspunkte.',
+          'Ja. OLagoon integriert Angel-spezifische Zubehörsysteme direkt ins Board-Design – Rutenhalter, Kühlboxen-Montageflächen, Kamerahalterungen und D-Ring-Befestigungspunkte.',
       },
       {
         question: 'Wie hoch ist die Tragfähigkeit eines Angel-SUPs?',
@@ -1392,7 +1392,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Bieten Sie individuelles Branding für Angelausrüstungs-Unternehmen an?',
         answer:
-          'Ja. Afarer liefert komplette Private-Label-Fertigung mit individuellen Board-Grafiken, Markenfarben, Logo-Platzierung, EVA-Deck-Design und Verpackung für Angelmarken.',
+          'Ja. OLagoon liefert komplette Private-Label-Fertigung mit individuellen Board-Grafiken, Markenfarben, Logo-Platzierung, EVA-Deck-Design und Verpackung für Angelmarken.',
       },
       {
         question: 'Kann ein Angel-SUP im Süß- und im Salzwasser genutzt werden?',
@@ -1422,12 +1422,12 @@ const de: Record<string, SolutionOverride> = {
         '{SITE} hilft YouTube-, TikTok-, Instagram-Creators und Kickstarter-Marken, eigene SUP-Produkte mit schnellen Prototypen, Low-MOQ-Fertigung, limitierten Designs und Private-Label-Lösungen zu lancieren.',
     },
     hero: {
-      tagline: 'Verwandeln Sie Ihre Community mit Afarer in eine Wassersportmarke',
+      tagline: 'Verwandeln Sie Ihre Community mit OLagoon in eine Wassersportmarke',
       title: 'Individuelle SUP-Fertigungslösungen für YouTube-, TikTok- und Instagram-Creator sowie Kickstarter-Marken',
       subtitle:
-        'Afarer hilft Creators beim Launch eigener SUP-Marken mit schneller Prototypentwicklung, Kleinserienproduktion mit niedriger MOQ, individuellen Grafiken, limitierten Designs, Markenverpackung und flexiblen Fertigungslösungen.',
+        'OLagoon hilft Creators beim Launch eigener SUP-Marken mit schneller Prototypentwicklung, Kleinserienproduktion mit niedriger MOQ, individuellen Grafiken, limitierten Designs, Markenverpackung und flexiblen Fertigungslösungen.',
       image: {
-        alt: 'Individuelle Afarer-SUP-Boards für Creator- und Influencer-Marken',
+        alt: 'Individuelle OLagoon-SUP-Boards für Creator- und Influencer-Marken',
       },
     },
     challenge: {
@@ -1461,7 +1461,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Schnelle SUP-Prototypentwicklung',
           description:
-            'Afarer hilft, Ideen zügig in physische Prototypen zu verwandeln. Von der Konzeptentwicklung über Board-Muster bis zu Grafiktests und Konfigurationsanpassung können Creators anhand von Community-Feedback schnell iterieren.',
+            'OLagoon hilft, Ideen zügig in physische Prototypen zu verwandeln. Von der Konzeptentwicklung über Board-Muster bis zu Grafiktests und Konfigurationsanpassung können Creators anhand von Community-Feedback schnell iterieren.',
           features: [
             'Entwicklung des Produktkonzepts',
             'Prototypenbau',
@@ -1472,7 +1472,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Niedrige MOQ-Produktion für Creator-Marken',
           description:
-            'Creators müssen die Nachfrage vor dem Skalieren validieren. Afarer unterstützt flexible Startup-Mengen ab 100-300 Einheiten für Community-Tests und limitierte Launches, skalierbar auf 500-2.000 für Wachstum und 3.000+ für den vollen Markenbetrieb.',
+            'Creators müssen die Nachfrage vor dem Skalieren validieren. OLagoon unterstützt flexible Startup-Mengen ab 100-300 Einheiten für Community-Tests und limitierte Launches, skalierbar auf 500-2.000 für Wachstum und 3.000+ für den vollen Markenbetrieb.',
           features: [
             'Creator-Launch-Phase mit 100-300 Einheiten',
             'Wachstumsphase mit 500-2.000 Einheiten',
@@ -1483,7 +1483,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Limitiertes Creator-SUP-Design',
           description:
-            'Creator-Marken sind durch Einzigartigkeit erfolgreich. Afarer hilft bei der Entwicklung exklusiver Editionen mit individuellen Grafiken, Signature-Artwork, speziellen Farbeditionen und Community-inspirierten Designelementen, die Fans wirklich wollen.',
+            'Creator-Marken sind durch Einzigartigkeit erfolgreich. OLagoon hilft bei der Entwicklung exklusiver Editionen mit individuellen Grafiken, Signature-Artwork, speziellen Farbeditionen und Community-inspirierten Designelementen, die Fans wirklich wollen.',
           features: [
             'Individuelle Grafiken und Artwork',
             'Signature- und Community-Editionen',
@@ -1494,12 +1494,12 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Premium-Verpackung für Creator-Launches',
           description:
-            'Für Creators ist das Unboxing Teil des Markenerlebnisses. Afarer unterstützt individuelle Verpackung mit gebrandeten Kartons, Produktkarten, Dankesbotschaften und QR-Codes, die zu Creator-Content führen und Kunden zu langfristigen Followern machen.',
+            'Für Creators ist das Unboxing Teil des Markenerlebnisses. OLagoon unterstützt individuelle Verpackung mit gebrandeten Kartons, Produktkarten, Dankesbotschaften und QR-Codes, die zu Creator-Content führen und Kunden zu langfristigen Followern machen.',
         },
         {
           title: 'Kickstarter- & Crowdfunding-Produktsupport',
           description:
-            'Viele Creators nutzen Crowdfunding zur Nachfragevalidierung. Afarer unterstützt die Prototypentwicklung vor dem Launch, die Produktionsplanung für die Kampagne und die Chargenabwicklung danach, damit Creator ihre Versprechen einhalten.',
+            'Viele Creators nutzen Crowdfunding zur Nachfragevalidierung. OLagoon unterstützt die Prototypentwicklung vor dem Launch, die Produktionsplanung für die Kampagne und die Chargenabwicklung danach, damit Creator ihre Versprechen einhalten.',
           features: [
             'Entwicklung vor dem Launch',
             'Produktionsplanung für die Kampagne',
@@ -1510,7 +1510,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Produktexpansion für Creator-Marken',
           description:
-            'Eine erfolgreiche Creator-Marke kann zu einem vollständigen Outdoor-Ökosystem wachsen. Afarer unterstützt SUP-Produktlinien, Wasser-Zubehör und Saisonkollektionen, die mit der Community wachsen.',
+            'Eine erfolgreiche Creator-Marke kann zu einem vollständigen Outdoor-Ökosystem wachsen. OLagoon unterstützt SUP-Produktlinien, Wasser-Zubehör und Saisonkollektionen, die mit der Community wachsen.',
           features: [
             'Signature-SUP-Board-Linie',
             'Wasser-Zubehör',
@@ -1521,7 +1521,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Content-freundliche Produktentwicklung',
           description:
-            'Creators brauchen Produkte, die Storytelling natürlich unterstützen. Afarer hilft, Produkte für Unboxing-Videos, Adventure-Content, Produktreviews und Community-Challenges zu entwickeln, die organisches Engagement erzeugen.',
+            'Creators brauchen Produkte, die Storytelling natürlich unterstützen. OLagoon hilft, Produkte für Unboxing-Videos, Adventure-Content, Produktreviews und Community-Challenges zu entwickeln, die organisches Engagement erzeugen.',
           features: [
             'Unboxing-Erlebnis-Design',
             'Adventure-taugliche Produkte',
@@ -1532,7 +1532,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Qualitätskontrolle für den Creator-Ruf',
           description:
-            'Vertrauen ist das wertvollste Gut eines Creators. Afarers Qualitätskontrolle umfasst Luftdruck-Stabilitätstests, Prüfung der Board-Langlebigkeit, Grafik- und Farb-Konsistenzchecks und vollständige Zubehörinspektion zum Schutz der Community-Beziehungen.',
+            'Vertrauen ist das wertvollste Gut eines Creators. OLagoons Qualitätskontrolle umfasst Luftdruck-Stabilitätstests, Prüfung der Board-Langlebigkeit, Grafik- und Farb-Konsistenzchecks und vollständige Zubehörinspektion zum Schutz der Community-Beziehungen.',
         },
       ],
     },
@@ -1551,7 +1551,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Prototypentwicklung',
           detail:
-            'Afarer erstellte ein individuelles Board-Design mit Signature-Grafiken und Produktmustern. Der Creator testete Performance und Erscheinungsbild und sammelte Publikums-Feedback, bevor er die Produktion festlegte.',
+            'OLagoon erstellte ein individuelles Board-Design mit Signature-Grafiken und Produktmustern. Der Creator testete Performance und Erscheinungsbild und sammelte Publikums-Feedback, bevor er die Produktion festlegte.',
         },
         {
           title: 'Limitierter Editions-Launch',
@@ -1576,29 +1576,29 @@ const de: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brasilien',
             background:
-              'Carlos Mendes, 34, ist ein von National Geographic vorgestellter Adventure-Fotograf und Drohnenpilot mit 890.000 Instagram-Followern. Nach 7 Jahren der Dokumentation abgelegener Amazonas-Flussexpeditionen bemerkte er, dass sein Publikum zunehmend nach den aufblasbaren SUPs fragte, mit denen er seine Drehorte erreichte. Ohne Paddel-Hintergrund brauchte er Afarer, um ein individuelles Board zu konstruieren, das zugleich Kameraplatzform und Expeditionsboot sein konnte – und um rund um seine Serie „Rios do Brasil“ eine Merchandise-Marke aufzubauen.',
+              'Carlos Mendes, 34, ist ein von National Geographic vorgestellter Adventure-Fotograf und Drohnenpilot mit 890.000 Instagram-Followern. Nach 7 Jahren der Dokumentation abgelegener Amazonas-Flussexpeditionen bemerkte er, dass sein Publikum zunehmend nach den aufblasbaren SUPs fragte, mit denen er seine Drehorte erreichte. Ohne Paddel-Hintergrund brauchte er OLagoon, um ein individuelles Board zu konstruieren, das zugleich Kameraplatzform und Expeditionsboot sein konnte – und um rund um seine Serie „Rios do Brasil“ eine Merchandise-Marke aufzubauen.',
             goal: 'Launch eines Co-Branding-Signature-SUPs bis Mai 2025, das die 5 großen Wasser-Biome Brasiliens einfängt (Amazonas, Pantanal, São Francisco, Paraná und die Küste von Rio), mit einem Vorverkauf von 500 Einheiten à R$ 4.990 vor Produktionsbeginn.',
           },
           steps: [
             {
-              title: 'Biome-spezifische F&E-Expedition mit Afarer-Ingenieuren',
+              title: 'Biome-spezifische F&E-Expedition mit OLagoon-Ingenieuren',
               detail:
-                'Im August 2024 entsandte Afarer den leitenden Marineingenieur Li Wei und den Produktdesigner Henrik Larsson für 10 Tage nach Manaus. Sie paddelten mit Carlos 180 km auf dem Rio Negro und maßen Wassertemperatur (28-32 °C), Sedimentfracht und die typische Zuladung (40 kg Kameraausrüstung plus 25 kg Campingausrüstung). Sie stellten fest, dass Standard-Boards mit Drop-Stitch unter der Kombination aus äquatorialem UV-Index 12+ und abrasivem Sandeintrag bei Portagen delaminierten. Carlos bestand darauf, dass das Board zum Transport in Buschflugzeugen entleert in eine 65-Liter-Dry Bag passen muss.',
+                'Im August 2024 entsandte OLagoon den leitenden Marineingenieur Li Wei und den Produktdesigner Henrik Larsson für 10 Tage nach Manaus. Sie paddelten mit Carlos 180 km auf dem Rio Negro und maßen Wassertemperatur (28-32 °C), Sedimentfracht und die typische Zuladung (40 kg Kameraausrüstung plus 25 kg Campingausrüstung). Sie stellten fest, dass Standard-Boards mit Drop-Stitch unter der Kombination aus äquatorialem UV-Index 12+ und abrasivem Sandeintrag bei Portagen delaminierten. Carlos bestand darauf, dass das Board zum Transport in Buschflugzeugen entleert in eine 65-Liter-Dry Bag passen muss.',
             },
             {
               title: 'Dreilagige Fusion-Konstruktion und modulares Rigging-System',
               detail:
-                'Afarers F&E-Zentrum in Xiamen produzierte zwischen September und November 2024 7 Prototypen. Das finale Design nutzte ein 3-lagiges PVC-Dropstitch-PVC-Sandwich mit zusätzlicher UV-reflektierender Deckschicht, getestet bei 1.200 Stunden beschleunigter UV-Belastung. Ein proprietäres „Rails-to-Rail“-Verstrebungssystem erhöhte die laterale Steifigkeit ohne Zusatzgewicht. Carlos und Afarer gestalteten gemeinsam ein modulares Kamera-Montage-Railsystem, das durch verstärkte Pads verschraubt wurde – ohne Saugnäpfe – und bei 30 km/h Schleppgeschwindigkeit 28 kg hielt. Jedes Board wog nur 11,8 kg, trug aber 220 kg Zuladung.',
+                'OLagoons F&E-Zentrum in Xiamen produzierte zwischen September und November 2024 7 Prototypen. Das finale Design nutzte ein 3-lagiges PVC-Dropstitch-PVC-Sandwich mit zusätzlicher UV-reflektierender Deckschicht, getestet bei 1.200 Stunden beschleunigter UV-Belastung. Ein proprietäres „Rails-to-Rail“-Verstrebungssystem erhöhte die laterale Steifigkeit ohne Zusatzgewicht. Carlos und OLagoon gestalteten gemeinsam ein modulares Kamera-Montage-Railsystem, das durch verstärkte Pads verschraubt wurde – ohne Saugnäpfe – und bei 30 km/h Schleppgeschwindigkeit 28 kg hielt. Jedes Board wog nur 11,8 kg, trug aber 220 kg Zuladung.',
             },
             {
               title: 'Content-getriebene Pre-Launch-Kampagne und limitierte Biome-Editionen',
               detail:
-                'Ab Dezember 2024 veröffentlichte Carlos 5 Mini-Dokumentationen (im Schnitt 4,2 Mio. Aufrufe) mit Prototyp-Tests in jedem Biom. Afarer richtete einen eigenen Shopify-D2C-Shop mit regionalen Logistik-Hubs in Manaus, São Paulo und Brasília ein. Sie produzierten 5 Biome-spezifische Farbvarianten (Rio-Negro-Dunkelwasser, Pantanal-Sonnenuntergang, São-Francisco-Canyonrot, Paraná-Waldgrün, Costa-Dourada-Gold), jeweils auf 100 Einheiten limitiert. Kunden konnten ihr Biom „adoptieren“ und erhielten eine per GPS nachverfolgte Spendenbestätigung an den Amazonas-Aufforstungsfonds von Carlos.',
+                'Ab Dezember 2024 veröffentlichte Carlos 5 Mini-Dokumentationen (im Schnitt 4,2 Mio. Aufrufe) mit Prototyp-Tests in jedem Biom. OLagoon richtete einen eigenen Shopify-D2C-Shop mit regionalen Logistik-Hubs in Manaus, São Paulo und Brasília ein. Sie produzierten 5 Biome-spezifische Farbvarianten (Rio-Negro-Dunkelwasser, Pantanal-Sonnenuntergang, São-Francisco-Canyonrot, Paraná-Waldgrün, Costa-Dourada-Gold), jeweils auf 100 Einheiten limitiert. Kunden konnten ihr Biom „adoptieren“ und erhielten eine per GPS nachverfolgte Spendenbestätigung an den Amazonas-Aufforstungsfonds von Carlos.',
             },
             {
               title: 'Launch im April 2025 und brasilianisches Vertriebsnetz',
               detail:
-                'Am 5. April 2025 startete der „Rios do Brasil Explorer 12.6“ im Ibirapuera-Park in São Paulo vor 350 Influencern und Medienvertretern. Alle 500 Einheiten waren innerhalb von 11 Stunden vorverkauft – ein Umsatz von 2,495 Mio. R$. Afarer ließ 200 Einheiten per Luftfracht einfliegen, um die Trockenzeit des Amazonas zu schlagen, während 300 per Seefracht gingen. Das Biome-Spendenprogramm von Carlos brachte im ersten Monat 187.000 R$ ein. Afarer und Carlos unterzeichneten eine 3-jährige Exklusivvereinbarung für Lateinamerika mit mindestens 2.000 Einheiten pro Jahr; ein zweites Modell (der „Expedition Tandem“) ist bereits für 2026 in Entwicklung.',
+                'Am 5. April 2025 startete der „Rios do Brasil Explorer 12.6“ im Ibirapuera-Park in São Paulo vor 350 Influencern und Medienvertretern. Alle 500 Einheiten waren innerhalb von 11 Stunden vorverkauft – ein Umsatz von 2,495 Mio. R$. OLagoon ließ 200 Einheiten per Luftfracht einfliegen, um die Trockenzeit des Amazonas zu schlagen, während 300 per Seefracht gingen. Das Biome-Spendenprogramm von Carlos brachte im ersten Monat 187.000 R$ ein. OLagoon und Carlos unterzeichneten eine 3-jährige Exklusivvereinbarung für Lateinamerika mit mindestens 2.000 Einheiten pro Jahr; ein zweites Modell (der „Expedition Tandem“) ist bereits für 2026 in Entwicklung.',
             },
           ],
           results: [
@@ -1613,29 +1613,29 @@ const de: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norwegen',
             background:
-              'Tor Haugen, 29, ist ein ehemaliger norwegischer Nationalmannschafts-Langläufer, der es bis ins Halbfinale der CrossFit Games brachte, mit 620.000 YouTube-Abonnenten und 410.000 TikTok-Followern. Sein Fitness-Kanal „Nordic Strength“ zeigt Outdoor-Workouts mit unkonventioneller Ausrüstung. Nach einem viralen Video (8,7 Mio. Aufrufe), das ihn beim Burpee-Training auf einem billigen SUP im Oslofjord zeigte, forderte seine Community ein Board für hochintensives Fitnesstraining. Tor hatte keine Produktdesign-Erfahrung und brauchte Afarer für den Bau einer stabilen Plattform, die Sprünge, fallende Gewichte und nordische Wetterextreme aushält.',
+              'Tor Haugen, 29, ist ein ehemaliger norwegischer Nationalmannschafts-Langläufer, der es bis ins Halbfinale der CrossFit Games brachte, mit 620.000 YouTube-Abonnenten und 410.000 TikTok-Followern. Sein Fitness-Kanal „Nordic Strength“ zeigt Outdoor-Workouts mit unkonventioneller Ausrüstung. Nach einem viralen Video (8,7 Mio. Aufrufe), das ihn beim Burpee-Training auf einem billigen SUP im Oslofjord zeigte, forderte seine Community ein Board für hochintensives Fitnesstraining. Tor hatte keine Produktdesign-Erfahrung und brauchte OLagoon für den Bau einer stabilen Plattform, die Sprünge, fallende Gewichte und nordische Wetterextreme aushält.',
             goal: 'Entwicklung des ersten „Functional-Fitness-SUPs“, zertifiziert für CrossFit-artiges Training, mit Launch im Oktober 2024 zu 3.990 NOK (370 USD), einem Vorverkauf von 1.000 Einheiten und einer gleichzeitigen Europatournee durch 20 Städte.',
           },
           steps: [
             {
               title: 'Prototyp-Tests im Oslofjord mit Kraftmesszellen-Testing',
               detail:
-                'Afarers Produktteam unter der Leitung der Strukturingenieurin Marta Johansson verbrachte im März 2024 eine Woche an der Kongshavn-Marina in Oslo. Sie instrumentierten 6 Wettbewerber-Boards mit 14 Dehnungsmessstreifen und Beschleunigungssensoren, während Tor Burpees (120 bpm Tempo), Barbell-Overhead-Holds (60 kg) und Box Jumps (50-cm-Box) ausführte. Die Ergebnisse zeigten, dass Standard-SUP-Boards die 3,7-fache dynamische Last des Freizeitpaddelns erfahren. Die Deck-Durchbiegung überstieg 22 mm – gefährlich für die Sprunggelenkstabilität. Martas Team berechnete, dass ein um 200 % steiferer Torsionskasten mit einer einzigartigen „Drop-Through“-Standplattform nötig war.',
+                'OLagoons Produktteam unter der Leitung der Strukturingenieurin Marta Johansson verbrachte im März 2024 eine Woche an der Kongshavn-Marina in Oslo. Sie instrumentierten 6 Wettbewerber-Boards mit 14 Dehnungsmessstreifen und Beschleunigungssensoren, während Tor Burpees (120 bpm Tempo), Barbell-Overhead-Holds (60 kg) und Box Jumps (50-cm-Box) ausführte. Die Ergebnisse zeigten, dass Standard-SUP-Boards die 3,7-fache dynamische Last des Freizeitpaddelns erfahren. Die Deck-Durchbiegung überstieg 22 mm – gefährlich für die Sprunggelenkstabilität. Martas Team berechnete, dass ein um 200 % steiferer Torsionskasten mit einer einzigartigen „Drop-Through“-Standplattform nötig war.',
             },
             {
               title: 'Verbund-Stringer-Plattform und rutschfeste Deck-Technologie',
               detail:
-                'Über 4 Monate baute Afarer 9 Prototypen mit steigender Steifigkeit. Der Durchbruch kam von einem 2,5-mm-Aluminium-Stringer in Marinequalität, eingebettet zwischen zwei Drop-Stitch-Lagen – ein Board mit nur 0,8 mm Durchbiegung unter 100 kg dynamischer Last. Das Deck nutzte ein geschlossenzelliges EVA mit 6 mm hohem Diamantmuster – Tor testete es nass, gesalzen und schlammig und fand Halt, der Skateboard-Griptape übertraf. Afarer fügte D-Ring-Zurrgurte an 22 Punkten rund um das Board für Widerstandsbänder und Gewichtsplatten hinzu. Jedes Board hatte einen einclipsbaren Sicherheits-Leash-Anker, ausgelegt auf 500 kg statische Last.',
+                'Über 4 Monate baute OLagoon 9 Prototypen mit steigender Steifigkeit. Der Durchbruch kam von einem 2,5-mm-Aluminium-Stringer in Marinequalität, eingebettet zwischen zwei Drop-Stitch-Lagen – ein Board mit nur 0,8 mm Durchbiegung unter 100 kg dynamischer Last. Das Deck nutzte ein geschlossenzelliges EVA mit 6 mm hohem Diamantmuster – Tor testete es nass, gesalzen und schlammig und fand Halt, der Skateboard-Griptape übertraf. OLagoon fügte D-Ring-Zurrgurte an 22 Punkten rund um das Board für Widerstandsbänder und Gewichtsplatten hinzu. Jedes Board hatte einen einclipsbaren Sicherheits-Leash-Anker, ausgelegt auf 500 kg statische Last.',
             },
             {
               title: 'Nordic-Strength-Co-Branding und Zertifizierungsprozess',
               detail:
-                'Tor und Afarer schufen das Branding „Nordic Strength Trainer 11.0“ mit Tors charakteristischem Blau-Weiß-Schema passend zu seinem Kanal-Artwork. Afarer begleitete Tor durch die EU-CE-Zertifizierung für Fitnessgeräte (ein separater Prozess gegenüber der Standard-SUP-Zertifizierung) mit 200 Stunden mechanischer Ermüdungsprüfung. Die Verpackung enthielt QR-Codes zu Tors 12-wöchigem Trainingsprogramm „Fjord Fitness“, gedreht in Partnerschaft mit einer norwegischen Sportmedizin-Klinik. Afarer richtete ein europäisches Distributions-Hub in Rotterdam für 20 Länder ein.',
+                'Tor und OLagoon schufen das Branding „Nordic Strength Trainer 11.0“ mit Tors charakteristischem Blau-Weiß-Schema passend zu seinem Kanal-Artwork. OLagoon begleitete Tor durch die EU-CE-Zertifizierung für Fitnessgeräte (ein separater Prozess gegenüber der Standard-SUP-Zertifizierung) mit 200 Stunden mechanischer Ermüdungsprüfung. Die Verpackung enthielt QR-Codes zu Tors 12-wöchigem Trainingsprogramm „Fjord Fitness“, gedreht in Partnerschaft mit einer norwegischen Sportmedizin-Klinik. OLagoon richtete ein europäisches Distributions-Hub in Rotterdam für 20 Länder ein.',
             },
             {
               title: 'Launch im Oktober 2024 in 20 europäischen Städten',
               detail:
-                'Tors „Fjord to Peak“-Tour startete am 12. Oktober 2024 im Badgebiet Sørenga in Oslo mit 1.200 Teilnehmern bei einem Gruppen-SUP-Workout. Über 5 Wochen besuchte Tor Kopenhagen, Hamburg, Amsterdam, Berlin, Warschau, Prag, München, Zürich, Mailand, Barcelona, Madrid, Paris, London, Dublin, Edinburgh, Stockholm, Helsinki, Tallinn und Riga. Jede Veranstaltung kombinierte einen 45-minütigen SUP-Fitnesskurs mit einem Meet-and-Greet. Alle 1.000 Launch-Einheiten waren vor der ersten Veranstaltung im Vorverkauf ausverkauft; Afarer ließ mitten auf der Tour 500 zusätzliche Einheiten per Luftfracht einfliegen. Der Gesamtabsatz 2024 erreichte 2.300 Einheiten in 18 europäischen Ländern.',
+                'Tors „Fjord to Peak“-Tour startete am 12. Oktober 2024 im Badgebiet Sørenga in Oslo mit 1.200 Teilnehmern bei einem Gruppen-SUP-Workout. Über 5 Wochen besuchte Tor Kopenhagen, Hamburg, Amsterdam, Berlin, Warschau, Prag, München, Zürich, Mailand, Barcelona, Madrid, Paris, London, Dublin, Edinburgh, Stockholm, Helsinki, Tallinn und Riga. Jede Veranstaltung kombinierte einen 45-minütigen SUP-Fitnesskurs mit einem Meet-and-Greet. Alle 1.000 Launch-Einheiten waren vor der ersten Veranstaltung im Vorverkauf ausverkauft; OLagoon ließ mitten auf der Tour 500 zusätzliche Einheiten per Luftfracht einfliegen. Der Gesamtabsatz 2024 erreichte 2.300 Einheiten in 18 europäischen Ländern.',
             },
           ],
           results: [
@@ -1647,8 +1647,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Creator Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Creator OLagoon wählen',
       items: [
         {
           title: 'Produkt-Expertise',
@@ -1676,38 +1676,38 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Wie hoch ist die Mindestbestellmenge für SUP-Produkte in Creator-Branding?',
         answer:
-          'Afarer unterstützt Kleinserienproduktion ab 100-300 Einheiten für die Creator-Launch-Phase, damit Sie die Nachfrage ohne große Lagerinvestition validieren können. Mit wachsender Marke skalieren wir die Produktion auf 500-2.000 Einheiten und mehr.',
+          'OLagoon unterstützt Kleinserienproduktion ab 100-300 Einheiten für die Creator-Launch-Phase, damit Sie die Nachfrage ohne große Lagerinvestition validieren können. Mit wachsender Marke skalieren wir die Produktion auf 500-2.000 Einheiten und mehr.',
       },
       {
-        question: 'Kann Afarer bei Design und Prototyping meines individuellen SUP-Boards helfen?',
+        question: 'Kann OLagoon bei Design und Prototyping meines individuellen SUP-Boards helfen?',
         answer:
-          'Ja, Afarer bietet komplette Produktkonzeptentwicklung, Prototypenbau, Farb- und Grafiktests und Konfigurationsanpassung. Wir arbeiten eng mit Creators zusammen, um ihre Vision Wirklichkeit werden zu lassen – mit individuellen Board-Designs, Signature-Grafiken und Produktmustern.',
+          'Ja, OLagoon bietet komplette Produktkonzeptentwicklung, Prototypenbau, Farb- und Grafiktests und Konfigurationsanpassung. Wir arbeiten eng mit Creators zusammen, um ihre Vision Wirklichkeit werden zu lassen – mit individuellen Board-Designs, Signature-Grafiken und Produktmustern.',
       },
       {
         question: 'Wie lange dauert es, einen Prototyp zu entwickeln und die Produktion zu starten?',
         answer:
-          'Afarer legt bei Creator-Projekten Wert auf Tempo. Die Prototypentwicklung dauert typischerweise wenige Wochen, und die Produktionszeitpläne sind flexibel an Kampagnenkalender, saisonales Timing und die Dynamik des Publikums anpassbar.',
+          'OLagoon legt bei Creator-Projekten Wert auf Tempo. Die Prototypentwicklung dauert typischerweise wenige Wochen, und die Produktionszeitpläne sind flexibel an Kampagnenkalender, saisonales Timing und die Dynamik des Publikums anpassbar.',
       },
       {
         question: 'Können Sie Kickstarter-Kampagnen mit Fertigung und Abwicklung unterstützen?',
         answer:
-          'Ja, Afarer unterstützt die Prototyp-Vorbereitung vor dem Launch, die Produktionsplanung für die Kampagne, die Erstellung realistischer Zeitpläne und die Chargenabwicklung nach der Kampagne inklusive Verpackungs- und Versandvorbereitung.',
+          'Ja, OLagoon unterstützt die Prototyp-Vorbereitung vor dem Launch, die Produktionsplanung für die Kampagne, die Erstellung realistischer Zeitpläne und die Chargenabwicklung nach der Kampagne inklusive Verpackungs- und Versandvorbereitung.',
       },
       {
         question: 'Welche Anpassungsoptionen gibt es für limitierte SUP-Board-Editionen?',
         answer:
-          'Afarer bietet individuelle Grafiken, Signature-Artwork, Creator-Logos, Community-Symbole, einzigartige Muster, spezielle Farbeditionen, limitierte Nummerierung und Premium-Verpackung mit gebrandeten Kartons und Story-Material.',
+          'OLagoon bietet individuelle Grafiken, Signature-Artwork, Creator-Logos, Community-Symbole, einzigartige Muster, spezielle Farbeditionen, limitierte Nummerierung und Premium-Verpackung mit gebrandeten Kartons und Story-Material.',
       },
       {
-        question: 'Wie stellt Afarer die Qualitätskontrolle für Creator-Produkte sicher?',
+        question: 'Wie stellt OLagoon die Qualitätskontrolle für Creator-Produkte sicher?',
         answer:
-          'Afarer führt Luftdruck-Stabilitätstests, Prüfungen der Board-Langlebigkeit, Materialqualitätsinspektionen, Grafik- und Farb-Konsistenzchecks, Verpackungs-Reviews und vollständige Zubehörinspektionen durch, um das Vertrauen Ihrer Community zu schützen.',
+          'OLagoon führt Luftdruck-Stabilitätstests, Prüfungen der Board-Langlebigkeit, Materialqualitätsinspektionen, Grafik- und Farb-Konsistenzchecks, Verpackungs-Reviews und vollständige Zubehörinspektionen durch, um das Vertrauen Ihrer Community zu schützen.',
       },
     ],
     cta: {
-      title: 'Bauen Sie mit Afarer Ihre Creator-Edition-SUP-Marke',
+      title: 'Bauen Sie mit OLagoon Ihre Creator-Edition-SUP-Marke',
       subtitle:
-        'Ihre Community begleitet bereits Ihre Reise. Schaffen Sie jetzt etwas, das sie erleben können. Afarer hilft Creators beim Launch individueller SUP-Produkte, limitierter Boards und Private-Label-Outdoor-Ausrüstung.',
+        'Ihre Community begleitet bereits Ihre Reise. Schaffen Sie jetzt etwas, das sie erleben können. OLagoon hilft Creators beim Launch individueller SUP-Produkte, limitierter Boards und Private-Label-Outdoor-Ausrüstung.',
       primaryAction: {
         text: 'Starten Sie heute Ihr Creator-SUP-Projekt',
       },
@@ -1721,7 +1721,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Ausrüstungslieferant für Wasser-Zielorte | {SITE}',
       description:
-        'Afarer bietet Wassersportlösungen für Destinationen an: Tourismusbehörden, öffentliche Parks und Uferprojekte. Kommerzielle SUP-Flotten, umweltfreundliche Ausrüstung, Unterstützung bei Regierungsprojekten und Großserien-OEM-Lieferung.',
+        'OLagoon bietet Wassersportlösungen für Destinationen an: Tourismusbehörden, öffentliche Parks und Uferprojekte. Kommerzielle SUP-Flotten, umweltfreundliche Ausrüstung, Unterstützung bei Regierungsprojekten und Großserien-OEM-Lieferung.',
     },
     hero: {
       tagline: 'Nachhaltige Wassererlebnis-Lösungen für Tourismusbehörden, öffentliche Parks & Destination-Projekte',
@@ -1814,7 +1814,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Destination-Planung',
           detail:
-            'Afarer gestaltete ein vollständiges Wasseraktivitätensystem – inklusive Planung der Flottenmenge, Aktivitätszonen und Ausrüstungskonfiguration.',
+            'OLagoon gestaltete ein vollständiges Wasseraktivitätensystem – inklusive Planung der Flottenmenge, Aktivitätszonen und Ausrüstungskonfiguration.',
         },
         {
           title: 'Lieferung kommerzieller Ausrüstung',
@@ -1853,17 +1853,17 @@ const de: Record<string, SolutionOverride> = {
               title:
                 'Schritt 1: Spezifikation der lautlosen Flotte & Anforderungen an biologisch abbaubare Materialien',
               detail:
-                'Im September 2024 veröffentlichte Kovacic eine Ausschreibung (RFP) mit den Anforderungen (1) keinerlei Einwegplastik in der Boardkonstruktion, (2) vollständige Recycelbarkeit am Lebensende und (3) eine Leise-Betriebs-Zertifizierung unter 25 dB in 5 m Abstand. Afarer gewann mit dem EcoTouring 12\'6" X – gebaut aus biosourcetem Drop-Stitch-Garn (Polymer auf Rizinusölbasis, 42 % erneuerbarer Anteil) und natürlichen Kork-Deckpads (FSC-zertifizierter portugiesischer Kork). Jedes Board enthielt einen versiegelten Bambus-Stringer für Steifigkeit ohne erdölbasierte Komponenten. Die LBTB bestellte 200 Boards (insgesamt 246.000 €) plus 12 elektrische Aufblasstationen, gespeist von solarbetriebenen Ladesäulen am Ufer.',
+                'Im September 2024 veröffentlichte Kovacic eine Ausschreibung (RFP) mit den Anforderungen (1) keinerlei Einwegplastik in der Boardkonstruktion, (2) vollständige Recycelbarkeit am Lebensende und (3) eine Leise-Betriebs-Zertifizierung unter 25 dB in 5 m Abstand. OLagoon gewann mit dem EcoTouring 12\'6" X – gebaut aus biosourcetem Drop-Stitch-Garn (Polymer auf Rizinusölbasis, 42 % erneuerbarer Anteil) und natürlichen Kork-Deckpads (FSC-zertifizierter portugiesischer Kork). Jedes Board enthielt einen versiegelten Bambus-Stringer für Steifigkeit ohne erdölbasierte Komponenten. Die LBTB bestellte 200 Boards (insgesamt 246.000 €) plus 12 elektrische Aufblasstationen, gespeist von solarbetriebenen Ladesäulen am Ufer.',
             },
             {
               title: 'Schritt 2: 6-km-GPS-geführte Ökoroute mit 12 erläuternden Wegpunkten',
               detail:
-                'Über den Winter 2024-2025 kartierte die LBTB eine 6,2 km lange Uferroute mit 12 erläuternden Haltepunkten (thermale Quelle am Schloss Bled, Glockenmechanismus der Marienkirche, Sedimentationszonen der Insel). Afarer integrierte eine wasserdichte GPS-Audioguide-Einheit (robustes IP68-Tablet in einer Deckmontage-Halterung), die an jedem Wegpunkt 90-sekündige kommentierte Segmente in 7 Sprachen wiedergab. Die Route wurde so geführt, dass empfindliche Vogelbrutgebiete gemieden wurden (Brutplätze des Haubentauchers, Sperrung von November bis März). Die LBTB installierte 12 Bambus-Markierungsbojen für 18.000 € und ersetzte damit 32 bestehende Motorboot-Bojen.',
+                'Über den Winter 2024-2025 kartierte die LBTB eine 6,2 km lange Uferroute mit 12 erläuternden Haltepunkten (thermale Quelle am Schloss Bled, Glockenmechanismus der Marienkirche, Sedimentationszonen der Insel). OLagoon integrierte eine wasserdichte GPS-Audioguide-Einheit (robustes IP68-Tablet in einer Deckmontage-Halterung), die an jedem Wegpunkt 90-sekündige kommentierte Segmente in 7 Sprachen wiedergab. Die Route wurde so geführt, dass empfindliche Vogelbrutgebiete gemieden wurden (Brutplätze des Haubentauchers, Sperrung von November bis März). Die LBTB installierte 12 Bambus-Markierungsbojen für 18.000 € und ersetzte damit 32 bestehende Motorboot-Bojen.',
             },
             {
               title: 'Schritt 3: Umstellungsprogramm & Zertifizierung für Vermietungsbetreiber',
               detail:
-                'In der Nebensaison von Januar bis März 2025 führte die LBTB ein verpflichtendes Umstellungsprogramm für alle 14 lizenzierten Bootsvermieter durch. Afarer bot 36 Betreibern und Mitarbeitern eine 4-tägige SUP-Guide-Zertifizierung – mit Routenwissen, Notfallreaktion und der Vermittlung der Umweltinformationen. Die LBTB gewährte einen Zuschuss von 4.000 € pro Betreiber für die Umstellung von Motorbooten auf SUP-Vermietung – finanziert aus dem Green-Transition-Zuschuss des slowenischen Tourismusministeriums (insgesamt 280.000 €). Bis zum 1. April hatten 11 von 14 Betreibern vollständig umgestellt – die übrigen 3 verpflichteten sich zu einem Hybridbetrieb mit Auslaufplan bis 2026.',
+                'In der Nebensaison von Januar bis März 2025 führte die LBTB ein verpflichtendes Umstellungsprogramm für alle 14 lizenzierten Bootsvermieter durch. OLagoon bot 36 Betreibern und Mitarbeitern eine 4-tägige SUP-Guide-Zertifizierung – mit Routenwissen, Notfallreaktion und der Vermittlung der Umweltinformationen. Die LBTB gewährte einen Zuschuss von 4.000 € pro Betreiber für die Umstellung von Motorbooten auf SUP-Vermietung – finanziert aus dem Green-Transition-Zuschuss des slowenischen Tourismusministeriums (insgesamt 280.000 €). Bis zum 1. April hatten 11 von 14 Betreibern vollständig umgestellt – die übrigen 3 verpflichteten sich zu einem Hybridbetrieb mit Auslaufplan bis 2026.',
             },
             {
               title: 'Schritt 4: Earth-Day-Launch, Saisonergebnisse & UNESCO-Compliance',
@@ -1891,17 +1891,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: Routenkartierung, Risikobewertung & Einhaltung der Marinezonen',
               detail:
-                "Von November 2024 bis Februar 2025 arbeitete Delacroix' Team mit Afarers Routenspezialisten und dem französischen Office of Biodiversity (OFB) daran, 50 km Küste zu vermessen und zu klassifizieren. Sie identifizierten 5 Routen – (1) Cap d'Antibes bis Baie des Milliardaires (4,2 km, mittelschwer), (2) Umrundung der Île Sainte-Marguerite (7,1 km, anspruchsvoll), (3) Calanque de Maubois (2,8 km, Einsteiger), (4) Meeresschutzgebiet Villefranche-sur-Mer (3,5 km, nur geführt) und (5) Sonnenuntergangspaddeln von Menton zum Cap Martin (5,5 km, mittelschwer). Jede Route wurde mit 12-15 GPS-Wegpunkten kartiert – inklusive verpflichtender Raststopps bei vorab genehmigten privaten Beachclubs, die eine jährliche Partnerschaftsgebühr von 2.500 € zahlten.",
+                "Von November 2024 bis Februar 2025 arbeitete Delacroix' Team mit OLagoons Routenspezialisten und dem französischen Office of Biodiversity (OFB) daran, 50 km Küste zu vermessen und zu klassifizieren. Sie identifizierten 5 Routen – (1) Cap d'Antibes bis Baie des Milliardaires (4,2 km, mittelschwer), (2) Umrundung der Île Sainte-Marguerite (7,1 km, anspruchsvoll), (3) Calanque de Maubois (2,8 km, Einsteiger), (4) Meeresschutzgebiet Villefranche-sur-Mer (3,5 km, nur geführt) und (5) Sonnenuntergangspaddeln von Menton zum Cap Martin (5,5 km, mittelschwer). Jede Route wurde mit 12-15 GPS-Wegpunkten kartiert – inklusive verpflichtender Raststopps bei vorab genehmigten privaten Beachclubs, die eine jährliche Partnerschaftsgebühr von 2.500 € zahlten.",
             },
             {
               title: 'Schritt 2: Premium-Flottenspezifikationen & Integration der Hotel-Concierges',
               detail:
-                'Die FRTCB bestellte 350 Afarer Explorer 11\'6" X in einer individuellen Farbpalette „Mediterranean Breeze“ (Terrakotta, Oliv, Creme) – mit integriertem GoPro-Halter, einer Nut für wasserdichte Handyhüllen und einer Champagnerflaschen-Halterung (eine individuelle D-Ring-Netztasche vor dem Deckpad). Jedes Board kam mit einem 4-teiligen Carbon-Paddel, passend zu einem Peli-Case-Reisepaket. Afarers Softwareteam baute eine mobile White-Label-Web-App, mit der Hotel-Concierges Boards buchen, Routenbedingungen in Echtzeit über 6 verbundene Wetterbojen prüfen und Notfallmeldungen auslösen konnten. Die Gesamtbestellung belief sich auf 429.000 €.',
+                'Die FRTCB bestellte 350 OLagoon Explorer 11\'6" X in einer individuellen Farbpalette „Mediterranean Breeze“ (Terrakotta, Oliv, Creme) – mit integriertem GoPro-Halter, einer Nut für wasserdichte Handyhüllen und einer Champagnerflaschen-Halterung (eine individuelle D-Ring-Netztasche vor dem Deckpad). Jedes Board kam mit einem 4-teiligen Carbon-Paddel, passend zu einem Peli-Case-Reisepaket. OLagoons Softwareteam baute eine mobile White-Label-Web-App, mit der Hotel-Concierges Boards buchen, Routenbedingungen in Echtzeit über 6 verbundene Wetterbojen prüfen und Notfallmeldungen auslösen konnten. Die Gesamtbestellung belief sich auf 429.000 €.',
             },
             {
               title: 'Schritt 3: Guide-Zertifizierung, Sicherheitsprotokoll & Partner-Beachclub-Netzwerk',
               detail:
-                'Im März 2025 führte Afarer 5 regionale Schulungen im Yacht Club von Nizza durch und zertifizierte 62 Guides (23 Hotelaktivitäts-Mitarbeiter, 39 unabhängige Wassersport-Anbieter). Die Zertifizierung enthielt FRTCB-spezifische Inhalte – Erkennung mediterraner Windmuster (Mistral/Libeccio-Szenarien), Erste Hilfe bei Quallenstichen und Kommunikationsstandards für Luxusgäste. Delacroix etablierte ein Sicherheitsprotokoll mit verpflichtenden Schwimmwesten für alle Gäste (RFD NRS Orion-Westen mit Pfeife und Messer), Board-zu-Board-Kommunikation über wasserdichte VHF-Funkgeräte und einer maximalen Gruppengröße von 12 Gästen pro 2 Guides.',
+                'Im März 2025 führte OLagoon 5 regionale Schulungen im Yacht Club von Nizza durch und zertifizierte 62 Guides (23 Hotelaktivitäts-Mitarbeiter, 39 unabhängige Wassersport-Anbieter). Die Zertifizierung enthielt FRTCB-spezifische Inhalte – Erkennung mediterraner Windmuster (Mistral/Libeccio-Szenarien), Erste Hilfe bei Quallenstichen und Kommunikationsstandards für Luxusgäste. Delacroix etablierte ein Sicherheitsprotokoll mit verpflichtenden Schwimmwesten für alle Gäste (RFD NRS Orion-Westen mit Pfeife und Messer), Board-zu-Board-Kommunikation über wasserdichte VHF-Funkgeräte und einer maximalen Gruppengröße von 12 Gästen pro 2 Guides.',
             },
             {
               title: 'Schritt 4: Launch bei den Filmfestspielen von Cannes & beschleunigtes Saisonwachstum',
@@ -1918,13 +1918,13 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Tourismusprojekte Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Tourismusprojekte OLagoon wählen',
       items: [
         {
           title: 'Sicherheit',
           description:
-            'Entwickelt für alle. Afarer stellt sicher, dass die Ausrüstung den höchsten Sicherheitsstandards für vielfältige öffentliche Nutzer entspricht.',
+            'Entwickelt für alle. OLagoon stellt sicher, dass die Ausrüstung den höchsten Sicherheitsstandards für vielfältige öffentliche Nutzer entspricht.',
         },
         {
           title: 'Nachhaltigkeit',
@@ -1947,7 +1947,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Welche Sicherheitszertifizierungen sind für Ausrüstung öffentlicher SUP-Flotten relevant?',
         answer:
-          'Afarer bietet Produktspezifikationen, Performance-Informationen und Compliance-Dokumentation, die für die öffentliche Beschaffung geeignet sind. Wir unterstützen öffentliche Projekte mit Materialinformationen und Qualitätszertifizierungen, die für Ausschreibungsprozesse erforderlich sind.',
+          'OLagoon bietet Produktspezifikationen, Performance-Informationen und Compliance-Dokumentation, die für die öffentliche Beschaffung geeignet sind. Wir unterstützen öffentliche Projekte mit Materialinformationen und Qualitätszertifizierungen, die für Ausschreibungsprozesse erforderlich sind.',
       },
       {
         question: 'Wie viele SUP-Boards braucht ein öffentliches Wasser-Freizeitprogramm?',
@@ -1957,28 +1957,28 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Können SUP-Boards mit Stadt- oder Destination-Branding individualisiert werden?',
         answer:
-          'Ja, Afarer unterstützt die Individualisierung des Destination-Brandings – inklusive Stadtlogos, Grafiken der Tourismus-Identität, lokalen Designelementen und themenspezifischer Grafikarbeit. So entsteht ein prägendes Wassererlebnis, das die Identität der Destination stärkt.',
+          'Ja, OLagoon unterstützt die Individualisierung des Destination-Brandings – inklusive Stadtlogos, Grafiken der Tourismus-Identität, lokalen Designelementen und themenspezifischer Grafikarbeit. So entsteht ein prägendes Wassererlebnis, das die Identität der Destination stärkt.',
       },
       {
-        question: 'Welche umweltfreundlichen Merkmale bieten Afarer-SUP-Boards?',
+        question: 'Welche umweltfreundlichen Merkmale bieten OLagoon-SUP-Boards?',
         answer:
-          'Afarer setzt auf langlebige Materialien, die die Produktlebensdauer verlängern und die Ersetzungshäufigkeit senken – das mindert Ressourcenverbrauch und Abfall. Wir stellen zusätzlich Umweltdokumentation und Compliance-Informationen bereit, um nachhaltige Tourismusinitiativen zu unterstützen.',
+          'OLagoon setzt auf langlebige Materialien, die die Produktlebensdauer verlängern und die Ersetzungshäufigkeit senken – das mindert Ressourcenverbrauch und Abfall. Wir stellen zusätzlich Umweltdokumentation und Compliance-Informationen bereit, um nachhaltige Tourismusinitiativen zu unterstützen.',
       },
       {
-        question: 'Wie unterstützt Afarer öffentliche Beschaffung und Ausschreibungsprozesse?',
+        question: 'Wie unterstützt OLagoon öffentliche Beschaffung und Ausschreibungsprozesse?',
         answer:
-          'Afarer bietet umfassende Unterstützung – darunter die Vorbereitung technischer Spezifikationen, Produktleistungsdokumentation, Konfigurationsoptionen, Hilfe bei Projektvorschlägen, Flottenempfehlungen, Umsetzungszeitpläne und die Koordination großer Bestellungen für Produktion und Lieferung.',
+          'OLagoon bietet umfassende Unterstützung – darunter die Vorbereitung technischer Spezifikationen, Produktleistungsdokumentation, Konfigurationsoptionen, Hilfe bei Projektvorschlägen, Flottenempfehlungen, Umsetzungszeitpläne und die Koordination großer Bestellungen für Produktion und Lieferung.',
       },
       {
         question: 'Welche Wartung erfordern öffentliche SUP-Flotten in kommunalem Betrieb?',
         answer:
-          'Afarer bietet vollständige betriebliche Unterstützung – inklusive Wartungsanleitung, Kontrollprozessen, Verfahren zum Komponentenaustausch, Verfügbarkeit von Ersatzteilen und Flottenmanagement-Planung. Das gewährleistet langfristige Zuverlässigkeit für öffentliche Freizeitprogramme.',
+          'OLagoon bietet vollständige betriebliche Unterstützung – inklusive Wartungsanleitung, Kontrollprozessen, Verfahren zum Komponentenaustausch, Verfügbarkeit von Ersatzteilen und Flottenmanagement-Planung. Das gewährleistet langfristige Zuverlässigkeit für öffentliche Freizeitprogramme.',
       },
     ],
     cta: {
-      title: 'Schaffen Sie mit Afarer Ihr Wassererlebnis an der Destination',
+      title: 'Schaffen Sie mit OLagoon Ihr Wassererlebnis an der Destination',
       subtitle:
-        'Ihre Wasserressourcen haben Tourismuspotenzial. Afarer hilft, Seen, Flüsse, Uferzonen und öffentliche Parks in unvergessliche Outdoor-Destinationen zu verwandeln.',
+        'Ihre Wasserressourcen haben Tourismuspotenzial. OLagoon hilft, Seen, Flüsse, Uferzonen und öffentliche Parks in unvergessliche Outdoor-Destinationen zu verwandeln.',
       primaryAction: {
         text: 'Projekt starten',
       },
@@ -1998,9 +1998,9 @@ const de: Record<string, SolutionOverride> = {
       tagline: 'Durable Rental Fleet Solution™',
       title: 'Kommerzielle SUP-Ausrüstungslösungen für Verleihgeschäfte, Strände & Reiseziele',
       subtitle:
-        'Afarer bietet Durable-Rental-Fleet-Lösungen, die speziell für kommerzielle Verleihgeschäfte entwickelt wurden. Wir helfen Strandverleihen, Betreibern von Seenaktivitäten, Resort-Wasserzentren und Abenteuertourismus-Unternehmen, profitable SUP-Flotten mit haltbarer Bauweise und einfacher Wartung aufzubauen.',
+        'OLagoon bietet Durable-Rental-Fleet-Lösungen, die speziell für kommerzielle Verleihgeschäfte entwickelt wurden. Wir helfen Strandverleihen, Betreibern von Seenaktivitäten, Resort-Wasserzentren und Abenteuertourismus-Unternehmen, profitable SUP-Flotten mit haltbarer Bauweise und einfacher Wartung aufzubauen.',
       image: {
-        alt: 'Afarer haltbare Verleih-SUP-Flotte für Strand- und Wassersportbetreiber',
+        alt: 'OLagoon haltbare Verleih-SUP-Flotte für Strand- und Wassersportbetreiber',
       },
     },
     challenge: {
@@ -2034,7 +2034,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Miettaugliche Bauweise für aufblasbare SUPs',
           description:
-            'Afarers Verleih-SUP-Produkte legen den Fokus auf praktische Haltbarkeit – mit abriebfestem PVC-Material, verstärkter Rail-Konstruktion für häufige Stöße, haltbarer Drop-Stitch-Struktur für stabile Performance und langlebigen Ventilsystemen für den täglichen Einsatz.',
+            'OLagoons Verleih-SUP-Produkte legen den Fokus auf praktische Haltbarkeit – mit abriebfestem PVC-Material, verstärkter Rail-Konstruktion für häufige Stöße, haltbarer Drop-Stitch-Struktur für stabile Performance und langlebigen Ventilsystemen für den täglichen Einsatz.',
           features: [
             'Abriebfestes PVC-Material',
             'Verstärkte Rail-Konstruktion',
@@ -2045,7 +2045,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Kostenoptimiertes Verleih-SUP-Design',
           description:
-            'Verleihkunden brauchen keine Wettkampfleistung. Sie brauchen Stabilität, Sicherheit, einfache Bedienung und Zuverlässigkeit. Afarer konfiguriert Produkte mit stabilen Allround-Formen, standardisiertem Zubehör und praktischer Verpackung für ein schnelleres Gerätemanagement.',
+            'Verleihkunden brauchen keine Wettkampfleistung. Sie brauchen Stabilität, Sicherheit, einfache Bedienung und Zuverlässigkeit. OLagoon konfiguriert Produkte mit stabilen Allround-Formen, standardisiertem Zubehör und praktischer Verpackung für ein schnelleres Gerätemanagement.',
           features: [
             'Stabile Allround-Form für Anfänger',
             'Standardisiertes Zubehör',
@@ -2056,17 +2056,17 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Komplettes Verleihflotten-Paket',
           description:
-            'Afarer stellt einsatzbereite Verleihpakete zusammen – inklusive haltbarer aufblasbarer SUP-Boards, verstellbarer Paddel, Pumpen, Leashes, Tragerucksäcken und Reparatursets – mit kommerziellen Zusatzoptionen wie Ersatzfinnen, weiteren Paddeln, Austauschventilen und Lagerlösungen.',
+            'OLagoon stellt einsatzbereite Verleihpakete zusammen – inklusive haltbarer aufblasbarer SUP-Boards, verstellbarer Paddel, Pumpen, Leashes, Tragerucksäcken und Reparatursets – mit kommerziellen Zusatzoptionen wie Ersatzfinnen, weiteren Paddeln, Austauschventilen und Lagerlösungen.',
         },
         {
           title: 'Mengenkauf-Lösungen für Flotten',
           description:
-            'Afarer unterstützt Betreiber beim Kauf von Flotten mit 50, 100, 300 oder über 500 Boards – mit Unterstützung bei der Flottenerweiterung vom kleinen Verleih bis zum standortübergreifenden Geschäft und gewährleisteter, gleichbleibender Ausrüstungsqualität.',
+            'OLagoon unterstützt Betreiber beim Kauf von Flotten mit 50, 100, 300 oder über 500 Boards – mit Unterstützung bei der Flottenerweiterung vom kleinen Verleih bis zum standortübergreifenden Geschäft und gewährleisteter, gleichbleibender Ausrüstungsqualität.',
         },
         {
           title: 'Einfaches Wartungs- & Reparatursystem',
           description:
-            'Verleihgeschäfte können sich lange Ausfallzeiten nicht leisten. Afarer bietet ein reparaturfreundliches Produktdesign mit austauschbaren Komponenten, Wartungsanleitungen für Reinigung und Lagerung sowie Notfall-Reparatursupport mit Sets und Anleitungen zur Fehlerbehebung.',
+            'Verleihgeschäfte können sich lange Ausfallzeiten nicht leisten. OLagoon bietet ein reparaturfreundliches Produktdesign mit austauschbaren Komponenten, Wartungsanleitungen für Reinigung und Lagerung sowie Notfall-Reparatursupport mit Sets und Anleitungen zur Fehlerbehebung.',
           features: [
             'Austauschbare Komponenten',
             'Standard-Zubehör',
@@ -2077,23 +2077,23 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Saisonale Optimierung des Verleihgeschäfts',
           description:
-            'Viele Verleihgeschäfte arbeiten saisonal. Afarer hilft bei der bedarfsgerechten Bestandsplanung – mit passenden Produkten für Sommerbetrieb am Strand, Familien-SUP-Paketen, Resort-Aktivitäten und Abenteuertourismus mit Touring-Modellen.',
+            'Viele Verleihgeschäfte arbeiten saisonal. OLagoon hilft bei der bedarfsgerechten Bestandsplanung – mit passenden Produkten für Sommerbetrieb am Strand, Familien-SUP-Paketen, Resort-Aktivitäten und Abenteuertourismus mit Touring-Modellen.',
         },
         {
           title: 'Individuelles Branding für Verleihbetreiber',
           description:
-            'Verleih-Ausrüstung ist für hunderte Kunden sichtbar. Afarer unterstützt Logo-Branding, Farbanpassung passend zur Strandatmosphäre oder zum Resort-Stil sowie Flottenkennzeichnung mit Board-Nummerierung und Modell-Labels, die Ausrüstung zum Marketinginstrument machen.',
+            'Verleih-Ausrüstung ist für hunderte Kunden sichtbar. OLagoon unterstützt Logo-Branding, Farbanpassung passend zur Strandatmosphäre oder zum Resort-Stil sowie Flottenkennzeichnung mit Board-Nummerierung und Modell-Labels, die Ausrüstung zum Marketinginstrument machen.',
           features: ['Logo-Branding', 'Farbanpassung', 'Board-Nummerierung', 'Modell- und Betriebs-Labels'],
         },
         {
           title: 'Unterstützung für Reiseziele & Resorts',
           description:
-            'Viele Tourismusunternehmen nutzen SUP als Erlebnisprodukt. Afarer unterstützt Hotels, Resorts, Campingplätze und Adventureparks mit Flottenplanung, Produktanpassung und Serienproduktion für vollständige Wassererlebnisse.',
+            'Viele Tourismusunternehmen nutzen SUP als Erlebnisprodukt. OLagoon unterstützt Hotels, Resorts, Campingplätze und Adventureparks mit Flottenplanung, Produktanpassung und Serienproduktion für vollständige Wassererlebnisse.',
         },
         {
           title: 'ROI des Verleihgeschäfts verbessern',
           description:
-            'Afarer hilft Betreibern, die Rentabilität zu steigern – durch längere Produktnutzung, die die Austauschhäufigkeit senkt, geringere Wartungskosten, die Reparaturzeit reduzieren, und höhere Verfügbarkeit, die tägliche Verleihkapazität und Kundenzufriedenheit erhöht.',
+            'OLagoon hilft Betreibern, die Rentabilität zu steigern – durch längere Produktnutzung, die die Austauschhäufigkeit senkt, geringere Wartungskosten, die Reparaturzeit reduzieren, und höhere Verfügbarkeit, die tägliche Verleihkapazität und Kundenzufriedenheit erhöht.',
         },
       ],
     },
@@ -2109,7 +2109,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Analyse der Verleihflotte',
           detail:
-            'Afarer bewertete Nutzungshäufigkeit, Kundenprofil und Einsatzumgebung und empfahl anschließend eine kommerzielle Verleih-SUP-Konfiguration, die auf die Bedingungen am Mittelmeerstrand optimiert war.',
+            'OLagoon bewertete Nutzungshäufigkeit, Kundenprofil und Einsatzumgebung und empfahl anschließend eine kommerzielle Verleih-SUP-Konfiguration, die auf die Bedingungen am Mittelmeerstrand optimiert war.',
         },
         {
           title: 'Produktentwicklung',
@@ -2124,7 +2124,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Wartungssystem',
           detail:
-            'Afarer stellte Reparatursets, Ersatzzubehör und Wartungsanleitungen bereit, damit der Betreiber die Ausrüstung in den Spitzenmonaten des Sommers mit minimalen Ausfallzeiten effizient verwalten kann.',
+            'OLagoon stellte Reparatursets, Ersatzzubehör und Wartungsanleitungen bereit, damit der Betreiber die Ausrüstung in den Spitzenmonaten des Sommers mit minimalen Ausfallzeiten effizient verwalten kann.',
         },
       ],
       results: [
@@ -2145,19 +2145,19 @@ const de: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Simulationstest der Winterlagerung in Afarers Kältekammer',
+              title: 'Simulationstest der Winterlagerung in OLagoons Kältekammer',
               detail:
-                'Im Januar 2024 schickte Sarah 8 Konkurrenz-Boards und 6 Afarer-Prototypen zu Afarers Standort in Xiamen für 4 Wochen Extremkältetests. Die Testkammer zyklisierte täglich zwischen -35 °C und +25 °C (eine Simulation des kanadischen Frost-Tau-Monats März). Die Boards lagen unter simulierten Regalbedingungen unter 200 kg Schneelast. Afarers XHD-Plus-Material – ein 4-lagiges Laminat mit innerer TPU-Membran – zeigte nach 28 Zyklen keinerlei Mikrorisse, während 5 von 8 Konkurrenz-Boards sichtbare Risse entwickelten. Die TPU-Schicht verhinderte das Eindringen von Feuchtigkeit, selbst wenn die Boardoberfläche zerkratzt war. Sarah wünschte zusätzlich einen „Cold-Fold“-Test – bei -20 °C für den Transport gefaltete Boards; Afarers Modelle überstanden 500 Faltungen, ohne dass die Knicklinie versagte.',
+                'Im Januar 2024 schickte Sarah 8 Konkurrenz-Boards und 6 OLagoon-Prototypen zu OLagoons Standort in Xiamen für 4 Wochen Extremkältetests. Die Testkammer zyklisierte täglich zwischen -35 °C und +25 °C (eine Simulation des kanadischen Frost-Tau-Monats März). Die Boards lagen unter simulierten Regalbedingungen unter 200 kg Schneelast. OLagoons XHD-Plus-Material – ein 4-lagiges Laminat mit innerer TPU-Membran – zeigte nach 28 Zyklen keinerlei Mikrorisse, während 5 von 8 Konkurrenz-Boards sichtbare Risse entwickelten. Die TPU-Schicht verhinderte das Eindringen von Feuchtigkeit, selbst wenn die Boardoberfläche zerkratzt war. Sarah wünschte zusätzlich einen „Cold-Fold“-Test – bei -20 °C für den Transport gefaltete Boards; OLagoons Modelle überstanden 500 Faltungen, ohne dass die Knicklinie versagte.',
             },
             {
               title: 'Individuelles „Canadian Shield“-Paket mit isolierten Lagerhüllen',
               detail:
-                'Auf Basis der Testergebnisse entwickelte Afarer die „Canadian Shield“-Spezifikation – 4-lagige PVC/TPU-Konstruktion, Edelstahlventile bis -40 °C zugelassen (Standard-Messingventile frieren mit Eis fest) und verstärkte Tragegriffe, die für den Transport im Schnee auf das Doppelte des Boardgewichts ausgelegt sind. Afarer entwarf eine gefütterte, isolierte Lagerhülle (die „Winter Jacket“), die die Innentemperatur 12 °C über der Umgebung hielt. Sarah testete die Hüllen im März 2024 am Lake Muskoka – Boards, die über Nacht bei -22 °C in Hüllen gelagert waren, hatten am Morgen -8 °C und ließen sich 3 Minuten schneller aufpumpen. Afarer produzierte 150 Hüllen als Teil der Bestellung.',
+                'Auf Basis der Testergebnisse entwickelte OLagoon die „Canadian Shield“-Spezifikation – 4-lagige PVC/TPU-Konstruktion, Edelstahlventile bis -40 °C zugelassen (Standard-Messingventile frieren mit Eis fest) und verstärkte Tragegriffe, die für den Transport im Schnee auf das Doppelte des Boardgewichts ausgelegt sind. OLagoon entwarf eine gefütterte, isolierte Lagerhülle (die „Winter Jacket“), die die Innentemperatur 12 °C über der Umgebung hielt. Sarah testete die Hüllen im März 2024 am Lake Muskoka – Boards, die über Nacht bei -22 °C in Hüllen gelagert waren, hatten am Morgen -8 °C und ließen sich 3 Minuten schneller aufpumpen. OLagoon produzierte 150 Hüllen als Teil der Bestellung.',
             },
             {
               title: 'Vorsaison-Bootcamp für das Resort-Personal an 3 Standorten',
               detail:
-                'Im Mai 2024 verbrachte Jake Patterson, Afarers Serviceleiter Nordamerika, 5 Tage mit der Schulung von 28 Mitarbeitern in den 3 Resorts. Kanadaspezifische Protokolle umfassten die Inbetriebnahme im Frühling (detaillierte Prüfliste für Kälteschäden), das korrekte Aufpumpen auf 13-15 PSI (an kaltes Wasser angepasst – der Lake Muskoka hat im Juni durchschnittlich 14 °C), das Winterfestmachen von Boards in unbeheizten Bootshäusern und ein 15-Minuten-Schadensmeldesystem per WhatsApp. Jake zeigte dem Personal zudem, wie man typische Biberschäden an Boards erkennt (ein reales Problem – 2023 gingen 2 Boards an Biber verloren) und wie man sie mit schwer belastbaren PVC-Patches repariert.',
+                'Im Mai 2024 verbrachte Jake Patterson, OLagoons Serviceleiter Nordamerika, 5 Tage mit der Schulung von 28 Mitarbeitern in den 3 Resorts. Kanadaspezifische Protokolle umfassten die Inbetriebnahme im Frühling (detaillierte Prüfliste für Kälteschäden), das korrekte Aufpumpen auf 13-15 PSI (an kaltes Wasser angepasst – der Lake Muskoka hat im Juni durchschnittlich 14 °C), das Winterfestmachen von Boards in unbeheizten Bootshäusern und ein 15-Minuten-Schadensmeldesystem per WhatsApp. Jake zeigte dem Personal zudem, wie man typische Biberschäden an Boards erkennt (ein reales Problem – 2023 gingen 2 Boards an Biber verloren) und wie man sie mit schwer belastbaren PVC-Patches repariert.',
             },
             {
               title: 'Start im Sommer 2024 und Performance in der Laubsaison',
@@ -2185,17 +2185,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Hitzestress-Studie im Juli 2023 an Marbellas Playa de la Fontanilla',
               detail:
-                'Im Juli 2023 führte Pedro Sánchez, Afarers technischer Leiter für den Mittelmeerraum, eine 3-wöchige Studie an Miguels Hauptstrand durch. Sie statteten 10 Konkurrenz-Boards und 5 Afarer-Prototypen mit Bluetooth-Drucksensoren aus, die alle 5 Minuten protokollierten. Die Ergebnisse zeigten, dass Konkurrenz-Boards über 8 Stunden 2,8-4,1 PSI verloren (Start bei 15 PSI, Abfall auf 10,9-12,2 PSI bis 16 Uhr). Afarers XHD-Thermal-Boards – mit wärmereflektierender silberner Außenschicht und Stickstofffüllung – verloren nur 0,7 PSI. Pedro entdeckte den Kern des Problems – Luft dehnt sich in der Hitze aus, erhöht den Innendruck und löst das Sicherheitsventil aus; Afarers Stickstofffüllung (größere Moleküle, langsamere Diffusion) reduzierte diesen Effekt. Die Oberflächentemperatur der Boards im Sand erreichte um 15 Uhr 67 °C – Afarers Silberschicht reflektierte 34 % der Infrarotstrahlung.',
+                'Im Juli 2023 führte Pedro Sánchez, OLagoons technischer Leiter für den Mittelmeerraum, eine 3-wöchige Studie an Miguels Hauptstrand durch. Sie statteten 10 Konkurrenz-Boards und 5 OLagoon-Prototypen mit Bluetooth-Drucksensoren aus, die alle 5 Minuten protokollierten. Die Ergebnisse zeigten, dass Konkurrenz-Boards über 8 Stunden 2,8-4,1 PSI verloren (Start bei 15 PSI, Abfall auf 10,9-12,2 PSI bis 16 Uhr). OLagoons XHD-Thermal-Boards – mit wärmereflektierender silberner Außenschicht und Stickstofffüllung – verloren nur 0,7 PSI. Pedro entdeckte den Kern des Problems – Luft dehnt sich in der Hitze aus, erhöht den Innendruck und löst das Sicherheitsventil aus; OLagoons Stickstofffüllung (größere Moleküle, langsamere Diffusion) reduzierte diesen Effekt. Die Oberflächentemperatur der Boards im Sand erreichte um 15 Uhr 67 °C – OLagoons Silberschicht reflektierte 34 % der Infrarotstrahlung.',
             },
             {
               title: '„Costa del Sol Edition“ mit wärmeableitendem Deck und Diebstahlsicherung',
               detail:
-                'Afarer erstellte eine individuelle Spezifikation für Miguel – das „Costasol Edition 11.0“ mit Korkdeck (bleibt in der prallen Sonne 8 °C kühler als EVA-Schaum, mit Wärmebildkamera verifiziert), hitzebeständigen Edelstahlventilen mit Silikon-O-Ringen (statt Standard-Gummi, das nach über 400 Stunden spanischer Sonne altert) und einem UV-stabilisierten Finnensystem für 2.000 Stunden UV-Exposition. Miguel wünschte eine Diebstahlsicherung – Afarer integrierte eine Edelstahl-Kabelschlaufe in den Bug des Boards, durch die das Personal ein Zahlenschloss ziehen kann; das reduzierte Board-Diebstähle von 12 pro Jahr auf 0. Jedes Board trug Miguels Beach-Club-Logo eingebrannt (keine Aufkleber, die abblättern) mit einem QR-Code zur Haftungsfreistellung und zum Mietvertrag.',
+                'OLagoon erstellte eine individuelle Spezifikation für Miguel – das „Costasol Edition 11.0“ mit Korkdeck (bleibt in der prallen Sonne 8 °C kühler als EVA-Schaum, mit Wärmebildkamera verifiziert), hitzebeständigen Edelstahlventilen mit Silikon-O-Ringen (statt Standard-Gummi, das nach über 400 Stunden spanischer Sonne altert) und einem UV-stabilisierten Finnensystem für 2.000 Stunden UV-Exposition. Miguel wünschte eine Diebstahlsicherung – OLagoon integrierte eine Edelstahl-Kabelschlaufe in den Bug des Boards, durch die das Personal ein Zahlenschloss ziehen kann; das reduzierte Board-Diebstähle von 12 pro Jahr auf 0. Jedes Board trug Miguels Beach-Club-Logo eingebrannt (keine Aufkleber, die abblättern) mit einem QR-Code zur Haftungsfreistellung und zum Mietvertrag.',
             },
             {
               title: 'Verleihlogistik für große Mengen und Team-Schulung',
               detail:
-                'Afarers Betriebsberaterin Ana Martínez verbrachte im Februar 2024 2 Wochen mit der Optimierung von Miguels Verleihablauf. Beim „Grab-and-Go“-Modell blieben 50 Boards jederzeit aufgepumpt auf einem individuellen Rollregal (gebaut von Afarers Zubehör-Team), was die Ausgabezeit von 8 Minuten auf 90 Sekunden senkte. Ana schulte 22 Saisonkräfte – 1-Minuten-Druckprüfung mit kalibriertem Manometer, richtige Reinigung des Korkdecks (milde Seife, kein Hochdruckreiniger), Nachdruckprotokoll am Nachmittag (30-Sekunden-Check um 14 Uhr) und die Süßwasser-Endspülung mit Sprühsystem (von Afarer installiert, 80 €/Station). Der neue Ablauf erlaubte 2 Mitarbeitern, 200 Boards zu verwalten – statt 5 Mitarbeitern für 85.',
+                'OLagoons Betriebsberaterin Ana Martínez verbrachte im Februar 2024 2 Wochen mit der Optimierung von Miguels Verleihablauf. Beim „Grab-and-Go“-Modell blieben 50 Boards jederzeit aufgepumpt auf einem individuellen Rollregal (gebaut von OLagoons Zubehör-Team), was die Ausgabezeit von 8 Minuten auf 90 Sekunden senkte. Ana schulte 22 Saisonkräfte – 1-Minuten-Druckprüfung mit kalibriertem Manometer, richtige Reinigung des Korkdecks (milde Seife, kein Hochdruckreiniger), Nachdruckprotokoll am Nachmittag (30-Sekunden-Check um 14 Uhr) und die Süßwasser-Endspülung mit Sprühsystem (von OLagoon installiert, 80 €/Station). Der neue Ablauf erlaubte 2 Mitarbeitern, 200 Boards zu verwalten – statt 5 Mitarbeitern für 85.',
             },
             {
               title: 'Sommer 2024 – Spaniens heißester Juli seit Beginn der Aufzeichnungen',
@@ -2212,8 +2212,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Verleihgeschäfte Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Verleihgeschäfte OLagoon wählen',
       items: [
         {
           title: 'Kommerzielle Nutzung',
@@ -2241,38 +2241,38 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Welche Art von SUP-Boards ist für Verleihgeschäfte am besten geeignet?',
         answer:
-          'Verleihgeschäfte brauchen haltbare, stabile Allround-SUP-Boards mit verstärkter Konstruktion, anfängerfreundlichen Formen, standardisiertem Zubehör und einfachen Wartungseigenschaften. Afarer-Verleih-Boards sind speziell dafür entwickelt, die häufige Nutzung durch Kunden aller Könnerstufen auszuhalten.',
+          'Verleihgeschäfte brauchen haltbare, stabile Allround-SUP-Boards mit verstärkter Konstruktion, anfängerfreundlichen Formen, standardisiertem Zubehör und einfachen Wartungseigenschaften. OLagoon-Verleih-Boards sind speziell dafür entwickelt, die häufige Nutzung durch Kunden aller Könnerstufen auszuhalten.',
       },
       {
         question: 'Wie kann ich die Wartungskosten meiner Verleih-SUP-Flotte senken?',
         answer:
-          'Afarer hilft, Wartungskosten zu senken – durch haltbare Konstruktion, die Schäden widersteht, standardisierte Komponenten, die Reparaturen vereinfachen, austauschbare Teile, die einen kompletten Board-Austausch überflüssig machen, und Wartungsanleitungen, mit denen Ihr Team die Grundpflege effizient erledigt.',
+          'OLagoon hilft, Wartungskosten zu senken – durch haltbare Konstruktion, die Schäden widersteht, standardisierte Komponenten, die Reparaturen vereinfachen, austauschbare Teile, die einen kompletten Board-Austausch überflüssig machen, und Wartungsanleitungen, mit denen Ihr Team die Grundpflege effizient erledigt.',
       },
       {
         question: 'Wie lautet die Mindestbestellmenge für Verleih-SUP-Flotten?',
         answer:
-          'Afarer unterstützt flexible Flottengrößen – von kleinen Betrieben, die mit 50 Boards starten, bis zu großen Flotten mit über 500 Boards. Wir bieten Mengenkauf-Lösungen mit gleichbleibender Qualität bei allen Bestellmengen.',
+          'OLagoon unterstützt flexible Flottengrößen – von kleinen Betrieben, die mit 50 Boards starten, bis zu großen Flotten mit über 500 Boards. Wir bieten Mengenkauf-Lösungen mit gleichbleibender Qualität bei allen Bestellmengen.',
       },
       {
         question: 'Bieten Sie Mengenpreise für Verleihbetreiber?',
         answer:
-          'Ja, Afarer bietet wettbewerbsfähige Mengenpreise für Verleihbetreiber, die Flotten mit 50, 100, 300 oder über 500 Boards kaufen – mit gleichbleibender Ausrüstungsqualität und effizienten Produktionszeiten für große Bestellungen.',
+          'Ja, OLagoon bietet wettbewerbsfähige Mengenpreise für Verleihbetreiber, die Flotten mit 50, 100, 300 oder über 500 Boards kaufen – mit gleichbleibender Ausrüstungsqualität und effizienten Produktionszeiten für große Bestellungen.',
       },
       {
-        question: 'Wie gehen Afarer-SUP-Boards mit Salzwasser und Strandbedingungen um?',
+        question: 'Wie gehen OLagoon-SUP-Boards mit Salzwasser und Strandbedingungen um?',
         answer:
-          'Afarer-Verleih-Boards verfügen über abriebfestes PVC-Material, UV-beständige Konstruktion, verstärkte Rails für Strandkontakt und korrosionsbeständige Beschläge, die Salzwasser, Sandschliff und Lagerung im Freien standhalten.',
+          'OLagoon-Verleih-Boards verfügen über abriebfestes PVC-Material, UV-beständige Konstruktion, verstärkte Rails für Strandkontakt und korrosionsbeständige Beschläge, die Salzwasser, Sandschliff und Lagerung im Freien standhalten.',
       },
       {
         question: 'Kann ich meine Verleih-SUP-Boards mit meinem Firmenlogo branden?',
         answer:
-          'Ja, Afarer unterstützt eine vollständige Anpassung inklusive Logo-Branding, Farbangleichung, Board-Nummerierung und Modell-Labels, die Ihre Verleih-Ausrüstung an Ihrem Strand- oder Resort-Standort in ein sichtbares Marketinginstrument verwandeln.',
+          'Ja, OLagoon unterstützt eine vollständige Anpassung inklusive Logo-Branding, Farbangleichung, Board-Nummerierung und Modell-Labels, die Ihre Verleih-Ausrüstung an Ihrem Strand- oder Resort-Standort in ein sichtbares Marketinginstrument verwandeln.',
       },
     ],
     cta: {
-      title: 'Bauen Sie Ihre haltbare SUP-Verleihflotte mit Afarer',
+      title: 'Bauen Sie Ihre haltbare SUP-Verleihflotte mit OLagoon',
       subtitle:
-        'Ihre Ausrüstung bestimmt die Rentabilität Ihres Geschäfts. Wählen Sie SUP-Produkte, die härter arbeiten und länger halten. Afarer hilft Verleihbetreibern beim Aufbau von Strand-SUP-Flotten, Resort-Wassersport-Ausrüstung und Tourismus-Adventure-Systemen mit verlässlicher OEM-Fertigungsunterstützung.',
+        'Ihre Ausrüstung bestimmt die Rentabilität Ihres Geschäfts. Wählen Sie SUP-Produkte, die härter arbeiten und länger halten. OLagoon hilft Verleihbetreibern beim Aufbau von Strand-SUP-Flotten, Resort-Wassersport-Ausrüstung und Tourismus-Adventure-Systemen mit verlässlicher OEM-Fertigungsunterstützung.',
       primaryAction: {
         text: 'Starten Sie heute Ihr Verleihflotten-Projekt',
       },
@@ -2286,7 +2286,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Hersteller von SUP-Forschungsplattformen für Ökologie | {SITE}',
       description:
-        'Afarer bietet umweltfreundliche SUP-Forschungsplattformen für Meeresschutz-NGOs, Universitäten und Umweltüberwachungsorganisationen. Stabile Schwimmplattformen, Ausrüstungsbefestigungssysteme und individuelle OEM-Lösungen.',
+        'OLagoon bietet umweltfreundliche SUP-Forschungsplattformen für Meeresschutz-NGOs, Universitäten und Umweltüberwachungsorganisationen. Stabile Schwimmplattformen, Ausrüstungsbefestigungssysteme und individuelle OEM-Lösungen.',
     },
     hero: {
       tagline: 'Nachhaltige Wasserforschungs-Lösungen für Meeresschutz, Umweltmonitoring & wissenschaftliche Erkundung',
@@ -2417,7 +2417,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: Geräuscharme SUP-Konfiguration & Integration der Sensorplattform',
               detail:
-                'Im September 2024 passte Huaman mit Afarers Umweltforschungs-Sparte den EcoTouring 12\'6" X für den wissenschaftlichen Nutzlast-Einsatz an. Die Modifikationen umfassten eine verstärkte Deck-Montageplatte (Edelstahl, 4-Loch-Muster) für einen Garmin echoMAP Plus 74cv Echolot-/Sonar-Geber, ein integriertes RAM-Mount-System für eine GoPro HERO12 Black im Unterwassergehäuse, eine wasserdichte Ausrüstungskammer (7 l Volumen, Schraubverschluss) im Kern des Boards für Datenlogger und GPS-Tracker sowie einen flachen Kielenschutz für das Anlanden an schlammigen Flussufern. Drei Prototyp-Boards wurden im Oktober 2024 im Ucayali getestet – mit einem Unterwassergeräuschpegel von 18 dB (gegenüber 52 dB für einen 25-PS-Tohatsu-Außenborder in 5 m Abstand). Die ARA bestellte 18 Boards für 212.000 $ – finanziert von der Gordon and Betty Moore Foundation.',
+                'Im September 2024 passte Huaman mit OLagoons Umweltforschungs-Sparte den EcoTouring 12\'6" X für den wissenschaftlichen Nutzlast-Einsatz an. Die Modifikationen umfassten eine verstärkte Deck-Montageplatte (Edelstahl, 4-Loch-Muster) für einen Garmin echoMAP Plus 74cv Echolot-/Sonar-Geber, ein integriertes RAM-Mount-System für eine GoPro HERO12 Black im Unterwassergehäuse, eine wasserdichte Ausrüstungskammer (7 l Volumen, Schraubverschluss) im Kern des Boards für Datenlogger und GPS-Tracker sowie einen flachen Kielenschutz für das Anlanden an schlammigen Flussufern. Drei Prototyp-Boards wurden im Oktober 2024 im Ucayali getestet – mit einem Unterwassergeräuschpegel von 18 dB (gegenüber 52 dB für einen 25-PS-Tohatsu-Außenborder in 5 m Abstand). Die ARA bestellte 18 Boards für 212.000 $ – finanziert von der Gordon and Betty Moore Foundation.',
             },
             {
               title: 'Schritt 2: Anpassung des Forschungsprotokolls & Entwicklung der stillen Beobachtungsmethode',
@@ -2427,7 +2427,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 3: SUP-Zertifizierung der Forscher & Logistik der abgelegenen Stationen',
               detail:
-                'Im November 2024 führte Afarer über 12 Tage ein Feldtrainingsprogramm an 3 ARA-Stationen durch und zertifizierte 12 Forscher (5 Doktoranden, 4 Feldtechniker, 3 lokale Flussguides). Die Schulung umfasste Strömungen im Fluss (der Ucayali fließt mit bis zu 4 Knoten), das Ausweichen vor Treibholz und Hindernissen, Nacht-Paddeltechniken für Erhebungen zu nachtaktiven Arten sowie Startverfahren im Dschungel (400 m Tragen der aufgeblasenen Boards durch Primärwald zu Altarmseen). Jeder Forscher absolvierte 40 Stunden begleitetes Erhebungspaddeln und eine Abschlussprüfung – ein 6-km-Transsekt in unter 2 Stunden bei gleichzeitiger Datenaufzeichnung. Die Bestehensquote lag bei 92 % (11 von 12). Der verbleibende Forscher diente als springende Unterstützung.',
+                'Im November 2024 führte OLagoon über 12 Tage ein Feldtrainingsprogramm an 3 ARA-Stationen durch und zertifizierte 12 Forscher (5 Doktoranden, 4 Feldtechniker, 3 lokale Flussguides). Die Schulung umfasste Strömungen im Fluss (der Ucayali fließt mit bis zu 4 Knoten), das Ausweichen vor Treibholz und Hindernissen, Nacht-Paddeltechniken für Erhebungen zu nachtaktiven Arten sowie Startverfahren im Dschungel (400 m Tragen der aufgeblasenen Boards durch Primärwald zu Altarmseen). Jeder Forscher absolvierte 40 Stunden begleitetes Erhebungspaddeln und eine Abschlussprüfung – ein 6-km-Transsekt in unter 2 Stunden bei gleichzeitiger Datenaufzeichnung. Die Bestehensquote lag bei 92 % (11 von 12). Der verbleibende Forscher diente als springende Unterstützung.',
             },
             {
               title: 'Schritt 4: Ergebnisse der Feldsaison 2025 & Naturschutzwirkung',
@@ -2455,7 +2455,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: SUP-Sensorintegration & Design der Forschungsplattform',
               detail:
-                'Im Dezember 2024 konfigurierte Torres mit Afarers Umwelt-F&E-Team den EcoTouring 12\'6" X für das Küsten-Monitoring. Afarer integrierte eine Montageplatte für die YSI-EXO2-Sonde (eingepasst in eine individuelle Durchbau-Montagewanne, die durch den Kern des Boards führt – für kontinuierlichen Wasserfluss ohne den Strömungswiderstand einer geschleppten Sonde). Das Board erhielt einen bugmontierten Davit-Arm (Carbonfaser, 1,5 kg, für 50 lb ausgelegt) zum Absenken und Einholen eines Unterwasser-Videoarrays (GoPro HERO12 Black im Backscatter-Gehäuse mit Rotfiltern). Eine heckmontierte Datenloggerbox (Pelican 1040) beherbergte einen GNSS-Empfänger und ein Mobilfunkmodem für das Hochladen der Daten in Echtzeit über die Cloud-Plattform von Mote. Drei Prototypen wurden im Januar 2025 für eine 30-tägige Validierungsstudie eingesetzt – die Sondenwerte lagen an gepaarten Stationen innerhalb von 2 % der bootsgestützten Werte. Mote bestellte 15 Boards für 186.000 $ – finanziert vom SBEP und dem Gulf Research Program.',
+                'Im Dezember 2024 konfigurierte Torres mit OLagoons Umwelt-F&E-Team den EcoTouring 12\'6" X für das Küsten-Monitoring. OLagoon integrierte eine Montageplatte für die YSI-EXO2-Sonde (eingepasst in eine individuelle Durchbau-Montagewanne, die durch den Kern des Boards führt – für kontinuierlichen Wasserfluss ohne den Strömungswiderstand einer geschleppten Sonde). Das Board erhielt einen bugmontierten Davit-Arm (Carbonfaser, 1,5 kg, für 50 lb ausgelegt) zum Absenken und Einholen eines Unterwasser-Videoarrays (GoPro HERO12 Black im Backscatter-Gehäuse mit Rotfiltern). Eine heckmontierte Datenloggerbox (Pelican 1040) beherbergte einen GNSS-Empfänger und ein Mobilfunkmodem für das Hochladen der Daten in Echtzeit über die Cloud-Plattform von Mote. Drei Prototypen wurden im Januar 2025 für eine 30-tägige Validierungsstudie eingesetzt – die Sondenwerte lagen an gepaarten Stationen innerhalb von 2 % der bootsgestützten Werte. Mote bestellte 15 Boards für 186.000 $ – finanziert vom SBEP und dem Gulf Research Program.',
             },
             {
               title: 'Schritt 2: Monitoringstations-Netzwerk & Gezeiten-Probenahmeprotokoll',
@@ -2465,7 +2465,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 3: SUP-Zertifizierung der Forschungsmitarbeiter & Training für Flachwassernavigation',
               detail:
-                'Im Februar 2025 zertifizierte Afarers Forschungssparte 8 Forschungsmitarbeiter von Mote (4 Wissenschaftler auf PhD-Niveau, 4 Feldtechniker) in einem 5-tägigen Kurs für SUP-Forschungsbetrieb in Flachwasser. Die Schulung umfasste die Navigation in Seegraswiesen (Vermeidung des Gegenstücks zu Propeller-Narben – Finnenwiderstand), Anfahrtsprotokolle für Manatis (mindestens 50 m Abstand, stilles Treiben beim Anblick, Verhaltensbeobachtung ohne Motorenlärm), den Umgang mit Gezeitenströmungen (maximal 1,5 Knoten Strömung für Probenahmen, 2,5 Knoten für Transfers) sowie das Ausbringen und Einholen der Ausrüstung bei Wind. Torres verlangte zusätzlich von allen Mitarbeitern die Manati-Begegnungsschulung der Florida FWC (2 Stunden online plus Feldanteil). Die Zertifizierung wurde über einen simulierten Probenahmetag geprüft – 4 Stationen in 3 Stunden mit 100 % Datenvollständigkeit. Alle 8 bestanden im ersten Versuch, mit einer durchschnittlichen Stationsbearbeitungszeit von 38 Minuten (gegenüber 68 Minuten im Motorboot-Protokoll).',
+                'Im Februar 2025 zertifizierte OLagoons Forschungssparte 8 Forschungsmitarbeiter von Mote (4 Wissenschaftler auf PhD-Niveau, 4 Feldtechniker) in einem 5-tägigen Kurs für SUP-Forschungsbetrieb in Flachwasser. Die Schulung umfasste die Navigation in Seegraswiesen (Vermeidung des Gegenstücks zu Propeller-Narben – Finnenwiderstand), Anfahrtsprotokolle für Manatis (mindestens 50 m Abstand, stilles Treiben beim Anblick, Verhaltensbeobachtung ohne Motorenlärm), den Umgang mit Gezeitenströmungen (maximal 1,5 Knoten Strömung für Probenahmen, 2,5 Knoten für Transfers) sowie das Ausbringen und Einholen der Ausrüstung bei Wind. Torres verlangte zusätzlich von allen Mitarbeitern die Manati-Begegnungsschulung der Florida FWC (2 Stunden online plus Feldanteil). Die Zertifizierung wurde über einen simulierten Probenahmetag geprüft – 4 Stationen in 3 Stunden mit 100 % Datenvollständigkeit. Alle 8 bestanden im ersten Versuch, mit einer durchschnittlichen Stationsbearbeitungszeit von 38 Minuten (gegenüber 68 Minuten im Motorboot-Protokoll).',
             },
             {
               title: 'Schritt 4: Monitoring-Saison März bis November 2025 & messbare ökologische Ergebnisse',
@@ -2482,8 +2482,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Forschungsorganisationen Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Forschungsorganisationen OLagoon wählen',
       items: [
         {
           title: 'Stabilität',
@@ -2509,25 +2509,25 @@ const de: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Welche wissenschaftliche Ausrüstung lässt sich auf einer Afarer-Forschungs-SUP-Plattform montieren?',
+        question: 'Welche wissenschaftliche Ausrüstung lässt sich auf einer OLagoon-Forschungs-SUP-Plattform montieren?',
         answer:
-          'Afarer-Forschungsplattformen unterstützen ein breites Spektrum an Ausrüstung – darunter Wasserqualitätssensoren, Kameras und GPS-Geräte, Probenbehälter, Messwerkzeuge und Datenerfassungsgeräte. Das modulare Montagesystem lässt sich für spezifische Forschungskonfigurationen anpassen.',
+          'OLagoon-Forschungsplattformen unterstützen ein breites Spektrum an Ausrüstung – darunter Wasserqualitätssensoren, Kameras und GPS-Geräte, Probenbehälter, Messwerkzeuge und Datenerfassungsgeräte. Das modulare Montagesystem lässt sich für spezifische Forschungskonfigurationen anpassen.',
       },
       {
         question: 'Wie stabil ist die SUP-Plattform für Wasserprobenahmen und Monitoring-Aktivitäten?',
         answer:
-          'Afarer-Forschungsplattformen bieten ein extra-breites Design, eine größere Standfläche, verbessertes Gleichgewicht und eine Struktur mit hohem Auftrieb – gezielt entwickelt für wissenschaftliche Feldeinsätze. Diese Stabilität erlaubt Forschern die sichere Bedienung von Ausrüstung, das Ziehen von Proben und das Durchführen von Messungen.',
+          'OLagoon-Forschungsplattformen bieten ein extra-breites Design, eine größere Standfläche, verbessertes Gleichgewicht und eine Struktur mit hohem Auftrieb – gezielt entwickelt für wissenschaftliche Feldeinsätze. Diese Stabilität erlaubt Forschern die sichere Bedienung von Ausrüstung, das Ziehen von Proben und das Durchführen von Messungen.',
       },
       {
-        question: 'Welche umweltfreundlichen Materialien stecken in Afarer-Forschungs-SUP-Boards?',
+        question: 'Welche umweltfreundlichen Materialien stecken in OLagoon-Forschungs-SUP-Boards?',
         answer:
-          'Afarer setzt auf langlebige Konstruktionen, die die Ersetzungshäufigkeit und den Ressourcenverbrauch senken. Wir bieten nachhaltige Materialoptionen – darunter recycelbare Alternativen und schonendere Fertigungsansätze – im Einklang mit den Missionen des Naturschutzes.',
+          'OLagoon setzt auf langlebige Konstruktionen, die die Ersetzungshäufigkeit und den Ressourcenverbrauch senken. Wir bieten nachhaltige Materialoptionen – darunter recycelbare Alternativen und schonendere Fertigungsansätze – im Einklang mit den Missionen des Naturschutzes.',
       },
       {
         question:
           'Können SUP-Plattformen für die Anforderungen spezifischer Forschungsprojekte individualisiert werden?',
         answer:
-          'Ja, Afarer unterstützt vollständige Individualisierung – inklusive individueller Boardmaße (extra Breite, zusätzliche Länge), höherer Zuladung, Montageschnittstellen für Ausrüstung, Lagerlösungen, Organisationslogos und projektspezifischem Zubehör.',
+          'Ja, OLagoon unterstützt vollständige Individualisierung – inklusive individueller Boardmaße (extra Breite, zusätzliche Länge), höherer Zuladung, Montageschnittstellen für Ausrüstung, Lagerlösungen, Organisationslogos und projektspezifischem Zubehör.',
       },
       {
         question: 'Wie schneidet das SUP im Vergleich zu traditionellen Forschungsbooten beim Umweltmonitoring ab?',
@@ -2537,13 +2537,13 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Wie lange ist die typische Vorlaufzeit für eine individuelle Forschungs-SUP-Plattform?',
         answer:
-          'Die Vorlaufzeiten variieren je nach Individualisierungsaufwand und Bestellmenge. Afarer begleitet von der Prototypenentwicklung für neue Forschungskonzepte bis zur Serienfertigung für institutionelle Bestellungen. Wir arbeiten eng mit Forschungsteams zusammen, um Projektzeitpläne und die Anforderungen der Feldsaison einzuhalten.',
+          'Die Vorlaufzeiten variieren je nach Individualisierungsaufwand und Bestellmenge. OLagoon begleitet von der Prototypenentwicklung für neue Forschungskonzepte bis zur Serienfertigung für institutionelle Bestellungen. Wir arbeiten eng mit Forschungsteams zusammen, um Projektzeitpläne und die Anforderungen der Feldsaison einzuhalten.',
       },
     ],
     cta: {
-      title: 'Bauen Sie mit Afarer Ihre ökologische Wasser-Forschungsplattform',
+      title: 'Bauen Sie mit OLagoon Ihre ökologische Wasser-Forschungsplattform',
       subtitle:
-        'Die Zukunft der Wasserforschung braucht flexible und nachhaltige Lösungen. Afarer hilft Meeresschutz-NGOs, Universitäten, Forschungseinrichtungen und Umweltorganisationen, professionelle mobile Wasser-Forschungsplattformen zu schaffen.',
+        'Die Zukunft der Wasserforschung braucht flexible und nachhaltige Lösungen. OLagoon hilft Meeresschutz-NGOs, Universitäten, Forschungseinrichtungen und Umweltorganisationen, professionelle mobile Wasser-Forschungsplattformen zu schaffen.',
       primaryAction: {
         text: 'Projekt starten',
       },
@@ -2557,15 +2557,15 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Amazon SUP-Markenlieferant | Hersteller maßgeschneiderter aufblasbarer SUPs | {SITE}',
       description:
-        'Afarer hilft Amazon-, Walmart- und Shopify-Händlern, differenzierte SUP-Marken mit individuellen aufblasbaren Paddleboards, Private-Label-Fertigung, einzigartigen Designs, schneller Lieferkette und E-Commerce-Produktsupport aufzubauen.',
+        'OLagoon hilft Amazon-, Walmart- und Shopify-Händlern, differenzierte SUP-Marken mit individuellen aufblasbaren Paddleboards, Private-Label-Fertigung, einzigartigen Designs, schneller Lieferkette und E-Commerce-Produktsupport aufzubauen.',
     },
     hero: {
       tagline: 'Produktdifferenzierung & schnelle Lieferung™',
       title: 'Differenzierte SUP-Produkte für E-Commerce-Marketplace-Verkäufer',
       subtitle:
-        'Afarer hilft Amazon-, Walmart- und Shopify-Verkäufern beim Aufbau differenzierter SUP-Marken mit individuellen aufblasbaren Paddleboards, Private-Label-Fertigung, einzigartigen Grafiken, schneller Lieferkette und E-Commerce-Produktsupport.',
+        'OLagoon hilft Amazon-, Walmart- und Shopify-Verkäufern beim Aufbau differenzierter SUP-Marken mit individuellen aufblasbaren Paddleboards, Private-Label-Fertigung, einzigartigen Grafiken, schneller Lieferkette und E-Commerce-Produktsupport.',
       image: {
-        alt: 'Beschreibung individueller Afarer-SUP-Boards',
+        alt: 'Beschreibung individueller OLagoon-SUP-Boards',
       },
     },
     challenge: {
@@ -2679,7 +2679,7 @@ const de: Record<string, SolutionOverride> = {
       customer:
         'US-amerikanischer Amazon-Outdoor-Verkäufer, der zuvor Camping-Zubehör, Outdoor-Produkte und Fitnessgeräte über Amazon und Shopify verkaufte.',
       steps: [
-        'Afarer half, die Zielkundschaft als junge Outdoor-Lifestyle-Konsumenten zu definieren und das Produkt als erschwingliches SUP im Premium-Look mit einzigartiger visueller Identität zu positionieren.',
+        'OLagoon half, die Zielkundschaft als junge Outdoor-Lifestyle-Konsumenten zu definieren und das Produkt als erschwingliches SUP im Premium-Look mit einzigartiger visueller Identität zu positionieren.',
         "Entwicklung eines individuellen 10'6 aufblasbaren SUPs mit einzigartigen Board-Grafiken, Premium-Farbsystem, verbessertem Zubehörpaket und markenzentrierter Verpackung.",
         'Vorbereitung der E-Commerce-Content-Strategie inklusive Produktbild-Struktur, Feature-Präsentation und visueller Lifestyle-Richtung für Marketplace-Listings.',
         'Launch mit 500 Einheiten für den Amazon-Start, Werbetests und das Sammeln von Kundenfeedback.',
@@ -2704,22 +2704,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Amazon-Kategorieanalyse und SKU-Architektur',
               detail:
-                'Im Januar 2023 führte Afarers E-Commerce-Strategieteam mit Helium 10 und Jungle Scout eine Tiefenanalyse der Amazon-UK-SUP-Kategorie durch. Dabei identifizierte es, dass 78 % der Erstkäufer nach „Komplettpaketen“ suchten (Board + Paddle + Pumpe + Tasche + Leash + Finne), aber nur 4 Marken ein echtes All-in-One-Kit mit Premium-Zubehör anboten. Afarer schlug eine 3-SKU-Aufstellung vor – das „AquaStart 10\'6" Complete Kit“ (Zielpreis 449 £), das „AquaStart 11\'0" Touring Kit“ (549 £) und das „AquaStart Duo“ (699 £, ein 2-Board-Familienpaket). Jedes Kit enthielt eine Handpumpe mit Manometer, ein 3-teiliges Carbon-Paddle, eine Spiral-Leash, eine 5-Zoll-abnehmbare US-Finne und eine wasserdichte Handyhülle – ein Unterschied zu Wettbewerbern, die das meiste Zubehör separat verkauften.',
+                'Im Januar 2023 führte OLagoons E-Commerce-Strategieteam mit Helium 10 und Jungle Scout eine Tiefenanalyse der Amazon-UK-SUP-Kategorie durch. Dabei identifizierte es, dass 78 % der Erstkäufer nach „Komplettpaketen“ suchten (Board + Paddle + Pumpe + Tasche + Leash + Finne), aber nur 4 Marken ein echtes All-in-One-Kit mit Premium-Zubehör anboten. OLagoon schlug eine 3-SKU-Aufstellung vor – das „AquaStart 10\'6" Complete Kit“ (Zielpreis 449 £), das „AquaStart 11\'0" Touring Kit“ (549 £) und das „AquaStart Duo“ (699 £, ein 2-Board-Familienpaket). Jedes Kit enthielt eine Handpumpe mit Manometer, ein 3-teiliges Carbon-Paddle, eine Spiral-Leash, eine 5-Zoll-abnehmbare US-Finne und eine wasserdichte Handyhülle – ein Unterschied zu Wettbewerbern, die das meiste Zubehör separat verkauften.',
             },
             {
               title: 'Schritt 2 – Verpackungsdesign für E-Commerce und FBA-Konformität',
               detail:
-                'Afarer gestaltete eine handelsfertige Verpackung, die die FBA-Maßgrenzen von Amazon einhielt – der Karton für das 10\'6" Board maß 34" × 18" × 14" und wog 14,2 kg, unter der 15-kg-Grenze von Amazon zur Vermeidung von Heavy-Bulky-Gebühren. Der Karton hatte beidseitig Stanzgriffe für das Lagerteam. Innen war das Board vakuumversiegelt in einem 0,1-mm-PE-Beutel, eingebettet mit dem Zubehör in maßgefertigten EVA-Schaum-Einlagen. Jedes Zubehörteil war einzeln in mit AquaStart-Branding versehenen Polybeuteln verpackt. Beiliegend war eine „Quick-Start-Anleitung“ mit QR-Code zu einem 6-minütigen Unboxing-Video. Afarers Verpackungsingenieur reduzierte das Gesamtvolumen des Kartons um 22 % gegenüber dem ursprünglichen Entwurf und sparte Priya so 1,80 £ pro Einheit an FBA-Fulfillment-Gebühren.',
+                'OLagoon gestaltete eine handelsfertige Verpackung, die die FBA-Maßgrenzen von Amazon einhielt – der Karton für das 10\'6" Board maß 34" × 18" × 14" und wog 14,2 kg, unter der 15-kg-Grenze von Amazon zur Vermeidung von Heavy-Bulky-Gebühren. Der Karton hatte beidseitig Stanzgriffe für das Lagerteam. Innen war das Board vakuumversiegelt in einem 0,1-mm-PE-Beutel, eingebettet mit dem Zubehör in maßgefertigten EVA-Schaum-Einlagen. Jedes Zubehörteil war einzeln in mit AquaStart-Branding versehenen Polybeuteln verpackt. Beiliegend war eine „Quick-Start-Anleitung“ mit QR-Code zu einem 6-minütigen Unboxing-Video. OLagoons Verpackungsingenieur reduzierte das Gesamtvolumen des Kartons um 22 % gegenüber dem ursprünglichen Entwurf und sparte Priya so 1,80 £ pro Einheit an FBA-Fulfillment-Gebühren.',
             },
             {
               title: 'Schritt 3 – Amazon-Listing-Optimierung, A+-Content und Launch-Strategie',
               detail:
-                'Afarers Content-Studio produzierte 14 A+-Modulbilder, 6 Lifestyle-Fotos vom Windermere-See, ein 90-sekündiges Marken-Story-Video und einen 360-Grad-Produktbetrachter. Sie verfassten keyword-optimierte Bulletpoints zu 237 Long-Tail-Keywords aus dem Amazon-Suchbegriffsbericht. Die Launch-Strategie startete ein 21-tägiges „Vine“-Programm (30 Einheiten mit 50 % Rabatt) für die erste Bewertungsdynamik, gefolgt von einer 2.000-£-Amazon-PPC-Kampagne (Sponsored Products + Sponsored Brand) mit auf 3 SKUs verteiltem Tagesbudget. Die Kampagne startete am 15. April 2023. An Tag 45 hatte AquaStart 24 Bewertungen mit durchschnittlich 4,6 Sternen, und das 10\'6"-Kit erreichte Platz 17 in der SUP-Kategorie.',
+                'OLagoons Content-Studio produzierte 14 A+-Modulbilder, 6 Lifestyle-Fotos vom Windermere-See, ein 90-sekündiges Marken-Story-Video und einen 360-Grad-Produktbetrachter. Sie verfassten keyword-optimierte Bulletpoints zu 237 Long-Tail-Keywords aus dem Amazon-Suchbegriffsbericht. Die Launch-Strategie startete ein 21-tägiges „Vine“-Programm (30 Einheiten mit 50 % Rabatt) für die erste Bewertungsdynamik, gefolgt von einer 2.000-£-Amazon-PPC-Kampagne (Sponsored Products + Sponsored Brand) mit auf 3 SKUs verteiltem Tagesbudget. Die Kampagne startete am 15. April 2023. An Tag 45 hatte AquaStart 24 Bewertungen mit durchschnittlich 4,6 Sternen, und das 10\'6"-Kit erreichte Platz 17 in der SUP-Kategorie.',
             },
             {
               title: 'Schritt 4 – Bestandsmanagement, Bedarfsprognose und zweite Produktionsauflage',
               detail:
-                'Afarers Bedarfsplanungsteam baute ein 6-Monats-Prognosemodell auf Basis historischer Amazon-Daten, Google Trends (Suchvolumen zu Paddleboarding in Großbritannien) und Saisonfaktoren. Das Modell sagte einen Abverkauf von 410 Einheiten bis September 2023 voraus. Priyas erste Produktionsauflage umfasste 500 Einheiten (300 × 10\'6", 120 × 11\'0", 80 × Duo), verschickt an die Amazon-FBA-Zentren in Manchester und Doncaster. Der tatsächliche Abverkauf bis zum 30. September lag bei 386 Einheiten – innerhalb von 6 % Abweichung von der Prognose. Eine zweite Auflage über 700 Einheiten wurde im Oktober 2023 mit 2 wichtigen Änderungen bestellt – verstärkte Tragegriffe an der Board-Tasche (9 Bruchmeldungen aus der ersten Auflage) und aufgerüstete Edelstahl-D-Ringe (nach 4 Korrosionsbeschwerden). Bis Dezember 2023 erreichte der AquaStart-UK-Umsatz 298.000 £, wobei das 10\'6"-Kit auf Amazon UK Rang 12 hielt.',
+                'OLagoons Bedarfsplanungsteam baute ein 6-Monats-Prognosemodell auf Basis historischer Amazon-Daten, Google Trends (Suchvolumen zu Paddleboarding in Großbritannien) und Saisonfaktoren. Das Modell sagte einen Abverkauf von 410 Einheiten bis September 2023 voraus. Priyas erste Produktionsauflage umfasste 500 Einheiten (300 × 10\'6", 120 × 11\'0", 80 × Duo), verschickt an die Amazon-FBA-Zentren in Manchester und Doncaster. Der tatsächliche Abverkauf bis zum 30. September lag bei 386 Einheiten – innerhalb von 6 % Abweichung von der Prognose. Eine zweite Auflage über 700 Einheiten wurde im Oktober 2023 mit 2 wichtigen Änderungen bestellt – verstärkte Tragegriffe an der Board-Tasche (9 Bruchmeldungen aus der ersten Auflage) und aufgerüstete Edelstahl-D-Ringe (nach 4 Korrosionsbeschwerden). Bis Dezember 2023 erreichte der AquaStart-UK-Umsatz 298.000 £, wobei das 10\'6"-Kit auf Amazon UK Rang 12 hielt.',
             },
           ],
           results: [
@@ -2741,22 +2741,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Beschaffung recycelter Materialien und Lieferketten-Zertifizierung',
               detail:
-                'Afarer entwickelte von Januar bis April 2023 – insgesamt 14 Wochen – ein recyceltes PVC-Laminat aus postindustriellen Stoffabfällen der eigenen Fabrik. Das Material, vermarktet als „EcoShell RPVC“, enthielt 63 % Recyclinganteil nach Gewicht und erreichte eine Zugfestigkeit von 3.200 N/5 cm (gegenüber 3.500 N bei neuwertigem PVC). Afarer sicherte dem Material die GRS-Zertifizierung (Global Recycled Standard) und veranlasste eine Ökobilanz durch eine unabhängige dritte Partei, die eine Reduktion von 37 % CO₂e pro Board gegenüber Boards aus neuwertigem PVC zeigte. Das Team von UrbanPulse bezog 50.000 recycelte PET-Flaschen von einer Berliner Recyclingkooperative für das Taschengewebe und das EVA des Deck-Pads (30 % Recyclinganteil). Der Aufpreis für nachhaltige Materialien betrug 18 € pro Board, den Afarer in die eigene Marge einrechnete, damit UrbanPulse den Zielpreis erreichen konnte.',
+                'OLagoon entwickelte von Januar bis April 2023 – insgesamt 14 Wochen – ein recyceltes PVC-Laminat aus postindustriellen Stoffabfällen der eigenen Fabrik. Das Material, vermarktet als „EcoShell RPVC“, enthielt 63 % Recyclinganteil nach Gewicht und erreichte eine Zugfestigkeit von 3.200 N/5 cm (gegenüber 3.500 N bei neuwertigem PVC). OLagoon sicherte dem Material die GRS-Zertifizierung (Global Recycled Standard) und veranlasste eine Ökobilanz durch eine unabhängige dritte Partei, die eine Reduktion von 37 % CO₂e pro Board gegenüber Boards aus neuwertigem PVC zeigte. Das Team von UrbanPulse bezog 50.000 recycelte PET-Flaschen von einer Berliner Recyclingkooperative für das Taschengewebe und das EVA des Deck-Pads (30 % Recyclinganteil). Der Aufpreis für nachhaltige Materialien betrug 18 € pro Board, den OLagoon in die eigene Marge einrechnete, damit UrbanPulse den Zielpreis erreichen konnte.',
             },
             {
               title: 'Schritt 2 – Klimaneutrales Fulfillment und DTC-Logistikarchitektur',
               detail:
-                'Afarers Logistikteam kooperierte für das UrbanPulse-Konto mit DHL GoGreen Climate Neutral und kompensierte 1,8 kg CO₂ pro versandtem Board (inklusive Seefracht von China nach Hamburg und Last-Mile-Zustellung). Im Kölner Lager von UrbanPulse richtete es eine dedizierte 200-m²-Fulfillment-Zone mit speziellen Regalen für aufblasbare SUP-Kartons ein. Jede Sendung enthielt ein vorfrankiertes Rücksendeetikett für den Karton (gedruckt auf 100 % recyceltem FSC-zertifiziertem Karton mit Soja-Tinten). Afarers Verpackungsdesign eliminierte alle Einwegkunststoffe – das Board war in eine kompostierbare PBAT/PLA-Folie gewickelt, das Zubehör mit Papierklebeband fixiert und die Bedienungsanleitung auf Saatpapier gedruckt (nach dem Lesen einpflanzen).',
+                'OLagoons Logistikteam kooperierte für das UrbanPulse-Konto mit DHL GoGreen Climate Neutral und kompensierte 1,8 kg CO₂ pro versandtem Board (inklusive Seefracht von China nach Hamburg und Last-Mile-Zustellung). Im Kölner Lager von UrbanPulse richtete es eine dedizierte 200-m²-Fulfillment-Zone mit speziellen Regalen für aufblasbare SUP-Kartons ein. Jede Sendung enthielt ein vorfrankiertes Rücksendeetikett für den Karton (gedruckt auf 100 % recyceltem FSC-zertifiziertem Karton mit Soja-Tinten). OLagoons Verpackungsdesign eliminierte alle Einwegkunststoffe – das Board war in eine kompostierbare PBAT/PLA-Folie gewickelt, das Zubehör mit Papierklebeband fixiert und die Bedienungsanleitung auf Saatpapier gedruckt (nach dem Lesen einpflanzen).',
             },
             {
               title: 'Schritt 3 – Shopify-Integration, Pre-Launch-Content und Influencer-Strategie',
               detail:
-                'Afarers E-Commerce-Team integrierte den UrbanPulse-Shopify-Shop mit einem individuellen Produktkonfigurator, mit dem Kunden ihre Boardfarbe (3 Optionen) und Paddle-Farbe (2 Optionen) wählen und ein „Nachhaltigkeits-Badge“ mit der Seriennummer des Boards und dem exakten Recyclinganteil in Gramm hinzufügen konnten. Afarer produzierte 6 Kurzvideo-Assets (15-45 Sekunden) mit den Berliner SUP-Influencern „GreenPaddle“ und „ElisePaddlesBerlin“ (gemeinsam 72.000 Follower). Der Content betonte das „urbane Paddleboarding“ auf Berlins Kanälen und Seen und positionierte SUP als Wochenendaktivität für Stadtbewohner. Die Pre-Launch-E-Mail-Kampagne (gesendet an 12.000 UrbanPulse-Abonnenten) erreichte eine Öffnungsrate von 34 % und 2.100 Klicks auf die Produktseite.',
+                'OLagoons E-Commerce-Team integrierte den UrbanPulse-Shopify-Shop mit einem individuellen Produktkonfigurator, mit dem Kunden ihre Boardfarbe (3 Optionen) und Paddle-Farbe (2 Optionen) wählen und ein „Nachhaltigkeits-Badge“ mit der Seriennummer des Boards und dem exakten Recyclinganteil in Gramm hinzufügen konnten. OLagoon produzierte 6 Kurzvideo-Assets (15-45 Sekunden) mit den Berliner SUP-Influencern „GreenPaddle“ und „ElisePaddlesBerlin“ (gemeinsam 72.000 Follower). Der Content betonte das „urbane Paddleboarding“ auf Berlins Kanälen und Seen und positionierte SUP als Wochenendaktivität für Stadtbewohner. Die Pre-Launch-E-Mail-Kampagne (gesendet an 12.000 UrbanPulse-Abonnenten) erreichte eine Öffnungsrate von 34 % und 2.100 Klicks auf die Produktseite.',
             },
             {
               title: 'Schritt 4 – Launch, Kanalerweiterung und Nachbestellentscheidung',
               detail:
-                'Die UrbanPulse-SUP-Kollektion startete am 1. Juni 2023 mit 500 Einheiten (350 Allround, 150 Touring). Der Abverkauf in der ersten Woche lag bei 112 Einheiten (22,4 %). Afarers Bedarfsplaner passten die PPC-Strategie auf Google Shopping und Meta an und verlagerten das Budget auf High-Intent-Keywords wie „nachhaltiges SUP kaufen“. In Woche 8 war das Allround-Board die zweitmeistverkaufte SUP im deutschen Shopify-DTC-Markt (nach dem Direktvertrieb von Fanatic). Im August 2023 sicherte Felix eine Partnerschaft mit SportScheck und platzierte 80 Boards in 8 Filialen mit eigenen „Sustainable Sports“-Werbeflächen. Bis Dezember 2023 erreichte der Gesamtumsatz 487.000 €, wozu das Allround-Board 71 % der Verkäufe beitrug. Eine zweite Produktionsauflage über 800 Einheiten wurde für Februar 2024 bestellt.',
+                'Die UrbanPulse-SUP-Kollektion startete am 1. Juni 2023 mit 500 Einheiten (350 Allround, 150 Touring). Der Abverkauf in der ersten Woche lag bei 112 Einheiten (22,4 %). OLagoons Bedarfsplaner passten die PPC-Strategie auf Google Shopping und Meta an und verlagerten das Budget auf High-Intent-Keywords wie „nachhaltiges SUP kaufen“. In Woche 8 war das Allround-Board die zweitmeistverkaufte SUP im deutschen Shopify-DTC-Markt (nach dem Direktvertrieb von Fanatic). Im August 2023 sicherte Felix eine Partnerschaft mit SportScheck und platzierte 80 Boards in 8 Filialen mit eigenen „Sustainable Sports“-Werbeflächen. Bis Dezember 2023 erreichte der Gesamtumsatz 487.000 €, wozu das Allround-Board 71 % der Verkäufe beitrug. Eine zweite Produktionsauflage über 800 Einheiten wurde für Februar 2024 bestellt.',
             },
           ],
           results: [
@@ -2768,8 +2768,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Afarer',
+    whyOLagoon: {
+      title: 'Warum OLagoon',
       items: [
         {
           title: 'Produktdifferenzierung',
@@ -2801,7 +2801,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Wie kann ich mein SUP-Produkt auf Amazon differenzieren?',
         answer:
-          'Afarer hilft mit einzigartigen Board-Grafiken, individuellen Farbsystemen, verbesserten Zubehörpaketen und markenzentrierter Verpackung, damit Ihr Produkt aus identischen Wettbewerber-Listings heraussticht.',
+          'OLagoon hilft mit einzigartigen Board-Grafiken, individuellen Farbsystemen, verbesserten Zubehörpaketen und markenzentrierter Verpackung, damit Ihr Produkt aus identischen Wettbewerber-Listings heraussticht.',
       },
       {
         question: 'Wie hoch ist die Mindestbestellmenge für Marketplace-Verkäufer?',
@@ -2811,7 +2811,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Können Sie bei Amazon-Listing-Content und Bildern helfen?',
         answer:
-          'Ja. Afarer liefert visuellen E-Commerce-Support inklusive Hero-Image-Konzepten, Feature-Bildern, Lifestyle-Fotografie-Richtung und Strukturierung der Produktinformationen.',
+          'Ja. OLagoon liefert visuellen E-Commerce-Support inklusive Hero-Image-Konzepten, Feature-Bildern, Lifestyle-Fotografie-Richtung und Strukturierung der Produktinformationen.',
       },
       {
         question: 'Wie schnell können Sie meine individuelle SUP-Bestellung produzieren und versenden?',
@@ -2826,7 +2826,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Können Sie mir helfen, über ein SUP-Produkt hinaus eine ganze Marke aufzubauen?',
         answer:
-          'Ja. Afarer unterstützt die Entwicklung eines kompletten Produktportfolios inklusive mehrerer SUP-Modelle und Outdoor-Zubehör für die Markenerweiterung.',
+          'Ja. OLagoon unterstützt die Entwicklung eines kompletten Produktportfolios inklusive mehrerer SUP-Modelle und Outdoor-Zubehör für die Markenerweiterung.',
       },
     ],
     cta: {
@@ -2843,15 +2843,15 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Outdoor-Marke in Wassersport expandieren | SUP OEM Hersteller | {SITE}',
       description:
-        'Afarer hilft etablierten Outdoor-Marken, mit maßgeschneiderter SUP-Fertigung, Drop-Stitch-Technologie, PVC-Expertise, Private-Label-Paddleboards und kompletten Produktentwicklungslösungen in den Wassersport zu expandieren.',
+        'OLagoon hilft etablierten Outdoor-Marken, mit maßgeschneiderter SUP-Fertigung, Drop-Stitch-Technologie, PVC-Expertise, Private-Label-Paddleboards und kompletten Produktentwicklungslösungen in den Wassersport zu expandieren.',
     },
     hero: {
       tagline: 'Erweitern Sie Ihre Outdoor-Marke um Wassersport™',
       title: 'Wassersport-Produktexpansion für etablierte Outdoor-Marken',
       subtitle:
-        'Afarer hilft etablierten Outdoor-Marken bei der Expansion in den Wassersport mit individueller SUP-Fertigung, Drop-Stitch-Technologie, PVC-Expertise, Private-Label-Paddleboards und kompletten Produktentwicklungslösungen.',
+        'OLagoon hilft etablierten Outdoor-Marken bei der Expansion in den Wassersport mit individueller SUP-Fertigung, Drop-Stitch-Technologie, PVC-Expertise, Private-Label-Paddleboards und kompletten Produktentwicklungslösungen.',
       image: {
-        alt: 'Beschreibung individueller Afarer-SUP-Boards',
+        alt: 'Beschreibung individueller OLagoon-SUP-Boards',
       },
     },
     challenge: {
@@ -2956,7 +2956,7 @@ const de: Record<string, SolutionOverride> = {
       customer:
         'Europäische Outdoor-Lifestyle-Marke, ursprünglich spezialisiert auf Campingausrüstung, Outdoor-Zubehör und Adventure-Lifestyle-Produkte, mit starkem Handelsnetz und treuer Kundenbasis.',
       steps: [
-        'Afarer analysierte die Markenpositionierung und empfahl eine Premium-Outdoor-SUP-Kollektionsstrategie inklusive Allround-SUP, Touring-SUP und Zubehör unter dem Motto „Outdoor-Abenteuer vom Land aufs Wasser“.',
+        'OLagoon analysierte die Markenpositionierung und empfahl eine Premium-Outdoor-SUP-Kollektionsstrategie inklusive Allround-SUP, Touring-SUP und Zubehör unter dem Motto „Outdoor-Abenteuer vom Land aufs Wasser“.',
         "Entwicklung eines 10'6 Allround-SUPs mit hoher Stabilität, Premium-Konstruktion und Outdoor-Lifestyle-Design sowie eines 12'6 Touring-SUPs mit Abenteuer-Performance und Langstreckenfähigkeit.",
         'Erstellung individueller Grafiken, Markenfarben, Verpackung und eines Zubehörsystems, die perfekt zur bestehenden Outdoor-Markenidentität passten.',
         'Launch mit einer Erstbestellung von 1.000 Einheiten, vertrieben über bestehende Händler, E-Commerce-Kanäle und Outdoor-Einzelhändler.',
@@ -2981,22 +2981,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Marktanalyse und Planung der Produktarchitektur',
               detail:
-                'Im März 2023 analysierte Afarers Marktforschungsteam 18 Monate SUP-Verkaufsdaten von 120 US-amerikanischen und kanadischen Händlern. Sie identifizierten das am schnellsten wachsende Teilsegment – Allround-SUPs zwischen 10\'6" und 11\'6" im Preissegment von 749-999 CAD mit 34 % Wachstum im Jahresvergleich. Afarer schlug eine 4-SKU-Aufstellung vor – das „Discovery“ 10\'6" Allround-Board (Zielpreis 799 CAD), das „Expedition“ 11\'6" Touring-Board (949 CAD), das „Crossover“ Yoga- und Fitness-SUP (699 CAD) und das „Angler“ Angel-SUP mit abnehmbarem Kisten-Halterungssystem (1.049 CAD). Henrik nahm den Vorschlag im April an, mit einem Ziel-Launch-Termin im Februar 2024 für die Frühlings-Einkaufssaison des Handels.',
+                'Im März 2023 analysierte OLagoons Marktforschungsteam 18 Monate SUP-Verkaufsdaten von 120 US-amerikanischen und kanadischen Händlern. Sie identifizierten das am schnellsten wachsende Teilsegment – Allround-SUPs zwischen 10\'6" und 11\'6" im Preissegment von 749-999 CAD mit 34 % Wachstum im Jahresvergleich. OLagoon schlug eine 4-SKU-Aufstellung vor – das „Discovery“ 10\'6" Allround-Board (Zielpreis 799 CAD), das „Expedition“ 11\'6" Touring-Board (949 CAD), das „Crossover“ Yoga- und Fitness-SUP (699 CAD) und das „Angler“ Angel-SUP mit abnehmbarem Kisten-Halterungssystem (1.049 CAD). Henrik nahm den Vorschlag im April an, mit einem Ziel-Launch-Termin im Februar 2024 für die Frühlings-Einkaufssaison des Handels.',
             },
             {
               title: 'Schritt 2 – Co-Branded-Design-Integration und Handels-Compliance',
               detail:
-                'Afarers Industriedesigner arbeiteten acht Wochen lang mit North Ridges Kreativteam in Vancouver zusammen, um eine visuelle Identität zu entwickeln, die die Bergästhetik der Marke mit dem Wassersport verband. Das finale Design nutzte North Ridges charakteristische Farbpalette aus Anthrazit und Glutrot mit topografischen Linienmustern auf dem Deck-Pad. Afarer stellte sicher, dass alle Boards die Lieferantenanforderungen von REI erfüllten – FSC-zertifizierte Kartonverpackung, Tragetaschen aus recyceltem PET und Konformität mit der kalifornischen Proposition 65 zu Weichmachern und Schwermetallen. Das 14-seitige Product-Information-Management-Datenblatt (PIM) wurde am 1. Oktober 2023 über das Lieferantenportal von REI eingereicht.',
+                'OLagoons Industriedesigner arbeiteten acht Wochen lang mit North Ridges Kreativteam in Vancouver zusammen, um eine visuelle Identität zu entwickeln, die die Bergästhetik der Marke mit dem Wassersport verband. Das finale Design nutzte North Ridges charakteristische Farbpalette aus Anthrazit und Glutrot mit topografischen Linienmustern auf dem Deck-Pad. OLagoon stellte sicher, dass alle Boards die Lieferantenanforderungen von REI erfüllten – FSC-zertifizierte Kartonverpackung, Tragetaschen aus recyceltem PET und Konformität mit der kalifornischen Proposition 65 zu Weichmachern und Schwermetallen. Das 14-seitige Product-Information-Management-Datenblatt (PIM) wurde am 1. Oktober 2023 über das Lieferantenportal von REI eingereicht.',
             },
             {
               title: 'Schritt 3 – Fotografie, Texterstellung und Pre-Launch-Präsentationen für Handelseinkäufer',
               detail:
-                'Afarer produzierte 230 Assets für die Kollektion – Studio-Produktaufnahmen auf weißem Hintergrund, Lifestyle-Aufnahmen am Garibaldi Lake (auf 1.500 m Höhe in British Columbia) und 360-Grad-Drehaufnahmen. Sie verfassten lokalisierte Produkttexte auf Englisch und Französisch-Kanadisch für Händler in Québec. Afarers Sales-Enablement-Team erstellte ein 22-seitiges Händler-Sell-in-Deck mit Wettbewerbsanalysen gegenüber Marken wie BOTE und Isle, Margenprojektionen mit 48 % Rohertrag für Händler und Sell-through-Daten aus Testmärkten. Henrik und Afarers Vertriebschef präsentierten am 15. November 2023 dem nationalen Einkäufer von REI und sicherten Zusagen von 34 REI-Filialen.',
+                'OLagoon produzierte 230 Assets für die Kollektion – Studio-Produktaufnahmen auf weißem Hintergrund, Lifestyle-Aufnahmen am Garibaldi Lake (auf 1.500 m Höhe in British Columbia) und 360-Grad-Drehaufnahmen. Sie verfassten lokalisierte Produkttexte auf Englisch und Französisch-Kanadisch für Händler in Québec. OLagoons Sales-Enablement-Team erstellte ein 22-seitiges Händler-Sell-in-Deck mit Wettbewerbsanalysen gegenüber Marken wie BOTE und Isle, Margenprojektionen mit 48 % Rohertrag für Händler und Sell-through-Daten aus Testmärkten. Henrik und OLagoons Vertriebschef präsentierten am 15. November 2023 dem nationalen Einkäufer von REI und sicherten Zusagen von 34 REI-Filialen.',
             },
             {
               title: 'Schritt 4 – Erste Produktionscharge, Lagerhaltung und Sell-Through-Performance',
               detail:
-                'Die Produktion von 2.800 Einheiten über die 4 SKUs begann im Dezember 2023 in Afarers Werk in Dongguan. Afarer organisierte Seefracht nach Vancouver mit Ankunft am 22. Januar 2024. Die ersten 800 Einheiten wurden per Cross-Docking zum Fulfillment-Center von North Ridge in Mississauga für die Distribution in Ostkanada umgeleitet. Bis zum 1. März 2024 war die Kollektion in 34 REI-Filialen, an 18 MEC-Standorten und auf NorthRidgeGear.com verfügbar. Das Discovery-Board verkaufte allein im März 340 Einheiten – 136 % der Prognose. Bis Juni 2024 erreichte der Kollektionsumsatz 678.000 CAD, wobei das Angel-SUP „Angler“ bis August hinein ausverkauft und nur noch vorbestellbar war.',
+                'Die Produktion von 2.800 Einheiten über die 4 SKUs begann im Dezember 2023 in OLagoons Werk in Dongguan. OLagoon organisierte Seefracht nach Vancouver mit Ankunft am 22. Januar 2024. Die ersten 800 Einheiten wurden per Cross-Docking zum Fulfillment-Center von North Ridge in Mississauga für die Distribution in Ostkanada umgeleitet. Bis zum 1. März 2024 war die Kollektion in 34 REI-Filialen, an 18 MEC-Standorten und auf NorthRidgeGear.com verfügbar. Das Discovery-Board verkaufte allein im März 340 Einheiten – 136 % der Prognose. Bis Juni 2024 erreichte der Kollektionsumsatz 678.000 CAD, wobei das Angel-SUP „Angler“ bis August hinein ausverkauft und nur noch vorbestellbar war.',
             },
           ],
           results: [
@@ -3018,22 +3018,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Materialinnovation für die Konformität mit europäischen Standards',
               detail:
-                'Afarers F&E-Team in Guangzhou entwickelte zehn Wochen lang ein proprietäres 5-lagiges PVC-Laminat, das die EU-Chemikalien-Sicherheitsnorm REACH und die Anforderungen der deutschen GS-Sicherheitszertifizierung übertraf. Für den Marketingansatz „Made with German Technology“ von AlpenWerk bezogen sie ein Drop-Stitch-Garn in Textilqualität vom deutschen Lieferanten Karl Mayer Technische Textilien. Vier Prototyp-Boards wurden im Juli 2023 produziert und zum TÜV Rheinland geschickt. Zwei bestanden die anfängliche GS-Zertifizierung wegen unzureichender Abriebfestigkeit am Heck-Pad nicht, was eine Erhöhung der PVC-Deckschichtdicke um 12 % von 0,8 mm auf 0,9 mm erforderte.',
+                'OLagoons F&E-Team in Guangzhou entwickelte zehn Wochen lang ein proprietäres 5-lagiges PVC-Laminat, das die EU-Chemikalien-Sicherheitsnorm REACH und die Anforderungen der deutschen GS-Sicherheitszertifizierung übertraf. Für den Marketingansatz „Made with German Technology“ von AlpenWerk bezogen sie ein Drop-Stitch-Garn in Textilqualität vom deutschen Lieferanten Karl Mayer Technische Textilien. Vier Prototyp-Boards wurden im Juli 2023 produziert und zum TÜV Rheinland geschickt. Zwei bestanden die anfängliche GS-Zertifizierung wegen unzureichender Abriebfestigkeit am Heck-Pad nicht, was eine Erhöhung der PVC-Deckschichtdicke um 12 % von 0,8 mm auf 0,9 mm erforderte.',
             },
             {
               title: 'Schritt 2 – Verhandlungen mit Handelseinkäufern und regalreife Verpackung',
               detail:
-                'Lena und Afarers europäischer Vertriebsdirektor präsentierten die Kollektion im November 2023 auf der Messe ISPO München. Sie sicherten Vorbestellungen von 38 Intersport-Standorten, 12 Globetrotter-Filialen und Bergfreunde.de. Afarer gestaltete regalreife Verkaufsverpackungen, die dem deutschen Verpackungsgesetz (VerpackG) entsprachen – ein zu 100 % recycelbarer Karton mit Soja-Tinten-Druck, ohne Kunststoff-Schrumpffolie und mit einem QR-Code, der zu einem 3-minütigen Aufbauvideo auf Deutsch führte. Die Verpackung kostete 4,20 € pro Einheit, verhinderte aber Ladenschäden, die bei Konkurrenzmarken mit Kunststofftaschen bei 2,3 % lagen.',
+                'Lena und OLagoons europäischer Vertriebsdirektor präsentierten die Kollektion im November 2023 auf der Messe ISPO München. Sie sicherten Vorbestellungen von 38 Intersport-Standorten, 12 Globetrotter-Filialen und Bergfreunde.de. OLagoon gestaltete regalreife Verkaufsverpackungen, die dem deutschen Verpackungsgesetz (VerpackG) entsprachen – ein zu 100 % recycelbarer Karton mit Soja-Tinten-Druck, ohne Kunststoff-Schrumpffolie und mit einem QR-Code, der zu einem 3-minütigen Aufbauvideo auf Deutsch führte. Die Verpackung kostete 4,20 € pro Einheit, verhinderte aber Ladenschäden, die bei Konkurrenzmarken mit Kunststofftaschen bei 2,3 % lagen.',
             },
             {
               title: 'Schritt 3 – Europäische Lagerhaltung und Aufbau der Last-Mile-Distribution',
               detail:
-                'Afarer half AlpenWerk, einen Distributions-Hub in einem 3PL-Lager in Dortmund mit Kapazität für 3.000 Einheiten aufzubauen. Sie verhandelten DDP-Versandkonditionen mit einem Spediteur aus Ningbo, inklusive Zollabfertigung im Hamburger Hafen und Lkw-Transport nach Dortmund innerhalb von fünf Werktagen nach Ankunft des Schiffs. Der Lagerbestand wurde mit einem Kanban-System konfiguriert – fiel der Bestand unter 400 Einheiten, wurde automatisch eine Nachbestellung bei Afarers Fabrik mit einer Vorlaufzeit von 45 Tagen ausgelöst. Der erste Container mit 1.500 Einheiten traf am 15. Februar 2024 ein, der zweite mit 1.200 Einheiten am 10. April.',
+                'OLagoon half AlpenWerk, einen Distributions-Hub in einem 3PL-Lager in Dortmund mit Kapazität für 3.000 Einheiten aufzubauen. Sie verhandelten DDP-Versandkonditionen mit einem Spediteur aus Ningbo, inklusive Zollabfertigung im Hamburger Hafen und Lkw-Transport nach Dortmund innerhalb von fünf Werktagen nach Ankunft des Schiffs. Der Lagerbestand wurde mit einem Kanban-System konfiguriert – fiel der Bestand unter 400 Einheiten, wurde automatisch eine Nachbestellung bei OLagoons Fabrik mit einer Vorlaufzeit von 45 Tagen ausgelöst. Der erste Container mit 1.500 Einheiten traf am 15. Februar 2024 ein, der zweite mit 1.200 Einheiten am 10. April.',
             },
             {
               title: 'Schritt 4 – Launch-Kampagne, Influencer-Partnerschaften und Nachbestelltempo',
               detail:
-                'AlpenWerk launchte die Touring-Modelle „SeeWolf“ 10\'8", „Flussläufer“ 11\'6" und „Gipfelstürmer“ 12\'0" am 1. März 2024 über alle Vertriebskanäle und alpenwerk.de. Afarers Content-Team produzierte 18 Social-Media-Assets mit deutschen SUP-Influencern wie „SUP_mit_Michi“ (43.000 Follower) und „PaddelPia“ (28.000 Follower). Bis zum 31. Mai 2024 waren 1.870 Einheiten abverkauft – 87 % des initialen Sell-in. Intersport gab am 15. Juni eine Nachbestellung über 450 Einheiten auf. Lenas Direct-to-Consumer-Webkanal trug 320.000 € zum Umsatz bei – bei 54 % Rohertrag und damit besser als die anfänglich projizierten 40 %.',
+                'AlpenWerk launchte die Touring-Modelle „SeeWolf“ 10\'8", „Flussläufer“ 11\'6" und „Gipfelstürmer“ 12\'0" am 1. März 2024 über alle Vertriebskanäle und alpenwerk.de. OLagoons Content-Team produzierte 18 Social-Media-Assets mit deutschen SUP-Influencern wie „SUP_mit_Michi“ (43.000 Follower) und „PaddelPia“ (28.000 Follower). Bis zum 31. Mai 2024 waren 1.870 Einheiten abverkauft – 87 % des initialen Sell-in. Intersport gab am 15. Juni eine Nachbestellung über 450 Einheiten auf. Lenas Direct-to-Consumer-Webkanal trug 320.000 € zum Umsatz bei – bei 54 % Rohertrag und damit besser als die anfänglich projizierten 40 %.',
             },
           ],
           results: [
@@ -3045,8 +3045,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Afarer',
+    whyOLagoon: {
+      title: 'Warum OLagoon',
       items: [
         {
           title: 'Technische Expertise',
@@ -3079,7 +3079,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Wie kann meine Outdoor-Marke ohne SUP-Expertise in den Wassersport expandieren?',
         answer:
-          'Afarer liefert die komplette Fertigungsexpertise inklusive Drop-Stitch-Technologie, PVC-Engineering und Produktdesign. Ihre Marke bringt das Kundenwissen mit, während wir die technische Produktion übernehmen.',
+          'OLagoon liefert die komplette Fertigungsexpertise inklusive Drop-Stitch-Technologie, PVC-Engineering und Produktdesign. Ihre Marke bringt das Kundenwissen mit, während wir die technische Produktion übernehmen.',
       },
       {
         question: 'Welche Arten von Wassersportprodukten können Sie fertigen?',
@@ -3089,7 +3089,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Können Sie meine bestehenden Markenqualitätsstandards erfüllen?',
         answer:
-          'Ja. Afarer entwickelt Produkte nach Ihrer Designsprache, Ihren Qualitätsstandards und Ihrer Marktpositionierung – mit strikter Qualitätskontrolle während der gesamten Produktion.',
+          'Ja. OLagoon entwickelt Produkte nach Ihrer Designsprache, Ihren Qualitätsstandards und Ihrer Marktpositionierung – mit strikter Qualitätskontrolle während der gesamten Produktion.',
       },
       {
         question: 'Welche Bestellmengen sind für etablierte Marken üblich?',
@@ -3121,7 +3121,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Aufblasbarer SUP-OEM-Hersteller für Wassersportmarken | {SITE}',
       description:
-        'Afarer hilft Kajak-, Kanu-, Segel- und Tauchmarken, mit professioneller Drop-Stitch-Technologie, OEM-Fertigung und kompletten Wassersport-Produktlösungen in aufblasbare SUPs zu expandieren.',
+        'OLagoon hilft Kajak-, Kanu-, Segel- und Tauchmarken, mit professioneller Drop-Stitch-Technologie, OEM-Fertigung und kompletten Wassersport-Produktlösungen in aufblasbare SUPs zu expandieren.',
     },
     hero: {
       tagline: 'Expand Your Water Sports Portfolio™',
@@ -3162,13 +3162,13 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Ausgereifte Fertigungstechnologie für aufblasbare SUPs',
           description:
-            'Afarer bietet professionelle Drop-Stitch-Technologie für Hochdruck-Aufblasstrukturen mit der Steifigkeit fester Boards, mehrlagigen PVC-Aufbau für Langlebigkeit und professionelle Schweißtechnik für starke Nähte.',
+            'OLagoon bietet professionelle Drop-Stitch-Technologie für Hochdruck-Aufblasstrukturen mit der Steifigkeit fester Boards, mehrlagigen PVC-Aufbau für Langlebigkeit und professionelle Schweißtechnik für starke Nähte.',
           features: ['Drop-Stitch-Technologie', 'Mehrlagiger PVC-Aufbau', 'Professionelle Schweißtechnik'],
         },
         {
           title: 'Entwicklung eines vollständigen SUP-Produktportfolios',
           description:
-            'Afarer bietet erprobte Produktplattformen – darunter Allround-SUPs für Anfänger und Familien, Touring-SUPs für Abenteurer, Fishing-SUPs mit Montagesystemen, Yoga-SUPs für den Wellnessmarkt, Kids-SUPs und Zubehör.',
+            'OLagoon bietet erprobte Produktplattformen – darunter Allround-SUPs für Anfänger und Familien, Touring-SUPs für Abenteurer, Fishing-SUPs mit Montagesystemen, Yoga-SUPs für den Wellnessmarkt, Kids-SUPs und Zubehör.',
           features: [
             'Allround-SUP-Serie',
             'Touring-SUP-Serie',
@@ -3180,13 +3180,13 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'OEM- & ODM-Produktentwicklung',
           description:
-            'Afarer unterstützt Private-Label-Fertigung mit Markenlogo und Verpackung, Produktmodifikationen bei Maßen und Ausstattung sowie exklusive Kollektionen mit markenspezifischen Modellen und Saisonprodukten.',
+            'OLagoon unterstützt Private-Label-Fertigung mit Markenlogo und Verpackung, Produktmodifikationen bei Maßen und Ausstattung sowie exklusive Kollektionen mit markenspezifischen Modellen und Saisonprodukten.',
           features: ['Private-Label-Fertigung', 'Produktmodifikation', 'Exklusive Kollektionen'],
         },
         {
           title: 'Schnelles Markteintrittsprogramm',
           description:
-            'Afarer hilft, die Entwicklungszeit zu verkürzen – durch bestehende Produktplattformen mit erprobten Boardshapes und getesteten Konstruktionen, schnelle Prototypenentwicklung von der Besprechung bis zur Produktion und schnellerem kommerziellen Launch, um saisonale Chancen zu nutzen.',
+            'OLagoon hilft, die Entwicklungszeit zu verkürzen – durch bestehende Produktplattformen mit erprobten Boardshapes und getesteten Konstruktionen, schnelle Prototypenentwicklung von der Besprechung bis zur Produktion und schnellerem kommerziellen Launch, um saisonale Chancen zu nutzen.',
           features: [
             'Bestehende Produktplattformen',
             'Schnelle Prototypenentwicklung',
@@ -3196,25 +3196,25 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Markenkompatible Produktintegration',
           description:
-            'Afarer arbeitet mit Markenmanagern daran, die Produktdesignsprache – einschließlich Farben, Grafiken und Materialien – mit der bestehenden Markenidentität in Einklang zu bringen, und zwar für Adventure-, Familien- und Premium-Marine-Positionierungen.',
+            'OLagoon arbeitet mit Markenmanagern daran, die Produktdesignsprache – einschließlich Farben, Grafiken und Materialien – mit der bestehenden Markenidentität in Einklang zu bringen, und zwar für Adventure-, Familien- und Premium-Marine-Positionierungen.',
           features: ['Produktdesignsprache', 'Kundenpositionierung', 'Markenanpassung'],
         },
         {
           title: 'Entwicklung von Zubehör & Komplettpaketen',
           description:
-            'Afarer unterstützt SUP-Zubehör inklusive Paddel, Pumpen, Leashes, Taschen und Reparatursets sowie Produktbundles wie Einsteigerpakete, Adventure-Pakete und Familienpakete.',
+            'OLagoon unterstützt SUP-Zubehör inklusive Paddel, Pumpen, Leashes, Taschen und Reparatursets sowie Produktbundles wie Einsteigerpakete, Adventure-Pakete und Familienpakete.',
           features: ['SUP-Zubehör', 'Produktbundles', 'Paketentwicklung'],
         },
         {
           title: 'Integration in die Lieferkette',
           description:
-            'Für etablierte Marken bietet Afarer eine stabile Produktionskapazität von 500-10.000 Sets pro Jahr, Jahresplanung für Produkt-Roadmap und saisonale Produktion sowie gleichbleibende Qualität über alle Spezifikationen hinweg.',
+            'Für etablierte Marken bietet OLagoon eine stabile Produktionskapazität von 500-10.000 Sets pro Jahr, Jahresplanung für Produkt-Roadmap und saisonale Produktion sowie gleichbleibende Qualität über alle Spezifikationen hinweg.',
           features: ['Stabile Produktionskapazität', 'Jahresplanung', 'Gleichbleibende Qualität'],
         },
         {
           title: 'Unterstützung bei der Qualitätskontrolle',
           description:
-            'Afarers Qualitätsprozesse umfassen Materialprüfung von PVC und Drop-Stitch-Gewebe, Produktionsüberwachung von Schweißen und Montage sowie Endkontrolle von Produktleistung, Zubehör und Verpackung.',
+            'OLagoons Qualitätsprozesse umfassen Materialprüfung von PVC und Drop-Stitch-Gewebe, Produktionsüberwachung von Schweißen und Montage sowie Endkontrolle von Produktleistung, Zubehör und Verpackung.',
           features: ['Materialprüfung', 'Produktionsüberwachung', 'Endkontrolle'],
         },
       ],
@@ -3231,7 +3231,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Entwicklung der Produktstrategie',
           detail:
-            'Afarer analysierte die bestehende Kundschaft, die Marktpositionierung und das Preissegment der Marke, um eine SUP-Produktfamilien-Erweiterung zu empfehlen, die zur Marke passt.',
+            'OLagoon analysierte die bestehende Kundschaft, die Marktpositionierung und das Preissegment der Marke, um eine SUP-Produktfamilien-Erweiterung zu empfehlen, die zur Marke passt.',
         },
         {
           title: 'Zusammenstellung des Produktportfolios',
@@ -3241,7 +3241,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'OEM-Anpassung',
           detail:
-            'Afarer entwickelte markenspezifische Grafiken, individuelle Farben und Handelsverpackungen, die zur etablierten visuellen Identität und Marktpositionierung passten.',
+            'OLagoon entwickelte markenspezifische Grafiken, individuelle Farben und Handelsverpackungen, die zur etablierten visuellen Identität und Marktpositionierung passten.',
         },
         {
           title: 'Lieferpartnerschaft',
@@ -3268,22 +3268,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Produktportfolio-Planung & Anpassung an den brasilianischen Markt',
               detail:
-                'Pedro besuchte im Januar 2025 mit seinem Produktdirektor und Industriedesigner Afarers Standort in Shenzhen zu einem 5-tägigen gemeinsamen Workshop. Sie wählten 10 SUP-Modelle – 4 Allround, 3 Touring, 2 Fishing und 1 Yoga-Plattform. Afarers Ingenieure passten jedes Produkt an brasilianische Bedingungen an – darunter UV-beständiges PVC für die tropische Sonne, verstärkte Rümpfe für die felsigen Flussbetten in Minas Gerais und Farbgebungen, inspiriert von der brasilianischen Nationalflagge und Motiven des Amazonas-Regenwaldes. Pedro platzierte eine Erstbestellung über 3,2 Mio. R$ für 4.500 Einheiten, mit 30 % Anzahlung und Restzahlung gegen Konnossement.',
+                'Pedro besuchte im Januar 2025 mit seinem Produktdirektor und Industriedesigner OLagoons Standort in Shenzhen zu einem 5-tägigen gemeinsamen Workshop. Sie wählten 10 SUP-Modelle – 4 Allround, 3 Touring, 2 Fishing und 1 Yoga-Plattform. OLagoons Ingenieure passten jedes Produkt an brasilianische Bedingungen an – darunter UV-beständiges PVC für die tropische Sonne, verstärkte Rümpfe für die felsigen Flussbetten in Minas Gerais und Farbgebungen, inspiriert von der brasilianischen Nationalflagge und Motiven des Amazonas-Regenwaldes. Pedro platzierte eine Erstbestellung über 3,2 Mio. R$ für 4.500 Einheiten, mit 30 % Anzahlung und Restzahlung gegen Konnossement.',
             },
             {
               title: 'Markenintegration, portugiesische Lokalisierung & Zulassung',
               detail:
-                'Afarers Designteam schuf das vollständige visuelle Erscheinungsbild von „ÁguaVita Adventure“ – inklusive Logos, Farbschemata, Verpackungen und Verkaufsmaterialien auf Brasilianisches Portugiesisch. Das Zulassungsteam verantwortete die INMETRO-Zertifizierung aller 10 Produkte (in Brasilien für Sportausrüstung Pflicht) und entwickelte portugiesischsprachige Anleitungen mit bebilderten Montageanweisungen für Brasilien. Afarer produzierte 200 Vorserien-Einheiten, die im März 2025 per Luftfracht verschifft wurden, damit Pedros 50 wichtigste Händler sie begutachten konnten – 46 von 50 platzierten Erstbestellungen mit durchschnittlich 48.000 R$ pro Händler.',
+                'OLagoons Designteam schuf das vollständige visuelle Erscheinungsbild von „ÁguaVita Adventure“ – inklusive Logos, Farbschemata, Verpackungen und Verkaufsmaterialien auf Brasilianisches Portugiesisch. Das Zulassungsteam verantwortete die INMETRO-Zertifizierung aller 10 Produkte (in Brasilien für Sportausrüstung Pflicht) und entwickelte portugiesischsprachige Anleitungen mit bebilderten Montageanweisungen für Brasilien. OLagoon produzierte 200 Vorserien-Einheiten, die im März 2025 per Luftfracht verschifft wurden, damit Pedros 50 wichtigste Händler sie begutachten konnten – 46 von 50 platzierten Erstbestellungen mit durchschnittlich 48.000 R$ pro Händler.',
             },
             {
               title: 'Händler-Launch & landesweiter Vertrieb',
               detail:
-                'Die Haupt-Seefracht-Sendung mit 4.300 Einheiten erreichte am 15. Mai 2025 den Hafen von Santos und passierte den Zoll innerhalb von 5 Tagen. Afarers Logistikteam koordinierte mit ÁguaVitas 5 regionalen Distributionszentren in São Paulo, Rio de Janeiro, Belo Horizonte, Recife und Porto Alegre. Pedros 6-köpfiges Vertriebsteam stellte die Linie auf der São Paulo Outdoor Sports Expo 2025 (12.-15. Juni) vor – mit Live-Demonstrationen im Paddelbecken gemeinsam mit der Olympia-Kanutin Isabella Santos. Innerhalb von 4 Tagen gewann ÁguaVita 340 neue Händlerkonten speziell für die Adventure-Linie und verkaufte 800 Einheiten direkt von der Expo-Fläche.',
+                'Die Haupt-Seefracht-Sendung mit 4.300 Einheiten erreichte am 15. Mai 2025 den Hafen von Santos und passierte den Zoll innerhalb von 5 Tagen. OLagoons Logistikteam koordinierte mit ÁguaVitas 5 regionalen Distributionszentren in São Paulo, Rio de Janeiro, Belo Horizonte, Recife und Porto Alegre. Pedros 6-köpfiges Vertriebsteam stellte die Linie auf der São Paulo Outdoor Sports Expo 2025 (12.-15. Juni) vor – mit Live-Demonstrationen im Paddelbecken gemeinsam mit der Olympia-Kanutin Isabella Santos. Innerhalb von 4 Tagen gewann ÁguaVita 340 neue Händlerkonten speziell für die Adventure-Linie und verkaufte 800 Einheiten direkt von der Expo-Fläche.',
             },
             {
               title: 'Kategorieerweiterung & Marktführerschaft',
               detail:
-                'Bis November 2025 hatte „ÁguaVita Adventure“ 6.200 Einheiten über alle 10 SKUs verkauft und 16,2 Mio. R$ Umsatz erzielt – 35 % über dem Ziel von 12 Mio. R$. Das aufblasbare SUP-Modell „Ipanema 10\'6"“ war das meistverkaufte Produkt aller ÁguaVita-Kategorien – noch vor der klassischen Tauchausrüstung. Pedro führte den Erfolg auf Afarers gleichbleibende Qualität zurück – nur 0,8 % Fehlerquote gegenüber 4,2 % bei seinen bisherigen Tauchausrüstungs-Lieferanten. Er platzierte eine Bestellung über 8,5 Mio. R$ für 2026, inklusive 4 neuen Fishing-SUP-Modellen und einem Steh-Paddelboard, womit sich ÁguaVita als größtes Paddelsport-Unternehmen Brasiliens positionierte.',
+                'Bis November 2025 hatte „ÁguaVita Adventure“ 6.200 Einheiten über alle 10 SKUs verkauft und 16,2 Mio. R$ Umsatz erzielt – 35 % über dem Ziel von 12 Mio. R$. Das aufblasbare SUP-Modell „Ipanema 10\'6"“ war das meistverkaufte Produkt aller ÁguaVita-Kategorien – noch vor der klassischen Tauchausrüstung. Pedro führte den Erfolg auf OLagoons gleichbleibende Qualität zurück – nur 0,8 % Fehlerquote gegenüber 4,2 % bei seinen bisherigen Tauchausrüstungs-Lieferanten. Er platzierte eine Bestellung über 8,5 Mio. R$ für 2026, inklusive 4 neuen Fishing-SUP-Modellen und einem Steh-Paddelboard, womit sich ÁguaVita als größtes Paddelsport-Unternehmen Brasiliens positionierte.',
             },
           ],
           results: [
@@ -3306,17 +3306,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Analyse der Flottenzusammensetzung & Prüfung der Kommerzial-Spezifikation',
               detail:
-                'Im August 2024 gestalteten Kai und sein Sohn Mako (Absolvent eines Hospitality-Management-Studiums) mit Afarers Abteilung für kommerzielle Flotten die ideale Vermietungsflotte. Nach der Analyse von 3 Jahren lokaler Tourismusdaten einigten sie sich auf 60 SUPs (30 Allround 10\'6", 15 Touring 11\'6", 8 Yoga-Boards, 7 Fishing-Boards). Afarer lieferte die Konstruktion in Kommerzialqualität – mit verstärktem Drop-Stitch, doppellagigen PVC-Rails, Edelstahl-D-Ringen (statt Kunststoff) und Kommercial-Ventilen für über 100.000 Aufblaszyklen. Die Flotte kostete geliefert 48.000 $ (gegenüber 78.000 $ für vergleichbare Boards aus hawaiianischer Fertigung); Kai platzierte die Bestellung am 1. September 2024 mit 50 % Anzahlung.',
+                'Im August 2024 gestalteten Kai und sein Sohn Mako (Absolvent eines Hospitality-Management-Studiums) mit OLagoons Abteilung für kommerzielle Flotten die ideale Vermietungsflotte. Nach der Analyse von 3 Jahren lokaler Tourismusdaten einigten sie sich auf 60 SUPs (30 Allround 10\'6", 15 Touring 11\'6", 8 Yoga-Boards, 7 Fishing-Boards). OLagoon lieferte die Konstruktion in Kommerzialqualität – mit verstärktem Drop-Stitch, doppellagigen PVC-Rails, Edelstahl-D-Ringen (statt Kunststoff) und Kommercial-Ventilen für über 100.000 Aufblaszyklen. Die Flotte kostete geliefert 48.000 $ (gegenüber 78.000 $ für vergleichbare Boards aus hawaiianischer Fertigung); Kai platzierte die Bestellung am 1. September 2024 mit 50 % Anzahlung.',
             },
             {
               title: 'Schulung der Vermietungsabläufe & Aufbau der Logistik',
               detail:
-                'Afarers Spezialist für Vermietungsabläufe verbrachte im Oktober 2024 vier Tage in Kais Laden, um den Vermietungsworkflow zu optimieren. Sie implementierten ein Flottenmanagementsystem mit QR-codierten Boards und einer mobilen App für Check-in/Check-out, Schadensverfolgung und präventive Wartungspläne. Afarer lieferte 10 leistungsstarke Akku-Pumpen für den same-day-Flottenwechsel und ein individuelles Staugestellsystem, das den 600 Quadratfuß großen Lagerraum optimal nutzte. Die Schulung umfasste Aufblasprotokolle (jedes Board mit den Akku-Pumpen in unter 4 Minuten auf 12-15 PSI aufgeblasen), Prüflisten, Reparaturverfahren und standardisierte Kunden-Sicherheitsunterweisungen für das gesamte Vermietungspersonal.',
+                'OLagoons Spezialist für Vermietungsabläufe verbrachte im Oktober 2024 vier Tage in Kais Laden, um den Vermietungsworkflow zu optimieren. Sie implementierten ein Flottenmanagementsystem mit QR-codierten Boards und einer mobilen App für Check-in/Check-out, Schadensverfolgung und präventive Wartungspläne. OLagoon lieferte 10 leistungsstarke Akku-Pumpen für den same-day-Flottenwechsel und ein individuelles Staugestellsystem, das den 600 Quadratfuß großen Lagerraum optimal nutzte. Die Schulung umfasste Aufblasprotokolle (jedes Board mit den Akku-Pumpen in unter 4 Minuten auf 12-15 PSI aufgeblasen), Prüflisten, Reparaturverfahren und standardisierte Kunden-Sicherheitsunterweisungen für das gesamte Vermietungspersonal.',
             },
             {
               title: 'Preisstrategie, Launch & Integration der Online-Buchung',
               detail:
-                'Kai startete die Flotte am 1. Dezember 2024 mit gestaffelten Preisen – 35 $ pro Stunde für SUPs, 89 $ pro Halbtag, 129 $ pro Ganztag sowie Wochentarifen. Afarer half Kai bei der Integration mit den Buchungsplattformen FareHarbor und Peek Pro, erstellte professionelle Produktfotografie und entwickelte eine optimierte Google-My-Business-Präsenz, die Kais Laden innerhalb von 6 Wochen von Seite 4 in die Top 3 der lokalen Suchergebnisse brachte. Bis zum 31. Dezember erreichte die Flotte 42 % Auslastung und verkaufte 780 Vermiettage – trotz Nebensaison – und erzielte allein im Dezember 62.000 $.',
+                'Kai startete die Flotte am 1. Dezember 2024 mit gestaffelten Preisen – 35 $ pro Stunde für SUPs, 89 $ pro Halbtag, 129 $ pro Ganztag sowie Wochentarifen. OLagoon half Kai bei der Integration mit den Buchungsplattformen FareHarbor und Peek Pro, erstellte professionelle Produktfotografie und entwickelte eine optimierte Google-My-Business-Präsenz, die Kais Laden innerhalb von 6 Wochen von Seite 4 in die Top 3 der lokalen Suchergebnisse brachte. Bis zum 31. Dezember erreichte die Flotte 42 % Auslastung und verkaufte 780 Vermiettage – trotz Nebensaison – und erzielte allein im Dezember 62.000 $.',
             },
             {
               title: 'Hochsaison-Hochlauf & Expansionsplanung',
@@ -3325,7 +3325,7 @@ const de: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            '764.000 $ Gesamtumsatz im ersten Jahr (12 % über dem Ziel von 680.000 $) mit 487.000 $ Netto-Vermieteinnahmen aus der Afarer-Flotte',
+            '764.000 $ Gesamtumsatz im ersten Jahr (12 % über dem Ziel von 680.000 $) mit 487.000 $ Netto-Vermieteinnahmen aus der OLagoon-Flotte',
             '78 % Flottenauslastung in den Sommermonaten über alle 60 SUPs – mit bis zu 180 Kunden täglich',
             'Amortisation der 48.000 $ Flotteninvestition in nur 3,5 Monaten (Dezember 2024 bis Mitte März 2025)',
             'Unternehmensbewertung stieg innerhalb von 12 Monaten von 420.000 $ auf 1,8 Mio. $ – das ermöglichte den Erwerb eines zweiten Standorts am Strand von Kona',
@@ -3333,8 +3333,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Wassersportmarken Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Wassersportmarken OLagoon wählen',
       items: [
         {
           title: 'Wassersportmärkte',
@@ -3371,7 +3371,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Wie kann eine Kajak- oder Kanumarke aufblasbare SUP-Produkte hinzufügen, ohne eine Fabrik zu bauen?',
         answer:
-          'Afarers OEM/ODM-Partnerschaftsmodell ermöglicht es etablierten Wassersportmarken, aufblasbare SUP-Produkte über unsere bestehende Fertigungsinfrastruktur zu ergänzen. Die Marken nutzen ihre Kundenbasis und Vertriebskanäle, während Afarer Drop-Stitch-Konstruktion, PVC-Fertigung, Qualitätskontrolle und Lieferkettenmanagement übernimmt.',
+          'OLagoons OEM/ODM-Partnerschaftsmodell ermöglicht es etablierten Wassersportmarken, aufblasbare SUP-Produkte über unsere bestehende Fertigungsinfrastruktur zu ergänzen. Die Marken nutzen ihre Kundenbasis und Vertriebskanäle, während OLagoon Drop-Stitch-Konstruktion, PVC-Fertigung, Qualitätskontrolle und Lieferkettenmanagement übernimmt.',
       },
       {
         question: 'Was ist Drop-Stitch-Technologie und warum ist sie für die SUP-Fertigung wichtig?',
@@ -3381,27 +3381,27 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Können bestehende Markendesigns und Farben auf SUP-Produkte übertragen werden?',
         answer:
-          'Ja, Afarer unterstützt vollständige Markenintegration inklusive individueller Grafiken, Pantone-Farbanpassung, Logoanwendung und Verpackungsdesign. Wir arbeiten mit Markenmanagern zusammen, damit die SUP-Produkte zur bestehenden Produktdesignsprache und Marktpositionierung passen.',
+          'Ja, OLagoon unterstützt vollständige Markenintegration inklusive individueller Grafiken, Pantone-Farbanpassung, Logoanwendung und Verpackungsdesign. Wir arbeiten mit Markenmanagern zusammen, damit die SUP-Produkte zur bestehenden Produktdesignsprache und Marktpositionierung passen.',
       },
       {
         question: 'Wie lange dauert es typischerweise vom Konzept bis zum Markt für eine neue SUP-Produktlinie?',
         answer:
-          'Mit Afarers bestehenden Produktplattformen und dem schnellen Prototyping-Prozess können Marken typischerweise in 8-12 Wochen vom Konzept bis zu marktreifen Produkten gelangen. Das umfasst Produktauswahl, Design-Anpassung, Prototypenfreigabe, Produktion und Versand.',
+          'Mit OLagoons bestehenden Produktplattformen und dem schnellen Prototyping-Prozess können Marken typischerweise in 8-12 Wochen vom Konzept bis zu marktreifen Produkten gelangen. Das umfasst Produktauswahl, Design-Anpassung, Prototypenfreigabe, Produktion und Versand.',
       },
       {
         question: 'Welche Mindestbestellmengen sind für die OEM/ODM-SUP-Produktion erforderlich?',
         answer:
-          'Afarer begleitet ein Spektrum von Stückzahlen – von 500 Einheiten für erste Marktests bis zu über 10.000 Einheiten jährlich für etablierte Programme. Wir planen mit den Marken Produktionsvolumen, die zu ihrer Vertriebsskala und saisonalen Nachfrage passen.',
+          'OLagoon begleitet ein Spektrum von Stückzahlen – von 500 Einheiten für erste Marktests bis zu über 10.000 Einheiten jährlich für etablierte Programme. Wir planen mit den Marken Produktionsvolumen, die zu ihrer Vertriebsskala und saisonalen Nachfrage passen.',
       },
       {
         question:
-          'Bietet Afarer die Fertigung aufblasbarer SUPs auch für Marken mit bestehenden Kajak-Produktlinien an?',
+          'Bietet OLagoon die Fertigung aufblasbarer SUPs auch für Marken mit bestehenden Kajak-Produktlinien an?',
         answer:
-          'Ja. Afarer fertigt aufblasbare SUP-Boards mit Drop-Stitch- und PVC-Schweißtechnologie. So können Wassersportmarken eine komplette aufblasbare SUP-Kategorie über einen einzigen Fertigungspartner hinzufügen, während ihre bestehenden Produkte unverändert bleiben.',
+          'Ja. OLagoon fertigt aufblasbare SUP-Boards mit Drop-Stitch- und PVC-Schweißtechnologie. So können Wassersportmarken eine komplette aufblasbare SUP-Kategorie über einen einzigen Fertigungspartner hinzufügen, während ihre bestehenden Produkte unverändert bleiben.',
       },
     ],
     cta: {
-      title: 'Erweitern Sie Ihre Wassersportmarke mit Afarer',
+      title: 'Erweitern Sie Ihre Wassersportmarke mit OLagoon',
       subtitle:
         'Sie haben die Kunden bereits. Sie haben den Markt bereits. Ergänzen Sie jetzt die Produkte, die sie sich wünschen.',
       primaryAction: {
@@ -3417,15 +3417,15 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Aufblasbare SUP-Lösungen für Surfshops | Private-Label-Hersteller | {SITE}',
       description:
-        'Afarer hilft Surfshops und Wasser-Lifestyle-Marken beim Wachsen mit Private-Label-SUP und maßgeschneiderten Wassersportprodukten. Senken Sie Versand-, Lager- und Inventarkosten mit fortschrittlicher aufblasbarer Technologie.',
+        'OLagoon hilft Surfshops und Wasser-Lifestyle-Marken beim Wachsen mit Private-Label-SUP und maßgeschneiderten Wassersportprodukten. Senken Sie Versand-, Lager- und Inventarkosten mit fortschrittlicher aufblasbarer Technologie.',
     },
     hero: {
       tagline: 'Bringen Sie aufblasbare Technologie in Ihr Surf-Business™',
       title: 'Aufblasbare SUP-Lösungen für Surfshops und Küstenunternehmen',
       subtitle:
-        'Afarer hilft Surfshops und Wasser-Lifestyle-Marken beim Wachstum mit Private-Label-aufblasbarem SUP und individuellen Wassersportprodukten. Senken Sie Versand-, Lager- und Bestandskosten mit fortschrittlicher aufblasbarer Technologie.',
+        'OLagoon hilft Surfshops und Wasser-Lifestyle-Marken beim Wachstum mit Private-Label-aufblasbarem SUP und individuellen Wassersportprodukten. Senken Sie Versand-, Lager- und Bestandskosten mit fortschrittlicher aufblasbarer Technologie.',
       image: {
-        alt: 'Beschreibung individueller Afarer-SUP-Boards',
+        alt: 'Beschreibung individueller OLagoon-SUP-Boards',
       },
     },
     challenge: {
@@ -3539,7 +3539,7 @@ const de: Record<string, SolutionOverride> = {
       customer:
         'Europäische Coastal-Surfshop-Marke an der Atlantikküste Europas. Ursprünglich spezialisiert auf Surfboards, Surf-Zubehör und Beach-Lifestyle-Produkte mit einer starken lokalen Kundengemeinschaft.',
       steps: [
-        "Afarer empfahl eine aufblasbare SUP-Kollektion inklusive 10'6 Allround-SUP, 12'6 Touring-SUP und Familienpaketen, abgestimmt auf die Strandlage und Kundschaft des Ladens.",
+        "OLagoon empfahl eine aufblasbare SUP-Kollektion inklusive 10'6 Allround-SUP, 12'6 Touring-SUP und Familienpaketen, abgestimmt auf die Strandlage und Kundschaft des Ladens.",
         'Erstellung individueller Board-Grafiken, Markenfarben und Einzelhandelsverpackung, die zur bestehenden Markenidentität und Beach-Lifestyle-Positionierung des Surfshops passten.',
         'Verwandlung des Geschäftsmodells vom klassischen Surf-Einzelhandel zu einem vollständigen Wasser-Lifestyle-Business mit SUP-Verkauf, Verleihpaketen und Einsteigerkursen.',
         'Launch der aufblasbaren Produktlinie zur Ergänzung des bestehenden Hardboard-Sortiments ohne Erhöhung des Lagerdrucks.',
@@ -3564,17 +3564,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Performance-Benchmarking und Materialauswahl',
               detail:
-                'Afarers Produktentwickler besuchten die Gold Coast im Februar 2023 und führten Blindtests mit 12 von Brendans Trainern durch. Jeder Trainer testete 6 Prototypen aufblasbarer Boards gegen das standardmäßige 9\'0" Epoxy-Soft-Top anhand von 4 Kennwerten – Stabilität im Stand (bewertet 1-10), Paddel-Gleiten (Sekunden für 50 m), Wendigkeit von Rail zu Rail und Vertrauensbewertung der Schüler. Der Siegprototyp – mit der Bezeichnung M9-IS – nutzte einen 3-lagigen Drop-Stitch-Kern mit ganzflächigem 0,5-mm-EVA-Deck-Pad und verstärktem Bambus-Stringer. Die Trainer bewerteten ihn insgesamt mit 8,7/10 gegenüber 7,4/10 für die Epoxy-Boards. Brendan bestellte 60 Einheiten im März 2023.',
+                'OLagoons Produktentwickler besuchten die Gold Coast im Februar 2023 und führten Blindtests mit 12 von Brendans Trainern durch. Jeder Trainer testete 6 Prototypen aufblasbarer Boards gegen das standardmäßige 9\'0" Epoxy-Soft-Top anhand von 4 Kennwerten – Stabilität im Stand (bewertet 1-10), Paddel-Gleiten (Sekunden für 50 m), Wendigkeit von Rail zu Rail und Vertrauensbewertung der Schüler. Der Siegprototyp – mit der Bezeichnung M9-IS – nutzte einen 3-lagigen Drop-Stitch-Kern mit ganzflächigem 0,5-mm-EVA-Deck-Pad und verstärktem Bambus-Stringer. Die Trainer bewerteten ihn insgesamt mit 8,7/10 gegenüber 7,4/10 für die Epoxy-Boards. Brendan bestellte 60 Einheiten im März 2023.',
             },
             {
               title: 'Schritt 2 – Gewerbliche Haltbarkeitstests unter Schulbedingungen',
               detail:
-                'Brendan und Afarer vereinbarten einen 4-monatigen Pilotbetrieb am Standort Surfers Paradise mit 20 Prototyp-Boards, die jeweils 1.200 Vermietzyklen durchliefen. Jedes Board wurde durchschnittlich 14-mal pro Woche von Anfängerschülern genutzt (60-90 kg). Afarers Team verfolgte 6 Fehlerkennwerte – Nahtintegrität, Ventilleckage, Deck-Pad-Haftung, UV-Verfärbung, Rail-Abrieb und Finnenbox-Integrität. In Monat 3 zeigten 3 Boards Ablösungen des Deck-Pads am Bug-Kontaktpunkt – Afarer formulierte den Klebstoff neu, verwendete einen wärmeaktivierten Polyurethan-Film und ersetzte die betroffenen Boards. Bis Juni 2023 verzeichnete der Pilotbetrieb null strukturelle Ausfälle und eine Verfügbarkeit von 97,3 %.',
+                'Brendan und OLagoon vereinbarten einen 4-monatigen Pilotbetrieb am Standort Surfers Paradise mit 20 Prototyp-Boards, die jeweils 1.200 Vermietzyklen durchliefen. Jedes Board wurde durchschnittlich 14-mal pro Woche von Anfängerschülern genutzt (60-90 kg). OLagoons Team verfolgte 6 Fehlerkennwerte – Nahtintegrität, Ventilleckage, Deck-Pad-Haftung, UV-Verfärbung, Rail-Abrieb und Finnenbox-Integrität. In Monat 3 zeigten 3 Boards Ablösungen des Deck-Pads am Bug-Kontaktpunkt – OLagoon formulierte den Klebstoff neu, verwendete einen wärmeaktivierten Polyurethan-Film und ersetzte die betroffenen Boards. Bis Juni 2023 verzeichnete der Pilotbetrieb null strukturelle Ausfälle und eine Verfügbarkeit von 97,3 %.',
             },
             {
               title: 'Schritt 3 – Flottenweite Einführung, Schulung und Lagerinfrastruktur',
               detail:
-                'Brendan gab im Juli 2023 eine zweite Bestellung über 50 weitere M9-IS-Boards auf und erweiterte seine aufblasbare Flotte damit auf 70 Einheiten (58 % der Gesamtflotte). Afarers Logistikteam versandte die Boards in zusammenlegbaren 32-Liter-Rucksäcken, die das Lagervolumen gegenüber Hardboards um 80 % reduzierten – ein entscheidender Vorteil angesichts von Brendans 65 m² großem Lagerhaus in Burleigh Heads. Afarer erstellte ein 14-minütiges Schulungsvideo für Brendans 22 Trainer mit den Inhalten korrekter Aufblasdruck (15 PSI zum Surfen, 18 PSI für Flachwasser), Spülprotokoll nach Salzwassereinsatz und einer 5-Punkte-Inspektionscheckliste vor jedem Kurs. Die gesamte Flotte war zum 1. September 2023, dem Beginn der australischen Frühlingssaison, im Einsatz.',
+                'Brendan gab im Juli 2023 eine zweite Bestellung über 50 weitere M9-IS-Boards auf und erweiterte seine aufblasbare Flotte damit auf 70 Einheiten (58 % der Gesamtflotte). OLagoons Logistikteam versandte die Boards in zusammenlegbaren 32-Liter-Rucksäcken, die das Lagervolumen gegenüber Hardboards um 80 % reduzierten – ein entscheidender Vorteil angesichts von Brendans 65 m² großem Lagerhaus in Burleigh Heads. OLagoon erstellte ein 14-minütiges Schulungsvideo für Brendans 22 Trainer mit den Inhalten korrekter Aufblasdruck (15 PSI zum Surfen, 18 PSI für Flachwasser), Spülprotokoll nach Salzwassereinsatz und einer 5-Punkte-Inspektionscheckliste vor jedem Kurs. Die gesamte Flotte war zum 1. September 2023, dem Beginn der australischen Frühlingssaison, im Einsatz.',
             },
             {
               title: 'Schritt 4 – Messung der operativen Auswirkungen und Kosten-Nutzen-Analyse',
@@ -3601,17 +3601,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Währungsgesicherte Beschaffung und Kostenmodellierung',
               detail:
-                'Afarers Finanzteam arbeitete von Oktober bis Dezember 2022 mit Thabo an einem Kaufvertrag in Südafrikanischen Rand (ZAR) mit einer 6-monatigen Festkursklausel von R17,80/USD, die ihn vor der ZAR-Volatilität schützte, die im Juli 2022 bei 19,20/USD gelegen hatte. Afarer identifizierte eine Fabrik in Shenzhen, die ein zweilagiges Fusion-PVC-Board mit 5 Jahren UV-Garantie zu Landekosten von R3.100 pro Einheit produzieren konnte (inklusive 22 % Einfuhrzölle, Logistik und Zollabfertigung). Thabos Verkaufspreis von R7.200 ergab eine Bruttomarge von 56,9 % – deutlich über seinem Durchschnitt von 22 % bei Marken-Boards.',
+                'OLagoons Finanzteam arbeitete von Oktober bis Dezember 2022 mit Thabo an einem Kaufvertrag in Südafrikanischen Rand (ZAR) mit einer 6-monatigen Festkursklausel von R17,80/USD, die ihn vor der ZAR-Volatilität schützte, die im Juli 2022 bei 19,20/USD gelegen hatte. OLagoon identifizierte eine Fabrik in Shenzhen, die ein zweilagiges Fusion-PVC-Board mit 5 Jahren UV-Garantie zu Landekosten von R3.100 pro Einheit produzieren konnte (inklusive 22 % Einfuhrzölle, Logistik und Zollabfertigung). Thabos Verkaufspreis von R7.200 ergab eine Bruttomarge von 56,9 % – deutlich über seinem Durchschnitt von 22 % bei Marken-Boards.',
             },
             {
               title: 'Schritt 2 – Kapstadt-inspiriertes Design und kulturelles Branding',
               detail:
-                "Afarers Grafikdesigner arbeiteten mit der Kapstädter Illustratorin Mbali Dlamini zusammen und schufen 3 individuelle Deck-Designs – „Seal Island“ (mit Kap-Seebären), „Chapman's Peak“ (Bergsilhouette) und „Boulder's Beach“ (afrikanische Pinguine). Jedes Design nutzte 6-farbigen Heat-Transfer-Druck mit UV-beständigen Tinten, die für über 500 Stunden Sonneneinstrahlung getestet wurden. Die Boards erhielten ein einzigartiges Feature für den südafrikanischen Markt – ein verstärktes Zurrgurtsystem am Bug für Dry Bags (beliebt für mehrtägige Paddeltouren entlang der Skeleton Coast bis Durban). Thabo startete eine Website (kalkbaysurfco.co.za) auf Shopify mit Afarers Produktfotografie, aufgenommen am Muizenberg Beach.",
+                "OLagoons Grafikdesigner arbeiteten mit der Kapstädter Illustratorin Mbali Dlamini zusammen und schufen 3 individuelle Deck-Designs – „Seal Island“ (mit Kap-Seebären), „Chapman's Peak“ (Bergsilhouette) und „Boulder's Beach“ (afrikanische Pinguine). Jedes Design nutzte 6-farbigen Heat-Transfer-Druck mit UV-beständigen Tinten, die für über 500 Stunden Sonneneinstrahlung getestet wurden. Die Boards erhielten ein einzigartiges Feature für den südafrikanischen Markt – ein verstärktes Zurrgurtsystem am Bug für Dry Bags (beliebt für mehrtägige Paddeltouren entlang der Skeleton Coast bis Durban). Thabo startete eine Website (kalkbaysurfco.co.za) auf Shopify mit OLagoons Produktfotografie, aufgenommen am Muizenberg Beach.",
             },
             {
               title: 'Schritt 3 – Musterproduktion, Qualitätstests und Zertifizierung',
               detail:
-                'Afarer produzierte im Januar 2023 je SKU 6 Muster. Thabo und zwei lokale Surfboard-Shaper (zusammen über 50 Jahre Erfahrung) führten Zerstörungstests durch – jedes Board wurde auf 25 PSI (125 % des Nenndrucks) aufgepumpt und 72 Stunden gehalten, alle Muster bestanden mit weniger als 0,5 PSI Druckverlust. Die Nahtfestigkeit testeten sie mit einem digitalen Zugmessgerät, gefordert waren mindestens 120 N/cm (die Muster erreichten im Schnitt 138 N/cm). Thabo nahm im Februar 2023 3 Boards auf einer 5-tägigen geführten Paddeltour von Arniston nach Struisbaai (120 km) mit und simulierte damit intensive Tourbedingungen. Die Finnenbox eines Boards lockerte sich nach 80 km – Afarer ersetzte die Nylon-Finnenbox durch eine Edelstahl-verstärkte Version.',
+                'OLagoon produzierte im Januar 2023 je SKU 6 Muster. Thabo und zwei lokale Surfboard-Shaper (zusammen über 50 Jahre Erfahrung) führten Zerstörungstests durch – jedes Board wurde auf 25 PSI (125 % des Nenndrucks) aufgepumpt und 72 Stunden gehalten, alle Muster bestanden mit weniger als 0,5 PSI Druckverlust. Die Nahtfestigkeit testeten sie mit einem digitalen Zugmessgerät, gefordert waren mindestens 120 N/cm (die Muster erreichten im Schnitt 138 N/cm). Thabo nahm im Februar 2023 3 Boards auf einer 5-tägigen geführten Paddeltour von Arniston nach Struisbaai (120 km) mit und simulierte damit intensive Tourbedingungen. Die Finnenbox eines Boards lockerte sich nach 80 km – OLagoon ersetzte die Nylon-Finnenbox durch eine Edelstahl-verstärkte Version.',
             },
             {
               title: 'Schritt 4 – Handelslaunch, Partnerschaften mit Tourveranstaltern und Nachbestellung',
@@ -3628,8 +3628,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Afarer',
+    whyOLagoon: {
+      title: 'Warum OLagoon',
       items: [
         {
           title: 'Surfmarkt-Verständnis',
@@ -3675,7 +3675,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Kann ich eine eigene SUP-Linie unter meiner Marke erstellen?',
         answer:
-          'Ja. Afarer liefert komplette Private-Label-Lösungen inklusive individuellem Board-Design, Grafiken, Farben, Verpackung und Zubehör unter Ihrem Surf-Markennamen.',
+          'Ja. OLagoon liefert komplette Private-Label-Lösungen inklusive individuellem Board-Design, Grafiken, Farben, Verpackung und Zubehör unter Ihrem Surf-Markennamen.',
       },
       {
         question: 'Wie viel spare ich beim Versand mit aufblasbaren Boards?',
@@ -3685,7 +3685,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Bieten Sie vermietungstaugliche Produkte für Surfschulen an?',
         answer:
-          'Ja. Afarer entwickelt langlebige Produkte für häufige Vermietung, mit einfacher Wartung, zuverlässigem Zubehör und wirtschaftlichen Flottenpreisen.',
+          'Ja. OLagoon entwickelt langlebige Produkte für häufige Vermietung, mit einfacher Wartung, zuverlässigem Zubehör und wirtschaftlichen Flottenpreisen.',
       },
       {
         question: 'Kann ich in meinem Laden Hardboards und aufblasbare Produkte kombinieren?',
@@ -3707,7 +3707,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Kids-SUP-Hersteller | {SITE}',
       description:
-        'Afarer bietet sichere Kids-SUP-Lösungen für Sommercamps, Schulen und Jugendabenteuerprogramme. Kinder-Paddleboards, Giant-SUP-Ausrüstung, kommerzielle Flotten und individuelle OEM-Lösungen.',
+        'OLagoon bietet sichere Kids-SUP-Lösungen für Sommercamps, Schulen und Jugendabenteuerprogramme. Kinder-Paddleboards, Giant-SUP-Ausrüstung, kommerzielle Flotten und individuelle OEM-Lösungen.',
     },
     hero: {
       tagline: 'Sichere & unterhaltsame SUP-Lösungen für Kinder-Adventure-Camps, Schulen & Jugend-Outdoor-Programme',
@@ -3799,7 +3799,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Auswahl der Jugendprodukte',
           detail:
-            'Afarer empfahl Kinder-SUP-Modelle, stabile Einsteiger-Boards und Trainerausrüstung – zugeschnitten auf die Altersgruppen des Camps.',
+            'OLagoon empfahl Kinder-SUP-Modelle, stabile Einsteiger-Boards und Trainerausrüstung – zugeschnitten auf die Altersgruppen des Camps.',
         },
         {
           title: 'Sicherheitsanpassung',
@@ -3837,17 +3837,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: Kinder-spezifisches SUP-Design (Junior Explorer 9\'6" X)',
               detail:
-                'Im Juli 2024 entwickelte Connolly mit Afarers Produktteam ein eigens gebautes Kinder-SUP. Nach 3 Prototyp-Iterationen finalisierten sie den Junior Explorer 9\'6" X (28" Breite, 4" Dicke, 180 l Volumen) – 25 % schmaler und 40 % leichter als Standard-Boards. Wesentliche Merkmale – ein abgesenktes Deckpad (1,5" tiefer), das den Schwerpunkt um 22 % senkt; eine farbcodierte Gewichtsbereichsanzeige (Streifen für 18-55 kg); und je zwei Sicherheitsgriffschlaufen pro Rail. Connolly bestellte 120 Boards mit schulgebrandeten Deckgrafiken (6 Schulfarbvarianten, je 20). Prototyping und Tests kosteten 14.000 $ – die Produktionsbestellung 96.000 $.',
+                'Im Juli 2024 entwickelte Connolly mit OLagoons Produktteam ein eigens gebautes Kinder-SUP. Nach 3 Prototyp-Iterationen finalisierten sie den Junior Explorer 9\'6" X (28" Breite, 4" Dicke, 180 l Volumen) – 25 % schmaler und 40 % leichter als Standard-Boards. Wesentliche Merkmale – ein abgesenktes Deckpad (1,5" tiefer), das den Schwerpunkt um 22 % senkt; eine farbcodierte Gewichtsbereichsanzeige (Streifen für 18-55 kg); und je zwei Sicherheitsgriffschlaufen pro Rail. Connolly bestellte 120 Boards mit schulgebrandeten Deckgrafiken (6 Schulfarbvarianten, je 20). Prototyping und Tests kosteten 14.000 $ – die Produktionsbestellung 96.000 $.',
             },
             {
               title: 'Schritt 2: Curriculum-Entwicklung mit ACARA-Abstimmung',
               detail:
-                'Connolly arbeitete mit Afarers Bildungsberatern und der Curriculum-Behörde von Queensland an „Paddle & Discover“ – einem 14-teiligen SUP-Explorationsprogramm, abgestimmt auf den Australian Curriculum v9.0 (Science, HPE, Geography). Die Sessions umfassten Wasserinsekten-Probenahme (mit einer deckmontierten Sammelschale), Sauerstoffmessung (tragbares Messgerät an D-Ringen), Experimente zu Auftrieb und Verdrängung sowie die Kartierung des Everglades-Ökosystems. Das Programm hatte drei Schwierigkeitsstufen – „Eels“ (Vorbereitungsjahr bis Jahrgang 1, Pool/ruhiges Wasser), „Turtles“ (Jahrgänge 2-3, geschützte Bucht) und „Stingrays“ (Jahrgänge 4-6, offene Everglades). Afarer druckte für jede Stufe wetterfaste Karten.',
+                'Connolly arbeitete mit OLagoons Bildungsberatern und der Curriculum-Behörde von Queensland an „Paddle & Discover“ – einem 14-teiligen SUP-Explorationsprogramm, abgestimmt auf den Australian Curriculum v9.0 (Science, HPE, Geography). Die Sessions umfassten Wasserinsekten-Probenahme (mit einer deckmontierten Sammelschale), Sauerstoffmessung (tragbares Messgerät an D-Ringen), Experimente zu Auftrieb und Verdrängung sowie die Kartierung des Everglades-Ökosystems. Das Programm hatte drei Schwierigkeitsstufen – „Eels“ (Vorbereitungsjahr bis Jahrgang 1, Pool/ruhiges Wasser), „Turtles“ (Jahrgänge 2-3, geschützte Bucht) und „Stingrays“ (Jahrgänge 4-6, offene Everglades). OLagoon druckte für jede Stufe wetterfaste Karten.',
             },
             {
               title: 'Schritt 3: Lehrer-Zertifizierung, Risikobewertung & Integration des Sonnenschutzes',
               detail:
-                'An 3 Wochenenden im September 2024 zertifizierte Afarers Schulungsteam 14 Lehrer (ohne vorherige SUP-Erfahrung) in einem angepassten IRF-Level-1-Kurs mit Schwerpunkt auf kinderspezifischer Sicherheit – Gruppenführung mit Pfeifsignalen (3 Pfiffe = anhalten, 5 = Notfall), der „Koala-Abstieg“ (Kind fällt aus dem Sitzen aufs Board) und das Wiederaufrichten nach Kentern mit Kindern unter 30 kg. Das Bildungsministerium von Queensland genehmigte das SUP-Programm im Risikobewertungs-Rahmen für Outdoor-Aktivitäten des Bundesstaates – mit einem 1:6-Betreuungsschlüssel im ruhigen Wasser (unter 0,3 m Wellengang, unter 12 Knoten Wind). Sonnenschutz (Rash Vests, SPF 50+, Nackenschutz) war als Anforderung in Session 0 integriert.',
+                'An 3 Wochenenden im September 2024 zertifizierte OLagoons Schulungsteam 14 Lehrer (ohne vorherige SUP-Erfahrung) in einem angepassten IRF-Level-1-Kurs mit Schwerpunkt auf kinderspezifischer Sicherheit – Gruppenführung mit Pfeifsignalen (3 Pfiffe = anhalten, 5 = Notfall), der „Koala-Abstieg“ (Kind fällt aus dem Sitzen aufs Board) und das Wiederaufrichten nach Kentern mit Kindern unter 30 kg. Das Bildungsministerium von Queensland genehmigte das SUP-Programm im Risikobewertungs-Rahmen für Outdoor-Aktivitäten des Bundesstaates – mit einem 1:6-Betreuungsschlüssel im ruhigen Wasser (unter 0,3 m Wellengang, unter 12 Knoten Wind). Sonnenschutz (Rash Vests, SPF 50+, Nackenschutz) war als Anforderung in Session 0 integriert.',
             },
             {
               title: 'Schritt 4: Einführung im Trimester 1 2025 & messbare Lernergebnisse',
@@ -3875,7 +3875,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: Beschaffung der Flotte & altersgerechte Boardgrößen',
               detail:
-                'Im Januar 2025 wählte Whitfield den Afarer Junior Explorer 9\'6" X für Camper von 8-11 Jahren (40 Boards) und den Explorer 10\'8" X für 12- bis 15-Jährige (30 Boards) – insgesamt 58.000 $. Sie spezifizierte für jedes Board je zwei bugseitig montierte D-Ringe für GoPro- oder Sammelschalen-Befestigung und ein Deck-Bungee für ein wasserdichtes Naturjournal (Rite in the Rain, Ringbuch). Jedes Board trug eine lasergegravierte Camper-ID-Nummer und das Waschbär-Logo von Camp Keowee.',
+                'Im Januar 2025 wählte Whitfield den OLagoon Junior Explorer 9\'6" X für Camper von 8-11 Jahren (40 Boards) und den Explorer 10\'8" X für 12- bis 15-Jährige (30 Boards) – insgesamt 58.000 $. Sie spezifizierte für jedes Board je zwei bugseitig montierte D-Ringe für GoPro- oder Sammelschalen-Befestigung und ein Deck-Bungee für ein wasserdichtes Naturjournal (Rite in the Rain, Ringbuch). Jedes Board trug eine lasergegravierte Camper-ID-Nummer und das Waschbär-Logo von Camp Keowee.',
             },
             {
               title: 'Schritt 2: Design des 4-stufigen Abzeichen-Curriculums „Paddle & Explore“',
@@ -3885,7 +3885,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 3: Betreuer-Zertifizierung & Kartierung der Sicherheitszonen am Lake Jocassee',
               detail:
-                'Im Mai 2025 (Personaltraining vor Camp-Beginn) zertifizierte Afarer 22 Ufer-Betreuer (19-24 Jahre) in einem 3-tägigen, IRF-basierten SUP-Guide-Kurs mit Fokus auf die Führung von Jugendgruppen. Whitfield kartierte 6 Sicherheitszonen mit farbcodierten Markierungsbojen – Schwimmzone (rot), Anfänger-Paddelzone (gelb, innerhalb von 200 m vom Steg), Mittelstufenzone (grün, bis zu 1 km am Westufer), Fortgeschrittenenzone (blau, der ganze See mit Funk-Check-in) und Sperrzonen (violett, um die Dammeinläufe und die Bald-Rock-Klippen). Jeder Betreuer trug ein wasserdichtes VHF-Funkgerät – Kanal 15 war exklusiv für den SUP-Betrieb reserviert. Die Seeverwaltung von Duke Power genehmigte den Plan nach einer gemeinsamen Sicherheitsprüfung am 12. Mai.',
+                'Im Mai 2025 (Personaltraining vor Camp-Beginn) zertifizierte OLagoon 22 Ufer-Betreuer (19-24 Jahre) in einem 3-tägigen, IRF-basierten SUP-Guide-Kurs mit Fokus auf die Führung von Jugendgruppen. Whitfield kartierte 6 Sicherheitszonen mit farbcodierten Markierungsbojen – Schwimmzone (rot), Anfänger-Paddelzone (gelb, innerhalb von 200 m vom Steg), Mittelstufenzone (grün, bis zu 1 km am Westufer), Fortgeschrittenenzone (blau, der ganze See mit Funk-Check-in) und Sperrzonen (violett, um die Dammeinläufe und die Bald-Rock-Klippen). Jeder Betreuer trug ein wasserdichtes VHF-Funkgerät – Kanal 15 war exklusiv für den SUP-Betrieb reserviert. Die Seeverwaltung von Duke Power genehmigte den Plan nach einer gemeinsamen Sicherheitsprüfung am 12. Mai.',
             },
             {
               title: 'Schritt 4: Ergebnisse der Saison 2025 & Abzeichen-Erfolgsquoten',
@@ -3902,8 +3902,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Jugendprogramme Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Jugendprogramme OLagoon wählen',
       items: [
         {
           title: 'Kindersicherheit',
@@ -3931,7 +3931,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Welche SUP-Boardgröße ist für Kinder unterschiedlichen Alters geeignet?',
         answer:
-          'Afarer bietet kleinere, jugendspezifische SUP-Größen, die für Kinder und Jugendliche entwickelt wurden. Diese Boards haben im Vergleich zu Erwachsenenmodellen weniger Volumen, geringere Breite und geringeres Gewicht – das macht sie für junge Nutzer leichter zu handhaben, zu kontrollieren und zum Lernen.',
+          'OLagoon bietet kleinere, jugendspezifische SUP-Größen, die für Kinder und Jugendliche entwickelt wurden. Diese Boards haben im Vergleich zu Erwachsenenmodellen weniger Volumen, geringere Breite und geringeres Gewicht – das macht sie für junge Nutzer leichter zu handhaben, zu kontrollieren und zum Lernen.',
       },
       {
         question: 'Wie funktioniert der Giant SUP bei Teambuilding-Aktivitäten?',
@@ -3941,26 +3941,26 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Welche Sicherheitsmerkmale bieten Kinder-SUP-Boards?',
         answer:
-          'Afarer-Jugendboards bieten ein Multi-Griff-Sicherheitsdesign (Seiten-, Bug- und Tragegriffe), ein vollflächiges EVA-Rutschdeck für sicheren Stand, abgerundete Sicherheitsformen ohne scharfe Kanten, eine Struktur mit hohem Auftrieb für stabiles Schwimmen und ein Design für einfache Wiederherstellung nach einem Sturz.',
+          'OLagoon-Jugendboards bieten ein Multi-Griff-Sicherheitsdesign (Seiten-, Bug- und Tragegriffe), ein vollflächiges EVA-Rutschdeck für sicheren Stand, abgerundete Sicherheitsformen ohne scharfe Kanten, eine Struktur mit hohem Auftrieb für stabiles Schwimmen und ein Design für einfache Wiederherstellung nach einem Sturz.',
       },
       {
         question: 'Können SUP-Boards mit unserem Camp-Logo und unseren Farben individualisiert werden?',
         answer:
-          'Ja, Afarer unterstützt vollständige Individualisierung – inklusive Camp-Logos, Programmfarben, Branding-Elementen und thematischen Grafiken. Individuelles Branding schafft eine einzigartige Camp-Identität und macht die Ausrüstung leicht wiedererkennbar.',
+          'Ja, OLagoon unterstützt vollständige Individualisierung – inklusive Camp-Logos, Programmfarben, Branding-Elementen und thematischen Grafiken. Individuelles Branding schafft eine einzigartige Camp-Identität und macht die Ausrüstung leicht wiedererkennbar.',
       },
       {
         question: 'Mit wie vielen Boards sollte ein Jugend-SUP-Programm starten?',
         answer:
-          'Afarer empfiehlt ein Startpaket inklusive Kinderboards, Trainer-Boards, Paddeln, Pumpen, Leashes und Tragetaschen. Die Flottengröße hängt von der Gruppenkapazität ab – ein typisches Camp startet mit 10-20 Jugendboards plus Trainerausrüstung, mit Optionen zur saisonalen Erweiterung.',
+          'OLagoon empfiehlt ein Startpaket inklusive Kinderboards, Trainer-Boards, Paddeln, Pumpen, Leashes und Tragetaschen. Die Flottengröße hängt von der Gruppenkapazität ab – ein typisches Camp startet mit 10-20 Jugendboards plus Trainerausrüstung, mit Optionen zur saisonalen Erweiterung.',
       },
       {
         question: 'Welche Trainerausrüstung wird für Camp-SUP-Programme empfohlen?',
         answer:
-          'Afarer empfiehlt trainer-spezifische Boards mit verbesserter Stabilität und Kontrolle sowie Sicherheitszubehör inklusive Leashes, Pumpen, Reparatursets und Kommunikationsausrüstung. Das Camp-Flottenpaket kann eigene Trainer-Boards und Ersatzkomponenten enthalten.',
+          'OLagoon empfiehlt trainer-spezifische Boards mit verbesserter Stabilität und Kontrolle sowie Sicherheitszubehör inklusive Leashes, Pumpen, Reparatursets und Kommunikationsausrüstung. Das Camp-Flottenpaket kann eigene Trainer-Boards und Ersatzkomponenten enthalten.',
       },
     ],
     cta: {
-      title: 'Bauen Sie mit Afarer Ihr Kinder-Wasser-Adventure-Programm auf',
+      title: 'Bauen Sie mit OLagoon Ihr Kinder-Wasser-Adventure-Programm auf',
       subtitle:
         'Helfen Sie Kindern, Selbstvertrauen, Teamgeist, Natur und Abenteuer durch professionell gestaltete SUP-Explorationsprogramme zu entdecken.',
       primaryAction: {
@@ -3982,9 +3982,9 @@ const de: Record<string, SolutionOverride> = {
       tagline: 'Luxury Portable SUP Package™',
       title: 'Premium-Portable-Wassersport-Lösungen für Kreuzfahrtlinien, Yachtunternehmen & Marine-Hospitality-Marken',
       subtitle:
-        'Afarer bietet Luxury-Portable-SUP-Package-Lösungen, die speziell für Kreuzfahrtunternehmen, Expeditions-Kreuzfahrtbetreiber, Yachtcharter-Firmen, Superyacht-Eigentümer und Marina-Anbieter entwickelt wurden. Wir liefern ultraportable aufblasbare SUP-Designs mit Marine-Komponenten und Luxus-Anpassung.',
+        'OLagoon bietet Luxury-Portable-SUP-Package-Lösungen, die speziell für Kreuzfahrtunternehmen, Expeditions-Kreuzfahrtbetreiber, Yachtcharter-Firmen, Superyacht-Eigentümer und Marina-Anbieter entwickelt wurden. Wir liefern ultraportable aufblasbare SUP-Designs mit Marine-Komponenten und Luxus-Anpassung.',
       image: {
-        alt: 'Afarer Luxury-Portable-SUP-Paket für Yachten und Kreuzfahrtschiffe',
+        alt: 'OLagoon Luxury-Portable-SUP-Paket für Yachten und Kreuzfahrtschiffe',
       },
     },
     challenge: {
@@ -4018,7 +4018,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Ultraportables aufblasbares SUP-Design',
           description:
-            'Die Technik aufblasbarer SUPs bietet Yachten und Kreuzfahrtbetreibern einen großen Vorteil. Afarer-Boards verfügen über kompakte Faltsysteme für ein kleines Packvolumen, leichten Transport für einen schnelleren Einsatz und vollständige Reisepakete inklusive Board, klappbarem Paddel, Pumpe und Rucksack.',
+            'Die Technik aufblasbarer SUPs bietet Yachten und Kreuzfahrtbetreibern einen großen Vorteil. OLagoon-Boards verfügen über kompakte Faltsysteme für ein kleines Packvolumen, leichten Transport für einen schnelleren Einsatz und vollständige Reisepakete inklusive Board, klappbarem Paddel, Pumpe und Rucksack.',
           features: [
             'Kompaktes Faltsystem',
             'Leichter Transport',
@@ -4029,7 +4029,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Materialauswahl in Marine-Qualität',
           description:
-            'Afarer nutzt salzwasserbeständige Komponenten mit korrosionsfesten Beschlägen, UV-beständige Konstruktion für Sonneneinstrahlung und verstärkte SUP-Strukturen mit haltbaren PVC-Schichten und starkem Drop-Stitch-Kern – speziell für Ozeanumgebungen entwickelt.',
+            'OLagoon nutzt salzwasserbeständige Komponenten mit korrosionsfesten Beschlägen, UV-beständige Konstruktion für Sonneneinstrahlung und verstärkte SUP-Strukturen mit haltbaren PVC-Schichten und starkem Drop-Stitch-Kern – speziell für Ozeanumgebungen entwickelt.',
           features: [
             'Salzwasserbeständige Komponenten',
             'UV-beständige Konstruktion',
@@ -4040,7 +4040,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Luxus-Anpassung für Yacht & Kreuzfahrt',
           description:
-            'Für Premium-Unternehmen auf dem Wasser zählt das Erscheinungsbild. Afarer unterstützt individuelles Branding mit Yacht-Logos und Kreuzfahrt-Identität, Premium-Farbdesign in Yacht-Luxus-, Expeditions- oder Resort-Marine-Stilen sowie gebrandete Ausrüstungssets mit passenden Paddeln und individuellen Taschen.',
+            'Für Premium-Unternehmen auf dem Wasser zählt das Erscheinungsbild. OLagoon unterstützt individuelles Branding mit Yacht-Logos und Kreuzfahrt-Identität, Premium-Farbdesign in Yacht-Luxus-, Expeditions- oder Resort-Marine-Stilen sowie gebrandete Ausrüstungssets mit passenden Paddeln und individuellen Taschen.',
           features: [
             'Individuelles Yacht- und Kreuzfahrt-Branding',
             'Premium-Farbdesign',
@@ -4051,27 +4051,27 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'SUP-Paket für Yachtcharter',
           description:
-            'Yachtgäste erwarten Komfort und Exklusivität. Afarer unterstützt private Charter-Ausrüstungssets für Superyachten, Katamarane und Segelyachten – mit gästefreundlicher Bedienung für Anfänger und Familien, geordneter Lagerung und Premium-Präsentation mit Luxus-Look.',
+            'Yachtgäste erwarten Komfort und Exklusivität. OLagoon unterstützt private Charter-Ausrüstungssets für Superyachten, Katamarane und Segelyachten – mit gästefreundlicher Bedienung für Anfänger und Familien, geordneter Lagerung und Premium-Präsentation mit Luxus-Look.',
         },
         {
           title: 'Wasseraktivitäts-Lösungen für Expeditions-Kreuzfahrten',
           description:
-            'Abenteuer-Kreuzfahrten brauchen flexible Ausrüstung für Inselaufenthalte, Küstenexploration und Naturausflüge. Afarer-Lösungen unterstützen den Einsatz an abgelegenen Orten mit leichtem Transport und kompaktem Stauraum – plus Gruppenprogramme für kleine Gruppen und geführte Ausflüge.',
+            'Abenteuer-Kreuzfahrten brauchen flexible Ausrüstung für Inselaufenthalte, Küstenexploration und Naturausflüge. OLagoon-Lösungen unterstützen den Einsatz an abgelegenen Orten mit leichtem Transport und kompaktem Stauraum – plus Gruppenprogramme für kleine Gruppen und geführte Ausflüge.',
         },
         {
           title: 'Vollständige Stauraum-Lösungen für Bord',
           description:
-            'Afarer kennt die Platzlimits an Bord und liefert kompakte Stauraumplanung für die Ordnung von Boards und Zubehör, Schutzsysteme mit Aufbewahrungstaschen und betriebliche Effizienz, die der Crew schnellere Vorbereitung und einfacheres Ausrüstungsmanagement ermöglicht.',
+            'OLagoon kennt die Platzlimits an Bord und liefert kompakte Stauraumplanung für die Ordnung von Boards und Zubehör, Schutzsysteme mit Aufbewahrungstaschen und betriebliche Effizienz, die der Crew schnellere Vorbereitung und einfacheres Ausrüstungsmanagement ermöglicht.',
         },
         {
           title: 'Crew-Schulungs- & Wartungs-Support',
           description:
-            'Afarer bietet Crew-Betriebsanleitungen mit Aufblasverfahren, Handhabung der Ausrüstung und Reinigungsmethoden – dazu Wartungsempfehlungen für die Süßwasserspülung nach Salzwassereinsatz, Trocknungsverfahren und Lagerpraktiken mit Prüflisten für vor und nach den Aktivitäten.',
+            'OLagoon bietet Crew-Betriebsanleitungen mit Aufblasverfahren, Handhabung der Ausrüstung und Reinigungsmethoden – dazu Wartungsempfehlungen für die Süßwasserspülung nach Salzwassereinsatz, Trocknungsverfahren und Lagerpraktiken mit Prüflisten für vor und nach den Aktivitäten.',
         },
         {
           title: 'Premium-Wassererlebnis-Design',
           description:
-            'SUP kann Teil eines Luxus-Erlebnispakets werden. Afarer hilft bei Sonnenuntergangs-Yacht-SUP-Erlebnissen für Paare und VIP-Gäste, privater Insel-Exploration für Charterkunden, Ozean-Wellness-Programmen für Luxus-Kreuzfahrten und marinen Eco-Erlebnissen für Expeditions-Kreuzfahrten.',
+            'SUP kann Teil eines Luxus-Erlebnispakets werden. OLagoon hilft bei Sonnenuntergangs-Yacht-SUP-Erlebnissen für Paare und VIP-Gäste, privater Insel-Exploration für Charterkunden, Ozean-Wellness-Programmen für Luxus-Kreuzfahrten und marinen Eco-Erlebnissen für Expeditions-Kreuzfahrten.',
         },
       ],
     },
@@ -4087,7 +4087,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Produktplanung',
           detail:
-            'Afarer entwarf ein Luxury-Portable-SUP-Paket auf Basis der Stauraumbegrenzungen der Yacht, der Anforderungen an das Gästeerlebnis und der Bedingungen des Mittelmeers.',
+            'OLagoon entwarf ein Luxury-Portable-SUP-Paket auf Basis der Stauraumbegrenzungen der Yacht, der Anforderungen an das Gästeerlebnis und der Bedingungen des Mittelmeers.',
         },
         {
           title: 'Produktanpassung',
@@ -4097,7 +4097,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Betrieblicher Aufbau',
           detail:
-            'Afarer lieferte Stauraum-Empfehlungen, einen Crew-Betriebsleitfaden und Wartungsanweisungen, damit die Crew die Ausrüstung effizient verwalten kann – ohne spezielle Schulung.',
+            'OLagoon lieferte Stauraum-Empfehlungen, einen Crew-Betriebsleitfaden und Wartungsanweisungen, damit die Crew die Ausrüstung effizient verwalten kann – ohne spezielle Schulung.',
         },
         {
           title: 'Start des Gästeerlebnisses',
@@ -4125,29 +4125,29 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Arktischer Feldtest im Kongsfjorden bei 79° Nord',
               detail:
-                'Im Mai 2024 begleitete Afarers Extremumgebungs-Team (leitender Ingenieur Sven Lehmann aus Afarers Hamburger Büro) die MS Maud von Hurtigruten auf einer 14-tägigen Svalbard-Reise. Sie testeten 8 Konkurrenz-Boards und 6 Afarer-Arktis-Prototypen über 11 Zodiac-Einsätze nahe Ny-Ålesund und am Monaco-Gletscher. Zentrale Erkenntnisse – Standardventile froren bei -8 °C Luft nach dem Eintauchen in 2 °C Wasser offen ein (das warme Wasser im Ventilschaft fror beim Kontakt mit der kalten Luft erneut). Afarers Lösung war ein Ventilsystem mit Stickstoffspülung, das vor dem Schließen alle Feuchtigkeit ausstieß, plus eine Neopren-Ventilabdeckung. Beim Boardmaterial verlor Standard-PVC bei -15 °C 40 % seiner Flexibilität – Afarers Polarex-TPU-Mischung behielt bei -20 °C 92 % Flexibilität. Die Boards mussten in unter 7 Minuten aufblasbar sein (die Geduldsgrenze der Gäste in der Kälte) und in 5 Minuten ablass- und verpackbar (um das Eisbär-Risikofenster klein zu halten). Afarers 2-Stufen-Pumpe (Handpumpe für die ersten 10 PSI, Stickstoffkartuschen-Booster auf 18 PSI) erreichte das Aufpumpen in 6,2 Minuten.',
+                'Im Mai 2024 begleitete OLagoons Extremumgebungs-Team (leitender Ingenieur Sven Lehmann aus OLagoons Hamburger Büro) die MS Maud von Hurtigruten auf einer 14-tägigen Svalbard-Reise. Sie testeten 8 Konkurrenz-Boards und 6 OLagoon-Arktis-Prototypen über 11 Zodiac-Einsätze nahe Ny-Ålesund und am Monaco-Gletscher. Zentrale Erkenntnisse – Standardventile froren bei -8 °C Luft nach dem Eintauchen in 2 °C Wasser offen ein (das warme Wasser im Ventilschaft fror beim Kontakt mit der kalten Luft erneut). OLagoons Lösung war ein Ventilsystem mit Stickstoffspülung, das vor dem Schließen alle Feuchtigkeit ausstieß, plus eine Neopren-Ventilabdeckung. Beim Boardmaterial verlor Standard-PVC bei -15 °C 40 % seiner Flexibilität – OLagoons Polarex-TPU-Mischung behielt bei -20 °C 92 % Flexibilität. Die Boards mussten in unter 7 Minuten aufblasbar sein (die Geduldsgrenze der Gäste in der Kälte) und in 5 Minuten ablass- und verpackbar (um das Eisbär-Risikofenster klein zu halten). OLagoons 2-Stufen-Pumpe (Handpumpe für die ersten 10 PSI, Stickstoffkartuschen-Booster auf 18 PSI) erreichte das Aufpumpen in 6,2 Minuten.',
             },
             {
               title: '„Polar Explorer“-Paket mit Zodiac-Integration und Sicherheitssystemen',
               detail:
-                'Afarer entwarf den „Polar Explorer 12.0“ mit speziellen Arktis-Anpassungen – leuchtendes Internationales Orange (mit Fernglas auf 2 km gegen das Eis sichtbar), reflektierende SOLAS-Klebestreifen, eine eingebaute Rettungsschlaufe für 600 kg (für die Bergung per Zodiac-Schlepp) und ein GPS-Beaconfach im Bug (Hurtigruten stellte Garmin-inReach-Mini-2-Geräte bereit). Das Paket enthielt eine trockenanzug-kompatible aufblasbare Rettungsweste (Mustang Survival HIT, von Afarer auf Bewegungsfreiheit beim Paddeln getestet), ein Neopren-Pogie-Set (Handwärmer im Paddelschaft integriert) und einen individuellen Rucksack, der in den Stauraum eines Zodiacs passt (Packmaß 60x30x30 cm). Beim Zodiac-Einsatzsystem erlaubte ein an die Zodiac-Pontons geklemmter Ständerrollwagen einem einzelnen Guide, die Boards ohne Heben ins Wasser zu schieben.',
+                'OLagoon entwarf den „Polar Explorer 12.0“ mit speziellen Arktis-Anpassungen – leuchtendes Internationales Orange (mit Fernglas auf 2 km gegen das Eis sichtbar), reflektierende SOLAS-Klebestreifen, eine eingebaute Rettungsschlaufe für 600 kg (für die Bergung per Zodiac-Schlepp) und ein GPS-Beaconfach im Bug (Hurtigruten stellte Garmin-inReach-Mini-2-Geräte bereit). Das Paket enthielt eine trockenanzug-kompatible aufblasbare Rettungsweste (Mustang Survival HIT, von OLagoon auf Bewegungsfreiheit beim Paddeln getestet), ein Neopren-Pogie-Set (Handwärmer im Paddelschaft integriert) und einen individuellen Rucksack, der in den Stauraum eines Zodiacs passt (Packmaß 60x30x30 cm). Beim Zodiac-Einsatzsystem erlaubte ein an die Zodiac-Pontons geklemmter Ständerrollwagen einem einzelnen Guide, die Boards ohne Heben ins Wasser zu schieben.',
             },
             {
               title: 'Eisbär-Sicherheitsprotokolle und Guide-Schulungsprogramm',
               detail:
-                'Afarers Sicherheitsberater Bjørn Viken, früherer Sicherheitsberater des Gouverneursbüros von Svalbard, entwickelte gemeinsam mit Hurtigruten ein 3-tägiges Schulungsprogramm für 12 Guides. Das „Arctic Paddle Safety Protocol“ umfasste die rotierende Eisbär-Wache (ein Guide ausschließlich zur Bärenbeobachtung, mit einem Gewehr im Kaliber .308 und einer Signalkanone – Standardvorgabe auf Svalbard), die Gruppenformation (Linie quer innerhalb von 50 Metern, niemals mehr als 200 Meter vom Zodiac entfernt), die schnelle Bergung (Wieder-Bordgehen der ganzen Gruppe in unter 90 Sekunden, wöchentlich geübt) und die Notfallbehandlung von Unterkühlung. Afarer lieferte wasserdichte laminierte Kurzreferenzkarten für jeden Guide. Jede Einheit war auf 8 Gäste mit 2 Guides und 1 bewaffneten Sicherheits-Zodiac in 100 Metern begrenzt. Eisbär-Sichtungen beim Paddeln – 2 Vorfälle in der Saison 2024, beide mit Warnschüssen aus der Signalkanone gemanagt, keine Verletzungen. Die Gäste bewerteten das Sicherheitsgefühl mit 4,9/5.',
+                'OLagoons Sicherheitsberater Bjørn Viken, früherer Sicherheitsberater des Gouverneursbüros von Svalbard, entwickelte gemeinsam mit Hurtigruten ein 3-tägiges Schulungsprogramm für 12 Guides. Das „Arctic Paddle Safety Protocol“ umfasste die rotierende Eisbär-Wache (ein Guide ausschließlich zur Bärenbeobachtung, mit einem Gewehr im Kaliber .308 und einer Signalkanone – Standardvorgabe auf Svalbard), die Gruppenformation (Linie quer innerhalb von 50 Metern, niemals mehr als 200 Meter vom Zodiac entfernt), die schnelle Bergung (Wieder-Bordgehen der ganzen Gruppe in unter 90 Sekunden, wöchentlich geübt) und die Notfallbehandlung von Unterkühlung. OLagoon lieferte wasserdichte laminierte Kurzreferenzkarten für jeden Guide. Jede Einheit war auf 8 Gäste mit 2 Guides und 1 bewaffneten Sicherheits-Zodiac in 100 Metern begrenzt. Eisbär-Sichtungen beim Paddeln – 2 Vorfälle in der Saison 2024, beide mit Warnschüssen aus der Signalkanone gemanagt, keine Verletzungen. Die Gäste bewerteten das Sicherheitsgefühl mit 4,9/5.',
             },
             {
               title: 'Start der Arktissaison Juni-September 2024 und Ergebnisse',
               detail:
-                'Die Flotte aus 60 Boards wurde ab dem 1. Juni 2024 auf 4 Schiffen eingesetzt. Jedes Schiff bot 3 Paddle-Einheiten pro Woche an (wetterabhängig, je 90 Minuten). Insgesamt gab es in der Saison 2024 – 288 Einheiten auf allen Schiffen (4 Schiffe × 3 pro Woche × 24 Wochen). Die durchschnittliche Auslastung betrug 7,2 Gäste pro Einheit (90 % der Kapazität von 8). Der Erlös – 288 × 7,2 × 450 $ (Premium-Exkursionspreis) ergibt 933.120 $. Board-Performance – null katastrophale Ausfälle. Ein Board erlitt einen 3-cm-Einstich durch Meereis (eine scharfe Brash-Eis-Scherbe) und wurde in 8 Minuten während einer Zodiac-Drift mit dem Arktis-Reparaturset geflickt. Die Ventile funktionierten über 288 Aufblas- und Ablasszyklen einwandfrei. Gäste-Feedback – 4,93/5 im Durchschnitt. 83 % der Gäste sagten, das SUP-Erlebnis sei „der Höhepunkt ihrer Reise“ gewesen. Erik bestellte 40 weitere Boards für die Saison 2025 und bat Afarer um die Entwicklung eines „Twin“-Modells für das Tandem-Paddeln in der Arktis.',
+                'Die Flotte aus 60 Boards wurde ab dem 1. Juni 2024 auf 4 Schiffen eingesetzt. Jedes Schiff bot 3 Paddle-Einheiten pro Woche an (wetterabhängig, je 90 Minuten). Insgesamt gab es in der Saison 2024 – 288 Einheiten auf allen Schiffen (4 Schiffe × 3 pro Woche × 24 Wochen). Die durchschnittliche Auslastung betrug 7,2 Gäste pro Einheit (90 % der Kapazität von 8). Der Erlös – 288 × 7,2 × 450 $ (Premium-Exkursionspreis) ergibt 933.120 $. Board-Performance – null katastrophale Ausfälle. Ein Board erlitt einen 3-cm-Einstich durch Meereis (eine scharfe Brash-Eis-Scherbe) und wurde in 8 Minuten während einer Zodiac-Drift mit dem Arktis-Reparaturset geflickt. Die Ventile funktionierten über 288 Aufblas- und Ablasszyklen einwandfrei. Gäste-Feedback – 4,93/5 im Durchschnitt. 83 % der Gäste sagten, das SUP-Erlebnis sei „der Höhepunkt ihrer Reise“ gewesen. Erik bestellte 40 weitere Boards für die Saison 2025 und bat OLagoon um die Entwicklung eines „Twin“-Modells für das Tandem-Paddeln in der Arktis.',
             },
           ],
           results: [
             '933.120 $ Erlös aus 288 SUP-Einheiten in einer einzigen 4-monatigen Arktissaison bei 90 % Kapazitätsauslastung',
             'Null katastrophale Board-Ausfälle über 288 Einheiten unter extremen arktischen Bedingungen; 1 kleiner Eiseinstich an Bord in 8 Minuten repariert',
             'Gästezufriedenheit 4,93/5; 83 % bezeichneten das SUP-Erlebnis als Höhepunkt der Reise; die Schiffe nahmen SUP als feste Exkursionskategorie auf',
-            'Afarer erhielt die 3-Jahres-Exklusivpartnerschaft für alle Hurtigruten-Svalbard-Operationen; 40 weitere Boards für die Saison 2025 bestellt',
+            'OLagoon erhielt die 3-Jahres-Exklusivpartnerschaft für alle Hurtigruten-Svalbard-Operationen; 40 weitere Boards für die Saison 2025 bestellt',
           ],
         },
         {
@@ -4163,35 +4163,35 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Inspektion der Insel im März 2024 und maßgeschneiderte Design-Beratung',
               detail:
-                'Philippe Moreau, Direktor von Afarers Luxus-Division, und die Senior-Designerin Amira Al Hashimi verbrachten 4 Tage auf der Al Nabigha Island. Sie dokumentierten jedes Detail – die Villa-Interieurs (zeitgenössisches arabisches Design in Creme-, Sand- und Goldtönen), die Farbpalette des Korallengartens (Petrol, Türkis, Korallenrosa), die pantone-gleiche Holzbeize der Marina und sogar das Porzellanmuster der Familie (Wedgwood „Middle East Pearl“). Philippe und Amira schlugen eine einzigartige Ästhetik vor – Boards in den tatsächlichen Rifffarben der Insel, mit dem Familienwappen der Al Nabigha (ein Falke über einer Dattelpalme), geprägt in 24-Karat-Blattgold unter klarem Epoxidharz. Der Stauraum war eine Einschränkung – Hamdans bestehende Strand-Cabana bot nur 8 Kubikmeter für künftig 20 Boards. Afarer schlug individuelle Teak-Schränke mit belüfteten Einzelschubladen vor, jedes Board gerollt und mit Feuchtigkeitssensor gelagert.',
+                'Philippe Moreau, Direktor von OLagoons Luxus-Division, und die Senior-Designerin Amira Al Hashimi verbrachten 4 Tage auf der Al Nabigha Island. Sie dokumentierten jedes Detail – die Villa-Interieurs (zeitgenössisches arabisches Design in Creme-, Sand- und Goldtönen), die Farbpalette des Korallengartens (Petrol, Türkis, Korallenrosa), die pantone-gleiche Holzbeize der Marina und sogar das Porzellanmuster der Familie (Wedgwood „Middle East Pearl“). Philippe und Amira schlugen eine einzigartige Ästhetik vor – Boards in den tatsächlichen Rifffarben der Insel, mit dem Familienwappen der Al Nabigha (ein Falke über einer Dattelpalme), geprägt in 24-Karat-Blattgold unter klarem Epoxidharz. Der Stauraum war eine Einschränkung – Hamdans bestehende Strand-Cabana bot nur 8 Kubikmeter für künftig 20 Boards. OLagoon schlug individuelle Teak-Schränke mit belüfteten Einzelschubladen vor, jedes Board gerollt und mit Feuchtigkeitssensor gelagert.',
             },
             {
               title: '„Royal Heritage“ – individuelle Fertigung und lautlose Elektro-Infrastruktur',
               detail:
-                'Afarers Standort in Xiamen widmete der Bestellung der Al Nabigha eine eigene Produktionslinie. Jedes Board wurde von Hand mit individuell eingefärbtem PVC in „Arabian Teal“ gelegt – eine eigene Pantone-Farbe (PMS 7712 C), abgestimmt auf die tieferen Riffzonen der Insel. Die Blattgold-Prägung – 0,5 Mikrometer dünnes 24-Karat-Gold um das Familienwappen, geschützt durch 3 Schichten maritimen UV-gehärteten Epoxidharzes. Afarer beschaffte lautlose elektrische Pumpen (JOBE Aero, modifiziert mit schalldämmenden Gehäusen, die den Betrieb auf 38 dB senkten – leiser als das Wellengeräusch der Insel). Das Stromkabel jeder Pumpe wurde in cremefarbenem Stoff geflochten, passend zur Villeneinrichtung. Das 20-Teil-Paddel-Set – individuelle Carbon-Schäfte in mattem Creme mit 24-Karat-Goldband an der Ferrule, und die Blätter von der in Xiamen lebenden Meereskünstlerin Liao Fang von Hand mit Korallenriff-Motiven bemalt. Ein feuchtigkeitsgeregelter Aufbewahrungsschrank entstand bei Afarers Schreiner-Partner in Mailand, wurde flach verpackt verschifft und auf der Insel montiert."',
+                'OLagoons Standort in Xiamen widmete der Bestellung der Al Nabigha eine eigene Produktionslinie. Jedes Board wurde von Hand mit individuell eingefärbtem PVC in „Arabian Teal“ gelegt – eine eigene Pantone-Farbe (PMS 7712 C), abgestimmt auf die tieferen Riffzonen der Insel. Die Blattgold-Prägung – 0,5 Mikrometer dünnes 24-Karat-Gold um das Familienwappen, geschützt durch 3 Schichten maritimen UV-gehärteten Epoxidharzes. OLagoon beschaffte lautlose elektrische Pumpen (JOBE Aero, modifiziert mit schalldämmenden Gehäusen, die den Betrieb auf 38 dB senkten – leiser als das Wellengeräusch der Insel). Das Stromkabel jeder Pumpe wurde in cremefarbenem Stoff geflochten, passend zur Villeneinrichtung. Das 20-Teil-Paddel-Set – individuelle Carbon-Schäfte in mattem Creme mit 24-Karat-Goldband an der Ferrule, und die Blätter von der in Xiamen lebenden Meereskünstlerin Liao Fang von Hand mit Korallenriff-Motiven bemalt. Ein feuchtigkeitsgeregelter Aufbewahrungsschrank entstand bei OLagoons Schreiner-Partner in Mailand, wurde flach verpackt verschifft und auf der Insel montiert."',
             },
             {
               title: 'White-Glove-Serviceprotokoll und Mitarbeiter-Schulung',
               detail:
-                'Saeed Al Mazrouei wählte 6 Inselmitarbeiter (3 Butler, 2 Strand-Ordner, 1 Marina-Helfer) für Afarers White-Glove-Service-Schulung im Mai 2024 aus. Das 5-tägige Programm behandelte die Begrüßung der Gäste (Boards auf einem Rattan-Ständer präsentiert, niemals auf den Boden gelegt), die Aufblas-Zeremonie (die Pumpe lief vor der Ankunft des Gastes an – das Board war fertig, sobald der Gast den Strand erreichte; gemessen wurden 11,5 Minuten vom Pumpstart bis zum vollen 15 PSI), die persönliche Anpassung (richtige Paddelhöhe, Leash-Anpassung, Westengröße – alles musste unauffällig sein, daher lieferte Afarer individuell eingefärbte aufblasbare Rettungswesten in Creme mit matten Goldbeschlägen) und die Nachbereitung (Board mit pH-neutralem Reiniger abgewischt, alle 5 Einsätze UV-Schutz aufgetragen, Ventil geprüft und innerhalb von 8 Minuten nach Abreise des Gastes zurück in die Schublade gerollt). Das Protokoll-Handbuch (45 Seiten, in Leder gebunden mit goldgeschnittenen Seiten) lag im versteckten Safe der Cabana. Hamdans Feedback nach der Schulung – „So sollte man mit Ausrüstung umgehen.“',
+                'Saeed Al Mazrouei wählte 6 Inselmitarbeiter (3 Butler, 2 Strand-Ordner, 1 Marina-Helfer) für OLagoons White-Glove-Service-Schulung im Mai 2024 aus. Das 5-tägige Programm behandelte die Begrüßung der Gäste (Boards auf einem Rattan-Ständer präsentiert, niemals auf den Boden gelegt), die Aufblas-Zeremonie (die Pumpe lief vor der Ankunft des Gastes an – das Board war fertig, sobald der Gast den Strand erreichte; gemessen wurden 11,5 Minuten vom Pumpstart bis zum vollen 15 PSI), die persönliche Anpassung (richtige Paddelhöhe, Leash-Anpassung, Westengröße – alles musste unauffällig sein, daher lieferte OLagoon individuell eingefärbte aufblasbare Rettungswesten in Creme mit matten Goldbeschlägen) und die Nachbereitung (Board mit pH-neutralem Reiniger abgewischt, alle 5 Einsätze UV-Schutz aufgetragen, Ventil geprüft und innerhalb von 8 Minuten nach Abreise des Gastes zurück in die Schublade gerollt). Das Protokoll-Handbuch (45 Seiten, in Leder gebunden mit goldgeschnittenen Seiten) lag im versteckten Safe der Cabana. Hamdans Feedback nach der Schulung – „So sollte man mit Ausrüstung umgehen.“',
             },
             {
               title: 'Lieferung im Juni 2024 und erstes VIP-Wochenende',
               detail:
-                'Der erste volle Flotteneinsatz galt einem Staatsbesuch des Emirs von Katar, Tamim bin Hamad Al Thani, und seiner Familie am 24. Juni 2024 (ursprünglich für einen britischen Royal geplant, der absagte). Sechs SUPs standen um 7:30 Uhr am Privatstrand bereit. Der 14-jährige Sohn des Emirs, Sheikh Jassim, paddelte 3 Stunden mit einem Guide-Marinebiologen (ebenfalls von Afarer individuell geschult) durch den Korallengarten. Hamdan berichtete – „Der Sohn des Emirs sagte, das sei der beste Teil des Besuchs gewesen.“ Ein zweiter Einsatz im Oktober 2024 für 12 Gäste des saudischen Königshofs umfasste ein Sonnenuntergangspaddeln mit Champagner-Service (Gläser in Afarers individuellem Getränkehalter, konstruiert, um im Kielwasser nicht umzukippen). Bis März 2025 waren die Boards 47-mal genutzt worden – ohne Schäden, ohne Wartungsvorfälle, ohne Gastbeschwerden. Hamdan bestellte 8 weitere Boards für die private Yacht der Familie (die 65-Meter-Yacht „Al Nabigha Star“) und beauftragte Afarer mit einer Blattgold-Paddelserie für die Feiern zum Nationaltag der VAE.',
+                'Der erste volle Flotteneinsatz galt einem Staatsbesuch des Emirs von Katar, Tamim bin Hamad Al Thani, und seiner Familie am 24. Juni 2024 (ursprünglich für einen britischen Royal geplant, der absagte). Sechs SUPs standen um 7:30 Uhr am Privatstrand bereit. Der 14-jährige Sohn des Emirs, Sheikh Jassim, paddelte 3 Stunden mit einem Guide-Marinebiologen (ebenfalls von OLagoon individuell geschult) durch den Korallengarten. Hamdan berichtete – „Der Sohn des Emirs sagte, das sei der beste Teil des Besuchs gewesen.“ Ein zweiter Einsatz im Oktober 2024 für 12 Gäste des saudischen Königshofs umfasste ein Sonnenuntergangspaddeln mit Champagner-Service (Gläser in OLagoons individuellem Getränkehalter, konstruiert, um im Kielwasser nicht umzukippen). Bis März 2025 waren die Boards 47-mal genutzt worden – ohne Schäden, ohne Wartungsvorfälle, ohne Gastbeschwerden. Hamdan bestellte 8 weitere Boards für die private Yacht der Familie (die 65-Meter-Yacht „Al Nabigha Star“) und beauftragte OLagoon mit einer Blattgold-Paddelserie für die Feiern zum Nationaltag der VAE.',
             },
           ],
           results: [
             'Die 20-Board-Flotte wurde in den ersten 9 Monaten für 47 VIP-Gäste-Einheiten eingesetzt – ohne Wartungsvorfälle oder Gastbeschwerden',
             'Durchschnittlich 11,5 Minuten Aufbauzeit für das lautlose elektrische Pumpsystem; die Nachbereitung nach dem Einsatz in 8 Minuten abgeschlossen – beides besser als der 15-Minuten-Luxus-Service-Standard',
             'Die individuellen Stauschränke hielten im Schnitt 58 % Luftfeuchtigkeit (optimal für PVC); keinerlei Schimmel oder Materialabbau gemeldet',
-            'Zusatzbestellung über 8 Boards für die Familienyacht „Al Nabigha Star“ aufgegeben; Afarer mit der exklusiven Blattgold-Paddelserie zum VAE-Nationaltag 2025 beauftragt',
+            'Zusatzbestellung über 8 Boards für die Familienyacht „Al Nabigha Star“ aufgegeben; OLagoon mit der exklusiven Blattgold-Paddelserie zum VAE-Nationaltag 2025 beauftragt',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Kreuzfahrt- & Yachtunternehmen Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Kreuzfahrt- & Yachtunternehmen OLagoon wählen',
       items: [
         {
           title: 'Maritime Umgebung',
@@ -4217,19 +4217,19 @@ const de: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Wie kompakt sind Afarer-SUP-Boards im gepackten Zustand für die Yacht-Lagerung?',
+        question: 'Wie kompakt sind OLagoon-SUP-Boards im gepackten Zustand für die Yacht-Lagerung?',
         answer:
-          'Afarers tragbare Luxus-SUP-Boards verfügen über kompakte Faltsysteme, die das Packvolumen deutlich reduzieren – sie passen mühelos in Yachtkabinen, Staufächer, Tenderboote und Expeditionsschiffe. Jedes Board wird mit dem kompletten Zubehör in einem Tragerucksack verstaut.',
+          'OLagoons tragbare Luxus-SUP-Boards verfügen über kompakte Faltsysteme, die das Packvolumen deutlich reduzieren – sie passen mühelos in Yachtkabinen, Staufächer, Tenderboote und Expeditionsschiffe. Jedes Board wird mit dem kompletten Zubehör in einem Tragerucksack verstaut.',
       },
       {
-        question: 'Sind Afarer-SUP-Boards beständig gegen Salzwasser und UV-Schäden?',
+        question: 'Sind OLagoon-SUP-Boards beständig gegen Salzwasser und UV-Schäden?',
         answer:
-          'Ja, Afarer verwendet Materialien in Marine-Qualität – darunter salzwasserbeständige Komponenten, korrosionsfeste Beschläge, UV-beständige Konstruktion und haltbare PVC-Schichten, die speziell für Ozeanumgebungen, Luftfeuchtigkeit und Sonneneinstrahlung entwickelt wurden.',
+          'Ja, OLagoon verwendet Materialien in Marine-Qualität – darunter salzwasserbeständige Komponenten, korrosionsfeste Beschläge, UV-beständige Konstruktion und haltbare PVC-Schichten, die speziell für Ozeanumgebungen, Luftfeuchtigkeit und Sonneneinstrahlung entwickelt wurden.',
       },
       {
         question: 'Können Sie SUP-Boards mit dem Branding meines Yacht- oder Kreuzfahrtunternehmens anpassen?',
         answer:
-          'Ja, Afarer bietet eine vollständige Anpassung inklusive Yacht-Logos, Kreuzfahrt-Identität, Premium-Farbdesign in verschiedenen Stilen, passenden gebrandeten Paddeln, individuellen Taschen und vollständigen Ausrüstungssets, die die Luxus-Positionierung Ihrer Marke widerspiegeln.',
+          'Ja, OLagoon bietet eine vollständige Anpassung inklusive Yacht-Logos, Kreuzfahrt-Identität, Premium-Farbdesign in verschiedenen Stilen, passenden gebrandeten Paddeln, individuellen Taschen und vollständigen Ausrüstungssets, die die Luxus-Positionierung Ihrer Marke widerspiegeln.',
       },
       {
         question: 'Was ist in einem Luxury-Portable-SUP-Paket enthalten?',
@@ -4239,18 +4239,18 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Wie leicht können Crewmitglieder die Ausrüstung vorbereiten und einsetzen?',
         answer:
-          'Afarer stellt Crew-Betriebsanleitungen mit Aufblasverfahren, Handhabung der Ausrüstung, Reinigungsmethoden und Prüflisten bereit. Das leichte, portable Design ermöglicht schnelleren Einsatz und einfachere Handhabung als traditionelle Hardboards.',
+          'OLagoon stellt Crew-Betriebsanleitungen mit Aufblasverfahren, Handhabung der Ausrüstung, Reinigungsmethoden und Prüflisten bereit. Das leichte, portable Design ermöglicht schnelleren Einsatz und einfachere Handhabung als traditionelle Hardboards.',
       },
       {
         question: 'Bieten Sie Mengenlösungen für Kreuzfahrtlinien mit mehreren Schiffen?',
         answer:
-          'Ja, Afarer unterstützt Kreuzfahrtunternehmen, Yachtcharter-Firmen und Marine-Hospitality-Marken mit Flottenlösungen – darunter gleichbleibende Produktqualität über alle Schiffe, effizienter Mengenkauf und standardisierte Ausrüstungspakete.',
+          'Ja, OLagoon unterstützt Kreuzfahrtunternehmen, Yachtcharter-Firmen und Marine-Hospitality-Marken mit Flottenlösungen – darunter gleichbleibende Produktqualität über alle Schiffe, effizienter Mengenkauf und standardisierte Ausrüstungspakete.',
       },
     ],
     cta: {
-      title: 'Schaffen Sie Ihr Luxus-Wassererlebnis mit Afarer',
+      title: 'Schaffen Sie Ihr Luxus-Wassererlebnis mit OLagoon',
       subtitle:
-        'Der Ozean ist Ihr Reiseziel. Schaffen Sie nun unvergessliche Erlebnisse darauf. Afarer hilft Kreuzfahrtunternehmen, Yachtbetreibern, Charterfirmen und Marine-Hospitality-Marken beim Aufbau premium-tragbarer SUP-Erlebnisse.',
+        'Der Ozean ist Ihr Reiseziel. Schaffen Sie nun unvergessliche Erlebnisse darauf. OLagoon hilft Kreuzfahrtunternehmen, Yachtbetreibern, Charterfirmen und Marine-Hospitality-Marken beim Aufbau premium-tragbarer SUP-Erlebnisse.',
       primaryAction: {
         text: 'Starten Sie heute Ihr Luxus-Marine-SUP-Projekt',
       },
@@ -4264,7 +4264,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Hundefreundlicher Paddleboard-Hersteller | Dog-SUP-OEM-Lieferant | {SITE}',
       description:
-        'Afarer erstellt individuelle hundefreundliche Paddleboards für Hundea Abenteuermarken und Pet-Outdoor-Unternehmen. Robuste kratzfeste SUP-Designs, breite stabile Plattformen, OEM-Fertigung und Private-Label-Lösungen.',
+        'OLagoon erstellt individuelle hundefreundliche Paddleboards für Hundea Abenteuermarken und Pet-Outdoor-Unternehmen. Robuste kratzfeste SUP-Designs, breite stabile Plattformen, OEM-Fertigung und Private-Label-Lösungen.',
     },
     hero: {
       tagline: 'Pet-Friendly Paddle Board Program™',
@@ -4305,7 +4305,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Für Haustiere optimiertes SUP-Design',
           description:
-            'Afarer entwickelt SUP-Strukturen speziell für den Einsatz mit Haustieren – mit ultrastabilem, breitem Plattformdesign, größerer Boardbreite, größerer Standfläche und einer langen Aktivitätsfläche über das ganze Deck für Hunde aller Größen.',
+            'OLagoon entwickelt SUP-Strukturen speziell für den Einsatz mit Haustieren – mit ultrastabilem, breitem Plattformdesign, größerer Boardbreite, größerer Standfläche und einer langen Aktivitätsfläche über das ganze Deck für Hunde aller Größen.',
           features: [
             'Ultrastabiles Breitplattform-Design',
             'Lange Aktivitätsfläche über das ganze Deck',
@@ -4315,43 +4315,43 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Kratzfeste & pet-robuste Materialstruktur',
           description:
-            'Afarer setzt auf verstärkte PVC-Konstruktion für Kratzfestigkeit, robuste EVA-Deckpads mit vollflächiger Abdeckung und verbessertem Grip sowie eine durchstichsichere Struktur zum Schutz gegen Krallendruck.',
+            'OLagoon setzt auf verstärkte PVC-Konstruktion für Kratzfestigkeit, robuste EVA-Deckpads mit vollflächiger Abdeckung und verbessertem Grip sowie eine durchstichsichere Struktur zum Schutz gegen Krallendruck.',
           features: ['Verstärkte PVC-Konstruktion', 'Robustes EVA-Deckpad', 'Durchstichsichere Struktur'],
         },
         {
           title: 'Pet-freundliche Produktkonfiguration',
           description:
-            'Afarer unterstützt vollständige Produktlösungen – darunter Standard-Pet-SUP-Pakete mit Boards und Zubehör, Premium-Hunde-Adventure-Pakete mit Sicherheitszubehör und Reise-Pet-Pakete für Roadtrips und Camping.',
+            'OLagoon unterstützt vollständige Produktlösungen – darunter Standard-Pet-SUP-Pakete mit Boards und Zubehör, Premium-Hunde-Adventure-Pakete mit Sicherheitszubehör und Reise-Pet-Pakete für Roadtrips und Camping.',
           features: ['Standard-Pet-SUP-Paket', 'Premium-Hunde-Adventure-Paket', 'Reise-Pet-Paket'],
         },
         {
           title: 'Entwicklung individueller Private-Label-Pet-SUPs',
           description:
-            'Afarer hilft Tiermarken, individuell gebrandete Produkte zu schaffen – mit Logoplatzierung, Farben und Grafikdesign, lebensstilorientiertem Design für Premium-Positionierung und limitierten Kollektionen für Influencer.',
+            'OLagoon hilft Tiermarken, individuell gebrandete Produkte zu schaffen – mit Logoplatzierung, Farben und Grafikdesign, lebensstilorientiertem Design für Premium-Positionierung und limitierten Kollektionen für Influencer.',
           features: ['Markenindividualisierung', 'Lebensstilorientiertes Design', 'Limitierte Kollektionen'],
         },
         {
           title: 'Unterstützung der Marktpositionierung für Tiermarken',
           description:
-            'Afarer entwickelt Produkte, die zu unterschiedlichen Markenpositionen passen – von Premium-Tier-Lifestyle-Marken mit Fokus auf luxuriöses Erscheinungsbild über Adventure-Hundemarken mit Fokus auf Robustheit bis hin zu Familien-Tiermarken mit Fokus auf Sicherheit.',
+            'OLagoon entwickelt Produkte, die zu unterschiedlichen Markenpositionen passen – von Premium-Tier-Lifestyle-Marken mit Fokus auf luxuriöses Erscheinungsbild über Adventure-Hundemarken mit Fokus auf Robustheit bis hin zu Familien-Tiermarken mit Fokus auf Sicherheit.',
           features: ['Premium-Tier-Lifestyle-Marken', 'Adventure-Hundemarken', 'Familien-Tiermarken'],
         },
         {
           title: 'OEM-Unterstützung für Tierprodukt-Unternehmer',
           description:
-            'Viele Tiermarken haben Kundengemeinschaften und Marketingkompetenz, fehlt aber das Fertigungswissen. Afarer bietet Produktentwicklung, Prototypenerstellung, Fertigung, Qualitätskontrolle und Exportunterstützung.',
+            'Viele Tiermarken haben Kundengemeinschaften und Marketingkompetenz, fehlt aber das Fertigungswissen. OLagoon bietet Produktentwicklung, Prototypenerstellung, Fertigung, Qualitätskontrolle und Exportunterstützung.',
           features: ['Produktentwicklung', 'Prototypenerstellung', 'Fertigungsunterstützung'],
         },
         {
           title: 'Content-freundliches Produktdesign',
           description:
-            'Afarer unterstützt Designs, die auf Sichtbarkeit in sozialen Medien optimiert sind – mit attraktiven Grafiken und Lifestyle-Look, die Kundenfotos und -videos fördern und teilbare Erlebnisse sowie Community-Engagement schaffen.',
+            'OLagoon unterstützt Designs, die auf Sichtbarkeit in sozialen Medien optimiert sind – mit attraktiven Grafiken und Lifestyle-Look, die Kundenfotos und -videos fördern und teilbare Erlebnisse sowie Community-Engagement schaffen.',
           features: ['Sichtbarkeit in sozialen Medien', 'Kundenfotos & -videos', 'Markenbekanntheit'],
         },
         {
           title: 'Qualitätskontrolle für die Sicherheit von Haustieren',
           description:
-            'Afarer legt den Fokus auf Materialsicherheit bei der Prüfung der Oberflächenbeständigkeit, Produktleistungstests bei Aufblasen und Stabilität sowie Endkontrolle von Aussehen, Zubehör und Verpackung.',
+            'OLagoon legt den Fokus auf Materialsicherheit bei der Prüfung der Oberflächenbeständigkeit, Produktleistungstests bei Aufblasen und Stabilität sowie Endkontrolle von Aussehen, Zubehör und Verpackung.',
           features: ['Materialsicherheit', 'Produktleistung', 'Endkontrolle'],
         },
       ],
@@ -4368,7 +4368,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Produktentwicklung',
           detail:
-            'Afarer entwarf eine SUP-Struktur speziell für Haustiere – inklusive breiterer Boardform, größerer Deckfläche und verstärkter Oberfläche, um Hunde sicher und bequem zu tragen.',
+            'OLagoon entwarf eine SUP-Struktur speziell für Haustiere – inklusive breiterer Boardform, größerer Deckfläche und verstärkter Oberfläche, um Hunde sicher und bequem zu tragen.',
         },
         {
           title: 'Materialoptimierung',
@@ -4378,7 +4378,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Markenindividualisierung',
           detail:
-            'Afarer schuf individuelle Grafiken, Markenfarben und Handelsverpackungen, die die Premium-Positionierung der Marke im Outdoor-Tier-Lifestyle widerspiegelten.',
+            'OLagoon schuf individuelle Grafiken, Markenfarben und Handelsverpackungen, die die Premium-Positionierung der Marke im Outdoor-Tier-Lifestyle widerspiegelten.',
         },
         {
           title: 'Unterstützung beim Markteintritt',
@@ -4406,22 +4406,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Hundespezifische Produktforschung & Sicherheitstechnik',
               detail:
-                'Im Januar 2025 verbrachten Emma und ihr Produktteam eine Woche in Afarers Innovationslabor – mit Afarers Materialingenieuren und einem tierärztlichen Berater. Sie entwickelten 3 hundespezifische Innovationen – (1) ein Deckpad mit doppelter Dichte und extra Gripzonen für Hundepfoten mit dreifach höherem Reibungskoeffizient als Standardpads, (2) einen verstärkten Mittelbereich mit lastgetesteter Kapazität von 50 kg (getestet mit Gewichtssimulationen für Labrador und Golden Retriever) und (3) ein D-Ring-Ankersystem, das mit Schwimmwesten für Hunde kompatibel ist. Afarer produzierte 6 Prototyp-Varianten, und Emmas Team führte 8 Wochen Tests mit 50 Hundebesitzern in ganz Großbritannien durch und verfeinerte das Design anhand von 347 Umfrageantworten. Das finale Design hatte Pfotenabdruck-Prägung, „schmutzresistentes“ Material und einen in das Deckpad integrierten Kotbeutelhalter.',
+                'Im Januar 2025 verbrachten Emma und ihr Produktteam eine Woche in OLagoons Innovationslabor – mit OLagoons Materialingenieuren und einem tierärztlichen Berater. Sie entwickelten 3 hundespezifische Innovationen – (1) ein Deckpad mit doppelter Dichte und extra Gripzonen für Hundepfoten mit dreifach höherem Reibungskoeffizient als Standardpads, (2) einen verstärkten Mittelbereich mit lastgetesteter Kapazität von 50 kg (getestet mit Gewichtssimulationen für Labrador und Golden Retriever) und (3) ein D-Ring-Ankersystem, das mit Schwimmwesten für Hunde kompatibel ist. OLagoon produzierte 6 Prototyp-Varianten, und Emmas Team führte 8 Wochen Tests mit 50 Hundebesitzern in ganz Großbritannien durch und verfeinerte das Design anhand von 347 Umfrageantworten. Das finale Design hatte Pfotenabdruck-Prägung, „schmutzresistentes“ Material und einen in das Deckpad integrierten Kotbeutelhalter.',
             },
             {
               title: 'Markenentwicklung, Verpackung & Einhaltung der Tierhandels-Vorgaben',
               detail:
-                "Afarers Designteam schuf das visuelle Erscheinungsbild von „Paws & Paddle Adventure“ – inklusive Verpackungen mit Hundefotografie, Regal-Wobblern und QR-Codes mit Link zu einem „Dog SUP Safety“-Videoguide. Es erschienen 3 Modelle – „The Spaniel“ (10' Allround für kleine bis mittelgroße Hunde), „The Labrador“ (11'6\" Utility für mittelgroße bis große Hunde) und „The Retriever“ (12'6\" Touring für große Hunde und längere Touren). Afarer verantwortete die UKCA-Zertifizierung und CE-Kennzeichnung und entwickelte ein Compliance-Paket nach den Vorgaben der Pet Industry Federation – mit Sicherheitshinweisen, Gewichtslimits für Hunde und Haftungsunterlagen. Emma verkaufte 1.800 Einheiten vorab über ihr bestehendes Tierhandelsnetz, noch bevor die Produktion begann.",
+                "OLagoons Designteam schuf das visuelle Erscheinungsbild von „Paws & Paddle Adventure“ – inklusive Verpackungen mit Hundefotografie, Regal-Wobblern und QR-Codes mit Link zu einem „Dog SUP Safety“-Videoguide. Es erschienen 3 Modelle – „The Spaniel“ (10' Allround für kleine bis mittelgroße Hunde), „The Labrador“ (11'6\" Utility für mittelgroße bis große Hunde) und „The Retriever“ (12'6\" Touring für große Hunde und längere Touren). OLagoon verantwortete die UKCA-Zertifizierung und CE-Kennzeichnung und entwickelte ein Compliance-Paket nach den Vorgaben der Pet Industry Federation – mit Sicherheitshinweisen, Gewichtslimits für Hunde und Haftungsunterlagen. Emma verkaufte 1.800 Einheiten vorab über ihr bestehendes Tierhandelsnetz, noch bevor die Produktion begann.",
             },
             {
               title: 'Influencer-Launch-Kampagne & Handelsschulung',
               detail:
-                'Die Kollektion startete im März 2025 mit einer koordinierten Kampagne mit 12 britischen Hunde-Influencern – darunter @myadventureswithoscar (2,1 Mio. Follower) und @the_hiking_husky (890.000 Follower). Afarer stellte 50 Demo-Einheiten für Influencer-Content und Tiergeschäfts-Events bereit. Afarers Schulungsteam erstellte ein 20-minütiges „Retail Pro“-Modul zu SUP-Sicherheit mit Hunden, Passung für verschiedene Rassen und dem Cross-Selling von Hundeschwimmwesten und Pfotenschutz-Schuhen. Paws & Paddles 340 Handelspartner veranstalteten Demo-Tage im Laden, bei denen Kunden die Boards mit ihren Hunden in aufblasbaren Pools testen konnten – 78 % der Demoteilnehmer kauften anschließend.',
+                'Die Kollektion startete im März 2025 mit einer koordinierten Kampagne mit 12 britischen Hunde-Influencern – darunter @myadventureswithoscar (2,1 Mio. Follower) und @the_hiking_husky (890.000 Follower). OLagoon stellte 50 Demo-Einheiten für Influencer-Content und Tiergeschäfts-Events bereit. OLagoons Schulungsteam erstellte ein 20-minütiges „Retail Pro“-Modul zu SUP-Sicherheit mit Hunden, Passung für verschiedene Rassen und dem Cross-Selling von Hundeschwimmwesten und Pfotenschutz-Schuhen. Paws & Paddles 340 Handelspartner veranstalteten Demo-Tage im Laden, bei denen Kunden die Boards mit ihren Hunden in aufblasbaren Pools testen konnten – 78 % der Demoteilnehmer kauften anschließend.',
             },
             {
               title: 'Kategorieerweiterung & Partnerschaftsprogramm mit Tierärzten',
               detail:
-                'Bis September 2025 verkaufte die hundetaugliche SUP-Linie 4.200 Einheiten über 340 Verkaufsstellen und erwirtschaftete 2,1 Mio. £ Großhandelsumsatz – 40 % über dem Ziel von 1,5 Mio. £. Das Modell „Labrador“ machte 52 % der Verkäufe aus. Emma startete eine richtungsweisende Partnerschaft mit der British Veterinary Association für die Wassersicherheit von Hunden, und Afarer produzierte 5.000 „Dog SUP Safety“-Broschüren, die über Tierärzte verteilt wurden. Eine Nachbestellung über 3.000 Einheiten enthielt ein neues Modell „The Terrier“ (8\'6" für kleine Hunde) und eine passende Linie Hundeschwimmwesten. Die Kollektion wurde auf der UK Pet Show 2025 zum „Pet Product of the Year“ gekürt.',
+                'Bis September 2025 verkaufte die hundetaugliche SUP-Linie 4.200 Einheiten über 340 Verkaufsstellen und erwirtschaftete 2,1 Mio. £ Großhandelsumsatz – 40 % über dem Ziel von 1,5 Mio. £. Das Modell „Labrador“ machte 52 % der Verkäufe aus. Emma startete eine richtungsweisende Partnerschaft mit der British Veterinary Association für die Wassersicherheit von Hunden, und OLagoon produzierte 5.000 „Dog SUP Safety“-Broschüren, die über Tierärzte verteilt wurden. Eine Nachbestellung über 3.000 Einheiten enthielt ein neues Modell „The Terrier“ (8\'6" für kleine Hunde) und eine passende Linie Hundeschwimmwesten. Die Kollektion wurde auf der UK Pet Show 2025 zum „Pet Product of the Year“ gekürt.',
             },
           ],
           results: [
@@ -4438,28 +4438,28 @@ const de: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Australien',
             background:
               'Blue Heeler Expeditions wurde 2018 von Lachlan „Locky“ Murphy gegründet – ehemaliger Hundeführer der australischen Armee, später Verhaltensforscher für Hunde. Locky war auf das Training energiegeladener Rassen spezialisiert (Kelpies, Heeler, Border Collies) und hatte sich durch seinen YouTube-Kanal (480.000 Abonnenten) und ausverkaufte Workshops eine treue Anhängerschaft aufgebaut. Er besaß eine 12.000-Quadratfuß-Anlage am Noosa River, wollte aber eine völlig neue Kategorie schaffen – ein strukturiertes SUP-Trainings- und Zertifizierungsprogramm für Hunde. Die Hundehaltung in Australien erreichte Rekordwerte (5,1 Mio. Hunde) und',
-            goal: 'Entwicklung eines umfassenden „Canine SUP Certification“-Programms mit individuellen Afarer-Boards, Training und Zertifizierung von 80 Trainern in ganz Australien innerhalb von 18 Monaten sowie 1,2 Mio. AU$ Programmerlös durch die Kombination aus Boardverkäufen, Zertifizierungsgebühren und Merchandise.',
+            goal: 'Entwicklung eines umfassenden „Canine SUP Certification“-Programms mit individuellen OLagoon-Boards, Training und Zertifizierung von 80 Trainern in ganz Australien innerhalb von 18 Monaten sowie 1,2 Mio. AU$ Programmerlös durch die Kombination aus Boardverkäufen, Zertifizierungsgebühren und Merchandise.',
           },
           steps: [
             {
               title: 'Analyse des Tierverhaltens & Entwicklung des SUP-Trainingsprotokolls',
               detail:
-                'Locky arbeitete von Oktober bis Dezember 2024 drei Monate lang mit Afarers Produktteam und einem Forscher für Tierbiomechanik der University of Queensland an einem Board, das für das Gleichgewichtstraining von Hunden optimiert ist. Sie schufen eine 12\' x 34" breite Plattform mit ultraweichem EVA-Deckpolster (8 mm gegenüber standardmäßigen 4 mm), flachen Rails für ein leichtes Besteigen durch Hunde und einer rutschfesten texturierten Oberfläche, die über 14 Hunderassen getestet wurde. Locky testete 30 Hunde über 6 Prototyp-Iterationen und entwickelte ein 5-stufiges Hunde-SUP-Trainingsprotokoll – Stufe 1 (Bekanntmachen mit dem Board an Land), Stufe 2 (statisches Treiben), Stufe 3 (Paddeln im Sitzen), Stufe 4 (Paddeln im Stehen mit sitzendem Hund), Stufe 5 (volles Paddeln mit stehendem Hund). Afarer produzierte 200 Trainer-Boards in Trainerqualität mit individuellen „Blue Heeler“-Grafiken – mit der Silhouette eines australischen Cattle Dogs.',
+                'Locky arbeitete von Oktober bis Dezember 2024 drei Monate lang mit OLagoons Produktteam und einem Forscher für Tierbiomechanik der University of Queensland an einem Board, das für das Gleichgewichtstraining von Hunden optimiert ist. Sie schufen eine 12\' x 34" breite Plattform mit ultraweichem EVA-Deckpolster (8 mm gegenüber standardmäßigen 4 mm), flachen Rails für ein leichtes Besteigen durch Hunde und einer rutschfesten texturierten Oberfläche, die über 14 Hunderassen getestet wurde. Locky testete 30 Hunde über 6 Prototyp-Iterationen und entwickelte ein 5-stufiges Hunde-SUP-Trainingsprotokoll – Stufe 1 (Bekanntmachen mit dem Board an Land), Stufe 2 (statisches Treiben), Stufe 3 (Paddeln im Sitzen), Stufe 4 (Paddeln im Stehen mit sitzendem Hund), Stufe 5 (volles Paddeln mit stehendem Hund). OLagoon produzierte 200 Trainer-Boards in Trainerqualität mit individuellen „Blue Heeler“-Grafiken – mit der Silhouette eines australischen Cattle Dogs.',
             },
             {
               title: 'Trainer-Zertifizierungsprogramm & regulatorischer Rahmen',
               detail:
-                'Locky und Afarer entwickelten gemeinsam eine 3-stufige Canine-SUP-Trainer-Zertifizierung – Level 1 (40 Stunden online plus Wochenende vor Ort), Level 2 (10 Tage fortgeschritten mit Wasserrettung), Level 3 (14 Tage Master-Trainer). Der Lehrplan umfasste Hundevershalten auf dem Wasser, erste Hilfe für Hunde, rassenspezifische Trainingsansätze, australische Wassersicherheitsvorschriften, Versicherungsanforderungen und Unternehmensgründung. Afarer finanzierte die Erstellung von 25 Stunden HD-Videocontent, die am Noosa River gedreht wurden, und produzierte ein 200-seitiges Trainer-Handbuch. Locky startete das Zertifizierungsprogramm im Februar 2025 mit einer ersten Kohorte von 24 Kandidaten – alle 24 bestanden Level 1 und 18 setzten mit Level 2 fort.',
+                'Locky und OLagoon entwickelten gemeinsam eine 3-stufige Canine-SUP-Trainer-Zertifizierung – Level 1 (40 Stunden online plus Wochenende vor Ort), Level 2 (10 Tage fortgeschritten mit Wasserrettung), Level 3 (14 Tage Master-Trainer). Der Lehrplan umfasste Hundevershalten auf dem Wasser, erste Hilfe für Hunde, rassenspezifische Trainingsansätze, australische Wassersicherheitsvorschriften, Versicherungsanforderungen und Unternehmensgründung. OLagoon finanzierte die Erstellung von 25 Stunden HD-Videocontent, die am Noosa River gedreht wurden, und produzierte ein 200-seitiges Trainer-Handbuch. Locky startete das Zertifizierungsprogramm im Februar 2025 mit einer ersten Kohorte von 24 Kandidaten – alle 24 bestanden Level 1 und 18 setzten mit Level 2 fort.',
             },
             {
               title: 'Produktreihe, Handelsvertrieb & YouTube-Launch',
               detail:
-                "Lockys Marke „Blue Heeler Expeditions“ launchte 4 Handelsprodukte – das „Blue“ (12' Trainer-Board für 899 AU$), das „Heeler“ (10'6\" Freizeit-Hunde-Board für 649 AU$), eine hundespezifische Schwimmweste (89 AU$) und ein Trainings-Tethersystem (39 AU$). Afarer fertigte 1.000 Einheiten für die anfängliche Handels- und Trainer-Pipeline. Locky veröffentlichte eine 6-teilige YouTube-Serie („Paddle Paws“), die das Trainingsprotokoll dokumentierte – die erste Episode erzielte 2,1 Mio. Aufrufe in 2 Wochen. Innerhalb von 30 Tagen erhielt Lockys Website 47.000 Bestellanfragen, und 340 Australier registrierten sich auf der Warteliste für die Trainer-Zertifizierung.",
+                "Lockys Marke „Blue Heeler Expeditions“ launchte 4 Handelsprodukte – das „Blue“ (12' Trainer-Board für 899 AU$), das „Heeler“ (10'6\" Freizeit-Hunde-Board für 649 AU$), eine hundespezifische Schwimmweste (89 AU$) und ein Trainings-Tethersystem (39 AU$). OLagoon fertigte 1.000 Einheiten für die anfängliche Handels- und Trainer-Pipeline. Locky veröffentlichte eine 6-teilige YouTube-Serie („Paddle Paws“), die das Trainingsprotokoll dokumentierte – die erste Episode erzielte 2,1 Mio. Aufrufe in 2 Wochen. Innerhalb von 30 Tagen erhielt Lockys Website 47.000 Bestellanfragen, und 340 Australier registrierten sich auf der Warteliste für die Trainer-Zertifizierung.",
             },
             {
               title: 'Programm-Skalierung, nationale Expansion & internationale Anfragen',
               detail:
-                'Bis August 2025 hatte Blue Heeler Expeditions 85 zertifizierte Trainer in allen australischen Bundesstaaten (5 über dem 18-Monats-Ziel, erreicht in 6 Monaten). Trainer zahlten 2.500 AU$ für die Level-1-Zertifizierung plus 899 AU$ für das Board – das ergab 296.000 AU$ Zertifizierungserlös. Locky verkaufte 1.400 Handels-Boards an Hundebesitzer, 200 Trainer-Boards an zertifizierte Trainer und 3.400 Hundeschwimmwesten. Der Gesamtprogrammerlös erreichte in 8 Monaten 1,85 Mio. AU$ (54 % über dem 18-Monats-Ziel von 1,2 Mio. AU$). Locky erhielt Anfragen aus 14 Ländern und unterzeichnete einen Lizenzvertrag mit einem US-Partner für eine nordamerikanische Version. Afarer sagte eine exklusive 3-jährige globale Partnerschaft für die Hunde-SUP-Produktlinie zu.',
+                'Bis August 2025 hatte Blue Heeler Expeditions 85 zertifizierte Trainer in allen australischen Bundesstaaten (5 über dem 18-Monats-Ziel, erreicht in 6 Monaten). Trainer zahlten 2.500 AU$ für die Level-1-Zertifizierung plus 899 AU$ für das Board – das ergab 296.000 AU$ Zertifizierungserlös. Locky verkaufte 1.400 Handels-Boards an Hundebesitzer, 200 Trainer-Boards an zertifizierte Trainer und 3.400 Hundeschwimmwesten. Der Gesamtprogrammerlös erreichte in 8 Monaten 1,85 Mio. AU$ (54 % über dem 18-Monats-Ziel von 1,2 Mio. AU$). Locky erhielt Anfragen aus 14 Ländern und unterzeichnete einen Lizenzvertrag mit einem US-Partner für eine nordamerikanische Version. OLagoon sagte eine exklusive 3-jährige globale Partnerschaft für die Hunde-SUP-Produktlinie zu.',
             },
           ],
           results: [
@@ -4471,8 +4471,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Pet-Adventure-Marken Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Pet-Adventure-Marken OLagoon wählen',
       items: [
         {
           title: 'Sicherheit für Haustiere',
@@ -4518,26 +4518,26 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Können Tiermarken SUP-Boards mit eigenem Logo und eigenen Farben individualisieren?',
         answer:
-          'Absolut. Afarer bietet vollständige Markenindividualisierung inklusive Logoplatzierung, individueller Farbanpassung, Grafikdesign und gebrandeter Verpackung. Wir unterstützen außerdem limitierte Kollektionen für Tier-Influencer und saisonale Produkteinführungen.',
+          'Absolut. OLagoon bietet vollständige Markenindividualisierung inklusive Logoplatzierung, individueller Farbanpassung, Grafikdesign und gebrandeter Verpackung. Wir unterstützen außerdem limitierte Kollektionen für Tier-Influencer und saisonale Produkteinführungen.',
       },
       {
         question: 'Welche Boardgröße wird für das Paddeln mit einem Hund empfohlen?',
         answer:
-          'Für das Paddeln mit Hunden empfehlen sich breitere Boards mit größeren Deckflächen. Afarers pet-freundliche Designs bieten größere Boardbreite und lange Aktivitätsflächen über das ganze Deck, die kleine, mittelgroße und große Hunde bequem aufnehmen und dabei die Stabilität wahren.',
+          'Für das Paddeln mit Hunden empfehlen sich breitere Boards mit größeren Deckflächen. OLagoons pet-freundliche Designs bieten größere Boardbreite und lange Aktivitätsflächen über das ganze Deck, die kleine, mittelgroße und große Hunde bequem aufnehmen und dabei die Stabilität wahren.',
       },
       {
         question: 'Bieten Sie vollständige Pet-SUP-Pakete mit Zubehör an?',
         answer:
-          'Ja, Afarer bietet Standard-Pet-SUP-Pakete inklusive Board, Paddel, Pumpe, Leash, Tragetasche und Reparaturset sowie Premium-Hunde-Adventure-Pakete mit Sicherheitszubehör für Haustiere und Reise-Pet-Pakete, optimiert für Roadtrips und Camping.',
+          'Ja, OLagoon bietet Standard-Pet-SUP-Pakete inklusive Board, Paddel, Pumpe, Leash, Tragetasche und Reparaturset sowie Premium-Hunde-Adventure-Pakete mit Sicherheitszubehör für Haustiere und Reise-Pet-Pakete, optimiert für Roadtrips und Camping.',
       },
       {
         question: 'Was ist die Mindestbestellmenge für individuelle pet-freundliche SUP-Boards?',
         answer:
-          'Afarer arbeitet mit Tiermarken aller Größen. Mindestbestellmengen lassen sich an die Phase der Marke anpassen – von kleinen limitierten Launch-Serien für Tier-Influencer bis hin zu Produktionsserien in vollem Umfang für etablierte Outdoor-Tiermarken.',
+          'OLagoon arbeitet mit Tiermarken aller Größen. Mindestbestellmengen lassen sich an die Phase der Marke anpassen – von kleinen limitierten Launch-Serien für Tier-Influencer bis hin zu Produktionsserien in vollem Umfang für etablierte Outdoor-Tiermarken.',
       },
     ],
     cta: {
-      title: 'Schaffen Sie Ihre Pet-Adventure-SUP-Marke mit Afarer',
+      title: 'Schaffen Sie Ihre Pet-Adventure-SUP-Marke mit OLagoon',
       subtitle: 'Die Zukunft von Tierprodukten liegt nicht nur im Haus. Sie liegt draußen.',
       primaryAction: {
         text: 'Starten Sie heute Ihr pet-freundliches SUP-Projekt',
@@ -4552,7 +4552,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Luxus-Custom-SUP-Hersteller | {SITE}',
       description:
-        'Afarer erstellt Premium-Custom-SUP-Kollektionen für Privatinseln, Yachtclubs, Luxusresorts und Elite-Lifestyle-Marken. Exklusive Designs, Luxusmaterialien, VIP-Anpassung und Boutique-OEM-Produktion.',
+        'OLagoon erstellt Premium-Custom-SUP-Kollektionen für Privatinseln, Yachtclubs, Luxusresorts und Elite-Lifestyle-Marken. Exklusive Designs, Luxusmaterialien, VIP-Anpassung und Boutique-OEM-Produktion.',
     },
     hero: {
       tagline: 'Exklusive Luxury-SUP-Lösungen für private Inseln, Yachtclubs & erstklassige Lifestyle-Destinationen',
@@ -4593,7 +4593,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Exklusives Luxury-SUP-Design',
           description:
-            'Afarer unterstützt vollständige ästhetische Individualisierung – mit individueller Farmentwicklung, markenspezifischen Tönen und Resort-abgestimmten Designs. Zu den Stilen zählen Ocean Luxury in tiefem Marineblau und Perlweiß, Tropical Island in natürlichen Tönen und Modern Yacht in minimalistischen Farben mit Premium-Finishes.',
+            'OLagoon unterstützt vollständige ästhetische Individualisierung – mit individueller Farmentwicklung, markenspezifischen Tönen und Resort-abgestimmten Designs. Zu den Stilen zählen Ocean Luxury in tiefem Marineblau und Perlweiß, Tropical Island in natürlichen Tönen und Modern Yacht in minimalistischen Farben mit Premium-Finishes.',
         },
         {
           title: 'Auswahl an Premium-Materialien & Finishes',
@@ -4680,17 +4680,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: Individuelle Designzusammenarbeit & Materialauswahl',
               detail:
-                'Im August 2024 beauftragte Voss Afarers Individual-Sparte mit einem detaillierten Briefing – die Boards mussten zur „Ocean Sand“-Farbpalette des Resorts passen (warmes Beige, Anthrazit, Rosé und Petrol) mit einem stucktexturierten Deckpad, passend zum Villenboden. Afarers Designteam entwickelte über 6 Wochen 14 Farbvarianten-Prototypen und entschied sich für einen 5-lagigen Fusion-Drop-Stitch-Kern mit UV-stabilisierter matter PVC-Außenhaut. Jedes Board erhielt ein von Hand aufgetragenes Blattgold-Logo – das Farn-Emblem der Coco-Marke –, das eine balinesische Künstlerin mit 4 Stunden Aufwand pro Board anbrachte. Die 30-Board-Bestellung (25 Explorer 11\'6" X, 5 Touring-Boards 12\'6") kostete insgesamt 87.000 $.',
+                'Im August 2024 beauftragte Voss OLagoons Individual-Sparte mit einem detaillierten Briefing – die Boards mussten zur „Ocean Sand“-Farbpalette des Resorts passen (warmes Beige, Anthrazit, Rosé und Petrol) mit einem stucktexturierten Deckpad, passend zum Villenboden. OLagoons Designteam entwickelte über 6 Wochen 14 Farbvarianten-Prototypen und entschied sich für einen 5-lagigen Fusion-Drop-Stitch-Kern mit UV-stabilisierter matter PVC-Außenhaut. Jedes Board erhielt ein von Hand aufgetragenes Blattgold-Logo – das Farn-Emblem der Coco-Marke –, das eine balinesische Künstlerin mit 4 Stunden Aufwand pro Board anbrachte. Die 30-Board-Bestellung (25 Explorer 11\'6" X, 5 Touring-Boards 12\'6") kostete insgesamt 87.000 $.',
             },
             {
               title: 'Schritt 2: Integration des Schwimmstegs & Aufbewahrungsarchitektur',
               detail:
-                'Voss arbeitete mit Afarers Marine-Architekten an einem zweistufigen schwimmenden Board-Valet-System. Die untere Ebene hielt 15 Boards mit der Nase nach außen für den direkten Gastzugriff bereit – die obere Ebene bewahrte 15 Boards in individuellen Neopren-Trageschlingen zum Schutz vor UV-Abbau. Der in Phuket gebaute und in modularen Sektionen verschiffte Steg kostete inklusive Installation 42.000 $. Jedes Board trug einen wasserdichten NFC-Chip, der mit dem Reservierungssystem (RMS) des Resorts verknüpft war und den automatisierten Check-in/Check-out ermöglichte – das senkte den Personalaufwand um 3,2 Stunden pro Tag gegenüber dem bisherigen Papierlisten-System.',
+                'Voss arbeitete mit OLagoons Marine-Architekten an einem zweistufigen schwimmenden Board-Valet-System. Die untere Ebene hielt 15 Boards mit der Nase nach außen für den direkten Gastzugriff bereit – die obere Ebene bewahrte 15 Boards in individuellen Neopren-Trageschlingen zum Schutz vor UV-Abbau. Der in Phuket gebaute und in modularen Sektionen verschiffte Steg kostete inklusive Installation 42.000 $. Jedes Board trug einen wasserdichten NFC-Chip, der mit dem Reservierungssystem (RMS) des Resorts verknüpft war und den automatisierten Check-in/Check-out ermöglichte – das senkte den Personalaufwand um 3,2 Stunden pro Tag gegenüber dem bisherigen Papierlisten-System.',
             },
             {
               title: 'Schritt 3: Butler-SUP-Schulung & Concierge-Integration',
               detail:
-                'Im November 2024 führte Afarers Schulungsteam auf Coco Private Island ein 4-tägiges Intensivprogramm für 8 Resort-Butler und 4 Mitarbeiter des Tauchzentrums durch. Die Schulung umfasste SUP-Etikette für ultrareiche Gäste – lautloser Start, Obstservice am Board, GoPro-Halterungen. Jeder Butler absolvierte 15 begleitete Gastesessions. Voss integrierte die SUP-Reservierung in die Concierge-App der Villa vor der Anreise, sodass Gäste die Boardfarbe vorwählen und Sonnenaufgangs-, Lagunen- oder Riffrouten planen konnten. Die Annahmequote erreichte in den ersten 2 Monaten 28 %.',
+                'Im November 2024 führte OLagoons Schulungsteam auf Coco Private Island ein 4-tägiges Intensivprogramm für 8 Resort-Butler und 4 Mitarbeiter des Tauchzentrums durch. Die Schulung umfasste SUP-Etikette für ultrareiche Gäste – lautloser Start, Obstservice am Board, GoPro-Halterungen. Jeder Butler absolvierte 15 begleitete Gastesessions. Voss integrierte die SUP-Reservierung in die Concierge-App der Villa vor der Anreise, sodass Gäste die Boardfarbe vorwählen und Sonnenaufgangs-, Lagunen- oder Riffrouten planen konnten. Die Annahmequote erreichte in den ersten 2 Monaten 28 %.',
             },
             {
               title: 'Schritt 4: Influencer-Launch & gemessener ROI auf Social Equity',
@@ -4717,22 +4717,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: Künstlerische Musterübertragung & Materialinnovation',
               detail:
-                'Ab Februar 2025 entwickelten Afarers F&E-Team und Verlaines Atelier über 10 Wochen ein Direkt-auf-PVC-Sublimationsverfahren, das Verlaines 14-farbiges „Geometrica“-Muster mit 1.200 dpi ohne Farbverlauf oder Verzerrung durch Dehnung wiedergeben konnte. Nach 18 fehlgeschlagenen Mustern – das Muster verzerrte um die Rail-Krümmung – schufen Afarers Ingenieure eine 7-Teil-Stanzschablone, die den Vorab-Druck auf flachen PVC-Bahnen vor der Fusions-Laminierung erlaubte. Jedes Board erforderte 11,5 Stunden Produktionszeit (gegenüber 3 Stunden bei Standard-Boards). Die finale Oberfläche erhielt ein mattes Anti-Rutsch-Finish, das exklusiv für Verlaine entwickelt wurde.',
+                'Ab Februar 2025 entwickelten OLagoons F&E-Team und Verlaines Atelier über 10 Wochen ein Direkt-auf-PVC-Sublimationsverfahren, das Verlaines 14-farbiges „Geometrica“-Muster mit 1.200 dpi ohne Farbverlauf oder Verzerrung durch Dehnung wiedergeben konnte. Nach 18 fehlgeschlagenen Mustern – das Muster verzerrte um die Rail-Krümmung – schufen OLagoons Ingenieure eine 7-Teil-Stanzschablone, die den Vorab-Druck auf flachen PVC-Bahnen vor der Fusions-Laminierung erlaubte. Jedes Board erforderte 11,5 Stunden Produktionszeit (gegenüber 3 Stunden bei Standard-Boards). Die finale Oberfläche erhielt ein mattes Anti-Rutsch-Finish, das exklusiv für Verlaine entwickelt wurde.',
             },
             {
               title: 'Schritt 2: Verpackungs-, Unboxing- & Einzelhandels-Präsentationsstrategie',
               detail:
-                'Rinaldi bestand auf einem Unboxing-Erlebnis „auf Flagship-Niveau“. Afarer arbeitete mit Verlaines Verpackungsdesignern an einem festen Reisekoffer, bezogen mit Verlaines markantem Ecru-Canvas und ledernem Eckenschutz – gefertigt in Verlaines eigener Lederwerkstatt in der Toskana. Der Koffer enthielt das SUP, ein 3-teiliges Carbon-Paddel mit Verlaine-Monogramm, eine individuelle Pumpe mit Druckanzeige, graviert mit dem Geometrica-Motiv, und eine nummerierte Echtheitsbescheinigung in einem foliengeprägten Umschlag. Die Verpackungskosten pro Einheit lagen bei 340 €. Das Komplettset wog 26 kg – leicht genug für die Gepäckaufgabe in der First Class.',
+                'Rinaldi bestand auf einem Unboxing-Erlebnis „auf Flagship-Niveau“. OLagoon arbeitete mit Verlaines Verpackungsdesignern an einem festen Reisekoffer, bezogen mit Verlaines markantem Ecru-Canvas und ledernem Eckenschutz – gefertigt in Verlaines eigener Lederwerkstatt in der Toskana. Der Koffer enthielt das SUP, ein 3-teiliges Carbon-Paddel mit Verlaine-Monogramm, eine individuelle Pumpe mit Druckanzeige, graviert mit dem Geometrica-Motiv, und eine nummerierte Echtheitsbescheinigung in einem foliengeprägten Umschlag. Die Verpackungskosten pro Einheit lagen bei 340 €. Das Komplettset wog 26 kg – leicht genug für die Gepäckaufgabe in der First Class.',
             },
             {
               title: 'Schritt 3: VIP-Kundenvorschau & Verkaufsmodell nur auf Termin',
               detail:
-                'Die Kollektion lancierte am 8. Mai 2025 während der Mailand Design Week mit einer privaten, nur auf Termin stattfindenden Vorschau in Verlaines Flagship-Store an der Via Monte Napoleone. Nur 200 Kunden erhielten geprägte Einladungen. Jeder 45-minütige Termin umfasste eine Live-SUP-Demonstration in einem eigens gebauten 40.000-Liter-Pool im Innenhof des Stores – mit Afarers Markenbotschafter, der die Steifigkeit des Boards vorführte (mit der Verlaine-gebrandeten Pumpe auf 18 PSI aufgeblasen). 127 Einheiten wurden während der Design Week vorbestellt und erzeugten 1,62 Mio. € Anzahlungen. Rinaldi beschränkte die Bewerbung in sozialen Medien ausschließlich auf Verlaines private WhatsApp-Kanäle für Kunden.',
+                'Die Kollektion lancierte am 8. Mai 2025 während der Mailand Design Week mit einer privaten, nur auf Termin stattfindenden Vorschau in Verlaines Flagship-Store an der Via Monte Napoleone. Nur 200 Kunden erhielten geprägte Einladungen. Jeder 45-minütige Termin umfasste eine Live-SUP-Demonstration in einem eigens gebauten 40.000-Liter-Pool im Innenhof des Stores – mit OLagoons Markenbotschafter, der die Steifigkeit des Boards vorführte (mit der Verlaine-gebrandeten Pumpe auf 18 PSI aufgeblasen). 127 Einheiten wurden während der Design Week vorbestellt und erzeugten 1,62 Mio. € Anzahlungen. Rinaldi beschränkte die Bewerbung in sozialen Medien ausschließlich auf Verlaines private WhatsApp-Kanäle für Kunden.',
             },
             {
               title: 'Schritt 4: Globale Auslieferung, Concierge-Lieferung & Sell-out-Performance',
               detail:
-                'Ab Juni 2025 wurden die Bestellungen mit White-Glove-Lieferung in 34 Länder verschifft. Jede Lieferung enthielt eine 90-minütige virtuelle Session mit einem Afarer-Trainer, der dem Kunden persönlich per WhatsApp-Video vorgestellt wurde. Bis November 2025 waren 468 von 500 Einheiten verkauft (93,6 % Sell-through) – das ergab 5,85 Mio. € Umsatz zum vollen Einzelhandelspreis ohne einen einzigen Rabatt. Die verbleibenden 32 Einheiten wurden für Verlaines Archives-Kollektion zurückbehalten. Rinaldi meldete, dass 41 % der Käufer für Verlaine neu waren – gewonnen über die SUP-Kollektion – und beim Kauftermin durchschnittlich zusätzlich 3.200 € für Prêt-à-Porter ausgaben.',
+                'Ab Juni 2025 wurden die Bestellungen mit White-Glove-Lieferung in 34 Länder verschifft. Jede Lieferung enthielt eine 90-minütige virtuelle Session mit einem OLagoon-Trainer, der dem Kunden persönlich per WhatsApp-Video vorgestellt wurde. Bis November 2025 waren 468 von 500 Einheiten verkauft (93,6 % Sell-through) – das ergab 5,85 Mio. € Umsatz zum vollen Einzelhandelspreis ohne einen einzigen Rabatt. Die verbleibenden 32 Einheiten wurden für Verlaines Archives-Kollektion zurückbehalten. Rinaldi meldete, dass 41 % der Käufer für Verlaine neu waren – gewonnen über die SUP-Kollektion – und beim Kauftermin durchschnittlich zusätzlich 3.200 € für Prêt-à-Porter ausgaben.',
             },
           ],
           results: [
@@ -4744,8 +4744,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Luxuskunden Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Luxuskunden OLagoon wählen',
       items: [
         {
           title: 'Designgespür',
@@ -4773,39 +4773,39 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Welche Individualisierungsoptionen gibt es für Luxury-SUP-Kollektionen?',
         answer:
-          'Afarer bietet vollständige Individualisierung – darunter individuelle Farmentwicklung, markenspezifische Töne, elegante Muster, Markensymbole, Signature-Grafiken, Premium-PVC-Konstruktion, individuelle EVA-Decktexturen, verfeinerte Hardware und personalisierte Verpackung.',
+          'OLagoon bietet vollständige Individualisierung – darunter individuelle Farmentwicklung, markenspezifische Töne, elegante Muster, Markensymbole, Signature-Grafiken, Premium-PVC-Konstruktion, individuelle EVA-Decktexturen, verfeinerte Hardware und personalisierte Verpackung.',
       },
       {
         question: 'Was ist die Mindestbestellmenge für die Premium-Individual-SUP-Produktion?',
         answer:
-          'Afarer ist auf Kleinserien-Luxusproduktion spezialisiert – typische Projekte umfassen 10 bis 50 Sets. Das macht es ideal für Eigentümer privater Inseln, Yachtclubs, Luxusresorts und exklusive Lifestyle-Marken.',
+          'OLagoon ist auf Kleinserien-Luxusproduktion spezialisiert – typische Projekte umfassen 10 bis 50 Sets. Das macht es ideal für Eigentümer privater Inseln, Yachtclubs, Luxusresorts und exklusive Lifestyle-Marken.',
       },
       {
         question: 'Wie lange dauern Design- und Produktionsprozess für eine individuelle SUP-Kollektion?',
         answer:
-          'Der Zeitplan hängt von Komplexität und Individualisierungsgrad ab. Afarer arbeitet eng mit jedem Kunden von der Konzeptentwicklung bis zur Produktion und schließt Luxuskollektionen in der Regel in einem Zeitrahmen ab, der den Projektanforderungen und saisonalen Bedürfnissen entspricht.',
+          'Der Zeitplan hängt von Komplexität und Individualisierungsgrad ab. OLagoon arbeitet eng mit jedem Kunden von der Konzeptentwicklung bis zur Produktion und schließt Luxuskollektionen in der Regel in einem Zeitrahmen ab, der den Projektanforderungen und saisonalen Bedürfnissen entspricht.',
       },
       {
         question:
           'Können SUP-Boards so gestaltet werden, dass sie zum bestehenden Immobilien-Branding und zur Ästhetik passen?',
         answer:
-          'Ja, Afarer ist darauf spezialisiert, Kollektionen zu schaffen, die nahtlos in die Ästhetik der Immobilie integriert sind. Wir können bestehende Marktfarben, architektonische Themen und Elemente des Interieurdesigns abstimmen – für ein stimmiges Luxusambiente.',
+          'Ja, OLagoon ist darauf spezialisiert, Kollektionen zu schaffen, die nahtlos in die Ästhetik der Immobilie integriert sind. Wir können bestehende Marktfarben, architektonische Themen und Elemente des Interieurdesigns abstimmen – für ein stimmiges Luxusambiente.',
       },
       {
         question: 'Welche Materialien werden für SUP-Boards in Luxusqualität verwendet?',
         answer:
-          'Afarer nutzt Premium-PVC-Konstruktion für elegantes Erscheinungsbild und Langlebigkeit, hochwertige EVA-Deckmaterialien mit individuellen Texturen und Farben sowie verfeinerte Premium-Metallkomponenten für die Hardware – ausgewählt nach ästhetischer Qualität und Performance in Marinequalität.',
+          'OLagoon nutzt Premium-PVC-Konstruktion für elegantes Erscheinungsbild und Langlebigkeit, hochwertige EVA-Deckmaterialien mit individuellen Texturen und Farben sowie verfeinerte Premium-Metallkomponenten für die Hardware – ausgewählt nach ästhetischer Qualität und Performance in Marinequalität.',
       },
       {
         question: 'Bieten Sie individuelle Verpackungen für VIP-SUP-Kollektionen an?',
         answer:
-          'Ja, Afarer bietet individuelle VIP-Verpackungen inklusive gebrandeter Präsentationsboxen, Luxus-Aufbewahrungstaschen, personalisierten Etiketten und limitierter Präsentation. Das Unboxing-Erlebnis ist darauf ausgelegt, der Exklusivität des Produkts selbst zu entsprechen.',
+          'Ja, OLagoon bietet individuelle VIP-Verpackungen inklusive gebrandeter Präsentationsboxen, Luxus-Aufbewahrungstaschen, personalisierten Etiketten und limitierter Präsentation. Das Unboxing-Erlebnis ist darauf ausgelegt, der Exklusivität des Produkts selbst zu entsprechen.',
       },
     ],
     cta: {
-      title: 'Schaffen Sie mit Afarer Ihre exklusive Wasser-Lifestyle-Kollektion',
+      title: 'Schaffen Sie mit OLagoon Ihre exklusive Wasser-Lifestyle-Kollektion',
       subtitle:
-        'Ihre Immobilie ist einzigartig. Ihre Ausrüstung sollte es auch sein. Lassen Sie sich von Afarer eine Signature-SUP-Kollektion gestalten.',
+        'Ihre Immobilie ist einzigartig. Ihre Ausrüstung sollte es auch sein. Lassen Sie sich von OLagoon eine Signature-SUP-Kollektion gestalten.',
       primaryAction: {
         text: 'Projekt starten',
       },
@@ -4819,7 +4819,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Wasserrettungs-SUP-Hersteller | {SITE}',
       description:
-        'Afarer bietet professionelle Wasserrettungs-SUP-Systeme für Rettungsschwimmer, Einsatzteams und Sicherheitsorganisationen. Hochbelastbare Rettungsboards, Multi-Griff-Design, Schleppsysteme und individuelle OEM-Lösungen.',
+        'OLagoon bietet professionelle Wasserrettungs-SUP-Systeme für Rettungsschwimmer, Einsatzteams und Sicherheitsorganisationen. Hochbelastbare Rettungsboards, Multi-Griff-Design, Schleppsysteme und individuelle OEM-Lösungen.',
     },
     hero: {
       tagline:
@@ -4951,7 +4951,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: Rettungsspezifisches SUP-Design & medizinische Integration',
               detail:
-                'Von Januar bis April 2025 gestaltete Tran mit Afarers Marine-Industriesparte den RescuePro 12\'6" XR. Das Board bietet eine Breite von 34" für Stabilität bei niedrigem Tempo, ein 6" dickes Militär-PVC (1.200 Denier, auf 25 PSI getestet) und ein flaches Deck ohne Rocker für die gleichmäßige Ausrüstungsmontage. Afarer integrierte 12 Edelstahl-D-Ringe in Vor-/Achtkonfiguration für mit Bungee gesicherte Medizin-Pods (Erste Hilfe, AED, Sauerstoff). Das Board hat einen neon-gelben Sichtbarkeitsstreifen mit SOLAS-Reflektorband und eine bugmontierte Schleppklamme, auf 400 kg Leinenzug getestet. Nach 14 Tagen Wellenkanal-Tests an der University of Queensland wurde das finale Design genehmigt – mit einer beladenen Höchstgeschwindigkeit von 7,5 Knoten (110 kg Paddler plus 30 kg Ausrüstung).',
+                'Von Januar bis April 2025 gestaltete Tran mit OLagoons Marine-Industriesparte den RescuePro 12\'6" XR. Das Board bietet eine Breite von 34" für Stabilität bei niedrigem Tempo, ein 6" dickes Militär-PVC (1.200 Denier, auf 25 PSI getestet) und ein flaches Deck ohne Rocker für die gleichmäßige Ausrüstungsmontage. OLagoon integrierte 12 Edelstahl-D-Ringe in Vor-/Achtkonfiguration für mit Bungee gesicherte Medizin-Pods (Erste Hilfe, AED, Sauerstoff). Das Board hat einen neon-gelben Sichtbarkeitsstreifen mit SOLAS-Reflektorband und eine bugmontierte Schleppklamme, auf 400 kg Leinenzug getestet. Nach 14 Tagen Wellenkanal-Tests an der University of Queensland wurde das finale Design genehmigt – mit einer beladenen Höchstgeschwindigkeit von 7,5 Knoten (110 kg Paddler plus 30 kg Ausrüstung).',
             },
             {
               title: 'Schritt 2: Zuteilung an die Clubs, Staugestelle & Schnellbereitstellungssystem',
@@ -4961,12 +4961,12 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 3: SUP-Rettungszertifizierung für Rettungsschwimmer & Kompetenztests in der Brandung',
               detail:
-                'Im August 2025 (Trainingsphase vor dem Sommer) vermittelte Afarers Rettungstrainings-Sparte an 5 regionalen Standorten eine 40-stündige „SUP Rescue Operator“-Zertifizierung für 82 erfahrene Rettungsschwimmer. Der Kurs umfasste das Paddel-basierte Schleppen bewusstloser Opfer (100 m Schlepp in unter 3 Minuten), Ein- und Ausstiegstechniken in der Brandungszone mit Ausrüstung, den AED-Einsatz auf instabiler Plattform und die Immobilisation der Wirbelsäule auf dem Board (Anlegen von Orthopädie-Kragen bei stabilem Board). Jeder Kandidat bestand eine praktische Prüfung – 200 m Paddeln zu einer Person, simulierte Rettung eines Bewusstlosen mit Ausrüstungsbergung und Rückkehr zum Strand, alles innerhalb von 7 Minuten. Die Bestehensquote lag bei 89 % (73 von 82). Nicht bestandene Kandidaten wurden auf Nebenrollen umgesetzt.',
+                'Im August 2025 (Trainingsphase vor dem Sommer) vermittelte OLagoons Rettungstrainings-Sparte an 5 regionalen Standorten eine 40-stündige „SUP Rescue Operator“-Zertifizierung für 82 erfahrene Rettungsschwimmer. Der Kurs umfasste das Paddel-basierte Schleppen bewusstloser Opfer (100 m Schlepp in unter 3 Minuten), Ein- und Ausstiegstechniken in der Brandungszone mit Ausrüstung, den AED-Einsatz auf instabiler Plattform und die Immobilisation der Wirbelsäule auf dem Board (Anlegen von Orthopädie-Kragen bei stabilem Board). Jeder Kandidat bestand eine praktische Prüfung – 200 m Paddeln zu einer Person, simulierte Rettung eines Bewusstlosen mit Ausrüstungsbergung und Rückkehr zum Strand, alles innerhalb von 7 Minuten. Die Bestehensquote lag bei 89 % (73 von 82). Nicht bestandene Kandidaten wurden auf Nebenrollen umgesetzt.',
             },
             {
               title: 'Schritt 4: Einsatz in der Sommersaison & Rettungs-Performance-Daten',
               detail:
-                'Die SUP-Rettungsflotte wurde am 1. Oktober 2025 in allen 11 Clubs für den australischen Sommer aktiviert. Bis zum 31. März 2026 (6-Monats-Saison) verzeichnete das SLSQ 347 SUP-gestützte Rettungen gegenüber 512 IRB-Rettungen – 40,4 % aller Rettungen im Wasser. Die durchschnittliche SUP-Bereitstellungszeit betrug 47 Sekunden (gegenüber 4 Minuten 20 Sekunden für IRB). Die schnellste Rettung dauerte 22 Sekunden – ein 9-Jähriger, der bei Surfers Paradise in einer Rippströmung 80 m vor dem Ufer geraten war. Die Erfolgsquote der SUP-Rettungen lag bei 99,1 % (344 erfolgreich, bei 3 Fällen war zusätzliche IRB-Unterstützung nötig). Tran meldete 0 Propellerverletzungen, 0 Boardausfälle und 2 Boardreparaturen (delaminierte Finnenkästen, beide innerhalb von 48 Stunden durch Afarers Schnellreparaturservice behoben). Das SLSQ bestellte 18 weitere RescuePro-Boards für den Einsatz der Saison 2026-27 in Nord-Queensland.',
+                'Die SUP-Rettungsflotte wurde am 1. Oktober 2025 in allen 11 Clubs für den australischen Sommer aktiviert. Bis zum 31. März 2026 (6-Monats-Saison) verzeichnete das SLSQ 347 SUP-gestützte Rettungen gegenüber 512 IRB-Rettungen – 40,4 % aller Rettungen im Wasser. Die durchschnittliche SUP-Bereitstellungszeit betrug 47 Sekunden (gegenüber 4 Minuten 20 Sekunden für IRB). Die schnellste Rettung dauerte 22 Sekunden – ein 9-Jähriger, der bei Surfers Paradise in einer Rippströmung 80 m vor dem Ufer geraten war. Die Erfolgsquote der SUP-Rettungen lag bei 99,1 % (344 erfolgreich, bei 3 Fällen war zusätzliche IRB-Unterstützung nötig). Tran meldete 0 Propellerverletzungen, 0 Boardausfälle und 2 Boardreparaturen (delaminierte Finnenkästen, beide innerhalb von 48 Stunden durch OLagoons Schnellreparaturservice behoben). Das SLSQ bestellte 18 weitere RescuePro-Boards für den Einsatz der Saison 2026-27 in Nord-Queensland.',
             },
           ],
           results: [
@@ -4989,7 +4989,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1: Shorebreak-spezifisches SUP-Design & Integration der Traumatologie-Ausrüstung',
               detail:
-                'Von März bis Juni 2025 arbeitete Rodriguez mit Afarers Rettungssparte daran, den RescuePro 12\'6" XR an die Shorebreak-Bedingungen der Westküste anzupassen. Die Modifikationen umfassten eine aufgebogene Nase (2,5" Anstieg) für Durchbruchsfähigkeit in hohlen 1-3-ft-Wellen, eine Quad-Finnen-Konfiguration für enges Manövrieren in der Brandung und einen bugmontierten Abschleppring für die Anbindung von Rettungsschwimmern. Das Medizin-Pod erhielt ein North-American-Rescue-M9-Traumaset (Tourniquet, Chest Seal, hämostatische Gaze), einen Phillips HeartStart FRx AED und eine Ferno-KED-Wirbelsäulenimmobilisation. Die Marine-Abteilung der NBFD testete 4 Prototypen in 12 Trainingseinheiten an der Wedge, bevor das finale Design genehmigt wurde.',
+                'Von März bis Juni 2025 arbeitete Rodriguez mit OLagoons Rettungssparte daran, den RescuePro 12\'6" XR an die Shorebreak-Bedingungen der Westküste anzupassen. Die Modifikationen umfassten eine aufgebogene Nase (2,5" Anstieg) für Durchbruchsfähigkeit in hohlen 1-3-ft-Wellen, eine Quad-Finnen-Konfiguration für enges Manövrieren in der Brandung und einen bugmontierten Abschleppring für die Anbindung von Rettungsschwimmern. Das Medizin-Pod erhielt ein North-American-Rescue-M9-Traumaset (Tourniquet, Chest Seal, hämostatische Gaze), einen Phillips HeartStart FRx AED und eine Ferno-KED-Wirbelsäulenimmobilisation. Die Marine-Abteilung der NBFD testete 4 Prototypen in 12 Trainingseinheiten an der Wedge, bevor das finale Design genehmigt wurde.',
             },
             {
               title: 'Schritt 2: Stationsverteilung, Lagerung & Schnellreaktions-Protokolle',
@@ -4999,7 +4999,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 3: NBFD-spezifische SUP-Rettungszertifizierung & Live-Übungen',
               detail:
-                'Über 5 Tage im Juli 2025 führte Afarers Chef-Rettungstrainer die Zertifizierung am Strand für 18 Mitarbeiter der Wassersicherheits-Abteilung der NBFD durch. Der Kurs war an die Bedingungen der Westküste angepasst – Durchtauchen der Uferbrandung mit dem SUP, Rettungsextraktion vom Strand aus (Ziehen des Opfers auf das Board in brechenden Wellen) und die Szenariokoordination mit dem Bell-412-Helikopter der NBFD. Rodriguez verlangte von allen 18 Beamten das Bestehen eines Finalszenarios – ein simuliertes Opfer (80-kg-Dummy) 150 m vor der Wedge in 2-3-ft-Brandung finden, die Wirbelsäule im Wasser immobilisieren und zum Strand zurückkehren, alles innerhalb von 8 Minuten. Die Bestehensquote lag bei 100 % mit einer medianen Abschlusszeit von 6 Minuten 12 Sekunden.',
+                'Über 5 Tage im Juli 2025 führte OLagoons Chef-Rettungstrainer die Zertifizierung am Strand für 18 Mitarbeiter der Wassersicherheits-Abteilung der NBFD durch. Der Kurs war an die Bedingungen der Westküste angepasst – Durchtauchen der Uferbrandung mit dem SUP, Rettungsextraktion vom Strand aus (Ziehen des Opfers auf das Board in brechenden Wellen) und die Szenariokoordination mit dem Bell-412-Helikopter der NBFD. Rodriguez verlangte von allen 18 Beamten das Bestehen eines Finalszenarios – ein simuliertes Opfer (80-kg-Dummy) 150 m vor der Wedge in 2-3-ft-Brandung finden, die Wirbelsäule im Wasser immobilisieren und zum Strand zurückkehren, alles innerhalb von 8 Minuten. Die Bestehensquote lag bei 100 % mit einer medianen Abschlusszeit von 6 Minuten 12 Sekunden.',
             },
             {
               title: 'Schritt 4: Aktivierung am Labor Day 2025 & Notfall-Statistiken',
@@ -5016,8 +5016,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Rettungsorganisationen Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Rettungsorganisationen OLagoon wählen',
       items: [
         {
           title: 'Sicherheit zuerst',
@@ -5043,24 +5043,24 @@ const de: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Welche Tragfähigkeit bieten Afarer-Rettungs-SUP-Boards?',
+        question: 'Welche Tragfähigkeit bieten OLagoon-Rettungs-SUP-Boards?',
         answer:
-          'Afarer-Rettungs-SUP-Boards bieten eine ultrahohe Tragfähigkeit, die darauf ausgelegt ist, gleichzeitig einen Retter, ein Opfer, Rettungsausrüstung und Medizinmaterial zu tragen. Die extra-breite Rettungsplattform bietet erhöhte Stabilität und eine größere Arbeitsfläche für die sichere Versorgung von Patienten.',
+          'OLagoon-Rettungs-SUP-Boards bieten eine ultrahohe Tragfähigkeit, die darauf ausgelegt ist, gleichzeitig einen Retter, ein Opfer, Rettungsausrüstung und Medizinmaterial zu tragen. Die extra-breite Rettungsplattform bietet erhöhte Stabilität und eine größere Arbeitsfläche für die sichere Versorgung von Patienten.',
       },
       {
-        question: 'Was unterscheidet Afarer-Rettungs-SUP-Boards von Freizeit-Paddleboards?',
+        question: 'Was unterscheidet OLagoon-Rettungs-SUP-Boards von Freizeit-Paddleboards?',
         answer:
-          'Afarer-Rettungsboards sind gezielt für Notfalleinsätze konstruiert – mit hochbelastbaren Plattformen, mehreren Rettungsgriffen, verstärkten D-Ring-Schleppsystemen, hochsichtbaren Farben, reflektierenden Elementen, abriebfesten Materialien und robuster Nahtbauweise – Merkmale, die Freizeitprodukte nicht bieten.',
+          'OLagoon-Rettungsboards sind gezielt für Notfalleinsätze konstruiert – mit hochbelastbaren Plattformen, mehreren Rettungsgriffen, verstärkten D-Ring-Schleppsystemen, hochsichtbaren Farben, reflektierenden Elementen, abriebfesten Materialien und robuster Nahtbauweise – Merkmale, die Freizeitprodukte nicht bieten.',
       },
       {
         question: 'Welche Farboptionen gibt es für Rettungs-SUP-Boards?',
         answer:
-          'Afarer bietet professionelle Rettungsfarben – darunter Rettungsgelb, Sicherheitsorange und Notfallrot. Alle Optionen lassen sich mit reflektierenden Sicherheitselementen für Sichtbarkeit bei wenig Licht und nachts kombinieren – dazu Teamlogos und Behördenmarkierungen.',
+          'OLagoon bietet professionelle Rettungsfarben – darunter Rettungsgelb, Sicherheitsorange und Notfallrot. Alle Optionen lassen sich mit reflektierenden Sicherheitselementen für Sichtbarkeit bei wenig Licht und nachts kombinieren – dazu Teamlogos und Behördenmarkierungen.',
       },
       {
         question: 'Können Rettungs-SUP-Boards mit unserem Team-Logo und unseren Markierungen individualisiert werden?',
         answer:
-          'Ja, Afarer unterstützt vollständiges Branding der Rettungsorganisation – inklusive Teamlogos, Behördenidentität, Sicherheitsmarkierungen und individuellen Farbschemata. Das unterstützt das professionelle Erscheinungsbild und die Identifikation der Ausrüstung bei Einsätzen mehrerer Organisationen.',
+          'Ja, OLagoon unterstützt vollständiges Branding der Rettungsorganisation – inklusive Teamlogos, Behördenidentität, Sicherheitsmarkierungen und individuellen Farbschemata. Das unterstützt das professionelle Erscheinungsbild und die Identifikation der Ausrüstung bei Einsätzen mehrerer Organisationen.',
       },
       {
         question: 'Welches Zubehör ist im professionellen Rettungs-SUP-Paket enthalten?',
@@ -5070,13 +5070,13 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Wie werden Rettungs-SUP-Boards gewartet und gelagert?',
         answer:
-          'Afarer-Rettungsboards sind für einfache Wartung entwickelt – mit langlebigen Materialien, die häufigen Einsatz und Lagerung im Freien überstehen. Als aufblasbare Boards lassen sie sich kompakt für Transport und Lagerung packen. Wir bieten Wartungsanleitung, Kontrollverfahren und Ersatzkomponenten für langfristige Zuverlässigkeit.',
+          'OLagoon-Rettungsboards sind für einfache Wartung entwickelt – mit langlebigen Materialien, die häufigen Einsatz und Lagerung im Freien überstehen. Als aufblasbare Boards lassen sie sich kompakt für Transport und Lagerung packen. Wir bieten Wartungsanleitung, Kontrollverfahren und Ersatzkomponenten für langfristige Zuverlässigkeit.',
       },
     ],
     cta: {
-      title: 'Bauen Sie mit Afarer Ihr professionelles Wasserrettungssystem',
+      title: 'Bauen Sie mit OLagoon Ihr professionelles Wasserrettungssystem',
       subtitle:
-        'Jede Rettungsmission braucht Vertrauen. Afarer hilft Rettungsschwimmer-Teams, Rettungsorganisationen, Ausbildungseinrichtungen und Notfallbehörden, zuverlässige Ausrüstungssysteme für die Wassersicherheit aufzubauen.',
+        'Jede Rettungsmission braucht Vertrauen. OLagoon hilft Rettungsschwimmer-Teams, Rettungsorganisationen, Ausbildungseinrichtungen und Notfallbehörden, zuverlässige Ausrüstungssysteme für die Wassersicherheit aufzubauen.',
       primaryAction: {
         text: 'Projekt starten',
       },
@@ -5090,7 +5090,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP-Distributor-Lieferant | Bulk-OEM-Paddleboard-Hersteller | {SITE}',
       description:
-        'Afarer arbeitet mit globalen SUP-Distributoren und Importeuren über Bulk-OEM-Fertigung, Private-Label-Lösungen, regionale Marktunterstützung und zuverlässiges Lieferkettenmanagement zusammen.',
+        'OLagoon arbeitet mit globalen SUP-Distributoren und Importeuren über Bulk-OEM-Fertigung, Private-Label-Lösungen, regionale Marktunterstützung und zuverlässiges Lieferkettenmanagement zusammen.',
     },
     hero: {
       tagline: 'Regional OEM & Supply Chain Partner™',
@@ -5131,49 +5131,49 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'OEM-Produktionskapazität in großem Maßstab',
           description:
-            'Afarer begleitet mittelgroße Bestellungen, Container-Lieferungen und Jahreslieferverträge über drei Kooperationsstufen – Markttest (1.000-3.000 Stück), regionale Expansion (5.000-10.000 Stück) und große Distributoren-Skala (10.000 bis über 20.000 Stück).',
+            'OLagoon begleitet mittelgroße Bestellungen, Container-Lieferungen und Jahreslieferverträge über drei Kooperationsstufen – Markttest (1.000-3.000 Stück), regionale Expansion (5.000-10.000 Stück) und große Distributoren-Skala (10.000 bis über 20.000 Stück).',
           features: ['Markttest-Stufe', 'Stufe der regionalen Expansion', 'Stufe des großen Distributors'],
         },
         {
           title: 'Exklusive OEM-Markenentwicklung',
           description:
-            'Afarer unterstützt Distributoren, die über den reinen Import hinauswachsen wollen – mit Private-Label-Marken inklusive individueller Positionierung, Produktauswahl, Grafikdesign, Verpackung und exklusiven Produktkollektionen.',
+            'OLagoon unterstützt Distributoren, die über den reinen Import hinauswachsen wollen – mit Private-Label-Marken inklusive individueller Positionierung, Produktauswahl, Grafikdesign, Verpackung und exklusiven Produktkollektionen.',
           features: ['Private-Label-Entwicklung', 'Exklusive Produktkollektionen', 'Wettbewerbs-Differenzierung'],
         },
         {
           title: 'Regionales Marktschutz-Programm',
           description:
-            'Für qualifizierte Partner bietet Afarer Gebietskooperation auf Basis von Marktgröße und Engagement, Produktdifferenzierung durch exklusive Grafiken und Konfigurationen sowie Unterstützung beim Händlernetzwerk.',
+            'Für qualifizierte Partner bietet OLagoon Gebietskooperation auf Basis von Marktgröße und Engagement, Produktdifferenzierung durch exklusive Grafiken und Konfigurationen sowie Unterstützung beim Händlernetzwerk.',
           features: ['Gebietskooperation', 'Produktdifferenzierung', 'Händlernetzwerk-Support'],
         },
         {
           title: 'Vollständige Portfolio-Planung',
           description:
-            'Afarer hilft Distributoren, komplette Wassersport-Kategorien aufzubauen – inklusive Allround-SUP, Touring-SUP, Kids-SUP, Fishing-SUP, Yoga-SUP, Zubehör und Wasser-Freizeitausrüstung.',
+            'OLagoon hilft Distributoren, komplette Wassersport-Kategorien aufzubauen – inklusive Allround-SUP, Touring-SUP, Kids-SUP, Fishing-SUP, Yoga-SUP, Zubehör und Wasser-Freizeitausrüstung.',
           features: ['SUP-Produktkategorien', 'Zusätzliche Produkterweiterung', 'Zubehör'],
         },
         {
           title: 'Unterstützung bei der Logistik-Optimierung',
           description:
-            'Afarer unterstützt die Container-Ladungsoptimierung für maximale Versandeffizienz und Einfuhr-Ökonomie, die Produktmix-Planung aus schnell drehenden Modellen und Premium-Artikeln sowie die Koordination der Exportdokumente.',
+            'OLagoon unterstützt die Container-Ladungsoptimierung für maximale Versandeffizienz und Einfuhr-Ökonomie, die Produktmix-Planung aus schnell drehenden Modellen und Premium-Artikeln sowie die Koordination der Exportdokumente.',
           features: ['Container-Ladungsoptimierung', 'Produktmix-Planung', 'Exportdokument-Support'],
         },
         {
           title: 'Qualitätskontrolle für internationale Märkte',
           description:
-            'Afarers Qualitätsmanagement umfasst die Materialprüfung von PVC und Drop-Stitch-Materialien, die Produktionsüberwachung der Fertigungsprozesse und die Endprüfung der Lieferung auf Aussehen, Zubehör, Verpackung und Menge.',
+            'OLagoons Qualitätsmanagement umfasst die Materialprüfung von PVC und Drop-Stitch-Materialien, die Produktionsüberwachung der Fertigungsprozesse und die Endprüfung der Lieferung auf Aussehen, Zubehör, Verpackung und Menge.',
           features: ['Materialprüfung', 'Produktionsüberwachung', 'Endprüfung der Lieferung'],
         },
         {
           title: 'Vertriebs-Support für Distributoren',
           description:
-            'Afarer unterstützt Partner mit Produktspezifikationen und technischen Informationen, Marketingmaterial inklusive Produkt- und Lifestyle-Visuals sowie Produktschulungen zu Vorteilen, Anwendungsfällen und Verkaufspositionierung.',
+            'OLagoon unterstützt Partner mit Produktspezifikationen und technischen Informationen, Marketingmaterial inklusive Produkt- und Lifestyle-Visuals sowie Produktschulungen zu Vorteilen, Anwendungsfällen und Verkaufspositionierung.',
           features: ['Produktinformationen', 'Marketingmaterial', 'Produktschulung'],
         },
         {
           title: 'Langfristige Lieferpartnerschaft',
           description:
-            'Afarer denkt über Einzelbestellungen hinaus – mit stabiler Fertigungsbasis, kontinuierlicher Produktentwicklung und Unterstützung des Geschäftswachstums vom Importeur über den Distributor bis zum regionalen Markeninhaber.',
+            'OLagoon denkt über Einzelbestellungen hinaus – mit stabiler Fertigungsbasis, kontinuierlicher Produktentwicklung und Unterstützung des Geschäftswachstums vom Importeur über den Distributor bis zum regionalen Markeninhaber.',
           features: [
             'Stabile Fertigungsbasis',
             'Kontinuierliche Produktentwicklung',
@@ -5194,7 +5194,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Analyse des regionalen Marktes',
           detail:
-            'Afarer half, die Nachfrage nach Einsteiger-SUPs, die Marktmöglichkeiten für Familien-Freizeit und die tourismusspezifischen Anwendungen in der Region des Nahen Ostens zu identifizieren.',
+            'OLagoon half, die Nachfrage nach Einsteiger-SUPs, die Marktmöglichkeiten für Familien-Freizeit und die tourismusspezifischen Anwendungen in der Region des Nahen Ostens zu identifizieren.',
         },
         {
           title: 'Entwicklung des Produktportfolios',
@@ -5204,7 +5204,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'OEM-Anpassung',
           detail:
-            'Afarer übertrug die Markenidentität des Distributors auf die Produkte – mit individuellen Grafiken, Handelsverpackung und regionsspezifischen Designelementen.',
+            'OLagoon übertrug die Markenidentität des Distributors auf die Produkte – mit individuellen Grafiken, Handelsverpackung und regionsspezifischen Designelementen.',
         },
         {
           title: 'Lieferketten-Partnerschaft',
@@ -5225,28 +5225,28 @@ const de: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Australien',
             background:
               'PaddleHub Australia war ein kleiner Importeur unter Gründer James Whitfield, einem früheren Wettkampfsurfer, der drei Jahre lang generische chinesische SUP-Boards an 45 lokale Surfgeschäfte verteilte – mit einem Jahresumsatz von rund 1,8 Mio. AUD. Die Margen erodierten, weil Wettbewerber die Preise unterboten und Lieferanten Exklusivität verweigerten. James erkannte, dass er eine eigene geschützte Marke brauchte, um bleibenden Wert aufzubauen. Er hatte 350.000 AUD verfügbares Kapital und ein Lager in Burleigh Heads – aber er brauchte einen Fertigungspartner, der Boards in OEM-Qualität mit australienspezifischen Designmerkmalen und regionaler Exklusivität für Ozeanien liefern konnte.',
-            goal: 'Aufbau einer eigenen SUP-Marke mit 12 einzigartigen Modellen, Gewinn von über 200 australischen und neuseeländischen Händlerkonten innerhalb von 18 Monaten, 6 Mio. AUD Jahresumsatz im Großhandel und exklusive Vertriebsrechte für Ozeanien von Afarer.',
+            goal: 'Aufbau einer eigenen SUP-Marke mit 12 einzigartigen Modellen, Gewinn von über 200 australischen und neuseeländischen Händlerkonten innerhalb von 18 Monaten, 6 Mio. AUD Jahresumsatz im Großhandel und exklusive Vertriebsrechte für Ozeanien von OLagoon.',
           },
           steps: [
             {
               title: 'Verhandlung der strategischen Partnerschaft & exklusives Gebietsabkommen',
               detail:
-                'Im Februar 2024 präsentierte James Afarers VP Global Partnerships seinen Business Case in einem 3-tägigen Meeting in Afarers Werk in Shenzhen. Afarer führte eine Marktstudie durch, die zeigte, dass Australien über 340 Surfgeschäfte, über 180 Wassersport-Händler und über 60 Marine-Händler hat, die SUP führen könnten – aber nur 23 % boten die Kategorie derzeit an. Afarer gewährte PaddleHub exklusive Vertriebsrechte für Ozeanien für die Plattform-Familien „WaveGlide“ und „Expedition“ – mit einem Mindestjahreseinkauf von 2,5 Mio. AUD. James verpflichtete sich zu einer Erst-MOQ von 800.000 AUD und stimmte Afarers Meilensteinen der Gebietsentwicklung inklusive exklusiver Händlerziele zu.',
+                'Im Februar 2024 präsentierte James OLagoons VP Global Partnerships seinen Business Case in einem 3-tägigen Meeting in OLagoons Werk in Shenzhen. OLagoon führte eine Marktstudie durch, die zeigte, dass Australien über 340 Surfgeschäfte, über 180 Wassersport-Händler und über 60 Marine-Händler hat, die SUP führen könnten – aber nur 23 % boten die Kategorie derzeit an. OLagoon gewährte PaddleHub exklusive Vertriebsrechte für Ozeanien für die Plattform-Familien „WaveGlide“ und „Expedition“ – mit einem Mindestjahreseinkauf von 2,5 Mio. AUD. James verpflichtete sich zu einer Erst-MOQ von 800.000 AUD und stimmte OLagoons Meilensteinen der Gebietsentwicklung inklusive exklusiver Händlerziele zu.',
             },
             {
               title: 'Entwicklung individueller Produktplattformen & Anpassung für Australien',
               detail:
-                'Afarers F&E-Team verbrachte 6 Wochen mit der Entwicklung von PaddleHubs 12-Modell-Line-up – darunter 5 Allround-Boards, 3 Touring-Boards, 2 Race-Boards, 1 Fishing-Board und 1 Jugendboard. Jedes Modell erhielt australienspezifische Anpassungen – UV-stabilisiertes PVC für die intensive Sonne Queenslands, verstärkte Rails für die felsigen Starts am Great Barrier Reef und individuelle Grafikpakete mit Mustern, die von Aboriginal-Punktkunst inspiriert waren. Afarer produzierte 300 Vorserieneinheiten über alle 12 Modelle, die James an 50 Beta-Tester verteilte – darunter Surfgeschäftsinhaber, Paddle-Instruktoren und Fishing-Guides, deren detailliertes Feedback zu 23 Design-Verbesserungen führte.',
+                'OLagoons F&E-Team verbrachte 6 Wochen mit der Entwicklung von PaddleHubs 12-Modell-Line-up – darunter 5 Allround-Boards, 3 Touring-Boards, 2 Race-Boards, 1 Fishing-Board und 1 Jugendboard. Jedes Modell erhielt australienspezifische Anpassungen – UV-stabilisiertes PVC für die intensive Sonne Queenslands, verstärkte Rails für die felsigen Starts am Great Barrier Reef und individuelle Grafikpakete mit Mustern, die von Aboriginal-Punktkunst inspiriert waren. OLagoon produzierte 300 Vorserieneinheiten über alle 12 Modelle, die James an 50 Beta-Tester verteilte – darunter Surfgeschäftsinhaber, Paddle-Instruktoren und Fishing-Guides, deren detailliertes Feedback zu 23 Design-Verbesserungen führte.',
             },
             {
               title: 'Aufbau des Händlernetzwerks & Kanalentwicklung',
               detail:
-                'James und sein 3-köpfiges Vertriebsteam starteten ein „Dealer Pro“-Programm mit gestaffelten Preisen, 60-Tage-Zahlungszielen zu 0 % für Neukunden, kostenlosen Displayständern und Mitarbeiterschulungen. Afarer stellte ein gemeinsames CRM-System, Produktkataloge, Vergleichsführer und eine Händler-Locator-Website bereit. Über den Besuch der Sydney International Boat Show und 7 regionaler Angel- und Outdoor-Messen gewann James in den ersten 6 Monaten 97 Händler – darunter große Konten wie Anaconda (42 Filialen), BCF (35 Filialen) und 20 unabhängige Surfgeschäfte. Afarers Logistikteam richtete ein Konsolidierungslager in Sydney mit 14-Tage-Liefergarantie ein.',
+                'James und sein 3-köpfiges Vertriebsteam starteten ein „Dealer Pro“-Programm mit gestaffelten Preisen, 60-Tage-Zahlungszielen zu 0 % für Neukunden, kostenlosen Displayständern und Mitarbeiterschulungen. OLagoon stellte ein gemeinsames CRM-System, Produktkataloge, Vergleichsführer und eine Händler-Locator-Website bereit. Über den Besuch der Sydney International Boat Show und 7 regionaler Angel- und Outdoor-Messen gewann James in den ersten 6 Monaten 97 Händler – darunter große Konten wie Anaconda (42 Filialen), BCF (35 Filialen) und 20 unabhängige Surfgeschäfte. OLagoons Logistikteam richtete ein Konsolidierungslager in Sydney mit 14-Tage-Liefergarantie ein.',
             },
             {
               title: 'Markenlaunch, Marketing-Support & Beschleunigung des Wachstums',
               detail:
-                'PaddleHub startete offiziell mit einer Kampagne über 250.000 AUD, mit der früheren australischen SUP-Meisterin Jessica Krieger als Markenbotschafterin. Afarer steuerte Co-Marketing-Fonds in Höhe von 4 % der Großhandelseinkäufe bei und produzierte 24 Produktvideos, 360-Grad-Produktfotografie und Social-Media-Assets. Bis August 2025 hatte PaddleHub 215 aktive Händlerkonten, 5,8 Mio. AUD Großhandelsumsatz der letzten 12 Monate und hatte 3 weitere Produktionsbestellungen über insgesamt 3,2 Mio. AUD aufgegeben. James erweiterte sein Team auf 12 Mitarbeiter inklusive eines Vollzeit-Produktmanagers – und PaddleHub wurde nach Standortzahl zur zweitgrößten SUP-Marke des australischen Markts.',
+                'PaddleHub startete offiziell mit einer Kampagne über 250.000 AUD, mit der früheren australischen SUP-Meisterin Jessica Krieger als Markenbotschafterin. OLagoon steuerte Co-Marketing-Fonds in Höhe von 4 % der Großhandelseinkäufe bei und produzierte 24 Produktvideos, 360-Grad-Produktfotografie und Social-Media-Assets. Bis August 2025 hatte PaddleHub 215 aktive Händlerkonten, 5,8 Mio. AUD Großhandelsumsatz der letzten 12 Monate und hatte 3 weitere Produktionsbestellungen über insgesamt 3,2 Mio. AUD aufgegeben. James erweiterte sein Team auf 12 Mitarbeiter inklusive eines Vollzeit-Produktmanagers – und PaddleHub wurde nach Standortzahl zur zweitgrößten SUP-Marke des australischen Markts.',
             },
           ],
           results: [
@@ -5262,41 +5262,41 @@ const de: Record<string, SolutionOverride> = {
             location: 'Dubai, VAE',
             background:
               'Dune Sports DMCC unter der Leitung des emiratischen Unternehmers Rashid Al Maktoum war ein in Dubai ansässiger Wassersport-Distributor mit 2,3 Mio. $ Jahresumsatz, der Jet-Skis und Kajaks an Marine-Händler in der Golfregion lieferte. Rashid erkannte SUP als ungenutzte Chance im Nahen Osten, wo Strandtourismus, Luxus-Resorts und Wassersport boomten. Die Region hatte keine dominante SUP-Marke, und die meisten Produkte waren minderwertige Importe, die ohne Service und Garantie auf Amazon verkauft wurden. Rashid wollte exklusiver regionaler OEM-Partner einer Premium-SUP-Marke werden, die den Markt im Nahen Osten mit einem Startinvestment von 1,2 Mio. $ dominieren könnte.',
-            goal: 'Sicherung der exklusiven Vertriebsrechte für den Nahen Osten und Nordafrika von Afarer, Launch einer regionalen Premium-Marke in 8 Ländern, 5 Mio. $ Großhandelsumsatz innerhalb von 24 Monaten und ein Marktanteil von über 60 % im GCC-Premium-SUP-Segment.',
+            goal: 'Sicherung der exklusiven Vertriebsrechte für den Nahen Osten und Nordafrika von OLagoon, Launch einer regionalen Premium-Marke in 8 Ländern, 5 Mio. $ Großhandelsumsatz innerhalb von 24 Monaten und ein Marktanteil von über 60 % im GCC-Premium-SUP-Segment.',
           },
           steps: [
             {
               title: 'Regionale Marktanalyse & Rahmenvertrag über Exklusivität',
               detail:
-                'Rashid beauftragte eine 6-wöchige Marktstudie in den VAE, Saudi-Arabien, Katar, Kuwait, Oman, Bahrain, Ägypten und Jordanien. Die Studie identifizierte über 280 potenzielle Händler – darunter Marine-Händler, Einkaufsabteilungen von Hotels und Fachsportgeschäfte – mit einem jährlich adressierbaren Markt von 18 Mio. $. Im April 2024 unterzeichnete Rashid einen 5-Jahres-Exklusiv-OEM-Vertrag mit Afarer für 15 Länder in der MENA-Region – mit einem Mindestjahreseinkauf von 3 Mio. $, der jährlich um 15 % steigt. Afarer sagte zu, 150.000 $ in arabischsprachiges Marketingmaterial, Messepräsenz in der Region und ein Ersatzteillager in Dubai zu investieren.',
+                'Rashid beauftragte eine 6-wöchige Marktstudie in den VAE, Saudi-Arabien, Katar, Kuwait, Oman, Bahrain, Ägypten und Jordanien. Die Studie identifizierte über 280 potenzielle Händler – darunter Marine-Händler, Einkaufsabteilungen von Hotels und Fachsportgeschäfte – mit einem jährlich adressierbaren Markt von 18 Mio. $. Im April 2024 unterzeichnete Rashid einen 5-Jahres-Exklusiv-OEM-Vertrag mit OLagoon für 15 Länder in der MENA-Region – mit einem Mindestjahreseinkauf von 3 Mio. $, der jährlich um 15 % steigt. OLagoon sagte zu, 150.000 $ in arabischsprachiges Marketingmaterial, Messepräsenz in der Region und ein Ersatzteillager in Dubai zu investieren.',
             },
             {
               title: 'Produktlinien-Strategie & wüstentaugliches Engineering',
               detail:
-                'Afarers Ingenieure entwickelten für Dune Sports die Marke „Oryx“ mit 8 Modellen, optimiert für die Bedingungen des Nahen Ostens – hochtemperaturbeständiges PVC (bis 75 °C Oberflächentemperatur getestet), UV-stabile Pigmente, die in der arabischen Sonne nicht verblassen, und sandbeständige Finnensysteme mit Schnellverschluss. Afarer produzierte 500 Einheiten vor dem Launch, darunter eine Sonderedition „Royal Edition“ mit Goldakzenten und Ledergriffen für das Luxus-Resort-Segment. Rashids Team testete die Boards im Arabischen Golf, im Roten Meer und in Innen-Wellenpools – mit durchschnittlichen Qualitätsbewertungen von 4,7/5 von 200 Testern.',
+                'OLagoons Ingenieure entwickelten für Dune Sports die Marke „Oryx“ mit 8 Modellen, optimiert für die Bedingungen des Nahen Ostens – hochtemperaturbeständiges PVC (bis 75 °C Oberflächentemperatur getestet), UV-stabile Pigmente, die in der arabischen Sonne nicht verblassen, und sandbeständige Finnensysteme mit Schnellverschluss. OLagoon produzierte 500 Einheiten vor dem Launch, darunter eine Sonderedition „Royal Edition“ mit Goldakzenten und Ledergriffen für das Luxus-Resort-Segment. Rashids Team testete die Boards im Arabischen Golf, im Roten Meer und in Innen-Wellenpools – mit durchschnittlichen Qualitätsbewertungen von 4,7/5 von 200 Testern.',
             },
             {
               title: 'Kanalentwicklung & Hotel-/Resort-Partnerschaften',
               detail:
-                'Rashid baute ein 5-köpfiges regionales Vertriebsteam mit Standorten in Dubai, Riad und Kairo auf. Afarers Kanalentwicklungsteam lieferte Händler-Rekrutierungsskripte, Präsentationsdecks und ein 3-stufiges Händlerprogramm (Platinum, Gold, Silver). Dune Sports sicherte sich exklusive Vertriebsverträge mit 65 Marine-Händlern und direkte Einkaufsverträge mit 22 Luxushotelketten – darunter Jumeirah, Four Seasons und St. Regis. Die Marke „Oryx“ wurde als Standard-Ausrüstung für neue Rixos- und Anantara-Resort-Projekte in Ras Al Khaimah, im Red Sea Project und auf den Malediven spezifiziert.',
+                'Rashid baute ein 5-köpfiges regionales Vertriebsteam mit Standorten in Dubai, Riad und Kairo auf. OLagoons Kanalentwicklungsteam lieferte Händler-Rekrutierungsskripte, Präsentationsdecks und ein 3-stufiges Händlerprogramm (Platinum, Gold, Silver). Dune Sports sicherte sich exklusive Vertriebsverträge mit 65 Marine-Händlern und direkte Einkaufsverträge mit 22 Luxushotelketten – darunter Jumeirah, Four Seasons und St. Regis. Die Marke „Oryx“ wurde als Standard-Ausrüstung für neue Rixos- und Anantara-Resort-Projekte in Ras Al Khaimah, im Red Sea Project und auf den Malediven spezifiziert.',
             },
             {
               title: 'Regionaler Launch, Ramadan-Kampagne & Marktdominanz',
               detail:
-                'Die Marke „Oryx“ startete im Oktober 2024 in allen 8 Märkten – mit simultanen Events in der Dubai Marina Mall, in Saudi-Arabiens Red Sea Mall und in Katars Doha Festival City. Afarer unterstützte mit einer Marketingkampagne über 200.000 $ – inklusive arabischer TV-Werbung, Influencer-Partnerschaften mit 15 Outdoor-Abenteurern aus dem Nahen Osten und dem Sponsoring des Dubai SUP Festivals. Bis März 2025 hatte Dune Sports 8.400 Einheiten verkauft, 4,7 Mio. $ Großhandelsumsatz erreicht und 58 % des GCC-Premium-SUP-Markts erobert. Rashid zog seine erste Verlängerung des Optionsjahres mit Afarer über 4,5 Mio. $ Jahreskäufe.',
+                'Die Marke „Oryx“ startete im Oktober 2024 in allen 8 Märkten – mit simultanen Events in der Dubai Marina Mall, in Saudi-Arabiens Red Sea Mall und in Katars Doha Festival City. OLagoon unterstützte mit einer Marketingkampagne über 200.000 $ – inklusive arabischer TV-Werbung, Influencer-Partnerschaften mit 15 Outdoor-Abenteurern aus dem Nahen Osten und dem Sponsoring des Dubai SUP Festivals. Bis März 2025 hatte Dune Sports 8.400 Einheiten verkauft, 4,7 Mio. $ Großhandelsumsatz erreicht und 58 % des GCC-Premium-SUP-Markts erobert. Rashid zog seine erste Verlängerung des Optionsjahres mit OLagoon über 4,5 Mio. $ Jahreskäufe.',
             },
           ],
           results: [
             '4,7 Mio. $ Großhandelsumsatz in den ersten 12 Monaten über 8 Länder – 94 % des 24-Monats-Ziels in der halben Zeit',
             '58 % Marktanteil im GCC-Premium-SUP-Segment (349-799 $ Einzelhandelspreis) – klar vor fragmentierten Wettbewerbsmarken',
             '22 exklusive Hotel- und Resort-Einkaufsverträge gesichert – das entspricht 3.100 an die Hospitality-Branche verkauften Einheiten mit 72 % Wiederholungsbestellquote',
-            'Die Bewertung von Dune Sports wuchs in 14 Monaten von 2,3 Mio. $ auf 12 Mio. $; Rashid expandierte über Afarers OEM-Plattform in angrenzende Wassersport-Kategorien',
+            'Die Bewertung von Dune Sports wuchs in 14 Monaten von 2,3 Mio. $ auf 12 Mio. $; Rashid expandierte über OLagoons OEM-Plattform in angrenzende Wassersport-Kategorien',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum globale Distributoren Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum globale Distributoren OLagoon wählen',
       items: [
         {
           title: 'Fertigungsmaßstab',
@@ -5332,38 +5332,38 @@ const de: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Was unterscheidet Afarer von anderen SUP-OEM-Herstellern für Distributoren?',
+        question: 'Was unterscheidet OLagoon von anderen SUP-OEM-Herstellern für Distributoren?',
         answer:
-          'Afarer bietet ein vollständiges Partnerschaftsmodell über die Fertigung hinaus – mit regionalen Marktschutzprogrammen, Unterstützung bei der exklusiven Markenentwicklung, Logistikoptimierung und Vertriebsschulungen für Distributoren. Wir setzen auf langfristige Beziehungen, die Partner vom Importeur zum regionalen Markeninhaber wachsen lassen.',
+          'OLagoon bietet ein vollständiges Partnerschaftsmodell über die Fertigung hinaus – mit regionalen Marktschutzprogrammen, Unterstützung bei der exklusiven Markenentwicklung, Logistikoptimierung und Vertriebsschulungen für Distributoren. Wir setzen auf langfristige Beziehungen, die Partner vom Importeur zum regionalen Markeninhaber wachsen lassen.',
       },
       {
         question: 'Wie funktioniert das regionale Marktschutzprogramm für exklusive Distributoren?',
         answer:
-          'Für qualifizierte Partner bietet Afarer gebietsbasierte Kooperationsverträge, Produktdifferenzierung durch exklusive Grafiken und Konfigurationen sowie Unterstützung beim Händlernetzwerk. So können Distributoren mit der Gewissheit in die Marktentwicklung investieren, dass ihre regionale Position geschützt ist.',
+          'Für qualifizierte Partner bietet OLagoon gebietsbasierte Kooperationsverträge, Produktdifferenzierung durch exklusive Grafiken und Konfigurationen sowie Unterstützung beim Händlernetzwerk. So können Distributoren mit der Gewissheit in die Marktentwicklung investieren, dass ihre regionale Position geschützt ist.',
       },
       {
         question: 'Welche Bestellmengen sind für SUP-Lieferungen auf Container-Niveau üblich?',
         answer:
-          'Afarer begleitet drei Kooperationsstufen – Markttest (1.000-3.000 Stück), regionale Expansion (5.000-10.000 Stück) und große Distributoren-Skala (10.000 bis über 20.000 Stück). Die Container-Ladungsoptimierung hilft, die Versandeffizienz zu maximieren und die Einfuhrkosten pro Einheit zu senken.',
+          'OLagoon begleitet drei Kooperationsstufen – Markttest (1.000-3.000 Stück), regionale Expansion (5.000-10.000 Stück) und große Distributoren-Skala (10.000 bis über 20.000 Stück). Die Container-Ladungsoptimierung hilft, die Versandeffizienz zu maximieren und die Einfuhrkosten pro Einheit zu senken.',
       },
       {
-        question: 'Können Distributoren mit Afarer eigene Private-Label-SUP-Marken aufbauen?',
+        question: 'Können Distributoren mit OLagoon eigene Private-Label-SUP-Marken aufbauen?',
         answer:
-          'Ja, Afarer unterstützt die vollständige Private-Label-Entwicklung inklusive Markenpositionierung, Produktauswahl, individuellem Grafikdesign, Verpackungsanpassung und exklusiven Produktkollektionen. So bauen Distributoren regionale Marken auf, statt nur über den Preis zu konkurrieren.',
+          'Ja, OLagoon unterstützt die vollständige Private-Label-Entwicklung inklusive Markenpositionierung, Produktauswahl, individuellem Grafikdesign, Verpackungsanpassung und exklusiven Produktkollektionen. So bauen Distributoren regionale Marken auf, statt nur über den Preis zu konkurrieren.',
       },
       {
-        question: 'Wie hilft Afarer bei der Logistikoptimierung und Senkung der Einfuhrkosten?',
+        question: 'Wie hilft OLagoon bei der Logistikoptimierung und Senkung der Einfuhrkosten?',
         answer:
-          'Afarer bietet Container-Ladungsoptimierung für maximale Versandeffizienz, Produktmix-Planung, die schnell drehende Modelle mit Premium-Artikeln kombiniert, und umfassenden Support bei Exportdokumenten, um die Zollabfertigung zu beschleunigen und Verzögerungen zu reduzieren.',
+          'OLagoon bietet Container-Ladungsoptimierung für maximale Versandeffizienz, Produktmix-Planung, die schnell drehende Modelle mit Premium-Artikeln kombiniert, und umfassenden Support bei Exportdokumenten, um die Zollabfertigung zu beschleunigen und Verzögerungen zu reduzieren.',
       },
       {
         question: 'Welche Qualitätskontrollprozesse gelten für internationale Lieferungen?',
         answer:
-          'Afarer setzt ein 3-stufiges Qualitätsmanagement um – Materialprüfung der PVC- und Drop-Stitch-Komponenten, produktionsbegleitende Überwachung und die finale Vorversandprüfung auf Aussehen, Zubehör, Verpackung und Mengengenauigkeit.',
+          'OLagoon setzt ein 3-stufiges Qualitätsmanagement um – Materialprüfung der PVC- und Drop-Stitch-Komponenten, produktionsbegleitende Überwachung und die finale Vorversandprüfung auf Aussehen, Zubehör, Verpackung und Mengengenauigkeit.',
       },
     ],
     cta: {
-      title: 'Werden Sie Afarer-Regionalpartner',
+      title: 'Werden Sie OLagoon-Regionalpartner',
       subtitle: 'Ihr Markt verdient einen zuverlässigen Versorgungspartner für Wassersport.',
       primaryAction: {
         text: 'Starten Sie heute Ihre regionale OEM-Partnerschaft',
@@ -5384,9 +5384,9 @@ const de: Record<string, SolutionOverride> = {
       tagline: 'Resort Water Activity Package™',
       title: 'Premium-SUP- & Wassersportlösungen für Luxushotels, Resorts & Hospitality-Marken',
       subtitle:
-        'Afarer bietet vollständige Resort-Water-Activity-Pakete, die speziell für Hospitality-Unternehmen entwickelt wurden. Wir helfen Luxus-Resorts, Strandhotels, Inselzielen, Eco-Resorts und Wellness-Retreats, gebrandete Wassererlebnisse zu schaffen – mit individuellen SUP-Flotten, Lagersystemen und Mitarbeiterschulungen.',
+        'OLagoon bietet vollständige Resort-Water-Activity-Pakete, die speziell für Hospitality-Unternehmen entwickelt wurden. Wir helfen Luxus-Resorts, Strandhotels, Inselzielen, Eco-Resorts und Wellness-Retreats, gebrandete Wassererlebnisse zu schaffen – mit individuellen SUP-Flotten, Lagersystemen und Mitarbeiterschulungen.',
       image: {
-        alt: 'Afarer Resort-Wasseraktivitäts-Paket mit individuell gebrandeten SUP-Boards',
+        alt: 'OLagoon Resort-Wasseraktivitäts-Paket mit individuell gebrandeten SUP-Boards',
       },
     },
     challenge: {
@@ -5420,7 +5420,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Individuelle Entwicklung der Resort-SUP-Flotte',
           description:
-            'Afarer hilft Resorts bei der Entwicklung eigener Ausrüstungsflotten auf Basis von Standort, Gästeprofil, Gewässer und Aktivitätsprogramm. Die Pakete reichen von Familien-Resort-Konfigurationen mit stabilen Allround-Boards über Luxus-Insel-Pakete mit Premium-Designs bis zu Wellness-Retreat-Paketen mit breiten Yoga-SUP-Boards.',
+            'OLagoon hilft Resorts bei der Entwicklung eigener Ausrüstungsflotten auf Basis von Standort, Gästeprofil, Gewässer und Aktivitätsprogramm. Die Pakete reichen von Familien-Resort-Konfigurationen mit stabilen Allround-Boards über Luxus-Insel-Pakete mit Premium-Designs bis zu Wellness-Retreat-Paketen mit breiten Yoga-SUP-Boards.',
           features: [
             'Familien-Resort-Paket',
             'Luxus-Insel-Resort-Paket',
@@ -5431,7 +5431,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Resort-Branding-Anpassung',
           description:
-            'Ihre Wasserausrüstung wird Teil der Gästereise. Afarer unterstützt individuelle Logointegration, individuelle Farbgestaltung passend zur Resort-Architektur und den Markenfarben sowie Premium-Verpackung mit gebrandetem Zubehör und Informationsmaterial für Gäste.',
+            'Ihre Wasserausrüstung wird Teil der Gästereise. OLagoon unterstützt individuelle Logointegration, individuelle Farbgestaltung passend zur Resort-Architektur und den Markenfarben sowie Premium-Verpackung mit gebrandetem Zubehör und Informationsmaterial für Gäste.',
           features: [
             'Individueller Logodruck',
             'Farbgestaltung passend zur Marke',
@@ -5442,27 +5442,27 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Resort-Lager- & Ausrüstungsmanagementsystem',
           description:
-            'Afarer hilft Resorts bei der Planung der Ausrüstungslagerung mit SUP-Ständern, Ordnungssystemen und Wetterschutzlösungen unter Berücksichtigung von Sonneneinstrahlung, Luftfeuchtigkeit und Küstenbedingungen. Das Personal kann die tägliche Ausrüstungsvorbereitung, die Ausgabe an Gäste und die Wartungskontrolle effizient steuern.',
+            'OLagoon hilft Resorts bei der Planung der Ausrüstungslagerung mit SUP-Ständern, Ordnungssystemen und Wetterschutzlösungen unter Berücksichtigung von Sonneneinstrahlung, Luftfeuchtigkeit und Küstenbedingungen. Das Personal kann die tägliche Ausrüstungsvorbereitung, die Ausgabe an Gäste und die Wartungskontrolle effizient steuern.',
         },
         {
           title: 'Schulungsunterstützung für Sicherheit & Betrieb',
           description:
-            'Afarer bietet Betriebsanleitungen inklusive Handhabung der Ausrüstung, Aufblasanweisungen, Reinigungsmethoden, Lagerhinweisen, Sicherheitsverfahren für Gäste und täglichen Checklisten für die Prüfung vor der Nutzung und die Reinigung danach.',
+            'OLagoon bietet Betriebsanleitungen inklusive Handhabung der Ausrüstung, Aufblasanweisungen, Reinigungsmethoden, Lagerhinweisen, Sicherheitsverfahren für Gäste und täglichen Checklisten für die Prüfung vor der Nutzung und die Reinigung danach.',
         },
         {
           title: 'Komplettes Resort-Wasseraktivitäts-Paket',
           description:
-            'Beispielpakete umfassen individuell gebrandete SUP-Boards, verstellbare Paddel, Pumpen, Sicherheits-Leashes, Lagerständer, Reparatursets und Betriebsanleitungen für das Personal. Afarer unterstützt auch die Erweiterung um Wasser-Fitness-Produkte und Familien-Wasserausrüstung.',
+            'Beispielpakete umfassen individuell gebrandete SUP-Boards, verstellbare Paddel, Pumpen, Sicherheits-Leashes, Lagerständer, Reparatursets und Betriebsanleitungen für das Personal. OLagoon unterstützt auch die Erweiterung um Wasser-Fitness-Produkte und Familien-Wasserausrüstung.',
         },
         {
           title: 'Wartungsarme kommerzielle Ausrüstung',
           description:
-            'Resort-Ausrüstung muss Gästeerlebnis, Haltbarkeit und Wartungseffizienz ausbalancieren. Afarer setzt auf haltbare Konstruktion mit verstärktem PVC und kommerziellen Komponenten, einfache Wartung mit Standard-Zubehör und langfristigen Wert durch geringere Austauschhäufigkeit.',
+            'Resort-Ausrüstung muss Gästeerlebnis, Haltbarkeit und Wartungseffizienz ausbalancieren. OLagoon setzt auf haltbare Konstruktion mit verstärktem PVC und kommerziellen Komponenten, einfache Wartung mit Standard-Zubehör und langfristigen Wert durch geringere Austauschhäufigkeit.',
         },
         {
           title: 'Unterstützung bei der Resort-Erlebnisgestaltung',
           description:
-            'Afarer hilft, Ausrüstung in unverwechselbare Gästeaktivitäten zu verwandeln – Sonnenuntergangs-SUP-Erlebnisse für Paare, Familien-Ozeanabenteuer, schwimmende Wellness-Programme für Yoga-Retreats und Eco-Exploration-Aktivitäten für Natur-Resorts und marine Reiseziele.',
+            'OLagoon hilft, Ausrüstung in unverwechselbare Gästeaktivitäten zu verwandeln – Sonnenuntergangs-SUP-Erlebnisse für Paare, Familien-Ozeanabenteuer, schwimmende Wellness-Programme für Yoga-Retreats und Eco-Exploration-Aktivitäten für Natur-Resorts und marine Reiseziele.',
         },
       ],
     },
@@ -5478,7 +5478,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Planung der Resort-Aktivitäten',
           detail:
-            'Afarer analysierte Gästestruktur, Strandbedingungen und Aktivitätsziele und empfahl anschließend eine individuelle Resort-SUP-Flotte, abgestimmt auf die Luxuspositionierung und die Erwartungen der Gäste.',
+            'OLagoon analysierte Gästestruktur, Strandbedingungen und Aktivitätsziele und empfahl anschließend eine individuelle Resort-SUP-Flotte, abgestimmt auf die Luxuspositionierung und die Erwartungen der Gäste.',
         },
         {
           title: 'Produktanpassung',
@@ -5488,12 +5488,12 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Aufbau des Lagersystems',
           detail:
-            'Afarer lieferte die Planung der Ausrüstungslagerung, ein Ordnungssystem und Wartungsempfehlungen, um die Investition zu schützen und einen effizienten Tagesbetrieb sicherzustellen.',
+            'OLagoon lieferte die Planung der Ausrüstungslagerung, ein Ordnungssystem und Wartungsempfehlungen, um die Investition zu schützen und einen effizienten Tagesbetrieb sicherzustellen.',
         },
         {
           title: 'Unterstützung beim Personal-Betrieb',
           detail:
-            'Afarer erstellte einen Ausrüstungs-Leitfaden, eine Wartungs-Checkliste und Sicherheitsverfahren, damit das Resort-Personal das Wasseraktivitäts-Programm professionell betreuen kann – ohne spezielle Paddle-Ausbildung.',
+            'OLagoon erstellte einen Ausrüstungs-Leitfaden, eine Wartungs-Checkliste und Sicherheitsverfahren, damit das Resort-Personal das Wasseraktivitäts-Programm professionell betreuen kann – ohne spezielle Paddle-Ausbildung.',
         },
       ],
       results: [
@@ -5508,29 +5508,29 @@ const de: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Mexiko',
             background:
-              'Ana Sofía Villanueva, 36, ist Director of Guest Experiences im „Casa del Pacífico“, einem 62-Suiten-Luxus-Eco-Resort an der Pazifikküste von Punta Mita (Zimmerpreise 1.800-8.000 $/Nacht). Das rund 12 Hektar große Gelände umfasst 3 private Strände, 2 Lagunenpools und ein Mangroven-Ästuar, das zu verborgenen Cenoten führt. Gästeumfragen 2023 zeigten „einzigartige Wassererlebnisse“ als Nummer 1 der unerfüllten Wünsche (78 % der Gäste wünschten sich das). Ana wandte sich an Afarer, nachdem ein konkurrierendes Resort in Tulum ein SUP-Programm gestartet hatte – sie brauchte etwas Exklusiveres. Die Herausforderung war ein einzelnes Paket, das in der Ozeanbrandung, in ruhigen Mangroven und in Süßwasser-Cenoten funktioniert – mit wechselnden Lichtverhältnissen, Strömungen und ökologischen Besonderheiten.',
+              'Ana Sofía Villanueva, 36, ist Director of Guest Experiences im „Casa del Pacífico“, einem 62-Suiten-Luxus-Eco-Resort an der Pazifikküste von Punta Mita (Zimmerpreise 1.800-8.000 $/Nacht). Das rund 12 Hektar große Gelände umfasst 3 private Strände, 2 Lagunenpools und ein Mangroven-Ästuar, das zu verborgenen Cenoten führt. Gästeumfragen 2023 zeigten „einzigartige Wassererlebnisse“ als Nummer 1 der unerfüllten Wünsche (78 % der Gäste wünschten sich das). Ana wandte sich an OLagoon, nachdem ein konkurrierendes Resort in Tulum ein SUP-Programm gestartet hatte – sie brauchte etwas Exklusiveres. Die Herausforderung war ein einzelnes Paket, das in der Ozeanbrandung, in ruhigen Mangroven und in Süßwasser-Cenoten funktioniert – mit wechselnden Lichtverhältnissen, Strömungen und ökologischen Besonderheiten.',
             goal: 'Entwicklung eines Pakets „Signature Cenote-to-Ocean SUP Experience“ (3-stündige geführte Tour, professionelle Fotografie und mexikanisches Degustationsmenü) für 450 $/Person mit einer Gewinnmarge von mindestens 40 % und einer Gästezufriedenheit von 4,8 oder besser.',
           },
           steps: [
             {
               title: 'Standortbegehung und Umweltverträglichkeitsprüfung im März 2024',
               detail:
-                'Felipe Ortíz, Afarers Lateinamerika-Geschäftsführer, und die Meeresbiologin Dr. Camila Reyes verbrachten 10 Tage mit der Kartierung der Gewässer des Casa del Pacífico. Sie identifizierten 4 unterschiedliche SUP-Umgebungen – den Pazifikstrand als Startpunkt (beständige 2-3 Fuß Brandung), den Mangroventunnel (schmale 2-Meter-Kanäle mit überhängenden Wurzeln), die verborgene Cenote (18 Meter tiefes Süßwasser, konstante 24 °C, empfindliche mikrobielle Matten an den Wänden) und den Lagunenpool (für Anfänger unter den Gästen). Dr. Reyes führte Sedimentbeprobungen und Vogelbrutkartierungen durch, um die Belastbarkeit zu bestimmen – maximal 8 Gäste pro Tour, Start um 7:30 Uhr vor der Nahrungssuche der Seevögel. Die Prüfung ergab, dass Standard-SUP-Boards mit Zinkphosphat-Pigmenten Stoffe in die Cenote abgeben würden – Afarer wechselte auf keramische Pigmente.',
+                'Felipe Ortíz, OLagoons Lateinamerika-Geschäftsführer, und die Meeresbiologin Dr. Camila Reyes verbrachten 10 Tage mit der Kartierung der Gewässer des Casa del Pacífico. Sie identifizierten 4 unterschiedliche SUP-Umgebungen – den Pazifikstrand als Startpunkt (beständige 2-3 Fuß Brandung), den Mangroventunnel (schmale 2-Meter-Kanäle mit überhängenden Wurzeln), die verborgene Cenote (18 Meter tiefes Süßwasser, konstante 24 °C, empfindliche mikrobielle Matten an den Wänden) und den Lagunenpool (für Anfänger unter den Gästen). Dr. Reyes führte Sedimentbeprobungen und Vogelbrutkartierungen durch, um die Belastbarkeit zu bestimmen – maximal 8 Gäste pro Tour, Start um 7:30 Uhr vor der Nahrungssuche der Seevögel. Die Prüfung ergab, dass Standard-SUP-Boards mit Zinkphosphat-Pigmenten Stoffe in die Cenote abgeben würden – OLagoon wechselte auf keramische Pigmente.',
             },
             {
               title: 'Individuelles „Explora México“-Board mit integriertem Fotografiesystem',
               detail:
-                'Afarer entwarf das „Explora México 10.8“ mit 4-lagigem Aufbau, riff-sicherer Antifouling-Unterseite (biozidfreie Silikonbeschichtung, 200 Stunden in 28 °C warmem Pazifikwasser getestet) und einem blendfreien matten olivgrünen Deck. Ana wünschte professionelle Fotografie als Teil des Erlebnisses – Afarer integrierte eine wasserdichte Drohnen-Startplattform in den Bug des Boards (eine verstärkte 25x25-cm-Plattform aus Carbonfaser mit rutschfester Beschichtung, geprüft für die DJI Mini 4 Pro beim Start und der Landung aus der Hand). Jedes Board erhielt zudem einen Befestigungspunkt für eine Unterwasserkamera-Stange. Die Boards entstanden in limitiertem „Casa del Pacífico“-Branding mit mayainspirierten geometrischen Mustern – geprägt statt gemalt, um toxische Abwässer zu vermeiden.',
+                'OLagoon entwarf das „Explora México 10.8“ mit 4-lagigem Aufbau, riff-sicherer Antifouling-Unterseite (biozidfreie Silikonbeschichtung, 200 Stunden in 28 °C warmem Pazifikwasser getestet) und einem blendfreien matten olivgrünen Deck. Ana wünschte professionelle Fotografie als Teil des Erlebnisses – OLagoon integrierte eine wasserdichte Drohnen-Startplattform in den Bug des Boards (eine verstärkte 25x25-cm-Plattform aus Carbonfaser mit rutschfester Beschichtung, geprüft für die DJI Mini 4 Pro beim Start und der Landung aus der Hand). Jedes Board erhielt zudem einen Befestigungspunkt für eine Unterwasserkamera-Stange. Die Boards entstanden in limitiertem „Casa del Pacífico“-Branding mit mayainspirierten geometrischen Mustern – geprägt statt gemalt, um toxische Abwässer zu vermeiden.',
             },
             {
               title: 'Guide-Zertifizierungsprogramm und Logistikintegration',
               detail:
-                'Im Mai 2024 leitete Diego Castillo, Afarers Chef-Guide-Trainer, ein 2-wöchiges Intensivprogramm zur Zertifizierung von 8 Aktivitäts-Guides des Casa del Pacífico. Der Lehrplan umfasste Start- und Landetechnik in der Brandungszone der Pazifikstrände, Mangroven-Navigation mit den Gezeiten (Guides müssen das 3-stündige Tidenfenster kennen, um bei Niedrigwasser nicht im Schlamm festzusitzen), das Benehmen in der Cenote (kein Sonnenschutzmittel, keine Berührung der Wände – Dr. Reyes kehrte für ein halbtägiges Sensibilisierungstraining zurück), Notfallprotokolle (inklusive Puma-Begegnungen – die Mangrove beherbergt ein ansässiges Männchen) und zweisprachige Führung auf Spanisch und Englisch. Afarer integrierte den SUP-Bestand zudem in das Oracle-Opera-PMS-System des Resorts, sodass SUP-Reservierungen automatisch auf den Gästerechnungen erschienen. Beim Foto-Workflow nutzen die Guides eine GoPro Hero12 Black mit vordefiniertem „Cenote“-Farbprofil, und die Fotos werden den Gästen per NFC-Karte innerhalb von 30 Minuten übergeben.',
+                'Im Mai 2024 leitete Diego Castillo, OLagoons Chef-Guide-Trainer, ein 2-wöchiges Intensivprogramm zur Zertifizierung von 8 Aktivitäts-Guides des Casa del Pacífico. Der Lehrplan umfasste Start- und Landetechnik in der Brandungszone der Pazifikstrände, Mangroven-Navigation mit den Gezeiten (Guides müssen das 3-stündige Tidenfenster kennen, um bei Niedrigwasser nicht im Schlamm festzusitzen), das Benehmen in der Cenote (kein Sonnenschutzmittel, keine Berührung der Wände – Dr. Reyes kehrte für ein halbtägiges Sensibilisierungstraining zurück), Notfallprotokolle (inklusive Puma-Begegnungen – die Mangrove beherbergt ein ansässiges Männchen) und zweisprachige Führung auf Spanisch und Englisch. OLagoon integrierte den SUP-Bestand zudem in das Oracle-Opera-PMS-System des Resorts, sodass SUP-Reservierungen automatisch auf den Gästerechnungen erschienen. Beim Foto-Workflow nutzen die Guides eine GoPro Hero12 Black mit vordefiniertem „Cenote“-Farbprofil, und die Fotos werden den Gästen per NFC-Karte innerhalb von 30 Minuten übergeben.',
             },
             {
               title: 'Start zur Hochsaison im November 2024 und Medienberichterstattung',
               detail:
-                'Das Erlebnis „Cenote-to-Ocean“ startete am 15. November 2024 (Beginn der Hochsaison in Punta Mita). In den ersten 30 Tagen wurden 112 Touren zu 450 $/Person verkauft – ein Erlös von 50.400 $. Eine Journalistin des Condé Nast Traveler war Gast Nummer 47; ihr Artikel „Mexikos neuester Öko-Nervenkitzel – mit dem Paddleboard von der Cenote in den Pazifik“ von Januar 2025 brachte bis März über 800 Buchungen. Die Gästezufriedenheit lag über 340 Touren im Schnitt bei 4,94/5. Das Resort ergänzte ein Fotografie-Add-on „Golden Hour“ für 150 $ (Sonnenuntergangssession mit professionellem Drohnenpiloten, Champagner und Austern) – 94 % der Gäste buchten es. Bis April 2025 erwirtschaftete das Programm 1,12 Mio. $ direkten Umsatz mit 52 % Gewinnmarge. Das Casa del Pacífico bestellte 20 weitere Boards für 2026 und beauftragte Afarer mit der Entwicklung eines „Whale-Watching SUP“-Pakets (Buckelwal-Wanderung Dezember-März).',
+                'Das Erlebnis „Cenote-to-Ocean“ startete am 15. November 2024 (Beginn der Hochsaison in Punta Mita). In den ersten 30 Tagen wurden 112 Touren zu 450 $/Person verkauft – ein Erlös von 50.400 $. Eine Journalistin des Condé Nast Traveler war Gast Nummer 47; ihr Artikel „Mexikos neuester Öko-Nervenkitzel – mit dem Paddleboard von der Cenote in den Pazifik“ von Januar 2025 brachte bis März über 800 Buchungen. Die Gästezufriedenheit lag über 340 Touren im Schnitt bei 4,94/5. Das Resort ergänzte ein Fotografie-Add-on „Golden Hour“ für 150 $ (Sonnenuntergangssession mit professionellem Drohnenpiloten, Champagner und Austern) – 94 % der Gäste buchten es. Bis April 2025 erwirtschaftete das Programm 1,12 Mio. $ direkten Umsatz mit 52 % Gewinnmarge. Das Casa del Pacífico bestellte 20 weitere Boards für 2026 und beauftragte OLagoon mit der Entwicklung eines „Whale-Watching SUP“-Pakets (Buckelwal-Wanderung Dezember-März).',
             },
           ],
           results: [
@@ -5546,19 +5546,19 @@ const de: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Thailand',
             background:
-              'Pimchanok „Mint“ Suwannarat, 32, ist Experience Director des „Veranda Samui“, eines 5-Sterne-Resorts über dem Chaweng Noi Beach mit 98 Villas und einer durchschnittlichen Aufenthaltsdauer von 6,4 Nächten. Mint stellte fest, dass 73 % der Gäste mindestens eine „Inselexkursion“ buchten (typischerweise eine Speedboot-Tour zum Ang-Thong-Marine-Park für 3.500 THB pro Person), sich Nachbefragungen aber über „überfüllte Touren“ und „zu viele Stopps, zu wenig Paddeln“ beklagten. Sie stellte sich eine mehrtägige SUP-Expedition vor, bei der Gäste zwischen Koh Samui und benachbarten Inseln paddeln und in Eco-Lodges und Strandcamps übernachten. Kein Resort in Thailand bot das an. Sie brauchte Afarer für die Entwicklung expeditions-tauglicher Ausrüstung, die selbstständige mehrtägige Reisen mit Campingausrüstung und Vorräten nach westlichen Luxusstandards unterstützt.',
+              'Pimchanok „Mint“ Suwannarat, 32, ist Experience Director des „Veranda Samui“, eines 5-Sterne-Resorts über dem Chaweng Noi Beach mit 98 Villas und einer durchschnittlichen Aufenthaltsdauer von 6,4 Nächten. Mint stellte fest, dass 73 % der Gäste mindestens eine „Inselexkursion“ buchten (typischerweise eine Speedboot-Tour zum Ang-Thong-Marine-Park für 3.500 THB pro Person), sich Nachbefragungen aber über „überfüllte Touren“ und „zu viele Stopps, zu wenig Paddeln“ beklagten. Sie stellte sich eine mehrtägige SUP-Expedition vor, bei der Gäste zwischen Koh Samui und benachbarten Inseln paddeln und in Eco-Lodges und Strandcamps übernachten. Kein Resort in Thailand bot das an. Sie brauchte OLagoon für die Entwicklung expeditions-tauglicher Ausrüstung, die selbstständige mehrtägige Reisen mit Campingausrüstung und Vorräten nach westlichen Luxusstandards unterstützt.',
             goal: 'Start von „The Samui Archipelago Paddle“ – eine 5-tägige, 4-nächtige geführte SUP-Expedition über 4 Inseln (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → Rückkehr) für 89.000 THB (2.500 $) pro Person mit mindestens 12 Abfahrten pro Jahr und 100 % Auslastung.',
           },
           steps: [
             {
               title: 'Routenkartierung und Logistiksurvey im Samui-Archipel',
               detail:
-                'Im Oktober 2023 verbrachten Tomo Kato, Afarers Expeditionsspezialist für Asien-Pazifik, und der thailändische Meeresökologe Dr. Narong Chaiyasit 14 Tage damit, die vorgeschlagene Route mit Kajaks und Motorbegleitung abzufahren. Sie identifizierten 7 kritische Faktoren – Monsunwindmuster (der Nordostmonsun von November bis Januar macht die Überquerung Koh Samui-Koh Phangan gefährlich, Februar bis Oktober ist sicher), Campingplätze auf Koh Tao (nur 2 strandnahe Plätze mit Zeltgenehmigung, jeder auf 10 Personen begrenzt), Süßwasser-Nachschub (keiner auf Koh Nang Yuan – Gäste tragen 4 Liter pro Person und Tag) und Riff-Navigationskorridore (das Korallenriff in der Shark Bay von Koh Tao erfordert Boards mit über 40 cm Tiefgangsfreiheit bei Niedrigwasser). Die endgültige Route umfasste 68 km über 5 Tage mit täglichen Paddelstrecken von 8-18 km. Tomo testete 14 Ankertypen fürs Strandcamping mit einem Drachen – Danforth-Anker hielten in Samuis sandigem Grund am besten.',
+                'Im Oktober 2023 verbrachten Tomo Kato, OLagoons Expeditionsspezialist für Asien-Pazifik, und der thailändische Meeresökologe Dr. Narong Chaiyasit 14 Tage damit, die vorgeschlagene Route mit Kajaks und Motorbegleitung abzufahren. Sie identifizierten 7 kritische Faktoren – Monsunwindmuster (der Nordostmonsun von November bis Januar macht die Überquerung Koh Samui-Koh Phangan gefährlich, Februar bis Oktober ist sicher), Campingplätze auf Koh Tao (nur 2 strandnahe Plätze mit Zeltgenehmigung, jeder auf 10 Personen begrenzt), Süßwasser-Nachschub (keiner auf Koh Nang Yuan – Gäste tragen 4 Liter pro Person und Tag) und Riff-Navigationskorridore (das Korallenriff in der Shark Bay von Koh Tao erfordert Boards mit über 40 cm Tiefgangsfreiheit bei Niedrigwasser). Die endgültige Route umfasste 68 km über 5 Tage mit täglichen Paddelstrecken von 8-18 km. Tomo testete 14 Ankertypen fürs Strandcamping mit einem Drachen – Danforth-Anker hielten in Samuis sandigem Grund am besten.',
             },
             {
               title: '„Archipelago Expedition“-Board mit Survival- und Komfortfunktionen',
               detail:
-                'Afarer entwarf den „Veranda Explorer 13.0“ mit 400 Litern Volumen – genug für 35 kg Campingausrüstung plus 20 kg persönliches Gepäck des Gastes. Zu den Funktionen zählten ein wasserdichter Bug-Laderaum mit Schraubdeckel (30 Minuten bei 1 Meter unter Wasser getestet), 6 Daisy-Chain-Befestigungspunkte für Dry Bags, ein Bungee-System mit Schnellverschluss für den Kamerazugriff und eine abnehmbare Ruder-Skeg für die Kursstabilität im Ozean (der Abschnitt Koh Phangan-Koh Tao hat eine Querströmung von 2 Knoten). Mint bestand auf Komfort – jedes Board erhielt eine aufblasbare Rückenlehne (das „LoungePak“) mit Getränkehalter und ein hauseigenes „ShadowDeck“-Dach (gespannte Carbonfaser-Stange mit UPF-50+-Stoff, in 35 °C Hitze getestet). Afarer produzierte 24 Boards – 12 für Gäste, 6 für Guides, 6 Reserve.',
+                'OLagoon entwarf den „Veranda Explorer 13.0“ mit 400 Litern Volumen – genug für 35 kg Campingausrüstung plus 20 kg persönliches Gepäck des Gastes. Zu den Funktionen zählten ein wasserdichter Bug-Laderaum mit Schraubdeckel (30 Minuten bei 1 Meter unter Wasser getestet), 6 Daisy-Chain-Befestigungspunkte für Dry Bags, ein Bungee-System mit Schnellverschluss für den Kamerazugriff und eine abnehmbare Ruder-Skeg für die Kursstabilität im Ozean (der Abschnitt Koh Phangan-Koh Tao hat eine Querströmung von 2 Knoten). Mint bestand auf Komfort – jedes Board erhielt eine aufblasbare Rückenlehne (das „LoungePak“) mit Getränkehalter und ein hauseigenes „ShadowDeck“-Dach (gespannte Carbonfaser-Stange mit UPF-50+-Stoff, in 35 °C Hitze getestet). OLagoon produzierte 24 Boards – 12 für Gäste, 6 für Guides, 6 Reserve.',
             },
             {
               title: 'Rekrutierung des Guide-Teams und Sicherheitszertifizierung',
@@ -5568,7 +5568,7 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Erste Expedition im Januar 2025 und 12-Monats-Buchungspipeline',
               detail:
-                'Die Jungfernfahrt startete am 15. Januar 2025 mit 6 Gästen (3 Paare, alle Australier, 34-52 Jahre alt). Mints Team filmte die Expedition für Inhalte. Die Überquerung nach Koh Phangan an Tag 2 erfasste ein überraschendes Windereignis (45 Minuten lang 30 Knoten Wind) – die Afarer-Boards meisterten es ohne eine einzige Kenterung; das Guide-Protokoll setzte die „Sicherheitsfloß“-Formation ein (Boards in einem Sternmuster zusammengebunden). Bis März 2025 waren 11 der 12 geplanten Abfahrten 2025 ausgebucht (Warteliste mit 40 Gästen). Die Umsatzprognose für 2025 – 12 × 6 Gäste × 89.000 THB ergibt 6,41 Mio. THB (178.000 $). Der CEO von Veranda genehmigte den Bau eines eigenen „Expedition Pavilion“ am Strand für die Briefings vor der Abfahrt. Mint entwickelt derzeit eine 3-tägige „Family Explorer“-Route (kürzere Strecken, Camping auf Resortbasis) für 2026.',
+                'Die Jungfernfahrt startete am 15. Januar 2025 mit 6 Gästen (3 Paare, alle Australier, 34-52 Jahre alt). Mints Team filmte die Expedition für Inhalte. Die Überquerung nach Koh Phangan an Tag 2 erfasste ein überraschendes Windereignis (45 Minuten lang 30 Knoten Wind) – die OLagoon-Boards meisterten es ohne eine einzige Kenterung; das Guide-Protokoll setzte die „Sicherheitsfloß“-Formation ein (Boards in einem Sternmuster zusammengebunden). Bis März 2025 waren 11 der 12 geplanten Abfahrten 2025 ausgebucht (Warteliste mit 40 Gästen). Die Umsatzprognose für 2025 – 12 × 6 Gäste × 89.000 THB ergibt 6,41 Mio. THB (178.000 $). Der CEO von Veranda genehmigte den Bau eines eigenen „Expedition Pavilion“ am Strand für die Briefings vor der Abfahrt. Mint entwickelt derzeit eine 3-tägige „Family Explorer“-Route (kürzere Strecken, Camping auf Resortbasis) für 2026.',
             },
           ],
           results: [
@@ -5580,8 +5580,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Resorts Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Resorts OLagoon wählen',
       items: [
         {
           title: 'Gästeerlebnis',
@@ -5609,38 +5609,38 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Welche SUP-Boards eignen sich am besten für Resort-Wasseraktivitäten?',
         answer:
-          'Resorts brauchen stabile, anfängerfreundliche SUP-Boards, die zu Gästen aller Könnerstufen passen. Afarer bietet Familien-Resort-Pakete mit Allround-Boards, Luxus-Insel-Pakete mit Premium-Designs und Wellness-Retreat-Pakete mit breiten Yoga-Boards – alle mit individuellem Resort-Branding anpassbar.',
+          'Resorts brauchen stabile, anfängerfreundliche SUP-Boards, die zu Gästen aller Könnerstufen passen. OLagoon bietet Familien-Resort-Pakete mit Allround-Boards, Luxus-Insel-Pakete mit Premium-Designs und Wellness-Retreat-Pakete mit breiten Yoga-Boards – alle mit individuellem Resort-Branding anpassbar.',
       },
       {
-        question: 'Kann Afarer SUP-Boards mit dem Logo und den Markenfarben meines Resorts anpassen?',
+        question: 'Kann OLagoon SUP-Boards mit dem Logo und den Markenfarben meines Resorts anpassen?',
         answer:
-          'Ja, Afarer bietet eine vollständige Anpassung inklusive Logointegration, Farbgestaltung passend zur Architektur und Markenidentität Ihres Resorts sowie Premium-Verpackung mit gebrandetem Zubehör und Informationsmaterial für Gäste.',
+          'Ja, OLagoon bietet eine vollständige Anpassung inklusive Logointegration, Farbgestaltung passend zur Architektur und Markenidentität Ihres Resorts sowie Premium-Verpackung mit gebrandetem Zubehör und Informationsmaterial für Gäste.',
       },
       {
         question: 'Bieten Sie Lagerlösungen für Resort-SUP-Ausrüstung?',
         answer:
-          'Ja, Afarer hilft bei der Planung der Ausrüstungslagerung mit SUP-Ständern, Ordnungssystemen und Wetterschutzlösungen unter Berücksichtigung von Sonneneinstrahlung, Luftfeuchtigkeit und Küstenbedingungen – um Ihre Investition zu schützen und das Erscheinungsbild des Resorts zu wahren.',
+          'Ja, OLagoon hilft bei der Planung der Ausrüstungslagerung mit SUP-Ständern, Ordnungssystemen und Wetterschutzlösungen unter Berücksichtigung von Sonneneinstrahlung, Luftfeuchtigkeit und Küstenbedingungen – um Ihre Investition zu schützen und das Erscheinungsbild des Resorts zu wahren.',
       },
       {
         question: 'Welche Schulung benötigen Resort-Mitarbeiter für den Betrieb von SUP-Programmen?',
         answer:
-          'Afarer stellt Betriebsanleitungen bereit – inklusive Handhabung der Ausrüstung, Aufblasanweisungen, Reinigungsmethoden, Lagerhinweisen, Sicherheitsverfahren für Gäste und täglichen Checklisten – damit jedes Teammitglied das Programm professionell betreuen kann.',
+          'OLagoon stellt Betriebsanleitungen bereit – inklusive Handhabung der Ausrüstung, Aufblasanweisungen, Reinigungsmethoden, Lagerhinweisen, Sicherheitsverfahren für Gäste und täglichen Checklisten – damit jedes Teammitglied das Programm professionell betreuen kann.',
       },
       {
-        question: 'Wie haltbar sind Afarer-SUP-Boards für die tägliche Nutzung im Resort?',
+        question: 'Wie haltbar sind OLagoon-SUP-Boards für die tägliche Nutzung im Resort?',
         answer:
-          'Afarer-Resort-SUP-Boards verfügen über verstärkte PVC-Konstruktion, kommerzielle Komponenten und haltbare Drop-Stitch-Strukturen, die für die tägliche Nutzung durch Gäste ausgelegt sind und dabei Premium-Look und Performance bewahren.',
+          'OLagoon-Resort-SUP-Boards verfügen über verstärkte PVC-Konstruktion, kommerzielle Komponenten und haltbare Drop-Stitch-Strukturen, die für die tägliche Nutzung durch Gäste ausgelegt sind und dabei Premium-Look und Performance bewahren.',
       },
       {
         question: 'Können wir SUP neben anderen Wasseraktivitäten anbieten?',
         answer:
-          'Ja, Afarer unterstützt die Erweiterung um Wasser-Fitness-Produkte, Familien-Wasserausrüstung und weitere Outdoor-Freizeitprodukte für ein vollständiges Resort-Portfolio an Wasseraktivitäten.',
+          'Ja, OLagoon unterstützt die Erweiterung um Wasser-Fitness-Produkte, Familien-Wasserausrüstung und weitere Outdoor-Freizeitprodukte für ein vollständiges Resort-Portfolio an Wasseraktivitäten.',
       },
     ],
     cta: {
-      title: 'Schaffen Sie Ihr Resort-Wassererlebnis mit Afarer',
+      title: 'Schaffen Sie Ihr Resort-Wassererlebnis mit OLagoon',
       subtitle:
-        'Ihr Reiseziel hat bereits den Ozean. Schaffen Sie nun unvergessliche Momente darauf. Afarer hilft Luxushotels, Insel-Resorts und Wellness-Zielen beim Aufbau individueller SUP-Flotten, gebrandeter Wasseraktivitäten und vollständiger Resort-Ausrüstungslösungen.',
+        'Ihr Reiseziel hat bereits den Ozean. Schaffen Sie nun unvergessliche Momente darauf. OLagoon hilft Luxushotels, Insel-Resorts und Wellness-Zielen beim Aufbau individueller SUP-Flotten, gebrandeter Wasseraktivitäten und vollständiger Resort-Ausrüstungslösungen.',
       primaryAction: {
         text: 'Starten Sie heute Ihr Resort-Wasseraktivitäts-Projekt',
       },
@@ -5654,7 +5654,7 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Private-Label-SUP-Hersteller | OEM-Paddleboard-Lieferant für den Handel | {SITE}',
       description:
-        'Afarer bietet Private-Label-SUP-Fertigung für Outdoor-Händler, Sportartikelketten und globale Marken. Individuelle Paddleboards mit Handelsverpackung, Compliance-Unterstützung und zuverlässiger OEM-Lieferung.',
+        'OLagoon bietet Private-Label-SUP-Fertigung für Outdoor-Händler, Sportartikelketten und globale Marken. Individuelle Paddleboards mit Handelsverpackung, Compliance-Unterstützung und zuverlässiger OEM-Lieferung.',
     },
     hero: {
       tagline: 'Retail Private Label Program™',
@@ -5695,25 +5695,25 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Individuelle Entwicklung von Private-Label-SUP-Produkten',
           description:
-            'Afarer hilft Händlern, Produkte auf Basis von Zielkunden, Preisklasse, Vertriebskanälen und Markttrends zu entwickeln – über Einsteiger-, Mid-Range-Lifestyle- und Premium-SUP-Kollektionen hinweg.',
+            'OLagoon hilft Händlern, Produkte auf Basis von Zielkunden, Preisklasse, Vertriebskanälen und Markttrends zu entwickeln – über Einsteiger-, Mid-Range-Lifestyle- und Premium-SUP-Kollektionen hinweg.',
           features: ['Einsteiger-SUP-Kollektion', 'Mid-Range-Lifestyle-SUP-Kollektion', 'Premium-SUP-Kollektion'],
         },
         {
           title: 'Optimierung der Handelsmarge',
           description:
-            'Afarer hilft Händlern, die Produktstruktur zu optimieren – durch Kontrolle der Fertigungskosten und Anpassungen der Produktkonfiguration, passend zu Zielpreis im Handel, Kundenerwartungen und Margenzielen.',
+            'OLagoon hilft Händlern, die Produktstruktur zu optimieren – durch Kontrolle der Fertigungskosten und Anpassungen der Produktkonfiguration, passend zu Zielpreis im Handel, Kundenerwartungen und Margenzielen.',
           features: ['Kontrolle der Fertigungskosten', 'Optimierung der Produktkonfiguration', 'Materialauswahl'],
         },
         {
           title: 'Handelsfähiges Verpackungsdesign',
           description:
-            'Afarer unterstützt vollständige Verpackungslösungen – darunter Display-Verpackungen mit Farbkartons und Produktbildern, E-Commerce-Verpackungen optimiert für Amazon und Shopify sowie die Integration der Markengeschichte.',
+            'OLagoon unterstützt vollständige Verpackungslösungen – darunter Display-Verpackungen mit Farbkartons und Produktbildern, E-Commerce-Verpackungen optimiert für Amazon und Shopify sowie die Integration der Markengeschichte.',
           features: ['Display-Verpackung', 'E-Commerce-Verpackung', 'Integration der Markengeschichte'],
         },
         {
           title: 'Internationale Qualitäts- & Compliance-Unterstützung',
           description:
-            'Afarer unterstützt Händler mit Qualitätsdokumentation – inklusive Informationen zur Materialkonformität, Unterstützung bei Produkttests und Exportdokumenten, um die Einfuhranforderungen zu managen.',
+            'OLagoon unterstützt Händler mit Qualitätsdokumentation – inklusive Informationen zur Materialkonformität, Unterstützung bei Produkttests und Exportdokumenten, um die Einfuhranforderungen zu managen.',
           features: [
             'Unterstützung zur Materialkonformität',
             'Unterstützung bei Produkttests',
@@ -5723,7 +5723,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'OEM-Fertigung in großen Stückzahlen',
           description:
-            'Afarer begleitet unterschiedliche Bestellgrößen – von Produkteinführungen mit 500-2000 Stück über die Handels-Expansion mit 3000-10.000 Stück bis zu globalen Handelsprogrammen mit Jahreslieferverträgen.',
+            'OLagoon begleitet unterschiedliche Bestellgrößen – von Produkteinführungen mit 500-2000 Stück über die Handels-Expansion mit 3000-10.000 Stück bis zu globalen Handelsprogrammen mit Jahreslieferverträgen.',
           features: [
             'Produkteinführung (500-2000 Stück)',
             'Handels-Expansion (3000-10.000 Stück)',
@@ -5733,24 +5733,24 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Saisonale Supply-Chain-Planung',
           description:
-            'Afarer unterstützt die Produktplanung auf Basis der Frühjahrs-/Sommer-Nachfrage und der regionalen Märkte – plus Produktionsplanung, damit Händler Bestandstiming, Lagerplanung und Marketingaktionen steuern können.',
+            'OLagoon unterstützt die Produktplanung auf Basis der Frühjahrs-/Sommer-Nachfrage und der regionalen Märkte – plus Produktionsplanung, damit Händler Bestandstiming, Lagerplanung und Marketingaktionen steuern können.',
         },
         {
           title: 'ODM-Unterstützung für Produktinnovation',
           description:
-            'Händler brauchen Differenzierung. Afarer unterstützt individuelle Board-Formen, individuelle Grafiken mit der Markenidentität des Handels und Produkt-Bundles inklusive SUP-Paketen und kompletter Outdoor-Sets.',
+            'Händler brauchen Differenzierung. OLagoon unterstützt individuelle Board-Formen, individuelle Grafiken mit der Markenidentität des Handels und Produkt-Bundles inklusive SUP-Paketen und kompletter Outdoor-Sets.',
           features: ['Individuelle Board-Formen', 'Individuelle Grafiken', 'Produkt-Bundles'],
         },
         {
           title: 'Multi-Channel-Unterstützung für den Handel',
           description:
-            'Afarer unterstützt Produkte für Filialen mit ansprechender Verpackung, für E-Commerce-Plattformen mit starken Visuals und für Händlernetzwerke mit stabiler Versorgung und einheitlichen Spezifikationen.',
+            'OLagoon unterstützt Produkte für Filialen mit ansprechender Verpackung, für E-Commerce-Plattformen mit starken Visuals und für Händlernetzwerke mit stabiler Versorgung und einheitlichen Spezifikationen.',
           features: ['Filialen', 'E-Commerce-Plattformen', 'Händlernetzwerke'],
         },
         {
           title: 'Qualitätskontrolle & Liefertreue',
           description:
-            'Afarer weiß, dass Händler Vertrauen verkaufen. Die Qualitätssysteme umfassen Produktionsprüfungen, Vorversandprüfungen und Kontrolle der Chargenkonsistenz – für gleiche Qualität über große Bestellungen hinweg.',
+            'OLagoon weiß, dass Händler Vertrauen verkaufen. Die Qualitätssysteme umfassen Produktionsprüfungen, Vorversandprüfungen und Kontrolle der Chargenkonsistenz – für gleiche Qualität über große Bestellungen hinweg.',
           features: ['Produktionsprüfung', 'Vorversandprüfung', 'Kontrolle der Chargenkonsistenz'],
         },
       ],
@@ -5767,7 +5767,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Planung der Produktlinie',
           detail:
-            'Afarer half bei der Erstellung einer Private-Label-SUP-Kollektion mit Einsteiger-Familien-SUP, Touring-SUP und Premium-Lifestyle-SUP-Modellen, ausgerichtet auf die bestehende Kundschaft des Händlers.',
+            'OLagoon half bei der Erstellung einer Private-Label-SUP-Kollektion mit Einsteiger-Familien-SUP, Touring-SUP und Premium-Lifestyle-SUP-Modellen, ausgerichtet auf die bestehende Kundschaft des Händlers.',
         },
         {
           title: 'Produktanpassung',
@@ -5777,7 +5777,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Qualitäts- & Compliance-Unterstützung',
           detail:
-            'Afarer stellte Materialdokumentation, produktionsbegleitende Qualitätskontrolle und Export-Support bereit, um europäische Regulierungsstandards und die Qualitätsansprüche des Handels zu erfüllen.',
+            'OLagoon stellte Materialdokumentation, produktionsbegleitende Qualitätskontrolle und Export-Support bereit, um europäische Regulierungsstandards und die Qualitätsansprüche des Handels zu erfüllen.',
         },
         {
           title: 'Handelsstart',
@@ -5804,29 +5804,29 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Sourcing-Benchmarking und Produktspezifikations-Workshop',
               detail:
-                'Im März 2024 flog Sarahs Team zum 3-tägigen Produktworkshop in Afarers Zentrale in Shenzhen. Sie testeten 14 verschiedene SUP-Konstruktionen, darunter Varianten der Drop-Stitch-Dichte, Rail-Profile und Deckpad-Konfigurationen. Afarers Ingenieursteam erstellte 3 individuelle PVC-Rezepturen zur Erfüllung der australischen UV-Strahlungsstandards. Rebel Sport verpflichtete sich zu einer Erst-MOQ von 5.000 Einheiten über 6 SKUs mit einem Vorab-Investment von 1,8 Mio. AUD – darunter 2 Allround-Boards, 2 Touring-Formen, 1 Yoga-Plattform und 1 Jugendboard.',
+                'Im März 2024 flog Sarahs Team zum 3-tägigen Produktworkshop in OLagoons Zentrale in Shenzhen. Sie testeten 14 verschiedene SUP-Konstruktionen, darunter Varianten der Drop-Stitch-Dichte, Rail-Profile und Deckpad-Konfigurationen. OLagoons Ingenieursteam erstellte 3 individuelle PVC-Rezepturen zur Erfüllung der australischen UV-Strahlungsstandards. Rebel Sport verpflichtete sich zu einer Erst-MOQ von 5.000 Einheiten über 6 SKUs mit einem Vorab-Investment von 1,8 Mio. AUD – darunter 2 Allround-Boards, 2 Touring-Formen, 1 Yoga-Plattform und 1 Jugendboard.',
             },
             {
               title: 'Individuelles Branding, Verpackung & Compliance-Engineering',
               detail:
-                'Afarers Designteam entwickelte die Markenidentität „Coastal Force“ für Rebel Sport – mit individuellen Deck-Grafiken, exklusiven Farbgebungen und handelsfertiger Verpackung mit Shelf-Talker-Displays. Das Compliance-Team sicherte die Zertifizierung nach AS/NZS 1900-2014, die Konformität mit dem Australian Consumer Law und schloss die ISTA-3A-Transittests ab. Afarer produzierte 200 Vorserieneinheiten, die im April 2024 per Luftfracht verschifft wurden – für Tests in 12 Flagship-Filialen, wo 87 % der Display-Einheiten innerhalb von 2 Wochen zum vollen Verkaufspreis von 399 AUD verkauft wurden.',
+                'OLagoons Designteam entwickelte die Markenidentität „Coastal Force“ für Rebel Sport – mit individuellen Deck-Grafiken, exklusiven Farbgebungen und handelsfertiger Verpackung mit Shelf-Talker-Displays. Das Compliance-Team sicherte die Zertifizierung nach AS/NZS 1900-2014, die Konformität mit dem Australian Consumer Law und schloss die ISTA-3A-Transittests ab. OLagoon produzierte 200 Vorserieneinheiten, die im April 2024 per Luftfracht verschifft wurden – für Tests in 12 Flagship-Filialen, wo 87 % der Display-Einheiten innerhalb von 2 Wochen zum vollen Verkaufspreis von 399 AUD verkauft wurden.',
             },
             {
               title: 'Gestaffelter Inventory-Rollout & Mitarbeiterschulung',
               detail:
-                'Afarer koordinierte einen 3-phasigen Seefracht-Lieferplan – Phase 1 (1.500 Einheiten im Distributionszentrum Sydney bis 1. Juni), Phase 2 (2.000 Einheiten in den Distributionszentren Melbourne und Brisbane bis 1. Juli), Phase 3 (1.500 Einheiten in den Distributionszentren Perth und Adelaide bis 1. August). Afarers Schulungsteam hielt 24 virtuelle Train-the-Trainer-Sessions für Rebels Abteilungsleiter ab – zu Produktmerkmalen, Unterschieden der Boardkonstruktion, Zubehör-Cross-Selling und Kundenfragen zur Passung. Jede Filiale erhielt ein Demo-Board und einen Vergleichsführer für den Point of Sale.',
+                'OLagoon koordinierte einen 3-phasigen Seefracht-Lieferplan – Phase 1 (1.500 Einheiten im Distributionszentrum Sydney bis 1. Juni), Phase 2 (2.000 Einheiten in den Distributionszentren Melbourne und Brisbane bis 1. Juli), Phase 3 (1.500 Einheiten in den Distributionszentren Perth und Adelaide bis 1. August). OLagoons Schulungsteam hielt 24 virtuelle Train-the-Trainer-Sessions für Rebels Abteilungsleiter ab – zu Produktmerkmalen, Unterschieden der Boardkonstruktion, Zubehör-Cross-Selling und Kundenfragen zur Passung. Jede Filiale erhielt ein Demo-Board und einen Vergleichsführer für den Point of Sale.',
             },
             {
               title: 'Launch-Kampagne, Performance-Tracking & Nachbestell-Optimierung',
               detail:
-                'Die Linie „Coastal Force“ startete am 15. August 2024 mit einer Marketingkampagne über 500.000 AUD – inklusive Filial-Beschilderung, Katalog-Features und Influencer-Partnerschaften mit australischen Paddleboard-Athleten. Afarers dediziertes Kundenbetreuungsteam lieferte wöchentliche Sell-Through-Berichte über ein gemeinsames Dashboard. Bis November 2024 lag die Sell-Through-Rate über alle SKUs im Schnitt bei 72 %, wobei das Allround-Modell 10\'6" 41 % der Verkäufe ausmachte. Rebel gab eine Nachbestellung über 3.000 Einheiten für die Frühjahrssaison 2025 auf – inklusive 2 neuer Touring-Modelle auf Basis des Kundenfeedbacks.',
+                'Die Linie „Coastal Force“ startete am 15. August 2024 mit einer Marketingkampagne über 500.000 AUD – inklusive Filial-Beschilderung, Katalog-Features und Influencer-Partnerschaften mit australischen Paddleboard-Athleten. OLagoons dediziertes Kundenbetreuungsteam lieferte wöchentliche Sell-Through-Berichte über ein gemeinsames Dashboard. Bis November 2024 lag die Sell-Through-Rate über alle SKUs im Schnitt bei 72 %, wobei das Allround-Modell 10\'6" 41 % der Verkäufe ausmachte. Rebel gab eine Nachbestellung über 3.000 Einheiten für die Frühjahrssaison 2025 auf – inklusive 2 neuer Touring-Modelle auf Basis des Kundenfeedbacks.',
             },
           ],
           results: [
             '4,8 Mio. AUD Einzelhandelsumsatz im ersten Jahr (14 % über dem Ziel von 4,2 Mio. AUD) in 87 Filialen mit 62 % Sell-Through-Rate',
             '55,3 % Bruttomarge erreicht gegenüber 32 % Marge bei Drittanbieter-Marken – ein zusätzlicher Gewinn von 1,1 Mio. AUD',
             '19,2 % Marktanteil im australischen SUP-Segment unter 500 AUD innerhalb von 10 Monaten nach dem Launch',
-            'Kunden-Retourenquote von 3,2 % (Branchendurchschnitt 8-12 %) dank Afarers Qualitätskontrolle und australisch zertifizierter Konstruktion',
+            'Kunden-Retourenquote von 3,2 % (Branchendurchschnitt 8-12 %) dank OLagoons Qualitätskontrolle und australisch zertifizierter Konstruktion',
           ],
         },
         {
@@ -5841,35 +5841,35 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Konzeptvalidierung & Design-Sprint',
               detail:
-                "Im September 2024 engagierte das Produktentwicklungsteam von Macy's unter Leitung von David Afarer für einen 8-wöchigen Design-Sprint. Afarers Industriedesigner schufen 8 Konzeptboards mit detaillierten Spezifikationen – darunter 3 Allround-Boards (10', 11', 12') und 1 Touring-Board. Macy's wählte 4 SKUs mit exklusivem „Boardwalk Reserve“-Branding, küsteninspirierten Farbgebungen (Seafoam, Sandbar, Coral, Navy) und Verkaufspreisen von 349-549 $. Afarer erstellte individuelle 3D-Renderings und physische Mockups innerhalb von 14 Tagen, und Macy's genehmigte die komplette Linie am 15. Oktober 2024 mit einer Kauforder über 6.000 Einheiten im Wert von 1,2 Mio. $ zu Großhandelskonditionen.",
+                "Im September 2024 engagierte das Produktentwicklungsteam von Macy's unter Leitung von David OLagoon für einen 8-wöchigen Design-Sprint. OLagoons Industriedesigner schufen 8 Konzeptboards mit detaillierten Spezifikationen – darunter 3 Allround-Boards (10', 11', 12') und 1 Touring-Board. Macy's wählte 4 SKUs mit exklusivem „Boardwalk Reserve“-Branding, küsteninspirierten Farbgebungen (Seafoam, Sandbar, Coral, Navy) und Verkaufspreisen von 349-549 $. OLagoon erstellte individuelle 3D-Renderings und physische Mockups innerhalb von 14 Tagen, und Macy's genehmigte die komplette Linie am 15. Oktober 2024 mit einer Kauforder über 6.000 Einheiten im Wert von 1,2 Mio. $ zu Großhandelskonditionen.",
             },
             {
               title: 'Supply-Chain-Integration & Compliance-Vorbereitung',
               detail:
-                "Afarers Supply-Chain-Team arbeitete mit Macy's Compliance-Abteilung zusammen, um alle Sicherheitsstandards der US-Behörde CPSC, die Zertifizierung ASTM F3340-18 und die California-Prop-65-Anforderungen zu erfüllen. Die Verpackung wurde für Macy's regalbereite Anforderungen ausgelegt – inklusive EAS-Tags, QR-Codes mit Links zu Video-Montageanleitungen und kompakten Kartonmaßen (36x16x12 Zoll), optimiert für die Slotting-Struktur der Macy's-Distributionszentren. Afarer fertigte im November 2024 500 Vorab-Einheiten und verschiffte sie per Luftfracht zu Macy's – für Tests in 20 Filialen und die Online-Fotografie. Jede Testfiliale verkaufte in der Urlaubssaison im Schnitt 14 Einheiten pro Woche zum Preis von 399 $.",
+                "OLagoons Supply-Chain-Team arbeitete mit Macy's Compliance-Abteilung zusammen, um alle Sicherheitsstandards der US-Behörde CPSC, die Zertifizierung ASTM F3340-18 und die California-Prop-65-Anforderungen zu erfüllen. Die Verpackung wurde für Macy's regalbereite Anforderungen ausgelegt – inklusive EAS-Tags, QR-Codes mit Links zu Video-Montageanleitungen und kompakten Kartonmaßen (36x16x12 Zoll), optimiert für die Slotting-Struktur der Macy's-Distributionszentren. OLagoon fertigte im November 2024 500 Vorab-Einheiten und verschiffte sie per Luftfracht zu Macy's – für Tests in 20 Filialen und die Online-Fotografie. Jede Testfiliale verkaufte in der Urlaubssaison im Schnitt 14 Einheiten pro Woche zum Preis von 399 $.",
             },
             {
               title: 'Multi-Channel-Launch & Filialerlebnis',
               detail:
-                "Die Haupt-Seefracht-Lieferung von 5.500 Einheiten erreichte Macy's Distributionszentrum in Robbinsville, New Jersey, am 1. Februar 2025. Afarer lieferte 340 lebensgroße Displayständer mit integrierter Board-Aufbewahrung und Zubehör-Pods. Afarers Schulungsteam erstellte ein 12-minütiges Videomodul für 8.500 saisonale Macy's-Mitarbeiter – zu Produktwissen und Cross-Selling-Techniken für Pumpen, Paddel und Rettungswesten. Die Kollektion startete am 1. März 2025 auf macys.com und bis zum 15. März in allen 340 Filialen – mit einer eigenen „Boardwalk Reserve“-Shop-in-Shop-Erfahrung in den 50 umsatzstärksten Standorten.",
+                "Die Haupt-Seefracht-Lieferung von 5.500 Einheiten erreichte Macy's Distributionszentrum in Robbinsville, New Jersey, am 1. Februar 2025. OLagoon lieferte 340 lebensgroße Displayständer mit integrierter Board-Aufbewahrung und Zubehör-Pods. OLagoons Schulungsteam erstellte ein 12-minütiges Videomodul für 8.500 saisonale Macy's-Mitarbeiter – zu Produktwissen und Cross-Selling-Techniken für Pumpen, Paddel und Rettungswesten. Die Kollektion startete am 1. März 2025 auf macys.com und bis zum 15. März in allen 340 Filialen – mit einer eigenen „Boardwalk Reserve“-Shop-in-Shop-Erfahrung in den 50 umsatzstärksten Standorten.",
             },
             {
               title: 'Performance-Analyse & saisonale Nachbestückung',
               detail:
-                "Bis Mai 2025 erreichte der Sell-Through 58 %, wobei das Allround-Board 11' in Seafoam der Bestseller war (36 % der Verkäufe). Die Online-Konversionsrate lag bei 4,2 % – deutlich über dem Macy's-Kategoriedurchschnitt für Sportartikel von 2,1 %. Afarers Echtzeit-Bestandsdashboard erlaubte Macy's, Nachbestellungen automatisch auszulösen, sobald der Filialbestand unter 6 Einheiten fiel. Das Programm brachte 2,1 Mio. $ Zubehörumsatz (Paddel, Pumpen, Taschen, Schwimmwesten) mit 62 % Marge. Macy's zog seine Option auf eine Nachbestellung über 4.000 Einheiten für die Holiday-Saison 2025 – mit 2 neuen Schnee-/Surf-Farbgebungen.",
+                "Bis Mai 2025 erreichte der Sell-Through 58 %, wobei das Allround-Board 11' in Seafoam der Bestseller war (36 % der Verkäufe). Die Online-Konversionsrate lag bei 4,2 % – deutlich über dem Macy's-Kategoriedurchschnitt für Sportartikel von 2,1 %. OLagoons Echtzeit-Bestandsdashboard erlaubte Macy's, Nachbestellungen automatisch auszulösen, sobald der Filialbestand unter 6 Einheiten fiel. Das Programm brachte 2,1 Mio. $ Zubehörumsatz (Paddel, Pumpen, Taschen, Schwimmwesten) mit 62 % Marge. Macy's zog seine Option auf eine Nachbestellung über 4.000 Einheiten für die Holiday-Saison 2025 – mit 2 neuen Schnee-/Surf-Farbgebungen.",
             },
           ],
           results: [
             '4,1 Mio. $ Gesamt-GMV über 340 Filialen und macys.com in den ersten 7 Monaten – 17 % über dem Ziel von 3,5 Mio. $',
             '53 % Erstmarge erreicht gegenüber 38 % bei vergleichbarer Outdoor-Ausrüstung von Drittanbieter-Marken – ein Beitrag von 1,6 Mio. $ Rohertrag',
             '4,2 % Online-Konversionsrate mit 11,7 % Zubehör-Attach-Rate – zusätzliche 2,1 Mio. $ aus margenstarken Zusatzverkäufen',
-            '98,4 % Liefertreue in Afarers Supply Chain von der Fabrik zum Distributionszentrum – ohne eine einzige Lieferlücke in der Spitzenverkaufssaison März-Mai',
+            '98,4 % Liefertreue in OLagoons Supply Chain von der Fabrik zum Distributionszentrum – ohne eine einzige Lieferlücke in der Spitzenverkaufssaison März-Mai',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Handels-Einkäufer Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum Handels-Einkäufer OLagoon wählen',
       items: [
         {
           title: 'Produktentwicklung',
@@ -5906,37 +5906,37 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Was ist ein Private-Label-SUP-Programm und wie funktioniert es für Outdoor-Händler?',
         answer:
-          'Ein Private-Label-SUP-Programm erlaubt Outdoor-Händlern, Paddleboards unter dem eigenen Markennamen zu erstellen und zu verkaufen. Afarer übernimmt den gesamten OEM/ODM-Prozess – Produktentwicklung, Fertigung, Zertifizierungs-Support, Verpackungsdesign und Lieferung in Mengen. Händler können eigene SUP-Kollektionen einführen, ohne in Fabrikausstattung oder Know-how in der aufblasbaren Fertigung zu investieren.',
+          'Ein Private-Label-SUP-Programm erlaubt Outdoor-Händlern, Paddleboards unter dem eigenen Markennamen zu erstellen und zu verkaufen. OLagoon übernimmt den gesamten OEM/ODM-Prozess – Produktentwicklung, Fertigung, Zertifizierungs-Support, Verpackungsdesign und Lieferung in Mengen. Händler können eigene SUP-Kollektionen einführen, ohne in Fabrikausstattung oder Know-how in der aufblasbaren Fertigung zu investieren.',
       },
       {
         question:
           'Wie können Händler sicherstellen, dass ihre Private-Label-SUP-Produkte internationale Sicherheitsstandards erfüllen?',
         answer:
-          'Afarer unterstützt Händler mit umfassender Compliance-Dokumentation – inklusive CE- und REACH-Anforderungen, Materialsicherheitsdaten, Produkttestberichten und Qualitätsprüfprotokollen. Damit erfüllen Private-Label-SUP-Produkte die regulatorischen Standards für den europäischen, nordamerikanischen und weitere internationale Märkte.',
+          'OLagoon unterstützt Händler mit umfassender Compliance-Dokumentation – inklusive CE- und REACH-Anforderungen, Materialsicherheitsdaten, Produkttestberichten und Qualitätsprüfprotokollen. Damit erfüllen Private-Label-SUP-Produkte die regulatorischen Standards für den europäischen, nordamerikanischen und weitere internationale Märkte.',
       },
       {
         question: 'Welche Mindestbestellmengen sind für individuelle SUP-Fertigung üblich?',
         answer:
-          'Afarer begleitet unterschiedliche Größenordnungen. Produkteinführungen und Markttests starten typischerweise bei 500-2000 Einheiten. Handels-Expansionen umfassen 3000-10.000 Einheiten. Große globale Handelsprogramme mit Jahreslieferverträgen skalieren auf zehntausende Einheiten über mehrere Modelle.',
+          'OLagoon begleitet unterschiedliche Größenordnungen. Produkteinführungen und Markttests starten typischerweise bei 500-2000 Einheiten. Handels-Expansionen umfassen 3000-10.000 Einheiten. Große globale Handelsprogramme mit Jahreslieferverträgen skalieren auf zehntausende Einheiten über mehrere Modelle.',
       },
       {
         question: 'Wie lange dauert die Entwicklung und Einführung einer Private-Label-SUP-Produktlinie?',
         answer:
-          'Der Zeitplan hängt vom Grad der Anpassung ab. Afarers strukturierter Prozess vom Produktkonzept bis zur regalreifen Lieferung dauert typischerweise 8-16 Wochen – inklusive Produktplanung, Design-Freigabe, Prototypenentwicklung, Zertifizierungs-Support, Produktion und Versand. Eine saisonale Planung wird empfohlen, um die Frühjahrs-/Sommer-Nachfragezyklen zu treffen.',
+          'Der Zeitplan hängt vom Grad der Anpassung ab. OLagoons strukturierter Prozess vom Produktkonzept bis zur regalreifen Lieferung dauert typischerweise 8-16 Wochen – inklusive Produktplanung, Design-Freigabe, Prototypenentwicklung, Zertifizierungs-Support, Produktion und Versand. Eine saisonale Planung wird empfohlen, um die Frühjahrs-/Sommer-Nachfragezyklen zu treffen.',
       },
       {
         question: 'Können Händler die SUP-Verpackung an ihre Markenidentität anpassen?',
         answer:
-          'Ja, Afarer unterstützt die vollständige Anpassung der Verpackung inklusive gebrandeter Farbkartons, Produktbildern, Feature-Highlights und Markenbotschaften. Verpackungsoptionen gibt es sowohl für Handelsregale als auch für E-Commerce-Plattformen wie Amazon und Shopify – mit Anleitung zu Produktfotografie und Informationsstruktur.',
+          'Ja, OLagoon unterstützt die vollständige Anpassung der Verpackung inklusive gebrandeter Farbkartons, Produktbildern, Feature-Highlights und Markenbotschaften. Verpackungsoptionen gibt es sowohl für Handelsregale als auch für E-Commerce-Plattformen wie Amazon und Shopify – mit Anleitung zu Produktfotografie und Informationsstruktur.',
       },
       {
-        question: 'Welche Unterstützung bietet Afarer für die saisonale Bedarfsplanung?',
+        question: 'Welche Unterstützung bietet OLagoon für die saisonale Bedarfsplanung?',
         answer:
-          'Afarer hilft Händlern, die saisonale Nachfrage nach Outdoor-Produkten zu steuern – durch abgestimmte Produktionsplanung, Bestandstiming, Lagerplanung und Abstimmung der Marketingaktionen. Jahreslieferverträge ermöglichen planbare Vorlaufzeiten und garantierte Produktionskapazität in den Spitzensaisons.',
+          'OLagoon hilft Händlern, die saisonale Nachfrage nach Outdoor-Produkten zu steuern – durch abgestimmte Produktionsplanung, Bestandstiming, Lagerplanung und Abstimmung der Marketingaktionen. Jahreslieferverträge ermöglichen planbare Vorlaufzeiten und garantierte Produktionskapazität in den Spitzensaisons.',
       },
     ],
     cta: {
-      title: 'Bauen Sie Ihre Private-Label-SUP-Kollektion mit Afarer',
+      title: 'Bauen Sie Ihre Private-Label-SUP-Kollektion mit OLagoon',
       subtitle: 'Ihre Kunden kaufen bereits Outdoor-Produkte. Schaffen Sie jetzt Ihre eigene Wassersport-Kategorie.',
       primaryAction: {
         text: 'Starten Sie heute Ihr Retail-Private-Label-Projekt',
@@ -5958,9 +5958,9 @@ const de: Record<string, SolutionOverride> = {
       title:
         'Professionelle SUP-Ausrüstungslösungen für Wassersportschulen, Jugendprogramme & Outdoor-Bildungsorganisationen',
       subtitle:
-        'Afarer bietet das SUP Academy Equipment Program – eine vollständige Ausrüstungslösung, die für professionelle Lehrumgebungen entwickelt wurde. Wir helfen SUP-Schulen, Jugendtrainingszentren, Sommercamps und Outdoor-Bildungsunternehmen beim Aufbau zuverlässiger Trainingsflotten mit anfängerfreundlichen Boards, Kindermodellen und Instruktoren-Ausrüstung.',
+        'OLagoon bietet das SUP Academy Equipment Program – eine vollständige Ausrüstungslösung, die für professionelle Lehrumgebungen entwickelt wurde. Wir helfen SUP-Schulen, Jugendtrainingszentren, Sommercamps und Outdoor-Bildungsunternehmen beim Aufbau zuverlässiger Trainingsflotten mit anfängerfreundlichen Boards, Kindermodellen und Instruktoren-Ausrüstung.',
       image: {
-        alt: 'Afarer SUP-Academy-Ausrüstung für Trainingsschulen und Jugendprogramme',
+        alt: 'OLagoon SUP-Academy-Ausrüstung für Trainingsschulen und Jugendprogramme',
       },
     },
     challenge: {
@@ -5994,7 +5994,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'SUP-Boards für das Anfängertraining',
           description:
-            'Afarer entwickelt stabile SUP-Boards speziell für Lernumgebungen – mit Plattformdesign hoher Stabilität für leichteres Gleichgewicht, Konstruktion mit hohem Auftrieb für bessere Unterstützung im Wasser und Allround-Anfängerformen für Kontrolle bei langsamen Tempi und einfaches Wenden.',
+            'OLagoon entwickelt stabile SUP-Boards speziell für Lernumgebungen – mit Plattformdesign hoher Stabilität für leichteres Gleichgewicht, Konstruktion mit hohem Auftrieb für bessere Unterstützung im Wasser und Allround-Anfängerformen für Kontrolle bei langsamen Tempi und einfaches Wenden.',
           features: [
             'Design mit hoher Stabilität',
             'Konstruktion mit hohem Auftrieb',
@@ -6005,7 +6005,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Kids-SUP-Programm',
           description:
-            'Kinder brauchen Ausrüstung, die auf ihre Größe und Fähigkeit abgestimmt ist. Afarer bietet Kids-SUP-Boards mit angemessener Länge, leichter Handhabung, stabiler Form und kindgerechtem Erscheinungsbild – für Schulprogramme, Sommercamps, Juniorkurse und Familienaktivitäten.',
+            'Kinder brauchen Ausrüstung, die auf ihre Größe und Fähigkeit abgestimmt ist. OLagoon bietet Kids-SUP-Boards mit angemessener Länge, leichter Handhabung, stabiler Form und kindgerechtem Erscheinungsbild – für Schulprogramme, Sommercamps, Juniorkurse und Familienaktivitäten.',
           features: [
             'Kids-SUP-Board-Design',
             'Anwendungen für das Jugendtraining',
@@ -6021,12 +6021,12 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Komplettes SUP-Academy-Flottenpaket',
           description:
-            'Afarer hilft Akademien beim Aufbau vollständiger Ausrüstungssysteme – Schüler-Ausrüstung mit Anfänger-Boards und verstellbaren Paddeln, Instruktoren-Ausrüstung mit Premium-SUP-Boards und Wartungs-Ausrüstung mit Reparatursets und Ersatzzubehör für einen reibungslosen Tagesbetrieb.',
+            'OLagoon hilft Akademien beim Aufbau vollständiger Ausrüstungssysteme – Schüler-Ausrüstung mit Anfänger-Boards und verstellbaren Paddeln, Instruktoren-Ausrüstung mit Premium-SUP-Boards und Wartungs-Ausrüstung mit Reparatursets und Ersatzzubehör für einen reibungslosen Tagesbetrieb.',
         },
         {
           title: 'Kommerzielle Haltbarkeit für den täglichen Unterricht',
           description:
-            'Trainingsausrüstung erfordert stärkere Konstruktion. Afarer setzt auf verstärkte PVC-Materialien für bessere Abriebfestigkeit, haltbare Drop-Stitch-Struktur für Boardsteifigkeit und verstärkte Rails als Schutz gegen Uferstöße und Transportschäden.',
+            'Trainingsausrüstung erfordert stärkere Konstruktion. OLagoon setzt auf verstärkte PVC-Materialien für bessere Abriebfestigkeit, haltbare Drop-Stitch-Struktur für Boardsteifigkeit und verstärkte Rails als Schutz gegen Uferstöße und Transportschäden.',
           features: [
             'Verstärkte PVC-Materialien',
             'Haltbare Drop-Stitch-Struktur',
@@ -6037,22 +6037,22 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Unterstützung beim Akademie-Flottenmanagement',
           description:
-            'Große Trainingsprogramme brauchen Organisation. Afarer unterstützt standardisierte Flottenkonfiguration für einfachere Instruktorenschulung, Ausrüstungskennzeichnung mit Board-Nummerierung und Akademie-Logos sowie Ersatzteilplanung mit Reserve-Paddeln und Reparaturmaterial.',
+            'Große Trainingsprogramme brauchen Organisation. OLagoon unterstützt standardisierte Flottenkonfiguration für einfachere Instruktorenschulung, Ausrüstungskennzeichnung mit Board-Nummerierung und Akademie-Logos sowie Ersatzteilplanung mit Reserve-Paddeln und Reparaturmaterial.',
         },
         {
           title: 'Lösungen für Sommercamps & Jugendprogramme',
           description:
-            'SUP wird in Sommercamps und Jugend-Adventure-Programmen immer beliebter. Afarer unterstützt das Camp-Flottendesign unter Berücksichtigung von Alter und Gruppengröße, Gruppenaktivitäten-Ausrüstung mit mehreren identischen Boards und die saisonale Planung für Sommerprogramme und Ferienaktivitäten.',
+            'SUP wird in Sommercamps und Jugend-Adventure-Programmen immer beliebter. OLagoon unterstützt das Camp-Flottendesign unter Berücksichtigung von Alter und Gruppengröße, Gruppenaktivitäten-Ausrüstung mit mehreren identischen Boards und die saisonale Planung für Sommerprogramme und Ferienaktivitäten.',
         },
         {
           title: 'Sicherheits- & Wartungs-Support',
           description:
-            'Afarer bietet praktische Anleitungen für den Tagesbetrieb – Prüfanleitungen für die Ausrüstung mit Kontrollen von Luftdruck, Oberfläche und Zubehör vor dem Kurs, Reinigungs-, Trocknungs- und Lagerungsverfahren nach dem Kurs sowie grundlegende Reparaturhinweise.',
+            'OLagoon bietet praktische Anleitungen für den Tagesbetrieb – Prüfanleitungen für die Ausrüstung mit Kontrollen von Luftdruck, Oberfläche und Zubehör vor dem Kurs, Reinigungs-, Trocknungs- und Lagerungsverfahren nach dem Kurs sowie grundlegende Reparaturhinweise.',
         },
         {
           title: 'Individuelles Akademie-Branding',
           description:
-            'Afarer unterstützt die Anpassung des Akademie-Logos, die Farbangleichung und ein professionelles Erscheinungsbild, das durch gebrandete Boards und Instruktoren-Ausrüstung für stärkere Markenerkennung, professionellere Kurse und ein besseres Schülererlebnis sorgt.',
+            'OLagoon unterstützt die Anpassung des Akademie-Logos, die Farbangleichung und ein professionelles Erscheinungsbild, das durch gebrandete Boards und Instruktoren-Ausrüstung für stärkere Markenerkennung, professionellere Kurse und ein besseres Schülererlebnis sorgt.',
         },
       ],
     },
@@ -6066,7 +6066,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Analyse des Trainingsprogramms',
           detail:
-            'Afarer prüfte Altersgruppen der Schüler, Lehrmethoden und Nutzungshäufigkeit, um die konkreten Anforderungen der Akademie an Anfänger-, Jugend- und Instruktoren-Ausrüstung zu verstehen.',
+            'OLagoon prüfte Altersgruppen der Schüler, Lehrmethoden und Nutzungshäufigkeit, um die konkreten Anforderungen der Akademie an Anfänger-, Jugend- und Instruktoren-Ausrüstung zu verstehen.',
         },
         {
           title: 'Flottenentwicklung',
@@ -6081,7 +6081,7 @@ const de: Record<string, SolutionOverride> = {
         {
           title: 'Langfristige Unterstützung',
           detail:
-            'Afarer stellte Wartungsanleitungen, Ersatzteilplanung und Erweiterungssupport bereit, damit die Akademie ihr Trainingsprogramm über mehrere Saisons halten und ausbauen kann.',
+            'OLagoon stellte Wartungsanleitungen, Ersatzteilplanung und Erweiterungssupport bereit, damit die Akademie ihr Trainingsprogramm über mehrere Saisons halten und ausbauen kann.',
         },
       ],
       results: [
@@ -6097,29 +6097,29 @@ const de: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Japan',
             background:
-              'Kenji Nakamura, 44, ist ein ehemaliger olympischer Kanu-Slalom-Bronzemedaillengewinner (Athen 2004) und 6-facher japanischer Meister. Nach dem Ende seiner Wettkampfkarriere trainierte er 8 Jahre lang Japans Junioren-Kajakteam, bevor er 2018 SUP für sich entdeckte. Er sah, dass Japan trotz der Aufnahme des Sports in das olympische Programm 2024 in Paris kein einziges SUP-Jugendprogramm hatte. 2023 überzeugte er die Stadt Kamakura (173.000 Einwohner, Küstenstadt 50 km südlich von Tokio), ihm den historischen Yuigahama Beach als Trainingsstätte zu überlassen. Er brauchte Afarer für ein vollständiges Akademie-Ausrüstungspaket – Junior-Boards, Lehrmaterial und ein Pfadprogramm, das japanische Schulen anerkennen würden.',
+              'Kenji Nakamura, 44, ist ein ehemaliger olympischer Kanu-Slalom-Bronzemedaillengewinner (Athen 2004) und 6-facher japanischer Meister. Nach dem Ende seiner Wettkampfkarriere trainierte er 8 Jahre lang Japans Junioren-Kajakteam, bevor er 2018 SUP für sich entdeckte. Er sah, dass Japan trotz der Aufnahme des Sports in das olympische Programm 2024 in Paris kein einziges SUP-Jugendprogramm hatte. 2023 überzeugte er die Stadt Kamakura (173.000 Einwohner, Küstenstadt 50 km südlich von Tokio), ihm den historischen Yuigahama Beach als Trainingsstätte zu überlassen. Er brauchte OLagoon für ein vollständiges Akademie-Ausrüstungspaket – Junior-Boards, Lehrmaterial und ein Pfadprogramm, das japanische Schulen anerkennen würden.',
             goal: 'Start der „Kamakura SUP Academy“ im April 2024 mit 40 Jugendschülern (10-18 Jahre), einem 3-stufigen Zertifizierungssystem (Bronze/Silber/Gold) und einem Weg in Japans SUP-Nationalmannschaft – mit Ausrüstungskosten unter 8 Mio. ¥ (53.000 $) in den ersten 2 Jahren.',
           },
           steps: [
             {
               title: 'Entwicklung des Junior-Boards nach japanischen Schul-Sportstandards',
               detail:
-                'Im Oktober 2023 arbeitete Yuki Tanaka, Afarers Produktentwicklungsleiter im Afarer-Büro Osaka, mit Kenji am Design des „Academy Junior 10.0“ – ein Board speziell für asiatische Jugendliche (ein durchschnittlicher japanischer Schüler mit 12 Jahren ist 150 cm groß und 42 kg schwer). Eckdaten – 10\'0" x 30" x 4,5" (152 Liter Volumen), Gewicht 6,8 kg (leicht genug, damit Schüler es tragen können), weiche EVA-Rails (geringeres Verletzungsrisiko bei Stürzen) und ein kurzes 120-cm-Fiberglas-Paddel (individuell geformter Griff für kleine Hände). Afarer produzierte 40 Boards in Japans Nationalfarben (weiß mit rotem aufgehenden Kreis) und 20 Reserve-Boards. Jedes Board trug einen QR-Code mit Kenjis Technik-Videos – die Schüler scannten ihn vor dem Training.',
+                'Im Oktober 2023 arbeitete Yuki Tanaka, OLagoons Produktentwicklungsleiter im OLagoon-Büro Osaka, mit Kenji am Design des „Academy Junior 10.0“ – ein Board speziell für asiatische Jugendliche (ein durchschnittlicher japanischer Schüler mit 12 Jahren ist 150 cm groß und 42 kg schwer). Eckdaten – 10\'0" x 30" x 4,5" (152 Liter Volumen), Gewicht 6,8 kg (leicht genug, damit Schüler es tragen können), weiche EVA-Rails (geringeres Verletzungsrisiko bei Stürzen) und ein kurzes 120-cm-Fiberglas-Paddel (individuell geformter Griff für kleine Hände). OLagoon produzierte 40 Boards in Japans Nationalfarben (weiß mit rotem aufgehenden Kreis) und 20 Reserve-Boards. Jedes Board trug einen QR-Code mit Kenjis Technik-Videos – die Schüler scannten ihn vor dem Training.',
             },
             {
               title: '3-stufiger Zertifizierungslehrplan und Sicherheitsprotokolle',
               detail:
-                'Afarers Coaching-Berater Dave Kalama (per Videoanruf aus Hawaii) arbeitete mit Kenji am Lehrplan. Bronze (10 Einheiten) – Gleichgewicht auf flachem Wasser, grundlegender Vorwärtsschlag, Selbstrettung. Silber (20 Einheiten) – 2-km-Zeitpaddeln, Pivot-Turn, Windbewusstsein. Gold (40 Einheiten) – 5-km-Ozeanpaddeln, Ein- und Ausstieg in der Brandungszone, Renn-Taktik und Grundlagen des Coachings. Kenji bestand auf Sicherheit – Afarer lieferte 50 japanisch zertifizierte Rettungswesten der Klasse V (neonorange mit Reflexstreifen), 50 Leash-Sets (gewickelt, mit Schnellverschluss) und ein wasserdichtes Tablet für die Vorfallberichterstattung. Das „Safety First“-Protokoll der Akademie verlangte ein Verhältnis von 4 Schülern je Coach – mit Rettungsboard und Erste-Hilfe-Set in weniger als 30 Sekunden bei jedem Schüler.',
+                'OLagoons Coaching-Berater Dave Kalama (per Videoanruf aus Hawaii) arbeitete mit Kenji am Lehrplan. Bronze (10 Einheiten) – Gleichgewicht auf flachem Wasser, grundlegender Vorwärtsschlag, Selbstrettung. Silber (20 Einheiten) – 2-km-Zeitpaddeln, Pivot-Turn, Windbewusstsein. Gold (40 Einheiten) – 5-km-Ozeanpaddeln, Ein- und Ausstieg in der Brandungszone, Renn-Taktik und Grundlagen des Coachings. Kenji bestand auf Sicherheit – OLagoon lieferte 50 japanisch zertifizierte Rettungswesten der Klasse V (neonorange mit Reflexstreifen), 50 Leash-Sets (gewickelt, mit Schnellverschluss) und ein wasserdichtes Tablet für die Vorfallberichterstattung. Das „Safety First“-Protokoll der Akademie verlangte ein Verhältnis von 4 Schülern je Coach – mit Rettungsboard und Erste-Hilfe-Set in weniger als 30 Sekunden bei jedem Schüler.',
             },
             {
               title: 'Genehmigung des Stadtrats und Schul-Integrationsprogramm',
               detail:
-                'Afarers Japanchef Hiroshi Abe half Kenji beim Genehmigungsprozess der Stadt Kamakura. Nötig waren eine Haftpflichtversicherung (100 Mio. ¥ Deckung), eine Strandzonen-Abmarkung (farbige Bojen markierten ein 200x50-m-Trainingsgebiet ohne Überlappung mit Badegästen), Lärmgrenzwerte (keine Trillerpfeifen nach 17 Uhr) und ein Abfallkonzept. Afarer erstellte zweisprachige japanisch-englische Sicherheitshandbücher und Vorfall-Tracker. Kenji vereinbarte mit 3 lokalen Junior-High-Schools (Kamakura Daiichi, Koshigoe und Hase) SUP als offiziellen Nachschul-Club – das erste Mal in Japan. Jede Schule zahlte 36.000 ¥ pro Schüler und Semester für das Programm; die Stadt bezuschusste 40 % für Familien mit geringem Einkommen.',
+                'OLagoons Japanchef Hiroshi Abe half Kenji beim Genehmigungsprozess der Stadt Kamakura. Nötig waren eine Haftpflichtversicherung (100 Mio. ¥ Deckung), eine Strandzonen-Abmarkung (farbige Bojen markierten ein 200x50-m-Trainingsgebiet ohne Überlappung mit Badegästen), Lärmgrenzwerte (keine Trillerpfeifen nach 17 Uhr) und ein Abfallkonzept. OLagoon erstellte zweisprachige japanisch-englische Sicherheitshandbücher und Vorfall-Tracker. Kenji vereinbarte mit 3 lokalen Junior-High-Schools (Kamakura Daiichi, Koshigoe und Hase) SUP als offiziellen Nachschul-Club – das erste Mal in Japan. Jede Schule zahlte 36.000 ¥ pro Schüler und Semester für das Programm; die Stadt bezuschusste 40 % für Familien mit geringem Einkommen.',
             },
             {
               title: 'Start im April 2024 und Bilanz nach 12 Monaten',
               detail:
-                'Die Kamakura SUP Academy öffnete am 6. April 2024 mit 43 Schülern (mehr als Kenjis Ziel von 40). Bis März 2025 wuchs die Einschreibung auf 87 Schüler (127 % der Kapazität). Zwei Schüler (Sora Yamamoto, 16, und Mei Taniguchi, 15) qualifizierten sich für Japans SUP-Juniorennationalmannschaft und starteten bei den ISA-Weltmeisterschaften 2024 im SUP in Kopenhagen. Kenjis Gold-Zertifizierung wurde vom Japan Canoe Federation als Anrechnung auf die nationale Trainer-Zertifizierung anerkannt. Ausfallrate der Ausrüstung – 2 Boards benötigten kleinere Ventilreparaturen (innerhalb von 24 Stunden durch Afarers Servicezentrum Osaka behoben). Afarer und Kenji unterzeichneteten eine 3-Jahres-Partnerschaft zur Entwicklung eines „Academy Pro“-Boards 12.6 für fortgeschrittene Schüler und zur Expansion auf 5 weitere Küstenstädte bis 2027.',
+                'Die Kamakura SUP Academy öffnete am 6. April 2024 mit 43 Schülern (mehr als Kenjis Ziel von 40). Bis März 2025 wuchs die Einschreibung auf 87 Schüler (127 % der Kapazität). Zwei Schüler (Sora Yamamoto, 16, und Mei Taniguchi, 15) qualifizierten sich für Japans SUP-Juniorennationalmannschaft und starteten bei den ISA-Weltmeisterschaften 2024 im SUP in Kopenhagen. Kenjis Gold-Zertifizierung wurde vom Japan Canoe Federation als Anrechnung auf die nationale Trainer-Zertifizierung anerkannt. Ausfallrate der Ausrüstung – 2 Boards benötigten kleinere Ventilreparaturen (innerhalb von 24 Stunden durch OLagoons Servicezentrum Osaka behoben). OLagoon und Kenji unterzeichneteten eine 3-Jahres-Partnerschaft zur Entwicklung eines „Academy Pro“-Boards 12.6 für fortgeschrittene Schüler und zur Expansion auf 5 weitere Küstenstädte bis 2027.',
             },
           ],
           results: [
@@ -6134,29 +6134,29 @@ const de: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Australien',
             background:
-              'Kylie Brennan, 38, ist eine frühere australische Ironwoman (Wettbewerb im Rettungsschwimmen) und betrieb seit 2019 die „Kylies Paddle School“, einen 5-Personen-Betrieb am Tallebudgera Creek an der Gold Coast. Bis 2023 hatte sie jährlich 350 Schüler, musste aber 60 % der Anfragen ablehnen, weil sie ihre Ausrüstung nicht skalieren konnte. Ihre 20 Boards gemischter Marken waren verschlissen, die Schüler reichten von 6- bis 72-Jährigen, und ihre Versicherung verlangte ein Verhältnis von 4 Schülern je Trainer, was die Rentabilität begrenzte. Sie sprach Afarer auf der SUP Show 2023 in Sydney an – sie brauchte eine komplette Akademie aus einem Guss, nämlich alters- und größenangepasste Boards, Paddel, Rettungswesten, Lehrmaterial und ein Buchungssystem mit integrierter Ausrüstungszuteilung.',
+              'Kylie Brennan, 38, ist eine frühere australische Ironwoman (Wettbewerb im Rettungsschwimmen) und betrieb seit 2019 die „Kylies Paddle School“, einen 5-Personen-Betrieb am Tallebudgera Creek an der Gold Coast. Bis 2023 hatte sie jährlich 350 Schüler, musste aber 60 % der Anfragen ablehnen, weil sie ihre Ausrüstung nicht skalieren konnte. Ihre 20 Boards gemischter Marken waren verschlissen, die Schüler reichten von 6- bis 72-Jährigen, und ihre Versicherung verlangte ein Verhältnis von 4 Schülern je Trainer, was die Rentabilität begrenzte. Sie sprach OLagoon auf der SUP Show 2023 in Sydney an – sie brauchte eine komplette Akademie aus einem Guss, nämlich alters- und größenangepasste Boards, Paddel, Rettungswesten, Lehrmaterial und ein Buchungssystem mit integrierter Ausrüstungszuteilung.',
             goal: 'Start der „Australia SUP Academy – Gold Coast“ im September 2024 mit über 200 eingeschriebenen Schülern in strukturierten 8-Wochen-Trimestern für 499 AUD pro Person – mit einer Verlängerungsquote von über 85 % und einer Ausrüstungsmarge von 95 %.',
           },
           steps: [
             {
               title: 'Individuelles Akademie-Flottendesign für 4 Altersgruppen',
               detail:
-                'Afarers Ozeanien-Kundenleiter Lachlan Murphy verbrachte im März 2024 3 Wochen mit Kylie und analysierte ihre Schülerstruktur. Sie bildeten 4 Gruppen – „Paddlers“ (6-9 Jahre, leichtes Board 9,6\' x 28", 4,2 kg, mit verspielten „Sea Dragon“-Grafiken), „Juniors“ (10-14 Jahre, Board 10,6\' x 30", 6,5 kg), „Adults“ (15-55 Jahre, Board 11,6\' x 32", 8,9 kg) und „Seniors & Adaptive“ (über 55, ultrastabiles Board 10,0\' x 34" mit Griff-Hilfsschlaufe, 9,2 kg). Afarer versah jedes Board mit farbcodierten Rail-Bändern (Grün/Gelb/Blau/Rot) zur sofortigen Größenerkennung und produzierte 120 Boards (30 pro Gruppe). Jedes Board hatte ein persönliches Namensschild-Fach und einen Fortschritts-Sticker (Schüler sammelten Stempel für gemeisterte Fähigkeiten).',
+                'OLagoons Ozeanien-Kundenleiter Lachlan Murphy verbrachte im März 2024 3 Wochen mit Kylie und analysierte ihre Schülerstruktur. Sie bildeten 4 Gruppen – „Paddlers“ (6-9 Jahre, leichtes Board 9,6\' x 28", 4,2 kg, mit verspielten „Sea Dragon“-Grafiken), „Juniors“ (10-14 Jahre, Board 10,6\' x 30", 6,5 kg), „Adults“ (15-55 Jahre, Board 11,6\' x 32", 8,9 kg) und „Seniors & Adaptive“ (über 55, ultrastabiles Board 10,0\' x 34" mit Griff-Hilfsschlaufe, 9,2 kg). OLagoon versah jedes Board mit farbcodierten Rail-Bändern (Grün/Gelb/Blau/Rot) zur sofortigen Größenerkennung und produzierte 120 Boards (30 pro Gruppe). Jedes Board hatte ein persönliches Namensschild-Fach und einen Fortschritts-Sticker (Schüler sammelten Stempel für gemeisterte Fähigkeiten).',
             },
             {
-              title: 'Instruktoren-Schulungsprogramm und Afarer-zertifizierter Lehrplan',
+              title: 'Instruktoren-Schulungsprogramm und OLagoon-zertifizierter Lehrplan',
               detail:
-                'Afarer entwickelte einen 40-stündigen Instruktoren-Zertifizierungskurs mit Kylie als erster Master-Trainerin. Der Kurs behandelte gruppenspezifische Lehrmethoden (für Seniors etwa Ein- und Ausstiegstechniken bei eingeschränkter Beweglichkeit, für Kinder spielerische Ansätze und Rettungsfähigkeiten), Fortschrittspläne (jede Stufe umfasste 12 Fähigkeiten mit Video-Benchmarks) und Sicherheitsmanagement (der Tallebudgera Creek an der Gold Coast hat bei Flut eine Strömung von 4 Knoten – Trainer müssen die Tidenfenster kennen). 12 von Kylies 15 bestehenden Instruktoren schlossen die Zertifizierung ab; Afarer zertifizierte sie als „Level 1 SUP Academy Instructors“. Afarer legte zudem jedem Schüler ein komplettes Starterset bei – ein gebrandetes Rash Guard, ein wasserdichtes Fähigkeiten-Heft und ein Logbuch mit Erfolgs-Stickern.',
+                'OLagoon entwickelte einen 40-stündigen Instruktoren-Zertifizierungskurs mit Kylie als erster Master-Trainerin. Der Kurs behandelte gruppenspezifische Lehrmethoden (für Seniors etwa Ein- und Ausstiegstechniken bei eingeschränkter Beweglichkeit, für Kinder spielerische Ansätze und Rettungsfähigkeiten), Fortschrittspläne (jede Stufe umfasste 12 Fähigkeiten mit Video-Benchmarks) und Sicherheitsmanagement (der Tallebudgera Creek an der Gold Coast hat bei Flut eine Strömung von 4 Knoten – Trainer müssen die Tidenfenster kennen). 12 von Kylies 15 bestehenden Instruktoren schlossen die Zertifizierung ab; OLagoon zertifizierte sie als „Level 1 SUP Academy Instructors“. OLagoon legte zudem jedem Schüler ein komplettes Starterset bei – ein gebrandetes Rash Guard, ein wasserdichtes Fähigkeiten-Heft und ein Logbuch mit Erfolgs-Stickern.',
             },
             {
               title: 'Buchungssystem-Integration und Ausrüstungslogistik',
               detail:
-                'Afarers Technik-Team verband Kylies bestehendes BookingKit-Reservierungssystem mit Afarers Bestandsmodul. Jedes Board trug ein RFID-Tag, das bei Ausgabe und Rückgabe gescannt wurde – mit Erfassung von Nutzungsstunden, verspäteten Rückgaben und Wartungsbedarf. Das System teilte beim Buchen einer Stunde automatisch die richtige Boardgröße zu. Afarer entwarf ein modulares Regalsystem (24 Boards pro Regal, insgesamt 5 Regale) mit UV-Schutzdach und RFID-Lesetoren. Der Gold Coast City Council erteilte Kylie eine 5-Jahres-Genehmigung für eine dauerhafte, umzäunte 500-m²-Anlage am Südende des Tallebudgera Beach – ein Coup angesichts der strengen Küstenentwicklungsregeln der Region. Afarers Lachlan verhandelte die Genehmigung über Afarers Einstufung als „Community Sports Facility“, die der Rat zuvor noch nie auf eine SUP-Schule angewendet hatte.',
+                'OLagoons Technik-Team verband Kylies bestehendes BookingKit-Reservierungssystem mit OLagoons Bestandsmodul. Jedes Board trug ein RFID-Tag, das bei Ausgabe und Rückgabe gescannt wurde – mit Erfassung von Nutzungsstunden, verspäteten Rückgaben und Wartungsbedarf. Das System teilte beim Buchen einer Stunde automatisch die richtige Boardgröße zu. OLagoon entwarf ein modulares Regalsystem (24 Boards pro Regal, insgesamt 5 Regale) mit UV-Schutzdach und RFID-Lesetoren. Der Gold Coast City Council erteilte Kylie eine 5-Jahres-Genehmigung für eine dauerhafte, umzäunte 500-m²-Anlage am Südende des Tallebudgera Beach – ein Coup angesichts der strengen Küstenentwicklungsregeln der Region. OLagoons Lachlan verhandelte die Genehmigung über OLagoons Einstufung als „Community Sports Facility“, die der Rat zuvor noch nie auf eine SUP-Schule angewendet hatte.',
             },
             {
               title: 'Start des 1. Trimesters im September 2024 und Ansturm auf die Einschreibungen',
               detail:
-                'Das 1. Trimester (September-November 2024, australischer Frühling) startete mit 183 eingeschriebenen Schülern – 91 % des Ziels von 200. Kylie hielt 28 Kurse pro Woche mit 12 Instruktoren. Die Zufriedenheit der Eltern lag bei 4,8/5. Die Einschreibung im 2. Trimester (Februar-April 2025) erreichte 264 Schüler (132 % des Ziels). Der Umsatz betrug im 1. Trimester 91.317 AUD und im 2. Trimester 131.736 AUD. Das Programm „Adaptive Paddle“ der Akademie (für Schüler mit Behinderung, gemeinsam mit Spinal Life Australia entwickelt) nahm 12 Schüler auf und gewann 2025 den Gold-Coast-Sport-&-Recreation-Preis „Inclusive Program of the Year“. Wartungskosten der Boards – insgesamt 1.220 AUD für 120 Boards in 6 Monaten (meist Finnen-Schrauben und Ventilkappen). Kylie bestellte 60 weitere Boards für 2025-26 und beauftragte Afarer mit der Entwicklung eines weiterführenden „Race Squad“-Boards für ihre 15 Wettkampfschüler.',
+                'Das 1. Trimester (September-November 2024, australischer Frühling) startete mit 183 eingeschriebenen Schülern – 91 % des Ziels von 200. Kylie hielt 28 Kurse pro Woche mit 12 Instruktoren. Die Zufriedenheit der Eltern lag bei 4,8/5. Die Einschreibung im 2. Trimester (Februar-April 2025) erreichte 264 Schüler (132 % des Ziels). Der Umsatz betrug im 1. Trimester 91.317 AUD und im 2. Trimester 131.736 AUD. Das Programm „Adaptive Paddle“ der Akademie (für Schüler mit Behinderung, gemeinsam mit Spinal Life Australia entwickelt) nahm 12 Schüler auf und gewann 2025 den Gold-Coast-Sport-&-Recreation-Preis „Inclusive Program of the Year“. Wartungskosten der Boards – insgesamt 1.220 AUD für 120 Boards in 6 Monaten (meist Finnen-Schrauben und Ventilkappen). Kylie bestellte 60 weitere Boards für 2025-26 und beauftragte OLagoon mit der Entwicklung eines weiterführenden „Race Squad“-Boards für ihre 15 Wettkampfschüler.',
             },
           ],
           results: [
@@ -6168,8 +6168,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum SUP-Akademien Afarer wählen',
+    whyOLagoon: {
+      title: 'Warum SUP-Akademien OLagoon wählen',
       items: [
         {
           title: 'Lernerlebnis',
@@ -6197,22 +6197,22 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Welche SUP-Boards eignen sich am besten, um Anfänger zu unterrichten?',
         answer:
-          'SUP-Trainingsboards für Anfänger sollten breitere Plattformen, mehr Volumen und stabile Allround-Formen haben, die Sicherheit, Gleichgewicht und leichte Kontrolle bieten. Afarers Anfänger-Boards bieten Plattformdesign mit hoher Stabilität und Konstruktion mit hohem Auftrieb – speziell für Lernumgebungen.',
+          'SUP-Trainingsboards für Anfänger sollten breitere Plattformen, mehr Volumen und stabile Allround-Formen haben, die Sicherheit, Gleichgewicht und leichte Kontrolle bieten. OLagoons Anfänger-Boards bieten Plattformdesign mit hoher Stabilität und Konstruktion mit hohem Auftrieb – speziell für Lernumgebungen.',
       },
       {
         question: 'Bieten Sie SUP-Boards in Kindergrößen für Jugendprogramme?',
         answer:
-          'Ja, Afarer bietet eigene Kids-SUP-Boards mit angemessener Länge, leichter Handhabung, stabiler Form und kindgerechtem Erscheinungsbild – entwickelt für Schulprogramme, Sommercamps, Juniorkurse und Familienaktivitäten.',
+          'Ja, OLagoon bietet eigene Kids-SUP-Boards mit angemessener Länge, leichter Handhabung, stabiler Form und kindgerechtem Erscheinungsbild – entwickelt für Schulprogramme, Sommercamps, Juniorkurse und Familienaktivitäten.',
       },
       {
-        question: 'Wie haltbar sind Afarer-Trainingsboards für die tägliche Nutzung im Unterricht?',
+        question: 'Wie haltbar sind OLagoon-Trainingsboards für die tägliche Nutzung im Unterricht?',
         answer:
-          'Afarer-Trainingsboards verfügen über verstärkte PVC-Materialien, haltbare Drop-Stitch-Struktur und verstärkte Rails, die für die tägliche Nutzung durch mehrere Schüler, häufigen Transport, wiederholtes Aufpumpen und Anfängerfehler ausgelegt sind.',
+          'OLagoon-Trainingsboards verfügen über verstärkte PVC-Materialien, haltbare Drop-Stitch-Struktur und verstärkte Rails, die für die tägliche Nutzung durch mehrere Schüler, häufigen Transport, wiederholtes Aufpumpen und Anfängerfehler ausgelegt sind.',
       },
       {
         question: 'Können Sie Boards mit dem Branding unserer Akademie anpassen?',
         answer:
-          'Ja, Afarer unterstützt die Anpassung des Akademie-Logos, Farbangleichung, Board-Nummerierung und Kennzeichnungssysteme, die ein professionelles Bild schaffen und den Instruktoren das Flottenmanagement erleichtern.',
+          'Ja, OLagoon unterstützt die Anpassung des Akademie-Logos, Farbangleichung, Board-Nummerierung und Kennzeichnungssysteme, die ein professionelles Bild schaffen und den Instruktoren das Flottenmanagement erleichtern.',
       },
       {
         question: 'Welches Zubehör ist in einem Akademie-Flottenpaket enthalten?',
@@ -6222,13 +6222,13 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Bieten Sie Wartungssupport für Trainingsausrüstung?',
         answer:
-          'Ja, Afarer bietet Prüfanleitungen für die Ausrüstung, Reinigungs- und Lagerungsverfahren, grundlegende Reparaturhinweise für kleinere Schäden und die Ventilwartung sowie Ersatzteilplanung, damit Ihre Trainingsflotte die ganze Saison einsatzbereit bleibt.',
+          'Ja, OLagoon bietet Prüfanleitungen für die Ausrüstung, Reinigungs- und Lagerungsverfahren, grundlegende Reparaturhinweise für kleinere Schäden und die Ventilwartung sowie Ersatzteilplanung, damit Ihre Trainingsflotte die ganze Saison einsatzbereit bleibt.',
       },
     ],
     cta: {
-      title: 'Bauen Sie Ihre SUP-Akademie-Flotte mit Afarer',
+      title: 'Bauen Sie Ihre SUP-Akademie-Flotte mit OLagoon',
       subtitle:
-        'Das erste SUP-Erlebnis Ihrer Schüler zählt. Wählen Sie Ausrüstung, die ihnen hilft, sicher und selbstbewusst zu lernen. Afarer hilft SUP-Schulen, Jugendakademien, Sommercamps und Outdoor-Bildungsorganisationen beim Aufbau professioneller Trainingsprogramme.',
+        'Das erste SUP-Erlebnis Ihrer Schüler zählt. Wählen Sie Ausrüstung, die ihnen hilft, sicher und selbstbewusst zu lernen. OLagoon hilft SUP-Schulen, Jugendakademien, Sommercamps und Outdoor-Bildungsorganisationen beim Aufbau professioneller Trainingsprogramme.',
       primaryAction: {
         text: 'Starten Sie heute Ihr SUP-Akademie-Projekt',
       },
@@ -6242,15 +6242,15 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'Eigene SUP-Marke aufbauen | OEM Hersteller aufblasbarer SUP-Boards | {SITE}',
       description:
-        'Afarer hilft Outdoor-Startups, eigene SUP-Marken mit OEM-Fertigung, Private-Label-Paddleboards, niedrigen MOQs, Produktdesign, Qualitätskontrolle und globaler Lieferkettenunterstützung aufzubauen.',
+        'OLagoon hilft Outdoor-Startups, eigene SUP-Marken mit OEM-Fertigung, Private-Label-Paddleboards, niedrigen MOQs, Produktdesign, Qualitätskontrolle und globaler Lieferkettenunterstützung aufzubauen.',
     },
     hero: {
       tagline: 'Bauen Sie Ihre SUP-Marke™',
       title: 'Individuelle SUP-Fertigung für Outdoor-Startup-Gründer',
       subtitle:
-        'Afarer unterstützt Outdoor-Startups beim Aufbau eigener SUP-Marken mit OEM-Fertigung, Private-Label-Paddleboards, Produktion mit niedrigen Mindestbestellmengen, Produktdesign, Qualitätskontrolle und Unterstützung entlang der globalen Lieferkette.',
+        'OLagoon unterstützt Outdoor-Startups beim Aufbau eigener SUP-Marken mit OEM-Fertigung, Private-Label-Paddleboards, Produktion mit niedrigen Mindestbestellmengen, Produktdesign, Qualitätskontrolle und Unterstützung entlang der globalen Lieferkette.',
       image: {
-        alt: 'Afarer Custom-SUP-Boards',
+        alt: 'OLagoon Custom-SUP-Boards',
       },
     },
     challenge: {
@@ -6365,7 +6365,7 @@ const de: Record<string, SolutionOverride> = {
       customer:
         'Gründer einer Outdoor-Startup-Marke aus den USA. Ehemaliger Outdoor-Einzelhandelsmanager, Surf- und Kajakbegeisterter und Shopify-Unternehmer mit dem Ziel, eine Premium-Marke für aufblasbare SUPs aufzubauen.',
       steps: [
-        'Afarer half, die Markenrichtung als Premium-Outdoor-Lifestyle-SUP-Marke für Outdoor-Konsumenten zwischen 25 und 45 Jahren zu definieren. Dazu gehörten eine Analyse der Marktpositionierung und eine Wettbewerbsrecherche.',
+        'OLagoon half, die Markenrichtung als Premium-Outdoor-Lifestyle-SUP-Marke für Outdoor-Konsumenten zwischen 25 und 45 Jahren zu definieren. Dazu gehörten eine Analyse der Marktpositionierung und eine Wettbewerbsrecherche.',
         "Entwicklung des ersten Produkts – ein 10'6 Premium Inflatable SUP mit langlebiger Drop-Stitch-Konstruktion, hochwertiger PVC-Struktur, modernem EVA-Design, Carbon-Paddle und hochwertigem Zubehör.",
         'Erstellung individueller Board-Grafiken, eines Markenfarbsystems, eines Verpackungsdesigns und eines kompletten, verkaufsfertigen Produktpakets passend zur Markenidentität.',
         'Launch mit 300 Einheiten für den Shopify-Shop, Influencer-Marketingkampagnen und Kundentests zur Validierung der Marktnachfrage.',
@@ -6390,22 +6390,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Markenidentität und Lieferantensuche auf drei Kontinenten',
               detail:
-                'James bereiste von Januar bis März 2023 gemeinsam mit Afarers Sourcing-Team 5 Fabriken in China, Vietnam und Thailand. Afarer stellte ihm einen spezialisierten Betrieb für PVC-Laminierung in Militärqualität in Qingdao vor, der zuvor nur White-Label-Boards für europäische Distributoren produziert hatte. Gemeinsam verhandelten sie eine Senkung der Mindestbestellmenge von 1.000 auf 500 Einheiten gegen eine 6-monatige Exklusivitätsklausel. Afarers Qualitätskontrollteam führte 3 Testrunden mit Mustern durch und lehnte die ersten beiden Chargen wegen ungleichmäßiger Verschweißung der Rail-Nähte ab, bevor die dritte freigegeben wurde.',
+                'James bereiste von Januar bis März 2023 gemeinsam mit OLagoons Sourcing-Team 5 Fabriken in China, Vietnam und Thailand. OLagoon stellte ihm einen spezialisierten Betrieb für PVC-Laminierung in Militärqualität in Qingdao vor, der zuvor nur White-Label-Boards für europäische Distributoren produziert hatte. Gemeinsam verhandelten sie eine Senkung der Mindestbestellmenge von 1.000 auf 500 Einheiten gegen eine 6-monatige Exklusivitätsklausel. OLagoons Qualitätskontrollteam führte 3 Testrunden mit Mustern durch und lehnte die ersten beiden Chargen wegen ungleichmäßiger Verschweißung der Rail-Nähte ab, bevor die dritte freigegeben wurde.',
             },
             {
               title: 'Schritt 2 – Kampagneninfrastruktur und Fulfillment-Planung für das Crowdfunding',
               detail:
-                'Afarers Logistikteam half James, eine 3PL-Partnerschaft mit einem Fulfillment-Center in Gloucester aufzubauen, das 2.000 Pakete pro Tag abwickeln kann. Gemeinsam entstand ein detailliertes Kickstarter-Belohnungsschema mit £399 Early-Bird (50 Einheiten), £449 Standard (300 Einheiten) und £549 Premium-Paket mit Paddle und Pumpe (150 Einheiten). Afarer erstellte 12 hochauflösende Produktrenderings, ein 4-minütiges Kampagnenvideo, gedreht bei Symonds Yat am River Wye, sowie ein vollständiges Datenblatt mit den Highlights 6-Zoll-Dicke, 32-PSI-Drop-Stitch-Kern und Carbon-Paddle-Option. Die Kampagne startete am 1. Mai 2023 mit einem Ziel von £150.000.',
+                'OLagoons Logistikteam half James, eine 3PL-Partnerschaft mit einem Fulfillment-Center in Gloucester aufzubauen, das 2.000 Pakete pro Tag abwickeln kann. Gemeinsam entstand ein detailliertes Kickstarter-Belohnungsschema mit £399 Early-Bird (50 Einheiten), £449 Standard (300 Einheiten) und £549 Premium-Paket mit Paddle und Pumpe (150 Einheiten). OLagoon erstellte 12 hochauflösende Produktrenderings, ein 4-minütiges Kampagnenvideo, gedreht bei Symonds Yat am River Wye, sowie ein vollständiges Datenblatt mit den Highlights 6-Zoll-Dicke, 32-PSI-Drop-Stitch-Kern und Carbon-Paddle-Option. Die Kampagne startete am 1. Mai 2023 mit einem Ziel von £150.000.',
             },
             {
               title: 'Schritt 3 – Krisenmanagement mitten in der Kampagne und Umsetzung der Stretch-Ziele',
               detail:
-                'Als die Kampagne in den ersten 72 Stunden £85.000 erreichte, aber am Tag 14 bei £110.000 ins Stocken geriet, schalteten Afarers Marketing-Strategen eine gezielte Facebook- und Instagram-Werbekampagne, ausgerichtet auf britische Paddleboarding-Facebook-Gruppen mit insgesamt über 500.000 Mitgliedern. Sie erstellten 8 per A/B-Test optimierte Werbevarianten mit den YouTube-Empfehlungen von James. Bis Tag 30 brachten weitere 212 Unterstützer die Summe auf £162.000. Afarer koordinierte ein Stretch-Ziel – ein kostenloses Dry Bag im Wert von £45 für alle Zusagen ab £449 – was in den letzten 48 Stunden einen finalen Ansturm von 88 Unterstützern auslöste; die Kampagne endete bei £198.740 von 487 Unterstützern.',
+                'Als die Kampagne in den ersten 72 Stunden £85.000 erreichte, aber am Tag 14 bei £110.000 ins Stocken geriet, schalteten OLagoons Marketing-Strategen eine gezielte Facebook- und Instagram-Werbekampagne, ausgerichtet auf britische Paddleboarding-Facebook-Gruppen mit insgesamt über 500.000 Mitgliedern. Sie erstellten 8 per A/B-Test optimierte Werbevarianten mit den YouTube-Empfehlungen von James. Bis Tag 30 brachten weitere 212 Unterstützer die Summe auf £162.000. OLagoon koordinierte ein Stretch-Ziel – ein kostenloses Dry Bag im Wert von £45 für alle Zusagen ab £449 – was in den letzten 48 Stunden einen finalen Ansturm von 88 Unterstützern auslöste; die Kampagne endete bei £198.740 von 487 Unterstützern.',
             },
             {
               title: 'Schritt 4 – Produktion, Qualitätssicherung und Fulfillment nach der Kampagne',
               detail:
-                'Die Produktion startete im August 2023 im Werk in Qingdao; Afarer stationierte dafür 6 Wochen lang einen hauptamtlichen QC-Prüfer vor Ort. Jedes Board durchlief einen 24-stündigen Aufblas-Test bei 18 PSI sowie einen Schälfestigkeitstest der Nähte mit über 150 N/cm. Die ersten 200 Einheiten gingen am 15. September per Seefracht auf den Weg und passierten dank der vorab geklärten Dokumente von Afarer den britischen Zoll innerhalb von 4 Tagen. Alle 487 Unterstützer erhielten ihre Boards bis zum 25. Oktober 2023 – 9 Tage früher als angekündigt. James meldete eine durchschnittliche Bewertung von 4,7/5 aus den ersten 150 Kundenfeedback-Formularen.',
+                'Die Produktion startete im August 2023 im Werk in Qingdao; OLagoon stationierte dafür 6 Wochen lang einen hauptamtlichen QC-Prüfer vor Ort. Jedes Board durchlief einen 24-stündigen Aufblas-Test bei 18 PSI sowie einen Schälfestigkeitstest der Nähte mit über 150 N/cm. Die ersten 200 Einheiten gingen am 15. September per Seefracht auf den Weg und passierten dank der vorab geklärten Dokumente von OLagoon den britischen Zoll innerhalb von 4 Tagen. Alle 487 Unterstützer erhielten ihre Boards bis zum 25. Oktober 2023 – 9 Tage früher als angekündigt. James meldete eine durchschnittliche Bewertung von 4,7/5 aus den ersten 150 Kundenfeedback-Formularen.',
             },
           ],
           results: [
@@ -6427,22 +6427,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Umweltanalyse in den Tropen und Materialspezifikation',
               detail:
-                'Afarers Produktentwickler verbrachten im Mai 2023 zwei Wochen in Cairns und testeten Maras bestehende Flotte. Sie dokumentierten 8 konkrete Schwachstellen, darunter UV-geschädigtes PVC (sichtbar an 22 Boards), korrodierte Edelstahl-D-Ringe (innerhalb von 6 Monaten) und Nahtversagen am Buggriff (3 Boards). Afarers Laborteam formulierte die PVC-Deckschicht neu, mit einem UV-Stabilisator-Additiv (UV-531 bei einer Konzentration von 0,6 %), und schrieb für alle Beschläge Edelstahl der Güte 304 in Marinequalität vor. Der verstärkte Buggriff erhielt einen 3-lagigen Gurtband-Sandwich-Aufbau mit einer Bruchlast von 400 kg.',
+                'OLagoons Produktentwickler verbrachten im Mai 2023 zwei Wochen in Cairns und testeten Maras bestehende Flotte. Sie dokumentierten 8 konkrete Schwachstellen, darunter UV-geschädigtes PVC (sichtbar an 22 Boards), korrodierte Edelstahl-D-Ringe (innerhalb von 6 Monaten) und Nahtversagen am Buggriff (3 Boards). OLagoons Laborteam formulierte die PVC-Deckschicht neu, mit einem UV-Stabilisator-Additiv (UV-531 bei einer Konzentration von 0,6 %), und schrieb für alle Beschläge Edelstahl der Güte 304 in Marinequalität vor. Der verstärkte Buggriff erhielt einen 3-lagigen Gurtband-Sandwich-Aufbau mit einer Bruchlast von 400 kg.',
             },
             {
               title: 'Schritt 2 – Prototypenproduktion und Feldtests auf drei Tourrouten',
               detail:
-                'Afarer produzierte im Juli 2023 im Werk in Guangzhou 10 Prototypen-Boards, jedes mit einem eigenen Farbschema (Korallenblau, Mangrovengrün, Rifforange) zur leichten Identifikation der Flotte. Mara absolvierte einen 60-tägigen Feldtest auf ihren drei wichtigsten Tourrouten – Fitzroy Island (Salzwasser, 6 Stunden direkte Sonne), Morgentouren auf dem Mulgrave River (Süßwasser, schattig) und Sonnenuntergangstouren am Trinity Inlet (gemischte Bedingungen). Jedes Board kam auf über 300 Nutzungsstunden. Zwei Prototypen zeigten nach 250 Stunden Ventillecks und gingen zur Überarbeitung des Ventilschafts an Afarer zurück, wobei von einem Messing- auf ein nylonverstärktes Kompositventil umgestellt wurde.',
+                'OLagoon produzierte im Juli 2023 im Werk in Guangzhou 10 Prototypen-Boards, jedes mit einem eigenen Farbschema (Korallenblau, Mangrovengrün, Rifforange) zur leichten Identifikation der Flotte. Mara absolvierte einen 60-tägigen Feldtest auf ihren drei wichtigsten Tourrouten – Fitzroy Island (Salzwasser, 6 Stunden direkte Sonne), Morgentouren auf dem Mulgrave River (Süßwasser, schattig) und Sonnenuntergangstouren am Trinity Inlet (gemischte Bedingungen). Jedes Board kam auf über 300 Nutzungsstunden. Zwei Prototypen zeigten nach 250 Stunden Ventillecks und gingen zur Überarbeitung des Ventilschafts an OLagoon zurück, wobei von einem Messing- auf ein nylonverstärktes Kompositventil umgestellt wurde.',
             },
             {
               title: 'Schritt 3 – Produktionshochlauf, individuelles Branding und Verpackungsdesign',
               detail:
-                'Nach bestandenen Feldtests bestellte Mara im September 2023 per Bestellung 200 Reef-Runner-Boards. Afarers Designteam erstellte individuelle Transferdruck-Grafiken mit dem Reef-&-River-Logo auf dem Deckpad und einer serialisierten Flottennummer auf der Rail. Jedes Board wurde mit einer individuell gewebten Nylon-Tragetasche aus 1000-Denier-Gewebe und verstärkten Nähten geliefert (geprüft bis 80 kg Belastung). Afarer organisierte den Seefrachttransport über den Hafen von Townsville mit 28 Tagen Laufzeit, inklusive Begasungszertifikat für die australische Biosicherheits-Konformität. Die Sendung passierte am 5. November 2023 den Zoll.',
+                'Nach bestandenen Feldtests bestellte Mara im September 2023 per Bestellung 200 Reef-Runner-Boards. OLagoons Designteam erstellte individuelle Transferdruck-Grafiken mit dem Reef-&-River-Logo auf dem Deckpad und einer serialisierten Flottennummer auf der Rail. Jedes Board wurde mit einer individuell gewebten Nylon-Tragetasche aus 1000-Denier-Gewebe und verstärkten Nähten geliefert (geprüft bis 80 kg Belastung). OLagoon organisierte den Seefrachttransport über den Hafen von Townsville mit 28 Tagen Laufzeit, inklusive Begasungszertifikat für die australische Biosicherheits-Konformität. Die Sendung passierte am 5. November 2023 den Zoll.',
             },
             {
               title: 'Schritt 4 – Schulungsprogramm für das Personal und Dokumentation der Wartungsabläufe',
               detail:
-                'Afarers Customer-Success-Team flog im November 2023 nach Cairns und hielt einen 2-tägigen Schulungsworkshop für Maras 12 Guides und 3 Wartungsmitarbeiter ab. Die Schulung umfasste tägliche Prüflisten, das korrekte Auf- und Ablassen der Boards, Spülprotokolle nach Salzwassereinsatz sowie ein Reparaturset mit 6 PVC-Flicken und 2 Ersatzventilen. Afarer stellte einen laminierten Schnellreferenz-Leitfaden auf Englisch und Mandarin bereit. Mara führte ein digitales Flottenlogbuch mit Google Sheets ein, das die Nutzungsstunden pro Board erfasst. Die erste quartalsweise Nachbestellung über 65 Boards erfolgte im Februar 2024.',
+                'OLagoons Customer-Success-Team flog im November 2023 nach Cairns und hielt einen 2-tägigen Schulungsworkshop für Maras 12 Guides und 3 Wartungsmitarbeiter ab. Die Schulung umfasste tägliche Prüflisten, das korrekte Auf- und Ablassen der Boards, Spülprotokolle nach Salzwassereinsatz sowie ein Reparaturset mit 6 PVC-Flicken und 2 Ersatzventilen. OLagoon stellte einen laminierten Schnellreferenz-Leitfaden auf Englisch und Mandarin bereit. Mara führte ein digitales Flottenlogbuch mit Google Sheets ein, das die Nutzungsstunden pro Board erfasst. Die erste quartalsweise Nachbestellung über 65 Boards erfolgte im Februar 2024.',
             },
           ],
           results: [
@@ -6454,8 +6454,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Afarer',
+    whyOLagoon: {
+      title: 'Warum OLagoon',
       items: [
         {
           title: 'Produkt-Expertise',
@@ -6483,12 +6483,12 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Wie hoch ist die Mindestbestellmenge für individuelle SUP-Boards?',
         answer:
-          'Afarer bietet flexible MOQ ab 100-500 Einheiten für Markttests, sodass Startups ihre Produkte validieren und Kundenfeedback sammeln können, bevor sie die Produktion hochfahren.',
+          'OLagoon bietet flexible MOQ ab 100-500 Einheiten für Markttests, sodass Startups ihre Produkte validieren und Kundenfeedback sammeln können, bevor sie die Produktion hochfahren.',
       },
       {
         question: 'Kann ich meine eigene SUP-Marke aufbauen, ohne eine eigene Fabrik zu besitzen?',
         answer:
-          'Ja. Afarer bietet komplette Private-Label-Fertigungsdienstleistungen, mit denen Sie Ihre eigene SUP-Marke mit individuellem Branding, Board-Design, Verpackung und Zubehör ohne Fabrikinvestition aufbauen können.',
+          'Ja. OLagoon bietet komplette Private-Label-Fertigungsdienstleistungen, mit denen Sie Ihre eigene SUP-Marke mit individuellem Branding, Board-Design, Verpackung und Zubehör ohne Fabrikinvestition aufbauen können.',
       },
       {
         question: 'Wie lange dauert die Entwicklung eines individuellen SUP-Produkts?',
@@ -6498,17 +6498,17 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Helfen Sie bei Produktdesign und Marktstrategie?',
         answer:
-          'Ja. Afarer berät zu Marken- und Produktstrategie und hilft Ihnen, Zielmarkt, Produktpositionierung, Preisstrategie und Differenzierung schon vor Produktionsbeginn zu definieren.',
+          'Ja. OLagoon berät zu Marken- und Produktstrategie und hilft Ihnen, Zielmarkt, Produktpositionierung, Preisstrategie und Differenzierung schon vor Produktionsbeginn zu definieren.',
       },
       {
         question: 'Welche Qualitätskontrollmaßnahmen setzen Sie um?',
         answer:
-          'Afarer unterhält ein umfassendes Qualitätskontrollsystem mit Materialprüfung, Überwachung während der Produktion, Luftdrucktests und Endkontrolle vor dem Versand.',
+          'OLagoon unterhält ein umfassendes Qualitätskontrollsystem mit Materialprüfung, Überwachung während der Produktion, Luftdrucktests und Endkontrolle vor dem Versand.',
       },
       {
         question: 'Können Sie in mein Land liefern?',
         answer:
-          'Ja. Afarer liefert in die USA, nach Kanada, Australien, Großbritannien, Deutschland, Frankreich, in die Niederlande und in weitere globale Märkte mit zuverlässiger Logistikunterstützung.',
+          'Ja. OLagoon liefert in die USA, nach Kanada, Australien, Großbritannien, Deutschland, Frankreich, in die Niederlande und in weitere globale Märkte mit zuverlässiger Logistikunterstützung.',
       },
     ],
     cta: {
@@ -6525,15 +6525,15 @@ const de: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP-Yoga-Ausrüstungshersteller | Individuelle Yoga-Paddleboards | {SITE}',
       description:
-        'Afarer bietet maßgeschneiderte SUP-Yoga-Ausrüstung für Yogastudios, Wellness-Retreats und Fitnessmarken. Erstellen Sie premium aufblasbare Yoga-SUP-Boards mit breitem Stabilitätsdesign, vollständigen EVA-Decks und Private-Label-Fertigung.',
+        'OLagoon bietet maßgeschneiderte SUP-Yoga-Ausrüstung für Yogastudios, Wellness-Retreats und Fitnessmarken. Erstellen Sie premium aufblasbare Yoga-SUP-Boards mit breitem Stabilitätsdesign, vollständigen EVA-Decks und Private-Label-Fertigung.',
     },
     hero: {
       tagline: 'SUP-Yoga-Ausrüstungslösungen™',
       title: 'Premium-SUP-Yoga-Ausrüstung für Wellness-Marken und Retreats',
       subtitle:
-        'Afarer liefert individuelle SUP-Yoga-Ausrüstungslösungen für Yogastudios, Wellness-Retreats und Fitnessmarken. Schaffen Sie Premium-aufblasbare Yoga-SUP-Boards mit breitem Stabilitätsdesign, vollflächigen EVA-Decks und Private-Label-Fertigung.',
+        'OLagoon liefert individuelle SUP-Yoga-Ausrüstungslösungen für Yogastudios, Wellness-Retreats und Fitnessmarken. Schaffen Sie Premium-aufblasbare Yoga-SUP-Boards mit breitem Stabilitätsdesign, vollflächigen EVA-Decks und Private-Label-Fertigung.',
       image: {
-        alt: 'Beschreibung individueller Afarer-SUP-Boards',
+        alt: 'Beschreibung individueller OLagoon-SUP-Boards',
       },
     },
     challenge: {
@@ -6658,7 +6658,7 @@ const de: Record<string, SolutionOverride> = {
       customer:
         'Europäische Wellness-Retreat-Marke, die Yoga-Retreats, Meditationsprogramme und Outdoor-Wellness-Erlebnisse für anspruchsvolle Wellness-Reisende anbietet.',
       steps: [
-        'Afarer definierte das Produktkonzept als „Luxuriöses schwimmendes Yoga-Erlebnis“ für Wellness-Reisende, weibliche Fitnesskunden und Premium-Retreat-Gäste.',
+        'OLagoon definierte das Produktkonzept als „Luxuriöses schwimmendes Yoga-Erlebnis“ für Wellness-Reisende, weibliche Fitnesskunden und Premium-Retreat-Gäste.',
         'Entwicklung eines Premium-breiten Yoga-SUPs mit extra-breiter, stabiler Plattform, vollflächigem EVA-Yoga-Deck, bequemer Barfuß-Oberfläche und ausbalancierter Schwimm-Performance.',
         'Entwicklung einer weichen, natürlichen Farbpalette, minimaler Grafiken und Premium-Verpackung, die perfekt zur beruhigenden Identität der Wellness-Marke passten.',
         'Launch mit Retreat-Programmen, Yogakursen und Premium-Kundenerlebnissen als erste Anwendung.',
@@ -6683,17 +6683,17 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Yoga-spezifisches Board-Design und Sanskrit-Ästhetik',
               detail:
-                'Afarers Designteam verbrachte im März 2023 drei Wochen mit der Analyse von Simones Anforderungen. Das Ergebnis war das „Serenity“ SUP-Yoga-Board – 34 Zoll breit (gegenüber dem Standard von 32 Zoll), 11\'6" lang, mit 7-lagigem Drop-Stitch-Kern für steife Stabilität. Das Deck hatte ein 6-mm-dickes geschlossenzelliges EVA-Pad mit Diamantmuster-Textur (getesteter Reibungskoeffizient 0,85 trocken, 0,72 nass) auf 85 % der Deckfläche. Afarer brachte ein Sanskrit-„Om“-Symbol in silberner Reflexions-Heat-Transfer-Technik am Bug an sowie ein Lotusmuster rund um den mittleren Tragegriff. Die Boards gab es in 4 Farben (Koralle, Türkis, Sonnenuntergangs-Orange, Lagunenblau), passend zu den 4 Farbpaletten der Azure-Resorts. Jedes Board hatte 8 Edelstahl-D-Ringe – 4 für ein Bungee-Seilsystem zum Befestigen von Yogamatten und 4 für optionale Ankerleinen zum stationären Üben in Strömung.',
+                'OLagoons Designteam verbrachte im März 2023 drei Wochen mit der Analyse von Simones Anforderungen. Das Ergebnis war das „Serenity“ SUP-Yoga-Board – 34 Zoll breit (gegenüber dem Standard von 32 Zoll), 11\'6" lang, mit 7-lagigem Drop-Stitch-Kern für steife Stabilität. Das Deck hatte ein 6-mm-dickes geschlossenzelliges EVA-Pad mit Diamantmuster-Textur (getesteter Reibungskoeffizient 0,85 trocken, 0,72 nass) auf 85 % der Deckfläche. OLagoon brachte ein Sanskrit-„Om“-Symbol in silberner Reflexions-Heat-Transfer-Technik am Bug an sowie ein Lotusmuster rund um den mittleren Tragegriff. Die Boards gab es in 4 Farben (Koralle, Türkis, Sonnenuntergangs-Orange, Lagunenblau), passend zu den 4 Farbpaletten der Azure-Resorts. Jedes Board hatte 8 Edelstahl-D-Ringe – 4 für ein Bungee-Seilsystem zum Befestigen von Yogamatten und 4 für optionale Ankerleinen zum stationären Üben in Strömung.',
             },
             {
               title: 'Schritt 2 – Pilotprogramm in Azure North mit Yoga-Trainer-Schulung',
               detail:
-                'Afarer produzierte 15 Prototyp-Boards und verschickte sie per Express-Luftfracht (Singapore Airlines Cargo) für ein 6-wöchiges Pilotprogramm in Azure North ab dem 1. Juni 2023. Simone und 4 hauseigene Yoga-Trainer absolvierten ein 40-stündiges SUP-Yoga-Trainer-Zertifizierungsprogramm, das gemeinsam von Afarers Wellness-Beratern und Yoga-Alliance-Profis entwickelt wurde. Die Zertifizierung umfasste Board-Aufbau und Aufpumpen für Yoga (12 PSI für maximale Stabilität), Kurssequenzen für Wasserbedingungen, Sicherheitsprotokolle für Wind und Strömung sowie 15 spezielle SUP-Yoga-Asanas, angepasst an das Board-Umfeld. Das Pilotprogramm lief mit 42 Kursen über 6 Wochen mit 186 Gästen. Vorher-Nachher-Umfragen zeigten eine um 58 % gesteigerte Gastesicherheit, die durchschnittliche Kursbewertung lag bei 4,8/5. Das Gäste-Feedback brachte zwei Änderungswünsche hervor – eine Paddle-Halterung am Boardrand (damit Paddles beim Üben nicht wegtreiben) und den Wunsch nach Boards mit „weichem“ Bugradius für Partner-Asanas.',
+                'OLagoon produzierte 15 Prototyp-Boards und verschickte sie per Express-Luftfracht (Singapore Airlines Cargo) für ein 6-wöchiges Pilotprogramm in Azure North ab dem 1. Juni 2023. Simone und 4 hauseigene Yoga-Trainer absolvierten ein 40-stündiges SUP-Yoga-Trainer-Zertifizierungsprogramm, das gemeinsam von OLagoons Wellness-Beratern und Yoga-Alliance-Profis entwickelt wurde. Die Zertifizierung umfasste Board-Aufbau und Aufpumpen für Yoga (12 PSI für maximale Stabilität), Kurssequenzen für Wasserbedingungen, Sicherheitsprotokolle für Wind und Strömung sowie 15 spezielle SUP-Yoga-Asanas, angepasst an das Board-Umfeld. Das Pilotprogramm lief mit 42 Kursen über 6 Wochen mit 186 Gästen. Vorher-Nachher-Umfragen zeigten eine um 58 % gesteigerte Gastesicherheit, die durchschnittliche Kursbewertung lag bei 4,8/5. Das Gäste-Feedback brachte zwei Änderungswünsche hervor – eine Paddle-Halterung am Boardrand (damit Paddles beim Üben nicht wegtreiben) und den Wunsch nach Boards mit „weichem“ Bugradius für Partner-Asanas.',
             },
             {
               title: 'Schritt 3 – Rollout über mehrere Resorts, Infrastruktur und Programmierung',
               detail:
-                'Aufgrund des erfolgreichen Pilotprogramms bestellte Azure im August 2023 40 Serenity-Boards (10 pro Resort). Afarer setzte zwei Designänderungen aus dem Pilot-Feedback um – ein Silikon-Halteband fürs Paddle an der Steuerbord-Rail und einen um 15 cm breiteren Bugradius (von 45 cm auf 60 cm Radius) für Freiraum bei Partner-Asanas. Afarer verschiffte per Seefracht in einem dedizierten 20-Fuß-Container, inklusive 40 individueller Aufpump-Pumpen mit auf PSI statt bar kalibrierten Manometern. Die Sendung erreichte Malé am 1. November 2023. Simone schulte 12 weitere Trainer über die 4 Resorts (3 pro Haus) nach dem Zertifizierungs-Curriculum, wobei zwei Lead-Trainer an einem 2-wöchigen Train-the-Trainer-Programm auf Bali teilnahmen (koordiniert von Afarers Wellness-Partner). Jedes Resort richtete einen eigenen SUP-Yoga-Startpunkt mit Schwimmdock, Ausrüstungslager und schattigem Entspannungsbereich ein.',
+                'Aufgrund des erfolgreichen Pilotprogramms bestellte Azure im August 2023 40 Serenity-Boards (10 pro Resort). OLagoon setzte zwei Designänderungen aus dem Pilot-Feedback um – ein Silikon-Halteband fürs Paddle an der Steuerbord-Rail und einen um 15 cm breiteren Bugradius (von 45 cm auf 60 cm Radius) für Freiraum bei Partner-Asanas. OLagoon verschiffte per Seefracht in einem dedizierten 20-Fuß-Container, inklusive 40 individueller Aufpump-Pumpen mit auf PSI statt bar kalibrierten Manometern. Die Sendung erreichte Malé am 1. November 2023. Simone schulte 12 weitere Trainer über die 4 Resorts (3 pro Haus) nach dem Zertifizierungs-Curriculum, wobei zwei Lead-Trainer an einem 2-wöchigen Train-the-Trainer-Programm auf Bali teilnahmen (koordiniert von OLagoons Wellness-Partner). Jedes Resort richtete einen eigenen SUP-Yoga-Startpunkt mit Schwimmdock, Ausrüstungslager und schattigem Entspannungsbereich ein.',
             },
             {
               title: 'Schritt 4 – Umsatz-Performance, Gästebindung und Programmerweiterung',
@@ -6720,22 +6720,22 @@ const de: Record<string, SolutionOverride> = {
             {
               title: 'Schritt 1 – Design-Vision der Yoga-Lehrerin und ergonomisches Studio-Board',
               detail:
-                'Afarers Produktdesigner flogen im Februar 2023 nach Santa Monica, um 4 von Kais Kursen zu beobachten und ihren Lehrstil zu verstehen. Kai unterrichtete eine Mischung aus Vinyasa Flow, restaurativem Yin und Partner-Acro-Yoga auf Boards – das erforderte mehr Deckfläche, als Standard-SUPs boten. Afarer gestaltete 3 SKUs – (1) „Drift 10\'6"“, das Standard-SUP-Yoga-Board (34 Zoll breit, 6-mm-Deck-Pad), (2) „Studio 12\'0"“, ein extra-breites Board mit 38 Zoll und 8-mm-gepolstertem Deck (konzipiert für Acro- und Partner-Asanas, maximal 450 lbs), und (3) „Mini 9\'0"“, ein kinderfreundliches Board (30 Zoll breit, 5-mm-Deck, kräftige Farboptionen). Das Studio-Board hatte eine einzigartige „Mittellinien-Ausrichtungsmarke“ – eine dezente gedruckte Linie über die Mitte des Decks, die Schülern hilft, ihre Matten konsistent auszurichten. Alle Boards nutzten Afarers Fusion-Lite-Drop-Stitch-Technologie und wogen 3 lbs weniger als Standard-Boards für leichtere Handhabung.',
+                'OLagoons Produktdesigner flogen im Februar 2023 nach Santa Monica, um 4 von Kais Kursen zu beobachten und ihren Lehrstil zu verstehen. Kai unterrichtete eine Mischung aus Vinyasa Flow, restaurativem Yin und Partner-Acro-Yoga auf Boards – das erforderte mehr Deckfläche, als Standard-SUPs boten. OLagoon gestaltete 3 SKUs – (1) „Drift 10\'6"“, das Standard-SUP-Yoga-Board (34 Zoll breit, 6-mm-Deck-Pad), (2) „Studio 12\'0"“, ein extra-breites Board mit 38 Zoll und 8-mm-gepolstertem Deck (konzipiert für Acro- und Partner-Asanas, maximal 450 lbs), und (3) „Mini 9\'0"“, ein kinderfreundliches Board (30 Zoll breit, 5-mm-Deck, kräftige Farboptionen). Das Studio-Board hatte eine einzigartige „Mittellinien-Ausrichtungsmarke“ – eine dezente gedruckte Linie über die Mitte des Decks, die Schülern hilft, ihre Matten konsistent auszurichten. Alle Boards nutzten OLagoons Fusion-Lite-Drop-Stitch-Technologie und wogen 3 lbs weniger als Standard-Boards für leichtere Handhabung.',
             },
             {
               title: 'Schritt 2 – Markenidentität, Content-Produktion und Vorverkaufs-Strategie',
               detail:
-                'Afarers Kreativteam entwickelte die visuelle Identität von Drift & Downward Dog – ein minimalistisches Logo aus einer stilisierten Lotus-Mandala-Wellen-Kombination, eine Farbpalette aus Salbeigrün, Sand und Ozeanblau und ein individuelles Schriftpaar (Lora für Überschriften, Nunito für Fließtext). Sie produzierten im März 2023 ein 6-tägiges Fotoshooting an 5 Orten der Santa Monica Bay (Santa Monica Pier, Point Dume in Malibu, Venice Beach, Marina del Rey und Paradise Cove) mit 480 finalen Bildern und 8 Stunden 4K-Videomaterial. Kai startete am 1. Mai 2023 einen 30-tägigen Vorverkauf über eine Kickstarter-Kampagne mit einem Ziel von 35.000 $. Die Kampagne bot 3 Belohnungsstufen – das Early-Bird-Drift-Board (599 $, 40 Einheiten), das Studio-Board-Paket mit Matte und Gurt (949 $, 25 Einheiten) und das Mini-Board (449 $, 20 Einheiten). Die Kampagne erreichte ihr Ziel in 11 Stunden und schloss mit 74.200 $ von 118 Unterstützern.',
+                'OLagoons Kreativteam entwickelte die visuelle Identität von Drift & Downward Dog – ein minimalistisches Logo aus einer stilisierten Lotus-Mandala-Wellen-Kombination, eine Farbpalette aus Salbeigrün, Sand und Ozeanblau und ein individuelles Schriftpaar (Lora für Überschriften, Nunito für Fließtext). Sie produzierten im März 2023 ein 6-tägiges Fotoshooting an 5 Orten der Santa Monica Bay (Santa Monica Pier, Point Dume in Malibu, Venice Beach, Marina del Rey und Paradise Cove) mit 480 finalen Bildern und 8 Stunden 4K-Videomaterial. Kai startete am 1. Mai 2023 einen 30-tägigen Vorverkauf über eine Kickstarter-Kampagne mit einem Ziel von 35.000 $. Die Kampagne bot 3 Belohnungsstufen – das Early-Bird-Drift-Board (599 $, 40 Einheiten), das Studio-Board-Paket mit Matte und Gurt (949 $, 25 Einheiten) und das Mini-Board (449 $, 20 Einheiten). Die Kampagne erreichte ihr Ziel in 11 Stunden und schloss mit 74.200 $ von 118 Unterstützern.',
             },
             {
               title: 'Schritt 3 – Produktion, Fulfillment-Logistik und Kurs-Integration',
               detail:
-                'Die Produktion von 180 Boards (80 Drift, 50 Studio, 50 Mini) lief von Juni bis Juli 2023 in Afarers Werk in Vietnam. Bis zum 1. August 2023 waren alle Kickstarter-Bestellungen aus einem 3PL-Lager in Long Beach abgewickelt (15 Meilen von Kais Studio in Santa Monica entfernt). Kai startete ihre Kursbuchungs-Plattform auf Shopify mit einer individuellen Terminplanungs-App, integriert mit Acuity Scheduling. Sie bot 4 Kurstypen an – „Sunrise Flow“ (Einsteiger, Drift-Board), „Full Moon Studio“ (fortgeschritten/Partner, Studio-Board), „Family Paddle“ (Kinder + Eltern, Mini + Drift) und „Restorative Yin & Float“ (Kombination aus Yin-Asanas und geführter Meditation). Sie stellte 3 weitere zertifizierte SUP-Yoga-Trainerinnen für den erweiterten Stundenplan ein. Bis September 2023 gab Kai 22 Kurse pro Woche mit durchschnittlich 14 Schülern pro Kurs.',
+                'Die Produktion von 180 Boards (80 Drift, 50 Studio, 50 Mini) lief von Juni bis Juli 2023 in OLagoons Werk in Vietnam. Bis zum 1. August 2023 waren alle Kickstarter-Bestellungen aus einem 3PL-Lager in Long Beach abgewickelt (15 Meilen von Kais Studio in Santa Monica entfernt). Kai startete ihre Kursbuchungs-Plattform auf Shopify mit einer individuellen Terminplanungs-App, integriert mit Acuity Scheduling. Sie bot 4 Kurstypen an – „Sunrise Flow“ (Einsteiger, Drift-Board), „Full Moon Studio“ (fortgeschritten/Partner, Studio-Board), „Family Paddle“ (Kinder + Eltern, Mini + Drift) und „Restorative Yin & Float“ (Kombination aus Yin-Asanas und geführter Meditation). Sie stellte 3 weitere zertifizierte SUP-Yoga-Trainerinnen für den erweiterten Stundenplan ein. Bis September 2023 gab Kai 22 Kurse pro Woche mit durchschnittlich 14 Schülern pro Kurs.',
             },
             {
               title: 'Schritt 4 – Einzelhandelsexpansion, Corporate Wellness und Wachstum in Jahr 2',
               detail:
-                'Im Oktober 2023 wurde Kai von der Regional-Einkäuferin von REI in Südkalifornien kontaktiert, die an einem ihrer Kurse teilgenommen hatte. REI bestellte testweise 30 Drift-Boards und 15 Mini-Boards für 5 Filialen im Raum Santa Monica. Afarer passte die Verpackung an – mit REI-konformen Anhängeetiketten und QR-Code-Produktregistrierung. Bis Dezember 2023 erreichte die Sell-through-Quote bei REI 82 % über die 5 Filialen, woraufhin REI eine Folgebestellung über 100 Boards für 20 Standorte in Südkalifornien aufgab. Kai startete außerdem ein Corporate-Wellness-Programm – mit Verträgen mit 4 Tech-Unternehmen (Google Venice, Hulu Santa Monica und zwei weitere) für wöchentliche SUP-Yoga-Kurse vor Ort als Mitarbeiter-Benefit. Das Corporate-Programm brachte 4.200 $ wiederkehrenden Umsatz pro Monat. Bis zum Ende von Jahr 1 (März 2024) hatte Drift & Downward Dog 342.000 $ kombinierten Umsatz erzielt (Produktverkäufe 218.000 $, Kursumsätze 94.000 $, Corporate Wellness 30.000 $).',
+                'Im Oktober 2023 wurde Kai von der Regional-Einkäuferin von REI in Südkalifornien kontaktiert, die an einem ihrer Kurse teilgenommen hatte. REI bestellte testweise 30 Drift-Boards und 15 Mini-Boards für 5 Filialen im Raum Santa Monica. OLagoon passte die Verpackung an – mit REI-konformen Anhängeetiketten und QR-Code-Produktregistrierung. Bis Dezember 2023 erreichte die Sell-through-Quote bei REI 82 % über die 5 Filialen, woraufhin REI eine Folgebestellung über 100 Boards für 20 Standorte in Südkalifornien aufgab. Kai startete außerdem ein Corporate-Wellness-Programm – mit Verträgen mit 4 Tech-Unternehmen (Google Venice, Hulu Santa Monica und zwei weitere) für wöchentliche SUP-Yoga-Kurse vor Ort als Mitarbeiter-Benefit. Das Corporate-Programm brachte 4.200 $ wiederkehrenden Umsatz pro Monat. Bis zum Ende von Jahr 1 (März 2024) hatte Drift & Downward Dog 342.000 $ kombinierten Umsatz erzielt (Produktverkäufe 218.000 $, Kursumsätze 94.000 $, Corporate Wellness 30.000 $).',
             },
           ],
           results: [
@@ -6747,8 +6747,8 @@ const de: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Warum Afarer',
+    whyOLagoon: {
+      title: 'Warum OLagoon',
       items: [
         {
           title: 'Verständnis für Wellness-Erlebnisse',
@@ -6789,7 +6789,7 @@ const de: Record<string, SolutionOverride> = {
       {
         question: 'Kann ich eine eigene SUP-Yoga-Produktlinie unter meiner Marke erstellen?',
         answer:
-          'Ja. Afarer liefert komplette Private-Label-Fertigung mit individuellen Farben, Grafiken, Verpackungen und Zubehör – speziell für Yoga- und Wellness-Marken gestaltet.',
+          'Ja. OLagoon liefert komplette Private-Label-Fertigung mit individuellen Farben, Grafiken, Verpackungen und Zubehör – speziell für Yoga- und Wellness-Marken gestaltet.',
       },
       {
         question: 'Sind Ihre SUP-Yoga-Boards für den professionellen Studioeinsatz geeignet?',

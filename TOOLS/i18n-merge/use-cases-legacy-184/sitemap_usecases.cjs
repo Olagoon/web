@@ -1,5 +1,5 @@
 const fs = require('fs');
-const x = fs.readFileSync('E:/github/afarer/dist/sitemap-0.xml', 'utf8');
+const x = fs.readFileSync('E:/github/olagoon/dist/sitemap-0.xml', 'utf8');
 const urls = [...x.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
 const uc = urls.filter((u) => u.includes('/use-cases/'));
 const bySlug = {};
@@ -17,4 +17,4 @@ urls
   .slice(0, 14)
   .forEach((u) => console.log(' ', u));
 console.log('\ntouring URLs:', urls.filter((u) => /\/touring\/$/.test(u)).length);
-console.log('de touring URL present:', urls.includes('https://afarer.com/de/use-cases/touring/'));
+console.log('de touring URL present:', urls.includes('https://olagoon.com/de/use-cases/touring/'));

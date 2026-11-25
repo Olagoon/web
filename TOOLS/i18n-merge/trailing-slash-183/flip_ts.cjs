@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const dir = 'E:/github/afarer/src';
+const dir = 'E:/github/olagoon/src';
 const files = fs
   .readdirSync(dir)
   .filter((f) => /^config(\.[a-z]{2})?\.yaml$/.test(f))

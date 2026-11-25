@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Sertifiseringer og standarder
   title: Kvalitetssertifiseringer<br />& Overholdelsesstandarder
-  subtitle: afarer SUP-produksjon er sertifisert til internasjonale marine sikkerhetsstandarder, kvalitetsstyringssystemer og miljøbestemmelser — CE, ISO 9001, UKCA, BSCI og REACH.
+  subtitle: olagoon SUP-produksjon er sertifisert til internasjonale marine sikkerhetsstandarder, kvalitetsstyringssystemer og miljøbestemmelser — CE, ISO 9001, UKCA, BSCI og REACH.
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: afarer kvalitetssertifiseringer og samsvarsdokumentasjon
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: olagoon kvalitetssertifiseringer og samsvarsdokumentasjon
 content_certifications:
   tagline: Våre sertifiseringer
   title: Sertifisert kvalitet,<br />globalt anerkjent
-  subtitle: Hvert afarer-produkt støttes av sertifiseringer som viser vår forpliktelse til kvalitet, sikkerhet og miljøansvar.
+  subtitle: Hvert olagoon-produkt støttes av sertifiseringer som viser vår forpliktelse til kvalitet, sikkerhet og miljøansvar.
   items:
     - title: CE-sertifisert
-      description: Alle afarer-produkter oppfyller europeiske CE-merkingkrav for rekreasjonsfartøyer, og sikrer at sikkerhets-, helse- og miljøvernstandarder oppfylles.
+      description: Alle olagoon-produkter oppfyller europeiske CE-merkingkrav for rekreasjonsfartøyer, og sikrer at sikkerhets-, helse- og miljøvernstandarder oppfylles.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Kvalitetsstyringssystemet vårt er ISO 9001:2015-sertifisert og dekker design, produksjon og distribusjon av oppblåsbare farkoster og marineutstyr.
@@ -28,10 +28,10 @@ content_certifications:
       description: Produkter solgt på det britiske markedet bærer UKCA-merking, som bekrefter samsvar med britiske forskrifter for marineutstyr og personlige vannscootere.
       icon: tabler:shield
     - title: BSCI-samsvarig
-      description: afarer er BSCI (Business Social Compliance Initiative) revidert, noe som viser etisk produksjonspraksis, rettferdige arbeidsforhold og ansvar i forsyningskjeden.
+      description: olagoon er BSCI (Business Social Compliance Initiative) revidert, noe som viser etisk produksjonspraksis, rettferdige arbeidsforhold og ansvar i forsyningskjeden.
       icon: tabler:heart-handshake
     - title: REACH-kompatibel
-      description: Alle materialer som brukes i afarer-produkter overholder EUs REACH-forskrifter for kjemikaliesikkerhet, og sikrer at ingen begrensede stoffer finnes i vår PVC, EVA eller komponenter.
+      description: Alle materialer som brukes i olagoon-produkter overholder EUs REACH-forskrifter for kjemikaliesikkerhet, og sikrer at ingen begrensede stoffer finnes i vår PVC, EVA eller komponenter.
       icon: tabler:flask
     - title: Materialtesting
       description: Stoffer testes for strekkfasthet, rivestyrke, UV-nedbrytning og kaldsprekkytelse. Hver produksjonsbatch prøvetas og verifiseres.
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Marine sikkerhetsstandarder
   title: Sikkerhet først<br />— designet for pålitelig drift
-  subtitle: afarer-produkter er designet og testet for å oppfylle internasjonale marine sikkerhetsstandarder for kommersiell og rekreasjonsbruk.
+  subtitle: olagoon-produkter er designet og testet for å oppfylle internasjonale marine sikkerhetsstandarder for kommersiell og rekreasjonsbruk.
   items:
     - title: EN ISO 25649
       description: Oppblåsbare SUP-er oppfyller EN ISO 25649-standarder for konstruksjon, stabilitet, oppdrift og lastekapasitet.

@@ -8,7 +8,7 @@ hero:
   subtitle: 'Nakatuon sa Pag-unlad'
 
 intro:
-  - 'Ang Research and Development (R&D) Center ng afarer ang nagtutulak sa aming misyon na rebolusyonahin ang kagamitang water sports. Binibigyang-kapangyarihan namin ang mga mahilig sa water sports sa buong mundo ng mas ligtas, mas komportable, at mas kasiya-siyang produkto sa pamamagitan ng walang-tigil na inobasyon sa mga inflatable stand-up paddle board (SUP). Ang aming nakalaang team ng mga engineer, designer, at masisigasig na dalubhasa sa water sports ang humuhubog sa kinabukasan ng industriya, patuloy na itinaas ang pamantayan ng kalidad, performance, at pagpapanatili.'
+  - 'Ang Research and Development (R&D) Center ng olagoon ang nagtutulak sa aming misyon na rebolusyonahin ang kagamitang water sports. Binibigyang-kapangyarihan namin ang mga mahilig sa water sports sa buong mundo ng mas ligtas, mas komportable, at mas kasiya-siyang produkto sa pamamagitan ng walang-tigil na inobasyon sa mga inflatable stand-up paddle board (SUP). Ang aming nakalaang team ng mga engineer, designer, at masisigasig na dalubhasa sa water sports ang humuhubog sa kinabukasan ng industriya, patuloy na itinaas ang pamantayan ng kalidad, performance, at pagpapanatili.'
   - 'Ang aming pasilidad ng R&D ay nagsasama-sama ng mga materials scientist, marine engineer, at production engineer sa iisang bubong. Mula sa pagbuo ng formula ng fabric at simulasyon ng hull hanggang sa pag-develop ng proseso ng welding at full-scale na sea trial, ang bawat yugto ng pag-develop ng produkto ay pinapatnubay ng datos at pinapatunayan ng pagsubok.'
 
 mission:
@@ -98,33 +98,33 @@ rd_services:
 vision:
   tagline: 'Ang Aming Pananaw'
   title: 'Paghubog sa Kinabukasan ng Water Sports'
-  body: 'Nagsusumikap ang afarer na pamunuan ang industriya ng inflatable SUP sa pamamagitan ng tuloy-tuloy na inobasyon, hindi-natitinding kalidad, at matatag na komitment sa kaligtasan at susteynabilidad — sa huli ay nagpapayaman sa mga karanasan ng mahihilig sa water sports sa buong mundo. Ang afarer R&D Center ang lugar kung saan nagtatagpo ang pagmamahal at inobasyon, nagtatakda ng mga bagong pamantayan para sa industriya ng water sports.'
+  body: 'Nagsusumikap ang olagoon na pamunuan ang industriya ng inflatable SUP sa pamamagitan ng tuloy-tuloy na inobasyon, hindi-natitinding kalidad, at matatag na komitment sa kaligtasan at susteynabilidad — sa huli ay nagpapayaman sa mga karanasan ng mahihilig sa water sports sa buong mundo. Ang olagoon R&D Center ang lugar kung saan nagtatagpo ang pagmamahal at inobasyon, nagtatakda ng mga bagong pamantayan para sa industriya ng water sports.'
 
 labs_section:
   tagline: 'Mga Lab'
   title: 'Ang Aming mga Laboratoryo'
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: 'PVC Fabric Lab'
       description: 'Tuloy-tuloy na pananaliksik at pagsubok sa mga deck fabric na PVC para sa tensile strength, paglaban sa UV, pagkasira sa pagkiskis, at kakayahang lumambot sa mababang temperatura upang matiyak ang pangmatagal na pagiging maaasahan sa mga marine na kapaligiran.'
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Hull Engineering Studio'
       description: 'Disenyong hinihimok ng CAD at finite element analysis ng mga hull na HDPE, aluminum, at fiberglass. Ang bawat hull ay digitally sinusuon para sa distribusyon ng stress at paglaban sa impact bago gawin ang unang prototype.'
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'RF Welding Center'
       description: 'Nakalaang pasilidad ng radio-frequency welding na may tumpak na kontrol sa temperatura at presyon, na lumilikha ng malakas at hindi tumatablan ng hangin na seam na tumutugon sa mga pamantayan ng industriyang pandagat para sa inflatable craft.'
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Hydrodynamic Test Tank'
       description: "Pagsubok sa scale-model sa aming in-house na test tank upang i-optimize ang hull form, planing performance, katatagan, at kahusayan sa konsumo sa iba't ibang karga at kundisyon ng dagat."
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Prototype Workshop'
       description: 'Pasilidad para sa full-scale na prototyping at rigging kung saan ginagawa, isinasaayos, at sinusubok sa dagat ang mga bagong model. Ang bawat prototype ay dumadaan sa pinakamababang 20-oras na test programme sa tubig bago aprubahin para sa produksyon.'
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: 'Quality at Inspection Lab'
       description: 'Nakalaang lab ng quality assurance na nagsasagawa ng tensile testing, air-retention cycling, seam peel test, at sertipikasyon ng materyal upang matiyak na ang bawat board na lumalabas sa workshop ay tumutugon sa aming mga nai-publish na espesipikasyon.'
       href: /randdcenter/quality-inspection-lab/

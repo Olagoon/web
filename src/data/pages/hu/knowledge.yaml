@@ -1,6 +1,6 @@
 meta:
   title: 'Ismeretek — SUP útmutatók | {SITE}'
-  description: 'afarer tudásbázis: útmutatók felfújható SUP-okról, paddle board anyagokról, deszkaválasztásról és iparági meglátásokról márkák és szakemberek számára.'
+  description: 'olagoon tudásbázis: útmutatók felfújható SUP-okról, paddle board anyagokról, deszkaválasztásról és iparági meglátásokról márkák és szakemberek számára.'
   keywords:
     - 'sup ismeretek'
     - 'felfújható sup útmutató'
@@ -17,7 +17,7 @@ hero:
 clusters:
   tagline: 'Tudásfürtök'
   title: 'Felfedezés téma szerint'
-  subtitle: 'Mélyreható betekintések minden afarer termék mögött álló technológiába, biztonságba és készségekbe.'
+  subtitle: 'Mélyreható betekintések minden olagoon termék mögött álló technológiába, biztonságba és készségekbe.'
   items:
     - title: 'SUP vásárlási útmutatók'
       description: 'Az első deszka kiválasztásától a haladó túratechnikákig — minden a stand-up paddle boardingról.'

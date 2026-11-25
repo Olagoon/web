@@ -23,7 +23,7 @@ module.exports = {
       'aulas de SUP',
     ],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Nossa História — Fabricante de SUP Inflável e Barcos | {SITE}',
     description:
       'De uma oficina litorânea a um fabricante naval global: a história da afar, engenharia para liberdade na água com uma fábrica certificada de 12.000 m².',
@@ -57,7 +57,7 @@ module.exports = {
       'Fundada em 2012 em Qingdao, a afar foi construída por engenheiros navais, cientistas de materiais e entusiastas de esportes aquáticos. Conheça o time por trás da fábrica.',
     keywords: ['time da afar', 'engenheiros navais', 'fabricante de SUP inflável', 'time da fábrica de SUP'],
   },
-  'brand-why-afarer': {
+  'brand-why-olagoon': {
     title: 'Por Que a afar — 7 Motivos pelos Quais Marcas Globais Nos Escolhem | {SITE}',
     description:
       'Por que marcas globais escolhem a afar: certificações CE e ISO, MOQ flexível, moldes personalizados e prazos de 30 dias de uma fábrica profissional de SUP.',

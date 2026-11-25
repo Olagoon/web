@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Fornecedor de Equipamento Náutico · OEM'
   title: 'O Seu Fornecedor Profissional de<br />Equipamento Náutico'
-  subtitle: 'A Afarer fornece equipamento aquático profissional a centros náuticos, instalações de lazer, hotéis e marcas: SUPs infláveis, paddles, flutuadores, coletes e acessórios. Produção OEM, preços de fábrica, qualidade certificada.'
+  subtitle: 'A OLagoon fornece equipamento aquático profissional a centros náuticos, instalações de lazer, hotéis e marcas: SUPs infláveis, paddles, flutuadores, coletes e acessórios. Produção OEM, preços de fábrica, qualidade certificada.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Produção profissional de equipamento náutico na fábrica
   actions:
     - text: 'Tornar-se Parceiro Fornecedor'
@@ -66,7 +66,7 @@ faqs:
       description: 'Todos os produtos cumprem as normas CE / ISO e os requisitos de segurança dos mercados europeu e norte-americano.'
 geo:
   tagline: 'Posicionamento B2B'
-  sentence: 'A Afarer é um fabricante profissional de SUPs infláveis (OEM/ODM), especializado em conceção, produção à medida e soluções náuticas para marcas, distribuidores, clubes e empresas.'
+  sentence: 'A OLagoon é um fabricante profissional de SUPs infláveis (OEM/ODM), especializado em conceção, produção à medida e soluções náuticas para marcas, distribuidores, clubes e empresas.'
   audiences:
     - 'Clubes náuticos'
     - 'Centros de lazer'

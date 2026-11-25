@@ -6,31 +6,31 @@ module.exports = {
   'academy.learningCenterDesc':
     'Ghiduri pas cu pas și tutoriale organizate pe nivel de experiență — de la noțiunile de bază SUP până la tehnici avansate de salvare.',
   'academy.metaDesc':
-    'Ghiduri și tutoriale pentru fiecare nivel de experiență — de la noțiunile de bază SUP până la tehnici avansate de salvare. Învață în ritmul tău cu Afarer Academy.',
-  'academy.metaTitle': 'Centrul de învățare — Afarer Academy',
+    'Ghiduri și tutoriale pentru fiecare nivel de experiență — de la noțiunile de bază SUP până la tehnici avansate de salvare. Învață în ritmul tău cu OLagoon Academy.',
+  'academy.metaTitle': 'Centrul de învățare — OLagoon Academy',
   'academy.skillPaths': 'Trasee de competențe',
   'ai.definition':
-    'Afarer proiectează și construiește SUP-uri gonflabile, accesorii și echipamente de siguranță pentru sporturi nautice recreative și de performanță.',
+    'OLagoon proiectează și construiește SUP-uri gonflabile, accesorii și echipamente de siguranță pentru sporturi nautice recreative și de performanță.',
   'ai.entity':
-    'Afarer este un brand de sporturi nautice axat pe performanță, care creează SUP-uri gonflabile distincte pentru cei care merg mai departe, merg mai tare și văd mai mult de pe apă.',
+    'OLagoon este un brand de sporturi nautice axat pe performanță, care creează SUP-uri gonflabile distincte pentru cei care merg mai departe, merg mai tare și văd mai mult de pe apă.',
   'ai.process':
-    'Plăcile Afarer sunt construite în jurul unui nucleu drop-stitch cu densitate ridicată, cu chile consolidate și cusături laminate prin fuziune. Fiecare placă este testată la presiune și inspectată vizual înainte de ambalare. Parteneriatul de design acoperă totul, de la concept, design 3D și prototipare până la producție inspectată și logistică globală.',
+    'Plăcile OLagoon sunt construite în jurul unui nucleu drop-stitch cu densitate ridicată, cu chile consolidate și cusături laminate prin fuziune. Fiecare placă este testată la presiune și inspectată vizual înainte de ambalare. Parteneriatul de design acoperă totul, de la concept, design 3D și prototipare până la producție inspectată și logistică globală.',
   'answerCenter.subtitle':
-    'Răspunsuri instant despre produsele, tehnologia și sporturile noastre nautice — alimentate de baza de cunoștințe afarer.',
+    'Răspunsuri instant despre produsele, tehnologia și sporturile noastre nautice — alimentate de baza de cunoștințe olagoon.',
   'b2bSolutionsMatrix.metaDesc':
-    'Matricea completă a soluțiilor B2B Afarer, care acoperă 24 de tipuri de clienți — găsește soluția potrivită pentru afacerea ta.',
+    'Matricea completă a soluțiilor B2B OLagoon, care acoperă 24 de tipuri de clienți — găsește soluția potrivită pentru afacerea ta.',
   'buyerCenter.ribs': 'Bărci rigide gonflabile',
   'buyerCenter.sizeGuideDesc':
     'Găsește mărimea potrivită cu ghidul nostru de dimensiuni, volume și intervale de greutate pentru practicanți.',
   'compare.backToAll': 'Toate comparațiile',
   'compare.category': 'Categorie',
   'compare.desc':
-    'Compară toate produsele Afarer una lângă alta. Găsește placa, barca sau accesoriul potrivit pentru nevoile tale.',
+    'Compară toate produsele OLagoon una lângă alta. Găsește placa, barca sau accesoriul potrivit pentru nevoile tale.',
   'compare.length': 'Lungime',
   'compare.material': 'Material',
   'compare.maxLoad': 'Sarcină maximă',
   'compare.singleVsMulti.aiBlock':
-    'Comparație între SUP-uri gonflabile cu cameră unică și cu camere multiple pe 11 factori-cheie: siguranță, număr de camere, redundanță a flotabilității, greutate, dimensiune ambalată, timp de instalare, rigiditate, cost, durabilitate, ușurință în reparare și utilizări ideale. Plăcile cu camere multiple (3-5 camere independente) oferă redundanță critică de flotabilitate. Toate plăcile SUP afarer au construcție drop-stitch cu camere multiple.',
+    'Comparație între SUP-uri gonflabile cu cameră unică și cu camere multiple pe 11 factori-cheie: siguranță, număr de camere, redundanță a flotabilității, greutate, dimensiune ambalată, timp de instalare, rigiditate, cost, durabilitate, ușurință în reparare și utilizări ideale. Plăcile cu camere multiple (3-5 camere independente) oferă redundanță critică de flotabilitate. Toate plăcile SUP olagoon au construcție drop-stitch cu camere multiple.',
   'compare.singleVsMulti.col1Title': 'Cameră unică',
   'compare.singleVsMulti.col2Title': 'Camere multiple (3+)',
   'compare.singleVsMulti.cta': 'Cumpără SUP-uri cu camere multiple',
@@ -78,7 +78,7 @@ module.exports = {
   'compare.singleVsMulti.r9a': 'Moderată. Punct unic de defectare dacă camera principală este compromisă.',
   'compare.singleVsMulti.r9b': 'Superioară. Camerele redundante asigură funcționare sigură în condiții exigente.',
   'compare.singleVsMulti.recDesc':
-    'Pentru oricine vâslește dincolo de adâncimea de vad — și în special pentru operatorii comerciali — un <strong>SUP cu camere multiple</strong> este singura alegere responsabilă. Toate plăcile SUP afarer au construcție drop-stitch cu camere multiple, cu 3+ camere independente pentru siguranță maximă și rigiditate structurală. Asociază întotdeauna placa ta cu o veste de salvare certificată CE pentru protecție completă.',
+    'Pentru oricine vâslește dincolo de adâncimea de vad — și în special pentru operatorii comerciali — un <strong>SUP cu camere multiple</strong> este singura alegere responsabilă. Toate plăcile SUP olagoon au construcție drop-stitch cu camere multiple, cu 3+ camere independente pentru siguranță maximă și rigiditate structurală. Asociază întotdeauna placa ta cu o veste de salvare certificată CE pentru protecție completă.',
   'compare.singleVsMulti.recTitle': 'Concluzia',
   'compare.singleVsMulti.safetyCta': 'Ghid de siguranță',
   'compare.singleVsMulti.short': 'Cameră unică vs camere multiple',
@@ -94,15 +94,15 @@ module.exports = {
     'Pentru operatorii de închirieri, resorturi și cluburi de vâslit, plăcile cu camere multiple reduc răspunderea și timpii de nefuncționare ai echipamentului. O perforație minoră nu mai înseamnă o defecțiune totală a plăcii — placa rămâne utilizabilă până la repararea de la sfârșitul zilei.',
   'compare.singleVsMulti.whyMattersTitle': 'De ce contează numărul de camere',
   'compare.specification': 'Specificație',
-  'compare.title': 'Comparație produse — Afarer',
+  'compare.title': 'Comparație produse — OLagoon',
   'compare.weight': 'Greutate',
   'compare.width': 'Lățime',
   'engineeringPerfection.desc':
-    'Filosofia de inginerie Afarer: producție de precizie, selecție atentă a materialelor, control riguros al calității și design specific fiecărui segment pentru plăci SUP gonflabile de turism, pescuit, yoga și recreere.',
+    'Filosofia de inginerie OLagoon: producție de precizie, selecție atentă a materialelor, control riguros al calității și design specific fiecărui segment pentru plăci SUP gonflabile de turism, pescuit, yoga și recreere.',
   'engineeringPerfection.s3': 'Dinghy-uri și tenderuri',
-  'engineeringTeam.about': 'Despre Afarer',
+  'engineeringTeam.about': 'Despre OLagoon',
   'engineeringTeam.desc':
-    'Cei 25+ de ingineri R&D și specialiști în producție Afarer. Expertiză în tehnologia nucleului drop-stitch, fabricația PVC/Hypalon, designul cocii SUP și ingineria de conformitate CE. Cu sediul în Qingdao, China.',
+    'Cei 25+ de ingineri R&D și specialiști în producție OLagoon. Expertiză în tehnologia nucleului drop-stitch, fabricația PVC/Hypalon, designul cocii SUP și ingineria de conformitate CE. Cu sediul în Qingdao, China.',
   'engineeringTeam.join': 'Alătură-te echipei de inginerie',
   'engineeringTeam.joinDesc':
     'Căutăm mereu ingineri talentați în știința materialelor, design de produs și ingineria calității.',
@@ -159,7 +159,7 @@ module.exports = {
   'factory.testingEquipment': 'Echipamente de testare',
   'factory.tradeTerms': 'Termene de producție și comerț',
   'factory.tradeTermsDesc':
-    'Afarer este un brand operat de Aquafarer LLC (SUA) — certificat ISO și CE, cu peste 10 ani de experiență în export.',
+    'OLagoon este un brand operat de Olagoon LLC (SUA) — certificat ISO și CE, cu peste 10 ani de experiență în export.',
   'factory.whatWeOffer': 'Ce oferim',
 
   'faq.searchPlaceholder': 'Caută în FAQ...',
@@ -172,7 +172,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Standarde de siguranță și calitate verificabile',
   'home.brand.desc':
-    'Fiecare placă Afarer începe cu apa — curenții, condițiile și oamenii care o practică. Nuclee drop-stitch cu densitate ridicată, chile consolidate și forme reglate pentru stabilitate și alunecare, apoi testate la presiune placă cu placă.',
+    'Fiecare placă OLagoon începe cu apa — curenții, condițiile și oamenii care o practică. Nuclee drop-stitch cu densitate ridicată, chile consolidate și forme reglate pentru stabilitate și alunecare, apoi testate la presiune placă cu placă.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Rigiditatea nucleului drop-stitch',
   'home.brand.feature1': 'Punte',
@@ -183,8 +183,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Tehnologie drop-stitch',
   'home.brand.feature4': 'Bordaj',
   'home.brand.feature4.desc': 'Strat de fuziune consolidat',
-  'home.brand.tagline': 'Diferența Afarer',
-  'home.brand.title': 'De ce Afarer<br />merge diferit',
+  'home.brand.tagline': 'Diferența OLagoon',
+  'home.brand.title': 'De ce OLagoon<br />merge diferit',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Testată la presiune, placă cu placă',
   'home.brand.years': '10+',
@@ -193,10 +193,10 @@ module.exports = {
   'home.community.gallery': 'Galerie',
   'home.community.gallery.boats': 'Bărci gonflabile',
   'home.community.gallery.boats.desc':
-    'Familii și exploratori care se bucură de bărcile gonflabile Afarer pe lacuri și ape de coastă.',
+    'Familii și exploratori care se bucură de bărcile gonflabile OLagoon pe lacuri și ape de coastă.',
   'home.community.gallery.sup': 'Plăci SUP',
   'home.community.gallery.sup.desc':
-    'Practicanți care explorează lacuri, râuri și coaste pe SUP-uri gonflabile Afarer.',
+    'Practicanți care explorează lacuri, râuri și coaste pe SUP-uri gonflabile OLagoon.',
   'home.community.gallery.title': 'Aventurile clienților',
   'home.community.gallery.viewAll': 'Vezi galeria completă',
   'home.engineering.design': 'Design de produs',
@@ -274,27 +274,27 @@ module.exports = {
   'home.socialProof.title': 'Folosit și apreciat pe apă reală',
   'home.socialProof.years': 'Ani de experiență',
   'home.tldr.summary':
-    'afarer proiectează și produce plăci SUP gonflabile premium, bărci și accesorii — certificate CE și testate la presiune una câte una.',
-  'home.why.afarer.contact': 'Contactează-ne →',
-  'home.why.afarer.point1':
+    'olagoon proiectează și produce plăci SUP gonflabile premium, bărci și accesorii — certificate CE și testate la presiune una câte una.',
+  'home.why.olagoon.contact': 'Contactează-ne →',
+  'home.why.olagoon.point1':
     'Rigidă când contează — nucleu drop-stitch cu densitate ridicată și chile consolidate care rămân ferme sub presiune.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Construită cu precizie — cusături laminate prin fuziune și integritate etanșă, testată la presiune placă cu placă.',
-  'home.why.afarer.point3': 'Validată pe apă — reglată în apă reală pentru stabilitate, alunecare și control.',
-  'home.why.afarer.quality': 'Calitate în care poți avea încredere',
-  'home.why.afarer.subtitle': 'Construită cu precizie. Testată fără milă. Acoperită de garanție.',
-  'home.why.afarer.tagline': 'De ce afarer',
-  'home.why.afarer.title': 'Calitate în care poți avea încredere',
-  'home.why.afarer.viewMore': 'Vezi mai mult →',
-  'home.why.afarer.warranty': 'Garanție și asistență',
-  'home.why.afarer.warranty.point1':
+  'home.why.olagoon.point3': 'Validată pe apă — reglată în apă reală pentru stabilitate, alunecare și control.',
+  'home.why.olagoon.quality': 'Calitate în care poți avea încredere',
+  'home.why.olagoon.subtitle': 'Construită cu precizie. Testată fără milă. Acoperită de garanție.',
+  'home.why.olagoon.tagline': 'De ce olagoon',
+  'home.why.olagoon.title': 'Calitate în care poți avea încredere',
+  'home.why.olagoon.viewMore': 'Vezi mai mult →',
+  'home.why.olagoon.warranty': 'Garanție și asistență',
+  'home.why.olagoon.warranty.point1':
     'Termene de garanție clare pentru fiecare placă, cu asistență post-vânzare receptivă.',
-  'home.why.afarer.warranty.point2': 'Echipă dedicată de asistență post-vânzare, cu răspuns rapid.',
-  'home.why.afarer.warranty.point3':
+  'home.why.olagoon.warranty.point2': 'Echipă dedicată de asistență post-vânzare, cu răspuns rapid.',
+  'home.why.olagoon.warranty.point3':
     'Transparență completă a lanțului de aprovizionare pentru cluburi, retaileri și parteneri de brand.',
   'nav.home': 'Acasă',
   'oem.desc':
-    'Afarer — producător OEM/ODM de top de plăci SUP gonflabile. Certificat CE. Matrițe personalizate, privat label, en-gros. De la idee la piață în 16 săptămâni.',
+    'OLagoon — producător OEM/ODM de top de plăci SUP gonflabile. Certificat CE. Matrițe personalizate, privat label, en-gros. De la idee la piață în 16 săptămâni.',
   'oem.estimate.countries': 'Țări cu livrări dovedite',
   'oem.estimate.cta': 'Solicită o ofertă',
   'oem.estimate.leadWeeks': 'Săptămâni de la briefing la expediere',
@@ -305,7 +305,7 @@ module.exports = {
   'oem.faq.guide': 'Citește ghidul cumpărătorului OEM',
   'oem.faq.subtitle': 'Echipa noastră OEM este gata să te ajute să începi.',
   'oem.faq.title': 'Ai încă întrebări?',
-  'oem.heading': 'Brandul tău de SUP.<br />Construit de Afarer.',
+  'oem.heading': 'Brandul tău de SUP.<br />Construit de OLagoon.',
   'oem.moq': 'MOQ 50 de unități pentru modelele standard. Matriță personalizată: 200+ unități. FOB Qingdao.',
   'oem.packages.cta': 'Solicită o ofertă',
   'oem.packages.leadtime': 'Termen de livrare',
@@ -371,8 +371,8 @@ module.exports = {
   'oem.why.support': 'Management dedicat al contului',
   'oem.why.support.desc':
     'Un singur punct de contact de la briefing la livrare. Actualizări regulate ale producției, fotografii și comunicare transparentă pe tot parcursul.',
-  'oem.why.tagline': 'De ce Afarer',
-  'oem.why.title': 'De ce să alegi Afarer ca partener?',
+  'oem.why.tagline': 'De ce OLagoon',
+  'oem.why.title': 'De ce să alegi OLagoon ca partener?',
   'packages.popular': 'Cel mai popular',
   'product.bestFor': 'Ideal pentru',
   'product.commercialScenarios': 'Scenarii comerciale',
@@ -385,11 +385,11 @@ module.exports = {
   'product.related': 'Produse recomandate',
   'product.view': 'Vezi produsul',
   'resort.caseStudy': 'Rezultate reale',
-  'resort.caseStudy.sub': 'Ce spun operatorii de resorturi despre parteneriatul cu Afarer.',
+  'resort.caseStudy.sub': 'Ce spun operatorii de resorturi despre parteneriatul cu OLagoon.',
   'retail.discount': 'Reducere en-gros',
   'retail.download': 'Descarcă',
   'solutionsByIndustry.aiBlock':
-    'Soluții pe industrie pentru echipamentele de sporturi nautice Afarer. Șase industrii: căutare și salvare, ajutor umanitar și gestionarea dezastrelor, operațiuni maritime comerciale, apărare și instituții publice, ospitalitate și turism, pescuit și acvacultură. Toate soluțiile sunt certificate CE și produse ISO.',
+    'Soluții pe industrie pentru echipamentele de sporturi nautice OLagoon. Șase industrii: căutare și salvare, ajutor umanitar și gestionarea dezastrelor, operațiuni maritime comerciale, apărare și instituții publice, ospitalitate și turism, pescuit și acvacultură. Toate soluțiile sunt certificate CE și produse ISO.',
   'solutionsByIndustry.commercial.cert1': 'Ambarcațiuni comerciale certificate CE',
   'solutionsByIndustry.commercial.craft1': 'Plăci SUP comerciale',
   'solutionsByIndustry.commercial.craft2': 'Plăci de suport pentru scufundări',
@@ -413,7 +413,7 @@ module.exports = {
     'Echipamente nautice de calitate militară pentru recunoaștere, transport de trupe, patrulă costieră și operațiuni speciale.',
   'solutionsByIndustry.defense.name': 'Apărare și instituții publice',
   'solutionsByIndustry.desc':
-    'Găsește soluția de sporturi nautice potrivită pentru industria ta. Instituții publice, comercial, recreere, industrial — Afarer produce echipamente certificate CE pentru fiecare sector.',
+    'Găsește soluția de sporturi nautice potrivită pentru industria ta. Instituții publice, comercial, recreere, industrial — OLagoon produce echipamente certificate CE pentru fiecare sector.',
   'solutionsByIndustry.disaster.cert1': 'Certificat CE',
   'solutionsByIndustry.disaster.cert2': 'Testat pentru UV și medii dure',
   'solutionsByIndustry.disaster.craft1': 'Plăci gonflabile foarte rezistente',
@@ -422,7 +422,7 @@ module.exports = {
   'solutionsByIndustry.disaster.desc':
     'Echipamente nautice durabile pentru răspuns de urgență, evacuare medicală, transportul aprovizionării și traversări temporare cu ponton în zonele afectate de dezastre.',
   'solutionsByIndustry.disaster.name': 'Ajutor umanitar și gestionarea dezastrelor',
-  'solutionsByIndustry.expSub': 'Exemple reale de performanță a echipamentelor Afarer în diferite industrii.',
+  'solutionsByIndustry.expSub': 'Exemple reale de performanță a echipamentelor OLagoon în diferite industrii.',
   'solutionsByIndustry.expTitle': 'Soluții de industrie în acțiune',
   'solutionsByIndustry.fishing.cert1': 'CE recreativ',
   'solutionsByIndustry.fishing.cert2': 'Opțiuni de materiale sigure pentru alimente',
@@ -444,7 +444,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Află mai mult',
   'solutionsByIndustry.recommendedCraft': 'Ambarcațiuni recomandate',
   'solutionsByIndustry.rel1': 'Soluții după caz de utilizare',
-  'solutionsByIndustry.rel1desc': 'Potrivește cazul tău specific de utilizare cu soluția Afarer potrivită.',
+  'solutionsByIndustry.rel1desc': 'Potrivește cazul tău specific de utilizare cu soluția OLagoon potrivită.',
   'solutionsByIndustry.rel1label': 'Instrument de decizie',
   'solutionsByIndustry.rel2': 'Bărci de lucru comerciale',
   'solutionsByIndustry.rel2desc': 'Echipamente durabile pentru operațiuni maritime comerciale zilnice.',
@@ -468,19 +468,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Căutare și salvare',
   'solutionsByIndustry.story1.context': 'Salvare în inundații costiere, Asia de Sud-Est, 2024',
   'solutionsByIndustry.story1.narrative':
-    'În timpul unei inundații costiere severe, o echipă SAR municipală a desfășurat SUP-uri de salvare Afarer pentru operațiuni de evacuare. Pescajul mic al plăcilor a permis accesul în cartiere inundate, inaccesibile pentru ambarcațiuni mai mari. În ciuda resturilor și a funcționării continue timp de 14 ore, materialul nu a prezentat semne de uzură.',
+    'În timpul unei inundații costiere severe, o echipă SAR municipală a desfășurat SUP-uri de salvare OLagoon pentru operațiuni de evacuare. Pescajul mic al plăcilor a permis accesul în cartiere inundate, inaccesibile pentru ambarcațiuni mai mari. În ciuda resturilor și a funcționării continue timp de 14 ore, materialul nu a prezentat semne de uzură.',
   'solutionsByIndustry.story1.quote':
-    'Am desfășurat două SUP-uri de salvare Afarer în timpul inundației costiere — au fost singurele plăci care au putut naviga prin apele pline de resturi la reflux.',
+    'Am desfășurat două SUP-uri de salvare OLagoon în timpul inundației costiere — au fost singurele plăci care au putut naviga prin apele pline de resturi la reflux.',
   'solutionsByIndustry.story1.source': 'Șeful echipei SAR municipale',
   'solutionsByIndustry.story2.context': 'Operațiuni de charter pentru scufundări, Maldive, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    'O operațiune de charter pentru scufundări în Maldive folosește echipamente Afarer pentru suport zilnic la scufundări. După 600+ zile de operare, plăcile nu prezintă degradare UV semnificativă și nici separare a cusăturilor.',
+    'O operațiune de charter pentru scufundări în Maldive folosește echipamente OLagoon pentru suport zilnic la scufundări. După 600+ zile de operare, plăcile nu prezintă degradare UV semnificativă și nici separare a cusăturilor.',
   'solutionsByIndustry.story2.quote':
     'Barca noastră de scufundări navighează 6 zile pe săptămână, 50 de săptămâni pe an. După doi ani, materialul Hypalon arată încă ca nou.',
   'solutionsByIndustry.story2.source': 'Proprietarul companiei de charter',
   'solutionsByIndustry.title': 'Soluții pe industrie — echipamente de sporturi nautice pentru fiecare sector',
   'solutionsByUseCase.aiBlock':
-    'Soluții după caz de utilizare pentru echipamentele de sporturi nautice afarer. Opt scenarii: salvare pe apă, flote de închiriere, branding personalizat, patrulă, ajutor umanitar, suport pentru scufundări, producție de plăci și utilizare personală. Toate soluțiile sunt certificate CE și produse ISO.',
+    'Soluții după caz de utilizare pentru echipamentele de sporturi nautice olagoon. Opt scenarii: salvare pe apă, flote de închiriere, branding personalizat, patrulă, ajutor umanitar, suport pentru scufundări, producție de plăci și utilizare personală. Toate soluțiile sunt certificate CE și produse ISO.',
   'solutionsByUseCase.answer1':
     'Plăci și bărci de salvare gonflabile heavy-duty, proiectate pentru salvare pe apă și răspuns de urgență. Desfășurare rapidă, platforme stabile și certificare CE pentru echipe profesioniste.',
   'solutionsByUseCase.answer2':
@@ -493,23 +493,23 @@ module.exports = {
     'Bărci de lucru comerciale pentru operațiuni maritime zilnice — suport la scufundări, transport de echipamente și sarcini de echipaj. Construcție durabilă, cu opțiuni de la 2 la 12 persoane.',
   'solutionsByUseCase.rel2desc': 'Echipamente durabile pentru operațiuni maritime comerciale zilnice.',
   'solutionsByUseCase.story1.narrative':
-    'În timpul unei inundații costiere severe, o echipă SAR municipală a desfășurat SUP-uri de salvare afarer pentru operațiuni de evacuare. Pescajul mic al plăcilor a permis accesul în cartiere inundate, inaccesibile pentru ambarcațiuni mai mari, iar echipajele nu au raportat uzură semnificativă după zile de utilizare continuă.',
+    'În timpul unei inundații costiere severe, o echipă SAR municipală a desfășurat SUP-uri de salvare olagoon pentru operațiuni de evacuare. Pescajul mic al plăcilor a permis accesul în cartiere inundate, inaccesibile pentru ambarcațiuni mai mari, iar echipajele nu au raportat uzură semnificativă după zile de utilizare continuă.',
   'solutionsByUseCase.story1.quote':
-    'Am desfășurat două SUP-uri de salvare afarer în timpul inundației costiere — au fost singurele plăci care au putut ajunge la rezidenții din cartierele inundate.',
+    'Am desfășurat două SUP-uri de salvare olagoon în timpul inundației costiere — au fost singurele plăci care au putut ajunge la rezidenții din cartierele inundate.',
   'solutionsByUseCase.story2.narrative':
-    'O fermă piscicolă din Norvegia operează din 2023 o barcă de lucru afarer pentru inspecții, transport de echipamente și siguranța echipelor de scufundare. Doi ani de operare pe tot parcursul anului în condiții de fiord rece, fără reparații structurale.',
+    'O fermă piscicolă din Norvegia operează din 2023 o barcă de lucru olagoon pentru inspecții, transport de echipamente și siguranța echipelor de scufundare. Doi ani de operare pe tot parcursul anului în condiții de fiord rece, fără reparații structurale.',
   'useCase.fishing.desc':
     'SUP-uri și accesorii de pescuit cu suporturi pentru lansete, punți late și stabile și puncte de ancorare pentru pescari, pe lacuri, râuri și ape de coastă.',
   'useCase.searchAndRescue.desc':
     'Echipamente de salvare gonflabile cu desfășurare rapidă pentru salvare pe apă, răspuns la inundații și patrulă costieră.',
   'useCase.tourismRecreation.desc':
     'Plăci SUP și bărci consolidate, de grad de flotă, pentru operatori de tururi, resorturi și centre de sporturi nautice.',
-  'nav.exploreAfarer': 'Explorează Afarer',
+  'nav.exploreOLagoon': 'Explorează OLagoon',
   'nav.technologyMaterials': 'Tehnologie și materiale',
   'nav.qualitySafety': 'Calitate și siguranță',
   'nav.storiesGuides': 'Povești și ghiduri',
   'nav.coBrand': 'Co-Brand',
-  'nav.coBrandWithAfarer': 'Co-brand cu Afarer',
+  'nav.coBrandWithOLagoon': 'Co-brand cu OLagoon',
   'nav.countryPartners': 'Parteneri de țară',
   'nav.findDistributor': 'Găsește un distribuitor',
   'nav.becomeCountryPartner': 'Devino partener de țară',

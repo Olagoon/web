@@ -1,6 +1,6 @@
 meta:
   title: Kontak — Pertanyaan Kemitraan & Produk | {SITE}
-  description: Hubungi afarer untuk pertanyaan kemitraan, co-brand, dan label pribadi, atau armada profesional. Merek SUP tiup, kami merespons dalam 2 hari kerja.
+  description: Hubungi olagoon untuk pertanyaan kemitraan, co-brand, dan label pribadi, atau armada profesional. Merek SUP tiup, kami merespons dalam 2 hari kerja.
   keywords:
     - penawaran distributor sup
     - pemasok sup profesional
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Kirim pesan kepada kami
   subtitle: Untuk penawaran, pertanyaan teknis, atau pertanyaan kemitraan, kirimkan pesan kepada kami. Kami membalas dalam satu hari kerja.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Kirim Pertanyaan → Dapatkan Penawaran
   success_message: Terima kasih! Pesan Anda telah masuk ke kotak masuk kami. Kami akan membalas dalam satu hari kerja.
   error_message: Terjadi kesalahan saat mengirim pesan Anda. Silakan coba lagi atau kirim email langsung kepada kami.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: Email
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Kantor Pusat
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

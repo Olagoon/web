@@ -55,10 +55,10 @@ module.exports = [
   {
     f: 'src/data/pages/da/academy.yaml',
     ln: 11,
-    core: 'tagline: afarer Academy',
-    rep: 'tagline: afarer Akademi',
+    core: 'tagline: olagoon Academy',
+    rep: 'tagline: olagoon Akademi',
     n: 1,
-  }, // intra-file "afarer Akademiet" + no "afarer Akademi"
+  }, // intra-file "olagoon Akademiet" + no "olagoon Akademi"
   {
     f: 'src/data/pages/da/academy.yaml',
     ln: 87,
@@ -207,7 +207,7 @@ module.exports = [
   // ---- Download verb family (46 precedent: Hent; nouns downloads/til download KEEP) ----
   { f: 'src/data/pages/da/b2b-solutions-matrix.yaml', ln: 119, core: 'Download katalog', rep: 'Hent katalog', n: 1 },
   {
-    f: 'src/data/pages/da/brand-why-afarer.yaml',
+    f: 'src/data/pages/da/brand-why-olagoon.yaml',
     ln: 71,
     core: 'Download produktkatalog',
     rep: 'Hent produktkatalog',

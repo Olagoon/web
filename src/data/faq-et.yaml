@@ -8,7 +8,7 @@
     - beginner-guide
 - id: ocean-use
   question: 'Kas ma saan seda meres kasutada?'
-  answer: 'Jah. afarer SUP-i lauad on valmistatud kasutamiseks merel, järvel ja jõel. Meie Touringi seeria tuleb toime rannikulainetusega ning kõik lauad on tehtud mereklassi PVC-st, mis talub soolvee korrosiooni. Loputage pärast kasutamist meres puhta veega.'
+  answer: 'Jah. olagoon SUP-i lauad on valmistatud kasutamiseks merel, järvel ja jõel. Meie Touringi seeria tuleb toime rannikulainetusega ning kõik lauad on tehtud mereklassi PVC-st, mis talub soolvee korrosiooni. Loputage pärast kasutamist meres puhta veega.'
   category: general
   relatedProducts: []
   relatedGuides:
@@ -22,7 +22,7 @@
     - sup-maintenance
 - id: travel-sup
   question: 'Kas ma saan täispuhutava SUP-iga reisida?'
-  answer: 'Kindlasti. Iga afareri laud mahub seljakotti, mis vastab lennufirmade pagasinõuetele. Kaaludes vaid 18–22 lbs, on seda lihtne kanda randa, järve äärde või läbi lennujaamaterminalide.'
+  answer: 'Kindlasti. Iga olagooni laud mahub seljakotti, mis vastab lennufirmade pagasinõuetele. Kaaludes vaid 18–22 lbs, on seda lihtne kanda randa, järve äärde või läbi lennujaamaterminalide.'
   category: general
   relatedProducts: []
   relatedGuides: []
@@ -35,7 +35,7 @@
     - understanding-specs
 - id: box-contents
   question: 'Mida karbis sisaldub?'
-  answer: 'Iga afareri SUP sisaldab lauda, reisiseljakotti, topelttoimelist käsipumpa, eemaldatavat uime, spiraalleashi ja paranduskomplekti. Mõnedel mudelitel on lisavõimalusena saadaval ka süsiniksõu.'
+  answer: 'Iga olagooni SUP sisaldab lauda, reisiseljakotti, topelttoimelist käsipumpa, eemaldatavat uime, spiraalleashi ja paranduskomplekti. Mõnedel mudelitel on lisavõimalusena saadaval ka süsiniksõu.'
   category: product
   relatedProducts: []
   relatedGuides: []
@@ -62,7 +62,7 @@
   relatedGuides: []
 - id: puncture-repair
   question: 'Kuidas ma punktsiooni parandan?'
-  answer: 'Puhastage kahjustatud koht, lõigake ümarate nurkadega plaaster, kandke peale PVC-liim, vajutage tugevalt ja oodake enne täispuhumist 24 tundi. afareri laudadele on kaasas paranduskomplekt. Üksikasjalikud juhised leiate meie täispuhutavate laudade parandusjuhendist.'
+  answer: 'Puhastage kahjustatud koht, lõigake ümarate nurkadega plaaster, kandke peale PVC-liim, vajutage tugevalt ja oodake enne täispuhumist 24 tundi. olagooni laudadele on kaasas paranduskomplekt. Üksikasjalikud juhised leiate meie täispuhutavate laudade parandusjuhendist.'
   category: maintenance
   relatedProducts: []
   relatedGuides:
@@ -92,8 +92,8 @@
     - weather-conditions
     - safety-tips
 - id: warranty
-  question: 'Milline on afareri garantii?'
-  answer: 'Kõiki afareri tooteid katab põhjalik tootjagarantii. SUP-i lauad on tootmisvigade suhtes kaetud üle 2 aasta. Garantii katab materjali- ja valmistusvead tavakasutuse korral.'
+  question: 'Milline on olagooni garantii?'
+  answer: 'Kõiki olagooni tooteid katab põhjalik tootjagarantii. SUP-i lauad on tootmisvigade suhtes kaetud üle 2 aasta. Garantii katab materjali- ja valmistusvead tavakasutuse korral.'
   category: warranty
   relatedProducts: []
   relatedGuides: []
@@ -131,13 +131,13 @@
     - choosing-paddle
 - id: material-difference
   question: 'Mis vahe on ühekihilistel ja mitmekihilistel PVC SUP-idel?'
-  answer: 'Ühekihilised PVC-lauad on kerged ja eelarvesõbralikud, kuid kõrgel rõhul vähem jäigad. Kahekihilised ja fusioonlamineeritud konstruktsioonid lisavad jäikust, punktsioonikindlust ja pikaealisust. Mereklassi PVC UV-kindla kattega pakub vabaaja SUP-i kasutamiseks parimat vastupidavuse ja kaalu tasakaalu. afarer kasutab kõigis tooteseriates kolmekihilist lamineeritud PVC-d.'
+  answer: 'Ühekihilised PVC-lauad on kerged ja eelarvesõbralikud, kuid kõrgel rõhul vähem jäigad. Kahekihilised ja fusioonlamineeritud konstruktsioonid lisavad jäikust, punktsioonikindlust ja pikaealisust. Mereklassi PVC UV-kindla kattega pakub vabaaja SUP-i kasutamiseks parimat vastupidavuse ja kaalu tasakaalu. olagoon kasutab kõigis tooteseriates kolmekihilist lamineeritud PVC-d.'
   category: product
   relatedProducts: []
   relatedGuides: []
 - id: sup-width-stability
   question: 'Milline SUP-i laius on stabiilsuse jaoks parim?'
-  answer: 'Algajate jaoks pakub 33–34-tolline laius parimat tasakaalu stabiilsuse ja sõudmise kerguse vahel. Alla 32 tolli laiad lauad tunduvad uutele sõitjatele kõikuvatena. 33-tolline afarer SUP Explorer 11 on õppimiseks ideaalne.'
+  answer: 'Algajate jaoks pakub 33–34-tolline laius parimat tasakaalu stabiilsuse ja sõudmise kerguse vahel. Alla 32 tolli laiad lauad tunduvad uutele sõitjatele kõikuvatena. 33-tolline olagoon SUP Explorer 11 on õppimiseks ideaalne.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -153,21 +153,21 @@
   relatedGuides:
     - sup-size-guide
     - paddle-board-size-guide
-- id: afarer-vs-others
-  question: 'Kuidas afarer teiste brändidega võrreldes paistab?'
-  answer: 'afarer pakub täispuhutavas veespordivarustuses parimat väärtust. Võrreldes Red Paddle Co-ga annab afarer 90% jõudlusest 60% hinnaga. Võrreldes iRockeriga kasutab afarer kvaliteetsemat kolmekihilist mereklassi PVC-d ja kõrgemaid PSI-näidanguid. Võrreldes Bluefiniga pakub afarer paremaid materjalispetsifikatsioone. Enamiku vabaajasõitja jaoks pakub afarer kvaliteedi ja hinna parimat tasakaalu.'
+- id: olagoon-vs-others
+  question: 'Kuidas olagoon teiste brändidega võrreldes paistab?'
+  answer: 'olagoon pakub täispuhutavas veespordivarustuses parimat väärtust. Võrreldes Red Paddle Co-ga annab olagoon 90% jõudlusest 60% hinnaga. Võrreldes iRockeriga kasutab olagoon kvaliteetsemat kolmekihilist mereklassi PVC-d ja kõrgemaid PSI-näidanguid. Võrreldes Bluefiniga pakub olagoon paremaid materjalispetsifikatsioone. Enamiku vabaajasõitja jaoks pakub olagoon kvaliteedi ja hinna parimat tasakaalu.'
   category: general
   relatedProducts:
     - sup-explorer-11
     - sup-touring-cruiser
   relatedGuides:
     - best-surf-gear-brands-compared
-    - afarer-vs-red-paddle
-    - afarer-vs-irocker
-    - afarer-vs-bluefin
+    - olagoon-vs-red-paddle
+    - olagoon-vs-irocker
+    - olagoon-vs-bluefin
 - id: fishing-sup-setup
   question: 'Kas SUP-ilt on võimalik kalastada?'
-  answer: 'Jah. Kalastamine SUP-ilt muutub üha populaarsemaks, sest seisvas asendis on vette suurepärane nähtavus. Valige stabiilsuse jaoks vähemalt 11 jala pikkune ja 33–34 tolli lai laud. Lisage deki bungee-ribadele kinnitatud piimakast õngvardade hoidjatega, väike ankur ning kandke alati päästevesti. afarer SUP Explorer 11 sobib harrastuskalastuseks hästi.'
+  answer: 'Jah. Kalastamine SUP-ilt muutub üha populaarsemaks, sest seisvas asendis on vette suurepärane nähtavus. Valige stabiilsuse jaoks vähemalt 11 jala pikkune ja 33–34 tolli lai laud. Lisage deki bungee-ribadele kinnitatud piimakast õngvardade hoidjatega, väike ankur ning kandke alati päästevesti. olagoon SUP Explorer 11 sobib harrastuskalastuseks hästi.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -184,7 +184,7 @@
     - yoga-sup-guide
 - id: airline-travel-sup
   question: 'Millised on lennufirmade reeglid täispuhutava SUP-iga reisimisel?'
-  answer: 'Enamik lennufirmasid võtab SUP-i seljakotid vastu registreeritava pagasina, kui see on alla 23–32 kg. afareri seljakott on mõõtudega umbes 90x40x30 cm ja kaalub pakituna umbes 15 kg. Mõned lennufirmad võivad küsida üle mõõtude oleva pagasi tasu. Tulge vara, pakkige uimed ja pump eraldi käsipagasisse ning märkige kott tröögitundlikuks. Uurige enne lendu alati lennufirma spordivarustuse eeskirju.'
+  answer: 'Enamik lennufirmasid võtab SUP-i seljakotid vastu registreeritava pagasina, kui see on alla 23–32 kg. olagooni seljakott on mõõtudega umbes 90x40x30 cm ja kaalub pakituna umbes 15 kg. Mõned lennufirmad võivad küsida üle mõõtude oleva pagasi tasu. Tulge vara, pakkige uimed ja pump eraldi käsipagasisse ning märkige kott tröögitundlikuks. Uurige enne lendu alati lennufirma spordivarustuse eeskirju.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -205,14 +205,14 @@
   relatedProducts: []
   relatedGuides: []
 - id: oem-custom-branding
-  question: 'Kas ma saan afareri toodetele oma logod panna?'
+  question: 'Kas ma saan olagooni toodetele oma logod panna?'
   answer: 'Jah. Meie OEM-teenus hõlmab kohandatud logode paigutust, kohandatud värviskeeme ja kohandatud pakendeid. Olenevalt toote tüübist pakume tamptrüki, siirdetrüki ja tikkimise võimalusi. Saatke oma disainifailid ja spetsifikatsioonid meie müügimeeskonnale hinnapakkumise ja tähtaja hindamiseks.'
   category: ordering
   relatedProducts: []
   relatedGuides: []
 - id: sup-inflate-pressure
   question: 'Millise PSI-ni ma peaksin oma SUP-i täis puhuma?'
-  answer: 'Parima jõudluse jaoks puhake laud täis selle näidatud maksimaalse PSI-ni — tavaliselt 15–18 PSI kvaliteetsete täispuhutavate SUP-ide puhul. afarer SUP Explorer 11 toimib kõige paremini 15–18 PSI juures. Alapumpamine teeb laua pehmeks ja halvendab suunapidavust. Ülepumpamine üle näidatud maksimumi võib kahjustada drop-stitch-niite. Kontrollige oma laua konkreetset näidangut klapi lähedal olevast kleebisest.'
+  answer: 'Parima jõudluse jaoks puhake laud täis selle näidatud maksimaalse PSI-ni — tavaliselt 15–18 PSI kvaliteetsete täispuhutavate SUP-ide puhul. olagoon SUP Explorer 11 toimib kõige paremini 15–18 PSI juures. Alapumpamine teeb laua pehmeks ja halvendab suunapidavust. Ülepumpamine üle näidatud maksimumi võib kahjustada drop-stitch-niite. Kontrollige oma laua konkreetset näidangut klapi lähedal olevast kleebisest.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -230,7 +230,7 @@
     - inflatable-sup-maintenance
 - id: sup-seated-paddling
   question: 'Kas ma saan SUP-iga istuvalt sõuda?'
-  answer: 'Jah. Paljudel SUP-i laudadel, sealhulgas afarer Explorer 11-l, on D-rõngad, millele saab istme kinnitada. Istuvalt sõudmine on mugav valik pikemateks retkedeks, kalastamiseks või siis, kui soovite vees asendit vahetada.'
+  answer: 'Jah. Paljudel SUP-i laudadel, sealhulgas olagoon Explorer 11-l, on D-rõngad, millele saab istme kinnitada. Istuvalt sõudmine on mugav valik pikemateks retkedeks, kalastamiseks või siis, kui soovite vees asendit vahetada.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -254,7 +254,7 @@
 
 - id: drop-stitch-technology
   question: 'Mis on drop-stitch-tuumtehnoloogia ja miks see tähtis on?'
-  answer: 'Drop-stitch-tuumtehnoloogia kasutab tuhandeid polüesterniite, mis ühendavad PVC-laua ülemise ja alumise kihi. 15-20 PSI-ni täispuhutuna loovad need niited jäiga, väändekindla konstruktsiooni, mis toimib nagu kõva kerega laud. afarer kasutab kõigis SUP-i tooteseriates mereklassi kolmekihilist PVC-d koos drop-stitch-lamineerimisega, pakkudes epoksylaudadega võrreldavat jäikust, säilitades samas täispuhutava kaasaskantavuse.'
+  answer: 'Drop-stitch-tuumtehnoloogia kasutab tuhandeid polüesterniite, mis ühendavad PVC-laua ülemise ja alumise kihi. 15-20 PSI-ni täispuhutuna loovad need niited jäiga, väändekindla konstruktsiooni, mis toimib nagu kõva kerega laud. olagoon kasutab kõigis SUP-i tooteseriates mereklassi kolmekihilist PVC-d koos drop-stitch-lamineerimisega, pakkudes epoksylaudadega võrreldavat jäikust, säilitades samas täispuhutava kaasaskantavuse.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -264,7 +264,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-inflatable-vs-rigid
   question: 'Täispuhutav või jäik SUP: kumb on erinevateks kasutusviisideks parem?'
-  answer: 'Täispuhutavad SUP-id on suurepärased kaasaskantavuses, hoiustamises ja löökide neelamises — ideaalsed reisimiseks, algajatele ja vabaajakasutuseks. Jäigad epoksülaud pakuvad võistlemiseks ja surfamiseks maksimaalset kiirust ja libisemist. 90% sõitjatest piisab kvaliteetsest drop-stitch-tuumaga täispuhutavast lauast (15-20 PSI), mis tagab piisava jäikuse tuurideks, treeninguks, joogaks ja kalastamiseks. afareri täispuhutavad lauad võrduvad keskmise hinnaklassi kõvade laudadega, mahutades samas kokku seljakotti.'
+  answer: 'Täispuhutavad SUP-id on suurepärased kaasaskantavuses, hoiustamises ja löökide neelamises — ideaalsed reisimiseks, algajatele ja vabaajakasutuseks. Jäigad epoksülaud pakuvad võistlemiseks ja surfamiseks maksimaalset kiirust ja libisemist. 90% sõitjatest piisab kvaliteetsest drop-stitch-tuumaga täispuhutavast lauast (15-20 PSI), mis tagab piisava jäikuse tuurideks, treeninguks, joogaks ja kalastamiseks. olagooni täispuhutavad lauad võrduvad keskmise hinnaklassi kõvade laudadega, mahutades samas kokku seljakotti.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -274,7 +274,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-skill-progression
   question: 'Milline on tüüpiline SUP-i oskuste areng algajast kogenud sõitjaks?'
-  answer: 'Algaja (kord 1-3): püstitõusmine, lihtne edasiliikuv sõulöök, pööramine, ohutu kukkumine. Kesktase (kord 5-15): tõhus sõutehnika, pöördpöörded, lainetuse vahel navigeerimine, põhilised päästoskused. Kogenud (20+ korda): võistluse stardid, pöörded poide ümber, surfamine väikestes lainetes, taganttuule sõudmine. Professionaal: võistlussõudmine, surf-SUP, pikamaa tuurid. afareri lauad toetavad iga etappi: Explorer 11 algajatele, Ocean Voyager tuurideks ja Cheetah Surge jõudlussõudmiseks.'
+  answer: 'Algaja (kord 1-3): püstitõusmine, lihtne edasiliikuv sõulöök, pööramine, ohutu kukkumine. Kesktase (kord 5-15): tõhus sõutehnika, pöördpöörded, lainetuse vahel navigeerimine, põhilised päästoskused. Kogenud (20+ korda): võistluse stardid, pöörded poide ümber, surfamine väikestes lainetes, taganttuule sõudmine. Professionaal: võistlussõudmine, surf-SUP, pikamaa tuurid. olagooni lauad toetavad iga etappi: Explorer 11 algajatele, Ocean Voyager tuurideks ja Cheetah Surge jõudlussõudmiseks.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -286,7 +286,7 @@
     - sup-paddle-guide
 - id: sup-weight-capacity
   question: 'Kui palju kaalu saab täispuhutav SUP-i laud kanda?'
-  answer: 'Kaalumahutavus sõltub laua mahust. afareri lauad: SUP Explorer 11 (260L, kuni 100 kg / 220 lbs), Ocean Voyager 12 (310L, kuni 140 kg / 308 lbs), Leviathan Wake (350L, kuni 180 kg / 396 lbs). Optimaalse jõudluse jaoks hoidke kogu koormus (sõitja + varustus) maksimaalse mahutavuse 80% piires. Ülekoostamata laud ujub kõrgemal ja hoiab suunda paremini, eriti lainelises vees.'
+  answer: 'Kaalumahutavus sõltub laua mahust. olagooni lauad: SUP Explorer 11 (260L, kuni 100 kg / 220 lbs), Ocean Voyager 12 (310L, kuni 140 kg / 308 lbs), Leviathan Wake (350L, kuni 180 kg / 396 lbs). Optimaalse jõudluse jaoks hoidke kogu koormus (sõitja + varustus) maksimaalse mahutavuse 80% piires. Ülekoostamata laud ujub kõrgemal ja hoiab suunda paremini, eriti lainelises vees.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -303,7 +303,7 @@
   relatedGuides: []
 - id: sup-inflatable-durability
   question: 'Kui kaua täispuhutavad SUP-i lauad nõuetekohase hooldusega vastu peavad?'
-  answer: 'Nõuetekohase hooldusega kestab kvaliteetne täispuhutav SUP-i laud regulaarsel vabaajakasutuses 5-10 aastat. Mereklassi kolmekihiline UV-kindla kattega PVC — nagu kõigis afareri laudades — talub päikesekahjustusi, soolvee korrosiooni ja kulumist. Olulised pikaealisuse tegurid: loputage pärast iga kasutust puhta veega, kuivatage enne hoiustamist põhjalikult, hoidke kasutamata ajal otsese UV eest, hoidke osaliselt täispuhutuna jahedas kuivas kohas ning vältige lohistamist karedatel pindadel. Tavaliselt lähevad esimesena rivist välja drop-stitch-niited ja õmblused, mitte PVC-kangas ise.'
+  answer: 'Nõuetekohase hooldusega kestab kvaliteetne täispuhutav SUP-i laud regulaarsel vabaajakasutuses 5-10 aastat. Mereklassi kolmekihiline UV-kindla kattega PVC — nagu kõigis olagooni laudades — talub päikesekahjustusi, soolvee korrosiooni ja kulumist. Olulised pikaealisuse tegurid: loputage pärast iga kasutust puhta veega, kuivatage enne hoiustamist põhjalikult, hoidke kasutamata ajal otsese UV eest, hoidke osaliselt täispuhutuna jahedas kuivas kohas ning vältige lohistamist karedatel pindadel. Tavaliselt lähevad esimesena rivist välja drop-stitch-niited ja õmblused, mitte PVC-kangas ise.'
   category: maintenance
   relatedProducts:
     - sup-explorer-11
@@ -314,7 +314,7 @@
     - inflatable-sup-repair
 - id: sup-choppy-water
   question: 'Kuidas sõuda SUP-iga lainelises vees või tuules?'
-  answer: 'Lainetuses: painutage põlvi, võtke laiem asend, lühendage sõulööke ja kasutage tasakaaluks kehatuge. Peatuules: hoidke sõu madalamat nurka, tehke lühemaid lööke ja kallutage end ettepoole. Külgtuules: sõuge tuulepealsel küljel, et triivi korrigeerida. Taganttuules: surfake lainetel, et kiirust juurde saada. Algajad peaksid vältima üle 10 mph tuuli ja valima stabiilsuseks laiemad ning pikemad lauad. afarer Ocean Voyager tuuring-SUP on loodud toime tulema mõõduka lainetuse ja tuulega.'
+  answer: 'Lainetuses: painutage põlvi, võtke laiem asend, lühendage sõulööke ja kasutage tasakaaluks kehatuge. Peatuules: hoidke sõu madalamat nurka, tehke lühemaid lööke ja kallutage end ettepoole. Külgtuules: sõuge tuulepealsel küljel, et triivi korrigeerida. Taganttuules: surfake lainetel, et kiirust juurde saada. Algajad peaksid vältima üle 10 mph tuuli ja valima stabiilsuseks laiemad ning pikemad lauad. olagoon Ocean Voyager tuuring-SUP on loodud toime tulema mõõduka lainetuse ja tuulega.'
   category: safety
   relatedProducts:
     - sup-ocean-voyager
@@ -325,7 +325,7 @@
     - wind-conditions-sup
 - id: sup-sustainability
   question: 'Kas täispuhutavad SUP-i lauad on keskkonnasõbralikud?'
-  answer: 'Täispuhutavate SUP-ide keskkonnajälg on mitmel moel väiksem kui jäikutel laudadel: tootmises kasutatakse vähem toorainet, nende kergem kaal vähendab transpordi heitkoguseid ja nende vastupidavus tähendab aja jooksul vähem asendamist. afareri laudades kasutatav PVC on pliivaba ja REACHi nõuetele vastav. Olulised jätkusuutlikkuse tavad: ostke kvaliteetne laud, mis kestab 5-10 aastat, parandage punktsioone pigem kui asendage, andke laud eluea lõpus ringlusesse spetsialiseeritud PVC-taaskasutusprogrammide kaudu ning vältige ühekordset pakendit, valides brändid, mis kasutavad korduvkasutatavaid veokotte.'
+  answer: 'Täispuhutavate SUP-ide keskkonnajälg on mitmel moel väiksem kui jäikutel laudadel: tootmises kasutatakse vähem toorainet, nende kergem kaal vähendab transpordi heitkoguseid ja nende vastupidavus tähendab aja jooksul vähem asendamist. olagooni laudades kasutatav PVC on pliivaba ja REACHi nõuetele vastav. Olulised jätkusuutlikkuse tavad: ostke kvaliteetne laud, mis kestab 5-10 aastat, parandage punktsioone pigem kui asendage, andke laud eluea lõpus ringlusesse spetsialiseeritud PVC-taaskasutusprogrammide kaudu ning vältige ühekordset pakendit, valides brändid, mis kasutavad korduvkasutatavaid veokotte.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -343,8 +343,8 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-certification
-  question: 'Millised sertifikaadid afareri OEM-toodetel on?'
-  answer: 'Kõikidel afareri OEM/ODM toodetel on: CE-vastavusdeklaratsioon (ELi turg), UKCA (UK turg), ISO 9001:2015 kvaliteedijuhtimissüsteem, BSCI sotsiaalse vastavuse audit, REACH ja RoHS materjalide vastavus, EN ISO 25649 klassifikatsioon täispuhutavatele SUP-i laudadele. Taotluse korral on saadaval täiendavad sertifikaadid: USA rannavalve vastavusdokumentatsioon, militaarstandardi testimine (MIL-STD-810) ning sihtriigi impordisertifikaatide tugi.'
+  question: 'Millised sertifikaadid olagooni OEM-toodetel on?'
+  answer: 'Kõikidel olagooni OEM/ODM toodetel on: CE-vastavusdeklaratsioon (ELi turg), UKCA (UK turg), ISO 9001:2015 kvaliteedijuhtimissüsteem, BSCI sotsiaalse vastavuse audit, REACH ja RoHS materjalide vastavus, EN ISO 25649 klassifikatsioon täispuhutavatele SUP-i laudadele. Taotluse korral on saadaval täiendavad sertifikaadid: USA rannavalve vastavusdokumentatsioon, militaarstandardi testimine (MIL-STD-810) ning sihtriigi impordisertifikaatide tugi.'
   category: b2b
   relatedProducts: []
   relatedGuides: []
@@ -361,7 +361,7 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-ip-protection
-  question: 'Kuidas afarer kaitseb minu intellektuaalomandi ja disainilahendusi?'
+  question: 'Kuidas olagoon kaitseb minu intellektuaalomandi ja disainilahendusi?'
   answer: 'IP-kaitse on meie OEM-teenuse tuumosa. Allkirjastame NDA-d enne disainiarutelusi. Disainifaile töödeldakse isoleeritud tööjaamades koos ligipääsu logimisega. Kõik vahendid ja vormid jäävad Teie ainuomandiks (Teie poolt tasutud). Me ei kasuta Teie vorme ega disainilahendusi teiste klientide jaoks uuesti. Aktiivsetele kontodele on kaasatud vormide hoiustamine ja hooldus. Leppe lõpetamisel saadetakse vormid Teile või hävitatakse koos videodokumentatsiooniga. Me austame kõiki kaubamärgi- ja patendiõigusi.'
   category: b2b
   relatedProducts: []

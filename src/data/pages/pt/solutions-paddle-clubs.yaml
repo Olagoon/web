@@ -6,11 +6,11 @@ hero:
   title: Lance, gerencie e expanda seu clube de paddle<br />com frotas SUP de qualidade comercial
   subtitle: Fornecedor de equipamentos SUP para clubes de paddle e escolas de SUP no mundo todo — pranchas comerciais duráveis, preços de clube por volume, personalização de marca e peças de reposição rápidas, para que você possa se concentrar em expandir sua comunidade.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: Membros do clube de remo em pranchas Afarer SUP combinando
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: Membros do clube de remo em pranchas OLagoon SUP combinando
 benefits:
   title: Benefícios da Frota do Clube
-  subtitle: Por que clubes de remo em mais de 50 países escolhem a Afarer como seu parceiro de equipamentos.
+  subtitle: Por que clubes de remo em mais de 50 países escolhem a OLagoon como seu parceiro de equipamentos.
   items:
     - metric: 40%+
       label: Economia de Custos da Frota
@@ -81,7 +81,7 @@ training:
         - Currículo de treinamento e suporte à certificação
         - Equipamento certificado CE
 features:
-  title: Por Que os Clubes Escolhem a Afarer
+  title: Por Que os Clubes Escolhem a OLagoon
   subtitle: Qualidade consistente, peças rápidas e preços em quantidade feitos para clubes em crescimento.
   items:
     - title: 500 Ciclos de Aluguel

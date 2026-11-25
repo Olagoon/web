@@ -2,7 +2,7 @@ module.exports = {
   about: {
     title: 'O nas — Producent nadmuchiwanych desek SUP i łodzi | {SITE}',
     description:
-      'afarer to profesjonalny producent nadmuchiwanych desek SUP i łodzi, z własną fabryką, techniką morską i produkcją OEM/ODM. Poznaj naszą certyfikowaną fabrykę i rozwiązania morskie dla marek i firm.',
+      'olagoon to profesjonalny producent nadmuchiwanych desek SUP i łodzi, z własną fabryką, techniką morską i produkcją OEM/ODM. Poznaj naszą certyfikowaną fabrykę i rozwiązania morskie dla marek i firm.',
     keywords: [
       'producent nadmuchiwanych desek SUP',
       'producent nadmuchiwanych łodzi',
@@ -14,7 +14,7 @@ module.exports = {
   academy: {
     title: 'Akademia — poradniki SUP i trening wiosłowania | {SITE}',
     description:
-      'Akademia afarera: poradniki o nadmuchiwanych paddle boardach, techniki stand up paddle, bezpieczeństwo morskie i wiedza o materiałach dla początkujących i profesjonalistów.',
+      'Akademia olagoona: poradniki o nadmuchiwanych paddle boardach, techniki stand up paddle, bezpieczeństwo morskie i wiedza o materiałach dla początkujących i profesjonalistów.',
     keywords: [
       'nauka stand up paddle',
       'poradnik SUP dla początkujących',
@@ -23,13 +23,13 @@ module.exports = {
       'lekcje SUP',
     ],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Nasza historia — Producent nadmuchiwanych desek SUP i łodzi | {SITE}',
     description:
-      'Od nadbrzeżnego warsztatu do globalnego producenta łodzi: historia afarera o technice i wolności na wodzie, z certyfikowaną fabryką o powierzchni 12 000 m².',
+      'Od nadbrzeżnego warsztatu do globalnego producenta łodzi: historia olagoona o technice i wolności na wodzie, z certyfikowaną fabryką o powierzchni 12 000 m².',
     keywords: [
-      'historia afarera',
-      'marka afarer',
+      'historia olagoona',
+      'marka olagoon',
       'producent nadmuchiwanych desek SUP',
       'producent nadmuchiwanych łodzi',
     ],
@@ -37,13 +37,13 @@ module.exports = {
   'brand-global-presence': {
     title: 'Globalna obecność — producent SUP w ponad 50 krajach | {SITE}',
     description:
-      'afarer eksportuje nadmuchiwane deski SUP i łodzie do ponad 50 krajów na wszystkich kontynentach. Profesjonalny producent i dostawca dla marek, dystrybutorów i flot.',
+      'olagoon eksportuje nadmuchiwane deski SUP i łodzie do ponad 50 krajów na wszystkich kontynentach. Profesjonalny producent i dostawca dla marek, dystrybutorów i flot.',
     keywords: ['globalny producent SUP', 'eksporter paddle boardów', 'fabryka SUP Chiny', 'profesjonalny dostawca SUP'],
   },
   'brand-marine-expertise': {
     title: 'Wiedza morska — technika w każdym kadłubie | {SITE}',
     description:
-      'Dekady techniki morskiej w każdym kadłubie. afarer opanował konstrukcję drop stitch, morski PVC i profesjonalne projektowanie nadmuchiwanych łodzi i desek SUP.',
+      'Dekady techniki morskiej w każdym kadłubie. olagoon opanował konstrukcję drop stitch, morski PVC i profesjonalne projektowanie nadmuchiwanych łodzi i desek SUP.',
     keywords: [
       'technika morska',
       'producent nadmuchiwanych łodzi',
@@ -54,26 +54,26 @@ module.exports = {
   'brand-team': {
     title: 'Nasz zespół — inżynierowie morscy i budowniczowie | {SITE}',
     description:
-      'Założony w 2012 roku w Qingdao, afarer został zbudowany przez inżynierów morskich, specjalistów od materiałów i entuzjastów sportów wodnych. Poznaj zespół stojący za fabryką.',
-    keywords: ['zespół afarera', 'inżynierowie morscy', 'producent nadmuchiwanych desek SUP', 'zespół fabryki SUP'],
+      'Założony w 2012 roku w Qingdao, olagoon został zbudowany przez inżynierów morskich, specjalistów od materiałów i entuzjastów sportów wodnych. Poznaj zespół stojący za fabryką.',
+    keywords: ['zespół olagoona', 'inżynierowie morscy', 'producent nadmuchiwanych desek SUP', 'zespół fabryki SUP'],
   },
-  'brand-why-afarer': {
-    title: 'Dlaczego afarer — 7 powodów, dla których globalne marki nas wybierają | {SITE}',
+  'brand-why-olagoon': {
+    title: 'Dlaczego olagoon — 7 powodów, dla których globalne marki nas wybierają | {SITE}',
     description:
-      'Dlaczego globalne marki wybierają afarera: certyfikaty CE i ISO, elastyczne MOQ, własne formy i 30-dniowy czas realizacji z profesjonalnej fabryki SUP.',
+      'Dlaczego globalne marki wybierają olagoona: certyfikaty CE i ISO, elastyczne MOQ, własne formy i 30-dniowy czas realizacji z profesjonalnej fabryki SUP.',
     keywords: [
-      'dlaczego afarer',
+      'dlaczego olagoon',
       'producent nadmuchiwanych desek SUP',
       'fabryka SUP Chiny',
       'dostawca nadmuchiwanych paddle boardów',
     ],
   },
   brand: {
-    title: 'Marka afarer — profesjonalny producent łodzi | {SITE}',
+    title: 'Marka olagoon — profesjonalny producent łodzi | {SITE}',
     description:
-      'afarer: profesjonalny producent nadmuchiwanych desek SUP i łodzi oferujący produkcję OEM/ODM dla marek, dystrybutorów, klubów żeglarskich i firm.',
+      'olagoon: profesjonalny producent nadmuchiwanych desek SUP i łodzi oferujący produkcję OEM/ODM dla marek, dystrybutorów, klubów żeglarskich i firm.',
     keywords: [
-      'marka afarer',
+      'marka olagoon',
       'producent nadmuchiwanych desek SUP',
       'producent nadmuchiwanych łodzi',
       'fabryka SUP Chiny',
@@ -82,7 +82,7 @@ module.exports = {
   cases: {
     title: 'Studia przypadków — udane projekty OEM | {SITE}',
     description:
-      'Prawdziwe projekty, prawdziwe wyniki: floty SUP dla kurortów, marki własne, dystrybucja i ratownictwo. Zobacz, jak afarer wspiera swoich partnerów OEM.',
+      'Prawdziwe projekty, prawdziwe wyniki: floty SUP dla kurortów, marki własne, dystrybucja i ratownictwo. Zobacz, jak olagoon wspiera swoich partnerów OEM.',
     keywords: [
       'studia przypadku SUP',
       'projekty paddle board OEM',
@@ -93,13 +93,13 @@ module.exports = {
   certifications: {
     title: 'Certyfikaty — CE, ISO 9001 i zgodność | {SITE}',
     description:
-      'Certyfikaty jakości afarera: CE (dyrektywa 2013/53/UE), ISO 9001:2015, BSCI. Zgodność i bezpieczeństwo dla producenta nadmuchiwanych desek SUP i łodzi.',
+      'Certyfikaty jakości olagoona: CE (dyrektywa 2013/53/UE), ISO 9001:2015, BSCI. Zgodność i bezpieczeństwo dla producenta nadmuchiwanych desek SUP i łodzi.',
     keywords: ['certyfikat CE paddle board', 'ISO 9001 paddle board', 'zgodność morska', 'certyfikacja paddle boardów'],
   },
   'commercial-workboats': {
     title: 'Komercyjne łodzie robocze — nadmuchiwane łodzie OEM dla przemysłu morskiego | {SITE}',
     description:
-      'afarer produkuje komercyjne nadmuchiwane łodzie robocze do patroli, wsparcia nurkowego, inspekcji morskiej i logistyki offshore. OEM/ODM z certyfikatem CE i konfiguracjami na zamówienie.',
+      'olagoon produkuje komercyjne nadmuchiwane łodzie robocze do patroli, wsparcia nurkowego, inspekcji morskiej i logistyki offshore. OEM/ODM z certyfikatem CE i konfiguracjami na zamówienie.',
     keywords: [
       'producent komercyjnych nadmuchiwanych łodzi',
       'łódź robocza OEM',
@@ -110,14 +110,14 @@ module.exports = {
   community: {
     title: 'Społeczność — przygody SUP i sporty wiosłowe | {SITE}',
     description:
-      'Społeczność afarera: kluby paddleboardowe, wydarzenia SUP, morskie przygody i historie entuzjastów nadmuchiwanych desek do wiosłowania na stojąco.',
+      'Społeczność olagoona: kluby paddleboardowe, wydarzenia SUP, morskie przygody i historie entuzjastów nadmuchiwanych desek do wiosłowania na stojąco.',
     keywords: ['społeczność paddle', 'klub SUP', 'wydarzenia paddleboardowe', 'przygody SUP'],
   },
   contact: {
     title: 'Kontakt — wycena OEM i producent SUP | {SITE}',
     description:
-      'Skontaktuj się z afareren w sprawie wycen OEM/ODM, projektów private label lub flot profesjonalnych. Producent nadmuchiwanych desek SUP i łodzi — odpowiadamy w ciągu 2 dni roboczych.',
-    keywords: ['kontakt afarer', 'wycena paddle board OEM', 'profesjonalny dostawca SUP', 'kontakt producent SUP'],
+      'Skontaktuj się z olagoonen w sprawie wycen OEM/ODM, projektów private label lub flot profesjonalnych. Producent nadmuchiwanych desek SUP i łodzi — odpowiadamy w ciągu 2 dni roboczych.',
+    keywords: ['kontakt olagoon', 'wycena paddle board OEM', 'profesjonalny dostawca SUP', 'kontakt producent SUP'],
   },
   custom: {
     title: 'Custom Lab — niestandardowe nadmuchiwane paddle boardy | {SITE}',
@@ -134,7 +134,7 @@ module.exports = {
   'disaster-relief': {
     title: 'Nadmuchiwane łodzie do pomocy katastrofalnej — produkcja OEM | {SITE}',
     description:
-      'afarer produkuje nadmuchiwane łodzie przeznaczone do pomocy katastrofalnej i humanitarnej: ratownictwo powodziowe, MEDEVAC, dostawy pomocy i transport osób. Certyfikat CE.',
+      'olagoon produkuje nadmuchiwane łodzie przeznaczone do pomocy katastrofalnej i humanitarnej: ratownictwo powodziowe, MEDEVAC, dostawy pomocy i transport osób. Certyfikat CE.',
     keywords: [
       'nadmuchiwana łódź ratownicza',
       'producent łodzi ratunkowych',
@@ -145,7 +145,7 @@ module.exports = {
   'factory-capacity': {
     title: 'Zdolność produkcyjna — fabryka 12 000 m² | {SITE}',
     description:
-      'Zdolność produkcyjna fabryki afarera: obiekt o powierzchni 12 000 m² produkujący ponad 15 000 łodzi rocznie, z możliwością rozwoju. Produkcja OEM/ODM na dużą skalę nadmuchiwanych desek SUP i łodzi.',
+      'Zdolność produkcyjna fabryki olagoona: obiekt o powierzchni 12 000 m² produkujący ponad 15 000 łodzi rocznie, z możliwością rozwoju. Produkcja OEM/ODM na dużą skalę nadmuchiwanych desek SUP i łodzi.',
     keywords: [
       'zdolność produkcyjna SUP',
       'fabryka nadmuchiwanych SUP',
@@ -156,7 +156,7 @@ module.exports = {
   'factory-equipment': {
     title: 'Wyposażenie fabryki — cięcie, spawanie HF i druk | {SITE}',
     description:
-      'Sprzęt produkcyjny klasy przemysłowej afarera: cięcie PVC, spawanie HF, druk cyfrowy, montaż i testowanie nadmuchiwanych desek SUP i łodzi.',
+      'Sprzęt produkcyjny klasy przemysłowej olagoona: cięcie PVC, spawanie HF, druk cyfrowy, montaż i testowanie nadmuchiwanych desek SUP i łodzi.',
     keywords: ['sprzęt do produkcji SUP', 'fabryka nadmuchiwanych SUP', 'spawanie HF PVC', 'produkcja paddle boardów'],
   },
   'factory-oem-capability': {
@@ -168,7 +168,7 @@ module.exports = {
   'factory-process': {
     title: 'Proces produkcji — od surowca do deski SUP | {SITE}',
     description:
-      'Od surowca do deski SUP gotowej do wody: każdy etap procesu produkcyjnego afarera jest pod naszą kontrolą, od cięcia i spawania do testowania.',
+      'Od surowca do deski SUP gotowej do wody: każdy etap procesu produkcyjnego olagoona jest pod naszą kontrolą, od cięcia i spawania do testowania.',
     keywords: [
       'proces produkcji SUP',
       'fabryka nadmuchiwanych SUP',
@@ -190,7 +190,7 @@ module.exports = {
   factory: {
     title: 'Fabryka i produkcja — nadmuchiwany SUP OEM | {SITE}',
     description:
-      'Poznaj fabrykę afarera: obiekt o powierzchni 12 000 m² z cięciem, spawaniem HF, drukiem, montażem i laboratorium jakości do produkcji OEM/ODM nadmuchiwanych desek SUP i łodzi.',
+      'Poznaj fabrykę olagoona: obiekt o powierzchni 12 000 m² z cięciem, spawaniem HF, drukiem, montażem i laboratorium jakości do produkcji OEM/ODM nadmuchiwanych desek SUP i łodzi.',
     keywords: [
       'fabryka SUP Chiny',
       'fabryka nadmuchiwanych paddle boardów',
@@ -212,13 +212,13 @@ module.exports = {
   gallery: {
     title: 'Galeria — nadmuchiwane deski SUP i łodzie | {SITE}',
     description:
-      'Odkryj galerię afarera: zdjęcia nadmuchiwanych desek SUP, łodzi, fabryki i produkcji z naszej profesjonalnej fabryki paddle boardów.',
+      'Odkryj galerię olagoona: zdjęcia nadmuchiwanych desek SUP, łodzi, fabryki i produkcji z naszej profesjonalnej fabryki paddle boardów.',
     keywords: ['zdjęcia SUP', 'galeria nadmuchiwanych SUP', 'zdjęcia paddle boardów', 'zdjęcia nadmuchiwanych łodzi'],
   },
   guides: {
     title: 'Poradniki SUP — kup, wybierz, trenuj | {SITE}',
     description:
-      'Poradniki SUP afarera: jak kupić, wybrać i trenować paddleboarding. Rozmiary, materiały i wskazówki ekspertów dla początkujących i profesjonalistów.',
+      'Poradniki SUP olagoona: jak kupić, wybrać i trenować paddleboarding. Rozmiary, materiały i wskazówki ekspertów dla początkujących i profesjonalistów.',
     keywords: [
       'poradnik zakupu SUP',
       'jak wybrać SUP',
@@ -240,25 +240,25 @@ module.exports = {
   journal: {
     title: 'Dziennik — artykuły i poradniki morskie | {SITE}',
     description:
-      'Dziennik afarera: artykuły i poradniki o nadmuchiwanych deskach SUP, paddleboardingu, łodziach i przemyśle morskim.',
+      'Dziennik olagoona: artykuły i poradniki o nadmuchiwanych deskach SUP, paddleboardingu, łodziach i przemyśle morskim.',
     keywords: ['dziennik SUP', 'artykuły o paddle boardach', 'blog nadmuchiwanych SUP', 'poradniki morskie'],
   },
   knowledge: {
     title: 'Wiedza — poradniki SUP i łodzi | {SITE}',
     description:
-      'Baza wiedzy afarera: poradniki o nadmuchiwanych deskach SUP, materiałach na paddle boardy, wyborze łodzi i wiedzy branżowej dla marek i profesjonalistów.',
+      'Baza wiedzy olagoona: poradniki o nadmuchiwanych deskach SUP, materiałach na paddle boardy, wyborze łodzi i wiedzy branżowej dla marek i profesjonalistów.',
     keywords: ['wiedza o SUP', 'poradnik nadmuchiwany SUP', 'materiały na paddle boardy', 'wiedza branżowa SUP'],
   },
   learn: {
     title: 'Ucz się — SUP, wiosłowanie i życie na łodzi | {SITE}',
     description:
-      'Ucz się z afareren: samouczki o nadmuchiwanych deskach SUP, technikach wiosłowania, podstawach łodzi i edukacji morskiej dla entuzjastów i firm.',
+      'Ucz się z olagoonen: samouczki o nadmuchiwanych deskach SUP, technikach wiosłowania, podstawach łodzi i edukacji morskiej dla entuzjastów i firm.',
     keywords: ['nauka SUP', 'samouczek paddle board', 'edukacja nadmuchiwany SUP', 'techniki wiosłowania'],
   },
   lifestyle: {
     title: 'Styl życia — wiosłowanie, przygody i eksploracja | {SITE}',
     description:
-      'Odkryj styl życia afarera: przygody wiosłowe, eksploracja wody i doświadczenia na świeżym powietrzu z nadmuchiwanymi deskami SUP i łodziami.',
+      'Odkryj styl życia olagoona: przygody wiosłowe, eksploracja wody i doświadczenia na świeżym powietrzu z nadmuchiwanymi deskami SUP i łodziami.',
     keywords: [
       'styl życia SUP',
       'przygody wiosłowe',
@@ -269,7 +269,7 @@ module.exports = {
   'maritime-safety-defense': {
     title: 'Nadmuchiwane łodzie do bezpieczeństwa morskiego i obrony — OEM | {SITE}',
     description:
-      'afarer dostarcza bezkompromisową jakość dla bezpieczeństwa morskiego i obrony: patrole, straż przybrzeżną, ochronę sił i szybkie jednostki interwencyjne. Certyfikowany OEM.',
+      'olagoon dostarcza bezkompromisową jakość dla bezpieczeństwa morskiego i obrony: patrole, straż przybrzeżną, ochronę sił i szybkie jednostki interwencyjne. Certyfikowany OEM.',
     keywords: [
       'nadmuchiwana łódź bezpieczeństwa morskiego',
       'producent łodzi obronnych',
@@ -278,18 +278,18 @@ module.exports = {
     ],
   },
   media: {
-    title: 'Centrum medialne — prasa i materiały afarera | {SITE}',
+    title: 'Centrum medialne — prasa i materiały olagoona | {SITE}',
     description:
-      'Centrum medialne afarera: komunikaty prasowe, materiały marki i zasoby z naszej firmy produkującej nadmuchiwane deski SUP i łodzie.',
-    keywords: ['prasa afarera', 'media producenta SUP', 'press kit paddle board', 'wiadomości firm morskich'],
+      'Centrum medialne olagoona: komunikaty prasowe, materiały marki i zasoby z naszej firmy produkującej nadmuchiwane deski SUP i łodzie.',
+    keywords: ['prasa olagoona', 'media producenta SUP', 'press kit paddle board', 'wiadomości firm morskich'],
   },
   news: {
     title: 'Aktualności — producent SUP i aktualizacje morskie | {SITE}',
     description:
-      'Najnowsze wiadomości z afarera: aktualizacje fabryki, nowe modele nadmuchiwanych desek SUP, certyfikaty i ogłoszenia z branży morskiej.',
+      'Najnowsze wiadomości z olagoona: aktualizacje fabryki, nowe modele nadmuchiwanych desek SUP, certyfikaty i ogłoszenia z branży morskiej.',
     keywords: [
       'wiadomości producenta SUP',
-      'aktualizacje afarera',
+      'aktualizacje olagoona',
       'ogłoszenia nadmuchiwane SUP',
       'wiadomości branży morskiej',
     ],
@@ -297,7 +297,7 @@ module.exports = {
   partners: {
     title: 'Partnerzy — dystrybucja i hurt | {SITE}',
     description:
-      'Zostań partnerem afarera: sieci dystrybucyjne, ceny hurtowe, programy OEM/private label i wsparcie dla firm paddleboardowych na całym świecie.',
+      'Zostań partnerem olagoona: sieci dystrybucyjne, ceny hurtowe, programy OEM/private label i wsparcie dla firm paddleboardowych na całym świecie.',
     keywords: [
       'partner dystrybucyjny SUP',
       'paddle board hurtowo',
@@ -308,7 +308,7 @@ module.exports = {
   quality: {
     title: 'Jakość i testowanie — kontrola produkcji | {SITE}',
     description:
-      'System jakości afarera: niezależne laboratorium testowe, procesy ISO 9001 i każda jednostka testowana przed wysyłką. Kontrola jakości produkcji nadmuchiwanych desek SUP i łodzi.',
+      'System jakości olagoona: niezależne laboratorium testowe, procesy ISO 9001 i każda jednostka testowana przed wysyłką. Kontrola jakości produkcji nadmuchiwanych desek SUP i łodzi.',
     keywords: [
       'kontrola jakości SUP',
       'testowanie nadmuchiwanych SUP',
@@ -325,7 +325,7 @@ module.exports = {
   safety: {
     title: 'Bezpieczeństwo — standardy i certyfikaty | {SITE}',
     description:
-      'Bezpieczeństwo produktów afarera: certyfikowane nadmuchiwane deski SUP i łodzie CE, dokładne testy i zgodność z międzynarodowymi standardami bezpieczeństwa morskiego.',
+      'Bezpieczeństwo produktów olagoona: certyfikowane nadmuchiwane deski SUP i łodzie CE, dokładne testy i zgodność z międzynarodowymi standardami bezpieczeństwa morskiego.',
     keywords: [
       'standardy bezpieczeństwa SUP',
       'certyfikowany paddle board CE',
@@ -336,7 +336,7 @@ module.exports = {
   'search-and-rescue': {
     title: 'Nadmuchiwane łodzie ratownicze i poszukiwawcze — produkcja OEM | {SITE}',
     description:
-      'afarer wyznacza standard SAR dla nadmuchiwanych łodzi: zaprojektowanych pod niezawodność, trwałość i wydajność wymaganą w misjach ratujących życie. Certyfikowany OEM.',
+      'olagoon wyznacza standard SAR dla nadmuchiwanych łodzi: zaprojektowanych pod niezawodność, trwałość i wydajność wymaganą w misjach ratujących życie. Certyfikowany OEM.',
     keywords: [
       'producent łodzi ratowniczych SAR',
       'nadmuchiwana łódź SAR',
@@ -347,7 +347,7 @@ module.exports = {
   'size-guide': {
     title: 'Przewodnik po rozmiarach — nadmuchiwane deski SUP i łodzie | {SITE}',
     description:
-      'Wymiary, pojemności i zalecane zastosowania każdego produktu afarera. Znajdź odpowiedni rozmiar nadmuchiwanej deski SUP lub łodzi do swoich potrzeb.',
+      'Wymiary, pojemności i zalecane zastosowania każdego produktu olagoona. Znajdź odpowiedni rozmiar nadmuchiwanej deski SUP lub łodzi do swoich potrzeb.',
     keywords: [
       'przewodnik po rozmiarach SUP',
       'wymiary paddle boardów',
@@ -358,7 +358,7 @@ module.exports = {
   solutions: {
     title: 'Rozwiązania biznesowe — SUP dla każdej firmy | {SITE}',
     description:
-      'Rozwiązania biznesowe afarera: floty SUP dla kurortów, klubów, wypożyczalni, dystrybucji i marek własnych. Profesjonalny dostawca sprzętu morskiego B2B.',
+      'Rozwiązania biznesowe olagoona: floty SUP dla kurortów, klubów, wypożyczalni, dystrybucji i marek własnych. Profesjonalny dostawca sprzętu morskiego B2B.',
     keywords: [
       'rozwiązania biznesowe SUP',
       'dostawca nadmuchiwanych paddle boardów',
@@ -369,7 +369,7 @@ module.exports = {
   technology: {
     title: 'Technologia — drop stitch i morski PVC | {SITE}',
     description:
-      'Technologie afarera: konstrukcja drop stitch, morski PVC, konstrukcje dwuwarstwowe i wysokie ciśnienie. Innowacje od profesjonalnego producenta nadmuchiwanych desek SUP.',
+      'Technologie olagoona: konstrukcja drop stitch, morski PVC, konstrukcje dwuwarstwowe i wysokie ciśnienie. Innowacje od profesjonalnego producenta nadmuchiwanych desek SUP.',
     keywords: ['technologia SUP', 'konstrukcja drop stitch', 'SUP wysokociśnieniowy', 'materiały nadmuchiwanych SUP'],
   },
   'tourism-recreation': {
@@ -386,7 +386,7 @@ module.exports = {
   trust: {
     title: 'Zaufanie — jakość, standardy i reputacja | {SITE}',
     description:
-      'Dlaczego warto zaufać afarerowi: certyfikaty CE i ISO, zintegrowana fabryka, globalne referencje i gwarancja. Profesjonalny producent nadmuchiwanych desek SUP i łodzi.',
+      'Dlaczego warto zaufać olagoonowi: certyfikaty CE i ISO, zintegrowana fabryka, globalne referencje i gwarancja. Profesjonalny producent nadmuchiwanych desek SUP i łodzi.',
     keywords: [
       'niezawodny producent SUP',
       'certyfikowana fabryka paddle boardów',
@@ -397,7 +397,7 @@ module.exports = {
   warranty: {
     title: 'Gwarancja — nadmuchiwane deski SUP i łodzie | {SITE}',
     description:
-      'Gwarancja afarera i wsparcie posprzedażowe dla nadmuchiwanych desek SUP, łodzi i akcesoriów. Nasze zobowiązanie jakościowe dla partnerów i klientów.',
+      'Gwarancja olagoona i wsparcie posprzedażowe dla nadmuchiwanych desek SUP, łodzi i akcesoriów. Nasze zobowiązanie jakościowe dla partnerów i klientów.',
     keywords: ['gwarancja SUP', 'gwarancja nadmuchiwanej łodzi', 'gwarancja paddle board', 'wsparcie posprzedażowe'],
   },
   'what-is-sup': {

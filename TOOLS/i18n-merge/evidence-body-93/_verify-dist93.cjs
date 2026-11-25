@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const dir = __dirname;
-const dist = 'E:/github/afarer/dist';
+const dist = 'E:/github/olagoon/dist';
 const BODY_LOCALES = [
   'ar',
   'cs',
@@ -25,8 +25,8 @@ const BODY_LOCALES = [
 ];
 const en = JSON.parse(fs.readFileSync(path.join(dir, '_ev-body-en.json'), 'utf8'));
 const enSlugs = Object.keys(en);
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
-const enYaml = yaml.load(fs.readFileSync('E:/github/afarer/src/data/site/evidence.yaml', 'utf8'));
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
+const enYaml = yaml.load(fs.readFileSync('E:/github/olagoon/src/data/site/evidence.yaml', 'utf8'));
 const enChallenge = {};
 for (const cs of enYaml.case_studies || []) {
   enChallenge[cs.id] = cs.challenge;
@@ -88,7 +88,7 @@ for (const loc of BODY_LOCALES) {
 
 // 2) de/fr regression: yaml-translated body (industry + challenge) intact
 for (const loc of ['de', 'fr']) {
-  const data = yaml.load(fs.readFileSync(`E:/github/afarer/src/data/site/evidence.${loc}.yaml`, 'utf8'));
+  const data = yaml.load(fs.readFileSync(`E:/github/olagoon/src/data/site/evidence.${loc}.yaml`, 'utf8'));
   const studies = data.case_studies || [];
   let ok = 0;
   for (const slug of enSlugs) {
@@ -167,7 +167,7 @@ for (const loc of BODY_LOCALES) {
     fail++;
     issues.push(`sitemap-0 count ${locCount} != 11164`);
   }
-  const rm = JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/route-manifest.json', 'utf8'));
+  const rm = JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/route-manifest.json', 'utf8'));
   const rmCount = Array.isArray(rm) ? rm.length : Object.keys(rm).length;
   console.log(`route-manifest.json count: ${rmCount}`);
   if (rmCount !== 13858) {

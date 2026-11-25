@@ -1,5 +1,5 @@
 const fs = require('fs');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 const en = JSON.parse(fs.readFileSync('C:/Users/Helleo/AppData/Local/Temp/deveco/de_sol_work/en_body.json', 'utf8'));
 const outDir = 'C:/Users/Helleo/AppData/Local/Temp/deveco/de_sol_work/en_parts';
 fs.mkdirSync(outDir, { recursive: true });
@@ -10,7 +10,7 @@ en.forEach((sol, i) => {
     challenge: sol.challenge,
     solutions: sol.solutions,
     caseStudy: sol.caseStudy,
-    whyAfarer: sol.whyAfarer,
+    whyOLagoon: sol.whyOLagoon,
     faqs: sol.faqs,
     cta: {
       title: sol.cta.title,

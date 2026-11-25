@@ -49,19 +49,19 @@ const testimonialsData = contentFor('site-testimonials');
 const learnData = contentFor('site-learning-center');
 
 const metadata = {
-  title: lang === defaultLang ? 'Afarer Inflatable Paddle Boards | Go Farther, Ride Stronger' : SITE.name,
+  title: lang === defaultLang ? 'OLagoon Inflatable Paddle Boards | Go Farther, Ride Stronger' : SITE.name,
   description:
-    'Discover Afarer inflatable paddle boards for all-around paddling, touring, yoga, fishing and outdoor adventures. Find your perfect SUP and explore more on the water.',
+    'Discover OLagoon inflatable paddle boards for all-around paddling, touring, yoga, fishing and outdoor adventures. Find your perfect SUP and explore more on the water.',
   ignoreTitleTemplate: true,
 };
 
 const defaultVisuals: Record<string, string> = {
-  'sup-explorer-11': 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp',
-  'airdeck-360': 'https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp',
-  'life-vest-classic': 'https://assets.afarer.com/images/afarer/products/afarer-life-vest-classic.webp',
+  'sup-explorer-11': 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp',
+  'airdeck-360': 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp',
+  'life-vest-classic': 'https://assets.olagoon.com/images/olagoon/products/olagoon-life-vest-classic.webp',
   'life-vest-pro':
-    'https://assets.afarer.com/images/afarer/products/life-jacket-afarer-inflatable-boat-afarer-factory-exterior.webp',
-  'oars-pump-set': 'https://assets.afarer.com/images/afarer/products/afarer-electric-pump.webp',
+    'https://assets.olagoon.com/images/olagoon/products/life-jacket-olagoon-inflatable-boat-olagoon-factory-exterior.webp',
+  'oars-pump-set': 'https://assets.olagoon.com/images/olagoon/products/olagoon-electric-pump.webp',
 };
 const rawVisuals = ((productVisualsData as any)?.visuals || []) as Array<{ id: string; image: string }>;
 const yamlVisuals = Object.fromEntries(rawVisuals.map((v) => [v.id, v.image]).filter(([, img]) => img));
@@ -74,7 +74,7 @@ const defaultUseCases = [
     scenario: 'A family visiting a lake for the weekend wants to try paddle boarding.',
     solution: 'The SUP Explorer 11 provides wide-body stability. Life Vest Classic ensures CE-certified flotation.',
     products: ['SUP Explorer 11', 'Life Vest Classic', 'Dual-Action Pump'],
-    img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp',
+    img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp',
   },
   {
     title: 'Touring & Exploration',
@@ -82,7 +82,7 @@ const defaultUseCases = [
     scenario: 'An outdoor enthusiast plans a week-long SUP touring trip.',
     solution: 'The Ocean Voyager touring SUP tracks efficiently and carries enough gear for multi-day expeditions.',
     products: ['Ocean Voyager SUP', 'Carbon Paddle', 'Life Vest Classic'],
-    img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp',
+    img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp',
   },
   {
     title: 'Fitness & Yoga',
@@ -90,7 +90,7 @@ const defaultUseCases = [
     scenario: 'A yoga instructor wants to offer stand-up paddle yoga classes.',
     solution: 'The Flowing Lotus SUP provides a wide, stable deck perfect for yoga sequences on calm water.',
     products: ['Flowing Lotus SUP', 'Yoga Leash', 'Life Vest Classic'],
-    img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-flowing-lotus-1-1200w.webp',
+    img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp',
   },
   {
     title: 'Family Recreation',
@@ -98,7 +98,7 @@ const defaultUseCases = [
     scenario: 'A family of four wants stable boards for weekend lake outings.',
     solution: 'The Leviathan Wake SUP supports heavy loads with its ultra-stable platform.',
     products: ['Leviathan Wake SUP', 'Life Vest Classic', 'Dual-Action Pump'],
-    img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-leviathan-wake-1-1200w.webp',
+    img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-leviathan-wake-1-1200w.webp',
   },
 ];
 const rawCases = ((useCasesData as any)?.cases || []) as Array<{
@@ -139,14 +139,14 @@ const defaultFaqItems: Array<{ q: string; a: string; category: string }> = [
     q: t('faq.sup.travel') || 'Can I travel with an inflatable SUP?',
     a:
       t('faq.sup.travel.a') ||
-      'Absolutely. Every Afarer board packs into a backpack-sized case that meets airline luggage requirements.',
+      'Absolutely. Every OLagoon board packs into a backpack-sized case that meets airline luggage requirements.',
     category: 'sup',
   },
   {
     q: t('faq.sup.box') || 'What comes in the box?',
     a:
       t('faq.sup.box.a') ||
-      'Every Afarer SUP includes the board, travel backpack, dual-action pump, fin, leash, and repair kit.',
+      'Every OLagoon SUP includes the board, travel backpack, dual-action pump, fin, leash, and repair kit.',
     category: 'sup',
   },
 ];
@@ -190,7 +190,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     <p>
       {
         t('ai.entity') ||
-          'Afarer is a performance-led water sports brand creating distinctive inflatable SUPs for people who go farther, ride harder, and see more from the water.'
+          'OLagoon is a performance-led water sports brand creating distinctive inflatable SUPs for people who go farther, ride harder, and see more from the water.'
       }
     </p>
   </section>
@@ -198,7 +198,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     <p>
       {
         t('ai.definition') ||
-          'Afarer designs and builds inflatable SUPs, accessories, and safety equipment for recreational and performance water sports.'
+          'OLagoon designs and builds inflatable SUPs, accessories, and safety equipment for recreational and performance water sports.'
       }
     </p>
   </section>
@@ -206,7 +206,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     <p>
       {
         t('ai.useCase') ||
-          'Afarer products are used in beginner SUP training, touring, family recreation, and professional water sports.'
+          'OLagoon products are used in beginner SUP training, touring, family recreation, and professional water sports.'
       }
     </p>
   </section>
@@ -214,7 +214,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     <p>
       {
         t('ai.comparison') ||
-          'Compared to rigid hard-board SUPs, Afarer inflatable products prioritize portability and impact absorption while maintaining rigidity through drop-stitch core technology.'
+          'Compared to rigid hard-board SUPs, OLagoon inflatable products prioritize portability and impact absorption while maintaining rigidity through drop-stitch core technology.'
       }
     </p>
   </section>
@@ -222,7 +222,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     <p>
       {
         t('ai.constraint') ||
-          'Afarer products are designed for training, recreation, and professional marine operations.'
+          'OLagoon products are designed for training, recreation, and professional marine operations.'
       }
     </p>
   </section>
@@ -230,7 +230,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     <p>
       {
         t('ai.process') ||
-          'Afarer boards are built around a high-density drop-stitch core with reinforced rails and fusion-laminated seams. Each board is pressure-tested and visually inspected before packing.'
+          'OLagoon boards are built around a high-density drop-stitch core with reinforced rails and fusion-laminated seams. Each board is pressure-tested and visually inspected before packing.'
       }
     </p>
   </section>
@@ -239,7 +239,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
   <section class="relative min-h-screen flex items-center overflow-hidden bg-secondary">
     <div class="absolute inset-0">
       <img
-        src="https://assets.afarer.com/images/afarer/hero/lakeside-afarer-1200w.webp"
+        src="https://assets.olagoon.com/images/olagoon/hero/lakeside-olagoon-1200w.webp"
         alt=""
         class="w-full h-full object-cover opacity-70"
         style="object-position: center 30%;"
@@ -268,7 +268,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
           <p
             class="mt-6 text-lg md:text-xl text-white/70 max-w-2xl text-pretty leading-relaxed"
             set:html={page.hero?.subtitle ||
-              'Discover the freedom of paddling with Afarer. Explore thoughtfully designed inflatable SUPs for relaxing lake days, coastal adventures, fitness and everything in between.'}
+              'Discover the freedom of paddling with OLagoon. Explore thoughtfully designed inflatable SUPs for relaxing lake days, coastal adventures, fitness and everything in between.'}
           />
           <div class="mt-10 flex items-center gap-4 flex-wrap">
             {
@@ -337,7 +337,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
             </h2>
             <p class="mt-4 text-lg text-gray-500 max-w-2xl mx-auto">
               {page.who_we_serve?.subtitle ||
-                'Every paddler has a different idea of adventure. Discover an Afarer SUP designed around the way you ride.'}
+                'Every paddler has a different idea of adventure. Discover an OLagoon SUP designed around the way you ride.'}
             </p>
           </div>
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -468,16 +468,16 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
             class="inline-flex items-center gap-2 text-xs font-medium tracking-[0.25em] uppercase text-primary mb-6"
           >
             <span class="w-8 h-px bg-primary"></span>
-            {t('home.brand.tagline') || 'The Afarer Difference'}
+            {t('home.brand.tagline') || 'The OLagoon Difference'}
           </span>
           <h2
             class="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.1] text-balance text-secondary"
-            set:html={t('home.brand.title') || 'Why Afarer<br />Rides Different'}
+            set:html={t('home.brand.title') || 'Why OLagoon<br />Rides Different'}
           />
           <p class="mt-6 text-lg text-gray-500 leading-relaxed max-w-lg text-pretty">
             {
               t('home.brand.desc') ||
-                'Every Afarer board starts with the water — its currents, conditions, and the people who ride it. High-density drop-stitch cores, reinforced rails, and shapes tuned for stability and glide, then pressure-tested board by board.'
+                'Every OLagoon board starts with the water — its currents, conditions, and the people who ride it. High-density drop-stitch cores, reinforced rails, and shapes tuned for stability and glide, then pressure-tested board by board.'
             }
           </p>
           <div class="mt-8 grid grid-cols-2 gap-6">
@@ -590,7 +590,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
         >
           <div class="aspect-[4/3] bg-gradient-to-br from-blue-50 to-cyan-50 flex items-center justify-center p-8">
             <div
-              class="w-full h-full bg-[url('https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp')] bg-contain bg-center bg-no-repeat group-hover:scale-105 transition-transform duration-700"
+              class="w-full h-full bg-[url('https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp')] bg-contain bg-center bg-no-repeat group-hover:scale-105 transition-transform duration-700"
             >
             </div>
           </div>
@@ -620,7 +620,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
         >
           <div class="aspect-[4/3] bg-gradient-to-br from-blue-50 to-gray-50 flex items-center justify-center p-8">
             <div
-              class="w-full h-full bg-[url('https://assets.afarer.com/images/afarer/categories/afarer-accessories-category.webp')] bg-contain bg-center bg-no-repeat group-hover:scale-105 transition-transform duration-700"
+              class="w-full h-full bg-[url('https://assets.olagoon.com/images/olagoon/categories/olagoon-accessories-category.webp')] bg-contain bg-center bg-no-repeat group-hover:scale-105 transition-transform duration-700"
             >
             </div>
           </div>
@@ -754,7 +754,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
           class="aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-blue-100 to-cyan-100 group cursor-pointer"
         >
           <div
-            class="w-full h-full bg-[url('https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
+            class="w-full h-full bg-[url('https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
           >
           </div>
         </div>
@@ -762,7 +762,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
           class="aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-blue-100 to-sky-100 group cursor-pointer"
         >
           <div
-            class="w-full h-full bg-[url('https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
+            class="w-full h-full bg-[url('https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
           >
           </div>
         </div>
@@ -770,7 +770,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
           class="aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-cyan-100 to-teal-100 group cursor-pointer"
         >
           <div
-            class="w-full h-full bg-[url('https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
+            class="w-full h-full bg-[url('https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
           >
           </div>
         </div>
@@ -778,7 +778,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
           class="aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-sky-100 to-blue-100 group cursor-pointer"
         >
           <div
-            class="w-full h-full bg-[url('https://assets.afarer.com/images/afarer/products/sup-series/sup-leviathan-wake-1-1200w.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
+            class="w-full h-full bg-[url('https://assets.olagoon.com/images/olagoon/products/sup-series/sup-leviathan-wake-1-1200w.webp')] bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
           >
           </div>
         </div>
@@ -870,7 +870,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       >
       <div class="space-y-1.5 text-sm text-gray-700 dark:text-slate-300 leading-relaxed">
         <p>
-          <strong>Afarer</strong>
+          <strong>OLagoon</strong>
           {
             t('home.ai.desc1') ||
               'designs and builds performance inflatable water sports equipment for riders and operators.'
@@ -898,7 +898,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       <p class="mt-4 text-lg text-gray-500">
         {
           t('home.products.subtitle') ||
-            'Every Afarer board is engineered for ocean, lake, and river — built to perform, designed to inspire.'
+            'Every OLagoon board is engineered for ocean, lake, and river — built to perform, designed to inspire.'
         }
       </p>
     </div>
@@ -909,55 +909,55 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
             id: 'all-around',
             label: t('home.boards.allAround') || 'All-Around',
             desc: t('home.boards.allAround.desc') || 'Versatile SUP boards for paddlers of all skill levels.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp',
           },
           {
             id: 'touring-sup',
             label: t('home.boards.touringSup') || 'Touring SUP',
             desc: t('home.boards.touringSup.desc') || 'Long-distance boards for exploration and adventure.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp',
           },
           {
             id: 'ultra-compact',
             label: t('home.boards.ultraCompact') || 'Ultra-Compact',
             desc: t('home.boards.ultraCompact.desc') || 'Short, portable boards for easy travel and storage.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp',
           },
           {
             id: 'ultra-stable',
             label: t('home.boards.ultraStable') || 'Ultra-Stable',
             desc: t('home.boards.ultraStable.desc') || 'Extra-wide platforms for maximum balance and confidence.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-leviathan-wake-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-leviathan-wake-1-1200w.webp',
           },
           {
             id: 'whitewater',
             label: t('home.boards.whitewater') || 'Whitewater',
             desc: t('home.boards.whitewater.desc') || 'Rugged boards engineered for river rapids.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-dolphin-wave-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-dolphin-wave-1-1200w.webp',
           },
           {
             id: 'sports',
             label: t('home.boards.sports') || 'Sports',
             desc: t('home.boards.sports.desc') || 'Performance boards for racing and athletic paddling.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-pulse-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-pulse-1-1200w.webp',
           },
           {
             id: 'yoga',
             label: t('home.boards.yoga') || 'Yoga',
             desc: t('home.boards.yoga.desc') || 'Spacious decks designed for yoga and fitness.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-flowing-lotus-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp',
           },
           {
             id: 'surf',
             label: t('home.boards.surf') || 'Surf',
             desc: t('home.boards.surf.desc') || 'Agile boards for catching waves and surf riding.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp',
           },
           {
             id: 'kids-sups',
             label: t('home.boards.kidsSups') || 'Kids SUPs',
             desc: t('home.boards.kidsSups.desc') || 'Smaller, lighter boards designed for children.',
-            img: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp',
+            img: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp',
           },
         ].map((board) => (
           <a
@@ -1063,7 +1063,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       >
       <h2 class="mt-4 text-4xl font-bold text-gray-900">{t('home.technology.title') || 'Built to Perform'}</h2>
       <p class="mt-4 text-lg text-gray-500">
-        {t('home.technology.subtitle') || 'Precision materials and construction methods that set Afarer apart.'}
+        {t('home.technology.subtitle') || 'Precision materials and construction methods that set OLagoon apart.'}
       </p>
     </div>
     <div class="grid md:grid-cols-3 gap-8">
@@ -1074,9 +1074,9 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
               <img
                 src={
                   card.image ||
-                  'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp'
+                  'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
                 }
-                alt={card.title || 'Afarer technology'}
+                alt={card.title || 'OLagoon technology'}
                 class="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -1191,7 +1191,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       <div class="bg-white border border-gray-200 rounded-2xl hover:shadow-md transition-shadow overflow-hidden">
         <div
           class="h-36 bg-cover bg-center"
-          style="background-image: url('https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp')"
+          style="background-image: url('https://assets.olagoon.com/images/olagoon/hero/olagoon-hero-design-concept.webp')"
         >
         </div>
         <div class="p-6">
@@ -1209,7 +1209,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       <div class="bg-white border border-gray-200 rounded-2xl hover:shadow-md transition-shadow overflow-hidden">
         <div
           class="h-36 bg-cover bg-center"
-          style="background-image: url('https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp')"
+          style="background-image: url('https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp')"
         >
         </div>
         <div class="p-6">
@@ -1227,7 +1227,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       <div class="bg-white border border-gray-200 rounded-2xl hover:shadow-md transition-shadow overflow-hidden">
         <div
           class="h-36 bg-cover bg-center"
-          style="background-image: url('https://assets.afarer.com/images/afarer/categories/afarer-rescue-operations.webp')"
+          style="background-image: url('https://assets.olagoon.com/images/olagoon/categories/olagoon-rescue-operations.webp')"
         >
         </div>
         <div class="p-6">
@@ -1243,16 +1243,16 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     </div>
   </section>
 
-  <!-- Why Afarer -->
+  <!-- Why OLagoon -->
   <section class="bg-gray-50 py-12 px-6">
     <div class="max-w-6xl mx-auto">
       <div class="text-center max-w-3xl mx-auto mb-16">
         <span class="text-sm font-semibold text-[#06b6d4] tracking-[0.15em] uppercase"
-          >{t('home.why.afarer.tagline') || 'Why afarer'}</span
+          >{t('home.why.olagoon.tagline') || 'Why olagoon'}</span
         >
-        <h2 class="mt-4 text-4xl font-bold text-gray-900">{t('home.why.afarer.title') || 'Quality You Can Trust'}</h2>
+        <h2 class="mt-4 text-4xl font-bold text-gray-900">{t('home.why.olagoon.title') || 'Quality You Can Trust'}</h2>
         <p class="mt-4 text-lg text-gray-500">
-          {t('home.why.afarer.subtitle') || 'Built with precision. Tested relentlessly. Backed by warranty.'}
+          {t('home.why.olagoon.subtitle') || 'Built with precision. Tested relentlessly. Backed by warranty.'}
         </p>
       </div>
       <div class="grid md:grid-cols-2 gap-8">
@@ -1261,32 +1261,32 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
         >
           <div
             class="h-48 md:h-auto md:w-48 shrink-0 bg-cover bg-center"
-            style="background-image: url('https://assets.afarer.com/images/afarer/why/afarer-quality-test.webp')"
+            style="background-image: url('https://assets.olagoon.com/images/olagoon/why/olagoon-quality-test.webp')"
           >
           </div>
           <div class="p-6">
             <h3 class="text-lg font-semibold text-gray-900">
-              {t('home.why.afarer.quality') || 'Quality You Can Trust'}
+              {t('home.why.olagoon.quality') || 'Quality You Can Trust'}
             </h3>
             <ul class="mt-3 text-sm text-gray-500 space-y-2">
               <li class="flex gap-2">
                 <span class="text-[#06b6d4] mt-0.5">&#10003;</span>
                 {
-                  t('home.why.afarer.point1') ||
+                  t('home.why.olagoon.point1') ||
                     'Rigid when it matters — high-density drop-stitch core and reinforced rails that stay stiff under pressure.'
                 }
               </li>
               <li class="flex gap-2">
                 <span class="text-[#06b6d4] mt-0.5">&#10003;</span>
                 {
-                  t('home.why.afarer.point2') ||
+                  t('home.why.olagoon.point2') ||
                     'Precision-built — fusion-laminated seams and airtight integrity, pressure-tested board by board.'
                 }
               </li>
               <li class="flex gap-2">
                 <span class="text-[#06b6d4] mt-0.5">&#10003;</span>
                 {
-                  t('home.why.afarer.point3') ||
+                  t('home.why.olagoon.point3') ||
                     'Ride-validated — tuned in real water for stability, glide, and control.'
                 }
               </li>
@@ -1294,7 +1294,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
             <a
               href={lh('/about')}
               class="mt-4 inline-flex items-center gap-1 text-sm font-medium text-[#06b6d4] hover:underline"
-              >{t('home.why.afarer.viewMore') || 'View More →'}</a
+              >{t('home.why.olagoon.viewMore') || 'View More →'}</a
             >
           </div>
         </div>
@@ -1303,27 +1303,27 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
         >
           <div
             class="h-48 md:h-auto md:w-48 shrink-0 bg-cover bg-center"
-            style="background-image: url('https://assets.afarer.com/images/afarer/why/afarer-warranty.webp')"
+            style="background-image: url('https://assets.olagoon.com/images/olagoon/why/olagoon-warranty.webp')"
           >
           </div>
           <div class="p-6">
-            <h3 class="text-lg font-semibold text-gray-900">{t('home.why.afarer.warranty') || 'Warranty & Support'}</h3>
+            <h3 class="text-lg font-semibold text-gray-900">{t('home.why.olagoon.warranty') || 'Warranty & Support'}</h3>
             <ul class="mt-3 text-sm text-gray-500 space-y-2">
               <li class="flex gap-2">
                 <span class="text-[#06b6d4] mt-0.5">&#10003;</span>
                 {
-                  t('home.why.afarer.warranty.point1') ||
+                  t('home.why.olagoon.warranty.point1') ||
                     'Clear warranty terms on every board, with responsive after-sales support.'
                 }
               </li>
               <li class="flex gap-2">
                 <span class="text-[#06b6d4] mt-0.5">&#10003;</span>
-                {t('home.why.afarer.warranty.point2') || 'Dedicated after-sales team with rapid response.'}
+                {t('home.why.olagoon.warranty.point2') || 'Dedicated after-sales team with rapid response.'}
               </li>
               <li class="flex gap-2">
                 <span class="text-[#06b6d4] mt-0.5">&#10003;</span>
                 {
-                  t('home.why.afarer.warranty.point3') ||
+                  t('home.why.olagoon.warranty.point3') ||
                     'Full supply-chain transparency for clubs, retailers, and brand partners.'
                 }
               </li>
@@ -1331,7 +1331,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
             <a
               href={lh('/contact')}
               class="mt-4 inline-flex items-center gap-1 text-sm font-medium text-[#06b6d4] hover:underline"
-              >{t('home.why.afarer.contact') || 'Contact Us →'}</a
+              >{t('home.why.olagoon.contact') || 'Contact Us →'}</a
             >
           </div>
         </div>
@@ -1357,7 +1357,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       <div class="grid md:grid-cols-3 gap-6">
         <div class="relative group overflow-hidden rounded-2xl aspect-[4/3]">
           <img
-            src="https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp"
+            src="https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp"
             alt={t('home.lifestyle.altSup') || 'SUP boarding'}
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
             loading="lazy"
@@ -1505,7 +1505,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     <div class="grid md:grid-cols-3 gap-6">
       <div class="rounded-2xl overflow-hidden aspect-[4/3]">
         <img
-          src="https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp"
+          src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp"
           alt={t('home.alt.community1') || 'SUP Board'}
           class="w-full h-full object-cover"
           loading="lazy"
@@ -1513,7 +1513,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       </div>
       <div class="rounded-2xl overflow-hidden aspect-[4/3]">
         <img
-          src="https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp"
+          src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp"
           alt={t('home.alt.community2') || 'SUP Adventure'}
           class="w-full h-full object-cover"
           loading="lazy"
@@ -1521,7 +1521,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       </div>
       <div class="rounded-2xl overflow-hidden aspect-[4/3]">
         <img
-          src="https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp"
+          src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp"
           alt={t('home.alt.community3') || 'SUP Ocean Voyager'}
           class="w-full h-full object-cover"
           loading="lazy"
@@ -1540,10 +1540,10 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
       />
     </div>
     <div class="text-center mt-10">
-      <p class="text-gray-500">{t('home.community.cta') || 'Tag @afarer on Instagram to share your adventure.'}</p>
+      <p class="text-gray-500">{t('home.community.cta') || 'Tag @olagoon on Instagram to share your adventure.'}</p>
       <div class="mt-4 flex justify-center gap-4">
         <a
-          href="https://www.instagram.com/afarer"
+          href="https://www.instagram.com/olagoon"
           target="_blank"
           rel="noopener noreferrer"
           class="inline-flex items-center gap-2 px-6 py-3 bg-gray-900 text-white rounded-xl font-semibold hover:bg-gray-800 transition-colors text-sm"
@@ -1568,13 +1568,13 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
         <p class="text-sm text-gray-500 mb-4">
           {
             t('home.community.gallery.sup.desc') ||
-              'Paddlers exploring lakes, rivers and coastlines on Afarer inflatable SUPs.'
+              'Paddlers exploring lakes, rivers and coastlines on OLagoon inflatable SUPs.'
           }
         </p>
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
           <div class="rounded-xl overflow-hidden bg-gray-100 aspect-[4/3]">
             <img
-              src="https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp"
+              src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp"
               alt={t('home.community.altOceanVoyager') || 'SUP Ocean Voyager'}
               class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               loading="lazy"
@@ -1582,7 +1582,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
           </div>
           <div class="rounded-xl overflow-hidden bg-gray-100 aspect-[4/3]">
             <img
-              src="https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp"
+              src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp"
               alt={t('home.community.altCheetahSurge') || 'SUP Cheetah Surge'}
               class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               loading="lazy"
@@ -1590,7 +1590,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
           </div>
           <div class="rounded-xl overflow-hidden bg-gray-100 aspect-[4/3]">
             <img
-              src="https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp"
+              src="https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp"
               alt={t('home.community.altTropicalBreeze') || 'SUP Tropical Breeze'}
               class="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
               loading="lazy"
@@ -1701,11 +1701,11 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'Brand',
-      name: 'Afarer',
-      alternateName: 'Afarer Inflatable SUP',
-      url: 'https://afarer.com',
+      name: 'OLagoon',
+      alternateName: 'OLagoon Inflatable SUP',
+      url: 'https://olagoon.com',
       description:
-        'Afarer designs inflatable stand-up paddle boards for all-around paddling, touring, yoga, fishing, and outdoor adventures.',
+        'OLagoon designs inflatable stand-up paddle boards for all-around paddling, touring, yoga, fishing, and outdoor adventures.',
       slogan: 'Go Farther. Ride Stronger.',
       knowsAbout: [
         'Inflatable Paddle Boards',
@@ -1741,9 +1741,9 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
     set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'WebSite',
-      name: 'Afarer',
-      alternateName: 'Afarer Inflatable SUP',
-      url: 'https://afarer.com',
+      name: 'OLagoon',
+      alternateName: 'OLagoon Inflatable SUP',
+      url: 'https://olagoon.com',
       inLanguage: lang || defaultLang,
     })}
   />
@@ -1755,7 +1755,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
         <span class="text-sm font-semibold text-[#06b6d4] tracking-[0.15em] uppercase"
           >{t('home.contact.label') || 'Get in touch'}</span
         >
-        <h2 class="mt-4 text-4xl font-bold text-gray-900">{t('home.contact.title') || 'Contact Afarer'}</h2>
+        <h2 class="mt-4 text-4xl font-bold text-gray-900">{t('home.contact.title') || 'Contact OLagoon'}</h2>
       </div>
       <div class="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto">
         <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden text-center">
@@ -1765,7 +1765,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
               class="w-full h-full object-cover"
               loading="lazy"
               referrerpolicy="no-referrer-when-downgrade"
-              title={t('home.contact.map') || 'Map of Afarer location'}></iframe>
+              title={t('home.contact.map') || 'Map of OLagoon location'}></iframe>
             <svg class="absolute w-8 h-8 text-red-500 drop-shadow-lg" viewBox="0 0 24 24" fill="currentColor"
               ><path
                 d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
@@ -1783,7 +1783,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
         <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden text-center">
           <div
             class="h-32 bg-cover bg-center"
-            style="background-image: url('https://assets.afarer.com/images/Helen-contact-480x463.webp')"
+            style="background-image: url('https://assets.olagoon.com/images/Helen-contact-480x463.webp')"
           >
           </div>
           <div class="p-6">
@@ -1794,12 +1794,12 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
         <div class="bg-white rounded-2xl border border-gray-200 overflow-hidden text-center">
           <div
             class="h-32 bg-cover bg-center"
-            style="background-image: url('https://assets.afarer.com/images/afarer/use-cases/afarer-professional-use-case.webp')"
+            style="background-image: url('https://assets.olagoon.com/images/olagoon/use-cases/olagoon-professional-use-case.webp')"
           >
           </div>
           <div class="p-6">
             <h3 class="font-semibold text-gray-900">{t('home.contact.email') || 'Email'}</h3>
-            <p class="mt-2 text-gray-500 text-sm">{branding.email || 'info@afarer.com'}</p>
+            <p class="mt-2 text-gray-500 text-sm">{branding.email || 'info@olagoon.com'}</p>
           </div>
         </div>
       </div>

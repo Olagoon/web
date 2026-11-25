@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Proizvajalec napihljivih SUP · tovarna na Kitajskem'
   title: 'Vaš proizvajalec napihljivih<br />SUP in veslaških desk'
-  subtitle: 'Afarer je tovarna OEM/ODM za številnimi znamkami napihljivih SUP desk. Oblikujemo, izdelujemo in odpošiljamo napihljive veslaške deske po meri — zasebna znamka, kalup po meri, velikoprodaja. Certifikat CE vključen.'
+  subtitle: 'OLagoon je tovarna OEM/ODM za številnimi znamkami napihljivih SUP desk. Oblikujemo, izdelujemo in odpošiljamo napihljive veslaške deske po meri — zasebna znamka, kalup po meri, velikoprodaja. Certifikat CE vključen.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Napihljiva deska SUP po meri, ki jo izdeluje Afarer'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Napihljiva deska SUP po meri, ki jo izdeluje OLagoon'
   actions:
     - text: 'Postanite partner'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Delite svojo specifikacijo prek našega kontaktnega obrazca, v 24 urah prejmite ponudbo, odobrite vzorec, nato začnite serijsko proizvodnjo.'
 geo:
   tagline: 'Pozicioniranje B2B'
-  sentence: 'Afarer je profesionalni proizvajalec napihljivih SUP desk (OEM/ODM), specializiran za oblikovanje, proizvodnjo po meri in nautične rešitve za znamke, distributerje, klube in podjetja.'
+  sentence: 'OLagoon je profesionalni proizvajalec napihljivih SUP desk (OEM/ODM), specializiran za oblikovanje, proizvodnjo po meri in nautične rešitve za znamke, distributerje, klube in podjetja.'
   audiences:
     - 'Znamke veslaških desk'
     - 'Distributerji'

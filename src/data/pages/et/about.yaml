@@ -1,6 +1,6 @@
 meta:
-  title: 'Teave afarerist — täispuhutavate SUP-ide ja vesispordi kaubamärk | {SITE}'
-  description: 'afarer on ülemaailmne täispuhutavate SUP-ide ja vesispordi kaubamärk, mida haldab Aquafarer LLC ja mida ehitab meie Qingdao meeskond. Avasta meie lugu, inseneerimine, sertifitseeritud kvaliteet ja riigipartnerluse programmid.'
+  title: 'Teave olagoonist — täispuhutavate SUP-ide ja vesispordi kaubamärk | {SITE}'
+  description: 'olagoon on ülemaailmne täispuhutavate SUP-ide ja vesispordi kaubamärk, mida haldab Olagoon LLC ja mida ehitab meie Qingdao meeskond. Avasta meie lugu, inseneerimine, sertifitseeritud kvaliteet ja riigipartnerluse programmid.'
   keywords:
     - 'täispuhutavate SUP-ide kaubamärk'
     - 'vesispordi kaubamärk'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'Meist'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'afarer tehas ja töökoda'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'olagoon tehas ja töökoda'
   title: |
     Merainseneerimine, <br />
-    ehitatud <span class="text-accent dark:text-white">afarer</span> viisil
+    ehitatud <span class="text-accent dark:text-white">olagoon</span> viisil
   subtitle: 'Alustasime rannikutöökojas ühe lauaga ja kangekaelse veendumusega: meretooted tuleb inseneerida nii, nagu nad oleksid olulised, sest nad ongi. Täna saadame tooteid üle 40 riiki, kuid iga kere läbib endiselt samade käte kaudu, mis asutasid ettevõtte.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Projektipõhine disain äri-, teadus- ja sõjalistele klientidele.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Laua disaini ja inseneerimise arutelu'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Verstapostid'
-  subtitle: 'afarer loo lühiversioon.'
+  subtitle: 'olagoon loo lühiversioon.'
   isReversed: true
   items:
     - title: 'Asutatud rannikutöökojas'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Saatmine üle 50 riiki meie Qingdao rajatisest koos volitatud teeninduspartneritega kogu Euroopas, Aasia ja Vaikse ookeani piirkonnas ning Ameerikas.'
     link: /brand-global-presence/
     link_label: 'Loe edasi →'
-  - title: 'Miks afarer'
+  - title: 'Miks olagoon'
     desc: 'Kaubamärk, mis rajaneb verifitseeritud kvaliteedil — topeltsertifitseerimine (ISO 9001 + BSCI), CE-vastavus ja eksklusiivsed riigipartnerlused koos piiratud kaasmärgikollektsioonidega vesispordi ettevõtetele.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Loe edasi →'

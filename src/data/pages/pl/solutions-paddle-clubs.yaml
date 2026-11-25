@@ -6,11 +6,11 @@ hero:
   title: Uruchom, prowadź i rozwijaj swój klub paddle<br />z flotami SUP klasy komercyjnej
   subtitle: Dostawca sprzętu SUP dla klubów paddle i szkół SUP na całym świecie — trwałe deski komercyjne, klubowe ceny hurtowe, spersonalizowany branding i szybkie części zamienne, abyś mógł skupić się na rozwoju swojej społeczności.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: Członkowie klubu wiosłowego na dopasowanych deskach SUP Afarer
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: Członkowie klubu wiosłowego na dopasowanych deskach SUP OLagoon
 benefits:
   title: Korzyści z floty klubowej
-  subtitle: Dlaczego kluby wioślarskie w 50 krajach wybierają Afarer jako swojego partnera w zakresie sprzętu.
+  subtitle: Dlaczego kluby wioślarskie w 50 krajach wybierają OLagoon jako swojego partnera w zakresie sprzętu.
   items:
     - metric: 40%+
       label: Oszczędności kosztów floty
@@ -81,7 +81,7 @@ training:
         - Program szkoleniowy i wsparcie w zakresie certyfikacji
         - Sprzęt z certyfikatem CE
 features:
-  title: Dlaczego kluby wybierają Afarer
+  title: Dlaczego kluby wybierają OLagoon
   subtitle: Stała jakość, szybkie części i hurtowe ceny stworzone dla rozwijających się klubów.
   items:
     - title: 500 Wynajem Rowerów

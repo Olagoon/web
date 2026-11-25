@@ -1,6 +1,6 @@
 // Extract EN faq records from src/data/faq.ts into a clean JSON draft source. Handles ' and " string delimiters.
 const fs = require('fs');
-const src = fs.readFileSync('E:/github/afarer/src/data/faq.ts', 'utf8');
+const src = fs.readFileSync('E:/github/olagoon/src/data/faq.ts', 'utf8');
 
 const SQ = String.raw`'((?:[^'\\]|\\.)*)'`;
 const DQ = String.raw`"((?:[^"\\]|\\.)*)"`;
@@ -38,7 +38,7 @@ fs.writeFileSync('C:/Users/Helleo/AppData/Local/Temp/deveco/_faq-en.json', JSON.
 
 // id parity check vs faq-de.yaml / faq-fr.yaml
 for (const l of ['de', 'fr']) {
-  const y = fs.readFileSync(`E:/github/afarer/src/data/faq-${l}.yaml`, 'utf8');
+  const y = fs.readFileSync(`E:/github/olagoon/src/data/faq-${l}.yaml`, 'utf8');
   const yIds = [...y.matchAll(/^\s*- id:\s*(\S+)/gm)].map((x) => x[1]);
   const missingInY = ids.filter((i) => !yIds.includes(i));
   const extraInY = yIds.filter((i) => !ids.includes(i));

@@ -1,18 +1,18 @@
 meta:
-  title: Var köper du Afarer uppblåsbara paddleboards | Afarer
-  description: Ta reda på hur du köper ett uppblåsbart paddleboard från Afarer — via en officiell distributör i ditt land eller direkt från Afarer-teamet.
+  title: Var köper du OLagoon uppblåsbara paddleboards | OLagoon
+  description: Ta reda på hur du köper ett uppblåsbart paddleboard från OLagoon — via en officiell distributör i ditt land eller direkt från OLagoon-teamet.
 hero:
   tagline: Var du köper
-  title: Kom ut på vattnet med din Afarer SUP
-  subtitle: Afarer-brädor når paddlare i över 50 länder. Hitta det enklaste sättet att få din — via en officiell återförsäljare nära dig eller direkt från Afarer-teamet.
+  title: Kom ut på vattnet med din OLagoon SUP
+  subtitle: OLagoon-brädor når paddlare i över 50 länder. Hitta det enklaste sättet att få din — via en officiell återförsäljare nära dig eller direkt från OLagoon-teamet.
 channels:
   items:
     - title: Officiella landsdistributörer
-      description: Afarer samarbetar med exklusiva distributörer i många länder. Berätta var du paddlar så förbinder vi dig med din lokala återförsäljare, priser och tillgänglighet.
+      description: OLagoon samarbetar med exklusiva distributörer i många länder. Berätta var du paddlar så förbinder vi dig med din lokala återförsäljare, priser och tillgänglighet.
       cta: Hitta din lokala återförsäljare
       href: /contact/?subject=Where to Buy
-    - title: Beställ direkt från Afarer
-      description: Ingen distributör i ditt land ännu? Afarer-teamet kan ordna direktbeställningar och frakt så att du kan komma ut på vattnet, var du än bor.
+    - title: Beställ direkt från OLagoon
+      description: Ingen distributör i ditt land ännu? OLagoon-teamet kan ordna direktbeställningar och frakt så att du kan komma ut på vattnet, var du än bor.
       cta: Fråga om tillgänglighet
       href: /contact/?subject=Where to Buy
 form_intro:

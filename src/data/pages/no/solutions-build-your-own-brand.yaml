@@ -1,12 +1,12 @@
 meta:
   title: Hvitvaremerkeproduksjon av SUP | {SITE}
-  description: Lanser ditt eget SUP-merke med Afarer. Fra idé til marked — komplett OEM/ODM-tjeneste inkludert design, prototyping, produksjon og global logistikk.
+  description: Lanser ditt eget SUP-merke med OLagoon. Fra idé til marked — komplett OEM/ODM-tjeneste inkludert design, prototyping, produksjon og global logistikk.
 hero:
   tagline: Bygg ditt eget merke
   title: Lanser ditt eget<br />SUP-merke
   subtitle: Du har visjonen. Vi har fabrikken, ekspertisen og forsyningskjeden. Sammen bygger vi et merke som skiller seg ut.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Tilpasset merket SUP-bord på vann
 process:
   title: Din merkevarereise
@@ -77,7 +77,7 @@ packages:
         - Markedsføringsmateriell
         - Prioritert produksjon
 features:
-  title: Hvorfor merker velger Afarer
+  title: Hvorfor merker velger OLagoon
   subtitle: 10+ års OEM-erfaring, full sertifisering og den laveste MOQ-en i bransjen.
   items:
     - title: 10+ år med OEM-erfaring

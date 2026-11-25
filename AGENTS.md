@@ -128,7 +128,7 @@ The navigation editor (`src/pages/keystatic/navigation.astro`) shows a static wa
 
 ## Contact Form (email via Cloudflare Worker)
 
-`/contact` and `/{lang}/contact` are **static** SSG pages (no SSR, no captcha cookie). `POST /api/contact` is handled by a **standalone Cloudflare Worker** (`workers/contact-worker/index.ts`, deployed as `afarer-contact`, zone route `afarer.com/api/contact*` — see `workers/contact-worker/wrangler.toml`). This is **not** a Pages Function; there is no `src/pages/api/contact.ts`.
+`/contact` and `/{lang}/contact` are **static** SSG pages (no SSR, no captcha cookie). `POST /api/contact` is handled by a **standalone Cloudflare Worker** (`workers/contact-worker/index.ts`, deployed as `olagoon-contact`, zone route `olagoon.com/api/contact*` — see `workers/contact-worker/wrangler.toml`). This is **not** a Pages Function; there is no `src/pages/api/contact.ts`.
 
 The worker does:
 
@@ -173,11 +173,11 @@ Do NOT create a new widget or copy the whole layout — `SeoLanding` is the sing
 
 ## Workers — 4, not 5
 
-Deployed Workers: **contact-worker, ai-worker, admin-worker, automation-worker** (`workers/*/`, each with its own `wrangler.toml`). The legacy `seo-worker` was removed from the repo; CI deletes its deployed instance (`afarer-seo`) as a no-op safety step. `npm run deploy:workers` deploys exactly these 4.
+Deployed Workers: **contact-worker, ai-worker, admin-worker, automation-worker** (`workers/*/`, each with its own `wrangler.toml`). The legacy `seo-worker` was removed from the repo; CI deletes its deployed instance (`olagoon-seo`) as a no-op safety step. `npm run deploy:workers` deploys exactly these 4.
 
 ## Important: Static Output + Edge Locale Middleware
 
-The site is built with `output: 'static'` (`astro.config.ts`) and the edge middleware `functions/_middleware.ts` handles locale detection/redirect and R2 `/images|/files` → `assets.afarer.com` (301). `scripts/patch-worker.mjs` (subdomain routing + `dist/server/wrangler.json` KV injection) targets the `output: 'server'` Cloudflare Workers+Assets build and is **not part of the current `npm run build` chain** — do not rely on it for the current static deployment.
+The site is built with `output: 'static'` (`astro.config.ts`) and the edge middleware `functions/_middleware.ts` handles locale detection/redirect and R2 `/images|/files` → `assets.olagoon.com` (301). `scripts/patch-worker.mjs` (subdomain routing + `dist/server/wrangler.json` KV injection) targets the `output: 'server'` Cloudflare Workers+Assets build and is **not part of the current `npm run build` chain** — do not rely on it for the current static deployment.
 
 ## Iron Rule — Encoding / Garbled Text
 
@@ -208,12 +208,12 @@ fs.writeFileSync(
   rel,
   buf.stdout
     .toString('utf-8')
-    .replace(/Aquafarer/g, 'afarer')
-    .replace(/aquafarer/g, 'afarer')
+    .replace(/Olagoon/g, 'olagoon')
+    .replace(/olagoon/g, 'olagoon')
 );
 ```
 
-For files renamed in the redesign (e.g. `aquafarer-story.yaml` → `afarer-story.yaml`, `brand-aquafarer.yaml` → `brand-afarer.yaml`), use the original filename.
+For files renamed in the redesign (e.g. `olagoon-story.yaml` → `olagoon-story.yaml`, `brand-olagoon.yaml` → `brand-olagoon.yaml`), use the original filename.
 
 Then regenerate: `node scripts/generate-data-json.mjs` + `npm run build`.
 
@@ -223,4 +223,4 @@ After changes, always verify:
 
 1. `npm run build` succeeds
 2. `npm run check` passes (astro check + ESLint + Prettier)
-3. Visual check in browser: homepage, blog, dark mode, mobile menu, contact form (verify submission roundtrip end-to-end: form posts JSON → `afarer-contact` Worker → Resend email)
+3. Visual check in browser: homepage, blog, dark mode, mobile menu, contact form (verify submission roundtrip end-to-end: form posts JSON → `olagoon-contact` Worker → Resend email)

@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const read = (p) => fs.readFileSync(path.join(DIST, p), 'utf8');
 
 let fail = 0;
@@ -11,16 +11,16 @@ function check(name, cond) {
 
 // --- all 27 new slugs (EN 49-75) must now be translated on ro + th ---
 const NEW_SLUGS = [
-  'afarer-sup-explorer-11-review',
-  'afarer-sup-tour-12-review',
-  'afarer-airdeck-360-review',
-  'afarer-airdeck-270-review',
-  'afarer-rib-330-review',
-  'afarer-rib-450-patrol-review',
-  'afarer-life-vest-classic-review',
-  'afarer-life-vest-pro-review',
-  'afarer-oars-pump-set-review',
-  'afarer-zb-mt350-review',
+  'olagoon-sup-explorer-11-review',
+  'olagoon-sup-tour-12-review',
+  'olagoon-airdeck-360-review',
+  'olagoon-airdeck-270-review',
+  'olagoon-rib-330-review',
+  'olagoon-rib-450-patrol-review',
+  'olagoon-life-vest-classic-review',
+  'olagoon-life-vest-pro-review',
+  'olagoon-oars-pump-set-review',
+  'olagoon-zb-mt350-review',
   'sup-vs-surfboard',
   'kayak-vs-sup',
   'sup-fitness-workout',
@@ -62,8 +62,8 @@ const roWinter = read('ro/v2/winter-paddle-boarding/index.html');
 check('ro winter-paddle-boarding has RO wetsuit text', roWinter.includes('costum de neopren'));
 const roRescue = read('ro/v2/sup-self-rescue/index.html');
 check('ro sup-self-rescue has RO self-rescue text', roRescue.includes('auto-salvare'));
-const roVestPro = read('ro/v2/afarer-life-vest-pro-review/index.html');
-check('ro life-vest-pro has RO brand text', roVestPro.includes('afarer Life Vest Pro'));
+const roVestPro = read('ro/v2/olagoon-life-vest-pro-review/index.html');
+check('ro life-vest-pro has RO brand text', roVestPro.includes('olagoon Life Vest Pro'));
 const thPaddle = read('th/v2/sup-paddle-guide/index.html');
 check('th sup-paddle-guide has TH paddle-guide title', thPaddle.includes('คู่มือไม้พาย SUP'));
 const thKayakSup = read('th/v2/kayak-vs-sup/index.html');

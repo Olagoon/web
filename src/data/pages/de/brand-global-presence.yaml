@@ -1,6 +1,6 @@
 meta:
   title: 'Globale Präsenz — SUP-Hersteller für 50+ Länder | {SITE}'
-  description: 'afarer exportiert aufblasbare SUPs in über 50 Länder auf allen Kontinenten. Professioneller Hersteller und Lieferant für Marken, Händler und Flotten.'
+  description: 'olagoon exportiert aufblasbare SUPs in über 50 Länder auf allen Kontinenten. Professioneller Hersteller und Lieferant für Marken, Händler und Flotten.'
   keywords:
     - 'globaler SUP-Hersteller'
     - 'Paddleboard-Exporteur'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Globale Präsenz
   title: Über 50 Länder betreuen<br />Auf jedem Kontinent
-  subtitle: Von europäischen Küstenpatrouillenbetreibern bis zu australischen Wassersportvertrieben und Nahost-Rettungsteams – afarer-Boards sind weltweit auf dem Wasser.
+  subtitle: Von europäischen Küstenpatrouillenbetreibern bis zu australischen Wassersportvertrieben und Nahost-Rettungsteams – olagoon-Boards sind weltweit auf dem Wasser.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer globale Marinefertigung und -vertrieb
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon globale Marinefertigung und -vertrieb
 stats:
   title: Globale Reichweite
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: Lagerbestand in Montclair, CA für schnelle Lieferung in Nordamerika.
       icon: tabler:building-warehouse
     - title: Ersatzteile
-      description: Original afarer-Ersatzteile ganzjährig auf Lager. Gängige Teile in 24 Stunden.
+      description: Original olagoon-Ersatzteile ganzjährig auf Lager. Gängige Teile in 24 Stunden.
       icon: tabler:package
     - title: Technischer Support
       description: Direkte Leitung zu unserem Engineering-Team. Wir unterstützen Boards, die wir vor 20 Jahren gebaut haben.

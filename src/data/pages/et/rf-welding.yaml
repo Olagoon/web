@@ -8,10 +8,10 @@ hero:
   tagline: 'Labor 03'
   title: 'RF-keevituse keskus'
   subtitle: 'Dielektriline ühendamistehnoloogia õmblustele, mis peavad survel vastu'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Afarer RF-keevituse dielektriline ühendamisprotsess'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'OLagoon RF-keevituse dielektriline ühendamisprotsess'
 
-intro: 'Täispuhutav SUP on vaid nii usaldusväärne kui selle õmblused. Üks nõrk keevitus võib kogu kambrile kahju teha — ja merel pole kambri rike ebamugavus; see on ohutusoht. Afareris oleme investeerinud spetsiaalsesse raadiosagedusliku (RF) keevituse keskusesse, mis ühendab tööstuslikud dielektrilised keevituspressid range protsessikontrolli ja järelkeevitustestimisega. Iga meie toodetud õmblus on dokumenteeritud, jälgitav ja sertifitseeritud vastama või ületama EN ISO 25649 nõudeid — Euroopa standardit täispuhutavale vabaajavarustusele.'
+intro: 'Täispuhutav SUP on vaid nii usaldusväärne kui selle õmblused. Üks nõrk keevitus võib kogu kambrile kahju teha — ja merel pole kambri rike ebamugavus; see on ohutusoht. OLagoonis oleme investeerinud spetsiaalsesse raadiosagedusliku (RF) keevituse keskusesse, mis ühendab tööstuslikud dielektrilised keevituspressid range protsessikontrolli ja järelkeevitustestimisega. Iga meie toodetud õmblus on dokumenteeritud, jälgitav ja sertifitseeritud vastama või ületama EN ISO 25649 nõudeid — Euroopa standardit täispuhutavale vabaajavarustusele.'
 
 content_html: |
   <h2>Teadus õmbluse taga</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Meie pühendumus teile</h2>
   <p>Iga meie tarnitud laud kannab meie keevituskvaliteedi garantiid: kui mistahes õmblus rikneb tavapärasel kasutusel garantii ajal, parandame või asendame mõjutatud kambris tasuta ja viiakse läbi põhjuste uurimine kordumise vältimiseks. See ei ole lihtsalt garantii — see on pühendumus pidevale täiustamisele, mida juhivad reaalsed tööandmed.</p>
-  <p>Kui valite Afareri, valite õmblused, mis on insenerlikult kavandatud, testitud ja dokumenteeritud — mitte lihtsalt keevitatud. See on vahe lauaga, mis ujub, ja lauaga, mis toimib.</p>
+  <p>Kui valite OLagooni, valite õmblused, mis on insenerlikult kavandatud, testitud ja dokumenteeritud — mitte lihtsalt keevitatud. See on vahe lauaga, mis ujub, ja lauaga, mis toimib.</p>
 
 cta:
   title: 'Arutage oma keevitusnõudeid'

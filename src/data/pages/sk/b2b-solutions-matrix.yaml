@@ -1,18 +1,18 @@
 meta:
   title: 'Matica B2B riešení pre klientov | {SITE}'
-  description: 'Kompletná matica B2B riešení Afarer pre klientov pokrývajúca 24 typov zákazníkov — od outdoorových startupov po inštitúcie námornej ochrany prírody.'
+  description: 'Kompletná matica B2B riešení OLagoon pre klientov pokrývajúca 24 typov zákazníkov — od outdoorových startupov po inštitúcie námornej ochrany prírody.'
 
 hero:
   tagline: 'B2B riešenia pre klientov'
   title: '24 B2B riešení<br />prispôsobených vášmu podnikaniu'
-  subtitle: 'Od zakladateľov startupov po globálnych distribútorov — nájdite presné riešenie Afarer navrhnuté pre váš obchodný model, odvetvie a ciele.'
+  subtitle: 'Od zakladateľov startupov po globálnych distribútorov — nájdite presné riešenie OLagoon navrhnuté pre váš obchodný model, odvetvie a ciele.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Továreň a výrobné zariadenie Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'Továreň a výrobné zariadenie OLagoon'
 
 solutions:
   title: 'Matica riešení pre klientov'
-  subtitle: 'Každý typ zákazníka, jeho základná potreba a stránka riešenia Afarer navrhnutá preň.'
+  subtitle: 'Každý typ zákazníka, jeho základná potreba a stránka riešenia OLagoon navrhnutá preň.'
   items:
     - clientType: 'Zakladateľ outdoorového startupu'
       need: 'Tvorba značky'

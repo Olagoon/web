@@ -1,6 +1,6 @@
 meta:
-  title: 'Tentang Afarer — Merek SUP Tiup & Olahraga Air | {SITE}'
-  description: 'Afarer adalah merek SUP tiup dan olahraga air global, dioperasikan oleh Aquafarer LLC (AS) dan dibangun oleh Tim Operasi Qingdao kami. Temukan kisah kami, rekayasa, kualitas tersertifikasi, dan program mitra negara.'
+  title: 'Tentang OLagoon — Merek SUP Tiup & Olahraga Air | {SITE}'
+  description: 'OLagoon adalah merek SUP tiup dan olahraga air global, dioperasikan oleh Olagoon LLC (AS) dan dibangun oleh Tim Operasi Qingdao kami. Temukan kisah kami, rekayasa, kualitas tersertifikasi, dan program mitra negara.'
   keywords:
     - 'merek SUP tiup'
     - 'merek olahraga air'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'Tentang kami'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'pabrik dan workshop afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'pabrik dan workshop olagoon'
   title: |
     Rekayasa marinir, <br />
-    dibangun dengan cara <span class="text-accent dark:text-white">afarer</span>
+    dibangun dengan cara <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'Kami memulai di workshop pesisir dengan satu papan dan keyakinan teguh: produk marinir harus direkayasa seolah-olah penting, karena memang demikian. Hari ini kami mengirim ke lebih dari 40 negara, tetapi setiap lambung tetap melewati tangan yang sama yang memulai perusahaan ini.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Desain per proyek untuk pelanggan komersial, ilmiah, dan militer.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Diskusi desain dan rekayasa papan'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Tonggak pencapaian'
-  subtitle: 'Versi singkat kisah afarer.'
+  subtitle: 'Versi singkat kisah olagoon.'
   isReversed: true
   items:
     - title: 'Didirikan di workshop pesisir'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Mengirim ke 50+ negara dari fasilitas Qingdao kami dengan mitra layanan resmi di seluruh Eropa, Asia-Pasifik, dan Amerika.'
     link: /brand-global-presence/
     link_label: 'Pelajari lebih lanjut →'
-  - title: 'Mengapa afarer'
+  - title: 'Mengapa olagoon'
     desc: 'Merek yang dibangun di atas kualitas terverifikasi — sertifikasi ganda (ISO 9001 + BSCI), kepatuhan CE, dan kemitraan negara eksklusif dengan koleksi ko-brand terbatas untuk bisnis olahraga air.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Pelajari lebih lanjut →'

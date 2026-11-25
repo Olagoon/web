@@ -1,8 +1,8 @@
 meta:
-  title: 'Centru media — presă și resurse afarer | {SITE}'
-  description: 'Centrul media afarer: comunicate de presă, materiale de marcă și resurse de la compania noastră care produce plăci de SUP gonflabile.'
+  title: 'Centru media — presă și resurse olagoon | {SITE}'
+  description: 'Centrul media olagoon: comunicate de presă, materiale de marcă și resurse de la compania noastră care produce plăci de SUP gonflabile.'
   keywords:
-    - 'presă afarer'
+    - 'presă olagoon'
     - 'media producător SUP'
     - 'press kit paddle board'
     - 'știri companie nautică'
@@ -21,7 +21,7 @@ sections:
       - Accesorii și echipamente de siguranță
   - id: logo-brand-kit
     title: Logo și kit de brand
-    desc: Fișiere oficiale cu logo afarer, paletă de culori, tipografie și ghiduri de brand.
+    desc: Fișiere oficiale cu logo olagoon, paletă de culori, tipografie și ghiduri de brand.
     items:
       - Logo principal (PNG/SVG/EPS)
       - Pictogramă
@@ -55,7 +55,7 @@ cta:
       desc: Vezi facilitatea noastră de producție de 12.000 m²
     - label: Ghiduri de brand
       href: /brand/
-      desc: Află despre brandul afarer
+      desc: Află despre brandul olagoon
     - label: Fii partener
       href: /contact/
       desc: Întrebări OEM, ODM și distribuție

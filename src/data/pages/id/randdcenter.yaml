@@ -8,7 +8,7 @@ hero:
   subtitle: 'Fokus pada Kemajuan'
 
 intro:
-  - 'Pusat Riset dan Pengembangan (R&D) afarer adalah kekuatan pendorong di balik misi kami merevolusi peralatan olahraga air. Kami memberdayakan penggemar olahraga air di seluruh dunia dengan produk yang lebih aman, lebih nyaman, dan lebih menyenangkan melalui inovasi tanpa henti dalam papan dayung tiup stand-up (SUP). Tim kami yang berdedikasi, terdiri dari insinyur, desainer, dan pakar olahraga air yang berbakat, sedang membentuk masa depan industri ini dengan terus-menerus menaikkan standar kualitas, performa, dan keberlanjutan.'
+  - 'Pusat Riset dan Pengembangan (R&D) olagoon adalah kekuatan pendorong di balik misi kami merevolusi peralatan olahraga air. Kami memberdayakan penggemar olahraga air di seluruh dunia dengan produk yang lebih aman, lebih nyaman, dan lebih menyenangkan melalui inovasi tanpa henti dalam papan dayung tiup stand-up (SUP). Tim kami yang berdedikasi, terdiri dari insinyur, desainer, dan pakar olahraga air yang berbakat, sedang membentuk masa depan industri ini dengan terus-menerus menaikkan standar kualitas, performa, dan keberlanjutan.'
   - 'Fasilitas R&D kami menyatukan ilmuwan material, insinyur bahari, dan insinyur produksi di bawah satu atap. Dari formulasi kain dan simulasi lambung hingga pengembangan proses pengelasan dan uji coba laut skala penuh, setiap tahap pengembangan produk didorong oleh data dan divalidasi melalui pengujian.'
 
 mission:
@@ -98,33 +98,33 @@ rd_services:
 vision:
   tagline: 'Visi Kami'
   title: 'Membentuk Masa Depan Olahraga Air'
-  body: 'afarer berupaya memimpin industri SUP tiup melalui inovasi berkelanjutan, kualitas yang tak tergoyahkan, dan komitmen teguh terhadap keselamatan serta keberlanjutan — pada akhirnya memperkaya pengalaman para penggemar olahraga air di seluruh dunia. Pusat R&D afarer adalah tempat hasrat bertemu inovasi, menetapkan standar baru bagi industri olahraga air.'
+  body: 'olagoon berupaya memimpin industri SUP tiup melalui inovasi berkelanjutan, kualitas yang tak tergoyahkan, dan komitmen teguh terhadap keselamatan serta keberlanjutan — pada akhirnya memperkaya pengalaman para penggemar olahraga air di seluruh dunia. Pusat R&D olagoon adalah tempat hasrat bertemu inovasi, menetapkan standar baru bagi industri olahraga air.'
 
 labs_section:
   tagline: 'Lab'
   title: 'Laboratorium Kami'
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: 'Lab Kain PVC'
       description: 'Riset dan pengujian berkelanjutan terhadap kain dek PVC untuk kekuatan tarik, ketahanan UV, abrasi, dan fleksibilitas suhu rendah demi keandalan jangka panjang di lingkungan bahari.'
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Studio Teknik Lambung'
       description: 'Desain berbasis CAD dan analisis elemen hingga untuk lambung HDPE, aluminium, dan fiberglass. Setiap lambung disimulasikan secara digital untuk distribusi tegangan dan ketahanan benturan sebelum prototipe pertama dibangun.'
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'Pusat Pengelasan RF'
       description: 'Fasilitas pengelasan frekuensi radio khusus dengan kontrol suhu dan tekanan presisi, menghasilkan sambungan kedap udara berkekuatan tinggi yang memenuhi standar industri bahari untuk kapal tiup.'
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Tangki Uji Hidrodinamika'
       description: 'Pengujian skala model di tangki uji internal kami untuk mengoptimalkan bentuk lambung, performa planing, stabilitas, dan efisiensi bahan bakar lintas berbagai kondisi beban dan laut.'
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Workshop Prototipe'
       description: 'Fasilitas pembuatan prototipe dan rigging skala penuh tempat model baru dibangun, dilengkapi, dan diuji di laut. Setiap prototipe menjalani program uji di air minimal 20 jam sebelum disetujui untuk produksi.'
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: 'Lab Kualitas & Inspeksi'
       description: 'Lab penjaminan kualitas khusus yang melakukan pengujian tarik, siklus retensi udara, uji peeling sambungan, dan sertifikasi material untuk memastikan setiap papan yang meninggalkan workshop memenuhi spesifikasi yang kami publikasikan.'
       href: /randdcenter/quality-inspection-lab/

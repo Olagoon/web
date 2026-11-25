@@ -54,7 +54,7 @@ const SPECIFIC = [
   ['src/pages/randdcenter/prototype-workshop.astro', '0.5–.0 m', '0.5–1.0 m', 1],
   ['src/data/standalone-pages.ts', '0.9mm—.2mm', '0.9mm–1.2mm', 1],
   [
-    'src/pages/compare/afarer-vs-traditional-manufacturers.astro',
+    'src/pages/compare/olagoon-vs-traditional-manufacturers.astro',
     "'3–year warranty', '1–year warranty'",
     "'3-year warranty', '1-year warranty'",
     1,

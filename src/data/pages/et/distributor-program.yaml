@@ -1,6 +1,6 @@
 meta:
-  title: 'Riigipartnerid — üks riik, üks ametlik Afarer levitaja | {SITE}'
-  description: 'Kandideeri oma riigi ametlikuks Afarer levitajaks. Üks volitatud partner turu kohta, territooriumi kaitse, otsetehasest marginaalid, aastased tagasimaksed ja 10-mooduliline riigipartneri tugiprogramm globaalsetele SUP-i ja veespordi levitajatele.'
+  title: 'Riigipartnerid — üks riik, üks ametlik OLagoon levitaja | {SITE}'
+  description: 'Kandideeri oma riigi ametlikuks OLagoon levitajaks. Üks volitatud partner turu kohta, territooriumi kaitse, otsetehasest marginaalid, aastased tagasimaksed ja 10-mooduliline riigipartneri tugiprogramm globaalsetele SUP-i ja veespordi levitajatele.'
   keywords:
     - 'riigipartnerluse programm'
     - 'become a distributor'
@@ -11,8 +11,8 @@ meta:
     - 'riigipartnerluse taotlus'
 hero:
   tagline: 'Riigipartnerlus'
-  title: 'Üks riik.<br />Üks ametlik Afarer levitaja.'
-  subtitle: 'Afarer nimetab iga kinnitatud turu jaoks ühe volitatud riigi levitaja. Eksklusiivne territoorium, edasimüüja hinnad aastaste tagasimaksetega ja täielik levitaja tugiprogramm — vastu allkirjastatud leppe ja tegelikule pühendumusele turgu üles ehitada.'
+  title: 'Üks riik.<br />Üks ametlik OLagoon levitaja.'
+  subtitle: 'OLagoon nimetab iga kinnitatud turu jaoks ühe volitatud riigi levitaja. Eksklusiivne territoorium, edasimüüja hinnad aastaste tagasimaksetega ja täielik levitaja tugiprogramm — vastu allkirjastatud leppe ja tegelikule pühendumusele turgu üles ehitada.'
   actions:
     - text: 'Kandideeri riigipartnerlusele'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Päeva standardne täitmisaeg (FOB Qingdao)'
 features:
-  title: 'Miks teha koostööd Afareriga'
+  title: 'Miks teha koostööd OLagooniga'
   subtitle: 'Üks-riik-üks-levitaja mudel koos tugistruktuuriga, mis muudab territooriumi tulusaks. Eksklusiivsus teenitakse ja säilitatakse — see pole alaline õigus.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'Üks volitatud levitaja riigi või piirkonna kohta. Ei paralleelimporti, ei sisemist konkurentsi. Teie investeering ehitab teie enda valli.'
       icon: 'tabler:shield-check'
     - title: 'Kanalikonflikti kaitse'
-      description: 'Teie piirkonnast saadud otsetellimised suunatakse teie kaudu ja hinnakaitse kaitseb teie marginaali. Afarer ei müü oma riigipartneritest mööda.'
+      description: 'Teie piirkonnast saadud otsetellimised suunatakse teie kaudu ja hinnakaitse kaitseb teie marginaali. OLagoon ei müü oma riigipartneritest mööda.'
       icon: 'tabler:users'
     - title: 'Otsetehase marginaalid ja tagasimaksed'
       description: 'Edasimüüja hinnakiri koos tagasimaksetega kohustuslike mahtude eest. Vahepolitikuid pole. FOB Qingdao saatmine täieliku ekspordidokumentatsiooniga.'
@@ -59,7 +59,7 @@ features:
       description: 'Varuosade varustus, garantii registreerimine ja nõuete menetlemine ning toote andmleheded ja juhendid teie kohalikule teenindusmeeskonnale.'
       icon: 'tabler:settings'
     - title: 'Pühendatud kontohaldur ja partneriportaal'
-      description: 'Isiklik levitajahaldur pluss juurdepääs hinnakirjadele, tellimuste staatusele ja turundusressurssidele Afarer partneriportaali kaudu.'
+      description: 'Isiklik levitajahaldur pluss juurdepääs hinnakirjadele, tellimuste staatusele ja turundusressurssidele OLagoon partneriportaali kaudu.'
       icon: 'tabler:user-check'
 table:
   title: 'Partnerluse tasandid, MOQ ja tellimistingimused'
@@ -83,14 +83,14 @@ faqs:
   subtitle: 'Küsimused, mis tõsised riigipartnerid esitavad enne kandideerimist.'
   items:
     - title: 'Mida üks-riik-üks-levitaja tegelikult tähendab?'
-      description: 'Afarer nimetab ühe volitatud levitaja koos eksklusiivsete õigustega kindlaks määratud territooriumile. Me ei müü meie globaalsetest või piirkondlikest kanalitest kaitstud riiki. Teie territooriumi omamine kehtib nii kaua, kui levituslepe on täidetud.'
+      description: 'OLagoon nimetab ühe volitatud levitaja koos eksklusiivsete õigustega kindlaks määratud territooriumile. Me ei müü meie globaalsetest või piirkondlikest kanalitest kaitstud riiki. Teie territooriumi omamine kehtib nii kaua, kui levituslepe on täidetud.'
     - title: 'Kas territoorium on eksklusiivne igaveseks?'
       description: 'Ei. Eksklusiivsus on tingimuslik, mitte igavene. Seda säilitatakse allkirjastatud levitusleppe, teie esimese tellimuse täitmise, aastaste ostueesmärkide, kohaliku lao, järelmüügi võimekuse ja pideva turuinvesteeringuga. Kui need pole täidetud, saab territooriumi üle läbi rääkida või ümber määrata.'
     - title: 'Mis on minimaalne esimene tellimus?'
       description: 'Riigi- ja piirkondlikud levitajad alustavad 100–300 ühikust; volitatud edasimüüjad 30–50 ühikust; katsetellimused alates 10–30 ühikust lasevad teil turg esmalt valideerida (proovi- ja katsetellimused ei anna territooriumikaitset). Kohandatud ja eramärgise programmid järgivad ülaltoodud tasandites loetletud eraldi MOQ-sid.'
     - title: 'Mida sisaldab 10-mooduline tugiprogramm?'
       description: 'Tasandid ja kvalifikatsioon, territooriumi kaitse, MOQ / hinnad / aastased tagasimaksed, ladu ja tellimuste täitmine, turunduse varad ja ühised turufondid, toote-/müügi-/tehniline koolitus, varuosad ja järelmüük, garantii registreerimine, partneriportaal ning toote andmleheded, turunduse varade kogu, aastane tagasimaksete graafik ning saatmis- ja pakkimisloendid.'
-    - title: 'Kuidas Afarer kaitseb mind kanalikonflikti eest?'
+    - title: 'Kuidas OLagoon kaitseb mind kanalikonflikti eest?'
       description: 'Igal territooriumil on täpselt üks volitatud levitaja. Teie piirkonna päringud ja otsetellimused suunatakse teie kaudu, veebivormid edastatakse kohalikule partnerile, kus see on olemas, ja globaalne meeskond eskaleerub ainult siis, kui partner ei vasta.'
     - title: 'Millised on saatmis- ja maksetingimused?'
       description: 'Tellimused saadetakse FOB Qingdao koos täieliku ekspordidokumentatsiooniga. Tootmistellimused on 30% sissemakse ja 70% enne saatmist; proovi- ja katsetellimused on ettemaksuga. Standardne täitmisaeg on 30–45 tööpäeva, proovipartiide puhul 15–20 tööpäeva.'
@@ -98,7 +98,7 @@ faqs:
       description: 'Saada oma kandideerimine kontaktvormi kaudu koos turu andmetega. Me vaatame üle turu sobivuse, jaemüügi kohalolu ja logistika võimekuse, seejärel vastame 3 tööpäeva jooksul järgmiste sammude ja näidislevitusleppega.'
 cta:
   title: 'Omasta oma turg.'
-  subtitle: 'Kandideeri Afarer riigipartnerlusele ja saa vastus 3 tööpäeva jooksul.'
+  subtitle: 'Kandideeri OLagoon riigipartnerlusele ja saa vastus 3 tööpäeva jooksul.'
   actions:
     - text: 'Kandideeri riigipartnerlusele'
       href: /contact/?subject=Country Partnership Application
@@ -108,7 +108,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'Kellega me koostööd teeme'
-  sentence: 'Afarer teeb koostööd asutatud mere-, välis- ja spordilevitajatega, kes teenindavad jaemüügikette, rendilaevastikke, veespordikoolid, kuurorte ja valitsusostjaid premium-täispuhutavate SUP-laudade ja veesõidukitega — ning kes pühenduvad Afarer brändi ülesseadmisele oma riigis.'
+  sentence: 'OLagoon teeb koostööd asutatud mere-, välis- ja spordilevitajatega, kes teenindavad jaemüügikette, rendilaevastikke, veespordikoolid, kuurorte ja valitsusostjaid premium-täispuhutavate SUP-laudade ja veesõidukitega — ning kes pühenduvad OLagoon brändi ülesseadmisele oma riigis.'
   audiences:
     - 'Mere- ja sõudespordi levitajad'
     - 'Välis- ja spordikaubandus'

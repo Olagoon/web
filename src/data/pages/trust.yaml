@@ -1,6 +1,6 @@
 meta:
   title: 'Trust — Quality, Standards & Reputation | {SITE}'
-  description: 'Why trust afarer: CE and ISO certifications, integrated factory, global references, and warranty. A professional inflatable SUP manufacturer.'
+  description: 'Why trust olagoon: CE and ISO certifications, integrated factory, global references, and warranty. A professional inflatable SUP manufacturer.'
   keywords:
     - 'trusted sup manufacturer'
     - 'certified paddle board factory'
@@ -8,16 +8,16 @@ meta:
     - 'certified sup factory'
 hero:
   tagline: 'Built to standards that matter'
-  title: 'Trust afarer'
+  title: 'Trust olagoon'
   subtitle: |
     Every product we build is CE certified — tested for safety,<br />
     durability, and performance. No shortcuts. No exceptions.
   taglineSection: 'Certified. Tested. Proven.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'afarer product undergoing quality testing'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'olagoon product undergoing quality testing'
 
 stats:
-  title: 'afarer by the numbers'
+  title: 'olagoon by the numbers'
   stats:
     - title: 'CE Certified'
       description: 'All recreational products meet EU safety standards'
@@ -26,7 +26,7 @@ stats:
     - title: 'BSCI & REACH'
       description: 'Ethical manufacturing and material compliance'
     - title: '3-Year Warranty'
-      description: 'On every afarer product — no questions asked'
+      description: 'On every olagoon product — no questions asked'
 
 features3_certifications:
   title: 'Certifications & Compliance'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'CE Certification'
-      description: 'All afarer SUPs meet the European CE safety standard for recreational use. Each product undergoes pressure, buoyancy, and load testing before leaving the factory.'
+      description: 'All olagoon SUPs meet the European CE safety standard for recreational use. Each product undergoes pressure, buoyancy, and load testing before leaving the factory.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Our 12,000 m² Qingdao facility operates under an ISO 9001 quality management system. Every production batch is traceable, documented, and inspected.'
@@ -50,21 +50,21 @@ features3_certifications:
       description: 'In-house materials lab tests tensile strength, UV resistance, seam integrity, and abrasion for every fabric batch before production.'
       icon: 'tabler:microscope'
     - title: '3-Year Warranty'
-      description: 'Every afarer product comes with a three-year warranty against manufacturing defects. We stand behind what we build.'
+      description: 'Every olagoon product comes with a three-year warranty against manufacturing defects. We stand behind what we build.'
       icon: 'tabler:shield-check'
 
 testimonials:
   tagline: 'Customer Trust'
   title: 'What our customers say'
-  subtitle: 'From first-time paddlers to professional fleet operators — see why they trust afarer.'
+  subtitle: 'From first-time paddlers to professional fleet operators — see why they trust olagoon.'
   items:
-    - content: 'We outfitted our entire rental fleet with afarer SUPs. Two seasons in, zero failures. The CE certification made insurance approval seamless.'
+    - content: 'We outfitted our entire rental fleet with olagoon SUPs. Two seasons in, zero failures. The CE certification made insurance approval seamless.'
       name: 'Marco V.'
       title: 'Tour operator, Croatia'
     - content: 'As a first-time buyer, I was nervous about quality. The ISO documentation and test reports they shared gave me complete confidence.'
       name: 'James T.'
       title: 'SUP Explorer 11 owner, Canada'
-    - content: 'We work with afarer for our coastal patrol units. Their QC process is consistent across every batch — that reliability matters in mission-critical operations.'
+    - content: 'We work with olagoon for our coastal patrol units. Their QC process is consistent across every batch — that reliability matters in mission-critical operations.'
       name: 'Lt. Cmdr. Andres'
       title: 'Government procurement, Philippines'
 
@@ -115,7 +115,7 @@ warranty_section:
   subtitle: 'We stand behind every product with clear warranty terms, fast claims processing, and genuine replacement parts.'
   items:
     - title: '3-Year Product Warranty'
-      desc: 'All afarer products carry a 3-year warranty against manufacturing defects — seam failure, valve defects, and material delamination under normal use.'
+      desc: 'All olagoon products carry a 3-year warranty against manufacturing defects — seam failure, valve defects, and material delamination under normal use.'
     - title: 'Lifetime Parts Support'
       desc: 'Genuine replacement parts — valves, repair kits, fins, D-rings — available for all models. We maintain moulds and tooling for a minimum of 5 years after production end.'
     - title: '48-Hour Claim Response'
@@ -148,35 +148,35 @@ faqs_sup:
   subtitle: 'Common questions about our stand-up paddle boards.'
   columns: 2
   items:
-    - title: 'What SUP board sizes does afarer offer?'
+    - title: 'What SUP board sizes does olagoon offer?'
       description: 'We offer SUP boards from 9 ft to 12 ft, covering everything from compact all-around boards to touring and specialty designs. Each model is available with multiple configuration options.'
     - title: 'What is the difference between an inflatable SUP and a hard SUP?'
       description: 'An inflatable SUP uses drop-stitch construction with thousands of internal threads allowing high air pressure, while a hard SUP uses epoxy or fiberglass. Inflatable SUPs offer portability and storage convenience without sacrificing rigidity.'
     - title: 'What is the weight limit for SUP boards?'
       description: 'Our SUP boards support up to 150 kg depending on the model and volume. Each product page lists the maximum load rating for your specific model.'
-    - title: 'Are afarer SUPs CE certified?'
+    - title: 'Are olagoon SUPs CE certified?'
       description: 'Yes. All recreational SUP models are CE certified under applicable European standards for recreational use.'
     - title: 'What is the warranty on SUP boards?'
-      description: 'All afarer SUPs come with a standard 3-year warranty against manufacturing defects, covering seam failure, valve defects, and material delamination under normal use.'
+      description: 'All olagoon SUPs come with a standard 3-year warranty against manufacturing defects, covering seam failure, valve defects, and material delamination under normal use.'
     - title: 'How long does it take to inflate a SUP board?'
-      description: 'Using the included hand pump, a full inflation to 15 PSI takes approximately 8–12 minutes. For faster inflation, we recommend our afarer 12V electric pump, which inflates a board in under 4 minutes.'
+      description: 'Using the included hand pump, a full inflation to 15 PSI takes approximately 8–12 minutes. For faster inflation, we recommend our olagoon 12V electric pump, which inflates a board in under 4 minutes.'
 
 faqs_materials:
   title: 'SUP Material & Care FAQs'
   subtitle: 'Common questions about our inflatable SUP materials, care, and storage.'
   columns: 2
   items:
-    - title: 'What materials are used in afarer inflatable SUPs?'
+    - title: 'What materials are used in olagoon inflatable SUPs?'
       description: 'We use military-grade PVC (1100 denier) with UV-stabilized, abrasion-resistant construction, compliant with EU REACH and RoHS regulations.'
     - title: 'How long do inflatable SUPs last?'
       description: 'With proper care, a quality PVC inflatable SUP lasts 5–10 years. Regular cleaning, UV protection, and proper storage significantly extend service life.'
     - title: 'What maintenance is required for an inflatable SUP?'
       description: 'Basic maintenance includes rinsing with fresh water after each use (especially in saltwater), drying before storage, checking valve seals annually, and avoiding prolonged sun exposure when not in use.'
     - title: 'Can inflatable SUPs be used in saltwater?'
-      description: 'Yes. All afarer inflatable SUPs are designed for both freshwater and saltwater use. We recommend rinsing with fresh water and drying thoroughly after saltwater exposure.'
+      description: 'Yes. All olagoon inflatable SUPs are designed for both freshwater and saltwater use. We recommend rinsing with fresh water and drying thoroughly after saltwater exposure.'
     - title: 'How do I store an inflatable SUP?'
       description: 'Deflate, clean, and dry the board completely before storage. Roll loosely (avoid tight folds), store in a cool dry place away from direct sunlight, and keep off concrete floors to prevent moisture wicking.'
-    - title: 'What is the weight capacity of afarer inflatable SUPs?'
+    - title: 'What is the weight capacity of olagoon inflatable SUPs?'
       description: 'Weight capacities range from 100 kg for our smallest models to over 200 kg for larger boards. Each product page lists the maximum load rating for your specific model.'
 
 cta:

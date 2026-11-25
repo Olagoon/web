@@ -6,11 +6,11 @@ hero:
   title: Starta, driv och utveckla din paddelklubb<br />med SUP-flottor i kommersiell kvalitet
   subtitle: SUP-utrustningsleverantör för paddelklubbar och SUP-skolor världen över – hållbara kommersiella tavlor, klubbpriser vid volymköp, skräddarsydd varumärkesprofil och snabba reservdelar, så att du kan fokusera på att få din community att växa.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: Paddleklubbmedlemmar på matchande Afarer SUP-brädor
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: Paddleklubbmedlemmar på matchande OLagoon SUP-brädor
 benefits:
   title: Förmåner för klubbflottor
-  subtitle: Varför paddelklubber i över 50 länder väljer Afarer som sin utrustningspartner.
+  subtitle: Varför paddelklubber i över 50 länder väljer OLagoon som sin utrustningspartner.
   items:
     - metric: 40%+
       label: Flottkostnadssbesparingar
@@ -81,7 +81,7 @@ training:
         - Utbildningsplan och certifieringsstöd
         - CE-certifierad utrustning
 features:
-  title: Varför klubbar väljer Afarer
+  title: Varför klubbar väljer OLagoon
   subtitle: Konsekvent kvalitet, snabba delar och volympriser byggda för växande klubbar.
   items:
     - title: 500+ uthyrningscykler

@@ -129,7 +129,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Technologická společnost z žebříčku Fortune 500 chtěla spustit vodní wellness program pro zaměstnance na 4 globálních areálech u jezer: 60 SUP s firemním brandingem, skladováním a školením instruktorů.',
     solution:
-      'Dodali flotilu stabilních all-around SUP s grafikou palub s logem firmy. Navrhli povětrnostně odolné stojany na skladování na místě. Certifikovali 12 interních instruktorů prostřednictvím školicího programu afarer.',
+      'Dodali flotilu stabilních all-around SUP s grafikou palub s logem firmy. Navrhli povětrnostně odolné stojany na skladování na místě. Certifikovali 12 interních instruktorů prostřednictvím školicího programu olagoon.',
     result:
       'Program spuštěn na 4 kampusích. 2,400+ účastí zaměstnanců v prvním roce. 94% spokojenost zaměstnanců. Uvedeno ve zprávě o udržitelnosti společnosti.',
     outcomeMetrics: [
@@ -381,7 +381,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'kompletní produktová řada — SUP, čluny, příslušenství',
     industry: 'Distribuce / Námořní',
     challenge:
-      'Distributor se sídlem v GCC usiloval o výhradní práva na kompletní produktovou řadu Afarer v 6 zemích Perského zálivu s arabským obalem, materiály odolnými proti teplu a zárukou v souladu se šaríou.',
+      'Distributor se sídlem v GCC usiloval o výhradní práva na kompletní produktovou řadu OLagoon v 6 zemích Perského zálivu s arabským obalem, materiály odolnými proti teplu a zárukou v souladu se šaríou.',
     solution:
       'Uzavřeli exkluzivní distribuční smlouvu. Vyvinuli arabské obaly a marketingové materiály. Ověřili specifikace materiálů při okolní teplotě 50°C. Přizpůsobili záruční podmínky regionálním předpisům.',
     result:

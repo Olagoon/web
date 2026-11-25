@@ -8,7 +8,7 @@ const pages = [
   'de/use-cases/touring',
 ];
 for (const p of pages) {
-  const f = 'E:/github/afarer/dist/' + p + '/index.html';
+  const f = 'E:/github/olagoon/dist/' + p + '/index.html';
   if (!fs.existsSync(f)) {
     console.log(p, ': MISSING');
     continue;

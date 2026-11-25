@@ -1,6 +1,6 @@
 meta:
   title: 'Fabrik & produktion — oppustelig SUP-OEM | {SITE}'
-  description: 'Besøg afarers fabrik: facility på 12.000 m² med skæring, HF-svejsning, print, montering og kvalitetslaboratorium til OEM/ODM-produktion af oppustelige SUP-brædder.'
+  description: 'Besøg olagoons fabrik: facility på 12.000 m² med skæring, HF-svejsning, print, montering og kvalitetslaboratorium til OEM/ODM-produktion af oppustelige SUP-brædder.'
   keywords:
     - 'SUP-fabrik Kina'
     - 'oppustelig paddle board fabrik'
@@ -12,7 +12,7 @@ hero:
   subtitle: 12.000 m² moderne produktionsfacilitet i Qingdao, Kina.
 intro:
   - >-
-    Som fabriksbrand under **Qingdao Vatrad Group Co., Ltd.** kontrollerer afarer alle produktionsled — fra ankomsten af rå PVC-materialer til den endelige inspektion af det færdige SUP-bræt inden levering. Vores produktionsanlæg i Qingdao Economic Development Zone strækker sig over 12.000
+    Som fabriksbrand under **Qingdao Vatrad Group Co., Ltd.** kontrollerer olagoon alle produktionsled — fra ankomsten af rå PVC-materialer til den endelige inspektion af det færdige SUP-bræt inden levering. Vores produktionsanlæg i Qingdao Economic Development Zone strækker sig over 12.000
     kvadratmeter og huser dedikerede værksteder til PVC-skæring, samling af drop-stitch-kerner, digital tryk på SUP-brætter, slutmontage og kvalitetstestning.
   - >-
     Ved at samle design, ingeniørarbejde, prototyping, produktion og testning under ét tag eliminerer vi ineffektiviteten ved kontraktproduktion og bevarer den direkte kontrol over byggekvalitet, materialevalg og leveringstider. Hver SUP, der forlader vores værksted, er bygget af vores folk, på
@@ -68,22 +68,22 @@ workshops_section:
   workshops:
     - title: PVC-skæring & materialeforberedelse
       description: Automatiske CNC-skæremaskiner forarbejder PVC- og drop-stitch-stoffer med præcision på under en millimeter. Computeroptimeret nesting minimerer materialespild og sikrer, at hver panel opfylder sin dimensionsspecifikation, før svejsning.
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: Rørsvejsning & varmeforsegling
       description: Dedikeret svejseværksted med varmeforseglingsmaskiner og RF-dielektriske presser. Varmluftsforseglere binder og svejser PVC-kammerrør sammen, mens RF-svejsninger giver stærke, lufttætte sømme, der overgår EN ISO 25649-kravene.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: Drop-Stitch kernebinding
       description: Drop-stitch-kernerne på SUP-boards bindes til de ydre PVC-laminater ved varmelaminering. Tusindvis af indre polyestertråde forbinder top- og bundlag og skaber en stiv struktur ved 12-15 PSI. Kantbåndene er fusionssvejset i tre lag for styrke langs kanterne.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: SUP-tryk og dekoration
       description: SUP-boards dekoreres med digitaltryk til fuldfarvegrafik og serigrafi til logoer og gentagne mønstre. Digitale printere producerer dækdesign i fotokvalitet, mens serigrafi giver holdbare, levende brandmarkeringer.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: Endelig samling og tilpasning
       description: Samlebånd, hvor ventiler, D-ringe, håndtag, finnekasser og dækpuder monteres på hvert SUP-bræt. Hvert bræt følger en samlecheckliste med 100 punkter, som godkendes af teamlederen.
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: Kvalitetstest & inspektion
       description: Alle færdige boards gennemgår obligatorisk lufttæthedstest, kontrol af sømmenes vedhæftning og et fuldt systemsjek inden afsendelse. Vores kvalitetslaboratorium arbejder uafhængigt af produktionen og rapporterer direkte til ledelsen.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 equipment_section:
   tagline: Udstyr
   title: Vigtigste produktionsudstyr
@@ -136,7 +136,7 @@ faq_section:
   questions:
     - q: Hvad er minimumsordreantallet (MOQ) for OEM-oppustelige SUP-brædder?
       a: MOQ starter ved 5–10 enheder for standard-OEM-modeller. Specialforme og private-label-projekter kræver et minimum på 200 enheder afhængigt af kompleksitet. Prøveordrer og samplekørsler er tilgængelige for nye brandlanceringer.
-    - q: Har afarer BSCI-certificering?
+    - q: Har olagoon BSCI-certificering?
       a: Ja. Vores fabrik har en gyldig BSCI-certificering for social overholdelse (auditrapport kan udleveres på forespørgsel). Vi har desuden ISO 9001 til kvalitetsstyring, og alle produkter bærer CE-certificering. Dokumentation for REACH- og RoHS-overholdelse medfølger ved hver OEM-forsendelse.
     - q: Hvad er den typiske leveringstid for en OEM-ordre?
       a: Standardleveringstiden er 30–45 dage fra bekræftet ordre og depositum ved OEM-serieproduktion. Udvikling af specialforme tilføjer 15–20 dage til værktøjsfremstilling. Fremskyndet produktion er tilgængelig for hastende ordrer og sæsonspidser. Prototypeprøver sendes typisk inden for 15–20 dage.

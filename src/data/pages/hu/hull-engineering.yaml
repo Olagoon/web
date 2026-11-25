@@ -8,10 +8,10 @@ hero:
   tagline: 'Labor 02'
   title: 'Hajótest-mérnöki stúdió'
   subtitle: 'Digitális szimuláció, szerkezeti intelligencia, egyedi hajótesttervezés'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Afarer hajótest-mérnöki CAD tervező munkaállomás'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'OLagoon hajótest-mérnöki CAD tervező munkaállomás'
 
-intro: 'A hajótest minden felfújható SUP gerince. Elég könnyűnek kell lennie a hatékony sikláshoz, elég erősnek a sziklás partvonalak kezeléséhez és elég merevnek, hogy minden evezőhúzást előrehaladássá alakítson. Az Afarernél Hajótest-mérnöki stúdiónk ötvözi a fejlett CAD modellezést, a véges elemes elemzést (FEA) és évtizedek gyakorlati laptervezési tapasztalatát, hogy olyan hajótesteket szállítson, amelyek a szánt diszciplínára vannak optimalizálva — nem katalógusból átvett általános formák.'
+intro: 'A hajótest minden felfújható SUP gerince. Elég könnyűnek kell lennie a hatékony sikláshoz, elég erősnek a sziklás partvonalak kezeléséhez és elég merevnek, hogy minden evezőhúzást előrehaladássá alakítson. Az OLagoonnél Hajótest-mérnöki stúdiónk ötvözi a fejlett CAD modellezést, a véges elemes elemzést (FEA) és évtizedek gyakorlati laptervezési tapasztalatát, hogy olyan hajótesteket szállítson, amelyek a szánt diszciplínára vannak optimalizálva — nem katalógusból átvett általános formák.'
 
 content_html: |
   <h2>Ahol az erő találkozik a hidrodinamikával</h2>

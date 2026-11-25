@@ -25,7 +25,7 @@ hero:
       href: /inflatable-sup/
       icon: tabler:waves
     - text: Зашто Афарер
-      href: /afarer-story/
+      href: /olagoon-story/
       icon: tabler:heart
   image:
     src: ~/assets/images/hero-image.webp

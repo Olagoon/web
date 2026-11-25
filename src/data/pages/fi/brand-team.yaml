@@ -1,22 +1,22 @@
 meta:
   title: 'Tiimimme — meri-insinöörit ja rakentajat | {SITE}'
-  description: 'Vuonna 2012 Qingdaossa perustettu afarer rakennettiin meri-insinöörien, materiaalitutkijoiden ja vesiliikunta-intoilijoiden voimin. Tutustu tehtaan takana olevaan tiimiin.'
+  description: 'Vuonna 2012 Qingdaossa perustettu olagoon rakennettiin meri-insinöörien, materiaalitutkijoiden ja vesiliikunta-intoilijoiden voimin. Tutustu tehtaan takana olevaan tiimiin.'
   keywords:
-    - 'afarerin tiimi'
+    - 'olagoonin tiimi'
     - 'meri-insinöörit'
     - 'täytettävien SUP-lautojen valmistaja'
     - 'SUP-tehtaan tiimi'
 hero:
   tagline: Tiimimme
-  title: Ihmiset afarerin takana<br />— Suunnittelun vapaus vesillä
-  subtitle: Vuonna 2012 Qingdaossa, Kiinassa perustettu afarer rakennettiin meri-insinöörien, materiaalitieteilijöiden ja vesiurheilun harrastajien toimesta, jotka uskoivat ammattitason täytettävien vesikulkuneuvojen saamiseen saataville maailmanlaajuisesti.
+  title: Ihmiset olagoonin takana<br />— Suunnittelun vapaus vesillä
+  subtitle: Vuonna 2012 Qingdaossa, Kiinassa perustettu olagoon rakennettiin meri-insinöörien, materiaalitieteilijöiden ja vesiurheilun harrastajien toimesta, jotka uskoivat ammattitason täytettävien vesikulkuneuvojen saamiseen saataville maailmanlaajuisesti.
   image:
     src: /images/team-all.webp
-    alt: afarerin koko tiimin kuva — suunnittelu, tuotanto ja johto
+    alt: olagoonin koko tiimin kuva — suunnittelu, tuotanto ja johto
 founding:
   tagline: Perustamme
   title: Rannikkopajasta<br />12 000 m² laitokseksi
-  subtitle: afarer perustettiin meri-insinöörien toimesta, joilla on vuosikymmenten yhdistetty kokemus täytettävien SUP-lautojen suunnittelusta, PVC-valmistuksesta ja maailmanlaajuisesta merivarustevalmistuksesta.
+  subtitle: olagoon perustettiin meri-insinöörien toimesta, joilla on vuosikymmenten yhdistetty kokemus täytettävien SUP-lautojen suunnittelusta, PVC-valmistuksesta ja maailmanlaajuisesta merivarustevalmistuksesta.
   items:
     - title: 'Perustettu: 2012'
       description: Perustettu Qingdaossa, Kiinassa — merkittävä merenkulun keskus, jolla on syvä laivanrakennusperintö.
@@ -40,7 +40,7 @@ leadership:
       name: Toby Liu
       description: Yli 15 vuotta meriteollisuuden valmistuksessa. Aiemmin johti T&K:ta suuressa kiinalaisessa melontaurheilun valmistajassa. Omistaa useita patenteja täytettävien SUP-lautojen suunnittelussa.
       icon: tabler:crown
-      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-toby-liu-team.webp
     - title: Pääinsinööri
       name: Zhang Wei
       description: Yli 20 vuotta PVC-valmistusta ja drop-stitch-suunnittelua. Toiminut aiemmin teknisenä johtajana eurooppalaisessa melontaurheilubrändissä.
@@ -65,13 +65,13 @@ leadership:
       name: Helen Lee
       description: Yli 15 vuoden kokemus kansainvälisestä B2B-kaupasta. Hallinnut co-brand- ja jakelukumppanuuksia yli 30 maassa. Sujuvaa neljällä kielellä.
       icon: tabler:briefcase
-      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+      image: https://assets.olagoon.com/images/olagoon/team/olagoon-helen-contact-sales.webp
 philosophy:
   tagline: Suunnittelufilosofia
   title: Insinöörivetoinen suunnittelu<br />— jokainen yksityiskohta on tärkeä
   subtitle: Suunnittelufilosofiamme perustuu kolmeen periaatteeseen, jotka ohjaavat jokaista rakentamaamme tuotetta.
   list:
-    - 'Luotettavuus ensin: Jokainen afarer-tuote on testattu kestämään todellisia olosuhteita – kylmän veden pelastustoimista trooppisten lomakohteiden vuokrauksiin. Suunnittelemme ylimitä, missä se on tärkeintä.'
+    - 'Luotettavuus ensin: Jokainen olagoon-tuote on testattu kestämään todellisia olosuhteita – kylmän veden pelastustoimista trooppisten lomakohteiden vuokrauksiin. Suunnittelemme ylimitä, missä se on tärkeintä.'
     - 'Valmistuksen tarkkuus: Laitoksemme käyttävät CNC-leikkausta, korkeataajuushitsausta ja automatisoitua painetestausta. Jokainen sauma, jokainen venttiili ja jokainen liitin täyttää dokumentoidut vaatimukset.'
     - 'Jatkuva innovaatio: T&K-tiimimme arvioi uusia materiaaleja, tuotantomenetelmiä ja suunnitteluparannuksia jatkuvasti. Emme odota ongelmien ilmaantumista — vaan ennakoimme ne.'
 cta:

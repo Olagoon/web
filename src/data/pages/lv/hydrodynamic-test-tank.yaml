@@ -9,10 +9,10 @@ hero:
   tagline: 'Laboratorija 04'
   title: 'Hidrodinamiskais testa baseins'
   subtitle: 'Veiktspējas validācija pirms pirmā pilna mēroga prototipa'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp'
-  image_alt: 'Afarer hidrodinamiskā testa baseina veiktspējas testēšana'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp'
+  image_alt: 'OLagoon hidrodinamiskā testa baseina veiktspējas testēšana'
 
-intro: 'Bieža maldīšanās ir uzskats, ka hidrodinamiskā testēšana rezervēta okeāna kuģiem. Patiesībā maza glisējošā korpusa — piemēram, piepūšamā SUP — veiktspēja tikpat lielā mērā atkarīga no tā zemūdens formas, cik tankkuģis no sava spuldzes deguna. Trimmešanas leņķis, apmērcētās virsmas laukums, šļakatu veidošanās un ventilācija ievērojami ietekmē slīdi, ātrumu un brauciena komfortu. Afarer mēs izmantojam īpašu hidrodinamisko testa baseinu, kas ļauj mums kvantificēt šos efektus modeļa mērogā — pirms auduma un veidņu investēšanas pilna izmēra prototipā.'
+intro: 'Bieža maldīšanās ir uzskats, ka hidrodinamiskā testēšana rezervēta okeāna kuģiem. Patiesībā maza glisējošā korpusa — piemēram, piepūšamā SUP — veiktspēja tikpat lielā mērā atkarīga no tā zemūdens formas, cik tankkuģis no sava spuldzes deguna. Trimmešanas leņķis, apmērcētās virsmas laukums, šļakatu veidošanās un ventilācija ievērojami ietekmē slīdi, ātrumu un brauciena komfortu. OLagoon mēs izmantojam īpašu hidrodinamisko testa baseinu, kas ļauj mums kvantificēt šos efektus modeļa mērogā — pirms auduma un veidņu investēšanas pilna izmēra prototipā.'
 
 content_html: |
   <h2>Kāpēc testēt airu dēli baseinā?</h2>

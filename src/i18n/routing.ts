@@ -11,7 +11,7 @@ export const LOCALIZED_ROUTES = new Set([
   '/use-cases',
   '/compare',
   '/compare/inflatable-vs-hardboard',
-  '/llms/brand/afarer',
+  '/llms/brand/olagoon',
   '/llms/compare/sup-types',
   '/llms/industry/inflatable-water-sports',
   '/learn',
@@ -41,7 +41,7 @@ export const LOCALIZED_ROUTES = new Set([
 
   '/learn/water-safety',
   '/learn/materials',
-  '/compare/afarer-vs-traditional-manufacturers',
+  '/compare/olagoon-vs-traditional-manufacturers',
   '/factory/capacity',
   '/factory/quality-lab',
   '/factory/oem-capability',

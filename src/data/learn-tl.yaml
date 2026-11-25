@@ -1,10 +1,10 @@
 misc:
   readGuide: Basahin ang gabay →
   techDesc: Inhenyeriya ng kaligtasan pandagat at pagsubok ng mga materyales
-  productsDesc: Tuklasin ang kumpletong katalogo ng produkto ng Afarer
+  productsDesc: Tuklasin ang kumpletong katalogo ng produkto ng OLagoon
   trustDesc: Pagsunod sa CE, ISO at BSCI
 sup:
-  title: Kaalaman sa SUP — Mga Gabay at Sanggunian sa Inflatable SUP | Afarer
+  title: Kaalaman sa SUP — Mga Gabay at Sanggunian sa Inflatable SUP | OLagoon
   description: Kumpletong hub ng kaalaman sa SUP na sumasaklaw sa mga gabay para sa baguhan, pagsukat ng board, mga tutorial sa teknik, mga tip sa kaligtasan, at teknolohiya ng inflatable SUP.
   articles:
     - title: Mga Batayang SUP — Gabay para sa Baguhan
@@ -26,7 +26,7 @@ sup:
       desc: Mahahalagang kaalaman sa kaligtasan kabilang ang pagbasa ng panahon, pagpili ng PFD, self-rescue, at pagpa-paddle sa grupo.
       href: /learn/water-safety/
 water-safety:
-  title: Kaalaman sa Kaligtasan sa Tubig — Mga Gabay sa Ligtas na Pagpa-paddle | Afarer
+  title: Kaalaman sa Kaligtasan sa Tubig — Mga Gabay sa Ligtas na Pagpa-paddle | OLagoon
   description: Komprehensibong mga sanggunian sa kaligtasan sa tubig para sa SUP, kayaking, at pagbabangka. Matuto tungkol sa pagpili ng PFD, pagbasa ng panahon, self-rescue, kaligtasan sa malamig na tubig, at sertipikasyong CE.
   articles:
     - title: Gabay sa Kaligtasan sa Tubig
@@ -49,7 +49,7 @@ water-safety:
       href: /trust/
 sup-basics:
   title: Mga Batayang SUP — Gabay ng Baguhan sa Stand-Up Paddle Boarding
-  description: Lahat ng kailangan mong malaman upang magsimula sa stand-up paddle boarding. Mga gabay sa kagamitan, payo sa pagsukat, mga tip sa kaligtasan, at mga teknik para sa baguhan mula sa sentro ng kaalaman ng Afarer.
+  description: Lahat ng kailangan mong malaman upang magsimula sa stand-up paddle boarding. Mga gabay sa kagamitan, payo sa pagsukat, mga tip sa kaligtasan, at mga teknik para sa baguhan mula sa sentro ng kaalaman ng OLagoon.
   articles: []
 drop-stitch-core:
   title: Teknolohiya ng Drop-Stitch Core — Paano Nakakamit ng mga Inflatable SUP ang Tigas

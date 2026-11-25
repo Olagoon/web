@@ -108,7 +108,7 @@ const SR_FORBIDDEN = ['ё', 'ы', 'э', 'ю', 'я', 'щ', 'ъ', 'ь', 'й', 'и�
 
 // Allowed EN words in translations (brands/acronyms/common)
 const ALLOW_EN =
-  /(afarer|SUP|PVC|CE|ISO|OEM|ODM|MOQ|PSI|EVA|PFD|USCG|VHF|GPS|UV|HH-66|Clifton|Rite in the Rain|The Wedge|Gordon and Betty Moore|SUP Explorer 11|SUP Tour 12|SUP Ocean Pulse|SUP Tropical Breeze|SUP Leviathan Wake|SUP Ocean Voyager|Life Vest Classic|Life Vest Pro)/;
+  /(olagoon|SUP|PVC|CE|ISO|OEM|ODM|MOQ|PSI|EVA|PFD|USCG|VHF|GPS|UV|HH-66|Clifton|Rite in the Rain|The Wedge|Gordon and Betty Moore|SUP Explorer 11|SUP Tour 12|SUP Ocean Pulse|SUP Tropical Breeze|SUP Leviathan Wake|SUP Ocean Voyager|Life Vest Classic|Life Vest Pro)/;
 
 function collectText(rec, out) {
   for (const f of TEXT_FIELDS) if (typeof rec[f] === 'string') out.push(rec[f]);

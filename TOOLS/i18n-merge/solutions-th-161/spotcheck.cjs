@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dist = 'E:/github/afarer/dist';
+const dist = 'E:/github/olagoon/dist';
 const partsDir = path.join(__dirname, 'parts');
 const slugs = [
   'sup-brand-startup',

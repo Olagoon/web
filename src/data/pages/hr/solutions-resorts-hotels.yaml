@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Odmarališta i hoteli'
   title: 'Pretvorite svoju obalu u centar prihoda<br />vrhunskim flotama SUP dasaka'
-  subtitle: 'Afarer oprema odmarališta diljem svijeta flotama napuhivih SUP dasaka komercijalne klase — od početnih paketa s 20 dasaka do vodećih programa sa 100+ dasaka. Uključeni su prilagođeno brendiranje, obuka osoblja i rezervni dijelovi.'
+  subtitle: 'OLagoon oprema odmarališta diljem svijeta flotama napuhivih SUP dasaka komercijalne klase — od početnih paketa s 20 dasaka do vodećih programa sa 100+ dasaka. Uključeni su prilagođeno brendiranje, obuka osoblja i rezervni dijelovi.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Gosti odmarališta uživaju u SUP daskama na netaknutoj plaži'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Povrat cijele investicije u flotu unutar jedne sezone'
     - metric: '40%'
       label: 'Povećanje prihoda'
-      detail: 'Prosječno povećanje nakon prelaska na Afarer flote'
+      detail: 'Prosječno povećanje nakon prelaska na OLagoon flote'
     - metric: '500+'
       label: 'Ciklusa iznajmljivanja po dasci'
       detail: 'Trajnost komercijalne klase za svakodnevnu upotrebu'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Nabavite flagship paket'
 
 case_study:
-  quote: 'Od prelaska na Afarer prihod od iznajmljivanja SUP dasaka porastao nam je 40%. Troškovi zamjene dasaka pali su 60%. Cijelu investiciju u flotu vratili smo za 4 mjeseca.'
+  quote: 'Od prelaska na OLagoon prihod od iznajmljivanja SUP dasaka porastao nam je 40%. Troškovi zamjene dasaka pali su 60%. Cijelu investiciju u flotu vratili smo za 4 mjeseca.'
   author: 'Voditelj aktivnosti na vodi'
   location: 'odmaralište s 5 zvjezdica, Maldivi'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 mjeseca'
 
 features:
-  title: 'Zašto odmarališta odabiru Afarer'
+  title: 'Zašto odmarališta odabiru OLagoon'
   subtitle: 'Trajnost komercijalne klase, globalna logistika i partner koji razumije ugostiteljstvo.'
   items:
     - title: '500+ ciklusa iznajmljivanja'

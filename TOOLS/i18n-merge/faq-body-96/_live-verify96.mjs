@@ -9,7 +9,7 @@ const drafts = {};
 for (const l of NEW_LOCALES) drafts[l] = JSON.parse(readFileSync(base + '_faq-' + l + '.json', 'utf8'));
 const enDraft = JSON.parse(readFileSync(base + '_faq-en.json', 'utf8'));
 
-const require = createRequire('file:///E:/github/afarer/package.json');
+const require = createRequire('file:///E:/github/olagoon/package.json');
 const yaml = require('js-yaml');
 
 const decode = (s) =>
@@ -22,7 +22,7 @@ const decode = (s) =>
     .replace(/&gt;/g, '>');
 
 const fetchHtml = async (p) => {
-  const res = await fetch('https://afarer.com' + p, { redirect: 'follow' });
+  const res = await fetch('https://olagoon.com' + p, { redirect: 'follow' });
   if (!res.ok) return { err: 'HTTP ' + res.status };
   return { html: decode(await res.text()) };
 };
@@ -95,7 +95,7 @@ for (const l of NEW_LOCALES) {
 
 // de/fr/es regression: yaml q+a intact (all 53)
 for (const l of ['de', 'fr', 'es']) {
-  const data = yaml.load(readFileSync('E:/github/afarer/src/data/faq-' + l + '.yaml', 'utf8'));
+  const data = yaml.load(readFileSync('E:/github/olagoon/src/data/faq-' + l + '.yaml', 'utf8'));
   const p = '/' + l + '/faq/';
   try {
     const pg = await fetchHtml(p);

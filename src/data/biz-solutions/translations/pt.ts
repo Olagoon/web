@@ -13,9 +13,9 @@ const pt: Record<string, SolutionOverride> = {
       title:
         'Soluções Profissionais de Equipamento SUP Para Clubes de Paddle, Operadores de Aluguer e Escolas de Desportos Aquáticos',
       subtitle:
-        'A Afarer fornece Soluções de Frota SUP Comercial concebidas especificamente para operadores profissionais. Ajudamos escolas de SUP, clubes de paddle, empresas de aluguer, resorts, operadores de aventura e organizadores de eventos a construir frotas de equipamento fiáveis, com construção de grau comercial e apoio a longo prazo.',
+        'A OLagoon fornece Soluções de Frota SUP Comercial concebidas especificamente para operadores profissionais. Ajudamos escolas de SUP, clubes de paddle, empresas de aluguer, resorts, operadores de aventura e organizadores de eventos a construir frotas de equipamento fiáveis, com construção de grau comercial e apoio a longo prazo.',
       image: {
-        alt: 'Frota SUP comercial Afarer para clubes de paddle e escolas de desportos aquáticos',
+        alt: 'Frota SUP comercial OLagoon para clubes de paddle e escolas de desportos aquáticos',
       },
     },
     challenge: {
@@ -49,7 +49,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Construção SUP Insuflável de Grau Comercial',
           description:
-            'Os produtos SUP comerciais da Afarer apresentam sistemas de material PVC reforçado com maior resistência à abrasão, reforço multicamada das laterais para resistência a impactos, estrutura drop stitch de alta densidade para rigidez e sistemas de válvulas robustos concebidos para ciclos frequentes de insuflação.',
+            'Os produtos SUP comerciais da OLagoon apresentam sistemas de material PVC reforçado com maior resistência à abrasão, reforço multicamada das laterais para resistência a impactos, estrutura drop stitch de alta densidade para rigidez e sistemas de válvulas robustos concebidos para ciclos frequentes de insuflação.',
           features: [
             'Sistema de material PVC reforçado',
             'Reforço multicamada das laterais',
@@ -60,7 +60,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Design de Produto SUP Otimizado Para Frotas',
           description:
-            'A Afarer desenvolve equipamento SUP com base em necessidades operacionais, com frotas de formação dedicadas a principiantes, frotas de aluguer para utilizadores frequentes e frotas de eventos para atividades de grupo. Cada configuração foca a estabilidade, a durabilidade e a facilidade de manutenção.',
+            'A OLagoon desenvolve equipamento SUP com base em necessidades operacionais, com frotas de formação dedicadas a principiantes, frotas de aluguer para utilizadores frequentes e frotas de eventos para atividades de grupo. Cada configuração foca a estabilidade, a durabilidade e a facilidade de manutenção.',
           features: [
             'Frota SUP de formação para aulas',
             'Frota de aluguer para utilizadores frequentes',
@@ -71,12 +71,12 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Configuração Completa de Pacote Comercial',
           description:
-            'A Afarer ajuda a criar pacotes completos de frota incluindo pranchas SUP insufláveis, pagaias profissionais, bombas de alta pressão, leashes duráveis, mochilas reforçadas e kits de reparação, com opções adicionais como válvulas suplentes, quilhas extra e pegas de substituição.',
+            'A OLagoon ajuda a criar pacotes completos de frota incluindo pranchas SUP insufláveis, pagaias profissionais, bombas de alta pressão, leashes duráveis, mochilas reforçadas e kits de reparação, com opções adicionais como válvulas suplentes, quilhas extra e pegas de substituição.',
         },
         {
           title: 'Personalização de Frota Para Negócios Aquáticos',
           description:
-            'Os operadores comerciais precisam de uma forte identidade visual. A Afarer apoia a personalização do logótipo, a personalização de cores em sintonia com a marca do clube ou o ambiente do resort e sistemas de identificação de frota com impressão de números e identificação de modelos para gerir grandes frotas com eficiência.',
+            'Os operadores comerciais precisam de uma forte identidade visual. A OLagoon apoia a personalização do logótipo, a personalização de cores em sintonia com a marca do clube ou o ambiente do resort e sistemas de identificação de frota com impressão de números e identificação de modelos para gerir grandes frotas com eficiência.',
           features: [
             'Personalização do logótipo',
             'Personalização de cores',
@@ -87,27 +87,27 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Reduza os Custos Operacionais a Longo Prazo',
           description:
-            'A prancha mais barata nem sempre é a mais rentável. As soluções da Afarer melhoram a vida útil do equipamento através de materiais mais resistentes, a eficiência da manutenção através de componentes padronizados e a rentabilidade do negócio através de menos paragens e maior utilização.',
+            'A prancha mais barata nem sempre é a mais rentável. As soluções da OLagoon melhoram a vida útil do equipamento através de materiais mais resistentes, a eficiência da manutenção através de componentes padronizados e a rentabilidade do negócio através de menos paragens e maior utilização.',
         },
         {
           title: 'Apoio a Negócios de Aluguer de SUP',
           description:
-            'Os operadores de aluguer precisam de equipamento que seja fácil para os clientes, fácil para a equipa e fácil de manter. A Afarer fornece designs amigáveis para principiantes com alta estabilidade, operação rápida para maior rotação de clientes e acessórios duráveis, incluindo pagaias resistentes e bombas fiáveis.',
+            'Os operadores de aluguer precisam de equipamento que seja fácil para os clientes, fácil para a equipa e fácil de manter. A OLagoon fornece designs amigáveis para principiantes com alta estabilidade, operação rápida para maior rotação de clientes e acessórios duráveis, incluindo pagaias resistentes e bombas fiáveis.',
         },
         {
           title: 'Soluções de Equipamento Para Escolas de SUP',
           description:
-            'Os instrutores de SUP precisam de equipamento que apoie a aprendizagem. Os produtos da Afarer podem ser otimizados para cursos de iniciantes, programas de jovens, treino de grupo e demonstrações de instrutores, com características que melhoram a experiência de ensino.',
+            'Os instrutores de SUP precisam de equipamento que apoie a aprendizagem. Os produtos da OLagoon podem ser otimizados para cursos de iniciantes, programas de jovens, treino de grupo e demonstrações de instrutores, com características que melhoram a experiência de ensino.',
         },
         {
           title: 'Soluções de Atividades Aquáticas Para Eventos e Resorts',
           description:
-            'Hotéis, resorts e empresas de eventos oferecem cada vez mais atividades de praia, team building e experiências ao ar livre. A Afarer apoia o planeamento de frotas, a personalização de produtos e a produção em lote para estas aplicações de hospitalidade.',
+            'Hotéis, resorts e empresas de eventos oferecem cada vez mais atividades de praia, team building e experiências ao ar livre. A OLagoon apoia o planeamento de frotas, a personalização de produtos e a produção em lote para estas aplicações de hospitalidade.',
         },
         {
           title: 'Manutenção e Apoio Pós-Venda',
           description:
-            'Os operadores profissionais precisam de apoio após a entrega. A Afarer fornece planeamento de peças suplentes com materiais de reparação e acessórios de substituição, orientação de manutenção para armazenagem e limpeza, e apoio à expansão da frota para adicionar novas pranchas e modelos.',
+            'Os operadores profissionais precisam de apoio após a entrega. A OLagoon fornece planeamento de peças suplentes com materiais de reparação e acessórios de substituição, orientação de manutenção para armazenagem e limpeza, e apoio à expansão da frota para adicionar novas pranchas e modelos.',
           features: [
             'Planeamento de peças suplentes',
             'Orientação de manutenção',
@@ -129,7 +129,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Planeamento da Frota Comercial',
           detail:
-            'A Afarer analisou os padrões de utilização diária, os níveis de habilidade dos clientes e as condições do ambiente aquático, e recomendou de seguida uma configuração de frota SUP insuflável comercial adaptada às necessidades operacionais do clube.',
+            'A OLagoon analisou os padrões de utilização diária, os níveis de habilidade dos clientes e as condições do ambiente aquático, e recomendou de seguida uma configuração de frota SUP insuflável comercial adaptada às necessidades operacionais do clube.',
         },
         {
           title: 'Desenvolvimento de Produto',
@@ -161,35 +161,35 @@ const pt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubai, Emirados Árabes Unidos',
             background:
-              'Ahmed Al-Rashid, 41 anos, fundou o «Dubai Paddle Club» em 2020 com 8 SUP de nível de entrada alugados a partir de um contentor marítimo perto da Dubai Marina. Em 2023, a operação tinha crescido organicamente para 45 pranchas em duas localizações, mas sofria uma perda anual de inventário de 60% por delaminação, danos UV e corrosão da água salgada. A vida média das pranchas era de apenas 7 meses. Os 12 funcionários de Ahmed passavam 22 horas por semana em reparações em vez de atender clientes. Procurou a Afarer após um concorrente ter recomendado os seus iSUP, que duravam mais de 3 anos nas condições do Médio Oriente.',
+              'Ahmed Al-Rashid, 41 anos, fundou o «Dubai Paddle Club» em 2020 com 8 SUP de nível de entrada alugados a partir de um contentor marítimo perto da Dubai Marina. Em 2023, a operação tinha crescido organicamente para 45 pranchas em duas localizações, mas sofria uma perda anual de inventário de 60% por delaminação, danos UV e corrosão da água salgada. A vida média das pranchas era de apenas 7 meses. Os 12 funcionários de Ahmed passavam 22 horas por semana em reparações em vez de atender clientes. Procurou a OLagoon após um concorrente ter recomendado os seus iSUP, que duravam mais de 3 anos nas condições do Médio Oriente.',
             goal: 'Padronizar uma única frota durável de 200 pranchas em 3 localizações (Dubai Marina, Abu Dhabi Corniche e Fujairah Beach), com taxa de substituição anual ≤15% e utilização mensal por prancha 40% superior.',
           },
           steps: [
             {
               title: 'Testes de Stress de 14 Pranchas nas Condições de Verão dos Emirados',
               detail:
-                'Em maio de 2024, a Afarer enviou o diretor regional de vendas Karim Nasr e a engenheira de produto Sophie Chen para Dubai num teste de campo de 6 semanas. Implementaram 14 iSUP concorrentes e 6 protótipos da Afarer nas 3 localizações durante o pico do verão (temperatura ambiente de 48 °C, água a 35 °C, índice UV 11). A equipa de Ahmed registou mais de 1.100 horas de aluguer com dados sobre retenção de insuflação, falhas de válvula, abrasão e satisfação do cliente. As pranchas XHD de 15,0 mm da Afarer perderam apenas 0,3 PSI em 8 horas, contra 2,1 PSI em média nos concorrentes. As pranchas da Afarer não tiveram qualquer falha de válvula — os concorrentes tiveram em média 1 falha por 120 horas de aluguer.',
+                'Em maio de 2024, a OLagoon enviou o diretor regional de vendas Karim Nasr e a engenheira de produto Sophie Chen para Dubai num teste de campo de 6 semanas. Implementaram 14 iSUP concorrentes e 6 protótipos da OLagoon nas 3 localizações durante o pico do verão (temperatura ambiente de 48 °C, água a 35 °C, índice UV 11). A equipa de Ahmed registou mais de 1.100 horas de aluguer com dados sobre retenção de insuflação, falhas de válvula, abrasão e satisfação do cliente. As pranchas XHD de 15,0 mm da OLagoon perderam apenas 0,3 PSI em 8 horas, contra 2,1 PSI em média nos concorrentes. As pranchas da OLagoon não tiveram qualquer falha de válvula — os concorrentes tiveram em média 1 falha por 120 horas de aluguer.',
             },
             {
               title: 'Configuração Personalizada da Frota com Rastreio RFID e Código de Cores',
               detail:
-                'Com base nos dados de campo, a Afarer recomendou uma mistura de frota de 3 pranchas: 120 «Marina Pro 11.6» (all-around), 50 «Expedition 12.6» (touring para o litoral de Fujairah) e 30 «Yoga XL 10.8» (para aulas de nascer do sol lideradas por mulheres). A Afarer incorporou etiquetas RFID na caixa da quilha de cada prancha para o sistema de inventário personalizado de Ahmed, com leitores portáteis. As pranchas receberam código de cores por localização: Dubai Marina em azul-petróleo, Abu Dhabi em areia, Fujairah em azul-oceano. Ahmed acrescentou um prémio de $5/hora pelas pranchas da Afarer face à restante frota genérica — e viu 92% dos clientes escolher a Afarer.',
+                'Com base nos dados de campo, a OLagoon recomendou uma mistura de frota de 3 pranchas: 120 «Marina Pro 11.6» (all-around), 50 «Expedition 12.6» (touring para o litoral de Fujairah) e 30 «Yoga XL 10.8» (para aulas de nascer do sol lideradas por mulheres). A OLagoon incorporou etiquetas RFID na caixa da quilha de cada prancha para o sistema de inventário personalizado de Ahmed, com leitores portáteis. As pranchas receberam código de cores por localização: Dubai Marina em azul-petróleo, Abu Dhabi em areia, Fujairah em azul-oceano. Ahmed acrescentou um prémio de $5/hora pelas pranchas da OLagoon face à restante frota genérica — e viu 92% dos clientes escolher a OLagoon.',
             },
             {
               title: 'Formação de Pessoal e Protocolo de Manutenção Padronizado',
               detail:
-                'Em julho de 2024, a Afarer conduziu uma formação intensiva de 3 dias para os 15 funcionários de Ahmed na Dubai Marina. A formação abrangeu: técnica correta de insuflação/desinsuflação para prevenir desgaste da rosca da válvula, protocolos de lavagem com água doce (cronometrados em 90 segundos por prancha), aplicação de protetor UV a cada 30 horas de aluguer e procedimentos de empilhamento em armazenagem para prevenir vincos. A Afarer forneceu um kit de manutenção personalizado com manómetros calibrados, lubrificante de silicone e fitas de teste UV. Ahmed implementou uma lista de verificação digital diária com fotografias; a conformidade foi monitorizada e teve uma média de 94% nos primeiros 6 meses.',
+                'Em julho de 2024, a OLagoon conduziu uma formação intensiva de 3 dias para os 15 funcionários de Ahmed na Dubai Marina. A formação abrangeu: técnica correta de insuflação/desinsuflação para prevenir desgaste da rosca da válvula, protocolos de lavagem com água doce (cronometrados em 90 segundos por prancha), aplicação de protetor UV a cada 30 horas de aluguer e procedimentos de empilhamento em armazenagem para prevenir vincos. A OLagoon forneceu um kit de manutenção personalizado com manómetros calibrados, lubrificante de silicone e fitas de teste UV. Ahmed implementou uma lista de verificação digital diária com fotografias; a conformidade foi monitorizada e teve uma média de 94% nos primeiros 6 meses.',
             },
             {
               title: 'Lançamento em Agosto de 2024 e Resultados da Primeira Época',
               detail:
-                'A frota de 200 pranchas chegou pelo Porto de Jebel Ali, em Dubai, a 1 de agosto de 2024, com a formação da equipa de Ahmed concluída. A receita do primeiro mês atingiu AED 487.000 ($132.600), um aumento de 210% face ao mesmo mês do ano anterior. A localização de Fujairah acrescentou tours de SUP com mergulho livre a AED 220/pessoa, com uma média de 40 praticantes diários. Em dezembro de 2024, a utilização total da frota era de 73% em todas as localizações — a média da indústria é 45%. Apenas 3 pranchas sofreram danos (todas por mau uso dos clientes), reparadas ao abrigo da garantia comercial da Afarer em 5 dias úteis cada.',
+                'A frota de 200 pranchas chegou pelo Porto de Jebel Ali, em Dubai, a 1 de agosto de 2024, com a formação da equipa de Ahmed concluída. A receita do primeiro mês atingiu AED 487.000 ($132.600), um aumento de 210% face ao mesmo mês do ano anterior. A localização de Fujairah acrescentou tours de SUP com mergulho livre a AED 220/pessoa, com uma média de 40 praticantes diários. Em dezembro de 2024, a utilização total da frota era de 73% em todas as localizações — a média da indústria é 45%. Apenas 3 pranchas sofreram danos (todas por mau uso dos clientes), reparadas ao abrigo da garantia comercial da OLagoon em 5 dias úteis cada.',
             },
           ],
           results: [
             'A receita mensal da frota cresceu de AED 157.000 para AED 487.000 ($132.600) — um aumento de 210% em 6 meses',
             'A taxa anual de substituição de pranchas caiu de 60% para 4,5%, poupando aproximadamente AED 312.000 por ano',
-            'As pontuações de satisfação dos clientes subiram de 3,8/5 (frota genérica) para 4,7/5 (frota Afarer); as avaliações no Google passaram de 187 para 1.420',
+            'As pontuações de satisfação dos clientes subiram de 3,8/5 (frota genérica) para 4,7/5 (frota OLagoon); as avaliações no Google passaram de 187 para 1.420',
             'Ahmed expandiu para uma 4.ª localização (Ras Al Khaimah) em fevereiro de 2025, encomendando 80 pranchas adicionais',
           ],
         },
@@ -206,26 +206,26 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Avaliação Ilha a Ilha e Personalização de Produto',
               detail:
-                'O diretor de contas EMEA da Afarer, Stefan Berger, visitou as 5 ilhas em abril de 2024, acompanhado por Dimitri. Cada localização tinha condições diferentes: a areia vulcânica de Santorini (abrasiva, pH 8,2), as praias expostas ao vento de Mykonos (ventos Meltemi consistentes de 20–25 nós), os pontos de entrada rochosos e rasos de Naxos que exigiam proas reforçadas, os trilhos costeiros de longa distância de Paros (8–12 km) e as baías calmas e amigáveis para famílias de Creta. A Afarer desenvolveu 3 modelos adaptados: o «Med RockShield 11.0» com um protetor de proa 50% mais espesso (testado com 2.000 arrastos sobre arenito), o «Meltemi Pro 10.6» com convés baixo para estabilidade ao vento e o «Family Cruiser 11.6» com capacidade de 275 kg para utilização por pais e filhos.',
+                'O diretor de contas EMEA da OLagoon, Stefan Berger, visitou as 5 ilhas em abril de 2024, acompanhado por Dimitri. Cada localização tinha condições diferentes: a areia vulcânica de Santorini (abrasiva, pH 8,2), as praias expostas ao vento de Mykonos (ventos Meltemi consistentes de 20–25 nós), os pontos de entrada rochosos e rasos de Naxos que exigiam proas reforçadas, os trilhos costeiros de longa distância de Paros (8–12 km) e as baías calmas e amigáveis para famílias de Creta. A OLagoon desenvolveu 3 modelos adaptados: o «Med RockShield 11.0» com um protetor de proa 50% mais espesso (testado com 2.000 arrastos sobre arenito), o «Meltemi Pro 10.6» com convés baixo para estabilidade ao vento e o «Family Cruiser 11.6» com capacidade de 275 kg para utilização por pais e filhos.',
             },
             {
               title: 'Construção de Grau Comercial e Trilho Modular de Acessórios',
               detail:
-                'A fábrica da Afarer em Xiamen produziu pranchas com PVC de 1.200 deniers (contra os 1.000D padrão), costuras com soldadura dupla testadas a 14 PSI de pressão de rutura (o padrão da indústria é 10 PSI) e anéis em D de aço inoxidável em vez de plástico soldado. Cada prancha incluía o novo sistema «QuickRail» da Afarer — um perfil de alumínio extrudado colado na lateral — permitindo a Dimitri montar suportes GoPro, porta-garrafas e suportes para canas de pesca. Isto aumentou a receita de aluguer de acessórios em €12 por prancha por dia. A Afarer acrescentou logótipos refletores para visibilidade: crucial quando a patrulha portuária de Mykonos regula as embarcações depois do pôr do sol.',
+                'A fábrica da OLagoon em Xiamen produziu pranchas com PVC de 1.200 deniers (contra os 1.000D padrão), costuras com soldadura dupla testadas a 14 PSI de pressão de rutura (o padrão da indústria é 10 PSI) e anéis em D de aço inoxidável em vez de plástico soldado. Cada prancha incluía o novo sistema «QuickRail» da OLagoon — um perfil de alumínio extrudado colado na lateral — permitindo a Dimitri montar suportes GoPro, porta-garrafas e suportes para canas de pesca. Isto aumentou a receita de aluguer de acessórios em €12 por prancha por dia. A OLagoon acrescentou logótipos refletores para visibilidade: crucial quando a patrulha portuária de Mykonos regula as embarcações depois do pôr do sol.',
             },
             {
               title: 'Certificação de Pessoal Pré-Época e Sistema de Gestão de Frota',
               detail:
-                'Em maio de 2024, a Afarer formou 22 funcionários de Dimitri em todas as ilhas num workshop de 2 dias em Santorini. A formação incluiu: técnica de desembarque em rocha para minimizar a abrasão, insuflação correta com afinação de 14–16 PSI conforme a temperatura da água (variação sazonal de 18–26 °C), reparação de emergência em campo com remendos de PVC (o formador testou cada aluno a completar uma reparação em menos de 6 minutos) e protocolos de ajuste ao cliente para garantir a seleção de prancha adequada ao peso. A Afarer forneceu um painel digital de frota mostrando as horas de aluguer de cada prancha, o histórico de manutenção e a localização por GPS. No fim da época, 97% das reparações de campo foram tratadas pela equipa sem ligar à Afarer.',
+                'Em maio de 2024, a OLagoon formou 22 funcionários de Dimitri em todas as ilhas num workshop de 2 dias em Santorini. A formação incluiu: técnica de desembarque em rocha para minimizar a abrasão, insuflação correta com afinação de 14–16 PSI conforme a temperatura da água (variação sazonal de 18–26 °C), reparação de emergência em campo com remendos de PVC (o formador testou cada aluno a completar uma reparação em menos de 6 minutos) e protocolos de ajuste ao cliente para garantir a seleção de prancha adequada ao peso. A OLagoon forneceu um painel digital de frota mostrando as horas de aluguer de cada prancha, o histórico de manutenção e a localização por GPS. No fim da época, 97% das reparações de campo foram tratadas pela equipa sem ligar à OLagoon.',
             },
             {
               title: 'Época Junho–Outubro 2024: Lançamento, Excursões e ROI',
               detail:
-                'Dimitri lançou a nova frota a 1 de junho de 2024, em todas as ilhas em simultâneo. O produto de excursão guiada de SUP (€55/pessoa por 3 horas de exploração costeira com paragem para mergulho livre) foi lançado a 15 de junho, com 4 viagens diárias a partir da Red Beach de Santorini e de Agios Prokopios, em Naxos. Em agosto, as reservas de excursões atingiram 2.100 por semana em todas as ilhas. A receita total da época (junho–outubro) foi de €2,85 milhões, um aumento de 137% face aos €1,2 milhões de 2023. Os custos de reparação das pranchas caíram de €22.000 para €2.800. Apenas 4 pranchas foram abatidas (todas por danos de clientes irreparáveis). No fim da época, Dimitri encomendou 100 pranchas adicionais para a época de 2025 e pediu à Afarer que desenvolvesse um kit de conversão de SUP com propulsão a pedais.',
+                'Dimitri lançou a nova frota a 1 de junho de 2024, em todas as ilhas em simultâneo. O produto de excursão guiada de SUP (€55/pessoa por 3 horas de exploração costeira com paragem para mergulho livre) foi lançado a 15 de junho, com 4 viagens diárias a partir da Red Beach de Santorini e de Agios Prokopios, em Naxos. Em agosto, as reservas de excursões atingiram 2.100 por semana em todas as ilhas. A receita total da época (junho–outubro) foi de €2,85 milhões, um aumento de 137% face aos €1,2 milhões de 2023. Os custos de reparação das pranchas caíram de €22.000 para €2.800. Apenas 4 pranchas foram abatidas (todas por danos de clientes irreparáveis). No fim da época, Dimitri encomendou 100 pranchas adicionais para a época de 2025 e pediu à OLagoon que desenvolvesse um kit de conversão de SUP com propulsão a pedais.',
             },
           ],
           results: [
-            'A receita da época cresceu 137%, de €1,2M para €2,85M, no primeiro ano de implementação da Afarer',
+            'A receita da época cresceu 137%, de €1,2M para €2,85M, no primeiro ano de implementação da OLagoon',
             'Os custos de reparação das pranchas caíram de €22.000 para €2.800 — uma redução de 87% que poupou €19.200',
             'Apenas 4 de 200 pranchas abatidas (perda anual de 2% contra 35% na frota anterior); vida útil projetada de 4 a 5 épocas',
             'O produto de excursão guiada gerou €843.000 na primeira época com margem de lucro de 87%; classificação de 4,9/5 na TripAdvisor',
@@ -233,8 +233,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Clubes de Paddle Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Clubes de Paddle Escolhem a OLagoon',
       items: [
         {
           title: 'Operações de Negócio',
@@ -244,7 +244,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Durabilidade Comercial',
           description:
-            'Os produtos da Afarer são concebidos para utilização profissional diária, com construção reforçada, materiais mais resistentes e testes rigorosos.',
+            'Os produtos da OLagoon são concebidos para utilização profissional diária, com construção reforçada, materiais mais resistentes e testes rigorosos.',
         },
         {
           title: 'Gestão de Frota',
@@ -254,15 +254,15 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Parceria a Longo Prazo',
           description:
-            'A Afarer apoia o crescimento do seu negócio com peças suplentes, orientação de manutenção e planeamento de expansão para além da compra inicial.',
+            'A OLagoon apoia o crescimento do seu negócio com peças suplentes, orientação de manutenção e planeamento de expansão para além da compra inicial.',
         },
       ],
     },
     faqs: [
       {
-        question: 'O que torna as pranchas SUP da Afarer adequadas para clubes de paddle comerciais?',
+        question: 'O que torna as pranchas SUP da OLagoon adequadas para clubes de paddle comerciais?',
         answer:
-          'As pranchas SUP comerciais da Afarer apresentam construção em PVC reforçado, reforço multicamada das laterais, estrutura drop stitch de alta densidade e sistemas de válvulas robustos, especificamente concebidos para utilização diária de alta frequência em ambientes de aluguer e formação.',
+          'As pranchas SUP comerciais da OLagoon apresentam construção em PVC reforçado, reforço multicamada das laterais, estrutura drop stitch de alta densidade e sistemas de válvulas robustos, especificamente concebidos para utilização diária de alta frequência em ambientes de aluguer e formação.',
       },
       {
         question: 'Qual é a diferença entre equipamento SUP de consumo e de grau comercial?',
@@ -270,30 +270,30 @@ const pt: Record<string, SolutionOverride> = {
           'As pranchas SUP de grau comercial usam materiais mais resistentes, construção reforçada e componentes mais duráveis para suportar a utilização diária por múltiplos utilizadores. As pranchas de consumo são concebidas para utilização recreativa ocasional e desgastam-se rapidamente em condições comerciais.',
       },
       {
-        question: 'A Afarer pode personalizar pranchas SUP com o logótipo e as cores do meu clube?',
+        question: 'A OLagoon pode personalizar pranchas SUP com o logótipo e as cores do meu clube?',
         answer:
-          'Sim, a Afarer oferece personalização completa da frota, incluindo colocação do logótipo, cores da marca, sistemas de numeração das pranchas, identificação de modelos e marcações das pranchas dos instrutores, para criar uma identidade de frota consistente e profissional.',
+          'Sim, a OLagoon oferece personalização completa da frota, incluindo colocação do logótipo, cores da marca, sistemas de numeração das pranchas, identificação de modelos e marcações das pranchas dos instrutores, para criar uma identidade de frota consistente e profissional.',
       },
       {
-        question: 'Qual é a vida útil típica de uma prancha SUP comercial da Afarer?',
+        question: 'Qual é a vida útil típica de uma prancha SUP comercial da OLagoon?',
         answer:
-          'Com a manutenção adequada, as pranchas SUP comerciais da Afarer duram significativamente mais do que os produtos de grau de consumo, reduzindo a frequência de substituição e o custo total de propriedade. A vida útil exata depende da intensidade de utilização e das práticas de manutenção.',
+          'Com a manutenção adequada, as pranchas SUP comerciais da OLagoon duram significativamente mais do que os produtos de grau de consumo, reduzindo a frequência de substituição e o custo total de propriedade. A vida útil exata depende da intensidade de utilização e das práticas de manutenção.',
       },
       {
         question: 'Oferecem peças suplentes e apoio de manutenção para operadores de frotas?',
         answer:
-          'Sim, a Afarer fornece apoio pós-venda abrangente, incluindo planeamento de peças suplentes, materiais de reparação, acessórios de substituição, orientação de manutenção, recomendações de armazenagem e instruções de limpeza.',
+          'Sim, a OLagoon fornece apoio pós-venda abrangente, incluindo planeamento de peças suplentes, materiais de reparação, acessórios de substituição, orientação de manutenção, recomendações de armazenagem e instruções de limpeza.',
       },
       {
-        question: 'Que tamanhos de frota pode a Afarer apoiar para clubes de paddle?',
+        question: 'Que tamanhos de frota pode a OLagoon apoiar para clubes de paddle?',
         answer:
-          'A Afarer apoia frotas de todas as dimensões, desde clubes pequenos com 10–30 pranchas até grandes operações com mais de 100 pranchas. Fornecemos soluções de compra em volume, qualidade consistente de produto e apoio à expansão à medida que o seu negócio cresce.',
+          'A OLagoon apoia frotas de todas as dimensões, desde clubes pequenos com 10–30 pranchas até grandes operações com mais de 100 pranchas. Fornecemos soluções de compra em volume, qualidade consistente de produto e apoio à expansão à medida que o seu negócio cresce.',
       },
     ],
     cta: {
-      title: 'Construa a Sua Frota SUP Comercial Com a Afarer',
+      title: 'Construa a Sua Frota SUP Comercial Com a OLagoon',
       subtitle:
-        'O seu equipamento é o alicerce do seu negócio. Escolha produtos concebidos para ter desempenho todos os dias. A Afarer ajuda clubes de paddle, escolas de SUP, operadores de aluguer e resorts a criar frotas SUP profissionais com apoio de fabrico fiável.',
+        'O seu equipamento é o alicerce do seu negócio. Escolha produtos concebidos para ter desempenho todos os dias. A OLagoon ajuda clubes de paddle, escolas de SUP, operadores de aluguer e resorts a criar frotas SUP profissionais com apoio de fabrico fiável.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto SUP Comercial',
       },
@@ -307,7 +307,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fornecedor de frotas SUP para parques aquáticos comerciais | {SITE}',
       description:
-        'A Afarer oferece soluções de frotas SUP comerciais para parques aquáticos e parques temáticos. Paddle boards de alta durabilidade, designs adequados a principiantes, construção focada na segurança e fornecimento OEM à grande escala.',
+        'A OLagoon oferece soluções de frotas SUP comerciais para parques aquáticos e parques temáticos. Paddle boards de alta durabilidade, designs adequados a principiantes, construção focada na segurança e fornecimento OEM à grande escala.',
     },
     hero: {
       tagline:
@@ -355,12 +355,12 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Construção Orientada à Segurança',
           description:
-            'A Afarer apoia o desenvolvimento de produtos focados na segurança. Design de bordas protetoras com proteção lateral reforçada e zonas de impacte mais macias reduz o impacto de colisões. Convés de segurança EVA completo proporciona superfície antiderrapante e área de permanência confortável. Formas arredondadas amigáveis para principiantes reduzem arestas vivas e manuseamento difícil.',
+            'A OLagoon apoia o desenvolvimento de produtos focados na segurança. Design de bordas protetoras com proteção lateral reforçada e zonas de impacte mais macias reduz o impacto de colisões. Convés de segurança EVA completo proporciona superfície antiderrapante e área de permanência confortável. Formas arredondadas amigáveis para principiantes reduzem arestas vivas e manuseamento difícil.',
         },
         {
           title: 'Planeamento de Frota de Alta Rotatividade',
           description:
-            'A Afarer ajuda os parques a selecionar o tamanho certo de frota. Pequenas zonas de atividades (100–300 pranchas) para zonas aquáticas de resort, parques de entretenimento médios (300–600 pranchas) para parques aquáticos regionais e grandes operações de parques temáticos (600–1000+ pranchas) para grandes grupos de entretenimento e atrações multizona.',
+            'A OLagoon ajuda os parques a selecionar o tamanho certo de frota. Pequenas zonas de atividades (100–300 pranchas) para zonas aquáticas de resort, parques de entretenimento médios (300–600 pranchas) para parques aquáticos regionais e grandes operações de parques temáticos (600–1000+ pranchas) para grandes grupos de entretenimento e atrações multizona.',
         },
         {
           title: 'Pacote Completo de Equipamento Para Parque Aquático',
@@ -401,7 +401,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Planeamento de Frota Comercial',
           detail:
-            'A Afarer desenhou um sistema de atividade SUP para parque aquático incluindo pranchas estáveis para principiantes, acessórios comerciais e peças suplentes.',
+            'A OLagoon desenhou um sistema de atividade SUP para parque aquático incluindo pranchas estáveis para principiantes, acessórios comerciais e peças suplentes.',
         },
         {
           title: 'Personalização de Segurança',
@@ -439,17 +439,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1: Seleção SUP de Calado Zero e Design Modular de Obstáculos',
               detail:
-                'Em janeiro de 2025, Delgado avaliou 7 fornecedores de SUP insufláveis. Rejeitou 4 devido a ciclos de reinsuflação de mais de 6 minutos e mais 2 devido a delaminação em testes UV. Selecionou a Afarer Explorer 11\'6" X (34" de largura, 6" de espessura, 320 L de volume) pela sua rigidez máxima de 15 PSI e ciclo completo de esvaziamento-arrumação de 5 minutos. Trabalhou com a equipa OEM da Afarer para acrescentar 4 pontos de montagem em argola D integrados por prancha para módulos de obstáculos encaixáveis — barras de equilíbrio, barreiras flutuantes e arcos de rastejamento — usando um sistema de montagem em trilho personalizado testado para 220 libras de força lateral.',
+                'Em janeiro de 2025, Delgado avaliou 7 fornecedores de SUP insufláveis. Rejeitou 4 devido a ciclos de reinsuflação de mais de 6 minutos e mais 2 devido a delaminação em testes UV. Selecionou a OLagoon Explorer 11\'6" X (34" de largura, 6" de espessura, 320 L de volume) pela sua rigidez máxima de 15 PSI e ciclo completo de esvaziamento-arrumação de 5 minutos. Trabalhou com a equipa OEM da OLagoon para acrescentar 4 pontos de montagem em argola D integrados por prancha para módulos de obstáculos encaixáveis — barras de equilíbrio, barreiras flutuantes e arcos de rastejamento — usando um sistema de montagem em trilho personalizado testado para 220 libras de força lateral.',
             },
             {
               title: 'Fase 2: Disposição do Percurso de Obstáculos e Conformidade de Profundidade da Água',
               detail:
-                'Ao longo de 6 semanas, Delgado e a sua engenheira principal de aquaticidade, Sarah Kim, desenharam 3 configurações de percurso para profundidades de piscina variáveis (3,5 a 5,5 pés). Usaram os ficheiros CAD da Afarer para modelar o espaçamento das pranchas a intervalos de 8 pés, criando percursos serpenteantes de 150 pés. Cada percurso exigia 16 pranchas mais 4 suplentes por parque. Kim obteve a certificação TDLR de atração de diversões integrando conectores de rutura com pino de corte em todas as montagens de obstáculos, garantindo que nenhum componente excedia 15 libras de força de destacamento.',
+                'Ao longo de 6 semanas, Delgado e a sua engenheira principal de aquaticidade, Sarah Kim, desenharam 3 configurações de percurso para profundidades de piscina variáveis (3,5 a 5,5 pés). Usaram os ficheiros CAD da OLagoon para modelar o espaçamento das pranchas a intervalos de 8 pés, criando percursos serpenteantes de 150 pés. Cada percurso exigia 16 pranchas mais 4 suplentes por parque. Kim obteve a certificação TDLR de atração de diversões integrando conectores de rutura com pino de corte em todas as montagens de obstáculos, garantindo que nenhum componente excedia 15 libras de força de destacamento.',
             },
             {
               title: 'Fase 3: Certificação SUP de Nadadores-Salvadores e Exercícios de Resposta Rápida',
               detail:
-                'Em março de 2025, a equipa de formação da Afarer conduziu uma certificação local de 3 dias no parque âncora de Red Oak para 24 nadadores-salvadores. A formação cobriu técnicas de resgate baseadas em SUP, desmontagens de emergência e gestão de fluxo de multidões. Delgado implementou um sistema de rotação de 15 minutos: sessão SUP de 12 minutos + troca de prancha de 3 minutos. Cada parque acrescentou uma zona dedicada de preparação de 40 pés com 50 suportes de prancha montados na parede fabricados pela Paddletek. A taxa de conclusão da certificação de nadadores-salvadores foi de 100% com média de 94% no exame escrito.',
+                'Em março de 2025, a equipa de formação da OLagoon conduziu uma certificação local de 3 dias no parque âncora de Red Oak para 24 nadadores-salvadores. A formação cobriu técnicas de resgate baseadas em SUP, desmontagens de emergência e gestão de fluxo de multidões. Delgado implementou um sistema de rotação de 15 minutos: sessão SUP de 12 minutos + troca de prancha de 3 minutos. Cada parque acrescentou uma zona dedicada de preparação de 40 pés com 50 suportes de prancha montados na parede fabricados pela Paddletek. A taxa de conclusão da certificação de nadadores-salvadores foi de 100% com média de 94% no exame escrito.',
             },
             {
               title: 'Fase 4: Lançamento no Memorial Day e Desempenho da Época',
@@ -477,7 +477,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Seleção SUP Para Recato, Estabilidade e Resiliência ao Calor',
               detail:
-                'Em novembro de 2024, Al Falasi testou 9 modelos SUP de 5 marcas. Apenas a Explorer 10\'8" X da Afarer (33" x 6" x 320 L) passou o teste de câmara de calor de 48 horas a 50 graus Celsius sem degradação de material. Encomendou 120 pranchas em duas combinações de cores (bege duna de areia e azul-petróleo oceânico) para combinar com a estética da La Mer. Cada prancha foi equipada com um sistema de dossel amovível construído à medida — um arco de fibra de carbono com tecido UPF 50+ — desenhado pela equipa de engenharia da Afarer ao longo de 3 iterações de protótipo. Os dosséis acrescentaram 1,2 kg mas mantiveram a estabilidade dentro de 0,5 graus de inclinação.',
+                'Em novembro de 2024, Al Falasi testou 9 modelos SUP de 5 marcas. Apenas a Explorer 10\'8" X da OLagoon (33" x 6" x 320 L) passou o teste de câmara de calor de 48 horas a 50 graus Celsius sem degradação de material. Encomendou 120 pranchas em duas combinações de cores (bege duna de areia e azul-petróleo oceânico) para combinar com a estética da La Mer. Cada prancha foi equipada com um sistema de dossel amovível construído à medida — um arco de fibra de carbono com tecido UPF 50+ — desenhado pela equipa de engenharia da OLagoon ao longo de 3 iterações de protótipo. Os dosséis acrescentaram 1,2 kg mas mantiveram a estabilidade dentro de 0,5 graus de inclinação.',
             },
             {
               title: 'Passo 2: Zoneamento da Lagoa, Privacidade e Agendamento Segregado por Género',
@@ -487,7 +487,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 3: Recrutamento de Instrutoras SUP e Formação Cultural',
               detail:
-                'A AquaFun lançou uma campanha de recrutamento direcionada em janeiro de 2025, contratando 12 instrutoras SUP (8 emiratenses, 4 expatriadas) e 6 instrutores masculinos. A Afarer entregou uma certificação personalizada de 5 dias de orientação SUP adaptada à sensibilidade cultural — cobrindo terminologia árabe para comandos de pagaia, técnicas de resgate conformes ao recato (reboques prancha-a-prancha evitando contacto físico) e estratégias de ritmo para grupos familiares. Todos os 18 instrutores passaram a avaliação equivalente ao Nível 1 da IRF até 20 de fevereiro. A formação custou $28 mil e foi cofinanciada pela bolsa de inovação de produto do Dubai Tourism.',
+                'A AquaFun lançou uma campanha de recrutamento direcionada em janeiro de 2025, contratando 12 instrutoras SUP (8 emiratenses, 4 expatriadas) e 6 instrutores masculinos. A OLagoon entregou uma certificação personalizada de 5 dias de orientação SUP adaptada à sensibilidade cultural — cobrindo terminologia árabe para comandos de pagaia, técnicas de resgate conformes ao recato (reboques prancha-a-prancha evitando contacto físico) e estratégias de ritmo para grupos familiares. Todos os 18 instrutores passaram a avaliação equivalente ao Nível 1 da IRF até 20 de fevereiro. A formação custou $28 mil e foi cofinanciada pela bolsa de inovação de produto do Dubai Tourism.',
             },
             {
               title: 'Passo 4: Lançamento Suave Alinhado com o Ramadão e Operações Contínuas',
@@ -504,28 +504,28 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Parques Aquáticos Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Parques Aquáticos Escolhem a OLagoon',
       items: [
         {
           title: 'Operações de Alto Tráfego',
           description:
-            'O equipamento tem de sobreviver à utilização comercial diária. A Afarer desenha para operações contínuas de alto volume com construção durável.',
+            'O equipamento tem de sobreviver à utilização comercial diária. A OLagoon desenha para operações contínuas de alto volume com construção durável.',
         },
         {
           title: 'Requisitos de Segurança',
           description:
-            'Os visitantes precisam de confiança e proteção. A Afarer prioriza a segurança em cada design de produto com características amigáveis para principiantes.',
+            'Os visitantes precisam de confiança e proteção. A OLagoon prioriza a segurança em cada design de produto com características amigáveis para principiantes.',
         },
         {
           title: 'Gestão de Frota',
           description:
-            'Os grandes projetos exigem sistemas completos. A Afarer fornece planeamento de frota ponta a ponta, recomendações de quantidade e apoio.',
+            'Os grandes projetos exigem sistemas completos. A OLagoon fornece planeamento de frota ponta a ponta, recomendações de quantidade e apoio.',
         },
         {
           title: 'Fiabilidade a Longo Prazo',
           description:
-            'As atrações dependem de operação estável. A Afarer garante produtos duráveis e fornecimento fiável para anos de utilização contínua.',
+            'As atrações dependem de operação estável. A OLagoon garante produtos duráveis e fornecimento fiável para anos de utilização contínua.',
         },
       ],
     },
@@ -533,36 +533,36 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Que tamanho de frota é recomendado para uma atração SUP de parque aquático?',
         answer:
-          'A Afarer recomenda 100–300 pranchas para pequenas zonas de atividades e zonas aquáticas de resort, 300–600 pranchas para parques aquáticos regionais e destinos turísticos e 600–1000+ pranchas para grandes parques temáticos e atrações multizona.',
+          'A OLagoon recomenda 100–300 pranchas para pequenas zonas de atividades e zonas aquáticas de resort, 300–600 pranchas para parques aquáticos regionais e destinos turísticos e 600–1000+ pranchas para grandes parques temáticos e atrações multizona.',
       },
       {
         question: 'Quão duráveis são as pranchas SUP comerciais para utilização diária em parque aquático?',
         answer:
-          'As pranchas SUP comerciais da Afarer são engenheiradas para operações de alto tráfego com construção PVC reforçada, costuras duráveis e acessórios de grau comercial. Aguentam utilização diária contínua, erros frequentes de principiantes e impactes repetidos que danificariam produtos de grau de consumo.',
+          'As pranchas SUP comerciais da OLagoon são engenheiradas para operações de alto tráfego com construção PVC reforçada, costuras duráveis e acessórios de grau comercial. Aguentam utilização diária contínua, erros frequentes de principiantes e impactes repetidos que danificariam produtos de grau de consumo.',
       },
       {
         question: 'As pranchas SUP podem ser personalizadas com a marca do meu parque aquático?',
         answer:
-          'Sim, a Afarer apoia a personalização completa incluindo logótipos do parque, grafismos de personagens, cores personalizadas e integração de temas de atração. A marca personalizada transforma o equipamento SUP em atrações fotogénicas que geram exposição nas redes sociais.',
+          'Sim, a OLagoon apoia a personalização completa incluindo logótipos do parque, grafismos de personagens, cores personalizadas e integração de temas de atração. A marca personalizada transforma o equipamento SUP em atrações fotogénicas que geram exposição nas redes sociais.',
       },
       {
-        question: 'Que características de segurança incluem as pranchas SUP comerciais da Afarer?',
+        question: 'Que características de segurança incluem as pranchas SUP comerciais da OLagoon?',
         answer:
-          'As pranchas da Afarer apresentam design de bordas protetoras, convés de segurança antiderrapante EVA completo, estrutura de alta flutuabilidade, formas arredondadas amigáveis para principiantes e proteção lateral reforçada. Estas características minimizam o impacte de colisões e garantem operação segura para utilizadores pela primeira vez.',
+          'As pranchas da OLagoon apresentam design de bordas protetoras, convés de segurança antiderrapante EVA completo, estrutura de alta flutuabilidade, formas arredondadas amigáveis para principiantes e proteção lateral reforçada. Estas características minimizam o impacte de colisões e garantem operação segura para utilizadores pela primeira vez.',
       },
       {
-        question: 'Como apoia a Afarer a manutenção e substituição de grandes frotas?',
+        question: 'Como apoia a OLagoon a manutenção e substituição de grandes frotas?',
         answer:
-          'A Afarer fornece componentes padronizados para substituição mais fácil, materiais e orientação de reparação, sistemas de inspeção de frota para verificações diárias e disponibilidade de peças suplentes. Oferecemos também programas anuais de fornecimento para substituição sazonal e melhoramentos de frota.',
+          'A OLagoon fornece componentes padronizados para substituição mais fácil, materiais e orientação de reparação, sistemas de inspeção de frota para verificações diárias e disponibilidade de peças suplentes. Oferecemos também programas anuais de fornecimento para substituição sazonal e melhoramentos de frota.',
       },
       {
         question: 'Qual é o prazo típico de entrega para uma encomenda de frota SUP de grande escala?',
         answer:
-          'Os prazos variam conforme o tamanho da encomenda e os requisitos de personalização. A Afarer trabalha em estreita colaboração com cada cliente para estabelecer calendários de produção, desde projetos-piloto de 100–500 conjuntos até instalações completas de 500–1000+ conjuntos, garantindo entrega atempada para aberturas sazonais.',
+          'Os prazos variam conforme o tamanho da encomenda e os requisitos de personalização. A OLagoon trabalha em estreita colaboração com cada cliente para estabelecer calendários de produção, desde projetos-piloto de 100–500 conjuntos até instalações completas de 500–1000+ conjuntos, garantindo entrega atempada para aberturas sazonais.',
       },
     ],
     cta: {
-      title: 'Construa a Sua Atração SUP de Parque Aquático Com a Afarer',
+      title: 'Construa a Sua Atração SUP de Parque Aquático Com a OLagoon',
       subtitle:
         'Crie mais do que uma atividade aquática. Crie uma experiência memorável para os visitantes que os traz de volta.',
       primaryAction: {
@@ -578,7 +578,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fornecedor de equipamento SUP comercial | Soluções de frotas de aluguer para praias | {SITE}',
       description:
-        'A Afarer oferece soluções de frotas SUP comerciais para negócios de lazer de praia e centros de desportos aquáticos. Paddle boards de aluguer duráveis, pacotes completos de equipamento, apoio a peças sobressalentes e personalização OEM.',
+        'A OLagoon oferece soluções de frotas SUP comerciais para negócios de lazer de praia e centros de desportos aquáticos. Paddle boards de aluguer duráveis, pacotes completos de equipamento, apoio a peças sobressalentes e personalização OEM.',
     },
     hero: {
       tagline: 'Soluções Completas de Equipamento Para Atividades de Praia™',
@@ -619,13 +619,13 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Design de Frota SUP de Grau Comercial',
           description:
-            'A Afarer desenvolve produtos SUP especificamente para ambientes comerciais com construção PVC reforçada, tecnologia de costuras resistentes, sistemas de convés EVA robustos e acessórios de grau comercial incluindo pagaias e bombas duráveis.',
+            'A OLagoon desenvolve produtos SUP especificamente para ambientes comerciais com construção PVC reforçada, tecnologia de costuras resistentes, sistemas de convés EVA robustos e acessórios de grau comercial incluindo pagaias e bombas duráveis.',
           features: ['Construção Reforçada', 'Sistema de Convés EVA Robusto', 'Acessórios Comerciais'],
         },
         {
           title: 'Planeamento Completo de Frota de Aluguer',
           description:
-            'A Afarer ajuda a selecionar a mistura certa de equipamento para frotas de aluguer de praia com SUP all-round estáveis, frotas de centros de desportos aquáticos com múltiplos tamanhos e pranchas de instrutor e frotas de atividades de resort com equipamento premium marcado.',
+            'A OLagoon ajuda a selecionar a mistura certa de equipamento para frotas de aluguer de praia com SUP all-round estáveis, frotas de centros de desportos aquáticos com múltiplos tamanhos e pranchas de instrutor e frotas de atividades de resort com equipamento premium marcado.',
           features: [
             'Frota de Aluguer de Praia',
             'Frota de Centro de Desportos Aquáticos',
@@ -635,19 +635,19 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Configuração SUP de Aluguer de Alta Durabilidade',
           description:
-            'A Afarer otimiza produtos para resistência a riscos contra a areia da praia e o manuseamento frequente, reparação fácil com kits de reparação e componentes padronizados e longa vida útil que maximiza o ROI do equipamento.',
+            'A OLagoon otimiza produtos para resistência a riscos contra a areia da praia e o manuseamento frequente, reparação fácil com kits de reparação e componentes padronizados e longa vida útil que maximiza o ROI do equipamento.',
           features: ['Resistência a Riscos', 'Reparação Fácil', 'Longa Vida Útil'],
         },
         {
           title: 'Sistema Padronizado de Peças Suplentes',
           description:
-            'A Afarer apoia os operadores comerciais com acessórios de substituição incluindo válvulas, leashes, pagaias, bombas e materiais de reparação, além de planeamento de manutenção de frota para inspeção diária e manutenção sazonal.',
+            'A OLagoon apoia os operadores comerciais com acessórios de substituição incluindo válvulas, leashes, pagaias, bombas e materiais de reparação, além de planeamento de manutenção de frota para inspeção diária e manutenção sazonal.',
           features: ['Acessórios de Substituição', 'Planeamento de Manutenção de Frota', 'Recuperação Rápida'],
         },
         {
           title: 'Pacotes Completos de Atividades de Praia',
           description:
-            'A Afarer fornece pacotes de aluguer SUP com pranchas comerciais e acessórios, pacotes de atividades aquáticas familiares para resorts e zonas turísticas e pacotes de eventos de grupo para atividades corporativas e escolares.',
+            'A OLagoon fornece pacotes de aluguer SUP com pranchas comerciais e acessórios, pacotes de atividades aquáticas familiares para resorts e zonas turísticas e pacotes de eventos de grupo para atividades corporativas e escolares.',
           features: [
             'Pacote de Aluguer SUP',
             'Pacote de Atividades Aquáticas Familiares',
@@ -657,7 +657,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Marca e Personalização de Negócio',
           description:
-            'A Afarer apoia a marca personalizada do operador com impressão de logótipo e cores, design de experiência turística criando atividades marcadas e oportunidades fotográficas e integração com resort e praia em sintonia com a identidade do destino.',
+            'A OLagoon apoia a marca personalizada do operador com impressão de logótipo e cores, design de experiência turística criando atividades marcadas e oportunidades fotográficas e integração com resort e praia em sintonia com a identidade do destino.',
           features: [
             'Marca Personalizada do Operador',
             'Design de Experiência Turística',
@@ -667,13 +667,13 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Design Seguro e Amigável Para Principiantes',
           description:
-            'A Afarer foca o design de estabilidade com formas de prancha mais largas para turistas e famílias e a operação fácil que ajuda os principiantes a desfrutarem rapidamente da experiência com confiança e segurança.',
+            'A OLagoon foca o design de estabilidade com formas de prancha mais largas para turistas e famílias e a operação fácil que ajuda os principiantes a desfrutarem rapidamente da experiência com confiança e segurança.',
           features: ['Design de Estabilidade', 'Operação Fácil', 'Desempenho Amigável Para Principiantes'],
         },
         {
           title: 'Apoio de Fornecimento Para Negócios Sazonais',
           description:
-            'A Afarer ajuda os operadores a gerir o planeamento pré-época para seleção de frota e agendamento de produção, a substituição sazonal para equipamento adicional e peças suplentes e o crescimento de frota a longo prazo desde pequenas operações até grandes centros.',
+            'A OLagoon ajuda os operadores a gerir o planeamento pré-época para seleção de frota e agendamento de produção, a substituição sazonal para equipamento adicional e peças suplentes e o crescimento de frota a longo prazo desde pequenas operações até grandes centros.',
           features: ['Planeamento Pré-Época', 'Substituição Sazonal', 'Crescimento de Frota a Longo Prazo'],
         },
       ],
@@ -690,7 +690,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Planeamento de Frota',
           detail:
-            'A Afarer desenhou um pacote de equipamento SUP comercial incluindo pranchas all-round estáveis, acessórios robustos e peças suplentes adaptadas ao ambiente de praia do operador.',
+            'A OLagoon desenhou um pacote de equipamento SUP comercial incluindo pranchas all-round estáveis, acessórios robustos e peças suplentes adaptadas ao ambiente de praia do operador.',
         },
         {
           title: 'Personalização de Produto',
@@ -727,27 +727,27 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Avaliação Abrangente do Resort e Especificação de Equipamento',
               detail:
-                'Em setembro de 2024, Carlos e a equipa de Soluções de Hospitalidade da Afarer conduziram uma auditoria local de 5 dias nas 3 propriedades. Analisaram a demografia dos hóspedes, os padrões de utilização de pico, os constrangimentos de armazenagem, os níveis de pessoal e as condições de exposição à água salgada. A auditoria revelou que mais de 60 dias-hóspede por ano eram perdidos por tempo de paragem de equipamento e que as pranchas existentes duravam apenas 8–12 meses antes de degradarem no sol e no sal das Caraíbas. A Afarer propôs uma frota de 140 unidades: 100 SUP (all-around de 10\'6"), 20 pranchas de paddle com fundo transparente para observação de recifes, 20 pranchas de pedal e 10 SUP tandem de pesca. Cada prancha apresentava PVC marinho estabilizado contra UV com garantia comercial de 5 anos, ferragem em aço inoxidável e grafismos marcados Hyatt Ziva no turquesa e branco característicos da marca.',
+                'Em setembro de 2024, Carlos e a equipa de Soluções de Hospitalidade da OLagoon conduziram uma auditoria local de 5 dias nas 3 propriedades. Analisaram a demografia dos hóspedes, os padrões de utilização de pico, os constrangimentos de armazenagem, os níveis de pessoal e as condições de exposição à água salgada. A auditoria revelou que mais de 60 dias-hóspede por ano eram perdidos por tempo de paragem de equipamento e que as pranchas existentes duravam apenas 8–12 meses antes de degradarem no sol e no sal das Caraíbas. A OLagoon propôs uma frota de 140 unidades: 100 SUP (all-around de 10\'6"), 20 pranchas de paddle com fundo transparente para observação de recifes, 20 pranchas de pedal e 10 SUP tandem de pesca. Cada prancha apresentava PVC marinho estabilizado contra UV com garantia comercial de 5 anos, ferragem em aço inoxidável e grafismos marcados Hyatt Ziva no turquesa e branco característicos da marca.',
             },
             {
               title: 'Infraestrutura de Operações de Praia e Soluções de Armazenagem',
               detail:
-                'A equipa da Afarer desenhou um centro completo de operações de praia para cada resort incluindo: um contentor marítimo de 40 pés com fecho convertido em sala segura de equipamento com ventilação solar, 10 estações robustas de insuflação elétrica com manómetros digitais, um sistema móvel de suportes para 50 pranchas com drenagem de secagem por gotejamento e uma estação de reparação/manutenção com válvulas suplentes, kits de remendos e produtos de limpeza. A propriedade de Puerto Morelos recebeu um quiosque dedicado à beira da praia com balcão de check-in, parede de coletes e ecrã digital de agendamento. A equipa de instalação da Afarer passou 2 semanas em cada propriedade a adaptar as áreas de armazenagem existentes e a formar o pessoal de manutenção em rotinas de cuidado adequadas incluindo o protocolo de enxaguamento com água doce após cada utilização.',
+                'A equipa da OLagoon desenhou um centro completo de operações de praia para cada resort incluindo: um contentor marítimo de 40 pés com fecho convertido em sala segura de equipamento com ventilação solar, 10 estações robustas de insuflação elétrica com manómetros digitais, um sistema móvel de suportes para 50 pranchas com drenagem de secagem por gotejamento e uma estação de reparação/manutenção com válvulas suplentes, kits de remendos e produtos de limpeza. A propriedade de Puerto Morelos recebeu um quiosque dedicado à beira da praia com balcão de check-in, parede de coletes e ecrã digital de agendamento. A equipa de instalação da OLagoon passou 2 semanas em cada propriedade a adaptar as áreas de armazenagem existentes e a formar o pessoal de manutenção em rotinas de cuidado adequadas incluindo o protocolo de enxaguamento com água doce após cada utilização.',
             },
             {
               title: 'Programação de Atividades, Formação de Equipas e Design da Experiência dos Hóspedes',
               detail:
-                'A Afarer desenvolveu um programa de atividades escalonado para cada resort: gratuito (alugueres SUP em blocos de 1 hora), guiado (yoga SUP matinal a $45/pp, tours ao pôr do sol nos recifes a $55/pp) e premium (excursões privadas de piquenique de paddle a $120/pp). Os formadores da Afarer passaram 12 dias nos 3 resorts a formar 24 colaboradores de recreação, cobrindo manuseamento de equipamento, instrução aos hóspedes, protocolos de segurança e reparação básica. A formação incluiu um programa de certificação reconhecido pela Associação Mexicana de Operadores de Desportos Aquáticos. A equipa de Carlos lançou um sistema de reserva por código QR integrado com a app de hóspedes da Hyatt, permitindo aos hóspedes reservar equipamento com 48 horas de antecedência.',
+                'A OLagoon desenvolveu um programa de atividades escalonado para cada resort: gratuito (alugueres SUP em blocos de 1 hora), guiado (yoga SUP matinal a $45/pp, tours ao pôr do sol nos recifes a $55/pp) e premium (excursões privadas de piquenique de paddle a $120/pp). Os formadores da OLagoon passaram 12 dias nos 3 resorts a formar 24 colaboradores de recreação, cobrindo manuseamento de equipamento, instrução aos hóspedes, protocolos de segurança e reparação básica. A formação incluiu um programa de certificação reconhecido pela Associação Mexicana de Operadores de Desportos Aquáticos. A equipa de Carlos lançou um sistema de reserva por código QR integrado com a app de hóspedes da Hyatt, permitindo aos hóspedes reservar equipamento com 48 horas de antecedência.',
             },
             {
               title: 'Operação Sazonal, Monitorização de Desempenho e Análise de ROI',
               detail:
-                'O programa completo foi lançado a 15 de janeiro de 2025 e em junho de 2025 tinha apoiado 14.200 experiências de hóspede sem nenhum incidente de segurança. A satisfação dos hóspedes com as atividades aquáticas teve uma média de 4,7/5, com as pranchas de paddle de fundo transparente a receber as classificações mais altas (4,9/5). Os custos de manutenção de equipamento caíram 42% comparado com o programa de fornecedores mistos do ano anterior — de $34 mil para $19,7 mil nas 3 propriedades. Os programas guiados premium geraram $112 mil de receita incremental nos primeiros 6 meses. A equipa de Carlos reportou um aumento de 22% em hóspedes que prolongavam a estadia em 1+ noite especificamente pelos desportos aquáticos. A Inclusive Collection da Hyatt aprovou um orçamento de $240 mil para 2026 para acrescentar equipamento Afarer em mais 2 propriedades na República Dominicana e na Jamaica.',
+                'O programa completo foi lançado a 15 de janeiro de 2025 e em junho de 2025 tinha apoiado 14.200 experiências de hóspede sem nenhum incidente de segurança. A satisfação dos hóspedes com as atividades aquáticas teve uma média de 4,7/5, com as pranchas de paddle de fundo transparente a receber as classificações mais altas (4,9/5). Os custos de manutenção de equipamento caíram 42% comparado com o programa de fornecedores mistos do ano anterior — de $34 mil para $19,7 mil nas 3 propriedades. Os programas guiados premium geraram $112 mil de receita incremental nos primeiros 6 meses. A equipa de Carlos reportou um aumento de 22% em hóspedes que prolongavam a estadia em 1+ noite especificamente pelos desportos aquáticos. A Inclusive Collection da Hyatt aprovou um orçamento de $240 mil para 2026 para acrescentar equipamento OLagoon em mais 2 propriedades na República Dominicana e na Jamaica.',
             },
           ],
           results: [
             'Mais de 14.200 experiências de hóspede nos primeiros 6 meses sem nenhum incidente de segurança e 4,7/5 de satisfação dos hóspedes nas atividades aquáticas',
-            'Custos de manutenção de equipamento reduzidos em 42%, de $34 mil para $19,7 mil anuais, graças à construção de grau comercial e aos materiais estabilizados contra UV da Afarer',
+            'Custos de manutenção de equipamento reduzidos em 42%, de $34 mil para $19,7 mil anuais, graças à construção de grau comercial e aos materiais estabilizados contra UV da OLagoon',
             'Os programas guiados premium geraram $112 mil de receita incremental em 6 meses, com a yoga SUP e os tours ao pôr do sol nos recifes como principais desempenhos',
             'Aumento de 22% em hóspedes a prolongarem estadias em 1+ noite citando os desportos aquáticos como fator-chave, contribuindo com cerca de $340 mil em receita adicional de quartos',
           ],
@@ -765,22 +765,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Análise de Necessidades Multipropriedade e Engenharia de Frota Personalizada',
               detail:
-                'Em outubro de 2024, a equipa de Hospitalidade da Afarer conduziu avaliações individuais em cada localização BlueWave numa turnê de 10 dias pelas Cíclades. Cada clube tinha condições diferentes: Mykonos (baías cheias de gente, clientela de alto nível, exposição ao vento), Santorini (areia vulcânica, águas mais calmas, turismo de pôr do sol), Naxos (orientação familiar, águas rasas, frente de praia mais longa), Paros (crossover com windsurf, clientela desportiva) e Creta (ondas maiores, demografia mista). A Afarer desenhou uma frota de 200 unidades com configurações específicas por localização: 110 SUP (incluindo 20 plataformas de yoga SUP com comprimento estendido e 20 pranchas de fundo transparente), 30 pranchas de pedal para hóspedes premium, 30 híbridos windSUP para Mykonos e Paros e 30 pranchas juvenis para os programas familiares de Naxos. Todas as unidades apresentavam o esquema de cores azul-marinho e branco característico da BlueWave com logótipos em acento dourado.',
+                'Em outubro de 2024, a equipa de Hospitalidade da OLagoon conduziu avaliações individuais em cada localização BlueWave numa turnê de 10 dias pelas Cíclades. Cada clube tinha condições diferentes: Mykonos (baías cheias de gente, clientela de alto nível, exposição ao vento), Santorini (areia vulcânica, águas mais calmas, turismo de pôr do sol), Naxos (orientação familiar, águas rasas, frente de praia mais longa), Paros (crossover com windsurf, clientela desportiva) e Creta (ondas maiores, demografia mista). A OLagoon desenhou uma frota de 200 unidades com configurações específicas por localização: 110 SUP (incluindo 20 plataformas de yoga SUP com comprimento estendido e 20 pranchas de fundo transparente), 30 pranchas de pedal para hóspedes premium, 30 híbridos windSUP para Mykonos e Paros e 30 pranchas juvenis para os programas familiares de Naxos. Todas as unidades apresentavam o esquema de cores azul-marinho e branco característico da BlueWave com logótipos em acento dourado.',
             },
             {
               title: 'Infraestrutura Específica do Local e Implementação Logística',
               detail:
-                'A equipa de operações da Afarer implementou um plano logístico enviando 40 contentores por 5 ilhas, coordenando com os parceiros logísticos locais da BlueWave para transferências entre ilhas. Cada localização recebeu uma solução de armazenagem personalizada: Mykonos recebeu uma sala de armazenagem frente à praia com clima controlado e suportes protegidos de UV, Santorini recebeu um sistema de polia na falésia para transporte das pranchas da armazenagem para a praia, Naxos recebeu um quiosque de aluguer amigável para famílias com exposição de equipamento infantil e Paros e Creta receberam armazenagem de dupla finalidade que se convertia em barreiras de proteção contra o vento. A Afarer instalou um sistema digital de reservas partilhado pelas 5 propriedades e formou 35 colaboradores da BlueWave num programa intensivo de 2 semanas na localização âncora de Mykonos em abril de 2025.',
+                'A equipa de operações da OLagoon implementou um plano logístico enviando 40 contentores por 5 ilhas, coordenando com os parceiros logísticos locais da BlueWave para transferências entre ilhas. Cada localização recebeu uma solução de armazenagem personalizada: Mykonos recebeu uma sala de armazenagem frente à praia com clima controlado e suportes protegidos de UV, Santorini recebeu um sistema de polia na falésia para transporte das pranchas da armazenagem para a praia, Naxos recebeu um quiosque de aluguer amigável para famílias com exposição de equipamento infantil e Paros e Creta receberam armazenagem de dupla finalidade que se convertia em barreiras de proteção contra o vento. A OLagoon instalou um sistema digital de reservas partilhado pelas 5 propriedades e formou 35 colaboradores da BlueWave num programa intensivo de 2 semanas na localização âncora de Mykonos em abril de 2025.',
             },
             {
               title: 'Padronização do Programa de Atividades e Criação de Nível Premium',
               detail:
-                'A equipa de Dimitri lançou o programa padronizado de desportos aquáticos da BlueWave, «Aegean Blue Experiences», com 3 níveis: gratuito (sessões SUP de 30 minutos para hóspedes do clube), premium (SUP guiado para praias isoladas a €65–€95) e ultra-premium (excursões privadas de paddle com transfer de iate a €250/pp incluindo piquenique de champanhe na praia). A equipa de programação da Afarer criou 12 rotas de tour guiadas pelas 5 ilhas com rotas rastreadas por GPS, marcadores de pontos de interesse e apoio de fotógrafo. A propriedade de Mykonos lançou também o «Sunset SUP at Little Venice» — uma pagaia guiada noturna de 2 horas que esgotou todas as sessões a €85/pp com taxa de ocupação de 95% ao longo do verão.',
+                'A equipa de Dimitri lançou o programa padronizado de desportos aquáticos da BlueWave, «Aegean Blue Experiences», com 3 níveis: gratuito (sessões SUP de 30 minutos para hóspedes do clube), premium (SUP guiado para praias isoladas a €65–€95) e ultra-premium (excursões privadas de paddle com transfer de iate a €250/pp incluindo piquenique de champanhe na praia). A equipa de programação da OLagoon criou 12 rotas de tour guiadas pelas 5 ilhas com rotas rastreadas por GPS, marcadores de pontos de interesse e apoio de fotógrafo. A propriedade de Mykonos lançou também o «Sunset SUP at Little Venice» — uma pagaia guiada noturna de 2 horas que esgotou todas as sessões a €85/pp com taxa de ocupação de 95% ao longo do verão.',
             },
             {
               title: 'Revisão de Desempenho da Época e Sustentabilidade do Programa',
               detail:
-                'Ao longo da época de maio a setembro de 2025, a frota unificada da BlueWave apoiou 52.000 alugueres a hóspedes em 5 localizações (4% acima da meta de 50.000). O custo total de equipamento foi de $198 mil amortizado pelo período de garantia de 5 anos da Afarer contra os $165 mil anuais anteriores gastos em equipamento substituído a cada 18 meses — uma redução anual de custos de 52%. A satisfação dos hóspedes com os desportos aquáticos melhorou de 3,8/5 (fornecedores mistos, pré-2025) para 4,6/5 em todas as localizações. Dimitri reportou €340 mil de receita de programas premium (yoga SUP, tours guiados, pagaias ao pôr do sol) representando um retorno de 4,7x sobre o investimento em equipamento numa única época. A BlueWave assinou uma renovação de 3 anos com a Afarer expandindo para mais 2 localizações em Rodes e Corfu para 2026, acrescentando 80 pranchas.',
+                'Ao longo da época de maio a setembro de 2025, a frota unificada da BlueWave apoiou 52.000 alugueres a hóspedes em 5 localizações (4% acima da meta de 50.000). O custo total de equipamento foi de $198 mil amortizado pelo período de garantia de 5 anos da OLagoon contra os $165 mil anuais anteriores gastos em equipamento substituído a cada 18 meses — uma redução anual de custos de 52%. A satisfação dos hóspedes com os desportos aquáticos melhorou de 3,8/5 (fornecedores mistos, pré-2025) para 4,6/5 em todas as localizações. Dimitri reportou €340 mil de receita de programas premium (yoga SUP, tours guiados, pagaias ao pôr do sol) representando um retorno de 4,7x sobre o investimento em equipamento numa única época. A BlueWave assinou uma renovação de 3 anos com a OLagoon expandindo para mais 2 localizações em Rodes e Corfu para 2026, acrescentando 80 pranchas.',
             },
           ],
           results: [
@@ -792,8 +792,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Operadores de Praia Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Operadores de Praia Escolhem a OLagoon',
       items: [
         {
           title: 'Durabilidade',
@@ -832,22 +832,22 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Com quantas pranchas SUP devo começar num negócio de aluguer de praia?',
         answer:
-          'A Afarer recomenda começar com 10–20 pranchas para pequenas operações de praia, escalar para 30–50 para negócios de aluguer estabelecidos e 50+ para grandes centros de desportos aquáticos. O planeamento de frota inclui uma mistura de tamanhos e configurações de pranchas para servir diferentes tipos de clientes, de principiantes a pagaiadores experientes.',
+          'A OLagoon recomenda começar com 10–20 pranchas para pequenas operações de praia, escalar para 30–50 para negócios de aluguer estabelecidos e 50+ para grandes centros de desportos aquáticos. O planeamento de frota inclui uma mistura de tamanhos e configurações de pranchas para servir diferentes tipos de clientes, de principiantes a pagaiadores experientes.',
       },
       {
-        question: 'Que peças suplentes e apoio de manutenção a Afarer fornece para frotas de aluguer?',
+        question: 'Que peças suplentes e apoio de manutenção a OLagoon fornece para frotas de aluguer?',
         answer:
-          'A Afarer fornece um sistema padronizado de peças suplentes incluindo válvulas, leashes, pagaias, bombas e materiais de reparação. Oferecemos também guias de planeamento de manutenção de frota para inspeção diária, manutenção sazonal e procedimentos de recuperação rápida para minimizar o tempo de paragem do equipamento.',
+          'A OLagoon fornece um sistema padronizado de peças suplentes incluindo válvulas, leashes, pagaias, bombas e materiais de reparação. Oferecemos também guias de planeamento de manutenção de frota para inspeção diária, manutenção sazonal e procedimentos de recuperação rápida para minimizar o tempo de paragem do equipamento.',
       },
       {
         question: 'As pranchas SUP podem ser personalizadas com o logótipo e a marca do meu negócio?',
         answer:
-          'Sim, a Afarer apoia a marca completa do negócio incluindo impressão de logótipo, cores personalizadas e grafismos de identificação de aluguer. Isto transforma a sua frota num ativo de marketing e cria oportunidades fotográficas que aumentam a exposição do seu negócio nas redes sociais.',
+          'Sim, a OLagoon apoia a marca completa do negócio incluindo impressão de logótipo, cores personalizadas e grafismos de identificação de aluguer. Isto transforma a sua frota num ativo de marketing e cria oportunidades fotográficas que aumentam a exposição do seu negócio nas redes sociais.',
       },
       {
-        question: 'Quão duráveis são as pranchas SUP comerciais da Afarer para utilização diária de aluguer?',
+        question: 'Quão duráveis são as pranchas SUP comerciais da OLagoon para utilização diária de aluguer?',
         answer:
-          'As pranchas SUP comerciais da Afarer são engenheiradas para operações de aluguer de alta frequência com PVC reforçado, tecnologia de costuras resistente e camadas exteriores protetoras. Com manutenção adequada, duram significativamente mais do que as pranchas de grau de consumo em ambientes comerciais, reduzindo o custo total de propriedade.',
+          'As pranchas SUP comerciais da OLagoon são engenheiradas para operações de aluguer de alta frequência com PVC reforçado, tecnologia de costuras resistente e camadas exteriores protetoras. Com manutenção adequada, duram significativamente mais do que as pranchas de grau de consumo em ambientes comerciais, reduzindo o custo total de propriedade.',
       },
       {
         question: 'Qual é o retorno típico do investimento numa frota de aluguer SUP?',
@@ -856,7 +856,7 @@ const pt: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Construa o Seu Negócio de Atividades Aquáticas de Praia Com a Afarer',
+      title: 'Construa o Seu Negócio de Atividades Aquáticas de Praia Com a OLagoon',
       subtitle: 'Crie mais do que um serviço de aluguer. Crie experiências aquáticas memoráveis.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto de Frota SUP Comercial',
@@ -871,7 +871,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Paddle boards SUP personalizados para eventos empresariais | Soluções OEM para eventos | {SITE}',
       description:
-        'A Afarer cria paddle boards SUP personalizados para eventos empresariais, atividades de team building e campanhas de marketing. Personalização total do logótipo, cores corporativas combinadas, prototipagem rápida e produção OEM em volume.',
+        'A OLagoon cria paddle boards SUP personalizados para eventos empresariais, atividades de team building e campanhas de marketing. Personalização total do logótipo, cores corporativas combinadas, prototipagem rápida e produção OEM em volume.',
     },
     hero: {
       tagline: 'Pacote de Eventos SUP Corporativos™',
@@ -913,7 +913,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Personalização Completa de Marca Corporativa',
           description:
-            'A Afarer apoia a impressão de logótipos em grande área, a marca na superfície da prancha, a personalização de pagaias e a marca de acessórios com correspondência de cores corporativas usando referências Pantone e requisitos de identidade visual.',
+            'A OLagoon apoia a impressão de logótipos em grande área, a marca na superfície da prancha, a personalização de pagaias e a marca de acessórios com correspondência de cores corporativas usando referências Pantone e requisitos de identidade visual.',
           features: [
             'Aplicação de Logótipo Corporativo',
             'Correspondência de Cores Corporativas',
@@ -923,19 +923,19 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de Produtos SUP Específicos Para Eventos',
           description:
-            'Eventos diferentes exigem soluções diferentes. A Afarer oferece pacotes de team building para grandes grupos de colaboradores, pacotes de ativação de marca para campanhas de marketing e pacotes de experiência VIP para eventos de clientes de luxo.',
+            'Eventos diferentes exigem soluções diferentes. A OLagoon oferece pacotes de team building para grandes grupos de colaboradores, pacotes de ativação de marca para campanhas de marketing e pacotes de experiência VIP para eventos de clientes de luxo.',
           features: ['Pacote de Team Building', 'Pacote de Ativação de Marca', 'Pacote de Experiência VIP'],
         },
         {
           title: 'Processo Rápido de Protótipo e Aprovação',
           description:
-            'A Afarer apoia a confirmação rápida de design com revisão de arte final e ajuste gráfico, desenvolvimento de protótipos para confirmação de cor e colocação do logótipo e agendamento de produção alinhado com os prazos do evento.',
+            'A OLagoon apoia a confirmação rápida de design com revisão de arte final e ajuste gráfico, desenvolvimento de protótipos para confirmação de cor e colocação do logótipo e agendamento de produção alinhado com os prazos do evento.',
           features: ['Confirmação Rápida de Design', 'Desenvolvimento de Protótipos', 'Agendamento de Produção'],
         },
         {
           title: 'Capacidade de Produção Personalizada em Volume',
           description:
-            'A Afarer apoia encomendas corporativas desde pequenos eventos de 50–100 un. para atividades internas, projetos de marketing médios de 100–500 un. para ativações de marca até grandes campanhas corporativas de 500–1000+ un. para eventos nacionais.',
+            'A OLagoon apoia encomendas corporativas desde pequenos eventos de 50–100 un. para atividades internas, projetos de marketing médios de 100–500 un. para ativações de marca até grandes campanhas corporativas de 500–1000+ un. para eventos nacionais.',
           features: [
             'Pequenos Eventos Corporativos (50–100 un.)',
             'Projetos de Marketing Médios (100–500 un.)',
@@ -945,7 +945,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Pacotes Completos de Equipamento Para Eventos',
           description:
-            'A Afarer fornece soluções completas de evento incluindo pranchas SUP personalizadas, pagaias ajustáveis, bombas, leashes, sacos de transporte, kits de reparação e, opcionalmente, pagaias marcadas, acessórios de evento e materiais de exposição.',
+            'A OLagoon fornece soluções completas de evento incluindo pranchas SUP personalizadas, pagaias ajustáveis, bombas, leashes, sacos de transporte, kits de reparação e, opcionalmente, pagaias marcadas, acessórios de evento e materiais de exposição.',
           features: ['O Pacote Padrão Inclui', 'Personalização Opcional', 'Equipamento Para Equipas'],
         },
         {
@@ -961,13 +961,13 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Controlo de Qualidade Para Projetos de Marca',
           description:
-            'A Afarer fornece inspeção de qualidade de produção para materiais e impressão, controlo de exatidão da marca para posição do logótipo e consistência de cor e inspeção de entrega para quantidade, embalagem e acessórios.',
+            'A OLagoon fornece inspeção de qualidade de produção para materiais e impressão, controlo de exatidão da marca para posição do logótipo e consistência de cor e inspeção de entrega para quantidade, embalagem e acessórios.',
           features: ['Inspeção de Qualidade de Produção', 'Controlo de Exatidão da Marca', 'Inspeção de Entrega'],
         },
         {
           title: 'Apoio à Entrega de Eventos Globais',
           description:
-            'Para empresas multinacionais, a Afarer apoia projetos multipaís, eventos regionais e campanhas globais com produção coordenada, embalagem e preparação de envio entre localizações.',
+            'Para empresas multinacionais, a OLagoon apoia projetos multipaís, eventos regionais e campanhas globais com produção coordenada, embalagem e preparação de envio entre localizações.',
           features: ['Projetos Multipaís', 'Eventos Regionais', 'Campanhas Globais'],
         },
       ],
@@ -985,7 +985,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Integração de Design de Marca',
           detail:
-            'A Afarer desenvolveu grafismos personalizados de prancha com correspondência exata de cor de marca e colocação de logótipo em grande formato para maximizar o impacto visual na água.',
+            'A OLagoon desenvolveu grafismos personalizados de prancha com correspondência exata de cor de marca e colocação de logótipo em grande formato para maximizar o impacto visual na água.',
         },
         {
           title: 'Aprovação de Protótipo',
@@ -1022,17 +1022,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Conceito do Programa e Engenharia de Produto Personalizado',
               detail:
-                'Em novembro de 2024, a equipa de Klaus encontrou-se com a divisão de Eventos Corporativos da Afarer na boot Düsseldorf para rever o conceito. A Afarer propôs uma prancha de touring personalizada de 11\'6" nas cores da i-series da BMW (Blue Ridge Mountain Metallic, Frozen Pure Grey) com acentos de fibra de carbono tecida iguais aos acabamentos interiores do i7. Os engenheiros da Afarer criaram 3 pranchas de protótipo com suportes GoPro integrados para fotografia de ação, tapetes de convés antiderrapantes com costura inspirada na BMW M e tampas de válvula personalizadas com o emblema da BMW. A BMW aprovou 120 unidades a €895 por prancha com um sistema dedicado de armazenagem e transporte em carrinhos com rodas personalizados.',
+                'Em novembro de 2024, a equipa de Klaus encontrou-se com a divisão de Eventos Corporativos da OLagoon na boot Düsseldorf para rever o conceito. A OLagoon propôs uma prancha de touring personalizada de 11\'6" nas cores da i-series da BMW (Blue Ridge Mountain Metallic, Frozen Pure Grey) com acentos de fibra de carbono tecida iguais aos acabamentos interiores do i7. Os engenheiros da OLagoon criaram 3 pranchas de protótipo com suportes GoPro integrados para fotografia de ação, tapetes de convés antiderrapantes com costura inspirada na BMW M e tampas de válvula personalizadas com o emblema da BMW. A BMW aprovou 120 unidades a €895 por prancha com um sistema dedicado de armazenagem e transporte em carrinhos com rodas personalizados.',
             },
             {
               title: 'Integração de Marca e Planeamento Logístico do Evento',
               detail:
-                'A equipa de grafismos da Afarer desenvolveu decalques full-wrap estáveis a UV com a marca BMW i, códigos QR com ligação ao configurador BMW i e grafismos de instruções de segurança em 8 línguas. A equipa logística desenhou um sistema de rotação enviando 40 pranchas para cada uma das 3 regiões (Europa do Sul, Europa Central, Nórdico/Báltico) com estações de bomba móveis, insufladores a bateria e balneários impermeáveis. A equipa de eventos da BMW selecionou 18 locais incluindo o Lago de Como (Itália), St. Tropez (França), o Lago de Lucerna (Suíça), o Lago de Garda (Itália) e o arquipélago perto de Estocolmo (Suécia), cada um recebendo 300–600 hóspedes em programas de 2–3 dias.',
+                'A equipa de grafismos da OLagoon desenvolveu decalques full-wrap estáveis a UV com a marca BMW i, códigos QR com ligação ao configurador BMW i e grafismos de instruções de segurança em 8 línguas. A equipa logística desenhou um sistema de rotação enviando 40 pranchas para cada uma das 3 regiões (Europa do Sul, Europa Central, Nórdico/Báltico) com estações de bomba móveis, insufladores a bateria e balneários impermeáveis. A equipa de eventos da BMW selecionou 18 locais incluindo o Lago de Como (Itália), St. Tropez (França), o Lago de Lucerna (Suíça), o Lago de Garda (Itália) e o arquipélago perto de Estocolmo (Suécia), cada um recebendo 300–600 hóspedes em programas de 2–3 dias.',
             },
             {
               title: 'Ativação no Local e Design da Experiência dos Hóspedes',
               detail:
-                'Cada evento apresentava uma «BMW i Paddle Experience» com 40 pranchas disponíveis em sessões guiadas de 90 minutos lideradas por instrutores formados pela Afarer. Os hóspedes receberam t-shirts de surf personalizadas com marca BMW i e bolsas impermeáveis para telemóvel. Fotógrafos profissionais capturaram cada hóspede a pagaiar com os suportes de câmara integrados das pranchas; as imagens foram editadas e entregues em 2 horas através de um microsite com marca. A ativação foi emparelhada com test-drives do BMW i7 em estradas costeiras cénicas, criando uma imersão de marca em terra e na água. Nos primeiros 10 eventos, a satisfação dos hóspedes atingiu 4,8/5 e a BMW reportou que 23% dos participantes pediram um test-drive de seguimento num concessionário.',
+                'Cada evento apresentava uma «BMW i Paddle Experience» com 40 pranchas disponíveis em sessões guiadas de 90 minutos lideradas por instrutores formados pela OLagoon. Os hóspedes receberam t-shirts de surf personalizadas com marca BMW i e bolsas impermeáveis para telemóvel. Fotógrafos profissionais capturaram cada hóspede a pagaiar com os suportes de câmara integrados das pranchas; as imagens foram editadas e entregues em 2 horas através de um microsite com marca. A ativação foi emparelhada com test-drives do BMW i7 em estradas costeiras cénicas, criando uma imersão de marca em terra e na água. Nos primeiros 10 eventos, a satisfação dos hóspedes atingiu 4,8/5 e a BMW reportou que 23% dos participantes pediram um test-drive de seguimento num concessionário.',
             },
             {
               title: 'Revisão de Desempenho e Expansão do Programa',
@@ -1059,17 +1059,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Design do Programa e Planeamento Logístico Multilocalização',
               detail:
-                'A equipa da Dra. Sharma contratou a Afarer em fevereiro de 2025 para um programa corporativo personalizado. A Afarer propôs o tema «Paddle into Production», em que equipas de 8–10 engenheiros navegariam percursos SUP representando as etapas do pipeline de implementação do Google Cloud. A Afarer personalizou 80 pranchas com a marca Google Cloud, codificação de cores por equipa e tapetes técnicos impermeáveis para segurar dispositivos móveis. O plano logístico cobriu 6 localizações: sede de Sunnyvale, Seattle, Nova Iorque, Austin, Chicago e Boulder, com eventos espaçados a cada 2 semanas de junho a agosto de 2025. A Afarer comprometeu €320 mil por 80 pranchas, 24 instrutores, logística completa e equipamento com marca para 1.200 participantes.',
+                'A equipa da Dra. Sharma contratou a OLagoon em fevereiro de 2025 para um programa corporativo personalizado. A OLagoon propôs o tema «Paddle into Production», em que equipas de 8–10 engenheiros navegariam percursos SUP representando as etapas do pipeline de implementação do Google Cloud. A OLagoon personalizou 80 pranchas com a marca Google Cloud, codificação de cores por equipa e tapetes técnicos impermeáveis para segurar dispositivos móveis. O plano logístico cobriu 6 localizações: sede de Sunnyvale, Seattle, Nova Iorque, Austin, Chicago e Boulder, com eventos espaçados a cada 2 semanas de junho a agosto de 2025. A OLagoon comprometeu €320 mil por 80 pranchas, 24 instrutores, logística completa e equipamento com marca para 1.200 participantes.',
             },
             {
               title: 'Desenvolvimento de Atividade Inclusiva e Enquadramento de Segurança',
               detail:
-                'A equipa de programação da Afarer criou 3 níveis de habilidade: «Beginner Buoy» (pagaia básica e jogos de estabilidade), «Production Racer» (estafetas de equipa) e «Cloud Cluster» (desafios de formação de grupo que exigem coordenação). Cada nível incluía desafios com o tema Google Cloud, como «deploy a container» (equilibrar uma bola na prancha enquanto pagaia) e «scale to zero» (todos se têm de sentar em simultâneo). A Afarer contratou 24 instrutores SUP certificados em todas as localizações e desenvolveu um protocolo de segurança abrangente incluindo coletes obrigatórios, sistema de pares, testes de natação e vigias na água com pranchas de resgate.',
+                'A equipa de programação da OLagoon criou 3 níveis de habilidade: «Beginner Buoy» (pagaia básica e jogos de estabilidade), «Production Racer» (estafetas de equipa) e «Cloud Cluster» (desafios de formação de grupo que exigem coordenação). Cada nível incluía desafios com o tema Google Cloud, como «deploy a container» (equilibrar uma bola na prancha enquanto pagaia) e «scale to zero» (todos se têm de sentar em simultâneo). A OLagoon contratou 24 instrutores SUP certificados em todas as localizações e desenvolveu um protocolo de segurança abrangente incluindo coletes obrigatórios, sistema de pares, testes de natação e vigias na água com pranchas de resgate.',
             },
             {
               title: 'Integração, Branded Swag e Execução do Evento',
               detail:
-                'Cada participante recebeu um kit de boas-vindas com marca incluindo uma t-shirt de surf Google Cloud x Afarer, protetor labial com SPF, dry bag e livrinho do evento. As sessões de 2 horas incluíam 30 minutos de instrução em terra, 75 minutos de atividades na água e 15 minutos de arrefecimento com foto de equipa usando um drone. A equipa de eventos da Afarer tratou de toda a montagem, desmontagem e limpeza em cada local — os colaboradores da Google só precisavam de aparecer. O primeiro evento no Shoreline Lake em Mountain View, a 12 de junho de 2025, alcançou 97% de presença com equipas a competirem pelo prémio «Highest Availability» baseado em coordenação e velocidade.',
+                'Cada participante recebeu um kit de boas-vindas com marca incluindo uma t-shirt de surf Google Cloud x OLagoon, protetor labial com SPF, dry bag e livrinho do evento. As sessões de 2 horas incluíam 30 minutos de instrução em terra, 75 minutos de atividades na água e 15 minutos de arrefecimento com foto de equipa usando um drone. A equipa de eventos da OLagoon tratou de toda a montagem, desmontagem e limpeza em cada local — os colaboradores da Google só precisavam de aparecer. O primeiro evento no Shoreline Lake em Mountain View, a 12 de junho de 2025, alcançou 97% de presença com equipas a competirem pelo prémio «Highest Availability» baseado em coordenação e velocidade.',
             },
             {
               title: 'Análise de Resultados e Expansão Para o Ano Dois',
@@ -1086,8 +1086,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que as Empresas Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que as Empresas Escolhem a OLagoon',
       items: [
         {
           title: 'Apresentação de Marca',
@@ -1097,7 +1097,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Execução Rápida do Projeto',
           description:
-            'Os prazos importam. O processo simplificado da Afarer avança do conceito à entrega dentro de calendários de evento apertados.',
+            'Os prazos importam. O processo simplificado da OLagoon avança do conceito à entrega dentro de calendários de evento apertados.',
         },
         {
           title: 'Fabrico Personalizado',
@@ -1107,7 +1107,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Entrega Fiável',
           description:
-            'Os eventos não podem esperar. A Afarer garante agendamento de produção e coordenação de envio para cumprir datas fixas de evento.',
+            'Os eventos não podem esperar. A OLagoon garante agendamento de produção e coordenação de envio para cumprir datas fixas de evento.',
         },
         {
           title: 'Impacto Visual',
@@ -1125,36 +1125,36 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Podem igualar cores corporativas exatas (Pantone) nas pranchas SUP?',
         answer:
-          'Sim, a Afarer apoia a correspondência de cores Pantone e os requisitos de identidade visual corporativa com reprodução precisa de cor. Fornecemos amostras de protótipo para aprovação de cor antes da produção em massa para garantir que o produto final corresponde exatamente aos padrões da sua marca.',
+          'Sim, a OLagoon apoia a correspondência de cores Pantone e os requisitos de identidade visual corporativa com reprodução precisa de cor. Fornecemos amostras de protótipo para aprovação de cor antes da produção em massa para garantir que o produto final corresponde exatamente aos padrões da sua marca.',
       },
       {
         question: 'Qual é a quantidade mínima de encomenda para pranchas SUP personalizadas com marca?',
         answer:
-          'A Afarer acomoda diferentes escalas de projeto. Pequenos eventos corporativos e atividades internas começam em 50–100 unidades. Campanhas de marketing médias variam entre 100–500 unidades e grandes eventos nacionais ou multilocalização podem escalar para 500–1000+ unidades.',
+          'A OLagoon acomoda diferentes escalas de projeto. Pequenos eventos corporativos e atividades internas começam em 50–100 unidades. Campanhas de marketing médias variam entre 100–500 unidades e grandes eventos nacionais ou multilocalização podem escalar para 500–1000+ unidades.',
       },
       {
         question: 'Quanto tempo demora o processo de prototipagem e aprovação?',
         answer:
-          'O processo de prototipagem é concebido para velocidade. A Afarer fornece confirmação rápida de design, revisão de arte final e desenvolvimento de protótipos tipicamente em 1–2 semanas. Isto deixa tempo suficiente para aprovação e produção em massa antes dos prazos do evento.',
+          'O processo de prototipagem é concebido para velocidade. A OLagoon fornece confirmação rápida de design, revisão de arte final e desenvolvimento de protótipos tipicamente em 1–2 semanas. Isto deixa tempo suficiente para aprovação e produção em massa antes dos prazos do evento.',
       },
       {
         question: 'Podem entregar em múltiplas localizações para eventos de campanhas globais?',
         answer:
-          'Sim, a Afarer apoia campanhas de eventos multipaís e multilocalização. Coordenamos produção, embalagem e preparação de envio para garantir entrega consistente em todas as localizações de eventos regionais ou globais.',
+          'Sim, a OLagoon apoia campanhas de eventos multipaís e multilocalização. Coordenamos produção, embalagem e preparação de envio para garantir entrega consistente em todas as localizações de eventos regionais ou globais.',
       },
       {
         question: 'Que opções de personalização estão disponíveis para além da impressão de logótipo?',
         answer:
-          'Para além da impressão de logótipo, a Afarer oferece marca na superfície completa da prancha, personalização de pagaias, correspondência de cores corporativas com referências Pantone, designs gráficos com tema de evento, arte de edição limitada e acessórios com marca incluindo pagaias, bombas e sacos.',
+          'Para além da impressão de logótipo, a OLagoon oferece marca na superfície completa da prancha, personalização de pagaias, correspondência de cores corporativas com referências Pantone, designs gráficos com tema de evento, arte de edição limitada e acessórios com marca incluindo pagaias, bombas e sacos.',
       },
       {
         question: 'Oferecem pacotes completos de evento incluindo acessórios e pagaias?',
         answer:
-          'Sim, a Afarer fornece pacotes completos de equipamento de evento incluindo pranchas SUP personalizadas, pagaias ajustáveis, bombas, leashes, sacos de transporte e kits de reparação. Adições opcionais incluem pagaias com marca, acessórios de evento, materiais de exposição e equipamento para equipas.',
+          'Sim, a OLagoon fornece pacotes completos de equipamento de evento incluindo pranchas SUP personalizadas, pagaias ajustáveis, bombas, leashes, sacos de transporte e kits de reparação. Adições opcionais incluem pagaias com marca, acessórios de evento, materiais de exposição e equipamento para equipas.',
       },
     ],
     cta: {
-      title: 'Crie a Sua Experiência Aquática Corporativa Com a Afarer',
+      title: 'Crie a Sua Experiência Aquática Corporativa Com a OLagoon',
       subtitle: 'A sua marca merece ser lembrada.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto SUP Corporativo',
@@ -1169,15 +1169,15 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante de SUP de pesca | Paddle boards de pesca insufláveis personalizados | {SITE}',
       description:
-        'A Afarer ajuda marcas de artigos de pesca a criar produtos SUP de pesca personalizados com designs de alta estabilidade, sistemas de porta-varas, suportes para caixas térmicas, acessórios D-ring e soluções de fabrico de marca privada.',
+        'A OLagoon ajuda marcas de artigos de pesca a criar produtos SUP de pesca personalizados com designs de alta estabilidade, sistemas de porta-varas, suportes para caixas térmicas, acessórios D-ring e soluções de fabrico de marca privada.',
     },
     hero: {
       tagline: 'Crie a Sua Marca de SUP de Pesca™',
       title: 'Fabrico Personalizado de SUP de Pesca para Marcas de Equipamento de Pesca',
       subtitle:
-        'A Afarer ajuda marcas de equipamento de pesca a criar produtos SUP de Pesca personalizados com designs de alta estabilidade, sistemas de suporte para canas, fixações para térmicas, acessórios com anéis em D e soluções de fabrico de marca própria.',
+        'A OLagoon ajuda marcas de equipamento de pesca a criar produtos SUP de Pesca personalizados com designs de alta estabilidade, sistemas de suporte para canas, fixações para térmicas, acessórios com anéis em D e soluções de fabrico de marca própria.',
       image: {
-        alt: 'Descrição das pranchas SUP personalizadas Afarer',
+        alt: 'Descrição das pranchas SUP personalizadas OLagoon',
       },
     },
     challenge: {
@@ -1280,7 +1280,7 @@ const pt: Record<string, SolutionOverride> = {
       customer:
         'Marca Norte-Americana de Equipamento de Pesca, originalmente vendendo canas de pesca, caixas de equipamento e acessórios de pesca de exterior a uma comunidade leal de pescadores experientes.',
       steps: [
-        'A Afarer analisou os utilizadores-alvo e definiu o posicionamento do produto como «Plataforma Insuflável Profissional de Pesca Para Pescadores Exigentes», alinhado com a reputação da marca.',
+        'A OLagoon analisou os utilizadores-alvo e definiu o posicionamento do produto como «Plataforma Insuflável Profissional de Pesca Para Pescadores Exigentes», alinhado com a reputação da marca.',
         "Criou um Modelo de SUP de Pesca de 11' com plataforma extra larga para estar em pé, alta capacidade de carga, estrutura Drop Stitch reforçada, múltiplos sistemas de anéis em D e compatibilidade com suporte para canas.",
         'Desenvolveu grafismos focados na pesca, sistema de cores de exterior e embalagem profissional que atraía pescadores experientes.',
         'Lançamento com 500 unidades distribuídas através dos clientes de pesca existentes, loja de ecommerce e rede de revendedores de outdoor.',
@@ -1305,22 +1305,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Codesign com Pescadores Profissionais e Análise Ergonómica',
               detail:
-                'A Afarer enviou uma equipa de desenvolvimento de produto de 3 pessoas a Gotemburgo em março de 2023 para um workshop de codesign de 10 dias. Trabalharam com 8 pescadores profissionais e semiprofissionais (incluindo o campeão sueco de pesca desportiva Lars Nilsson), cada um com mais de 15 anos de experiência de pesca em SUP. A equipa realizou uma análise de captura de movimento dos gestos de lançamento e recolha em pranchas de protótipo para identificar as posições ideais em pé. Principais conclusões: o ângulo ideal do suporte da cana era de 22 graus face à vertical (contra 15 graus nos produtos concorrentes), a área de armazenagem do equipamento precisava de ficar a menos de 40 cm do alcance natural do praticante e a prancha precisava de uma largura mínima de 34" para se estar em pé com estabilidade em condições de vento de 30 km/h. O workshop produziu 47 requisitos de design específicos, dos quais 42 foram incorporados no design final.',
+                'A OLagoon enviou uma equipa de desenvolvimento de produto de 3 pessoas a Gotemburgo em março de 2023 para um workshop de codesign de 10 dias. Trabalharam com 8 pescadores profissionais e semiprofissionais (incluindo o campeão sueco de pesca desportiva Lars Nilsson), cada um com mais de 15 anos de experiência de pesca em SUP. A equipa realizou uma análise de captura de movimento dos gestos de lançamento e recolha em pranchas de protótipo para identificar as posições ideais em pé. Principais conclusões: o ângulo ideal do suporte da cana era de 22 graus face à vertical (contra 15 graus nos produtos concorrentes), a área de armazenagem do equipamento precisava de ficar a menos de 40 cm do alcance natural do praticante e a prancha precisava de uma largura mínima de 34" para se estar em pé com estabilidade em condições de vento de 30 km/h. O workshop produziu 47 requisitos de design específicos, dos quais 42 foram incorporados no design final.',
             },
             {
               title: 'Fase 2 — Engenharia do Sistema de Pesca Integrado e Testes de Protótipo',
               detail:
-                'Os designers industriais da Afarer desenvolveram um sistema modular de «Convés de Pesca»: um sistema de trilhos em alumínio amovível (1,2 m de comprimento) montado através de 12 inserts de aço inoxidável moldados no núcleo drop-stitch da prancha. O trilho aceitava 4 suportes para canas (ângulo ajustável, libertação rápida), uma grande caixa de equipamento (32 L, classificação impermeável IP67, amovível), um suporte para rede e um porta-copos para termosses (requisito do mercado nórdico). Três pranchas de protótipo foram produzidas em maio de 2023 e testadas durante 4 semanas em 6 lagos suecos (Vänern, Vättern, Mälaren e 3 lagos menores na Småland). O programa de testes registou 340 horas de pesca ativa. Um protótipo desenvolveu uma ligeira deformação após 3 dias de exposição contínua ao sol com 26 °C — a Afarer aumentou a espessura do PVC do convés de 0,9 mm para 1,2 mm em todas as unidades de produção.',
+                'Os designers industriais da OLagoon desenvolveram um sistema modular de «Convés de Pesca»: um sistema de trilhos em alumínio amovível (1,2 m de comprimento) montado através de 12 inserts de aço inoxidável moldados no núcleo drop-stitch da prancha. O trilho aceitava 4 suportes para canas (ângulo ajustável, libertação rápida), uma grande caixa de equipamento (32 L, classificação impermeável IP67, amovível), um suporte para rede e um porta-copos para termosses (requisito do mercado nórdico). Três pranchas de protótipo foram produzidas em maio de 2023 e testadas durante 4 semanas em 6 lagos suecos (Vänern, Vättern, Mälaren e 3 lagos menores na Småland). O programa de testes registou 340 horas de pesca ativa. Um protótipo desenvolveu uma ligeira deformação após 3 dias de exposição contínua ao sol com 26 °C — a OLagoon aumentou a espessura do PVC do convés de 0,9 mm para 1,2 mm em todas as unidades de produção.',
             },
             {
               title: 'Fase 3 — Embalagem de Retalho Nórdica, Integração em Catálogo e Pré-venda',
               detail:
-                'A Afarer desenhou uma embalagem robusta com rotulagem bilingue (sueco/finlandês) e uma disposição interior de «Kit de Arranque de SUP de Pesca»: prancha, trilho de pesca com 4 suportes para canas, caixa de equipamento, pagaia em 3 partes, bomba de ação dupla, mochila e um guia de 32 páginas «Pescar a partir do SUP» em sueco, norueguês e finlandês. A Nordic Angler lançou a pré-venda na Feira Comercial Sueca de Pesca Desportiva em Estocolmo (agosto de 2023), garantindo encomendas firmes de 34 retalhistas para 860 unidades. Erik negociou um acordo exclusivo de distribuição nórdica de 12 meses com a Afarer, garantindo que nenhum SUP de pesca de marca privada concorrente seria vendido aos concorrentes da Nordic Angler durante esse período.',
+                'A OLagoon desenhou uma embalagem robusta com rotulagem bilingue (sueco/finlandês) e uma disposição interior de «Kit de Arranque de SUP de Pesca»: prancha, trilho de pesca com 4 suportes para canas, caixa de equipamento, pagaia em 3 partes, bomba de ação dupla, mochila e um guia de 32 páginas «Pescar a partir do SUP» em sueco, norueguês e finlandês. A Nordic Angler lançou a pré-venda na Feira Comercial Sueca de Pesca Desportiva em Estocolmo (agosto de 2023), garantindo encomendas firmes de 34 retalhistas para 860 unidades. Erik negociou um acordo exclusivo de distribuição nórdica de 12 meses com a OLagoon, garantindo que nenhum SUP de pesca de marca privada concorrente seria vendido aos concorrentes da Nordic Angler durante esse período.',
             },
             {
               title: 'Fase 4 — Produção, Timing Sazonal e Vendas do Primeiro Ano',
               detail:
-                'A produção de 1.200 unidades (700 Lake Angler, 500 Expedition Angler) decorreu de setembro a novembro de 2023 na instalação da Afarer em Zhongshan. A carga partiu de Ningbo a 18 de novembro de 2023 e chegou ao Porto de Gotemburgo a 18 de dezembro de 2023 — com timing ideal para as compras de primavera dos retalhistas. A Nordic Angler distribuiu 760 unidades pelas prateleiras de retalho até 1 de março de 2024, com as restantes 440 unidades no seu próprio armazém para fulfillment direto. Até 31 de maio de 2024, tinham sido vendidas 980 unidades (81,7% da produção inicial). A prancha Lake Angler tornou-se o SUP de pesca nº 1 mais vendido na XXL Suécia em 90 dias. Erik fez uma reposição de 1.800 unidades em junho de 2024 com 3 melhorias de design: um saco de transporte mais almofadado, botões de ajuste do trilho sem ferramentas e um bolso de montagem para localizador GPS.',
+                'A produção de 1.200 unidades (700 Lake Angler, 500 Expedition Angler) decorreu de setembro a novembro de 2023 na instalação da OLagoon em Zhongshan. A carga partiu de Ningbo a 18 de novembro de 2023 e chegou ao Porto de Gotemburgo a 18 de dezembro de 2023 — com timing ideal para as compras de primavera dos retalhistas. A Nordic Angler distribuiu 760 unidades pelas prateleiras de retalho até 1 de março de 2024, com as restantes 440 unidades no seu próprio armazém para fulfillment direto. Até 31 de maio de 2024, tinham sido vendidas 980 unidades (81,7% da produção inicial). A prancha Lake Angler tornou-se o SUP de pesca nº 1 mais vendido na XXL Suécia em 90 dias. Erik fez uma reposição de 1.800 unidades em junho de 2024 com 3 melhorias de design: um saco de transporte mais almofadado, botões de ajuste do trilho sem ferramentas e um bolso de montagem para localizador GPS.',
             },
           ],
           results: [
@@ -1342,22 +1342,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Especificação de Produto Centrada no Guia e Análise de Feedback de Clientes',
               detail:
-                'A equipa de produto da Afarer entrevistou 14 guias de pesca dos EUA em março de 2023 (do Texas, Flórida, Michigan e Oregon) para criar uma especificação consolidada. As 3 características mais pedidas foram: (1) uma plataforma de lançamento elevada na proa (elevação de 8") para melhor visibilidade e espaço para lançamentos traseiros, (2) um sistema de montagem silencioso para motor elétrico de arrasto (mínimo de 55 lbs de empuxo, montagem na popa) e (3) um sistema de trilhos de equipamento compatível com «yak-attack». Dwayne insistiu também numa capacidade de carga máxima de 450 lbs para transportar dois pescadores (guia e cliente). A ficha de especificação resultante tinha 18 páginas, incluindo um relatório de Análise de Elementos Finitos (FEA) da equipa de engenharia da Afarer que mostrava que a prancha suportava uma carga pontual de 250 lbs no vão central com menos de 1,5" de deflexão.',
+                'A equipa de produto da OLagoon entrevistou 14 guias de pesca dos EUA em março de 2023 (do Texas, Flórida, Michigan e Oregon) para criar uma especificação consolidada. As 3 características mais pedidas foram: (1) uma plataforma de lançamento elevada na proa (elevação de 8") para melhor visibilidade e espaço para lançamentos traseiros, (2) um sistema de montagem silencioso para motor elétrico de arrasto (mínimo de 55 lbs de empuxo, montagem na popa) e (3) um sistema de trilhos de equipamento compatível com «yak-attack». Dwayne insistiu também numa capacidade de carga máxima de 450 lbs para transportar dois pescadores (guia e cliente). A ficha de especificação resultante tinha 18 páginas, incluindo um relatório de Análise de Elementos Finitos (FEA) da equipa de engenharia da OLagoon que mostrava que a prancha suportava uma carga pontual de 250 lbs no vão central com menos de 1,5" de deflexão.',
             },
             {
               title: 'Fase 2 — Prototipagem, Testes em Frota de Guias e Ciclo de Iteração',
               detail:
-                'A Afarer produziu 4 pranchas de protótipo Guide Pro em maio de 2023. Dwayne usou-as exclusivamente em 22 saídas guiadas ao longo de 6 semanas (junho–julho de 2023), envolvendo 54 clientes. Cada saída foi documentada com feedback escrito dos clientes e filmagens. Principais conclusões: a plataforma de lançamento elevada foi bem recebida (avaliada com 4,8/5), mas os clientes acharam a colocação inicial do trilho de equipamento demasiado à frente — a Afarer moveu-o 6" para trás. A montagem silenciosa do motor de arrasto funcionava, mas o peso (9 lbs) alterava o equilíbrio da prancha — a Afarer redesenhou-a como um suporte de alumínio em 2 partes pesando 5,2 lbs. O comentário mais comum dos clientes: «Senti-me suficientemente estável para me pôr em pé e lançar à primeira tentativa.» Após 54 saídas com clientes, zero pranchas apresentaram problemas estruturais. Dwayne deu a aprovação final em agosto de 2023.',
+                'A OLagoon produziu 4 pranchas de protótipo Guide Pro em maio de 2023. Dwayne usou-as exclusivamente em 22 saídas guiadas ao longo de 6 semanas (junho–julho de 2023), envolvendo 54 clientes. Cada saída foi documentada com feedback escrito dos clientes e filmagens. Principais conclusões: a plataforma de lançamento elevada foi bem recebida (avaliada com 4,8/5), mas os clientes acharam a colocação inicial do trilho de equipamento demasiado à frente — a OLagoon moveu-o 6" para trás. A montagem silenciosa do motor de arrasto funcionava, mas o peso (9 lbs) alterava o equilíbrio da prancha — a OLagoon redesenhou-a como um suporte de alumínio em 2 partes pesando 5,2 lbs. O comentário mais comum dos clientes: «Senti-me suficientemente estável para me pôr em pé e lançar à primeira tentativa.» Após 54 saídas com clientes, zero pranchas apresentaram problemas estruturais. Dwayne deu a aprovação final em agosto de 2023.',
             },
             {
               title: 'Fase 3 — Lançamento da Marca, Website DTC e Programa de Afiliados para Guias',
               detail:
-                'A Texas Tailwaters lançou a 1 de novembro de 2023 com um site DTC em Shopify construído pela equipa de ecommerce da Afarer. O site incluía 8 vídeos de produto, 34 imagens de estilo de vida capturadas no Lago Travis (incluindo filmagens de drone) e «Notas de Guia» detalhadas (dicas pessoais de Dwayne para cada prancha). A Afarer implementou um programa escalonado de afiliados para guias: os guias recebiam 15% de comissão em indicações diretas, uma prancha de demonstração gratuita após 10 vendas indicadas e acesso exclusivo a um grupo privado no Facebook (42 guias membros em março de 2024). A campanha de lançamento incluiu uma estratégia de Google Ads visando «fishing SUP», «SUP fishing» e «guide paddleboard» com um orçamento mensal de $3.500. Os conteúdos próprios de Dwayne no Instagram geraram tráfego significativo — os seus Reels «Day on the Water» tiveram em média 12.000 visualizações.',
+                'A Texas Tailwaters lançou a 1 de novembro de 2023 com um site DTC em Shopify construído pela equipa de ecommerce da OLagoon. O site incluía 8 vídeos de produto, 34 imagens de estilo de vida capturadas no Lago Travis (incluindo filmagens de drone) e «Notas de Guia» detalhadas (dicas pessoais de Dwayne para cada prancha). A OLagoon implementou um programa escalonado de afiliados para guias: os guias recebiam 15% de comissão em indicações diretas, uma prancha de demonstração gratuita após 10 vendas indicadas e acesso exclusivo a um grupo privado no Facebook (42 guias membros em março de 2024). A campanha de lançamento incluiu uma estratégia de Google Ads visando «fishing SUP», «SUP fishing» e «guide paddleboard» com um orçamento mensal de $3.500. Os conteúdos próprios de Dwayne no Instagram geraram tráfego significativo — os seus Reels «Day on the Water» tiveram em média 12.000 visualizações.',
             },
             {
               title: 'Fase 4 — Fulfillment da Produção, Apoio ao Cliente e Escala do Segundo Ano',
               detail:
-                'A primeira produção de 450 unidades (300 Guide Pro, 150 Expedition Elite) partiu da fábrica da Afarer a 15 de outubro de 2023 e chegou ao parceiro 3PL de Dwayne em Houston (instalação ShipBob) a 22 de novembro de 2023. Dwayne pré-vendeu 87 unidades antes do lançamento através da sua rede de guias. Até 31 de março de 2024, tinham sido vendidas 334 unidades (74,2% do stock). A equipa de apoio ao cliente da Afarer tratou de todos os pedidos de garantia (6 problemas reportados: 3 fugas no núcleo da válvula, 2 solturas da caixa da quilha, 1 bolha no convés) — todos resolvidos em 48 horas. Dwayne contratou uma coordenadora de atendimento a tempo parcial em abril de 2024, com o crescimento do volume. Uma segunda produção de 800 unidades foi encomendada em maio de 2024, com expansão para dois novos retalhistas: Austin Kayak e Fishing Tackle Unlimited (ambos no Texas).',
+                'A primeira produção de 450 unidades (300 Guide Pro, 150 Expedition Elite) partiu da fábrica da OLagoon a 15 de outubro de 2023 e chegou ao parceiro 3PL de Dwayne em Houston (instalação ShipBob) a 22 de novembro de 2023. Dwayne pré-vendeu 87 unidades antes do lançamento através da sua rede de guias. Até 31 de março de 2024, tinham sido vendidas 334 unidades (74,2% do stock). A equipa de apoio ao cliente da OLagoon tratou de todos os pedidos de garantia (6 problemas reportados: 3 fugas no núcleo da válvula, 2 solturas da caixa da quilha, 1 bolha no convés) — todos resolvidos em 48 horas. Dwayne contratou uma coordenadora de atendimento a tempo parcial em abril de 2024, com o crescimento do volume. Uma segunda produção de 800 unidades foi encomendada em maio de 2024, com expansão para dois novos retalhistas: Austin Kayak e Fishing Tackle Unlimited (ambos no Texas).',
             },
           ],
           results: [
@@ -1369,8 +1369,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que a Afarer',
+    whyOLagoon: {
+      title: 'Por Que a OLagoon',
       items: [
         {
           title: 'Necessidades do Utilizador Pescador',
@@ -1407,7 +1407,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Posso adicionar suportes para canas e fixações para térmicas ao SUP?',
         answer:
-          'Sim. A Afarer integra sistemas de acessórios específicos de pesca, incluindo suportes para canas, áreas de montagem para térmicas, suportes para câmaras e pontos de fixação com anéis em D diretamente no design da prancha.',
+          'Sim. A OLagoon integra sistemas de acessórios específicos de pesca, incluindo suportes para canas, áreas de montagem para térmicas, suportes para câmaras e pontos de fixação com anéis em D diretamente no design da prancha.',
       },
       {
         question: 'Qual é a capacidade de carga de um SUP de pesca?',
@@ -1417,7 +1417,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Oferecem personalização de marca para empresas de equipamento de pesca?',
         answer:
-          'Sim. A Afarer fornece fabrico completo de marca própria, com grafismos personalizados da prancha, cores da marca, colocação do logótipo, design do convés em EVA e embalagem para marcas de pesca.',
+          'Sim. A OLagoon fornece fabrico completo de marca própria, com grafismos personalizados da prancha, cores da marca, colocação do logótipo, design do convés em EVA e embalagem para marcas de pesca.',
       },
       {
         question: 'O SUP de pesca pode ser usado em água doce e salgada?',
@@ -1447,13 +1447,13 @@ const pt: Record<string, SolutionOverride> = {
         '{SITE} ajuda criadores de YouTube, TikTok, Instagram e marcas Kickstarter a lançar produtos SUP personalizados com protótipos rápidos, fabrico com MOQ baixo, designs de edição limitada e soluções de marca privada.',
     },
     hero: {
-      tagline: 'Transforme a Sua Audiência Numa Marca de Desportos Aquáticos Com a Afarer',
+      tagline: 'Transforme a Sua Audiência Numa Marca de Desportos Aquáticos Com a OLagoon',
       title:
         'Soluções de Fabrico Personalizado de SUP Para Criadores de YouTube, TikTok, Instagram e Marcas Kickstarter',
       subtitle:
-        'A Afarer ajuda criadores a lançar as suas próprias marcas SUP através do desenvolvimento rápido de protótipos, produção com MOQ baixo, grafismos personalizados, designs de edição limitada, embalagem de marca e soluções de fabrico flexíveis.',
+        'A OLagoon ajuda criadores a lançar as suas próprias marcas SUP através do desenvolvimento rápido de protótipos, produção com MOQ baixo, grafismos personalizados, designs de edição limitada, embalagem de marca e soluções de fabrico flexíveis.',
       image: {
-        alt: 'Pranchas SUP personalizadas Afarer para marcas de criadores e influenciadores',
+        alt: 'Pranchas SUP personalizadas OLagoon para marcas de criadores e influenciadores',
       },
     },
     challenge: {
@@ -1487,7 +1487,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento Rápido de Protótipos SUP',
           description:
-            'A Afarer ajuda a transformar ideias em protótipos físicos rapidamente. Do desenvolvimento do conceito e das amostras da prancha aos testes de grafismos e ajustes de configuração, os criadores podem iterar depressa com base no feedback da comunidade.',
+            'A OLagoon ajuda a transformar ideias em protótipos físicos rapidamente. Do desenvolvimento do conceito e das amostras da prancha aos testes de grafismos e ajustes de configuração, os criadores podem iterar depressa com base no feedback da comunidade.',
           features: [
             'Desenvolvimento do conceito de produto',
             'Criação de protótipos',
@@ -1498,7 +1498,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Produção com MOQ Baixo Para Marcas de Criadores',
           description:
-            'Os criadores precisam de validar a procura antes de escalar. A Afarer apoia quantidades flexíveis de arranque, desde 100–300 unidades para testes de comunidade e lançamentos limitados, escalando para 500–2000 no crescimento e 3000+ para operação de marca a sério.',
+            'Os criadores precisam de validar a procura antes de escalar. A OLagoon apoia quantidades flexíveis de arranque, desde 100–300 unidades para testes de comunidade e lançamentos limitados, escalando para 500–2000 no crescimento e 3000+ para operação de marca a sério.',
           features: [
             'Fase de lançamento do criador: 100–300 unidades',
             'Fase de crescimento: 500–2000 unidades',
@@ -1509,7 +1509,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Design SUP de Edição Limitada Para Criadores',
           description:
-            'As marcas de criadores têm sucesso através da unicidade. A Afarer ajuda a desenvolver edições exclusivas com grafismos personalizados, arte de assinatura, edições especiais de cores e elementos de design inspirados na comunidade que os fãs realmente querem.',
+            'As marcas de criadores têm sucesso através da unicidade. A OLagoon ajuda a desenvolver edições exclusivas com grafismos personalizados, arte de assinatura, edições especiais de cores e elementos de design inspirados na comunidade que os fãs realmente querem.',
           features: [
             'Grafismos e arte personalizados',
             'Edições de assinatura e de comunidade',
@@ -1520,12 +1520,12 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Embalagem Premium Para Lançamentos de Criadores',
           description:
-            'Para os criadores, o unboxing faz parte da experiência de marca. A Afarer apoia embalagem personalizada com caixas de marca, cartões de produto, mensagens de agradecimento e códigos QR com ligação aos conteúdos do criador, transformando clientes em seguidores de longo prazo.',
+            'Para os criadores, o unboxing faz parte da experiência de marca. A OLagoon apoia embalagem personalizada com caixas de marca, cartões de produto, mensagens de agradecimento e códigos QR com ligação aos conteúdos do criador, transformando clientes em seguidores de longo prazo.',
         },
         {
           title: 'Apoio a Produtos Para Kickstarter e Crowdfunding',
           description:
-            'Muitos criadores usam crowdfunding para validar a procura. A Afarer apoia o desenvolvimento de protótipos pré-lançamento, o planeamento de produção da campanha e o fulfillment por lotes pós-campanha, para que os criadores cumpram as suas promessas.',
+            'Muitos criadores usam crowdfunding para validar a procura. A OLagoon apoia o desenvolvimento de protótipos pré-lançamento, o planeamento de produção da campanha e o fulfillment por lotes pós-campanha, para que os criadores cumpram as suas promessas.',
           features: [
             'Desenvolvimento pré-lançamento',
             'Planeamento de produção da campanha',
@@ -1536,7 +1536,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Expansão de Produtos da Marca do Criador',
           description:
-            'Uma marca de criador bem-sucedida pode expandir-se para um ecossistema completo de outdoor. A Afarer apoia linhas de produtos SUP, acessórios aquáticos e coleções sazonais que crescem com a comunidade.',
+            'Uma marca de criador bem-sucedida pode expandir-se para um ecossistema completo de outdoor. A OLagoon apoia linhas de produtos SUP, acessórios aquáticos e coleções sazonais que crescem com a comunidade.',
           features: [
             'Linha de pranchas SUP de assinatura',
             'Acessórios aquáticos',
@@ -1547,7 +1547,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de Produtos Amigável Para Conteúdo',
           description:
-            'Os criadores precisam de produtos que apoiem naturalmente a narrativa. A Afarer ajuda a desenvolver produtos adequados para vídeos de unboxing, conteúdo de aventura, análises de produto e desafios de comunidade que geram envolvimento orgânico.',
+            'Os criadores precisam de produtos que apoiem naturalmente a narrativa. A OLagoon ajuda a desenvolver produtos adequados para vídeos de unboxing, conteúdo de aventura, análises de produto e desafios de comunidade que geram envolvimento orgânico.',
           features: [
             'Design da experiência de unboxing',
             'Produtos prontos para a aventura',
@@ -1558,7 +1558,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Controlo de Qualidade Para a Reputação do Criador',
           description:
-            'A confiança é o ativo mais valioso de um criador. O controlo de qualidade da Afarer inclui testes de estabilidade da pressão de ar, verificação da durabilidade da prancha, checagens de consistência de grafismos e cores e inspeção completa de acessórios, para proteger as relações com a comunidade.',
+            'A confiança é o ativo mais valioso de um criador. O controlo de qualidade da OLagoon inclui testes de estabilidade da pressão de ar, verificação da durabilidade da prancha, checagens de consistência de grafismos e cores e inspeção completa de acessórios, para proteger as relações com a comunidade.',
         },
       ],
     },
@@ -1577,7 +1577,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de Protótipo',
           detail:
-            'A Afarer criou um design personalizado de prancha com grafismos de assinatura e amostras de produto. O criador testou o desempenho e o aspeto e recolheu feedback da audiência antes de avançar para a produção.',
+            'A OLagoon criou um design personalizado de prancha com grafismos de assinatura e amostras de produto. O criador testou o desempenho e o aspeto e recolheu feedback da audiência antes de avançar para a produção.',
         },
         {
           title: 'Lançamento de Edição Limitada',
@@ -1602,29 +1602,29 @@ const pt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brasil',
             background:
-              'Carlos Mendes, 34 anos, é um fotógrafo de aventura com trabalhos publicados na National Geographic e piloto de drones, com 890.000 seguidores no Instagram. Após 7 anos a documentar expedições remotas nos rios da Amazónia, notou que a sua audiência perguntava cada vez mais pelos SUP insufláveis que ele usava para aceder aos locais de filmagem. Sem bagagem de remagem, precisou que a Afarer engenheirasse uma prancha personalizada que servisse tanto de plataforma para câmaras como de embarcação de expedição, lançando simultaneamente uma marca de merchan em torno da sua série «Rios do Brasil».',
+              'Carlos Mendes, 34 anos, é um fotógrafo de aventura com trabalhos publicados na National Geographic e piloto de drones, com 890.000 seguidores no Instagram. Após 7 anos a documentar expedições remotas nos rios da Amazónia, notou que a sua audiência perguntava cada vez mais pelos SUP insufláveis que ele usava para aceder aos locais de filmagem. Sem bagagem de remagem, precisou que a OLagoon engenheirasse uma prancha personalizada que servisse tanto de plataforma para câmaras como de embarcação de expedição, lançando simultaneamente uma marca de merchan em torno da sua série «Rios do Brasil».',
             goal: 'Lançar um SUP de assinatura cobrandado até maio de 2025, capturando os 5 grandes biomas aquáticos do Brasil (Amazónia, Pantanal, São Francisco, Paraná e litoral do Rio), com pré-venda de 500 unidades a R$4.990 cada antes da produção.',
           },
           steps: [
             {
-              title: 'Expedição de I&D Específica do Bioma com Engenheiros da Afarer',
+              title: 'Expedição de I&D Específica do Bioma com Engenheiros da OLagoon',
               detail:
-                'Em agosto de 2024, a Afarer enviou o engenheiro sénior marinho Li Wei e o designer de produto Henrik Larsson a Manaus por 10 dias. Remaram 180 km do Rio Negro com Carlos, medindo a temperatura da água (28–32 °C), a carga de sedimentos e a carga típica (40 kg de equipamento de câmara mais 25 kg de equipamento de camping). Constatar que as pranchas drop-stitch padrão delaminavam sob a combinação de índice UV equatorial de 12+ e a ingestão abrasiva de areia durante os transportes terrestres. Carlos insistiu que a prancha teria de desinsuflar para caber num dry bag de 65 litros para viagens em avioneta.',
+                'Em agosto de 2024, a OLagoon enviou o engenheiro sénior marinho Li Wei e o designer de produto Henrik Larsson a Manaus por 10 dias. Remaram 180 km do Rio Negro com Carlos, medindo a temperatura da água (28–32 °C), a carga de sedimentos e a carga típica (40 kg de equipamento de câmara mais 25 kg de equipamento de camping). Constatar que as pranchas drop-stitch padrão delaminavam sob a combinação de índice UV equatorial de 12+ e a ingestão abrasiva de areia durante os transportes terrestres. Carlos insistiu que a prancha teria de desinsuflar para caber num dry bag de 65 litros para viagens em avioneta.',
             },
             {
               title: 'Construção Fusion de Três Camadas e Sistema Modular de Fixação',
               detail:
-                'O centro de I&D da Afarer em Xiamen produziu 7 protótipos entre setembro e novembro de 2024. O design final usava um sanduíche de 3 camadas PVC-Dropstitch-PVC com um revestimento superior adicional refletor de UV, testado com 1.200 horas de exposição UV acelerada. Um sistema proprietário de escoramento «Rails-to-Rail» acrescentou rigidez lateral sem peso extra. Carlos e a Afarer codesenharam um sistema modular de trilho para câmara aparafusado através de almofadas reforçadas — sem ventosas — testado para segurar 28 kg a 30 km/h em reboque. Cada prancha pesava apenas 11,8 kg, mas suportava 220 kg de carga.',
+                'O centro de I&D da OLagoon em Xiamen produziu 7 protótipos entre setembro e novembro de 2024. O design final usava um sanduíche de 3 camadas PVC-Dropstitch-PVC com um revestimento superior adicional refletor de UV, testado com 1.200 horas de exposição UV acelerada. Um sistema proprietário de escoramento «Rails-to-Rail» acrescentou rigidez lateral sem peso extra. Carlos e a OLagoon codesenharam um sistema modular de trilho para câmara aparafusado através de almofadas reforçadas — sem ventosas — testado para segurar 28 kg a 30 km/h em reboque. Cada prancha pesava apenas 11,8 kg, mas suportava 220 kg de carga.',
             },
             {
               title: 'Campanha de Pré-Lançamento Liderada Por Conteúdo e Edições Limitadas do Bioma',
               detail:
-                'A partir de dezembro de 2024, Carlos lançou 5 minidocumentários (em média 4,2 milhões de visualizações cada) mostrando testes de protótipo em cada bioma. A Afarer montou uma loja D2C dedicada em Shopify com centros logísticos regionais em Manaus, São Paulo e Brasília. Produziram 5 esquemas de cores específicos do bioma (Rio Negro de águas escuras, Pantanal pôr do sol, São Francisco vermelho desfiladeiro, Paraná verde floresta, Costa Dourada dourado), cada um limitado a 100 unidades. Os clientes podiam «adotar» o seu bioma e recebiam um donativo rastreado por GPS para o fundo de reflorestação da Amazónia de Carlos.',
+                'A partir de dezembro de 2024, Carlos lançou 5 minidocumentários (em média 4,2 milhões de visualizações cada) mostrando testes de protótipo em cada bioma. A OLagoon montou uma loja D2C dedicada em Shopify com centros logísticos regionais em Manaus, São Paulo e Brasília. Produziram 5 esquemas de cores específicos do bioma (Rio Negro de águas escuras, Pantanal pôr do sol, São Francisco vermelho desfiladeiro, Paraná verde floresta, Costa Dourada dourado), cada um limitado a 100 unidades. Os clientes podiam «adotar» o seu bioma e recebiam um donativo rastreado por GPS para o fundo de reflorestação da Amazónia de Carlos.',
             },
             {
               title: 'Lançamento em Abril de 2025 e Rede de Distribuição no Brasil',
               detail:
-                'A 5 de abril de 2025, o «Rios do Brasil Explorer 12.6» foi lançado no Parque Ibirapuera em São Paulo com 350 influenciadores e média. Todas as 500 unidades foram pré-vendidas em 11 horas — R$2,495 milhões de receita. A Afarer enviou 200 unidades por via aérea para vencer a época seca da Amazónia, enquanto 300 seguiram por via marítima. O programa de donativos por bioma de Carlos angariou R$187.000 no primeiro mês. A Afarer e Carlos assinaram um acordo de exclusividade de 3 anos para a América Latina com um mínimo de 2.000 unidades por ano e um segundo modelo (o «Expedition Tandem») já em desenvolvimento para 2026.',
+                'A 5 de abril de 2025, o «Rios do Brasil Explorer 12.6» foi lançado no Parque Ibirapuera em São Paulo com 350 influenciadores e média. Todas as 500 unidades foram pré-vendidas em 11 horas — R$2,495 milhões de receita. A OLagoon enviou 200 unidades por via aérea para vencer a época seca da Amazónia, enquanto 300 seguiram por via marítima. O programa de donativos por bioma de Carlos angariou R$187.000 no primeiro mês. A OLagoon e Carlos assinaram um acordo de exclusividade de 3 anos para a América Latina com um mínimo de 2.000 unidades por ano e um segundo modelo (o «Expedition Tandem») já em desenvolvimento para 2026.',
             },
           ],
           results: [
@@ -1640,29 +1640,29 @@ const pt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Noruega',
             background:
-              'Tor Haugen, 29 anos, é um ex-esquiador da seleção norueguesa de esqui de fundo, semifinalista dos CrossFit Games, com 620.000 subscritores no YouTube e 410.000 seguidores no TikTok. O seu canal de fitness «Nordic Strength» apresenta treinos ao ar livre com equipamento pouco convencional. Após um vídeo viral (8,7 milhões de visualizações) em que fazia burpees num SUP barato no Fiorde de Oslo, a sua comunidade exigiu uma prancha construída para fitness de alta intensidade. Tor não tinha experiência de design de produto e precisou que a Afarer engenheirasse uma plataforma estável capaz de resistir a saltos, quedas de pesos e aos extremos do clima nórdico.',
+              'Tor Haugen, 29 anos, é um ex-esquiador da seleção norueguesa de esqui de fundo, semifinalista dos CrossFit Games, com 620.000 subscritores no YouTube e 410.000 seguidores no TikTok. O seu canal de fitness «Nordic Strength» apresenta treinos ao ar livre com equipamento pouco convencional. Após um vídeo viral (8,7 milhões de visualizações) em que fazia burpees num SUP barato no Fiorde de Oslo, a sua comunidade exigiu uma prancha construída para fitness de alta intensidade. Tor não tinha experiência de design de produto e precisou que a OLagoon engenheirasse uma plataforma estável capaz de resistir a saltos, quedas de pesos e aos extremos do clima nórdico.',
             goal: 'Criar o primeiro «SUP de fitness funcional» certificado para treino estilo CrossFit, lançado em outubro de 2024 a 3.990 NOK ($370 USD), com pré-venda de 1.000 unidades e uma digressão europeia simultânea por 20 cidades.',
           },
           steps: [
             {
               title: 'Testes de Protótipo no Fiorde de Oslo com Células de Carga',
               detail:
-                'A equipa de produto da Afarer, liderada pela engenheira estrutural Marta Johansson, passou uma semana em março de 2024 na Marina de Kongshavn, em Oslo. Instrumentaram 6 pranchas concorrentes com 14 extensómetros e acelerómetros enquanto Tor executava burpees (ritmo de 120 bpm), sustentações de barra overhead (60 kg) e box jumps (caixa de 50 cm). Os resultados mostraram que as pranchas SUP padrão sofriam 3,7 vezes a carga dinâmica da remagem recreativa. A flexão do convés excedia 22 mm — perigosa para a estabilidade dos tornozelos. A equipa de Marta calculou que precisavam de uma caixa de torção 200% mais rígida, com uma plataforma de pé exclusiva «drop-through».',
+                'A equipa de produto da OLagoon, liderada pela engenheira estrutural Marta Johansson, passou uma semana em março de 2024 na Marina de Kongshavn, em Oslo. Instrumentaram 6 pranchas concorrentes com 14 extensómetros e acelerómetros enquanto Tor executava burpees (ritmo de 120 bpm), sustentações de barra overhead (60 kg) e box jumps (caixa de 50 cm). Os resultados mostraram que as pranchas SUP padrão sofriam 3,7 vezes a carga dinâmica da remagem recreativa. A flexão do convés excedia 22 mm — perigosa para a estabilidade dos tornozelos. A equipa de Marta calculou que precisavam de uma caixa de torção 200% mais rígida, com uma plataforma de pé exclusiva «drop-through».',
             },
             {
               title: 'Plataforma com Longarina Compósita e Tecnologia de Convés Antiderrapante',
               detail:
-                'Ao longo de 4 meses, a Afarer construiu 9 protótipos com rigidez crescente. O avanço veio de uma longarina em alumínio marinho de 2,5 mm em sanduíche entre duas camadas drop-stitch, produzindo uma prancha com 0,8 mm de flexão sob carga dinâmica de 100 kg. O convés usava uma espuma EVA de célula fechada com padrão de diamante em relevo de 6 mm — Tor testou-a molhada, salgada e enlameada, verificando que a aderência superava a fita antiderrapante de skate. A Afarer acrescentou fixações com anéis em D em 22 pontos ao redor do perímetro da prancha para elásticos de resistência e discos de peso. Cada prancha tinha uma âncora de leash de encaixe classificada para 500 kg de carga estática.',
+                'Ao longo de 4 meses, a OLagoon construiu 9 protótipos com rigidez crescente. O avanço veio de uma longarina em alumínio marinho de 2,5 mm em sanduíche entre duas camadas drop-stitch, produzindo uma prancha com 0,8 mm de flexão sob carga dinâmica de 100 kg. O convés usava uma espuma EVA de célula fechada com padrão de diamante em relevo de 6 mm — Tor testou-a molhada, salgada e enlameada, verificando que a aderência superava a fita antiderrapante de skate. A OLagoon acrescentou fixações com anéis em D em 22 pontos ao redor do perímetro da prancha para elásticos de resistência e discos de peso. Cada prancha tinha uma âncora de leash de encaixe classificada para 500 kg de carga estática.',
             },
             {
               title: 'Cobranding Nordic Strength e Processo de Certificação',
               detail:
-                'Tor e a Afarer criaram a marca «Nordic Strength Trainer 11.0», com o esquema de cores azul e branco de assinatura de Tor, igual à arte do seu canal. A Afarer acompanhou Tor na certificação CE europeia para equipamento de fitness (um processo separado da certificação SUP padrão), que exigiu 200 horas de testes de fadiga mecânica. A embalagem incluía códigos QR com ligação ao programa de treino «Fjord Fitness» de 12 semanas de Tor, filmado em parceria com uma clínica norueguesa de medicina desportiva. A Afarer montou um centro europeu de distribuição em Roterdão para servir 20 países.',
+                'Tor e a OLagoon criaram a marca «Nordic Strength Trainer 11.0», com o esquema de cores azul e branco de assinatura de Tor, igual à arte do seu canal. A OLagoon acompanhou Tor na certificação CE europeia para equipamento de fitness (um processo separado da certificação SUP padrão), que exigiu 200 horas de testes de fadiga mecânica. A embalagem incluía códigos QR com ligação ao programa de treino «Fjord Fitness» de 12 semanas de Tor, filmado em parceria com uma clínica norueguesa de medicina desportiva. A OLagoon montou um centro europeu de distribuição em Roterdão para servir 20 países.',
             },
             {
               title: 'Lançamento em Outubro de 2024 Por 20 Cidades Europeias',
               detail:
-                'A digressão «Fjord to Peak» de Tor arrancou a 12 de outubro de 2024, na zona balnear de Sørenga, em Oslo, com 1.200 participantes num treino coletivo de SUP. Ao longo de 5 semanas, Tor visitou Copenhaga, Hamburgo, Amesterdão, Berlim, Varsóvia, Praga, Munique, Zurique, Milão, Barcelona, Madrid, Paris, Londres, Dublim, Edimburgo, Estocolmo, Helsínquia, Talin e Riga. Cada evento combinava uma aula de fitness SUP de 45 minutos e um encontro com o público. Todas as 1.000 unidades de lançamento foram vendidas em pré-venda antes do primeiro evento; a Afarer apressou-se a enviar por via aérea 500 unidades adicionais a meio da digressão. As vendas totais de 2024 atingiram 2.300 unidades em 18 países europeus.',
+                'A digressão «Fjord to Peak» de Tor arrancou a 12 de outubro de 2024, na zona balnear de Sørenga, em Oslo, com 1.200 participantes num treino coletivo de SUP. Ao longo de 5 semanas, Tor visitou Copenhaga, Hamburgo, Amesterdão, Berlim, Varsóvia, Praga, Munique, Zurique, Milão, Barcelona, Madrid, Paris, Londres, Dublim, Edimburgo, Estocolmo, Helsínquia, Talin e Riga. Cada evento combinava uma aula de fitness SUP de 45 minutos e um encontro com o público. Todas as 1.000 unidades de lançamento foram vendidas em pré-venda antes do primeiro evento; a OLagoon apressou-se a enviar por via aérea 500 unidades adicionais a meio da digressão. As vendas totais de 2024 atingiram 2.300 unidades em 18 países europeus.',
             },
           ],
           results: [
@@ -1674,8 +1674,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Criadores Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Criadores Escolhem a OLagoon',
       items: [
         {
           title: 'Especialização em Produto',
@@ -1703,38 +1703,38 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Qual é a quantidade mínima de encomenda para produtos SUP de marca de criador?',
         answer:
-          'A Afarer apoia produção com MOQ baixo a partir de 100–300 unidades na fase de lançamento do criador, permitindo validar a procura sem investimento massivo em inventário. À medida que a sua marca cresce, podemos escalar a produção para 500–2000 unidades e além.',
+          'A OLagoon apoia produção com MOQ baixo a partir de 100–300 unidades na fase de lançamento do criador, permitindo validar a procura sem investimento massivo em inventário. À medida que a sua marca cresce, podemos escalar a produção para 500–2000 unidades e além.',
       },
       {
-        question: 'A Afarer pode ajudar no design e na prototipagem da minha prancha SUP personalizada?',
+        question: 'A OLagoon pode ajudar no design e na prototipagem da minha prancha SUP personalizada?',
         answer:
-          'Sim, a Afarer fornece desenvolvimento completo do conceito de produto, criação de protótipos, testes de cores e grafismos e ajuste de configuração. Trabalhamos em estreita colaboração com os criadores para dar vida à sua visão, com designs personalizados de prancha, grafismos de assinatura e amostras de produto.',
+          'Sim, a OLagoon fornece desenvolvimento completo do conceito de produto, criação de protótipos, testes de cores e grafismos e ajuste de configuração. Trabalhamos em estreita colaboração com os criadores para dar vida à sua visão, com designs personalizados de prancha, grafismos de assinatura e amostras de produto.',
       },
       {
         question: 'Quanto tempo demora a desenvolver um protótipo e a iniciar a produção?',
         answer:
-          'A Afarer dá prioridade à velocidade nos projetos de criadores. O desenvolvimento de protótipos costuma demorar algumas semanas e os prazos de produção são flexíveis para acompanhar os calendários de campanha, o timing sazonal e o momento da audiência.',
+          'A OLagoon dá prioridade à velocidade nos projetos de criadores. O desenvolvimento de protótipos costuma demorar algumas semanas e os prazos de produção são flexíveis para acompanhar os calendários de campanha, o timing sazonal e o momento da audiência.',
       },
       {
         question: 'Podem apoiar campanhas Kickstarter com fabrico e fulfillment?',
         answer:
-          'Sim, a Afarer apoia a preparação de protótipos pré-lançamento, o planeamento de produção da campanha, o desenvolvimento de prazos estimados e o fulfillment por lotes pós-campanha, incluindo a preparação de embalagem e expedição.',
+          'Sim, a OLagoon apoia a preparação de protótipos pré-lançamento, o planeamento de produção da campanha, o desenvolvimento de prazos estimados e o fulfillment por lotes pós-campanha, incluindo a preparação de embalagem e expedição.',
       },
       {
         question: 'Que opções de personalização estão disponíveis para pranchas SUP de edição limitada?',
         answer:
-          'A Afarer oferece grafismos personalizados, arte de assinatura, logótipos do criador, símbolos da comunidade, padrões únicos, edições especiais de cores, numeração limitada e embalagem premium com caixas de marca e materiais de história.',
+          'A OLagoon oferece grafismos personalizados, arte de assinatura, logótipos do criador, símbolos da comunidade, padrões únicos, edições especiais de cores, numeração limitada e embalagem premium com caixas de marca e materiais de história.',
       },
       {
-        question: 'Como é que a Afarer garante o controlo de qualidade dos produtos de marca de criador?',
+        question: 'Como é que a OLagoon garante o controlo de qualidade dos produtos de marca de criador?',
         answer:
-          'A Afarer conduz testes de estabilidade da pressão de ar, verificação da durabilidade da prancha, inspeção da qualidade dos materiais, checagens de consistência de grafismos e cores, revisão da qualidade da embalagem e inspeção completa de acessórios, para proteger a confiança da sua comunidade.',
+          'A OLagoon conduz testes de estabilidade da pressão de ar, verificação da durabilidade da prancha, inspeção da qualidade dos materiais, checagens de consistência de grafismos e cores, revisão da qualidade da embalagem e inspeção completa de acessórios, para proteger a confiança da sua comunidade.',
       },
     ],
     cta: {
-      title: 'Construa a Sua Marca SUP Edição de Criador Com a Afarer',
+      title: 'Construa a Sua Marca SUP Edição de Criador Com a OLagoon',
       subtitle:
-        'A sua audiência já segue a sua jornada. Agora crie algo que eles possam experienciar. A Afarer ajuda os criadores a lançar produtos SUP personalizados, pranchas de edição limitada e equipamento de outdoor de marca própria.',
+        'A sua audiência já segue a sua jornada. Agora crie algo que eles possam experienciar. A OLagoon ajuda os criadores a lançar produtos SUP personalizados, pranchas de edição limitada e equipamento de outdoor de marca própria.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto SUP de Criador',
       },
@@ -1748,7 +1748,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fornecedor de equipamento aquático para destinos turísticos | {SITE}',
       description:
-        'A Afarer oferece soluções aquáticas para destinos a entidades de turismo, parques públicos e projetos ribeirinhos. Frotas SUP comerciais, equipamento ecológico, apoio a projetos governamentais e fornecimento OEM à grande escala.',
+        'A OLagoon oferece soluções aquáticas para destinos a entidades de turismo, parques públicos e projetos ribeirinhos. Frotas SUP comerciais, equipamento ecológico, apoio a projetos governamentais e fornecimento OEM à grande escala.',
     },
     hero: {
       tagline:
@@ -1842,7 +1842,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Planeamento de Destino',
           detail:
-            'A Afarer desenhou um sistema completo de atividades aquáticas incluindo planeamento da quantidade de frotas, zonas de atividade e configuração de equipamento.',
+            'A OLagoon desenhou um sistema completo de atividades aquáticas incluindo planeamento da quantidade de frotas, zonas de atividade e configuração de equipamento.',
         },
         {
           title: 'Fornecimento de Equipamento Comercial',
@@ -1880,17 +1880,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Especificação de Frota Silenciosa e Requisitos de Materiais Biodegradáveis',
               detail:
-                'Em setembro de 2024, Kovacic lançou um concurso público exigindo (1) zero plásticos de utilização única na construção das pranchas, (2) reciclabilidade total no fim de vida e (3) certificação de operação silenciosa abaixo de 25 dB a 5 m. A Afarer venceu com a EcoTouring 12\'6" X, construída com fio drop stitch de origem biológica (polímero à base de óleo de rícino, 42% de conteúdo renovável) e tapetes de convés de cortiça natural (cortiça portuguesa certificada FSC). Cada prancha incluía uma longarina de bambu selada para rigidez sem componentes à base de petróleo. A LBTB encomendou 200 pranchas (€246 mil no total) mais 12 estações de insuflação elétricas alimentadas por quiosques de carregamento solar à beira do lago.',
+                'Em setembro de 2024, Kovacic lançou um concurso público exigindo (1) zero plásticos de utilização única na construção das pranchas, (2) reciclabilidade total no fim de vida e (3) certificação de operação silenciosa abaixo de 25 dB a 5 m. A OLagoon venceu com a EcoTouring 12\'6" X, construída com fio drop stitch de origem biológica (polímero à base de óleo de rícino, 42% de conteúdo renovável) e tapetes de convés de cortiça natural (cortiça portuguesa certificada FSC). Cada prancha incluía uma longarina de bambu selada para rigidez sem componentes à base de petróleo. A LBTB encomendou 200 pranchas (€246 mil no total) mais 12 estações de insuflação elétricas alimentadas por quiosques de carregamento solar à beira do lago.',
             },
             {
               title: 'Passo 2: Eco-Rota de 6 Km Guiada por GPS Com 12 Pontos Interpretativos',
               detail:
-                'Ao longo do inverno de 2024–2025, a LBTB mapeou uma rota perimetral de 6,2 km com 12 pontos interpretativos de paragem (nascente geotérmica do Castelo de Bled, mecanismo de sineiro da Igreja de Santa Maria, zonas de sedimentação da ilha). A Afarer integrou uma unidade de áudio-guia impermeável com GPS (tablet robusto IP68 num suporte de convés) que fornece segmentos narrados de 90 segundos em cada ponto em 7 idiomas. A rota foi desenhada para evitar zonas sensíveis de nidificação de aves (locais de mergulhão-de-poupa, encerramento de novembro a março). A LBTB instalou 12 boias de sinalização em bambu a um custo de €18 mil, substituindo 32 boias existentes de lanchas a motor.',
+                'Ao longo do inverno de 2024–2025, a LBTB mapeou uma rota perimetral de 6,2 km com 12 pontos interpretativos de paragem (nascente geotérmica do Castelo de Bled, mecanismo de sineiro da Igreja de Santa Maria, zonas de sedimentação da ilha). A OLagoon integrou uma unidade de áudio-guia impermeável com GPS (tablet robusto IP68 num suporte de convés) que fornece segmentos narrados de 90 segundos em cada ponto em 7 idiomas. A rota foi desenhada para evitar zonas sensíveis de nidificação de aves (locais de mergulhão-de-poupa, encerramento de novembro a março). A LBTB instalou 12 boias de sinalização em bambu a um custo de €18 mil, substituindo 32 boias existentes de lanchas a motor.',
             },
             {
               title: 'Passo 3: Programa de Transição e Certificação dos Operadores de Aluguer',
               detail:
-                'Na época baixa de janeiro a março de 2025, a LBTB executou um programa de transição obrigatório para todos os 14 operadores licenciados de aluguer de embarcações. A Afarer forneceu certificação de guia SUP de 4 dias a 36 operadores e colaboradores, cobrindo conhecimento da rota, resposta a emergências e entrega de interpretação ambiental. A LBTB ofereceu um subsídio de €4.000 por operador para a transição de lanchas a motor para aluguer SUP, financiado pela subvenção Green Transition do Ministério Esloveno do Turismo (€280 mil no total). Até 1 de abril, 11 dos 14 operadores tinham transitado totalmente; os restantes 3 comprometeram-se a operações híbridas com um calendário de eliminação progressiva até 2026.',
+                'Na época baixa de janeiro a março de 2025, a LBTB executou um programa de transição obrigatório para todos os 14 operadores licenciados de aluguer de embarcações. A OLagoon forneceu certificação de guia SUP de 4 dias a 36 operadores e colaboradores, cobrindo conhecimento da rota, resposta a emergências e entrega de interpretação ambiental. A LBTB ofereceu um subsídio de €4.000 por operador para a transição de lanchas a motor para aluguer SUP, financiado pela subvenção Green Transition do Ministério Esloveno do Turismo (€280 mil no total). Até 1 de abril, 11 dos 14 operadores tinham transitado totalmente; os restantes 3 comprometeram-se a operações híbridas com um calendário de eliminação progressiva até 2026.',
             },
             {
               title: 'Passo 4: Lançamento no Dia da Terra, Resultados da Época e Conformidade UNESCO',
@@ -1918,17 +1918,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Mapeamento de Rotas, Avaliação de Riscos e Conformidade Com a Zonagem Marinho',
               detail:
-                "De novembro de 2024 a fevereiro de 2025, a equipa de Delacroix trabalhou com os especialistas em rotas da Afarer e o Escritório Francês da Biodiversidade (OFB) para inspecionar e classificar 50 km de litoral. Identificaram 5 rotas: (1) Cap d'Antibes até Baie des Milliardaires (4,2 km, intermédio), (2) Circum-navegação da Île Sainte-Marguerite (7,1 km, avançado), (3) Calanque de Maubois (2,8 km, principiante), (4) Reserva Marinha de Villefranche-sur-Mer (3,5 km, somente guiada) e (5) Menton até Cap Martin Sunset Paddle (5,5 km, intermédio). Cada rota foi mapeada por GPS com 12–15 pontos de referência incluindo paragens de descanso obrigatórias em beach clubs privados pré-aprovados que pagavam uma taxa anual de parceria de €2.500.",
+                "De novembro de 2024 a fevereiro de 2025, a equipa de Delacroix trabalhou com os especialistas em rotas da OLagoon e o Escritório Francês da Biodiversidade (OFB) para inspecionar e classificar 50 km de litoral. Identificaram 5 rotas: (1) Cap d'Antibes até Baie des Milliardaires (4,2 km, intermédio), (2) Circum-navegação da Île Sainte-Marguerite (7,1 km, avançado), (3) Calanque de Maubois (2,8 km, principiante), (4) Reserva Marinha de Villefranche-sur-Mer (3,5 km, somente guiada) e (5) Menton até Cap Martin Sunset Paddle (5,5 km, intermédio). Cada rota foi mapeada por GPS com 12–15 pontos de referência incluindo paragens de descanso obrigatórias em beach clubs privados pré-aprovados que pagavam uma taxa anual de parceria de €2.500.",
             },
             {
               title: 'Passo 2: Especificações de Frota Premium e Integração Com o Concierge Hoteleiro',
               detail:
-                'A FRTCB encomendou 350 pranchas Afarer Explorer 11\'6" X numa paleta de cores personalizada «Mediterranean Breeze» (terracota, azeitona, creme) com suporte GoPro integrado, ranhura para estojo de telemóvel impermeável e um porta-garrafas de champanhe (um bolso de rede com D-ring personalizado à frente do tapete de convés). Cada prancha veio com uma pagaia de carbono de 4 peças num conjunto de viagem tipo Peli. A equipa de software da Afarer construiu uma web app móvel em marca branca que permite aos concierges dos hotéis reservar pranchas, verificar condições da rota em tempo real através de 6 boias meteorológicas ligadas e acionar alertas de emergência. A encomenda total foi de €429 mil.',
+                'A FRTCB encomendou 350 pranchas OLagoon Explorer 11\'6" X numa paleta de cores personalizada «Mediterranean Breeze» (terracota, azeitona, creme) com suporte GoPro integrado, ranhura para estojo de telemóvel impermeável e um porta-garrafas de champanhe (um bolso de rede com D-ring personalizado à frente do tapete de convés). Cada prancha veio com uma pagaia de carbono de 4 peças num conjunto de viagem tipo Peli. A equipa de software da OLagoon construiu uma web app móvel em marca branca que permite aos concierges dos hotéis reservar pranchas, verificar condições da rota em tempo real através de 6 boias meteorológicas ligadas e acionar alertas de emergência. A encomenda total foi de €429 mil.',
             },
             {
               title: 'Passo 3: Certificação de Guias, Protocolo de Segurança e Rede de Beach Clubs Parceiros',
               detail:
-                'Em março de 2025, a Afarer conduziu 5 sessões de formação regionais no Nice Yacht Club, certificando 62 guias (23 colaboradores de atividades hoteleiras, 39 operadores independentes de desportos aquáticos). A certificação incluía conteúdo específico da FRTCB: reconhecimento de padrões de vento mediterrânicos (contingências Mistral/Libeccio), primeiros socorros para medusas e padrões de comunicação com hóspedes de luxo. Delacroix estabeleceu um protocolo de segurança exigindo coletes salva-vidas obrigatórios para todos os hóspedes (coletes RFD NRS Orion com apito e faca), comunicação prancha-a-prancha via rádios VHF impermeáveis e um tamanho máximo de grupo de 12 hóspedes por 2 guias.',
+                'Em março de 2025, a OLagoon conduziu 5 sessões de formação regionais no Nice Yacht Club, certificando 62 guias (23 colaboradores de atividades hoteleiras, 39 operadores independentes de desportos aquáticos). A certificação incluía conteúdo específico da FRTCB: reconhecimento de padrões de vento mediterrânicos (contingências Mistral/Libeccio), primeiros socorros para medusas e padrões de comunicação com hóspedes de luxo. Delacroix estabeleceu um protocolo de segurança exigindo coletes salva-vidas obrigatórios para todos os hóspedes (coletes RFD NRS Orion com apito e faca), comunicação prancha-a-prancha via rádios VHF impermeáveis e um tamanho máximo de grupo de 12 hóspedes por 2 guias.',
             },
             {
               title: 'Passo 4: Lançamento no Festival de Cannes e Crescimento Acelerado da Época',
@@ -1945,13 +1945,13 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Projetos Turísticos Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Projetos Turísticos Escolhem a OLagoon',
       items: [
         {
           title: 'Segurança',
           description:
-            'Desenhado para todos. A Afarer garante que o equipamento cumpre os mais elevados padrões de segurança para utilizadores públicos diversificados.',
+            'Desenhado para todos. A OLagoon garante que o equipamento cumpre os mais elevados padrões de segurança para utilizadores públicos diversificados.',
         },
         {
           title: 'Sustentabilidade',
@@ -1974,7 +1974,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Que certificações de segurança são relevantes para equipamento de frotas SUP públicas?',
         answer:
-          'A Afarer fornece especificações de produto, informação de desempenho e documentação de conformidade adequadas à compra pública. Apoiamos projetos públicos com informação de materiais e certificações de qualidade exigidas nos processos de concurso.',
+          'A OLagoon fornece especificações de produto, informação de desempenho e documentação de conformidade adequadas à compra pública. Apoiamos projetos públicos com informação de materiais e certificações de qualidade exigidas nos processos de concurso.',
       },
       {
         question: 'Quantas pranchas SUP são necessárias para um programa público de recreio aquático?',
@@ -1984,28 +1984,28 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'As pranchas SUP podem ser personalizadas com a marca da cidade ou do destino?',
         answer:
-          'Sim, a Afarer apoia a personalização de marca de destino incluindo logótipos da cidade, grafismos de identidade turística, elementos de design local e arte temática específica. Isto ajuda a criar uma experiência aquática marcante que reforça a identidade do destino.',
+          'Sim, a OLagoon apoia a personalização de marca de destino incluindo logótipos da cidade, grafismos de identidade turística, elementos de design local e arte temática específica. Isto ajuda a criar uma experiência aquática marcante que reforça a identidade do destino.',
       },
       {
-        question: 'Que características ecológicas oferecem as pranchas SUP da Afarer?',
+        question: 'Que características ecológicas oferecem as pranchas SUP da OLagoon?',
         answer:
-          'A Afarer foca-se em materiais duráveis que prolongam a vida útil do produto e reduzem a frequência de substituição, diminuindo o consumo de recursos e os resíduos. Também fornecemos documentação ambiental e informação de conformidade para apoiar iniciativas de turismo sustentável.',
+          'A OLagoon foca-se em materiais duráveis que prolongam a vida útil do produto e reduzem a frequência de substituição, diminuindo o consumo de recursos e os resíduos. Também fornecemos documentação ambiental e informação de conformidade para apoiar iniciativas de turismo sustentável.',
       },
       {
-        question: 'Como é que a Afarer apoia os processos de compra governamental e concursos públicos?',
+        question: 'Como é que a OLagoon apoia os processos de compra governamental e concursos públicos?',
         answer:
-          'A Afarer fornece apoio abrangente incluindo preparação de especificações técnicas, documentação de desempenho do produto, opções de configuração, assistência a propostas de projeto, recomendações de frota, cronogramas de implementação e coordenação de grandes encomendas para produção e entrega.',
+          'A OLagoon fornece apoio abrangente incluindo preparação de especificações técnicas, documentação de desempenho do produto, opções de configuração, assistência a propostas de projeto, recomendações de frota, cronogramas de implementação e coordenação de grandes encomendas para produção e entrega.',
       },
       {
         question: 'Que manutenção é necessária para frotas SUP públicas em contextos municipais?',
         answer:
-          'A Afarer fornece apoio operacional completo incluindo orientação de manutenção, processos de inspeção, procedimentos de substituição de componentes, disponibilidade de peças sobressalentes e planeamento de gestão de frota. Isto garante fiabilidade a longo prazo para programas de recreio público.',
+          'A OLagoon fornece apoio operacional completo incluindo orientação de manutenção, processos de inspeção, procedimentos de substituição de componentes, disponibilidade de peças sobressalentes e planeamento de gestão de frota. Isto garante fiabilidade a longo prazo para programas de recreio público.',
       },
     ],
     cta: {
-      title: 'Crie a Sua Experiência Aquática de Destino Com a Afarer',
+      title: 'Crie a Sua Experiência Aquática de Destino Com a OLagoon',
       subtitle:
-        'Os seus recursos aquáticos têm potencial turístico. A Afarer ajuda a transformar lagos, rios, frentes de água e parques públicos em destinos memoráveis ao ar livre.',
+        'Os seus recursos aquáticos têm potencial turístico. A OLagoon ajuda a transformar lagos, rios, frentes de água e parques públicos em destinos memoráveis ao ar livre.',
       primaryAction: {
         text: 'Comece o Seu Projeto',
       },
@@ -2025,9 +2025,9 @@ const pt: Record<string, SolutionOverride> = {
       tagline: 'Solução de Frota de Aluguer Durável™',
       title: 'Soluções Comerciais de Equipamento SUP Para Negócios de Aluguer, Praias e Destinos Turísticos',
       subtitle:
-        'A Afarer fornece Soluções de Frota de Aluguer Durável concebidas especificamente para negócios comerciais de aluguer. Ajudamos empresas de aluguer de praia, operadores de atividades em lagos, centros aquáticos de resorts e negócios de turismo de aventura a construir frotas SUP rentáveis, com construção durável e manutenção fácil.',
+        'A OLagoon fornece Soluções de Frota de Aluguer Durável concebidas especificamente para negócios comerciais de aluguer. Ajudamos empresas de aluguer de praia, operadores de atividades em lagos, centros aquáticos de resorts e negócios de turismo de aventura a construir frotas SUP rentáveis, com construção durável e manutenção fácil.',
       image: {
-        alt: 'Frota SUP de aluguer durável da Afarer para operadores de praia e desportos aquáticos',
+        alt: 'Frota SUP de aluguer durável da OLagoon para operadores de praia e desportos aquáticos',
       },
     },
     challenge: {
@@ -2061,7 +2061,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Construção SUP Insuflável de Grau de Aluguer',
           description:
-            'Os produtos SUP de aluguer da Afarer focam a durabilidade prática, com material PVC resistente à abrasão, construção de laterais reforçada para impactos frequentes, estrutura drop stitch durável para desempenho estável e sistemas de válvulas de alta durabilidade concebidos para operação diária.',
+            'Os produtos SUP de aluguer da OLagoon focam a durabilidade prática, com material PVC resistente à abrasão, construção de laterais reforçada para impactos frequentes, estrutura drop stitch durável para desempenho estável e sistemas de válvulas de alta durabilidade concebidos para operação diária.',
           features: [
             'Material PVC resistente à abrasão',
             'Construção de laterais reforçada',
@@ -2072,7 +2072,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Design SUP de Aluguer Otimizado Para Custos',
           description:
-            'Os clientes de aluguer não precisam de desempenho de nível de competição. Precisam de estabilidade, segurança, operação fácil e fiabilidade. A Afarer configura produtos com formas all-round estáveis, acessórios padronizados e embalagem prática para uma gestão de equipamento mais rápida.',
+            'Os clientes de aluguer não precisam de desempenho de nível de competição. Precisam de estabilidade, segurança, operação fácil e fiabilidade. A OLagoon configura produtos com formas all-round estáveis, acessórios padronizados e embalagem prática para uma gestão de equipamento mais rápida.',
           features: [
             'Forma all-round estável para principiantes',
             'Acessórios padronizados',
@@ -2083,17 +2083,17 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Pacote Completo de Frota de Aluguer',
           description:
-            'A Afarer cria pacotes de aluguer prontos a usar, incluindo pranchas SUP insufláveis duráveis, pagaias ajustáveis, bombas, leashes, mochilas de transporte e kits de reparação, com opções comerciais adicionais como quilhas suplentes, pagaias extra, válvulas de substituição e soluções de armazenagem.',
+            'A OLagoon cria pacotes de aluguer prontos a usar, incluindo pranchas SUP insufláveis duráveis, pagaias ajustáveis, bombas, leashes, mochilas de transporte e kits de reparação, com opções comerciais adicionais como quilhas suplentes, pagaias extra, válvulas de substituição e soluções de armazenagem.',
         },
         {
           title: 'Soluções de Compra de Frotas em Volume',
           description:
-            'A Afarer apoia operadores que compram frotas de 50, 100, 300 ou mais de 500 pranchas, com apoio à expansão de frotas desde pequenas operações de aluguer até negócios com múltiplas localizações, garantindo qualidade consistente de equipamento e melhor eficiência de compra.',
+            'A OLagoon apoia operadores que compram frotas de 50, 100, 300 ou mais de 500 pranchas, com apoio à expansão de frotas desde pequenas operações de aluguer até negócios com múltiplas localizações, garantindo qualidade consistente de equipamento e melhor eficiência de compra.',
         },
         {
           title: 'Sistema de Manutenção e Reparação Fácil',
           description:
-            'Os negócios de aluguer não podem permitir longas paragens de equipamento. A Afarer fornece design de produto amigável para reparação, com componentes substituíveis, orientação de manutenção para limpeza e armazenagem, e apoio de reparação de emergência com kits e orientação de diagnóstico.',
+            'Os negócios de aluguer não podem permitir longas paragens de equipamento. A OLagoon fornece design de produto amigável para reparação, com componentes substituíveis, orientação de manutenção para limpeza e armazenagem, e apoio de reparação de emergência com kits e orientação de diagnóstico.',
           features: [
             'Componentes substituíveis',
             'Acessórios padrão',
@@ -2104,12 +2104,12 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Otimização Sazonal do Negócio de Aluguer',
           description:
-            'Muitos negócios de aluguer operam sazonalmente. A Afarer ajuda a planear o inventário de acordo com a procura, com produtos adequados para operações de praia no verão, pacotes familiares de SUP, atividades de resort e turismo de aventura com modelos de estilo touring.',
+            'Muitos negócios de aluguer operam sazonalmente. A OLagoon ajuda a planear o inventário de acordo com a procura, com produtos adequados para operações de praia no verão, pacotes familiares de SUP, atividades de resort e turismo de aventura com modelos de estilo touring.',
         },
         {
           title: 'Marca Personalizada Para Operadores de Aluguer',
           description:
-            'O equipamento de aluguer é visível para centenas de clientes. A Afarer apoia a marca com logótipo, personalização de cores em sintonia com a atmosfera da praia ou o estilo do resort, e identificação da frota com numeração das pranchas e etiquetas de modelo que transformam o equipamento numa ferramenta de marketing.',
+            'O equipamento de aluguer é visível para centenas de clientes. A OLagoon apoia a marca com logótipo, personalização de cores em sintonia com a atmosfera da praia ou o estilo do resort, e identificação da frota com numeração das pranchas e etiquetas de modelo que transformam o equipamento numa ferramenta de marketing.',
           features: [
             'Marca com logótipo',
             'Personalização de cores',
@@ -2120,12 +2120,12 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Apoio a Destinos Turísticos e Resorts',
           description:
-            'Muitos negócios turísticos usam o SUP como produto de experiência. A Afarer apoia hotéis, resorts, parques de campismo e parques de aventura com planeamento de frotas, personalização de produtos e produção em lote para experiências completas de atividades aquáticas.',
+            'Muitos negócios turísticos usam o SUP como produto de experiência. A OLagoon apoia hotéis, resorts, parques de campismo e parques de aventura com planeamento de frotas, personalização de produtos e produção em lote para experiências completas de atividades aquáticas.',
         },
         {
           title: 'Melhore o ROI do Negócio de Aluguer',
           description:
-            'A Afarer ajuda os operadores a melhorar a rentabilidade através de uma vida útil mais longa do produto que reduz a frequência de substituição, um custo de manutenção mais baixo que reduz o tempo de reparação e uma maior disponibilidade que aumenta a capacidade diária de aluguer e a satisfação dos clientes.',
+            'A OLagoon ajuda os operadores a melhorar a rentabilidade através de uma vida útil mais longa do produto que reduz a frequência de substituição, um custo de manutenção mais baixo que reduz o tempo de reparação e uma maior disponibilidade que aumenta a capacidade diária de aluguer e a satisfação dos clientes.',
         },
       ],
     },
@@ -2141,7 +2141,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Análise da Frota de Aluguer',
           detail:
-            'A Afarer avaliou a frequência de utilização, o perfil dos clientes e o ambiente operacional, recomendando de seguida uma configuração SUP comercial de aluguer otimizada para o ambiente de praia mediterrânico.',
+            'A OLagoon avaliou a frequência de utilização, o perfil dos clientes e o ambiente operacional, recomendando de seguida uma configuração SUP comercial de aluguer otimizada para o ambiente de praia mediterrânico.',
         },
         {
           title: 'Desenvolvimento de Produto',
@@ -2178,19 +2178,19 @@ const pt: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Testes de Simulação de Armazenagem de Inverno na Câmara Fria da Afarer',
+              title: 'Testes de Simulação de Armazenagem de Inverno na Câmara Fria da OLagoon',
               detail:
-                'Em janeiro de 2024, Sarah enviou 8 pranchas concorrentes e 6 protótipos da Afarer para a instalação da Afarer em Xiamen, para 4 semanas de testes de frio extremo. A câmara de teste oscilava diariamente entre -35 °C e +25 °C (simulando o congela-descongela canadiano de março). As pranchas foram armazenadas em condições simuladas de estante, sob 200 kg de carga de neve. O material XHD-Plus da Afarer — um laminado de 4 camadas com uma membrana interior de TPU — não mostrou microfissuras após 28 ciclos, enquanto 5 das 8 pranchas concorrentes desenvolveram fissuras visíveis. A camada de TPU impedia a entrada de humidade mesmo quando as superfícies das pranchas estavam riscadas. Sarah pediu também um teste de «dobragem a frio»: pranchas dobradas para transporte a -20 °C; as da Afarer sobreviveram a 500 dobras sem falha na linha de vinco.',
+                'Em janeiro de 2024, Sarah enviou 8 pranchas concorrentes e 6 protótipos da OLagoon para a instalação da OLagoon em Xiamen, para 4 semanas de testes de frio extremo. A câmara de teste oscilava diariamente entre -35 °C e +25 °C (simulando o congela-descongela canadiano de março). As pranchas foram armazenadas em condições simuladas de estante, sob 200 kg de carga de neve. O material XHD-Plus da OLagoon — um laminado de 4 camadas com uma membrana interior de TPU — não mostrou microfissuras após 28 ciclos, enquanto 5 das 8 pranchas concorrentes desenvolveram fissuras visíveis. A camada de TPU impedia a entrada de humidade mesmo quando as superfícies das pranchas estavam riscadas. Sarah pediu também um teste de «dobragem a frio»: pranchas dobradas para transporte a -20 °C; as da OLagoon sobreviveram a 500 dobras sem falha na linha de vinco.',
             },
             {
               title: 'Pacote Personalizado «Canadian Shield» com Capas de Armazenagem Isoladas',
               detail:
-                'Com base nos resultados dos testes, a Afarer desenvolveu a especificação «Canadian Shield»: construção PVC/TPU de 4 camadas, válvulas de aço inoxidável classificadas para -40 °C (as válvulas padrão de latão gripam com o gelo) e pegas de transporte reforçadas classificadas para 2 vezes o peso da prancha, para transporte na neve. A Afarer desenhou uma capa de armazenagem isolada com forro de lã (a «Winter Jacket») que mantinha a temperatura interna 12 °C acima da ambiente. Sarah testou as capas em março de 2024 no Lago Muskoka: pranchas armazenadas a -22 °C durante a noite dentro das capas estavam a -8 °C de manhã e insuflavam 3 minutos mais depressa. A Afarer produziu 150 capas como parte da encomenda.',
+                'Com base nos resultados dos testes, a OLagoon desenvolveu a especificação «Canadian Shield»: construção PVC/TPU de 4 camadas, válvulas de aço inoxidável classificadas para -40 °C (as válvulas padrão de latão gripam com o gelo) e pegas de transporte reforçadas classificadas para 2 vezes o peso da prancha, para transporte na neve. A OLagoon desenhou uma capa de armazenagem isolada com forro de lã (a «Winter Jacket») que mantinha a temperatura interna 12 °C acima da ambiente. Sarah testou as capas em março de 2024 no Lago Muskoka: pranchas armazenadas a -22 °C durante a noite dentro das capas estavam a -8 °C de manhã e insuflavam 3 minutos mais depressa. A OLagoon produziu 150 capas como parte da encomenda.',
             },
             {
               title: 'Formação Pré-Época para Equipas de Resort em 3 Propriedades',
               detail:
-                'Em maio de 2024, o gestor de serviço da Afarer para a América do Norte, Jake Patterson, passou 5 dias a formar 28 funcionários nos 3 resorts. Os protocolos específicos do Canadá incluíam: comissionamento de primavera (lista de verificação detalhada de danos de armazenagem a frio), insuflação correta a 13–15 PSI (ajustada para água fria — o Lago Muskoka média 14 °C em junho), procedimento de invernagem para pranchas armazenadas em hangares não aquecidos e um sistema WhatsApp de «comunicação de danos em 15 minutos». Jake ensinou também a equipa a identificar danos comuns de roedura de castores canadianos (um problema real: 2 pranchas perdidas para castores em 2023) e a reparar com remendos reforçados de PVC.',
+                'Em maio de 2024, o gestor de serviço da OLagoon para a América do Norte, Jake Patterson, passou 5 dias a formar 28 funcionários nos 3 resorts. Os protocolos específicos do Canadá incluíam: comissionamento de primavera (lista de verificação detalhada de danos de armazenagem a frio), insuflação correta a 13–15 PSI (ajustada para água fria — o Lago Muskoka média 14 °C em junho), procedimento de invernagem para pranchas armazenadas em hangares não aquecidos e um sistema WhatsApp de «comunicação de danos em 15 minutos». Jake ensinou também a equipa a identificar danos comuns de roedura de castores canadianos (um problema real: 2 pranchas perdidas para castores em 2023) e a reparar com remendos reforçados de PVC.',
             },
             {
               title: 'Lançamento no Verão de 2024 e Desempenho na Época das Folhas',
@@ -2218,17 +2218,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Estudo de Stress Térmico de Julho de 2023 na Playa de la Fontanilla de Marbella',
               detail:
-                'Em julho de 2023, o responsável técnico mediterrânico da Afarer, Pedro Sánchez, conduziu um estudo de 3 semanas na praia principal de Miguel. Instrumentaram 10 pranchas concorrentes e 5 protótipos da Afarer com sensores de pressão Bluetooth a registar a cada 5 minutos. Os resultados mostraram que as pranchas concorrentes perdiam 2,8–4,1 PSI em 8 horas (começando em 15 PSI, caindo para 10,9–12,2 PSI às 16h00). As pranchas XHD-Thermal da Afarer — usando uma camada exterior prateada refletora de calor e enchimento com gás azoto — perderam apenas 0,7 PSI. Pedro descobriu o problema-chave: o ar padrão expande com o calor, aumentando a pressão interna, o que aciona a libertação da válvula de segurança; o enchimento com azoto da Afarer (moléculas maiores, difusão mais lenta) reduzia este efeito. A temperatura da superfície das pranchas na areia às 15h00 atingia 67 °C — a camada prateada da Afarer refletia 34% da radiação infravermelha.',
+                'Em julho de 2023, o responsável técnico mediterrânico da OLagoon, Pedro Sánchez, conduziu um estudo de 3 semanas na praia principal de Miguel. Instrumentaram 10 pranchas concorrentes e 5 protótipos da OLagoon com sensores de pressão Bluetooth a registar a cada 5 minutos. Os resultados mostraram que as pranchas concorrentes perdiam 2,8–4,1 PSI em 8 horas (começando em 15 PSI, caindo para 10,9–12,2 PSI às 16h00). As pranchas XHD-Thermal da OLagoon — usando uma camada exterior prateada refletora de calor e enchimento com gás azoto — perderam apenas 0,7 PSI. Pedro descobriu o problema-chave: o ar padrão expande com o calor, aumentando a pressão interna, o que aciona a libertação da válvula de segurança; o enchimento com azoto da OLagoon (moléculas maiores, difusão mais lenta) reduzia este efeito. A temperatura da superfície das pranchas na areia às 15h00 atingia 67 °C — a camada prateada da OLagoon refletia 34% da radiação infravermelha.',
             },
             {
               title: '«Edição Costa del Sol» com Convés Dissipador de Calor e Âncora Antirroubo',
               detail:
-                'A Afarer criou uma especificação personalizada para Miguel: «Costasol Edition 11.0», com convés de cortiça (mantém-se 8 °C mais fresco do que a espuma EVA no pico do sol, verificado com câmara térmica), válvulas de aço inoxidável resistentes ao calor com anéis em silicone (contra a borracha padrão, que degrada com mais de 400 horas de sol espanhol) e um sistema de quilhas estabilizado para UV classificado para 2.000 horas de exposição UV. Miguel pediu uma função de dissuasão de roubo: a Afarer integrou uma argola de cabo em aço inoxidável na proa da prancha, pela qual a equipa poda passar um cadeado de combinação — reduzindo o roubo de pranchas de 12/ano para 0. Cada prancha tinha o logótipo do beach club de Miguel em gravação a quente (sem autocolantes para descascar) com um código QR com ligação à declaração de responsabilidade e ao contrato de aluguer.',
+                'A OLagoon criou uma especificação personalizada para Miguel: «Costasol Edition 11.0», com convés de cortiça (mantém-se 8 °C mais fresco do que a espuma EVA no pico do sol, verificado com câmara térmica), válvulas de aço inoxidável resistentes ao calor com anéis em silicone (contra a borracha padrão, que degrada com mais de 400 horas de sol espanhol) e um sistema de quilhas estabilizado para UV classificado para 2.000 horas de exposição UV. Miguel pediu uma função de dissuasão de roubo: a OLagoon integrou uma argola de cabo em aço inoxidável na proa da prancha, pela qual a equipa poda passar um cadeado de combinação — reduzindo o roubo de pranchas de 12/ano para 0. Cada prancha tinha o logótipo do beach club de Miguel em gravação a quente (sem autocolantes para descascar) com um código QR com ligação à declaração de responsabilidade e ao contrato de aluguer.',
             },
             {
               title: 'Logística de Aluguer de Alto Volume e Formação de Equipa',
               detail:
-                'A consultora de operações da Afarer, Ana Martínez, passou 2 semanas em fevereiro de 2024 a otimizar o fluxo de aluguer de Miguel. O modelo «agarra e vai»: 50 pranchas permanentemente insufladas num suporte rolante personalizado (construído pela equipa de acessórios da Afarer), reduzindo o tempo de check-out de 8 minutos para 90 segundos. Ana formou 22 funcionários sazonais em: verificação de insuflação de 1 minuto com manómetro calibrado, limpeza adequada do convés de cortiça (sabão neutro, sem máquina de alta pressão), protocolo de reforço de pressão à tarde (verificação de 30 segundos às 14h00) e enxaguamento final diário com sistema de pulverização de água doce (instalado pela Afarer, 80€/estação). O novo fluxo permitiu a 2 funcionários gerir 200 pranchas em vez de 5 funcionários para 85.',
+                'A consultora de operações da OLagoon, Ana Martínez, passou 2 semanas em fevereiro de 2024 a otimizar o fluxo de aluguer de Miguel. O modelo «agarra e vai»: 50 pranchas permanentemente insufladas num suporte rolante personalizado (construído pela equipa de acessórios da OLagoon), reduzindo o tempo de check-out de 8 minutos para 90 segundos. Ana formou 22 funcionários sazonais em: verificação de insuflação de 1 minuto com manómetro calibrado, limpeza adequada do convés de cortiça (sabão neutro, sem máquina de alta pressão), protocolo de reforço de pressão à tarde (verificação de 30 segundos às 14h00) e enxaguamento final diário com sistema de pulverização de água doce (instalado pela OLagoon, 80€/estação). O novo fluxo permitiu a 2 funcionários gerir 200 pranchas em vez de 5 funcionários para 85.',
             },
             {
               title: 'Verão de 2024: O Julho Mais Quente de Sempre em Espanha',
@@ -2245,8 +2245,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Negócios de Aluguer Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Negócios de Aluguer Escolhem a OLagoon',
       items: [
         {
           title: 'Utilização Comercial',
@@ -2274,38 +2274,38 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Que tipo de pranchas SUP é o melhor para negócios de aluguer?',
         answer:
-          'Os negócios de aluguer precisam de pranchas SUP all-round duráveis e estáveis, com construção reforçada, formas amigáveis para principiantes, acessórios padronizados e características de manutenção fácil. As pranchas de aluguer da Afarer são especificamente concebidas para resistir à utilização frequente por clientes de todos os níveis.',
+          'Os negócios de aluguer precisam de pranchas SUP all-round duráveis e estáveis, com construção reforçada, formas amigáveis para principiantes, acessórios padronizados e características de manutenção fácil. As pranchas de aluguer da OLagoon são especificamente concebidas para resistir à utilização frequente por clientes de todos os níveis.',
       },
       {
         question: 'Como posso reduzir os custos de manutenção da minha frota SUP de aluguer?',
         answer:
-          'A Afarer ajuda a reduzir os custos de manutenção através de uma construção durável que resiste aos danos, componentes padronizados que simplificam as reparações, peças substituíveis que eliminam a substituição total da prancha e orientação de manutenção que ajuda a sua equipa a lidar com a manutenção básica com eficiência.',
+          'A OLagoon ajuda a reduzir os custos de manutenção através de uma construção durável que resiste aos danos, componentes padronizados que simplificam as reparações, peças substituíveis que eliminam a substituição total da prancha e orientação de manutenção que ajuda a sua equipa a lidar com a manutenção básica com eficiência.',
       },
       {
         question: 'Qual é a quantidade mínima de encomenda para frotas SUP de aluguer?',
         answer:
-          'A Afarer apoia tamanhos flexíveis de frota, desde operações pequenas que começam com 50 pranchas até frotas de grande escala com mais de 500 pranchas. Fornecemos soluções de compra em volume com qualidade consistente em todas as quantidades.',
+          'A OLagoon apoia tamanhos flexíveis de frota, desde operações pequenas que começam com 50 pranchas até frotas de grande escala com mais de 500 pranchas. Fornecemos soluções de compra em volume com qualidade consistente em todas as quantidades.',
       },
       {
         question: 'Oferecem preços de volume para operadores de aluguer?',
         answer:
-          'Sim, a Afarer oferece preços de volume competitivos para operadores de aluguer que compram frotas de 50, 100, 300 ou mais de 500 pranchas, com qualidade consistente de equipamento e prazos de produção eficientes para grandes encomendas.',
+          'Sim, a OLagoon oferece preços de volume competitivos para operadores de aluguer que compram frotas de 50, 100, 300 ou mais de 500 pranchas, com qualidade consistente de equipamento e prazos de produção eficientes para grandes encomendas.',
       },
       {
-        question: 'Como é que as pranchas SUP da Afarer lidam com a água salgada e os ambientes de praia?',
+        question: 'Como é que as pranchas SUP da OLagoon lidam com a água salgada e os ambientes de praia?',
         answer:
-          'As pranchas de aluguer da Afarer apresentam material PVC resistente à abrasão, construção resistente a UV, laterais reforçadas para o contacto com a praia e ferragem resistente à corrosão que suporta a exposição à água salgada, a abrasão da areia e as condições de armazenagem ao ar livre.',
+          'As pranchas de aluguer da OLagoon apresentam material PVC resistente à abrasão, construção resistente a UV, laterais reforçadas para o contacto com a praia e ferragem resistente à corrosão que suporta a exposição à água salgada, a abrasão da areia e as condições de armazenagem ao ar livre.',
       },
       {
         question: 'Posso marcar as minhas pranchas SUP de aluguer com o logótipo do meu negócio?',
         answer:
-          'Sim, a Afarer apoia a personalização completa, incluindo marca com logótipo, correspondência de cores, numeração das pranchas e etiquetas de modelo que transformam o seu equipamento de aluguer em ferramentas de marketing visíveis na sua praia ou resort.',
+          'Sim, a OLagoon apoia a personalização completa, incluindo marca com logótipo, correspondência de cores, numeração das pranchas e etiquetas de modelo que transformam o seu equipamento de aluguer em ferramentas de marketing visíveis na sua praia ou resort.',
       },
     ],
     cta: {
-      title: 'Construa a Sua Frota SUP Durável de Aluguer Com a Afarer',
+      title: 'Construa a Sua Frota SUP Durável de Aluguer Com a OLagoon',
       subtitle:
-        'O seu equipamento determina a rentabilidade do seu negócio. Escolha produtos SUP concebidos para trabalhar mais e durar mais. A Afarer ajuda os operadores de aluguer a construir frotas SUP de praia, equipamento de atividades aquáticas de resort e sistemas de turismo de aventura com apoio fiável de fabrico OEM.',
+        'O seu equipamento determina a rentabilidade do seu negócio. Escolha produtos SUP concebidos para trabalhar mais e durar mais. A OLagoon ajuda os operadores de aluguer a construir frotas SUP de praia, equipamento de atividades aquáticas de resort e sistemas de turismo de aventura com apoio fiável de fabrico OEM.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto de Frota de Aluguer',
       },
@@ -2319,7 +2319,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante de plataformas SUP para investigação ecológica | {SITE}',
       description:
-        'A Afarer oferece plataformas SUP ecológicas para investigação a ONG de conservação marinha, universidades e organizações de monitorização ambiental. Plataformas flutuantes estáveis, sistemas de montagem de equipamento e soluções OEM personalizadas.',
+        'A OLagoon oferece plataformas SUP ecológicas para investigação a ONG de conservação marinha, universidades e organizações de monitorização ambiental. Plataformas flutuantes estáveis, sistemas de montagem de equipamento e soluções OEM personalizadas.',
     },
     hero: {
       tagline:
@@ -2451,7 +2451,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Configuração SUP de Baixo Ruído e Integração da Plataforma de Sensores',
               detail:
-                'Em setembro de 2024, Huaman associou-se à divisão de investigação ambiental da Afarer para adaptar a EcoTouring 12\'6" X à mobilização de carga científica. As modificações incluíram: placa de montagem reforçada no convés (aço inoxidável, padrão de 4 parafusos) para um ecossonda Garmin echoMAP Plus 74cv; sistema RAM-mount integrado para uma GoPro HERO12 Black em caixa estanque; um poço seco estanque para equipamento (7 L, fecho roscado) no núcleo da prancha para registadores de dados e GPS; e um guarda-quilla de baixo perfil permitindo encalhar em margens lamacentas. Três protótipos foram testados no Ucayali em outubro de 2024, medindo o ruído subaquático em 18 dB (contra 52 dB de um motor de popa Tohatsu de 25 hp a 5 m). A ARA encomendou 18 pranchas por US$212 mil, financiadas pela Gordon and Betty Moore Foundation.',
+                'Em setembro de 2024, Huaman associou-se à divisão de investigação ambiental da OLagoon para adaptar a EcoTouring 12\'6" X à mobilização de carga científica. As modificações incluíram: placa de montagem reforçada no convés (aço inoxidável, padrão de 4 parafusos) para um ecossonda Garmin echoMAP Plus 74cv; sistema RAM-mount integrado para uma GoPro HERO12 Black em caixa estanque; um poço seco estanque para equipamento (7 L, fecho roscado) no núcleo da prancha para registadores de dados e GPS; e um guarda-quilla de baixo perfil permitindo encalhar em margens lamacentas. Três protótipos foram testados no Ucayali em outubro de 2024, medindo o ruído subaquático em 18 dB (contra 52 dB de um motor de popa Tohatsu de 25 hp a 5 m). A ARA encomendou 18 pranchas por US$212 mil, financiadas pela Gordon and Betty Moore Foundation.',
             },
             {
               title:
@@ -2462,7 +2462,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 3: Certificação SUP dos Investigadores e Logística das Estações Remotas',
               detail:
-                'Em novembro de 2024, a Afarer conduziu um programa de formação de campo de 12 dias em 3 estações da ARA, certificando 12 investigadores (5 doutorandos, 4 técnicos de campo, 3 guias fluviais locais). A formação cobriu: correntes fluviais (o Ucayali flui até 4 nós), evitação de troncos/detritos, técnicas de pagaia noturna para levantamentos de espécies noturnas e procedimentos de lançamento na selva (transportar pranchas insufladas 400 m através de floresta primária até lagos em ferradura). Cada investigador completou 40 horas de pagaia de levantamento supervisionada e um exame final exigindo: um transecto de 6 km em menos de 2 horas com registo simultâneo de dados. Taxa de aprovação na certificação: 92% (11 de 12). O investigador restante ficou como apoio rotativo.',
+                'Em novembro de 2024, a OLagoon conduziu um programa de formação de campo de 12 dias em 3 estações da ARA, certificando 12 investigadores (5 doutorandos, 4 técnicos de campo, 3 guias fluviais locais). A formação cobriu: correntes fluviais (o Ucayali flui até 4 nós), evitação de troncos/detritos, técnicas de pagaia noturna para levantamentos de espécies noturnas e procedimentos de lançamento na selva (transportar pranchas insufladas 400 m através de floresta primária até lagos em ferradura). Cada investigador completou 40 horas de pagaia de levantamento supervisionada e um exame final exigindo: um transecto de 6 km em menos de 2 horas com registo simultâneo de dados. Taxa de aprovação na certificação: 92% (11 de 12). O investigador restante ficou como apoio rotativo.',
             },
             {
               title: 'Passo 4: Resultados da Época de Campo de 2025 e Impacto na Conservação',
@@ -2490,7 +2490,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Integração de Sensores SUP e Design da Plataforma de Investigação',
               detail:
-                'Em dezembro de 2024, Torres trabalhou com a equipa de I&D ambiental da Afarer para configurar a EcoTouring 12\'6" X para monitorização costeira. A Afarer integrou uma placa de montagem para a sonda YSI EXO2 (encaixada num poço de montagem personalizado através do núcleo da prancha, permitindo fluxo de água contínuo sem o arrasto de uma sonda rebocada). A prancha recebeu um braço de pau-livres montado na proa (fibra de carbono, 1,5 kg, classificado para 22,7 kg) para baixar e recolher um conjunto de vídeo subaquático (GoPro HERO12 Black em caixa antirretro-dispersão com filtros vermelhos). Uma caixa de registo de dados montada na popa (Pelican 1040) alojava um recetor GNSS e um modem celular para carregamento de dados em tempo real via plataforma cloud do Mote. Três protótipos foram mobilizados em janeiro de 2025 para um estudo de validação de 30 dias, confirmando leituras da sonda dentro de 2% das leituras de barco em estações emparelhadas. O Mote encomendou 15 pranchas por US$186 mil, financiado pelo SBEP e o Gulf Research Program.',
+                'Em dezembro de 2024, Torres trabalhou com a equipa de I&D ambiental da OLagoon para configurar a EcoTouring 12\'6" X para monitorização costeira. A OLagoon integrou uma placa de montagem para a sonda YSI EXO2 (encaixada num poço de montagem personalizado através do núcleo da prancha, permitindo fluxo de água contínuo sem o arrasto de uma sonda rebocada). A prancha recebeu um braço de pau-livres montado na proa (fibra de carbono, 1,5 kg, classificado para 22,7 kg) para baixar e recolher um conjunto de vídeo subaquático (GoPro HERO12 Black em caixa antirretro-dispersão com filtros vermelhos). Uma caixa de registo de dados montada na popa (Pelican 1040) alojava um recetor GNSS e um modem celular para carregamento de dados em tempo real via plataforma cloud do Mote. Três protótipos foram mobilizados em janeiro de 2025 para um estudo de validação de 30 dias, confirmando leituras da sonda dentro de 2% das leituras de barco em estações emparelhadas. O Mote encomendou 15 pranchas por US$186 mil, financiado pelo SBEP e o Gulf Research Program.',
             },
             {
               title: 'Passo 2: Rede de Estações de Monitorização e Protocolo de Amostragem de Marés',
@@ -2500,7 +2500,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 3: Certificação SUP dos Associados de Investigação e Formação em Navegação de Águas Rasas',
               detail:
-                'Em fevereiro de 2025, a divisão de investigação da Afarer certificou 8 associados de investigação do Mote (4 cientistas de nível de doutoramento, 4 técnicos de campo) através de um curso de 5 dias de operador SUP de investigação em águas rasas. A formação cobriu: navegação em leitos de pradarias marinhas (evitando o análogo das cicatrizes de hélice — o arrasto da barbatana), protocolos de aproximação a peixes-boi (distância mínima de aproximação de 50 m, deriva silenciosa ao avistar, observação comportamental sem ruído de motor), gestão de correntes de maré (máximo de 1,5 nós de corrente para amostragem, 2,5 nós para trânsito) e mobilização/recuperação de equipamento em condições de vento. Torres exigiu também que todos os associados completassem a formação de encontro com peixes-boi da FWC da Flórida (2 horas online + componente de campo). Certificação avaliada através de um dia de amostragem simulado: 4 estações em 3 horas com 100% de completude de dados. Todos os 8 passaram à primeira tentativa, com tempo médio de conclusão por estação de 38 minutos (contra 68 minutos no protocolo de barco a motor).',
+                'Em fevereiro de 2025, a divisão de investigação da OLagoon certificou 8 associados de investigação do Mote (4 cientistas de nível de doutoramento, 4 técnicos de campo) através de um curso de 5 dias de operador SUP de investigação em águas rasas. A formação cobriu: navegação em leitos de pradarias marinhas (evitando o análogo das cicatrizes de hélice — o arrasto da barbatana), protocolos de aproximação a peixes-boi (distância mínima de aproximação de 50 m, deriva silenciosa ao avistar, observação comportamental sem ruído de motor), gestão de correntes de maré (máximo de 1,5 nós de corrente para amostragem, 2,5 nós para trânsito) e mobilização/recuperação de equipamento em condições de vento. Torres exigiu também que todos os associados completassem a formação de encontro com peixes-boi da FWC da Flórida (2 horas online + componente de campo). Certificação avaliada através de um dia de amostragem simulado: 4 estações em 3 horas com 100% de completude de dados. Todos os 8 passaram à primeira tentativa, com tempo médio de conclusão por estação de 38 minutos (contra 68 minutos no protocolo de barco a motor).',
             },
             {
               title: 'Passo 4: Época de Monitorização de Março a Novembro de 2025 e Resultados Ecológicos Mensuráveis',
@@ -2517,8 +2517,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que as Organizações de Investigação Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que as Organizações de Investigação Escolhem a OLagoon',
       items: [
         {
           title: 'Estabilidade',
@@ -2544,25 +2544,25 @@ const pt: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Que equipamento científico pode ser montado numa plataforma SUP de investigação da Afarer?',
+        question: 'Que equipamento científico pode ser montado numa plataforma SUP de investigação da OLagoon?',
         answer:
-          'As plataformas de investigação da Afarer suportam uma vasta gama de equipamento incluindo sensores de qualidade da água, câmaras e unidades GPS, contentores de amostragem, instrumentos de medição e dispositivos de recolha de dados. O sistema modular de montagem pode ser personalizado para configurações específicas de investigação.',
+          'As plataformas de investigação da OLagoon suportam uma vasta gama de equipamento incluindo sensores de qualidade da água, câmaras e unidades GPS, contentores de amostragem, instrumentos de medição e dispositivos de recolha de dados. O sistema modular de montagem pode ser personalizado para configurações específicas de investigação.',
       },
       {
         question: 'Qual é a estabilidade da plataforma SUP para atividades de amostragem e monitorização da água?',
         answer:
-          'As plataformas de investigação da Afarer apresentam design extra-largo, área de pé alargada, equilíbrio reforçado e estrutura de flutuação elevada especificamente concebidas para operações científicas de campo. A estabilidade permite que os investigadores operem equipamento em segurança, recolham amostras e efetuem medições.',
+          'As plataformas de investigação da OLagoon apresentam design extra-largo, área de pé alargada, equilíbrio reforçado e estrutura de flutuação elevada especificamente concebidas para operações científicas de campo. A estabilidade permite que os investigadores operem equipamento em segurança, recolham amostras e efetuem medições.',
       },
       {
-        question: 'Que materiais ecológicos são usados nas pranchas SUP de investigação da Afarer?',
+        question: 'Que materiais ecológicos são usados nas pranchas SUP de investigação da OLagoon?',
         answer:
-          'A Afarer foca-se em construção durável de longa vida útil que reduz a frequência de substituição e o consumo de recursos. Oferecemos opções de materiais sustentáveis incluindo escolhas recicláveis e abordagens de fabrico de menor impacto, alinhadas com missões de conservação ambiental.',
+          'A OLagoon foca-se em construção durável de longa vida útil que reduz a frequência de substituição e o consumo de recursos. Oferecemos opções de materiais sustentáveis incluindo escolhas recicláveis e abordagens de fabrico de menor impacto, alinhadas com missões de conservação ambiental.',
       },
       {
         question:
           'As plataformas SUP podem ser personalizadas para requisitos específicos de projetos de investigação?',
         answer:
-          'Sim, a Afarer apoia a personalização completa incluindo dimensões personalizadas da prancha (largura extra, comprimento adicional), capacidade de carga aumentada, interfaces de montagem de equipamento, soluções de armazenagem, logótipos de organização e acessórios específicos do projeto.',
+          'Sim, a OLagoon apoia a personalização completa incluindo dimensões personalizadas da prancha (largura extra, comprimento adicional), capacidade de carga aumentada, interfaces de montagem de equipamento, soluções de armazenagem, logótipos de organização e acessórios específicos do projeto.',
       },
       {
         question: 'Como se compara o SUP aos barcos de investigação tradicionais para monitorização ambiental?',
@@ -2572,13 +2572,13 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Qual é o prazo típico de entrega para uma plataforma SUP de investigação personalizada?',
         answer:
-          'Os prazos variam conforme a complexidade da personalização e a quantidade da encomenda. A Afarer apoia o desenvolvimento de protótipos para novos conceitos de investigação até ao fabrico em lote para encomendas institucionais. Trabalhamos em estreita colaboração com as equipas de investigação para cumprir os cronogramas do projeto e os requisitos das épocas de campo.',
+          'Os prazos variam conforme a complexidade da personalização e a quantidade da encomenda. A OLagoon apoia o desenvolvimento de protótipos para novos conceitos de investigação até ao fabrico em lote para encomendas institucionais. Trabalhamos em estreita colaboração com as equipas de investigação para cumprir os cronogramas do projeto e os requisitos das épocas de campo.',
       },
     ],
     cta: {
-      title: 'Construa a Sua Plataforma Aquática de Investigação Ecológica Com a Afarer',
+      title: 'Construa a Sua Plataforma Aquática de Investigação Ecológica Com a OLagoon',
       subtitle:
-        'O futuro da investigação aquática exige soluções flexíveis e sustentáveis. A Afarer ajuda ONG marinhas, universidades, instituições de investigação e organizações ambientais a criar plataformas profissionais móveis de investigação aquática.',
+        'O futuro da investigação aquática exige soluções flexíveis e sustentáveis. A OLagoon ajuda ONG marinhas, universidades, instituições de investigação e organizações ambientais a criar plataformas profissionais móveis de investigação aquática.',
       primaryAction: {
         text: 'Comece o Seu Projeto',
       },
@@ -2592,15 +2592,15 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fornecedor de marcas SUP para a Amazon | Fabricante de SUP insufláveis personalizados | {SITE}',
       description:
-        'A Afarer ajuda vendedores da Amazon, Walmart e Shopify a criar marcas de SUP diferenciadas com paddle boards insufláveis personalizados, fabrico de marca privada, gráficos exclusivos, cadeia de fornecimento rápida e apoio a produtos de e-commerce.',
+        'A OLagoon ajuda vendedores da Amazon, Walmart e Shopify a criar marcas de SUP diferenciadas com paddle boards insufláveis personalizados, fabrico de marca privada, gráficos exclusivos, cadeia de fornecimento rápida e apoio a produtos de e-commerce.',
     },
     hero: {
       tagline: 'Diferenciação de Produto e Abastecimento Rápido™',
       title: 'Produtos SUP Diferenciados para Vendedores de Ecommerce em Marketplaces',
       subtitle:
-        'A Afarer ajuda vendedores da Amazon, Walmart e Shopify a construir marcas SUP diferenciadas com paddle boards insufláveis personalizadas, fabrico de marca própria, grafismos únicos, cadeia de abastecimento rápida e apoio a produtos de ecommerce.',
+        'A OLagoon ajuda vendedores da Amazon, Walmart e Shopify a construir marcas SUP diferenciadas com paddle boards insufláveis personalizadas, fabrico de marca própria, grafismos únicos, cadeia de abastecimento rápida e apoio a produtos de ecommerce.',
       image: {
-        alt: 'Descrição das pranchas SUP personalizadas Afarer',
+        alt: 'Descrição das pranchas SUP personalizadas OLagoon',
       },
     },
     challenge: {
@@ -2714,7 +2714,7 @@ const pt: Record<string, SolutionOverride> = {
       customer:
         'Vendedor Amazon dos EUA de produtos de outdoor, anteriormente especializado em acessórios de camping, produtos de outdoor e equipamento de fitness através dos canais Amazon e Shopify.',
       steps: [
-        'A Afarer ajudou a definir o cliente-alvo como jovens consumidores de estilo de vida de outdoor e posicionou o produto como um SUP acessível com aspeto premium e identidade visual única.',
+        'A OLagoon ajudou a definir o cliente-alvo como jovens consumidores de estilo de vida de outdoor e posicionou o produto como um SUP acessível com aspeto premium e identidade visual única.',
         "Criou um SUP Insuflável de 10'6 personalizado com grafismos únicos da prancha, sistema de cores premium, pacote de acessórios melhorado e embalagem focada na marca.",
         'Preparou a estratégia de conteúdo de ecommerce, incluindo estrutura de imagens do produto, apresentação de características e direção visual de estilo de vida para as listagens no marketplace.',
         'Lançamento com 500 unidades para o lançamento na Amazon, testes publicitários e recolha de feedback de clientes.',
@@ -2739,22 +2739,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Análise da Categoria Amazon e Arquitetura de SKU',
               detail:
-                'Em janeiro de 2023, a equipa de estratégia de ecommerce da Afarer conduziu uma análise aprofundada da categoria SUP da Amazon UK com as ferramentas Helium 10 e Jungle Scout. Identificaram que 78% dos compradores pela primeira vez pesquisavam «pacotes completos» (prancha + pagaia + bomba + saco + leash + quilha), mas apenas 4 marcas ofereciam um verdadeiro kit all-in-one com acessórios premium. A Afarer propôs uma linha de 3 SKU: «AquaStart Kit Completo de 10\'6"» (preço-alvo £449), «AquaStart Kit Touring de 11\'0"» (£549) e «AquaStart Duo» (£699, um pacote familiar de 2 pranchas). Cada kit incluía uma bomba manual com manómetro, pagaia de fibra de carbono em 3 partes, leash espiral, quilha amovível US de 5" e uma capa impermeável para telemóvel — diferenciando-se dos concorrentes que vendiam a maioria dos acessórios separadamente.',
+                'Em janeiro de 2023, a equipa de estratégia de ecommerce da OLagoon conduziu uma análise aprofundada da categoria SUP da Amazon UK com as ferramentas Helium 10 e Jungle Scout. Identificaram que 78% dos compradores pela primeira vez pesquisavam «pacotes completos» (prancha + pagaia + bomba + saco + leash + quilha), mas apenas 4 marcas ofereciam um verdadeiro kit all-in-one com acessórios premium. A OLagoon propôs uma linha de 3 SKU: «AquaStart Kit Completo de 10\'6"» (preço-alvo £449), «AquaStart Kit Touring de 11\'0"» (£549) e «AquaStart Duo» (£699, um pacote familiar de 2 pranchas). Cada kit incluía uma bomba manual com manómetro, pagaia de fibra de carbono em 3 partes, leash espiral, quilha amovível US de 5" e uma capa impermeável para telemóvel — diferenciando-se dos concorrentes que vendiam a maioria dos acessórios separadamente.',
             },
             {
               title: 'Fase 2 — Design de Embalagem Para Ecommerce e Conformidade FBA',
               detail:
-                'A Afarer desenhou uma embalagem pronta para retalho que cabia nos limites dimensionais da FBA da Amazon: a caixa da prancha de 10\'6" media 34" × 18" × 14" e pesava 14,2 kg — abaixo do limite de 15 kg da Amazon para evitar taxas de volumes pesados. A caixa incluía uma pega recortada em ambos os lados para o pessoal do armazém. No interior, a prancha era embalada a vácuo num saco de PE de 0,1 mm, junto com acessórios em inserts de espuma EVA cortados à medida. Cada acessório estava individualmente embalado em polietileno com a marca AquaStart. A embalagem incluía um «Guia de Arranque Rápido» (código QR com ligação a um vídeo de unboxing de 6 minutos). O engenheiro de embalagens da Afarer reduziu o volume total da caixa em 22% comparado com o design inicial, poupando £1,80 por unidade em taxas de fulfillment FBA a Priya.',
+                'A OLagoon desenhou uma embalagem pronta para retalho que cabia nos limites dimensionais da FBA da Amazon: a caixa da prancha de 10\'6" media 34" × 18" × 14" e pesava 14,2 kg — abaixo do limite de 15 kg da Amazon para evitar taxas de volumes pesados. A caixa incluía uma pega recortada em ambos os lados para o pessoal do armazém. No interior, a prancha era embalada a vácuo num saco de PE de 0,1 mm, junto com acessórios em inserts de espuma EVA cortados à medida. Cada acessório estava individualmente embalado em polietileno com a marca AquaStart. A embalagem incluía um «Guia de Arranque Rápido» (código QR com ligação a um vídeo de unboxing de 6 minutos). O engenheiro de embalagens da OLagoon reduziu o volume total da caixa em 22% comparado com o design inicial, poupando £1,80 por unidade em taxas de fulfillment FBA a Priya.',
             },
             {
               title: 'Fase 3 — Otimização de Listagem Amazon, Conteúdo A+ e Estratégia de Lançamento',
               detail:
-                'O estúdio de conteúdos da Afarer produziu 14 imagens de módulos A+, 6 fotografias de estilo de vida capturadas no Lago Windermere, um vídeo de história de marca de 90 segundos e um visualizador de produto de 360 graus. Escreveram pontos-chave otimizados para palavras-chave visando 237 palavras-chave de cauda longa identificadas no relatório de termos de pesquisa da Amazon. A estratégia de lançamento implementou um programa «Vine» de 21 dias (30 unidades com 50% de desconto) para criar velocidade inicial de avaliações, seguido de uma campanha Amazon PPC de £2.000 (Sponsored Products + Sponsored Brand) com orçamento diário distribuído por 3 SKU. A campanha foi lançada a 15 de abril de 2023. Ao 45.º dia, a AquaStart tinha 24 avaliações com média de 4,6 estrelas, e o kit de 10\'6" atingiu o nº 17 na categoria SUP.',
+                'O estúdio de conteúdos da OLagoon produziu 14 imagens de módulos A+, 6 fotografias de estilo de vida capturadas no Lago Windermere, um vídeo de história de marca de 90 segundos e um visualizador de produto de 360 graus. Escreveram pontos-chave otimizados para palavras-chave visando 237 palavras-chave de cauda longa identificadas no relatório de termos de pesquisa da Amazon. A estratégia de lançamento implementou um programa «Vine» de 21 dias (30 unidades com 50% de desconto) para criar velocidade inicial de avaliações, seguido de uma campanha Amazon PPC de £2.000 (Sponsored Products + Sponsored Brand) com orçamento diário distribuído por 3 SKU. A campanha foi lançada a 15 de abril de 2023. Ao 45.º dia, a AquaStart tinha 24 avaliações com média de 4,6 estrelas, e o kit de 10\'6" atingiu o nº 17 na categoria SUP.',
             },
             {
               title: 'Fase 4 — Gestão de Inventário, Previsão de Procura e Segunda Produção',
               detail:
-                'A equipa de planeamento de procura da Afarer construiu um modelo de previsão de 6 meses usando dados históricos da Amazon, Google Trends (volume de pesquisa de paddleboarding no Reino Unido) e fatores sazonais. O modelo previa a venda de 410 unidades até setembro de 2023. A primeira produção de Priya foi de 500 unidades (300 × 10\'6", 120 × 11\'0", 80 × Duo), enviadas para os centros Amazon FBA de Manchester e Doncaster. As vendas reais até 30 de setembro foram de 386 unidades — dentro de 6% da previsão. Uma segunda produção de 700 unidades foi encomendada em outubro de 2023 com 2 modificações importantes: pegas do saco de transporte reforçadas (9 relatórios de rutura na primeira produção) e anéis em D de aço inoxidável melhorados (após 4 reclamações de corrosão). Em dezembro de 2023, a receita da AquaStart UK atingiu £298.000, com o kit de 10\'6" a manter o ranking nº 12 na Amazon UK.',
+                'A equipa de planeamento de procura da OLagoon construiu um modelo de previsão de 6 meses usando dados históricos da Amazon, Google Trends (volume de pesquisa de paddleboarding no Reino Unido) e fatores sazonais. O modelo previa a venda de 410 unidades até setembro de 2023. A primeira produção de Priya foi de 500 unidades (300 × 10\'6", 120 × 11\'0", 80 × Duo), enviadas para os centros Amazon FBA de Manchester e Doncaster. As vendas reais até 30 de setembro foram de 386 unidades — dentro de 6% da previsão. Uma segunda produção de 700 unidades foi encomendada em outubro de 2023 com 2 modificações importantes: pegas do saco de transporte reforçadas (9 relatórios de rutura na primeira produção) e anéis em D de aço inoxidável melhorados (após 4 reclamações de corrosão). Em dezembro de 2023, a receita da AquaStart UK atingiu £298.000, com o kit de 10\'6" a manter o ranking nº 12 na Amazon UK.',
             },
           ],
           results: [
@@ -2776,22 +2776,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Sourcing de Materiais Reciclados e Certificação da Cadeia de Abastecimento',
               detail:
-                'A Afarer passou 14 semanas, entre janeiro e abril de 2023, a desenvolver um laminado de PVC reciclado usando resíduos têxteis pós-industriais do próprio chão da sua fábrica. O material — batizado «EcoShell RPVC» — continha 63% de conteúdo reciclado em peso e alcançava uma resistência à tração de 3.200 N/5 cm (contra 3.500 N do PVC virgem). A Afarer garantiu a certificação GRS (Global Recycled Standard) para o material e encomendou uma avaliação de ciclo de vida por terceiros que mostrou uma redução de 37% em CO₂e por prancha comparado com pranchas de PVC virgem. A equipa de Felix adquiriu 50.000 garrafas de PET recicladas a uma cooperativa de reciclagem de Berlim para produzir o tecido do saco de transporte e o EVA do convés (30% de conteúdo reciclado). O prémio total de material sustentável foi de €18 por prancha, que a Afarer absorveu na sua margem para ajudar a UrbanPulse a atingir o preço de retalho pretendido.',
+                'A OLagoon passou 14 semanas, entre janeiro e abril de 2023, a desenvolver um laminado de PVC reciclado usando resíduos têxteis pós-industriais do próprio chão da sua fábrica. O material — batizado «EcoShell RPVC» — continha 63% de conteúdo reciclado em peso e alcançava uma resistência à tração de 3.200 N/5 cm (contra 3.500 N do PVC virgem). A OLagoon garantiu a certificação GRS (Global Recycled Standard) para o material e encomendou uma avaliação de ciclo de vida por terceiros que mostrou uma redução de 37% em CO₂e por prancha comparado com pranchas de PVC virgem. A equipa de Felix adquiriu 50.000 garrafas de PET recicladas a uma cooperativa de reciclagem de Berlim para produzir o tecido do saco de transporte e o EVA do convés (30% de conteúdo reciclado). O prémio total de material sustentável foi de €18 por prancha, que a OLagoon absorveu na sua margem para ajudar a UrbanPulse a atingir o preço de retalho pretendido.',
             },
             {
               title: 'Fase 2 — Fulfillment Neutro em Carbono e Arquitetura Logística DTC',
               detail:
-                'A equipa de logística da Afarer estabeleceu uma parceria com o DHL GoGreen Climate Neutral para a conta UrbanPulse, compensando 1,8 kg de CO₂ por prancha expedida (cobrindo o transporte marítimo da China para Hamburgo e a entrega de última milha). Criaram uma zona de fulfillment dedicada de 200 m² no armazém da UrbanPulse em Colónia, com estanterias personalizadas para caixas de SUP insuflável. Cada expedição incluía uma etiqueta de devolução pré-paga para a caixa de cartão (impressa em cartão 100% reciclado certificado FSC com tintas à base de soja). O design de embalagem da Afarer eliminou todos os plásticos de utilização única: a prancha era embrulhada num filme compostável de PBAT/PLA, os acessórios eram fixados com fita de papel e o manual do utilizador foi impresso em papel de sementes (plante-o depois de ler).',
+                'A equipa de logística da OLagoon estabeleceu uma parceria com o DHL GoGreen Climate Neutral para a conta UrbanPulse, compensando 1,8 kg de CO₂ por prancha expedida (cobrindo o transporte marítimo da China para Hamburgo e a entrega de última milha). Criaram uma zona de fulfillment dedicada de 200 m² no armazém da UrbanPulse em Colónia, com estanterias personalizadas para caixas de SUP insuflável. Cada expedição incluía uma etiqueta de devolução pré-paga para a caixa de cartão (impressa em cartão 100% reciclado certificado FSC com tintas à base de soja). O design de embalagem da OLagoon eliminou todos os plásticos de utilização única: a prancha era embrulhada num filme compostável de PBAT/PLA, os acessórios eram fixados com fita de papel e o manual do utilizador foi impresso em papel de sementes (plante-o depois de ler).',
             },
             {
               title: 'Fase 3 — Integração Shopify, Conteúdo Pré-Lançamento e Estratégia de Influenciadores',
               detail:
-                'A equipa de ecommerce da Afarer integrou a loja Shopify da UrbanPulse com um configurador de produto personalizado que permitia aos clientes escolher a cor da prancha (3 opções), a cor da pagaia (2 opções) e adicionar um «crachá de sustentabilidade» com o número de série da prancha e a quantidade exata de conteúdo reciclado (em gramas). A Afarer produziu 6 recursos de vídeo curto (15–45 segundos) com influenciadores de SUP de Berlim «GreenPaddle» e «ElisePaddlesBerlin» (72.000 seguidores combinados). O conteúdo enfatizava o «paddleboarding urbano» nos canais e lagos de Berlim, posicionando o SUP como uma atividade de fim de semana dos habitantes das cidades. A campanha de email pré-lançamento (enviada a 12.000 subscritores da UrbanPulse) alcançou uma taxa de abertura de 34% e 2.100 cliques para a página do produto.',
+                'A equipa de ecommerce da OLagoon integrou a loja Shopify da UrbanPulse com um configurador de produto personalizado que permitia aos clientes escolher a cor da prancha (3 opções), a cor da pagaia (2 opções) e adicionar um «crachá de sustentabilidade» com o número de série da prancha e a quantidade exata de conteúdo reciclado (em gramas). A OLagoon produziu 6 recursos de vídeo curto (15–45 segundos) com influenciadores de SUP de Berlim «GreenPaddle» e «ElisePaddlesBerlin» (72.000 seguidores combinados). O conteúdo enfatizava o «paddleboarding urbano» nos canais e lagos de Berlim, posicionando o SUP como uma atividade de fim de semana dos habitantes das cidades. A campanha de email pré-lançamento (enviada a 12.000 subscritores da UrbanPulse) alcançou uma taxa de abertura de 34% e 2.100 cliques para a página do produto.',
             },
             {
               title: 'Fase 4 — Lançamento, Expansão de Canais e Decisão de Reposição',
               detail:
-                'A coleção UrbanPulse SUP foi lançada a 1 de junho de 2023 com 500 unidades (350 all-around, 150 touring). As vendas da primeira semana foram de 112 unidades (22,4%). Os planeadores de procura da Afarer ajustaram a estratégia PPC no Google Shopping e na Meta, transferindo o orçamento para palavras-chave de alta intenção como «nachhaltiges SUP kaufen» (comprar SUP sustentável). Na 8.ª semana, a prancha all-around era o SUP nº 2 mais vendido no mercado DTC alemão da Shopify (atrás das vendas diretas da Fanatic). Em agosto de 2023, Felix garantiu uma parceria com a SportScheck, colocando 80 pranchas em 8 lojas com expositores dedicados de «Desportos Sustentáveis». Em dezembro de 2023, a receita total atingiu €487.000, com a prancha all-around a contribuir com 71% das vendas. Uma segunda produção de 800 unidades foi encomendada para fevereiro de 2024.',
+                'A coleção UrbanPulse SUP foi lançada a 1 de junho de 2023 com 500 unidades (350 all-around, 150 touring). As vendas da primeira semana foram de 112 unidades (22,4%). Os planeadores de procura da OLagoon ajustaram a estratégia PPC no Google Shopping e na Meta, transferindo o orçamento para palavras-chave de alta intenção como «nachhaltiges SUP kaufen» (comprar SUP sustentável). Na 8.ª semana, a prancha all-around era o SUP nº 2 mais vendido no mercado DTC alemão da Shopify (atrás das vendas diretas da Fanatic). Em agosto de 2023, Felix garantiu uma parceria com a SportScheck, colocando 80 pranchas em 8 lojas com expositores dedicados de «Desportos Sustentáveis». Em dezembro de 2023, a receita total atingiu €487.000, com a prancha all-around a contribuir com 71% das vendas. Uma segunda produção de 800 unidades foi encomendada para fevereiro de 2024.',
             },
           ],
           results: [
@@ -2803,8 +2803,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que a Afarer',
+    whyOLagoon: {
+      title: 'Por Que a OLagoon',
       items: [
         {
           title: 'Diferenciação de Produto',
@@ -2837,7 +2837,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Como posso diferenciar o meu produto SUP na Amazon?',
         answer:
-          'A Afarer ajuda a criar grafismos únicos da prancha, sistemas de cores personalizados, pacotes de acessórios melhorados e embalagem focada na marca, tornando o seu produto distinto das listagens idênticas dos concorrentes.',
+          'A OLagoon ajuda a criar grafismos únicos da prancha, sistemas de cores personalizados, pacotes de acessórios melhorados e embalagem focada na marca, tornando o seu produto distinto das listagens idênticas dos concorrentes.',
       },
       {
         question: 'Qual é a quantidade mínima de encomenda para vendedores em marketplaces?',
@@ -2847,7 +2847,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Podem ajudar com o conteúdo e as imagens das listagens na Amazon?',
         answer:
-          'Sim. A Afarer fornece apoio visual de ecommerce, incluindo conceitos de imagem hero, imagens de características, direção de fotografia de estilo de vida e organização da informação de produto.',
+          'Sim. A OLagoon fornece apoio visual de ecommerce, incluindo conceitos de imagem hero, imagens de características, direção de fotografia de estilo de vida e organização da informação de produto.',
       },
       {
         question: 'Com que rapidez podem produzir e expedir a minha encomenda de SUP personalizado?',
@@ -2862,7 +2862,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Podem ajudar-me a expandir de um único produto SUP para uma marca completa?',
         answer:
-          'Sim. A Afarer apoia o desenvolvimento completo de portefólios de produtos, incluindo vários modelos de SUP e acessórios de outdoor para a expansão da marca.',
+          'Sim. A OLagoon apoia o desenvolvimento completo de portefólios de produtos, incluindo vários modelos de SUP e acessórios de outdoor para a expansão da marca.',
       },
     ],
     cta: {
@@ -2879,15 +2879,15 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Expanda a sua marca outdoor para os desportos aquáticos | Fabricante OEM de SUP | {SITE}',
       description:
-        'A Afarer ajuda marcas outdoor estabelecidas a expandir-se para os desportos aquáticos com fabrico de SUP personalizado, tecnologia Drop Stitch, experiência em PVC, paddle boards de marca privada e soluções completas de desenvolvimento de produto.',
+        'A OLagoon ajuda marcas outdoor estabelecidas a expandir-se para os desportos aquáticos com fabrico de SUP personalizado, tecnologia Drop Stitch, experiência em PVC, paddle boards de marca privada e soluções completas de desenvolvimento de produto.',
     },
     hero: {
       tagline: 'Expanda a Sua Marca de Outdoor Para os Desportos Aquáticos™',
       title: 'Expansão de Produtos de Desportos Aquáticos para Marcas de Outdoor Estabelecidas',
       subtitle:
-        'A Afarer ajuda marcas de outdoor estabelecidas a expandir-se para os desportos aquáticos com fabrico de SUP personalizado, tecnologia Drop Stitch, especialização em PVC, paddle boards de marca própria e soluções completas de desenvolvimento de produto.',
+        'A OLagoon ajuda marcas de outdoor estabelecidas a expandir-se para os desportos aquáticos com fabrico de SUP personalizado, tecnologia Drop Stitch, especialização em PVC, paddle boards de marca própria e soluções completas de desenvolvimento de produto.',
       image: {
-        alt: 'Descrição das pranchas SUP personalizadas Afarer',
+        alt: 'Descrição das pranchas SUP personalizadas OLagoon',
       },
     },
     challenge: {
@@ -2993,7 +2993,7 @@ const pt: Record<string, SolutionOverride> = {
       customer:
         'Marca Europeia de Estilo de Vida de Outdoor originalmente focada em equipamento de camping, acessórios de outdoor e produtos de estilo de vida de aventura, com uma forte rede de retalho e uma base de clientes leal.',
       steps: [
-        'A Afarer analisou o posicionamento da marca e recomendou uma estratégia de Coleção SUP Premium de Outdoor, incluindo SUP all-round, SUP de touring e acessórios com o tema «Aventura de outdoor da terra à água».',
+        'A OLagoon analisou o posicionamento da marca e recomendou uma estratégia de Coleção SUP Premium de Outdoor, incluindo SUP all-round, SUP de touring e acessórios com o tema «Aventura de outdoor da terra à água».',
         'Desenvolveu um SUP All-Round de 10\'6" com alta estabilidade, construção premium e design de estilo de vida de outdoor, além de um SUP de Touring de 12\'6" com desempenho de aventura e capacidade de longa distância.',
         'Criou grafismos personalizados, cores da marca, embalagem e um sistema de acessórios que combinava na perfeição com a identidade existente da marca de outdoor.',
         'Lançamento com uma encomenda inicial de 1.000 unidades distribuídas através de revendedores existentes, canais de ecommerce e retalhistas de outdoor.',
@@ -3018,22 +3018,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Análise de Mercado e Planeamento da Arquitetura de Produto',
               detail:
-                'Em março de 2023, a equipa de inteligência de mercado da Afarer analisou 18 meses de dados de vendas de SUP de 120 retalhistas dos EUA e do Canadá. Identificaram o subsegmento de crescimento mais rápido: SUP all-around entre 10\'6" e 11\'6" com preços de $749–$999 CAD, que cresceu 34% face ao ano anterior. A Afarer propôs uma linha de 4 SKU: a prancha all-around «Discovery» de 10\'6" (preço-alvo $799 CAD), a prancha de touring «Expedition» de 11\'6" ($949 CAD), o SUP de yoga e fitness «Crossover» de 10\'2" ($699 CAD) e o SUP de pesca «Angler» com sistema de montagem de caixa removível ($1.049 CAD). Henrik aceitou a proposta em abril, com data de lançamento prevista para fevereiro de 2024, a tempo da época de compras de retalho de primavera.',
+                'Em março de 2023, a equipa de inteligência de mercado da OLagoon analisou 18 meses de dados de vendas de SUP de 120 retalhistas dos EUA e do Canadá. Identificaram o subsegmento de crescimento mais rápido: SUP all-around entre 10\'6" e 11\'6" com preços de $749–$999 CAD, que cresceu 34% face ao ano anterior. A OLagoon propôs uma linha de 4 SKU: a prancha all-around «Discovery» de 10\'6" (preço-alvo $799 CAD), a prancha de touring «Expedition» de 11\'6" ($949 CAD), o SUP de yoga e fitness «Crossover» de 10\'2" ($699 CAD) e o SUP de pesca «Angler» com sistema de montagem de caixa removível ($1.049 CAD). Henrik aceitou a proposta em abril, com data de lançamento prevista para fevereiro de 2024, a tempo da época de compras de retalho de primavera.',
             },
             {
               title: 'Fase 2 — Integração de Design Co-Branded e Conformidade de Retalho',
               detail:
-                'Os designers industriais da Afarer colaboraram durante 8 semanas com a equipa criativa da North Ridge em Vancouver para desenvolver uma identidade visual que ligasse a estética de montanha da marca aos desportos aquáticos. O design final usou o esquema de cores carvão-e-brasa característico da North Ridge com padrões de linhas topográficas no convés. A Afarer garantiu que todas as pranchas cumpriam os requisitos de fornecedor da REI: embalagem em cartão certificado FSC, sacos de transporte em PET reciclado e conformidade com a Proposição 65 da Califórnia para ftalatos e metais pesados. A ficha de especificação de Gestão de Informação de Produto (PIM) de 14 páginas foi submetida ao portal de fornecedores da REI a 1 de outubro de 2023.',
+                'Os designers industriais da OLagoon colaboraram durante 8 semanas com a equipa criativa da North Ridge em Vancouver para desenvolver uma identidade visual que ligasse a estética de montanha da marca aos desportos aquáticos. O design final usou o esquema de cores carvão-e-brasa característico da North Ridge com padrões de linhas topográficas no convés. A OLagoon garantiu que todas as pranchas cumpriam os requisitos de fornecedor da REI: embalagem em cartão certificado FSC, sacos de transporte em PET reciclado e conformidade com a Proposição 65 da Califórnia para ftalatos e metais pesados. A ficha de especificação de Gestão de Informação de Produto (PIM) de 14 páginas foi submetida ao portal de fornecedores da REI a 1 de outubro de 2023.',
             },
             {
               title: 'Fase 3 — Fotografia, Redação e Apresentações Pré-Lançamento a Compradores de Retalho',
               detail:
-                'A Afarer produziu 230 recursos para a coleção: fotografias de produto em estúdio sobre fundo branco, imagens de estilo de vida capturadas no Lago Garibaldi (a 1.500 m de altitude na Colúmbia Britânica) e fotografia rotativa de 360 graus. Escreveram textos de produto localizados em inglês e francês canadiano para os retalhistas do Quebec. A equipa de apoio às vendas da Afarer criou uma apresentação de venda a retalhistas de 22 páginas com análise competitiva face a marcas como BOTE e Isle, projeções de margem que mostravam 48% de margem bruta para os retalhistas e dados de sell-through de mercados de teste. Henrik e o diretor de vendas da Afarer apresentaram ao comprador nacional da REI a 15 de novembro de 2023, garantindo compromissos de 34 lojas REI.',
+                'A OLagoon produziu 230 recursos para a coleção: fotografias de produto em estúdio sobre fundo branco, imagens de estilo de vida capturadas no Lago Garibaldi (a 1.500 m de altitude na Colúmbia Britânica) e fotografia rotativa de 360 graus. Escreveram textos de produto localizados em inglês e francês canadiano para os retalhistas do Quebec. A equipa de apoio às vendas da OLagoon criou uma apresentação de venda a retalhistas de 22 páginas com análise competitiva face a marcas como BOTE e Isle, projeções de margem que mostravam 48% de margem bruta para os retalhistas e dados de sell-through de mercados de teste. Henrik e o diretor de vendas da OLagoon apresentaram ao comprador nacional da REI a 15 de novembro de 2023, garantindo compromissos de 34 lojas REI.',
             },
             {
               title: 'Fase 4 — Primeira Produção, Armazenagem e Desempenho de Sell-Through',
               detail:
-                'A produção de 2.800 unidades nos 4 SKU começou em dezembro de 2023 na instalação de Dongguan da Afarer. A Afarer organizou transporte marítimo para Vancouver com chegada a 22 de janeiro de 2024. As primeiras 800 unidades foram enviadas diretamente para o centro de fulfillment da North Ridge em Mississauga para a distribuição no leste do Canadá. A 1 de março de 2024, a coleção estava disponível em 34 prateleiras da REI, 18 lojas MEC e em NorthRidgeGear.com. A prancha Discovery vendeu 340 unidades só em março — 136% da previsão. Em junho de 2024, a receita total da coleção atingiu $678.000 CAD, com o SUP de pesca Angler esgotado e com encomendas em atraso até agosto.',
+                'A produção de 2.800 unidades nos 4 SKU começou em dezembro de 2023 na instalação de Dongguan da OLagoon. A OLagoon organizou transporte marítimo para Vancouver com chegada a 22 de janeiro de 2024. As primeiras 800 unidades foram enviadas diretamente para o centro de fulfillment da North Ridge em Mississauga para a distribuição no leste do Canadá. A 1 de março de 2024, a coleção estava disponível em 34 prateleiras da REI, 18 lojas MEC e em NorthRidgeGear.com. A prancha Discovery vendeu 340 unidades só em março — 136% da previsão. Em junho de 2024, a receita total da coleção atingiu $678.000 CAD, com o SUP de pesca Angler esgotado e com encomendas em atraso até agosto.',
             },
           ],
           results: [
@@ -3055,22 +3055,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Inovação de Materiais para Conformidade com as Normas Europeias',
               detail:
-                'A equipa de I&D da Afarer em Guangzhou passou 10 semanas a desenvolver um laminado de PVC proprietário de 5 camadas que excedia as normas europeias de segurança química REACH e os requisitos alemães de certificação de segurança GS. Adquiriram um fio drop-stitch de qualidade têxtil a um fornecedor alemão (Karl Mayer Technische Textilien) para cumprir o argumento de marketing «Feito com Tecnologia Alemã» da AlpenWerk. Quatro pranchas de protótipo foram produzidas em julho de 2023 e enviadas para a TÜV Rheinland para testes. Duas falharam a certificação GS inicial por resistência à abrasão insuficiente na almofada traseira, exigindo um aumento de 12% na espessura da camada superficial de PVC, de 0,8 mm para 0,9 mm.',
+                'A equipa de I&D da OLagoon em Guangzhou passou 10 semanas a desenvolver um laminado de PVC proprietário de 5 camadas que excedia as normas europeias de segurança química REACH e os requisitos alemães de certificação de segurança GS. Adquiriram um fio drop-stitch de qualidade têxtil a um fornecedor alemão (Karl Mayer Technische Textilien) para cumprir o argumento de marketing «Feito com Tecnologia Alemã» da AlpenWerk. Quatro pranchas de protótipo foram produzidas em julho de 2023 e enviadas para a TÜV Rheinland para testes. Duas falharam a certificação GS inicial por resistência à abrasão insuficiente na almofada traseira, exigindo um aumento de 12% na espessura da camada superficial de PVC, de 0,8 mm para 0,9 mm.',
             },
             {
               title: 'Fase 2 — Negociações com Compradores de Retalho e Embalagem Pronta para Prateleira',
               detail:
-                'Lena e o diretor de vendas europeu da Afarer apresentaram a coleção na feira ISPO Munich em novembro de 2023. Garantiram pré-encomendas de 38 lojas Intersport, 12 lojas Globetrotter e a Bergfreunde.de. A Afarer desenhou embalagem de retalho pronta para prateleira que cumpria a lei alemã de embalagens (VerpackG): uma caixa em cartão 100% reciclável com impressão em tintas à base de soja, sem filme plástico termoencolhível e um código QR com ligação a um vídeo de montagem de 3 minutos em alemão. A embalagem custou €4,20 por unidade, mas eliminou danos em loja que atingiam 2,3% nas marcas concorrentes que usavam sacos de plástico.',
+                'Lena e o diretor de vendas europeu da OLagoon apresentaram a coleção na feira ISPO Munich em novembro de 2023. Garantiram pré-encomendas de 38 lojas Intersport, 12 lojas Globetrotter e a Bergfreunde.de. A OLagoon desenhou embalagem de retalho pronta para prateleira que cumpria a lei alemã de embalagens (VerpackG): uma caixa em cartão 100% reciclável com impressão em tintas à base de soja, sem filme plástico termoencolhível e um código QR com ligação a um vídeo de montagem de 3 minutos em alemão. A embalagem custou €4,20 por unidade, mas eliminou danos em loja que atingiam 2,3% nas marcas concorrentes que usavam sacos de plástico.',
             },
             {
               title: 'Fase 3 — Armazenagem Europeia e Configuração da Distribuição de Última Milha',
               detail:
-                'A Afarer ajudou a AlpenWerk a estabelecer um centro de distribuição num armazém 3PL em Dortmund com capacidade para 3.000 unidades. Negociaram condições de envio DDP com um transitário de Ningbo, incluindo despacho aduaneiro no porto de Hamburgo e transporte rodoviário para Dortmund em 5 dias úteis após a chegada do navio. O stock do armazém foi configurado com um sistema Kanban: quando o inventário caía abaixo de 400 unidades, era acionada automaticamente uma nova encomenda à fábrica da Afarer com um prazo de entrega de 45 dias. O primeiro contentor de 1.500 unidades chegou a 15 de fevereiro de 2024, com o segundo contentor de 1.200 unidades a chegar a 10 de abril.',
+                'A OLagoon ajudou a AlpenWerk a estabelecer um centro de distribuição num armazém 3PL em Dortmund com capacidade para 3.000 unidades. Negociaram condições de envio DDP com um transitário de Ningbo, incluindo despacho aduaneiro no porto de Hamburgo e transporte rodoviário para Dortmund em 5 dias úteis após a chegada do navio. O stock do armazém foi configurado com um sistema Kanban: quando o inventário caía abaixo de 400 unidades, era acionada automaticamente uma nova encomenda à fábrica da OLagoon com um prazo de entrega de 45 dias. O primeiro contentor de 1.500 unidades chegou a 15 de fevereiro de 2024, com o segundo contentor de 1.200 unidades a chegar a 10 de abril.',
             },
             {
               title: 'Fase 4 — Campanha de Lançamento, Parcerias com Influenciadores e Velocidade de Reposição',
               detail:
-                'A AlpenWerk lançou os modelos de touring «SeeWolf» de 10\'8", «Flussläufer» de 11\'6" e «Gipfelstürmer» de 12\'0" a 1 de março de 2024 em todos os canais de retalho e em alpenwerk.de. A equipa de conteúdos da Afarer produziu 18 recursos para redes sociais com influenciadores alemães de SUP como «SUP_mit_Michi» (43.000 seguidores) e «PaddelPia» (28.000 seguidores). Até 31 de maio de 2024, tinham sido vendidas 1.870 unidades — 87% do sell-in inicial. A Intersport fez uma reposição de 450 unidades a 15 de junho. O canal web direto ao consumidor de Lena contribuiu com €320.000 em receita a uma margem bruta de 54%, superando os 40% inicialmente projetados.',
+                'A AlpenWerk lançou os modelos de touring «SeeWolf» de 10\'8", «Flussläufer» de 11\'6" e «Gipfelstürmer» de 12\'0" a 1 de março de 2024 em todos os canais de retalho e em alpenwerk.de. A equipa de conteúdos da OLagoon produziu 18 recursos para redes sociais com influenciadores alemães de SUP como «SUP_mit_Michi» (43.000 seguidores) e «PaddelPia» (28.000 seguidores). Até 31 de maio de 2024, tinham sido vendidas 1.870 unidades — 87% do sell-in inicial. A Intersport fez uma reposição de 450 unidades a 15 de junho. O canal web direto ao consumidor de Lena contribuiu com €320.000 em receita a uma margem bruta de 54%, superando os 40% inicialmente projetados.',
             },
           ],
           results: [
@@ -3082,8 +3082,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que a Afarer',
+    whyOLagoon: {
+      title: 'Por Que a OLagoon',
       items: [
         {
           title: 'Especialização Técnica',
@@ -3117,7 +3117,7 @@ const pt: Record<string, SolutionOverride> = {
         question:
           'Como pode a minha marca de outdoor expandir-se para os desportos aquáticos sem especialização em SUP?',
         answer:
-          'A Afarer fornece especialização completa de fabrico, incluindo tecnologia Drop Stitch, engenharia de PVC e design de produto. A sua marca traz o conhecimento dos clientes e nós tratamos da produção técnica.',
+          'A OLagoon fornece especialização completa de fabrico, incluindo tecnologia Drop Stitch, engenharia de PVC e design de produto. A sua marca traz o conhecimento dos clientes e nós tratamos da produção técnica.',
       },
       {
         question: 'Que tipos de produtos de desportos aquáticos podem fabricar?',
@@ -3127,7 +3127,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Conseguem igualar os padrões de qualidade da minha marca existente?',
         answer:
-          'Sim. A Afarer desenvolve produtos de acordo com a sua linguagem de design, padrões de qualidade e posicionamento de mercado, com controlo de qualidade rigoroso ao longo de toda a produção.',
+          'Sim. A OLagoon desenvolve produtos de acordo com a sua linguagem de design, padrões de qualidade e posicionamento de mercado, com controlo de qualidade rigoroso ao longo de toda a produção.',
       },
       {
         question: 'Qual é o volume de encomenda típico para marcas estabelecidas?',
@@ -3159,7 +3159,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante OEM de SUP insufláveis para marcas de desportos aquáticos | {SITE}',
       description:
-        'A Afarer ajuda marcas de kayak, canoagem, vela e mergulho a expandir-se para os SUP insufláveis com tecnologia Drop Stitch profissional, fabrico OEM e soluções completas de produtos aquáticos.',
+        'A OLagoon ajuda marcas de kayak, canoagem, vela e mergulho a expandir-se para os SUP insufláveis com tecnologia Drop Stitch profissional, fabrico OEM e soluções completas de produtos aquáticos.',
     },
     hero: {
       tagline: 'Expanda o Seu Portefólio de Desportos Aquáticos™',
@@ -3200,13 +3200,13 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Tecnologia de Fabrico SUP Insuflável Madura',
           description:
-            'A Afarer fornece tecnologia Drop Stitch profissional para estruturas insufláveis de alta pressão com desempenho de prancha rígida, construção PVC multicamadas para durabilidade e tecnologia de soldadura profissional para costuras resistentes.',
+            'A OLagoon fornece tecnologia Drop Stitch profissional para estruturas insufláveis de alta pressão com desempenho de prancha rígida, construção PVC multicamadas para durabilidade e tecnologia de soldadura profissional para costuras resistentes.',
           features: ['Tecnologia Drop Stitch', 'Construção PVC Multicamadas', 'Tecnologia de Soldadura Profissional'],
         },
         {
           title: 'Desenvolvimento Completo de Portefólio de Produtos SUP',
           description:
-            'A Afarer fornece plataformas de produtos comprovadas incluindo SUP all-round para principiantes e famílias, SUP de touring para utilizadores de aventura, SUP de pesca com sistemas de montagem, SUP de yoga para mercados de bem-estar e SUP para crianças.',
+            'A OLagoon fornece plataformas de produtos comprovadas incluindo SUP all-round para principiantes e famílias, SUP de touring para utilizadores de aventura, SUP de pesca com sistemas de montagem, SUP de yoga para mercados de bem-estar e SUP para crianças.',
           features: [
             'Série SUP All-Round',
             'Série SUP de Touring',
@@ -3218,37 +3218,37 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de Produtos OEM e ODM',
           description:
-            'A Afarer apoia o fabrico de marca própria com logótipo e embalagem de marca, modificação de produto para dimensões e características e coleções exclusivas para modelos específicos de marca e produtos sazonais.',
+            'A OLagoon apoia o fabrico de marca própria com logótipo e embalagem de marca, modificação de produto para dimensões e características e coleções exclusivas para modelos específicos de marca e produtos sazonais.',
           features: ['Fabrico de Marca Própria', 'Modificação de Produto', 'Coleções Exclusivas'],
         },
         {
           title: 'Programa de Entrada Rápida no Mercado',
           description:
-            'A Afarer ajuda a reduzir o tempo de desenvolvimento através de plataformas de produtos existentes com formas de prancha comprovadas e construções testadas, prototipagem rápida da discussão à produção e lançamento comercial mais rápido para capturar oportunidades sazonais.',
+            'A OLagoon ajuda a reduzir o tempo de desenvolvimento através de plataformas de produtos existentes com formas de prancha comprovadas e construções testadas, prototipagem rápida da discussão à produção e lançamento comercial mais rápido para capturar oportunidades sazonais.',
           features: ['Plataformas de Produtos Existentes', 'Prototipagem Rápida', 'Lançamento Comercial Mais Rápido'],
         },
         {
           title: 'Integração de Produtos Compatível Com a Marca',
           description:
-            'A Afarer trabalha com gestores de marca para alinhar a linguagem de design de produto incluindo cores, grafismos e materiais com a identidade de marca existente, abrangendo posicionamentos de aventura, familiar e marinho premium.',
+            'A OLagoon trabalha com gestores de marca para alinhar a linguagem de design de produto incluindo cores, grafismos e materiais com a identidade de marca existente, abrangendo posicionamentos de aventura, familiar e marinho premium.',
           features: ['Linguagem de Design de Produto', 'Posicionamento do Cliente', 'Alinhamento de Marca'],
         },
         {
           title: 'Acessórios e Desenvolvimento de Pacote Completo',
           description:
-            'A Afarer apoia acessórios SUP incluindo pagaias, bombas, leashes, sacos e kits de reparação, além de pacotes de produtos como pacotes para principiantes, pacotes de aventura e pacotes familiares.',
+            'A OLagoon apoia acessórios SUP incluindo pagaias, bombas, leashes, sacos e kits de reparação, além de pacotes de produtos como pacotes para principiantes, pacotes de aventura e pacotes familiares.',
           features: ['Acessórios SUP', 'Pacotes de Produtos', 'Desenvolvimento de Pacotes'],
         },
         {
           title: 'Integração da Cadeia de Abastecimento',
           description:
-            'Para marcas estabelecidas, a Afarer fornece capacidade de produção estável de 500–10.000 conjuntos/ano, planeamento anual do roadmap de produtos e produção sazonal e consistência de qualidade em todas as especificações.',
+            'Para marcas estabelecidas, a OLagoon fornece capacidade de produção estável de 500–10.000 conjuntos/ano, planeamento anual do roadmap de produtos e produção sazonal e consistência de qualidade em todas as especificações.',
           features: ['Capacidade de Produção Estável', 'Planeamento Anual', 'Consistência de Qualidade'],
         },
         {
           title: 'Apoio ao Controlo de Qualidade',
           description:
-            'Os processos de qualidade da Afarer incluem inspeção de materiais de PVC e tecido Drop Stitch, monitorização de produção de soldadura e montagem e inspeção final de desempenho do produto, acessórios e embalagem.',
+            'Os processos de qualidade da OLagoon incluem inspeção de materiais de PVC e tecido Drop Stitch, monitorização de produção de soldadura e montagem e inspeção final de desempenho do produto, acessórios e embalagem.',
           features: ['Inspeção de Materiais', 'Monitorização de Produção', 'Inspeção Final'],
         },
       ],
@@ -3265,7 +3265,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de Estratégia de Produto',
           detail:
-            'A Afarer analisou a base de clientes existente da marca, o posicionamento de mercado e o segmento de preço para recomendar uma expansão de família de produtos SUP alinhada com a sua marca.',
+            'A OLagoon analisou a base de clientes existente da marca, o posicionamento de mercado e o segmento de preço para recomendar uma expansão de família de produtos SUP alinhada com a sua marca.',
         },
         {
           title: 'Criação de Portefólio de Produtos',
@@ -3302,22 +3302,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Planeamento de Portefólio de Produtos e Adaptação ao Mercado Brasileiro',
               detail:
-                'Pedro visitou a instalação da Afarer em Shenzhen em janeiro de 2025 com o seu diretor de produto e designer industrial para um workshop colaborativo de 5 dias. Selecionaram 10 modelos SUP: 4 all-around, 3 de touring, 2 de pesca e 1 plataforma de yoga. Os engenheiros da Afarer modificaram cada produto para as condições brasileiras, incluindo PVC resistente a UV para o sol tropical, cascos reforçados para leitos rochosos de Minas Gerais e combinações de cores inspiradas na bandeira nacional do Brasil e em motivos da floresta amazónica. Pedro colocou uma ordem inicial de R$3,2 milhões para 4.500 unidades, com depósito de 30% e saldo contra conhecimento de embarque.',
+                'Pedro visitou a instalação da OLagoon em Shenzhen em janeiro de 2025 com o seu diretor de produto e designer industrial para um workshop colaborativo de 5 dias. Selecionaram 10 modelos SUP: 4 all-around, 3 de touring, 2 de pesca e 1 plataforma de yoga. Os engenheiros da OLagoon modificaram cada produto para as condições brasileiras, incluindo PVC resistente a UV para o sol tropical, cascos reforçados para leitos rochosos de Minas Gerais e combinações de cores inspiradas na bandeira nacional do Brasil e em motivos da floresta amazónica. Pedro colocou uma ordem inicial de R$3,2 milhões para 4.500 unidades, com depósito de 30% e saldo contra conhecimento de embarque.',
             },
             {
               title: 'Integração de Marca, Localização em Português e Conformidade',
               detail:
-                'A equipa de design da Afarer criou a identidade visual completa da «ÁguaVita Adventure» incluindo logótipos, esquemas de cores, embalagem e materiais de ponto de venda em português do Brasil. A equipa de conformidade geriu a certificação INMETRO para todos os 10 produtos (obrigatória para equipamento desportivo no Brasil) e desenvolveu manuais de instrução em português com guias de montagem ilustrados para os demográficos brasileiros de menor literacia. A Afarer produziu 200 unidades de pré-produção enviadas por via aérea em março de 2025 para os 50 melhores revendedores de Pedro avaliarem — 46 de 50 colocaram ordens iniciais com média de R$48 mil cada.',
+                'A equipa de design da OLagoon criou a identidade visual completa da «ÁguaVita Adventure» incluindo logótipos, esquemas de cores, embalagem e materiais de ponto de venda em português do Brasil. A equipa de conformidade geriu a certificação INMETRO para todos os 10 produtos (obrigatória para equipamento desportivo no Brasil) e desenvolveu manuais de instrução em português com guias de montagem ilustrados para os demográficos brasileiros de menor literacia. A OLagoon produziu 200 unidades de pré-produção enviadas por via aérea em março de 2025 para os 50 melhores revendedores de Pedro avaliarem — 46 de 50 colocaram ordens iniciais com média de R$48 mil cada.',
             },
             {
               title: 'Lançamento em Revenda e Distribuição Nacional',
               detail:
-                'A remessa marítima principal de 4.300 unidades chegou ao Porto de Santos a 15 de maio de 2025 e despachou na alfândega em 5 dias. A equipa logística da Afarer coordenou com os 5 centros regionais de distribuição da ÁguaVita em São Paulo, Rio de Janeiro, Belo Horizonte, Recife e Porto Alegre. A equipa de vendas de 6 pessoas de Pedro lançou a linha na São Paulo Outdoor Sports Expo 2025 (12–15 de junho) com demonstrações ao vivo em piscina de paddle com a canoísta olímpica Isabella Santos. Em 4 dias, a ÁguaVita assinou 340 novas contas de revendedores especificamente para a linha Adventure e vendeu 800 unidades diretamente do piso da exposição.',
+                'A remessa marítima principal de 4.300 unidades chegou ao Porto de Santos a 15 de maio de 2025 e despachou na alfândega em 5 dias. A equipa logística da OLagoon coordenou com os 5 centros regionais de distribuição da ÁguaVita em São Paulo, Rio de Janeiro, Belo Horizonte, Recife e Porto Alegre. A equipa de vendas de 6 pessoas de Pedro lançou a linha na São Paulo Outdoor Sports Expo 2025 (12–15 de junho) com demonstrações ao vivo em piscina de paddle com a canoísta olímpica Isabella Santos. Em 4 dias, a ÁguaVita assinou 340 novas contas de revendedores especificamente para a linha Adventure e vendeu 800 unidades diretamente do piso da exposição.',
             },
             {
               title: 'Expansão de Categoria e Liderança de Mercado',
               detail:
-                'Em novembro de 2025, a «ÁguaVita Adventure» tinha vendido 6.200 unidades em todos os 10 SKUs, gerando R$16,2 milhões em receita (35% acima da meta de R$12 milhões). O modelo SUP insuflável «Ipanema 10\'6"» foi o produto mais vendido de todas as categorias da ÁguaVita, incluindo o equipamento de mergulho legado. Pedro atribuiu o sucesso à consistência de qualidade da Afarer — apenas 0,8% de taxa de defeitos comparado com 4,2% nos seus fornecedores anteriores de equipamento de mergulho. Colocou uma ordem de R$8,5 milhões para 2026 incluindo 4 novos modelos SUP de pesca e uma prancha de pedal em pé, posicionando a ÁguaVita como a maior empresa de desportos de paddle do Brasil.',
+                'Em novembro de 2025, a «ÁguaVita Adventure» tinha vendido 6.200 unidades em todos os 10 SKUs, gerando R$16,2 milhões em receita (35% acima da meta de R$12 milhões). O modelo SUP insuflável «Ipanema 10\'6"» foi o produto mais vendido de todas as categorias da ÁguaVita, incluindo o equipamento de mergulho legado. Pedro atribuiu o sucesso à consistência de qualidade da OLagoon — apenas 0,8% de taxa de defeitos comparado com 4,2% nos seus fornecedores anteriores de equipamento de mergulho. Colocou uma ordem de R$8,5 milhões para 2026 incluindo 4 novos modelos SUP de pesca e uma prancha de pedal em pé, posicionando a ÁguaVita como a maior empresa de desportos de paddle do Brasil.',
             },
           ],
           results: [
@@ -3340,17 +3340,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Análise de Composição da Frota e Revisão de Especificação de Grau Comercial',
               detail:
-                'Em agosto de 2024, Kai e o seu filho Mako (licenciado em gestão hoteleira) trabalharam com a divisão de Frotas Comerciais da Afarer para desenhar a frota de aluguer ideal. Depois de analisarem 3 anos de dados locais de turismo, decidiram 60 SUP (30 all-around de 10\'6", 15 de touring de 11\'6", 8 pranchas de yoga, 7 pranchas de pesca). A Afarer forneceu construção de grau comercial com drop stitch reforçado, laterais PVC de dupla camada, argolas D em aço inoxidável (contra plástico) e válvulas de grau comercial classificadas para mais de 100.000 ciclos de insuflação. A frota totalizou $48.000 com entrega (contra $78.000 de pranchas comparáveis fabricadas no Havai), e Kai colocou a ordem com depósito de 50% a 1 de setembro de 2024.',
+                'Em agosto de 2024, Kai e o seu filho Mako (licenciado em gestão hoteleira) trabalharam com a divisão de Frotas Comerciais da OLagoon para desenhar a frota de aluguer ideal. Depois de analisarem 3 anos de dados locais de turismo, decidiram 60 SUP (30 all-around de 10\'6", 15 de touring de 11\'6", 8 pranchas de yoga, 7 pranchas de pesca). A OLagoon forneceu construção de grau comercial com drop stitch reforçado, laterais PVC de dupla camada, argolas D em aço inoxidável (contra plástico) e válvulas de grau comercial classificadas para mais de 100.000 ciclos de insuflação. A frota totalizou $48.000 com entrega (contra $78.000 de pranchas comparáveis fabricadas no Havai), e Kai colocou a ordem com depósito de 50% a 1 de setembro de 2024.',
             },
             {
               title: 'Formação em Operações de Aluguer e Montagem Logística',
               detail:
-                'O especialista em operações de aluguer da Afarer passou 4 dias na loja de Kai em outubro de 2024 a otimizar o fluxo de aluguer. Implementaram um sistema de gestão de frota com pranchas codificadas por QR e uma app móvel para check-in/out, registo de danos e calendários de manutenção preventiva. A Afarer forneceu 10 bombas a bateria robustas para rotatividade da frota no mesmo dia e um sistema de suportes de armazenagem personalizado que maximizava o armazém de 600 pés quadrados. A formação cobriu protocolos de insuflação (cada prancha insuflada a 12–15 PSI em menos de 4 minutos com as bombas a bateria), listas de verificação de inspeção, procedimentos de reparação e briefings de segurança aos clientes padronizados para todos os funcionários de aluguer.',
+                'O especialista em operações de aluguer da OLagoon passou 4 dias na loja de Kai em outubro de 2024 a otimizar o fluxo de aluguer. Implementaram um sistema de gestão de frota com pranchas codificadas por QR e uma app móvel para check-in/out, registo de danos e calendários de manutenção preventiva. A OLagoon forneceu 10 bombas a bateria robustas para rotatividade da frota no mesmo dia e um sistema de suportes de armazenagem personalizado que maximizava o armazém de 600 pés quadrados. A formação cobriu protocolos de insuflação (cada prancha insuflada a 12–15 PSI em menos de 4 minutos com as bombas a bateria), listas de verificação de inspeção, procedimentos de reparação e briefings de segurança aos clientes padronizados para todos os funcionários de aluguer.',
             },
             {
               title: 'Estratégia de Preços, Lançamento e Integração de Reservas Online',
               detail:
-                'Kai lançou a frota a 1 de dezembro de 2024 com preços escalonados: $35/hora para SUP, $89/meio dia, $129/dia completo e tarifas semanais. A Afarer ajudou Kai a integrar-se com as plataformas de reservas FareHarbor e Peek Pro, criou fotografia profissional de produto e desenvolveu uma otimização da ficha do Google My Business que moveu a loja de Kai da página 4 para o top 3 dos resultados locais em 6 semanas. Até 31 de dezembro, a frota alcançou 42% de utilização vendendo 780 dias de aluguer apesar de ser a época baixa, gerando $62 mil só em dezembro.',
+                'Kai lançou a frota a 1 de dezembro de 2024 com preços escalonados: $35/hora para SUP, $89/meio dia, $129/dia completo e tarifas semanais. A OLagoon ajudou Kai a integrar-se com as plataformas de reservas FareHarbor e Peek Pro, criou fotografia profissional de produto e desenvolveu uma otimização da ficha do Google My Business que moveu a loja de Kai da página 4 para o top 3 dos resultados locais em 6 semanas. Até 31 de dezembro, a frota alcançou 42% de utilização vendendo 780 dias de aluguer apesar de ser a época baixa, gerando $62 mil só em dezembro.',
             },
             {
               title: 'Arranque da Época de Pico e Planeamento de Expansão',
@@ -3359,7 +3359,7 @@ const pt: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            '$764 mil de receita total no primeiro ano (12% acima da meta de $680 mil) com $487 mil de rendimento líquido de aluguer da frota Afarer',
+            '$764 mil de receita total no primeiro ano (12% acima da meta de $680 mil) com $487 mil de rendimento líquido de aluguer da frota OLagoon',
             '78% de utilização da frota nos meses de pico de verão em todas as 60 pranchas SUP, servindo até 180 clientes diariamente',
             'Break-even do investimento de frota de $48 mil alcançado em apenas 3,5 meses (dezembro de 2024 até meados de março de 2025)',
             'Valorização do negócio subiu de $420 mil para $1,8 milhão em 12 meses, permitindo a aquisição de uma segunda localização frente à praia em Kona',
@@ -3367,8 +3367,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que as Marcas de Desportos Aquáticos Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que as Marcas de Desportos Aquáticos Escolhem a OLagoon',
       items: [
         {
           title: 'Mercados de Desportos Aquáticos',
@@ -3407,7 +3407,7 @@ const pt: Record<string, SolutionOverride> = {
         question:
           'Como pode uma marca de caiaque ou canoa acrescentar produtos SUP insufláveis sem construir uma fábrica?',
         answer:
-          'O modelo de parceria OEM/ODM da Afarer permite que marcas estabelecidas de desportos aquáticos acrescentem produtos SUP insufláveis usando a nossa infraestrutura de fabrico existente. As marcas alavancam a sua base de clientes e canais de distribuição enquanto a Afarer trata da engenharia Drop Stitch, do fabrico PVC, do controlo de qualidade e da gestão da cadeia de abastecimento.',
+          'O modelo de parceria OEM/ODM da OLagoon permite que marcas estabelecidas de desportos aquáticos acrescentem produtos SUP insufláveis usando a nossa infraestrutura de fabrico existente. As marcas alavancam a sua base de clientes e canais de distribuição enquanto a OLagoon trata da engenharia Drop Stitch, do fabrico PVC, do controlo de qualidade e da gestão da cadeia de abastecimento.',
       },
       {
         question: 'O que é a tecnologia Drop Stitch e por que é importante para o fabrico de SUP?',
@@ -3417,26 +3417,26 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Os designs e cores existentes da marca podem ser aplicados a produtos SUP?',
         answer:
-          'Sim, a Afarer apoia a integração completa de marca incluindo grafismos personalizados, correspondência de cores Pantone, aplicação de logótipo e design de embalagem. Trabalhamos com gestores de marca para garantir que os produtos SUP se alinham com a linguagem de design de produtos existente e o posicionamento de mercado.',
+          'Sim, a OLagoon apoia a integração completa de marca incluindo grafismos personalizados, correspondência de cores Pantone, aplicação de logótipo e design de embalagem. Trabalhamos com gestores de marca para garantir que os produtos SUP se alinham com a linguagem de design de produtos existente e o posicionamento de mercado.',
       },
       {
         question: 'Qual é o prazo típico do conceito ao mercado para uma nova linha de produtos SUP?',
         answer:
-          'Usando as plataformas de produtos existentes da Afarer e o processo de prototipagem rápida, as marcas podem tipicamente avançar do conceito a produtos prontos para mercado em 8–12 semanas. Isto inclui seleção de produto, personalização de design, aprovação de protótipo, produção e envio.',
+          'Usando as plataformas de produtos existentes da OLagoon e o processo de prototipagem rápida, as marcas podem tipicamente avançar do conceito a produtos prontos para mercado em 8–12 semanas. Isto inclui seleção de produto, personalização de design, aprovação de protótipo, produção e envio.',
       },
       {
         question: 'Que quantidades mínimas de encomenda são exigidas para produção SUP OEM/ODM?',
         answer:
-          'A Afarer apoia uma gama de volumes desde 500 unidades para testes iniciais de mercado até mais de 10.000 unidades anuais para programas estabelecidos. Trabalhamos com as marcas para planear volumes de produção que correspondam à sua escala de distribuição e procura sazonal.',
+          'A OLagoon apoia uma gama de volumes desde 500 unidades para testes iniciais de mercado até mais de 10.000 unidades anuais para programas estabelecidos. Trabalhamos com as marcas para planear volumes de produção que correspondam à sua escala de distribuição e procura sazonal.',
       },
       {
-        question: 'A Afarer oferece fabrico de SUP insuflável junto com linhas existentes de produtos de caiaque?',
+        question: 'A OLagoon oferece fabrico de SUP insuflável junto com linhas existentes de produtos de caiaque?',
         answer:
-          'Sim, a Afarer fabrica pranchas SUP insufláveis usando tecnologia Drop Stitch e soldadura PVC. Isto permite que marcas de desportos aquáticos acrescentem uma categoria SUP insuflável completa através de um único parceiro de fabrico mantendo os seus produtos existentes inalterados.',
+          'Sim, a OLagoon fabrica pranchas SUP insufláveis usando tecnologia Drop Stitch e soldadura PVC. Isto permite que marcas de desportos aquáticos acrescentem uma categoria SUP insuflável completa através de um único parceiro de fabrico mantendo os seus produtos existentes inalterados.',
       },
     ],
     cta: {
-      title: 'Expanda a Sua Marca de Desportos Aquáticos Com a Afarer',
+      title: 'Expanda a Sua Marca de Desportos Aquáticos Com a OLagoon',
       subtitle: 'Já tem os clientes. Já tem o mercado. Agora acrescente os produtos que eles querem.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto de Expansão SUP',
@@ -3451,15 +3451,15 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Soluções de SUP insuflável para lojas de surf | Fabricante de marca privada | {SITE}',
       description:
-        'A Afarer ajuda lojas de surf e marcas de lifestyle aquático a expandir-se com SUP insufláveis de marca privada e produtos aquáticos personalizados. Reduza os custos de envio, armazenamento e inventário com tecnologia insuflável avançada.',
+        'A OLagoon ajuda lojas de surf e marcas de lifestyle aquático a expandir-se com SUP insufláveis de marca privada e produtos aquáticos personalizados. Reduza os custos de envio, armazenamento e inventário com tecnologia insuflável avançada.',
     },
     hero: {
       tagline: 'Traga a Tecnologia Insuflável Para o Negócio de Surf™',
       title: 'Soluções SUP Insufláveis para Lojas de Surf e Negócios Costeiros',
       subtitle:
-        'A Afarer ajuda lojas de surf e marcas de estilo de vida aquático a expandir-se com SUP insuflável de marca própria e produtos personalizados de desportos aquáticos. Reduza os custos de transporte, armazenagem e inventário com tecnologia insuflável avançada.',
+        'A OLagoon ajuda lojas de surf e marcas de estilo de vida aquático a expandir-se com SUP insuflável de marca própria e produtos personalizados de desportos aquáticos. Reduza os custos de transporte, armazenagem e inventário com tecnologia insuflável avançada.',
       image: {
-        alt: 'Descrição das pranchas SUP personalizadas Afarer',
+        alt: 'Descrição das pranchas SUP personalizadas OLagoon',
       },
     },
     challenge: {
@@ -3573,7 +3573,7 @@ const pt: Record<string, SolutionOverride> = {
       customer:
         'Marca Europeia de Loja de Surf Costeira localizada na Costa Atlântica da Europa. Originalmente focada em pranchas de surf, acessórios de surf e produtos de estilo de vida de praia, com uma forte comunidade local de clientes.',
       steps: [
-        "A Afarer recomendou uma coleção SUP insuflável incluindo SUP All-round de 10'6, SUP de Touring de 12'6 e pacotes familiares adaptados à localização à beira-mar da loja e à sua base de clientes.",
+        "A OLagoon recomendou uma coleção SUP insuflável incluindo SUP All-round de 10'6, SUP de Touring de 12'6 e pacotes familiares adaptados à localização à beira-mar da loja e à sua base de clientes.",
         'Criou grafismos personalizados da prancha, cores da marca e embalagem de retalho que combinavam com a identidade existente da loja de surf e o seu posicionamento de estilo de vida de praia.',
         'Transformou o modelo de negócio do retalho tradicional de surf para um negócio completo de estilo de vida aquático, adicionando vendas de SUP, pacotes de aluguer e aulas para principiantes.',
         'Lançou a linha de produtos insufláveis para complementar a oferta existente de pranchas rígidas sem aumentar a pressão de armazenagem.',
@@ -3598,17 +3598,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Avaliação Comparativa de Desempenho e Seleção de Materiais',
               detail:
-                'Os engenheiros de produto da Afarer visitaram a Gold Coast em fevereiro de 2023 e conduziram testes às cegas com 12 instrutores de Brendan. Cada instrutor testou 6 pranchas insufláveis de protótipo contra a sua soft-top de epóxi padrão de 9\'0" em 4 métricas: estabilidade em pé (avaliada de 1 a 10), deslizamento da pagaia (segundos para percorrer 50 m), resposta de viragem rail-to-rail e avaliação de confiança do aluno. O protótipo vencedor — designado M9-IS — usava um núcleo drop-stitch de 3 camadas com um convés em EVA de 0,5 mm de comprimento total e um longarina de bambu reforçado. Os instrutores avaliaram-no com 8,7/10 no global, contra 7,4/10 para as pranchas de epóxi. Brendan encomendou 60 unidades em março de 2023.',
+                'Os engenheiros de produto da OLagoon visitaram a Gold Coast em fevereiro de 2023 e conduziram testes às cegas com 12 instrutores de Brendan. Cada instrutor testou 6 pranchas insufláveis de protótipo contra a sua soft-top de epóxi padrão de 9\'0" em 4 métricas: estabilidade em pé (avaliada de 1 a 10), deslizamento da pagaia (segundos para percorrer 50 m), resposta de viragem rail-to-rail e avaliação de confiança do aluno. O protótipo vencedor — designado M9-IS — usava um núcleo drop-stitch de 3 camadas com um convés em EVA de 0,5 mm de comprimento total e um longarina de bambu reforçado. Os instrutores avaliaram-no com 8,7/10 no global, contra 7,4/10 para as pranchas de epóxi. Brendan encomendou 60 unidades em março de 2023.',
             },
             {
               title: 'Fase 2 — Testes de Durabilidade Comercial em Condições de Escola',
               detail:
-                'Brendan e a Afarer acordaram um piloto de 4 meses na unidade de Surfers Paradise com 20 pranchas de protótipo submetidas a 1.200 ciclos de aluguer cada. Cada prancha foi utilizada em média 14 vezes por semana por alunos principiantes (faixa de 60–90 kg). A equipa da Afarer acompanhou 6 métricas de falha: integridade das costuras, fugas na válvula, adesão do convés, descoloração UV, abrasão das laterais e integridade da caixa da quilha. No 3.º mês, 3 pranchas desenvolveram descolamento do convés no ponto de contacto da proa — a Afarer reformulou o adesivo com um filme de poliuretano ativado pelo calor e substituiu as pranchas afetadas. Em junho de 2023, o piloto registava zero falhas estruturais e uma taxa de disponibilidade de 97,3%.',
+                'Brendan e a OLagoon acordaram um piloto de 4 meses na unidade de Surfers Paradise com 20 pranchas de protótipo submetidas a 1.200 ciclos de aluguer cada. Cada prancha foi utilizada em média 14 vezes por semana por alunos principiantes (faixa de 60–90 kg). A equipa da OLagoon acompanhou 6 métricas de falha: integridade das costuras, fugas na válvula, adesão do convés, descoloração UV, abrasão das laterais e integridade da caixa da quilha. No 3.º mês, 3 pranchas desenvolveram descolamento do convés no ponto de contacto da proa — a OLagoon reformulou o adesivo com um filme de poliuretano ativado pelo calor e substituiu as pranchas afetadas. Em junho de 2023, o piloto registava zero falhas estruturais e uma taxa de disponibilidade de 97,3%.',
             },
             {
               title: 'Fase 3 — Implementação da Frota Completa, Formação e Infraestrutura de Armazenagem',
               detail:
-                'Brendan fez uma segunda ordem de compra de 50 pranchas M9-IS adicionais em julho de 2023, elevando a frota insuflável para 70 unidades (58% do total). A equipa de logística da Afarer expediu as pranchas em mochilas dobráveis de 32 L que reduziram o volume de armazenagem em 80% comparado com as pranchas rígidas — uma vantagem crítica dado o armazém de 65 m² de Brendan em Burleigh Heads. A Afarer criou um vídeo de formação de 14 minutos para os 22 instrutores de Brendan, abrangendo a pressão de insuflação correta (15 PSI para surf, 18 PSI para água plana), o protocolo de lavagem após água salgada e uma lista de verificação pré-aula de 5 pontos. Toda a frota foi implementada até 1 de setembro de 2023, o início da época de primavera australiana.',
+                'Brendan fez uma segunda ordem de compra de 50 pranchas M9-IS adicionais em julho de 2023, elevando a frota insuflável para 70 unidades (58% do total). A equipa de logística da OLagoon expediu as pranchas em mochilas dobráveis de 32 L que reduziram o volume de armazenagem em 80% comparado com as pranchas rígidas — uma vantagem crítica dado o armazém de 65 m² de Brendan em Burleigh Heads. A OLagoon criou um vídeo de formação de 14 minutos para os 22 instrutores de Brendan, abrangendo a pressão de insuflação correta (15 PSI para surf, 18 PSI para água plana), o protocolo de lavagem após água salgada e uma lista de verificação pré-aula de 5 pontos. Toda a frota foi implementada até 1 de setembro de 2023, o início da época de primavera australiana.',
             },
             {
               title: 'Fase 4 — Medição do Impacto Operacional e Análise Custo-Benefício',
@@ -3635,17 +3635,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Sourcing Com Cobertura Cambial e Modelação de Custos',
               detail:
-                'A equipa financeira da Afarer trabalhou com Thabo entre outubro e dezembro de 2022 para estruturar um acordo de compra denominado em Rand sul-africano (ZAR) com uma cláusula de câmbio fixo de 6 meses a R17,80/USD, protegendo-o da volatilidade da ZAR que tinha atingido 19,20/USD em julho de 2022. A Afarer identificou uma fábrica em Shenzhen capaz de produzir uma prancha em PVC Fusion de duas camadas com garantia UV de 5 anos a um custo posto em loja de R3.100 por unidade (incluindo 22% de direitos de importação, logística e despachante aduaneiro). O preço de retalho de R7.200 de Thabo dava-lhe uma margem bruta de 56,9% — significativamente acima dos 22% de média das pranchas de marca.',
+                'A equipa financeira da OLagoon trabalhou com Thabo entre outubro e dezembro de 2022 para estruturar um acordo de compra denominado em Rand sul-africano (ZAR) com uma cláusula de câmbio fixo de 6 meses a R17,80/USD, protegendo-o da volatilidade da ZAR que tinha atingido 19,20/USD em julho de 2022. A OLagoon identificou uma fábrica em Shenzhen capaz de produzir uma prancha em PVC Fusion de duas camadas com garantia UV de 5 anos a um custo posto em loja de R3.100 por unidade (incluindo 22% de direitos de importação, logística e despachante aduaneiro). O preço de retalho de R7.200 de Thabo dava-lhe uma margem bruta de 56,9% — significativamente acima dos 22% de média das pranchas de marca.',
             },
             {
               title: 'Fase 2 — Design Inspirado na Cidade do Cabo e Marca Cultural',
               detail:
-                "Os designers gráficos da Afarer colaboraram com uma ilustradora local da Cidade do Cabo, Mbali Dlamini, para criar 3 designs personalizados de convés: «Seal Island» (com lobos-marinhos do Cabo), «Chapman's Peak» (silhueta de montanha) e «Boulder's Beach» (pinguins africanos). Cada design usou impressão por transferência térmica a 6 cores com tintas resistentes a UV testadas para mais de 500 horas de exposição ao sol. As pranchas incluíam uma característica única para o mercado sul-africano: um sistema reforçado de fixação na proa para dry bags (popular em travessias de vários dias ao longo da Skeleton Coast até Durban). Thabo lançou um website (kalkbaysurfco.co.za) na Shopify com a fotografia de produto da Afarer capturada na Praia de Muizenberg.",
+                "Os designers gráficos da OLagoon colaboraram com uma ilustradora local da Cidade do Cabo, Mbali Dlamini, para criar 3 designs personalizados de convés: «Seal Island» (com lobos-marinhos do Cabo), «Chapman's Peak» (silhueta de montanha) e «Boulder's Beach» (pinguins africanos). Cada design usou impressão por transferência térmica a 6 cores com tintas resistentes a UV testadas para mais de 500 horas de exposição ao sol. As pranchas incluíam uma característica única para o mercado sul-africano: um sistema reforçado de fixação na proa para dry bags (popular em travessias de vários dias ao longo da Skeleton Coast até Durban). Thabo lançou um website (kalkbaysurfco.co.za) na Shopify com a fotografia de produto da OLagoon capturada na Praia de Muizenberg.",
             },
             {
               title: 'Fase 3 — Produção de Amostras, Testes de Qualidade e Certificação',
               detail:
-                'A Afarer produziu 6 amostras por SKU em janeiro de 2023. Thabo e dois moldadores locais de pranchas de surf (com mais de 50 anos de experiência combinada) conduziram testes destrutivos: cada prancha foi insuflada a 25 PSI (125% da pressão nominal) e mantida durante 72 horas — todas as amostras passaram com uma perda inferior a 0,5 PSI. Testaram a resistência das costuras com um dinamómetro digital, exigindo um mínimo de 120 N/cm (as amostras atingiram em média 138 N/cm). Thabo levou 3 pranchas numa travessia guiada de 5 dias de Arniston a Struisbaai (120 km) em fevereiro de 2023, simulando condições intensivas de tour. A caixa da quilha de uma prancha soltou-se após 80 km — a Afarer substituiu a caixa de nylon por uma versão reforçada em aço inoxidável.',
+                'A OLagoon produziu 6 amostras por SKU em janeiro de 2023. Thabo e dois moldadores locais de pranchas de surf (com mais de 50 anos de experiência combinada) conduziram testes destrutivos: cada prancha foi insuflada a 25 PSI (125% da pressão nominal) e mantida durante 72 horas — todas as amostras passaram com uma perda inferior a 0,5 PSI. Testaram a resistência das costuras com um dinamómetro digital, exigindo um mínimo de 120 N/cm (as amostras atingiram em média 138 N/cm). Thabo levou 3 pranchas numa travessia guiada de 5 dias de Arniston a Struisbaai (120 km) em fevereiro de 2023, simulando condições intensivas de tour. A caixa da quilha de uma prancha soltou-se após 80 km — a OLagoon substituiu a caixa de nylon por uma versão reforçada em aço inoxidável.',
             },
             {
               title: 'Fase 4 — Lançamento no Retalho, Parcerias com Operadores de Tours e Reposição',
@@ -3662,8 +3662,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que a Afarer',
+    whyOLagoon: {
+      title: 'Por Que a OLagoon',
       items: [
         {
           title: 'Compreensão do Mercado de Surf',
@@ -3710,7 +3710,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Posso criar a minha própria linha de SUP insuflável com a minha marca?',
         answer:
-          'Sim. A Afarer fornece soluções completas de marca própria, incluindo design personalizado da prancha, grafismos, cores, embalagem e acessórios sob o nome da sua marca de surf.',
+          'Sim. A OLagoon fornece soluções completas de marca própria, incluindo design personalizado da prancha, grafismos, cores, embalagem e acessórios sob o nome da sua marca de surf.',
       },
       {
         question: 'Quanto posso poupar no transporte com pranchas insufláveis?',
@@ -3720,7 +3720,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Oferecem produtos de qualidade para aluguer para escolas de surf?',
         answer:
-          'Sim. A Afarer desenvolve produtos duráveis concebidos para utilização frequente em aluguer, com manutenção fácil, acessórios fiáveis e preços económicos de frota.',
+          'Sim. A OLagoon desenvolve produtos duráveis concebidos para utilização frequente em aluguer, com manutenção fácil, acessórios fiáveis e preços económicos de frota.',
       },
       {
         question: 'Posso combinar pranchas rígidas e produtos insufláveis na minha loja?',
@@ -3742,7 +3742,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante de SUP para crianças | {SITE}',
       description:
-        'A Afarer oferece soluções SUP seguras para crianças destinadas a colónias de férias, escolas e programas de aventura juvenil. Paddle boards infantis, equipamento Giant SUP, frotas comerciais e soluções OEM personalizadas.',
+        'A OLagoon oferece soluções SUP seguras para crianças destinadas a colónias de férias, escolas e programas de aventura juvenil. Paddle boards infantis, equipamento Giant SUP, frotas comerciais e soluções OEM personalizadas.',
     },
     hero: {
       tagline:
@@ -3835,7 +3835,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Seleção de Produtos Juvenis',
           detail:
-            'A Afarer recomendou modelos SUP para crianças, pranchas estáveis para principiantes e equipamento de instrutor adaptados aos grupos etários do campamento.',
+            'A OLagoon recomendou modelos SUP para crianças, pranchas estáveis para principiantes e equipamento de instrutor adaptados aos grupos etários do campamento.',
         },
         {
           title: 'Personalização de Segurança',
@@ -3873,17 +3873,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Design SUP Específico Para Crianças (Junior Explorer 9\'6" X)',
               detail:
-                'Em julho de 2024, Connolly associou-se à equipa de produto da Afarer para desenvolver um SUP infantil de propósito específico. Após 3 iterações de protótipo, finalizaram a Junior Explorer 9\'6" X (28" de largura, 4" de espessura, 180L de volume) — 25% mais estreita e 40% mais leve que as pranchas padrão. Características principais: tapete de convés rebaixado (queda de 1,5") que baixa o centro de gravidade em 22%; indicador de intervalo de peso (faixas codificadas por cor para 18–55 kg); e duas alças de segurança por bordo. Connolly encomendou 120 pranchas com grafismos de convés marcados com as cores das escolas (6 combinações de cores escolares, 20 de cada). O prototipagem e testes custaram AU$14 mil; a encomenda de produção foi de AU$96 mil.',
+                'Em julho de 2024, Connolly associou-se à equipa de produto da OLagoon para desenvolver um SUP infantil de propósito específico. Após 3 iterações de protótipo, finalizaram a Junior Explorer 9\'6" X (28" de largura, 4" de espessura, 180L de volume) — 25% mais estreita e 40% mais leve que as pranchas padrão. Características principais: tapete de convés rebaixado (queda de 1,5") que baixa o centro de gravidade em 22%; indicador de intervalo de peso (faixas codificadas por cor para 18–55 kg); e duas alças de segurança por bordo. Connolly encomendou 120 pranchas com grafismos de convés marcados com as cores das escolas (6 combinações de cores escolares, 20 de cada). O prototipagem e testes custaram AU$14 mil; a encomenda de produção foi de AU$96 mil.',
             },
             {
               title: 'Passo 2: Desenvolvimento de Currículo Com Alinhamento ACARA',
               detail:
-                'Connolly trabalhou com os consultores educativos da Afarer e a autoridade curricular de Queensland para escrever o «Paddle & Discover», um programa de exploração SUP de 14 sessões alinhado com o Currículo Australiano v9.0 (Ciências, HPE, Geografia). As sessões incluíam: amostragem de insetos aquáticos (com uma bandeja de recolha montada no convés), medição de oxigénio dissolvido (medidor portátil preso aos D-rings), experiências de flutuabilidade e deslocamento e mapeamento do ecossistema dos Everglades. O programa tinha 3 níveis de dificuldade: Enguias (pré-escolar e 1.º ano, piscina/água calma), Tartarugas (2.º e 3.º anos, enseada protegida) e Arraias (4.º ao 6.º anos, Everglades abertos). A Afarer imprimiu cartões de orientação impermeáveis para cada nível.',
+                'Connolly trabalhou com os consultores educativos da OLagoon e a autoridade curricular de Queensland para escrever o «Paddle & Discover», um programa de exploração SUP de 14 sessões alinhado com o Currículo Australiano v9.0 (Ciências, HPE, Geografia). As sessões incluíam: amostragem de insetos aquáticos (com uma bandeja de recolha montada no convés), medição de oxigénio dissolvido (medidor portátil preso aos D-rings), experiências de flutuabilidade e deslocamento e mapeamento do ecossistema dos Everglades. O programa tinha 3 níveis de dificuldade: Enguias (pré-escolar e 1.º ano, piscina/água calma), Tartarugas (2.º e 3.º anos, enseada protegida) e Arraias (4.º ao 6.º anos, Everglades abertos). A OLagoon imprimiu cartões de orientação impermeáveis para cada nível.',
             },
             {
               title: 'Passo 3: Certificação de Professores, Avaliação de Riscos e Integração de Segurança Solar',
               detail:
-                'Ao longo de 3 fins de semana em setembro de 2024, a equipa de formação da Afarer certificou 14 professores (sem experiência SUP prévia) através de um curso modificado IRF Nível 1 com ênfase na segurança específica infantil: gestão de grupo com sinais de apito (3 toques = imobilizar, 5 = emergência), a «desmontagem koala» (a criança cai sobre a prancha a partir de sentada) e o resgate de crianças com menos de 30 kg após capotamento. O Departamento de Educação de Queensland aprovou o programa SUP no âmbito da estrutura de Avaliação de Risco de Atividades ao Ar Livre do estado, exigindo um rácio instrutor-aluno de 1:6 em água calma (marulho <0,3 m, vento <12 nós). A segurança solar (camisas de rash, FPS 50+, protetores de pescoço) foi integrada como requisito da sessão 0.',
+                'Ao longo de 3 fins de semana em setembro de 2024, a equipa de formação da OLagoon certificou 14 professores (sem experiência SUP prévia) através de um curso modificado IRF Nível 1 com ênfase na segurança específica infantil: gestão de grupo com sinais de apito (3 toques = imobilizar, 5 = emergência), a «desmontagem koala» (a criança cai sobre a prancha a partir de sentada) e o resgate de crianças com menos de 30 kg após capotamento. O Departamento de Educação de Queensland aprovou o programa SUP no âmbito da estrutura de Avaliação de Risco de Atividades ao Ar Livre do estado, exigindo um rácio instrutor-aluno de 1:6 em água calma (marulho <0,3 m, vento <12 nós). A segurança solar (camisas de rash, FPS 50+, protetores de pescoço) foi integrada como requisito da sessão 0.',
             },
             {
               title: 'Passo 4: Lançamento no 1.º Período de 2025 e Resultados Mensuráveis dos Alunos',
@@ -3911,7 +3911,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Aquisição de Frota e Dimensionamento de Pranchas Por Idade',
               detail:
-                'Em janeiro de 2025, Whitfield selecionou a Afarer Junior Explorer 9\'6" X para campistas dos 8 aos 11 anos (40 pranchas) e a Explorer 10\'8" X para os 12 aos 15 anos (30 pranchas), num total de US$58 mil. Especificou cada prancha com dois D-rings montados na proa para fixação de GoPro/bandeja de recolha e um elástico de convés para um diário de natureza impermeável (Rite in the Rain, espiral). Cada prancha foi gravada a laser com um número de identificação do campista e o logótipo do guaxinim da Camp Keowee.',
+                'Em janeiro de 2025, Whitfield selecionou a OLagoon Junior Explorer 9\'6" X para campistas dos 8 aos 11 anos (40 pranchas) e a Explorer 10\'8" X para os 12 aos 15 anos (30 pranchas), num total de US$58 mil. Especificou cada prancha com dois D-rings montados na proa para fixação de GoPro/bandeja de recolha e um elástico de convés para um diário de natureza impermeável (Rite in the Rain, espiral). Cada prancha foi gravada a laser com um número de identificação do campista e o logótipo do guaxinim da Camp Keowee.',
             },
             {
               title: 'Passo 2: Design do Currículo de Distintivos de Exploração SUP de 4 Níveis',
@@ -3921,7 +3921,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 3: Certificação de Monitores e Mapeamento de Zonas de Segurança do Lago Jocassee',
               detail:
-                'Em maio de 2025 (formação pré-campamento da equipa), a Afarer certificou 22 monitores aquáticos (dos 19 aos 24 anos) através de um curso de guia SUP de 3 dias baseado no IRF focado na gestão de grupos juvenis. Whitfield mapeou 6 zonas de segurança com boias de sinalização codificadas por cor: zona de natação (vermelha), zona de pagaia para principiantes (amarela, até 200 m do cais), zona intermédia (verde, até 1 km ao longo da margem oeste), zona avançada (azul, lago inteiro com verificação por rádio) e zonas proibidas (roxas, em redor da tomada da barragem e das arribas de Bald Rock). Cada monitor transportava um rádio VHF impermeável com o canal 15 dedicado às operações SUP. A autoridade de gestão do lago da Duke Power aprovou o plano após uma revisão conjunta de segurança a 12 de maio.',
+                'Em maio de 2025 (formação pré-campamento da equipa), a OLagoon certificou 22 monitores aquáticos (dos 19 aos 24 anos) através de um curso de guia SUP de 3 dias baseado no IRF focado na gestão de grupos juvenis. Whitfield mapeou 6 zonas de segurança com boias de sinalização codificadas por cor: zona de natação (vermelha), zona de pagaia para principiantes (amarela, até 200 m do cais), zona intermédia (verde, até 1 km ao longo da margem oeste), zona avançada (azul, lago inteiro com verificação por rádio) e zonas proibidas (roxas, em redor da tomada da barragem e das arribas de Bald Rock). Cada monitor transportava um rádio VHF impermeável com o canal 15 dedicado às operações SUP. A autoridade de gestão do lago da Duke Power aprovou o plano após uma revisão conjunta de segurança a 12 de maio.',
             },
             {
               title: 'Passo 4: Resultados da Época de Verão de 2025 e Taxas de Conquista de Distintivos',
@@ -3938,8 +3938,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Programas Juvenis Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Programas Juvenis Escolhem a OLagoon',
       items: [
         {
           title: 'Segurança Infantil',
@@ -3967,7 +3967,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Que tamanho de prancha SUP é adequado para crianças de diferentes idades?',
         answer:
-          'A Afarer oferece tamanhos SUP juvenis mais pequenos desenhados especificamente para crianças e adolescentes. Estas pranchas apresentam menor volume, largura mais estreita e peso mais leve em comparação com os modelos de adulto, tornando-as mais fáceis de manusear, controlar e aprender para os utilizadores jovens.',
+          'A OLagoon oferece tamanhos SUP juvenis mais pequenos desenhados especificamente para crianças e adolescentes. Estas pranchas apresentam menor volume, largura mais estreita e peso mais leve em comparação com os modelos de adulto, tornando-as mais fáceis de manusear, controlar e aprender para os utilizadores jovens.',
       },
       {
         question: 'Como funciona o Giant SUP para atividades de fortalecimento de equipa?',
@@ -3977,26 +3977,26 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Que características de segurança estão incluídas nas pranchas SUP para crianças?',
         answer:
-          'As pranchas juvenis da Afarer apresentam design de segurança multi-pega (pegas laterais, dianteiras e de transporte), convés EVA antiderrapante completo para apoio firme dos pés, formatos de segurança arredondados sem arestas vivas, estrutura de flutuação elevada para flutuação estável e design de recuperação fácil após queda.',
+          'As pranchas juvenis da OLagoon apresentam design de segurança multi-pega (pegas laterais, dianteiras e de transporte), convés EVA antiderrapante completo para apoio firme dos pés, formatos de segurança arredondados sem arestas vivas, estrutura de flutuação elevada para flutuação estável e design de recuperação fácil após queda.',
       },
       {
         question: 'As pranchas SUP podem ser personalizadas com o logótipo e as cores do nosso campamento?',
         answer:
-          'Sim, a Afarer apoia a personalização completa incluindo logótipos de campamento, cores do programa, elementos de marca e grafismos temáticos. A marca personalizada ajuda a criar uma identidade única do campamento e torna o equipamento facilmente reconhecível.',
+          'Sim, a OLagoon apoia a personalização completa incluindo logótipos de campamento, cores do programa, elementos de marca e grafismos temáticos. A marca personalizada ajuda a criar uma identidade única do campamento e torna o equipamento facilmente reconhecível.',
       },
       {
         question: 'Quantas pranchas são necessárias para iniciar um programa SUP juvenil?',
         answer:
-          'A Afarer recomenda um pacote inicial incluindo pranchas para crianças, pranchas de instrutor, pagaias, bombas, leashes e bolsas de transporte. O tamanho da frota depende da capacidade do grupo — um campamento típico pode começar com 10–20 pranchas juvenis mais equipamento de instrutor, com opções de expansão sazonal.',
+          'A OLagoon recomenda um pacote inicial incluindo pranchas para crianças, pranchas de instrutor, pagaias, bombas, leashes e bolsas de transporte. O tamanho da frota depende da capacidade do grupo — um campamento típico pode começar com 10–20 pranchas juvenis mais equipamento de instrutor, com opções de expansão sazonal.',
       },
       {
         question: 'Que equipamento de instrutor é recomendado para programas SUP de campamentos?',
         answer:
-          'A Afarer recomenda pranchas específicas de instrutor com estabilidade e características de controlo reforçadas, mais acessórios de segurança incluindo leashes, bombas, kits de reparação e equipamento de comunicação. O Pacote de Frota de Colónia pode incluir pranchas de instrutor dedicadas e componentes sobressalentes.',
+          'A OLagoon recomenda pranchas específicas de instrutor com estabilidade e características de controlo reforçadas, mais acessórios de segurança incluindo leashes, bombas, kits de reparação e equipamento de comunicação. O Pacote de Frota de Colónia pode incluir pranchas de instrutor dedicadas e componentes sobressalentes.',
       },
     ],
     cta: {
-      title: 'Construa o Seu Programa de Aventura Aquática Infantil Com a Afarer',
+      title: 'Construa o Seu Programa de Aventura Aquática Infantil Com a OLagoon',
       subtitle:
         'Ajude as crianças a descobrir confiança, trabalho de equipa, natureza e aventura através de programas de exploração SUP profissionalmente desenhados.',
       primaryAction: {
@@ -4019,9 +4019,9 @@ const pt: Record<string, SolutionOverride> = {
       title:
         'Soluções Premium Portáteis de Desportos Aquáticos Para Companhias de Cruzeiros, Empresas de Iates e Marcas de Hospitalidade Marinha',
       subtitle:
-        'A Afarer fornece soluções de Pacote SUP Portátil de Luxo concebidas especificamente para companhias de cruzeiros, operadores de cruzeiros de expedição, empresas de charter de iates, proprietários de superiate e fornecedores de atividades de marina. Fornecemos designs SUP insufláveis ultra portáteis com componentes de grau marinho e personalização de luxo.',
+        'A OLagoon fornece soluções de Pacote SUP Portátil de Luxo concebidas especificamente para companhias de cruzeiros, operadores de cruzeiros de expedição, empresas de charter de iates, proprietários de superiate e fornecedores de atividades de marina. Fornecemos designs SUP insufláveis ultra portáteis com componentes de grau marinho e personalização de luxo.',
       image: {
-        alt: 'Pacote SUP portátil de luxo da Afarer para iates e navios de cruzeiro',
+        alt: 'Pacote SUP portátil de luxo da OLagoon para iates e navios de cruzeiro',
       },
     },
     challenge: {
@@ -4055,7 +4055,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Design SUP Insuflável Ultra Portátil',
           description:
-            'A tecnologia SUP insuflável proporciona uma grande vantagem para iates e operadores de cruzeiro. As pranchas da Afarer apresentam sistemas de dobragem compacta para menor volume de armazenagem, transporte leve para implantação mais rápida e pacotes de viagem completos incluindo prancha, pagaia dobrável, bomba e mochila.',
+            'A tecnologia SUP insuflável proporciona uma grande vantagem para iates e operadores de cruzeiro. As pranchas da OLagoon apresentam sistemas de dobragem compacta para menor volume de armazenagem, transporte leve para implantação mais rápida e pacotes de viagem completos incluindo prancha, pagaia dobrável, bomba e mochila.',
           features: [
             'Sistema de dobragem compacta',
             'Transporte leve',
@@ -4066,7 +4066,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Seleção de Materiais de Grau Marinho',
           description:
-            'A Afarer usa componentes resistentes à água salgada com ferragem resistente à corrosão, construção resistente a UV para exposição solar e estrutura SUP reforçada com camadas PVC duráveis e núcleo drop stitch resistente, concebidos especificamente para ambientes oceânicos.',
+            'A OLagoon usa componentes resistentes à água salgada com ferragem resistente à corrosão, construção resistente a UV para exposição solar e estrutura SUP reforçada com camadas PVC duráveis e núcleo drop stitch resistente, concebidos especificamente para ambientes oceânicos.',
           features: [
             'Componentes resistentes à água salgada',
             'Construção resistente a UV',
@@ -4077,7 +4077,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Personalização de Luxo Para Iates e Cruzeiros',
           description:
-            'Para os negócios marinhos premium, a aparência importa. A Afarer apoia a marca personalizada com logótipos de iate e identidade da companhia de cruzeiro, design premium de cores em estilos de luxo de iate, aventura de expedição ou marinha de resort, e conjuntos de equipamento marcados com pagaias combinadas e sacos personalizados.',
+            'Para os negócios marinhos premium, a aparência importa. A OLagoon apoia a marca personalizada com logótipos de iate e identidade da companhia de cruzeiro, design premium de cores em estilos de luxo de iate, aventura de expedição ou marinha de resort, e conjuntos de equipamento marcados com pagaias combinadas e sacos personalizados.',
           features: [
             'Marca personalizada para iates e cruzeiros',
             'Design premium de cores',
@@ -4088,27 +4088,27 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Pacote SUP Para Charter de Iates',
           description:
-            'Os hóspedes de charter de iate esperam conveniência e exclusividade. A Afarer apoia conjuntos de equipamento privados de charter para superiates, catamarãs e iates de vela com operação amigável para principiantes e famílias, armazenagem organizada e apresentação premium com aparência de luxo.',
+            'Os hóspedes de charter de iate esperam conveniência e exclusividade. A OLagoon apoia conjuntos de equipamento privados de charter para superiates, catamarãs e iates de vela com operação amigável para principiantes e famílias, armazenagem organizada e apresentação premium com aparência de luxo.',
         },
         {
           title: 'Soluções de Atividades Aquáticas Para Cruzeiros de Expedição',
           description:
-            'Os cruzeiros de aventura exigem equipamento flexível para paragens insulares, exploração costeira e excursões de natureza. As soluções da Afarer apoiam operações em locais remotos com transporte fácil e armazenagem compacta, além de programas de atividades de grupo para pequenos grupos e excursões guiadas.',
+            'Os cruzeiros de aventura exigem equipamento flexível para paragens insulares, exploração costeira e excursões de natureza. As soluções da OLagoon apoiam operações em locais remotos com transporte fácil e armazenagem compacta, além de programas de atividades de grupo para pequenos grupos e excursões guiadas.',
         },
         {
           title: 'Soluções Completas de Armazenagem a Bordo',
           description:
-            'A Afarer compreende as limitações de espaço marinho e fornece planeamento de armazenagem compacta para organização de pranchas e acessórios, sistemas de proteção com sacos de armazenagem e eficiência operacional que ajuda a tripulação a preparar mais depressa e a gerir o equipamento com mais facilidade.',
+            'A OLagoon compreende as limitações de espaço marinho e fornece planeamento de armazenagem compacta para organização de pranchas e acessórios, sistemas de proteção com sacos de armazenagem e eficiência operacional que ajuda a tripulação a preparar mais depressa e a gerir o equipamento com mais facilidade.',
         },
         {
           title: 'Apoio à Formação e Manutenção das Tripulações',
           description:
-            'A Afarer fornece guias de operação para a tripulação que cobrem procedimentos de insuflação, manuseamento de equipamento e métodos de limpeza, além de recomendações de manutenção para limpeza de água salgada, procedimentos de secagem e práticas de armazenagem com listas de verificação de inspeção para antes e depois das atividades.',
+            'A OLagoon fornece guias de operação para a tripulação que cobrem procedimentos de insuflação, manuseamento de equipamento e métodos de limpeza, além de recomendações de manutenção para limpeza de água salgada, procedimentos de secagem e práticas de armazenagem com listas de verificação de inspeção para antes e depois das atividades.',
         },
         {
           title: 'Design de Experiências Aquáticas Premium',
           description:
-            'O SUP pode tornar-se parte de um pacote de experiência de luxo. A Afarer ajuda a criar experiências SUP de iate ao pôr do sol para casais e hóspedes VIP, exploração privada de ilhas para clientes de charter, programas de bem-estar oceânico para cruzeiros de luxo e experiências ecológicas marinhas para cruzeiros de expedição.',
+            'O SUP pode tornar-se parte de um pacote de experiência de luxo. A OLagoon ajuda a criar experiências SUP de iate ao pôr do sol para casais e hóspedes VIP, exploração privada de ilhas para clientes de charter, programas de bem-estar oceânico para cruzeiros de luxo e experiências ecológicas marinhas para cruzeiros de expedição.',
         },
       ],
     },
@@ -4124,7 +4124,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Planeamento de Produto',
           detail:
-            'A Afarer desenhou um Pacote SUP Portátil de Luxo com base nas limitações de armazenagem do iate, nos requisitos de experiência dos hóspedes e no ambiente marinho do Mediterrâneo.',
+            'A OLagoon desenhou um Pacote SUP Portátil de Luxo com base nas limitações de armazenagem do iate, nos requisitos de experiência dos hóspedes e no ambiente marinho do Mediterrâneo.',
         },
         {
           title: 'Personalização de Produto',
@@ -4162,29 +4162,29 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Testes de Campo Árticos em Kongsfjorden a 79° Norte',
               detail:
-                'Em maio de 2024, a equipa de ambientes extremos da Afarer (engenheiro-chefe Sven Lehmann, do escritório da Afarer em Hamburgo) juntou-se ao MS Maud da Hurtigruten numa viagem de 14 dias a Svalbard. Testaram 8 pranchas concorrentes e 6 protótipos Árticos da Afarer em 11 implantações de Zodiac perto de Ny-Ålesund e do Glaciar de Mónaco. Constatações-chave: as válvulas padrão congelavam abertas em ar a -8 °C após imersão em água a 2 °C (a água morna dentro da haste da válvula recongelava ao contacto com o ar frio). A solução da Afarer: um sistema de válvula com purga de azoto que expulsava toda a humidade antes de fechar, mais uma capa de válvula em neopreno. Material da prancha: o PVC padrão perdia 40% de flexibilidade a -15 °C — a mistura Polarex TPU da Afarer mantinha 92% de flexibilidade a -20 °C. As pranchas precisavam de insuflar em menos de 7 minutos (o limite de paciência dos hóspedes em condições de frio) e esvaziar/arrumar em 5 minutos (para minimizar a janela de exposição a ursos polares). A bomba de 2 estágios da Afarer (bomba manual para os primeiros 10 PSI, reforço com cartucho de azote até 18 PSI) alcançou insuflação em 6,2 minutos.',
+                'Em maio de 2024, a equipa de ambientes extremos da OLagoon (engenheiro-chefe Sven Lehmann, do escritório da OLagoon em Hamburgo) juntou-se ao MS Maud da Hurtigruten numa viagem de 14 dias a Svalbard. Testaram 8 pranchas concorrentes e 6 protótipos Árticos da OLagoon em 11 implantações de Zodiac perto de Ny-Ålesund e do Glaciar de Mónaco. Constatações-chave: as válvulas padrão congelavam abertas em ar a -8 °C após imersão em água a 2 °C (a água morna dentro da haste da válvula recongelava ao contacto com o ar frio). A solução da OLagoon: um sistema de válvula com purga de azoto que expulsava toda a humidade antes de fechar, mais uma capa de válvula em neopreno. Material da prancha: o PVC padrão perdia 40% de flexibilidade a -15 °C — a mistura Polarex TPU da OLagoon mantinha 92% de flexibilidade a -20 °C. As pranchas precisavam de insuflar em menos de 7 minutos (o limite de paciência dos hóspedes em condições de frio) e esvaziar/arrumar em 5 minutos (para minimizar a janela de exposição a ursos polares). A bomba de 2 estágios da OLagoon (bomba manual para os primeiros 10 PSI, reforço com cartucho de azote até 18 PSI) alcançou insuflação em 6,2 minutos.',
             },
             {
               title: 'Pacote «Polar Explorer» com Integração de Zodiac e Sistemas de Segurança',
               detail:
-                'A Afarer desenhou a «Polar Explorer 12.0» com adaptações árticas específicas: cor laranja internacional viva (visível contra o gelo a 2 km com binóculos), faixas refletoras de fita grau SOLAS, uma alça de resgate integrada classificada para 600 kg (para recolha por reboque do Zodiac) e um bolso para baliza GPS na proa (a Hurtigruten forneceu unidades Garmin inReach Mini 2). O pacote incluía um colete salva-vidas insuflável compatível com fato seco (Mustang Survival HIT, testado pela Afarer para mobilidade durante a pagaia), um conjunto de pogies em neopreno (aquecedores de mãos integrados na haste da pagaia) e uma mochila personalizada que cabe dentro do cacifo de armazenagem de um Zodiac (tamanho arrumado de 60x30x30 cm). O sistema de implantação no Zodiac: um suporte com roda jockey preso ao flutuador do Zodiac permitia que um único guia deslizasse as pranchas para a água sem as levantar.',
+                'A OLagoon desenhou a «Polar Explorer 12.0» com adaptações árticas específicas: cor laranja internacional viva (visível contra o gelo a 2 km com binóculos), faixas refletoras de fita grau SOLAS, uma alça de resgate integrada classificada para 600 kg (para recolha por reboque do Zodiac) e um bolso para baliza GPS na proa (a Hurtigruten forneceu unidades Garmin inReach Mini 2). O pacote incluía um colete salva-vidas insuflável compatível com fato seco (Mustang Survival HIT, testado pela OLagoon para mobilidade durante a pagaia), um conjunto de pogies em neopreno (aquecedores de mãos integrados na haste da pagaia) e uma mochila personalizada que cabe dentro do cacifo de armazenagem de um Zodiac (tamanho arrumado de 60x30x30 cm). O sistema de implantação no Zodiac: um suporte com roda jockey preso ao flutuador do Zodiac permitia que um único guia deslizasse as pranchas para a água sem as levantar.',
             },
             {
               title: 'Protocolos de Segurança Contra Ursos Polares e Programa de Formação de Guias',
               detail:
-                'O consultor de segurança da Afarer, Bjørn Viken, ex-conselheiro de segurança do gabinete do governador de Svalbard, co-desenvolveu um programa de formação de 3 dias para 12 guias da Hurtigruten. O «Arctic Paddle Safety Protocol» incluía: rotatividade de vigia de urso polar (um guia dedicado à deteção de ursos, com um rifle calibre .308 e pistola de sinalização — requisito padrão de Svalbard), formação de grupo (em linha a menos de 50 metros, nunca a mais de 200 metros do Zodiac), extração rápida (reembarque completo do grupo em menos de 90 segundos, treinado semanalmente) e resposta de emergência a hipotermia. A Afarer forneceu cartões de referência rápida laminados e impermeáveis para cada guia. Cada sessão estava limitada a 8 hóspedes com 2 guias e 1 Zodiac de segurança armado a 100 metros. Avistamentos de ursos polares durante a pagaia: 2 incidentes na época de 2024 — ambos geridos com tiros de aviso de sinalização, sem feridos. Os hóspedes avaliaram a «confiança na segurança» em 4,9/5.',
+                'O consultor de segurança da OLagoon, Bjørn Viken, ex-conselheiro de segurança do gabinete do governador de Svalbard, co-desenvolveu um programa de formação de 3 dias para 12 guias da Hurtigruten. O «Arctic Paddle Safety Protocol» incluía: rotatividade de vigia de urso polar (um guia dedicado à deteção de ursos, com um rifle calibre .308 e pistola de sinalização — requisito padrão de Svalbard), formação de grupo (em linha a menos de 50 metros, nunca a mais de 200 metros do Zodiac), extração rápida (reembarque completo do grupo em menos de 90 segundos, treinado semanalmente) e resposta de emergência a hipotermia. A OLagoon forneceu cartões de referência rápida laminados e impermeáveis para cada guia. Cada sessão estava limitada a 8 hóspedes com 2 guias e 1 Zodiac de segurança armado a 100 metros. Avistamentos de ursos polares durante a pagaia: 2 incidentes na época de 2024 — ambos geridos com tiros de aviso de sinalização, sem feridos. Os hóspedes avaliaram a «confiança na segurança» em 4,9/5.',
             },
             {
               title: 'Lançamento da Época Ártica de Junho a Setembro de 2024 e Resultados',
               detail:
-                'A frota de 60 pranchas foi implantada em 4 navios a partir de 1 de junho de 2024. Cada navio oferecia 3 sessões de pagaia por semana (dependendo do tempo, de 90 minutos cada). Total de sessões na época de 2024: 288 sessões em todos os navios (4 navios × 3/semana × 24 semanas). Ocupação média: 7,2 hóspedes por sessão (90% da capacidade de 8 hóspedes). Receita: 288 × 7,2 × $450 (preço premium de excursão) = $933.120. Desempenho das pranchas: zero falhas catastróficas. Uma prancha sofreu uma perfuração de 3 cm de gelo marinho (um fragmento aguçado de brash ice) — reparada com kit de remendos classificado para o Ártico em 8 minutos durante uma deriva de Zodiac. As válvulas funcionaram perfeitamente ao longo de 288 ciclos de insuflação/esvaziamento. Feedback dos hóspedes: classificação média de 4,93/5. 83% dos hóspedes disseram que a experiência SUP foi «o ponto alto da sua viagem». Erik encomendou 40 pranchas adicionais para a época de 2025 e pediu à Afarer que desenvolvesse um modelo «Twin» para pagaia Ártica em tandem.',
+                'A frota de 60 pranchas foi implantada em 4 navios a partir de 1 de junho de 2024. Cada navio oferecia 3 sessões de pagaia por semana (dependendo do tempo, de 90 minutos cada). Total de sessões na época de 2024: 288 sessões em todos os navios (4 navios × 3/semana × 24 semanas). Ocupação média: 7,2 hóspedes por sessão (90% da capacidade de 8 hóspedes). Receita: 288 × 7,2 × $450 (preço premium de excursão) = $933.120. Desempenho das pranchas: zero falhas catastróficas. Uma prancha sofreu uma perfuração de 3 cm de gelo marinho (um fragmento aguçado de brash ice) — reparada com kit de remendos classificado para o Ártico em 8 minutos durante uma deriva de Zodiac. As válvulas funcionaram perfeitamente ao longo de 288 ciclos de insuflação/esvaziamento. Feedback dos hóspedes: classificação média de 4,93/5. 83% dos hóspedes disseram que a experiência SUP foi «o ponto alto da sua viagem». Erik encomendou 40 pranchas adicionais para a época de 2025 e pediu à OLagoon que desenvolvesse um modelo «Twin» para pagaia Ártica em tandem.',
             },
           ],
           results: [
             '$933.120 de receita com 288 sessões SUP numa única época ártica de 4 meses com 90% de utilização da capacidade',
             'Zero falhas catastróficas de pranchas em 288 sessões em condições árticas extremas; 1 perfuração menor de gelo reparada a bordo em 8 minutos',
             'Satisfação dos hóspedes de 4,93/5; 83% classificaram a experiência SUP como «o ponto alto da viagem»; os navios acrescentaram o SUP como categoria permanente de excursão',
-            'Afarer premiada com parceria exclusiva de 3 anos para todas as operações da Hurtigruten Svalbard; 40 pranchas adicionais encomendadas para a época de 2025',
+            'OLagoon premiada com parceria exclusiva de 3 anos para todas as operações da Hurtigruten Svalbard; 40 pranchas adicionais encomendadas para a época de 2025',
           ],
         },
         {
@@ -4199,35 +4199,35 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Avaliação da Ilha em Março de 2024 e Consulta de Design à Medida',
               detail:
-                'O diretor da divisão de luxo da Afarer, Philippe Moreau, e a designer sénior Amira Al Hashimi passaram 4 dias na Ilha de Al Nabigha. Documentaram cada detalhe: os interiores das villas (design árabe contemporâneo com tons de creme, areia e dourado), a paleta de cores do jardim de corais (azul-petróleo, turquesa, rosa-coral), o tom de madeira combinado por Pantone da marina e até o padrão de porcelana da família (Wedgwood «Middle East Pearl»). Philippe e Amira propuseram uma estética «única»: pranchas nas cores reais dos recifes da ilha, com o brasão da família Al Nabigha (um falcão sobre uma palmeira de tâmaras) em relevo com folha de ouro de 24 quilates sob epóxi transparente. A armazenagem era um constrangimento — o quiosque de praia existente de Hamdan tinha apenas 8 metros cúbicos para o que seriam 20 pranchas. A Afarer propôs mobiliário de teca personalizado com gavetas individuais ventiladas, cada prancha enrolada e guardada com um sensor de humidade.',
+                'O diretor da divisão de luxo da OLagoon, Philippe Moreau, e a designer sénior Amira Al Hashimi passaram 4 dias na Ilha de Al Nabigha. Documentaram cada detalhe: os interiores das villas (design árabe contemporâneo com tons de creme, areia e dourado), a paleta de cores do jardim de corais (azul-petróleo, turquesa, rosa-coral), o tom de madeira combinado por Pantone da marina e até o padrão de porcelana da família (Wedgwood «Middle East Pearl»). Philippe e Amira propuseram uma estética «única»: pranchas nas cores reais dos recifes da ilha, com o brasão da família Al Nabigha (um falcão sobre uma palmeira de tâmaras) em relevo com folha de ouro de 24 quilates sob epóxi transparente. A armazenagem era um constrangimento — o quiosque de praia existente de Hamdan tinha apenas 8 metros cúbicos para o que seriam 20 pranchas. A OLagoon propôs mobiliário de teca personalizado com gavetas individuais ventiladas, cada prancha enrolada e guardada com um sensor de humidade.',
             },
             {
               title: 'Fabrico Personalizado «Royal Heritage» e Infraestrutura Elétrica Silenciosa',
               detail:
-                'A instalação da Afarer em Xiamen dedicou uma linha de produção separada à encomenda Al Nabigha. Cada prancha foi laminada à mão com PVC tingido à medida em «Arabian Teal» — uma cor Pantone personalizada (PMS 7712 C) igualada às zonas mais profundas dos recifes da ilha. O relevo em folha de ouro: ouro de 24K de 0,5 micra aplicado em torno do brasão da família, protegido por 3 camadas de epóxi de grau marinho curado por UV. A Afarer obteve bombas elétricas silenciosas (JOBE Aero, modificadas com invólucros amortecedores de ruído que reduzem a operação para 38 dB — mais silenciosas do que o som ambiente das ondas da ilha). O cabo de cada bomba era trançado em tecido cor de creme para combinar com a decoração das villas. O conjunto de 20 pagaias: hastas de fibra de carbono personalizadas em creme fosco com faixa de ouro de 24K na união e pás pintadas à mão com motivos de recife de coral pela artista marinha Liao Fang, baseada em Xiamen. Um armário de armazenagem com controlo de humidade foi construído pelo parceiro de marcenaria da Afarer em Milão, enviado em embalagem plana e montado na ilha.',
+                'A instalação da OLagoon em Xiamen dedicou uma linha de produção separada à encomenda Al Nabigha. Cada prancha foi laminada à mão com PVC tingido à medida em «Arabian Teal» — uma cor Pantone personalizada (PMS 7712 C) igualada às zonas mais profundas dos recifes da ilha. O relevo em folha de ouro: ouro de 24K de 0,5 micra aplicado em torno do brasão da família, protegido por 3 camadas de epóxi de grau marinho curado por UV. A OLagoon obteve bombas elétricas silenciosas (JOBE Aero, modificadas com invólucros amortecedores de ruído que reduzem a operação para 38 dB — mais silenciosas do que o som ambiente das ondas da ilha). O cabo de cada bomba era trançado em tecido cor de creme para combinar com a decoração das villas. O conjunto de 20 pagaias: hastas de fibra de carbono personalizadas em creme fosco com faixa de ouro de 24K na união e pás pintadas à mão com motivos de recife de coral pela artista marinha Liao Fang, baseada em Xiamen. Um armário de armazenagem com controlo de humidade foi construído pelo parceiro de marcenaria da OLagoon em Milão, enviado em embalagem plana e montado na ilha.',
             },
             {
               title: 'Protocolo de Serviço White-Glove e Formação do Pessoal',
               detail:
-                'Saeed Al Mazrouei selecionou 6 funcionários da ilha (3 mordomos, 2 assistentes de praia, 1 ajudante de marina) para a Formação de Serviço White-Glove da Afarer em maio de 2024. O programa de 5 dias cobriu: receção dos hóspedes (pranchas apresentadas num suporte de vime, nunca colocadas no chão), cerimónia de insuflação (bomba ligada antes da chegada do hóspede — prancha pronta quando o hóspede chega à praia — medida em 11,5 minutos desde o arranque da bomba até aos 15 PSI completos), ajuste pessoal (altura correta da pagaia, colocação do leash, dimensionamento do colete — Tinha de ser discreto, por isso a Afarer forneceu coletes insufláveis personalizados em creme com ferragem em dourado fosco) e cuidados pós-sessão (prancha limpa com detergente de pH neutro, protetor UV aplicado a cada 5 sessões, válvula inspecionada e re-enrolada para a gaveta em 8 minutos após a partida do hóspede). O manual de protocolo (45 páginas, encadernado em couro com páginas douradas) estava guardado no cofre escondido do quiosque. O feedback de Hamdan após a formação: «É assim que o equipamento deve ser tratado.»',
+                'Saeed Al Mazrouei selecionou 6 funcionários da ilha (3 mordomos, 2 assistentes de praia, 1 ajudante de marina) para a Formação de Serviço White-Glove da OLagoon em maio de 2024. O programa de 5 dias cobriu: receção dos hóspedes (pranchas apresentadas num suporte de vime, nunca colocadas no chão), cerimónia de insuflação (bomba ligada antes da chegada do hóspede — prancha pronta quando o hóspede chega à praia — medida em 11,5 minutos desde o arranque da bomba até aos 15 PSI completos), ajuste pessoal (altura correta da pagaia, colocação do leash, dimensionamento do colete — Tinha de ser discreto, por isso a OLagoon forneceu coletes insufláveis personalizados em creme com ferragem em dourado fosco) e cuidados pós-sessão (prancha limpa com detergente de pH neutro, protetor UV aplicado a cada 5 sessões, válvula inspecionada e re-enrolada para a gaveta em 8 minutos após a partida do hóspede). O manual de protocolo (45 páginas, encadernado em couro com páginas douradas) estava guardado no cofre escondido do quiosque. O feedback de Hamdan após a formação: «É assim que o equipamento deve ser tratado.»',
             },
             {
               title: 'Entrega em Junho de 2024 e Primeiro Fim de Semana VIP',
               detail:
-                'A primeira implantação completa da frota foi para uma visita de estado do Emir do Catar, Tamim bin Hamad Al Thani, e da sua família em 24 de junho de 2024 (originalmente agendada para um membro da realeza britânica que desistiu). Seis SUP estavam montados na praia privada às 7h30. O filho de 14 anos do Emir, Sheikh Jassim, pagaiou durante 3 horas com um guia biólogo marinho (também formado à medida pela Afarer) a explorar o jardim de corais. Hamdan relatou: «O filho do Emir disse que foi a melhor parte da visita.» Uma segunda implantação em outubro de 2024 para 12 hóspedes da Corte Real Saudita incluiu uma pagaia ao pôr do sol com serviço de champanhe (flutes segurados no porta-copos personalizado da Afarer, desenhado para não tombar no encalhe do barco). Em março de 2025, as pranchas tinham sido usadas 47 vezes sem nenhum dano, nenhum incidente de manutenção e nenhuma queixa de hóspedes. Hamdan encomendou 8 pranchas adicionais para o iate privado da família (o «Al Nabigha Star» de 65 metros) e contratou a Afarer para desenvolver uma série de pagaias com folha de ouro para as celebrações do Dia Nacional dos EAU.',
+                'A primeira implantação completa da frota foi para uma visita de estado do Emir do Catar, Tamim bin Hamad Al Thani, e da sua família em 24 de junho de 2024 (originalmente agendada para um membro da realeza britânica que desistiu). Seis SUP estavam montados na praia privada às 7h30. O filho de 14 anos do Emir, Sheikh Jassim, pagaiou durante 3 horas com um guia biólogo marinho (também formado à medida pela OLagoon) a explorar o jardim de corais. Hamdan relatou: «O filho do Emir disse que foi a melhor parte da visita.» Uma segunda implantação em outubro de 2024 para 12 hóspedes da Corte Real Saudita incluiu uma pagaia ao pôr do sol com serviço de champanhe (flutes segurados no porta-copos personalizado da OLagoon, desenhado para não tombar no encalhe do barco). Em março de 2025, as pranchas tinham sido usadas 47 vezes sem nenhum dano, nenhum incidente de manutenção e nenhuma queixa de hóspedes. Hamdan encomendou 8 pranchas adicionais para o iate privado da família (o «Al Nabigha Star» de 65 metros) e contratou a OLagoon para desenvolver uma série de pagaias com folha de ouro para as celebrações do Dia Nacional dos EAU.',
             },
           ],
           results: [
             'Frota de 20 pranchas implantada em 47 sessões de hóspedes VIP nos primeiros 9 meses, sem incidentes de manutenção nem queixas de hóspedes',
             'Tempo médio de montagem de 11,5 minutos para o sistema de bomba elétrica silenciosa; arrumação pós-sessão concluída em 8 minutos — ambos superando o padrão de serviço de luxo de 15 minutos',
             'O mobiliário de armazenagem personalizado manteve uma humidade média de 58% (ideal para o PVC); zero bolor ou degradação de material reportados',
-            'Encomenda adicional de 8 pranchas para o iate da família «Al Nabigha Star»; Afarer contratada para a série exclusiva de pagaias com folha de ouro do Dia Nacional dos EAU 2025',
+            'Encomenda adicional de 8 pranchas para o iate da família «Al Nabigha Star»; OLagoon contratada para a série exclusiva de pagaias com folha de ouro do Dia Nacional dos EAU 2025',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que as Empresas de Cruzeiros e Iates Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que as Empresas de Cruzeiros e Iates Escolhem a OLagoon',
       items: [
         {
           title: 'Ambiente Marinho',
@@ -4253,19 +4253,19 @@ const pt: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Quão compactas são as pranchas SUP da Afarer quando arrumadas para armazenagem em iates?',
+        question: 'Quão compactas são as pranchas SUP da OLagoon quando arrumadas para armazenagem em iates?',
         answer:
-          'As pranchas SUP portáteis de luxo da Afarer apresentam sistemas de dobragem compacta que reduzem significativamente o volume de armazenagem, cabendo facilmente em cabines de iate, compartimentos de arrumação e navios de expedição. Cada prancha é arrumada numa mochila de transporte com todos os acessórios.',
+          'As pranchas SUP portáteis de luxo da OLagoon apresentam sistemas de dobragem compacta que reduzem significativamente o volume de armazenagem, cabendo facilmente em cabines de iate, compartimentos de arrumação e navios de expedição. Cada prancha é arrumada numa mochila de transporte com todos os acessórios.',
       },
       {
-        question: 'As pranchas SUP da Afarer são resistentes à água salgada e aos danos UV?',
+        question: 'As pranchas SUP da OLagoon são resistentes à água salgada e aos danos UV?',
         answer:
-          'Sim, a Afarer usa materiais de grau marinho incluindo componentes resistentes à água salgada, ferragem resistente à corrosão, construção resistente a UV e camadas PVC duráveis especificamente concebidas para suportar ambientes oceânicos, humidade e exposição solar.',
+          'Sim, a OLagoon usa materiais de grau marinho incluindo componentes resistentes à água salgada, ferragem resistente à corrosão, construção resistente a UV e camadas PVC duráveis especificamente concebidas para suportar ambientes oceânicos, humidade e exposição solar.',
       },
       {
         question: 'Podem personalizar pranchas SUP com a marca do meu iate ou companhia de cruzeiro?',
         answer:
-          'Sim, a Afarer oferece personalização completa incluindo logótipos de iate, identidade da companhia de cruzeiro, design premium de cores em vários estilos, pagaias marcadas combinadas, sacos personalizados e conjuntos completos de equipamento que refletem o posicionamento de luxo da sua marca.',
+          'Sim, a OLagoon oferece personalização completa incluindo logótipos de iate, identidade da companhia de cruzeiro, design premium de cores em vários estilos, pagaias marcadas combinadas, sacos personalizados e conjuntos completos de equipamento que refletem o posicionamento de luxo da sua marca.',
       },
       {
         question: 'O que está incluído num pacote SUP portátil de luxo?',
@@ -4275,18 +4275,18 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Quão fácil é para os membros da tripulação preparar e implantar o equipamento?',
         answer:
-          'A Afarer fornece guias de operação para a tripulação que cobrem procedimentos de insuflação, manuseamento de equipamento, métodos de limpeza e listas de verificação de inspeção. O design leve e portátil permite implantação mais rápida e manuseamento mais fácil comparado com as pranchas rígidas tradicionais.',
+          'A OLagoon fornece guias de operação para a tripulação que cobrem procedimentos de insuflação, manuseamento de equipamento, métodos de limpeza e listas de verificação de inspeção. O design leve e portátil permite implantação mais rápida e manuseamento mais fácil comparado com as pranchas rígidas tradicionais.',
       },
       {
         question: 'Oferecem soluções em volume para companhias de cruzeiro com vários navios?',
         answer:
-          'Sim, a Afarer apoia companhias de cruzeiro, negócios de charter de iates e marcas de hospitalidade marinha com soluções à escala de frota, incluindo qualidade consistente de produto entre navios, eficiência de compra em volume e pacotes de equipamento padronizados.',
+          'Sim, a OLagoon apoia companhias de cruzeiro, negócios de charter de iates e marcas de hospitalidade marinha com soluções à escala de frota, incluindo qualidade consistente de produto entre navios, eficiência de compra em volume e pacotes de equipamento padronizados.',
       },
     ],
     cta: {
-      title: 'Crie a Sua Experiência Aquática de Luxo Com a Afarer',
+      title: 'Crie a Sua Experiência Aquática de Luxo Com a OLagoon',
       subtitle:
-        'O oceano é o seu destino. Agora crie experiências inesquecíveis nele. A Afarer ajuda companhias de cruzeiro, operadores de iates, negócios de charter e marcas de hospitalidade marinha a construir experiências SUP portáteis premium.',
+        'O oceano é o seu destino. Agora crie experiências inesquecíveis nele. A OLagoon ajuda companhias de cruzeiro, operadores de iates, negócios de charter e marcas de hospitalidade marinha a construir experiências SUP portáteis premium.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto SUP Marinho de Luxo',
       },
@@ -4300,7 +4300,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante de paddle boards para animais de estimação | Fornecedor OEM de SUP para cães | {SITE}',
       description:
-        'A Afarer cria paddle boards personalizados adequados a animais de estimação para marcas de aventura canina e empresas outdoor pet-friendly. Designs SUP duráveis anti-riscos, plataformas largas e estáveis, fabrico OEM e soluções de marca privada.',
+        'A OLagoon cria paddle boards personalizados adequados a animais de estimação para marcas de aventura canina e empresas outdoor pet-friendly. Designs SUP duráveis anti-riscos, plataformas largas e estáveis, fabrico OEM e soluções de marca privada.',
     },
     hero: {
       tagline: 'Programa de Paddle Board Amigo dos Animais™',
@@ -4342,7 +4342,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Design SUP Otimizado Para Animais',
           description:
-            'A Afarer desenvolve estruturas SUP especificamente para uso com animais, com um design de plataforma larga ultrastável que oferece maior largura de prancha, maior área de permanência e uma longa área de atividade de convés completo para cães de todos os tamanhos.',
+            'A OLagoon desenvolve estruturas SUP especificamente para uso com animais, com um design de plataforma larga ultrastável que oferece maior largura de prancha, maior área de permanência e uma longa área de atividade de convés completo para cães de todos os tamanhos.',
           features: [
             'Design de Plataforma Larga Ultrastável',
             'Longa Área de Atividade de Convés Completo',
@@ -4352,13 +4352,13 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Estrutura de Materiais Antiarranhões e Resistente a Animais',
           description:
-            'A Afarer apoia construção PVC reforçada para resistência a riscos, tapetes de convés EVA robustos de cobertura total com tração melhorada e estrutura antiperfuração para proteção contra a pressão das garras.',
+            'A OLagoon apoia construção PVC reforçada para resistência a riscos, tapetes de convés EVA robustos de cobertura total com tração melhorada e estrutura antiperfuração para proteção contra a pressão das garras.',
           features: ['Construção PVC Reforçada', 'Tapete de Convés EVA Robusto', 'Estrutura Antiperfuração'],
         },
         {
           title: 'Configuração de Produto Amiga dos Animais',
           description:
-            'A Afarer apoia soluções completas de produto incluindo pacotes SUP padrão para animais com pranchas e acessórios, pacotes premium de aventura canina com acessórios de segurança e pacotes de viagem para animais para road trips e campismo.',
+            'A OLagoon apoia soluções completas de produto incluindo pacotes SUP padrão para animais com pranchas e acessórios, pacotes premium de aventura canina com acessórios de segurança e pacotes de viagem para animais para road trips e campismo.',
           features: [
             'Pacote SUP Padrão Para Animais',
             'Pacote Premium de Aventura Canina',
@@ -4368,13 +4368,13 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de SUP Para Animais de Marca Própria Personalizado',
           description:
-            'A Afarer ajuda as marcas para animais a criar produtos personalizados com marca com colocação de logótipo, cores e design gráfico, design orientado ao lifestyle para posicionamento premium e coleções de edição limitada para influenciadores.',
+            'A OLagoon ajuda as marcas para animais a criar produtos personalizados com marca com colocação de logótipo, cores e design gráfico, design orientado ao lifestyle para posicionamento premium e coleções de edição limitada para influenciadores.',
           features: ['Personalização de Marca', 'Design Orientado ao Lifestyle', 'Coleções de Edição Limitada'],
         },
         {
           title: 'Apoio ao Posicionamento de Mercado de Marcas Para Animais',
           description:
-            'A Afarer desenvolve produtos que correspondem a diferentes posicionamentos de marca, desde marcas premium de lifestyle para animais focadas na aparência de luxo até marcas de aventura canina focadas na durabilidade e marcas de animais familiares focadas na segurança.',
+            'A OLagoon desenvolve produtos que correspondem a diferentes posicionamentos de marca, desde marcas premium de lifestyle para animais focadas na aparência de luxo até marcas de aventura canina focadas na durabilidade e marcas de animais familiares focadas na segurança.',
           features: [
             'Marcas Premium de Lifestyle Para Animais',
             'Marcas de Aventura Canina',
@@ -4384,19 +4384,19 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Apoio OEM Para Empreendedores de Produtos Para Animais',
           description:
-            'Muitas marcas para animais têm comunidades de clientes e capacidade de marketing mas carecem de conhecimento de fabrico. A Afarer fornece desenvolvimento de produto, criação de protótipos, fabrico, controlo de qualidade e apoio à exportação.',
+            'Muitas marcas para animais têm comunidades de clientes e capacidade de marketing mas carecem de conhecimento de fabrico. A OLagoon fornece desenvolvimento de produto, criação de protótipos, fabrico, controlo de qualidade e apoio à exportação.',
           features: ['Desenvolvimento de Produto', 'Criação de Protótipos', 'Apoio ao Fabrico'],
         },
         {
           title: 'Design de Produto Amigo do Conteúdo',
           description:
-            'A Afarer apoia designs otimizados para visibilidade nas redes sociais com grafismos atrativos e aparência de lifestyle, incentivando fotos e vídeos dos clientes que criam experiências partilháveis e envolvimento da comunidade.',
+            'A OLagoon apoia designs otimizados para visibilidade nas redes sociais com grafismos atrativos e aparência de lifestyle, incentivando fotos e vídeos dos clientes que criam experiências partilháveis e envolvimento da comunidade.',
           features: ['Visibilidade nas Redes Sociais', 'Fotos e Vídeos dos Clientes', 'Notoriedade de Marca'],
         },
         {
           title: 'Controlo de Qualidade Para a Segurança dos Animais',
           description:
-            'A Afarer foca a verificação de segurança dos materiais avaliando a durabilidade da superfície, testes de desempenho do produto na insuflação e estabilidade e inspeção final da aparência, acessórios e embalagem.',
+            'A OLagoon foca a verificação de segurança dos materiais avaliando a durabilidade da superfície, testes de desempenho do produto na insuflação e estabilidade e inspeção final da aparência, acessórios e embalagem.',
           features: ['Segurança de Materiais', 'Desempenho do Produto', 'Inspeção Final'],
         },
       ],
@@ -4413,7 +4413,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de Produto',
           detail:
-            'A Afarer desenhou uma estrutura SUP específica para animais incluindo uma forma de prancha mais larga, maior área de convés e superfície reforçada para acomodar cães com segurança e conforto.',
+            'A OLagoon desenhou uma estrutura SUP específica para animais incluindo uma forma de prancha mais larga, maior área de convés e superfície reforçada para acomodar cães com segurança e conforto.',
         },
         {
           title: 'Otimização de Materiais',
@@ -4451,22 +4451,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'I&D de Produto Específico Para Cães e Engenharia de Segurança',
               detail:
-                'Em janeiro de 2025, Emma e a sua equipa de produto passaram uma semana no laboratório de inovação da Afarer com os engenheiros de materiais da Afarer e um consultor veterinário. Desenvolveram 3 inovações específicas para cães: (1) um tapete de convés de dupla densidade com zonas de aderência extra para patas caninas com coeficiente de atrito 3 vezes maior do que os tapetes padrão, (2) uma secção central reforçada com capacidade testada de 50 kg (testada com simulações do peso de Labradores e Golden Retrievers) e (3) um sistema de ancoragem em argola D compatível com coletes salva-vidas para cães. A Afarer produziu 6 variações de protótipo, e a equipa de Emma conduziu 8 semanas de testes com 50 donos de cães por todo o Reino Unido, refinando o design com base em 347 respostas a inquéritos. O design final apresentava relevo de pegadas, material «resistente à lama» e um porta-sacos integrado no tapete de convés.',
+                'Em janeiro de 2025, Emma e a sua equipa de produto passaram uma semana no laboratório de inovação da OLagoon com os engenheiros de materiais da OLagoon e um consultor veterinário. Desenvolveram 3 inovações específicas para cães: (1) um tapete de convés de dupla densidade com zonas de aderência extra para patas caninas com coeficiente de atrito 3 vezes maior do que os tapetes padrão, (2) uma secção central reforçada com capacidade testada de 50 kg (testada com simulações do peso de Labradores e Golden Retrievers) e (3) um sistema de ancoragem em argola D compatível com coletes salva-vidas para cães. A OLagoon produziu 6 variações de protótipo, e a equipa de Emma conduziu 8 semanas de testes com 50 donos de cães por todo o Reino Unido, refinando o design com base em 347 respostas a inquéritos. O design final apresentava relevo de pegadas, material «resistente à lama» e um porta-sacos integrado no tapete de convés.',
             },
             {
               title: 'Desenvolvimento de Marca, Embalagem e Conformidade de Retalho Para Animais',
               detail:
-                "A equipa de design da Afarer criou a identidade visual «Paws & Paddle Adventure» incluindo embalagem com fotografia canina, wobblers de prateleira e códigos QR com ligação a um guia em vídeo de «Segurança SUP Para Cães». Os 3 modelos lançados: «The Spaniel» (10' all-round para cães de pequeno-médio porte), «The Labrador» (11'6\" utilitário para cães de médio-grande porte) e «The Retriever» (12'6\" touring para cães grandes e viagens mais longas). A Afarer geriu a certificação UKCA e a marcação CE, e desenvolveu um pacote de conformidade da Pet Industry Federation incluindo avisos de segurança, limites de peso do cão e documentação de responsabilidade. Emma pré-vendeu 1.800 unidades através da sua rede existente de retalho para animais antes mesmo de a produção começar.",
+                "A equipa de design da OLagoon criou a identidade visual «Paws & Paddle Adventure» incluindo embalagem com fotografia canina, wobblers de prateleira e códigos QR com ligação a um guia em vídeo de «Segurança SUP Para Cães». Os 3 modelos lançados: «The Spaniel» (10' all-round para cães de pequeno-médio porte), «The Labrador» (11'6\" utilitário para cães de médio-grande porte) e «The Retriever» (12'6\" touring para cães grandes e viagens mais longas). A OLagoon geriu a certificação UKCA e a marcação CE, e desenvolveu um pacote de conformidade da Pet Industry Federation incluindo avisos de segurança, limites de peso do cão e documentação de responsabilidade. Emma pré-vendeu 1.800 unidades através da sua rede existente de retalho para animais antes mesmo de a produção começar.",
             },
             {
               title: 'Campanha de Lançamento com Influenciadores e Formação de Retalho',
               detail:
-                'A coleção foi lançada em março de 2025 com uma campanha coordenada com 12 influenciadores caninos britânicos incluindo @myadventureswithoscar (2,1 milhões de seguidores) e @the_hiking_husky (890 mil seguidores). A Afarer forneceu 50 unidades de demonstração para conteúdo de influenciadores e eventos em lojas de animais. A equipa de formação da Afarer criou um módulo «Retail Pro» de 20 minutos cobrindo segurança SUP canina, adequação a diferentes raças e venda cruzada de coletes salva-vidas para cães e botinhas de proteção das patas. Os 340 parceiros de retalho da Paws & Paddle organizaram dias de demonstração em loja onde os clientes podiam experimentar as pranchas com os seus cães em piscinas insufláveis — 78% dos participantes nas demonstrações converteram-se em compra.',
+                'A coleção foi lançada em março de 2025 com uma campanha coordenada com 12 influenciadores caninos britânicos incluindo @myadventureswithoscar (2,1 milhões de seguidores) e @the_hiking_husky (890 mil seguidores). A OLagoon forneceu 50 unidades de demonstração para conteúdo de influenciadores e eventos em lojas de animais. A equipa de formação da OLagoon criou um módulo «Retail Pro» de 20 minutos cobrindo segurança SUP canina, adequação a diferentes raças e venda cruzada de coletes salva-vidas para cães e botinhas de proteção das patas. Os 340 parceiros de retalho da Paws & Paddle organizaram dias de demonstração em loja onde os clientes podiam experimentar as pranchas com os seus cães em piscinas insufláveis — 78% dos participantes nas demonstrações converteram-se em compra.',
             },
             {
               title: 'Expansão de Categoria e Programa de Parceria Veterinária',
               detail:
-                'Em setembro de 2025, a linha SUP amiga de cães tinha vendido 4.200 unidades em 340 localizações de retalho, gerando £2,1 milhões de receita de grossista (40% acima da meta de £1,5 milhão). O modelo «Labrador» respondeu por 52% das vendas. Emma lançou uma parceria pioneira com a British Veterinary Association para promover a segurança aquática canina, e a Afarer produziu 5.000 livretos de «Segurança SUP Para Cães» distribuídos por veterinários. Uma reencomenda de 3.000 unidades incluiu um novo modelo «The Terrier» (8\'6" para cães pequenos) e uma linha correspondente de coletes salva-vidas para cães. A coleção foi nomeada «Pet Product of the Year» no UK Pet Show 2025.',
+                'Em setembro de 2025, a linha SUP amiga de cães tinha vendido 4.200 unidades em 340 localizações de retalho, gerando £2,1 milhões de receita de grossista (40% acima da meta de £1,5 milhão). O modelo «Labrador» respondeu por 52% das vendas. Emma lançou uma parceria pioneira com a British Veterinary Association para promover a segurança aquática canina, e a OLagoon produziu 5.000 livretos de «Segurança SUP Para Cães» distribuídos por veterinários. Uma reencomenda de 3.000 unidades incluiu um novo modelo «The Terrier» (8\'6" para cães pequenos) e uma linha correspondente de coletes salva-vidas para cães. A coleção foi nomeada «Pet Product of the Year» no UK Pet Show 2025.',
             },
           ],
           results: [
@@ -4483,28 +4483,28 @@ const pt: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Austrália',
             background:
               'A Blue Heeler Expeditions foi fundada pelo ex-conduutor de cães do Exército Australiano tornado comportamentalista canino, Lachlan «Locky» Murphy, em 2018. Locky especializava-se em treino de raças de alta energia (kelpies, heelers, border collies) e tinha construído um seguimento de culto através do seu canal de YouTube (480 mil subscritores) e workshops esgotados. Tinha uma instalação de 12.000 pés quadrados perto do Rio Noosa mas queria criar uma categoria completamente nova: programa estruturado de treino e certificação SUP canina. A posse de cães na Austrália estava em máximos recorde (5,1 milhões de cães) e #dogpaddle era tendência nas redes sociais australianas, mas ninguém oferecia treino SUP canino profissional ou equipamento concebido para o clima australiano.',
-            goal: 'Desenvolver um programa abrangente de «Certificação SUP Canina» com pranchas Afarer personalizadas, formar e certificar 80 instrutores por toda a Austrália em 18 meses e gerar AU$1,2 milhão em receita de programa combinando vendas de pranchas, taxas de certificação e merchandise.',
+            goal: 'Desenvolver um programa abrangente de «Certificação SUP Canina» com pranchas OLagoon personalizadas, formar e certificar 80 instrutores por toda a Austrália em 18 meses e gerar AU$1,2 milhão em receita de programa combinando vendas de pranchas, taxas de certificação e merchandise.',
           },
           steps: [
             {
               title: 'Análise de Comportamento Canino e Desenvolvimento de Protocolo de Treino SUP',
               detail:
-                "Locky passou 3 meses, de outubro a dezembro de 2024, a trabalhar com a equipa de produto da Afarer e uma investigadora de biomecânica animal da University of Queensland para desenhar uma prancha otimizada para o treino de equilíbrio canino. Criaram uma plataforma larga de 12' x 34' com acolchoamento de convés EVA ultramacio (8 mm contra os 4 mm padrão), laterais de perfil baixo para embarque canino fácil e uma superfície texturada antiderrapante testada em 14 raças caninas. Locky testou 30 cães em 6 iterações de protótipo e desenvolveu um protocolo de treino SUP canino de 5 etapas: Etapa 1 (familiarização com a prancha em terra), Etapa 2 (flutuação estática), Etapa 3 (pagaia sentado), Etapa 4 (pagaia em pé com o cão sentado), Etapa 5 (pagaia completa com o cão em pé). A Afarer produziu 200 pranchas de grau de instrutor com grafismos personalizados «Blue Heeler» com a silhueta de um cão boiadeiro australiano.",
+                "Locky passou 3 meses, de outubro a dezembro de 2024, a trabalhar com a equipa de produto da OLagoon e uma investigadora de biomecânica animal da University of Queensland para desenhar uma prancha otimizada para o treino de equilíbrio canino. Criaram uma plataforma larga de 12' x 34' com acolchoamento de convés EVA ultramacio (8 mm contra os 4 mm padrão), laterais de perfil baixo para embarque canino fácil e uma superfície texturada antiderrapante testada em 14 raças caninas. Locky testou 30 cães em 6 iterações de protótipo e desenvolveu um protocolo de treino SUP canino de 5 etapas: Etapa 1 (familiarização com a prancha em terra), Etapa 2 (flutuação estática), Etapa 3 (pagaia sentado), Etapa 4 (pagaia em pé com o cão sentado), Etapa 5 (pagaia completa com o cão em pé). A OLagoon produziu 200 pranchas de grau de instrutor com grafismos personalizados «Blue Heeler» com a silhueta de um cão boiadeiro australiano.",
             },
             {
               title: 'Programa de Certificação de Instrutores e Enquadramento Regulatório',
               detail:
-                'Locky e a Afarer co-desenvolveram uma Certificação de Instrutor SUP Canino de 3 níveis: Nível 1 (40 horas online + fim de semana prático), Nível 2 (10 dias avançado com resgate aquático), Nível 3 (14 dias instrutor-mestre). O currículo cobriu comportamento canino na água, primeiros socorros caninos, abordagens de treino específicas por raça, regulamentos australianos de segurança aquática, requisitos de seguro e criação de negócio. A Afarer financiou a criação de 25 horas de conteúdo vídeo HD filmado no Rio Noosa e produziu um manual de instrutor de 200 páginas. Locky lançou o programa de certificação em fevereiro de 2025 com uma turma inicial de 24 candidatos — todos os 24 passaram o Nível 1 e 18 continuaram para o Nível 2.',
+                'Locky e a OLagoon co-desenvolveram uma Certificação de Instrutor SUP Canino de 3 níveis: Nível 1 (40 horas online + fim de semana prático), Nível 2 (10 dias avançado com resgate aquático), Nível 3 (14 dias instrutor-mestre). O currículo cobriu comportamento canino na água, primeiros socorros caninos, abordagens de treino específicas por raça, regulamentos australianos de segurança aquática, requisitos de seguro e criação de negócio. A OLagoon financiou a criação de 25 horas de conteúdo vídeo HD filmado no Rio Noosa e produziu um manual de instrutor de 200 páginas. Locky lançou o programa de certificação em fevereiro de 2025 com uma turma inicial de 24 candidatos — todos os 24 passaram o Nível 1 e 18 continuaram para o Nível 2.',
             },
             {
               title: 'Gama de Equipamento, Distribuição de Retalho e Lançamento no YouTube',
               detail:
-                "A marca «Blue Heeler Expeditions» de Locky lançou 4 produtos de retalho: a «Blue» (prancha de instrutor de 12' a AU$899), a «Heeler» (prancha recreativa para cães de 10'6\" a AU$649), um colete salva-vidas específico para cães (AU$89) e um sistema de trelha de treino (AU$39). A Afarer fabricou 1.000 unidades para o pipeline inicial de retalho e instrutores. Locky lançou uma série de YouTube em 6 partes, «Paddle Paws», documentando o protocolo de treino — o primeiro episódio ganhou 2,1 milhões de visualizações em 2 semanas. Em 30 dias, o site de Locky recebeu 47.000 consultas de encomendas e 340 australianos inscreveram-se na lista de espera para certificação de instrutores.",
+                "A marca «Blue Heeler Expeditions» de Locky lançou 4 produtos de retalho: a «Blue» (prancha de instrutor de 12' a AU$899), a «Heeler» (prancha recreativa para cães de 10'6\" a AU$649), um colete salva-vidas específico para cães (AU$89) e um sistema de trelha de treino (AU$39). A OLagoon fabricou 1.000 unidades para o pipeline inicial de retalho e instrutores. Locky lançou uma série de YouTube em 6 partes, «Paddle Paws», documentando o protocolo de treino — o primeiro episódio ganhou 2,1 milhões de visualizações em 2 semanas. Em 30 dias, o site de Locky recebeu 47.000 consultas de encomendas e 340 australianos inscreveram-se na lista de espera para certificação de instrutores.",
             },
             {
               title: 'Escala do Programa, Expansão Nacional e Pedidos Internacionais',
               detail:
-                'Em agosto de 2025, a Blue Heeler Expeditions tinha 85 instrutores certificados em todos os estados australianos (5 acima da meta de 18 meses, alcançada em 6 meses). Os instrutores pagaram AU$2.500 pela certificação de Nível 1 + AU$899 de prancha, gerando AU$296 mil em receita de certificação. Locky vendeu 1.400 pranchas de retalho a donos de animais, 200 pranchas de grau de instrutor a treinadores certificados e 3.400 coletes salva-vidas para cães. A receita total do programa alcançou AU$1,85 milhão em 8 meses (54% acima da meta de AU$1,2 milhão a 18 meses). Locky recebeu pedidos de 14 países e assinou um acordo de licenciamento com um parceiro americano para uma versão norte-americana. A Afarer comprometeu-se com uma parceria global exclusiva de 3 anos para a linha de produtos SUP Canina.',
+                'Em agosto de 2025, a Blue Heeler Expeditions tinha 85 instrutores certificados em todos os estados australianos (5 acima da meta de 18 meses, alcançada em 6 meses). Os instrutores pagaram AU$2.500 pela certificação de Nível 1 + AU$899 de prancha, gerando AU$296 mil em receita de certificação. Locky vendeu 1.400 pranchas de retalho a donos de animais, 200 pranchas de grau de instrutor a treinadores certificados e 3.400 coletes salva-vidas para cães. A receita total do programa alcançou AU$1,85 milhão em 8 meses (54% acima da meta de AU$1,2 milhão a 18 meses). Locky recebeu pedidos de 14 países e assinou um acordo de licenciamento com um parceiro americano para uma versão norte-americana. A OLagoon comprometeu-se com uma parceria global exclusiva de 3 anos para a linha de produtos SUP Canina.',
             },
           ],
           results: [
@@ -4516,8 +4516,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que as Marcas de Aventura Para Animais Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que as Marcas de Aventura Para Animais Escolhem a OLagoon',
       items: [
         {
           title: 'Segurança dos Animais',
@@ -4562,26 +4562,26 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'As marcas para animais podem personalizar pranchas SUP com o seu próprio logótipo e cores?',
         answer:
-          'Absolutamente. A Afarer oferece personalização completa de marca incluindo colocação de logótipo, correspondência de cores personalizada, design gráfico e embalagem com marca. Apoiamos também coleções de edição limitada para influenciadores de animais e lançamentos sazonais de produtos.',
+          'Absolutamente. A OLagoon oferece personalização completa de marca incluindo colocação de logótipo, correspondência de cores personalizada, design gráfico e embalagem com marca. Apoiamos também coleções de edição limitada para influenciadores de animais e lançamentos sazonais de produtos.',
       },
       {
         question: 'Qual é o tamanho de prancha recomendado para pagaiar com um cão?',
         answer:
-          'Para pagaiar com cães, são recomendadas pranchas mais largas com maiores áreas de convés. Os designs amigos dos animais da Afarer apresentam maior largura de prancha e longas áreas de atividade de convés completo que acomodam cães pequenos, médios e grandes confortavelmente mantendo a estabilidade.',
+          'Para pagaiar com cães, são recomendadas pranchas mais largas com maiores áreas de convés. Os designs amigos dos animais da OLagoon apresentam maior largura de prancha e longas áreas de atividade de convés completo que acomodam cães pequenos, médios e grandes confortavelmente mantendo a estabilidade.',
       },
       {
         question: 'Oferecem pacotes completos de SUP para animais com acessórios?',
         answer:
-          'Sim, a Afarer oferece pacotes SUP padrão para animais incluindo prancha, pagaia, bomba, leash, saco de transporte e kit de reparação, assim como pacotes premium de aventura canina com acessórios de segurança para animais e pacotes de viagem para animais otimizados para road trips e campismo.',
+          'Sim, a OLagoon oferece pacotes SUP padrão para animais incluindo prancha, pagaia, bomba, leash, saco de transporte e kit de reparação, assim como pacotes premium de aventura canina com acessórios de segurança para animais e pacotes de viagem para animais otimizados para road trips e campismo.',
       },
       {
         question: 'Qual é a quantidade mínima de encomenda para pranchas SUP amigas dos animais personalizadas?',
         answer:
-          'A Afarer trabalha com marcas para animais de todos os tamanhos. As quantidades mínimas de encomenda podem ser estruturadas para corresponder à etapa da marca, desde lançamentos de edição limitada em pequenos lotes para influenciadores de animais até corridas de produção em grande escala para marcas estabelecidas de exterior para animais.',
+          'A OLagoon trabalha com marcas para animais de todos os tamanhos. As quantidades mínimas de encomenda podem ser estruturadas para corresponder à etapa da marca, desde lançamentos de edição limitada em pequenos lotes para influenciadores de animais até corridas de produção em grande escala para marcas estabelecidas de exterior para animais.',
       },
     ],
     cta: {
-      title: 'Crie a Sua Marca SUP de Aventura Para Animais Com a Afarer',
+      title: 'Crie a Sua Marca SUP de Aventura Para Animais Com a OLagoon',
       subtitle: 'O futuro dos produtos para animais não é apenas dentro de casa. É no exterior.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto SUP Amigo dos Animais',
@@ -4596,7 +4596,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante de SUP personalizados de luxo | {SITE}',
       description:
-        'A Afarer cria coleções SUP premium personalizadas para ilhas privadas, clubes de iates, resorts de luxo e marcas lifestyle de elite. Designs exclusivos, materiais de luxo, personalização VIP e produção OEM boutique.',
+        'A OLagoon cria coleções SUP premium personalizadas para ilhas privadas, clubes de iates, resorts de luxo e marcas lifestyle de elite. Designs exclusivos, materiais de luxo, personalização VIP e produção OEM boutique.',
     },
     hero: {
       tagline: 'Soluções SUP Exclusivas de Luxo Para Ilhas Privadas, Clubes de Iates e Destinos de Lifestyle de Elite',
@@ -4637,7 +4637,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Design SUP Exclusivo de Luxo',
           description:
-            'A Afarer apoia a personalização estética completa com desenvolvimento de cores personalizadas, tons específicos da marca e designs em sintonia com o resort. Os estilos incluem Ocean Luxury com azul-marinho profundo e branco-pérola, Tropical Island com tons naturais e Modern Yacht com cores minimalistas e acabamentos premium.',
+            'A OLagoon apoia a personalização estética completa com desenvolvimento de cores personalizadas, tons específicos da marca e designs em sintonia com o resort. Os estilos incluem Ocean Luxury com azul-marinho profundo e branco-pérola, Tropical Island com tons naturais e Modern Yacht com cores minimalistas e acabamentos premium.',
         },
         {
           title: 'Seleção de Materiais e Acabamentos Premium',
@@ -4724,17 +4724,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Colaboração de Design À Medida e Seleção de Materiais',
               detail:
-                'Em agosto de 2024, Voss contratou a divisão de personalização da Afarer com um briefing detalhado: as pranchas tinham de combinar com a paleta de cores «Ocean Sand» do resort (bege quente, carvão, rosado e azul-petróleo) com um tapete de convés texturado tipo reboco igual ao chão das villas. A equipa de design da Afarer desenvolveu 14 protótipos de combinações de cores ao longo de 6 semanas, decidindo por um núcleo drop stitch de fusão de 5 camadas com pele PVC mate estabilizada contra UV. Cada prancha recebeu um logótipo de folha de ouro pintado à mão — o emblema de fronde da marca Coco — aplicado por um artesão balinês, demorando 4 horas por prancha. A encomenda de 30 pranchas (25 Explorer 11\'6" X, 5 de touring de 12\'6") totalizou $87.000.',
+                'Em agosto de 2024, Voss contratou a divisão de personalização da OLagoon com um briefing detalhado: as pranchas tinham de combinar com a paleta de cores «Ocean Sand» do resort (bege quente, carvão, rosado e azul-petróleo) com um tapete de convés texturado tipo reboco igual ao chão das villas. A equipa de design da OLagoon desenvolveu 14 protótipos de combinações de cores ao longo de 6 semanas, decidindo por um núcleo drop stitch de fusão de 5 camadas com pele PVC mate estabilizada contra UV. Cada prancha recebeu um logótipo de folha de ouro pintado à mão — o emblema de fronde da marca Coco — aplicado por um artesão balinês, demorando 4 horas por prancha. A encomenda de 30 pranchas (25 Explorer 11\'6" X, 5 de touring de 12\'6") totalizou $87.000.',
             },
             {
               title: 'Passo 2: Integração de Pontão Flutuante e Arquitetura de Armazenagem',
               detail:
-                'Voss trabalhou com os arquitetos marinhos da Afarer para desenhar um sistema flutuante de valet de pranchas em dois níveis. O nível inferior guardava 15 pranchas com a proa para fora para acesso imediato dos hóspedes; o nível superior armazenava 15 pranchas em slings de neopreno personalizados para prevenir degradação UV. O pontão, construído em Phuket e enviado em secções modulares, custou $42 mil incluindo instalação. Cada prancha foi etiquetada com NFC através de um chip impermeável ligado ao RMS do resort para check-in/check-out automatizado, reduzindo o trabalho do pessoal em 3,2 horas por dia comparado com o sistema anterior de manifestos em papel.',
+                'Voss trabalhou com os arquitetos marinhos da OLagoon para desenhar um sistema flutuante de valet de pranchas em dois níveis. O nível inferior guardava 15 pranchas com a proa para fora para acesso imediato dos hóspedes; o nível superior armazenava 15 pranchas em slings de neopreno personalizados para prevenir degradação UV. O pontão, construído em Phuket e enviado em secções modulares, custou $42 mil incluindo instalação. Cada prancha foi etiquetada com NFC através de um chip impermeável ligado ao RMS do resort para check-in/check-out automatizado, reduzindo o trabalho do pessoal em 3,2 horas por dia comparado com o sistema anterior de manifestos em papel.',
             },
             {
               title: 'Passo 3: Formação de Mordomos SUP e Integração com o Concierge',
               detail:
-                'Em novembro de 2024, a equipa de formação da Afarer conduziu um programa intensivo de 4 dias para 8 mordomos do resort e 4 colaboradores do centro de mergulho na Coco Private Island. A formação cobriu a etiqueta SUP para hóspedes ultra-ricos (lançamento silencioso, serviço de fruta ao lado da prancha, pontos de montagem GoPro). Cada mordomo completou 15 sessões supervisionadas com hóspedes. Voss integrou a reserva de SUP na app de concierge de pré-chegada das villas, permitindo aos hóspedes pré-selecionar a cor da prancha e agendar rotas de nascer do sol/laguna/recife. A taxa de adoção alcançou 28% nos primeiros 2 meses.',
+                'Em novembro de 2024, a equipa de formação da OLagoon conduziu um programa intensivo de 4 dias para 8 mordomos do resort e 4 colaboradores do centro de mergulho na Coco Private Island. A formação cobriu a etiqueta SUP para hóspedes ultra-ricos (lançamento silencioso, serviço de fruta ao lado da prancha, pontos de montagem GoPro). Cada mordomo completou 15 sessões supervisionadas com hóspedes. Voss integrou a reserva de SUP na app de concierge de pré-chegada das villas, permitindo aos hóspedes pré-selecionar a cor da prancha e agendar rotas de nascer do sol/laguna/recife. A taxa de adoção alcançou 28% nos primeiros 2 meses.',
             },
             {
               title: 'Passo 4: Lançamento com Influenciadores e ROI Medido no Capital Social',
@@ -4762,22 +4762,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Transferência de Padrão Artístico e Inovação de Materiais',
               detail:
-                'A partir de fevereiro de 2025, a equipa de I&D da Afarer e o ateliê da Verlaine passaram 10 semanas a desenvolver um processo de sublimação direta no PVC capaz de reproduzir o padrão «Geometrica» de 14 cores da Verlaine a 1.200 DPI sem sangramento de cor nem distorção por esticamento. Após 18 amostras falhadas (deformação do padrão na curva da lateral), os engenheiros da Afarer criaram um gabarito de corte em 7 painéis que permitia a pré-impressão em folhas PVC planas antes da laminação por fusão. Cada prancha exigia 11,5 horas de tempo de produção (contra 3 horas das pranchas padrão). A superfície final recebeu um revestimento mate antiderrapante desenvolvido exclusivamente para a Verlaine.',
+                'A partir de fevereiro de 2025, a equipa de I&D da OLagoon e o ateliê da Verlaine passaram 10 semanas a desenvolver um processo de sublimação direta no PVC capaz de reproduzir o padrão «Geometrica» de 14 cores da Verlaine a 1.200 DPI sem sangramento de cor nem distorção por esticamento. Após 18 amostras falhadas (deformação do padrão na curva da lateral), os engenheiros da OLagoon criaram um gabarito de corte em 7 painéis que permitia a pré-impressão em folhas PVC planas antes da laminação por fusão. Cada prancha exigia 11,5 horas de tempo de produção (contra 3 horas das pranchas padrão). A superfície final recebeu um revestimento mate antiderrapante desenvolvido exclusivamente para a Verlaine.',
             },
             {
               title: 'Passo 2: Estratégia de Embalagem, Unboxing e Apresentação de Retalho',
               detail:
-                'Rinaldi insistiu numa experiência de unboxing «de nível flagship». A Afarer colaborou com os designers de embalagem da Verlaine para criar um estojo rígido de viagem revestido na tela cru característica da Verlaine com protetores de canto em couro (produzidos pela própria oficina de couro da Verlaine na Toscana). O estojo continha o SUP, uma pagaia de 3 peças em fibra de carbono com monograma Verlaine, uma bomba personalizada com manómetro gravado com o motivo Geometrica e um certificado de autenticidade numerado num envelope com carimbo a folha. O custo total de embalagem por unidade foi de €340. O conjunto completo pesava 26 kg — leve o suficiente para despacho de bagagem em primeira classe.',
+                'Rinaldi insistiu numa experiência de unboxing «de nível flagship». A OLagoon colaborou com os designers de embalagem da Verlaine para criar um estojo rígido de viagem revestido na tela cru característica da Verlaine com protetores de canto em couro (produzidos pela própria oficina de couro da Verlaine na Toscana). O estojo continha o SUP, uma pagaia de 3 peças em fibra de carbono com monograma Verlaine, uma bomba personalizada com manómetro gravado com o motivo Geometrica e um certificado de autenticidade numerado num envelope com carimbo a folha. O custo total de embalagem por unidade foi de €340. O conjunto completo pesava 26 kg — leve o suficiente para despacho de bagagem em primeira classe.',
             },
             {
               title: 'Passo 3: Pré-visualização Para Clientes VIP e Modelo de Vendas Somente por Marcação',
               detail:
-                'A coleção foi lançada a 8 de maio de 2025, durante a Milan Design Week, com uma pré-visualização privada somente por marcação na loja âncora da Verlaine na Via Monte Napoleone. Apenas 200 clientes receberam convites em relevo. Cada sessão de 45 minutos incluía uma demonstração SUP ao vivo numa piscina construída à medida de 40.000 litros instalada no pátio da loja, com o embaixador da marca da Afarer a demonstrar a rigidez da prancha (insuflada a 18 PSI com a bomba marcada Verlaine). 127 unidades foram pré-encomendadas durante a Design Week, gerando €1,62 milhão em depósitos. Rinaldi limitou a promoção nas redes sociais apenas aos canais WhatsApp de clientes privados da Verlaine.',
+                'A coleção foi lançada a 8 de maio de 2025, durante a Milan Design Week, com uma pré-visualização privada somente por marcação na loja âncora da Verlaine na Via Monte Napoleone. Apenas 200 clientes receberam convites em relevo. Cada sessão de 45 minutos incluía uma demonstração SUP ao vivo numa piscina construída à medida de 40.000 litros instalada no pátio da loja, com o embaixador da marca da OLagoon a demonstrar a rigidez da prancha (insuflada a 18 PSI com a bomba marcada Verlaine). 127 unidades foram pré-encomendadas durante a Design Week, gerando €1,62 milhão em depósitos. Rinaldi limitou a promoção nas redes sociais apenas aos canais WhatsApp de clientes privados da Verlaine.',
             },
             {
               title: 'Passo 4: Cumprimento Global, Entrega Concierge e Desempenho de Esgotamento',
               detail:
-                'As encomendas foram enviadas a partir de junho de 2025, com entrega white-glove a 34 países. Cada entrega incluía uma sessão virtual de 90 minutos com um instrutor da Afarer apresentado pessoalmente ao cliente por vídeo WhatsApp. Em novembro de 2025, 468 de 500 unidades estavam vendidas (93,6% de sell-through), gerando €5,85 milhões em receita a preço de retalho cheio sem nenhum desconto. As restantes 32 unidades foram retidas para a coleção Arquivos da Verlaine. Rinaldi reportou que 41% dos compradores eram novos na Verlaine — adquiridos através da coleção SUP — com uma despesa adicional média de €3.200 em pronto-a-vestir durante a sessão de compra.',
+                'As encomendas foram enviadas a partir de junho de 2025, com entrega white-glove a 34 países. Cada entrega incluía uma sessão virtual de 90 minutos com um instrutor da OLagoon apresentado pessoalmente ao cliente por vídeo WhatsApp. Em novembro de 2025, 468 de 500 unidades estavam vendidas (93,6% de sell-through), gerando €5,85 milhões em receita a preço de retalho cheio sem nenhum desconto. As restantes 32 unidades foram retidas para a coleção Arquivos da Verlaine. Rinaldi reportou que 41% dos compradores eram novos na Verlaine — adquiridos através da coleção SUP — com uma despesa adicional média de €3.200 em pronto-a-vestir durante a sessão de compra.',
             },
           ],
           results: [
@@ -4789,8 +4789,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Clientes de Luxo Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Clientes de Luxo Escolhem a OLagoon',
       items: [
         {
           title: 'Sensibilidade de Design',
@@ -4818,39 +4818,39 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Que opções de personalização estão disponíveis para coleções SUP de luxo?',
         answer:
-          'A Afarer oferece personalização completa incluindo desenvolvimento de cores personalizadas, tons específicos da marca, padrões elegantes, símbolos de marca, arte signature, construção PVC premium, texturas de convés EVA personalizadas, ferragem refinada e embalagem personalizada.',
+          'A OLagoon oferece personalização completa incluindo desenvolvimento de cores personalizadas, tons específicos da marca, padrões elegantes, símbolos de marca, arte signature, construção PVC premium, texturas de convés EVA personalizadas, ferragem refinada e embalagem personalizada.',
       },
       {
         question: 'Qual é a quantidade mínima de encomenda para produção SUP premium personalizada?',
         answer:
-          'A Afarer especializa-se em produção de luxo em pequenos lotes, com projetos típicos entre 10 e 50 conjuntos. Isto torna-a ideal para proprietários de ilhas privadas, clubes de iates, resorts de luxo e marcas de lifestyle exclusivas.',
+          'A OLagoon especializa-se em produção de luxo em pequenos lotes, com projetos típicos entre 10 e 50 conjuntos. Isto torna-a ideal para proprietários de ilhas privadas, clubes de iates, resorts de luxo e marcas de lifestyle exclusivas.',
       },
       {
         question: 'Quanto tempo demora o processo de design e produção para uma coleção SUP personalizada?',
         answer:
-          'O prazo depende da complexidade e do nível de personalização. A Afarer trabalha em estreita colaboração com cada cliente desde o desenvolvimento do conceito até à produção, completando tipicamente as coleções de luxo dentro de um prazo que cumpre os requisitos do projeto e as necessidades sazonais.',
+          'O prazo depende da complexidade e do nível de personalização. A OLagoon trabalha em estreita colaboração com cada cliente desde o desenvolvimento do conceito até à produção, completando tipicamente as coleções de luxo dentro de um prazo que cumpre os requisitos do projeto e as necessidades sazonais.',
       },
       {
         question:
           'As pranchas SUP podem ser desenhadas para combinar com a marca e a estética existentes da propriedade?',
         answer:
-          'Sim, a Afarer especializa-se em criar coleções que se integram sem costura com a estética da propriedade. Podemos igualar cores de marca existentes, temas arquitetónicos e elementos de design interior para um ambiente de luxo coeso.',
+          'Sim, a OLagoon especializa-se em criar coleções que se integram sem costura com a estética da propriedade. Podemos igualar cores de marca existentes, temas arquitetónicos e elementos de design interior para um ambiente de luxo coeso.',
       },
       {
         question: 'Que materiais são usados em pranchas SUP de grau de luxo?',
         answer:
-          'A Afarer usa construção PVC premium para aparência elegante e durabilidade, materiais de convés EVA de alta gama com texturas e cores personalizadas e componentes metálicos premium refinados para a ferragem — todos selecionados pela sua qualidade estética e desempenho de grau marinho.',
+          'A OLagoon usa construção PVC premium para aparência elegante e durabilidade, materiais de convés EVA de alta gama com texturas e cores personalizadas e componentes metálicos premium refinados para a ferragem — todos selecionados pela sua qualidade estética e desempenho de grau marinho.',
       },
       {
         question: 'Oferecem embalagem personalizada para coleções SUP VIP?',
         answer:
-          'Sim, a Afarer fornece embalagem VIP personalizada incluindo caixas de apresentação marcadas, sacos de armazenagem de luxo, etiquetas personalizadas e apresentação de edição limitada. A experiência de unboxing é desenhada para igualar a exclusividade do próprio produto.',
+          'Sim, a OLagoon fornece embalagem VIP personalizada incluindo caixas de apresentação marcadas, sacos de armazenagem de luxo, etiquetas personalizadas e apresentação de edição limitada. A experiência de unboxing é desenhada para igualar a exclusividade do próprio produto.',
       },
     ],
     cta: {
-      title: 'Crie a Sua Coleção Exclusiva de Lifestyle Aquático Com a Afarer',
+      title: 'Crie a Sua Coleção Exclusiva de Lifestyle Aquático Com a OLagoon',
       subtitle:
-        'A sua propriedade é única. O seu equipamento também deve ser. Deixe a Afarer ajudá-lo a criar uma coleção SUP signature.',
+        'A sua propriedade é única. O seu equipamento também deve ser. Deixe a OLagoon ajudá-lo a criar uma coleção SUP signature.',
       primaryAction: {
         text: 'Comece o Seu Projeto',
       },
@@ -4864,7 +4864,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante de SUP de resgate aquático | {SITE}',
       description:
-        'A Afarer oferece sistemas SUP profissionais de resgate aquático para nadadores-salvadores, equipas de emergência e organizações de segurança. Boards de resgate de alta capacidade, design com múltiplas pegas, sistemas de reboque e soluções OEM personalizadas.',
+        'A OLagoon oferece sistemas SUP profissionais de resgate aquático para nadadores-salvadores, equipas de emergência e organizações de segurança. Boards de resgate de alta capacidade, design com múltiplas pegas, sistemas de reboque e soluções OEM personalizadas.',
     },
     hero: {
       tagline:
@@ -4996,7 +4996,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Design SUP Específico de Salvamento e Integração Médica',
               detail:
-                'De janeiro a abril de 2025, Tran trabalhou com a divisão industrial marinha da Afarer para desenhar a RescuePro 12\'6" XR. A prancha apresenta 34" de largura para estabilidade a baixa velocidade, PVC de grau militar com 6" de espessura (1.200 denier, testado até 25 PSI) e convés plano sem rocker para montagem uniforme de equipamento. A Afarer integrou 12 D-rings em aço inoxidável numa configuração proa/poppa para cápsulas médicas presas com elásticos (primeiros socorros, DEA, oxigénio). A prancha inclui uma faixa de visibilidade amarelo-neon com fita refletora de grau SOLAS e um croque de reboque montado na proa testado para tração de cabo de 400 kg. Após 14 dias de testes em tanque de ondas na Universidade de Queensland, o design final foi aprovado com velocidade máxima carregada de 7,5 nós (pagaiador de 110 kg + 30 kg de equipamento).',
+                'De janeiro a abril de 2025, Tran trabalhou com a divisão industrial marinha da OLagoon para desenhar a RescuePro 12\'6" XR. A prancha apresenta 34" de largura para estabilidade a baixa velocidade, PVC de grau militar com 6" de espessura (1.200 denier, testado até 25 PSI) e convés plano sem rocker para montagem uniforme de equipamento. A OLagoon integrou 12 D-rings em aço inoxidável numa configuração proa/poppa para cápsulas médicas presas com elásticos (primeiros socorros, DEA, oxigénio). A prancha inclui uma faixa de visibilidade amarelo-neon com fita refletora de grau SOLAS e um croque de reboque montado na proa testado para tração de cabo de 400 kg. Após 14 dias de testes em tanque de ondas na Universidade de Queensland, o design final foi aprovado com velocidade máxima carregada de 7,5 nós (pagaiador de 110 kg + 30 kg de equipamento).',
             },
             {
               title: 'Passo 2: Alocação Por Clubes, Suportes de Armazenagem e Sistema de Mobilização Rápida',
@@ -5006,12 +5006,12 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 3: Certificação SUP de Salvamento de Nadadores-Salvadores e Testes de Competência em Surf',
               detail:
-                'Em agosto de 2025 (período de formação pré-verão), a divisão de formação de salvamento da Afarer entregou uma certificação SUP Rescue Operator de 40 horas a 82 nadadores-salvadores seniores em 5 polos regionais. O curso cobriu: reboque de vítimas inconscientes à pagaia (reboque de 100 m em menos de 3 min), técnicas de entrada/saída da zona de rebentação com equipamento, utilização de DEA numa plataforma instável e imobilização spinal sobre a prancha (colares ortopédicos aplicados mantendo a estabilidade da prancha). Cada candidato passou num exame prático exigindo: pagaia de 200 m até à vítima, salvamento simulado de inconsciente com recolha de equipamento e regresso à praia — tudo em 7 minutos. Taxa de aprovação: 89% (73 de 82). Os candidatos reprovados foram reafectados a funções secundárias.',
+                'Em agosto de 2025 (período de formação pré-verão), a divisão de formação de salvamento da OLagoon entregou uma certificação SUP Rescue Operator de 40 horas a 82 nadadores-salvadores seniores em 5 polos regionais. O curso cobriu: reboque de vítimas inconscientes à pagaia (reboque de 100 m em menos de 3 min), técnicas de entrada/saída da zona de rebentação com equipamento, utilização de DEA numa plataforma instável e imobilização spinal sobre a prancha (colares ortopédicos aplicados mantendo a estabilidade da prancha). Cada candidato passou num exame prático exigindo: pagaia de 200 m até à vítima, salvamento simulado de inconsciente com recolha de equipamento e regresso à praia — tudo em 7 minutos. Taxa de aprovação: 89% (73 de 82). Os candidatos reprovados foram reafectados a funções secundárias.',
             },
             {
               title: 'Passo 4: Mobilização na Época de Verão e Dados de Desempenho de Salvamento',
               detail:
-                'A frota de Salvamento SUP foi ativada a 1 de outubro de 2025 em todos os 11 clubes para o verão australiano. Até 31 de março de 2026 (época de 6 meses), a SLSQ registou 347 salvamentos assistidos por SUP contra 512 salvamentos IRB, representando 40,4% de todos os salvamentos na água. O tempo médio de mobilização do SUP foi de 47 segundos (contra 4 min 20 s do IRB). O salvamento mais rápido foi de 22 segundos: uma criança de 9 anos apanhada numa corrente de retorno a 80 m da praia em Surfers Paradise. A taxa de sucesso dos salvamentos SUP foi de 99,1% (344 bem-sucedidos, 3 vítimas exigiram reforço adicional de IRB). Tran reportou 0 lesões por hélice, 0 falhas de prancha e 2 reparações de prancha (caixas de barbatana delaminadas, ambas reparadas em 48 horas pelo serviço de reparação rápida da Afarer). A SLSQ encomendou 18 pranchas RescuePro adicionais para a mobilização da época de 2026-27 nos clubes do Norte de Queensland.',
+                'A frota de Salvamento SUP foi ativada a 1 de outubro de 2025 em todos os 11 clubes para o verão australiano. Até 31 de março de 2026 (época de 6 meses), a SLSQ registou 347 salvamentos assistidos por SUP contra 512 salvamentos IRB, representando 40,4% de todos os salvamentos na água. O tempo médio de mobilização do SUP foi de 47 segundos (contra 4 min 20 s do IRB). O salvamento mais rápido foi de 22 segundos: uma criança de 9 anos apanhada numa corrente de retorno a 80 m da praia em Surfers Paradise. A taxa de sucesso dos salvamentos SUP foi de 99,1% (344 bem-sucedidos, 3 vítimas exigiram reforço adicional de IRB). Tran reportou 0 lesões por hélice, 0 falhas de prancha e 2 reparações de prancha (caixas de barbatana delaminadas, ambas reparadas em 48 horas pelo serviço de reparação rápida da OLagoon). A SLSQ encomendou 18 pranchas RescuePro adicionais para a mobilização da época de 2026-27 nos clubes do Norte de Queensland.',
             },
           ],
           results: [
@@ -5034,7 +5034,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 1: Design SUP Específico da Rebentação e Integração de Equipamento de Trauma',
               detail:
-                'De março a junho de 2025, Rodriguez trabalhou com a divisão de salvamento da Afarer para adaptar a RescuePro 12\'6" XR às condições de rebentação da Costa Oeste. As modificações incluíram: proa com rocker (elevação de 2,5") para capacidade de atravessar rebentação oca de 0,3–0,9 m; configuração de caixa quad-fin para manobrar em surf apertado; e anel de tirante de reboque montado na proa para fixação do nadador de resgate. A cápsula médica foi equipada com um kit de trauma North American Rescue M9 (torniquete, vedante torácico, gaze hemostática), um DEA Phillips HeartStart FRx e um dispositivo de imobilização spinal Ferno KED. A divisão marinha da NBFD testou 4 protótipos em 12 sessões de treino no Wedge antes de aprovar o design final.',
+                'De março a junho de 2025, Rodriguez trabalhou com a divisão de salvamento da OLagoon para adaptar a RescuePro 12\'6" XR às condições de rebentação da Costa Oeste. As modificações incluíram: proa com rocker (elevação de 2,5") para capacidade de atravessar rebentação oca de 0,3–0,9 m; configuração de caixa quad-fin para manobrar em surf apertado; e anel de tirante de reboque montado na proa para fixação do nadador de resgate. A cápsula médica foi equipada com um kit de trauma North American Rescue M9 (torniquete, vedante torácico, gaze hemostática), um DEA Phillips HeartStart FRx e um dispositivo de imobilização spinal Ferno KED. A divisão marinha da NBFD testou 4 protótipos em 12 sessões de treino no Wedge antes de aprovar o design final.',
             },
             {
               title: 'Passo 2: Implantação Por Postos, Armazenagem e Protocolos de Resposta Rápida',
@@ -5044,7 +5044,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Passo 3: Certificação SUP de Salvamento Específica NBFD e Simulacros Realistas',
               detail:
-                'Ao longo de 5 dias em julho de 2025, o treinador-mestre de salvamento da Afarer conduziu a certificação na praia para 18 oficiais de segurança marinha da NBFD. O curso foi modificado para as condições da Costa Oeste: passagem por baixo da rebentação em SUP, extração de resgate com partida de praia (arrastar a vítima para a prancha em ondas a rebentar) e coordenação de cenários com helicóptero da NBFD, um Bell 412. Rodriguez exigiu que todos os 18 oficiais passassem num cenário final: localizar uma vítima simulada (manequim de 80 kg) a 150 m do Wedge em surf de 0,6–0,9 m, executar imobilização spinal na água e regressar à praia — tudo em 8 minutos. Taxa de aprovação: 100% com tempo mediano de conclusão de 6 minutos e 12 segundos.',
+                'Ao longo de 5 dias em julho de 2025, o treinador-mestre de salvamento da OLagoon conduziu a certificação na praia para 18 oficiais de segurança marinha da NBFD. O curso foi modificado para as condições da Costa Oeste: passagem por baixo da rebentação em SUP, extração de resgate com partida de praia (arrastar a vítima para a prancha em ondas a rebentar) e coordenação de cenários com helicóptero da NBFD, um Bell 412. Rodriguez exigiu que todos os 18 oficiais passassem num cenário final: localizar uma vítima simulada (manequim de 80 kg) a 150 m do Wedge em surf de 0,6–0,9 m, executar imobilização spinal na água e regressar à praia — tudo em 8 minutos. Taxa de aprovação: 100% com tempo mediano de conclusão de 6 minutos e 12 segundos.',
             },
             {
               title: 'Passo 4: Ativação no Labor Day de 2025 e Estatísticas de Resposta a Emergências',
@@ -5061,8 +5061,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que as Organizações de Salvamento Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que as Organizações de Salvamento Escolhem a OLagoon',
       items: [
         {
           title: 'Segurança em Primeiro Lugar',
@@ -5088,25 +5088,25 @@ const pt: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Que capacidade de carga suportam as pranchas SUP de salvamento da Afarer?',
+        question: 'Que capacidade de carga suportam as pranchas SUP de salvamento da OLagoon?',
         answer:
-          'As pranchas SUP de salvamento da Afarer apresentam capacidade de carga ultra-elevada desenhada para transportar simultaneamente um salvador, uma vítima, equipamento de resgate e material médico. A plataforma de salvamento extra-larga proporciona maior estabilidade e uma área de trabalho alargada para assistência segura ao paciente.',
+          'As pranchas SUP de salvamento da OLagoon apresentam capacidade de carga ultra-elevada desenhada para transportar simultaneamente um salvador, uma vítima, equipamento de resgate e material médico. A plataforma de salvamento extra-larga proporciona maior estabilidade e uma área de trabalho alargada para assistência segura ao paciente.',
       },
       {
-        question: 'O que distingue as pranchas SUP de salvamento da Afarer das pranchas de paddle recreativas?',
+        question: 'O que distingue as pranchas SUP de salvamento da OLagoon das pranchas de paddle recreativas?',
         answer:
-          'As pranchas de salvamento da Afarer são concebidas especificamente para operações de emergência com plataformas de alta capacidade, múltiplas pegas de resgate, sistemas de reboque reforçados com D-rings, cores de alta visibilidade, elementos refletores, materiais resistentes à abrasão e construção de costuras de grau pesado — características inexistentes em produtos recreativos.',
+          'As pranchas de salvamento da OLagoon são concebidas especificamente para operações de emergência com plataformas de alta capacidade, múltiplas pegas de resgate, sistemas de reboque reforçados com D-rings, cores de alta visibilidade, elementos refletores, materiais resistentes à abrasão e construção de costuras de grau pesado — características inexistentes em produtos recreativos.',
       },
       {
         question: 'Que opções de cor estão disponíveis para as pranchas SUP de salvamento?',
         answer:
-          'A Afarer oferece cores profissionais de salvamento incluindo amarelo de resgate, laranja de segurança e vermelho de emergência. Todas as opções podem ser combinadas com elementos de segurança refletores para visibilidade com pouca luz e noturna, além de logótipos de equipa e marcações de agência.',
+          'A OLagoon oferece cores profissionais de salvamento incluindo amarelo de resgate, laranja de segurança e vermelho de emergência. Todas as opções podem ser combinadas com elementos de segurança refletores para visibilidade com pouca luz e noturna, além de logótipos de equipa e marcações de agência.',
       },
       {
         question:
           'As pranchas SUP de salvamento podem ser personalizadas com o logótipo e as marcações da nossa equipa?',
         answer:
-          'Sim, a Afarer apoia a marcação completa da organização de salvamento incluindo logótipos de equipa, identidade da agência, marcações de segurança e esquemas de cores personalizados. Isto ajuda na aparência profissional e na identificação de equipamento durante operações multi-agência.',
+          'Sim, a OLagoon apoia a marcação completa da organização de salvamento incluindo logótipos de equipa, identidade da agência, marcações de segurança e esquemas de cores personalizados. Isto ajuda na aparência profissional e na identificação de equipamento durante operações multi-agência.',
       },
       {
         question: 'Que acessórios estão incluídos num pacote SUP profissional de salvamento?',
@@ -5116,13 +5116,13 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Como são mantidas e armazenadas as pranchas SUP de salvamento?',
         answer:
-          'As pranchas de salvamento da Afarer são desenhadas para manutenção fácil com materiais duráveis que suportam mobilizações frequentes e armazenagem exterior. Sendo insufláveis, embalam-se de forma compacta para transporte e armazenagem. Fornecemos orientação de manutenção, procedimentos de inspeção e componentes sobressalentes para fiabilidade a longo prazo.',
+          'As pranchas de salvamento da OLagoon são desenhadas para manutenção fácil com materiais duráveis que suportam mobilizações frequentes e armazenagem exterior. Sendo insufláveis, embalam-se de forma compacta para transporte e armazenagem. Fornecemos orientação de manutenção, procedimentos de inspeção e componentes sobressalentes para fiabilidade a longo prazo.',
       },
     ],
     cta: {
-      title: 'Construa o Seu Sistema Profissional de Salvamento Aquático Com a Afarer',
+      title: 'Construa o Seu Sistema Profissional de Salvamento Aquático Com a OLagoon',
       subtitle:
-        'Cada missão de salvamento exige confiança. A Afarer ajuda equipas de nadadores-salvadores, organizações de salvamento, instituições de formação e agências de emergência a construir sistemas fiáveis de equipamento de segurança aquática.',
+        'Cada missão de salvamento exige confiança. A OLagoon ajuda equipas de nadadores-salvadores, organizações de salvamento, instituições de formação e agências de emergência a construir sistemas fiáveis de equipamento de segurança aquática.',
       primaryAction: {
         text: 'Comece o Seu Projeto',
       },
@@ -5136,7 +5136,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fornecedor para distribuidores de SUP | Fabricante OEM de paddle boards em volume | {SITE}',
       description:
-        'A Afarer associa-se a distribuidores e importadores globais de SUP através de fabrico OEM em volume, soluções de marca privada, apoio a mercados regionais e gestão fiável da cadeia de fornecimento.',
+        'A OLagoon associa-se a distribuidores e importadores globais de SUP através de fabrico OEM em volume, soluções de marca privada, apoio a mercados regionais e gestão fiável da cadeia de fornecimento.',
     },
     hero: {
       tagline: 'Parceiro Regional OEM e de Cadeia de Abastecimento™',
@@ -5177,13 +5177,13 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Capacidade de Produção OEM em Grande Escala',
           description:
-            'A Afarer apoia encomendas de volume médio, remessas de contentores e acordos anuais de fornecimento em três etapas de cooperação: teste de mercado (1.000–3.000 un.), expansão regional (5.000–10.000 un.) e escala de grande distribuidor (10.000–20.000+ un.).',
+            'A OLagoon apoia encomendas de volume médio, remessas de contentores e acordos anuais de fornecimento em três etapas de cooperação: teste de mercado (1.000–3.000 un.), expansão regional (5.000–10.000 un.) e escala de grande distribuidor (10.000–20.000+ un.).',
           features: ['Etapa de Teste de Mercado', 'Etapa de Expansão Regional', 'Etapa de Grande Distribuidor'],
         },
         {
           title: 'Desenvolvimento de Marca OEM Exclusiva',
           description:
-            'A Afarer apoia os distribuidores que querem ir além da importação, criando marcas de marca própria com posicionamento personalizado, seleção de produtos, design gráfico, embalagem e coleções de produtos exclusivas.',
+            'A OLagoon apoia os distribuidores que querem ir além da importação, criando marcas de marca própria com posicionamento personalizado, seleção de produtos, design gráfico, embalagem e coleções de produtos exclusivas.',
           features: [
             'Desenvolvimento de Marca Própria',
             'Coleções de Produtos Exclusivas',
@@ -5193,19 +5193,19 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Programa de Proteção de Mercado Regional',
           description:
-            'Para parceiros qualificados, a Afarer oferece cooperação territorial baseada no tamanho do mercado e no compromisso, diferenciação de produto através de grafismos e configurações exclusivas e apoio à rede de revendedores.',
+            'Para parceiros qualificados, a OLagoon oferece cooperação territorial baseada no tamanho do mercado e no compromisso, diferenciação de produto através de grafismos e configurações exclusivas e apoio à rede de revendedores.',
           features: ['Cooperação Territorial', 'Diferenciação de Produto', 'Apoio à Rede de Revendedores'],
         },
         {
           title: 'Planeamento Completo de Portefólio de Produtos',
           description:
-            'A Afarer ajuda os distribuidores a construir categorias completas de desportos aquáticos incluindo SUP all-round, SUP de touring, SUP para crianças, SUP de pesca, SUP de yoga, acessórios e equipamento de recreação aquática.',
+            'A OLagoon ajuda os distribuidores a construir categorias completas de desportos aquáticos incluindo SUP all-round, SUP de touring, SUP para crianças, SUP de pesca, SUP de yoga, acessórios e equipamento de recreação aquática.',
           features: ['Categorias de Produtos SUP', 'Expansão de Produtos Adicionais', 'Acessórios'],
         },
         {
           title: 'Apoio à Otimização Logística',
           description:
-            'A Afarer apoia a otimização de carga de contentores para maximizar a eficiência de envio e a economia de importação, o planeamento de mistura de produtos que combina modelos de venda rápida com artigos premium e a coordenação da documentação de exportação.',
+            'A OLagoon apoia a otimização de carga de contentores para maximizar a eficiência de envio e a economia de importação, o planeamento de mistura de produtos que combina modelos de venda rápida com artigos premium e a coordenação da documentação de exportação.',
           features: [
             'Otimização de Carga de Contentores',
             'Planeamento de Mistura de Produtos',
@@ -5215,19 +5215,19 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Controlo de Qualidade Para Mercados Internacionais',
           description:
-            'A gestão de qualidade da Afarer inclui inspeção de materiais de PVC e drop stitch, monitorização de produção dos processos de fabrico e inspeção final de embarque da aparência, acessórios, embalagem e quantidade.',
+            'A gestão de qualidade da OLagoon inclui inspeção de materiais de PVC e drop stitch, monitorização de produção dos processos de fabrico e inspeção final de embarque da aparência, acessórios, embalagem e quantidade.',
           features: ['Inspeção de Materiais', 'Monitorização de Produção', 'Inspeção Final de Embarque'],
         },
         {
           title: 'Apoio de Vendas ao Distribuidor',
           description:
-            'A Afarer apoia os parceiros com especificações de produto e informação técnica, materiais de marketing incluindo imagens de produto e de lifestyle e formação de produto sobre vantagens, aplicações e posicionamento de vendas.',
+            'A OLagoon apoia os parceiros com especificações de produto e informação técnica, materiais de marketing incluindo imagens de produto e de lifestyle e formação de produto sobre vantagens, aplicações e posicionamento de vendas.',
           features: ['Informação de Produto', 'Materiais de Marketing', 'Formação de Produto'],
         },
         {
           title: 'Parceria de Fornecimento a Longo Prazo',
           description:
-            'A Afarer foca relações para além de encomendas únicas, oferecendo uma base de fabrico estável, desenvolvimento contínuo de produtos e apoio ao crescimento do negócio de importador a distribuidor e a proprietário de marca regional.',
+            'A OLagoon foca relações para além de encomendas únicas, oferecendo uma base de fabrico estável, desenvolvimento contínuo de produtos e apoio ao crescimento do negócio de importador a distribuidor e a proprietário de marca regional.',
           features: [
             'Base de Fabrico Estável',
             'Desenvolvimento Contínuo de Produto',
@@ -5248,7 +5248,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Análise de Mercado Regional',
           detail:
-            'A Afarer ajudou a identificar a procura de SUP para principiantes, oportunidades de mercado de recreação familiar e aplicações turísticas específicas da região do Médio Oriente.',
+            'A OLagoon ajudou a identificar a procura de SUP para principiantes, oportunidades de mercado de recreação familiar e aplicações turísticas específicas da região do Médio Oriente.',
         },
         {
           title: 'Desenvolvimento de Portefólio de Produtos',
@@ -5279,28 +5279,28 @@ const pt: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Austrália',
             background:
               'A PaddleHub Australia era um pequeno importador gerido pelo fundador James Whitfield, ex-surfista competitivo que distribuía pranchas SUP chinesas genéricas a 45 lojas de surf locais havia 3 anos, com receita anual de cerca de AU$1,8 milhões. Enfrentava margens em erosão à medida que concorrentes praticavam preços mais baixos e os fornecedores recusavam oferecer exclusividade. James percebeu que precisava de uma marca própria única com proteção territorial para construir valor duradouro. Tinha AU$350 mil de capital disponível e um armazém em Burleigh Heads, mas precisava de um parceiro de fabrico que entregasse pranchas de qualidade OEM com características de design específicas para a Austrália e exclusividade regional para a Oceânia.',
-            goal: 'Criar uma marca SUP própria com 12 modelos únicos, assinar mais de 200 contas de revendedores na Austrália e NZ em 18 meses, alcançar AU$6 milhões de receita anual de grossista e assegurar direitos exclusivos de distribuição da Afarer para a Oceânia.',
+            goal: 'Criar uma marca SUP própria com 12 modelos únicos, assinar mais de 200 contas de revendedores na Austrália e NZ em 18 meses, alcançar AU$6 milhões de receita anual de grossista e assegurar direitos exclusivos de distribuição da OLagoon para a Oceânia.',
           },
           steps: [
             {
               title: 'Negociação de Parceria Estratégica e Acordo de Território Exclusivo',
               detail:
-                'Em fevereiro de 2024, James apresentou o seu caso de negócio ao VP de Parcerias Globais da Afarer numa reunião de 3 dias na instalação da Afarer em Shenzhen. A Afarer conduziu um estudo de viabilidade de mercado mostrando que a Austrália tinha mais de 340 lojas de surf, mais de 180 retalhistas de desportos aquáticos e mais de 60 revendedores marinhos que podiam vender SUP, mas apenas 23% ofereciam atualmente a categoria. A Afarer concedeu à PaddleHub direitos exclusivos de distribuição na Oceânia para as famílias de plataformas «WaveGlide» e «Expedition», exigindo uma compra anual mínima de AU$2,5 milhões. James comprometeu-se com um MOQ inicial de AU$800 mil e aceitou os marcos de desenvolvimento territorial da Afarer, incluindo metas de contagem de revendedores exclusivos.',
+                'Em fevereiro de 2024, James apresentou o seu caso de negócio ao VP de Parcerias Globais da OLagoon numa reunião de 3 dias na instalação da OLagoon em Shenzhen. A OLagoon conduziu um estudo de viabilidade de mercado mostrando que a Austrália tinha mais de 340 lojas de surf, mais de 180 retalhistas de desportos aquáticos e mais de 60 revendedores marinhos que podiam vender SUP, mas apenas 23% ofereciam atualmente a categoria. A OLagoon concedeu à PaddleHub direitos exclusivos de distribuição na Oceânia para as famílias de plataformas «WaveGlide» e «Expedition», exigindo uma compra anual mínima de AU$2,5 milhões. James comprometeu-se com um MOQ inicial de AU$800 mil e aceitou os marcos de desenvolvimento territorial da OLagoon, incluindo metas de contagem de revendedores exclusivos.',
             },
             {
               title: 'Desenvolvimento de Plataforma de Produto Personalizada e Adaptação Australiana',
               detail:
-                'A equipa de I&D da Afarer passou 6 semanas a desenvolver a gama de 12 modelos da PaddleHub, incluindo 5 pranchas all-around, 3 pranchas de touring, 2 pranchas de corrida, 1 prancha de pesca e 1 prancha juvenil. Cada modelo apresentava modificações específicas para a Austrália: PVC estabilizado contra UV para o sol intenso de Queensland, laterais reforçadas para lançamentos rochosos da Grande Barreira de Coral e pacotes gráficos personalizados com padrões inspirados na arte de pontos aborígene. A Afarer produziu 300 unidades de pré-produção em todos os 12 modelos, que James distribuiu a 50 testadores beta incluindo donos de lojas de surf, instrutores de paddle e guias de pesca, que forneceram feedback detalhado que levou a 23 refinamentos de design.',
+                'A equipa de I&D da OLagoon passou 6 semanas a desenvolver a gama de 12 modelos da PaddleHub, incluindo 5 pranchas all-around, 3 pranchas de touring, 2 pranchas de corrida, 1 prancha de pesca e 1 prancha juvenil. Cada modelo apresentava modificações específicas para a Austrália: PVC estabilizado contra UV para o sol intenso de Queensland, laterais reforçadas para lançamentos rochosos da Grande Barreira de Coral e pacotes gráficos personalizados com padrões inspirados na arte de pontos aborígene. A OLagoon produziu 300 unidades de pré-produção em todos os 12 modelos, que James distribuiu a 50 testadores beta incluindo donos de lojas de surf, instrutores de paddle e guias de pesca, que forneceram feedback detalhado que levou a 23 refinamentos de design.',
             },
             {
               title: 'Recrutamento de Rede de Revendedores e Desenvolvimento de Canal',
               detail:
-                'James e a sua equipa de vendas de 3 pessoas lançaram um programa «Dealer Pro» oferecendo preços escalonados, condições de 60 dias a 0% para novas contas, expositores gratuitos e formação de equipas. A Afarer forneceu um sistema CRM partilhado, catálogos de produto, guias comparativos e um site de localização de revendedores. Ao participar no Sydney International Boat Show e em 7 exposições regionais de pesca/exterior, James assinou 97 revendedores nos primeiros 6 meses, incluindo contas maiores como Anaconda (42 lojas), BCF (35 lojas) e 20 lojas de surf independentes. A equipa logística da Afarer estabeleceu um armazém de consolidação em Sydney com garantia de entrega em 14 dias.',
+                'James e a sua equipa de vendas de 3 pessoas lançaram um programa «Dealer Pro» oferecendo preços escalonados, condições de 60 dias a 0% para novas contas, expositores gratuitos e formação de equipas. A OLagoon forneceu um sistema CRM partilhado, catálogos de produto, guias comparativos e um site de localização de revendedores. Ao participar no Sydney International Boat Show e em 7 exposições regionais de pesca/exterior, James assinou 97 revendedores nos primeiros 6 meses, incluindo contas maiores como Anaconda (42 lojas), BCF (35 lojas) e 20 lojas de surf independentes. A equipa logística da OLagoon estabeleceu um armazém de consolidação em Sydney com garantia de entrega em 14 dias.',
             },
             {
               title: 'Lançamento de Marca, Apoio de Marketing e Aceleração do Crescimento',
               detail:
-                'A PaddleHub lançou oficialmente com uma campanha de AU$250 mil com a ex-campeã australiana de SUP Jessica Krieger como embaixadora da marca. A Afarer contribuiu com fundos coletivos de marketing iguais a 4% das compras de grossista e produziu 24 vídeos de produto, fotografia de produto a 360 graus e conteúdos para redes sociais. Em agosto de 2025, a PaddleHub tinha 215 contas ativas de revendedores, AU$5,8 milhões de receita de grossista nos 12 meses anteriores e tinha colocado 3 ordens de produção adicionais num total de AU$3,2 milhões. James expandiu a sua equipa para 12 colaboradores incluindo um gestor de produto em tempo integral, e a PaddleHub tornou-se a segunda maior marca SUP do mercado australiano por número de pontos de venda.',
+                'A PaddleHub lançou oficialmente com uma campanha de AU$250 mil com a ex-campeã australiana de SUP Jessica Krieger como embaixadora da marca. A OLagoon contribuiu com fundos coletivos de marketing iguais a 4% das compras de grossista e produziu 24 vídeos de produto, fotografia de produto a 360 graus e conteúdos para redes sociais. Em agosto de 2025, a PaddleHub tinha 215 contas ativas de revendedores, AU$5,8 milhões de receita de grossista nos 12 meses anteriores e tinha colocado 3 ordens de produção adicionais num total de AU$3,2 milhões. James expandiu a sua equipa para 12 colaboradores incluindo um gestor de produto em tempo integral, e a PaddleHub tornou-se a segunda maior marca SUP do mercado australiano por número de pontos de venda.',
             },
           ],
           results: [
@@ -5316,41 +5316,41 @@ const pt: Record<string, SolutionOverride> = {
             location: 'Dubai, EAU',
             background:
               'A Dune Sports DMCC, liderada pelo empreendedor emiratense Rashid Al Maktoum, era um distribuidor de desportos aquáticos baseado em Dubai com $2,3 milhões de receita anual, fornecendo jet skis e caiaques a revendedores marinhos por todo o CCG. Rashid reconheceu o SUP como uma oportunidade inexplorada no Médio Oriente, onde o turismo de praia, os resorts de luxo e os desportos aquáticos estavam em boom. A região não tinha uma marca SUP dominante e a maioria dos produtos eram importações de baixa qualidade vendidas na Amazon sem serviço ou garantia. Rashid queria tornar-se o parceiro OEM regional exclusivo de uma marca SUP premium que pudesse dominar o mercado do Médio Oriente com um investimento inicial de $1,2 milhão.',
-            goal: 'Assegurar direitos exclusivos de distribuição da Afarer para o Médio Oriente e Norte de África, lançar uma marca regional premium em 8 países, alcançar $5 milhões em receita de grossista em 24 meses e capturar 60%+ de quota no segmento SUP premium do CCG.',
+            goal: 'Assegurar direitos exclusivos de distribuição da OLagoon para o Médio Oriente e Norte de África, lançar uma marca regional premium em 8 países, alcançar $5 milhões em receita de grossista em 24 meses e capturar 60%+ de quota no segmento SUP premium do CCG.',
           },
           steps: [
             {
               title: 'Análise de Mercado Regional e Acordo-Quadro de Exclusividade',
               detail:
-                'Rashid encomendou um estudo de mercado de 6 semanas nos EAU, Arábia Saudita, Catar, Kuwait, Omã, Bahrein, Egito e Jordânia. O estudo identificou mais de 280 potenciais revendedores, incluindo retalhistas marinhos, departamentos de compras hoteleiras e lojas de desportos especializadas, com um mercado endereçável total de $18 milhões anuais. Em abril de 2024, Rashid assinou um acordo OEM exclusivo de 5 anos com a Afarer cobrindo 15 países do MENA, comprometendo-se a uma compra anual mínima de $3 milhões com escalada de 15% ao ano. A Afarer concordou em co-investir $150 mil em materiais de marketing em língua árabe, presença em feiras regionais e um armazém de peças suplentes em Dubai.',
+                'Rashid encomendou um estudo de mercado de 6 semanas nos EAU, Arábia Saudita, Catar, Kuwait, Omã, Bahrein, Egito e Jordânia. O estudo identificou mais de 280 potenciais revendedores, incluindo retalhistas marinhos, departamentos de compras hoteleiras e lojas de desportos especializadas, com um mercado endereçável total de $18 milhões anuais. Em abril de 2024, Rashid assinou um acordo OEM exclusivo de 5 anos com a OLagoon cobrindo 15 países do MENA, comprometendo-se a uma compra anual mínima de $3 milhões com escalada de 15% ao ano. A OLagoon concordou em co-investir $150 mil em materiais de marketing em língua árabe, presença em feiras regionais e um armazém de peças suplentes em Dubai.',
             },
             {
               title: 'Estratégia de Linha de Produtos e Engenharia Adaptada ao Deserto',
               detail:
-                'Os engenheiros da Afarer desenvolveram a marca «Oryx» para a Dune Sports com 8 modelos otimizados para as condições do Médio Oriente: PVC resistente a altas temperaturas (testado até 75 °C de temperatura de superfície), pigmentos estáveis a UV que não desbotavam ao sol árabe e sistemas de quilha resistentes à areia com mecanismos de libertação rápida. A Afarer produziu 500 unidades de pré-lançamento incluindo uma edição especial «Royal Edition» com acentos dourados e pegas em couro para o segmento de resorts de luxo. A equipa de Rashid testou as pranchas no Golfo Arábico, no Mar Vermelho e em piscinas de ondas interiores, alcançando pontuações médias de qualidade de 4,7/5 de 200 testadores.',
+                'Os engenheiros da OLagoon desenvolveram a marca «Oryx» para a Dune Sports com 8 modelos otimizados para as condições do Médio Oriente: PVC resistente a altas temperaturas (testado até 75 °C de temperatura de superfície), pigmentos estáveis a UV que não desbotavam ao sol árabe e sistemas de quilha resistentes à areia com mecanismos de libertação rápida. A OLagoon produziu 500 unidades de pré-lançamento incluindo uma edição especial «Royal Edition» com acentos dourados e pegas em couro para o segmento de resorts de luxo. A equipa de Rashid testou as pranchas no Golfo Arábico, no Mar Vermelho e em piscinas de ondas interiores, alcançando pontuações médias de qualidade de 4,7/5 de 200 testadores.',
             },
             {
               title: 'Desenvolvimento de Canal e Parcerias com Hotéis e Resorts',
               detail:
-                'Rashid construiu uma equipa regional de vendas de 5 pessoas baseada em Dubai, Riade e Cairo. A equipa de desenvolvimento de canal da Afarer forneceu guiões de recrutamento de revendedores, apresentações e um programa de revendedores de 3 níveis (Platinum, Gold, Silver). A Dune Sports assegurou acordos exclusivos de distribuição com 65 revendedores marinhos e contratos de compra direta com 22 cadeias hoteleiras de luxo incluindo Jumeirah, Four Seasons e St. Regis. A marca «Oryx» foi especificada como equipamento padrão para novos desenvolvimentos de resorts Rixos e Anantara em Ras Al Khaimah, no Red Sea Project e nas Maldivas.',
+                'Rashid construiu uma equipa regional de vendas de 5 pessoas baseada em Dubai, Riade e Cairo. A equipa de desenvolvimento de canal da OLagoon forneceu guiões de recrutamento de revendedores, apresentações e um programa de revendedores de 3 níveis (Platinum, Gold, Silver). A Dune Sports assegurou acordos exclusivos de distribuição com 65 revendedores marinhos e contratos de compra direta com 22 cadeias hoteleiras de luxo incluindo Jumeirah, Four Seasons e St. Regis. A marca «Oryx» foi especificada como equipamento padrão para novos desenvolvimentos de resorts Rixos e Anantara em Ras Al Khaimah, no Red Sea Project e nas Maldivas.',
             },
             {
               title: 'Lançamento Regional, Campanha de Ramadão e Domínio de Mercado',
               detail:
-                'A marca «Oryx» foi lançada em todos os 8 mercados em outubro de 2024 com eventos simultâneos no Dubai Marina Mall, no Red Sea Mall da Arábia Saudita e no Doha Festival City do Catar. A Afarer apoiou com uma campanha de marketing de $200 mil incluindo anúncios de televisão em árabe, parcerias com 15 aventureiros de exterior do Médio Oriente e patrocínio do Dubai SUP Festival. Em março de 2025, a Dune Sports tinha vendido 8.400 unidades, alcançado $4,7 milhões de receita de grossista e capturado 58% do mercado SUP premium do CCG. Rashid exerceu a sua primeira renovação anual de opção com a Afarer para $4,5 milhões em compras anuais.',
+                'A marca «Oryx» foi lançada em todos os 8 mercados em outubro de 2024 com eventos simultâneos no Dubai Marina Mall, no Red Sea Mall da Arábia Saudita e no Doha Festival City do Catar. A OLagoon apoiou com uma campanha de marketing de $200 mil incluindo anúncios de televisão em árabe, parcerias com 15 aventureiros de exterior do Médio Oriente e patrocínio do Dubai SUP Festival. Em março de 2025, a Dune Sports tinha vendido 8.400 unidades, alcançado $4,7 milhões de receita de grossista e capturado 58% do mercado SUP premium do CCG. Rashid exerceu a sua primeira renovação anual de opção com a OLagoon para $4,5 milhões em compras anuais.',
             },
           ],
           results: [
             '$4,7 milhões de receita de grossista nos primeiros 12 meses em 8 países, alcançando 94% da meta de 24 meses em metade do tempo',
             '58% de quota de mercado capturada no segmento SUP premium do CCG ($349–$799 de retalho), dominando marcas concorrentes fragmentadas',
             '22 contratos exclusivos de compras hoteleiras/de resort assegurados, representando 3.100 unidades vendidas ao setor da hospitalidade com taxa de reencomenda de 72%',
-            'A valorização da Dune Sports cresceu de $2,3 milhões para $12 milhões em 14 meses, com Rashid a expandir para categorias adjacentes de desportos aquáticos através da plataforma OEM da Afarer',
+            'A valorização da Dune Sports cresceu de $2,3 milhões para $12 milhões em 14 meses, com Rashid a expandir para categorias adjacentes de desportos aquáticos através da plataforma OEM da OLagoon',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Distribuidores Globais Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Distribuidores Globais Escolhem a OLagoon',
       items: [
         {
           title: 'Escala de Fabrico',
@@ -5386,38 +5386,38 @@ const pt: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'O que distingue a Afarer de outros fabricantes OEM de SUP para distribuidores?',
+        question: 'O que distingue a OLagoon de outros fabricantes OEM de SUP para distribuidores?',
         answer:
-          'A Afarer fornece um modelo de parceria completo para além do fabrico, incluindo programas de proteção de mercado regional, apoio ao desenvolvimento de marca exclusiva, otimização logística e formação de vendas para distribuidores. Focamo-nos em relações de longo prazo que ajudam os parceiros a crescer de importadores a proprietários de marcas regionais.',
+          'A OLagoon fornece um modelo de parceria completo para além do fabrico, incluindo programas de proteção de mercado regional, apoio ao desenvolvimento de marca exclusiva, otimização logística e formação de vendas para distribuidores. Focamo-nos em relações de longo prazo que ajudam os parceiros a crescer de importadores a proprietários de marcas regionais.',
       },
       {
         question: 'Como funciona o programa de proteção de mercado regional para distribuidores exclusivos?',
         answer:
-          'Para parceiros qualificados, a Afarer oferece acordos de cooperação baseados em território, diferenciação de produto através de grafismos e configurações exclusivas e apoio à rede de revendedores. Isto garante que os distribuidores podem investir no desenvolvimento de mercado com a confiança de que a sua posição regional está protegida.',
+          'Para parceiros qualificados, a OLagoon oferece acordos de cooperação baseados em território, diferenciação de produto através de grafismos e configurações exclusivas e apoio à rede de revendedores. Isto garante que os distribuidores podem investir no desenvolvimento de mercado com a confiança de que a sua posição regional está protegida.',
       },
       {
         question: 'Quais são as quantidades típicas de encomenda para remessas SUP ao nível de contentor?',
         answer:
-          'A Afarer apoia três etapas de cooperação: teste de mercado (1.000–3.000 un.), expansão regional (5.000–10.000 un.) e escala de grande distribuidor (10.000–20.000+ un.). A otimização de carga de contentores ajuda a maximizar a eficiência de envio e a reduzir os custos de importação por unidade.',
+          'A OLagoon apoia três etapas de cooperação: teste de mercado (1.000–3.000 un.), expansão regional (5.000–10.000 un.) e escala de grande distribuidor (10.000–20.000+ un.). A otimização de carga de contentores ajuda a maximizar a eficiência de envio e a reduzir os custos de importação por unidade.',
       },
       {
-        question: 'Podem os distribuidores criar as suas próprias marcas SUP de marca própria com a Afarer?',
+        question: 'Podem os distribuidores criar as suas próprias marcas SUP de marca própria com a OLagoon?',
         answer:
-          'Sim, a Afarer apoia o desenvolvimento completo de marca própria incluindo posicionamento de marca, seleção de produtos, design gráfico personalizado, personalização de embalagem e coleções exclusivas de produtos. Isto permite que os distribuidores construam marcas regionais em vez de competirem apenas por preço.',
+          'Sim, a OLagoon apoia o desenvolvimento completo de marca própria incluindo posicionamento de marca, seleção de produtos, design gráfico personalizado, personalização de embalagem e coleções exclusivas de produtos. Isto permite que os distribuidores construam marcas regionais em vez de competirem apenas por preço.',
       },
       {
-        question: 'Como ajuda a Afarer na otimização logística e redução de custos de importação?',
+        question: 'Como ajuda a OLagoon na otimização logística e redução de custos de importação?',
         answer:
-          'A Afarer fornece otimização de carga de contentores para maximizar a eficiência de envio, planeamento de mistura de produtos que combina modelos de venda rápida com artigos premium e apoio abrangente à documentação de exportação para agilizar o despacho aduaneiro e reduzir atrasos.',
+          'A OLagoon fornece otimização de carga de contentores para maximizar a eficiência de envio, planeamento de mistura de produtos que combina modelos de venda rápida com artigos premium e apoio abrangente à documentação de exportação para agilizar o despacho aduaneiro e reduzir atrasos.',
       },
       {
         question: 'Que processos de controlo de qualidade estão em vigor para remessas internacionais?',
         answer:
-          'A Afarer implementa uma gestão de qualidade em três etapas: inspeção de materiais dos componentes PVC e drop stitch, monitorização de produção em processo e inspeção final pré-embarque cobrindo aparência, acessórios, embalagem e exatidão de quantidade.',
+          'A OLagoon implementa uma gestão de qualidade em três etapas: inspeção de materiais dos componentes PVC e drop stitch, monitorização de produção em processo e inspeção final pré-embarque cobrindo aparência, acessórios, embalagem e exatidão de quantidade.',
       },
     ],
     cta: {
-      title: 'Torne-se Um Parceiro Regional da Afarer',
+      title: 'Torne-se Um Parceiro Regional da OLagoon',
       subtitle: 'O seu mercado merece um parceiro de fornecimento de desportos aquáticos fiável.',
       primaryAction: {
         text: 'Comece Hoje a Sua Parceria OEM Regional',
@@ -5439,9 +5439,9 @@ const pt: Record<string, SolutionOverride> = {
       tagline: 'Pacote de Atividades Aquáticas de Resort™',
       title: 'Soluções Premium de SUP e Desportos Aquáticos Para Hotéis de Luxo, Resorts e Marcas de Hospitalidade',
       subtitle:
-        'A Afarer fornece Pacotes Completos de Atividades Aquáticas de Resort concebidos especificamente para negócios de hospitalidade. Ajudamos resorts de luxo, hotéis de praia, destinos insulares, eco resorts e retiros de bem-estar a criar experiências aquáticas com marca própria através de frotas SUP personalizadas, sistemas de armazenagem e formação de equipas.',
+        'A OLagoon fornece Pacotes Completos de Atividades Aquáticas de Resort concebidos especificamente para negócios de hospitalidade. Ajudamos resorts de luxo, hotéis de praia, destinos insulares, eco resorts e retiros de bem-estar a criar experiências aquáticas com marca própria através de frotas SUP personalizadas, sistemas de armazenagem e formação de equipas.',
       image: {
-        alt: 'Pacote de atividades aquáticas de resort da Afarer com pranchas SUP personalizadas com marca',
+        alt: 'Pacote de atividades aquáticas de resort da OLagoon com pranchas SUP personalizadas com marca',
       },
     },
     challenge: {
@@ -5475,7 +5475,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de Frota SUP Personalizada Para Resorts',
           description:
-            'A Afarer ajuda os resorts a desenvolver frotas de equipamento dedicadas com base na localização, no perfil dos hóspedes, no ambiente aquático e nos programas de atividades. Os pacotes vão desde configurações de resort familiar com pranchas all-round estáveis até pacotes de ilha de luxo com designs premium e pacotes de retiro de bem-estar com pranchas SUP largas de yoga.',
+            'A OLagoon ajuda os resorts a desenvolver frotas de equipamento dedicadas com base na localização, no perfil dos hóspedes, no ambiente aquático e nos programas de atividades. Os pacotes vão desde configurações de resort familiar com pranchas all-round estáveis até pacotes de ilha de luxo com designs premium e pacotes de retiro de bem-estar com pranchas SUP largas de yoga.',
           features: [
             'Pacote de resort familiar',
             'Pacote de resort de ilha de luxo',
@@ -5486,7 +5486,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Personalização de Marca Para Resorts',
           description:
-            'O seu equipamento aquático torna-se parte da jornada do hóspede. A Afarer apoia a integração de logótipo personalizado, design de cores personalizado em sintonia com a arquitetura do resort e as cores da marca, e embalagem premium com acessórios marcados e materiais de instrução para os hóspedes.',
+            'O seu equipamento aquático torna-se parte da jornada do hóspede. A OLagoon apoia a integração de logótipo personalizado, design de cores personalizado em sintonia com a arquitetura do resort e as cores da marca, e embalagem premium com acessórios marcados e materiais de instrução para os hóspedes.',
           features: [
             'Impressão de logótipo personalizado',
             'Design de cores em sintonia com a marca',
@@ -5497,27 +5497,27 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Sistema de Armazenagem e Gestão de Equipamento Para Resorts',
           description:
-            'A Afarer ajuda os resorts a planear a armazenagem de equipamento com suportes SUP, sistemas de organização e soluções de proteção meteorológica que consideram a exposição solar, a humidade e os ambientes costeiros. As equipas podem gerir com eficiência a preparação diária de equipamento, a saída de equipamento aos hóspedes e a inspeção de manutenção.',
+            'A OLagoon ajuda os resorts a planear a armazenagem de equipamento com suportes SUP, sistemas de organização e soluções de proteção meteorológica que consideram a exposição solar, a humidade e os ambientes costeiros. As equipas podem gerir com eficiência a preparação diária de equipamento, a saída de equipamento aos hóspedes e a inspeção de manutenção.',
         },
         {
           title: 'Apoio à Formação de Segurança e Operação das Equipas',
           description:
-            'A Afarer fornece orientação operacional incluindo procedimentos de manuseamento de equipamento, instruções de insuflação, métodos de limpeza, diretrizes de armazenagem, procedimentos de segurança dos hóspedes e listas de verificação de operação diária que cobrem a inspeção antes da utilização e a limpeza após a utilização.',
+            'A OLagoon fornece orientação operacional incluindo procedimentos de manuseamento de equipamento, instruções de insuflação, métodos de limpeza, diretrizes de armazenagem, procedimentos de segurança dos hóspedes e listas de verificação de operação diária que cobrem a inspeção antes da utilização e a limpeza após a utilização.',
         },
         {
           title: 'Pacote Completo de Atividades Aquáticas de Resort',
           description:
-            'Os pacotes de exemplo incluem pranchas SUP personalizadas com marca, pagaias ajustáveis, bombas, leashes de segurança, suportes de armazenagem, kits de reparação e guias de operação para as equipas. A Afarer pode também apoiar a expansão para produtos de fitness aquático e equipamento aquático familiar.',
+            'Os pacotes de exemplo incluem pranchas SUP personalizadas com marca, pagaias ajustáveis, bombas, leashes de segurança, suportes de armazenagem, kits de reparação e guias de operação para as equipas. A OLagoon pode também apoiar a expansão para produtos de fitness aquático e equipamento aquático familiar.',
         },
         {
           title: 'Equipamento Comercial de Baixa Manutenção',
           description:
-            'O equipamento de resort deve equilibrar a experiência dos hóspedes, a durabilidade e a eficiência de manutenção. A Afarer foca a construção durável com PVC reforçado e componentes de grau comercial, manutenção fácil com acessórios padrão e valor a longo prazo que reduz a frequência de substituição.',
+            'O equipamento de resort deve equilibrar a experiência dos hóspedes, a durabilidade e a eficiência de manutenção. A OLagoon foca a construção durável com PVC reforçado e componentes de grau comercial, manutenção fácil com acessórios padrão e valor a longo prazo que reduz a frequência de substituição.',
         },
         {
           title: 'Apoio ao Design de Experiências de Resort',
           description:
-            'A Afarer ajuda a transformar equipamento em atividades marcantes para os hóspedes, incluindo experiências SUP ao pôr do sol para casais, aventuras oceânicas em família, programas de bem-estar flutuante para retiros de yoga e atividades de exploração ecológica para resorts de natureza e destinos marinhos.',
+            'A OLagoon ajuda a transformar equipamento em atividades marcantes para os hóspedes, incluindo experiências SUP ao pôr do sol para casais, aventuras oceânicas em família, programas de bem-estar flutuante para retiros de yoga e atividades de exploração ecológica para resorts de natureza e destinos marinhos.',
         },
       ],
     },
@@ -5533,7 +5533,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Planeamento de Atividades do Resort',
           detail:
-            'A Afarer analisou a demografia dos hóspedes, as condições da praia e os objetivos de atividades, recomendando de seguida uma Frota SUP de Resort personalizada, adaptada ao posicionamento de luxo do resort e às expetativas dos hóspedes.',
+            'A OLagoon analisou a demografia dos hóspedes, as condições da praia e os objetivos de atividades, recomendando de seguida uma Frota SUP de Resort personalizada, adaptada ao posicionamento de luxo do resort e às expetativas dos hóspedes.',
         },
         {
           title: 'Personalização de Produto',
@@ -5564,29 +5564,29 @@ const pt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, México',
             background:
-              'Ana Sofía Villanueva, 36 anos, é a Diretora de Experiências de Hóspedes da «Casa del Pacífico», um eco-resort de luxo com 62 suites na costa do Pacífico de Punta Mita (tarifas de quarto $1.800–$8.000/noite). Os 5 hectares do resort incluem 3 praias privadas, 2 piscinas-lagoa e um estuário de mangal que conduz a cenotes escondidos. Em 2023, os inquéritos aos hóspedes mostraram as «experiências aquáticas únicas» como a procura não satisfeita n.º 1 (78% dos hóspedes as desejavam). Ana contactou a Afarer depois de um resort concorrente em Tulum ter lançado um programa SUP — ela precisava de algo mais exclusivo. O desafio: um único pacote que funcionasse na ondulação do oceano, nos mangais calmos e nos cenotes de água doce, com níveis de luz variáveis, correntes e sensibilidades ecológicas.',
+              'Ana Sofía Villanueva, 36 anos, é a Diretora de Experiências de Hóspedes da «Casa del Pacífico», um eco-resort de luxo com 62 suites na costa do Pacífico de Punta Mita (tarifas de quarto $1.800–$8.000/noite). Os 5 hectares do resort incluem 3 praias privadas, 2 piscinas-lagoa e um estuário de mangal que conduz a cenotes escondidos. Em 2023, os inquéritos aos hóspedes mostraram as «experiências aquáticas únicas» como a procura não satisfeita n.º 1 (78% dos hóspedes as desejavam). Ana contactou a OLagoon depois de um resort concorrente em Tulum ter lançado um programa SUP — ela precisava de algo mais exclusivo. O desafio: um único pacote que funcionasse na ondulação do oceano, nos mangais calmos e nos cenotes de água doce, com níveis de luz variáveis, correntes e sensibilidades ecológicas.',
             goal: 'Desenvolver um pacote «Experiência SUP Signature de Cenote ao Oceano» (tour guiado de 3 horas, fotografia profissional e menu de degustação mexicano) a $450/pessoa com margem de lucro mínima de 40% e classificação de satisfação dos hóspedes de 4,8+/5.',
           },
           steps: [
             {
               title: 'Levantamento Local e Avaliação de Impacto Ambiental de Março de 2024',
               detail:
-                'O diretor de negócios da Afarer para a América Latina, Felipe Ortíz, e a bióloga marinha Dra. Camila Reyes passaram 10 dias a mapear as vias navegáveis da «Casa del Pacífico». Identificaram 4 ambientes SUP distintos: o lançamento na praia do Pacífico (quebra de ondas consistente de 2–3 pés), o túnel de mangal (canais estreitos de 2 metros com raízes pendentes), o cenote escondido (água doce com 18 metros de profundidade, temperatura constante de 24 °C, tapetes microbianos delicados nas paredes) e a piscina-lagoa (para hóspedes principiantes). A Dra. Reyes conduziu amostragem de sedimentos e censos de aves nidificantes para determinar a capacidade de carga: máximo de 8 hóspedes por tour, com lançamento às 7h30, antes da alimentação das aves marinhas. A avaliação concluiu que as pranchas SUP padrão com pigmentos de fosfato de zinco lixivariam para o cenote — a Afarer mudou para pigmentos à base de cerâmica.',
+                'O diretor de negócios da OLagoon para a América Latina, Felipe Ortíz, e a bióloga marinha Dra. Camila Reyes passaram 10 dias a mapear as vias navegáveis da «Casa del Pacífico». Identificaram 4 ambientes SUP distintos: o lançamento na praia do Pacífico (quebra de ondas consistente de 2–3 pés), o túnel de mangal (canais estreitos de 2 metros com raízes pendentes), o cenote escondido (água doce com 18 metros de profundidade, temperatura constante de 24 °C, tapetes microbianos delicados nas paredes) e a piscina-lagoa (para hóspedes principiantes). A Dra. Reyes conduziu amostragem de sedimentos e censos de aves nidificantes para determinar a capacidade de carga: máximo de 8 hóspedes por tour, com lançamento às 7h30, antes da alimentação das aves marinhas. A avaliação concluiu que as pranchas SUP padrão com pigmentos de fosfato de zinco lixivariam para o cenote — a OLagoon mudou para pigmentos à base de cerâmica.',
             },
             {
               title: 'Prancha Personalizada «Explora México» com Sistema de Fotografia Integrado',
               detail:
-                'A Afarer desenhou a «Explora México 10.8» com construção de 4 camadas, fundo antincrustante seguro para recifes (revestimento de silicone sem biocida, testado durante 200 horas em água do Pacífico a 28 °C) e um convés verde-azeitona fosco antirreflexo. Ana pediu fotografia profissional como parte da experiência — a Afarer integrou uma plataforma de lançamento de drone impermeável na proa da prancha (uma plataforma reforçada de fibra de carbono de 25x25 cm com revestimento antiderrapante, testada para segurar um DJI Mini 4 Pro durante o lançamento/recuperação à mão). Cada prancha tinha também um ponto de montagem para um mastro de câmara subaquática. As pranchas foram produzidas em edição limitada com a marca «Casa del Pacífico» e padrões geométricos inspirados nos maias — em relevo, não pintados, para evitar escorrimento tóxico.',
+                'A OLagoon desenhou a «Explora México 10.8» com construção de 4 camadas, fundo antincrustante seguro para recifes (revestimento de silicone sem biocida, testado durante 200 horas em água do Pacífico a 28 °C) e um convés verde-azeitona fosco antirreflexo. Ana pediu fotografia profissional como parte da experiência — a OLagoon integrou uma plataforma de lançamento de drone impermeável na proa da prancha (uma plataforma reforçada de fibra de carbono de 25x25 cm com revestimento antiderrapante, testada para segurar um DJI Mini 4 Pro durante o lançamento/recuperação à mão). Cada prancha tinha também um ponto de montagem para um mastro de câmara subaquática. As pranchas foram produzidas em edição limitada com a marca «Casa del Pacífico» e padrões geométricos inspirados nos maias — em relevo, não pintados, para evitar escorrimento tóxico.',
             },
             {
               title: 'Programa de Certificação de Guias e Integração Logística',
               detail:
-                'Em maio de 2024, o formador sénior de guias da Afarer, Diego Castillo, conduziu um programa intensivo de 2 semanas que certificou 8 guias de atividades da «Casa del Pacífico». O currículo cobriu: técnica de lançamento/recuperação em zona de ondulação para as quebras da praia do Pacífico, navegação no mangal com as marés (o guia deve conhecer a janela de maré de 3 horas para evitar encalhe em lama na maré baixa), etiqueta no cenote (sem protetor solar, sem tocar nas paredes — a Dra. Reyes regressou para uma sessão de meio dia sobre sensibilidades), protocolos de emergência (incluindo encontros com pumas — o mangal alberga um macho residente) e orientação bilingue em espanhol/inglês. A Afarer integrou também o inventário SUP no sistema Oracle Opera PMS do resort, para que as reservas de SUP aparecessem automaticamente nas contas dos hóspedes. O fluxo de fotografia: os guias usam GoPro Hero12 Black com um perfil de cor pré-definido «Cenote», com fotos transferidas para os hóspedes através de cartão NFC em 30 minutos.',
+                'Em maio de 2024, o formador sénior de guias da OLagoon, Diego Castillo, conduziu um programa intensivo de 2 semanas que certificou 8 guias de atividades da «Casa del Pacífico». O currículo cobriu: técnica de lançamento/recuperação em zona de ondulação para as quebras da praia do Pacífico, navegação no mangal com as marés (o guia deve conhecer a janela de maré de 3 horas para evitar encalhe em lama na maré baixa), etiqueta no cenote (sem protetor solar, sem tocar nas paredes — a Dra. Reyes regressou para uma sessão de meio dia sobre sensibilidades), protocolos de emergência (incluindo encontros com pumas — o mangal alberga um macho residente) e orientação bilingue em espanhol/inglês. A OLagoon integrou também o inventário SUP no sistema Oracle Opera PMS do resort, para que as reservas de SUP aparecessem automaticamente nas contas dos hóspedes. O fluxo de fotografia: os guias usam GoPro Hero12 Black com um perfil de cor pré-definido «Cenote», com fotos transferidas para os hóspedes através de cartão NFC em 30 minutos.',
             },
             {
               title: 'Lançamento na Época Alta de Novembro de 2024 e Cobertura Mediática',
               detail:
-                'A experiência «Cenote ao Oceano» foi lançada a 15 de novembro de 2024 (início da época alta de Punta Mita). Nos primeiros 30 dias: 112 tours vendidos a $450/pessoa = $50.400 de receita. Uma jornalista da Condé Nast Traveler foi a hóspede n.º 47; o seu artigo «A Nova Eco-Emoção do México: Paddleboard de um Cenote ao Pacífico», publicado em janeiro de 2025, gerou mais de 800 reservas até março. A satisfação dos hóspedes teve uma média de 4,94/5 em 340 tours. O resort acrescentou um extra de fotografia «Golden Hour» de $150 (sessão ao pôr do sol com piloto profissional de drone, champanhe e ostras) — 94% dos hóspedes o compraram. Em abril de 2025, o programa tinha gerado $1,12 milhões em receita direta com margem de lucro de 52%. A «Casa del Pacífico» encomendou 20 pranchas adicionais para 2026 e contratou a Afarer para desenvolver um pacote «SUP de Observação de Baleias» (migração de jubartes de dezembro a março).',
+                'A experiência «Cenote ao Oceano» foi lançada a 15 de novembro de 2024 (início da época alta de Punta Mita). Nos primeiros 30 dias: 112 tours vendidos a $450/pessoa = $50.400 de receita. Uma jornalista da Condé Nast Traveler foi a hóspede n.º 47; o seu artigo «A Nova Eco-Emoção do México: Paddleboard de um Cenote ao Pacífico», publicado em janeiro de 2025, gerou mais de 800 reservas até março. A satisfação dos hóspedes teve uma média de 4,94/5 em 340 tours. O resort acrescentou um extra de fotografia «Golden Hour» de $150 (sessão ao pôr do sol com piloto profissional de drone, champanhe e ostras) — 94% dos hóspedes o compraram. Em abril de 2025, o programa tinha gerado $1,12 milhões em receita direta com margem de lucro de 52%. A «Casa del Pacífico» encomendou 20 pranchas adicionais para 2026 e contratou a OLagoon para desenvolver um pacote «SUP de Observação de Baleias» (migração de jubartes de dezembro a março).',
             },
           ],
           results: [
@@ -5602,19 +5602,19 @@ const pt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Tailândia',
             background:
-              'Pimchanok «Mint» Suwannarat, 32 anos, é a Diretora de Experiências da «Veranda Samui», um resort de 5 estrelas com vista para a Praia de Chaweng Noi, com 98 villas e uma estadia média de 6,4 noites. Mint notou que 73% dos hóspedes reservavam pelo menos uma «excursão insular» (tipicamente um tour de lancha ao Parque Marinho de Ang Thong a 3.500 THB/pessoa), mas os inquéritos pós-estadia queixavam-se de «tours cheios de gente» e «demasiadas paragens, pagaia insuficiente». Ela imaginou uma expedição SUP de vários dias em que os hóspedes pagaiassem entre Koh Samui e as ilhas próximas, ficando em eco-lodges e acampamentos de praia. Nenhum resort na Tailândia oferecia isto. Ela precisava que a Afarer desenhasse equipamento de grau de expedição capaz de suportar jornadas autossuficientes de vários dias com equipamento de campismo e provisões, segundo padrões de luxo ocidentais.',
+              'Pimchanok «Mint» Suwannarat, 32 anos, é a Diretora de Experiências da «Veranda Samui», um resort de 5 estrelas com vista para a Praia de Chaweng Noi, com 98 villas e uma estadia média de 6,4 noites. Mint notou que 73% dos hóspedes reservavam pelo menos uma «excursão insular» (tipicamente um tour de lancha ao Parque Marinho de Ang Thong a 3.500 THB/pessoa), mas os inquéritos pós-estadia queixavam-se de «tours cheios de gente» e «demasiadas paragens, pagaia insuficiente». Ela imaginou uma expedição SUP de vários dias em que os hóspedes pagaiassem entre Koh Samui e as ilhas próximas, ficando em eco-lodges e acampamentos de praia. Nenhum resort na Tailândia oferecia isto. Ela precisava que a OLagoon desenhasse equipamento de grau de expedição capaz de suportar jornadas autossuficientes de vários dias com equipamento de campismo e provisões, segundo padrões de luxo ocidentais.',
             goal: 'Lançar «A Paddle do Arquipélago de Samui» — uma expedição SUP guiada de 5 dias e 4 noites cobrindo 4 ilhas (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → regresso) a 89.000 THB ($2.500)/pessoa, com um mínimo de 12 partidas por ano e 100% de ocupação.',
           },
           steps: [
             {
               title: 'Mapeamento de Rota e Levantamento Logístico Pelo Arquipélago de Samui',
               detail:
-                'Em outubro de 2023, o especialista em expedições da Afarer para a Ásia-Pacífico, Tomo Kato, e o ecólogo marinho tailandês Dr. Narong Chaiyasit passaram 14 dias a fazer caiaque e a dar apoio motorizado à rota proposta. Identificaram 7 fatores críticos: padrões de vento de monção (a Monção de Nordeste de novembro a janeiro torna perigosa a travessia Koh Samui–Koh Phangan; fevereiro a outubro é seguro), locais de campismo em Koh Tao (apenas 2 pontos frente à praia com licenças para tendas — cada um limitado a 10 pessoas), reabastecimento de água doce (nenhum em Koh Nang Yuan — os hóspedes transportam 4 L por pessoa por dia) e corredores de navegação de recife (o recife da Shark Bay de Koh Tao exige pranchas com mais de 40 cm de calado livre na maré baixa). A rota final foi de 68 km ao longo de 5 dias, com distâncias diárias de pagaia de 8–18 km. Tomo testou 14 tipos de âncora para campismo de praia (o estilo Danforth segurou melhor nos fundos arenosos de Samui).',
+                'Em outubro de 2023, o especialista em expedições da OLagoon para a Ásia-Pacífico, Tomo Kato, e o ecólogo marinho tailandês Dr. Narong Chaiyasit passaram 14 dias a fazer caiaque e a dar apoio motorizado à rota proposta. Identificaram 7 fatores críticos: padrões de vento de monção (a Monção de Nordeste de novembro a janeiro torna perigosa a travessia Koh Samui–Koh Phangan; fevereiro a outubro é seguro), locais de campismo em Koh Tao (apenas 2 pontos frente à praia com licenças para tendas — cada um limitado a 10 pessoas), reabastecimento de água doce (nenhum em Koh Nang Yuan — os hóspedes transportam 4 L por pessoa por dia) e corredores de navegação de recife (o recife da Shark Bay de Koh Tao exige pranchas com mais de 40 cm de calado livre na maré baixa). A rota final foi de 68 km ao longo de 5 dias, com distâncias diárias de pagaia de 8–18 km. Tomo testou 14 tipos de âncora para campismo de praia (o estilo Danforth segurou melhor nos fundos arenosos de Samui).',
             },
             {
               title: 'Prancha «Archipelago Expedition» com Características de Sobrevivência e Conforto',
               detail:
-                'A Afarer desenhou a «Veranda Explorer 13.0» com 400 L de volume — suficiente para transportar 35 kg de equipamento de campismo mais 20 kg de itens pessoais do hóspede. As características incluíam: uma escotilha de carga à proa impermeável com fecho de rosca (testada em submersão de 1 metro durante 30 minutos), 6 pontos de fixação em corrente de margarida para dry bags, um sistema de elásticos do convés com libertação rápida para acesso à câmara e uma quilha leme amovível para orientação no oceano (o troço Koh Phangan–Koh Tao tem uma corrente transversal de 2 nós). Mint insistiu no conforto: cada prancha tinha um encosto insuflável (o «LoungePak») com porta-copos, e um dossel proprietário «ShadowDeck» (mastro de fibra de carbono tensionado com tecido UPF 50+, testado com calor de 35 °C). A Afarer produziu 24 pranchas: 12 para hóspedes, 6 para guias, 6 de backup.',
+                'A OLagoon desenhou a «Veranda Explorer 13.0» com 400 L de volume — suficiente para transportar 35 kg de equipamento de campismo mais 20 kg de itens pessoais do hóspede. As características incluíam: uma escotilha de carga à proa impermeável com fecho de rosca (testada em submersão de 1 metro durante 30 minutos), 6 pontos de fixação em corrente de margarida para dry bags, um sistema de elásticos do convés com libertação rápida para acesso à câmara e uma quilha leme amovível para orientação no oceano (o troço Koh Phangan–Koh Tao tem uma corrente transversal de 2 nós). Mint insistiu no conforto: cada prancha tinha um encosto insuflável (o «LoungePak») com porta-copos, e um dossel proprietário «ShadowDeck» (mastro de fibra de carbono tensionado com tecido UPF 50+, testado com calor de 35 °C). A OLagoon produziu 24 pranchas: 12 para hóspedes, 6 para guias, 6 de backup.',
             },
             {
               title: 'Recrutamento da Equipa de Guias e Certificação de Segurança',
@@ -5624,7 +5624,7 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Expedição Inaugural de Janeiro de 2025 e Pipeline de Reservas de 12 Meses',
               detail:
-                'A viagem inaugural partiu a 15 de janeiro de 2025 com 6 hóspedes (3 casais, todos australianos, entre 34 e 52 anos). A equipa de Mint filmou a expedição para conteúdo. A travessia do 2.º dia para Koh Phangan apanhou um aguaceiro surpresa (ventos de 30 nós durante 45 minutos) — as pranchas da Afarer aguentaram-no sem um único capotamento; o protocolo dos guias ativou a formação de «jangada de segurança» (pranchas amarradas em padrão de estrela). Em março de 2025, 11 das 12 partidas programadas de 2025 estavam totalmente reservadas (lista de espera de 40 hóspedes). Projeção de receita para 2025: 12 × 6 hóspedes × 89.000 THB = 6,41 milhões de THB ($178.000). O CEO da Veranda aprovou a construção de um «Pavilhão de Expedição» dedicado frente à praia para os briefings pré-partida. Mint está agora a desenvolver uma rota «Family Explorer» de 3 dias (distâncias mais curtas, campismo baseado no resort) para 2026.',
+                'A viagem inaugural partiu a 15 de janeiro de 2025 com 6 hóspedes (3 casais, todos australianos, entre 34 e 52 anos). A equipa de Mint filmou a expedição para conteúdo. A travessia do 2.º dia para Koh Phangan apanhou um aguaceiro surpresa (ventos de 30 nós durante 45 minutos) — as pranchas da OLagoon aguentaram-no sem um único capotamento; o protocolo dos guias ativou a formação de «jangada de segurança» (pranchas amarradas em padrão de estrela). Em março de 2025, 11 das 12 partidas programadas de 2025 estavam totalmente reservadas (lista de espera de 40 hóspedes). Projeção de receita para 2025: 12 × 6 hóspedes × 89.000 THB = 6,41 milhões de THB ($178.000). O CEO da Veranda aprovou a construção de um «Pavilhão de Expedição» dedicado frente à praia para os briefings pré-partida. Mint está agora a desenvolver uma rota «Family Explorer» de 3 dias (distâncias mais curtas, campismo baseado no resort) para 2026.',
             },
           ],
           results: [
@@ -5636,8 +5636,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Resorts Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Resorts Escolhem a OLagoon',
       items: [
         {
           title: 'Experiência dos Hóspedes',
@@ -5665,38 +5665,38 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Que pranchas SUP são as melhores para atividades aquáticas de resort?',
         answer:
-          'Os resorts precisam de pranchas SUP estáveis e amigáveis para principiantes que sirvam hóspedes de todos os níveis de habilidade. A Afarer oferece pacotes de resort familiar com pranchas all-round, pacotes de ilha de luxo com designs premium e pacotes de retiro de bem-estar com pranchas largas de yoga, todos personalizáveis com a marca do resort.',
+          'Os resorts precisam de pranchas SUP estáveis e amigáveis para principiantes que sirvam hóspedes de todos os níveis de habilidade. A OLagoon oferece pacotes de resort familiar com pranchas all-round, pacotes de ilha de luxo com designs premium e pacotes de retiro de bem-estar com pranchas largas de yoga, todos personalizáveis com a marca do resort.',
       },
       {
-        question: 'A Afarer pode personalizar pranchas SUP com o logótipo e as cores da marca do meu resort?',
+        question: 'A OLagoon pode personalizar pranchas SUP com o logótipo e as cores da marca do meu resort?',
         answer:
-          'Sim, a Afarer fornece personalização completa incluindo integração de logótipo, design de cores em sintonia com a arquitetura e a identidade da marca do seu resort, e embalagem premium com acessórios marcados e materiais de instrução para os hóspedes.',
+          'Sim, a OLagoon fornece personalização completa incluindo integração de logótipo, design de cores em sintonia com a arquitetura e a identidade da marca do seu resort, e embalagem premium com acessórios marcados e materiais de instrução para os hóspedes.',
       },
       {
         question: 'Fornecem soluções de armazenagem para equipamento SUP de resort?',
         answer:
-          'Sim, a Afarer ajuda a planear a armazenagem de equipamento com suportes SUP, sistemas de organização e soluções de proteção meteorológica que consideram a exposição solar, a humidade e os ambientes costeiros, para proteger o seu investimento e manter a aparência do resort.',
+          'Sim, a OLagoon ajuda a planear a armazenagem de equipamento com suportes SUP, sistemas de organização e soluções de proteção meteorológica que consideram a exposição solar, a humidade e os ambientes costeiros, para proteger o seu investimento e manter a aparência do resort.',
       },
       {
         question: 'Que formação precisam as equipas de resort para operar programas SUP?',
         answer:
-          'A Afarer fornece orientação operacional incluindo procedimentos de manuseamento de equipamento, instruções de insuflação, métodos de limpeza, diretrizes de armazenagem, procedimentos de segurança dos hóspedes e listas de verificação de operação diária, para que qualquer funcionário possa gerir o programa profissionalmente.',
+          'A OLagoon fornece orientação operacional incluindo procedimentos de manuseamento de equipamento, instruções de insuflação, métodos de limpeza, diretrizes de armazenagem, procedimentos de segurança dos hóspedes e listas de verificação de operação diária, para que qualquer funcionário possa gerir o programa profissionalmente.',
       },
       {
-        question: 'Quão duráveis são as pranchas SUP da Afarer para utilização diária em resort?',
+        question: 'Quão duráveis são as pranchas SUP da OLagoon para utilização diária em resort?',
         answer:
-          'As pranchas SUP de resort da Afarer apresentam construção em PVC reforçado, componentes de grau comercial e estruturas drop stitch duráveis concebidas para resistir à utilização diária pelos hóspedes, mantendo a aparência e o desempenho premium.',
+          'As pranchas SUP de resort da OLagoon apresentam construção em PVC reforçado, componentes de grau comercial e estruturas drop stitch duráveis concebidas para resistir à utilização diária pelos hóspedes, mantendo a aparência e o desempenho premium.',
       },
       {
         question: 'Podemos oferecer SUP junto com outras atividades aquáticas?',
         answer:
-          'Sim, a Afarer pode apoiar a expansão para produtos de fitness aquático, equipamento aquático familiar e outros produtos de recreação ao ar livre para criar um portefólio completo de atividades aquáticas de resort.',
+          'Sim, a OLagoon pode apoiar a expansão para produtos de fitness aquático, equipamento aquático familiar e outros produtos de recreação ao ar livre para criar um portefólio completo de atividades aquáticas de resort.',
       },
     ],
     cta: {
-      title: 'Crie a Sua Experiência Aquática de Resort Com a Afarer',
+      title: 'Crie a Sua Experiência Aquática de Resort Com a OLagoon',
       subtitle:
-        'O seu destino já tem o oceano. Agora crie momentos inesquecíveis nele. A Afarer ajuda hotéis de luxo, resorts insulares e destinos de bem-estar a construir frotas SUP personalizadas, atividades aquáticas com marca e soluções completas de equipamento para resorts.',
+        'O seu destino já tem o oceano. Agora crie momentos inesquecíveis nele. A OLagoon ajuda hotéis de luxo, resorts insulares e destinos de bem-estar a construir frotas SUP personalizadas, atividades aquáticas com marca e soluções completas de equipamento para resorts.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto de Atividades Aquáticas de Resort',
       },
@@ -5710,7 +5710,7 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante de SUP de marca privada | Fornecedor OEM de paddle boards para retalho | {SITE}',
       description:
-        'A Afarer oferece soluções de fabrico de SUP de marca privada para retalhistas outdoor, cadeias de artigos desportivos e marcas globais. Paddle boards personalizados com embalagem de retalho, apoio de conformidade regulamentar e fornecimento OEM fiável.',
+        'A OLagoon oferece soluções de fabrico de SUP de marca privada para retalhistas outdoor, cadeias de artigos desportivos e marcas globais. Paddle boards personalizados com embalagem de retalho, apoio de conformidade regulamentar e fornecimento OEM fiável.',
     },
     hero: {
       tagline: 'Programa de Marca Própria para Retalho™',
@@ -5752,25 +5752,25 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Desenvolvimento de Produtos SUP de Marca Própria Personalizados',
           description:
-            'A Afarer ajuda os retalhistas a desenvolver produtos com base nos clientes-alvo, no posicionamento de preços, nos canais de venda e nas tendências de mercado, abrangendo coleções SUP de entrada de gama, lifestyle de gama média e premium.',
+            'A OLagoon ajuda os retalhistas a desenvolver produtos com base nos clientes-alvo, no posicionamento de preços, nos canais de venda e nas tendências de mercado, abrangendo coleções SUP de entrada de gama, lifestyle de gama média e premium.',
           features: ['Coleção SUP de Entrada de Gama', 'Coleção SUP Lifestyle de Gama Média', 'Coleção SUP Premium'],
         },
         {
           title: 'Otimização de Margens de Retalho',
           description:
-            'A Afarer ajuda os retalhistas a otimizar a estrutura de produtos através do controlo de custos de fabrico e do ajuste de configuração de produto para corresponder ao preço de retalho-alvo, às expetativas dos clientes e aos objetivos de margem.',
+            'A OLagoon ajuda os retalhistas a otimizar a estrutura de produtos através do controlo de custos de fabrico e do ajuste de configuração de produto para corresponder ao preço de retalho-alvo, às expetativas dos clientes e aos objetivos de margem.',
           features: ['Controlo de Custos de Fabrico', 'Otimização da Configuração de Produto', 'Seleção de Materiais'],
         },
         {
           title: 'Design de Embalagem Pronta Para Retalho',
           description:
-            'A Afarer apoia soluções completas de embalagem, incluindo embalagem de exposição com caixas coloridas e imagens de produto, embalagem para ecommerce otimizada para Amazon e Shopify, e integração da história da marca.',
+            'A OLagoon apoia soluções completas de embalagem, incluindo embalagem de exposição com caixas coloridas e imagens de produto, embalagem para ecommerce otimizada para Amazon e Shopify, e integração da história da marca.',
           features: ['Embalagem de Exposição', 'Embalagem Para Ecommerce', 'Integração da História da Marca'],
         },
         {
           title: 'Apoio Internacional de Qualidade e Conformidade',
           description:
-            'A Afarer apoia os retalhistas com documentação de qualidade, incluindo informações de conformidade de materiais, apoio a testes de produto e documentação de exportação para ajudar a gerir os requisitos de importação.',
+            'A OLagoon apoia os retalhistas com documentação de qualidade, incluindo informações de conformidade de materiais, apoio a testes de produto e documentação de exportação para ajudar a gerir os requisitos de importação.',
           features: [
             'Apoio à Conformidade de Materiais',
             'Apoio a Testes de Produto',
@@ -5780,7 +5780,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Fabrico OEM em Grande Volume',
           description:
-            'A Afarer apoia diferentes escalas de compra, desde lançamentos de novos produtos de 500–2000 un. até expansões de retalho de 3000–10000 un. e programas globais de retalho com acordos anuais de fornecimento.',
+            'A OLagoon apoia diferentes escalas de compra, desde lançamentos de novos produtos de 500–2000 un. até expansões de retalho de 3000–10000 un. e programas globais de retalho com acordos anuais de fornecimento.',
           features: [
             'Lançamento de Novo Produto (500–2000 un.)',
             'Expansão de Retalho (3000–10000 un.)',
@@ -5790,24 +5790,24 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Planeamento Sazonal da Cadeia de Abastecimento',
           description:
-            'A Afarer apoia o planeamento de produtos com base na procura de primavera/verão e nos mercados regionais, além do agendamento de produção para ajudar os retalhistas a gerir o timing de inventário, o planeamento de armazéns e as campanhas promocionais.',
+            'A OLagoon apoia o planeamento de produtos com base na procura de primavera/verão e nos mercados regionais, além do agendamento de produção para ajudar os retalhistas a gerir o timing de inventário, o planeamento de armazéns e as campanhas promocionais.',
         },
         {
           title: 'Apoio à Inovação de Produtos ODM',
           description:
-            'Os retalhistas precisam de diferenciação. A Afarer apoia formas de prancha personalizadas, grafismos personalizados com a identidade da marca de retalho e pacotes de produtos incluindo kits SUP e kits completos de exterior.',
+            'Os retalhistas precisam de diferenciação. A OLagoon apoia formas de prancha personalizadas, grafismos personalizados com a identidade da marca de retalho e pacotes de produtos incluindo kits SUP e kits completos de exterior.',
           features: ['Formas de Prancha Personalizadas', 'Grafismos Personalizados', 'Pacotes de Produtos'],
         },
         {
           title: 'Apoio a Retalho Multicanal',
           description:
-            'A Afarer apoia produtos para lojas físicas de retalho com embalagem atrativa, plataformas de ecommerce com imagens fortes e redes de revendedores com fornecimento estável e especificações consistentes.',
+            'A OLagoon apoia produtos para lojas físicas de retalho com embalagem atrativa, plataformas de ecommerce com imagens fortes e redes de revendedores com fornecimento estável e especificações consistentes.',
           features: ['Lojas Físicas de Retalho', 'Plataformas de Ecommerce', 'Redes de Revendedores'],
         },
         {
           title: 'Controlo de Qualidade e Fiabilidade de Entrega',
           description:
-            'A Afarer compreende que os retalhistas vendem confiança. Os sistemas de qualidade incluem inspeção de produção, inspeção pré-embarque e controlo de consistência de lotes que garantem a mesma qualidade em grandes encomendas.',
+            'A OLagoon compreende que os retalhistas vendem confiança. Os sistemas de qualidade incluem inspeção de produção, inspeção pré-embarque e controlo de consistência de lotes que garantem a mesma qualidade em grandes encomendas.',
           features: ['Inspeção de Produção', 'Inspeção Pré-Embarque', 'Controlo de Consistência de Lotes'],
         },
       ],
@@ -5824,7 +5824,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Planeamento da Linha de Produtos',
           detail:
-            'A Afarer ajudou a criar uma Coleção SUP de Marca Própria incluindo SUP familiar de entrada de gama, SUP de touring e modelos SUP lifestyle premium direcionados à sua base de clientes existente.',
+            'A OLagoon ajudou a criar uma Coleção SUP de Marca Própria incluindo SUP familiar de entrada de gama, SUP de touring e modelos SUP lifestyle premium direcionados à sua base de clientes existente.',
         },
         {
           title: 'Personalização de Produto',
@@ -5861,29 +5861,29 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Benchmarking de Fornecimento e Workshop de Especificação de Produto',
               detail:
-                'Em março de 2024, a equipa de Sarah voou para a sede da Afarer em Shenzhen para um workshop de produto de 3 dias. Testaram 14 construções SUP diferentes, incluindo variações de densidade de drop stitch, perfis de lateral e configurações de tapete de convés. A equipa de engenharia da Afarer criou 3 formulações PVC personalizadas para cumprir as normas australianas de radiação UV. A Rebel Sport comprometeu-se com um MOQ inicial de 5.000 unidades dividido por 6 SKUs com um investimento adiantado de AU$1,8 milhões, incluindo 2 pranchas all-around, 2 formas de touring, 1 plataforma de yoga e 1 prancha juvenil.',
+                'Em março de 2024, a equipa de Sarah voou para a sede da OLagoon em Shenzhen para um workshop de produto de 3 dias. Testaram 14 construções SUP diferentes, incluindo variações de densidade de drop stitch, perfis de lateral e configurações de tapete de convés. A equipa de engenharia da OLagoon criou 3 formulações PVC personalizadas para cumprir as normas australianas de radiação UV. A Rebel Sport comprometeu-se com um MOQ inicial de 5.000 unidades dividido por 6 SKUs com um investimento adiantado de AU$1,8 milhões, incluindo 2 pranchas all-around, 2 formas de touring, 1 plataforma de yoga e 1 prancha juvenil.',
             },
             {
               title: 'Marca Personalizada, Embalagem e Engenharia de Conformidade',
               detail:
-                'A equipa de design da Afarer desenvolveu a identidade de marca «Coastal Force» da Rebel Sport, incluindo grafismos de convés personalizados, combinações de cores exclusivas da Rebel e embalagem pronta para retalho com expositores de prateleira. A equipa de conformidade assegurou a certificação AS/NZS 1900-2014, a conformidade com a Lei do Consumidor Australiana e completou os testes de trânsito ISTA 3A. A Afarer produziu 200 unidades de pré-produção enviadas por via aérea em abril de 2024 para testes em loja em 12 localizações âncora, onde 87% das unidades expostas se venderam em 2 semanas ao preço de retalho cheio de AU$399.',
+                'A equipa de design da OLagoon desenvolveu a identidade de marca «Coastal Force» da Rebel Sport, incluindo grafismos de convés personalizados, combinações de cores exclusivas da Rebel e embalagem pronta para retalho com expositores de prateleira. A equipa de conformidade assegurou a certificação AS/NZS 1900-2014, a conformidade com a Lei do Consumidor Australiana e completou os testes de trânsito ISTA 3A. A OLagoon produziu 200 unidades de pré-produção enviadas por via aérea em abril de 2024 para testes em loja em 12 localizações âncora, onde 87% das unidades expostas se venderam em 2 semanas ao preço de retalho cheio de AU$399.',
             },
             {
               title: 'Lançamento de Inventário Escalonado e Programa de Formação de Equipas',
               detail:
-                'A Afarer coordenou um calendário de entrega em 3 fases por via marítima: Fase 1 (1.500 unidades para o centro de distribuição de Sydney até 1 de junho), Fase 2 (2.000 unidades para os centros de Melbourne e Brisbane até 1 de julho), Fase 3 (1.500 unidades para os centros de Perth e Adelaide até 1 de agosto). A equipa de formação da Afarer conduziu 24 sessões virtuais de formação de formadores para os gerentes de departamento da Rebel, cobrindo características de produto, diferenças de construção das pranchas, vendas cruzadas de acessórios e questões de ajuste ao cliente. Cada loja recebeu uma prancha de demonstração e um guia comparativo de ponto de venda.',
+                'A OLagoon coordenou um calendário de entrega em 3 fases por via marítima: Fase 1 (1.500 unidades para o centro de distribuição de Sydney até 1 de junho), Fase 2 (2.000 unidades para os centros de Melbourne e Brisbane até 1 de julho), Fase 3 (1.500 unidades para os centros de Perth e Adelaide até 1 de agosto). A equipa de formação da OLagoon conduziu 24 sessões virtuais de formação de formadores para os gerentes de departamento da Rebel, cobrindo características de produto, diferenças de construção das pranchas, vendas cruzadas de acessórios e questões de ajuste ao cliente. Cada loja recebeu uma prancha de demonstração e um guia comparativo de ponto de venda.',
             },
             {
               title: 'Campanha de Lançamento, Monitorização de Desempenho e Otimização de Reencomenda',
               detail:
-                'A linha «Coastal Force» foi lançada a 15 de agosto de 2024 com uma campanha de marketing de AU$500 mil incluindo sinalética em loja, destaque em catálogos e parcerias com influenciadores e atletas australianos de paddle board. A equipa de conta dedicada da Afarer forneceu relatórios semanais de sell-through através de um painel partilhado. Em novembro de 2024, a taxa de sell-through teve uma média de 72% em todos os SKUs, com o modelo all-around de 10\'6" a representar 41% das vendas. A Rebel colocou uma reencomenda de 3.000 unidades para a época de 2025, incluindo 2 novos modelos de touring baseados no feedback dos clientes.',
+                'A linha «Coastal Force» foi lançada a 15 de agosto de 2024 com uma campanha de marketing de AU$500 mil incluindo sinalética em loja, destaque em catálogos e parcerias com influenciadores e atletas australianos de paddle board. A equipa de conta dedicada da OLagoon forneceu relatórios semanais de sell-through através de um painel partilhado. Em novembro de 2024, a taxa de sell-through teve uma média de 72% em todos os SKUs, com o modelo all-around de 10\'6" a representar 41% das vendas. A Rebel colocou uma reencomenda de 3.000 unidades para a época de 2025, incluindo 2 novos modelos de touring baseados no feedback dos clientes.',
             },
           ],
           results: [
             'AU$4,8 milhões em vendas de retalho no primeiro ano (14% acima da meta de AU$4,2 milhões) em 87 lojas com taxa de sell-through de 62%',
             'Margem bruta de 55,3% alcançada contra 32% de margem em marcas terceiras, acrescentando AU$1,1 milhão de lucro incremental',
             '19,2% de quota de mercado capturada no segmento australiano de SUP abaixo de AU$500 em 10 meses após o lançamento',
-            'Taxa de devolução de clientes de 3,2% (a média da indústria é 8–12%) graças ao controlo de qualidade da Afarer e à construção certificada para a Austrália',
+            'Taxa de devolução de clientes de 3,2% (a média da indústria é 8–12%) graças ao controlo de qualidade da OLagoon e à construção certificada para a Austrália',
           ],
         },
         {
@@ -5898,35 +5898,35 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Validação de Conceito e Sprint de Design de Produto',
               detail:
-                "Em setembro de 2024, a equipa de desenvolvimento de produto da Macy's, liderada por David, contratou a Afarer para um sprint de design rápido de 8 semanas. Os designers industriais da Afarer criaram 8 pranchas conceptuais com especificações detalhadas, incluindo 3 pranchas all-around (10', 11', 12') e 1 prancha de touring. A Macy's selecionou 4 SKUs com marca exclusiva «Boardwalk Reserve», combinações de cores inspiradas no litoral (Seafoam, Sandbar, Coral, Navy) e preços de retalho de $349–$549. A Afarer produziu renderizações 3D personalizadas e mockups físicos em 14 dias, e a Macy's aprovou a linha completa a 15 de outubro de 2024 com uma ordem de compra de 6.000 unidades avaliada em $1,2 milhões em grossista.",
+                "Em setembro de 2024, a equipa de desenvolvimento de produto da Macy's, liderada por David, contratou a OLagoon para um sprint de design rápido de 8 semanas. Os designers industriais da OLagoon criaram 8 pranchas conceptuais com especificações detalhadas, incluindo 3 pranchas all-around (10', 11', 12') e 1 prancha de touring. A Macy's selecionou 4 SKUs com marca exclusiva «Boardwalk Reserve», combinações de cores inspiradas no litoral (Seafoam, Sandbar, Coral, Navy) e preços de retalho de $349–$549. A OLagoon produziu renderizações 3D personalizadas e mockups físicos em 14 dias, e a Macy's aprovou a linha completa a 15 de outubro de 2024 com uma ordem de compra de 6.000 unidades avaliada em $1,2 milhões em grossista.",
             },
             {
               title: 'Integração da Cadeia de Abastecimento e Preparação de Conformidade',
               detail:
-                "A equipa de cadeia de abastecimento da Afarer trabalhou com o departamento de conformidade da Macy's para cumprir todas as normas de segurança CPSC dos EUA, a certificação ASTM F3340-18 e os requisitos Prop 65 da Califórnia. A embalagem foi desenhada para os requisitos de prateleira da Macy's, incluindo etiquetas EAS, códigos QR com ligação a guias de montagem em vídeo e dimensões de caixa compactas (36x16x12 polegadas) otimizadas para o slotting do centro de distribuição da Macy's. A Afarer fabricou 500 unidades de pré-venda em novembro de 2024 e enviou-as por via aérea para a Macy's para testes em 20 lojas e fotografia online. Cada loja de teste vendeu uma média de 14 unidades por semana durante a época festiva a $399 de retalho.",
+                "A equipa de cadeia de abastecimento da OLagoon trabalhou com o departamento de conformidade da Macy's para cumprir todas as normas de segurança CPSC dos EUA, a certificação ASTM F3340-18 e os requisitos Prop 65 da Califórnia. A embalagem foi desenhada para os requisitos de prateleira da Macy's, incluindo etiquetas EAS, códigos QR com ligação a guias de montagem em vídeo e dimensões de caixa compactas (36x16x12 polegadas) otimizadas para o slotting do centro de distribuição da Macy's. A OLagoon fabricou 500 unidades de pré-venda em novembro de 2024 e enviou-as por via aérea para a Macy's para testes em 20 lojas e fotografia online. Cada loja de teste vendeu uma média de 14 unidades por semana durante a época festiva a $399 de retalho.",
             },
             {
               title: 'Execução de Lançamento Multicanal e Experiência em Loja',
               detail:
-                "A remessa marítima principal de 5.500 unidades chegou ao centro de distribuição da Macy's em Robbinsville, NJ, a 1 de fevereiro de 2025. A Afarer forneceu 340 expositores à escala real com armazenagem integrada de pranchas e módulos de acessórios. A equipa de formação da Afarer criou um módulo de vídeo de 12 minutos para 8.500 colaboradores sazonais da Macy's, cobrindo conhecimento de produto e técnicas de venda cruzada de bombas, pagaias e coletes. A coleção foi lançada no macys.com a 1 de março de 2025 e em todas as 340 lojas até 15 de março, com uma experiência dedicada de loja-na-loja «Boardwalk Reserve» nas 50 localizações de maior volume.",
+                "A remessa marítima principal de 5.500 unidades chegou ao centro de distribuição da Macy's em Robbinsville, NJ, a 1 de fevereiro de 2025. A OLagoon forneceu 340 expositores à escala real com armazenagem integrada de pranchas e módulos de acessórios. A equipa de formação da OLagoon criou um módulo de vídeo de 12 minutos para 8.500 colaboradores sazonais da Macy's, cobrindo conhecimento de produto e técnicas de venda cruzada de bombas, pagaias e coletes. A coleção foi lançada no macys.com a 1 de março de 2025 e em todas as 340 lojas até 15 de março, com uma experiência dedicada de loja-na-loja «Boardwalk Reserve» nas 50 localizações de maior volume.",
             },
             {
               title: 'Análise de Desempenho e Reposição Sazonal',
               detail:
-                "Em maio de 2025, o sell-through atingiu 58%, com a prancha all-around Seafoam de 11' como a mais vendida (36% das vendas). A taxa de conversão online foi de 4,2%, significativamente acima da média de 2,1% da categoria de artigos desportivos da Macy's. O painel de inventário em tempo real da Afarer permitiu à Macy's acionar ordens de reposição automaticamente quando o stock de loja caía abaixo de 6 unidades. O programa gerou $2,1 milhões em vendas de acessórios (pagaias, bombas, sacos, coletes) com 62% de margem. A Macy's exerceu a sua opção de reencomenda de 4.000 unidades para o Holiday 2025 com 2 novas combinações de cores de tema neve/surf.",
+                "Em maio de 2025, o sell-through atingiu 58%, com a prancha all-around Seafoam de 11' como a mais vendida (36% das vendas). A taxa de conversão online foi de 4,2%, significativamente acima da média de 2,1% da categoria de artigos desportivos da Macy's. O painel de inventário em tempo real da OLagoon permitiu à Macy's acionar ordens de reposição automaticamente quando o stock de loja caía abaixo de 6 unidades. O programa gerou $2,1 milhões em vendas de acessórios (pagaias, bombas, sacos, coletes) com 62% de margem. A Macy's exerceu a sua opção de reencomenda de 4.000 unidades para o Holiday 2025 com 2 novas combinações de cores de tema neve/surf.",
             },
           ],
           results: [
             '$4,1 milhões em GMV total em 340 lojas e no macys.com nos primeiros 7 meses, superando a meta de $3,5 milhões em 17%',
             'Markup inicial de 53% alcançado contra 38% em equipamento de exterior comparável de marcas terceiras, contribuindo com $1,6 milhões em lucro bruto',
             'Taxa de conversão online de 4,2% com taxa de anexação de acessórios de 11,7%, gerando $2,1 milhões adicionais em vendas de alto valor marginal',
-            'Taxa de entrega pontual de 98,4% da cadeia de abastecimento fábrica-centro de distribuição da Afarer, sem rupturas de stock na época de vendas de pico de março a maio',
+            'Taxa de entrega pontual de 98,4% da cadeia de abastecimento fábrica-centro de distribuição da OLagoon, sem rupturas de stock na época de vendas de pico de março a maio',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que os Compradores de Retalho Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que os Compradores de Retalho Escolhem a OLagoon',
       items: [
         {
           title: 'Desenvolvimento de Produto',
@@ -5964,37 +5964,37 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'O que é um programa SUP de marca própria e como funciona para retalhistas de exterior?',
         answer:
-          'Um programa SUP de marca própria permite que os retalhistas de exterior criem e vendam pranchas de paddle sob o seu próprio nome de marca. A Afarer gere todo o processo OEM/ODM, incluindo desenvolvimento de produto, fabrico, apoio à certificação, design de embalagem e fornecimento em volume. Os retalhistas podem lançar coleções SUP personalizadas sem investir em equipamento de fábrica ou conhecimento especializado de fabrico insuflável.',
+          'Um programa SUP de marca própria permite que os retalhistas de exterior criem e vendam pranchas de paddle sob o seu próprio nome de marca. A OLagoon gere todo o processo OEM/ODM, incluindo desenvolvimento de produto, fabrico, apoio à certificação, design de embalagem e fornecimento em volume. Os retalhistas podem lançar coleções SUP personalizadas sem investir em equipamento de fábrica ou conhecimento especializado de fabrico insuflável.',
       },
       {
         question:
           'Como podem os retalhistas garantir que os seus produtos SUP de marca própria cumprem as normas internacionais de segurança?',
         answer:
-          'A Afarer apoia os retalhistas com documentação abrangente de conformidade, incluindo requisitos CE e REACH, dados de segurança de materiais, relatórios de testes de produto e registos de inspeção de qualidade. Isto garante que os produtos SUP de marca própria cumprem as normas regulatórias para os mercados europeu, norte-americano e outros internacionais.',
+          'A OLagoon apoia os retalhistas com documentação abrangente de conformidade, incluindo requisitos CE e REACH, dados de segurança de materiais, relatórios de testes de produto e registos de inspeção de qualidade. Isto garante que os produtos SUP de marca própria cumprem as normas regulatórias para os mercados europeu, norte-americano e outros internacionais.',
       },
       {
         question: 'Que quantidades mínimas de encomenda são tipicamente exigidas para o fabrico SUP personalizado?',
         answer:
-          'A Afarer acomoda diferentes escalas. Lançamentos de novos produtos e testes de mercado começam tipicamente em 500–2000 unidades. Ordens de expansão de retalho variam entre 3000–10000 unidades. Grandes programas globais de retalho com acordos anuais de fornecimento podem escalar para dezenas de milhares de unidades em vários modelos.',
+          'A OLagoon acomoda diferentes escalas. Lançamentos de novos produtos e testes de mercado começam tipicamente em 500–2000 unidades. Ordens de expansão de retalho variam entre 3000–10000 unidades. Grandes programas globais de retalho com acordos anuais de fornecimento podem escalar para dezenas de milhares de unidades em vários modelos.',
       },
       {
         question: 'Quanto tempo demora a desenvolver e lançar uma linha de produtos SUP de marca própria?',
         answer:
-          'O prazo depende da complexidade da personalização. O processo simplificado da Afarer, do conceito de produto à entrega pronta para prateleira, demora tipicamente 8–16 semanas, incluindo planeamento de produto, aprovação de design, desenvolvimento de protótipos, apoio à certificação, produção e envio. Recomenda-se planeamento sazonal para alinhar com os ciclos de procura de primavera/verão.',
+          'O prazo depende da complexidade da personalização. O processo simplificado da OLagoon, do conceito de produto à entrega pronta para prateleira, demora tipicamente 8–16 semanas, incluindo planeamento de produto, aprovação de design, desenvolvimento de protótipos, apoio à certificação, produção e envio. Recomenda-se planeamento sazonal para alinhar com os ciclos de procura de primavera/verão.',
       },
       {
         question: 'Podem os retalhistas personalizar a embalagem SUP para corresponder à identidade da sua marca?',
         answer:
-          'Sim, a Afarer apoia a personalização completa de embalagem incluindo caixas coloridas com marca, imagens de produto, destaques de características e mensagens de marca. Estão disponíveis opções de embalagem tanto para prateleiras físicas de retalho como para plataformas de ecommerce como Amazon e Shopify, com orientação sobre fotografia de produto e estrutura de informação.',
+          'Sim, a OLagoon apoia a personalização completa de embalagem incluindo caixas coloridas com marca, imagens de produto, destaques de características e mensagens de marca. Estão disponíveis opções de embalagem tanto para prateleiras físicas de retalho como para plataformas de ecommerce como Amazon e Shopify, com orientação sobre fotografia de produto e estrutura de informação.',
       },
       {
-        question: 'Que apoio fornece a Afarer para o planeamento da procura sazonal?',
+        question: 'Que apoio fornece a OLagoon para o planeamento da procura sazonal?',
         answer:
-          'A Afarer ajuda os retalhistas a gerir a procura sazonal de produtos de exterior através de agendamento coordenado de produção, timing de inventário, planeamento de armazéns e alinhamento de campanhas promocionais. Os acordos anuais de fornecimento permitem prazos previsíveis e capacidade de produção garantida durante as épocas de pico.',
+          'A OLagoon ajuda os retalhistas a gerir a procura sazonal de produtos de exterior através de agendamento coordenado de produção, timing de inventário, planeamento de armazéns e alinhamento de campanhas promocionais. Os acordos anuais de fornecimento permitem prazos previsíveis e capacidade de produção garantida durante as épocas de pico.',
       },
     ],
     cta: {
-      title: 'Construa a Sua Coleção SUP de Marca Própria Com a Afarer',
+      title: 'Construa a Sua Coleção SUP de Marca Própria Com a OLagoon',
       subtitle:
         'Os seus clientes já compram produtos de exterior. Agora crie a sua própria categoria de desportos aquáticos.',
       primaryAction: {
@@ -6017,9 +6017,9 @@ const pt: Record<string, SolutionOverride> = {
       title:
         'Soluções Profissionais de Equipamento SUP Para Escolas de Desportos Aquáticos, Programas Juvenis e Organizações de Educação ao Ar Livre',
       subtitle:
-        'A Afarer fornece o Programa de Equipamento para Academia SUP, uma solução completa de equipamento desenvolvida para ambientes de ensino profissional. Ajudamos escolas de SUP, centros de formação juvenil, colónias de verão e empresas de educação ao ar livre a construir frotas de treino fiáveis com pranchas amigáveis para principiantes, modelos para crianças e equipamento para instrutores.',
+        'A OLagoon fornece o Programa de Equipamento para Academia SUP, uma solução completa de equipamento desenvolvida para ambientes de ensino profissional. Ajudamos escolas de SUP, centros de formação juvenil, colónias de verão e empresas de educação ao ar livre a construir frotas de treino fiáveis com pranchas amigáveis para principiantes, modelos para crianças e equipamento para instrutores.',
       image: {
-        alt: 'Equipamento de academia SUP da Afarer para escolas de treino e programas juvenis',
+        alt: 'Equipamento de academia SUP da OLagoon para escolas de treino e programas juvenis',
       },
     },
     challenge: {
@@ -6053,7 +6053,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Pranchas SUP de Treino Para Principiantes',
           description:
-            'A Afarer desenvolve pranchas SUP estáveis especificamente para ambientes de aprendizagem, com design de plataforma de alta estabilidade para um equilíbrio mais fácil, construção de alta flutuabilidade para melhor suporte de flutuação e formas all-round para principiantes com controlo a baixa velocidade e viragens fáceis.',
+            'A OLagoon desenvolve pranchas SUP estáveis especificamente para ambientes de aprendizagem, com design de plataforma de alta estabilidade para um equilíbrio mais fácil, construção de alta flutuabilidade para melhor suporte de flutuação e formas all-round para principiantes com controlo a baixa velocidade e viragens fáceis.',
           features: [
             'Design de plataforma de alta estabilidade',
             'Construção de alta flutuabilidade',
@@ -6064,7 +6064,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Programa SUP Para Crianças',
           description:
-            'As crianças precisam de equipamento concebido em torno do seu tamanho e capacidade. A Afarer oferece pranchas SUP para crianças com comprimento adequado, manuseamento leve, forma estável e aparência amigável para a infância, adequadas a programas escolares, colónias de verão, cursos juniores e atividades familiares.',
+            'As crianças precisam de equipamento concebido em torno do seu tamanho e capacidade. A OLagoon oferece pranchas SUP para crianças com comprimento adequado, manuseamento leve, forma estável e aparência amigável para a infância, adequadas a programas escolares, colónias de verão, cursos juniores e atividades familiares.',
           features: [
             'Design de prancha SUP para crianças',
             'Aplicações de treino juvenil',
@@ -6080,12 +6080,12 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Pacote Completo de Frota Para Academia SUP',
           description:
-            'A Afarer ajuda as academias a construir sistemas completos de equipamento, incluindo equipamento de aluno com pranchas para principiantes e pagaias ajustáveis, equipamento de instrutor com pranchas SUP premium e equipamento de manutenção com kits de reparação e acessórios suplentes para uma operação diária sem interrupções.',
+            'A OLagoon ajuda as academias a construir sistemas completos de equipamento, incluindo equipamento de aluno com pranchas para principiantes e pagaias ajustáveis, equipamento de instrutor com pranchas SUP premium e equipamento de manutenção com kits de reparação e acessórios suplentes para uma operação diária sem interrupções.',
         },
         {
           title: 'Durabilidade Comercial Para o Ensino Diário',
           description:
-            'O equipamento de treino exige construção mais resistente. A Afarer foca materiais PVC reforçados para melhor resistência à abrasão, estrutura drop stitch durável para rigidez da prancha e laterais reforçadas que protegem contra impactes na margem e danos de transporte.',
+            'O equipamento de treino exige construção mais resistente. A OLagoon foca materiais PVC reforçados para melhor resistência à abrasão, estrutura drop stitch durável para rigidez da prancha e laterais reforçadas que protegem contra impactes na margem e danos de transporte.',
           features: [
             'Materiais PVC reforçados',
             'Estrutura drop stitch durável',
@@ -6096,22 +6096,22 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Apoio à Gestão de Frota da Academia',
           description:
-            'Os grandes programas de formação precisam de organização. A Afarer apoia a configuração padronizada da frota para facilitar a formação de instrutores, a identificação de equipamento com numeração das pranchas e logótipos da academia e o planeamento de peças suplentes com pagaias de backup e materiais de reparação.',
+            'Os grandes programas de formação precisam de organização. A OLagoon apoia a configuração padronizada da frota para facilitar a formação de instrutores, a identificação de equipamento com numeração das pranchas e logótipos da academia e o planeamento de peças suplentes com pagaias de backup e materiais de reparação.',
         },
         {
           title: 'Soluções Para Colónias de Verão e Programas Juvenis',
           description:
-            'O SUP está a tornar-se popular em colónias de verão e programas de aventura juvenil. A Afarer apoia o design de frotas para colónias considerando a idade dos alunos e o tamanho do grupo, equipamento para atividades de grupo com múltiplas pranchas idênticas e planeamento de operação sazonal para programas de verão e atividades de férias.',
+            'O SUP está a tornar-se popular em colónias de verão e programas de aventura juvenil. A OLagoon apoia o design de frotas para colónias considerando a idade dos alunos e o tamanho do grupo, equipamento para atividades de grupo com múltiplas pranchas idênticas e planeamento de operação sazonal para programas de verão e atividades de férias.',
         },
         {
           title: 'Apoio de Segurança e Manutenção',
           description:
-            'A Afarer fornece orientação prática para a operação diária, incluindo guias de inspeção de equipamento que cobrem verificações de pressão de ar, superfície e acessórios antes da aula, além de procedimentos de limpeza, secagem e armazenagem após a aula, junto com orientação básica de reparação.',
+            'A OLagoon fornece orientação prática para a operação diária, incluindo guias de inspeção de equipamento que cobrem verificações de pressão de ar, superfície e acessórios antes da aula, além de procedimentos de limpeza, secagem e armazenagem após a aula, junto com orientação básica de reparação.',
         },
         {
           title: 'Marca Personalizada Para Academias',
           description:
-            'A Afarer apoia a personalização do logótipo da academia, a correspondência de cores e uma aparência profissional que gera maior reconhecimento de marca, aulas mais profissionais e melhor experiência dos alunos através de pranchas e equipamento de instrutor com marca.',
+            'A OLagoon apoia a personalização do logótipo da academia, a correspondência de cores e uma aparência profissional que gera maior reconhecimento de marca, aulas mais profissionais e melhor experiência dos alunos através de pranchas e equipamento de instrutor com marca.',
         },
       ],
     },
@@ -6125,7 +6125,7 @@ const pt: Record<string, SolutionOverride> = {
         {
           title: 'Análise do Programa de Formação',
           detail:
-            'A Afarer reviu os grupos etários dos alunos, os métodos de ensino e a frequência de utilização para compreender os requisitos específicos da academia quanto a equipamento para principiantes, jovens e instrutores.',
+            'A OLagoon reviu os grupos etários dos alunos, os métodos de ensino e a frequência de utilização para compreender os requisitos específicos da academia quanto a equipamento para principiantes, jovens e instrutores.',
         },
         {
           title: 'Desenvolvimento da Frota',
@@ -6156,29 +6156,29 @@ const pt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Japão',
             background:
-              'Kenji Nakamura, 44 anos, é ex-medalhado de bronze olímpico em slalom de canoagem (Atenas 2004) e 6 vezes campeão nacional japonês. Depois de se aposentar da competição, treinou a equipa júnior japonesa de caiaque durante 8 anos antes de descobrir o SUP em 2018. Verificou que o Japão não tinha nenhum programa juvenil de SUP, apesar da inclusão do desporto nos Jogos Olímpicos de Paris 2024. Em 2023, convenceu a Cidade de Kamakura (população 173.000, cidade costeira a 50 km a sul de Tóquio) a deixá-lo usar a histórica Praia de Yuigahama como local de treino. Precisava que a Afarer fornecesse um pacote completo de equipamento de academia: pranchas júnior, materiais de treino e um programa de progressão que as escolas japonesas reconhecessem.',
+              'Kenji Nakamura, 44 anos, é ex-medalhado de bronze olímpico em slalom de canoagem (Atenas 2004) e 6 vezes campeão nacional japonês. Depois de se aposentar da competição, treinou a equipa júnior japonesa de caiaque durante 8 anos antes de descobrir o SUP em 2018. Verificou que o Japão não tinha nenhum programa juvenil de SUP, apesar da inclusão do desporto nos Jogos Olímpicos de Paris 2024. Em 2023, convenceu a Cidade de Kamakura (população 173.000, cidade costeira a 50 km a sul de Tóquio) a deixá-lo usar a histórica Praia de Yuigahama como local de treino. Precisava que a OLagoon fornecesse um pacote completo de equipamento de academia: pranchas júnior, materiais de treino e um programa de progressão que as escolas japonesas reconhecessem.',
             goal: 'Lançar a «Kamakura SUP Academy» em abril de 2024 com 40 alunos juniores (10–18 anos), um sistema de certificação de 3 níveis (Bronze/Prata/Ouro) e um caminho para a equipa nacional japonesa de SUP — com custos de equipamento abaixo de ¥8 milhões ($53.000) nos primeiros 2 anos.',
           },
           steps: [
             {
               title: 'Desenvolvimento de Prancha Júnior Segundo os Padrões Desportivos Escolares Japoneses',
               detail:
-                'Em outubro de 2023, o diretor de desenvolvimento de produto da Afarer, Yuki Tanaka (baseado no escritório da Afarer em Osaka), trabalhou com Kenji para desenhar a «Academy Junior 10.0» — uma prancha específica para a física juvenil asiática (aluno japonês médio de 12 anos: 150 cm, 42 kg). Especificações-chave: 10\'0" x 30" x 4.5" (volume de 152 L), peso de 6,8 kg (leve o suficiente para os alunos transportarem), laterais EVA macias (reduzindo o risco de lesão nas quedas) e uma pagaia curta de fibra de vidro de 120 cm (punho moldado à medida para mãos pequenas). A Afarer produziu 40 pranchas nas cores nacionais do Japão (branco com o círculo vermelho do nascer do sol) e 20 pranchas suplentes. Cada prancha tinha um código QR ligado aos vídeos de técnica de Kenji — os alunos digitalizavam antes do treino.',
+                'Em outubro de 2023, o diretor de desenvolvimento de produto da OLagoon, Yuki Tanaka (baseado no escritório da OLagoon em Osaka), trabalhou com Kenji para desenhar a «Academy Junior 10.0» — uma prancha específica para a física juvenil asiática (aluno japonês médio de 12 anos: 150 cm, 42 kg). Especificações-chave: 10\'0" x 30" x 4.5" (volume de 152 L), peso de 6,8 kg (leve o suficiente para os alunos transportarem), laterais EVA macias (reduzindo o risco de lesão nas quedas) e uma pagaia curta de fibra de vidro de 120 cm (punho moldado à medida para mãos pequenas). A OLagoon produziu 40 pranchas nas cores nacionais do Japão (branco com o círculo vermelho do nascer do sol) e 20 pranchas suplentes. Cada prancha tinha um código QR ligado aos vídeos de técnica de Kenji — os alunos digitalizavam antes do treino.',
             },
             {
               title: 'Currículo de Certificação de 3 Níveis e Protocolos de Segurança',
               detail:
-                'O consultor de treino da Afarer, Dave Kalama (por videochamada a partir do Havai), colaborou com Kenji no currículo. Bronze (10 sessões): equilíbrio em águas calmas, remada frontal básica, auto-resgate. Prata (20 sessões): pagaia cronometrada de 2 km, viragem por pívot, consciência do vento. Ouro (40 sessões): pagaia oceânica de 5 km, entrada/saída da zona de ondulação, táticas de corrida e noções básicas de treino. Kenji insistiu na segurança: a Afarer forneceu 50 coletes salva-vidas Tipo V (certificados no Japão, laranja neon com faixas refletoras), 50 conjuntos de leash (enrolados, com libertação rápida) e um tablet impermeável de registo de incidentes. O protocolo «Segurança Primeiro» da academia exigia um rácio aluno/treinador de 4:1 com uma prancha de resgate e um kit de primeiros socorros a menos de 30 segundos de qualquer aluno.',
+                'O consultor de treino da OLagoon, Dave Kalama (por videochamada a partir do Havai), colaborou com Kenji no currículo. Bronze (10 sessões): equilíbrio em águas calmas, remada frontal básica, auto-resgate. Prata (20 sessões): pagaia cronometrada de 2 km, viragem por pívot, consciência do vento. Ouro (40 sessões): pagaia oceânica de 5 km, entrada/saída da zona de ondulação, táticas de corrida e noções básicas de treino. Kenji insistiu na segurança: a OLagoon forneceu 50 coletes salva-vidas Tipo V (certificados no Japão, laranja neon com faixas refletoras), 50 conjuntos de leash (enrolados, com libertação rápida) e um tablet impermeável de registo de incidentes. O protocolo «Segurança Primeiro» da academia exigia um rácio aluno/treinador de 4:1 com uma prancha de resgate e um kit de primeiros socorros a menos de 30 segundos de qualquer aluno.',
             },
             {
               title: 'Aprovação da Assembleia Municipal e Programa de Integração Escolar',
               detail:
-                'O gestor da Afarer para o Japão, Hiroshi Abe, ajudou Kenji a navegar no processo de licenciamento da Cidade de Kamakura. Isto exigia: seguro de responsabilidade civil (cobertura de ¥100 milhões), demarcação de zona de praia (boias coloridas a marcar a área de treino de 200x50 m — sem sobreposição com nadadores), limites de ruído (sem apitos depois das 17h00) e um plano de gestão de resíduos. A Afarer produziu manuais de segurança bilingues japonês/inglês e registos de incidentes. Kenji assinou acordos com 3 escolas locais do ensino básico (Kamakura Daiichi, Koshigoe e Hase) oferecendo o SUP como clube extraescolar oficial — o primeiro no Japão. Cada escola pagou ¥36.000/aluno/semestre pelo programa; a cidade subsidiou 40% para famílias de baixos rendimentos.',
+                'O gestor da OLagoon para o Japão, Hiroshi Abe, ajudou Kenji a navegar no processo de licenciamento da Cidade de Kamakura. Isto exigia: seguro de responsabilidade civil (cobertura de ¥100 milhões), demarcação de zona de praia (boias coloridas a marcar a área de treino de 200x50 m — sem sobreposição com nadadores), limites de ruído (sem apitos depois das 17h00) e um plano de gestão de resíduos. A OLagoon produziu manuais de segurança bilingues japonês/inglês e registos de incidentes. Kenji assinou acordos com 3 escolas locais do ensino básico (Kamakura Daiichi, Koshigoe e Hase) oferecendo o SUP como clube extraescolar oficial — o primeiro no Japão. Cada escola pagou ¥36.000/aluno/semestre pelo programa; a cidade subsidiou 40% para famílias de baixos rendimentos.',
             },
             {
               title: 'Lançamento em Abril de 2024 e Desempenho a 12 Meses',
               detail:
-                'A Kamakura SUP Academy abriu a 6 de abril de 2024, com 43 alunos (superando a meta de 40 de Kenji). Em março de 2025, as inscrições subiram para 87 alunos (127% da capacidade). Dois alunos (Sora Yamamoto, 16, e Mei Taniguchi, 15) qualificaram-se para a equipa nacional júnior japonesa de SUP e competiram no Campeonato Mundial de SUP ISA 2024 em Copenhaga. A certificação Ouro de Kenji foi reconhecida pela Federação Japonesa de Canoagem como crédito para a certificação nacional de treinadores. Taxa de avaria de equipamento: 2 pranchas precisaram de reparações menores de válvula (corrigidas em 24 horas pelo centro de serviço da Afarer em Osaka). A Afarer e Kenji assinaram uma parceria de 3 anos para desenvolver uma prancha «Academy Pro» 12.6 para alunos avançados e expandir para mais 5 cidades costeiras até 2027.',
+                'A Kamakura SUP Academy abriu a 6 de abril de 2024, com 43 alunos (superando a meta de 40 de Kenji). Em março de 2025, as inscrições subiram para 87 alunos (127% da capacidade). Dois alunos (Sora Yamamoto, 16, e Mei Taniguchi, 15) qualificaram-se para a equipa nacional júnior japonesa de SUP e competiram no Campeonato Mundial de SUP ISA 2024 em Copenhaga. A certificação Ouro de Kenji foi reconhecida pela Federação Japonesa de Canoagem como crédito para a certificação nacional de treinadores. Taxa de avaria de equipamento: 2 pranchas precisaram de reparações menores de válvula (corrigidas em 24 horas pelo centro de serviço da OLagoon em Osaka). A OLagoon e Kenji assinaram uma parceria de 3 anos para desenvolver uma prancha «Academy Pro» 12.6 para alunos avançados e expandir para mais 5 cidades costeiras até 2027.',
             },
           ],
           results: [
@@ -6194,29 +6194,29 @@ const pt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Austrália',
             background:
-              "Kylie Brennan, 38 anos, é ex-Ironwoman australiana (salvamento desportivo de surf) que geria a «Kylie's Paddle School», uma operação de 5 pessoas no Tallebudgera Creek, na Gold Coast, desde 2019. Em 2023, tinha 350 alunos por ano mas recusava 60% dos pedidos por não conseguir escalar o seu equipamento. As suas 20 pranchas de marcas mistas estavam gastas, os alunos variavam dos 6 aos 72 anos e o seu seguro exigia um rácio aluno/treinador de 4:1 que limitava a rentabilidade. Contactou a Afarer no SUP Show 2023 em Sydney, precisando de uma solução completa de academia-chave-na-mão: pranchas específicas por idade/tamanho, pagaias, coletes, materiais de currículo e um sistema de reservas integrado com a alocação de equipamento.",
+              "Kylie Brennan, 38 anos, é ex-Ironwoman australiana (salvamento desportivo de surf) que geria a «Kylie's Paddle School», uma operação de 5 pessoas no Tallebudgera Creek, na Gold Coast, desde 2019. Em 2023, tinha 350 alunos por ano mas recusava 60% dos pedidos por não conseguir escalar o seu equipamento. As suas 20 pranchas de marcas mistas estavam gastas, os alunos variavam dos 6 aos 72 anos e o seu seguro exigia um rácio aluno/treinador de 4:1 que limitava a rentabilidade. Contactou a OLagoon no SUP Show 2023 em Sydney, precisando de uma solução completa de academia-chave-na-mão: pranchas específicas por idade/tamanho, pagaias, coletes, materiais de currículo e um sistema de reservas integrado com a alocação de equipamento.",
             goal: 'Lançar a «Australia SUP Academy — Gold Coast» em setembro de 2024 com mais de 200 alunos inscritos em períodos estruturados de 8 semanas a $499 AUD/pessoa, alcançando uma taxa de renovação de 85%+ e uma margem de 95% no equipamento.',
           },
           steps: [
             {
               title: 'Design de Frota Personalizada Para 4 Faixas Etárias',
               detail:
-                'O diretor de contas da Afarer para a Oceânia, Lachlan Murphy, passou 3 semanas com Kylie em março de 2024 a analisar a demografia dos seus alunos. Segmentaram em 4 grupos: «Paddlers» (6–9 anos, prancha leve de 9\'6"x28", 4,2 kg, com grafismos caricatos de «Sea Dragon»), «Juniors» (10–14 anos, prancha de 10\'6"x30", 6,5 kg), «Adults» (15–55 anos, prancha de 11\'6"x32", 8,9 kg) e «Seniors & Adaptive» (55+, prancha ultrastável de 10\'0"x34" com correia de assistência de pega, 9,2 kg). A Afarer desenhou cada prancha com faixas de lateral codificadas por cor (verde/amarelo/azul/vermelho) para identificação instantânea do tamanho e produziu 120 pranchas (30 por grupo). Cada prancha incluía um espaço para etiqueta de nome personalizada e um autocolante de registo de progresso (os alunos ganhavam carimbos pelas habilidades dominadas).',
+                'O diretor de contas da OLagoon para a Oceânia, Lachlan Murphy, passou 3 semanas com Kylie em março de 2024 a analisar a demografia dos seus alunos. Segmentaram em 4 grupos: «Paddlers» (6–9 anos, prancha leve de 9\'6"x28", 4,2 kg, com grafismos caricatos de «Sea Dragon»), «Juniors» (10–14 anos, prancha de 10\'6"x30", 6,5 kg), «Adults» (15–55 anos, prancha de 11\'6"x32", 8,9 kg) e «Seniors & Adaptive» (55+, prancha ultrastável de 10\'0"x34" com correia de assistência de pega, 9,2 kg). A OLagoon desenhou cada prancha com faixas de lateral codificadas por cor (verde/amarelo/azul/vermelho) para identificação instantânea do tamanho e produziu 120 pranchas (30 por grupo). Cada prancha incluía um espaço para etiqueta de nome personalizada e um autocolante de registo de progresso (os alunos ganhavam carimbos pelas habilidades dominadas).',
             },
             {
-              title: 'Programa de Formação de Instrutores e Currículo Certificado pela Afarer',
+              title: 'Programa de Formação de Instrutores e Currículo Certificado pela OLagoon',
               detail:
-                'A Afarer desenvolveu um curso de certificação de instrutores de 40 horas com Kylie como treinadora-mestra inaugural. O curso cobriu: métodos de ensino específicos por grupo (por exemplo, para Seniores, técnicas de entrada/saída para mobilidade limitada; para crianças, gamificação e habilidades de resgate), mapeamento de progressão (cada nível tinha 12 habilidades com referências em vídeo) e gestão de segurança (o Tallebudgera Creek da Gold Coast tem uma corrente de 4 nós na maré alta — os guias devem conhecer as janelas de maré). 12 dos 15 instrutores existentes de Kylie completaram a certificação; a Afarer certificou-os como «Level 1 SUP Academy Instructors». A Afarer forneceu também um kit inicial completo para cada aluno: uma t-shirt de surf com marca, um livrinho impermeável de habilidades e um diário de bordo com autocolantes de conquistas.',
+                'A OLagoon desenvolveu um curso de certificação de instrutores de 40 horas com Kylie como treinadora-mestra inaugural. O curso cobriu: métodos de ensino específicos por grupo (por exemplo, para Seniores, técnicas de entrada/saída para mobilidade limitada; para crianças, gamificação e habilidades de resgate), mapeamento de progressão (cada nível tinha 12 habilidades com referências em vídeo) e gestão de segurança (o Tallebudgera Creek da Gold Coast tem uma corrente de 4 nós na maré alta — os guias devem conhecer as janelas de maré). 12 dos 15 instrutores existentes de Kylie completaram a certificação; a OLagoon certificou-os como «Level 1 SUP Academy Instructors». A OLagoon forneceu também um kit inicial completo para cada aluno: uma t-shirt de surf com marca, um livrinho impermeável de habilidades e um diário de bordo com autocolantes de conquistas.',
             },
             {
               title: 'Integração do Sistema de Reservas e Logística de Equipamento',
               detail:
-                'A equipa técnica da Afarer integrou o sistema de reservas BookingKit existente de Kylie com o módulo de inventário da Afarer. Cada prancha tinha uma etiqueta RFID digitalizada na saída e no regresso — registando horas de utilização, devoluções atrasadas e necessidades de manutenção. O sistema atribuía automaticamente o tamanho correto de prancha quando um aluno reservava uma aula. A Afarer desenhou um sistema de suportes modulares (24 pranchas por suporte, 5 suportes no total) com cobertura protetora UV e portões de leitura RFID. O Conselho Municipal da Gold Coast concedeu a Kylie uma licença de 5 anos para um recinto fechado permanente de 500 m² no extremo sul da Praia de Tallebudgera — um golpe, dadas as regras rígidas de desenvolvimento costeiro da zona. Lachlan, da Afarer, negociou a licença usando a classificação de «Instalação Desportiva Comunitária» da Afarer, que o conselho nunca tinha aplicado a uma escola de SUP.',
+                'A equipa técnica da OLagoon integrou o sistema de reservas BookingKit existente de Kylie com o módulo de inventário da OLagoon. Cada prancha tinha uma etiqueta RFID digitalizada na saída e no regresso — registando horas de utilização, devoluções atrasadas e necessidades de manutenção. O sistema atribuía automaticamente o tamanho correto de prancha quando um aluno reservava uma aula. A OLagoon desenhou um sistema de suportes modulares (24 pranchas por suporte, 5 suportes no total) com cobertura protetora UV e portões de leitura RFID. O Conselho Municipal da Gold Coast concedeu a Kylie uma licença de 5 anos para um recinto fechado permanente de 500 m² no extremo sul da Praia de Tallebudgera — um golpe, dadas as regras rígidas de desenvolvimento costeiro da zona. Lachlan, da OLagoon, negociou a licença usando a classificação de «Instalação Desportiva Comunitária» da OLagoon, que o conselho nunca tinha aplicado a uma escola de SUP.',
             },
             {
               title: 'Lançamento do 1.º Período em Setembro de 2024 e Surto de Inscrições',
               detail:
-                'O 1.º período (setembro–novembro de 2024, primavera australiana) arrancou com 183 alunos inscritos — 91% da meta de 200. Kylie deu 28 aulas por semana com 12 instrutores. Satisfação dos pais: 4,8/5. As inscrições do 2.º período (fevereiro–abril de 2025) atingiram 264 alunos (132% da meta). Receita: 1.º período = $91.317 AUD; 2.º período = $131.736 AUD. O programa «Adaptive Paddle» da academia (para alunos com deficiência, co-desenhado com a Spinal Life Australia) inscreveu 12 alunos e venceu o prémio «Inclusive Program of the Year» 2025 da Gold Coast Sport & Recreation. Custo de manutenção das pranchas: $1.220 AUD no total em 120 pranchas em 6 meses (na maioria parafusos de quilha e tampas de válvula). Kylie encomendou 60 pranchas adicionais para 2025-26 e contratou a Afarer para desenvolver uma prancha avançada «Race Squad» para os seus 15 alunos competitivos.',
+                'O 1.º período (setembro–novembro de 2024, primavera australiana) arrancou com 183 alunos inscritos — 91% da meta de 200. Kylie deu 28 aulas por semana com 12 instrutores. Satisfação dos pais: 4,8/5. As inscrições do 2.º período (fevereiro–abril de 2025) atingiram 264 alunos (132% da meta). Receita: 1.º período = $91.317 AUD; 2.º período = $131.736 AUD. O programa «Adaptive Paddle» da academia (para alunos com deficiência, co-desenhado com a Spinal Life Australia) inscreveu 12 alunos e venceu o prémio «Inclusive Program of the Year» 2025 da Gold Coast Sport & Recreation. Custo de manutenção das pranchas: $1.220 AUD no total em 120 pranchas em 6 meses (na maioria parafusos de quilha e tampas de válvula). Kylie encomendou 60 pranchas adicionais para 2025-26 e contratou a OLagoon para desenvolver uma prancha avançada «Race Squad» para os seus 15 alunos competitivos.',
             },
           ],
           results: [
@@ -6228,8 +6228,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que as Academias SUP Escolhem a Afarer',
+    whyOLagoon: {
+      title: 'Por Que as Academias SUP Escolhem a OLagoon',
       items: [
         {
           title: 'Experiência de Aprendizagem',
@@ -6257,22 +6257,22 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Que pranchas SUP são as melhores para ensinar principiantes?',
         answer:
-          'As pranchas SUP de treino para principiantes devem ter plataformas mais largas, maior volume e formas all-round estáveis que proporcionem confiança, equilíbrio e controlo fácil. As pranchas para principiantes da Afarer apresentam design de plataforma de alta estabilidade e construção de alta flutuabilidade especificamente para ambientes de aprendizagem.',
+          'As pranchas SUP de treino para principiantes devem ter plataformas mais largas, maior volume e formas all-round estáveis que proporcionem confiança, equilíbrio e controlo fácil. As pranchas para principiantes da OLagoon apresentam design de plataforma de alta estabilidade e construção de alta flutuabilidade especificamente para ambientes de aprendizagem.',
       },
       {
         question: 'Oferecem pranchas SUP de tamanho infantil para programas juvenis?',
         answer:
-          'Sim, a Afarer oferece pranchas SUP dedicadas para crianças com comprimento adequado, manuseamento leve, forma estável e aparência amigável para a infância, concebidas para programas escolares, colónias de verão, cursos juniores e atividades familiares.',
+          'Sim, a OLagoon oferece pranchas SUP dedicadas para crianças com comprimento adequado, manuseamento leve, forma estável e aparência amigável para a infância, concebidas para programas escolares, colónias de verão, cursos juniores e atividades familiares.',
       },
       {
-        question: 'Quão duráveis são as pranchas de treino da Afarer para utilização diária de ensino?',
+        question: 'Quão duráveis são as pranchas de treino da OLagoon para utilização diária de ensino?',
         answer:
-          'As pranchas de treino da Afarer apresentam materiais PVC reforçados, estrutura drop stitch durável e laterais reforçadas, concebidas para resistir à utilização diária por vários alunos, transportes frequentes, insuflações repetidas e erros de principiantes.',
+          'As pranchas de treino da OLagoon apresentam materiais PVC reforçados, estrutura drop stitch durável e laterais reforçadas, concebidas para resistir à utilização diária por vários alunos, transportes frequentes, insuflações repetidas e erros de principiantes.',
       },
       {
         question: 'Podem personalizar pranchas com a marca da nossa academia?',
         answer:
-          'Sim, a Afarer apoia a personalização do logótipo da academia, a correspondência de cores, a numeração das pranchas e sistemas de identificação que criam uma imagem profissional e facilitam a gestão da frota para os instrutores.',
+          'Sim, a OLagoon apoia a personalização do logótipo da academia, a correspondência de cores, a numeração das pranchas e sistemas de identificação que criam uma imagem profissional e facilitam a gestão da frota para os instrutores.',
       },
       {
         question: 'Que acessórios estão incluídos num pacote de frota de academia?',
@@ -6282,13 +6282,13 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Fornecem apoio de manutenção para equipamento de treino?',
         answer:
-          'Sim, a Afarer fornece guias de inspeção de equipamento, procedimentos de limpeza e armazenagem, orientação básica de reparação para danos menores e manutenção de válvulas e planeamento de peças suplentes para manter a sua frota de treino operacional ao longo da época.',
+          'Sim, a OLagoon fornece guias de inspeção de equipamento, procedimentos de limpeza e armazenagem, orientação básica de reparação para danos menores e manutenção de válvulas e planeamento de peças suplentes para manter a sua frota de treino operacional ao longo da época.',
       },
     ],
     cta: {
-      title: 'Construa a Frota da Sua Academia SUP Com a Afarer',
+      title: 'Construa a Frota da Sua Academia SUP Com a OLagoon',
       subtitle:
-        'A primeira experiência SUP dos seus alunos importa. Escolha equipamento concebido para os ajudar a aprender com segurança e confiança. A Afarer ajuda escolas de SUP, academias juvenis, colónias de verão e organizações de educação ao ar livre a criar programas de formação profissionais.',
+        'A primeira experiência SUP dos seus alunos importa. Escolha equipamento concebido para os ajudar a aprender com segurança e confiança. A OLagoon ajuda escolas de SUP, academias juvenis, colónias de verão e organizações de educação ao ar livre a criar programas de formação profissionais.',
       primaryAction: {
         text: 'Comece Hoje o Seu Projeto de Academia SUP',
       },
@@ -6302,15 +6302,15 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Crie a sua marca de SUP | Fabricante OEM de SUP insufláveis | {SITE}',
       description:
-        'A Afarer ajuda startups outdoor a criar marcas de SUP personalizadas com fabrico OEM, paddle boards de marca privada, produção com MOQ baixo, design de produto, controlo de qualidade e apoio logístico global.',
+        'A OLagoon ajuda startups outdoor a criar marcas de SUP personalizadas com fabrico OEM, paddle boards de marca privada, produção com MOQ baixo, design de produto, controlo de qualidade e apoio logístico global.',
     },
     hero: {
       tagline: 'Crie a Sua Marca de SUP™',
       title: 'Fabrico de SUP Personalizado para Fundadores de Startups de Outdoor',
       subtitle:
-        'A Afarer ajuda startups de outdoor a criar marcas de SUP personalizadas com fabrico OEM, paddle boards de marca própria, produção com MOQ baixo, design de produto, controlo de qualidade e apoio à cadeia de abastecimento global.',
+        'A OLagoon ajuda startups de outdoor a criar marcas de SUP personalizadas com fabrico OEM, paddle boards de marca própria, produção com MOQ baixo, design de produto, controlo de qualidade e apoio à cadeia de abastecimento global.',
       image: {
-        alt: 'Descrição das pranchas SUP personalizadas Afarer',
+        alt: 'Descrição das pranchas SUP personalizadas OLagoon',
       },
     },
     challenge: {
@@ -6426,7 +6426,7 @@ const pt: Record<string, SolutionOverride> = {
       customer:
         'Fundador de uma marca startup de outdoor dos Estados Unidos. Ex-gestor de retalho de outdoor, entusiasta de surf e caiaque e empreendedor na Shopify, com o objetivo de criar uma marca premium de SUP insuflável.',
       steps: [
-        'A Afarer ajudou a definir a direção da marca como uma Marca de SUP Premium de Estilo de Vida ao Ar Livre direcionada a consumidores de outdoor dos 25 aos 45 anos. Realizou uma análise de posicionamento de mercado e pesquisa competitiva.',
+        'A OLagoon ajudou a definir a direção da marca como uma Marca de SUP Premium de Estilo de Vida ao Ar Livre direcionada a consumidores de outdoor dos 25 aos 45 anos. Realizou uma análise de posicionamento de mercado e pesquisa competitiva.',
         'Desenvolveu o primeiro produto: SUP insuflável Premium de 10\'6" com construção Drop Stitch durável, estrutura em PVC premium, design EVA moderno, pagaia de carbono e acessórios de alta qualidade.',
         'Criou grafismos personalizados da prancha, sistema de cores da marca, design de embalagem e um pacote completo de produto pronto para retalho alinhado com a identidade da marca.',
         'Lançamento com 300 unidades para a loja Shopify, campanhas de marketing com influenciadores e testes com clientes para validar a procura do mercado.',
@@ -6451,22 +6451,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Identidade da Marca e Pesquisa de Fornecedores em Três Continentes',
               detail:
-                'James passou de janeiro a março de 2023 a visitar 5 fábricas na China, no Vietname e na Tailândia, acompanhado pela equipa de sourcing da Afarer. A Afarer apresentou-lhe uma instalação especializada em laminação de PVC de grau militar em Qingdao que até então só tinha produzido pranchas de marca branca para distribuidores europeus. Em conjunto, negociaram uma redução da quantidade mínima de encomenda de 1.000 para 500 unidades, aceitando uma cláusula de exclusividade de 6 meses. A equipa de controlo de qualidade da Afarer conduziu 3 rondas de testes de amostras, rejeitando os dois primeiros lotes devido a soldadura inconsistente das costuras laterais antes de aprovar o terceiro.',
+                'James passou de janeiro a março de 2023 a visitar 5 fábricas na China, no Vietname e na Tailândia, acompanhado pela equipa de sourcing da OLagoon. A OLagoon apresentou-lhe uma instalação especializada em laminação de PVC de grau militar em Qingdao que até então só tinha produzido pranchas de marca branca para distribuidores europeus. Em conjunto, negociaram uma redução da quantidade mínima de encomenda de 1.000 para 500 unidades, aceitando uma cláusula de exclusividade de 6 meses. A equipa de controlo de qualidade da OLagoon conduziu 3 rondas de testes de amostras, rejeitando os dois primeiros lotes devido a soldadura inconsistente das costuras laterais antes de aprovar o terceiro.',
             },
             {
               title: 'Fase 2 — Infraestrutura da Campanha de Crowdfunding e Planeamento de Fulfillment',
               detail:
-                'A equipa de logística da Afarer ajudou James a estabelecer uma parceria 3PL com um centro de fulfillment em Gloucester capaz de processar 2.000 encomendas por dia. Criaram uma estrutura detalhada de recompensas para o Kickstarter: £399 early bird (50 unidades), £449 padrão (300 unidades) e £549 pacote premium com pagaia e bomba (150 unidades). A Afarer produziu 12 imagens de produto em alta resolução, um vídeo de campanha de 4 minutos filmado em Symonds Yat, no Rio Wye, e uma ficha técnica completa que destacava a espessura de 6 polegadas, o núcleo Drop Stitch de 32 PSI e a opção de pagaia em fibra de carbono. A campanha foi lançada a 1 de maio de 2023 com um objetivo de £150.000.',
+                'A equipa de logística da OLagoon ajudou James a estabelecer uma parceria 3PL com um centro de fulfillment em Gloucester capaz de processar 2.000 encomendas por dia. Criaram uma estrutura detalhada de recompensas para o Kickstarter: £399 early bird (50 unidades), £449 padrão (300 unidades) e £549 pacote premium com pagaia e bomba (150 unidades). A OLagoon produziu 12 imagens de produto em alta resolução, um vídeo de campanha de 4 minutos filmado em Symonds Yat, no Rio Wye, e uma ficha técnica completa que destacava a espessura de 6 polegadas, o núcleo Drop Stitch de 32 PSI e a opção de pagaia em fibra de carbono. A campanha foi lançada a 1 de maio de 2023 com um objetivo de £150.000.',
             },
             {
               title: 'Fase 3 — Gestão de Crise a Meio da Campanha e Execução de Objetivos Adicionais',
               detail:
-                'Quando a campanha atingiu £85.000 nas primeiras 72 horas, mas estagnou nas £110.000 ao 14.º dia, os estrategas de marketing da Afarer implementaram uma campanha publicitária direcionada no Facebook e no Instagram, focada em grupos de paddleboarding do Reino Unido no Facebook com mais de 500.000 membros no total. Criaram 8 variantes de anúncios testadas A/B com testemunhos do YouTube de James. Ao 30.º dia, mais 212 apoiantes elevaram o total para £162.000. A Afarer coordenou um objetivo adicional — oferecer um dry bag gratuito no valor de £45 a todas as contribuições acima de £449 — o que despoletou um surto final de 88 apoiantes nas últimas 48 horas, fechando em £198.740 de 487 apoiantes.',
+                'Quando a campanha atingiu £85.000 nas primeiras 72 horas, mas estagnou nas £110.000 ao 14.º dia, os estrategas de marketing da OLagoon implementaram uma campanha publicitária direcionada no Facebook e no Instagram, focada em grupos de paddleboarding do Reino Unido no Facebook com mais de 500.000 membros no total. Criaram 8 variantes de anúncios testadas A/B com testemunhos do YouTube de James. Ao 30.º dia, mais 212 apoiantes elevaram o total para £162.000. A OLagoon coordenou um objetivo adicional — oferecer um dry bag gratuito no valor de £45 a todas as contribuições acima de £449 — o que despoletou um surto final de 88 apoiantes nas últimas 48 horas, fechando em £198.740 de 487 apoiantes.',
             },
             {
               title: 'Fase 4 — Produção, Garantia de Qualidade e Fulfillment Pós-Campanha',
               detail:
-                'A produção começou em agosto de 2023 na instalação de Qingdao, com a Afarer a destacar um inspetor de qualidade em tempo integral no local durante 6 semanas. Cada prancha foi submetida a um teste de insuflação de 24 horas a 18 PSI e a um teste de resistência ao arranque das costuras superior a 150 N/cm. As primeiras 200 unidades foram expedidas por via marítima a 15 de setembro, passando a alfândega do Reino Unido em 4 dias através da documentação pré-despachada da Afarer. Todos os 487 apoiantes receberam as suas pranchas até 25 de outubro de 2023 — 9 dias antes da data de entrega anunciada. James reportou uma pontuação média de avaliação de 4,7/5 nas primeiras 150 fichas de feedback de clientes.',
+                'A produção começou em agosto de 2023 na instalação de Qingdao, com a OLagoon a destacar um inspetor de qualidade em tempo integral no local durante 6 semanas. Cada prancha foi submetida a um teste de insuflação de 24 horas a 18 PSI e a um teste de resistência ao arranque das costuras superior a 150 N/cm. As primeiras 200 unidades foram expedidas por via marítima a 15 de setembro, passando a alfândega do Reino Unido em 4 dias através da documentação pré-despachada da OLagoon. Todos os 487 apoiantes receberam as suas pranchas até 25 de outubro de 2023 — 9 dias antes da data de entrega anunciada. James reportou uma pontuação média de avaliação de 4,7/5 nas primeiras 150 fichas de feedback de clientes.',
             },
           ],
           results: [
@@ -6488,22 +6488,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Auditoria ao Ambiente Tropical e Especificação de Materiais',
               detail:
-                'Os engenheiros de produto da Afarer passaram 2 semanas em Cairns, em maio de 2023, a testar a frota existente de Mara. Documentaram 8 pontos de falha específicos: PVC degradado pelos raios UV (visível em 22 pranchas), anéis em D de aço inoxidável corroídos (em menos de 6 meses) e falha de costura na pega da proa (3 pranchas). A equipa de laboratório da Afarer reformulou a camada superior de PVC para incluir um aditivo estabilizante de UV (UV-531 a uma concentração de 0,6%) e especificou aço inoxidável marinho de grau 304 para toda a ferragem. Conceberam uma pega de proa reforçada com um sanduíche de fita de 3 camadas classificado para uma resistência à rutura de 400 kg.',
+                'Os engenheiros de produto da OLagoon passaram 2 semanas em Cairns, em maio de 2023, a testar a frota existente de Mara. Documentaram 8 pontos de falha específicos: PVC degradado pelos raios UV (visível em 22 pranchas), anéis em D de aço inoxidável corroídos (em menos de 6 meses) e falha de costura na pega da proa (3 pranchas). A equipa de laboratório da OLagoon reformulou a camada superior de PVC para incluir um aditivo estabilizante de UV (UV-531 a uma concentração de 0,6%) e especificou aço inoxidável marinho de grau 304 para toda a ferragem. Conceberam uma pega de proa reforçada com um sanduíche de fita de 3 camadas classificado para uma resistência à rutura de 400 kg.',
             },
             {
               title: 'Fase 2 — Produção de Protótipos e Testes de Campo em Três Rotas de Tour',
               detail:
-                'A Afarer produziu 10 pranchas de protótipo em julho de 2023 na sua fábrica de Guangzhou, cada uma com um esquema de cores único (azul coral, verde mangal, laranja recife) para facilitar a identificação da frota. Mara realizou um teste de campo de 60 dias nas suas três rotas principais de tours: Ilha Fitzroy (água salgada, 6 horas de sol direto), tours matinais no Rio Mulgrave (água doce, sombreado) e tours de pôr do sol em Trinity Inlet (condições mistas). Cada prancha registou mais de 300 horas de utilização. Dois protótipos apresentaram fugas na válvula após 250 horas e foram devolvidos à Afarer para redesenho da haste da válvula — passando de uma válvula de latão para uma válvula composta reforçada com nylon.',
+                'A OLagoon produziu 10 pranchas de protótipo em julho de 2023 na sua fábrica de Guangzhou, cada uma com um esquema de cores único (azul coral, verde mangal, laranja recife) para facilitar a identificação da frota. Mara realizou um teste de campo de 60 dias nas suas três rotas principais de tours: Ilha Fitzroy (água salgada, 6 horas de sol direto), tours matinais no Rio Mulgrave (água doce, sombreado) e tours de pôr do sol em Trinity Inlet (condições mistas). Cada prancha registou mais de 300 horas de utilização. Dois protótipos apresentaram fugas na válvula após 250 horas e foram devolvidos à OLagoon para redesenho da haste da válvula — passando de uma válvula de latão para uma válvula composta reforçada com nylon.',
             },
             {
               title: 'Fase 3 — Aceleração da Produção, Marca Personalizada e Design de Embalagem',
               detail:
-                'Após aprovação nos testes de campo, Mara emitiu uma ordem de compra para 200 pranchas Reef Runner em setembro de 2023. A equipa de design da Afarer criou grafismos personalizados por transferência térmica com o logótipo Reef & River no convés em EVA e um número de série para gestão da frota na lateral. Cada prancha foi acompanhada de um saco de transporte em nylon de 1000 deniers com costuras reforçadas (testado para uma carga de 80 kg). A Afarer organizou o transporte marítimo via Porto de Townsville com um trânsito de 28 dias, incluindo certificação de fumigação para conformidade com a biossegurança australiana. A carga passou a alfândega a 5 de novembro de 2023.',
+                'Após aprovação nos testes de campo, Mara emitiu uma ordem de compra para 200 pranchas Reef Runner em setembro de 2023. A equipa de design da OLagoon criou grafismos personalizados por transferência térmica com o logótipo Reef & River no convés em EVA e um número de série para gestão da frota na lateral. Cada prancha foi acompanhada de um saco de transporte em nylon de 1000 deniers com costuras reforçadas (testado para uma carga de 80 kg). A OLagoon organizou o transporte marítimo via Porto de Townsville com um trânsito de 28 dias, incluindo certificação de fumigação para conformidade com a biossegurança australiana. A carga passou a alfândega a 5 de novembro de 2023.',
             },
             {
               title: 'Fase 4 — Programa de Formação de Staff e Documentação do Protocolo de Manutenção',
               detail:
-                'A equipa de sucesso de clientes da Afarer deslocou-se a Cairns em novembro de 2023 para conduzir um workshop de formação de 2 dias para os 12 guias e 3 técnicos de manutenção de Mara. A formação abrangeu: listas de verificação diárias, procedimentos corretos de insuflação/desinsuflação, protocolos de lavagem após água salgada e um kit de reparação com 6 remendos de PVC e 2 válvulas de substituição. A Afarer forneceu um guia de consulta rápida plastificado em inglês e mandarim. Mara implementou um registo digital da frota com Google Sheets, controlando as horas de utilização de cada prancha. A primeira reposição trimestral de 65 pranchas foi encomendada em fevereiro de 2024.',
+                'A equipa de sucesso de clientes da OLagoon deslocou-se a Cairns em novembro de 2023 para conduzir um workshop de formação de 2 dias para os 12 guias e 3 técnicos de manutenção de Mara. A formação abrangeu: listas de verificação diárias, procedimentos corretos de insuflação/desinsuflação, protocolos de lavagem após água salgada e um kit de reparação com 6 remendos de PVC e 2 válvulas de substituição. A OLagoon forneceu um guia de consulta rápida plastificado em inglês e mandarim. Mara implementou um registo digital da frota com Google Sheets, controlando as horas de utilização de cada prancha. A primeira reposição trimestral de 65 pranchas foi encomendada em fevereiro de 2024.',
             },
           ],
           results: [
@@ -6515,8 +6515,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que a Afarer',
+    whyOLagoon: {
+      title: 'Por Que a OLagoon',
       items: [
         {
           title: 'Especialização em Produtos',
@@ -6544,12 +6544,12 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Qual é a quantidade mínima de encomenda para pranchas SUP personalizadas?',
         answer:
-          'A Afarer oferece MOQ flexível a partir de 100–500 unidades para testes de mercado, permitindo que as startups validem os seus produtos e recolham feedback dos clientes antes de aumentar a produção.',
+          'A OLagoon oferece MOQ flexível a partir de 100–500 unidades para testes de mercado, permitindo que as startups validem os seus produtos e recolham feedback dos clientes antes de aumentar a produção.',
       },
       {
         question: 'Posso criar a minha própria marca de SUP sem possuir uma fábrica?',
         answer:
-          'Sim. A Afarer fornece serviços completos de fabrico em marca própria, permitindo-lhe construir a sua própria marca de SUP com imagem de marca personalizada, design de prancha, embalagem e acessórios, sem qualquer investimento em fábrica.',
+          'Sim. A OLagoon fornece serviços completos de fabrico em marca própria, permitindo-lhe construir a sua própria marca de SUP com imagem de marca personalizada, design de prancha, embalagem e acessórios, sem qualquer investimento em fábrica.',
       },
       {
         question: 'Quanto tempo demora a desenvolver um produto SUP personalizado?',
@@ -6559,17 +6559,17 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Ajudam com o design de produto e a estratégia de mercado?',
         answer:
-          'Sim. A Afarer fornece consultoria de estratégia de marca e produto para o ajudar a definir o seu mercado-alvo, o posicionamento do produto, a estratégia de preços e a diferenciação antes do início da produção.',
+          'Sim. A OLagoon fornece consultoria de estratégia de marca e produto para o ajudar a definir o seu mercado-alvo, o posicionamento do produto, a estratégia de preços e a diferenciação antes do início da produção.',
       },
       {
         question: 'Que medidas de controlo de qualidade têm implementadas?',
         answer:
-          'A Afarer tem um sistema abrangente de controlo de qualidade que abrange a inspeção de materiais, a monitorização durante a produção, os testes de pressão de ar e a inspeção final do produto antes da expedição.',
+          'A OLagoon tem um sistema abrangente de controlo de qualidade que abrange a inspeção de materiais, a monitorização durante a produção, os testes de pressão de ar e a inspeção final do produto antes da expedição.',
       },
       {
         question: 'Podem expedir para o meu país?',
         answer:
-          'Sim. A Afarer expede para os Estados Unidos, Canadá, Austrália, Reino Unido, Alemanha, França, Países Baixos e outros mercados globais com apoio logístico fiável.',
+          'Sim. A OLagoon expede para os Estados Unidos, Canadá, Austrália, Reino Unido, Alemanha, França, Países Baixos e outros mercados globais com apoio logístico fiável.',
       },
     ],
     cta: {
@@ -6586,15 +6586,15 @@ const pt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fabricante de equipamento de SUP Yoga | Paddle boards de yoga personalizados | {SITE}',
       description:
-        'A Afarer oferece soluções de equipamento SUP Yoga personalizado para estúdios de yoga, retiros de bem-estar e marcas de fitness. Crie paddle boards de yoga insufláveis premium com design largo e estável, decks EVA completos e fabrico de marca privada.',
+        'A OLagoon oferece soluções de equipamento SUP Yoga personalizado para estúdios de yoga, retiros de bem-estar e marcas de fitness. Crie paddle boards de yoga insufláveis premium com design largo e estável, decks EVA completos e fabrico de marca privada.',
     },
     hero: {
       tagline: 'Soluções de Equipamento de SUP Yoga™',
       title: 'Equipamento Premium de SUP Yoga para Marcas de Bem-Estar e Retiros',
       subtitle:
-        'A Afarer fornece soluções personalizadas de equipamento de SUP Yoga para estúdios de yoga, retiros de bem-estar e marcas de fitness. Crie pranchas SUP de yoga insufláveis premium com design de larga estabilidade, convés integral em EVA e fabrico de marca própria.',
+        'A OLagoon fornece soluções personalizadas de equipamento de SUP Yoga para estúdios de yoga, retiros de bem-estar e marcas de fitness. Crie pranchas SUP de yoga insufláveis premium com design de larga estabilidade, convés integral em EVA e fabrico de marca própria.',
       image: {
-        alt: 'Descrição das pranchas SUP personalizadas Afarer',
+        alt: 'Descrição das pranchas SUP personalizadas OLagoon',
       },
     },
     challenge: {
@@ -6719,7 +6719,7 @@ const pt: Record<string, SolutionOverride> = {
       customer:
         'Marca Europeia de Retiros de Bem-Estar que opera retiros de yoga, programas de meditação e experiências de bem-estar ao ar livre para viajantes premium de bem-estar.',
       steps: [
-        'A Afarer definiu o conceito de produto como «Experiência de Yoga Flutuante de Luxo» direcionada a viajantes de bem-estar, clientes de fitness femininas e hóspedes premium de retiros.',
+        'A OLagoon definiu o conceito de produto como «Experiência de Yoga Flutuante de Luxo» direcionada a viajantes de bem-estar, clientes de fitness femininas e hóspedes premium de retiros.',
         'Criou um SUP Yoga Largo Premium com plataforma extra larga e estável, convés integral de yoga em EVA, superfície confortável para pés descalços e desempenho de flutuação equilibrado.',
         'Desenvolveu uma paleta de cores naturais suaves, grafismos minimalistas e embalagem premium que combinavam na perfeição com a identidade calmante da marca de bem-estar.',
         'Lançamento com programas de retiro, aulas de yoga e experiências premium para clientes como aplicação inicial.',
@@ -6744,17 +6744,17 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Design de Prancha Específico para Yoga e Estética Sânscrita',
               detail:
-                'A equipa de design da Afarer passou 3 semanas em março de 2023 a estudar os requisitos de Simone. O resultado: a prancha SUP yoga «Serenity» — 34" de largura (contra as 32" padrão), 11\'6" de comprimento, com um núcleo drop-stitch de 7 camadas para estabilidade rígida. O convés apresentava uma almofada EVA de célula fechada de 6 mm de espessura com textura em padrão de diamante (coeficiente de atrito testado: 0,85 em seco, 0,72 em molhado) cobrindo 85% da superfície do convés. A Afarer incorporou um símbolo sânscrito «Om» em transferência térmica refletora prateada na proa e um padrão de lótus à volta da pega central de transporte. As pranchas chegaram em 4 cores (coral, turquesa, laranja pôr do sol, azul lagoa) correspondentes às 4 paletas de cores dos resorts Azure. Cada prancha tinha 8 anéis em D de aço inoxidável — 4 para um sistema de cordão elástico para fixar tapetes de yoga e 4 para linhas de âncora opcionais para prática estacionária em correntes.',
+                'A equipa de design da OLagoon passou 3 semanas em março de 2023 a estudar os requisitos de Simone. O resultado: a prancha SUP yoga «Serenity» — 34" de largura (contra as 32" padrão), 11\'6" de comprimento, com um núcleo drop-stitch de 7 camadas para estabilidade rígida. O convés apresentava uma almofada EVA de célula fechada de 6 mm de espessura com textura em padrão de diamante (coeficiente de atrito testado: 0,85 em seco, 0,72 em molhado) cobrindo 85% da superfície do convés. A OLagoon incorporou um símbolo sânscrito «Om» em transferência térmica refletora prateada na proa e um padrão de lótus à volta da pega central de transporte. As pranchas chegaram em 4 cores (coral, turquesa, laranja pôr do sol, azul lagoa) correspondentes às 4 paletas de cores dos resorts Azure. Cada prancha tinha 8 anéis em D de aço inoxidável — 4 para um sistema de cordão elástico para fixar tapetes de yoga e 4 para linhas de âncora opcionais para prática estacionária em correntes.',
             },
             {
               title: 'Fase 2 — Programa Piloto na Azure North com Formação de Instrutores de Yoga',
               detail:
-                'A Afarer produziu 15 pranchas de protótipo e expediu-as por via aérea expressa (Singapore Airlines Cargo) para um piloto de 6 semanas na Azure North a partir de 1 de junho de 2023. Simone e 4 instrutores residentes de yoga concluíram um programa de Certificação de Instrutor de SUP Yoga de 40 horas, desenvolvido em conjunto pelos consultores de bem-estar da Afarer e profissionais da Yoga Alliance. A certificação abrangia: montagem e insuflação da prancha para yoga (12 PSI para estabilidade máxima), sequenciação de aulas para condições aquáticas, protocolos de segurança para vento e corrente, e 15 posturas únicas de SUP yoga adaptadas ao ambiente da prancha. O piloto realizou 42 aulas em 6 semanas com 186 hóspedes participantes. Os inquéritos antes e depois do piloto mostraram que a confiança dos hóspedes melhorou 58% e a classificação média das aulas foi de 4,8/5. O feedback dos hóspedes destacou duas modificações: o pedido de um suporte para pagaia na borda da prancha (para as pagaias não flutuarem durante a prática) e a preferência por pranchas com raio de proa «suave» para posturas a pares.',
+                'A OLagoon produziu 15 pranchas de protótipo e expediu-as por via aérea expressa (Singapore Airlines Cargo) para um piloto de 6 semanas na Azure North a partir de 1 de junho de 2023. Simone e 4 instrutores residentes de yoga concluíram um programa de Certificação de Instrutor de SUP Yoga de 40 horas, desenvolvido em conjunto pelos consultores de bem-estar da OLagoon e profissionais da Yoga Alliance. A certificação abrangia: montagem e insuflação da prancha para yoga (12 PSI para estabilidade máxima), sequenciação de aulas para condições aquáticas, protocolos de segurança para vento e corrente, e 15 posturas únicas de SUP yoga adaptadas ao ambiente da prancha. O piloto realizou 42 aulas em 6 semanas com 186 hóspedes participantes. Os inquéritos antes e depois do piloto mostraram que a confiança dos hóspedes melhorou 58% e a classificação média das aulas foi de 4,8/5. O feedback dos hóspedes destacou duas modificações: o pedido de um suporte para pagaia na borda da prancha (para as pagaias não flutuarem durante a prática) e a preferência por pranchas com raio de proa «suave» para posturas a pares.',
             },
             {
               title: 'Fase 3 — Implementação Multirresort, Infraestrutura e Programação',
               detail:
-                'Com base no piloto bem-sucedido, a Azure fez uma ordem de compra de 40 pranchas Serenity (10 por resort) em agosto de 2023. A Afarer acrescentou duas modificações de design com base no feedback do piloto: uma correia de retenção de pagaia em silicone na lateral estibordo e um raio de proa 15 cm mais largo (de 45 cm para 60 cm de raio) para espaço nas posturas a pares. A Afarer expediu por via marítima num contentor dedicado de 20 pés, incluindo 40 bombas de insuflação personalizadas com manómetros calibrados em PSI em vez de bar. A carga chegou a Malé a 1 de novembro de 2023. Simone formou 12 instrutores adicionais nos 4 resorts (3 por propriedade) com o currículo de certificação, com dois instrutores principais a participarem num programa de formação de formadores de 2 semanas em Bali (coordenado pelo parceiro de bem-estar da Afarer). Cada resort estabeleceu um ponto de lançamento dedicado de SUP yoga com doca flutuante, armazenagem de equipamento e uma área de relaxamento sombreada.',
+                'Com base no piloto bem-sucedido, a Azure fez uma ordem de compra de 40 pranchas Serenity (10 por resort) em agosto de 2023. A OLagoon acrescentou duas modificações de design com base no feedback do piloto: uma correia de retenção de pagaia em silicone na lateral estibordo e um raio de proa 15 cm mais largo (de 45 cm para 60 cm de raio) para espaço nas posturas a pares. A OLagoon expediu por via marítima num contentor dedicado de 20 pés, incluindo 40 bombas de insuflação personalizadas com manómetros calibrados em PSI em vez de bar. A carga chegou a Malé a 1 de novembro de 2023. Simone formou 12 instrutores adicionais nos 4 resorts (3 por propriedade) com o currículo de certificação, com dois instrutores principais a participarem num programa de formação de formadores de 2 semanas em Bali (coordenado pelo parceiro de bem-estar da OLagoon). Cada resort estabeleceu um ponto de lançamento dedicado de SUP yoga com doca flutuante, armazenagem de equipamento e uma área de relaxamento sombreada.',
             },
             {
               title: 'Fase 4 — Desempenho de Receita, Retenção de Hóspedes e Expansão do Programa',
@@ -6781,22 +6781,22 @@ const pt: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1 — Visão de Design da Instrutora de Yoga e Prancha de Estúdio Ergonómica',
               detail:
-                'Os designers de produto da Afarer voaram para Santa Mónica em fevereiro de 2023 para observar 4 aulas de Kai e perceber o seu estilo de ensino. Kai ensinava uma mistura de Vinyasa flow, yin restaurativo e acro-yoga a pares em pranchas — exigindo mais espaço de convés do que os SUP padrão ofereciam. A Afarer desenhou 3 SKU: (1) «Drift 10\'6"» — prancha SUP yoga padrão (34" de largura, almofada de convés de 6 mm), (2) «Studio 12\'0"» — prancha extra larga com 38" e convés almofadado de 8 mm (concebida para acro e posturas a pares, peso máximo 450 lbs) e (3) «Mini 9\'0"» — prancha amigável para crianças (30" de largura, convés de 5 mm, opções de cores vivas). A prancha Studio apresentava um exclusivo «marcador de alinhamento da linha central» — uma linha impressa subtil ao meio do convés para ajudar os alunos a alinhar consistentemente os tapetes. Todas as pranchas usavam a tecnologia drop-stitch Fusion-Lite da Afarer, pesando 3 lbs menos que as pranchas padrão, para uma manipulação mais fácil.',
+                'Os designers de produto da OLagoon voaram para Santa Mónica em fevereiro de 2023 para observar 4 aulas de Kai e perceber o seu estilo de ensino. Kai ensinava uma mistura de Vinyasa flow, yin restaurativo e acro-yoga a pares em pranchas — exigindo mais espaço de convés do que os SUP padrão ofereciam. A OLagoon desenhou 3 SKU: (1) «Drift 10\'6"» — prancha SUP yoga padrão (34" de largura, almofada de convés de 6 mm), (2) «Studio 12\'0"» — prancha extra larga com 38" e convés almofadado de 8 mm (concebida para acro e posturas a pares, peso máximo 450 lbs) e (3) «Mini 9\'0"» — prancha amigável para crianças (30" de largura, convés de 5 mm, opções de cores vivas). A prancha Studio apresentava um exclusivo «marcador de alinhamento da linha central» — uma linha impressa subtil ao meio do convés para ajudar os alunos a alinhar consistentemente os tapetes. Todas as pranchas usavam a tecnologia drop-stitch Fusion-Lite da OLagoon, pesando 3 lbs menos que as pranchas padrão, para uma manipulação mais fácil.',
             },
             {
               title: 'Fase 2 — Identidade de Marca, Produção de Conteúdo e Estratégia de Pré-venda',
               detail:
-                'A equipa criativa da Afarer desenvolveu a identidade visual da Drift & Downward Dog: um logótipo minimalista com um híbrido estilizado de lótus/mandala-onda, uma paleta de verde-sálvia, areia e azul-oceano, e um par de tipos de letra personalizado (títulos Lora, corpo Nunito). Produziram uma sessão fotográfica de 6 dias em março de 2023 em 5 localizações da Baía de Santa Mónica (Santa Monica Pier, Point Dume em Malibu, Venice Beach, Marina del Rey e Paradise Cove), gerando 480 imagens finais e 8 horas de filmagens em 4K. Kai lançou uma pré-venda de 30 dias a 1 de maio de 2023 através de uma campanha Kickstarter com um objetivo de $35.000. A campanha apresentava 3 níveis de recompensa: prancha Drift early-bird ($599, 40 unidades), pacote de prancha Studio com tapete e correia ($949, 25 unidades) e prancha Mini ($449, 20 unidades). A campanha atingiu o objetivo em 11 horas e fechou em $74.200 de 118 apoiantes.',
+                'A equipa criativa da OLagoon desenvolveu a identidade visual da Drift & Downward Dog: um logótipo minimalista com um híbrido estilizado de lótus/mandala-onda, uma paleta de verde-sálvia, areia e azul-oceano, e um par de tipos de letra personalizado (títulos Lora, corpo Nunito). Produziram uma sessão fotográfica de 6 dias em março de 2023 em 5 localizações da Baía de Santa Mónica (Santa Monica Pier, Point Dume em Malibu, Venice Beach, Marina del Rey e Paradise Cove), gerando 480 imagens finais e 8 horas de filmagens em 4K. Kai lançou uma pré-venda de 30 dias a 1 de maio de 2023 através de uma campanha Kickstarter com um objetivo de $35.000. A campanha apresentava 3 níveis de recompensa: prancha Drift early-bird ($599, 40 unidades), pacote de prancha Studio com tapete e correia ($949, 25 unidades) e prancha Mini ($449, 20 unidades). A campanha atingiu o objetivo em 11 horas e fechou em $74.200 de 118 apoiantes.',
             },
             {
               title: 'Fase 3 — Produção, Logística de Fulfillment e Integração de Aulas',
               detail:
-                'A produção de 180 pranchas (80 Drift, 50 Studio, 50 Mini) decorreu de junho a julho de 2023 na instalação da Afarer no Vietname. Até 1 de agosto de 2023, todas as encomendas do Kickstarter estavam entregues a partir de um armazém 3PL em Long Beach (a 15 milhas do estúdio de Kai em Santa Mónica). Kai lançou a sua plataforma de marcação de aulas em Shopify com uma aplicação personalizada de agendamento integrada com o Acuity Scheduling. Ofereceu 4 tipos de aula: «Sunrise Flow» (iniciante, prancha Drift), «Full Moon Studio» (avançado/a pares, prancha Studio), «Family Paddle» (crianças + pais, Mini + Drift) e «Restorative Yin & Float» (combinação de posturas yin e meditação guiada). Contratou 3 instrutoras certificadas adicionais de SUP yoga para o horário alargado. Em setembro de 2023, Kai dava 22 aulas por semana com uma média de 14 alunos por aula.',
+                'A produção de 180 pranchas (80 Drift, 50 Studio, 50 Mini) decorreu de junho a julho de 2023 na instalação da OLagoon no Vietname. Até 1 de agosto de 2023, todas as encomendas do Kickstarter estavam entregues a partir de um armazém 3PL em Long Beach (a 15 milhas do estúdio de Kai em Santa Mónica). Kai lançou a sua plataforma de marcação de aulas em Shopify com uma aplicação personalizada de agendamento integrada com o Acuity Scheduling. Ofereceu 4 tipos de aula: «Sunrise Flow» (iniciante, prancha Drift), «Full Moon Studio» (avançado/a pares, prancha Studio), «Family Paddle» (crianças + pais, Mini + Drift) e «Restorative Yin & Float» (combinação de posturas yin e meditação guiada). Contratou 3 instrutoras certificadas adicionais de SUP yoga para o horário alargado. Em setembro de 2023, Kai dava 22 aulas por semana com uma média de 14 alunos por aula.',
             },
             {
               title: 'Fase 4 — Expansão de Canal de Retalho, Bem-Estar Corporativo e Crescimento no 2.º Ano',
               detail:
-                'Em outubro de 2023, Kai foi contactada pela compradora regional do sul da Califórnia da REI, que tinha assistido a uma das suas aulas. A REI fez uma encomenda de teste de 30 pranchas Drift e 15 pranchas Mini para 5 lojas na área de Santa Mónica. A Afarer adaptou a embalagem para incluir etiquetas de suspensão conformes com a REI e registo de produto por código QR. Em dezembro de 2023, a taxa de sell-through na REI atingiu 82% nas 5 lojas e a REI fez uma encomenda subsequente de 100 pranchas para 20 localizações do sul da Califórnia. Kai lançou também um programa de bem-estar corporativo — contratando com 4 empresas tecnológicas (Google Venice, Hulu Santa Monica e duas outras) para fornecer aulas semanais de SUP yoga no local como benefício dos colaboradores. O programa corporativo gerou $4.200/mês em receita recorrente. No final do 1.º ano (março de 2024), a Drift & Downward Dog tinha gerado $342.000 em receita combinada (vendas de produtos: $218.000, receita de aulas: $94.000, bem-estar corporativo: $30.000).',
+                'Em outubro de 2023, Kai foi contactada pela compradora regional do sul da Califórnia da REI, que tinha assistido a uma das suas aulas. A REI fez uma encomenda de teste de 30 pranchas Drift e 15 pranchas Mini para 5 lojas na área de Santa Mónica. A OLagoon adaptou a embalagem para incluir etiquetas de suspensão conformes com a REI e registo de produto por código QR. Em dezembro de 2023, a taxa de sell-through na REI atingiu 82% nas 5 lojas e a REI fez uma encomenda subsequente de 100 pranchas para 20 localizações do sul da Califórnia. Kai lançou também um programa de bem-estar corporativo — contratando com 4 empresas tecnológicas (Google Venice, Hulu Santa Monica e duas outras) para fornecer aulas semanais de SUP yoga no local como benefício dos colaboradores. O programa corporativo gerou $4.200/mês em receita recorrente. No final do 1.º ano (março de 2024), a Drift & Downward Dog tinha gerado $342.000 em receita combinada (vendas de produtos: $218.000, receita de aulas: $94.000, bem-estar corporativo: $30.000).',
             },
           ],
           results: [
@@ -6808,8 +6808,8 @@ const pt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Por Que a Afarer',
+    whyOLagoon: {
+      title: 'Por Que a OLagoon',
       items: [
         {
           title: 'Compreensão da Experiência de Bem-Estar',
@@ -6852,7 +6852,7 @@ const pt: Record<string, SolutionOverride> = {
       {
         question: 'Posso criar a minha própria linha de produtos SUP Yoga com a minha marca?',
         answer:
-          'Sim. A Afarer fornece fabrico completo de marca própria, com cores, grafismos, embalagem e acessórios personalizados, concebidos especificamente para marcas de yoga e bem-estar.',
+          'Sim. A OLagoon fornece fabrico completo de marca própria, com cores, grafismos, embalagem e acessórios personalizados, concebidos especificamente para marcas de yoga e bem-estar.',
       },
       {
         question: 'As vossas pranchas SUP Yoga são adequadas para utilização profissional em estúdio?',

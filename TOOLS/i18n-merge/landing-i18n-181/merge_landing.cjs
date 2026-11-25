@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const BASE = __dirname;
-const REPO = 'E:/github/afarer';
+const REPO = 'E:/github/olagoon';
 const DATA_DIR = path.join(REPO, 'src', 'data', 'landing-i18n');
 const NEW_LOCALES = ['hr', 'hu', 'sk', 'bg', 'sl', 'sr', 'id', 'he', 'ms', 'lt', 'lv', 'et', 'tl'];
 const EMPTY_FILES = ['dock-platform.json', 'giant-sup.json', 'surf-sup.json'];

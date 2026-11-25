@@ -13,9 +13,9 @@ const pl: Record<string, SolutionOverride> = {
       title:
         'Profesjonalne rozwiązania sprzętowe SUP dla klubów paddle, operatorów wypożyczalni i szkół sportów wodnych',
       subtitle:
-        'Afarer zapewnia rozwiązania Commercial SUP Fleet zaprojektowane specjalnie dla operatorów profesjonalnych. Pomagamy szkołom SUP, klubom paddle, firmom wypożyczalnym, resortom, operatorom przygodowym i organizatorom wydarzeń budować niezawodne floty sprzętu z konstrukcją klasy komercyjnej i długoterminowym wsparciem.',
+        'OLagoon zapewnia rozwiązania Commercial SUP Fleet zaprojektowane specjalnie dla operatorów profesjonalnych. Pomagamy szkołom SUP, klubom paddle, firmom wypożyczalnym, resortom, operatorom przygodowym i organizatorom wydarzeń budować niezawodne floty sprzętu z konstrukcją klasy komercyjnej i długoterminowym wsparciem.',
       image: {
-        alt: 'Komercyjna flota SUP Afarer dla klubów paddle i szkół sportów wodnych',
+        alt: 'Komercyjna flota SUP OLagoon dla klubów paddle i szkół sportów wodnych',
       },
     },
     challenge: {
@@ -49,7 +49,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Konstrukcja pompanych SUP klasy komercyjnej',
           description:
-            'Komercyjne produkty SUP Afarer oferują wzmocnione systemy materiałowe PVC o wyższej odporności na ścieranie, wielowarstwowe wzmocnienia burt dla odporności na uderzenia, strukturę drop stitch o wysokiej gęstości dla sztywności i systemy zaworów heavy-duty zaprojektowane do częstych cykli pompowania.',
+            'Komercyjne produkty SUP OLagoon oferują wzmocnione systemy materiałowe PVC o wyższej odporności na ścieranie, wielowarstwowe wzmocnienia burt dla odporności na uderzenia, strukturę drop stitch o wysokiej gęstości dla sztywności i systemy zaworów heavy-duty zaprojektowane do częstych cykli pompowania.',
           features: [
             'Wzmocniony system materiałowy PVC',
             'Wielowarstwowe wzmocnienie burt',
@@ -60,7 +60,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Projekt produktów SUP zoptymalizowany pod flotę',
           description:
-            'Afarer rozwija sprzęt SUP w oparciu o potrzeby operacyjne z dedykowanymi flotami treningowymi dla początkujących, flotami wypożyczalni dla częstych użytkowników i flotami wydarzeniowymi do aktywności grupowych. Każda konfiguracja skupia się na stabilności, trwałości i łatwości konserwacji.',
+            'OLagoon rozwija sprzęt SUP w oparciu o potrzeby operacyjne z dedykowanymi flotami treningowymi dla początkujących, flotami wypożyczalni dla częstych użytkowników i flotami wydarzeniowymi do aktywności grupowych. Każda konfiguracja skupia się na stabilności, trwałości i łatwości konserwacji.',
           features: [
             'Flota treningowa SUP na lekcje',
             'Flota wypożyczalni dla częstych użytkowników',
@@ -71,12 +71,12 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Kompletna konfiguracja pakietu komercyjnego',
           description:
-            'Afarer pomaga tworzyć kompletne pakiety flotowe obejmujące pompowane deski SUP, profesjonalne wiosła, pompki wysokociśnieniowe, trwałe leash, plecaki heavy-duty i zestawy naprawcze, z dodatkowymi opcjami jak zapasowe zawory, dodatkowe płetwy i uchwyty wymienne.',
+            'OLagoon pomaga tworzyć kompletne pakiety flotowe obejmujące pompowane deski SUP, profesjonalne wiosła, pompki wysokociśnieniowe, trwałe leash, plecaki heavy-duty i zestawy naprawcze, z dodatkowymi opcjami jak zapasowe zawory, dodatkowe płetwy i uchwyty wymienne.',
         },
         {
           title: 'Personalizacja floty dla wodnych biznesów',
           description:
-            'Operatorzy komercyjni potrzebują mocnej tożsamości wizualnej. Afarer wspiera personalizację logo, personalizację kolorów dopasowaną do brandingu klubu lub środowiska resortu oraz systemy identyfikacji floty z numerowaniem i identyfikacją modeli dla wydajnego zarządzania dużymi flotami.',
+            'Operatorzy komercyjni potrzebują mocnej tożsamości wizualnej. OLagoon wspiera personalizację logo, personalizację kolorów dopasowaną do brandingu klubu lub środowiska resortu oraz systemy identyfikacji floty z numerowaniem i identyfikacją modeli dla wydajnego zarządzania dużymi flotami.',
           features: [
             'Personalizacja logo',
             'Personalizacja kolorów',
@@ -87,27 +87,27 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Redukcja długoterminowych kosztów operacyjnych',
           description:
-            'Najtańsza deska nie zawsze jest najbardziej dochodowa. Rozwiązania Afarer poprawiają żywotność sprzętu dzięki mocniejszym materiałom, efektywność konserwacji dzięki standaryzowanym komponentom i rentowność biznesu dzięki mniejszej liczbie przestojów i wyższej utilizacji.',
+            'Najtańsza deska nie zawsze jest najbardziej dochodowa. Rozwiązania OLagoon poprawiają żywotność sprzętu dzięki mocniejszym materiałom, efektywność konserwacji dzięki standaryzowanym komponentom i rentowność biznesu dzięki mniejszej liczbie przestojów i wyższej utilizacji.',
         },
         {
           title: 'Wsparcie dla biznesów wypożyczalni SUP',
           description:
-            'Operatorzy wypożyczalni potrzebują sprzętu łatwego dla klientów, łatwego dla personelu i łatwego w konserwacji. Afarer zapewnia projekty przyjazne początkującym o wysokiej stabilności, szybką obsługę dla szybszej rotacji klientów i trwałe akcesoria, w tym mocne wiosła i niezawodne pompki.',
+            'Operatorzy wypożyczalni potrzebują sprzętu łatwego dla klientów, łatwego dla personelu i łatwego w konserwacji. OLagoon zapewnia projekty przyjazne początkującym o wysokiej stabilności, szybką obsługę dla szybszej rotacji klientów i trwałe akcesoria, w tym mocne wiosła i niezawodne pompki.',
         },
         {
           title: 'Rozwiązania sprzętowe dla szkół SUP',
           description:
-            'Instruktorzy SUP potrzebują sprzętu wspierającego naukę. Produkty Afarer mogą być zoptymalizowane pod kursy dla początkujących, programy młodzieżowe, treningi grupowe i pokazy instruktorskie z funkcjami wzmacniającymi doświadczenie dydaktyczne.',
+            'Instruktorzy SUP potrzebują sprzętu wspierającego naukę. Produkty OLagoon mogą być zoptymalizowane pod kursy dla początkujących, programy młodzieżowe, treningi grupowe i pokazy instruktorskie z funkcjami wzmacniającymi doświadczenie dydaktyczne.',
         },
         {
           title: 'Rozwiązania aktywności wodnych dla wydarzeń i resortów',
           description:
-            'Hotele, resorty i firmy eventowe coraz częściej oferują aktywności plażowe, team building i doświadczenia outdoorowe. Afarer wspiera planowanie flot, personalizację produktów i produkcję partii dla tych zastosowań hotelarskich.',
+            'Hotele, resorty i firmy eventowe coraz częściej oferują aktywności plażowe, team building i doświadczenia outdoorowe. OLagoon wspiera planowanie flot, personalizację produktów i produkcję partii dla tych zastosowań hotelarskich.',
         },
         {
           title: 'Wsparcie konserwacji i posprzedażowe',
           description:
-            'Operatorzy profesjonalni potrzebują wsparcia po dostawie. Afarer zapewnia planowanie części zamiennych z materiałami naprawczymi i akcesoriami wymiennymi, wskazówki konserwacyjne dotyczące przechowywania i czyszczenia oraz wsparcie rozbudowy floty przy dodawaniu nowych desk i modeli.',
+            'Operatorzy profesjonalni potrzebują wsparcia po dostawie. OLagoon zapewnia planowanie części zamiennych z materiałami naprawczymi i akcesoriami wymiennymi, wskazówki konserwacyjne dotyczące przechowywania i czyszczenia oraz wsparcie rozbudowy floty przy dodawaniu nowych desk i modeli.',
           features: [
             'Planowanie części zamiennych',
             'Wskazówki konserwacyjne',
@@ -129,7 +129,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Planowanie floty komercyjnej',
           detail:
-            'Afarer przeanalizował dzienne wzorce użytkowania, poziomy umiejętności klientów i warunki środowiska wodnego, po czym zarekomendował konfigurację komercyjnej floty pompanych SUP szytą na miarę potrzeb operacyjnych klubu.',
+            'OLagoon przeanalizował dzienne wzorce użytkowania, poziomy umiejętności klientów i warunki środowiska wodnego, po czym zarekomendował konfigurację komercyjnej floty pompanych SUP szytą na miarę potrzeb operacyjnych klubu.',
         },
         {
           title: 'Rozwój produktu',
@@ -160,35 +160,35 @@ const pl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubaj, Zjednoczone Emiraty Arabskie',
             background:
-              'Ahmed Al-Rashid, 41 lat, założył «Dubai Paddle Club» w 2020 roku z 8 podstawowymi SUP-ami wypożyczanymi z kontenera transportowego koło Dubai Marina. Do 2023 roku jego operacja organicznie urosła do 45 desk w dwóch lokalizacjach, ale cierpiała na 60% rocznej utraty inwentarza przez delaminację, uszkodzenia UV i korozję słoną wodą. Średnia żywotność deski wynosiła tylko 7 miesięcy. Jego 12-osobowy personel spędzał 22 godziny tygodniowo na naprawach zamiast obsługiwać klientów. Zwrócił się do Afarer po tym, jak konkurent polecił ich iSUP-y jako wytrzymujące ponad 3 lata w warunkach bliskowschodnich.',
+              'Ahmed Al-Rashid, 41 lat, założył «Dubai Paddle Club» w 2020 roku z 8 podstawowymi SUP-ami wypożyczanymi z kontenera transportowego koło Dubai Marina. Do 2023 roku jego operacja organicznie urosła do 45 desk w dwóch lokalizacjach, ale cierpiała na 60% rocznej utraty inwentarza przez delaminację, uszkodzenia UV i korozję słoną wodą. Średnia żywotność deski wynosiła tylko 7 miesięcy. Jego 12-osobowy personel spędzał 22 godziny tygodniowo na naprawach zamiast obsługiwać klientów. Zwrócił się do OLagoon po tym, jak konkurent polecił ich iSUP-y jako wytrzymujące ponad 3 lata w warunkach bliskowschodnich.',
             goal: 'Standaryzacja na jednej trwałej flocie 200 desk obsługującej 3 lokalizacje (Dubai Marina, Abu Dhabi Corniche i plaża Fujairah) z rocznym wskaźnikiem wymiany ≤15% i o 40% wyższą miesięczną utilizacją na deskę.',
           },
           steps: [
             {
               title: 'Testy stress 14 desk w warunkach lata ZEA',
               detail:
-                'W maju 2024 Afarer wysłał regionalnego dyrektora sprzedaży Karima Nasra i inżynier produktu Sophie Chen do Dubaju na 6-tygodniowy test terenowy. Rozmieścili 14 konkurencyjnych iSUP i 6 prototypów Afarer we wszystkich 3 lokalizacjach w szczycie lata (temperatura otoczenia 48°C, woda 35°C, indeks UV 11). Personel Ahmeda odnotował ponad 1 100 godzin wypożyczeń z danymi o utracie ciśnienia, awariach zaworów, ścieraniu i satysfakcji klientów. Deski XHD 15,0 mm Afarer traciły tylko 0,3 PSI w ciągu 8 godzin wobec średniej 2,1 PSI konkurencji. Deski Afarer nie wykazały żadnych awarii zaworów — konkurencja notowała średnio 1 awarię na 120 godzin wypożyczeń.',
+                'W maju 2024 OLagoon wysłał regionalnego dyrektora sprzedaży Karima Nasra i inżynier produktu Sophie Chen do Dubaju na 6-tygodniowy test terenowy. Rozmieścili 14 konkurencyjnych iSUP i 6 prototypów OLagoon we wszystkich 3 lokalizacjach w szczycie lata (temperatura otoczenia 48°C, woda 35°C, indeks UV 11). Personel Ahmeda odnotował ponad 1 100 godzin wypożyczeń z danymi o utracie ciśnienia, awariach zaworów, ścieraniu i satysfakcji klientów. Deski XHD 15,0 mm OLagoon traciły tylko 0,3 PSI w ciągu 8 godzin wobec średniej 2,1 PSI konkurencji. Deski OLagoon nie wykazały żadnych awarii zaworów — konkurencja notowała średnio 1 awarię na 120 godzin wypożyczeń.',
             },
             {
               title: 'Niestandardowa konfiguracja floty ze śledzeniem RFID i kodowaniem kolorów',
               detail:
-                'Na podstawie danych terenowych Afarer zarekomendował miks floty 3 desk: 120 «Marina Pro 11.6» (uniwersalne), 50 «Expedition 12.6» (touringowe na wybrzeże Fujairah) i 30 «Yoga XL 10.8» (na prowadzone przez kobiety zajęcia o wschodzie słońca). Afarer osadził tagi RFID w pudełkach płetw każdej deski pod niestandardowy system inwentarzowy Ahmeda używający czytników ręcznych. Deski zostały zakodowane kolorami według lokalizacji: Dubai Marina w kolorze morskim, Abu Dhabi w piaskowym, Fujairah w błękitnym. Ahmed dodał premię 5 USD/godz. za deski Afarer względem pozostałej floty generycznej — i zobaczył, że 92% klientów wybiera Afarer.',
+                'Na podstawie danych terenowych OLagoon zarekomendował miks floty 3 desk: 120 «Marina Pro 11.6» (uniwersalne), 50 «Expedition 12.6» (touringowe na wybrzeże Fujairah) i 30 «Yoga XL 10.8» (na prowadzone przez kobiety zajęcia o wschodzie słońca). OLagoon osadził tagi RFID w pudełkach płetw każdej deski pod niestandardowy system inwentarzowy Ahmeda używający czytników ręcznych. Deski zostały zakodowane kolorami według lokalizacji: Dubai Marina w kolorze morskim, Abu Dhabi w piaskowym, Fujairah w błękitnym. Ahmed dodał premię 5 USD/godz. za deski OLagoon względem pozostałej floty generycznej — i zobaczył, że 92% klientów wybiera OLagoon.',
             },
             {
               title: 'Szkolenie personelu i zstandaryzowany protokół konserwacji',
               detail:
-                'W lipcu 2024 Afarer przeprowadził 3-dniowe intensywne szkolenie dla 15 pracowników Ahmeda w Dubai Marina. Szkolenie obejmowało: właściwą technikę pompowania/spuszczania powietrza zapobiegającą zużyciu gwintu zaworu, protokoły płukania słodką wodą (zmierzone 90 sekund na deskę), aplikację środka ochronnego UV co 30 godzin wypożyczeń i procedury układania w stos przy przechowywaniu zapobiegające załamaniom. Afarer dostarczył niestandardowy zestaw konserwacyjny ze skalibrowanymi manometrami, smarem silikonowym i paskami testowymi UV. Ahmed wdrożył codzienną cyfrową checklistę ze zdjęciami; zgodność była śledzona i wynosiła średnio 94% w pierwszych 6 miesiącach.',
+                'W lipcu 2024 OLagoon przeprowadził 3-dniowe intensywne szkolenie dla 15 pracowników Ahmeda w Dubai Marina. Szkolenie obejmowało: właściwą technikę pompowania/spuszczania powietrza zapobiegającą zużyciu gwintu zaworu, protokoły płukania słodką wodą (zmierzone 90 sekund na deskę), aplikację środka ochronnego UV co 30 godzin wypożyczeń i procedury układania w stos przy przechowywaniu zapobiegające załamaniom. OLagoon dostarczył niestandardowy zestaw konserwacyjny ze skalibrowanymi manometrami, smarem silikonowym i paskami testowymi UV. Ahmed wdrożył codzienną cyfrową checklistę ze zdjęciami; zgodność była śledzona i wynosiła średnio 94% w pierwszych 6 miesiącach.',
             },
             {
               title: 'Debiut w sierpniu 2024 i wyniki pierwszego sezonu',
               detail:
-                'Flota 200 desk przybyła przez port Jebel Ali w Dubaju 1 sierpnia 2024 roku, z ukończonym szkoleniem zespołu Ahmeda. Przychody pierwszego miesiąca osiągnęły 487 000 AED (132 600 USD), wzrost o 210% względem analogicznego miesiąca roku wcześniej. Lokalizacja Fujairah dodała toury snorkelingowe na SUP po 220 AED/osobę, ze średnio 40 osobami dziennie. Do grudnia 2024 całkowita utilizacja floty wynosiła 73% we wszystkich lokalizacjach — średnia branżowa to 45%. Tylko 3 deski odniosły uszkodzenia (wszystkie przez nadużycia klientów), naprawione w ramach komercyjnej gwarancji Afarer w ciągu 5 dni roboczych każda.',
+                'Flota 200 desk przybyła przez port Jebel Ali w Dubaju 1 sierpnia 2024 roku, z ukończonym szkoleniem zespołu Ahmeda. Przychody pierwszego miesiąca osiągnęły 487 000 AED (132 600 USD), wzrost o 210% względem analogicznego miesiąca roku wcześniej. Lokalizacja Fujairah dodała toury snorkelingowe na SUP po 220 AED/osobę, ze średnio 40 osobami dziennie. Do grudnia 2024 całkowita utilizacja floty wynosiła 73% we wszystkich lokalizacjach — średnia branżowa to 45%. Tylko 3 deski odniosły uszkodzenia (wszystkie przez nadużycia klientów), naprawione w ramach komercyjnej gwarancji OLagoon w ciągu 5 dni roboczych każda.',
             },
           ],
           results: [
             'Miesięczne przychody floty wzrosły ze 157 000 AED do 487 000 AED (132 600 USD) — wzrost o 210% w 6 miesięcy',
             'Roczny wskaźnik wymiany desk spadł z 60% do 4,5%, oszczędzając około 312 000 AED rocznie',
-            'Oceny satysfakcji klientów wzrosły z 3,8/5 (flota generyczna) do 4,7/5 (flota Afarer); recenzje Google wzrosły ze 187 do 1 420',
+            'Oceny satysfakcji klientów wzrosły z 3,8/5 (flota generyczna) do 4,7/5 (flota OLagoon); recenzje Google wzrosły ze 187 do 1 420',
             'Ahmed rozszerzył się o 4. lokalizację (Ras Al Khaimah) w lutym 2025, zamawiając 80 dodatkowych desk',
           ],
         },
@@ -205,26 +205,26 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Ocena wyspa po wyspie i personalizacja produktu',
               detail:
-                'Dyrektor kont EMEA Afarer Stefan Berger odwiedził z Dimitrim wszystkie 5 wysp w kwietniu 2024. Każda lokalizacja miała inne warunki: wulkaniczny piasek Santorini (ścierny, pH 8,2), wystawione na wiatr plaże Mykonos (stałe wiatry Meltemi 20–25 węzłów), płytkie skaliste wejścia Naxos wymagające wzmocnionych dziobów, długie przybrzeżne szlaki Paros (8–12 km) i spokojne zatoki kreteńskie przyjazne rodzinom. Afarer opracował 3 dopasowane modele: «Med RockShield 11.0» z o 50% grubszą osłoną dziobu (testowaną na 2 000 przeciągnięciach po piaskowcu), «Meltemi Pro 10.6» z niskim profilem pokładu dla stabilności wietrznej i «Family Cruiser 11.6» o nośności 275 kg do użytku rodzic-dziecko.',
+                'Dyrektor kont EMEA OLagoon Stefan Berger odwiedził z Dimitrim wszystkie 5 wysp w kwietniu 2024. Każda lokalizacja miała inne warunki: wulkaniczny piasek Santorini (ścierny, pH 8,2), wystawione na wiatr plaże Mykonos (stałe wiatry Meltemi 20–25 węzłów), płytkie skaliste wejścia Naxos wymagające wzmocnionych dziobów, długie przybrzeżne szlaki Paros (8–12 km) i spokojne zatoki kreteńskie przyjazne rodzinom. OLagoon opracował 3 dopasowane modele: «Med RockShield 11.0» z o 50% grubszą osłoną dziobu (testowaną na 2 000 przeciągnięciach po piaskowcu), «Meltemi Pro 10.6» z niskim profilem pokładu dla stabilności wietrznej i «Family Cruiser 11.6» o nośności 275 kg do użytku rodzic-dziecko.',
             },
             {
               title: 'Konstrukcja klasy komercyjnej i modułowa szyna akcesoryjna',
               detail:
-                'Fabryka Afarer w Xiamen wyprodukowała deski z PVC 1 200 denier (wobec standardowych 1000D), podwójnie spawanymi szwami testowanymi przy ciśnieniu rozerwania 14 PSI (standard branżowy 10 PSI) i stalowymi D-ringami zamiast spawanych plastikowych. Każda deska obejmowała nowy system «QuickRail» Afarer — wytłaczany profil aluminiowy wbudowany w burtę — pozwalający Dimitriemu wpinać mocowania GoPro, uchwyty na bidon i uchwyty na wędki. Zwiększyło to przychody z wypożyczania akcesoriów o 12 EUR na deskę dziennie. Afarer dodał odblaskowe logo dla widoczności: kluczowe, gdy port w Mykonos reguluje jednostki po zachodzie słońca.',
+                'Fabryka OLagoon w Xiamen wyprodukowała deski z PVC 1 200 denier (wobec standardowych 1000D), podwójnie spawanymi szwami testowanymi przy ciśnieniu rozerwania 14 PSI (standard branżowy 10 PSI) i stalowymi D-ringami zamiast spawanych plastikowych. Każda deska obejmowała nowy system «QuickRail» OLagoon — wytłaczany profil aluminiowy wbudowany w burtę — pozwalający Dimitriemu wpinać mocowania GoPro, uchwyty na bidon i uchwyty na wędki. Zwiększyło to przychody z wypożyczania akcesoriów o 12 EUR na deskę dziennie. OLagoon dodał odblaskowe logo dla widoczności: kluczowe, gdy port w Mykonos reguluje jednostki po zachodzie słońca.',
             },
             {
               title: 'Certyfikacja personelu przedsezonowa i system zarządzania flotą',
               detail:
-                'W maju 2024 Afarer przeszkolił 22 pracowników Dimitriego na wszystkich wyspach w 2-dniowych warsztatach na Santorini. Szkolenie obejmowało: technikę lądowania na skałach minimalizującą ścieranie, właściwe pompowanie do 14–16 PSI strojone do temperatury wody (sezonowa zmienność 18–26°C), awaryjne naprawy polowe z łatkami PVC (trener testował każdego ucznia, by ukończył naprawę w mniej niż 6 minut) i protokoły dopasowania klienta zapewniające wybór deski adekwatny do wagi. Afarer zapewnił cyfrowy panel floty pokazujący godziny wypożyczeń każdej deski, historię konserwacji i lokalizację opartą na GPS. Pod koniec sezonu 97% napraw polowych było obsługiwanych przez personel bez wzywania Afarer.',
+                'W maju 2024 OLagoon przeszkolił 22 pracowników Dimitriego na wszystkich wyspach w 2-dniowych warsztatach na Santorini. Szkolenie obejmowało: technikę lądowania na skałach minimalizującą ścieranie, właściwe pompowanie do 14–16 PSI strojone do temperatury wody (sezonowa zmienność 18–26°C), awaryjne naprawy polowe z łatkami PVC (trener testował każdego ucznia, by ukończył naprawę w mniej niż 6 minut) i protokoły dopasowania klienta zapewniające wybór deski adekwatny do wagi. OLagoon zapewnił cyfrowy panel floty pokazujący godziny wypożyczeń każdej deski, historię konserwacji i lokalizację opartą na GPS. Pod koniec sezonu 97% napraw polowych było obsługiwanych przez personel bez wzywania OLagoon.',
             },
             {
               title: 'Sezon czerwiec–październik 2024: debiut, wycieczki i ROI',
               detail:
-                'Dimitri wypuścił nową flotę 1 czerwca 2024 jednocześnie na wszystkich wyspach. Produkt wycieczek SUP z przewodnikiem (55 EUR/osobę za 3-godzinne odkrywanie wybrzeża z postojem na snorkeling) zadebiutował 15 czerwca, z 4 wyjazdami dziennie z Czerwonej Plaży Santorini i Agios Prokopios na Naxos. Do sierpnia rezerwacje wycieczek osiągnęły 2 100 tygodniowo na wszystkich wyspach. Całkowite przychody sezonowe (czerwiec–październik) wyniosły 2,85 mln EUR, wzrost o 137% z 1,2 mln EUR w 2023. Koszty napraw desk spadły z 22 000 EUR do 2 800 EUR. Tylko 4 deski zostały spisane (wszystkie z winy klientów, poza naprawą). Po sezonie Dimitri zamówił 100 dodatkowych desk na sezon 2025 i poprosił Afarer o opracowanie zestawu konwersji SUP z napędem pedalowym.',
+                'Dimitri wypuścił nową flotę 1 czerwca 2024 jednocześnie na wszystkich wyspach. Produkt wycieczek SUP z przewodnikiem (55 EUR/osobę za 3-godzinne odkrywanie wybrzeża z postojem na snorkeling) zadebiutował 15 czerwca, z 4 wyjazdami dziennie z Czerwonej Plaży Santorini i Agios Prokopios na Naxos. Do sierpnia rezerwacje wycieczek osiągnęły 2 100 tygodniowo na wszystkich wyspach. Całkowite przychody sezonowe (czerwiec–październik) wyniosły 2,85 mln EUR, wzrost o 137% z 1,2 mln EUR w 2023. Koszty napraw desk spadły z 22 000 EUR do 2 800 EUR. Tylko 4 deski zostały spisane (wszystkie z winy klientów, poza naprawą). Po sezonie Dimitri zamówił 100 dodatkowych desk na sezon 2025 i poprosił OLagoon o opracowanie zestawu konwersji SUP z napędem pedalowym.',
             },
           ],
           results: [
-            'Przychody sezonowe wzrosły o 137% z 1,2 mln EUR do 2,85 mln EUR w pierwszym roku wdrożenia Afarer',
+            'Przychody sezonowe wzrosły o 137% z 1,2 mln EUR do 2,85 mln EUR w pierwszym roku wdrożenia OLagoon',
             'Koszty napraw desk spadły z 22 000 EUR do 2 800 EUR — redukcja o 87% oszczędzająca 19 200 EUR',
             'Tylko 4 ze 200 desk spisano (2% rocznej utraty wobec 35% z poprzednią flotą); prognozowana żywotność 4–5 sezonów',
             'Produkt wycieczek z przewodnikiem wygenerował 843 000 EUR w pierwszym sezonie z marżą 87%; ocena 4,9/5 na TripAdvisor',
@@ -232,8 +232,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego kluby paddle wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego kluby paddle wybierają OLagoon',
       items: [
         {
           title: 'Operacje biznesowe',
@@ -243,7 +243,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Trwałość komercyjna',
           description:
-            'Produkty Afarer są zaprojektowane do codziennego użytku profesjonalnego z wzmocnioną konstrukcją, mocniejszymi materiałami i rygorystycznymi testami.',
+            'Produkty OLagoon są zaprojektowane do codziennego użytku profesjonalnego z wzmocnioną konstrukcją, mocniejszymi materiałami i rygorystycznymi testami.',
         },
         {
           title: 'Zarządzanie flotą',
@@ -253,15 +253,15 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Długoterminowe partnerstwo',
           description:
-            'Afarer wspiera wzrost Twojego biznesu częściami zamiennymi, wskazówkami konserwacyjnymi i planowaniem rozbudowy poza początkowym zakupem.',
+            'OLagoon wspiera wzrost Twojego biznesu częściami zamiennymi, wskazówkami konserwacyjnymi i planowaniem rozbudowy poza początkowym zakupem.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Co czyni deski SUP Afarer odpowiednimi dla komercyjnych klubów paddle?',
+        question: 'Co czyni deski SUP OLagoon odpowiednimi dla komercyjnych klubów paddle?',
         answer:
-          'Komercyjne deski SUP Afarer oferują wzmocnioną konstrukcję PVC, wielowarstwowe wzmocnienie burt, strukturę drop stitch o wysokiej gęstości i systemy zaworów heavy-duty zaprojektowane specjalnie do codziennego użytkowania o wysokiej częstotliwości w środowiskach wypożyczalni i treningów.',
+          'Komercyjne deski SUP OLagoon oferują wzmocnioną konstrukcję PVC, wielowarstwowe wzmocnienie burt, strukturę drop stitch o wysokiej gęstości i systemy zaworów heavy-duty zaprojektowane specjalnie do codziennego użytkowania o wysokiej częstotliwości w środowiskach wypożyczalni i treningów.',
       },
       {
         question: 'Jaka jest różnica między sprzętem SUP klasy konsumenckiej a komercyjnej?',
@@ -269,30 +269,30 @@ const pl: Record<string, SolutionOverride> = {
           'Deski SUP klasy komercyjnej używają mocniejszych materiałów, wzmocnionej konstrukcji i trwalszych komponentów, by wytrzymać codzienny użytek wielu użytkowników. Deski konsumenckie są zaprojektowane do okazjonalnego użytku rekreacyjnego i szybko się zużyją w warunkach komercyjnych.',
       },
       {
-        question: 'Czy Afarer może personalizować deski SUP logo i kolorami mojego klubu?',
+        question: 'Czy OLagoon może personalizować deski SUP logo i kolorami mojego klubu?',
         answer:
-          'Tak, Afarer oferuje pełną personalizację floty obejmującą rozmieszczenie logo, kolory marki, systemy numerowania desk, identyfikację modeli i oznaczenia desk instruktorskich, tworząc spójną i profesjonalną tożsamość floty.',
+          'Tak, OLagoon oferuje pełną personalizację floty obejmującą rozmieszczenie logo, kolory marki, systemy numerowania desk, identyfikację modeli i oznaczenia desk instruktorskich, tworząc spójną i profesjonalną tożsamość floty.',
       },
       {
-        question: 'Jaka jest typowa żywotność komercyjnej deski SUP od Afarer?',
+        question: 'Jaka jest typowa żywotność komercyjnej deski SUP od OLagoon?',
         answer:
-          'Przy właściwej konserwacji komercyjne deski SUP Afarer znacząco przeżywają produkty klasy konsumenckiej, redukując częstotliwość wymian i całkowity koszt posiadania. Dokładna żywotność zależy od intensywności użytkowania i praktyk konserwacyjnych.',
+          'Przy właściwej konserwacji komercyjne deski SUP OLagoon znacząco przeżywają produkty klasy konsumenckiej, redukując częstotliwość wymian i całkowity koszt posiadania. Dokładna żywotność zależy od intensywności użytkowania i praktyk konserwacyjnych.',
       },
       {
         question: 'Czy oferujecie części zamienne i wsparcie konserwacji dla operatorów flot?',
         answer:
-          'Tak, Afarer zapewnia kompleksowe wsparcie posprzedażowe obejmujące planowanie części zamiennych, materiały naprawcze, akcesoria wymienne, wskazówki konserwacyjne, rekomendacje przechowywania i instrukcje czyszczenia.',
+          'Tak, OLagoon zapewnia kompleksowe wsparcie posprzedażowe obejmujące planowanie części zamiennych, materiały naprawcze, akcesoria wymienne, wskazówki konserwacyjne, rekomendacje przechowywania i instrukcje czyszczenia.',
       },
       {
-        question: 'Jakie wielkości flot Afarer może obsłużyć dla klubów paddle?',
+        question: 'Jakie wielkości flot OLagoon może obsłużyć dla klubów paddle?',
         answer:
-          'Afarer wspiera floty wszystkich rozmiarów, od małych klubów z 10–30 deskami po duże operacje z ponad 100 deskami. Zapewniamy rozwiązania zakupów hurtowych, spójną jakość produktów i wsparcie rozbudowy wraz ze wzrostem Twojego biznesu.',
+          'OLagoon wspiera floty wszystkich rozmiarów, od małych klubów z 10–30 deskami po duże operacje z ponad 100 deskami. Zapewniamy rozwiązania zakupów hurtowych, spójną jakość produktów i wsparcie rozbudowy wraz ze wzrostem Twojego biznesu.',
       },
     ],
     cta: {
-      title: 'Zbuduj swoją komercyjną flotę SUP z Afarer',
+      title: 'Zbuduj swoją komercyjną flotę SUP z OLagoon',
       subtitle:
-        'Twój sprzęt to fundament Twojego biznesu. Wybierz produkty zaprojektowane, by działać codziennie. Afarer pomaga klubom paddle, szkołom SUP, operatorom wypożyczalni i resortom tworzyć profesjonalne floty SUP z niezawodnym wsparciem produkcyjnym.',
+        'Twój sprzęt to fundament Twojego biznesu. Wybierz produkty zaprojektowane, by działać codziennie. OLagoon pomaga klubom paddle, szkołom SUP, operatorom wypożyczalni i resortom tworzyć profesjonalne floty SUP z niezawodnym wsparciem produkcyjnym.',
       primaryAction: {
         text: 'Rozpocznij swój komercyjny projekt SUP już dziś',
       },
@@ -306,7 +306,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Dostawca flot SUP dla komercyjnych parków wodnych | {SITE}',
       description:
-        'Afarer zapewnia rozwiązania komercyjnych flot SUP dla parków wodnych i parków rozrywki. Wysoce trwałe deski, konstrukcje przyjazne początkującym, budowa z naciskiem na bezpieczeństwo i dostawy OEM na wielką skalę.',
+        'OLagoon zapewnia rozwiązania komercyjnych flot SUP dla parków wodnych i parków rozrywki. Wysoce trwałe deski, konstrukcje przyjazne początkującym, budowa z naciskiem na bezpieczeństwo i dostawy OEM na wielką skalę.',
     },
     hero: {
       tagline:
@@ -354,12 +354,12 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Konstrukcja zorientowana na bezpieczeństwo',
           description:
-            'Afarer wspiera rozwój produktów skupiony na bezpieczeństwie. Projekt ochronnych krawędzi ze wzmocnioną ochroną boczną i bardziej miękkimi strefami uderzeń redukuje skutki kolizji. Pełny bezpieczny deck z EVA zapewnia antypoślizgową powierzchnię i komfortowy obszar stania. Zaokrąglone, przyjazne początkującym kształty redukują ostre krawędzie i trudną obsługę.',
+            'OLagoon wspiera rozwój produktów skupiony na bezpieczeństwie. Projekt ochronnych krawędzi ze wzmocnioną ochroną boczną i bardziej miękkimi strefami uderzeń redukuje skutki kolizji. Pełny bezpieczny deck z EVA zapewnia antypoślizgową powierzchnię i komfortowy obszar stania. Zaokrąglone, przyjazne początkującym kształty redukują ostre krawędzie i trudną obsługę.',
         },
         {
           title: 'Planowanie floty o wysokiej przepustowości',
           description:
-            'Afarer pomaga parkom dobrać właściwy rozmiar floty — małe strefy aktywności (100–300 desk) dla obszarów wodnych resortów, średnie parki rozrywki (300–600 desk) dla regionalnych parków wodnych i duże operacje parków rozrywki (600–1000+ desk) dla dużych grup rozrywkowych i atrakcji wielostrefowych.',
+            'OLagoon pomaga parkom dobrać właściwy rozmiar floty — małe strefy aktywności (100–300 desk) dla obszarów wodnych resortów, średnie parki rozrywki (300–600 desk) dla regionalnych parków wodnych i duże operacje parków rozrywki (600–1000+ desk) dla dużych grup rozrywkowych i atrakcji wielostrefowych.',
         },
         {
           title: 'Kompletny pakiet sprzętowy parku wodnego',
@@ -400,7 +400,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Planowanie floty komercyjnej',
           detail:
-            'Afarer zaprojektował system aktywności SUP parku wodnego obejmujący stabilne deski dla początkujących, akcesoria komercyjne i części zamienne.',
+            'OLagoon zaprojektował system aktywności SUP parku wodnego obejmujący stabilne deski dla początkujących, akcesoria komercyjne i części zamienne.',
         },
         {
           title: 'Personalizacja bezpieczeństwa',
@@ -437,17 +437,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Faza 1: Dobór SUP o zerowym zanurzeniu i modułowy projekt przeszkód',
               detail:
-                'W styczniu 2025 Delgado ocenił 7 dostawców inflatable SUP. Odrzucił 4 z powodu ponad 6-minutowych cykli ponownego pompowania i 2 kolejnych z powodu rozwarstwienia w testach UV. Wybrał Afarer Explorer 11\'6" X (szerokość 34", grubość 6", pojemność 320 L) za maksymalną sztywność przy 15 PSI i 5-minutowy pełny cykl od spuszczenia powietrza do zmagazynowania. Współpracował z zespołem OEM Afarer, by dodać 4 zintegrowane punkty montażowe D na deskę dla modułów przeszkód na zatrzask — belek równoważnych, pływających przeszkód i łuków do przeczołgania — używając niestandardowego systemu szyn testowanego na boczny nacisk 100 kg.',
+                'W styczniu 2025 Delgado ocenił 7 dostawców inflatable SUP. Odrzucił 4 z powodu ponad 6-minutowych cykli ponownego pompowania i 2 kolejnych z powodu rozwarstwienia w testach UV. Wybrał OLagoon Explorer 11\'6" X (szerokość 34", grubość 6", pojemność 320 L) za maksymalną sztywność przy 15 PSI i 5-minutowy pełny cykl od spuszczenia powietrza do zmagazynowania. Współpracował z zespołem OEM OLagoon, by dodać 4 zintegrowane punkty montażowe D na deskę dla modułów przeszkód na zatrzask — belek równoważnych, pływających przeszkód i łuków do przeczołgania — używając niestandardowego systemu szyn testowanego na boczny nacisk 100 kg.',
             },
             {
               title: 'Faza 2: Układ toru przeszkód i zgodność z głębokością wody',
               detail:
-                'Przez 6 tygodni Delgado i jego główna inżynier ds. akwenów Sarah Kim zaprojektowali 3 konfiguracje torów dla różnych głębokości basenów (1,1–1,7 m). Użyli plików CAD Afarer do modelowania odstępów desk co 2,4 m, tworząc 45-metrowe tory serpentynowe. Każdy tor wymagał 16 desk plus 4 zapasowych na park. Kim uzyskała certyfikację urządzeń rozrywkowych TDLR, integrując odłączane łączniki bezpiecznikowe na wszystkich mocowaniach przeszkód, co zapewniało, że żaden komponent nie przekracza 6,8 kg siły odłączenia.',
+                'Przez 6 tygodni Delgado i jego główna inżynier ds. akwenów Sarah Kim zaprojektowali 3 konfiguracje torów dla różnych głębokości basenów (1,1–1,7 m). Użyli plików CAD OLagoon do modelowania odstępów desk co 2,4 m, tworząc 45-metrowe tory serpentynowe. Każdy tor wymagał 16 desk plus 4 zapasowych na park. Kim uzyskała certyfikację urządzeń rozrywkowych TDLR, integrując odłączane łączniki bezpiecznikowe na wszystkich mocowaniach przeszkód, co zapewniało, że żaden komponent nie przekracza 6,8 kg siły odłączenia.',
             },
             {
               title: 'Faza 3: Certyfikacja ratowników z SUP i treningi szybkiej reakcji',
               detail:
-                'W marcu 2025 zespół szkoleniowy Afarer przeprowadził 3-dniową certyfikację na miejscu w flagowym parku Red Oak dla 24 ratowników. Szkolenie obejmowało techniki ratownicze oparte na SUP, awaryjne zsiadania z deski i zarządzanie przepływem tłumu. Delgado wdrożył 15-minutowy system rotacji — 12-minutowa sesja SUP plus 3-minutowa wymiana desk. Każdy park dodał 12-metrową dedykowaną strefę przygotowawczą z 50 ściennymi stojakami na deski wykonanymi przez Paddletek. Skuteczność ukończenia certyfikacji ratowników wyniosła 100% ze średnią z egzaminu pisemnego 94%.',
+                'W marcu 2025 zespół szkoleniowy OLagoon przeprowadził 3-dniową certyfikację na miejscu w flagowym parku Red Oak dla 24 ratowników. Szkolenie obejmowało techniki ratownicze oparte na SUP, awaryjne zsiadania z deski i zarządzanie przepływem tłumu. Delgado wdrożył 15-minutowy system rotacji — 12-minutowa sesja SUP plus 3-minutowa wymiana desk. Każdy park dodał 12-metrową dedykowaną strefę przygotowawczą z 50 ściennymi stojakami na deski wykonanymi przez Paddletek. Skuteczność ukończenia certyfikacji ratowników wyniosła 100% ze średnią z egzaminu pisemnego 94%.',
             },
             {
               title: 'Faza 4: Premiera w Memorial Day i wyniki sezonu',
@@ -475,7 +475,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Dobór SUP pod skromność, stabilność i odporność na upał',
               detail:
-                'W listopadzie 2024 Al Falasi przetestowała 9 modeli SUP od 5 marek. Tylko Afarer Explorer 10\'8" X (33" x 6" x 320 L) przeszedł 48-godzinny test komorowy w 50°C bez degradacji materiału. Zamówiła 120 desk w dwóch wariantach kolorystycznych (piaskowy beż wydm i oceaniczny morski) dopasowanych do estetyki La Mer. Każda deska została wyposażona w niestandardowy, zdejmowany system daszków przeciwsłonecznych — łuk z włókna węglowego z tkaniną UPF 50+ — zaprojektowany przez zespół inżynieryjny Afarer w 3 iteracjach prototypu. Daszki dodały 1,2 kg masy, ale utrzymały stabilność w granicach 0,5 stopnia przechyłu.',
+                'W listopadzie 2024 Al Falasi przetestowała 9 modeli SUP od 5 marek. Tylko OLagoon Explorer 10\'8" X (33" x 6" x 320 L) przeszedł 48-godzinny test komorowy w 50°C bez degradacji materiału. Zamówiła 120 desk w dwóch wariantach kolorystycznych (piaskowy beż wydm i oceaniczny morski) dopasowanych do estetyki La Mer. Każda deska została wyposażona w niestandardowy, zdejmowany system daszków przeciwsłonecznych — łuk z włókna węglowego z tkaniną UPF 50+ — zaprojektowany przez zespół inżynieryjny OLagoon w 3 iteracjach prototypu. Daszki dodały 1,2 kg masy, ale utrzymały stabilność w granicach 0,5 stopnia przechyłu.',
             },
             {
               title: 'Krok 2: Strefowanie laguny, prywatność i harmonogram z podziałem na płeć',
@@ -485,7 +485,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 3: Rekrutacja instruktorek SUP i szkolenie kulturowe',
               detail:
-                'AquaFun uruchomiło ukierunkowaną kampanię rekrutacyjną w styczniu 2025, zatrudniając 12 instruktorek SUP (8 Emiratczyń, 4 cudzoziemek) i 6 instruktorów. Afarer dostarczył dostosowaną 5-dniową certyfikację przewodnictwa SUP pod wrażliwość kulturową — obejmującą arabską terminologię komend wiosłowania, techniki ratownicze zgodne ze skromnością (holowania deska-do-deski unikające kontaktu fizycznego) i strategie tempa dla grup rodzinnych. Wszyscy 18 instruktorów zdało ocenę odpowiednika IRF poziomu 1 do 20 lutego. Szkolenie kosztowało 28 tys. USD i było współfinansowane grantem na innowacje produktowe Dubai Tourism.',
+                'AquaFun uruchomiło ukierunkowaną kampanię rekrutacyjną w styczniu 2025, zatrudniając 12 instruktorek SUP (8 Emiratczyń, 4 cudzoziemek) i 6 instruktorów. OLagoon dostarczył dostosowaną 5-dniową certyfikację przewodnictwa SUP pod wrażliwość kulturową — obejmującą arabską terminologię komend wiosłowania, techniki ratownicze zgodne ze skromnością (holowania deska-do-deski unikające kontaktu fizycznego) i strategie tempa dla grup rodzinnych. Wszyscy 18 instruktorów zdało ocenę odpowiednika IRF poziomu 1 do 20 lutego. Szkolenie kosztowało 28 tys. USD i było współfinansowane grantem na innowacje produktowe Dubai Tourism.',
             },
             {
               title: 'Krok 4: Miękka premiera w Ramadanie i bieżące operacje',
@@ -502,28 +502,28 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego parki wodne wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego parki wodne wybierają OLagoon',
       items: [
         {
           title: 'Operacje o dużym ruchu',
           description:
-            'Sprzęt musi przetrwać codzienne użytkowanie komercyjne. Afarer projektuje pod ciągłe operacje wielkowolumenowe z trwałą konstrukcją.',
+            'Sprzęt musi przetrwać codzienne użytkowanie komercyjne. OLagoon projektuje pod ciągłe operacje wielkowolumenowe z trwałą konstrukcją.',
         },
         {
           title: 'Wymogi bezpieczeństwa',
           description:
-            'Goście potrzebują pewności i ochrony. Afarer stawia bezpieczeństwo na pierwszym miejscu w każdym projekcie produktu, z funkcjami przyjaznymi początkującym.',
+            'Goście potrzebują pewności i ochrony. OLagoon stawia bezpieczeństwo na pierwszym miejscu w każdym projekcie produktu, z funkcjami przyjaznymi początkującym.',
         },
         {
           title: 'Zarządzanie flotą',
           description:
-            'Duże projekty wymagają kompletnych systemów. Afarer zapewnia kompleksowe planowanie floty, rekomendacje ilościowe i wsparcie.',
+            'Duże projekty wymagają kompletnych systemów. OLagoon zapewnia kompleksowe planowanie floty, rekomendacje ilościowe i wsparcie.',
         },
         {
           title: 'Długoterminowa niezawodność',
           description:
-            'Atrakcje zależą od stabilnej operacji. Afarer zapewnia trwałe produkty i niezawodne dostawy na lata ciągłego użytkowania.',
+            'Atrakcje zależą od stabilnej operacji. OLagoon zapewnia trwałe produkty i niezawodne dostawy na lata ciągłego użytkowania.',
         },
       ],
     },
@@ -531,36 +531,36 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jaki rozmiar floty jest rekomendowany dla atrakcji SUP parku wodnego?',
         answer:
-          'Afarer rekomenduje 100–300 desk dla małych stref aktywności i obszarów wodnych resortów, 300–600 desk dla regionalnych parków wodnych i destynacji turystycznych oraz 600–1000+ desk dla dużych parków rozrywki i atrakcji wielostrefowych.',
+          'OLagoon rekomenduje 100–300 desk dla małych stref aktywności i obszarów wodnych resortów, 300–600 desk dla regionalnych parków wodnych i destynacji turystycznych oraz 600–1000+ desk dla dużych parków rozrywki i atrakcji wielostrefowych.',
       },
       {
         question: 'Jak trwałe są komercyjne deski SUP do codziennego użytku w parku wodnym?',
         answer:
-          'Komercyjne deski SUP Afarer są zaprojektowane do operacji o dużym ruchu, z wzmocnioną konstrukcją PVC, trwałymi szwami i akcesoriami klasy komercyjnej. Wytrzymują ciągłe codzienne użytkowanie, częste błędy początkujących i powtarzalne uderzenia, które uszkodziłyby produkty konsumenckie.',
+          'Komercyjne deski SUP OLagoon są zaprojektowane do operacji o dużym ruchu, z wzmocnioną konstrukcją PVC, trwałymi szwami i akcesoriami klasy komercyjnej. Wytrzymują ciągłe codzienne użytkowanie, częste błędy początkujących i powtarzalne uderzenia, które uszkodziłyby produkty konsumenckie.',
       },
       {
         question: 'Czy deski SUP można spersonalizować brandingiem mojego parku wodnego?',
         answer:
-          'Tak, Afarer wspiera pełną personalizację, w tym logo parku, grafiki z postaciami, niestandardowe kolory i integrację z motywem atrakcji. Niestandardowy branding zamienia sprzęt SUP w atrakcje godne zdjęcia, generujące ekspozycję w mediach społecznościowych.',
+          'Tak, OLagoon wspiera pełną personalizację, w tym logo parku, grafiki z postaciami, niestandardowe kolory i integrację z motywem atrakcji. Niestandardowy branding zamienia sprzęt SUP w atrakcje godne zdjęcia, generujące ekspozycję w mediach społecznościowych.',
       },
       {
-        question: 'Jakie funkcje bezpieczeństwa zawierają komercyjne deski SUP Afarer?',
+        question: 'Jakie funkcje bezpieczeństwa zawierają komercyjne deski SUP OLagoon?',
         answer:
-          'Deski Afarer mają projekt ochronnych krawędzi, pełny antypoślizgowy bezpieczny deck z EVA, konstrukcję o wysokiej wyporności, zaokrąglone kształty przyjazne początkującym i wzmocnioną ochronę boczną. Te funkcje minimalizują skutki kolizji i zapewniają bezpieczną eksploatację pierwszorazowym użytkownikom.',
+          'Deski OLagoon mają projekt ochronnych krawędzi, pełny antypoślizgowy bezpieczny deck z EVA, konstrukcję o wysokiej wyporności, zaokrąglone kształty przyjazne początkującym i wzmocnioną ochronę boczną. Te funkcje minimalizują skutki kolizji i zapewniają bezpieczną eksploatację pierwszorazowym użytkownikom.',
       },
       {
-        question: 'Jak Afarer wspiera konserwację i wymianę dla dużych flot?',
+        question: 'Jak OLagoon wspiera konserwację i wymianę dla dużych flot?',
         answer:
-          'Afarer zapewnia znormalizowane komponenty dla łatwiejszej wymiany, materiały i wskazówki naprawcze, systemy inspekcji floty do codziennych kontroli oraz dostępność części zamiennych. Oferujemy też roczne programy dostaw na wymianę sezonową i ulepszenia floty.',
+          'OLagoon zapewnia znormalizowane komponenty dla łatwiejszej wymiany, materiały i wskazówki naprawcze, systemy inspekcji floty do codziennych kontroli oraz dostępność części zamiennych. Oferujemy też roczne programy dostaw na wymianę sezonową i ulepszenia floty.',
       },
       {
         question: 'Jaki jest typowy czas realizacji zamówienia dużej floty SUP?',
         answer:
-          'Czasy realizacji różnią się w zależności od wielkości zamówienia i wymogów personalizacji. Afarer ściśle współpracuje z każdym klientem nad ustaleniem harmonogramów produkcji — od projektów pilotażowych 100–500 zestawów po pełnoskalowe instalacje 500–1000+ zestawów — zapewniając terminową dostawę na otwarcia sezonowe.',
+          'Czasy realizacji różnią się w zależności od wielkości zamówienia i wymogów personalizacji. OLagoon ściśle współpracuje z każdym klientem nad ustaleniem harmonogramów produkcji — od projektów pilotażowych 100–500 zestawów po pełnoskalowe instalacje 500–1000+ zestawów — zapewniając terminową dostawę na otwarcia sezonowe.',
       },
     ],
     cta: {
-      title: 'Zbuduj atrakcję SUP swojego parku wodnego z Afarerem',
+      title: 'Zbuduj atrakcję SUP swojego parku wodnego z OLagoonem',
       subtitle:
         'Stwórz coś więcej niż aktywność wodną. Stwórz niezapomniane doświadczenie gości, które przyciąga odwiedzających z powrotem.',
       primaryAction: {
@@ -576,7 +576,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Dostawca komercyjnego sprzętu SUP | Rozwiązania plażowych flot wypożyczalni | {SITE}',
       description:
-        'Afarer zapewnia rozwiązania komercyjnych flot SUP dla plażowych firm rekreacyjnych i centrów sportów wodnych. Trwałe deski wypożyczalni, kompletne zestawy sprzętu, wsparcie części zamiennych i personalizacja OEM.',
+        'OLagoon zapewnia rozwiązania komercyjnych flot SUP dla plażowych firm rekreacyjnych i centrów sportów wodnych. Trwałe deski wypożyczalni, kompletne zestawy sprzętu, wsparcie części zamiennych i personalizacja OEM.',
     },
     hero: {
       tagline: 'Kompletne rozwiązania sprzętowe dla aktywności plażowych™',
@@ -617,37 +617,37 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Projekt floty SUP klasy komercyjnej',
           description:
-            'Afarer rozwija produkty SUP specjalnie do środowisk komercyjnych z wzmocnioną konstrukcją PVC, mocną technologią szwów, ciężkimi systemami decków EVA i akcesoriami klasy komercyjnej, w tym trwałymi wiosłami i pompami.',
+            'OLagoon rozwija produkty SUP specjalnie do środowisk komercyjnych z wzmocnioną konstrukcją PVC, mocną technologią szwów, ciężkimi systemami decków EVA i akcesoriami klasy komercyjnej, w tym trwałymi wiosłami i pompami.',
           features: ['Wzmocniona konstrukcja', 'Ciężki system deckowy EVA', 'Akcesoria komercyjne'],
         },
         {
           title: 'Kompletne planowanie floty rentalowej',
           description:
-            'Afarer pomaga dobrać właściwy miks sprzętu dla flot rentalowych plażowych ze stabilnymi deskami uniwersalnymi, flot centrów sportów wodnych o wielu rozmiarach i deskach instruktorskich oraz flot aktywności resortowych ze sprzętem premium z marką.',
+            'OLagoon pomaga dobrać właściwy miks sprzętu dla flot rentalowych plażowych ze stabilnymi deskami uniwersalnymi, flot centrów sportów wodnych o wielu rozmiarach i deskach instruktorskich oraz flot aktywności resortowych ze sprzętem premium z marką.',
           features: ['Flota rentalowa plażowa', 'Flota centrum sportów wodnych', 'Flota aktywności resortowych'],
         },
         {
           title: 'Konfiguracja rentalowego SUP o wysokiej trwałości',
           description:
-            'Afarer optymalizuje produkty pod odporność na zarysowania od plażowego piasku i częstej obsługi, łatwe naprawy z zestawami naprawczymi i znormalizowanymi komponentami oraz długi żywot maksymalizujący zwrot z inwestycji w sprzęt.',
+            'OLagoon optymalizuje produkty pod odporność na zarysowania od plażowego piasku i częstej obsługi, łatwe naprawy z zestawami naprawczymi i znormalizowanymi komponentami oraz długi żywot maksymalizujący zwrot z inwestycji w sprzęt.',
           features: ['Odporność na zarysowania', 'Łatwa naprawa', 'Długi żywot'],
         },
         {
           title: 'Znormalizowany system części zamiennych',
           description:
-            'Afarer wspiera operatorów komercyjnych akcesoriami zamiennymi, w tym zaworami, leashami, wiosłami, pompami i materiałami naprawczymi, oraz planowaniem konserwacji floty z codzienną inspekcją i konserwacją sezonową.',
+            'OLagoon wspiera operatorów komercyjnych akcesoriami zamiennymi, w tym zaworami, leashami, wiosłami, pompami i materiałami naprawczymi, oraz planowaniem konserwacji floty z codzienną inspekcją i konserwacją sezonową.',
           features: ['Akcesoria zamienne', 'Planowanie konserwacji floty', 'Szybkie przywracanie do użytku'],
         },
         {
           title: 'Kompletne pakiety aktywności plażowych',
           description:
-            'Afarer zapewnia pakiety rentalowe SUP z deskami komercyjnymi i akcesoriami, rodzinne pakiety aktywności wodnych dla resortów i obszarów turystycznych oraz pakiety eventów grupowych dla aktywności korporacyjnych i szkolnych.',
+            'OLagoon zapewnia pakiety rentalowe SUP z deskami komercyjnymi i akcesoriami, rodzinne pakiety aktywności wodnych dla resortów i obszarów turystycznych oraz pakiety eventów grupowych dla aktywności korporacyjnych i szkolnych.',
           features: ['Pakiet rentalowy SUP', 'Rodzinny pakiet aktywności wodnych', 'Pakiet eventów grupowych'],
         },
         {
           title: 'Branding i personalizacja biznesowa',
           description:
-            'Afarer wspiera niestandardowy branding operatora z drukiem logo i kolorami, projektowanie doświadczeń turystycznych tworzące aktywności z marką i okazje do zdjęć oraz integrację z resortem i plażą dopasowaną do tożsamości destynacji.',
+            'OLagoon wspiera niestandardowy branding operatora z drukiem logo i kolorami, projektowanie doświadczeń turystycznych tworzące aktywności z marką i okazje do zdjęć oraz integrację z resortem i plażą dopasowaną do tożsamości destynacji.',
           features: [
             'Niestandardowy branding operatora',
             'Projektowanie doświadczeń turystycznych',
@@ -657,13 +657,13 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Projekt bezpieczny i przyjazny początkującym',
           description:
-            'Afarer stawia na projekt stabilności z szerszymi kształtami desk dla turystów i rodzin oraz łatwą obsługę pomagającą pierwszorazowym wioślarzom szybko i pewnie cieszyć się doświadczeniem w bezpieczeństwie.',
+            'OLagoon stawia na projekt stabilności z szerszymi kształtami desk dla turystów i rodzin oraz łatwą obsługę pomagającą pierwszorazowym wioślarzom szybko i pewnie cieszyć się doświadczeniem w bezpieczeństwie.',
           features: ['Projekt stabilności', 'Łatwa obsługa', 'Osiągi przyjazne początkującym'],
         },
         {
           title: 'Wsparcie dostaw dla biznesów sezonowych',
           description:
-            'Afarer pomaga operatorom zarządzać planowaniem przedsezonowym doboru floty i harmonogramu produkcji, wymianą sezonową dodatkowego sprzętu i części zamiennych oraz długoterminowym wzrostem floty od małych operacji po duże centra.',
+            'OLagoon pomaga operatorom zarządzać planowaniem przedsezonowym doboru floty i harmonogramu produkcji, wymianą sezonową dodatkowego sprzętu i części zamiennych oraz długoterminowym wzrostem floty od małych operacji po duże centra.',
           features: ['Planowanie przedsezonowe', 'Wymiana sezonowa', 'Długoterminowy wzrost floty'],
         },
       ],
@@ -680,7 +680,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Planowanie floty',
           detail:
-            'Afarer zaprojektował komercyjny pakiet sprzętowy SUP obejmujący stabilne deski uniwersalne, ciężkie akcesoria i części zamienne dostosowane do plażowego środowiska operatora.',
+            'OLagoon zaprojektował komercyjny pakiet sprzętowy SUP obejmujący stabilne deski uniwersalne, ciężkie akcesoria i części zamienne dostosowane do plażowego środowiska operatora.',
         },
         {
           title: 'Personalizacja produktu',
@@ -717,27 +717,27 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Kompleksowa ocena resortu i specyfikacja sprzętu',
               detail:
-                'We wrześniu 2024 Carlos i zespół Hospitality Solutions Afarer przeprowadzili 5-dniowy audyt na miejscu we wszystkich 3 obiektach. Przeanalizowali demografię gości, wzorce szczytowego użytkowania, ograniczenia magazynowe, poziomy zatrudnienia i warunki ekspozycji na słoną wodę. Audyt ujawnił, że z powodu przestojów sprzętu tracono rocznie ponad 60 dni aktywności gości oraz że istniejące deski wytrzymywały tylko 8–12 miesięcy, zanim ulegały degradacji w karaibskim słońcu i soli. Afarer zaproponował flotę 140 sztuk — 100 desk SUP (10\'6" uniwersalne), 20 desk z przezroczystym dnem do oglądania rafy, 20 desk pedałowych i 10 tandemowych SUP wędkarskich. Każda deska miała UV-stabilizowane PVC klasy morskiej z 5-letnią gwarancją komercyjną, okucia ze stali nierdzewnej i grafikę z marką Hyatt Ziva w charakterystycznych turkusowych i białych barwach marki.',
+                'We wrześniu 2024 Carlos i zespół Hospitality Solutions OLagoon przeprowadzili 5-dniowy audyt na miejscu we wszystkich 3 obiektach. Przeanalizowali demografię gości, wzorce szczytowego użytkowania, ograniczenia magazynowe, poziomy zatrudnienia i warunki ekspozycji na słoną wodę. Audyt ujawnił, że z powodu przestojów sprzętu tracono rocznie ponad 60 dni aktywności gości oraz że istniejące deski wytrzymywały tylko 8–12 miesięcy, zanim ulegały degradacji w karaibskim słońcu i soli. OLagoon zaproponował flotę 140 sztuk — 100 desk SUP (10\'6" uniwersalne), 20 desk z przezroczystym dnem do oglądania rafy, 20 desk pedałowych i 10 tandemowych SUP wędkarskich. Każda deska miała UV-stabilizowane PVC klasy morskiej z 5-letnią gwarancją komercyjną, okucia ze stali nierdzewnej i grafikę z marką Hyatt Ziva w charakterystycznych turkusowych i białych barwach marki.',
             },
             {
               title: 'Infrastruktura operacji plażowych i rozwiązania magazynowe',
               detail:
-                'Zespół Afarer zaprojektował kompletne centrum operacji plażowych dla każdego resortu, w tym 40-stopowy kontener transportowy z możliwością zamknięcia przekształcony w bezpieczną salę sprzętową z wentylacją solarną, 10 ciężkich elektrycznych stacji pompowania z cyfrowymi manometrami, mobilny system stojaków mieszczący 50 desk z osuszaniem kapania oraz stację napraw i konserwacji z zaworami zapasowymi, zestawami łatek i środkami czyszczącymi. Obiekt Puerto Morelos otrzymał dedykowany kiosk plażowy z ladą zameldowania, ścianą kamizelek ratunkowych i cyfrowym ekranem harmonogramu. Zespół instalacyjny Afarer spędził 2 tygodnie w każdym obiekcie, modyfikując istniejące przestrzenie magazynowe i szkoląc personel konserwacyjny z właściwych procedur pielęgnacji, w tym protokołu płukania słodką wodą po każdym użyciu.',
+                'Zespół OLagoon zaprojektował kompletne centrum operacji plażowych dla każdego resortu, w tym 40-stopowy kontener transportowy z możliwością zamknięcia przekształcony w bezpieczną salę sprzętową z wentylacją solarną, 10 ciężkich elektrycznych stacji pompowania z cyfrowymi manometrami, mobilny system stojaków mieszczący 50 desk z osuszaniem kapania oraz stację napraw i konserwacji z zaworami zapasowymi, zestawami łatek i środkami czyszczącymi. Obiekt Puerto Morelos otrzymał dedykowany kiosk plażowy z ladą zameldowania, ścianą kamizelek ratunkowych i cyfrowym ekranem harmonogramu. Zespół instalacyjny OLagoon spędził 2 tygodnie w każdym obiekcie, modyfikując istniejące przestrzenie magazynowe i szkoląc personel konserwacyjny z właściwych procedur pielęgnacji, w tym protokołu płukania słodką wodą po każdym użyciu.',
             },
             {
               title: 'Programowanie aktywności, szkolenie personelu i projekt doświadczenia gości',
               detail:
-                'Afarer opracował program aktywności poziomowany dla każdego resortu — komplementarne (wynajem SUP w slotach 1-godzinnych), z przewodnikiem (poranna joga SUP za 45 USD/os., wieczorne trasy rafowe za 55 USD/os.) i premium (prywatne wycieczki piknikowe na deskach za 120 USD/os.). Trenerzy Afarer spędzili 12 dni w 3 resortach, szkoląc 24 pracowników rekreacji w zakresie obsługi sprzętu, instruktażu gości, protokołów bezpieczeństwa i podstaw napraw. Szkolenie obejmowało program certyfikacji uznany przez Meksykańskie Stowarzyszenie Operatorów Sportów Wodnych. Zespół Carlosa uruchomił system rezerwacji z kodami QR zintegrowany z aplikacją gości Hyatt, umożliwiający gościom rezerwację sprzętu 48 godzin z wyprzedzeniem.',
+                'OLagoon opracował program aktywności poziomowany dla każdego resortu — komplementarne (wynajem SUP w slotach 1-godzinnych), z przewodnikiem (poranna joga SUP za 45 USD/os., wieczorne trasy rafowe za 55 USD/os.) i premium (prywatne wycieczki piknikowe na deskach za 120 USD/os.). Trenerzy OLagoon spędzili 12 dni w 3 resortach, szkoląc 24 pracowników rekreacji w zakresie obsługi sprzętu, instruktażu gości, protokołów bezpieczeństwa i podstaw napraw. Szkolenie obejmowało program certyfikacji uznany przez Meksykańskie Stowarzyszenie Operatorów Sportów Wodnych. Zespół Carlosa uruchomił system rezerwacji z kodami QR zintegrowany z aplikacją gości Hyatt, umożliwiający gościom rezerwację sprzętu 48 godzin z wyprzedzeniem.',
             },
             {
               title: 'Eksploatacja sezonowa, śledzenie wyników i analiza ROI',
               detail:
-                'Pełny program wystartował 15 stycznia 2025, a do czerwca 2025 obsłużył 14 200 doświadczeń gości bez żadnych incydentów bezpieczeństwa. Zadowolenie gości z aktywności wodnych wyniosło średnio 4,7/5, przy czym deski z przezroczystym dnem otrzymały najwyższe oceny (4,9/5). Koszty konserwacji sprzętu spadły o 42% wobec programu wielodostawcowego z poprzedniego roku — z 34 tys. USD do 19,7 tys. USD w 3 obiektach. Premium programy z przewodnikiem wygenerowały 112 tys. USD przychodów przyrostowych w pierwszych 6 miesiącach. Zespół Carlosa odnotował 22% wzrost liczby gości wydłużających pobyt o co najmniej 1 noc specjalnie ze względu na sporty wodne. Inclusive Collection Hyatt zatwierdziła budżet 240 tys. USD na 2026 rok, by dodać sprzęt Afarer w 2 kolejnych obiektach w Dominikanie i na Jamajce.',
+                'Pełny program wystartował 15 stycznia 2025, a do czerwca 2025 obsłużył 14 200 doświadczeń gości bez żadnych incydentów bezpieczeństwa. Zadowolenie gości z aktywności wodnych wyniosło średnio 4,7/5, przy czym deski z przezroczystym dnem otrzymały najwyższe oceny (4,9/5). Koszty konserwacji sprzętu spadły o 42% wobec programu wielodostawcowego z poprzedniego roku — z 34 tys. USD do 19,7 tys. USD w 3 obiektach. Premium programy z przewodnikiem wygenerowały 112 tys. USD przychodów przyrostowych w pierwszych 6 miesiącach. Zespół Carlosa odnotował 22% wzrost liczby gości wydłużających pobyt o co najmniej 1 noc specjalnie ze względu na sporty wodne. Inclusive Collection Hyatt zatwierdziła budżet 240 tys. USD na 2026 rok, by dodać sprzęt OLagoon w 2 kolejnych obiektach w Dominikanie i na Jamajce.',
             },
           ],
           results: [
             'Ponad 14 200 doświadczeń gości w pierwszych 6 miesiącach bez incydentów bezpieczeństwa i przy zadowoleniu gości ze sportów wodnych 4,7/5',
-            'Koszty konserwacji sprzętu zredukowane o 42% — z 34 tys. USD do 19,7 tys. USD rocznie — dzięki konstrukcji komercyjnej Afarer i materiałom UV-stabilizowanym',
+            'Koszty konserwacji sprzętu zredukowane o 42% — z 34 tys. USD do 19,7 tys. USD rocznie — dzięki konstrukcji komercyjnej OLagoon i materiałom UV-stabilizowanym',
             'Premium programy z przewodnikiem wygenerowały 112 tys. USD przychodów przyrostowych w 6 miesięcy, przy jodze SUP i trasach rafowych o zachodzie słońca jako liderach',
             '22% wzrost gości wydłużających pobyty o co najmniej 1 noc, wskazujących sporty wodne jako kluczowy czynnik, co dało szacowane 340 tys. USD dodatkowych przychodów z pokoi',
           ],
@@ -755,22 +755,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Analiza potrzeb wielu obiektów i niestandardowa inżynieria floty',
               detail:
-                'W październiku 2024 zespół Hospitality Afarer przeprowadził indywidualne oceny w każdej lokalizacji BlueWave podczas 10-dniowej trasy po Cykladach. Każdy klub miał inne warunki — Mykonos (zatłoczone zatoki, klientela z wyższej półki, ekspozycja na wiatr), Santorini (wulkaniczny piasek, spokojniejsze wody, turystyka zachodu słońca), Naksos (profil rodzinny, płytkie wody, dłuższy pas plaży), Paros (sąsiedztwo z windsurfingiem, sportowa klientela) i Kreta (większe fale, mieszana demografia). Afarer zaprojektował flotę 200 sztuk z konfiguracjami specyficznymi dla lokalizacji — 110 desk SUP (w tym 20 platform jogi SUP o wydłużonej długości i 20 desk z przezroczystym dnem), 30 desk pedałowych dla gości premium, 30 hybryd windSUP dla Mykonos i Paros oraz 30 desk młodzieżowych dla programów rodzinnych na Naksos. Wszystkie jednostki miały charakterystyczny granatowo-biały schemat BlueWave ze złotymi akcentami logo.',
+                'W październiku 2024 zespół Hospitality OLagoon przeprowadził indywidualne oceny w każdej lokalizacji BlueWave podczas 10-dniowej trasy po Cykladach. Każdy klub miał inne warunki — Mykonos (zatłoczone zatoki, klientela z wyższej półki, ekspozycja na wiatr), Santorini (wulkaniczny piasek, spokojniejsze wody, turystyka zachodu słońca), Naksos (profil rodzinny, płytkie wody, dłuższy pas plaży), Paros (sąsiedztwo z windsurfingiem, sportowa klientela) i Kreta (większe fale, mieszana demografia). OLagoon zaprojektował flotę 200 sztuk z konfiguracjami specyficznymi dla lokalizacji — 110 desk SUP (w tym 20 platform jogi SUP o wydłużonej długości i 20 desk z przezroczystym dnem), 30 desk pedałowych dla gości premium, 30 hybryd windSUP dla Mykonos i Paros oraz 30 desk młodzieżowych dla programów rodzinnych na Naksos. Wszystkie jednostki miały charakterystyczny granatowo-biały schemat BlueWave ze złotymi akcentami logo.',
             },
             {
               title: 'Infrastruktura specyficzna dla lokalizacji i wdrożenie logistyki',
               detail:
-                'Zespół operacyjny Afarer wdrożył plan logistyczny wysyłający 40 kontenerów na 5 wysp, koordynując z lokalnymi partnerami logistycznymi BlueWave transfery między wyspami. Każda lokalizacja otrzymała niestandardowe rozwiązanie magazynowe — Mykonos otrzymało klimatyzowany magazyn nadmorski ze stojakami chronionymi przed UV, Santorini miało system bloczków na klifie do transportu desk z magazynu na plażę, Naksos otrzymało przyjazny rodzinie kiosk rentalowy z ekspozycją sprzętu dziecięcego, a Paros i Kreta magazyny dwufunkcyjne przekształcane w bariery chroniące przed wiatrem. Afarer zainstalował współdzielony cyfrowy system rezerwacji we wszystkich 5 obiektach i przeszkolił 35 pracowników BlueWave podczas 2-tygodniowego intensywnego programu w flagowej lokalizacji na Mykonos w kwietniu 2025.',
+                'Zespół operacyjny OLagoon wdrożył plan logistyczny wysyłający 40 kontenerów na 5 wysp, koordynując z lokalnymi partnerami logistycznymi BlueWave transfery między wyspami. Każda lokalizacja otrzymała niestandardowe rozwiązanie magazynowe — Mykonos otrzymało klimatyzowany magazyn nadmorski ze stojakami chronionymi przed UV, Santorini miało system bloczków na klifie do transportu desk z magazynu na plażę, Naksos otrzymało przyjazny rodzinie kiosk rentalowy z ekspozycją sprzętu dziecięcego, a Paros i Kreta magazyny dwufunkcyjne przekształcane w bariery chroniące przed wiatrem. OLagoon zainstalował współdzielony cyfrowy system rezerwacji we wszystkich 5 obiektach i przeszkolił 35 pracowników BlueWave podczas 2-tygodniowego intensywnego programu w flagowej lokalizacji na Mykonos w kwietniu 2025.',
             },
             {
               title: 'Standaryzacja programu aktywności i stworzenie poziomu premium',
               detail:
-                'Zespół Dimitriego uruchomił ujednolicony program sportów wodnych BlueWave «Aegean Blue Experiences» z 3 poziomami — komplementarnym (30-minutowe sesje SUP dla gości klubu), premium (SUP z przewodnikiem na ustronne plaże za 65–95 EUR) i ultra-premium (prywatne wycieczki na deskach z transferem jachtem za 250 EUR/os. z piknikiem plażowym z szampanem). Zespół programowy Afarer stworzył 12 tras z przewodnikiem na 5 wyspach ze śledzonymi GPS trasami, markerami punktów zainteresowania i wsparciem fotografa. Obiekt na Mykonos uruchomił też «Sunset SUP at Little Venice» — 2-godzinne wieczorne wiosłowanie z przewodnikiem, wyprzedające każdą sesję po 85 EUR/os. z 95% obłożeniem przez lato.',
+                'Zespół Dimitriego uruchomił ujednolicony program sportów wodnych BlueWave «Aegean Blue Experiences» z 3 poziomami — komplementarnym (30-minutowe sesje SUP dla gości klubu), premium (SUP z przewodnikiem na ustronne plaże za 65–95 EUR) i ultra-premium (prywatne wycieczki na deskach z transferem jachtem za 250 EUR/os. z piknikiem plażowym z szampanem). Zespół programowy OLagoon stworzył 12 tras z przewodnikiem na 5 wyspach ze śledzonymi GPS trasami, markerami punktów zainteresowania i wsparciem fotografa. Obiekt na Mykonos uruchomił też «Sunset SUP at Little Venice» — 2-godzinne wieczorne wiosłowanie z przewodnikiem, wyprzedające każdą sesję po 85 EUR/os. z 95% obłożeniem przez lato.',
             },
             {
               title: 'Przegląd sezonu wyników i zrównoważoność programu',
               detail:
-                'W sezonie maj–wrzesień 2025 ujednolicona flota BlueWave obsłużyła 52 000 wynajmów gości w 5 lokalizacjach (4% powyżej celu 50 000). Całkowity koszt sprzętu wyniósł 198 tys. USD zamortyzowany na 5-letni okres gwarancji Afarer, wobec poprzednich 165 tys. USD rocznych wydatków na sprzęt wymieniany co 18 miesięcy — 52% rocznej redukcji kosztów. Zadowolenie gości ze sportów wodnych poprawiło się z 3,8/5 (dostawcy mieszani, przed 2025) do 4,6/5 we wszystkich lokalizacjach. Dimitri zgłosił 340 tys. EUR przychodów z programów premium (joga SUP, trasy z przewodnikiem, wiosłowania o zachodzie słońca), co oznacza 4,7-krotny zwrot z inwestycji w sprzęt w jednym sezonie. BlueWave podpisało 3-letnie odnowienie z Afarer z ekspansją do 2 dodatkowych lokalizacji na Rodos i Korfu na 2026 rok, z 80 kolejnymi deskami.',
+                'W sezonie maj–wrzesień 2025 ujednolicona flota BlueWave obsłużyła 52 000 wynajmów gości w 5 lokalizacjach (4% powyżej celu 50 000). Całkowity koszt sprzętu wyniósł 198 tys. USD zamortyzowany na 5-letni okres gwarancji OLagoon, wobec poprzednich 165 tys. USD rocznych wydatków na sprzęt wymieniany co 18 miesięcy — 52% rocznej redukcji kosztów. Zadowolenie gości ze sportów wodnych poprawiło się z 3,8/5 (dostawcy mieszani, przed 2025) do 4,6/5 we wszystkich lokalizacjach. Dimitri zgłosił 340 tys. EUR przychodów z programów premium (joga SUP, trasy z przewodnikiem, wiosłowania o zachodzie słońca), co oznacza 4,7-krotny zwrot z inwestycji w sprzęt w jednym sezonie. BlueWave podpisało 3-letnie odnowienie z OLagoon z ekspansją do 2 dodatkowych lokalizacji na Rodos i Korfu na 2026 rok, z 80 kolejnymi deskami.',
             },
           ],
           results: [
@@ -782,8 +782,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego operatorzy plażowi wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego operatorzy plażowi wybierają OLagoon',
       items: [
         {
           title: 'Trwałość',
@@ -821,22 +821,22 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Iloma deskami SUP powinienem zacząć dla biznesu rentalowego plażowego?',
         answer:
-          'Afarer rekomenduje rozpoczęcie od 10–20 desk dla małych operacji plażowych, skalowanie do 30–50 dla ugruntowanych biznesów rentalowych i ponad 50 dla dużych centrów sportów wodnych. Planowanie floty obejmuje miks rozmiarów desk i konfiguracji obsługujących różne typy klientów, od początkujących po doświadczonych wioślarzy.',
+          'OLagoon rekomenduje rozpoczęcie od 10–20 desk dla małych operacji plażowych, skalowanie do 30–50 dla ugruntowanych biznesów rentalowych i ponad 50 dla dużych centrów sportów wodnych. Planowanie floty obejmuje miks rozmiarów desk i konfiguracji obsługujących różne typy klientów, od początkujących po doświadczonych wioślarzy.',
       },
       {
-        question: 'Jakie części zamienne i wsparcie konserwacji zapewnia Afarer dla flot rentalowych?',
+        question: 'Jakie części zamienne i wsparcie konserwacji zapewnia OLagoon dla flot rentalowych?',
         answer:
-          'Afarer zapewnia znormalizowany system części zamiennych, w tym zawory, leashy, wiosła, pompy i materiały naprawcze. Oferujemy też przewodniki planowania konserwacji floty z codzienną inspekcją, konserwacją sezonową i procedurami szybkiego przywracania do użytku, minimalizującymi przestoje sprzętu.',
+          'OLagoon zapewnia znormalizowany system części zamiennych, w tym zawory, leashy, wiosła, pompy i materiały naprawcze. Oferujemy też przewodniki planowania konserwacji floty z codzienną inspekcją, konserwacją sezonową i procedurami szybkiego przywracania do użytku, minimalizującymi przestoje sprzętu.',
       },
       {
         question: 'Czy deski SUP można spersonalizować logo i brandingiem mojego biznesu?',
         answer:
-          'Tak, Afarer wspiera pełny branding biznesowy, w tym druk logo, niestandardowe kolory i grafiki identyfikacyjne rentalowe. Zamienia to Twoją flotę w zasób marketingowy i tworzy okazje do zdjęć zwiększające ekspozycję Twojego biznesu w mediach społecznościowych.',
+          'Tak, OLagoon wspiera pełny branding biznesowy, w tym druk logo, niestandardowe kolory i grafiki identyfikacyjne rentalowe. Zamienia to Twoją flotę w zasób marketingowy i tworzy okazje do zdjęć zwiększające ekspozycję Twojego biznesu w mediach społecznościowych.',
       },
       {
-        question: 'Jak trwałe są komercyjne deski SUP Afarer do codziennego użytku rentalowego?',
+        question: 'Jak trwałe są komercyjne deski SUP OLagoon do codziennego użytku rentalowego?',
         answer:
-          'Komercyjne deski SUP Afarer są zaprojektowane do intensywnych operacji rentalowych z wzmocnionym PVC, mocną technologią szwów i ochronnymi warstwami zewnętrznymi. Przy właściwej konserwacji znacząco przewyższają trwałością deski konsumenckie w środowiskach komercyjnych, obniżając całkowity koszt posiadania.',
+          'Komercyjne deski SUP OLagoon są zaprojektowane do intensywnych operacji rentalowych z wzmocnionym PVC, mocną technologią szwów i ochronnymi warstwami zewnętrznymi. Przy właściwej konserwacji znacząco przewyższają trwałością deski konsumenckie w środowiskach komercyjnych, obniżając całkowity koszt posiadania.',
       },
       {
         question: 'Jaki jest typowy zwrot z inwestycji dla floty rentalowej SUP?',
@@ -845,7 +845,7 @@ const pl: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Zbuduj swój biznes plażowych aktywności wodnych z Afarerem',
+      title: 'Zbuduj swój biznes plażowych aktywności wodnych z OLagoonem',
       subtitle: 'Stwórz coś więcej niż usługę wynajmu. Stwórz niezapomniane doświadczenia wodne.',
       primaryAction: {
         text: 'Rozpocznij swój projekt komercyjnej floty SUP już dziś',
@@ -860,7 +860,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Niestandardowe deski SUP z brandingiem na eventy firmowe | Rozwiązania OEM na eventy | {SITE}',
       description:
-        'Afarer tworzy niestandardowe deski SUP z brandingiem na eventy firmowe, zajęcia teambuildingowe i kampanie marketingowe. Pełna personalizacja logo, dopasowanie kolorów firmowych, szybkie prototypowanie i produkcja OEM na dużą skalę.',
+        'OLagoon tworzy niestandardowe deski SUP z brandingiem na eventy firmowe, zajęcia teambuildingowe i kampanie marketingowe. Pełna personalizacja logo, dopasowanie kolorów firmowych, szybkie prototypowanie i produkcja OEM na dużą skalę.',
     },
     hero: {
       tagline: 'Korporacyjny pakiet eventowy SUP™',
@@ -902,25 +902,25 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Pełna personalizacja brandingu korporacyjnego',
           description:
-            'Afarer wspiera wielkopowierzchniowy druk logo, branding powierzchni deski, personalizację wioseł i branding akcesoriów z dopasowaniem kolorów firmowych według referencji Pantone i wymogów identyfikacji wizualnej.',
+            'OLagoon wspiera wielkopowierzchniowy druk logo, branding powierzchni deski, personalizację wioseł i branding akcesoriów z dopasowaniem kolorów firmowych według referencji Pantone i wymogów identyfikacji wizualnej.',
           features: ['Aplikacja logo firmowego', 'Dopasowanie kolorów firmowych', 'Niestandardowy projekt graficzny'],
         },
         {
           title: 'Rozwój produktów SUP pod konkretne eventy',
           description:
-            'Różne eventy wymagają różnych rozwiązań. Afarer oferuje pakiety integracyjne dla dużych grup pracowniczych, pakiety aktywacji marki dla kampanii marketingowych i pakiety VIP dla luksusowych eventów klientowskich.',
+            'Różne eventy wymagają różnych rozwiązań. OLagoon oferuje pakiety integracyjne dla dużych grup pracowniczych, pakiety aktywacji marki dla kampanii marketingowych i pakiety VIP dla luksusowych eventów klientowskich.',
           features: ['Pakiet budowania zespołu', 'Pakiet aktywacji marki', 'Pakiet doświadczeń VIP'],
         },
         {
           title: 'Szybki proces prototypowania i zatwierdzania',
           description:
-            'Afarer wspiera szybkie potwierdzenie projektu z przeglądem grafiki i korektą, rozwój prototypów do potwierdzenia koloru i umiejscowienia logo oraz planowanie produkcji zsynchronizowane z terminami eventu.',
+            'OLagoon wspiera szybkie potwierdzenie projektu z przeglądem grafiki i korektą, rozwój prototypów do potwierdzenia koloru i umiejscowienia logo oraz planowanie produkcji zsynchronizowane z terminami eventu.',
           features: ['Szybkie potwierdzenie projektu', 'Rozwój prototypu', 'Planowanie produkcji'],
         },
         {
           title: 'Możliwość masowej produkcji na zamówienie',
           description:
-            'Afarer wspiera zamówienia korporacyjne od małych eventów 50–100 sztuk dla działań wewnętrznych, przez średnie projekty marketingowe 100–500 sztuk dla aktywacji marek, po duże kampanie korporacyjne 500–1000+ sztuk dla eventów ogólnokrajowych.',
+            'OLagoon wspiera zamówienia korporacyjne od małych eventów 50–100 sztuk dla działań wewnętrznych, przez średnie projekty marketingowe 100–500 sztuk dla aktywacji marek, po duże kampanie korporacyjne 500–1000+ sztuk dla eventów ogólnokrajowych.',
           features: [
             'Małe eventy korporacyjne (50–100 sztuk)',
             'Średnie projekty marketingowe (100–500 sztuk)',
@@ -930,7 +930,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Kompletne pakiety sprzętu eventowego',
           description:
-            'Afarer zapewnia kompletne rozwiązania eventowe, w tym deski SUP na zamówienie, regulowane wiosła, pompy, leashy, torby transportowe, zestawy naprawcze oraz opcjonalne wiosła z marką, akcesoria eventowe i materiały ekspozycyjne.',
+            'OLagoon zapewnia kompletne rozwiązania eventowe, w tym deski SUP na zamówienie, regulowane wiosła, pompy, leashy, torby transportowe, zestawy naprawcze oraz opcjonalne wiosła z marką, akcesoria eventowe i materiały ekspozycyjne.',
           features: ['Standardowy pakiet obejmuje', 'Opcjonalna personalizacja', 'Sprzęt dla personelu'],
         },
         {
@@ -946,13 +946,13 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Kontrola jakości dla projektów marek',
           description:
-            'Afarer zapewnia inspekcję jakości produkcji materiałów i druku, kontrolę dokładności brandingu pozycji logo i spójności kolorów oraz inspekcję dostawy ilości, opakowań i akcesoriów.',
+            'OLagoon zapewnia inspekcję jakości produkcji materiałów i druku, kontrolę dokładności brandingu pozycji logo i spójności kolorów oraz inspekcję dostawy ilości, opakowań i akcesoriów.',
           features: ['Inspekcja jakości produkcji', 'Kontrola dokładności brandingu', 'Inspekcja dostawy'],
         },
         {
           title: 'Globalne wsparcie dostaw eventowych',
           description:
-            'Dla firm międzynarodowych Afarer wspiera projekty wielokrajowe, eventy regionalne i globalne kampanie ze skoordynowaną produkcją, pakowaniem i przygotowaniem wysyłki w wielu lokalizacjach.',
+            'Dla firm międzynarodowych OLagoon wspiera projekty wielokrajowe, eventy regionalne i globalne kampanie ze skoordynowaną produkcją, pakowaniem i przygotowaniem wysyłki w wielu lokalizacjach.',
           features: ['Projekty wielokrajowe', 'Eventy regionalne', 'Globalne kampanie'],
         },
       ],
@@ -969,7 +969,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Integracja projektu marki',
           detail:
-            'Afarer opracował niestandardową grafikę desk z dokładnym dopasowaniem kolorów marki i dużym umiejscowieniem logo, by zmaksymalizować wizualny efekt na wodzie.',
+            'OLagoon opracował niestandardową grafikę desk z dokładnym dopasowaniem kolorów marki i dużym umiejscowieniem logo, by zmaksymalizować wizualny efekt na wodzie.',
         },
         {
           title: 'Zatwierdzenie prototypu',
@@ -1006,17 +1006,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Koncepcja programu i niestandardowa inżynieria produktu',
               detail:
-                "W listopadzie 2024 zespół Klausa spotkał się z dywizją Corporate Events Afarer na targach boot Düsseldorf, by omówić koncepcję. Afarer zaproponował niestandardową deskę touringową 11'6'' w kolorach serii i BMW (Blue Ridge Mountain Metallic, Frozen Pure Grey) z akcentami z tkanej włókny węglowej dopasowanymi do wykończenia wnętrza i7. Inżynierowie Afarer stworzyli 3 deski prototypowe ze zintegrowanymi mocowaniami GoPro do fotografii akcji, antypoślizgowymi deckami ze szwami inspirowanymi BMW M i niestandardowymi zaślepkami zaworów z okrągłym logo BMW. BMW zatwierdziło 120 sztuk po 895 EUR za deskę z dedykowanym systemem przechowywania i transportu z niestandardowymi wózkami.",
+                "W listopadzie 2024 zespół Klausa spotkał się z dywizją Corporate Events OLagoon na targach boot Düsseldorf, by omówić koncepcję. OLagoon zaproponował niestandardową deskę touringową 11'6'' w kolorach serii i BMW (Blue Ridge Mountain Metallic, Frozen Pure Grey) z akcentami z tkanej włókny węglowej dopasowanymi do wykończenia wnętrza i7. Inżynierowie OLagoon stworzyli 3 deski prototypowe ze zintegrowanymi mocowaniami GoPro do fotografii akcji, antypoślizgowymi deckami ze szwami inspirowanymi BMW M i niestandardowymi zaślepkami zaworów z okrągłym logo BMW. BMW zatwierdziło 120 sztuk po 895 EUR za deskę z dedykowanym systemem przechowywania i transportu z niestandardowymi wózkami.",
             },
             {
               title: 'Integracja marki i planowanie logistyki eventów',
               detail:
-                'Zespół grafików Afarer opracował pełne naklejki UV-stabilne z brandingiem BMW i, kodami QR prowadzącymi do konfiguratora BMW i grafiką instrukcji bezpieczeństwa w 8 językach. Zespół logistyczny zaprojektował system rotacji wysyłający 40 desk do każdego z 3 regionów (Europa Południowa, Europa Środkowa, kraje nordyckie/bałtyckie) z mobilnymi stacjami pomp, akumulatorowymi pompami i wodoodpornymi przebieralniami. Zespół eventowy BMW wybrał 18 lokalizacji, w tym jezioro Como (Włochy), St. Tropez (Francja), jezioro Lucerna (Szwajcaria), jezioro Garda (Włochy) i archipelag koło Sztokholmu (Szwecja), każda obsługująca 300–600 gości w programach 2–3-dniowych.',
+                'Zespół grafików OLagoon opracował pełne naklejki UV-stabilne z brandingiem BMW i, kodami QR prowadzącymi do konfiguratora BMW i grafiką instrukcji bezpieczeństwa w 8 językach. Zespół logistyczny zaprojektował system rotacji wysyłający 40 desk do każdego z 3 regionów (Europa Południowa, Europa Środkowa, kraje nordyckie/bałtyckie) z mobilnymi stacjami pomp, akumulatorowymi pompami i wodoodpornymi przebieralniami. Zespół eventowy BMW wybrał 18 lokalizacji, w tym jezioro Como (Włochy), St. Tropez (Francja), jezioro Lucerna (Szwajcaria), jezioro Garda (Włochy) i archipelag koło Sztokholmu (Szwecja), każda obsługująca 300–600 gości w programach 2–3-dniowych.',
             },
             {
               title: 'Aktywacja na miejscu i projekt doświadczenia gości',
               detail:
-                'Każdy event obejmował «BMW i Paddle Experience» z 40 deskami dostępnymi w 90-minutowych sesjach z przewodnikiem prowadzonych przez instruktorów przeszkolonych przez Afarer. Goście otrzymywali spersonalizowane rashguardy z marką BMW i i wodoodporne etui na telefony. Profesjonalni fotografowie uwieczniali każdego gościa płynącego na deskach ze zintegrowanymi mocowaniami kamer; zdjęcia były obrabiane i dostarczane w ciągu 2 godzin przez markową mikrowitrynę. Aktywację sparowano z jazdami próbnymi BMW i7 na malowniczych nadmorskich drogach, tworząc lądowo-wodne zanurzenie w marce. Podczas pierwszych 10 eventów zadowolenie gości wyniosło 4,8/5, a BMW odnotowało, że 23% uczestników poprosiło o jazdę próbną u dealera.',
+                'Każdy event obejmował «BMW i Paddle Experience» z 40 deskami dostępnymi w 90-minutowych sesjach z przewodnikiem prowadzonych przez instruktorów przeszkolonych przez OLagoon. Goście otrzymywali spersonalizowane rashguardy z marką BMW i i wodoodporne etui na telefony. Profesjonalni fotografowie uwieczniali każdego gościa płynącego na deskach ze zintegrowanymi mocowaniami kamer; zdjęcia były obrabiane i dostarczane w ciągu 2 godzin przez markową mikrowitrynę. Aktywację sparowano z jazdami próbnymi BMW i7 na malowniczych nadmorskich drogach, tworząc lądowo-wodne zanurzenie w marce. Podczas pierwszych 10 eventów zadowolenie gości wyniosło 4,8/5, a BMW odnotowało, że 23% uczestników poprosiło o jazdę próbną u dealera.',
             },
             {
               title: 'Przegląd wyników i rozbudowa programu',
@@ -1043,17 +1043,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Projekt programu i planowanie logistyki w wielu lokalizacjach',
               detail:
-                "Zespół dr Sharma nawiązał współpracę z Afarerem w lutym 2025 dla niestandardowego programu korporacyjnego. Afarer zaproponował motyw «Paddle into Production», w którym zespoły 8–10 inżynierów pokonywały trasy SUP odzwierciedlające etapy pipeline'u wdrożeniowego Google Cloud. Afarer spersonalizował 80 desk brandingiem Google Cloud, kodowaniem kolorów zespołowych i wodoodpornymi deckami technicznymi na urządzenia mobilne. Plan logistyczny obejmował 6 lokalizacji — Sunnyvale HQ, Seattle, Nowy Jork, Austin, Chicago i Boulder — z eventami co 2 tygodnie od czerwca do sierpnia 2025. Afarer zadeklarował 320 tys. EUR za 80 desk, 24 instruktorów, pełną logistykę i markowy sprzęt dla 1 200 uczestników.",
+                "Zespół dr Sharma nawiązał współpracę z OLagoonem w lutym 2025 dla niestandardowego programu korporacyjnego. OLagoon zaproponował motyw «Paddle into Production», w którym zespoły 8–10 inżynierów pokonywały trasy SUP odzwierciedlające etapy pipeline'u wdrożeniowego Google Cloud. OLagoon spersonalizował 80 desk brandingiem Google Cloud, kodowaniem kolorów zespołowych i wodoodpornymi deckami technicznymi na urządzenia mobilne. Plan logistyczny obejmował 6 lokalizacji — Sunnyvale HQ, Seattle, Nowy Jork, Austin, Chicago i Boulder — z eventami co 2 tygodnie od czerwca do sierpnia 2025. OLagoon zadeklarował 320 tys. EUR za 80 desk, 24 instruktorów, pełną logistykę i markowy sprzęt dla 1 200 uczestników.",
             },
             {
               title: 'Rozwój inkluzywnej aktywności i ramy bezpieczeństwa',
               detail:
-                'Zespół programowy Afarera stworzył 3 tory umiejętności — «Beginner Buoy» (podstawy wiosłowania i gry na równowadze), «Production Racer» (sztafety drużynowe) i «Cloud Cluster» (wyzwania formacyjne wymagające koordynacji). Każdy tor obejmował wyzwania w stylu Google Cloud, jak «wdroż kontener» (utrzymanie piłki na desce podczas wiosłowania) i «zeskaluj do zera» (wszyscy muszą jednocześnie usiąść). Afarer zatrudnił 24 certyfikowanych instruktorów SUP we wszystkich lokalizacjach i opracował kompleksowy protokół bezpieczeństwa, w tym obowiązkowe kamizelki ratunkowe, system par, testy pływackie i obserwatorów na wodzie z deskami ratunkowymi.',
+                'Zespół programowy OLagoona stworzył 3 tory umiejętności — «Beginner Buoy» (podstawy wiosłowania i gry na równowadze), «Production Racer» (sztafety drużynowe) i «Cloud Cluster» (wyzwania formacyjne wymagające koordynacji). Każdy tor obejmował wyzwania w stylu Google Cloud, jak «wdroż kontener» (utrzymanie piłki na desce podczas wiosłowania) i «zeskaluj do zera» (wszyscy muszą jednocześnie usiąść). OLagoon zatrudnił 24 certyfikowanych instruktorów SUP we wszystkich lokalizacjach i opracował kompleksowy protokół bezpieczeństwa, w tym obowiązkowe kamizelki ratunkowe, system par, testy pływackie i obserwatorów na wodzie z deskami ratunkowymi.',
             },
             {
               title: 'Onboarding, markowe gadżety i realizacja eventów',
               detail:
-                'Każdy uczestnik otrzymał powitalny zestaw markowy z rashguardem Google Cloud x Afarer, pomadką z filtrem SPF, dry bagiem i broszurą eventu. Dwugodzinne sesje obejmowały 30 minut instruktażu na lądzie, 75 minut aktywności na wodzie i 15 minut wyciszenia ze zdjęciem zespołowym z drona. Zespół eventowy Afarera zapewnił całą obsługę, montaż i sprzątanie na każdej lokalizacji — pracownicy Google musieli tylko się zjawić. Pierwszy event na jeziorze Shoreline w Mountain View 12 czerwca 2025 osiągnął 97% frekwencji, a zespoły rywalizowały o nagrodę «Highest Availability» przyznawaną za koordynację i szybkość.',
+                'Każdy uczestnik otrzymał powitalny zestaw markowy z rashguardem Google Cloud x OLagoon, pomadką z filtrem SPF, dry bagiem i broszurą eventu. Dwugodzinne sesje obejmowały 30 minut instruktażu na lądzie, 75 minut aktywności na wodzie i 15 minut wyciszenia ze zdjęciem zespołowym z drona. Zespół eventowy OLagoona zapewnił całą obsługę, montaż i sprzątanie na każdej lokalizacji — pracownicy Google musieli tylko się zjawić. Pierwszy event na jeziorze Shoreline w Mountain View 12 czerwca 2025 osiągnął 97% frekwencji, a zespoły rywalizowały o nagrodę «Highest Availability» przyznawaną za koordynację i szybkość.',
             },
             {
               title: 'Analiza wyników i rozbudowa na drugi rok',
@@ -1070,8 +1070,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego firmy wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego firmy wybierają OLagoon',
       items: [
         {
           title: 'Prezentacja marki',
@@ -1081,7 +1081,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Szybka realizacja projektu',
           description:
-            'Terminy mają znaczenie. Usprawniony proces Afarera prowadzi od koncepcji do dostawy w napiętych harmonogramach eventów.',
+            'Terminy mają znaczenie. Usprawniony proces OLagoona prowadzi od koncepcji do dostawy w napiętych harmonogramach eventów.',
         },
         {
           title: 'Produkcja na zamówienie',
@@ -1091,7 +1091,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Niezawodna dostawa',
           description:
-            'Eventy nie mogą czekać. Afarer gwarantuje planowanie produkcji i koordynację wysyłki, by dotrzymać stałych terminów eventów.',
+            'Eventy nie mogą czekać. OLagoon gwarantuje planowanie produkcji i koordynację wysyłki, by dotrzymać stałych terminów eventów.',
         },
         {
           title: 'Wizualny efekt',
@@ -1109,36 +1109,36 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy dopasowujecie dokładne kolory firmowe (Pantone) na deskach SUP?',
         answer:
-          'Tak, Afarer wspiera dopasowanie kolorów Pantone i wymogi korporacyjnej identyfikacji wizualnej z precyzyjną reprodukcją barw. Przed produkcją masową dostarczamy próbki prototypowe do zatwierdzenia koloru, by finalny produkt dokładnie odpowiadał standardom Twojej marki.',
+          'Tak, OLagoon wspiera dopasowanie kolorów Pantone i wymogi korporacyjnej identyfikacji wizualnej z precyzyjną reprodukcją barw. Przed produkcją masową dostarczamy próbki prototypowe do zatwierdzenia koloru, by finalny produkt dokładnie odpowiadał standardom Twojej marki.',
       },
       {
         question: 'Jaka jest minimalna wielkość zamówienia niestandardowych desek SUP z marką?',
         answer:
-          'Afarer dostosowuje się do różnej skali projektów. Małe eventy korporacyjne i działania wewnętrzne zaczynają się od 50–100 sztuk. Średnie kampanie marketingowe obejmują 100–500 sztuk, a duże eventy ogólnokrajowe lub wielolokalizacyjne mogą skalować się do 500–1000+ sztuk.',
+          'OLagoon dostosowuje się do różnej skali projektów. Małe eventy korporacyjne i działania wewnętrzne zaczynają się od 50–100 sztuk. Średnie kampanie marketingowe obejmują 100–500 sztuk, a duże eventy ogólnokrajowe lub wielolokalizacyjne mogą skalować się do 500–1000+ sztuk.',
       },
       {
         question: 'Ile trwa proces prototypowania i zatwierdzania?',
         answer:
-          'Proces prototypowania jest zaprojektowany pod szybkość. Afarer zapewnia szybkie potwierdzenie projektu, przegląd grafiki i rozwój prototypu zazwyczaj w ciągu 1–2 tygodni. Pozostawia to wystarczająco czasu na zatwierdzenie i produkcję masową przed terminami eventu.',
+          'Proces prototypowania jest zaprojektowany pod szybkość. OLagoon zapewnia szybkie potwierdzenie projektu, przegląd grafiki i rozwój prototypu zazwyczaj w ciągu 1–2 tygodni. Pozostawia to wystarczająco czasu na zatwierdzenie i produkcję masową przed terminami eventu.',
       },
       {
         question: 'Czy możecie dostarczać do wielu lokalizacji na globalne eventy kampanijne?',
         answer:
-          'Tak, Afarer wspiera kampanie eventowe wielokrajowe i wielolokalizacyjne. Koordynujemy produkcję, pakowanie i przygotowanie wysyłki, zapewniając spójną dostawę we wszystkich regionalnych lub globalnych lokalizacjach eventów.',
+          'Tak, OLagoon wspiera kampanie eventowe wielokrajowe i wielolokalizacyjne. Koordynujemy produkcję, pakowanie i przygotowanie wysyłki, zapewniając spójną dostawę we wszystkich regionalnych lub globalnych lokalizacjach eventów.',
       },
       {
         question: 'Jakie opcje personalizacji są dostępne poza drukiem logo?',
         answer:
-          'Poza drukiem logo Afarer oferuje pełny branding powierzchni deski, personalizację wioseł, dopasowanie kolorów firmowych według referencji Pantone, projekty graficzne w tematyce eventów, grafiki edycji limitowanych oraz markowe akcesoria, w tym wiosła, pompy i torby.',
+          'Poza drukiem logo OLagoon oferuje pełny branding powierzchni deski, personalizację wioseł, dopasowanie kolorów firmowych według referencji Pantone, projekty graficzne w tematyce eventów, grafiki edycji limitowanych oraz markowe akcesoria, w tym wiosła, pompy i torby.',
       },
       {
         question: 'Czy oferujecie kompletne pakiety eventowe z akcesoriami i wiosłami?',
         answer:
-          'Tak, Afarer zapewnia kompletne pakiety sprzętu eventowego, w tym deski SUP na zamówienie, regulowane wiosła, pompy, leashy, torby transportowe i zestawy naprawcze. Opcjonalne dodatki obejmują wiosła z marką, akcesoria eventowe, materiały ekspozycyjne i sprzęt dla personelu.',
+          'Tak, OLagoon zapewnia kompletne pakiety sprzętu eventowego, w tym deski SUP na zamówienie, regulowane wiosła, pompy, leashy, torby transportowe i zestawy naprawcze. Opcjonalne dodatki obejmują wiosła z marką, akcesoria eventowe, materiały ekspozycyjne i sprzęt dla personelu.',
       },
     ],
     cta: {
-      title: 'Stwórz swoje korporacyjne doświadczenie wodne z Afarerem',
+      title: 'Stwórz swoje korporacyjne doświadczenie wodne z OLagoonem',
       subtitle: 'Twoja marka zasługuje na to, by ją zapamiętano.',
       primaryAction: {
         text: 'Rozpocznij swój korporacyjny projekt SUP już dziś',
@@ -1153,15 +1153,15 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent wędkarskich desk SUP | Niestandardowe pompowane deski wędkarskie | {SITE}',
       description:
-        'Afarer pomaga markom sprzętu wędkarskiego tworzyć niestandardowe produkty wędkarskich desk SUP o wysokiej stabilności, z systemami uchwytów na wędki, mocowaniami na lodówki, akcesoriami D-ring i rozwiązaniami produkcyjnymi private label.',
+        'OLagoon pomaga markom sprzętu wędkarskiego tworzyć niestandardowe produkty wędkarskich desk SUP o wysokiej stabilności, z systemami uchwytów na wędki, mocowaniami na lodówki, akcesoriami D-ring i rozwiązaniami produkcyjnymi private label.',
     },
     hero: {
       tagline: 'Stwórz swoją markę wędkarskich SUP™',
       title: 'Produkcja niestandardowych wędkarskich SUP dla marek sprzętu wędkarskiego',
       subtitle:
-        'Afarer pomaga markom sprzętu wędkarskiego tworzyć niestandardowe produkty wędkarskich SUP z projektami o wysokiej stabilności, systemami uchwytów na wędki, mocowaniami lodówek, akcesoriami D-ring i rozwiązaniami produkcji private label.',
+        'OLagoon pomaga markom sprzętu wędkarskiego tworzyć niestandardowe produkty wędkarskich SUP z projektami o wysokiej stabilności, systemami uchwytów na wędki, mocowaniami lodówek, akcesoriami D-ring i rozwiązaniami produkcji private label.',
       image: {
-        alt: 'Opis niestandardowych desk SUP Afarer',
+        alt: 'Opis niestandardowych desk SUP OLagoon',
       },
     },
     challenge: {
@@ -1264,7 +1264,7 @@ const pl: Record<string, SolutionOverride> = {
       customer:
         'Północnoamerykańska marka sprzętu wędkarskiego, wcześniej sprzedająca wędki, skrzynki wędkarskie i outdoorowe akcesoria wędkarskiej lojalnej społeczności doświadczonych wędkarzy.',
       steps: [
-        'Afarer przeanalizował użytkowników docelowych i zdefiniował pozycjonowanie produktu jako «Profesjonalna pompowana platforma wędkarska dla wymagających wędkarzy», spójne z reputacją marki.',
+        'OLagoon przeanalizował użytkowników docelowych i zdefiniował pozycjonowanie produktu jako «Profesjonalna pompowana platforma wędkarska dla wymagających wędkarzy», spójne z reputacją marki.',
         "Stworzono model wędkarskiego SUP 11' ze szczególnie szeroką platformą stania, wysoką nośnością, wzmocnioną strukturą Drop Stitch, wieloma systemami D-ring i kompatybilnością z uchwytami na wędki.",
         'Opracowano grafikę skupioną na wędkarstwie, outdoorowy system kolorów i profesjonalne opakowanie przemawiające do doświadczonych wędkarzy.',
         'Debiut z 500 sztukami rozprowadzonymi przez istniejących klientów wędkarskich, sklep e-commerce i sieć dealerską outdoorową.',
@@ -1289,22 +1289,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Współprojektowanie z profesjonalnymi wędkarzami i analiza ergonomiczna',
               detail:
-                'Afarer wysłał 3-osobowy zespół rozwoju produktu do Göteborga w marcu 2023 roku na 10-dniowe warsztaty współprojektowania. Pracowali z 8 zawodowymi i półzawodowymi wędkarzami (w tym ze szwedzkim mistrzem wędkarstwa sportowego Larsem Nilssonem), z których każdy miał ponad 15 lat doświadczenia z wędkarskimi SUP. Zespół przeprowadził analizę przechwytywania ruchu rzutu i wciągania żyłki na prototypowych deskach, aby wyznaczyć optymalne pozycje stania. Kluczowe ustalenia: idealny kąt uchwytu na wędkę wynosił 22 stopnie od pionu (wobec 15 stopni w produktach konkurencji), strefa przechowywania przynęt musiała znajdować się w zasięgu 40 cm od naturalnego zasięgu wioślarza, a deska potrzebowała minimalnie 34" szerokości dla stabilnego stania przy wietrze 30 km/h. Warsztaty wyprodukowały 47 konkretnych wymagań projektowych, z których 42 włączono do finalnego projektu.',
+                'OLagoon wysłał 3-osobowy zespół rozwoju produktu do Göteborga w marcu 2023 roku na 10-dniowe warsztaty współprojektowania. Pracowali z 8 zawodowymi i półzawodowymi wędkarzami (w tym ze szwedzkim mistrzem wędkarstwa sportowego Larsem Nilssonem), z których każdy miał ponad 15 lat doświadczenia z wędkarskimi SUP. Zespół przeprowadził analizę przechwytywania ruchu rzutu i wciągania żyłki na prototypowych deskach, aby wyznaczyć optymalne pozycje stania. Kluczowe ustalenia: idealny kąt uchwytu na wędkę wynosił 22 stopnie od pionu (wobec 15 stopni w produktach konkurencji), strefa przechowywania przynęt musiała znajdować się w zasięgu 40 cm od naturalnego zasięgu wioślarza, a deska potrzebowała minimalnie 34" szerokości dla stabilnego stania przy wietrze 30 km/h. Warsztaty wyprodukowały 47 konkretnych wymagań projektowych, z których 42 włączono do finalnego projektu.',
             },
             {
               title: 'Krok 2: Inżynieria zintegrowanego systemu wędkarskiego i testy prototypów',
               detail:
-                'Projektanci przemysłowi Afarer opracowali modułowy system «Fishing Deck»: demontowany system aluminiowych szyn (długość 1,2 m) montowany przez 12 stalowych wtyków wtopionych w rdzeń drop-stitch deski. Szyna przyjmowała 4 uchwyty na wędki (regulowany kąt, szybki zwolnienie), dużą skrzynkę na przynęty (32 L, wodoodporność IP67, wymienna), kaburę na podbierak i uchwyt na kubek termosowy (wymóg rynku nordyckiego). Trzy prototypowe deski powstały w maju 2023 i były testowane przez 4 tygodnie na 6 szwedzkich jeziorach (Vänern, Vättern, Mälaren i 3 mniejsze jeziora w Småland). Program testowy odnotował 340 godzin aktywnego czasu wędkarskiego. Jeden prototyp rozwinął lekkie wypaczenie po 3 dniach ciągłej ekspozycji słonecznej w temperaturze 26°C — Afarer zwiększył grubość PVC pokładu z 0,9 mm do 1,2 mm dla wszystkich sztuk produkcyjnych.',
+                'Projektanci przemysłowi OLagoon opracowali modułowy system «Fishing Deck»: demontowany system aluminiowych szyn (długość 1,2 m) montowany przez 12 stalowych wtyków wtopionych w rdzeń drop-stitch deski. Szyna przyjmowała 4 uchwyty na wędki (regulowany kąt, szybki zwolnienie), dużą skrzynkę na przynęty (32 L, wodoodporność IP67, wymienna), kaburę na podbierak i uchwyt na kubek termosowy (wymóg rynku nordyckiego). Trzy prototypowe deski powstały w maju 2023 i były testowane przez 4 tygodnie na 6 szwedzkich jeziorach (Vänern, Vättern, Mälaren i 3 mniejsze jeziora w Småland). Program testowy odnotował 340 godzin aktywnego czasu wędkarskiego. Jeden prototyp rozwinął lekkie wypaczenie po 3 dniach ciągłej ekspozycji słonecznej w temperaturze 26°C — OLagoon zwiększył grubość PVC pokładu z 0,9 mm do 1,2 mm dla wszystkich sztuk produkcyjnych.',
             },
             {
               title: 'Krok 3: Nordyckie opakowanie detaliczne, integracja katalogowa i przedsprzedaż',
               detail:
-                'Afarer zaprojektował wytrzymałe opakowanie z dwujęzycznym (szwedzko-fińskim) etykietowaniem i wewnętrznym układem «Fishing SUP Starter Kit»: deska, szyna wędkarska z 4 uchwytami na wędki, skrzynka na przynęty, 3-częściowe wiosło, pompka dwutaktowa, plecak i 32-stronicowy przewodnik «Fishing from SUP» po szwedzku, norwesku i fińsku. Nordic Angler uruchomił przedsprzedaż na Szwedzkich Targach Wędkarstwa Sportowego w Sztokholmie (sierpień 2023), zdobywając twarde zamówienia od 34 detalistów na 860 sztuk. Erik wynegocjował z Afarer wyłączną 12-miesięczną umowę dystrybucyjną na nordycki rynek, zapewniającą, że żadne konkurencyjne wędkarskie SUP private label nie będą sprzedawane konkurentom Nordic Angler w tym okresie.',
+                'OLagoon zaprojektował wytrzymałe opakowanie z dwujęzycznym (szwedzko-fińskim) etykietowaniem i wewnętrznym układem «Fishing SUP Starter Kit»: deska, szyna wędkarska z 4 uchwytami na wędki, skrzynka na przynęty, 3-częściowe wiosło, pompka dwutaktowa, plecak i 32-stronicowy przewodnik «Fishing from SUP» po szwedzku, norwesku i fińsku. Nordic Angler uruchomił przedsprzedaż na Szwedzkich Targach Wędkarstwa Sportowego w Sztokholmie (sierpień 2023), zdobywając twarde zamówienia od 34 detalistów na 860 sztuk. Erik wynegocjował z OLagoon wyłączną 12-miesięczną umowę dystrybucyjną na nordycki rynek, zapewniającą, że żadne konkurencyjne wędkarskie SUP private label nie będą sprzedawane konkurentom Nordic Angler w tym okresie.',
             },
             {
               title: 'Krok 4: Produkcja, sezonowe timing i pierwszoroczny sell-through',
               detail:
-                'Produkcja 1 200 sztuk (700 Lake Angler, 500 Expedition Angler) trwała od września do listopada 2023 roku w zakładzie Afarer w Zhongshan. Przesyłka wypłynęła z Ningbo 18 listopada 2023 i dotarła do portu w Göteborgu 18 grudnia 2023 — idealnie w czasie na wiosenne zakupy detalistów. Nordic Angler rozprowadził 760 sztuk na półki sklepowe do 1 marca 2024, a pozostałe 440 sztuk trzymał we własnym magazynie do bezpośredniej realizacji. Do 31 maja 2024 sprzedano 980 sztuk (81,7% pierwszej partii). Deska Lake Angler stała się najlepiej sprzedającym się wędkarskim SUP w XXL Szwecja w ciągu 90 dni. Erik złożył zamówienie uzupełniające na 1 800 sztuk w czerwcu 2024 z 3 ulepszeniami projektowymi: bardziej wyściełany pokrowiec transportowy, pokrętła regulacji szyn bez narzędzi i kieszeń na mocowanie trackera GPS.',
+                'Produkcja 1 200 sztuk (700 Lake Angler, 500 Expedition Angler) trwała od września do listopada 2023 roku w zakładzie OLagoon w Zhongshan. Przesyłka wypłynęła z Ningbo 18 listopada 2023 i dotarła do portu w Göteborgu 18 grudnia 2023 — idealnie w czasie na wiosenne zakupy detalistów. Nordic Angler rozprowadził 760 sztuk na półki sklepowe do 1 marca 2024, a pozostałe 440 sztuk trzymał we własnym magazynie do bezpośredniej realizacji. Do 31 maja 2024 sprzedano 980 sztuk (81,7% pierwszej partii). Deska Lake Angler stała się najlepiej sprzedającym się wędkarskim SUP w XXL Szwecja w ciągu 90 dni. Erik złożył zamówienie uzupełniające na 1 800 sztuk w czerwcu 2024 z 3 ulepszeniami projektowymi: bardziej wyściełany pokrowiec transportowy, pokrętła regulacji szyn bez narzędzi i kieszeń na mocowanie trackera GPS.',
             },
           ],
           results: [
@@ -1326,22 +1326,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Specyfikacja produktu skupiona na przewodnikach i analiza opinii klientów',
               detail:
-                'Zespół produktowy Afarer przeprowadził w marcu 2023 wywiady z 14 amerykańskimi przewodnikami wędkarskimi (z Teksasu, Florydy, Michigan i Oregonu), tworząc skonsolidowaną specyfikację. Top 3 żądanych funkcji to: (1) podwyższona platforma zarzucania na dziobie (wzniesienie 8") dla lepszej widoczności i miejsca na rzuty zamachowe, (2) cichy system montażu silnika trollingowego (minimalnie 55 funtów uciągu, montaż na rufie) oraz (3) zgodny z «yak-attack» system szyn sprzętowych. Dwayne nalegał też na maksymalną nośność 450 funtów dla przewiezienia dwóch wędkarzy (przewodnik i klient). Wynikowa specyfikacja liczyła 18 stron, w tym raport strukturalnej Analizy Elementów Skończonych (FEA) od zespołu inżynieryjnego Afarer, pokazujący, że deska utrzyma punktowe obciążenie 250 funtów w połowie rozpiętości z ugięciem poniżej 1,5 cala.',
+                'Zespół produktowy OLagoon przeprowadził w marcu 2023 wywiady z 14 amerykańskimi przewodnikami wędkarskimi (z Teksasu, Florydy, Michigan i Oregonu), tworząc skonsolidowaną specyfikację. Top 3 żądanych funkcji to: (1) podwyższona platforma zarzucania na dziobie (wzniesienie 8") dla lepszej widoczności i miejsca na rzuty zamachowe, (2) cichy system montażu silnika trollingowego (minimalnie 55 funtów uciągu, montaż na rufie) oraz (3) zgodny z «yak-attack» system szyn sprzętowych. Dwayne nalegał też na maksymalną nośność 450 funtów dla przewiezienia dwóch wędkarzy (przewodnik i klient). Wynikowa specyfikacja liczyła 18 stron, w tym raport strukturalnej Analizy Elementów Skończonych (FEA) od zespołu inżynieryjnego OLagoon, pokazujący, że deska utrzyma punktowe obciążenie 250 funtów w połowie rozpiętości z ugięciem poniżej 1,5 cala.',
             },
             {
               title: 'Krok 2: Prototypowanie, testy floty przewodnickiej i cykl iteracji',
               detail:
-                'Afarer wyprodukował 4 prototypowe deski Guide Pro w maju 2023. Dwayne używał ich wyłącznie na 22 wyprawach przewodnickich w ciągu 6 tygodni (czerwiec–lipiec 2023), z udziałem 54 klientów. Każda wyprawa była udokumentowana pisemną opinią klientów i materiałem wideo. Kluczowe ustalenia: podwyższona platforma zarzucania zebrała świetne opinie (ocena 4,8/5), ale klienci uznali początkowe rozmieszczenie szyn za zbyt wysunięte do przodu — Afarer przesunął je o 6 cali do tyłu. Cichy montaż silnika trollingowego działał, ale waga (9 funtów) przesuwała wyważenie deski — Afarer przeprojektował go na dwuczęściowy aluminiowy wspornik ważący 5,2 funta. Najczęstszy komentarz klientów: «Poczułem się na tyle stabilnie, żeby stanąć i zarzucać za pierwszym razem». Po 54 wyprawach z klientami zero desk wykazało problemy strukturalne. Dwayne udzielił finalnej akceptacji w sierpniu 2023.',
+                'OLagoon wyprodukował 4 prototypowe deski Guide Pro w maju 2023. Dwayne używał ich wyłącznie na 22 wyprawach przewodnickich w ciągu 6 tygodni (czerwiec–lipiec 2023), z udziałem 54 klientów. Każda wyprawa była udokumentowana pisemną opinią klientów i materiałem wideo. Kluczowe ustalenia: podwyższona platforma zarzucania zebrała świetne opinie (ocena 4,8/5), ale klienci uznali początkowe rozmieszczenie szyn za zbyt wysunięte do przodu — OLagoon przesunął je o 6 cali do tyłu. Cichy montaż silnika trollingowego działał, ale waga (9 funtów) przesuwała wyważenie deski — OLagoon przeprojektował go na dwuczęściowy aluminiowy wspornik ważący 5,2 funta. Najczęstszy komentarz klientów: «Poczułem się na tyle stabilnie, żeby stanąć i zarzucać za pierwszym razem». Po 54 wyprawach z klientami zero desk wykazało problemy strukturalne. Dwayne udzielił finalnej akceptacji w sierpniu 2023.',
             },
             {
               title: 'Krok 3: Debiut marki, strona DTC i program afiliacyjny przewodników',
               detail:
-                'Texas Tailwaters zadebiutowało 1 listopada 2023 ze stroną DTC na Shopify zbudowaną przez zespół e-commerce Afarer. Strona zawierała 8 filmów produktowych, 34 zdjęcia lifestylowe zrobione na jeziorze Travis (w tym ujęcia z drona) i szczegółowe «Notatki przewodnika» (osobiste wskazówki Dwaynea do każdej deski). Afarer wdrożył wielopoziomowy program afiliacyjny przewodników: przewodnicy otrzymywali 15% prowizji od bezpośrednich poleceń, darmową deskę demo po 10 polecanych sprzedażach i wyłączny dostęp do prywatnej grupy na Facebooku (42 członków przewodników do marca 2024). Kampania debiutowa obejmowała strategię Google Ads celującą w «fishing SUP», «SUP fishing» i «guide paddleboard» z miesięcznym budżetem 3 500 USD. Własne treści Dwaynea na Instagramie napędzały znaczący ruch — jego rolki «Dzień na wodzie» osiągały średnio 12 000 wyświetleń.',
+                'Texas Tailwaters zadebiutowało 1 listopada 2023 ze stroną DTC na Shopify zbudowaną przez zespół e-commerce OLagoon. Strona zawierała 8 filmów produktowych, 34 zdjęcia lifestylowe zrobione na jeziorze Travis (w tym ujęcia z drona) i szczegółowe «Notatki przewodnika» (osobiste wskazówki Dwaynea do każdej deski). OLagoon wdrożył wielopoziomowy program afiliacyjny przewodników: przewodnicy otrzymywali 15% prowizji od bezpośrednich poleceń, darmową deskę demo po 10 polecanych sprzedażach i wyłączny dostęp do prywatnej grupy na Facebooku (42 członków przewodników do marca 2024). Kampania debiutowa obejmowała strategię Google Ads celującą w «fishing SUP», «SUP fishing» i «guide paddleboard» z miesięcznym budżetem 3 500 USD. Własne treści Dwaynea na Instagramie napędzały znaczący ruch — jego rolki «Dzień na wodzie» osiągały średnio 12 000 wyświetleń.',
             },
             {
               title: 'Krok 4: Realizacja produkcji, wsparcie klientów i skalowanie w drugim roku',
               detail:
-                'Pierwsza partia produkcyjna 450 sztuk (300 Guide Pro, 150 Expedition Elite) wyszła z fabryki Afarer 15 października 2023 i dotarła do partnera 3PL Dwaynea w Houston (obiekt ShipBob) 22 listopada 2023. Dwayne przedsprzedał 87 sztuk przed debiutem przez swoją sieć przewodników. Do 31 marca 2024 sprzedano 334 sztuki (74,2% zapasów). Zespół wsparcia klientów Afarer obsłużył wszystkie zgłoszenia gwarancyjne (6 zgłoszonych problemów: 3 nieszczelności trzonków zaworów, 2 poluzowania pudełek płetw, 1 pęcherz maty pokładu) — wszystkie rozwiązane w ciągu 48 godzin. Dwayne zatrudnił w kwietniu 2024 niepełnoetatowego koordynatora obsługi klienta wraz ze wzrostem wolumenów. Druga partia 800 sztuk została zamówiona w maju 2024 z ekspansją do dwóch nowych sprzedawców detalicznych: Austin Kayak i Fishing Tackle Unlimited (oba w Teksasie).',
+                'Pierwsza partia produkcyjna 450 sztuk (300 Guide Pro, 150 Expedition Elite) wyszła z fabryki OLagoon 15 października 2023 i dotarła do partnera 3PL Dwaynea w Houston (obiekt ShipBob) 22 listopada 2023. Dwayne przedsprzedał 87 sztuk przed debiutem przez swoją sieć przewodników. Do 31 marca 2024 sprzedano 334 sztuki (74,2% zapasów). Zespół wsparcia klientów OLagoon obsłużył wszystkie zgłoszenia gwarancyjne (6 zgłoszonych problemów: 3 nieszczelności trzonków zaworów, 2 poluzowania pudełek płetw, 1 pęcherz maty pokładu) — wszystkie rozwiązane w ciągu 48 godzin. Dwayne zatrudnił w kwietniu 2024 niepełnoetatowego koordynatora obsługi klienta wraz ze wzrostem wolumenów. Druga partia 800 sztuk została zamówiona w maju 2024 z ekspansją do dwóch nowych sprzedawców detalicznych: Austin Kayak i Fishing Tackle Unlimited (oba w Teksasie).',
             },
           ],
           results: [
@@ -1353,8 +1353,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego OLagoon',
       items: [
         {
           title: 'Potrzeby użytkowników wędkarskich',
@@ -1392,7 +1392,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy mogę dodać uchwyty na wędki i mocowania lodówek do SUP?',
         answer:
-          'Tak. Afarer integruje wędkarskie systemy akcesoriów, w tym uchwyty na wędki, strefy mocowania lodówek, mocowania kamer i punkty D-ring, bezpośrednio w projekcie deski.',
+          'Tak. OLagoon integruje wędkarskie systemy akcesoriów, w tym uchwyty na wędki, strefy mocowania lodówek, mocowania kamer i punkty D-ring, bezpośrednio w projekcie deski.',
       },
       {
         question: 'Jaka jest nośność wędkarskiego SUP?',
@@ -1402,7 +1402,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy oferujecie niestandardowe branding dla firm sprzętu wędkarskiego?',
         answer:
-          'Tak. Afarer zapewnia kompletną produkcję private label z niestandardową grafiką desk, kolorami marki, rozmieszczeniem logo, projektem pokładu EVA i opakowaniem dla marek wędkarskich.',
+          'Tak. OLagoon zapewnia kompletną produkcję private label z niestandardową grafiką desk, kolorami marki, rozmieszczeniem logo, projektem pokładu EVA i opakowaniem dla marek wędkarskich.',
       },
       {
         question: 'Czy wędkarski SUP nadaje się do wód słodkich i słonych?',
@@ -1432,12 +1432,12 @@ const pl: Record<string, SolutionOverride> = {
         '{SITE} pomaga twórcom z YouTube, TikToka, Instagrama i markom z Kickstartera wypuszczać niestandardowe produkty SUP z szybkimi prototypami, produkcją przy niskich MOQ, projektami w limitowanych edycjach i rozwiązaniami private label.',
     },
     hero: {
-      tagline: 'Zamień swoją społeczność w markę sportów wodnych z Afarer',
+      tagline: 'Zamień swoją społeczność w markę sportów wodnych z OLagoon',
       title: 'Niestandardowe rozwiązania produkcyjne SUP dla twórców YouTube, TikTok, Instagram i marek z Kickstartera',
       subtitle:
-        'Afarer pomaga twórcom wypuszczać własne marki SUP dzięki szybkiemu rozwojowi prototypów, produkcji przy niskich MOQ, niestandardowej grafice, projektach edycji limitowanych, opakowaniach markowych i elastycznych rozwiązaniach produkcyjnych.',
+        'OLagoon pomaga twórcom wypuszczać własne marki SUP dzięki szybkiemu rozwojowi prototypów, produkcji przy niskich MOQ, niestandardowej grafice, projektach edycji limitowanych, opakowaniach markowych i elastycznych rozwiązaniach produkcyjnych.',
       image: {
-        alt: 'Niestandardowe deski SUP Afarer dla marek twórców i influencerów',
+        alt: 'Niestandardowe deski SUP OLagoon dla marek twórców i influencerów',
       },
     },
     challenge: {
@@ -1471,7 +1471,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Szybki rozwój prototypów SUP',
           description:
-            'Afarer pomaga szybko przekształcać pomysły w fizyczne prototypy. Od rozwoju koncepcji i próbek desk po testy grafiki i regulację konfiguracji — twórcy mogą szybko iterować w oparciu o opinie społeczności.',
+            'OLagoon pomaga szybko przekształcać pomysły w fizyczne prototypy. Od rozwoju koncepcji i próbek desk po testy grafiki i regulację konfiguracji — twórcy mogą szybko iterować w oparciu o opinie społeczności.',
           features: [
             'Rozwój koncepcji produktu',
             'Tworzenie prototypów',
@@ -1482,7 +1482,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Produkcja przy niskich MOQ dla marek twórców',
           description:
-            'Twórcy muszą zwalidować popyt przed skalowaniem. Afarer wspiera elastyczne ilości startowe od 100–300 sztuk do testów społecznościowych i limitowanych debiutów, ze skalowaniem do 500–2000 na etap wzrostu i ponad 3000 dla pełnej operacji markowej.',
+            'Twórcy muszą zwalidować popyt przed skalowaniem. OLagoon wspiera elastyczne ilości startowe od 100–300 sztuk do testów społecznościowych i limitowanych debiutów, ze skalowaniem do 500–2000 na etap wzrostu i ponad 3000 dla pełnej operacji markowej.',
           features: [
             'Etap debiutu twórcy: 100–300 sztuk',
             'Etap wzrostu: 500–2000 sztuk',
@@ -1493,7 +1493,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Projekt limitowanych edycji SUP twórców',
           description:
-            'Marki twórców odnoszą sukces dzięki unikalności. Afarer pomaga opracowywać ekskluzywne edycje z niestandardową grafiką, autorską sztuką, specjalnymi edycjami kolorystycznymi i elementami projektu inspirowanymi społecznością, których fani naprawdę chcą.',
+            'Marki twórców odnoszą sukces dzięki unikalności. OLagoon pomaga opracowywać ekskluzywne edycje z niestandardową grafiką, autorską sztuką, specjalnymi edycjami kolorystycznymi i elementami projektu inspirowanymi społecznością, których fani naprawdę chcą.',
           features: [
             'Niestandardowa grafika i grafika autorska',
             'Edycje autorskie i społecznościowe',
@@ -1504,12 +1504,12 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Premium opakowania na debiuty twórców',
           description:
-            'Dla twórców rozpakowanie jest częścią doświadczenia marki. Afarer wspiera niestandardowe opakowania z markowymi pudełkami, kartami produktowymi, podziękowaniami i kodami QR prowadzącymi do treści twórcy, które zamieniają klientów w długoterminowych obserwujących.',
+            'Dla twórców rozpakowanie jest częścią doświadczenia marki. OLagoon wspiera niestandardowe opakowania z markowymi pudełkami, kartami produktowymi, podziękowaniami i kodami QR prowadzącymi do treści twórcy, które zamieniają klientów w długoterminowych obserwujących.',
         },
         {
           title: 'Wsparcie produktów dla Kickstartera i crowdfundingu',
           description:
-            'Wielu twórców używa crowdfundingu do walidacji popytu. Afarer wspiera rozwój prototypów przed debiutem, planowanie produkcji kampanii i realizację partii po kampanii, żeby twórcy mogli dotrzymać obietnic.',
+            'Wielu twórców używa crowdfundingu do walidacji popytu. OLagoon wspiera rozwój prototypów przed debiutem, planowanie produkcji kampanii i realizację partii po kampanii, żeby twórcy mogli dotrzymać obietnic.',
           features: [
             'Rozwój przed debiutem',
             'Planowanie produkcji kampanii',
@@ -1520,7 +1520,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Ekspansja produktów marki twórcy',
           description:
-            'Udana marka twórcy może rozszerzyć się w kompletny ekosystem outdoorowy. Afarer wspiera linie produktów SUP, akcesoria wodne i kolekcje sezonowe rosnące wraz ze społecznością.',
+            'Udana marka twórcy może rozszerzyć się w kompletny ekosystem outdoorowy. OLagoon wspiera linie produktów SUP, akcesoria wodne i kolekcje sezonowe rosnące wraz ze społecznością.',
           features: [
             'Autorska linia desk SUP',
             'Akcesoria wodne',
@@ -1531,7 +1531,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Rozwój produktów przyjaznych treściom',
           description:
-            'Twórcy potrzebują produktów naturalnie wspierających opowiadanie historii. Afarer pomaga rozwijać produkty odpowiednie do filmów z rozpakowania, treści przygodowych, recenzji produktów i wyzwań społecznościowych generujących organiczne zaangażowanie.',
+            'Twórcy potrzebują produktów naturalnie wspierających opowiadanie historii. OLagoon pomaga rozwijać produkty odpowiednie do filmów z rozpakowania, treści przygodowych, recenzji produktów i wyzwań społecznościowych generujących organiczne zaangażowanie.',
           features: [
             'Projekt doświadczenia rozpakowania',
             'Produkty gotowe na przygody',
@@ -1542,7 +1542,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Kontrola jakości dla reputacji twórcy',
           description:
-            'Zaufanie to najcenniejszy zasób twórcy. Kontrola jakości Afarer obejmuje testy stabilności ciśnienia powietrza, weryfikację trwałości deski, kontrole spójności grafiki i kolorów oraz kompletną inspekcję akcesoriów, by chronić relacje ze społecznością.',
+            'Zaufanie to najcenniejszy zasób twórcy. Kontrola jakości OLagoon obejmuje testy stabilności ciśnienia powietrza, weryfikację trwałości deski, kontrole spójności grafiki i kolorów oraz kompletną inspekcję akcesoriów, by chronić relacje ze społecznością.',
         },
       ],
     },
@@ -1561,7 +1561,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Rozwój prototypu',
           detail:
-            'Afarer stworzył niestandardowy projekt deski z autorską grafiką i próbkami produktu. Twórca przetestował osiągi, wygląd i zebrał opinie odbiorców przed zobowiązaniem się do produkcji.',
+            'OLagoon stworzył niestandardowy projekt deski z autorską grafiką i próbkami produktu. Twórca przetestował osiągi, wygląd i zebrał opinie odbiorców przed zobowiązaniem się do produkcji.',
         },
         {
           title: 'Debiut edycji limitowanej',
@@ -1586,29 +1586,29 @@ const pl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brazylia',
             background:
-              'Carlos Mendes, 34 lata, jest fotografem przyrodniczym publikowanym w National Geographic i operatorem drona z 890 000 obserwujących na Instagramie. Po 7 latach dokumentowania odległych wypraw rzecznych Amazonii zauważył, że jego odbiorcy coraz częściej pytają o pompowane SUP-y, których używał do docierania na miejsca zdjęciowe. Bez doświadczenia wioślarskiego potrzebował Afarer do zaprojektowania niestandardowej deski mogącej służyć zarówno jako platforma kamerowa, jak i sprzęt wyprawowy, przy jednoczesnym wypuszczeniu skomercjalizowanej marki wokół jego serii «Rios do Brasil».',
+              'Carlos Mendes, 34 lata, jest fotografem przyrodniczym publikowanym w National Geographic i operatorem drona z 890 000 obserwujących na Instagramie. Po 7 latach dokumentowania odległych wypraw rzecznych Amazonii zauważył, że jego odbiorcy coraz częściej pytają o pompowane SUP-y, których używał do docierania na miejsca zdjęciowe. Bez doświadczenia wioślarskiego potrzebował OLagoon do zaprojektowania niestandardowej deski mogącej służyć zarówno jako platforma kamerowa, jak i sprzęt wyprawowy, przy jednoczesnym wypuszczeniu skomercjalizowanej marki wokół jego serii «Rios do Brasil».',
             goal: 'Wypuszczenie współbrandowanego autorskiego SUP do maja 2025, obejmującego 5 głównych biomów wodnych Brazylii (Amazonia, Pantanal, São Francisco, Paraná i przybrzeżne Rio), z przedsprzedażą 500 sztuk po 4 990 BRL każda przed produkcją.',
           },
           steps: [
             {
-              title: 'Wyprawa badawczo-rozwojowa po biomach z inżynierami Afarer',
+              title: 'Wyprawa badawczo-rozwojowa po biomach z inżynierami OLagoon',
               detail:
-                'W sierpniu 2024 Afarer wysłał starszego inżyniera morskiego Li Weia i projektanta produktu Henrika Larssona do Manaus na 10 dni. Przepłynęli z Carlosem 180 km Rio Negro, mierząc temperaturę wody (28–32°C), zawartość osadów i typowy ładunek (40 kg sprzętu kamerowego plus 25 kg sprzętu kempingowego). Odkryli, że standardowe deski drop-stitch delaminowały pod połączeniem równikowego indeksu UV 12+ i ścierającego piasku wnikającego podczas przenosin. Carlos nalegał, żeby deska po spuszczeniu powietrza mieściła się w 65-litrowym worku wodoszczelnym na podróże samolotami buszowymi.',
+                'W sierpniu 2024 OLagoon wysłał starszego inżyniera morskiego Li Weia i projektanta produktu Henrika Larssona do Manaus na 10 dni. Przepłynęli z Carlosem 180 km Rio Negro, mierząc temperaturę wody (28–32°C), zawartość osadów i typowy ładunek (40 kg sprzętu kamerowego plus 25 kg sprzętu kempingowego). Odkryli, że standardowe deski drop-stitch delaminowały pod połączeniem równikowego indeksu UV 12+ i ścierającego piasku wnikającego podczas przenosin. Carlos nalegał, żeby deska po spuszczeniu powietrza mieściła się w 65-litrowym worku wodoszczelnym na podróże samolotami buszowymi.',
             },
             {
               title: 'Konstrukcja triple-layer fusion i modułowy system olinowania',
               detail:
-                'Centrum badawczo-rozwojowe Afarer w Xiamen wyprodukowało 7 prototypów między wrześniem a listopadem 2024. Finalny projekt używał sandwicza 3-warstwowego PVC-Dropstitch-PVC z dodatkową powłoką odbijającą UV, testowaną przy 1 200 godzinach przyspieszonej ekspozycji UV. Opatentowany system wzmocnień «Rails-to-Rail» dodał sztywności bocznej bez dodatkowej wagi. Carlos i Afarer wspólnie zaprojektowali modułowy system szyn do montażu kamer przykręcany przez wzmocnione pady — bez przyssawek — przetestowany do utrzymania 28 kg przy prędkości holowania 30 km/h. Każda deska ważyła tylko 11,8 kg, ale utrzymywała ładunek 220 kg.',
+                'Centrum badawczo-rozwojowe OLagoon w Xiamen wyprodukowało 7 prototypów między wrześniem a listopadem 2024. Finalny projekt używał sandwicza 3-warstwowego PVC-Dropstitch-PVC z dodatkową powłoką odbijającą UV, testowaną przy 1 200 godzinach przyspieszonej ekspozycji UV. Opatentowany system wzmocnień «Rails-to-Rail» dodał sztywności bocznej bez dodatkowej wagi. Carlos i OLagoon wspólnie zaprojektowali modułowy system szyn do montażu kamer przykręcany przez wzmocnione pady — bez przyssawek — przetestowany do utrzymania 28 kg przy prędkości holowania 30 km/h. Każda deska ważyła tylko 11,8 kg, ale utrzymywała ładunek 220 kg.',
             },
             {
               title: 'Kampania przeddebiutowa prowadzona treściami i limitowane edycje biomów',
               detail:
-                'Od grudnia 2024 Carlos publikował 5 mini-dokumentów (średnio 4,2 mln wyświetleń każdy) pokazujących testy prototypów w każdym biomie. Afarer postawił dedykowany sklep D2C na Shopify z regionalnymi hubami logistycznymi w Manaus, São Paulo i Brasílii. Wyprodukowano 5 wariantów kolorystycznych specyficznych dla biomów (ciemna woda Rio Negro, zachód słońca Pantanalu, czerwień kanionu São Francisco, zieleń lasu Paraná, złoto Costa Dourada), każdy limitowany do 100 sztuk. Klienci mogli «adoptować» swój biom i otrzymywali śledzone GPS-em donacje na fundusz zalesiania Amazonii Carlosa.',
+                'Od grudnia 2024 Carlos publikował 5 mini-dokumentów (średnio 4,2 mln wyświetleń każdy) pokazujących testy prototypów w każdym biomie. OLagoon postawił dedykowany sklep D2C na Shopify z regionalnymi hubami logistycznymi w Manaus, São Paulo i Brasílii. Wyprodukowano 5 wariantów kolorystycznych specyficznych dla biomów (ciemna woda Rio Negro, zachód słońca Pantanalu, czerwień kanionu São Francisco, zieleń lasu Paraná, złoto Costa Dourada), każdy limitowany do 100 sztuk. Klienci mogli «adoptować» swój biom i otrzymywali śledzone GPS-em donacje na fundusz zalesiania Amazonii Carlosa.',
             },
             {
               title: 'Debiut w kwietniu 2025 i sieć dystrybucji w Brazylii',
               detail:
-                '5 kwietnia 2025 «Rios do Brasil Explorer 12.6» zadebiutował w parku Ibirapuera w São Paulo z udziałem 350 influencerów i mediów. Wszystkie 500 sztuk przedsprzedano w ciągu 11 godzin — 2,495 mln BRL przychodów. Afarer wysłał transportem lotniczym 200 sztuk, żeby uprzedzić porę suchą Amazonii, a 300 popłynęło transportem morskim. Program donacji biomów Carlosa zebrał 187 000 BRL w pierwszym miesiącu. Afarer i Carlos podpisali 3-letnią umowę wyłączności na Amerykę Łacińską z minimum 2 000 sztuk rocznie i drugim modelem («Expedition Tandem») już w rozwoju na 2026 rok.',
+                '5 kwietnia 2025 «Rios do Brasil Explorer 12.6» zadebiutował w parku Ibirapuera w São Paulo z udziałem 350 influencerów i mediów. Wszystkie 500 sztuk przedsprzedano w ciągu 11 godzin — 2,495 mln BRL przychodów. OLagoon wysłał transportem lotniczym 200 sztuk, żeby uprzedzić porę suchą Amazonii, a 300 popłynęło transportem morskim. Program donacji biomów Carlosa zebrał 187 000 BRL w pierwszym miesiącu. OLagoon i Carlos podpisali 3-letnią umowę wyłączności na Amerykę Łacińską z minimum 2 000 sztuk rocznie i drugim modelem («Expedition Tandem») już w rozwoju na 2026 rok.',
             },
           ],
           results: [
@@ -1624,29 +1624,29 @@ const pl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norwegia',
             background:
-              'Tor Haugen, 29 lat, to były biegacz narciarski norweskiej kadry narodowej, później półfinalista CrossFit Games z 620 000 subskrybentów na YouTube i 410 000 obserwujących na TikToku. Jego kanał fitness «Nordic Strength» prezentuje treningi outdoorowe z użyciem niekonwencjonalnego sprzętu. Po wiralowym filmie (8,7 mln wyświetleń), na którym robił burpees na tanim SUP-ie w Oslofjordzie, jego społeczność zażądała deski zbudowanej do treningu wysokiej intensywności. Tor nie miał doświadczenia w projektowaniu produktów i potrzebował Afarer do zaprojektowania stabilnej platformy wytrzymującej skoki, upuszczanie ciężarów i nordyckie ekstremy pogodowe.',
+              'Tor Haugen, 29 lat, to były biegacz narciarski norweskiej kadry narodowej, później półfinalista CrossFit Games z 620 000 subskrybentów na YouTube i 410 000 obserwujących na TikToku. Jego kanał fitness «Nordic Strength» prezentuje treningi outdoorowe z użyciem niekonwencjonalnego sprzętu. Po wiralowym filmie (8,7 mln wyświetleń), na którym robił burpees na tanim SUP-ie w Oslofjordzie, jego społeczność zażądała deski zbudowanej do treningu wysokiej intensywności. Tor nie miał doświadczenia w projektowaniu produktów i potrzebował OLagoon do zaprojektowania stabilnej platformy wytrzymującej skoki, upuszczanie ciężarów i nordyckie ekstremy pogodowe.',
             goal: 'Stworzenie pierwszego «fitness SUP funkcjonalnego» certyfikowanego do treningu w stylu CrossFit, z debiutem w październiku 2024 w cenie 3 990 NOK (370 USD) z przedsprzedażą 1 000 sztuk i symultaniczną trasą po 20 miastach europejskich.',
           },
           steps: [
             {
               title: 'Próby prototypowe na Oslofjordzie z testami tensometrycznymi',
               detail:
-                'Zespół produktowy Afarer pod przewodnictwem inżynier konstrukcyjnej Marty Johansson spędził tydzień w marcu 2024 w marinie Kongshavn w Oslo. Wyposażyli 6 desk konkurencji w 14 tensometrów i akcelerometry, podczas gdy Tor wykonywał burpees (tempo 120 uderzeń/min), przytrzymania sztangi nad głową (60 kg) i box jumpy (skrzynia 50 cm). Wyniki pokazały, że standardowe deski SUP doświadczają 3,7-krotności obciążenia dynamicznego wobec rekreacyjnego wiosłowania. Ugięcie pokładu przekraczało 22 mm — niebezpieczne dla stabilności stawu skokowego. Zespół Marty oszacował, że potrzebują o 200% sztywniejszego skrzydła skrętnego z unikalną platformą stojącą typu «drop-through».',
+                'Zespół produktowy OLagoon pod przewodnictwem inżynier konstrukcyjnej Marty Johansson spędził tydzień w marcu 2024 w marinie Kongshavn w Oslo. Wyposażyli 6 desk konkurencji w 14 tensometrów i akcelerometry, podczas gdy Tor wykonywał burpees (tempo 120 uderzeń/min), przytrzymania sztangi nad głową (60 kg) i box jumpy (skrzynia 50 cm). Wyniki pokazały, że standardowe deski SUP doświadczają 3,7-krotności obciążenia dynamicznego wobec rekreacyjnego wiosłowania. Ugięcie pokładu przekraczało 22 mm — niebezpieczne dla stabilności stawu skokowego. Zespół Marty oszacował, że potrzebują o 200% sztywniejszego skrzydła skrętnego z unikalną platformą stojącą typu «drop-through».',
             },
             {
               title: 'Platforma z syntetycznym stringerem i technologia antypoślizgowego pokładu',
               detail:
-                'Przez 4 miesiące Afarer zbudował 9 prototypów o rosnącej sztywności. Przełom przyszedł z 2,5-mm morskim stringerem aluminiowym osadzonym między dwiema warstwami drop-stitch, dającym deskę z ugięciem 0,8 mm przy dynamicznym obciążeniu 100 kg. Pokład używał pianki EVA zamkniętokomórkowej z 6-mm wypukłym wzorem diamentowym — Tor testował ją na mokro, w soli i w błocie, stwierdzając, że przyczepność przewyższała taśmę grip skateboardową. Afarer dodał mocowania D-ring w 22 punktach wokół obwodu deski na gumy oporowe i obciążniki. Każda deska miała wpinany punkt kotwiczenia leash bezpieczeństwa o nośności statycznej 500 kg.',
+                'Przez 4 miesiące OLagoon zbudował 9 prototypów o rosnącej sztywności. Przełom przyszedł z 2,5-mm morskim stringerem aluminiowym osadzonym między dwiema warstwami drop-stitch, dającym deskę z ugięciem 0,8 mm przy dynamicznym obciążeniu 100 kg. Pokład używał pianki EVA zamkniętokomórkowej z 6-mm wypukłym wzorem diamentowym — Tor testował ją na mokro, w soli i w błocie, stwierdzając, że przyczepność przewyższała taśmę grip skateboardową. OLagoon dodał mocowania D-ring w 22 punktach wokół obwodu deski na gumy oporowe i obciążniki. Każda deska miała wpinany punkt kotwiczenia leash bezpieczeństwa o nośności statycznej 500 kg.',
             },
             {
               title: 'Współbranding Nordic Strength i proces certyfikacji',
               detail:
-                'Tor i Afarer stworzyli branding «Nordic Strength Trainer 11.0» z autorską niebiesko-białą kolorystyką Tora pasującą do oprawy jego kanału. Afarer przeprowadził Tora przez unijną certyfikację CE na sprzęt fitness (osobny proces względem standardowej certyfikacji SUP), wymagającą 200 godzin testów zmęczenia mechanicznego. Opakowanie zawierało kody QR prowadzące do 12-tygodniowego programu treningowego «Fjord Fitness» Tora, nakręconego we współpracy z norweską kliniką medycyny sportowej. Afarer uruchomił europejskie centrum dystrybucyjne w Rotterdamie obsługujące 20 krajów.',
+                'Tor i OLagoon stworzyli branding «Nordic Strength Trainer 11.0» z autorską niebiesko-białą kolorystyką Tora pasującą do oprawy jego kanału. OLagoon przeprowadził Tora przez unijną certyfikację CE na sprzęt fitness (osobny proces względem standardowej certyfikacji SUP), wymagającą 200 godzin testów zmęczenia mechanicznego. Opakowanie zawierało kody QR prowadzące do 12-tygodniowego programu treningowego «Fjord Fitness» Tora, nakręconego we współpracy z norweską kliniką medycyny sportowej. OLagoon uruchomił europejskie centrum dystrybucyjne w Rotterdamie obsługujące 20 krajów.',
             },
             {
               title: 'Debiut w październiku 2024 w 20 miastach europejskich',
               detail:
-                'Trasa «Fjord to Peak» Tora wystartowała 12 października 2024 w kąpielisku Sørenga w Oslo z 1 200 uczestnikami robiącymi grupowy trening SUP. W ciągu 5 tygodni Tor odwiedził Kopenhagę, Hamburg, Amsterdam, Berlin, Warszawę, Pragę, Monachium, Zurych, Mediolan, Barcelonę, Madryt, Paryż, Londyn, Dublin, Edynburg, Sztokholm, Helsinki, Tallinn i Rygę. Każde wydarzenie łączyło 45-minutowe zajęcia fitness SUP i spotkanie z fanami. Wszystkie 1 000 sztuk debiutowych sprzedano w przedsprzedaży przed pierwszym wydarzeniem; Afarer błyskawicznie dosłał transportem lotniczym 500 dodatkowych sztuk w trakcie trasy. Całkowita sprzedaż w 2024 osiągnęła 2 300 sztuk w 18 krajach europejskich.',
+                'Trasa «Fjord to Peak» Tora wystartowała 12 października 2024 w kąpielisku Sørenga w Oslo z 1 200 uczestnikami robiącymi grupowy trening SUP. W ciągu 5 tygodni Tor odwiedził Kopenhagę, Hamburg, Amsterdam, Berlin, Warszawę, Pragę, Monachium, Zurych, Mediolan, Barcelonę, Madryt, Paryż, Londyn, Dublin, Edynburg, Sztokholm, Helsinki, Tallinn i Rygę. Każde wydarzenie łączyło 45-minutowe zajęcia fitness SUP i spotkanie z fanami. Wszystkie 1 000 sztuk debiutowych sprzedano w przedsprzedaży przed pierwszym wydarzeniem; OLagoon błyskawicznie dosłał transportem lotniczym 500 dodatkowych sztuk w trakcie trasy. Całkowita sprzedaż w 2024 osiągnęła 2 300 sztuk w 18 krajach europejskich.',
             },
           ],
           results: [
@@ -1658,8 +1658,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego twórcy wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego twórcy wybierają OLagoon',
       items: [
         {
           title: 'Ekspertyza produktowa',
@@ -1687,38 +1687,38 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jaka jest minimalna wielkość zamówienia na produkty SUP z marką twórcy?',
         answer:
-          'Afarer wspiera produkcję przy niskich MOQ od 100–300 sztuk na etapach debiutu twórcy, pozwalając zwalidować popyt bez ogromnej inwestycji w zapasy. Wraz ze wzrostem marki możemy skalować produkcję do 500–2000 sztuk i więcej.',
+          'OLagoon wspiera produkcję przy niskich MOQ od 100–300 sztuk na etapach debiutu twórcy, pozwalając zwalidować popyt bez ogromnej inwestycji w zapasy. Wraz ze wzrostem marki możemy skalować produkcję do 500–2000 sztuk i więcej.',
       },
       {
-        question: 'Czy Afarer może pomóc w projekcie i prototypowaniu mojej niestandardowej deski SUP?',
+        question: 'Czy OLagoon może pomóc w projekcie i prototypowaniu mojej niestandardowej deski SUP?',
         answer:
-          'Tak, Afarer zapewnia pełny rozwój koncepcji produktu, tworzenie prototypów, testy kolorów i grafiki oraz regulację konfiguracji. Blisko współpracujemy z twórcami, by ożywić ich wizję niestandardowymi projektami desk, autorską grafiką i próbkami produktu.',
+          'Tak, OLagoon zapewnia pełny rozwój koncepcji produktu, tworzenie prototypów, testy kolorów i grafiki oraz regulację konfiguracji. Blisko współpracujemy z twórcami, by ożywić ich wizję niestandardowymi projektami desk, autorską grafiką i próbkami produktu.',
       },
       {
         question: 'Jak długo trwa opracowanie prototypu i start produkcji?',
         answer:
-          'Afarer stawia szybkość na pierwszym miejscu w projektach twórców. Rozwój prototypu zajmuje typowo kilka tygodni, a terminy produkcji są elastyczne, by dopasować się do harmonogramów kampanii, sezonowego timingu i rozpędu odbiorców.',
+          'OLagoon stawia szybkość na pierwszym miejscu w projektach twórców. Rozwój prototypu zajmuje typowo kilka tygodni, a terminy produkcji są elastyczne, by dopasować się do harmonogramów kampanii, sezonowego timingu i rozpędu odbiorców.',
       },
       {
         question: 'Czy możecie wspierać kampanie Kickstartera produkcją i realizacją?',
         answer:
-          'Tak, Afarer wspiera przygotowanie prototypów przed debiutem, planowanie produkcji kampanii, opracowanie szacunkowych terminów i realizację partii po kampanii, w tym przygotowanie opakowań i wysyłki.',
+          'Tak, OLagoon wspiera przygotowanie prototypów przed debiutem, planowanie produkcji kampanii, opracowanie szacunkowych terminów i realizację partii po kampanii, w tym przygotowanie opakowań i wysyłki.',
       },
       {
         question: 'Jakie opcje personalizacji są dostępne dla limitowanych edycji desk SUP?',
         answer:
-          'Afarer oferuje niestandardową grafikę, autorską sztukę, logo twórcy, symbole społeczności, unikalne wzory, specjalne edycje kolorystyczne, limitowaną numerację i premium opakowania z markowymi pudełkami i materiałami historyjnymi.',
+          'OLagoon oferuje niestandardową grafikę, autorską sztukę, logo twórcy, symbole społeczności, unikalne wzory, specjalne edycje kolorystyczne, limitowaną numerację i premium opakowania z markowymi pudełkami i materiałami historyjnymi.',
       },
       {
-        question: 'Jak Afarer zapewnia kontrolę jakości dla produktów z marką twórcy?',
+        question: 'Jak OLagoon zapewnia kontrolę jakości dla produktów z marką twórcy?',
         answer:
-          'Afarer przeprowadza testy stabilności ciśnienia powietrza, weryfikację trwałości deski, inspekcję jakości materiałów, kontrole spójności grafiki i kolorów, przegląd jakości opakowań i kompletną inspekcję akcesoriów, by chronić zaufanie Twojej społeczności.',
+          'OLagoon przeprowadza testy stabilności ciśnienia powietrza, weryfikację trwałości deski, inspekcję jakości materiałów, kontrole spójności grafiki i kolorów, przegląd jakości opakowań i kompletną inspekcję akcesoriów, by chronić zaufanie Twojej społeczności.',
       },
     ],
     cta: {
-      title: 'Zbuduj swoją markę SUP Creator Edition z Afarer',
+      title: 'Zbuduj swoją markę SUP Creator Edition z OLagoon',
       subtitle:
-        'Twoja społeczność już podąża za Twoją podróżą. Teraz stwórz coś, co mogą przeżyć. Afarer pomaga twórcom wypuszczać niestandardowe produkty SUP, limitowane edycje desk i outdoorowy sprzęt private label.',
+        'Twoja społeczność już podąża za Twoją podróżą. Teraz stwórz coś, co mogą przeżyć. OLagoon pomaga twórcom wypuszczać niestandardowe produkty SUP, limitowane edycje desk i outdoorowy sprzęt private label.',
       primaryAction: {
         text: 'Rozpocznij swój projekt SUP już dziś',
       },
@@ -1732,7 +1732,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Dostawca sprzętu sportów wodnych dla destynacji | {SITE}',
       description:
-        'Afarer zapewnia rozwiązania sportów wodnych dla destynacji — organizacjom turystycznym, parkom publicznym i projektom nabrzeżnym. Komercyjne floty SUP, ekologiczny sprzęt, wsparcie projektów rządowych i dostawy OEM na wielką skalę.',
+        'OLagoon zapewnia rozwiązania sportów wodnych dla destynacji — organizacjom turystycznym, parkom publicznym i projektom nabrzeżnym. Komercyjne floty SUP, ekologiczny sprzęt, wsparcie projektów rządowych i dostawy OEM na wielką skalę.',
     },
     hero: {
       tagline:
@@ -1826,7 +1826,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Planowanie destynacji',
           detail:
-            'Afarer zaprojektował kompletny system aktywności wodnych obejmujący planowanie ilości floty, strefy aktywności i konfigurację sprzętu.',
+            'OLagoon zaprojektował kompletny system aktywności wodnych obejmujący planowanie ilości floty, strefy aktywności i konfigurację sprzętu.',
         },
         {
           title: 'Dostawa sprzętu komercyjnego',
@@ -1864,17 +1864,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Specyfikacja cichej floty i wymogi materiałów biodegradowalnych',
               detail:
-                'We wrześniu 2024 Kovacic wydała zapytanie RFP wymagające (1) zerowej liczby tworzyw jednorazowego użytku w konstrukcji desk, (2) pełnej recyklowalności na końcu życia i (3) certyfikacji cichej eksploatacji poniżej 25 dB z odległości 5 m. Afarer wygrał z modelem EcoTouring 12\'6" X, zbudowanym z bio-surowcowej przędzy drop stitch (polimer na bazie oleju rycynowego, 42% zawartości odnawialnej) i naturalnymi padami korkowymi (portugalski korek certyfikowany FSC). Każda deska miała uszczelnioną bambusową belkę usztywniającą dla sztywności bez komponentów petrochemicznych. LBTB zamówił 200 desk (łącznie 246 tys. EUR) plus 12 elektrycznych stacji pompowania zasilanych nadbrzeżnymi kioskami solarnymi.',
+                'We wrześniu 2024 Kovacic wydała zapytanie RFP wymagające (1) zerowej liczby tworzyw jednorazowego użytku w konstrukcji desk, (2) pełnej recyklowalności na końcu życia i (3) certyfikacji cichej eksploatacji poniżej 25 dB z odległości 5 m. OLagoon wygrał z modelem EcoTouring 12\'6" X, zbudowanym z bio-surowcowej przędzy drop stitch (polimer na bazie oleju rycynowego, 42% zawartości odnawialnej) i naturalnymi padami korkowymi (portugalski korek certyfikowany FSC). Każda deska miała uszczelnioną bambusową belkę usztywniającą dla sztywności bez komponentów petrochemicznych. LBTB zamówił 200 desk (łącznie 246 tys. EUR) plus 12 elektrycznych stacji pompowania zasilanych nadbrzeżnymi kioskami solarnymi.',
             },
             {
               title: 'Krok 2: 6-kilometrowa ekotrasa z nawigacją GPS i 12 punktami interpretacyjnymi',
               detail:
-                'Przez zimę 2024/2025 LBTB zmapował 6,2 km trasę obwodową z 12 interpretacyjnymi punktami przystankowymi (geotermalne źródło przy zamku Bled, mechanizm dzwonienia kościoła św. Marii, strefy sedymentacji wyspy). Afarer zintegrował wodoodporną jednostkę audioprzewodnika z GPS (odporny tablet IP68 w uchwycie montowanym na desce) dostarczającą 90-sekundowe narracyjne segmenty w każdym punkcie w 7 językach. Trasa została zaprojektowana tak, by omijać wrażliwe obszary gniazdowania ptaków (stanowiska perkoza dwoczubego, zamknięte od listopada do marca). LBTB zainstalował 12 boi z bambusowymi markerami za 18 tys. EUR, zastępując 32 istniejące boje łodzi motorowych.',
+                'Przez zimę 2024/2025 LBTB zmapował 6,2 km trasę obwodową z 12 interpretacyjnymi punktami przystankowymi (geotermalne źródło przy zamku Bled, mechanizm dzwonienia kościoła św. Marii, strefy sedymentacji wyspy). OLagoon zintegrował wodoodporną jednostkę audioprzewodnika z GPS (odporny tablet IP68 w uchwycie montowanym na desce) dostarczającą 90-sekundowe narracyjne segmenty w każdym punkcie w 7 językach. Trasa została zaprojektowana tak, by omijać wrażliwe obszary gniazdowania ptaków (stanowiska perkoza dwoczubego, zamknięte od listopada do marca). LBTB zainstalował 12 boi z bambusowymi markerami za 18 tys. EUR, zastępując 32 istniejące boje łodzi motorowych.',
             },
             {
               title: 'Krok 3: Program przejściowy dla operatorów rentalowych i certyfikacja',
               detail:
-                'W sezonie niskim, od stycznia do marca 2025, LBTB prowadził obowiązkowy program przejściowy dla wszystkich 14 licencjonowanych operatorów wynajmu łodzi. Afarer zapewnił 4-dniową certyfikację przewodnictwa SUP dla 36 operatorów i pracowników, obejmującą znajomość trasy, reagowanie awaryjne i przekaz interpretacji środowiskowej. LBTB zaoferował dotację 4 000 EUR na operatora za przejście z łodzi motorowych na wynajem SUP, sfinansowaną grantem Green Transition słoweńskiego Ministerstwa Turystyki (łącznie 280 tys. EUR). Do 1 kwietnia 11 z 14 operatorów przeszło w pełni; pozostali 3 zobowiązali się do operacji hybrydowych z harmonogramem wygaszania do 2026 roku.',
+                'W sezonie niskim, od stycznia do marca 2025, LBTB prowadził obowiązkowy program przejściowy dla wszystkich 14 licencjonowanych operatorów wynajmu łodzi. OLagoon zapewnił 4-dniową certyfikację przewodnictwa SUP dla 36 operatorów i pracowników, obejmującą znajomość trasy, reagowanie awaryjne i przekaz interpretacji środowiskowej. LBTB zaoferował dotację 4 000 EUR na operatora za przejście z łodzi motorowych na wynajem SUP, sfinansowaną grantem Green Transition słoweńskiego Ministerstwa Turystyki (łącznie 280 tys. EUR). Do 1 kwietnia 11 z 14 operatorów przeszło w pełni; pozostali 3 zobowiązali się do operacji hybrydowych z harmonogramem wygaszania do 2026 roku.',
             },
             {
               title: 'Krok 4: Premiera w Dzień Ziemi, wyniki sezonu i zgodność z UNESCO',
@@ -1902,17 +1902,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Mapowanie tras, ocena ryzyka i zgodność ze strefowaniem morskim',
               detail:
-                "Od listopada 2024 do lutego 2025 zespół Delacroix współpracował ze specjalistami ds. tras Afarer i Francuskim Urzędem ds. Bioróżnorodności (OFB) nad przeglądem i klasyfikacją 50 km wybrzeża. Zidentyfikowano 5 tras — (1) Cap d'Antibes do Baie des Milliardaires (4,2 km, średniozaawansowana), (2) opłynięcie Ile Sainte-Marguerite (7,1 km, zaawansowana), (3) Calanque de Maubois (2,8 km, dla początkujących), (4) rezerwat morski Villefranche-sur-Mer (3,5 km, wyłącznie z przewodnikiem) i (5) wiosłowanie o zachodzie słońca z Menton do Cap Martin (5,5 km, średniozaawansowana). Każda trasa została zmapowana GPS z 12–15 punktami trasy, w tym obowiązkowymi przystankami w zatwierdzonych wcześniej prywatnych klubach plażowych płacących roczną opłatę partnerską 2 500 EUR.",
+                "Od listopada 2024 do lutego 2025 zespół Delacroix współpracował ze specjalistami ds. tras OLagoon i Francuskim Urzędem ds. Bioróżnorodności (OFB) nad przeglądem i klasyfikacją 50 km wybrzeża. Zidentyfikowano 5 tras — (1) Cap d'Antibes do Baie des Milliardaires (4,2 km, średniozaawansowana), (2) opłynięcie Ile Sainte-Marguerite (7,1 km, zaawansowana), (3) Calanque de Maubois (2,8 km, dla początkujących), (4) rezerwat morski Villefranche-sur-Mer (3,5 km, wyłącznie z przewodnikiem) i (5) wiosłowanie o zachodzie słońca z Menton do Cap Martin (5,5 km, średniozaawansowana). Każda trasa została zmapowana GPS z 12–15 punktami trasy, w tym obowiązkowymi przystankami w zatwierdzonych wcześniej prywatnych klubach plażowych płacących roczną opłatę partnerską 2 500 EUR.",
             },
             {
               title: 'Krok 2: Specyfikacje premium floty i integracja z concierge hotelowym',
               detail:
-                'FRTCB zamówił 350 desk Afarer Explorer 11\'6" X w niestandardowej palecie «Mediterranean Breeze» (terakota, oliwka, krem) ze zintegrowanym mocowaniem GoPro, rowkiem na wodoodporne etui na telefon i uchwytem na butelkę szampana (niestandardowa kieszeń siatkowa na uchwycie D przed padem deckowym). Każda deska miała 4-częściowe wiosło z włókna węglowego pasujące do zestawu podróżnego w walizce Peli. Zespół programistyczny Afarer zbudował mobilną aplikację webową pod marką zamawiającego, pozwalającą concierge hotelowym rezerwować deski, sprawdzać warunki na trasach w czasie rzeczywistym przez 6 połączonych boi pogodowych i wyzwalać alarmy awaryjne. Całkowite zamówienie wyniosło 429 tys. EUR.',
+                'FRTCB zamówił 350 desk OLagoon Explorer 11\'6" X w niestandardowej palecie «Mediterranean Breeze» (terakota, oliwka, krem) ze zintegrowanym mocowaniem GoPro, rowkiem na wodoodporne etui na telefon i uchwytem na butelkę szampana (niestandardowa kieszeń siatkowa na uchwycie D przed padem deckowym). Każda deska miała 4-częściowe wiosło z włókna węglowego pasujące do zestawu podróżnego w walizce Peli. Zespół programistyczny OLagoon zbudował mobilną aplikację webową pod marką zamawiającego, pozwalającą concierge hotelowym rezerwować deski, sprawdzać warunki na trasach w czasie rzeczywistym przez 6 połączonych boi pogodowych i wyzwalać alarmy awaryjne. Całkowite zamówienie wyniosło 429 tys. EUR.',
             },
             {
               title: 'Krok 3: Certyfikacja przewodników, protokół bezpieczeństwa i sieć partnerskich klubów plażowych',
               detail:
-                'W marcu 2025 Afarer przeprowadził 5 regionalnych sesji szkoleniowych w Klubie Jachtowym w Nicei, certyfikując 62 przewodników (23 pracowników aktywności hotelowych, 39 niezależnych operatorów sportów wodnych). Certyfikacja obejmowała treści specyficzne dla FRTCB — rozpoznawanie śródziemnomorskich wzorców wiatrowych (procedury na Mistral i Libeccio), pierwszą pomoc przy użądleniach meduz i standardy komunikacji z luksusowymi gośćmi. Delacroix ustanowił protokół bezpieczeństwa wymagający obowiązkowych kamizelek ratunkowych dla wszystkich gości (kamizelki RFD NRS Orion z gwizdkiem i nożem), komunikacji deska-do-deski wodoodpornymi radiami VHF i maksymalnej wielkości grupy 12 gości na 2 przewodników.',
+                'W marcu 2025 OLagoon przeprowadził 5 regionalnych sesji szkoleniowych w Klubie Jachtowym w Nicei, certyfikując 62 przewodników (23 pracowników aktywności hotelowych, 39 niezależnych operatorów sportów wodnych). Certyfikacja obejmowała treści specyficzne dla FRTCB — rozpoznawanie śródziemnomorskich wzorców wiatrowych (procedury na Mistral i Libeccio), pierwszą pomoc przy użądleniach meduz i standardy komunikacji z luksusowymi gośćmi. Delacroix ustanowił protokół bezpieczeństwa wymagający obowiązkowych kamizelek ratunkowych dla wszystkich gości (kamizelki RFD NRS Orion z gwizdkiem i nożem), komunikacji deska-do-deski wodoodpornymi radiami VHF i maksymalnej wielkości grupy 12 gości na 2 przewodników.',
             },
             {
               title: 'Krok 4: Premiera podczas Festiwalu Filmowego w Cannes i przyspieszony wzrost sezonu',
@@ -1929,13 +1929,13 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego projekty turystyczne wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego projekty turystyczne wybierają OLagoon',
       items: [
         {
           title: 'Bezpieczeństwo',
           description:
-            'Zaprojektowane dla każdego. Afarer zapewnia, że sprzęt spełnia najwyższe standardy bezpieczeństwa dla różnorodnych użytkowników publicznych.',
+            'Zaprojektowane dla każdego. OLagoon zapewnia, że sprzęt spełnia najwyższe standardy bezpieczeństwa dla różnorodnych użytkowników publicznych.',
         },
         {
           title: 'Zrównoważony rozwój',
@@ -1958,7 +1958,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jakie certyfikaty bezpieczeństwa są istotne dla sprzętu publicznej floty SUP?',
         answer:
-          'Afarer zapewnia specyfikacje produktów, informacje o wydajności i dokumentację zgodności odpowiednią dla zamówień rządowych. Wspieramy projekty publiczne informacjami materiałowymi i certyfikatami jakości wymaganymi w procesach przetargowych.',
+          'OLagoon zapewnia specyfikacje produktów, informacje o wydajności i dokumentację zgodności odpowiednią dla zamówień rządowych. Wspieramy projekty publiczne informacjami materiałowymi i certyfikatami jakości wymaganymi w procesach przetargowych.',
       },
       {
         question: 'Ile desk SUP potrzeba dla publicznego programu rekreacji wodnej?',
@@ -1968,28 +1968,28 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy deski SUP można spersonalizować brandingiem miasta lub destynacji?',
         answer:
-          'Tak, Afarer wspiera personalizację brandingu destynacji, w tym logo miast, grafiki tożsamości turystycznej, lokalne elementy designu i grafiki tematyczne. Pomaga to stworzyć charakterystyczne doświadczenie wodne wzmacniające tożsamość destynacji.',
+          'Tak, OLagoon wspiera personalizację brandingu destynacji, w tym logo miast, grafiki tożsamości turystycznej, lokalne elementy designu i grafiki tematyczne. Pomaga to stworzyć charakterystyczne doświadczenie wodne wzmacniające tożsamość destynacji.',
       },
       {
-        question: 'Jakie ekologiczne funkcje oferują deski SUP Afarer?',
+        question: 'Jakie ekologiczne funkcje oferują deski SUP OLagoon?',
         answer:
-          'Afarer stawia na trwałe materiały wydłużające żywot produktów i redukujące częstotliwość wymian, obniżając zużycie zasobów i ilość odpadów. Zapewniamy też dokumentację środowiskową i informacje o zgodności wspierające inicjatywy zrównoważonej turystyki.',
+          'OLagoon stawia na trwałe materiały wydłużające żywot produktów i redukujące częstotliwość wymian, obniżając zużycie zasobów i ilość odpadów. Zapewniamy też dokumentację środowiskową i informacje o zgodności wspierające inicjatywy zrównoważonej turystyki.',
       },
       {
-        question: 'Jak Afarer wspiera zamówienia rządowe i procesy przetargowe?',
+        question: 'Jak OLagoon wspiera zamówienia rządowe i procesy przetargowe?',
         answer:
-          'Afarer zapewnia kompleksowe wsparcie, w tym przygotowanie specyfikacji technicznej, dokumentację wydajności produktów, opcje konfiguracji, pomoc w propozycjach projektowych, rekomendacje floty, harmonogramy wdrożenia i koordynację dużych zamówień dla produkcji i dostawy.',
+          'OLagoon zapewnia kompleksowe wsparcie, w tym przygotowanie specyfikacji technicznej, dokumentację wydajności produktów, opcje konfiguracji, pomoc w propozycjach projektowych, rekomendacje floty, harmonogramy wdrożenia i koordynację dużych zamówień dla produkcji i dostawy.',
       },
       {
         question: 'Jaka konserwacja jest wymagana dla publicznych flot SUP w warunkach miejskich?',
         answer:
-          'Afarer zapewnia kompletne wsparcie operacyjne, w tym wskazówki konserwacji, procesy inspekcji, procedury wymiany komponentów, dostępność części zamiennych i planowanie zarządzania flotą. Zapewnia to długoterminową niezawodność programów rekreacji publicznej.',
+          'OLagoon zapewnia kompletne wsparcie operacyjne, w tym wskazówki konserwacji, procesy inspekcji, procedury wymiany komponentów, dostępność części zamiennych i planowanie zarządzania flotą. Zapewnia to długoterminową niezawodność programów rekreacji publicznej.',
       },
     ],
     cta: {
-      title: 'Stwórz swoje doświadczenie wodne destynacji z Afarerem',
+      title: 'Stwórz swoje doświadczenie wodne destynacji z OLagoonem',
       subtitle:
-        'Twoje zasoby wodne mają potencjał turystyczny. Afarer pomaga przekształcać jeziora, rzeki, nabrzeża i parki publiczne w niezapomniane destynacje outdoorowe.',
+        'Twoje zasoby wodne mają potencjał turystyczny. OLagoon pomaga przekształcać jeziora, rzeki, nabrzeża i parki publiczne w niezapomniane destynacje outdoorowe.',
       primaryAction: {
         text: 'Rozpocznij swój projekt',
       },
@@ -2009,9 +2009,9 @@ const pl: Record<string, SolutionOverride> = {
       tagline: 'Trwałe rozwiązanie dla floty wypożyczalni™',
       title: 'Komercyjne rozwiązania sprzętowe SUP dla biznesów wypożyczalni, plaż i destynacji turystycznych',
       subtitle:
-        'Afarer zapewnia rozwiązania Durable Rental Fleet zaprojektowane specjalnie dla komercyjnych biznesów wypożyczalni. Pomagamy firmom wypożyczalni plażowych, operatorom aktywności jeziornych, centrum wodnym resortów i biznesom turystyki przygodowej budować dochodowe floty SUP z trwałą konstrukcją i łatwą konserwacją.',
+        'OLagoon zapewnia rozwiązania Durable Rental Fleet zaprojektowane specjalnie dla komercyjnych biznesów wypożyczalni. Pomagamy firmom wypożyczalni plażowych, operatorom aktywności jeziornych, centrum wodnym resortów i biznesom turystyki przygodowej budować dochodowe floty SUP z trwałą konstrukcją i łatwą konserwacją.',
       image: {
-        alt: 'Trwała flota wypożyczalni SUP Afarer dla plażowych operatorów sportów wodnych',
+        alt: 'Trwała flota wypożyczalni SUP OLagoon dla plażowych operatorów sportów wodnych',
       },
     },
     challenge: {
@@ -2045,7 +2045,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Konstrukcja pompanych SUP klasy wypożyczalni',
           description:
-            'Produkty wypożyczalni SUP Afarer stawiają na praktyczną trwałość z materiałem PVC odpornym na ścieranie, wzmocnioną konstrukcją burt na częste uderzenia, trwałą strukturą drop stitch dla stabilnych osiągów i systemami zaworów o wysokiej trwałości zaprojektowanymi do codziennej operacji.',
+            'Produkty wypożyczalni SUP OLagoon stawiają na praktyczną trwałość z materiałem PVC odpornym na ścieranie, wzmocnioną konstrukcją burt na częste uderzenia, trwałą strukturą drop stitch dla stabilnych osiągów i systemami zaworów o wysokiej trwałości zaprojektowanymi do codziennej operacji.',
           features: [
             'Materiał PVC odporny na ścieranie',
             'Wzmocniona konstrukcja burt',
@@ -2056,7 +2056,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Projekt wypożyczalnych SUP zoptymalizowany pod koszty',
           description:
-            'Klienci wypożyczalni nie potrzebują osiągów na poziomie zawodowym. Potrzebują stabilności, bezpieczeństwa, łatwej obsługi i niezawodności. Afarer konfiguruje produkty ze stabilnymi kształtami uniwersalnymi, zstandaryzowanymi akcesoriami i praktycznym opakowaniem dla szybszego zarządzania sprzętem.',
+            'Klienci wypożyczalni nie potrzebują osiągów na poziomie zawodowym. Potrzebują stabilności, bezpieczeństwa, łatwej obsługi i niezawodności. OLagoon konfiguruje produkty ze stabilnymi kształtami uniwersalnymi, zstandaryzowanymi akcesoriami i praktycznym opakowaniem dla szybszego zarządzania sprzętem.',
           features: [
             'Stabilny kształt uniwersalny dla początkujących',
             'Zstandaryzowane akcesoria',
@@ -2067,17 +2067,17 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Kompletny pakiet floty wypożyczalni',
           description:
-            'Afarer tworzy gotowe do użytku pakiety wypożyczalni obejmujące trwałe pompowane deski SUP, regulowane wiosła, pompki, leash, plecaki transportowe i zestawy naprawcze, z komercyjnymi opcjami dodatkowymi jak zapasowe płetwy, dodatkowe wiosła, zawory wymienne i rozwiązania przechowywania.',
+            'OLagoon tworzy gotowe do użytku pakiety wypożyczalni obejmujące trwałe pompowane deski SUP, regulowane wiosła, pompki, leash, plecaki transportowe i zestawy naprawcze, z komercyjnymi opcjami dodatkowymi jak zapasowe płetwy, dodatkowe wiosła, zawory wymienne i rozwiązania przechowywania.',
         },
         {
           title: 'Hurtowe rozwiązania zakupu flot',
           description:
-            'Afarer wspiera operatorów kupujących floty 50, 100, 300 lub ponad 500 desk z wsparciem rozbudowy flot od małych operacji wypożyczalni po biznesy wielolokalizacyjne, zapewniając spójną jakość sprzętu i lepszą efektywność zakupów.',
+            'OLagoon wspiera operatorów kupujących floty 50, 100, 300 lub ponad 500 desk z wsparciem rozbudowy flot od małych operacji wypożyczalni po biznesy wielolokalizacyjne, zapewniając spójną jakość sprzętu i lepszą efektywność zakupów.',
         },
         {
           title: 'Łatwy system konserwacji i napraw',
           description:
-            'Biznesy wypożyczalni nie mogą sobie pozwolić na długie przestoje sprzętu. Afarer zapewnia projekt produktu przyjazny naprawom z wymiennymi komponentami, wskazówki konserwacyjne dotyczące czyszczenia i przechowywania oraz wsparcie napraw awaryjnych z zestawami i poradnictwem rozwiązywania problemów.',
+            'Biznesy wypożyczalni nie mogą sobie pozwolić na długie przestoje sprzętu. OLagoon zapewnia projekt produktu przyjazny naprawom z wymiennymi komponentami, wskazówki konserwacyjne dotyczące czyszczenia i przechowywania oraz wsparcie napraw awaryjnych z zestawami i poradnictwem rozwiązywania problemów.',
           features: [
             'Wymienne komponenty',
             'Standardowe akcesoria',
@@ -2088,23 +2088,23 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Optymalizacja sezonowego biznesu wypożyczalni',
           description:
-            'Wiele biznesów wypożyczalni działa sezonowo. Afarer pomaga planować inwentarz pod popyt z odpowiednimi produktami na letnie operacje plażowe, rodzinne pakiety SUP, aktywności resortowe i turystykę przygodową z modelami touringowymi.',
+            'Wiele biznesów wypożyczalni działa sezonowo. OLagoon pomaga planować inwentarz pod popyt z odpowiednimi produktami na letnie operacje plażowe, rodzinne pakiety SUP, aktywności resortowe i turystykę przygodową z modelami touringowymi.',
         },
         {
           title: 'Niestandardowy branding dla operatorów wypożyczalni',
           description:
-            'Sprzęt wypożyczalni jest widoczny dla setek klientów. Afarer wspiera branding logo, personalizację kolorów dopasowaną do atmosfery plażowej lub stylu resortu oraz identyfikację floty z numeracją desk i etykietami modeli, które zamieniają sprzęt w narzędzie marketingowe.',
+            'Sprzęt wypożyczalni jest widoczny dla setek klientów. OLagoon wspiera branding logo, personalizację kolorów dopasowaną do atmosfery plażowej lub stylu resortu oraz identyfikację floty z numeracją desk i etykietami modeli, które zamieniają sprzęt w narzędzie marketingowe.',
           features: ['Branding logo', 'Personalizacja kolorów', 'Numeracja desk', 'Etykiety modeli i operacji'],
         },
         {
           title: 'Wsparcie dla destynacji turystycznych i resortów',
           description:
-            'Wiele biznesów turystycznych używa SUP jako produktu doświadczeniowego. Afarer wspiera hotele, resorty, kempingi i parki przygodowe planowaniem flot, personalizacją produktów i produkcją partii dla kompletnych doświadczeń aktywności wodnych.',
+            'Wiele biznesów turystycznych używa SUP jako produktu doświadczeniowego. OLagoon wspiera hotele, resorty, kempingi i parki przygodowe planowaniem flot, personalizacją produktów i produkcją partii dla kompletnych doświadczeń aktywności wodnych.',
         },
         {
           title: 'Popraw ROI biznesu wypożyczalni',
           description:
-            'Afarer pomaga operatorom poprawiać rentowność dzięki dłuższej żywotności produktu redukującej częstotliwość wymian, niższym kosztom konserwacji skracającym czas napraw i wyższej dostępności zwiększającej dzienną zdolność wypożyczalni i satysfakcję klientów.',
+            'OLagoon pomaga operatorom poprawiać rentowność dzięki dłuższej żywotności produktu redukującej częstotliwość wymian, niższym kosztom konserwacji skracającym czas napraw i wyższej dostępności zwiększającej dzienną zdolność wypożyczalni i satysfakcję klientów.',
         },
       ],
     },
@@ -2120,7 +2120,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Analiza floty wypożyczalni',
           detail:
-            'Afarer ocenił częstotliwość użytkowania, profil klientów i środowisko operacyjne, po czym zarekomendował komercyjną konfigurację wypożyczalni SUP zoptymalizowaną pod śródziemnomorskie środowisko plażowe.',
+            'OLagoon ocenił częstotliwość użytkowania, profil klientów i środowisko operacyjne, po czym zarekomendował komercyjną konfigurację wypożyczalni SUP zoptymalizowaną pod śródziemnomorskie środowisko plażowe.',
         },
         {
           title: 'Rozwój produktu',
@@ -2156,19 +2156,19 @@ const pl: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Testy symulacji przechowywania zimowego w komorze zimna Afarer',
+              title: 'Testy symulacji przechowywania zimowego w komorze zimna OLagoon',
               detail:
-                'W styczniu 2024 Sarah wysłała 8 desk konkurencji i 6 prototypów Afarer do zakładu Afarer w Xiamen na 4 tygodnie ekstremalnych testów zimna. Komora testowa cyklowała codziennie między -35°C a +25°C (symulując kanadyjskie marcowe zamarzanie-rozmarzanie). Deski przechowywano w symulowanych warunkach regałów pod 200 kg obciążenia śniegiem. Materiał XHD-Plus Afarer — 4-warstwowy laminat z wewnętrzną membraną TPU — nie wykazał mikropęknięć po 28 cyklach, podczas gdy 5 z 8 desk konkurencji rozwinęło widoczne pęknięcia. Warstwa TPU zapobiegała wnikaniu wilgoci nawet przy zarysowanych powierzchniach. Sarah poprosiła też o test «zimnego składania»: deski składane do transportu przy -20°C; deski Afarer przeżyły 500 złożeń bez uszkodzenia linii zgięcia.',
+                'W styczniu 2024 Sarah wysłała 8 desk konkurencji i 6 prototypów OLagoon do zakładu OLagoon w Xiamen na 4 tygodnie ekstremalnych testów zimna. Komora testowa cyklowała codziennie między -35°C a +25°C (symulując kanadyjskie marcowe zamarzanie-rozmarzanie). Deski przechowywano w symulowanych warunkach regałów pod 200 kg obciążenia śniegiem. Materiał XHD-Plus OLagoon — 4-warstwowy laminat z wewnętrzną membraną TPU — nie wykazał mikropęknięć po 28 cyklach, podczas gdy 5 z 8 desk konkurencji rozwinęło widoczne pęknięcia. Warstwa TPU zapobiegała wnikaniu wilgoci nawet przy zarysowanych powierzchniach. Sarah poprosiła też o test «zimnego składania»: deski składane do transportu przy -20°C; deski OLagoon przeżyły 500 złożeń bez uszkodzenia linii zgięcia.',
             },
             {
               title: 'Niestandardowy pakiet «Canadian Shield» z izolowanymi pokrowcami przechowywania',
               detail:
-                'Na podstawie wyników testów Afarer opracował specyfikację «Canadian Shield»: konstrukcja 4-warstwowa PVC/TPU, zawory stalowe odporne do -40°C (standardowe mosiężne zawory zamarzają z lodem) i wzmocnione uchwyty transportowe o nośności 2x wagi deski do przenoszenia po śniegu. Afarer zaprojektował wyściełany polarowym runem izolowany pokrowiec przechowywania («Winter Jacket») utrzymujący temperaturę wewnętrzną 12°C powyżej otoczenia. Sarah przetestowała pokrowce w marcu 2024 nad jeziorem Muskoka: deski przechowywane w nocy przy -22°C wewnątrz pokrowców miały rano -8°C i napompowały się 3 minuty szybciej. Afarer wyprodukował 150 pokrowców jako część zamówienia.',
+                'Na podstawie wyników testów OLagoon opracował specyfikację «Canadian Shield»: konstrukcja 4-warstwowa PVC/TPU, zawory stalowe odporne do -40°C (standardowe mosiężne zawory zamarzają z lodem) i wzmocnione uchwyty transportowe o nośności 2x wagi deski do przenoszenia po śniegu. OLagoon zaprojektował wyściełany polarowym runem izolowany pokrowiec przechowywania («Winter Jacket») utrzymujący temperaturę wewnętrzną 12°C powyżej otoczenia. Sarah przetestowała pokrowce w marcu 2024 nad jeziorem Muskoka: deski przechowywane w nocy przy -22°C wewnątrz pokrowców miały rano -8°C i napompowały się 3 minuty szybciej. OLagoon wyprodukował 150 pokrowców jako część zamówienia.',
             },
             {
               title: 'Oboz szkoleniowy przedsezonowy dla personelu resortów w 3 obiektach',
               detail:
-                'W maju 2024 północnoamerykański menedżer serwisu Afarer Jake Patterson spędził 5 dni na szkoleniu 28 pracowników w 3 resortach. Kanadyjskie protokoły obejmowały: uruchomienie wiosenne (szczegółowa checklista inspekcji uszkodzeń po przechowywaniu na zimno), właściwe pompowanie do 13–15 PSI (skorygowane pod zimną wodę — jezioro Muskoka ma średnio 14°C w czerwcu), procedurę zimowania desk przechowywanych w nieogrzewanych boathousach i system WhatsApp «zgłaszanie-uszkodzeń-w-15-minut». Jake nauczył też personel rozpoznawać typowe kanadyjskie uszkodzenia od obgryzania przez bobry (realny problem: 2 deski stracone na rzecz bobrów w 2023) i jak naprawiać je mocnymi łatkami PVC.',
+                'W maju 2024 północnoamerykański menedżer serwisu OLagoon Jake Patterson spędził 5 dni na szkoleniu 28 pracowników w 3 resortach. Kanadyjskie protokoły obejmowały: uruchomienie wiosenne (szczegółowa checklista inspekcji uszkodzeń po przechowywaniu na zimno), właściwe pompowanie do 13–15 PSI (skorygowane pod zimną wodę — jezioro Muskoka ma średnio 14°C w czerwcu), procedurę zimowania desk przechowywanych w nieogrzewanych boathousach i system WhatsApp «zgłaszanie-uszkodzeń-w-15-minut». Jake nauczył też personel rozpoznawać typowe kanadyjskie uszkodzenia od obgryzania przez bobry (realny problem: 2 deski stracone na rzecz bobrów w 2023) i jak naprawiać je mocnymi łatkami PVC.',
             },
             {
               title: 'Debiut latem 2024 i wyniki sezonu liściastego',
@@ -2196,17 +2196,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Badanie stresu cieplnego w lipcu 2023 na marbellskiej Playa de la Fontanilla',
               detail:
-                'W lipcu 2023 śródziemnomorski lider techniczny Afarer Pedro Sánchez przeprowadził 3-tygodniowe badanie na flagowej plaży Miguela. Wyposażyli 10 desk konkurencji i 5 prototypów Afarer w czujniki ciśnienia Bluetooth rejestrujące co 5 minut. Wyniki pokazały, że deski konkurencji traciły 2,8–4,1 PSI w ciągu 8 godzin (start przy 15 PSI, spadek do 10,9–12,2 PSI do godz. 16). Deski XHD-Thermal Afarer — z odbijającą ciepło srebrną warstwą zewnętrzną i wypełnieniem azotowym — traciły tylko 0,7 PSI. Pedro odkrył kluczową kwestię: standardowe powietrze rozszerza się w cieple, zwiększając ciśnienie wewnętrzne, co uruchamia upuszczanie zaworu bezpieczeństwa; wypełnienie azotowe Afarer (większe cząsteczki, wolniejsza dyfuzja) ograniczyło ten efekt. Temperatura powierzchni deski na piasku o 15:00 sięgała 67°C — srebrna warstwa Afarer odbijała 34% promieniowania podczerwonego.',
+                'W lipcu 2023 śródziemnomorski lider techniczny OLagoon Pedro Sánchez przeprowadził 3-tygodniowe badanie na flagowej plaży Miguela. Wyposażyli 10 desk konkurencji i 5 prototypów OLagoon w czujniki ciśnienia Bluetooth rejestrujące co 5 minut. Wyniki pokazały, że deski konkurencji traciły 2,8–4,1 PSI w ciągu 8 godzin (start przy 15 PSI, spadek do 10,9–12,2 PSI do godz. 16). Deski XHD-Thermal OLagoon — z odbijającą ciepło srebrną warstwą zewnętrzną i wypełnieniem azotowym — traciły tylko 0,7 PSI. Pedro odkrył kluczową kwestię: standardowe powietrze rozszerza się w cieple, zwiększając ciśnienie wewnętrzne, co uruchamia upuszczanie zaworu bezpieczeństwa; wypełnienie azotowe OLagoon (większe cząsteczki, wolniejsza dyfuzja) ograniczyło ten efekt. Temperatura powierzchni deski na piasku o 15:00 sięgała 67°C — srebrna warstwa OLagoon odbijała 34% promieniowania podczerwonego.',
             },
             {
               title: '«Costa del Sol Edition» z pokładem rozpraszającym ciepło i kotwicą antykradzieżową',
               detail:
-                'Afarer stworzył dla Miguela niestandardową specyfikację: «Costasol Edition 11.0» z pokładem korkowym (o 8°C chłodniejszym od pianki EVA w szczycie słońca, zweryfikowanym kamerą termowizyjną), zaworami stalowymi odpornymi na ciepło z o-ringami silikonowymi (wobec standardowej gumy degradującej po ponad 400 godzinach hiszpańskiego słońca) i systemem płetw stabilizowanym UV o ratingu 2 000 godzin ekspozycji UV. Miguel poprosił o funkcję odstraszającą kradzieże: Afarer zintegrował stalową pętlę na kabel w dziobie deski, przez którą personel mógł przewlec kłódkę szyfrową — redukując kradzieże desk z 12/rok do 0. Każda deska miała logo beach clubu Miguela wytłoczone na gorąco (bez naklejek do oderwania) z kodem QR prowadzącym do zrzeczenia odpowiedzialności i umowy wypożyczenia.',
+                'OLagoon stworzył dla Miguela niestandardową specyfikację: «Costasol Edition 11.0» z pokładem korkowym (o 8°C chłodniejszym od pianki EVA w szczycie słońca, zweryfikowanym kamerą termowizyjną), zaworami stalowymi odpornymi na ciepło z o-ringami silikonowymi (wobec standardowej gumy degradującej po ponad 400 godzinach hiszpańskiego słońca) i systemem płetw stabilizowanym UV o ratingu 2 000 godzin ekspozycji UV. Miguel poprosił o funkcję odstraszającą kradzieże: OLagoon zintegrował stalową pętlę na kabel w dziobie deski, przez którą personel mógł przewlec kłódkę szyfrową — redukując kradzieże desk z 12/rok do 0. Każda deska miała logo beach clubu Miguela wytłoczone na gorąco (bez naklejek do oderwania) z kodem QR prowadzącym do zrzeczenia odpowiedzialności i umowy wypożyczenia.',
             },
             {
               title: 'Logistyka wypożyczalni wielkowolumenowej i szkolenie zespołu',
               detail:
-                'Konsultantka operacyjna Afarer Ana Martínez spędziła 2 tygodnie w lutym 2024 na optymalizacji przepływu wypożyczeń Miguela. Model «chwytaj-i-płyń»: 50 desk utrzymywanych cały czas napompowanych na niestandardowym regale rolkowym (zbudowanym przez zespół akcesoriów Afarer), redukując czas wypożyczenia z 8 minut do 90 sekund. Ana przeszkoliła 22 sezonowych pracowników z: 1-minutowego sprawdzenia ciśnienia skalibrowanym manometrem, właściwego czyszczenia pokładu korkowego (łagodne mydło, bez myjki ciśnieniowej), popołudniowego protokołu doładowania ciśnienia (30-sekundowe sprawdzenie o 14:00) i wieczornego płukania systemem spryskiwania słodką wodą (zainstalowanym przez Afarer, 80 EUR/stacja). Nowy przepływ pozwolił 2 pracownikom zarządzać 200 deskami zamiast 5 przy 85.',
+                'Konsultantka operacyjna OLagoon Ana Martínez spędziła 2 tygodnie w lutym 2024 na optymalizacji przepływu wypożyczeń Miguela. Model «chwytaj-i-płyń»: 50 desk utrzymywanych cały czas napompowanych na niestandardowym regale rolkowym (zbudowanym przez zespół akcesoriów OLagoon), redukując czas wypożyczenia z 8 minut do 90 sekund. Ana przeszkoliła 22 sezonowych pracowników z: 1-minutowego sprawdzenia ciśnienia skalibrowanym manometrem, właściwego czyszczenia pokładu korkowego (łagodne mydło, bez myjki ciśnieniowej), popołudniowego protokołu doładowania ciśnienia (30-sekundowe sprawdzenie o 14:00) i wieczornego płukania systemem spryskiwania słodką wodą (zainstalowanym przez OLagoon, 80 EUR/stacja). Nowy przepływ pozwolił 2 pracownikom zarządzać 200 deskami zamiast 5 przy 85.',
             },
             {
               title: 'Lato 2024: najgorętszy lipiec Hiszpanii w historii',
@@ -2223,8 +2223,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego biznesy wypożyczalni wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego biznesy wypożyczalni wybierają OLagoon',
       items: [
         {
           title: 'Użytkowanie komercyjne',
@@ -2252,38 +2252,38 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jakie typy desk SUP są najlepsze dla biznesów wypożyczalni?',
         answer:
-          'Biznesy wypożyczalni potrzebują trwałych, stabilnych uniwersalnych desk SUP ze wzmocnioną konstrukcją, kształtami przyjaznymi początkującym, zstandaryzowanymi akcesoriami i łatwymi funkcjami konserwacji. Deski wypożyczalni Afarer są zaprojektowane specjalnie, by wytrzymać częste użytkowanie przez klientów na każdym poziomie umiejętności.',
+          'Biznesy wypożyczalni potrzebują trwałych, stabilnych uniwersalnych desk SUP ze wzmocnioną konstrukcją, kształtami przyjaznymi początkującym, zstandaryzowanymi akcesoriami i łatwymi funkcjami konserwacji. Deski wypożyczalni OLagoon są zaprojektowane specjalnie, by wytrzymać częste użytkowanie przez klientów na każdym poziomie umiejętności.',
       },
       {
         question: 'Jak mogę zredukować koszty konserwacji mojej floty SUP wypożyczalni?',
         answer:
-          'Afarer pomaga redukować koszty konserwacji dzięki trwałej konstrukcji odpornej na uszkodzenia, zstandaryzowanym komponentom upraszczającym naprawy, wymiennym częściom eliminującym pełną wymianę deski i wskazówkom konserwacyjnym pomagającym Twojemu zespołowi sprawnie zajmować się podstawową pielęgnacją.',
+          'OLagoon pomaga redukować koszty konserwacji dzięki trwałej konstrukcji odpornej na uszkodzenia, zstandaryzowanym komponentom upraszczającym naprawy, wymiennym częściom eliminującym pełną wymianę deski i wskazówkom konserwacyjnym pomagającym Twojemu zespołowi sprawnie zajmować się podstawową pielęgnacją.',
       },
       {
         question: 'Jaka jest minimalna wielkość zamówienia na floty wypożyczalni SUP?',
         answer:
-          'Afarer wspiera elastyczne wielkości flot od małych operacji zaczynających od 50 desk po wielkoskalowe floty ponad 500 desk. Zapewniamy hurtowe rozwiązania zakupowe ze spójną jakością przy wszystkich ilościach zamówień.',
+          'OLagoon wspiera elastyczne wielkości flot od małych operacji zaczynających od 50 desk po wielkoskalowe floty ponad 500 desk. Zapewniamy hurtowe rozwiązania zakupowe ze spójną jakością przy wszystkich ilościach zamówień.',
       },
       {
         question: 'Czy oferujecie hurtowe ceny dla operatorów wypożyczalni?',
         answer:
-          'Tak, Afarer oferuje konkurencyjne hurtowe ceny dla operatorów wypożyczalni kupujących floty 50, 100, 300 lub ponad 500 desk, ze spójną jakością sprzętu i wydajnymi terminami produkcji dla dużych zamówień.',
+          'Tak, OLagoon oferuje konkurencyjne hurtowe ceny dla operatorów wypożyczalni kupujących floty 50, 100, 300 lub ponad 500 desk, ze spójną jakością sprzętu i wydajnymi terminami produkcji dla dużych zamówień.',
       },
       {
-        question: 'Jak deski SUP Afarer radzą sobie ze słoną wodą i środowiskami plażowymi?',
+        question: 'Jak deski SUP OLagoon radzą sobie ze słoną wodą i środowiskami plażowymi?',
         answer:
-          'Deski wypożyczalni Afarer oferują materiał PVC odporny na ścieranie, konstrukcję odporną na UV, wzmocnione burty do kontaktu z plażą i okucie odporne na korozję, które wytrzymuje ekspozycję na słoną wodę, ścieranie piaskiem i warunki przechowywania outdoorowego.',
+          'Deski wypożyczalni OLagoon oferują materiał PVC odporny na ścieranie, konstrukcję odporną na UV, wzmocnione burty do kontaktu z plażą i okucie odporne na korozję, które wytrzymuje ekspozycję na słoną wodę, ścieranie piaskiem i warunki przechowywania outdoorowego.',
       },
       {
         question: 'Czy mogę oznaczyć deski SUP mojej wypożyczalni logo mojego biznesu?',
         answer:
-          'Tak, Afarer wspiera pełną personalizację obejmującą branding logo, dopasowanie kolorów, numerację desk i etykiety modeli, które zamieniają Twój sprzęt wypożyczalni w widoczne narzędzia marketingowe w Twojej lokalizacji plażowej lub resortowej.',
+          'Tak, OLagoon wspiera pełną personalizację obejmującą branding logo, dopasowanie kolorów, numerację desk i etykiety modeli, które zamieniają Twój sprzęt wypożyczalni w widoczne narzędzia marketingowe w Twojej lokalizacji plażowej lub resortowej.',
       },
     ],
     cta: {
-      title: 'Zbuduj swoją trwałą flotę wypożyczalni SUP z Afarer',
+      title: 'Zbuduj swoją trwałą flotę wypożyczalni SUP z OLagoon',
       subtitle:
-        'Twój sprzęt determinuje rentowność Twojego biznesu. Wybierz produkty SUP zaprojektowane, by pracować ciężej i trwać dłużej. Afarer pomaga operatorom wypożyczalni budować plażowe floty SUP, sprzęt aktywności wodnych resortów i systemy turystyki przygodowej z niezawodnym wsparciem produkcyjnym OEM.',
+        'Twój sprzęt determinuje rentowność Twojego biznesu. Wybierz produkty SUP zaprojektowane, by pracować ciężej i trwać dłużej. OLagoon pomaga operatorom wypożyczalni budować plażowe floty SUP, sprzęt aktywności wodnych resortów i systemy turystyki przygodowej z niezawodnym wsparciem produkcyjnym OEM.',
       primaryAction: {
         text: 'Rozpocznij projekt floty wypożyczalni już dziś',
       },
@@ -2297,7 +2297,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent platform SUP do badań ekologicznych | {SITE}',
       description:
-        'Afarer zapewnia ekologiczne platformy badawcze SUP dla organizacji pozarządowych chroniących morza, uczelni i organizacji monitorujących środowisko. Stabilne platformy pływające, systemy mocowania sprzętu i niestandardowe rozwiązania OEM.',
+        'OLagoon zapewnia ekologiczne platformy badawcze SUP dla organizacji pozarządowych chroniących morza, uczelni i organizacji monitorujących środowisko. Stabilne platformy pływające, systemy mocowania sprzętu i niestandardowe rozwiązania OEM.',
     },
     hero: {
       tagline:
@@ -2429,7 +2429,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Konfiguracja SUP o niskim hałasie i integracja platformy czujników',
               detail:
-                'We wrześniu 2024 Huaman współpracowała z działem badań środowiskowych Afarer nad adaptacją EcoTouring 12\'6" X do rozmieszczania ładunku naukowego. Modyfikacje obejmowały wzmocnioną płytę montażową decku (stal nierdzewna, układ 4-śrubowy) pod echosondę/sonar Garmin echoMAP Plus 74cv, zintegrowany system RAM-mount dla GoPro HERO12 Black w obudowie podwodnej, wodoszczelną studzienkę sprzętową (pojemność 7 L, uszczelnienie śrubowe) w rdzeniu deski na rejestratory danych i trackery GPS oraz niski ochraniacz kilu pozwalający na wyładunek na błotnistych brzegach rzecznych. Trzy prototypowe deski przetestowano w Ucayali w październiku 2024, mierząc podwodny poziom hałasu 18 dB (wobec 52 dB dla silnika zaburtowego Tohatsu 25 KM z odległości 5 m). ARA zamówiła 18 desk za 212 tys. USD, sfinansowanych przez Gordon and Betty Moore Foundation.',
+                'We wrześniu 2024 Huaman współpracowała z działem badań środowiskowych OLagoon nad adaptacją EcoTouring 12\'6" X do rozmieszczania ładunku naukowego. Modyfikacje obejmowały wzmocnioną płytę montażową decku (stal nierdzewna, układ 4-śrubowy) pod echosondę/sonar Garmin echoMAP Plus 74cv, zintegrowany system RAM-mount dla GoPro HERO12 Black w obudowie podwodnej, wodoszczelną studzienkę sprzętową (pojemność 7 L, uszczelnienie śrubowe) w rdzeniu deski na rejestratory danych i trackery GPS oraz niski ochraniacz kilu pozwalający na wyładunek na błotnistych brzegach rzecznych. Trzy prototypowe deski przetestowano w Ucayali w październiku 2024, mierząc podwodny poziom hałasu 18 dB (wobec 52 dB dla silnika zaburtowego Tohatsu 25 KM z odległości 5 m). ARA zamówiła 18 desk za 212 tys. USD, sfinansowanych przez Gordon and Betty Moore Foundation.',
             },
             {
               title: 'Krok 2: Adaptacja protokołu badawczego i opracowanie metody cichej obserwacji',
@@ -2439,7 +2439,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 3: Certyfikacja SUP badaczy i logistyka odległych stacji',
               detail:
-                'W listopadzie 2024 Afarer przeprowadził 12-dniowe szkolenie terenowe w 3 stacjach ARA, certyfikując 12 badaczy (5 doktorantów, 4 techników terenowych, 3 lokalnych przewodników rzecznych). Szkolenie obejmowało prądy rzeczne (Ucayali płynie z prędkością do 4 węzłów), unikanie kłód i odpadów, techniki nocnego wiosłowania dla badań gatunków nocnych i procedury startu w dżungli (przenoszenie napompowanych desk 400 m przez las pierwotny do jezior starorzecznych). Każdy badacz ukończył 40 godzin nadzorowanego wiosłowania badawczego oraz egzamin końcowy wymagający transektu 6 km w mniej niż 2 godziny z równoległym zapisem danych. Zdawalność certyfikacji wyniosła 92% (11 z 12). Pozostający badacz pełnił rolę wsparcia rotacyjnego.',
+                'W listopadzie 2024 OLagoon przeprowadził 12-dniowe szkolenie terenowe w 3 stacjach ARA, certyfikując 12 badaczy (5 doktorantów, 4 techników terenowych, 3 lokalnych przewodników rzecznych). Szkolenie obejmowało prądy rzeczne (Ucayali płynie z prędkością do 4 węzłów), unikanie kłód i odpadów, techniki nocnego wiosłowania dla badań gatunków nocnych i procedury startu w dżungli (przenoszenie napompowanych desk 400 m przez las pierwotny do jezior starorzecznych). Każdy badacz ukończył 40 godzin nadzorowanego wiosłowania badawczego oraz egzamin końcowy wymagający transektu 6 km w mniej niż 2 godziny z równoległym zapisem danych. Zdawalność certyfikacji wyniosła 92% (11 z 12). Pozostający badacz pełnił rolę wsparcia rotacyjnego.',
             },
             {
               title: 'Krok 4: Wyniki sezonu terenowego 2025 i wpływ ochroniarski',
@@ -2467,7 +2467,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Integracja czujników SUP i projekt platformy badawczej',
               detail:
-                'W grudniu 2024 Torres współpracował z zespołem środowiskowego R&D Afarer nad konfiguracją EcoTouring 12\'6" X do monitoringu przybrzeżnego. Afarer zintegrował płytę montażową dla sondy YSI EXO2 (zamontowanej w niestandardowej przelotowej studzience montażowej przechodzącej przez rdzeń deski, pozwalającej na ciągły przepływ wody bez oporu sondy holowanej). Deska otrzymała dziobowe ramię dźwigowe (włókno węglowe, 1,5 kg, nośność 50 funtów) do opuszczania i wyciągania podwodnej matrycy wideo (GoPro HERO12 Black w obudowie antyodblaskowej z czerwonymi filtrami). Rufowa skrzynka rejestratora danych (Pelican 1040) pomieściła odbiornik GNSS i modem komórkowy do przesyłania danych w czasie rzeczywistym przez platformę chmurową Mote. Trzy prototypy rozmieszczono w styczniu 2025 do 30-dniowego badania walidacyjnego, potwierdzając odczyty sondy w granicach 2% od odczytów łodziowych na sparowanych stacjach. Mote zamówiło 15 desk za 186 tys. USD, sfinansowanych przez SBEP i Gulf Research Program.',
+                'W grudniu 2024 Torres współpracował z zespołem środowiskowego R&D OLagoon nad konfiguracją EcoTouring 12\'6" X do monitoringu przybrzeżnego. OLagoon zintegrował płytę montażową dla sondy YSI EXO2 (zamontowanej w niestandardowej przelotowej studzience montażowej przechodzącej przez rdzeń deski, pozwalającej na ciągły przepływ wody bez oporu sondy holowanej). Deska otrzymała dziobowe ramię dźwigowe (włókno węglowe, 1,5 kg, nośność 50 funtów) do opuszczania i wyciągania podwodnej matrycy wideo (GoPro HERO12 Black w obudowie antyodblaskowej z czerwonymi filtrami). Rufowa skrzynka rejestratora danych (Pelican 1040) pomieściła odbiornik GNSS i modem komórkowy do przesyłania danych w czasie rzeczywistym przez platformę chmurową Mote. Trzy prototypy rozmieszczono w styczniu 2025 do 30-dniowego badania walidacyjnego, potwierdzając odczyty sondy w granicach 2% od odczytów łodziowych na sparowanych stacjach. Mote zamówiło 15 desk za 186 tys. USD, sfinansowanych przez SBEP i Gulf Research Program.',
             },
             {
               title: 'Krok 2: Sieć stacji monitoringu i protokół próbkowania pływowego',
@@ -2477,7 +2477,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 3: Certyfikacja SUP asystentów badawczych i szkolenie nawigacji na płytkiej wodzie',
               detail:
-                'W lutym 2025 dział badawczy Afarer certyfikował 8 asystentów badawczych Mote (4 naukowców na poziomie doktorskim, 4 techników terenowych) w 5-dniowym kursie operatora badań SUP na płytkiej wodzie. Szkolenie obejmowało nawigację po łąkach trawy morskiej (unikanie analogu blizn po śrubach — opór płetwy), protokoły podejścia do manatów (minimalna odległość podejścia 50 m, cichy dryf po dostrzeżeniu, obserwacja behawioralna bez hałasu silnika), zarządzanie prądami pływowymi (maks. prąd 1,5 węzła dla próbkowania, 2,5 węzła dla przemieszczania) oraz rozmieszczanie i odzyskiwanie sprzętu przy wietrze. Torres wymagał też ukończenia florydzkiego szkolenia FWC ze spotkań z manatami (2 godziny online + część terenowa). Certyfikację oceniano w próbny dzień próbkowania — 4 stacje w 3 godziny przy 100% kompletności danych. Wszyscy 8 zdali za pierwszym podejściem, ze średnim czasem ukończenia stacji 38 minut (wobec 68 minut dla protokołu motorowego).',
+                'W lutym 2025 dział badawczy OLagoon certyfikował 8 asystentów badawczych Mote (4 naukowców na poziomie doktorskim, 4 techników terenowych) w 5-dniowym kursie operatora badań SUP na płytkiej wodzie. Szkolenie obejmowało nawigację po łąkach trawy morskiej (unikanie analogu blizn po śrubach — opór płetwy), protokoły podejścia do manatów (minimalna odległość podejścia 50 m, cichy dryf po dostrzeżeniu, obserwacja behawioralna bez hałasu silnika), zarządzanie prądami pływowymi (maks. prąd 1,5 węzła dla próbkowania, 2,5 węzła dla przemieszczania) oraz rozmieszczanie i odzyskiwanie sprzętu przy wietrze. Torres wymagał też ukończenia florydzkiego szkolenia FWC ze spotkań z manatami (2 godziny online + część terenowa). Certyfikację oceniano w próbny dzień próbkowania — 4 stacje w 3 godziny przy 100% kompletności danych. Wszyscy 8 zdali za pierwszym podejściem, ze średnim czasem ukończenia stacji 38 minut (wobec 68 minut dla protokołu motorowego).',
             },
             {
               title: 'Krok 4: Sezon monitoringu marzec–listopad 2025 i mierzalne wyniki ekologiczne',
@@ -2494,8 +2494,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego organizacje badawcze wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego organizacje badawcze wybierają OLagoon',
       items: [
         {
           title: 'Stabilność',
@@ -2521,24 +2521,24 @@ const pl: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Jaki sprzęt naukowy można zamontować na badawczej platformie SUP Afarer?',
+        question: 'Jaki sprzęt naukowy można zamontować na badawczej platformie SUP OLagoon?',
         answer:
-          'Platformy badawcze Afarer wspierają szeroki zakres sprzętu, w tym czujniki jakości wody, kamery i jednostki GPS, pojemniki na próbki, narzędzia pomiarowe i urządzenia do zbierania danych. Modułowy system montażowy można spersonalizować pod konkretne konfiguracje badawcze.',
+          'Platformy badawcze OLagoon wspierają szeroki zakres sprzętu, w tym czujniki jakości wody, kamery i jednostki GPS, pojemniki na próbki, narzędzia pomiarowe i urządzenia do zbierania danych. Modułowy system montażowy można spersonalizować pod konkretne konfiguracje badawcze.',
       },
       {
         question: 'Jak stabilna jest platforma SUP do pobierania próbek wody i działań monitoringu?',
         answer:
-          'Platformy badawcze Afarer mają ekstraszeroki projekt, zwiększone pole stania, wzmocnioną równowagę i strukturę wysokiej wyporności zaprojektowaną specjalnie dla naukowych operacji terenowych. Stabilność pozwala badaczom bezpiecznie obsługiwać sprzęt, zbierać próbki i prowadzić pomiary.',
+          'Platformy badawcze OLagoon mają ekstraszeroki projekt, zwiększone pole stania, wzmocnioną równowagę i strukturę wysokiej wyporności zaprojektowaną specjalnie dla naukowych operacji terenowych. Stabilność pozwala badaczom bezpiecznie obsługiwać sprzęt, zbierać próbki i prowadzić pomiary.',
       },
       {
-        question: 'Jakie ekologiczne materiały są używane w badawczych deskach SUP Afarer?',
+        question: 'Jakie ekologiczne materiały są używane w badawczych deskach SUP OLagoon?',
         answer:
-          'Afarer stawia na trwałą konstrukcję o długim żywocie, która redukuje częstotliwość wymian i zużycie zasobów. Oferujemy zrównoważone opcje materiałowe, w tym wybory nadające się do recyklingu i podejścia produkcyjne o niższym wpływie, zgodne z misjami ochrony środowiska.',
+          'OLagoon stawia na trwałą konstrukcję o długim żywocie, która redukuje częstotliwość wymian i zużycie zasobów. Oferujemy zrównoważone opcje materiałowe, w tym wybory nadające się do recyklingu i podejścia produkcyjne o niższym wpływie, zgodne z misjami ochrony środowiska.',
       },
       {
         question: 'Czy platformy SUP można spersonalizować pod wymagania konkretnego projektu badawczego?',
         answer:
-          'Tak, Afarer wspiera kompletną personalizację, w tym niestandardowe wymiary desk (ekstraszerokość, dodatkowa długość), zwiększoną ładowność, interfejsy montażowe sprzętu, rozwiązania przechowywania, logo organizacji i akcesoria dopasowane do projektu.',
+          'Tak, OLagoon wspiera kompletną personalizację, w tym niestandardowe wymiary desk (ekstraszerokość, dodatkowa długość), zwiększoną ładowność, interfejsy montażowe sprzętu, rozwiązania przechowywania, logo organizacji i akcesoria dopasowane do projektu.',
       },
       {
         question: 'Jak SUP wypada w porównaniu z tradycyjnymi łodziami badawczymi w monitoringu środowiskowym?',
@@ -2548,13 +2548,13 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jaki jest typowy czas realizacji niestandardowej badawczej platformy SUP?',
         answer:
-          'Czasy realizacji różnią się w zależności od złożoności personalizacji i wielkości zamówienia. Afarer wspiera opracowywanie prototypów nowych koncepcji badawczych aż po produkcję seryjną dla zamówień instytucjonalnych. Blisko współpracujemy z zespołami badawczymi, by sprostać harmonogramom projektów i wymogom sezonów terenowych.',
+          'Czasy realizacji różnią się w zależności od złożoności personalizacji i wielkości zamówienia. OLagoon wspiera opracowywanie prototypów nowych koncepcji badawczych aż po produkcję seryjną dla zamówień instytucjonalnych. Blisko współpracujemy z zespołami badawczymi, by sprostać harmonogramom projektów i wymogom sezonów terenowych.',
       },
     ],
     cta: {
-      title: 'Zbuduj swoją ekologiczną badawczą platformę wodną z Afarerem',
+      title: 'Zbuduj swoją ekologiczną badawczą platformę wodną z OLagoonem',
       subtitle:
-        'Przyszłość badań wody wymaga elastycznych i zrównoważonych rozwiązań. Afarer pomaga morskim organizacjom pozarządowym, uniwersytetom, instytucjom badawczym i organizacjom środowiskowym tworzyć profesjonalne mobilne platformy badawcze wody.',
+        'Przyszłość badań wody wymaga elastycznych i zrównoważonych rozwiązań. OLagoon pomaga morskim organizacjom pozarządowym, uniwersytetom, instytucjom badawczym i organizacjom środowiskowym tworzyć profesjonalne mobilne platformy badawcze wody.',
       primaryAction: {
         text: 'Rozpocznij swój projekt',
       },
@@ -2568,15 +2568,15 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Dostawca marek SUP dla Amazona | Producent niestandardowych pompowanych desk SUP | {SITE}',
       description:
-        'Afarer pomaga sprzedawcom z Amazona, Walmartu i Shopify budować zróżnicowane marki SUP dzięki niestandardowym pompowanym deskom, produkcji private label, unikalnej grafice, szybkiemu łańcuchowi dostaw i wsparciu produktów e-commerce.',
+        'OLagoon pomaga sprzedawcom z Amazona, Walmartu i Shopify budować zróżnicowane marki SUP dzięki niestandardowym pompowanym deskom, produkcji private label, unikalnej grafice, szybkiemu łańcuchowi dostaw i wsparciu produktów e-commerce.',
     },
     hero: {
       tagline: 'Dyferencjacja produktów i szybkie dostawy™',
       title: "Zdyferencjonowane produkty SUP dla sprzedawców na marketplace'ach e-commerce",
       subtitle:
-        'Afarer pomaga sprzedawcom z Amazona, Walmartu i Shopify budować wyróżniające się marki SUP dzięki niestandardowym pompowanym deskom, produkcji private label, unikalnej grafice, szybkiemu łańcuchowi dostaw i wsparciu produktów e-commerce.',
+        'OLagoon pomaga sprzedawcom z Amazona, Walmartu i Shopify budować wyróżniające się marki SUP dzięki niestandardowym pompowanym deskom, produkcji private label, unikalnej grafice, szybkiemu łańcuchowi dostaw i wsparciu produktów e-commerce.',
       image: {
-        alt: 'Opis niestandardowych desk SUP Afarer',
+        alt: 'Opis niestandardowych desk SUP OLagoon',
       },
     },
     challenge: {
@@ -2690,7 +2690,7 @@ const pl: Record<string, SolutionOverride> = {
       customer:
         'Amerykański sprzedawca outdoorowy na Amazonie, wcześniej sprzedający akcesoria kempingowe, produkty outdoorowe i sprzęt fitness przez kanały Amazon i Shopify.',
       steps: [
-        'Afarer pomógł zdefiniować klienta docelowego jako młodych konsumentów outdoorowego stylu życia i pozycjonował produkt jako przystępny cenowo SUP o premium wyglądzie i unikalnej tożsamości wizualnej.',
+        'OLagoon pomógł zdefiniować klienta docelowego jako młodych konsumentów outdoorowego stylu życia i pozycjonował produkt jako przystępny cenowo SUP o premium wyglądzie i unikalnej tożsamości wizualnej.',
         'Stworzono niestandardowe pompowane SUP 10\'6" z unikalną grafiką deski, premium systemem kolorów, ulepszonym zestawem akcesoriów i opakowaniem skupionym na marce.',
         "Przygotowano strategię treści e-commerce obejmującą strukturę zdjęć produktowych, prezentację funkcji i kierunek wizualny lifestylowy dla listingów marketplace'owych.",
         'Debiut przy 500 sztukach na Amazonie, testy reklamowe i zbieranie opinii klientów.',
@@ -2715,22 +2715,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Analiza kategorii Amazon i architektura SKU',
               detail:
-                'W styczniu 2023 zespół strategii e-commerce Afarer przeprowadził pogłębioną analizę kategorii SUP Amazona UK z użyciem narzędzi Helium 10 i Jungle Scout. Ustalono, że 78% kupujących po raz pierwszy szuka «kompletnych zestawów» (deska + wiosło + pompka + torba + leash + płetwa), ale tylko 4 marki oferowały prawdziwy zestaw all-in-one z akcesoriami premium. Afarer zaproponował skład z 3 SKU: «AquaStart 10\'6" Complete Kit» (cena docelowa 449 GBP), «AquaStart 11\'0" Touring Kit» (549 GBP) i «AquaStart Duo» (699 GBP, rodzinny pakiet 2-deskowy). Każdy zestaw zawierał pompkę ręczną z manometrem, 3-częściowe wiosło karbonowe, leash spiralny, wymienianą płetwę US 5" i wodoodporne etui na telefon — co odróżniało go od konkurencji sprzedającej większość akcesoriów osobno.',
+                'W styczniu 2023 zespół strategii e-commerce OLagoon przeprowadził pogłębioną analizę kategorii SUP Amazona UK z użyciem narzędzi Helium 10 i Jungle Scout. Ustalono, że 78% kupujących po raz pierwszy szuka «kompletnych zestawów» (deska + wiosło + pompka + torba + leash + płetwa), ale tylko 4 marki oferowały prawdziwy zestaw all-in-one z akcesoriami premium. OLagoon zaproponował skład z 3 SKU: «AquaStart 10\'6" Complete Kit» (cena docelowa 449 GBP), «AquaStart 11\'0" Touring Kit» (549 GBP) i «AquaStart Duo» (699 GBP, rodzinny pakiet 2-deskowy). Każdy zestaw zawierał pompkę ręczną z manometrem, 3-częściowe wiosło karbonowe, leash spiralny, wymienianą płetwę US 5" i wodoodporne etui na telefon — co odróżniało go od konkurencji sprzedającej większość akcesoriów osobno.',
             },
             {
               title: 'Krok 2: Projekt opakowania pod e-commerce i zgodność z FBA',
               detail:
-                'Afarer zaprojektował opakowanie gotowe do sprzedaży, mieszczące się w limitach gabarytowych Amazon FBA: pudełko deski 10\'6" mierzyło 34" × 18" × 14" i ważyło 14,2 kg — poniżej amazonowego progu 15 kg, aby uniknąć opłat za ciężkie i gabarytowe przesyłki. Pudełko miało wycięte uchwyty po obu stronach dla pracowników magazynu. W środku deska była zapakowana próżniowo w worek PE 0,1 mm, złożona z akcesoriami we wycięciach z pianki EVA. Każde akcesoriom było osobno zapakowane w woreczek z brandingiem AquaStart. Opakowanie zawierało «Przewodnik szybkiego startu» (kod QR prowadzący do 6-minutowego filmu z rozpakowania). Inżynier opakowań Afarer zmniejszył całkowitą objętość pudełka o 22% względem projektu początkowego, oszczędzając Priyi 1,80 GBP za sztukę w opłatach realizacji FBA.',
+                'OLagoon zaprojektował opakowanie gotowe do sprzedaży, mieszczące się w limitach gabarytowych Amazon FBA: pudełko deski 10\'6" mierzyło 34" × 18" × 14" i ważyło 14,2 kg — poniżej amazonowego progu 15 kg, aby uniknąć opłat za ciężkie i gabarytowe przesyłki. Pudełko miało wycięte uchwyty po obu stronach dla pracowników magazynu. W środku deska była zapakowana próżniowo w worek PE 0,1 mm, złożona z akcesoriami we wycięciach z pianki EVA. Każde akcesoriom było osobno zapakowane w woreczek z brandingiem AquaStart. Opakowanie zawierało «Przewodnik szybkiego startu» (kod QR prowadzący do 6-minutowego filmu z rozpakowania). Inżynier opakowań OLagoon zmniejszył całkowitą objętość pudełka o 22% względem projektu początkowego, oszczędzając Priyi 1,80 GBP za sztukę w opłatach realizacji FBA.',
             },
             {
               title: 'Krok 3: Optymalizacja listingu Amazon, treści A+ i strategia debiutu',
               detail:
-                'Studio contentowe Afarer wyprodukowało 14 obrazów modułów A+, 6 zdjęć lifestylowych z jeziora Windermere, 90-sekundowe wideo z historią marki i przeglądarkę produktu 360 stopni. Napisano zoptymalizowane słowami kluczowymi punktory celujące w 237 długich ogonów słów kluczowych z raportu fraz wyszukiwania Amazona. Strategia debiutu wykorzystała 21-dniowy program «Vine» (30 sztuk ze zniżką 50%) do zbudowania początkowej dynamiki recenzji, a następnie kampanię Amazon PPC za 2 000 GBP (Sponsored Products + Sponsored Brand) z dziennym budżetem rozdzielonym na 3 SKU. Kampania ruszyła 15 kwietnia 2023. W 45. dniu AquaStart miała 24 recenzje ze średnią 4,6 gwiazdki, a zestaw 10\'6" osiągnął 17. miejsce w kategorii SUP.',
+                'Studio contentowe OLagoon wyprodukowało 14 obrazów modułów A+, 6 zdjęć lifestylowych z jeziora Windermere, 90-sekundowe wideo z historią marki i przeglądarkę produktu 360 stopni. Napisano zoptymalizowane słowami kluczowymi punktory celujące w 237 długich ogonów słów kluczowych z raportu fraz wyszukiwania Amazona. Strategia debiutu wykorzystała 21-dniowy program «Vine» (30 sztuk ze zniżką 50%) do zbudowania początkowej dynamiki recenzji, a następnie kampanię Amazon PPC za 2 000 GBP (Sponsored Products + Sponsored Brand) z dziennym budżetem rozdzielonym na 3 SKU. Kampania ruszyła 15 kwietnia 2023. W 45. dniu AquaStart miała 24 recenzje ze średnią 4,6 gwiazdki, a zestaw 10\'6" osiągnął 17. miejsce w kategorii SUP.',
             },
             {
               title: 'Krok 4: Zarządzanie zapasami, prognozowanie popytu i druga partia produkcyjna',
               detail:
-                'Zespół planowania popytu Afarer zbudował 6-miesięczny model prognozy na podstawie danych historycznych Amazona, Google Trends (wolumen wyszukiwań paddleboarding UK) i czynników sezonowych. Model przewidział sell-through 410 sztuk do września 2023. Pierwsza partia Priyi liczyła 500 sztuk (300 × 10\'6", 120 × 11\'0", 80 × Duo), wysłanych do centrów Amazon FBA w Manchesterze i Doncasterze. Rzeczywisty sell-through do 30 września wyniósł 386 sztuk — w granicach 6% od prognozy. Druga partia 700 sztuk została zamówiona w październiku 2023 z 2 istotnymi modyfikacjami: wzmocnione uchwyty torby (9 zgłoszeń pęknięć z pierwszej partii) i ulepszone stalowe D-ringi (po 4 skargach na korozję). Do grudnia 2023 przychody AquaStart UK osiągnęły 298 000 GBP, a zestaw 10\'6" zajmował 12. pozycję na Amazonie UK.',
+                'Zespół planowania popytu OLagoon zbudował 6-miesięczny model prognozy na podstawie danych historycznych Amazona, Google Trends (wolumen wyszukiwań paddleboarding UK) i czynników sezonowych. Model przewidział sell-through 410 sztuk do września 2023. Pierwsza partia Priyi liczyła 500 sztuk (300 × 10\'6", 120 × 11\'0", 80 × Duo), wysłanych do centrów Amazon FBA w Manchesterze i Doncasterze. Rzeczywisty sell-through do 30 września wyniósł 386 sztuk — w granicach 6% od prognozy. Druga partia 700 sztuk została zamówiona w październiku 2023 z 2 istotnymi modyfikacjami: wzmocnione uchwyty torby (9 zgłoszeń pęknięć z pierwszej partii) i ulepszone stalowe D-ringi (po 4 skargach na korozję). Do grudnia 2023 przychody AquaStart UK osiągnęły 298 000 GBP, a zestaw 10\'6" zajmował 12. pozycję na Amazonie UK.',
             },
           ],
           results: [
@@ -2752,22 +2752,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Pozyskanie materiałów recyklingowanych i certyfikacja łańcucha dostaw',
               detail:
-                'Afarer spędził 14 tygodni między styczniem a kwietniem 2023 na opracowaniu laminatu PVC z recyklingu, wykorzystującego poprodukcyjne odpady tkanin z własnej hali fabrycznej. Materiał — nazwany «EcoShell RPVC» — zawierał 63% treści recyklingowej wagowo i osiągał wytrzymałość na rozciąganie 3 200 N/5 cm (wobec 3 500 N dla pierwotnego PVC). Afarer uzyskał dla materiału certyfikację GRS (Global Recycled Standard) i zlecił niezależną ocenę cyklu życia, pokazującą 37% redukcję CO₂e na deskę w porównaniu z deskami z pierwotnego PVC. Zespół Feliksa pozyskał 50 000 recyklingowanych butelek PET od berlińskiej spółdzielni recyklingowej na tkaninę torby i matę EVA pokładu (30% treści recyklingowej). Premia za materiały zrównoważone wyniosła 18 EUR na deskę, którą Afarer wchłonął we własną marżę, pomagając UrbanPulse osiągnąć docelową cenę detaliczną.',
+                'OLagoon spędził 14 tygodni między styczniem a kwietniem 2023 na opracowaniu laminatu PVC z recyklingu, wykorzystującego poprodukcyjne odpady tkanin z własnej hali fabrycznej. Materiał — nazwany «EcoShell RPVC» — zawierał 63% treści recyklingowej wagowo i osiągał wytrzymałość na rozciąganie 3 200 N/5 cm (wobec 3 500 N dla pierwotnego PVC). OLagoon uzyskał dla materiału certyfikację GRS (Global Recycled Standard) i zlecił niezależną ocenę cyklu życia, pokazującą 37% redukcję CO₂e na deskę w porównaniu z deskami z pierwotnego PVC. Zespół Feliksa pozyskał 50 000 recyklingowanych butelek PET od berlińskiej spółdzielni recyklingowej na tkaninę torby i matę EVA pokładu (30% treści recyklingowej). Premia za materiały zrównoważone wyniosła 18 EUR na deskę, którą OLagoon wchłonął we własną marżę, pomagając UrbanPulse osiągnąć docelową cenę detaliczną.',
             },
             {
               title: 'Krok 2: Realizacja neutralna węglowo i architektura logistyki DTC',
               detail:
-                'Zespół logistyczny Afarer połączył się z DHL GoGreen Climate Neutral dla konta UrbanPulse, kompensując 1,8 kg CO₂ na wysłaną deskę (obejmując fracht morski z Chin do Hamburga i dostawę ostatniej mili). W magazynie UrbanPulse w Kolonii uruchomiono dedykowaną strefę realizacji 200 m² z niestandardowymi regałami na pudełka pompowanych SUP. Każda przesyłka zawierała przedpłaconą etykietę zwrotną na kartonowe pudełko (drukowane na w 100% recyklingowanym kartonie z certyfikatem FSC farbami sojowymi). Projekt opakowania Afarer wyeliminował wszystkie jednorazowe tworzywa sztuczne: deska była owinięta kompostowalną folią PBAT/PLA, akcesoria mocowane taśmą papierową, a instrukcja użytkowania drukowana na papierze z nasionami (posadź go po przeczytaniu).',
+                'Zespół logistyczny OLagoon połączył się z DHL GoGreen Climate Neutral dla konta UrbanPulse, kompensując 1,8 kg CO₂ na wysłaną deskę (obejmując fracht morski z Chin do Hamburga i dostawę ostatniej mili). W magazynie UrbanPulse w Kolonii uruchomiono dedykowaną strefę realizacji 200 m² z niestandardowymi regałami na pudełka pompowanych SUP. Każda przesyłka zawierała przedpłaconą etykietę zwrotną na kartonowe pudełko (drukowane na w 100% recyklingowanym kartonie z certyfikatem FSC farbami sojowymi). Projekt opakowania OLagoon wyeliminował wszystkie jednorazowe tworzywa sztuczne: deska była owinięta kompostowalną folią PBAT/PLA, akcesoria mocowane taśmą papierową, a instrukcja użytkowania drukowana na papierze z nasionami (posadź go po przeczytaniu).',
             },
             {
               title: 'Krok 3: Integracja Shopify, treści przeddebiutowe i strategia influencerów',
               detail:
-                'Zespół e-commerce Afarer zintegrował sklep Shopify UrbanPulse z niestandardowym konfiguratorem produktu, pozwalającym klientom wybrać kolor deski (3 opcje), kolor wiosła (2 opcje) i dodać «znaczek zrównoważoności» z numerem seryjnym deski i dokładną ilością treści recyklingowej (w gramach). Afarer wyprodukował 6 krótkich materiałów wideo (15–45 sekund) z berlińskimi influencerami SUP «GreenPaddle» i «ElisePaddlesBerlin» (łącznie 72 000 obserwujących). Treści podkreślały «miejski paddleboarding» na kanałach i jeziorach Berlina, pozycjonując SUP jako weekendową aktywność mieszkańców miast. Kampania e-mailowa przed debiutem (wysłana do 12 000 subskrybentów UrbanPulse) osiągnęła 34% open rate i 2 100 kliknięć na stronę produktu.',
+                'Zespół e-commerce OLagoon zintegrował sklep Shopify UrbanPulse z niestandardowym konfiguratorem produktu, pozwalającym klientom wybrać kolor deski (3 opcje), kolor wiosła (2 opcje) i dodać «znaczek zrównoważoności» z numerem seryjnym deski i dokładną ilością treści recyklingowej (w gramach). OLagoon wyprodukował 6 krótkich materiałów wideo (15–45 sekund) z berlińskimi influencerami SUP «GreenPaddle» i «ElisePaddlesBerlin» (łącznie 72 000 obserwujących). Treści podkreślały «miejski paddleboarding» na kanałach i jeziorach Berlina, pozycjonując SUP jako weekendową aktywność mieszkańców miast. Kampania e-mailowa przed debiutem (wysłana do 12 000 subskrybentów UrbanPulse) osiągnęła 34% open rate i 2 100 kliknięć na stronę produktu.',
             },
             {
               title: 'Krok 4: Debiut, ekspansja kanałów i decyzja o zamówieniu uzupełniającym',
               detail:
-                'Kolekcja UrbanPulse SUP zadebiutowała 1 czerwca 2023 z 500 sztukami (350 uniwersalnych, 150 touringowych). Sell-through w pierwszym tygodniu wyniósł 112 sztuk (22,4%). Planiści popytu Afarer dostosowali strategię PPC w Google Shopping i Meta, przenosząc budżet na słowa kluczowe o wysokiej intencji, takie jak «nachhaltiges SUP kaufen» (zrównoważone SUP kup). W 8. tygodniu deska uniwersalna była numerem 2 najlepiej sprzedających się SUP na niemieckim rynku DTC Shopify (za bezpośrednią sprzedażą Fanatica). W sierpniu 2023 Felix zawarł partnerstwo ze SportScheck, lokując 80 desk w 8 sklepach z dedykowanymi ekspozycjami «Sustainable Sports». Do grudnia 2023 całkowite przychody osiągnęły 487 000 EUR, a deska uniwersalna wnosiała 71% sprzedaży. Druga partia 800 sztuk została zamówiona na luty 2024.',
+                'Kolekcja UrbanPulse SUP zadebiutowała 1 czerwca 2023 z 500 sztukami (350 uniwersalnych, 150 touringowych). Sell-through w pierwszym tygodniu wyniósł 112 sztuk (22,4%). Planiści popytu OLagoon dostosowali strategię PPC w Google Shopping i Meta, przenosząc budżet na słowa kluczowe o wysokiej intencji, takie jak «nachhaltiges SUP kaufen» (zrównoważone SUP kup). W 8. tygodniu deska uniwersalna była numerem 2 najlepiej sprzedających się SUP na niemieckim rynku DTC Shopify (za bezpośrednią sprzedażą Fanatica). W sierpniu 2023 Felix zawarł partnerstwo ze SportScheck, lokując 80 desk w 8 sklepach z dedykowanymi ekspozycjami «Sustainable Sports». Do grudnia 2023 całkowite przychody osiągnęły 487 000 EUR, a deska uniwersalna wnosiała 71% sprzedaży. Druga partia 800 sztuk została zamówiona na luty 2024.',
             },
           ],
           results: [
@@ -2779,8 +2779,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego OLagoon',
       items: [
         {
           title: 'Dyferencjacja produktów',
@@ -2811,7 +2811,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jak mogę wyróżnić swój produkt SUP na Amazonie?',
         answer:
-          'Afarer pomaga tworzyć unikalną grafikę desek, niestandardowe systemy kolorów, ulepszone zestawy akcesoriów i opakowania skupione na marce, które wyróżniają Twój produkt na tle identycznych listingów konkurencji.',
+          'OLagoon pomaga tworzyć unikalną grafikę desek, niestandardowe systemy kolorów, ulepszone zestawy akcesoriów i opakowania skupione na marce, które wyróżniają Twój produkt na tle identycznych listingów konkurencji.',
       },
       {
         question: "Jaka jest minimalna wielkość zamówienia dla sprzedawców na marketplace'ach?",
@@ -2821,7 +2821,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy możecie pomóc z treścią i zdjęciami listingu Amazon?',
         answer:
-          'Tak. Afarer zapewnia wsparcie wizualne e-commerce, w tym koncepcje zdjęć hero, zdjęcia funkcji, kierownictwo fotografii lifestylowej i organizację informacji o produkcie.',
+          'Tak. OLagoon zapewnia wsparcie wizualne e-commerce, w tym koncepcje zdjęć hero, zdjęcia funkcji, kierownictwo fotografii lifestylowej i organizację informacji o produkcie.',
       },
       {
         question: 'Jak szybko potraficie wyprodukować i wysłać moje niestandardowe zamówienie SUP?',
@@ -2836,7 +2836,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy możecie pomóc mi rozszerzyć się z jednego produktu SUP na pełną markę?',
         answer:
-          'Tak. Afarer wspiera kompleksowy rozwój portfolio produktów, w tym wiele modeli SUP i akcesoriów outdoorowych dla ekspansji marki.',
+          'Tak. OLagoon wspiera kompleksowy rozwój portfolio produktów, w tym wiele modeli SUP i akcesoriów outdoorowych dla ekspansji marki.',
       },
     ],
     cta: {
@@ -2853,15 +2853,15 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Rozszerz markę outdoorową na sporty wodne | Producent desk SUP OEM | {SITE}',
       description:
-        'Afarer pomaga ustabilizowanym markom outdoorowym rozszerzać działalność na sporty wodne dzięki niestandardowej produkcji SUP, technologii Drop Stitch, kompetencjom w zakresie PVC, deskom private label i kompleksowym rozwiązaniom w zakresie rozwoju produktów.',
+        'OLagoon pomaga ustabilizowanym markom outdoorowym rozszerzać działalność na sporty wodne dzięki niestandardowej produkcji SUP, technologii Drop Stitch, kompetencjom w zakresie PVC, deskom private label i kompleksowym rozwiązaniom w zakresie rozwoju produktów.',
     },
     hero: {
       tagline: 'Rozszerz swoją markę outdoorową na sporty wodne™',
       title: 'Ekspansja produktów sportów wodnych dla ugruntowanych marek outdoorowych',
       subtitle:
-        'Afarer pomaga ugruntowanym markom outdoorowym wchodzić w sporty wodne dzięki niestandardowej produkcji SUP, technologii Drop Stitch, kompetencjom w zakresie PVC, deskom private label i kompleksowym rozwiązaniom rozwoju produktów.',
+        'OLagoon pomaga ugruntowanym markom outdoorowym wchodzić w sporty wodne dzięki niestandardowej produkcji SUP, technologii Drop Stitch, kompetencjom w zakresie PVC, deskom private label i kompleksowym rozwiązaniom rozwoju produktów.',
       image: {
-        alt: 'Opis niestandardowych desk SUP Afarer',
+        alt: 'Opis niestandardowych desk SUP OLagoon',
       },
     },
     challenge: {
@@ -2965,7 +2965,7 @@ const pl: Record<string, SolutionOverride> = {
       customer:
         'Europejska marka outdoorowego stylu życia, pierwotnie skoncentrowana na sprzęcie kempingowym, akcesoriach outdoorowych i produktach przygodowego stylu życia, z silną siecią detaliczną i lojalną bazą klientów.',
       steps: [
-        'Afarer przeanalizował pozycjonowanie marki i zarekomendował strategię premium kolekcji SUP obejmującej SUP uniwersalne, SUP touringowe i akcesoria w duchu hasła «outdoorowa przygoda od lądu do wody».',
+        'OLagoon przeanalizował pozycjonowanie marki i zarekomendował strategię premium kolekcji SUP obejmującej SUP uniwersalne, SUP touringowe i akcesoria w duchu hasła «outdoorowa przygoda od lądu do wody».',
         'Opracowano uniwersalne SUP 10\'6" o wysokiej stabilności, premium konstrukcji i wzornictwie outdoorowego stylu życia oraz SUP touringowe 12\'6" o osiągach przygodowych i możliwościach długodystansowych.',
         'Stworzono niestandardową grafikę, kolory marki, opakowania i system akcesoriów idealnie dopasowany do istniejącej tożsamości marki outdoorowej.',
         'Debiut przy początkowym zamówieniu 1000 sztuk dystrybuowanym przez istniejących dealerów, kanały e-commerce i detalistów outdoorowych.',
@@ -2990,22 +2990,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Analiza rynku i planowanie architektury produktów',
               detail:
-                'W marcu 2023 zespół analityczny Afarer przeanalizował 18 miesięcy danych o sprzedaży SUP od 120 amerykańskich i kanadyjskich detalistów. Zidentyfikowano najszybciej rosnący segment: uniwersalne SUP o długości od 10\'6" do 11\'6" w cenie 749–999 CAD, którego sprzedaż wzrosła o 34% rok do roku. Afarer zaproponował skład z 4 SKU: uniwersalna deska «Discovery» 10\'6" (cena docelowa 799 CAD), deska touringowa «Expedition» 11\'6" (949 CAD), SUP do jogi i fitness «Crossover» 10\'2" (699 CAD) oraz SUP wędkarski «Angler» z wyjmowanym systemem mocowania skrzynki (1 049 CAD). Henrik przyjął propozycję w kwietniu z docelową datą debiutu w lutym 2024, na wiosenny sezon zakupów detalicznych.',
+                'W marcu 2023 zespół analityczny OLagoon przeanalizował 18 miesięcy danych o sprzedaży SUP od 120 amerykańskich i kanadyjskich detalistów. Zidentyfikowano najszybciej rosnący segment: uniwersalne SUP o długości od 10\'6" do 11\'6" w cenie 749–999 CAD, którego sprzedaż wzrosła o 34% rok do roku. OLagoon zaproponował skład z 4 SKU: uniwersalna deska «Discovery» 10\'6" (cena docelowa 799 CAD), deska touringowa «Expedition» 11\'6" (949 CAD), SUP do jogi i fitness «Crossover» 10\'2" (699 CAD) oraz SUP wędkarski «Angler» z wyjmowanym systemem mocowania skrzynki (1 049 CAD). Henrik przyjął propozycję w kwietniu z docelową datą debiutu w lutym 2024, na wiosenny sezon zakupów detalicznych.',
             },
             {
               title: 'Krok 2: Integracja projektu cobrandowego i zgodność z wymogami handlu',
               detail:
-                'Przez 8 tygodni projektanci Afarer współpracowali z wancouverskim zespołem kreatywnym North Ridge nad tożsamością wizualną łączącą górską estetykę marki ze sportami wodnymi. Finalny projekt wykorzystywał charakterystyczną dla North Ridge paletę grafitu i żaru wraz z topograficznymi liniami na macie pokładu. Afarer zapewnił, że wszystkie deski spełniają wymogi dostawcy REI: opakowania z kartonu z certyfikatem FSC, torby z recyklingowanego PET oraz zgodność z kalifornijską Proposition 65 dotyczącą ftalanów i metali ciężkich. 14-stronicowa karta specyfikacji Product Information Management (PIM) została złożona do portalu dostawców REI 1 października 2023.',
+                'Przez 8 tygodni projektanci OLagoon współpracowali z wancouverskim zespołem kreatywnym North Ridge nad tożsamością wizualną łączącą górską estetykę marki ze sportami wodnymi. Finalny projekt wykorzystywał charakterystyczną dla North Ridge paletę grafitu i żaru wraz z topograficznymi liniami na macie pokładu. OLagoon zapewnił, że wszystkie deski spełniają wymogi dostawcy REI: opakowania z kartonu z certyfikatem FSC, torby z recyklingowanego PET oraz zgodność z kalifornijską Proposition 65 dotyczącą ftalanów i metali ciężkich. 14-stronicowa karta specyfikacji Product Information Management (PIM) została złożona do portalu dostawców REI 1 października 2023.',
             },
             {
               title: 'Krok 3: Sesje zdjęciowe, teksty i prezentacje przeddebiutowe dla kupujących',
               detail:
-                'Afarer wyprodukował 230 materiałów dla kolekcji: studyjne zdjęcia produktów na białym tle, zdjęcia lifestylowe zrobione nad jeziorem Garibaldi (1500 m n.p.m. w Kolumbii Brytyjskiej) oraz fotografie obrotowe 360 stopni. Napisano zlokalizowane opisy produktów po angielsku i kanadyjskiej francuszczyźnie dla detalistów z Quebecu. Zespół wsparcia sprzedaży Afarer przygotował 22-stronicową prezentację dla detalistów z analizą konkurencji wobec marek takich jak BOTE i Isle, prognozami marży pokazującymi 48% marży brutto dla detalistów oraz danymi sell-through z rynków testowych. Henrik i szef sprzedaży Afarer zaprezentowali ofertę krajowemu kupującemu REI 15 listopada 2023, uzyskując zobowiązania od 34 sklepów REI.',
+                'OLagoon wyprodukował 230 materiałów dla kolekcji: studyjne zdjęcia produktów na białym tle, zdjęcia lifestylowe zrobione nad jeziorem Garibaldi (1500 m n.p.m. w Kolumbii Brytyjskiej) oraz fotografie obrotowe 360 stopni. Napisano zlokalizowane opisy produktów po angielsku i kanadyjskiej francuszczyźnie dla detalistów z Quebecu. Zespół wsparcia sprzedaży OLagoon przygotował 22-stronicową prezentację dla detalistów z analizą konkurencji wobec marek takich jak BOTE i Isle, prognozami marży pokazującymi 48% marży brutto dla detalistów oraz danymi sell-through z rynków testowych. Henrik i szef sprzedaży OLagoon zaprezentowali ofertę krajowemu kupującemu REI 15 listopada 2023, uzyskując zobowiązania od 34 sklepów REI.',
             },
             {
               title: 'Krok 4: Pierwsza partia produkcyjna, magazynowanie i wyniki sprzedaży',
               detail:
-                'Produkcja 2 800 sztuk w 4 SKU rozpoczęła się w grudniu 2023 w zakładzie Afarer w Dongguan. Afarer zorganizował transport morski do Vancouver z datą przypływu 22 stycznia 2024. Pierwsze 800 sztuk przekierowano bezpośrednio do centrum realizacji North Ridge w Mississauga na dystrybucję we wschodniej Kanadzie. Do 1 marca 2024 kolekcja była dostępna na półkach 34 sklepów REI, w 18 lokalizacjach MEC oraz na NorthRidgeGear.com. Deska Discovery sprzedała się w liczbie 340 sztuk samego marca — 136% prognozy. Do czerwca 2024 przychody z całej kolekcji osiągnęły 678 000 CAD, a SUP wędkarski Angler miał zamówienia wstępne aż do sierpnia.',
+                'Produkcja 2 800 sztuk w 4 SKU rozpoczęła się w grudniu 2023 w zakładzie OLagoon w Dongguan. OLagoon zorganizował transport morski do Vancouver z datą przypływu 22 stycznia 2024. Pierwsze 800 sztuk przekierowano bezpośrednio do centrum realizacji North Ridge w Mississauga na dystrybucję we wschodniej Kanadzie. Do 1 marca 2024 kolekcja była dostępna na półkach 34 sklepów REI, w 18 lokalizacjach MEC oraz na NorthRidgeGear.com. Deska Discovery sprzedała się w liczbie 340 sztuk samego marca — 136% prognozy. Do czerwca 2024 przychody z całej kolekcji osiągnęły 678 000 CAD, a SUP wędkarski Angler miał zamówienia wstępne aż do sierpnia.',
             },
           ],
           results: [
@@ -3027,22 +3027,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Innowacje materiałowe pod zgodność z normami europejskimi',
               detail:
-                'Zespół badawczo-rozwojowy Afarer w Guangzhou spędził 10 tygodni nad opracowaniem autorskiego laminatu PVC 5-warstwowego, który przewyższa unijne normy bezpieczeństwa chemicznego REACH oraz niemieckie wymagania certyfikacji bezpieczeństwa GS. Pozyskano przędzę drop-stitch klasy tekstylnej od niemieckiego dostawcy (Karl Mayer Technische Textilien), aby sprostać kierunkowi marketingowemu AlpenWerk «Made with German Technology». W lipcu 2023 wyprodukowano cztery deski prototypowe i wysłano do TÜV Rheinland. Dwie nie przeszły wstępnej certyfikacji GS z powodu niewystarczającej odporności na ścieranie w okolicy maty ogonowej, co wymagało 12% zwiększenia grubości warstwy powierzchniowej PVC z 0,8 mm do 0,9 mm.',
+                'Zespół badawczo-rozwojowy OLagoon w Guangzhou spędził 10 tygodni nad opracowaniem autorskiego laminatu PVC 5-warstwowego, który przewyższa unijne normy bezpieczeństwa chemicznego REACH oraz niemieckie wymagania certyfikacji bezpieczeństwa GS. Pozyskano przędzę drop-stitch klasy tekstylnej od niemieckiego dostawcy (Karl Mayer Technische Textilien), aby sprostać kierunkowi marketingowemu AlpenWerk «Made with German Technology». W lipcu 2023 wyprodukowano cztery deski prototypowe i wysłano do TÜV Rheinland. Dwie nie przeszły wstępnej certyfikacji GS z powodu niewystarczającej odporności na ścieranie w okolicy maty ogonowej, co wymagało 12% zwiększenia grubości warstwy powierzchniowej PVC z 0,8 mm do 0,9 mm.',
             },
             {
               title: 'Krok 2: Negocjacje z kupującymi i opakowania gotowe na półkę',
               detail:
-                'Lena i europejski dyrektor sprzedaży Afarer zaprezentowali kolekcję na targach ISPO w Monachium w listopadzie 2023. Uzyskali zamówienia wstępne od 38 lokalizacji Intersport, 12 sklepów Globetrotter oraz Bergfreunde.de. Afarer zaprojektował detaliczne opakowania gotowe na półkę zgodne z niemiecką ustawą opakowaniową (VerpackG): w 100% nadającym się do recyklingu pudełku z kartonu drukowanym farbami sojowymi, bez folii kurczliwej z plastiku oraz z kodem QR prowadzącym do 3-minutowego filmu montażowego po niemiecku. Opakowanie kosztowało 4,20 EUR za sztukę, ale wyeliminowało uszkodzenia w sklepach, które u konkurujących marek korzystających z toreb plastikowych sięgały 2,3%.',
+                'Lena i europejski dyrektor sprzedaży OLagoon zaprezentowali kolekcję na targach ISPO w Monachium w listopadzie 2023. Uzyskali zamówienia wstępne od 38 lokalizacji Intersport, 12 sklepów Globetrotter oraz Bergfreunde.de. OLagoon zaprojektował detaliczne opakowania gotowe na półkę zgodne z niemiecką ustawą opakowaniową (VerpackG): w 100% nadającym się do recyklingu pudełku z kartonu drukowanym farbami sojowymi, bez folii kurczliwej z plastiku oraz z kodem QR prowadzącym do 3-minutowego filmu montażowego po niemiecku. Opakowanie kosztowało 4,20 EUR za sztukę, ale wyeliminowało uszkodzenia w sklepach, które u konkurujących marek korzystających z toreb plastikowych sięgały 2,3%.',
             },
             {
               title: 'Krok 3: Europejska logistyka magazynowa i dystrybucja ostatniej mili',
               detail:
-                'Afarer pomógł AlpenWerk utworzyć centrum dystrybucyjne w magazynie 3PL w Dortmundzie o pojemności 3 000 sztuk. Wynegocjowano warunki wysyłki DDP ze spedytorem z Ningbo, obejmujące odprawę celną w porcie Hamburg i transport ciężarowy do Dortmundu w ciągu 5 dni roboczych od przypłynięcia statku. Stany magazynowe skonfigurowano w systemie Kanban: gdy zapasy spadały poniżej 400 sztuk, automatycznie uruchamiane było zamówienie do fabryki Afarer z czasem realizacji 45 dni. Pierwszy kontener z 1 500 sztuk dotarł 15 lutego 2024, a drugi z 1 200 sztuk 10 kwietnia.',
+                'OLagoon pomógł AlpenWerk utworzyć centrum dystrybucyjne w magazynie 3PL w Dortmundzie o pojemności 3 000 sztuk. Wynegocjowano warunki wysyłki DDP ze spedytorem z Ningbo, obejmujące odprawę celną w porcie Hamburg i transport ciężarowy do Dortmundu w ciągu 5 dni roboczych od przypłynięcia statku. Stany magazynowe skonfigurowano w systemie Kanban: gdy zapasy spadały poniżej 400 sztuk, automatycznie uruchamiane było zamówienie do fabryki OLagoon z czasem realizacji 45 dni. Pierwszy kontener z 1 500 sztuk dotarł 15 lutego 2024, a drugi z 1 200 sztuk 10 kwietnia.',
             },
             {
               title: 'Krok 4: Kampania debiutowa, partnerstwa z influencerami i tempo zamówień',
               detail:
-                'AlpenWerk wprowadził modele «SeeWolf» 10\'8", «Flussläufer» 11\'6" i «Gipfelstürmer» 12\'0" 1 marca 2024 we wszystkich kanałach detalicznych i na alpenwerk.de. Zespół contentowy Afarer wyprodukował 18 materiałów do mediów społecznościowych z udziałem niemieckich influencerów SUP, takich jak «SUP_mit_Michi» (43 000 obserwujących) i «PaddelPia» (28 000 obserwujących). Do 31 maja 2024 sprzedano 1 870 sztuk — 87% początkowej dostawy. Intersport złożył zamówienie uzupełniające na 450 sztuk 15 czerwca. Kanał internetowy direct-to-consumer Leny wygenerował 320 000 EUR przychodu przy marży brutto 54%, przewyższając początkowo zakładane 40%.',
+                'AlpenWerk wprowadził modele «SeeWolf» 10\'8", «Flussläufer» 11\'6" i «Gipfelstürmer» 12\'0" 1 marca 2024 we wszystkich kanałach detalicznych i na alpenwerk.de. Zespół contentowy OLagoon wyprodukował 18 materiałów do mediów społecznościowych z udziałem niemieckich influencerów SUP, takich jak «SUP_mit_Michi» (43 000 obserwujących) i «PaddelPia» (28 000 obserwujących). Do 31 maja 2024 sprzedano 1 870 sztuk — 87% początkowej dostawy. Intersport złożył zamówienie uzupełniające na 450 sztuk 15 czerwca. Kanał internetowy direct-to-consumer Leny wygenerował 320 000 EUR przychodu przy marży brutto 54%, przewyższając początkowo zakładane 40%.',
             },
           ],
           results: [
@@ -3054,8 +3054,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego OLagoon',
       items: [
         {
           title: 'Wiedza techniczna',
@@ -3088,7 +3088,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jak moja marka outdoorowa może wejść w sporty wodne bez doświadczenia w SUP?',
         answer:
-          'Afarer zapewnia kompletną wiedzę produkcyjną, w tym technologię Drop Stitch, inżynierię PVC i projektowanie produktów. Twoja marka wnosi wiedzę o klientach, a my zajmujemy się produkcją techniczną.',
+          'OLagoon zapewnia kompletną wiedzę produkcyjną, w tym technologię Drop Stitch, inżynierię PVC i projektowanie produktów. Twoja marka wnosi wiedzę o klientach, a my zajmujemy się produkcją techniczną.',
       },
       {
         question: 'Jakie produkty sportów wodnych potraficie produkować?',
@@ -3098,7 +3098,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy potraficie sprostać istniejącym standardom jakości mojej marki?',
         answer:
-          'Tak. Afarer opracowuje produkty zgodnie z językiem projektowym Twojej marki, standardami jakości i pozycjonowaniem rynkowym, z rygorystyczną kontrolą jakości w całej produkcji.',
+          'Tak. OLagoon opracowuje produkty zgodnie z językiem projektowym Twojej marki, standardami jakości i pozycjonowaniem rynkowym, z rygorystyczną kontrolą jakości w całej produkcji.',
       },
       {
         question: 'Jakie typowe wolumeny zamówień obsługujecie dla ugruntowanych marek?',
@@ -3130,7 +3130,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent pompowanych desek SUP OEM dla marek sportów wodnych | {SITE}',
       description:
-        'Afarer pomaga markom kajaków, kanadyjek, żeglarstwa i nurkowania rozszerzać działalność na pompowane deski SUP dzięki profesjonalnej technologii Drop Stitch, produkcji OEM i kompleksowym rozwiązaniom produktów sportów wodnych.',
+        'OLagoon pomaga markom kajaków, kanadyjek, żeglarstwa i nurkowania rozszerzać działalność na pompowane deski SUP dzięki profesjonalnej technologii Drop Stitch, produkcji OEM i kompleksowym rozwiązaniom produktów sportów wodnych.',
     },
     hero: {
       tagline: 'Rozszerz swoje portfolio sportów wodnych™',
@@ -3171,13 +3171,13 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Dojrzała technologia produkcji inflatable SUP',
           description:
-            'Afarer zapewnia profesjonalną technologię Drop Stitch dla wysokociśnieniowych konstrukcji inflatable o sztywności desek kompozytowych, wielowarstwową konstrukcję PVC dla trwałości i profesjonalną technologię spawania dla mocnych szwów.',
+            'OLagoon zapewnia profesjonalną technologię Drop Stitch dla wysokociśnieniowych konstrukcji inflatable o sztywności desek kompozytowych, wielowarstwową konstrukcję PVC dla trwałości i profesjonalną technologię spawania dla mocnych szwów.',
           features: ['Technologia Drop Stitch', 'Wielowarstwowa konstrukcja PVC', 'Profesjonalna technologia spawania'],
         },
         {
           title: 'Kompletny rozwój portfolio produktów SUP',
           description:
-            'Afarer zapewnia sprawdzone platformy produktowe, w tym SUP uniwersalne dla początkujących i rodzin, SUP touringowe dla użytkowników przygodowych, SUP wędkarskie z systemami mocowań, SUP jogowe dla rynków wellness i SUP dziecięce.',
+            'OLagoon zapewnia sprawdzone platformy produktowe, w tym SUP uniwersalne dla początkujących i rodzin, SUP touringowe dla użytkowników przygodowych, SUP wędkarskie z systemami mocowań, SUP jogowe dla rynków wellness i SUP dziecięce.',
           features: [
             'Seria SUP uniwersalnych',
             'Seria SUP touringowych',
@@ -3189,37 +3189,37 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Rozwój produktów OEM i ODM',
           description:
-            'Afarer wspiera produkcję private label z logo marki i opakowaniami, modyfikacje produktów pod kątem wymiarów i funkcji oraz ekskluzywne kolekcje modeli specyficznych dla marki i produktów sezonowych.',
+            'OLagoon wspiera produkcję private label z logo marki i opakowaniami, modyfikacje produktów pod kątem wymiarów i funkcji oraz ekskluzywne kolekcje modeli specyficznych dla marki i produktów sezonowych.',
           features: ['Produkcja private label', 'Modyfikacja produktów', 'Ekskluzywne kolekcje'],
         },
         {
           title: 'Program szybkiego wejścia na rynek',
           description:
-            'Afarer pomaga skrócić czas rozwoju dzięki istniejącym platformom produktowym ze sprawdzonymi kształtami desk i przetestowanymi konstrukcjami, szybkiemu prototypowaniu od rozmowy po produkcję oraz szybszej komercyjnej premierze pozwalającej wykorzystać okazje sezonowe.',
+            'OLagoon pomaga skrócić czas rozwoju dzięki istniejącym platformom produktowym ze sprawdzonymi kształtami desk i przetestowanymi konstrukcjami, szybkiemu prototypowaniu od rozmowy po produkcję oraz szybszej komercyjnej premierze pozwalającej wykorzystać okazje sezonowe.',
           features: ['Istniejące platformy produktowe', 'Szybkie prototypowanie', 'Szybsza komercyjna premiera'],
         },
         {
           title: 'Integracja produktów zgodna z marką',
           description:
-            'Afarer współpracuje z menedżerami marek nad spójnym językiem projektowania produktów — kolorami, grafiką i materiałami — z istniejącą tożsamością marki w pozycjonowaniu przygodowym, rodzinnym i premium marine.',
+            'OLagoon współpracuje z menedżerami marek nad spójnym językiem projektowania produktów — kolorami, grafiką i materiałami — z istniejącą tożsamością marki w pozycjonowaniu przygodowym, rodzinnym i premium marine.',
           features: ['Język projektowania produktów', 'Pozycjonowanie klientów', 'Spójność z marką'],
         },
         {
           title: 'Rozwój akcesoriów i kompletnych pakietów',
           description:
-            'Afarer wspiera akcesoria SUP, w tym wiosła, pompy, leashy, torby i zestawy naprawcze, a także zestawy produktowe jak pakiety dla początkujących, pakiety przygodowe i pakiety rodzinne.',
+            'OLagoon wspiera akcesoria SUP, w tym wiosła, pompy, leashy, torby i zestawy naprawcze, a także zestawy produktowe jak pakiety dla początkujących, pakiety przygodowe i pakiety rodzinne.',
           features: ['Akcesoria SUP', 'Zestawy produktowe', 'Rozwój pakietów'],
         },
         {
           title: 'Integracja łańcucha dostaw',
           description:
-            'Dla ugruntowanych marek Afarer zapewnia stabilną moc produkcyjną 500–10 000 zestawów rocznie, planowanie roczne dla roadmapy produktów i produkcji sezonowej oraz spójność jakości we wszystkich specyfikacjach.',
+            'Dla ugruntowanych marek OLagoon zapewnia stabilną moc produkcyjną 500–10 000 zestawów rocznie, planowanie roczne dla roadmapy produktów i produkcji sezonowej oraz spójność jakości we wszystkich specyfikacjach.',
           features: ['Stabilna moc produkcyjna', 'Planowanie roczne', 'Spójność jakości'],
         },
         {
           title: 'Wsparcie kontroli jakości',
           description:
-            'Procesy jakości Afarer obejmują inspekcję materiałową PVC i tkanin Drop Stitch, monitoring produkcji spawania i montażu oraz finalną inspekcję wydajności produktów, akcesoriów i opakowań.',
+            'Procesy jakości OLagoon obejmują inspekcję materiałową PVC i tkanin Drop Stitch, monitoring produkcji spawania i montażu oraz finalną inspekcję wydajności produktów, akcesoriów i opakowań.',
           features: ['Inspekcja materiałowa', 'Monitoring produkcji', 'Finalna inspekcja'],
         },
       ],
@@ -3236,7 +3236,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Rozwój strategii produktowej',
           detail:
-            'Afarer przeanalizował istniejącą bazę klientów marki, pozycjonowanie rynkowe i segment cenowy, by rekomendować rozszerzenie rodziny produktów SUP spójne z ich marką.',
+            'OLagoon przeanalizował istniejącą bazę klientów marki, pozycjonowanie rynkowe i segment cenowy, by rekomendować rozszerzenie rodziny produktów SUP spójne z ich marką.',
         },
         {
           title: 'Stworzenie portfolio produktów',
@@ -3273,22 +3273,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Planowanie portfolio produktów i adaptacja do rynku brazylijskiego',
               detail:
-                'Pedro odwiedził zakład Afarer w Shenzhen w styczniu 2025 z dyrektorem produktu i projektantem przemysłowym na 5-dniowe warsztaty współpracy. Wybrali 10 modeli SUP — 4 uniwersalne, 3 touringowe, 2 wędkarskie i 1 platformę jogową. Inżynierowie Afarer zmodyfikowali każdy produkt pod warunki brazylijskie, w tym PVC odporne na UV pod tropikalne słońce, wzmocnione kadłuby na kamieniste dna rzek w Minas Gerais i kolorystykę inspirowaną flagą Brazylii i motywami amazońskiej dżungli. Pedro złożył początkowe zamówienie 3,2 mln BRL na 4 500 sztuk, z 30% depozytem i resztą płatną przy konosamencie.',
+                'Pedro odwiedził zakład OLagoon w Shenzhen w styczniu 2025 z dyrektorem produktu i projektantem przemysłowym na 5-dniowe warsztaty współpracy. Wybrali 10 modeli SUP — 4 uniwersalne, 3 touringowe, 2 wędkarskie i 1 platformę jogową. Inżynierowie OLagoon zmodyfikowali każdy produkt pod warunki brazylijskie, w tym PVC odporne na UV pod tropikalne słońce, wzmocnione kadłuby na kamieniste dna rzek w Minas Gerais i kolorystykę inspirowaną flagą Brazylii i motywami amazońskiej dżungli. Pedro złożył początkowe zamówienie 3,2 mln BRL na 4 500 sztuk, z 30% depozytem i resztą płatną przy konosamencie.',
             },
             {
               title: 'Integracja marki, lokalizacja portugalska i zgodność',
               detail:
-                'Zespół projektowy Afarer stworzył kompletną identyfikację wizualną «ÁguaVita Adventure», w tym logo, schematy kolorów, opakowania i materiały w punktach sprzedaży w brazylijskim języku portugalskim. Zespół ds. zgodności zarządzał certyfikacją INMETRO wszystkich 10 produktów (obowiązkową dla sprzętu sportowego w Brazylii) i opracował portugalskojęzyczne instrukcje obsługi z ilustrowanymi przewodnikami montażu dla brazylijskich odbiorców o niższym poziomie umiejętności czytania. Afarer wyprodukował 200 sztuk przedprodukcyjnych wysłanych transportem lotniczym w marcu 2025 dla 50 najlepszych dealerów Pedra do oceny — 46 z 50 złożyło początkowe zamówienia o średniej wartości 48 tys. BRL.',
+                'Zespół projektowy OLagoon stworzył kompletną identyfikację wizualną «ÁguaVita Adventure», w tym logo, schematy kolorów, opakowania i materiały w punktach sprzedaży w brazylijskim języku portugalskim. Zespół ds. zgodności zarządzał certyfikacją INMETRO wszystkich 10 produktów (obowiązkową dla sprzętu sportowego w Brazylii) i opracował portugalskojęzyczne instrukcje obsługi z ilustrowanymi przewodnikami montażu dla brazylijskich odbiorców o niższym poziomie umiejętności czytania. OLagoon wyprodukował 200 sztuk przedprodukcyjnych wysłanych transportem lotniczym w marcu 2025 dla 50 najlepszych dealerów Pedra do oceny — 46 z 50 złożyło początkowe zamówienia o średniej wartości 48 tys. BRL.',
             },
             {
               title: 'Premiera dealerska i dystrybucja ogólnokrajowa',
               detail:
-                'Główna wysyłka morska 4 300 sztuk dotarła do portu Santos 15 maja 2025 i przeszła odprawę celną w ciągu 5 dni. Zespół logistyczny Afarer skoordynował działanie z 5 regionalnymi centrami dystrybucyjnymi ÁguaVita w São Paulo, Rio de Janeiro, Belo Horizonte, Recife i Porto Alegre. 6-osobowy zespół sprzedaży Pedra zadebiutował linią na targach São Paulo Outdoor Sports Expo 2025 (12–15 czerwca) z pokazami na żywo w basenie z udziałem olimpijki kajakowej Isabelli Santos. W ciągu 4 dni ÁguaVita podpisała 340 nowych kont dealerskich specjalnie dla linii Adventure i sprzedała 800 sztuk bezpośrednio ze stoiska targowego.',
+                'Główna wysyłka morska 4 300 sztuk dotarła do portu Santos 15 maja 2025 i przeszła odprawę celną w ciągu 5 dni. Zespół logistyczny OLagoon skoordynował działanie z 5 regionalnymi centrami dystrybucyjnymi ÁguaVita w São Paulo, Rio de Janeiro, Belo Horizonte, Recife i Porto Alegre. 6-osobowy zespół sprzedaży Pedra zadebiutował linią na targach São Paulo Outdoor Sports Expo 2025 (12–15 czerwca) z pokazami na żywo w basenie z udziałem olimpijki kajakowej Isabelli Santos. W ciągu 4 dni ÁguaVita podpisała 340 nowych kont dealerskich specjalnie dla linii Adventure i sprzedała 800 sztuk bezpośrednio ze stoiska targowego.',
             },
             {
               title: 'Rozbudowa kategorii i przywództwo rynkowe',
               detail:
-                'Do listopada 2025 «ÁguaVita Adventure» sprzedała 6 200 sztuk we wszystkich 10 SKU, generując 16,2 mln BRL przychodów (35% powyżej celu 12 mln BRL). Model inflatable SUP «Ipanema 10\'6"» był pojedynczym najlepiej sprzedającym się produktem wszystkich kategorii ÁguaVita, w tym dotychczasowego sprzętu nurkowego. Pedro przypisał sukces spójności jakości Afarer — tylko 0,8% wadliwości wobec 4,2% u poprzednich dostawców sprzętu nurkowego. Złożył zamówienie na 8,5 mln BRL na 2026 rok, obejmujące 4 nowe modele SUP wędkarskich i deskę pedałową stand-up, pozycjonując ÁguaVita jako największą brazylijską firmę sportów wiosłowych.',
+                'Do listopada 2025 «ÁguaVita Adventure» sprzedała 6 200 sztuk we wszystkich 10 SKU, generując 16,2 mln BRL przychodów (35% powyżej celu 12 mln BRL). Model inflatable SUP «Ipanema 10\'6"» był pojedynczym najlepiej sprzedającym się produktem wszystkich kategorii ÁguaVita, w tym dotychczasowego sprzętu nurkowego. Pedro przypisał sukces spójności jakości OLagoon — tylko 0,8% wadliwości wobec 4,2% u poprzednich dostawców sprzętu nurkowego. Złożył zamówienie na 8,5 mln BRL na 2026 rok, obejmujące 4 nowe modele SUP wędkarskich i deskę pedałową stand-up, pozycjonując ÁguaVita jako największą brazylijską firmę sportów wiosłowych.',
             },
           ],
           results: [
@@ -3311,17 +3311,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Analiza składu floty i przegląd specyfikacji komercyjnej',
               detail:
-                'W sierpniu 2024 Kai i jego syn Mako (absolwent zarządzania w gościnności) współpracowali z dywizją Commercial Fleet Afarer nad projektem idealnej floty rentalowej. Po analizie 3 lat lokalnych danych turystycznych ustalili skład 60 desk SUP (30 uniwersalnych 10\'6", 15 touringowych 11\'6", 8 jogowych, 7 wędkarskich). Afarer zapewnił konstrukcję komercyjną ze wzmocnionym drop stitchem, dwuwarstwowymi rantami PVC, uchwytami D ze stali nierdzewnej (zamiast plastikowych) i zaworami komercyjnymi certyfikowanymi na ponad 100 000 cykli pompowania. Flota kosztowała łącznie 48 000 USD z dostawą (wobec 78 000 USD za porównywalne deski hawajskie), a Kai złożył zamówienie z 50% depozytem 1 września 2024.',
+                'W sierpniu 2024 Kai i jego syn Mako (absolwent zarządzania w gościnności) współpracowali z dywizją Commercial Fleet OLagoon nad projektem idealnej floty rentalowej. Po analizie 3 lat lokalnych danych turystycznych ustalili skład 60 desk SUP (30 uniwersalnych 10\'6", 15 touringowych 11\'6", 8 jogowych, 7 wędkarskich). OLagoon zapewnił konstrukcję komercyjną ze wzmocnionym drop stitchem, dwuwarstwowymi rantami PVC, uchwytami D ze stali nierdzewnej (zamiast plastikowych) i zaworami komercyjnymi certyfikowanymi na ponad 100 000 cykli pompowania. Flota kosztowała łącznie 48 000 USD z dostawą (wobec 78 000 USD za porównywalne deski hawajskie), a Kai złożył zamówienie z 50% depozytem 1 września 2024.',
             },
             {
               title: 'Szkolenie operacji rentalowych i konfiguracja logistyki',
               detail:
-                'Specjalista ds. operacji rentalowych Afarer spędził 4 dni w sklepie Kaia w październiku 2024, optymalizując przepływ wynajmu. Wdrożono system zarządzania flotą z deskami oznaczonymi kodami QR i aplikacją mobilną do zameldowań i wymeldowań, śledzenia uszkodzeń i harmonogramów konserwacji prewencyjnej. Afarer dostarczył 10 wydajnych pomp akumulatorowych do jednodniowej rotacji floty i niestandardowy system stojaków magazynowych maksymalizujący magazyn o powierzchni 55 m². Szkolenie obejmowało protokoły pompowania (każda deska napompowana do 12–15 PSI w niecałe 4 minuty pompami akumulatorowymi), listy kontrolne inspekcji, procedury napraw i ustandaryzowane odprawy bezpieczeństwa klientów dla całego personelu rentalowego.',
+                'Specjalista ds. operacji rentalowych OLagoon spędził 4 dni w sklepie Kaia w październiku 2024, optymalizując przepływ wynajmu. Wdrożono system zarządzania flotą z deskami oznaczonymi kodami QR i aplikacją mobilną do zameldowań i wymeldowań, śledzenia uszkodzeń i harmonogramów konserwacji prewencyjnej. OLagoon dostarczył 10 wydajnych pomp akumulatorowych do jednodniowej rotacji floty i niestandardowy system stojaków magazynowych maksymalizujący magazyn o powierzchni 55 m². Szkolenie obejmowało protokoły pompowania (każda deska napompowana do 12–15 PSI w niecałe 4 minuty pompami akumulatorowymi), listy kontrolne inspekcji, procedury napraw i ustandaryzowane odprawy bezpieczeństwa klientów dla całego personelu rentalowego.',
             },
             {
               title: 'Strategia cenowa, premiera i integracja rezerwacji online',
               detail:
-                "Kai uruchomił flotę 1 grudnia 2024 z cenami poziomowanymi — 35 USD/godz. za deskę SUP, 89 USD za pół dnia, 129 USD za cały dzień oraz stawki tygodniowe. Afarer pomógł Kaiowi zintegrować się z platformami rezerwacyjnymi FareHarbor i Peek Pro, stworzył profesjonalną fotografię produktową i opracował optymalizację wizytówki Google My Business, która przesunęła sklep Kai's ze strony 4 do top 3 lokalnych wyników wyszukiwania w ciągu 6 tygodni. Do 31 grudnia flota osiągnęła 42% wykorzystania, sprzedając 780 dni wynajmu mimo sezonu niskiego, generując 62 tys. USD samego w grudniu.",
+                "Kai uruchomił flotę 1 grudnia 2024 z cenami poziomowanymi — 35 USD/godz. za deskę SUP, 89 USD za pół dnia, 129 USD za cały dzień oraz stawki tygodniowe. OLagoon pomógł Kaiowi zintegrować się z platformami rezerwacyjnymi FareHarbor i Peek Pro, stworzył profesjonalną fotografię produktową i opracował optymalizację wizytówki Google My Business, która przesunęła sklep Kai's ze strony 4 do top 3 lokalnych wyników wyszukiwania w ciągu 6 tygodni. Do 31 grudnia flota osiągnęła 42% wykorzystania, sprzedając 780 dni wynajmu mimo sezonu niskiego, generując 62 tys. USD samego w grudniu.",
             },
             {
               title: 'Rampa sezonu szczytowego i planowanie rozbudowy',
@@ -3330,7 +3330,7 @@ const pl: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            '764 tys. USD całkowitych przychodów w pierwszym roku (12% powyżej celu 680 tys. USD), z czego 487 tys. USD czystego przychodu rentalowego z floty Afarer',
+            '764 tys. USD całkowitych przychodów w pierwszym roku (12% powyżej celu 680 tys. USD), z czego 487 tys. USD czystego przychodu rentalowego z floty OLagoon',
             '78% wykorzystania floty w szczytowych miesiącach letnich na wszystkich 60 deskach SUP, obsługa do 180 klientów dziennie',
             'Zwrot z inwestycji 48 tys. USD we flotę osiągnięty w zaledwie 3,5 miesiąca (od grudnia 2024 do połowy marca 2025)',
             'Wycena firmy wzrosła z 420 tys. USD do 1,8 mln USD w ciągu 12 miesięcy, umożliwiając przejęcie drugiej lokalizacji nadmorskiej w Kona',
@@ -3338,8 +3338,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego marki sportów wodnych wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego marki sportów wodnych wybierają OLagoon',
       items: [
         {
           title: 'Rynki sportów wodnych',
@@ -3375,7 +3375,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jak marka kajakowa lub kanadyjkowa może dodać produkty inflatable SUP bez budowy fabryki?',
         answer:
-          'Model partnerstwa OEM/ODM Afarer pozwala ugruntowanym markom sportów wodnych dodać produkty inflatable SUP, korzystając z naszej istniejącej infrastruktury produkcyjnej. Marki wykorzystują swoją bazę klientów i kanały dystrybucji, a Afarer zajmuje się inżynierią Drop Stitch, produkcją PVC, kontrolą jakości i zarządzaniem łańcuchem dostaw.',
+          'Model partnerstwa OEM/ODM OLagoon pozwala ugruntowanym markom sportów wodnych dodać produkty inflatable SUP, korzystając z naszej istniejącej infrastruktury produkcyjnej. Marki wykorzystują swoją bazę klientów i kanały dystrybucji, a OLagoon zajmuje się inżynierią Drop Stitch, produkcją PVC, kontrolą jakości i zarządzaniem łańcuchem dostaw.',
       },
       {
         question: 'Czym jest technologia Drop Stitch i dlaczego jest ważna dla produkcji SUP?',
@@ -3385,26 +3385,26 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy istniejące projekty i kolory marki można zastosować na produktach SUP?',
         answer:
-          'Tak, Afarer wspiera pełną integrację marki, w tym niestandardową grafikę, dopasowanie kolorów Pantone, aplikację logo i projekt opakowań. Współpracujemy z menedżerami marek, by produkty SUP były spójne z istniejącym językiem projektowania i pozycjonowaniem rynkowym.',
+          'Tak, OLagoon wspiera pełną integrację marki, w tym niestandardową grafikę, dopasowanie kolorów Pantone, aplikację logo i projekt opakowań. Współpracujemy z menedżerami marek, by produkty SUP były spójne z istniejącym językiem projektowania i pozycjonowaniem rynkowym.',
       },
       {
         question: 'Jaki jest typowy czas od koncepcji do rynku dla nowej linii produktów SUP?',
         answer:
-          'Korzystając z istniejących platform produktowych Afarer i procesu szybkiego prototypowania, marki mogą zazwyczaj przejść od koncepcji do produktów gotowych na rynek w 8–12 tygodni. Obejmuje to dobór produktów, personalizację projektu, zatwierdzenie prototypu, produkcję i wysyłkę.',
+          'Korzystając z istniejących platform produktowych OLagoon i procesu szybkiego prototypowania, marki mogą zazwyczaj przejść od koncepcji do produktów gotowych na rynek w 8–12 tygodni. Obejmuje to dobór produktów, personalizację projektu, zatwierdzenie prototypu, produkcję i wysyłkę.',
       },
       {
         question: 'Jakie minimalne wielkości zamówień są wymagane dla produkcji OEM/ODM SUP?',
         answer:
-          'Afarer wspiera szeroki zakres wolumenów, od 500 sztuk dla początkowych testów rynkowych po ponad 10 000 sztuk rocznie dla ugruntowanych programów. Planujemy wspólnie z markami wolumeny produkcji dopasowane do skali ich dystrybucji i popytu sezonowego.',
+          'OLagoon wspiera szeroki zakres wolumenów, od 500 sztuk dla początkowych testów rynkowych po ponad 10 000 sztuk rocznie dla ugruntowanych programów. Planujemy wspólnie z markami wolumeny produkcji dopasowane do skali ich dystrybucji i popytu sezonowego.',
       },
       {
-        question: 'Czy Afarer oferuje produkcję inflatable SUP obok istniejących linii produktów kajakowych?',
+        question: 'Czy OLagoon oferuje produkcję inflatable SUP obok istniejących linii produktów kajakowych?',
         answer:
-          'Tak, Afarer produkuje deski inflatable SUP w technologii Drop Stitch i spawania PVC. Pozwala to markom sportów wodnych dodać kompletną kategorię inflatable SUP przez jednego partnera produkcyjnego, zachowując istniejące produkty bez zmian.',
+          'Tak, OLagoon produkuje deski inflatable SUP w technologii Drop Stitch i spawania PVC. Pozwala to markom sportów wodnych dodać kompletną kategorię inflatable SUP przez jednego partnera produkcyjnego, zachowując istniejące produkty bez zmian.',
       },
     ],
     cta: {
-      title: 'Rozszerz swoją markę sportów wodnych z Afarerem',
+      title: 'Rozszerz swoją markę sportów wodnych z OLagoonem',
       subtitle: 'Masz już klientów. Masz już rynek. Teraz dodaj produkty, których chcą.',
       primaryAction: {
         text: 'Rozpocznij swój projekt rozszerzenia SUP już dziś',
@@ -3419,15 +3419,15 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Rozwiązania pompowanych desk SUP dla sklepów surfowych | Producent private label | {SITE}',
       description:
-        'Afarer pomaga sklepom surfowym i markom wodnego stylu życia rozwijać się dzięki pompowanym deskom SUP private label i niestandardowym produktom do sportów wodnych. Zmniejsz koszty wysyłki, magazynowania i zapasów dzięki zaawansowanej technologii pompowanej.',
+        'OLagoon pomaga sklepom surfowym i markom wodnego stylu życia rozwijać się dzięki pompowanym deskom SUP private label i niestandardowym produktom do sportów wodnych. Zmniejsz koszty wysyłki, magazynowania i zapasów dzięki zaawansowanej technologii pompowanej.',
     },
     hero: {
       tagline: 'Wprowadź technologię pompowaną do biznesu surfingowego™',
       title: 'Pompowane rozwiązania SUP dla sklepów surfingowych i nadmorskich firm',
       subtitle:
-        'Afarer pomaga sklepom surfingowym i markom wodnego stylu życia rozwijać się dzięki pompowanym SUP private label i niestandardowym produktom sportów wodnych. Obniż koszty wysyłki, przechowywania i zapasów dzięki zaawansowanej technologii pompowanej.',
+        'OLagoon pomaga sklepom surfingowym i markom wodnego stylu życia rozwijać się dzięki pompowanym SUP private label i niestandardowym produktom sportów wodnych. Obniż koszty wysyłki, przechowywania i zapasów dzięki zaawansowanej technologii pompowanej.',
       image: {
-        alt: 'Opis niestandardowych desk SUP Afarer',
+        alt: 'Opis niestandardowych desk SUP OLagoon',
       },
     },
     challenge: {
@@ -3541,7 +3541,7 @@ const pl: Record<string, SolutionOverride> = {
       customer:
         'Europejska marka nadmorskiego sklepu surfingowego położona na atlantyckim wybrzeżu Europy. Pierwotnie skoncentrowana na deskach surfingowych, akcesoriach surfingowych i produktach plażowego stylu życia, z silną lokalną społecznością klientów.',
       steps: [
-        "Afarer zarekomendował kolekcję pompowanych SUP obejmującą uniwersalne SUP 10'6, SUP touringowe 12'6 i pakiety rodzinne, dopasowane do nadmorskiej lokalizacji sklepu i bazy klientów.",
+        "OLagoon zarekomendował kolekcję pompowanych SUP obejmującą uniwersalne SUP 10'6, SUP touringowe 12'6 i pakiety rodzinne, dopasowane do nadmorskiej lokalizacji sklepu i bazy klientów.",
         'Stworzono niestandardową grafikę desek, kolory marki i opakowania detaliczne spójne z istniejącą tożsamością marki sklepu surfingowego i pozycjonowaniem plażowego stylu życia.',
         'Przekształcono model biznesowy z tradycyjnej sprzedaży surfingowej w kompletny biznes wodnego stylu życia, dodając sprzedaż SUP, pakiety wypożyczalni i lekcje dla początkujących.',
         'Uruchomiono linię produktów pompowanych uzupełniającą ofertę desk twardych bez zwiększania presji magazynowej.',
@@ -3566,17 +3566,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Testy porównawcze osiągów i dobór materiałów',
               detail:
-                'Inżynierowie produktu Afarer odwiedzili Gold Coast w lutym 2023 i przeprowadzili ślepe testy z 12 instruktorami Brendana. Każdy instruktor testował 6 prototypowych desk pompowanych wobec swojej standardowej deski soft-top 9\'0" z epoksydu w 4 metrykach: stabilność w staniu (ocena 1–10), ślizg wiosłem (sekundy na 50 m), responsywność skrętów od rantu do rantu oraz ocena pewności siebie kursantów. Zwycięski prototyp — oznaczony M9-IS — wykorzystywał 3-warstwowy rdzeń drop-stitch z pełnowymiarową matą EVA o grubości 0,5 mm i wzmocnionym strzemieniem bambusowym. Instruktorzy ocenili go ogólnie na 8,7/10 wobec 7,4/10 dla desk epoksydowych. Brendan zamówił 60 sztuk w marcu 2023.',
+                'Inżynierowie produktu OLagoon odwiedzili Gold Coast w lutym 2023 i przeprowadzili ślepe testy z 12 instruktorami Brendana. Każdy instruktor testował 6 prototypowych desk pompowanych wobec swojej standardowej deski soft-top 9\'0" z epoksydu w 4 metrykach: stabilność w staniu (ocena 1–10), ślizg wiosłem (sekundy na 50 m), responsywność skrętów od rantu do rantu oraz ocena pewności siebie kursantów. Zwycięski prototyp — oznaczony M9-IS — wykorzystywał 3-warstwowy rdzeń drop-stitch z pełnowymiarową matą EVA o grubości 0,5 mm i wzmocnionym strzemieniem bambusowym. Instruktorzy ocenili go ogólnie na 8,7/10 wobec 7,4/10 dla desk epoksydowych. Brendan zamówił 60 sztuk w marcu 2023.',
             },
             {
               title: 'Krok 2: Testy trwałości komercyjnej w warunkach szkoły',
               detail:
-                'Brendan i Afarer uzgodnili 4-miesięczny pilotaż w lokalizacji Surfers Paradise na 20 deskach prototypowych przepuszczonych przez po 1200 cykli wypożyczeń każda. Każda deska była używana średnio 14 razy w tygodniu przez kursantów-początkujących (60–90 kg). Zespół Afarer śledził 6 metryk awarii: integralność szwów, wycieki z zaworów, przyczepność maty pokładu, odbarwienia UV, ścieranie rantów i integralność boxów płetw. W 3. miesiącu 3 deski rozwinęły łuszczenie maty w punkcie kontaktu z nosem — Afarer zmodyfikował klej, stosując aktywowaną ciepłem folię poliuretanową, i wymienił dotknięte deski. Do czerwca 2023 pilotaż odnotował zerowe awarie strukturalne i 97,3% dostępności.',
+                'Brendan i OLagoon uzgodnili 4-miesięczny pilotaż w lokalizacji Surfers Paradise na 20 deskach prototypowych przepuszczonych przez po 1200 cykli wypożyczeń każda. Każda deska była używana średnio 14 razy w tygodniu przez kursantów-początkujących (60–90 kg). Zespół OLagoon śledził 6 metryk awarii: integralność szwów, wycieki z zaworów, przyczepność maty pokładu, odbarwienia UV, ścieranie rantów i integralność boxów płetw. W 3. miesiącu 3 deski rozwinęły łuszczenie maty w punkcie kontaktu z nosem — OLagoon zmodyfikował klej, stosując aktywowaną ciepłem folię poliuretanową, i wymienił dotknięte deski. Do czerwca 2023 pilotaż odnotował zerowe awarie strukturalne i 97,3% dostępności.',
             },
             {
               title: 'Krok 3: Pełne wdrożenie floty, szkolenia i infrastruktura magazynowa',
               detail:
-                'Brendan złożył drugie zamówienie na 50 dodatkowych desk M9-IS w lipcu 2023, zwiększając flotę pompowaną do 70 sztuk (58% całości). Zespół logistyczny Afarer wysłał deski w składanych 32-litrowych plecakach, które zmniejszyły objętość magazynowania o 80% w porównaniu z deskami twardymi — kluczowa przewaga przy 65 m² magazynu Brendana w Burleigh Heads. Afarer stworzył 14-minutowy film szkoleniowy dla 22 instruktorów Brendana, obejmujący właściwe ciśnienie nadmuchania (15 PSI do surfingu, 18 PSI na płaskiej wodzie), protokół płukania po słonej wodzie oraz 5-punktową listę kontrolną inspekcji przed lekcją. Cała flota została wdrożona do 1 września 2023, na początek australijskiej wiosny.',
+                'Brendan złożył drugie zamówienie na 50 dodatkowych desk M9-IS w lipcu 2023, zwiększając flotę pompowaną do 70 sztuk (58% całości). Zespół logistyczny OLagoon wysłał deski w składanych 32-litrowych plecakach, które zmniejszyły objętość magazynowania o 80% w porównaniu z deskami twardymi — kluczowa przewaga przy 65 m² magazynu Brendana w Burleigh Heads. OLagoon stworzył 14-minutowy film szkoleniowy dla 22 instruktorów Brendana, obejmujący właściwe ciśnienie nadmuchania (15 PSI do surfingu, 18 PSI na płaskiej wodzie), protokół płukania po słonej wodzie oraz 5-punktową listę kontrolną inspekcji przed lekcją. Cała flota została wdrożona do 1 września 2023, na początek australijskiej wiosny.',
             },
             {
               title: 'Krok 4: Pomiar wpływu operacyjnego i analiza kosztów i korzyści',
@@ -3603,17 +3603,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Sourcing z zabezpieczeniem walutowym i modelowanie kosztów',
               detail:
-                'Zespół finansowy Afarer współpracował z Thabo od października do grudnia 2022 nad strukturą umowy zakupu denominowanej w randach południowoafrykańskich (ZAR) z 6-miesięczną klauzulą stałego kursu 17,80 ZAR/USD, chroniącą go przed zmiennością randa, który w lipcu 2022 sięgał 19,20/USD. Afarer wskazał fabrykę w Shenzhen, zdolną produkować deski z dwuwarstwowego Fusion PVC z 5-letnią gwarancją UV przy koszcie dodałym 3 100 ZAR za sztukę (w tym 22% cła importowe, logistyka i agencja celna). Cena detaliczna Thabo 7 200 ZAR dawała mu marżę brutto 56,9% — znacząco powyżej jego średniej 22% na deskach markowych.',
+                'Zespół finansowy OLagoon współpracował z Thabo od października do grudnia 2022 nad strukturą umowy zakupu denominowanej w randach południowoafrykańskich (ZAR) z 6-miesięczną klauzulą stałego kursu 17,80 ZAR/USD, chroniącą go przed zmiennością randa, który w lipcu 2022 sięgał 19,20/USD. OLagoon wskazał fabrykę w Shenzhen, zdolną produkować deski z dwuwarstwowego Fusion PVC z 5-letnią gwarancją UV przy koszcie dodałym 3 100 ZAR za sztukę (w tym 22% cła importowe, logistyka i agencja celna). Cena detaliczna Thabo 7 200 ZAR dawała mu marżę brutto 56,9% — znacząco powyżej jego średniej 22% na deskach markowych.',
             },
             {
               title: 'Krok 2: Projekt inspirowany Kapsztadem i brandowanie kulturowe',
               detail:
-                "Graficy Afarer współpracowali z lokalną ilustratorką z Kapsztadu, Mbali Dlamini, tworząc 3 niestandardowe projekty pokładów: «Seal Island» (z uchatkami przylądkowymi), «Chapman's Peak» (sylwetka góry) i «Boulder's Beach» (pingwiny afrykańskie). Każdy projekt wykorzystywał 6-kolorowy druk termotransferowy farbami odpornymi na UV, testowanymi na ponad 500 godzin ekspozycji słonecznej. Deski zawierały funkcję unikalną dla rynku południowoafrykańskiego: wzmocniony system mocowania na dziobie do dry bagów (popularny przy wielodniowych spływach wzdłuż Skeleton Coast do Durbanu). Thabo uruchomił stronę (kalkbaysurfco.co.za) na Shopify z fotografią produktową Afarer zrobioną na plaży Muizenberg.",
+                "Graficy OLagoon współpracowali z lokalną ilustratorką z Kapsztadu, Mbali Dlamini, tworząc 3 niestandardowe projekty pokładów: «Seal Island» (z uchatkami przylądkowymi), «Chapman's Peak» (sylwetka góry) i «Boulder's Beach» (pingwiny afrykańskie). Każdy projekt wykorzystywał 6-kolorowy druk termotransferowy farbami odpornymi na UV, testowanymi na ponad 500 godzin ekspozycji słonecznej. Deski zawierały funkcję unikalną dla rynku południowoafrykańskiego: wzmocniony system mocowania na dziobie do dry bagów (popularny przy wielodniowych spływach wzdłuż Skeleton Coast do Durbanu). Thabo uruchomił stronę (kalkbaysurfco.co.za) na Shopify z fotografią produktową OLagoon zrobioną na plaży Muizenberg.",
             },
             {
               title: 'Krok 3: Produkcja próbek, testy jakości i certyfikacja',
               detail:
-                'Afarer wyprodukował po 6 próbek na SKU w styczniu 2023. Thabo i dwóch lokalnych kształterów desk (łącznie ponad 50 lat doświadczenia) przeprowadzili testy destrukcyjne: każdą deskę nadmuchano do 25 PSI (125% ciśnienia nominalnego) i utrzymywano przez 72 godziny — wszystkie próbki przeszły test ze spadkiem mniejszym niż 0,5 PSI. Wytrzymałość szwów testowano cyfrowym siłomierzem, wymagając minimum 120 N/cm (próbki osiągnęły średnio 138 N/cm). Thabo zabrał 3 deski na 5-dniowy zorganizowany spływ z Arniston do Struisbaai (120 km) w lutym 2023, symulując warunki intensywnej turystyki. Po 80 km poluzował się box płetwy jednej z desk — Afarer wymienił nylonowy box na wersję wzmocnioną stalą nierdzewną.',
+                'OLagoon wyprodukował po 6 próbek na SKU w styczniu 2023. Thabo i dwóch lokalnych kształterów desk (łącznie ponad 50 lat doświadczenia) przeprowadzili testy destrukcyjne: każdą deskę nadmuchano do 25 PSI (125% ciśnienia nominalnego) i utrzymywano przez 72 godziny — wszystkie próbki przeszły test ze spadkiem mniejszym niż 0,5 PSI. Wytrzymałość szwów testowano cyfrowym siłomierzem, wymagając minimum 120 N/cm (próbki osiągnęły średnio 138 N/cm). Thabo zabrał 3 deski na 5-dniowy zorganizowany spływ z Arniston do Struisbaai (120 km) w lutym 2023, symulując warunki intensywnej turystyki. Po 80 km poluzował się box płetwy jednej z desk — OLagoon wymienił nylonowy box na wersję wzmocnioną stalą nierdzewną.',
             },
             {
               title: 'Krok 4: Debiut detaliczny, partnerstwa z operatorami wycieczek i zamówienie uzupełniające',
@@ -3630,8 +3630,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego OLagoon',
       items: [
         {
           title: 'Zrozumienie rynku surfingowego',
@@ -3679,7 +3679,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy mogę stworzyć własną markową linię pompowanych SUP?',
         answer:
-          'Tak. Afarer zapewnia kompletne rozwiązania private label, w tym niestandardowy projekt deski, grafikę, kolory, opakowania i akcesoria pod nazwą Twojej marki surfingowej.',
+          'Tak. OLagoon zapewnia kompletne rozwiązania private label, w tym niestandardowy projekt deski, grafikę, kolory, opakowania i akcesoria pod nazwą Twojej marki surfingowej.',
       },
       {
         question: 'Ile mogę zaoszczędzić na wysyłce desk pompowanych?',
@@ -3689,7 +3689,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy oferujecie produkty klasy wypożyczalni dla szkół surfingu?',
         answer:
-          'Tak. Afarer opracowuje trwałe produkty zaprojektowane do częstego użytkowania wypożyczalnego, z łatwą konserwacją, niezawodnymi akcesoriami i ekonomicznymi cenami flotowymi.',
+          'Tak. OLagoon opracowuje trwałe produkty zaprojektowane do częstego użytkowania wypożyczalnego, z łatwą konserwacją, niezawodnymi akcesoriami i ekonomicznymi cenami flotowymi.',
       },
       {
         question: 'Czy mogę łączyć w sklepie deski twarde i pompowane?',
@@ -3711,7 +3711,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent dziecięcych desek SUP | {SITE}',
       description:
-        'Afarer zapewnia bezpieczne rozwiązania dziecięcych desek SUP dla obozów letnich, szkół i młodzieżowych programów przygodowych. Deski dla dzieci, sprzęt Giant SUP, floty komercyjne i niestandardowe rozwiązania OEM.',
+        'OLagoon zapewnia bezpieczne rozwiązania dziecięcych desek SUP dla obozów letnich, szkół i młodzieżowych programów przygodowych. Deski dla dzieci, sprzęt Giant SUP, floty komercyjne i niestandardowe rozwiązania OEM.',
     },
     hero: {
       tagline:
@@ -3804,7 +3804,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Wybór produktów dla młodzieży',
           detail:
-            'Afarer zarekomendował dziecięce modele SUP, stabilne deski dla początkujących i sprzęt instruktorski dostosowany do grup wiekowych obozu.',
+            'OLagoon zarekomendował dziecięce modele SUP, stabilne deski dla początkujących i sprzęt instruktorski dostosowany do grup wiekowych obozu.',
         },
         {
           title: 'Personalizacja bezpieczeństwa',
@@ -3842,17 +3842,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Dziecięcy projekt SUP (Junior Explorer 9\'6" X)',
               detail:
-                'W lipcu 2024 Connolly współpracował z zespołem produktowym Afarer nad opracowaniem dedykowanej deski SUP dla dzieci. Po 3 iteracjach prototypowych sfinalizowano Junior Explorer 9\'6" X (szerokość 28", grubość 4", pojemność 180L) — o 25% węższą i o 40% lżejszą od standardowych desk. Kluczowe funkcje — zapuszczony pad deckowy (obniżenie o 1,5") obniżający środek ciężkości o 22%, wskaźnik zakresu wagowego (paski kolorystyczne dla 18–55 kg) i dwie pętle chwytowe bezpieczeństwa na każdą krawędź. Connolly zamówił 120 desk z grafiką deckową w barwach szkolnych (6 szkolnych wariantów kolorystycznych, po 20 sztuk). Prototypowanie i testy kosztowały 14 tys. USD; zamówienie produkcyjne wyniosło 96 tys. USD.',
+                'W lipcu 2024 Connolly współpracował z zespołem produktowym OLagoon nad opracowaniem dedykowanej deski SUP dla dzieci. Po 3 iteracjach prototypowych sfinalizowano Junior Explorer 9\'6" X (szerokość 28", grubość 4", pojemność 180L) — o 25% węższą i o 40% lżejszą od standardowych desk. Kluczowe funkcje — zapuszczony pad deckowy (obniżenie o 1,5") obniżający środek ciężkości o 22%, wskaźnik zakresu wagowego (paski kolorystyczne dla 18–55 kg) i dwie pętle chwytowe bezpieczeństwa na każdą krawędź. Connolly zamówił 120 desk z grafiką deckową w barwach szkolnych (6 szkolnych wariantów kolorystycznych, po 20 sztuk). Prototypowanie i testy kosztowały 14 tys. USD; zamówienie produkcyjne wyniosło 96 tys. USD.',
             },
             {
               title: 'Krok 2: Opracowanie programu nauczania w zgodzie z ACARA',
               detail:
-                'Connolly współpracował z konsultantami edukacyjnymi Afarer i władzami oświatowymi Queenslandu nad opracowaniem «Paddle & Discover», 14-sesyjnego programu eksploracji SUP zgodnego z australijskim programem nauczania v9.0 (nauki przyrodnicze, HPE, geografia). Sesje obejmowały pobieranie próbek wodnych bezkręgowców (z użyciem montowanej na desce tacy kolekcyjnej), pomiar tlenu rozpuszczonego (przenośny miernik przypinany do uchwytów D-ring), eksperymenty wyporności i wypierania oraz mapowanie ekosystemu Everglades. Program miał 3 poziomy trudności — «Eels» (Prep–klasa 1, basen/spokojna woda), «Turtles» (klasy 2–3, chroniona zatoka) i «Stingrays» (klasy 4–6, otwarte Everglades). Afarer wydrukował wodoodporne karty podpowiedzi dla każdego poziomu.',
+                'Connolly współpracował z konsultantami edukacyjnymi OLagoon i władzami oświatowymi Queenslandu nad opracowaniem «Paddle & Discover», 14-sesyjnego programu eksploracji SUP zgodnego z australijskim programem nauczania v9.0 (nauki przyrodnicze, HPE, geografia). Sesje obejmowały pobieranie próbek wodnych bezkręgowców (z użyciem montowanej na desce tacy kolekcyjnej), pomiar tlenu rozpuszczonego (przenośny miernik przypinany do uchwytów D-ring), eksperymenty wyporności i wypierania oraz mapowanie ekosystemu Everglades. Program miał 3 poziomy trudności — «Eels» (Prep–klasa 1, basen/spokojna woda), «Turtles» (klasy 2–3, chroniona zatoka) i «Stingrays» (klasy 4–6, otwarte Everglades). OLagoon wydrukował wodoodporne karty podpowiedzi dla każdego poziomu.',
             },
             {
               title: 'Krok 3: Certyfikacja nauczycieli, ocena ryzyka i integracja ochrony przeciwsłonecznej',
               detail:
-                'Przez 3 weekendy we wrześniu 2024 zespół szkoleniowy Afarer certyfikował 14 nauczycieli szkolnych (bez wcześniejszego doświadczenia SUP) zmodyfikowanym kursem IRF Level 1 z naciskiem na bezpieczeństwo dzieci — zarządzanie grupą sygnałami gwizdka (3 gwizdnięcia = stop, 5 = alarm), «koala dismount» (dziecko spada na deskę z pozycji siedzącej) i wydobycie z koziołkowania dzieci poniżej 30 kg. Departament Edukacji Queensland zatwierdził program SUP w ramach stanowej struktury oceny ryzyka aktywności outdoorowych, wymagając proporcji 1:6 instruktor-uczeń na spokojnej wodzie (<0,3 m fali, <12 węzłów wiatru). Ochronę przeciwsłoneczną (koszulki rash, SPF 50+, osłony karku) zintegrowano jako wymóg sesji 0.',
+                'Przez 3 weekendy we wrześniu 2024 zespół szkoleniowy OLagoon certyfikował 14 nauczycieli szkolnych (bez wcześniejszego doświadczenia SUP) zmodyfikowanym kursem IRF Level 1 z naciskiem na bezpieczeństwo dzieci — zarządzanie grupą sygnałami gwizdka (3 gwizdnięcia = stop, 5 = alarm), «koala dismount» (dziecko spada na deskę z pozycji siedzącej) i wydobycie z koziołkowania dzieci poniżej 30 kg. Departament Edukacji Queensland zatwierdził program SUP w ramach stanowej struktury oceny ryzyka aktywności outdoorowych, wymagając proporcji 1:6 instruktor-uczeń na spokojnej wodzie (<0,3 m fali, <12 węzłów wiatru). Ochronę przeciwsłoneczną (koszulki rash, SPF 50+, osłony karku) zintegrowano jako wymóg sesji 0.',
             },
             {
               title: 'Krok 4: Wdrożenie w 1. semestrze 2025 i mierzalne wyniki uczniów',
@@ -3880,7 +3880,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Pozyskanie floty i rozmiary desk odpowiednie wiekowo',
               detail:
-                'W styczniu 2025 Whitfield wybrała Afarer Junior Explorer 9\'6" X dla obozowiczów w wieku 8–11 lat (40 desk) i Explorer 10\'8" X dla wieku 12–15 lat (30 desk), łącznie za 58 tys. USD. Określiła każdą deskę z dwoma dziobowymi uchwytami D-ring do mocowania GoPro/tacy kolekcyjnej i deckową gumką na wodoodporny dziennik przyrodniczy (Rite in the Rain, w spiętej oprawie spiralnej). Każda deska miała laserowo grawerowany numer ID obozowicza i logo szopa Camp Keowee.',
+                'W styczniu 2025 Whitfield wybrała OLagoon Junior Explorer 9\'6" X dla obozowiczów w wieku 8–11 lat (40 desk) i Explorer 10\'8" X dla wieku 12–15 lat (30 desk), łącznie za 58 tys. USD. Określiła każdą deskę z dwoma dziobowymi uchwytami D-ring do mocowania GoPro/tacy kolekcyjnej i deckową gumką na wodoodporny dziennik przyrodniczy (Rite in the Rain, w spiętej oprawie spiralnej). Każda deska miała laserowo grawerowany numer ID obozowicza i logo szopa Camp Keowee.',
             },
             {
               title: 'Krok 2: Projekt 4-poziomowego programu odznak eksploracji SUP',
@@ -3890,7 +3890,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 3: Certyfikacja wychowawców i mapowanie stref bezpieczeństwa jeziora Jocassee',
               detail:
-                'W maju 2025 (przedobozowe szkolenie personelu) Afarer certyfikował 22 wychowawców nabrzeżnych (w wieku 19–24 lat) w 3-dniowym kursie przewodnika SUP opartym na IRF, skupionym na zarządzaniu grupami młodzieżowymi. Whitfield zmapowała 6 stref bezpieczeństwa z kolorowymi bojami markerowymi — strefa pływania (czerwona), strefa wiosłowania dla początkujących (żółta, do 200 m od pomostu), strefa średniozaawansowana (zielona, do 1 km wzdłuż zachodniego brzegu), strefa zaawansowana (niebieska, całe jezioro z meldunkiem radiowym) i strefy zakazane (fioletowe, wokół wlotu zapory i klifów Bald Rock). Każdy wychowawca nosił wodoodporne radio VHF z kanałem 15 dedykowanym operacjom SUP. Zarządca jeziora Duke Power zatwierdził plan po wspólnym przeglądzie bezpieczeństwa 12 maja.',
+                'W maju 2025 (przedobozowe szkolenie personelu) OLagoon certyfikował 22 wychowawców nabrzeżnych (w wieku 19–24 lat) w 3-dniowym kursie przewodnika SUP opartym na IRF, skupionym na zarządzaniu grupami młodzieżowymi. Whitfield zmapowała 6 stref bezpieczeństwa z kolorowymi bojami markerowymi — strefa pływania (czerwona), strefa wiosłowania dla początkujących (żółta, do 200 m od pomostu), strefa średniozaawansowana (zielona, do 1 km wzdłuż zachodniego brzegu), strefa zaawansowana (niebieska, całe jezioro z meldunkiem radiowym) i strefy zakazane (fioletowe, wokół wlotu zapory i klifów Bald Rock). Każdy wychowawca nosił wodoodporne radio VHF z kanałem 15 dedykowanym operacjom SUP. Zarządca jeziora Duke Power zatwierdził plan po wspólnym przeglądzie bezpieczeństwa 12 maja.',
             },
             {
               title: 'Krok 4: Wyniki sezonu letniego 2025 i wskaźniki zdobywania odznak',
@@ -3907,8 +3907,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego programy młodzieżowe wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego programy młodzieżowe wybierają OLagoon',
       items: [
         {
           title: 'Bezpieczeństwo dzieci',
@@ -3936,7 +3936,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jaki rozmiar deski SUP jest odpowiedni dla dzieci w różnym wieku?',
         answer:
-          'Afarer oferuje mniejsze, młodzieżowe rozmiary SUP zaprojektowane dla dzieci i nastolatków. Deski te mają niższą pojemność, węższą szerokość i mniejszą wagę niż modele dorosłe, co ułatwia młodym użytkownikom obsługę, kontrolę i naukę.',
+          'OLagoon oferuje mniejsze, młodzieżowe rozmiary SUP zaprojektowane dla dzieci i nastolatków. Deski te mają niższą pojemność, węższą szerokość i mniejszą wagę niż modele dorosłe, co ułatwia młodym użytkownikom obsługę, kontrolę i naukę.',
       },
       {
         question: 'Jak działa Giant SUP w aktywnościach budowania zespołu?',
@@ -3946,26 +3946,26 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jakie funkcje bezpieczeństwa mają dziecięce deski SUP?',
         answer:
-          'Deski młodzieżowe Afarer mają wielouchwytowy projekt bezpieczeństwa (uchwyty boczne, przednie i transportowe), pełny antypoślizgowy deck EVA dla pewnego oparcia, zaokrąglone bezpieczne kształty bez ostrych krawędzi, strukturę wysokiej wyporności dla stabilnego pływania i projekt łatwego odzyskania po upadku.',
+          'Deski młodzieżowe OLagoon mają wielouchwytowy projekt bezpieczeństwa (uchwyty boczne, przednie i transportowe), pełny antypoślizgowy deck EVA dla pewnego oparcia, zaokrąglone bezpieczne kształty bez ostrych krawędzi, strukturę wysokiej wyporności dla stabilnego pływania i projekt łatwego odzyskania po upadku.',
       },
       {
         question: 'Czy deski SUP można spersonalizować logo i kolorami naszego obozu?',
         answer:
-          'Tak, Afarer wspiera kompletną personalizację, w tym logo obozów, kolory programów, elementy brandingu i grafiki tematyczne. Niestandardowy branding pomaga stworzyć unikalną tożsamość obozu i ułatwia rozpoznawanie sprzętu.',
+          'Tak, OLagoon wspiera kompletną personalizację, w tym logo obozów, kolory programów, elementy brandingu i grafiki tematyczne. Niestandardowy branding pomaga stworzyć unikalną tożsamość obozu i ułatwia rozpoznawanie sprzętu.',
       },
       {
         question: 'Ile desk potrzeba do rozpoczęcia młodzieżowego programu SUP?',
         answer:
-          'Afarer rekomenduje pakiet startowy obejmujący deski dziecięce, deski instruktorskie, wiosła, pompy, leashy i pokrowce. Wielkość floty zależy od pojemności grup — typowy obóz może zacząć od 10–20 desk młodzieżowych plus sprzętu instruktorskiego, z opcjami sezonowej rozbudowy.',
+          'OLagoon rekomenduje pakiet startowy obejmujący deski dziecięce, deski instruktorskie, wiosła, pompy, leashy i pokrowce. Wielkość floty zależy od pojemności grup — typowy obóz może zacząć od 10–20 desk młodzieżowych plus sprzętu instruktorskiego, z opcjami sezonowej rozbudowy.',
       },
       {
         question: 'Jaki sprzęt instruktorski jest rekomendowany dla obozowych programów SUP?',
         answer:
-          'Afarer rekomenduje deski instruktorskie ze wzmocnioną stabilnością i funkcjami kontroli oraz akcesoria bezpieczeństwa, w tym leashy, pompy, zestawy naprawcze i sprzęt komunikacyjny. Pakiet Camp Fleet może obejmować dedykowane deski instruktorskie i komponenty zapasowe.',
+          'OLagoon rekomenduje deski instruktorskie ze wzmocnioną stabilnością i funkcjami kontroli oraz akcesoria bezpieczeństwa, w tym leashy, pompy, zestawy naprawcze i sprzęt komunikacyjny. Pakiet Camp Fleet może obejmować dedykowane deski instruktorskie i komponenty zapasowe.',
       },
     ],
     cta: {
-      title: 'Zbuduj swój dziecięcy program przygód wodnych z Afarerem',
+      title: 'Zbuduj swój dziecięcy program przygód wodnych z OLagoonem',
       subtitle:
         'Pomóż dzieciom odkryć pewność siebie, pracę zespołową, naturę i przygodę dzięki profesjonalnie zaprojektowanym programom eksploracji SUP.',
       primaryAction: {
@@ -3988,9 +3988,9 @@ const pl: Record<string, SolutionOverride> = {
       title:
         'Premium przenośne rozwiązania sportów wodnych dla linii wycieczkowych, firm jachtowych i marek hotelarstwa morskiego',
       subtitle:
-        'Afarer zapewnia rozwiązania Luxury Portable SUP Package zaprojektowane specjalnie dla firm wycieczkowych, operatorów rejsów ekspedycyjnych, firm czarteru jachtów, właścicieli superjachtów i dostawców aktywności marin. Dostarczamy ultraprzenośne projekty pompanych SUP z komponentami klasy morskiej i luksusową personalizacją.',
+        'OLagoon zapewnia rozwiązania Luxury Portable SUP Package zaprojektowane specjalnie dla firm wycieczkowych, operatorów rejsów ekspedycyjnych, firm czarteru jachtów, właścicieli superjachtów i dostawców aktywności marin. Dostarczamy ultraprzenośne projekty pompanych SUP z komponentami klasy morskiej i luksusową personalizacją.',
       image: {
-        alt: 'Luksusowy przenośny pakiet SUP Afarer dla jachtów i statków wycieczkowych',
+        alt: 'Luksusowy przenośny pakiet SUP OLagoon dla jachtów i statków wycieczkowych',
       },
     },
     challenge: {
@@ -4024,7 +4024,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Ultraprzenośny projekt pompanego SUP',
           description:
-            'Technologia pompanych SUP daje dużą przewagę jachtom i operatorom wycieczkowym. Deski Afarer oferują kompaktowe systemy składania dla małej objętości przechowywania, lekki transport dla szybszego rozstawienia i kompletne pakiety podróżne obejmujące deskę, wiosło składane, pompkę i plecak.',
+            'Technologia pompanych SUP daje dużą przewagę jachtom i operatorom wycieczkowym. Deski OLagoon oferują kompaktowe systemy składania dla małej objętości przechowywania, lekki transport dla szybszego rozstawienia i kompletne pakiety podróżne obejmujące deskę, wiosło składane, pompkę i plecak.',
           features: [
             'Kompaktowy system składania',
             'Lekki transport',
@@ -4035,7 +4035,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Dobór materiałów klasy morskiej',
           description:
-            'Afarer używa komponentów odpornych na słoną wodę z okuciem odpornym na korozję, konstrukcją odporną na UV do ekspozycji słonecznej i wzmocnioną strukturą SUP z trwałymi warstwami PVC i mocnym rdzeniem drop stitch zaprojektowaną specjalnie do środowisk oceanicznych.',
+            'OLagoon używa komponentów odpornych na słoną wodę z okuciem odpornym na korozję, konstrukcją odporną na UV do ekspozycji słonecznej i wzmocnioną strukturą SUP z trwałymi warstwami PVC i mocnym rdzeniem drop stitch zaprojektowaną specjalnie do środowisk oceanicznych.',
           features: [
             'Komponenty odporne na słoną wodę',
             'Konstrukcja odporna na UV',
@@ -4046,7 +4046,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Luksusowa personalizacja jachtów i wycieczek',
           description:
-            'Dla premium biznesów morskich wygląd ma znaczenie. Afarer wspiera niestandardowy branding z logami jachtów i tożsamością firmy wycieczkowej, premium projekt kolorów w stylach luksusu jachtowego, przygody ekspedycyjnej lub morskiego resortu oraz markowe zestawy sprzętu z pasującymi wiosłami i niestandardowymi torbami.',
+            'Dla premium biznesów morskich wygląd ma znaczenie. OLagoon wspiera niestandardowy branding z logami jachtów i tożsamością firmy wycieczkowej, premium projekt kolorów w stylach luksusu jachtowego, przygody ekspedycyjnej lub morskiego resortu oraz markowe zestawy sprzętu z pasującymi wiosłami i niestandardowymi torbami.',
           features: [
             'Niestandardowy branding jachtów i wycieczek',
             'Premium projekt kolorów',
@@ -4057,27 +4057,27 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Pakiet SUP do czarteru jachtu',
           description:
-            'Goście jachtów oczekują wygody i ekskluzywności. Afarer wspiera prywatne zestawy sprzętowe czarterowe dla superjachtów, katamaranów i jachtów żaglowych z obsługą przyjazną gościom dla początkujących i rodzin, zorganizowanym przechowywaniem i premium prezentacją z luksusowym wyglądem.',
+            'Goście jachtów oczekują wygody i ekskluzywności. OLagoon wspiera prywatne zestawy sprzętowe czarterowe dla superjachtów, katamaranów i jachtów żaglowych z obsługą przyjazną gościom dla początkujących i rodzin, zorganizowanym przechowywaniem i premium prezentacją z luksusowym wyglądem.',
         },
         {
           title: 'Rozwiązania aktywności wodnych dla rejsów ekspedycyjnych',
           description:
-            'Wycieczki przygodowe wymagają elastycznego sprzętu na przystanki wyspowe, odkrywanie wybrzeży i wycieczki przyrodnicze. Rozwiązania Afarer wspierają operacje w odległych lokalizacjach z łatwym transportem i kompaktowym przechowywaniem, plus programy aktywności grupowych dla małych grup i wycieczek z przewodnikiem.',
+            'Wycieczki przygodowe wymagają elastycznego sprzętu na przystanki wyspowe, odkrywanie wybrzeży i wycieczki przyrodnicze. Rozwiązania OLagoon wspierają operacje w odległych lokalizacjach z łatwym transportem i kompaktowym przechowywaniem, plus programy aktywności grupowych dla małych grup i wycieczek z przewodnikiem.',
         },
         {
           title: 'Kompletne rozwiązania przechowywania na pokładzie',
           description:
-            'Afarer rozumie ograniczenia przestrzeni morskiej i zapewnia kompaktowe planowanie przechowywania dla organizacji desk i akcesoriów, systemy ochrony z torbami przechowywania i efektywność operacyjną pomagającą załodze przygotowywać się szybciej i łatwiej zarządzać sprzętem.',
+            'OLagoon rozumie ograniczenia przestrzeni morskiej i zapewnia kompaktowe planowanie przechowywania dla organizacji desk i akcesoriów, systemy ochrony z torbami przechowywania i efektywność operacyjną pomagającą załodze przygotowywać się szybciej i łatwiej zarządzać sprzętem.',
         },
         {
           title: 'Wsparcie szkolenia załogi i konserwacji',
           description:
-            'Afarer zapewnia przewodniki operacyjne dla załogi obejmujące procedury pompowania, obchodzenie się ze sprzętem i metody czyszczenia, plus rekomendacje konserwacyjne dotyczące czyszczenia ze słonej wody, procedur suszenia i praktyk przechowywania z checklistami inspekcji przed i po aktywnościach.',
+            'OLagoon zapewnia przewodniki operacyjne dla załogi obejmujące procedury pompowania, obchodzenie się ze sprzętem i metody czyszczenia, plus rekomendacje konserwacyjne dotyczące czyszczenia ze słonej wody, procedur suszenia i praktyk przechowywania z checklistami inspekcji przed i po aktywnościach.',
         },
         {
           title: 'Projektowanie premium doświadczeń wodnych',
           description:
-            'SUP może stać się częścią luksusowego pakietu doświadczeń. Afarer pomaga tworzyć doświadczenia jachtowego SUP o zachodzie słońca dla par i gości VIP, prywatne odkrywanie wysp dla klientów czarterowych, programy oceanicznego wellness dla luksusowych rejsów i morskie doświadczenia ekologiczne dla rejsów ekspedycyjnych.',
+            'SUP może stać się częścią luksusowego pakietu doświadczeń. OLagoon pomaga tworzyć doświadczenia jachtowego SUP o zachodzie słońca dla par i gości VIP, prywatne odkrywanie wysp dla klientów czarterowych, programy oceanicznego wellness dla luksusowych rejsów i morskie doświadczenia ekologiczne dla rejsów ekspedycyjnych.',
         },
       ],
     },
@@ -4093,7 +4093,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Planowanie produktu',
           detail:
-            'Afarer zaprojektował Luxury Portable SUP Package w oparciu o ograniczenia przechowywania jachtu, wymagania doświadczenia gości i śródziemnomorskie środowisko morskie.',
+            'OLagoon zaprojektował Luxury Portable SUP Package w oparciu o ograniczenia przechowywania jachtu, wymagania doświadczenia gości i śródziemnomorskie środowisko morskie.',
         },
         {
           title: 'Personalizacja produktu',
@@ -4131,29 +4131,29 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Testy terenowe w Arktyce w Kongsfjorden na 79° szerokości',
               detail:
-                'W maju 2024 zespół środowisk ekstremalnych Afarer (główny inżynier Sven Lehmann z biura Afarer w Hamburgu) dołączył do MS Maud Hurtigruten na 14-dniowym rejsie po Svalbardzie. Przetestowali 8 desk konkurencji i 6 arktycznych prototypów Afarer w 11 rozmieszczeniach Zodiaców koło Ny-Ålesund i lodowca Monaco. Kluczowe ustalenia: standardowe zawory zamarzały otwarte w powietrzu -8°C po zanurzeniu w wodzie 2°C (ciepła woda wewnątrz trzonka zaworu ponownie zamarzała przy kontakcie z zimnym powietrzem). Rozwiązanie Afarer: system zaworu z przedmuchem azotowym usuwający całą wilgoć przed zamknięciem, plus neoprenowa osłona zaworu. Materiał deski: standardowe PVC traciło 40% elastyczności przy -15°C — mieszanka Polarex TPU Afarer zachowywała 92% elastyczności przy -20°C. Deski musiały się napompować w mniej niż 7 minut (limit cierpliwości gości w zimnie) i spuścić/zapakować w 5 minut (by zminimalizować okno ekspozycji na niedźwiedzie polarne). Dwustopniowa pompka Afarer (pompka ręczna do pierwszych 10 PSI, booster z kartuszem azotowym do 18 PSI) osiągnęła pompowanie w 6,2 minuty.',
+                'W maju 2024 zespół środowisk ekstremalnych OLagoon (główny inżynier Sven Lehmann z biura OLagoon w Hamburgu) dołączył do MS Maud Hurtigruten na 14-dniowym rejsie po Svalbardzie. Przetestowali 8 desk konkurencji i 6 arktycznych prototypów OLagoon w 11 rozmieszczeniach Zodiaców koło Ny-Ålesund i lodowca Monaco. Kluczowe ustalenia: standardowe zawory zamarzały otwarte w powietrzu -8°C po zanurzeniu w wodzie 2°C (ciepła woda wewnątrz trzonka zaworu ponownie zamarzała przy kontakcie z zimnym powietrzem). Rozwiązanie OLagoon: system zaworu z przedmuchem azotowym usuwający całą wilgoć przed zamknięciem, plus neoprenowa osłona zaworu. Materiał deski: standardowe PVC traciło 40% elastyczności przy -15°C — mieszanka Polarex TPU OLagoon zachowywała 92% elastyczności przy -20°C. Deski musiały się napompować w mniej niż 7 minut (limit cierpliwości gości w zimnie) i spuścić/zapakować w 5 minut (by zminimalizować okno ekspozycji na niedźwiedzie polarne). Dwustopniowa pompka OLagoon (pompka ręczna do pierwszych 10 PSI, booster z kartuszem azotowym do 18 PSI) osiągnęła pompowanie w 6,2 minuty.',
             },
             {
               title: 'Pakiet «Polar Explorer» z integracją Zodiac i systemami bezpieczeństwa',
               detail:
-                'Afarer zaprojektował «Polar Explorer 12.0» z konkretnymi adaptacjami arktycznymi: jasny kolor pomarańczowy międzynarodowy (widoczny na tle lodu z 2 km przez lornetkę), odblaskowe paski taśmy klasy SOLAS, wbudowaną pętlę ratunkową o nośności 600 kg (do odzysku na holu przez Zodiac) i kieszeń na beacon GPS w dziobie (Hurtigruten zapewnił urządzenia Garmin inReach Mini 2). Pakiet obejmował pompowane kamizelkę ratunkową kompatybilną z suchym skafandrem (Mustang Survival HIT, testowaną przez Afarer pod kątem mobilności podczas wiosłowania), zestaw neoprenowych pogies (podgrzewacze dłoni zintegrowane z trzonem wiosła) i niestandardowy plecak mieszczący się w skrytce storage Zodiac (rozmiar spakowany 60×30×30 cm). System rozmieszczania z Zodiac: regał na koło jockey dokowany do pontonu Zodiac pozwalał jednemu przewodnikowi zsunąć deski do wody bez podnoszenia.',
+                'OLagoon zaprojektował «Polar Explorer 12.0» z konkretnymi adaptacjami arktycznymi: jasny kolor pomarańczowy międzynarodowy (widoczny na tle lodu z 2 km przez lornetkę), odblaskowe paski taśmy klasy SOLAS, wbudowaną pętlę ratunkową o nośności 600 kg (do odzysku na holu przez Zodiac) i kieszeń na beacon GPS w dziobie (Hurtigruten zapewnił urządzenia Garmin inReach Mini 2). Pakiet obejmował pompowane kamizelkę ratunkową kompatybilną z suchym skafandrem (Mustang Survival HIT, testowaną przez OLagoon pod kątem mobilności podczas wiosłowania), zestaw neoprenowych pogies (podgrzewacze dłoni zintegrowane z trzonem wiosła) i niestandardowy plecak mieszczący się w skrytce storage Zodiac (rozmiar spakowany 60×30×30 cm). System rozmieszczania z Zodiac: regał na koło jockey dokowany do pontonu Zodiac pozwalał jednemu przewodnikowi zsunąć deski do wody bez podnoszenia.',
             },
             {
               title: 'Protokoły bezpieczeństwa niedźwiedzi polarnych i program szkolenia przewodników',
               detail:
-                'Konsultant bezpieczeństwa Afarer, były doradca ds. bezpieczeństwa biura gubernatora Svalbardu Bjørn Viken, współopracował 3-dniowy program szkoleniowy dla 12 przewodników Hurtigruten. «Arctic Paddle Safety Protocol» obejmował: rotację wachty niedźwiedziej (jeden przewodnik dedykowany do wypatrywania niedźwiedzi, z karabinem kalibru .308 i pistoletem sygnałowym — standardowy wymóg Svalbardu), formację grupy (linia w linię w 50 metrach, nigdy więcej niż 200 metrów od Zodiac), szybką ekstrakcję (pełne ponowne wejście grupy w mniej niż 90 sekund, ćwiczone co tydzień) i awaryjną reakcję na hipotermię. Afarer zapewnił wodoodporne laminowane karty szybkiego odniesienia dla każdego przewodnika. Każda sesja była ograniczona do 8 gości z 2 przewodnikami i 1 uzbrojonym Zodiacem bezpieczeństwa w 100 metrach. Obserwacje niedźwiedzi polarnych podczas wiosłowania: 2 incydenty w sezonie 2024 — oba rozegrane strzałami ostrzegawczymi z pistoletu sygnałowego, bez obrażeń. Goście ocenili «pewność bezpieczeństwa» na 4,9/5.',
+                'Konsultant bezpieczeństwa OLagoon, były doradca ds. bezpieczeństwa biura gubernatora Svalbardu Bjørn Viken, współopracował 3-dniowy program szkoleniowy dla 12 przewodników Hurtigruten. «Arctic Paddle Safety Protocol» obejmował: rotację wachty niedźwiedziej (jeden przewodnik dedykowany do wypatrywania niedźwiedzi, z karabinem kalibru .308 i pistoletem sygnałowym — standardowy wymóg Svalbardu), formację grupy (linia w linię w 50 metrach, nigdy więcej niż 200 metrów od Zodiac), szybką ekstrakcję (pełne ponowne wejście grupy w mniej niż 90 sekund, ćwiczone co tydzień) i awaryjną reakcję na hipotermię. OLagoon zapewnił wodoodporne laminowane karty szybkiego odniesienia dla każdego przewodnika. Każda sesja była ograniczona do 8 gości z 2 przewodnikami i 1 uzbrojonym Zodiacem bezpieczeństwa w 100 metrach. Obserwacje niedźwiedzi polarnych podczas wiosłowania: 2 incydenty w sezonie 2024 — oba rozegrane strzałami ostrzegawczymi z pistoletu sygnałowego, bez obrażeń. Goście ocenili «pewność bezpieczeństwa» na 4,9/5.',
             },
             {
               title: 'Debiut sezonu arktycznego czerwiec–wrzesień 2024 i wyniki',
               detail:
-                'Flota 60 desk została rozmieszczona na 4 statkach od 1 czerwca 2024. Każdy statek oferował 3 sesje wiosłowania tygodniowo (zależne od pogody, po 90 minut). Łącznie sesji w sezonie 2024: 288 na wszystkich statkach (4 statki × 3/tydzień × 24 tygodnie). Średnia frekwencja: 7,2 gościa na sesję (90% pojemności 8 gości). Przychody: 288 × 7,2 × 450 USD (premium wycenianie wycieczki) = 933 120 USD. Wyniki desk: zero katastrofalnych awarii. Jedna deska doznała 3-cm przebicia od lodu morskiego (ostry fragment bryły lodu) — naprawiona arktycznym zestawem łatek w 8 minut podczas dryfu Zodiacem. Zawory działały perfekcyjnie w 288 cyklach pompowania/spuszczania. Opinie gości: średnia ocena 4,93/5. 83% gości powiedziało, że doświadczenie SUP było «kulminacją ich rejsu». Erik zamówił 40 dodatkowych desk na sezon 2025 i poprosił Afarer o opracowanie modelu «Twin» do tandemowego wiosłowania arktycznego.',
+                'Flota 60 desk została rozmieszczona na 4 statkach od 1 czerwca 2024. Każdy statek oferował 3 sesje wiosłowania tygodniowo (zależne od pogody, po 90 minut). Łącznie sesji w sezonie 2024: 288 na wszystkich statkach (4 statki × 3/tydzień × 24 tygodnie). Średnia frekwencja: 7,2 gościa na sesję (90% pojemności 8 gości). Przychody: 288 × 7,2 × 450 USD (premium wycenianie wycieczki) = 933 120 USD. Wyniki desk: zero katastrofalnych awarii. Jedna deska doznała 3-cm przebicia od lodu morskiego (ostry fragment bryły lodu) — naprawiona arktycznym zestawem łatek w 8 minut podczas dryfu Zodiacem. Zawory działały perfekcyjnie w 288 cyklach pompowania/spuszczania. Opinie gości: średnia ocena 4,93/5. 83% gości powiedziało, że doświadczenie SUP było «kulminacją ich rejsu». Erik zamówił 40 dodatkowych desk na sezon 2025 i poprosił OLagoon o opracowanie modelu «Twin» do tandemowego wiosłowania arktycznego.',
             },
           ],
           results: [
             '933 120 USD przychodów z 288 sesji SUP w jednym 4-miesięcznym sezonie arktycznym przy utilizacji 90% pojemności',
             'Zero katastrofalnych awarii desk w 288 sesjach w ekstremalnych warunkach arktycznych; 1 drobne przebicie lodem naprawione na pokładzie w 8 minut',
             'Satysfakcja gości 4,93/5; 83% oceniło doświadczenie SUP jako «kulminację rejsu»; statki dodały SUP jako stałą kategorię wycieczek',
-            'Afarer otrzymał 3-letnie wyłączne partnerstwo na wszystkie operacje Hurtigruten Svalbard; zamówiono 40 dodatkowych desk na sezon 2025',
+            'OLagoon otrzymał 3-letnie wyłączne partnerstwo na wszystkie operacje Hurtigruten Svalbard; zamówiono 40 dodatkowych desk na sezon 2025',
           ],
         },
         {
@@ -4169,36 +4169,36 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Ocena wyspy w marcu 2024 i konsultacja projektu bespoke',
               detail:
-                'Dyrektor działu luksusowego Afarer Philippe Moreau i starsza projektantka Amira Al Hashimi spędzili 4 dni na wyspie Al Nabigha. Udokumentowali każdy detal: wnętrza willi (współczesny design arabski z kremowymi, piaskowymi i złotymi tonami), paletę kolorów ogrodu koralowego (morski, turkusowy, koralowy róż), plamkę drewnianą mariny dopasowaną do Pantone, a nawet wzór porcelany rodziny (Wedgwood «Middle East Pearl»). Philippe i Amira zaproponowali estetykę «jedyną w swoim rodzaju»: deski pasujące do faktycznych kolorów rafy wyspy, z herbem rodziny Al Nabigha (sokół nad palmą daktylową) tłoczonym w 24-karatowy złoty liść pod przezroczystym epoksydem. Przechowywanie było ograniczeniem — istniejąca kabana plażowa Hamdana miała tylko 8 metrów sześciennych na to, co miało być 20 deskami. Afarer zaproponował niestandardowe szafki tekowe z indywidualnymi wentylowanymi szufladami, każda deska zwinięta i przechowywana z czujnikiem wilgotności.',
+                'Dyrektor działu luksusowego OLagoon Philippe Moreau i starsza projektantka Amira Al Hashimi spędzili 4 dni na wyspie Al Nabigha. Udokumentowali każdy detal: wnętrza willi (współczesny design arabski z kremowymi, piaskowymi i złotymi tonami), paletę kolorów ogrodu koralowego (morski, turkusowy, koralowy róż), plamkę drewnianą mariny dopasowaną do Pantone, a nawet wzór porcelany rodziny (Wedgwood «Middle East Pearl»). Philippe i Amira zaproponowali estetykę «jedyną w swoim rodzaju»: deski pasujące do faktycznych kolorów rafy wyspy, z herbem rodziny Al Nabigha (sokół nad palmą daktylową) tłoczonym w 24-karatowy złoty liść pod przezroczystym epoksydem. Przechowywanie było ograniczeniem — istniejąca kabana plażowa Hamdana miała tylko 8 metrów sześciennych na to, co miało być 20 deskami. OLagoon zaproponował niestandardowe szafki tekowe z indywidualnymi wentylowanymi szufladami, każda deska zwinięta i przechowywana z czujnikiem wilgotności.',
             },
             {
               title: 'Produkcja niestandardowa «Royal Heritage» i cicha infrastruktura elektryczna',
               detail:
-                'Zakład Afarer w Xiamen wydzielił osobną linię produkcyjną dla zamówienia Al Nabigha. Każda deska była układana ręcznie z PVC barwionym na miarę w kolorze «Arabian Teal» — niestandardowy kolor Pantone (PMS 7712 C) dopasowany do głębszych stref rafy wyspy. Tłoczenie złotego liścia: 0,5 mikrona złota 24K nałożone wokół herbu rodziny, chronione 3 warstwami utwardzalnego UV epoksydu klasy morskiej. Afarer pozyskał ciche pompki elektryczne (JOBE Aero, zmodyfikowane z obudowami tłumiącymi hałas redukującymi pracę do 38 dB — ciszej niż ambientsalny dźwięk fal wyspy). Kabel zasilania każdej pompki był pleciony w kremowej tkaninie dopasowanej do dekoru willi. Zestaw 20 wioseł: niestandardowe trzony z włókna węglowego w matowej kremowej barwie ze złotym pasem 24K przy ferrule i łopatkami malowanymi ręcznie motywami rafy koralowej przez xiamenową artystkę morską Liao Fang. Kontrolowana wilgotnością szafka przechowywania została zbudowana przez partnerską stolarnię Afarer w Mediolanie, wysłana w płaskich pakietach i zmontowana na wyspie.',
+                'Zakład OLagoon w Xiamen wydzielił osobną linię produkcyjną dla zamówienia Al Nabigha. Każda deska była układana ręcznie z PVC barwionym na miarę w kolorze «Arabian Teal» — niestandardowy kolor Pantone (PMS 7712 C) dopasowany do głębszych stref rafy wyspy. Tłoczenie złotego liścia: 0,5 mikrona złota 24K nałożone wokół herbu rodziny, chronione 3 warstwami utwardzalnego UV epoksydu klasy morskiej. OLagoon pozyskał ciche pompki elektryczne (JOBE Aero, zmodyfikowane z obudowami tłumiącymi hałas redukującymi pracę do 38 dB — ciszej niż ambientsalny dźwięk fal wyspy). Kabel zasilania każdej pompki był pleciony w kremowej tkaninie dopasowanej do dekoru willi. Zestaw 20 wioseł: niestandardowe trzony z włókna węglowego w matowej kremowej barwie ze złotym pasem 24K przy ferrule i łopatkami malowanymi ręcznie motywami rafy koralowej przez xiamenową artystkę morską Liao Fang. Kontrolowana wilgotnością szafka przechowywania została zbudowana przez partnerską stolarnię OLagoon w Mediolanie, wysłana w płaskich pakietach i zmontowana na wyspie.',
             },
             {
               title: 'Protokół usługi white-glove i szkolenie personelu',
               detail:
-                'Saeed Al Mazrouei wybrał 6 pracowników wyspy (3 kamerdynerów, 2 obsługę plażową, 1 pomocnika mariny) na trening White-Glove Service Afarer w maju 2024. 5-dniowy program obejmował: powitanie gości (deski prezentowane na stojaku rattanowym, nigdy nie kładzione na ziemi), ceremonię pompowania (pompka startowała przed przybyciem gościa — deska gotowa, gdy gość dociera na plażę — zmierzone 11,5 minuty od startu pompki do pełnych 15 PSI), osobiste dopasowanie (właściwa wysokość wiosła, dopasowanie leash, rozmiar kamizelki ratunkowej — MUSI być dyskretne, więc Afarer dostarczył pompowane kamizele ratunkowe w kolorze kremowym z matowym złotym okuciem) i opiekę po sesji (deska przecierana cleanerem o neutralnym pH, środek ochronny UV aplikowany co 5 sesji, inspekcja zaworu i ponowne zwinięcie do szuflady w 8 minut od wyjścia gościa). Podręcznik protokołu (45 stron, oprawiony w skórę ze złoceniami krawędzi) był przechowywany w ukrytym sejfie kabany. Opinia Hamdana po szkoleniu: «Tak należy traktować sprzęt».',
+                'Saeed Al Mazrouei wybrał 6 pracowników wyspy (3 kamerdynerów, 2 obsługę plażową, 1 pomocnika mariny) na trening White-Glove Service OLagoon w maju 2024. 5-dniowy program obejmował: powitanie gości (deski prezentowane na stojaku rattanowym, nigdy nie kładzione na ziemi), ceremonię pompowania (pompka startowała przed przybyciem gościa — deska gotowa, gdy gość dociera na plażę — zmierzone 11,5 minuty od startu pompki do pełnych 15 PSI), osobiste dopasowanie (właściwa wysokość wiosła, dopasowanie leash, rozmiar kamizelki ratunkowej — MUSI być dyskretne, więc OLagoon dostarczył pompowane kamizele ratunkowe w kolorze kremowym z matowym złotym okuciem) i opiekę po sesji (deska przecierana cleanerem o neutralnym pH, środek ochronny UV aplikowany co 5 sesji, inspekcja zaworu i ponowne zwinięcie do szuflady w 8 minut od wyjścia gościa). Podręcznik protokołu (45 stron, oprawiony w skórę ze złoceniami krawędzi) był przechowywany w ukrytym sejfie kabany. Opinia Hamdana po szkoleniu: «Tak należy traktować sprzęt».',
             },
             {
               title:
                 'Dostawa w czerwcu 2024 i pierwszy weekend VIP (odwołany pobyt księcia Andrew zastąpiony emirem katarskim)',
               detail:
-                'Pierwsze pełne rozmieszczenie floty było dla wizyty państwowej emira Kataru, Tamima bin Hamada Al Thaniego, i jego rodziny 24 czerwca 2024 (pierwotnie zaplanowane dla brytyjskiego króla, który wycofał się). Sześć SUP-ów było rozstawionych na prywatnej plaży do 7:30. 14-letni syn emira, szejk Jassim, wiosłował 3 godziny z przewodnikiem-biologiem morskim (także przeszkolonym przez Afarer), odkrywając ogród koralowy. Hamdan relacjonował: «Syn emira powiedział, że to była najlepsza część wizyty». Drugie rozmieszczenie w październiku 2024 dla 12 gości z Saudyjskiego Dworu Królewskiego obejmowało wiosłowanie o zachodzie słońca z obsługą szampana (kieliszki trzymane w niestandardowym uchwycie na napoje Afarer, zaprojektowanym, by się nie przewracać w śladzie łodzi). Do marca 2025 deski były używane 47 razy bez uszkodzeń, incydentów konserwacyjnych i skarg gości. Hamdan zamówił 8 dodatkowych desk na prywatny jacht rodziny (65-metrowy «Al Nabigha Star») i zlecił Afarer opracowanie serii wioseł ze złotym liściem na obchody Narodowego Dnia ZEA.',
+                'Pierwsze pełne rozmieszczenie floty było dla wizyty państwowej emira Kataru, Tamima bin Hamada Al Thaniego, i jego rodziny 24 czerwca 2024 (pierwotnie zaplanowane dla brytyjskiego króla, który wycofał się). Sześć SUP-ów było rozstawionych na prywatnej plaży do 7:30. 14-letni syn emira, szejk Jassim, wiosłował 3 godziny z przewodnikiem-biologiem morskim (także przeszkolonym przez OLagoon), odkrywając ogród koralowy. Hamdan relacjonował: «Syn emira powiedział, że to była najlepsza część wizyty». Drugie rozmieszczenie w październiku 2024 dla 12 gości z Saudyjskiego Dworu Królewskiego obejmowało wiosłowanie o zachodzie słońca z obsługą szampana (kieliszki trzymane w niestandardowym uchwycie na napoje OLagoon, zaprojektowanym, by się nie przewracać w śladzie łodzi). Do marca 2025 deski były używane 47 razy bez uszkodzeń, incydentów konserwacyjnych i skarg gości. Hamdan zamówił 8 dodatkowych desk na prywatny jacht rodziny (65-metrowy «Al Nabigha Star») i zlecił OLagoon opracowanie serii wioseł ze złotym liściem na obchody Narodowego Dnia ZEA.',
             },
           ],
           results: [
             'Flota 20 desk rozmieszczona na 47 sesji gości VIP w pierwszych 9 miesiącach bez incydentów konserwacyjnych i skarg gości',
             'Średni czas konfiguracji 11,5 minuty dla cichego systemu pompki elektrycznej; pakowanie po sesji w 8 minut — oba przekraczające 15-minutowy standard usługi luksusowej',
             'Niestandardowe meble przechowywania utrzymywały średnio 58% wilgotności (optymalne dla PVC); zero pleśni i degradacji materiału',
-            'Złożono dodatkowe zamówienie na 8 desk na jacht rodzinny «Al Nabigha Star»; Afarer zlecono wyłączną serię wioseł ze złotym liściem na Narodowy Dzień ZEA 2025',
+            'Złożono dodatkowe zamówienie na 8 desk na jacht rodzinny «Al Nabigha Star»; OLagoon zlecono wyłączną serię wioseł ze złotym liściem na Narodowy Dzień ZEA 2025',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego firmy wycieczkowe i jachtowe wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego firmy wycieczkowe i jachtowe wybierają OLagoon',
       items: [
         {
           title: 'Środowisko morskie',
@@ -4224,19 +4224,19 @@ const pl: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Jak kompaktowe są deski SUP Afarer po spakowaniu do przechowywania na jachcie?',
+        question: 'Jak kompaktowe są deski SUP OLagoon po spakowaniu do przechowywania na jachcie?',
         answer:
-          'Luksusowe przenośne deski SUP Afarer oferują kompaktowe systemy składania znacząco redukujące objętość przechowywania, łatwo mieszczące się w kabinach jachtów, przedziałach storage i statkach ekspedycyjnych. Każda deska pakuje się w plecak transportowy ze wszystkimi akcesoriami.',
+          'Luksusowe przenośne deski SUP OLagoon oferują kompaktowe systemy składania znacząco redukujące objętość przechowywania, łatwo mieszczące się w kabinach jachtów, przedziałach storage i statkach ekspedycyjnych. Każda deska pakuje się w plecak transportowy ze wszystkimi akcesoriami.',
       },
       {
-        question: 'Czy deski SUP Afarer są odporne na słoną wodę i uszkodzenia UV?',
+        question: 'Czy deski SUP OLagoon są odporne na słoną wodę i uszkodzenia UV?',
         answer:
-          'Tak, Afarer używa materiałów klasy morskiej, w tym komponentów odpornych na słoną wodę, okucia odpornego na korozję, konstrukcji odpornej na UV i trwałych warstw PVC zaprojektowanych specjalnie, by wytrzymać środowiska oceaniczne, wilgotność i ekspozycję słoneczną.',
+          'Tak, OLagoon używa materiałów klasy morskiej, w tym komponentów odpornych na słoną wodę, okucia odpornego na korozję, konstrukcji odpornej na UV i trwałych warstw PVC zaprojektowanych specjalnie, by wytrzymać środowiska oceaniczne, wilgotność i ekspozycję słoneczną.',
       },
       {
         question: 'Czy możecie personalizować deski SUP brandingiem mojej firmy jachtowej lub wycieczkowej?',
         answer:
-          'Tak, Afarer oferuje pełną personalizację obejmującą loga jachtów, tożsamość firmy wycieczkowej, premium projekt kolorów w różnych stylach, pasujące markowe wiosła, niestandardowe torby i kompletne zestawy sprzętu odzwierciedlające luksusowe pozycjonowanie Twojej marki.',
+          'Tak, OLagoon oferuje pełną personalizację obejmującą loga jachtów, tożsamość firmy wycieczkowej, premium projekt kolorów w różnych stylach, pasujące markowe wiosła, niestandardowe torby i kompletne zestawy sprzętu odzwierciedlające luksusowe pozycjonowanie Twojej marki.',
       },
       {
         question: 'Co obejmuje luksusowy przenośny pakiet SUP?',
@@ -4246,18 +4246,18 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jak łatwo członkom załogi przygotować i rozstawić sprzęt?',
         answer:
-          'Afarer zapewnia przewodniki operacyjne dla załogi obejmujące procedury pompowania, obchodzenie się ze sprzętem, metody czyszczenia i checklisty inspekcji. Lekki, przenośny projekt pozwala na szybsze rozstawienie i łatwiejszą obsługę w porównaniu z tradycyjnymi deskami twardymi.',
+          'OLagoon zapewnia przewodniki operacyjne dla załogi obejmujące procedury pompowania, obchodzenie się ze sprzętem, metody czyszczenia i checklisty inspekcji. Lekki, przenośny projekt pozwala na szybsze rozstawienie i łatwiejszą obsługę w porównaniu z tradycyjnymi deskami twardymi.',
       },
       {
         question: 'Czy oferujecie zbiorcze rozwiązania dla linii wycieczkowych z wieloma statkami?',
         answer:
-          'Tak, Afarer wspiera firmy wycieczkowe, biznesy czarteru jachtów i marki hotelarstwa morskiego rozwiązaniami w skali flot, w tym spójną jakością produktu na wszystkich statkach, efektywnością zakupów hurtowych i zstandaryzowanymi pakietami sprzętowymi.',
+          'Tak, OLagoon wspiera firmy wycieczkowe, biznesy czarteru jachtów i marki hotelarstwa morskiego rozwiązaniami w skali flot, w tym spójną jakością produktu na wszystkich statkach, efektywnością zakupów hurtowych i zstandaryzowanymi pakietami sprzętowymi.',
       },
     ],
     cta: {
-      title: 'Stwórz swoje luksusowe doświadczenie wodne z Afarer',
+      title: 'Stwórz swoje luksusowe doświadczenie wodne z OLagoon',
       subtitle:
-        'Ocean to Twoja destynacja. Teraz stwórz na nim niezapomniane doświadczenia. Afarer pomaga firmom wycieczkowym, operatorom jachtów, biznesom czarterowym i markom hotelarstwa morskiego budować premium przenośne doświadczenia SUP.',
+        'Ocean to Twoja destynacja. Teraz stwórz na nim niezapomniane doświadczenia. OLagoon pomaga firmom wycieczkowym, operatorom jachtów, biznesom czarterowym i markom hotelarstwa morskiego budować premium przenośne doświadczenia SUP.',
       primaryAction: {
         text: 'Rozpocznij swój luksusowy morski projekt SUP już dziś',
       },
@@ -4271,7 +4271,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent desek przyjaznych zwierzętom | Dostawca psich desek SUP OEM | {SITE}',
       description:
-        'Afarer tworzy niestandardowe deski przyjazne zwierzętom dla marek psich przygód i firm outdoorowych dla zwierząt. Trwałe odporne na zarysowania konstrukcje SUP, szerokie stabilne platformy, produkcja OEM i rozwiązania private label.',
+        'OLagoon tworzy niestandardowe deski przyjazne zwierzętom dla marek psich przygód i firm outdoorowych dla zwierząt. Trwałe odporne na zarysowania konstrukcje SUP, szerokie stabilne platformy, produkcja OEM i rozwiązania private label.',
     },
     hero: {
       tagline: 'Program desek SUP przyjaznych zwierzętom™',
@@ -4313,7 +4313,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Projekt SUP zoptymalizowany dla zwierząt',
           description:
-            'Afarer rozwija konstrukcje SUP stworzone specjalnie do użytku ze zwierzętami z ultrastabilną szeroką platformą o zwiększonej szerokości deski, większym obszarze stania i długim obszarze aktywności na całym decku dla psów wszystkich rozmiarów.',
+            'OLagoon rozwija konstrukcje SUP stworzone specjalnie do użytku ze zwierzętami z ultrastabilną szeroką platformą o zwiększonej szerokości deski, większym obszarze stania i długim obszarze aktywności na całym decku dla psów wszystkich rozmiarów.',
           features: [
             'Ultrastabilny projekt szerokiej platformy',
             'Długi obszar aktywności na całym decku',
@@ -4323,43 +4323,43 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Struktura materiałowa odporna na zarysowania i zabezpieczona przed zwierzętami',
           description:
-            'Afarer wspiera wzmocnioną konstrukcję PVC odporną na zarysowania, ciężkie pełnopokryciowe pady deckowe EVA o zwiększonej przyczepności i konstrukcję antyprzebiciową chroniącą przed naciskiem pazurów.',
+            'OLagoon wspiera wzmocnioną konstrukcję PVC odporną na zarysowania, ciężkie pełnopokryciowe pady deckowe EVA o zwiększonej przyczepności i konstrukcję antyprzebiciową chroniącą przed naciskiem pazurów.',
           features: ['Wzmocniona konstrukcja PVC', 'Ciężki pad deckowy EVA', 'Konstrukcja antyprzebiciowa'],
         },
         {
           title: 'Konfiguracja produktów przyjazna zwierzętom',
           description:
-            'Afarer wspiera kompletne rozwiązania produktowe, w tym standardowe pakiety pet SUP z deskami i akcesoriami, premium pakiety psich przygód z akcesoriami bezpieczeństwa i podróżne pakiety pet na wyjazdy samochodowe i kempingi.',
+            'OLagoon wspiera kompletne rozwiązania produktowe, w tym standardowe pakiety pet SUP z deskami i akcesoriami, premium pakiety psich przygód z akcesoriami bezpieczeństwa i podróżne pakiety pet na wyjazdy samochodowe i kempingi.',
           features: ['Standardowy pakiet pet SUP', 'Premium pakiet psiej przygody', 'Podróżny pakiet pet'],
         },
         {
           title: 'Niestandardowy rozwój pet SUP private label',
           description:
-            'Afarer pomaga markom dla zwierząt tworzyć produkty z własną marką z umiejscowieniem logo, kolorami i projektem graficznym, projektem zorientowanym na lifestyle dla pozycjonowania premium i kolekcjami edycji limitowanych dla influencerów.',
+            'OLagoon pomaga markom dla zwierząt tworzyć produkty z własną marką z umiejscowieniem logo, kolorami i projektem graficznym, projektem zorientowanym na lifestyle dla pozycjonowania premium i kolekcjami edycji limitowanych dla influencerów.',
           features: ['Personalizacja marki', 'Projekt zorientowany na lifestyle', 'Kolekcje edycji limitowanych'],
         },
         {
           title: 'Wsparcie pozycjonowania rynkowego marek pet',
           description:
-            "Afarer rozwija produkty odpowiadające różnym pozycjom marek — od premium marek lifestyle'owych dla zwierząt skupionych na luksusowym wyglądzie, po marki psich przygód skupione na trwałości i rodzinne marki pet skupione na bezpieczeństwie.",
+            "OLagoon rozwija produkty odpowiadające różnym pozycjom marek — od premium marek lifestyle'owych dla zwierząt skupionych na luksusowym wyglądzie, po marki psich przygód skupione na trwałości i rodzinne marki pet skupione na bezpieczeństwie.",
           features: ["Premium marki lifestyle'owe dla zwierząt", 'Marki psich przygód', 'Rodzinne marki pet'],
         },
         {
           title: 'Wsparcie OEM dla przedsiębiorców produktów pet',
           description:
-            'Wiele marek dla zwierząt ma społeczności klientów i zdolności marketingowe, ale brakuje im wiedzy produkcyjnej. Afarer zapewnia rozwój produktów, tworzenie prototypów, produkcję, kontrolę jakości i wsparcie eksportowe.',
+            'Wiele marek dla zwierząt ma społeczności klientów i zdolności marketingowe, ale brakuje im wiedzy produkcyjnej. OLagoon zapewnia rozwój produktów, tworzenie prototypów, produkcję, kontrolę jakości i wsparcie eksportowe.',
           features: ['Rozwój produktów', 'Tworzenie prototypów', 'Wsparcie produkcyjne'],
         },
         {
           title: 'Projekt produktów przyjazny treściom',
           description:
-            "Afarer wspiera projekty zoptymalizowane pod widoczność w mediach społecznościowych z atrakcyjną grafiką i wyglądem lifestyle'owym, zachęcające do zdjęć i filmów klientów tworzących doświadczenia do udostępniania i zaangażowanie społeczności.",
+            "OLagoon wspiera projekty zoptymalizowane pod widoczność w mediach społecznościowych z atrakcyjną grafiką i wyglądem lifestyle'owym, zachęcające do zdjęć i filmów klientów tworzących doświadczenia do udostępniania i zaangażowanie społeczności.",
           features: ['Widoczność w mediach społecznościowych', 'Zdjęcia i filmy klientów', 'Rozpoznawalność marki'],
         },
         {
           title: 'Kontrola jakości dla bezpieczeństwa zwierząt',
           description:
-            'Afarer stawia na bezpieczeństwo materiałów, sprawdzając trwałość powierzchni, testuje wydajność produktów — pompowanie i stabilność — oraz prowadzi finalną inspekcję wyglądu, akcesoriów i opakowań.',
+            'OLagoon stawia na bezpieczeństwo materiałów, sprawdzając trwałość powierzchni, testuje wydajność produktów — pompowanie i stabilność — oraz prowadzi finalną inspekcję wyglądu, akcesoriów i opakowań.',
           features: ['Bezpieczeństwo materiałów', 'Wydajność produktów', 'Finalna inspekcja'],
         },
       ],
@@ -4376,7 +4376,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Rozwój produktu',
           detail:
-            'Afarer zaprojektował konstrukcję SUP specjalnie dla zwierząt, w tym szerszy kształt deski, większy obszar decku i wzmocnioną powierzchnię dla bezpiecznej i komfortowej obecności psów na desce.',
+            'OLagoon zaprojektował konstrukcję SUP specjalnie dla zwierząt, w tym szerszy kształt deski, większy obszar decku i wzmocnioną powierzchnię dla bezpiecznej i komfortowej obecności psów na desce.',
         },
         {
           title: 'Optymalizacja materiałowa',
@@ -4414,22 +4414,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Badania i rozwój produktów dla psów oraz inżynieria bezpieczeństwa',
               detail:
-                'W styczniu 2025 Emma i jej zespół produktowy spędzili tydzień w laboratorium innowacji Afarer z inżynierami materiałowymi Afarer i konsultantem weterynaryjnym. Opracowali 3 innowacje dedykowane psom — (1) pad deckowy o podwójnej gęstości ze strefami superprzyczepności dla psich łap o współczynniku tarcia 3-krotnie wyższym niż standardowe pady, (2) wzmocnioną sekcję środkową o przetestowanej nośności 50 kg (testowanej na symulacjach wagi labradora i golden retrievera) oraz (3) system uchwytów D kompatybilny z psimi kamizelkami ratunkowymi. Afarer wyprodukował 6 wariantów prototypowych, a zespół Emmy przeprowadził 8 tygodni testów z 50 właścicielami psów w całej Wielkiej Brytanii, doszlifowując projekt na podstawie 347 odpowiedzi ankietowych. Finalny projekt miał tłoczone odciski łap, materiał «odporny na błoto» i zintegrowany z padem deckowym uchwyt na worki na odchody.',
+                'W styczniu 2025 Emma i jej zespół produktowy spędzili tydzień w laboratorium innowacji OLagoon z inżynierami materiałowymi OLagoon i konsultantem weterynaryjnym. Opracowali 3 innowacje dedykowane psom — (1) pad deckowy o podwójnej gęstości ze strefami superprzyczepności dla psich łap o współczynniku tarcia 3-krotnie wyższym niż standardowe pady, (2) wzmocnioną sekcję środkową o przetestowanej nośności 50 kg (testowanej na symulacjach wagi labradora i golden retrievera) oraz (3) system uchwytów D kompatybilny z psimi kamizelkami ratunkowymi. OLagoon wyprodukował 6 wariantów prototypowych, a zespół Emmy przeprowadził 8 tygodni testów z 50 właścicielami psów w całej Wielkiej Brytanii, doszlifowując projekt na podstawie 347 odpowiedzi ankietowych. Finalny projekt miał tłoczone odciski łap, materiał «odporny na błoto» i zintegrowany z padem deckowym uchwyt na worki na odchody.',
             },
             {
               title: 'Rozwój marki, opakowania i zgodność detaliczna pet',
               detail:
-                "Zespół projektowy Afarer stworzył identyfikację wizualną «Paws & Paddle Adventure», w tym opakowania ze zdjęciami psów, woblery półkowe i kody QR prowadzące do wideoprzewodnika «Dog SUP Safety». Zadebiutowały 3 modele — «The Spaniel» (10' uniwersalna dla psów małych i średnich), «The Labrador» (11'6\" wielofunkcyjna dla psów średnich i dużych) i «The Retriever» (12'6\" touringowa dla dużych psów i dłuższych wypraw). Afarer obsłużył certyfikację UKCA i oznakowanie CE oraz opracował pakiet zgodności Pet Industry Federation z ostrzeżeniami bezpieczeństwa, limitami wagi psów i dokumentacją odpowiedzialności. Emma sprzedała w przedsprzedaży 1 800 sztuk przez istniejącą sieć detaliczną pet jeszcze przed rozpoczęciem produkcji.",
+                "Zespół projektowy OLagoon stworzył identyfikację wizualną «Paws & Paddle Adventure», w tym opakowania ze zdjęciami psów, woblery półkowe i kody QR prowadzące do wideoprzewodnika «Dog SUP Safety». Zadebiutowały 3 modele — «The Spaniel» (10' uniwersalna dla psów małych i średnich), «The Labrador» (11'6\" wielofunkcyjna dla psów średnich i dużych) i «The Retriever» (12'6\" touringowa dla dużych psów i dłuższych wypraw). OLagoon obsłużył certyfikację UKCA i oznakowanie CE oraz opracował pakiet zgodności Pet Industry Federation z ostrzeżeniami bezpieczeństwa, limitami wagi psów i dokumentacją odpowiedzialności. Emma sprzedała w przedsprzedaży 1 800 sztuk przez istniejącą sieć detaliczną pet jeszcze przed rozpoczęciem produkcji.",
             },
             {
               title: 'Kampania premierowa z influencerami i szkolenie detaliczne',
               detail:
-                'Kolekcja zadebiutowała w marcu 2025 ze skoordynowaną kampanią z 12 brytyjskimi influencerami psimi, w tym @myadventureswithoscar (2,1 mln obserwujących) i @the_hiking_husky (890 tys. obserwujących). Afarer zapewnił 50 egzemplarzy demonstracyjnych do treści influencerów i wydarzeń w sklepach zoologicznych. Zespół szkoleniowy Afarer stworzył 20-minutowy moduł «Retail Pro» obejmujący bezpieczeństwo psiego SUP, dopasowanie dla różnych ras i sprzedaż krzyżową psich kamizelek ratunkowych i ochraniaczy na łapy. 340 partnerów detalicznych Paws & Paddle zorganizowało dni demonstracyjne w sklepach, gdzie klienci mogli wypróbować deski ze swoimi psami w basenach inflatable — 78% uczestników demonstracji dokonało zakupu.',
+                'Kolekcja zadebiutowała w marcu 2025 ze skoordynowaną kampanią z 12 brytyjskimi influencerami psimi, w tym @myadventureswithoscar (2,1 mln obserwujących) i @the_hiking_husky (890 tys. obserwujących). OLagoon zapewnił 50 egzemplarzy demonstracyjnych do treści influencerów i wydarzeń w sklepach zoologicznych. Zespół szkoleniowy OLagoon stworzył 20-minutowy moduł «Retail Pro» obejmujący bezpieczeństwo psiego SUP, dopasowanie dla różnych ras i sprzedaż krzyżową psich kamizelek ratunkowych i ochraniaczy na łapy. 340 partnerów detalicznych Paws & Paddle zorganizowało dni demonstracyjne w sklepach, gdzie klienci mogli wypróbować deski ze swoimi psami w basenach inflatable — 78% uczestników demonstracji dokonało zakupu.',
             },
             {
               title: 'Rozbudowa kategorii i program partnerstwa weterynaryjnego',
               detail:
-                'Do września 2025 linia SUP przyjazna psom sprzedała 4 200 sztuk w 340 lokalizacjach detalicznych, generując 2,1 mln GBP przychodów hurtowych (40% powyżej celu 1,5 mln GBP). Model «The Labrador» odpowiadał za 52% sprzedaży. Emma uruchomiła pionierskie partnerstwo z British Veterinary Association promujące bezpieczeństwo psów na wodzie, a Afarer wyprodukował 5 000 broszur «Dog SUP Safety» dystrybuowanych przez weterynarzy. Ponowne zamówienie 3 000 sztuk obejmowało nowy model «The Terrier» (8\'6" dla małych psów) i dopasowaną linię psich kamizelek ratunkowych. Kolekcja została uznana «Pet Product of the Year» na targach UK Pet Show 2025.',
+                'Do września 2025 linia SUP przyjazna psom sprzedała 4 200 sztuk w 340 lokalizacjach detalicznych, generując 2,1 mln GBP przychodów hurtowych (40% powyżej celu 1,5 mln GBP). Model «The Labrador» odpowiadał za 52% sprzedaży. Emma uruchomiła pionierskie partnerstwo z British Veterinary Association promujące bezpieczeństwo psów na wodzie, a OLagoon wyprodukował 5 000 broszur «Dog SUP Safety» dystrybuowanych przez weterynarzy. Ponowne zamówienie 3 000 sztuk obejmowało nowy model «The Terrier» (8\'6" dla małych psów) i dopasowaną linię psich kamizelek ratunkowych. Kolekcja została uznana «Pet Product of the Year» na targach UK Pet Show 2025.',
             },
           ],
           results: [
@@ -4446,28 +4446,28 @@ const pl: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Australia',
             background:
               "Blue Heeler Expeditions został założony w 2018 przez byłego psiego przewodnika australijskiej armii, a obecnie behawiorystę psów, Lachlana «Locky» Murphy'ego. Locky specjalizował się w treningu ras o wysokiej energii (kelpie, heelery, border collie) i zbudował oddane grono zwolenników dzięki swojemu kanałowi na YouTube (480 tys. subskrybentów) i wyprzedawanym warsztatom. Miał obiekt o powierzchni 1 100 m² koło rzeki Noosa, ale chciał stworzyć zupełnie nową kategorię — ustrukturyzowany program treningu i certyfikacji psiego SUP. Posiadanie psów w Australii było na rekordowym poziomie (5,1 mln psów), a hasztag #dogpaddle był trendem w australijskich mediach społecznościowych, ale nikt nie oferował profesjonalnego treningu psiego SUP ani sprzętu zaprojektowanego na klimat australijski.",
-            goal: "Opracowanie kompleksowego programu «Canine SUP Certification» z deskami Afarer na zamówienie, przeszkolenie i certyfikacja 80 instruktorów w całej Australii w ciągu 18 miesięcy oraz wygenerowanie 1,2 mln AUD przychodów z programu dzięki połączeniu sprzedaży desk, opłat certyfikacyjnych i merchandise'u.",
+            goal: "Opracowanie kompleksowego programu «Canine SUP Certification» z deskami OLagoon na zamówienie, przeszkolenie i certyfikacja 80 instruktorów w całej Australii w ciągu 18 miesięcy oraz wygenerowanie 1,2 mln AUD przychodów z programu dzięki połączeniu sprzedaży desk, opłat certyfikacyjnych i merchandise'u.",
           },
           steps: [
             {
               title: 'Analiza zachowań psów i rozwój protokołu treningowego SUP',
               detail:
-                'Locky spędził 3 miesiące, od października do grudnia 2024, pracując z zespołem produktowym Afarer i badaczem biomechaniki zwierząt z Uniwersytetu Queensland nad projektem deski zoptymalizowanej pod trening równowagi psów. Stworzyli szeroką platformę 12\' x 34" z ultramiękkim paddingiem deckowym z EVA (8 mm wobec standardowych 4 mm), niskoprofilowymi rantami ułatwiającymi psom wejście na deskę i antypoślizgową fakturą powierzchni przetestowaną na 14 rasach psów. Locky przetestował 30 psów na 6 iteracjach prototypu i opracował 5-etapowy protokół treningu psiego SUP — etap 1 (oswajanie z deską na lądzie), etap 2 (statyczne unoszenie się na wodzie), etap 3 (wiosłowanie w pozycji siedzącej), etap 4 (wiosłowanie w pozycji stojącej z psem siedzącym), etap 5 (pełne wiosłowanie z psem stojącym). Afarer wyprodukował 200 desk instruktorskich z niestandardową grafiką «Blue Heeler» z sylwetką australijskiego psa pognaczego.',
+                'Locky spędził 3 miesiące, od października do grudnia 2024, pracując z zespołem produktowym OLagoon i badaczem biomechaniki zwierząt z Uniwersytetu Queensland nad projektem deski zoptymalizowanej pod trening równowagi psów. Stworzyli szeroką platformę 12\' x 34" z ultramiękkim paddingiem deckowym z EVA (8 mm wobec standardowych 4 mm), niskoprofilowymi rantami ułatwiającymi psom wejście na deskę i antypoślizgową fakturą powierzchni przetestowaną na 14 rasach psów. Locky przetestował 30 psów na 6 iteracjach prototypu i opracował 5-etapowy protokół treningu psiego SUP — etap 1 (oswajanie z deską na lądzie), etap 2 (statyczne unoszenie się na wodzie), etap 3 (wiosłowanie w pozycji siedzącej), etap 4 (wiosłowanie w pozycji stojącej z psem siedzącym), etap 5 (pełne wiosłowanie z psem stojącym). OLagoon wyprodukował 200 desk instruktorskich z niestandardową grafiką «Blue Heeler» z sylwetką australijskiego psa pognaczego.',
             },
             {
               title: 'Program certyfikacji instruktorów i ramy regulacyjne',
               detail:
-                'Locky i Afarer wspólnie opracowali 3-poziomową certyfikację instruktora psiego SUP — poziom 1 (40 godzin online plus praktyka weekendowa), poziom 2 (10 dni zaawansowanych z ratownictwem wodnym) i poziom 3 (14 dni na instruktora mistrzowskiego). Program obejmował zachowanie psów na wodzie, pierwszą pomoc dla psów, podejścia treningowe specyficzne dla ras, australijskie przepisy bezpieczeństwa wodnego, wymogi ubezpieczeniowe i zakładanie biznesu. Afarer sfinansował stworzenie 25 godzin materiałów wideo HD nagranych nad rzeką Noosa i wyprodukował 200-stronicowy podręcznik instruktora. Locky uruchomił program certyfikacji w lutym 2025 z początkową grupą 24 kandydatów — wszyscy 24 zdali poziom 1, a 18 kontynuowało na poziom 2.',
+                'Locky i OLagoon wspólnie opracowali 3-poziomową certyfikację instruktora psiego SUP — poziom 1 (40 godzin online plus praktyka weekendowa), poziom 2 (10 dni zaawansowanych z ratownictwem wodnym) i poziom 3 (14 dni na instruktora mistrzowskiego). Program obejmował zachowanie psów na wodzie, pierwszą pomoc dla psów, podejścia treningowe specyficzne dla ras, australijskie przepisy bezpieczeństwa wodnego, wymogi ubezpieczeniowe i zakładanie biznesu. OLagoon sfinansował stworzenie 25 godzin materiałów wideo HD nagranych nad rzeką Noosa i wyprodukował 200-stronicowy podręcznik instruktora. Locky uruchomił program certyfikacji w lutym 2025 z początkową grupą 24 kandydatów — wszyscy 24 zdali poziom 1, a 18 kontynuowało na poziom 2.',
             },
             {
               title: 'Zakres sprzętu, dystrybucja detaliczna i premiera na YouTube',
               detail:
-                "Marka «Blue Heeler Expeditions» Locky'ego zadebiutowała 4 produktami detalicznymi — deską «Blue» (12' deska instruktorska za 899 AUD), deską «Heeler» (10'6\" rekreacyjna deska dla psów za 649 AUD), kamizelką ratunkową dla psów (89 AUD) i treningowym systemem ze smyczą (39 AUD). Afarer wyprodukował 1 000 sztuk na początkowy potok detaliczny i instruktorski. Locky wydał 6-odcinkową serię na YouTube «Paddle Paws» dokumentującą protokół treningowy — pierwszy odcinek zyskał 2,1 mln wyświetleń w 2 tygodnie. W ciągu 30 dni strona Locky'ego otrzymała 47 000 zapytań zamówieniowych, a 340 Australijczyków zapisało się na listę oczekujących na certyfikację instruktorską.",
+                "Marka «Blue Heeler Expeditions» Locky'ego zadebiutowała 4 produktami detalicznymi — deską «Blue» (12' deska instruktorska za 899 AUD), deską «Heeler» (10'6\" rekreacyjna deska dla psów za 649 AUD), kamizelką ratunkową dla psów (89 AUD) i treningowym systemem ze smyczą (39 AUD). OLagoon wyprodukował 1 000 sztuk na początkowy potok detaliczny i instruktorski. Locky wydał 6-odcinkową serię na YouTube «Paddle Paws» dokumentującą protokół treningowy — pierwszy odcinek zyskał 2,1 mln wyświetleń w 2 tygodnie. W ciągu 30 dni strona Locky'ego otrzymała 47 000 zapytań zamówieniowych, a 340 Australijczyków zapisało się na listę oczekujących na certyfikację instruktorską.",
             },
             {
               title: 'Skala programu, ekspansja ogólnokrajowa i zapytania międzynarodowe',
               detail:
-                'Do sierpnia 2025 Blue Heeler Expeditions miał 85 certyfikowanych instruktorów we wszystkich stanach Australii (5 powyżej 18-miesięcznego celu osiągniętego w 6 miesięcy). Instruktorzy płacili 2 500 AUD za certyfikację poziomu 1 plus 899 AUD za deskę, co wygenerowało 296 tys. AUD przychodów z certyfikacji. Locky sprzedał 1 400 desk detalicznych właścicielom zwierząt, 200 desk instruktorskich certyfikowanym trenerom i 3 400 psich kamizelek ratunkowych. Całkowite przychody programu osiągnęły 1,85 mln AUD w 8 miesięcy (54% powyżej 18-miesięcznego celu 1,2 mln AUD). Locky otrzymał zapytania z 14 krajów i podpisał umowę licencyjną z amerykańskim partnerem na wersję północnoamerykańską. Afarer zobowiązał się do wyłącznego 3-letniego globalnego partnerstwa dla linii produktów Canine SUP.',
+                'Do sierpnia 2025 Blue Heeler Expeditions miał 85 certyfikowanych instruktorów we wszystkich stanach Australii (5 powyżej 18-miesięcznego celu osiągniętego w 6 miesięcy). Instruktorzy płacili 2 500 AUD za certyfikację poziomu 1 plus 899 AUD za deskę, co wygenerowało 296 tys. AUD przychodów z certyfikacji. Locky sprzedał 1 400 desk detalicznych właścicielom zwierząt, 200 desk instruktorskich certyfikowanym trenerom i 3 400 psich kamizelek ratunkowych. Całkowite przychody programu osiągnęły 1,85 mln AUD w 8 miesięcy (54% powyżej 18-miesięcznego celu 1,2 mln AUD). Locky otrzymał zapytania z 14 krajów i podpisał umowę licencyjną z amerykańskim partnerem na wersję północnoamerykańską. OLagoon zobowiązał się do wyłącznego 3-letniego globalnego partnerstwa dla linii produktów Canine SUP.',
             },
           ],
           results: [
@@ -4479,8 +4479,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego marki przygodowe dla zwierząt wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego marki przygodowe dla zwierząt wybierają OLagoon',
       items: [
         {
           title: 'Bezpieczeństwo zwierząt',
@@ -4528,26 +4528,26 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy marki dla zwierząt mogą personalizować deski SUP własnym logo i kolorami?',
         answer:
-          'Oczywiście. Afarer oferuje pełną personalizację marki, w tym umiejscowienie logo, dopasowanie kolorów, projekt graficzny i opakowania z marką. Wspieramy też kolekcje edycji limitowanych dla influencerów pet i sezonowe premiery produktów.',
+          'Oczywiście. OLagoon oferuje pełną personalizację marki, w tym umiejscowienie logo, dopasowanie kolorów, projekt graficzny i opakowania z marką. Wspieramy też kolekcje edycji limitowanych dla influencerów pet i sezonowe premiery produktów.',
       },
       {
         question: 'Jaki rozmiar deski jest zalecany do wiosłowania z psem?',
         answer:
-          'Do wiosłowania z psami zaleca się szersze deski z większymi obszarami decku. Projekty Afarer przyjazne zwierzętom mają zwiększoną szerokość deski i długie obszary aktywności na całym decku, komfortowo mieszczące psy małe, średnie i duże przy zachowaniu stabilności.',
+          'Do wiosłowania z psami zaleca się szersze deski z większymi obszarami decku. Projekty OLagoon przyjazne zwierzętom mają zwiększoną szerokość deski i długie obszary aktywności na całym decku, komfortowo mieszczące psy małe, średnie i duże przy zachowaniu stabilności.',
       },
       {
         question: 'Czy oferujecie kompletne pakiety pet SUP z akcesoriami?',
         answer:
-          'Tak, Afarer oferuje standardowe pakiety pet SUP obejmujące deskę, wiosło, pompę, leash, torbę transportową i zestaw naprawczy, a także premium pakiety psich przygód z akcesoriami bezpieczeństwa dla zwierząt i podróżne pakiety pet zoptymalizowane pod wyjazdy samochodowe i kempingi.',
+          'Tak, OLagoon oferuje standardowe pakiety pet SUP obejmujące deskę, wiosło, pompę, leash, torbę transportową i zestaw naprawczy, a także premium pakiety psich przygód z akcesoriami bezpieczeństwa dla zwierząt i podróżne pakiety pet zoptymalizowane pod wyjazdy samochodowe i kempingi.',
       },
       {
         question: 'Jaka jest minimalna wielkość zamówienia niestandardowych desk SUP przyjaznych zwierzętom?',
         answer:
-          'Afarer współpracuje z markami dla zwierząt każdego rozmiaru. Minimalne wielkości zamówień mogą być ustrukturyzowane pod etap rozwoju marki — od limitowanych serii premierowych dla influencerów pet po pełnoskalowe serie produkcyjne dla ugruntowanych marek outdoorowych dla zwierząt.',
+          'OLagoon współpracuje z markami dla zwierząt każdego rozmiaru. Minimalne wielkości zamówień mogą być ustrukturyzowane pod etap rozwoju marki — od limitowanych serii premierowych dla influencerów pet po pełnoskalowe serie produkcyjne dla ugruntowanych marek outdoorowych dla zwierząt.',
       },
     ],
     cta: {
-      title: 'Stwórz swoją markę SUP przygodową dla zwierząt z Afarerem',
+      title: 'Stwórz swoją markę SUP przygodową dla zwierząt z OLagoonem',
       subtitle: 'Przyszłość produktów dla zwierząt nie jest tylko w domu. Jest na zewnątrz.',
       primaryAction: {
         text: 'Rozpocznij swój projekt SUP przyjaznego zwierzętom już dziś',
@@ -4562,7 +4562,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent luksusowych niestandardowych desek SUP | {SITE}',
       description:
-        'Afarer tworzy premium kolekcje niestandardowych desek SUP dla prywatnych wysp, klubów jachtowych, luksusowych kurortów i elitarnych marek lifestyle. Ekskluzywne projekty, luksusowe materiały, personalizacja VIP i produkcja OEM w wersji boutique.',
+        'OLagoon tworzy premium kolekcje niestandardowych desek SUP dla prywatnych wysp, klubów jachtowych, luksusowych kurortów i elitarnych marek lifestyle. Ekskluzywne projekty, luksusowe materiały, personalizacja VIP i produkcja OEM w wersji boutique.',
     },
     hero: {
       tagline:
@@ -4604,7 +4604,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Ekskluzywny luksusowy projekt SUP',
           description:
-            'Afarer wspiera pełną personalizację estetyczną z rozwojem niestandardowych kolorów, tonami specyficznymi dla marki i projektami dopasowanymi do resortu. Style obejmują Ocean Luxury z głębokim granatem i perłową bielą, Tropical Island z naturalnymi tonami oraz Modern Yacht z minimalistycznymi kolorami i wykończeniami premium.',
+            'OLagoon wspiera pełną personalizację estetyczną z rozwojem niestandardowych kolorów, tonami specyficznymi dla marki i projektami dopasowanymi do resortu. Style obejmują Ocean Luxury z głębokim granatem i perłową bielą, Tropical Island z naturalnymi tonami oraz Modern Yacht z minimalistycznymi kolorami i wykończeniami premium.',
         },
         {
           title: 'Dobór materiałów i wykończeń premium',
@@ -4691,17 +4691,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Współpraca przy projekcie szytym na miarę i dobór materiałów',
               detail:
-                'W sierpniu 2024 Voss nawiązała współpracę z dywizją customową Afarer ze szczegółowym briefem — deski muszą odpowiadać palecie kolorów resortu «Ocean Sand» (ciepły beż, grafitowy węgiel, róż i morski turkus) z padem deckowym o fakturze stiukowej dopasowaną do podłóg willi. Zespół projektowy Afarer opracował 14 prototypów wariantów kolorystycznych w ciągu 6 tygodni, wybierając 5-warstwowy rdzeń fusion drop stitch ze skórą PVC UV-stabilizowaną, matową. Każda deska otrzymała ręcznie malowane logo ze złotą folią — palmowy emblemat marki Coco — nakładane przez balijskiego rzemieślnika, co zajmowało 4 godziny na deskę. Zamówienie 30 desk (25 Explorer 11\'6" X, 5 touringowych 12\'6") wyniosło łącznie 87 000 USD.',
+                'W sierpniu 2024 Voss nawiązała współpracę z dywizją customową OLagoon ze szczegółowym briefem — deski muszą odpowiadać palecie kolorów resortu «Ocean Sand» (ciepły beż, grafitowy węgiel, róż i morski turkus) z padem deckowym o fakturze stiukowej dopasowaną do podłóg willi. Zespół projektowy OLagoon opracował 14 prototypów wariantów kolorystycznych w ciągu 6 tygodni, wybierając 5-warstwowy rdzeń fusion drop stitch ze skórą PVC UV-stabilizowaną, matową. Każda deska otrzymała ręcznie malowane logo ze złotą folią — palmowy emblemat marki Coco — nakładane przez balijskiego rzemieślnika, co zajmowało 4 godziny na deskę. Zamówienie 30 desk (25 Explorer 11\'6" X, 5 touringowych 12\'6") wyniosło łącznie 87 000 USD.',
             },
             {
               title: 'Krok 2: Integracja pływającego pomostu i architektura magazynowa',
               detail:
-                'Voss współpracowała z architektami morskimi Afarer nad projektem dwupoziomowego pływającego systemu valet dla desk. Dolny poziom trzymał 15 desk nosem na zewnątrz do natychmiastowego dostępu gości; górny poziom magazynował 15 desk w niestandardowych zawiesiach z neoprenu chroniących przed degradacją UV. Pomost, zbudowany w Phuket i wysłany w sekcjach modułowych, kosztował 42 tys. USD z instalacją. Każda deska została oznaczona wodoodpornym chipem NFC połączonym z systemem RMS resortu do automatycznych zameldowań i wymeldowań, co zredukowało pracę personelu o 3,2 godziny dziennie wobec poprzedniego papierowego systemu manifestów.',
+                'Voss współpracowała z architektami morskimi OLagoon nad projektem dwupoziomowego pływającego systemu valet dla desk. Dolny poziom trzymał 15 desk nosem na zewnątrz do natychmiastowego dostępu gości; górny poziom magazynował 15 desk w niestandardowych zawiesiach z neoprenu chroniących przed degradacją UV. Pomost, zbudowany w Phuket i wysłany w sekcjach modułowych, kosztował 42 tys. USD z instalacją. Każda deska została oznaczona wodoodpornym chipem NFC połączonym z systemem RMS resortu do automatycznych zameldowań i wymeldowań, co zredukowało pracę personelu o 3,2 godziny dziennie wobec poprzedniego papierowego systemu manifestów.',
             },
             {
               title: 'Krok 3: Szkolenie butlerów SUP i integracja concierge',
               detail:
-                'W listopadzie 2024 zespół szkoleniowy Afarer przeprowadził 4-dniowy intensywny program dla 8 butlerów resortu i 4 pracowników centrum nurkowego na Coco Private Island. Szkolenie obejmowało etykietę SUP dla zamożnych gości (cichy start, serwis owoców przy desce, punkty montażu GoPro). Każdy butler ukończył 15 nadzorowanych sesji z gośćmi. Voss zintegrowała rezerwację SUP z aplikacją concierge willi przed przyjazdem, umożliwiając gościom wcześniejszy wybór koloru deski i planowanie tras o wschodzie słońca, lagunowych i rafowych. Wskaźnik adopcji osiągnął 28% w pierwszych 2 miesiącach.',
+                'W listopadzie 2024 zespół szkoleniowy OLagoon przeprowadził 4-dniowy intensywny program dla 8 butlerów resortu i 4 pracowników centrum nurkowego na Coco Private Island. Szkolenie obejmowało etykietę SUP dla zamożnych gości (cichy start, serwis owoców przy desce, punkty montażu GoPro). Każdy butler ukończył 15 nadzorowanych sesji z gośćmi. Voss zintegrowała rezerwację SUP z aplikacją concierge willi przed przyjazdem, umożliwiając gościom wcześniejszy wybór koloru deski i planowanie tras o wschodzie słońca, lagunowych i rafowych. Wskaźnik adopcji osiągnął 28% w pierwszych 2 miesiącach.',
             },
             {
               title: 'Krok 4: Premiera z influencerami i mierzony zwrot w kapitale społecznym',
@@ -4729,22 +4729,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Transfer wzoru artystycznego i innowacja materiałowa',
               detail:
-                'Od lutego 2025 zespół R&D Afarer i atelier Verlaine spędzili 10 tygodni rozwijając proces sublimacji bezpośredniej na PVC zdolny odtworzyć 14-kolorowy wzór «Geometrica» Verlaine przy 1 200 DPI bez rozlewania kolorów i zniekształceń od rozciągania. Po 18 nieudanych próbkach (wypaczanie wzoru na krzywiźnie rantu) inżynierowie Afarer stworzyli 7-panelowy szablon die-cut pozwalający na druk wstępny na płaskich arkuszach PVC przed laminacją fusion. Każda deska wymagała 11,5 godziny czasu produkcji (wobec 3 godzin dla desk standardowych). Finalna powierzchnia otrzymała matową powłokę antypoślizgową opracowaną wyłącznie dla Verlaine.',
+                'Od lutego 2025 zespół R&D OLagoon i atelier Verlaine spędzili 10 tygodni rozwijając proces sublimacji bezpośredniej na PVC zdolny odtworzyć 14-kolorowy wzór «Geometrica» Verlaine przy 1 200 DPI bez rozlewania kolorów i zniekształceń od rozciągania. Po 18 nieudanych próbkach (wypaczanie wzoru na krzywiźnie rantu) inżynierowie OLagoon stworzyli 7-panelowy szablon die-cut pozwalający na druk wstępny na płaskich arkuszach PVC przed laminacją fusion. Każda deska wymagała 11,5 godziny czasu produkcji (wobec 3 godzin dla desk standardowych). Finalna powierzchnia otrzymała matową powłokę antypoślizgową opracowaną wyłącznie dla Verlaine.',
             },
             {
               title: 'Krok 2: Strategia opakowań, rozpakowania i prezentacji detalicznej',
               detail:
-                'Rinaldi nalegał na doświadczenie rozpakowania «na poziomie flagowego sklepu». Afarer współpracował z projektantami opakowań Verlaine nad stworzeniem sztywnej walizki podróżnej oklejonej charakterystycznym ekru canvasem Verlaine z narożnymi ochraniaczami ze skóry (wyprodukowanymi przez własną pracownię galanterii skórzanej Verlaine w Toskanii). Walizka mieściła SUP, 3-częściowe wiosło z włókna węglowego z monogramem Verlaine, pompę na zamówienie z manometrem grawerowanym motywem Geometrica oraz numerowany certyfikat autentyczności w kopercie z tłoczeniem foliowym. Całkowity koszt opakowania na sztukę wyniósł 340 EUR. Kompletny zestaw ważył 26 kg — wystarczająco lekko do odprawy pierwszą klasą linii lotniczych.',
+                'Rinaldi nalegał na doświadczenie rozpakowania «na poziomie flagowego sklepu». OLagoon współpracował z projektantami opakowań Verlaine nad stworzeniem sztywnej walizki podróżnej oklejonej charakterystycznym ekru canvasem Verlaine z narożnymi ochraniaczami ze skóry (wyprodukowanymi przez własną pracownię galanterii skórzanej Verlaine w Toskanii). Walizka mieściła SUP, 3-częściowe wiosło z włókna węglowego z monogramem Verlaine, pompę na zamówienie z manometrem grawerowanym motywem Geometrica oraz numerowany certyfikat autentyczności w kopercie z tłoczeniem foliowym. Całkowity koszt opakowania na sztukę wyniósł 340 EUR. Kompletny zestaw ważył 26 kg — wystarczająco lekko do odprawy pierwszą klasą linii lotniczych.',
             },
             {
               title: 'Krok 3: Podgląd dla klientów VIP i model sprzedaży wyłącznie na spotkania',
               detail:
-                'Kolekcja zadebiutowała 8 maja 2025 podczas Mediolańskiego Tygodnia Designu z prywatnym podglądem wyłącznie na spotkania we flagowym sklepie Verlaine przy Via Monte Napoleone. Tylko 200 klientów otrzymało tłoczone zaproszenia. Każde 45-minutowe spotkanie obejmowało demonstrację SUP na żywo w zbudowanym na zamówienie basenie o pojemności 40 000 litrów na dziedzińcu sklepu, z ambasadorem marki Afarer demonstrowanym sztywność deski (napompowanej do 18 PSI pompą z marką Verlaine). 127 sztuk sprzedano w przedsprzedaży podczas Tygodnia Designu, generując 1,62 mln EUR depozytów. Rinaldi ograniczył promocję w mediach społecznościowych wyłącznie do prywatnych kanałów WhatsApp klientów Verlaine.',
+                'Kolekcja zadebiutowała 8 maja 2025 podczas Mediolańskiego Tygodnia Designu z prywatnym podglądem wyłącznie na spotkania we flagowym sklepie Verlaine przy Via Monte Napoleone. Tylko 200 klientów otrzymało tłoczone zaproszenia. Każde 45-minutowe spotkanie obejmowało demonstrację SUP na żywo w zbudowanym na zamówienie basenie o pojemności 40 000 litrów na dziedzińcu sklepu, z ambasadorem marki OLagoon demonstrowanym sztywność deski (napompowanej do 18 PSI pompą z marką Verlaine). 127 sztuk sprzedano w przedsprzedaży podczas Tygodnia Designu, generując 1,62 mln EUR depozytów. Rinaldi ograniczył promocję w mediach społecznościowych wyłącznie do prywatnych kanałów WhatsApp klientów Verlaine.',
             },
             {
               title: 'Krok 4: Globalna realizacja, dostawa concierge i wyniki sell-out',
               detail:
-                'Zamówienia wysyłano od czerwca 2025 z dostawą klasy white-glove do 34 krajów. Każda dostawa obejmowała 90-minutową wirtualną sesję z instruktorem Afarer osobiście przedstawionym klientowi przez wideo WhatsApp. Do listopada 2025 sprzedano 468 z 500 sztuk (93,6% sell-through), generując 5,85 mln EUR przychodów w pełnych cenach detalicznych bez rabatów. Pozostałe 32 sztuki zatrzymano dla kolekcji Archives Verlaine. Rinaldi zgłosił, że 41% kupujących było nowych dla Verlaine — pozyskanych przez kolekcję SUP — ze średnimi dodatkowymi wydatkami 3 200 EUR na odzież gotową podczas spotkania zakupowego.',
+                'Zamówienia wysyłano od czerwca 2025 z dostawą klasy white-glove do 34 krajów. Każda dostawa obejmowała 90-minutową wirtualną sesję z instruktorem OLagoon osobiście przedstawionym klientowi przez wideo WhatsApp. Do listopada 2025 sprzedano 468 z 500 sztuk (93,6% sell-through), generując 5,85 mln EUR przychodów w pełnych cenach detalicznych bez rabatów. Pozostałe 32 sztuki zatrzymano dla kolekcji Archives Verlaine. Rinaldi zgłosił, że 41% kupujących było nowych dla Verlaine — pozyskanych przez kolekcję SUP — ze średnimi dodatkowymi wydatkami 3 200 EUR na odzież gotową podczas spotkania zakupowego.',
             },
           ],
           results: [
@@ -4756,8 +4756,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego luksusowi klienci wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego luksusowi klienci wybierają OLagoon',
       items: [
         {
           title: 'Wrażliwość projektowa',
@@ -4785,39 +4785,39 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jakie opcje personalizacji są dostępne dla luksusowych kolekcji SUP?',
         answer:
-          'Afarer oferuje pełną personalizację, w tym rozwój kolorów na zamówienie, tony specyficzne dla marki, eleganckie wzory, symbole marki, sygnowaną grafikę, konstrukcję PVC premium, niestandardowe faktury decków EVA, wyrafinowane okucia i spersonalizowane opakowania.',
+          'OLagoon oferuje pełną personalizację, w tym rozwój kolorów na zamówienie, tony specyficzne dla marki, eleganckie wzory, symbole marki, sygnowaną grafikę, konstrukcję PVC premium, niestandardowe faktury decków EVA, wyrafinowane okucia i spersonalizowane opakowania.',
       },
       {
         question: 'Jaka jest minimalna wielkość zamówienia dla premium produkcji SUP na zamówienie?',
         answer:
-          "Afarer specjalizuje się w małoseryjnej produkcji luksusowej z typowymi projektami w zakresie 10–50 zestawów. To czyni go idealnym dla właścicieli prywatnych wysp, klubów jachtowych, luksusowych resortów i ekskluzywnych marek lifestyle'owych.",
+          "OLagoon specjalizuje się w małoseryjnej produkcji luksusowej z typowymi projektami w zakresie 10–50 zestawów. To czyni go idealnym dla właścicieli prywatnych wysp, klubów jachtowych, luksusowych resortów i ekskluzywnych marek lifestyle'owych.",
       },
       {
         question: 'Ile trwa proces projektowania i produkcji kolekcji SUP na zamówienie?',
         answer:
-          'Harmonogram zależy od złożoności i poziomu personalizacji. Afarer ściśle współpracuje z każdym klientem od rozwoju koncepcji po produkcję, zazwyczaj kończąc luksusowe kolekcje w terminie odpowiadającym wymogom projektu i potrzebom sezonowym.',
+          'Harmonogram zależy od złożoności i poziomu personalizacji. OLagoon ściśle współpracuje z każdym klientem od rozwoju koncepcji po produkcję, zazwyczaj kończąc luksusowe kolekcje w terminie odpowiadającym wymogom projektu i potrzebom sezonowym.',
       },
       {
         question:
           'Czy deski SUP można zaprojektować tak, by odpowiadały istniejącemu brandingowi i estetyce nieruchomości?',
         answer:
-          'Tak, Afarer specjalizuje się w tworzeniu kolekcji płynnie integrujących się z estetyką nieruchomości. Dopasujemy istniejące kolory marki, motywy architektoniczne i elementy designu wnętrz dla spójnego luksusowego środowiska.',
+          'Tak, OLagoon specjalizuje się w tworzeniu kolekcji płynnie integrujących się z estetyką nieruchomości. Dopasujemy istniejące kolory marki, motywy architektoniczne i elementy designu wnętrz dla spójnego luksusowego środowiska.',
       },
       {
         question: 'Z jakich materiałów wykonuje się luksusowe deski SUP?',
         answer:
-          'Afarer używa konstrukcji PVC premium dla eleganckiego wyglądu i trwałości, materiałów deckowych EVA high-end z niestandardowymi fakturami i kolorami oraz wyrafinowanych komponentów z metali premium na okucia — wszystkich dobranych pod kątem jakości estetycznej i osiągów klasy morskiej.',
+          'OLagoon używa konstrukcji PVC premium dla eleganckiego wyglądu i trwałości, materiałów deckowych EVA high-end z niestandardowymi fakturami i kolorami oraz wyrafinowanych komponentów z metali premium na okucia — wszystkich dobranych pod kątem jakości estetycznej i osiągów klasy morskiej.',
       },
       {
         question: 'Czy oferujecie opakowania na zamówienie dla kolekcji SUP VIP?',
         answer:
-          'Tak, Afarer zapewnia VIP opakowania na zamówienie, w tym markowe pudełka prezentacyjne, luksusowe torby magazynowe, spersonalizowane etykiety i prezentację edycji limitowanej. Doświadczenie rozpakowania jest zaprojektowane tak, by odpowiadać ekskluzywności samego produktu.',
+          'Tak, OLagoon zapewnia VIP opakowania na zamówienie, w tym markowe pudełka prezentacyjne, luksusowe torby magazynowe, spersonalizowane etykiety i prezentację edycji limitowanej. Doświadczenie rozpakowania jest zaprojektowane tak, by odpowiadać ekskluzywności samego produktu.',
       },
     ],
     cta: {
-      title: "Stwórz swoją ekskluzywną kolekcję wodnego lifestyle'u z Afarerem",
+      title: "Stwórz swoją ekskluzywną kolekcję wodnego lifestyle'u z OLagoonem",
       subtitle:
-        'Twoja nieruchomość jest unikalna. Twój sprzęt też powinien być. Pozwól Afarerowi pomóc Ci stworzyć sygnowaną kolekcję SUP.',
+        'Twoja nieruchomość jest unikalna. Twój sprzęt też powinien być. Pozwól OLagoonowi pomóc Ci stworzyć sygnowaną kolekcję SUP.',
       primaryAction: {
         text: 'Rozpocznij swój projekt',
       },
@@ -4831,7 +4831,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent desek SUP do ratownictwa wodnego | {SITE}',
       description:
-        'Afarer zapewnia profesjonalne systemy desek SUP do ratownictwa wodnego dla ratowników, zespołów ratunkowych i organizacji bezpieczeństwa. Deski ratunkowe o dużej ładowności, konstrukcja z wieloma uchwytami, systemy holownicze i niestandardowe rozwiązania OEM.',
+        'OLagoon zapewnia profesjonalne systemy desek SUP do ratownictwa wodnego dla ratowników, zespołów ratunkowych i organizacji bezpieczeństwa. Deski ratunkowe o dużej ładowności, konstrukcja z wieloma uchwytami, systemy holownicze i niestandardowe rozwiązania OEM.',
     },
     hero: {
       tagline:
@@ -4963,7 +4963,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Ratowniczy projekt SUP i integracja medyczna',
               detail:
-                'Od stycznia do kwietnia 2025 Tran współpracował z morskim działem przemysłowym Afarer nad projektem RescuePro 12\'6" XR. Deska ma szerokość 34" dla stabilności przy niskiej prędkości, kadłub z wojskowej klasy PVC grubości 6" (1 200 denier, testowane do 25 PSI) i płaski deck bez rocker dla jednolitego montażu sprzętu. Afarer zintegrował 12 nierdzewnych uchwytów D-ring w konfiguracji dziobowo-rufowej do medycznych modułów mocowanych gumką (pierwsza pomoc, AED, tlen). Deska obejmuje neonowożółty pas widoczności z taśmą odblaskową klasy SOLAS i dziobowy knag holowniczy testowany na naciąg liny 400 kg. Po 14 dniach testów w basenie falowym na University of Queensland zatwierdzono finalny projekt z prędkością maksymalną 7,5 węzła przy obciążeniu (pływak 110 kg + 30 kg sprzętu).',
+                'Od stycznia do kwietnia 2025 Tran współpracował z morskim działem przemysłowym OLagoon nad projektem RescuePro 12\'6" XR. Deska ma szerokość 34" dla stabilności przy niskiej prędkości, kadłub z wojskowej klasy PVC grubości 6" (1 200 denier, testowane do 25 PSI) i płaski deck bez rocker dla jednolitego montażu sprzętu. OLagoon zintegrował 12 nierdzewnych uchwytów D-ring w konfiguracji dziobowo-rufowej do medycznych modułów mocowanych gumką (pierwsza pomoc, AED, tlen). Deska obejmuje neonowożółty pas widoczności z taśmą odblaskową klasy SOLAS i dziobowy knag holowniczy testowany na naciąg liny 400 kg. Po 14 dniach testów w basenie falowym na University of Queensland zatwierdzono finalny projekt z prędkością maksymalną 7,5 węzła przy obciążeniu (pływak 110 kg + 30 kg sprzętu).',
             },
             {
               title: 'Krok 2: Alokacja klubowa, stojaki i system szybkiego rozmieszczenia',
@@ -4973,12 +4973,12 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 3: Certyfikacja ratownicza SUP ratowników i testy kompetencji surfowych',
               detail:
-                'W sierpniu 2025 (przedsezonowy okres szkoleniowy) ratowniczy dział szkoleniowy Afarer przeprowadził 40-godzinną certyfikację SUP Rescue Operator dla 82 starszych ratowników w 5 ośrodkach regionalnych. Kurs obejmował holowanie wiosłem osób nieprzytomnych (hol 100 m w mniej niż 3 min), techniki wejścia i wyjścia ze strefy surfowania ze sprzętem, użycie AED na niestabilnej platformie i unieruchomienie kręgosłupa na desce (kołnierze ortopedyczne zakładane przy utrzymaniu stabilności deski). Każdy kandydat zdawał egzamin praktyczny wymagający 200 m wiosłowania do poszkodowanego, symulowanej akcji ratunkowej osoby nieprzytomnej z odzyskaniem sprzętu i powrotu na brzeg — wszystko w 7 minut. Zdawalność wyniosła 89% (73 z 82). Niedostający kandydaci zostali przeniesieni do ról drugorzędnych.',
+                'W sierpniu 2025 (przedsezonowy okres szkoleniowy) ratowniczy dział szkoleniowy OLagoon przeprowadził 40-godzinną certyfikację SUP Rescue Operator dla 82 starszych ratowników w 5 ośrodkach regionalnych. Kurs obejmował holowanie wiosłem osób nieprzytomnych (hol 100 m w mniej niż 3 min), techniki wejścia i wyjścia ze strefy surfowania ze sprzętem, użycie AED na niestabilnej platformie i unieruchomienie kręgosłupa na desce (kołnierze ortopedyczne zakładane przy utrzymaniu stabilności deski). Każdy kandydat zdawał egzamin praktyczny wymagający 200 m wiosłowania do poszkodowanego, symulowanej akcji ratunkowej osoby nieprzytomnej z odzyskaniem sprzętu i powrotu na brzeg — wszystko w 7 minut. Zdawalność wyniosła 89% (73 z 82). Niedostający kandydaci zostali przeniesieni do ról drugorzędnych.',
             },
             {
               title: 'Krok 4: Rozmieszczenie w sezonie letnim i dane wydajności ratowniczej',
               detail:
-                'Flota SUP Rescue została aktywowana 1 października 2025 we wszystkich 11 klubach na australijskie lato. Do 31 marca 2026 (6-miesięczny sezon) SLSQ odnotował 347 akcji ratunkowych z udziałem SUP wobec 512 akcji IRB, co stanowiło 40,4% wszystkich akcji w wodzie. Średni czas rozmieszczenia SUP wyniósł 47 sekund (wobec 4 min 20 s dla IRB). Najszybsza akcja trwała 22 sekundy — 9-latek złapany w prąd rozwidleniowy 80 m od brzegu na Surfers Paradise. Skuteczność akcji SUP wyniosła 99,1% (344 udane, 3 przypadki wymagały dodatkowego wsparcia IRB). Tran zgłosił 0 urazów od śruby napędowej, 0 awarii desk i 2 naprawy (delaminowane pudełka płetw, obie naprawione w 48 godzin przez serwis szybkiej naprawy Afarer). SLSQ zamówił 18 dodatkowych desk RescuePro na rozmieszczenie w sezonie 2026–27 w klubach North Queensland.',
+                'Flota SUP Rescue została aktywowana 1 października 2025 we wszystkich 11 klubach na australijskie lato. Do 31 marca 2026 (6-miesięczny sezon) SLSQ odnotował 347 akcji ratunkowych z udziałem SUP wobec 512 akcji IRB, co stanowiło 40,4% wszystkich akcji w wodzie. Średni czas rozmieszczenia SUP wyniósł 47 sekund (wobec 4 min 20 s dla IRB). Najszybsza akcja trwała 22 sekundy — 9-latek złapany w prąd rozwidleniowy 80 m od brzegu na Surfers Paradise. Skuteczność akcji SUP wyniosła 99,1% (344 udane, 3 przypadki wymagały dodatkowego wsparcia IRB). Tran zgłosił 0 urazów od śruby napędowej, 0 awarii desk i 2 naprawy (delaminowane pudełka płetw, obie naprawione w 48 godzin przez serwis szybkiej naprawy OLagoon). SLSQ zamówił 18 dodatkowych desk RescuePro na rozmieszczenie w sezonie 2026–27 w klubach North Queensland.',
             },
           ],
           results: [
@@ -5001,7 +5001,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Projekt SUP dla shorebreaku i integracja sprzętu urazowego',
               detail:
-                'Od marca do czerwca 2025 Rodriguez współpracowała z działem ratowniczym Afarer nad adaptacją RescuePro 12\'6" XR do warunków shorebreaku Zachodniego Wybrzeża. Modyfikacje obejmowały zadarty dziób (wznios 2,5") dla zdolności przebijania wydrążonych fal 1–3 ft, konfigurację quad-fin box dla manewrowania w ciasnym surfie i dziobowy pierścień holowniczy do mocowania pływaka ratowniczego. Moduł medyczny wyposażono w zestaw urazowy North American Rescue M9 (staza, opatrunek oklusyjny klatki piersiowej, gaza hemostatyczna), defibrylator Phillips HeartStart FRx AED i urządzenie unieruchamiające Ferno KED. Dział morski NBFD przetestował 4 prototypy w 12 sesjach treningowych przy Wedge przed zatwierdzeniem finalnego projektu.',
+                'Od marca do czerwca 2025 Rodriguez współpracowała z działem ratowniczym OLagoon nad adaptacją RescuePro 12\'6" XR do warunków shorebreaku Zachodniego Wybrzeża. Modyfikacje obejmowały zadarty dziób (wznios 2,5") dla zdolności przebijania wydrążonych fal 1–3 ft, konfigurację quad-fin box dla manewrowania w ciasnym surfie i dziobowy pierścień holowniczy do mocowania pływaka ratowniczego. Moduł medyczny wyposażono w zestaw urazowy North American Rescue M9 (staza, opatrunek oklusyjny klatki piersiowej, gaza hemostatyczna), defibrylator Phillips HeartStart FRx AED i urządzenie unieruchamiające Ferno KED. Dział morski NBFD przetestował 4 prototypy w 12 sesjach treningowych przy Wedge przed zatwierdzeniem finalnego projektu.',
             },
             {
               title: 'Krok 2: Rozmieszczenie stacyjne, przechowywanie i protokoły szybkiego reagowania',
@@ -5011,7 +5011,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 3: Certyfikacja ratownicza SUP dla NBFD i ćwiczenia w realnych warunkach',
               detail:
-                'Przez 5 dni w lipcu 2025 główny instruktor ratowniczy Afarer przeprowadził plażową certyfikację dla 18 oficerów bezpieczeństwa morskiego NBFD. Kurs zmodyfikowano dla warunków Zachodniego Wybrzeża — nurkowanie przez shorebreak na SUP, plażowa ekstrakcja ratownicza (wciąganie poszkodowanego na deskę w łamiącej się fali) i koordynacja scenariuszy z helikopterem Bell 412 NBFD. Rodriguez wymagała, by wszyscy 18 oficerów zdało finalny scenariusz — lokalizacja symulowanego poszkodowanego (manekin 80 kg) 150 m od Wedge w surfie 2–3 ft, unieruchomienie kręgosłupa w wodzie i powrót na plażę, wszystko w 8 minut. Zdawalność wyniosła 100% przy medianie czasu ukończenia 6 minut 12 sekund.',
+                'Przez 5 dni w lipcu 2025 główny instruktor ratowniczy OLagoon przeprowadził plażową certyfikację dla 18 oficerów bezpieczeństwa morskiego NBFD. Kurs zmodyfikowano dla warunków Zachodniego Wybrzeża — nurkowanie przez shorebreak na SUP, plażowa ekstrakcja ratownicza (wciąganie poszkodowanego na deskę w łamiącej się fali) i koordynacja scenariuszy z helikopterem Bell 412 NBFD. Rodriguez wymagała, by wszyscy 18 oficerów zdało finalny scenariusz — lokalizacja symulowanego poszkodowanego (manekin 80 kg) 150 m od Wedge w surfie 2–3 ft, unieruchomienie kręgosłupa w wodzie i powrót na plażę, wszystko w 8 minut. Zdawalność wyniosła 100% przy medianie czasu ukończenia 6 minut 12 sekund.',
             },
             {
               title: 'Krok 4: Aktywacja w Labor Day 2025 i statystyki reagowania awaryjnego',
@@ -5028,8 +5028,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego organizacje ratownicze wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego organizacje ratownicze wybierają OLagoon',
       items: [
         {
           title: 'Bezpieczeństwo przede wszystkim',
@@ -5055,24 +5055,24 @@ const pl: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Jaką nośność zapewniają ratownicze deski SUP Afarer?',
+        question: 'Jaką nośność zapewniają ratownicze deski SUP OLagoon?',
         answer:
-          'Ratownicze deski SUP Afarer mają ultrawysoką nośność zaprojektowaną do jednoczesnego przewożenia ratownika, poszkodowanego, sprzętu ratowniczego i środków medycznych. Ekstraszeroka platforma ratownicza zapewnia zwiększoną stabilność i większe pole robocze dla bezpiecznej pomocy pacjentom.',
+          'Ratownicze deski SUP OLagoon mają ultrawysoką nośność zaprojektowaną do jednoczesnego przewożenia ratownika, poszkodowanego, sprzętu ratowniczego i środków medycznych. Ekstraszeroka platforma ratownicza zapewnia zwiększoną stabilność i większe pole robocze dla bezpiecznej pomocy pacjentom.',
       },
       {
-        question: 'Co odróżnia ratownicze deski SUP Afarer od rekreacyjnych desk do wiosłowania?',
+        question: 'Co odróżnia ratownicze deski SUP OLagoon od rekreacyjnych desk do wiosłowania?',
         answer:
-          'Deski ratownicze Afarer są zaprojektowane specjalnie dla operacji awaryjnych — wysokonośne platformy, liczne uchwyty ratownicze, wzmocnione systemy holowania D-ring, wysoko widoczne kolory, elementy odblaskowe, materiały odporne na ścieranie i konstrukcja ciężkich szwów — funkcje nieobecne w produktach rekreacyjnych.',
+          'Deski ratownicze OLagoon są zaprojektowane specjalnie dla operacji awaryjnych — wysokonośne platformy, liczne uchwyty ratownicze, wzmocnione systemy holowania D-ring, wysoko widoczne kolory, elementy odblaskowe, materiały odporne na ścieranie i konstrukcja ciężkich szwów — funkcje nieobecne w produktach rekreacyjnych.',
       },
       {
         question: 'Jakie opcje kolorystyczne są dostępne dla ratowniczych desk SUP?',
         answer:
-          'Afarer oferuje profesjonalne kolory ratownicze, w tym żółć ratowniczą, pomarańcz bezpieczeństwa i czerwień alarmową. Wszystkie opcje można łączyć z odblaskowymi elementami bezpieczeństwa dla widoczności przy słabym świetle i w nocy, a także z logo zespołów i oznaczeniami agencji.',
+          'OLagoon oferuje profesjonalne kolory ratownicze, w tym żółć ratowniczą, pomarańcz bezpieczeństwa i czerwień alarmową. Wszystkie opcje można łączyć z odblaskowymi elementami bezpieczeństwa dla widoczności przy słabym świetle i w nocy, a także z logo zespołów i oznaczeniami agencji.',
       },
       {
         question: 'Czy ratownicze deski SUP można spersonalizować logo i oznaczeniami naszego zespołu?',
         answer:
-          'Tak, Afarer wspiera pełny branding organizacji ratowniczej, w tym logo zespołów, tożsamość agencji, oznaczenia bezpieczeństwa i niestandardowe schematy kolorów. Pomaga to w profesjonalnym wyglądzie i identyfikacji sprzętu podczas operacji wieloagencyjnych.',
+          'Tak, OLagoon wspiera pełny branding organizacji ratowniczej, w tym logo zespołów, tożsamość agencji, oznaczenia bezpieczeństwa i niestandardowe schematy kolorów. Pomaga to w profesjonalnym wyglądzie i identyfikacji sprzętu podczas operacji wieloagencyjnych.',
       },
       {
         question: 'Jakie akcesoria obejmuje profesjonalny pakiet ratowniczy SUP?',
@@ -5082,13 +5082,13 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jak konserwuje się i przechowuje ratownicze deski SUP?',
         answer:
-          'Deski ratownicze Afarer są zaprojektowane dla łatwej konserwacji z trwałymi materiałami wytrzymującymi częste rozmieszczanie i przechowywanie na zewnątrz. Jako dmuchane pakują się kompaktowo do transportu i przechowywania. Zapewniamy wskazówki konserwacji, procedury inspekcji i komponenty zapasowe dla długoterminowej niezawodności.',
+          'Deski ratownicze OLagoon są zaprojektowane dla łatwej konserwacji z trwałymi materiałami wytrzymującymi częste rozmieszczanie i przechowywanie na zewnątrz. Jako dmuchane pakują się kompaktowo do transportu i przechowywania. Zapewniamy wskazówki konserwacji, procedury inspekcji i komponenty zapasowe dla długoterminowej niezawodności.',
       },
     ],
     cta: {
-      title: 'Zbuduj swój profesjonalny system ratownictwa wodnego z Afarerem',
+      title: 'Zbuduj swój profesjonalny system ratownictwa wodnego z OLagoonem',
       subtitle:
-        'Każda misja ratunkowa wymaga pewności. Afarer pomaga zespołom ratowników, organizacjom ratowniczym, instytucjom szkoleniowym i agencjom awaryjnym budować niezawodne systemy sprzętu bezpieczeństwa wodnego.',
+        'Każda misja ratunkowa wymaga pewności. OLagoon pomaga zespołom ratowników, organizacjom ratowniczym, instytucjom szkoleniowym i agencjom awaryjnym budować niezawodne systemy sprzętu bezpieczeństwa wodnego.',
       primaryAction: {
         text: 'Rozpocznij swój projekt',
       },
@@ -5102,7 +5102,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Dostawca dla dystrybutorów SUP | Producent desek OEM na dużą skalę | {SITE}',
       description:
-        'Afarer współpracuje z globalnymi dystrybutorami i importerami SUP poprzez produkcję OEM na dużą skalę, rozwiązania private label, regionalne wsparcie rynkowe i niezawodne zarządzanie łańcuchem dostaw.',
+        'OLagoon współpracuje z globalnymi dystrybutorami i importerami SUP poprzez produkcję OEM na dużą skalę, rozwiązania private label, regionalne wsparcie rynkowe i niezawodne zarządzanie łańcuchem dostaw.',
     },
     hero: {
       tagline: 'Regionalny partner OEM i łańcucha dostaw™',
@@ -5143,31 +5143,31 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Duża skala produkcji OEM',
           description:
-            'Afarer wspiera zamówienia średniowolumenowe, przesyłki kontenerowe i roczne umowy dostaw na trzech etapach współpracy: testy rynkowe (1 000–3 000 sztuk), ekspansja regionalna (5 000–10 000 sztuk) i skala dużego dystrybutora (10 000–20 000+ sztuk).',
+            'OLagoon wspiera zamówienia średniowolumenowe, przesyłki kontenerowe i roczne umowy dostaw na trzech etapach współpracy: testy rynkowe (1 000–3 000 sztuk), ekspansja regionalna (5 000–10 000 sztuk) i skala dużego dystrybutora (10 000–20 000+ sztuk).',
           features: ['Etap testów rynkowych', 'Etap ekspansji regionalnej', 'Etap dużego dystrybutora'],
         },
         {
           title: 'Ekskluzywny rozwój marek OEM',
           description:
-            'Afarer wspiera dystrybutorów, którzy chcą wyjść poza importowanie, tworząc marki private label z niestandardowym pozycjonowaniem, doborem produktów, projektem graficznym, opakowaniami i ekskluzywnymi kolekcjami produktów.',
+            'OLagoon wspiera dystrybutorów, którzy chcą wyjść poza importowanie, tworząc marki private label z niestandardowym pozycjonowaniem, doborem produktów, projektem graficznym, opakowaniami i ekskluzywnymi kolekcjami produktów.',
           features: ['Rozwój private label', 'Ekskluzywne kolekcje produktów', 'Dyferencjacja konkurencyjna'],
         },
         {
           title: 'Program ochrony rynku regionalnego',
           description:
-            'Dla kwalifikujących się partnerów Afarer oferuje współpracę terytorialną opartą na wielkości rynku i zobowiązaniu, dyferencjację produktów przez ekskluzywną grafikę i konfiguracje oraz wsparcie sieci dealerskiej.',
+            'Dla kwalifikujących się partnerów OLagoon oferuje współpracę terytorialną opartą na wielkości rynku i zobowiązaniu, dyferencjację produktów przez ekskluzywną grafikę i konfiguracje oraz wsparcie sieci dealerskiej.',
           features: ['Współpraca terytorialna', 'Dyferencjacja produktów', 'Wsparcie sieci dealerskiej'],
         },
         {
           title: 'Kompletne planowanie portfolio produktów',
           description:
-            'Afarer pomaga dystrybutorom budować pełne kategorie sportów wodnych, w tym SUP uniwersalne, SUP touringowe, SUP dziecięce, SUP wędkarskie, SUP jogowe, akcesoria i sprzęt rekreacji wodnej.',
+            'OLagoon pomaga dystrybutorom budować pełne kategorie sportów wodnych, w tym SUP uniwersalne, SUP touringowe, SUP dziecięce, SUP wędkarskie, SUP jogowe, akcesoria i sprzęt rekreacji wodnej.',
           features: ['Kategorie produktów SUP', 'Dodatkowa ekspansja produktów', 'Akcesoria'],
         },
         {
           title: 'Wsparcie optymalizacji logistyki',
           description:
-            'Afarer wspiera optymalizację załadunku kontenerów maksymalizującą efektywność wysyłki i ekonomikę importu, planowanie miksów produktowych łączące szybko sprzedające się modele z pozycjami premium oraz koordynację dokumentacji eksportowej.',
+            'OLagoon wspiera optymalizację załadunku kontenerów maksymalizującą efektywność wysyłki i ekonomikę importu, planowanie miksów produktowych łączące szybko sprzedające się modele z pozycjami premium oraz koordynację dokumentacji eksportowej.',
           features: [
             'Optymalizacja załadunku kontenerów',
             'Planowanie miksów produktowych',
@@ -5177,19 +5177,19 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Kontrola jakości dla rynków międzynarodowych',
           description:
-            'Zarządzanie jakością Afarer obejmuje inspekcję materiałową PVC i materiałów drop stitch, monitoring produkcji procesów wytwarzania i finalną inspekcję wysyłkową wyglądu, akcesoriów, opakowań i ilości.',
+            'Zarządzanie jakością OLagoon obejmuje inspekcję materiałową PVC i materiałów drop stitch, monitoring produkcji procesów wytwarzania i finalną inspekcję wysyłkową wyglądu, akcesoriów, opakowań i ilości.',
           features: ['Inspekcja materiałowa', 'Monitoring produkcji', 'Finalna inspekcja wysyłkowa'],
         },
         {
           title: 'Wsparcie sprzedaży dystrybutorskiej',
           description:
-            'Afarer wspiera partnerów specyfikacjami produktów i informacjami technicznymi, materiałami marketingowymi w tym wizualiami produktowymi i lifestylowymi oraz szkoleniem produktowym z przewag, zastosowań i pozycjonowania sprzedażowego.',
+            'OLagoon wspiera partnerów specyfikacjami produktów i informacjami technicznymi, materiałami marketingowymi w tym wizualiami produktowymi i lifestylowymi oraz szkoleniem produktowym z przewag, zastosowań i pozycjonowania sprzedażowego.',
           features: ['Informacje o produktach', 'Materiały marketingowe', 'Szkolenie produktowe'],
         },
         {
           title: 'Długoterminowe partnerstwo dostawcze',
           description:
-            'Afarer stawia na relacje wykraczające poza pojedyncze zamówienia, oferując stabilną bazę produkcyjną, ciągły rozwój produktów i wsparcie wzrostu biznesu od importera przez dystrybutora po właściciela marki regionalnej.',
+            'OLagoon stawia na relacje wykraczające poza pojedyncze zamówienia, oferując stabilną bazę produkcyjną, ciągły rozwój produktów i wsparcie wzrostu biznesu od importera przez dystrybutora po właściciela marki regionalnej.',
           features: ['Stabilna baza produkcyjna', 'Ciągły rozwój produktów', 'Wsparcie wzrostu biznesu'],
         },
       ],
@@ -5206,7 +5206,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Analiza rynku regionalnego',
           detail:
-            'Afarer pomógł zidentyfikować popyt na SUP dla początkujących, okazje rynku rekreacji rodzinnej i zastosowania turystyczne specyficzne dla regionu Bliskiego Wschodu.',
+            'OLagoon pomógł zidentyfikować popyt na SUP dla początkujących, okazje rynku rekreacji rodzinnej i zastosowania turystyczne specyficzne dla regionu Bliskiego Wschodu.',
         },
         {
           title: 'Rozwój portfolio produktów',
@@ -5237,28 +5237,28 @@ const pl: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Australia',
             background:
               'PaddleHub Australia był małym importerem prowadzonym przez założyciela Jamesa Whitfielda, byłego zawodowego surfera, który przez 3 lata dystrybuował generyczne chińskie deski SUP do 45 lokalnych sklepów surfingowych z rocznymi przychodami około 1,8 mln AUD. Mierzył się z erozją marż, bo konkurenci undercutowali ceny, a dostawcy odmawiali ekskluzywności. James zrozumiał, że potrzebuje unikalnej marki własnej z ochroną terytorialną dla zbudowania trwałej wartości. Miał 350 tys. AUD dostępnego kapitału i magazyn w Burleigh Heads, ale potrzebował partnera produkcyjnego zdolnego dostarczyć deski jakości OEM z australijskimi cechami projektowymi i ekskluzywnością regionalną na Oceanie.',
-            goal: 'Stworzenie marki SUP własnej z 12 unikalnymi modelami, podpisanie ponad 200 kont dealerskich w Australii i NZ w 18 miesięcy, osiągnięcie 6 mln AUD rocznych przychodów hurtowych i uzyskanie od Afarer wyłącznych praw dystrybucji na Oceanię.',
+            goal: 'Stworzenie marki SUP własnej z 12 unikalnymi modelami, podpisanie ponad 200 kont dealerskich w Australii i NZ w 18 miesięcy, osiągnięcie 6 mln AUD rocznych przychodów hurtowych i uzyskanie od OLagoon wyłącznych praw dystrybucji na Oceanię.',
           },
           steps: [
             {
               title: 'Negocjacje partnerstwa strategicznego i umowa o wyłącznym terytorium',
               detail:
-                'W lutym 2024 James przedstawił swoją analizę biznesową wiceprezydentowi ds. partnerstw globalnych Afarer na 3-dniowym spotkaniu w zakładzie Afarer w Shenzhen. Afarer przeprowadził badanie wykonalności rynkowej pokazujące, że Australia ma ponad 340 sklepów surfingowych, ponad 180 detalistów sportów wodnych i ponad 60 dealerów morskich mogących prowadzić SUP, ale tylko 23% oferowało obecnie tę kategorię. Afarer przyznał PaddleHub wyłączne prawa dystrybucji na Oceanię dla rodzin platform «WaveGlide» i «Expedition», wymagając minimalnego rocznego zakupu 2,5 mln AUD. James zobowiązał się do początkowego MOQ 800 tys. AUD i przyjął kamienie milowe rozwoju terytorium Afarer, w tym cele liczby dealerów ekskluzywnych.',
+                'W lutym 2024 James przedstawił swoją analizę biznesową wiceprezydentowi ds. partnerstw globalnych OLagoon na 3-dniowym spotkaniu w zakładzie OLagoon w Shenzhen. OLagoon przeprowadził badanie wykonalności rynkowej pokazujące, że Australia ma ponad 340 sklepów surfingowych, ponad 180 detalistów sportów wodnych i ponad 60 dealerów morskich mogących prowadzić SUP, ale tylko 23% oferowało obecnie tę kategorię. OLagoon przyznał PaddleHub wyłączne prawa dystrybucji na Oceanię dla rodzin platform «WaveGlide» i «Expedition», wymagając minimalnego rocznego zakupu 2,5 mln AUD. James zobowiązał się do początkowego MOQ 800 tys. AUD i przyjął kamienie milowe rozwoju terytorium OLagoon, w tym cele liczby dealerów ekskluzywnych.',
             },
             {
               title: 'Rozwój niestandardowej platformy produktowej i adaptacja australijska',
               detail:
-                'Zespół R&D Afarer spędził 6 tygodni nad opracowaniem 12-modelowej oferty PaddleHub, w tym 5 desk uniwersalnych, 3 touringowych, 2 wyścigowych, 1 wędkarskiej i 1 młodzieżowej. Każdy model miał modyfikacje specyficzne dla Australii: PVC stabilizowane UV pod intensywne słońce Queenslandu, wzmocnione burty na skaliste starty Wielkiej Rafy Koralowej i niestandardowe pakiety graficzne z wzorami inspirowanymi aborygeńską sztuką kropkową. Afarer wyprodukował 300 sztuk przedprodukcyjnych we wszystkich 12 modelach, które James rozdzielił wśród 50 testerów beta, w tym właścicieli sklepów surfingowych, instruktorów paddleboardingu i przewodników wędkarskich, dostarczających szczegółowych opinii prowadzących do 23 uszczegółowień projektu.',
+                'Zespół R&D OLagoon spędził 6 tygodni nad opracowaniem 12-modelowej oferty PaddleHub, w tym 5 desk uniwersalnych, 3 touringowych, 2 wyścigowych, 1 wędkarskiej i 1 młodzieżowej. Każdy model miał modyfikacje specyficzne dla Australii: PVC stabilizowane UV pod intensywne słońce Queenslandu, wzmocnione burty na skaliste starty Wielkiej Rafy Koralowej i niestandardowe pakiety graficzne z wzorami inspirowanymi aborygeńską sztuką kropkową. OLagoon wyprodukował 300 sztuk przedprodukcyjnych we wszystkich 12 modelach, które James rozdzielił wśród 50 testerów beta, w tym właścicieli sklepów surfingowych, instruktorów paddleboardingu i przewodników wędkarskich, dostarczających szczegółowych opinii prowadzących do 23 uszczegółowień projektu.',
             },
             {
               title: 'Rekrutacja sieci dealerskiej i rozwój kanałów',
               detail:
-                'James i jego 3-osobowy zespół sprzedaży uruchomili program «Dealer Pro» oferujący ceny poziomowane, warunki 0% na 60 dni dla nowych kont, darmowe stojaki ekspozycyjne i szkolenie personelu. Afarer zapewnił współdzielony system CRM, katalogi produktów, przewodniki porównawcze i stronę z lokalizatorem dealerów. Uczestnicząc w Sydney International Boat Show i 7 regionalnych targach wędkarskich/outdoorowych, James podpisał 97 dealerów w pierwszych 6 miesiącach, w tym duże konta jak Anaconda (42 sklepy), BCF (35 sklepów) i 20 niezależnych sklepów surfingowych. Zespół logistyczny Afarer ustanowił magazyn konsolidacyjny w Sydney z 14-dniową gwarancją dostawy.',
+                'James i jego 3-osobowy zespół sprzedaży uruchomili program «Dealer Pro» oferujący ceny poziomowane, warunki 0% na 60 dni dla nowych kont, darmowe stojaki ekspozycyjne i szkolenie personelu. OLagoon zapewnił współdzielony system CRM, katalogi produktów, przewodniki porównawcze i stronę z lokalizatorem dealerów. Uczestnicząc w Sydney International Boat Show i 7 regionalnych targach wędkarskich/outdoorowych, James podpisał 97 dealerów w pierwszych 6 miesiącach, w tym duże konta jak Anaconda (42 sklepy), BCF (35 sklepów) i 20 niezależnych sklepów surfingowych. Zespół logistyczny OLagoon ustanowił magazyn konsolidacyjny w Sydney z 14-dniową gwarancją dostawy.',
             },
             {
               title: 'Debiut marki, wsparcie marketingowe i przyspieszenie wzrostu',
               detail:
-                'PaddleHub oficjalnie zadebiutował z kampanią za 250 tys. AUD z byłą australijską mistrzynią SUP Jessicą Krieger jako ambasadorką marki. Afarer wniósł fundusze marketingowe co-op równe 4% zakupów hurtowych i wyprodukował 24 filmy produktowe, fotografię produktową 360 stopni i assety social media. Do sierpnia 2025 PaddleHub miał 215 aktywnych kont dealerskich, 5,8 mln AUD przychodów hurtowych w ostatnich 12 miesiącach i złożył 3 dodatkowe zamówienia produkcyjne na łączną kwotę 3,2 mln AUD. James rozszerzył zespół do 12 pracowników, w tym pełnoetatowego menedżera produktu, a PaddleHub stał się drugą największą marką SUP na rynku australijskim pod względem liczby punktów sprzedaży.',
+                'PaddleHub oficjalnie zadebiutował z kampanią za 250 tys. AUD z byłą australijską mistrzynią SUP Jessicą Krieger jako ambasadorką marki. OLagoon wniósł fundusze marketingowe co-op równe 4% zakupów hurtowych i wyprodukował 24 filmy produktowe, fotografię produktową 360 stopni i assety social media. Do sierpnia 2025 PaddleHub miał 215 aktywnych kont dealerskich, 5,8 mln AUD przychodów hurtowych w ostatnich 12 miesiącach i złożył 3 dodatkowe zamówienia produkcyjne na łączną kwotę 3,2 mln AUD. James rozszerzył zespół do 12 pracowników, w tym pełnoetatowego menedżera produktu, a PaddleHub stał się drugą największą marką SUP na rynku australijskim pod względem liczby punktów sprzedaży.',
             },
           ],
           results: [
@@ -5274,41 +5274,41 @@ const pl: Record<string, SolutionOverride> = {
             location: 'Dubaj, ZEA',
             background:
               'Dune Sports DMCC, prowadzona przez emirackiego przedsiębiorcę Rashida Al Maktouma, była dystrybutorem sportów wodnych z siedzibą w Dubaju o rocznych przychodach 2,3 mln USD, dostarczającym skutery wodne i kajaki dealerom morskim w całej Rada Współpracy Zatoki (GCC). Rashid rozpoznał SUP jako niewykorzystaną okazję na Bliskim Wschodzie, gdzie turystyka plażowa, luksusowe resorty i sporty wodne przeżywały boom. Region nie miał dominującej marki SUP, a większość produktów stanowiły niskiej jakości importy sprzedawane na Amazonie bez serwisu i gwarancji. Rashid chciał zostać wyłącznym regionalnym partnerem OEM premium marki SUP zdolnej zdominować bliskowschodni rynek z początkową inwestycją 1,2 mln USD.',
-            goal: 'Uzyskanie od Afarer wyłącznych praw dystrybucji na Bliski Wschód i Afrykę Północną, wypuszczenie premium marki regionalnej w 8 krajach, osiągnięcie 5 mln USD przychodów hurtowych w 24 miesiące i zdobycie ponad 60% udziału w segmencie premium SUP w krajach GCC.',
+            goal: 'Uzyskanie od OLagoon wyłącznych praw dystrybucji na Bliski Wschód i Afrykę Północną, wypuszczenie premium marki regionalnej w 8 krajach, osiągnięcie 5 mln USD przychodów hurtowych w 24 miesiące i zdobycie ponad 60% udziału w segmencie premium SUP w krajach GCC.',
           },
           steps: [
             {
               title: 'Analiza rynku regionalnego i umowa ramowa ekskluzywności',
               detail:
-                'Rashid zlecił 6-tygodniowe badanie rynkowe w ZEA, Arabii Saudyjskiej, Katarze, Kuwejcie, Omanie, Bahrajnie, Egipcie i Jordanii. Badanie zidentyfikowało ponad 280 potencjalnych dealerów, w tym detalistów morskich, działy zakupowe hoteli i sklepy sportowe specjalistyczne, z całkowitym adresowalnym rynkiem 18 mln USD rocznie. W kwietniu 2024 Rashid podpisał z Afarer 5-letnią wyłączną umowę OEM obejmującą 15 krajów MENA, zobowiązując się do minimalnego rocznego zakupu 3 mln USD rosnącego o 15% rocznie. Afarer zgodził się współzainwestować 150 tys. USD w arabskojęzyczne materiały marketingowe, obecność na regionalnych targach branżowych i magazyn części zamiennych w Dubaju.',
+                'Rashid zlecił 6-tygodniowe badanie rynkowe w ZEA, Arabii Saudyjskiej, Katarze, Kuwejcie, Omanie, Bahrajnie, Egipcie i Jordanii. Badanie zidentyfikowało ponad 280 potencjalnych dealerów, w tym detalistów morskich, działy zakupowe hoteli i sklepy sportowe specjalistyczne, z całkowitym adresowalnym rynkiem 18 mln USD rocznie. W kwietniu 2024 Rashid podpisał z OLagoon 5-letnią wyłączną umowę OEM obejmującą 15 krajów MENA, zobowiązując się do minimalnego rocznego zakupu 3 mln USD rosnącego o 15% rocznie. OLagoon zgodził się współzainwestować 150 tys. USD w arabskojęzyczne materiały marketingowe, obecność na regionalnych targach branżowych i magazyn części zamiennych w Dubaju.',
             },
             {
               title: 'Strategia linii produktów i inżynieria zaadaptowana do pustyni',
               detail:
-                'Inżynierowie Afarer opracowali markę «Oryx» dla Dune Sports z 8 modelami zoptymalizowanymi pod warunki bliskowschodnie: PVC odporne na wysokie temperatury (testowane do 75°C temperatury powierzchni), pigmenty stabilne UV nieblaknące w arabskim słońcu i systemy płetw odporne na piasek z mechanizmami szybkiego zwolnienia. Afarer wyprodukował 500 sztuk przeddebiutowych, w tym specjalną edycję «Royal Edition» ze złotymi akcentami i skórzanymi uchwytami na segment luksusowych resortów. Zespół Rashida testował deski w Zatoce Arabskiej, Morzu Czerwonym i krytych basenach falowych, osiągając średnie oceny jakości 4,7/5 od 200 testerów.',
+                'Inżynierowie OLagoon opracowali markę «Oryx» dla Dune Sports z 8 modelami zoptymalizowanymi pod warunki bliskowschodnie: PVC odporne na wysokie temperatury (testowane do 75°C temperatury powierzchni), pigmenty stabilne UV nieblaknące w arabskim słońcu i systemy płetw odporne na piasek z mechanizmami szybkiego zwolnienia. OLagoon wyprodukował 500 sztuk przeddebiutowych, w tym specjalną edycję «Royal Edition» ze złotymi akcentami i skórzanymi uchwytami na segment luksusowych resortów. Zespół Rashida testował deski w Zatoce Arabskiej, Morzu Czerwonym i krytych basenach falowych, osiągając średnie oceny jakości 4,7/5 od 200 testerów.',
             },
             {
               title: 'Rozwój kanałów i partnerstwa hotelowo-resortowe',
               detail:
-                'Rashid zbudował 5-osobowy regionalny zespół sprzedaży z siedzibami w Dubaju, Rijadzie i Kairze. Zespół rozwoju kanałów Afarer zapewnił skrypty rekrutacyjne dla dealerów, prezentacje i 3-poziomowy program dealerski (Platinum, Gold, Silver). Dune Sports uzyskało wyłączne umowy dystrybucyjne z 65 dealerami morskimi i bezpośrednie kontrakty zakupowe z 22 sieciami luksusowych hoteli, w tym Jumeirah, Four Seasons i St. Regis. Marka «Oryx» została określona jako standardowy sprzęt dla nowych rozwójów resortowych Rixos i Anantara w Ras Al Khaimah, projekcie Red Sea Project i na Malediwach.',
+                'Rashid zbudował 5-osobowy regionalny zespół sprzedaży z siedzibami w Dubaju, Rijadzie i Kairze. Zespół rozwoju kanałów OLagoon zapewnił skrypty rekrutacyjne dla dealerów, prezentacje i 3-poziomowy program dealerski (Platinum, Gold, Silver). Dune Sports uzyskało wyłączne umowy dystrybucyjne z 65 dealerami morskimi i bezpośrednie kontrakty zakupowe z 22 sieciami luksusowych hoteli, w tym Jumeirah, Four Seasons i St. Regis. Marka «Oryx» została określona jako standardowy sprzęt dla nowych rozwójów resortowych Rixos i Anantara w Ras Al Khaimah, projekcie Red Sea Project i na Malediwach.',
             },
             {
               title: 'Debiut regionalny, kampania ramadanowa i dominacja rynkowa',
               detail:
-                "Marka «Oryx» zadebiutowała na wszystkich 8 rynkach w październiku 2024 z symultanicznymi wydarzeniami w Dubai Marina Mall, Red Sea Mall w Arabii Saudyjskiej i Doha Festival City w Katarze. Afarer wsparł kampanią marketingową za 200 tys. USD obejmującą arabskie spoty telewizyjne, partnerstwa influence'owe z 15 bliskowschodnimi podróżnikami outdoorowymi i sponsoring Dubai SUP Festival. Do marca 2025 Dune Sports sprzedała 8 400 sztuk, osiągnęła 4,7 mln USD przychodów hurtowych i zdobyła 58% rynku premium SUP w krajach GCC. Rashid skorzystał z pierwszego odnowienia roku opcyjnego z Afarer na 4,5 mln USD rocznych zakupów.",
+                "Marka «Oryx» zadebiutowała na wszystkich 8 rynkach w październiku 2024 z symultanicznymi wydarzeniami w Dubai Marina Mall, Red Sea Mall w Arabii Saudyjskiej i Doha Festival City w Katarze. OLagoon wsparł kampanią marketingową za 200 tys. USD obejmującą arabskie spoty telewizyjne, partnerstwa influence'owe z 15 bliskowschodnimi podróżnikami outdoorowymi i sponsoring Dubai SUP Festival. Do marca 2025 Dune Sports sprzedała 8 400 sztuk, osiągnęła 4,7 mln USD przychodów hurtowych i zdobyła 58% rynku premium SUP w krajach GCC. Rashid skorzystał z pierwszego odnowienia roku opcyjnego z OLagoon na 4,5 mln USD rocznych zakupów.",
             },
           ],
           results: [
             '4,7 mln USD przychodów hurtowych w pierwszych 12 miesiącach w 8 krajach, osiągając 94% celu 24-miesięcznego w połowie czasu',
             '58% udziału w rynku zdobytego w segmencie premium SUP krajów GCC (349–799 USD detal), dominując nad rozproszonymi markami konkurencji',
             '22 wyłącznych kontraktów zakupowych hoteli/resortów zapewniających 3 100 sztuk sprzedanych sektorowi hotelarskiemu z 72% wskaźnikiem zamówień powtórnych',
-            'Wycena Dune Sports wzrosła z 2,3 mln USD do 12 mln USD w 14 miesięcy, a Rashid rozszerzył się na pokrewne kategorie sportów wodnych przez platformę OEM Afarer',
+            'Wycena Dune Sports wzrosła z 2,3 mln USD do 12 mln USD w 14 miesięcy, a Rashid rozszerzył się na pokrewne kategorie sportów wodnych przez platformę OEM OLagoon',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego globalni dystrybutorzy wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego globalni dystrybutorzy wybierają OLagoon',
       items: [
         {
           title: 'Skala produkcji',
@@ -5342,38 +5342,38 @@ const pl: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Co odróżnia Afarer od innych producentów OEM SUP dla dystrybutorów?',
+        question: 'Co odróżnia OLagoon od innych producentów OEM SUP dla dystrybutorów?',
         answer:
-          'Afarer zapewnia kompletny model partnerstwa wykraczający poza produkcję, w tym programy ochrony rynku regionalnego, wsparcie rozwoju ekskluzywnych marek, optymalizację logistyki i szkolenie sprzedażowe dystrybutorów. Stawiamy na długoterminowe relacje pomagające partnerom rosnąć od importerów po właścicieli marek regionalnych.',
+          'OLagoon zapewnia kompletny model partnerstwa wykraczający poza produkcję, w tym programy ochrony rynku regionalnego, wsparcie rozwoju ekskluzywnych marek, optymalizację logistyki i szkolenie sprzedażowe dystrybutorów. Stawiamy na długoterminowe relacje pomagające partnerom rosnąć od importerów po właścicieli marek regionalnych.',
       },
       {
         question: 'Jak działa program ochrony rynku regionalnego dla dystrybutorów ekskluzywnych?',
         answer:
-          'Dla kwalifikujących się partnerów Afarer oferuje umowy współpracy oparte na terytorium, dyferencjację produktów przez ekskluzywną grafikę i konfiguracje oraz wsparcie sieci dealerskiej. Zapewnia to dystrybutorom możliwość inwestowania w rozwój rynku z pewnością, że ich pozycja regionalna jest chroniona.',
+          'Dla kwalifikujących się partnerów OLagoon oferuje umowy współpracy oparte na terytorium, dyferencjację produktów przez ekskluzywną grafikę i konfiguracje oraz wsparcie sieci dealerskiej. Zapewnia to dystrybutorom możliwość inwestowania w rozwój rynku z pewnością, że ich pozycja regionalna jest chroniona.',
       },
       {
         question: 'Jakie są typowe wielkości zamówień na przesyłki SUP na poziomie kontenerów?',
         answer:
-          'Afarer wspiera trzy etapy współpracy: testy rynkowe (1 000–3 000 sztuk), ekspansja regionalna (5 000–10 000 sztuk) i skala dużego dystrybutora (10 000–20 000+ sztuk). Optymalizacja załadunku kontenerów pomaga zmaksymalizować efektywność wysyłki i zredukować koszty importu na sztukę.',
+          'OLagoon wspiera trzy etapy współpracy: testy rynkowe (1 000–3 000 sztuk), ekspansja regionalna (5 000–10 000 sztuk) i skala dużego dystrybutora (10 000–20 000+ sztuk). Optymalizacja załadunku kontenerów pomaga zmaksymalizować efektywność wysyłki i zredukować koszty importu na sztukę.',
       },
       {
-        question: 'Czy dystrybutorzy mogą tworzyć własne marki SUP private label z Afarer?',
+        question: 'Czy dystrybutorzy mogą tworzyć własne marki SUP private label z OLagoon?',
         answer:
-          'Tak, Afarer wspiera kompletny rozwój private label, w tym pozycjonowanie marki, dobór produktów, niestandardowy projekt graficzny, personalizację opakowań i ekskluzywne kolekcje produktów. Pozwala to dystrybutorom budować marki regionalne zamiast konkurować wyłącznie ceną.',
+          'Tak, OLagoon wspiera kompletny rozwój private label, w tym pozycjonowanie marki, dobór produktów, niestandardowy projekt graficzny, personalizację opakowań i ekskluzywne kolekcje produktów. Pozwala to dystrybutorom budować marki regionalne zamiast konkurować wyłącznie ceną.',
       },
       {
-        question: 'Jak Afarer pomaga w optymalizacji logistyki i redukcji kosztów importu?',
+        question: 'Jak OLagoon pomaga w optymalizacji logistyki i redukcji kosztów importu?',
         answer:
-          'Afarer zapewnia optymalizację załadunku kontenerów maksymalizującą efektywność wysyłki, planowanie miksów produktowych łączące szybko sprzedające się modele z pozycjami premium i kompleksowe wsparcie dokumentacji eksportowej usprawniające odprawę celną i redukujące opóźnienia.',
+          'OLagoon zapewnia optymalizację załadunku kontenerów maksymalizującą efektywność wysyłki, planowanie miksów produktowych łączące szybko sprzedające się modele z pozycjami premium i kompleksowe wsparcie dokumentacji eksportowej usprawniające odprawę celną i redukujące opóźnienia.',
       },
       {
         question: 'Jakie procesy kontroli jakości są wdrożone dla przesyłek międzynarodowych?',
         answer:
-          'Afarer wdraża trójstopniowe zarządzanie jakością: inspekcję materiałową komponentów PVC i drop stitch, monitoring produkcji w procesie i finalną inspekcję przedwysyłkową obejmującą wygląd, akcesoria, opakowania i dokładność ilości.',
+          'OLagoon wdraża trójstopniowe zarządzanie jakością: inspekcję materiałową komponentów PVC i drop stitch, monitoring produkcji w procesie i finalną inspekcję przedwysyłkową obejmującą wygląd, akcesoria, opakowania i dokładność ilości.',
       },
     ],
     cta: {
-      title: 'Zostań partnerem regionalnym Afarer',
+      title: 'Zostań partnerem regionalnym OLagoon',
       subtitle: 'Twój rynek zasługuje na niezawodnego partnera dostaw sportów wodnych.',
       primaryAction: {
         text: 'Rozpocznij swoje regionalne partnerstwo OEM już dziś',
@@ -5394,9 +5394,9 @@ const pl: Record<string, SolutionOverride> = {
       tagline: 'Pakiet aktywności wodnych resortu™',
       title: 'Premium rozwiązania SUP i sportów wodnych dla luksusowych hoteli, resortów i marek hotelarstwa',
       subtitle:
-        'Afarer zapewnia kompletne pakiety Resort Water Activity zaprojektowane specjalnie dla biznesów hotelarskich. Pomagamy luksusowym resortom, hotelom plażowym, destynacjom wyspowym, eco-resortom i retretom wellness tworzyć markowe doświadczenia wodne przez niestandardowe floty SUP, systemy przechowywania i szkolenie personelu.',
+        'OLagoon zapewnia kompletne pakiety Resort Water Activity zaprojektowane specjalnie dla biznesów hotelarskich. Pomagamy luksusowym resortom, hotelom plażowym, destynacjom wyspowym, eco-resortom i retretom wellness tworzyć markowe doświadczenia wodne przez niestandardowe floty SUP, systemy przechowywania i szkolenie personelu.',
       image: {
-        alt: 'Pakiet aktywności wodnych resortu Afarer z niestandardowymi markowymi deskami SUP',
+        alt: 'Pakiet aktywności wodnych resortu OLagoon z niestandardowymi markowymi deskami SUP',
       },
     },
     challenge: {
@@ -5430,7 +5430,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Rozwój niestandardowej floty SUP resortu',
           description:
-            'Afarer pomaga resortom rozwijać dedykowane floty sprzętu w oparciu o lokalizację, profil gości, środowisko wodne i programy aktywności. Pakiety wahają się od rodzinnych konfiguracji resortowych ze stabilnymi deskami uniwersalnymi po luksusowe pakiety wyspowe z premium projektami i pakiety retretów wellness ze szerokimi deskami jogi SUP.',
+            'OLagoon pomaga resortom rozwijać dedykowane floty sprzętu w oparciu o lokalizację, profil gości, środowisko wodne i programy aktywności. Pakiety wahają się od rodzinnych konfiguracji resortowych ze stabilnymi deskami uniwersalnymi po luksusowe pakiety wyspowe z premium projektami i pakiety retretów wellness ze szerokimi deskami jogi SUP.',
           features: [
             'Rodzinny pakiet resortowy',
             'Luksusowy pakiet resortu wyspowego',
@@ -5441,7 +5441,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Personalizacja brandingu resortu',
           description:
-            'Twój sprzęt wodny staje się częścią podróży gościa. Afarer wspiera integrację niestandardowego logo, niestandardowy projekt kolorów dopasowany do architektury resortu i kolorów marki oraz premium opakowania z markowymi akcesoriami i materiałami instruktażowymi dla gości.',
+            'Twój sprzęt wodny staje się częścią podróży gościa. OLagoon wspiera integrację niestandardowego logo, niestandardowy projekt kolorów dopasowany do architektury resortu i kolorów marki oraz premium opakowania z markowymi akcesoriami i materiałami instruktażowymi dla gości.',
           features: [
             'Druk niestandardowego logo',
             'Projekt kolorów dopasowany do marki',
@@ -5452,27 +5452,27 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'System przechowywania i zarządzania sprzętem resortu',
           description:
-            'Afarer pomaga resortom planować przechowywanie sprzętu z regałami SUP, systemami organizacji i rozwiązaniami ochrony przed pogodą z uwzględnieniem ekspozycji słonecznej, wilgotności i środowisk przybrzeżnych. Personel może wydajnie zarządzać codziennym przygotowaniem sprzętu, wypożyczeniami dla gości i inspekcją konserwacyjną.',
+            'OLagoon pomaga resortom planować przechowywanie sprzętu z regałami SUP, systemami organizacji i rozwiązaniami ochrony przed pogodą z uwzględnieniem ekspozycji słonecznej, wilgotności i środowisk przybrzeżnych. Personel może wydajnie zarządzać codziennym przygotowaniem sprzętu, wypożyczeniami dla gości i inspekcją konserwacyjną.',
         },
         {
           title: 'Wsparcie szkolenia bezpieczeństwa i operacji personelu',
           description:
-            'Afarer zapewnia wskazówki operacyjne obejmujące procedury obchodzenia się ze sprzętem, instrukcje pompowania, metody czyszczenia, wytyczne przechowywania, procedury bezpieczeństwa gości i codzienne checklisty operacyjne pokrywające inspekcję przed użyciem i czyszczenie po użyciu.',
+            'OLagoon zapewnia wskazówki operacyjne obejmujące procedury obchodzenia się ze sprzętem, instrukcje pompowania, metody czyszczenia, wytyczne przechowywania, procedury bezpieczeństwa gości i codzienne checklisty operacyjne pokrywające inspekcję przed użyciem i czyszczenie po użyciu.',
         },
         {
           title: 'Kompletny pakiet aktywności wodnych resortu',
           description:
-            'Przykładowe pakiety obejmują niestandardowe markowe deski SUP, regulowane wiosła, pompki, leash bezpieczeństwa, regały przechowywania, zestawy naprawcze i przewodniki operacyjne dla personelu. Afarer może też wspierać ekspansję w produkty fitness wodnego i rodzinny sprzęt wodny.',
+            'Przykładowe pakiety obejmują niestandardowe markowe deski SUP, regulowane wiosła, pompki, leash bezpieczeństwa, regały przechowywania, zestawy naprawcze i przewodniki operacyjne dla personelu. OLagoon może też wspierać ekspansję w produkty fitness wodnego i rodzinny sprzęt wodny.',
         },
         {
           title: 'Sprzęt komercyjny o niskiej konserwacji',
           description:
-            'Sprzęt resortowy musi równoważyć doświadczenie gości, trwałość i efektywność konserwacji. Afarer stawia na trwałą konstrukcję ze wzmocnionym PVC i komponentami klasy komercyjnej, łatwą konserwację ze standardowymi akcesoriami i długoterminową wartość redukującą częstotliwość wymian.',
+            'Sprzęt resortowy musi równoważyć doświadczenie gości, trwałość i efektywność konserwacji. OLagoon stawia na trwałą konstrukcję ze wzmocnionym PVC i komponentami klasy komercyjnej, łatwą konserwację ze standardowymi akcesoriami i długoterminową wartość redukującą częstotliwość wymian.',
         },
         {
           title: 'Wsparcie projektowania doświadczeń resortowych',
           description:
-            'Afarer pomaga zamieniać sprzęt w autorskie aktywności dla gości, w tym doświadczenia SUP o zachodzie słońca dla par, rodzinne przygody oceaniczne, pływające programy wellness dla retretów jogi i aktywności ekologicznego odkrywania dla resortów natury i destynacji morskich.',
+            'OLagoon pomaga zamieniać sprzęt w autorskie aktywności dla gości, w tym doświadczenia SUP o zachodzie słońca dla par, rodzinne przygody oceaniczne, pływające programy wellness dla retretów jogi i aktywności ekologicznego odkrywania dla resortów natury i destynacji morskich.',
         },
       ],
     },
@@ -5488,7 +5488,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Planowanie aktywności resortu',
           detail:
-            'Afarer przeanalizował demografię gości, warunki plażowe i cele aktywności, po czym zarekomendował niestandardową flotę SUP resortu szytą na miarę luksusowego pozycjonowania i oczekiwań gości.',
+            'OLagoon przeanalizował demografię gości, warunki plażowe i cele aktywności, po czym zarekomendował niestandardową flotę SUP resortu szytą na miarę luksusowego pozycjonowania i oczekiwań gości.',
         },
         {
           title: 'Personalizacja produktu',
@@ -5519,29 +5519,29 @@ const pl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Meksyk',
             background:
-              'Ana Sofía Villanueva, 36 lat, jest dyrektorką doświadczeń gości w «Casa del Pacífico», 62-pokojowym (suite) luksusowym eco-resorcie na pacyficznym wybrzeżu Punta Mita (ceny pokoi 1 800–8 000 USD/noc). 12-hektarowy teren resortu obejmuje 3 prywatne plaże, 2 lagunowe baseny i estuarium namorzynowe prowadzące do ukrytych cenote. W 2023 roku ankiety gości pokazały «unikalne doświadczenia wodne» jako nr 1 niezaspokojonego popytu (78% gości ich pragnęło). Ana zwróciła się do Afarer po tym, jak konkurencyjny resort w Tulum uruchomił program SUP — potrzebowała czegoś bardziej ekskluzywnego. Wyzwanie: jeden pakiet działający w oceanicznej fali, spokojnych namorzynach i słodkich cenote ze zmiennymi poziomami światła, prądami i wrażliwościami ekologicznymi.',
+              'Ana Sofía Villanueva, 36 lat, jest dyrektorką doświadczeń gości w «Casa del Pacífico», 62-pokojowym (suite) luksusowym eco-resorcie na pacyficznym wybrzeżu Punta Mita (ceny pokoi 1 800–8 000 USD/noc). 12-hektarowy teren resortu obejmuje 3 prywatne plaże, 2 lagunowe baseny i estuarium namorzynowe prowadzące do ukrytych cenote. W 2023 roku ankiety gości pokazały «unikalne doświadczenia wodne» jako nr 1 niezaspokojonego popytu (78% gości ich pragnęło). Ana zwróciła się do OLagoon po tym, jak konkurencyjny resort w Tulum uruchomił program SUP — potrzebowała czegoś bardziej ekskluzywnego. Wyzwanie: jeden pakiet działający w oceanicznej fali, spokojnych namorzynach i słodkich cenote ze zmiennymi poziomami światła, prądami i wrażliwościami ekologicznymi.',
             goal: 'Opracowanie pakietu «Signature Cenote-to-Ocean SUP Experience» (3-godzinna wycieczka z przewodnikiem, profesjonalna fotografia i meksykańskie menu degustacyjne) za 450 USD/osobę z minimalną marżą zysku 40% i oceną satysfakcji gości 4,8+.',
           },
           steps: [
             {
               title: 'Inwentaryzacja terenowa w marcu 2024 i ocena wpływu na środowisko',
               detail:
-                'Łacińskoamerykański dyrektor biznesowy Afarer Felipe Ortíz i biolożka morska dr Camila Reyes spędzili 10 dni na mapowaniu dróg wodnych Casa del Pacífico. Zidentyfikowali 4 odrębne środowiska SUP: pacyficzne zejście plażowe (stała fala 2–3 stopy), tunel namorzynowy (wąskie 2-metrowe kanały z nawisającymi korzeniami), ukryte cenote (18-metrowej głębokości słodka woda, stała temperatura 24°C, delikatne maty mikrobiologiczne na ścianach) i basen lagunowy (dla gości początkujących). Dr Reyes przeprowadziła próbkowanie osadów i inwentaryzację ptaków gniazdujących dla ustalenia pojemności: maksymalnie 8 gości na wycieczkę, start o 7:30 przed żerowaniem ptaków morskich. Ocena ustaliła, że standardowe deski SUP z pigmentami cynkowo-fosforanowymi wyciekałyby do cenote — Afarer przeszedł na pigmenty ceramiczne.',
+                'Łacińskoamerykański dyrektor biznesowy OLagoon Felipe Ortíz i biolożka morska dr Camila Reyes spędzili 10 dni na mapowaniu dróg wodnych Casa del Pacífico. Zidentyfikowali 4 odrębne środowiska SUP: pacyficzne zejście plażowe (stała fala 2–3 stopy), tunel namorzynowy (wąskie 2-metrowe kanały z nawisającymi korzeniami), ukryte cenote (18-metrowej głębokości słodka woda, stała temperatura 24°C, delikatne maty mikrobiologiczne na ścianach) i basen lagunowy (dla gości początkujących). Dr Reyes przeprowadziła próbkowanie osadów i inwentaryzację ptaków gniazdujących dla ustalenia pojemności: maksymalnie 8 gości na wycieczkę, start o 7:30 przed żerowaniem ptaków morskich. Ocena ustaliła, że standardowe deski SUP z pigmentami cynkowo-fosforanowymi wyciekałyby do cenote — OLagoon przeszedł na pigmenty ceramiczne.',
             },
             {
               title: 'Niestandardowa deska «Explora México» ze zintegrowanym systemem fotograficznym',
               detail:
-                'Afarer zaprojektował «Explora México 10.8» z 4-warstwową konstrukcją, dnem antyporostowym bezpiecznym dla raf (powłoka silikonowa bez biocydów, testowana 200 godzin w 28°C wodzie Pacyfiku) i antyodblaskowym matowym oliwkowozielonym pokładem. Ana poprosiła o profesjonalną fotografię jako część doświadczenia — Afarer zintegrował wodoodporną platformę startową drona w dziobie deski (wzmocniona platforma z włókna węglowego 25×25 cm z powłoką antypoślizgową, testowana do obsługi DJI Mini 4 Pro przy starcie/odzysku z ręki). Każda deska miała też punkt montażowy na podwodny maszt kamerowy. Deski wyprodukowano w limitowanym brandingu «Casa del Pacífico» z geometrycznymi wzorami inspirowanymi Majami — tłoczonymi, nie malowanymi, by uniknąć toksycznego spływu.',
+                'OLagoon zaprojektował «Explora México 10.8» z 4-warstwową konstrukcją, dnem antyporostowym bezpiecznym dla raf (powłoka silikonowa bez biocydów, testowana 200 godzin w 28°C wodzie Pacyfiku) i antyodblaskowym matowym oliwkowozielonym pokładem. Ana poprosiła o profesjonalną fotografię jako część doświadczenia — OLagoon zintegrował wodoodporną platformę startową drona w dziobie deski (wzmocniona platforma z włókna węglowego 25×25 cm z powłoką antypoślizgową, testowana do obsługi DJI Mini 4 Pro przy starcie/odzysku z ręki). Każda deska miała też punkt montażowy na podwodny maszt kamerowy. Deski wyprodukowano w limitowanym brandingu «Casa del Pacífico» z geometrycznymi wzorami inspirowanymi Majami — tłoczonymi, nie malowanymi, by uniknąć toksycznego spływu.',
             },
             {
               title: 'Program certyfikacji przewodników i integracja logistyki',
               detail:
-                'W maju 2024 starszy trener przewodników Afarer Diego Castillo poprowadził 2-tygodniowy intensywny program certyfikujący 8 przewodników aktywności Casa del Pacífico. Program obejmował: technikę startu/odzysku w strefie fal dla pacyficznych załamań plażowych, nawigację namorzynową z przypływami (przewodnik musi znać 3-godzinne okno pływowe, by uniknąć ugrzęźnięcia w błocie podczas odpływu), etykietę cenote (bez filtrów przeciwsłonecznych, bez dotykania ścian — dr Reyes wróciła na półdniową sesję wrażliwości), protokoły awaryjne (w tym spotkania z pumą — namorzyny mają rezydenta samca) i dwujęzyczne przewodnictwo hiszpańsko-angielskie. Afarer zintegrował też inwentarz SUP z systemem Oracle Opera PMS resortu, by rezerwacje SUP pojawiały się automatycznie na rachunkach gości. Przepływ fotograficzny: przewodnicy używają GoPro Hero12 Black z presetem kolorystycznym «Cenote», zdjęcia przekazywane gościom przez kartę NFC w ciągu 30 minut.',
+                'W maju 2024 starszy trener przewodników OLagoon Diego Castillo poprowadził 2-tygodniowy intensywny program certyfikujący 8 przewodników aktywności Casa del Pacífico. Program obejmował: technikę startu/odzysku w strefie fal dla pacyficznych załamań plażowych, nawigację namorzynową z przypływami (przewodnik musi znać 3-godzinne okno pływowe, by uniknąć ugrzęźnięcia w błocie podczas odpływu), etykietę cenote (bez filtrów przeciwsłonecznych, bez dotykania ścian — dr Reyes wróciła na półdniową sesję wrażliwości), protokoły awaryjne (w tym spotkania z pumą — namorzyny mają rezydenta samca) i dwujęzyczne przewodnictwo hiszpańsko-angielskie. OLagoon zintegrował też inwentarz SUP z systemem Oracle Opera PMS resortu, by rezerwacje SUP pojawiały się automatycznie na rachunkach gości. Przepływ fotograficzny: przewodnicy używają GoPro Hero12 Black z presetem kolorystycznym «Cenote», zdjęcia przekazywane gościom przez kartę NFC w ciągu 30 minut.',
             },
             {
               title: 'Debiut w szczycie sezonu w listopadzie 2024 i pokrycie medialne',
               detail:
-                'Doświadczenie «Cenote-to-Ocean» zadebiutowało 15 listopada 2024 (start wysokiego sezonu Punta Mita). Pierwsze 30 dni: 112 wycieczek sprzedanych po 450 USD/osobę = 50 400 USD przychodów. Dziennikarka Condé Nast Traveler była gościem nr 47; jej artykuł «Najnowszy ekso-thrill Meksyku: paddleboarding z cenote na Pacyfik» opublikowany w styczniu 2025 napędził ponad 800 rezerwacji do marca. Satysfakcja gości średnio 4,94/5 w 340 wycieczkach. Resort dodał dodatek «Golden Hour» za 150 USD (sesja zachodniosłońcna z profesjonalnym operatorem drona, szampanem i ostrygami) — 94% gości go kupiło. Do kwietnia 2025 program wygenerował 1,12 mln USD bezpośrednich przychodów z marżą 52%. Casa del Pacífico zamówiło 20 dodatkowych desk na 2026 i zleciło Afarer opracowanie pakietu «Whale-Watching SUP» (migracja humbaków grudzień–marzec).',
+                'Doświadczenie «Cenote-to-Ocean» zadebiutowało 15 listopada 2024 (start wysokiego sezonu Punta Mita). Pierwsze 30 dni: 112 wycieczek sprzedanych po 450 USD/osobę = 50 400 USD przychodów. Dziennikarka Condé Nast Traveler była gościem nr 47; jej artykuł «Najnowszy ekso-thrill Meksyku: paddleboarding z cenote na Pacyfik» opublikowany w styczniu 2025 napędził ponad 800 rezerwacji do marca. Satysfakcja gości średnio 4,94/5 w 340 wycieczkach. Resort dodał dodatek «Golden Hour» za 150 USD (sesja zachodniosłońcna z profesjonalnym operatorem drona, szampanem i ostrygami) — 94% gości go kupiło. Do kwietnia 2025 program wygenerował 1,12 mln USD bezpośrednich przychodów z marżą 52%. Casa del Pacífico zamówiło 20 dodatkowych desk na 2026 i zleciło OLagoon opracowanie pakietu «Whale-Watching SUP» (migracja humbaków grudzień–marzec).',
             },
           ],
           results: [
@@ -5556,19 +5556,19 @@ const pl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Tajlandia',
             background:
-              "Pimchanok «Mint» Suwannarat, 32 lata, jest dyrektorką doświadczeń w «Veranda Samui», 5-gwiazdkowym resorcie z widokiem na plażę Chaweng Noi z 98 willami i średnim pobytem 6,4 nocy. Mint zauważyła, że 73% gości rezerwowało przynajmniej jedną «wycieczkę wyspową» (typowo rejs motorówką do parku morskiego Ang Thong za 3 500 THB/osobę), ale ankiety po pobycie skarżyły się na «zatłoczone wycieczki» i «za dużo postojów, za mało wiosłowania». Wizjonowała wielodniową ekspedycję SUP, w której goście wiosłują między Koh Samui a okolicznymi wyspami, nocując w eco-lodge'ach i obozach plażowych. Żaden resort w Tajlandii tego nie oferował. Potrzebowała Afarer do zaprojektowania sprzętu klasy ekspedycyjnej wspierającego wielodniowe samodzielne podróże ze sprzętem kempingowym i zapasami w zachodnich standardach luksusowych.",
+              "Pimchanok «Mint» Suwannarat, 32 lata, jest dyrektorką doświadczeń w «Veranda Samui», 5-gwiazdkowym resorcie z widokiem na plażę Chaweng Noi z 98 willami i średnim pobytem 6,4 nocy. Mint zauważyła, że 73% gości rezerwowało przynajmniej jedną «wycieczkę wyspową» (typowo rejs motorówką do parku morskiego Ang Thong za 3 500 THB/osobę), ale ankiety po pobycie skarżyły się na «zatłoczone wycieczki» i «za dużo postojów, za mało wiosłowania». Wizjonowała wielodniową ekspedycję SUP, w której goście wiosłują między Koh Samui a okolicznymi wyspami, nocując w eco-lodge'ach i obozach plażowych. Żaden resort w Tajlandii tego nie oferował. Potrzebowała OLagoon do zaprojektowania sprzętu klasy ekspedycyjnej wspierającego wielodniowe samodzielne podróże ze sprzętem kempingowym i zapasami w zachodnich standardach luksusowych.",
             goal: 'Uruchomienie «The Samui Archipelago Paddle» — 5-dniowej, 4-nocnej ekspedycji SUP z przewodnikiem obejmującej 4 wyspy (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → powrót) za 89 000 THB (2 500 USD)/osobę, z minimum 12 wyjazdami rocznie przy 100% obłożeniu.',
           },
           steps: [
             {
               title: 'Mapowanie trasy i inwentaryzacja logistyczna archipelagu Samui',
               detail:
-                'W październiku 2023 specjalista ekspedycyjny Afarer na Azję-Pacyfik Tomo Kato i tajlandzki ekolog morski dr Narong Chaiyasit spędzili 14 dni na przepłynięciu i motorowym wsparciu proponowanej trasy. Zidentyfikowali 7 krytycznych czynników: wzorce wiatrów monsunowych (monsun północno-wschodni listopad–styczeń czyni przeprawę Koh Samui–Koh Phangan niebezpieczną; luty–październik jest bezpieczny), miejsca kempingowe na Koh Tao (tylko 2 plażowe lokalizacje z pozwoleniami na namioty — każda ograniczona do 10 osób), uzupełnianie słodkiej wody (brak na Koh Nang Yuan — goście niosą 4 l na osobę dziennie) i korytarze nawigacyjne raf (koral w Shark Bay na Koh Tao wymaga desk z prześwitem ponad 40 cm przy odpływie). Finalna trasa liczyła 68 km w 5 dni z dziennymi dystansami wiosłowania 8–18 km. Tomo przetestował latawcem 14 typów kotwic do kempingu plażowego (stylu Danaforth trzymał najlepiej na piaszczystych dnach Samui).',
+                'W październiku 2023 specjalista ekspedycyjny OLagoon na Azję-Pacyfik Tomo Kato i tajlandzki ekolog morski dr Narong Chaiyasit spędzili 14 dni na przepłynięciu i motorowym wsparciu proponowanej trasy. Zidentyfikowali 7 krytycznych czynników: wzorce wiatrów monsunowych (monsun północno-wschodni listopad–styczeń czyni przeprawę Koh Samui–Koh Phangan niebezpieczną; luty–październik jest bezpieczny), miejsca kempingowe na Koh Tao (tylko 2 plażowe lokalizacje z pozwoleniami na namioty — każda ograniczona do 10 osób), uzupełnianie słodkiej wody (brak na Koh Nang Yuan — goście niosą 4 l na osobę dziennie) i korytarze nawigacyjne raf (koral w Shark Bay na Koh Tao wymaga desk z prześwitem ponad 40 cm przy odpływie). Finalna trasa liczyła 68 km w 5 dni z dziennymi dystansami wiosłowania 8–18 km. Tomo przetestował latawcem 14 typów kotwic do kempingu plażowego (stylu Danaforth trzymał najlepiej na piaszczystych dnach Samui).',
             },
             {
               title: 'Deska «Archipelago Expedition» z funkcjami przetrwania i komfortu',
               detail:
-                'Afarer zaprojektował «Veranda Explorer 13.0» o objętości 400 l — wystarczającej do przewiezienia 35 kg sprzętu kempingowego plus 20 kg rzeczy osobistych gościa. Funkcje obejmowały: wodoodporny luk ładunkowy na dziobie z zamkiem nakręcanym (testowany przy 1-metrowym zanurzeniu przez 30 minut), 6 punktów mocowania daisy-chain na worki wodoszczelne, system bungee pokładu z szybkim zwolnieniem do dostępu do kamery i demontowaną sterówkę rufową do oceanicznego utrzymania kursu (odcinek Koh Phangan–Koh Tao ma 2-węzłowy prąd poprzeczny). Mint nalegała na komfort: każda deska miała pompowane oparcie («LoungePak») z uchwytem na kubek i opatentowane zadaszenie «ShadowDeck» (napinany maszt z włókna węglowego z tkaniną UPF 50+, testowany w upale 35°C). Afarer wyprodukował 24 deski: 12 dla gości, 6 dla przewodników, 6 zapasowych.',
+                'OLagoon zaprojektował «Veranda Explorer 13.0» o objętości 400 l — wystarczającej do przewiezienia 35 kg sprzętu kempingowego plus 20 kg rzeczy osobistych gościa. Funkcje obejmowały: wodoodporny luk ładunkowy na dziobie z zamkiem nakręcanym (testowany przy 1-metrowym zanurzeniu przez 30 minut), 6 punktów mocowania daisy-chain na worki wodoszczelne, system bungee pokładu z szybkim zwolnieniem do dostępu do kamery i demontowaną sterówkę rufową do oceanicznego utrzymania kursu (odcinek Koh Phangan–Koh Tao ma 2-węzłowy prąd poprzeczny). Mint nalegała na komfort: każda deska miała pompowane oparcie («LoungePak») z uchwytem na kubek i opatentowane zadaszenie «ShadowDeck» (napinany maszt z włókna węglowego z tkaniną UPF 50+, testowany w upale 35°C). OLagoon wyprodukował 24 deski: 12 dla gości, 6 dla przewodników, 6 zapasowych.',
             },
             {
               title: 'Rekrutacja zespołu przewodników i certyfikacja bezpieczeństwa',
@@ -5578,7 +5578,7 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Inauguracyjna ekspedycja w styczniu 2025 i 12-miesięczny lejek rezerwacji',
               detail:
-                'Maiden voyage wyruszył 15 stycznia 2025 z 6 gośćmi (3 pary, wszyscy Australijczycy, w wieku 34–52 lat). Zespół Mint sfilmował ekspedycję na treści. Przeprawa drugiego dnia na Koh Phangan trafiła na zaskakujący szkwał (wiatr 30 węzłów przez 45 minut) — deski Afarer przeszły go bez wywrotek; protokół przewodników użył formacji «tratwy bezpieczeństwa» (deski związane w wzór gwiazdy). Do marca 2025, 11 z 12 zaplanowanych wyjazdów 2025 było w pełni zarezerwowanych (lista oczekujących 40 gości). Projekcja przychodów na 2025: 12 × 6 gości × 89 000 THB = 6,41 mln THB (178 000 USD). CEO Veranda zatwierdził budowę dedykowanego «Expedition Pavilion» na froncie plażowym na odprawy przed startem. Mint rozwija teraz 3-dniową trasę «Family Explorer» (krótsze dystanse, kemping bazowy w resorcie) na 2026.',
+                'Maiden voyage wyruszył 15 stycznia 2025 z 6 gośćmi (3 pary, wszyscy Australijczycy, w wieku 34–52 lat). Zespół Mint sfilmował ekspedycję na treści. Przeprawa drugiego dnia na Koh Phangan trafiła na zaskakujący szkwał (wiatr 30 węzłów przez 45 minut) — deski OLagoon przeszły go bez wywrotek; protokół przewodników użył formacji «tratwy bezpieczeństwa» (deski związane w wzór gwiazdy). Do marca 2025, 11 z 12 zaplanowanych wyjazdów 2025 było w pełni zarezerwowanych (lista oczekujących 40 gości). Projekcja przychodów na 2025: 12 × 6 gości × 89 000 THB = 6,41 mln THB (178 000 USD). CEO Veranda zatwierdził budowę dedykowanego «Expedition Pavilion» na froncie plażowym na odprawy przed startem. Mint rozwija teraz 3-dniową trasę «Family Explorer» (krótsze dystanse, kemping bazowy w resorcie) na 2026.',
             },
           ],
           results: [
@@ -5590,8 +5590,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego resorty wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego resorty wybierają OLagoon',
       items: [
         {
           title: 'Doświadczenie gości',
@@ -5619,38 +5619,38 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jakie deski SUP są najlepsze na aktywności wodne resortu?',
         answer:
-          'Resorty potrzebują stabilnych, przyjaznych początkującym desk SUP odpowiednich dla gości na każdym poziomie umiejętności. Afarer oferuje rodzinne pakiety resortowe z deskami uniwersalnymi, luksusowe pakiety wyspowe z premium projektami i pakiety retretów wellness ze szerokimi deskami jogi — wszystkie personalizowalne brandingiem resortu.',
+          'Resorty potrzebują stabilnych, przyjaznych początkującym desk SUP odpowiednich dla gości na każdym poziomie umiejętności. OLagoon oferuje rodzinne pakiety resortowe z deskami uniwersalnymi, luksusowe pakiety wyspowe z premium projektami i pakiety retretów wellness ze szerokimi deskami jogi — wszystkie personalizowalne brandingiem resortu.',
       },
       {
-        question: 'Czy Afarer może personalizować deski SUP logo i kolorami marki mojego resortu?',
+        question: 'Czy OLagoon może personalizować deski SUP logo i kolorami marki mojego resortu?',
         answer:
-          'Tak, Afarer zapewnia pełną personalizację obejmującą integrację logo, projekt kolorów dopasowany do architektury i tożsamości marki Twojego resortu oraz premium opakowania z markowymi akcesoriami i materiałami instruktażowymi dla gości.',
+          'Tak, OLagoon zapewnia pełną personalizację obejmującą integrację logo, projekt kolorów dopasowany do architektury i tożsamości marki Twojego resortu oraz premium opakowania z markowymi akcesoriami i materiałami instruktażowymi dla gości.',
       },
       {
         question: 'Czy zapewniacie rozwiązania przechowywania sprzętu SUP dla resortów?',
         answer:
-          'Tak, Afarer pomaga planować przechowywanie sprzętu z regałami SUP, systemami organizacji i rozwiązaniami ochrony przed pogodą z uwzględnieniem ekspozycji słonecznej, wilgotności i środowisk przybrzeżnych dla ochrony Twojej inwestycji i utrzymania wyglądu resortu.',
+          'Tak, OLagoon pomaga planować przechowywanie sprzętu z regałami SUP, systemami organizacji i rozwiązaniami ochrony przed pogodą z uwzględnieniem ekspozycji słonecznej, wilgotności i środowisk przybrzeżnych dla ochrony Twojej inwestycji i utrzymania wyglądu resortu.',
       },
       {
         question: 'Jakiego szkolenia potrzebuje personel resortu do prowadzenia programów SUP?',
         answer:
-          'Afarer zapewnia wskazówki operacyjne obejmujące procedury obchodzenia się ze sprzętem, instrukcje pompowania, metody czyszczenia, wytyczne przechowywania, procedury bezpieczeństwa gości i codzienne checklisty operacyjne, by każdy pracownik mógł profesjonalnie prowadzić program.',
+          'OLagoon zapewnia wskazówki operacyjne obejmujące procedury obchodzenia się ze sprzętem, instrukcje pompowania, metody czyszczenia, wytyczne przechowywania, procedury bezpieczeństwa gości i codzienne checklisty operacyjne, by każdy pracownik mógł profesjonalnie prowadzić program.',
       },
       {
-        question: 'Jak trwałe są deski SUP Afarer do codziennego użytku resortowego?',
+        question: 'Jak trwałe są deski SUP OLagoon do codziennego użytku resortowego?',
         answer:
-          'Deski SUP resortowe Afarer oferują wzmocnioną konstrukcję PVC, komponenty klasy komercyjnej i trwałe struktury drop stitch zaprojektowane, by wytrzymać codzienny użytek gości przy utrzymaniu premium wyglądu i osiągów.',
+          'Deski SUP resortowe OLagoon oferują wzmocnioną konstrukcję PVC, komponenty klasy komercyjnej i trwałe struktury drop stitch zaprojektowane, by wytrzymać codzienny użytek gości przy utrzymaniu premium wyglądu i osiągów.',
       },
       {
         question: 'Czy możemy oferować SUP obok innych aktywności wodnych?',
         answer:
-          'Tak, Afarer może wspierać ekspansję w produkty fitness wodnego, rodzinny sprzęt wodny i inne produkty rekreacji outdoorowej dla stworzenia kompletnego portfolio aktywności wodnych resortu.',
+          'Tak, OLagoon może wspierać ekspansję w produkty fitness wodnego, rodzinny sprzęt wodny i inne produkty rekreacji outdoorowej dla stworzenia kompletnego portfolio aktywności wodnych resortu.',
       },
     ],
     cta: {
-      title: 'Stwórz swoje doświadczenie wodne resortu z Afarer',
+      title: 'Stwórz swoje doświadczenie wodne resortu z OLagoon',
       subtitle:
-        'Twoja destynacja już ma ocean. Teraz stwórz na nim niezapomniane chwile. Afarer pomaga luksusowym hotelom, resortom wyspowym i destynacjom wellness budować niestandardowe floty SUP, markowe aktywności wodne i kompletne rozwiązania sprzętowe resortów.',
+        'Twoja destynacja już ma ocean. Teraz stwórz na nim niezapomniane chwile. OLagoon pomaga luksusowym hotelom, resortom wyspowym i destynacjom wellness budować niestandardowe floty SUP, markowe aktywności wodne i kompletne rozwiązania sprzętowe resortów.',
       primaryAction: {
         text: 'Rozpocznij projekt aktywności wodnych resortu już dziś',
       },
@@ -5664,7 +5664,7 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent desek SUP private label | Dostawca desek OEM dla detalistów | {SITE}',
       description:
-        'Afarer zapewnia rozwiązania produkcyjne desek SUP private label dla detalistów outdoorowych, sieci sklepów sportowych i marek globalnych. Niestandardowe deski z opakowaniami retailowymi, wsparciem zgodności i niezawodnymi dostawami OEM.',
+        'OLagoon zapewnia rozwiązania produkcyjne desek SUP private label dla detalistów outdoorowych, sieci sklepów sportowych i marek globalnych. Niestandardowe deski z opakowaniami retailowymi, wsparciem zgodności i niezawodnymi dostawami OEM.',
     },
     hero: {
       tagline: 'Program private label dla detalu™',
@@ -5706,7 +5706,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Rozwój niestandardowych produktów SUP private label',
           description:
-            'Afarer pomaga detalistom rozwijać produkty w oparciu o klientów docelowych, pozycjonowanie cenowe, kanały sprzedaży i trendy rynkowe w kolekcjach SUP entry-level, średniego segmentu lifestylowego i premium.',
+            'OLagoon pomaga detalistom rozwijać produkty w oparciu o klientów docelowych, pozycjonowanie cenowe, kanały sprzedaży i trendy rynkowe w kolekcjach SUP entry-level, średniego segmentu lifestylowego i premium.',
           features: [
             'Kolekcja SUP entry-level',
             'Kolekcja SUP lifestylowego średniego segmentu',
@@ -5716,25 +5716,25 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Optymalizacja marż detalicznych',
           description:
-            'Afarer pomaga detalistom optymalizować strukturę produktu przez kontrolę kosztów produkcji i regulację konfiguracji produktu do docelowej ceny detalicznej, oczekiwań klientów i celów marżowych.',
+            'OLagoon pomaga detalistom optymalizować strukturę produktu przez kontrolę kosztów produkcji i regulację konfiguracji produktu do docelowej ceny detalicznej, oczekiwań klientów i celów marżowych.',
           features: ['Kontrola kosztów produkcji', 'Optymalizacja konfiguracji produktu', 'Dobór materiałów'],
         },
         {
           title: 'Projekt opakowań gotowych na detal',
           description:
-            'Afarer wspiera kompletne rozwiązania opakowaniowe, w tym opakowania ekspozycyjne z kolorowymi pudełkami i zdjęciami produktu, opakowania e-commerce zoptymalizowane pod Amazon i Shopify oraz integrację historii marki.',
+            'OLagoon wspiera kompletne rozwiązania opakowaniowe, w tym opakowania ekspozycyjne z kolorowymi pudełkami i zdjęciami produktu, opakowania e-commerce zoptymalizowane pod Amazon i Shopify oraz integrację historii marki.',
           features: ['Opakowania ekspozycyjne', 'Opakowania e-commerce', 'Integracja historii marki'],
         },
         {
           title: 'Międzynarodowe wsparcie jakości i zgodności',
           description:
-            'Afarer wspiera detalistów dokumentacją jakości, w tym informacjami o zgodności materiałów, wsparciem testów produktu i dokumentacją eksportową pomagającą zarządzać wymogami importowymi.',
+            'OLagoon wspiera detalistów dokumentacją jakości, w tym informacjami o zgodności materiałów, wsparciem testów produktu i dokumentacją eksportową pomagającą zarządzać wymogami importowymi.',
           features: ['Wsparcie zgodności materiałów', 'Wsparcie testów produktu', 'Wsparcie dokumentacji eksportowej'],
         },
         {
           title: 'Produkcja OEM wielkowolumenowa',
           description:
-            'Afarer wspiera różne skale zakupów, od debiutów produktowych 500–2000 sztuk po ekspansję detaliczną 3000–10 000 sztuk i globalne programy detaliczne z rocznymi umowami dostaw.',
+            'OLagoon wspiera różne skale zakupów, od debiutów produktowych 500–2000 sztuk po ekspansję detaliczną 3000–10 000 sztuk i globalne programy detaliczne z rocznymi umowami dostaw.',
           features: [
             'Debiut produktu (500–2000 sztuk)',
             'Ekspansja detaliczna (3000–10 000 sztuk)',
@@ -5744,24 +5744,24 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Sezonowe planowanie łańcucha dostaw',
           description:
-            'Afarer wspiera planowanie produktów w oparciu o popyt wiosenno-letni i rynki regionalne, plus harmonogramowanie produkcji pomagające detalistom zarządzać timingiem inwentarza, planowaniem magazynów i kampaniami promocyjnymi.',
+            'OLagoon wspiera planowanie produktów w oparciu o popyt wiosenno-letni i rynki regionalne, plus harmonogramowanie produkcji pomagające detalistom zarządzać timingiem inwentarza, planowaniem magazynów i kampaniami promocyjnymi.',
         },
         {
           title: 'Wsparcie innowacji produktów ODM',
           description:
-            'Detaliści potrzebują dyferencjacji. Afarer wspiera niestandardowe kształty desk, niestandardową grafikę z tożsamością marki detalicznej i bundle produktowe, w tym pakiety SUP i kompletne zestawy outdoorowe.',
+            'Detaliści potrzebują dyferencjacji. OLagoon wspiera niestandardowe kształty desk, niestandardową grafikę z tożsamością marki detalicznej i bundle produktowe, w tym pakiety SUP i kompletne zestawy outdoorowe.',
           features: ['Niestandardowe kształty desk', 'Niestandardowa grafika', 'Bundle produktowe'],
         },
         {
           title: 'Wsparcie detalu wielokanałowego',
           description:
-            'Afarer wspiera produkty dla fizycznych sklepów detalicznych z atrakcyjnym opakowaniem, platform e-commerce z mocnymi wizualiami i sieci dealerskich ze stabilnymi dostawami i spójnymi specyfikacjami.',
+            'OLagoon wspiera produkty dla fizycznych sklepów detalicznych z atrakcyjnym opakowaniem, platform e-commerce z mocnymi wizualiami i sieci dealerskich ze stabilnymi dostawami i spójnymi specyfikacjami.',
           features: ['Fizyczne sklepy detaliczne', 'Platformy e-commerce', 'Sieci dealerskie'],
         },
         {
           title: 'Kontrola jakości i niezawodność dostaw',
           description:
-            'Afarer rozumie, że detaliści sprzedają zaufanie. Systemy jakości obejmują inspekcję produkcji, inspekcję przedwysyłkową i kontrolę spójności partii zapewniającą tę samą jakość w dużych zamówieniach.',
+            'OLagoon rozumie, że detaliści sprzedają zaufanie. Systemy jakości obejmują inspekcję produkcji, inspekcję przedwysyłkową i kontrolę spójności partii zapewniającą tę samą jakość w dużych zamówieniach.',
           features: ['Inspekcja produkcji', 'Inspekcja przedwysyłkowa', 'Kontrola spójności partii'],
         },
       ],
@@ -5778,7 +5778,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Planowanie linii produktowej',
           detail:
-            'Afarer pomógł stworzyć kolekcję SUP private label obejmującą rodzinne SUP entry-level, SUP touringowe i modele premium lifestylowe celujące w istniejącą bazę klientów.',
+            'OLagoon pomógł stworzyć kolekcję SUP private label obejmującą rodzinne SUP entry-level, SUP touringowe i modele premium lifestylowe celujące w istniejącą bazę klientów.',
         },
         {
           title: 'Personalizacja produktu',
@@ -5815,29 +5815,29 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Benchmarking sourcing i warsztaty specyfikacji produktu',
               detail:
-                'W marcu 2024 zespół Sarah poleciał do centrali Afarer w Shenzhen na 3-dniowe warsztaty produktowe. Przetestowali 14 różnych konstrukcji SUP, w tym warianty gęstości drop-stitch, profile burt i konfiguracje mat pokładu. Zespół inżynieryjny Afarer stworzył 3 niestandardowe formulacje PVC dla spełnienia australijskich standardów promieniowania UV. Rebel Sport zobowiązał się do początkowego MOQ 5 000 sztuk rozłożonego na 6 SKU z inwestycją początkową 1,8 mln AUD, w tym 2 deski uniwersalne, 2 kształty touringowe, 1 platforma jogi i 1 deska młodzieżowa.',
+                'W marcu 2024 zespół Sarah poleciał do centrali OLagoon w Shenzhen na 3-dniowe warsztaty produktowe. Przetestowali 14 różnych konstrukcji SUP, w tym warianty gęstości drop-stitch, profile burt i konfiguracje mat pokładu. Zespół inżynieryjny OLagoon stworzył 3 niestandardowe formulacje PVC dla spełnienia australijskich standardów promieniowania UV. Rebel Sport zobowiązał się do początkowego MOQ 5 000 sztuk rozłożonego na 6 SKU z inwestycją początkową 1,8 mln AUD, w tym 2 deski uniwersalne, 2 kształty touringowe, 1 platforma jogi i 1 deska młodzieżowa.',
             },
             {
               title: 'Niestandardowy branding, opakowanie i inżynieria zgodności',
               detail:
-                'Zespół projektowy Afarer opracował tożsamość marki «Coastal Force» Rebel Sport, w tym niestandardową grafikę pokładów, kolorystykę wyłączną dla Rebel i opakowanie gotowe na detal z ekspozycjami shelf-talker. Zespół zgodności uzyskał certyfikację AS/NZS 1900-2014, zgodność z Australian Consumer Law i ukończył testy transportowe ISTA 3A. Afarer wyprodukował 200 sztuk przedprodukcyjnych wysłanych transportem lotniczym w kwietniu 2024 do testów sklepowych w 12 lokalizacjach flagowych, gdzie 87% sztuk ekspozycyjnych sprzedało się w 2 tygodnie w pełnej cenie detalicznej 399 AUD.',
+                'Zespół projektowy OLagoon opracował tożsamość marki «Coastal Force» Rebel Sport, w tym niestandardową grafikę pokładów, kolorystykę wyłączną dla Rebel i opakowanie gotowe na detal z ekspozycjami shelf-talker. Zespół zgodności uzyskał certyfikację AS/NZS 1900-2014, zgodność z Australian Consumer Law i ukończył testy transportowe ISTA 3A. OLagoon wyprodukował 200 sztuk przedprodukcyjnych wysłanych transportem lotniczym w kwietniu 2024 do testów sklepowych w 12 lokalizacjach flagowych, gdzie 87% sztuk ekspozycyjnych sprzedało się w 2 tygodnie w pełnej cenie detalicznej 399 AUD.',
             },
             {
               title: 'Etapowane wdrożenie inwentarza i program szkolenia personelu',
               detail:
-                'Afarer skoordynował 3-fazowy harmonogram dostaw transportem morskim: faza 1 (1 500 sztuk do DC Sydney do 1 czerwca), faza 2 (2 000 sztuk do DC Melbourne i Brisbane do 1 lipca), faza 3 (1 500 sztuk do DC Perth i Adelaide do 1 sierpnia). Zespół szkoleniowy Afarer przeprowadził 24 wirtualne sesje train-the-trainer dla menedżerów działów Rebel obejmujące funkcje produktu, różnice konstrukcyjne desk, sprzedaż krzyżową akcesoriów i pytania o dopasowanie dla klientów. Każdy sklep otrzymał deskę demo i przewodnik porównawczy przy punkcie sprzedaży.',
+                'OLagoon skoordynował 3-fazowy harmonogram dostaw transportem morskim: faza 1 (1 500 sztuk do DC Sydney do 1 czerwca), faza 2 (2 000 sztuk do DC Melbourne i Brisbane do 1 lipca), faza 3 (1 500 sztuk do DC Perth i Adelaide do 1 sierpnia). Zespół szkoleniowy OLagoon przeprowadził 24 wirtualne sesje train-the-trainer dla menedżerów działów Rebel obejmujące funkcje produktu, różnice konstrukcyjne desk, sprzedaż krzyżową akcesoriów i pytania o dopasowanie dla klientów. Każdy sklep otrzymał deskę demo i przewodnik porównawczy przy punkcie sprzedaży.',
             },
             {
               title: 'Kampania debiutowa, śledzenie wyników i optymalizacja zamówień uzupełniających',
               detail:
-                "Linia «Coastal Force» zadebiutowała 15 sierpnia 2024 z kampanią marketingową za 500 tys. AUD obejmującą oznakowanie sklepowe, publikacje w katalogach i partnerstwa influence'owe z australijskimi zawodnikami paddleboardów. Dedykowany zespół kont Afarer zapewniał cotygodniowe raporty sell-through przez współdzielony panel. Do listopada 2024 wskaźnik sell-through średnio 72% na wszystkich SKU, z modelem uniwersalnym 10'6\" odpowiadającym za 41% sprzedaży. Rebel złożył zamówienie uzupełniające na 3 000 sztuk na sezon wiosenny 2025, w tym 2 nowe modele touringowe w oparciu o opinie klientów.",
+                "Linia «Coastal Force» zadebiutowała 15 sierpnia 2024 z kampanią marketingową za 500 tys. AUD obejmującą oznakowanie sklepowe, publikacje w katalogach i partnerstwa influence'owe z australijskimi zawodnikami paddleboardów. Dedykowany zespół kont OLagoon zapewniał cotygodniowe raporty sell-through przez współdzielony panel. Do listopada 2024 wskaźnik sell-through średnio 72% na wszystkich SKU, z modelem uniwersalnym 10'6\" odpowiadającym za 41% sprzedaży. Rebel złożył zamówienie uzupełniające na 3 000 sztuk na sezon wiosenny 2025, w tym 2 nowe modele touringowe w oparciu o opinie klientów.",
             },
           ],
           results: [
             '4,8 mln AUD sprzedaży detalicznej w pierwszym roku (14% powyżej celu 4,2 mln AUD) w 87 sklepach ze wskaźnikiem sell-through 62%',
             'Marża brutto 55,3% wobec 32% marży na markach zewnętrznych, dodając 1,1 mln AUD zysku przyrostowego',
             '19,2% udziału w rynku zdobytego w australijskim segmencie SUP poniżej 500 AUD w 10 miesięcy od debiutu',
-            'Wskaźnik zwrotów klientów 3,2% (średnia branżowa 8–12%) dzięki kontroli jakości Afarer i konstrukcji certyfikowanej w Australii',
+            'Wskaźnik zwrotów klientów 3,2% (średnia branżowa 8–12%) dzięki kontroli jakości OLagoon i konstrukcji certyfikowanej w Australii',
           ],
         },
         {
@@ -5852,35 +5852,35 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Walidacja koncepcji i sprint projektowy produktu',
               detail:
-                "We wrześniu 2024 zespół rozwoju produktu Macy's pod przewodnictwem Davida zaangażował Afarer w 8-tygodniowy sprint projektowy. Projektanci przemysłowi Afarer stworzyli 8 desk koncepcyjnych ze szczegółowymi specyfikacjami, w tym 3 deski uniwersalne (10', 11', 12') i 1 deskę touringową. Macy's wybrało 4 SKU z ekskluzywnym brandingiem «Boardwalk Reserve», przybrzeżną kolorystyką inspirowaną wybrzeżem (Seafoam, Sandbar, Coral, Navy) i cenami detalicznymi 349–549 USD. Afarer wyprodukował niestandardowe rendery 3D i fizyczne makiety w 14 dni, a Macy's zatwierdziło pełną linię 15 października 2024 zamówieniem zakupu 6 000 sztuk o wartości hurtowej 1,2 mln USD.",
+                "We wrześniu 2024 zespół rozwoju produktu Macy's pod przewodnictwem Davida zaangażował OLagoon w 8-tygodniowy sprint projektowy. Projektanci przemysłowi OLagoon stworzyli 8 desk koncepcyjnych ze szczegółowymi specyfikacjami, w tym 3 deski uniwersalne (10', 11', 12') i 1 deskę touringową. Macy's wybrało 4 SKU z ekskluzywnym brandingiem «Boardwalk Reserve», przybrzeżną kolorystyką inspirowaną wybrzeżem (Seafoam, Sandbar, Coral, Navy) i cenami detalicznymi 349–549 USD. OLagoon wyprodukował niestandardowe rendery 3D i fizyczne makiety w 14 dni, a Macy's zatwierdziło pełną linię 15 października 2024 zamówieniem zakupu 6 000 sztuk o wartości hurtowej 1,2 mln USD.",
             },
             {
               title: 'Integracja łańcucha dostaw i przygotowanie zgodności',
               detail:
-                "Zespół łańcucha dostaw Afarer współpracował z działem zgodności Macy's dla spełnienia wszystkich amerykańskich standardów bezpieczeństwa CPSC, certyfikacji ASTM F3340-18 i wymogów California Prop 65. Opakowanie zaprojektowano pod wymogi półkowe Macy's, w tym tagi EAS, kody QR prowadzące do wideo-przewodników montażu i kompaktowe wymiary pudełek (36×16×12 cali) zoptymalizowane pod slotting centrum dystrybucyjnego Macy's. Afarer wyprodukował 500 sztuk przedsprzedażowych w listopadzie 2024 i wysłał je transportem lotniczym do Macy's na testy w 20 sklepach i sesje zdjęciowe online. Każdy sklep testowy sprzedawał średnio 14 sztuk tygodniowo w sezonie świątecznym w cenie detalicznej 399 USD.",
+                "Zespół łańcucha dostaw OLagoon współpracował z działem zgodności Macy's dla spełnienia wszystkich amerykańskich standardów bezpieczeństwa CPSC, certyfikacji ASTM F3340-18 i wymogów California Prop 65. Opakowanie zaprojektowano pod wymogi półkowe Macy's, w tym tagi EAS, kody QR prowadzące do wideo-przewodników montażu i kompaktowe wymiary pudełek (36×16×12 cali) zoptymalizowane pod slotting centrum dystrybucyjnego Macy's. OLagoon wyprodukował 500 sztuk przedsprzedażowych w listopadzie 2024 i wysłał je transportem lotniczym do Macy's na testy w 20 sklepach i sesje zdjęciowe online. Każdy sklep testowy sprzedawał średnio 14 sztuk tygodniowo w sezonie świątecznym w cenie detalicznej 399 USD.",
             },
             {
               title: 'Realizacja debiutu wielokanałowego i doświadczenie sklepowe',
               detail:
-                "Główna dostawa morska 5 500 sztuk dotarła do centrum dystrybucyjnego Macy's w Robbinsville w stanie New Jersey 1 lutego 2025. Afarer zapewnił 340 stojaków ekspozycyjnych w skali naturalnej ze zintegrowanym przechowywaniem desk i modułami akcesoriów. Zespół szkoleniowy Afarer stworzył 12-minutowy moduł wideo dla 8 500 sezonowych pracowników Macy's obejmujący wiedzę o produkcie i techniki sprzedaży krzyżowej pompek, wioseł i kamizeleli ratunkowych. Kolekcja zadebiutowała na macys.com 1 marca 2025 i we wszystkich 340 sklepach do 15 marca, z dedykowanym doświadczeniem shop-in-shop «Boardwalk Reserve» w 50 najwyżej obrotowych lokalizacjach.",
+                "Główna dostawa morska 5 500 sztuk dotarła do centrum dystrybucyjnego Macy's w Robbinsville w stanie New Jersey 1 lutego 2025. OLagoon zapewnił 340 stojaków ekspozycyjnych w skali naturalnej ze zintegrowanym przechowywaniem desk i modułami akcesoriów. Zespół szkoleniowy OLagoon stworzył 12-minutowy moduł wideo dla 8 500 sezonowych pracowników Macy's obejmujący wiedzę o produkcie i techniki sprzedaży krzyżowej pompek, wioseł i kamizeleli ratunkowych. Kolekcja zadebiutowała na macys.com 1 marca 2025 i we wszystkich 340 sklepach do 15 marca, z dedykowanym doświadczeniem shop-in-shop «Boardwalk Reserve» w 50 najwyżej obrotowych lokalizacjach.",
             },
             {
               title: 'Analityka wyników i uzupełnianie sezonowe',
               detail:
-                "Do maja 2025 sell-through osiągnął 58% z deską uniwersalną Seafoam 11' jako najlepszym performerem (36% sprzedaży). Wskaźnik konwersji online wyniósł 4,2%, znacząco powyżej średniej kategorii sprzętu sportowego Macy's 2,1%. Panel inwentarza Afarer w czasie rzeczywistym pozwalał Macy's automatycznie uruchamiać zamówienia uzupełniające, gdy zapas sklepowy spadał poniżej 6 sztuk. Program napędził 2,1 mln USD sprzedaży akcesoriów (wiosła, pompki, torby, kamizele ratunkowe) z marżą 62%. Macy's skorzystało z opcji zamówienia uzupełniającego na święta 2025 w wysokości 4 000 sztuk z 2 nowymi kolorystykami w stylu śnieżno-surfowym.",
+                "Do maja 2025 sell-through osiągnął 58% z deską uniwersalną Seafoam 11' jako najlepszym performerem (36% sprzedaży). Wskaźnik konwersji online wyniósł 4,2%, znacząco powyżej średniej kategorii sprzętu sportowego Macy's 2,1%. Panel inwentarza OLagoon w czasie rzeczywistym pozwalał Macy's automatycznie uruchamiać zamówienia uzupełniające, gdy zapas sklepowy spadał poniżej 6 sztuk. Program napędził 2,1 mln USD sprzedaży akcesoriów (wiosła, pompki, torby, kamizele ratunkowe) z marżą 62%. Macy's skorzystało z opcji zamówienia uzupełniającego na święta 2025 w wysokości 4 000 sztuk z 2 nowymi kolorystykami w stylu śnieżno-surfowym.",
             },
           ],
           results: [
             '4,1 mln USD całkowitego GMV w 340 sklepach i na macys.com w pierwszych 7 miesiącach, przekraczając cel 3,5 mln USD o 17%',
             '53% narzutu początkowego wobec 38% na porównywalnym sprzęcie outdoorowym marek zewnętrznych, wnosząc 1,6 mln USD zysku brutto',
             '4,2% wskaźnik konwersji online z 11,7% wskaźnikiem doklejenia akcesoriów, napędzając dodatkowe 2,1 mln USD sprzedaży dodatków o wysokiej marży',
-            '98,4% wskaźnik dostaw na czas w łańcuchu dostaw fabryka-DC Afarer z zerowymi brakami zapasów w szczycie sezonu sprzedażowego marzec–maj',
+            '98,4% wskaźnik dostaw na czas w łańcuchu dostaw fabryka-DC OLagoon z zerowymi brakami zapasów w szczycie sezonu sprzedażowego marzec–maj',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego kupcy detaliczni wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego kupcy detaliczni wybierają OLagoon',
       items: [
         {
           title: 'Rozwój produktu',
@@ -5917,37 +5917,37 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czym jest program SUP private label i jak działa dla detalistów outdoorowych?',
         answer:
-          'Program SUP private label pozwala detalistom outdoorowym tworzyć i sprzedawać paddleboardy pod własną nazwą marki. Afarer obsługuje cały proces OEM/ODM, w tym rozwój produktu, produkcję, wsparcie certyfikacji, projekt opakowań i dostawy hurtowe. Detaliści mogą wypuszczać niestandardowe kolekcje SUP bez inwestowania w wyposażenie fabryczne czy ekspertyzę produkcji pompy.',
+          'Program SUP private label pozwala detalistom outdoorowym tworzyć i sprzedawać paddleboardy pod własną nazwą marki. OLagoon obsługuje cały proces OEM/ODM, w tym rozwój produktu, produkcję, wsparcie certyfikacji, projekt opakowań i dostawy hurtowe. Detaliści mogą wypuszczać niestandardowe kolekcje SUP bez inwestowania w wyposażenie fabryczne czy ekspertyzę produkcji pompy.',
       },
       {
         question:
           'Jak detaliści mogą zapewnić, że ich produkty SUP private label spełniają międzynarodowe standardy bezpieczeństwa?',
         answer:
-          'Afarer wspiera detalistów kompleksową dokumentacją zgodności, w tym wymogami CE i REACH, danymi bezpieczeństwa materiałów, raportami testów produktu i zapisami inspekcji jakości. Zapewnia to, że produkty SUP private label spełniają standardy regulacyjne dla rynków europejskich, północnoamerykańskich i innych międzynarodowych.',
+          'OLagoon wspiera detalistów kompleksową dokumentacją zgodności, w tym wymogami CE i REACH, danymi bezpieczeństwa materiałów, raportami testów produktu i zapisami inspekcji jakości. Zapewnia to, że produkty SUP private label spełniają standardy regulacyjne dla rynków europejskich, północnoamerykańskich i innych międzynarodowych.',
       },
       {
         question: 'Jakie minimalne wielkości zamówień są typowo wymagane dla produkcji niestandardowych SUP?',
         answer:
-          'Afarer obsługuje różne skale. Debiuty produktów i testy rynkowe zaczynają się typowo od 500–2000 sztuk. Zamówienia ekspansji detalicznej wahają się od 3000–10 000 sztuk. Duże globalne programy detaliczne z rocznymi umowami dostaw mogą skalować do dziesiątek tysięcy sztuk w wielu modelach.',
+          'OLagoon obsługuje różne skale. Debiuty produktów i testy rynkowe zaczynają się typowo od 500–2000 sztuk. Zamówienia ekspansji detalicznej wahają się od 3000–10 000 sztuk. Duże globalne programy detaliczne z rocznymi umowami dostaw mogą skalować do dziesiątek tysięcy sztuk w wielu modelach.',
       },
       {
         question: 'Jak długo trwa opracowanie i wypuszczenie linii produktów SUP private label?',
         answer:
-          'Termin zależy od złożoności personalizacji. Usprawniony proces Afarer od koncepcji produktu do dostawy gotowej na półkę zajmuje typowo 8–16 tygodni, w tym planowanie produktu, zatwierdzenie projektu, rozwój prototypu, wsparcie certyfikacji, produkcję i wysyłkę. Rekomendowane jest planowanie sezonowe dla dostosowania do wiosenno-letnich cykli popytu.',
+          'Termin zależy od złożoności personalizacji. Usprawniony proces OLagoon od koncepcji produktu do dostawy gotowej na półkę zajmuje typowo 8–16 tygodni, w tym planowanie produktu, zatwierdzenie projektu, rozwój prototypu, wsparcie certyfikacji, produkcję i wysyłkę. Rekomendowane jest planowanie sezonowe dla dostosowania do wiosenno-letnich cykli popytu.',
       },
       {
         question: 'Czy detaliści mogą personalizować opakowania SUP do swojej tożsamości marki?',
         answer:
-          'Tak, Afarer wspiera pełną personalizację opakowań, w tym markowe kolorowe pudełka, zdjęcia produktowe, wyróżnienia funkcji i komunikaty marki. Opcje opakowań są dostępne zarówno dla fizycznych półek detalicznych, jak i platform e-commerce jak Amazon i Shopify, ze wskazówkami dotyczącymi fotografii produktu i struktury informacji.',
+          'Tak, OLagoon wspiera pełną personalizację opakowań, w tym markowe kolorowe pudełka, zdjęcia produktowe, wyróżnienia funkcji i komunikaty marki. Opcje opakowań są dostępne zarówno dla fizycznych półek detalicznych, jak i platform e-commerce jak Amazon i Shopify, ze wskazówkami dotyczącymi fotografii produktu i struktury informacji.',
       },
       {
-        question: 'Jakiego wsparcia Afarer zapewnia dla planowania popytu sezonowego?',
+        question: 'Jakiego wsparcia OLagoon zapewnia dla planowania popytu sezonowego?',
         answer:
-          'Afarer pomaga detalistom zarządzać sezonowym popytem na produkty outdoorowe przez skoordynowane harmonogramowanie produkcji, timing inwentarza, planowanie magazynów i dopasowanie kampanii promocyjnych. Rocczne umowy dostaw pozwalają na przewidywalne terminy i gwarantowaną moc produkcyjną w szczycie sezonów.',
+          'OLagoon pomaga detalistom zarządzać sezonowym popytem na produkty outdoorowe przez skoordynowane harmonogramowanie produkcji, timing inwentarza, planowanie magazynów i dopasowanie kampanii promocyjnych. Rocczne umowy dostaw pozwalają na przewidywalne terminy i gwarantowaną moc produkcyjną w szczycie sezonów.',
       },
     ],
     cta: {
-      title: 'Zbuduj swoją kolekcję SUP private label z Afarer',
+      title: 'Zbuduj swoją kolekcję SUP private label z OLagoon',
       subtitle: 'Twoi klienci już kupują produkty outdoorowe. Teraz stwórz własną kategorię sportów wodnych.',
       primaryAction: {
         text: 'Rozpocznij swój projekt private label detalicznego już dziś',
@@ -5969,9 +5969,9 @@ const pl: Record<string, SolutionOverride> = {
       title:
         'Profesjonalne rozwiązania sprzętowe SUP dla szkół sportów wodnych, programów młodzieżowych i organizacji edukacji outdoorowej',
       subtitle:
-        'Afarer zapewnia SUP Academy Equipment Program — kompletne rozwiązanie sprzętowe opracowane dla profesjonalnych środowisk dydaktycznych. Pomagamy szkołom SUP, centrom treningu młodzieży, koloniom letnim i firmom edukacji outdoorowej budować niezawodne floty treningowe z deskami przyjaznymi początkującym, modelami dziecięcymi i sprzętem instruktorskim.',
+        'OLagoon zapewnia SUP Academy Equipment Program — kompletne rozwiązanie sprzętowe opracowane dla profesjonalnych środowisk dydaktycznych. Pomagamy szkołom SUP, centrom treningu młodzieży, koloniom letnim i firmom edukacji outdoorowej budować niezawodne floty treningowe z deskami przyjaznymi początkującym, modelami dziecięcymi i sprzętem instruktorskim.',
       image: {
-        alt: 'Sprzęt akademii SUP Afarer dla szkół treningowych i programów młodzieżowych',
+        alt: 'Sprzęt akademii SUP OLagoon dla szkół treningowych i programów młodzieżowych',
       },
     },
     challenge: {
@@ -6005,7 +6005,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Treningowe deski SUP dla początkujących',
           description:
-            'Afarer rozwija stabilne deski SUP specjalnie do środowisk edukacyjnych z projektem platformy o wysokiej stabilności dla łatwiejszej równowagi, konstrukcją o wysokiej wyporności dla lepszego wsparcia na wodzie i uniwersalnymi kształtami dla początkujących do kontroli przy niskiej prędkości i łatwych skrętów.',
+            'OLagoon rozwija stabilne deski SUP specjalnie do środowisk edukacyjnych z projektem platformy o wysokiej stabilności dla łatwiejszej równowagi, konstrukcją o wysokiej wyporności dla lepszego wsparcia na wodzie i uniwersalnymi kształtami dla początkujących do kontroli przy niskiej prędkości i łatwych skrętów.',
           features: [
             'Projekt platformy o wysokiej stabilności',
             'Konstrukcja o wysokiej wyporności',
@@ -6016,7 +6016,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Program dziecięcych SUP',
           description:
-            'Dzieci wymagają sprzętu zaprojektowanego wokół ich wzrostu i możliwości. Afarer oferuje dziecięce deski SUP o odpowiedniej długości, lekkiej obsłudze, stabilnym kształcie i przyjaznym dzieciom wyglądzie na programy szkolne, kolonie letnie, kursy juniorów i aktywności rodzinne.',
+            'Dzieci wymagają sprzętu zaprojektowanego wokół ich wzrostu i możliwości. OLagoon oferuje dziecięce deski SUP o odpowiedniej długości, lekkiej obsłudze, stabilnym kształcie i przyjaznym dzieciom wyglądzie na programy szkolne, kolonie letnie, kursy juniorów i aktywności rodzinne.',
           features: [
             'Projekt dziecięcej deski SUP',
             'Zastosowania treningowe młodzieżowe',
@@ -6032,12 +6032,12 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Kompletny pakiet floty SUP Academy',
           description:
-            'Afarer pomaga akademiom budować kompletne systemy sprzętowe, w tym sprzęt uczniowski z deskami dla początkujących i wiosłami regulowanymi, sprzęt instruktorski z premium deskami SUP i sprzęt konserwacyjny z zestawami naprawczymi i zapasowymi akcesoriami dla bezproblemowej codziennej operacji.',
+            'OLagoon pomaga akademiom budować kompletne systemy sprzętowe, w tym sprzęt uczniowski z deskami dla początkujących i wiosłami regulowanymi, sprzęt instruktorski z premium deskami SUP i sprzęt konserwacyjny z zestawami naprawczymi i zapasowymi akcesoriami dla bezproblemowej codziennej operacji.',
         },
         {
           title: 'Trwałość komercyjna do codziennego nauczania',
           description:
-            'Sprzęt treningowy wymaga mocniejszej konstrukcji. Afarer stawia na wzmocnione materiały PVC dla lepszej odporności na ścieranie, trwałą strukturę drop stitch dla sztywności deski i wzmocnione burty chroniące przed uderzeniami o brzeg i uszkodzeniami transportowymi.',
+            'Sprzęt treningowy wymaga mocniejszej konstrukcji. OLagoon stawia na wzmocnione materiały PVC dla lepszej odporności na ścieranie, trwałą strukturę drop stitch dla sztywności deski i wzmocnione burty chroniące przed uderzeniami o brzeg i uszkodzeniami transportowymi.',
           features: [
             'Wzmocnione materiały PVC',
             'Trwała struktura drop stitch',
@@ -6048,22 +6048,22 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Wsparcie zarządzania flotą akademii',
           description:
-            'Duże programy treningowe potrzebują organizacji. Afarer wspiera zstandaryzowaną konfigurację floty dla łatwiejszego szkolenia instruktorów, identyfikację sprzętu z numeracją desk i logami akademii oraz planowanie części zamiennych z zapasowymi wiosłami i materiałami naprawczymi.',
+            'Duże programy treningowe potrzebują organizacji. OLagoon wspiera zstandaryzowaną konfigurację floty dla łatwiejszego szkolenia instruktorów, identyfikację sprzętu z numeracją desk i logami akademii oraz planowanie części zamiennych z zapasowymi wiosłami i materiałami naprawczymi.',
         },
         {
           title: 'Rozwiązania dla kolonii letnich i programów młodzieżowych',
           description:
-            'SUP zyskuje popularność na koloniach letnich i programach przygodowych dla młodzieży. Afarer wspiera projektowanie flot obozowych z uwzględnieniem wieku uczniów i wielkości grup, sprzęt do aktywności grupowych z wieloma identycznymi deskami i planowanie operacji sezonowych na programy letnie i aktywności wakacyjne.',
+            'SUP zyskuje popularność na koloniach letnich i programach przygodowych dla młodzieży. OLagoon wspiera projektowanie flot obozowych z uwzględnieniem wieku uczniów i wielkości grup, sprzęt do aktywności grupowych z wieloma identycznymi deskami i planowanie operacji sezonowych na programy letnie i aktywności wakacyjne.',
         },
         {
           title: 'Wsparcie bezpieczeństwa i konserwacji',
           description:
-            'Afarer zapewnia praktyczne wskazówki do codziennej operacji, w tym przewodniki inspekcji sprzętu pokrywające kontrolę ciśnienia powietrza, powierzchni i akcesoriów przed zajęciami oraz procedury czyszczenia, suszenia i przechowywania po zajęciach, wraz z podstawowymi wskazówkami naprawczymi.',
+            'OLagoon zapewnia praktyczne wskazówki do codziennej operacji, w tym przewodniki inspekcji sprzętu pokrywające kontrolę ciśnienia powietrza, powierzchni i akcesoriów przed zajęciami oraz procedury czyszczenia, suszenia i przechowywania po zajęciach, wraz z podstawowymi wskazówkami naprawczymi.',
         },
         {
           title: 'Niestandardowy branding akademii',
           description:
-            'Afarer wspiera personalizację logo akademii, dopasowanie kolorów i profesjonalny wygląd tworzący silniejszą rozpoznawalność marki, bardziej profesjonalne zajęcia i lepsze doświadczenie uczniów dzięki markowym deskom i sprzętowi instruktorskiemu.',
+            'OLagoon wspiera personalizację logo akademii, dopasowanie kolorów i profesjonalny wygląd tworzący silniejszą rozpoznawalność marki, bardziej profesjonalne zajęcia i lepsze doświadczenie uczniów dzięki markowym deskom i sprzętowi instruktorskiemu.',
         },
       ],
     },
@@ -6077,7 +6077,7 @@ const pl: Record<string, SolutionOverride> = {
         {
           title: 'Analiza programu treningowego',
           detail:
-            'Afarer przejrzał grupy wiekowe uczniów, metody nauczania i częstotliwość użytkowania, by zrozumieć specyficzne wymagania akademii co do sprzętu dla początkujących, młodzieży i instruktorów.',
+            'OLagoon przejrzał grupy wiekowe uczniów, metody nauczania i częstotliwość użytkowania, by zrozumieć specyficzne wymagania akademii co do sprzętu dla początkujących, młodzieży i instruktorów.',
         },
         {
           title: 'Rozwój floty',
@@ -6109,29 +6109,29 @@ const pl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Japonia',
             background:
-              'Kenji Nakamura, 44 lata, to były brązowy medalista olimpijski w slalomie kajakowym (Ateny 2004) i 6-krotny mistrz Japonii. Po zakończeniu kariery zawodowej trenował juniorską kadrę kajakową Japonii przez 8 lat, zanim odkrył SUP w 2018 roku. Zobaczył, że Japonia miała zero młodzieżowych programów SUP mimo włączenia tej dyscypliny do igrzysk olimpijskich Paryż 2024. W 2023 roku przekonał miasto Kamakura (173 000 mieszkańców, nadmorskie miasto 50 km na południe od Tokio), by pozwoliło mu używać historycznej plaży Yuigahama jako miejsca treningowego. Potrzebował Afarer do dostawy kompletnego pakietu sprzętowego akademii: desk juniorskich, materiałów szkoleniowych i programu ścieżki, który japońskie szkoły uznałyby.',
+              'Kenji Nakamura, 44 lata, to były brązowy medalista olimpijski w slalomie kajakowym (Ateny 2004) i 6-krotny mistrz Japonii. Po zakończeniu kariery zawodowej trenował juniorską kadrę kajakową Japonii przez 8 lat, zanim odkrył SUP w 2018 roku. Zobaczył, że Japonia miała zero młodzieżowych programów SUP mimo włączenia tej dyscypliny do igrzysk olimpijskich Paryż 2024. W 2023 roku przekonał miasto Kamakura (173 000 mieszkańców, nadmorskie miasto 50 km na południe od Tokio), by pozwoliło mu używać historycznej plaży Yuigahama jako miejsca treningowego. Potrzebował OLagoon do dostawy kompletnego pakietu sprzętowego akademii: desk juniorskich, materiałów szkoleniowych i programu ścieżki, który japońskie szkoły uznałyby.',
             goal: 'Otwarcie «Kamakura SUP Academy» w kwietniu 2024 z 40 juniorami (wiek 10–18 lat), 3-poziomowym systemem certyfikacji (brąz/srebro/złoto) i ścieżką do narodowej kadry SUP Japonii — z kosztami sprzętu poniżej 8 mln JPY (53 000 USD) na pierwsze 2 lata.',
           },
           steps: [
             {
               title: 'Rozwój deski juniorskiej według japońskich standardów sportu szkolnego',
               detail:
-                'W październiku 2023 dyrektor rozwoju produktu Afarer Yuki Tanaka (z biura Afarer w Osace) pracował z Kenjim nad projektem «Academy Junior 10.0» — deski zaprojektowanej specjalnie pod fizjologię azjatyckiej młodzieży (przeciętny 12-letni japoński uczeń: 150 cm, 42 kg). Kluczowe parametry: 10\'0" × 30" × 4,5" (objętość 152 l), waga 6,8 kg (wystarczająco lekka, by uczniowie mogli ją nieść), miękkie burty EVA (redukujące ryzyko kontuzji przy upadkach) i krótkie wiosło szklane 120 cm (odlewany na miarę uchwyt dla małych dłoni). Afarer wyprodukował 40 desk w barwach narodowych Japonii (biel z czerwonym kręgiem wschodu słońca) i 20 desk zapasowych. Każda deska miała kod QR z linkiem do filmów technicznych Kenjiego — uczniowie skanowali przed treningiem.',
+                'W październiku 2023 dyrektor rozwoju produktu OLagoon Yuki Tanaka (z biura OLagoon w Osace) pracował z Kenjim nad projektem «Academy Junior 10.0» — deski zaprojektowanej specjalnie pod fizjologię azjatyckiej młodzieży (przeciętny 12-letni japoński uczeń: 150 cm, 42 kg). Kluczowe parametry: 10\'0" × 30" × 4,5" (objętość 152 l), waga 6,8 kg (wystarczająco lekka, by uczniowie mogli ją nieść), miękkie burty EVA (redukujące ryzyko kontuzji przy upadkach) i krótkie wiosło szklane 120 cm (odlewany na miarę uchwyt dla małych dłoni). OLagoon wyprodukował 40 desk w barwach narodowych Japonii (biel z czerwonym kręgiem wschodu słońca) i 20 desk zapasowych. Każda deska miała kod QR z linkiem do filmów technicznych Kenjiego — uczniowie skanowali przed treningiem.',
             },
             {
               title: 'Program nauczania z certyfikacją 3-poziomową i protokoły bezpieczeństwa',
               detail:
-                'Konsultant szkoleniowy Afarer Dave Kalama (przez wideorozmowy z Hawajów) współpracował z Kenjim nad programem nauczania. Brąz (10 sesji): równowaga na płaskiej wodzie, podstawowy krok napędowy, samoratunek. Srebro (20 sesji): wiosłowanie na czas 2 km, skręt pivotowy, świadomość wiatru. Złoto (40 sesji): 5 km wiosłowania oceanicznego, wejście/wyjście ze strefy fal, taktyka wyścigowa i podstawy trenerskie. Kenji nalegał na bezpieczeństwo: Afarer zapewnił 50 kamizeleli ratunkowych Type V (certyfikowanych w Japonii, neonowo-pomarańczowe z pasami odblaskowymi), 50 zestawów leash (spiralka, szybkie zwolnienie) i wodoodporny tablet do raportowania incydentów. Protokół «Safety First» akademii wymagał proporcji 4:1 uczniowie-trener z deską ratunkową i apteczką w zasięgu 30 sekund od każdego ucznia.',
+                'Konsultant szkoleniowy OLagoon Dave Kalama (przez wideorozmowy z Hawajów) współpracował z Kenjim nad programem nauczania. Brąz (10 sesji): równowaga na płaskiej wodzie, podstawowy krok napędowy, samoratunek. Srebro (20 sesji): wiosłowanie na czas 2 km, skręt pivotowy, świadomość wiatru. Złoto (40 sesji): 5 km wiosłowania oceanicznego, wejście/wyjście ze strefy fal, taktyka wyścigowa i podstawy trenerskie. Kenji nalegał na bezpieczeństwo: OLagoon zapewnił 50 kamizeleli ratunkowych Type V (certyfikowanych w Japonii, neonowo-pomarańczowe z pasami odblaskowymi), 50 zestawów leash (spiralka, szybkie zwolnienie) i wodoodporny tablet do raportowania incydentów. Protokół «Safety First» akademii wymagał proporcji 4:1 uczniowie-trener z deską ratunkową i apteczką w zasięgu 30 sekund od każdego ucznia.',
             },
             {
               title: 'Zatwierdzenie przez radę miasta i program integracji szkolnej',
               detail:
-                'Kierownik Afarer na Japonię Hiroshi Abe pomógł Kenjiemu przejść przez proces pozwoleń miasta Kamakura. Wymagało to: ubezpieczenia OC (pokrycie 100 mln JPY), demarkacji strefy plażowej (kolorowe boje wyznaczające 200×50 m teren treningowy — bez nakładania się z pływakami), limitów hałasu (bez gwizdków po 17:00) i planu gospodarki odpadami. Afarer wyprodukował dwujęzyczne japońsko-angielskie instrukcje bezpieczeństwa i rejestratory incydentów. Kenji podpisał umowy z 3 lokalnymi gimnazjami (Kamakura Daiichi, Koshigoe i Hase) oferujące SUP jako oficjalny klub pozalekcyjny — pierwsze w Japonii. Każda szkoła płaciła 36 000 JPY/ucznia/semestr za program; miasto dopłacało 40% dla rodzin o niskich dochodach.',
+                'Kierownik OLagoon na Japonię Hiroshi Abe pomógł Kenjiemu przejść przez proces pozwoleń miasta Kamakura. Wymagało to: ubezpieczenia OC (pokrycie 100 mln JPY), demarkacji strefy plażowej (kolorowe boje wyznaczające 200×50 m teren treningowy — bez nakładania się z pływakami), limitów hałasu (bez gwizdków po 17:00) i planu gospodarki odpadami. OLagoon wyprodukował dwujęzyczne japońsko-angielskie instrukcje bezpieczeństwa i rejestratory incydentów. Kenji podpisał umowy z 3 lokalnymi gimnazjami (Kamakura Daiichi, Koshigoe i Hase) oferujące SUP jako oficjalny klub pozalekcyjny — pierwsze w Japonii. Każda szkoła płaciła 36 000 JPY/ucznia/semestr za program; miasto dopłacało 40% dla rodzin o niskich dochodach.',
             },
             {
               title: 'Debiut w kwietniu 2024 i wyniki 12 miesięcy',
               detail:
-                'Kamakura SUP Academy otworzyła się 6 kwietnia 2024 z 43 uczniami (ponad cel Kenjiego 40). Do marca 2025 zapisy urosły do 87 uczniów (127% pojemności). Dwoje uczniów (Sora Yamamoto, 16 lat, i Mei Taniguchi, 15 lat) zakwalifikowało się do juniorskiej kadry SUP Japonii i wystartowało na mistrzostwach świata ISA SUP 2024 w Kopenhadze. Certyfikat Gold Kenjiego został uznany przez Japan Canoe Federation jako punkt toward certyfikacji trenerskiej krajowej. Wskaźnik awarii sprzętu: 2 deski wymagały drobnych napraw zaworów (naprawione w 24 godziny przez centrum serwisowe Afarer w Osace). Afarer i Kenji podpisali 3-letnie partnerstwo na rozwój deski «Academy Pro» 12.6 dla zaawansowanych uczniów i ekspansję na 5 dodatkowych miast nadmorskich do 2027.',
+                'Kamakura SUP Academy otworzyła się 6 kwietnia 2024 z 43 uczniami (ponad cel Kenjiego 40). Do marca 2025 zapisy urosły do 87 uczniów (127% pojemności). Dwoje uczniów (Sora Yamamoto, 16 lat, i Mei Taniguchi, 15 lat) zakwalifikowało się do juniorskiej kadry SUP Japonii i wystartowało na mistrzostwach świata ISA SUP 2024 w Kopenhadze. Certyfikat Gold Kenjiego został uznany przez Japan Canoe Federation jako punkt toward certyfikacji trenerskiej krajowej. Wskaźnik awarii sprzętu: 2 deski wymagały drobnych napraw zaworów (naprawione w 24 godziny przez centrum serwisowe OLagoon w Osace). OLagoon i Kenji podpisali 3-letnie partnerstwo na rozwój deski «Academy Pro» 12.6 dla zaawansowanych uczniów i ekspansję na 5 dodatkowych miast nadmorskich do 2027.',
             },
           ],
           results: [
@@ -6146,29 +6146,29 @@ const pl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Australia',
             background:
-              "Kylie Brennan, 38 lat, to była australijska Ironwoman (konkurencyjne ratownictwo surfowe), prowadząca «Kylie's Paddle School», 5-osobową operację na rzece Tallebudgera Creek na Gold Coast od 2019 roku. Do 2023 miała 350 uczniów rocznie, ale odrzucała 60% zapytań, bo nie mogła skalować sprzętu. Jej 20 desk mieszanych marek było wyczerpane, uczniowie wahali się od 6-latków do 72-latków, a ubezpieczyciel wymagał proporcji 4:1 uczniowie-trener, co ograniczało rentowność. Zwróciła się do Afarer na SUP Show 2023 w Sydney, potrzebując kompletnego rozwiązania academy-in-a-box: desk dopasowanych do wieku/rozmiaru, wioseł, kamizeleli, materiałów dydaktycznych i systemu rezerwacji zintegrowanego z alokacją sprzętu.",
+              "Kylie Brennan, 38 lat, to była australijska Ironwoman (konkurencyjne ratownictwo surfowe), prowadząca «Kylie's Paddle School», 5-osobową operację na rzece Tallebudgera Creek na Gold Coast od 2019 roku. Do 2023 miała 350 uczniów rocznie, ale odrzucała 60% zapytań, bo nie mogła skalować sprzętu. Jej 20 desk mieszanych marek było wyczerpane, uczniowie wahali się od 6-latków do 72-latków, a ubezpieczyciel wymagał proporcji 4:1 uczniowie-trener, co ograniczało rentowność. Zwróciła się do OLagoon na SUP Show 2023 w Sydney, potrzebując kompletnego rozwiązania academy-in-a-box: desk dopasowanych do wieku/rozmiaru, wioseł, kamizeleli, materiałów dydaktycznych i systemu rezerwacji zintegrowanego z alokacją sprzętu.",
             goal: 'Uruchomienie «Australia SUP Academy — Gold Coast» we wrześniu 2024 z ponad 200 uczniami zapisanymi na ustrukturyzowane 8-tygodniowe semestry po 499 AUD/osobę, osiągając wskaźnik odnowień 85%+ i marżę 95% na sprzęcie.',
           },
           steps: [
             {
               title: 'Niestandardowy projekt floty akademii dla 4 kohort wiekowych',
               detail:
-                'Dyrektor kont Afarer na Oceanię Lachlan Murphy spędził 3 tygodnie z Kylie w marcu 2024, analizując demografię jej uczniów. Podzielili ich na 4 kohorty: «Paddlers» (wiek 6–9 lat, lekka deska 9\'6"×28", 4,2 kg, z kreskówkową grafiką «Sea Dragon»), «Juniors» (wiek 10–14 lat, deska 10\'6"×30", 6,5 kg), «Adults» (wiek 15–55 lat, deska 11\'6"×32", 8,9 kg) i «Seniors & Adaptive» (55+, ultrastabilna deska 10\'0"×34" z pasem pomocniczym, 9,2 kg). Afarer zaprojektował każdą deskę z kodowanymi kolorami pasami burt (zieleń/żółty/błękit/czerwień) do natychmiastowej identyfikacji rozmiaru i wyprodukował 120 desk (30 na kohortę). Każda deska obejmowała slot na spersonalizowaną plakietkę z imieniem i naklejkę trackera postępów (uczniowie zbierali pieczątki za opanowane umiejętności).',
+                'Dyrektor kont OLagoon na Oceanię Lachlan Murphy spędził 3 tygodnie z Kylie w marcu 2024, analizując demografię jej uczniów. Podzielili ich na 4 kohorty: «Paddlers» (wiek 6–9 lat, lekka deska 9\'6"×28", 4,2 kg, z kreskówkową grafiką «Sea Dragon»), «Juniors» (wiek 10–14 lat, deska 10\'6"×30", 6,5 kg), «Adults» (wiek 15–55 lat, deska 11\'6"×32", 8,9 kg) i «Seniors & Adaptive» (55+, ultrastabilna deska 10\'0"×34" z pasem pomocniczym, 9,2 kg). OLagoon zaprojektował każdą deskę z kodowanymi kolorami pasami burt (zieleń/żółty/błękit/czerwień) do natychmiastowej identyfikacji rozmiaru i wyprodukował 120 desk (30 na kohortę). Każda deska obejmowała slot na spersonalizowaną plakietkę z imieniem i naklejkę trackera postępów (uczniowie zbierali pieczątki za opanowane umiejętności).',
             },
             {
-              title: 'Program szkolenia instruktorów i program nauczania certyfikowany przez Afarer',
+              title: 'Program szkolenia instruktorów i program nauczania certyfikowany przez OLagoon',
               detail:
-                'Afarer opracował 40-godzinny kurs certyfikacji instruktorów z Kylie jako inauguracyjną trenerką naczelną. Kurs obejmował: metody nauczania specyficzne dla kohort (np. dla Seniorów techniki wejścia/wyjścia przy ograniczonej mobilności; dla dzieci grywalizację i umiejętności ratunkowe), mapowanie progresji (każdy poziom miał 12 umiejętności z referencyjnymi wideo) i zarządzanie bezpieczeństwem (Tallebudgera Creek na Gold Coast ma 4-węzłowy prąd przy przypływie — przewodnicy muszą znać okna pływowe). 12 z 15 istniejących instruktorów Kylie ukończyło certyfikację; Afarer certyfikował ich jako «Level 1 SUP Academy Instructors». Afarer zapewnił też kompletny zestaw startowy dla każdego ucznia: markową koszulkę rash, wodoodporną książeczkę umiejętności i dziennik z naklejkami osiągnięć.',
+                'OLagoon opracował 40-godzinny kurs certyfikacji instruktorów z Kylie jako inauguracyjną trenerką naczelną. Kurs obejmował: metody nauczania specyficzne dla kohort (np. dla Seniorów techniki wejścia/wyjścia przy ograniczonej mobilności; dla dzieci grywalizację i umiejętności ratunkowe), mapowanie progresji (każdy poziom miał 12 umiejętności z referencyjnymi wideo) i zarządzanie bezpieczeństwem (Tallebudgera Creek na Gold Coast ma 4-węzłowy prąd przy przypływie — przewodnicy muszą znać okna pływowe). 12 z 15 istniejących instruktorów Kylie ukończyło certyfikację; OLagoon certyfikował ich jako «Level 1 SUP Academy Instructors». OLagoon zapewnił też kompletny zestaw startowy dla każdego ucznia: markową koszulkę rash, wodoodporną książeczkę umiejętności i dziennik z naklejkami osiągnięć.',
             },
             {
               title: 'Integracja systemu rezerwacji i logistyka sprzętu',
               detail:
-                'Zespół techniczny Afarer zintegrował istniejący system rezerwacji BookingKit Kylie z modułem inwentarza Afarer. Każda deska miała tag RFID skanowany przy wypożyczeniu i zwrocie — śledzący godziny użytkowania, przeterminowane zwroty i potrzeby konserwacyjne. System automatycznie przydzielał właściwy rozmiar deski przy rezerwacji zajęć przez ucznia. Afarer zaprojektował modułowy system regałów (24 deski na regał, łącznie 5 regałów) z osłoną UV i bramkami czytników RFID. Rada miasta Gold Coast przyznała Kylie 5-letnie pozwolenie na stały, ogrodzony 500 m² teren na południowym końcu plaży Tallebudgera — sukces wobec surowych zasad rozwoju przybrzeżnego w tym rejonie. Lachlan z Afarer wynegocjował pozwolenie używając klasyfikacji Afarer «Community Sports Facility», której rada nigdy wcześniej nie zastosowała do szkoły SUP.',
+                'Zespół techniczny OLagoon zintegrował istniejący system rezerwacji BookingKit Kylie z modułem inwentarza OLagoon. Każda deska miała tag RFID skanowany przy wypożyczeniu i zwrocie — śledzący godziny użytkowania, przeterminowane zwroty i potrzeby konserwacyjne. System automatycznie przydzielał właściwy rozmiar deski przy rezerwacji zajęć przez ucznia. OLagoon zaprojektował modułowy system regałów (24 deski na regał, łącznie 5 regałów) z osłoną UV i bramkami czytników RFID. Rada miasta Gold Coast przyznała Kylie 5-letnie pozwolenie na stały, ogrodzony 500 m² teren na południowym końcu plaży Tallebudgera — sukces wobec surowych zasad rozwoju przybrzeżnego w tym rejonie. Lachlan z OLagoon wynegocjował pozwolenie używając klasyfikacji OLagoon «Community Sports Facility», której rada nigdy wcześniej nie zastosowała do szkoły SUP.',
             },
             {
               title: 'Debiut semestru 1 we wrześniu 2024 i skok zapisów',
               detail:
-                'Semestr 1 (wrzesień–listopad 2024, australijska wiosna) wystartował ze 183 zapisanymi uczniami — 91% celu 200. Kylie prowadziła 28 zajęć tygodniowo z 12 instruktorami. Satysfakcja rodziców: 4,8/5. Zapisy na semestr 2 (luty–kwiecień 2025) osiągnęły 264 uczniów (132% celu). Przychody: semestr 1 = 91 317 AUD; semestr 2 = 131 736 AUD. Program «Adaptive Paddle» akademii (dla uczniów z niepełnosprawnościami, współprojektowany ze Spinal Life Australia) zapisał 12 uczniów i wygrał złoto Gold Coast Sport & Recreation «Inclusive Program of the Year» 2025. Koszt konserwacji desk: 1 220 AUD łącznie na 120 desk w 6 miesięcy (głównie śruby płetw i kapy zaworów). Kylie zamówiła 60 dodatkowych desk na 2025–26 i zleciła Afarer opracowanie zaawansowanej deski «Race Squad» dla swoich 15 uczniów startujących w zawodach.',
+                'Semestr 1 (wrzesień–listopad 2024, australijska wiosna) wystartował ze 183 zapisanymi uczniami — 91% celu 200. Kylie prowadziła 28 zajęć tygodniowo z 12 instruktorami. Satysfakcja rodziców: 4,8/5. Zapisy na semestr 2 (luty–kwiecień 2025) osiągnęły 264 uczniów (132% celu). Przychody: semestr 1 = 91 317 AUD; semestr 2 = 131 736 AUD. Program «Adaptive Paddle» akademii (dla uczniów z niepełnosprawnościami, współprojektowany ze Spinal Life Australia) zapisał 12 uczniów i wygrał złoto Gold Coast Sport & Recreation «Inclusive Program of the Year» 2025. Koszt konserwacji desk: 1 220 AUD łącznie na 120 desk w 6 miesięcy (głównie śruby płetw i kapy zaworów). Kylie zamówiła 60 dodatkowych desk na 2025–26 i zleciła OLagoon opracowanie zaawansowanej deski «Race Squad» dla swoich 15 uczniów startujących w zawodach.',
             },
           ],
           results: [
@@ -6180,8 +6180,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego akademie SUP wybierają Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego akademie SUP wybierają OLagoon',
       items: [
         {
           title: 'Doświadczenie edukacyjne',
@@ -6209,22 +6209,22 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jakie deski SUP są najlepsze do nauki początkujących?',
         answer:
-          'Treningowe deski SUP dla początkujących powinny mieć szersze platformy, wyższą objętość i stabilne uniwersalne kształty dające pewność, równowagę i łatwą kontrolę. Deski dla początkujących Afarer oferują projekt platformy o wysokiej stabilności i konstrukcję o wysokiej wyporności specjalnie do środowisk edukacyjnych.',
+          'Treningowe deski SUP dla początkujących powinny mieć szersze platformy, wyższą objętość i stabilne uniwersalne kształty dające pewność, równowagę i łatwą kontrolę. Deski dla początkujących OLagoon oferują projekt platformy o wysokiej stabilności i konstrukcję o wysokiej wyporności specjalnie do środowisk edukacyjnych.',
       },
       {
         question: 'Czy oferujecie dziecięce deski SUP na programy młodzieżowe?',
         answer:
-          'Tak, Afarer oferuje dedykowane dziecięce deski SUP o odpowiedniej długości, lekkiej obsłudze, stabilnym kształcie i przyjaznym dzieciom wyglądzie, zaprojektowane na programy szkolne, kolonie letnie, kursy juniorów i aktywności rodzinne.',
+          'Tak, OLagoon oferuje dedykowane dziecięce deski SUP o odpowiedniej długości, lekkiej obsłudze, stabilnym kształcie i przyjaznym dzieciom wyglądzie, zaprojektowane na programy szkolne, kolonie letnie, kursy juniorów i aktywności rodzinne.',
       },
       {
-        question: 'Jak trwałe są deski treningowe Afarer do codziennego użytku instruktorskiego?',
+        question: 'Jak trwałe są deski treningowe OLagoon do codziennego użytku instruktorskiego?',
         answer:
-          'Deski treningowe Afarer oferują wzmocnione materiały PVC, trwałą strukturę drop stitch i wzmocnione burty zaprojektowane, by wytrzymać codzienny użytek wielu uczniów, częsty transport, powtarzane pompowanie i błędy początkujących.',
+          'Deski treningowe OLagoon oferują wzmocnione materiały PVC, trwałą strukturę drop stitch i wzmocnione burty zaprojektowane, by wytrzymać codzienny użytek wielu uczniów, częsty transport, powtarzane pompowanie i błędy początkujących.',
       },
       {
         question: 'Czy możecie personalizować deski brandingiem naszej akademii?',
         answer:
-          'Tak, Afarer wspiera personalizację logo akademii, dopasowanie kolorów, numerację desk i systemy identyfikacji tworzące profesjonalny wizerunek i ułatwiające instruktorom zarządzanie flotą.',
+          'Tak, OLagoon wspiera personalizację logo akademii, dopasowanie kolorów, numerację desk i systemy identyfikacji tworzące profesjonalny wizerunek i ułatwiające instruktorom zarządzanie flotą.',
       },
       {
         question: 'Jakie akcesoria obejmuje pakiet floty akademii?',
@@ -6234,13 +6234,13 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy zapewniacie wsparcie konserwacji sprzętu treningowego?',
         answer:
-          'Tak, Afarer zapewnia przewodniki inspekcji sprzętu, procedury czyszczenia i przechowywania, podstawowe wskazówki naprawcze drobnych uszkodzeń i konserwacji zaworów oraz planowanie części zamiennych, by Twoja flota treningowa działała przez cały sezon.',
+          'Tak, OLagoon zapewnia przewodniki inspekcji sprzętu, procedury czyszczenia i przechowywania, podstawowe wskazówki naprawcze drobnych uszkodzeń i konserwacji zaworów oraz planowanie części zamiennych, by Twoja flota treningowa działała przez cały sezon.',
       },
     ],
     cta: {
-      title: 'Zbuduj flotę swojej akademii SUP z Afarer',
+      title: 'Zbuduj flotę swojej akademii SUP z OLagoon',
       subtitle:
-        'Pierwsze doświadczenie SUP Twoich uczniów ma znaczenie. Wybierz sprzęt zaprojektowany, by pomóc im uczyć się bezpiecznie i pewnie. Afarer pomaga szkołom SUP, akademiom młodzieżowym, koloniom letnim i organizacjom edukacji outdoorowej tworzyć profesjonalne programy treningowe.',
+        'Pierwsze doświadczenie SUP Twoich uczniów ma znaczenie. Wybierz sprzęt zaprojektowany, by pomóc im uczyć się bezpiecznie i pewnie. OLagoon pomaga szkołom SUP, akademiom młodzieżowym, koloniom letnim i organizacjom edukacji outdoorowej tworzyć profesjonalne programy treningowe.',
       primaryAction: {
         text: 'Rozpocznij projekt akademii SUP już dziś',
       },
@@ -6254,15 +6254,15 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Zbuduj swoją markę SUP | Producent pompowanych desk SUP OEM | {SITE}',
       description:
-        'Afarer pomaga startupom outdoorowym budować niestandardowe marki SUP dzięki produkcji OEM, deskom private label, produkcji przy niskich MOQ, projektowaniu produktów, kontroli jakości i wsparciu globalnego łańcucha dostaw.',
+        'OLagoon pomaga startupom outdoorowym budować niestandardowe marki SUP dzięki produkcji OEM, deskom private label, produkcji przy niskich MOQ, projektowaniu produktów, kontroli jakości i wsparciu globalnego łańcucha dostaw.',
     },
     hero: {
       tagline: 'Zbuduj swoją markę SUP™',
       title: 'Niestandardowa produkcja SUP dla założycieli startupów outdoorowych',
       subtitle:
-        'Afarer pomaga startupom outdoorowym budować własne marki SUP dzięki produkcji OEM, deskom private label, produkcji przy niskich MOQ, projektowaniu produktów, kontroli jakości i wsparciu globalnego łańcucha dostaw.',
+        'OLagoon pomaga startupom outdoorowym budować własne marki SUP dzięki produkcji OEM, deskom private label, produkcji przy niskich MOQ, projektowaniu produktów, kontroli jakości i wsparciu globalnego łańcucha dostaw.',
       image: {
-        alt: 'Opis niestandardowych desk SUP Afarer',
+        alt: 'Opis niestandardowych desk SUP OLagoon',
       },
     },
     challenge: {
@@ -6378,7 +6378,7 @@ const pl: Record<string, SolutionOverride> = {
       customer:
         'Założyciel marki startupowej outdoorowej ze Stanów Zjednoczonych. Były menedżer detaliczny branży outdoorowej, entuzjasta surfingu i kajakarstwa oraz przedsiębiorca na Shopify, planujący stworzenie premium marki pompowanych desk SUP.',
       steps: [
-        'Afarer pomógł zdefiniować kierunek marki jako premium marki SUP w stylu życia outdoorowego, skierowanej do konsumentów outdoorowych w wieku 25–45 lat. Przeprowadzono analizę pozycjonowania rynkowego i badania konkurencji.',
+        'OLagoon pomógł zdefiniować kierunek marki jako premium marki SUP w stylu życia outdoorowego, skierowanej do konsumentów outdoorowych w wieku 25–45 lat. Przeprowadzono analizę pozycjonowania rynkowego i badania konkurencji.',
         'Opracowano pierwszy produkt: pompowana deska SUP 10\'6" premium z trwałą konstrukcją Drop Stitch, strukturą PVC klasy premium, nowoczesnym wzorem EVA, wiosłem karbonowym i wysokiej jakości akcesoriami.',
         'Stworzono niestandardową grafikę deski, system kolorów marki, projekt opakowania i kompletny zestaw produktowy gotowy na sprzedaż detaliczną, spójny z tożsamością marki.',
         'Debiut przy 300 sztukach w sklepie Shopify, kampanie marketingowe z influencerami i testy u klientów w celu walidacji popytu rynkowego.',
@@ -6403,22 +6403,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Tożsamość marki i poszukiwanie dostawców na trzech kontynentach',
               detail:
-                'James spędził okres od stycznia do marca 2023 na odwiedzaniu 5 fabryk w Chinach, Wietnamie i Tajlandii wraz z zespołem sourcingowym Afarer. Afarer przedstawił mu wyspecjalizowany zakład laminowania PVC klasy wojskowej w Qingdao, który wcześniej produkował wyłącznie deski white-label dla europejskich dystrybutorów. Wspólnie wynegocjowali obniżenie minimalnej wielkości zamówienia z 1 000 do 500 sztuk w zamian za 6-miesięczną klauzulę wyłączności. Zespół kontroli jakości Afarer przeprowadził 3 rundy testów próbek, odrzucając pierwsze dwie partie z powodu niespójnego spawania szwów rantów przed zatwierdzeniem trzeciej.',
+                'James spędził okres od stycznia do marca 2023 na odwiedzaniu 5 fabryk w Chinach, Wietnamie i Tajlandii wraz z zespołem sourcingowym OLagoon. OLagoon przedstawił mu wyspecjalizowany zakład laminowania PVC klasy wojskowej w Qingdao, który wcześniej produkował wyłącznie deski white-label dla europejskich dystrybutorów. Wspólnie wynegocjowali obniżenie minimalnej wielkości zamówienia z 1 000 do 500 sztuk w zamian za 6-miesięczną klauzulę wyłączności. Zespół kontroli jakości OLagoon przeprowadził 3 rundy testów próbek, odrzucając pierwsze dwie partie z powodu niespójnego spawania szwów rantów przed zatwierdzeniem trzeciej.',
             },
             {
               title: 'Krok 2: Infrastruktura kampanii crowdfundingowej i planowanie realizacji zamówień',
               detail:
-                'Zespół logistyczny Afarer pomógł Jamesowi nawiązać współpracę z operatorem 3PL — centrum realizacji zamówień w Gloucester o przepustowości 2 000 paczek dziennie. Stworzono szczegółowe poziomy nagród na Kickstarterze: 399 GBP early bird (50 sztuk), 449 GBP w wariancie standardowym (300 sztuk) i 549 GBP za pakiet premium z wiosłem i pompką (150 sztuk). Afarer przygotował 12 renderów produktów w wysokiej rozdzielczości, 4-minutowy film kampanijny nakręcony w Symonds Yat nad rzeką Wye oraz pełną kartę techniczną podkreślającą 6-calową grubość, rdzeń drop-stitch o wytrzymałości 32 PSI i opcję wiosła z włókna węglowego. Kampania ruszyła 1 maja 2023 z celem 150 000 GBP.',
+                'Zespół logistyczny OLagoon pomógł Jamesowi nawiązać współpracę z operatorem 3PL — centrum realizacji zamówień w Gloucester o przepustowości 2 000 paczek dziennie. Stworzono szczegółowe poziomy nagród na Kickstarterze: 399 GBP early bird (50 sztuk), 449 GBP w wariancie standardowym (300 sztuk) i 549 GBP za pakiet premium z wiosłem i pompką (150 sztuk). OLagoon przygotował 12 renderów produktów w wysokiej rozdzielczości, 4-minutowy film kampanijny nakręcony w Symonds Yat nad rzeką Wye oraz pełną kartę techniczną podkreślającą 6-calową grubość, rdzeń drop-stitch o wytrzymałości 32 PSI i opcję wiosła z włókna węglowego. Kampania ruszyła 1 maja 2023 z celem 150 000 GBP.',
             },
             {
               title: 'Krok 3: Zarządzanie kryzysem w trakcie kampanii i realizacja celów rozszerzonych',
               detail:
-                'Gdy kampania osiągnęła 85 000 GBP w pierwszych 72 godzinach, ale utknęła na 110 000 GBP w 14. dniu, strategowie marketingowi Afarer uruchomili ukierunkowaną kampanię reklamową na Facebooku i Instagramie, skoncentrowaną na brytyjskich grupach paddleboardingowych o łącznej liczbie ponad 500 000 członków. Stworzyli 8 wariantów reklam testowanych metodą A/B z testimoniami Jamesa z YouTube. Do 30. dnia kolejnych 212 wspierających podniosło sumę do 162 000 GBP. Afarer skoordynował cel rozszerzony — dodanie darmowego dry baga o wartości 45 GBP do wszystkich wpłat powyżej 449 GBP — co wywołało końcowy zryw 88 wspierających w ostatnich 48 godzinach i zamknęło zbiórkę na kwocie 198 740 GBP od 487 wspierających.',
+                'Gdy kampania osiągnęła 85 000 GBP w pierwszych 72 godzinach, ale utknęła na 110 000 GBP w 14. dniu, strategowie marketingowi OLagoon uruchomili ukierunkowaną kampanię reklamową na Facebooku i Instagramie, skoncentrowaną na brytyjskich grupach paddleboardingowych o łącznej liczbie ponad 500 000 członków. Stworzyli 8 wariantów reklam testowanych metodą A/B z testimoniami Jamesa z YouTube. Do 30. dnia kolejnych 212 wspierających podniosło sumę do 162 000 GBP. OLagoon skoordynował cel rozszerzony — dodanie darmowego dry baga o wartości 45 GBP do wszystkich wpłat powyżej 449 GBP — co wywołało końcowy zryw 88 wspierających w ostatnich 48 godzinach i zamknęło zbiórkę na kwocie 198 740 GBP od 487 wspierających.',
             },
             {
               title: 'Krok 4: Produkcja, zapewnienie jakości i realizacja zamówień po kampanii',
               detail:
-                'Produkcja rozpoczęła się w sierpniu 2023 w zakładzie w Qingdao, a Afarer skierował na miejsce pełnoetatowego inspektora QC na 6 tygodni. Każda deska przeszła 24-godzinny test nadmuchania przy 18 PSI oraz test wytrzymałości szwów na odrywanie przekraczający 150 N/cm. Pierwsze 200 sztuk wysłano transportem morskim 15 września, a odprawa celna w Wielkiej Brytanii, dzięki uprzednio przygotowanej dokumentacji Afarer, trwała 4 dni. Wszyscy 487 wspierający otrzymali swoje deski do 25 października 2023 — 9 dni przed deklarowanym terminem dostawy. James odnotował średnią ocenę 4,7/5 w pierwszych 150 formularzach opinii klientów.',
+                'Produkcja rozpoczęła się w sierpniu 2023 w zakładzie w Qingdao, a OLagoon skierował na miejsce pełnoetatowego inspektora QC na 6 tygodni. Każda deska przeszła 24-godzinny test nadmuchania przy 18 PSI oraz test wytrzymałości szwów na odrywanie przekraczający 150 N/cm. Pierwsze 200 sztuk wysłano transportem morskim 15 września, a odprawa celna w Wielkiej Brytanii, dzięki uprzednio przygotowanej dokumentacji OLagoon, trwała 4 dni. Wszyscy 487 wspierający otrzymali swoje deski do 25 października 2023 — 9 dni przed deklarowanym terminem dostawy. James odnotował średnią ocenę 4,7/5 w pierwszych 150 formularzach opinii klientów.',
             },
           ],
           results: [
@@ -6440,22 +6440,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Audyt środowiska tropikalnego i specyfikacja materiałowa',
               detail:
-                'Inżynierowie produktu Afarer spędzili 2 tygodnie w Cairns w maju 2023, testując istniejącą flotę Mary. Udokumentowali 8 specyficznych punktów awarii: zdegradowane przez UV PVC (widoczne na 22 deskach), skorodowane stalowe D-ringi (występujące w ciągu 6 miesięcy) oraz pęknięcia szwów przy uchwycie dziobowym (3 deski). Zespół laboratoryjny Afarer zmodyfikował recepturę górnej warstwy PVC, dodając stabilizator UV (UV-531 w stężeniu 0,6%), i określił morską stal nierdzewną klasy 304 jako materiał na całe okucie. Zaprojektowano wzmocniony uchwyt dziobowy z 3-warstwową wkładką z taśmy o wytrzymałości na zerwanie 400 kg.',
+                'Inżynierowie produktu OLagoon spędzili 2 tygodnie w Cairns w maju 2023, testując istniejącą flotę Mary. Udokumentowali 8 specyficznych punktów awarii: zdegradowane przez UV PVC (widoczne na 22 deskach), skorodowane stalowe D-ringi (występujące w ciągu 6 miesięcy) oraz pęknięcia szwów przy uchwycie dziobowym (3 deski). Zespół laboratoryjny OLagoon zmodyfikował recepturę górnej warstwy PVC, dodając stabilizator UV (UV-531 w stężeniu 0,6%), i określił morską stal nierdzewną klasy 304 jako materiał na całe okucie. Zaprojektowano wzmocniony uchwyt dziobowy z 3-warstwową wkładką z taśmy o wytrzymałości na zerwanie 400 kg.',
             },
             {
               title: 'Krok 2: Produkcja prototypów i testy terenowe na trzech trasach wycieczek',
               detail:
-                'Afarer wyprodukował 10 desek prototypowych w lipcu 2023 w swojej fabryce w Guangzhou, każda w unikalnym schemacie kolorystycznym (koralowy błękit, namorzynowa zieleń, rafowy pomarańcz) dla łatwej identyfikacji floty. Mara przeprowadziła 60-dniowe testy terenowe na swoich trzech głównych trasach: Fitzroy Island (słona woda, 6 godzin bezpośredniego słońca), poranne wycieczki po rzece Mulgrave (słodka woda, w cieniu) oraz wycieczki o zachodzie słońca w Trinity Inlet (warunki mieszane). Każda deska zarejestrowała ponad 300 godzin użytkowania. Dwa prototypy wykazały wyciek z zaworów po 250 godzinach i zostały odesłane do Afarer w celu przeprojektowania trzpienia zaworu — z zaworu mosiężnego na zawór kompozytowy wzmocniony nylonem.',
+                'OLagoon wyprodukował 10 desek prototypowych w lipcu 2023 w swojej fabryce w Guangzhou, każda w unikalnym schemacie kolorystycznym (koralowy błękit, namorzynowa zieleń, rafowy pomarańcz) dla łatwej identyfikacji floty. Mara przeprowadziła 60-dniowe testy terenowe na swoich trzech głównych trasach: Fitzroy Island (słona woda, 6 godzin bezpośredniego słońca), poranne wycieczki po rzece Mulgrave (słodka woda, w cieniu) oraz wycieczki o zachodzie słońca w Trinity Inlet (warunki mieszane). Każda deska zarejestrowała ponad 300 godzin użytkowania. Dwa prototypy wykazały wyciek z zaworów po 250 godzinach i zostały odesłane do OLagoon w celu przeprojektowania trzpienia zaworu — z zaworu mosiężnego na zawór kompozytowy wzmocniony nylonem.',
             },
             {
               title: 'Krok 3: Rozpędzanie produkcji, niestandardowe brandowanie i projekt opakowania',
               detail:
-                'Po zdaniu testów terenowych Mara złożyła we wrześniu 2023 zamówienie na 200 desek Reef Runner. Zespół projektowy Afarer stworzył niestandardową grafikę z termotransferem z logo Reef & River na macie pokładu oraz seryjnym numerem zarządzania flotą na rancie. Każda deska otrzymała plecak z niestandardowo tkanej tkaniny nylonowej 1000 denier ze wzmocnionymi szwami (testowany przy obciążeniu 80 kg). Afarer zorganizował transport morski przez port Townsville z 28-dniowym czasem tranzytu, obejmujący certyfikat fumigacji zgodny z australijskimi wymogami biobezpieczeństwa. Przesyłka przeszła odprawę celną 5 listopada 2023.',
+                'Po zdaniu testów terenowych Mara złożyła we wrześniu 2023 zamówienie na 200 desek Reef Runner. Zespół projektowy OLagoon stworzył niestandardową grafikę z termotransferem z logo Reef & River na macie pokładu oraz seryjnym numerem zarządzania flotą na rancie. Każda deska otrzymała plecak z niestandardowo tkanej tkaniny nylonowej 1000 denier ze wzmocnionymi szwami (testowany przy obciążeniu 80 kg). OLagoon zorganizował transport morski przez port Townsville z 28-dniowym czasem tranzytu, obejmujący certyfikat fumigacji zgodny z australijskimi wymogami biobezpieczeństwa. Przesyłka przeszła odprawę celną 5 listopada 2023.',
             },
             {
               title: 'Krok 4: Program szkolenia personelu i dokumentacja protokołów konserwacji',
               detail:
-                'Zespół wsparcia klientów Afarer poleciał do Cairns w listopadzie 2023, aby przeprowadzić 2-dniowe warsztaty szkoleniowe dla 12 przewodników Mary i 3 pracowników obsługi technicznej. Szkolenie obejmowało: codzienne listy kontrolne inspekcji, właściwe procedury nadmuchiwania i spuszczania powietrza, protokoły płukania po kontakcie ze słoną wodą oraz zestaw naprawczy zawierający 6 łatek PVC i 2 wymienne zawory. Afarer dostarczył zalaminowaną ściągawkę w języku angielskim i mandaryńskim. Mara wdrożyła cyfrowy dziennik floty w Arkuszach Google, śledząc godziny użytkowania każdej deski. Pierwsze kwartalne zamówienie uzupełniające na 65 desek złożono w lutym 2024.',
+                'Zespół wsparcia klientów OLagoon poleciał do Cairns w listopadzie 2023, aby przeprowadzić 2-dniowe warsztaty szkoleniowe dla 12 przewodników Mary i 3 pracowników obsługi technicznej. Szkolenie obejmowało: codzienne listy kontrolne inspekcji, właściwe procedury nadmuchiwania i spuszczania powietrza, protokoły płukania po kontakcie ze słoną wodą oraz zestaw naprawczy zawierający 6 łatek PVC i 2 wymienne zawory. OLagoon dostarczył zalaminowaną ściągawkę w języku angielskim i mandaryńskim. Mara wdrożyła cyfrowy dziennik floty w Arkuszach Google, śledząc godziny użytkowania każdej deski. Pierwsze kwartalne zamówienie uzupełniające na 65 desek złożono w lutym 2024.',
             },
           ],
           results: [
@@ -6467,8 +6467,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego OLagoon',
       items: [
         {
           title: 'Wiedza produktowa',
@@ -6496,12 +6496,12 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Jaka jest minimalna wielkość zamówienia na niestandardowe deski SUP?',
         answer:
-          'Afarer oferuje elastyczne MOQ od 100–500 sztuk do testów rynkowych, pozwalając startupom zwalidować produkty i zebrać opinie klientów przed skalowaniem produkcji.',
+          'OLagoon oferuje elastyczne MOQ od 100–500 sztuk do testów rynkowych, pozwalając startupom zwalidować produkty i zebrać opinie klientów przed skalowaniem produkcji.',
       },
       {
         question: 'Czy mogę stworzyć własną markę SUP bez posiadania fabryki?',
         answer:
-          'Tak. Afarer zapewnia kompletne usługi produkcji private label, pozwalając zbudować własną markę SUP z niestandardowym brandowaniem, projektem deski, opakowaniem i akcesoriami bez jakiejkolwiek inwestycji w fabrykę.',
+          'Tak. OLagoon zapewnia kompletne usługi produkcji private label, pozwalając zbudować własną markę SUP z niestandardowym brandowaniem, projektem deski, opakowaniem i akcesoriami bez jakiejkolwiek inwestycji w fabrykę.',
       },
       {
         question: 'Jak długo trwa opracowanie niestandardowego produktu SUP?',
@@ -6511,17 +6511,17 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy pomagacie w projektowaniu produktu i strategii rynkowej?',
         answer:
-          'Tak. Afarer zapewnia konsultacje w zakresie strategii marki i produktu, pomagając zdefiniować rynek docelowy, pozycjonowanie produktu, strategię cenową i wyróżnienie na tle konkurencji jeszcze przed rozpoczęciem produkcji.',
+          'Tak. OLagoon zapewnia konsultacje w zakresie strategii marki i produktu, pomagając zdefiniować rynek docelowy, pozycjonowanie produktu, strategię cenową i wyróżnienie na tle konkurencji jeszcze przed rozpoczęciem produkcji.',
       },
       {
         question: 'Jakie środki kontroli jakości macie wdrożone?',
         answer:
-          'Afarer posiada kompleksowy system kontroli jakości obejmujący inspekcję materiałów, nadzór w trakcie produkcji, testy ciśnieniowe oraz kontrolę końcową produktu przed wysyłką.',
+          'OLagoon posiada kompleksowy system kontroli jakości obejmujący inspekcję materiałów, nadzór w trakcie produkcji, testy ciśnieniowe oraz kontrolę końcową produktu przed wysyłką.',
       },
       {
         question: 'Czy wysyłacie do mojego kraju?',
         answer:
-          'Tak. Afarer wysyła do Stanów Zjednoczonych, Kanady, Australii, Wielkiej Brytanii, Niemiec, Francji, Holandii i innych rynków globalnych z niezawodnym wsparciem logistycznym.',
+          'Tak. OLagoon wysyła do Stanów Zjednoczonych, Kanady, Australii, Wielkiej Brytanii, Niemiec, Francji, Holandii i innych rynków globalnych z niezawodnym wsparciem logistycznym.',
       },
     ],
     cta: {
@@ -6538,15 +6538,15 @@ const pl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Producent sprzętu SUP do jogi | Niestandardowe deski do jogi | {SITE}',
       description:
-        'Afarer zapewnia niestandardowe rozwiązania sprzętu SUP do jogi dla studiów jogi, retreatów wellness i marek fitness. Twórz premium pompowane deski jogi SUP o szerokiej stabilnej konstrukcji, z pełnymi pokładami EVA i produkcją private label.',
+        'OLagoon zapewnia niestandardowe rozwiązania sprzętu SUP do jogi dla studiów jogi, retreatów wellness i marek fitness. Twórz premium pompowane deski jogi SUP o szerokiej stabilnej konstrukcji, z pełnymi pokładami EVA i produkcją private label.',
     },
     hero: {
       tagline: 'Rozwiązania sprzętowe SUP Yoga™',
       title: 'Premium sprzęt SUP Yoga dla marek wellness i retretów',
       subtitle:
-        'Afarer zapewnia niestandardowe rozwiązania sprzętowe SUP Yoga dla studiów jogi, retretów wellness i marek fitness. Twórzce premium pompowane deski jogi SUP z szerokim projektem stabilności, pełnymi pokładami EVA i produkcją private label.',
+        'OLagoon zapewnia niestandardowe rozwiązania sprzętowe SUP Yoga dla studiów jogi, retretów wellness i marek fitness. Twórzce premium pompowane deski jogi SUP z szerokim projektem stabilności, pełnymi pokładami EVA i produkcją private label.',
       image: {
-        alt: 'Opis niestandardowych desk SUP Afarer',
+        alt: 'Opis niestandardowych desk SUP OLagoon',
       },
     },
     challenge: {
@@ -6671,7 +6671,7 @@ const pl: Record<string, SolutionOverride> = {
       customer:
         'Europejska marka retretów wellness prowadząca retrety jogi, programy medytacyjne i outdoorowe doświadczenia wellness dla premium podróżnych wellness.',
       steps: [
-        'Afarer zdefiniował koncepcję produktu jako «Luksusowe pływające doświadczenie jogi», celujące w podróżnych wellness, klientki fitness i premium gości retretów.',
+        'OLagoon zdefiniował koncepcję produktu jako «Luksusowe pływające doświadczenie jogi», celujące w podróżnych wellness, klientki fitness i premium gości retretów.',
         'Stworzono premium szeroką deskę jogi SUP ze szczególnie szeroką stabilną platformą, pełnym jogowym pokładem EVA, komfortową nawierzchnią boso i zrównoważonymi osiągami pływalności.',
         'Opracowano miękką naturalną paletę kolorów, minimalistyczną grafikę i premium opakowanie idealnie pasujące do uspokajającej tożsamości marki wellness.',
         'Debiut z programami retretowymi, zajęciami jogi i premium doświadczeniami klientów jako początkowym zastosowaniem.',
@@ -6696,17 +6696,17 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Projekt deski specjalnie jogowej i estetyka sanskrycka',
               detail:
-                'Zespół projektowy Afarer spędził 3 tygodnie w marcu 2023 roku na badaniu wymagań Simone. Rezultat: deska jogi SUP «Serenity» — szerokość 34" (wobec standardowych 32"), długość 11\'6", z 7-warstwowym rdzeniem drop-stitch dla sztywnej stabilności. Pokład miał 6-mm grubą matę EVA z zamkniętokomórkową fakturą diamentową (zmierzony współczynnik tarcia: 0,85 na sucho, 0,72 na mokro) pokrywającą 85% powierzchni pokładu. Afarer umieścił sanskrycki symbol «Om» w srebrnym odblaskowym nadruku termicznym na dziobie oraz wzór lotosu wokół centralnego uchwytu transportowego. Deski występowały w 4 kolorach (koralowy, turkusowy, pomarańczowy zachodu słońca, błękit laguny) odpowiadających 4 paletom kolorystycznym resortów Azure. Każda deska miała 8 stalowych D-ringów — 4 do systemu sznurka bungee do mocowania mat jogicznych i 4 do opcjonalnych lin kotwicznych do praktyki stacjonarnej na prądzie.',
+                'Zespół projektowy OLagoon spędził 3 tygodnie w marcu 2023 roku na badaniu wymagań Simone. Rezultat: deska jogi SUP «Serenity» — szerokość 34" (wobec standardowych 32"), długość 11\'6", z 7-warstwowym rdzeniem drop-stitch dla sztywnej stabilności. Pokład miał 6-mm grubą matę EVA z zamkniętokomórkową fakturą diamentową (zmierzony współczynnik tarcia: 0,85 na sucho, 0,72 na mokro) pokrywającą 85% powierzchni pokładu. OLagoon umieścił sanskrycki symbol «Om» w srebrnym odblaskowym nadruku termicznym na dziobie oraz wzór lotosu wokół centralnego uchwytu transportowego. Deski występowały w 4 kolorach (koralowy, turkusowy, pomarańczowy zachodu słońca, błękit laguny) odpowiadających 4 paletom kolorystycznym resortów Azure. Każda deska miała 8 stalowych D-ringów — 4 do systemu sznurka bungee do mocowania mat jogicznych i 4 do opcjonalnych lin kotwicznych do praktyki stacjonarnej na prądzie.',
             },
             {
               title: 'Krok 2: Program pilotażowy w Azure North ze szkoleniem instruktorów jogi',
               detail:
-                'Afarer wyprodukował 15 desk prototypowych i wysłał je ekspresowym transportem lotniczym (Singapore Airlines Cargo) na 6-tygodniowy pilotaż w Azure North od 1 czerwca 2023. Simone i 4 rezydenckie instruktorki jogi ukończyły 40-godzinny program certyfikacji instruktora SUP Yoga opracowany wspólnie przez konsultantów wellness Afarer i profesjonalistów Yoga Alliance. Certyfikacja obejmowała: konfigurację deski i pompowanie do jogi (12 PSI dla maksymalnej stabilności), sekwencjonowanie zajęć pod warunki wodne, protokoły bezpieczeństwa na wiatr i prąd oraz 15 unikalnych pozycji jogi SUP zaadaptowanych do środowiska deski. Pilotaż obejął 42 zajęcia w ciągu 6 tygodni z udziałem 186 gości. Ankiety przed i po pilotażu pokazały wzrost pewności gości o 58%, a średnia ocena zajęć wyniosła 4,8/5. Opinie gości wskazały dwie modyfikacje: prośbę o uchwyt na wiosło na krawędzi deski (żeby wiosła nie odpływały podczas praktyki) i preferencję desk z «miękkim» promieniem dziobu do pozycji partnerskich.',
+                'OLagoon wyprodukował 15 desk prototypowych i wysłał je ekspresowym transportem lotniczym (Singapore Airlines Cargo) na 6-tygodniowy pilotaż w Azure North od 1 czerwca 2023. Simone i 4 rezydenckie instruktorki jogi ukończyły 40-godzinny program certyfikacji instruktora SUP Yoga opracowany wspólnie przez konsultantów wellness OLagoon i profesjonalistów Yoga Alliance. Certyfikacja obejmowała: konfigurację deski i pompowanie do jogi (12 PSI dla maksymalnej stabilności), sekwencjonowanie zajęć pod warunki wodne, protokoły bezpieczeństwa na wiatr i prąd oraz 15 unikalnych pozycji jogi SUP zaadaptowanych do środowiska deski. Pilotaż obejął 42 zajęcia w ciągu 6 tygodni z udziałem 186 gości. Ankiety przed i po pilotażu pokazały wzrost pewności gości o 58%, a średnia ocena zajęć wyniosła 4,8/5. Opinie gości wskazały dwie modyfikacje: prośbę o uchwyt na wiosło na krawędzi deski (żeby wiosła nie odpływały podczas praktyki) i preferencję desk z «miękkim» promieniem dziobu do pozycji partnerskich.',
             },
             {
               title: 'Krok 3: Wdrożenie wieloresortowe, infrastruktura i programowanie',
               detail:
-                'Na podstawie udanego pilotażu Azure złożyło zamówienie na 40 desk Serenity (10 na resort) w sierpniu 2023. Afarer dodał dwie modyfikacje projektowe na podstawie opinii z pilotażu: silikonowy pasek przytrzymujący wiosło na szynie sterburty i o 15 cm szerszy promień dziobu (z 45 cm do 60 cm) dla miejsca na pozycje partnerskie. Afarer wysłał transportem morskim dedykowany kontener 20-stopowy, obejmujący 40 niestandardowych pompek z manometrami skalibrowanymi na PSI zamiast barów. Przesyłka dotarła do Malé 1 listopada 2023. Simone przeszkoliła 12 dodatkowych instruktorów w 4 resortach (3 na obiekt) według programu certyfikacji, a dwóch głównych instruktorów uczestniczyło w 2-tygodniowym programie train-the-trainer na Bali (skoordynowanym przez partnera wellness Afarer). Każdy resort uruchomił dedykowany punkt startowy jogi SUP z pływającym pomostem, przechowywaniem sprzętu i zacienioną strefą relaksacyjną.',
+                'Na podstawie udanego pilotażu Azure złożyło zamówienie na 40 desk Serenity (10 na resort) w sierpniu 2023. OLagoon dodał dwie modyfikacje projektowe na podstawie opinii z pilotażu: silikonowy pasek przytrzymujący wiosło na szynie sterburty i o 15 cm szerszy promień dziobu (z 45 cm do 60 cm) dla miejsca na pozycje partnerskie. OLagoon wysłał transportem morskim dedykowany kontener 20-stopowy, obejmujący 40 niestandardowych pompek z manometrami skalibrowanymi na PSI zamiast barów. Przesyłka dotarła do Malé 1 listopada 2023. Simone przeszkoliła 12 dodatkowych instruktorów w 4 resortach (3 na obiekt) według programu certyfikacji, a dwóch głównych instruktorów uczestniczyło w 2-tygodniowym programie train-the-trainer na Bali (skoordynowanym przez partnera wellness OLagoon). Każdy resort uruchomił dedykowany punkt startowy jogi SUP z pływającym pomostem, przechowywaniem sprzętu i zacienioną strefą relaksacyjną.',
             },
             {
               title: 'Krok 4: Wyniki przychodowe, retencja gości i rozszerzenie programu',
@@ -6733,22 +6733,22 @@ const pl: Record<string, SolutionOverride> = {
             {
               title: 'Krok 1: Wizja projektowa instruktorki jogi i ergonomiczna deska studyjna',
               detail:
-                'Projektanci produktów Afarer przylecieli do Santa Monica w lutym 2023, aby obejrzeć 4 zajęcia Kai i zrozumieć jej styl nauczania. Kai uczyła mieszanki flow Vinyasy, restoratywnego yin i partnerskiej acro-jogi na deskach — co wymagało więcej przestrzeni pokładu niż oferowały standardowe SUP-y. Afarer zaprojektował 3 SKU: (1) «Drift 10\'6"» — standardowa deska jogi SUP (szerokość 34", mata pokładu 6 mm), (2) «Studio 12\'0"» — szczególnie szeroka deska o 38" z 8-mm wyściełanym pokładem (zaprojektowana do acro i pozycji partnerskich, maksymalna waga 450 funtów) oraz (3) «Mini 9\'0"» — deska przyjazna dzieciom (szerokość 30", pokład 5 mm, jasne opcje kolorystyczne). Deska Studio miała unikalny «znacznik linii środkowej» — subtelny wydruk wzdłuż środka pokładu pomagający uczniom spójnie ustawiać maty. Wszystkie deski używały technologii drop-stitch Fusion-Lite Afarer, ważąc o 3 funty mniej niż standardowe deski dla łatwiejszej obsługi.',
+                'Projektanci produktów OLagoon przylecieli do Santa Monica w lutym 2023, aby obejrzeć 4 zajęcia Kai i zrozumieć jej styl nauczania. Kai uczyła mieszanki flow Vinyasy, restoratywnego yin i partnerskiej acro-jogi na deskach — co wymagało więcej przestrzeni pokładu niż oferowały standardowe SUP-y. OLagoon zaprojektował 3 SKU: (1) «Drift 10\'6"» — standardowa deska jogi SUP (szerokość 34", mata pokładu 6 mm), (2) «Studio 12\'0"» — szczególnie szeroka deska o 38" z 8-mm wyściełanym pokładem (zaprojektowana do acro i pozycji partnerskich, maksymalna waga 450 funtów) oraz (3) «Mini 9\'0"» — deska przyjazna dzieciom (szerokość 30", pokład 5 mm, jasne opcje kolorystyczne). Deska Studio miała unikalny «znacznik linii środkowej» — subtelny wydruk wzdłuż środka pokładu pomagający uczniom spójnie ustawiać maty. Wszystkie deski używały technologii drop-stitch Fusion-Lite OLagoon, ważąc o 3 funty mniej niż standardowe deski dla łatwiejszej obsługi.',
             },
             {
               title: 'Krok 2: Tożsamość marki, produkcja treści i strategia przedsprzedaży',
               detail:
-                'Zespół kreatywny Afarer opracował tożsamość wizualną Drift & Downward Dog: minimalistyczne logo ze stylizowanym hybrydowym lotosem-mandalą-falą, paletę kolorów z zieleni szałwii, piasku i błękitu oceanu oraz niestandardową parę krojów (nagłówki Lora, treść Nunito). Wyprodukowali 6-dniową sesję zdjęciową w marcu 2023 w 5 lokalizacjach zatoki Santa Monica (molo Santa Monica, Point Dume w Malibu, Venice Beach, Marina del Rey i Paradise Cove), generując 480 finalnych zdjęć i 8 godzin materiału wideo 4K. Kai uruchomiła 30-dniową przedsprzedaż 1 maja 2023 przez kampanię na Kickstarterze z celem 35 000 USD. Kampania oferowała 3 poziomy nagród: deska Drift dla wczesnych ptaków (599 USD, 40 sztuk), pakiet deski Studio z matą i pasem (949 USD, 25 sztuk) i deska Mini (449 USD, 20 sztuk). Kampania osiągnęła cel w 11 godzin i zamknęła się na 74 200 USD od 118 wspierających.',
+                'Zespół kreatywny OLagoon opracował tożsamość wizualną Drift & Downward Dog: minimalistyczne logo ze stylizowanym hybrydowym lotosem-mandalą-falą, paletę kolorów z zieleni szałwii, piasku i błękitu oceanu oraz niestandardową parę krojów (nagłówki Lora, treść Nunito). Wyprodukowali 6-dniową sesję zdjęciową w marcu 2023 w 5 lokalizacjach zatoki Santa Monica (molo Santa Monica, Point Dume w Malibu, Venice Beach, Marina del Rey i Paradise Cove), generując 480 finalnych zdjęć i 8 godzin materiału wideo 4K. Kai uruchomiła 30-dniową przedsprzedaż 1 maja 2023 przez kampanię na Kickstarterze z celem 35 000 USD. Kampania oferowała 3 poziomy nagród: deska Drift dla wczesnych ptaków (599 USD, 40 sztuk), pakiet deski Studio z matą i pasem (949 USD, 25 sztuk) i deska Mini (449 USD, 20 sztuk). Kampania osiągnęła cel w 11 godzin i zamknęła się na 74 200 USD od 118 wspierających.',
             },
             {
               title: 'Krok 3: Produkcja, logistyka realizacji i integracja zajęć',
               detail:
-                'Produkcja 180 desk (80 Drift, 50 Studio, 50 Mini) trwała od czerwca do lipca 2023 w zakładzie Afarer w Wietnamie. Do 1 sierpnia 2023 wszystkie zamówienia z Kickstartera zostały zrealizowane z magazynu 3PL w Long Beach (15 mil od studia Kai w Santa Monica). Kai uruchomiła platformę rezerwacji zajęć na Shopify z niestandardową aplikacją harmonogramowania zintegrowaną z Acuity Scheduling. Oferowała 4 typy zajęć: «Sunrise Flow» (początkujący, deska Drift), «Full Moon Studio» (zaawansowane/partnerskie, deska Studio), «Family Paddle» (dzieci + rodzice, Mini + Drift) i «Restorative Yin & Float» (połączenie pozycji yin i medytacji prowadzonej). Zatrudniła 3 dodatkowych certyfikowanych instruktorów jogi SUP do obsługi rozszerzonego harmonogramu. Do września 2023 Kai prowadziła 22 zajęcia tygodniowo ze średnią 14 uczniów na zajęcia.',
+                'Produkcja 180 desk (80 Drift, 50 Studio, 50 Mini) trwała od czerwca do lipca 2023 w zakładzie OLagoon w Wietnamie. Do 1 sierpnia 2023 wszystkie zamówienia z Kickstartera zostały zrealizowane z magazynu 3PL w Long Beach (15 mil od studia Kai w Santa Monica). Kai uruchomiła platformę rezerwacji zajęć na Shopify z niestandardową aplikacją harmonogramowania zintegrowaną z Acuity Scheduling. Oferowała 4 typy zajęć: «Sunrise Flow» (początkujący, deska Drift), «Full Moon Studio» (zaawansowane/partnerskie, deska Studio), «Family Paddle» (dzieci + rodzice, Mini + Drift) i «Restorative Yin & Float» (połączenie pozycji yin i medytacji prowadzonej). Zatrudniła 3 dodatkowych certyfikowanych instruktorów jogi SUP do obsługi rozszerzonego harmonogramu. Do września 2023 Kai prowadziła 22 zajęcia tygodniowo ze średnią 14 uczniów na zajęcia.',
             },
             {
               title: 'Krok 4: Ekspansja kanału detalicznego, wellness korporacyjny i wzrost w drugim roku',
               detail:
-                'W październiku 2023 do Kai zgłosił się regionalny zakupowiec REI z Południowej Kalifornii, który uczestniczył w jednym z jej zajęć. REI złożyło zamówienie testowe na 30 desk Drift i 15 desk Mini do 5 sklepów w rejonie Santa Monica. Afarer dostosował opakowanie o zawieszki zgodne z REI i rejestrację produktu przez kod QR. Do grudnia 2023 wskaźnik sell-through REI osiągnął 82% w 5 sklepach, a REI złożyło kolejne zamówienie na 100 desk do 20 lokalizacji w Południowej Kalifornii. Kai uruchomiła też program wellness korporacyjnego — zawierając umowy z 4 firmami technologicznymi (Google Venice, Hulu Santa Monica i dwiema innymi) na cotygodniowe zajęcia jogi SUP na miejscu jako benefit pracowniczy. Program korporacyjny generował 4 200 USD miesięcznie przychodów powtarzalnych. Pod koniec pierwszego roku (marzec 2024) Drift & Downward Dog wygenerowało 342 000 USD łącznych przychodów (sprzedaż produktów: 218 000 USD, przychody z zajęć: 94 000 USD, wellness korporacyjny: 30 000 USD).',
+                'W październiku 2023 do Kai zgłosił się regionalny zakupowiec REI z Południowej Kalifornii, który uczestniczył w jednym z jej zajęć. REI złożyło zamówienie testowe na 30 desk Drift i 15 desk Mini do 5 sklepów w rejonie Santa Monica. OLagoon dostosował opakowanie o zawieszki zgodne z REI i rejestrację produktu przez kod QR. Do grudnia 2023 wskaźnik sell-through REI osiągnął 82% w 5 sklepach, a REI złożyło kolejne zamówienie na 100 desk do 20 lokalizacji w Południowej Kalifornii. Kai uruchomiła też program wellness korporacyjnego — zawierając umowy z 4 firmami technologicznymi (Google Venice, Hulu Santa Monica i dwiema innymi) na cotygodniowe zajęcia jogi SUP na miejscu jako benefit pracowniczy. Program korporacyjny generował 4 200 USD miesięcznie przychodów powtarzalnych. Pod koniec pierwszego roku (marzec 2024) Drift & Downward Dog wygenerowało 342 000 USD łącznych przychodów (sprzedaż produktów: 218 000 USD, przychody z zajęć: 94 000 USD, wellness korporacyjny: 30 000 USD).',
             },
           ],
           results: [
@@ -6760,8 +6760,8 @@ const pl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Dlaczego Afarer',
+    whyOLagoon: {
+      title: 'Dlaczego OLagoon',
       items: [
         {
           title: 'Zrozumienie doświadczenia wellness',
@@ -6802,7 +6802,7 @@ const pl: Record<string, SolutionOverride> = {
       {
         question: 'Czy mogę stworzyć własną markową linię produktów SUP Yoga?',
         answer:
-          'Tak. Afarer zapewnia kompletną produkcję private label z niestandardowymi kolorami, grafiką, opakowaniem i akcesoriami zaprojektowanymi specjalnie dla marek jogi i wellness.',
+          'Tak. OLagoon zapewnia kompletną produkcję private label z niestandardowymi kolorami, grafiką, opakowaniem i akcesoriami zaprojektowanymi specjalnie dla marek jogi i wellness.',
       },
       {
         question: 'Czy Wasze deski SUP Yoga nadają się do profesjonalnego użytku studyjnego?',

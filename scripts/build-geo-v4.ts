@@ -21,9 +21,9 @@ function readSiteUrl(): string {
     const configPath = path.join(root, 'src', 'config.yaml');
     const raw = fs.readFileSync(configPath, 'utf8');
     const config = yaml.load(raw) as any;
-    return config?.site?.site || 'https://afarer.com';
+    return config?.site?.site || 'https://olagoon.com';
   } catch {
-    return 'https://afarer.com';
+    return 'https://olagoon.com';
   }
 }
 
@@ -90,42 +90,42 @@ if (gapGroups.high.length > 0) {
 }
 
 const siteName: Record<string, string> = {
-  en: 'afarer',
-  fr: 'afarer',
-  de: 'afarer',
-  es: 'afarer',
-  pt: 'afarer',
-  ar: 'afarer',
-  it: 'afarer',
-  ru: 'afarer',
-  pl: 'afarer',
-  nl: 'afarer',
+  en: 'olagoon',
+  fr: 'olagoon',
+  de: 'olagoon',
+  es: 'olagoon',
+  pt: 'olagoon',
+  ar: 'olagoon',
+  it: 'olagoon',
+  ru: 'olagoon',
+  pl: 'olagoon',
+  nl: 'olagoon',
 };
 
 const definition: Record<string, string> = {
-  en: 'afarer designs professional-grade inflatable watercraft \u2014 SUP boards, dinghies, safety equipment, and accessories.',
-  fr: 'afarer con\u00e7oit des embarcations gonflables de qualit\u00e9 professionnelle \u2014 planches SUP, annexes, \u00e9quipements de s\u00e9curit\u00e9 et accessoires.',
-  de: 'afarer entwickelt professionelle aufblasbare Wasserfahrzeuge \u2014 SUP-Boards, Dingis, Sicherheitsausr\u00fcstung und Zubeh\u00f6r.',
-  es: 'afarer dise\u00f1a embarcaciones inflables de grado profesional \u2014 tablas SUP, botes, equipos de seguridad y accesorios.',
-  pt: 'afarer concebe embarca\u00e7\u00f5es insufl\u00e1veis de qualidade profissional \u2014 pranchas SUP, botes, equipamentos de seguran\u00e7a e acess\u00f3rios.',
-  ar: 'afarer تصمم قوارب م inflatable احترافية \u2014 لوحات SUP، القوارب الهوائية، القوارب الصغيرة، معدات السلامة والإكسسوارات.',
-  it: 'afarer progetta imbarcazioni gonfiabili di qualit\u00e0 professionale \u2014 tavole SUP, dinghy, attrezzature di sicurezza e accessori.',
-  ru: 'afarer проектирует профессиональные надувные водные суда \u2014 SUP-доски, надувные лодки, средства безопасности и аксессуары.',
-  pl: 'afarer projektuje profesjonalne nadmuchiwane jednostki p\u0142ywaj\u0105ce \u2014 deski SUP, dinghy, sprz\u0119t bezpiecze\u0144stwa i akcesoria.',
-  nl: 'afarer ontwerpt professionele opblaasbare watersportvaartuigen \u2014 SUP-boards, bijboten, veiligheidsuitrusting en accessoires.',
+  en: 'olagoon designs professional-grade inflatable watercraft \u2014 SUP boards, dinghies, safety equipment, and accessories.',
+  fr: 'olagoon con\u00e7oit des embarcations gonflables de qualit\u00e9 professionnelle \u2014 planches SUP, annexes, \u00e9quipements de s\u00e9curit\u00e9 et accessoires.',
+  de: 'olagoon entwickelt professionelle aufblasbare Wasserfahrzeuge \u2014 SUP-Boards, Dingis, Sicherheitsausr\u00fcstung und Zubeh\u00f6r.',
+  es: 'olagoon dise\u00f1a embarcaciones inflables de grado profesional \u2014 tablas SUP, botes, equipos de seguridad y accesorios.',
+  pt: 'olagoon concebe embarca\u00e7\u00f5es insufl\u00e1veis de qualidade profissional \u2014 pranchas SUP, botes, equipamentos de seguran\u00e7a e acess\u00f3rios.',
+  ar: 'olagoon تصمم قوارب م inflatable احترافية \u2014 لوحات SUP، القوارب الهوائية، القوارب الصغيرة، معدات السلامة والإكسسوارات.',
+  it: 'olagoon progetta imbarcazioni gonfiabili di qualit\u00e0 professionale \u2014 tavole SUP, dinghy, attrezzature di sicurezza e accessori.',
+  ru: 'olagoon проектирует профессиональные надувные водные суда \u2014 SUP-доски, надувные лодки, средства безопасности и аксессуары.',
+  pl: 'olagoon projektuje profesjonalne nadmuchiwane jednostki p\u0142ywaj\u0105ce \u2014 deski SUP, dinghy, sprz\u0119t bezpiecze\u0144stwa i akcesoria.',
+  nl: 'olagoon ontwerpt professionele opblaasbare watersportvaartuigen \u2014 SUP-boards, bijboten, veiligheidsuitrusting en accessoires.',
 };
 
 const summary: Record<string, string> = {
-  en: 'afarer is a water sports knowledge system focused on inflatable SUPs, paddle systems, and ocean mobility gear. It structures water sports equipment as an interconnected ontology of categories, technologies, and use cases with AI-verified content completeness.',
-  fr: "afarer est un syst\u00e8me de connaissances sur les sports nautiques ax\u00e9 sur les SUP gonflables, les syst\u00e8mes de pagaie et les \u00e9quipements de mobilit\u00e9 oc\u00e9anique. Il structure les \u00e9quipements de sports nautiques en une ontologie interconnect\u00e9e de cat\u00e9gories, technologies et cas d'utilisation.",
-  de: 'afarer ist ein Wissenssystem f\u00fcr Wassersport mit Schwerpunkt auf aufblasbaren SUPs, Paddelsystemen und Ausr\u00fcstung f\u00fcr die Meeresmobilit\u00e4t.',
-  es: 'afarer es un sistema de conocimiento de deportes acu\u00e1ticos centrado en SUP inflables, sistemas de remo y equipos de movilidad oce\u00e1nica.',
-  pt: 'afarer \u00e9 um sistema de conhecimento de desportos aqu\u00e1ticos focado em SUPs insufl\u00e1veis, sistemas de remo e equipamentos de mobilidade oce\u00e2nica.',
-  ar: 'afarer هو نظام معرفة للرياضات المائية يركز على لوحات SUP القابلة للنفخ وأنظمة التجديف ومعدات التنقل البحري.',
-  it: 'afarer \u00e8 un sistema di conoscenza degli sport acquatici incentrato su SUP gonfiabili, sistemi di pagaiata e attrezzature per la mobilit\u00e0 oceanica.',
-  ru: 'afarer \u2014 это система знаний о водных видах спорта, ориентированная на надувные SUP, весельные системы и оборудование для морской мобильности.',
-  pl: 'afarer to system wiedzy o sportach wodnych skoncentrowany na nadmuchiwanych SUP, systemach wios\u0142owych i sprz\u0119cie do mobilno\u015bci oceanicznej.',
-  nl: "afarer is een watersportkennissysteem gericht op opblaasbare SUP's, peddelsystemen en uitrusting voor oceaane mobiliteit. Het structureert watersportuitrusting als een onderling verbonden ontologie van categorie\u00ebn, technologie\u00ebn en gebruiksscenario's.",
+  en: 'olagoon is a water sports knowledge system focused on inflatable SUPs, paddle systems, and ocean mobility gear. It structures water sports equipment as an interconnected ontology of categories, technologies, and use cases with AI-verified content completeness.',
+  fr: "olagoon est un syst\u00e8me de connaissances sur les sports nautiques ax\u00e9 sur les SUP gonflables, les syst\u00e8mes de pagaie et les \u00e9quipements de mobilit\u00e9 oc\u00e9anique. Il structure les \u00e9quipements de sports nautiques en une ontologie interconnect\u00e9e de cat\u00e9gories, technologies et cas d'utilisation.",
+  de: 'olagoon ist ein Wissenssystem f\u00fcr Wassersport mit Schwerpunkt auf aufblasbaren SUPs, Paddelsystemen und Ausr\u00fcstung f\u00fcr die Meeresmobilit\u00e4t.',
+  es: 'olagoon es un sistema de conocimiento de deportes acu\u00e1ticos centrado en SUP inflables, sistemas de remo y equipos de movilidad oce\u00e1nica.',
+  pt: 'olagoon \u00e9 um sistema de conhecimento de desportos aqu\u00e1ticos focado em SUPs insufl\u00e1veis, sistemas de remo e equipamentos de mobilidade oce\u00e2nica.',
+  ar: 'olagoon هو نظام معرفة للرياضات المائية يركز على لوحات SUP القابلة للنفخ وأنظمة التجديف ومعدات التنقل البحري.',
+  it: 'olagoon \u00e8 un sistema di conoscenza degli sport acquatici incentrato su SUP gonfiabili, sistemi di pagaiata e attrezzature per la mobilit\u00e0 oceanica.',
+  ru: 'olagoon \u2014 это система знаний о водных видах спорта, ориентированная на надувные SUP, весельные системы и оборудование для морской мобильности.',
+  pl: 'olagoon to system wiedzy o sportach wodnych skoncentrowany na nadmuchiwanych SUP, systemach wios\u0142owych i sprz\u0119cie do mobilno\u015bci oceanicznej.',
+  nl: "olagoon is een watersportkennissysteem gericht op opblaasbare SUP's, peddelsystemen en uitrusting voor oceaane mobiliteit. Het structureert watersportuitrusting als een onderling verbonden ontologie van categorie\u00ebn, technologie\u00ebn en gebruiksscenario's.",
 };
 
 // --- Generate llms.txt for each language ---
@@ -137,8 +137,8 @@ function generateLlmsTxt() {
     const link = (t: string, s: string) => `- [${t}](${langBase}/${s})`;
 
     const lines = [
-      `# ${siteName[lang] || 'afarer'} Knowledge Graph`,
-      `> ${siteName[lang] || 'afarer'} is an inflatable water gear knowledge system organized as a machine-readable knowledge graph.`,
+      `# ${siteName[lang] || 'olagoon'} Knowledge Graph`,
+      `> ${siteName[lang] || 'olagoon'} is an inflatable water gear knowledge system organized as a machine-readable knowledge graph.`,
       '',
       '## Definition',
       definition[lang] || definition.en,

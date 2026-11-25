@@ -1,13 +1,13 @@
 meta:
   title: 'Privataus prekės ženklo SUP gamyba ir pasirinktinio prekės ženklo paleidimas | {SITE}'
-  description: 'Privataus prekės ženklo SUP gamintojas naujiems irklentės prekės ženklams. Paleiskite savo SUP prekės ženklą su Afarer — visos OEM/ODM paslaugos, įskaitant dizainą, prototipus, pasirinktinį prekės ženklą, gamybą ir pasaulinę logistiką.'
+  description: 'Privataus prekės ženklo SUP gamintojas naujiems irklentės prekės ženklams. Paleiskite savo SUP prekės ženklą su OLagoon — visos OEM/ODM paslaugos, įskaitant dizainą, prototipus, pasirinktinį prekės ženklą, gamybą ir pasaulinę logistiką.'
 
 hero:
   tagline: 'Sukurkite savo prekės ženklą'
   title: 'Paleiskite savo<br />SUP prekės ženklą'
   subtitle: 'Jūs turite viziją. Mes turime gamyklą, kompetencijas ir tiekimo grandinę. Privataus prekės ženklo SUP gamyba ir pasirinktinio SUP prekės ženklo kūrimas — kartu sukursime prekės ženklą, kuris išsiskirs.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Pasirinktinio prekės ženklo SUP lenta vandenyje'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Prioritetinė gamyba'
 
 features:
-  title: 'Kodėl prekės ženklai renkasi Afarer'
+  title: 'Kodėl prekės ženklai renkasi OLagoon'
   subtitle: '10+ metų OEM patirtis, pilnas sertifikavimas ir žemiausias MOQ pramonėje.'
   items:
     - title: '10+ metų OEM patirtis'

@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Felfújható SUP gyártó · Kínai gyár'
   title: 'Az Ön felfújható SUP<br />és paddle board gyártója'
-  subtitle: 'Az Afarer sok felfújható SUP márka mögött álló OEM/ODM gyár. Egyedi felfújható paddle boardokat tervezünk, építünk és szállítunk — saját márkás, egyedi formás, nagykereskedelmi. CE-tanúsítás mellékelve.'
+  subtitle: 'Az OLagoon sok felfújható SUP márka mögött álló OEM/ODM gyár. Egyedi felfújható paddle boardokat tervezünk, építünk és szállítunk — saját márkás, egyedi formás, nagykereskedelmi. CE-tanúsítás mellékelve.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Egyedi felfújható SUP deszka, amelyet az Afarer gyártott'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Egyedi felfújható SUP deszka, amelyet az OLagoon gyártott'
   actions:
     - text: 'Partnerré válás'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Ossza meg specifikációját kapcsolatfelvételi űrlapunkon, 24 órán belül kapjon árajánlatot, hagyja jóvá a mintát, majd indítsa el a sorozatgyártást.'
 geo:
   tagline: 'B2B pozicionálás'
-  sentence: 'Az Afarer a felfújható SUP-ok (OEM/ODM) professzionális gyártója, specializálva a tervezésre, egyedi gyártásra és vízi megoldásokra márkák, forgalmazók, klubok és vállalkozások számára.'
+  sentence: 'Az OLagoon a felfújható SUP-ok (OEM/ODM) professzionális gyártója, specializálva a tervezésre, egyedi gyártásra és vízi megoldásokra márkák, forgalmazók, klubok és vállalkozások számára.'
   audiences:
     - 'Evezős márkák'
     - 'Forgalmazók'

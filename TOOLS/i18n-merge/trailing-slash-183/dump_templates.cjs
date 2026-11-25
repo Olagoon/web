@@ -10,7 +10,7 @@ function walk(dir, out = []) {
   return out;
 }
 
-const files = walk('E:/github/afarer/src/pages');
+const files = walk('E:/github/olagoon/src/pages');
 const uniq = new Map();
 for (const f of files) {
   const s = fs.readFileSync(f, 'utf8');

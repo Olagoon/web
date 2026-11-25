@@ -1,6 +1,6 @@
 meta:
   title: 'Global Närvaro — SUP-tillverkare som betjänar 50+ länder | {SITE}'
-  description: 'afarer exporterar uppblåsbara SUP:ar till över 50 länder på alla kontinenter. Professionell tillverkare och leverantör för varumärken, distributörer och flottor.'
+  description: 'olagoon exporterar uppblåsbara SUP:ar till över 50 länder på alla kontinenter. Professionell tillverkare och leverantör för varumärken, distributörer och flottor.'
   keywords:
     - 'global SUP-tillverkare'
     - 'paddle board exportör'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Global närvaro
   title: Betjänar 50+ länder<br />över alla kontinenter
-  subtitle: Från europeiska kustpatrulloperatörer till australiska vattensportdistributörer till Mellanösterns räddningsteam — afarer-brädor finns på vattnet över hela världen.
+  subtitle: Från europeiska kustpatrulloperatörer till australiska vattensportdistributörer till Mellanösterns räddningsteam — olagoon-brädor finns på vattnet över hela världen.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer global marin tillverkning och distribution
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon global marin tillverkning och distribution
 stats:
   title: Global räckvidd
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: 'Lager i Montclair, CA för snabb leverans över hela Nordamerika. Västkusten: 2-3 dagar, Centrala: 3-4 dagar, Östkusten: 4-5 dagar.'
       icon: tabler:building-warehouse
     - title: Reservdelar
-      description: Äkta afarer-reservdelar och förbrukningsartiklar finns i lager året runt. Vanliga delar skickas inom 24 timmar.
+      description: Äkta olagoon-reservdelar och förbrukningsartiklar finns i lager året runt. Vanliga delar skickas inom 24 timmar.
       icon: tabler:package
     - title: Teknisk support
       description: Direktlinje till vårt ingenjörsteam för tekniska frågor, reparationsråd och reservdelsstöd. Vi stödjer brädor vi byggde för 20 år sedan.

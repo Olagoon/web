@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Výrobca nafukovacích SUP · čínska továreň'
   title: 'Váš výrobca nafukovacích SUP<br />a paddle boardov'
-  subtitle: 'Afarer je OEM/ODM továreň, ktorá stojí za mnohými značkami nafukovacích SUP. Navrhujeme, vyrábame a expedujeme custom nafukovacie paddle boardy — private label, vlastné formy, veľkoobchod. Certifikácia CE v cene.'
+  subtitle: 'OLagoon je OEM/ODM továreň, ktorá stojí za mnohými značkami nafukovacích SUP. Navrhujeme, vyrábame a expedujeme custom nafukovacie paddle boardy — private label, vlastné formy, veľkoobchod. Certifikácia CE v cene.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Custom nafukovacia doska SUP vyrobená spoločnosťou Afarer'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Custom nafukovacia doska SUP vyrobená spoločnosťou OLagoon'
   actions:
     - text: 'Staňte sa partnerom'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Pošlite nám špecifikáciu prostredníctvom kontaktného formulára, do 24 hodín dostanete ponuku, schváľte vzorku a potom začnite hromadnú výrobu.'
 geo:
   tagline: 'B2B pozicionovanie'
-  sentence: 'Afarer je profesionálny výrobca nafukovacích SUP (OEM/ODM) so špecializáciou na dizajn, custom výrobu a námorné riešenia pre značky, distribútorov, kluby a podniky.'
+  sentence: 'OLagoon je profesionálny výrobca nafukovacích SUP (OEM/ODM) so špecializáciou na dizajn, custom výrobu a námorné riešenia pre značky, distribútorov, kluby a podniky.'
   audiences:
     - 'Značky paddle vybavenia'
     - 'Distribútori'

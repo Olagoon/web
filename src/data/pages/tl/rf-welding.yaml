@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 03'
   title: 'RF Welding Center'
   subtitle: 'Teknolohiya ng dielectric bonding para sa mga weld na kumakapit sa ilalim ng presyon'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Proseso ng dielectric bonding ng RF welding ng Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'Proseso ng dielectric bonding ng RF welding ng OLagoon'
 
-intro: 'Ang isang inflatable SUP ay maaasahan lamang kung maaasahan ang mga seam nito. Ang isahang mahinang weld ay maaaring sirain ang buong chamber — at sa dagat, ang pagkabigo ng isang chamber ay hindi lamang abala; ito ay panganib sa kaligtasan. Sa Afarer, namuhunan kami sa isang nakalaang Radio-Frequency (RF) Welding Center na nagsasama ng mga industrial-grade na dielectric welding press na may mahigpit na kontrol sa proseso at pagsubok pagkatapos ng welding. Ang bawat seam na aming ginagawa ay naka-dokumento, masusubaybayan, at sertipikadong tumutugon o lumalampas sa mga kinakailangan ng EN ISO 25649 — ang pamantayang Europeo para sa kagamitang pang-rekasyon na inflatable.'
+intro: 'Ang isang inflatable SUP ay maaasahan lamang kung maaasahan ang mga seam nito. Ang isahang mahinang weld ay maaaring sirain ang buong chamber — at sa dagat, ang pagkabigo ng isang chamber ay hindi lamang abala; ito ay panganib sa kaligtasan. Sa OLagoon, namuhunan kami sa isang nakalaang Radio-Frequency (RF) Welding Center na nagsasama ng mga industrial-grade na dielectric welding press na may mahigpit na kontrol sa proseso at pagsubok pagkatapos ng welding. Ang bawat seam na aming ginagawa ay naka-dokumento, masusubaybayan, at sertipikadong tumutugon o lumalampas sa mga kinakailangan ng EN ISO 25649 — ang pamantayang Europeo para sa kagamitang pang-rekasyon na inflatable.'
 
 content_html: |
   <h2>Ang agham sa likod ng seam</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Ang aming komitment sa iyo</h2>
   <p>Ang bawat board na aming maihahatid ay may garantiya ng kalidad ng weld: kung may mabibigong seam sa karaniwang paglilingkod sa loob ng panahon ng warranty, kukumpunihin o papalitan namin ang apektadong chamber nang walang bayad, at isinasagawa ang imbestigasyon ng pinagmulan upang maiwasan ang muling pangyayari. Ito ay hindi lamang warranty — ito ay komitment sa tuluy-tuloy na pagpapabuti na hinihimok ng tunay na datos mula sa aktwal na operasyon.</p>
-  <p>Kapag pinili mo ang Afarer, pinipili mo ang mga seam na in-engineer, sinubok, at naka-dokumento — hindi lamang na-weld. Iyon ang pagkakaiba ng board na lumulutang at board na nagtatagumpay.</p>
+  <p>Kapag pinili mo ang OLagoon, pinipili mo ang mga seam na in-engineer, sinubok, at naka-dokumento — hindi lamang na-weld. Iyon ang pagkakaiba ng board na lumulutang at board na nagtatagumpay.</p>
 
 cta:
   title: 'Talakayin ang iyong mga kinakailangan sa welding'

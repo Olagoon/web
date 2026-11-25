@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // ---- TECH.md entry 182 ----
-const TECH = 'E:/github/afarer/TECH.md';
+const TECH = 'E:/github/olagoon/TECH.md';
 let tech = fs.readFileSync(TECH, 'utf8');
 const anchor181 = '工具细节见 TOOLS 条目 115。';
 if (!tech.includes(anchor181)) throw new Error('TECH anchor not found');
@@ -13,7 +13,7 @@ fs.writeFileSync(TECH, tech, 'utf8');
 console.log('TECH.md entry 182 inserted');
 
 // ---- TOOLS entry 116 ----
-const TOOLS = 'E:/github/afarer/TOOLS/tool_instrction.md';
+const TOOLS = 'E:/github/olagoon/TOOLS/tool_instrction.md';
 let tools = fs.readFileSync(TOOLS, 'utf8');
 const anchor115 = '单语言 marker 需选该语言特有词(跨语言同 key 对比表即天然 marker 来源)。';
 if (!tools.includes(anchor115)) throw new Error('TOOLS anchor not found');

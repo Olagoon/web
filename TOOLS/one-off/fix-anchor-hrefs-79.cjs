@@ -4,7 +4,7 @@
  *
  * Sources (dist audit, see TECH.md L69):
  *  - {loc}/home.yaml hero action `href: '#features'` (15 locales) - homepage has no #features
- *    section; EN hero links real pages. -> `href: '/afarer-story'` (matches "learn more" intent,
+ *    section; EN hero links real pages. -> `href: '/olagoon-story'` (matches "learn more" intent,
  *    exists in all 34 locales, hero actions get `/${lang}` prefix in [lang]/index.astro).
  *  - {loc}/learn.yaml + root learn.yaml CTA action `href: '#ai-guide'` (21 files) - learn page
  *    has no #ai-guide target. -> `href: '/ai-answer-center'` (AI hub, all 34 locales; CTA
@@ -22,9 +22,9 @@ const DRY = process.argv.includes('--dry');
 
 const RULES = [
   {
-    name: "home.yaml hero '#features' -> '/afarer-story'",
+    name: "home.yaml hero '#features' -> '/olagoon-story'",
     find: "href: '#features'",
-    rep: "href: '/afarer-story'",
+    rep: "href: '/olagoon-story'",
     expect: 15,
   },
   {

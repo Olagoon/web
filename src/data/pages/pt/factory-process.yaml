@@ -1,6 +1,6 @@
 meta:
   title: 'Processo de Fabricação — Da Matéria-Prima ao SUP | {SITE}'
-  description: 'Da matéria-prima ao SUP pronto para o mar: cada etapa do processo de fabricação da afarer sob nosso controle, do corte e soldagem aos testes.'
+  description: 'Da matéria-prima ao SUP pronto para o mar: cada etapa do processo de fabricação da olagoon sob nosso controle, do corte e soldagem aos testes.'
   keywords:
     - 'processo de fabricação de SUP'
     - 'fábrica de SUP inflável'
@@ -13,7 +13,7 @@ hero:
   back_label: Voltar à Fábrica
   back_link: /factory/
 intro: >-
-  Ao contrário de marcas que subcontratam produção a fábricas terceiras, a afarer possui e opera toda a sua cadeia de fabrico. Esta integração vertical permite-nos manter um rigoroso controlo de qualidade em cada etapa, responder rapidamente a requisitos personalizados e entregar qualidade de
+  Ao contrário de marcas que subcontratam produção a fábricas terceiras, a olagoon possui e opera toda a sua cadeia de fabrico. Esta integração vertical permite-nos manter um rigoroso controlo de qualidade em cada etapa, responder rapidamente a requisitos personalizados e entregar qualidade de
   produto consistente lote após lote. Eis como uma prancha é construída na nossa instalação.
 steps:
   - step: '01'
@@ -55,6 +55,6 @@ steps:
     duration: 1 dia
 cta:
   title: Veja o nosso equipamento e maquinaria
-  desc: Explore o equipamento industrial por trás de cada prancha afarer.
+  desc: Explore o equipamento industrial por trás de cada prancha olagoon.
   label: Ver equipamento →
   link: /factory/equipment/

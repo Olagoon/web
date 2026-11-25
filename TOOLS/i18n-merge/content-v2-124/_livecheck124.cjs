@@ -5,21 +5,21 @@ const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const yaml = require(path.join(ROOT, 'node_modules', 'js-yaml'));
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
 
 const SLUGS = [
-  'afarer-sup-explorer-11-review',
-  'afarer-sup-tour-12-review',
-  'afarer-airdeck-360-review',
-  'afarer-airdeck-270-review',
-  'afarer-rib-330-review',
-  'afarer-rib-450-patrol-review',
-  'afarer-life-vest-classic-review',
-  'afarer-life-vest-pro-review',
-  'afarer-oars-pump-set-review',
-  'afarer-zb-mt350-review',
+  'olagoon-sup-explorer-11-review',
+  'olagoon-sup-tour-12-review',
+  'olagoon-airdeck-360-review',
+  'olagoon-airdeck-270-review',
+  'olagoon-rib-330-review',
+  'olagoon-rib-450-patrol-review',
+  'olagoon-life-vest-classic-review',
+  'olagoon-life-vest-pro-review',
+  'olagoon-oars-pump-set-review',
+  'olagoon-zb-mt350-review',
   'sup-vs-surfboard',
   'kayak-vs-sup',
   'sup-fitness-workout',
@@ -67,7 +67,7 @@ let n = 0;
 for (const loc of ['ro', 'th']) {
   // index page
   const idxOut = path.join(TMP, 'live124_' + loc + '_index.html');
-  const code = fetch('https://afarer.com/' + loc + '/v2/', idxOut);
+  const code = fetch('https://olagoon.com/' + loc + '/v2/', idxOut);
   const idxBody = fs.readFileSync(idxOut, 'utf8');
   if (code === '200' && idxBody.includes('<html')) pass('/' + loc + '/v2/ index 200');
   else fail('/' + loc + '/v2/ index code=' + code);
@@ -79,7 +79,7 @@ for (const loc of ['ro', 'th']) {
 
   for (const slug of SLUGS) {
     const out = path.join(TMP, 'live124_' + loc + '_' + slug + '.html');
-    const c = fetch('https://afarer.com/' + loc + '/v2/' + slug, out);
+    const c = fetch('https://olagoon.com/' + loc + '/v2/' + slug, out);
     const body = fs.readFileSync(out, 'utf8');
     const ok = c === '200' && body.includes(esc(String(titles[loc].get(slug))));
     if (ok) {
@@ -94,7 +94,7 @@ for (const loc of ['ro', 'th']) {
 // ES fallback page (no overlay -> EN)
 {
   const fbOut = path.join(TMP, 'live124_es_fb.html');
-  const fc = fetch('https://afarer.com/es/v2/' + FALLBACK, fbOut);
+  const fc = fetch('https://olagoon.com/es/v2/' + FALLBACK, fbOut);
   const fb = fs.readFileSync(fbOut, 'utf8');
   if (fc === '200' && fb.includes(esc(enFallbackTitle))) pass('/es/v2/' + FALLBACK + ' EN fallback');
   else fail('/es/v2/' + FALLBACK + ' code=' + fc + ' fbTitleMatch=' + fb.includes(esc(enFallbackTitle)));

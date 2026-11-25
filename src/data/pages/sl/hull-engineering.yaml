@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorij 02'
   title: 'Studio za inženiring trupov'
   subtitle: 'Digitalna simulacija, strukturna inteligentnost, oblikovanje trupov po meri'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Delovna postaja za oblikovanje CAD v inženiringu trupov Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'Delovna postaja za oblikovanje CAD v inženiringu trupov OLagoon'
 
-intro: 'Trup je hrbtenica vsake napihljive deske SUP. Biti mora dovolj lahek za učinkovito drsenje, dovolj močan za kamnite obale in dovolj tog, da vsako zaveslje pretvori v gibanje naprej. Pri Afarerju naš studio za inženiring trupov združuje napredno modeliranje CAD, analizo končnih elementov (FEA) in desetletja praktičnih izkušenj z oblikovanjem desk ter ustvarja trupe, optimizirane za svoj namen — ne generične oblike iz kataloga.'
+intro: 'Trup je hrbtenica vsake napihljive deske SUP. Biti mora dovolj lahek za učinkovito drsenje, dovolj močan za kamnite obale in dovolj tog, da vsako zaveslje pretvori v gibanje naprej. Pri OLagoonju naš studio za inženiring trupov združuje napredno modeliranje CAD, analizo končnih elementov (FEA) in desetletja praktičnih izkušenj z oblikovanjem desk ter ustvarja trupe, optimizirane za svoj namen — ne generične oblike iz kataloga.'
 
 content_html: |
   <h2>Kjer se srečata moč in hidrodinamika</h2>

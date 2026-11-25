@@ -1,6 +1,6 @@
 meta:
-  title: 'Az Afarer-ről — Felfújható SUP és vízisport márka | {SITE}'
-  description: 'Az Afarer globális felfújható SUP és vízisport márka, amelyet az Aquafarer LLC működtet és a csingtaói operációs csapatunk épít. Ismerje meg történetünket, mérnökségünket, tanúsított minőségünket és országos partnerprogramjainkat.'
+  title: 'Az OLagoon-ről — Felfújható SUP és vízisport márka | {SITE}'
+  description: 'Az OLagoon globális felfújható SUP és vízisport márka, amelyet az Olagoon LLC működtet és a csingtaói operációs csapatunk épít. Ismerje meg történetünket, mérnökségünket, tanúsított minőségünket és országos partnerprogramjainkat.'
   keywords:
     - 'felfújható SUP márka'
     - 'vízisport márka'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'Rólunk'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
     alt: afarar gyár és műhely
   title: |
     Tengeri mérnökség, <br />
-    az <span class="text-accent dark:text-white">afarer</span> módszerrel építve
+    az <span class="text-accent dark:text-white">olagoon</span> módszerrel építve
   subtitle: 'Egy parti műhelyben kezdtük egy lappal és egy makacs meggyőződéssel: a tengeri termékeket úgy kell megtervezni, mintha számítanának, mert számítanak. Ma több mint 40 országba szállítunk, de minden hajótest ugyanazokon a kezeken megy át, amelyek elindították a vállalatot.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Projektenkénti tervezés kereskedelmi, tudományos és katonai ügyfeleknek.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Laptervezési és mérnöki megbeszélés'
 
 steps2_values:
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: '50+ országba szállítás a csingtaói létesítményünkből jogosított szervizpartnerekkel Európában, Ázsiában-Csendes-óceáni térségben és Amerikában.'
     link: /brand-global-presence/
     link_label: 'Tudjon meg többet →'
-  - title: 'Miért afarer'
+  - title: 'Miért olagoon'
     desc: 'Márka, amely igazolt minőségre épül — kettős tanúsítás (ISO 9001 + BSCI), CE-megfelelőség és kizárólagos országos partnerségek korlátozott közös márkás kollekciókkal vízisport vállalkozásoknak.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Tudjon meg többet →'

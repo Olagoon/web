@@ -1,6 +1,6 @@
 site:
-  name: Afarer
-  site: 'https://afarer.com'
+  name: OLagoon
+  site: 'https://olagoon.com'
   base: '/'
   trailingSlash: true
 
@@ -9,23 +9,23 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: Afarer — Premium SUP dēļi un ūdens piedzīvojumu piederumi
-    template: '%s — Afarer'
+    default: OLagoon — Premium SUP dēļi un ūdens piedzīvojumu piederumi
+    template: '%s — OLagoon'
   description: 'Premium SUPs, paddle boards, and water adventure accessories. Commercial-grade inflatable SUP boards, life vests, pumps, and paddles for every adventure.'
   keywords:
-    - Afarer
+    - OLagoon
     - SUP
     - paddleboard
     - inflatable SUP
     - drop stitch SUP
     - stand up paddle board
     - marine accessories
-  author: Afarer
+  author: OLagoon
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: Afarer
+    site_name: OLagoon
     images:
       - url: '~/assets/images/default.webp'
         width: 1200
@@ -33,8 +33,8 @@ metadata:
     type: website
     locale: lv_LV
   twitter:
-    handle: '@afarer'
-    site: '@afarer'
+$1''
+$1''
     cardType: summary_large_image
 
 i18n:
@@ -98,26 +98,22 @@ analytics:
       id: null
 
 siteSettings:
-  siteName: Afarer
+  siteName: OLagoon
   siteTagline: 'Ūdens piedzīvojumu aprīkojuma zīmols — piepūšamie SUP, laivas un jūras aprīkojums'
-  siteDescription: 'Afarer ir globāls ūdens piedzīvojumu aprīkojuma zīmols, kas izstrādā uzticamus piepūšamos SUP dēļus, laivas un ūdens drošības aprīkojumu. Ar CE sertifikātu un piedzīvojumu meklētāju uzticību visā pasaulē.'
+  siteDescription: 'OLagoon ir globāls ūdens piedzīvojumu aprīkojuma zīmols, kas izstrādā uzticamus piepūšamos SUP dēļus, laivas un ūdens drošības aprīkojumu. Ar CE sertifikātu un piedzīvojumu meklētāju uzticību visā pasaulē.'
   organization:
-    name: Afarer
+    name: OLagoon
     logo: '/android-chrome-512x512.png'
-    contactEmail: info@afarer.com
+    contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
   socialLinks:
     - platform: linkedin
-      url: 'https://www.linkedin.com/company/afarer'
+      url: 'https://www.linkedin.com/company/olagoon'
     - platform: youtube
-      url: 'https://www.youtube.com/@Afarer'
-    - platform: x
-      url: 'https://x.com/afarer'
-    - platform: instagram
-      url: 'https://www.instagram.com/afarer'
+      url: 'https://www.youtube.com/@TheOlagoon'
     - platform: facebook
-      url: 'https://www.facebook.com/afarer'
+      url: 'https://www.facebook.com/TheOlagoon'
     - platform: rss
       url: /rss.xml
 
@@ -125,19 +121,19 @@ ui:
   theme: 'system'
 
 branding:
-  site_name: 'Afarer'
+  site_name: 'OLagoon'
   logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'Afarer_Logo'
+  logo_alt: 'OLagoon_Logo'
   copyright: '© {year} {site_name} · Visas tiesības aizsargātas.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
-  email: info@afarer.com
+  email: info@olagoon.com
   whatsapp_number: '+12135577888'
   whatsapp_default_message: 'Sveiki, vēlētos pajautāt par produktu.'
-  contact_email_to: info@afarer.com
+  contact_email_to: info@olagoon.com
   contact_email_provider: resend
-  contact_from_email: web@afarer.net
-  contact_from_name: Afarer
+  contact_from_email: web@olagoon.com
+  contact_from_name: OLagoon
   contact_resend_api_key: Aa123456#
   contact_submissions_pat: ''
   gmap_api_key: ''

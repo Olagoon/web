@@ -1,6 +1,6 @@
 meta:
-  title: Tablas de Paddle Inflables Afarer | Ve más lejos. Rema más fuerte.
-  description: Descubre las tablas de paddle inflables Afarer para paddle polivalente, touring, yoga, pesca y aventuras al aire libre. Encuentra tu SUP perfecto y explora más sobre el agua.
+  title: Tablas de Paddle Inflables OLagoon | Ve más lejos. Rema más fuerte.
+  description: Descubre las tablas de paddle inflables OLagoon para paddle polivalente, touring, yoga, pesca y aventuras al aire libre. Encuentra tu SUP perfecto y explora más sobre el agua.
   keywords:
     - tabla de paddle inflable
     - sup inflable
@@ -14,7 +14,7 @@ hero:
   tagline: Tablas de Paddle Inflables
   title: Tablas de Paddle Inflables para Cada Aventura
   slogan: Ve más lejos. Rema más fuerte.
-  subtitle: Descubre la libertad del paddle con Afarer. Explora SUP inflables diseñados con esmero para días relajados en el lago, aventuras costeras, fitness y todo lo demás.
+  subtitle: Descubre la libertad del paddle con OLagoon. Explora SUP inflables diseñados con esmero para días relajados en el lago, aventuras costeras, fitness y todo lo demás.
   taglineSection: Diseñado para dar confianza. Creado para destacar.
   actions:
     - variant: primary
@@ -24,16 +24,16 @@ hero:
     - text: Explorar SUP
       href: /inflatable-sup/
       icon: tabler:waves
-    - text: Por Qué Afarer
-      href: /afarer-story/
+    - text: Por Qué OLagoon
+      href: /olagoon-story/
       icon: tabler:heart
   image:
     src: ~/assets/images/hero-image.webp
-    alt: Tablas de paddle inflables Afarer deslizándose sobre agua calmada al amanecer — diseñadas para cada aventura
+    alt: Tablas de paddle inflables OLagoon deslizándose sobre agua calmada al amanecer — diseñadas para cada aventura
 who_we_serve:
   tagline: Rema Con Nosotros
   title: Encuentra Tu Camino en el Agua
-  subtitle: Cada palista tiene una idea distinta de la aventura. Descubre un SUP Afarer diseñado para tu forma de remar.
+  subtitle: Cada palista tiene una idea distinta de la aventura. Descubre un SUP OLagoon diseñado para tu forma de remar.
   items:
     - title: Principiantes & Palistas Recreativos
       keywords: SUP inflable para principiantes, tabla de paddle polivalente, SUP estable

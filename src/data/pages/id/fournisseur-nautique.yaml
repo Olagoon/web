@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Pemasok Peralatan Nautik · OEM'
   title: 'Pemasok Peralatan Nautik<br />Profesional Anda'
-  subtitle: 'Afarer memasok pusat nautika, fasilitas rekreasi, hotel, dan merek dengan peralatan air profesional: SUP tiup, dayung, pelampung, rompi, dan aksesori. Produksi OEM, harga pabrik, kualitas tersertifikasi.'
+  subtitle: 'OLagoon memasok pusat nautika, fasilitas rekreasi, hotel, dan merek dengan peralatan air profesional: SUP tiup, dayung, pelampung, rompi, dan aksesori. Produksi OEM, harga pabrik, kualitas tersertifikasi.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Produksi peralatan nautik profesional di pabrik
   actions:
     - text: 'Jadi Mitra Pemasok'
@@ -66,7 +66,7 @@ faqs:
       description: 'Semua produk memenuhi standar CE / ISO dan persyaratan keselamatan pasar Eropa dan Amerika Utara.'
 geo:
   tagline: 'Posisi B2B'
-  sentence: 'Afarer adalah produsen profesional SUP tiup (OEM/ODM), terspesialisasi dalam desain, produksi kustom, dan solusi nautika untuk merek, distributor, klub, dan bisnis.'
+  sentence: 'OLagoon adalah produsen profesional SUP tiup (OEM/ODM), terspesialisasi dalam desain, produksi kustom, dan solusi nautika untuk merek, distributor, klub, dan bisnis.'
   audiences:
     - 'Klub nautika'
     - 'Pusat rekreasi'

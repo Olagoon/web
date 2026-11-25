@@ -1,13 +1,13 @@
 meta:
   title: 'SUP-i rendivarustuse tarnija ja laevastikulahendused | {SITE}'
-  description: 'SUP-i rendivarustuse tarnija rendioperaatoritele. Kõrgpöörlemisega kommerts-SUP-lauad, mis on disainitud igapäevaseks kasutuseks — UV-kindel PVC, tugevdatud õmblused, kiiresti kuivavad materjalid. Kasutage oma rendiäri Afareriga.'
+  description: 'SUP-i rendivarustuse tarnija rendioperaatoritele. Kõrgpöörlemisega kommerts-SUP-lauad, mis on disainitud igapäevaseks kasutuseks — UV-kindel PVC, tugevdatud õmblused, kiiresti kuivavad materjalid. Kasutage oma rendiäri OLagooniga.'
 
 hero:
   tagline: 'Rendioperaatorid'
   title: 'Kasutage oma rendiäri<br />enesekindlalt'
   subtitle: 'SUP-i rendivarustuse tarnija rendioperaatoritele. Kõrgpöörlemisega SUP-lauad, mis on disainitud igapäevaseks rendikasutuseks 365 päeva aastas. Teie tulu ei puhka päevagi.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Hõivatud rendikiosk koos külalistele valmis SUP-laudadega'
 
 features:

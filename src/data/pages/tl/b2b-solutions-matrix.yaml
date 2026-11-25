@@ -1,18 +1,18 @@
 meta:
   title: 'Matrix ng mga Solusyon para sa Kliyenteng B2B | {SITE}'
-  description: 'Kumpletong matrix ng mga solusyon sa kliyenteng B2B ng Afarer na sumasaklaw sa 24 na uri ng customer — mula sa mga outdoor startup hanggang sa mga institusyon ng pangangalaga sa dagat.'
+  description: 'Kumpletong matrix ng mga solusyon sa kliyenteng B2B ng OLagoon na sumasaklaw sa 24 na uri ng customer — mula sa mga outdoor startup hanggang sa mga institusyon ng pangangalaga sa dagat.'
 
 hero:
   tagline: 'Mga Solusyon sa Kliyenteng B2B'
   title: '24 na Solusyong B2B<br />Na Iniangkop sa Iyong Negosyo'
-  subtitle: 'Mula sa mga tagapagtatag ng startup hanggang sa mga global na distributor — hanapin ang eksaktong solusyon ng Afarer na idinisenyo para sa iyong modelo ng negosyo, industriya, at mga layunin.'
+  subtitle: 'Mula sa mga tagapagtatag ng startup hanggang sa mga global na distributor — hanapin ang eksaktong solusyon ng OLagoon na idinisenyo para sa iyong modelo ng negosyo, industriya, at mga layunin.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Pabrika at pasilidad ng paggawa ng Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'Pabrika at pasilidad ng paggawa ng OLagoon'
 
 solutions:
   title: 'Matrix ng mga Solusyon sa Kliyente'
-  subtitle: 'Bawat uri ng customer, ang kanilang pangunahing pangangailangan, at ang pahina ng solusyon ng Afarer na idinisenyo para sa kanila.'
+  subtitle: 'Bawat uri ng customer, ang kanilang pangunahing pangangailangan, at ang pahina ng solusyon ng OLagoon na idinisenyo para sa kanila.'
   items:
     - clientType: 'Tagapagtatag ng Outdoor Startup'
       need: 'Paglikha ng Brand'

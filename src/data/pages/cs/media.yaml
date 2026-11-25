@@ -1,8 +1,8 @@
 meta:
-  title: 'Mediální centrum — tisk a materiály afarera | {SITE}'
-  description: 'Mediální centrum afarera: tiskové zprávy, materiály značky a zdroje z naší společnosti vyrábějící nafukovací SUP prkna.'
+  title: 'Mediální centrum — tisk a materiály olagoona | {SITE}'
+  description: 'Mediální centrum olagoona: tiskové zprávy, materiály značky a zdroje z naší společnosti vyrábějící nafukovací SUP prkna.'
   keywords:
-    - 'tisk afarera'
+    - 'tisk olagoona'
     - 'média výrobce SUP'
     - 'press kit paddleboard'
     - 'námořní firemní zprávy'
@@ -21,7 +21,7 @@ sections:
       - Příslušenství a bezpečnostní vybavení
   - id: logo-brand-kit
     title: Logo a sada pro značku
-    desc: Oficiální soubory loga afarer, barevná paleta, typografie a pokyny pro značku.
+    desc: Oficiální soubory loga olagoon, barevná paleta, typografie a pokyny pro značku.
     items:
       - Primární logo (PNG/SVG/EPS)
       - Ikona
@@ -55,7 +55,7 @@ cta:
       desc: Prohlédněte si naše 12 000 m² výrobní zařízení
     - label: Pokyny pro značku
       href: /brand/
-      desc: Seznamte se se značkou afarer
+      desc: Seznamte se se značkou olagoon
     - label: Staňte se partnerem
       href: /contact/
       desc: OEM, ODM a distribuční dotazy

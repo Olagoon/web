@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Kūrorti un viesnīcas'
   title: 'Pārvērtiet savu piekrasti par ieņēmumu centru<br />ar premium SUP flotēm'
-  subtitle: 'Afarer aprīko kūrortus visā pasaulē ar komerciāla līmeņa piepūšamo SUP flotēm — no 20 dēļu startera paketēm līdz 100+ dēļu flagmaņa programmām. Iekļauts pielāgots zīmolējums, personāla apmācība un rezerves daļas.'
+  subtitle: 'OLagoon aprīko kūrortus visā pasaulē ar komerciāla līmeņa piepūšamo SUP flotēm — no 20 dēļu startera paketēm līdz 100+ dēļu flagmaņa programmām. Iekļauts pielāgots zīmolējums, personāla apmācība un rezerves daļas.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Kūrorta viesi izbauda SUP braukšanu neskartā pludmalē'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Pilna flotes investīcija atmaksājas vienas sezonas laikā'
     - metric: '40%'
       label: 'Ieņēmumu pieaugums'
-      detail: 'Vidējais pieaugums pēc pāriešanas uz Afarer flotēm'
+      detail: 'Vidējais pieaugums pēc pāriešanas uz OLagoon flotēm'
     - metric: '500+'
       label: 'Nomas cikli uz dēli'
       detail: 'Komerciāla līmeņa izturība ikdienas lietošanai'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Iegādāties flagmaņa paketi'
 
 case_study:
-  quote: 'Kopš pāriešanas uz Afarer mūsu SUP nomas ieņēmumi pieauga par 40%. Dēļu nomaišanas izmaksas samazinājās par 60%. Pilnu flotes investīciju atmaksājām 4 mēnešos.'
+  quote: 'Kopš pāriešanas uz OLagoon mūsu SUP nomas ieņēmumi pieauga par 40%. Dēļu nomaišanas izmaksas samazinājās par 60%. Pilnu flotes investīciju atmaksājām 4 mēnešos.'
   author: 'Ūdens aktivitāšu vadītājs'
   location: '5 zvaigžņu kūrorts, Maldīvija'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 mēneši'
 
 features:
-  title: 'Kāpēc kūrorti izvēlas Afarer'
+  title: 'Kāpēc kūrorti izvēlas OLagoon'
   subtitle: 'Komerciāla līmeņa izturība, globālā loģistika un partneris, kas izprot viesmīlību.'
   items:
     - title: '500+ nomas cikli'

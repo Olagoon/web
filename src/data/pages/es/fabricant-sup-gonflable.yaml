@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Fabricante de SUP Inflable · Fábrica en China'
   title: 'Tu Fabricante de SUP Inflable<br />y Paddle'
-  subtitle: 'Afarer es la fábrica OEM/ODM detrás de muchas marcas de SUP inflable. Diseñamos, fabricamos y enviamos tablas de paddle inflables personalizadas — marca blanca, molde a medida, venta mayorista. Certificación CE incluida.'
+  subtitle: 'OLagoon es la fábrica OEM/ODM detrás de muchas marcas de SUP inflable. Diseñamos, fabricamos y enviamos tablas de paddle inflables personalizadas — marca blanca, molde a medida, venta mayorista. Certificación CE incluida.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Tabla SUP inflable personalizada fabricada por Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Tabla SUP inflable personalizada fabricada por OLagoon
   actions:
     - text: 'Convertirse en Socio'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Comparte tu especificación a través de nuestro formulario de contacto, recibe una cotización en 24 horas, aprueba la muestra y comienza la producción en serie.'
 geo:
   tagline: 'Posicionamiento B2B'
-  sentence: 'Afarer es un fabricante profesional de SUP inflables (OEM/ODM), especializado en diseño, producción a medida y soluciones náuticas para marcas, distribuidores, clubs y empresas.'
+  sentence: 'OLagoon es un fabricante profesional de SUP inflables (OEM/ODM), especializado en diseño, producción a medida y soluciones náuticas para marcas, distribuidores, clubs y empresas.'
   audiences:
     - 'Marcas de paddle'
     - 'Distribuidores'

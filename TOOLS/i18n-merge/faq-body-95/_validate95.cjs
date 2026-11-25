@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
-const ARC = 'E:/github/afarer/TOOLS/i18n-merge/faq-body-94';
+const ARC = 'E:/github/olagoon/TOOLS/i18n-merge/faq-body-94';
 const LOCALES = ['cs', 'da', 'nl', 'no', 'pl', 'sv'];
 
 // EN source: prefer Temp copy, fall back to 94 archive
@@ -101,8 +101,8 @@ for (const loc of LOCALES) {
     // 95 convention: brand always lowercase, incl. sentence-initial
     let idx = 0;
     const text = r.q + ' ' + r.a;
-    while ((idx = text.indexOf('Afarer', idx)) !== -1) {
-      errs.push(`${id}: capitalized "Afarer"`);
+    while ((idx = text.indexOf('OLagoon', idx)) !== -1) {
+      errs.push(`${id}: capitalized "OLagoon"`);
       idx += 6;
     }
   });
@@ -110,11 +110,11 @@ for (const loc of LOCALES) {
   const by = (id) => data.find((r) => r.id === id);
   const vw = by('sup-volume-weight');
   if (vw && !vw.a.includes('2,2')) errs.push('sup-volume-weight: decimal 2,2 missing');
-  const avo = by('afarer-vs-others');
+  const avo = by('olagoon-vs-others');
   if (avo) {
     const p90 = PCT_SPACE[loc] ? '90 %' : '90%';
     const p60 = PCT_SPACE[loc] ? '60 %' : '60%';
-    if (!avo.a.includes(p90) || !avo.a.includes(p60)) errs.push(`afarer-vs-others: percent "${p90}"/"${p60}" missing`);
+    if (!avo.a.includes(p90) || !avo.a.includes(p60)) errs.push(`olagoon-vs-others: percent "${p90}"/"${p60}" missing`);
   }
   const ws = by('wind-safety');
   if (ws && !ws.a.includes('mph')) errs.push('wind-safety: mph missing');
@@ -139,8 +139,8 @@ for (const loc of LOCALES) {
     console.log(`[${loc}] ${errs.length} issue(s):`);
     errs.slice(0, 25).forEach((e) => console.log(`   ${e}`));
   } else {
-    const lowerCount = data.reduce((n, r) => n + ((r.q + ' ' + r.a).match(/afarer/g) || []).length, 0);
-    console.log(`[${loc}] clean (afarer lowercase x${lowerCount})`);
+    const lowerCount = data.reduce((n, r) => n + ((r.q + ' ' + r.a).match(/olagoon/g) || []).length, 0);
+    console.log(`[${loc}] clean (olagoon lowercase x${lowerCount})`);
   }
 }
 console.log(fail === 0 ? 'ALL CLEAN' : `${fail} locale(s) FAILED`);

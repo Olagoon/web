@@ -8,7 +8,7 @@ hero:
   subtitle: 'A haladásra összpontosítva'
 
 intro:
-  - 'Az afarer Kutatási és Fejlesztési (K+F) Központja küldetésünk mozgatórugója, amely a vízisport-felszerelések forradalmasítását tűzte ki célul. A vízisport-rajongókat világszerte biztonságosabb, kényelmesebb és élvezetesebb termékekkel látjuk el a felfújható stand-up paddle deszkák (SUP) terén végzett megállíthatatlan innováció révén. Mérnökeinkből, tervezőinkből és szenvedéllyel bíró vízisport-szakértőinkből álló elkötelezett csapatunk formálja az iparág jövőjét, és folyamatosan emeli a minőségre, a teljesítményre és a fenntarthatóságra vonatkozó elvárásokat.'
+  - 'Az olagoon Kutatási és Fejlesztési (K+F) Központja küldetésünk mozgatórugója, amely a vízisport-felszerelések forradalmasítását tűzte ki célul. A vízisport-rajongókat világszerte biztonságosabb, kényelmesebb és élvezetesebb termékekkel látjuk el a felfújható stand-up paddle deszkák (SUP) terén végzett megállíthatatlan innováció révén. Mérnökeinkből, tervezőinkből és szenvedéllyel bíró vízisport-szakértőinkből álló elkötelezett csapatunk formálja az iparág jövőjét, és folyamatosan emeli a minőségre, a teljesítményre és a fenntarthatóságra vonatkozó elvárásokat.'
   - 'K+F létesítményünk egy fedél alatt egyesíti az anyagtudósokat, tengerészmérnököket és gyártómérnököket. A szövetformulázástól és hajótest-szimulációtól a hegesztési eljárásfejlesztésen át a méretarányos tengeri próbákig a termékfejlesztés minden szakaszát adatok vezérlik, és teszteléssel validálják.'
 
 mission:
@@ -98,33 +98,33 @@ rd_services:
 vision:
   tagline: 'Víziónk'
   title: 'A vízisportok jövőjének formálása'
-  body: 'Az afarer arra törekszik, hogy a felfújható SUP iparág vezetője legyen a folyamatos innováció, a töretlen minőség valamint a biztonság és a fenntarthatóság iránti rendíthetetlen elkötelezettség révén — végső soron gazdagítva a vízisport-rajongók élményeit világszerte. Az afarer K+F Központ az a hely, ahol a szenvedély találkozik az innovációval, és új szabványokat állít a vízisport-iparág számára.'
+  body: 'Az olagoon arra törekszik, hogy a felfújható SUP iparág vezetője legyen a folyamatos innováció, a töretlen minőség valamint a biztonság és a fenntarthatóság iránti rendíthetetlen elkötelezettség révén — végső soron gazdagítva a vízisport-rajongók élményeit világszerte. Az olagoon K+F Központ az a hely, ahol a szenvedély találkozik az innovációval, és új szabványokat állít a vízisport-iparág számára.'
 
 labs_section:
   tagline: 'Laborok'
   title: 'Laboratóriumaink'
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: 'PVC szövetlabor'
       description: 'A PVC fedélzetszövetek folyamatos kutatása és tesztelése húzószilárdság, UV-állóság, kopásállóság és alacsony hőmérsékletű hajlékonyság szempontjából a tengeri környezetben való hosszú távú megbízhatóság biztosítására.'
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Hajótest-mérnöki stúdió'
       description: 'CAD-alapú tervezés és véges elemes analízis HDPE, alumínium és üvegszálas hajótestekhez. Minden hajótestet digitálisan szimulálnak feszültségeloszlás és ütésállóság szempontjából, mielőtt az első prototípus elkészül.'
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'RF hegesztési központ'
       description: 'Dedikált rádiófrekvenciás hegesztési létesítmény precíz hőmérséklet- és nyomásszabályozással, amely nagy szilárdságú, légmentes varratokat állít elő, megfelelve a tengeri iparág felfújható járművekre vonatkozó szabványainak.'
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Hidrodinamikai tesztmedence'
       description: 'Méretarányos tesztelés házon belüli tesztmedencénkben a hajótestforma, a síklapú menet, a stabilitás és az üzemanyag-hatékonyság optimalizálására különféle terhelési és tengerállapot-feltételek mellett.'
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Prototípus-műhely'
       description: 'Méretarányos prototípuskészítő és felszerelő létesítmény, ahol az új modelleket megépítik, felszerelik és tengeren kipróbálják. Minden prototípus legalább 20 órás vízben végzett tesztprogramon megy át a gyártási jóváhagyás előtt.'
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: 'Minőség- és ellenőrző labor'
       description: 'Dedikált minőségbiztosítási labor, amely húzóvizsgálatokat, légtartóssági ciklusokat, varmathámozási teszteket és anyagtanúsítást végez, hogy minden, a műhelyből kikerülő deszka megfeleljen közzétett specifikációinknak.'
       href: /randdcenter/quality-inspection-lab/

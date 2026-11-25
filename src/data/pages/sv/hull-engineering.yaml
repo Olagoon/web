@@ -7,9 +7,9 @@ hero:
   tagline: 'Laboratorium 02'
   title: 'Skrovengineeringstudio'
   subtitle: 'Digital simulering, strukturell intelligens, skräddarsydd skrovdesign'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Afarers CAD-arbetsstation för skrovengineering'
-intro: 'Skrovet är ryggraden i varje uppblåsbar SUP. Det måste vara tillräckligt lätt för att glida effektivt, tillräckligt starkt för att klara steniga stränder och tillräckligt styvt för att omvandla varje årtag till framåtrörelse. Hos Afarer kombinerar vår skrovengineeringstudio avancerad CAD-modellering, elementmetodanalys (FEA) och årtionden av praktisk bräddesignerfarenhet för att leverera skrov som är optimerade för sin avsedda disciplin — inte generiska former anpassade från en katalog.'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'OLagoons CAD-arbetsstation för skrovengineering'
+intro: 'Skrovet är ryggraden i varje uppblåsbar SUP. Det måste vara tillräckligt lätt för att glida effektivt, tillräckligt starkt för att klara steniga stränder och tillräckligt styvt för att omvandla varje årtag till framåtrörelse. Hos OLagoon kombinerar vår skrovengineeringstudio avancerad CAD-modellering, elementmetodanalys (FEA) och årtionden av praktisk bräddesignerfarenhet för att leverera skrov som är optimerade för sin avsedda disciplin — inte generiska former anpassade från en katalog.'
 content_html: |
   <h2>Där styrka möter hydrodynamik</h2>
   <p>Vi arbetar med tre primära konstruktionsplattformar — förstärkta drop-stitch PVC-kärnor, handlagda glasfiberlaminat och rotationsgjuten polyeten — och har den tekniska förmågan att designa, simulera och validera var och en internt.</p>

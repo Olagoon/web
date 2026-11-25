@@ -1,6 +1,6 @@
 meta:
   title: 'Yritysratkaisut — SUP jokaiselle yritykselle | {SITE}'
-  description: 'afarerin yritysratkaisut: SUP-kalustot lomakohteisiin, kerhoihin, vuokraamoihin, jakeluun ja omamerkkeihin. Ammattimainen merellisten laitteiden toimittaja B2B-markkinoille.'
+  description: 'olagoonin yritysratkaisut: SUP-kalustot lomakohteisiin, kerhoihin, vuokraamoihin, jakeluun ja omamerkkeihin. Ammattimainen merellisten laitteiden toimittaja B2B-markkinoille.'
   keywords:
     - 'SUP-yritysratkaisut'
     - 'täytettävien paddle boardien toimittaja'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Yritysratkaisut
   title: SUP-ratkaisut<br />Jokaiselle liiketoiminnalle
-  subtitle: Lomakohteista vähittäiskauppaan ja vuokrausyrityksistä globaaleihin jakelijoihin — Afarer tarjoaa täydelliset SUP-ratkaisut liiketoimintamalliisi räätälöitynä.
+  subtitle: Lomakohteista vähittäiskauppaan ja vuokrausyrityksistä globaaleihin jakelijoihin — OLagoon tarjoaa täydelliset SUP-ratkaisut liiketoimintamalliisi räätälöitynä.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Afarer SUP-lauta bisneksessä ja ammattkäytössä
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: OLagoon SUP-lauta bisneksessä ja ammattkäytössä
 stats:
-  title: Afarer ytimekästi
+  title: OLagoon ytimekästi
   stats:
     - title: Vuosien kokemus
       amount: Vuodesta 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Rakenna oma brändisi
-      description: End-to-end OEM/ODM SUP-valmistus — suunnittelu, prototyypit, massatuotanto ja logistiikka. Käynnistä merkkisi Afarerin kera.
+      description: End-to-end OEM/ODM SUP-valmistus — suunnittelu, prototyypit, massatuotanto ja logistiikka. Käynnistä merkkisi OLagoonin kera.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

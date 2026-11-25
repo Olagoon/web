@@ -1,6 +1,6 @@
 meta:
   title: 'Contact — Partnership & Product Inquiries | {SITE}'
-  description: 'Contact afarer for partnership, co-brand, and private-label inquiries, or professional fleets. Inflatable SUP brand, we respond within 2 business days.'
+  description: 'Contact olagoon for partnership, co-brand, and private-label inquiries, or professional fleets. Inflatable SUP brand, we respond within 2 business days.'
   keywords:
     - 'sup distributor quote'
     - 'professional sup supplier'
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Send us a message
   subtitle: For quotes, technical questions or partnership enquiries, drop us a line. We reply within one business day.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Send Inquiry → Get a Quote
   success_message: Thanks! Your message has landed in our inbox. We will reply within one business day.
   error_message: Something went wrong sending your message. Please try again or email us directly.
@@ -134,7 +134,7 @@ features2_other_ways:
       description: '+1 279 732 3333'
       icon: tabler:headset
     - title: Email
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Headquarters
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

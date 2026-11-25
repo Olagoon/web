@@ -1,6 +1,6 @@
 meta:
-  title: 'Landpartnerskap — Ett land, én offisiell Afarer-distributør | {SITE}'
-  description: 'Søk om å bli den offisielle Afarer-distributøren for ditt land. Én autorisert partner per marked, territoriebeskyttelse, direkte fabrikkmarginer, årlige rabatter og et 10-moduls landpartner-støtteprogram for globale SUP- og vannsportsdistributører.'
+  title: 'Landpartnerskap — Ett land, én offisiell OLagoon-distributør | {SITE}'
+  description: 'Søk om å bli den offisielle OLagoon-distributøren for ditt land. Én autorisert partner per marked, territoriebeskyttelse, direkte fabrikkmarginer, årlige rabatter og et 10-moduls landpartner-støtteprogram for globale SUP- og vannsportsdistributører.'
   keywords:
     - 'landpartnerskapsprogram'
     - 'bli distributør'
@@ -11,8 +11,8 @@ meta:
     - 'søknad om landpartnerskap'
 hero:
   tagline: 'Landpartnerskap'
-  title: 'Ett land.<br />Én offisiell Afarer-distributør.'
-  subtitle: 'Afarer utnevner én autorisert landdistributør for hvert godkjente marked. Eksklusivt territorium, forhandlerpriser med årlige rabatter og et komplett støtteprogram for distributører — i bytte mot en signert avtale og et reelt engasjement for å bygge markedet.'
+  title: 'Ett land.<br />Én offisiell OLagoon-distributør.'
+  subtitle: 'OLagoon utnevner én autorisert landdistributør for hvert godkjente marked. Eksklusivt territorium, forhandlerpriser med årlige rabatter og et komplett støtteprogram for distributører — i bytte mot en signert avtale og et reelt engasjement for å bygge markedet.'
   actions:
     - text: 'Søk om landpartnerskap'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Dagers standard leveringstid (FOB Qingdao)'
 features:
-  title: 'Hvorfor Samarbeide med Afarer'
+  title: 'Hvorfor Samarbeide med OLagoon'
   subtitle: 'En modell med ett land, én distributør og støtteapparatet som kreves for at territoriet skal lønne seg. Eksklusivitet må tjenes og vedlikeholdes — den er ingen permanent rettighet.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'Én autorisert distributør per land eller region. Ingen parallellimport, ingen intern konkurranse. Investeringen din bygger din egen vollgrav.'
       icon: 'tabler:shield-check'
     - title: 'Beskyttelse mot Kanalkonflikter'
-      description: 'Direkte ordrer fra din region rutes gjennom deg, og prisingen beskytter marginen din. Afarer selger ikke utenom sine landpartnere.'
+      description: 'Direkte ordrer fra din region rutes gjennom deg, og prisingen beskytter marginen din. OLagoon selger ikke utenom sine landpartnere.'
       icon: 'tabler:users'
     - title: 'Direkte Fabrikkmarginer & Rabatter'
       description: 'Forhandlerprisliste med rabatter på avtalte volumer. Ingen mellomledd. FOB Qingdao-frakt med full eksportdokumentasjon.'
@@ -59,7 +59,7 @@ features:
       description: 'Leveranse av reservedeler, garantiregistrering og reklamasjonshåndtering, samt produktdatablader og bruksanvisninger for ditt lokale serviceteam.'
       icon: 'tabler:settings'
     - title: 'Dedikert Kontaktperson & Partnerportal'
-      description: 'En personlig distributørkonsulent samt tilgang til prislister, ordrestatus og markedsføringsressurser via Afarers partnerportal.'
+      description: 'En personlig distributørkonsulent samt tilgang til prislister, ordrestatus og markedsføringsressurser via OLagoons partnerportal.'
       icon: 'tabler:user-check'
 table:
   title: 'Partnerskapsnivåer, MOQ & Ordrevilkår'
@@ -83,14 +83,14 @@ faqs:
   subtitle: 'Spørsmålene seriøse landpartnere stiller før de søker.'
   items:
     - title: 'Hva betyr egentlig ett land, én distributør?'
-      description: 'Afarer utnevner én autorisert distributør med eksklusive rettigheter for et definert territorium. Vi selger ikke fra våre globale eller regionale kanaler inn i et beskyttet land. Ditt territorieierskap gjelder så lenge Distribution Agreement oppfylles.'
+      description: 'OLagoon utnevner én autorisert distributør med eksklusive rettigheter for et definert territorium. Vi selger ikke fra våre globale eller regionale kanaler inn i et beskyttet land. Ditt territorieierskap gjelder så lenge Distribution Agreement oppfylles.'
     - title: 'Er territoriet eksklusivt for alltid?'
       description: 'Nei. Eksklusivitet er betinget, ikke evigvarende. Den opprettholdes gjennom en signert Distribution Agreement, gjennomføring av din første ordre, årlige innkjøpsmål, lokalt lager, ettersalgskapasitet og fortsatt markedsinvestering. Hvis disse ikke oppfylles, kan territoriet reforhandles eller tildeles på nytt.'
     - title: 'Hva er minimum første ordre?'
       description: 'Lands- og regionaldistributører starter på 100–300 enheter; autoriserte forhandlere på 30–50 enheter; testordrer fra 10–30 enheter lar deg validere markedet først (test- og prøveordrer gir ingen territoriebeskyttelse). Custom- og private-label-programmer følger egne MOQ-er oppført i nivåene ovenfor.'
     - title: 'Hva omfatter det 10-moduls støtteprogrammet?'
       description: 'Nivåer og kvalifisering, territoriebeskyttelse, MOQ / priser / årlige rabatter, lagerstyring og ordreekspedisjon, markedsføringsmateriell og felles markedsfond, produkt-/salg-/teknisk opplæring, reservedeler og ettersalg, garantiregistrering, partnerportalen, samt produktdatablader, bibliotek for markedsføringsmateriell, årlig rabattskjema og frakt- og pakklister.'
-    - title: 'Hvordan beskytter Afarer meg mot kanalkonflikter?'
+    - title: 'Hvordan beskytter OLagoon meg mot kanalkonflikter?'
       description: 'Hvert territorium har nøyaktig én autorisert distributør. Forespørsler og direkte ordrer fra din region rutes gjennom deg, nettsideskjemaer videresendes til den lokale partneren der en finnes, og det globale teamet eskalerer kun når en partner ikke svarer.'
     - title: 'Hvilke frakt- og betalingsvilkår gjelder?'
       description: 'Ordrer sendes FOB Qingdao med full eksportdokumentasjon. Produksjonsordrer med 30% depositum og 70% før forsendelse; test- og prøveordrer betales på forhånd. Standard leveringstid er 30–45 arbeidsdager, med 15–20 arbeidsdager for prøveproduksjon.'
@@ -98,7 +98,7 @@ faqs:
       description: 'Send søknaden din via kontaktskjemaet med markedsinformasjon. Vi vurderer markedstilpasning, detaljhandelsnærvær og logistikkapasitet, og svarer deretter innen 3 virkedager med neste steg og et utkast til Distribution Agreement.'
 cta:
   title: 'Eie markedet ditt.'
-  subtitle: 'Søk på Afarer-landpartnerskapet og få svar innen 3 virkedager.'
+  subtitle: 'Søk på OLagoon-landpartnerskapet og få svar innen 3 virkedager.'
   actions:
     - text: 'Søk om landpartnerskap'
       href: /contact/?subject=Country Partnership Application
@@ -108,7 +108,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'Hvem Vi Samarbeider Med'
-  sentence: 'Afarer samarbeider med etablerte marine-, frilufts- og sportsdistributører som betjener detaljhandelskjeder, utleieflåter, vannsportsskoler, resorter og offentlige kjøpere med premium oppblåsbare SUP-brett og farkoster — og som forplikter seg til å bygge Afarer-merket i sitt land.'
+  sentence: 'OLagoon samarbeider med etablerte marine-, frilufts- og sportsdistributører som betjener detaljhandelskjeder, utleieflåter, vannsportsskoler, resorter og offentlige kjøpere med premium oppblåsbare SUP-brett og farkoster — og som forplikter seg til å bygge OLagoon-merket i sitt land.'
   audiences:
     - 'Marine- & Padlesportdistributører'
     - 'Frilufts- & Sportsdetaljhandel'

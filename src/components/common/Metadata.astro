@@ -41,7 +41,7 @@ const currentLang = getLangFromUrl(Astro.url);
 
 // The EN homepage is built at /en/ but served at the site root (edge middleware
 // rewrites "/" -> "/en/" and 308s "/en" + "/en/" -> "/"). Point canonical and
-// og:url at the 200 URL ("https://afarer.com/") instead of a redirecting one.
+// og:url at the 200 URL ("https://olagoon.com/") instead of a redirecting one.
 const siteRoot = `${SITE.site}/`;
 const canonicalUrl = canonical === `${siteRoot}en/` ? siteRoot : canonical;
 
@@ -92,11 +92,11 @@ const routePath = removeLang(Astro.url.pathname);
 const pageMeta = seoPageMeta?.[`${currentLang}${routePath}`];
 
 const resolveTitle = (): string => {
-  if (pageMeta?.title) return String(pageMeta.title).replace('{SITE}', SITE?.name || 'Afarer');
+  if (pageMeta?.title) return String(pageMeta.title).replace('{SITE}', SITE?.name || 'OLagoon');
   return title || METADATA?.title?.default || '';
 };
 const resolveDescription = (): string => {
-  if (pageMeta?.description) return String(pageMeta.description).replace('{SITE}', SITE?.name || 'Afarer');
+  if (pageMeta?.description) return String(pageMeta.description).replace('{SITE}', SITE?.name || 'OLagoon');
   return description || METADATA?.description || '';
 };
 const resolveKeywords = (): string[] => {
@@ -196,9 +196,9 @@ const resolveNofollow = (): boolean => {
 };
 
 // Avoid double-branding: if the title already contains the site name,
-// skip the template (e.g. "OARS Pump Set — Afarer" + "%s — Afarer"
-// would produce "OARS Pump Set — Afarer — Afarer").
-const siteBrand = SITE?.name || 'Afarer';
+// skip the template (e.g. "OARS Pump Set — OLagoon" + "%s — OLagoon"
+// would produce "OARS Pump Set — OLagoon — OLagoon").
+const siteBrand = SITE?.name || 'OLagoon';
 const rawTitle = resolvedTitle;
 const titleAlreadyBranded = rawTitle.includes(siteBrand);
 

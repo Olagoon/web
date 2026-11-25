@@ -1,6 +1,6 @@
 meta:
   title: Stik — povpraševanja o partnerstvu in izdelkih | {SITE}
-  description: Stopite v stik z afarer za partnerstva, skupne znamke, zasebne znamke ali profesionalne flote. Znamka napihljivih SUP desk — odgovorimo v 2 delovnih dneh.
+  description: Stopite v stik z olagoon za partnerstva, skupne znamke, zasebne znamke ali profesionalne flote. Znamka napihljivih SUP desk — odgovorimo v 2 delovnih dneh.
   keywords:
     - ponudba distributerja sup
     - profesionalni dobavitelj sup
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Pošljite nam sporočilo
   subtitle: Za ponudbe, tehnična vprašanja ali povpraševanja o partnerstvu nam pišite. Odgovorimo v enem delovnem dnevu.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Pošljite povpraševanje → Prejmite ponudbo
   success_message: Hvala! Vaše sporočilo je prispelo v naš nabiralnik. Odgovorili bomo v enem delovnem dnevu.
   error_message: Pri pošiljanju sporočila je šlo nekaj narobe. Poskusite znova ali nam pišite neposredno po e-pošti.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-pošta
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Sedež podjetja
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

@@ -6,7 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const REPO = 'E:/github/afarer';
+const REPO = 'E:/github/olagoon';
 const BASE = REPO + '/src/pages/[lang]';
 const DIR = REPO + '/TOOLS/i18n-merge/landing-i18n';
 const OUT = DIR + '/_landing-manifest.json';
@@ -26,7 +26,7 @@ const PAGES = [
   'whitepaper/oem-sup-manufacturing-guide.astro',
   'ultra-stable-sup.astro',
   'disclaimer.astro',
-  'afarer-story.astro',
+  'olagoon-story.astro',
 ];
 
 // minimal JS string-literal scanner

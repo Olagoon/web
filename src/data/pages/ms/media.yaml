@@ -1,8 +1,8 @@
 meta:
-  title: 'Pusat Media — Akhbar & Sumber afarer | {SITE}'
-  description: 'Pusat media afarer: siaran akhbar, aset jenama, dan sumber daripada syarikat pembuatan SUP boleh tiup kami.'
+  title: 'Pusat Media — Akhbar & Sumber olagoon | {SITE}'
+  description: 'Pusat media olagoon: siaran akhbar, aset jenama, dan sumber daripada syarikat pembuatan SUP boleh tiup kami.'
   keywords:
-    - 'akhbar afarer'
+    - 'akhbar olagoon'
     - 'media pengilang sup'
     - 'kit akhbar papan dayung'
     - 'berita syarikat nautika'
@@ -22,7 +22,7 @@ sections:
       - 'Aksesori & Peralatan Keselamatan'
   - id: logo-brand-kit
     title: 'Logo & Kit Jenama'
-    desc: 'Fail logo rasmi afarer, palet warna, tipografi, dan garis panduan jenama.'
+    desc: 'Fail logo rasmi olagoon, palet warna, tipografi, dan garis panduan jenama.'
     items:
       - 'Logo Utama (PNG/SVG/EPS)'
       - 'Tanda Ikon'
@@ -58,7 +58,7 @@ cta:
       desc: 'Lihat kemudahan pembuatan kami seluas 12,000 m²'
     - label: 'Garis panduan jenama'
       href: /brand/
-      desc: 'Ketahui tentang jenama afarer'
+      desc: 'Ketahui tentang jenama olagoon'
     - label: 'Jadi rakan kongsi kami'
       href: /contact/
       desc: 'Pertanyaan OEM, ODM, dan pengedaran'

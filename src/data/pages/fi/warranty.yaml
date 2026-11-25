@@ -1,22 +1,22 @@
 meta:
   title: 'Takuu — täytettävät SUP-laudat | {SITE}'
-  description: 'afarerin takuu ja jälkimarkkinointituki täytettäville SUP-laudoille ja varusteille. Laatulupauksemme kumppaneille ja asiakkaille.'
+  description: 'olagoonin takuu ja jälkimarkkinointituki täytettäville SUP-laudoille ja varusteille. Laatulupauksemme kumppaneille ja asiakkaille.'
   keywords:
     - 'SUP-takuu'
     - 'täytettävän SUP:n takuu'
     - 'paddle board -takuu'
     - 'jälkimarkkinointituki'
 label: Takuu
-headline: afarerin valmistajan rajoitettu takuu
-subtitle: afarer seisoo jokaisen valmistamansa täytettävän merituotteen laadun takana. Tämä rajoitettu takuu määrittelee afarer-tuotteesi ehdot ja kattavuuden.
+headline: olagoonin valmistajan rajoitettu takuu
+subtitle: olagoon seisoo jokaisen valmistamansa täytettävän merituotteen laadun takana. Tämä rajoitettu takuu määrittelee olagoon-tuotteesi ehdot ja kattavuuden.
 seo:
-  headline: afarerin täytettävän SUP:n takuu — 3 vuoden rajoitettu takuu | afarer
-  description: afarer tarjoaa 3 vuoden rajoitetun takuun ensisijaiselle kansikankaalle, saumoille ja drop-stitch-ytimen rakenteelliselle eheydelle. Kattaa myös täyttöventtiilit ja tehtaalla asennetut lisävarusteet. Täydelliset ehdot afarerin täytettävän SUP:n takuulle.
+  headline: olagoonin täytettävän SUP:n takuu — 3 vuoden rajoitettu takuu | olagoon
+  description: olagoon tarjoaa 3 vuoden rajoitetun takuun ensisijaiselle kansikankaalle, saumoille ja drop-stitch-ytimen rakenteelliselle eheydelle. Kattaa myös täyttöventtiilit ja tehtaalla asennetut lisävarusteet. Täydelliset ehdot olagoonin täytettävän SUP:n takuulle.
   datePublished: '2024-01-01'
   dateModified: '2026-11-18'
 body: >
   <p class="text-lg text-gray-600 dark:text-gray-400 mb-8">
-    Tämä rajoitettu takuu koskee uusia afarer-merkkisiä täytettäviä merituotteita, jotka on ostettu suoraan afarerilta tai valtuutetulta afarer-jälleenmyyjältä. Voimaantulopäivä on alkuperäisen vähittäismyyntiostoksen todennettavissa oleva päivämäärä.
+    Tämä rajoitettu takuu koskee uusia olagoon-merkkisiä täytettäviä merituotteita, jotka on ostettu suoraan olagoonilta tai valtuutetulta olagoon-jälleenmyyjältä. Voimaantulopäivä on alkuperäisen vähittäismyyntiostoksen todennettavissa oleva päivämäärä.
   </p>
 
 
@@ -56,7 +56,7 @@ body: >
 
   <h3>Ensisijainen putkikangas (3 vuotta)</h3>
 
-  <p>afarer takaa ensisijaisen kansikankaan huokoisuuden heikkenemistä vastaan, joka olennaisesti vaarantaa tuotteen kyvyn ylläpitää käyttöpainetta. Tämä koskee PVC-pinnoitettua kangasta ja kaikkia muita valmistuksessa käytettyjä kansikangasmateriaaleja.</p>
+  <p>olagoon takaa ensisijaisen kansikankaan huokoisuuden heikkenemistä vastaan, joka olennaisesti vaarantaa tuotteen kyvyn ylläpitää käyttöpainetta. Tämä koskee PVC-pinnoitettua kangasta ja kaikkia muita valmistuksessa käytettyjä kansikangasmateriaaleja.</p>
 
 
   <h3>Lasikuituisen rungon rakenteellinen eheys (3 vuotta)</h3>
@@ -71,12 +71,12 @@ body: >
 
   <h3>Täyttöventtiilin toimivuus (3 vuotta)</h3>
 
-  <p>afarerin alun perin asentamat ilmantäyttöventtiilit on taattu materiaali- tai työvirheitä vastaan, jotka estävät venttiiliä pitämään ilmaa suunnitellusti.</p>
+  <p>olagoonin alun perin asentamat ilmantäyttöventtiilit on taattu materiaali- tai työvirheitä vastaan, jotka estävät venttiiliä pitämään ilmaa suunnitellusti.</p>
 
 
   <h3>Tehtaalla asennetut lisävarusteet (1 vuosi)</h3>
 
-  <p>afarerin valmistamat ja tehtaalla alun perin asennetut komponentit ja kiinnikkeet on taattu materiaali- ja työvirheitä vastaan yhden vuoden ajan. Tämä ei koske kolmannen osapuolen tuotteita, joita kattavat vain niiden omien valmistajien takuut.</p>
+  <p>olagoonin valmistamat ja tehtaalla alun perin asennetut komponentit ja kiinnikkeet on taattu materiaali- ja työvirheitä vastaan yhden vuoden ajan. Tämä ei koske kolmannen osapuolen tuotteita, joita kattavat vain niiden omien valmistajien takuut.</p>
 
 
   <h2>Mitä takuu ei kata</h2>
@@ -97,7 +97,7 @@ body: >
 
   <h2>Valmistajan velvollisuus ja korjauskeino</h2>
 
-  <p>afarerin ainoa ja yksinomainen velvollisuus on tämän takuun alaisena materiaali- tai työvirheelliseksi todetun komponentin korjaaminen tai vaihtaminen afarerin harkinnan mukaan. Korjaukset tai vaihdot suorittaa afarer tai sen nimeämä valtuutettu huoltoliike. Korjatut tai vaihdetut komponentit
+  <p>olagoonin ainoa ja yksinomainen velvollisuus on tämän takuun alaisena materiaali- tai työvirheelliseksi todetun komponentin korjaaminen tai vaihtaminen olagoonin harkinnan mukaan. Korjaukset tai vaihdot suorittaa olagoon tai sen nimeämä valtuutettu huoltoliike. Korjatut tai vaihdetut komponentit
   on taattu vain alkuperäisen takuuajan jäljellä olevalle osalle.</p>
 
 
@@ -105,8 +105,8 @@ body: >
 
   <ul>
     <li><strong>Rekisteröinti:</strong> Tuote on rekisteröitävä asianmukaisesti takuuehtojen edellyttämällä tavalla.</li>
-    <li><strong>Huolto:</strong> Tuotetta on huollettava afarerin julkaistujen ohjeiden mukaisesti, mukaan lukien säännöllinen tarkastus ja asianmukaisten täyttöpaineiden ylläpito.</li>
-    <li><strong>Yhteistyö:</strong> Ostajan on täysimääräisesti ja viipymättä tehtävä yhteistyötä afarerin kanssa kaikissa takuuvaatimuksiin liittyvissä asioissa.</li>
+    <li><strong>Huolto:</strong> Tuotetta on huollettava olagoonin julkaistujen ohjeiden mukaisesti, mukaan lukien säännöllinen tarkastus ja asianmukaisten täyttöpaineiden ylläpito.</li>
+    <li><strong>Yhteistyö:</strong> Ostajan on täysimääräisesti ja viipymättä tehtävä yhteistyötä olagoonin kanssa kaikissa takuuvaatimuksiin liittyvissä asioissa.</li>
     <li><strong>Alkuperäinen ostaja:</strong> Tämä takuu koskee yksinomaan alkuperäistä loppukäyttäjäostajaa eikä ole siirrettävissä.</li>
   </ul>
 
@@ -119,16 +119,16 @@ body: >
 
   <h2>Takuuvaatimuksen tekeminen</h2>
 
-  <p>Ota yhteyttä afareriin tai valtuutettuun jälleenmyyjään ostotodistuksella ja yksityiskohtaisella kuvauksella ongelmasta. afarer tarkistaa vaatimuksen ja antaa ohjeet tarkastusta ja huoltoa varten.</p>
+  <p>Ota yhteyttä olagooniin tai valtuutettuun jälleenmyyjään ostotodistuksella ja yksityiskohtaisella kuvauksella ongelmasta. olagoon tarkistaa vaatimuksen ja antaa ohjeet tarkastusta ja huoltoa varten.</p>
 
   <p>Takuuhuoltokyselyissä ota yhteyttä <a href="/contact/" class="text-sky-600 underline">yhteydenottosivumme</a> kautta tilausnumerolla ja tuotetiedoilla.</p>
 
 
   <h2>Kolmannen osapuolen tuotteet</h2>
 
-  <p>Kolmannen osapuolen valmistamat laitteet, komponentit tai järjestelmät (vaikka afarer olisi ne asentanut) kuuluvat yksinomaan niiden valmistajien mahdollisten takuiden piiriin. afarer kiistää nimenomaisesti kaiken takuuvastuun tällaisille kolmannen osapuolen tuotteille.</p>
+  <p>Kolmannen osapuolen valmistamat laitteet, komponentit tai järjestelmät (vaikka olagoon olisi ne asentanut) kuuluvat yksinomaan niiden valmistajien mahdollisten takuiden piiriin. olagoon kiistää nimenomaisesti kaiken takuuvastuun tällaisille kolmannen osapuolen tuotteille.</p>
 
 
   <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
-    Tämä takuulausunto on yhteenveto afarerin valmistajan rajoitetusta takuusta. Täydellinen oikeudellinen takuuasiakirja määrää kaikkia takuuehtoja. Tekniset tiedot voivat muuttua ilman erillistä ilmoitusta. afarer on Qingdao Vatrad Groupin tuotemerkki.
+    Tämä takuulausunto on yhteenveto olagoonin valmistajan rajoitetusta takuusta. Täydellinen oikeudellinen takuuasiakirja määrää kaikkia takuuehtoja. Tekniset tiedot voivat muuttua ilman erillistä ilmoitusta. olagoon on Qingdao Vatrad Groupin tuotemerkki.
   </p>

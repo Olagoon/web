@@ -7,12 +7,12 @@ hero:
   title: 'Luncurkan, Jalankan & Kembangkan Klub Dayung Anda<br />Dengan Armada SUP Kelas Komersial'
   subtitle: 'Pemasok peralatan klub SUP untuk klub dayung dan sekolah SUP di seluruh dunia — papan komersial yang tahan lama, harga grosir klub, identitas merek kustom, dan suku cadang pengganti cepat, sehingga Anda dapat fokus mengembangkan komunitas Anda.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: 'Anggota klub dayung dengan papan SUP Afarer yang seragam'
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: 'Anggota klub dayung dengan papan SUP OLagoon yang seragam'
 
 benefits:
   title: 'Manfaat Armada Klub'
-  subtitle: 'Mengapa klub-klub dayung di 50+ negara memilih Afarer sebagai mitra peralatan mereka.'
+  subtitle: 'Mengapa klub-klub dayung di 50+ negara memilih OLagoon sebagai mitra peralatan mereka.'
   items:
     - metric: '40%+'
       label: 'Penghematan Biaya Armada'
@@ -86,7 +86,7 @@ training:
         - 'Peralatan tersertifikasi CE'
 
 features:
-  title: 'Mengapa Klub Memilih Afarer'
+  title: 'Mengapa Klub Memilih OLagoon'
   subtitle: 'Kualitas yang konsisten, suku cadang cepat, dan harga grosir yang dirancang untuk klub yang terus berkembang.'
   items:
     - title: '500+ Siklus Sewa'

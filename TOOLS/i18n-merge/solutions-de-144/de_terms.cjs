@@ -1,7 +1,7 @@
 const fs = require('fs');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 // de content-v2 terminology sample
-const d = yaml.load(fs.readFileSync('E:/github/afarer/src/data/site/content-v2.de.yaml', 'utf8'));
+const d = yaml.load(fs.readFileSync('E:/github/olagoon/src/data/site/content-v2.de.yaml', 'utf8'));
 console.log('de v2 records:', d.length);
 const s0 = d[0];
 console.log('--- sample record 0 (surfboard) ---');

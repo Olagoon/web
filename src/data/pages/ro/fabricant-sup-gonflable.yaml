@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Producător de SUP Umflabile · Fabrică din China'
   title: 'Producătorul Tău de SUP<br />Umflabile & Paddle Board'
-  subtitle: 'Afarer este fabrica OEM/ODM din spatele multor mărci de SUP-uri umflabile. Proiectăm, construim și livrăm SUP-uri umflabile personalizate — marcă privată, matriță personalizată, vânzări en-gros. Certificarea CE este inclusă.'
+  subtitle: 'OLagoon este fabrica OEM/ODM din spatele multor mărci de SUP-uri umflabile. Proiectăm, construim și livrăm SUP-uri umflabile personalizate — marcă privată, matriță personalizată, vânzări en-gros. Certificarea CE este inclusă.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: SUP umflabil personalizat produs de Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: SUP umflabil personalizat produs de OLagoon
   actions:
     - text: 'Devino Partener'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Trimite specificațiile prin formularul de contact, primește o ofertă în 24 de ore, aprobă proba și începe producția de serie.'
 geo:
   tagline: 'Poziționare B2B'
-  sentence: 'Afarer este un producător profesionist de SUP-uri umflabile (OEM/ODM), specializat în design, producție personalizată și soluții nautice pentru mărci, distribuitori, cluburi și companii.'
+  sentence: 'OLagoon este un producător profesionist de SUP-uri umflabile (OEM/ODM), specializat în design, producție personalizată și soluții nautice pentru mărci, distribuitori, cluburi și companii.'
   audiences:
     - 'Mărci de paddle'
     - 'Distribuitori'

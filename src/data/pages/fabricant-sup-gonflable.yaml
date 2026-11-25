@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Inflatable SUP Manufacturer · China Factory'
   title: 'Your Inflatable SUP<br />& Paddle Board Manufacturer'
-  subtitle: 'Afarer is the OEM/ODM factory behind many inflatable SUP brands. We design, build, and ship custom inflatable paddle boards — private label, custom mold, bulk wholesale. CE certification included.'
+  subtitle: 'OLagoon is the OEM/ODM factory behind many inflatable SUP brands. We design, build, and ship custom inflatable paddle boards — private label, custom mold, bulk wholesale. CE certification included.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Custom inflatable SUP board manufactured by Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Custom inflatable SUP board manufactured by OLagoon
   actions:
     - text: 'Become a Partner'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Share your specification via our contact form, receive a quote within 24 hours, approve the sample, then start bulk production.'
 geo:
   tagline: 'B2B Positioning'
-  sentence: 'Afarer is a professional manufacturer of inflatable SUPs (OEM/ODM), specialized in design, custom production, and nautical solutions for brands, distributors, clubs, and businesses.'
+  sentence: 'OLagoon is a professional manufacturer of inflatable SUPs (OEM/ODM), specialized in design, custom production, and nautical solutions for brands, distributors, clubs, and businesses.'
   audiences:
     - 'Paddle brands'
     - 'Distributors'

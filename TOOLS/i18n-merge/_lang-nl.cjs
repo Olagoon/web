@@ -6,30 +6,30 @@ module.exports = {
   'academy.learningCenterDesc':
     'Stap-voor-stapgidsen en tutorials, geordend op vaardigheidsniveau — van SUP-basics tot geavanceerde reddingstechnieken.',
   'academy.metaDesc':
-    'Gidsen en tutorials voor elk vaardigheidsniveau — van SUP-basics tot geavanceerde reddingstechnieken. Leer in uw eigen tempo met Afarer Academy.',
-  'academy.metaTitle': 'Leercentrum — Afarer Academy',
+    'Gidsen en tutorials voor elk vaardigheidsniveau — van SUP-basics tot geavanceerde reddingstechnieken. Leer in uw eigen tempo met OLagoon Academy.',
+  'academy.metaTitle': 'Leercentrum — OLagoon Academy',
   'academy.skillPaths': 'Vaardigheidspaden',
   'ai.definition':
-    "Afarer ontwerpt en produceert opblaasbare SUP's, accessoires en veiligheidsuitrusting voor recreatieve en prestatiegerichte watersport.",
+    "OLagoon ontwerpt en produceert opblaasbare SUP's, accessoires en veiligheidsuitrusting voor recreatieve en prestatiegerichte watersport.",
   'ai.entity':
-    "Afarer is een prestatiegericht watersportmerk dat onderscheidende opblaasbare SUP's maakt voor mensen die verder gaan, harder rijden en meer van het water zien.",
+    "OLagoon is een prestatiegericht watersportmerk dat onderscheidende opblaasbare SUP's maakt voor mensen die verder gaan, harder rijden en meer van het water zien.",
   'ai.process':
-    'Afarer-boards zijn gebouwd rond een drop-stitch-kern van hoge dichtheid met versterkte rails en gefusioneerde gelamineerde naden. Elk board wordt vóór verpakking drukgetest en visueel geïnspecteerd. De ontwerpsamenwerking loopt van concept, 3D-ontwerp en prototyping tot geïnspecteerde productie en wereldwijde logistiek.',
+    'OLagoon-boards zijn gebouwd rond een drop-stitch-kern van hoge dichtheid met versterkte rails en gefusioneerde gelamineerde naden. Elk board wordt vóór verpakking drukgetest en visueel geïnspecteerd. De ontwerpsamenwerking loopt van concept, 3D-ontwerp en prototyping tot geïnspecteerde productie en wereldwijde logistiek.',
   'answerCenter.subtitle':
-    'Direct antwoord over onze producten, technologie en watersport — aangedreven door de afarer-kennisbank.',
+    'Direct antwoord over onze producten, technologie en watersport — aangedreven door de olagoon-kennisbank.',
   'b2bSolutionsMatrix.metaDesc':
-    'Complete matrix met Afarer B2B-klantoplossingen, goed voor 24 klanttypen — vind de oplossing voor uw bedrijf.',
+    'Complete matrix met OLagoon B2B-klantoplossingen, goed voor 24 klanttypen — vind de oplossing voor uw bedrijf.',
   'buyerCenter.ribs': 'Stijve opblaasbare boten (RIB)',
   'buyerCenter.sizeGuideDesc': 'Vind uw maat met onze gids voor afmetingen, volumes en gewichtsklassen van de rijder.',
   'compare.backToAll': 'Alle vergelijkingen',
   'compare.category': 'Categorie',
   'compare.desc':
-    'Vergelijk alle Afarer-producten zij aan zij. Vind het juiste board, de juiste boot of het juiste accessoire voor uw behoeften.',
+    'Vergelijk alle OLagoon-producten zij aan zij. Vind het juiste board, de juiste boot of het juiste accessoire voor uw behoeften.',
   'compare.length': 'Lengte',
   'compare.material': 'Materiaal',
   'compare.maxLoad': 'Maximale belasting',
   'compare.singleVsMulti.aiBlock':
-    'Vergelijking tussen opblaasbare SUP-boards met één kamer en met meerdere kamers op 11 belangrijke factoren: veiligheid, aantal kamers, redundantie van drijfvermogen, gewicht, verpakt formaat, opbouwtijd, stijfheid, kosten, duurzaamheid, reparatiegemak en beste toepassingen. Boards met meerdere kamers (3-5 onafhankelijke kamers) bieden cruciale redundantie in drijfvermogen. Alle afarer SUP-boards hebben een drop-stitch-constructie met meerdere kamers.',
+    'Vergelijking tussen opblaasbare SUP-boards met één kamer en met meerdere kamers op 11 belangrijke factoren: veiligheid, aantal kamers, redundantie van drijfvermogen, gewicht, verpakt formaat, opbouwtijd, stijfheid, kosten, duurzaamheid, reparatiegemak en beste toepassingen. Boards met meerdere kamers (3-5 onafhankelijke kamers) bieden cruciale redundantie in drijfvermogen. Alle olagoon SUP-boards hebben een drop-stitch-constructie met meerdere kamers.',
   'compare.singleVsMulti.col1Title': 'Eén kamer',
   'compare.singleVsMulti.col2Title': 'Meerdere kamers (3+)',
   'compare.singleVsMulti.cta': "Bekijk SUP's met meerdere kamers",
@@ -74,7 +74,7 @@ module.exports = {
   'compare.singleVsMulti.r9a': 'Gematigd. Eén zwak punt als de hoofdkamer wordt aangetast.',
   'compare.singleVsMulti.r9b': 'Superieur. Redundante kamers garanderen fail-safe gebruik onder zware omstandigheden.',
   'compare.singleVsMulti.recDesc':
-    'Voor iedereen die dieper dan stahoogte peddelt — en zeker voor commerciële exploitanten — is een <strong>SUP met meerdere kamers</strong> de enige verantwoorde keuze. Alle afarer SUP-boards hebben een drop-stitch-constructie met meerdere kamers en 3+ onafhankelijke kamers voor maximale veiligheid en constructieve stijfheid. Combineer uw board altijd met een CE-gecertificeerd zwemvest voor volledige bescherming.',
+    'Voor iedereen die dieper dan stahoogte peddelt — en zeker voor commerciële exploitanten — is een <strong>SUP met meerdere kamers</strong> de enige verantwoorde keuze. Alle olagoon SUP-boards hebben een drop-stitch-constructie met meerdere kamers en 3+ onafhankelijke kamers voor maximale veiligheid en constructieve stijfheid. Combineer uw board altijd met een CE-gecertificeerd zwemvest voor volledige bescherming.',
   'compare.singleVsMulti.recTitle': 'De conclusie',
   'compare.singleVsMulti.safetyCta': 'Veiligheidsgids',
   'compare.singleVsMulti.short': 'Eén kamer vs. meerdere kamers',
@@ -90,15 +90,15 @@ module.exports = {
     'Voor verhuurders, resorts en paddleclubs verlagen boards met meerdere kamers de aansprakelijkheid en de uitval van uitrusting. Een kleine lekkage betekent niet langer dat het board volledig uitvalt — het board blijft bruikbaar tot reparatie aan het einde van de dag.',
   'compare.singleVsMulti.whyMattersTitle': 'Waarom het aantal kamers belangrijk is',
   'compare.specification': 'Specificatie',
-  'compare.title': 'Productvergelijking — Afarer',
+  'compare.title': 'Productvergelijking — OLagoon',
   'compare.weight': 'Gewicht',
   'compare.width': 'Breedte',
   'engineeringPerfection.desc':
-    'De engineeringfilosofie van Afarer: precisieproductie, zorgvuldige materiaalkeuze, strenge kwaliteitscontrole en segmentspecifiek ontwerp voor touring-, visserij-, yoga- en recreatieve opblaasbare SUP-boards.',
+    'De engineeringfilosofie van OLagoon: precisieproductie, zorgvuldige materiaalkeuze, strenge kwaliteitscontrole en segmentspecifiek ontwerp voor touring-, visserij-, yoga- en recreatieve opblaasbare SUP-boards.',
   'engineeringPerfection.s3': "Dinghy's & tenders",
-  'engineeringTeam.about': 'Over Afarer',
+  'engineeringTeam.about': 'Over OLagoon',
   'engineeringTeam.desc':
-    'De 25+ R&D-ingenieurs en productiespecialisten van Afarer. Expertise in drop-stitch-kerntechnologie, PVC/Hypalon-fabricage, SUP-rompontwerp en CE-compliance engineering. Gevestigd in Qingdao, China.',
+    'De 25+ R&D-ingenieurs en productiespecialisten van OLagoon. Expertise in drop-stitch-kerntechnologie, PVC/Hypalon-fabricage, SUP-rompontwerp en CE-compliance engineering. Gevestigd in Qingdao, China.',
   'engineeringTeam.join': 'Word lid van het engineeringteam',
   'engineeringTeam.joinDesc':
     'We zoeken voortdurend getalenteerde ingenieurs op het gebied van materiaalkunde, productontwerp en kwaliteitsengineering.',
@@ -155,7 +155,7 @@ module.exports = {
   'factory.testingEquipment': 'Testapparatuur',
   'factory.tradeTerms': 'Productie- & handelsvoorwaarden',
   'factory.tradeTermsDesc':
-    'Afarer is een merk dat wordt geëxploiteerd door Aquafarer LLC (USA) — ISO- en CE-gecertificeerd, met 10+ jaar exportervaring.',
+    'OLagoon is een merk dat wordt geëxploiteerd door Olagoon LLC (USA) — ISO- en CE-gecertificeerd, met 10+ jaar exportervaring.',
   'factory.whatWeOffer': 'Wat wij aanbieden',
   'faq.searchPlaceholder': 'FAQ doorzoeken...',
   'guides.audience': 'Doelgroep',
@@ -167,7 +167,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Verifieerbare veiligheids- en kwaliteitsnormen',
   'home.brand.desc':
-    'Elk Afarer-board begint bij het water — de stromingen, de omstandigheden en de mensen die erop varen. Drop-stitch-kernen van hoge dichtheid, versterkte rails en vormen die zijn afgestemd op stabiliteit en glijvermogen, daarna board voor board drukgetest.',
+    'Elk OLagoon-board begint bij het water — de stromingen, de omstandigheden en de mensen die erop varen. Drop-stitch-kernen van hoge dichtheid, versterkte rails en vormen die zijn afgestemd op stabiliteit en glijvermogen, daarna board voor board drukgetest.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Stijfheid van de drop-stitch-kern',
   'home.brand.feature1': 'Dek',
@@ -178,8 +178,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Drop-stitch-technologie',
   'home.brand.feature4': 'Rail',
   'home.brand.feature4.desc': 'Versterkte fusielaag',
-  'home.brand.tagline': 'Het Afarer-verschil',
-  'home.brand.title': 'Waarom Afarer<br />anders vaart',
+  'home.brand.tagline': 'Het OLagoon-verschil',
+  'home.brand.title': 'Waarom OLagoon<br />anders vaart',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Board voor board drukgetest',
   'home.brand.years': '10+',
@@ -188,9 +188,9 @@ module.exports = {
   'home.community.gallery': 'Galerij',
   'home.community.gallery.boats': 'Opblaasbare boten',
   'home.community.gallery.boats.desc':
-    'Gezinnen en ontdekkers die genieten van Afarer-opblaasboten op meren en kustwateren.',
+    'Gezinnen en ontdekkers die genieten van OLagoon-opblaasboten op meren en kustwateren.',
   'home.community.gallery.sup': 'SUP-boards',
-  'home.community.gallery.sup.desc': "Paddleaars die meren, rivieren en kusten verkennen op Afarer-opblaasbare SUP's.",
+  'home.community.gallery.sup.desc': "Paddleaars die meren, rivieren en kusten verkennen op OLagoon-opblaasbare SUP's.",
   'home.community.gallery.title': 'Avonturen van klanten',
   'home.community.gallery.viewAll': 'Bekijk de volledige galerij',
   'home.engineering.design': 'Productontwerp',
@@ -267,28 +267,28 @@ module.exports = {
   'home.socialProof.title': 'Gevaren & vertrouwd op echt water',
   'home.socialProof.years': 'Jaar ervaring',
   'home.tldr.summary':
-    'afarer ontwerpt en produceert premium opblaasbare SUP-boards, boten en accessoires — CE-gecertificeerd en één voor één drukgetest.',
-  'home.why.afarer.contact': 'Neem contact op →',
-  'home.why.afarer.point1':
+    'olagoon ontwerpt en produceert premium opblaasbare SUP-boards, boten en accessoires — CE-gecertificeerd en één voor één drukgetest.',
+  'home.why.olagoon.contact': 'Neem contact op →',
+  'home.why.olagoon.point1':
     'Stijf waar het telt — drop-stitch-kern van hoge dichtheid en versterkte rails die onder druk stijf blijven.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Precies gebouwd — gefusioneerde gelamineerde naden en luchtdichte integriteit, board voor board drukgetest.',
-  'home.why.afarer.point3':
+  'home.why.olagoon.point3':
     'In de praktijk gevalideerd — afgestemd in echt water voor stabiliteit, glijvermogen en controle.',
-  'home.why.afarer.quality': 'Kwaliteit waarop u kunt vertrouwen',
-  'home.why.afarer.subtitle': 'Met precisie gebouwd. Meedogenloos getest. Gedekt door garantie.',
-  'home.why.afarer.tagline': 'Waarom afarer',
-  'home.why.afarer.title': 'Kwaliteit waarop u kunt vertrouwen',
-  'home.why.afarer.viewMore': 'Meer bekijken →',
-  'home.why.afarer.warranty': 'Garantie & ondersteuning',
-  'home.why.afarer.warranty.point1':
+  'home.why.olagoon.quality': 'Kwaliteit waarop u kunt vertrouwen',
+  'home.why.olagoon.subtitle': 'Met precisie gebouwd. Meedogenloos getest. Gedekt door garantie.',
+  'home.why.olagoon.tagline': 'Waarom olagoon',
+  'home.why.olagoon.title': 'Kwaliteit waarop u kunt vertrouwen',
+  'home.why.olagoon.viewMore': 'Meer bekijken →',
+  'home.why.olagoon.warranty': 'Garantie & ondersteuning',
+  'home.why.olagoon.warranty.point1':
     'Duidelijke garantievoorwaarden op elk board, met responsieve after-salesondersteuning.',
-  'home.why.afarer.warranty.point2': 'Toegewijd after-salesteam met snelle reactietijd.',
-  'home.why.afarer.warranty.point3':
+  'home.why.olagoon.warranty.point2': 'Toegewijd after-salesteam met snelle reactietijd.',
+  'home.why.olagoon.warranty.point3':
     'Volledige transparantie van de toeleveringsketen voor clubs, retailers en merkpartners.',
   'nav.home': 'Home',
   'oem.desc':
-    'Afarer — toonaangevende OEM/ODM-fabrikant van opblaasbare SUP-boards. CE-gecertificeerd. Eigen mal, private label, groothandel. Van idee tot markt in 16 weken.',
+    'OLagoon — toonaangevende OEM/ODM-fabrikant van opblaasbare SUP-boards. CE-gecertificeerd. Eigen mal, private label, groothandel. Van idee tot markt in 16 weken.',
   'oem.estimate.countries': 'Landen met een bewezen leveringshistorie',
   'oem.estimate.cta': 'Offerte aanvragen',
   'oem.estimate.leadWeeks': 'Weken van briefing tot verzending',
@@ -299,7 +299,7 @@ module.exports = {
   'oem.faq.guide': 'Lees de OEM-kopersgids',
   'oem.faq.subtitle': 'Ons OEM-team staat klaar om u op weg te helpen.',
   'oem.faq.title': 'Nog vragen?',
-  'oem.heading': 'Uw SUP-merk.<br />Gebouwd door Afarer.',
+  'oem.heading': 'Uw SUP-merk.<br />Gebouwd door OLagoon.',
   'oem.moq': 'MOQ van 50 stuks voor standaardmodellen. Eigen mal: 200+ stuks. FOB Qingdao.',
   'oem.packages.cta': 'Offerte aanvragen',
   'oem.packages.leadtime': 'Levertijd',
@@ -363,8 +363,8 @@ module.exports = {
   'oem.why.support': 'Toegewijde accountmanager',
   'oem.why.support.desc':
     "Eén contactpersoon van briefing tot levering. Regelmatige productie-updates, foto's en transparante communicatie gedurende het hele traject.",
-  'oem.why.tagline': 'Waarom Afarer',
-  'oem.why.title': 'Waarom samenwerken met Afarer?',
+  'oem.why.tagline': 'Waarom OLagoon',
+  'oem.why.title': 'Waarom samenwerken met OLagoon?',
   'packages.popular': 'Meest gekozen',
   'product.bestFor': 'Geschikt voor',
   'product.commercialScenarios': "Commerciële scenario's",
@@ -377,11 +377,11 @@ module.exports = {
   'product.related': 'Uitgelichte producten',
   'product.view': 'Product bekijken',
   'resort.caseStudy': 'Echte resultaten',
-  'resort.caseStudy.sub': 'Wat resort-exploitanten zeggen over de samenwerking met Afarer.',
+  'resort.caseStudy.sub': 'Wat resort-exploitanten zeggen over de samenwerking met OLagoon.',
   'retail.discount': 'Groothandelkorting',
   'retail.download': 'Downloaden',
   'solutionsByIndustry.aiBlock':
-    'Oplossingen per sector voor Afarer-watersportuitrusting. Zes sectoren: zoek & redding, rampenbestrijding & humanitaire hulp, commerciële maritieme operaties, defensie & overheid, hospitality & toerisme, visserij & aquacultuur. Alle oplossingen CE-gecertificeerd en volgens ISO geproduceerd.',
+    'Oplossingen per sector voor OLagoon-watersportuitrusting. Zes sectoren: zoek & redding, rampenbestrijding & humanitaire hulp, commerciële maritieme operaties, defensie & overheid, hospitality & toerisme, visserij & aquacultuur. Alle oplossingen CE-gecertificeerd en volgens ISO geproduceerd.',
   'solutionsByIndustry.commercial.cert1': 'CE commercieel vaartuig',
   'solutionsByIndustry.commercial.craft1': 'Commerciële SUP-boards',
   'solutionsByIndustry.commercial.craft2': 'Duikondersteuningsboards',
@@ -405,7 +405,7 @@ module.exports = {
     'Watersportuitrusting van militaire kwaliteit voor verkenning, troepentransport, kustpatrouilles en speciale operaties.',
   'solutionsByIndustry.defense.name': 'Defensie & overheid',
   'solutionsByIndustry.desc':
-    'Vind de juiste watersportoplossing voor uw sector. Overheid, commercieel, recreatief, industrieel — Afarer produceert CE-gecertificeerde uitrusting voor elke sector.',
+    'Vind de juiste watersportoplossing voor uw sector. Overheid, commercieel, recreatief, industrieel — OLagoon produceert CE-gecertificeerde uitrusting voor elke sector.',
   'solutionsByIndustry.disaster.cert1': 'CE-gecertificeerd',
   'solutionsByIndustry.disaster.cert2': 'Getest op UV/barre omstandigheden',
   'solutionsByIndustry.disaster.craft1': 'Zware opblaasbare boards',
@@ -414,7 +414,7 @@ module.exports = {
   'solutionsByIndustry.disaster.desc':
     'Duurzame watersportuitrusting voor noodrespons, medische evacuatie, goederenvervoer en tijdelijke veerverbindingen in rampgebieden.',
   'solutionsByIndustry.disaster.name': 'Rampenbestrijding & humanitaire hulp',
-  'solutionsByIndustry.expSub': 'Praktijkvoorbeelden van hoe Afarer-uitrusting presteert in verschillende sectoren.',
+  'solutionsByIndustry.expSub': 'Praktijkvoorbeelden van hoe OLagoon-uitrusting presteert in verschillende sectoren.',
   'solutionsByIndustry.expTitle': 'Sectoroplossingen in de praktijk',
   'solutionsByIndustry.fishing.cert1': 'CE recreatief',
   'solutionsByIndustry.fishing.cert2': 'Opties met voedselveilige materialen',
@@ -436,7 +436,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Meer weten',
   'solutionsByIndustry.recommendedCraft': 'Aanbevolen vaartuigen',
   'solutionsByIndustry.rel1': 'Oplossingen per gebruiksscenario',
-  'solutionsByIndustry.rel1desc': 'Match uw specifieke gebruiksdoel met de juiste Afarer-oplossing.',
+  'solutionsByIndustry.rel1desc': 'Match uw specifieke gebruiksdoel met de juiste OLagoon-oplossing.',
   'solutionsByIndustry.rel1label': 'Beslissingstool',
   'solutionsByIndustry.rel2': 'Commerciële werkboten',
   'solutionsByIndustry.rel2desc': 'Duurzame uitrusting voor dagelijkse commerciële maritieme operaties.',
@@ -459,19 +459,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Zoek & redding',
   'solutionsByIndustry.story1.context': 'Kustoverstromingsredding, Zuidoost-Azië, 2024',
   'solutionsByIndustry.story1.narrative':
-    "Tijdens een ernstige kustoverstroming zette een gemeentelijk SAR-team Afarer-reddings-SUP's in voor evacuatieoperaties. De geringe diepgang van de boards gaf toegang tot overstroomde wijken die voor grotere vaartuigen onbereikbaar waren. Ondanks puin en 14 uur continu gebruik vertoonde het doek geen sporen van slijtage.",
+    "Tijdens een ernstige kustoverstroming zette een gemeentelijk SAR-team OLagoon-reddings-SUP's in voor evacuatieoperaties. De geringe diepgang van de boards gaf toegang tot overstroomde wijken die voor grotere vaartuigen onbereikbaar waren. Ondanks puin en 14 uur continu gebruik vertoonde het doek geen sporen van slijtage.",
   'solutionsByIndustry.story1.quote':
-    "We zetten twee Afarer-reddings-SUP's in tijdens de kustoverstroming — het waren de enige boards die bij laag water door het met puin gevulde water konden navigeren.",
+    "We zetten twee OLagoon-reddings-SUP's in tijdens de kustoverstroming — het waren de enige boards die bij laag water door het met puin gevulde water konden navigeren.",
   'solutionsByIndustry.story1.source': 'Teamleider gemeentelijk SAR-team',
   'solutionsByIndustry.story2.context': 'Duikcharteroperaties, Malediven, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    'Een duikcharterbedrijf op de Malediven gebruikt Afarer-uitrusting voor dagelijkse duikondersteuning. Na 600+ operationele dagen vertonen de boards geen significante UV-degradatie en geen naadscheiding.',
+    'Een duikcharterbedrijf op de Malediven gebruikt OLagoon-uitrusting voor dagelijkse duikondersteuning. Na 600+ operationele dagen vertonen de boards geen significante UV-degradatie en geen naadscheiding.',
   'solutionsByIndustry.story2.quote':
     'Onze duikboot vaart 6 dagen per week, 50 weken per jaar. Na twee jaar ziet het Hypalon-doek er nog steeds als nieuw uit.',
   'solutionsByIndustry.story2.source': 'Eigenaar charterbedrijf',
   'solutionsByIndustry.title': 'Oplossingen per sector — watersportuitrusting voor elke sector',
   'solutionsByUseCase.aiBlock':
-    "Oplossingen per gebruiksscenario voor afarer-watersportuitrusting. Acht scenario's: waterredding, verhuurvloten, eigen branding, patrouille, humanitaire hulp, duikondersteuning, boardproductie en persoonlijk gebruik. Alle oplossingen CE-gecertificeerd en volgens ISO geproduceerd.",
+    "Oplossingen per gebruiksscenario voor olagoon-watersportuitrusting. Acht scenario's: waterredding, verhuurvloten, eigen branding, patrouille, humanitaire hulp, duikondersteuning, boardproductie en persoonlijk gebruik. Alle oplossingen CE-gecertificeerd en volgens ISO geproduceerd.",
   'solutionsByUseCase.answer1':
     'Zware opblaasbare reddingsboards en -boten, ontworpen voor waterredding en noodrespons. Snelle inzet, stabiele platforms en CE-certificering voor professionele teams.',
   'solutionsByUseCase.answer2':
@@ -484,23 +484,23 @@ module.exports = {
     'Commerciële werkboten voor dagelijkse maritieme operaties — duikondersteuning, materieeltransport en taken voor de bemanning. Duurzame constructie met opties voor 2 tot 12 personen.',
   'solutionsByUseCase.rel2desc': 'Duurzame uitrusting voor dagelijkse commerciële maritieme operaties.',
   'solutionsByUseCase.story1.narrative':
-    "Tijdens een ernstige kustoverstroming zette een gemeentelijk SAR-team afarer-reddings-SUP's in voor evacuatieoperaties. De geringe diepgang van de boards gaf toegang tot overstroomde wijken die voor grotere vaartuigen onbereikbaar waren, en de bemanningen meldden geen significante slijtage na dagenlang continu gebruik.",
+    "Tijdens een ernstige kustoverstroming zette een gemeentelijk SAR-team olagoon-reddings-SUP's in voor evacuatieoperaties. De geringe diepgang van de boards gaf toegang tot overstroomde wijken die voor grotere vaartuigen onbereikbaar waren, en de bemanningen meldden geen significante slijtage na dagenlang continu gebruik.",
   'solutionsByUseCase.story1.quote':
-    "We zetten twee afarer-reddings-SUP's in tijdens de kustoverstroming — het waren de enige boards die de bewoners in de overstroomde wijken konden bereiken.",
+    "We zetten twee olagoon-reddings-SUP's in tijdens de kustoverstroming — het waren de enige boards die de bewoners in de overstroomde wijken konden bereiken.",
   'solutionsByUseCase.story2.narrative':
-    'Een Noorse viskwekerij exploiteert sinds 2023 een afarer-werkboot voor inspecties, materieeltransport en de veiligheid van duikteams. Twee jaar lang gebruik het hele jaar door in koude fjordomstandigheden zonder structurele reparaties.',
+    'Een Noorse viskwekerij exploiteert sinds 2023 een olagoon-werkboot voor inspecties, materieeltransport en de veiligheid van duikteams. Twee jaar lang gebruik het hele jaar door in koude fjordomstandigheden zonder structurele reparaties.',
   'useCase.fishing.desc':
     "Vis-SUP's en accessoires met hengelhouders, brede stabiele dekken en ankerpunten voor hengelaars op meren, rivieren en kustwateren.",
   'useCase.searchAndRescue.desc':
     'Opblaasbare reddingsuitrusting voor snelle inzet bij waterredding, overstromingsrespons en kustpatrouilles.',
   'useCase.tourismRecreation.desc':
     'Versterkte SUP-boards en -boten in vlootklasse voor touroperators, resorts en watersportcentra.',
-  'nav.exploreAfarer': 'Ontdek Afarer',
+  'nav.exploreOLagoon': 'Ontdek OLagoon',
   'nav.technologyMaterials': 'Technologie & materialen',
   'nav.qualitySafety': 'Kwaliteit & veiligheid',
   'nav.storiesGuides': 'Verhalen & gidsen',
   'nav.coBrand': 'Co-branding',
-  'nav.coBrandWithAfarer': 'Co-branding met Afarer',
+  'nav.coBrandWithOLagoon': 'Co-branding met OLagoon',
   'nav.countryPartners': 'Landenpartners',
   'nav.findDistributor': 'Vind een distributeur',
   'nav.becomeCountryPartner': 'Word landenpartner',

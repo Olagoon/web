@@ -28,7 +28,7 @@ export type SolutionOverride = {
       results: string[];
     }[];
   };
-  whyAfarer?: {
+  whyOLagoon?: {
     title?: string;
     items?: { title: string; description: string }[];
   };
@@ -47,15 +47,15 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Kurkite savo SUP prekės ženklą | OEM pripučiamų SUP gamintojas | {SITE}',
       description:
-        'Afarer padeda lauko veiklos startuoliams kurti individualius SUP prekės ženklus su OEM gamyba, private label SUP lentomis, gamyba su mažu MOQ, produktų dizainu, kokybės kontrole ir pasaulinės tiekimo grandinės palaikymu.',
+        'OLagoon padeda lauko veiklos startuoliams kurti individualius SUP prekės ženklus su OEM gamyba, private label SUP lentomis, gamyba su mažu MOQ, produktų dizainu, kokybės kontrole ir pasaulinės tiekimo grandinės palaikymu.',
     },
     hero: {
       tagline: 'Kurkite savo SUP prekės ženklą™',
       title: 'Individuali SUP gamyba lauko veiklos startuolių įkūrėjams',
       subtitle:
-        'Afarer padeda lauko veiklos startuoliams kurti individualius SUP prekės ženklus su OEM gamyba, private label SUP lentomis, gamyba su mažu MOQ, produktų dizainu, kokybės kontrole ir pasaulinės tiekimo grandinės palaikymu.',
+        'OLagoon padeda lauko veiklos startuoliams kurti individualius SUP prekės ženklus su OEM gamyba, private label SUP lentomis, gamyba su mažu MOQ, produktų dizainu, kokybės kontrole ir pasaulinės tiekimo grandinės palaikymu.',
       image: {
-        alt: 'Afarer individualių SUP lentų aprašymas',
+        alt: 'OLagoon individualių SUP lentų aprašymas',
       },
     },
     challenge: {
@@ -170,7 +170,7 @@ const lt: Record<string, SolutionOverride> = {
       customer:
         'Lauko veiklos startuolio prekės ženklo įkūrėjas iš Jungtinių Amerikos Valstijų. Buvęs lauko prekių mažmeninės prekybos vadovas, banglenčių sporto ir kajakų entuziastas bei Shopify verslininkas, siekiantis sukurti premium pripučiamų SUP prekės ženklą.',
       steps: [
-        'Afarer padėjo nustatyti prekės ženklo kryptį kaip Premium Outdoor Lifestyle SUP prekės ženklą, orientuotą į 25-45 metų lauko veiklos vartotojus. Buvo atlikta rinkos pozicionavimo analizė ir konkurentų tyrimas.',
+        'OLagoon padėjo nustatyti prekės ženklo kryptį kaip Premium Outdoor Lifestyle SUP prekės ženklą, orientuotą į 25-45 metų lauko veiklos vartotojus. Buvo atlikta rinkos pozicionavimo analizė ir konkurentų tyrimas.',
         "Sukurtas pirmasis produktas: 10'6 Premium pripučiama SUP lenta su patvaria Drop Stitch konstrukcija, premium PVC struktūra, moderniu EVA dizainu, anglies pluošto irklu ir aukštos kokybės priedais.",
         'Sukurta individuali lentų grafika, prekės ženklo spalvų sistema, pakavimo dizainas ir išsamus, pardavimams paruoštas produktų rinkinys, atitinkantis prekės ženklo identitetą.',
         'Į rinką produktas buvo paleistas su 300 vienetų Shopify parduotuvei, įtakos turinčių asmenų rinkodaros kampanijoms ir klientų testavimui, siekiant patvirtinti rinkos paklausą.',
@@ -195,22 +195,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis - Prekės ženklo identitetas ir tiekėjų paieška trijuose žemynuose',
               detail:
-                '2023 m. sausio-kovo mėnesiais James kartu su Afarer tiekimo paieškos komanda aplankė 5 gamyklas Kinijoje, Vietname ir Tailande. Afarer supažindino jį su specializuota karinio lygio PVC laminavimo gamykla Čingdao, kuri anksčiau gamino tik white-label lentas Europos platintojams. Kartu buvo suderėtas minimalaus užsakymo kiekio sumažinimas nuo 1,000 iki 500 vienetų priimant 6 mėnesių išimtinumo sąlygą. Afarer kokybės kontrolės komanda atliko 3 egzempliorių bandymų etapus, atmesdama pirmąsias dvi partijas dėl netolygiai suvirintų borto siūlių ir patvirtindama trečiąją.',
+                '2023 m. sausio-kovo mėnesiais James kartu su OLagoon tiekimo paieškos komanda aplankė 5 gamyklas Kinijoje, Vietname ir Tailande. OLagoon supažindino jį su specializuota karinio lygio PVC laminavimo gamykla Čingdao, kuri anksčiau gamino tik white-label lentas Europos platintojams. Kartu buvo suderėtas minimalaus užsakymo kiekio sumažinimas nuo 1,000 iki 500 vienetų priimant 6 mėnesių išimtinumo sąlygą. OLagoon kokybės kontrolės komanda atliko 3 egzempliorių bandymų etapus, atmesdama pirmąsias dvi partijas dėl netolygiai suvirintų borto siūlių ir patvirtindama trečiąją.',
             },
             {
               title: '2 žingsnis - Masinio finansavimo kampanijos infrastruktūra ir įvykdymo planavimas',
               detail:
-                'Afarer logistikos komanda padėjo Jamesui sudaryti 3PL partnerystę su užsakymų įvykdymo centru Gloucesteryje, pajėgiu apdoroti 2,000 siuntų per dieną. Buvo sukurta išsami Kickstarter atlygių pakopų struktūra: £399 ankstyvojo paukščio (50 vienetų), £449 standartinė (300 vienetų) ir £549 premium paketas su irklu ir pompa (150 vienetų). Afarer parengė 12 didelės raiškos produktų vaizdų, 4 minučių kampanijos vaizdo įrašą, nufilmuotą Symonds Yat vietoje prie Wye upės, ir išsamų techninių specifikacijų lapą, kuriame pabrėžiami 6 colių storis, 32 PSI drop-stitch branduolys ir anglies pluošto irklo pasirinkimas. Kampanija startavo 2023 m. gegužės 1 d. su £150,000 tikslu.',
+                'OLagoon logistikos komanda padėjo Jamesui sudaryti 3PL partnerystę su užsakymų įvykdymo centru Gloucesteryje, pajėgiu apdoroti 2,000 siuntų per dieną. Buvo sukurta išsami Kickstarter atlygių pakopų struktūra: £399 ankstyvojo paukščio (50 vienetų), £449 standartinė (300 vienetų) ir £549 premium paketas su irklu ir pompa (150 vienetų). OLagoon parengė 12 didelės raiškos produktų vaizdų, 4 minučių kampanijos vaizdo įrašą, nufilmuotą Symonds Yat vietoje prie Wye upės, ir išsamų techninių specifikacijų lapą, kuriame pabrėžiami 6 colių storis, 32 PSI drop-stitch branduolys ir anglies pluošto irklo pasirinkimas. Kampanija startavo 2023 m. gegužės 1 d. su £150,000 tikslu.',
             },
             {
               title: '3 žingsnis - Krizių valdymas kampanijos metu ir papildomų tikslų įgyvendinimas',
               detail:
-                'Kai kampanija per pirmąsias 72 valandas pasiekė £85,000, bet iki 14-osios dienos sustojo ties £110,000, Afarer rinkodaros strategai paleido tikslinę Facebook ir Instagram reklamos kampaniją, orientuotą į Jungtinės Karalystės SUP irklavimo Facebook grupes, kurių bendras narių skaičius siekia 500,000+. Buvo sukurtos 8 A/B testuotos reklamos variacijos su James YouTube atsiliepimais. Iki 30-osios dienos dar 212 rėmėjų pakėlė bendrą sumą iki £162,000. Afarer suderino papildomą kampanijos tikslą - visiems įnašams virš £449 pridėti nemokamą sausmaišį, vertą £45, - tai paskatino paskutinį 88 rėmėjų antplūdį per paskutines 48 valandas, o kampanija užsidarė ties £198,740 iš 487 rėmėjų.',
+                'Kai kampanija per pirmąsias 72 valandas pasiekė £85,000, bet iki 14-osios dienos sustojo ties £110,000, OLagoon rinkodaros strategai paleido tikslinę Facebook ir Instagram reklamos kampaniją, orientuotą į Jungtinės Karalystės SUP irklavimo Facebook grupes, kurių bendras narių skaičius siekia 500,000+. Buvo sukurtos 8 A/B testuotos reklamos variacijos su James YouTube atsiliepimais. Iki 30-osios dienos dar 212 rėmėjų pakėlė bendrą sumą iki £162,000. OLagoon suderino papildomą kampanijos tikslą - visiems įnašams virš £449 pridėti nemokamą sausmaišį, vertą £45, - tai paskatino paskutinį 88 rėmėjų antplūdį per paskutines 48 valandas, o kampanija užsidarė ties £198,740 iš 487 rėmėjų.',
             },
             {
               title: '4 žingsnis - Gamyba, kokybės užtikrinimas ir įvykdymas po kampanijos',
               detail:
-                'Gamyba prasidėjo 2023 m. rugpjūtį Čingdao gamykloje, Afarer šešioms savaitėms vietoje patalpinus nuolatinį kokybės kontrolės inspektorių. Kiekviena lenta buvo patikrinta 24 valandų pripūtimo bandymu esant 18 PSI bei siūlių atsparumo lupimui bandymu, viršijančiu 150 N/cm. Pirmieji 200 vienetų jūrų keliu išsiųsti rugsėjo 15 d. ir per 4 dienas kirto Jungtinės Karalystės muitinę dėka Afarer iš anksto parengtos dokumentacijos. Visi 487 rėmėjai savo lentas gavo iki 2023 m. spalio 25 d. - 9 dienomis anksčiau nei buvo nurodyta pristatymo data. James pranešė, kad vidutinis įvertinimas pirmuosiuose 150 klientų atsiliepimų formų siekia 4.7/5.',
+                'Gamyba prasidėjo 2023 m. rugpjūtį Čingdao gamykloje, OLagoon šešioms savaitėms vietoje patalpinus nuolatinį kokybės kontrolės inspektorių. Kiekviena lenta buvo patikrinta 24 valandų pripūtimo bandymu esant 18 PSI bei siūlių atsparumo lupimui bandymu, viršijančiu 150 N/cm. Pirmieji 200 vienetų jūrų keliu išsiųsti rugsėjo 15 d. ir per 4 dienas kirto Jungtinės Karalystės muitinę dėka OLagoon iš anksto parengtos dokumentacijos. Visi 487 rėmėjai savo lentas gavo iki 2023 m. spalio 25 d. - 9 dienomis anksčiau nei buvo nurodyta pristatymo data. James pranešė, kad vidutinis įvertinimas pirmuosiuose 150 klientų atsiliepimų formų siekia 4.7/5.',
             },
           ],
           results: [
@@ -232,22 +232,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis - Atogrąžų aplinkos auditas ir medžiagų specifikacijos',
               detail:
-                '2023 m. gegužę Afarer produktų inžinieriai dvi savaites Kairnse testavo Maros esamą lentų parką. Jie užfiksavo 8 specifinius gedimo taškus: UV spindulių pažeistą PVC (matomą 22 lentose), apkorodijusius nerūdijančio plieno D-ring (atsirandančius per 6 mėnesius) ir siūlių gedimus prie priekinės rankenos (3 lentos). Afarer laboratorijos komanda performulavo viršutinį PVC sluoksnį, pridėdama UV stabilizatoriaus priedo (UV-531, 0.6% koncentracija), ir visai furnityrai nurodė jūrinį 304 klasės nerūdijantį plieną. Buvo suprojektuota sustiprinta priekinė rankena su 3 sluoksnių juostų „sumuštiniu“ konstrukcija, įvertinta iki 400 kg ardymo stiprio.',
+                '2023 m. gegužę OLagoon produktų inžinieriai dvi savaites Kairnse testavo Maros esamą lentų parką. Jie užfiksavo 8 specifinius gedimo taškus: UV spindulių pažeistą PVC (matomą 22 lentose), apkorodijusius nerūdijančio plieno D-ring (atsirandančius per 6 mėnesius) ir siūlių gedimus prie priekinės rankenos (3 lentos). OLagoon laboratorijos komanda performulavo viršutinį PVC sluoksnį, pridėdama UV stabilizatoriaus priedo (UV-531, 0.6% koncentracija), ir visai furnityrai nurodė jūrinį 304 klasės nerūdijantį plieną. Buvo suprojektuota sustiprinta priekinė rankena su 3 sluoksnių juostų „sumuštiniu“ konstrukcija, įvertinta iki 400 kg ardymo stiprio.',
             },
             {
               title: '2 žingsnis - Prototipų gamyba ir lauko bandymai trijuose turų maršrutuose',
               detail:
-                'Afarer 2023 m. liepą savo Guangdžou gamykloje pagamino 10 prototipinių lentų, kiekviena su unikalia spalvų schema (koralinė mėlyna, mangrovių žalia, rifo oranžinė), kad parką būtų lengva atpažinti. Mara atliko 60 dienų lauko bandymus trijuose pagrindiniuose savo turų maršrutuose: Fitzroy sala (sūrus vanduo, 6 valandos tiesioginės saulės), Mulgrave upės rytiniai turai (gėlas vanduo, pavėsyje) ir saulėlydžio turai Trinity Inlet (mišrios sąlygos). Kiekviena lenta fiksavo 300+ naudojimo valandų. Du prototipai po 250 valandų ėmė leisti orą pro vožtuvą ir buvo grąžinti Afarer vožtuvo stiebeliui perprojektuoti - buvo pereita nuo žalvarinio prie nailonu sutvirtinto kompozicinio vožtuvo.',
+                'OLagoon 2023 m. liepą savo Guangdžou gamykloje pagamino 10 prototipinių lentų, kiekviena su unikalia spalvų schema (koralinė mėlyna, mangrovių žalia, rifo oranžinė), kad parką būtų lengva atpažinti. Mara atliko 60 dienų lauko bandymus trijuose pagrindiniuose savo turų maršrutuose: Fitzroy sala (sūrus vanduo, 6 valandos tiesioginės saulės), Mulgrave upės rytiniai turai (gėlas vanduo, pavėsyje) ir saulėlydžio turai Trinity Inlet (mišrios sąlygos). Kiekviena lenta fiksavo 300+ naudojimo valandų. Du prototipai po 250 valandų ėmė leisti orą pro vožtuvą ir buvo grąžinti OLagoon vožtuvo stiebeliui perprojektuoti - buvo pereita nuo žalvarinio prie nailonu sutvirtinto kompozicinio vožtuvo.',
             },
             {
               title: '3 žingsnis - Gamybos didinimas, individualus ženklinimas ir pakavimo dizainas',
               detail:
-                'Sėkmingai atlikus lauko bandymus, Mara 2023 m. rugsėjį pateikė 200 „Reef Runner“ lentų pirkimo užsakymą (PO). Afarer dizaino komanda sukūrė individualius terminio perkėlimo grafikos elementus su „Reef & River“ logotipu ant denio pagalvėlės ir serijiniu parko valdymo numeriu ant borto. Kiekviena lenta buvo komplektuojama su individualiai austu 1000 deniero nailoniniu nešiojimo maišu, sustiprintu dygsniais (išbandytu iki 80 kg krovinio). Afarer suorganizavo jūrų krovinį per Taunsvilio uostą su 28 dienų trukme, įskaitant fumigacijos sertifikatą, atitinkantį Australijos biosegumo reikalavimus. Siunta kirto muitinę 2023 m. lapkričio 5 d.',
+                'Sėkmingai atlikus lauko bandymus, Mara 2023 m. rugsėjį pateikė 200 „Reef Runner“ lentų pirkimo užsakymą (PO). OLagoon dizaino komanda sukūrė individualius terminio perkėlimo grafikos elementus su „Reef & River“ logotipu ant denio pagalvėlės ir serijiniu parko valdymo numeriu ant borto. Kiekviena lenta buvo komplektuojama su individualiai austu 1000 deniero nailoniniu nešiojimo maišu, sustiprintu dygsniais (išbandytu iki 80 kg krovinio). OLagoon suorganizavo jūrų krovinį per Taunsvilio uostą su 28 dienų trukme, įskaitant fumigacijos sertifikatą, atitinkantį Australijos biosegumo reikalavimus. Siunta kirto muitinę 2023 m. lapkričio 5 d.',
             },
             {
               title: '4 žingsnis - Personalo mokymų programa ir priežiūros protokolų dokumentacija',
               detail:
-                'Afarer klientų sėkmės komanda 2023 m. lapkritį atvyko į Kairnsą surengti dviejų dienų mokymų seminarą 12 Maros gidų ir 3 priežiūros darbuotojams. Mokymai apėmė kasdieninius patikros sąrašus, teisingas pripūtimo ir orą nuleidimo procedūras, sūraus vandens skalavimo protokolus bei remonto rinkinį su 6 PVC lopais ir 2 atsarginiais vožtuvais. Afarer suteikė laminuotą greitosios pagalbos vadovą anglų ir kinų (mandarino) kalbomis. Mara įdiegė skaitmeninį parko žurnalą Google Sheets, sekdama kiekvienos lentos naudojimo valandas. Pirmasis 65 lentų ketvirtinis papildymo užsakymas buvo pateiktas 2024 m. vasarį.',
+                'OLagoon klientų sėkmės komanda 2023 m. lapkritį atvyko į Kairnsą surengti dviejų dienų mokymų seminarą 12 Maros gidų ir 3 priežiūros darbuotojams. Mokymai apėmė kasdieninius patikros sąrašus, teisingas pripūtimo ir orą nuleidimo procedūras, sūraus vandens skalavimo protokolus bei remonto rinkinį su 6 PVC lopais ir 2 atsarginiais vožtuvais. OLagoon suteikė laminuotą greitosios pagalbos vadovą anglų ir kinų (mandarino) kalbomis. Mara įdiegė skaitmeninį parko žurnalą Google Sheets, sekdama kiekvienos lentos naudojimo valandas. Pirmasis 65 lentų ketvirtinis papildymo užsakymas buvo pateiktas 2024 m. vasarį.',
             },
           ],
           results: [
@@ -259,8 +259,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl Afarer',
+    whyOLagoon: {
+      title: 'Kodėl OLagoon',
       items: [
         {
           title: 'Produktų kompetencija',
@@ -288,12 +288,12 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Koks yra minimalus individualių SUP lentų užsakymo kiekis?',
         answer:
-          'Afarer siūlo lankstų MOQ - nuo 100-500 vienetų rinkos testavimui, kad startuoliai galėtų patikrinti savo produktus ir surinkti klientų atsiliepimus prieš didindami gamybą.',
+          'OLagoon siūlo lankstų MOQ - nuo 100-500 vienetų rinkos testavimui, kad startuoliai galėtų patikrinti savo produktus ir surinkti klientų atsiliepimus prieš didindami gamybą.',
       },
       {
         question: 'Ar galiu sukurti savo SUP prekės ženklą neturėdamas gamyklos?',
         answer:
-          'Taip. Afarer teikia pilnas private label gamybos paslaugas, leisdama jums sukurti savo SUP prekės ženklą su individualiu ženklinimu, lentų dizainu, pakavimu ir priedais be jokių investicijų į gamyklą.',
+          'Taip. OLagoon teikia pilnas private label gamybos paslaugas, leisdama jums sukurti savo SUP prekės ženklą su individualiu ženklinimu, lentų dizainu, pakavimu ir priedais be jokių investicijų į gamyklą.',
       },
       {
         question: 'Kiek laiko trunka sukurti individualų SUP produktą?',
@@ -303,17 +303,17 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar padedate su produkto dizainu ir rinkos strategija?',
         answer:
-          'Taip. Afarer teikia prekės ženklo ir produkto strategijos konsultacijas, padedančias jums nustatyti tikslinę rinką, produkto pozicionavimą, kainų strategiją ir išskirtinumą dar prieš prasidedant gamybai.',
+          'Taip. OLagoon teikia prekės ženklo ir produkto strategijos konsultacijas, padedančias jums nustatyti tikslinę rinką, produkto pozicionavimą, kainų strategiją ir išskirtinumą dar prieš prasidedant gamybai.',
       },
       {
         question: 'Kokias kokybės kontrolės priemones taikote?',
         answer:
-          'Afarer taiko išsamią kokybės kontrolės sistemą, apimančią medžiagų inspekciją, stebėseną gamybos metu, oro slėgio testavimą ir galutinį produkto patikrinimą prieš siuntimą.',
+          'OLagoon taiko išsamią kokybės kontrolės sistemą, apimančią medžiagų inspekciją, stebėseną gamybos metu, oro slėgio testavimą ir galutinį produkto patikrinimą prieš siuntimą.',
       },
       {
         question: 'Ar galite siųsti į mano šalį?',
         answer:
-          'Taip. Afarer siunčia į Jungtines Amerikos Valstijas, Kanadą, Australiją, Jungtinę Karalystę, Vokietiją, Prancūziją, Nyderlandus ir kitas pasaulio rinkas su patikima logistikos parama.',
+          'Taip. OLagoon siunčia į Jungtines Amerikos Valstijas, Kanadą, Australiją, Jungtinę Karalystę, Vokietiją, Prancūziją, Nyderlandus ir kitas pasaulio rinkas su patikima logistikos parama.',
       },
     ],
     cta: {
@@ -330,15 +330,15 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Išplėskite savo lauko prekės ženklą į vandens sportą | SUP OEM gamintojas | {SITE}',
       description:
-        '„Afarer“ padeda įsitvirtinusiems lauko prekės ženklams plėstis į vandens sportą su pasirinktine SUP gamyba, „Drop Stitch“ technologija, PVC kompetencija, private label SUP lentomis ir išsamiais produktų kūrimo sprendimais.',
+        '„OLagoon“ padeda įsitvirtinusiems lauko prekės ženklams plėstis į vandens sportą su pasirinktine SUP gamyba, „Drop Stitch“ technologija, PVC kompetencija, private label SUP lentomis ir išsamiais produktų kūrimo sprendimais.',
     },
     hero: {
       tagline: 'Išplėskite savo lauko prekės ženklą į vandens sportą™',
       title: 'Vandens sporto produktų plėtra įsitvirtinusiems lauko prekės ženklams',
       subtitle:
-        '„Afarer“ padeda įsitvirtinusiems lauko prekės ženklams plėstis į vandens sportą su pasirinktine SUP gamyba, „Drop Stitch“ technologija, PVC kompetencija, private label SUP lentomis ir išsamiais produktų kūrimo sprendimais.',
+        '„OLagoon“ padeda įsitvirtinusiems lauko prekės ženklams plėstis į vandens sportą su pasirinktine SUP gamyba, „Drop Stitch“ technologija, PVC kompetencija, private label SUP lentomis ir išsamiais produktų kūrimo sprendimais.',
       image: {
-        alt: 'Afarer pasirinktinių SUP lentų aprašymas',
+        alt: 'OLagoon pasirinktinių SUP lentų aprašymas',
       },
     },
     challenge: {
@@ -444,7 +444,7 @@ const lt: Record<string, SolutionOverride> = {
       customer:
         'Europos lauko gyvenimo būdo prekės ženklas, iš pradžių sutelktas į stovyklavimo įrangą, lauko priedus ir nuotykių gyvenimo būdo produktus, turintis stiprų mažmeninės prekybos tinklą ir lojalią klientų bazę.',
       steps: [
-        '„Afarer“ išanalizavo prekės ženklo pozicionavimą ir rekomendavo premium lauko SUP kolekcijos strategiją, apimančią universalias SUP, turizmo SUP ir priedus tema „Lauko nuotykiai nuo žemės iki vandens“.',
+        '„OLagoon“ išanalizavo prekės ženklo pozicionavimą ir rekomendavo premium lauko SUP kolekcijos strategiją, apimančią universalias SUP, turizmo SUP ir priedus tema „Lauko nuotykiai nuo žemės iki vandens“.',
         'Buvo sukurta 10\'6" universalioji SUP lenta su didele stabilumo, aukštos kokybės konstrukcija ir lauko gyvenimo būdo dizainu, taip pat 12\'6" turizmo SUP lenta su nuotykių charakteristikomis ir ilgų atstumų galimybėmis.',
         'Buvo sukurta pasirinktinė grafika, prekės ženklo spalvos, pakuotė ir priedų sistema, puikiai atitinkanti esamą lauko prekės ženklo tapatybę.',
         'Kolekcija buvo paleista su pradiniu 1 000 vnt. užsakymu, paskirstytu per esamus dilerius, elektroninės prekybos kanalus ir lauko mažmenininkus.',
@@ -469,24 +469,24 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis – Rinkos analizė ir produktų architektūros planavimas',
               detail:
-                '2023 m. kovą „Afarer“ rinkos analitikų komanda išanalizavo 18 mėnesių SUP pardavimų duomenis iš 120 JAV ir Kanados mažmenininkų. Buvo nustatytas sparčiausiai augęs posegmentis – universaliosios SUP lentos nuo 10\'6" iki 11\'6", kainuojančios $749–$999 CAD ir per metus paaugusios 34 %. „Afarer“ pasiūlė 4 SKU rinkinį: „Discovery“ 10\'6" universalioji lenta (tikslinė kaina $799 CAD), „Expedition“ 11\'6" turistinė lenta ($949 CAD), „Crossover“ 10\'2" jogų ir fitneso SUP ($699 CAD) ir „Angler“ žvejybos SUP su nuimama dėžių tvirtinimo sistema ($1,049 CAD). Henrikas balandį priėmė pasiūlymą, numatydamas paleidimo datą 2024 m. vasarį, siekiant suspėti iki pavasario mažmeninės prekybos pirkimo sezono.',
+                '2023 m. kovą „OLagoon“ rinkos analitikų komanda išanalizavo 18 mėnesių SUP pardavimų duomenis iš 120 JAV ir Kanados mažmenininkų. Buvo nustatytas sparčiausiai augęs posegmentis – universaliosios SUP lentos nuo 10\'6" iki 11\'6", kainuojančios $749–$999 CAD ir per metus paaugusios 34 %. „OLagoon“ pasiūlė 4 SKU rinkinį: „Discovery“ 10\'6" universalioji lenta (tikslinė kaina $799 CAD), „Expedition“ 11\'6" turistinė lenta ($949 CAD), „Crossover“ 10\'2" jogų ir fitneso SUP ($699 CAD) ir „Angler“ žvejybos SUP su nuimama dėžių tvirtinimo sistema ($1,049 CAD). Henrikas balandį priėmė pasiūlymą, numatydamas paleidimo datą 2024 m. vasarį, siekiant suspėti iki pavasario mažmeninės prekybos pirkimo sezono.',
             },
             {
               title:
                 '2 žingsnis – Bendro prekės ženklo dizaino integracija ir mažmeninės prekybos reikalavimų atitiktis',
               detail:
-                '„Afarer“ pramonės dizaineriai aštuonias savaites bendradarbiavo su Vankuveryje įsikūrusia „North Ridge“ kūrybine komanda, kad sukurtų vizualinę tapatybę, siejančią prekės ženklo kalnų estetiką su vandens sportu. Galutiniame dizaine buvo panaudota „North Ridge“ prekės ženklui būdinga anglies juodos ir žarijų spalvų paletė su topografinių linijų raštais ant denos kilimėlio. „Afarer“ užtikrino, kad visos lentos atitiktų REI tiekėjų reikalavimus: FSC sertifikuota kartoninė pakuotė, nešiojimo maišai iš perdirbto PET ir atitiktis Kalifornijos Proposition 65 reikalavimams dėl ftalatų ir sunkiųjų metalų. 14 puslapių produktų informacijos valdymo (PIM) specifikacija buvo pateikta į REI tiekėjų portalą 2023 m. spalio 1 d.',
+                '„OLagoon“ pramonės dizaineriai aštuonias savaites bendradarbiavo su Vankuveryje įsikūrusia „North Ridge“ kūrybine komanda, kad sukurtų vizualinę tapatybę, siejančią prekės ženklo kalnų estetiką su vandens sportu. Galutiniame dizaine buvo panaudota „North Ridge“ prekės ženklui būdinga anglies juodos ir žarijų spalvų paletė su topografinių linijų raštais ant denos kilimėlio. „OLagoon“ užtikrino, kad visos lentos atitiktų REI tiekėjų reikalavimus: FSC sertifikuota kartoninė pakuotė, nešiojimo maišai iš perdirbto PET ir atitiktis Kalifornijos Proposition 65 reikalavimams dėl ftalatų ir sunkiųjų metalų. 14 puslapių produktų informacijos valdymo (PIM) specifikacija buvo pateikta į REI tiekėjų portalą 2023 m. spalio 1 d.',
             },
             {
               title:
                 '3 žingsnis – Fotografija, tekstų kūrimas ir prieš paleidimą atliekami mažmeninės prekybos pirkėjų pristatymai',
               detail:
-                '„Afarer“ kolekcijai sukūrė 230 vaizdo medžiagos elementų: studijos produktų nuotraukas baltame fone, gyvenimo būdo vaizdus, fotografuotus Garibaldžio ežere (1 500 m aukštyje Britų Kolumbijoje), ir 360 laipsnių sukamosios fotografijos įrašus. Buvo parašyti lokalizuoti produktų tekstai anglų ir Kanados prancūzų kalbomis Kvebeko mažmenininkams. „Afarer“ pardavimų komanda sukūrė 22 puslapių mažmenininkų pardavimų pristatymą su konkurencine analize prieš tokius prekės ženklus kaip BOTE ir Isle, maržos prognozėmis, rodančiomis 48 % bendrąją maržą mažmenininkams, ir pardavimų duomenimis iš bandomųjų rinkų. Henrikas ir „Afarer“ pardavimų vadovas 2023 m. lapkričio 15 d. pristatė kolekciją REI nacionaliniam pirkėjui ir užsitikrino įsipareigojimus iš 34 REI parduotuvių.',
+                '„OLagoon“ kolekcijai sukūrė 230 vaizdo medžiagos elementų: studijos produktų nuotraukas baltame fone, gyvenimo būdo vaizdus, fotografuotus Garibaldžio ežere (1 500 m aukštyje Britų Kolumbijoje), ir 360 laipsnių sukamosios fotografijos įrašus. Buvo parašyti lokalizuoti produktų tekstai anglų ir Kanados prancūzų kalbomis Kvebeko mažmenininkams. „OLagoon“ pardavimų komanda sukūrė 22 puslapių mažmenininkų pardavimų pristatymą su konkurencine analize prieš tokius prekės ženklus kaip BOTE ir Isle, maržos prognozėmis, rodančiomis 48 % bendrąją maržą mažmenininkams, ir pardavimų duomenimis iš bandomųjų rinkų. Henrikas ir „OLagoon“ pardavimų vadovas 2023 m. lapkričio 15 d. pristatė kolekciją REI nacionaliniam pirkėjui ir užsitikrino įsipareigojimus iš 34 REI parduotuvių.',
             },
             {
               title: '4 žingsnis – Pirmoji gamybos partija, sandėliavimas ir pardavimų rezultatai',
               detail:
-                '2 800 vienetų gamyba visuose 4 SKU prasidėjo 2023 m. gruodį „Afarer“ gamykloje Dongguan. „Afarer“ organizavo jūrų krovinio vežimą į Vankuverį su atvykimo data 2024 m. sausio 22 d. Pirmieji 800 vienetų buvo tiesiogiai perkelti į „North Ridge“ užsakymų vykdymo centrą Misisaugoje rytų Kanados platinimui. Iki 2024 m. kovo 1 d. kolekcija jau buvo prekyboje 34 REI lentynose, 18 MEC vietų ir NorthRidgeGear.com. Vien kovą „Discovery“ lenta pardavė 340 vienetų – 136 % prognozės. Iki 2024 m. birželio visos kolekcijos pajamos pasiekė $678,000 CAD, o „Angler“ žvejybos SUP turėjo laukiančių užsakymų iki rugpjūčio pabaigos.',
+                '2 800 vienetų gamyba visuose 4 SKU prasidėjo 2023 m. gruodį „OLagoon“ gamykloje Dongguan. „OLagoon“ organizavo jūrų krovinio vežimą į Vankuverį su atvykimo data 2024 m. sausio 22 d. Pirmieji 800 vienetų buvo tiesiogiai perkelti į „North Ridge“ užsakymų vykdymo centrą Misisaugoje rytų Kanados platinimui. Iki 2024 m. kovo 1 d. kolekcija jau buvo prekyboje 34 REI lentynose, 18 MEC vietų ir NorthRidgeGear.com. Vien kovą „Discovery“ lenta pardavė 340 vienetų – 136 % prognozės. Iki 2024 m. birželio visos kolekcijos pajamos pasiekė $678,000 CAD, o „Angler“ žvejybos SUP turėjo laukiančių užsakymų iki rugpjūčio pabaigos.',
             },
           ],
           results: [
@@ -508,22 +508,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis – Medžiagų inovacijos Europos standartų atitikimui',
               detail:
-                '„Afarer“ mokslinių tyrimų ir plėtros komanda Guangzhou dešimt savaičių kūrė nuosavą 5 sluoksnių PVC laminatą, viršijantį ES REACH cheminio saugumo standartus ir Vokietijos GS saugos sertifikavimo reikalavimus. Iš Vokietijos tiekėjo (Karl Mayer Technische Textilien) buvo įsigyta tekstilės klasės „Drop Stitch“ siūlų, kad atitiktų „AlpenWerk“ rinkodaros kryptį „Pagaminta su Vokietijos technologijomis“. Keturi prototipai buvo pagaminti 2023 m. liepą ir išsiųsti testuoti į TÜV Rheinland. Du iš jų nepraėjo pradinio GS sertifikavimo dėl nepakankamo atsparumo dilimui prie uodegos pagalvėlės, todėl reikėjo 12 % padidinti PVC paviršinio sluoksnio storį nuo 0,8 mm iki 0,9 mm.',
+                '„OLagoon“ mokslinių tyrimų ir plėtros komanda Guangzhou dešimt savaičių kūrė nuosavą 5 sluoksnių PVC laminatą, viršijantį ES REACH cheminio saugumo standartus ir Vokietijos GS saugos sertifikavimo reikalavimus. Iš Vokietijos tiekėjo (Karl Mayer Technische Textilien) buvo įsigyta tekstilės klasės „Drop Stitch“ siūlų, kad atitiktų „AlpenWerk“ rinkodaros kryptį „Pagaminta su Vokietijos technologijomis“. Keturi prototipai buvo pagaminti 2023 m. liepą ir išsiųsti testuoti į TÜV Rheinland. Du iš jų nepraėjo pradinio GS sertifikavimo dėl nepakankamo atsparumo dilimui prie uodegos pagalvėlės, todėl reikėjo 12 % padidinti PVC paviršinio sluoksnio storį nuo 0,8 mm iki 0,9 mm.',
             },
             {
               title: '2 žingsnis – Derybos su mažmeninės prekybos pirkėjais ir lentynoms paruošta pakuotė',
               detail:
-                'Lena ir „Afarer“ Europos pardavimų direktorius pristatė kolekciją ISPO Miuncheno parodoje 2023 m. lapkritį. Buvo užsitikrinti išankstiniai užsakymai iš 38 Intersport vietų, 12 Globetrotter parduotuvių ir Bergfreunde.de. „Afarer“ suprojektavo lentynoms paruoštą mažmeninės prekybos pakuotę, atitinkančią Vokietijos pakavimo įstatymą (VerpackG): 100 % perdirbamą kartoninę dėžę su sojų rašalo spauda, be plastikinės sutraukiamosios plėvelės ir su QR kodu, nukreipiančiu į 3 minučių surinkimo vaizdo įrašą vokiečių kalba. Pakuotė kainavo €4.20 už vienetą, tačiau pašalino parduotuvėse atsirandančius prekių pažeidimus, kurie konkuruojantiems prekės ženklams, naudojantiems plastikinius maišus, siekdavo 2,3 %.',
+                'Lena ir „OLagoon“ Europos pardavimų direktorius pristatė kolekciją ISPO Miuncheno parodoje 2023 m. lapkritį. Buvo užsitikrinti išankstiniai užsakymai iš 38 Intersport vietų, 12 Globetrotter parduotuvių ir Bergfreunde.de. „OLagoon“ suprojektavo lentynoms paruoštą mažmeninės prekybos pakuotę, atitinkančią Vokietijos pakavimo įstatymą (VerpackG): 100 % perdirbamą kartoninę dėžę su sojų rašalo spauda, be plastikinės sutraukiamosios plėvelės ir su QR kodu, nukreipiančiu į 3 minučių surinkimo vaizdo įrašą vokiečių kalba. Pakuotė kainavo €4.20 už vienetą, tačiau pašalino parduotuvėse atsirandančius prekių pažeidimus, kurie konkuruojantiems prekės ženklams, naudojantiems plastikinius maišus, siekdavo 2,3 %.',
             },
             {
               title: '3 žingsnis – Europos sandėliavimo ir galutinio pristatymo platinimo sąranka',
               detail:
-                '„Afarer“ padėjo „AlpenWerk“ įsteigti platinimo centrą 3PL sandėlyje Dortmunde, talpinsiančiame 3 000 vienetų. Buvo sutartos DDP pristatymo sąlygos su Ningbo įsikūrusiu krovinio ekspeditoriumi, įskaitant muitinį išvalymą Hamburgo uoste ir vežimą į Dortmundą per 5 darbo dienas nuo laivo atvykimo. Sandėlio atsargos buvo sukonfigūruotos pagal Kanban sistemą: kai atsargos nukrisdavo žemiau 400 vienetų, į „Afarer“ gamyklą būdavo automatiškai inicijuojamas pakartotinis užsakymas su 45 dienų gamybos terminu. Pirmasis 1 500 vienetų konteineris atvyko 2024 m. vasario 15 d., o antrasis 1 200 vienetų konteineris – balandžio 10 d.',
+                '„OLagoon“ padėjo „AlpenWerk“ įsteigti platinimo centrą 3PL sandėlyje Dortmunde, talpinsiančiame 3 000 vienetų. Buvo sutartos DDP pristatymo sąlygos su Ningbo įsikūrusiu krovinio ekspeditoriumi, įskaitant muitinį išvalymą Hamburgo uoste ir vežimą į Dortmundą per 5 darbo dienas nuo laivo atvykimo. Sandėlio atsargos buvo sukonfigūruotos pagal Kanban sistemą: kai atsargos nukrisdavo žemiau 400 vienetų, į „OLagoon“ gamyklą būdavo automatiškai inicijuojamas pakartotinis užsakymas su 45 dienų gamybos terminu. Pirmasis 1 500 vienetų konteineris atvyko 2024 m. vasario 15 d., o antrasis 1 200 vienetų konteineris – balandžio 10 d.',
             },
             {
               title: '4 žingsnis – Paleidimo kampanija, įtakingų asmenų partnerystės ir pakartotinių užsakymų sparta',
               detail:
-                "„AlpenWerk“ 2024 m. kovo 1 d. visuose mažmeninės prekybos kanaluose ir alpenwerk.de paleido turistinius modelius „SeeWolf“ 10'8\", „Flussläufer“ 11'6\" ir „Gipfelstürmer“ 12'0“. „Afarer“ turinio komanda sukūrė 18 socialinių tinklų įrašų su Vokietijos SUP įtakingais asmenimis, tokiais kaip „SUP_mit_Michi“ (43 000 sekėjų) ir „PaddelPia“ (28 000 sekėjų). Iki 2024 m. gegužės 31 d. buvo parduota 1 870 vienetų – 87 % pradinio pardavimo. Intersport birželio 15 d. pateikė pakartotinį 450 vienetų užsakymą. Lenos tiesioginio pardavimo vartotojams internetinis kanalas generavo €320,000 pajamų su 54 % bendrąja marža ir pranoko pradinį 40 % maržos įvertinimą.",
+                "„AlpenWerk“ 2024 m. kovo 1 d. visuose mažmeninės prekybos kanaluose ir alpenwerk.de paleido turistinius modelius „SeeWolf“ 10'8\", „Flussläufer“ 11'6\" ir „Gipfelstürmer“ 12'0“. „OLagoon“ turinio komanda sukūrė 18 socialinių tinklų įrašų su Vokietijos SUP įtakingais asmenimis, tokiais kaip „SUP_mit_Michi“ (43 000 sekėjų) ir „PaddelPia“ (28 000 sekėjų). Iki 2024 m. gegužės 31 d. buvo parduota 1 870 vienetų – 87 % pradinio pardavimo. Intersport birželio 15 d. pateikė pakartotinį 450 vienetų užsakymą. Lenos tiesioginio pardavimo vartotojams internetinis kanalas generavo €320,000 pajamų su 54 % bendrąja marža ir pranoko pradinį 40 % maržos įvertinimą.",
             },
           ],
           results: [
@@ -535,8 +535,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl „Afarer“',
+    whyOLagoon: {
+      title: 'Kodėl „OLagoon“',
       items: [
         {
           title: 'Techninė kompetencija',
@@ -569,7 +569,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kaip mano lauko prekės ženklas gali plėstis į vandens sportą neturint SUP kompetencijos?',
         answer:
-          '„Afarer“ suteikia visą reikalingą gamybos kompetenciją, įskaitant „Drop Stitch“ technologiją, PVC inžineriją ir produktų dizainą. Jūsų prekės ženklas prisideda su klientų žiniomis, o mes pasirūpiname technine gamyba.',
+          '„OLagoon“ suteikia visą reikalingą gamybos kompetenciją, įskaitant „Drop Stitch“ technologiją, PVC inžineriją ir produktų dizainą. Jūsų prekės ženklas prisideda su klientų žiniomis, o mes pasirūpiname technine gamyba.',
       },
       {
         question: 'Kokius vandens sporto produktus jūs gaminate?',
@@ -579,7 +579,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar galite atitikti mano esamus prekės ženklo kokybės standartus?',
         answer:
-          'Taip. „Afarer“ kuria produktus pagal jūsų dizaino kalbą, kokybės standartus ir rinkos pozicionavimą, taikydami griežtą kokybės kontrolę visoje gamyboje.',
+          'Taip. „OLagoon“ kuria produktus pagal jūsų dizaino kalbą, kokybės standartus ir rinkos pozicionavimą, taikydami griežtą kokybės kontrolę visoje gamyboje.',
       },
       {
         question: 'Koks įprastas užsakymo kiekis įsitvirtinusiems prekės ženklams?',
@@ -611,15 +611,15 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pripučiamų SUP sprendimai serfo parduotuvėms | Private label gamintojas | {SITE}',
       description:
-        'Afarer padeda serfo parduotuvėms ir vandens gyvenimo būdo prekės ženklams plėstis su private label pripučiamomis SUP lentomis ir pagal užsakymą gaminamais vandens sporto produktais. Sumažinkite transportavimo, sandėliavimo ir atsargų kaštus naudodami pažangią pripučiamųjų technologiją.',
+        'OLagoon padeda serfo parduotuvėms ir vandens gyvenimo būdo prekės ženklams plėstis su private label pripučiamomis SUP lentomis ir pagal užsakymą gaminamais vandens sporto produktais. Sumažinkite transportavimo, sandėliavimo ir atsargų kaštus naudodami pažangią pripučiamųjų technologiją.',
     },
     hero: {
       tagline: 'Įtraukite pripučiamąją technologiją į serfo verslą™',
       title: 'Pripučiamų SUP sprendimai serfo parduotuvėms ir pakrančių verslams',
       subtitle:
-        'Afarer padeda serfo parduotuvėms ir vandens gyvenimo būdo prekės ženklams plėstis su private label pripučiamomis SUP lentomis ir pagal užsakymą gaminamais vandens sporto produktais. Sumažinkite transportavimo, sandėliavimo ir atsargų kaštus naudodami pažangią pripučiamųjų technologiją.',
+        'OLagoon padeda serfo parduotuvėms ir vandens gyvenimo būdo prekės ženklams plėstis su private label pripučiamomis SUP lentomis ir pagal užsakymą gaminamais vandens sporto produktais. Sumažinkite transportavimo, sandėliavimo ir atsargų kaštus naudodami pažangią pripučiamųjų technologiją.',
       image: {
-        alt: 'Afarer pagal užsakymą gaminamų SUP lentų aprašymas',
+        alt: 'OLagoon pagal užsakymą gaminamų SUP lentų aprašymas',
       },
     },
     challenge: {
@@ -733,7 +733,7 @@ const lt: Record<string, SolutionOverride> = {
       customer:
         'Europos pakrantės serfo parduotuvės prekės ženklas, įsikūręs Atlanto vandenyno pakrantėje Europoje. Iš pradžių specializavosi serfo lentose, serfo prieduose ir paplūdimio gyvenimo būdo produktuose, turėdamas stiprią vietinę klientų bendruomenę.',
       steps: [
-        "Afarer rekomendavo pripučiamų SUP kolekciją, įskaitant 10'6 universalų SUP, 12'6 turistinį SUP ir šeimos rinkinius, pritaikytus parduotuvės vietai prie paplūdimio ir klientų bazei.",
+        "OLagoon rekomendavo pripučiamų SUP kolekciją, įskaitant 10'6 universalų SUP, 12'6 turistinį SUP ir šeimos rinkinius, pritaikytus parduotuvės vietai prie paplūdimio ir klientų bazei.",
         'Sukūrė individualią lentų grafiką, prekės ženklo spalvas ir mažmeninės prekybos pakavimą, atitinkantį serfo parduotuvės esamą prekės ženklo tapatybę ir paplūdimio gyvenimo būdo pozicionavimą.',
         'Pakeitė verslo modelį iš tradicinės serfo mažmeninės prekybos į išsamų vandens gyvenimo būdo verslą, pridėdamas SUP pardavimus, nuomos rinkinius ir pamokas pradedantiesiems.',
         'Paleido pripučiamų produktų liniją, papildančią esamus kietųjų lentų pasiūlymus nedidinant sandėliavimo spaudimo.',
@@ -758,17 +758,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis – charakteristikų etaloninis vertinimas ir medžiagų parinkimas',
               detail:
-                'Afarer produktų inžinieriai 2023 m. vasarį aplankė Gold Coast ir atliko aklojo bandymo testus su 12 Brendan instruktorių. Kiekvienas instruktorius išbandė 6 pripučiamas prototipines lentas, lygindamas jas su standartine 9\'0" epoksidine minkšto viršaus lenta pagal 4 rodiklius: stovint jaučiamas stabilumas (vertinama 1–10), irklo slydimas (sekundės 50 m įveikti), sukimosi iš vieno borto ant kito reakcija ir studentų pasitikėjimo įvertinimas. Laimėjęs prototipas, pažymėtas M9-IS, naudojo 3 sluoksnių „drop-stitch" branduolį su viso ilgio 0.5 mm EVA denio kilimėliu ir sustiprintu bambuko stringeriu. Instruktoriai bendrai įvertino jį 8.7/10, o epoksidines lentas — 7.4/10. Brendan užsakė 60 vienetų 2023 m. kovą.',
+                'OLagoon produktų inžinieriai 2023 m. vasarį aplankė Gold Coast ir atliko aklojo bandymo testus su 12 Brendan instruktorių. Kiekvienas instruktorius išbandė 6 pripučiamas prototipines lentas, lygindamas jas su standartine 9\'0" epoksidine minkšto viršaus lenta pagal 4 rodiklius: stovint jaučiamas stabilumas (vertinama 1–10), irklo slydimas (sekundės 50 m įveikti), sukimosi iš vieno borto ant kito reakcija ir studentų pasitikėjimo įvertinimas. Laimėjęs prototipas, pažymėtas M9-IS, naudojo 3 sluoksnių „drop-stitch" branduolį su viso ilgio 0.5 mm EVA denio kilimėliu ir sustiprintu bambuko stringeriu. Instruktoriai bendrai įvertino jį 8.7/10, o epoksidines lentas — 7.4/10. Brendan užsakė 60 vienetų 2023 m. kovą.',
             },
             {
               title: '2 žingsnis – komercinis patvarumo testavimas mokyklos sąlygomis',
               detail:
-                'Brendan ir Afarer susitarė dėl 4 mėnesių bandomojo projekto Surfers Paradise vietoje, naudodami 20 prototipinių lentų, kurių kiekviena atlaikė po 1,200 nuomos ciklų. Kiekviena lenta buvo naudojama vidutiniškai 14 kartų per savaitę pradedančiųjų studentų (60–90 kg diapazone). Afarer komanda stebėjo 6 gedimų rodiklius: siūlių vientisumą, vožtuvų nuotėkį, denio kilimėlio sukibimą, UV spalvos pasikeitimą, bortų dilimą ir pelekų dėžių vientisumą. Trečią mėnesį 3 lentų denio kilimėliai pradėjo luptis ties nosies kontakto tašku — Afarer pakeitė klijų sudėtį šilumai aktyvuota poliuretano plėvele ir pakeitė paveiktas lentas. Iki 2023 m. birželio bandomasis projektas užfiksavo nulinį struktūrinių gedimų skaičių ir 97.3% pasiekiamumo rodiklį.',
+                'Brendan ir OLagoon susitarė dėl 4 mėnesių bandomojo projekto Surfers Paradise vietoje, naudodami 20 prototipinių lentų, kurių kiekviena atlaikė po 1,200 nuomos ciklų. Kiekviena lenta buvo naudojama vidutiniškai 14 kartų per savaitę pradedančiųjų studentų (60–90 kg diapazone). OLagoon komanda stebėjo 6 gedimų rodiklius: siūlių vientisumą, vožtuvų nuotėkį, denio kilimėlio sukibimą, UV spalvos pasikeitimą, bortų dilimą ir pelekų dėžių vientisumą. Trečią mėnesį 3 lentų denio kilimėliai pradėjo luptis ties nosies kontakto tašku — OLagoon pakeitė klijų sudėtį šilumai aktyvuota poliuretano plėvele ir pakeitė paveiktas lentas. Iki 2023 m. birželio bandomasis projektas užfiksavo nulinį struktūrinių gedimų skaičių ir 97.3% pasiekiamumo rodiklį.',
             },
             {
               title: '3 žingsnis – viso parko išdiegimas, mokymai ir sandėliavimo infrastruktūra',
               detail:
-                '2023 m. liepą Brendan pateikė antrąjį pirkimo užsakymą (PO) dar 50 M9-IS lentų, taip padidindamas savo pripučiamų lentų parką iki 70 vienetų (58% viso). Afarer logistikos komanda išsiuntė lentas sulankstomose 32-L kuprinėse, kurios sumažino sandėliavimo tūrį 80%, palyginti su kietosiomis lentomis — esminis pranašumas, turint omenyje Brendano 65 m² sandėlį Burleigh Heads. Afarer sukūrė 14 minučių mokomąjį vaizdo įrašą Brendano 22 instruktoriams apie tinkamą pripūtimo slėgį (15 PSI serfui, 18 PSI ramiam vandeniui), sūraus vandens skalavimo protokolą ir 5 punktų kontrolinį sąrašą prieš pamoką. Visas parkas buvo išdiegtas iki 2023 m. rugsėjo 1 d. — Australijos pavasario sezono pradžios.',
+                '2023 m. liepą Brendan pateikė antrąjį pirkimo užsakymą (PO) dar 50 M9-IS lentų, taip padidindamas savo pripučiamų lentų parką iki 70 vienetų (58% viso). OLagoon logistikos komanda išsiuntė lentas sulankstomose 32-L kuprinėse, kurios sumažino sandėliavimo tūrį 80%, palyginti su kietosiomis lentomis — esminis pranašumas, turint omenyje Brendano 65 m² sandėlį Burleigh Heads. OLagoon sukūrė 14 minučių mokomąjį vaizdo įrašą Brendano 22 instruktoriams apie tinkamą pripūtimo slėgį (15 PSI serfui, 18 PSI ramiam vandeniui), sūraus vandens skalavimo protokolą ir 5 punktų kontrolinį sąrašą prieš pamoką. Visas parkas buvo išdiegtas iki 2023 m. rugsėjo 1 d. — Australijos pavasario sezono pradžios.',
             },
             {
               title: '4 žingsnis – operacinio poveikio matavimas ir kaštų bei naudos analizė',
@@ -795,17 +795,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis – valiutos riziką dengiantis įsigijimas ir kaštų modeliavimas',
               detail:
-                'Afarer finansų komanda 2022 m. spalio–gruodžio mėnesiais dirbo su Thabo, kad sudarytų pirkimo sutartį, denomintuotą Pietų Afrikos randais (ZAR), su 6 mėnesių fiksuoto valiutos kurso sąlyga R17.80/USD, apsaugodama jį nuo ZAR svyravimų, kurie 2022 m. liepą pasiekė 19.20/USD. Afarer rado gamyklą Shenzhen mieste, galinčią gaminti dvigubo sluoksnio Fusion PVC lentą su 5 metų UV garantija, savikaina R3,100 už vienetą (įskaitant 22% importo muito mokesčius, logistiką ir muito tarpininkavimo paslaugas). Thabo mažmeninė kaina R7,200 suteikė jam 56.9% bendrąją maržą — žymiai aukščiau jo 22% vidurkio prekės ženklų lentoms.',
+                'OLagoon finansų komanda 2022 m. spalio–gruodžio mėnesiais dirbo su Thabo, kad sudarytų pirkimo sutartį, denomintuotą Pietų Afrikos randais (ZAR), su 6 mėnesių fiksuoto valiutos kurso sąlyga R17.80/USD, apsaugodama jį nuo ZAR svyravimų, kurie 2022 m. liepą pasiekė 19.20/USD. OLagoon rado gamyklą Shenzhen mieste, galinčią gaminti dvigubo sluoksnio Fusion PVC lentą su 5 metų UV garantija, savikaina R3,100 už vienetą (įskaitant 22% importo muito mokesčius, logistiką ir muito tarpininkavimo paslaugas). Thabo mažmeninė kaina R7,200 suteikė jam 56.9% bendrąją maržą — žymiai aukščiau jo 22% vidurkio prekės ženklų lentoms.',
             },
             {
               title: '2 žingsnis – Cape Town įkvėptas dizainas ir kultūrinis prekės ženklo kūrimas',
               detail:
-                'Afarer grafikos dizaineriai bendradarbiavo su vietine Cape Town iliustratore Mbali Dlamini, sukurdami 3 individualius denio dizainus: „Seal Island" (su Pietų Afrikos jūrų lokiais), „Chapman\'s Peak" (kalnų siluetas) ir „Boulder\'s Beach" (Afrikos pingvinai). Kiekvienas dizainas naudojo 6 spalvų terminio perkėlimo spausdinimą su UV atspariais dažais, išbandytais 500+ valandų saulės poveikio. Lentos turėjo unikalią funkciją Pietų Afrikos rinkai: sustiprinta tvirtinimo sistema nosyje vandeniui atspariems krepšiams (populiarusioms daugiadienėms irklavimo kelionėms palei Skeleton Coast iki Durban). Thabo paleido svetainę (kalkbaysurfco.co.za) Shopify platformoje su Afarer produktų fotografija, daryta Muizenberg Beach.',
+                'OLagoon grafikos dizaineriai bendradarbiavo su vietine Cape Town iliustratore Mbali Dlamini, sukurdami 3 individualius denio dizainus: „Seal Island" (su Pietų Afrikos jūrų lokiais), „Chapman\'s Peak" (kalnų siluetas) ir „Boulder\'s Beach" (Afrikos pingvinai). Kiekvienas dizainas naudojo 6 spalvų terminio perkėlimo spausdinimą su UV atspariais dažais, išbandytais 500+ valandų saulės poveikio. Lentos turėjo unikalią funkciją Pietų Afrikos rinkai: sustiprinta tvirtinimo sistema nosyje vandeniui atspariems krepšiams (populiarusioms daugiadienėms irklavimo kelionėms palei Skeleton Coast iki Durban). Thabo paleido svetainę (kalkbaysurfco.co.za) Shopify platformoje su OLagoon produktų fotografija, daryta Muizenberg Beach.',
             },
             {
               title: '3 žingsnis – pavyzdžių gamyba, kokybės testavimas ir sertifikavimas',
               detail:
-                '2023 m. sausį Afarer pagamino po 6 pavyzdžius kiekvienam SKU. Thabo ir du vietiniai serfo lentų formuotojai (bendrai turintys daugiau nei 50 metų patirties) atliko ardomąjį testavimą: kiekviena lenta buvo pripūsta iki 25 PSI (125% nominalaus slėgio) ir laikyta 72 valandas — visi pavyzdžiai išlaikė, praradę mažiau nei 0.5 PSI. Jie išbandė siūlių stiprumą skaitmeniniu tempimo matuokliu, reikalaudami mažiausiai 120 N/cm (pavyzdžiai vidutiniškai pasiekė 138 N/cm). 2023 m. vasarį Thabo pasiėmė 3 lentas į 5 dienų vadovaujamą irklavimo kelionę iš Arniston į Struisbaai (120 km), imituodamas intensyvaus naudojimo turų sąlygas. Vienos lentos pelekų dėžė atsileido po 80 km — Afarer pakeitė nailoninę pelekų dėžę nerūdijančiu plienu sustiprinta versija.',
+                '2023 m. sausį OLagoon pagamino po 6 pavyzdžius kiekvienam SKU. Thabo ir du vietiniai serfo lentų formuotojai (bendrai turintys daugiau nei 50 metų patirties) atliko ardomąjį testavimą: kiekviena lenta buvo pripūsta iki 25 PSI (125% nominalaus slėgio) ir laikyta 72 valandas — visi pavyzdžiai išlaikė, praradę mažiau nei 0.5 PSI. Jie išbandė siūlių stiprumą skaitmeniniu tempimo matuokliu, reikalaudami mažiausiai 120 N/cm (pavyzdžiai vidutiniškai pasiekė 138 N/cm). 2023 m. vasarį Thabo pasiėmė 3 lentas į 5 dienų vadovaujamą irklavimo kelionę iš Arniston į Struisbaai (120 km), imituodamas intensyvaus naudojimo turų sąlygas. Vienos lentos pelekų dėžė atsileido po 80 km — OLagoon pakeitė nailoninę pelekų dėžę nerūdijančiu plienu sustiprinta versija.',
             },
             {
               title: '4 žingsnis – mažmeninis paleidimas, partnerystės su turų operatoriais ir pakartotinis užsakymas',
@@ -822,8 +822,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl Afarer',
+    whyOLagoon: {
+      title: 'Kodėl OLagoon',
       items: [
         {
           title: 'Serfo rinkos supratimas',
@@ -871,7 +871,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar galite sukurti savo prekės ženklo pripučiamų SUP liniją?',
         answer:
-          'Taip. Afarer teikia išsamius private label sprendimus, įskaitant individualų lentų dizainą, grafiką, spalvas, pakavimą ir priedus su jūsų serfo prekės ženklo vardu.',
+          'Taip. OLagoon teikia išsamius private label sprendimus, įskaitant individualų lentų dizainą, grafiką, spalvas, pakavimą ir priedus su jūsų serfo prekės ženklo vardu.',
       },
       {
         question: 'Kiek galite sutaupyti transportavimo kaštų su pripučiamomis lentomis?',
@@ -881,7 +881,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar siūlote nuomos lygio produktus serfo mokykloms?',
         answer:
-          'Taip. Afarer kuria patvarius produktus, skirtus dažnai nuomos naudai, su lengva priežiūra, patikimais priedais ir efektyviu parko įkainojimu.',
+          'Taip. OLagoon kuria patvarius produktus, skirtus dažnai nuomos naudai, su lengva priežiūra, patikimais priedais ir efektyviu parko įkainojimu.',
       },
       {
         question: 'Ar galite savo parduotuvėje derinti kietąsias lentas ir pripučiamus produktus?',
@@ -903,15 +903,15 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Amazon SUP prekės ženklų tiekėjas | Pagal užsakymą gaminamų pripučiamų SUP lentų gamintojas | {SITE}',
       description:
-        'Afarer padeda Amazon, Walmart ir Shopify pardavėjams kurti diferencijuotus SUP prekės ženklus — su pagal užsakymą gaminamomis pripučiamomis SUP lentomis, private label gamyba, unikalia grafika, greita tiekimo grandine ir el. prekybos produktų palaikymu.',
+        'OLagoon padeda Amazon, Walmart ir Shopify pardavėjams kurti diferencijuotus SUP prekės ženklus — su pagal užsakymą gaminamomis pripučiamomis SUP lentomis, private label gamyba, unikalia grafika, greita tiekimo grandine ir el. prekybos produktų palaikymu.',
     },
     hero: {
       tagline: 'Produktų diferencijavimas ir greitas tiekimas™',
       title: 'Diferencijuoti SUP produktai el. prekybos platformų pardavėjams',
       subtitle:
-        'Afarer padeda Amazon, Walmart ir Shopify pardavėjams kurti diferencijuotus SUP prekės ženklus — su pagal užsakymą gaminamomis pripučiamomis SUP lentomis, private label gamyba, unikalia grafika, greita tiekimo grandine ir el. prekybos produktų palaikymu.',
+        'OLagoon padeda Amazon, Walmart ir Shopify pardavėjams kurti diferencijuotus SUP prekės ženklus — su pagal užsakymą gaminamomis pripučiamomis SUP lentomis, private label gamyba, unikalia grafika, greita tiekimo grandine ir el. prekybos produktų palaikymu.',
       image: {
-        alt: 'Afarer pagal užsakymą gaminamų SUP lentų aprašymas',
+        alt: 'OLagoon pagal užsakymą gaminamų SUP lentų aprašymas',
       },
     },
     challenge: {
@@ -1026,7 +1026,7 @@ const lt: Record<string, SolutionOverride> = {
       customer:
         'JAV Amazon lauko prekių pardavėjas, anksčiau per Amazon ir Shopify kanalus pardavinėjęs kempingo reikmenis, lauko produktus ir treniravimo įrangą.',
       steps: [
-        'Afarer padėjo nustatyti tikslinį klientą — jaunus lauko gyvenimo būdo vartotojus — ir pozicionavo produktą kaip prieinamą SUP su premium išvaizda ir unikalia vizualine tapatybe.',
+        'OLagoon padėjo nustatyti tikslinį klientą — jaunus lauko gyvenimo būdo vartotojus — ir pozicionavo produktą kaip prieinamą SUP su premium išvaizda ir unikalia vizualine tapatybe.',
         "Sukūrė pagal užsakymą gaminamą 10'6 pripučiamą SUP su unikalia lentos grafika, premium spalvų sistema, patobulintu priedų rinkiniu ir prekės ženklo pakavimu.",
         'Paruošė el. prekybos turinio strategiją, įskaitant produkto vaizdų struktūrą, funkcijų pristatymą ir gyvenimo būdo vizualinę kryptį platformų sąrašams.',
         'Paleido 500 vienetų — Amazon paleidimui, reklamos testavimui ir klientų atsiliepimų rinkimui.',
@@ -1051,22 +1051,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis - Amazon kategorijos analizė ir SKU architektūra',
               detail:
-                '2023 m. sausį Afarer el. prekybos strategijos komanda, naudodama Helium 10 ir Jungle Scout įrankius, atliko išsamią Amazon UK SUP kategorijos analizę. Buvo nustatyta, kad 78% pirmą kartą perkančių pirkėjų ieškojo „išsamių rinkinių" (lenta + irklas + siurblys + krepšys + saugos virvė + pelekas), tačiau tik 4 prekės ženklai siūlė tikrą „viskas viename" rinkinį su premium priedais. Afarer pasiūlė 3-SKU liniją: „AquaStart 10\'6" Complete Kit" (£449 tikslinė kaina), „AquaStart 11\'0" Touring Kit" (£549) ir „AquaStart Duo" (£699 — šeimos paketas su 2 lentomis). Kiekvienas rinkinys apėmė rankinį siurblį su slėgio matuokliu, trijų dalių anglies pluošto irklą, spiralinę saugos virvę, 5" nuimamą US peleką ir vandeniui atsparų telefono dėklą — taip išsiskiriant iš konkurentų, kurie daugumą priedų pardavinėjo atskirai.',
+                '2023 m. sausį OLagoon el. prekybos strategijos komanda, naudodama Helium 10 ir Jungle Scout įrankius, atliko išsamią Amazon UK SUP kategorijos analizę. Buvo nustatyta, kad 78% pirmą kartą perkančių pirkėjų ieškojo „išsamių rinkinių" (lenta + irklas + siurblys + krepšys + saugos virvė + pelekas), tačiau tik 4 prekės ženklai siūlė tikrą „viskas viename" rinkinį su premium priedais. OLagoon pasiūlė 3-SKU liniją: „AquaStart 10\'6" Complete Kit" (£449 tikslinė kaina), „AquaStart 11\'0" Touring Kit" (£549) ir „AquaStart Duo" (£699 — šeimos paketas su 2 lentomis). Kiekvienas rinkinys apėmė rankinį siurblį su slėgio matuokliu, trijų dalių anglies pluošto irklą, spiralinę saugos virvę, 5" nuimamą US peleką ir vandeniui atsparų telefono dėklą — taip išsiskiriant iš konkurentų, kurie daugumą priedų pardavinėjo atskirai.',
             },
             {
               title: '2 žingsnis - Pakavimo dizainas el. prekybai ir FBA reikalavimų atitikimui',
               detail:
-                'Afarer suprojektavo mažmeninei prekybai paruoštą pakuotę, atitinkančią Amazon FBA matmenų apribojimus: 10\'6" lentos dėžė siekė 34" × 18" × 14" ir svėrė 14,2 kg — mažiau nei Amazon nustatyta 15 kg riba, siekiant išvengti didelių ir gremėzdiškų siuntų mokesčių. Dėžės abiejuose šonuose buvo iškirptos rankenos sandėlio darbuotojams. Viduje lenta buvo suvakuota į 0,1 mm PE maišelį ir kartu su priedais sudėta į pagal užsakymą išpjautus EVA putplasčio įdėklus. Kiekvienas priedas buvo atskirai supakuotas į polietileno maišelį su AquaStart prekės ženklu. Pakuotėje taip pat buvo „Greito paleidimo vadovas" (QR kodas su nuoroda į 6 minučių išpakavimo vaizdo įrašą). Afarer pakavimo inžinierius, palyginti su pradiniu dizainu, sumažino bendrą dėžės tūrį 22%, taip sutaupydamas Priya £1.80 vieneto FBA įvykdymo mokesčiuose.',
+                'OLagoon suprojektavo mažmeninei prekybai paruoštą pakuotę, atitinkančią Amazon FBA matmenų apribojimus: 10\'6" lentos dėžė siekė 34" × 18" × 14" ir svėrė 14,2 kg — mažiau nei Amazon nustatyta 15 kg riba, siekiant išvengti didelių ir gremėzdiškų siuntų mokesčių. Dėžės abiejuose šonuose buvo iškirptos rankenos sandėlio darbuotojams. Viduje lenta buvo suvakuota į 0,1 mm PE maišelį ir kartu su priedais sudėta į pagal užsakymą išpjautus EVA putplasčio įdėklus. Kiekvienas priedas buvo atskirai supakuotas į polietileno maišelį su AquaStart prekės ženklu. Pakuotėje taip pat buvo „Greito paleidimo vadovas" (QR kodas su nuoroda į 6 minučių išpakavimo vaizdo įrašą). OLagoon pakavimo inžinierius, palyginti su pradiniu dizainu, sumažino bendrą dėžės tūrį 22%, taip sutaupydamas Priya £1.80 vieneto FBA įvykdymo mokesčiuose.',
             },
             {
               title: '3 žingsnis - Amazon sąrašų optimizavimas, A+ turinys ir paleidimo strategija',
               detail:
-                'Afarer turinio studija sukūrė 14 A+ modulio vaizdų, 6 gyvenimo būdo nuotraukas, darytas Windermere ežere, 90 sekundžių prekės ženklo istorijos vaizdo įrašą ir 360 laipsnių produktų peržiūrą. Buvo parašyti raktažodžiais optimizuoti punktai, nukreipti į 237 ilgosios uodegos raktažodžius, nustatytus Amazon paieškos terminų ataskaitoje. Paleidimo strategija numatė 21 dienų „Vine" programą (30 vienetų su 50% nuolaida) pradiniam atsiliepimų greičiui kurti, o vėliau — £2,000 Amazon PPC kampaniją (Sponsored Products + Sponsored Brand), dienos biudžetą paskirstant 3 SKU. Kampanija startavo 2023 m. balandžio 15 d. Iki 45-osios dienos AquaStart turėjo 24 atsiliepimus su 4,6 žvaigždučių vidurkiu, o 10\'6" rinkinys SUP kategorijoje pasiekė #17 poziciją.',
+                'OLagoon turinio studija sukūrė 14 A+ modulio vaizdų, 6 gyvenimo būdo nuotraukas, darytas Windermere ežere, 90 sekundžių prekės ženklo istorijos vaizdo įrašą ir 360 laipsnių produktų peržiūrą. Buvo parašyti raktažodžiais optimizuoti punktai, nukreipti į 237 ilgosios uodegos raktažodžius, nustatytus Amazon paieškos terminų ataskaitoje. Paleidimo strategija numatė 21 dienų „Vine" programą (30 vienetų su 50% nuolaida) pradiniam atsiliepimų greičiui kurti, o vėliau — £2,000 Amazon PPC kampaniją (Sponsored Products + Sponsored Brand), dienos biudžetą paskirstant 3 SKU. Kampanija startavo 2023 m. balandžio 15 d. Iki 45-osios dienos AquaStart turėjo 24 atsiliepimus su 4,6 žvaigždučių vidurkiu, o 10\'6" rinkinys SUP kategorijoje pasiekė #17 poziciją.',
             },
             {
               title: '4 žingsnis - Atsargų valdymas, paklausos prognozavimas ir antroji gamybos partija',
               detail:
-                'Afarer paklausos planavimo komanda, naudodama Amazon istorinius duomenis, Google Trends (SUP irklavimo paieškos apimtys JK) ir sezoninius veiksnius, sukūrė 6 mėnesių prognozės modelį. Modelis prognozavo 410 vienetų pardavimą iki 2023 m. rugsėjo. Pirmoji Priya gamybos partija — 500 vienetų (300 × 10\'6", 120 × 11\'0", 80 × Duo) — buvo išsiųsta į Amazon FBA centrus Mančesteryje ir Donkasteryje. Faktinis pardavimas iki rugsėjo 30 d. siekė 386 vienetus — nuo prognozės nukrypsta mažiau nei 6%. 2023 m. spalį buvo užsakyta antroji 700 vienetų gamybos partija su 2 svarbiais pakeitimais: sustiprintos nešiojamo krepšio rankenos (9 lūžimo atvejai iš pirmosios partijos) ir patobulinti nerūdijančio plieno D žiedai (po 4 nusiskundimų dėl korozijos). Iki 2023 m. gruodžio AquaStart UK pajamos siekė £298,000, o 10\'6" rinkinys Amazon UK laikė #12 poziciją.',
+                'OLagoon paklausos planavimo komanda, naudodama Amazon istorinius duomenis, Google Trends (SUP irklavimo paieškos apimtys JK) ir sezoninius veiksnius, sukūrė 6 mėnesių prognozės modelį. Modelis prognozavo 410 vienetų pardavimą iki 2023 m. rugsėjo. Pirmoji Priya gamybos partija — 500 vienetų (300 × 10\'6", 120 × 11\'0", 80 × Duo) — buvo išsiųsta į Amazon FBA centrus Mančesteryje ir Donkasteryje. Faktinis pardavimas iki rugsėjo 30 d. siekė 386 vienetus — nuo prognozės nukrypsta mažiau nei 6%. 2023 m. spalį buvo užsakyta antroji 700 vienetų gamybos partija su 2 svarbiais pakeitimais: sustiprintos nešiojamo krepšio rankenos (9 lūžimo atvejai iš pirmosios partijos) ir patobulinti nerūdijančio plieno D žiedai (po 4 nusiskundimų dėl korozijos). Iki 2023 m. gruodžio AquaStart UK pajamos siekė £298,000, o 10\'6" rinkinys Amazon UK laikė #12 poziciją.',
             },
           ],
           results: [
@@ -1088,22 +1088,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis - Perdirbtų medžiagų šaltinių paieška ir tiekimo grandinės sertifikavimas',
               detail:
-                'Nuo 2023 m. sausio iki balandžio Afarer skyrė 14 savaičių perdirbto PVC laminatui kurti, naudodama pramonines audinių atliekas iš savo gamyklos cechų. Medžiaga, pavadinta „EcoShell RPVC", svorio atžvilgiu turėjo 63% perdirbtų medžiagų ir pasiekė 3200 N/5 cm tempimo stiprį (palyginimui — 3500 N pirminiam PVC). Afarer gavo šiai medžiagai GRS (Global Recycled Standard) sertifikatą ir organizavo nepriklausomą gyvavimo ciklo vertinimą, rodantį 37% mažesnę CO₂e emisiją vienai lentai, palyginti su pirminio PVC lentomis. Felix komanda iš Berlyno perdirbimo kooperatyvo gavo 50 000 perdirbtų PET butelių nešiojimo krepšio audiniui ir denio kilimėlio EVA (30% perdirbtų medžiagų) gaminti. Bendra tvarių medžiagų kainos priemoka buvo €18 už lentą, kurią Afarer įskaitė į savo maržą, kad UrbanPulse galėtų pasiekti tikslinę mažmeninę kainą.',
+                'Nuo 2023 m. sausio iki balandžio OLagoon skyrė 14 savaičių perdirbto PVC laminatui kurti, naudodama pramonines audinių atliekas iš savo gamyklos cechų. Medžiaga, pavadinta „EcoShell RPVC", svorio atžvilgiu turėjo 63% perdirbtų medžiagų ir pasiekė 3200 N/5 cm tempimo stiprį (palyginimui — 3500 N pirminiam PVC). OLagoon gavo šiai medžiagai GRS (Global Recycled Standard) sertifikatą ir organizavo nepriklausomą gyvavimo ciklo vertinimą, rodantį 37% mažesnę CO₂e emisiją vienai lentai, palyginti su pirminio PVC lentomis. Felix komanda iš Berlyno perdirbimo kooperatyvo gavo 50 000 perdirbtų PET butelių nešiojimo krepšio audiniui ir denio kilimėlio EVA (30% perdirbtų medžiagų) gaminti. Bendra tvarių medžiagų kainos priemoka buvo €18 už lentą, kurią OLagoon įskaitė į savo maržą, kad UrbanPulse galėtų pasiekti tikslinę mažmeninę kainą.',
             },
             {
               title: '2 žingsnis - Neutralaus anglies pėdsako įvykdymas ir DTC logistikos architektūra',
               detail:
-                'Afarer logistikos komanda UrbanPulse klientui bendradarbiavo su DHL GoGreen Climate Neutral, kompensuodama 1,8 kg CO₂ už kiekvieną išsiųstą lentą (įskaitant jūrų krovinį iš Kinijos į Hamburgą ir paskutinio mylio pristatymą). UrbanPulse Kiolno sandėlyje buvo įrengta atskira 200 m² įvykdymo zona su specialiais stelažais pripučiamų SUP dėžėms. Kiekviena siunta turėjo iš anksto apmokėtą kartoninės dėžės grąžinimo etiketę (spausdintą ant 100% perdirbto FSC sertifikuoto kartono su sojų rašalu). Afarer pakavimo dizainas visiškai pašalino vienkartinį plastiką: lenta buvo įvyniota į kompostuojamą PBAT/PLA plėvelę, priedai sutvirtinti popierine juosta, o naudotojo vadovas atspausdintas ant sėklų popieriaus (perskaitę jį pasodinkite).',
+                'OLagoon logistikos komanda UrbanPulse klientui bendradarbiavo su DHL GoGreen Climate Neutral, kompensuodama 1,8 kg CO₂ už kiekvieną išsiųstą lentą (įskaitant jūrų krovinį iš Kinijos į Hamburgą ir paskutinio mylio pristatymą). UrbanPulse Kiolno sandėlyje buvo įrengta atskira 200 m² įvykdymo zona su specialiais stelažais pripučiamų SUP dėžėms. Kiekviena siunta turėjo iš anksto apmokėtą kartoninės dėžės grąžinimo etiketę (spausdintą ant 100% perdirbto FSC sertifikuoto kartono su sojų rašalu). OLagoon pakavimo dizainas visiškai pašalino vienkartinį plastiką: lenta buvo įvyniota į kompostuojamą PBAT/PLA plėvelę, priedai sutvirtinti popierine juosta, o naudotojo vadovas atspausdintas ant sėklų popieriaus (perskaitę jį pasodinkite).',
             },
             {
               title: '3 žingsnis - Shopify integracija, turinys prieš paleidimą ir influencerių strategija',
               detail:
-                'Afarer el. prekybos komanda integravo UrbanPulse Shopify parduotuvę su pasirinktiniu produktų konfiguratoriumi, leidžiančiu klientams rinktis lentos spalvą (3 parinktys), irklo spalvą (2 parinktys) ir pridėti „tvarumo ženklelį" su lentos serijiniu numeriu ir tiksliu perdirbtų medžiagų kiekiu (gramais). Afarer sukūrė 6 trumpo formato vaizdo įrašus (15–45 sekundžių) su Berlyno SUP influenceriais „GreenPaddle" ir „ElisePaddlesBerlin" (iš viso 72 000 sekėjų). Turinys akcentavo „miestietišką SUP irklavimą" Berlyno kanaluose ir ežeruose, pozicionuodamas SUP kaip miestiečio savaitgalio veiklą. Prieš paleidimą išsiųsta el. pašto kampanija (12 000 UrbanPulse prenumeratorių) pasiekė 34% atidarymo rodiklį ir 2100 paspaudimų į produkto puslapį.',
+                'OLagoon el. prekybos komanda integravo UrbanPulse Shopify parduotuvę su pasirinktiniu produktų konfiguratoriumi, leidžiančiu klientams rinktis lentos spalvą (3 parinktys), irklo spalvą (2 parinktys) ir pridėti „tvarumo ženklelį" su lentos serijiniu numeriu ir tiksliu perdirbtų medžiagų kiekiu (gramais). OLagoon sukūrė 6 trumpo formato vaizdo įrašus (15–45 sekundžių) su Berlyno SUP influenceriais „GreenPaddle" ir „ElisePaddlesBerlin" (iš viso 72 000 sekėjų). Turinys akcentavo „miestietišką SUP irklavimą" Berlyno kanaluose ir ežeruose, pozicionuodamas SUP kaip miestiečio savaitgalio veiklą. Prieš paleidimą išsiųsta el. pašto kampanija (12 000 UrbanPulse prenumeratorių) pasiekė 34% atidarymo rodiklį ir 2100 paspaudimų į produkto puslapį.',
             },
             {
               title: '4 žingsnis - Paleidimas, kanalų plėtra ir pakartotinio užsakymo sprendimas',
               detail:
-                'UrbanPulse SUP kolekcija buvo paleista 2023 m. birželio 1 d. su 500 vienetų (350 universaliosios, 150 turistinės). Pirmosios savaitės pardavimas — 112 vienetų (22,4%). Afarer paklausos planuotojai pakoregavo PPC strategiją Google Shopping ir Meta, nukreipdami biudžetą į didelės pirkimo intencijos raktažodžius, pavyzdžiui, „nachhaltiges SUP kaufen" (tvaraus SUP pirkimas). Iki 8-osios savaitės universalioji lenta buvo #2 pagal pardavimus SUP Vokietijos Shopify DTC rinkoje (po Fanatic tiesioginių pardavimų). 2023 m. rugpjūtį Felix sudarė partnerystę su SportScheck, 8 parduotuvėse patalpindamas 80 lentų su atskiromis „Sustainable Sports" ekspozicijomis. Iki 2023 m. gruodžio bendros pajamos siekė €487,000, o universalioji lenta sudarė 71% pardavimų. Antroji 800 vienetų gamybos partija buvo užsakyta 2024 m. vasarai.',
+                'UrbanPulse SUP kolekcija buvo paleista 2023 m. birželio 1 d. su 500 vienetų (350 universaliosios, 150 turistinės). Pirmosios savaitės pardavimas — 112 vienetų (22,4%). OLagoon paklausos planuotojai pakoregavo PPC strategiją Google Shopping ir Meta, nukreipdami biudžetą į didelės pirkimo intencijos raktažodžius, pavyzdžiui, „nachhaltiges SUP kaufen" (tvaraus SUP pirkimas). Iki 8-osios savaitės universalioji lenta buvo #2 pagal pardavimus SUP Vokietijos Shopify DTC rinkoje (po Fanatic tiesioginių pardavimų). 2023 m. rugpjūtį Felix sudarė partnerystę su SportScheck, 8 parduotuvėse patalpindamas 80 lentų su atskiromis „Sustainable Sports" ekspozicijomis. Iki 2023 m. gruodžio bendros pajamos siekė €487,000, o universalioji lenta sudarė 71% pardavimų. Antroji 800 vienetų gamybos partija buvo užsakyta 2024 m. vasarai.',
             },
           ],
           results: [
@@ -1115,8 +1115,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl Afarer',
+    whyOLagoon: {
+      title: 'Kodėl OLagoon',
       items: [
         {
           title: 'Produktų diferencijavimas',
@@ -1147,7 +1147,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kaip galiu diferencijuoti savo SUP produktą Amazon platformoje?',
         answer:
-          'Afarer padeda kurti unikalią lentų grafiką, pasirinktines spalvų sistemas, patobulintus priedų rinkinius ir prekės ženklo pakavimą, kad jūsų produktas išsiskirstų iš identiškų konkurentų sąrašų.',
+          'OLagoon padeda kurti unikalią lentų grafiką, pasirinktines spalvų sistemas, patobulintus priedų rinkinius ir prekės ženklo pakavimą, kad jūsų produktas išsiskirstų iš identiškų konkurentų sąrašų.',
       },
       {
         question: 'Koks yra minimalus užsakymo kiekis platformų pardavėjams?',
@@ -1157,7 +1157,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar galite padėti su Amazon sąrašų turiniu ir vaizdais?',
         answer:
-          'Taip. Afarer teikia el. prekybos vizualinį palaikymą, įskaitant pagrindinių vaizdų koncepcijas, funkcijų vaizdus, gyvenimo būdo fotografijos kryptį ir produkto informacijos struktūravimą.',
+          'Taip. OLagoon teikia el. prekybos vizualinį palaikymą, įskaitant pagrindinių vaizdų koncepcijas, funkcijų vaizdus, gyvenimo būdo fotografijos kryptį ir produkto informacijos struktūravimą.',
       },
       {
         question: 'Kaip greitai galite pagaminti ir išsiųsti mano individualų SUP užsakymą?',
@@ -1172,7 +1172,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar galite padėti man išplėsti vieno SUP produkto veiklą iki pilnaverčio prekės ženklo?',
         answer:
-          'Taip. Afarer palaiko visapusišką produktų portfelio kūrimą, įskaitant kelis SUP modelius ir lauko priedus prekės ženklo plėtrai.',
+          'Taip. OLagoon palaiko visapusišką produktų portfelio kūrimą, įskaitant kelis SUP modelius ir lauko priedus prekės ženklo plėtrai.',
       },
     ],
     cta: {
@@ -1189,15 +1189,15 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Žvejybinės SUP lentos gamintojas | Individualios pripučiamos žvejybinės SUP lentos | {SITE}',
       description:
-        'Afarer padeda žvejybos įrangos prekių ženklams kurti individualius žvejybinės SUP lentos produktus su didelio stabilumo dizainu, meškerių laikiklių sistemomis, šaldytuvų tvirtinimo vietomis, D žiedų priedais ir private label gamybos sprendimais.',
+        'OLagoon padeda žvejybos įrangos prekių ženklams kurti individualius žvejybinės SUP lentos produktus su didelio stabilumo dizainu, meškerių laikiklių sistemomis, šaldytuvų tvirtinimo vietomis, D žiedų priedais ir private label gamybos sprendimais.',
     },
     hero: {
       tagline: 'Sukurkite savo žvejybinės SUP prekės ženklą™',
       title: 'Individuali žvejybinės SUP lentos gamyba žvejybos įrangos prekių ženklams',
       subtitle:
-        'Afarer padeda žvejybos įrangos prekių ženklams kurti individualius žvejybinės SUP lentos produktus su didelio stabilumo dizainu, meškerių laikiklių sistemomis, šaldytuvų tvirtinimo vietomis, D žiedų priedais ir private label gamybos sprendimais.',
+        'OLagoon padeda žvejybos įrangos prekių ženklams kurti individualius žvejybinės SUP lentos produktus su didelio stabilumo dizainu, meškerių laikiklių sistemomis, šaldytuvų tvirtinimo vietomis, D žiedų priedais ir private label gamybos sprendimais.',
       image: {
-        alt: 'Afarer individualių SUP lentų aprašymas',
+        alt: 'OLagoon individualių SUP lentų aprašymas',
       },
     },
     challenge: {
@@ -1300,7 +1300,7 @@ const lt: Record<string, SolutionOverride> = {
       customer:
         'Šiaurės Amerikos žvejybos įrangos prekės ženklas, anksčiau pardavęs žvejybos meškeres, įrankių dėžes ir lauko žvejybos priedus lojaliai patyrusių žvejų bendruomenei.',
       steps: [
-        'Afarer išanalizavo tikslinius vartotojus ir nustatė produkto pozicionavimą kaip „Profesionali pripučiama žvejybos platforma rimtiems žvejams", atitinkantį prekės ženklo reputaciją.',
+        'OLagoon išanalizavo tikslinius vartotojus ir nustatė produkto pozicionavimą kaip „Profesionali pripučiama žvejybos platforma rimtiems žvejams", atitinkantį prekės ženklo reputaciją.',
         'Sukūrė 11 pėdų žvejybinės SUP lentos modelį su itin plačia stovėjimo platforma, didele keliamąja galia, sutvirtinta Drop Stitch struktūra, keliomis D žiedų sistemomis ir suderinamumu su meškerių laikikliais.',
         'Sukūrė žvejybai skirtą grafiką, lauko spalvų sistemą ir profesionalų pakavimą, patikusį patyrusiems žvejams.',
         'Paleido į rinką 500 vienetų, paskirstytų per esamus žvejybos klientus, el. parduotuvę ir lauko prekių platintojų tinklą.',
@@ -1325,22 +1325,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis – Bendras dizainas su profesionaliais žvejais ir ergonominė analizė',
               detail:
-                'Afarer 2023 m. kovą išsiuntė trijų asmenų produktų kūrimo komandą į Geteborgą dešimties dienų bendro dizaino dirbtuvėms. Bendradžiauta su 8 profesionaliais ir pusiau profesionaliais žvejais (įskaitant Švedijos sportinės žvejybos čempioną Larsą Nilssoną), kurių kiekvienas turėjo daugiau nei 15 metų žvejybos SUP lentomis patirties. Komanda atliko judesių fiksavimo analizę, tirdama metimo ir vyniojimo judesius prototipinėse lentose, kad nustatytų optimalias stovėjimo pozicijas. Pagrindinės išvados: idealus meškerės laikiklio kampas — 22 laipsniai nuo vertikalės (konkurentų produktuose — 15 laipsnių), įrankių laikymo zona turi būti ne toliau kaip 40 cm nuo irkluotojo natūraliai pasiekiamos zonos, o lentos plotis — mažiausiai 34", kad būtų galima stabiliai stovėti esant 30 km/h vėjui. Dirbtuvėse suformuluota 47 konkrečūs dizaino reikalavimai, iš kurių 42 buvo įtraukti į galutinį dizainą.',
+                'OLagoon 2023 m. kovą išsiuntė trijų asmenų produktų kūrimo komandą į Geteborgą dešimties dienų bendro dizaino dirbtuvėms. Bendradžiauta su 8 profesionaliais ir pusiau profesionaliais žvejais (įskaitant Švedijos sportinės žvejybos čempioną Larsą Nilssoną), kurių kiekvienas turėjo daugiau nei 15 metų žvejybos SUP lentomis patirties. Komanda atliko judesių fiksavimo analizę, tirdama metimo ir vyniojimo judesius prototipinėse lentose, kad nustatytų optimalias stovėjimo pozicijas. Pagrindinės išvados: idealus meškerės laikiklio kampas — 22 laipsniai nuo vertikalės (konkurentų produktuose — 15 laipsnių), įrankių laikymo zona turi būti ne toliau kaip 40 cm nuo irkluotojo natūraliai pasiekiamos zonos, o lentos plotis — mažiausiai 34", kad būtų galima stabiliai stovėti esant 30 km/h vėjui. Dirbtuvėse suformuluota 47 konkrečūs dizaino reikalavimai, iš kurių 42 buvo įtraukti į galutinį dizainą.',
             },
             {
               title: '2 žingsnis – Integruotos žvejybos sistemos inžinerija ir prototipų testavimas',
               detail:
-                'Afarer pramonės dizaineriai sukūrė modulinę „Fishing Deck" sistemą: nuimama aliuminio bėgių sistema (1,2 m ilgio), tvirtinama per 12 nerūdijančio plieno įdėtų detalių, suformuotų lentos drop-stitch branduolyje. Bėgiai priėmė 4 meškerių laikiklius (reguliuojamas kampas, greitai nuimami), didelį įrankių konteinerį (32 l, atsparumas vandeniui IP67, nuimamas), tinklo laikiklį ir termosų laikiklį (Šiaurės šalių rinkos reikalavimas). Trys prototipinės lentos buvo pagamintos 2023 m. gegužę ir 4 savaites testuotos 6 Švedijos ežeruose (Vänern, Vättern, Mälaren ir 3 mažesniuose ežeruose Smålande). Testavimo programoje užregistruotos 340 aktyvios žvejybos valandų. Vienas prototipas šiek tiek išsikreipė po 3 dienų nuolatinio saulės poveikio esant 26 °C oro temperatūrai — Afarer visiems serijiniams vienetams padidino denio PVC storį nuo 0,9 mm iki 1,2 mm.',
+                'OLagoon pramonės dizaineriai sukūrė modulinę „Fishing Deck" sistemą: nuimama aliuminio bėgių sistema (1,2 m ilgio), tvirtinama per 12 nerūdijančio plieno įdėtų detalių, suformuotų lentos drop-stitch branduolyje. Bėgiai priėmė 4 meškerių laikiklius (reguliuojamas kampas, greitai nuimami), didelį įrankių konteinerį (32 l, atsparumas vandeniui IP67, nuimamas), tinklo laikiklį ir termosų laikiklį (Šiaurės šalių rinkos reikalavimas). Trys prototipinės lentos buvo pagamintos 2023 m. gegužę ir 4 savaites testuotos 6 Švedijos ežeruose (Vänern, Vättern, Mälaren ir 3 mažesniuose ežeruose Smålande). Testavimo programoje užregistruotos 340 aktyvios žvejybos valandų. Vienas prototipas šiek tiek išsikreipė po 3 dienų nuolatinio saulės poveikio esant 26 °C oro temperatūrai — OLagoon visiems serijiniams vienetams padidino denio PVC storį nuo 0,9 mm iki 1,2 mm.',
             },
             {
               title: '3 žingsnis – Skandinaviška mažmeninė pakuotė, katalogo integracija ir išankstinis pardavimas',
               detail:
-                'Afarer sukūrė tvirtą pakuotę su dvikalbiu (švedų ir suomių) ženklinimu ir vidiniu „Fishing SUP Starter Kit" išdėstymu: lenta, žvejybos bėgiai su 4 meškerių laikikliais, įrankių konteineris, trijų dalių irklas, dvigubo veikimo siurblys, kuprinė ir 32 puslapių „Fishing from SUP" vadovas švedų, norvegų ir suomių kalbomis. „Nordic Angler" išankstinį pardavimą paleido Švedijos sportinės žvejybos mugėje Stokholme (2023 m. rugpjūtį) ir gavo tvirtus 34 mažmenininkų užsakymus 860 vienetų apimtimi. Erikas su Afarer suderino išskirtinį 12 mėnesių Šiaurės šalių platinimo sandorį, pagal kurį per tą laikotarpį konkuruojančios private label žvejybinės SUP lentos „Nordic Angler" konkurentams nebus parduodamos.',
+                'OLagoon sukūrė tvirtą pakuotę su dvikalbiu (švedų ir suomių) ženklinimu ir vidiniu „Fishing SUP Starter Kit" išdėstymu: lenta, žvejybos bėgiai su 4 meškerių laikikliais, įrankių konteineris, trijų dalių irklas, dvigubo veikimo siurblys, kuprinė ir 32 puslapių „Fishing from SUP" vadovas švedų, norvegų ir suomių kalbomis. „Nordic Angler" išankstinį pardavimą paleido Švedijos sportinės žvejybos mugėje Stokholme (2023 m. rugpjūtį) ir gavo tvirtus 34 mažmenininkų užsakymus 860 vienetų apimtimi. Erikas su OLagoon suderino išskirtinį 12 mėnesių Šiaurės šalių platinimo sandorį, pagal kurį per tą laikotarpį konkuruojančios private label žvejybinės SUP lentos „Nordic Angler" konkurentams nebus parduodamos.',
             },
             {
               title: '4 žingsnis – Gamyba, sezoninis laikas ir pirmųjų metų realizacija',
               detail:
-                '1 200 vienetų (700 Lake Angler ir 500 Expedition Angler) gamyba vyko nuo 2023 m. rugsėjo iki lapkričio Afarer gamykloje Zhongshan. Siunta iš Ningbo išvyko 2023 m. lapkričio 18 d. ir atvyko į Geteborgo uostą 2023 m. gruodžio 18 d. — idealiai suderinta su mažmenininkų pavasario pirkimais. „Nordic Angler" iki 2024 m. kovo 1 d. paskirstė 760 vienetų į mažmeninės prekybos lentynas, o likusius 440 vienetų laikė savo sandėlyje tiesioginiam užsakymų vykdymui. Iki 2024 m. gegužės 31 d. buvo parduota 980 vienetų (81,7 % pradinės partijos). Lake Angler lenta per 90 dienų tapo Nr. 1 perkamiausia žvejybine SUP lenta pas XXL Sweden. Erikas 2024 m. birželį pateikė pakartotinį 1 800 vienetų užsakymą su 3 dizaino patobulinimais: minkštesniu nešiojimo krepšiu, bėgių reguliavimo rankenėlėmis be įrankių ir GPS sekiklio tvirtinimo kišene.',
+                '1 200 vienetų (700 Lake Angler ir 500 Expedition Angler) gamyba vyko nuo 2023 m. rugsėjo iki lapkričio OLagoon gamykloje Zhongshan. Siunta iš Ningbo išvyko 2023 m. lapkričio 18 d. ir atvyko į Geteborgo uostą 2023 m. gruodžio 18 d. — idealiai suderinta su mažmenininkų pavasario pirkimais. „Nordic Angler" iki 2024 m. kovo 1 d. paskirstė 760 vienetų į mažmeninės prekybos lentynas, o likusius 440 vienetų laikė savo sandėlyje tiesioginiam užsakymų vykdymui. Iki 2024 m. gegužės 31 d. buvo parduota 980 vienetų (81,7 % pradinės partijos). Lake Angler lenta per 90 dienų tapo Nr. 1 perkamiausia žvejybine SUP lenta pas XXL Sweden. Erikas 2024 m. birželį pateikė pakartotinį 1 800 vienetų užsakymą su 3 dizaino patobulinimais: minkštesniu nešiojimo krepšiu, bėgių reguliavimo rankenėlėmis be įrankių ir GPS sekiklio tvirtinimo kišene.',
             },
           ],
           results: [
@@ -1362,22 +1362,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis – Gidui pritaikyta produkto specifikacija ir klientų atsiliepimų analizė',
               detail:
-                'Afarer produktų komanda 2023 m. kovą apklausė 14 JAV žvejybos gidų (iš Teksaso, Floridos, Mičigano ir Oregono), kad sudarytų bendrą specifikaciją. Trimis labiausiai pageidautomis funkcijomis tapo: (1) pakelta metimo platforma priekyje (8" aukščio) geresniam matomumui ir laisvam metimui per petį, (2) begarsė elektromotoro tvirtinimo sistema (mažiausiai 55 lb traukos, galo tvirtinimas) ir (3) su „yak-attack" suderinama įrangos bėgių sistema. Dwaynas taip pat reikalavo maksimalios 450 lbs keliamosios galios dviejų žvejų (gido ir kliento) gabenimui. Galutinė specifikacija buvo 18 puslapių, įskaitant konstrukcinės baigtinių elementų analizės (FEA) ataskaitą iš Afarer inžinerijos komandos, rodančią, kad lenta viduryje išlaiko 250 lb taškinę apkrovą su mažesniu nei 1,5" nuolinkiu.',
+                'OLagoon produktų komanda 2023 m. kovą apklausė 14 JAV žvejybos gidų (iš Teksaso, Floridos, Mičigano ir Oregono), kad sudarytų bendrą specifikaciją. Trimis labiausiai pageidautomis funkcijomis tapo: (1) pakelta metimo platforma priekyje (8" aukščio) geresniam matomumui ir laisvam metimui per petį, (2) begarsė elektromotoro tvirtinimo sistema (mažiausiai 55 lb traukos, galo tvirtinimas) ir (3) su „yak-attack" suderinama įrangos bėgių sistema. Dwaynas taip pat reikalavo maksimalios 450 lbs keliamosios galios dviejų žvejų (gido ir kliento) gabenimui. Galutinė specifikacija buvo 18 puslapių, įskaitant konstrukcinės baigtinių elementų analizės (FEA) ataskaitą iš OLagoon inžinerijos komandos, rodančią, kad lenta viduryje išlaiko 250 lb taškinę apkrovą su mažesniu nei 1,5" nuolinkiu.',
             },
             {
               title: '2 žingsnis – Prototipų kūrimas, testavimas su gidų lentų parku ir iteracijų ciklas',
               detail:
-                'Afarer 2023 m. gegužę pagamino 4 prototipines Guide Pro lentas. Dwaynas naudojo jas išimtinai 22 žvejybos išvykose su gidu per 6 savaites (2023 m. birželio–liepos mėn.), įtraukdamas 54 klientus. Kiekviena išvyka buvo dokumentuojama rašytiniais klientų atsiliepimais ir vaizdo medžiaga. Pagrindiniai pastebėjimai: pakelta metimo platforma buvo gerai vertinama (4,8/5), tačiau klientams pradinė įrangos bėgių padėtis pasirodė per toli priekyje — Afarer perkėlė ją 6" atgal. Begarsis elektromotorio tvirtinimas veikė, tačiau jo svoris (9 lbs) sutrikdė lentos pusiausvyrą — Afarer perprojektavo jį kaip dviejų dalių aliuminio laikiklį, sveriantį 5,2 lbs. Dažniausias klientų komentaras: „Jaučiausi pakankamai stabilus, kad pirmu bandymu galėčiau stovėti ir mesti." Po 54 klientų išvykų nė viena lenta neturėjo konstrukcinių problemų. Dwaynas galutinį patvirtinimą davė 2023 m. rugpjūtį.',
+                'OLagoon 2023 m. gegužę pagamino 4 prototipines Guide Pro lentas. Dwaynas naudojo jas išimtinai 22 žvejybos išvykose su gidu per 6 savaites (2023 m. birželio–liepos mėn.), įtraukdamas 54 klientus. Kiekviena išvyka buvo dokumentuojama rašytiniais klientų atsiliepimais ir vaizdo medžiaga. Pagrindiniai pastebėjimai: pakelta metimo platforma buvo gerai vertinama (4,8/5), tačiau klientams pradinė įrangos bėgių padėtis pasirodė per toli priekyje — OLagoon perkėlė ją 6" atgal. Begarsis elektromotorio tvirtinimas veikė, tačiau jo svoris (9 lbs) sutrikdė lentos pusiausvyrą — OLagoon perprojektavo jį kaip dviejų dalių aliuminio laikiklį, sveriantį 5,2 lbs. Dažniausias klientų komentaras: „Jaučiausi pakankamai stabilus, kad pirmu bandymu galėčiau stovėti ir mesti." Po 54 klientų išvykų nė viena lenta neturėjo konstrukcinių problemų. Dwaynas galutinį patvirtinimą davė 2023 m. rugpjūtį.',
             },
             {
               title: '3 žingsnis – Prekės ženklo paleidimas, DTC svetainė ir gidų partnerių programa',
               detail:
-                '„Texas Tailwaters" startavo 2023 m. lapkričio 1 d. su Shopify DTC svetaine, kurią sukūrė Afarer el. prekybos komanda. Svetainėje buvo pateikta 8 produktų vaizdo įrašai, 34 gyvenimo būdo nuotraukos, darytos Travis ežere (įskaitant medžiagą iš drono), ir išsamios „Guide Notes" (Dwayno asmeniniai patarimai dėl kiekvienos lentos). Afarer įgyvendino pakopinę gidų partnerių programą: gidai už tiesioginius nukreipimus gaudavo 15 % komisinių, nemokamą demonstracinę lentą po 10 nukreiptų pardavimų ir išskirtinę prieigą prie privačios Facebook grupės (iki 2024 m. kovo — 42 gidų nariai). Paleidimo kampanija apėmė Google Ads strategiją, orientuotą į „fishing SUP", „SUP fishing" ir „guide paddleboard", su $3,500 mėnesio biudžetu. Dwayno paties Instagram turinys atvedė didelį srautą — jo „Day on the Water" Reels įrašai vidutiniškai surinkdavo 12 000 peržiūrų.',
+                '„Texas Tailwaters" startavo 2023 m. lapkričio 1 d. su Shopify DTC svetaine, kurią sukūrė OLagoon el. prekybos komanda. Svetainėje buvo pateikta 8 produktų vaizdo įrašai, 34 gyvenimo būdo nuotraukos, darytos Travis ežere (įskaitant medžiagą iš drono), ir išsamios „Guide Notes" (Dwayno asmeniniai patarimai dėl kiekvienos lentos). OLagoon įgyvendino pakopinę gidų partnerių programą: gidai už tiesioginius nukreipimus gaudavo 15 % komisinių, nemokamą demonstracinę lentą po 10 nukreiptų pardavimų ir išskirtinę prieigą prie privačios Facebook grupės (iki 2024 m. kovo — 42 gidų nariai). Paleidimo kampanija apėmė Google Ads strategiją, orientuotą į „fishing SUP", „SUP fishing" ir „guide paddleboard", su $3,500 mėnesio biudžetu. Dwayno paties Instagram turinys atvedė didelį srautą — jo „Day on the Water" Reels įrašai vidutiniškai surinkdavo 12 000 peržiūrų.',
             },
             {
               title: '4 žingsnis – Gamybos užsakymų vykdymas, klientų palaikymas ir antrųjų metų plėtra',
               detail:
-                'Pirmoji 450 vienetų gamybos partija (300 Guide Pro ir 150 Expedition Elite) iš Afarer gamyklos išsiųsta 2023 m. spalio 15 d. ir Dwayno 3PL partneriui Hjustone (ShipBob sandėlys) atvyko 2023 m. lapkričio 22 d. Dwaynas prieš paleidimą per savo gidų tinklą išankstinai pardavė 87 vienetus. Iki 2024 m. kovo 31 d. buvo parduota 334 vienetai (74,2 % atsargų). Afarer klientų aptarnavimo komanda sutvarkė visas garantines užklausas (6 pranešti atvejai: 3 vožtuvo branduolio nuotėkiai, 2 pelekų dėžių atsipalaidavimai, 1 denio kilimėlio pūslė) — visi išspręsti per 48 valandas. Kai apimtys išaugo, Dwaynas 2024 m. balandį pasamdė ne visą darbo dieną dirbantį klientų aptarnavimo koordinatorių. Antroji 800 vienetų gamybos partija užsakyta 2024 m. gegužę kartu su plėtra pas du naujus mažmenininkus: Austin Kayak ir Fishing Tackle Unlimited (abu Teksase).',
+                'Pirmoji 450 vienetų gamybos partija (300 Guide Pro ir 150 Expedition Elite) iš OLagoon gamyklos išsiųsta 2023 m. spalio 15 d. ir Dwayno 3PL partneriui Hjustone (ShipBob sandėlys) atvyko 2023 m. lapkričio 22 d. Dwaynas prieš paleidimą per savo gidų tinklą išankstinai pardavė 87 vienetus. Iki 2024 m. kovo 31 d. buvo parduota 334 vienetai (74,2 % atsargų). OLagoon klientų aptarnavimo komanda sutvarkė visas garantines užklausas (6 pranešti atvejai: 3 vožtuvo branduolio nuotėkiai, 2 pelekų dėžių atsipalaidavimai, 1 denio kilimėlio pūslė) — visi išspręsti per 48 valandas. Kai apimtys išaugo, Dwaynas 2024 m. balandį pasamdė ne visą darbo dieną dirbantį klientų aptarnavimo koordinatorių. Antroji 800 vienetų gamybos partija užsakyta 2024 m. gegužę kartu su plėtra pas du naujus mažmenininkus: Austin Kayak ir Fishing Tackle Unlimited (abu Teksase).',
             },
           ],
           results: [
@@ -1389,8 +1389,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl Afarer',
+    whyOLagoon: {
+      title: 'Kodėl OLagoon',
       items: [
         {
           title: 'Žvejų poreikiai',
@@ -1427,7 +1427,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar galiu prie SUP lentos pridėti meškerių laikiklius ir šaldytuvų tvirtinimus?',
         answer:
-          'Taip. Afarer integruoja žvejybai skirtas priedų sistemas, įskaitant meškerių laikiklius, šaldytuvų tvirtinimo vietas, kamerų laikiklius ir D žiedų tvirtinimo taškus, tiesiai į lentos dizainą.',
+          'Taip. OLagoon integruoja žvejybai skirtas priedų sistemas, įskaitant meškerių laikiklius, šaldytuvų tvirtinimo vietas, kamerų laikiklius ir D žiedų tvirtinimo taškus, tiesiai į lentos dizainą.',
       },
       {
         question: 'Kokia yra žvejybinės SUP lentos keliamoji galia?',
@@ -1437,7 +1437,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar siūlote individualų prekių ženklo apipavidalinimą žvejybos įrangos įmonėms?',
         answer:
-          'Taip. Afarer teikia visapusišką private label gamybą su individualia lentų grafika, prekės ženklo spalvomis, logotipo išdėstymu, EVA denio dizainu ir pakuote žvejybos prekių ženklams.',
+          'Taip. OLagoon teikia visapusišką private label gamybą su individualia lentų grafika, prekės ženklo spalvomis, logotipo išdėstymu, EVA denio dizainu ir pakuote žvejybos prekių ženklams.',
       },
       {
         question: 'Ar žvejybine SUP lenta galima naudoti ir gėlame, ir sūriame vandenyje?',
@@ -1464,15 +1464,15 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP jogos įrangos gamintojas | Pasirinktinės jogos SUP lentos | {SITE}',
       description:
-        'Afarer teikia pasirinktinius SUP jogos įrangos sprendimus jogos studijoms, sveikatingumo atostogų centrams ir fitneso prekės ženklams. Kurkite premium pripučiamas jogos SUP lentas su plačiu stabilumo dizainu, pilnais EVA denimis ir private label gamyba.',
+        'OLagoon teikia pasirinktinius SUP jogos įrangos sprendimus jogos studijoms, sveikatingumo atostogų centrams ir fitneso prekės ženklams. Kurkite premium pripučiamas jogos SUP lentas su plačiu stabilumo dizainu, pilnais EVA denimis ir private label gamyba.',
     },
     hero: {
       tagline: 'SUP jogos įrangos sprendimai™',
       title: 'Premium SUP jogos įranga sveikatingumo prekės ženklams ir atostogų centrams',
       subtitle:
-        'Afarer teikia pasirinktinius SUP jogos įrangos sprendimus jogos studijoms, sveikatingumo atostogų centrams ir fitneso prekės ženklams. Kurkite premium pripučiamas jogos SUP lentas su plačiu stabilumo dizainu, pilnais EVA denimis ir private label gamyba.',
+        'OLagoon teikia pasirinktinius SUP jogos įrangos sprendimus jogos studijoms, sveikatingumo atostogų centrams ir fitneso prekės ženklams. Kurkite premium pripučiamas jogos SUP lentas su plačiu stabilumo dizainu, pilnais EVA denimis ir private label gamyba.',
       image: {
-        alt: 'Afarer pasirinktinių SUP lentų aprašymas',
+        alt: 'OLagoon pasirinktinių SUP lentų aprašymas',
       },
     },
     challenge: {
@@ -1597,7 +1597,7 @@ const lt: Record<string, SolutionOverride> = {
       customer:
         'Europos sveikatingumo atostogų centro prekės ženklas, vykdantis jogos atostogas, meditacijos programas ir lauko sveikatingumo patirtis premium sveikatingumo keliautojams.',
       steps: [
-        'Afarer apibrėžė produkto koncepciją kaip „Liukso plaukiojančią jogos patirtį“, skirtą sveikatingumo keliautojams, moterų fitneso klientėms ir premium atostogų centro svečiams.',
+        'OLagoon apibrėžė produkto koncepciją kaip „Liukso plaukiojančią jogos patirtį“, skirtą sveikatingumo keliautojams, moterų fitneso klientėms ir premium atostogų centro svečiams.',
         'Sukūrė premium plačią jogos SUP lentą su itin plačia stabilia platforma, pilnu EVA jogos deniu, patogiu basomis kojomis paviršiumi ir subalansuotu plūduriavimo veikimu.',
         'Sukūrė švelnią natūralių spalvų paletę, minimalią grafiką ir premium pakuotę, tobulai atitinkančią sveikatingumo prekės ženklo ramią tapatybę.',
         'Paleido su atostogų centro programomis, jogos pamokomis ir premium klientų patirtimis kaip pradine taikymo sritimi.',
@@ -1622,17 +1622,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis – jogai pritaikytas lentos dizainas ir sanskrito estetika',
               detail:
-                '„Afarer“ dizaino komanda tris savaites 2023 m. kovą tyrinėjo Simone reikalavimus. Rezultatas – „Serenity“ SUP jogos lenta, 34" pločio (palyginti su standartinėmis 32"), 11\'6" ilgio, su 7 sluoksnių drop-stitch šerdimi standžiam stabilumui. Denį dengė 6 mm storio uždarųjų ląstelių EVA kilimėlis su deimanto rašto tekstūra (išmatuotas trinties koeficientas – 0,85 sausu, 0,72 šlapiu), dengiantis 85 % denio paviršiaus. Afarer įtraukė sanskrito „Om“ simbolį sidabrine atspindinčia šilumos perkėla priekyje ir lotoso raštą aplink centrinę nešimo rankeną. Lentos buvo 4 spalvų (koralų, turkio, saulėlydžio oranžinė, lagūnos mėlyna), atitinkančių 4 „Azure Resort“ spalvų paletes. Kiekviena lenta turėjo 8 nerūdijančio plieno D-kilpas – 4 tamprios virvės sistemai jogos kilimėliams pritvirtinti ir 4 pasirenkamoms inkarų linijoms stacionariai praktikai srovėse.',
+                '„OLagoon“ dizaino komanda tris savaites 2023 m. kovą tyrinėjo Simone reikalavimus. Rezultatas – „Serenity“ SUP jogos lenta, 34" pločio (palyginti su standartinėmis 32"), 11\'6" ilgio, su 7 sluoksnių drop-stitch šerdimi standžiam stabilumui. Denį dengė 6 mm storio uždarųjų ląstelių EVA kilimėlis su deimanto rašto tekstūra (išmatuotas trinties koeficientas – 0,85 sausu, 0,72 šlapiu), dengiantis 85 % denio paviršiaus. OLagoon įtraukė sanskrito „Om“ simbolį sidabrine atspindinčia šilumos perkėla priekyje ir lotoso raštą aplink centrinę nešimo rankeną. Lentos buvo 4 spalvų (koralų, turkio, saulėlydžio oranžinė, lagūnos mėlyna), atitinkančių 4 „Azure Resort“ spalvų paletes. Kiekviena lenta turėjo 8 nerūdijančio plieno D-kilpas – 4 tamprios virvės sistemai jogos kilimėliams pritvirtinti ir 4 pasirenkamoms inkarų linijoms stacionariai praktikai srovėse.',
             },
             {
               title: '2 žingsnis – bandomoji programa „Azure North“ su jogos instruktorių mokymais',
               detail:
-                'Afarer pagamino 15 prototipų lentų ir išsiuntė greituoju oro kroviniu (Singapore Airlines Cargo) į 6 savaičių bandomąjį etapą „Azure North“ kurorte, pradedant 2023 m. birželio 1 d. Simone ir 4 nuolatiniai jogos instruktoriai baigė 40 valandų SUP jogos instruktorių sertifikavimo programą, kurią bendrai sukūrė „Afarer“ sveikatingumo konsultantai ir Yoga Alliance profesionalai. Sertifikavimas apėmė: lentos paruošimą ir pripūtimą jogai (12 PSI maksimaliam stabilumui), pamokų sekų sudarymą pagal vandens sąlygas, saugos protokolus vėjui ir srovei bei 15 unikalių SUP jogos pozų, pritaikytų lentos aplinkai. Bandomasis etapas apėmė 42 pamokas per 6 savaites su 186 svečiais dalyviais. Apklausos prieš ir po bandomojo etapo parodė, kad svečių pasitikėjimas pagerėjo 58 %, o vidutinis pamokos įvertinimas buvo 4,8/5. Svečių atsiliepimai išryškino du patobulinimus – pageidavimą turėti irklo laikiklį ant lentos krašto (kad irklai nenuplauktų praktikos metu) ir pirmenybę lentoms su „minkštu“ priekio spinduliumi partnerinėms pozoms.',
+                'OLagoon pagamino 15 prototipų lentų ir išsiuntė greituoju oro kroviniu (Singapore Airlines Cargo) į 6 savaičių bandomąjį etapą „Azure North“ kurorte, pradedant 2023 m. birželio 1 d. Simone ir 4 nuolatiniai jogos instruktoriai baigė 40 valandų SUP jogos instruktorių sertifikavimo programą, kurią bendrai sukūrė „OLagoon“ sveikatingumo konsultantai ir Yoga Alliance profesionalai. Sertifikavimas apėmė: lentos paruošimą ir pripūtimą jogai (12 PSI maksimaliam stabilumui), pamokų sekų sudarymą pagal vandens sąlygas, saugos protokolus vėjui ir srovei bei 15 unikalių SUP jogos pozų, pritaikytų lentos aplinkai. Bandomasis etapas apėmė 42 pamokas per 6 savaites su 186 svečiais dalyviais. Apklausos prieš ir po bandomojo etapo parodė, kad svečių pasitikėjimas pagerėjo 58 %, o vidutinis pamokos įvertinimas buvo 4,8/5. Svečių atsiliepimai išryškino du patobulinimus – pageidavimą turėti irklo laikiklį ant lentos krašto (kad irklai nenuplauktų praktikos metu) ir pirmenybę lentoms su „minkštu“ priekio spinduliumi partnerinėms pozoms.',
             },
             {
               title: '3 žingsnis – plėtra keliuose kurortuose, infrastruktūra ir programos',
               detail:
-                'Remdamasi sėkmingu bandomuoju etapu, „Azure“ 2023 m. rugpjūtį pateikė užsakymą 40 „Serenity“ lentų (10 kiekvienam kurortui). Afarer atliko du dizaino patobulinimus pagal bandomojo etapo atsiliepimus – silikoninį irklo tvirtinimo diržą dešiniajame borte ir 15 cm platesnį priekio spindulį (nuo 45 cm iki 60 cm) partnerinėms pozoms. Afarer išsiuntė siuntą jūrų keliu su atskiru 20 pėdų konteineriu, įskaitant 40 pasirinktinių pūtimo siurblių su slėgio matuokliais, sukalibruotais PSI vienetais vietoj barų. Siunta Malę pasiekė 2023 m. lapkričio 1 d. Simone apmokė 12 papildomų instruktorių visuose 4 kurortuose (3 kiekvienoje vietoje) pagal sertifikavimo programą, o du vyresnieji instruktoriai dalyvavo 2 savaičių trenerių rengimo programoje Balio saloje (koordinuotoje „Afarer“ sveikatingumo partnerio). Kiekvienas kurortas įrengė atskirą SUP jogos starto vietą su plūduriuojančiu pontonu, įrangos saugojimu ir pavėsinga poilsio zona.',
+                'Remdamasi sėkmingu bandomuoju etapu, „Azure“ 2023 m. rugpjūtį pateikė užsakymą 40 „Serenity“ lentų (10 kiekvienam kurortui). OLagoon atliko du dizaino patobulinimus pagal bandomojo etapo atsiliepimus – silikoninį irklo tvirtinimo diržą dešiniajame borte ir 15 cm platesnį priekio spindulį (nuo 45 cm iki 60 cm) partnerinėms pozoms. OLagoon išsiuntė siuntą jūrų keliu su atskiru 20 pėdų konteineriu, įskaitant 40 pasirinktinių pūtimo siurblių su slėgio matuokliais, sukalibruotais PSI vienetais vietoj barų. Siunta Malę pasiekė 2023 m. lapkričio 1 d. Simone apmokė 12 papildomų instruktorių visuose 4 kurortuose (3 kiekvienoje vietoje) pagal sertifikavimo programą, o du vyresnieji instruktoriai dalyvavo 2 savaičių trenerių rengimo programoje Balio saloje (koordinuotoje „OLagoon“ sveikatingumo partnerio). Kiekvienas kurortas įrengė atskirą SUP jogos starto vietą su plūduriuojančiu pontonu, įrangos saugojimu ir pavėsinga poilsio zona.',
             },
             {
               title: '4 žingsnis – pajamų rezultatai, svečių lojalumas ir programos plėtra',
@@ -1659,23 +1659,23 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis – jogos instruktorės dizaino vizija ir ergonomiška studijos lenta',
               detail:
-                '„Afarer“ produktų dizaineriai 2023 m. vasarį skrido į Santa Moniką stebėti 4 Kai pamokų ir suprasti jos mokymo stilių. Kai ant lentų dėstė Vinjasos srovės, atstatomojo jino ir partnerinės akro-jogos derinį – tai reikalavo daugiau denio vietos, nei siūlė standartinės SUP lentos. Afarer sukūrė 3 SKU: (1) „Drift 10\'6"“ – standartinė SUP jogos lenta (34" pločio, 6 mm denio kilimėlis), (2) „Studio 12\'0"“ – itin plati 38" pločio lenta su 8 mm paminkštintu deniu (sukurta akro ir partnerinėms pozoms, didžiausia apkrova 450 lbs) ir (3) „Mini 9\'0"“ – vaikams pritaikyta lenta (30" pločio, 5 mm denis, ryškios spalvų parinktys). Studijos lenta turėjo unikalų „centrinės linijos žymeklį“ – subtilią atspausdintą liniją denio viduryje, padedančią mokiniams nuosekliai suderinti kilimėlius. Visos lentos naudojo „Afarer“ Fusion-Lite drop-stitch technologiją ir svėrė 3 lbs mažiau už standartines lentas, kad būtų lengviau jas valdyti.',
+                '„OLagoon“ produktų dizaineriai 2023 m. vasarį skrido į Santa Moniką stebėti 4 Kai pamokų ir suprasti jos mokymo stilių. Kai ant lentų dėstė Vinjasos srovės, atstatomojo jino ir partnerinės akro-jogos derinį – tai reikalavo daugiau denio vietos, nei siūlė standartinės SUP lentos. OLagoon sukūrė 3 SKU: (1) „Drift 10\'6"“ – standartinė SUP jogos lenta (34" pločio, 6 mm denio kilimėlis), (2) „Studio 12\'0"“ – itin plati 38" pločio lenta su 8 mm paminkštintu deniu (sukurta akro ir partnerinėms pozoms, didžiausia apkrova 450 lbs) ir (3) „Mini 9\'0"“ – vaikams pritaikyta lenta (30" pločio, 5 mm denis, ryškios spalvų parinktys). Studijos lenta turėjo unikalų „centrinės linijos žymeklį“ – subtilią atspausdintą liniją denio viduryje, padedančią mokiniams nuosekliai suderinti kilimėlius. Visos lentos naudojo „OLagoon“ Fusion-Lite drop-stitch technologiją ir svėrė 3 lbs mažiau už standartines lentas, kad būtų lengviau jas valdyti.',
             },
             {
               title: '2 žingsnis – prekės ženklo tapatybė, turinio kūrimas ir išankstinio pardavimo strategija',
               detail:
-                '„Afarer“ kūrybinė komanda sukūrė „Drift & Downward Dog“ vizualinę tapatybę – minimalistinį logotipą su stilizuotu lotoso ir mandalos-bangos hibridu, spalvų paletę iš šalavijų žalios, smėlio ir vandenyno mėlynos bei pasirinktinę šriftų porą (Lora antraštėms, Nunito tekstui). Jie surengė 6 dienų fotosesiją 2023 m. kovą 5 Santa Monica Bay vietose (Santa Monica Pier, Point Dume Malibu, Venice Beach, Marina del Rey ir Paradise Cove), sugeneruodami 480 galutinių vaizdų ir 8 valandas 4K vaizdo medžiagos. 2023 m. gegužės 1 d. Kai paleido 30 dienų išankstinį pardavimą per Kickstarter kampaniją su $35,000 tikslu. Kampanija siūlė 3 atlygio paketus – ankstyvojo paukštės Drift lentą ($599, 40 vnt.), Studio lentos paketą su kilimėliu ir diržu ($949, 25 vnt.) ir Mini lentą ($449, 20 vnt.). Kampanija tikslą pasiekė per 11 valandų ir užsidarė ties $74,200, surinkusi iš 118 rėmėjų.',
+                '„OLagoon“ kūrybinė komanda sukūrė „Drift & Downward Dog“ vizualinę tapatybę – minimalistinį logotipą su stilizuotu lotoso ir mandalos-bangos hibridu, spalvų paletę iš šalavijų žalios, smėlio ir vandenyno mėlynos bei pasirinktinę šriftų porą (Lora antraštėms, Nunito tekstui). Jie surengė 6 dienų fotosesiją 2023 m. kovą 5 Santa Monica Bay vietose (Santa Monica Pier, Point Dume Malibu, Venice Beach, Marina del Rey ir Paradise Cove), sugeneruodami 480 galutinių vaizdų ir 8 valandas 4K vaizdo medžiagos. 2023 m. gegužės 1 d. Kai paleido 30 dienų išankstinį pardavimą per Kickstarter kampaniją su $35,000 tikslu. Kampanija siūlė 3 atlygio paketus – ankstyvojo paukštės Drift lentą ($599, 40 vnt.), Studio lentos paketą su kilimėliu ir diržu ($949, 25 vnt.) ir Mini lentą ($449, 20 vnt.). Kampanija tikslą pasiekė per 11 valandų ir užsidarė ties $74,200, surinkusi iš 118 rėmėjų.',
             },
             {
               title: '3 žingsnis – gamyba, įvykdymo logistika ir integracija į pamokas',
               detail:
-                '180 lentų (80 Drift, 50 Studio, 50 Mini) gamyba vyko 2023 m. birželio–liepos mėnesiais „Afarer“ gamykloje Vietname. Iki 2023 m. rugpjūčio 1 d. visi Kickstarter užsakymai buvo įvykdyti iš 3PL sandėlio Long Beach (15 mylių nuo Kai Santa Monikos studijos). Kai paleido savo pamokų rezervavimo platformą Shopify su pasirinktine planavimo programėle, integruota su Acuity Scheduling. Ji siūlė 4 pamokų tipus – „Sunrise Flow“ (pradedantiesiems, Drift lenta), „Full Moon Studio“ (pažengusiems ir poroms, Studio lenta), „Family Paddle“ (vaikai ir tėvai, Mini bei Drift) ir „Restorative Yin & Float“ (jino pozų ir vedamos meditacijos derinys). Ji pasamdė 3 papildomus sertifikuotus SUP jogos instruktorius padidintam grafikui. Iki 2023 m. rugsėjo Kai vedė 22 pamokas per savaitę su vidutiniškai 14 mokinių kiekvienoje pamokoje.',
+                '180 lentų (80 Drift, 50 Studio, 50 Mini) gamyba vyko 2023 m. birželio–liepos mėnesiais „OLagoon“ gamykloje Vietname. Iki 2023 m. rugpjūčio 1 d. visi Kickstarter užsakymai buvo įvykdyti iš 3PL sandėlio Long Beach (15 mylių nuo Kai Santa Monikos studijos). Kai paleido savo pamokų rezervavimo platformą Shopify su pasirinktine planavimo programėle, integruota su Acuity Scheduling. Ji siūlė 4 pamokų tipus – „Sunrise Flow“ (pradedantiesiems, Drift lenta), „Full Moon Studio“ (pažengusiems ir poroms, Studio lenta), „Family Paddle“ (vaikai ir tėvai, Mini bei Drift) ir „Restorative Yin & Float“ (jino pozų ir vedamos meditacijos derinys). Ji pasamdė 3 papildomus sertifikuotus SUP jogos instruktorius padidintam grafikui. Iki 2023 m. rugsėjo Kai vedė 22 pamokas per savaitę su vidutiniškai 14 mokinių kiekvienoje pamokoje.',
             },
             {
               title:
                 '4 žingsnis – mažmeninės prekybos kanalų plėtra, korporatyvinė sveikatingumo programa ir antrųjų metų augimas',
               detail:
-                '2023 m. spalį Kai susisiekė REI Pietų Kalifornijos regiono pirkėjas, dalyvavęs vienoje iš jos pamokų. REI pateikė bandomąjį užsakymą – 30 Drift lentų ir 15 Mini lentų 5 Santa Monikos rajono parduotuvėms. Afarer pritaikė pakuotę, įtraukdamas REI reikalavimus atitinkančias pakabos etiketes ir QR kodo produkto registraciją. Iki 2023 m. gruodžio REI pardavimo rodiklis 5 parduotuvėse pasiekė 82 %, todėl REI pateikė papildomą 100 lentų užsakymą 20 Pietų Kalifornijos vietovių. Kai taip pat paleido korporatyvinę sveikatingumo programą – sudarė sutartis su 4 technologijų bendrovėmis (Google Venice, Hulu Santa Monica ir dviem kitomis) dėl savaitinių SUP jogos pamokų darbo vietoje kaip darbuotojų lengvatos. Korporatyvinė programa generavo $4,200 per mėnesį pasikartojančių pajamų. Iki pirmųjų metų pabaigos (2024 m. kovą) „Drift & Downward Dog“ sugeneravo $342,000 bendrųjų pajamų (produktų pardavimai – $218,000, pamokų pajamos – $94,000, korporatyvinė sveikatingumo programa – $30,000).',
+                '2023 m. spalį Kai susisiekė REI Pietų Kalifornijos regiono pirkėjas, dalyvavęs vienoje iš jos pamokų. REI pateikė bandomąjį užsakymą – 30 Drift lentų ir 15 Mini lentų 5 Santa Monikos rajono parduotuvėms. OLagoon pritaikė pakuotę, įtraukdamas REI reikalavimus atitinkančias pakabos etiketes ir QR kodo produkto registraciją. Iki 2023 m. gruodžio REI pardavimo rodiklis 5 parduotuvėse pasiekė 82 %, todėl REI pateikė papildomą 100 lentų užsakymą 20 Pietų Kalifornijos vietovių. Kai taip pat paleido korporatyvinę sveikatingumo programą – sudarė sutartis su 4 technologijų bendrovėmis (Google Venice, Hulu Santa Monica ir dviem kitomis) dėl savaitinių SUP jogos pamokų darbo vietoje kaip darbuotojų lengvatos. Korporatyvinė programa generavo $4,200 per mėnesį pasikartojančių pajamų. Iki pirmųjų metų pabaigos (2024 m. kovą) „Drift & Downward Dog“ sugeneravo $342,000 bendrųjų pajamų (produktų pardavimai – $218,000, pamokų pajamos – $94,000, korporatyvinė sveikatingumo programa – $30,000).',
             },
           ],
           results: [
@@ -1687,8 +1687,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl Afarer',
+    whyOLagoon: {
+      title: 'Kodėl OLagoon',
       items: [
         {
           title: 'Sveikatingumo patirties supratimas',
@@ -1729,7 +1729,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar galiu sukurti savo prekės ženklo SUP jogos produktų liniją?',
         answer:
-          'Taip. Afarer teikia pilną private label gamybą su pasirinktinėmis spalvomis, grafika, pakuote ir priedais, specialiai sukurtais jogos ir sveikatingumo prekės ženklams.',
+          'Taip. OLagoon teikia pilną private label gamybą su pasirinktinėmis spalvomis, grafika, pakuote ir priedais, specialiai sukurtais jogos ir sveikatingumo prekės ženklams.',
       },
       {
         question: 'Ar jūsų SUP jogos lentos tinka profesiniam naudojimui studijoje?',
@@ -1769,12 +1769,12 @@ const lt: Record<string, SolutionOverride> = {
         '{SITE} padeda YouTube, TikTok ir Instagram kūrėjams bei Kickstarter prekės ženklams paleisti tinkintus SUP produktus su sparčiais prototipais, mažo MOQ gamyba, riboto leidimo dizainu ir private label sprendimais.',
     },
     hero: {
-      tagline: 'Su Afarer paverskite savo auditoriją vandens sporto prekės ženklu',
+      tagline: 'Su OLagoon paverskite savo auditoriją vandens sporto prekės ženklu',
       title: 'Tinkintos SUP gamybos sprendimai YouTube, TikTok ir Instagram kūrėjams bei Kickstarter prekės ženklams',
       subtitle:
-        'Afarer padeda kūrėjams paleisti savo SUP prekės ženklus per greitą prototipų kūrimą, mažų apimčių MOQ gamybą, tinkintą grafiką, riboto leidimo dizainą, prekės ženklo pakuotę ir lanksčius gamybos sprendimus.',
+        'OLagoon padeda kūrėjams paleisti savo SUP prekės ženklus per greitą prototipų kūrimą, mažų apimčių MOQ gamybą, tinkintą grafiką, riboto leidimo dizainą, prekės ženklo pakuotę ir lanksčius gamybos sprendimus.',
       image: {
-        alt: 'Afarer tinkintos SUP lentos kūrėjų ir influencerių prekės ženklams',
+        alt: 'OLagoon tinkintos SUP lentos kūrėjų ir influencerių prekės ženklams',
       },
     },
     challenge: {
@@ -1808,7 +1808,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Greitas SUP prototipų kūrimas',
           description:
-            'Afarer padeda greitai paversti idėjas fiziniais prototipais. Nuo koncepcijos kūrimo ir lentų pavyzdžių iki grafikos testavimo ir konfigūracijos derinimo — kūrėjai gali sparčiai tobulinti produktą pagal bendruomenės grįžtamąjį ryšį.',
+            'OLagoon padeda greitai paversti idėjas fiziniais prototipais. Nuo koncepcijos kūrimo ir lentų pavyzdžių iki grafikos testavimo ir konfigūracijos derinimo — kūrėjai gali sparčiai tobulinti produktą pagal bendruomenės grįžtamąjį ryšį.',
           features: [
             'Produkto koncepcijos kūrimas',
             'Prototipų gamyba',
@@ -1819,7 +1819,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Mažo MOQ gamyba kūrėjų prekės ženklams',
           description:
-            'Kūrėjai turi patvirtinti paklausą prieš plėsdamiesi. Afarer palaiko lankstias pradinio etapo apimtis nuo 100-300 vienetų bendruomenės testavimui ir ribotiems paleidimams, didindamas iki 500-2000 augimo etapui ir 3000+ pilnam prekės ženklo veikimui.',
+            'Kūrėjai turi patvirtinti paklausą prieš plėsdamiesi. OLagoon palaiko lankstias pradinio etapo apimtis nuo 100-300 vienetų bendruomenės testavimui ir ribotiems paleidimams, didindamas iki 500-2000 augimo etapui ir 3000+ pilnam prekės ženklo veikimui.',
           features: [
             'Kūrėjų paleidimo etapas: 100-300 vnt.',
             'Augimo etapas: 500-2000 vnt.',
@@ -1830,7 +1830,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Riboto leidimo kūrėjo SUP dizainas',
           description:
-            'Kūrėjų prekės ženklai sėkmingi dėl unikalumo. Afarer padeda kurti išskirtinius leidimus su tinkinta grafika, firminiais meno darbais, specialiais spalvų leidimais ir bendruomenės įkvėptais dizaino elementais, kurių gerbėjai iš tiesų nori.',
+            'Kūrėjų prekės ženklai sėkmingi dėl unikalumo. OLagoon padeda kurti išskirtinius leidimus su tinkinta grafika, firminiais meno darbais, specialiais spalvų leidimais ir bendruomenės įkvėptais dizaino elementais, kurių gerbėjai iš tiesų nori.',
           features: [
             'Tinkinta grafika ir meno darbai',
             'Firminiai ir bendruomenės leidimai',
@@ -1841,12 +1841,12 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Premium pakuotė kūrėjų paleidimams',
           description:
-            'Kūrėjams išpakavimas yra prekės ženklo patirties dalis. Afarer palaiko tinkintą pakuotę su prekės ženklo dėžėmis, produktų kortelėmis, padėkos žinutėmis ir QR kodais, nukreipiančiais į kūrėjo turinį, kurie paverčia klientus ilgalaikiais sekėjais.',
+            'Kūrėjams išpakavimas yra prekės ženklo patirties dalis. OLagoon palaiko tinkintą pakuotę su prekės ženklo dėžėmis, produktų kortelėmis, padėkos žinutėmis ir QR kodais, nukreipiančiais į kūrėjo turinį, kurie paverčia klientus ilgalaikiais sekėjais.',
         },
         {
           title: 'Kickstarter ir grupinio finansavimo produktų palaikymas',
           description:
-            'Daugelis kūrėjų naudoja grupinį finansavimą paklausai patvirtinti. Afarer palaiko prototipų kūrimą prieš paleidimą, kampanijos gamybos planavimą ir paketinį įvykdymą po kampanijos, kad kūrėjai galėtų ištesėti savo pažadus.',
+            'Daugelis kūrėjų naudoja grupinį finansavimą paklausai patvirtinti. OLagoon palaiko prototipų kūrimą prieš paleidimą, kampanijos gamybos planavimą ir paketinį įvykdymą po kampanijos, kad kūrėjai galėtų ištesėti savo pažadus.',
           features: [
             'Kūrimas prieš paleidimą',
             'Kampanijos gamybos planavimas',
@@ -1857,7 +1857,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Kūrėjų prekės ženklo produktų plėtra',
           description:
-            'Sėkmingas kūrėjų prekės ženklas gali išsiplėsti į pilną lauko ekosistemą. Afarer palaiko SUP produktų linijas, vandens priedus ir sezonines kolekcijas, augančias kartu su bendruomene.',
+            'Sėkmingas kūrėjų prekės ženklas gali išsiplėsti į pilną lauko ekosistemą. OLagoon palaiko SUP produktų linijas, vandens priedus ir sezonines kolekcijas, augančias kartu su bendruomene.',
           features: [
             'Firminė SUP lentų linija',
             'Vandens priedai',
@@ -1868,7 +1868,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Turiniui palankus produktų kūrimas',
           description:
-            'Kūrėjams reikia produktų, kurie natūraliai palaiko pasakojimą. Afarer padeda kurti produktus, tinkančius išpakavimo vaizdo įrašams, nuotykių turiniui, produktų apžvalgoms ir bendruomenės iššūkiams, kurie sukuria organinį įsitraukimą.',
+            'Kūrėjams reikia produktų, kurie natūraliai palaiko pasakojimą. OLagoon padeda kurti produktus, tinkančius išpakavimo vaizdo įrašams, nuotykių turiniui, produktų apžvalgoms ir bendruomenės iššūkiams, kurie sukuria organinį įsitraukimą.',
           features: [
             'Išpakavimo patirties dizainas',
             'Nuotykiams parengti produktai',
@@ -1879,7 +1879,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Kokybės kontrolė kūrėjo reputacijai',
           description:
-            'Pasitikėjimas yra vertingiausias kūrėjo turtas. Afarer kokybės kontrolė apima oro slėgio stabilumo testavimą, lentų patvarumo patikrinimą, grafikos ir spalvų pastovumo patikras bei visišką priedų inspekciją, siekiant apsaugoti santykius su bendruomene.',
+            'Pasitikėjimas yra vertingiausias kūrėjo turtas. OLagoon kokybės kontrolė apima oro slėgio stabilumo testavimą, lentų patvarumo patikrinimą, grafikos ir spalvų pastovumo patikras bei visišką priedų inspekciją, siekiant apsaugoti santykius su bendruomene.',
         },
       ],
     },
@@ -1898,7 +1898,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Prototipų kūrimas',
           detail:
-            'Afarer sukūrė tinkintą lentos dizainą su firmine grafika ir produktais pavyzdžiais. Kūrėjas išbandė našumą ir išvaizdą bei surinko auditorijos atsiliepimus prieš įsipareigodamas gamybai.',
+            'OLagoon sukūrė tinkintą lentos dizainą su firmine grafika ir produktais pavyzdžiais. Kūrėjas išbandė našumą ir išvaizdą bei surinko auditorijos atsiliepimus prieš įsipareigodamas gamybai.',
         },
         {
           title: 'Riboto leidimo paleidimas',
@@ -1923,29 +1923,29 @@ const lt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brazilija',
             background:
-              'Carlos Mendes (34 m.) – National Geographic pristatytas nuotykių fotografas ir bepiločių orlaivių valdytojas, turintis 890 000 Instagram sekėjų. Septynerius metus dokumentavęs atokias Amazonės upės ekspedicijas, jis pastebėjo, kad jo auditorija vis dažniau teiraujasi apie pripučiamas SUP lentas, kuriomis jis naudojosi vykdamas į filmavimo vietas. Neturėdamas irklavimo patirties, jis reikalavo, kad Afarer sukurtų tinkintą lentą, galinčią tarnauti ir kaip kameros platforma, ir kaip ekspedicinis plūduras, kartu paleidžiant merch prekės ženklą pagal jo „Rios do Brasil“ serialą.',
+              'Carlos Mendes (34 m.) – National Geographic pristatytas nuotykių fotografas ir bepiločių orlaivių valdytojas, turintis 890 000 Instagram sekėjų. Septynerius metus dokumentavęs atokias Amazonės upės ekspedicijas, jis pastebėjo, kad jo auditorija vis dažniau teiraujasi apie pripučiamas SUP lentas, kuriomis jis naudojosi vykdamas į filmavimo vietas. Neturėdamas irklavimo patirties, jis reikalavo, kad OLagoon sukurtų tinkintą lentą, galinčią tarnauti ir kaip kameros platforma, ir kaip ekspedicinis plūduras, kartu paleidžiant merch prekės ženklą pagal jo „Rios do Brasil“ serialą.',
             goal: 'Iki 2025 m. gegužės paleisti bendrą firminę SUP lentą, apimančią Brazilijos 5 didžiuosius vandens biomas (Amazoniją, Pantanalį, São Francisco, Paraná ir pakrantės Rio), iš anksto parduodant 500 vienetų po R$4,990 už vienetą prieš gamybą.',
           },
           steps: [
             {
-              title: 'Biomas pritaikyta R&D ekspedicija su Afarer inžinieriais',
+              title: 'Biomas pritaikyta R&D ekspedicija su OLagoon inžinieriais',
               detail:
-                '2024 m. rugpjūtį Afarer išsiuntė vyresnįjį jūrų inžinierių Li Wei ir produkto dizainerį Henrik Larsson į Manaus dešimčiai dienų. Jie su Carlos irklavo 180 km Rio Negro upe, matuodami vandens temperatūrą (28-32°C), nuosėdų kiekį ir tipinį krovinį (40 kg kameros įrangos ir 25 kg stovyklavimo įrangos). Paaiškėjo, kad standartinės drop-stitch lentos atsisluoksniuoja veikiant ekvatoriniam UV indeksui 12+ ir abrazyviam smėliui pernešimų metu. Carlos reikalavo, kad lenta, išleidus orą, tilptų į 65 litrų sausmaišį skrydžiams krūmynų lėktuvais.',
+                '2024 m. rugpjūtį OLagoon išsiuntė vyresnįjį jūrų inžinierių Li Wei ir produkto dizainerį Henrik Larsson į Manaus dešimčiai dienų. Jie su Carlos irklavo 180 km Rio Negro upe, matuodami vandens temperatūrą (28-32°C), nuosėdų kiekį ir tipinį krovinį (40 kg kameros įrangos ir 25 kg stovyklavimo įrangos). Paaiškėjo, kad standartinės drop-stitch lentos atsisluoksniuoja veikiant ekvatoriniam UV indeksui 12+ ir abrazyviam smėliui pernešimų metu. Carlos reikalavo, kad lenta, išleidus orą, tilptų į 65 litrų sausmaišį skrydžiams krūmynų lėktuvais.',
             },
             {
               title: 'Trijų sluoksnių fusion konstrukcija ir modulinė įrangos sistema',
               detail:
-                'Afarer R&D centras Xiamen mieste tarp 2024 m. rugsėjo ir lapkričio pagamino 7 prototipus. Galutinis dizainas naudojo 3 sluoksnių PVC-Dropstitch-PVC sumuštinį su papildomu UV atspindinčiu viršutiniu dangu, išbandytą 1 200 valandų pagreitinto UV poveikio. Patentuota „Rails-to-Rail“ sutvirtinimo sistema suteikė šoninį standumą be papildomo svorio. Carlos ir Afarer bendrai sukūrė modulinę kameros laikiklio bėgių sistemą, prisukamą per sutvirtintas pagalvėles — be siurblių — ir išbandytą laikant 28 kg 30 km/h vilkimo greičiu. Kiekviena lenta svėrė tik 11,8 kg, bet laikė 220 kg krovinį.',
+                'OLagoon R&D centras Xiamen mieste tarp 2024 m. rugsėjo ir lapkričio pagamino 7 prototipus. Galutinis dizainas naudojo 3 sluoksnių PVC-Dropstitch-PVC sumuštinį su papildomu UV atspindinčiu viršutiniu dangu, išbandytą 1 200 valandų pagreitinto UV poveikio. Patentuota „Rails-to-Rail“ sutvirtinimo sistema suteikė šoninį standumą be papildomo svorio. Carlos ir OLagoon bendrai sukūrė modulinę kameros laikiklio bėgių sistemą, prisukamą per sutvirtintas pagalvėles — be siurblių — ir išbandytą laikant 28 kg 30 km/h vilkimo greičiu. Kiekviena lenta svėrė tik 11,8 kg, bet laikė 220 kg krovinį.',
             },
             {
               title: 'Turinio vedama ikikampaninė kampanija ir riboti biomų leidimai',
               detail:
-                'Nuo 2024 m. gruodžio Carlos išleido 5 mini dokumentinius filmus (vidutiniškai po 4,2 milijono peržiūrų), rodančius prototipų testavimą kiekviename biome. Afarer įsteigė atskirą Shopify D2C parduotuvę su regioniniais logistikos centrais Manaus, São Paulo ir Brasília. Buvo pagaminti 5 biomams pritaikyti spalvų variantai (Rio Negro tamsus vanduo, Pantanalio saulėlydis, São Francisco kanjono raudona, Paraná miško žalia, Costa Dourada auksas), kiekvienas ribotas iki 100 vienetų. Klientai galėjo „įsūkti savo biomą“ ir gaudavo GPS sekamą paramą Carlos Amazonės miškų atželdinimo fondui.',
+                'Nuo 2024 m. gruodžio Carlos išleido 5 mini dokumentinius filmus (vidutiniškai po 4,2 milijono peržiūrų), rodančius prototipų testavimą kiekviename biome. OLagoon įsteigė atskirą Shopify D2C parduotuvę su regioniniais logistikos centrais Manaus, São Paulo ir Brasília. Buvo pagaminti 5 biomams pritaikyti spalvų variantai (Rio Negro tamsus vanduo, Pantanalio saulėlydis, São Francisco kanjono raudona, Paraná miško žalia, Costa Dourada auksas), kiekvienas ribotas iki 100 vienetų. Klientai galėjo „įsūkti savo biomą“ ir gaudavo GPS sekamą paramą Carlos Amazonės miškų atželdinimo fondui.',
             },
             {
               title: '2025 m. balandžio paleidimas ir Brazilijos platinimo tinklas',
               detail:
-                '2025 m. balandžio 5 d. „Rios do Brasil Explorer 12.6“ buvo paleistas Ibirapuera parke São Paulo mieste dalyvaujant 350 influencerių ir žiniasklaidos atstovų. Visi 500 vienetų buvo iš anksto parduoti per 11 valandų — R$2.495 milijono pajamos. Afarer oro kroviniu skubiai pristatė 200 vienetų, kad aplenktų Amazonės sausąjį sezoną, o 300 keliavo jūrų kroviniu. Carlos biomo paramos programa pirmąjį mėnesį surinko R$187,000. Afarer ir Carlos pasirašė 3 metų išimtinio platinimo sutartį Lotynų Amerikai su mažiausiai 2 000 vienetų per metus, o antrasis modelis („Expedition Tandem“) jau kuriamas 2026 m.',
+                '2025 m. balandžio 5 d. „Rios do Brasil Explorer 12.6“ buvo paleistas Ibirapuera parke São Paulo mieste dalyvaujant 350 influencerių ir žiniasklaidos atstovų. Visi 500 vienetų buvo iš anksto parduoti per 11 valandų — R$2.495 milijono pajamos. OLagoon oro kroviniu skubiai pristatė 200 vienetų, kad aplenktų Amazonės sausąjį sezoną, o 300 keliavo jūrų kroviniu. Carlos biomo paramos programa pirmąjį mėnesį surinko R$187,000. OLagoon ir Carlos pasirašė 3 metų išimtinio platinimo sutartį Lotynų Amerikai su mažiausiai 2 000 vienetų per metus, o antrasis modelis („Expedition Tandem“) jau kuriamas 2026 m.',
             },
           ],
           results: [
@@ -1961,29 +1961,29 @@ const lt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norvegija',
             background:
-              'Tor Haugen (29 m.) – buvęs Norvegijos nacionalinės rinktinės slidinėjimo kroso sportininkas, tapęs CrossFit Games pusfinalininku, turintis 620 000 YouTube prenumeratorių ir 410 000 TikTok sekėjų. Jo „Nordic Strength“ fitneso kanale rodomos lauko treniruotės naudojant neįprastą įrangą. Po virusinio vaizdo įrašo (8,7 milijono peržiūrų), kuriame jis atlieka burpees ant pigios SUP lentos Oslo fjorde, jo bendruomenė ėmė reikalauti lentos, sukurtos didelio intensyvumo fitnesui. Tor neturėjo produktų dizaino patirties, todėl jam reikėjo Afarer, kad sukurtų stabilią platformą, atlaikančią šuolius, svorių mėtymą ir šiaurietiškų orų ekstremumus.',
+              'Tor Haugen (29 m.) – buvęs Norvegijos nacionalinės rinktinės slidinėjimo kroso sportininkas, tapęs CrossFit Games pusfinalininku, turintis 620 000 YouTube prenumeratorių ir 410 000 TikTok sekėjų. Jo „Nordic Strength“ fitneso kanale rodomos lauko treniruotės naudojant neįprastą įrangą. Po virusinio vaizdo įrašo (8,7 milijono peržiūrų), kuriame jis atlieka burpees ant pigios SUP lentos Oslo fjorde, jo bendruomenė ėmė reikalauti lentos, sukurtos didelio intensyvumo fitnesui. Tor neturėjo produktų dizaino patirties, todėl jam reikėjo OLagoon, kad sukurtų stabilią platformą, atlaikančią šuolius, svorių mėtymą ir šiaurietiškų orų ekstremumus.',
             goal: 'Sukurti pirmąją „funkcinio fitneso SUP“ lentą, sertifikuotą CrossFit stiliaus treniruotėms, paleidžiant 2024 m. spalį už 3,990 NOK ($370 USD), su 1 000 vienetų išankstiniu pardavimu ir tuo pačiu metu vykstančiu 20 miestų Europos turu.',
           },
           steps: [
             {
               title: 'Oslo fjordo prototipų bandymai su jėgos daviklių testavimu',
               detail:
-                'Afarer produktų komanda, kuriai vadovavo konstrukcijų inžinierė Marta Johansson, 2024 m. kovą savaitę praleido Oslo Kongshavn marinai. Jie sukomplektavo 6 konkurentų lentas su 14 įtempio daviklių ir akselerometrais, kai Tor atliko burpees (120 bpm tempu), štangos laikymą virš galvos (60 kg) ir šuolius ant dėžės (50 cm dėžė). Rezultatai parodė, kad standartinės SUP lentos patiria 3,7 karto didesnį dinaminį krūvį nei poilsinis irklavimas. Denio lankstumas viršijo 22 mm — tai pavojinga kulkšnies stabilumui. Martos komanda apskaičiavo, kad reikia 200% standesnės torsinės dėžės su unikalia „drop-through“ stovėjimo platforma.',
+                'OLagoon produktų komanda, kuriai vadovavo konstrukcijų inžinierė Marta Johansson, 2024 m. kovą savaitę praleido Oslo Kongshavn marinai. Jie sukomplektavo 6 konkurentų lentas su 14 įtempio daviklių ir akselerometrais, kai Tor atliko burpees (120 bpm tempu), štangos laikymą virš galvos (60 kg) ir šuolius ant dėžės (50 cm dėžė). Rezultatai parodė, kad standartinės SUP lentos patiria 3,7 karto didesnį dinaminį krūvį nei poilsinis irklavimas. Denio lankstumas viršijo 22 mm — tai pavojinga kulkšnies stabilumui. Martos komanda apskaičiavo, kad reikia 200% standesnės torsinės dėžės su unikalia „drop-through“ stovėjimo platforma.',
             },
             {
               title: 'Kompozicinė stringerio platforma ir neslidaus denio technologija',
               detail:
-                'Per 4 mėnesius Afarer pagamino 9 vis standesnius prototipus. Proveržis atsirado dėka 2,5 mm jūrinio aliuminio stringerio sumuštinio, įmontuoto tarp dviejų drop-stitch sluoksnių, — sukurta lenta su 0,8 mm lankstumu esant 100 kg dinaminiam krūviui. Deniui naudota uždarųjų ląstelių EVA putplastis su 6 mm pakeltu rombiniu raštu — Tor išbandė ją šlapią, pasūdytą ir purviną ir nustatė, kad sukibimas viršija riedlenčių sukibimo juostą. Afarer pridėjo D-ring tvirtinimo taškus 22 vietose aplink lentos perimetrą atsparumo juostoms ir svarmenims. Kiekviena lenta turėjo įssegamą saugos pavadžio inkarą, patvirtintą 500 kg statiniam krūviui.',
+                'Per 4 mėnesius OLagoon pagamino 9 vis standesnius prototipus. Proveržis atsirado dėka 2,5 mm jūrinio aliuminio stringerio sumuštinio, įmontuoto tarp dviejų drop-stitch sluoksnių, — sukurta lenta su 0,8 mm lankstumu esant 100 kg dinaminiam krūviui. Deniui naudota uždarųjų ląstelių EVA putplastis su 6 mm pakeltu rombiniu raštu — Tor išbandė ją šlapią, pasūdytą ir purviną ir nustatė, kad sukibimas viršija riedlenčių sukibimo juostą. OLagoon pridėjo D-ring tvirtinimo taškus 22 vietose aplink lentos perimetrą atsparumo juostoms ir svarmenims. Kiekviena lenta turėjo įssegamą saugos pavadžio inkarą, patvirtintą 500 kg statiniam krūviui.',
             },
             {
               title: 'Nordic Strength bendras prekės ženklinimas ir sertifikavimo procesas',
               detail:
-                'Tor ir Afarer sukūrė „Nordic Strength Trainer 11.0“ prekės ženklinimą su Toro firminiu mėlynai baltu spalvų deriniu, atitinkančiu jo kanalo vizualinį stilių. Afarer padėjo Tor pereiti EU CE sertifikavimą fitneso įrangai (atskiras procesas nuo standartinio SUP sertifikavimo), reikalaujantį 200 valandų mechaninio nuovargio testavimo. Pakuotėje buvo QR kodai, nukreipiantys į Toro 12 savaičių „Fjord Fitness“ treniruočių programą, nufilmuotą bendradarbiaujant su Norvegijos sporto medicinos klinika. Afarer įsteigė Europos platinimo centrą Roterdame, aptarnaujantį 20 šalių.',
+                'Tor ir OLagoon sukūrė „Nordic Strength Trainer 11.0“ prekės ženklinimą su Toro firminiu mėlynai baltu spalvų deriniu, atitinkančiu jo kanalo vizualinį stilių. OLagoon padėjo Tor pereiti EU CE sertifikavimą fitneso įrangai (atskiras procesas nuo standartinio SUP sertifikavimo), reikalaujantį 200 valandų mechaninio nuovargio testavimo. Pakuotėje buvo QR kodai, nukreipiantys į Toro 12 savaičių „Fjord Fitness“ treniruočių programą, nufilmuotą bendradarbiaujant su Norvegijos sporto medicinos klinika. OLagoon įsteigė Europos platinimo centrą Roterdame, aptarnaujantį 20 šalių.',
             },
             {
               title: '2024 m. spalio paleidimas 20-yje Europos miestų',
               detail:
-                '„Fjord to Peak“ turas startavo 2024 m. spalio 12 d. Oslo Sørenga maudymosi vietovėje, kur 1 200 dalyvių atliko grupinę SUP treniruotę. Per 5 savaites Tor aplankė Kopenhagą, Hamburgą, Amsterdamą, Berlyną, Varšuvą, Prahą, Miuncheną, Ciurichą, Milaną, Barceloną, Madridą, Paryžių, Londoną, Dubliną, Edinburgą, Stokholmą, Helsinkį, Taliną ir Rygą. Kiekvienas renginys derino 45 minučių SUP fitneso pamoką ir susitikimą su gerbėjais. Visi 1 000 paleidimo vienetų buvo parduoti išankstiniame pardavime dar prieš pirmąjį renginį; Afarer turėjo skubiai oro kroviniu pervežti 500 papildomų vienetų turo viduryje. Iš viso 2024 m. pardavimai pasiekė 2 300 vienetų 18-yje Europos šalių.',
+                '„Fjord to Peak“ turas startavo 2024 m. spalio 12 d. Oslo Sørenga maudymosi vietovėje, kur 1 200 dalyvių atliko grupinę SUP treniruotę. Per 5 savaites Tor aplankė Kopenhagą, Hamburgą, Amsterdamą, Berlyną, Varšuvą, Prahą, Miuncheną, Ciurichą, Milaną, Barceloną, Madridą, Paryžių, Londoną, Dubliną, Edinburgą, Stokholmą, Helsinkį, Taliną ir Rygą. Kiekvienas renginys derino 45 minučių SUP fitneso pamoką ir susitikimą su gerbėjais. Visi 1 000 paleidimo vienetų buvo parduoti išankstiniame pardavime dar prieš pirmąjį renginį; OLagoon turėjo skubiai oro kroviniu pervežti 500 papildomų vienetų turo viduryje. Iš viso 2024 m. pardavimai pasiekė 2 300 vienetų 18-yje Europos šalių.',
             },
           ],
           results: [
@@ -1995,8 +1995,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl kūrėjai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl kūrėjai renkasi OLagoon',
       items: [
         {
           title: 'Produktų kompetencija',
@@ -2024,38 +2024,38 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kokia yra minimali užsakymo apimtis kūrėjo prekės ženklo SUP produktams?',
         answer:
-          'Afarer palaiko mažo MOQ gamybą, pradedant nuo 100-300 vienetų kūrėjų paleidimo etapams, todėl galite patvirtinti paklausą be didelių atsargų investicijų. Augant jūsų prekės ženklui, galime didinti gamybą iki 500-2000 vienetų ir daugiau.',
+          'OLagoon palaiko mažo MOQ gamybą, pradedant nuo 100-300 vienetų kūrėjų paleidimo etapams, todėl galite patvirtinti paklausą be didelių atsargų investicijų. Augant jūsų prekės ženklui, galime didinti gamybą iki 500-2000 vienetų ir daugiau.',
       },
       {
-        question: 'Ar Afarer gali padėti kuriant ir prototipuojant mano tinkintą SUP lentą?',
+        question: 'Ar OLagoon gali padėti kuriant ir prototipuojant mano tinkintą SUP lentą?',
         answer:
-          'Taip, Afarer teikia visapusį produkto koncepcijos kūrimą, prototipų gamybą, spalvų ir grafikos testavimą bei konfigūracijos derinimą. Glaudžiai bendradarbiaujame su kūrėjais, kad jų vizija taptų realybe — su tinkintais lentų dizainais, firmine grafika ir produktų pavyzdžiais.',
+          'Taip, OLagoon teikia visapusį produkto koncepcijos kūrimą, prototipų gamybą, spalvų ir grafikos testavimą bei konfigūracijos derinimą. Glaudžiai bendradarbiaujame su kūrėjais, kad jų vizija taptų realybe — su tinkintais lentų dizainais, firmine grafika ir produktų pavyzdžiais.',
       },
       {
         question: 'Kiek laiko užtrunka sukurti prototipą ir pradėti gamybą?',
         answer:
-          'Afarer kūrėjų projektuose pirmenybę teikia greičiui. Prototipų kūrimas paprastai užtrunka kelias savaites, o gamybos grafikai yra lankstūs, kad atitiktų kampanijų tvarkaraščius, sezoninį laiką ir auditorijos spartą.',
+          'OLagoon kūrėjų projektuose pirmenybę teikia greičiui. Prototipų kūrimas paprastai užtrunka kelias savaites, o gamybos grafikai yra lankstūs, kad atitiktų kampanijų tvarkaraščius, sezoninį laiką ir auditorijos spartą.',
       },
       {
         question: 'Ar galite palaikyti Kickstarter kampanijas gamyba ir įvykdymu?',
         answer:
-          'Taip, Afarer palaiko prototipų paruošimą prieš paleidimą, kampanijos gamybos planavimą, preliminarių terminų rengimą ir paketinį įvykdymą po kampanijos, įskaitant pakavimo ir siuntimo paruošimą.',
+          'Taip, OLagoon palaiko prototipų paruošimą prieš paleidimą, kampanijos gamybos planavimą, preliminarių terminų rengimą ir paketinį įvykdymą po kampanijos, įskaitant pakavimo ir siuntimo paruošimą.',
       },
       {
         question: 'Kokios tinkinimo parinktys galimos riboto leidimo SUP lentoms?',
         answer:
-          'Afarer siūlo tinkintą grafiką, firminius meno darbus, kūrėjų logotipus, bendruomenės simbolius, unikalius raštus, specialius spalvų leidimus, ribotą numeravimą ir premium pakuotę su prekės ženklo dėžėmis bei istorijos medžiagomis.',
+          'OLagoon siūlo tinkintą grafiką, firminius meno darbus, kūrėjų logotipus, bendruomenės simbolius, unikalius raštus, specialius spalvų leidimus, ribotą numeravimą ir premium pakuotę su prekės ženklo dėžėmis bei istorijos medžiagomis.',
       },
       {
-        question: 'Kaip Afarer užtikrina kokybės kontrolę kūrėjo prekės ženklo produktams?',
+        question: 'Kaip OLagoon užtikrina kokybės kontrolę kūrėjo prekės ženklo produktams?',
         answer:
-          'Afarer atlieka oro slėgio stabilumo testavimą, lentų patvarumo patikrinimą, medžiagų kokybės inspekciją, grafikos ir spalvų pastovumo patikras, pakuotės kokybės peržiūrą ir visišką priedų inspekciją, siekiant apsaugoti jūsų bendruomenės pasitikėjimą.',
+          'OLagoon atlieka oro slėgio stabilumo testavimą, lentų patvarumo patikrinimą, medžiagų kokybės inspekciją, grafikos ir spalvų pastovumo patikras, pakuotės kokybės peržiūrą ir visišką priedų inspekciją, siekiant apsaugoti jūsų bendruomenės pasitikėjimą.',
       },
     ],
     cta: {
-      title: 'Kurkite savo Creator Edition SUP prekės ženklą su Afarer',
+      title: 'Kurkite savo Creator Edition SUP prekės ženklą su OLagoon',
       subtitle:
-        'Jūsų auditorija jau seka jūsų kelionę. Dabar sukurkite ką nors, ką ji gali patirti. Afarer padeda kūrėjams paleisti tinkintus SUP produktus, riboto leidimo lentas ir private label lauko įrangą.',
+        'Jūsų auditorija jau seka jūsų kelionę. Dabar sukurkite ką nors, ką ji gali patirti. OLagoon padeda kūrėjams paleisti tinkintus SUP produktus, riboto leidimo lentas ir private label lauko įrangą.',
       primaryAction: {
         text: 'Pradėkite savo kūrėjo SUP projektą jau šiandien',
       },
@@ -2075,9 +2075,9 @@ const lt: Record<string, SolutionOverride> = {
       tagline: 'Komercinis SUP parkas™',
       title: 'Profesionalios SUP įrangos sprendimai SUP klubams, nuomos operatoriams ir vandens sporto mokykloms',
       subtitle:
-        'Afarer teikia komercinių SUP parkų sprendimus, sukurtus specialiai profesionaliems operatoriams. Padedame SUP mokykloms, SUP klubams, nuomos bendrovėms, kurortams, nuotykių operatoriams ir renginių organizatoriams kurti patikimus įrangos parkus su komercinės klasės konstrukcija ir ilgalaikiu palaikymu.',
+        'OLagoon teikia komercinių SUP parkų sprendimus, sukurtus specialiai profesionaliems operatoriams. Padedame SUP mokykloms, SUP klubams, nuomos bendrovėms, kurortams, nuotykių operatoriams ir renginių organizatoriams kurti patikimus įrangos parkus su komercinės klasės konstrukcija ir ilgalaikiu palaikymu.',
       image: {
-        alt: 'Afarer komercinis SUP parkas SUP klubams ir vandens sporto mokykloms',
+        alt: 'OLagoon komercinis SUP parkas SUP klubams ir vandens sporto mokykloms',
       },
     },
     challenge: {
@@ -2111,7 +2111,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Komercinės klasės pripučiamos SUP konstrukcija',
           description:
-            'Afarer komerciniai SUP produktai turi sutvirtintas PVC medžiagų sistemas su didesniu atsparumu abrazijai, daugiasluoksnį bortų sutvirtinimą smūgiams atlaikyti, didelio tankio drop stitch struktūrą standumui užtikrinti ir itin atsparias vožtuvų sistemas, sukurtas dažniems pripūtimo ciklams.',
+            'OLagoon komerciniai SUP produktai turi sutvirtintas PVC medžiagų sistemas su didesniu atsparumu abrazijai, daugiasluoksnį bortų sutvirtinimą smūgiams atlaikyti, didelio tankio drop stitch struktūrą standumui užtikrinti ir itin atsparias vožtuvų sistemas, sukurtas dažniems pripūtimo ciklams.',
           features: [
             'Sutvirtinta PVC medžiagų sistema',
             'Daugiasluoksnis bortų sutvirtinimas',
@@ -2122,7 +2122,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Parkui optimizuotas SUP produktų dizainas',
           description:
-            'Afarer kuria SUP įrangą pagal veiklos poreikius: specialius mokymo parkus pradedantiesiems, nuomos parkus dažniems vartotojams ir renginių parkus grupinėms veikloms. Kiekviena konfigūracija sutelkta į stabilumą, patvarumą ir lengvą priežiūrą.',
+            'OLagoon kuria SUP įrangą pagal veiklos poreikius: specialius mokymo parkus pradedantiesiems, nuomos parkus dažniems vartotojams ir renginių parkus grupinėms veikloms. Kiekviena konfigūracija sutelkta į stabilumą, patvarumą ir lengvą priežiūrą.',
           features: [
             'SUP mokymo parkas pamokoms',
             'Nuomos parkas dažniems vartotojams',
@@ -2133,12 +2133,12 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Išsami komercinio rinkinio konfigūracija',
           description:
-            'Afarer padeda sukurti išsamius parko rinkinius, įskaitant pripučiamas SUP lentas, profesionalius irklus, aukšto slėgio siurblius, patvarias saugos virves (leash), itin patvarias nešiojimo kuprines ir remonto rinkinius, taip pat papildomus variantus, pavyzdžiui, atsarginius vožtuvus, papildomus pelekus ir keičiamas rankenas.',
+            'OLagoon padeda sukurti išsamius parko rinkinius, įskaitant pripučiamas SUP lentas, profesionalius irklus, aukšto slėgio siurblius, patvarias saugos virves (leash), itin patvarias nešiojimo kuprines ir remonto rinkinius, taip pat papildomus variantus, pavyzdžiui, atsarginius vožtuvus, papildomus pelekus ir keičiamas rankenas.',
         },
         {
           title: 'Parko individualizavimas vandens verslams',
           description:
-            'Komerciniams operatoriams reikia stipraus vizualinio identiteto. Afarer palaiko logotipų individualizavimą, spalvų pritaikymą prie klubo prekės ženklo ar kurorto aplinkos bei parko identifikavimo sistemas su numeravimu ir modelių atpažinimu, leidžiančias efektyviai valdyti didelius parkus.',
+            'Komerciniams operatoriams reikia stipraus vizualinio identiteto. OLagoon palaiko logotipų individualizavimą, spalvų pritaikymą prie klubo prekės ženklo ar kurorto aplinkos bei parko identifikavimo sistemas su numeravimu ir modelių atpažinimu, leidžiančias efektyviai valdyti didelius parkus.',
           features: [
             'Logotipo individualizavimas',
             'Spalvų individualizavimas',
@@ -2149,27 +2149,27 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Sumažinkite ilgalaikes eksploatacijos išlaidas',
           description:
-            'Pigiausia lenta ne visada yra pelningiausia. Afarer sprendimai pratęsia įrangos eksploatavimo laiką dėka atsparesnių medžiagų, didina priežiūros efektyvumą naudodami standartizuotus komponentus ir gerina verslo pelningumą mažindami prastovas bei didindami įrangos naudojimo intensyvumą.',
+            'Pigiausia lenta ne visada yra pelningiausia. OLagoon sprendimai pratęsia įrangos eksploatavimo laiką dėka atsparesnių medžiagų, didina priežiūros efektyvumą naudodami standartizuotus komponentus ir gerina verslo pelningumą mažindami prastovas bei didindami įrangos naudojimo intensyvumą.',
         },
         {
           title: 'Palaikymas SUP nuomos verslams',
           description:
-            'Nuomos operatoriams reikia įrangos, kuri būtų patogi klientams, paprasta darbuotojams ir lengvai prižiūrima. Afarer teikia pradedantiesiems pritaikytus dizainus su aukštu stabilumu, greitą paruošimą spartesnei klientų apyvartai ir patvarius priedus, įskaitant stiprius irklus ir patikimus siurblius.',
+            'Nuomos operatoriams reikia įrangos, kuri būtų patogi klientams, paprasta darbuotojams ir lengvai prižiūrima. OLagoon teikia pradedantiesiems pritaikytus dizainus su aukštu stabilumu, greitą paruošimą spartesnei klientų apyvartai ir patvarius priedus, įskaitant stiprius irklus ir patikimus siurblius.',
         },
         {
           title: 'SUP mokyklų įrangos sprendimai',
           description:
-            'SUP instruktoriams reikia įrangos, padedančios mokytis. Afarer produktus galima optimizuoti pradedančiųjų kursams, jaunimo programoms, grupiniams mokymams ir instruktorių demonstracijoms su funkcijomis, gerinančiomis mokymo patirtį.',
+            'SUP instruktoriams reikia įrangos, padedančios mokytis. OLagoon produktus galima optimizuoti pradedančiųjų kursams, jaunimo programoms, grupiniams mokymams ir instruktorių demonstracijoms su funkcijomis, gerinančiomis mokymo patirtį.',
         },
         {
           title: 'Renginių ir kurortų vandens veiklų sprendimai',
           description:
-            'Viešbučiai, kurortai ir renginių bendrovės vis dažniau siūlo paplūdimio veiklas, komandų formavimo užsiėmimus ir lauko patirtis. Afarer palaiko parkų planavimą, produktų individualizavimą ir partijų gamybą tokioms svetingumo sritims.',
+            'Viešbučiai, kurortai ir renginių bendrovės vis dažniau siūlo paplūdimio veiklas, komandų formavimo užsiėmimus ir lauko patirtis. OLagoon palaiko parkų planavimą, produktų individualizavimą ir partijų gamybą tokioms svetingumo sritims.',
         },
         {
           title: 'Priežiūra ir popardaviminis aptarnavimas',
           description:
-            'Profesionaliems operatoriams reikia palaikymo ir po pristatymo. Afarer teikia atsarginių dalių planavimą su remonto medžiagomis ir keičiamaisiais priedais, priežiūros gaires dėl laikymo ir valymo bei parko plėtimo palaikymą, pridedant naujas lentas ir modelius.',
+            'Profesionaliems operatoriams reikia palaikymo ir po pristatymo. OLagoon teikia atsarginių dalių planavimą su remonto medžiagomis ir keičiamaisiais priedais, priežiūros gaires dėl laikymo ir valymo bei parko plėtimo palaikymą, pridedant naujas lentas ir modelius.',
           features: [
             'Atsarginių dalių planavimas',
             'Priežiūros gairės',
@@ -2191,7 +2191,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Komercinio parko planavimas',
           detail:
-            'Afarer išanalizavo kasdienio naudojimo modelius, klientų įgūdžių lygius ir vandens aplinkos sąlygas, tada rekomendavo komercinio pripučiamo SUP parko konfigūraciją, pritaikytą klubo veiklos poreikiams.',
+            'OLagoon išanalizavo kasdienio naudojimo modelius, klientų įgūdžių lygius ir vandens aplinkos sąlygas, tada rekomendavo komercinio pripučiamo SUP parko konfigūraciją, pritaikytą klubo veiklos poreikiams.',
         },
         {
           title: 'Produkto kūrimas',
@@ -2222,35 +2222,35 @@ const lt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubai, Jungtiniai Arabų Emyratai',
             background:
-              'Ahmed Al-Rashid (41 m.) 2020 m. įkūrė „Dubai Paddle Club“ su 8 pradinio lygio SUP lentomis, nuomojamomis iš transporto konteinerio netoli Dubai Marina. Iki 2023 m. jo verslas natūraliai išaugo iki 45 lentų dviejose vietose, tačiau jis patyrė 60 % metinių atsargų nuostolių dėl atsluoksniavimo, UV žalos ir sūraus vandens korozijos. Vidutinė lentos eksploatavimo trukmė buvo tik 7 mėnesiai. Ahmedo 12 darbuotojų kas savaitę 22 valandas skirdavo remontui, o ne klientų aptarnavimui. Jis kreipėsi į Afarer, kai konkurentas rekomendavo, kad jų iSUP lentos Vidurio Rytų sąlygomis tarnauja 3+ metus.',
+              'Ahmed Al-Rashid (41 m.) 2020 m. įkūrė „Dubai Paddle Club“ su 8 pradinio lygio SUP lentomis, nuomojamomis iš transporto konteinerio netoli Dubai Marina. Iki 2023 m. jo verslas natūraliai išaugo iki 45 lentų dviejose vietose, tačiau jis patyrė 60 % metinių atsargų nuostolių dėl atsluoksniavimo, UV žalos ir sūraus vandens korozijos. Vidutinė lentos eksploatavimo trukmė buvo tik 7 mėnesiai. Ahmedo 12 darbuotojų kas savaitę 22 valandas skirdavo remontui, o ne klientų aptarnavimui. Jis kreipėsi į OLagoon, kai konkurentas rekomendavo, kad jų iSUP lentos Vidurio Rytų sąlygomis tarnauja 3+ metus.',
             goal: 'Standartizuoti vieną patvarų 200 lentų parką, aptarnaujantį 3 vietas (Dubai Marina, Abu Dhabi Corniche ir Fujairah Beach), su ≤15 % metiniu keitimo lygiu ir 40 % didesniu kiekvienos lentos mėnesiniu naudojimu.',
           },
           steps: [
             {
               title: '14 lentų atsparumo testavimas JAE vasaros sąlygomis',
               detail:
-                '2024 m. gegužę Afarer išsiuntė regiono pardavimų direktorių Karim Nasr ir produkto inžinierę Sophie Chen į Dubai atlikti 6 savaičių lauko testo. Jie išdėstė 14 konkurentų iSUP ir 6 Afarer prototipus visose 3 vietose vasaros piko metu (oro temperatūra 48°C, vanduo 35°C, UV indeksas 11). Ahmedo darbuotojai užregistravo 1 100+ nuomos valandų su duomenimis apie pripūtimo išlaikymą, vožtuvų gedimus, abraziją ir klientų pasitenkinimą. Afarer XHD 15,0 mm lentos per 8 valandas prarado tik 0,3 PSI, o konkurentų vidurkis – 2,1 PSI. Afarer lentos neparodė nė vieno vožtuvų gedimo – konkurentų vidurkis buvo 1 gedimas per 120 nuomos valandų.',
+                '2024 m. gegužę OLagoon išsiuntė regiono pardavimų direktorių Karim Nasr ir produkto inžinierę Sophie Chen į Dubai atlikti 6 savaičių lauko testo. Jie išdėstė 14 konkurentų iSUP ir 6 OLagoon prototipus visose 3 vietose vasaros piko metu (oro temperatūra 48°C, vanduo 35°C, UV indeksas 11). Ahmedo darbuotojai užregistravo 1 100+ nuomos valandų su duomenimis apie pripūtimo išlaikymą, vožtuvų gedimus, abraziją ir klientų pasitenkinimą. OLagoon XHD 15,0 mm lentos per 8 valandas prarado tik 0,3 PSI, o konkurentų vidurkis – 2,1 PSI. OLagoon lentos neparodė nė vieno vožtuvų gedimo – konkurentų vidurkis buvo 1 gedimas per 120 nuomos valandų.',
             },
             {
               title: 'Individualizuota parko konfigūracija su RFID sekimu ir spalvų kodavimu',
               detail:
-                'Remdamasi lauko duomenimis, Afarer rekomendavo 3 tipų lentų parko sudėtį: 120 „Marina Pro 11.6“ (universalios), 50 „Expedition 12.6“ (turizmo, skirtos Fujairah pakrantei) ir 30 „Yoga XL 10.8“ (moterų vedamoms aušros pamokoms). Afarer įmontavo RFID žymas kiekvienos lentos peleko lizde Ahmedo individualiai inventoriaus sistemai su rankiniais skaitytuvais. Lentos buvo spalvomis koduojamos pagal vietą: Dubai Marina – tamsiai žydra, Abu Dhabi – smėlio, Fujairah – vandenyno mėlynos spalvos. Ahmedas už Afarer lentas, palyginti su likusiu bendru parku, nustatė $5/valandai priemoką – ir 92 % klientų ėmė rinktis Afarer.',
+                'Remdamasi lauko duomenimis, OLagoon rekomendavo 3 tipų lentų parko sudėtį: 120 „Marina Pro 11.6“ (universalios), 50 „Expedition 12.6“ (turizmo, skirtos Fujairah pakrantei) ir 30 „Yoga XL 10.8“ (moterų vedamoms aušros pamokoms). OLagoon įmontavo RFID žymas kiekvienos lentos peleko lizde Ahmedo individualiai inventoriaus sistemai su rankiniais skaitytuvais. Lentos buvo spalvomis koduojamos pagal vietą: Dubai Marina – tamsiai žydra, Abu Dhabi – smėlio, Fujairah – vandenyno mėlynos spalvos. Ahmedas už OLagoon lentas, palyginti su likusiu bendru parku, nustatė $5/valandai priemoką – ir 92 % klientų ėmė rinktis OLagoon.',
             },
             {
               title: 'Darbuotojų mokymai ir standartizuota priežiūros procedūra',
               detail:
-                '2024 m. liepą Afarer Dubai Marina surengė 3 dienų intensyvius mokymus Ahmedo 15 darbuotojų. Mokymai apėmė: tinkamą pripūtimo ir nuleidimo techniką, kad būtų išvengta vožtuvų sriegių dilimo, gėlo vandens skalavimo protokolus (90 sekundžių kiekvienai lentai), UV apsauginės priemonės tepimą kas 30 nuomos valandų ir laikymo sukrovimo procedūras, kad lentos nesimintų. Afarer suteikė individualų priežiūros rinkinį su kalibruotais slėgio matuokliais, silikoniniu tepalu ir UV testų juostelėmis. Ahmedas įdiegė kasdieninį skaitmeninį kontrolinį sąrašą su nuotraukomis; įgyvendinimas buvo stebimas ir per pirmuosius 6 mėnesius vidutiniškai siekė 94 %.',
+                '2024 m. liepą OLagoon Dubai Marina surengė 3 dienų intensyvius mokymus Ahmedo 15 darbuotojų. Mokymai apėmė: tinkamą pripūtimo ir nuleidimo techniką, kad būtų išvengta vožtuvų sriegių dilimo, gėlo vandens skalavimo protokolus (90 sekundžių kiekvienai lentai), UV apsauginės priemonės tepimą kas 30 nuomos valandų ir laikymo sukrovimo procedūras, kad lentos nesimintų. OLagoon suteikė individualų priežiūros rinkinį su kalibruotais slėgio matuokliais, silikoniniu tepalu ir UV testų juostelėmis. Ahmedas įdiegė kasdieninį skaitmeninį kontrolinį sąrašą su nuotraukomis; įgyvendinimas buvo stebimas ir per pirmuosius 6 mėnesius vidutiniškai siekė 94 %.',
             },
             {
               title: 'Paleidimas 2024 m. rugpjūtį ir pirmojo sezono rezultatai',
               detail:
-                '200 lentų parkas per Dubai uostą Jebel Ali atvyko 2024 m. rugpjūčio 1 d., Ahmedo komandos mokymams jau esant baigtiems. Pirmojo mėnesio pajamos pasiekė AED 487,000 ($132,600) – 210 % daugiau nei tą patį mėnesį praėjusiais metais. Fujairah vieta pridėjo nardymo SUP turus už AED 220/asmuo, vidutiniškai 40 raitelių per dieną. Iki 2024 m. gruodžio bendras parko naudojimo lygis visose vietose siekė 73 % – pramonės vidurkis yra 45 %. Tik 3 lentos buvo pažeistos (visos dėl netinkamo klientų naudojimo) ir kiekviena buvo suremontuota per 5 darbo dienas pagal Afarer komercinę garantiją.',
+                '200 lentų parkas per Dubai uostą Jebel Ali atvyko 2024 m. rugpjūčio 1 d., Ahmedo komandos mokymams jau esant baigtiems. Pirmojo mėnesio pajamos pasiekė AED 487,000 ($132,600) – 210 % daugiau nei tą patį mėnesį praėjusiais metais. Fujairah vieta pridėjo nardymo SUP turus už AED 220/asmuo, vidutiniškai 40 raitelių per dieną. Iki 2024 m. gruodžio bendras parko naudojimo lygis visose vietose siekė 73 % – pramonės vidurkis yra 45 %. Tik 3 lentos buvo pažeistos (visos dėl netinkamo klientų naudojimo) ir kiekviena buvo suremontuota per 5 darbo dienas pagal OLagoon komercinę garantiją.',
             },
           ],
           results: [
             'Mėnesinės parko pajamos išaugo nuo AED 157,000 iki AED 487,000 ($132,600) – 210 % augimas per 6 mėnesius',
             'Metinis lentų keitimo lygis sumažėjo nuo 60 % iki 4,5 %, sutaupant maždaug AED 312,000 per metus',
-            'Klientų pasitenkinimo įvertinimai pakilo nuo 3,8/5 (bendras parkas) iki 4,7/5 (Afarer parkas); Google atsiliepimai padidėjo nuo 187 iki 1 420',
+            'Klientų pasitenkinimo įvertinimai pakilo nuo 3,8/5 (bendras parkas) iki 4,7/5 (OLagoon parkas); Google atsiliepimai padidėjo nuo 187 iki 1 420',
             'Ahmedas 2025 m. vasarį išplėtė veiklą į 4-ąją vietą (Ras Al Khaimah), užsakęs 80 papildomų lentų',
           ],
         },
@@ -2266,26 +2266,26 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Kiekvienos salos įvertinimas ir produktų individualizavimas',
               detail:
-                '2024 m. balandį Afarer EMEA klientų vadovas Stefan Berger kartu su Dimitri aplankė visas 5 salas. Kiekviena vieta turėjo skirtingas sąlygas: abrazyvus Santorini vulkaninis smėlis (pH 8.2), vėjui atviri Mykonos paplūdimiai (nuolatiniai 20–25 mazgų Meltemi vėjai), sekūs uolėti Naxos įplaukos taškai, reikalaujantys sutvirtintų lentų nosių, tolimi Paros pakrantės maršrutai (8–12 km) ir ramios, šeimoms tinkamos Crete įlankos. Afarer sukūrė 3 pritaikytus modelius: „Med RockShield 11.0“ su 50 % storesne nosies apsauga (išbandyta atliekant 2 000 velkimų smiltainiu), „Meltemi Pro 10.6“ su žemo profilio deniu vėjo stabilumui ir „Family Cruiser 11.6“ su 275 kg talpa tėvų ir vaikų naudojimui.',
+                '2024 m. balandį OLagoon EMEA klientų vadovas Stefan Berger kartu su Dimitri aplankė visas 5 salas. Kiekviena vieta turėjo skirtingas sąlygas: abrazyvus Santorini vulkaninis smėlis (pH 8.2), vėjui atviri Mykonos paplūdimiai (nuolatiniai 20–25 mazgų Meltemi vėjai), sekūs uolėti Naxos įplaukos taškai, reikalaujantys sutvirtintų lentų nosių, tolimi Paros pakrantės maršrutai (8–12 km) ir ramios, šeimoms tinkamos Crete įlankos. OLagoon sukūrė 3 pritaikytus modelius: „Med RockShield 11.0“ su 50 % storesne nosies apsauga (išbandyta atliekant 2 000 velkimų smiltainiu), „Meltemi Pro 10.6“ su žemo profilio deniu vėjo stabilumui ir „Family Cruiser 11.6“ su 275 kg talpa tėvų ir vaikų naudojimui.',
             },
             {
               title: 'Komercinės klasės konstrukcija ir modulinis priedų bortas',
               detail:
-                'Afarer gamykla Xiamen gamino lentas su 1 200 denier PVC (palyginti su standartiniu 1 000D), dvigubai suvirintomis siūlėmis, išbandytomis esant 14 PSI plyšimo slėgiui (pramonės standartas 10 PSI), ir nerūdijančio plieno D-kilpomis vietoje suvirintų plastikinių. Kiekvienoje lentoje buvo naujoji Afarer „QuickRail“ sistema – ekstruzuotas aliuminio profilis, įlietas į bortą, – leidžiantis Dimitri prisegti GoPro laikiklius, vandens butelių laikiklius ir meškerių laikiklius. Tai padidino priedų nuomos pajamas €12 už lentą per dieną. Afarer pridėjo atspindinčius logotipus geresniam matomumui: tai ypač svarbu, kai Mykonos uosto patrulis po saulėlydžio riboja laivybą.',
+                'OLagoon gamykla Xiamen gamino lentas su 1 200 denier PVC (palyginti su standartiniu 1 000D), dvigubai suvirintomis siūlėmis, išbandytomis esant 14 PSI plyšimo slėgiui (pramonės standartas 10 PSI), ir nerūdijančio plieno D-kilpomis vietoje suvirintų plastikinių. Kiekvienoje lentoje buvo naujoji OLagoon „QuickRail“ sistema – ekstruzuotas aliuminio profilis, įlietas į bortą, – leidžiantis Dimitri prisegti GoPro laikiklius, vandens butelių laikiklius ir meškerių laikiklius. Tai padidino priedų nuomos pajamas €12 už lentą per dieną. OLagoon pridėjo atspindinčius logotipus geresniam matomumui: tai ypač svarbu, kai Mykonos uosto patrulis po saulėlydžio riboja laivybą.',
             },
             {
               title: 'Darbuotojų sertifikavimas prieš sezoną ir parko valdymo sistema',
               detail:
-                '2024 m. gegužę Afarer surengė 2 dienų dirbtuves Santorini saloje, apmokęs 22 Dimitri darbuotojus visose salose. Mokymai apėmė: išsilaipinimo ant uolų techniką, mažinančią abraziją, tinkamą pripūtimą iki 14–16 PSI derinant pagal vandens temperatūrą (18–26°C sezoninis svyravimas), avarinį lauko remontą su PVC lopais (mokytojas patikrino, ar kiekvienas mokinys remontą atlieka per mažiau nei 6 minutes) ir klientų pritaikymo protokolus, užtikrinančius pagal svorį tinkamą lentos pasirinkimą. Afarer suteikė skaitmeninį parko valdymo skydelį, rodantį kiekvienos lentos nuomos valandas, priežiūros istoriją ir vietą pagal GPS. Sezono pabaigoje 97 % lauko remontų darbuotojai atliko patys, neskambindami Afarer.',
+                '2024 m. gegužę OLagoon surengė 2 dienų dirbtuves Santorini saloje, apmokęs 22 Dimitri darbuotojus visose salose. Mokymai apėmė: išsilaipinimo ant uolų techniką, mažinančią abraziją, tinkamą pripūtimą iki 14–16 PSI derinant pagal vandens temperatūrą (18–26°C sezoninis svyravimas), avarinį lauko remontą su PVC lopais (mokytojas patikrino, ar kiekvienas mokinys remontą atlieka per mažiau nei 6 minutes) ir klientų pritaikymo protokolus, užtikrinančius pagal svorį tinkamą lentos pasirinkimą. OLagoon suteikė skaitmeninį parko valdymo skydelį, rodantį kiekvienos lentos nuomos valandas, priežiūros istoriją ir vietą pagal GPS. Sezono pabaigoje 97 % lauko remontų darbuotojai atliko patys, neskambindami OLagoon.',
             },
             {
               title: '2024 m. birželio–spalio sezonas: paleidimas, išvykos ir ROI',
               detail:
-                'Dimitri naująjį parką paleido 2024 m. birželio 1 d. visose salose vienu metu. Vedamų SUP išvykų produktas (€55/asmuo už 3 valandų pakrantės tyrinėjimą su nardymo stotele) startavo birželio 15 d., kasdien iš Santorini Red Beach ir Naxos Agios Prokopios vykdant po 4 išvykas. Iki rugpjūčio išvykų rezervacijos visose salose pasiekė 2 100 per savaitę. Bendros sezoninės pajamos (birželis–spalis) sudarė €2.85 milijono – 137 % daugiau nei €1.2 milijono 2023 m. Lentų remonto išlaidos sumažėjo nuo €22,000 iki €2,800. Tik 4 lentos buvo nurašytos (visos dėl klientų kaltės, netaisytinos). Sezono pabaigoje Dimitri užsakė 100 papildomų lentų 2025 m. sezonui ir paprašė Afarer sukurti pedalų varomo SUP konversijos rinkinį.',
+                'Dimitri naująjį parką paleido 2024 m. birželio 1 d. visose salose vienu metu. Vedamų SUP išvykų produktas (€55/asmuo už 3 valandų pakrantės tyrinėjimą su nardymo stotele) startavo birželio 15 d., kasdien iš Santorini Red Beach ir Naxos Agios Prokopios vykdant po 4 išvykas. Iki rugpjūčio išvykų rezervacijos visose salose pasiekė 2 100 per savaitę. Bendros sezoninės pajamos (birželis–spalis) sudarė €2.85 milijono – 137 % daugiau nei €1.2 milijono 2023 m. Lentų remonto išlaidos sumažėjo nuo €22,000 iki €2,800. Tik 4 lentos buvo nurašytos (visos dėl klientų kaltės, netaisytinos). Sezono pabaigoje Dimitri užsakė 100 papildomų lentų 2025 m. sezonui ir paprašė OLagoon sukurti pedalų varomo SUP konversijos rinkinį.',
             },
           ],
           results: [
-            'Sezoninės pajamos per pirmuosius Afarer diegimo metus išaugo 137 % nuo €1.2M iki €2.85M',
+            'Sezoninės pajamos per pirmuosius OLagoon diegimo metus išaugo 137 % nuo €1.2M iki €2.85M',
             'Lentų remonto išlaidos sumažėjo nuo €22,000 iki €2,800 – 87 % sumažėjimas, sutaupant €19,200',
             'Tik 4 iš 200 lentų nurašytos (2 % metinis nuostolis, palyginti su 35 % su ankstesniu parku); numatoma 4–5 sezonų eksploatavimo trukmė',
             'Vedamų išvykų produktas pirmajame sezone sugeneravo €843,000 su 87 % pelno marža; 4,9/5 TripAdvisor įvertinimas',
@@ -2293,8 +2293,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl SUP klubai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl SUP klubai renkasi OLagoon',
       items: [
         {
           title: 'Verslo operacijos',
@@ -2304,7 +2304,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Komercinis patvarumas',
           description:
-            'Afarer produktai sukurti kasdieniniam profesionaliam naudojimui su sutvirtinta konstrukcija, atsparesnėmis medžiagomis ir griežtais bandymais.',
+            'OLagoon produktai sukurti kasdieniniam profesionaliam naudojimui su sutvirtinta konstrukcija, atsparesnėmis medžiagomis ir griežtais bandymais.',
         },
         {
           title: 'Parko valdymas',
@@ -2314,15 +2314,15 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Ilgalaikė partnerystė',
           description:
-            'Afarer remia jūsų verslo augimą atsarginėmis dalimis, priežiūros gairėmis ir plėtros planavimu ir po pirminio pirkimo.',
+            'OLagoon remia jūsų verslo augimą atsarginėmis dalimis, priežiūros gairėmis ir plėtros planavimu ir po pirminio pirkimo.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Kas daro Afarer SUP lentas tinkamas komerciniams SUP klubams?',
+        question: 'Kas daro OLagoon SUP lentas tinkamas komerciniams SUP klubams?',
         answer:
-          'Afarer komercinės SUP lentos turi sutvirtintą PVC konstrukciją, daugiasluoksnį bortų sutvirtinimą, didelio tankio drop stitch struktūrą ir itin atsparias vožtuvų sistemas, specialiai sukurtas kasdieniniam dažnam naudojimui nuomos ir mokymų aplinkoje.',
+          'OLagoon komercinės SUP lentos turi sutvirtintą PVC konstrukciją, daugiasluoksnį bortų sutvirtinimą, didelio tankio drop stitch struktūrą ir itin atsparias vožtuvų sistemas, specialiai sukurtas kasdieniniam dažnam naudojimui nuomos ir mokymų aplinkoje.',
       },
       {
         question: 'Kuo skiriasi vartotojiška ir komercinės klasės SUP įranga?',
@@ -2330,30 +2330,30 @@ const lt: Record<string, SolutionOverride> = {
           'Komercinės klasės SUP lentos naudoja atsparesnes medžiagas, sutvirtintą konstrukciją ir patvaresnius komponentus, kad atlaikytų kasdieninį daugelio vartotojų naudojimą. Vartotojiškos lentos skirtos retam poilsiniam naudojimui ir komercinėmis sąlygomis greitai susidėvi.',
       },
       {
-        question: 'Ar Afarer gali individualizuoti SUP lentas su jūsų klubo logotipu ir spalvomis?',
+        question: 'Ar OLagoon gali individualizuoti SUP lentas su jūsų klubo logotipu ir spalvomis?',
         answer:
-          'Taip, Afarer siūlo visapusį parko individualizavimą, įskaitant logotipų išdėstymą, prekės ženklo spalvas, lentų numeravimo sistemas, modelių atpažinimą ir instruktorių lentų žymėjimą, siekiant sukurti vientisą ir profesionalų parko identitetą.',
+          'Taip, OLagoon siūlo visapusį parko individualizavimą, įskaitant logotipų išdėstymą, prekės ženklo spalvas, lentų numeravimo sistemas, modelių atpažinimą ir instruktorių lentų žymėjimą, siekiant sukurti vientisą ir profesionalų parko identitetą.',
       },
       {
-        question: 'Kokia yra tipinė Afarer komercinės SUP lentos eksploatavimo trukmė?',
+        question: 'Kokia yra tipinė OLagoon komercinės SUP lentos eksploatavimo trukmė?',
         answer:
-          'Tinkamai prižiūrimos Afarer komercinės SUP lentos tarnauja žymiai ilgiau nei vartotojiški produktai, taip sumažinant keitimo dažnumą ir bendruosius eksploatavimo kaštus. Tiksli eksploatavimo trukmė priklauso nuo naudojimo intensyvumo ir priežiūros praktikos.',
+          'Tinkamai prižiūrimos OLagoon komercinės SUP lentos tarnauja žymiai ilgiau nei vartotojiški produktai, taip sumažinant keitimo dažnumą ir bendruosius eksploatavimo kaštus. Tiksli eksploatavimo trukmė priklauso nuo naudojimo intensyvumo ir priežiūros praktikos.',
       },
       {
         question: 'Ar teikiate atsargines dalis ir priežiūros palaikymą parkų operatoriams?',
         answer:
-          'Taip, Afarer teikia išsamų popardaviminį aptarnavimą, įskaitant atsarginių dalių planavimą, remonto medžiagas, keičiamuosius priedus, priežiūros gaires, laikymo rekomendacijas ir valymo instrukcijas.',
+          'Taip, OLagoon teikia išsamų popardaviminį aptarnavimą, įskaitant atsarginių dalių planavimą, remonto medžiagas, keičiamuosius priedus, priežiūros gaires, laikymo rekomendacijas ir valymo instrukcijas.',
       },
       {
-        question: 'Kokio dydžio parkus Afarer gali palaikyti SUP klubams?',
+        question: 'Kokio dydžio parkus OLagoon gali palaikyti SUP klubams?',
         answer:
-          'Afarer palaiko visų dydžių parkus – nuo mažų klubų su 10–30 lentų iki didelių operacijų su 100+ lentų. Teikiame masinio pirkimo sprendimus, pastovią produktų kokybę ir plėtros palaikymą, kai jūsų verslas auga.',
+          'OLagoon palaiko visų dydžių parkus – nuo mažų klubų su 10–30 lentų iki didelių operacijų su 100+ lentų. Teikiame masinio pirkimo sprendimus, pastovią produktų kokybę ir plėtros palaikymą, kai jūsų verslas auga.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo komercinį SUP parką su Afarer',
+      title: 'Sukurkite savo komercinį SUP parką su OLagoon',
       subtitle:
-        'Jūsų įranga yra jūsų verslo pamatas. Rinkitės produktus, sukurtus taip, kad jie veiktų kiekvieną dieną. Afarer padeda SUP klubams, SUP mokykloms, nuomos operatoriams ir kurortams kurti profesionalius SUP parkus su patikimu gamybos palaikymu.',
+        'Jūsų įranga yra jūsų verslo pamatas. Rinkitės produktus, sukurtus taip, kad jie veiktų kiekvieną dieną. OLagoon padeda SUP klubams, SUP mokykloms, nuomos operatoriams ir kurortams kurti profesionalius SUP parkus su patikimu gamybos palaikymu.',
       primaryAction: {
         text: 'Pradėkite savo komercinį SUP projektą šiandien',
       },
@@ -2373,9 +2373,9 @@ const lt: Record<string, SolutionOverride> = {
       tagline: 'Patvaraus nuomos parko sprendimas™',
       title: 'Komercinės SUP įrangos sprendimai nuomos įmonėms, paplūdimiams ir turizmo vietovėms',
       subtitle:
-        'Afarer teikia patvaraus nuomos parko sprendimus, specialiai sukurtus komercinėms nuomos įmonėms. Padedame paplūdimio nuomos bendrovėms, ežerų veiklos operatoriams, kurortų vandens centrams ir nuotykių turizmo įmonėms kurti pelningus SUP parkus su patvaria konstrukcija ir lengva priežiūra.',
+        'OLagoon teikia patvaraus nuomos parko sprendimus, specialiai sukurtus komercinėms nuomos įmonėms. Padedame paplūdimio nuomos bendrovėms, ežerų veiklos operatoriams, kurortų vandens centrams ir nuotykių turizmo įmonėms kurti pelningus SUP parkus su patvaria konstrukcija ir lengva priežiūra.',
       image: {
-        alt: 'Afarer patvarus nuomos SUP parkas paplūdimio ir vandens sporto operatoriams',
+        alt: 'OLagoon patvarus nuomos SUP parkas paplūdimio ir vandens sporto operatoriams',
       },
     },
     challenge: {
@@ -2409,7 +2409,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Nuomos klasės pripučiama SUP konstrukcija',
           description:
-            'Afarer nuomos SUP produktuose dėmesys telkiamas į praktinį patvarumą: dilimui atspari PVC medžiaga, dažniems smūgiams sutvirtinta bortų konstrukcija, stabiliam veikimui patvari drop stitch struktūra ir kasdienei eksploatacijai projektuotos didelio patvarumo vožtuvų sistemos.',
+            'OLagoon nuomos SUP produktuose dėmesys telkiamas į praktinį patvarumą: dilimui atspari PVC medžiaga, dažniems smūgiams sutvirtinta bortų konstrukcija, stabiliam veikimui patvari drop stitch struktūra ir kasdienei eksploatacijai projektuotos didelio patvarumo vožtuvų sistemos.',
           features: [
             'Dilimui atspari PVC medžiaga',
             'Sutvirtinta bortų konstrukcija',
@@ -2420,7 +2420,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Savikainos optimizuotas nuomos SUP dizainas',
           description:
-            'Nuomos klientams nereikia konkursinio lygio charakteristikų. Jiems reikia stabilumo, saugumo, lengvo valdymo ir patikimumo. Afarer konfigūruoja produktus su stabilia universalia forma, standartizuotais priedais ir praktine pakuote, kad įranga būtų tvarkoma greičiau.',
+            'Nuomos klientams nereikia konkursinio lygio charakteristikų. Jiems reikia stabilumo, saugumo, lengvo valdymo ir patikimumo. OLagoon konfigūruoja produktus su stabilia universalia forma, standartizuotais priedais ir praktine pakuote, kad įranga būtų tvarkoma greičiau.',
           features: [
             'Stabili universali forma pradedantiesiems',
             'Standartizuoti priedai',
@@ -2431,17 +2431,17 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Visapusiškas nuomos parko paketas',
           description:
-            'Afarer sukuria iš karto naudotinus nuomos paketus, kuriuos sudaro patvarios pripučiamos SUP lentos, reguliuojami irklai, siurbliai, saugos diržai, nešiojimo kuprinės ir remonto rinkiniai, o komerciniai papildomi variantai apima atsarginius pelekus, papildomus irklus, keitimo vožtuvus ir laikymo sprendimus.',
+            'OLagoon sukuria iš karto naudotinus nuomos paketus, kuriuos sudaro patvarios pripučiamos SUP lentos, reguliuojami irklai, siurbliai, saugos diržai, nešiojimo kuprinės ir remonto rinkiniai, o komerciniai papildomi variantai apima atsarginius pelekus, papildomus irklus, keitimo vožtuvus ir laikymo sprendimus.',
         },
         {
           title: 'Didmeninio parko pirkimo sprendimai',
           description:
-            'Afarer palaiko operatorius, įsigyjančius 50, 100, 300 arba 500+ lentų parkus, ir parko plėtrą nuo mažų nuomos operacijų iki kelių vietovių verslų, užtikrindama vienodą įrangos kokybę ir geresnį pirkimo efektyvumą.',
+            'OLagoon palaiko operatorius, įsigyjančius 50, 100, 300 arba 500+ lentų parkus, ir parko plėtrą nuo mažų nuomos operacijų iki kelių vietovių verslų, užtikrindama vienodą įrangos kokybę ir geresnį pirkimo efektyvumą.',
         },
         {
           title: 'Lengva priežiūros ir remonto sistema',
           description:
-            'Nuomos įmonės negali sau leisti ilgų įrangos prastovų. Afarer teikia remontui palankų produktų dizainą su keičiamais komponentais, valymo ir laikymo priežiūros instrukcijas bei avarinio remonto pagalbą su rinkiniais ir trikčių šalinimo gairėmis.',
+            'Nuomos įmonės negali sau leisti ilgų įrangos prastovų. OLagoon teikia remontui palankų produktų dizainą su keičiamais komponentais, valymo ir laikymo priežiūros instrukcijas bei avarinio remonto pagalbą su rinkiniais ir trikčių šalinimo gairėmis.',
           features: [
             'Keičiami komponentai',
             'Standartiniai priedai',
@@ -2452,12 +2452,12 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Sezoninės nuomos verslo optimizacija',
           description:
-            'Daugelis nuomos įmonių veikia sezonais. Afarer padeda planuoti atsargas pagal paklausą ir siūlo tinkamus produktus vasaros paplūdimio operacijoms, šeimyniniams SUP paketams, kurortų veiklai ir nuotykių turizmui su turingo tipo modeliais.',
+            'Daugelis nuomos įmonių veikia sezonais. OLagoon padeda planuoti atsargas pagal paklausą ir siūlo tinkamus produktus vasaros paplūdimio operacijoms, šeimyniniams SUP paketams, kurortų veiklai ir nuotykių turizmui su turingo tipo modeliais.',
         },
         {
           title: 'Individualus prekės ženklas nuomos operatoriams',
           description:
-            'Nuomos įrangą pamato šimtai klientų. Afarer palaiko žymėjimą logotipais, spalvų pritaikymą prie paplūdimio atmosferos ar kurorto stiliaus bei parko identifikavimą su lentų numeravimu ir modelių etiketėmis, kurie paverčia įrangą rinkodaros priemone.',
+            'Nuomos įrangą pamato šimtai klientų. OLagoon palaiko žymėjimą logotipais, spalvų pritaikymą prie paplūdimio atmosferos ar kurorto stiliaus bei parko identifikavimą su lentų numeravimu ir modelių etiketėmis, kurie paverčia įrangą rinkodaros priemone.',
           features: [
             'Logotipų žymėjimas',
             'Spalvų individualizavimas',
@@ -2468,12 +2468,12 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Pagalba turizmo vietovėms ir kurortams',
           description:
-            'Daugelis turizmo įmonių SUP naudoja kaip patirties produktą. Afarer palaiko viešbučius, kurortus, stovyklavietes ir nuotykių parkus parko planavimu, produktų pritaikymu ir serijine gamyba visaverčiai vandens veiklos patirčiai.',
+            'Daugelis turizmo įmonių SUP naudoja kaip patirties produktą. OLagoon palaiko viešbučius, kurortus, stovyklavietes ir nuotykių parkus parko planavimu, produktų pritaikymu ir serijine gamyba visaverčiai vandens veiklos patirčiai.',
         },
         {
           title: 'Pagerinkite nuomos verslo ROI',
           description:
-            'Afarer padeda operatoriams didinti pelningumą: ilgesnis produktų tarnavimo laikas mažina keitimo dažnį, žemesnės priežiūros išlaidos mažina remonto laiką, o didesnis pasiekiamumas didina dienos nuomos pajėgumą ir klientų pasitenkinimą.',
+            'OLagoon padeda operatoriams didinti pelningumą: ilgesnis produktų tarnavimo laikas mažina keitimo dažnį, žemesnės priežiūros išlaidos mažina remonto laiką, o didesnis pasiekiamumas didina dienos nuomos pajėgumą ir klientų pasitenkinimą.',
         },
       ],
     },
@@ -2489,7 +2489,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Nuomos parko analizė',
           detail:
-            'Afarer įvertino naudojimo dažnį, klientų profilį ir eksploatacijos aplinką, o tada rekomendavo komercinę nuomos SUP konfigūraciją, optimizuotą Viduržemio jūros paplūdimio aplinkai.',
+            'OLagoon įvertino naudojimo dažnį, klientų profilį ir eksploatacijos aplinką, o tada rekomendavo komercinę nuomos SUP konfigūraciją, optimizuotą Viduržemio jūros paplūdimio aplinkai.',
         },
         {
           title: 'Produktų plėtra',
@@ -2525,19 +2525,19 @@ const lt: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Žieminio laikymo imitavimo bandymai Afarer šalčio kameros patalpose',
+              title: 'Žieminio laikymo imitavimo bandymai OLagoon šalčio kameros patalpose',
               detail:
-                '2024 m. sausį Sarah išsiuntė 8 konkurentų lentas ir 6 Afarer prototipus į Afarer gamyklą Xiamen keturioms savaitėms itin šaltų sąlygų bandymų. Bandymų kamera kasdien kaitaliojo temperatūrą tarp -35°C ir +25°C (imituodama Kanados kovo atšalimo ir atšilimo ciklus). Lentos buvo laikomos imituojamose stelažų sąlygose po 200 kg sniego krūviu. Afarer XHD-Plus medžiaga — 4 sluoksnių laminatas su vidiniu TPU sluoksniu — po 28 ciklų nerodė jokio mikroįtrūkimo, o 5 iš 8 konkurentų lentose atsirado matomų įtrūkimų. TPU sluoksnis neleido drėgmei patekti net įbrėžus lentos paviršių. Sarah taip pat paprašė „šalto lankstymo“ testo: lentos lankstomos transportuojant esant -20°C; Afarer lenta atlaikė 500 lankstymų be lankstymo linijos pažeidimų.',
+                '2024 m. sausį Sarah išsiuntė 8 konkurentų lentas ir 6 OLagoon prototipus į OLagoon gamyklą Xiamen keturioms savaitėms itin šaltų sąlygų bandymų. Bandymų kamera kasdien kaitaliojo temperatūrą tarp -35°C ir +25°C (imituodama Kanados kovo atšalimo ir atšilimo ciklus). Lentos buvo laikomos imituojamose stelažų sąlygose po 200 kg sniego krūviu. OLagoon XHD-Plus medžiaga — 4 sluoksnių laminatas su vidiniu TPU sluoksniu — po 28 ciklų nerodė jokio mikroįtrūkimo, o 5 iš 8 konkurentų lentose atsirado matomų įtrūkimų. TPU sluoksnis neleido drėgmei patekti net įbrėžus lentos paviršių. Sarah taip pat paprašė „šalto lankstymo“ testo: lentos lankstomos transportuojant esant -20°C; OLagoon lenta atlaikė 500 lankstymų be lankstymo linijos pažeidimų.',
             },
             {
               title: 'Individualus „Canadian Shield“ paketas su izoliuotais laikymo dėklais',
               detail:
-                'Pagal bandymų rezultatus Afarer sukūrė „Canadian Shield“ specifikaciją: 4 sluoksnių PVC/TPU konstrukcija, nerūdijančio plieno vožtuvai, patikimi iki -40°C (įprasti žalvariniai vožtuvai užšąla), ir sutvirtintos nešimo rankenos, atlaikančios 2x lentos svorį nešant sniege. Afarer sukūrė su fliso pamušalu izoliuotą laikymo dėklą („Winter Jacket“), palaikantį vidinę temperatūrą 12°C aukštesnę už aplinkos. Sarah išbandė dėklus 2024 m. kovą Lake Muskoka ežere: lentos, naktį dėkluose laikytos -22°C temperatūroje, ryte buvo -8°C ir buvo pripūstos 3 minutėmis greičiau. Afarer pagamino 150 dėklų kaip užsakymo dalį.',
+                'Pagal bandymų rezultatus OLagoon sukūrė „Canadian Shield“ specifikaciją: 4 sluoksnių PVC/TPU konstrukcija, nerūdijančio plieno vožtuvai, patikimi iki -40°C (įprasti žalvariniai vožtuvai užšąla), ir sutvirtintos nešimo rankenos, atlaikančios 2x lentos svorį nešant sniege. OLagoon sukūrė su fliso pamušalu izoliuotą laikymo dėklą („Winter Jacket“), palaikantį vidinę temperatūrą 12°C aukštesnę už aplinkos. Sarah išbandė dėklus 2024 m. kovą Lake Muskoka ežere: lentos, naktį dėkluose laikytos -22°C temperatūroje, ryte buvo -8°C ir buvo pripūstos 3 minutėmis greičiau. OLagoon pagamino 150 dėklų kaip užsakymo dalį.',
             },
             {
               title: 'Priešsezonis personalo mokymas trijuose kurortuose',
               detail:
-                '2024 m. gegužę Afarer Šiaurės Amerikos serviso vadovas Jake Patterson penkias dienas mokė 28 darbuotojus visuose 3 kurortuose. Kanadai būdingos procedūros apėmė: pavasarį atliekamą įrangos paruošimą (išsamus patikros kontrolinis sąrašas dėl šaltai laikytos įrangos pažeidimų), tinkamą pripūtimą iki 13-15 PSI (koreguojama dėl šalto vandens — Lake Muskoka vanduo birželį vidutiniškai 14°C), žieminimo procedūrą lentoms, laikomoms nešildomose valčių pašiūrėse, ir „žalos pranešimo per 15 minučių“ WhatsApp sistemą. Jake taip pat išmokė darbuotojus atpažinti įprastą Kanados bebrų kramtymo žalą (tikra problema: 2023 m. dėl bebrų prarastos 2 lentos) ir kaip remontuoti naudojant itin tvirtus PVC lopus.',
+                '2024 m. gegužę OLagoon Šiaurės Amerikos serviso vadovas Jake Patterson penkias dienas mokė 28 darbuotojus visuose 3 kurortuose. Kanadai būdingos procedūros apėmė: pavasarį atliekamą įrangos paruošimą (išsamus patikros kontrolinis sąrašas dėl šaltai laikytos įrangos pažeidimų), tinkamą pripūtimą iki 13-15 PSI (koreguojama dėl šalto vandens — Lake Muskoka vanduo birželį vidutiniškai 14°C), žieminimo procedūrą lentoms, laikomoms nešildomose valčių pašiūrėse, ir „žalos pranešimo per 15 minučių“ WhatsApp sistemą. Jake taip pat išmokė darbuotojus atpažinti įprastą Kanados bebrų kramtymo žalą (tikra problema: 2023 m. dėl bebrų prarastos 2 lentos) ir kaip remontuoti naudojant itin tvirtus PVC lopus.',
             },
             {
               title: '2024 m. vasaros startas ir lapų sezono rezultatai',
@@ -2565,17 +2565,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '2023 m. liepos karščio poveikio tyrimas Marbellos Playa de la Fontanilla paplūdimyje',
               detail:
-                '2023 m. liepą Afarer Viduržemio jūros regiono technikos vadovas Pedro Sánchez atliko 3 savaičių tyrimą Miguel pagrindiniame paplūdimyje. Buvo įrengti 10 konkurentų lentų ir 5 Afarer prototipai su Bluetooth slėgio davikliais, fiksavusiais duomenis kas 5 minutes. Rezultatai parodė, kad konkurentų lentos per 8 valandas prarado 2.8-4.1 PSI (pradėta nuo 15 PSI, iki 16 val. nukrito iki 10.9-12.2 PSI). Afarer XHD-Thermal lentos — naudodamos šilumą atspindintį sidabrinį išorinį sluoksnį ir azoto dujų užpildą — prarado tik 0.7 PSI. Pedro nustatė esminę problemą: įkaitęs oras plečiasi ir didina vidinį slėgį, dėl ko atsidaro saugos vožtuvas; Afarer azoto užpildas (didesnės molekulės, lėtesnė difuzija) šį poveikį sumažino. 15 val. lentos paviršiaus temperatūra ant smėlio pasiekė 67°C — Afarer sidabrinis sluoksnis atspindėjo 34% infraraudonosios spinduliuotės.',
+                '2023 m. liepą OLagoon Viduržemio jūros regiono technikos vadovas Pedro Sánchez atliko 3 savaičių tyrimą Miguel pagrindiniame paplūdimyje. Buvo įrengti 10 konkurentų lentų ir 5 OLagoon prototipai su Bluetooth slėgio davikliais, fiksavusiais duomenis kas 5 minutes. Rezultatai parodė, kad konkurentų lentos per 8 valandas prarado 2.8-4.1 PSI (pradėta nuo 15 PSI, iki 16 val. nukrito iki 10.9-12.2 PSI). OLagoon XHD-Thermal lentos — naudodamos šilumą atspindintį sidabrinį išorinį sluoksnį ir azoto dujų užpildą — prarado tik 0.7 PSI. Pedro nustatė esminę problemą: įkaitęs oras plečiasi ir didina vidinį slėgį, dėl ko atsidaro saugos vožtuvas; OLagoon azoto užpildas (didesnės molekulės, lėtesnė difuzija) šį poveikį sumažino. 15 val. lentos paviršiaus temperatūra ant smėlio pasiekė 67°C — OLagoon sidabrinis sluoksnis atspindėjo 34% infraraudonosios spinduliuotės.',
             },
             {
               title: '„Costa del Sol Edition“ su šilumą išsklaidančiu deniu ir apsauga nuo vagysčių',
               detail:
-                'Afarer sukūrė Miguelui individualią specifikaciją: „Costasol Edition 11.0“ su kamštienos deniu (piko saulėje 8°C vėsesnis nei EVA putos, patikrinta termokamera), karščiui atspariais nerūdijančio plieno vožtuvais su silikoniniais O-formos žiedais (įprasta guma per 400+ valandų Ispanijos saulėje suyra) ir UV stabilizuota peleko sistema, atlaikančia 2 000 valandų UV poveikio. Miguel paprašė vagystes atgrasančios funkcijos: Afarer į lentos nosį integravo nerūdijančio plieno lyno kilpą, per kurią personalas galėjo perverti kodinę spyną — lentų vagystės sumažėjo nuo 12 per metus iki 0. Kiekvienoje lentoje karštu būdu buvo įspaustas Miguel paplūdimio klubo logotipas (nėra lipdukų, kuriuos galima nulupti) su QR kodu, nukreipiančiu į atsakomybės apribojimo ir nuomos sutartį.',
+                'OLagoon sukūrė Miguelui individualią specifikaciją: „Costasol Edition 11.0“ su kamštienos deniu (piko saulėje 8°C vėsesnis nei EVA putos, patikrinta termokamera), karščiui atspariais nerūdijančio plieno vožtuvais su silikoniniais O-formos žiedais (įprasta guma per 400+ valandų Ispanijos saulėje suyra) ir UV stabilizuota peleko sistema, atlaikančia 2 000 valandų UV poveikio. Miguel paprašė vagystes atgrasančios funkcijos: OLagoon į lentos nosį integravo nerūdijančio plieno lyno kilpą, per kurią personalas galėjo perverti kodinę spyną — lentų vagystės sumažėjo nuo 12 per metus iki 0. Kiekvienoje lentoje karštu būdu buvo įspaustas Miguel paplūdimio klubo logotipas (nėra lipdukų, kuriuos galima nulupti) su QR kodu, nukreipiančiu į atsakomybės apribojimo ir nuomos sutartį.',
             },
             {
               title: 'Didelės apimties nuomos logistika ir komandos mokymai',
               detail:
-                'Afarer operacijų konsultantė Ana Martínez 2024 m. vasarį dvi savaites optimizavo Miguel nuomos darbo eigą. Modelis „paimk ir plauk“: 50 lentų nuolat laikomos pripūstos ant specialaus riedančiojo stelažo (pagaminto Afarer priedų komandos), o tai sutrumpino išdavimo laiką nuo 8 minučių iki 90 sekundžių. Ana apmokė 22 sezoninius darbuotojus: vienos minutės slėgio patikra kalibruotu manometru, teisingas kamštienos denio valymas (švelnus muilas, be aukšto slėgio ploviklio), popietinio slėgio papildymo protokolas (30 sekundžių patikra 14 val.) ir dienos pabaigos skalavimas gėlo vandens purškimo sistema (Afarer sumontuota, 80€/stotis). Naujoji darbo eiga leido 2 darbuotojams valdyti 200 lentų vietoj 5 darbuotojų, aptarnavusių 85.',
+                'OLagoon operacijų konsultantė Ana Martínez 2024 m. vasarį dvi savaites optimizavo Miguel nuomos darbo eigą. Modelis „paimk ir plauk“: 50 lentų nuolat laikomos pripūstos ant specialaus riedančiojo stelažo (pagaminto OLagoon priedų komandos), o tai sutrumpino išdavimo laiką nuo 8 minučių iki 90 sekundžių. Ana apmokė 22 sezoninius darbuotojus: vienos minutės slėgio patikra kalibruotu manometru, teisingas kamštienos denio valymas (švelnus muilas, be aukšto slėgio ploviklio), popietinio slėgio papildymo protokolas (30 sekundžių patikra 14 val.) ir dienos pabaigos skalavimas gėlo vandens purškimo sistema (OLagoon sumontuota, 80€/stotis). Naujoji darbo eiga leido 2 darbuotojams valdyti 200 lentų vietoj 5 darbuotojų, aptarnavusių 85.',
             },
             {
               title: '2024 m. vasara: karščiausia užregistruota Ispanijos liepa',
@@ -2592,8 +2592,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl nuomos įmonės renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl nuomos įmonės renkasi OLagoon',
       items: [
         {
           title: 'Komercinis naudojimas',
@@ -2621,38 +2621,38 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kokios SUP lentos geriausiai tinka nuomos įmonėms?',
         answer:
-          'Nuomos įmonėms reikia patvarių, stabilių universalių SUP lentų su sutvirtinta konstrukcija, pradedantiesiems pritaikytomis formomis, standartizuotais priedais ir lengvos priežiūros funkcijomis. Afarer nuomos lentos specialiai sukurtos atlaikyti dažną įvairių įgūdžių lygio klientų naudojimą.',
+          'Nuomos įmonėms reikia patvarių, stabilių universalių SUP lentų su sutvirtinta konstrukcija, pradedantiesiems pritaikytomis formomis, standartizuotais priedais ir lengvos priežiūros funkcijomis. OLagoon nuomos lentos specialiai sukurtos atlaikyti dažną įvairių įgūdžių lygio klientų naudojimą.',
       },
       {
         question: 'Kaip galiu sumažinti savo nuomos SUP parko priežiūros išlaidas?',
         answer:
-          'Afarer padeda sumažinti priežiūros išlaidas: patvari, pažeidimams atspari konstrukcija, standartizuoti komponentai supaprastina remontą, keičiamos dalys leidžia išvengti visos lentos keitimo, o priežiūros instrukcijos padeda jūsų komandai efektyviai atlikti pagrindinę priežiūrą.',
+          'OLagoon padeda sumažinti priežiūros išlaidas: patvari, pažeidimams atspari konstrukcija, standartizuoti komponentai supaprastina remontą, keičiamos dalys leidžia išvengti visos lentos keitimo, o priežiūros instrukcijos padeda jūsų komandai efektyviai atlikti pagrindinę priežiūrą.',
       },
       {
         question: 'Koks minimalus užsakymo kiekis nuomos SUP parkams?',
         answer:
-          'Afarer palaiko įvairius parko dydžius — nuo mažų operacijų, pradedančių nuo 50 lentų, iki didelių 500+ lentų parkų. Teikiame didmeninio pirkimo sprendimus su vienoda kokybe visais užsakymų kiekiais.',
+          'OLagoon palaiko įvairius parko dydžius — nuo mažų operacijų, pradedančių nuo 50 lentų, iki didelių 500+ lentų parkų. Teikiame didmeninio pirkimo sprendimus su vienoda kokybe visais užsakymų kiekiais.',
       },
       {
         question: 'Ar nuomos operatoriams siūlote didmenines kainas?',
         answer:
-          'Taip, Afarer siūlo konkurencingas didmenines kainas nuomos operatoriams, perkantiems 50, 100, 300 arba 500+ lentų parkus, su vienoda įrangos kokybe ir efektyviais didelių užsakymų gamybos terminais.',
+          'Taip, OLagoon siūlo konkurencingas didmenines kainas nuomos operatoriams, perkantiems 50, 100, 300 arba 500+ lentų parkus, su vienoda įrangos kokybe ir efektyviais didelių užsakymų gamybos terminais.',
       },
       {
-        question: 'Kaip Afarer SUP lentos atlaiko sūrų vandenį ir paplūdimio aplinką?',
+        question: 'Kaip OLagoon SUP lentos atlaiko sūrų vandenį ir paplūdimio aplinką?',
         answer:
-          'Afarer nuomos lentose naudojama dilimui atspari PVC medžiaga, UV atspari konstrukcija, sutvirtinti bortai kontaktui su paplūdimiu ir korozijai atspari furnitūra, atlaikanti sūraus vandens, smėlio dilimo ir laikymo lauke sąlygas.',
+          'OLagoon nuomos lentose naudojama dilimui atspari PVC medžiaga, UV atspari konstrukcija, sutvirtinti bortai kontaktui su paplūdimiu ir korozijai atspari furnitūra, atlaikanti sūraus vandens, smėlio dilimo ir laikymo lauke sąlygas.',
       },
       {
         question: 'Ar galiu savo nuomos SUP lentas pažymėti verslo logotipu?',
         answer:
-          'Taip, Afarer palaiko visapusišką individualizavimą: logotipų žymėjimą, spalvų suderinimą, lentų numeravimą ir modelių etiketes, kurios jūsų nuomos įrangą paverčia matomomis rinkodaros priemonėmis visame jūsų paplūdimio ar kurortų plote.',
+          'Taip, OLagoon palaiko visapusišką individualizavimą: logotipų žymėjimą, spalvų suderinimą, lentų numeravimą ir modelių etiketes, kurios jūsų nuomos įrangą paverčia matomomis rinkodaros priemonėmis visame jūsų paplūdimio ar kurortų plote.',
       },
     ],
     cta: {
-      title: 'Kurkite savo patvarų SUP nuomos parką su Afarer',
+      title: 'Kurkite savo patvarų SUP nuomos parką su OLagoon',
       subtitle:
-        'Jūsų įranga lemia jūsų verslo pelningumą. Rinkitės SUP produktus, sukurtus dirbti intensyviau ir tarnauti ilgiau. Afarer padeda nuomos operatoriams kurti paplūdimio SUP parkus, kurortų vandens veiklos įrangą ir turizmo nuotykių sistemas su patikima OEM gamybos parama.',
+        'Jūsų įranga lemia jūsų verslo pelningumą. Rinkitės SUP produktus, sukurtus dirbti intensyviau ir tarnauti ilgiau. OLagoon padeda nuomos operatoriams kurti paplūdimio SUP parkus, kurortų vandens veiklos įrangą ir turizmo nuotykių sistemas su patikima OEM gamybos parama.',
       primaryAction: {
         text: 'Pradėkite savo nuomos parko projektą jau šiandien',
       },
@@ -2673,9 +2673,9 @@ const lt: Record<string, SolutionOverride> = {
       title:
         'Premium SUP ir vandens sporto sprendimai prabangiems viešbučiams, kurortams ir svetingumo prekės ženklams',
       subtitle:
-        'Afarer teikia išsamius kurortų vandens veiklų paketus, sukurtus specialiai svetingumo verslui. Padedame prabangiems kurortams, paplūdimio viešbučiams, salų vietovėms, ekokurortams ir sveikatinimo atokvėpiams kurti prekės ženklo vandens patirtis per individualizuotus SUP parkus, laikymo sistemas ir personalo mokymus.',
+        'OLagoon teikia išsamius kurortų vandens veiklų paketus, sukurtus specialiai svetingumo verslui. Padedame prabangiems kurortams, paplūdimio viešbučiams, salų vietovėms, ekokurortams ir sveikatinimo atokvėpiams kurti prekės ženklo vandens patirtis per individualizuotus SUP parkus, laikymo sistemas ir personalo mokymus.',
       image: {
-        alt: 'Afarer kurortų vandens veiklų paketas su individualizuotomis prekės ženklo SUP lentomis',
+        alt: 'OLagoon kurortų vandens veiklų paketas su individualizuotomis prekės ženklo SUP lentomis',
       },
     },
     challenge: {
@@ -2709,7 +2709,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Individualizuoto kurortų SUP parko kūrimas',
           description:
-            'Afarer padeda kurortams kurti skirtus įrangos parkus pagal vietovę, svečių profilį, vandens aplinką ir veiklų programas. Paketai svyruoja nuo šeimų kurortų konfigūracijų su stabiliojomis universaliojomis lentomis iki prabangių salų paketų su premium dizainu bei sveikatinimo atokvėpių paketų su plačiomis joga SUP lentomis.',
+            'OLagoon padeda kurortams kurti skirtus įrangos parkus pagal vietovę, svečių profilį, vandens aplinką ir veiklų programas. Paketai svyruoja nuo šeimų kurortų konfigūracijų su stabiliojomis universaliojomis lentomis iki prabangių salų paketų su premium dizainu bei sveikatinimo atokvėpių paketų su plačiomis joga SUP lentomis.',
           features: [
             'Šeimų kurorto paketas',
             'Prabangus salų kurorto paketas',
@@ -2720,7 +2720,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Kurortų prekės ženklo individualizavimas',
           description:
-            'Jūsų vandens įranga tampa svečio kelionės dalimi. Afarer palaiko individualų logotipų integravimą, individualų spalvų dizainą, atitinkantį kurorto architektūrą ir prekės ženklo spalvas, bei premium pakuotę su prekės ženklo aksesuarais ir svečių instrukcijų medžiagomis.',
+            'Jūsų vandens įranga tampa svečio kelionės dalimi. OLagoon palaiko individualų logotipų integravimą, individualų spalvų dizainą, atitinkantį kurorto architektūrą ir prekės ženklo spalvas, bei premium pakuotę su prekės ženklo aksesuarais ir svečių instrukcijų medžiagomis.',
           features: [
             'Individualus logotipų spausdinimas',
             'Spalvų dizainas, atitinkantis prekės ženklą',
@@ -2731,27 +2731,27 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Kurortų laikymo ir įrangos valdymo sistema',
           description:
-            'Afarer padeda kurortams planuoti įrangos laikymą su SUP stovais, organizavimo sistemomis ir oro sąlygų apsaugos sprendimais, atsižvelgiant į saulės poveikį, drėgmę ir pakrantės aplinką. Personalas gali efektyviai valdyti kasdienį įrangos paruošimą, svečių išdavimą ir priežiūros inspekcijas.',
+            'OLagoon padeda kurortams planuoti įrangos laikymą su SUP stovais, organizavimo sistemomis ir oro sąlygų apsaugos sprendimais, atsižvelgiant į saulės poveikį, drėgmę ir pakrantės aplinką. Personalas gali efektyviai valdyti kasdienį įrangos paruošimą, svečių išdavimą ir priežiūros inspekcijas.',
         },
         {
           title: 'Personalo saugos ir darbo mokymų palaikymas',
           description:
-            'Afarer teikia operacines gaires, įskaitant įrangos naudojimo procedūras, pripūtimo instrukcijas, valymo metodus, laikymo gaires, svečių saugos procedūras ir kasdienio darbo kontrolinius sąrašus, apimančius patikrą prieš naudojimą ir valymą po naudojimo.',
+            'OLagoon teikia operacines gaires, įskaitant įrangos naudojimo procedūras, pripūtimo instrukcijas, valymo metodus, laikymo gaires, svečių saugos procedūras ir kasdienio darbo kontrolinius sąrašus, apimančius patikrą prieš naudojimą ir valymą po naudojimo.',
         },
         {
           title: 'Išsamus kurortų vandens veiklų paketas',
           description:
-            'Pavyzdiniai paketai apima individualizuotas prekės ženklo SUP lentas, reguliuojamus irklus, siurblius, saugos virves, laikymo stovus, remonto rinkinius ir personalo darbo vadovus. Afarer taip pat gali paremti plėtrą į vandens fitneso produktus ir šeimų vandens įrangą.',
+            'Pavyzdiniai paketai apima individualizuotas prekės ženklo SUP lentas, reguliuojamus irklus, siurblius, saugos virves, laikymo stovus, remonto rinkinius ir personalo darbo vadovus. OLagoon taip pat gali paremti plėtrą į vandens fitneso produktus ir šeimų vandens įrangą.',
         },
         {
           title: 'Komercinė įranga, reikalaujanti mažai priežiūros',
           description:
-            'Kurortų įranga turi subalansuoti svečių patirtį, patvarumą ir priežiūros efektyvumą. Afarer sutelkia dėmesį į patvarią konstrukciją su sutvirtintu PVC ir komercinės klasės komponentais, lengvą priežiūrą su standartiniais aksesuarais ir ilgalaikę vertę, mažinančią keitimo dažnumą.',
+            'Kurortų įranga turi subalansuoti svečių patirtį, patvarumą ir priežiūros efektyvumą. OLagoon sutelkia dėmesį į patvarią konstrukciją su sutvirtintu PVC ir komercinės klasės komponentais, lengvą priežiūrą su standartiniais aksesuarais ir ilgalaikę vertę, mažinančią keitimo dažnumą.',
         },
         {
           title: 'Kurortų patirties dizaino palaikymas',
           description:
-            'Afarer padeda paversti įrangą į išskirtines svečių veiklas, įskaitant saulėlydžio SUP patirtis poroms, šeimų vandenyno nuotykius, plaukiojančias sveikatinimo programas joga atokvėpiams ir ekologinio pažinimo veiklas gamtos kurortams bei jūrinėms vietovėms.',
+            'OLagoon padeda paversti įrangą į išskirtines svečių veiklas, įskaitant saulėlydžio SUP patirtis poroms, šeimų vandenyno nuotykius, plaukiojančias sveikatinimo programas joga atokvėpiams ir ekologinio pažinimo veiklas gamtos kurortams bei jūrinėms vietovėms.',
         },
       ],
     },
@@ -2767,7 +2767,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Kurorto veiklų planavimas',
           detail:
-            'Afarer išanalizavo svečių demografiją, paplūdimio sąlygas ir veiklų tikslus, tada rekomendavo individualų kurorto SUP parką, pritaikytą kurorto prabangiam pozicionavimui ir svečių lūkesčiams.',
+            'OLagoon išanalizavo svečių demografiją, paplūdimio sąlygas ir veiklų tikslus, tada rekomendavo individualų kurorto SUP parką, pritaikytą kurorto prabangiam pozicionavimui ir svečių lūkesčiams.',
         },
         {
           title: 'Produkto individualizavimas',
@@ -2798,29 +2798,29 @@ const lt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Meksika',
             background:
-              'Ana Sofía Villanueva (36 m.) yra svečių patirčių direktorė „Casa del Pacífico“ — 62 numerių prabangiame eko kurorte ant Punta Mita kranto prie Ramiojo vandenyno (kambarių kainos $1,800-$8,000/naktį). Kurorto 12 akrų teritorijoje yra 3 privatūs paplūdimiai, 2 lagūniniai baseinai ir mangrovių estuarija, vedanti prie paslėptų cenotų. 2023 m. svečių apklausos parodė, kad „išskirtinės vandens patirtys“ yra didžiausias nepatenkintas poreikis (78% svečių jų pageidavo). Ana kreipėsi į Afarer po to, kai konkuruojantis kurortas Tulume paleido SUP programą — jai reikėjo kažko išskirtinesnio. Iššūkis: vienas paketas, veikiantis vandenyno bangose, ramiuose mangrovių vandenyse ir gėlavandenėse cenotėse esant kintančiam apšvietimui, srovėms ir ekologiniams jautrumams.',
+              'Ana Sofía Villanueva (36 m.) yra svečių patirčių direktorė „Casa del Pacífico“ — 62 numerių prabangiame eko kurorte ant Punta Mita kranto prie Ramiojo vandenyno (kambarių kainos $1,800-$8,000/naktį). Kurorto 12 akrų teritorijoje yra 3 privatūs paplūdimiai, 2 lagūniniai baseinai ir mangrovių estuarija, vedanti prie paslėptų cenotų. 2023 m. svečių apklausos parodė, kad „išskirtinės vandens patirtys“ yra didžiausias nepatenkintas poreikis (78% svečių jų pageidavo). Ana kreipėsi į OLagoon po to, kai konkuruojantis kurortas Tulume paleido SUP programą — jai reikėjo kažko išskirtinesnio. Iššūkis: vienas paketas, veikiantis vandenyno bangose, ramiuose mangrovių vandenyse ir gėlavandenėse cenotėse esant kintančiam apšvietimui, srovėms ir ekologiniams jautrumams.',
             goal: 'Sukurti paketą „Išskirtinė SUP patirtis nuo cenotės iki vandenyno“ (3 valandų ekskursija su gidu, profesionali fotografija ir meksikietiškas degustacinis meniu) už $450/asmuo su mažiausiai 40% pelno marža ir 4,8+ svečių pasitenkinimo įvertinimu.',
           },
           steps: [
             {
               title: '2024 m. kovo mėnesio vietovės apžiūra ir poveikio aplinkai vertinimas',
               detail:
-                'Afarer Lotynų Amerikos verslo direktorius Felipe Ortíz ir jūrų biologė dr. Camila Reyes dešimt dienų žymėjo „Casa del Pacífico“ vandens kelius. Jie nustatė 4 skirtingas SUP aplinkas: Ramiojo vandenyno paplūdimio išplaukimo vietą (pastovus 2-3 ft bangų lūžimas), mangrovių tunelį (siauri 2 metrų kanalai su kyšančiomis šaknimis), paslėptą cenotę (18 metrų gylio gėlas vanduo, pastovi 24°C temperatūra, jautrūs mikrobų sluoksniai ant sienų) ir lagūnos baseiną (pradedantiesiems svečiams). Dr. Reyes atliko nuosėdų ėminių ėmimą ir perinčių paukščių apskaitas, kad nustatytų talpumo ribą: daugiausia 8 svečiai vienoje ekskursijoje, išplaukiama 7:30 ryto prieš jūrinių paukščių maitinimąsi. Vertinimas padarė išvadą, kad standartinės SUP lentos su cinko fosfato pigmentais išplautų į cenotę — Afarer perėjo prie keramikos pagrindo pigmentų.',
+                'OLagoon Lotynų Amerikos verslo direktorius Felipe Ortíz ir jūrų biologė dr. Camila Reyes dešimt dienų žymėjo „Casa del Pacífico“ vandens kelius. Jie nustatė 4 skirtingas SUP aplinkas: Ramiojo vandenyno paplūdimio išplaukimo vietą (pastovus 2-3 ft bangų lūžimas), mangrovių tunelį (siauri 2 metrų kanalai su kyšančiomis šaknimis), paslėptą cenotę (18 metrų gylio gėlas vanduo, pastovi 24°C temperatūra, jautrūs mikrobų sluoksniai ant sienų) ir lagūnos baseiną (pradedantiesiems svečiams). Dr. Reyes atliko nuosėdų ėminių ėmimą ir perinčių paukščių apskaitas, kad nustatytų talpumo ribą: daugiausia 8 svečiai vienoje ekskursijoje, išplaukiama 7:30 ryto prieš jūrinių paukščių maitinimąsi. Vertinimas padarė išvadą, kad standartinės SUP lentos su cinko fosfato pigmentais išplautų į cenotę — OLagoon perėjo prie keramikos pagrindo pigmentų.',
             },
             {
               title: 'Individualizuota lenta „Explora México“ su integruota fotografijos sistema',
               detail:
-                'Afarer sukūrė „Explora México 10.8“ su 4 sluoksnių konstrukcija, rifams saugia apsaugine dugno danga (biocidų neturinti silikoninė danga, išbandyta 200 valandų 28°C vandenyne) ir šviesą atspindinčia matine alyvuogių žalios spalvos denio danga. Ana paprašė profesionalios fotografijos kaip patirties dalies — Afarer į lentos nosį integravo vandeniui atsparią drono pakilimo aikštelę (sutvirtinta 25x25 cm anglies pluošto platforma su neslidžia danga, išbandyta laikyti DJI Mini 4 Pro rankinio paleidimo ir grąžinimo metu). Kiekvienoje lentoje taip pat buvo povandeninės kameros strypo tvirtinimo taškas. Lentos buvo pagamintos ribotu „Casa del Pacífico“ prekės ženklo dizainu su majų įkvėptais geometriniais raštais — reljefuoti, o ne dažyti, siekiant išvengti toksiško nutekėjimo.',
+                'OLagoon sukūrė „Explora México 10.8“ su 4 sluoksnių konstrukcija, rifams saugia apsaugine dugno danga (biocidų neturinti silikoninė danga, išbandyta 200 valandų 28°C vandenyne) ir šviesą atspindinčia matine alyvuogių žalios spalvos denio danga. Ana paprašė profesionalios fotografijos kaip patirties dalies — OLagoon į lentos nosį integravo vandeniui atsparią drono pakilimo aikštelę (sutvirtinta 25x25 cm anglies pluošto platforma su neslidžia danga, išbandyta laikyti DJI Mini 4 Pro rankinio paleidimo ir grąžinimo metu). Kiekvienoje lentoje taip pat buvo povandeninės kameros strypo tvirtinimo taškas. Lentos buvo pagamintos ribotu „Casa del Pacífico“ prekės ženklo dizainu su majų įkvėptais geometriniais raštais — reljefuoti, o ne dažyti, siekiant išvengti toksiško nutekėjimo.',
             },
             {
               title: 'Gidų sertifikavimo programa ir logistikos integravimas',
               detail:
-                '2024 m. gegužės mėn. Afarer vyresnysis gidų treneris Diego Castillo vykdė 2 savaičių intensyvią programą, sertifikuojančią 8 „Casa del Pacífico“ veiklų gidus. Programa apėmė: išplaukimo ir grąžinimo bangų zonoje techniką Ramiojo vandenyno paplūdimio lūžiams, navigaciją mangrovėse pagal potvynius (gidas turi žinoti 3 valandų potvynių langą, kad išvengtų įstrigimo dumblyne esant žemam vandeniui), cenotės etiketą (jokio apsauginio kremo nuo saulės, sienų liesti negalima — dr. Reyes grįžo pusės dienos jautrumo sesijai), avarinių situacijų protokolus (įskaitant susidūrimus su pumomis — mangrovėse gyvena nuolatinis patinas) ir dvikalbį ispanų ir anglų kalbomis gidavimą. Afarer taip pat integravo SUP inventorių į kurorto „Oracle Opera PMS“ sistemą, kad SUP rezervacijos automatiškai atsirastų svečių sąskaitose. Fotografijos darbo eiga: gidai naudoja „GoPro Hero12 Black“ su iš anksto nustatytu „Cenote“ spalvų profiliu, nuotraukos svečiams per NFC kortelę perduodamos per 30 minučių.',
+                '2024 m. gegužės mėn. OLagoon vyresnysis gidų treneris Diego Castillo vykdė 2 savaičių intensyvią programą, sertifikuojančią 8 „Casa del Pacífico“ veiklų gidus. Programa apėmė: išplaukimo ir grąžinimo bangų zonoje techniką Ramiojo vandenyno paplūdimio lūžiams, navigaciją mangrovėse pagal potvynius (gidas turi žinoti 3 valandų potvynių langą, kad išvengtų įstrigimo dumblyne esant žemam vandeniui), cenotės etiketą (jokio apsauginio kremo nuo saulės, sienų liesti negalima — dr. Reyes grįžo pusės dienos jautrumo sesijai), avarinių situacijų protokolus (įskaitant susidūrimus su pumomis — mangrovėse gyvena nuolatinis patinas) ir dvikalbį ispanų ir anglų kalbomis gidavimą. OLagoon taip pat integravo SUP inventorių į kurorto „Oracle Opera PMS“ sistemą, kad SUP rezervacijos automatiškai atsirastų svečių sąskaitose. Fotografijos darbo eiga: gidai naudoja „GoPro Hero12 Black“ su iš anksto nustatytu „Cenote“ spalvų profiliu, nuotraukos svečiams per NFC kortelę perduodamos per 30 minučių.',
             },
             {
               title: '2024 m. lapkričio mėnesio aukšto sezono paleidimas ir žiniasklaidos dėmesys',
               detail:
-                'Patirtis „Nuo cenotės iki vandenyno“ startavo 2024 m. lapkričio 15 d. (Punta Mita aukšto sezono pradžia). Pirmosios 30 dienų: parduota 112 ekskursijų po $450/asmuo = $50,400 pajamų. Žurnalistė iš „Condé Nast Traveler“ buvo 47-oji svečia; jos straipsnis „Meksikos naujausias ekstermis: irklavimas SUP lenta nuo cenotės iki Ramiojo vandenyno“, paskelbtas 2025 m. sausio mėn., iki kovo atnešė daugiau nei 800 rezervacijų. Svečių pasitenkinimas vidutiniškai sudarė 4,94/5 per 340 ekskursijų. Kurortas pridėjo $150 fotografijos priedą „Auksinė valanda“ (saulėlydžio sesija su profesionaliu drono pilotu, šampanu ir austrėmis) — 94% svečių jį įsigijo. Iki 2025 m. balandžio programa generavo $1.12 milijono tiesioginių pajamų su 52% pelno marža. „Casa del Pacífico“ užsakė 20 papildomų lentų 2026 m. ir pasamdė Afarer sukurti paketą „SUP stebint banginius“ (kuprųjų banginių migracija gruodį-kovą).',
+                'Patirtis „Nuo cenotės iki vandenyno“ startavo 2024 m. lapkričio 15 d. (Punta Mita aukšto sezono pradžia). Pirmosios 30 dienų: parduota 112 ekskursijų po $450/asmuo = $50,400 pajamų. Žurnalistė iš „Condé Nast Traveler“ buvo 47-oji svečia; jos straipsnis „Meksikos naujausias ekstermis: irklavimas SUP lenta nuo cenotės iki Ramiojo vandenyno“, paskelbtas 2025 m. sausio mėn., iki kovo atnešė daugiau nei 800 rezervacijų. Svečių pasitenkinimas vidutiniškai sudarė 4,94/5 per 340 ekskursijų. Kurortas pridėjo $150 fotografijos priedą „Auksinė valanda“ (saulėlydžio sesija su profesionaliu drono pilotu, šampanu ir austrėmis) — 94% svečių jį įsigijo. Iki 2025 m. balandžio programa generavo $1.12 milijono tiesioginių pajamų su 52% pelno marža. „Casa del Pacífico“ užsakė 20 papildomų lentų 2026 m. ir pasamdė OLagoon sukurti paketą „SUP stebint banginius“ (kuprųjų banginių migracija gruodį-kovą).',
             },
           ],
           results: [
@@ -2835,19 +2835,19 @@ const lt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Tailandas',
             background:
-              'Pimchanok „Mint“ Suwannarat (32 m.) yra patirčių direktorė „Veranda Samui“ — 5 žvaigždučių kurorte su vaizdu į Chaweng Noi paplūdimį, turinčiame 98 vilas; vidutinė viešnagės trukmė — 6,4 nakties. Mint pastebėjo, kad 73% svečių užsisakė bent vieną „salų išvyką“ (paprastai greitlaivio ekskursija į Ang Thong jūrinį parką už 3,500 THB/asmuo), tačiau po viešnagės atliktos apklausos rodo skundus dėl „perpildytų ekskursijų“ ir „per daug stotelių, per mažai irklavimo“. Ji įsivaizdavo kelių dienų SUP ekspediciją, kurios metu svečiai irkuotų tarp Koh Samui ir netoliese esančių salų, apsistodami eko nakvynės namuose ir paplūdimio stovyklose. Nė vienas Tailando kurortas tokios paslaugos netiekė. Jai reikėjo, kad Afarer sukurtų ekspedicinės klasės įrangą, galinčią palaikyti kelių dienų savarankiškas keliones su kempiavimo įranga ir atsargomis pagal vakarietiškus prabangos standartus.',
+              'Pimchanok „Mint“ Suwannarat (32 m.) yra patirčių direktorė „Veranda Samui“ — 5 žvaigždučių kurorte su vaizdu į Chaweng Noi paplūdimį, turinčiame 98 vilas; vidutinė viešnagės trukmė — 6,4 nakties. Mint pastebėjo, kad 73% svečių užsisakė bent vieną „salų išvyką“ (paprastai greitlaivio ekskursija į Ang Thong jūrinį parką už 3,500 THB/asmuo), tačiau po viešnagės atliktos apklausos rodo skundus dėl „perpildytų ekskursijų“ ir „per daug stotelių, per mažai irklavimo“. Ji įsivaizdavo kelių dienų SUP ekspediciją, kurios metu svečiai irkuotų tarp Koh Samui ir netoliese esančių salų, apsistodami eko nakvynės namuose ir paplūdimio stovyklose. Nė vienas Tailando kurortas tokios paslaugos netiekė. Jai reikėjo, kad OLagoon sukurtų ekspedicinės klasės įrangą, galinčią palaikyti kelių dienų savarankiškas keliones su kempiavimo įranga ir atsargomis pagal vakarietiškus prabangos standartus.',
             goal: 'Paleisti „The Samui Archipelago Paddle“ — 5 dienų ir 4 naktų SUP ekspediciją su gidu, apimančią 4 salas (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → grįžimas), už 89,000 THB ($2,500 USD)/asmuo, mažiausiai 12 išvykų per metus su 100% užimtumu.',
           },
           steps: [
             {
               title: 'Maršruto žymėjimas ir logistikos apžiūra Samui salyne',
               detail:
-                '2023 m. spalio mėn. Afarer Azijos ir Ramiojo vandenyno ekspedicijų specialistas Tomo Kato ir Tailando jūrų ekologas dr. Narong Chaiyasit praleido 14 dienų irkluodami baidarėmis ir motorine pagalba apžiūrėdami siūlomą maršrutą. Jie nustatė 7 kritinius veiksnius: musonų vėjų modelius (lapkričio-sausio mėn. šiaurės rytų musonas daro Koh Samui-Koh Phangan perkėlimą pavojingu; vasaris-spalis yra saugus), kempiavimo vietas Koh Tao saloje (tik 2 paplūdimio vietos su leidimais palapinėms — kiekviena ribojama iki 10 žmonių), gėlo vandens papildymą (Koh Nang Yuan jo nėra — svečiai nešasi 4L vienam asmeniui per dieną) ir rifų navigacijos koridorius (koralai Koh Tao „Shark Bay“ įlankoje reikalauja lentų su 40+ cm laisvu gramzdos atstumu esant žemam potvyniui). Galutinis maršrutas — 68 km per 5 dienas, kasdieniai irklavimo atstumai 8-18 km. Tomo aitvaro metodu išbandė 14 inkarų tipų paplūdimio kempiavimui (Danforth tipo inkarai geriausiai laikėsi Samui smėlėtuose dugnuose).',
+                '2023 m. spalio mėn. OLagoon Azijos ir Ramiojo vandenyno ekspedicijų specialistas Tomo Kato ir Tailando jūrų ekologas dr. Narong Chaiyasit praleido 14 dienų irkluodami baidarėmis ir motorine pagalba apžiūrėdami siūlomą maršrutą. Jie nustatė 7 kritinius veiksnius: musonų vėjų modelius (lapkričio-sausio mėn. šiaurės rytų musonas daro Koh Samui-Koh Phangan perkėlimą pavojingu; vasaris-spalis yra saugus), kempiavimo vietas Koh Tao saloje (tik 2 paplūdimio vietos su leidimais palapinėms — kiekviena ribojama iki 10 žmonių), gėlo vandens papildymą (Koh Nang Yuan jo nėra — svečiai nešasi 4L vienam asmeniui per dieną) ir rifų navigacijos koridorius (koralai Koh Tao „Shark Bay“ įlankoje reikalauja lentų su 40+ cm laisvu gramzdos atstumu esant žemam potvyniui). Galutinis maršrutas — 68 km per 5 dienas, kasdieniai irklavimo atstumai 8-18 km. Tomo aitvaro metodu išbandė 14 inkarų tipų paplūdimio kempiavimui (Danforth tipo inkarai geriausiai laikėsi Samui smėlėtuose dugnuose).',
             },
             {
               title: 'Lenta „Archipelago Expedition“ su išgyvenimo ir komforto savybėmis',
               detail:
-                'Afarer sukūrė „Veranda Explorer 13.0“ su 400 L tūriu — pakankamai, kad būtų galima gabenti 35 kg kempiavimo įrangos ir dar 20 kg svečių asmeninių daiktų. Savybės: vandeniui atsparus krovininis liukas priekyje su sraigtiniu uždoriu (išbandytas 1 metro gylyje 30 minučių), 6 „daisy-chain“ tvirtinimo taškai sausiems maišams, denio raištinė sistema su greitu atsegimu prieigai prie kameros ir nuimamas vairo skegas kurso vandenyne laikymui (Koh Phangan-Koh Tao etape yra 2 mazgų skersinė srovė). Mint primygtinai reikalavo komforto: kiekvienoje lentoje buvo pripučiama nugaros atrama („LoungePak“) su puodelio laikikliu ir autorinė „ShadowDeck“ markizė (įtempta anglies pluošto stiebo atraga su UPF 50+ audiniu, išbandyta 35°C karštyje). Afarer pagamino 24 lentas: 12 svečiams, 6 gidams, 6 atsarginėms.',
+                'OLagoon sukūrė „Veranda Explorer 13.0“ su 400 L tūriu — pakankamai, kad būtų galima gabenti 35 kg kempiavimo įrangos ir dar 20 kg svečių asmeninių daiktų. Savybės: vandeniui atsparus krovininis liukas priekyje su sraigtiniu uždoriu (išbandytas 1 metro gylyje 30 minučių), 6 „daisy-chain“ tvirtinimo taškai sausiems maišams, denio raištinė sistema su greitu atsegimu prieigai prie kameros ir nuimamas vairo skegas kurso vandenyne laikymui (Koh Phangan-Koh Tao etape yra 2 mazgų skersinė srovė). Mint primygtinai reikalavo komforto: kiekvienoje lentoje buvo pripučiama nugaros atrama („LoungePak“) su puodelio laikikliu ir autorinė „ShadowDeck“ markizė (įtempta anglies pluošto stiebo atraga su UPF 50+ audiniu, išbandyta 35°C karštyje). OLagoon pagamino 24 lentas: 12 svečiams, 6 gidams, 6 atsarginėms.',
             },
             {
               title: 'Gidų komandos atranka ir saugos sertifikavimas',
@@ -2857,7 +2857,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '2025 m. sausio mėnesio pirmoji ekspedicija ir 12 mėnesių rezervacijų srautas',
               detail:
-                'Pirmasis reisas išplaukė 2025 m. sausio 15 d. su 6 svečiais (3 poros, visi australai, 34-52 metų amžiaus). Mint komanda filmavo ekspediciją turinio kūrimui. Antrosios dienos perkėlimas į Koh Phangan pateko į netikėtą škvalą (30 mazgų vėjas 45 minutes) — Afarer lentos tai išlaikė be nė vieno apvirtimo; pagal gidų protokolą buvo suformuotas „saugus plaustas“ (lentos surištos drauge žvaigždės raštu). Iki 2025 m. kovo 11 iš 12 suplanuotų 2025 m. išvykų buvo pilnai užrezervuotos (40 svečių laukiančiųjų sąraše). 2025 m. pajamų projekcija: 12 × 6 svečiai × 89,000 THB = 6.41 milijono THB ($178,000 USD). „Veranda“ generalinis direktorius patvirtino nuosavo „Ekspedicijos paviljono“ statybą prie paplūdimio priešvykiniams instruktažams. Mint dabar kuria 3 dienų maršrutą „Family Explorer“ (trumpesni atstumai, kempiavimas kurorto bazėje) 2026 m.',
+                'Pirmasis reisas išplaukė 2025 m. sausio 15 d. su 6 svečiais (3 poros, visi australai, 34-52 metų amžiaus). Mint komanda filmavo ekspediciją turinio kūrimui. Antrosios dienos perkėlimas į Koh Phangan pateko į netikėtą škvalą (30 mazgų vėjas 45 minutes) — OLagoon lentos tai išlaikė be nė vieno apvirtimo; pagal gidų protokolą buvo suformuotas „saugus plaustas“ (lentos surištos drauge žvaigždės raštu). Iki 2025 m. kovo 11 iš 12 suplanuotų 2025 m. išvykų buvo pilnai užrezervuotos (40 svečių laukiančiųjų sąraše). 2025 m. pajamų projekcija: 12 × 6 svečiai × 89,000 THB = 6.41 milijono THB ($178,000 USD). „Veranda“ generalinis direktorius patvirtino nuosavo „Ekspedicijos paviljono“ statybą prie paplūdimio priešvykiniams instruktažams. Mint dabar kuria 3 dienų maršrutą „Family Explorer“ (trumpesni atstumai, kempiavimas kurorto bazėje) 2026 m.',
             },
           ],
           results: [
@@ -2869,8 +2869,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl kurortai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl kurortai renkasi OLagoon',
       items: [
         {
           title: 'Svečių patirtis',
@@ -2898,38 +2898,38 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kurios SUP lentos geriausios kurortų vandens veikloms?',
         answer:
-          'Kurortams reikia stabilių, pradedantiesiems pritaikytų SUP lentų, tinkančių svečiams su įvairiais įgūdžių lygiais. Afarer siūlo šeimų kurortų paketus su universaliojomis lentomis, prabangius salų paketus su premium dizainu ir sveikatinimo atokvėpių paketus su plačiomis joga lentomis — visus galima individualizuoti kurorto prekės ženklu.',
+          'Kurortams reikia stabilių, pradedantiesiems pritaikytų SUP lentų, tinkančių svečiams su įvairiais įgūdžių lygiais. OLagoon siūlo šeimų kurortų paketus su universaliojomis lentomis, prabangius salų paketus su premium dizainu ir sveikatinimo atokvėpių paketus su plačiomis joga lentomis — visus galima individualizuoti kurorto prekės ženklu.',
       },
       {
-        question: 'Ar Afarer gali individualizuoti SUP lentas su mano kurorto logotipu ir prekės ženklo spalvomis?',
+        question: 'Ar OLagoon gali individualizuoti SUP lentas su mano kurorto logotipu ir prekės ženklo spalvomis?',
         answer:
-          'Taip, Afarer teikia visapusišką individualizavimą, įskaitant logotipo integravimą, spalvų dizainą, atitinkantį jūsų kurorto architektūrą ir prekės ženklo identitetą, bei premium pakuotę su prekės ženklo aksesuarais ir svečių instrukcijų medžiagomis.',
+          'Taip, OLagoon teikia visapusišką individualizavimą, įskaitant logotipo integravimą, spalvų dizainą, atitinkantį jūsų kurorto architektūrą ir prekės ženklo identitetą, bei premium pakuotę su prekės ženklo aksesuarais ir svečių instrukcijų medžiagomis.',
       },
       {
         question: 'Ar teikiate laikymo sprendimus kurortų SUP įrangai?',
         answer:
-          'Taip, Afarer padeda planuoti įrangos laikymą su SUP stovais, organizavimo sistemomis ir oro sąlygų apsaugos sprendimais, atsižvelgiant į saulės poveikį, drėgmę ir pakrantės aplinką, kad apsaugotumėte savo investiciją ir išlaikytumėte kurorto išvaizdą.',
+          'Taip, OLagoon padeda planuoti įrangos laikymą su SUP stovais, organizavimo sistemomis ir oro sąlygų apsaugos sprendimais, atsižvelgiant į saulės poveikį, drėgmę ir pakrantės aplinką, kad apsaugotumėte savo investiciją ir išlaikytumėte kurorto išvaizdą.',
       },
       {
         question: 'Kokio mokymo reikia kurortų personalui SUP programoms valdyti?',
         answer:
-          'Afarer teikia operacines gaires, įskaitant įrangos naudojimo procedūras, pripūtimo instrukcijas, valymo metodus, laikymo gaires, svečių saugos procedūras ir kasdienio darbo kontrolinius sąrašus, kad bet kuris darbuotojas galėtų programą valdyti profesionaliai.',
+          'OLagoon teikia operacines gaires, įskaitant įrangos naudojimo procedūras, pripūtimo instrukcijas, valymo metodus, laikymo gaires, svečių saugos procedūras ir kasdienio darbo kontrolinius sąrašus, kad bet kuris darbuotojas galėtų programą valdyti profesionaliai.',
       },
       {
-        question: 'Kiek patvarios yra Afarer SUP lentos kasdieniniam kurortų naudojimui?',
+        question: 'Kiek patvarios yra OLagoon SUP lentos kasdieniniam kurortų naudojimui?',
         answer:
-          'Afarer kurortų SUP lentos turi sutvirtintą PVC konstrukciją, komercinės klasės komponentus ir patvarias „drop stitch“ struktūras, sukurtas atlaikyti kasdienį svečių naudojimą išlaikant premium išvaizdą ir našumą.',
+          'OLagoon kurortų SUP lentos turi sutvirtintą PVC konstrukciją, komercinės klasės komponentus ir patvarias „drop stitch“ struktūras, sukurtas atlaikyti kasdienį svečių naudojimą išlaikant premium išvaizdą ir našumą.',
       },
       {
         question: 'Ar galime siūlyti SUP kartu su kitomis vandens veiklomis?',
         answer:
-          'Taip, Afarer gali paremti plėtrą į vandens fitneso produktus, šeimų vandens įrangą ir kitus lauko poilsio produktus, kad būtų sukurtas išsamus kurortų vandens veiklų portfelis.',
+          'Taip, OLagoon gali paremti plėtrą į vandens fitneso produktus, šeimų vandens įrangą ir kitus lauko poilsio produktus, kad būtų sukurtas išsamus kurortų vandens veiklų portfelis.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo kurorto vandens patirtį su Afarer',
+      title: 'Sukurkite savo kurorto vandens patirtį su OLagoon',
       subtitle:
-        'Jūsų vietovė jau turi vandenyną. Dabar sukurkite jame nepamirštamų akimirkų. Afarer padeda prabangiems viešbučiams, salų kurortams ir sveikatinimo vietoms kurti individualizuotus SUP parkus, prekės ženklo vandens veiklas ir išsamius kurortų įrangos sprendimus.',
+        'Jūsų vietovė jau turi vandenyną. Dabar sukurkite jame nepamirštamų akimirkų. OLagoon padeda prabangiems viešbučiams, salų kurortams ir sveikatinimo vietoms kurti individualizuotus SUP parkus, prekės ženklo vandens veiklas ir išsamius kurortų įrangos sprendimus.',
       primaryAction: {
         text: 'Pradėkite savo kurorto vandens veiklų projektą jau šiandien',
       },
@@ -2950,9 +2950,9 @@ const lt: Record<string, SolutionOverride> = {
       title:
         'Profesionalūs SUP įrangos sprendimai vandens sporto mokykloms, jaunimo programoms ir lauko ugdymo organizacijoms',
       subtitle:
-        'Afarer siūlo SUP Academy Equipment Program – išsamų įrangos sprendimą, sukurtą profesionaliai mokymo aplinkai. Padedame SUP mokykloms, jaunimo treniruočių centrams, vasaros stovykloms ir lauko ugdymo įmonėms sukurti patikimus treniruočių parkus su pradedantiesiems pritaikytomis lentomis, vaikų modeliais ir instruktorių įranga.',
+        'OLagoon siūlo SUP Academy Equipment Program – išsamų įrangos sprendimą, sukurtą profesionaliai mokymo aplinkai. Padedame SUP mokykloms, jaunimo treniruočių centrams, vasaros stovykloms ir lauko ugdymo įmonėms sukurti patikimus treniruočių parkus su pradedantiesiems pritaikytomis lentomis, vaikų modeliais ir instruktorių įranga.',
       image: {
-        alt: 'Afarer SUP akademijos įranga treniruočių mokykloms ir jaunimo programoms',
+        alt: 'OLagoon SUP akademijos įranga treniruočių mokykloms ir jaunimo programoms',
       },
     },
     challenge: {
@@ -2986,7 +2986,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Pradedančiųjų treniruočių SUP lentos',
           description:
-            'Afarer kuria stabilias SUP lentas specialiai mokymo aplinkai – su didelio stabilumo platformos dizainu, lengvesnei pusiausvyrai, didelio plūdumo konstrukcija, geresnei vandens palaikymo pagalbai, ir universaliomis pradedančiųjų formomis, skirtomis lėtam valdymui ir lengvam sukiojimuisi.',
+            'OLagoon kuria stabilias SUP lentas specialiai mokymo aplinkai – su didelio stabilumo platformos dizainu, lengvesnei pusiausvyrai, didelio plūdumo konstrukcija, geresnei vandens palaikymo pagalbai, ir universaliomis pradedančiųjų formomis, skirtomis lėtam valdymui ir lengvam sukiojimuisi.',
           features: [
             'Didelio stabilumo platformos dizainas',
             'Didelio plūdumo konstrukcija',
@@ -2997,7 +2997,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Vaikų SUP programa',
           description:
-            'Vaikams reikalinga įranga, pritaikyta prie jų ūgio ir gebėjimų. Afarer siūlo vaikų SUP lentas su tinkamu ilgiu, lengvu valdymu, stabilia forma ir vaikams patrauklia išvaizda – mokyklų programoms, vasaros stovykloms, jaunių kursams ir šeimos veiklai.',
+            'Vaikams reikalinga įranga, pritaikyta prie jų ūgio ir gebėjimų. OLagoon siūlo vaikų SUP lentas su tinkamu ilgiu, lengvu valdymu, stabilia forma ir vaikams patrauklia išvaizda – mokyklų programoms, vasaros stovykloms, jaunių kursams ir šeimos veiklai.',
           features: [
             'Vaikų SUP lentų dizainas',
             'Jaunimo treniruočių taikymas',
@@ -3013,12 +3013,12 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Išsamus SUP akademijos parko paketas',
           description:
-            'Afarer padeda akademijoms sukurti išsamias įrangos sistemas, įskaitant mokinių įrangą su pradedančiųjų lentomis ir reguliuojamais irklais, instruktorių įrangą su aukščiausios klasės SUP lentomis ir techninės priežiūros įrangą su remonto rinkiniais bei atsarginiais priedais sklandžiai kasdienei veiklai.',
+            'OLagoon padeda akademijoms sukurti išsamias įrangos sistemas, įskaitant mokinių įrangą su pradedančiųjų lentomis ir reguliuojamais irklais, instruktorių įrangą su aukščiausios klasės SUP lentomis ir techninės priežiūros įrangą su remonto rinkiniais bei atsarginiais priedais sklandžiai kasdienei veiklai.',
         },
         {
           title: 'Komercinis patvarumas kasdieniniam mokymui',
           description:
-            'Treniruočių įrangai reikalinga stipresnė konstrukcija. Afarer ypatingą dėmesį skiria sutvirtintoms PVC medžiagoms, užtikrinančioms geresnį atsparumą dilimui, patvariai drop stitch konstrukcijai, suteikiančiai lentai standumo, ir sutvirtintiems bortams, apsaugantiems nuo smūgių į krantą bei transportavimo pažeidimų.',
+            'Treniruočių įrangai reikalinga stipresnė konstrukcija. OLagoon ypatingą dėmesį skiria sutvirtintoms PVC medžiagoms, užtikrinančioms geresnį atsparumą dilimui, patvariai drop stitch konstrukcijai, suteikiančiai lentai standumo, ir sutvirtintiems bortams, apsaugantiems nuo smūgių į krantą bei transportavimo pažeidimų.',
           features: [
             'Sutvirtintos PVC medžiagos',
             'Patvari drop stitch konstrukcija',
@@ -3029,22 +3029,22 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Akademijos parko valdymo palaikymas',
           description:
-            'Didelėms treniruočių programoms reikalinga organizacija. Afarer palaiko standartizuotą parko konfigūraciją, palengvinančią instruktorių apmokymą, įrangos identifikavimą su lentų numeravimu ir akademijos logotipais bei atsarginių dalių planavimą su atsarginiais irklais ir remonto medžiagomis.',
+            'Didelėms treniruočių programoms reikalinga organizacija. OLagoon palaiko standartizuotą parko konfigūraciją, palengvinančią instruktorių apmokymą, įrangos identifikavimą su lentų numeravimu ir akademijos logotipais bei atsarginių dalių planavimą su atsarginiais irklais ir remonto medžiagomis.',
         },
         {
           title: 'Vasaros stovyklų ir jaunimo programų sprendimai',
           description:
-            'SUP vis populiarėja vasaros stovyklose ir jaunimo nuotykių programose. Afarer palaiko stovyklos parko dizainą atsižvelgiant į mokinių amžių ir grupės dydį, grupinės veiklos įrangą su keliomis identiškomis lentomis bei sezoninio darbo planavimą vasaros programoms ir atostogų veiklai.',
+            'SUP vis populiarėja vasaros stovyklose ir jaunimo nuotykių programose. OLagoon palaiko stovyklos parko dizainą atsižvelgiant į mokinių amžių ir grupės dydį, grupinės veiklos įrangą su keliomis identiškomis lentomis bei sezoninio darbo planavimą vasaros programoms ir atostogų veiklai.',
         },
         {
           title: 'Saugos ir techninės priežiūros palaikymas',
           description:
-            'Afarer teikia praktines kasdieninio darbo gaires, įskaitant įrangos inspektavimo vadovus, apimančius oro slėgio, paviršiaus ir priedų patikrinimą prieš pamoką, taip pat valymo, džiovinimo ir laikymo procedūras po pamokos bei pagrindinio remonto gaires.',
+            'OLagoon teikia praktines kasdieninio darbo gaires, įskaitant įrangos inspektavimo vadovus, apimančius oro slėgio, paviršiaus ir priedų patikrinimą prieš pamoką, taip pat valymo, džiovinimo ir laikymo procedūras po pamokos bei pagrindinio remonto gaires.',
         },
         {
           title: 'Individualizuota akademijos prekės ženklo išvaizda',
           description:
-            'Afarer palaiko akademijos logotipo pritaikymą, spalvų suderinimą ir profesionalią išvaizdą, kuri per su prekės ženklu pažymėtas lentas ir instruktorių įrangą sukuria stipresnį ženklo atpažįstamumą, profesionalias pamokas ir geresnę mokinių patirtį.',
+            'OLagoon palaiko akademijos logotipo pritaikymą, spalvų suderinimą ir profesionalią išvaizdą, kuri per su prekės ženklu pažymėtas lentas ir instruktorių įrangą sukuria stipresnį ženklo atpažįstamumą, profesionalias pamokas ir geresnę mokinių patirtį.',
         },
       ],
     },
@@ -3058,7 +3058,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Treniruočių programos analizė',
           detail:
-            'Afarer peržiūrėjo mokinių amžiaus grupes, mokymo metodus ir naudojimo dažnumą, kad suprastų akademijos konkrečius reikalavimus pradedančiųjų, jaunimo ir instruktorių įrangai.',
+            'OLagoon peržiūrėjo mokinių amžiaus grupes, mokymo metodus ir naudojimo dažnumą, kad suprastų akademijos konkrečius reikalavimus pradedančiųjų, jaunimo ir instruktorių įrangai.',
         },
         {
           title: 'Parko kūrimas',
@@ -3089,29 +3089,29 @@ const lt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagava, Japonija',
             background:
-              'Kenji Nakamura (44 m.) – buvęs olimpinis kanojų slalomo bronzos medalininkas (Atėnai 2004) ir šešis kartus Japonijos nacionalinis čempionas. Baigęs varžybinę karjerą, aštuonerius metus treniravo Japonijos jaunių kajakų komandą, o SUP atrado 2018 m. Jis pastebėjo, kad Japonija, nepaisant šios sporto šakos įtraukimo į 2024 m. Paryžiaus olimpines žaidynes, neturėjo nė vienos jaunimo SUP programos. 2023 m. jis įtikino Kamakuros miestą (173 000 gyventojų, pakrantės miestas 50 km į pietus nuo Tokijo) leisti jam naudoti istorinį Yuigahama paplūdimį kaip treniruočių vietą. Jam reikėjo, kad Afarer parūpintų išsamų akademijos įrangos paketą: jaunių lentas, treniravimo medžiagas ir programų kelią, kurį pripažintų Japonijos mokyklos.',
+              'Kenji Nakamura (44 m.) – buvęs olimpinis kanojų slalomo bronzos medalininkas (Atėnai 2004) ir šešis kartus Japonijos nacionalinis čempionas. Baigęs varžybinę karjerą, aštuonerius metus treniravo Japonijos jaunių kajakų komandą, o SUP atrado 2018 m. Jis pastebėjo, kad Japonija, nepaisant šios sporto šakos įtraukimo į 2024 m. Paryžiaus olimpines žaidynes, neturėjo nė vienos jaunimo SUP programos. 2023 m. jis įtikino Kamakuros miestą (173 000 gyventojų, pakrantės miestas 50 km į pietus nuo Tokijo) leisti jam naudoti istorinį Yuigahama paplūdimį kaip treniruočių vietą. Jam reikėjo, kad OLagoon parūpintų išsamų akademijos įrangos paketą: jaunių lentas, treniravimo medžiagas ir programų kelią, kurį pripažintų Japonijos mokyklos.',
             goal: 'Paleisti „Kamakura SUP Academy“ 2024 m. balandį su 40 jaunių mokinių (10–18 metų), trijų pakopų sertifikavimo sistema (Bronza/Sidabras/Auksas) ir keliu į Japonijos nacionalinę SUP rinktinę – su įrangos išlaidomis, mažesnėmis nei ¥8 milijonai ($53,000 USD) pirmiems dvejiems metams.',
           },
           steps: [
             {
               title: 'Jaunių lentų kūrimas pagal Japonijos mokyklų sporto standartus',
               detail:
-                '2023 m. spalį Afarer produkto plėtros direktorius Yuki Tanaka (dirbantis Afarer biure Osakoje) kartu su Kenji sukūrė „Academy Junior 10.0“ – lentą, specialiai pritaikytą Azijos jaunimo kūno sudėjimui (vidutinis 12 metų japonų mokinys: 150 cm, 42 kg). Pagrindinės specifikacijos: 10\'0" x 30" x 4.5" (152 L tūrio), svoris 6.8 kg (pakankamai lengva, kad mokiniai galėtų patys neštis), minkšti EVA bortai (mažinantys sužeidimų riziką krentant) ir trumpas 120 cm stiklo pluošto irklas (individualiai suformuota rankenėlė mažoms rankoms). Afarer pagamino 40 lentų Japonijos nacionalinėmis spalvomis (balta su raudonu tekančios saulės apskritimu) ir 20 atsarginių lentų. Kiekvienoje lentoje buvo QR kodas, susietas su Kenji technikos vaizdo įrašais – mokiniai jį nuskaitydavo prieš treniruotę.',
+                '2023 m. spalį OLagoon produkto plėtros direktorius Yuki Tanaka (dirbantis OLagoon biure Osakoje) kartu su Kenji sukūrė „Academy Junior 10.0“ – lentą, specialiai pritaikytą Azijos jaunimo kūno sudėjimui (vidutinis 12 metų japonų mokinys: 150 cm, 42 kg). Pagrindinės specifikacijos: 10\'0" x 30" x 4.5" (152 L tūrio), svoris 6.8 kg (pakankamai lengva, kad mokiniai galėtų patys neštis), minkšti EVA bortai (mažinantys sužeidimų riziką krentant) ir trumpas 120 cm stiklo pluošto irklas (individualiai suformuota rankenėlė mažoms rankoms). OLagoon pagamino 40 lentų Japonijos nacionalinėmis spalvomis (balta su raudonu tekančios saulės apskritimu) ir 20 atsarginių lentų. Kiekvienoje lentoje buvo QR kodas, susietas su Kenji technikos vaizdo įrašais – mokiniai jį nuskaitydavo prieš treniruotę.',
             },
             {
               title: 'Trijų pakopų sertifikavimo mokymo programa ir saugos protokolai',
               detail:
-                'Afarer treniravimo konsultantas Dave Kalama (vaizdo skambučiais iš Havajų) bendradarbiavo su Kenji rengdamas mokymo programą. Bronza (10 užsiėmimų): pusiausvyra ramiai vandenyje, pagrindinis irklavimas į priekį, savisauga. Sidabras (20 užsiėmimų): 2 km irklavimas laikui, pivot posūkis, vėjo suvokimas. Auksas (40 užsiėmimų): 5 km irklavimas vandenyne, įplaukimas ir išplaukimas iš bangų zonos, lenktynių taktika ir treniravimo pagrindai. Kenji primygtinai reikalavo saugos: Afarer suteikė 50 V tipo gelbėjimosi liemenių (sertifikuotų Japonijoje, neoninės oranžinės su atšvaitais), 50 leash rinkinių (susuktos, su greitu atsegu) ir vandeniui atsparų incidentų registravimo planšetę. Akademijos „Safety First“ protokolas numatė 4:1 mokinių ir trenerių santykį, o gelbėjimo lenta ir pirmosios pagalbos rinkinys bet kuriuo metu turėjo būti pasiekiami per 30 sekundžių nuo bet kurio mokinio.',
+                'OLagoon treniravimo konsultantas Dave Kalama (vaizdo skambučiais iš Havajų) bendradarbiavo su Kenji rengdamas mokymo programą. Bronza (10 užsiėmimų): pusiausvyra ramiai vandenyje, pagrindinis irklavimas į priekį, savisauga. Sidabras (20 užsiėmimų): 2 km irklavimas laikui, pivot posūkis, vėjo suvokimas. Auksas (40 užsiėmimų): 5 km irklavimas vandenyne, įplaukimas ir išplaukimas iš bangų zonos, lenktynių taktika ir treniravimo pagrindai. Kenji primygtinai reikalavo saugos: OLagoon suteikė 50 V tipo gelbėjimosi liemenių (sertifikuotų Japonijoje, neoninės oranžinės su atšvaitais), 50 leash rinkinių (susuktos, su greitu atsegu) ir vandeniui atsparų incidentų registravimo planšetę. Akademijos „Safety First“ protokolas numatė 4:1 mokinių ir trenerių santykį, o gelbėjimo lenta ir pirmosios pagalbos rinkinys bet kuriuo metu turėjo būti pasiekiami per 30 sekundžių nuo bet kurio mokinio.',
             },
             {
               title: 'Miesto tarybos patvirtinimas ir mokyklų integravimo programa',
               detail:
-                'Afarer Japonijos šalies vadovas Hiroshi Abe padėjo Kenji perprasti Kamakuros miesto leidimų procesą. Tam reikėjo: atsakomybės draudimo (¥100 milijonų draudimo suma), paplūdimio zonos atskyrimo (spalvotomis plūdėmis pažymėta 200x50 m treniruočių zona, nesutampanti su plaukikų zona), triukšmo apribojimų (be švilpukų po 17 val.) ir atliekų tvarkymo plano. Afarer parengė dvikalbius japonų ir anglų kalbų saugos vadovus bei incidentų registrus. Kenji pasirašė sutartis su 3 vietinėmis jaunesniosios vidurinės mokyklomis (Kamakura Daiichi, Koshigoe ir Hase), siūlydamas SUP kaip oficialų popamokinį būrelį – pirmąjį tokį Japonijoje. Kiekviena mokykla už programą mokėjo ¥36,000 už mokinį per semestrą; miestas 40 proc. kompensavo mažas pajamas gaunančioms šeimoms.',
+                'OLagoon Japonijos šalies vadovas Hiroshi Abe padėjo Kenji perprasti Kamakuros miesto leidimų procesą. Tam reikėjo: atsakomybės draudimo (¥100 milijonų draudimo suma), paplūdimio zonos atskyrimo (spalvotomis plūdėmis pažymėta 200x50 m treniruočių zona, nesutampanti su plaukikų zona), triukšmo apribojimų (be švilpukų po 17 val.) ir atliekų tvarkymo plano. OLagoon parengė dvikalbius japonų ir anglų kalbų saugos vadovus bei incidentų registrus. Kenji pasirašė sutartis su 3 vietinėmis jaunesniosios vidurinės mokyklomis (Kamakura Daiichi, Koshigoe ir Hase), siūlydamas SUP kaip oficialų popamokinį būrelį – pirmąjį tokį Japonijoje. Kiekviena mokykla už programą mokėjo ¥36,000 už mokinį per semestrą; miestas 40 proc. kompensavo mažas pajamas gaunančioms šeimoms.',
             },
             {
               title: '2024 m. balandžio paleidimas ir 12 mėnesių rezultatai',
               detail:
-                'Kamakura SUP Academy duris atvėrė 2024 m. balandžio 6 d. su 43 mokiniais (viršijo Kenji iškeltą 40 tikslą). Iki 2025 m. kovo mokinių skaičius išaugo iki 87 (127 proc. talpos). Du mokiniai (Sora Yamamoto, 16 m., ir Mei Taniguchi, 15 m.) pateko į Japonijos jaunių nacionalinę SUP rinktinę ir dalyvavo 2024 m. ISA pasaulio SUP čempionate Kopenhagoje. Japonijos kanojų federacija Kenji Aukso sertifikatą įskaitė kaip kreditą nacionaliniam trenerio sertifikavimui. Įrangos gedimų lygis: 2 lentoms prireikė nedidelio vožtuvų remonto (Afarer serviso centras Osakoje jas sutaisė per 24 valandas). Afarer ir Kenji pasirašė 3 metų partnerystę, siekdami sukurti pažengusiems mokiniams skirtą „Academy Pro“ 12.6 lentą ir iki 2027 m. išplėsti veiklą dar į 5 pakrantės miestus.',
+                'Kamakura SUP Academy duris atvėrė 2024 m. balandžio 6 d. su 43 mokiniais (viršijo Kenji iškeltą 40 tikslą). Iki 2025 m. kovo mokinių skaičius išaugo iki 87 (127 proc. talpos). Du mokiniai (Sora Yamamoto, 16 m., ir Mei Taniguchi, 15 m.) pateko į Japonijos jaunių nacionalinę SUP rinktinę ir dalyvavo 2024 m. ISA pasaulio SUP čempionate Kopenhagoje. Japonijos kanojų federacija Kenji Aukso sertifikatą įskaitė kaip kreditą nacionaliniam trenerio sertifikavimui. Įrangos gedimų lygis: 2 lentoms prireikė nedidelio vožtuvų remonto (OLagoon serviso centras Osakoje jas sutaisė per 24 valandas). OLagoon ir Kenji pasirašė 3 metų partnerystę, siekdami sukurti pažengusiems mokiniams skirtą „Academy Pro“ 12.6 lentą ir iki 2027 m. išplėsti veiklą dar į 5 pakrantės miestus.',
             },
           ],
           results: [
@@ -3126,29 +3126,29 @@ const lt: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Kvinslandas, Australija',
             background:
-              "Kylie Brennan (38 m.) – buvusi Australijos „Ironwoman“ sportininkė (konkurencinis banglentinis gelbėjimas), nuo 2019 m. valdžiusi „Kylie's Paddle School“ – penkių darbuotojų verslą Tallebudgera Creek upelyje, Gold Coast. Iki 2023 m. ji kasmet turėjo 350 mokinių, tačiau 60 proc. užklausų atsisakydavo, nes negalėjo išplėsti savo įrangos. Jos 20 skirtingų prekės ženklų lentų buvo nusidėvėjusios, mokiniai buvo nuo 6 iki 72 metų, o draudimo sąlygos reikalavo 4:1 mokinių ir trenerių santykio, kas ribojo pelningumą. Ji kreipėsi į Afarer 2023 m. SUP parodoje Sidnėjuje – jai reikėjo išsamaus sprendimo „akademija vienoje dėžėje“: pagal amžių ir dydį pritaikytų lentų, irklų, gelbėjimosi liemenių, mokymo programų medžiagų ir rezervavimo sistemos, integruotos su įrangos paskirstymu.",
+              "Kylie Brennan (38 m.) – buvusi Australijos „Ironwoman“ sportininkė (konkurencinis banglentinis gelbėjimas), nuo 2019 m. valdžiusi „Kylie's Paddle School“ – penkių darbuotojų verslą Tallebudgera Creek upelyje, Gold Coast. Iki 2023 m. ji kasmet turėjo 350 mokinių, tačiau 60 proc. užklausų atsisakydavo, nes negalėjo išplėsti savo įrangos. Jos 20 skirtingų prekės ženklų lentų buvo nusidėvėjusios, mokiniai buvo nuo 6 iki 72 metų, o draudimo sąlygos reikalavo 4:1 mokinių ir trenerių santykio, kas ribojo pelningumą. Ji kreipėsi į OLagoon 2023 m. SUP parodoje Sidnėjuje – jai reikėjo išsamaus sprendimo „akademija vienoje dėžėje“: pagal amžių ir dydį pritaikytų lentų, irklų, gelbėjimosi liemenių, mokymo programų medžiagų ir rezervavimo sistemos, integruotos su įrangos paskirstymu.",
             goal: '2024 m. rugsėjį paleisti „Australia SUP Academy – Gold Coast“ su daugiau nei 200 mokinių, užsiregistravusių į struktūruotus 8 savaičių trimestrus po $499 AUD už asmenį, pasiekiant ne mažesnį kaip 85 proc. atnaujinimo rodiklį ir 95 proc. maržą iš įrangos.',
           },
           steps: [
             {
               title: 'Individualizuotas akademijos parko dizainas 4 amžiaus kohortoms',
               detail:
-                "2024 m. kovą Afarer Okeanijos klientų direktorius Lachlan Murphy tris savaites praleido su Kylie analizuodamas jos mokinių demografiją. Jie suskirstė juos į 4 kohortas: „Paddlers“ (amžius 6–9 m., lengvoji 9.6'x28' lenta, 4.2 kg, su karikatūriniais „Sea Dragon“ grafikos elementais), „Juniors“ (10–14 m., 10.6'x30' lenta, 6.5 kg), „Adults“ (15–55 m., 11.6'x32' lenta, 8.9 kg) ir „Seniors & Adaptive“ (55+ m., itin stabili 10.0'x34' lenta su pagalbos rankena-diržu, 9.2 kg). Afarer sukūrė kiekvieną lentą su spalvomis pažymėtomis bortų juostomis (žalia/geltona/mėlyna/raudona) momentiniam dydžio atpažinimui ir pagamino 120 lentų (po 30 kiekvienai kohortai). Kiekvienoje lentoje buvo asmeninio vardo etiketės lizdas ir pažangos sekimo lipdukas (už įvaldytus įgūdžius mokiniai gaudavo antspaudų).",
+                "2024 m. kovą OLagoon Okeanijos klientų direktorius Lachlan Murphy tris savaites praleido su Kylie analizuodamas jos mokinių demografiją. Jie suskirstė juos į 4 kohortas: „Paddlers“ (amžius 6–9 m., lengvoji 9.6'x28' lenta, 4.2 kg, su karikatūriniais „Sea Dragon“ grafikos elementais), „Juniors“ (10–14 m., 10.6'x30' lenta, 6.5 kg), „Adults“ (15–55 m., 11.6'x32' lenta, 8.9 kg) ir „Seniors & Adaptive“ (55+ m., itin stabili 10.0'x34' lenta su pagalbos rankena-diržu, 9.2 kg). OLagoon sukūrė kiekvieną lentą su spalvomis pažymėtomis bortų juostomis (žalia/geltona/mėlyna/raudona) momentiniam dydžio atpažinimui ir pagamino 120 lentų (po 30 kiekvienai kohortai). Kiekvienoje lentoje buvo asmeninio vardo etiketės lizdas ir pažangos sekimo lipdukas (už įvaldytus įgūdžius mokiniai gaudavo antspaudų).",
             },
             {
-              title: 'Instruktorių rengimas ir Afarer sertifikuota mokymo programa',
+              title: 'Instruktorių rengimas ir OLagoon sertifikuota mokymo programa',
               detail:
-                'Afarer sukūrė 40 valandų instruktorių sertifikavimo kursą, kuriame Kylie tapo pirmąja vyriausiąja instruktore. Kursas apėmė: kohortoms pritaikytus mokymo metodus (pvz., vyresnio amžiaus žmonėms – įlipimo ir išlipimo technikos esant ribotam judrumui; vaikams – žaidybinimas ir gelbėjimo įgūdžiai), pažangos planavimą (kiekvienas lygis turėjo 12 įgūdžių su vaizdo įrašų etalonais) ir saugos valdymą (Gold Coast Tallebudgera Creek per didįjį potvynį turi 4 mazgų srovę – vadovai privalo žinoti potvynių langus). 12 iš 15 Kylie tuomet turėtų instruktorių baigė sertifikavimą; Afarer juos sertifikavo kaip „Level 1 SUP Academy Instructors“. Afarer taip pat kiekvienam mokiniui paruošė išsamų starto rinkinį: su prekės ženklu pažymėtą apsauginį marškinį (rash guard), vandeniui atsparų įgūdžių bukletą ir pasiekimų žurnalą su lipdukais.',
+                'OLagoon sukūrė 40 valandų instruktorių sertifikavimo kursą, kuriame Kylie tapo pirmąja vyriausiąja instruktore. Kursas apėmė: kohortoms pritaikytus mokymo metodus (pvz., vyresnio amžiaus žmonėms – įlipimo ir išlipimo technikos esant ribotam judrumui; vaikams – žaidybinimas ir gelbėjimo įgūdžiai), pažangos planavimą (kiekvienas lygis turėjo 12 įgūdžių su vaizdo įrašų etalonais) ir saugos valdymą (Gold Coast Tallebudgera Creek per didįjį potvynį turi 4 mazgų srovę – vadovai privalo žinoti potvynių langus). 12 iš 15 Kylie tuomet turėtų instruktorių baigė sertifikavimą; OLagoon juos sertifikavo kaip „Level 1 SUP Academy Instructors“. OLagoon taip pat kiekvienam mokiniui paruošė išsamų starto rinkinį: su prekės ženklu pažymėtą apsauginį marškinį (rash guard), vandeniui atsparų įgūdžių bukletą ir pasiekimų žurnalą su lipdukais.',
             },
             {
               title: 'Rezervavimo sistemos integracija ir įrangos logistika',
               detail:
-                'Afarer technologijų komanda integravo Kylie esamą BookingKit rezervavimo sistemą su Afarer atsargų moduliu. Kiekviena lenta turėjo RFID žymą, nuskaitomą išduodant ir grąžinant – taip buvo sekamos naudojimo valandos, vėluojantys grąžinimai ir techninės priežiūros poreikiai. Mokiniui užsakius pamoką, sistema automatiškai priskirdavo tinkamą lentos dydį. Afarer sukūrė modulinę laikymo sistemą (kiekvienas stelažas talpina 24 lentas, iš viso 5 stelažai) su UV spindulius atlaikančia markize ir RFID skaitytuvų vartais. Gold Coast miesto taryba Kylie išdavė 5 metų leidimą nuolatinei 500 m² aptvertai teritorijai Tallebudgera paplūdimio pietiniame gale – retas pasiekimas atsižvelgiant į griežtas pakrantės statybų taisykles. Afarer atstovas Lachlan išrūpino leidimą pasinaudodamas Afarer „Community Sports Facility“ klasifikacija, kurios taryba anksčiau niekada netaikė SUP mokyklai.',
+                'OLagoon technologijų komanda integravo Kylie esamą BookingKit rezervavimo sistemą su OLagoon atsargų moduliu. Kiekviena lenta turėjo RFID žymą, nuskaitomą išduodant ir grąžinant – taip buvo sekamos naudojimo valandos, vėluojantys grąžinimai ir techninės priežiūros poreikiai. Mokiniui užsakius pamoką, sistema automatiškai priskirdavo tinkamą lentos dydį. OLagoon sukūrė modulinę laikymo sistemą (kiekvienas stelažas talpina 24 lentas, iš viso 5 stelažai) su UV spindulius atlaikančia markize ir RFID skaitytuvų vartais. Gold Coast miesto taryba Kylie išdavė 5 metų leidimą nuolatinei 500 m² aptvertai teritorijai Tallebudgera paplūdimio pietiniame gale – retas pasiekimas atsižvelgiant į griežtas pakrantės statybų taisykles. OLagoon atstovas Lachlan išrūpino leidimą pasinaudodamas OLagoon „Community Sports Facility“ klasifikacija, kurios taryba anksčiau niekada netaikė SUP mokyklai.',
             },
             {
               title: '2024 m. rugsėjo 1-ojo trimestro paleidimas ir mokinių antplūdis',
               detail:
-                '1-asis trimestras (2024 m. rugsėjis–lapkritis, Australijos pavasaris) startavo su 183 užsiregistravusiais mokiniais – 91 proc. 200 tikslo. Kylie vedė 28 pamokas per savaitę su 12 instruktorių. Tėvų pasitenkinimas: 4.8/5. 2-ojo trimestro (2025 m. vasaris–balandis) registracija pasiekė 264 mokinius (132 proc. tikslo). Pajamos: 1-asis trimestras = $91,317 AUD; 2-asis trimestras = $131,736 AUD. Akademijos „Adaptive Paddle“ programa (skirta mokiniams su negalia, sukurta kartu su Spinal Life Australia) pritraukė 12 mokinių ir laimėjo 2025 m. Gold Coast Sport & Recreation apdovanojimą „Inclusive Program of the Year“. Lentų techninės priežiūros išlaidos: $1,220 AUD iš viso už 120 lentų per 6 mėnesius (daugiausia peleko varžtai ir vožtuvų dangteliai). Kylie užsakė 60 papildomų lentų 2025–2026 m. ir sutartimi pavedė Afarer sukurti jos 15 varžybinių mokinių skirtą pažangią „Race Squad“ lentą.',
+                '1-asis trimestras (2024 m. rugsėjis–lapkritis, Australijos pavasaris) startavo su 183 užsiregistravusiais mokiniais – 91 proc. 200 tikslo. Kylie vedė 28 pamokas per savaitę su 12 instruktorių. Tėvų pasitenkinimas: 4.8/5. 2-ojo trimestro (2025 m. vasaris–balandis) registracija pasiekė 264 mokinius (132 proc. tikslo). Pajamos: 1-asis trimestras = $91,317 AUD; 2-asis trimestras = $131,736 AUD. Akademijos „Adaptive Paddle“ programa (skirta mokiniams su negalia, sukurta kartu su Spinal Life Australia) pritraukė 12 mokinių ir laimėjo 2025 m. Gold Coast Sport & Recreation apdovanojimą „Inclusive Program of the Year“. Lentų techninės priežiūros išlaidos: $1,220 AUD iš viso už 120 lentų per 6 mėnesius (daugiausia peleko varžtai ir vožtuvų dangteliai). Kylie užsakė 60 papildomų lentų 2025–2026 m. ir sutartimi pavedė OLagoon sukurti jos 15 varžybinių mokinių skirtą pažangią „Race Squad“ lentą.',
             },
           ],
           results: [
@@ -3160,8 +3160,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl SUP akademijos renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl SUP akademijos renkasi OLagoon',
       items: [
         {
           title: 'Mokymosi patirtis',
@@ -3189,22 +3189,22 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kokios SUP lentos geriausiai tinka mokyti pradedančiuosius?',
         answer:
-          'Pradedančiųjų treniruočių SUP lentos turėtų turėti platesnes platformas, didesnį tūrį ir stabilias universalias formas, suteikiančias pasitikėjimą savimi, pusiausvyrą ir lengvą valdymą. Afarer pradedančiųjų lentos turi didelio stabilumo platformos dizainą ir didelio plūdumo konstrukciją, specialiai sukurtas mokymo aplinkai.',
+          'Pradedančiųjų treniruočių SUP lentos turėtų turėti platesnes platformas, didesnį tūrį ir stabilias universalias formas, suteikiančias pasitikėjimą savimi, pusiausvyrą ir lengvą valdymą. OLagoon pradedančiųjų lentos turi didelio stabilumo platformos dizainą ir didelio plūdumo konstrukciją, specialiai sukurtas mokymo aplinkai.',
       },
       {
         question: 'Ar siūlote vaikų dydžio SUP lentas jaunimo programoms?',
         answer:
-          'Taip, Afarer siūlo specialias vaikų SUP lentas su tinkamu ilgiu, lengvu valdymu, stabilia forma ir vaikams patrauklia išvaizda, sukurtas mokyklų programoms, vasaros stovykloms, jaunių kursams ir šeimos veiklai.',
+          'Taip, OLagoon siūlo specialias vaikų SUP lentas su tinkamu ilgiu, lengvu valdymu, stabilia forma ir vaikams patrauklia išvaizda, sukurtas mokyklų programoms, vasaros stovykloms, jaunių kursams ir šeimos veiklai.',
       },
       {
-        question: 'Kiek patvarios yra Afarer treniruočių lentos kasdieniniam mokymo naudojimui?',
+        question: 'Kiek patvarios yra OLagoon treniruočių lentos kasdieniniam mokymo naudojimui?',
         answer:
-          'Afarer treniruočių lentos turi sutvirtintas PVC medžiagas, patvarią drop stitch konstrukciją ir sutvirtintus bortus, sukurtus atlaikyti kasdieninį kelių mokinių naudojimą, dažną transportavimą, pakartotinį pripūtimą ir pradedančiųjų klaidas.',
+          'OLagoon treniruočių lentos turi sutvirtintas PVC medžiagas, patvarią drop stitch konstrukciją ir sutvirtintus bortus, sukurtus atlaikyti kasdieninį kelių mokinių naudojimą, dažną transportavimą, pakartotinį pripūtimą ir pradedančiųjų klaidas.',
       },
       {
         question: 'Ar galite individualizuoti lentas su mūsų akademijos prekės ženklu?',
         answer:
-          'Taip, Afarer palaiko akademijos logotipo pritaikymą, spalvų suderinimą, lentų numeravimą ir identifikavimo sistemas, kuriančias profesionalų įvaizdį ir palengvinančias instruktoriams parko valdymą.',
+          'Taip, OLagoon palaiko akademijos logotipo pritaikymą, spalvų suderinimą, lentų numeravimą ir identifikavimo sistemas, kuriančias profesionalų įvaizdį ir palengvinančias instruktoriams parko valdymą.',
       },
       {
         question: 'Kokios priemonės įtrauktos į akademijos parko paketą?',
@@ -3214,13 +3214,13 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar teikiate techninės priežiūros palaikymą treniruočių įrangai?',
         answer:
-          'Taip, Afarer teikia įrangos inspektavimo vadovus, valymo ir laikymo procedūras, pagrindinio remonto gaires nedideliems pažeidimams ir vožtuvų priežiūrai bei atsarginių dalių planavimą, kad jūsų treniruočių parkas veiktų visą sezoną.',
+          'Taip, OLagoon teikia įrangos inspektavimo vadovus, valymo ir laikymo procedūras, pagrindinio remonto gaires nedideliems pažeidimams ir vožtuvų priežiūrai bei atsarginių dalių planavimą, kad jūsų treniruočių parkas veiktų visą sezoną.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo SUP akademijos parką su Afarer',
+      title: 'Sukurkite savo SUP akademijos parką su OLagoon',
       subtitle:
-        'Jūsų mokinių pirmoji SUP patirtis yra svarbi. Rinkitės įrangą, sukurtą padėti jiems mokytis saugiai ir pasitikint savimi. Afarer padeda SUP mokykloms, jaunimo akademijoms, vasaros stovykloms ir lauko ugdymo organizacijoms kurti profesionalias treniruočių programas.',
+        'Jūsų mokinių pirmoji SUP patirtis yra svarbi. Rinkitės įrangą, sukurtą padėti jiems mokytis saugiai ir pasitikint savimi. OLagoon padeda SUP mokykloms, jaunimo akademijoms, vasaros stovykloms ir lauko ugdymo organizacijoms kurti profesionalias treniruočių programas.',
       primaryAction: {
         text: 'Pradėkite savo SUP akademijos projektą jau šiandien',
       },
@@ -3241,9 +3241,9 @@ const lt: Record<string, SolutionOverride> = {
       title:
         'Premium portatyvūs vandens sporto sprendimai kruizų linijoms, jachtų kompanijoms ir jūrų svetingumo prekės ženklams',
       subtitle:
-        'Afarer teikia Luxury Portable SUP Package sprendimus, specialiai sukurtus kruizinių laivų kompanijoms, ekspedicinių kruizų operatoriams, jachtų nuomos kompanijoms, superyacht savininkams ir marinų veiklų teikėjams. Tiekiame itin portatyvius pripučiamų SUP dizainus su jūrinės klasės komponentais ir prabangiu individualizavimu.',
+        'OLagoon teikia Luxury Portable SUP Package sprendimus, specialiai sukurtus kruizinių laivų kompanijoms, ekspedicinių kruizų operatoriams, jachtų nuomos kompanijoms, superyacht savininkams ir marinų veiklų teikėjams. Tiekiame itin portatyvius pripučiamų SUP dizainus su jūrinės klasės komponentais ir prabangiu individualizavimu.',
       image: {
-        alt: 'Afarer prabangus portatyvus SUP rinkinys jachtoms ir kruiziniams laivams',
+        alt: 'OLagoon prabangus portatyvus SUP rinkinys jachtoms ir kruiziniams laivams',
       },
     },
     challenge: {
@@ -3277,7 +3277,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Itin portatyvus pripučiamas SUP dizainas',
           description:
-            'Pripučiama SUP technologija suteikia didelį pranašumą jachtoms ir kruizų operatoriams. Afarer lentos pasižymi kompaktiškomis lankstymo sistemomis, užimančiomis mažai laikymo vietos, lengvu transportavimu greitesniam išskleidimui ir pilnais kelioniniais rinkiniais, įskaitant lentą, sulankstomą irklą, siurblį ir kuprinę.',
+            'Pripučiama SUP technologija suteikia didelį pranašumą jachtoms ir kruizų operatoriams. OLagoon lentos pasižymi kompaktiškomis lankstymo sistemomis, užimančiomis mažai laikymo vietos, lengvu transportavimu greitesniam išskleidimui ir pilnais kelioniniais rinkiniais, įskaitant lentą, sulankstomą irklą, siurblį ir kuprinę.',
           features: [
             'Kompaktiška lankstymo sistema',
             'Lengvas transportavimas',
@@ -3288,7 +3288,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Jūrinės klasės medžiagų parinkimas',
           description:
-            'Afarer naudoja sūraus vandens atsparius komponentus su rūdims atsparia aparatūra, UV atsparia konstrukcija saulės poveikiui ir sutvirtinta SUP struktūra su patvariais PVC sluoksniais bei stipriu drop stitch šerdimi, specialiai sukurtu vandenyno aplinkai.',
+            'OLagoon naudoja sūraus vandens atsparius komponentus su rūdims atsparia aparatūra, UV atsparia konstrukcija saulės poveikiui ir sutvirtinta SUP struktūra su patvariais PVC sluoksniais bei stipriu drop stitch šerdimi, specialiai sukurtu vandenyno aplinkai.',
           features: [
             'Sūraus vandens atsparūs komponentai',
             'UV atspari konstrukcija',
@@ -3299,7 +3299,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Prabangus jachtų ir kruizų individualizavimas',
           description:
-            'Premium jūrų verslui išvaizda yra svarbi. Afarer palaiko individualų prekės ženklo apipavidalinimą su jachtų logotipais ir kruizų kompanijos identitetu, premium spalvų dizainą jachtų prabangos, ekspedicijų nuotykių ar kurortų jūriniais stiliais bei prekės ženklo įrangos rinkinius su derinčiais irklais ir individualiomis rankinėmis.',
+            'Premium jūrų verslui išvaizda yra svarbi. OLagoon palaiko individualų prekės ženklo apipavidalinimą su jachtų logotipais ir kruizų kompanijos identitetu, premium spalvų dizainą jachtų prabangos, ekspedicijų nuotykių ar kurortų jūriniais stiliais bei prekės ženklo įrangos rinkinius su derinčiais irklais ir individualiomis rankinėmis.',
           features: [
             'Individualus jachtų ir kruizų prekės ženklo apipavidalinimas',
             'Premium spalvų dizainas',
@@ -3310,27 +3310,27 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Jachtų nuomos SUP rinkinys',
           description:
-            'Jachtų svečiai tikisi patogumo ir išskirtinumo. Afarer palaiko privačius nuomos įrangos rinkinius superyacht, katamaranams ir burlaiviams, su svečiams draugišku naudojimu pradedantiesiems ir šeimoms, organizuotu laikymu ir premium pristatymu su prabangia išvaizda.',
+            'Jachtų svečiai tikisi patogumo ir išskirtinumo. OLagoon palaiko privačius nuomos įrangos rinkinius superyacht, katamaranams ir burlaiviams, su svečiams draugišku naudojimu pradedantiesiems ir šeimoms, organizuotu laikymu ir premium pristatymu su prabangia išvaizda.',
         },
         {
           title: 'Ekspedicinių kruizų vandens veiklų sprendimai',
           description:
-            'Nuotykių kruizams reikia lanksčios įrangos salų sustojimams, pakrančių tyrinėjimams ir gamtos išvykoms. Afarer sprendimai palaiko veiklą nutolusiose vietose su lengvu transportavimu ir kompaktišku laikymu, taip pat grupių veiklų programas mažoms grupėms ir vedamoms išvykoms.',
+            'Nuotykių kruizams reikia lanksčios įrangos salų sustojimams, pakrančių tyrinėjimams ir gamtos išvykoms. OLagoon sprendimai palaiko veiklą nutolusiose vietose su lengvu transportavimu ir kompaktišku laikymu, taip pat grupių veiklų programas mažoms grupėms ir vedamoms išvykoms.',
         },
         {
           title: 'Pilni laikymo laive sprendimai',
           description:
-            'Afarer supranta jūrinės erdvės apribojimus ir teikia kompaktišką laikymo planavimą lentų ir priedų organizavimui, apsaugos sistemas su laikymo rankinėmis bei operacinį efektyvumą, padedantį įgulai greičiau pasiruošti ir lengviau valdyti įrangą.',
+            'OLagoon supranta jūrinės erdvės apribojimus ir teikia kompaktišką laikymo planavimą lentų ir priedų organizavimui, apsaugos sistemas su laikymo rankinėmis bei operacinį efektyvumą, padedantį įgulai greičiau pasiruošti ir lengviau valdyti įrangą.',
         },
         {
           title: 'Įgulos mokymai ir priežiūros palaikymas',
           description:
-            'Afarer teikia įgulos naudojimo vadovus, apimančius pripūtimo procedūras, įrangos valdymą ir valymo metodus, taip pat priežiūros rekomendacijas dėl sūraus vandens valymo, džiovinimo procedūrų ir laikymo praktikos su patikros sąrašais prieš veiklas ir po jų.',
+            'OLagoon teikia įgulos naudojimo vadovus, apimančius pripūtimo procedūras, įrangos valdymą ir valymo metodus, taip pat priežiūros rekomendacijas dėl sūraus vandens valymo, džiovinimo procedūrų ir laikymo praktikos su patikros sąrašais prieš veiklas ir po jų.',
         },
         {
           title: 'Premium vandens patirties dizainas',
           description:
-            'SUP gali tapti prabangios patirties paketo dalimi. Afarer padeda kurti saulėlydžio jachtų SUP patirtis poroms ir VIP svečiams, privačius salų tyrinėjimus nuomos klientams, vandenyno sveikatingumo programas prabangiems kruizams ir jūrų ekologines patirtis ekspediciniams kruizams.',
+            'SUP gali tapti prabangios patirties paketo dalimi. OLagoon padeda kurti saulėlydžio jachtų SUP patirtis poroms ir VIP svečiams, privačius salų tyrinėjimus nuomos klientams, vandenyno sveikatingumo programas prabangiems kruizams ir jūrų ekologines patirtis ekspediciniams kruizams.',
         },
       ],
     },
@@ -3346,7 +3346,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Produkto planavimas',
           detail:
-            'Afarer sukūrė Luxury Portable SUP Package rinkinį pagal jachtos laikymo apribojimus, svečių patirties reikalavimus ir Viduržemio jūros jūrinę aplinką.',
+            'OLagoon sukūrė Luxury Portable SUP Package rinkinį pagal jachtos laikymo apribojimus, svečių patirties reikalavimus ir Viduržemio jūros jūrinę aplinką.',
         },
         {
           title: 'Produkto individualizavimas',
@@ -3383,29 +3383,29 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Arkties lauko bandymai Kongsfjordene, 79° šiaurės platumoje',
               detail:
-                '2024 m. gegužę Afarer ekstremalių aplinkų komanda (vyresnysis inžinierius Sven Lehmann iš Afarer Hamburgo biuro) prisijungė prie Hurtigruten laivo MS Maud 14 dienų Svalbardo kelionėje. Jie išbandė 8 konkurentų lentas ir 6 Afarer Arkties prototipus per 11 Zodiac išskleidimų netoli Ny-Ålesund ir Monako ledyno. Pagrindiniai radiniai: standartiniai vožtuvai užšalo atviri -8°C ore po panardinimo 2°C vandenyje (šiltas vanduo vožtuvo stiebe vėl sušalo kontaktuodamas su šaltu oru). Afarer sprendimas: azoto pūtimo vožtuvų sistema, prieš uždarymą išstumianti visą drėgmę, papildyta neoprenine vožtuvo apsauga. Lentos medžiaga: standartinis PVC prarado 40 % lankstumo -15°C temperatūroje — Afarer Polarex TPU mišinys išlaikė 92 % lankstumo -20°C temperatūroje. Lentos turėjo būti pripūstos per mažiau nei 7 minutes (svečių kantrybės riba šaltoje aplinkoje) ir išleisti orą bei susilankstyti per 5 minutes (kad būtų minimizuotas poliarinės meškos susitikimo langas). Afarer 2 pakopų siurblys (rankinis siurblys pirmiems 10 PSI, azoto balionėlis iki 18 PSI) pasiekė 6,2 minučių pripūtimą.',
+                '2024 m. gegužę OLagoon ekstremalių aplinkų komanda (vyresnysis inžinierius Sven Lehmann iš OLagoon Hamburgo biuro) prisijungė prie Hurtigruten laivo MS Maud 14 dienų Svalbardo kelionėje. Jie išbandė 8 konkurentų lentas ir 6 OLagoon Arkties prototipus per 11 Zodiac išskleidimų netoli Ny-Ålesund ir Monako ledyno. Pagrindiniai radiniai: standartiniai vožtuvai užšalo atviri -8°C ore po panardinimo 2°C vandenyje (šiltas vanduo vožtuvo stiebe vėl sušalo kontaktuodamas su šaltu oru). OLagoon sprendimas: azoto pūtimo vožtuvų sistema, prieš uždarymą išstumianti visą drėgmę, papildyta neoprenine vožtuvo apsauga. Lentos medžiaga: standartinis PVC prarado 40 % lankstumo -15°C temperatūroje — OLagoon Polarex TPU mišinys išlaikė 92 % lankstumo -20°C temperatūroje. Lentos turėjo būti pripūstos per mažiau nei 7 minutes (svečių kantrybės riba šaltoje aplinkoje) ir išleisti orą bei susilankstyti per 5 minutes (kad būtų minimizuotas poliarinės meškos susitikimo langas). OLagoon 2 pakopų siurblys (rankinis siurblys pirmiems 10 PSI, azoto balionėlis iki 18 PSI) pasiekė 6,2 minučių pripūtimą.',
             },
             {
               title: "'Polar Explorer' rinkinys su Zodiac integracija ir saugos sistemomis",
               detail:
-                'Afarer sukūrė „Polar Explorer 12.0“ su konkrečiais Arkties pritaikymais: ryškia tarptautine oranžine spalva (matoma prieš ledą iš 2 km žiūrint pro žiūronus), atspindinčiomis SOLAS klasės juostomis, integruota gelbėjimo kilpa, skirta 600 kg (Zodiac vilkimo atgavimui), ir GPS balizės kišenė priekyje (Hurtigruten suteikė Garmin inReach Mini 2 įrenginius). Rinkinys apėmė su sausuoju kostiumu suderinamą pripučiamą gelbėjimosi liemenę (Mustang Survival HIT, Afarer išbandytą mobilumui irkluojant), neopreninių pogių rinkinį (rankų šildytuvai, integruoti irklo kamiene) ir individualią kuprinę, tilpančią į Zodiac laikymo dėtuvę (60x30x30 cm sulankstyta). Zodiac išskleidimo sistema: prie Zodiac pontono pritvirtintas ratų laikiklis leido vienam vadovui pastumti lentas į vandenį jų nekeldamas.',
+                'OLagoon sukūrė „Polar Explorer 12.0“ su konkrečiais Arkties pritaikymais: ryškia tarptautine oranžine spalva (matoma prieš ledą iš 2 km žiūrint pro žiūronus), atspindinčiomis SOLAS klasės juostomis, integruota gelbėjimo kilpa, skirta 600 kg (Zodiac vilkimo atgavimui), ir GPS balizės kišenė priekyje (Hurtigruten suteikė Garmin inReach Mini 2 įrenginius). Rinkinys apėmė su sausuoju kostiumu suderinamą pripučiamą gelbėjimosi liemenę (Mustang Survival HIT, OLagoon išbandytą mobilumui irkluojant), neopreninių pogių rinkinį (rankų šildytuvai, integruoti irklo kamiene) ir individualią kuprinę, tilpančią į Zodiac laikymo dėtuvę (60x30x30 cm sulankstyta). Zodiac išskleidimo sistema: prie Zodiac pontono pritvirtintas ratų laikiklis leido vienam vadovui pastumti lentas į vandenį jų nekeldamas.',
             },
             {
               title: 'Poliarinių meškų saugos protokolai ir vadovų mokymų programa',
               detail:
-                'Afarer saugos konsultantas, buvęs Svalbardo gubernatoriaus biuro saugos patarėjas Bjørn Viken, kartu sukūrė 3 dienų mokymų programą 12 Hurtigruten vadovų. „Arctic Paddle Safety Protocol“ apėmė: poliarinių meškų stebėjimo pamainas (vienas vadovas skirtas meškų stebėjimui su .308 kalibro šautuvu ir signaliniu pistoletu — standartinis Svalbardo reikalavimas), grupės formavimą (prielanka per 50 metrų, niekada toliau kaip 200 metrų nuo Zodiac), greitą ištraukimą (visos grupės grįžimas į valtį per mažiau nei 90 sekundžių, treniruojama kas savaitę) ir skubų atsaką į hipotermiją. Afarer suteikė vandeniui atsparias laminuotas greitosios pagalbos korteles kiekvienam vadovui. Kiekviena sesija buvo ribojama iki 8 svečių su 2 vadovais ir 1 ginkluota saugos Zodiac 100 metrų atstumu. Poliarinių meškų pastebėjimai irkluojant: 2 incidentai 2024 m. sezone — abu valdyti signaliniais įspėjamaisiais šūviais, be sužeidimų. Svečiai įvertino „saugumo pasitikėjimą“ 4,9/5.',
+                'OLagoon saugos konsultantas, buvęs Svalbardo gubernatoriaus biuro saugos patarėjas Bjørn Viken, kartu sukūrė 3 dienų mokymų programą 12 Hurtigruten vadovų. „Arctic Paddle Safety Protocol“ apėmė: poliarinių meškų stebėjimo pamainas (vienas vadovas skirtas meškų stebėjimui su .308 kalibro šautuvu ir signaliniu pistoletu — standartinis Svalbardo reikalavimas), grupės formavimą (prielanka per 50 metrų, niekada toliau kaip 200 metrų nuo Zodiac), greitą ištraukimą (visos grupės grįžimas į valtį per mažiau nei 90 sekundžių, treniruojama kas savaitę) ir skubų atsaką į hipotermiją. OLagoon suteikė vandeniui atsparias laminuotas greitosios pagalbos korteles kiekvienam vadovui. Kiekviena sesija buvo ribojama iki 8 svečių su 2 vadovais ir 1 ginkluota saugos Zodiac 100 metrų atstumu. Poliarinių meškų pastebėjimai irkluojant: 2 incidentai 2024 m. sezone — abu valdyti signaliniais įspėjamaisiais šūviais, be sužeidimų. Svečiai įvertino „saugumo pasitikėjimą“ 4,9/5.',
             },
             {
               title: '2024 m. birželio–rugsėjo Arkties sezono paleidimas ir rezultatai',
               detail:
-                '60 lentų parkas buvo išskleistas 4 laivuose nuo 2024 m. birželio 1 d. Kiekvienas laivas siūlė 3 irklavimo sesijas per savaitę (priklausomai nuo oro, po 90 minučių). Iš viso sesijų 2024 m. sezone: 288 sesijos visuose laivuose (4 laivai × 3 per savaitę × 24 savaitės). Vidutinis užimtumas: 7,2 svečio per sesiją (90 % 8 svečių talpos). Pajamos: 288 × 7,2 × $450 (premium išvykų kainodara) = $933,120 USD. Lentų našumas: nulis katastrofinių gedimų. Viena lenta patyrė 3 cm skylę nuo jūros ledo (aštrus ledų fragmentas)— suremontuota Arkties klasės lopų rinkiniu per 8 minutes Zodiac dreifo metu. Vožtuvai veikė puikiai per 288 pripūtimo ir oro išleidimo ciklus. Svečių atsiliepimai: 4,93/5 vidutinis įvertinimas. 83 % svečių teigė, kad SUP patirtis buvo „jos kelionės akcentas“. Erik užsakė 40 papildomų lentų 2025 m. sezonui ir paprašė Afarer sukurti „Twin“ modelį tandemui Arkties irklavimui.',
+                '60 lentų parkas buvo išskleistas 4 laivuose nuo 2024 m. birželio 1 d. Kiekvienas laivas siūlė 3 irklavimo sesijas per savaitę (priklausomai nuo oro, po 90 minučių). Iš viso sesijų 2024 m. sezone: 288 sesijos visuose laivuose (4 laivai × 3 per savaitę × 24 savaitės). Vidutinis užimtumas: 7,2 svečio per sesiją (90 % 8 svečių talpos). Pajamos: 288 × 7,2 × $450 (premium išvykų kainodara) = $933,120 USD. Lentų našumas: nulis katastrofinių gedimų. Viena lenta patyrė 3 cm skylę nuo jūros ledo (aštrus ledų fragmentas)— suremontuota Arkties klasės lopų rinkiniu per 8 minutes Zodiac dreifo metu. Vožtuvai veikė puikiai per 288 pripūtimo ir oro išleidimo ciklus. Svečių atsiliepimai: 4,93/5 vidutinis įvertinimas. 83 % svečių teigė, kad SUP patirtis buvo „jos kelionės akcentas“. Erik užsakė 40 papildomų lentų 2025 m. sezonui ir paprašė OLagoon sukurti „Twin“ modelį tandemui Arkties irklavimui.',
             },
           ],
           results: [
             '$933,120 pajamos iš 288 SUP sesijų per vieną 4 mėnesių Arkties sezoną su 90 % talpos utilizacija',
             'Nulis katastrofinių lentų gedimų per 288 sesijas ekstremaliose Arkties sąlygose; 1 nedidelė ledo pramuša suremontuota laive per 8 minutes',
             'Svečių pasitenkinimas 4,93/5; 83 % įvertino SUP patirtį kaip „kelionės akcentą“; laivai įtraukė SUP kaip nuolatinę išvykų kategoriją',
-            'Afarer gavo 3 metų išskirtinį partnerystės susitarimą visoms Hurtigruten Svalbard operacijoms; 40 papildomų lentų užsakyta 2025 m. sezonui',
+            'OLagoon gavo 3 metų išskirtinį partnerystės susitarimą visoms Hurtigruten Svalbard operacijoms; 40 papildomų lentų užsakyta 2025 m. sezonui',
           ],
         },
         {
@@ -3420,36 +3420,36 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '2024 m. kovo salos įvertinimas ir individualaus dizaino konsultacija',
               detail:
-                'Afarer prabangos padalinio direktorius Philippe Moreau ir vyresnioji dizainerė Amira Al Hashimi praleido 4 dienas Al Nabigha saloje. Jos dokumentavo kiekvieną detalę: vilų interjerus (šiuolaikinis arabų dizainas su kreminėmis, smėlio ir aukso tonomis), koralų sodo spalvų paletę (žalsvai mėlyna, turkio, koralų rožinė), marinos pagal Pantone dažytą medžio atspalvį ir net šeimos porceliano raštą (Wedgwood „Middle East Pearl“). Philippe ir Amira pasiūlė „vienintelę tokio pobūdžio“ estetiką: lentos, atitinkančios salos faktinius rifų atspalvius, su Al Nabigha šeimos herbu (sakalas virš datulės palmės), iškiliu 24 karatų aukso lapu po skaidriu epoksidu. Laikymas buvo apribojimas — Hamdan esamoje paplūdimio kabanoje buvo tik 8 kubiniai metrai erdvės tai, kas turėjo sudaryti 20 lentų. Afarer pasiūlė individualias tekos spinteles su atskiromis vėdinamomis stalčiiais, kiekviena lenta susukta ir laikoma su drėgmės davikliu.',
+                'OLagoon prabangos padalinio direktorius Philippe Moreau ir vyresnioji dizainerė Amira Al Hashimi praleido 4 dienas Al Nabigha saloje. Jos dokumentavo kiekvieną detalę: vilų interjerus (šiuolaikinis arabų dizainas su kreminėmis, smėlio ir aukso tonomis), koralų sodo spalvų paletę (žalsvai mėlyna, turkio, koralų rožinė), marinos pagal Pantone dažytą medžio atspalvį ir net šeimos porceliano raštą (Wedgwood „Middle East Pearl“). Philippe ir Amira pasiūlė „vienintelę tokio pobūdžio“ estetiką: lentos, atitinkančios salos faktinius rifų atspalvius, su Al Nabigha šeimos herbu (sakalas virš datulės palmės), iškiliu 24 karatų aukso lapu po skaidriu epoksidu. Laikymas buvo apribojimas — Hamdan esamoje paplūdimio kabanoje buvo tik 8 kubiniai metrai erdvės tai, kas turėjo sudaryti 20 lentų. OLagoon pasiūlė individualias tekos spinteles su atskiromis vėdinamomis stalčiiais, kiekviena lenta susukta ir laikoma su drėgmės davikliu.',
             },
             {
               title: "'Royal Heritage' individuali gamyba ir tyli elektros infrastruktūra",
               detail:
-                'Afarer Xiamen gamykla skyrė atskirą gamybos liniją Al Nabigha užsakymui. Kiekviena lenta buvo klojama rankomis su individualiai dažytu PVC „Arabian Teal“— individualia Pantone spalva (PMS 7712 C), priderinta prie salos gilesnių rifų zonų. Aukso lapo reljefas: 0,5 mikrono 24K auksas uždėtas aplink šeimos herbą, apsaugotas 3 sluoksniais jūrinės klasės UV sukietinto epoksido. Afarer parūpino tylius elektrinius siurblius (JOBE Aero, modifikuotus su triukšmą slopinančiais korpusais, sumažinančiais darbą iki 38 dB — tyliau nei salos aplinkinis bangų garsas). Kiekvieno siurblio maitinimo laidas buvo aptrauktas kreminės spalvos audiniu, derinančiu su vilų dekoro. 20 irklų rinkinys: individualūs anglies pluošto koteliai matte kreminės spalvos su 24K aukso juostele jungtyje ir mentės, rankomis dažytos koralų rifų motyvais Xiamen dirbančios jūrinės menininkės Liao Fang. Drėgmei valdyti skirta laikymo spintelė buvo pastatyta Afarer stalių partnerio Milane, išsiųsta supakuota plokščiai ir sumontuota saloje.',
+                'OLagoon Xiamen gamykla skyrė atskirą gamybos liniją Al Nabigha užsakymui. Kiekviena lenta buvo klojama rankomis su individualiai dažytu PVC „Arabian Teal“— individualia Pantone spalva (PMS 7712 C), priderinta prie salos gilesnių rifų zonų. Aukso lapo reljefas: 0,5 mikrono 24K auksas uždėtas aplink šeimos herbą, apsaugotas 3 sluoksniais jūrinės klasės UV sukietinto epoksido. OLagoon parūpino tylius elektrinius siurblius (JOBE Aero, modifikuotus su triukšmą slopinančiais korpusais, sumažinančiais darbą iki 38 dB — tyliau nei salos aplinkinis bangų garsas). Kiekvieno siurblio maitinimo laidas buvo aptrauktas kreminės spalvos audiniu, derinančiu su vilų dekoro. 20 irklų rinkinys: individualūs anglies pluošto koteliai matte kreminės spalvos su 24K aukso juostele jungtyje ir mentės, rankomis dažytos koralų rifų motyvais Xiamen dirbančios jūrinės menininkės Liao Fang. Drėgmei valdyti skirta laikymo spintelė buvo pastatyta OLagoon stalių partnerio Milane, išsiųsta supakuota plokščiai ir sumontuota saloje.',
             },
             {
               title: 'White-Glove aptarnavimo protokolas ir personalo mokymai',
               detail:
-                'Saeed Al Mazrouei atrinko 6 salos darbuotojus (3 liokajus, 2 paplūdimio prižiūrėtojus, 1 marinos darbuotoją) Afarer White-Glove aptarnavimo mokymams 2024 m. gegužę. 5 dienų programa apėmė: svečių pasveikinimą (lentos pristatomos ant rotano stovo, niekada nededamos ant žemės), pripūtimo ceremoniją (siurblys paleidžiamas prieš svečiui atvykstant — lenta paruošiama iki svečiui pasiekiant paplūdimį — išmatuota 11,5 minučių nuo siurblio paleidimo iki pilnų 15 PSI), asmeninį pritaikymą (teisingas irklo aukštis, pavadėlio pritvirtinimas, gelbėjimosi liemenės dydis — TURI būti diskretiška, todėl Afarer tiekė individualiai dažytas pripučiamas gelbėjimosi liemenes kreminės spalvos su matte aukso aparatūra) ir priežiūrą po sesijos (lenta nuvaloma ph-neutraliu valikliu, UV apsauga tepama kas 5 sesijas, vožtuvas patikrinamas, o lenda vėl sudedama į stalčių per 8 minutes po svečio išvykimo). Protokolo vadovas (45 puslapiai, įrištas oda su aukso kraštais) buvo laikomas kabanjos paslėptame seife. Hamdan atsiliepimas po mokymų: „Būtent taip reikia elgtis su įranga.“',
+                'Saeed Al Mazrouei atrinko 6 salos darbuotojus (3 liokajus, 2 paplūdimio prižiūrėtojus, 1 marinos darbuotoją) OLagoon White-Glove aptarnavimo mokymams 2024 m. gegužę. 5 dienų programa apėmė: svečių pasveikinimą (lentos pristatomos ant rotano stovo, niekada nededamos ant žemės), pripūtimo ceremoniją (siurblys paleidžiamas prieš svečiui atvykstant — lenta paruošiama iki svečiui pasiekiant paplūdimį — išmatuota 11,5 minučių nuo siurblio paleidimo iki pilnų 15 PSI), asmeninį pritaikymą (teisingas irklo aukštis, pavadėlio pritvirtinimas, gelbėjimosi liemenės dydis — TURI būti diskretiška, todėl OLagoon tiekė individualiai dažytas pripučiamas gelbėjimosi liemenes kreminės spalvos su matte aukso aparatūra) ir priežiūrą po sesijos (lenta nuvaloma ph-neutraliu valikliu, UV apsauga tepama kas 5 sesijas, vožtuvas patikrinamas, o lenda vėl sudedama į stalčių per 8 minutes po svečio išvykimo). Protokolo vadovas (45 puslapiai, įrištas oda su aukso kraštais) buvo laikomas kabanjos paslėptame seife. Hamdan atsiliepimas po mokymų: „Būtent taip reikia elgtis su įranga.“',
             },
             {
               title:
                 '2024 m. birželio pristatymas ir pirmasis VIP savaitgalis (Prince Andrew atšaukta viešnagė pakeista Kataro emyru)',
               detail:
-                'Pirmasis pilnas parko išskleidimas buvo Kataro emyro Tamim bin Hamad Al Thani ir jo šeimos valstybinio vizito metu 2024 m. birželio 24 d. (iš pradžių numatyta Didžiosios Britanijos karališkajam asmeniui, kuris atšaukė viešnagę). Šešios SUP lentos buvo paruoštos privačiame paplūdimyje iki 7:30 ryto. Emyro 14 metų sūnus Sheikh Jassim irklavo 3 valandas su jūrų biologo vadovu (taip pat individualiai apmokytu Afarer), tyrinėdamas koralų sodą. Hamdan pranešė: „Emyro sūnus sakė, kad tai buvo geriausia vizito dalis.“ Antrasis išskleidimas 2024 m. spalį 12 svečių iš Saudo Arabijos karališkojo dvaro apėmė saulėlydžio irklavimą su šampano aptarnavimu (taurės laikomos Afarer individualiame laikiklyje, sukurtame taip, kad nesusiverstų nuo laimo sukeltos bangos). Iki 2025 m. kovo lentos buvo naudotos 47 kartus be jokios žalos, be priežiūros incidentų ir be svečių skundų. Hamdan užsakė 8 papildomas lentas šeimos privačiai jachtai (65 metrų „Al Nabigha Star“) ir užsakė Afarer sukurti aukso lapų irklų seriją JAE nacionalinės dienos šventėms.',
+                'Pirmasis pilnas parko išskleidimas buvo Kataro emyro Tamim bin Hamad Al Thani ir jo šeimos valstybinio vizito metu 2024 m. birželio 24 d. (iš pradžių numatyta Didžiosios Britanijos karališkajam asmeniui, kuris atšaukė viešnagę). Šešios SUP lentos buvo paruoštos privačiame paplūdimyje iki 7:30 ryto. Emyro 14 metų sūnus Sheikh Jassim irklavo 3 valandas su jūrų biologo vadovu (taip pat individualiai apmokytu OLagoon), tyrinėdamas koralų sodą. Hamdan pranešė: „Emyro sūnus sakė, kad tai buvo geriausia vizito dalis.“ Antrasis išskleidimas 2024 m. spalį 12 svečių iš Saudo Arabijos karališkojo dvaro apėmė saulėlydžio irklavimą su šampano aptarnavimu (taurės laikomos OLagoon individualiame laikiklyje, sukurtame taip, kad nesusiverstų nuo laimo sukeltos bangos). Iki 2025 m. kovo lentos buvo naudotos 47 kartus be jokios žalos, be priežiūros incidentų ir be svečių skundų. Hamdan užsakė 8 papildomas lentas šeimos privačiai jachtai (65 metrų „Al Nabigha Star“) ir užsakė OLagoon sukurti aukso lapų irklų seriją JAE nacionalinės dienos šventėms.',
             },
           ],
           results: [
             '20 lentų parkas išskleistas 47 VIP svečių sesijoms per pirmus 9 mėnesius be priežiūros incidentų ar svečių skundų',
             'Vidutinis 11,5 minučių paruošimo laikas tyliai elektrinio siurblio sistemai; pakavimas po sesijos atliktas per 8 minutes — abu viršija 15 minučių prabangos aptarnavimo standartą',
             'Individualios laikymo spintelės palaikė vidutiniškai 58 % drėgmę (optimalu PVC); nė vieno pelėsio ar medžiagų degradacijos atvejo',
-            'Papildomas užsakymas 8 lentoms šeimos jachtai „Al Nabigha Star“; Afarer įgaliota sukurti išskirtinę JAE nacionalinės dienos 2025 aukso lapų irklų seriją',
+            'Papildomas užsakymas 8 lentoms šeimos jachtai „Al Nabigha Star“; OLagoon įgaliota sukurti išskirtinę JAE nacionalinės dienos 2025 aukso lapų irklų seriją',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl kruizų ir jachtų kompanijos renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl kruizų ir jachtų kompanijos renkasi OLagoon',
       items: [
         {
           title: 'Jūrinė aplinka',
@@ -3475,19 +3475,19 @@ const lt: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Kiek kompaktiškos yra Afarer SUP lentos, paruoštos laikymui jachtoje?',
+        question: 'Kiek kompaktiškos yra OLagoon SUP lentos, paruoštos laikymui jachtoje?',
         answer:
-          'Afarer prabangios portatyvios SUP lentos pasižymi kompaktiškomis lankstymo sistemomis, gerokai sumažinančiomis laikymo tūrį ir lengvai tilpančiomis į jachtų kajutes, laikymo skyrius ir ekspedicinius laivus. Kiekviena lenta sulankstoma į nešiojamą kuprinę su visais priedais.',
+          'OLagoon prabangios portatyvios SUP lentos pasižymi kompaktiškomis lankstymo sistemomis, gerokai sumažinančiomis laikymo tūrį ir lengvai tilpančiomis į jachtų kajutes, laikymo skyrius ir ekspedicinius laivus. Kiekviena lenta sulankstoma į nešiojamą kuprinę su visais priedais.',
       },
       {
-        question: 'Ar Afarer SUP lentos atsparios sūriam vandeniui ir UV žalai?',
+        question: 'Ar OLagoon SUP lentos atsparios sūriam vandeniui ir UV žalai?',
         answer:
-          'Taip, Afarer naudoja jūrinės klasės medžiagas, įskaitant sūraus vandens atsparius komponentus, rūdims atsparią aparatūrą, UV atsparią konstrukciją ir patvarius PVC sluoksnius, specialiai sukurtus atlaikyti vandenyno aplinką, drėgmę ir saulės poveikį.',
+          'Taip, OLagoon naudoja jūrinės klasės medžiagas, įskaitant sūraus vandens atsparius komponentus, rūdims atsparią aparatūrą, UV atsparią konstrukciją ir patvarius PVC sluoksnius, specialiai sukurtus atlaikyti vandenyno aplinką, drėgmę ir saulės poveikį.',
       },
       {
         question: 'Ar galite individualizuoti SUP lentas su mano jachtos ar kruizų kompanijos prekės ženklu?',
         answer:
-          'Taip, Afarer siūlo pilną individualizavimą, įskaitant jachtų logotipus, kruizų kompanijos identitetą, premium spalvų dizainą įvairiais stiliais, derančius prekės ženklo irklus, individualias rankines ir pilnus įrangos rinkinius, atspindinčius jūsų prekės ženklo prabangų pozicionavimą.',
+          'Taip, OLagoon siūlo pilną individualizavimą, įskaitant jachtų logotipus, kruizų kompanijos identitetą, premium spalvų dizainą įvairiais stiliais, derančius prekės ženklo irklus, individualias rankines ir pilnus įrangos rinkinius, atspindinčius jūsų prekės ženklo prabangų pozicionavimą.',
       },
       {
         question: 'Kas įtraukta į prabangų portatyvų SUP rinkinį?',
@@ -3497,18 +3497,18 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kiek lengva įgulos nariams paruošti ir išskleisti įrangą?',
         answer:
-          'Afarer teikia įgulos naudojimo vadovus, apimančius pripūtimo procedūras, įrangos valdymą, valymo metodus ir patikros sąrašus. Lengvas, portatyvus dizainas leidžia greitesnį išskleidimą ir lengvesnį valdymą, palyginti su tradicinėmis kietomis lentomis.',
+          'OLagoon teikia įgulos naudojimo vadovus, apimančius pripūtimo procedūras, įrangos valdymą, valymo metodus ir patikros sąrašus. Lengvas, portatyvus dizainas leidžia greitesnį išskleidimą ir lengvesnį valdymą, palyginti su tradicinėmis kietomis lentomis.',
       },
       {
         question: 'Ar siūlote masinius sprendimus kruizų linijoms su keliais laivais?',
         answer:
-          'Taip, Afarer palaiko kruizų kompanijas, jachtų nuomos verslus ir jūrų svetingumo prekės ženklus su parko masto sprendimais, įskaitant nuoseklią produktų kokybę visuose laivuose, masinio pirkimo efektyvumą ir standartizuotus įrangos paketus.',
+          'Taip, OLagoon palaiko kruizų kompanijas, jachtų nuomos verslus ir jūrų svetingumo prekės ženklus su parko masto sprendimais, įskaitant nuoseklią produktų kokybę visuose laivuose, masinio pirkimo efektyvumą ir standartizuotus įrangos paketus.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo prabangią vandens patirtį su Afarer',
+      title: 'Sukurkite savo prabangią vandens patirtį su OLagoon',
       subtitle:
-        'Vandenynas yra jūsų kelionės tikslas. Dabar sukurkite jame nepamirštamas patirtis. Afarer padeda kruizų kompanijoms, jachtų operatoriams, nuomos verslams ir jūrų svetingumo prekės ženklams kurti premium portatyvias SUP patirtis.',
+        'Vandenynas yra jūsų kelionės tikslas. Dabar sukurkite jame nepamirštamas patirtis. OLagoon padeda kruizų kompanijoms, jachtų operatoriams, nuomos verslams ir jūrų svetingumo prekės ženklams kurti premium portatyvias SUP patirtis.',
       primaryAction: {
         text: 'Pradėkite savo prabangų jūrinį SUP projektą jau šiandien',
       },
@@ -3522,7 +3522,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Private label SUP gamintojas | OEM SUP lentų tiekėjas mažmenininkams | {SITE}',
       description:
-        'Afarer teikia private label SUP gamybos sprendimus lauko reikmenų mažmenininkams, sporto prekių tinklams ir pasauliniams prekių ženklams. Individualios SUP lentos su mažmeninės prekybos pakavimu, atitikties standartams palaikymu ir patikima OEM tiektimi.',
+        'OLagoon teikia private label SUP gamybos sprendimus lauko reikmenų mažmenininkams, sporto prekių tinklams ir pasauliniams prekių ženklams. Individualios SUP lentos su mažmeninės prekybos pakavimu, atitikties standartams palaikymu ir patikima OEM tiektimi.',
     },
     hero: {
       tagline: 'Mažmeninės prekybos private label programa™',
@@ -3564,7 +3564,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Individualaus private label SUP produkto kūrimas',
           description:
-            'Afarer padeda mažmenininkams kurti produktus pagal tikslinius klientus, kainų pozicionavimą, pardavimo kanalus ir rinkos tendencijas, apimančias pradedančiųjų, vidutinės klasės lifestyle ir premium SUP kolekcijas.',
+            'OLagoon padeda mažmenininkams kurti produktus pagal tikslinius klientus, kainų pozicionavimą, pardavimo kanalus ir rinkos tendencijas, apimančias pradedančiųjų, vidutinės klasės lifestyle ir premium SUP kolekcijas.',
           features: [
             'Pradedančiųjų SUP kolekcija',
             'Vidutinės klasės lifestyle SUP kolekcija',
@@ -3574,19 +3574,19 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Mažmeninės prekybos maržų optimizavimas',
           description:
-            'Afarer padeda mažmenininkams optimizuoti produkto struktūrą kontroliuojant gamybos išlaidas ir derinant produkto konfigūraciją, kad ji atitiktų tikslinę mažmeninę kainą, klientų lūkesčius ir maržų tikslus.',
+            'OLagoon padeda mažmenininkams optimizuoti produkto struktūrą kontroliuojant gamybos išlaidas ir derinant produkto konfigūraciją, kad ji atitiktų tikslinę mažmeninę kainą, klientų lūkesčius ir maržų tikslus.',
           features: ['Gamybos išlaidų kontrolė', 'Produkto konfigūracijos optimizavimas', 'Medžiagų atranka'],
         },
         {
           title: 'Mažmeninei prekybai paruošto pakavimo dizainas',
           description:
-            'Afarer palaiko išsamius pakavimo sprendimus, įskaitant demonstracinį pakavimą su spalvotomis dėžėmis ir produkto vaizdais, el. prekybos pakavimą, optimizuotą Amazon ir Shopify platformoms, bei prekinio ženklo istorijos integravimą.',
+            'OLagoon palaiko išsamius pakavimo sprendimus, įskaitant demonstracinį pakavimą su spalvotomis dėžėmis ir produkto vaizdais, el. prekybos pakavimą, optimizuotą Amazon ir Shopify platformoms, bei prekinio ženklo istorijos integravimą.',
           features: ['Demonstracinis pakavimas', 'El. prekybos pakavimas', 'Prekinio ženklo istorijos integravimas'],
         },
         {
           title: 'Tarptautinės kokybės ir atitikties palaikymas',
           description:
-            'Afarer remia mažmenininkus kokybės dokumentacija, įskaitant medžiagų atitikties informaciją, produktų testavimo palaikymą ir eksporto dokumentaciją, padedančią valdyti importo reikalavimus.',
+            'OLagoon remia mažmenininkus kokybės dokumentacija, įskaitant medžiagų atitikties informaciją, produktų testavimo palaikymą ir eksporto dokumentaciją, padedančią valdyti importo reikalavimus.',
           features: [
             'Medžiagų atitikties palaikymas',
             'Produktų testavimo palaikymas',
@@ -3596,7 +3596,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Didelės apimties OEM gamyba',
           description:
-            'Afarer palaiko įvairias pirkimo apimtis — nuo naujų produktų paleidimo su 500-2000 vnt. iki mažmeninės prekybos plėtros su 3000-10000 vnt. ir pasaulinių mažmeninės prekybos programų su metiniais tiekimo susitarimais.',
+            'OLagoon palaiko įvairias pirkimo apimtis — nuo naujų produktų paleidimo su 500-2000 vnt. iki mažmeninės prekybos plėtros su 3000-10000 vnt. ir pasaulinių mažmeninės prekybos programų su metiniais tiekimo susitarimais.',
           features: [
             'Naujo produkto paleidimas (500-2000 vnt.)',
             'Mažmeninės prekybos plėtra (3000-10000 vnt.)',
@@ -3606,24 +3606,24 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Sezoninės tiekimo grandinės planavimas',
           description:
-            'Afarer palaiko produktų planavimą pagal pavasario/vasaros paklausą ir regionines rinkas, taip pat gamybos grafikų sudarymą, padedantį mažmenininkams valdyti atsargų laiką, sandėliavimo planavimą ir reklamines kampanijas.',
+            'OLagoon palaiko produktų planavimą pagal pavasario/vasaros paklausą ir regionines rinkas, taip pat gamybos grafikų sudarymą, padedantį mažmenininkams valdyti atsargų laiką, sandėliavimo planavimą ir reklamines kampanijas.',
         },
         {
           title: 'ODM produktų inovacijų palaikymas',
           description:
-            'Mažmenininkams reikia diferencijavimo. Afarer palaiko individualias lentų formas, individualius grafinius dizainus su mažmeninės prekybos prekinio ženklo identitetu ir produktų rinkinius, įskaitant SUP komplektus ir pilnus lauko reikmenų rinkinius.',
+            'Mažmenininkams reikia diferencijavimo. OLagoon palaiko individualias lentų formas, individualius grafinius dizainus su mažmeninės prekybos prekinio ženklo identitetu ir produktų rinkinius, įskaitant SUP komplektus ir pilnus lauko reikmenų rinkinius.',
           features: ['Individualios lentų formos', 'Individualus grafinis dizainas', 'Produktų rinkiniai'],
         },
         {
           title: 'Daugiakanalės mažmeninės prekybos palaikymas',
           description:
-            'Afarer palaiko produktus fizinei mažmeninei prekybai su patraukliu pakavimu, el. prekybos platformoms su stipriu vaizdiniu turiniu bei platintojų tinklus su stabiliais tiekimais ir vienodomis specifikacijomis.',
+            'OLagoon palaiko produktus fizinei mažmeninei prekybai su patraukliu pakavimu, el. prekybos platformoms su stipriu vaizdiniu turiniu bei platintojų tinklus su stabiliais tiekimais ir vienodomis specifikacijomis.',
           features: ['Fizinės mažmeninės prekybos parduotuvės', 'El. prekybos platformos', 'Platintojų tinklai'],
         },
         {
           title: 'Kokybės kontrolė ir pristatymo patikimumas',
           description:
-            'Afarer supranta, kad mažmenininkai parduoda pasitikėjimą. Kokybės sistemos apima gamybos inspekciją, inspekciją prieš siuntimą ir partijų vienodumo kontrolę, užtikrinančią vienodą kokybę dideliuose užsakymuose.',
+            'OLagoon supranta, kad mažmenininkai parduoda pasitikėjimą. Kokybės sistemos apima gamybos inspekciją, inspekciją prieš siuntimą ir partijų vienodumo kontrolę, užtikrinančią vienodą kokybę dideliuose užsakymuose.',
           features: ['Gamybos inspekcija', 'Inspekcija prieš siuntimą', 'Partijų vienodumo kontrolė'],
         },
       ],
@@ -3640,7 +3640,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Produktų linijos planavimas',
           detail:
-            'Afarer padėjo sukurti private label SUP kolekciją, apimančią pradedančiųjų šeimos SUP, turizmo SUP ir premium lifestyle SUP modelius, skirtus jų esamiems klientams.',
+            'OLagoon padėjo sukurti private label SUP kolekciją, apimančią pradedančiųjų šeimos SUP, turizmo SUP ir premium lifestyle SUP modelius, skirtus jų esamiems klientams.',
         },
         {
           title: 'Produkto individualizavimas',
@@ -3677,29 +3677,29 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Tiekėjų lyginamoji analizė ir produkto specifikacijų dirbtuvės',
               detail:
-                '2024 m. kovą Sarah Chen komanda nuskrido į Afarer būstinę Šendžene trijų dienų produktų dirbtuvėms. Komanda išbandė 14 skirtingų SUP konstrukcijų, įskaitant drop-stitch tankio variacijas, bortų profilius ir denio kilimėlių konfigūracijas. Afarer inžinierių komanda sukūrė 3 individualias PVC formules, atitinkančias Australijos UV spinduliavimo standartus. Rebel Sport įsipareigojo pradiniam 5,000 vnt. MOQ, paskirstytam per 6 SKU su AU$1.8M išankstine investicija, įskaitant 2 universalias lentas, 2 turizmo formas, 1 jogos platformą ir 1 jaunimo lentą.',
+                '2024 m. kovą Sarah Chen komanda nuskrido į OLagoon būstinę Šendžene trijų dienų produktų dirbtuvėms. Komanda išbandė 14 skirtingų SUP konstrukcijų, įskaitant drop-stitch tankio variacijas, bortų profilius ir denio kilimėlių konfigūracijas. OLagoon inžinierių komanda sukūrė 3 individualias PVC formules, atitinkančias Australijos UV spinduliavimo standartus. Rebel Sport įsipareigojo pradiniam 5,000 vnt. MOQ, paskirstytam per 6 SKU su AU$1.8M išankstine investicija, įskaitant 2 universalias lentas, 2 turizmo formas, 1 jogos platformą ir 1 jaunimo lentą.',
             },
             {
               title: 'Individualus prekinis ženklas, pakavimas ir atitikties inžinerija',
               detail:
-                'Afarer dizaino komanda sukūrė Rebel Sport „Coastal Force“ prekinio ženklo identitetą, įskaitant individualų denio grafinį dizainą, tik Rebel prieinamas spalvų paletes ir mažmeninei prekybai paruoštą pakavimą su lentyninėmis shelf-talker etiketėmis. Atitikties komanda gavo AS/NZS 1900-2014 sertifikatą, užtikrino atitiktį Australijos vartotojų teisės aktams ir atliko ISTA 3A transportavimo testavimą. Afarer pagamino 200 priešgamybinių vienetų, kurie 2024 m. balandį oro transportu buvo pristatyti bandymams 12 flagmano parduotuvių, kur 87% demonstracinių vienetų per 2 savaites buvo parduota už visą AU$399 mažmeninę kainą.',
+                'OLagoon dizaino komanda sukūrė Rebel Sport „Coastal Force“ prekinio ženklo identitetą, įskaitant individualų denio grafinį dizainą, tik Rebel prieinamas spalvų paletes ir mažmeninei prekybai paruoštą pakavimą su lentyninėmis shelf-talker etiketėmis. Atitikties komanda gavo AS/NZS 1900-2014 sertifikatą, užtikrino atitiktį Australijos vartotojų teisės aktams ir atliko ISTA 3A transportavimo testavimą. OLagoon pagamino 200 priešgamybinių vienetų, kurie 2024 m. balandį oro transportu buvo pristatyti bandymams 12 flagmano parduotuvių, kur 87% demonstracinių vienetų per 2 savaites buvo parduota už visą AU$399 mažmeninę kainą.',
             },
             {
               title: 'Pakopinis atsargų įvedimas ir darbuotojų mokymų programa',
               detail:
-                'Afarer suderino 3 etapų jūrų transporto pristatymo grafiką: 1 etapas (1,500 vnt. į Sidnėjaus platinimo centrą iki birželio 1 d.), 2 etapas (2,000 vnt. į Melburno ir Brisbano platinimo centrus iki liepos 1 d.), 3 etapas (1,500 vnt. į Perto ir Adelaidės platinimo centrus iki rugpjūčio 1 d.). Afarer mokymų komanda surengė 24 virtualius mokytojų rengimo mokymus Rebel skyrių vadovams, apimančius produkto savybes, lentų konstrukcijų skirtumus, priedų kryžminį pardavimą ir klausimus dėl tinkamo produkto parinkimo klientams. Kiekviena parduotuvė gavo demonstracinę lentą ir pardavimo vietoje naudojamą palyginimo vadovą.',
+                'OLagoon suderino 3 etapų jūrų transporto pristatymo grafiką: 1 etapas (1,500 vnt. į Sidnėjaus platinimo centrą iki birželio 1 d.), 2 etapas (2,000 vnt. į Melburno ir Brisbano platinimo centrus iki liepos 1 d.), 3 etapas (1,500 vnt. į Perto ir Adelaidės platinimo centrus iki rugpjūčio 1 d.). OLagoon mokymų komanda surengė 24 virtualius mokytojų rengimo mokymus Rebel skyrių vadovams, apimančius produkto savybes, lentų konstrukcijų skirtumus, priedų kryžminį pardavimą ir klausimus dėl tinkamo produkto parinkimo klientams. Kiekviena parduotuvė gavo demonstracinę lentą ir pardavimo vietoje naudojamą palyginimo vadovą.',
             },
             {
               title: 'Paleidimo kampanija, rezultatų stebėjimas ir pakartotinių užsakymų optimizavimas',
               detail:
-                '„Coastal Force“ linija paleista 2024 m. rugpjūčio 15 d. su AU$500K rinkodaros kampanija, apimančia parduotuvių ženklus, katalogų įrašus ir įtakingų asmenų partnerystes su Australijos SUP sportininkais. Afarer skirta klientų vadybos komanda teikė savaitines pardavimo ataskaitas per bendrą ataskaitų skydelį. Iki 2024 m. lapkričio pardavimo greitis visiems SKU vidutiniškai siekė 72%, o universalus 10\'6" modelis sudarė 41% pardavimų. Rebel pateikė pakartotinį 3,000 vnt. užsakymą 2025 m. pavasario sezonui, įskaitant 2 naujus turizmo modelius pagal klientų atsiliepimus.',
+                '„Coastal Force“ linija paleista 2024 m. rugpjūčio 15 d. su AU$500K rinkodaros kampanija, apimančia parduotuvių ženklus, katalogų įrašus ir įtakingų asmenų partnerystes su Australijos SUP sportininkais. OLagoon skirta klientų vadybos komanda teikė savaitines pardavimo ataskaitas per bendrą ataskaitų skydelį. Iki 2024 m. lapkričio pardavimo greitis visiems SKU vidutiniškai siekė 72%, o universalus 10\'6" modelis sudarė 41% pardavimų. Rebel pateikė pakartotinį 3,000 vnt. užsakymą 2025 m. pavasario sezonui, įskaitant 2 naujus turizmo modelius pagal klientų atsiliepimus.',
             },
           ],
           results: [
             'AU$4.8M mažmeninių pardavimų pirmais metais (14% daugiau už AU$4.2M tikslą) 87 parduotuvėse su 62% pardavimo greičiu',
             '55.3% bendroji marža, palyginti su 32% marža trečiųjų šalių prekių ženklams, suteikė AU$1.1M papildomo pelno',
             '19.2% rinkos dalis užimta Australijos iki AU$500 SUP segmente per 10 mėnesių nuo paleidimo',
-            '3.2% klientų grąžinimo rodiklis (pramonės vidurkis 8-12%) dėka Afarer kokybės kontrolės ir Australijoje sertifikuotos konstrukcijos',
+            '3.2% klientų grąžinimo rodiklis (pramonės vidurkis 8-12%) dėka OLagoon kokybės kontrolės ir Australijoje sertifikuotos konstrukcijos',
           ],
         },
         {
@@ -3714,35 +3714,35 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Koncepcijos patikrinimas ir produkto dizaino sprintas',
               detail:
-                "2024 m. rugsėjį Macy's produktų kūrimo komanda, kuriai vadovauja David Okonkwo, įtraukė Afarer į 8 savaičių greitojo dizaino sprintą. Afarer pramonės dizaineriai sukūrė 8 koncepcines lentas su išsamiomis specifikacijomis, įskaitant 3 universalias lentas (10', 11', 12') ir 1 turizmo lentą. Macy's pasirinko 4 SKU su ekskluzyviu „Boardwalk Reserve“ prekės ženklu, pakrančių įkvėptomis spalvomis (Seafoam, Sandbar, Coral, Navy) ir $349-$549 mažmeninėmis kainomis. Afarer per 14 dienų parengė individualius 3D vaizdavimus ir fizinius maketus, o Macy's patvirtino visą liniją 2024 m. spalio 15 d. su 6,000 vnt. pirkimo užsakymu, kurio didmeninė vertė siekia $1.2M.",
+                "2024 m. rugsėjį Macy's produktų kūrimo komanda, kuriai vadovauja David Okonkwo, įtraukė OLagoon į 8 savaičių greitojo dizaino sprintą. OLagoon pramonės dizaineriai sukūrė 8 koncepcines lentas su išsamiomis specifikacijomis, įskaitant 3 universalias lentas (10', 11', 12') ir 1 turizmo lentą. Macy's pasirinko 4 SKU su ekskluzyviu „Boardwalk Reserve“ prekės ženklu, pakrančių įkvėptomis spalvomis (Seafoam, Sandbar, Coral, Navy) ir $349-$549 mažmeninėmis kainomis. OLagoon per 14 dienų parengė individualius 3D vaizdavimus ir fizinius maketus, o Macy's patvirtino visą liniją 2024 m. spalio 15 d. su 6,000 vnt. pirkimo užsakymu, kurio didmeninė vertė siekia $1.2M.",
             },
             {
               title: 'Tiekimo grandinės integravimas ir atitikties paruošimas',
               detail:
-                "Afarer tiekimo grandinės komanda dirbo su Macy's atitikties skyriumi, kad būtų patenkinti visi JAV CPSC saugos standartai, ASTM F3340-18 sertifikavimas ir Kalifornijos Prop 65 reikalavimai. Pakuotė buvo suprojektuota pagal Macy's lentynoms paruoštumo reikalavimus, įskaitant EAS žymas, QR kodus su nuorodomis į vaizdo įrašų surinkimo vadovus ir kompaktiškus dėžių matmenis (36x16x12 colių), optimizuotus Macy's platinimo centro išdėstymui. Afarer 2024 m. lapkritį pagamino 500 išankstinio pardavimo vienetų ir oro transportu pristatė juos Macy's 20 parduotuvių bandymams ir internetinei fotografijai. Kiekviena bandomoji parduotuvė per šventinį sezoną vidutiniškai pardavė 14 vienetų per savaitę už $399 mažmeninę kainą.",
+                "OLagoon tiekimo grandinės komanda dirbo su Macy's atitikties skyriumi, kad būtų patenkinti visi JAV CPSC saugos standartai, ASTM F3340-18 sertifikavimas ir Kalifornijos Prop 65 reikalavimai. Pakuotė buvo suprojektuota pagal Macy's lentynoms paruoštumo reikalavimus, įskaitant EAS žymas, QR kodus su nuorodomis į vaizdo įrašų surinkimo vadovus ir kompaktiškus dėžių matmenis (36x16x12 colių), optimizuotus Macy's platinimo centro išdėstymui. OLagoon 2024 m. lapkritį pagamino 500 išankstinio pardavimo vienetų ir oro transportu pristatė juos Macy's 20 parduotuvių bandymams ir internetinei fotografijai. Kiekviena bandomoji parduotuvė per šventinį sezoną vidutiniškai pardavė 14 vienetų per savaitę už $399 mažmeninę kainą.",
             },
             {
               title: 'Daugiakanalio paleidimo vykdymas ir patirtis parduotuvėse',
               detail:
-                "Pagrindinė 5,500 vnt. jūrų siunta atvyko į Macy's platinimo centrą Robbinsville (NJ) 2025 m. vasario 1 d. Afarer pateikė 340 natūralaus dydžio demonstracinius stovus su integruota lentų laikymo sistema ir priedų skyriais. Afarer mokymų komanda sukūrė 12 minučių vaizdo modulį 8,500 Macy's sezoniniams darbuotojams, apimantį produkto žinias ir kryžminio pardavimo technikas siurbliams, irklams ir gelbėjimosi liemenėms (PFD). Kolekcija buvo paleista macys.com 2025 m. kovo 1 d. ir visose 340 parduotuvių iki kovo 15 d., su atskira „Boardwalk Reserve“ shop-in-shop patirtimi 50 didžiausios apyvartos vietovių.",
+                "Pagrindinė 5,500 vnt. jūrų siunta atvyko į Macy's platinimo centrą Robbinsville (NJ) 2025 m. vasario 1 d. OLagoon pateikė 340 natūralaus dydžio demonstracinius stovus su integruota lentų laikymo sistema ir priedų skyriais. OLagoon mokymų komanda sukūrė 12 minučių vaizdo modulį 8,500 Macy's sezoniniams darbuotojams, apimantį produkto žinias ir kryžminio pardavimo technikas siurbliams, irklams ir gelbėjimosi liemenėms (PFD). Kolekcija buvo paleista macys.com 2025 m. kovo 1 d. ir visose 340 parduotuvių iki kovo 15 d., su atskira „Boardwalk Reserve“ shop-in-shop patirtimi 50 didžiausios apyvartos vietovių.",
             },
             {
               title: 'Rezultatų analizė ir sezoninis atsargų papildymas',
               detail:
-                "Iki 2025 m. gegužės pardavimo greitis pasiekė 58%, o Seafoam 11' universalioji lenta tapo populiariausia (36% pardavimų). Interneto konversijos rodiklis siekė 4.2%, gerokai viršijant Macy's sporto prekių kategorijos 2.1% vidurkį. Afarer atsargų valdymo skydelis realiuoju laiku leido Macy's automatiškai inicijuoti papildymo užsakymus, kai parduotuvės atsargos nukrisdavo žemiau 6 vienetų. Programa pasiekė $2.1M priedų pardavimų (irkmai, siurbliai, maišai, gelbėjimosi liemenės) su 62% marža. Macy's pasinaudojo savo teise į 2025 m. šventinio sezono pakartotinį 4,000 vnt. užsakymą su 2 naujomis sniego/bangių sporto tematikos spalvomis.",
+                "Iki 2025 m. gegužės pardavimo greitis pasiekė 58%, o Seafoam 11' universalioji lenta tapo populiariausia (36% pardavimų). Interneto konversijos rodiklis siekė 4.2%, gerokai viršijant Macy's sporto prekių kategorijos 2.1% vidurkį. OLagoon atsargų valdymo skydelis realiuoju laiku leido Macy's automatiškai inicijuoti papildymo užsakymus, kai parduotuvės atsargos nukrisdavo žemiau 6 vienetų. Programa pasiekė $2.1M priedų pardavimų (irkmai, siurbliai, maišai, gelbėjimosi liemenės) su 62% marža. Macy's pasinaudojo savo teise į 2025 m. šventinio sezono pakartotinį 4,000 vnt. užsakymą su 2 naujomis sniego/bangių sporto tematikos spalvomis.",
             },
           ],
           results: [
             '$4.1M bendrosios GMV 340 parduotuvių ir macys.com kanaluose per pirmus 7 mėnesius, viršijant $3.5M tikslą 17%',
             '53% pradinis antkainis, palyginti su 38% panašių trečiųjų šalių prekių ženklų lauko produktų, prisidėjo prie $1.6M bendrojo pelno',
             '4.2% interneto konversijos rodiklis su 11.7% priedų prisegimo rodikliu, generuojant papildomus $2.1M didelės maržos papildomų pardavimų',
-            '98.4% laiku pristatymo rodiklis Afarer gamyklos ir platinimo centro tiekimo grandinėje be atsargų trūkumo pikiniu kovo-gegužės pardavimų sezonu',
+            '98.4% laiku pristatymo rodiklis OLagoon gamyklos ir platinimo centro tiekimo grandinėje be atsargų trūkumo pikiniu kovo-gegužės pardavimų sezonu',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl mažmeninės prekybos pirkėjai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl mažmeninės prekybos pirkėjai renkasi OLagoon',
       items: [
         {
           title: 'Produktų kūrimas',
@@ -3780,38 +3780,38 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kas yra private label SUP programa ir kaip ji veikia lauko reikmenų mažmenininkams?',
         answer:
-          'Private label SUP programa leidžia lauko reikmenų mažmenininkams kurti ir parduoti SUP lentas po savo prekės ženklu. Afarer valdo visą OEM/ODM procesą, įskaitant produktų kūrimą, gamybą, sertifikavimo palaikymą, pakavimo dizainą ir didmeninį tiekimą. Mažmenininkai gali paleisti individualias SUP kolekcijas neinvestuodami į gamyklos įrangą ar pripučiamų gaminių gamybos patirtį.',
+          'Private label SUP programa leidžia lauko reikmenų mažmenininkams kurti ir parduoti SUP lentas po savo prekės ženklu. OLagoon valdo visą OEM/ODM procesą, įskaitant produktų kūrimą, gamybą, sertifikavimo palaikymą, pakavimo dizainą ir didmeninį tiekimą. Mažmenininkai gali paleisti individualias SUP kolekcijas neinvestuodami į gamyklos įrangą ar pripučiamų gaminių gamybos patirtį.',
       },
       {
         question:
           'Kaip mažmenininkai gali užtikrinti, kad jų private label SUP produktai atitiktų tarptautinius saugos standartus?',
         answer:
-          'Afarer remia mažmenininkus išsamia atitikties dokumentacija, įskaitant CE ir REACH reikalavimus, medžiagų saugos duomenis, produktų testavimo ataskaitas ir kokybės inspekcijos įrašus. Taip užtikrinama, kad private label SUP produktai atitiktų teisės aktų standartus Europos, Šiaurės Amerikos ir kitose tarptautinėse rinkose.',
+          'OLagoon remia mažmenininkus išsamia atitikties dokumentacija, įskaitant CE ir REACH reikalavimus, medžiagų saugos duomenis, produktų testavimo ataskaitas ir kokybės inspekcijos įrašus. Taip užtikrinama, kad private label SUP produktai atitiktų teisės aktų standartus Europos, Šiaurės Amerikos ir kitose tarptautinėse rinkose.',
       },
       {
         question: 'Kokie minimalūs užsakymo kiekiai paprastai reikalaujami individualiai SUP gamybai?',
         answer:
-          'Afarer prisitaiko prie skirtingų apimčių. Naujų produktų paleidimas ir rinkos testavimas paprastai prasideda nuo 500-2000 vienetų. Mažmeninės prekybos plėtros užsakymai svyruoja nuo 3000 iki 10000 vienetų. Didelės pasaulinės mažmeninės prekybos programos su metiniais tiekimo susitarimais gali išaugti iki dešimčių tūkstančių vienetų keliuose modeliuose.',
+          'OLagoon prisitaiko prie skirtingų apimčių. Naujų produktų paleidimas ir rinkos testavimas paprastai prasideda nuo 500-2000 vienetų. Mažmeninės prekybos plėtros užsakymai svyruoja nuo 3000 iki 10000 vienetų. Didelės pasaulinės mažmeninės prekybos programos su metiniais tiekimo susitarimais gali išaugti iki dešimčių tūkstančių vienetų keliuose modeliuose.',
       },
       {
         question: 'Kiek laiko trunka sukurti ir paleisti private label SUP produktų liniją?',
         answer:
-          'Terminai priklauso nuo individualizavimo sudėtingumo. Afarer supaprastintas procesas nuo produkto koncepcijos iki lentynoms paruošto pristatymo paprastai trunka 8-16 savaičių, įskaitant produktų planavimą, dizaino patvirtinimą, prototipų kūrimą, sertifikavimo palaikymą, gamybą ir siuntimą. Rekomenduojamas sezoninis planavimas, kad būtų suderinta su pavasario/vasaros paklausos ciklais.',
+          'Terminai priklauso nuo individualizavimo sudėtingumo. OLagoon supaprastintas procesas nuo produkto koncepcijos iki lentynoms paruošto pristatymo paprastai trunka 8-16 savaičių, įskaitant produktų planavimą, dizaino patvirtinimą, prototipų kūrimą, sertifikavimo palaikymą, gamybą ir siuntimą. Rekomenduojamas sezoninis planavimas, kad būtų suderinta su pavasario/vasaros paklausos ciklais.',
       },
       {
         question:
           'Ar mažmenininkai gali individualizuoti SUP pakavimą, kad jis atitiktų jų prekinio ženklo identitetą?',
         answer:
-          'Taip, Afarer palaiko visišką pakavimo individualizavimą, įskaitant prekės ženklo spalvotas dėžes, produktų vaizdus, išskirtines savybes ir prekinio ženklo žinutes. Pakavimo parinktys prieinamos tiek fizinei mažmeninei prekybai lentynose, tiek el. prekybos platformoms, tokioms kaip Amazon ir Shopify, su rekomendacijomis dėl produktų fotografijos ir informacijos struktūros.',
+          'Taip, OLagoon palaiko visišką pakavimo individualizavimą, įskaitant prekės ženklo spalvotas dėžes, produktų vaizdus, išskirtines savybes ir prekinio ženklo žinutes. Pakavimo parinktys prieinamos tiek fizinei mažmeninei prekybai lentynose, tiek el. prekybos platformoms, tokioms kaip Amazon ir Shopify, su rekomendacijomis dėl produktų fotografijos ir informacijos struktūros.',
       },
       {
-        question: 'Kokį palaikymą Afarer teikia sezoninės paklausos planavimui?',
+        question: 'Kokį palaikymą OLagoon teikia sezoninės paklausos planavimui?',
         answer:
-          'Afarer padeda mažmenininkams valdyti sezoninę lauko produktų paklausą derinant gamybos grafikus, atsargų laiką, sandėliavimo planavimą ir reklamines kampanijas. Metiniai tiekimo susitarimai užtikrina nuspėjamus terminus ir garantuotą gamybos pajėgumą pikiniu sezonu.',
+          'OLagoon padeda mažmenininkams valdyti sezoninę lauko produktų paklausą derinant gamybos grafikus, atsargų laiką, sandėliavimo planavimą ir reklamines kampanijas. Metiniai tiekimo susitarimai užtikrina nuspėjamus terminus ir garantuotą gamybos pajėgumą pikiniu sezonu.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo private label SUP kolekciją su Afarer',
+      title: 'Sukurkite savo private label SUP kolekciją su OLagoon',
       subtitle: 'Jūsų klientai jau perka lauko produktus. Dabar sukurkite savo vandens sporto kategoriją.',
       primaryAction: {
         text: 'Pradėkite savo mažmeninės prekybos private label projektą jau šiandien',
@@ -3826,7 +3826,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP platintojų tiekėjas | Didmeninė OEM SUP lentų gamyba | {SITE}',
       description:
-        'Afarer bendradarbiauja su pasauliniais SUP platintojais ir importuotojais per didmeninę OEM gamybą, private label sprendimus, regioninę rinkos paramą ir patikimą tiekimo grandinės valdymą.',
+        'OLagoon bendradarbiauja su pasauliniais SUP platintojais ir importuotojais per didmeninę OEM gamybą, private label sprendimus, regioninę rinkos paramą ir patikimą tiekimo grandinės valdymą.',
     },
     hero: {
       tagline: 'Regioninis OEM ir tiekimo grandinės partneris™',
@@ -3867,31 +3867,31 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Didelės apimties OEM gamybos pajėgumai',
           description:
-            'Afarer palaiko vidutinės apimties užsakymus, konteinerių siuntas ir metinius tiekimo susitarimus trimis bendradarbiavimo etapais: rinkos testavimas (1 000-3 000 vnt.), regioninė plėtra (5 000-10 000 vnt.) ir didelio platintojo mastas (10 000-20 000+ vnt.).',
+            'OLagoon palaiko vidutinės apimties užsakymus, konteinerių siuntas ir metinius tiekimo susitarimus trimis bendradarbiavimo etapais: rinkos testavimas (1 000-3 000 vnt.), regioninė plėtra (5 000-10 000 vnt.) ir didelio platintojo mastas (10 000-20 000+ vnt.).',
           features: ['Rinkos testavimo etapas', 'Regioninės plėtros etapas', 'Didelio platintojo etapas'],
         },
         {
           title: 'Ekskliuzyvaus OEM prekės ženklo kūrimas',
           description:
-            'Afarer remia platintojus, norinčius pereiti nuo importavimo prie private label prekių ženklų kūrimo su individualiu pozicionavimu, produktų atranka, grafikos dizainu, pakavimu ir ekskliuzyviomis produktų kolekcijomis.',
+            'OLagoon remia platintojus, norinčius pereiti nuo importavimo prie private label prekių ženklų kūrimo su individualiu pozicionavimu, produktų atranka, grafikos dizainu, pakavimu ir ekskliuzyviomis produktų kolekcijomis.',
           features: ['Private label kūrimas', 'Ekskliuzyvios produktų kolekcijos', 'Konkurencinis diferencijavimas'],
         },
         {
           title: 'Regioninės rinkos apsaugos programa',
           description:
-            'Kvalifikuotiems partneriams Afarer siūlo teritorinį bendradarbiavimą pagal rinkos dydį ir įsipareigojimus, produkto diferencijavimą per ekskliuzyvią grafiką ir konfigūracijas bei prekeivių tinklo palaikymą.',
+            'Kvalifikuotiems partneriams OLagoon siūlo teritorinį bendradarbiavimą pagal rinkos dydį ir įsipareigojimus, produkto diferencijavimą per ekskliuzyvią grafiką ir konfigūracijas bei prekeivių tinklo palaikymą.',
           features: ['Teritorinis bendradarbiavimas', 'Produkto diferencijavimas', 'Prekeivių tinklo palaikymas'],
         },
         {
           title: 'Visapusiškas produktų portfelio planavimas',
           description:
-            'Afarer padeda platintojams kurti pilnas vandens sporto kategorijas, įskaitant universalias SUP lentas, turizmo SUP, vaikų SUP, žvejybos SUP, jogos SUP, aksesuarus ir vandens pramogų įrangą.',
+            'OLagoon padeda platintojams kurti pilnas vandens sporto kategorijas, įskaitant universalias SUP lentas, turizmo SUP, vaikų SUP, žvejybos SUP, jogos SUP, aksesuarus ir vandens pramogų įrangą.',
           features: ['SUP produktų kategorijos', 'Papildoma produktų plėtra', 'Aksesuarai'],
         },
         {
           title: 'Logistikos optimizavimo parama',
           description:
-            'Afarer remia konteinerio krovinio optimizavimą, siekiant maksimaliai padidinti siuntimo efektyvumą ir importo ekonomiką, produktų mišinio planavimą, derinant greitai parduodamus modelius su premium gaminiais, bei eksporto dokumentų koordinavimą.',
+            'OLagoon remia konteinerio krovinio optimizavimą, siekiant maksimaliai padidinti siuntimo efektyvumą ir importo ekonomiką, produktų mišinio planavimą, derinant greitai parduodamus modelius su premium gaminiais, bei eksporto dokumentų koordinavimą.',
           features: [
             'Konteinerio krovinio optimizavimas',
             'Produktų mišinio planavimas',
@@ -3901,19 +3901,19 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Kokybės kontrolė tarptautinėms rinkoms',
           description:
-            'Afarer kokybės valdymas apima PVC ir drop stitch medžiagų inspekciją, gamybos procesų stebėseną ir galutinę siuntos inspekciją (išvaizda, aksesuarai, pakavimas ir kiekis).',
+            'OLagoon kokybės valdymas apima PVC ir drop stitch medžiagų inspekciją, gamybos procesų stebėseną ir galutinę siuntos inspekciją (išvaizda, aksesuarai, pakavimas ir kiekis).',
           features: ['Medžiagų inspekcija', 'Gamybos stebėsena', 'Galutinė siuntos inspekcija'],
         },
         {
           title: 'Platintojų pardavimų palaikymas',
           description:
-            'Afarer remia partnerius teikdama produktų specifikacijas ir techninę informaciją, rinkodaros medžiagas, įskaitant produktų ir gyvenimo būdo vaizdus, bei produktų mokymus apie pranašumus, taikymą ir pardavimų pozicionavimą.',
+            'OLagoon remia partnerius teikdama produktų specifikacijas ir techninę informaciją, rinkodaros medžiagas, įskaitant produktų ir gyvenimo būdo vaizdus, bei produktų mokymus apie pranašumus, taikymą ir pardavimų pozicionavimą.',
           features: ['Produktų informacija', 'Rinkodaros medžiagos', 'Produktų mokymai'],
         },
         {
           title: 'Ilgalaikė tiekimo partnerystė',
           description:
-            'Afarer siekia santykių, viršijančių atskirus užsakymus — stabili gamybos bazė, nuolatinė produktų plėtra ir verslo augimo parama nuo importuotojo iki platintojo ir regioninio prekės ženklo savininko.',
+            'OLagoon siekia santykių, viršijančių atskirus užsakymus — stabili gamybos bazė, nuolatinė produktų plėtra ir verslo augimo parama nuo importuotojo iki platintojo ir regioninio prekės ženklo savininko.',
           features: ['Stabili gamybos bazė', 'Nuolatinė produktų plėtra', 'Verslo augimo parama'],
         },
       ],
@@ -3930,7 +3930,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Regioninė rinkos analizė',
           detail:
-            'Afarer padėjo nustatyti pradedančiųjų SUP paklausą, šeimų poilsio rinkos galimybes ir turizmo taikymus, būdingus Artimųjų Rytų regionui.',
+            'OLagoon padėjo nustatyti pradedančiųjų SUP paklausą, šeimų poilsio rinkos galimybes ir turizmo taikymus, būdingus Artimųjų Rytų regionui.',
         },
         {
           title: 'Produktų portfelio kūrimas',
@@ -3961,28 +3961,28 @@ const lt: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Australija',
             background:
               'PaddleHub Australia buvo mažas importuotojas, kuriam vadovavo įkūrėjas James Whitfield, buvęs profesionalaus banglenčių sporto atletas, trejus metus platinęs standartines Kinijos SUP lentas 45 vietinėms serfingo parduotuvėms su apie AU$1.8M metinių pajamų. Jo maržos mažėjo, nes konkurentai mažino kainas, o tiekėjai atsisakė suteikti išskirtinumą. James suprato, kad jam reikia unikalaus nuosavo prekės ženklo su teritorine apsauga, kad sukurtų ilgalaikę vertę. Jis turėjo AU$350K prieinamo kapitalo ir sandėlį Burleigh Heads, tačiau jam reikėjo gamybos partnerio, galinčio pagaminti OEM kokybės lentas su Australijai būdingais dizaino elementais ir regioniniu išskirtinumu Okeanijai.',
-            goal: 'Sukurti nuosavą SUP prekės ženklą su 12 unikalių modelių, per 18 mėnesių pasirašyti 200+ Australijos ir Naujosios Zelandijos prekeivių sutarčių, pasiekti AU$6M metines didmenines pajamas ir gauti išskirtines Afarer Okeanijos platinimo teises.',
+            goal: 'Sukurti nuosavą SUP prekės ženklą su 12 unikalių modelių, per 18 mėnesių pasirašyti 200+ Australijos ir Naujosios Zelandijos prekeivių sutarčių, pasiekti AU$6M metines didmenines pajamas ir gauti išskirtines OLagoon Okeanijos platinimo teises.',
           },
           steps: [
             {
               title: 'Strateginės partnerystės derybos ir išskirtinės teritorijos susitarimas',
               detail:
-                "2024 m. vasarį James savo verslo planą pristatė Afarer pasaulinių partnerysčių viceprezidentui trijų dienų susitikime Afarer gamykloje Šendžene. Afarer atliko rinkos perspektyvumo studiją, parodžiusią, kad Australijoje yra 340+ serfingo parduotuvių, 180+ vandens sporto mažmenininkų ir 60+ jūrų prekeivių, galinčių platinti SUP, tačiau tik 23% šiuo metu siūlo šią kategoriją. Afarer suteikė PaddleHub išskirtines Okeanijos platinimo teises 'WaveGlide' ir 'Expedition' platformų šeimoms, reikalaudama mažiausiai AU$2.5M metinio pirkimo. James įsipareigojo AU$800K pradiniam MOQ ir sutiko su Afarer teritorijos plėtros etapais, įskaitant išskirtinus prekeivių skaičiaus tikslus.",
+                "2024 m. vasarį James savo verslo planą pristatė OLagoon pasaulinių partnerysčių viceprezidentui trijų dienų susitikime OLagoon gamykloje Šendžene. OLagoon atliko rinkos perspektyvumo studiją, parodžiusią, kad Australijoje yra 340+ serfingo parduotuvių, 180+ vandens sporto mažmenininkų ir 60+ jūrų prekeivių, galinčių platinti SUP, tačiau tik 23% šiuo metu siūlo šią kategoriją. OLagoon suteikė PaddleHub išskirtines Okeanijos platinimo teises 'WaveGlide' ir 'Expedition' platformų šeimoms, reikalaudama mažiausiai AU$2.5M metinio pirkimo. James įsipareigojo AU$800K pradiniam MOQ ir sutiko su OLagoon teritorijos plėtros etapais, įskaitant išskirtinus prekeivių skaičiaus tikslus.",
             },
             {
               title: 'Individualios produktų platformos kūrimas ir Australijos adaptacija',
               detail:
-                'Afarer mokslinių tyrimų ir plėtros komanda šešias savaites kūrė PaddleHub 12 modelių liniją, įskaitant 5 universalias lentas, 3 turizmo lentas, 2 lenktynines lentas, 1 žvejybos lentą ir 1 jaunimo lentą. Kiekvienas modelis turėjo Australijai būdingų modifikacijų: UV stabilizuotas PVC Kvinzlendo intensyviai saulei, sutvirtinti bortai uolėtiems Didžiojo barjerinio rifo įplaukimams ir individualūs grafikos paketai su aborigenų taškinio meno įkvėptais raštais. Afarer pagamino 300 priešgamybinių vienetų visiems 12 modelių, kuriuos James išdalijo 50 beta testuotojams, įskaitant serfingo parduotuvių savininkus, SUP instruktorius ir žvejybos gidus, pateikusius išsamų grįžtamąjį ryšį, lėmusį 23 dizaino patobulinimus.',
+                'OLagoon mokslinių tyrimų ir plėtros komanda šešias savaites kūrė PaddleHub 12 modelių liniją, įskaitant 5 universalias lentas, 3 turizmo lentas, 2 lenktynines lentas, 1 žvejybos lentą ir 1 jaunimo lentą. Kiekvienas modelis turėjo Australijai būdingų modifikacijų: UV stabilizuotas PVC Kvinzlendo intensyviai saulei, sutvirtinti bortai uolėtiems Didžiojo barjerinio rifo įplaukimams ir individualūs grafikos paketai su aborigenų taškinio meno įkvėptais raštais. OLagoon pagamino 300 priešgamybinių vienetų visiems 12 modelių, kuriuos James išdalijo 50 beta testuotojams, įskaitant serfingo parduotuvių savininkus, SUP instruktorius ir žvejybos gidus, pateikusius išsamų grįžtamąjį ryšį, lėmusį 23 dizaino patobulinimus.',
             },
             {
               title: 'Prekeivių tinklo verbavimas ir kanalų plėtra',
               detail:
-                "James ir jo trijų asmenų pardavimų komanda paleido 'Dealer Pro' programą, siūlančią pakopines kainas, 0% ir 60 dienų mokėjimo sąlygas naujiems klientams, nemokamus demonstracinius stovus ir darbuotojų mokymus. Afarer suteikė bendrą CRM sistemą, produktų katalogus, palyginimo vadovus ir prekeivių paieškos svetainę. Dalyvaudamas Sydney International Boat Show ir 7 regioninėse žvejybos/lauko parodose, James per pirmus 6 mėnesius pasirašė 97 prekeivius, įskaitant tokius didelius klientus kaip Anaconda (42 parduotuvės), BCF (35 parduotuvės) ir 20 nepriklausomų serfingo parduotuvių. Afarer logistikos komanda įsteigė Sidnėjuje veikiantį konsolidacijos sandėlį su 14 dienų pristatymo garantija.",
+                "James ir jo trijų asmenų pardavimų komanda paleido 'Dealer Pro' programą, siūlančią pakopines kainas, 0% ir 60 dienų mokėjimo sąlygas naujiems klientams, nemokamus demonstracinius stovus ir darbuotojų mokymus. OLagoon suteikė bendrą CRM sistemą, produktų katalogus, palyginimo vadovus ir prekeivių paieškos svetainę. Dalyvaudamas Sydney International Boat Show ir 7 regioninėse žvejybos/lauko parodose, James per pirmus 6 mėnesius pasirašė 97 prekeivius, įskaitant tokius didelius klientus kaip Anaconda (42 parduotuvės), BCF (35 parduotuvės) ir 20 nepriklausomų serfingo parduotuvių. OLagoon logistikos komanda įsteigė Sidnėjuje veikiantį konsolidacijos sandėlį su 14 dienų pristatymo garantija.",
             },
             {
               title: 'Prekės ženklo paleidimas, rinkodaros parama ir augimo spartinimas',
               detail:
-                'PaddleHub oficialiai startavo su AU$250K kampanija, kurios prekės ženklo ambasadore tapo buvusi Australijos SUP čempionė Jessica Krieger. Afarer skyrė bendros rinkodaros lėšas, lygias 4% didmeninių pirkimų, ir sukūrė 24 produktų vaizdo įrašus, 360 laipsnių produktų fotografiją ir socialinių tinklų turinį. Iki 2025 m. rugpjūčio PaddleHub turėjo 215 aktyvių prekeivių sutarčių ir AU$5.8M paskutiniųjų 12 mėnesių didmeninių pajamų bei pateikė 3 papildomus gamybos užsakymus, kurių bendra suma AU$3.2M. James išplėtė komandą iki 12 darbuotojų, įskaitant etatinį produktų vadovą, ir PaddleHub pagal pardavimo taškų skaičių tapo antru pagal dydį SUP prekės ženklu Australijos rinkoje.',
+                'PaddleHub oficialiai startavo su AU$250K kampanija, kurios prekės ženklo ambasadore tapo buvusi Australijos SUP čempionė Jessica Krieger. OLagoon skyrė bendros rinkodaros lėšas, lygias 4% didmeninių pirkimų, ir sukūrė 24 produktų vaizdo įrašus, 360 laipsnių produktų fotografiją ir socialinių tinklų turinį. Iki 2025 m. rugpjūčio PaddleHub turėjo 215 aktyvių prekeivių sutarčių ir AU$5.8M paskutiniųjų 12 mėnesių didmeninių pajamų bei pateikė 3 papildomus gamybos užsakymus, kurių bendra suma AU$3.2M. James išplėtė komandą iki 12 darbuotojų, įskaitant etatinį produktų vadovą, ir PaddleHub pagal pardavimo taškų skaičių tapo antru pagal dydį SUP prekės ženklu Australijos rinkoje.',
             },
           ],
           results: [
@@ -3998,41 +3998,41 @@ const lt: Record<string, SolutionOverride> = {
             location: 'Dubajus, JAE',
             background:
               'Dune Sports DMCC, kuriai vadovauja JAE verslininkas Rashid Al Maktoum, buvo Dubajaus vandens sporto platintojas su $2.3M metinių pajamų, tiekiantis vandens motociklus ir baidares jūrų prekeiviams visame GCC regione. Rashid SUP atpažino kaip neišnaudotą galimybę Artimuosiuose Rytuose, kur klestėjo paplūdimių turizmas, prabangūs kurortai ir vandens sportas. Regione nebuvo dominuojančio SUP prekės ženklo, o dauguma produktų buvo žemos kokybės importas, parduodamas Amazon be aptarnavimo ir garantijos. Rashid norėjo tapti išskirtiniu regioniniu OEM partneriu premium SUP prekės ženklui, galinčiam dominuoti Artimųjų Rytų rinkoje su $1.2M pradine investicija.',
-            goal: 'Gauti išskirtines Afarer Artimųjų Rytų ir Šiaurės Afrikos platinimo teises, paleisti premium regioninį prekės ženklą 8 šalyse, pasiekti $5M didmeninių pajamų per 24 mėnesius ir užimti 60%+ rinkos dalį GCC premium SUP segmente.',
+            goal: 'Gauti išskirtines OLagoon Artimųjų Rytų ir Šiaurės Afrikos platinimo teises, paleisti premium regioninį prekės ženklą 8 šalyse, pasiekti $5M didmeninių pajamų per 24 mėnesius ir užimti 60%+ rinkos dalį GCC premium SUP segmente.',
           },
           steps: [
             {
               title: 'Regioninė rinkos analizė ir išskirtinumo susitarimas',
               detail:
-                'Rashid užsakė 6 savaičių rinkos studiją JAE, Saudo Arabijoje, Katare, Kuveite, Omane, Bahreine, Egipte ir Jordanijoje. Studija nustatė 280+ potencialių prekeivių, įskaitant jūrų prekybos mažmenininkus, viešbučių įsigijimų skyrius ir specializuotas sporto parduotuves, o visos potencialios rinkos apimtis — $18M per metus. 2024 m. balandį Rashid pasirašė 5 metų išskirtinį OEM susitarimą su Afarer, apimantį 15 MENA šalių, įsipareigodamas $3M minimalaus metinio pirkimo, kasmet didėjančio 15%. Afarer sutiko bendrai investuoti $150K į arabų kalbos rinkodaros medžiagas, dalyvavimą regioninėse prekybos parodose ir Dubajuje esantį atsarginių dalių sandėlį.',
+                'Rashid užsakė 6 savaičių rinkos studiją JAE, Saudo Arabijoje, Katare, Kuveite, Omane, Bahreine, Egipte ir Jordanijoje. Studija nustatė 280+ potencialių prekeivių, įskaitant jūrų prekybos mažmenininkus, viešbučių įsigijimų skyrius ir specializuotas sporto parduotuves, o visos potencialios rinkos apimtis — $18M per metus. 2024 m. balandį Rashid pasirašė 5 metų išskirtinį OEM susitarimą su OLagoon, apimantį 15 MENA šalių, įsipareigodamas $3M minimalaus metinio pirkimo, kasmet didėjančio 15%. OLagoon sutiko bendrai investuoti $150K į arabų kalbos rinkodaros medžiagas, dalyvavimą regioninėse prekybos parodose ir Dubajuje esantį atsarginių dalių sandėlį.',
             },
             {
               title: 'Produktų linijos strategija ir dykumai pritaikytas inžinerinis projektavimas',
               detail:
-                "Afarer inžinieriai sukūrė Dune Sports prekės ženklą 'Oryx' su 8 modeliais, optimizuotais Artimųjų Rytų sąlygomis: aukštai temperatūrai atsparus PVC (išbandytas iki 75°C paviršiaus temperatūros), UV atsparūs pigmentai, neblunkantys Arabijos saulėje, ir smėliui atsparios pelekų sistemos su greito atskyrimo mechanizmais. Afarer pagamino 500 vienetų prieš paleidimą, įskaitant specialųjį leidimą 'Royal Edition' su auksiniais akcentais ir odinėmis rankenomis prabangos kurortų segmentui. Rashid komanda bandė lentas Arabijos įlankoje, Raudonojoje jūroje ir vidaus bangų baseinuose, pasiekdama vidutinį 4,7/5 kokybės įvertinimą iš 200 testuotojų.",
+                "OLagoon inžinieriai sukūrė Dune Sports prekės ženklą 'Oryx' su 8 modeliais, optimizuotais Artimųjų Rytų sąlygomis: aukštai temperatūrai atsparus PVC (išbandytas iki 75°C paviršiaus temperatūros), UV atsparūs pigmentai, neblunkantys Arabijos saulėje, ir smėliui atsparios pelekų sistemos su greito atskyrimo mechanizmais. OLagoon pagamino 500 vienetų prieš paleidimą, įskaitant specialųjį leidimą 'Royal Edition' su auksiniais akcentais ir odinėmis rankenomis prabangos kurortų segmentui. Rashid komanda bandė lentas Arabijos įlankoje, Raudonojoje jūroje ir vidaus bangų baseinuose, pasiekdama vidutinį 4,7/5 kokybės įvertinimą iš 200 testuotojų.",
             },
             {
               title: 'Kanalų plėtra ir viešbučių/kurortų partnerystės',
               detail:
-                "Rashid subūrė 5 asmenų regioninę pardavimų komandą, įsikūrusią Dubajuje, Riade ir Kaire. Afarer kanalų plėtros komanda suteikė prekeivių verbavimo scenarijus, pristatymo medžiagą ir trijų pakopų prekeivių programą (Platinum, Gold, Silver). Dune Sports sudarė išskirtinius platinimo susitarimus su 65 jūrų prekeiviais ir tiesiogines įsigijimo sutartis su 22 prabangos viešbučių grandinėmis, įskaitant Jumeirah, Four Seasons ir St. Regis. Prekės ženklas 'Oryx' buvo nurodytas kaip standartinė įranga naujiems Rixos ir Anantara kurortų projektams Ras Al Khaimah, Red Sea Project ir Maldyvuose.",
+                "Rashid subūrė 5 asmenų regioninę pardavimų komandą, įsikūrusią Dubajuje, Riade ir Kaire. OLagoon kanalų plėtros komanda suteikė prekeivių verbavimo scenarijus, pristatymo medžiagą ir trijų pakopų prekeivių programą (Platinum, Gold, Silver). Dune Sports sudarė išskirtinius platinimo susitarimus su 65 jūrų prekeiviais ir tiesiogines įsigijimo sutartis su 22 prabangos viešbučių grandinėmis, įskaitant Jumeirah, Four Seasons ir St. Regis. Prekės ženklas 'Oryx' buvo nurodytas kaip standartinė įranga naujiems Rixos ir Anantara kurortų projektams Ras Al Khaimah, Red Sea Project ir Maldyvuose.",
             },
             {
               title: 'Regioninis paleidimas, Ramadano kampanija ir rinkos dominavimas',
               detail:
-                "Prekės ženklas 'Oryx' 2024 m. spalį buvo paleistas visose 8 rinkose su vienalaikiais renginiais Dubai Marina Mall, Saudo Arabijos Red Sea Mall ir Kataro Doha Festival City. Afarer parėmė $200K rinkodaros kampanija, įskaitant arabų kalbos TV reklamas, įtakingųjų partnerystes su 15 Artimųjų Rytų lauko nuotykių entuziastų ir Dubai SUP Festival rėmimą. Iki 2025 m. kovo Dune Sports pardavė 8 400 vienetų, pasiekė $4.7M didmeninių pajamų ir užėmė 58% GCC premium SUP rinkos. Rashid pasinaudojo pirmuoju pasirinkimo metų atnaujinimu su Afarer už $4.5M metinių pirkimų.",
+                "Prekės ženklas 'Oryx' 2024 m. spalį buvo paleistas visose 8 rinkose su vienalaikiais renginiais Dubai Marina Mall, Saudo Arabijos Red Sea Mall ir Kataro Doha Festival City. OLagoon parėmė $200K rinkodaros kampanija, įskaitant arabų kalbos TV reklamas, įtakingųjų partnerystes su 15 Artimųjų Rytų lauko nuotykių entuziastų ir Dubai SUP Festival rėmimą. Iki 2025 m. kovo Dune Sports pardavė 8 400 vienetų, pasiekė $4.7M didmeninių pajamų ir užėmė 58% GCC premium SUP rinkos. Rashid pasinaudojo pirmuoju pasirinkimo metų atnaujinimu su OLagoon už $4.5M metinių pirkimų.",
             },
           ],
           results: [
             '$4.7M didmeninių pajamų per pirmus 12 mėnesių 8 šalyse, pasiekus 94% 24 mėnesių tikslo perpus trumpesniu laiku',
             'Užimta 58% rinkos dalis GCC premium SUP segmente ($349-$799 mažmeninė kaina), dominuojant prieš susiskaldžiusius konkurentų prekės ženklus',
             'Sudarytos 22 išskirtinės viešbučių/kurortų įsigijimo sutartys, atitinkančios 3 100 vienetų, parduotų svetingumo sektoriui, su 72% pakartotinių užsakymų dažniu',
-            'Dune Sports įmonės vertė per 14 mėnesių išaugo nuo $2.3M iki $12M, Rashid plečiantis į gretimas vandens sporto kategorijas per Afarer OEM platformą',
+            'Dune Sports įmonės vertė per 14 mėnesių išaugo nuo $2.3M iki $12M, Rashid plečiantis į gretimas vandens sporto kategorijas per OLagoon OEM platformą',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl pasauliniai platintojai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl pasauliniai platintojai renkasi OLagoon',
       items: [
         {
           title: 'Gamybos mastas',
@@ -4068,38 +4068,38 @@ const lt: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Kuo Afarer skiriasi nuo kitų SUP OEM gamintojų platintojams?',
+        question: 'Kuo OLagoon skiriasi nuo kitų SUP OEM gamintojų platintojams?',
         answer:
-          'Afarer teikia išsamų partnerystės modelį, viršijantį vien gamybą, įskaitant regioninės rinkos apsaugos programas, išskirtinio prekės ženklo kūrimo paramą, logistikos optimizavimą ir platintojų pardavimų mokymus. Mes telkiamės į ilgalaikius santykius, padedančius partneriams augti nuo importuotojų iki regioninių prekės ženklų savininkų.',
+          'OLagoon teikia išsamų partnerystės modelį, viršijantį vien gamybą, įskaitant regioninės rinkos apsaugos programas, išskirtinio prekės ženklo kūrimo paramą, logistikos optimizavimą ir platintojų pardavimų mokymus. Mes telkiamės į ilgalaikius santykius, padedančius partneriams augti nuo importuotojų iki regioninių prekės ženklų savininkų.',
       },
       {
         question: 'Kaip veikia regioninės rinkos apsaugos programa išskirtiniams platintojams?',
         answer:
-          'Kvalifikuotiems partneriams Afarer siūlo teritorinius bendradarbiavimo susitarimus, produkto diferencijavimą per ekskliuzyvią grafiką ir konfigūracijas bei prekeivių tinklo palaikymą. Taip platintojai gali pasitikėdami investuoti į rinkos plėtrą, žinodami, kad jų regioninė padėtis apsaugota.',
+          'Kvalifikuotiems partneriams OLagoon siūlo teritorinius bendradarbiavimo susitarimus, produkto diferencijavimą per ekskliuzyvią grafiką ir konfigūracijas bei prekeivių tinklo palaikymą. Taip platintojai gali pasitikėdami investuoti į rinkos plėtrą, žinodami, kad jų regioninė padėtis apsaugota.',
       },
       {
         question: 'Kokie yra įprasti užsakymų kiekiai konteinerių lygio SUP siuntoms?',
         answer:
-          'Afarer palaiko tris bendradarbiavimo etapus: rinkos testavimas (1 000-3 000 vnt.), regioninė plėtra (5 000-10 000 vnt.) ir didelio platintojo mastas (10 000-20 000+ vnt.). Konteinerio krovinio optimizavimas padeda maksimaliai padidinti siuntimo efektyvumą ir sumažinti importo sąnaudas vienetui.',
+          'OLagoon palaiko tris bendradarbiavimo etapus: rinkos testavimas (1 000-3 000 vnt.), regioninė plėtra (5 000-10 000 vnt.) ir didelio platintojo mastas (10 000-20 000+ vnt.). Konteinerio krovinio optimizavimas padeda maksimaliai padidinti siuntimo efektyvumą ir sumažinti importo sąnaudas vienetui.',
       },
       {
-        question: 'Ar platintojai gali kurti savo private label SUP prekės ženklus su Afarer?',
+        question: 'Ar platintojai gali kurti savo private label SUP prekės ženklus su OLagoon?',
         answer:
-          'Taip, Afarer remia visapusišką private label kūrimą, įskaitant prekės ženklo pozicionavimą, produktų atranką, individualų grafikos dizainą, pakavimo tinkinimą ir ekskliuzyvias produktų kolekcijas. Tai leidžia platintojams kurti regioninius prekės ženklus, o ne konkuruoti vien kaina.',
+          'Taip, OLagoon remia visapusišką private label kūrimą, įskaitant prekės ženklo pozicionavimą, produktų atranką, individualų grafikos dizainą, pakavimo tinkinimą ir ekskliuzyvias produktų kolekcijas. Tai leidžia platintojams kurti regioninius prekės ženklus, o ne konkuruoti vien kaina.',
       },
       {
-        question: 'Kaip Afarer padeda su logistikos optimizavimu ir importo sąnaudų mažinimu?',
+        question: 'Kaip OLagoon padeda su logistikos optimizavimu ir importo sąnaudų mažinimu?',
         answer:
-          'Afarer teikia konteinerio krovinio optimizavimą, siekiant maksimaliai padidinti siuntimo efektyvumą, produktų mišinio planavimą, derinantį greitai parduodamus modelius su premium gaminiais, ir išsamų eksporto dokumentų palaikymą, supaprastinantį muito formalumus ir mažinantį vėlavimus.',
+          'OLagoon teikia konteinerio krovinio optimizavimą, siekiant maksimaliai padidinti siuntimo efektyvumą, produktų mišinio planavimą, derinantį greitai parduodamus modelius su premium gaminiais, ir išsamų eksporto dokumentų palaikymą, supaprastinantį muito formalumus ir mažinantį vėlavimus.',
       },
       {
         question: 'Kokios kokybės kontrolės procesai taikomi tarptautinėms siuntoms?',
         answer:
-          'Afarer įgyvendina trijų pakopų kokybės valdymą: PVC ir drop stitch komponentų medžiagų inspekciją, gamybos eigos stebėseną ir galinę inspekciją prieš siuntimą, apimančią išvaizdą, aksesuarus, pakavimą ir kiekio tikslumą.',
+          'OLagoon įgyvendina trijų pakopų kokybės valdymą: PVC ir drop stitch komponentų medžiagų inspekciją, gamybos eigos stebėseną ir galinę inspekciją prieš siuntimą, apimančią išvaizdą, aksesuarus, pakavimą ir kiekio tikslumą.',
       },
     ],
     cta: {
-      title: 'Tapkite Afarer regioniniu partneriu',
+      title: 'Tapkite OLagoon regioniniu partneriu',
       subtitle: 'Jūsų rinka nusipelno patikimo vandens sporto tiekimo partnerio.',
       primaryAction: {
         text: 'Pradėkite savo regioninę OEM partnerystę jau šiandien',
@@ -4115,7 +4115,7 @@ const lt: Record<string, SolutionOverride> = {
       title:
         'Individualizuotos prekės ženklo SUP lentos korporatyviniams renginiams | OEM renginių sprendimai | {SITE}',
       description:
-        'Afarer kuria individualizuotas prekės ženklo SUP lentas korporatyviniams renginiams, komandų formavimo veikloms ir rinkodaros kampanijoms. Visapusė logotipo personalizacija, korporatyvinių spalvų derinimas, spartus prototipų kūrimas ir serijinė OEM gamyba.',
+        'OLagoon kuria individualizuotas prekės ženklo SUP lentas korporatyviniams renginiams, komandų formavimo veikloms ir rinkodaros kampanijoms. Visapusė logotipo personalizacija, korporatyvinių spalvų derinimas, spartus prototipų kūrimas ir serijinė OEM gamyba.',
     },
     hero: {
       tagline: 'Korporatyvinis SUP renginių paketas™',
@@ -4157,7 +4157,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Visapusė korporatyvinio prekės ženklo personalizacija',
           description:
-            'Afarer palaiko didelio ploto logotipų spausdinimą, lentos paviršiaus ženklinimą, irklų personalizavimą ir priedų ženklinimą su korporatyvinių spalvų derinimu pagal Pantone atskaitas ir vizualinės tapatybės reikalavimus.',
+            'OLagoon palaiko didelio ploto logotipų spausdinimą, lentos paviršiaus ženklinimą, irklų personalizavimą ir priedų ženklinimą su korporatyvinių spalvų derinimu pagal Pantone atskaitas ir vizualinės tapatybės reikalavimus.',
           features: [
             'Korporatyvinio logotipo pritaikymas',
             'Korporatyvinių spalvų derinimas',
@@ -4167,19 +4167,19 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Renginiams skirtų SUP produktų kūrimas',
           description:
-            'Skirtingi renginiai reikalauja skirtingų sprendimų. Afarer siūlo komandų formavimo paketus didelėms darbuotojų grupėms, prekės ženklo aktyvavimo paketus rinkodaros kampanijoms ir VIP patirčių paketus prabangiems klientų renginiams.',
+            'Skirtingi renginiai reikalauja skirtingų sprendimų. OLagoon siūlo komandų formavimo paketus didelėms darbuotojų grupėms, prekės ženklo aktyvavimo paketus rinkodaros kampanijoms ir VIP patirčių paketus prabangiems klientų renginiams.',
           features: ['Komandų formavimo paketas', 'Prekės ženklo aktyvavimo paketas', 'VIP patirčių paketas'],
         },
         {
           title: 'Spartus prototipų ir patvirtinimo procesas',
           description:
-            'Afarer užtikrina spartų dizaino patvirtinimą su maketų peržiūra ir grafikos koregavimu, prototipų kūrimą spalvoms ir logotipo išdėstymui patvirtinti bei gamybos planavimą, suderintą su renginių terminais.',
+            'OLagoon užtikrina spartų dizaino patvirtinimą su maketų peržiūra ir grafikos koregavimu, prototipų kūrimą spalvoms ir logotipo išdėstymui patvirtinti bei gamybos planavimą, suderintą su renginių terminais.',
           features: ['Spartus dizaino patvirtinimas', 'Prototipų kūrimas', 'Gamybos planavimas'],
         },
         {
           title: 'Serijinės individualios gamybos galimybės',
           description:
-            'Afarer vykdo korporatyvinius užsakymus — nuo mažų renginių su 50-100 vnt. vidinėms veikloms ir vidutinių rinkodaros projektų su 100-500 vnt. prekės ženklo aktyvavimui iki didelių korporatyvinių kampanijų su 500-1000+ vnt. nacionaliniams renginiams.',
+            'OLagoon vykdo korporatyvinius užsakymus — nuo mažų renginių su 50-100 vnt. vidinėms veikloms ir vidutinių rinkodaros projektų su 100-500 vnt. prekės ženklo aktyvavimui iki didelių korporatyvinių kampanijų su 500-1000+ vnt. nacionaliniams renginiams.',
           features: [
             'Maži korporatyviniai renginiai (50-100 vnt.)',
             'Vidutiniai rinkodaros projektai (100-500 vnt.)',
@@ -4189,7 +4189,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Išsamūs renginių įrangos paketai',
           description:
-            'Afarer teikia išsamius renginių sprendimus, įskaitant individualias SUP lentas, reguliuojamus irklus, siurblius, saugos virves, nešiojimo maišus, remonto rinkinius, o pasirinktinai — prekės ženklo irklus, renginių aksesuarus ir demonstracijos medžiagas.',
+            'OLagoon teikia išsamius renginių sprendimus, įskaitant individualias SUP lentas, reguliuojamus irklus, siurblius, saugos virves, nešiojimo maišus, remonto rinkinius, o pasirinktinai — prekės ženklo irklus, renginių aksesuarus ir demonstracijos medžiagas.',
           features: ['Standartinis paketas apima', 'Pasirinktinė personalizacija', 'Personalui skirta įranga'],
         },
         {
@@ -4205,13 +4205,13 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Kokybės kontrolė prekės ženklo projektams',
           description:
-            'Afarer atlieka gamybos kokybės inspekciją medžiagoms ir spausdinimui, ženklinimo tikslumo kontrolę logotipo padėčiai ir spalvų vientisumui bei pristatymo inspekciją kiekiui, pakavimui ir priedams.',
+            'OLagoon atlieka gamybos kokybės inspekciją medžiagoms ir spausdinimui, ženklinimo tikslumo kontrolę logotipo padėčiai ir spalvų vientisumui bei pristatymo inspekciją kiekiui, pakavimui ir priedams.',
           features: ['Gamybos kokybės inspekcija', 'Ženklinimo tikslumo kontrolė', 'Pristatymo inspekcija'],
         },
         {
           title: 'Pasaulinio renginių pristatymo palaikymas',
           description:
-            'Tarptautinėms įmonėms Afarer vykdo kelių šalių projektus, regioninius renginius ir pasaulines kampanijas su koordinuota gamyba, pakavimu ir siuntimo paruošimu visose vietose.',
+            'Tarptautinėms įmonėms OLagoon vykdo kelių šalių projektus, regioninius renginius ir pasaulines kampanijas su koordinuota gamyba, pakavimu ir siuntimo paruošimu visose vietose.',
           features: ['Projektai keliose šalyse', 'Regioniniai renginiai', 'Pasaulinės kampanijos'],
         },
       ],
@@ -4228,7 +4228,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Prekės ženklo dizaino integracija',
           detail:
-            'Afarer sukūrė individualią lentų grafiką su tiksliai suderintomis prekės ženklo spalvomis ir dideliu logotipo išdėstymu, siekiant maksimalaus vizualinio poveikio vandenyje.',
+            'OLagoon sukūrė individualią lentų grafiką su tiksliai suderintomis prekės ženklo spalvomis ir dideliu logotipo išdėstymu, siekiant maksimalaus vizualinio poveikio vandenyje.',
         },
         {
           title: 'Prototipo patvirtinimas',
@@ -4265,17 +4265,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Programos koncepcija ir individualių produktų inžinerija',
               detail:
-                "2024 m. lapkritį Klaus komanda susitiko su Afarer korporatyvinių renginių skyriumi boot Düsseldorf laivybos parodoje, kad peržiūrėtų koncepciją. Afarer pasiūlė individualią 11'6'' turistinę lentą BMW i serijos spalvomis (Blue Ridge Mountain Metallic, Frozen Pure Grey) su austais anglies pluošto akcentais, atitinkančiais i7 salono apdailą. Afarer inžinieriai sukūrė 3 prototipines lentas su integruotais GoPro laikikliais veiksmo fotografijai, neslidžiais denio kilimėliais su BMW M įkvėpta siūle ir individualiais vožtuvų dangteliais su BMW apvaliąja emblema. BMW patvirtino 120 vnt. po €895 už lentą su tam skirta saugojimo ir transportavimo sistema, naudojančia individualius ratuotus vežimėlius.",
+                "2024 m. lapkritį Klaus komanda susitiko su OLagoon korporatyvinių renginių skyriumi boot Düsseldorf laivybos parodoje, kad peržiūrėtų koncepciją. OLagoon pasiūlė individualią 11'6'' turistinę lentą BMW i serijos spalvomis (Blue Ridge Mountain Metallic, Frozen Pure Grey) su austais anglies pluošto akcentais, atitinkančiais i7 salono apdailą. OLagoon inžinieriai sukūrė 3 prototipines lentas su integruotais GoPro laikikliais veiksmo fotografijai, neslidžiais denio kilimėliais su BMW M įkvėpta siūle ir individualiais vožtuvų dangteliais su BMW apvaliąja emblema. BMW patvirtino 120 vnt. po €895 už lentą su tam skirta saugojimo ir transportavimo sistema, naudojančia individualius ratuotus vežimėlius.",
             },
             {
               title: 'Prekės ženklo integracija ir renginių logistikos planavimas',
               detail:
-                'Afarer grafikos komanda sukūrė pilno apvalkalo UV atsparius dekorus su BMW i ženklinimu, QR kodais, nukreipiančiais į BMW i konfigūratorių, ir saugos instrukcijų grafika 8 kalbomis. Logistikos komanda sukūrė rotacijos sistemą, gabenančią 40 lentų į kiekvieną iš 3 regionų (Pietų Europa, Centrinė Europa, Šiaurės/Baltijos), su mobiliomis siurblių stotimis, akumuliatoriniais pripūtimo siurbliais ir vandeniui atspariomis persirengimo vietomis. BMW renginių komanda pasirinko 18 vietų, įskaitant Lake Como (Italy), St. Tropez (France), Lake Lucerne (Switzerland), Lake Garda (Italy) ir salyną netoli Stockholm (Sweden), kiekvienoje priimant po 300-600 svečių per 2-3 dienų programas.',
+                'OLagoon grafikos komanda sukūrė pilno apvalkalo UV atsparius dekorus su BMW i ženklinimu, QR kodais, nukreipiančiais į BMW i konfigūratorių, ir saugos instrukcijų grafika 8 kalbomis. Logistikos komanda sukūrė rotacijos sistemą, gabenančią 40 lentų į kiekvieną iš 3 regionų (Pietų Europa, Centrinė Europa, Šiaurės/Baltijos), su mobiliomis siurblių stotimis, akumuliatoriniais pripūtimo siurbliais ir vandeniui atspariomis persirengimo vietomis. BMW renginių komanda pasirinko 18 vietų, įskaitant Lake Como (Italy), St. Tropez (France), Lake Lucerne (Switzerland), Lake Garda (Italy) ir salyną netoli Stockholm (Sweden), kiekvienoje priimant po 300-600 svečių per 2-3 dienų programas.',
             },
             {
               title: 'Aktyvavimas vietoje ir svečių patirties dizainas',
               detail:
-                "Kiekvienas renginys apėmė 'BMW i Paddle Experience' su 40 lentų, prieinamų 90 minučių vadovaujamose sesijose, kurias vedė Afarer parengti instruktoriai. Svečiai gavo personalizuotus BMW i prekės ženklo rash guard marškinėlius ir vandeniui atsparius telefonų dėklus. Profesionalūs fotografai užfiksavo kiekvieną svečią irkluojantį naudojant lentų integruotus kameros laikiklius; nuotraukos buvo suredaguotos ir pristatytos per 2 valandas per prekės ženklo mikrosvetainę. Aktyvavimas buvo derinamas su BMW i7 bandomaisiais važiavimais vaizdingais pakrančių keliais, sukuriant sausumos ir vandens prekės ženklo panirimą. Per pirmus 10 renginių svečių pasitenkinimas siekė 4.8/5, o BMW pranešė, kad 23% dalyvių paprašė pakartotino bandomojo važiavimo pas pardavėją.",
+                "Kiekvienas renginys apėmė 'BMW i Paddle Experience' su 40 lentų, prieinamų 90 minučių vadovaujamose sesijose, kurias vedė OLagoon parengti instruktoriai. Svečiai gavo personalizuotus BMW i prekės ženklo rash guard marškinėlius ir vandeniui atsparius telefonų dėklus. Profesionalūs fotografai užfiksavo kiekvieną svečią irkluojantį naudojant lentų integruotus kameros laikiklius; nuotraukos buvo suredaguotos ir pristatytos per 2 valandas per prekės ženklo mikrosvetainę. Aktyvavimas buvo derinamas su BMW i7 bandomaisiais važiavimais vaizdingais pakrančių keliais, sukuriant sausumos ir vandens prekės ženklo panirimą. Per pirmus 10 renginių svečių pasitenkinimas siekė 4.8/5, o BMW pranešė, kad 23% dalyvių paprašė pakartotino bandomojo važiavimo pas pardavėją.",
             },
             {
               title: 'Rezultatų peržiūra ir programos plėtra',
@@ -4302,17 +4302,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Programos dizainas ir kelių vietų logistikos planavimas',
               detail:
-                "Dr. Sharma komanda 2025 m. vasarį įsitraukė į Afarer individualiai korporatyvinei programai. Afarer pasiūlė 'Paddle into Production' temą, kurioje 8-10 inžinierių komandos įveiktų SUP trasas, vaizduojančias Google Cloud diegimo konvejerio etapus. Afarer individualizavo 80 lentų su Google Cloud ženklinimu, komandų spalvų kodavimu ir vandeniui atspariomis technologinėmis platformomis mobiliesiems įrenginiams laikyti. Logistikos planas apėmė 6 vietas: Sunnyvale HQ, Seattle, New York, Austin, Chicago ir Boulder, su renginiais kas 2 savaites nuo birželio iki rugpjūčio 2025 m. Afarer įsipareigojo €320K už 80 lentų, 24 instruktorius, visą logistiką ir prekės ženklo įrangą 1,200 dalyvių.",
+                "Dr. Sharma komanda 2025 m. vasarį įsitraukė į OLagoon individualiai korporatyvinei programai. OLagoon pasiūlė 'Paddle into Production' temą, kurioje 8-10 inžinierių komandos įveiktų SUP trasas, vaizduojančias Google Cloud diegimo konvejerio etapus. OLagoon individualizavo 80 lentų su Google Cloud ženklinimu, komandų spalvų kodavimu ir vandeniui atspariomis technologinėmis platformomis mobiliesiems įrenginiams laikyti. Logistikos planas apėmė 6 vietas: Sunnyvale HQ, Seattle, New York, Austin, Chicago ir Boulder, su renginiais kas 2 savaites nuo birželio iki rugpjūčio 2025 m. OLagoon įsipareigojo €320K už 80 lentų, 24 instruktorius, visą logistiką ir prekės ženklo įrangą 1,200 dalyvių.",
             },
             {
               title: 'Įtraukiančios veiklos kūrimas ir saugos sistema',
               detail:
-                "Afarer programų komanda sukūrė 3 įgūdžių trasas: 'Beginner Buoy' (pagrindinis irklavimas ir stabilumo žaidimai), 'Production Racer' (komandų estafetės) ir 'Cloud Cluster' (grupės formavimo iššūkiai, reikalaujantys koordinavimo). Kiekviena trasa apėmė Google Cloud tematikos iššūkius, tokius kaip 'deploy a container' (išlaikykite kamuolį ant lentos irkluodami) ir 'scale to zero' (visi turi vienu metu atsisėsti). Afarer pasamdė 24 sertifikuotus SUP instruktorius visose vietose ir sukūrė išsamų saugos protokolą, įskaitant privalomas gelbėjimosi liemones, porinę (buddy) sistemą, plaukimo testus ir stebėtojus vandenyje su gelbėjimo lentomis.",
+                "OLagoon programų komanda sukūrė 3 įgūdžių trasas: 'Beginner Buoy' (pagrindinis irklavimas ir stabilumo žaidimai), 'Production Racer' (komandų estafetės) ir 'Cloud Cluster' (grupės formavimo iššūkiai, reikalaujantys koordinavimo). Kiekviena trasa apėmė Google Cloud tematikos iššūkius, tokius kaip 'deploy a container' (išlaikykite kamuolį ant lentos irkluodami) ir 'scale to zero' (visi turi vienu metu atsisėsti). OLagoon pasamdė 24 sertifikuotus SUP instruktorius visose vietose ir sukūrė išsamų saugos protokolą, įskaitant privalomas gelbėjimosi liemones, porinę (buddy) sistemą, plaukimo testus ir stebėtojus vandenyje su gelbėjimo lentomis.",
             },
             {
               title: 'Įvadinis apmokymas, prekės ženklo suvenyrai ir renginio vykdymas',
               detail:
-                "Kiekvienas dalyvis gavo prekės ženklo sutikimo rinkinį, įskaitant Google Cloud x Afarer rash guard marškinėlius, SPF lūpų balzamą, sausmaišį ir renginio brošiūrą. 2 valandų sesijos apėmė 30 minučių instruktavimo sausumoje, 75 minutes veiklos vandenyje ir 15 minučių atvėsimo su komandos nuotrauka, fiksuojama dronu. Afarer renginių komanda pasirūpino visu įrengimu, išmontavimu ir valymu kiekvienoje vietoje — Google darbuotojams tereikėjo atvykti. Pirmasis renginys Shoreline Lake vietoje, Mountain View, 2025 m. birželio 12 d. pasiekė 97% dalyvavimą, komandoms varžant dėl 'Highest Availability' apdovanojimo pagal koordinavimą ir greitį.",
+                "Kiekvienas dalyvis gavo prekės ženklo sutikimo rinkinį, įskaitant Google Cloud x OLagoon rash guard marškinėlius, SPF lūpų balzamą, sausmaišį ir renginio brošiūrą. 2 valandų sesijos apėmė 30 minučių instruktavimo sausumoje, 75 minutes veiklos vandenyje ir 15 minučių atvėsimo su komandos nuotrauka, fiksuojama dronu. OLagoon renginių komanda pasirūpino visu įrengimu, išmontavimu ir valymu kiekvienoje vietoje — Google darbuotojams tereikėjo atvykti. Pirmasis renginys Shoreline Lake vietoje, Mountain View, 2025 m. birželio 12 d. pasiekė 97% dalyvavimą, komandoms varžant dėl 'Highest Availability' apdovanojimo pagal koordinavimą ir greitį.",
             },
             {
               title: 'Rezultatų analizė ir antrojo metų plėtra',
@@ -4329,8 +4329,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl įmonės renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl įmonės renkasi OLagoon',
       items: [
         {
           title: 'Prekės ženklo pristatymas',
@@ -4340,7 +4340,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Spartus projekto vykdymas',
           description:
-            'Terminai yra svarbūs. Afarer supaprastintas procesas nuo koncepcijos iki pristatymo vyksta griežtais renginių grafikais.',
+            'Terminai yra svarbūs. OLagoon supaprastintas procesas nuo koncepcijos iki pristatymo vyksta griežtais renginių grafikais.',
         },
         {
           title: 'Individuali gamyba',
@@ -4350,7 +4350,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Patikimas pristatymas',
           description:
-            'Renginiai negali laukti. Afarer garantuoja gamybos planavimą ir siuntimo koordinavimą, kad būtų laikomasi fiksuotų renginių datų.',
+            'Renginiai negali laukti. OLagoon garantuoja gamybos planavimą ir siuntimo koordinavimą, kad būtų laikomasi fiksuotų renginių datų.',
         },
         {
           title: 'Vizualinis poveikis',
@@ -4368,36 +4368,36 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar galite atkurti tikslias korporatyvines prekės ženklo spalvas (Pantone) ant SUP lentų?',
         answer:
-          'Taip, Afarer palaiko Pantone spalvų derinimą ir korporatyvinės vizualinės tapatybės reikalavimus su tikslia spalvų reprodukcija. Prieš serijinę gamybą teikiame prototipų pavyzdžius spalvoms patvirtinti, kad galutinis produktas tiksliai atitiktų jūsų prekės ženklo standartus.',
+          'Taip, OLagoon palaiko Pantone spalvų derinimą ir korporatyvinės vizualinės tapatybės reikalavimus su tikslia spalvų reprodukcija. Prieš serijinę gamybą teikiame prototipų pavyzdžius spalvoms patvirtinti, kad galutinis produktas tiksliai atitiktų jūsų prekės ženklo standartus.',
       },
       {
         question: 'Koks yra minimalus užsakymo kiekis individualioms prekės ženklo SUP lentoms?',
         answer:
-          'Afarer prisitaiko prie skirtingų projektų mastų. Maži korporatyviniai renginiai ir vidinės veiklos prasideda nuo 50-100 vienetų. Vidutinės rinkodaros kampanijos apima 100-500 vienetų, o dideli nacionaliniai ar kelių vietų renginiai gali išsiplėsti iki 500-1000+ vienetų.',
+          'OLagoon prisitaiko prie skirtingų projektų mastų. Maži korporatyviniai renginiai ir vidinės veiklos prasideda nuo 50-100 vienetų. Vidutinės rinkodaros kampanijos apima 100-500 vienetų, o dideli nacionaliniai ar kelių vietų renginiai gali išsiplėsti iki 500-1000+ vienetų.',
       },
       {
         question: 'Kiek laiko trunka prototipų kūrimo ir patvirtinimo procesas?',
         answer:
-          'Prototipų kūrimo procesas sukurtas greičiui. Afarer teikia spartų dizaino patvirtinimą, maketų peržiūrą ir prototipų kūrimą, paprastai per 1-2 savaites. Tai palieka pakankamai laiko patvirtinimui ir serijinei gamybai iki renginių terminų.',
+          'Prototipų kūrimo procesas sukurtas greičiui. OLagoon teikia spartų dizaino patvirtinimą, maketų peržiūrą ir prototipų kūrimą, paprastai per 1-2 savaites. Tai palieka pakankamai laiko patvirtinimui ir serijinei gamybai iki renginių terminų.',
       },
       {
         question: 'Ar galite pristatyti į kelias vietas pasaulinės kampanijos renginiams?',
         answer:
-          'Taip, Afarer palaiko daugelio šalių ir kelių vietų renginių kampanijas. Koordinuojame gamybą, pakavimą ir siuntimo paruošimą, kad būtų užtikrintas vientisas pristatymas visose regioninėse ar pasaulinėse renginių vietose.',
+          'Taip, OLagoon palaiko daugelio šalių ir kelių vietų renginių kampanijas. Koordinuojame gamybą, pakavimą ir siuntimo paruošimą, kad būtų užtikrintas vientisas pristatymas visose regioninėse ar pasaulinėse renginių vietose.',
       },
       {
         question: 'Kokios personalizavimo parinktys yra prieinamos be logotipų spausdinimo?',
         answer:
-          'Be logotipų spausdinimo Afarer siūlo visą lentos paviršiaus ženklinimą, irklų personalizavimą, korporatyvinių spalvų derinimą su Pantone atskaitomis, renginių tematikos grafinius dizainus, riboto leidimo meno darbus ir prekės ženklo priedus, įskaitant irklus, siurblius ir maišus.',
+          'Be logotipų spausdinimo OLagoon siūlo visą lentos paviršiaus ženklinimą, irklų personalizavimą, korporatyvinių spalvų derinimą su Pantone atskaitomis, renginių tematikos grafinius dizainus, riboto leidimo meno darbus ir prekės ženklo priedus, įskaitant irklus, siurblius ir maišus.',
       },
       {
         question: 'Ar siūlote išsamius renginių paketus, įskaitant priedus ir irklus?',
         answer:
-          'Taip, Afarer teikia išsamius renginių įrangos paketus, įskaitant individualias SUP lentas, reguliuojamus irklus, siurblius, saugos virves, nešiojimo maišus ir remonto rinkinius. Pasirinktinai galima įtraukti prekės ženklo irklus, renginių aksesuarus, demonstracijos medžiagas ir personalui skirtą įrangą.',
+          'Taip, OLagoon teikia išsamius renginių įrangos paketus, įskaitant individualias SUP lentas, reguliuojamus irklus, siurblius, saugos virves, nešiojimo maišus ir remonto rinkinius. Pasirinktinai galima įtraukti prekės ženklo irklus, renginių aksesuarus, demonstracijos medžiagas ir personalui skirtą įrangą.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo korporatyvinę vandens patirtį su Afarer',
+      title: 'Sukurkite savo korporatyvinę vandens patirtį su OLagoon',
       subtitle: 'Jūsų prekės ženklas nusipelno būti prisimenamas.',
       primaryAction: {
         text: 'Pradėkite savo korporatyvinį SUP projektą šiandien',
@@ -4412,7 +4412,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pripučiamų SUP OEM gamintojas vandens sporto prekės ženklams | {SITE}',
       description:
-        'Afarer padeda kajakų, kanojų, buriavimo ir nardymo prekės ženklams plėstis į pripučiamų SUP produktus su profesionalia Drop Stitch technologija, OEM gamyba ir išsamiais vandens sporto produktų sprendimais.',
+        'OLagoon padeda kajakų, kanojų, buriavimo ir nardymo prekės ženklams plėstis į pripučiamų SUP produktus su profesionalia Drop Stitch technologija, OEM gamyba ir išsamiais vandens sporto produktų sprendimais.',
     },
     hero: {
       tagline: 'Išplėskite savo vandens sporto asortimentą™',
@@ -4453,7 +4453,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Subrendusi pripučiamų SUP gamybos technologija',
           description:
-            'Afarer siūlo profesionalią Drop Stitch technologiją aukšto slėgio pripučiamoms konstrukcijoms su standžios lentos charakteristikomis, daugiasluoksnę PVC konstrukciją ilgaamžiškumui ir profesionalią suvirinimo technologiją tvirtoms siūlėms.',
+            'OLagoon siūlo profesionalią Drop Stitch technologiją aukšto slėgio pripučiamoms konstrukcijoms su standžios lentos charakteristikomis, daugiasluoksnę PVC konstrukciją ilgaamžiškumui ir profesionalią suvirinimo technologiją tvirtoms siūlėms.',
           features: [
             'Drop Stitch technologija',
             'Daugiasluoksnė PVC konstrukcija',
@@ -4463,7 +4463,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Išsamus SUP produktų asortimento kūrimas',
           description:
-            'Afarer siūlo patikrintas produktų platformas, įskaitant universalias SUP lentes pradedantiesiems ir šeimoms, turizmo SUP nuotykių mėgėjams, žvejybos SUP su tvirtinimo sistemomis, jogos SUP sveikatingumo rinkoms bei vaikų SUP.',
+            'OLagoon siūlo patikrintas produktų platformas, įskaitant universalias SUP lentes pradedantiesiems ir šeimoms, turizmo SUP nuotykių mėgėjams, žvejybos SUP su tvirtinimo sistemomis, jogos SUP sveikatingumo rinkoms bei vaikų SUP.',
           features: [
             'Universalios SUP serija',
             'Turizmo SUP serija',
@@ -4475,37 +4475,37 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'OEM ir ODM produktų kūrimas',
           description:
-            'Afarer palaiko private label gamybą su prekės ženklo logotipu ir pakavimu, produktų modifikavimą pagal matmenis ir funkcijas bei ekskliuzyvias kolekcijas specifiniams ženklo modeliams ir sezoniniams produktams.',
+            'OLagoon palaiko private label gamybą su prekės ženklo logotipu ir pakavimu, produktų modifikavimą pagal matmenis ir funkcijas bei ekskliuzyvias kolekcijas specifiniams ženklo modeliams ir sezoniniams produktams.',
           features: ['Private label gamyba', 'Produktų modifikavimas', 'Ekskliuzyvios kolekcijos'],
         },
         {
           title: 'Spartaus įėjimo į rinką programa',
           description:
-            'Afarer padeda sutrumpinti kūrimo laiką naudojant esamas produktų platformas su patikrintais lentų kontūrais ir išbandytomis konstrukcijomis, greitą prototipavimą nuo aptarimo iki gamybos bei spartesnį komercinį paleidimą sezoninėms galimybėms.',
+            'OLagoon padeda sutrumpinti kūrimo laiką naudojant esamas produktų platformas su patikrintais lentų kontūrais ir išbandytomis konstrukcijomis, greitą prototipavimą nuo aptarimo iki gamybos bei spartesnį komercinį paleidimą sezoninėms galimybėms.',
           features: ['Esamos produktų platformos', 'Greitas prototipavimas', 'Spartesnis komercinis paleidimas'],
         },
         {
           title: 'Su prekės ženklu suderintas produktų integravimas',
           description:
-            'Afarer bendradarbiauja su prekės ženklo vadovais, kad produktų dizaino kalba — spalvos, grafika ir medžiagos — atitiktų esamą prekės ženklo identitetą nuotykių, šeimos ir premium jūrinės pozicijos segmentuose.',
+            'OLagoon bendradarbiauja su prekės ženklo vadovais, kad produktų dizaino kalba — spalvos, grafika ir medžiagos — atitiktų esamą prekės ženklo identitetą nuotykių, šeimos ir premium jūrinės pozicijos segmentuose.',
           features: ['Produktų dizaino kalba', 'Klientų pozicionavimas', 'Prekės ženklo suderinamumas'],
         },
         {
           title: 'Priedų ir išsamių rinkinių kūrimas',
           description:
-            'Afarer palaiko SUP priedus, įskaitant irklus, siurblius, saugos raiščius (leash), maišus ir remonto rinkinius, taip pat produktų rinkinius, pavyzdžiui, pradedančiųjų, nuotykių ir šeimos paketus.',
+            'OLagoon palaiko SUP priedus, įskaitant irklus, siurblius, saugos raiščius (leash), maišus ir remonto rinkinius, taip pat produktų rinkinius, pavyzdžiui, pradedančiųjų, nuotykių ir šeimos paketus.',
           features: ['SUP priedai', 'Produktų rinkiniai', 'Rinkinių kūrimas'],
         },
         {
           title: 'Tiekimo grandinės integracija',
           description:
-            'Įsitvirtinusiems prekės ženklams Afarer užtikrina stabilų 500–10 000 rinkinių per metus gamybos pajėgumą, metinį produktų plano ir sezoninės gamybos planavimą bei kokybės pastovumą visose specifikacijose.',
+            'Įsitvirtinusiems prekės ženklams OLagoon užtikrina stabilų 500–10 000 rinkinių per metus gamybos pajėgumą, metinį produktų plano ir sezoninės gamybos planavimą bei kokybės pastovumą visose specifikacijose.',
           features: ['Stabilus gamybos pajėgumas', 'Metinis planavimas', 'Kokybės pastovumas'],
         },
         {
           title: 'Kokybės kontrolės palaikymas',
           description:
-            'Afarer kokybės procesai apima medžiagų — PVC ir Drop Stitch audinio — patikrinimą, gamybos — suvirinimo ir surinkimo — stebėjimą bei galutinį produkto charakteristikų, priedų ir pakavimo patikrinimą.',
+            'OLagoon kokybės procesai apima medžiagų — PVC ir Drop Stitch audinio — patikrinimą, gamybos — suvirinimo ir surinkimo — stebėjimą bei galutinį produkto charakteristikų, priedų ir pakavimo patikrinimą.',
           features: ['Medžiagų patikra', 'Gamybos stebėjimas', 'Galutinis patikrinimas'],
         },
       ],
@@ -4522,7 +4522,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Produkto strategijos kūrimas',
           detail:
-            'Afarer išanalizavo prekės ženklo esamą klientų bazę, rinkos pozicionavimą ir kainų segmentą, kad rekomenduotų su ženklu derinamą SUP produktų šeimos plėtrą.',
+            'OLagoon išanalizavo prekės ženklo esamą klientų bazę, rinkos pozicionavimą ir kainų segmentą, kad rekomenduotų su ženklu derinamą SUP produktų šeimos plėtrą.',
         },
         {
           title: 'Produkto asortimento sukūrimas',
@@ -4559,22 +4559,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Produktų asortimento planavimas ir Brazilijos rinkos pritaikymas',
               detail:
-                'Pedro 2025 m. sausį lankėsi Afarer gamykloje Šendžene su savo produktų direktoriumi ir pramonės dizaineriu penkių dienų bendradarbiavimo dirbtuvėse. Jie pasirinko 10 SUP modelių: 4 universalios, 3 turizmo, 2 žvejybos ir 1 jogos platforma. Afarer inžinieriai kiekvieną produktą pritaikė Brazilijos sąlygoms: UV atsparus PVC tropinei saulei, sutvirtinti korpusai uolėtiems Minas Gerais upės dugnams ir spalvų schemos, įkvėptos Brazilijos vėliavos bei Amazonijos atogrąžų motyvų. Pedro pateikė R$3.2M pradinį 4 500 vienetų užsakymą su 30% avansu ir likusia suma pagal krovinio vežimo dokumentą.',
+                'Pedro 2025 m. sausį lankėsi OLagoon gamykloje Šendžene su savo produktų direktoriumi ir pramonės dizaineriu penkių dienų bendradarbiavimo dirbtuvėse. Jie pasirinko 10 SUP modelių: 4 universalios, 3 turizmo, 2 žvejybos ir 1 jogos platforma. OLagoon inžinieriai kiekvieną produktą pritaikė Brazilijos sąlygoms: UV atsparus PVC tropinei saulei, sutvirtinti korpusai uolėtiems Minas Gerais upės dugnams ir spalvų schemos, įkvėptos Brazilijos vėliavos bei Amazonijos atogrąžų motyvų. Pedro pateikė R$3.2M pradinį 4 500 vienetų užsakymą su 30% avansu ir likusia suma pagal krovinio vežimo dokumentą.',
             },
             {
               title: 'Prekės ženklo integracija, portugalų kalbos lokalizavimas ir atitiktis',
               detail:
-                "Afarer dizaino komanda sukūrė visapusišką 'ÁguaVita Adventure' vizualinį identitetą, įskaitant logotipus, spalvų paletes, pakavimą ir pardavimo taškų medžiagas Brazilijos portugalų kalba. Atitikties komanda valdė INMETRO sertifikavimą visiems 10 produktų (privalomą sporto įrangai Brazilijoje) ir parengė portugalų kalbos instrukcijų vadovus su iliustruotomis surinkimo instrukcijomis, pritaikytus Brazilijos mažesnio raštingumo auditorijai. Afarer pagamino 200 priešserijinių vienetų, 2025 m. kovą pristatytų oro transportu, kad Pedro 50 geriausių prekybos partnerių galėtų juos įvertinti — 46 iš 50 pateikė pradinius užsakymus, vidutiniškai po R$48K.",
+                "OLagoon dizaino komanda sukūrė visapusišką 'ÁguaVita Adventure' vizualinį identitetą, įskaitant logotipus, spalvų paletes, pakavimą ir pardavimo taškų medžiagas Brazilijos portugalų kalba. Atitikties komanda valdė INMETRO sertifikavimą visiems 10 produktų (privalomą sporto įrangai Brazilijoje) ir parengė portugalų kalbos instrukcijų vadovus su iliustruotomis surinkimo instrukcijomis, pritaikytus Brazilijos mažesnio raštingumo auditorijai. OLagoon pagamino 200 priešserijinių vienetų, 2025 m. kovą pristatytų oro transportu, kad Pedro 50 geriausių prekybos partnerių galėtų juos įvertinti — 46 iš 50 pateikė pradinius užsakymus, vidutiniškai po R$48K.",
             },
             {
               title: 'Prekybos partnerių paleidimas ir platinimas visoje šalyje',
               detail:
-                'Pagrindinė 4 300 vienetų jūrinė siunta atvyko į Santos uostą 2025 m. gegužės 15 d. ir per 5 dienas išvalė muitinę. Afarer logistikos komanda derino darbą su ÁguaVita 5 regioniniais platinimo centrais São Paulo, Rio de Janeiro, Belo Horizonte, Recife ir Porto Alegre. Pedro šešių žmonių pardavimų komanda pristatė liniją 2025 m. São Paulo lauko sporto parodoje (birželio 12–15 d.) su gyvais irklavimo baseino pristatymais, kuriuose dalyvavo olimpinė kanojininkė Isabella Santos. Per 4 dienas ÁguaVita pasirašė 340 naujų prekybos partnerių sutarčių specialiai Adventure linijai ir pardavė 800 vienetų tiesiai parodoje.',
+                'Pagrindinė 4 300 vienetų jūrinė siunta atvyko į Santos uostą 2025 m. gegužės 15 d. ir per 5 dienas išvalė muitinę. OLagoon logistikos komanda derino darbą su ÁguaVita 5 regioniniais platinimo centrais São Paulo, Rio de Janeiro, Belo Horizonte, Recife ir Porto Alegre. Pedro šešių žmonių pardavimų komanda pristatė liniją 2025 m. São Paulo lauko sporto parodoje (birželio 12–15 d.) su gyvais irklavimo baseino pristatymais, kuriuose dalyvavo olimpinė kanojininkė Isabella Santos. Per 4 dienas ÁguaVita pasirašė 340 naujų prekybos partnerių sutarčių specialiai Adventure linijai ir pardavė 800 vienetų tiesiai parodoje.',
             },
             {
               title: 'Kategorijos plėtra ir rinkos lyderystė',
               detail:
-                "Iki 2025 m. lapkričio 'ÁguaVita Adventure' pardavė 6 200 vienetų visose 10 SKU ir gavo R$16.2M pajamų (35% daugiau nei R$12M tikslas). Pripučiamas SUP modelis 'Ipanema 10'6\"' buvo geriausiai parduodamas produktas visose ÁguaVita kategorijose, įskaitant senąją nardymo įrangą. Pedro sėkmę priskyrė Afarer kokybės pastovumui — tik 0.8% broko lygis, palyginti su 4.2% ankstesnių nardymo įrangos tiekėjų atveju. Jis pateikė R$8.5M užsakymą 2026 m., įskaitant 4 naujus žvejybos SUP modelius ir pedalais varomą SUP lentą, pozicionuodamas ÁguaVita kaip didžiausią Brazilijos irklavimo sporto įmonę.",
+                "Iki 2025 m. lapkričio 'ÁguaVita Adventure' pardavė 6 200 vienetų visose 10 SKU ir gavo R$16.2M pajamų (35% daugiau nei R$12M tikslas). Pripučiamas SUP modelis 'Ipanema 10'6\"' buvo geriausiai parduodamas produktas visose ÁguaVita kategorijose, įskaitant senąją nardymo įrangą. Pedro sėkmę priskyrė OLagoon kokybės pastovumui — tik 0.8% broko lygis, palyginti su 4.2% ankstesnių nardymo įrangos tiekėjų atveju. Jis pateikė R$8.5M užsakymą 2026 m., įskaitant 4 naujus žvejybos SUP modelius ir pedalais varomą SUP lentą, pozicionuodamas ÁguaVita kaip didžiausią Brazilijos irklavimo sporto įmonę.",
             },
           ],
           results: [
@@ -4597,17 +4597,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Parko sudėties analizė ir komercinės klasės specifikacijų peržiūra',
               detail:
-                '2024 m. rugpjūtį Kai su sūnumi Mako (svečių aptarnavimo vadybos absolventu) dirbo kartu su Afarer komercinio parko skyriumi, kurdami idealų nuomos parką. Išanalizavę 3 metų vietos turizmo duomenis, jie nusprendė įsigyti 60 SUP (30 universalios 10\'6", 15 turizmo 11\'6", 8 jogos lentos, 7 žvejybos lentos). Afarer pateikė komercinės klasės konstrukciją su sutvirtintu drop-stitch sluoksniu, dvigubu PVC bortų sluoksniu, nerūdijančio plieno D-kilpomis (vietoj plastikinių) ir komercinės klasės vožtuvais, atlaikančiais 100 000+ pripūtimo ciklų. Parkas su pristatymu kainavo $48,000 (vietoj $78,000 už panašias Havajuose pagamintas lentas), o Kai užsakymą pateikė su 50% avansu 2024 m. rugsėjo 1 d.',
+                '2024 m. rugpjūtį Kai su sūnumi Mako (svečių aptarnavimo vadybos absolventu) dirbo kartu su OLagoon komercinio parko skyriumi, kurdami idealų nuomos parką. Išanalizavę 3 metų vietos turizmo duomenis, jie nusprendė įsigyti 60 SUP (30 universalios 10\'6", 15 turizmo 11\'6", 8 jogos lentos, 7 žvejybos lentos). OLagoon pateikė komercinės klasės konstrukciją su sutvirtintu drop-stitch sluoksniu, dvigubu PVC bortų sluoksniu, nerūdijančio plieno D-kilpomis (vietoj plastikinių) ir komercinės klasės vožtuvais, atlaikančiais 100 000+ pripūtimo ciklų. Parkas su pristatymu kainavo $48,000 (vietoj $78,000 už panašias Havajuose pagamintas lentas), o Kai užsakymą pateikė su 50% avansu 2024 m. rugsėjo 1 d.',
             },
             {
               title: 'Nuomos operacijų mokymai ir logistikos paruošimas',
               detail:
-                'Afarer nuomos operacijų specialistas 2024 m. spalį praleido 4 dienas Kai parduotuvėje, optimizuodamas nuomos procesus. Jie įdiegė parko valdymo sistemą su QR kodais ant lentų ir mobilia aplikacija įsigijimui bei grąžinimui, pažeidimų sekimui ir prevencinės priežiūros grafikams. Afarer pateikė 10 galingų akumuliatorinių siurblių parko apyvartai tą pačią dieną ir individualizuotą laikymo stelažų sistemą, maksimaliai išnaudojančią 600 kv. pėdų sandėlį. Mokymai apėmė pripūtimo protokolus (kiekviena lenta pripučiama iki 12–15 PSI per mažiau nei 4 minutes naudojant akumuliatorinius siurblius), patikros sąrašus, remonto procedūras ir standartizuotas klientų saugos instrukcijas visiems nuomos darbuotojams.',
+                'OLagoon nuomos operacijų specialistas 2024 m. spalį praleido 4 dienas Kai parduotuvėje, optimizuodamas nuomos procesus. Jie įdiegė parko valdymo sistemą su QR kodais ant lentų ir mobilia aplikacija įsigijimui bei grąžinimui, pažeidimų sekimui ir prevencinės priežiūros grafikams. OLagoon pateikė 10 galingų akumuliatorinių siurblių parko apyvartai tą pačią dieną ir individualizuotą laikymo stelažų sistemą, maksimaliai išnaudojančią 600 kv. pėdų sandėlį. Mokymai apėmė pripūtimo protokolus (kiekviena lenta pripučiama iki 12–15 PSI per mažiau nei 4 minutes naudojant akumuliatorinius siurblius), patikros sąrašus, remonto procedūras ir standartizuotas klientų saugos instrukcijas visiems nuomos darbuotojams.',
             },
             {
               title: 'Kainodaros strategija, paleidimas ir internetinių rezervacijų integracija',
               detail:
-                "Kai parką paleido 2024 m. gruodžio 1 d. su pakopinėmis kainomis: $35/valandą už SUP, $89/pusdienį, $129/parai ir savaitiniais įkainiais. Afarer padėjo Kai integruotis su FareHarbor ir Peek Pro rezervacijų platformomis, sukūrė profesionalią produktų fotografiją ir atliko Google My Business įrašo optimizavimą, per 6 savaites pakėlusį Kai's iš 4 paieškos puslapio į geriausius 3 vietos paieškos rezultatus. Iki gruodžio 31 d. parkas, nepaisant nesezono, pasiekė 42% utilizaciją, parduodamas 780 nuomos dienų, ir vien gruodį uždirbo $62K.",
+                "Kai parką paleido 2024 m. gruodžio 1 d. su pakopinėmis kainomis: $35/valandą už SUP, $89/pusdienį, $129/parai ir savaitiniais įkainiais. OLagoon padėjo Kai integruotis su FareHarbor ir Peek Pro rezervacijų platformomis, sukūrė profesionalią produktų fotografiją ir atliko Google My Business įrašo optimizavimą, per 6 savaites pakėlusį Kai's iš 4 paieškos puslapio į geriausius 3 vietos paieškos rezultatus. Iki gruodžio 31 d. parkas, nepaisant nesezono, pasiekė 42% utilizaciją, parduodamas 780 nuomos dienų, ir vien gruodį uždirbo $62K.",
             },
             {
               title: 'Piko sezono augimas ir plėtros planavimas',
@@ -4616,7 +4616,7 @@ const lt: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            '$764K bendrųjų pirmųjų metų pajamų (12% daugiau nei $680K tikslas) ir $487K grynųjų nuomos pajamų iš Afarer parko',
+            '$764K bendrųjų pirmųjų metų pajamų (12% daugiau nei $680K tikslas) ir $487K grynųjų nuomos pajamų iš OLagoon parko',
             '78% parko utilizacija vasaros piko mėnesiais visose 60 SUP, aptarnaujant iki 180 klientų per dieną',
             '$48K parko investicijos atsipirko per tik 3.5 mėnesio (nuo 2024 m. gruodžio iki 2025 m. kovo vidurio)',
             'Verslo vertė per 12 mėnesių išaugo nuo $420K iki $1.8M, leidus įsigyti antrą vietą prie Konos paplūdimio',
@@ -4624,8 +4624,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl vandens sporto prekės ženklai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl vandens sporto prekės ženklai renkasi OLagoon',
       items: [
         {
           title: 'Vandens sporto rinkos',
@@ -4661,7 +4661,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kaip kajakų ar kanojų prekės ženklas gali pridėti pripučiamų SUP produktų nestatydamas gamyklos?',
         answer:
-          'Afarer OEM/ODM partnerystės modelis leidžia įsitvirtinusiems vandens sporto prekės ženklams pridėti pripučiamų SUP produktų naudojant mūsų esamą gamybos infrastruktūrą. Prekės ženklai pasinaudoja savo klientų baze ir platinimo kanalais, o Afarer rūpinasi Drop Stitch inžinerija, PVC gamyba, kokybės kontrole ir tiekimo grandinės valdymu.',
+          'OLagoon OEM/ODM partnerystės modelis leidžia įsitvirtinusiems vandens sporto prekės ženklams pridėti pripučiamų SUP produktų naudojant mūsų esamą gamybos infrastruktūrą. Prekės ženklai pasinaudoja savo klientų baze ir platinimo kanalais, o OLagoon rūpinasi Drop Stitch inžinerija, PVC gamyba, kokybės kontrole ir tiekimo grandinės valdymu.',
       },
       {
         question: 'Kas yra Drop Stitch technologija ir kodėl ji svarbi SUP gamybai?',
@@ -4671,26 +4671,26 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar esami prekės ženklo dizainai ir spalvos gali būti pritaikyti SUP produktams?',
         answer:
-          'Taip, Afarer palaiko visapusišką prekės ženklo integraciją, įskaitant individualizuotą grafiką, Pantone spalvų atitikimą, logotipų pritaikymą ir pakavimo dizainą. Dirbame su prekės ženklo vadovais, kad SUP produktai atitiktų esamą produktų dizaino kalbą ir rinkos pozicionavimą.',
+          'Taip, OLagoon palaiko visapusišką prekės ženklo integraciją, įskaitant individualizuotą grafiką, Pantone spalvų atitikimą, logotipų pritaikymą ir pakavimo dizainą. Dirbame su prekės ženklo vadovais, kad SUP produktai atitiktų esamą produktų dizaino kalbą ir rinkos pozicionavimą.',
       },
       {
         question: 'Koks įprastas laikotarpis nuo koncepcijos iki rinkos naujai SUP produktų linijai?',
         answer:
-          'Naudodami Afarer esamas produktų platformas ir greito prototipavimo procesą, prekės ženklai paprastai gali pereiti nuo koncepcijos iki rinkai paruoštų produktų per 8–12 savaičių. Tai apima produktų atranką, dizaino pritaikymą, prototipo patvirtinimą, gamybą ir gabenimą.',
+          'Naudodami OLagoon esamas produktų platformas ir greito prototipavimo procesą, prekės ženklai paprastai gali pereiti nuo koncepcijos iki rinkai paruoštų produktų per 8–12 savaičių. Tai apima produktų atranką, dizaino pritaikymą, prototipo patvirtinimą, gamybą ir gabenimą.',
       },
       {
         question: 'Kokius minimalius užsakymo kiekius reikalauja OEM/ODM SUP gamyba?',
         answer:
-          'Afarer palaiko įvairius kiekius — nuo 500 vienetų pradiniam rinkos išbandymui iki 10 000+ vienetų per metus įsitvirtinusioms programoms. Dirbame su prekės ženklais, kad suplanuotume gamybos apimtis, atitinkančias jų platinimo mastą ir sezoninę paklausą.',
+          'OLagoon palaiko įvairius kiekius — nuo 500 vienetų pradiniam rinkos išbandymui iki 10 000+ vienetų per metus įsitvirtinusioms programoms. Dirbame su prekės ženklais, kad suplanuotume gamybos apimtis, atitinkančias jų platinimo mastą ir sezoninę paklausą.',
       },
       {
-        question: 'Ar Afarer gamina pripučiamus SUP kartu su esamomis kajakų produktų linijomis?',
+        question: 'Ar OLagoon gamina pripučiamus SUP kartu su esamomis kajakų produktų linijomis?',
         answer:
-          'Taip, Afarer gamina pripučiamas SUP lentas naudodama Drop Stitch ir PVC suvirinimo technologiją. Tai leidžia vandens sporto prekės ženklams pridėti visą pripučiamų SUP kategoriją per vieną gamybos partnerį, nekeisdami esamų produktų.',
+          'Taip, OLagoon gamina pripučiamas SUP lentas naudodama Drop Stitch ir PVC suvirinimo technologiją. Tai leidžia vandens sporto prekės ženklams pridėti visą pripučiamų SUP kategoriją per vieną gamybos partnerį, nekeisdami esamų produktų.',
       },
     ],
     cta: {
-      title: 'Išplėskite savo vandens sporto prekės ženklą su Afarer',
+      title: 'Išplėskite savo vandens sporto prekės ženklą su OLagoon',
       subtitle: 'Jūs jau turite klientus. Jūs jau turite rinką. Dabar pridėkite produktus, kurių jie nori.',
       primaryAction: {
         text: 'Pradėkite savo SUP plėtros projektą jau šiandien',
@@ -4705,7 +4705,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Augintiniams draugiškų SUP lentų gamintojas | Šunų SUP OEM tiekėjas | {SITE}',
       description:
-        'Afarer kuria pagal užsakymą gaminamas augintiniams draugiškas SUP lentas šunų nuotykių prekės ženklams ir augintinių lauko įmonėms. Patvarūs, įbrėžimams atsparūs SUP dizainai, plačios stabili platformos, OEM gamyba ir private label sprendimai.',
+        'OLagoon kuria pagal užsakymą gaminamas augintiniams draugiškas SUP lentas šunų nuotykių prekės ženklams ir augintinių lauko įmonėms. Patvarūs, įbrėžimams atsparūs SUP dizainai, plačios stabili platformos, OEM gamyba ir private label sprendimai.',
     },
     hero: {
       tagline: 'Augintiniams draugiškų SUP lentų programa™',
@@ -4747,7 +4747,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Augintiniams optimizuotas SUP dizainas',
           description:
-            'Afarer kuria SUP struktūras specialiai augintiniams su itin stabilaus plataus platformos dizainu, pasižyminčiu didesniu lentos pločiu, didele stovėjimo zona ir ilga visą denį apimančia veiklos zona šunims visų dydžių.',
+            'OLagoon kuria SUP struktūras specialiai augintiniams su itin stabilaus plataus platformos dizainu, pasižyminčiu didesniu lentos pločiu, didele stovėjimo zona ir ilga visą denį apimančia veiklos zona šunims visų dydžių.',
           features: [
             'Itin stabili plačios platformos konstrukcija',
             'Ilga visą denį apimanti veiklos zona',
@@ -4757,7 +4757,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Įbrėžimams ir augintinių poveikiui atspari medžiagų struktūra',
           description:
-            'Afarer taiko sutvirtintą, įbrėžimams atsparią PVC konstrukciją, visą paviršių dengiančias sunkiosios klasės EVA denio pagalves su pagerintu sukibimu ir pradūrimui atsparią struktūrą, saugančią nuo nagų spaudimo.',
+            'OLagoon taiko sutvirtintą, įbrėžimams atsparią PVC konstrukciją, visą paviršių dengiančias sunkiosios klasės EVA denio pagalves su pagerintu sukibimu ir pradūrimui atsparią struktūrą, saugančią nuo nagų spaudimo.',
           features: [
             'Sutvirtinta PVC konstrukcija',
             'Sunkiosios klasės EVA denio pagalvė',
@@ -4767,7 +4767,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Augintiniams draugiška produktų konfigūracija',
           description:
-            'Afarer palaiko išsamius produktų sprendimus, įskaitant standartinius augintinių SUP paketus su lentomis ir priedais, premium šunų nuotykių paketus su saugumo priedais ir kelioninius augintinių paketus automobilio kelionėms bei stovyklavimui.',
+            'OLagoon palaiko išsamius produktų sprendimus, įskaitant standartinius augintinių SUP paketus su lentomis ir priedais, premium šunų nuotykių paketus su saugumo priedais ir kelioninius augintinių paketus automobilio kelionėms bei stovyklavimui.',
           features: [
             'Standartinis augintinių SUP paketas',
             'Premium šunų nuotykių paketas',
@@ -4777,13 +4777,13 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Private label augintinių SUP kūrimas pagal užsakymą',
           description:
-            'Afarer padeda augintinių prekės ženklams kurti tinkintus prekės ženklo produktus su logotipo išdėstymu, spalvomis ir grafiniu dizainu, gyvenimo būdo orientuotu dizainu premium pozicionavimui ir riboto tiražo kolekcijomis įtakos asmenims.',
+            'OLagoon padeda augintinių prekės ženklams kurti tinkintus prekės ženklo produktus su logotipo išdėstymu, spalvomis ir grafiniu dizainu, gyvenimo būdo orientuotu dizainu premium pozicionavimui ir riboto tiražo kolekcijomis įtakos asmenims.',
           features: ['Prekės ženklo tinkinimas', 'Gyvenimo būdo orientuotas dizainas', 'Riboto tiražo kolekcijos'],
         },
         {
           title: 'Augintinių prekės ženklų rinkos pozicionavimo palaikymas',
           description:
-            'Afarer kuria produktus, atitinkančius skirtingas prekės ženklų pozicijas — nuo premium augintinių gyvenimo būdo prekės ženklų, orientuotų į prabangią išvaizdą, iki nuotykių šunų prekės ženklų, orientuotų į patvarumą, ir šeimų augintinių prekės ženklų, orientuotų į saugumą.',
+            'OLagoon kuria produktus, atitinkančius skirtingas prekės ženklų pozicijas — nuo premium augintinių gyvenimo būdo prekės ženklų, orientuotų į prabangią išvaizdą, iki nuotykių šunų prekės ženklų, orientuotų į patvarumą, ir šeimų augintinių prekės ženklų, orientuotų į saugumą.',
           features: [
             'Premium augintinių gyvenimo būdo prekės ženklai',
             'Nuotykių šunų prekės ženklai',
@@ -4793,13 +4793,13 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'OEM palaikymas augintinių produktų verslininkams',
           description:
-            'Daugelis augintinių prekės ženklų turi klientų bendruomenių ir rinkodaros galimybių, tačiau jų trūksta gamybos žinių. Afarer teikia produktų plėtros, prototipų kūrimo, gamybos, kokybės kontrolės ir eksporto palaikymą.',
+            'Daugelis augintinių prekės ženklų turi klientų bendruomenių ir rinkodaros galimybių, tačiau jų trūksta gamybos žinių. OLagoon teikia produktų plėtros, prototipų kūrimo, gamybos, kokybės kontrolės ir eksporto palaikymą.',
           features: ['Produktų plėtra', 'Prototipų kūrimas', 'Gamybos palaikymas'],
         },
         {
           title: 'Turiniui draugiškas produktų dizainas',
           description:
-            'Afarer palaiko socialiniams tinklams matomumui optimizuotus dizainus su patrauklia grafika ir gyvenimo būdo išvaizda, skatinančius klientų nuotraukas ir vaizdo įrašus, kurie kuria dalijamą patirtį ir bendruomenių įsitraukimą.',
+            'OLagoon palaiko socialiniams tinklams matomumui optimizuotus dizainus su patrauklia grafika ir gyvenimo būdo išvaizda, skatinančius klientų nuotraukas ir vaizdo įrašus, kurie kuria dalijamą patirtį ir bendruomenių įsitraukimą.',
           features: [
             'Matomumas socialiniuose tinkluose',
             'Klientų nuotraukos ir vaizdo įrašai',
@@ -4809,7 +4809,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Kokybės kontrolė augintinių saugumui',
           description:
-            'Afarer telkiasi į medžiagų saugumą, tikrindama paviršiaus patvarumą, atlikdama produktų veikimo bandymus — pūtimą ir stabilumą — bei galutinę išvaizdos, priedų ir pakavimo apžiūrą.',
+            'OLagoon telkiasi į medžiagų saugumą, tikrindama paviršiaus patvarumą, atlikdama produktų veikimo bandymus — pūtimą ir stabilumą — bei galutinę išvaizdos, priedų ir pakavimo apžiūrą.',
           features: ['Medžiagų saugumas', 'Produktų veikimas', 'Galutinė apžiūra'],
         },
       ],
@@ -4826,7 +4826,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Produktų plėtra',
           detail:
-            'Afarer suprojektavo specialiai augintiniams skirtą SUP struktūrą, įskaitant platesnę lentos formą, didesnę denio zoną ir sutvirtintą paviršių, kad šunys būtų saugiai ir patogiai talpinami.',
+            'OLagoon suprojektavo specialiai augintiniams skirtą SUP struktūrą, įskaitant platesnę lentos formą, didesnę denio zoną ir sutvirtintą paviršių, kad šunys būtų saugiai ir patogiai talpinami.',
         },
         {
           title: 'Medžiagų optimizavimas',
@@ -4864,22 +4864,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Šunims pritaikytų produktų tyrimai ir saugumo inžinerija',
               detail:
-                "2025 m. sausį Emma su savo produktų komanda savaitę praleido Afarer inovacijų laboratorijoje su Afarer medžiagų inžinieriais ir veterinarijos konsultantu. Jie sukūrė 3 specialiai šunims skirtas inovacijas: (1) dvigubo tankio denio pagalvę su papildomo sukibimo zonoms šunų letenoms, kurių trinties koeficientas 3 kartus didesnis nei standartinių, (2) sutvirtintą centrinę dalį su bandymais patikrinta 50kg laikymo talpa (išbandyta su Labradoro ir Golden Retriever svorio simuliacijomis) ir (3) D-ring tvirtinimo sistemą, suderinamą su šunų gelbėjimosi liemenėmis. Afarer pagamino 6 prototipų variantus, o Emmos komanda atliko 8 savaičių trukmės bandymus su 50 šunų savininkų visoje Jungtinėje Karalystėje, tobulindama dizainą pagal 347 apklausos atsakymus. Galutinis dizainas turėjo letenų atspaudų reljefą, 'mud-resistant' medžiagą ir į denio pagalvę integruotą išmatų maišelių laikiklį.",
+                "2025 m. sausį Emma su savo produktų komanda savaitę praleido OLagoon inovacijų laboratorijoje su OLagoon medžiagų inžinieriais ir veterinarijos konsultantu. Jie sukūrė 3 specialiai šunims skirtas inovacijas: (1) dvigubo tankio denio pagalvę su papildomo sukibimo zonoms šunų letenoms, kurių trinties koeficientas 3 kartus didesnis nei standartinių, (2) sutvirtintą centrinę dalį su bandymais patikrinta 50kg laikymo talpa (išbandyta su Labradoro ir Golden Retriever svorio simuliacijomis) ir (3) D-ring tvirtinimo sistemą, suderinamą su šunų gelbėjimosi liemenėmis. OLagoon pagamino 6 prototipų variantus, o Emmos komanda atliko 8 savaičių trukmės bandymus su 50 šunų savininkų visoje Jungtinėje Karalystėje, tobulindama dizainą pagal 347 apklausos atsakymus. Galutinis dizainas turėjo letenų atspaudų reljefą, 'mud-resistant' medžiagą ir į denio pagalvę integruotą išmatų maišelių laikiklį.",
             },
             {
               title: 'Prekės ženklo kūrimas, pakavimas ir augintinių mažmeninės prekybos atitiktis',
               detail:
-                "Afarer dizaino komanda sukūrė 'Paws & Paddle Adventure' vizualinį identitetą, įskaitant pakuotes su šunų fotografijomis, lentynų reklaminius pakabukus ir QR kodus, vedančius į 'Dog SUP Safety' vaizdo instrukciją. Buvo pristatyti 3 modeliai: 'The Spaniel' (10' universalus mažiems ir vidutiniams šunims), 'The Labrador' (11'6\" utilitarinis vidutiniams ir dideliems šunims) ir 'The Retriever' (12'6\" turizmo modelis dideliems šunims ir ilgesnėms kelionėms). Afarer valdė UKCA sertifikavimą ir CE žymėjimą bei parengė Pet Industry Federation atitikties paketą, apimantį saugumo įspėjimus, šunų svorio limitus ir atsakomybės dokumentaciją. Emma iš anksto pardavė 1,800 vienetų per savo esamą augintinių mažmeninės prekybos tinklą dar prieš prasidedant gamybai.",
+                "OLagoon dizaino komanda sukūrė 'Paws & Paddle Adventure' vizualinį identitetą, įskaitant pakuotes su šunų fotografijomis, lentynų reklaminius pakabukus ir QR kodus, vedančius į 'Dog SUP Safety' vaizdo instrukciją. Buvo pristatyti 3 modeliai: 'The Spaniel' (10' universalus mažiems ir vidutiniams šunims), 'The Labrador' (11'6\" utilitarinis vidutiniams ir dideliems šunims) ir 'The Retriever' (12'6\" turizmo modelis dideliems šunims ir ilgesnėms kelionėms). OLagoon valdė UKCA sertifikavimą ir CE žymėjimą bei parengė Pet Industry Federation atitikties paketą, apimantį saugumo įspėjimus, šunų svorio limitus ir atsakomybės dokumentaciją. Emma iš anksto pardavė 1,800 vienetų per savo esamą augintinių mažmeninės prekybos tinklą dar prieš prasidedant gamybai.",
             },
             {
               title: 'Įtakos asmenų paleidimo kampanija ir mažmeninės prekybos mokymai',
               detail:
-                "Kolekcija buvo pristatyta 2025 m. kovą koordinuotoje kampanijoje su 12 JK šunų įtakos asmenų, įskaitant @myadventureswithoscar (2.1M sekėjų) ir @the_hiking_husky (890K sekėjų). Afarer parūpino 50 demonstracinių vienetų įtakos turinio kūrimui ir augintinių parduotuvių renginiams. Afarer mokymų komanda sukūrė 20 minučių 'Retail Pro' modulį, apimantį šunų SUP saugumą, pritaikymą skirtingoms veislėms bei kryžminį šunų gelbėjimosi liemenių ir letenų apsaugos batukų pardavimą. Paws & Paddle 340 mažmeninės prekybos partnerių surengė parduotuvių demonstracijų dienas, kurių metu klientai galėjo išbandyti lentas su savo šunimis pripučiamuose baseinuose — 78% demonstracijų dalyvių įsigijo produktą.",
+                "Kolekcija buvo pristatyta 2025 m. kovą koordinuotoje kampanijoje su 12 JK šunų įtakos asmenų, įskaitant @myadventureswithoscar (2.1M sekėjų) ir @the_hiking_husky (890K sekėjų). OLagoon parūpino 50 demonstracinių vienetų įtakos turinio kūrimui ir augintinių parduotuvių renginiams. OLagoon mokymų komanda sukūrė 20 minučių 'Retail Pro' modulį, apimantį šunų SUP saugumą, pritaikymą skirtingoms veislėms bei kryžminį šunų gelbėjimosi liemenių ir letenų apsaugos batukų pardavimą. Paws & Paddle 340 mažmeninės prekybos partnerių surengė parduotuvių demonstracijų dienas, kurių metu klientai galėjo išbandyti lentas su savo šunimis pripučiamuose baseinuose — 78% demonstracijų dalyvių įsigijo produktą.",
             },
             {
               title: 'Kategorijos plėtra ir veterinarijos partnerystės programa',
               detail:
-                "Iki 2025 m. rugsėjo draugiška šunims SUP linija pardavė 4,200 vienetų 340 mažmeninės prekybos vietų, generuodama £2.1M didmenos prekybos pajamas (40% daugiau nei £1.5M tikslas). 'Labrador' modelis sudarė 52% pardavimų. Emma paleido pionierišką partnerystę su British Veterinary Association, skatinančią šunų saugumą vandenyje, o Afarer pagamino 5,000 'Dog SUP Safety' lankstinukų, platintų per veterinarijos gydytojus. Pakartotinis 3,000 vienetų užsakymas apėmė naują 'The Terrier' modelį (8'6\" mažiems šunims) ir atitinkamą šunų gelbėjimosi liemenių liniją. Kolekcija 2025 m. JK Pet Show parodoje buvo pripažinta 'Pet Product of the Year'.",
+                "Iki 2025 m. rugsėjo draugiška šunims SUP linija pardavė 4,200 vienetų 340 mažmeninės prekybos vietų, generuodama £2.1M didmenos prekybos pajamas (40% daugiau nei £1.5M tikslas). 'Labrador' modelis sudarė 52% pardavimų. Emma paleido pionierišką partnerystę su British Veterinary Association, skatinančią šunų saugumą vandenyje, o OLagoon pagamino 5,000 'Dog SUP Safety' lankstinukų, platintų per veterinarijos gydytojus. Pakartotinis 3,000 vienetų užsakymas apėmė naują 'The Terrier' modelį (8'6\" mažiems šunims) ir atitinkamą šunų gelbėjimosi liemenių liniją. Kolekcija 2025 m. JK Pet Show parodoje buvo pripažinta 'Pet Product of the Year'.",
             },
           ],
           results: [
@@ -4896,28 +4896,28 @@ const lt: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Australia',
             background:
               "Blue Heeler Expeditions 2018 m. įkūrė buvęs Australijos kariuomenės šunų vedėjas, tapęs šunų elgsenos specialistu, Lachlan 'Locky' Murphy. Locky specializavosi didelės energijos veislių dresūroje (kelpiai, hileri, border collie) ir buvo susikūręs ištikimų gerbėjų bendruomenę per savo YouTube kanalą (480K prenumeratorių) ir nuolat išparduodamus seminarus. Jis turėjo 12,000 kv. pėdų objektą netoli Noosa upės, tačiau norėjo sukurti visiškai naują kategoriją — struktūruotą šunų SUP mokymų ir sertifikavimo programą. Šunų skaičius Australijoje buvo rekordiškai didelis (5.1M šunų), o #dogpaddle trendavo Australijos socialiniuose tinkluose, tačiau niekas nesiūlė profesionalių šunų SUP mokymų ar įrangos, pritaikytos Australijos klimatui.",
-            goal: "Sukurti išsamią 'Canine SUP Certification' programą su pagal užsakymą pagamintomis Afarer lentomis, per 18 mėnesių apmokyti ir sertifikuoti 80 instruktorių visoje Australijoje ir generuoti AU$1.2M programos pajamų derinant lentų pardavimus, sertifikavimo mokesčius ir prekes.",
+            goal: "Sukurti išsamią 'Canine SUP Certification' programą su pagal užsakymą pagamintomis OLagoon lentomis, per 18 mėnesių apmokyti ir sertifikuoti 80 instruktorių visoje Australijoje ir generuoti AU$1.2M programos pajamų derinant lentų pardavimus, sertifikavimo mokesčius ir prekes.",
           },
           steps: [
             {
               title: 'Šunų elgsenos analizė ir SUP mokymų protokolo kūrimas',
               detail:
-                "Locky tris mėnesius, nuo 2024 m. spalio iki gruodžio, dirbo su Afarer produktų komanda ir Kvinslando universiteto gyvūnų biomechanikos tyrėju, kurdamas lentą, optimizuotą šunų balanso mokymams. Jie sukūrė 12' x 34'' plačią platformą su itin minkštu EVA denio apmušalu (8mm vietoj standartinių 4mm), žemo profilio bortais, palengvinančiais šuns užlipimą ant lentos, ir neslystančiu tekstūruotu paviršiumi, išbandytu su 14 šunų veislių. Locky išbandė 30 šunų su 6 prototipų iteracijomis ir sukūrė 5 etapų šunų SUP mokymo protokolą: 1 etapas (susipažinimas su lenta sausumoje), 2 etapas (statinis plūduriavimas), 3 etapas (irklavimas sėdint), 4 etapas (irklavimas stovint, šuniui sėdint), 5 etapas (pilnas irklavimas su stovinčiu šunimi). Afarer pagamino 200 instruktorių klasės lentų su pritaikyta 'Blue Heeler' grafika, vaizduojančia Australijos galvijų šuns siluetą.",
+                "Locky tris mėnesius, nuo 2024 m. spalio iki gruodžio, dirbo su OLagoon produktų komanda ir Kvinslando universiteto gyvūnų biomechanikos tyrėju, kurdamas lentą, optimizuotą šunų balanso mokymams. Jie sukūrė 12' x 34'' plačią platformą su itin minkštu EVA denio apmušalu (8mm vietoj standartinių 4mm), žemo profilio bortais, palengvinančiais šuns užlipimą ant lentos, ir neslystančiu tekstūruotu paviršiumi, išbandytu su 14 šunų veislių. Locky išbandė 30 šunų su 6 prototipų iteracijomis ir sukūrė 5 etapų šunų SUP mokymo protokolą: 1 etapas (susipažinimas su lenta sausumoje), 2 etapas (statinis plūduriavimas), 3 etapas (irklavimas sėdint), 4 etapas (irklavimas stovint, šuniui sėdint), 5 etapas (pilnas irklavimas su stovinčiu šunimi). OLagoon pagamino 200 instruktorių klasės lentų su pritaikyta 'Blue Heeler' grafika, vaizduojančia Australijos galvijų šuns siluetą.",
             },
             {
               title: 'Instruktorių sertifikavimo programa ir reguliavimo sistema',
               detail:
-                'Locky ir Afarer bendrai sukūrė 3 lygių šunų SUP instruktorių sertifikavimą: 1 lygis (40 valandų internetu + savaitgalio praktika), 2 lygis (10 dienų pažengusiems su gelbėjimu vandenyje), 3 lygis (14 dienų meistro instruktoriaus). Programa apėmė šunų elgseną vandenyje, šunų pirmąją pagalbą, veislėms būdingus mokymo metodus, Australijos vandens saugos taisykles, draudimo reikalavimus ir verslo įkūrimą. Afarer finansavo 25 valandų HD vaizdo įrašų, nufilmuotų Noosa upėje, kūrimą ir parengė 200 puslapių instruktorių vadovą. Locky sertifikavimo programą paleido 2025 m. vasarį su pradine 24 kandidatų grupe — visi 24 išlaikė 1 lygį, o 18 tęsė į 2 lygį.',
+                'Locky ir OLagoon bendrai sukūrė 3 lygių šunų SUP instruktorių sertifikavimą: 1 lygis (40 valandų internetu + savaitgalio praktika), 2 lygis (10 dienų pažengusiems su gelbėjimu vandenyje), 3 lygis (14 dienų meistro instruktoriaus). Programa apėmė šunų elgseną vandenyje, šunų pirmąją pagalbą, veislėms būdingus mokymo metodus, Australijos vandens saugos taisykles, draudimo reikalavimus ir verslo įkūrimą. OLagoon finansavo 25 valandų HD vaizdo įrašų, nufilmuotų Noosa upėje, kūrimą ir parengė 200 puslapių instruktorių vadovą. Locky sertifikavimo programą paleido 2025 m. vasarį su pradine 24 kandidatų grupe — visi 24 išlaikė 1 lygį, o 18 tęsė į 2 lygį.',
             },
             {
               title: 'Įrangos asortimentas, mažmeninė prekyba ir YouTube pristatymas',
               detail:
-                "Locky 'Blue Heeler Expeditions' prekės ženklas pristatė 4 mažmeninės prekybos produktus: 'Blue' (12' instruktoriaus lenta už AU$899), 'Heeler' (10'6\" poilsio šunų lenta už AU$649), specialiai šunims skirtą gelbėjimosi liemenę (AU$89) ir mokymo saugos sistemą (AU$39). Afarer pagamino 1,000 vienetų pradiniam mažmeninės prekybos ir instruktorių kanalui. Locky išleido 6 dalių YouTube serialą 'Paddle Paws', dokumentuojantį mokymo protokolą — pirmoji serija per 2 savaites surinko 2.1M peržiūrų. Per 30 dienų Locky svetainė gavo 47,000 užsakymų užklausų, o 340 australų užsirašė į instruktorių sertifikavimo laukiančiųjų sąrašą.",
+                "Locky 'Blue Heeler Expeditions' prekės ženklas pristatė 4 mažmeninės prekybos produktus: 'Blue' (12' instruktoriaus lenta už AU$899), 'Heeler' (10'6\" poilsio šunų lenta už AU$649), specialiai šunims skirtą gelbėjimosi liemenę (AU$89) ir mokymo saugos sistemą (AU$39). OLagoon pagamino 1,000 vienetų pradiniam mažmeninės prekybos ir instruktorių kanalui. Locky išleido 6 dalių YouTube serialą 'Paddle Paws', dokumentuojantį mokymo protokolą — pirmoji serija per 2 savaites surinko 2.1M peržiūrų. Per 30 dienų Locky svetainė gavo 47,000 užsakymų užklausų, o 340 australų užsirašė į instruktorių sertifikavimo laukiančiųjų sąrašą.",
             },
             {
               title: 'Programos mastelis, nacionalinė plėtra ir tarptautinės užklausos',
               detail:
-                'Iki 2025 m. rugpjūčio Blue Heeler Expeditions turėjo 85 sertifikuotus instruktorius visose Australijos valstijose (5 daugiau nei 18 mėnesių tikslas, pasiektas per 6 mėnesius). Instruktoriai mokėjo AU$2,500 už 1 lygio sertifikavimą ir AU$899 už lentą, generuodami AU$296K sertifikavimo pajamų. Locky pardavė 1,400 mažmeninių lentų augintinių savininkams, 200 instruktorių klasės lentų sertifikuotiems treneriams ir 3,400 šunų gelbėjimosi liemenių. Bendrosios programos pajamos per 8 mėnesius pasiekė AU$1.85M (54% daugiau nei AU$1.2M 18 mėnesių tikslas). Locky gavo užklausų iš 14 šalių ir pasirašė licencijos sutartį su JAV partneriu dėl Šiaurės Amerikos versijos. Afarer įsipareigojo išskirtinei 3 metų pasaulinei partnerystei dėl šunų SUP produktų linijos.',
+                'Iki 2025 m. rugpjūčio Blue Heeler Expeditions turėjo 85 sertifikuotus instruktorius visose Australijos valstijose (5 daugiau nei 18 mėnesių tikslas, pasiektas per 6 mėnesius). Instruktoriai mokėjo AU$2,500 už 1 lygio sertifikavimą ir AU$899 už lentą, generuodami AU$296K sertifikavimo pajamų. Locky pardavė 1,400 mažmeninių lentų augintinių savininkams, 200 instruktorių klasės lentų sertifikuotiems treneriams ir 3,400 šunų gelbėjimosi liemenių. Bendrosios programos pajamos per 8 mėnesius pasiekė AU$1.85M (54% daugiau nei AU$1.2M 18 mėnesių tikslas). Locky gavo užklausų iš 14 šalių ir pasirašė licencijos sutartį su JAV partneriu dėl Šiaurės Amerikos versijos. OLagoon įsipareigojo išskirtinei 3 metų pasaulinei partnerystei dėl šunų SUP produktų linijos.',
             },
           ],
           results: [
@@ -4929,8 +4929,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl augintinių nuotykių prekės ženklai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl augintinių nuotykių prekės ženklai renkasi OLagoon',
       items: [
         {
           title: 'Augintinių saugumas',
@@ -4974,26 +4974,26 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar augintinių prekės ženklai gali tinkinti SUP lentas savo logotipu ir spalvomis?',
         answer:
-          'Žinoma. Afarer siūlo visapusį prekės ženklo tinkinimą, įskaitant logotipo išdėstymą, tinkintą spalvų derinimą, grafinį dizainą ir prekės ženklo pakuotes. Taip pat palaikome riboto tiražo kolekcijas augintinių įtakos asmenims ir sezoniniams produktų paleidimams.',
+          'Žinoma. OLagoon siūlo visapusį prekės ženklo tinkinimą, įskaitant logotipo išdėstymą, tinkintą spalvų derinimą, grafinį dizainą ir prekės ženklo pakuotes. Taip pat palaikome riboto tiražo kolekcijas augintinių įtakos asmenims ir sezoniniams produktų paleidimams.',
       },
       {
         question: 'Kokio dydžio lenta rekomenduojama irklauti su šunimi?',
         answer:
-          'Irklaujant su šunimis rekomenduojamos platesnės lentos su didesniu denio plotu. Afarer augintiniams draugiški dizainai pasižymi padidintu lentos pločiu ir ilgomis visą denį apimančiomis veiklos zonomis, patogiai talpinančiomis mažus, vidutinius ir didelis šunis, kartu išlaikant stabilumą.',
+          'Irklaujant su šunimis rekomenduojamos platesnės lentos su didesniu denio plotu. OLagoon augintiniams draugiški dizainai pasižymi padidintu lentos pločiu ir ilgomis visą denį apimančiomis veiklos zonomis, patogiai talpinančiomis mažus, vidutinius ir didelis šunis, kartu išlaikant stabilumą.',
       },
       {
         question: 'Ar siūlote išsamius augintinių SUP paketus su priedais?',
         answer:
-          'Taip, Afarer siūlo standartinius augintinių SUP paketus, įskaitant lentą, irklą, siurblį, pančią, nešiojamąjį maišą ir remonto rinkinį, taip pat premium šunų nuotykių paketus su augintinių saugumo priedais ir kelioninius augintinių paketus, optimizuotus automobilio kelionėms ir stovyklavimui.',
+          'Taip, OLagoon siūlo standartinius augintinių SUP paketus, įskaitant lentą, irklą, siurblį, pančią, nešiojamąjį maišą ir remonto rinkinį, taip pat premium šunų nuotykių paketus su augintinių saugumo priedais ir kelioninius augintinių paketus, optimizuotus automobilio kelionėms ir stovyklavimui.',
       },
       {
         question: 'Koks yra minimalus pagal užsakymą gaminamų augintiniams draugiškų SUP lentų užsakymo kiekis?',
         answer:
-          'Afarer bendradarbiauja su įvairaus dydžio augintinių prekės ženklais. Minimalūs užsakymo kiekiai gali būti struktūruoti pagal prekės ženklo stadiją — nuo mažų serijų riboto tiražo paleidimų augintinių įtakos asmenims iki pilno masto gamybos serijų įsitvirtinusiems augintinių lauko prekės ženklams.',
+          'OLagoon bendradarbiauja su įvairaus dydžio augintinių prekės ženklais. Minimalūs užsakymo kiekiai gali būti struktūruoti pagal prekės ženklo stadiją — nuo mažų serijų riboto tiražo paleidimų augintinių įtakos asmenims iki pilno masto gamybos serijų įsitvirtinusiems augintinių lauko prekės ženklams.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo augintinių nuotykių SUP prekės ženklą su Afarer',
+      title: 'Sukurkite savo augintinių nuotykių SUP prekės ženklą su OLagoon',
       subtitle: 'Augintinių produktų ateitis yra ne tik patalpose. Ji — lauke.',
       primaryAction: {
         text: 'Pradėkite savo augintiniams draugišką SUP projektą jau šiandien',
@@ -5008,7 +5008,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Komercinės SUP įrangos tiekėjas | Paplūdimio nuomos parko sprendimai | {SITE}',
       description:
-        'Afarer teikia komercinio SUP parko sprendimus paplūdimio poilsio verslui ir vandens sporto centrams. Ilgaamžės nuomos SUP lentos, išsamūs įrangos paketai, atsarginių dalių palaikymas ir OEM pritaikymas.',
+        'OLagoon teikia komercinio SUP parko sprendimus paplūdimio poilsio verslui ir vandens sporto centrams. Ilgaamžės nuomos SUP lentos, išsamūs įrangos paketai, atsarginių dalių palaikymas ir OEM pritaikymas.',
     },
     hero: {
       tagline: 'Išsamūs paplūdimio veiklų įrangos sprendimai™',
@@ -5049,37 +5049,37 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Komercinio lygio SUP parko dizainas',
           description:
-            'Afarer kuria SUP produktus specialiai komercinei aplinkai — sutvirtinta PVC konstrukcija, tvirta siūlių technologija, atsparios EVA denų sistemos ir komercinio lygio aksesuarai, įskaitant ilgaamžius irklus bei siurbius.',
+            'OLagoon kuria SUP produktus specialiai komercinei aplinkai — sutvirtinta PVC konstrukcija, tvirta siūlių technologija, atsparios EVA denų sistemos ir komercinio lygio aksesuarai, įskaitant ilgaamžius irklus bei siurbius.',
           features: ['Sutvirtinta konstrukcija', 'Atspari EVA denų sistema', 'Komerciniai aksesuarai'],
         },
         {
           title: 'Išsamus nuomos parko planavimas',
           description:
-            'Afarer padeda parinkti tinkamą įrangos derinį paplūdimio nuomos parkams su stabiliai universalios SUP lentomis, vandens sporto centrų parkams su keliais dydžiais ir instruktorių lentomis, o kurortų veiklų parkams — su prekės ženklo premium įranga.',
+            'OLagoon padeda parinkti tinkamą įrangos derinį paplūdimio nuomos parkams su stabiliai universalios SUP lentomis, vandens sporto centrų parkams su keliais dydžiais ir instruktorių lentomis, o kurortų veiklų parkams — su prekės ženklo premium įranga.',
           features: ['Paplūdimio nuomos parkas', 'Vandens sporto centro parkas', 'Kurortų veiklų parkas'],
         },
         {
           title: 'Didelio atsparumo nuomos SUP konfigūracija',
           description:
-            'Afarer optimizuoja produktus atsparumui įbrėžimams nuo paplūdimio smėlio ir dažno naudojimo, lengvam remontui su remonto rinkiniais ir standartizuotais komponentais bei ilgam tarnavimo laikui, maksimaliai didinant įrangos ROI.',
+            'OLagoon optimizuoja produktus atsparumui įbrėžimams nuo paplūdimio smėlio ir dažno naudojimo, lengvam remontui su remonto rinkiniais ir standartizuotais komponentais bei ilgam tarnavimo laikui, maksimaliai didinant įrangos ROI.',
           features: ['Atsparumas įbrėžimams', 'Lengvas remontas', 'Ilgas tarnavimo laikas'],
         },
         {
           title: 'Standartizuota atsarginių dalių sistema',
           description:
-            'Afarer palaiko komercinius operatorius su keičiamaisiais aksesuarais, įskaitant vožtuvus, saugos virves, irklus, siurbius ir remonto medžiagas, taip pat parko priežiūros planavimą kasdienei apžiūrai ir sezoninei priežiūrai.',
+            'OLagoon palaiko komercinius operatorius su keičiamaisiais aksesuarais, įskaitant vožtuvus, saugos virves, irklus, siurbius ir remonto medžiagas, taip pat parko priežiūros planavimą kasdienei apžiūrai ir sezoninei priežiūrai.',
           features: ['Keičiamieji aksesuarai', 'Parko priežiūros planavimas', 'Greitas atstatymas'],
         },
         {
           title: 'Išsamūs paplūdimio veiklų paketai',
           description:
-            'Afarer teikia SUP nuomos paketus su komercinėmis lentomis ir aksesuarais, šeimos vandens veiklų paketus kurortams ir turizmo vietovėms bei grupinių renginių paketus įmonių ir mokyklų veikloms.',
+            'OLagoon teikia SUP nuomos paketus su komercinėmis lentomis ir aksesuarais, šeimos vandens veiklų paketus kurortams ir turizmo vietovėms bei grupinių renginių paketus įmonių ir mokyklų veikloms.',
           features: ['SUP nuomos paketas', 'Šeimos vandens veiklų paketas', 'Grupinių renginių paketas'],
         },
         {
           title: 'Prekės ženklo ir verslo pritaikymas',
           description:
-            'Afarer palaiko operatoriaus prekės ženklo pritaikymą su logotipų spausdinimu ir spalvomis, turizmo patirčių dizainą kuriant prekės ženklo veiklas ir fotografavimo galimybes bei kurortų ir paplūdimių integravimą, atitinkantį vietovės identitetą.',
+            'OLagoon palaiko operatoriaus prekės ženklo pritaikymą su logotipų spausdinimu ir spalvomis, turizmo patirčių dizainą kuriant prekės ženklo veiklas ir fotografavimo galimybes bei kurortų ir paplūdimių integravimą, atitinkantį vietovės identitetą.',
           features: [
             'Operatoriaus prekės ženklo pritaikymas',
             'Turizmo patirčių dizainas',
@@ -5089,13 +5089,13 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Saugus ir pradedantiesiems patogus dizainas',
           description:
-            'Afarer didelį dėmesį skiria stabilumo dizainui su platesnėmis lentų formomis turistams ir šeimoms bei lengvam valdymui, padedančiam pirmą kartą irkluojantiems greitai, užtikrintai ir saugiai mėgautis patirtimi.',
+            'OLagoon didelį dėmesį skiria stabilumo dizainui su platesnėmis lentų formomis turistams ir šeimoms bei lengvam valdymui, padedančiam pirmą kartą irkluojantiems greitai, užtikrintai ir saugiai mėgautis patirtimi.',
           features: ['Stabilumo dizainas', 'Lengvas valdymas', 'Pradedantiesiems tinkamas darbas'],
         },
         {
           title: 'Sezoninio verslo aprūpinimo palaikymas',
           description:
-            'Afarer padeda operatoriams valdyti priešsezoninį planavimą parko atrankai ir gamybos grafikams, sezoninį keitimą papildomai įrangai ir atsarginėms dalims bei ilgalaikį parko augimą nuo mažų operacijų iki didelių centrų.',
+            'OLagoon padeda operatoriams valdyti priešsezoninį planavimą parko atrankai ir gamybos grafikams, sezoninį keitimą papildomai įrangai ir atsarginėms dalims bei ilgalaikį parko augimą nuo mažų operacijų iki didelių centrų.',
           features: ['Priešsezoninis planavimas', 'Sezoninis keitimas', 'Ilgalaikis parko augimas'],
         },
       ],
@@ -5112,7 +5112,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Parko planavimas',
           detail:
-            'Afarer sukūrė komercinės SUP įrangos paketą, apimantį stabilias universalias lentas, atsparius aksesuarus ir atsargines dalis, pritaikytas operatoriaus paplūdimio aplinkai.',
+            'OLagoon sukūrė komercinės SUP įrangos paketą, apimantį stabilias universalias lentas, atsparius aksesuarus ir atsargines dalis, pritaikytas operatoriaus paplūdimio aplinkai.',
         },
         {
           title: 'Produkto pritaikymas',
@@ -5149,27 +5149,27 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Išsamus kurortų vertinimas ir įrangos specifikacija',
               detail:
-                '2024 m. rugsėjį Carlos ir Afarer svetingumo sprendimų komanda atliko 5 dienų vietos auditą visuose 3 objektuose. Jie analizavo svečių demografiją, pikinio naudojimo modelius, sandėliavimo apribojimus, personalo skaičių ir sūraus vandens poveikio sąlygas. Auditas atskleidė, kad dėl įrangos prastovų per metus prarandama daugiau nei 60 svečių dienų, o esamos lentos Karibų saulėje ir druskoje išsilaikydavo tik 8-12 mėnesių. Afarer pasiūlė 140 vienetų parką: 100 SUP (10\'6" universalios), 20 skaidraus dugno SUP lentų koralams stebėti, 20 pedalininkių lentų ir 10 dviviečių žvejybos SUP. Kiekviena lenta turėjo UV stabilizuotą jūrinį PVC su 5 metų komercine garantija, nerūdijančio plieno furnitūrą ir Hyatt Ziva prekės ženklo grafinius elementus ženklo išskirtinėmis turkio ir baltos spalvomis.',
+                '2024 m. rugsėjį Carlos ir OLagoon svetingumo sprendimų komanda atliko 5 dienų vietos auditą visuose 3 objektuose. Jie analizavo svečių demografiją, pikinio naudojimo modelius, sandėliavimo apribojimus, personalo skaičių ir sūraus vandens poveikio sąlygas. Auditas atskleidė, kad dėl įrangos prastovų per metus prarandama daugiau nei 60 svečių dienų, o esamos lentos Karibų saulėje ir druskoje išsilaikydavo tik 8-12 mėnesių. OLagoon pasiūlė 140 vienetų parką: 100 SUP (10\'6" universalios), 20 skaidraus dugno SUP lentų koralams stebėti, 20 pedalininkių lentų ir 10 dviviečių žvejybos SUP. Kiekviena lenta turėjo UV stabilizuotą jūrinį PVC su 5 metų komercine garantija, nerūdijančio plieno furnitūrą ir Hyatt Ziva prekės ženklo grafinius elementus ženklo išskirtinėmis turkio ir baltos spalvomis.',
             },
             {
               title: 'Paplūdimio operacijų infrastruktūra ir sandėliavimo sprendimai',
               detail:
-                'Afarer komanda kiekvienam kurortui suprojektavo išsamų paplūdimio operacijų centrą: 40 pėdų užrakinamas konteineris, paverstas saugia įrangos patalpa su saulės energija varomu ventiliavimu, 10 atsparių elektrinių pripūtimo stočių su skaitmeniniais slėgio matuokliais, mobili 50 lentų laikymo sistema su nuotėkio džiovinimu bei remonto ir priežiūros stotis su atsarginiais vožtuvais, lopų rinkiniais ir valymo priemonėmis. Puerto Morelos objektas gavo atskirą paplūdimio kioską su įrangos išdavimo stendu, gelbėjimosi liemenių siena ir skaitmeniniu užimtumo ekranu. Afarer montavimo komanda kiekviename objekte praleido 2 savaites, pertvarkydama esamas sandėliavimo vietas ir mokydama priežiūros personalą tinkamos priežiūros procedūrų, įskaitant gėlo vandens skalavimo protokolą po kiekvieno naudojimo.',
+                'OLagoon komanda kiekvienam kurortui suprojektavo išsamų paplūdimio operacijų centrą: 40 pėdų užrakinamas konteineris, paverstas saugia įrangos patalpa su saulės energija varomu ventiliavimu, 10 atsparių elektrinių pripūtimo stočių su skaitmeniniais slėgio matuokliais, mobili 50 lentų laikymo sistema su nuotėkio džiovinimu bei remonto ir priežiūros stotis su atsarginiais vožtuvais, lopų rinkiniais ir valymo priemonėmis. Puerto Morelos objektas gavo atskirą paplūdimio kioską su įrangos išdavimo stendu, gelbėjimosi liemenių siena ir skaitmeniniu užimtumo ekranu. OLagoon montavimo komanda kiekviename objekte praleido 2 savaites, pertvarkydama esamas sandėliavimo vietas ir mokydama priežiūros personalą tinkamos priežiūros procedūrų, įskaitant gėlo vandens skalavimo protokolą po kiekvieno naudojimo.',
             },
             {
               title: 'Veiklų programa, personalo mokymai ir svečių patirties dizainas',
               detail:
-                'Afarer sukūrė kiekvienam kurortui pakopinę veiklų programą: nemokamą (SUP nuoma 1 valandos seansams), vedamą (rytinė SUP joga už $45/pp, saulėlydžio koralų turai už $55/pp) ir premium (privatūs irklavimo piknikai už $120/pp). Afarer treneriai 3 kurortuose praleido 12 dienų ir apmokė 24 poilsio darbuotojus įrangos naudojimo, svečių instruktavimo, saugos protokolų ir pagrindinio remonto klausimais. Mokymai apėmė Meksikos vandens sporto operatorių asociacijos pripažintą sertifikavimo programą. Carlos komanda paleido QR kodo rezervavimo sistemą, integruotą su Hyatt svečių programa, leidžiančia svečiams rezervuoti įrangą 48 valandoms į priekį.',
+                'OLagoon sukūrė kiekvienam kurortui pakopinę veiklų programą: nemokamą (SUP nuoma 1 valandos seansams), vedamą (rytinė SUP joga už $45/pp, saulėlydžio koralų turai už $55/pp) ir premium (privatūs irklavimo piknikai už $120/pp). OLagoon treneriai 3 kurortuose praleido 12 dienų ir apmokė 24 poilsio darbuotojus įrangos naudojimo, svečių instruktavimo, saugos protokolų ir pagrindinio remonto klausimais. Mokymai apėmė Meksikos vandens sporto operatorių asociacijos pripažintą sertifikavimo programą. Carlos komanda paleido QR kodo rezervavimo sistemą, integruotą su Hyatt svečių programa, leidžiančia svečiams rezervuoti įrangą 48 valandoms į priekį.',
             },
             {
               title: 'Sezoninės operacijos, rezultatų sekimas ir ROI analizė',
               detail:
-                'Visa programa startavo 2025 m. sausio 15 d., o iki 2025 m. birželio paremė 14 200 svečių patirčių be jokių saugos incidentų. Vandens sporto veiklų svečių pasitenkinimas vidutiniškai siekė 4,7/5, o aukščiausius įvertinimus gavo skaidraus dugno SUP lentos (4,9/5). Įrangos priežiūros išlaidos, palyginti su ankstesnių metų skirtingų tiekėjų programa, sumažėjo 42 % — nuo $34K iki $19.7K visuose 3 objektuose. Premium vedamos programos per pirmuosius 6 mėnesius sugeneravo $112K papildomų pajamų. Carlos komanda pranešė apie 22 % daugiau svečių, prailginančių viešnagę bent 1 nakvyne konkrečiai dėl vandens sporto. Hyatt Inclusive Collection patvirtino $240K biudžetą 2026 m., kad Afarer įranga būtų papildyti dar 2 objektai Dominikos Respublikoje ir Jamaikoje.',
+                'Visa programa startavo 2025 m. sausio 15 d., o iki 2025 m. birželio paremė 14 200 svečių patirčių be jokių saugos incidentų. Vandens sporto veiklų svečių pasitenkinimas vidutiniškai siekė 4,7/5, o aukščiausius įvertinimus gavo skaidraus dugno SUP lentos (4,9/5). Įrangos priežiūros išlaidos, palyginti su ankstesnių metų skirtingų tiekėjų programa, sumažėjo 42 % — nuo $34K iki $19.7K visuose 3 objektuose. Premium vedamos programos per pirmuosius 6 mėnesius sugeneravo $112K papildomų pajamų. Carlos komanda pranešė apie 22 % daugiau svečių, prailginančių viešnagę bent 1 nakvyne konkrečiai dėl vandens sporto. Hyatt Inclusive Collection patvirtino $240K biudžetą 2026 m., kad OLagoon įranga būtų papildyti dar 2 objektai Dominikos Respublikoje ir Jamaikoje.',
             },
           ],
           results: [
             'Daugiau nei 14 200 svečių patirčių per pirmuosius 6 mėnesius be saugos incidentų ir su 4,7/5 svečių pasitenkinimu vandens sporto veikloms',
-            'Įrangos priežiūros išlaidos sumažintos 42 % — nuo $34K iki $19.7K per metus dėl Afarer komercinės konstrukcijos ir UV stabilizuotų medžiagų',
+            'Įrangos priežiūros išlaidos sumažintos 42 % — nuo $34K iki $19.7K per metus dėl OLagoon komercinės konstrukcijos ir UV stabilizuotų medžiagų',
             'Premium vedamos programos per 6 mėnesius sugeneravo $112K papildomų pajamų, o SUP joga ir saulėlydžio koralų turai tapo populiariausiomis',
             '22 % daugiau svečių prailgino viešnagę bent 1 nakvyne vandens sportą nurodant kaip svarbų veiksnį — tai sudarė apie $340K papildomų kambarių pajamų',
           ],
@@ -5186,22 +5186,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Kelių objektų poreikių analizė ir tinkinto parko inžinerija',
               detail:
-                '2024 m. spalį Afarer svetingumo komanda per 10 dienų Kikladų turą atliko atskirus įvertinimus kiekvienoje BlueWave vietovėje. Kiekvienas klubas turėjo skirtingas sąlygas: Mykonasas (užimtos įlankos, aukšto lygio klientai, vėjo poveikis), Santorinis (vulkaninis smėlis, ramesni vandenys, saulėlydžio turizmas), Naksas (šeimai orientuota, sekli vandens dalis, ilgesnė pakrantė), Paros (perėjimas prie buriavimo lentomis, sportiški klientai) ir Kreta (didesnės bangos, mišri demografija). Afarer suprojektavo 200 vienetų parką su vietovėms pritaikytomis konfigūracijomis: 110 SUP (įskaitant 20 prailgintų SUP jogos platformų ir 20 skaidraus dugno lentų), 30 pedalininkių lentų premium svečiams, 30 windSUP hibridų Mykonasui ir Paros bei 30 jaunimo lentų Nakso šeimos programoms. Visi vienetai turėjo BlueWave išskirtinę tamsiai mėlynos ir baltos spalvų schemą su auksiniais logotipais.',
+                '2024 m. spalį OLagoon svetingumo komanda per 10 dienų Kikladų turą atliko atskirus įvertinimus kiekvienoje BlueWave vietovėje. Kiekvienas klubas turėjo skirtingas sąlygas: Mykonasas (užimtos įlankos, aukšto lygio klientai, vėjo poveikis), Santorinis (vulkaninis smėlis, ramesni vandenys, saulėlydžio turizmas), Naksas (šeimai orientuota, sekli vandens dalis, ilgesnė pakrantė), Paros (perėjimas prie buriavimo lentomis, sportiški klientai) ir Kreta (didesnės bangos, mišri demografija). OLagoon suprojektavo 200 vienetų parką su vietovėms pritaikytomis konfigūracijomis: 110 SUP (įskaitant 20 prailgintų SUP jogos platformų ir 20 skaidraus dugno lentų), 30 pedalininkių lentų premium svečiams, 30 windSUP hibridų Mykonasui ir Paros bei 30 jaunimo lentų Nakso šeimos programoms. Visi vienetai turėjo BlueWave išskirtinę tamsiai mėlynos ir baltos spalvų schemą su auksiniais logotipais.',
             },
             {
               title: 'Vietovėms pritaikyta infrastruktūra ir logistikos įgyvendinimas',
               detail:
-                'Afarer operacijų komanda parengė logistikos planą, perveždama 40 konteinerių į 5 salas ir koordinuodama perkėlimus tarp salų su BlueWave vietiniais logistikos partneriais. Kiekviena vietovė gavo tinkintą sandėliavimo sprendimą: Mykonasas — oro kondicionuojamą pakrantės sandėlį su UV apsaugotomis laikymo sistemomis, Santorinis — skardžio keltuvo sistemą lentų transportavimui iš sandėlio į paplūdimį, Naksas — šeimai draugišką nuomos kioską su vaikų įrangos ekspozicija, o Paros ir Kreta — dvigubos paskirties sandėlius, pavirstančius vėjo apsaugos barjerais. Afarer įdiegė bendrą skaitmeninę rezervavimo sistemą visuose 5 objektuose ir per 2 savaičių intensyvią programą Mykonaso flagmano vietoje 2025 m. balandį apmokė 35 BlueWave darbuotojus.',
+                'OLagoon operacijų komanda parengė logistikos planą, perveždama 40 konteinerių į 5 salas ir koordinuodama perkėlimus tarp salų su BlueWave vietiniais logistikos partneriais. Kiekviena vietovė gavo tinkintą sandėliavimo sprendimą: Mykonasas — oro kondicionuojamą pakrantės sandėlį su UV apsaugotomis laikymo sistemomis, Santorinis — skardžio keltuvo sistemą lentų transportavimui iš sandėlio į paplūdimį, Naksas — šeimai draugišką nuomos kioską su vaikų įrangos ekspozicija, o Paros ir Kreta — dvigubos paskirties sandėlius, pavirstančius vėjo apsaugos barjerais. OLagoon įdiegė bendrą skaitmeninę rezervavimo sistemą visuose 5 objektuose ir per 2 savaičių intensyvią programą Mykonaso flagmano vietoje 2025 m. balandį apmokė 35 BlueWave darbuotojus.',
             },
             {
               title: 'Veiklų programos standartizavimas ir premium pakopos kūrimas',
               detail:
-                'Dimitri komanda paleido standartizuotą BlueWave vandens sporto programą „Aegean Blue Experiences“ su 3 pakopomis: nemokama (30 minučių SUP seansai klubo svečiams), premium (vedami SUP žygiai į atokusius paplūdimius už €65-€95) ir ultra premium (privatūs jachta pervežami irklavimo renginiai už €250/pp su šampano pikniku paplūdimyje). Afarer programavimo komanda sukūrė 12 vedamų maršrutų 5 salose su GPS sekamais maršrutais, lankytinų vietų žymekliais ir fotografo palaikymu. Mykonaso objektas taip pat paleido „Sunset SUP at Little Venice“ — 2 valandų vedamą vakaro irklavimą, kurio kiekviena sesija už €85/pp išsipirkdavo per vasarą su 95 % užimtumu.',
+                'Dimitri komanda paleido standartizuotą BlueWave vandens sporto programą „Aegean Blue Experiences“ su 3 pakopomis: nemokama (30 minučių SUP seansai klubo svečiams), premium (vedami SUP žygiai į atokusius paplūdimius už €65-€95) ir ultra premium (privatūs jachta pervežami irklavimo renginiai už €250/pp su šampano pikniku paplūdimyje). OLagoon programavimo komanda sukūrė 12 vedamų maršrutų 5 salose su GPS sekamais maršrutais, lankytinų vietų žymekliais ir fotografo palaikymu. Mykonaso objektas taip pat paleido „Sunset SUP at Little Venice“ — 2 valandų vedamą vakaro irklavimą, kurio kiekviena sesija už €85/pp išsipirkdavo per vasarą su 95 % užimtumu.',
             },
             {
               title: 'Sezono rezultatų apžvalga ir programos tvarumas',
               detail:
-                'Per 2025 m. gegužės-rugsėjo sezoną BlueWave vieningas parkas 5 vietovėse paremė 52 000 svečių nuomų (4 % daugiau nei 50 000 tikslas). Bendrosios įrangos išlaidos sudarė $198K, paskirstyti per 5 metų Afarer garantinį laikotarpį, palyginti su ankstesniais $165K kasmetiniais įrangos išlaidais su keitimu kas 18 mėnesių — 52 % metinis išlaidų sumažėjimas. Vandens sporto svečių pasitenkinimas visose vietovėse pagerėjo nuo 3,8/5 (skirtingi tiekėjai, iki 2025 m.) iki 4,6/5. Dimitri pranešė apie €340K premium programų pajamų (SUP joga, vedami turai, saulėlydžio irklavimai) — tai sudarė 4,7 karto investicijos grąžą per vieną sezoną. BlueWave su Afarer pasirašė 3 metų atnaujinimą ir 2026 m. plečiasi dar 2 vietovėse Rodo ir Korfu salose, pridėdama dar 80 lentų.',
+                'Per 2025 m. gegužės-rugsėjo sezoną BlueWave vieningas parkas 5 vietovėse paremė 52 000 svečių nuomų (4 % daugiau nei 50 000 tikslas). Bendrosios įrangos išlaidos sudarė $198K, paskirstyti per 5 metų OLagoon garantinį laikotarpį, palyginti su ankstesniais $165K kasmetiniais įrangos išlaidais su keitimu kas 18 mėnesių — 52 % metinis išlaidų sumažėjimas. Vandens sporto svečių pasitenkinimas visose vietovėse pagerėjo nuo 3,8/5 (skirtingi tiekėjai, iki 2025 m.) iki 4,6/5. Dimitri pranešė apie €340K premium programų pajamų (SUP joga, vedami turai, saulėlydžio irklavimai) — tai sudarė 4,7 karto investicijos grąžą per vieną sezoną. BlueWave su OLagoon pasirašė 3 metų atnaujinimą ir 2026 m. plečiasi dar 2 vietovėse Rodo ir Korfu salose, pridėdama dar 80 lentų.',
             },
           ],
           results: [
@@ -5213,8 +5213,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl paplūdimio operatoriai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl paplūdimio operatoriai renkasi OLagoon',
       items: [
         {
           title: 'Ilgaamžiškumas',
@@ -5251,22 +5251,22 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Su kiek SUP lentų turėčiau pradėti paplūdimio nuomos verslą?',
         answer:
-          'Afarer rekomenduoja mažoms paplūdimio operacijoms pradėti nuo 10-20 lentų, įsikūrusioms nuomos įmonėms didinti iki 30-50, o dideliems vandens sporto centrams — 50+. Parko planavimas apima įvairių lentų dydžių ir konfigūracijų derinį, kad būtų aptarnaujami skirtingi klientai — nuo pradedančiųjų iki patyrusių irkluotojų.',
+          'OLagoon rekomenduoja mažoms paplūdimio operacijoms pradėti nuo 10-20 lentų, įsikūrusioms nuomos įmonėms didinti iki 30-50, o dideliems vandens sporto centrams — 50+. Parko planavimas apima įvairių lentų dydžių ir konfigūracijų derinį, kad būtų aptarnaujami skirtingi klientai — nuo pradedančiųjų iki patyrusių irkluotojų.',
       },
       {
-        question: 'Kokias atsargines dalis ir kokį priežiūros palaikymą Afarer teikia nuomos parkams?',
+        question: 'Kokias atsargines dalis ir kokį priežiūros palaikymą OLagoon teikia nuomos parkams?',
         answer:
-          'Afarer teikia standartizuotą atsarginių dalių sistemą, įskaitant vožtuvus, saugos virves, irklus, siurbius ir remonto medžiagas. Taip pat siūlome parko priežiūros planavimo vadovus kasdienei apžiūrai, sezoninei priežiūrai ir greito atstatymo procedūroms, siekiant kuo labiau sumažinti įrangos prastovas.',
+          'OLagoon teikia standartizuotą atsarginių dalių sistemą, įskaitant vožtuvus, saugos virves, irklus, siurbius ir remonto medžiagas. Taip pat siūlome parko priežiūros planavimo vadovus kasdienei apžiūrai, sezoninei priežiūrai ir greito atstatymo procedūroms, siekiant kuo labiau sumažinti įrangos prastovas.',
       },
       {
         question: 'Ar SUP lentos gali būti pritaikytos su mano verslo logotipu ir prekės ženklu?',
         answer:
-          'Taip, Afarer palaiko visapusišką verslo prekės ženklo pritaikymą, įskaitant logotipų spausdinimą, tinkintas spalvas ir nuomos identifikavimo grafinius elementus. Tai jūsų parką paverčia rinkodaros turtu ir sukuria fotografavimo galimybes, didinančias jūsų verslo matomumą socialiniuose tinkluose.',
+          'Taip, OLagoon palaiko visapusišką verslo prekės ženklo pritaikymą, įskaitant logotipų spausdinimą, tinkintas spalvas ir nuomos identifikavimo grafinius elementus. Tai jūsų parką paverčia rinkodaros turtu ir sukuria fotografavimo galimybes, didinančias jūsų verslo matomumą socialiniuose tinkluose.',
       },
       {
-        question: 'Koks yra Afarer komercinių SUP lentų ilgaamžiškumas kasdienei nuomai?',
+        question: 'Koks yra OLagoon komercinių SUP lentų ilgaamžiškumas kasdienei nuomai?',
         answer:
-          'Afarer komercinės SUP lentos sukurtos didelio dažnio nuomos operacijoms su sutvirtintu PVC, tvirta siūlių technologija ir apsauginiais išoriniais sluoksniais. Tinkamai prižiūrimos jos komercinėje aplinkoje žymiai pranoksta vartotojiškas lentas ir mažina bendrąsias nuosavybės išlaidas.',
+          'OLagoon komercinės SUP lentos sukurtos didelio dažnio nuomos operacijoms su sutvirtintu PVC, tvirta siūlių technologija ir apsauginiais išoriniais sluoksniais. Tinkamai prižiūrimos jos komercinėje aplinkoje žymiai pranoksta vartotojiškas lentas ir mažina bendrąsias nuosavybės išlaidas.',
       },
       {
         question: 'Kokia yra tipinė investicijos grąža iš SUP nuomos parko?',
@@ -5275,7 +5275,7 @@ const lt: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Kurkite savo paplūdimio vandens veiklų verslą su Afarer',
+      title: 'Kurkite savo paplūdimio vandens veiklų verslą su OLagoon',
       subtitle: 'Sukurkite daugiau nei nuomos paslaugą. Sukurkite įsimintinas vandens patirtis.',
       primaryAction: {
         text: 'Pradėkite savo komercinio SUP parko projektą jau šiandien',
@@ -5290,7 +5290,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Komercinių vandens parkų SUP parko tiekėjas | {SITE}',
       description:
-        'Afarer teikia komercinio SUP parko sprendimus vandens parkams ir pramogų parkams. Itin patvarios SUP lentos, pradedantiesiems pritaikyti dizainai, saugai orientuota konstrukcija ir didelės apimties OEM tiekimas.',
+        'OLagoon teikia komercinio SUP parko sprendimus vandens parkams ir pramogų parkams. Itin patvarios SUP lentos, pradedantiesiems pritaikyti dizainai, saugai orientuota konstrukcija ir didelės apimties OEM tiekimas.',
     },
     hero: {
       tagline: 'Didelio pralaidumo SUP sprendimai vandens parkams, pramogų parkams ir didelėms pramogų įstaigoms',
@@ -5337,12 +5337,12 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Į saugą orientuota konstrukcija',
           description:
-            'Afarer remia saugai skirtą produktų plėtrą. Apsauginis kraštų dizainas su sutvirtinta šonų apsauga ir minkštesnėmis smūgio zonomis mažina susidūrimo poveikį. Visa EVA saugos danga užtikrina neslidų paviršių ir patogią stovėjimo zoną. Apvalios, pradedantiesiems pritaikytos formos mažina aštrius kampus ir sudėtingą valdymą.',
+            'OLagoon remia saugai skirtą produktų plėtrą. Apsauginis kraštų dizainas su sutvirtinta šonų apsauga ir minkštesnėmis smūgio zonomis mažina susidūrimo poveikį. Visa EVA saugos danga užtikrina neslidų paviršių ir patogią stovėjimo zoną. Apvalios, pradedantiesiems pritaikytos formos mažina aštrius kampus ir sudėtingą valdymą.',
         },
         {
           title: 'Didelio pralaidumo įrangos parko planavimas',
           description:
-            'Afarer padeda parkams pasirinkti tinkamą įrangos parko apimtį. Mažos veiklos zonos (100-300 lentų) skirtos kurortų vandens telkiniams, vidutinio masto pramogų parkai (300-600 lentų) — regioniniams vandens parkams, o didelės pramogų parkų operacijos (600-1000+ lentų) — stambioms pramogų grupėms ir kelių zonų pramogoms.',
+            'OLagoon padeda parkams pasirinkti tinkamą įrangos parko apimtį. Mažos veiklos zonos (100-300 lentų) skirtos kurortų vandens telkiniams, vidutinio masto pramogų parkai (300-600 lentų) — regioniniams vandens parkams, o didelės pramogų parkų operacijos (600-1000+ lentų) — stambioms pramogų grupėms ir kelių zonų pramogoms.',
         },
         {
           title: 'Išsamus vandens parko įrangos paketas',
@@ -5383,7 +5383,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Komercinis įrangos parko planavimas',
           detail:
-            'Afarer sukūrė vandens parko SUP veiklos sistemą, apimančią stabilias pradedančiųjų lentas, komercinius aksesuarus ir atsargines dalis.',
+            'OLagoon sukūrė vandens parko SUP veiklos sistemą, apimančią stabilias pradedančiųjų lentas, komercinius aksesuarus ir atsargines dalis.',
         },
         {
           title: 'Saugos tinkinimas',
@@ -5421,17 +5421,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: 'Etapas 1: Nulinio grimzdumo SUP parinkimas ir modulinis kliūčių dizainas',
               detail:
-                '2025 m. sausį Delgado įvertino 7 pripučiamų SUP tiekėjus. Keturis jų atmetė dėl ilgesnių nei 6 minučių pakartotinio pripūtimo ciklų, dar du — dėl delaminacijos UV bandymuose. Jis pasirinko „Afarer Explorer 11\'6" X" (34" plotis, 6" storis, 320L tūris) dėl 15 PSI maksimalaus standumo ir 5 minučių ciklo nuo pilno išleidimo iki sudėjimo į laikymą. Kartu su Afarer OEM komanda jis kiekvienai lentai pridėjo 4 integruotas D-kilpų tvirtinimo vietas prisegamiems kliūčių moduliams — balanso sijoms, plaukiojantiems barjerams ir šliaužimo arkoms — naudodamas tinkintą bėgių tvirtinimo sistemą, išbandytą iki 220 lbs šoninės jėgos.',
+                '2025 m. sausį Delgado įvertino 7 pripučiamų SUP tiekėjus. Keturis jų atmetė dėl ilgesnių nei 6 minučių pakartotinio pripūtimo ciklų, dar du — dėl delaminacijos UV bandymuose. Jis pasirinko „OLagoon Explorer 11\'6" X" (34" plotis, 6" storis, 320L tūris) dėl 15 PSI maksimalaus standumo ir 5 minučių ciklo nuo pilno išleidimo iki sudėjimo į laikymą. Kartu su OLagoon OEM komanda jis kiekvienai lentai pridėjo 4 integruotas D-kilpų tvirtinimo vietas prisegamiems kliūčių moduliams — balanso sijoms, plaukiojantiems barjerams ir šliaužimo arkoms — naudodamas tinkintą bėgių tvirtinimo sistemą, išbandytą iki 220 lbs šoninės jėgos.',
             },
             {
               title: 'Etapas 2: Kliūčių trasos išdėstymas ir vandens gylio atitiktis',
               detail:
-                'Per 6 savaites Delgado ir vyriausioji vandens sporto inžinierė Sarah Kim sukūrė 3 trasų konfigūracijas skirtingiems baseinų gyliams (nuo 3.5 ft iki 5.5 ft). Jie naudojo Afarer CAD failus lentų išdėstymui kas 8 ft modeliuoti, sukurdami 150 ft vingiuotas trasas. Kiekvienai trasai reikėjo 16 lentų ir 4 atsarginių lentų kiekvienam parkui. Kim gavo TDLR pramogų įrenginių sertifikatą, visose kliūčių tvirtinimo vietose integruodama kirpamojo kaiščio atsiskiriančias jungtis ir užtikrindama, kad joks komponentas neviršytų 15 lbs atsiskirimo jėgos.',
+                'Per 6 savaites Delgado ir vyriausioji vandens sporto inžinierė Sarah Kim sukūrė 3 trasų konfigūracijas skirtingiems baseinų gyliams (nuo 3.5 ft iki 5.5 ft). Jie naudojo OLagoon CAD failus lentų išdėstymui kas 8 ft modeliuoti, sukurdami 150 ft vingiuotas trasas. Kiekvienai trasai reikėjo 16 lentų ir 4 atsarginių lentų kiekvienam parkui. Kim gavo TDLR pramogų įrenginių sertifikatą, visose kliūčių tvirtinimo vietose integruodama kirpamojo kaiščio atsiskiriančias jungtis ir užtikrindama, kad joks komponentas neviršytų 15 lbs atsiskirimo jėgos.',
             },
             {
               title: 'Etapas 3: Gelbėtojų SUP sertifikavimas ir greito reagavimo pratybos',
               detail:
-                '2025 m. kovą Afarer mokymų komanda Red Oak flagmano parke atliko 3 dienų vietinį 24 gelbėtojų sertifikavimą. Mokymai apėmė gelbėjimo technikas su SUP, avarinį nulipimą nuo lentos ir žmonių srauto valdymą. Delgado įgyvendino 15 minučių rotacijos sistemą: 12 minučių SUP sesija + 3 minučių lentų keitimas. Kiekvienas parkas įrengė 40 ft skirtą paruošimo zoną su 50 prie sienos tvirtinamų lentų laikiklių, pagamintų „Paddletek". Gelbėtojų sertifikavimo baigimo rodiklis buvo 100 %, o rašytinio egzamino vidurkis — 94 %.',
+                '2025 m. kovą OLagoon mokymų komanda Red Oak flagmano parke atliko 3 dienų vietinį 24 gelbėtojų sertifikavimą. Mokymai apėmė gelbėjimo technikas su SUP, avarinį nulipimą nuo lentos ir žmonių srauto valdymą. Delgado įgyvendino 15 minučių rotacijos sistemą: 12 minučių SUP sesija + 3 minučių lentų keitimas. Kiekvienas parkas įrengė 40 ft skirtą paruošimo zoną su 50 prie sienos tvirtinamų lentų laikiklių, pagamintų „Paddletek". Gelbėtojų sertifikavimo baigimo rodiklis buvo 100 %, o rašytinio egzamino vidurkis — 94 %.',
             },
             {
               title: 'Etapas 4: Paleidimas per Memorial Day ir sezono rezultatai',
@@ -5459,7 +5459,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: SUP parinkimas atsižvelgiant į kuklumą, stabilumą ir atsparumą karščiui',
               detail:
-                '2024 m. lapkritį Al Falasi išbandė 9 SUP modelius iš 5 prekės ženklų. Tik „Afarer Explorer 10\'8" X" (33" x 6" x 320L) išlaikė 48 valandų 50 laipsnių C šilumos kameros bandymą be medžiagų degradacijos. Ji užsakė 120 lentų dviejų spalvų variantais (smėlio kopų smėline ir vandenyno žalsvai mėlyna), kad atitiktų La Mer estetiką. Kiekviena lenta buvo aprūpinta tinkinta nuimama baldakimo sistema pavėsiui — anglies pluošto arka su UPF 50+ audiniu, — kurią Afarer inžinierių komanda sukūrė per 3 prototipų iteracijas. Baldakimai suteikė papildomus 1.2 kg, bet išlaikė stabilumą 0.5 laipsnio pasvirimo ribose.',
+                '2024 m. lapkritį Al Falasi išbandė 9 SUP modelius iš 5 prekės ženklų. Tik „OLagoon Explorer 10\'8" X" (33" x 6" x 320L) išlaikė 48 valandų 50 laipsnių C šilumos kameros bandymą be medžiagų degradacijos. Ji užsakė 120 lentų dviejų spalvų variantais (smėlio kopų smėline ir vandenyno žalsvai mėlyna), kad atitiktų La Mer estetiką. Kiekviena lenta buvo aprūpinta tinkinta nuimama baldakimo sistema pavėsiui — anglies pluošto arka su UPF 50+ audiniu, — kurią OLagoon inžinierių komanda sukūrė per 3 prototipų iteracijas. Baldakimai suteikė papildomus 1.2 kg, bet išlaikė stabilumą 0.5 laipsnio pasvirimo ribose.',
             },
             {
               title: '2 žingsnis: Lagūnos zonavimas, privatumas ir pagal lytį atskirtas grafikas',
@@ -5469,7 +5469,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '3 žingsnis: Moterų SUP instruktorių atranka ir kultūriniai mokymai',
               detail:
-                '2025 m. sausį AquaFun pradėjo tikslinę darbuotojų atrankos kampaniją ir pasamdė 12 moterų SUP instruktorių (8 emyratietes, 4 užsienietes) ir 6 vyrus instruktorius. Afarer suteikė tinkintą 5 dienų SUP gidavimo sertifikavimą, pritaikytą kultūriniam jautrumui — jis apėmė arabišką irklavimo komandų terminiją, kuklumą atitinkančias gelbėjimo technikas (tempimą nuo lentos iki lentos, išvengiant fizinio kontakto) ir šeimų grupių tempo strategijas. Visi 18 instruktorių iki vasario 20 d. išlaikė vertinimą, atitinkantį IRF 1 lygį. Mokymai kainavo $28K ir buvo bendrai finansuojami Dubajaus turizmo produktų inovacijų grantu.',
+                '2025 m. sausį AquaFun pradėjo tikslinę darbuotojų atrankos kampaniją ir pasamdė 12 moterų SUP instruktorių (8 emyratietes, 4 užsienietes) ir 6 vyrus instruktorius. OLagoon suteikė tinkintą 5 dienų SUP gidavimo sertifikavimą, pritaikytą kultūriniam jautrumui — jis apėmė arabišką irklavimo komandų terminiją, kuklumą atitinkančias gelbėjimo technikas (tempimą nuo lentos iki lentos, išvengiant fizinio kontakto) ir šeimų grupių tempo strategijas. Visi 18 instruktorių iki vasario 20 d. išlaikė vertinimą, atitinkantį IRF 1 lygį. Mokymai kainavo $28K ir buvo bendrai finansuojami Dubajaus turizmo produktų inovacijų grantu.',
             },
             {
               title: '4 žingsnis: Ramadanui pritaikytas švelnus paleidimas ir nuolatinis valdymas',
@@ -5486,28 +5486,28 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl vandens parkai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl vandens parkai renkasi OLagoon',
       items: [
         {
           title: 'Didelio srauto operacijos',
           description:
-            'Įranga turi atlaikyti kasdieninį komercinį naudojimą. Afarer kuria produktus nuolatinėms didelės apimties operacijoms su patvaria konstrukcija.',
+            'Įranga turi atlaikyti kasdieninį komercinį naudojimą. OLagoon kuria produktus nuolatinėms didelės apimties operacijoms su patvaria konstrukcija.',
         },
         {
           title: 'Saugos reikalavimai',
           description:
-            'Lankytojams reikia pasitikėjimo ir apsaugos. Afarer kiekviename produkto dizaine pirmenybę teikia saugai, pritaikydamas pradedantiesiems palankias savybes.',
+            'Lankytojams reikia pasitikėjimo ir apsaugos. OLagoon kiekviename produkto dizaine pirmenybę teikia saugai, pritaikydamas pradedantiesiems palankias savybes.',
         },
         {
           title: 'Įrangos parko valdymas',
           description:
-            'Dideli projektai reikalauja išsamių sistemų. Afarer teikia nuo pradžios iki galo vykdomą įrangos parko planavimą, kiekio rekomendacijas ir pagalbą.',
+            'Dideli projektai reikalauja išsamių sistemų. OLagoon teikia nuo pradžios iki galo vykdomą įrangos parko planavimą, kiekio rekomendacijas ir pagalbą.',
         },
         {
           title: 'Ilgalaikis patikimumas',
           description:
-            'Pramogos priklauso nuo stabilaus veikimo. Afarer užtikrina patvarius produktus ir patikimą tiekimą daugelio metų nuolatiniam naudojimui.',
+            'Pramogos priklauso nuo stabilaus veikimo. OLagoon užtikrina patvarius produktus ir patikimą tiekimą daugelio metų nuolatiniam naudojimui.',
         },
       ],
     },
@@ -5515,36 +5515,36 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kokio dydžio įrangos parkas rekomenduojamas vandens parko SUP pramogai?',
         answer:
-          'Afarer rekomenduoja 100-300 lentų mažoms veiklos zonoms ir kurortų vandens telkiniams, 300-600 lentų regioniniams vandens parkams ir turizmo vietovėms bei 600-1000+ lentų dideliems pramogų parkams ir kelių zonų pramogoms.',
+          'OLagoon rekomenduoja 100-300 lentų mažoms veiklos zonoms ir kurortų vandens telkiniams, 300-600 lentų regioniniams vandens parkams ir turizmo vietovėms bei 600-1000+ lentų dideliems pramogų parkams ir kelių zonų pramogoms.',
       },
       {
         question: 'Kiek patvarios yra komercinės SUP lentos kasdieniniam naudojimui vandens parke?',
         answer:
-          'Afarer komercinės SUP lentos sukurtos didelio srauto operacijoms — su sutvirtinta PVC konstrukcija, patvariais siūlėmis ir komercinės klasės aksesuarais. Jos atlaiko nuolatinį kasdieninį naudojimą, dažnas pradedančiųjų klaidas ir pasikartojančius smūgius, kurie pažeistų vartotojiškus produktus.',
+          'OLagoon komercinės SUP lentos sukurtos didelio srauto operacijoms — su sutvirtinta PVC konstrukcija, patvariais siūlėmis ir komercinės klasės aksesuarais. Jos atlaiko nuolatinį kasdieninį naudojimą, dažnas pradedančiųjų klaidas ir pasikartojančius smūgius, kurie pažeistų vartotojiškus produktus.',
       },
       {
         question: 'Ar SUP lentos gali būti tinkintos su mano vandens parko įvaizdžiu?',
         answer:
-          'Taip, Afarer palaiko visapusišką tinkinimą, įskaitant parko logotipus, personažų grafiką, pasirinktines spalvas ir pramogų temų integraciją. Individualus įvaizdis paverčia SUP įrangą fotogeniškomis pramogomis, sukeliančiomis socialinių tinklų matomumą.',
+          'Taip, OLagoon palaiko visapusišką tinkinimą, įskaitant parko logotipus, personažų grafiką, pasirinktines spalvas ir pramogų temų integraciją. Individualus įvaizdis paverčia SUP įrangą fotogeniškomis pramogomis, sukeliančiomis socialinių tinklų matomumą.',
       },
       {
-        question: 'Kokias saugos savybes turi Afarer komercinės SUP lentos?',
+        question: 'Kokias saugos savybes turi OLagoon komercinės SUP lentos?',
         answer:
-          'Afarer lentos turi apsauginį kraštų dizainą, visą EVA neslidžią saugos dangą, didelio plūdumo konstrukciją, apvalias pradedantiesiems pritaikytas formas ir sutvirtintą šonų apsaugą. Šios savybės mažina susidūrimo poveikį ir užtikrina saugų naudojimą pirmą kartą irklaujantiems.',
+          'OLagoon lentos turi apsauginį kraštų dizainą, visą EVA neslidžią saugos dangą, didelio plūdumo konstrukciją, apvalias pradedantiesiems pritaikytas formas ir sutvirtintą šonų apsaugą. Šios savybės mažina susidūrimo poveikį ir užtikrina saugų naudojimą pirmą kartą irklaujantiems.',
       },
       {
-        question: 'Kaip Afarer palaiko didelių įrangos parkų priežiūrą ir keitimą?',
+        question: 'Kaip OLagoon palaiko didelių įrangos parkų priežiūrą ir keitimą?',
         answer:
-          'Afarer teikia standartizuotus komponentus lengvesniam keitimui, remonto medžiagas ir instrukcijas, įrangos parko patikrinimo sistemas kasdieniams patikrinimams bei atsarginių dalių prieinamumą. Taip pat siūlome metines tiekimo programas sezoniniam keitimui ir įrangos parko atnaujinimui.',
+          'OLagoon teikia standartizuotus komponentus lengvesniam keitimui, remonto medžiagas ir instrukcijas, įrangos parko patikrinimo sistemas kasdieniams patikrinimams bei atsarginių dalių prieinamumą. Taip pat siūlome metines tiekimo programas sezoniniam keitimui ir įrangos parko atnaujinimui.',
       },
       {
         question: 'Koks yra įprastas didelės apimties SUP įrangos parko užsakymo gamybos terminas?',
         answer:
-          'Gamybos terminas priklauso nuo užsakymo apimties ir tinkinimo reikalavimų. Afarer glaudžiai bendradarbiauja su kiekvienu klientu, nustatydama gamybos grafikus — nuo 100-500 rinkinių pilotinių projektų iki 500-1000+ rinkinių visaverčių įrengimų, — užtikrindama savalaikį pristatymą sezonų atidarymams.',
+          'Gamybos terminas priklauso nuo užsakymo apimties ir tinkinimo reikalavimų. OLagoon glaudžiai bendradarbiauja su kiekvienu klientu, nustatydama gamybos grafikus — nuo 100-500 rinkinių pilotinių projektų iki 500-1000+ rinkinių visaverčių įrengimų, — užtikrindama savalaikį pristatymą sezonų atidarymams.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo vandens parko SUP pramogą su Afarer',
+      title: 'Sukurkite savo vandens parko SUP pramogą su OLagoon',
       subtitle:
         'Sukurkite daugiau nei vandens veiklą. Sukurkite įsimintiną lankytojų patirtį, kuri skatina lankytojus grįžti vėl ir vėl.',
       primaryAction: {
@@ -5560,7 +5560,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Prabangaus individualaus SUP gamintojas | {SITE}',
       description:
-        'Afarer kuria prabangias individualias SUP kolekcijas privačioms saloms, jachtų klubams, prabangiems kurortams ir elitinio gyvenimo būdo prekės ženklams. Ekskluzyvūs dizainai, prabangios medžiagos, VIP individualizavimas ir butikinė OEM gamyba.',
+        'OLagoon kuria prabangias individualias SUP kolekcijas privačioms saloms, jachtų klubams, prabangiems kurortams ir elitinio gyvenimo būdo prekės ženklams. Ekskluzyvūs dizainai, prabangios medžiagos, VIP individualizavimas ir butikinė OEM gamyba.',
     },
     hero: {
       tagline:
@@ -5602,7 +5602,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Ekskluzyvus prabangus SUP dizainas',
           description:
-            'Afarer palaiko visišką estetinį individualizavimą su individualiu spalvų kūrimu, prekės ženklui būdingais atspalviais ir su kurortu derančiais dizainais. Stiliai apima „Ocean Luxury" su giliu tamsiai mėlyna ir perlamutro balta, „Tropical Island" su natūraliais atspalviais bei „Modern Yacht" su minimaliomis spalvomis ir aukščiausios klasės apdaila.',
+            'OLagoon palaiko visišką estetinį individualizavimą su individualiu spalvų kūrimu, prekės ženklui būdingais atspalviais ir su kurortu derančiais dizainais. Stiliai apima „Ocean Luxury" su giliu tamsiai mėlyna ir perlamutro balta, „Tropical Island" su natūraliais atspalviais bei „Modern Yacht" su minimaliomis spalvomis ir aukščiausios klasės apdaila.',
         },
         {
           title: 'Aukščiausios klasės medžiagų ir apdailos pasirinkimas',
@@ -5690,17 +5690,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: individualaus dizaino bendradarbiavimas ir medžiagų atranka',
               detail:
-                '2024 m. rugpjūtį Voss kreipėsi į Afarer individualios gamybos skyrių su detalia užduotimi: lentos turi atitikti kurorto „Ocean Sand" spalvų paletę (šiltas smėlio, anglies, rausvos ir žalsvai mėlynos spalvos) su tekstūruotu denio kilimėliu, derančiu su vilos grindimis. Afarer dizaino komanda per 6 savaites sukūrė 14 spalvų variantų prototipus ir pasirinko 5 sluoksnių lydyto „drop-stitch" branduolio konstrukciją su UV stabilizuota matine PVC danga. Kiekviena lenta gavo ranka piešiamą auksiniais lapais logotipą — Coco prekės ženklo paparčio emblema — kurį Balio meistras dengdavo 4 valandas už lentą. 30 lentų užsakymas (25 „Explorer 11\'6" X", 5 „12\'6" touring") iš viso kainavo $87,000.',
+                '2024 m. rugpjūtį Voss kreipėsi į OLagoon individualios gamybos skyrių su detalia užduotimi: lentos turi atitikti kurorto „Ocean Sand" spalvų paletę (šiltas smėlio, anglies, rausvos ir žalsvai mėlynos spalvos) su tekstūruotu denio kilimėliu, derančiu su vilos grindimis. OLagoon dizaino komanda per 6 savaites sukūrė 14 spalvų variantų prototipus ir pasirinko 5 sluoksnių lydyto „drop-stitch" branduolio konstrukciją su UV stabilizuota matine PVC danga. Kiekviena lenta gavo ranka piešiamą auksiniais lapais logotipą — Coco prekės ženklo paparčio emblema — kurį Balio meistras dengdavo 4 valandas už lentą. 30 lentų užsakymas (25 „Explorer 11\'6" X", 5 „12\'6" touring") iš viso kainavo $87,000.',
             },
             {
               title: '2 žingsnis: plūduriuojančio doko integracija ir saugojimo architektūra',
               detail:
-                'Voss kartu su Afarer jūriniais architektais sukūrė dviejų lygių plūduriuojančią lentų aptarnavimo sistemą. Apatiniame lygyje buvo laikomos 15 lentų priekiu į išorę greitai svečių prieigai; viršutiniame lygyje saugomos 15 lentų individualiuose neopreniniuose pakabuose, siekiant išvengti UV degradacijos. Dokas, pastatytas Phukete ir pristatytas modulinėmis sekcijomis, kainavo $42K įskaitant montavimą. Kiekviena lenta buvo pažymėta NFC atspariu vandeniui mikročipu, susietu su kurorto RMS sistema automatiniam išdavimui ir grąžinimui, taip sumažinant darbuotojų darbo laiką 3,2 valandos per dieną, palyginti su ankstesne popierinės apskaitos sistema.',
+                'Voss kartu su OLagoon jūriniais architektais sukūrė dviejų lygių plūduriuojančią lentų aptarnavimo sistemą. Apatiniame lygyje buvo laikomos 15 lentų priekiu į išorę greitai svečių prieigai; viršutiniame lygyje saugomos 15 lentų individualiuose neopreniniuose pakabuose, siekiant išvengti UV degradacijos. Dokas, pastatytas Phukete ir pristatytas modulinėmis sekcijomis, kainavo $42K įskaitant montavimą. Kiekviena lenta buvo pažymėta NFC atspariu vandeniui mikročipu, susietu su kurorto RMS sistema automatiniam išdavimui ir grąžinimui, taip sumažinant darbuotojų darbo laiką 3,2 valandos per dieną, palyginti su ankstesne popierinės apskaitos sistema.',
             },
             {
               title: '3 žingsnis: batlerių SUP apmokymai ir konkjeržo integracija',
               detail:
-                '2024 m. lapkritį Afarer mokymų komanda Coco Private Island saloje vedė 4 dienų intensyvią programą 8 kurorto batleriams ir 4 nardymo centro darbuotojams. Mokymai apėmė SUP etiketą itin turtingiems svečiams (tylus nuleidimas, vaisių aptarnavimas prie lentos, GoPro tvirtinimo taškai). Kiekvienas batleris atliko 15 prižiūrimų sesijų su svečiais. Voss integravo SUP rezervaciją į vilos atvykimo konkjeržo programėlę, leidžiančią svečiams iš anksto pasirinkti lentos spalvą ir planuoti saulėtekio, lagūnos ir rifo maršrutus. Priėmimo lygis per pirmus 2 mėnesius pasiekė 28%.',
+                '2024 m. lapkritį OLagoon mokymų komanda Coco Private Island saloje vedė 4 dienų intensyvią programą 8 kurorto batleriams ir 4 nardymo centro darbuotojams. Mokymai apėmė SUP etiketą itin turtingiems svečiams (tylus nuleidimas, vaisių aptarnavimas prie lentos, GoPro tvirtinimo taškai). Kiekvienas batleris atliko 15 prižiūrimų sesijų su svečiais. Voss integravo SUP rezervaciją į vilos atvykimo konkjeržo programėlę, leidžiančią svečiams iš anksto pasirinkti lentos spalvą ir planuoti saulėtekio, lagūnos ir rifo maršrutus. Priėmimo lygis per pirmus 2 mėnesius pasiekė 28%.',
             },
             {
               title: '4 žingsnis: įtakos asmenų paleidimas ir išmatuota socialinio kapitalo ROI',
@@ -5728,22 +5728,22 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: meninis rašto perkėlimas ir medžiagų inovacija',
               detail:
-                'Nuo 2025 m. vasario Afarer R&D komanda ir Verlaine ateljė 10 savaičių kūrė tiesioginio PVC sublimacijos procesą, galintį atkurti Verlaine 14 spalvų „Geometrica" raštą 1,200 DPI raiška be spalvų trykštimo ar tempimo iškraipymų. Po 18 nepavykusių pavyzdžių (raštas išsikraipydavo aplink bortelės kreivę) Afarer inžinieriai sukūrė 7 dalių štampavimo šabloną, leidusį iš anksto spausdinti ant plokščių PVC lakštų prieš lydinį laminavimą. Kiekviena lenta reikalavo 11,5 valandos gamybos laiko (palyginti su 3 valandomis standartinėms lentoms). Galutinis paviršius gavo matinę neslidžią dangą, sukurtą specialiai Verlaine.',
+                'Nuo 2025 m. vasario OLagoon R&D komanda ir Verlaine ateljė 10 savaičių kūrė tiesioginio PVC sublimacijos procesą, galintį atkurti Verlaine 14 spalvų „Geometrica" raštą 1,200 DPI raiška be spalvų trykštimo ar tempimo iškraipymų. Po 18 nepavykusių pavyzdžių (raštas išsikraipydavo aplink bortelės kreivę) OLagoon inžinieriai sukūrė 7 dalių štampavimo šabloną, leidusį iš anksto spausdinti ant plokščių PVC lakštų prieš lydinį laminavimą. Kiekviena lenta reikalavo 11,5 valandos gamybos laiko (palyginti su 3 valandomis standartinėms lentoms). Galutinis paviršius gavo matinę neslidžią dangą, sukurtą specialiai Verlaine.',
             },
             {
               title: '2 žingsnis: pakuotės, išpakavimo ir mažmeninės prezentacijos strategija',
               detail:
-                'Rinaldi reikalavo „flagship" lygio išpakavimo patirties. Afarer bendradarbiavo su Verlaine pakuotės dizaineriais, kuriant kietą kelioninį dėklą, aptrauktą Verlaine firminiu smėlio spalvos brezentu su odiniais kampų apsaugais (pagamintais Verlaine pačios odos dirbinių dirbtuvėse Toskanoje). Dėkle tilpo SUP lenta, anglies pluošto 3 dalių irklas su Verlaine monograma, individualus siurblys su manometru, graviruotu „Geometrica" motyvu, ir sunumeruotas autentiškumo pažymėjimas folija spaustame voke. Bendra pakuotės kaina vienetui buvo EUR 340. Visas rinkinys svėrė 26 kg — pakankamai lengvas pirmos klasės lėktuvo bagažui.',
+                'Rinaldi reikalavo „flagship" lygio išpakavimo patirties. OLagoon bendradarbiavo su Verlaine pakuotės dizaineriais, kuriant kietą kelioninį dėklą, aptrauktą Verlaine firminiu smėlio spalvos brezentu su odiniais kampų apsaugais (pagamintais Verlaine pačios odos dirbinių dirbtuvėse Toskanoje). Dėkle tilpo SUP lenta, anglies pluošto 3 dalių irklas su Verlaine monograma, individualus siurblys su manometru, graviruotu „Geometrica" motyvu, ir sunumeruotas autentiškumo pažymėjimas folija spaustame voke. Bendra pakuotės kaina vienetui buvo EUR 340. Visas rinkinys svėrė 26 kg — pakankamai lengvas pirmos klasės lėktuvo bagažui.',
             },
             {
               title: '3 žingsnis: VIP klientų peržiūra ir tik susitarimu pagrįstas pardavimų modelis',
               detail:
-                'Kolekcija debiutavo 2025 m. gegužės 8 d. Milano dizaino savaitės metu su privačia tik susitarimu prieinama peržiūra Verlaine flagmaninėje parduotuvėje Via Monte Napoleone gatvėje. Tik 200 klientų gavo reljefinius pakvietimus. Kiekvienas 45 minučių susitikimas apėmė gyvą SUP demonstraciją 40,000 litrų specialiai pagamintame baseine, įrengtame parduotuvės kieme, kur Afarer prekės ženklo ambasadorius demonstravo lentos standumą (papūsta iki 18 PSI naudojant su Verlaine pažymėtą siurblį). 127 vienetai buvo užsisakyti iš anksto dizaino savaitės metu, generuojant EUR 1.62M užstatų. Rinaldi apribojo socialinių tinklų reklamą tik Verlaine privačių klientų WhatsApp kanalais.',
+                'Kolekcija debiutavo 2025 m. gegužės 8 d. Milano dizaino savaitės metu su privačia tik susitarimu prieinama peržiūra Verlaine flagmaninėje parduotuvėje Via Monte Napoleone gatvėje. Tik 200 klientų gavo reljefinius pakvietimus. Kiekvienas 45 minučių susitikimas apėmė gyvą SUP demonstraciją 40,000 litrų specialiai pagamintame baseine, įrengtame parduotuvės kieme, kur OLagoon prekės ženklo ambasadorius demonstravo lentos standumą (papūsta iki 18 PSI naudojant su Verlaine pažymėtą siurblį). 127 vienetai buvo užsisakyti iš anksto dizaino savaitės metu, generuojant EUR 1.62M užstatų. Rinaldi apribojo socialinių tinklų reklamą tik Verlaine privačių klientų WhatsApp kanalais.',
             },
             {
               title: '4 žingsnis: pasaulinis užsakymų vykdymas, konkjeržo pristatymas ir išpardavimo rezultatai',
               detail:
-                'Užsakymai buvo siunčiami nuo 2025 m. birželio su „white-glove" pristatymu į 34 šalis. Kiekvienas pristatymas apėmė 90 minučių virtualią sesiją su Afarer instruktoriumi, klientui asmeniškai pristatytu per WhatsApp vaizdo skambutį. Iki 2025 m. lapkričio buvo parduoti 468 iš 500 vienetų (93.6% realizacija), generuojant EUR 5.85M pajamų pilna mažmenine kaina be jokių nuolaidų. Likę 32 vienetai buvo skirti Verlaine Archyvų kolekcijai. Rinaldi pranešė, kad 41% pirkėjų buvo nauji Verlaine klientai — įgyti per SUP kolekciją — su vidutiniškai papildomomis EUR 3,200 išlaidomis aprangai pirkimo susitikimo metu.',
+                'Užsakymai buvo siunčiami nuo 2025 m. birželio su „white-glove" pristatymu į 34 šalis. Kiekvienas pristatymas apėmė 90 minučių virtualią sesiją su OLagoon instruktoriumi, klientui asmeniškai pristatytu per WhatsApp vaizdo skambutį. Iki 2025 m. lapkričio buvo parduoti 468 iš 500 vienetų (93.6% realizacija), generuojant EUR 5.85M pajamų pilna mažmenine kaina be jokių nuolaidų. Likę 32 vienetai buvo skirti Verlaine Archyvų kolekcijai. Rinaldi pranešė, kad 41% pirkėjų buvo nauji Verlaine klientai — įgyti per SUP kolekciją — su vidutiniškai papildomomis EUR 3,200 išlaidomis aprangai pirkimo susitikimo metu.',
             },
           ],
           results: [
@@ -5755,8 +5755,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl prabangos klientai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl prabangos klientai renkasi OLagoon',
       items: [
         {
           title: 'Dizaino juslė',
@@ -5784,39 +5784,39 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kokios individualizavimo galimybės siūlomos prabangios SUP kolekcijoms?',
         answer:
-          'Afarer siūlo visišką individualizavimą, įskaitant individualų spalvų kūrimą, prekės ženklui būdingus atspalvius, elegantiškus raštus, prekės ženklo simbolius, firminę dailę, aukščiausios klasės PVC konstrukciją, individualias EVA denio tekstūras, rafinuotą furnitūrą ir personalizuotą pakuotę.',
+          'OLagoon siūlo visišką individualizavimą, įskaitant individualų spalvų kūrimą, prekės ženklui būdingus atspalvius, elegantiškus raštus, prekės ženklo simbolius, firminę dailę, aukščiausios klasės PVC konstrukciją, individualias EVA denio tekstūras, rafinuotą furnitūrą ir personalizuotą pakuotę.',
       },
       {
         question: 'Koks yra minimalus užsakymo kiekis individualiai SUP gamybai?',
         answer:
-          'Afarer specializuojasi mažų partijų prabangos gamyboje, o tipiški projektai apima nuo 10 iki 50 rinkinių. Tai idealu privačių salų savininkams, jachtų klubams, prabangiems kurortams ir išskirtinio gyvenimo būdo prekės ženklams.',
+          'OLagoon specializuojasi mažų partijų prabangos gamyboje, o tipiški projektai apima nuo 10 iki 50 rinkinių. Tai idealu privačių salų savininkams, jachtų klubams, prabangiems kurortams ir išskirtinio gyvenimo būdo prekės ženklams.',
       },
       {
         question: 'Kiek laiko užtrunka individualios SUP kolekcijos dizaino ir gamybos procesas?',
         answer:
-          'Laikotarpis priklauso nuo sudėtingumo ir individualizavimo lygio. Afarer glaudžiai bendradarbiauja su kiekvienu klientu nuo koncepcijos kūrimo iki gamybos, paprastai įgyvendindama prabangias kolekcijas per jūsų projekto reikalavimus ir sezoninius poreikius atitinkantį laikotarpį.',
+          'Laikotarpis priklauso nuo sudėtingumo ir individualizavimo lygio. OLagoon glaudžiai bendradarbiauja su kiekvienu klientu nuo koncepcijos kūrimo iki gamybos, paprastai įgyvendindama prabangias kolekcijas per jūsų projekto reikalavimus ir sezoninius poreikius atitinkantį laikotarpį.',
       },
       {
         question:
           'Ar SUP lentos gali būti projektuojamos taip, kad atitiktų esamą turto prekės ženklo įvaizdį ir estetiką?',
         answer:
-          'Taip, Afarer specializuojasi kuriant kolekcijas, sklandžiai integruojamas į turto estetiką. Mes galime suderinti esamas prekės ženklo spalvas, architektūrines temas ir interjero dizaino elementus, kad susidarytų vientisa prabangos aplinka.',
+          'Taip, OLagoon specializuojasi kuriant kolekcijas, sklandžiai integruojamas į turto estetiką. Mes galime suderinti esamas prekės ženklo spalvas, architektūrines temas ir interjero dizaino elementus, kad susidarytų vientisa prabangos aplinka.',
       },
       {
         question: 'Kokios medžiagos naudojamos prabangaus lygio SUP lentoms?',
         answer:
-          'Afarer naudoja aukščiausios klasės PVC konstrukciją elegantiškai išvaizdai ir patvarumui, išskirtinio lygio EVA denio medžiagas su individualiomis tekstūromis ir spalvomis bei rafinuotus aukščiausios klasės metalinius komponentus furnitūrai — visos parinktos dėl jų estetinės kokybės ir jūrinio lygio našumo.',
+          'OLagoon naudoja aukščiausios klasės PVC konstrukciją elegantiškai išvaizdai ir patvarumui, išskirtinio lygio EVA denio medžiagas su individualiomis tekstūromis ir spalvomis bei rafinuotus aukščiausios klasės metalinius komponentus furnitūrai — visos parinktos dėl jų estetinės kokybės ir jūrinio lygio našumo.',
       },
       {
         question: 'Ar siūlote individualią pakuotę VIP SUP kolekcijoms?',
         answer:
-          'Taip, Afarer teikia VIP individualią pakuotę, įskaitant prekės ženklo pristatymo dėžes, prabangius laikymo krepšius, personalizuotas etiketes ir riboto leidimo pristatymą. Išpakavimo patirtis suprojektuota taip, kad atitiktų paties produkto išskirtinumą.',
+          'Taip, OLagoon teikia VIP individualią pakuotę, įskaitant prekės ženklo pristatymo dėžes, prabangius laikymo krepšius, personalizuotas etiketes ir riboto leidimo pristatymą. Išpakavimo patirtis suprojektuota taip, kad atitiktų paties produkto išskirtinumą.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo išskirtinę vandens gyvenimo būdo kolekciją su Afarer',
+      title: 'Sukurkite savo išskirtinę vandens gyvenimo būdo kolekciją su OLagoon',
       subtitle:
-        'Jūsų turtas yra unikalus. Jūsų įranga taip pat turėtų būti unikali. Leiskite Afarer padėti jums sukurti firminę SUP kolekciją.',
+        'Jūsų turtas yra unikalus. Jūsų įranga taip pat turėtų būti unikali. Leiskite OLagoon padėti jums sukurti firminę SUP kolekciją.',
       primaryAction: {
         text: 'Pradėkite savo projektą',
       },
@@ -5830,7 +5830,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Turistinių vietovių vandens sporto įrangos tiekėjas | {SITE}',
       description:
-        'Afarer teikia vandens sporto sprendimus turizmo valdyboms, viešiesiems parkams ir pakrančių projektams. Komerciniai SUP parkai, ekologiška įranga, vyriausybinių projektų palaikymas ir didelės apimties OEM tiekimas.',
+        'OLagoon teikia vandens sporto sprendimus turizmo valdyboms, viešiesiems parkams ir pakrančių projektams. Komerciniai SUP parkai, ekologiška įranga, vyriausybinių projektų palaikymas ir didelės apimties OEM tiekimas.',
     },
     hero: {
       tagline:
@@ -5923,7 +5923,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Vietovės planavimas',
           detail:
-            'Afarer suprojektavo išsamią vandens veiklų sistemą, įskaitant parko dydžio planavimą, veiklų zonas ir įrangos konfigūraciją.',
+            'OLagoon suprojektavo išsamią vandens veiklų sistemą, įskaitant parko dydžio planavimą, veiklų zonas ir įrangos konfigūraciją.',
         },
         {
           title: 'Komercinės įrangos tiekimas',
@@ -5960,17 +5960,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: Tyliojo parko specifikacija ir biologiškai skaidžių medžiagų reikalavimai',
               detail:
-                '2024 m. rugsėjį Kovacic paskelbė paraiškų rinkimą (RFP), reikalaujantį (1) jokių vienkartinio naudojimo plastikų lentos konstrukcijoje, (2) visiško perdirbamumo eksploatavimo pabaigoje ir (3) tyliojo veikimo sertifikato, ne didesnį kaip 25 dB matuojant 5 m atstumu. Afarer laimėjo su modeliu EcoTouring 12\'6" X, pagamintu iš biologiškai pagrįstų „drop-stitch" siūlų (ricinos aliejumi pagrįstas polimeras, 42% atsinaujinančių medžiagų) ir natūralių kamščio denio kilimėlių (FSC sertifikuotas portugališkas kamštis). Kiekvienoje lentoje sumontuotas hermetiškas bambukinis stringeris, suteikiantis standumą be naftos pagrindo komponentų. LBTB užsakė 200 lentų (iš viso EUR 246K) ir 12 elektrinių pripūtimo stočių, maitinamų prie ežero esančių saulės įkrovos kioskų.',
+                '2024 m. rugsėjį Kovacic paskelbė paraiškų rinkimą (RFP), reikalaujantį (1) jokių vienkartinio naudojimo plastikų lentos konstrukcijoje, (2) visiško perdirbamumo eksploatavimo pabaigoje ir (3) tyliojo veikimo sertifikato, ne didesnį kaip 25 dB matuojant 5 m atstumu. OLagoon laimėjo su modeliu EcoTouring 12\'6" X, pagamintu iš biologiškai pagrįstų „drop-stitch" siūlų (ricinos aliejumi pagrįstas polimeras, 42% atsinaujinančių medžiagų) ir natūralių kamščio denio kilimėlių (FSC sertifikuotas portugališkas kamštis). Kiekvienoje lentoje sumontuotas hermetiškas bambukinis stringeris, suteikiantis standumą be naftos pagrindo komponentų. LBTB užsakė 200 lentų (iš viso EUR 246K) ir 12 elektrinių pripūtimo stočių, maitinamų prie ežero esančių saulės įkrovos kioskų.',
             },
             {
               title: '2 žingsnis: 6 km GPS ekomaršrutas su 12 pažintinių stočių',
               detail:
-                '2024–2025 m. žiemą LBTB sudarė 6,2 km perimetro maršrutą su 12 pažintinių stotelių (Bledo pilies geoterminis šaltinis, Šv. Marijos bažnyčios varpų skambinimo mechanizmas, salos sedimentacijos zonos). Afarer integravo vandeniui atsparų GPS garso vedlio įrenginį (patvari IP68 planšetė denio tvirtinimo laikiklyje), kiekvienoje stotelėje 7 kalbomis transliuojantis 90 sekundžių įgarsintus segmentus. Maršrutas suplanuotas apeinant jautrias paukščių perėjimo vietas (kuoduotųjų nirų kolonijos, uždaryta lapkričio–kovo mėnesiais). LBTB už EUR 18K įrengė 12 bambukinių ženklinimo plūdurų, pakeisdama 32 esamus motorinių valčių plūdurus.',
+                '2024–2025 m. žiemą LBTB sudarė 6,2 km perimetro maršrutą su 12 pažintinių stotelių (Bledo pilies geoterminis šaltinis, Šv. Marijos bažnyčios varpų skambinimo mechanizmas, salos sedimentacijos zonos). OLagoon integravo vandeniui atsparų GPS garso vedlio įrenginį (patvari IP68 planšetė denio tvirtinimo laikiklyje), kiekvienoje stotelėje 7 kalbomis transliuojantis 90 sekundžių įgarsintus segmentus. Maršrutas suplanuotas apeinant jautrias paukščių perėjimo vietas (kuoduotųjų nirų kolonijos, uždaryta lapkričio–kovo mėnesiais). LBTB už EUR 18K įrengė 12 bambukinių ženklinimo plūdurų, pakeisdama 32 esamus motorinių valčių plūdurus.',
             },
             {
               title: '3 žingsnis: Nuomos operatorių perėjimo programa ir sertifikavimas',
               detail:
-                '2025 m. sausio–kovo ne sezono metu LBTB vykdė privalomą perėjimo programą visiems 14 licencijuotų valčių nuomos operatorių. Afarer 36 operatoriams ir darbuotojams suteikė 4 dienų SUP vedlio sertifikavimą, apimantį maršrutų išmanymą, veiksmus kritinėse situacijose ir pažintinės aplinkosaugos informacijos perteikimą. LBTB kiekvienam operatoriui, pereinančiam nuo motorinių valčių prie SUP nuomos, siūlė po EUR 4,000 subsidiją – lėšos gautos iš Slovėnijos turizmo ministerijos žaliojo perėjimo dotacijos (iš viso EUR 280K). Iki balandžio 1 d. visiškai perėjo 11 iš 14 operatorių, likę 3 įsipareigojo hibridiniam darbui su 2026 m. palaipsnio atsisakymo grafiku.',
+                '2025 m. sausio–kovo ne sezono metu LBTB vykdė privalomą perėjimo programą visiems 14 licencijuotų valčių nuomos operatorių. OLagoon 36 operatoriams ir darbuotojams suteikė 4 dienų SUP vedlio sertifikavimą, apimantį maršrutų išmanymą, veiksmus kritinėse situacijose ir pažintinės aplinkosaugos informacijos perteikimą. LBTB kiekvienam operatoriui, pereinančiam nuo motorinių valčių prie SUP nuomos, siūlė po EUR 4,000 subsidiją – lėšos gautos iš Slovėnijos turizmo ministerijos žaliojo perėjimo dotacijos (iš viso EUR 280K). Iki balandžio 1 d. visiškai perėjo 11 iš 14 operatorių, likę 3 įsipareigojo hibridiniam darbui su 2026 m. palaipsnio atsisakymo grafiku.',
             },
             {
               title: '4 žingsnis: Startas Žemės dieną, sezono rezultatai ir UNESCO atitiktis',
@@ -5998,17 +5998,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: Maršrutų žymėjimas, rizikos vertinimas ir jūrų zonavimo atitiktis',
               detail:
-                "Nuo 2024 m. lapkričio iki 2025 m. vasario Delacroix komanda kartu su Afarer maršrutų specialistais ir Prancūzijos biologinės įvairovės biuru (OFB) ištyrė ir klasifikavo 50 km pakrantės. Buvo išskirti 5 maršrutai – (1) nuo Cap d'Antibes iki Baie des Milliardaires (4,2 km, vidutinis lygis), (2) apiplaukimas aplink Ile Sainte-Marguerite (7,1 km, pažengusiems), (3) Calanque de Maubois (2,8 km, pradedantiesiems), (4) Villefranche-sur-Mer jūrų rezervatas (3,5 km, tik su vedliu) ir (5) saulėlydžio plaukimas nuo Mentono iki Cap Martin (5,5 km, vidutinis lygis). Kiekvienas maršrutas pažymėtas GPS su 12–15 kelio taškų, įskaitant privalomas poilsio stoteles iš anksto patvirtintuose privačiuose paplūdimio klubuose, mokančiuose metinį EUR 2,500 partnerystės mokestį.",
+                "Nuo 2024 m. lapkričio iki 2025 m. vasario Delacroix komanda kartu su OLagoon maršrutų specialistais ir Prancūzijos biologinės įvairovės biuru (OFB) ištyrė ir klasifikavo 50 km pakrantės. Buvo išskirti 5 maršrutai – (1) nuo Cap d'Antibes iki Baie des Milliardaires (4,2 km, vidutinis lygis), (2) apiplaukimas aplink Ile Sainte-Marguerite (7,1 km, pažengusiems), (3) Calanque de Maubois (2,8 km, pradedantiesiems), (4) Villefranche-sur-Mer jūrų rezervatas (3,5 km, tik su vedliu) ir (5) saulėlydžio plaukimas nuo Mentono iki Cap Martin (5,5 km, vidutinis lygis). Kiekvienas maršrutas pažymėtas GPS su 12–15 kelio taškų, įskaitant privalomas poilsio stoteles iš anksto patvirtintuose privačiuose paplūdimio klubuose, mokančiuose metinį EUR 2,500 partnerystės mokestį.",
             },
             {
               title: '2 žingsnis: Prabangaus parko specifikacijos ir viešbučių konkjeržų integracija',
               detail:
-                'FRTCB užsakė 350 Afarer Explorer 11\'6" X lentų individualia „Mediterranean Breeze" spalvų palete (terakota, alyvuogių žalia, kreminė) su integruotu GoPro laikikliu, vandeniui atsparaus telefono dėklo grioveliu ir šampano butelio laikikliu (individuali D-ring tinklinė kišenė priešais denio kilimėlį). Prie kiekvienos lentos pridėtas keturių dalių anglies pluošto irklas, tinkantis į Peli-case kelioninį paketą. Afarer programinės įrangos komanda sukūrė „white-label" mobilęją žiniatinklio programėlę, leidžiančią viešbučių konkjeržams rezervuoti lentas, realiuoju laiku per 6 prijungtus orų plūdurus tikrinti maršrutų sąlygas ir aktyvuoti avarinius įspėjimus. Iš viso užsakymas siekė EUR 429K.',
+                'FRTCB užsakė 350 OLagoon Explorer 11\'6" X lentų individualia „Mediterranean Breeze" spalvų palete (terakota, alyvuogių žalia, kreminė) su integruotu GoPro laikikliu, vandeniui atsparaus telefono dėklo grioveliu ir šampano butelio laikikliu (individuali D-ring tinklinė kišenė priešais denio kilimėlį). Prie kiekvienos lentos pridėtas keturių dalių anglies pluošto irklas, tinkantis į Peli-case kelioninį paketą. OLagoon programinės įrangos komanda sukūrė „white-label" mobilęją žiniatinklio programėlę, leidžiančią viešbučių konkjeržams rezervuoti lentas, realiuoju laiku per 6 prijungtus orų plūdurus tikrinti maršrutų sąlygas ir aktyvuoti avarinius įspėjimus. Iš viso užsakymas siekė EUR 429K.',
             },
             {
               title: '3 žingsnis: Vedlių sertifikavimas, saugos protokolas ir partnerių paplūdimio klubų tinklas',
               detail:
-                '2025 m. kovą Afarer Nicos jachtų klube surengė 5 regioninius mokymus ir sertifikuodama 62 vedlius (23 viešbučių veiklų darbuotojai, 39 nepriklausomi vandens sporto operatoriai). Sertifikavimas apėmė FRTCB specifinę medžiagą – Viduržemio jūros vėjo modelių atpažinimą (Mistral/Libeccio atvejai), pirmąją pagalbą nuo medūzų ir prabangių svečių bendravimo standartus. Delacroix patvirtino saugos protokolą, pagal kurį visi svečiai privalo dėvėti gelbėjimosi liemenes (RFD NRS Orion liemenės su švilpuku ir peiliu), ryšys tarp lentų palaikomas vandeniui atspariais VHF radijo imtuvais, o grupė negali būti didesnė kaip 12 svečių 2 vedliams.',
+                '2025 m. kovą OLagoon Nicos jachtų klube surengė 5 regioninius mokymus ir sertifikuodama 62 vedlius (23 viešbučių veiklų darbuotojai, 39 nepriklausomi vandens sporto operatoriai). Sertifikavimas apėmė FRTCB specifinę medžiagą – Viduržemio jūros vėjo modelių atpažinimą (Mistral/Libeccio atvejai), pirmąją pagalbą nuo medūzų ir prabangių svečių bendravimo standartus. Delacroix patvirtino saugos protokolą, pagal kurį visi svečiai privalo dėvėti gelbėjimosi liemenes (RFD NRS Orion liemenės su švilpuku ir peiliu), ryšys tarp lentų palaikomas vandeniui atspariais VHF radijo imtuvais, o grupė negali būti didesnė kaip 12 svečių 2 vedliams.',
             },
             {
               title: '4 žingsnis: Startas Kanų kino festivalyje ir spartus sezono augimas',
@@ -6025,13 +6025,13 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl turizmo projektai renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl turizmo projektai renkasi OLagoon',
       items: [
         {
           title: 'Sauga',
           description:
-            'Sukurta visiems. Afarer užtikrina, kad įranga atitiktų aukščiausius saugos standartus, skirtus įvairiems viešiesiems vartotojams.',
+            'Sukurta visiems. OLagoon užtikrina, kad įranga atitiktų aukščiausius saugos standartus, skirtus įvairiems viešiesiems vartotojams.',
         },
         {
           title: 'Tvarumas',
@@ -6053,7 +6053,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kokie saugos sertifikatai aktualūs viešojo SUP parko įrangai?',
         answer:
-          'Afarer teikia produkto specifikacijas, našumo informaciją ir atitikties dokumentaciją, tinkančią vyriausybiniams pirkimams. Mes palaikome viešuosius projektus teikdami medžiagų informaciją ir kokybės sertifikatus, reikalingus konkursų procesams.',
+          'OLagoon teikia produkto specifikacijas, našumo informaciją ir atitikties dokumentaciją, tinkančią vyriausybiniams pirkimams. Mes palaikome viešuosius projektus teikdami medžiagų informaciją ir kokybės sertifikatus, reikalingus konkursų procesams.',
       },
       {
         question: 'Kiek SUP lentų reikia viešajai vandens poilsio programai?',
@@ -6063,28 +6063,28 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Ar SUP lentos gali būti individualizuotos miesto ar vietovės įvaizdžiu?',
         answer:
-          'Taip, Afarer palaiko turistinės vietovės įvaizdžio pritaikymą, įskaitant miesto logotipus, turizmo identiteto grafiką, vietinio dizaino elementus ir teminę grafiką. Tai padeda sukurti išskirtinę vandens patirtį, stiprinančią vietovės identitetą.',
+          'Taip, OLagoon palaiko turistinės vietovės įvaizdžio pritaikymą, įskaitant miesto logotipus, turizmo identiteto grafiką, vietinio dizaino elementus ir teminę grafiką. Tai padeda sukurti išskirtinę vandens patirtį, stiprinančią vietovės identitetą.',
       },
       {
-        question: 'Kokias ekologiškas savybes siūlo Afarer SUP lentos?',
+        question: 'Kokias ekologiškas savybes siūlo OLagoon SUP lentos?',
         answer:
-          'Afarer telkiasi į patvarias medžiagas, kurios prailgina produkto eksploatavimo laikotarpį ir retina keitimą, taip sumažindamos išteklių suvartojimą ir atliekas. Taip pat teikiame aplinkosaugos dokumentaciją ir atitikties informaciją, padedančią vykdyti tvaraus turizmo iniciatyvas.',
+          'OLagoon telkiasi į patvarias medžiagas, kurios prailgina produkto eksploatavimo laikotarpį ir retina keitimą, taip sumažindamos išteklių suvartojimą ir atliekas. Taip pat teikiame aplinkosaugos dokumentaciją ir atitikties informaciją, padedančią vykdyti tvaraus turizmo iniciatyvas.',
       },
       {
-        question: 'Kaip Afarer palaiko vyriausybinius pirkimus ir konkursų procesus?',
+        question: 'Kaip OLagoon palaiko vyriausybinius pirkimus ir konkursų procesus?',
         answer:
-          'Afarer teikia išsamų palaikymą, įskaitant techninių specifikacijų rengimą, produkto našumo dokumentaciją, konfigūracijos parinktis, pagalbą rengiant projektų pasiūlymus, parko rekomendacijas, įgyvendinimo grafikus ir didelių užsakymų gamybos bei pristatymo koordinavimą.',
+          'OLagoon teikia išsamų palaikymą, įskaitant techninių specifikacijų rengimą, produkto našumo dokumentaciją, konfigūracijos parinktis, pagalbą rengiant projektų pasiūlymus, parko rekomendacijas, įgyvendinimo grafikus ir didelių užsakymų gamybos bei pristatymo koordinavimą.',
       },
       {
         question: 'Kokia priežiūra reikalinga viešiesiems SUP parkams savivaldybėse?',
         answer:
-          'Afarer teikia išsamų operacinį palaikymą, įskaitant priežiūros gaires, patikros procesus, dalių keitimo procedūras, atsarginių dalių prieinamumą ir parko valdymo planavimą. Tai užtikrina ilgalaikį viešojo poilsio programų patikimumą.',
+          'OLagoon teikia išsamų operacinį palaikymą, įskaitant priežiūros gaires, patikros procesus, dalių keitimo procedūras, atsarginių dalių prieinamumą ir parko valdymo planavimą. Tai užtikrina ilgalaikį viešojo poilsio programų patikimumą.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo vietovės vandens patirtį su Afarer',
+      title: 'Sukurkite savo vietovės vandens patirtį su OLagoon',
       subtitle:
-        'Jūsų vandens ištekliai turi turizmo potencialą. Afarer padeda paversti ežerus, upes, pakrantes ir viešuosius parkus į įsimintinus lauko turizmo objektus.',
+        'Jūsų vandens ištekliai turi turizmo potencialą. OLagoon padeda paversti ežerus, upes, pakrantes ir viešuosius parkus į įsimintinus lauko turizmo objektus.',
       primaryAction: {
         text: 'Pradėkite savo projektą',
       },
@@ -6098,7 +6098,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Vaikų SUP gamintojas | {SITE}',
       description:
-        'Afarer teikia saugius vaikų SUP sprendimus vasaros stovykloms, mokykloms ir jaunimo nuotykių programoms. Vaikų SUP lentos, Giant SUP įranga, komerciniai parkai ir individualūs OEM sprendimai.',
+        'OLagoon teikia saugius vaikų SUP sprendimus vasaros stovykloms, mokykloms ir jaunimo nuotykių programoms. Vaikų SUP lentos, Giant SUP įranga, komerciniai parkai ir individualūs OEM sprendimai.',
     },
     hero: {
       tagline: 'Saugūs ir smagūs SUP sprendimai vaikų nuotykių stovykloms, mokykloms ir jaunimo lauko programoms',
@@ -6190,7 +6190,7 @@ const lt: Record<string, SolutionOverride> = {
         {
           title: 'Jaunimo produktų atranka',
           detail:
-            'Afarer rekomendavo vaikų SUP modelius, stabilias pradedančiųjų lentas ir instruktorių įrangą, pritaikytą stovyklos amžiaus grupėms.',
+            'OLagoon rekomendavo vaikų SUP modelius, stabilias pradedančiųjų lentas ir instruktorių įrangą, pritaikytą stovyklos amžiaus grupėms.',
         },
         {
           title: 'Saugos individualizavimas',
@@ -6227,17 +6227,17 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: specialaus vaikų SUP dizainas (Junior Explorer 9\'6" X)',
               detail:
-                '2024 m. liepą Connolly kartu su Afarer produktų komanda sukūrė specialiai vaikams skirtą SUP. Po 3 prototipų iteracijų buvo patvirtintas Junior Explorer 9\'6" X (28" plotis, 4" storis, 180 L tūris) — 25% siauresnis ir 40% lengvesnis už standartines lentas. Pagrindinės savybės — įdubęs denio paviršius (1,5" žemėjimas), mažinantis sunkio centrą 22%; svorio diapazono indikatorius (spalvotos juostos 18–55 kg); ir po dvi saugos rankenas kiekviename šone. Connolly užsakė 120 lentų su mokyklos prekės ženklo denio grafika (6 mokyklos spalvų deriniai, po 20 kiekvieno). Prototipų kūrimas ir testavimas kainavo $14K, o gamybos užsakymas — $96K.',
+                '2024 m. liepą Connolly kartu su OLagoon produktų komanda sukūrė specialiai vaikams skirtą SUP. Po 3 prototipų iteracijų buvo patvirtintas Junior Explorer 9\'6" X (28" plotis, 4" storis, 180 L tūris) — 25% siauresnis ir 40% lengvesnis už standartines lentas. Pagrindinės savybės — įdubęs denio paviršius (1,5" žemėjimas), mažinantis sunkio centrą 22%; svorio diapazono indikatorius (spalvotos juostos 18–55 kg); ir po dvi saugos rankenas kiekviename šone. Connolly užsakė 120 lentų su mokyklos prekės ženklo denio grafika (6 mokyklos spalvų deriniai, po 20 kiekvieno). Prototipų kūrimas ir testavimas kainavo $14K, o gamybos užsakymas — $96K.',
             },
             {
               title: '2 žingsnis: mokymo programos kūrimas derinant su ACARA',
               detail:
-                'Connolly dirbo su Afarer švietimo konsultantais ir Kvinslando mokymo programų institucija, kurdamas „Paddle & Discover" — 14 sesijų SUP tyrinėjimų programą, suderintą su Australian Curriculum v9.0 (gamtos mokslai, HPE, geografija). Sesijos apėmė vandens vabzdžių rinkimą (naudojant deniui pritvirtintą rinkimo dėklą), ištirpusio deguonies matavimą (nešiojamasis matuoklis, pritvirtintas prie D-kabučių), plūdumo ir poslinkio eksperimentus bei Everglades ekosistemų kartografavimą. Programa turėjo 3 sudėtingumo lygius — Eels (paruošiamoji–1 klasė, baseinas ir ramus vanduo), Turtles (2–3 klasės, saugoma įlanka) ir Stingrays (4–6 klasės, atviri Everglades). Afarer išspausdino oro sąlygoms atsparias instrukcijų korteles kiekvienam lygiui.',
+                'Connolly dirbo su OLagoon švietimo konsultantais ir Kvinslando mokymo programų institucija, kurdamas „Paddle & Discover" — 14 sesijų SUP tyrinėjimų programą, suderintą su Australian Curriculum v9.0 (gamtos mokslai, HPE, geografija). Sesijos apėmė vandens vabzdžių rinkimą (naudojant deniui pritvirtintą rinkimo dėklą), ištirpusio deguonies matavimą (nešiojamasis matuoklis, pritvirtintas prie D-kabučių), plūdumo ir poslinkio eksperimentus bei Everglades ekosistemų kartografavimą. Programa turėjo 3 sudėtingumo lygius — Eels (paruošiamoji–1 klasė, baseinas ir ramus vanduo), Turtles (2–3 klasės, saugoma įlanka) ir Stingrays (4–6 klasės, atviri Everglades). OLagoon išspausdino oro sąlygoms atsparias instrukcijų korteles kiekvienam lygiui.',
             },
             {
               title: '3 žingsnis: mokytojų sertifikavimas, rizikos vertinimas ir saugos nuo saulės integravimas',
               detail:
-                'Per 3 2024 m. rugsėjo savaitgalius Afarer mokymų komanda sertifikavo 14 mokytojų (neturinčių ankstesnės SUP patirties) modifikuotu IRF 1 lygio kursu, kuriame akcentuota vaikų sauga — grupių valdymas švilpuko signalais (3 signalai — sustoti, 5 — ekstremali padėtis), „koalos nulipimas" (vaikas iš sėdimos padėties krenta ant lentos) ir vaikų, sveriančių mažiau nei 30 kg, atsistatymas po apvirtimo. Kvinslando Švietimo departamentas patvirtino SUP programą pagal valstijos lauko veiklų rizikos vertinimo sistemą, numatančią 1:6 instruktoriaus ir mokinio santykį ramiame vandenyje (bangavimas <0,3 m, vėjas <12 mazgų). Sauga nuo saulės (apsauginiai marškinėliai, SPF 50+, kaklo apsaugos) buvo integruota kaip 0 sesijos reikalavimas.',
+                'Per 3 2024 m. rugsėjo savaitgalius OLagoon mokymų komanda sertifikavo 14 mokytojų (neturinčių ankstesnės SUP patirties) modifikuotu IRF 1 lygio kursu, kuriame akcentuota vaikų sauga — grupių valdymas švilpuko signalais (3 signalai — sustoti, 5 — ekstremali padėtis), „koalos nulipimas" (vaikas iš sėdimos padėties krenta ant lentos) ir vaikų, sveriančių mažiau nei 30 kg, atsistatymas po apvirtimo. Kvinslando Švietimo departamentas patvirtino SUP programą pagal valstijos lauko veiklų rizikos vertinimo sistemą, numatančią 1:6 instruktoriaus ir mokinio santykį ramiame vandenyje (bangavimas <0,3 m, vėjas <12 mazgų). Sauga nuo saulės (apsauginiai marškinėliai, SPF 50+, kaklo apsaugos) buvo integruota kaip 0 sesijos reikalavimas.',
             },
             {
               title: '4 žingsnis: 2025 m. 1 trimestro paleidimas ir įvertinami mokinių rezultatai',
@@ -6265,7 +6265,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: parko įsigijimas ir amžiui tinkami lentų dydžiai',
               detail:
-                '2025 m. sausį Whitfield stovyklautojams nuo 8 iki 11 metų parinko Afarer Junior Explorer 9\'6" X (40 lentų), o 12–15 metų amžiui — Explorer 10\'8" X (30 lentų), iš viso $58K. Kiekvienoje lentoje ji nurodė sumontuoti po dvi priekines D-kabutes GoPro arba rinkimo dėklo tvirtinimui ir denio guminį tinklą vandeniui atspariam gamtos dienoraščiui (Rite in the Rain, spiralės įrišimas). Kiekviena lenta buvo lazeriu išgraviruota su stovyklautojo ID numeriu ir Camp Keowee meškėno logotipu.',
+                '2025 m. sausį Whitfield stovyklautojams nuo 8 iki 11 metų parinko OLagoon Junior Explorer 9\'6" X (40 lentų), o 12–15 metų amžiui — Explorer 10\'8" X (30 lentų), iš viso $58K. Kiekvienoje lentoje ji nurodė sumontuoti po dvi priekines D-kabutes GoPro arba rinkimo dėklo tvirtinimui ir denio guminį tinklą vandeniui atspariam gamtos dienoraščiui (Rite in the Rain, spiralės įrišimas). Kiekviena lenta buvo lazeriu išgraviruota su stovyklautojo ID numeriu ir Camp Keowee meškėno logotipu.',
             },
             {
               title: '2 žingsnis: 4 lygių SUP tyrinėjimų ženklelių programos dizainas',
@@ -6275,7 +6275,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '3 žingsnis: patarėjų sertifikavimas ir Lake Jocassee saugos zonų kartografavimas',
               detail:
-                '2025 m. gegužę (prieš stovyklos personalo mokymus) Afarer sertifikavo 22 vandens teritorijų patarėjus (19–24 metų) pagal 3 dienų IRF parengtą SUP gido kursą, sutelktą į jaunimo grupių valdymą. Whitfield pažymėjo 6 saugos zonas su spalvotomis plūdėmis — plaukiojimo zona (raudona), pradedančiųjų irklavimo zona (geltona, ne toliau kaip 200 m nuo prieplaukos), vidutinio lygio zona (žalia, iki 1 km palei vakarinį krantą), pažengusiųjų zona (mėlyna, visame ežere su radijo patikra) ir draudžiamos zonos (violetinės, aplink užtvankos įrengimus ir Bald Rock uolas). Kiekvienas patarėjas turėjo vandeniui atsparų VHF radiją, o 15 kanalas buvo skirtas SUP operacijoms. Duke Power ežero valdymo institucija patvirtino planą po bendros saugos peržiūros gegužės 12 d.',
+                '2025 m. gegužę (prieš stovyklos personalo mokymus) OLagoon sertifikavo 22 vandens teritorijų patarėjus (19–24 metų) pagal 3 dienų IRF parengtą SUP gido kursą, sutelktą į jaunimo grupių valdymą. Whitfield pažymėjo 6 saugos zonas su spalvotomis plūdėmis — plaukiojimo zona (raudona), pradedančiųjų irklavimo zona (geltona, ne toliau kaip 200 m nuo prieplaukos), vidutinio lygio zona (žalia, iki 1 km palei vakarinį krantą), pažengusiųjų zona (mėlyna, visame ežere su radijo patikra) ir draudžiamos zonos (violetinės, aplink užtvankos įrengimus ir Bald Rock uolas). Kiekvienas patarėjas turėjo vandeniui atsparų VHF radiją, o 15 kanalas buvo skirtas SUP operacijoms. Duke Power ežero valdymo institucija patvirtino planą po bendros saugos peržiūros gegužės 12 d.',
             },
             {
               title: '4 žingsnis: 2025 m. vasaros sezono rezultatai ir ženklelių pasiekimų rodikliai',
@@ -6292,8 +6292,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl jaunimo programos renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl jaunimo programos renkasi OLagoon',
       items: [
         {
           title: 'Vaikų sauga',
@@ -6321,7 +6321,7 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kokio dydžio SUP lenta tinka skirtingo amžiaus vaikams?',
         answer:
-          'Afarer siūlo mažesnių, jaunimui skirtų SUP dydžių, sukurtų vaikams ir paaugliams. Šios lentos, palyginti su suaugusiųjų modeliais, turi mažesnį tūrį, siauresnį plotį ir lengvesnį svorį, todėl jauniems naudotojams lengviau jomis naudotis, jas valdyti ir mokytis.',
+          'OLagoon siūlo mažesnių, jaunimui skirtų SUP dydžių, sukurtų vaikams ir paaugliams. Šios lentos, palyginti su suaugusiųjų modeliais, turi mažesnį tūrį, siauresnį plotį ir lengvesnį svorį, todėl jauniems naudotojams lengviau jomis naudotis, jas valdyti ir mokytis.',
       },
       {
         question: 'Kaip Giant SUP veikia komandų formavimo veiklose?',
@@ -6331,26 +6331,26 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kokios saugos funkcijos yra vaikų SUP lentose?',
         answer:
-          'Afarer jaunimo lentose yra kelių rankenų saugos dizainas (šoninės, priekinė ir nešimo rankenos), visas EVA neslidus denis stabiliam stovėjimui, suapvalintos saugios formos be aštrių kraštų, didelio plūdumo konstrukcija stabiliam plūdimui ir lengvas atsistatymas po kritimo.',
+          'OLagoon jaunimo lentose yra kelių rankenų saugos dizainas (šoninės, priekinė ir nešimo rankenos), visas EVA neslidus denis stabiliam stovėjimui, suapvalintos saugios formos be aštrių kraštų, didelio plūdumo konstrukcija stabiliam plūdimui ir lengvas atsistatymas po kritimo.',
       },
       {
         question: 'Ar SUP lentas galima individualizuoti su mūsų stovyklos logotipu ir spalvomis?',
         answer:
-          'Taip, Afarer palaiko visapusį individualizavimą, įskaitant stovyklos logotipus, programų spalvas, prekės ženklo elementus ir teminę grafiką. Individualus prekės ženklas padeda sukurti unikalią stovyklos tapatybę ir padaro įrangą lengvai atpažįstamą.',
+          'Taip, OLagoon palaiko visapusį individualizavimą, įskaitant stovyklos logotipus, programų spalvas, prekės ženklo elementus ir teminę grafiką. Individualus prekės ženklas padeda sukurti unikalią stovyklos tapatybę ir padaro įrangą lengvai atpažįstamą.',
       },
       {
         question: 'Kiek lentų reikia jaunimo SUP programai pradėti?',
         answer:
-          'Afarer rekomenduoja pradinį paketą, įskaitant vaikų lentas, instruktorių lentas, irklus, siurblius, saugos virves ir nešiojimo maišus. Parko dydis priklauso nuo grupės talpos — tipinė stovykla gali pradėti nuo 10–20 jaunimo lentų bei instruktorių įrangos ir vėliau plėstis pagal sezoną.',
+          'OLagoon rekomenduoja pradinį paketą, įskaitant vaikų lentas, instruktorių lentas, irklus, siurblius, saugos virves ir nešiojimo maišus. Parko dydis priklauso nuo grupės talpos — tipinė stovykla gali pradėti nuo 10–20 jaunimo lentų bei instruktorių įrangos ir vėliau plėstis pagal sezoną.',
       },
       {
         question: 'Kokią instruktorių įrangą rekomenduojama stovyklų SUP programoms?',
         answer:
-          'Afarer rekomenduoja instruktoriams skirtas lentas su patobulintu stabilumu ir valdymo funkcijomis bei saugos priedus, įskaitant saugos virves, siurblius, remonto rinkinius ir ryšių įrangą. Stovyklos parko paketas gali apimti atskiras instruktorių lentas ir atsargines dalis.',
+          'OLagoon rekomenduoja instruktoriams skirtas lentas su patobulintu stabilumu ir valdymo funkcijomis bei saugos priedus, įskaitant saugos virves, siurblius, remonto rinkinius ir ryšių įrangą. Stovyklos parko paketas gali apimti atskiras instruktorių lentas ir atsargines dalis.',
       },
     ],
     cta: {
-      title: 'Kurkite savo vaikų vandens nuotykių programą su Afarer',
+      title: 'Kurkite savo vaikų vandens nuotykių programą su OLagoon',
       subtitle:
         'Padėkite vaikams profesionaliai sukurtų SUP tyrinėjimų programų dėka atrasti pasitikėjimą savimi, komandinį darbą, gamtą ir nuotykius.',
       primaryAction: {
@@ -6366,7 +6366,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Vandens gelbėjimo SUP gamintojas | {SITE}',
       description:
-        'Afarer teikia profesionalias vandens gelbėjimo SUP sistemas gelbėtojams, ekstremaliųjų situacijų komandoms ir saugos organizacijoms. Didelės talpos gelbėjimo lentos, kelių rankenų dizainas, vilkimo sistemos ir individualūs OEM sprendimai.',
+        'OLagoon teikia profesionalias vandens gelbėjimo SUP sistemas gelbėtojams, ekstremaliųjų situacijų komandoms ir saugos organizacijoms. Didelės talpos gelbėjimo lentos, kelių rankenų dizainas, vilkimo sistemos ir individualūs OEM sprendimai.',
     },
     hero: {
       tagline:
@@ -6498,7 +6498,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: specialaus gelbėjimo SUP dizainas ir medicininė įrangos integracija',
               detail:
-                'Nuo 2025 m. sausio iki balandžio Tran kartu su Afarer jūrinės pramonės padaliniu kūrė „RescuePro 12\'6" XR“. Lenta pasižymi 34" pločiu, užtikrinančiu stabilumą mažame greityje, 6" storio karinės klasės PVC (1 200 denier, išbandyta iki 25 PSI) ir plokščiu deniu be rockerio, skirtu vienodam įrangos montavimui. Afarer integreavo 12 nerūdijančio plieno D-kilpų priekio ir galinės dalies konfigūracijoje medicininėms kapsulėms, pritvirtinamoms elastinėmis virvutėmis (pirmoji pagalba, AED, deguonis), tvirtinti. Lentoje yra neoninės geltonos spalvos matomumo juosta su SOLAS klasės atšvaitine juostele ir priekyje sumontuotas vilkimo kablys, išbandytas su 400 kg linijine trauka. Po 14 dienų bandymų bangų baseine Kvinslando universitete galutinis dizainas buvo patvirtintas su 7,5 mazgo didžiausiu greičiu esant apkrovai (110 kg irkluotojas + 30 kg įranga).',
+                'Nuo 2025 m. sausio iki balandžio Tran kartu su OLagoon jūrinės pramonės padaliniu kūrė „RescuePro 12\'6" XR“. Lenta pasižymi 34" pločiu, užtikrinančiu stabilumą mažame greityje, 6" storio karinės klasės PVC (1 200 denier, išbandyta iki 25 PSI) ir plokščiu deniu be rockerio, skirtu vienodam įrangos montavimui. OLagoon integreavo 12 nerūdijančio plieno D-kilpų priekio ir galinės dalies konfigūracijoje medicininėms kapsulėms, pritvirtinamoms elastinėmis virvutėmis (pirmoji pagalba, AED, deguonis), tvirtinti. Lentoje yra neoninės geltonos spalvos matomumo juosta su SOLAS klasės atšvaitine juostele ir priekyje sumontuotas vilkimo kablys, išbandytas su 400 kg linijine trauka. Po 14 dienų bandymų bangų baseine Kvinslando universitete galutinis dizainas buvo patvirtintas su 7,5 mazgo didžiausiu greičiu esant apkrovai (110 kg irkluotojas + 30 kg įranga).',
             },
             {
               title: '2 žingsnis: klubų paskirstymas, laikymo stovai ir greito paruošimo sistema',
@@ -6508,12 +6508,12 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '3 žingsnis: gelbėtojų SUP gelbėjimo sertifikavimas ir bangų įgūdžių testavimas',
               detail:
-                '2025 m. rugpjūtį (priešvasariniu mokymų laikotarpiu) Afarer gelbėjimo mokymų padalinys 82 vyresniesiems gelbėtojams 5 regioniniuose centruose suteikė 40 valandų „SUP Rescue Operator“ sertifikatą. Kursas apėmė: sąmonę praradusių aukų vilkimą irklu (100 m vilkimas per mažiau nei 3 min.), įplaukimo ir išplaukimo iš bangų zonos su įranga technikas, AED panaudojimą ant nestabilios platformos ir stuburo imobilizavimą ant lentos (ortopedinės apykaklės uždedamos išlaikant lentos stabilumą). Kiekvienas kandidatas išlaikė praktinį egzaminą, kurio metu reikėjo: įirkluoti 200 m iki aukos, atlikti simuliuotą be sąmonės esančios aukos gelbėjimą su įrangos išgelbėjimu ir grįžti į krantą — visa tai per 7 minutes. Išlaikymo rodiklis: 89 % (73 iš 82). Neišlaikę kandidatai buvo perkelti į antrinius vaidmenis.',
+                '2025 m. rugpjūtį (priešvasariniu mokymų laikotarpiu) OLagoon gelbėjimo mokymų padalinys 82 vyresniesiems gelbėtojams 5 regioniniuose centruose suteikė 40 valandų „SUP Rescue Operator“ sertifikatą. Kursas apėmė: sąmonę praradusių aukų vilkimą irklu (100 m vilkimas per mažiau nei 3 min.), įplaukimo ir išplaukimo iš bangų zonos su įranga technikas, AED panaudojimą ant nestabilios platformos ir stuburo imobilizavimą ant lentos (ortopedinės apykaklės uždedamos išlaikant lentos stabilumą). Kiekvienas kandidatas išlaikė praktinį egzaminą, kurio metu reikėjo: įirkluoti 200 m iki aukos, atlikti simuliuotą be sąmonės esančios aukos gelbėjimą su įrangos išgelbėjimu ir grįžti į krantą — visa tai per 7 minutes. Išlaikymo rodiklis: 89 % (73 iš 82). Neišlaikę kandidatai buvo perkelti į antrinius vaidmenis.',
             },
             {
               title: '4 žingsnis: vasaros sezono išplėtojimas ir gelbėjimo rezultatų duomenys',
               detail:
-                'SUP gelbėjimo parkas buvo aktyvuotas 2025 m. spalio 1 d. visuose 11 klubų Australijos vasaros sezonui. Iki 2026 m. kovo 31 d. (6 mėnesių sezonas) SLSQ užregistravo 347 su SUP atliktus gelbėjimo darbus, palyginti su 512 IRB gelbėjimo darbų, tai sudarė 40,4 % visų gelbėjimo darbų vandenyje. Vidutinis SUP paruošimo laikas buvo 47 sekundės (palyginti su 4 min. 20 sek. IRB). Greičiausias gelbėjimas truko 22 sekundes: 9 metų vaikas, išnešančiosios srovės pagautas 80 m nuo kranto Surfers Paradise paplūdimyje. SUP gelbėjimo sėkmės rodiklis siekė 99,1 % (344 sėkmingi gelbėjimai, 3 aukoms prireikė papildomo IRB). Tran pranešė apie 0 su sraigtu susijusių traumų, 0 lentų gedimų ir 2 lentų remontus (atsisluoksniavę pelekų lizdai, abu sutvarkyti per 48 valandas Afarer skubaus remonto paslaugos). SLSQ užsakė 18 papildomų „RescuePro“ lentų 2026-27 m. sezonui North Queensland klubuose.',
+                'SUP gelbėjimo parkas buvo aktyvuotas 2025 m. spalio 1 d. visuose 11 klubų Australijos vasaros sezonui. Iki 2026 m. kovo 31 d. (6 mėnesių sezonas) SLSQ užregistravo 347 su SUP atliktus gelbėjimo darbus, palyginti su 512 IRB gelbėjimo darbų, tai sudarė 40,4 % visų gelbėjimo darbų vandenyje. Vidutinis SUP paruošimo laikas buvo 47 sekundės (palyginti su 4 min. 20 sek. IRB). Greičiausias gelbėjimas truko 22 sekundes: 9 metų vaikas, išnešančiosios srovės pagautas 80 m nuo kranto Surfers Paradise paplūdimyje. SUP gelbėjimo sėkmės rodiklis siekė 99,1 % (344 sėkmingi gelbėjimai, 3 aukoms prireikė papildomo IRB). Tran pranešė apie 0 su sraigtu susijusių traumų, 0 lentų gedimų ir 2 lentų remontus (atsisluoksniavę pelekų lizdai, abu sutvarkyti per 48 valandas OLagoon skubaus remonto paslaugos). SLSQ užsakė 18 papildomų „RescuePro“ lentų 2026-27 m. sezonui North Queensland klubuose.',
             },
           ],
           results: [
@@ -6536,7 +6536,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: specialaus kranto bangų SUP dizainas ir traumų įrangos integracija',
               detail:
-                'Nuo 2025 m. kovo iki birželio Rodriguez kartu su Afarer gelbėjimo padaliniu pritaikė „RescuePro 12\'6" XR“ Vakarų pakrantės kranto bangų sąlygoms. Modifikacijos apėmė: pakeltą nosį (2,5" pakilimą), užtikrinančią pramušimo galimybę tuštinėse 1-3 pėdų bangose; keturių pelekų lizdų konfigūraciją manevravimui ankštose bangose; ir priekyje sumontuotą vilkimo diržo žiedą gelbėjimo plaukikui tvirtinti. Medicininė kapsulė buvo įrengta su „North American Rescue M9“ traumų rinkiniu (turniketas, krūtinės sandariklis, hemostatinė marlė), „Phillips HeartStart FRx“ AED ir „Ferno KED“ stuburo imobilizavimo prietaisu. NBFD jūrinis padalinys prieš patvirtindamas galutinį dizainą išbandė 4 prototipus 12 mokymų sesijų The Wedge vietoje.',
+                'Nuo 2025 m. kovo iki birželio Rodriguez kartu su OLagoon gelbėjimo padaliniu pritaikė „RescuePro 12\'6" XR“ Vakarų pakrantės kranto bangų sąlygoms. Modifikacijos apėmė: pakeltą nosį (2,5" pakilimą), užtikrinančią pramušimo galimybę tuštinėse 1-3 pėdų bangose; keturių pelekų lizdų konfigūraciją manevravimui ankštose bangose; ir priekyje sumontuotą vilkimo diržo žiedą gelbėjimo plaukikui tvirtinti. Medicininė kapsulė buvo įrengta su „North American Rescue M9“ traumų rinkiniu (turniketas, krūtinės sandariklis, hemostatinė marlė), „Phillips HeartStart FRx“ AED ir „Ferno KED“ stuburo imobilizavimo prietaisu. NBFD jūrinis padalinys prieš patvirtindamas galutinį dizainą išbandė 4 prototipus 12 mokymų sesijų The Wedge vietoje.',
             },
             {
               title: '2 žingsnis: stočių išdėstymas, laikymas ir greitojo reagavimo protokolai',
@@ -6546,7 +6546,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '3 žingsnis: NBFD pritaikytas SUP gelbėjimo sertifikavimas ir praktinės pratybos',
               detail:
-                'Per 5 dienas 2025 m. liepą Afarer vyriausiasis gelbėjimo instruktorius paplūdimyje atliko 18 NBFD jūrinės saugos pareigūnų sertifikavimą. Kursas buvo pritaikytas Vakarų pakrantės sąlygoms: nardymas po bangomis su SUP, gelbėjimo ištraukimas startuojant iš paplūdimio (aukos užtempimas ant lentos besilaužančiose bangose) ir scenarijų koordinavimas su NBFD „Bell 412“ sraigtasparniu. Rodriguez reikalavo, kad visi 18 pareigūnų išlaikytų galutinį scenarijų: rasti simuliuojamą auką (80 kg manekenas) 150 m nuo The Wedge 2-3 pėdų bangose, atlikti stuburo imobilizavimą vandenyje ir grįžti į paplūdimį — visa tai per 8 minutes. Išlaikymo rodiklis: 100 %, atlikimo laiko mediana — 6 minutės 12 sekundžių.',
+                'Per 5 dienas 2025 m. liepą OLagoon vyriausiasis gelbėjimo instruktorius paplūdimyje atliko 18 NBFD jūrinės saugos pareigūnų sertifikavimą. Kursas buvo pritaikytas Vakarų pakrantės sąlygoms: nardymas po bangomis su SUP, gelbėjimo ištraukimas startuojant iš paplūdimio (aukos užtempimas ant lentos besilaužančiose bangose) ir scenarijų koordinavimas su NBFD „Bell 412“ sraigtasparniu. Rodriguez reikalavo, kad visi 18 pareigūnų išlaikytų galutinį scenarijų: rasti simuliuojamą auką (80 kg manekenas) 150 m nuo The Wedge 2-3 pėdų bangose, atlikti stuburo imobilizavimą vandenyje ir grįžti į paplūdimį — visa tai per 8 minutes. Išlaikymo rodiklis: 100 %, atlikimo laiko mediana — 6 minutės 12 sekundžių.',
             },
             {
               title: '4 žingsnis: aktyvavimas 2025 m. Labor Day savaitgalį ir ekstremaliųjų situacijų statistika',
@@ -6563,8 +6563,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl gelbėjimo organizacijos renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl gelbėjimo organizacijos renkasi OLagoon',
       items: [
         {
           title: 'Sauga visų pirma',
@@ -6590,24 +6590,24 @@ const lt: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Kokią keliamąją galią palaiko Afarer gelbėjimo SUP lentos?',
+        question: 'Kokią keliamąją galią palaiko OLagoon gelbėjimo SUP lentos?',
         answer:
-          'Afarer gelbėjimo SUP lentos pasižymi itin didele keliamąja galia, sukurtą vienu metu pervežti gelbėtoją, auką, gelbėjimo įrangą ir medicinines priemones. Ypatingai plati gelbėjimo platforma suteikia didesnį stabilumą ir platesnę darbo zoną saugiai pagalbai pacientui.',
+          'OLagoon gelbėjimo SUP lentos pasižymi itin didele keliamąja galia, sukurtą vienu metu pervežti gelbėtoją, auką, gelbėjimo įrangą ir medicinines priemones. Ypatingai plati gelbėjimo platforma suteikia didesnį stabilumą ir platesnę darbo zoną saugiai pagalbai pacientui.',
       },
       {
-        question: 'Kuo Afarer gelbėjimo SUP lentos skiriasi nuo laisvalaikio SUP lentų?',
+        question: 'Kuo OLagoon gelbėjimo SUP lentos skiriasi nuo laisvalaikio SUP lentų?',
         answer:
-          'Afarer gelbėjimo lentos sukurtos specialiai ekstremaliųjų situacijų operacijoms su didelės talpos platformomis, keliomis gelbėjimo rankenomis, sustiprintomis D-kilpų vilkimo sistemomis, didelio matomumo spalvomis, atšvaitiniais elementais, atspariomis dilimui medžiagomis ir itin tvirta siūlių konstrukcija — savybėmis, kurių nėra laisvalaikio produktuose.',
+          'OLagoon gelbėjimo lentos sukurtos specialiai ekstremaliųjų situacijų operacijoms su didelės talpos platformomis, keliomis gelbėjimo rankenomis, sustiprintomis D-kilpų vilkimo sistemomis, didelio matomumo spalvomis, atšvaitiniais elementais, atspariomis dilimui medžiagomis ir itin tvirta siūlių konstrukcija — savybėmis, kurių nėra laisvalaikio produktuose.',
       },
       {
         question: 'Kokios spalvų parinktys siūlomos gelbėjimo SUP lentoms?',
         answer:
-          'Afarer siūlo profesines gelbėjimo spalvas, įskaitant gelbėjimo geltoną, saugos oranžinę ir ekstremaliųjų situacijų raudoną. Visas parinktis galima derinti su atšvaitiniais saugos elementais silpnam apšvietimui ir naktiniam matomumui, taip pat su komandų logotipais ir institucijų ženklinimu.',
+          'OLagoon siūlo profesines gelbėjimo spalvas, įskaitant gelbėjimo geltoną, saugos oranžinę ir ekstremaliųjų situacijų raudoną. Visas parinktis galima derinti su atšvaitiniais saugos elementais silpnam apšvietimui ir naktiniam matomumui, taip pat su komandų logotipais ir institucijų ženklinimu.',
       },
       {
         question: 'Ar gelbėjimo SUP lentos gali būti individualizuotos su mūsų komandos logotipu ir ženklinimu?',
         answer:
-          'Taip, Afarer palaiko visapusišką gelbėjimo organizacijos prekės ženklo vizualizaciją, įskaitant komandų logotipus, institucijos tapatybę, saugos ženklinimą ir pasirinktines spalvų schemas. Tai padeda išlaikyti profesinę išvaizdą ir identifikuoti įrangą kelių institucijų bendrose operacijose.',
+          'Taip, OLagoon palaiko visapusišką gelbėjimo organizacijos prekės ženklo vizualizaciją, įskaitant komandų logotipus, institucijos tapatybę, saugos ženklinimą ir pasirinktines spalvų schemas. Tai padeda išlaikyti profesinę išvaizdą ir identifikuoti įrangą kelių institucijų bendrose operacijose.',
       },
       {
         question: 'Kokie priedai įtraukti į profesionalų gelbėjimo SUP paketą?',
@@ -6617,13 +6617,13 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Kaip gelbėjimo SUP lentos prižiūrimos ir laikomos?',
         answer:
-          'Afarer gelbėjimo lentos sukurtos paprastai prižiūrėti — iš patvarių medžiagų, atlaikančių dažną naudojimą ir laikymą lauke. Būdamos pripučiamos, jos susilanksto kompaktiškai transportavimui ir laikymui. Teikiame priežiūros gaires, inspekcijos procedūras ir atsarginius komponentus ilgalaikiam patikimumui užtikrinti.',
+          'OLagoon gelbėjimo lentos sukurtos paprastai prižiūrėti — iš patvarių medžiagų, atlaikančių dažną naudojimą ir laikymą lauke. Būdamos pripučiamos, jos susilanksto kompaktiškai transportavimui ir laikymui. Teikiame priežiūros gaires, inspekcijos procedūras ir atsarginius komponentus ilgalaikiam patikimumui užtikrinti.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo profesionalią vandens gelbėjimo sistemą su Afarer',
+      title: 'Sukurkite savo profesionalią vandens gelbėjimo sistemą su OLagoon',
       subtitle:
-        'Kiekviena gelbėjimo misija reikalauja pasitikėjimo. Afarer padeda gelbėtojų komandoms, gelbėjimo organizacijoms, mokymo institucijoms ir ekstremaliųjų situacijų tarnyboms kurti patikimas vandens saugos įrangos sistemas.',
+        'Kiekviena gelbėjimo misija reikalauja pasitikėjimo. OLagoon padeda gelbėtojų komandoms, gelbėjimo organizacijoms, mokymo institucijoms ir ekstremaliųjų situacijų tarnyboms kurti patikimas vandens saugos įrangos sistemas.',
       primaryAction: {
         text: 'Pradėkite savo projektą',
       },
@@ -6637,7 +6637,7 @@ const lt: Record<string, SolutionOverride> = {
     meta: {
       title: 'Ekologinių tyrimų SUP platformų gamintojas | {SITE}',
       description:
-        'Afarer tiekia ekologiškas SUP tyrimų platformas jūrų apsaugos nevyriausybinėms organizacijoms, universitetams ir aplinkos stebėsenos organizacijoms. Stabilios plūduriuojančios platformos, įrangos tvirtinimo sistemos ir individualūs OEM sprendimai.',
+        'OLagoon tiekia ekologiškas SUP tyrimų platformas jūrų apsaugos nevyriausybinėms organizacijoms, universitetams ir aplinkos stebėsenos organizacijoms. Stabilios plūduriuojančios platformos, įrangos tvirtinimo sistemos ir individualūs OEM sprendimai.',
     },
     hero: {
       tagline: 'Tvarūs vandens tyrimų sprendimai jūrų apsaugai, aplinkos stebėsenai ir moksliniams tyrinėjimams',
@@ -6766,7 +6766,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: mažo triukšmo SUP konfigūracija ir jutiklių platformos integracija',
               detail:
-                '2024 m. rugsėjį Huaman kartu su Afarer aplinkos tyrimų padaliniu pritaikė EcoTouring 12\'6" X moksliniam krovinio išdėstymui. Modifikacijos apėmė: sutvirtintą denio tvirtinimo plokštę (nerūdijantis plienas, 4 varžtų raštas) Garmin echoMAP Plus 74cv žuvų ieškiklio ir echoloto davikliui; integruotą RAM-mount sistemą GoPro HERO12 Black kamerai povandeniniame korpuse; sandarią sausą įrangos talpą (7 L, su sraigtiniu dangčiu) lentos viduje duomenų kaupikliams ir GPS sekikliams; ir žemo profilio kilio apsaugą, leidžiančią užplaukti ant dumblėtų upės krantų. Trys prototipinės lentos buvo išbandytos Ucayali upėje 2024 m. spalį, išmatuotas povandeninio triukšmo lygis 18 dB (palyginti su 52 dB, kuriuos 5 m atstumu skleidžia 25 AG Tohatsu pakabinamasis variklis). ARA užsakė 18 lentų už $212K, projektą finansavo Gordon and Betty Moore fondas.',
+                '2024 m. rugsėjį Huaman kartu su OLagoon aplinkos tyrimų padaliniu pritaikė EcoTouring 12\'6" X moksliniam krovinio išdėstymui. Modifikacijos apėmė: sutvirtintą denio tvirtinimo plokštę (nerūdijantis plienas, 4 varžtų raštas) Garmin echoMAP Plus 74cv žuvų ieškiklio ir echoloto davikliui; integruotą RAM-mount sistemą GoPro HERO12 Black kamerai povandeniniame korpuse; sandarią sausą įrangos talpą (7 L, su sraigtiniu dangčiu) lentos viduje duomenų kaupikliams ir GPS sekikliams; ir žemo profilio kilio apsaugą, leidžiančią užplaukti ant dumblėtų upės krantų. Trys prototipinės lentos buvo išbandytos Ucayali upėje 2024 m. spalį, išmatuotas povandeninio triukšmo lygis 18 dB (palyginti su 52 dB, kuriuos 5 m atstumu skleidžia 25 AG Tohatsu pakabinamasis variklis). ARA užsakė 18 lentų už $212K, projektą finansavo Gordon and Betty Moore fondas.',
             },
             {
               title: '2 žingsnis: tyrimų protokolo adaptavimas ir tyliojo stebėjimo metodo kūrimas',
@@ -6776,7 +6776,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '3 žingsnis: tyrėjų SUP sertifikavimas ir atokių stočių logistika',
               detail:
-                '2024 m. lapkritį Afarer vykdė 12 dienų lauko mokymų programą trijose ARA stotyse, sertifikavo 12 tyrėjų (5 doktorantus, 4 lauko technikus, 3 vietinius upių vedlius). Mokymai apėmė: upės sroves (Ucayali srovė siekia iki 4 mazgų), rąstų ir nuolaužų vengimą, naktinio irklavimo technikas naktinių rūšių apžvalgoms ir džiunglių paleidimo procedūras (pripučiamų lentų nešimą 400 m per pirminį mišką iki senvagių). Kiekvienas tyrėjas atliko 40 valandų prižiūrimo apžvalginio irklavimo ir baigiamąjį egzaminą, kurio reikalavimas — 6 km transekta per mažiau nei 2 valandas su vienalaikiu duomenų fiksavimu. Sertifikavimo išlaikymo rodiklis — 92 % (11 iš 12). Likęs tyrėjas dirbo kaip keičiamasis pagalbininkas.',
+                '2024 m. lapkritį OLagoon vykdė 12 dienų lauko mokymų programą trijose ARA stotyse, sertifikavo 12 tyrėjų (5 doktorantus, 4 lauko technikus, 3 vietinius upių vedlius). Mokymai apėmė: upės sroves (Ucayali srovė siekia iki 4 mazgų), rąstų ir nuolaužų vengimą, naktinio irklavimo technikas naktinių rūšių apžvalgoms ir džiunglių paleidimo procedūras (pripučiamų lentų nešimą 400 m per pirminį mišką iki senvagių). Kiekvienas tyrėjas atliko 40 valandų prižiūrimo apžvalginio irklavimo ir baigiamąjį egzaminą, kurio reikalavimas — 6 km transekta per mažiau nei 2 valandas su vienalaikiu duomenų fiksavimu. Sertifikavimo išlaikymo rodiklis — 92 % (11 iš 12). Likęs tyrėjas dirbo kaip keičiamasis pagalbininkas.',
             },
             {
               title: '4 žingsnis: 2025 m. lauko sezono rezultatai ir apsaugos poveikis',
@@ -6804,7 +6804,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '1 žingsnis: SUP jutiklių integracija ir tyrimų platformos projektavimas',
               detail:
-                '2024 m. gruodį Torres kartu su Afarer aplinkos tyrimų ir plėtros komanda sukonfigūravo EcoTouring 12\'6" X pakrančių stebėsenai. Afarer sumontavo tvirtinimo plokštę YSI EXO2 zondui (ji įmontuota į individualų per korpusą einantį montavimo šulinį, kertantį lentos branduolį ir leidžiantį nuolatinį vandens tekėjimą be velkamo zondo trukdymo). Lenta gavo priekyje sumontuotą keliamąją strėlę (anglies pluošto, 1,5 kg, 50 lb leistinąja apkrova) povandeninio vaizdo rinkinio nuleidimui ir pakėlimui (GoPro HERO12 Black priešatšvaitiniame korpuse su raudonais filtrais). Gale sumontuotoje duomenų kaupiklio dėžėje (Pelican 1040) buvo talpinami GNSS imtuvas ir mobilaus ryšio modemas realaus laiko duomenų įkėlimui per Mote debesų platformą. Trys prototipai 2025 m. sausį buvo išbandyti 30 dienų patikrinimo tyrime, patvirtinus, kad zondo rodmenys sutampa 2 % ribose su valtimi gautais rodmenimis sugretintose stotyse. Mote užsakė 15 lentų už $186K, finansavimą suteikė SBEP ir Gulf Research Program.',
+                '2024 m. gruodį Torres kartu su OLagoon aplinkos tyrimų ir plėtros komanda sukonfigūravo EcoTouring 12\'6" X pakrančių stebėsenai. OLagoon sumontavo tvirtinimo plokštę YSI EXO2 zondui (ji įmontuota į individualų per korpusą einantį montavimo šulinį, kertantį lentos branduolį ir leidžiantį nuolatinį vandens tekėjimą be velkamo zondo trukdymo). Lenta gavo priekyje sumontuotą keliamąją strėlę (anglies pluošto, 1,5 kg, 50 lb leistinąja apkrova) povandeninio vaizdo rinkinio nuleidimui ir pakėlimui (GoPro HERO12 Black priešatšvaitiniame korpuse su raudonais filtrais). Gale sumontuotoje duomenų kaupiklio dėžėje (Pelican 1040) buvo talpinami GNSS imtuvas ir mobilaus ryšio modemas realaus laiko duomenų įkėlimui per Mote debesų platformą. Trys prototipai 2025 m. sausį buvo išbandyti 30 dienų patikrinimo tyrime, patvirtinus, kad zondo rodmenys sutampa 2 % ribose su valtimi gautais rodmenimis sugretintose stotyse. Mote užsakė 15 lentų už $186K, finansavimą suteikė SBEP ir Gulf Research Program.',
             },
             {
               title: '2 žingsnis: stebėsenos stočių tinklas ir potvynių mėginių ėmimo protokolas',
@@ -6814,7 +6814,7 @@ const lt: Record<string, SolutionOverride> = {
             {
               title: '3 žingsnis: tyrimų bendradarbių SUP sertifikavimas ir seklaus vandens navigacijos mokymai',
               detail:
-                '2025 m. vasarį Afarer tyrimų padalinys per 5 dienų seklaus vandens SUP tyrimų operatoriaus kursą sertifikavo 8 Mote tyrimų bendradarbius (4 doktorantūros lygio mokslininkus, 4 lauko technikus). Mokymai apėmė: navigaciją jūros žolių sąžalynuose (vengiant analogiškos sraigto žalos — peleko trinties), jūrų karvių priartėjimo protokolus (mažiausias priartėjimo atstumas 50 m, tyklus dreifas pastebėjus gyvūną, elgsenos stebėjimas be variklio triukšmo), potvynių srovių valdymą (daugiausia 1,5 mazgo srovė mėginių ėmimui, 2,5 mazgo — perplaukimui) ir įrangos išdėstymą bei pakėlimą vėjuotomis sąlygomis. Torres taip pat reikalavo, kad visi bendradarbiai baigtų Floridos FWC mokymus apie susitikimus su jūrų karvėmis (2 valandų internetinė dalis ir lauko dalis). Sertifikavimas buvo vertinamas modelinės mėginių ėmimo dienos metu — 4 stotys per 3 valandas su 100 % duomenų pilnumu. Visi 8 išlaikė egzaminą iš pirmo karto, vidutinis laikas stočiai įveikti — 38 minutės (palyginti su 68 minutėmis pagal motorinių valčių protokolą).',
+                '2025 m. vasarį OLagoon tyrimų padalinys per 5 dienų seklaus vandens SUP tyrimų operatoriaus kursą sertifikavo 8 Mote tyrimų bendradarbius (4 doktorantūros lygio mokslininkus, 4 lauko technikus). Mokymai apėmė: navigaciją jūros žolių sąžalynuose (vengiant analogiškos sraigto žalos — peleko trinties), jūrų karvių priartėjimo protokolus (mažiausias priartėjimo atstumas 50 m, tyklus dreifas pastebėjus gyvūną, elgsenos stebėjimas be variklio triukšmo), potvynių srovių valdymą (daugiausia 1,5 mazgo srovė mėginių ėmimui, 2,5 mazgo — perplaukimui) ir įrangos išdėstymą bei pakėlimą vėjuotomis sąlygomis. Torres taip pat reikalavo, kad visi bendradarbiai baigtų Floridos FWC mokymus apie susitikimus su jūrų karvėmis (2 valandų internetinė dalis ir lauko dalis). Sertifikavimas buvo vertinamas modelinės mėginių ėmimo dienos metu — 4 stotys per 3 valandas su 100 % duomenų pilnumu. Visi 8 išlaikė egzaminą iš pirmo karto, vidutinis laikas stočiai įveikti — 38 minutės (palyginti su 68 minutėmis pagal motorinių valčių protokolą).',
             },
             {
               title: '4 žingsnis: kovo–lapkričio 2025 m. stebėsenos sezonas ir išmatuojami ekologiniai rezultatai',
@@ -6831,8 +6831,8 @@ const lt: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kodėl tyrimų organizacijos renkasi Afarer',
+    whyOLagoon: {
+      title: 'Kodėl tyrimų organizacijos renkasi OLagoon',
       items: [
         {
           title: 'Stabilumas',
@@ -6858,24 +6858,24 @@ const lt: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Kokią mokslinę įrangą galima sumontuoti ant Afarer tyrimų SUP platformos?',
+        question: 'Kokią mokslinę įrangą galima sumontuoti ant OLagoon tyrimų SUP platformos?',
         answer:
-          'Afarer tyrimų platformos suderina platų įrangos spektrą, įskaitant vandens kokybės jutiklius, kameras ir GPS įrenginius, mėginių talpas, matavimo priemones ir duomenų rinkimo įrenginius. Modulinę tvirtinimo sistemą galima pritaikyti specifinėms tyrimų konfigūracijoms.',
+          'OLagoon tyrimų platformos suderina platų įrangos spektrą, įskaitant vandens kokybės jutiklius, kameras ir GPS įrenginius, mėginių talpas, matavimo priemones ir duomenų rinkimo įrenginius. Modulinę tvirtinimo sistemą galima pritaikyti specifinėms tyrimų konfigūracijoms.',
       },
       {
         question: 'Koks yra SUP platformos stabilumas mėginių ėmimui iš vandens ir stebėsenos darbams?',
         answer:
-          'Afarer tyrimų platformoms būdingas ypač platus dizainas, padidinta stovėjimo erdvė, pagerinta pusiausvyra ir didelio plūdumo konstrukcija, specialiai sukurta mokslinei lauko veiklai. Stabilumas leidžia tyrėjams saugiai valdyti įrangą, rinkti mėginius ir atlikti matavimus.',
+          'OLagoon tyrimų platformoms būdingas ypač platus dizainas, padidinta stovėjimo erdvė, pagerinta pusiausvyra ir didelio plūdumo konstrukcija, specialiai sukurta mokslinei lauko veiklai. Stabilumas leidžia tyrėjams saugiai valdyti įrangą, rinkti mėginius ir atlikti matavimus.',
       },
       {
-        question: 'Iš kokių ekologiškų medžiagų gaminamos Afarer tyrimų SUP lentos?',
+        question: 'Iš kokių ekologiškų medžiagų gaminamos OLagoon tyrimų SUP lentos?',
         answer:
-          'Afarer didelį dėmesį skiria ilgaamžei patvariai konstrukcijai, kuri mažina keitimo dažnį ir išteklių suvartojimą. Siūlome tvarių medžiagų parinktis, įskaitant perdirbamus variantus ir mažesnio poveikio gamybos metodus, atitinkančius aplinkosaugos misijas.',
+          'OLagoon didelį dėmesį skiria ilgaamžei patvariai konstrukcijai, kuri mažina keitimo dažnį ir išteklių suvartojimą. Siūlome tvarių medžiagų parinktis, įskaitant perdirbamus variantus ir mažesnio poveikio gamybos metodus, atitinkančius aplinkosaugos misijas.',
       },
       {
         question: 'Ar SUP platformas galima pritaikyti specifiniams tyrimų projektų reikalavimams?',
         answer:
-          'Taip, Afarer užtikrina pilną individualizavimą, įskaitant individualius lentų matmenis (papildomą plotį, papildomą ilgį), padidintą keliamąją galią, įrangos tvirtinimo sąsajas, laikymo sprendimus, organizacijų logotipus ir pagal projektą pritaikytus priedus.',
+          'Taip, OLagoon užtikrina pilną individualizavimą, įskaitant individualius lentų matmenis (papildomą plotį, papildomą ilgį), padidintą keliamąją galią, įrangos tvirtinimo sąsajas, laikymo sprendimus, organizacijų logotipus ir pagal projektą pritaikytus priedus.',
       },
       {
         question: 'Kaip SUP lyginasi su tradicinėmis tyrimų valtimis aplinkos stebėsenai?',
@@ -6885,13 +6885,13 @@ const lt: Record<string, SolutionOverride> = {
       {
         question: 'Koks yra įprastas individualios tyrimų SUP platformos gamybos terminas?',
         answer:
-          'Gamybos terminai priklauso nuo individualizavimo sudėtingumo ir užsakymo kiekio. Afarer palaiko prototipų kūrimą naujoms tyrimų koncepcijoms ir serijinę gamybą instituciniams užsakymams. Glaudžiai bendradarbiaujame su tyrimų komandomis, kad būtų paisoma projektų grafikų ir lauko sezono reikalavimų.',
+          'Gamybos terminai priklauso nuo individualizavimo sudėtingumo ir užsakymo kiekio. OLagoon palaiko prototipų kūrimą naujoms tyrimų koncepcijoms ir serijinę gamybą instituciniams užsakymams. Glaudžiai bendradarbiaujame su tyrimų komandomis, kad būtų paisoma projektų grafikų ir lauko sezono reikalavimų.',
       },
     ],
     cta: {
-      title: 'Sukurkite savo ekologinių tyrimų vandens platformą su Afarer',
+      title: 'Sukurkite savo ekologinių tyrimų vandens platformą su OLagoon',
       subtitle:
-        'Vandens tyrimų ateitis reikalauja lankstų ir tvarių sprendimų. Afarer padeda jūrų nevyriausybinėms organizacijoms, universitetams, tyrimų institucijoms ir aplinkosauginėms organizacijoms kurti profesionalias mobilias vandens tyrimų platformas.',
+        'Vandens tyrimų ateitis reikalauja lankstų ir tvarių sprendimų. OLagoon padeda jūrų nevyriausybinėms organizacijoms, universitetams, tyrimų institucijoms ir aplinkosauginėms organizacijoms kurti profesionalias mobilias vandens tyrimų platformas.',
       primaryAction: {
         text: 'Pradėkite savo projektą',
       },

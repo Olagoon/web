@@ -1,6 +1,6 @@
 meta:
   title: 'Gyvenimo būdas — irklavimas, nuotykiai ir tyrinėjimai | {SITE}'
-  description: 'Atraskite afarer gyvenimo būdą: irklavimo nuotykiai, vandens tyrinėjimai ir lauko patirtys su pripučiamomis SUP lentomis ir lentomis.'
+  description: 'Atraskite olagoon gyvenimo būdą: irklavimo nuotykiai, vandens tyrinėjimai ir lauko patirtys su pripučiamomis SUP lentomis ir lentomis.'
   keywords:
     - 'sup gyvenimo būdas'
     - 'irklavimo nuotykiai'
@@ -8,7 +8,7 @@ meta:
     - 'vandens sporto gyvenimo būdas'
 hero:
   tagline: 'Gyvenimo būdas'
-  title: 'afarer<br />gyvenimo būdas'
+  title: 'olagoon<br />gyvenimo būdas'
   subtitle: 'Sukurta tiems, kurie gyvena ant vandens — nuo savaitgalio tyrinėtojų iki komercinių operatorių, kurie kiekvieną dieną pasitiki savo įranga.'
 
 values:
@@ -38,7 +38,7 @@ ethos_section:
 
 community_section:
   tagline: 'Bendruomenė'
-  title: 'Prisijunkite prie afarer bendruomenės'
+  title: 'Prisijunkite prie olagoon bendruomenės'
   subtitle: 'Sekite mūsų kelionę ir dalinkitės savo nuotykiais vandenyje.'
   instagram: 'Sekti Instagram'
   youtube: 'Prenumeruoti YouTube'

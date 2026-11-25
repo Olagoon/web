@@ -1,18 +1,18 @@
 meta:
-  title: Kje kupiti napihljive deske za paddlanje Afarer | Afarer
-  description: Izveste, kako kupiti napihljivo desko za paddlanje Afarer — prek uradnega distributerja v vaši državi ali neposredno od ekipe Afarer.
+  title: Kje kupiti napihljive deske za paddlanje OLagoon | OLagoon
+  description: Izveste, kako kupiti napihljivo desko za paddlanje OLagoon — prek uradnega distributerja v vaši državi ali neposredno od ekipe OLagoon.
 hero:
   tagline: Kje kupiti
-  title: Spravite svojo desko Afarer na vodo
-  subtitle: Deske Afarer segajo do veslačev v več kot 50 državah. Poiščite najpreprostejšo pot do svoje — prek uradnega distributerja v vaši bližini ali neposredno od ekipe Afarer.
+  title: Spravite svojo desko OLagoon na vodo
+  subtitle: Deske OLagoon segajo do veslačev v več kot 50 državah. Poiščite najpreprostejšo pot do svoje — prek uradnega distributerja v vaši bližini ali neposredno od ekipe OLagoon.
 channels:
   items:
     - title: Uradni distributerji po državah
-      description: Afarer sodeluje z ekskluzivnimi distributerji v številnih državah. Povejte nam, kje veslate, in vas povežemo z vašim lokalnim prodajalcem, cenami in razpoložljivostjo.
+      description: OLagoon sodeluje z ekskluzivnimi distributerji v številnih državah. Povejte nam, kje veslate, in vas povežemo z vašim lokalnim prodajalcem, cenami in razpoložljivostjo.
       cta: Poiščite svojega lokalnega prodajalca
       href: /contact/?subject=Where to Buy
-    - title: Neposredno naročilo pri Afarer
-      description: V vaši državi še ni distributerja? Ekipa Afarer lahko uredi neposredna naročila in pošiljke, da boste lahko na vodi, kjer koli živite.
+    - title: Neposredno naročilo pri OLagoon
+      description: V vaši državi še ni distributerja? Ekipa OLagoon lahko uredi neposredna naročila in pošiljke, da boste lahko na vodi, kjer koli živite.
       cta: Povprašajte o razpoložljivosti
       href: /contact/?subject=Where to Buy
 form_intro:

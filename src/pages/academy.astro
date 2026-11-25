@@ -18,7 +18,7 @@ const kcSubtitle =
   'Expert knowledge and buying guides for marine professionals, fleet operators, and water sports enthusiasts.';
 
 const metadata = {
-  title: 'afarer Marine Academy — Professional Knowledge Platform',
+  title: 'olagoon Marine Academy — Professional Knowledge Platform',
   description:
     'Professional knowledge platform for inflatable SUP boards, paddles, accessories, safety equipment, and water sports solutions. Industry guides and buying advice from marine engineering experts.',
 };
@@ -134,9 +134,9 @@ const crumbs = [{ name: 'Home', href: '/' }, { name: 'Marine Academy' }];
     set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'CollectionPage',
-      name: 'afarer Academy — Learning Center',
+      name: 'olagoon Academy — Learning Center',
       description: 'Guides and tutorials for every skill level from SUP basics to advanced rescue techniques.',
-      url: 'https://afarer.com/academy',
+      url: 'https://olagoon.com/academy',
       mainEntity: {
         '@type': 'ItemList',
         itemListElement: categories.flatMap((cat) =>
@@ -147,7 +147,7 @@ const crumbs = [{ name: 'Home', href: '/' }, { name: 'Marine Academy' }];
               '@type': 'Article',
               headline: g.title,
               description: g.desc,
-              url: `https://afarer.com/en${g.href}`,
+              url: `https://olagoon.com/en${g.href}`,
             },
           }))
         ),

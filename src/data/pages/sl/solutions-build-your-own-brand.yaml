@@ -1,13 +1,13 @@
 meta:
   title: 'Proizvodnja SUP pod zasebno znamko in zagon znamke po meri | {SITE}'
-  description: 'Proizvajalec SUP desk pod zasebno znamko za nove znamke veslaških desk. Zaženite svojo znamko SUP z Afarer — popolna storitev OEM/ODM, vključno z oblikovanjem, prototipi, blagovno znamko po meri, proizvodnjo in globalno logistiko.'
+  description: 'Proizvajalec SUP desk pod zasebno znamko za nove znamke veslaških desk. Zaženite svojo znamko SUP z OLagoon — popolna storitev OEM/ODM, vključno z oblikovanjem, prototipi, blagovno znamko po meri, proizvodnjo in globalno logistiko.'
 
 hero:
   tagline: 'Zgradite svojo znamko'
   title: 'Zaženite svojo<br />znamko SUP'
   subtitle: 'Vi imate vizijo. Mi imamo tovarno, strokovno znanje in dobavno verigo. Proizvodnja SUP desk pod zasebno znamko in razvoj znamke SUP po meri — skupaj bomo zgradili znamko, ki izstopa.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Deska SUP z znamko po meri na vodi'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Prednostna proizvodnja'
 
 features:
-  title: 'Zakaj znamke izbirajo Afarer'
+  title: 'Zakaj znamke izbirajo OLagoon'
   subtitle: 'Več kot 10 let izkušenj z OEM, popolna certificiranost in najnižji MOQ v panogi.'
   items:
     - title: 'Več kot 10 let izkušenj z OEM'

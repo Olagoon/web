@@ -5,8 +5,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
-const IMG_ROOT = 'E:/github/afarer/public/images';
+const ROOT = 'E:/github/olagoon';
+const IMG_ROOT = 'E:/github/olagoon/public/images';
 const SKIP_DIRS = new Set(['node_modules', '.git', '.astro', 'TOOLS']);
 const SKIP_FILES = new Set(['TECH.md']);
 const BINEXT = /\.(png|jpe?g|webp|gif|avif|ico|cur|woff2?|ttf|otf|eot|mp4|webm|mp3|pdf|zip|gz|wasm)$/i;

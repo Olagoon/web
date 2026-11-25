@@ -321,7 +321,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Täielik tootesari — SUP-id ja tarvikud',
     industry: 'Levitamine / Merendus',
     challenge:
-      'GCC piirkonnas tegutsev levitaja soovis eksklusiivõigust esindada kogu afarer tootesarja 6 laheriigis, kohandatud araabiakeelse pakendi, kuumakindlate materjalide spetsifikatsioonide ja šariaakohaste garantiitingimustega.',
+      'GCC piirkonnas tegutsev levitaja soovis eksklusiivõigust esindada kogu olagoon tootesarja 6 laheriigis, kohandatud araabiakeelse pakendi, kuumakindlate materjalide spetsifikatsioonide ja šariaakohaste garantiitingimustega.',
     solution:
       'Sõlmisime eksklusiivse levituslepingu. Töötasime välja araabiakeelse pakendi ja turundusmaterjalid. Kinnitasime materjalide spetsifikatsioonid 50°C õhutemperatuuri juures. Kohandasime garantiitingimusi piirkondliku vastavuse jaoks.',
     result:
@@ -398,7 +398,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Fortune 500 tehnoloogiafirma soovis käivitada töötajatele veepõhise heaoluprogrammi 4 järveäärses globaalses linnakus, vajades 60 SUP-i ettevõtte brändingu, hoiulahenduste ja juhendajate koolitusega.',
     solution:
-      'Tarnisime stabiilsete universaalsete SUP-ide laevastiku ettevõtte logoga tekigraafikaga. Kujundasime ilmastikukindlad kohapealsed hoiuraamid. Sertifitseerisime afarer koolitusprogrammi kaudu 12 ettevõttesisest juhendajat.',
+      'Tarnisime stabiilsete universaalsete SUP-ide laevastiku ettevõtte logoga tekigraafikaga. Kujundasime ilmastikukindlad kohapealsed hoiuraamid. Sertifitseerisime olagoon koolitusprogrammi kaudu 12 ettevõttesisest juhendajat.',
     result:
       'Programm käivitatud 4 linnakus. Üle 2,400 töötaja osalemise esimesel aastal. 94% töötajate rahulolu hinnang. Kajastatud ettevõtte jätkusuutlikkusaruandes.',
     outcomeMetrics: [

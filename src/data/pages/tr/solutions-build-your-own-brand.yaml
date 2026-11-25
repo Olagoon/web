@@ -1,12 +1,12 @@
 meta:
   title: Private Label SUP Üretimi | {SITE}
-  description: Afarer ile kendi SUP markanızı başlatın. Fikirden pazara — tasarım, prototipleme, üretim ve küresel lojistik dahil tam OEM/ODM hizmeti.
+  description: OLagoon ile kendi SUP markanızı başlatın. Fikirden pazara — tasarım, prototipleme, üretim ve küresel lojistik dahil tam OEM/ODM hizmeti.
 hero:
   tagline: Kendi Markanızı Oluşturun
   title: Kendi<br />SUP Markanızı Başlatın
   subtitle: Siz vizyonunuzu sunun. Biz fabrikamızı, uzmanlığımızı ve tedarik zincirimizi sunalım. Birlikte öne çıkan bir marka yaratalım.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Özel markalı SUP tahtası suda
 process:
   title: Marka Yolculuğunuz
@@ -77,7 +77,7 @@ packages:
         - Pazarlama materyalleri
         - Öncelikli üretim
 features:
-  title: Markalar Neden Afarer'i Seçiyor
+  title: Markalar Neden OLagoon'i Seçiyor
   subtitle: 10 yılı aşkın OEM deneyimi, eksiksiz sertifikasyon ve sektördeki en düşük MOQ.
   items:
     - title: 10+ Yıl OEM Deneyimi

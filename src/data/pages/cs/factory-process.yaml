@@ -1,6 +1,6 @@
 meta:
   title: 'Výrobní proces — od suroviny k SUP prknu | {SITE}'
-  description: 'Od suroviny k SUP prknu připravenému na moře: každý krok výrobního procesu afarera pod naší kontrolou, od řezání a svařování po testování.'
+  description: 'Od suroviny k SUP prknu připravenému na moře: každý krok výrobního procesu olagoona pod naší kontrolou, od řezání a svařování po testování.'
   keywords:
     - 'výrobní proces SUP'
     - 'továrna na nafukovací SUP'
@@ -13,7 +13,7 @@ hero:
   back_label: Zpět do továrny
   back_link: /factory/
 
-intro: Na rozdíl od značek, které outsourcují výrobu do třetích továren, afarer vlastní a provozuje celý svůj výrobní řetězec. Tato vertikální integrace nám umožňuje udržovat přísnou kontrolu kvality v každé fázi, rychle reagovat na individuální požadavky a dodávat konzistentní kvalitu produktů šarži za šarží. Takto se prkno vyrábí v našem závodě.
+intro: Na rozdíl od značek, které outsourcují výrobu do třetích továren, olagoon vlastní a provozuje celý svůj výrobní řetězec. Tato vertikální integrace nám umožňuje udržovat přísnou kontrolu kvality v každé fázi, rychle reagovat na individuální požadavky a dodávat konzistentní kvalitu produktů šarži za šarží. Takto se prkno vyrábí v našem závodě.
 
 steps:
   - step: '01'
@@ -47,6 +47,6 @@ steps:
 
 cta:
   title: Podívejte se na naše vybavení a stroje
-  desc: Prozkoumejte průmyslové vybavení, které stojí za každým prknem afarer.
+  desc: Prozkoumejte průmyslové vybavení, které stojí za každým prknem olagoon.
   label: Zobrazit vybavení →
   link: /factory/equipment/

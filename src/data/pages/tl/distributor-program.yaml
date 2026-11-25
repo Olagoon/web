@@ -1,6 +1,6 @@
 meta:
-  title: 'Mga Country Partner — Isang Bansa, Isang Opisyal na Distributor ng Afarer | {SITE}'
-  description: 'Mag-apply upang maging opisyal na distributor ng Afarer para sa iyong bansa. Isang awtorisadong partner kada market, proteksyon sa teritoryo, direct-factory na margin, taunang rebate, at 10-module na programa ng suporta para sa mga distributor ng SUP at water sports sa buong mundo.'
+  title: 'Mga Country Partner — Isang Bansa, Isang Opisyal na Distributor ng OLagoon | {SITE}'
+  description: 'Mag-apply upang maging opisyal na distributor ng OLagoon para sa iyong bansa. Isang awtorisadong partner kada market, proteksyon sa teritoryo, direct-factory na margin, taunang rebate, at 10-module na programa ng suporta para sa mga distributor ng SUP at water sports sa buong mundo.'
   keywords:
     - 'programa ng partnership ng bansa'
     - 'become a distributor'
@@ -11,8 +11,8 @@ meta:
     - 'aplikasyon ng partnership ng bansa'
 hero:
   tagline: 'Country Partnership'
-  title: 'Isang Bansa.<br />Isang Opisyal na Distributor ng Afarer.'
-  subtitle: 'Nagtatalaga ang Afarer ng iisang awtorisadong country distributor para sa bawat aprubadong market. Eksklusibong teritoryo, presyo ng dealer na may taunang rebate, at kumpletong programa ng suporta sa distributor — bilang kapalit ng napirmahang kasunduan at tunay na komitment na buuin ang market.'
+  title: 'Isang Bansa.<br />Isang Opisyal na Distributor ng OLagoon.'
+  subtitle: 'Nagtatalaga ang OLagoon ng iisang awtorisadong country distributor para sa bawat aprubadong market. Eksklusibong teritoryo, presyo ng dealer na may taunang rebate, at kumpletong programa ng suporta sa distributor — bilang kapalit ng napirmahang kasunduan at tunay na komitment na buuin ang market.'
   actions:
     - text: 'Mag-apply para sa Country Partnership'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Araw na karaniwang lead time (FOB Qingdao)'
 features:
-  title: 'Bakit Mag-partner sa Afarer'
+  title: 'Bakit Mag-partner sa OLagoon'
   subtitle: 'Modelong isang-bansa-isang-distributor na may estruktura ng suporta para kumita ang teritoryo. Ang eksklusibidad ay pinaghihirapan at pinapanatili — hindi itong permanente na karapatan.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'Isang awtorisadong distributor kada bansa o rehiyon. Walang parallel import, walang panloob na kompetisyon. Ang iyong pamumuhunan ay nagtatatag ng iyong sariling depensa.'
       icon: 'tabler:shield-check'
     - title: 'Proteksyon laban sa Channel Conflict'
-      description: 'Ang mga direktang order mula sa iyong rehiyon ay dumadaan sa iyo, at ang pagpepresyo ay nagpoprotekta sa iyong margin. Hindi nagbebenta ang Afarer sa paligid ng mga country partner nito.'
+      description: 'Ang mga direktang order mula sa iyong rehiyon ay dumadaan sa iyo, at ang pagpepresyo ay nagpoprotekta sa iyong margin. Hindi nagbebenta ang OLagoon sa paligid ng mga country partner nito.'
       icon: 'tabler:users'
     - title: 'Direct-Factory na Margin at Rebate'
       description: 'Dealer price list na may rebate sa mga napirmahang volume. Walang middleman. FOB Qingdao shipping na may kumpletong export documentation.'
@@ -59,7 +59,7 @@ features:
       description: 'Suplay ng spare parts, pagpaparehistro ng warranty at paghawak ng claim, at mga product datasheet at manual para sa iyong lokal na service team.'
       icon: 'tabler:settings'
     - title: 'Nakalaang Account Manager at Partner Portal'
-      description: 'Personal na distributor manager kasama ang access sa mga price list, status ng order, at mga marketing resource sa pamamagitan ng Afarer partner portal.'
+      description: 'Personal na distributor manager kasama ang access sa mga price list, status ng order, at mga marketing resource sa pamamagitan ng OLagoon partner portal.'
       icon: 'tabler:user-check'
 table:
   title: 'Mga Antas ng Partnership, MOQ at mga Tuntunin sa Order'
@@ -88,14 +88,14 @@ faqs:
   subtitle: 'Mga tanong ng mga seryosong country partner bago mag-apply.'
   items:
     - title: 'Ano talaga ang ibig sabihin ng isang-bansa-isang-distributor?'
-      description: "Nagtatalaga ang Afarer ng iisang awtorisadong distributor na may eksklusibong karapatan sa isang tinukoy na teritoryo. Hindi kami nagbebenta mula sa aming global o regional channel papasok sa isang protektadong bansa. Ang iyong pagmamay-ari ng teritoryo ay tumatagal hangga't natutugunan ang Distribution Agreement."
+      description: "Nagtatalaga ang OLagoon ng iisang awtorisadong distributor na may eksklusibong karapatan sa isang tinukoy na teritoryo. Hindi kami nagbebenta mula sa aming global o regional channel papasok sa isang protektadong bansa. Ang iyong pagmamay-ari ng teritoryo ay tumatagal hangga't natutugunan ang Distribution Agreement."
     - title: 'Eksklusibo ba ang teritoryo magpakailanman?'
       description: 'Hindi. Ang eksklusibidad ay may kundisyon, hindi permanente. Ito ay pinapanatili sa pamamagitan ng napirmahang Distribution Agreement, pagkumpleto ng iyong unang order, taunang target ng pagbili, lokal na stock, kakayahang after-sales, at patuloy na pamumuhunan sa market. Kung hindi natutugunan ang mga ito, maaaring muling pag-usapan o muling italaga ang teritoryo.'
     - title: 'Ano ang pinakamababang unang order?'
       description: 'Ang mga country at regional distributor ay nagsisimula sa 100–300 unit; ang mga awtorisadong dealer sa 30–50 unit; ang mga trial order mula 10–30 unit ay nagpapahintulot sa iyo na unang patunayan ang market (walang proteksyon sa teritoryo ang mga trial at sample order). Ang mga custom at private-label na programa ay sumusunod sa hiwalay na MOQ na nakalista sa mga antas sa itaas.'
     - title: 'Anong suporta ang kasama sa 10-module na support program?'
       description: 'Mga antas at kwalipikasyon, proteksyon sa teritoryo, MOQ / presyo / taunang rebate, imbentaryo at pagpapatupad ng order, marketing asset at joint market funds, training sa produkto / benta / teknikal, spare parts at after-sales, pagpaparehistro ng warranty, partner portal, at mga product datasheet, library ng marketing asset, iskedyul ng taunang rebate, at shipping at packing list.'
-    - title: 'Paano ako pinoprotektahan ng Afarer laban sa channel conflict?'
+    - title: 'Paano ako pinoprotektahan ng OLagoon laban sa channel conflict?'
       description: 'Ang bawat teritoryo ay may eksaktong isang awtorisadong distributor. Ang mga inquiry at direktang order mula sa iyong rehiyon ay dumadaan sa iyo, ipinapasa ang mga form sa website patungo sa lokal na partner kung mayroon, at ang global team ay umaakyat lamang ng isyu kapag ang isang partner ay hindi tumutugon.'
     - title: 'Ano ang mga tuntunin sa pagpapadala at pagbabayad?'
       description: 'Ang mga order ay ipinapadala nang FOB Qingdao na may kumpletong export documentation. Ang mga production order ay 30% deposito na may 70% bago mag-shipment; ang mga trial at sample order ay prepaid. Ang karaniwang lead time ay 30–45 working days, na may 15–20 working days para sa mga sample run.'
@@ -103,7 +103,7 @@ faqs:
       description: 'Ipadala ang iyong aplikasyon sa pamamagitan ng contact form na may detalye ng market. Sinusuri namin ang angkop ng market, presensya sa retail, at kakayahang logistics, pagkatapos ay tumutugon kami sa loob ng 3 business day na may mga susunod na hakbang at halimbawa ng Distribution Agreement.'
 cta:
   title: 'Pagmay-ari ng iyong market.'
-  subtitle: 'Mag-apply para sa Afarer Country Partnership at makatanggap ng tugon sa loob ng 3 business day.'
+  subtitle: 'Mag-apply para sa OLagoon Country Partnership at makatanggap ng tugon sa loob ng 3 business day.'
   actions:
     - text: 'Mag-apply para sa Country Partnership'
       href: /contact/?subject=Country Partnership Application
@@ -113,7 +113,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'Kanino Kami Nagtutulungan'
-  sentence: 'Nagtutulungan ang Afarer sa mga established na distributor ng marine, outdoor, at sports na naglilingkod sa mga retail chain, rental fleet, paaralan ng water sports, resort, at mamimiling gobyerno gamit ang premium na inflatable SUP board at watercraft — at nagko-commit na buuin ang brand ng Afarer sa kanilang bansa.'
+  sentence: 'Nagtutulungan ang OLagoon sa mga established na distributor ng marine, outdoor, at sports na naglilingkod sa mga retail chain, rental fleet, paaralan ng water sports, resort, at mamimiling gobyerno gamit ang premium na inflatable SUP board at watercraft — at nagko-commit na buuin ang brand ng OLagoon sa kanilang bansa.'
   audiences:
     - 'Mga Distributor ng Marine at Paddle Sports'
     - 'Retail ng Outdoor at Sports'

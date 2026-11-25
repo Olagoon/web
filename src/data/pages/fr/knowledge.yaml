@@ -1,6 +1,6 @@
 meta:
   title: 'Connaissances — Guides SUP | {SITE}'
-  description: "Base de connaissances afarer : matériaux PVC, drop stitch, choix du SUP, sécurité nautique et comparaisons. Le savoir-faire d'un fabricant professionnel."
+  description: "Base de connaissances olagoon : matériaux PVC, drop stitch, choix du SUP, sécurité nautique et comparaisons. Le savoir-faire d'un fabricant professionnel."
   keywords:
     - 'connaissances SUP'
     - 'guide paddle gonflable'
@@ -16,7 +16,7 @@ hero:
 clusters:
   tagline: Knowledge Clusters
   title: Explorer par sujet
-  subtitle: Plongées dans la technologie, la sécurité et le savoir-faire derrière chaque produit afarer.
+  subtitle: Plongées dans la technologie, la sécurité et le savoir-faire derrière chaque produit olagoon.
   items:
     - title: Guides d'Achat SUP
       description: Du choix de votre première planche aux techniques de randonnée avancées — tout sur le stand-up paddle.

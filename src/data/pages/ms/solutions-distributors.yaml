@@ -1,14 +1,14 @@
 meta:
   title: 'Program Rakan Kongsi Pengedaran Borong SUP | {SITE}'
-  description: 'Sertai rangkaian pengedaran borong SUP global Afarer. Wilayah eksklusif, portofolio produk SUP boleh tiup lengkap, harga borong berdaya saing, dan pengurusan akaun khusus di 50+ negara.'
+  description: 'Sertai rangkaian pengedaran borong SUP global OLagoon. Wilayah eksklusif, portofolio produk SUP boleh tiup lengkap, harga borong berdaya saing, dan pengurusan akaun khusus di 50+ negara.'
 
 hero:
   tagline: 'Pengedar'
   title: 'Sertai Rangkaian<br />Pengedaran Global Kami'
-  subtitle: 'Program rakan kongsi pengedaran borong SUP dengan wilayah eksklusif, portofolio produk SUP boleh tiup lengkap, dan sokongan bertaraf dunia. Afarer menghantar ke 50+ negara — kami mencari pengedar marin dan sukan air yang mantap.'
+  subtitle: 'Program rakan kongsi pengedaran borong SUP dengan wilayah eksklusif, portofolio produk SUP boleh tiup lengkap, dan sokongan bertaraf dunia. OLagoon menghantar ke 50+ negara — kami mencari pengedar marin dan sukan air yang mantap.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'Operasi pengedaran dan penghantaran global Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'Operasi pengedaran dan penghantaran global OLagoon'
 
 benefits:
   title: 'Apa yang Diterima oleh Pengedar'
@@ -27,7 +27,7 @@ benefits:
 
 coverage:
   title: 'Pengedaran Semasa'
-  subtitle: 'Afarer kini berkhidmat secara langsung di pasaran-pasaran ini.'
+  subtitle: 'OLagoon kini berkhidmat secara langsung di pasaran-pasaran ini.'
   regions:
     - name: 'Eropah'
       countries: 'Perancis, Jerman, UK, Sepanyol, Itali, Belanda, Sweden, Norway, Poland, Yunani'

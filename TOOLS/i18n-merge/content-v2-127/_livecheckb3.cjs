@@ -1,11 +1,11 @@
-// v2 es/it batch-3 live verification via curl (direct, no proxy — afarer.com direct OK).
+// v2 es/it batch-3 live verification via curl (direct, no proxy — olagoon.com direct OK).
 // Fetches /es/v2/<16 batch-3 slugs>, /it/v2/<16 batch-3 slugs> + both index pages + pt EN-fallback page,
 // checks HTTP 200 and translated <title> from the merged yaml source.
 const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const yaml = require(path.join(ROOT, 'node_modules', 'js-yaml'));
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
 
@@ -13,9 +13,9 @@ const SLUGS = [
   'how-long-inflatable-boats-last',
   'inflatable-boat-maintenance',
   'marine-life-vest-guide',
-  'afarer-vs-red-paddle',
-  'afarer-vs-irocker',
-  'afarer-vs-bluefin',
+  'olagoon-vs-red-paddle',
+  'olagoon-vs-irocker',
+  'olagoon-vs-bluefin',
   'inflatable-sup-vs-hard-board',
   'wetsuit-care-guide',
   'how-to-choose-a-wetsuit',
@@ -28,7 +28,7 @@ const SLUGS = [
   'weather-planning-water-sports',
 ];
 const FALLBACK_LANG = 'pt'; // pt has no overlay -> EN fallback
-const FALLBACK = 'afarer-surfboard-pro';
+const FALLBACK = 'olagoon-surfboard-pro';
 
 const titles = {};
 for (const loc of ['es', 'it']) {
@@ -55,7 +55,7 @@ const fetch = (url, out) =>
 for (const loc of ['es', 'it']) {
   // index page
   const idxOut = path.join(TMP, 'liveb3_' + loc + '_index.html');
-  const code = fetch('https://afarer.com/' + loc + '/v2/', idxOut);
+  const code = fetch('https://olagoon.com/' + loc + '/v2/', idxOut);
   const idxBody = fs.readFileSync(idxOut, 'utf8');
   if (code === '200' && idxBody.includes('<html')) pass('/' + loc + '/v2/ index 200');
   else fail('/' + loc + '/v2/ index code=' + code);
@@ -67,7 +67,7 @@ for (const loc of ['es', 'it']) {
 
   for (const slug of SLUGS) {
     const out = path.join(TMP, 'liveb3_' + loc + '_' + slug + '.html');
-    const c = fetch('https://afarer.com/' + loc + '/v2/' + slug, out);
+    const c = fetch('https://olagoon.com/' + loc + '/v2/' + slug, out);
     const body = fs.readFileSync(out, 'utf8');
     const ok = c === '200' && body.includes(esc(String(titles[loc].get(slug))));
     if (ok) {
@@ -83,7 +83,7 @@ for (const loc of ['es', 'it']) {
 // pt fallback page (no overlay -> EN)
 {
   const fbOut = path.join(TMP, 'liveb3_pt_fb.html');
-  const fc = fetch('https://afarer.com/' + FALLBACK_LANG + '/v2/' + FALLBACK, fbOut);
+  const fc = fetch('https://olagoon.com/' + FALLBACK_LANG + '/v2/' + FALLBACK, fbOut);
   const fb = fs.readFileSync(fbOut, 'utf8');
   if (fc === '200' && fb.includes(esc(enFallbackTitle))) pass('/' + FALLBACK_LANG + '/v2/' + FALLBACK + ' EN fallback');
   else

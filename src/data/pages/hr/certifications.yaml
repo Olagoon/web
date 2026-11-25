@@ -1,6 +1,6 @@
 meta:
   title: 'Certifikati — CE, ISO 9001 i usklađenost | {SITE}'
-  description: 'afarer certifikati kvalitete: CE (EN ISO 25649), ISO 9001:2015, BSCI. Usklađenost i sigurnost proizvođača napuhivih SUP dasaka.'
+  description: 'olagoon certifikati kvalitete: CE (EN ISO 25649), ISO 9001:2015, BSCI. Usklađenost i sigurnost proizvođača napuhivih SUP dasaka.'
   keywords:
     - 'ce certifikat sup'
     - 'iso 9001 sup'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: 'Certifikati i standardi'
   title: 'Certifikati kvalitete<br />i standardi usklađenosti'
-  subtitle: 'afarer proizvodnja SUP dasaka certificirana je prema međunarodnim standardima pomorske sigurnosti, sustavima upravljanja kvalitetom i ekološkim propisima — CE, ISO 9001, UKCA, BSCI i REACH.'
+  subtitle: 'olagoon proizvodnja SUP dasaka certificirana je prema međunarodnim standardima pomorske sigurnosti, sustavima upravljanja kvalitetom i ekološkim propisima — CE, ISO 9001, UKCA, BSCI i REACH.'
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: 'afarer certifikati kvalitete i dokumentacija o usklađenosti'
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: 'olagoon certifikati kvalitete i dokumentacija o usklađenosti'
 content_certifications:
   tagline: 'Naši certifikati'
   title: 'Certificirana kvaliteta,<br />globalno priznata'
-  subtitle: 'Svaki afarer proizvod podupiru certifikati koji dokazuju našu predanost kvaliteti, sigurnosti i odgovornosti prema okolišu.'
+  subtitle: 'Svaki olagoon proizvod podupiru certifikati koji dokazuju našu predanost kvaliteti, sigurnosti i odgovornosti prema okolišu.'
   items:
     - title: 'CE certifikat'
-      description: 'Svi afarer proizvodi u skladu su s europskim zahtjevima CE označavanja za rekreativna plovila, čime se osigurava ispunjavanje standarda sigurnosti, zdravlja i zaštite okoliša.'
+      description: 'Svi olagoon proizvodi u skladu su s europskim zahtjevima CE označavanja za rekreativna plovila, čime se osigurava ispunjavanje standarda sigurnosti, zdravlja i zaštite okoliša.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'Naš sustav upravljanja kvalitetom certificiran je prema ISO 9001:2015 i obuhvaća dizajn, proizvodnju i distribuciju napuhivih plovila i pomorske opreme.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'Proizvodi koji se prodaju na tržištu Ujedinjenog Kraljevstva nose UKCA oznaku koja potvrđuje usklađenost s britanskim propisima za pomorsku opremu i osobna plovila.'
       icon: tabler:shield
     - title: 'Usklađenost s BSCI'
-      description: 'afarer je auditan prema BSCI (Business Social Compliance Initiative), što dokazuje etičke proizvodne prakse, poštene radne uvjete i odgovornost u lancu opskrbe.'
+      description: 'olagoon je auditan prema BSCI (Business Social Compliance Initiative), što dokazuje etičke proizvodne prakse, poštene radne uvjete i odgovornost u lancu opskrbe.'
       icon: tabler:heart-handshake
     - title: 'Usklađenost s REACH'
-      description: 'Svi materijali korišteni u afarer proizvodima u skladu su s EU REACH propisima o kemijskoj sigurnosti, čime se osigurava da u našem PVC-u, EVA-i ili komponentama nema ograničenih tvari.'
+      description: 'Svi materijali korišteni u olagoon proizvodima u skladu su s EU REACH propisima o kemijskoj sigurnosti, čime se osigurava da u našem PVC-u, EVA-i ili komponentama nema ograničenih tvari.'
       icon: tabler:flask
     - title: 'Ispitivanje materijala'
       description: 'Tkanine se ispitju na vlačnu čvrstoću, otpornost na kidanje, UV degradaciju i performanse pri hladnim pukotinama. Svaka se proizvodna serija uzorkuje i provjerava.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: 'Standardi pomorske sigurnosti'
   title: 'Sigurnost prije svega<br />— dizajnirano za pouzdan rad'
-  subtitle: 'afarer proizvodi dizajnirani su i ispitani tako da ispunjavaju međunarodne standarde pomorske sigurnosti za komercijalnu i rekreativnu upotrebu.'
+  subtitle: 'olagoon proizvodi dizajnirani su i ispitani tako da ispunjavaju međunarodne standarde pomorske sigurnosti za komercijalnu i rekreativnu upotrebu.'
   items:
     - title: 'EN ISO 25649'
       description: 'Napuhive SUP daske u skladu su sa standardima EN ISO 25649 za izgradnju, stabilnost, plovnost i nosivost.'

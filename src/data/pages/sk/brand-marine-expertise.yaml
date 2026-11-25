@@ -1,6 +1,6 @@
 meta:
   title: 'Morská odbornosť — inžinierstvo v každom trupe | {SITE}'
-  description: 'Desaťročia morského inžinierstva v každom trupe. afarer ovláda drop stitch, morské PVC a profesionálny dizajn nafukovacích dosiek SUP.'
+  description: 'Desaťročia morského inžinierstva v každom trupe. olagoon ovláda drop stitch, morské PVC a profesionálny dizajn nafukovacích dosiek SUP.'
   keywords:
     - 'morské inžinierstvo'
     - 'výrobca nafukovacích SUP'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: 'Morská odbornosť'
   title: 'Desaťročia morského inžinierstva<br />v každom trupe'
-  subtitle: 'afarer kombinuje hlbokú vedu o materiáloch, presnú výrobu a testovanie v reálnych podmienkach, aby vyrábal plavidlá, ktoré fungujú, keď na tom záleží.'
+  subtitle: 'olagoon kombinuje hlbokú vedu o materiáloch, presnú výrobu a testovanie v reálnych podmienkach, aby vyrábal plavidlá, ktoré fungujú, keď na tom záleží.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: 'morské inžinierstvo afarer a tím R&D pri práci'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: 'morské inžinierstvo olagoon a tím R&D pri práci'
 expertise_materials:
   tagline: 'Veda o materiáloch'
   title: 'Výber správneho materiálu<br />pre každú aplikáciu'

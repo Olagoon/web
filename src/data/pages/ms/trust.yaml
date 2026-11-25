@@ -1,6 +1,6 @@
 meta:
   title: 'Kepercayaan — Kualiti, Piawaian & Reputasi | {SITE}'
-  description: 'Mengapa mempercayai afarer: pensijilan CE dan ISO, kilang bersepadu, rujukan global, serta waranti. Pengeluar SUP boleh tiup yang profesional.'
+  description: 'Mengapa mempercayai olagoon: pensijilan CE dan ISO, kilang bersepadu, rujukan global, serta waranti. Pengeluar SUP boleh tiup yang profesional.'
   keywords:
     - 'pengeluar sup yang dipercayai'
     - 'kilang papan dayung bersijil'
@@ -8,16 +8,16 @@ meta:
     - 'kilang sup bersijil'
 hero:
   tagline: 'Dibina mengikut piawaian yang penting'
-  title: 'Percayai afarer'
+  title: 'Percayai olagoon'
   subtitle: |
     Setiap produk yang kami bina disijilkan CE — diuji bagi keselamatan,<br />
     ketahanan dan prestasi. Tiada jalan pintas. Tiada pengecualian.
   taglineSection: 'Bersijil. Diuji. Terbukti.'
-  image: 'https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp'
-  imageAlt: 'produk afarer menjalani ujian kualiti'
+  image: 'https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp'
+  imageAlt: 'produk olagoon menjalani ujian kualiti'
 
 stats:
-  title: 'afarer dalam angka'
+  title: 'olagoon dalam angka'
   stats:
     - title: 'Disijilkan CE'
       description: 'Semua produk rekreasi memenuhi piawaian keselamatan EU'
@@ -26,7 +26,7 @@ stats:
     - title: 'BSCI & REACH'
       description: 'Pembuatan beretika dan pematuhan bahan'
     - title: 'Waranti 3 Tahun'
-      description: 'Bagi setiap produk afarer — tanpa sebarang soalan'
+      description: 'Bagi setiap produk olagoon — tanpa sebarang soalan'
 
 features3_certifications:
   title: 'Pensijilan & Pematuhan'
@@ -35,7 +35,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: 'Pensijilan CE'
-      description: 'Semua SUP afarer memenuhi piawaian keselamatan CE Eropah bagi kegunaan rekreasi. Setiap produk menjalani ujian tekanan, keapungan dan beban sebelum meninggalkan kilang.'
+      description: 'Semua SUP olagoon memenuhi piawaian keselamatan CE Eropah bagi kegunaan rekreasi. Setiap produk menjalani ujian tekanan, keapungan dan beban sebelum meninggalkan kilang.'
       icon: 'tabler:certificate'
     - title: 'ISO 9001'
       description: 'Kemudahan kami seluas 12,000 m² di Qingdao beroperasi di bawah sistem pengurusan kualiti ISO 9001. Setiap kelompok pengeluaran boleh dijejak, didokumenkan dan diperiksa.'
@@ -50,21 +50,21 @@ features3_certifications:
       description: 'Makmal bahan dalaman kami menguji kekuatan tegangan, rintangan UV, keutuhan jahitan dan kehausan bagi setiap kelompok fabrik sebelum pengeluaran.'
       icon: 'tabler:microscope'
     - title: 'Waranti 3 Tahun'
-      description: 'Setiap produk afarer disertakan waranti tiga tahun terhadap kecacatan pengeluaran. Kami berdiri di sebalik apa yang kami bina.'
+      description: 'Setiap produk olagoon disertakan waranti tiga tahun terhadap kecacatan pengeluaran. Kami berdiri di sebalik apa yang kami bina.'
       icon: 'tabler:shield-check'
 
 testimonials:
   tagline: 'Kepercayaan Pelanggan'
   title: 'Kata pelanggan kami'
-  subtitle: 'Daripada pendayung kali pertama hingga pengendali armada profesional — lihat sebab mereka mempercayai afarer.'
+  subtitle: 'Daripada pendayung kali pertama hingga pengendali armada profesional — lihat sebab mereka mempercayai olagoon.'
   items:
-    - content: 'Kami melengkapi keseluruhan armada sewaan kami dengan SUP afarer. Dua musim berlalu, sifar kegagalan. Pensijilan CE menjadikan kelulusan insurans lancar.'
+    - content: 'Kami melengkapi keseluruhan armada sewaan kami dengan SUP olagoon. Dua musim berlalu, sifar kegagalan. Pensijilan CE menjadikan kelulusan insurans lancar.'
       name: 'Marco V.'
       title: 'Pengendali pelancongan, Croatia'
     - content: 'Sebagai pembeli kali pertama, saya berasa bimbang tentang kualiti. Dokumentasi ISO dan laporan ujian yang mereka kongsi memberi saya keyakinan sepenuhnya.'
       name: 'James T.'
       title: 'Pemilik SUP Explorer 11, Kanada'
-    - content: 'Kami bekerja dengan afarer bagi unit rondaan pantai kami. Proses QC mereka konsisten dalam setiap kelompok — kebolehpercayaan itu penting dalam operasi kritikal misi.'
+    - content: 'Kami bekerja dengan olagoon bagi unit rondaan pantai kami. Proses QC mereka konsisten dalam setiap kelompok — kebolehpercayaan itu penting dalam operasi kritikal misi.'
       name: 'Lt. Cmdr. Andres'
       title: 'Perolehan kerajaan, Filipina'
 
@@ -115,7 +115,7 @@ warranty_section:
   subtitle: 'Kami berdiri di sebalik setiap produk dengan terma waranti yang jelas, pemprosesan tuntutan pantas dan alat ganti tulen.'
   items:
     - title: 'Waranti Produk 3 Tahun'
-      desc: 'Semua produk afarer disertakan waranti 3 tahun terhadap kecacatan pengeluaran — kegagalan jahitan, kecacatan injap dan pengelupasan bahan dalam kegunaan normal.'
+      desc: 'Semua produk olagoon disertakan waranti 3 tahun terhadap kecacatan pengeluaran — kegagalan jahitan, kecacatan injap dan pengelupasan bahan dalam kegunaan normal.'
     - title: 'Sokongan Alat Ganti Seumur Hidup'
       desc: 'Alat ganti tulen — injap, kit pembaikan, sirip, D-ring — tersedia bagi semua model. Kami mengekalkan acuan dan peralatan sekurang-kurangnya 5 tahun selepas pengeluaran berakhir.'
     - title: 'Respons Tuntutan 48 Jam'
@@ -148,35 +148,35 @@ faqs_sup:
   subtitle: 'Soalan lazim tentang papan dayung berdiri kami.'
   columns: 2
   items:
-    - title: 'Apakah saiz papan SUP yang ditawarkan oleh afarer?'
+    - title: 'Apakah saiz papan SUP yang ditawarkan oleh olagoon?'
       description: 'Kami menawarkan papan SUP dari 9 kaki hingga 12 kaki, merangkumi segalanya daripada papan serba boleh kompak hingga reka bentuk lawatan dan khusus. Setiap model tersedia dengan pelbagai pilihan konfigurasi.'
     - title: 'Apakah perbezaan antara SUP boleh tiup dan SUP keras?'
       description: 'SUP boleh tiup menggunakan binaan drop-stitch dengan ribuan benang dalaman yang membolehkan tekanan udara tinggi, manakala SUP keras menggunakan epoksi atau gentian kaca. SUP boleh tiup menawarkan keboleh alih dan kemudahan penyimpanan tanpa mengorbankan kekakuan.'
     - title: 'Berapakah had berat bagi papan SUP?'
       description: 'Papan SUP kami menyokong sehingga 150 kg bergantung pada model dan isipadu. Setiap halaman produk menyenaraikan kadar beban maksimum bagi model khusus anda.'
-    - title: 'Adakah SUP afarer disijilkan CE?'
+    - title: 'Adakah SUP olagoon disijilkan CE?'
       description: 'Ya. Semua model SUP rekreasi disijilkan CE di bawah piawaian Eropah yang terpakai bagi kegunaan rekreasi.'
     - title: 'Berapakah tempoh waranti bagi papan SUP?'
-      description: 'Semua SUP afarer disertakan waranti standard tiga tahun terhadap kecacatan pengeluaran, merangkumi kegagalan jahitan, kecacatan injap dan pengelupasan bahan dalam kegunaan normal.'
+      description: 'Semua SUP olagoon disertakan waranti standard tiga tahun terhadap kecacatan pengeluaran, merangkumi kegagalan jahitan, kecacatan injap dan pengelupasan bahan dalam kegunaan normal.'
     - title: 'Berapa lama masa yang diperlukan untuk melambungkan papan SUP?'
-      description: 'Menggunakan pam tangan yang disertakan, pelambungan penuh sehingga 15 PSI mengambil masa kira-kira 8–12 minit. Untuk pelambungan lebih pantas, kami mengesyorkan pam elektrik 12V afarer kami, yang melambungkan papan dalam masa kurang daripada 4 minit.'
+      description: 'Menggunakan pam tangan yang disertakan, pelambungan penuh sehingga 15 PSI mengambil masa kira-kira 8–12 minit. Untuk pelambungan lebih pantas, kami mengesyorkan pam elektrik 12V olagoon kami, yang melambungkan papan dalam masa kurang daripada 4 minit.'
 
 faqs_materials:
   title: 'FAQ Bahan & Penjagaan SUP'
   subtitle: 'Soalan lazim tentang bahan, penjagaan dan penyimpanan SUP boleh tiup kami.'
   columns: 2
   items:
-    - title: 'Bahan apakah yang digunakan dalam SUP boleh tiup afarer?'
+    - title: 'Bahan apakah yang digunakan dalam SUP boleh tiup olagoon?'
       description: 'Kami menggunakan PVC gred tentera (1100 denier) dengan binaan stabil-UV dan rintang haus, mematuhi peraturan REACH dan RoHS EU.'
     - title: 'Berapa lama SUP boleh tiup bertahan?'
       description: 'Dengan penjagaan betul, SUP boleh tiup PVC berkualiti bertahan 5–10 tahun. Pembersihan berkala, perlindungan UV dan penyimpanan betul memanjangkan hayat perkhidmatan dengan ketara.'
     - title: 'Apakah penyelenggaraan yang diperlukan bagi SUP boleh tiup?'
       description: 'Penyelenggaraan asas termasuk membilas dengan air tawar selepas setiap kegunaan (terutamanya di air masin), mengeringkan sebelum disimpan, memeriksa meterai injap setiap tahun dan mengelakkan pendedahan matahari berpanjangan apabila tidak digunakan.'
     - title: 'Bolehkah SUP boleh tiup digunakan di air masin?'
-      description: 'Ya. Semua SUP boleh tiup afarer direka untuk kegunaan air tawar dan air masin. Kami mengesyorkan membilas dengan air tawar dan mengeringkan dengan teliti selepas terdedah kepada air masin.'
+      description: 'Ya. Semua SUP boleh tiup olagoon direka untuk kegunaan air tawar dan air masin. Kami mengesyorkan membilas dengan air tawar dan mengeringkan dengan teliti selepas terdedah kepada air masin.'
     - title: 'Bagaimanakah cara menyimpan SUP boleh tiup?'
       description: 'Kempiskan, bersihkan dan keringkan papan sepenuhnya sebelum disimpan. Gulung secara longgar (elakkan lipatan ketat), simpan di tempat sejuk dan kering jauh daripada cahaya matahari terus, dan jauhkan daripada lantai konkrit bagi mengelakkan penyerapan lembapan.'
-    - title: 'Berapakah kapasiti berat SUP boleh tiup afarer?'
+    - title: 'Berapakah kapasiti berat SUP boleh tiup olagoon?'
       description: 'Kapasiti berat berjulat daripada 100 kg bagi model terkecil kami hingga melebihi 200 kg bagi papan lebih besar. Setiap halaman produk menyenaraikan kadar beban maksimum bagi model khusus anda.'
 
 cta:

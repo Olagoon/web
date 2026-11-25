@@ -1,6 +1,6 @@
 meta:
   title: 'Viden — SUP-guides | {SITE}'
-  description: 'afarers vidensbase: guides om oppustelige SUP-brædder, paddle board-materialer, boardvalg og brancheindsigt for brands og professionelle.'
+  description: 'olagoons vidensbase: guides om oppustelige SUP-brædder, paddle board-materialer, boardvalg og brancheindsigt for brands og professionelle.'
   keywords:
     - 'SUP viden'
     - 'oppustelig SUP guide'
@@ -16,7 +16,7 @@ hero:
 clusters:
   tagline: Vidensklynger
   title: Udforsk efter emne
-  subtitle: Dybdegående dyk ned i teknologien, sikkerheden og færdighederne bag hvert afarer-produkt.
+  subtitle: Dybdegående dyk ned i teknologien, sikkerheden og færdighederne bag hvert olagoon-produkt.
   items:
     - title: SUP-viden
       description: Fra valg af dit første bræt til avancerede turteknikker — alt om paddleboarding.
@@ -47,7 +47,7 @@ clusters:
         - Reparationsteknikker til oppustelige produkter
         - Vejr- og vandforholdsbevidsthed
     - title: Teknologi
-      description: Ingeniørarbejdet bag afarer-produkter — materialer, konstruktionsmetoder og kvalitetstestning.
+      description: Ingeniørarbejdet bag olagoon-produkter — materialer, konstruktionsmetoder og kvalitetstestning.
       icon: tabler:microscope
       topics:
         - Marine-grade PVC-teknologi

@@ -2,8 +2,8 @@
 // dist filesystem = rendered routes (dir/index.html) + extensionless endpoint files + /en middleware rewrite
 const fs = require('fs');
 const path = require('path');
-const PUBLIC = 'E:/github/afarer/public';
-const DIST = 'E:/github/afarer/dist';
+const PUBLIC = 'E:/github/olagoon/public';
+const DIST = 'E:/github/olagoon/dist';
 
 // Build the full served-URL set from dist (pre-build dist = same routes as fresh build)
 const served = new Set();
@@ -16,14 +16,14 @@ function walk(dir, prefix) {
     } else if (e.name === 'index.html') {
       served.add(prefix);
     } else if (!e.name.includes('.')) {
-      served.add(rel); // extensionless endpoint file (e.g. /llms/brand/afarer)
+      served.add(rel); // extensionless endpoint file (e.g. /llms/brand/olagoon)
     }
   }
 }
 walk(DIST, '');
 
 const ok = (u) => {
-  const p = u.replace(/^https:\/\/afarer\.com/, '').replace(/\/+$/, '') || '/';
+  const p = u.replace(/^https:\/\/olagoon\.com/, '').replace(/\/+$/, '') || '/';
   return served.has(p) || served.has('/en' + p);
 };
 
@@ -38,7 +38,7 @@ for (const e of fs.readdirSync(PUBLIC, { withFileTypes: true })) {
 const badList = [];
 for (const f of files) {
   const c = fs.readFileSync(f, 'utf8');
-  for (const m of c.matchAll(/\]\((https:\/\/afarer\.com\/[^\s)]+)\)/g)) {
+  for (const m of c.matchAll(/\]\((https:\/\/olagoon\.com\/[^\s)]+)\)/g)) {
     total++;
     if (!ok(m[1])) {
       bad++;

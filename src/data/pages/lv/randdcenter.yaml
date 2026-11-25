@@ -8,7 +8,7 @@ hero:
   subtitle: 'Fokuss uz progresu'
 
 intro:
-  - 'afarer Pētniecības un izstrādes (P&I) centrs ir dzinējspēks mūsu misijai revolucionizēt ūdenssporta aprīkojumu. Mēs sniedzam ūdenssporta entuziastiem visā pasaulē drošākus, ērtākus un patīkamākus produktus, neatlaidīgi inovējot piepūšamajos stāvus airēšanas dēļos (SUP). Mūsu veltītā inženieru, dizaineru un aizrautīgu ūdenssporta ekspertu komanda veido nozares nākotni, pastāvīgi ceļot kvalitātes, veiktspējas un ilgtspējas latiņu.'
+  - 'olagoon Pētniecības un izstrādes (P&I) centrs ir dzinējspēks mūsu misijai revolucionizēt ūdenssporta aprīkojumu. Mēs sniedzam ūdenssporta entuziastiem visā pasaulē drošākus, ērtākus un patīkamākus produktus, neatlaidīgi inovējot piepūšamajos stāvus airēšanas dēļos (SUP). Mūsu veltītā inženieru, dizaineru un aizrautīgu ūdenssporta ekspertu komanda veido nozares nākotni, pastāvīgi ceļot kvalitātes, veiktspējas un ilgtspējas latiņu.'
   - 'Mūsu P&I centrs apvieno materiālzinātniekus, jūras inženierus un ražošanas inženierus zem viena jumta. No audumu formulu izstrādes un korpusu simulācijas līdz metināšanas procesu attīstībai un pilna mēroga jūras izmēģinājumiem katru produktu izstrādes posmu vada dati un validē testēšana.'
 
 mission:
@@ -98,33 +98,33 @@ rd_services:
 vision:
   tagline: 'Mūsu redzējums'
   title: 'Veidojot ūdenssporta nākotni'
-  body: 'afarer cenšas vadīt piepūšamo SUP nozari ar nepārtrauktu inovāciju, nepakļāvušos kvalitāti un stingru apņemšanos drošībai un ilgtspējai — galu galā bagātinot ūdenssporta entuziastu pieredzi visā pasaulē. afarer P&I centrs ir vieta, kur aizrautība satiekas ar inovācijām, noteicot jaunus standartus ūdenssporta nozarei.'
+  body: 'olagoon cenšas vadīt piepūšamo SUP nozari ar nepārtrauktu inovāciju, nepakļāvušos kvalitāti un stingru apņemšanos drošībai un ilgtspējai — galu galā bagātinot ūdenssporta entuziastu pieredzi visā pasaulē. olagoon P&I centrs ir vieta, kur aizrautība satiekas ar inovācijām, noteicot jaunus standartus ūdenssporta nozarei.'
 
 labs_section:
   tagline: 'Laboratorijas'
   title: 'Mūsu laboratorijas'
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: 'PVC audumu laboratorija'
       description: 'Pastāvīga PVC klājuma audumu pētniecība un testēšana uz stiepes izturību, UV pretestību, berzi un zemas temperatūras elastību, lai nodrošinātu ilgtermiņa uzticamību jūras vidē.'
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Korpusu inženierijas studija'
       description: 'CAD balstīts dizains un galīgo elementu analīze HDPE, alumīnija un stikla šķiedras korpusem. Katrs korpusa tiek digitāli simulēts uz spriegumu sadali un trieciena izturību, pirms tiek uzbūvēts pirmais prototips.'
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'RF metināšanas centrs'
       description: 'Īpaša radiofrekvences metināšanas iekārta ar precīzu temperatūras un spiediena kontroli, kas ražo augstas izturības hermētiskas šuves, kas atbilst jūras nozares standartiem piepūšamajiem peldlīdzekļiem.'
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Hidrodinamiskais testa baseins'
       description: 'Mēroga modeļu testēšana mūsu iekšējā testa baseinā, lai optimizētu korpusa formu, glisēšanas veiktspēju, stabilitāti un degvielas efektivitāti dažādos slodzes un jūras apstākļos.'
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Prototipu darbnīca'
       description: 'Pilna mēroga prototipu izgatavošanas un aprīkošanas iekārta, kur jaunie modeļi tiek būvēti, aprīkoti un izmēģināti jūrā. Katrs prototips iziet vismaz 20 stundu testa programmu ūdenī pirms ražošanas apstiprinājuma.'
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: 'Kvalitātes un pārbaudes laboratorija'
       description: 'Īpaša kvalitātes nodrošināšanas laboratorija, kas veic stiepes testēšanu, gaisa noturības ciklēšanu, šuvju atdalīšanas testus un materiālu sertifikāciju, lai nodrošinātu, ka katrs darbnīcu pametošais dēlis atbilst mūsu publicētajām specifikācijām.'
       href: /randdcenter/quality-inspection-lab/

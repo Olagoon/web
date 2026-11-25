@@ -1,6 +1,6 @@
 meta:
   title: 'Parceiros — Distribuição e Atacado | {SITE}'
-  description: 'Torne-se um parceiro afarer: redes de distribuição, preços de atacado, programas OEM/marca própria e suporte para empresas de paddle board em todo o mundo.'
+  description: 'Torne-se um parceiro olagoon: redes de distribuição, preços de atacado, programas OEM/marca própria e suporte para empresas de paddle board em todo o mundo.'
   keywords:
     - 'parceiro de distribuição de SUP'
     - 'paddle board no atacado'
@@ -8,10 +8,10 @@ meta:
     - 'parceria de SUP'
 hero:
   tagline: Parceiros e Distribuição
-  title: Torne-se Parceiro afarer<br />— Rede Global de Distribuição
-  subtitle: Junte-se à rede global afarer. Trabalhamos com distribuidores em 50+ países.
+  title: Torne-se Parceiro olagoon<br />— Rede Global de Distribuição
+  subtitle: Junte-se à rede global olagoon. Trabalhamos com distribuidores em 50+ países.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
     alt: uma rede global de parceiros e distribuidores
 content_programs:
   tagline: Programas de Parceiros
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: Por Que Parceria Conosco
-  title: Por que os Parceiros Escolhem afarer
+  title: Por que os Parceiros Escolhem olagoon
   subtitle: Nossos parceiros se beneficiam de capacidade de fabricação real, qualidade constante e suporte receptivo.
   list:
     - 'Acesso direto à fábrica: trabalhe diretamente com nossa equipe de fabricação'
@@ -62,7 +62,7 @@ content_process:
     - title: 'Etapa 4: Treinamento & Lançamento'
       description: Treinamento, suporte de vendas e materiais fornecidos. Pronto para vender.
 cta:
-  title: Pronto para ser parceiro afarer?
+  title: Pronto para ser parceiro olagoon?
   subtitle: Candidate-se para parceria. Respondemos em 3 dias úteis.
   actions:
     - variant: primary

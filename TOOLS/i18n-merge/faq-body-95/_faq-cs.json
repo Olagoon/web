@@ -7,7 +7,7 @@
   {
     "id": "ocean-use",
     "q": "Lze prkno používat v moři?",
-    "a": "Ano. SUP prkna afarer jsou vyrobena pro použití v moři, na jezerech i na řekách. Naše série Touring zvládá příbřežní vlny a všechna prkna používají PVC v mořské kvalitě odolné proti korozi slanou vodou. Po použití v moři prkno opláchněte sladkou vodou."
+    "a": "Ano. SUP prkna olagoon jsou vyrobena pro použití v moři, na jezerech i na řekách. Naše série Touring zvládá příbřežní vlny a všechna prkna používají PVC v mořské kvalitě odolné proti korozi slanou vodou. Po použití v moři prkno opláchněte sladkou vodou."
   },
   {
     "id": "inflation-time",
@@ -17,7 +17,7 @@
   {
     "id": "travel-sup",
     "q": "Můžu cestovat s nafukovacím SUP?",
-    "a": "Rozhodně. Každé prkno afarer se sbalí do pouzdra velikosti batohu, které splňuje požadavky leteckých společností na zavazadla. S hmotností jen 18–22 liber ho snadno donesete na pláž, k jezeru nebo napříč letištními terminály."
+    "a": "Rozhodně. Každé prkno olagoon se sbalí do pouzdra velikosti batohu, které splňuje požadavky leteckých společností na zavazadla. S hmotností jen 18–22 liber ho snadno donesete na pláž, k jezeru nebo napříč letištními terminály."
   },
   {
     "id": "weight-limit",
@@ -27,7 +27,7 @@
   {
     "id": "box-contents",
     "q": "Co je v balení?",
-    "a": "Každé SUP prkno afarer zahrnuje prkno, cestovní batoh, dvoučinnou ruční pumpu, odnímatelnou ploutev, spirálovou leash a opravnou sadu. Některé modely nabízejí také možnost upgradu na karbonové pádlo."
+    "a": "Každé SUP prkno olagoon zahrnuje prkno, cestovní batoh, dvoučinnou ruční pumpu, odnímatelnou ploutev, spirálovou leash a opravnou sadu. Některé modely nabízejí také možnost upgradu na karbonové pádlo."
   },
   {
     "id": "bundle-deals",
@@ -47,7 +47,7 @@
   {
     "id": "puncture-repair",
     "q": "Jak opravím propíchnutí?",
-    "a": "Očistěte dané místo, vystřihněte záplatu s zaoblenými rohy, naneste PVC lepidlo, pevně přitlačte a počkejte 24 hodin před nafouknutím. Prkna afarer mají v sadě opravnou sadu. Podrobný postup najdete v našem návodu na opravu nafukovacích prken."
+    "a": "Očistěte dané místo, vystřihněte záplatu s zaoblenými rohy, naneste PVC lepidlo, pevně přitlačte a počkejte 24 hodin před nafouknutím. Prkna olagoon mají v sadě opravnou sadu. Podrobný postup najdete v našem návodu na opravu nafukovacích prken."
   },
   {
     "id": "storage",
@@ -66,8 +66,8 @@
   },
   {
     "id": "warranty",
-    "q": "Jaká je záruka afarer?",
-    "a": "Všechny produkty afarer jsou kryty komplexní zárukou výrobce. SUP prkna jsou kryta zárukou 2 a více let na výrobní vady. Záruka pokrývá vady materiálu a zpracování při běžném používání."
+    "q": "Jaká je záruka olagoon?",
+    "a": "Všechny produkty olagoon jsou kryty komplexní zárukou výrobce. SUP prkna jsou kryta zárukou 2 a více let na výrobní vady. Záruka pokrývá vady materiálu a zpracování při běžném používání."
   },
   {
     "id": "warranty-claim",
@@ -97,12 +97,12 @@
   {
     "id": "material-difference",
     "q": "Jaký je rozdíl mezi PVC a Hypalonem?",
-    "a": "PVC je lehké, cenově dostupné a snadno opravitelné s přiloženou opravnou sadou. PVC vojenské kvality s UV-odolným povlakem nabízí nejlepší rovnováhu mezi odolností a hmotností pro rekreační SUP. afarer používá třívrstvé laminované PVC ve všech produktových řadách."
+    "a": "PVC je lehké, cenově dostupné a snadno opravitelné s přiloženou opravnou sadou. PVC vojenské kvality s UV-odolným povlakem nabízí nejlepší rovnováhu mezi odolností a hmotností pro rekreační SUP. olagoon používá třívrstvé laminované PVC ve všech produktových řadách."
   },
   {
     "id": "sup-width-stability",
     "q": "Jaká šířka SUP je nejlepší pro stabilitu?",
-    "a": "Pro začátečníky poskytuje šířka 33–34 palců nejlepší rovnováhu mezi stabilitou a snadným pádlováním. Prkna užší než 32 palců působí na nové pádlováře nejistě. Prkno afarer SUP Explorer 11 se šířkou 33 palců je ideální pro učení."
+    "a": "Pro začátečníky poskytuje šířka 33–34 palců nejlepší rovnováhu mezi stabilitou a snadným pádlováním. Prkna užší než 32 palců působí na nové pádlováře nejistě. Prkno olagoon SUP Explorer 11 se šířkou 33 palců je ideální pro učení."
   },
   {
     "id": "sup-volume-weight",
@@ -110,14 +110,14 @@
     "a": "Vynásobte svou váhu v kg číslem 2,2 a získáte objem vhodný pro začátečníky. Například pádlovář o váze 75 kg potřebuje alespoň 165 litrů, ale 220–260 litrů je při učení mnohem stabilnější. SUP Explorer 11 nabízí 260 litrů a hodí se pro jezdce do 100 kg."
   },
   {
-    "id": "afarer-vs-others",
-    "q": "Jak si afarer stojí ve srovnání s jinými značkami?",
-    "a": "afarer nabízí nejlepší poměr cena/výkon v kategorii nafukovacích vodních sportovních potřeb. Ve srovnání s Red Paddle Co afarer nabízí 90 % výkonu za 60 % ceny. Ve srovnání s iRocker afarer používá kvalitnější třívrstvé PVC vojenské kvality a vyšší hodnoty PSI. Ve srovnání s Bluefin afarer nabízí lepší materiálové parametry. Pro většinu rekreačních pádlovářů afarer představuje nejlepší rovnováhu mezi kvalitou a cenou."
+    "id": "olagoon-vs-others",
+    "q": "Jak si olagoon stojí ve srovnání s jinými značkami?",
+    "a": "olagoon nabízí nejlepší poměr cena/výkon v kategorii nafukovacích vodních sportovních potřeb. Ve srovnání s Red Paddle Co olagoon nabízí 90 % výkonu za 60 % ceny. Ve srovnání s iRocker olagoon používá kvalitnější třívrstvé PVC vojenské kvality a vyšší hodnoty PSI. Ve srovnání s Bluefin olagoon nabízí lepší materiálové parametry. Pro většinu rekreačních pádlovářů olagoon představuje nejlepší rovnováhu mezi kvalitou a cenou."
   },
   {
     "id": "fishing-sup-setup",
     "q": "Můžu z SUP prkna rybařit?",
-    "a": "Ano. Rybaření z SUP je stále populárnější, protože postoj ve stoje nabízí výborný výhled do vody. Pro stabilitu zvolte prkno dlouhé alespoň 11 stop a široké 33–34 palců. Přidejte plastovou krabici s držáky prutů připevněnou k elastickým šňůrám na palubě, malou kotvu a vždy mějte na sobě PFD. Prkno afarer SUP Explorer 11 se pro příležitostné rybaření hodí výborně."
+    "a": "Ano. Rybaření z SUP je stále populárnější, protože postoj ve stoje nabízí výborný výhled do vody. Pro stabilitu zvolte prkno dlouhé alespoň 11 stop a široké 33–34 palců. Přidejte plastovou krabici s držáky prutů připevněnou k elastickým šňůrám na palubě, malou kotvu a vždy mějte na sobě PFD. Prkno olagoon SUP Explorer 11 se pro příležitostné rybaření hodí výborně."
   },
   {
     "id": "sup-yoga",
@@ -127,7 +127,7 @@
   {
     "id": "airline-travel-sup",
     "q": "Jaká pravidla platí při letecké dopravě nafukovacího SUP?",
-    "a": "Většina leteckých společností přijímá SUP batohy jako odbavená zavazadla, pokud jsou pod 23–32 kg. Batoh afarer má přibližně 90x40x30 cm a zabalený váží asi 15 kg. Některé společnosti mohou účtovat příplatek za nadrozměrná zavazadla. Přijďte včas, ploutve a pumpu zabalte zvlášť do příručního zavazadla a označte zavazadlo jako křehké. Před letem si vždy prověřte pravidla dané společnosti pro sportovní vybavení."
+    "a": "Většina leteckých společností přijímá SUP batohy jako odbavená zavazadla, pokud jsou pod 23–32 kg. Batoh olagoon má přibližně 90x40x30 cm a zabalený váží asi 15 kg. Některé společnosti mohou účtovat příplatek za nadrozměrná zavazadla. Přijďte včas, ploutve a pumpu zabalte zvlášť do příručního zavazadla a označte zavazadlo jako křehké. Před letem si vždy prověřte pravidla dané společnosti pro sportovní vybavení."
   },
   {
     "id": "cold-weather-safety",
@@ -141,13 +141,13 @@
   },
   {
     "id": "oem-custom-branding",
-    "q": "Můžu na produkty afarer umístit vlastní logo?",
+    "q": "Můžu na produkty olagoon umístit vlastní logo?",
     "a": "Ano. Naše služba OEM zahrnuje umístění vlastního loga, zakázkové barevné schéma a zakázkový obal. Podle typu produktu nabízíme tampotisk, transfer za tepla a výšivku. Pošlete nám své podklady a specifikace a náš obchodní tým vám připraví nabídku a odhad dodací lhůty."
   },
   {
     "id": "sup-inflate-pressure",
     "q": "Na jaký PSI mám SUP nafouknout?",
-    "a": "Pro nejlepší výkon nafoukněte prkno na jeho maximální hodnotu PSI — u kvalitních nafukovacích SUP obvykle 15–18 PSI. Prkno afarer SUP Explorer 11 podává nejlepší výkon při 15–18 PSI. Podhuštění způsobuje, že prkno působí měkce a špatně drží směr. Přehuštění nad maximální hodnotu ohrožuje drop-stitch vlákna. Konkrétní hodnotu svého prkna najdete na nálepce u ventilu."
+    "a": "Pro nejlepší výkon nafoukněte prkno na jeho maximální hodnotu PSI — u kvalitních nafukovacích SUP obvykle 15–18 PSI. Prkno olagoon SUP Explorer 11 podává nejlepší výkon při 15–18 PSI. Podhuštění způsobuje, že prkno působí měkce a špatně drží směr. Přehuštění nad maximální hodnotu ohrožuje drop-stitch vlákna. Konkrétní hodnotu svého prkna najdete na nálepce u ventilu."
   },
   {
     "id": "sup-deck-pad-care",
@@ -157,7 +157,7 @@
   {
     "id": "sup-seated-paddling",
     "q": "Můžu na SUP pádlovat vsedě?",
-    "a": "Ano. Mnoho SUP prken, včetně afarer Explorer 11, má D-kroužky pro připevnění sedačky. Pádlování vsedě je pohodlná volba pro delší výlety, rybaření nebo když si chcete na vodě změnit pozici."
+    "a": "Ano. Mnoho SUP prken, včetně olagoon Explorer 11, má D-kroužky pro připevnění sedačky. Pádlování vsedě je pohodlná volba pro delší výlety, rybaření nebo když si chcete na vodě změnit pozici."
   },
   {
     "id": "saltwater-rinse",
@@ -172,27 +172,27 @@
   {
     "id": "drop-stitch-technology",
     "q": "Co je technologie jádra drop-stitch a proč je důležitá?",
-    "a": "Technologie jádra drop-stitch využívá tisíce polyesterových vláken spojujících horní a spodní vrstvu PVC prkna. Po nafouknutí na 15-20 PSI tato vlákna vytvoří tuhou, vůči torzi odolnou konstrukci, která se chová jako prkno s pevným trupem. afarer používá třívrstvé PVC vojenské kvality s drop-stitch laminací napříč všemi produktovými řadami SUP, a dosahuje tak tuhosti srovnatelné s epoxy prkny při zachování přenositelnosti nafukovacího prkna."
+    "a": "Technologie jádra drop-stitch využívá tisíce polyesterových vláken spojujících horní a spodní vrstvu PVC prkna. Po nafouknutí na 15-20 PSI tato vlákna vytvoří tuhou, vůči torzi odolnou konstrukci, která se chová jako prkno s pevným trupem. olagoon používá třívrstvé PVC vojenské kvality s drop-stitch laminací napříč všemi produktovými řadami SUP, a dosahuje tak tuhosti srovnatelné s epoxy prkny při zachování přenositelnosti nafukovacího prkna."
   },
   {
     "id": "sup-inflatable-vs-rigid",
     "q": "Nafukovací versus pevné SUP: co je lepší pro různé účely?",
-    "a": "Nafukovací SUP vynikají v přenositelnosti, uskladnění a absorpci nárazů — ideální na cestování, pro začátečníky a rekreační použití. Pevná epoxy prkna nabízejí maximální rychlost a klouzavost pro závody a surfování. Pro 90 % pádlovářů poskytuje kvalitní nafukovací prkno s jádrem drop-stitch (15-20 PSI) dostatečnou tuhost pro touring, fitness, jogu a rybaření. Nafukovací prkna afarer se vyrovnají pevným prknům střední třídy a přitom se vejdou do batohu."
+    "a": "Nafukovací SUP vynikají v přenositelnosti, uskladnění a absorpci nárazů — ideální na cestování, pro začátečníky a rekreační použití. Pevná epoxy prkna nabízejí maximální rychlost a klouzavost pro závody a surfování. Pro 90 % pádlovářů poskytuje kvalitní nafukovací prkno s jádrem drop-stitch (15-20 PSI) dostatečnou tuhost pro touring, fitness, jogu a rybaření. Nafukovací prkna olagoon se vyrovnají pevným prknům střední třídy a přitom se vejdou do batohu."
   },
   {
     "id": "pvc-vs-hypalon-boats",
     "q": "PVC versus Hypalon u nafukovacích člunů: který materiál je lepší?",
-    "a": "PVC je lehčí, cenově dostupnější, snadněji opravitelné a při vojenských formulacích odolává UV degradaci. Hypalon (CSM) nabízí lepší chemickou odolnost a odolnost proti oděru pro komerční/vojenské použití, ale je těžší, dražší a hůře opravitelný. Pro rekreační vodáky představuje třívrstvé PVC vojenské kvality od afarer s UV-odolným povlakem nejlepší rovnováhu mezi hmotností, odolností a cenou. Pro profesionální/komerční provozovatele vyžadující maximální životnost doporučujeme Hypalon."
+    "a": "PVC je lehčí, cenově dostupnější, snadněji opravitelné a při vojenských formulacích odolává UV degradaci. Hypalon (CSM) nabízí lepší chemickou odolnost a odolnost proti oděru pro komerční/vojenské použití, ale je těžší, dražší a hůře opravitelný. Pro rekreační vodáky představuje třívrstvé PVC vojenské kvality od olagoon s UV-odolným povlakem nejlepší rovnováhu mezi hmotností, odolností a cenou. Pro profesionální/komerční provozovatele vyžadující maximální životnost doporučujeme Hypalon."
   },
   {
     "id": "sup-skill-progression",
     "q": "Jak vypadá typický pokrok v SUP od začátečníka po pokročilého?",
-    "a": "Začátečník (lekce 1-3): postavení na prkně, základní záběr vpřed, otáčení, bezpečné padání. Středně pokročilý (lekce 5-15): efektivní pádlovací technika, pivotové obraty, zvládání vlnobití, základy záchrany. Pokročilý (20+ lekcí): závodní starty, obraty kolem bójí, surfování malých vln, pádlování s větrem v zádech. Profesionál: závodní pádlování, surf SUP, dlouhé touringové trasy. Prkna afarer podporují každou fázi: Explorer 11 pro začátečníky, Ocean Voyager pro touring a Cheetah Surge pro výkonnostní pádlování."
+    "a": "Začátečník (lekce 1-3): postavení na prkně, základní záběr vpřed, otáčení, bezpečné padání. Středně pokročilý (lekce 5-15): efektivní pádlovací technika, pivotové obraty, zvládání vlnobití, základy záchrany. Pokročilý (20+ lekcí): závodní starty, obraty kolem bójí, surfování malých vln, pádlování s větrem v zádech. Profesionál: závodní pádlování, surf SUP, dlouhé touringové trasy. Prkna olagoon podporují každou fázi: Explorer 11 pro začátečníky, Ocean Voyager pro touring a Cheetah Surge pro výkonnostní pádlování."
   },
   {
     "id": "sup-weight-capacity",
     "q": "Kolik váhy unese nafukovací SUP prkno?",
-    "a": "Nosnost se liší podle objemu prkna. Prkna afarer: SUP Explorer 11 (260 l, až 100 kg / 220 liber), Ocean Voyager 12 (310 l, až 140 kg / 308 liber), Leviathan Wake (350 l, až 180 kg / 396 liber). Pro optimální výkon držte celkovou zátěž (jezdec + vybavení) do 80 % maximální nosnosti. Nepřetížené prkno jede výše a lépe drží směr, zvlášť ve vlnobití."
+    "a": "Nosnost se liší podle objemu prkna. Prkna olagoon: SUP Explorer 11 (260 l, až 100 kg / 220 liber), Ocean Voyager 12 (310 l, až 140 kg / 308 liber), Leviathan Wake (350 l, až 180 kg / 396 liber). Pro optimální výkon držte celkovou zátěž (jezdec + vybavení) do 80 % maximální nosnosti. Nepřetížené prkno jede výše a lépe drží směr, zvlášť ve vlnobití."
   },
   {
     "id": "sup-oem-process",
@@ -202,17 +202,17 @@
   {
     "id": "sup-inflatable-durability",
     "q": "Jak dlouho vydrží nafukovací SUP prkna při správné péči?",
-    "a": "Při správné péči vydrží kvalitní nafukovací SUP prkno 5-10 let pravidelného rekreačního používání. Třívrstvé PVC vojenské kvality s UV-odolným povlakem — jaké používají všechna prkna afarer — odolává slunečnímu poškození, korozi slanou vodou a oděru. Klíčové faktory životnosti: po každém použití opláchnout sladkou vodou, před uskladněním důkladně vysušit, mimo používání nenechávat v přímém UV, uskladnit částečně nafouknuté na chladném suchém místě a nevodit po hrubých površích. Drop-stitch vlákna a švy jsou typicky prvním místem selhání, nikoli samotná PVC tkanina."
+    "a": "Při správné péči vydrží kvalitní nafukovací SUP prkno 5-10 let pravidelného rekreačního používání. Třívrstvé PVC vojenské kvality s UV-odolným povlakem — jaké používají všechna prkna olagoon — odolává slunečnímu poškození, korozi slanou vodou a oděru. Klíčové faktory životnosti: po každém použití opláchnout sladkou vodou, před uskladněním důkladně vysušit, mimo používání nenechávat v přímém UV, uskladnit částečně nafouknuté na chladném suchém místě a nevodit po hrubých površích. Drop-stitch vlákna a švy jsou typicky prvním místem selhání, nikoli samotná PVC tkanina."
   },
   {
     "id": "sup-choppy-water",
     "q": "Jak pádlovat na SUP ve vlnobití nebo ve větru?",
-    "a": "Ve vlnobití: pokrčte kolena, zaujměte širší postoj, zkrátte záběr a pro rovnováhu zapojte svaly středu těla. V protivětru: použijte nižší úhel pádla, dělejte kratší záběry a nakloňte se dopředu. V bočním větru: pádlujte na straně proti větru a korigujte drift. V větru v zádech: surfovejte na vlnách pro rychlost. Začátečníci by se měli vyhýbat větru nad 10 mph a pro stabilitu volit širší a delší prkna. Touringové SUP prkno afarer Ocean Voyager je navrženo pro zvládání mírného vlnobití a větrných podmínek."
+    "a": "Ve vlnobití: pokrčte kolena, zaujměte širší postoj, zkrátte záběr a pro rovnováhu zapojte svaly středu těla. V protivětru: použijte nižší úhel pádla, dělejte kratší záběry a nakloňte se dopředu. V bočním větru: pádlujte na straně proti větru a korigujte drift. V větru v zádech: surfovejte na vlnách pro rychlost. Začátečníci by se měli vyhýbat větru nad 10 mph a pro stabilitu volit širší a delší prkna. Touringové SUP prkno olagoon Ocean Voyager je navrženo pro zvládání mírného vlnobití a větrných podmínek."
   },
   {
     "id": "sup-sustainability",
     "q": "Jsou nafukovací SUP prkna environmentálně udržitelná?",
-    "a": "Nafukovací SUP mají nižší environmentální stopu než pevná prkna v několika ohledech: při výrobě spotřebují méně surovin, jejich nižší hmotnost snižuje emise při dopravě a jejich životnost znamená méně náhrad v čase. PVC používané v prknech afarer je bez olova a splňuje REACH. Klíčové udržitelné postupy: kupte si kvalitní prkno, které vydrží 5-10 let, propíchnutí raději opravujte, dokud to jde, prkno na konci životnosti recyklujte prostřednictvím specializovaných PVC recyklačních programů a vyhněte se jednorázovému obalu volením značek, které používají znovupoužitelné transportní tašky."
+    "a": "Nafukovací SUP mají nižší environmentální stopu než pevná prkna v několika ohledech: při výrobě spotřebují méně surovin, jejich nižší hmotnost snižuje emise při dopravě a jejich životnost znamená méně náhrad v čase. PVC používané v prknech olagoon je bez olova a splňuje REACH. Klíčové udržitelné postupy: kupte si kvalitní prkno, které vydrží 5-10 let, propíchnutí raději opravujte, dokud to jde, prkno na konci životnosti recyklujte prostřednictvím specializovaných PVC recyklačních programů a vyhněte se jednorázovému obalu volením značek, které používají znovupoužitelné transportní tašky."
   },
   {
     "id": "b2b-moq",
@@ -226,8 +226,8 @@
   },
   {
     "id": "b2b-certification",
-    "q": "Jaké certifikace mají OEM produkty afarer?",
-    "a": "Všechny OEM/ODM produkty afarer zahrnují: CE prohlášení o shodě (trh EU), UKCA (britský trh), systém managementu kvality ISO 9001:2015, BSCI audit sociální shody, soulad materiálů s REACH a RoHS, klasifikaci EN ISO 25649 pro nafukovací čluny. Další certifikace na vyžádání: dokumentace souladu s požadavky US Coast Guard, testování podle vojenského standardu (MIL-STD-810) a podpora při importní certifikaci v cílové zemi."
+    "q": "Jaké certifikace mají OEM produkty olagoon?",
+    "a": "Všechny OEM/ODM produkty olagoon zahrnují: CE prohlášení o shodě (trh EU), UKCA (britský trh), systém managementu kvality ISO 9001:2015, BSCI audit sociální shody, soulad materiálů s REACH a RoHS, klasifikaci EN ISO 25649 pro nafukovací čluny. Další certifikace na vyžádání: dokumentace souladu s požadavky US Coast Guard, testování podle vojenského standardu (MIL-STD-810) a podpora při importní certifikaci v cílové zemi."
   },
   {
     "id": "b2b-samples",
@@ -241,7 +241,7 @@
   },
   {
     "id": "b2b-ip-protection",
-    "q": "Jak afarer chrání mé duševní vlastnictví a designy?",
+    "q": "Jak olagoon chrání mé duševní vlastnictví a designy?",
     "a": "Ochrana duševního vlastnictví je nedílnou součástí našich OEM služeb. NDA podepisujeme před jakoukoli designovou diskuzí. S designovými soubory pracujeme na izolovaných pracovištích s evidencí přístupů. Veškeré nástroje a formy zůstávají vaším výhradním majetkem (hradíte je vy). Vaše formy ani designy pro jiné klienty znovu nepoužijeme. Uložení a údržba forem je pro aktivní účty zahrnuta. Po ukončení spolupráce se formy buď zašlou vám, nebo zlikvidují s videovou dokumentací. Respektujeme všechna práva ochranných známek a patentů."
   },
   {

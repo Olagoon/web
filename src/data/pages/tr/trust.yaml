@@ -1,6 +1,6 @@
 meta:
   title: 'Güven — Kalite, standartlar ve itibar | {SITE}'
-  description: "Neden afarer'a güvenmelisiniz: CE ve ISO sertifikaları, entegre fabrika, küresel referanslar ve garanti. Profesyonel bir şişme SUP tahtası üreticisi."
+  description: "Neden olagoon'a güvenmelisiniz: CE ve ISO sertifikaları, entegre fabrika, küresel referanslar ve garanti. Profesyonel bir şişme SUP tahtası üreticisi."
   keywords:
     - 'güvenilir SUP üreticisi'
     - 'sertifikalı paddle board fabrikası'
@@ -8,15 +8,15 @@ meta:
     - 'sertifikalı SUP fabrikası'
 hero:
   tagline: Önemli standartlara göre üretilmiştir
-  title: afarer'a Güvenin
+  title: olagoon'a Güvenin
   subtitle: |
     Ürettiğimiz her ürün CE sertifikalıdır — güvenlik, dayanıklılık<br />
     ve performans açısından test edilmiştir. Kısayol yok. İstisna yok.
   taglineSection: Sertifikalı. Test edilmiş. Kanıtlanmış.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: afarer ürünü kalite testinden geçiyor
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: olagoon ürünü kalite testinden geçiyor
 stats:
-  title: afarer rakamlarla
+  title: olagoon rakamlarla
   stats:
     - title: CE Sertifikalı
       description: Tüm rekreasyonel ürünler AB güvenlik standartlarını karşılar
@@ -25,7 +25,7 @@ stats:
     - title: BSCI ve REACH
       description: Etik üretim ve malzeme uyumluluğu
     - title: 3 Yıl Garanti
-      description: Her afarer ürününde — soru sorulmaz
+      description: Her olagoon ürününde — soru sorulmaz
 features3_certifications:
   title: Sertifikalar ve Uyumluluk
   subtitle: Her ürün bağımsız olarak test edilir ve uluslararası standartlara göre sertifikalandırılır.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: CE Sertifikası
-      description: Tüm afarer SUPlar, rekreasyonel kullanım için Avrupa CE güvenlik standardını karşılar. Her ürün, fabrikadan çıkmadan önce basınç, yüzdürme ve yük testinden geçer.
+      description: Tüm olagoon SUPlar, rekreasyonel kullanım için Avrupa CE güvenlik standardını karşılar. Her ürün, fabrikadan çıkmadan önce basınç, yüzdürme ve yük testinden geçer.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: 12.000 m²'lik Qingdao tesisimiz bir ISO 9001 kalite yönetim sistemi altında çalışır. Her üretim partisi izlenebilir, belgelenmiş ve denetlenmiştir.
@@ -48,20 +48,20 @@ features3_certifications:
       description: Dahili malzeme laboratuvarı, üretimden önce her kumaş partisi için çekme mukavemeti, UV direnci, dikiş bütünlüğü ve aşınma testi yapar.
       icon: tabler:microscope
     - title: 3 Yıl Garanti
-      description: Her afarer ürünü, üretim kusurlarına karşı üç yıl garantilidir. Ürettiğimizin arkasında duruyoruz.
+      description: Her olagoon ürünü, üretim kusurlarına karşı üç yıl garantilidir. Ürettiğimizin arkasında duruyoruz.
       icon: tabler:shield-check
 testimonials:
   tagline: Müşteri Güveni
   title: Müşterilerimiz ne diyor
-  subtitle: İlk kez kürek çekenlerden profesyonel filo operatörlerine — neden afarer'a güvendiklerini görün.
+  subtitle: İlk kez kürek çekenlerden profesyonel filo operatörlerine — neden olagoon'a güvendiklerini görün.
   items:
-    - content: Tüm kiralama filomuzu afarer SUP'leri ile donattık. İki sezon, sıfır arıza. CE sertifikası sigorta onayını sorunsuz hale getirdi.
+    - content: Tüm kiralama filomuzu olagoon SUP'leri ile donattık. İki sezon, sıfır arıza. CE sertifikası sigorta onayını sorunsuz hale getirdi.
       name: Marco V.
       title: Tur operatörü, Hırvatistan
     - content: İlk kez alıcı olarak kalite konusunda endişeliydim. Paylaştıkları ISO belgeleri ve test raporları bana tam güven verdi.
       name: James T.
       title: SUP Explorer 11 sahibi, Kanada
-    - content: Kıyı devriye birimlerimiz için afarer ile çalışıyoruz. Kalite kontrol süreçleri her partide tutarlı — bu güvenilirlik kritik görev operasyonlarında önemlidir.
+    - content: Kıyı devriye birimlerimiz için olagoon ile çalışıyoruz. Kalite kontrol süreçleri her partide tutarlı — bu güvenilirlik kritik görev operasyonlarında önemlidir.
       name: Binbaşı Andres
       title: Donanma tedarik, Filipinler
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Her ürünün arkasında net garanti koşulları, hızlı talep işleme ve orijinal yedek parçalarla duruyoruz.
   items:
     - title: 3 Yıl Ürün Garantisi
-      desc: Tüm afarer ürünleri üretim hatalarına karşı 3 yıl garantiye sahiptir — dikiş hataları, vana kusurları ve normal kullanım altında malzeme tabaklanmaları.
+      desc: Tüm olagoon ürünleri üretim hatalarına karşı 3 yıl garantiye sahiptir — dikiş hataları, vana kusurları ve normal kullanım altında malzeme tabaklanmaları.
     - title: Ömür Boyu Yedek Parça Desteği
       desc: Tüm modeller için mevcut orijinal yedek parçalar — valfler, onarım kitleri, yüzgeçler, D-halkaları — Üretim sona erdikten sonra kalıpları ve aparatları minimum 5 yıl boyunca muhafaza ediyoruz.
     - title: 48 Saatlik Talep Yanıtı
@@ -149,25 +149,25 @@ faqs_sup:
     - title: Komple SUP paketleri sunuyor musunuz?
       description: Evet. Her SUP board, 3 parçalı alüminyum pala, yüksek basınçlı el pompası, bobin tasma, seyahat sırt çantası ve onarım kiti dahil komple bir paketle gönderilir. Bazı modeller ayrıca çıkarılabilir bir kanat seti içerir.
     - title: SUP boardlarda garanti nedir?
-      description: Tüm afarer SUP boardları, normal kullanım altında dikiş hatası, valf kusurları ve malzeme delaminasyonu dahil olmak üzere üretim kusurlarına karşı üç yıllık garantiye sahiptir.
+      description: Tüm olagoon SUP boardları, normal kullanım altında dikiş hatası, valf kusurları ve malzeme delaminasyonu dahil olmak üzere üretim kusurlarına karşı üç yıllık garantiye sahiptir.
     - title: Bir SUP board'u şişirmek ne kadar sürer?
-      description: Verilen el pompasını kullanarak, 15 PSI'a tam şişirme yaklaşık 8–12 dakika sürer. Daha hızlı şişirme için, bir board'u 4 dakikadan kısa sürede şişiren afarer 12V elektrikli pompamızı öneririz.
+      description: Verilen el pompasını kullanarak, 15 PSI'a tam şişirme yaklaşık 8–12 dakika sürer. Daha hızlı şişirme için, bir board'u 4 dakikadan kısa sürede şişiren olagoon 12V elektrikli pompamızı öneririz.
 faqs_materials:
   title: SUP Malzeme ve Bakım SSS
   subtitle: Şişilebilir SUP malzemelerimiz, bakımı ve depolaması hakkında sıkça sorulan sorular.
   columns: 2
   items:
-    - title: afarer şişirilebilir SUP'larında hangi malzemeler kullanılmaktadır?
+    - title: olagoon şişirilebilir SUP'larında hangi malzemeler kullanılmaktadır?
       description: AB REACH ve RoHS düzenlemelerine uygun, UV dayanımlı, aşınmaya karşı dayanıklı askeri sınıf PVC (1100 denier) kullanıyoruz.
     - title: Şişirilebilir SUP'lar ne kadar dayanır?
       description: Düzgün bakıldığında, kaliteli bir PVC şişirilebilir SUP 5–10 yıl dayanır. Düzenli temizleme, UV koruması ve uygun depolama ömrü önemli ölçüde uzatır.
     - title: Bir şişirilebilir SUP için hangi bakım gereklidir?
       description: Temel bakım, her kullanımdan sonra tatlı su ile durulamayı (özellikle tuzlu suda), depolamadan önce kurutmayı, valf contalarını yıllık olarak kontrol etmeyi ve kullanılmadığında uzun süreli güneş maruziyetinden kaçınmayı içerir.
     - title: Şişirilebilir SUP'ler tuzlu suda kullanılabilir mi?
-      description: Evet. Tüm afarer şişirilebilir SUP'ları hem tatlı hem de tuzlu su kullanımı için tasarlanmıştır. Tuzlu suya maruz kaldıktan sonra tatlı su ile durulamanızı ve tamamen kurutmanızı öneririz.
+      description: Evet. Tüm olagoon şişirilebilir SUP'ları hem tatlı hem de tuzlu su kullanımı için tasarlanmıştır. Tuzlu suya maruz kaldıktan sonra tatlı su ile durulamanızı ve tamamen kurutmanızı öneririz.
     - title: Bir şişirilebilir SUP nasıl saklanır?
       description: Depolamadan önce tahtayı tam olarak havalandırın, temizleyin ve kurulayın. gevşekçe sarın (sık kıvrımlardan kaçının), serin ve kuru bir yerde doğrudan güneş ışığından uzakta saklayın ve nem emilimini önlemek için beton zeminlerden uzak tutun.
-    - title: afarer şişirilebilir SUP'ların ağırlık kapasitesi nedir?
+    - title: olagoon şişirilebilir SUP'ların ağırlık kapasitesi nedir?
       description: Kapasiteler en küçük modellerimiz için 100 kg'dan daha büyük boardlar için 200 kg'ın üzerine kadar değişmektedir. Her ürün sayfası belirli modeliniz için maksimum yük değerini listeler.
 cta:
   title: Sertifikaları kendiniz görmek ister misiniz?

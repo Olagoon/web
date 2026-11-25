@@ -1,6 +1,6 @@
 meta:
-  title: 'afarer Hakkında — Şişme SUP & Su Sporları Markası | {SITE}'
-  description: 'afarer, Aquafarer LLC (ABD) tarafından yönetilen ve Qingdao operasyon ekibimiz tarafından geliştirilen küresel bir şişme SUP ve su sporları markasıdır. Hikayemizi, mühendisliğimizi, sertifikalı kalitemizi ve ülke ortaklık programlarımızı keşfedin.'
+  title: 'olagoon Hakkında — Şişme SUP & Su Sporları Markası | {SITE}'
+  description: 'olagoon, Olagoon LLC (ABD) tarafından yönetilen ve Qingdao operasyon ekibimiz tarafından geliştirilen küresel bir şişme SUP ve su sporları markasıdır. Hikayemizi, mühendisliğimizi, sertifikalı kalitemizi ve ülke ortaklık programlarımızı keşfedin.'
   keywords:
     - 'şişme sup markası'
     - 'su sporları markası'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: Hakkımızda
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer Atölyesi
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon Atölyesi
   title: |
     Deniz mühendisliğini <br />
-    <span class="text-accent dark:text-white">afarer</span> tarzıyla buluşturuyoruz
+    <span class="text-accent dark:text-white">olagoon</span> tarzıyla buluşturuyoruz
   subtitle: "Bir sahil atölyesinde, tek bir tahta ve sarsılmaz bir inançla başladık: deniz ürünleri, önemliymiş gibi mühendislikle geliştirilmelidir — çünkü öyledir. Bugün 40'tan fazla ülkeye teslimat yapıyoruz, ancak her gövde hâlâ şirketi kuran aynı ellerden geçiyor."
 stats:
   title: Rakamlarla
@@ -56,7 +56,7 @@ features3_more:
       description: Ticari, bilimsel ve askeri müşteriler için proje bazında tasarım.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Tahta tasarımı ve mühendislik tartışması
 steps2_values:
   title: Değerlerimiz
@@ -73,7 +73,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Kilometre Taşları
-  subtitle: afarer hikayesinin kısa versiyonu.
+  subtitle: olagoon hikayesinin kısa versiyonu.
   isReversed: true
   items:
     - title: Sahil atölyesinde kuruldu
@@ -108,7 +108,7 @@ brand_hub_cards:
     desc: Qingdao tesisimizden Avrupa, Asya-Pasifik ve Amerika genelinde yetkili servis ortaklarımızla 50'den fazla ülkeye teslimat yapıyoruz.
     link: /brand-global-presence/
     link_label: Daha Fazla Bilgi →
-  - title: Neden afarer
+  - title: Neden olagoon
     desc: 'Doğrulanmış kalite üzerine kurulu bir marka — çift sertifikasyon (ISO 9001 + BSCI), CE uyumluluğu ve su sporu işletmeleri için sınırlı co-branded koleksiyonlarla ülkeye özel münhasır ortaklıklar.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Daha Fazla Bilgi →

@@ -1,6 +1,6 @@
 // Audit all slug maps in nodes.ts: which nodes have locale slugs differing from node.id?
 const fs = require('fs');
-const src = fs.readFileSync('E:/github/afarer/src/content/graph/nodes.ts', 'utf8');
+const src = fs.readFileSync('E:/github/olagoon/src/content/graph/nodes.ts', 'utf8');
 
 // Split into node blocks: each top-level object starts with "  {" followed by "    id: '...'"
 const lines = src.split('\n');

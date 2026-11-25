@@ -8,8 +8,8 @@ hero:
   tagline: 'Lab 06'
   title: 'Laboratorij za kvalitetu i kontrolu'
   subtitle: 'Neovisna provjera — svaki ispit položen prije isporuke'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'Ispitivanje UV otpornosti u afarer laboratoriju za kontrolu kvalitete'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'Ispitivanje UV otpornosti u olagoon laboratoriju za kontrolu kvalitete'
 
 intro: 'Svaka daska koja napusti našu radionicu nosi potvrdu da je prošla definiran skup kontrola kvalitete i ispitivanja materijala. Naš laboratorij za kvalitetu i kontrolu neovisna je funkcija u organizaciji — izvještava izravno direktoru, a ne proizvodnji — čime se osigurava da nikakav komercijalni pritisak ne može ugroziti kontrolnu točku. Ako serija materijala ili gotova daska ne ispunjava objavljenu specifikaciju, laboratorij ima ovlasti zaustaviti otpremu sve dok se nesukladnost ne otkloni.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Naša obveza prema vama</h2>
-  <p>Kada primite Afarer dasku, primate i njezin dosje kvalitete — sastavljeni zapis rezultata ispitivanja koji se odnose na vašu konkretnu dasku. Certifikat serije tkanine, ispitivanja ljuštenja šavova, zapisi zračnih testova komora i kontrolna lista pregleda prije isporuke. Svaki je broj sljediv. Svaki je inspektor identificiran. To nije samo papirologija — to je naše obećanje da je ono što smo isporučili ono što smo specificirali.</p>
+  <p>Kada primite OLagoon dasku, primate i njezin dosje kvalitete — sastavljeni zapis rezultata ispitivanja koji se odnose na vašu konkretnu dasku. Certifikat serije tkanine, ispitivanja ljuštenja šavova, zapisi zračnih testova komora i kontrolna lista pregleda prije isporuke. Svaki je broj sljediv. Svaki je inspektor identificiran. To nije samo papirologija — to je naše obećanje da je ono što smo isporučili ono što smo specificirali.</p>
   <p>Ako ikada imate nedoumicu oko kvalitete, možete izravno kontaktirati laboratorij — kontakt podaci otisnuti su na vašoj potvrdi o sukladnosti. Svaki upit shvaćamo ozbiljno i obvezujemo se na formalnu istragu u roku od 48 sati.</p>
 
 cta:

@@ -1,6 +1,6 @@
 meta:
   title: 'Fabrika ve Üretim — Şişme SUP OEM | {SITE}'
-  description: "afarer'ın fabrikasını ziyaret edin: şişme SUP OEM/ODM üretimi için kesme, HF kaynak, baskı, montaj ve kalite laboratuvarı bulunan 12.000 m² tesis."
+  description: "olagoon'ın fabrikasını ziyaret edin: şişme SUP OEM/ODM üretimi için kesme, HF kaynak, baskı, montaj ve kalite laboratuvarı bulunan 12.000 m² tesis."
   keywords:
     - 'SUP fabrikası Çin'
     - 'şişme paddle board fabrikası'
@@ -12,7 +12,7 @@ hero:
   subtitle: 12.000 m² entegre üretim — hammaddeden bitmiş tahtaya
 intro:
   - >-
-    **Aquafarer LLC (ABD)**'nin üretim kolu olarak afarer'ın Qingdao Operasyon Ekibi, üretimin her aşamasını kontrol eder — ham PVC ve fiberglas malzemelerin gelişinden bitmiş tahtanın sevkiyat öncesi son denetimine kadar. Qingdao Ekonomik Kalkınma Bölgesi'ndeki üretim tesisimiz 12.000 metrekare alan kaplar ve
+    **Olagoon LLC (ABD)**'nin üretim kolu olarak olagoon'ın Qingdao Operasyon Ekibi, üretimin her aşamasını kontrol eder — ham PVC ve fiberglas malzemelerin gelişinden bitmiş tahtanın sevkiyat öncesi son denetimine kadar. Qingdao Ekonomik Kalkınma Bölgesi'ndeki üretim tesisimiz 12.000 metrekare alan kaplar ve
     PVC kesim, boru ısı mühürleme, FRP kalıp imalatı, SUP dijital baskı, son montaj ve kalite testi için özel atölyelere ev sahipliği yapar.
   - >-
     Tasarım, mühendislik, prototipleme, üretim ve testi tek çatı altında birleştirerek, sözleşmeli üretimin verimsizliklerini ortadan kaldırır ve yapı kalitesi, malzeme seçimi ve teslimat süreleri üzerinde doğrudan kontrol sahibi oluruz. Atölyemizden çıkan her tahta, bizim insanlarımız tarafından,
@@ -68,22 +68,22 @@ workshops_section:
   workshops:
     - title: PVC Kesim ve Malzeme Hazırlığı
       description: Otomatik CNC kesim makineleri, PVC ve drop-stitch kumaşları milimetre altı hassasiyetle işler. Bilgisayar destekli optimizasyon, malzeme israfını en aza indirir ve her panelin kaynak öncesinde boyutsal spesifikasyonunu karşılamasını sağlar.
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: Boru Kaynağı ve Isı Mühürleme
       description: Isı mühürleme makineleri ve RF dielektrik preslerle donatılmış özel kaynak atölyesi. Sıcak hava ısı mühürleyicileri PVC tüp odalarını birleştirir ve kaynaştırırken, RF kaynakları EN ISO 25649 gereksinimlerini aşan yüksek mukavemetli hava geçirmez dikişler üretir.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: FRP Kalıplar ve Kompozit İmalat
       description: SUP bileşenleri için özel FRP kalıplar, polyester ve vinilester reçine sistemleri ile el yatırmalı fiberglas kalıplama kullanılarak üretilir. Her katman, tutarlı kalite için elle yuvarlanır ve vakum torbalanır. Jelkot sprey kabini, yüksek parlaklıkta, UV'ye dayanıklı bir deniz kaplaması sağlar.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: SUP Baskı ve Dekorasyon
       description: SUP boardları, tam renkli grafikler için dijital baskı ve logolar ve tekrar eden desenler için serigrafi kullanılarak dekore edilir. Dijital yazıcılar fotoğraf kalitesinde güverte tasarımları üretirken, serigrafi dayanıklı, canlı marka işaretleri sunar.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: Son Montaj ve Donanım
       description: Drop-stitch çekirdeklerinin raylarla tamamlandığı, EVA destelerin uygulandığı ve finlerin, vanaların ve aksesuarların takıldığı montaj hattı. Her tahta, ekip lideri tarafından imzalanan 100 puanlık bir montaj kontrol listesini takip eder.
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: Kalite Testi ve Denetim
       description: Tamamlanan her tahta, sevkiyattan önce zorunlu hava tutma testi, dikiş soyulma doğrulaması ve tam sistem kontrolünden geçer. Kalite laboratuvarımız üretimden bağımsız olarak çalışır ve doğrudan yönetime rapor verir.
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 equipment_section:
   tagline: Ekipman
   title: Ana Üretim Ekipmanları
@@ -136,7 +136,7 @@ faq_section:
   questions:
     - q: OEM şişme SUP boardları için minimum sipariş miktarı (MOQ) nedir?
       a: Standart OEM modelleri için MOQ 5–10 adetten başlar. Özel kalıplar ve özel etiket projeleri, karmaşıklığa bağlı olarak minimum 200 adet gerektirir. Yeni marka lansmanları için deneme siparişleri ve numune çalışmaları mevcuttur.
-    - q: afarer BSCI sertifikasına sahip mi?
+    - q: olagoon BSCI sertifikasına sahip mi?
       a: Evet. Fabrikamız geçerli BSCI sosyal uyumluluk sertifikasına sahiptir (denetim raporu talep üzerine mevcuttur). Ayrıca kalite yönetimi için ISO 9001 ve tüm ürünler CE sertifikasına sahiptir. Her OEM sevkiyatıyla birlikte REACH ve RoHS uyumluluk belgeleri sağlanır.
     - q: Bir OEM siparişi için tipik teslim süresi nedir?
       a: Standart teslim süresi, toplu OEM üretimi için onaylı sipariş ve depozitodan itibaren 30–45 gündür. Özel kalıp geliştirme, kalıp yapımı için 15–20 gün ekler. Acil siparişler ve sezon yoğunlukları için hızlandırılmış üretim mevcuttur. Prototip numuneler genellikle 15–20 gün içinde sevk edilir.

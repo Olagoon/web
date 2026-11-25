@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const WORK = 'C:/Users/Helleo/AppData/Local/Temp/deveco/fr_sol_work';
-const TS = 'E:/github/afarer/src/data/biz-solutions/translations/fr.ts';
+const TS = 'E:/github/olagoon/src/data/biz-solutions/translations/fr.ts';
 
 // 0. preserve the SolutionOverride type definition block verbatim
 //    (fr.ts is the single source of the type; 16 other translation files import it from './fr')
@@ -46,7 +46,7 @@ if (missing.length || extra.length) {
 }
 
 // 3. merge: meta from existing fr.ts + body fields from part, fixed key order
-const ORDER = ['clientType', 'meta', 'hero', 'challenge', 'solutions', 'caseStudy', 'whyAfarer', 'faqs', 'cta'];
+const ORDER = ['clientType', 'meta', 'hero', 'challenge', 'solutions', 'caseStudy', 'whyOLagoon', 'faqs', 'cta'];
 const merged = {};
 for (const slug of existingSlugs.slice().sort()) {
   const body = bodies[slug];

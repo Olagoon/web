@@ -8,7 +8,7 @@ meta:
     - 'private label oppustelig SUP'
     - 'paddle board produktion'
 hero:
-  tagline: afarer Custom Lab
+  tagline: olagoon Custom Lab
   title: Design dit eget<br />SUP-board
   subtitle: Co-brand, private label og skræddersyet paddle board-produktion for virksomheder verden over. Fra en enkelt prototype til fulde produktionsserier.
   cta: Start dit projekt
@@ -65,7 +65,7 @@ capabilities_section:
     - label: Certificering
       value: CE, UKCA, FCC (støtte til global overholdelse)
 why_section:
-  tagline: Hvorfor afarer
+  tagline: Hvorfor olagoon
   title: Én fabrik. Én standard. Nul kompromiser.
   points:
     - text: 12.000 kvm integreret produktionsfacilitet

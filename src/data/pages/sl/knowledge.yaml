@@ -1,6 +1,6 @@
 meta:
   title: 'Znanje — vodniki SUP | {SITE}'
-  description: 'Baza znanja afarer: vodniki o napihljivih deskah SUP, materialih veslaških desk, izbiri desk in vpogledi v panogo za znamke in strokovnjake.'
+  description: 'Baza znanja olagoon: vodniki o napihljivih deskah SUP, materialih veslaških desk, izbiri desk in vpogledi v panogo za znamke in strokovnjake.'
   keywords:
     - 'znanje sup'
     - 'vodnik za napihljive sup'
@@ -17,7 +17,7 @@ hero:
 clusters:
   tagline: 'Grozdi znanja'
   title: 'Raziskujte po temah'
-  subtitle: 'Poglobljeni vpogledi v tehnologijo, varnost in spretnosti za vsakim izdelkom afarer.'
+  subtitle: 'Poglobljeni vpogledi v tehnologijo, varnost in spretnosti za vsakim izdelkom olagoon.'
   items:
     - title: 'Nakupovalni vodniki SUP'
       description: 'Od izbire prve deske do naprednih tehnik turističnega veslanja — vse o stoječem veslanju na deski.'

@@ -7,12 +7,12 @@ hero:
   title: 'Ilunsad, Patakbuhin at Palakihin Ang Iyong Paddle Club<br />Sa Mga SUP Fleet na Antas-Komersyal'
   subtitle: 'Tagapagtustos ng kagamitang SUP club para sa mga paddle club at SUP school sa buong mundo — matitibay na komersyal na board, presyong bulk club, custom branding, at mabilis na piyesang pamalit, upang makatuon ka sa paglaki ng iyong komunidad.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: 'Mga miyembro ng paddle club sa magkakatugmang Afarer SUP board'
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: 'Mga miyembro ng paddle club sa magkakatugmang OLagoon SUP board'
 
 benefits:
   title: 'Mga Benepisyo ng Club Fleet'
-  subtitle: 'Bakit pinipili ng mga paddle club sa 50+ bansa ang Afarer bilang kanilang partner sa kagamitan.'
+  subtitle: 'Bakit pinipili ng mga paddle club sa 50+ bansa ang OLagoon bilang kanilang partner sa kagamitan.'
   items:
     - metric: '40%+'
       label: 'Tipid sa Gastos ng Fleet'
@@ -86,7 +86,7 @@ training:
         - 'Kagamitang CE certified'
 
 features:
-  title: 'Bakit Pinipili ng mga Club ang Afarer'
+  title: 'Bakit Pinipili ng mga Club ang OLagoon'
   subtitle: 'Tuloy-tuloy na kalidad, mabilis na piyesa, at presyong bulk na para sa mga lumalaking club.'
   items:
     - title: '500+ Siklo ng Rental'

@@ -12,9 +12,9 @@ const tr: Record<string, SolutionOverride> = {
       tagline: 'Ticari SUP Filosu™',
       title: 'Kürek Kulüpleri, Kiralama Operatörleri ve Su Sporları Okulları için Profesyonel SUP Ekipman Çözümleri',
       subtitle:
-        'Afarer, profesyonel operatörler için özel olarak tasarlanmış Ticari SUP Filo Çözümleri sunar. SUP okullarının, kürek kulüplerinin, kiralama şirketlerinin, tatil köylerinin, macera operatörlerinin ve etkinlik düzenleyicilerin ticari sınıf konstrüksiyon ve uzun vadeli destekle güvenilir ekipman filoları kurmasına yardımcı oluruz.',
+        'OLagoon, profesyonel operatörler için özel olarak tasarlanmış Ticari SUP Filo Çözümleri sunar. SUP okullarının, kürek kulüplerinin, kiralama şirketlerinin, tatil köylerinin, macera operatörlerinin ve etkinlik düzenleyicilerin ticari sınıf konstrüksiyon ve uzun vadeli destekle güvenilir ekipman filoları kurmasına yardımcı oluruz.',
       image: {
-        alt: 'Kürek kulüpleri ve su sporları okulları için Afarer ticari SUP filosu',
+        alt: 'Kürek kulüpleri ve su sporları okulları için OLagoon ticari SUP filosu',
       },
     },
     challenge: {
@@ -48,7 +48,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ticari Sınıf Şişirilebilir SUP Konstrüksiyonu',
           description:
-            'Afarer ticari SUP ürünleri, daha yüksek aşınma direncine sahip takviyeli PVC malzeme sistemleri, darbe direnci için çok katmanlı borda takviyesi, rijitlik için yüksek yoğunluklu drop stitch yapısı ve sık şişirme döngüleri için tasarlanmış ağır hizmet valf sistemleri içerir.',
+            'OLagoon ticari SUP ürünleri, daha yüksek aşınma direncine sahip takviyeli PVC malzeme sistemleri, darbe direnci için çok katmanlı borda takviyesi, rijitlik için yüksek yoğunluklu drop stitch yapısı ve sık şişirme döngüleri için tasarlanmış ağır hizmet valf sistemleri içerir.',
           features: [
             'Takviyeli PVC malzeme sistemi',
             'Çok katmanlı borda takviyesi',
@@ -59,7 +59,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Filoya Optimize SUP Ürün Tasarımı',
           description:
-            'Afarer, operasyonel ihtiyaca dayalı olarak yeni başlayanlar için adanmış eğitim filoları, sık kullanıcılar için kiralama filoları ve grup aktiviteleri için etkinlik filolarıyla SUP ekipmanı geliştirir. Her konfigürasyon stabilite, dayanıklılık ve bakım kolaylığına odaklanır.',
+            'OLagoon, operasyonel ihtiyaca dayalı olarak yeni başlayanlar için adanmış eğitim filoları, sık kullanıcılar için kiralama filoları ve grup aktiviteleri için etkinlik filolarıyla SUP ekipmanı geliştirir. Her konfigürasyon stabilite, dayanıklılık ve bakım kolaylığına odaklanır.',
           features: [
             'Dersler için SUP eğitim filosu',
             'Sık kullanıcılar için kiralama filosu',
@@ -70,12 +70,12 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Eksiksiz Ticari Paket Konfigürasyonu',
           description:
-            "Afarer; şişirilebilir SUP tahtaları, profesyonel kürekler, yüksek basınçlı pompalar, dayanıklı leash'ler, ağır hizmet sırt çantaları ve tamir kitleri dahil eksiksiz filo paketleri oluşturmaya, ayrıca yedek valfler, ek finler ve değişim kulpları gibi ek seçenekler sunmaya yardımcı olur.",
+            "OLagoon; şişirilebilir SUP tahtaları, profesyonel kürekler, yüksek basınçlı pompalar, dayanıklı leash'ler, ağır hizmet sırt çantaları ve tamir kitleri dahil eksiksiz filo paketleri oluşturmaya, ayrıca yedek valfler, ek finler ve değişim kulpları gibi ek seçenekler sunmaya yardımcı olur.",
         },
         {
           title: 'Su İşletmeleri için Filo Özelleştirmesi',
           description:
-            'Ticari operatörlerin güçlü görsel kimliğe ihtiyacı vardır. Afarer; logo özelleştirmesini, kulüp markası veya tatil köyü ortamıyla eşleşen renk özelleştirmesini ve büyük filoları verimli yönetmek için numara baskılı ve model tanımlı filo tanımlama sistemlerini destekler.',
+            'Ticari operatörlerin güçlü görsel kimliğe ihtiyacı vardır. OLagoon; logo özelleştirmesini, kulüp markası veya tatil köyü ortamıyla eşleşen renk özelleştirmesini ve büyük filoları verimli yönetmek için numara baskılı ve model tanımlı filo tanımlama sistemlerini destekler.',
           features: [
             'Logo özelleştirmesi',
             'Renk özelleştirmesi',
@@ -86,27 +86,27 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Uzun Vadeli İşletme Maliyetlerini Azaltın',
           description:
-            'En ucuz tahta her zaman en kârlı değildir. Afarer çözümleri, daha güçlü malzemelerle ekipman ömrünü, standartlaştırılmış bileşenlerle bakım verimliliğini ve daha az arıza süresiyle daha yüksek kullanımla işletme kârlılığını iyileştirir.',
+            'En ucuz tahta her zaman en kârlı değildir. OLagoon çözümleri, daha güçlü malzemelerle ekipman ömrünü, standartlaştırılmış bileşenlerle bakım verimliliğini ve daha az arıza süresiyle daha yüksek kullanımla işletme kârlılığını iyileştirir.',
         },
         {
           title: 'SUP Kiralama İşletmeleri için Destek',
           description:
-            'Kiralama operatörleri, müşteri için kolay, personel için kolay ve bakımı kolay ekipmana ihtiyaç duyar. Afarer; yüksek stabiliteye sahip yeni başlayan dostu tasarımlar, daha hızlı müşteri devri için hızlı kullanım ve güçlü kürekler ile güvenilir pompalar dahil dayanıklı aksesuarlar sağlar.',
+            'Kiralama operatörleri, müşteri için kolay, personel için kolay ve bakımı kolay ekipmana ihtiyaç duyar. OLagoon; yüksek stabiliteye sahip yeni başlayan dostu tasarımlar, daha hızlı müşteri devri için hızlı kullanım ve güçlü kürekler ile güvenilir pompalar dahil dayanıklı aksesuarlar sağlar.',
         },
         {
           title: 'SUP Okulu Ekipman Çözümleri',
           description:
-            'SUP eğitmenlerinin öğrenmeyi destekleyen ekipmana ihtiyacı vardır. Afarer ürünleri, öğretme deneyimini geliştiren özelliklerle yeni başlayan kursları, gençlik programları, grup eğitimi ve eğitmen gösterimleri için optimize edilebilir.',
+            'SUP eğitmenlerinin öğrenmeyi destekleyen ekipmana ihtiyacı vardır. OLagoon ürünleri, öğretme deneyimini geliştiren özelliklerle yeni başlayan kursları, gençlik programları, grup eğitimi ve eğitmen gösterimleri için optimize edilebilir.',
         },
         {
           title: 'Etkinlik ve Tatil Köyü Su Aktivitesi Çözümleri',
           description:
-            'Oteller, tatil köyleri ve etkinlik şirketleri giderek artan şekilde plaj aktiviteleri, ekip bağı ve outdoor deneyimleri sunuyor. Afarer, bu misafirperverlik uygulamaları için filo planlaması, ürün özelleştirmesi ve parti üretimini destekler.',
+            'Oteller, tatil köyleri ve etkinlik şirketleri giderek artan şekilde plaj aktiviteleri, ekip bağı ve outdoor deneyimleri sunuyor. OLagoon, bu misafirperverlik uygulamaları için filo planlaması, ürün özelleştirmesi ve parti üretimini destekler.',
         },
         {
           title: 'Bakım ve Satış Sonrası Destek',
           description:
-            'Profesyonel operatörlerin teslimattan sonra desteğe ihtiyacı vardır. Afarer; tamir malzemeleri ve değişim aksesuarlarıyla yedek parça planlaması, depolama ve temizlik için bakım rehberliği ile yeni tahta ve modeller eklemek için filo genişletme desteği sağlar.',
+            'Profesyonel operatörlerin teslimattan sonra desteğe ihtiyacı vardır. OLagoon; tamir malzemeleri ve değişim aksesuarlarıyla yedek parça planlaması, depolama ve temizlik için bakım rehberliği ile yeni tahta ve modeller eklemek için filo genişletme desteği sağlar.',
           features: ['Yedek parça planlaması', 'Bakım rehberliği', 'Tamir talimatları', 'Filo genişletme desteği'],
         },
       ],
@@ -123,7 +123,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ticari Filo Planlaması',
           detail:
-            'Afarer, günlük kullanım örüntülerini, müşteri beceri düzeylerini ve su ortamı koşullarını analiz etti ve ardından kulübün operasyonel ihtiyaçlarına uyarlanmış bir ticari şişirilebilir SUP filo konfigürasyonu önerdi.',
+            'OLagoon, günlük kullanım örüntülerini, müşteri beceri düzeylerini ve su ortamı koşullarını analiz etti ve ardından kulübün operasyonel ihtiyaçlarına uyarlanmış bir ticari şişirilebilir SUP filo konfigürasyonu önerdi.',
         },
         {
           title: 'Ürün Geliştirme',
@@ -154,35 +154,35 @@ const tr: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubai, Birleşik Arap Emirlikleri',
             background:
-              "Ahmed Al-Rashid (41), 2020'de Dubai Marina yakınındaki bir nakliye konteynerinden kiralanan 8 giriş seviyesi SUP ile “Dubai Paddle Club”ı kurdu. 2023'e gelindiğinde operasyonu iki lokasyonda 45 tahtaya organik olarak büyümüştü ancak delaminasyon, UV hasarı ve tuzlu su korozyonundan yıllık %60 stok kaybı yaşıyordu. Ortalama tahta ömrü yalnızca 7 aydı. Ahmed'in 12 personeli, müşterilere hizmet vermek yerine haftada 22 saatini onarımlara harcıyordu. Bir rakibin, iSUP'larının Orta Doğu koşullarında 3+ yıl dayandığını önermesinin ardından Afarer'e başvurdu.",
+              "Ahmed Al-Rashid (41), 2020'de Dubai Marina yakınındaki bir nakliye konteynerinden kiralanan 8 giriş seviyesi SUP ile “Dubai Paddle Club”ı kurdu. 2023'e gelindiğinde operasyonu iki lokasyonda 45 tahtaya organik olarak büyümüştü ancak delaminasyon, UV hasarı ve tuzlu su korozyonundan yıllık %60 stok kaybı yaşıyordu. Ortalama tahta ömrü yalnızca 7 aydı. Ahmed'in 12 personeli, müşterilere hizmet vermek yerine haftada 22 saatini onarımlara harcıyordu. Bir rakibin, iSUP'larının Orta Doğu koşullarında 3+ yıl dayandığını önermesinin ardından OLagoon'e başvurdu.",
             goal: '3 lokasyona (Dubai Marina, Abu Dhabi Corniche ve Fujairah Plajı) hizmet veren, 200 tahtalık tek bir dayanıklı filoda standartlaşmak; yıllık değişim oranı ≤%15 ve tahta başına aylık kullanımda %40 daha yüksek.',
           },
           steps: [
             {
               title: 'BAE Yaz Koşullarında 14 Tahtanın Stres Testi',
               detail:
-                "Mayıs 2024'te Afarer, 6 haftalık bir saha testi için bölgesel satış direktörü Karim Nasr ve ürün mühendisi Sophie Chen'i Dubai'ye gönderdi. Zirve yaz döneminde (ortam 48°C, su 35°C, UV indeksi 11) 3 lokasyonun tamamında 14 rakip iSUP ve 6 Afarer prototipini konuşlandırdılar. Ahmed'in personeli, şişirme tutması, valf arızası, aşınma ve müşteri memnuniyeti verileriyle 1.100+ kiralama saati kaydetti. Afarer'in XHD 15,0 mm tahtaları 8 saatte yalnızca 0,3 PSI kaybetti; rakiplerin ortalaması 2,1 PSI'ydı. Afarer tahtalarında sıfır valf arızası görüldü — rakipler 120 kiralama saatte ortalama 1 arıza verdi.",
+                "Mayıs 2024'te OLagoon, 6 haftalık bir saha testi için bölgesel satış direktörü Karim Nasr ve ürün mühendisi Sophie Chen'i Dubai'ye gönderdi. Zirve yaz döneminde (ortam 48°C, su 35°C, UV indeksi 11) 3 lokasyonun tamamında 14 rakip iSUP ve 6 OLagoon prototipini konuşlandırdılar. Ahmed'in personeli, şişirme tutması, valf arızası, aşınma ve müşteri memnuniyeti verileriyle 1.100+ kiralama saati kaydetti. OLagoon'in XHD 15,0 mm tahtaları 8 saatte yalnızca 0,3 PSI kaybetti; rakiplerin ortalaması 2,1 PSI'ydı. OLagoon tahtalarında sıfır valf arızası görüldü — rakipler 120 kiralama saatte ortalama 1 arıza verdi.",
             },
             {
               title: 'RFID İzleme ve Renk Kodlamalı Özel Filo Konfigürasyonu',
               detail:
-                "Saha verilerine dayanarak Afarer, 3 tahtalık bir filo karışımı önerdi: 120 “Marina Pro 11.6” (all-round), 50 “Expedition 12.6” (Fujairah kıyı şeridi için touring) ve 30 “Yoga XL 10.8” (kadın öncülüğündeki gün doğumu dersleri için). Afarer, Ahmed'in el tipi okuyucular kullanan özel envanter sistemi için her tahtanın fin kutusuna RFID etiketleri gömdü. Tahtalar lokasyona göre renk kodlandı: Dubai Marina turkuaz, Abu Dhabi kum rengi, Fujairah okyanus mavisi. Ahmed, kalan genel filosuna kıyasla Afarer tahtaları için saatte 5 $ prim ekledi — ve müşterilerin %92'sinin Afarer'i seçtiğini gördü.",
+                "Saha verilerine dayanarak OLagoon, 3 tahtalık bir filo karışımı önerdi: 120 “Marina Pro 11.6” (all-round), 50 “Expedition 12.6” (Fujairah kıyı şeridi için touring) ve 30 “Yoga XL 10.8” (kadın öncülüğündeki gün doğumu dersleri için). OLagoon, Ahmed'in el tipi okuyucular kullanan özel envanter sistemi için her tahtanın fin kutusuna RFID etiketleri gömdü. Tahtalar lokasyona göre renk kodlandı: Dubai Marina turkuaz, Abu Dhabi kum rengi, Fujairah okyanus mavisi. Ahmed, kalan genel filosuna kıyasla OLagoon tahtaları için saatte 5 $ prim ekledi — ve müşterilerin %92'sinin OLagoon'i seçtiğini gördü.",
             },
             {
               title: 'Personel Eğitimi ve Standartlaştırılmış Bakım Protokolü',
               detail:
-                "Temmuz 2024'te Afarer, Dubai Marina'da Ahmed'in 15 personeli için 3 günlük yoğun bir eğitim düzenledi. Eğitim şunları kapsadı: valf diş aşınmasını önlemek için doğru şişirme/söndürme tekniği, tatlı su durulama protokolleri (tahta başına 90 saniyede zamanlandı), her 30 kiralama saatinde UV koruyucu uygulaması ve kıvrılmayı önlemek için depolama istifleme prosedürleri. Afarer, kalibre edilmiş basınç göstergeleri, silikon yağlayıcı ve UV test şeritleri içeren özel bir bakım kiti sağladı. Ahmed, fotoğraflı günlük dijital bir kontrol listesi uyguladı; uyum izlendi ve ilk 6 ayda ortalama %94 oldu.",
+                "Temmuz 2024'te OLagoon, Dubai Marina'da Ahmed'in 15 personeli için 3 günlük yoğun bir eğitim düzenledi. Eğitim şunları kapsadı: valf diş aşınmasını önlemek için doğru şişirme/söndürme tekniği, tatlı su durulama protokolleri (tahta başına 90 saniyede zamanlandı), her 30 kiralama saatinde UV koruyucu uygulaması ve kıvrılmayı önlemek için depolama istifleme prosedürleri. OLagoon, kalibre edilmiş basınç göstergeleri, silikon yağlayıcı ve UV test şeritleri içeren özel bir bakım kiti sağladı. Ahmed, fotoğraflı günlük dijital bir kontrol listesi uyguladı; uyum izlendi ve ilk 6 ayda ortalama %94 oldu.",
             },
             {
               title: 'Ağustos 2024 Lansmanı ve İlk Sezon Sonuçları',
               detail:
-                "200 tahtalık filo, Ahmed'in ekibinin eğitimi tamamlanmış haldeyken 1 Ağustos 2024'te Dubai'nin Jebel Ali Limanı'ndan geldi. İlk ay geliri 487.000 AED'ye (132.600 $) ulaştı; geçen yılın aynı ayına göre %210 artış. Fujairah lokasyonu, kişi başı 220 AED ile şnorkelli SUP turları ekledi ve günde ortalama 40 sürücü çekti. Aralık 2024'e kadar toplam filo kullanımı tüm lokasyonlarda %73'tü — sektör ortalaması %45. Yalnızca 3 tahta hasar gördü (tümü müşteri yanlış kullanımı); her biri Afarer'in ticari garantisi kapsamında 5 iş günü içinde onarıldı.",
+                "200 tahtalık filo, Ahmed'in ekibinin eğitimi tamamlanmış haldeyken 1 Ağustos 2024'te Dubai'nin Jebel Ali Limanı'ndan geldi. İlk ay geliri 487.000 AED'ye (132.600 $) ulaştı; geçen yılın aynı ayına göre %210 artış. Fujairah lokasyonu, kişi başı 220 AED ile şnorkelli SUP turları ekledi ve günde ortalama 40 sürücü çekti. Aralık 2024'e kadar toplam filo kullanımı tüm lokasyonlarda %73'tü — sektör ortalaması %45. Yalnızca 3 tahta hasar gördü (tümü müşteri yanlış kullanımı); her biri OLagoon'in ticari garantisi kapsamında 5 iş günü içinde onarıldı.",
             },
           ],
           results: [
             "Aylık filo geliri 157.000 AED'den 487.000 AED'ye (132.600 $) büyüdü — 6 ayda %210 artış",
             "Yıllık tahta değişim oranı %60'tan %4,5'e düştü ve yılda yaklaşık 312.000 AED tasarruf sağlandı",
-            "Müşteri memnuniyeti puanları 3,8/5'ten (genel filo) 4,7/5'e (Afarer filosu) yükseldi; Google Yorumlar 187'den 1.420'ye çıktı",
+            "Müşteri memnuniyeti puanları 3,8/5'ten (genel filo) 4,7/5'e (OLagoon filosu) yükseldi; Google Yorumlar 187'den 1.420'ye çıktı",
             "Ahmed Şubat 2025'te 4. lokasyona (Ras Al Khaimah) genişledi ve 80 ek tahta sipariş etti",
           ],
         },
@@ -198,26 +198,26 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Ada Ada Değerlendirme ve Ürün Özelleştirmesi',
               detail:
-                "Afarer'in EMEA hesap direktörü Stefan Berger, Nisan 2024'te Dimitri ile birlikte 5 adanın tamamını ziyaret etti. Her lokasyonun farklı koşulları vardı: Santorini'nin volkanik kumu (aşındırıcı, pH 8,2), Mykonos'un rüzgâra maruz plajları (istikrarlı 20–25 knot Meltemi rüzgârları), takviyeli pruva gerektiren Naxos'un sığ kayalık giriş noktaları, Paros'un uzun mesafeli kıyı rotaları (8–12 km) ve Girit'in aile dostu sakin koyları. Afarer 3 uyarlanmış model geliştirdi: kumtaşı üzerinde 2.000 sürükleme testiyle %50 daha kalın pruva korumalı “Med RockShield 11.0”, rüzgâr stabilitesi için alçak profilli güverteli “Meltemi Pro 10.6” ve ebeveyn-çocuk kullanımı için 275 kg kapasiteli “Family Cruiser 11.6”.",
+                "OLagoon'in EMEA hesap direktörü Stefan Berger, Nisan 2024'te Dimitri ile birlikte 5 adanın tamamını ziyaret etti. Her lokasyonun farklı koşulları vardı: Santorini'nin volkanik kumu (aşındırıcı, pH 8,2), Mykonos'un rüzgâra maruz plajları (istikrarlı 20–25 knot Meltemi rüzgârları), takviyeli pruva gerektiren Naxos'un sığ kayalık giriş noktaları, Paros'un uzun mesafeli kıyı rotaları (8–12 km) ve Girit'in aile dostu sakin koyları. OLagoon 3 uyarlanmış model geliştirdi: kumtaşı üzerinde 2.000 sürükleme testiyle %50 daha kalın pruva korumalı “Med RockShield 11.0”, rüzgâr stabilitesi için alçak profilli güverteli “Meltemi Pro 10.6” ve ebeveyn-çocuk kullanımı için 275 kg kapasiteli “Family Cruiser 11.6”.",
             },
             {
               title: 'Ticari Sınıf Konstrüksiyon ve Modüler Aksesuar Rayı',
               detail:
-                "Afarer'in Xiamen fabrikası, 1.200 denier PVC'li (standart 1.000D'ye karşı), 14 PSI patlama basıncında test edilmiş çift kaynaklı dikişli (sektör standardı 10 PSI) ve plastik kaynaklı yerine paslanmaz çelik D-halkalı tahtalar üretti. Her tahta, Afarer'in yeni “QuickRail” sistemini içeriyordu — bordaya yapıştırılmış ekstrüde alüminyum profil — bu, Dimitri'nin GoPro montajları, su şişesi tutucuları ve kamış tutucular takmasını sağlıyordu. Bu, aksesuar kiralama gelirini tahta başına günde 12 € artırdı. Afarer görünürlük için yansıtıcı logolar ekledi: Mykonos liman devriyesinin gün batımından sonra su taşıtlarını düzenlediği durumlarda kritik.",
+                "OLagoon'in Xiamen fabrikası, 1.200 denier PVC'li (standart 1.000D'ye karşı), 14 PSI patlama basıncında test edilmiş çift kaynaklı dikişli (sektör standardı 10 PSI) ve plastik kaynaklı yerine paslanmaz çelik D-halkalı tahtalar üretti. Her tahta, OLagoon'in yeni “QuickRail” sistemini içeriyordu — bordaya yapıştırılmış ekstrüde alüminyum profil — bu, Dimitri'nin GoPro montajları, su şişesi tutucuları ve kamış tutucular takmasını sağlıyordu. Bu, aksesuar kiralama gelirini tahta başına günde 12 € artırdı. OLagoon görünürlük için yansıtıcı logolar ekledi: Mykonos liman devriyesinin gün batımından sonra su taşıtlarını düzenlediği durumlarda kritik.",
             },
             {
               title: 'Sezon Öncesi Personel Sertifikasyonu ve Filo Yönetim Sistemi',
               detail:
-                "Mayıs 2024'te Afarer, Santorini'de 2 günlük bir atölyede tüm adalardaki Dimitri'nin 22 personelini eğitti. Eğitim şunları içeriyordu: aşınmayı en aza indirmek için kayalık çıkış tekniği, su sıcaklığına göre 14–16 PSI ayarıyla doğru şişirme (18–26°C mevsimsel değişim), PVC yamalarla acil saha onarımı (eğitmen her öğrenciyi 6 dakikanın altında bir onarımı tamamlamak için test etti) ve ağırlığa uygun tahta seçimini güvence altına alan müşteri donatım protokolleri. Afarer, her tahtanın kiralama saatlerini, bakım geçmişini ve GPS tabanlı konumunu gösteren dijital bir filo panosu sağladı. Sezon sonuna kadar saha onarımlarının %97'si Afarer'i aramadan personel tarafından yapıldı.",
+                "Mayıs 2024'te OLagoon, Santorini'de 2 günlük bir atölyede tüm adalardaki Dimitri'nin 22 personelini eğitti. Eğitim şunları içeriyordu: aşınmayı en aza indirmek için kayalık çıkış tekniği, su sıcaklığına göre 14–16 PSI ayarıyla doğru şişirme (18–26°C mevsimsel değişim), PVC yamalarla acil saha onarımı (eğitmen her öğrenciyi 6 dakikanın altında bir onarımı tamamlamak için test etti) ve ağırlığa uygun tahta seçimini güvence altına alan müşteri donatım protokolleri. OLagoon, her tahtanın kiralama saatlerini, bakım geçmişini ve GPS tabanlı konumunu gösteren dijital bir filo panosu sağladı. Sezon sonuna kadar saha onarımlarının %97'si OLagoon'i aramadan personel tarafından yapıldı.",
             },
             {
               title: 'Haziran–Ekim 2024 Sezonu — Lansman, Geziler ve Yatırım Getirisi',
               detail:
-                "Dimitri yeni filoyu 1 Haziran 2024'te tüm adalarda eşzamanlı olarak lansman etti. Rehberli SUP gezi ürünü (şnorkel molasıyla 3 saatlik kıyı keşfi için kişi başı 55 €), 15 Haziran'da Santorini'nin Kızıl Plajı'ndan ve Naxos'un Agios Prokopios'undan günde 4 seferle başlatıldı. Ağustos'a gelindiğinde gezi rezervasyonları tüm adalarda haftada 2.100'e ulaştı. Toplam sezon geliri (Haziran–Ekim) 2,85 milyon € oldu; 2023'teki 1,2 milyon €'dan %137 artış. Tahta onarım maliyetleri 22.000 €'dan 2.800 €'ya düştü. Yalnızca 4 tahta hurdaya çıkarıldı (tümü onarımın ötesinde müşteri kaynaklı). Sezon sonunda Dimitri, 2025 sezonu için 100 ek tahta sipariş etti ve Afarer'den pedal tahrikli bir SUP dönüşüm kiti geliştirmesini istedi.",
+                "Dimitri yeni filoyu 1 Haziran 2024'te tüm adalarda eşzamanlı olarak lansman etti. Rehberli SUP gezi ürünü (şnorkel molasıyla 3 saatlik kıyı keşfi için kişi başı 55 €), 15 Haziran'da Santorini'nin Kızıl Plajı'ndan ve Naxos'un Agios Prokopios'undan günde 4 seferle başlatıldı. Ağustos'a gelindiğinde gezi rezervasyonları tüm adalarda haftada 2.100'e ulaştı. Toplam sezon geliri (Haziran–Ekim) 2,85 milyon € oldu; 2023'teki 1,2 milyon €'dan %137 artış. Tahta onarım maliyetleri 22.000 €'dan 2.800 €'ya düştü. Yalnızca 4 tahta hurdaya çıkarıldı (tümü onarımın ötesinde müşteri kaynaklı). Sezon sonunda Dimitri, 2025 sezonu için 100 ek tahta sipariş etti ve OLagoon'den pedal tahrikli bir SUP dönüşüm kiti geliştirmesini istedi.",
             },
           ],
           results: [
-            "Sezon geliri, Afarer dağıtımının ilk yılında 1,2 milyon €'dan 2,85 milyon €'ya %137 büyüdü",
+            "Sezon geliri, OLagoon dağıtımının ilk yılında 1,2 milyon €'dan 2,85 milyon €'ya %137 büyüdü",
             "Tahta onarım maliyetleri 22.000 €'dan 2.800 €'ya düştü — 19.200 € tasarruf sağlayan %87 azalma",
             "200 tahtadan yalnızca 4'ü hurdaya çıkarıldı (önceki filoda %35'e karşı yıllık %2 kayıp); öngörülen 4–5 sezonluk ömür",
             'Rehberli gezi ürünü ilk sezonda %87 kâr marjıyla 843.000 € oluşturdu; TripAdvisor puanı 4,9/5',
@@ -225,8 +225,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Kürek Kulüpleri Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Kürek Kulüpleri Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'İşletme Operasyonları',
@@ -236,7 +236,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ticari Dayanıklılık',
           description:
-            'Afarer ürünleri, takviyeli konstrüksiyon, daha güçlü malzemeler ve sıkı testlerle günlük profesyonel kullanım için tasarlanır.',
+            'OLagoon ürünleri, takviyeli konstrüksiyon, daha güçlü malzemeler ve sıkı testlerle günlük profesyonel kullanım için tasarlanır.',
         },
         {
           title: 'Filo Yönetimi',
@@ -246,15 +246,15 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Uzun Vadeli Ortaklık',
           description:
-            'Afarer, ilk satın alımın ötesinde yedek parçalar, bakım rehberliği ve genişleme planlamasıyla işletmenizin büyümesini destekler.',
+            'OLagoon, ilk satın alımın ötesinde yedek parçalar, bakım rehberliği ve genişleme planlamasıyla işletmenizin büyümesini destekler.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Afarer SUP tahtaları ticari kürek kulüpleri için neden uygundur?',
+        question: 'OLagoon SUP tahtaları ticari kürek kulüpleri için neden uygundur?',
         answer:
-          'Afarer ticari SUP tahtaları; kiralama ve eğitim ortamlarında günlük yüksek frekanslı kullanım için özel olarak tasarlanmış takviyeli PVC konstrüksiyon, çok katmanlı borda takviyesi, yüksek yoğunluklu drop stitch yapısı ve ağır hizmet valf sistemleri içerir.',
+          'OLagoon ticari SUP tahtaları; kiralama ve eğitim ortamlarında günlük yüksek frekanslı kullanım için özel olarak tasarlanmış takviyeli PVC konstrüksiyon, çok katmanlı borda takviyesi, yüksek yoğunluklu drop stitch yapısı ve ağır hizmet valf sistemleri içerir.',
       },
       {
         question: 'Tüketici sınıfı ve ticari sınıf SUP ekipmanı arasındaki fark nedir?',
@@ -262,30 +262,30 @@ const tr: Record<string, SolutionOverride> = {
           'Ticari sınıf SUP tahtaları, birden fazla kullanıcı tarafından günlük kullanıma dayanmak için daha güçlü malzemeler, takviyeli konstrüksiyon ve daha dayanıklı bileşenler kullanır. Tüketici tahtaları ara sıra rekreasyonel kullanım için tasarlanır ve ticari koşullar altında hızla aşınır.',
       },
       {
-        question: 'Afarer, SUP tahtalarını kulübümün logosu ve renkleriyle özelleştirebilir mi?',
+        question: 'OLagoon, SUP tahtalarını kulübümün logosu ve renkleriyle özelleştirebilir mi?',
         answer:
-          'Evet, Afarer; tutarlı ve profesyonel bir filo kimliği oluşturmak için logo yerleşimi, marka renkleri, tahta numaralandırma sistemleri, model tanımlaması ve eğitmen tahtası işaretlemeleri dahil eksiksiz filo özelleştirmesi sunar.',
+          'Evet, OLagoon; tutarlı ve profesyonel bir filo kimliği oluşturmak için logo yerleşimi, marka renkleri, tahta numaralandırma sistemleri, model tanımlaması ve eğitmen tahtası işaretlemeleri dahil eksiksiz filo özelleştirmesi sunar.',
       },
       {
-        question: "Afarer'den bir ticari SUP tahtasının tipik ömrü nedir?",
+        question: "OLagoon'den bir ticari SUP tahtasının tipik ömrü nedir?",
         answer:
-          'Doğru bakımla Afarer ticari SUP tahtaları, tüketici sınıfı ürünlerden belirgin şekilde uzun dayanır ve değişim sıklığını ile toplam sahip olma maliyetini azaltır. Kesin ömür, kullanım yoğunluğuna ve bakım uygulamalarına bağlıdır.',
+          'Doğru bakımla OLagoon ticari SUP tahtaları, tüketici sınıfı ürünlerden belirgin şekilde uzun dayanır ve değişim sıklığını ile toplam sahip olma maliyetini azaltır. Kesin ömür, kullanım yoğunluğuna ve bakım uygulamalarına bağlıdır.',
       },
       {
         question: 'Filo operatörleri için yedek parça ve bakım desteği sunuyor musunuz?',
         answer:
-          'Evet, Afarer; yedek parça planlaması, tamir malzemeleri, değişim aksesuarları, bakım rehberliği, depolama önerileri ve temizlik talimatları dahil kapsamlı satış sonrası destek sağlar.',
+          'Evet, OLagoon; yedek parça planlaması, tamir malzemeleri, değişim aksesuarları, bakım rehberliği, depolama önerileri ve temizlik talimatları dahil kapsamlı satış sonrası destek sağlar.',
       },
       {
-        question: 'Afarer, kürek kulüpleri için hangi filo boyutlarını destekleyebilir?',
+        question: 'OLagoon, kürek kulüpleri için hangi filo boyutlarını destekleyebilir?',
         answer:
-          'Afarer; 10–30 tahtalı küçük kulüplerden 100+ tahtalı büyük operasyonlara kadar tüm boyutlardaki filoları destekler. İşletmeniz büyüdükçe toplu satın alma çözümleri, tutarlı ürün kalitesi ve genişleme desteği sağlıyoruz.',
+          'OLagoon; 10–30 tahtalı küçük kulüplerden 100+ tahtalı büyük operasyonlara kadar tüm boyutlardaki filoları destekler. İşletmeniz büyüdükçe toplu satın alma çözümleri, tutarlı ürün kalitesi ve genişleme desteği sağlıyoruz.',
       },
     ],
     cta: {
-      title: "Afarer'le Ticari SUP Filonuzu Kurun",
+      title: "OLagoon'le Ticari SUP Filonuzu Kurun",
       subtitle:
-        'Ekipmanınız işletmenizin temelidir. Her gün performans göstermek için tasarlanmış ürünleri seçin. Afarer; kürek kulüplerinin, SUP okullarının, kiralama operatörlerinin ve tatil köylerinin güvenilir imalat desteğiyle profesyonel SUP filoları oluşturmasına yardımcı olur.',
+        'Ekipmanınız işletmenizin temelidir. Her gün performans göstermek için tasarlanmış ürünleri seçin. OLagoon; kürek kulüplerinin, SUP okullarının, kiralama operatörlerinin ve tatil köylerinin güvenilir imalat desteğiyle profesyonel SUP filoları oluşturmasına yardımcı olur.',
       primaryAction: {
         text: 'Ticari SUP Projenize Bugün Başlayın',
       },
@@ -299,7 +299,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Ticari Su Parkları için SUP Filo Tedarikçisi | {SITE}',
       description:
-        "Afarer, su parkları ve temalı parklar için ticari SUP filo çözümleri sunar. Yüksek dayanımlı paddle board'lar, yeni başlayanlara uygun tasarımlar, güvenlik odaklı konstrüksiyon ve büyük ölçekli OEM tedariki.",
+        "OLagoon, su parkları ve temalı parklar için ticari SUP filo çözümleri sunar. Yüksek dayanımlı paddle board'lar, yeni başlayanlara uygun tasarımlar, güvenlik odaklı konstrüksiyon ve büyük ölçekli OEM tedariki.",
     },
     hero: {
       tagline: 'Su Parkları, Tema Parkları ve Büyük Eğlence Tesisleri için Yüksek Trafikli SUP Çözümleri',
@@ -346,12 +346,12 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Güvenlik Odaklı Yapı',
           description:
-            'Afarer güvenlik odaklı ürün geliştirmeyi destekler. Güçlendirilmiş yan koruma ve daha yumuşak darbe alanlarıyla koruyucu kenar tasarımı çarpışma etkisini azaltır. Tam EVA güvenlik güvertesi kaymaz yüzey ve rahat durma alanı sağlar. Yuvarlatılmış yeni başlayan dostu formlar keskin kenarları ve zor kullanımı azaltır.',
+            'OLagoon güvenlik odaklı ürün geliştirmeyi destekler. Güçlendirilmiş yan koruma ve daha yumuşak darbe alanlarıyla koruyucu kenar tasarımı çarpışma etkisini azaltır. Tam EVA güvenlik güvertesi kaymaz yüzey ve rahat durma alanı sağlar. Yuvarlatılmış yeni başlayan dostu formlar keskin kenarları ve zor kullanımı azaltır.',
         },
         {
           title: 'Yüksek Trafikli Filo Planlaması',
           description:
-            'Afarer parkların doğru filo boyutunu seçmesine yardımcı olur. Tatil köyü su alanları için küçük aktivite bölgeleri (100–300 tahta), bölgesel su parkları için orta ölçekli eğlence parkları (300–600 tahta) ve büyük eğlence grupları ile çok bölgeli cazibe merkezleri için büyük tema parkı operasyonları (600–1.000+ tahta).',
+            'OLagoon parkların doğru filo boyutunu seçmesine yardımcı olur. Tatil köyü su alanları için küçük aktivite bölgeleri (100–300 tahta), bölgesel su parkları için orta ölçekli eğlence parkları (300–600 tahta) ve büyük eğlence grupları ile çok bölgeli cazibe merkezleri için büyük tema parkı operasyonları (600–1.000+ tahta).',
         },
         {
           title: 'Eksiksiz Su Parkı Ekipman Paketi',
@@ -392,7 +392,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ticari Filo Planlaması',
           detail:
-            'Afarer; stabil yeni başlayan tahtaları, ticari aksesuarları ve yedek parçaları içeren bir su parkı SUP aktivite sistemi tasarladı.',
+            'OLagoon; stabil yeni başlayan tahtaları, ticari aksesuarları ve yedek parçaları içeren bir su parkı SUP aktivite sistemi tasarladı.',
         },
         {
           title: 'Güvenlik Özelleştirmesi',
@@ -429,17 +429,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Faz 1: Zero-Draft SUP Seçimi ve Modüler Engel Tasarımı',
               detail:
-                "Ocak 2025'te Delgado 7 şişme SUP tedarikçisini değerlendirdi. 4'ünü 6 dakikadan uzun yeniden şişirme döngüleri nedeniyle, 2'sini UV testlerinde tabakalaşma nedeniyle reddetti. 15 PSI maksimum rijitliği ve 5 dakikalık tam söndürmeden depoya kadar döngüsü nedeniyle Afarer Explorer 11'6″ X'i (34″ genişlik, 6″ kalınlık, 320 L hacim) seçti. Afarer'in OEM ekibiyle birlikte, 220 lbs yanal kuvvete test edilmiş özel ray montaj sistemi kullanarak klipsli engel modülleri — denge kirişleri, yüzen engeller ve üzerinden sürünme kemerleri — için tahta başına 4 entegre D halkası montaj noktası ekledi.",
+                "Ocak 2025'te Delgado 7 şişme SUP tedarikçisini değerlendirdi. 4'ünü 6 dakikadan uzun yeniden şişirme döngüleri nedeniyle, 2'sini UV testlerinde tabakalaşma nedeniyle reddetti. 15 PSI maksimum rijitliği ve 5 dakikalık tam söndürmeden depoya kadar döngüsü nedeniyle OLagoon Explorer 11'6″ X'i (34″ genişlik, 6″ kalınlık, 320 L hacim) seçti. OLagoon'in OEM ekibiyle birlikte, 220 lbs yanal kuvvete test edilmiş özel ray montaj sistemi kullanarak klipsli engel modülleri — denge kirişleri, yüzen engeller ve üzerinden sürünme kemerleri — için tahta başına 4 entegre D halkası montaj noktası ekledi.",
             },
             {
               title: 'Faz 2: Engel Parkuru Yerleşimi ve Su Derinliği Uyumu',
               detail:
-                "6 hafta boyunca Delgado ve baş su ürünleri mühendisi Sarah Kim, farklı havuz derinlikleri (3,5–5,5 fit) için 3 parkur konfigürasyonu tasarladı. Afarer'in CAD dosyalarını kullanarak tahta aralıklarını 8 fit aralıklarla modellediler ve 150 fitlik kıvrımlı parkurlar oluşturdular. Her parkur, park başına 16 tahta ve 4 yedek gerektiriyordu. Kim, tüm engel bağlantılarına makas pimli kopma bağlayıcıları entegre ederek hiçbir bileşenin 15 lbs'den fazla kopma kuvveti aşmamasını sağlayarak TDLR eğlence aracı sertifikasını aldı.",
+                "6 hafta boyunca Delgado ve baş su ürünleri mühendisi Sarah Kim, farklı havuz derinlikleri (3,5–5,5 fit) için 3 parkur konfigürasyonu tasarladı. OLagoon'in CAD dosyalarını kullanarak tahta aralıklarını 8 fit aralıklarla modellediler ve 150 fitlik kıvrımlı parkurlar oluşturdular. Her parkur, park başına 16 tahta ve 4 yedek gerektiriyordu. Kim, tüm engel bağlantılarına makas pimli kopma bağlayıcıları entegre ederek hiçbir bileşenin 15 lbs'den fazla kopma kuvveti aşmamasını sağlayarak TDLR eğlence aracı sertifikasını aldı.",
             },
             {
               title: 'Faz 3: Can Kurtarıcı SUP Sertifikasyonu ve Hızlı Müdahale Tatbikatları',
               detail:
-                "Mart 2025'te Afarer'in eğitim ekibi, Red Oak amiral gemisi parkında 24 can kurtarıcı için 3 günlük yerinde sertifikasyon gerçekleştirdi. Eğitim; SUP temelli kurtarma tekniklerini, acil inişleri ve kalabalık akışı yönetimini kapsadı. Delgado 15 dakikalık bir rotasyon sistemi uyguladı: 12 dakikalık SUP seansı + 3 dakikalık tahta değişimi. Her park, Paddletek tarafından üretilen 50 duvara montajlı tahta rafıyla 40 fitlik adanmış bir hazırlık bölgesi ekledi. Can kurtarıcı sertifikasyonunu tamamlama oranı %100 oldu ve yazılı sınav ortalaması %94'tü.",
+                "Mart 2025'te OLagoon'in eğitim ekibi, Red Oak amiral gemisi parkında 24 can kurtarıcı için 3 günlük yerinde sertifikasyon gerçekleştirdi. Eğitim; SUP temelli kurtarma tekniklerini, acil inişleri ve kalabalık akışı yönetimini kapsadı. Delgado 15 dakikalık bir rotasyon sistemi uyguladı: 12 dakikalık SUP seansı + 3 dakikalık tahta değişimi. Her park, Paddletek tarafından üretilen 50 duvara montajlı tahta rafıyla 40 fitlik adanmış bir hazırlık bölgesi ekledi. Can kurtarıcı sertifikasyonunu tamamlama oranı %100 oldu ve yazılı sınav ortalaması %94'tü.",
             },
             {
               title: 'Faz 4: Memorial Day Lansmanı ve Sezon Performansı',
@@ -467,7 +467,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Mahremiyet, Stabilite ve Isı Dayanımı için SUP Seçimi',
               detail:
-                "Kasım 2024'te Al Falasi, 5 markadan 9 SUP modelini test etti. Yalnızca Afarer'in Explorer 10'8″ X'i (33″ x 6″ x 320 L), malzeme bozulması olmadan 48 saatlik 50 °C ısı odası testini geçti. La Mer'in estetiğiyle eşleşmesi için iki renk şemasında (kum tepesi beji ve okyanus turkuazı) 120 tahta sipariş etti. Her tahta, Afarer'in mühendislik ekibi tarafından 3 prototip iterasyonu boyunca tasarlanan, UPF 50+ kumaşlı karbon fiber kemerli özel yapım çıkarılabilir gölgelik sistemiyle donatıldı. Gölgelikler 1,2 kg ekledi ancak yatma açısında 0,5 derece içinde stabiliteyi korudu.",
+                "Kasım 2024'te Al Falasi, 5 markadan 9 SUP modelini test etti. Yalnızca OLagoon'in Explorer 10'8″ X'i (33″ x 6″ x 320 L), malzeme bozulması olmadan 48 saatlik 50 °C ısı odası testini geçti. La Mer'in estetiğiyle eşleşmesi için iki renk şemasında (kum tepesi beji ve okyanus turkuazı) 120 tahta sipariş etti. Her tahta, OLagoon'in mühendislik ekibi tarafından 3 prototip iterasyonu boyunca tasarlanan, UPF 50+ kumaşlı karbon fiber kemerli özel yapım çıkarılabilir gölgelik sistemiyle donatıldı. Gölgelikler 1,2 kg ekledi ancak yatma açısında 0,5 derece içinde stabiliteyi korudu.",
             },
             {
               title: 'Adım 2: Lagün Bölgelendirmesi, Gizlilik ve Cinsiyete Göre Ayrılmış Çizelgeleme',
@@ -477,7 +477,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 3: Kadın SUP Eğitmeni İşe Alımı ve Kültürel Eğitim',
               detail:
-                "AquaFun Ocak 2025'te hedefli bir işe alım kampanyası başlattı; 12 kadın SUP eğitmeni (8 Emirlikli, 4 expat) ve 6 erkek eğitmen işe aldı. Afarer; kültürel duyarlılığa uyarlanmış özel bir 5 günlük SUP rehberlik sertifikasyonu teslim etti — kürek komutları için Arapça terminoloji, mahremiyete uygun kurtarma teknikleri (fiziksel temastan kaçınan tahtadan tahtaya çekişler) ve aile grubu tempo stratejileri. 18 eğitmenin tamamı 20 Şubat'a kadar IRF Seviye 1 eşdeğer değerlendirmesini geçti. Eğitim 28.000 $ tuttu ve Dubai Turizm'in ürün inovasyon hibesiyle ortak finanse edildi.",
+                "AquaFun Ocak 2025'te hedefli bir işe alım kampanyası başlattı; 12 kadın SUP eğitmeni (8 Emirlikli, 4 expat) ve 6 erkek eğitmen işe aldı. OLagoon; kültürel duyarlılığa uyarlanmış özel bir 5 günlük SUP rehberlik sertifikasyonu teslim etti — kürek komutları için Arapça terminoloji, mahremiyete uygun kurtarma teknikleri (fiziksel temastan kaçınan tahtadan tahtaya çekişler) ve aile grubu tempo stratejileri. 18 eğitmenin tamamı 20 Şubat'a kadar IRF Seviye 1 eşdeğer değerlendirmesini geçti. Eğitim 28.000 $ tuttu ve Dubai Turizm'in ürün inovasyon hibesiyle ortak finanse edildi.",
             },
             {
               title: "Adım 4: Ramazan'a Uyumlu Yumuşak Lansman ve Süregelen Operasyonlar",
@@ -494,28 +494,28 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Su Parkları Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Su Parkları Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Yüksek Trafikli Operasyonlar',
           description:
-            'Ekipman günlük ticari kullanıma dayanmalıdır. Afarer, dayanıklı yapıyla sürekli yüksek hacimli operasyonlar için tasarlar.',
+            'Ekipman günlük ticari kullanıma dayanmalıdır. OLagoon, dayanıklı yapıyla sürekli yüksek hacimli operasyonlar için tasarlar.',
         },
         {
           title: 'Güvenlik Gereksinimleri',
           description:
-            'Misafirlerin güven ve korumaya ihtiyacı vardır. Afarer, her ürün tasarımında yeni başlayan dostu özelliklerle güvenliğe öncelik verir.',
+            'Misafirlerin güven ve korumaya ihtiyacı vardır. OLagoon, her ürün tasarımında yeni başlayan dostu özelliklerle güvenliğe öncelik verir.',
         },
         {
           title: 'Filo Yönetimi',
           description:
-            'Büyük projeler eksiksiz sistemler gerektirir. Afarer uçtan uca filo planlaması, miktar önerileri ve destek sağlar.',
+            'Büyük projeler eksiksiz sistemler gerektirir. OLagoon uçtan uca filo planlaması, miktar önerileri ve destek sağlar.',
         },
         {
           title: 'Uzun Vadeli Güvenilirlik',
           description:
-            'Cazibe merkezleri stabil operasyona bağlıdır. Afarer, yıllarca sürekli kullanım için dayanıklı ürünler ve güvenilir tedarik sağlar.',
+            'Cazibe merkezleri stabil operasyona bağlıdır. OLagoon, yıllarca sürekli kullanım için dayanıklı ürünler ve güvenilir tedarik sağlar.',
         },
       ],
     },
@@ -523,36 +523,36 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Bir su parkı SUP cazibe merkezi için hangi filo boyutu önerilir?',
         answer:
-          'Afarer; küçük aktivite bölgeleri ve tatil köyü su alanları için 100–300, bölgesel su parkları ve turizm destinasyonları için 300–600, büyük tema parkları ve çok bölgeli cazibe merkezleri için 600–1.000+ tahta önerir.',
+          'OLagoon; küçük aktivite bölgeleri ve tatil köyü su alanları için 100–300, bölgesel su parkları ve turizm destinasyonları için 300–600, büyük tema parkları ve çok bölgeli cazibe merkezleri için 600–1.000+ tahta önerir.',
       },
       {
         question: 'Ticari SUP tahtaları günlük su parkı kullanımı için ne kadar dayanıklı?',
         answer:
-          'Afarer ticari SUP tahtaları; güçlendirilmiş PVC yapı, dayanıklı dikişler ve ticari sınıf aksesuarlarla yüksek trafikli operasyonlar için tasarlanmıştır. Tüketici sınıfı ürünlere zarar verecek sürekli günlük kullanıma, sık yeni başlayan hatalarına ve tekrarlı darbelere dayanır.',
+          'OLagoon ticari SUP tahtaları; güçlendirilmiş PVC yapı, dayanıklı dikişler ve ticari sınıf aksesuarlarla yüksek trafikli operasyonlar için tasarlanmıştır. Tüketici sınıfı ürünlere zarar verecek sürekli günlük kullanıma, sık yeni başlayan hatalarına ve tekrarlı darbelere dayanır.',
       },
       {
         question: 'SUP tahtaları su parkımın markalamasıyla özelleştirilebilir mi?',
         answer:
-          'Evet, Afarer; park logoları, karakter grafikleri, özel renkler ve cazibe teması entegrasyonu dahil eksiksiz özelleştirmeyi destekler. Özel markalama, SUP ekipmanını sosyal medya görünürlüğü üreten fotoğraf değerinde cazibe merkezlerine dönüştürür.',
+          'Evet, OLagoon; park logoları, karakter grafikleri, özel renkler ve cazibe teması entegrasyonu dahil eksiksiz özelleştirmeyi destekler. Özel markalama, SUP ekipmanını sosyal medya görünürlüğü üreten fotoğraf değerinde cazibe merkezlerine dönüştürür.',
       },
       {
-        question: 'Afarer ticari SUP tahtaları hangi güvenlik özelliklerini içeriyor?',
+        question: 'OLagoon ticari SUP tahtaları hangi güvenlik özelliklerini içeriyor?',
         answer:
-          'Afarer tahtaları; koruyucu kenar tasarımı, tam EVA kaymaz güvenlik güvertesi, yüksek yüzdürme yapısı, yuvarlatılmış yeni başlayan dostu formlar ve güçlendirilmiş yan koruma içerir. Bu özellikler çarpışma etkisini en aza indirir ve ilk kez kullanıcılar için güvenli operasyonu güvence altına alır.',
+          'OLagoon tahtaları; koruyucu kenar tasarımı, tam EVA kaymaz güvenlik güvertesi, yüksek yüzdürme yapısı, yuvarlatılmış yeni başlayan dostu formlar ve güçlendirilmiş yan koruma içerir. Bu özellikler çarpışma etkisini en aza indirir ve ilk kez kullanıcılar için güvenli operasyonu güvence altına alır.',
       },
       {
-        question: 'Afarer büyük filolar için bakım ve değişimi nasıl destekliyor?',
+        question: 'OLagoon büyük filolar için bakım ve değişimi nasıl destekliyor?',
         answer:
-          'Afarer; daha kolay değişim için standartlaştırılmış bileşenler, tamir malzemeleri ve rehberlik, günlük kontroller için filo denetim sistemleri ve yedek parça bulunabilirliği sağlar. Ayrıca sezonluk değişim ve filo yükseltmeleri için yıllık tedarik programları sunuyoruz.',
+          'OLagoon; daha kolay değişim için standartlaştırılmış bileşenler, tamir malzemeleri ve rehberlik, günlük kontroller için filo denetim sistemleri ve yedek parça bulunabilirliği sağlar. Ayrıca sezonluk değişim ve filo yükseltmeleri için yıllık tedarik programları sunuyoruz.',
       },
       {
         question: 'Büyük ölçekli bir SUP filo siparişi için tipik teslim süresi nedir?',
         answer:
-          'Teslim süreleri sipariş boyutuna ve özelleştirme gereksinimlerine göre değişir. Afarer, 100–500 takımlık pilot projelerden 500–1.000+ takımlık tam ölçekli kurulumlara kadar üretim çizelgeleri belirlemek için her müşteriyle yakından çalışır ve sezonluk açılışlar için zamanında teslimatı güvence altına alır.',
+          'Teslim süreleri sipariş boyutuna ve özelleştirme gereksinimlerine göre değişir. OLagoon, 100–500 takımlık pilot projelerden 500–1.000+ takımlık tam ölçekli kurulumlara kadar üretim çizelgeleri belirlemek için her müşteriyle yakından çalışır ve sezonluk açılışlar için zamanında teslimatı güvence altına alır.',
       },
     ],
     cta: {
-      title: 'Afarer ile Su Parkı SUP Cazibe Merkezinizi Kurun',
+      title: 'OLagoon ile Su Parkı SUP Cazibe Merkezinizi Kurun',
       subtitle:
         'Sadece bir su aktivitesinden fazlasını yaratın. Ziyaretçileri geri getiren akılda kalıcı bir misafir deneyimi yaratın.',
       primaryAction: {
@@ -568,7 +568,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Ticari SUP Ekipman Tedarikçisi | Plaj Kiralama Filosu Çözümleri | {SITE}',
       description:
-        "Afarer, plaj rekreasyon işletmeleri ve su sporları merkezleri için ticari SUP filo çözümleri sunar. Dayanıklı kiralama paddle board'ları, eksiksiz ekipman paketleri, yedek parça desteği ve OEM özelleştirmesi.",
+        "OLagoon, plaj rekreasyon işletmeleri ve su sporları merkezleri için ticari SUP filo çözümleri sunar. Dayanıklı kiralama paddle board'ları, eksiksiz ekipman paketleri, yedek parça desteği ve OEM özelleştirmesi.",
     },
     hero: {
       tagline: 'Eksiksiz Plaj Aktivitesi Ekipman Çözümleri™',
@@ -609,49 +609,49 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ticari Sınıf SUP Filo Tasarımı',
           description:
-            'Afarer; güçlendirilmiş PVC yapı, güçlü dikiş teknolojisi, ağır hizmet tipi EVA güverte sistemleri ve dayanıklı kürekler ile pompalar dahil ticari sınıf aksesuarlarla özellikle ticari ortamlar için SUP ürünleri geliştirir.',
+            'OLagoon; güçlendirilmiş PVC yapı, güçlü dikiş teknolojisi, ağır hizmet tipi EVA güverte sistemleri ve dayanıklı kürekler ile pompalar dahil ticari sınıf aksesuarlarla özellikle ticari ortamlar için SUP ürünleri geliştirir.',
           features: ['Güçlendirilmiş Yapı', 'Ağır Hizmet Tipi EVA Güverte Sistemi', 'Ticari Aksesuarlar'],
         },
         {
           title: 'Eksiksiz Kiralama Filosu Planlaması',
           description:
-            "Afarer; stabil all-round SUP'la plaj kiralama filoları, çoklu boyutlar ve eğitmen tahtalarıyla su sporları merkezi filoları ve markalı premium ekipmanla tatil köyü aktivite filoları için doğru ekipman karışımını seçmeye yardımcı olur.",
+            "OLagoon; stabil all-round SUP'la plaj kiralama filoları, çoklu boyutlar ve eğitmen tahtalarıyla su sporları merkezi filoları ve markalı premium ekipmanla tatil köyü aktivite filoları için doğru ekipman karışımını seçmeye yardımcı olur.",
           features: ['Plaj Kiralama Filosu', 'Su Sporları Merkezi Filosu', 'Tatil Köyü Aktivite Filosu'],
         },
         {
           title: 'Yüksek Dayanıklılıklı Kiralama SUP Konfigürasyonu',
           description:
-            'Afarer; plaj kumuna ve sık kullanıma karşı çizilme direnci, tamir kitleri ve standartlaştırılmış bileşenlerle kolay tamir ile ekipman yatırım getirisini en üst düzeye çıkaran uzun servis ömrü için ürünleri optimize eder.',
+            'OLagoon; plaj kumuna ve sık kullanıma karşı çizilme direnci, tamir kitleri ve standartlaştırılmış bileşenlerle kolay tamir ile ekipman yatırım getirisini en üst düzeye çıkaran uzun servis ömrü için ürünleri optimize eder.',
           features: ['Çizilme Direnci', 'Kolay Tamir', 'Uzun Servis Ömrü'],
         },
         {
           title: 'Standartlaştırılmış Yedek Parça Sistemi',
           description:
-            'Afarer; valfler, emniyet kordonları, kürekler, pompalar ve tamir malzemeleri dahil yedek aksesuarlarla ve günlük denetim ile sezonluk bakım için filo bakım planlamasıyla ticari operatörleri destekler.',
+            'OLagoon; valfler, emniyet kordonları, kürekler, pompalar ve tamir malzemeleri dahil yedek aksesuarlarla ve günlük denetim ile sezonluk bakım için filo bakım planlamasıyla ticari operatörleri destekler.',
           features: ['Yedek Aksesuarlar', 'Filo Bakım Planlaması', 'Hızlı Toparlanma'],
         },
         {
           title: 'Eksiksiz Plaj Aktivite Paketleri',
           description:
-            'Afarer; ticari tahtalar ve aksesuarlarla SUP kiralama paketleri, tatil köyleri ve turistik bölgeler için aile su aktivitesi paketleri ile kurumsal ve okul etkinlikleri için grup etkinliği paketleri sunar.',
+            'OLagoon; ticari tahtalar ve aksesuarlarla SUP kiralama paketleri, tatil köyleri ve turistik bölgeler için aile su aktivitesi paketleri ile kurumsal ve okul etkinlikleri için grup etkinliği paketleri sunar.',
           features: ['SUP Kiralama Paketi', 'Aile Su Aktivitesi Paketi', 'Grup Etkinliği Paketi'],
         },
         {
           title: 'Markalama ve İşletme Özelleştirmesi',
           description:
-            'Afarer; logo baskısı ve renklerle özel operatör markalamayı, markalı aktiviteler ve fotoğraf fırsatları yaratan turizm deneyimi tasarımını ve destinasyon kimliğiyle eşleşen tatil köyü ve plaj entegrasyonunu destekler.',
+            'OLagoon; logo baskısı ve renklerle özel operatör markalamayı, markalı aktiviteler ve fotoğraf fırsatları yaratan turizm deneyimi tasarımını ve destinasyon kimliğiyle eşleşen tatil köyü ve plaj entegrasyonunu destekler.',
           features: ['Özel Operatör Markalaması', 'Turizm Deneyimi Tasarımı', 'Tatil Köyü ve Plaj Entegrasyonu'],
         },
         {
           title: 'Güvenlik ve Yeni Başlayan Dostu Tasarım',
           description:
-            'Afarer; turistler ve aileler için daha geniş tahta formlarıyla stabilite tasarımına ve ilk kez kürek çekenlerin deneyimi güvenle ve güvenli bir şekilde hızla keyiflendirmesine yardımcı olan kolay kullanıma odaklanır.',
+            'OLagoon; turistler ve aileler için daha geniş tahta formlarıyla stabilite tasarımına ve ilk kez kürek çekenlerin deneyimi güvenle ve güvenli bir şekilde hızla keyiflendirmesine yardımcı olan kolay kullanıma odaklanır.',
           features: ['Stabilite Tasarımı', 'Kolay Kullanım', 'Yeni Başlayan Dostu Performans'],
         },
         {
           title: 'Sezonluk İşletmeler için Tedarik Desteği',
           description:
-            'Afarer; operatörlerin filo seçimi ve üretim çizelgelemesi için sezon öncesi planlamayı, ek ekipman ve yedek parçalar için sezonluk değişimi ve küçük işletmelerden büyük merkezlere uzun vadeli filo büyümesini yönetmesine yardımcı olur.',
+            'OLagoon; operatörlerin filo seçimi ve üretim çizelgelemesi için sezon öncesi planlamayı, ek ekipman ve yedek parçalar için sezonluk değişimi ve küçük işletmelerden büyük merkezlere uzun vadeli filo büyümesini yönetmesine yardımcı olur.',
           features: ['Sezon Öncesi Planlama', 'Sezonluk Değişim', 'Uzun Vadeli Filo Büyümesi'],
         },
       ],
@@ -668,7 +668,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Filo Planlaması',
           detail:
-            'Afarer; operatörün plaj ortamına özel stabil all-round tahtalar, ağır hizmet tipi aksesuarlar ve yedek parçalar içeren bir ticari SUP ekipman paketi tasarladı.',
+            'OLagoon; operatörün plaj ortamına özel stabil all-round tahtalar, ağır hizmet tipi aksesuarlar ve yedek parçalar içeren bir ticari SUP ekipman paketi tasarladı.',
         },
         {
           title: 'Ürün Özelleştirmesi',
@@ -705,27 +705,27 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Kapsamlı Tatil Köyü Değerlendirmesi ve Ekipman Spesifikasyonu',
               detail:
-                "Eylül 2024'te Carlos ve Afarer'in Hospitality Solutions ekibi, 3 mülkün tamamında 5 günlük yerinde denetim yaptı. Misafir demografisini, zirve kullanım desenlerini, depolama kısıtlamalarını, personel seviyelerini ve tuzlu su maruziyeti koşullarını analiz ettiler. Denetim; ekipman duruş süresi nedeniyle yılda 60+ misafir günü kaybedildiğini ve mevcut tahtaların Karayip güneşi ve tuzunda bozulmadan önce yalnızca 8–12 ay dayandığını ortaya çıkardı. Afarer 140 adetlik bir filo önerdi: 100 SUP (10'6″ all-round), resif izleme için 20 şeffaf tabanlı paddle board, 20 pedal board ve 10 tandem balıkçılık SUP'ı. Her tahta; 5 yıllık ticari garantiyle UV stabilize deniz sınıfı PVC, paslanmaz çelik donanım ve markanın imza turkuaz ve beyaz renkli Hyatt Ziva markalı grafikleri içeriyordu.",
+                "Eylül 2024'te Carlos ve OLagoon'in Hospitality Solutions ekibi, 3 mülkün tamamında 5 günlük yerinde denetim yaptı. Misafir demografisini, zirve kullanım desenlerini, depolama kısıtlamalarını, personel seviyelerini ve tuzlu su maruziyeti koşullarını analiz ettiler. Denetim; ekipman duruş süresi nedeniyle yılda 60+ misafir günü kaybedildiğini ve mevcut tahtaların Karayip güneşi ve tuzunda bozulmadan önce yalnızca 8–12 ay dayandığını ortaya çıkardı. OLagoon 140 adetlik bir filo önerdi: 100 SUP (10'6″ all-round), resif izleme için 20 şeffaf tabanlı paddle board, 20 pedal board ve 10 tandem balıkçılık SUP'ı. Her tahta; 5 yıllık ticari garantiyle UV stabilize deniz sınıfı PVC, paslanmaz çelik donanım ve markanın imza turkuaz ve beyaz renkli Hyatt Ziva markalı grafikleri içeriyordu.",
             },
             {
               title: 'Plaj Operasyonları Altyapısı ve Depolama Çözümleri',
               detail:
-                "Afarer'in ekibi her tatil köyü için eksiksiz bir plaj operasyon merkezi tasarladı: güneş enerjili havalandırmalı güvenli bir ekipman odasına dönüştürülmüş 40 fitlik kilitlenebilir bir nakliye konteyneri, dijital basınç göstergeli 10 ağır hizmet tipi elektrikli şişirme istasyonu, damla kurutmalı drenajla 50 tahta tutan mobil raf sistemi ve yedek valfler, yama kitleri ve temizlik malzemeleriyle bir tamir/bakım istasyonu. Puerto Morelos mülkü; check-in kontuarı, can yeleği duvarı ve dijital çizelge ekranıyla adanmış bir sahil kenarı kiosku aldı. Afarer'in kurulum ekibi her mülkte 2 hafta geçirerek mevcut depolama alanlarını değiştirdi ve bakım personeline her kullanım sonrası tatlı su durulama protokolü dahil doğru bakım rutinleri konusunda eğitim verdi.",
+                "OLagoon'in ekibi her tatil köyü için eksiksiz bir plaj operasyon merkezi tasarladı: güneş enerjili havalandırmalı güvenli bir ekipman odasına dönüştürülmüş 40 fitlik kilitlenebilir bir nakliye konteyneri, dijital basınç göstergeli 10 ağır hizmet tipi elektrikli şişirme istasyonu, damla kurutmalı drenajla 50 tahta tutan mobil raf sistemi ve yedek valfler, yama kitleri ve temizlik malzemeleriyle bir tamir/bakım istasyonu. Puerto Morelos mülkü; check-in kontuarı, can yeleği duvarı ve dijital çizelge ekranıyla adanmış bir sahil kenarı kiosku aldı. OLagoon'in kurulum ekibi her mülkte 2 hafta geçirerek mevcut depolama alanlarını değiştirdi ve bakım personeline her kullanım sonrası tatlı su durulama protokolü dahil doğru bakım rutinleri konusunda eğitim verdi.",
             },
             {
               title: 'Aktivite Programlaması, Personel Eğitimi ve Misafir Deneyimi Tasarımı',
               detail:
-                "Afarer her tatil köyü için kademeli bir aktivite programı geliştirdi: ücretsiz (1 saatlik slotlarla SUP kiralama), rehberli (kişi başına 45 $'dan sabah SUP yoga'sı, kişi başına 55 $'dan gün batımı resif turları) ve premium (kişi başına 120 $'dan özel paddle piknik gezileri). Afarer'in eğiticileri 3 tatil köyünde 12 gün geçirerek ekipman kullanımı, misafir eğitimi, güvenlik protokolleri ve temel tamir konularını kapsayan 24 rekreasyon personeline eğitim verdi. Eğitim; Meksikalı Su Sporları Operatörleri Derneği tarafından tanınan bir sertifikasyon programı içeriyordu. Carlos'un ekibi, misafirlerin ekipmanı 48 saat önceden rezerve etmesine olanak tanıyan Hyatt'ın misafir uygulamasıyla entegre bir QR kod rezervasyon sistemi başlattı.",
+                "OLagoon her tatil köyü için kademeli bir aktivite programı geliştirdi: ücretsiz (1 saatlik slotlarla SUP kiralama), rehberli (kişi başına 45 $'dan sabah SUP yoga'sı, kişi başına 55 $'dan gün batımı resif turları) ve premium (kişi başına 120 $'dan özel paddle piknik gezileri). OLagoon'in eğiticileri 3 tatil köyünde 12 gün geçirerek ekipman kullanımı, misafir eğitimi, güvenlik protokolleri ve temel tamir konularını kapsayan 24 rekreasyon personeline eğitim verdi. Eğitim; Meksikalı Su Sporları Operatörleri Derneği tarafından tanınan bir sertifikasyon programı içeriyordu. Carlos'un ekibi, misafirlerin ekipmanı 48 saat önceden rezerve etmesine olanak tanıyan Hyatt'ın misafir uygulamasıyla entegre bir QR kod rezervasyon sistemi başlattı.",
             },
             {
               title: 'Sezonluk Operasyon, Performans Takibi ve Yatırım Getirisi Analizi',
               detail:
-                "Tam program 15 Ocak 2025'te başladı ve Haziran 2025'e gelindiğinde 0 güvenlik olayıyla 14.200 misafir deneyimini desteklemişti. Su sporları aktivitelerinde misafir memnuniyeti ortalama 4,7/5 oldu ve en yüksek puanları şeffaf tabanlı paddle board'lar aldı (4,9/5). Ekipman bakım maliyetleri, önceki yılın karma tedarikçi programına kıyasla %42 düştü — 3 mülk genelinde 34.000 $'dan 19.700 $'a. Premium rehberli programlar ilk 6 ayda 112.000 $ ek gelir oluşturdu. Carlos'un ekibi, misafirlerin %22'sinin özellikle su sporları için konaklamalarını 1+ gece uzattığını bildirdi. Hyatt'ın Inclusive Collection, Dominik Cumhuriyeti ve Jamaika'daki 2 ek mülkte Afarer ekipmanı eklemek için 2026'da 240.000 $ bütçe onayladı.",
+                "Tam program 15 Ocak 2025'te başladı ve Haziran 2025'e gelindiğinde 0 güvenlik olayıyla 14.200 misafir deneyimini desteklemişti. Su sporları aktivitelerinde misafir memnuniyeti ortalama 4,7/5 oldu ve en yüksek puanları şeffaf tabanlı paddle board'lar aldı (4,9/5). Ekipman bakım maliyetleri, önceki yılın karma tedarikçi programına kıyasla %42 düştü — 3 mülk genelinde 34.000 $'dan 19.700 $'a. Premium rehberli programlar ilk 6 ayda 112.000 $ ek gelir oluşturdu. Carlos'un ekibi, misafirlerin %22'sinin özellikle su sporları için konaklamalarını 1+ gece uzattığını bildirdi. Hyatt'ın Inclusive Collection, Dominik Cumhuriyeti ve Jamaika'daki 2 ek mülkte OLagoon ekipmanı eklemek için 2026'da 240.000 $ bütçe onayladı.",
             },
           ],
           results: [
             'İlk 6 ayda 0 güvenlik olayıyla 14.200+ misafir deneyimi ve su sporları aktivitelerinde 4,7/5 misafir memnuniyeti',
-            "Afarer'in ticari sınıf yapısı ve UV stabilize malzemeleri sayesinde ekipman bakım maliyetleri yıllık 34.000 $'dan 19.700 $'a %42 azaldı",
+            "OLagoon'in ticari sınıf yapısı ve UV stabilize malzemeleri sayesinde ekipman bakım maliyetleri yıllık 34.000 $'dan 19.700 $'a %42 azaldı",
             'Premium rehberli programlar 6 ayda 112.000 $ ek gelir oluşturdu; en iyi performans gösterenler SUP yoga ve gün batımı resif turları',
             'Su sporlarını ana faktör olarak göstererek konaklamalarını 1+ gece uzatan misafirlerde %22 artış; tahmini 340.000 $ ek oda geliri',
           ],
@@ -743,22 +743,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Çoklu Mülk İhtiyaç Analizi ve Özel Filo Mühendisliği',
               detail:
-                "Ekim 2024'te Afarer'in Hospitality ekibi, Kikladlar turunda 10 gün boyunca her BlueWave konumunda ayrı değerlendirmeler yaptı. Her kulübün koşulları farklıydı: Mykonos (kalabalık koylar, üst düzey müşteri kitlesi, rüzgar maruziyeti), Santorini (volkanik kum, daha sakin sular, gün batımı turizmi), Naxos (aile odaklı, sığ sular, daha uzun sahil şeridi), Paros (rüzgar sörfü geçişi, sportif müşteri kitlesi) ve Girit (daha büyük dalgalar, karma demografi). Afarer; konuma özgü konfigürasyonlarla 200 adetlik bir filo tasarladı: 110 SUP (artırılmış uzunlukta 20 SUP yoga platformu ve 20 şeffaf tabanlı tahta dahil), premium misafirler için 30 pedal board, Mykonos ve Paros için 30 windSUP hibriti ve Naxos aile programları için 30 gençlik tahtası. Tüm birimler; altın vurgulu logolarla BlueWave'in imza lacivert-beyaz renk şemasına sahipti.",
+                "Ekim 2024'te OLagoon'in Hospitality ekibi, Kikladlar turunda 10 gün boyunca her BlueWave konumunda ayrı değerlendirmeler yaptı. Her kulübün koşulları farklıydı: Mykonos (kalabalık koylar, üst düzey müşteri kitlesi, rüzgar maruziyeti), Santorini (volkanik kum, daha sakin sular, gün batımı turizmi), Naxos (aile odaklı, sığ sular, daha uzun sahil şeridi), Paros (rüzgar sörfü geçişi, sportif müşteri kitlesi) ve Girit (daha büyük dalgalar, karma demografi). OLagoon; konuma özgü konfigürasyonlarla 200 adetlik bir filo tasarladı: 110 SUP (artırılmış uzunlukta 20 SUP yoga platformu ve 20 şeffaf tabanlı tahta dahil), premium misafirler için 30 pedal board, Mykonos ve Paros için 30 windSUP hibriti ve Naxos aile programları için 30 gençlik tahtası. Tüm birimler; altın vurgulu logolarla BlueWave'in imza lacivert-beyaz renk şemasına sahipti.",
             },
             {
               title: 'Konuma Özgü Altyapı ve Lojistik Uygulaması',
               detail:
-                "Afarer'in operasyon ekibi; adadan adaya transferler için BlueWave'in yerel lojistik ortaklarıyla eşgüdüm sağlayarak 5 adaya 40 konteyner gönderen bir lojistik planı uyguladı. Her konum özel bir depolama çözümü aldı: Mykonos, UV korumalı raflarla iklim kontrollü bir sahil depo odası; Santorini, depolama alanından plaja tahta taşıma için bir yamaç vinç sistemi; Naxos, çocuk ekipmanı sergili aile dostu bir kiralama kiosku; Paros ve Girit ise rüzgar koruma bariyerlerine dönüşen çift amaçlı depolama aldı. Afarer, 5 mülkün tamamında paylaşılan bir dijital rezervasyon sistemi kurdu ve Nisan 2025'te Mykonos amiral gemisi konumunda 2 haftalık yoğun bir program sırasında 35 BlueWave personeline eğitim verdi.",
+                "OLagoon'in operasyon ekibi; adadan adaya transferler için BlueWave'in yerel lojistik ortaklarıyla eşgüdüm sağlayarak 5 adaya 40 konteyner gönderen bir lojistik planı uyguladı. Her konum özel bir depolama çözümü aldı: Mykonos, UV korumalı raflarla iklim kontrollü bir sahil depo odası; Santorini, depolama alanından plaja tahta taşıma için bir yamaç vinç sistemi; Naxos, çocuk ekipmanı sergili aile dostu bir kiralama kiosku; Paros ve Girit ise rüzgar koruma bariyerlerine dönüşen çift amaçlı depolama aldı. OLagoon, 5 mülkün tamamında paylaşılan bir dijital rezervasyon sistemi kurdu ve Nisan 2025'te Mykonos amiral gemisi konumunda 2 haftalık yoğun bir program sırasında 35 BlueWave personeline eğitim verdi.",
             },
             {
               title: 'Aktivite Programı Standartlaştırması ve Premium Kademe Oluşturulması',
               detail:
-                "Dimitri'nin ekibi, BlueWave'in standartlaştırılmış su sporları programı “Aegean Blue Experiences”ı 3 kademeli başlattı: ücretsiz (kulüp misafirleri için 30 dakikalık SUP seansları), premium (izole plajlara kişi başına 65–95 €'dan rehberli SUP) ve ultra premium (şampanyalı plaj pikniği dahil kişi başına 250 €'dan özel yacht transferli paddle gezileri). Afarer'in programlama ekibi; GPS izlenen rotalar, ilgi noktası işaretleri ve fotoğrafçı desteğiyle 5 ada genelinde 12 rehberli tur rotası oluşturdu. Mykonos mülkü ayrıca “Sunset SUP at Little Venice”ı başlattı — yaz boyunca %95 kapasite oranıyla kişi başına 85 €'dan her seansı tükenen 2 saatlik rehberli akşam küreği.",
+                "Dimitri'nin ekibi, BlueWave'in standartlaştırılmış su sporları programı “Aegean Blue Experiences”ı 3 kademeli başlattı: ücretsiz (kulüp misafirleri için 30 dakikalık SUP seansları), premium (izole plajlara kişi başına 65–95 €'dan rehberli SUP) ve ultra premium (şampanyalı plaj pikniği dahil kişi başına 250 €'dan özel yacht transferli paddle gezileri). OLagoon'in programlama ekibi; GPS izlenen rotalar, ilgi noktası işaretleri ve fotoğrafçı desteğiyle 5 ada genelinde 12 rehberli tur rotası oluşturdu. Mykonos mülkü ayrıca “Sunset SUP at Little Venice”ı başlattı — yaz boyunca %95 kapasite oranıyla kişi başına 85 €'dan her seansı tükenen 2 saatlik rehberli akşam küreği.",
             },
             {
               title: 'Performans Sezon Değerlendirmesi ve Program Sürdürülebilirliği',
               detail:
-                "Mayıs–Eylül 2025 sezonu boyunca BlueWave'in birleşik filosu 5 konum genelinde 52.000 misafir kiralamasını destekledi (50.000 hedefin %4 üzerinde). Toplam ekipman maliyeti, Afarer'in 5 yıllık garanti süresine yayılan 198.000 $ oldu; önceki durumda her 18 ayda bir değiştirilen ekipmana yılda 165.000 $ harcanıyordu — yıllık %52 maliyet azalması. Su sporlarında misafir memnuniyeti tüm konumlarda 3,8/5'ten (karma tedarikçiler, 2025 öncesi) 4,6/5'e yükseldi. Dimitri, tek bir sezonda ekipman yatırımına karşı 4,7 kat getiri temsil eden 340.000 € premium program geliri (SUP yoga, rehberli turlar, gün batımı kürekleri) bildirdi. BlueWave, 2026 için Rodos ve Korfu'daki 2 ek konuma genişleyerek Afarer ile 3 yıllık bir yenileme imzaladı ve 80 tahta daha ekledi.",
+                "Mayıs–Eylül 2025 sezonu boyunca BlueWave'in birleşik filosu 5 konum genelinde 52.000 misafir kiralamasını destekledi (50.000 hedefin %4 üzerinde). Toplam ekipman maliyeti, OLagoon'in 5 yıllık garanti süresine yayılan 198.000 $ oldu; önceki durumda her 18 ayda bir değiştirilen ekipmana yılda 165.000 $ harcanıyordu — yıllık %52 maliyet azalması. Su sporlarında misafir memnuniyeti tüm konumlarda 3,8/5'ten (karma tedarikçiler, 2025 öncesi) 4,6/5'e yükseldi. Dimitri, tek bir sezonda ekipman yatırımına karşı 4,7 kat getiri temsil eden 340.000 € premium program geliri (SUP yoga, rehberli turlar, gün batımı kürekleri) bildirdi. BlueWave, 2026 için Rodos ve Korfu'daki 2 ek konuma genişleyerek OLagoon ile 3 yıllık bir yenileme imzaladı ve 80 tahta daha ekledi.",
             },
           ],
           results: [
@@ -770,8 +770,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Plaj Operatörleri Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Plaj Operatörleri Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Dayanıklılık',
@@ -808,22 +808,22 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Bir plaj kiralama işletmesi için kaç SUP tahtasıyla başlamalıyım?',
         answer:
-          "Afarer; küçük plaj işletmeleri için 10–20 tahtayla başlamayı, yerleşik kiralama işletmeleri için 30–50'ye ölçeklenmeyi ve büyük su sporları merkezleri için 50+ önerir. Filo planlaması, yeni başlayanlardan deneyimli kürekçilere kadar farklı müşteri tiplerine hizmet vermek için tahta boyutları ve konfigürasyonlarının bir karışımını içerir.",
+          "OLagoon; küçük plaj işletmeleri için 10–20 tahtayla başlamayı, yerleşik kiralama işletmeleri için 30–50'ye ölçeklenmeyi ve büyük su sporları merkezleri için 50+ önerir. Filo planlaması, yeni başlayanlardan deneyimli kürekçilere kadar farklı müşteri tiplerine hizmet vermek için tahta boyutları ve konfigürasyonlarının bir karışımını içerir.",
       },
       {
-        question: 'Afarer kiralama filoları için hangi yedek parçaları ve bakım desteğini sağlıyor?',
+        question: 'OLagoon kiralama filoları için hangi yedek parçaları ve bakım desteğini sağlıyor?',
         answer:
-          'Afarer; valfler, emniyet kordonları, kürekler, pompalar ve tamir malzemeleri dahil standartlaştırılmış bir yedek parça sistemi sağlar. Ayrıca ekipman duruş süresini en aza indirmek için günlük denetim, sezonluk bakım ve hızlı toparlanma prosedürlerine yönelik filo bakım planlama kılavuzları sunuyoruz.',
+          'OLagoon; valfler, emniyet kordonları, kürekler, pompalar ve tamir malzemeleri dahil standartlaştırılmış bir yedek parça sistemi sağlar. Ayrıca ekipman duruş süresini en aza indirmek için günlük denetim, sezonluk bakım ve hızlı toparlanma prosedürlerine yönelik filo bakım planlama kılavuzları sunuyoruz.',
       },
       {
         question: 'SUP tahtaları işletme logom ve markalamamla özelleştirilebilir mi?',
         answer:
-          'Evet, Afarer; logo baskısı, özel renkler ve kiralama tanımlama grafikleri dahil tam işletme markalamasını destekler. Bu, filonuzu bir pazarlama varlığına dönüştürür ve işletmenizin sosyal medya görünürlüğünü artıran fotoğraf fırsatları yaratır.',
+          'Evet, OLagoon; logo baskısı, özel renkler ve kiralama tanımlama grafikleri dahil tam işletme markalamasını destekler. Bu, filonuzu bir pazarlama varlığına dönüştürür ve işletmenizin sosyal medya görünürlüğünü artıran fotoğraf fırsatları yaratır.',
       },
       {
-        question: "Afarer'in ticari SUP tahtaları günlük kiralama kullanımı için ne kadar dayanıklı?",
+        question: "OLagoon'in ticari SUP tahtaları günlük kiralama kullanımı için ne kadar dayanıklı?",
         answer:
-          "Afarer'in ticari SUP tahtaları; güçlendirilmiş PVC, güçlü dikiş teknolojisi ve koruyucu dış katmanlarla yüksek frekanslı kiralama operasyonları için tasarlanmıştır. Doğru bakımla, ticari ortamlarda tüketici sınıfı tahtalardan önemli ölçüde daha uzun dayanır ve toplam sahip olma maliyetini düşürür.",
+          "OLagoon'in ticari SUP tahtaları; güçlendirilmiş PVC, güçlü dikiş teknolojisi ve koruyucu dış katmanlarla yüksek frekanslı kiralama operasyonları için tasarlanmıştır. Doğru bakımla, ticari ortamlarda tüketici sınıfı tahtalardan önemli ölçüde daha uzun dayanır ve toplam sahip olma maliyetini düşürür.",
       },
       {
         question: 'Bir SUP kiralama filosu için tipik yatırım getirisi nedir?',
@@ -832,7 +832,7 @@ const tr: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Afarer ile Plaj Su Aktivitesi İşletmenizi Kurun',
+      title: 'OLagoon ile Plaj Su Aktivitesi İşletmenizi Kurun',
       subtitle: 'Sadece bir kiralama hizmetinden fazlasını yaratın. Akılda kalıcı su deneyimleri yaratın.',
       primaryAction: {
         text: 'Ticari SUP Filo Projenizi Bugün Başlatın',
@@ -847,7 +847,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: "Kurumsal Etkinlikler için Özel Markalı SUP Board'lar | OEM Etkinlik Çözümleri | {SITE}",
       description:
-        "Afarer, kurumsal etkinlikler, ekip kurma aktiviteleri ve pazarlama kampanyaları için özel markalı SUP board'ları üretir. Tam logo özelleştirmesi, kurumsal renk eşleştirme, hızlı prototipleme ve toplu OEM üretimi.",
+        "OLagoon, kurumsal etkinlikler, ekip kurma aktiviteleri ve pazarlama kampanyaları için özel markalı SUP board'ları üretir. Tam logo özelleştirmesi, kurumsal renk eşleştirme, hızlı prototipleme ve toplu OEM üretimi.",
     },
     hero: {
       tagline: 'Kurumsal SUP Etkinlik Paketi™',
@@ -888,25 +888,25 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Eksiksiz Kurumsal Marka Özelleştirmesi',
           description:
-            'Afarer; Pantone referansları ve görsel kimlik gereksinimleriyle kurumsal renk eşleştirmesi yaparak geniş alanlı logo baskısını, tahta yüzeyi markalamayı, kürek özelleştirmesini ve aksesuar markalamayı destekler.',
+            'OLagoon; Pantone referansları ve görsel kimlik gereksinimleriyle kurumsal renk eşleştirmesi yaparak geniş alanlı logo baskısını, tahta yüzeyi markalamayı, kürek özelleştirmesini ve aksesuar markalamayı destekler.',
           features: ['Kurumsal Logo Uygulaması', 'Kurumsal Renk Eşleştirmesi', 'Özel Grafik Tasarımı'],
         },
         {
           title: 'Etkinliğe Özel SUP Ürün Geliştirme',
           description:
-            'Farklı etkinlikler farklı çözümler gerektirir. Afarer; büyük çalışan grupları için ekip oluşturma paketleri, pazarlama kampanyaları için marka aktivasyon paketleri ve lüks müşteri etkinlikleri için VIP deneyim paketleri sunar.',
+            'Farklı etkinlikler farklı çözümler gerektirir. OLagoon; büyük çalışan grupları için ekip oluşturma paketleri, pazarlama kampanyaları için marka aktivasyon paketleri ve lüks müşteri etkinlikleri için VIP deneyim paketleri sunar.',
           features: ['Ekip Oluşturma Paketi', 'Marka Aktivasyon Paketi', 'VIP Deneyim Paketi'],
         },
         {
           title: 'Hızlı Prototip ve Onay Süreci',
           description:
-            'Afarer; tasarım çizimlerinin incelenmesi ve grafik düzeltmeleriyle hızlı tasarım onayını, renk ve logo yerleşimi onayı için prototip geliştirmeyi ve etkinlik son tarihleriyle uyumlu üretim çizelgelemesini destekler.',
+            'OLagoon; tasarım çizimlerinin incelenmesi ve grafik düzeltmeleriyle hızlı tasarım onayını, renk ve logo yerleşimi onayı için prototip geliştirmeyi ve etkinlik son tarihleriyle uyumlu üretim çizelgelemesini destekler.',
           features: ['Hızlı Tasarım Onayı', 'Prototip Geliştirme', 'Üretim Çizelgeleme'],
         },
         {
           title: 'Toplu Özel Üretim Kapasitesi',
           description:
-            'Afarer; iç aktiviteler için 50–100 adetlik küçük etkinliklerden, marka aktivasyonları için 100–500 adetlik orta pazarlama projelerine ve ulusal etkinlikler için 500–1.000+ adetlik büyük kurumsal kampanyalara kadar kurumsal siparişleri destekler.',
+            'OLagoon; iç aktiviteler için 50–100 adetlik küçük etkinliklerden, marka aktivasyonları için 100–500 adetlik orta pazarlama projelerine ve ulusal etkinlikler için 500–1.000+ adetlik büyük kurumsal kampanyalara kadar kurumsal siparişleri destekler.',
           features: [
             'Küçük Kurumsal Etkinlikler (50–100 adet)',
             'Orta Pazarlama Projeleri (100–500 adet)',
@@ -916,7 +916,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Eksiksiz Etkinlik Ekipman Paketleri',
           description:
-            'Afarer; özel SUP tahtaları, ayarlanabilir kürekler, pompalar, emniyet kordonları, taşıma çantaları ve tamir kitlerinin yanı sıra isteğe bağlı markalı kürekler, etkinlik aksesuarları ve sergileme materyalleri dahil eksiksiz etkinlik çözümleri sunar.',
+            'OLagoon; özel SUP tahtaları, ayarlanabilir kürekler, pompalar, emniyet kordonları, taşıma çantaları ve tamir kitlerinin yanı sıra isteğe bağlı markalı kürekler, etkinlik aksesuarları ve sergileme materyalleri dahil eksiksiz etkinlik çözümleri sunar.',
           features: ['Standart Paket İçeriği', 'İsteğe Bağlı Özelleştirme', 'Personel Ekipmanı'],
         },
         {
@@ -928,13 +928,13 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Marka Projeleri için Kalite Kontrol',
           description:
-            'Afarer; malzeme ve baskı için üretim kalite denetimi, logo konumu ve renk tutarlılığı için markalama doğruluk kontrolü ile adet, paketleme ve aksesuarlar için teslimat denetimi sağlar.',
+            'OLagoon; malzeme ve baskı için üretim kalite denetimi, logo konumu ve renk tutarlılığı için markalama doğruluk kontrolü ile adet, paketleme ve aksesuarlar için teslimat denetimi sağlar.',
           features: ['Üretim Kalite Denetimi', 'Markalama Doğruluk Kontrolü', 'Teslimat Denetimi'],
         },
         {
           title: 'Küresel Etkinlik Teslimat Desteği',
           description:
-            'Çok uluslu şirketler için Afarer; konumlar arasında eşgüdümlü üretim, paketleme ve sevkiyat hazırlığıyla çok ülkeli projeleri, bölgesel etkinlikleri ve küresel kampanyaları destekler.',
+            'Çok uluslu şirketler için OLagoon; konumlar arasında eşgüdümlü üretim, paketleme ve sevkiyat hazırlığıyla çok ülkeli projeleri, bölgesel etkinlikleri ve küresel kampanyaları destekler.',
           features: ['Çok Ülkeli Projeler', 'Bölgesel Etkinlikler', 'Küresel Kampanyalar'],
         },
       ],
@@ -951,7 +951,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Marka Tasarımı Entegrasyonu',
           detail:
-            'Afarer, suda görsel etkiyi en üst düzeye çıkarmak için tam marka renk eşleştirmesi ve büyük logo yerleşimi içeren özel tahta grafikleri geliştirdi.',
+            'OLagoon, suda görsel etkiyi en üst düzeye çıkarmak için tam marka renk eşleştirmesi ve büyük logo yerleşimi içeren özel tahta grafikleri geliştirdi.',
         },
         {
           title: 'Prototip Onayı',
@@ -988,17 +988,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Program Konsepti ve Özel Ürün Mühendisliği',
               detail:
-                "Kasım 2024'te Klaus'un ekibi, konsepti değerlendirmek için boot Düsseldorf tekne fuarında Afarer'in Kurumsal Etkinlikler birimiyle bir araya geldi. Afarer; BMW i serisi renklerinde (Blue Ridge Mountain Metallic, Frozen Pure Grey) ve i7 iç döşemesiyle uyumlu örgü karbon fiber vurgularıyla özel bir 11'6″ touring tahtası önerdi. Afarer'in mühendisleri; aksiyon fotoğrafçılığı için entegre GoPro bağlantıları, BMW M esintili dikişlere sahip kaymaz güverte pedleri ve BMW rozetli özel valf kapakları içeren 3 prototip tahta üretti. BMW, özel tekerlekli arabalardan oluşan adanmış bir depolama ve taşıma sistemiyle board başına 895 €'dan 120 adet onayladı.",
+                "Kasım 2024'te Klaus'un ekibi, konsepti değerlendirmek için boot Düsseldorf tekne fuarında OLagoon'in Kurumsal Etkinlikler birimiyle bir araya geldi. OLagoon; BMW i serisi renklerinde (Blue Ridge Mountain Metallic, Frozen Pure Grey) ve i7 iç döşemesiyle uyumlu örgü karbon fiber vurgularıyla özel bir 11'6″ touring tahtası önerdi. OLagoon'in mühendisleri; aksiyon fotoğrafçılığı için entegre GoPro bağlantıları, BMW M esintili dikişlere sahip kaymaz güverte pedleri ve BMW rozetli özel valf kapakları içeren 3 prototip tahta üretti. BMW, özel tekerlekli arabalardan oluşan adanmış bir depolama ve taşıma sistemiyle board başına 895 €'dan 120 adet onayladı.",
             },
             {
               title: 'Marka Entegrasyonu ve Etkinlik Lojistiği Planlaması',
               detail:
-                "Afarer'in grafik ekibi; BMW i markalı, BMW i konfigüratörüne bağlanan QR kodları ve 8 dilde güvenlik talimatı grafikleri içeren tam sarğımlı UV kararlı çıkartmalar geliştirdi. Lojistik ekibi; mobil pompa istasyonları, pille çalışan şişirme cihazları ve su geçirmez soyunma kabinleriyle birlikte her biri 40 tahta gönderilen 3 bölgeye (Güney Avrupa, Orta Avrupa, İskandinav/Baltık) yönelik bir rotasyon sistemi tasarladı. BMW'nin etkinlik ekibi; Como Gölü (İtalya), St. Tropez (Fransa), Luzern Gölü (İsviçre), Garda Gölü (İtalya) ve Stockholm yakınlarındaki takımadalar dahil 18 mekân seçti; her mekân 2–3 günlük programlarda 300–600 misafir ağırladı.",
+                "OLagoon'in grafik ekibi; BMW i markalı, BMW i konfigüratörüne bağlanan QR kodları ve 8 dilde güvenlik talimatı grafikleri içeren tam sarğımlı UV kararlı çıkartmalar geliştirdi. Lojistik ekibi; mobil pompa istasyonları, pille çalışan şişirme cihazları ve su geçirmez soyunma kabinleriyle birlikte her biri 40 tahta gönderilen 3 bölgeye (Güney Avrupa, Orta Avrupa, İskandinav/Baltık) yönelik bir rotasyon sistemi tasarladı. BMW'nin etkinlik ekibi; Como Gölü (İtalya), St. Tropez (Fransa), Luzern Gölü (İsviçre), Garda Gölü (İtalya) ve Stockholm yakınlarındaki takımadalar dahil 18 mekân seçti; her mekân 2–3 günlük programlarda 300–600 misafir ağırladı.",
             },
             {
               title: 'Yerinde Aktivasyon ve Misafir Deneyimi Tasarımı',
               detail:
-                "Her etkinlikte, Afarer eğitmenlerinin liderliğindeki 90 dakikalık rehberli seanslarda 40 tahtanın sunulduğu bir “BMW i Paddle Experience” yer aldı. Misafirlere kişiselleştirilmiş BMW i markalı rash guard'lar ve su geçirmez telefon kılıfları verildi. Profesyonel fotoğrafçılar, tahtaların entegre kamera bağlantılarıyla her misafirin kürek çekme anını görüntüledi; fotoğraflar 2 saat içinde markalı bir mikro site üzerinden düzenlenerek teslim edildi. Aktivasyon, manzaralı kıyı yollarında BMW i7 test sürüşleriyle eşleştirilerek kara ve suyu birleştiren bir marka deneyimi oluşturdu. İlk 10 etkinlikte misafir memnuniyeti 4,8/5 oldu ve BMW, katılımcıların %23'ünün bayiden takip test sürüşü talep ettiğini bildirdi.",
+                "Her etkinlikte, OLagoon eğitmenlerinin liderliğindeki 90 dakikalık rehberli seanslarda 40 tahtanın sunulduğu bir “BMW i Paddle Experience” yer aldı. Misafirlere kişiselleştirilmiş BMW i markalı rash guard'lar ve su geçirmez telefon kılıfları verildi. Profesyonel fotoğrafçılar, tahtaların entegre kamera bağlantılarıyla her misafirin kürek çekme anını görüntüledi; fotoğraflar 2 saat içinde markalı bir mikro site üzerinden düzenlenerek teslim edildi. Aktivasyon, manzaralı kıyı yollarında BMW i7 test sürüşleriyle eşleştirilerek kara ve suyu birleştiren bir marka deneyimi oluşturdu. İlk 10 etkinlikte misafir memnuniyeti 4,8/5 oldu ve BMW, katılımcıların %23'ünün bayiden takip test sürüşü talep ettiğini bildirdi.",
             },
             {
               title: 'Performans Değerlendirmesi ve Program Genişletmesi',
@@ -1025,17 +1025,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Program Tasarımı ve Çok Konumlu Lojistik Planlaması',
               detail:
-                "Dr. Sharma'nın ekibi, özel bir kurumsal program için Şubat 2025'te Afarer ile çalışmaya başladı. Afarer; 8–10 mühendislikten oluşan ekiplerin, Google Cloud'ın dağıtım hattı aşamalarını temsil eden SUP parkurlarında ilerlediği “Paddle into Production” temasını önerdi. Afarer; Google Cloud markası, ekip renk kodlaması ve mobil cihazları tutan su geçirmez teknik güvertelerle 80 tahtayı özelleştirdi. Lojistik plan; Sunnyvale genel merkez, Seattle, New York, Austin, Chicago ve Boulder dahil 6 konumu kapsıyordu ve etkinlikler Haziran–Ağustos 2025 boyunca 2 haftada bir kademeli olarak düzenlendi. Afarer; 1.200 katılımcı için 80 tahta, 24 eğitmen, tam lojistik ve markalı ekipman karşılığında 320.000 € taahhüt etti.",
+                "Dr. Sharma'nın ekibi, özel bir kurumsal program için Şubat 2025'te OLagoon ile çalışmaya başladı. OLagoon; 8–10 mühendislikten oluşan ekiplerin, Google Cloud'ın dağıtım hattı aşamalarını temsil eden SUP parkurlarında ilerlediği “Paddle into Production” temasını önerdi. OLagoon; Google Cloud markası, ekip renk kodlaması ve mobil cihazları tutan su geçirmez teknik güvertelerle 80 tahtayı özelleştirdi. Lojistik plan; Sunnyvale genel merkez, Seattle, New York, Austin, Chicago ve Boulder dahil 6 konumu kapsıyordu ve etkinlikler Haziran–Ağustos 2025 boyunca 2 haftada bir kademeli olarak düzenlendi. OLagoon; 1.200 katılımcı için 80 tahta, 24 eğitmen, tam lojistik ve markalı ekipman karşılığında 320.000 € taahhüt etti.",
             },
             {
               title: 'Kapsayıcı Aktivite Geliştirme ve Güvenlik Çerçevesi',
               detail:
-                "Afarer'in program ekibi 3 yetkinlik parkuru oluşturdu: “Beginner Buoy” (temel kürek çekme ve denge oyunları), “Production Racer” (ekip bayrak yarışları) ve “Cloud Cluster” (eşgüdüm gerektiren grup oluşum görevleri). Her parkur; “deploy a container” (kürek çekerken tahtada bir topu dengelemek) ve “scale to zero” (herkesin aynı anda oturması gerekir) gibi Google Cloud temalı görevler içeriyordu. Afarer tüm konumlarda 24 sertifikalı SUP eğitmeni işe aldı ve zorunlu can yelekleri, eş sistemi, yüzme testleri ile kurtarma tahtalı suda gözcüler dahil kapsamlı bir güvenlik protokolü geliştirdi.",
+                "OLagoon'in program ekibi 3 yetkinlik parkuru oluşturdu: “Beginner Buoy” (temel kürek çekme ve denge oyunları), “Production Racer” (ekip bayrak yarışları) ve “Cloud Cluster” (eşgüdüm gerektiren grup oluşum görevleri). Her parkur; “deploy a container” (kürek çekerken tahtada bir topu dengelemek) ve “scale to zero” (herkesin aynı anda oturması gerekir) gibi Google Cloud temalı görevler içeriyordu. OLagoon tüm konumlarda 24 sertifikalı SUP eğitmeni işe aldı ve zorunlu can yelekleri, eş sistemi, yüzme testleri ile kurtarma tahtalı suda gözcüler dahil kapsamlı bir güvenlik protokolü geliştirdi.",
             },
             {
               title: 'Onboarding, Markalı Hediyeler ve Etkinlik Uygulaması',
               detail:
-                "Her katılımcıya; Google Cloud x Afarer rash guard'ı, SPF dudak balmı, kuru çanta ve etkinlik kitapçığı içeren markalı bir karşılama kiti verildi. 2 saatlik seanslar; 30 dakika karada eğitim, 75 dakika suda aktivite ve drone ile ekip fotoğrafı çekilen 15 dakikalık soğuma bölümünü içeriyordu. Afarer'in etkinlik ekibi her mekânda kurulum, toplama ve temizliğin tamamını üstlendi — Google çalışanlarının yalnızca gelmesi gerekiyordu. 12 Haziran 2025'te Mountain View'daki Shoreline Gölü'ndeki ilk etkinlik, ekiplerin eşgüdüm ve hıza dayalı “Highest Availability” ödülü için yarıştığı %97 katılımla gerçekleşti.",
+                "Her katılımcıya; Google Cloud x OLagoon rash guard'ı, SPF dudak balmı, kuru çanta ve etkinlik kitapçığı içeren markalı bir karşılama kiti verildi. 2 saatlik seanslar; 30 dakika karada eğitim, 75 dakika suda aktivite ve drone ile ekip fotoğrafı çekilen 15 dakikalık soğuma bölümünü içeriyordu. OLagoon'in etkinlik ekibi her mekânda kurulum, toplama ve temizliğin tamamını üstlendi — Google çalışanlarının yalnızca gelmesi gerekiyordu. 12 Haziran 2025'te Mountain View'daki Shoreline Gölü'ndeki ilk etkinlik, ekiplerin eşgüdüm ve hıza dayalı “Highest Availability” ödülü için yarıştığı %97 katılımla gerçekleşti.",
             },
             {
               title: 'Sonuç Analizi ve İkinci Yıl Genişletmesi',
@@ -1052,8 +1052,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Şirketler Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Şirketler Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Marka Sunumu',
@@ -1063,7 +1063,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Hızlı Proje Yürütme',
           description:
-            "Son tarihler önemlidir. Afarer'in kolaylaştırılmış süreci, konseptten teslimata sıkı etkinlik takvimleri içinde ilerler.",
+            "Son tarihler önemlidir. OLagoon'in kolaylaştırılmış süreci, konseptten teslimata sıkı etkinlik takvimleri içinde ilerler.",
         },
         {
           title: 'Özel Üretim',
@@ -1073,7 +1073,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Güvenilir Teslimat',
           description:
-            'Etkinlikler bekleyemez. Afarer, sabit etkinlik tarihlerini karşılamak için üretim çizelgelemesi ve sevkiyat koordinasyonunu garanti eder.',
+            'Etkinlikler bekleyemez. OLagoon, sabit etkinlik tarihlerini karşılamak için üretim çizelgelemesi ve sevkiyat koordinasyonunu garanti eder.',
         },
         {
           title: 'Görsel Etki',
@@ -1089,36 +1089,36 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'SUP tahtalarında tam kurumsal marka renkleriyle (Pantone) eşleşme sağlayabilir misiniz?',
         answer:
-          'Evet, Afarer; hassas renk çoğaltımıyla Pantone renk eşleştirmesini ve kurumsal görsel kimlik gereksinimlerini destekler. Nihai ürünün marka standartlarınıza tam olarak uymasını sağlamak için seri üretimden önce renk onayı için prototip örnekleri sunarız.',
+          'Evet, OLagoon; hassas renk çoğaltımıyla Pantone renk eşleştirmesini ve kurumsal görsel kimlik gereksinimlerini destekler. Nihai ürünün marka standartlarınıza tam olarak uymasını sağlamak için seri üretimden önce renk onayı için prototip örnekleri sunarız.',
       },
       {
         question: 'Markalı özel SUP tahtaları için minimum sipariş adedi nedir?',
         answer:
-          'Afarer farklı proje ölçeklerine uyum sağlar. Küçük kurumsal etkinlikler ve iç aktiviteler 50–100 adetle başlar. Orta ölçekli pazarlama kampanyaları 100–500 adet aralığındadır; büyük ulusal veya çok konumlu etkinlikler 500–1.000+ adede kadar ölçeklenebilir.',
+          'OLagoon farklı proje ölçeklerine uyum sağlar. Küçük kurumsal etkinlikler ve iç aktiviteler 50–100 adetle başlar. Orta ölçekli pazarlama kampanyaları 100–500 adet aralığındadır; büyük ulusal veya çok konumlu etkinlikler 500–1.000+ adede kadar ölçeklenebilir.',
       },
       {
         question: 'Prototipleme ve onay süreci ne kadar sürer?',
         answer:
-          'Prototipleme süreci hız için tasarlanmıştır. Afarer; hızlı tasarım onayı, çizim incelemesi ve prototip geliştirmeyi genellikle 1–2 hafta içinde sağlar. Bu, etkinlik son tarihlerinden önce onay ve seri üretim için yeterli zaman tanır.',
+          'Prototipleme süreci hız için tasarlanmıştır. OLagoon; hızlı tasarım onayı, çizim incelemesi ve prototip geliştirmeyi genellikle 1–2 hafta içinde sağlar. Bu, etkinlik son tarihlerinden önce onay ve seri üretim için yeterli zaman tanır.',
       },
       {
         question: 'Küresel kampanya etkinlikleri için birden çok konuma teslimat yapabilir misiniz?',
         answer:
-          'Evet, Afarer çok ülkeli ve çok konumlu etkinlik kampanyalarını destekler. Tüm bölgesel veya küresel etkinlik konumlarında tutarlı teslimatı güvence altına almak için üretimi, paketlemeyi ve sevkiyat hazırlığını eşgüdümleriz.',
+          'Evet, OLagoon çok ülkeli ve çok konumlu etkinlik kampanyalarını destekler. Tüm bölgesel veya küresel etkinlik konumlarında tutarlı teslimatı güvence altına almak için üretimi, paketlemeyi ve sevkiyat hazırlığını eşgüdümleriz.',
       },
       {
         question: 'Logo baskısının ötesinde hangi özelleştirme seçenekleri mevcut?',
         answer:
-          'Logo baskısının ötesinde Afarer; tam tahta yüzeyi markalama, kürek özelleştirme, Pantone referanslı kurumsal renk eşleştirme, etkinlik temalı grafik tasarımları, sınırlı sayı sanat çalışmaları ve kürekler, pompalar, çantalar dahil markalı aksesuarlar sunar.',
+          'Logo baskısının ötesinde OLagoon; tam tahta yüzeyi markalama, kürek özelleştirme, Pantone referanslı kurumsal renk eşleştirme, etkinlik temalı grafik tasarımları, sınırlı sayı sanat çalışmaları ve kürekler, pompalar, çantalar dahil markalı aksesuarlar sunar.',
       },
       {
         question: 'Aksesuarlar ve kürekler dahil eksiksiz etkinlik paketleri sunuyor musunuz?',
         answer:
-          'Evet, Afarer; özel SUP tahtaları, ayarlanabilir kürekler, pompalar, emniyet kordonları, taşıma çantaları ve tamir kitleri dahil eksiksiz etkinlik ekipman paketleri sunar. İsteğe bağlı eklemeler arasında markalı kürekler, etkinlik aksesuarları, sergileme materyalleri ve personel ekipmanı yer alır.',
+          'Evet, OLagoon; özel SUP tahtaları, ayarlanabilir kürekler, pompalar, emniyet kordonları, taşıma çantaları ve tamir kitleri dahil eksiksiz etkinlik ekipman paketleri sunar. İsteğe bağlı eklemeler arasında markalı kürekler, etkinlik aksesuarları, sergileme materyalleri ve personel ekipmanı yer alır.',
       },
     ],
     cta: {
-      title: 'Afarer ile Kurumsal Su Deneyiminizi Yaratın',
+      title: 'OLagoon ile Kurumsal Su Deneyiminizi Yaratın',
       subtitle: 'Markanız hatırlanmayı hak eder.',
       primaryAction: {
         text: 'Kurumsal SUP Projenizi Bugün Başlatın',
@@ -1133,15 +1133,15 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: "Balıkçılık SUP Üreticisi | Özel Şişirilebilir Balıkçılık Paddle Board'ları | {SITE}",
       description:
-        'Afarer, balıkçılık ekipmanı markalarının yüksek stabil tasarımlar, olta tutucu sistemler, soğutucu bağlantıları, D-ring aksesuarlar ve private label üretim çözümleriyle özel balıkçılık SUP ürünleri oluşturmasına yardımcı olur.',
+        'OLagoon, balıkçılık ekipmanı markalarının yüksek stabil tasarımlar, olta tutucu sistemler, soğutucu bağlantıları, D-ring aksesuarlar ve private label üretim çözümleriyle özel balıkçılık SUP ürünleri oluşturmasına yardımcı olur.',
     },
     hero: {
       tagline: 'Balıkçılık SUP Markanızı Yaratın™',
       title: 'Balıkçılık Ekipmanı Markaları için Özel Balıkçılık SUP İmalatı',
       subtitle:
-        'Afarer, balıkçılık ekipmanı markalarının yüksek stabilite tasarımları, kamış tutucu sistemleri, soğutucu montajları, D-halka aksesuarları ve private label imalat çözümleriyle özel Balıkçılık SUP ürünleri yaratmasına yardımcı olur.',
+        'OLagoon, balıkçılık ekipmanı markalarının yüksek stabilite tasarımları, kamış tutucu sistemleri, soğutucu montajları, D-halka aksesuarları ve private label imalat çözümleriyle özel Balıkçılık SUP ürünleri yaratmasına yardımcı olur.',
       image: {
-        alt: 'Afarer özel SUP tahtaları açıklaması',
+        alt: 'OLagoon özel SUP tahtaları açıklaması',
       },
     },
     challenge: {
@@ -1244,7 +1244,7 @@ const tr: Record<string, SolutionOverride> = {
       customer:
         'Deneyimli balıkçılardan oluşan sadık bir topluluğa balıkçılık kamışları, oltalık sandıklar ve outdoor balıkçılık aksesuarları satan Kuzey Amerikalı Balıkçılık Ekipmanı Markası.',
       steps: [
-        'Afarer, hedef kullanıcıları analiz etti ve ürün konumlandırmasını markanın itibarıyla uyumlu şekilde “Ciddi Balıkçılar için Profesyonel Şişirilebilir Balıkçılık Platformu” olarak tanımladı.',
+        'OLagoon, hedef kullanıcıları analiz etti ve ürün konumlandırmasını markanın itibarıyla uyumlu şekilde “Ciddi Balıkçılar için Profesyonel Şişirilebilir Balıkçılık Platformu” olarak tanımladı.',
         "Ekstra geniş ayakta durma platformu, yüksek yük kapasitesi, takviyeli Drop Stitch yapısı, birden fazla D-halka sistemi ve kamış tutucu uyumluluğuyla 11' Balıkçılık SUP Modeli oluşturuldu.",
         'Deneyimli balıkçıların ilgisini çeken balıkçılık odaklı grafikler, outdoor renk sistemi ve profesyonel ambalaj geliştirildi.',
         'Mevcut balıkçılık müşterileri, e-ticaret mağazası ve outdoor bayi ağı üzerinden dağıtılan 500 adetle lansman yapıldı.',
@@ -1269,22 +1269,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Profesyonel Balıkçılarla Birlikte Tasarım ve Ergonomik Analiz',
               detail:
-                "Afarer, Mart 2023'te 10 günlük bir birlikte tasarım atölyesi için 3 kişilik bir ürün geliştirme ekibini Göteborg'a gönderdi. Ekip, her biri 15+ yıl balıkçılık SUP deneyimine sahip 8 profesyonel ve yarı profesyonel balıkçıyla (İsveç spor balıkçılığı şampiyonu Lars Nilsson dahil) çalıştı. Ekip, optimal ayakta durma pozisyonlarını tespit etmek için prototip tahtalarda atış ve sarım hareketlerinin hareket yakalama analizini gerçekleştirdi. Temel bulgular: ideal kamış tutucu açısı dikeyden 22 dereceydi (rakip ürünlerde 15 dereceye karşı), oltalık depolama alanı kürekçinin doğal erişim menzilinin 40 cm'si içinde olmalıydı ve tahta, 30 km/sa rüzgâr koşullarında stabil ayakta durma için asgari 34″ genişlikte olmalıydı. Atölye, 47 spesifik tasarım gereksinimi üretti; bunların 42'si nihai tasarıma dahil edildi.",
+                "OLagoon, Mart 2023'te 10 günlük bir birlikte tasarım atölyesi için 3 kişilik bir ürün geliştirme ekibini Göteborg'a gönderdi. Ekip, her biri 15+ yıl balıkçılık SUP deneyimine sahip 8 profesyonel ve yarı profesyonel balıkçıyla (İsveç spor balıkçılığı şampiyonu Lars Nilsson dahil) çalıştı. Ekip, optimal ayakta durma pozisyonlarını tespit etmek için prototip tahtalarda atış ve sarım hareketlerinin hareket yakalama analizini gerçekleştirdi. Temel bulgular: ideal kamış tutucu açısı dikeyden 22 dereceydi (rakip ürünlerde 15 dereceye karşı), oltalık depolama alanı kürekçinin doğal erişim menzilinin 40 cm'si içinde olmalıydı ve tahta, 30 km/sa rüzgâr koşullarında stabil ayakta durma için asgari 34″ genişlikte olmalıydı. Atölye, 47 spesifik tasarım gereksinimi üretti; bunların 42'si nihai tasarıma dahil edildi.",
             },
             {
               title: 'Adım 2 — Entegre Balıkçılık Sistemi Mühendisliği ve Prototip Testi',
               detail:
-                "Afarer'in endüstriyel tasarımcıları modüler bir “Fishing Deck” sistemi geliştirdi: tahtanın drop-stitch çekirdeğine kalıplanan 12 paslanmaz çelik gömme üzerinden monte edilen, çıkarılabilir bir alüminyum ray sistemi (1,2 m uzunluk). Ray, 4 kamış tutucuyu (ayarlanabilir açı, hızlı bağlantı), büyük bir oltalık sandığı (32 L, su geçirmez IP67 sınıfı, çıkarılabilir), bir kepçe yuvası ve termoslar için bir bardaklık (İskandinav pazarı gereksinimi) kabul ediyordu. Mayıs 2023'te üç prototip tahta üretildi ve 6 İsveç gölü genelinde (Vänern, Vättern, Mälaren ve Småland'daki 3 küçük göl) 4 hafta boyunca test edildi. Test programı 340 saatlik aktif balıkçılık süresi kaydetti. Bir prototip, 26°C havada 3 gün sürekli güneş maruziyetinden sonra hafif bir eğilme geliştirdi — Afarer tüm üretim adetleri için güverte PVC kalınlığını 0,9 mm'den 1,2 mm'ye çıkardı.",
+                "OLagoon'in endüstriyel tasarımcıları modüler bir “Fishing Deck” sistemi geliştirdi: tahtanın drop-stitch çekirdeğine kalıplanan 12 paslanmaz çelik gömme üzerinden monte edilen, çıkarılabilir bir alüminyum ray sistemi (1,2 m uzunluk). Ray, 4 kamış tutucuyu (ayarlanabilir açı, hızlı bağlantı), büyük bir oltalık sandığı (32 L, su geçirmez IP67 sınıfı, çıkarılabilir), bir kepçe yuvası ve termoslar için bir bardaklık (İskandinav pazarı gereksinimi) kabul ediyordu. Mayıs 2023'te üç prototip tahta üretildi ve 6 İsveç gölü genelinde (Vänern, Vättern, Mälaren ve Småland'daki 3 küçük göl) 4 hafta boyunca test edildi. Test programı 340 saatlik aktif balıkçılık süresi kaydetti. Bir prototip, 26°C havada 3 gün sürekli güneş maruziyetinden sonra hafif bir eğilme geliştirdi — OLagoon tüm üretim adetleri için güverte PVC kalınlığını 0,9 mm'den 1,2 mm'ye çıkardı.",
             },
             {
               title: 'Adım 3 — İskandinav Perakende Ambalajı, Katalog Entegrasyonu ve Ön Satış',
               detail:
-                "Afarer, iki dilli (İsveççe/Fince) etiketleme ve “Balıkçılık SUP Başlangıç Seti” iç düzenine sahip sağlam bir ambalaj tasarladı: tahta, 4 kamış tutuculu balıkçılık rayı, oltalık sandığı, 3 parçalı kürek, çift yönlü pompa, sırt çantası ve İsveççe, Norveççe ve Fince 32 sayfalık “SUP'tan Balıkçılık” kılavuzu. Nordic Angler, Stockholm'deki İsveç Spor Balıkçılığı Fuarı'nda (Ağustos 2023) ön satışı başlattı ve 860 adet için 34 perakendeciden kesin siparişler güvence altına aldı. Erik, Afarer ile 12 aylık münhasır İskandinav dağıtım anlaşması müzakere etti; bu, o dönem boyunca rakip private label balıkçılık SUP'larının Nordic Angler'ın rakiplerine satılmamasını güvence altına aldı.",
+                "OLagoon, iki dilli (İsveççe/Fince) etiketleme ve “Balıkçılık SUP Başlangıç Seti” iç düzenine sahip sağlam bir ambalaj tasarladı: tahta, 4 kamış tutuculu balıkçılık rayı, oltalık sandığı, 3 parçalı kürek, çift yönlü pompa, sırt çantası ve İsveççe, Norveççe ve Fince 32 sayfalık “SUP'tan Balıkçılık” kılavuzu. Nordic Angler, Stockholm'deki İsveç Spor Balıkçılığı Fuarı'nda (Ağustos 2023) ön satışı başlattı ve 860 adet için 34 perakendeciden kesin siparişler güvence altına aldı. Erik, OLagoon ile 12 aylık münhasır İskandinav dağıtım anlaşması müzakere etti; bu, o dönem boyunca rakip private label balıkçılık SUP'larının Nordic Angler'ın rakiplerine satılmamasını güvence altına aldı.",
             },
             {
               title: 'Adım 4 — Üretim, Mevsimsel Zamanlama ve İlk Yıl Satış Hızı',
               detail:
-                "1.200 adetlik üretim (700 “Lake Angler”, 500 “Expedition Angler”), Eylül–Kasım 2023 arasında Afarer'in Zhongshan tesisinde gerçekleşti. Sevkiyat 18 Kasım 2023'te Ningbo'dan ayrıldı ve 18 Aralık 2023'te Göteborg Limanı'na vardı — perakendecilerin bahar satın alımları için ideal zamanlama. Nordic Angler, 1 Mart 2024'e kadar 760 adeti perakende raflarına dağıttı; kalan 440 adet doğrudan gerçekleştirme için kendi deposundaydı. 31 Mayıs 2024'e kadar 980 adet satıldı (ilk partinin %81,7'si). “Lake Angler” tahtası 90 gün içinde XXL İsveç'te en çok satan balıkçılık SUP'ı oldu. Erik, Haziran 2024'te 3 tasarım iyileştirmesiyle 1.800 adetlik bir yeniden sipariş verdi: daha yastıklamalı bir taşıma çantası, aletsiz ray ayar düğmeleri ve bir GPS izleyici montaj cebi.",
+                "1.200 adetlik üretim (700 “Lake Angler”, 500 “Expedition Angler”), Eylül–Kasım 2023 arasında OLagoon'in Zhongshan tesisinde gerçekleşti. Sevkiyat 18 Kasım 2023'te Ningbo'dan ayrıldı ve 18 Aralık 2023'te Göteborg Limanı'na vardı — perakendecilerin bahar satın alımları için ideal zamanlama. Nordic Angler, 1 Mart 2024'e kadar 760 adeti perakende raflarına dağıttı; kalan 440 adet doğrudan gerçekleştirme için kendi deposundaydı. 31 Mayıs 2024'e kadar 980 adet satıldı (ilk partinin %81,7'si). “Lake Angler” tahtası 90 gün içinde XXL İsveç'te en çok satan balıkçılık SUP'ı oldu. Erik, Haziran 2024'te 3 tasarım iyileştirmesiyle 1.800 adetlik bir yeniden sipariş verdi: daha yastıklamalı bir taşıma çantası, aletsiz ray ayar düğmeleri ve bir GPS izleyici montaj cebi.",
             },
           ],
           results: [
@@ -1306,22 +1306,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Rehber Odaklı Ürün Şartnamesi ve Müşteri Geri Bildirimi Analizi',
               detail:
-                "Afarer'in ürün ekibi, birleştirilmiş bir şartname oluşturmak için Mart 2023'te ABD'de bulunan 14 balıkçılık rehberiyle (Teksas, Florida, Michigan ve Oregon'dan) görüşmeler yaptı. En çok talep edilen 3 özellik şunlardı: (1) daha iyi görünürlük ve geri atış mesafesi için pruvada yükseltilmiş bir atış platformu (8″ yükselme), (2) trolling motor bağlantısı için sessiz bir montaj sistemi (asgari 55 lb itki, kıç montajlı) ve (3) “yak-attack” uyumlu bir ekipman rayı sistemi. Dwayne ayrıca iki balıkçıyı (rehber ve müşteri) taşımak için 450 lbs azami ağırlık kapasitesinde ısrar etti. Ortaya çıkan şartname 18 sayfaydı; Afarer'in mühendislik ekibinden, tahtanın orta açıklıkta 250 lbs'lik bir nokta yükünü 1,5″'den az sehimle destekleyebileceğini gösteren yapısal bir Sonlu Elemanlar Analizi (FEA) raporu dahildi.",
+                "OLagoon'in ürün ekibi, birleştirilmiş bir şartname oluşturmak için Mart 2023'te ABD'de bulunan 14 balıkçılık rehberiyle (Teksas, Florida, Michigan ve Oregon'dan) görüşmeler yaptı. En çok talep edilen 3 özellik şunlardı: (1) daha iyi görünürlük ve geri atış mesafesi için pruvada yükseltilmiş bir atış platformu (8″ yükselme), (2) trolling motor bağlantısı için sessiz bir montaj sistemi (asgari 55 lb itki, kıç montajlı) ve (3) “yak-attack” uyumlu bir ekipman rayı sistemi. Dwayne ayrıca iki balıkçıyı (rehber ve müşteri) taşımak için 450 lbs azami ağırlık kapasitesinde ısrar etti. Ortaya çıkan şartname 18 sayfaydı; OLagoon'in mühendislik ekibinden, tahtanın orta açıklıkta 250 lbs'lik bir nokta yükünü 1,5″'den az sehimle destekleyebileceğini gösteren yapısal bir Sonlu Elemanlar Analizi (FEA) raporu dahildi.",
             },
             {
               title: 'Adım 2 — Prototipleme, Rehber Filosu Testi ve Yineleme Döngüsü',
               detail:
-                "Afarer, Mayıs 2023'te 4 prototip “Guide Pro” tahtası üretti. Dwayne, bunları 6 hafta boyunca (Haziran–Temmuz 2023) 54 müşterinin katıldığı 22 rehberli turda özel olarak kullandı. Her tur, yazılı müşteri geri bildirimi ve video görüntüleriyle belgelendi. Temel bulgular: yükseltilmiş atış platformu iyi karşılandı (5 üzerinden 4,8 puan), ancak müşteriler ilk ekipman rayı yerleşimini fazla önde buldu — Afarer onu 6″ geriye taşıdı. Sessiz trolling motor montajı çalıştı ancak ağırlığı (9 lbs) tahtanın dengesini kaydırdı — Afarer onu 5,2 lbs ağırlığında 2 parçalı bir alüminyum braket olarak yeniden tasarladı. En yaygın müşteri yorumu: “İlk denememde ayakta durup atış yapacak kadar stabil hissettim.” 54 müşteri turundan sonra hiçbir tahtada yapısal sorun görülmedi. Dwayne Ağustos 2023'te nihai onayı verdi.",
+                "OLagoon, Mayıs 2023'te 4 prototip “Guide Pro” tahtası üretti. Dwayne, bunları 6 hafta boyunca (Haziran–Temmuz 2023) 54 müşterinin katıldığı 22 rehberli turda özel olarak kullandı. Her tur, yazılı müşteri geri bildirimi ve video görüntüleriyle belgelendi. Temel bulgular: yükseltilmiş atış platformu iyi karşılandı (5 üzerinden 4,8 puan), ancak müşteriler ilk ekipman rayı yerleşimini fazla önde buldu — OLagoon onu 6″ geriye taşıdı. Sessiz trolling motor montajı çalıştı ancak ağırlığı (9 lbs) tahtanın dengesini kaydırdı — OLagoon onu 5,2 lbs ağırlığında 2 parçalı bir alüminyum braket olarak yeniden tasarladı. En yaygın müşteri yorumu: “İlk denememde ayakta durup atış yapacak kadar stabil hissettim.” 54 müşteri turundan sonra hiçbir tahtada yapısal sorun görülmedi. Dwayne Ağustos 2023'te nihai onayı verdi.",
             },
             {
               title: 'Adım 3 — Marka Lansmanı, DTC Web Sitesi ve Rehber Ortaklık Programı',
               detail:
-                "Texas Tailwaters, 1 Kasım 2023'te Afarer'in e-ticaret ekibi tarafından kurulan bir Shopify DTC sitesiyle lansman edildi. Sitede 8 ürün videosu, Travis Gölü'nde çekilmiş 34 yaşam tarzı görseli (drone görüntüleri dahil) ve ayrıntılı “Rehber Notları” (her tahta için Dwayne'in kişisel ipuçları) yer alıyordu. Afarer, kademeli bir rehber ortaklık programı uyguladı: rehberler doğrudan yönlendirmelerde %15 komisyon, 10 satış yönlendirdikten sonra ücretsiz bir demo tahtası ve özel bir Facebook grubuna münhasır erişim aldı (Mart 2024'e kadar 42 rehber üye). Lansman kampanyası, aylık 3.500 $ bütçeli ve “fishing SUP”, “SUP fishing” ile “guide paddleboard” terimlerini hedefleyen bir Google Ads stratejisi içeriyordu. Dwayne'in kendi Instagram içeriği önemli trafik oluşturdu — “Suda Bir Gün” Reels'leri ortalama 12.000 görüntüleme aldı.",
+                "Texas Tailwaters, 1 Kasım 2023'te OLagoon'in e-ticaret ekibi tarafından kurulan bir Shopify DTC sitesiyle lansman edildi. Sitede 8 ürün videosu, Travis Gölü'nde çekilmiş 34 yaşam tarzı görseli (drone görüntüleri dahil) ve ayrıntılı “Rehber Notları” (her tahta için Dwayne'in kişisel ipuçları) yer alıyordu. OLagoon, kademeli bir rehber ortaklık programı uyguladı: rehberler doğrudan yönlendirmelerde %15 komisyon, 10 satış yönlendirdikten sonra ücretsiz bir demo tahtası ve özel bir Facebook grubuna münhasır erişim aldı (Mart 2024'e kadar 42 rehber üye). Lansman kampanyası, aylık 3.500 $ bütçeli ve “fishing SUP”, “SUP fishing” ile “guide paddleboard” terimlerini hedefleyen bir Google Ads stratejisi içeriyordu. Dwayne'in kendi Instagram içeriği önemli trafik oluşturdu — “Suda Bir Gün” Reels'leri ortalama 12.000 görüntüleme aldı.",
             },
             {
               title: 'Adım 4 — Üretim Gerçekleştirme, Müşteri Desteği ve İkinci Yıl Ölçekleme',
               detail:
-                "450 adetlik ilk üretim partisi (300 “Guide Pro”, 150 “Expedition Elite”) 15 Ekim 2023'te Afarer'in fabrikasından sevk edildi ve 22 Kasım 2023'te Houston'daki Dwayne'in 3PL ortağına (ShipBob tesisi) vardı. Dwayne, lansmandan önce rehber ağı üzerinden 87 adeti ön sattı. 31 Mart 2024'e kadar 334 adet satıldı (stoğun %74,2'si). Afarer'in müşteri destek ekibi tüm garanti talepleriyle ilgilendi (6 bildirilen sorun: 3 valf çekirdek kaçağı, 2 fin kutusu gevşemesi, 1 güverte pedi kabarcığı) — tümü 48 saat içinde çözüldü. Dwayne, hacim büyüdükçe Nisan 2024'te yarı zamanlı bir müşteri hizmetleri koordinatörü işe aldı. Mayıs 2024'te 800 adetlik ikinci üretim partisi sipariş edildi ve iki yeni perakendeciye genişleme yapıldı: Austin Kayak ve Fishing Tackle Unlimited (ikisi de Teksas'ta).",
+                "450 adetlik ilk üretim partisi (300 “Guide Pro”, 150 “Expedition Elite”) 15 Ekim 2023'te OLagoon'in fabrikasından sevk edildi ve 22 Kasım 2023'te Houston'daki Dwayne'in 3PL ortağına (ShipBob tesisi) vardı. Dwayne, lansmandan önce rehber ağı üzerinden 87 adeti ön sattı. 31 Mart 2024'e kadar 334 adet satıldı (stoğun %74,2'si). OLagoon'in müşteri destek ekibi tüm garanti talepleriyle ilgilendi (6 bildirilen sorun: 3 valf çekirdek kaçağı, 2 fin kutusu gevşemesi, 1 güverte pedi kabarcığı) — tümü 48 saat içinde çözüldü. Dwayne, hacim büyüdükçe Nisan 2024'te yarı zamanlı bir müşteri hizmetleri koordinatörü işe aldı. Mayıs 2024'te 800 adetlik ikinci üretim partisi sipariş edildi ve iki yeni perakendeciye genişleme yapıldı: Austin Kayak ve Fishing Tackle Unlimited (ikisi de Teksas'ta).",
             },
           ],
           results: [
@@ -1333,8 +1333,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Neden Afarer',
+    whyOLagoon: {
+      title: 'Neden OLagoon',
       items: [
         {
           title: 'Balıkçı İhtiyaçları',
@@ -1370,7 +1370,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: "SUP'a kamış tutucu ve soğutucu montajı ekleyebilir miyim?",
         answer:
-          'Evet. Afarer, kamış tutucuları, soğutucu montaj alanları, kamera montajları ve D-halka bağlama noktaları dahil balıkçılığa özgü aksesuar sistemlerini doğrudan tahta tasarımına entegre eder.',
+          'Evet. OLagoon, kamış tutucuları, soğutucu montaj alanları, kamera montajları ve D-halka bağlama noktaları dahil balıkçılığa özgü aksesuar sistemlerini doğrudan tahta tasarımına entegre eder.',
       },
       {
         question: "Balıkçılık SUP'ının ağırlık kapasitesi nedir?",
@@ -1380,7 +1380,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Balıkçılık ekipmanı şirketleri için özel markalama sunuyor musunuz?',
         answer:
-          'Evet. Afarer, balıkçılık markaları için özel tahta grafikleri, marka renkleri, logo yerleşimi, EVA güverte tasarımı ve ambalaj dahil eksiksiz private label imalatı sağlar.',
+          'Evet. OLagoon, balıkçılık markaları için özel tahta grafikleri, marka renkleri, logo yerleşimi, EVA güverte tasarımı ve ambalaj dahil eksiksiz private label imalatı sağlar.',
       },
       {
         question: "Balıkçılık SUP'ı hem tatlı suda hem tuzlu suda kullanılabilir mi?",
@@ -1410,12 +1410,12 @@ const tr: Record<string, SolutionOverride> = {
         "{SITE}, YouTube, TikTok, Instagram içerik üreticilerinin ve Kickstarter markalarının hızlı prototipler, düşük MOQ'lu üretim, sınırlı sayıda tasarımlar ve private label çözümleriyle özel SUP ürünleri lançmasına yardımcı olur.",
     },
     hero: {
-      tagline: "Kitlenizi Afarer'le Bir Su Sporları Markasına Dönüştürün",
+      tagline: "Kitlenizi OLagoon'le Bir Su Sporları Markasına Dönüştürün",
       title: 'YouTube, TikTok, Instagram İçerik Üreticileri ve Kickstarter Markaları için Özel SUP İmalat Çözümleri',
       subtitle:
-        'Afarer, içerik üreticilerinin hızlı prototip geliştirme, düşük MOQ üretim, özel grafikler, sınırlı üretim tasarımları, marka ambalajı ve esnek imalat çözümleriyle kendi SUP markalarını lansman etmesine yardımcı olur.',
+        'OLagoon, içerik üreticilerinin hızlı prototip geliştirme, düşük MOQ üretim, özel grafikler, sınırlı üretim tasarımları, marka ambalajı ve esnek imalat çözümleriyle kendi SUP markalarını lansman etmesine yardımcı olur.',
       image: {
-        alt: 'İçerik üreticisi ve influencer markaları için Afarer özel SUP tahtaları',
+        alt: 'İçerik üreticisi ve influencer markaları için OLagoon özel SUP tahtaları',
       },
     },
     challenge: {
@@ -1449,13 +1449,13 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Hızlı SUP Prototip Geliştirme',
           description:
-            'Afarer, fikirlerin hızla fiziksel prototiplere dönüştürülmesine yardımcı olur. Konsept geliştirme ve tahta örneklerinden grafik testine ve konfigürasyon ayarına kadar içerik üreticileri topluluk geri bildirimine dayanarak hızlı yineleyebilir.',
+            'OLagoon, fikirlerin hızla fiziksel prototiplere dönüştürülmesine yardımcı olur. Konsept geliştirme ve tahta örneklerinden grafik testine ve konfigürasyon ayarına kadar içerik üreticileri topluluk geri bildirimine dayanarak hızlı yineleyebilir.',
           features: ['Ürün konsepti geliştirme', 'Prototip oluşturma', 'Renk ve grafik testi', 'Konfigürasyon ayarı'],
         },
         {
           title: 'İçerik Üreticisi Markaları için Düşük MOQ Üretimi',
           description:
-            "İçerik üreticileri ölçeklemeden önce talebi doğrulamaya ihtiyaç duyar. Afarer, topluluk testi ve sınırlı lansmanlar için 100–300 adetten başlayan esnek girişim adetlerini, büyüme için 500–2.000'e ve tam marka operasyonu için 3.000+'a kadar ölçekleyerek destekler.",
+            "İçerik üreticileri ölçeklemeden önce talebi doğrulamaya ihtiyaç duyar. OLagoon, topluluk testi ve sınırlı lansmanlar için 100–300 adetten başlayan esnek girişim adetlerini, büyüme için 500–2.000'e ve tam marka operasyonu için 3.000+'a kadar ölçekleyerek destekler.",
           features: [
             'İçerik üreticisi lansman aşaması: 100–300 adet',
             'Büyüme aşaması: 500–2.000 adet',
@@ -1466,7 +1466,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Sınırlı Üretim İçerik Üreticisi SUP Tasarımı',
           description:
-            'İçerik üreticisi markaları benzersizlikle başarılı olur. Afarer, hayranların gerçekten istediği özel grafikler, imza sanat eserleri, özel renk sürümleri ve topluluktan esinlenen tasarım öğeleriyle münhasır sürümler geliştirmeye yardımcı olur.',
+            'İçerik üreticisi markaları benzersizlikle başarılı olur. OLagoon, hayranların gerçekten istediği özel grafikler, imza sanat eserleri, özel renk sürümleri ve topluluktan esinlenen tasarım öğeleriyle münhasır sürümler geliştirmeye yardımcı olur.',
           features: [
             'Özel grafikler ve sanat eserleri',
             'İmza ve topluluk sürümleri',
@@ -1477,12 +1477,12 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'İçerik Üreticisi Lansmanları için Premium Ambalaj',
           description:
-            'İçerik üreticileri için kutu açmak marka deneyiminin bir parçasıdır. Afarer, markalı kutular, ürün kartları, teşekkür mesajları ve müşterileri uzun vadeli takipçilere dönüştüren, içerik üreticisi içeriğine bağlanan QR kodlarıyla özel ambalajı destekler.',
+            'İçerik üreticileri için kutu açmak marka deneyiminin bir parçasıdır. OLagoon, markalı kutular, ürün kartları, teşekkür mesajları ve müşterileri uzun vadeli takipçilere dönüştüren, içerik üreticisi içeriğine bağlanan QR kodlarıyla özel ambalajı destekler.',
         },
         {
           title: 'Kickstarter ve Kitle Fonlaması Ürün Desteği',
           description:
-            'Birçok içerik üreticisi talebi doğrulamak için kitle fonlamasını kullanır. Afarer, içerik üreticilerinin sözlerini tutabilmesi için lansman öncesi prototip geliştirmeyi, kampanya üretim planlamasını ve kampanya sonrası parti gerçekleştirmeyi destekler.',
+            'Birçok içerik üreticisi talebi doğrulamak için kitle fonlamasını kullanır. OLagoon, içerik üreticilerinin sözlerini tutabilmesi için lansman öncesi prototip geliştirmeyi, kampanya üretim planlamasını ve kampanya sonrası parti gerçekleştirmeyi destekler.',
           features: [
             'Lansman öncesi geliştirme',
             'Kampanya üretim planlaması',
@@ -1493,7 +1493,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'İçerik Üreticisi Markası Ürün Genişlemesi',
           description:
-            'Başarılı bir içerik üreticisi markası eksiksiz bir outdoor ekosistemine genişleyebilir. Afarer, toplulukla birlikte büyüyen SUP ürün hatlarını, su aksesuarlarını ve mevsimlik koleksiyonları destekler.',
+            'Başarılı bir içerik üreticisi markası eksiksiz bir outdoor ekosistemine genişleyebilir. OLagoon, toplulukla birlikte büyüyen SUP ürün hatlarını, su aksesuarlarını ve mevsimlik koleksiyonları destekler.',
           features: [
             'İmza SUP tahtası hattı',
             'Su aksesuarları',
@@ -1504,7 +1504,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'İçerik Dostu Ürün Geliştirme',
           description:
-            'İçerik üreticileri, doğal olarak hikâye anlatımını destekleyen ürünlere ihtiyaç duyar. Afarer, kutu açma videoları, macera içeriği, ürün incelemeleri ve organik etkileşim üreten topluluk mücadeleleri için uygun ürünler geliştirmeye yardımcı olur.',
+            'İçerik üreticileri, doğal olarak hikâye anlatımını destekleyen ürünlere ihtiyaç duyar. OLagoon, kutu açma videoları, macera içeriği, ürün incelemeleri ve organik etkileşim üreten topluluk mücadeleleri için uygun ürünler geliştirmeye yardımcı olur.',
           features: [
             'Kutu açma deneyimi tasarımı',
             'Macere hazır ürünler',
@@ -1515,7 +1515,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'İçerik Üreticisi İtibarı için Kalite Kontrol',
           description:
-            'Güven, bir içerik üreticisinin en değerli varlığıdır. Afarer kalite kontrolü; topluluk ilişkilerini korumak için hava basıncı stabilite testi, tahta dayanıklılığı doğrulaması, grafik ve renk tutarlılığı kontrolleri ve eksiksiz aksesuar denetimini içerir.',
+            'Güven, bir içerik üreticisinin en değerli varlığıdır. OLagoon kalite kontrolü; topluluk ilişkilerini korumak için hava basıncı stabilite testi, tahta dayanıklılığı doğrulaması, grafik ve renk tutarlılığı kontrolleri ve eksiksiz aksesuar denetimini içerir.',
         },
       ],
     },
@@ -1534,7 +1534,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Prototip Geliştirme',
           detail:
-            'Afarer, imza grafikleri ve ürün örnekleriyle özel bir tahta tasarımı oluşturdu. İçerik üreticisi, üretime karar vermeden önce performansı ve görünümü test etti ve kitle geri bildirimi topladı.',
+            'OLagoon, imza grafikleri ve ürün örnekleriyle özel bir tahta tasarımı oluşturdu. İçerik üreticisi, üretime karar vermeden önce performansı ve görünümü test etti ve kitle geri bildirimi topladı.',
         },
         {
           title: 'Sınırlı Üretim Lansmanı',
@@ -1559,29 +1559,29 @@ const tr: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brezilya',
             background:
-              "Carlos Mendes (34), National Geographic'te yer alan, 890.000 Instagram takipçisine sahip bir macera fotoğrafçısı ve drone pilotudur. 7 yıl boyunca uzak Amazon nehir seferlerini belgeledikten sonra, kitlesinin çekim lokasyonlarına ulaşmak için kullandığı şişirilebilir SUP'lar hakkında giderek daha fazla soru sorduğunu fark etti. Kürekçilik geçmişi olmayan Carlos, hem kamera platformu hem de sefer aracı olarak hizmet edebilecek özel bir tahta mühendisliği için Afarer'e ihtiyaç duyuyordu; ayrıca “Rios do Brasil” serisi etrafında ürünleşmiş bir marka lansman etmek istiyordu.",
+              "Carlos Mendes (34), National Geographic'te yer alan, 890.000 Instagram takipçisine sahip bir macera fotoğrafçısı ve drone pilotudur. 7 yıl boyunca uzak Amazon nehir seferlerini belgeledikten sonra, kitlesinin çekim lokasyonlarına ulaşmak için kullandığı şişirilebilir SUP'lar hakkında giderek daha fazla soru sorduğunu fark etti. Kürekçilik geçmişi olmayan Carlos, hem kamera platformu hem de sefer aracı olarak hizmet edebilecek özel bir tahta mühendisliği için OLagoon'e ihtiyaç duyuyordu; ayrıca “Rios do Brasil” serisi etrafında ürünleşmiş bir marka lansman etmek istiyordu.",
             goal: "Brezilya'nın 5 büyük su biyomunu (Amazon, Pantanal, São Francisco, Paraná ve kıyı Rio'su) yansıtan, ortak markalı bir imza SUP'ını Mayıs 2025'e kadar lansman etmek ve üretimden önce her biri 4.990 R$ olan 500 adedi ön satmak.",
           },
           steps: [
             {
-              title: 'Afarer Mühendisleriyle Biyoma Özgü Ar-Ge Seferi',
+              title: 'OLagoon Mühendisleriyle Biyoma Özgü Ar-Ge Seferi',
               detail:
-                "Ağustos 2024'te Afarer, kıdemli deniz mühendisi Li Wei ve ürün tasarımcısı Henrik Larsson'u 10 günlüğüne Manaus'a gönderdi. Carlos ile Rio Negro'nun 180 km'sini kürek çekerek kat ettiler; su sıcaklığını (28–32°C), sediment yükünü ve tipik yükü (40 kg kamera ekipmanı artı 25 kg kamp ekipmanı) ölçtüler. Standart drop-stitch tahtaların, ekvatoral UV indeksi 12+ ile taşımalar sırasında yutulan aşındırıcı kumun birleşimi altında delamine olduğunu tespit ettiler. Carlos, tahtanın çalı uçağı yolculuğu için 65 litrelik bir kuru çantaya sığacak şekilde söndürülebilmesi gerektiğinde ısrar etti.",
+                "Ağustos 2024'te OLagoon, kıdemli deniz mühendisi Li Wei ve ürün tasarımcısı Henrik Larsson'u 10 günlüğüne Manaus'a gönderdi. Carlos ile Rio Negro'nun 180 km'sini kürek çekerek kat ettiler; su sıcaklığını (28–32°C), sediment yükünü ve tipik yükü (40 kg kamera ekipmanı artı 25 kg kamp ekipmanı) ölçtüler. Standart drop-stitch tahtaların, ekvatoral UV indeksi 12+ ile taşımalar sırasında yutulan aşındırıcı kumun birleşimi altında delamine olduğunu tespit ettiler. Carlos, tahtanın çalı uçağı yolculuğu için 65 litrelik bir kuru çantaya sığacak şekilde söndürülebilmesi gerektiğinde ısrar etti.",
             },
             {
               title: 'Üç Katmanlı Füzyon Konstrüksiyon ve Modüler Donanım Sistemi',
               detail:
-                "Afarer'in Xiamen'deki Ar-Ge merkezi, Eylül–Kasım 2024 arasında 7 prototip üretti. Nihai tasarım, 1.200 saat hızlandırılmış UV maruziyetiyle test edilmiş, ek UV yansıtıcı üst kaplamalı 3 katmanlı PVC-Dropstitch-PVC sandviç kullandı. Münhasır bir “Rails-to-Rail” destekleme sistemi, ek ağırlık olmadan yanal rijitlik ekledi. Carlos ve Afarer, takviyeli pedler üzerinden cıvatalanan — emme kapağı yok — 30 km/sa çekme hızında 28 kg tutacak şekilde test edilmiş modüler bir kamera montaj ray sistemi birlikte tasarladı. Her tahta yalnızca 11,8 kg ağırlığındaydı ancak 220 kg yükü destekliyordu.",
+                "OLagoon'in Xiamen'deki Ar-Ge merkezi, Eylül–Kasım 2024 arasında 7 prototip üretti. Nihai tasarım, 1.200 saat hızlandırılmış UV maruziyetiyle test edilmiş, ek UV yansıtıcı üst kaplamalı 3 katmanlı PVC-Dropstitch-PVC sandviç kullandı. Münhasır bir “Rails-to-Rail” destekleme sistemi, ek ağırlık olmadan yanal rijitlik ekledi. Carlos ve OLagoon, takviyeli pedler üzerinden cıvatalanan — emme kapağı yok — 30 km/sa çekme hızında 28 kg tutacak şekilde test edilmiş modüler bir kamera montaj ray sistemi birlikte tasarladı. Her tahta yalnızca 11,8 kg ağırlığındaydı ancak 220 kg yükü destekliyordu.",
             },
             {
               title: 'İçerik Öncülüğünde Lansman Öncesi Kampanya ve Sınırlı Biyom Sürümleri',
               detail:
-                "Aralık 2024'ten itibaren Carlos, her biyomdaki prototip testini gösteren 5 mini belgesel (ortalama 4,2 milyon görüntüleme) yayınladı. Afarer, Manaus, São Paulo ve Brasília'da bölgesel lojistik merkezli adanmış bir Shopify D2C mağazası kurdu. Her biri 100 adetle sınırlı, 5 biyoma özgü renk şeması ürettiler (Rio Negro koyu su, Pantanal gün batımı, São Francisco kanyon kırmızısı, Paraná orman yeşili, Costa Dourada altını). Müşteriler biyomlarını “evlat edinebiliyordu” ve Carlos'un Amazon yeniden ağaçlandırma fonuna GPS izlemeli bağış alıyordu.",
+                "Aralık 2024'ten itibaren Carlos, her biyomdaki prototip testini gösteren 5 mini belgesel (ortalama 4,2 milyon görüntüleme) yayınladı. OLagoon, Manaus, São Paulo ve Brasília'da bölgesel lojistik merkezli adanmış bir Shopify D2C mağazası kurdu. Her biri 100 adetle sınırlı, 5 biyoma özgü renk şeması ürettiler (Rio Negro koyu su, Pantanal gün batımı, São Francisco kanyon kırmızısı, Paraná orman yeşili, Costa Dourada altını). Müşteriler biyomlarını “evlat edinebiliyordu” ve Carlos'un Amazon yeniden ağaçlandırma fonuna GPS izlemeli bağış alıyordu.",
             },
             {
               title: 'Nisan 2025 Lansmanı ve Brezilya Dağıtım Ağı',
               detail:
-                "5 Nisan 2025'te “Rios do Brasil Explorer 12.6”, São Paulo'daki Ibirapuera Parkı'nda 350 influencer ve medya ile lansman edildi. 500 adedin tamamı 11 saat içinde ön satıldı — 2,495 milyon R$ gelir. Afarer, Amazon kurak sezonunu yenmek için 200 adedi hava yoluyla sevk ederken 300 adet deniz yoluyla gitti. Carlos'un biyom bağış programı ilk ayda 187.000 R$ topladı. Afarer ve Carlos, yılda asgari 2.000 adet ve 2026 için halen geliştirilmekte olan ikinci bir modelle (“Expedition Tandem”) Latin Amerika için 3 yıllık bir münhasırlık anlaşması imzaladı.",
+                "5 Nisan 2025'te “Rios do Brasil Explorer 12.6”, São Paulo'daki Ibirapuera Parkı'nda 350 influencer ve medya ile lansman edildi. 500 adedin tamamı 11 saat içinde ön satıldı — 2,495 milyon R$ gelir. OLagoon, Amazon kurak sezonunu yenmek için 200 adedi hava yoluyla sevk ederken 300 adet deniz yoluyla gitti. Carlos'un biyom bağış programı ilk ayda 187.000 R$ topladı. OLagoon ve Carlos, yılda asgari 2.000 adet ve 2026 için halen geliştirilmekte olan ikinci bir modelle (“Expedition Tandem”) Latin Amerika için 3 yıllık bir münhasırlık anlaşması imzaladı.",
             },
           ],
           results: [
@@ -1597,29 +1597,29 @@ const tr: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norveç',
             background:
-              "Tor Haugen (29), 620.000 YouTube abonesi ve 410.000 TikTok takipçisine sahip, Norveç milli takımı kros kayakçısından CrossFit Games yarı finalistine dönüşmüş bir isimdir. “Nordic Strength” fitness kanalı, geleneksel olmayan ekipmanla outdoor antrenmanları sergiler. Oslo Fiyordu'nda ucuz bir SUP üzerinde burpee yaparken çekilmiş viral bir videodan (8,7 milyon görüntüleme) sonra topluluğu, yüksek yoğunluklu fitness için üretilmiş bir tahta talep etti. Tor'nun ürün tasarımı deneyimi yoktu ve zıplamaya, ağırlık düşürmeye ve Nordik hava uçlarına dayanabilecek stabil bir platform mühendisliği için Afarer'e ihtiyaç duyuyordu.",
+              "Tor Haugen (29), 620.000 YouTube abonesi ve 410.000 TikTok takipçisine sahip, Norveç milli takımı kros kayakçısından CrossFit Games yarı finalistine dönüşmüş bir isimdir. “Nordic Strength” fitness kanalı, geleneksel olmayan ekipmanla outdoor antrenmanları sergiler. Oslo Fiyordu'nda ucuz bir SUP üzerinde burpee yaparken çekilmiş viral bir videodan (8,7 milyon görüntüleme) sonra topluluğu, yüksek yoğunluklu fitness için üretilmiş bir tahta talep etti. Tor'nun ürün tasarımı deneyimi yoktu ve zıplamaya, ağırlık düşürmeye ve Nordik hava uçlarına dayanabilecek stabil bir platform mühendisliği için OLagoon'e ihtiyaç duyuyordu.",
             goal: "CrossFit tarzı antrenman için sertifikalı ilk “fonksiyonel fitness SUP”ını yaratmak; Ekim 2024'te 3.990 NOK (370 $ USD) fiyatla, 1.000 adetlik ön satış ve eşzamanlı 20 şehirlik Avrupa turuyla lansman etmek.",
           },
           steps: [
             {
               title: 'Yük Hücresi Testli Oslo Fiyordu Prototip Denemeleri',
               detail:
-                "Afarer'in ürün ekibi, yapısal mühendis Marta Johansson öncülüğünde Mart 2024'te bir haftasını Oslo'nun Kongshavn Marina'sında geçirdi. Tor burpee'ler (120 bpm tempo), halter overhead tutuşları (60 kg) ve box jump'lar (50 cm kutu) yaparken 6 rakip tahtayı 14 gerinim ölçeri ve ivmeölçerle donattılar. Sonuçlar, standart SUP tahtalarının rekreasyonel kürekçiliğin 3,7 katı dinamik yük yaşadığını gösterdi. Güverte esnemesi 22 mm'yi aştı — ayak bileği stabilitesi için tehlikeli. Marta'nın ekibi, benzersiz bir “drop-through” ayakta durma platformuyla %200 daha rijit bir burulma kutusu gerektiğini hesapladı.",
+                "OLagoon'in ürün ekibi, yapısal mühendis Marta Johansson öncülüğünde Mart 2024'te bir haftasını Oslo'nun Kongshavn Marina'sında geçirdi. Tor burpee'ler (120 bpm tempo), halter overhead tutuşları (60 kg) ve box jump'lar (50 cm kutu) yaparken 6 rakip tahtayı 14 gerinim ölçeri ve ivmeölçerle donattılar. Sonuçlar, standart SUP tahtalarının rekreasyonel kürekçiliğin 3,7 katı dinamik yük yaşadığını gösterdi. Güverte esnemesi 22 mm'yi aştı — ayak bileği stabilitesi için tehlikeli. Marta'nın ekibi, benzersiz bir “drop-through” ayakta durma platformuyla %200 daha rijit bir burulma kutusu gerektiğini hesapladı.",
             },
             {
               title: 'Kompozit Stringer Platform ve Kaymaz Güverte Teknolojisi',
               detail:
-                '4 ay boyunca Afarer, artan rijitlikle 9 prototip üretti. Atılım, iki drop-stitch katmanı arasına gömülü 2,5 mm deniz sınıfı alüminyum stringerden geldi; bu, 100 kg dinamik yük altında 0,8 mm esnemeli bir tahta üretti. Güverte, 6 mm yüksek elmas desenli kapalı hücreli EVA köpük kullandı — Tor onu ıslak, tuzlu ve çamurlu test etti ve tutuşun kaykay tutuş bandını aştığını buldu. Afarer, direnç bantları ve ağırlık plakaları için tahtanın çevresinde 22 noktaya D-halka bağlantıları ekledi. Her tahtada 500 kg statik yüke derecelendirilmiş klipsli bir güvenlik leash ankrajı vardı.',
+                '4 ay boyunca OLagoon, artan rijitlikle 9 prototip üretti. Atılım, iki drop-stitch katmanı arasına gömülü 2,5 mm deniz sınıfı alüminyum stringerden geldi; bu, 100 kg dinamik yük altında 0,8 mm esnemeli bir tahta üretti. Güverte, 6 mm yüksek elmas desenli kapalı hücreli EVA köpük kullandı — Tor onu ıslak, tuzlu ve çamurlu test etti ve tutuşun kaykay tutuş bandını aştığını buldu. OLagoon, direnç bantları ve ağırlık plakaları için tahtanın çevresinde 22 noktaya D-halka bağlantıları ekledi. Her tahtada 500 kg statik yüke derecelendirilmiş klipsli bir güvenlik leash ankrajı vardı.',
             },
             {
               title: 'Nordic Strength Ortak Markalaması ve Sertifikasyon Süreci',
               detail:
-                "Tor ve Afarer, Tor'nun kanal sanatıyla eşleşen mavi-beyaz renk şemasıyla “Nordic Strength Trainer 11.0” markalamasını oluşturdu. Afarer, Tor'ya fitness ekipmanı için AB CE sertifikasyonu (standart SUP sertifikasyonundan ayrı bir süreç) sürecinde yardım etti; bu, 200 saatlik mekanik yorulma testi gerektiriyordu. Ambalaj, Norveçli bir spor hekimliği kliniğiyle ortaklıkta çekilen Tor'nun 12 haftalık “Fjord Fitness” antrenman programına bağlanan QR kodları içeriyordu. Afarer, 20 ülkeye hizmet vermek için Rotterdam'da bir Avrupa dağıtım merkezi kurdu.",
+                "Tor ve OLagoon, Tor'nun kanal sanatıyla eşleşen mavi-beyaz renk şemasıyla “Nordic Strength Trainer 11.0” markalamasını oluşturdu. OLagoon, Tor'ya fitness ekipmanı için AB CE sertifikasyonu (standart SUP sertifikasyonundan ayrı bir süreç) sürecinde yardım etti; bu, 200 saatlik mekanik yorulma testi gerektiriyordu. Ambalaj, Norveçli bir spor hekimliği kliniğiyle ortaklıkta çekilen Tor'nun 12 haftalık “Fjord Fitness” antrenman programına bağlanan QR kodları içeriyordu. OLagoon, 20 ülkeye hizmet vermek için Rotterdam'da bir Avrupa dağıtım merkezi kurdu.",
             },
             {
               title: '20 Avrupa Şehrinde Ekim 2024 Lansmanı',
               detail:
-                "Tor'nun “Fjord to Peak” turu, 1.200 katılımcının grup SUP antrenmanı yaptığı Oslo'nun Sørenga yüzme alanında 12 Ekim 2024'te başladı. 5 hafta boyunca Tor; Kopenhag, Hamburg, Amsterdam, Berlin, Varşova, Prag, Münih, Zürih, Milano, Barselona, Madrid, Paris, Londra, Dublin, Edinburgh, Stockholm, Helsinki, Tallinn ve Riga'yı ziyaret etti. Her etkinlik, 45 dakikalık bir SUP fitness dersi ve bir buluşmayı birleştirdi. 1.000 lansman adedin tamamı ilk etkinlikten önce ön satışta satıldı; Afarer tur ortasında 500 ek adedi hava yoluyla sevk etmek için seferber oldu. Toplam 2024 satışları, 18 Avrupa ülkesinde 2.300 adede ulaştı.",
+                "Tor'nun “Fjord to Peak” turu, 1.200 katılımcının grup SUP antrenmanı yaptığı Oslo'nun Sørenga yüzme alanında 12 Ekim 2024'te başladı. 5 hafta boyunca Tor; Kopenhag, Hamburg, Amsterdam, Berlin, Varşova, Prag, Münih, Zürih, Milano, Barselona, Madrid, Paris, Londra, Dublin, Edinburgh, Stockholm, Helsinki, Tallinn ve Riga'yı ziyaret etti. Her etkinlik, 45 dakikalık bir SUP fitness dersi ve bir buluşmayı birleştirdi. 1.000 lansman adedin tamamı ilk etkinlikten önce ön satışta satıldı; OLagoon tur ortasında 500 ek adedi hava yoluyla sevk etmek için seferber oldu. Toplam 2024 satışları, 18 Avrupa ülkesinde 2.300 adede ulaştı.",
             },
           ],
           results: [
@@ -1631,8 +1631,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "İçerik Üreticileri Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "İçerik Üreticileri Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Ürün Uzmanlığı',
@@ -1660,38 +1660,38 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'İçerik üreticisi markalı SUP ürünleri için minimum sipariş adedi nedir?',
         answer:
-          'Afarer, içerik üreticisi lansman aşamaları için 100–300 adetten başlayan düşük MOQ üretimini destekler; bu, büyük stok yatırımı olmadan talebi doğrulamanıza olanak tanır. Markanız büyüdükçe üretimi 500–2.000 adede ve ötesine ölçekleyebiliriz.',
+          'OLagoon, içerik üreticisi lansman aşamaları için 100–300 adetten başlayan düşük MOQ üretimini destekler; bu, büyük stok yatırımı olmadan talebi doğrulamanıza olanak tanır. Markanız büyüdükçe üretimi 500–2.000 adede ve ötesine ölçekleyebiliriz.',
       },
       {
-        question: 'Afarer, özel SUP tahtamın tasarımı ve prototiplemesi konusunda yardımcı olabilir mi?',
+        question: 'OLagoon, özel SUP tahtamın tasarımı ve prototiplemesi konusunda yardımcı olabilir mi?',
         answer:
-          'Evet, Afarer eksiksiz ürün konsepti geliştirme, prototip oluşturma, renk ve grafik testi ile konfigürasyon ayarı sağlar. Özel tahta tasarımları, imza grafikleri ve ürün örnekleriyle içerik üreticilerinin vizyonlarını hayata geçirmek için onlarla yakından çalışıyoruz.',
+          'Evet, OLagoon eksiksiz ürün konsepti geliştirme, prototip oluşturma, renk ve grafik testi ile konfigürasyon ayarı sağlar. Özel tahta tasarımları, imza grafikleri ve ürün örnekleriyle içerik üreticilerinin vizyonlarını hayata geçirmek için onlarla yakından çalışıyoruz.',
       },
       {
         question: 'Bir prototip geliştirmek ve üretime başlamak ne kadar sürer?',
         answer:
-          'Afarer, içerik üreticisi projeleri için hızı önceliklendirir. Prototip geliştirme tipik olarak birkaç hafta sürer ve üretim zaman çizelgeleri kampanya programlarına, mevsimsel zamanlamaya ve kitle momentumuna uyacak şekilde esnektir.',
+          'OLagoon, içerik üreticisi projeleri için hızı önceliklendirir. Prototip geliştirme tipik olarak birkaç hafta sürer ve üretim zaman çizelgeleri kampanya programlarına, mevsimsel zamanlamaya ve kitle momentumuna uyacak şekilde esnektir.',
       },
       {
         question: 'Kickstarter kampanyalarını imalat ve gerçekleştirme konusunda destekleyebilir misiniz?',
         answer:
-          'Evet, Afarer lansman öncesi prototip hazırlığını, kampanya üretim planlamasını, tahmini zaman çizelgesi geliştirmeyi ve ambalaj ve sevkiyat hazırlığı dahil kampanya sonrası parti gerçekleştirmeyi destekler.',
+          'Evet, OLagoon lansman öncesi prototip hazırlığını, kampanya üretim planlamasını, tahmini zaman çizelgesi geliştirmeyi ve ambalaj ve sevkiyat hazırlığı dahil kampanya sonrası parti gerçekleştirmeyi destekler.',
       },
       {
         question: 'Sınırlı üretim SUP tahtaları için hangi özelleştirme seçenekleri mevcut?',
         answer:
-          'Afarer; özel grafikler, imza sanat eserleri, içerik üreticisi logoları, topluluk sembolleri, benzersiz desenler, özel renk sürümleri, sınırlı numaralandırma ve markalı kutular ile hikâye materyalleri içeren premium ambalaj sunar.',
+          'OLagoon; özel grafikler, imza sanat eserleri, içerik üreticisi logoları, topluluk sembolleri, benzersiz desenler, özel renk sürümleri, sınırlı numaralandırma ve markalı kutular ile hikâye materyalleri içeren premium ambalaj sunar.',
       },
       {
-        question: 'Afarer, içerik üreticisi markalı ürünler için kalite kontrolü nasıl sağlıyor?',
+        question: 'OLagoon, içerik üreticisi markalı ürünler için kalite kontrolü nasıl sağlıyor?',
         answer:
-          'Afarer; topluluğunuzun güvenini korumak için hava basıncı stabilite testi, tahta dayanıklılığı doğrulaması, malzeme kalitesi denetimi, grafik ve renk tutarlılığı kontrolleri, ambalaj kalitesi incelemesi ve eksiksiz aksesuar denetimi yürütür.',
+          'OLagoon; topluluğunuzun güvenini korumak için hava basıncı stabilite testi, tahta dayanıklılığı doğrulaması, malzeme kalitesi denetimi, grafik ve renk tutarlılığı kontrolleri, ambalaj kalitesi incelemesi ve eksiksiz aksesuar denetimi yürütür.',
       },
     ],
     cta: {
-      title: "Afarer'le İçerik Üreticisi Sürümü SUP Markanızı Kurun",
+      title: "OLagoon'le İçerik Üreticisi Sürümü SUP Markanızı Kurun",
       subtitle:
-        'Kitleniz zaten yolculuğunuzu takip ediyor. Şimdi deneyimleyebilecekleri bir şey yaratın. Afarer, içerik üreticilerinin özel SUP ürünleri, sınırlı üretim tahtaları ve private label outdoor ekipmanı lansman etmesine yardımcı olur.',
+        'Kitleniz zaten yolculuğunuzu takip ediyor. Şimdi deneyimleyebilecekleri bir şey yaratın. OLagoon, içerik üreticilerinin özel SUP ürünleri, sınırlı üretim tahtaları ve private label outdoor ekipmanı lansman etmesine yardımcı olur.',
       primaryAction: {
         text: 'İçerik Üreticisi SUP Projenize Bugün Başlayın',
       },
@@ -1705,7 +1705,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Destinasyon Su Sporları Ekipman Tedarikçisi | {SITE}',
       description:
-        'Afarer, turizm kuruluşları, kamusal parklar ve sahil şeridi projeleri için destinasyon su sporları çözümleri sunar. Ticari SUP filoları, çevre dostu ekipmanlar, devlet projesi desteği ve büyük ölçekli OEM tedariki.',
+        'OLagoon, turizm kuruluşları, kamusal parklar ve sahil şeridi projeleri için destinasyon su sporları çözümleri sunar. Ticari SUP filoları, çevre dostu ekipmanlar, devlet projesi desteği ve büyük ölçekli OEM tedariki.',
     },
     hero: {
       tagline: 'Turizm Kurulları, Kamusal Parklar & Destinasyon Projeleri için Sürdürülebilir Su Deneyimi Çözümleri',
@@ -1797,7 +1797,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Destinasyon Planlaması',
           detail:
-            'Afarer; filo adedi planlaması, aktivite alanları ve ekipman konfigürasyonu dahil eksiksiz bir su aktivitesi sistemi tasarladı.',
+            'OLagoon; filo adedi planlaması, aktivite alanları ve ekipman konfigürasyonu dahil eksiksiz bir su aktivitesi sistemi tasarladı.',
         },
         {
           title: 'Ticari Ekipman Tedariği',
@@ -1835,17 +1835,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Sessiz Filo Şartnamesi ve Biyobozunur Malzeme Gereksinimleri',
               detail:
-                "Eylül 2024'te Kovacic; (1) tahta yapımında sıfır tek kullanımlık plastik, (2) ömür sonunda tam geri dönüştürülebilirlik ve (3) 5 m'de 25 dB altında sessiz operasyon sertifikası gerektiren bir ihale talebi (RFP) yayınladı. Afarer, biyo kaynaklı drop stitch iplikten (hint yağı bazlı polimer, %42 yenilenebilir içerik) ve doğal mantar güverte pedlerinden (FSC sertifikalı Portekiz mantarı) üretilen EcoTouring 12'6″ X ile kazandı. Her tahta, petrokökenli bileşen olmadan sertlik sağlayan mühürlü bir bambu stringer içeriyordu. LBTB, 200 tahta (toplam 246 bin €) ve göl kenarı güneş enerjili şarj kabinleriyle çalışan 12 elektrikli şişirme istasyonu sipariş etti.",
+                "Eylül 2024'te Kovacic; (1) tahta yapımında sıfır tek kullanımlık plastik, (2) ömür sonunda tam geri dönüştürülebilirlik ve (3) 5 m'de 25 dB altında sessiz operasyon sertifikası gerektiren bir ihale talebi (RFP) yayınladı. OLagoon, biyo kaynaklı drop stitch iplikten (hint yağı bazlı polimer, %42 yenilenebilir içerik) ve doğal mantar güverte pedlerinden (FSC sertifikalı Portekiz mantarı) üretilen EcoTouring 12'6″ X ile kazandı. Her tahta, petrokökenli bileşen olmadan sertlik sağlayan mühürlü bir bambu stringer içeriyordu. LBTB, 200 tahta (toplam 246 bin €) ve göl kenarı güneş enerjili şarj kabinleriyle çalışan 12 elektrikli şişirme istasyonu sipariş etti.",
             },
             {
               title: "Adım 2: 12 Yorumlayıcı Ara Noktalı 6 km'lik GPS Destekli Eko Rota",
               detail:
-                "2024–2025 kışı boyunca LBTB, 12 yorumlayıcı durak noktasıyla (Bled Kalesi jeotermal kaynağı, Meryem Ana Kilisesi'nin çan mekanizması, ada tortulaşma alanları) 6,2 km'lik bir çevre rotası haritaladı. Afarer, her ara noktada 7 dilde 90 saniyelik anlatımlı bölümler sunan su geçirmez GPS özellikli sesli rehber ünitesi (güverte montajlı bir yuvada sağlam IP68 tablet) entegre etti. Rota, hassas kuş üreme alanlarından (tepeli dalgıç bölgeleri, Kasım–Mart kapanması) kaçınacak şekilde tasarlandı. LBTB, mevcut 32 motorbot şamandırasının yerine 18 bin € maliyetle 12 bambu işaretli şamandıra kurdu.",
+                "2024–2025 kışı boyunca LBTB, 12 yorumlayıcı durak noktasıyla (Bled Kalesi jeotermal kaynağı, Meryem Ana Kilisesi'nin çan mekanizması, ada tortulaşma alanları) 6,2 km'lik bir çevre rotası haritaladı. OLagoon, her ara noktada 7 dilde 90 saniyelik anlatımlı bölümler sunan su geçirmez GPS özellikli sesli rehber ünitesi (güverte montajlı bir yuvada sağlam IP68 tablet) entegre etti. Rota, hassas kuş üreme alanlarından (tepeli dalgıç bölgeleri, Kasım–Mart kapanması) kaçınacak şekilde tasarlandı. LBTB, mevcut 32 motorbot şamandırasının yerine 18 bin € maliyetle 12 bambu işaretli şamandıra kurdu.",
             },
             {
               title: 'Adım 3: Kiralama Operatörü Geçiş Programı ve Sertifikalandırma',
               detail:
-                "Ocak–Mart 2025 sezon dışı döneminde LBTB, lisanslı 14 tekne kiralama operatörünün tamamı için zorunlu bir geçiş programı yürüttü. Afarer, 36 operatöre ve personele rota bilgisi, acil durum müdahalesi ve çevresel yorumlama teslimini kapsayan 4 günlük SUP rehberlik sertifikası verdi. LBTB, Slovenya Turizm Bakanlığı'nın Yeşil Geçiş hibesiyle (toplam 280 bin €) finanse edilen, motorbotlardan SUP kiralamaya geçen operatör başına 4.000 € sübvansiyon sundu. 1 Nisan'a gelindiğinde 14 operatörden 11'i tamamen geçiş yapmıştı; kalan 3'ü, 2026'da kademeli olarak sona erecek hibrit operasyonlara taahhütte bulundu.",
+                "Ocak–Mart 2025 sezon dışı döneminde LBTB, lisanslı 14 tekne kiralama operatörünün tamamı için zorunlu bir geçiş programı yürüttü. OLagoon, 36 operatöre ve personele rota bilgisi, acil durum müdahalesi ve çevresel yorumlama teslimini kapsayan 4 günlük SUP rehberlik sertifikası verdi. LBTB, Slovenya Turizm Bakanlığı'nın Yeşil Geçiş hibesiyle (toplam 280 bin €) finanse edilen, motorbotlardan SUP kiralamaya geçen operatör başına 4.000 € sübvansiyon sundu. 1 Nisan'a gelindiğinde 14 operatörden 11'i tamamen geçiş yapmıştı; kalan 3'ü, 2026'da kademeli olarak sona erecek hibrit operasyonlara taahhütte bulundu.",
             },
             {
               title: 'Adım 4: Dünya Günü Lansmanı, Sezon Sonuçları ve UNESCO Uyumu',
@@ -1873,17 +1873,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Rota Haritalama, Risk Değerlendirmesi ve Denizsel Bölgeleme Uyumu',
               detail:
-                "Kasım 2024'ten Şubat 2025'e kadar Delacroix'nın ekibi, 50 km'lik kıyı şeridini araştırmak ve sınıflandırmak için Afarer'in rota uzmanlarıyla ve Fransa Biyoçeşitlilik Ofisi (OFB) ile çalıştı. 5 rota belirlediler: (1) Cap d'Antibes'ten Baie des Milliardaires'a (4,2 km, orta seviye), (2) Île Sainte-Marguerite Çevre Turu (7,1 km, ileri seviye), (3) Calanque de Maubois (2,8 km, yeni başlayan), (4) Villefranche-sur-Mer Deniz Koruma Alanı (3,5 km, yalnızca rehberli) ve (5) Menton'dan Cap Martin'e Gün Batımı Paddle'ı (5,5 km, orta seviye). Her rota, yıllık 2.500 € ortaklık ücreti ödeyen önceden onaylı özel plaj kulüplerinde zorunlu dinlenme durakları dahil 12–15 ara noktayla GPS ile haritalandı.",
+                "Kasım 2024'ten Şubat 2025'e kadar Delacroix'nın ekibi, 50 km'lik kıyı şeridini araştırmak ve sınıflandırmak için OLagoon'in rota uzmanlarıyla ve Fransa Biyoçeşitlilik Ofisi (OFB) ile çalıştı. 5 rota belirlediler: (1) Cap d'Antibes'ten Baie des Milliardaires'a (4,2 km, orta seviye), (2) Île Sainte-Marguerite Çevre Turu (7,1 km, ileri seviye), (3) Calanque de Maubois (2,8 km, yeni başlayan), (4) Villefranche-sur-Mer Deniz Koruma Alanı (3,5 km, yalnızca rehberli) ve (5) Menton'dan Cap Martin'e Gün Batımı Paddle'ı (5,5 km, orta seviye). Her rota, yıllık 2.500 € ortaklık ücreti ödeyen önceden onaylı özel plaj kulüplerinde zorunlu dinlenme durakları dahil 12–15 ara noktayla GPS ile haritalandı.",
             },
             {
               title: 'Adım 2: Premium Filo Şartnamesi ve Otel Concierge Entegrasyonu',
               detail:
-                "FRTCB, entegre GoPro montaj noktası, su geçirmez telefon yuvası ve şampanya şişe tutucusuyla (güverte pedinin önünde özel bir D-halkalı file cebi) özel “Mediterranean Breeze” renk paletinde (terracotta, zeytin, krem) 350 adet Afarer Explorer 11'6″ X tahta sipariş etti. Her tahta, Peli-kılıf seyahat paketine uyan karbon fiber 4 parçalı bir kürekle geldi. Afarer'in yazılım ekibi, otel concierge'lerinin tahta rezerve etmesini, 6 bağlı hava durumu şamandırası aracılığıyla gerçek zamanlı rota koşullarını kontrol etmesini ve acil durum uyarılarını tetiklemesini sağlayan white-label bir mobil web uygulaması geliştirdi. Toplam sipariş 429 bin € idi.",
+                "FRTCB, entegre GoPro montaj noktası, su geçirmez telefon yuvası ve şampanya şişe tutucusuyla (güverte pedinin önünde özel bir D-halkalı file cebi) özel “Mediterranean Breeze” renk paletinde (terracotta, zeytin, krem) 350 adet OLagoon Explorer 11'6″ X tahta sipariş etti. Her tahta, Peli-kılıf seyahat paketine uyan karbon fiber 4 parçalı bir kürekle geldi. OLagoon'in yazılım ekibi, otel concierge'lerinin tahta rezerve etmesini, 6 bağlı hava durumu şamandırası aracılığıyla gerçek zamanlı rota koşullarını kontrol etmesini ve acil durum uyarılarını tetiklemesini sağlayan white-label bir mobil web uygulaması geliştirdi. Toplam sipariş 429 bin € idi.",
             },
             {
               title: 'Adım 3: Rehber Sertifikası, Güvenlik Protokolü ve Ortak Plaj Kulübü Ağı',
               detail:
-                "Mart 2025'te Afarer, Nice Yacht Club'ta 5 bölgesel eğitim oturumu gerçekleştirerek 62 rehberi (23 otel aktivite personeli, 39 bağımsız su sporları operatörü) sertifikalandırdı. Sertifika, FRTCB'ye özel içerik içeriyordu: Akdeniz rüzgar deseni tanıma (Mistral/Libeccio senaryoları), denizanası ilk yardımı ve lüks misafir iletişim standartları. Delacroix, tüm misafirler için zorunlu can yelekleri (düdüklü ve bıçaklı RFD NRS Orion yelekleri), su geçirmez VHF radyolarla tahta arası iletişim ve 2 rehbere en fazla 12 misafirlik grup büyüklüğü gerektiren bir güvenlik protokolü oluşturdu.",
+                "Mart 2025'te OLagoon, Nice Yacht Club'ta 5 bölgesel eğitim oturumu gerçekleştirerek 62 rehberi (23 otel aktivite personeli, 39 bağımsız su sporları operatörü) sertifikalandırdı. Sertifika, FRTCB'ye özel içerik içeriyordu: Akdeniz rüzgar deseni tanıma (Mistral/Libeccio senaryoları), denizanası ilk yardımı ve lüks misafir iletişim standartları. Delacroix, tüm misafirler için zorunlu can yelekleri (düdüklü ve bıçaklı RFD NRS Orion yelekleri), su geçirmez VHF radyolarla tahta arası iletişim ve 2 rehbere en fazla 12 misafirlik grup büyüklüğü gerektiren bir güvenlik protokolü oluşturdu.",
             },
             {
               title: 'Adım 4: Cannes Film Festivali Lansmanı ve Hızlanan Sezon Büyümesi',
@@ -1900,13 +1900,13 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Turizm Projeleri Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Turizm Projeleri Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Güvenlik',
           description:
-            'Herkes için tasarlandı. Afarer, ekipmanın çeşitli kamusal kullanıcılar için en yüksek güvenlik standartlarını karşılamasını sağlar.',
+            'Herkes için tasarlandı. OLagoon, ekipmanın çeşitli kamusal kullanıcılar için en yüksek güvenlik standartlarını karşılamasını sağlar.',
         },
         {
           title: 'Sürdürülebilirlik',
@@ -1929,7 +1929,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Kamusal SUP filosu ekipmanı için hangi güvenlik sertifikaları geçerlidir?',
         answer:
-          'Afarer; hükümet satın almaları için uygun ürün şartnameleri, performans bilgileri ve uyum dokümantasyonu sağlar. Kamusal projeleri ihale süreçleri için gereken malzeme bilgileri ve kalite sertifikalarıyla destekliyoruz.',
+          'OLagoon; hükümet satın almaları için uygun ürün şartnameleri, performans bilgileri ve uyum dokümantasyonu sağlar. Kamusal projeleri ihale süreçleri için gereken malzeme bilgileri ve kalite sertifikalarıyla destekliyoruz.',
       },
       {
         question: 'Kamusal bir su rekreasyon programı için kaç SUP tahtası gerekir?',
@@ -1939,28 +1939,28 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'SUP tahtaları şehir veya destinasyon markalaşmasıyla özelleştirilebilir mi?',
         answer:
-          'Evet, Afarer; şehir logoları, turizm kimliği grafikleri, yerel tasarım öğeleri ve temaya özel artwork dahil destinasyon markalaşması özelleştirmesini destekler. Bu, destinasyon kimliğini güçlendiren imza niteliğinde bir su deneyimi yaratmaya yardım eder.',
+          'Evet, OLagoon; şehir logoları, turizm kimliği grafikleri, yerel tasarım öğeleri ve temaya özel artwork dahil destinasyon markalaşması özelleştirmesini destekler. Bu, destinasyon kimliğini güçlendiren imza niteliğinde bir su deneyimi yaratmaya yardım eder.',
       },
       {
-        question: 'Afarer SUP tahtaları hangi çevre dostu özellikler sunar?',
+        question: 'OLagoon SUP tahtaları hangi çevre dostu özellikler sunar?',
         answer:
-          'Afarer; ürün ömrünü uzatan ve değişim sıklığını azaltan dayanıklı malzemelere odaklanır; böylece kaynak tüketimini ve atığı düşürür. Ayrıca sürdürülebilir turizm girişimlerini desteklemek için çevresel dokümantasyon ve uyum bilgisi sağlıyoruz.',
+          'OLagoon; ürün ömrünü uzatan ve değişim sıklığını azaltan dayanıklı malzemelere odaklanır; böylece kaynak tüketimini ve atığı düşürür. Ayrıca sürdürülebilir turizm girişimlerini desteklemek için çevresel dokümantasyon ve uyum bilgisi sağlıyoruz.',
       },
       {
-        question: 'Afarer hükümet satın alma ve ihale süreçlerini nasıl destekler?',
+        question: 'OLagoon hükümet satın alma ve ihale süreçlerini nasıl destekler?',
         answer:
-          'Afarer; teknik şartname hazırlığı, ürün performans dokümantasyonu, konfigürasyon seçenekleri, proje teklifi desteği, filo önerileri, uygulama zaman çizelgeleri ve üretim ile teslimat için büyük sipariş koordinasyonu dahil kapsamlı destek sağlar.',
+          'OLagoon; teknik şartname hazırlığı, ürün performans dokümantasyonu, konfigürasyon seçenekleri, proje teklifi desteği, filo önerileri, uygulama zaman çizelgeleri ve üretim ile teslimat için büyük sipariş koordinasyonu dahil kapsamlı destek sağlar.',
       },
       {
         question: 'Belediye ortamlarındaki kamusal SUP filoları için hangi bakım gerekir?',
         answer:
-          'Afarer; bakım rehberliği, denetim süreçleri, bileşen değişim prosedürleri, yedek parça bulunabilirliği ve filo yönetimi planlaması dahil eksiksiz operasyonel destek sağlar. Bu, kamusal rekreasyon programları için uzun vadeli güvenilirliği güvence altına alır.',
+          'OLagoon; bakım rehberliği, denetim süreçleri, bileşen değişim prosedürleri, yedek parça bulunabilirliği ve filo yönetimi planlaması dahil eksiksiz operasyonel destek sağlar. Bu, kamusal rekreasyon programları için uzun vadeli güvenilirliği güvence altına alır.',
       },
     ],
     cta: {
-      title: 'Afarer ile Destinasyon Su Deneyiminizi Yaratın',
+      title: 'OLagoon ile Destinasyon Su Deneyiminizi Yaratın',
       subtitle:
-        'Su kaynaklarınızın turizm potansiyeli var. Afarer; gölleri, nehirleri, kıyı alanlarını ve kamusal parkları akılda kalıcı açık hava destinasyonlarına dönüştürmeye yardım eder.',
+        'Su kaynaklarınızın turizm potansiyeli var. OLagoon; gölleri, nehirleri, kıyı alanlarını ve kamusal parkları akılda kalıcı açık hava destinasyonlarına dönüştürmeye yardım eder.',
       primaryAction: {
         text: 'Projenizi Başlatın',
       },
@@ -1980,9 +1980,9 @@ const tr: Record<string, SolutionOverride> = {
       tagline: 'Dayanıklı Kiralama Filosu Çözümü™',
       title: 'Kiralama İşletmeleri, Plajlar ve Turist Destinasyonları için Ticari SUP Ekipman Çözümleri',
       subtitle:
-        'Afarer, ticari kiralama işletmeleri için özel olarak tasarlanmış Dayanıklı Kiralama Filosu Çözümleri sunar. Plaj kiralama şirketlerinin, göl aktivitesi operatörlerinin, tatil köyü su merkezlerinin ve macera turizmi işletmelerinin dayanıklı konstrüksiyon ve kolay bakımla kârlı SUP filoları kurmasına yardımcı oluruz.',
+        'OLagoon, ticari kiralama işletmeleri için özel olarak tasarlanmış Dayanıklı Kiralama Filosu Çözümleri sunar. Plaj kiralama şirketlerinin, göl aktivitesi operatörlerinin, tatil köyü su merkezlerinin ve macera turizmi işletmelerinin dayanıklı konstrüksiyon ve kolay bakımla kârlı SUP filoları kurmasına yardımcı oluruz.',
       image: {
-        alt: 'Plaj ve su sporları operatörleri için Afarer dayanıklı kiralama SUP filosu',
+        alt: 'Plaj ve su sporları operatörleri için OLagoon dayanıklı kiralama SUP filosu',
       },
     },
     challenge: {
@@ -2016,7 +2016,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Kiralama Sınıfı Şişirilebilir SUP Konstrüksiyonu',
           description:
-            'Afarer kiralama SUP ürünleri; aşınmaya dirençli PVC malzeme, sık darbe için takviyeli borda konstrüksiyonu, stabil performans için dayanıklı drop stitch yapısı ve günlük operasyon için tasarlanmış yüksek dayanıklılıkta valf sistemleriyle pratik dayanıklılığa odaklanır.',
+            'OLagoon kiralama SUP ürünleri; aşınmaya dirençli PVC malzeme, sık darbe için takviyeli borda konstrüksiyonu, stabil performans için dayanıklı drop stitch yapısı ve günlük operasyon için tasarlanmış yüksek dayanıklılıkta valf sistemleriyle pratik dayanıklılığa odaklanır.',
           features: [
             'Aşınmaya dirençli PVC malzeme',
             'Takviyeli borda konstrüksiyonu',
@@ -2027,7 +2027,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Maliyete Optimize Kiralama SUP Tasarımı',
           description:
-            'Kiralama müşterilerinin yarışma seviyesi performansa ihtiyacı yoktur. Stabilite, güvenlik, kolay kullanım ve güvenilirlik gerekir. Afarer, daha hızlı ekipman yönetimi için stabil all-round şekiller, standartlaştırılmış aksesuarlar ve pratik ambalajla ürünleri konfigüre eder.',
+            'Kiralama müşterilerinin yarışma seviyesi performansa ihtiyacı yoktur. Stabilite, güvenlik, kolay kullanım ve güvenilirlik gerekir. OLagoon, daha hızlı ekipman yönetimi için stabil all-round şekiller, standartlaştırılmış aksesuarlar ve pratik ambalajla ürünleri konfigüre eder.',
           features: [
             'Yeni başlayanlar için stabil all-round şekil',
             'Standartlaştırılmış aksesuarlar',
@@ -2038,17 +2038,17 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Eksiksiz Kiralama Filosu Paketi',
           description:
-            "Afarer; dayanıklı şişirilebilir SUP tahtaları, ayarlanabilir kürekler, pompalar, leash'ler, taşıma sırt çantaları ve tamir kitleri dahil kullanıma hazır kiralama paketleri oluşturur; ayrıca yedek finler, ek kürekler, değişim valfleri ve depolama çözümleri gibi ticari ek seçenekler sunar.",
+            "OLagoon; dayanıklı şişirilebilir SUP tahtaları, ayarlanabilir kürekler, pompalar, leash'ler, taşıma sırt çantaları ve tamir kitleri dahil kullanıma hazır kiralama paketleri oluşturur; ayrıca yedek finler, ek kürekler, değişim valfleri ve depolama çözümleri gibi ticari ek seçenekler sunar.",
         },
         {
           title: 'Toplu Filo Satın Alma Çözümleri',
           description:
-            'Afarer; küçük kiralama operasyonlarından çok lokasyonlu işletmelere filo genişletme desteğiyle 50, 100, 300 veya 500+ tahtalık filolar satın alan operatörleri destekler ve tutarlı ekipman kalitesi ile daha iyi satın alma verimliliği güvence altına alır.',
+            'OLagoon; küçük kiralama operasyonlarından çok lokasyonlu işletmelere filo genişletme desteğiyle 50, 100, 300 veya 500+ tahtalık filolar satın alan operatörleri destekler ve tutarlı ekipman kalitesi ile daha iyi satın alma verimliliği güvence altına alır.',
         },
         {
           title: 'Kolay Bakım ve Tamir Sistemi',
           description:
-            'Kiralama işletmeleri uzun ekipman arıza sürelerini göze alamaz. Afarer; değiştirilebilir bileşenlerle tamire uygun ürün tasarımı, temizlik ve depolama için bakım rehberliği ve kitlerle sorun giderme rehberliğiyle acil tamir desteği sağlar.',
+            'Kiralama işletmeleri uzun ekipman arıza sürelerini göze alamaz. OLagoon; değiştirilebilir bileşenlerle tamire uygun ürün tasarımı, temizlik ve depolama için bakım rehberliği ve kitlerle sorun giderme rehberliğiyle acil tamir desteği sağlar.',
           features: [
             'Değiştirilebilir bileşenler',
             'Standart aksesuarlar',
@@ -2059,12 +2059,12 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Mevsimsel Kiralama İşletmesi Optimizasyonu',
           description:
-            'Birçok kiralama işletmesi mevsimsel olarak çalışır. Afarer; yaz plaj operasyonları, aile SUP paketleri, tatil köyü aktiviteleri ve touring tarzı modellerle macera turizmi için uygun ürünlerle talebe göre stok planlamasına yardımcı olur.',
+            'Birçok kiralama işletmesi mevsimsel olarak çalışır. OLagoon; yaz plaj operasyonları, aile SUP paketleri, tatil köyü aktiviteleri ve touring tarzı modellerle macera turizmi için uygun ürünlerle talebe göre stok planlamasına yardımcı olur.',
         },
         {
           title: 'Kiralama Operatörleri için Özel Markalama',
           description:
-            'Kiralama ekipmanı yüzlerce müşteri tarafından görülür. Afarer; ekipmanı bir pazarlama aracına dönüştüren tahta numaralandırması ve model etiketleriyle filo tanımlamasını, plaj atmosferi veya tatil köyü tarzıyla eşleşen renk özelleştirmesini ve logo markalamasını destekler.',
+            'Kiralama ekipmanı yüzlerce müşteri tarafından görülür. OLagoon; ekipmanı bir pazarlama aracına dönüştüren tahta numaralandırması ve model etiketleriyle filo tanımlamasını, plaj atmosferi veya tatil köyü tarzıyla eşleşen renk özelleştirmesini ve logo markalamasını destekler.',
           features: [
             'Logo markalaması',
             'Renk özelleştirmesi',
@@ -2075,12 +2075,12 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Turist Destinasyonları ve Tatil Köyleri için Destek',
           description:
-            "Birçok turizm işletmesi SUP'ı bir deneyim ürünü olarak kullanır. Afarer; otellere, tatil köylerine, kamp alanlarına ve macera parklarına eksiksiz su aktivitesi deneyimleri için filo planlaması, ürün özelleştirmesi ve parti üretimi konusunda destek olur.",
+            "Birçok turizm işletmesi SUP'ı bir deneyim ürünü olarak kullanır. OLagoon; otellere, tatil köylerine, kamp alanlarına ve macera parklarına eksiksiz su aktivitesi deneyimleri için filo planlaması, ürün özelleştirmesi ve parti üretimi konusunda destek olur.",
         },
         {
           title: 'Kiralama İşletmesi Yatırım Getirisini İyileştirin',
           description:
-            'Afarer; değişim sıklığını azaltan daha uzun ürün ömrü, tamir süresini azaltan daha düşük bakım maliyeti ve günlük kiralama kapasitesini ile müşteri memnuniyetini artıran daha yüksek bulunabilirlikle operatörlerin kârlılığını iyileştirmesine yardımcı olur.',
+            'OLagoon; değişim sıklığını azaltan daha uzun ürün ömrü, tamir süresini azaltan daha düşük bakım maliyeti ve günlük kiralama kapasitesini ile müşteri memnuniyetini artıran daha yüksek bulunabilirlikle operatörlerin kârlılığını iyileştirmesine yardımcı olur.',
         },
       ],
     },
@@ -2096,7 +2096,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Kiralama Filosu Analizi',
           detail:
-            'Afarer, kullanım sıklığını, müşteri profilini ve operasyon ortamını değerlendirdi ve ardından Akdeniz plaj ortamı için optimize edilmiş bir ticari kiralama SUP konfigürasyonu önerdi.',
+            'OLagoon, kullanım sıklığını, müşteri profilini ve operasyon ortamını değerlendirdi ve ardından Akdeniz plaj ortamı için optimize edilmiş bir ticari kiralama SUP konfigürasyonu önerdi.',
         },
         {
           title: 'Ürün Geliştirme',
@@ -2132,19 +2132,19 @@ const tr: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: "Afarer'in Soğuk Oda Tesisinde Kış Depolama Simülasyon Testi",
+              title: "OLagoon'in Soğuk Oda Tesisinde Kış Depolama Simülasyon Testi",
               detail:
-                "Ocak 2024'te Sarah, 4 haftalık aşırı soğuk testi için 8 rakip tahtayı ve 6 Afarer prototipini Afarer'in Xiamen tesisine gönderdi. Test odası, günlük olarak -35°C ile +25°C arasında döngü yaptı (Kanada Mart donma-çözülmesini simüle ederek). Tahtalar, 200 kg kar yükü altında simüle raf koşullarında depolandı. Afarer'in iç TPU membranlı 4 katmanlı laminatı olan XHD-Plus malzemesi, 28 döngü sonra sıfır mikro çatlak gösterdi; buna karşılık 8 rakip tahtanın 5'i görünür çatlaklar geliştirdi. TPU katmanı, tahta yüzeyleri çizilse bile nem girişini önledi. Sarah ayrıca bir “soğuk katlama” testi istedi: tahtalar -20°C'de taşıma için katlandı; Afarer'inki katlama çizgisi arızası olmadan 500 katlamaya dayandı.",
+                "Ocak 2024'te Sarah, 4 haftalık aşırı soğuk testi için 8 rakip tahtayı ve 6 OLagoon prototipini OLagoon'in Xiamen tesisine gönderdi. Test odası, günlük olarak -35°C ile +25°C arasında döngü yaptı (Kanada Mart donma-çözülmesini simüle ederek). Tahtalar, 200 kg kar yükü altında simüle raf koşullarında depolandı. OLagoon'in iç TPU membranlı 4 katmanlı laminatı olan XHD-Plus malzemesi, 28 döngü sonra sıfır mikro çatlak gösterdi; buna karşılık 8 rakip tahtanın 5'i görünür çatlaklar geliştirdi. TPU katmanı, tahta yüzeyleri çizilse bile nem girişini önledi. Sarah ayrıca bir “soğuk katlama” testi istedi: tahtalar -20°C'de taşıma için katlandı; OLagoon'inki katlama çizgisi arızası olmadan 500 katlamaya dayandı.",
             },
             {
               title: 'Yalıtımlı Depolama Kılıflarıyla Özel “Canadian Shield” Paketi',
               detail:
-                "Test sonuçlarına dayanarak Afarer, “Canadian Shield” şartnamesini geliştirdi: 4 katmanlı PVC/TPU konstrüksiyon, -40°C'ye derecelendirilmiş paslanmaz çelik valfler (standart pirinç valfler buzla tutulur) ve kar taşıması için tahta ağırlığının 2 katına derecelendirilmiş takviyeli taşıma kulpları. Afarer, iç sıcaklığı ortamın 12°C üzerinde tutan polar astarlı yalıtımlı bir depolama kılıfı (“Winter Jacket”) tasarladı. Sarah, kılıfları Mart 2024'te Muskoka Gölü'nde test etti: kılıfların içinde gece boyunca -22°C'de depolanan tahtalar sabah -8°C'ydi ve 3 dakika daha hızlı şişti. Afarer, siparişin bir parçası olarak 150 kılıf üretti.",
+                "Test sonuçlarına dayanarak OLagoon, “Canadian Shield” şartnamesini geliştirdi: 4 katmanlı PVC/TPU konstrüksiyon, -40°C'ye derecelendirilmiş paslanmaz çelik valfler (standart pirinç valfler buzla tutulur) ve kar taşıması için tahta ağırlığının 2 katına derecelendirilmiş takviyeli taşıma kulpları. OLagoon, iç sıcaklığı ortamın 12°C üzerinde tutan polar astarlı yalıtımlı bir depolama kılıfı (“Winter Jacket”) tasarladı. Sarah, kılıfları Mart 2024'te Muskoka Gölü'nde test etti: kılıfların içinde gece boyunca -22°C'de depolanan tahtalar sabah -8°C'ydi ve 3 dakika daha hızlı şişti. OLagoon, siparişin bir parçası olarak 150 kılıf üretti.",
             },
             {
               title: '3 Tesiste Tatil Köyü Personeli için Sezon Öncesi Eğitim Kampı',
               detail:
-                "Mayıs 2024'te Afarer'in Kuzey Amerika servis müdürü Jake Patterson, 3 tatil köyündeki 28 personeli eğitmek için 5 gün harcadı. Kanada'ya özgü protokoller şunları içeriyordu: bahar devreye alma (soğuk depolama hasarı için ayrıntılı denetim kontrol listesi), 13–15 PSI'ya doğru şişirme (soğuk su için ayarlandı — Muskoka Gölü Haziran'da ortalama 14°C), ısıtmasız tekne evlerinde depolanan tahtalar için kışa hazırlık prosedürü ve 15 dakikada hasar bildirimi yapan bir WhatsApp sistemi. Jake ayrıca personelere yaygın Kanada kunduzu kemirme hasarını tanıtmayı (gerçek bir sorun: 2023'te 2 tahta kunduzlara kaybedildi) ve ağır hizmet PVC yamalarıyla nasıl onaracaklarını öğretti.",
+                "Mayıs 2024'te OLagoon'in Kuzey Amerika servis müdürü Jake Patterson, 3 tatil köyündeki 28 personeli eğitmek için 5 gün harcadı. Kanada'ya özgü protokoller şunları içeriyordu: bahar devreye alma (soğuk depolama hasarı için ayrıntılı denetim kontrol listesi), 13–15 PSI'ya doğru şişirme (soğuk su için ayarlandı — Muskoka Gölü Haziran'da ortalama 14°C), ısıtmasız tekne evlerinde depolanan tahtalar için kışa hazırlık prosedürü ve 15 dakikada hasar bildirimi yapan bir WhatsApp sistemi. Jake ayrıca personelere yaygın Kanada kunduzu kemirme hasarını tanıtmayı (gerçek bir sorun: 2023'te 2 tahta kunduzlara kaybedildi) ve ağır hizmet PVC yamalarıyla nasıl onaracaklarını öğretti.",
             },
             {
               title: 'Yaz 2024 Lansmanı ve Yaprak Sezonu Performansı',
@@ -2172,17 +2172,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: "Marbella'nın Playa de la Fontanilla Plajında Temmuz 2023 Isı Stresi Çalışması",
               detail:
-                "Temmuz 2023'te Afarer'in Akdeniz teknik lideri Pedro Sánchez, Miguel'in amiral plajında 3 haftalık bir çalışma yürüttü. 10 rakip tahtayı ve 5 Afarer prototipini, 5 dakikada bir kayıt yapan Bluetooth basınç sensörleriyle donattılar. Sonuçlar, rakip tahtaların 8 saatte 2,8–4,1 PSI kaybettiğini gösterdi (15 PSI'dan başlayıp öğleden sonra 4'e kadar 10,9–12,2 PSI'ya düşerek). Isı yansıtıcı gümüş dış katman ve azot gazı dolgusu kullanan Afarer'in XHD-Thermal tahtaları yalnızca 0,7 PSI kaybetti. Pedro temel sorunu keşfetti: standart hava ısınmada genleşir ve iç basıncı artırarak güvenlik valfi salınımını tetikler; Afarer'in azot dolgusu (daha büyük moleküller, daha yavaş difüzyon) bu etkiyi azalttı. Kum üzerinde tahta yüzey sıcaklığı öğleden sonra 3'te 67°C'ye ulaştı — Afarer'in gümüş katmanı kızılötesi radyasyonun %34'ünü yansıttı.",
+                "Temmuz 2023'te OLagoon'in Akdeniz teknik lideri Pedro Sánchez, Miguel'in amiral plajında 3 haftalık bir çalışma yürüttü. 10 rakip tahtayı ve 5 OLagoon prototipini, 5 dakikada bir kayıt yapan Bluetooth basınç sensörleriyle donattılar. Sonuçlar, rakip tahtaların 8 saatte 2,8–4,1 PSI kaybettiğini gösterdi (15 PSI'dan başlayıp öğleden sonra 4'e kadar 10,9–12,2 PSI'ya düşerek). Isı yansıtıcı gümüş dış katman ve azot gazı dolgusu kullanan OLagoon'in XHD-Thermal tahtaları yalnızca 0,7 PSI kaybetti. Pedro temel sorunu keşfetti: standart hava ısınmada genleşir ve iç basıncı artırarak güvenlik valfi salınımını tetikler; OLagoon'in azot dolgusu (daha büyük moleküller, daha yavaş difüzyon) bu etkiyi azalttı. Kum üzerinde tahta yüzey sıcaklığı öğleden sonra 3'te 67°C'ye ulaştı — OLagoon'in gümüş katmanı kızılötesi radyasyonun %34'ünü yansıttı.",
             },
             {
               title: 'Isı Dağıtan Güverte ve Hırsızlık Önleyici Ankrajlı “Costa del Sol Edition”',
               detail:
-                "Afarer, Miguel için özel bir şartname oluşturdu: termal kamerayla doğrulanan, zirve güneşte EVA köpükten 8°C daha serin kalan mantar güverteli “Costasol Edition 11.0”, silikon O-halkalı ısıya dayanıklı paslanmaz çelik valfler (İspanyol güneşinin 400+ saatinde bozulan standart lastik yerine) ve 2.000 saat UV maruziyetine derecelendirilmiş UV stabilize fin sistemi. Miguel bir hırsızlık caydırıcı özellik istedi: Afarer, personelin şifreli kilit geçirebileceği tahtanın pruvasına paslanmaz çelik bir kablo ilmiği entegre etti — tahta hırsızlığını yılda 12'den 0'a indirdi. Her tahtada, sorumluluk feragatine ve kiralama sözleşmesine bağlanan bir QR koduyla Miguel'in plaj kulübü logosu ısıyla kabartıldı (soyulacak etiket yok).",
+                "OLagoon, Miguel için özel bir şartname oluşturdu: termal kamerayla doğrulanan, zirve güneşte EVA köpükten 8°C daha serin kalan mantar güverteli “Costasol Edition 11.0”, silikon O-halkalı ısıya dayanıklı paslanmaz çelik valfler (İspanyol güneşinin 400+ saatinde bozulan standart lastik yerine) ve 2.000 saat UV maruziyetine derecelendirilmiş UV stabilize fin sistemi. Miguel bir hırsızlık caydırıcı özellik istedi: OLagoon, personelin şifreli kilit geçirebileceği tahtanın pruvasına paslanmaz çelik bir kablo ilmiği entegre etti — tahta hırsızlığını yılda 12'den 0'a indirdi. Her tahtada, sorumluluk feragatine ve kiralama sözleşmesine bağlanan bir QR koduyla Miguel'in plaj kulübü logosu ısıyla kabartıldı (soyulacak etiket yok).",
             },
             {
               title: 'Yüksek Hacimli Kiralama Lojistiği ve Ekip Eğitimi',
               detail:
-                "Afarer'in operasyon danışmanı Ana Martínez, Şubat 2024'te Miguel'in kiralama iş akışını optimize etmek için 2 hafta harcadı. “Al ve git” modeli: özel bir dönen rafta (Afarer'in aksesuar ekibi tarafından üretildi) sürekli şişik tutulan 50 tahta, ödeme süresini 8 dakikadan 90 saniyeye indirdi. Ana, 22 mevsimsel personeli şunlar hakkında eğitti: kalibre edilmiş bir göstergeyle 1 dakikalık şişirme kontrolü, doğru mantar güverte temizliği (hafif sabun, basınçlı yıkama yok), öğleden sonra basınç tamamlama protokolü (öğleden sonra 2'de 30 saniyelik kontrol) ve gün sonu tatlı su sprey sistemiyle durulama (Afarer tarafından kuruldu, istasyon başına 80 €). Yeni iş akışı, 85 tahta için 5 personel yerine 2 personelin 200 tahtayı yönetmesine olanak tanıdı.",
+                "OLagoon'in operasyon danışmanı Ana Martínez, Şubat 2024'te Miguel'in kiralama iş akışını optimize etmek için 2 hafta harcadı. “Al ve git” modeli: özel bir dönen rafta (OLagoon'in aksesuar ekibi tarafından üretildi) sürekli şişik tutulan 50 tahta, ödeme süresini 8 dakikadan 90 saniyeye indirdi. Ana, 22 mevsimsel personeli şunlar hakkında eğitti: kalibre edilmiş bir göstergeyle 1 dakikalık şişirme kontrolü, doğru mantar güverte temizliği (hafif sabun, basınçlı yıkama yok), öğleden sonra basınç tamamlama protokolü (öğleden sonra 2'de 30 saniyelik kontrol) ve gün sonu tatlı su sprey sistemiyle durulama (OLagoon tarafından kuruldu, istasyon başına 80 €). Yeni iş akışı, 85 tahta için 5 personel yerine 2 personelin 200 tahtayı yönetmesine olanak tanıdı.",
             },
             {
               title: "Yaz 2024 — Kayıtlardaki En Sıcak İspanyol Temmuz'u",
@@ -2199,8 +2199,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Kiralama İşletmeleri Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Kiralama İşletmeleri Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Ticari Kullanım',
@@ -2228,38 +2228,38 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Kiralama işletmeleri için hangi tür SUP tahtaları en iyisidir?',
         answer:
-          'Kiralama işletmelerinin takviyeli konstrüksiyonlu, yeni başlayan dostu şekilli, standartlaştırılmış aksesuarlı ve kolay bakım özellikli dayanıklı, stabil all-round SUP tahtalarına ihtiyacı vardır. Afarer kiralama tahtaları, tüm beceri seviyelerindeki müşterilerin sık kullanımına dayanmak için özel olarak tasarlanmıştır.',
+          'Kiralama işletmelerinin takviyeli konstrüksiyonlu, yeni başlayan dostu şekilli, standartlaştırılmış aksesuarlı ve kolay bakım özellikli dayanıklı, stabil all-round SUP tahtalarına ihtiyacı vardır. OLagoon kiralama tahtaları, tüm beceri seviyelerindeki müşterilerin sık kullanımına dayanmak için özel olarak tasarlanmıştır.',
       },
       {
         question: 'Kiralama SUP filom için bakım maliyetlerini nasıl azaltabilirim?',
         answer:
-          'Afarer; hasara dirençli dayanıklı konstrüksiyon, onarımları basitleştiren standartlaştırılmış bileşenler, tam tahta değişimini ortadan kaldıran değiştirilebilir parçalar ve ekibinizin temel bakımı verimli yapmasına yardımcı olan bakım rehberliği yoluyla bakım maliyetlerini azaltmaya yardımcı olur.',
+          'OLagoon; hasara dirençli dayanıklı konstrüksiyon, onarımları basitleştiren standartlaştırılmış bileşenler, tam tahta değişimini ortadan kaldıran değiştirilebilir parçalar ve ekibinizin temel bakımı verimli yapmasına yardımcı olan bakım rehberliği yoluyla bakım maliyetlerini azaltmaya yardımcı olur.',
       },
       {
         question: 'Kiralama SUP filoları için minimum sipariş adedi nedir?',
         answer:
-          'Afarer; 50 tahtayla başlayan küçük operasyonlardan 500+ tahtalık büyük ölçekli filolara kadar esnek filo boyutlarını destekler. Tüm sipariş adetlerinde tutarlı kaliteyle toplu satın alma çözümleri sağlıyoruz.',
+          'OLagoon; 50 tahtayla başlayan küçük operasyonlardan 500+ tahtalık büyük ölçekli filolara kadar esnek filo boyutlarını destekler. Tüm sipariş adetlerinde tutarlı kaliteyle toplu satın alma çözümleri sağlıyoruz.',
       },
       {
         question: 'Kiralama operatörleri için toplu fiyatlandırma sunuyor musunuz?',
         answer:
-          'Evet, Afarer; 50, 100, 300 veya 500+ tahtalık filo satın alan kiralama operatörlerine rekabetçi toplu fiyatlandırma sunar ve büyük siparişler için tutarlı ekipman kalitesi ile verimli üretim zaman çizelgeleri sağlar.',
+          'Evet, OLagoon; 50, 100, 300 veya 500+ tahtalık filo satın alan kiralama operatörlerine rekabetçi toplu fiyatlandırma sunar ve büyük siparişler için tutarlı ekipman kalitesi ile verimli üretim zaman çizelgeleri sağlar.',
       },
       {
-        question: 'Afarer SUP tahtaları tuzlu su ve plaj ortamlarını nasıl karşılar?',
+        question: 'OLagoon SUP tahtaları tuzlu su ve plaj ortamlarını nasıl karşılar?',
         answer:
-          'Afarer kiralama tahtaları; tuzlu su maruziyetine, kum aşındırmasına ve outdoor depolama koşullarına dayanan aşınmaya dirençli PVC malzeme, UV dirençli konstrüksiyon, plaj teması için takviyeli bordalar ve korozyona dirençli donanım içerir.',
+          'OLagoon kiralama tahtaları; tuzlu su maruziyetine, kum aşındırmasına ve outdoor depolama koşullarına dayanan aşınmaya dirençli PVC malzeme, UV dirençli konstrüksiyon, plaj teması için takviyeli bordalar ve korozyona dirençli donanım içerir.',
       },
       {
         question: 'Kiralama SUP tahtalarımı işletme logomla markalayabilir miyim?',
         answer:
-          'Evet, Afarer; kiralama ekipmanınızı plajınız veya tatil köyünüz genelinde görünür pazarlama araçlarına dönüştüren logo markalaması, renk eşleştirme, tahta numaralandırması ve model etiketleri dahil eksiksiz özelleştirmeyi destekler.',
+          'Evet, OLagoon; kiralama ekipmanınızı plajınız veya tatil köyünüz genelinde görünür pazarlama araçlarına dönüştüren logo markalaması, renk eşleştirme, tahta numaralandırması ve model etiketleri dahil eksiksiz özelleştirmeyi destekler.',
       },
     ],
     cta: {
-      title: "Afarer'le Dayanıklı SUP Kiralama Filonuzu Kurun",
+      title: "OLagoon'le Dayanıklı SUP Kiralama Filonuzu Kurun",
       subtitle:
-        'Ekipmanınız işletme kârlılığınızı belirler. Daha çok çalışmak ve daha uzun dayanmak için tasarlanmış SUP ürünlerini seçin. Afarer, kiralama operatörlerinin güvenilir OEM imalat desteğiyle plaj SUP filoları, tatil köyü su aktivitesi ekipmanı ve turizm macera sistemleri kurmasına yardımcı olur.',
+        'Ekipmanınız işletme kârlılığınızı belirler. Daha çok çalışmak ve daha uzun dayanmak için tasarlanmış SUP ürünlerini seçin. OLagoon, kiralama operatörlerinin güvenilir OEM imalat desteğiyle plaj SUP filoları, tatil köyü su aktivitesi ekipmanı ve turizm macera sistemleri kurmasına yardımcı olur.',
       primaryAction: {
         text: 'Kiralama Filo Projenize Bugün Başlayın',
       },
@@ -2273,7 +2273,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Eko Araştırma SUP Platformu Üreticisi | {SITE}',
       description:
-        "Afarer, deniz koruma STK'ları, üniversiteler ve çevre izleme kuruluşları için çevre dostu SUP araştırma platformları sunar. Stabil yüzen platformlar, ekipman montaj sistemleri ve özel OEM çözümleri.",
+        "OLagoon, deniz koruma STK'ları, üniversiteler ve çevre izleme kuruluşları için çevre dostu SUP araştırma platformları sunar. Stabil yüzen platformlar, ekipman montaj sistemleri ve özel OEM çözümleri.",
     },
     hero: {
       tagline: 'Deniz Koruması, Çevresel İzleme & Bilimsel Keşif için Sürdürülebilir Su Araştırma Çözümleri',
@@ -2403,7 +2403,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Düşük Gürültülü SUP Konfigürasyonu ve Sensör Platformu Entegrasyonu',
               detail:
-                "Eylül 2024'te Huamán, EcoTouring 12'6″ X'i bilimsel yük konuşlandırmasına uyarlamak için Afarer'in çevresel araştırma bölümüyle ortak oldu. Modifikasyonlar şunları içeriyordu: bir Garmin echoMAP Plus 74cv balık bulucu/sonar transdüseri için güçlendirilmiş güverte montaj plakası (paslanmaz çelik, 4 cıvata düzeni); sualtı muhafazasında bir GoPro HERO12 Black için entegre RAM-montaj sistemi; veri kayıt cihazları ve GPS izleyicileri için tahtanın çekirdeğinde su geçirmez ekipman kuru bölmesi (7 L hacim, vida sızdırmazlığı); ve çamurlu nehir kıyılarına çıkmaya izin veren alçak profilli omurga koruması. Üç prototip tahta Ekim 2024'te Ucayali'de test edildi ve sualtı gürültü çıkışı 18 dB ölçüldü (5 m'de 25 beygir gücünde bir Tohatsu dıştan takmalı motor için 52 dB'ye kıyasla). ARA, Gordon ve Betty Moore Vakfı tarafından finanse edilen 212 bin $ değerinde 18 tahta sipariş etti.",
+                "Eylül 2024'te Huamán, EcoTouring 12'6″ X'i bilimsel yük konuşlandırmasına uyarlamak için OLagoon'in çevresel araştırma bölümüyle ortak oldu. Modifikasyonlar şunları içeriyordu: bir Garmin echoMAP Plus 74cv balık bulucu/sonar transdüseri için güçlendirilmiş güverte montaj plakası (paslanmaz çelik, 4 cıvata düzeni); sualtı muhafazasında bir GoPro HERO12 Black için entegre RAM-montaj sistemi; veri kayıt cihazları ve GPS izleyicileri için tahtanın çekirdeğinde su geçirmez ekipman kuru bölmesi (7 L hacim, vida sızdırmazlığı); ve çamurlu nehir kıyılarına çıkmaya izin veren alçak profilli omurga koruması. Üç prototip tahta Ekim 2024'te Ucayali'de test edildi ve sualtı gürültü çıkışı 18 dB ölçüldü (5 m'de 25 beygir gücünde bir Tohatsu dıştan takmalı motor için 52 dB'ye kıyasla). ARA, Gordon ve Betty Moore Vakfı tarafından finanse edilen 212 bin $ değerinde 18 tahta sipariş etti.",
             },
             {
               title: 'Adım 2: Araştırma Protokolü Uyarlama ve Sessiz Gözlem Yöntemi Geliştirme',
@@ -2413,7 +2413,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 3: Araştırmacı SUP Sertifikasyonu ve Uzak İstasyon Lojistiği',
               detail:
-                "Kasım 2024'te Afarer, 3 ARA istasyonunda 12 günlük bir saha eğitim programı gerçekleştirdi ve 12 araştırmacıyı (5 doktora adayı, 4 saha teknisyeni, 3 yerel nehir rehberi) sertifikalandırdı. Eğitim şunları kapsıyordu: nehir akıntıları (Ucayali 4 knot'a kadar akar), kütlek/enkaz kaçınma, gece tür araştırmaları için gece kürek çekme teknikleri ve orman içi suya indirme prosedürleri (şişirilmiş tahtaları halkalı (oxbow) göllere ulaştırmak için birincil orman içinde 400 m taşıma). Her araştırmacı, 40 saat gözetimli araştırma küreği tamamladı ve eşzamanlı veri kaydıyla 2 saatin altında 6 km'lik bir hat içeren nihai bir sınavı geçti. Sertifika geçme oranı: %92 (12'nin 11'i). Kalan araştırmacı rotasyon desteği olarak görev yaptı.",
+                "Kasım 2024'te OLagoon, 3 ARA istasyonunda 12 günlük bir saha eğitim programı gerçekleştirdi ve 12 araştırmacıyı (5 doktora adayı, 4 saha teknisyeni, 3 yerel nehir rehberi) sertifikalandırdı. Eğitim şunları kapsıyordu: nehir akıntıları (Ucayali 4 knot'a kadar akar), kütlek/enkaz kaçınma, gece tür araştırmaları için gece kürek çekme teknikleri ve orman içi suya indirme prosedürleri (şişirilmiş tahtaları halkalı (oxbow) göllere ulaştırmak için birincil orman içinde 400 m taşıma). Her araştırmacı, 40 saat gözetimli araştırma küreği tamamladı ve eşzamanlı veri kaydıyla 2 saatin altında 6 km'lik bir hat içeren nihai bir sınavı geçti. Sertifika geçme oranı: %92 (12'nin 11'i). Kalan araştırmacı rotasyon desteği olarak görev yaptı.",
             },
             {
               title: 'Adım 4: 2025 Saha Sezonu Sonuçları ve Koruma Etkisi',
@@ -2441,7 +2441,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: SUP Sensör Entegrasyonu ve Araştırma Platformu Tasarımı',
               detail:
-                "Aralık 2024'te Torres, EcoTouring 12'6″ X'i kıyı izlemesi için yapılandırmak üzere Afarer'in çevresel Ar-Ge ekibiyle çalıştı. Afarer, YSI EXO2 sonde için bir montaj plakası entegre etti (çekilen bir sonde sürüklemesi olmadan sürekli su akışına izin verecek şekilde tahtanın çekirdeğinden geçen özel bir gövde geçişli montaj kuyusuna oturtuldu). Tahta, bir sualtı video dizisini (kırmızı filtreli backscatter muhafazasında GoPro HERO12 Black) indirmek ve geri almak için pruva montajlı bir davit kolu (karbon fiber, 1,5 kg, 50 libre dereceli) aldı. Kıç montajlı veri kayıt kutusu (Pelican 1040), Mote'un bulut platformu üzerinden gerçek zamanlı veri yükleme için bir GNSS alıcısı ve hücresel modemi barındırıyordu. Üç prototip, Ocak 2025'te 30 günlük bir doğrulama çalışması için konuşlandırıldı ve eşleştirilmiş istasyonlarda tekne bazlı okumaların %2'si içinde sonde okumaları doğrulandı. Mote, SBEP ve Körfez Araştırma Programı tarafından finanse edilen 186 bin $ değerinde 15 tahta sipariş etti.",
+                "Aralık 2024'te Torres, EcoTouring 12'6″ X'i kıyı izlemesi için yapılandırmak üzere OLagoon'in çevresel Ar-Ge ekibiyle çalıştı. OLagoon, YSI EXO2 sonde için bir montaj plakası entegre etti (çekilen bir sonde sürüklemesi olmadan sürekli su akışına izin verecek şekilde tahtanın çekirdeğinden geçen özel bir gövde geçişli montaj kuyusuna oturtuldu). Tahta, bir sualtı video dizisini (kırmızı filtreli backscatter muhafazasında GoPro HERO12 Black) indirmek ve geri almak için pruva montajlı bir davit kolu (karbon fiber, 1,5 kg, 50 libre dereceli) aldı. Kıç montajlı veri kayıt kutusu (Pelican 1040), Mote'un bulut platformu üzerinden gerçek zamanlı veri yükleme için bir GNSS alıcısı ve hücresel modemi barındırıyordu. Üç prototip, Ocak 2025'te 30 günlük bir doğrulama çalışması için konuşlandırıldı ve eşleştirilmiş istasyonlarda tekne bazlı okumaların %2'si içinde sonde okumaları doğrulandı. Mote, SBEP ve Körfez Araştırma Programı tarafından finanse edilen 186 bin $ değerinde 15 tahta sipariş etti.",
             },
             {
               title: 'Adım 2: İzleme İstasyonu Ağı ve Gelgit Örnekleme Protokolü',
@@ -2451,7 +2451,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 3: Araştırma Görevlisi SUP Sertifikasyonu ve Sığ Su Navigasyon Eğitimi',
               detail:
-                "Şubat 2025'te Afarer'in araştırma bölümü, 5 günlük sığ su SUP araştırma operatörü kursuyla 8 Mote araştırma görevlisini (4 doktora seviyesinde bilim insanı, 4 saha teknisyeni) sertifikalandırdı. Eğitim şunları kapsıyordu: deniz otu yatağı navigasyonu (pervane izi analogundan kaçınma — yüzgeç sürüklemesi), lamantin yaklaşma protokolleri (50 m minimum yaklaşma mesafesi, gözlemde sessiz sürüklenme, motor gürültüsünden arınmış davranış gözlemi), gelgit akıntısı yönetimi (örnekleme için en fazla 1,5 knot akıntı, transit için 2,5 knot) ve rüzgarlı koşullarda ekipman konuşlandırma/geri alma. Torres ayrıca tüm görevlilerin Florida FWC lamantin karşılaşma eğitimini (2 saatlik çevrimiçi + saha bileşeni) tamamlamasını istedi. Sertifika, sahte bir örnekleme günüyle değerlendirildi: 3 saatte %100 veri tamlığıyla 4 istasyon. 8 görevlinin tamamı ilk denemede geçti; ortalama istasyon tamamlama süresi 38 dakikaydı (motorlu tekne protokolü için 68 dakikaya kıyasla).",
+                "Şubat 2025'te OLagoon'in araştırma bölümü, 5 günlük sığ su SUP araştırma operatörü kursuyla 8 Mote araştırma görevlisini (4 doktora seviyesinde bilim insanı, 4 saha teknisyeni) sertifikalandırdı. Eğitim şunları kapsıyordu: deniz otu yatağı navigasyonu (pervane izi analogundan kaçınma — yüzgeç sürüklemesi), lamantin yaklaşma protokolleri (50 m minimum yaklaşma mesafesi, gözlemde sessiz sürüklenme, motor gürültüsünden arınmış davranış gözlemi), gelgit akıntısı yönetimi (örnekleme için en fazla 1,5 knot akıntı, transit için 2,5 knot) ve rüzgarlı koşullarda ekipman konuşlandırma/geri alma. Torres ayrıca tüm görevlilerin Florida FWC lamantin karşılaşma eğitimini (2 saatlik çevrimiçi + saha bileşeni) tamamlamasını istedi. Sertifika, sahte bir örnekleme günüyle değerlendirildi: 3 saatte %100 veri tamlığıyla 4 istasyon. 8 görevlinin tamamı ilk denemede geçti; ortalama istasyon tamamlama süresi 38 dakikaydı (motorlu tekne protokolü için 68 dakikaya kıyasla).",
             },
             {
               title: 'Adım 4: Mart–Kasım 2025 İzleme Sezonu ve Ölçülebilir Ekolojik Çıktılar',
@@ -2468,8 +2468,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Araştırma Kuruluşları Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Araştırma Kuruluşları Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Kararlılık',
@@ -2495,24 +2495,24 @@ const tr: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Afarer araştırma SUP platformuna hangi bilimsel ekipman monte edilebilir?',
+        question: 'OLagoon araştırma SUP platformuna hangi bilimsel ekipman monte edilebilir?',
         answer:
-          'Afarer araştırma platformları; su kalitesi sensörleri, kameralar ve GPS üniteleri, örnekleme kapları, ölçüm araçları ve veri toplama cihazları dahil çok çeşitli ekipmanı destekler. Modüler montaj sistemi, belirli araştırma konfigürasyonları için özelleştirilebilir.',
+          'OLagoon araştırma platformları; su kalitesi sensörleri, kameralar ve GPS üniteleri, örnekleme kapları, ölçüm araçları ve veri toplama cihazları dahil çok çeşitli ekipmanı destekler. Modüler montaj sistemi, belirli araştırma konfigürasyonları için özelleştirilebilir.',
       },
       {
         question: 'Su örnekleme ve izleme aktiviteleri için SUP platformu ne kadar kararlı?',
         answer:
-          'Afarer araştırma platformları; özellikle bilimsel saha operasyonları için tasarlanmış ekstra geniş tasarım, artırılmış ayakta durma alanı, geliştirilmiş denge ve yüksek yüzdürme kapasiteli yapı özellikleri taşır. Kararlılık, araştırmacıların ekipmanı güvenle kullanmasını, örnek toplamasını ve ölçüm yapmasını sağlar.',
+          'OLagoon araştırma platformları; özellikle bilimsel saha operasyonları için tasarlanmış ekstra geniş tasarım, artırılmış ayakta durma alanı, geliştirilmiş denge ve yüksek yüzdürme kapasiteli yapı özellikleri taşır. Kararlılık, araştırmacıların ekipmanı güvenle kullanmasını, örnek toplamasını ve ölçüm yapmasını sağlar.',
       },
       {
-        question: 'Afarer araştırma SUP tahtalarında hangi çevre dostu malzemeler kullanılıyor?',
+        question: 'OLagoon araştırma SUP tahtalarında hangi çevre dostu malzemeler kullanılıyor?',
         answer:
-          'Afarer, değişim sıklığını ve kaynak tüketimini azaltan uzun ömürlü dayanıklı yapıya odaklanır. Geri dönüştürülebilir seçenekler ve daha düşük etkili üretim yaklaşımları dahil sürdürülebilir malzeme seçenekleri sunuyoruz; bunlar çevresel koruma misyonlarıyla uyumludur.',
+          'OLagoon, değişim sıklığını ve kaynak tüketimini azaltan uzun ömürlü dayanıklı yapıya odaklanır. Geri dönüştürülebilir seçenekler ve daha düşük etkili üretim yaklaşımları dahil sürdürülebilir malzeme seçenekleri sunuyoruz; bunlar çevresel koruma misyonlarıyla uyumludur.',
       },
       {
         question: 'SUP platformları belirli araştırma projesi gereksinimleri için özelleştirilebilir mi?',
         answer:
-          'Evet, Afarer; özel tahta boyutları (ekstra genişlik, ek uzunluk), artırılmış yük kapasitesi, ekipman montaj arayüzleri, depolama çözümleri, kuruluş logoları ve projeye özel aksesuarlar dahil eksiksiz özelleştirmeyi destekler.',
+          'Evet, OLagoon; özel tahta boyutları (ekstra genişlik, ek uzunluk), artırılmış yük kapasitesi, ekipman montaj arayüzleri, depolama çözümleri, kuruluş logoları ve projeye özel aksesuarlar dahil eksiksiz özelleştirmeyi destekler.',
       },
       {
         question: 'Çevresel izleme için SUP, geleneksel araştırma tekneleriyle karşılaştırıldığında nasıldır?',
@@ -2522,13 +2522,13 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Özel bir araştırma SUP platformu için tipik teslim süresi nedir?',
         answer:
-          'Teslim süreleri özelleştirme karmaşıklığına ve sipariş miktarına göre değişir. Afarer, yeni araştırma konseptleri için prototip geliştirmeden kurumsal siparişler için parti üretime kadar destek sağlar. Proje zaman çizelgelerini ve saha sezonu gereksinimlerini karşılamak için araştırma ekipleriyle yakın çalışıyoruz.',
+          'Teslim süreleri özelleştirme karmaşıklığına ve sipariş miktarına göre değişir. OLagoon, yeni araştırma konseptleri için prototip geliştirmeden kurumsal siparişler için parti üretime kadar destek sağlar. Proje zaman çizelgelerini ve saha sezonu gereksinimlerini karşılamak için araştırma ekipleriyle yakın çalışıyoruz.',
       },
     ],
     cta: {
-      title: 'Afarer ile Eko Araştırma Su Platformunuzu Kurun',
+      title: 'OLagoon ile Eko Araştırma Su Platformunuzu Kurun',
       subtitle:
-        "Su araştırmasının geleceği esnek ve sürdürülebilir çözümler gerektiriyor. Afarer; deniz STK'larına, üniversitelere, araştırma kurumlarına ve çevre kuruluşlarına profesyonel mobil su araştırma platformları oluşturma konusunda yardım eder.",
+        "Su araştırmasının geleceği esnek ve sürdürülebilir çözümler gerektiriyor. OLagoon; deniz STK'larına, üniversitelere, araştırma kurumlarına ve çevre kuruluşlarına profesyonel mobil su araştırma platformları oluşturma konusunda yardım eder.",
       primaryAction: {
         text: 'Projenizi Başlatın',
       },
@@ -2542,15 +2542,15 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Amazon SUP Marka Tedarikçisi | Özel Şişirilebilir SUP Üreticisi | {SITE}',
       description:
-        "Afarer, Amazon, Walmart ve Shopify satıcılarının özel şişirilebilir paddle board'lar, private label üretimi, benzersiz grafikler, hızlı tedarik zinciri ve e-ticaret ürün desteğiyle farklılaşan SUP markaları kurmasına yardımcı olur.",
+        "OLagoon, Amazon, Walmart ve Shopify satıcılarının özel şişirilebilir paddle board'lar, private label üretimi, benzersiz grafikler, hızlı tedarik zinciri ve e-ticaret ürün desteğiyle farklılaşan SUP markaları kurmasına yardımcı olur.",
     },
     hero: {
       tagline: 'Ürün Farklılaştırması ve Hızlı Tedarik™',
       title: 'E-ticaret Pazaryeri Satıcıları için Farklılaştırılmış SUP Ürünleri',
       subtitle:
-        "Afarer, Amazon, Walmart ve Shopify satıcılarının özel şişirilebilir paddleboard'lar, private label üretimi, benzersiz grafikler, hızlı tedarik zinciri ve e-ticaret ürün desteğiyle farklılaştırılmış SUP markaları kurmasına yardımcı olur.",
+        "OLagoon, Amazon, Walmart ve Shopify satıcılarının özel şişirilebilir paddleboard'lar, private label üretimi, benzersiz grafikler, hızlı tedarik zinciri ve e-ticaret ürün desteğiyle farklılaştırılmış SUP markaları kurmasına yardımcı olur.",
       image: {
-        alt: 'Afarer özel SUP tahtaları açıklaması',
+        alt: 'OLagoon özel SUP tahtaları açıklaması',
       },
     },
     challenge: {
@@ -2664,7 +2664,7 @@ const tr: Record<string, SolutionOverride> = {
       customer:
         "Daha önce Amazon ve Shopify kanalları üzerinden kamp aksesuarları, outdoor ürünleri ve fitness ekipmanları satan ABD'li Amazon Outdoor Satıcısı.",
       steps: [
-        'Afarer, hedef müşteriyi genç outdoor yaşam tarzı tüketicileri olarak tanımlamaya yardımcı oldu ve ürünü benzersiz görsel kimliğe sahip, premium görünümlü uygun fiyatlı bir SUP olarak konumlandırdı.',
+        'OLagoon, hedef müşteriyi genç outdoor yaşam tarzı tüketicileri olarak tanımlamaya yardımcı oldu ve ürünü benzersiz görsel kimliğe sahip, premium görünümlü uygun fiyatlı bir SUP olarak konumlandırdı.',
         "Benzersiz tahta grafikleri, premium renk sistemi, iyileştirilmiş aksesuar paketi ve marka odaklı ambalajla özel bir 10'6″ Şişirilebilir SUP oluşturuldu.",
         'Pazaryeri listelemeleri için ürün görsel yapısı, özellik sunumu ve yaşam tarzı görsel yönünü içeren e-ticaret içerik stratejisi hazırlandı.',
         'Amazon lansmanı, reklam testi ve müşteri geri bildirimi toplama için 500 adetle lansman yapıldı.',
@@ -2689,22 +2689,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Amazon Kategori Analizi ve SKU Mimarisi',
               detail:
-                "Ocak 2023'te Afarer'in e-ticaret strateji ekibi, Helium 10 ve Jungle Scout araçlarını kullanarak Amazon UK SUP kategorisi üzerinde derinlemesine bir analiz yürüttü. İlk kez satın alan alıcıların %78'inin “eksiksiz paketler” (tahta + kürek + pompa + çanta + leash + fin) aradığını, ancak yalnızca 4 markanın premium aksesuarlı gerçek bir all-in-one set sunduğunu tespit ettiler. Afarer 3 SKU'luk bir dizilim önerdi: “AquaStart 10'6″ Tam Set” (hedef fiyat 449 £), “AquaStart 11'0″ Touring Set” (549 £) ve “AquaStart Duo” (699 £, 2 tahtalık aile paketi). Her set, basınç göstergeli el pompası, 3 parçalı karbon fiber kürek, helezon leash, 5″ çıkarılabilir US fin ve su geçirmez telefon kılıfı içeriyordu — bu, aksesuarların çoğunu ayrı satan rakiplerden farklılaşıyordu.",
+                "Ocak 2023'te OLagoon'in e-ticaret strateji ekibi, Helium 10 ve Jungle Scout araçlarını kullanarak Amazon UK SUP kategorisi üzerinde derinlemesine bir analiz yürüttü. İlk kez satın alan alıcıların %78'inin “eksiksiz paketler” (tahta + kürek + pompa + çanta + leash + fin) aradığını, ancak yalnızca 4 markanın premium aksesuarlı gerçek bir all-in-one set sunduğunu tespit ettiler. OLagoon 3 SKU'luk bir dizilim önerdi: “AquaStart 10'6″ Tam Set” (hedef fiyat 449 £), “AquaStart 11'0″ Touring Set” (549 £) ve “AquaStart Duo” (699 £, 2 tahtalık aile paketi). Her set, basınç göstergeli el pompası, 3 parçalı karbon fiber kürek, helezon leash, 5″ çıkarılabilir US fin ve su geçirmez telefon kılıfı içeriyordu — bu, aksesuarların çoğunu ayrı satan rakiplerden farklılaşıyordu.",
             },
             {
               title: 'Adım 2 — E-ticaret ve FBA Uyumuna Yönelik Ambalaj Tasarımı',
               detail:
-                "Afarer, Amazon'un FBA boyut sınırlarına uyan perakendeye hazır bir ambalaj tasarladı: 10'6″ tahta kutusu 34″ × 18″ × 14″ ölçüsündeydi ve 14,2 kg ağırlığındaydı — ağır-hacimli ürün ücretlerinden kaçınmak için Amazon'un 15 kg eşiğinin altında. Kutu, depo personeli için iki tarafta kesme kulp içeriyordu. İçeride tahta, 0,1 mm'lik PE torbada vakumla kapatılmış, aksesuarlarla birlikte özel kesim EVA köpük yerleştirmelere yerleştirilmişti. Her aksesuar, AquaStart markalı tek tek poşetlenmişti. Paket, “Hızlı Başlangıç Kılavuzu” (6 dakikalık kutu açma videosuna bağlanan QR kodu) içeriyordu. Afarer'in ambalaj mühendisi, ilk tasarıma kıyasla toplam kutu hacmini %22 azalttı ve Priya'ya adet başına 1,80 £ FBA gerçekleştirme ücreti tasarrufu sağladı.",
+                "OLagoon, Amazon'un FBA boyut sınırlarına uyan perakendeye hazır bir ambalaj tasarladı: 10'6″ tahta kutusu 34″ × 18″ × 14″ ölçüsündeydi ve 14,2 kg ağırlığındaydı — ağır-hacimli ürün ücretlerinden kaçınmak için Amazon'un 15 kg eşiğinin altında. Kutu, depo personeli için iki tarafta kesme kulp içeriyordu. İçeride tahta, 0,1 mm'lik PE torbada vakumla kapatılmış, aksesuarlarla birlikte özel kesim EVA köpük yerleştirmelere yerleştirilmişti. Her aksesuar, AquaStart markalı tek tek poşetlenmişti. Paket, “Hızlı Başlangıç Kılavuzu” (6 dakikalık kutu açma videosuna bağlanan QR kodu) içeriyordu. OLagoon'in ambalaj mühendisi, ilk tasarıma kıyasla toplam kutu hacmini %22 azalttı ve Priya'ya adet başına 1,80 £ FBA gerçekleştirme ücreti tasarrufu sağladı.",
             },
             {
               title: 'Adım 3 — Amazon Listeleme Optimizasyonu, A+ İçeriği ve Lansman Stratejisi',
               detail:
-                "Afarer'in içerik stüdyosu, 14 A+ modül görseli, Windermere Gölü'nde çekilmiş 6 yaşam tarzı fotoğrafı, 90 saniyelik marka hikâyesi videosu ve 360 derecelik ürün görüntüleyici üretti. Amazon arama terimi raporunda tespit edilen 237 uzun kuyruklu anahtar kelimeyi hedefleyen, anahtar kelime için optimize edilmiş madde işaretleri yazdılar. Lansman stratejisi, ilk yorum hızını oluşturmak için 21 günlük bir “Vine” programı (%50 indirimle 30 adet) devreye soktu; ardından 3 SKU'ya bölünmüş günlük bütçeli 2.000 £'luk bir Amazon PPC kampanyası (Sponsored Products + Sponsored Brand) geldi. Kampanya 15 Nisan 2023'te başladı. 45. güne gelindiğinde AquaStart, ortalama 4,6 yıldızla 24 yorum almıştı ve 10'6″ set SUP kategorisinde 17. sıraya ulaşmıştı.",
+                "OLagoon'in içerik stüdyosu, 14 A+ modül görseli, Windermere Gölü'nde çekilmiş 6 yaşam tarzı fotoğrafı, 90 saniyelik marka hikâyesi videosu ve 360 derecelik ürün görüntüleyici üretti. Amazon arama terimi raporunda tespit edilen 237 uzun kuyruklu anahtar kelimeyi hedefleyen, anahtar kelime için optimize edilmiş madde işaretleri yazdılar. Lansman stratejisi, ilk yorum hızını oluşturmak için 21 günlük bir “Vine” programı (%50 indirimle 30 adet) devreye soktu; ardından 3 SKU'ya bölünmüş günlük bütçeli 2.000 £'luk bir Amazon PPC kampanyası (Sponsored Products + Sponsored Brand) geldi. Kampanya 15 Nisan 2023'te başladı. 45. güne gelindiğinde AquaStart, ortalama 4,6 yıldızla 24 yorum almıştı ve 10'6″ set SUP kategorisinde 17. sıraya ulaşmıştı.",
             },
             {
               title: 'Adım 4 — Stok Yönetimi, Talep Tahmini ve İkinci Üretim Partisi',
               detail:
-                "Afarer'in talep planlama ekibi, Amazon geçmiş verilerini, Google Trends'i (Birleşik Krallık'ta paddleboard arama hacmi) ve mevsimsel faktörleri kullanarak 6 aylık bir tahmin modeli oluşturdu. Model, Eylül 2023'e kadar 410 adetlik satış hızı öngördü. Priya'nın ilk üretim partisi 500 adetti (300 × 10'6″, 120 × 11'0″, 80 × Duo) ve Manchester ile Doncaster'daki Amazon FBA merkezlerine sevk edildi. 30 Eylül'e kadar gerçekleşen satış hızı 386 adetti — tahminin %6'sı içinde. Ekim 2023'te 2 önemli değişiklikle 700 adetlik ikinci üretim partisi sipariş edildi: takviyeli taşıma çantası kulpları (ilk partiden 9 kırılma bildirimi) ve yükseltilmiş paslanmaz çelik D-halkalar (4 korozyon şikayetinden sonra). Aralık 2023'e kadar AquaStart UK geliri 298.000 £'ya ulaştı; 10'6″ set Amazon UK'de 12. sıradaki konumunu koruyordu.",
+                "OLagoon'in talep planlama ekibi, Amazon geçmiş verilerini, Google Trends'i (Birleşik Krallık'ta paddleboard arama hacmi) ve mevsimsel faktörleri kullanarak 6 aylık bir tahmin modeli oluşturdu. Model, Eylül 2023'e kadar 410 adetlik satış hızı öngördü. Priya'nın ilk üretim partisi 500 adetti (300 × 10'6″, 120 × 11'0″, 80 × Duo) ve Manchester ile Doncaster'daki Amazon FBA merkezlerine sevk edildi. 30 Eylül'e kadar gerçekleşen satış hızı 386 adetti — tahminin %6'sı içinde. Ekim 2023'te 2 önemli değişiklikle 700 adetlik ikinci üretim partisi sipariş edildi: takviyeli taşıma çantası kulpları (ilk partiden 9 kırılma bildirimi) ve yükseltilmiş paslanmaz çelik D-halkalar (4 korozyon şikayetinden sonra). Aralık 2023'e kadar AquaStart UK geliri 298.000 £'ya ulaştı; 10'6″ set Amazon UK'de 12. sıradaki konumunu koruyordu.",
             },
           ],
           results: [
@@ -2726,22 +2726,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Geri Dönüştürülmüş Malzeme Tedariki ve Tedarik Zinciri Sertifikasyonu',
               detail:
-                "Afarer, Ocak–Nisan 2023 arasında, kendi fabrika atölyelerinden gelen sanayi sonrası kumaş atıklarını kullanarak geri dönüştürülmüş bir PVC laminat geliştirmek için 14 hafta harcadı. “EcoShell RPVC” olarak markalanan malzeme, ağırlıkça %63 geri dönüştürülmüş içerik içeriyordu ve 3.200 N/5 cm çekme dayanımına ulaştı (işlenmemiş PVC için 3.500 N'ye karşı). Afarer, malzeme için GRS (Global Recycled Standard) sertifikası aldı ve işlenmemiş PVC tahtalara kıyasla tahta başına CO₂e'de %37 azalma gösteren üçüncü taraf bir yaşam döngüsü değerlendirmesi düzenledi. Felix'in ekibi, taşıma çantası kumaşını ve güverte pedi EVA'sını (%30 geri dönüştürülmüş içerik) üretmek için Berlin merkezli bir geri dönüşüm kooperatifinden 50.000 geri dönüştürülmüş PET şişe tedarik etti. Toplam sürdürülebilir malzeme primi tahta başına 18 € idi; Afarer bunu kendi marjına gömerek UrbanPulse'un hedef perakende fiyatına ulaşmasına yardımcı oldu.",
+                "OLagoon, Ocak–Nisan 2023 arasında, kendi fabrika atölyelerinden gelen sanayi sonrası kumaş atıklarını kullanarak geri dönüştürülmüş bir PVC laminat geliştirmek için 14 hafta harcadı. “EcoShell RPVC” olarak markalanan malzeme, ağırlıkça %63 geri dönüştürülmüş içerik içeriyordu ve 3.200 N/5 cm çekme dayanımına ulaştı (işlenmemiş PVC için 3.500 N'ye karşı). OLagoon, malzeme için GRS (Global Recycled Standard) sertifikası aldı ve işlenmemiş PVC tahtalara kıyasla tahta başına CO₂e'de %37 azalma gösteren üçüncü taraf bir yaşam döngüsü değerlendirmesi düzenledi. Felix'in ekibi, taşıma çantası kumaşını ve güverte pedi EVA'sını (%30 geri dönüştürülmüş içerik) üretmek için Berlin merkezli bir geri dönüşüm kooperatifinden 50.000 geri dönüştürülmüş PET şişe tedarik etti. Toplam sürdürülebilir malzeme primi tahta başına 18 € idi; OLagoon bunu kendi marjına gömerek UrbanPulse'un hedef perakende fiyatına ulaşmasına yardımcı oldu.",
             },
             {
               title: 'Adım 2 — Karbon Nötr Gerçekleştirme ve DTC Lojistik Mimarisi',
               detail:
-                "Afarer'in lojistik ekibi, UrbanPulse hesabı için DHL GoGreen Climate Neutral ile ortaklık kurdu ve sevk edilen her tahta için 1,8 kg CO₂ dengeledi (Çin'den Hamburg'a deniz taşımacılığı ve son mil teslimatı dahil). UrbanPulse'un Köln deposunda, şişirilebilir SUP kutuları için özel raf sistemiyle adanmış 200 m²'lik bir gerçekleştirme alanı kurdular. Her sevkiyat, karton kutu için önceden ödenmiş bir iade etiketi içeriyordu (%100 geri dönüştürülmüş, FSC sertifikalı kartona soya bazlı mürekkeplerle basılmış). Afarer'in ambalaj tasarımı tüm tek kullanımlık plastikleri ortadan kaldırdı: tahta kompostlanabilir bir PBAT/PLA filmine sarıldı, aksesuarlar kağıt bantla sabitlendi ve kullanıcı kılavuzu tohum kağıdına basıldı (okuduktan sonra dikin).",
+                "OLagoon'in lojistik ekibi, UrbanPulse hesabı için DHL GoGreen Climate Neutral ile ortaklık kurdu ve sevk edilen her tahta için 1,8 kg CO₂ dengeledi (Çin'den Hamburg'a deniz taşımacılığı ve son mil teslimatı dahil). UrbanPulse'un Köln deposunda, şişirilebilir SUP kutuları için özel raf sistemiyle adanmış 200 m²'lik bir gerçekleştirme alanı kurdular. Her sevkiyat, karton kutu için önceden ödenmiş bir iade etiketi içeriyordu (%100 geri dönüştürülmüş, FSC sertifikalı kartona soya bazlı mürekkeplerle basılmış). OLagoon'in ambalaj tasarımı tüm tek kullanımlık plastikleri ortadan kaldırdı: tahta kompostlanabilir bir PBAT/PLA filmine sarıldı, aksesuarlar kağıt bantla sabitlendi ve kullanıcı kılavuzu tohum kağıdına basıldı (okuduktan sonra dikin).",
             },
             {
               title: 'Adım 3 — Shopify Entegrasyonu, Lansman Öncesi İçerik ve Influencer Stratejisi',
               detail:
-                "Afarer'in e-ticaret ekibi, UrbanPulse Shopify mağazasını, müşterilerin tahta rengini (3 seçenek) ve kürek rengini (2 seçenek) seçmesine ve tahtanın seri numarasıyla geri dönüştürülmüş içeriğin tam miktarını (gram cinsinden) gösteren bir “sürdürülebilirlik rozeti” eklemesine olanak tanıyan özel bir ürün konfigüratörüyle entegre etti. Afarer, Berlinli SUP influencer'ları “GreenPaddle” ve “ElisePaddlesBerlin”i (toplam 72.000 takipçi) öne çıkaran 6 kısa formatlı video varlığı (15–45 saniye) üretti. İçerik, Berlin'in kanallarında ve göllerinde “kentsel paddleboard”a odaklandı ve SUP'ı şehirde yaşayanların hafta sonu aktivitesi olarak konumlandırdı. Lansman öncesi e-posta kampanyası (12.000 UrbanPulse abonesine gönderildi) %34 açılma oranı ve ürün sayfasına 2.100 tıklama elde etti.",
+                "OLagoon'in e-ticaret ekibi, UrbanPulse Shopify mağazasını, müşterilerin tahta rengini (3 seçenek) ve kürek rengini (2 seçenek) seçmesine ve tahtanın seri numarasıyla geri dönüştürülmüş içeriğin tam miktarını (gram cinsinden) gösteren bir “sürdürülebilirlik rozeti” eklemesine olanak tanıyan özel bir ürün konfigüratörüyle entegre etti. OLagoon, Berlinli SUP influencer'ları “GreenPaddle” ve “ElisePaddlesBerlin”i (toplam 72.000 takipçi) öne çıkaran 6 kısa formatlı video varlığı (15–45 saniye) üretti. İçerik, Berlin'in kanallarında ve göllerinde “kentsel paddleboard”a odaklandı ve SUP'ı şehirde yaşayanların hafta sonu aktivitesi olarak konumlandırdı. Lansman öncesi e-posta kampanyası (12.000 UrbanPulse abonesine gönderildi) %34 açılma oranı ve ürün sayfasına 2.100 tıklama elde etti.",
             },
             {
               title: 'Adım 4 — Lansman, Kanal Genişlemesi ve Yeniden Sipariş Kararı',
               detail:
-                "UrbanPulse SUP koleksiyonu 1 Haziran 2023'te 500 adetle (350 all-round, 150 touring) lansman edildi. İlk hafta satış hızı 112 adet oldu (%22,4). Afarer'in talep planlayıcıları Google Shopping ve Meta'daki PPC stratejisini ayarladı ve bütçeyi “nachhaltiges SUP kaufen” (sürdürülebilir SUP satın al) gibi yüksek niyetli anahtar kelimelere kaydırdı. 8. haftaya gelindiğinde all-round tahta, Alman Shopify DTC pazarında en çok satan 2. SUP oldu (Fanatic'in doğrudan satışlarının ardından). Ağustos 2023'te Felix, SportScheck ile bir ortaklık güvence altına aldı ve 8 mağaza boyunca özel “Sürdürülebilir Sporlar” raf üniteleriyle 80 tahta yerleştirdi. Aralık 2023'e kadar toplam gelir 487.000 €'ya ulaştı; all-round tahta satışların %71'ini oluşturuyordu. Şubat 2024 için 800 adetlik ikinci üretim partisi sipariş edildi.",
+                "UrbanPulse SUP koleksiyonu 1 Haziran 2023'te 500 adetle (350 all-round, 150 touring) lansman edildi. İlk hafta satış hızı 112 adet oldu (%22,4). OLagoon'in talep planlayıcıları Google Shopping ve Meta'daki PPC stratejisini ayarladı ve bütçeyi “nachhaltiges SUP kaufen” (sürdürülebilir SUP satın al) gibi yüksek niyetli anahtar kelimelere kaydırdı. 8. haftaya gelindiğinde all-round tahta, Alman Shopify DTC pazarında en çok satan 2. SUP oldu (Fanatic'in doğrudan satışlarının ardından). Ağustos 2023'te Felix, SportScheck ile bir ortaklık güvence altına aldı ve 8 mağaza boyunca özel “Sürdürülebilir Sporlar” raf üniteleriyle 80 tahta yerleştirdi. Aralık 2023'e kadar toplam gelir 487.000 €'ya ulaştı; all-round tahta satışların %71'ini oluşturuyordu. Şubat 2024 için 800 adetlik ikinci üretim partisi sipariş edildi.",
             },
           ],
           results: [
@@ -2753,8 +2753,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Neden Afarer',
+    whyOLagoon: {
+      title: 'Neden OLagoon',
       items: [
         {
           title: 'Ürün Farklılaştırması',
@@ -2786,7 +2786,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: "Amazon'da SUP ürünümü nasıl farklılaştırabilirim?",
         answer:
-          'Afarer, ürününüzü birbirinin aynısı rakip listelemelerinden ayıran benzersiz tahta grafikleri, özel renk sistemleri, iyileştirilmiş aksesuar paketleri ve marka odaklı ambalaj oluşturulmasına yardımcı olur.',
+          'OLagoon, ürününüzü birbirinin aynısı rakip listelemelerinden ayıran benzersiz tahta grafikleri, özel renk sistemleri, iyileştirilmiş aksesuar paketleri ve marka odaklı ambalaj oluşturulmasına yardımcı olur.',
       },
       {
         question: 'Pazaryeri satıcıları için minimum sipariş adedi nedir?',
@@ -2796,7 +2796,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Amazon listeleme içeriği ve görselleriyle ilgili yardımcı olabilir misiniz?',
         answer:
-          'Evet. Afarer; ana görsel konseptleri, özellik görselleri, yaşam tarzı fotoğrafçılık yönü ve ürün bilgisi organizasyonu dahil e-ticaret görsel desteği sağlar.',
+          'Evet. OLagoon; ana görsel konseptleri, özellik görselleri, yaşam tarzı fotoğrafçılık yönü ve ürün bilgisi organizasyonu dahil e-ticaret görsel desteği sağlar.',
       },
       {
         question: 'Özel SUP siparişimi ne kadar hızlı üretebilir ve sevk edebilirsiniz?',
@@ -2811,7 +2811,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Tek bir SUP ürününün ötesine geçip eksiksiz bir markaya genişlememde yardımcı olabilir misiniz?',
         answer:
-          'Evet. Afarer, marka genişlemesi için birden fazla SUP modeli ve outdoor aksesuarları dahil eksiksiz ürün portföyü geliştirmeyi destekler.',
+          'Evet. OLagoon, marka genişlemesi için birden fazla SUP modeli ve outdoor aksesuarları dahil eksiksiz ürün portföyü geliştirmeyi destekler.',
       },
     ],
     cta: {
@@ -2828,15 +2828,15 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Outdoor Markanızı Su Sporlarına Genişletin | SUP OEM Üreticisi | {SITE}',
       description:
-        "Afarer, yerleşik outdoor markalarının özel SUP üretimi, Drop Stitch teknolojisi, PVC uzmanlığı, private label paddle board'lar ve eksiksiz ürün geliştirme çözümleriyle su sporlarına genişlemesine yardımcı olur.",
+        "OLagoon, yerleşik outdoor markalarının özel SUP üretimi, Drop Stitch teknolojisi, PVC uzmanlığı, private label paddle board'lar ve eksiksiz ürün geliştirme çözümleriyle su sporlarına genişlemesine yardımcı olur.",
     },
     hero: {
       tagline: 'Outdoor Markanızı Su Sporlarına Genişletin™',
       title: 'Köklü Outdoor Markaları için Su Sporları Ürün Genişlemesi',
       subtitle:
-        "Afarer, köklü outdoor markalarının özel SUP üretimi, Drop Stitch teknolojisi, PVC uzmanlığı, private label paddle board'lar ve eksiksiz ürün geliştirme çözümleriyle su sporlarına genişlemesine yardımcı olur.",
+        "OLagoon, köklü outdoor markalarının özel SUP üretimi, Drop Stitch teknolojisi, PVC uzmanlığı, private label paddle board'lar ve eksiksiz ürün geliştirme çözümleriyle su sporlarına genişlemesine yardımcı olur.",
       image: {
-        alt: 'Afarer özel SUP tahtaları açıklaması',
+        alt: 'OLagoon özel SUP tahtaları açıklaması',
       },
     },
     challenge: {
@@ -2939,7 +2939,7 @@ const tr: Record<string, SolutionOverride> = {
       customer:
         'Başta kampçılık ekipmanı, outdoor aksesuarları ve macera yaşam tarzı ürünleri olmak üzere, güçlü bir perakende ağı ve sadık bir müşteri tabanasına odaklanan Avrupa merkezli bir Outdoor Yaşam Tarzı Markası.',
       steps: [
-        "Afarer marka konumlandırmasını analiz etti ve 'Karadan suya outdoor macerası' temasıyla all-round SUP, touring SUP ve aksesuarları içeren bir Premium Outdoor SUP Koleksiyonu stratejisi önerdi.",
+        "OLagoon marka konumlandırmasını analiz etti ve 'Karadan suya outdoor macerası' temasıyla all-round SUP, touring SUP ve aksesuarları içeren bir Premium Outdoor SUP Koleksiyonu stratejisi önerdi.",
         "Yüksek stabilite, premium konstrüksiyon ve outdoor yaşam tarzı tasarımına sahip 10'6″ All-Round SUP ile macera performansı ve uzun mesafe kapasitesine sahip 12'6″ Touring SUP geliştirildi.",
         'Mevcut outdoor marka kimliğiyle mükemmel uyum sağlayan özel grafikler, marka renkleri, ambalaj ve bir aksesuar sistemi oluşturuldu.',
         'Lansman, mevcut bayiler, e-ticaret kanalları ve outdoor perakendecileri üzerinden dağıtılan 1.000 adetlik ilk siparişle yapıldı.',
@@ -2964,22 +2964,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Pazar Analizi ve Ürün Mimarisinin Planlanması',
               detail:
-                "Mart 2023'te Afarer'in pazar zekâsı ekibi, ABD ve Kanada'daki 120 perakendeciden 18 aylık SUP satış verilerini analiz etti. En hızlı büyüyen alt segmenti belirlediler — 749–999 CAD fiyat aralığındaki, 10'6″ ile 11'6″ arasındaki all-round SUP'lar, yıllık %34 büyümüştü. Afarer 4 SKU'luk bir dizilim önerdi — “Discovery” 10'6″ all-round tahta (hedef fiyat 799 CAD), “Expedition” 11'6″ touring tahta (949 CAD), “Crossover” 10'2″ yoga ve fitness SUP'ı (699 CAD) ve sökülebilir sandık montaj sistemli “Angler” balıkçılık SUP'ı (1.049 CAD). Henrik, teklifi Nisan ayında kabul etti ve bahar perakende satın alma sezonu için lansman tarihi olarak Şubat 2024'ü hedefledi.",
+                "Mart 2023'te OLagoon'in pazar zekâsı ekibi, ABD ve Kanada'daki 120 perakendeciden 18 aylık SUP satış verilerini analiz etti. En hızlı büyüyen alt segmenti belirlediler — 749–999 CAD fiyat aralığındaki, 10'6″ ile 11'6″ arasındaki all-round SUP'lar, yıllık %34 büyümüştü. OLagoon 4 SKU'luk bir dizilim önerdi — “Discovery” 10'6″ all-round tahta (hedef fiyat 799 CAD), “Expedition” 11'6″ touring tahta (949 CAD), “Crossover” 10'2″ yoga ve fitness SUP'ı (699 CAD) ve sökülebilir sandık montaj sistemli “Angler” balıkçılık SUP'ı (1.049 CAD). Henrik, teklifi Nisan ayında kabul etti ve bahar perakende satın alma sezonu için lansman tarihi olarak Şubat 2024'ü hedefledi.",
             },
             {
               title: 'Adım 2 — Ortak Markalı Tasarım Entegrasyonu ve Perakende Uyumluluğu',
               detail:
-                "Afarer'in endüstriyel tasarımcıları, markanın dağ estetiğini su sporlarıyla buluşturan bir görsel kimlik geliştirmek için North Ridge'in Vancouver merkezli yaratıcı ekibiyle 8 hafta boyunca iş birliği yaptı. Nihai tasarımda, güverte pedinde topoğrafik çizgi desenleriyle North Ridge'in imza kömür ve kor rengi düzeni kullanıldı. Afarer tüm tahtaların REI'nin tedarikçi gereksinimlerini karşılamasını sağladı — FSC sertifikalı karton ambalaj, geri dönüştürülmüş PET taşıma çantaları ve ftalat ile ağır metaller açısından Kaliforniya Proposition 65 uyumluluğu. 14 sayfalık Ürün Bilgi Yönetimi (PIM) şartname föyü, 1 Ekim 2023'te REI'nin tedarikçi portalına sunuldu.",
+                "OLagoon'in endüstriyel tasarımcıları, markanın dağ estetiğini su sporlarıyla buluşturan bir görsel kimlik geliştirmek için North Ridge'in Vancouver merkezli yaratıcı ekibiyle 8 hafta boyunca iş birliği yaptı. Nihai tasarımda, güverte pedinde topoğrafik çizgi desenleriyle North Ridge'in imza kömür ve kor rengi düzeni kullanıldı. OLagoon tüm tahtaların REI'nin tedarikçi gereksinimlerini karşılamasını sağladı — FSC sertifikalı karton ambalaj, geri dönüştürülmüş PET taşıma çantaları ve ftalat ile ağır metaller açısından Kaliforniya Proposition 65 uyumluluğu. 14 sayfalık Ürün Bilgi Yönetimi (PIM) şartname föyü, 1 Ekim 2023'te REI'nin tedarikçi portalına sunuldu.",
             },
             {
               title: 'Adım 3 — Fotoğrafçılık, Metin Yazarlığı ve Lansman Öncesi Perakende Alıcısı Sunumları',
               detail:
-                "Afarer koleksiyon için 230 varlık üretti — beyaz fon üzerinde stüdyo ürün çekimleri, British Columbia'daki Garibaldi Gölü'nde (1.500 m rakım) çekilen yaşam tarzı görselleri ve 360 derece döner fotoğrafçılık. Quebec perakendecileri için İngilizce ve Kanada Fransızcası dillerinde yerelleştirilmiş ürün metinleri yazdılar. Afarer'in satış destek ekibi; BOTE ve Isle gibi markalarla rekabet analizi, perakendeciler için %48 brüt marj projeksiyonları ve test pazarlarından satış verileri içeren 22 sayfalık bir perakendeci satış sunumu hazırladı. Henrik ve Afarer'in satış direktörü, 15 Kasım 2023'te REI'nin ulusal alıcısına sunum yaptı ve 34 REI mağazasından taahhüt güvence altına aldı.",
+                "OLagoon koleksiyon için 230 varlık üretti — beyaz fon üzerinde stüdyo ürün çekimleri, British Columbia'daki Garibaldi Gölü'nde (1.500 m rakım) çekilen yaşam tarzı görselleri ve 360 derece döner fotoğrafçılık. Quebec perakendecileri için İngilizce ve Kanada Fransızcası dillerinde yerelleştirilmiş ürün metinleri yazdılar. OLagoon'in satış destek ekibi; BOTE ve Isle gibi markalarla rekabet analizi, perakendeciler için %48 brüt marj projeksiyonları ve test pazarlarından satış verileri içeren 22 sayfalık bir perakendeci satış sunumu hazırladı. Henrik ve OLagoon'in satış direktörü, 15 Kasım 2023'te REI'nin ulusal alıcısına sunum yaptı ve 34 REI mağazasından taahhüt güvence altına aldı.",
             },
             {
               title: 'Adım 4 — İlk Üretim Partisi, Depolama ve Satış Performansı',
               detail:
-                "4 SKU genelinde 2.800 adetlik üretim, Aralık 2023'te Afarer'in Dongguan tesisinde başladı. Afarer, 22 Ocak 2024 varış tarihiyle Vancouver'a deniz yükü ayarladı. İlk 800 adet, Doğu Kanada dağıtımı için North Ridge'in Mississauga'daki karşılama merkezine aktarıldı. 1 Mart 2024 itibarıyla koleksiyon 34 REI rafında, 18 MEC lokasyonunda ve NorthRidgeGear.com'da yayındaydı. Discovery tahtası yalnızca Mart ayında 340 adet sattı — öngörünün %136'sı. Haziran 2024'e gelindiğinde toplam koleksiyon geliri 678.000 CAD'e ulaştı ve Angler balıkçılık SUP'ı Ağustos boyunca ön siparişe kapandı.",
+                "4 SKU genelinde 2.800 adetlik üretim, Aralık 2023'te OLagoon'in Dongguan tesisinde başladı. OLagoon, 22 Ocak 2024 varış tarihiyle Vancouver'a deniz yükü ayarladı. İlk 800 adet, Doğu Kanada dağıtımı için North Ridge'in Mississauga'daki karşılama merkezine aktarıldı. 1 Mart 2024 itibarıyla koleksiyon 34 REI rafında, 18 MEC lokasyonunda ve NorthRidgeGear.com'da yayındaydı. Discovery tahtası yalnızca Mart ayında 340 adet sattı — öngörünün %136'sı. Haziran 2024'e gelindiğinde toplam koleksiyon geliri 678.000 CAD'e ulaştı ve Angler balıkçılık SUP'ı Ağustos boyunca ön siparişe kapandı.",
             },
           ],
           results: [
@@ -3001,22 +3001,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Avrupa Standartları Uyumuna Yönelik Malzeme İnovasyonu',
               detail:
-                "Afarer'in Guangzhou'daki AR-GE ekibi, AB'nin REACH kimyasal güvenlik standartlarını ve Alman GS güvenlik sertifikası gereksinimlerini aşan, tescilli 5 katmanlı bir PVC laminat geliştirmek için 10 hafta harcadı. AlpenWerk'in 'Alman Teknolojisiyle Üretilmiştir' pazarlama açısını karşılamak için Alman bir tedarikçiden (Karl Mayer Technische Textilien) tekstil sınıfı drop-stitch iplik tedarik ettiler. Temmuz 2023'te dört prototip tahta üretildi ve test için TÜV Rheinland'a gönderildi. İkisi, kuyruk pedinde yetersiz aşınma dayanımı nedeniyle ilk GS sertifikasyonunu geçemedi ve PVC yüzey katmanı kalınlığının 0,8 mm'den 0,9 mm'ye çıkarılması (%12 artış) gerekti.",
+                "OLagoon'in Guangzhou'daki AR-GE ekibi, AB'nin REACH kimyasal güvenlik standartlarını ve Alman GS güvenlik sertifikası gereksinimlerini aşan, tescilli 5 katmanlı bir PVC laminat geliştirmek için 10 hafta harcadı. AlpenWerk'in 'Alman Teknolojisiyle Üretilmiştir' pazarlama açısını karşılamak için Alman bir tedarikçiden (Karl Mayer Technische Textilien) tekstil sınıfı drop-stitch iplik tedarik ettiler. Temmuz 2023'te dört prototip tahta üretildi ve test için TÜV Rheinland'a gönderildi. İkisi, kuyruk pedinde yetersiz aşınma dayanımı nedeniyle ilk GS sertifikasyonunu geçemedi ve PVC yüzey katmanı kalınlığının 0,8 mm'den 0,9 mm'ye çıkarılması (%12 artış) gerekti.",
             },
             {
               title: 'Adım 2 — Perakende Alıcısı Müzakereleri ve Raflara Hazır Ambalaj',
               detail:
-                "Lena ve Afarer'in Avrupa satış direktörü, Kasım 2023'te ISPO Münih fuarında koleksiyonu tanıttı. 38 Intersport lokasyonundan, 12 Globetrotter mağazasından ve Bergfreunde.de'den ön sipariş güvence altına alındı. Afarer, Alman ambalaj yasasına (VerpackG) uyan raflara hazır perakende ambalajı tasarladı — soya bazlı mürekkeple baskılanmış, %100 geri dönüştürülebilir karton kutu, plastik büzücü film yok ve Almanca 3 dakikalık montaj videosuna bağlanan bir QR kodu. Ambalaj maliyeti adet başına 4,20 € idi; ancak poşet kullanan rakip markalarda %2,3'e ulaşan mağaza içi hasarı ortadan kaldırdı.",
+                "Lena ve OLagoon'in Avrupa satış direktörü, Kasım 2023'te ISPO Münih fuarında koleksiyonu tanıttı. 38 Intersport lokasyonundan, 12 Globetrotter mağazasından ve Bergfreunde.de'den ön sipariş güvence altına alındı. OLagoon, Alman ambalaj yasasına (VerpackG) uyan raflara hazır perakende ambalajı tasarladı — soya bazlı mürekkeple baskılanmış, %100 geri dönüştürülebilir karton kutu, plastik büzücü film yok ve Almanca 3 dakikalık montaj videosuna bağlanan bir QR kodu. Ambalaj maliyeti adet başına 4,20 € idi; ancak poşet kullanan rakip markalarda %2,3'e ulaşan mağaza içi hasarı ortadan kaldırdı.",
             },
             {
               title: 'Adım 3 — Avrupa Depolama ve Son Mil Dağıtım Kurulumu',
               detail:
-                "Afarer, AlpenWerk'in Dortmund'taki bir 3PL deposunda 3.000 adet kapasiteli bir dağıtım merkezi kurmasına yardımcı oldu. Ningbo merkezli bir nakliyeciyyle DDP sevkiyat koşulları üzerinde müzakere ettiler — Hamburg limanında gümrük işlemleri ve geminin varışından sonraki 5 iş günü içinde Dortmund'a karayolu taşıması dahil. Depo stoğu bir Kanban sistemiyle yapılandırıldı — stok 400 adedin altına düştüğünde, 45 günlük tedarik süresiyle Afarer'in fabrikasına otomatik yeniden sipariş tetiklendi. 1.500 adetlik ilk konteyner 15 Şubat 2024'te, 1.200 adetlik ikinci konteyner ise 10 Nisan'da geldi.",
+                "OLagoon, AlpenWerk'in Dortmund'taki bir 3PL deposunda 3.000 adet kapasiteli bir dağıtım merkezi kurmasına yardımcı oldu. Ningbo merkezli bir nakliyeciyyle DDP sevkiyat koşulları üzerinde müzakere ettiler — Hamburg limanında gümrük işlemleri ve geminin varışından sonraki 5 iş günü içinde Dortmund'a karayolu taşıması dahil. Depo stoğu bir Kanban sistemiyle yapılandırıldı — stok 400 adedin altına düştüğünde, 45 günlük tedarik süresiyle OLagoon'in fabrikasına otomatik yeniden sipariş tetiklendi. 1.500 adetlik ilk konteyner 15 Şubat 2024'te, 1.200 adetlik ikinci konteyner ise 10 Nisan'da geldi.",
             },
             {
               title: 'Adım 4 — Lansman Kampanyası, Influencer Ortaklıkları ve Yeniden Sipariş Hızı',
               detail:
-                "AlpenWerk, 1 Mart 2024'te “SeeWolf” 10'8″, “Flussläufer” 11'6″ ve “Gipfelstürmer” 12'0″ touring modellerini tüm perakende kanallarında ve alpenwerk.de'de lansman etti. Afarer'in içerik ekibi, 'SUP_mit_Michi' (43.000 takipçi) ve 'PaddelPia' (28.000 takipçi) gibi Alman SUP influencer'larını öne çıkaran 18 sosyal medya varlığı üretti. 31 Mayıs 2024'e kadar ilk stokların %87'si olmak üzere 1.870 adet satıldı. Intersport 15 Haziran'da 450 adetlik yeniden sipariş verdi. Lena'nın tüketiciye doğrudan web kanalı, %54 brüt marjla 320.000 € gelir sağladı ve başlangıçta öngörülen %40 marjı geride bıraktı.",
+                "AlpenWerk, 1 Mart 2024'te “SeeWolf” 10'8″, “Flussläufer” 11'6″ ve “Gipfelstürmer” 12'0″ touring modellerini tüm perakende kanallarında ve alpenwerk.de'de lansman etti. OLagoon'in içerik ekibi, 'SUP_mit_Michi' (43.000 takipçi) ve 'PaddelPia' (28.000 takipçi) gibi Alman SUP influencer'larını öne çıkaran 18 sosyal medya varlığı üretti. 31 Mayıs 2024'e kadar ilk stokların %87'si olmak üzere 1.870 adet satıldı. Intersport 15 Haziran'da 450 adetlik yeniden sipariş verdi. Lena'nın tüketiciye doğrudan web kanalı, %54 brüt marjla 320.000 € gelir sağladı ve başlangıçta öngörülen %40 marjı geride bıraktı.",
             },
           ],
           results: [
@@ -3028,8 +3028,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Neden Afarer',
+    whyOLagoon: {
+      title: 'Neden OLagoon',
       items: [
         {
           title: 'Teknik Uzmanlık',
@@ -3062,7 +3062,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Outdoor markam SUP uzmanlığı olmadan su sporlarına nasıl genişleyebilir?',
         answer:
-          'Afarer, Drop Stitch teknolojisi, PVC mühendisliği ve ürün tasarımı dahil eksiksiz üretim uzmanlığı sağlar. Markanız müşteri bilgisini getirir, teknik üretimi biz üstleniriz.',
+          'OLagoon, Drop Stitch teknolojisi, PVC mühendisliği ve ürün tasarımı dahil eksiksiz üretim uzmanlığı sağlar. Markanız müşteri bilgisini getirir, teknik üretimi biz üstleniriz.',
       },
       {
         question: 'Hangi tür su sporları ürünlerini üretebiliyorsunuz?',
@@ -3072,7 +3072,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Mevcut marka kalite standartlarıma uyum sağlayabilir misiniz?',
         answer:
-          'Evet. Afarer, tasarım dilinize, kalite standartlarınıza ve pazar konumlandırmanıza göre, üretim boyunca sıkı kalite kontrolle ürünler geliştirir.',
+          'Evet. OLagoon, tasarım dilinize, kalite standartlarınıza ve pazar konumlandırmanıza göre, üretim boyunca sıkı kalite kontrolle ürünler geliştirir.',
       },
       {
         question: 'Köklü markalar için tipik sipariş hacmi nedir?',
@@ -3104,7 +3104,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Su Sporları Markaları için Şişirilebilir SUP OEM Üreticisi | {SITE}',
       description:
-        "Afarer, kano, kayak, yelken ve dalış markalarının profesyonel Drop Stitch teknolojisi, OEM üretimi ve eksiksiz su sporları ürün çözümleriyle şişirilebilir SUP'lara genişlemesine yardımcı olur.",
+        "OLagoon, kano, kayak, yelken ve dalış markalarının profesyonel Drop Stitch teknolojisi, OEM üretimi ve eksiksiz su sporları ürün çözümleriyle şişirilebilir SUP'lara genişlemesine yardımcı olur.",
     },
     hero: {
       tagline: 'Su Sporları Portföyünüzü Genişletin™',
@@ -3145,13 +3145,13 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Olgun Şişme SUP Üretim Teknolojisi',
           description:
-            'Afarer; rijit tahta performansıyla yüksek basınçlı şişme yapılar için profesyonel Drop Stitch teknolojisi, dayanıklılık için çok katmanlı PVC yapı ve güçlü dikişler için profesyonel kaynak teknolojisi sağlar.',
+            'OLagoon; rijit tahta performansıyla yüksek basınçlı şişme yapılar için profesyonel Drop Stitch teknolojisi, dayanıklılık için çok katmanlı PVC yapı ve güçlü dikişler için profesyonel kaynak teknolojisi sağlar.',
           features: ['Drop Stitch Teknolojisi', 'Çok Katmanlı PVC Yapı', 'Profesyonel Kaynak Teknolojisi'],
         },
         {
           title: 'Eksiksiz SUP Ürün Portföyü Geliştirme',
           description:
-            "Afarer; yeni başlayanlar ve aileler için all-round SUP, macera kullanıcıları için touring SUP, montaj sistemli balıkçılık SUP'ı, wellness pazarları için yoga SUP'ı ve çocuk SUP'ı dahil kanıtlanmış ürün platformları sunar.",
+            "OLagoon; yeni başlayanlar ve aileler için all-round SUP, macera kullanıcıları için touring SUP, montaj sistemli balıkçılık SUP'ı, wellness pazarları için yoga SUP'ı ve çocuk SUP'ı dahil kanıtlanmış ürün platformları sunar.",
           features: [
             'All-Round SUP Serisi',
             'Touring SUP Serisi',
@@ -3163,37 +3163,37 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'OEM ve ODM Ürün Geliştirme',
           description:
-            'Afarer; marka logosu ve ambalajıyla private label üretimi, boyutlar ve özellikler için ürün modifikasyonu ile markaya özel modeller ve sezonluk ürünler için özel koleksiyonları destekler.',
+            'OLagoon; marka logosu ve ambalajıyla private label üretimi, boyutlar ve özellikler için ürün modifikasyonu ile markaya özel modeller ve sezonluk ürünler için özel koleksiyonları destekler.',
           features: ['Private Label Üretimi', 'Ürün Modifikasyonu', 'Özel Koleksiyonlar'],
         },
         {
           title: 'Hızlı Pazara Giriş Programı',
           description:
-            'Afarer; kanıtlanmış tahta formları ve test edilmiş yapılarla mevcut ürün platformları, görüşmeden üretime hızlı prototipleme ve sezonluk fırsatları yakalamak için daha hızlı ticari lansman yoluyla geliştirme süresini kısaltmaya yardımcı olur.',
+            'OLagoon; kanıtlanmış tahta formları ve test edilmiş yapılarla mevcut ürün platformları, görüşmeden üretime hızlı prototipleme ve sezonluk fırsatları yakalamak için daha hızlı ticari lansman yoluyla geliştirme süresini kısaltmaya yardımcı olur.',
           features: ['Mevcut Ürün Platformları', 'Hızlı Prototipleme', 'Daha Hızlı Ticari Lansman'],
         },
         {
           title: 'Markayla Uyumlu Ürün Entegrasyonu',
           description:
-            'Afarer; macera, aile ve premium deniz konumlandırmaları genelinde renkler, grafikler ve malzemeler dahil ürün tasarım dilinin mevcut marka kimliğiyle uyumlu hale getirilmesi için marka yöneticileriyle birlikte çalışır.',
+            'OLagoon; macera, aile ve premium deniz konumlandırmaları genelinde renkler, grafikler ve malzemeler dahil ürün tasarım dilinin mevcut marka kimliğiyle uyumlu hale getirilmesi için marka yöneticileriyle birlikte çalışır.',
           features: ['Ürün Tasarım Dili', 'Müşteri Konumlandırma', 'Marka Uyumu'],
         },
         {
           title: 'Aksesuarlar ve Eksiksiz Paket Geliştirme',
           description:
-            'Afarer; kürekler, pompalar, emniyet kordonları, çantalar ve tamir kitleri dahil SUP aksesuarlarının yanı sıra yeni başlayan paketleri, macera paketleri ve aile paketleri gibi ürün demetlerini destekler.',
+            'OLagoon; kürekler, pompalar, emniyet kordonları, çantalar ve tamir kitleri dahil SUP aksesuarlarının yanı sıra yeni başlayan paketleri, macera paketleri ve aile paketleri gibi ürün demetlerini destekler.',
           features: ['SUP Aksesuarları', 'Ürün Demetleri', 'Paket Geliştirme'],
         },
         {
           title: 'Tedarik Zinciri Entegrasyonu',
           description:
-            'Yerleşik markalar için Afarer; yılda 500–10.000 takımlık stabil üretim kapasitesi, ürün yol haritası ve sezonluk üretim için yıllık planlama ile tüm spesifikasyonlarda kalite tutarlılığı sağlar.',
+            'Yerleşik markalar için OLagoon; yılda 500–10.000 takımlık stabil üretim kapasitesi, ürün yol haritası ve sezonluk üretim için yıllık planlama ile tüm spesifikasyonlarda kalite tutarlılığı sağlar.',
           features: ['Stabil Üretim Kapasitesi', 'Yıllık Planlama', 'Kalite Tutarlılığı'],
         },
         {
           title: 'Kalite Kontrol Desteği',
           description:
-            "Afarer'in kalite süreçleri; PVC ve Drop Stitch kumaşın malzeme denetimi, kaynak ve montajın üretim izlemesi ile ürün performansının, aksesuarların ve paketlemenin son denetimini içerir.",
+            "OLagoon'in kalite süreçleri; PVC ve Drop Stitch kumaşın malzeme denetimi, kaynak ve montajın üretim izlemesi ile ürün performansının, aksesuarların ve paketlemenin son denetimini içerir.",
           features: ['Malzeme Denetimi', 'Üretim İzlemesi', 'Son Denetim'],
         },
       ],
@@ -3210,7 +3210,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ürün Stratejisi Geliştirme',
           detail:
-            'Afarer, markanın mevcut müşteri tabanını, pazar konumlandırmasını ve fiyat segmentini analiz ederek markalarıyla uyumlu bir SUP ürün ailesi genişlemesi önerdi.',
+            'OLagoon, markanın mevcut müşteri tabanını, pazar konumlandırmasını ve fiyat segmentini analiz ederek markalarıyla uyumlu bir SUP ürün ailesi genişlemesi önerdi.',
         },
         {
           title: 'Ürün Portföyü Oluşturma',
@@ -3247,17 +3247,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Ürün Portföyü Planlaması ve Brezilya Pazarına Uyarlama',
               detail:
-                "Pedro, ürün direktörü ve endüstriyel tasarımcısıyla Ocak 2025'te 5 günlük ortak bir çalıştay için Afarer'in Shenzhen tesisini ziyaret etti. 10 SUP modeli seçtiler: 4 all-round, 3 touring, 2 balıkçılık ve 1 yoga platformu. Afarer'in mühendisleri her ürünü Brezilya koşullarına uyarladı: tropik güneş için UV'ye dayanıklı PVC, Minas Gerais'in kayalı nehir yatakları için güçlendirilmiş gövdeler ve Brezilya bayrağı ile Amazon yağmur ormanı motiflerinden ilham alan renk şemaları. Pedro, 4.500 adetlik başlangıç siparişi için 3,2 milyon R$ sipariş verdi; %30 peşinat, bakiye konşimento karşılığı.",
+                "Pedro, ürün direktörü ve endüstriyel tasarımcısıyla Ocak 2025'te 5 günlük ortak bir çalıştay için OLagoon'in Shenzhen tesisini ziyaret etti. 10 SUP modeli seçtiler: 4 all-round, 3 touring, 2 balıkçılık ve 1 yoga platformu. OLagoon'in mühendisleri her ürünü Brezilya koşullarına uyarladı: tropik güneş için UV'ye dayanıklı PVC, Minas Gerais'in kayalı nehir yatakları için güçlendirilmiş gövdeler ve Brezilya bayrağı ile Amazon yağmur ormanı motiflerinden ilham alan renk şemaları. Pedro, 4.500 adetlik başlangıç siparişi için 3,2 milyon R$ sipariş verdi; %30 peşinat, bakiye konşimento karşılığı.",
             },
             {
               title: 'Marka Entegrasyonu, Portekizce Yerelleştirme ve Uyumluluk',
               detail:
-                "Afarer'in tasarım ekibi; logolar, renk şemaları, ambalaj ve satış noktası materyalleri dahil eksiksiz “ÁguaVita Adventure” görsel kimliğini Brezilya Portekizcesiyle oluşturdu. Uyumluluk ekibi 10 ürünün tamamı için INMETRO sertifikasyonunu yönetti (Brezilya'da spor ekipmanları için zorunlu) ve Brezilya'nın daha düşük okuryazarlık profillerindeki demografisine yönelik resimli montaj kılavuzlu Portekizce kullanım kılavuzları geliştirdi. Afarer, Pedro'nun en iyi 50 bayisinin değerlendirmesi için Mart 2025'te hava yüküyle gönderilen 200 ön üretim adedi üretti — 50 bayiden 46'sı ortalama 48.000 R$'lık ilk siparişler verdi.",
+                "OLagoon'in tasarım ekibi; logolar, renk şemaları, ambalaj ve satış noktası materyalleri dahil eksiksiz “ÁguaVita Adventure” görsel kimliğini Brezilya Portekizcesiyle oluşturdu. Uyumluluk ekibi 10 ürünün tamamı için INMETRO sertifikasyonunu yönetti (Brezilya'da spor ekipmanları için zorunlu) ve Brezilya'nın daha düşük okuryazarlık profillerindeki demografisine yönelik resimli montaj kılavuzlu Portekizce kullanım kılavuzları geliştirdi. OLagoon, Pedro'nun en iyi 50 bayisinin değerlendirmesi için Mart 2025'te hava yüküyle gönderilen 200 ön üretim adedi üretti — 50 bayiden 46'sı ortalama 48.000 R$'lık ilk siparişler verdi.",
             },
             {
               title: 'Bayi Lansmanı ve Ülke Geneli Dağıtım',
               detail:
-                "4.300 adetlik ana okyanus yükü 15 Mayıs 2025'te Santos Limanı'na vardı ve 5 gün içinde gümrükten geçti. Afarer'in lojistik ekibi; ÁguaVita'nın São Paulo, Rio de Janeiro, Belo Horizonte, Recife ve Porto Alegre'deki 5 bölgesel dağıtım merkeziyle eşgüdüm sağladı. Pedro'nun 6 kişilik satış ekibi, Olimpik kano sporcusu Isabella Santos'un yer aldığı canlı kürek havuzu gösterimleriyle hattı 2025 São Paulo Outdoor Spor Fuarı'nda (12–15 Haziran) başlattı. 4 gün içinde ÁguaVita, yalnızca Adventure hattı için 340 yeni bayi hesabı açtı ve fuar alanından doğrudan 800 adet sattı.",
+                "4.300 adetlik ana okyanus yükü 15 Mayıs 2025'te Santos Limanı'na vardı ve 5 gün içinde gümrükten geçti. OLagoon'in lojistik ekibi; ÁguaVita'nın São Paulo, Rio de Janeiro, Belo Horizonte, Recife ve Porto Alegre'deki 5 bölgesel dağıtım merkeziyle eşgüdüm sağladı. Pedro'nun 6 kişilik satış ekibi, Olimpik kano sporcusu Isabella Santos'un yer aldığı canlı kürek havuzu gösterimleriyle hattı 2025 São Paulo Outdoor Spor Fuarı'nda (12–15 Haziran) başlattı. 4 gün içinde ÁguaVita, yalnızca Adventure hattı için 340 yeni bayi hesabı açtı ve fuar alanından doğrudan 800 adet sattı.",
             },
             {
               title: 'Kategori Genişlemesi ve Pazar Liderliği',
@@ -3285,17 +3285,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Filo Kompozisyon Analizi ve Ticari Sınıf Spesifikasyon İncelemesi',
               detail:
-                "Ağustos 2024'te Kai ve oğlu Mako (otel yönetimi mezunu), ideal kiralama filosunu tasarlamak için Afarer'in Ticari Filo birimiyle çalıştı. 3 yıllık yerel turizm verisini analiz ettikten sonra 60 SUP'ta karar kıldılar (30 all-round 10'6″, 15 touring 11'6″, 8 yoga tahtası, 7 balıkçılık tahtası). Afarer; güçlendirilmiş drop stitch, çift katmanlı PVC kenarlar, paslanmaz çelik D halkaları (plastiğe kıyasla) ve 100.000+ şişme döngüsüne uygun ticari sınıf valflerle ticari sınıf yapı sağladı. Filo, teslim dahil toplam 48.000 $ tuttu (benzer Hawaii yapımı tahtalar için 78.000 $'a kıyasla) ve Kai, 1 Eylül 2024'te %50 peşinatla siparişi verdi.",
+                "Ağustos 2024'te Kai ve oğlu Mako (otel yönetimi mezunu), ideal kiralama filosunu tasarlamak için OLagoon'in Ticari Filo birimiyle çalıştı. 3 yıllık yerel turizm verisini analiz ettikten sonra 60 SUP'ta karar kıldılar (30 all-round 10'6″, 15 touring 11'6″, 8 yoga tahtası, 7 balıkçılık tahtası). OLagoon; güçlendirilmiş drop stitch, çift katmanlı PVC kenarlar, paslanmaz çelik D halkaları (plastiğe kıyasla) ve 100.000+ şişme döngüsüne uygun ticari sınıf valflerle ticari sınıf yapı sağladı. Filo, teslim dahil toplam 48.000 $ tuttu (benzer Hawaii yapımı tahtalar için 78.000 $'a kıyasla) ve Kai, 1 Eylül 2024'te %50 peşinatla siparişi verdi.",
             },
             {
               title: 'Kiralama Operasyonları Eğitimi ve Lojistik Kurulumu',
               detail:
-                "Afarer'in kiralama operasyonları uzmanı, Ekim 2024'te kiralama iş akışını optimize etmek için Kai'nin dükkânında 4 gün geçirdi. Giriş/çıkış, hasar takibi ve önleyici bakım çizelgeleri için mobil uygulamalı, QR kodlu tahtalar kullanan bir filo yönetim sistemi uygulamaya koydular. Afarer; aynı gün filo devri için 10 ağır hizmet tipi pille çalışan pompa ve 600 sq ft'lik depoyu en verimli kullanan özel depolama raf sistemi sağladı. Eğitim; şişirme protokolleri (pille çalışan pompalarla her tahtanın 4 dakikanın altında 12–15 PSI'ya şişirilmesi), denetim listeleri, tamir prosedürleri ve tüm kiralama personeli için standartlaştırılmış müşteri güvenlik brifinglerini kapsadı.",
+                "OLagoon'in kiralama operasyonları uzmanı, Ekim 2024'te kiralama iş akışını optimize etmek için Kai'nin dükkânında 4 gün geçirdi. Giriş/çıkış, hasar takibi ve önleyici bakım çizelgeleri için mobil uygulamalı, QR kodlu tahtalar kullanan bir filo yönetim sistemi uygulamaya koydular. OLagoon; aynı gün filo devri için 10 ağır hizmet tipi pille çalışan pompa ve 600 sq ft'lik depoyu en verimli kullanan özel depolama raf sistemi sağladı. Eğitim; şişirme protokolleri (pille çalışan pompalarla her tahtanın 4 dakikanın altında 12–15 PSI'ya şişirilmesi), denetim listeleri, tamir prosedürleri ve tüm kiralama personeli için standartlaştırılmış müşteri güvenlik brifinglerini kapsadı.",
             },
             {
               title: 'Fiyatlandırma Stratejisi, Lansman ve Online Rezervasyon Entegrasyonu',
               detail:
-                "Kai filoyu 1 Aralık 2024'te kademeli fiyatlandırmayla başlattı: SUP'lar için saatte 35 $, yarım gün 89 $, tam gün 129 $ ve haftalık ücretler. Afarer; Kai'nin FareHarbor ve Peek Pro rezervasyon platformlarıyla entegrasyonuna yardımcı oldu, profesyonel ürün fotoğrafçılığı yaptı ve Kai'nin dükkânını 6 hafta içinde 4. sayfadan yerel arama sonuçlarının ilk 3'üne taşıyan bir Google My Business listesi optimizasyonu geliştirdi. 31 Aralık'a gelindiğinde filo, sezon dışı olmasına rağmen 780 kiralama günü satarak %42 kullanım oranı yakaladı ve yalnızca Aralık ayında 62.000 $ gelir elde etti.",
+                "Kai filoyu 1 Aralık 2024'te kademeli fiyatlandırmayla başlattı: SUP'lar için saatte 35 $, yarım gün 89 $, tam gün 129 $ ve haftalık ücretler. OLagoon; Kai'nin FareHarbor ve Peek Pro rezervasyon platformlarıyla entegrasyonuna yardımcı oldu, profesyonel ürün fotoğrafçılığı yaptı ve Kai'nin dükkânını 6 hafta içinde 4. sayfadan yerel arama sonuçlarının ilk 3'üne taşıyan bir Google My Business listesi optimizasyonu geliştirdi. 31 Aralık'a gelindiğinde filo, sezon dışı olmasına rağmen 780 kiralama günü satarak %42 kullanım oranı yakaladı ve yalnızca Aralık ayında 62.000 $ gelir elde etti.",
             },
             {
               title: 'Zirve Sezonu Yükselişi ve Genişleme Planlaması',
@@ -3304,7 +3304,7 @@ const tr: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            'İlk yıl toplam geliri 764.000 $ (680.000 $ hedefin %12 üzerinde); Afarer filosundan 487.000 $ net kiralama geliri',
+            'İlk yıl toplam geliri 764.000 $ (680.000 $ hedefin %12 üzerinde); OLagoon filosundan 487.000 $ net kiralama geliri',
             "60 SUP'un tamamında zirve yaz aylarında %78 filo kullanım oranı; günde 180'e varan müşteriye hizmet",
             "48.000 $'lık filo yatırımı için başabaş noktasına yalnızca 3,5 ayda ulaşıldı (Aralık 2024 – Mart 2025 ortası)",
             "İşletme değeri 12 ay içinde 420.000 $'dan 1,8 milyon $'a yükseldi; ikinci bir Kona sahil konumunun satın alınmasını sağladı",
@@ -3312,8 +3312,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Su Sporları Markaları Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Su Sporları Markaları Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Su Sporları Pazarları',
@@ -3347,7 +3347,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Bir kano markası fabrika kurmadan şişme SUP ürünlerini nasıl ekleyebilir?',
         answer:
-          "Afarer'in OEM/ODM ortaklık modeli, yerleşik su sporları markalarının mevcut üretim altyapımızı kullanarak şişme SUP ürünleri eklemesine olanak tanır. Markalar müşteri tabanlarından ve dağıtım kanallarından yararlanırken Afarer; Drop Stitch mühendisliğini, PVC üretimini, kalite kontrolü ve tedarik zinciri yönetimini üstlenir.",
+          "OLagoon'in OEM/ODM ortaklık modeli, yerleşik su sporları markalarının mevcut üretim altyapımızı kullanarak şişme SUP ürünleri eklemesine olanak tanır. Markalar müşteri tabanlarından ve dağıtım kanallarından yararlanırken OLagoon; Drop Stitch mühendisliğini, PVC üretimini, kalite kontrolü ve tedarik zinciri yönetimini üstlenir.",
       },
       {
         question: 'Drop Stitch teknolojisi nedir ve SUP üretimi için neden önemlidir?',
@@ -3357,26 +3357,26 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Mevcut marka tasarımları ve renkleri SUP ürünlerine uygulanabilir mi?',
         answer:
-          'Evet, Afarer; özel grafikler, Pantone renk eşleştirmesi, logo uygulaması ve ambalaj tasarımı dahil eksiksiz marka entegrasyonunu destekler. SUP ürünlerinin mevcut ürün tasarım dili ve pazar konumlandırmasıyla uyumlu olmasını sağlamak için marka yöneticileriyle birlikte çalışırız.',
+          'Evet, OLagoon; özel grafikler, Pantone renk eşleştirmesi, logo uygulaması ve ambalaj tasarımı dahil eksiksiz marka entegrasyonunu destekler. SUP ürünlerinin mevcut ürün tasarım dili ve pazar konumlandırmasıyla uyumlu olmasını sağlamak için marka yöneticileriyle birlikte çalışırız.',
       },
       {
         question: 'Yeni bir SUP ürün hattı için konseptten pazara tipik süreç ne kadar sürer?',
         answer:
-          "Afarer'in mevcut ürün platformları ve hızlı prototipleme sürecini kullanarak markalar genellikle konseptten pazara hazır ürünlere 8–12 hafta içinde ulaşabilir. Bu; ürün seçimi, tasarım özelleştirmesi, prototip onayı, üretim ve sevkiyatı içerir.",
+          "OLagoon'in mevcut ürün platformları ve hızlı prototipleme sürecini kullanarak markalar genellikle konseptten pazara hazır ürünlere 8–12 hafta içinde ulaşabilir. Bu; ürün seçimi, tasarım özelleştirmesi, prototip onayı, üretim ve sevkiyatı içerir.",
       },
       {
         question: 'OEM/ODM SUP üretimi için hangi minimum sipariş adetleri gereklidir?',
         answer:
-          'Afarer; ilk pazar testi için 500 adetten, yerleşik programlar için yılda 10.000+ adede kadar bir dizi hacmi destekler. Dağıtım ölçekleri ve sezonluk talepleriyle eşleşen üretim hacimlerini planlamak için markalarla birlikte çalışırız.',
+          'OLagoon; ilk pazar testi için 500 adetten, yerleşik programlar için yılda 10.000+ adede kadar bir dizi hacmi destekler. Dağıtım ölçekleri ve sezonluk talepleriyle eşleşen üretim hacimlerini planlamak için markalarla birlikte çalışırız.',
       },
       {
-        question: 'Afarer, mevcut kano ürün hatlarının yanı sıra şişme SUP üretimi sunuyor mu?',
+        question: 'OLagoon, mevcut kano ürün hatlarının yanı sıra şişme SUP üretimi sunuyor mu?',
         answer:
-          'Evet, Afarer Drop Stitch ve PVC kaynak teknolojisini kullanarak şişme SUP tahtaları üretir. Bu, su sporları markalarının mevcut ürünlerini değiştirmeden, tek bir üretim ortağı aracılığıyla eksiksiz bir şişme SUP kategorisi eklemesine olanak tanır.',
+          'Evet, OLagoon Drop Stitch ve PVC kaynak teknolojisini kullanarak şişme SUP tahtaları üretir. Bu, su sporları markalarının mevcut ürünlerini değiştirmeden, tek bir üretim ortağı aracılığıyla eksiksiz bir şişme SUP kategorisi eklemesine olanak tanır.',
       },
     ],
     cta: {
-      title: 'Afarer ile Su Sporları Markanızı Genişletin',
+      title: 'OLagoon ile Su Sporları Markanızı Genişletin',
       subtitle: 'Müşterileriniz zaten var. Pazarınız zaten var. Şimdi istedikleri ürünleri ekleyin.',
       primaryAction: {
         text: 'SUP Genişleme Projenizi Bugün Başlatın',
@@ -3391,15 +3391,15 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Surf Mağazaları için Şişirilebilir SUP Çözümleri | Private Label Üreticisi | {SITE}',
       description:
-        "Afarer, surf mağazalarının ve su yaşam tarzı markalarının private label şişirilebilir SUP'lar ve özel su sporları ürünleriyle büyümesine yardımcı olur. İleri şişirilebilir teknoloji ile nakliye, depolama ve stok maliyetlerini azaltın.",
+        "OLagoon, surf mağazalarının ve su yaşam tarzı markalarının private label şişirilebilir SUP'lar ve özel su sporları ürünleriyle büyümesine yardımcı olur. İleri şişirilebilir teknoloji ile nakliye, depolama ve stok maliyetlerini azaltın.",
     },
     hero: {
       tagline: 'Şişirilebilir Teknolojiyi Sörf İşine Taşıyın™',
       title: 'Sörf Dükkanları ve Kıyı İşletmeleri için Şişirilebilir SUP Çözümleri',
       subtitle:
-        'Afarer, sörf dükkanları ve su yaşam tarzı markalarının private label şişirilebilir SUP ve özel su sporları ürünleriyle genişlemesine yardımcı olur. İleri şişirilebilir teknolojiyle nakliye, depolama ve stok maliyetlerini azaltın.',
+        'OLagoon, sörf dükkanları ve su yaşam tarzı markalarının private label şişirilebilir SUP ve özel su sporları ürünleriyle genişlemesine yardımcı olur. İleri şişirilebilir teknolojiyle nakliye, depolama ve stok maliyetlerini azaltın.',
       image: {
-        alt: 'Afarer özel SUP tahtaları açıklaması',
+        alt: 'OLagoon özel SUP tahtaları açıklaması',
       },
     },
     challenge: {
@@ -3513,7 +3513,7 @@ const tr: Record<string, SolutionOverride> = {
       customer:
         "Avrupa'nın Atlas Okyanusu kıyısında konumlanmış Avrupa Kıyı Sörf Dükkanı Markası. Başlangıçta sörf tahtaları, sörf aksesuarları ve güçlü bir yerel müşteri topluluğuna sahip plaj yaşam tarzı ürünlerine odaklı.",
       steps: [
-        "Afarer, dükkanın deniz kenarı konumuna ve müşteri tabanına uygun 10'6″ All-round SUP, 12'6″ Touring SUP ve aile paketlerini içeren bir şişirilebilir SUP koleksiyonu önerdi.",
+        "OLagoon, dükkanın deniz kenarı konumuna ve müşteri tabanına uygun 10'6″ All-round SUP, 12'6″ Touring SUP ve aile paketlerini içeren bir şişirilebilir SUP koleksiyonu önerdi.",
         'Sörf dükkanının mevcut marka kimliği ve plaj yaşam tarzı konumlandırmasıyla uyumlu özel tahta grafikleri, marka renkleri ve perakende ambalajı oluşturuldu.',
         'İş modeli, SUP satışları, kiralama paketleri ve yeni başlayan dersleri eklenerek geleneksel sörf perakendeciliğinden eksiksiz bir su yaşam tarzı işletmesine dönüştürüldü.',
         'Şişirilebilir ürün hattı, depolama baskısını artırmadan mevcut sert tahta tekliflerini tamamlamak üzere lansman edildi.',
@@ -3538,17 +3538,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Performans Kıyaslaması ve Malzeme Seçimi',
               detail:
-                "Afarer'in ürün mühendisleri Şubat 2023'te Gold Coast'u ziyaret etti ve Brendan'ın 12 eğitmeniyle kör testler yürüttü. Her eğitmen, standart 9'0″ epoksi soft-top tahtalarına karşı 6 prototip şişirilebilir tahtayı 4 metrik üzerinden test etti — ayakta dururken stabilite (1–10 puanlama), kürek kayması (50 m'yi kapsama süresi), bordadan bordaya dönüş tepkisi ve öğrenci güven puanı. Kazanan prototip — M9-IS olarak adlandırılan — tam boy 0,5 mm EVA güverte pedi ve takviyeli bambu kirişli 3 katmanlı drop-stitch çekirdek kullanıyordu. Eğitmenler epoksi tahtalara 7,4/10 verirken bunu genel olarak 8,7/10 puanladılar. Brendan Mart 2023'te 60 adet sipariş etti.",
+                "OLagoon'in ürün mühendisleri Şubat 2023'te Gold Coast'u ziyaret etti ve Brendan'ın 12 eğitmeniyle kör testler yürüttü. Her eğitmen, standart 9'0″ epoksi soft-top tahtalarına karşı 6 prototip şişirilebilir tahtayı 4 metrik üzerinden test etti — ayakta dururken stabilite (1–10 puanlama), kürek kayması (50 m'yi kapsama süresi), bordadan bordaya dönüş tepkisi ve öğrenci güven puanı. Kazanan prototip — M9-IS olarak adlandırılan — tam boy 0,5 mm EVA güverte pedi ve takviyeli bambu kirişli 3 katmanlı drop-stitch çekirdek kullanıyordu. Eğitmenler epoksi tahtalara 7,4/10 verirken bunu genel olarak 8,7/10 puanladılar. Brendan Mart 2023'te 60 adet sipariş etti.",
             },
             {
               title: 'Adım 2 — Okul Koşulları Altında Ticari Dayanıklılık Testi',
               detail:
-                "Brendan ve Afarer, Surfers Paradise lokasyonunda her biri 1.200 kiralama döngüsünden geçirilen 20 prototip tahtayla 4 aylık bir pilot uygulama üzerinde anlaştı. Her tahta, yeni başlayan öğrenciler tarafından haftada ortalama 14 kez kullanıldı (60–90 kg aralığı). Afarer'in ekibi 6 arıza metriğini izledi — dikiş bütünlüğü, valf kaçağı, güverte pedi yapışması, UV renk bozulması, borda aşınması ve fin kutusu bütünlüğü. 3. ayda 3 tahtada pruva temas noktasında güverte pedi soyulması görüldü — Afarer, ısıyla aktive edilen bir poliüretan film kullanarak yapıştırıcıyı yeniden formüle etti ve etkilenen tahtaları değiştirdi. Haziran 2023'e kadar pilot, sıfır yapısal arıza ve %97,3 kullanılabilirlik oranı kaydetti.",
+                "Brendan ve OLagoon, Surfers Paradise lokasyonunda her biri 1.200 kiralama döngüsünden geçirilen 20 prototip tahtayla 4 aylık bir pilot uygulama üzerinde anlaştı. Her tahta, yeni başlayan öğrenciler tarafından haftada ortalama 14 kez kullanıldı (60–90 kg aralığı). OLagoon'in ekibi 6 arıza metriğini izledi — dikiş bütünlüğü, valf kaçağı, güverte pedi yapışması, UV renk bozulması, borda aşınması ve fin kutusu bütünlüğü. 3. ayda 3 tahtada pruva temas noktasında güverte pedi soyulması görüldü — OLagoon, ısıyla aktive edilen bir poliüretan film kullanarak yapıştırıcıyı yeniden formüle etti ve etkilenen tahtaları değiştirdi. Haziran 2023'e kadar pilot, sıfır yapısal arıza ve %97,3 kullanılabilirlik oranı kaydetti.",
             },
             {
               title: 'Adım 3 — Tam Filo Yaygınlaştırması, Eğitim ve Depolama Altyapısı',
               detail:
-                "Brendan, Temmuz 2023'te 50 ek M9-IS tahtası için ikinci satın alma siparişi verdi ve şişirilebilir filosunu 70 adede çıkardı (toplamın %58'i). Afarer'in lojistik ekibi, sert tahtalara kıyasla depolama hacmini %80 azaltan, katlanabilir 32 L'lik sırt çantalarıyla tahtaları sevk etti — Burleigh Heads'teki 65 m²'lik deposu göz önüne alındığında kritik bir avantaj. Afarer, Brendan'ın 22 eğitmeni için doğru şişirme basıncı (sörf için 15 PSI, durgun su için 18 PSI), tuzlu su durulama protokolü ve ders öncesi 5 maddelik denetim kontrol listesini kapsayan 14 dakikalık bir eğitim videosu hazırladı. Tüm filo, Avustralya bahar sezonunun başlangıcı olan 1 Eylül 2023'te devreye alındı.",
+                "Brendan, Temmuz 2023'te 50 ek M9-IS tahtası için ikinci satın alma siparişi verdi ve şişirilebilir filosunu 70 adede çıkardı (toplamın %58'i). OLagoon'in lojistik ekibi, sert tahtalara kıyasla depolama hacmini %80 azaltan, katlanabilir 32 L'lik sırt çantalarıyla tahtaları sevk etti — Burleigh Heads'teki 65 m²'lik deposu göz önüne alındığında kritik bir avantaj. OLagoon, Brendan'ın 22 eğitmeni için doğru şişirme basıncı (sörf için 15 PSI, durgun su için 18 PSI), tuzlu su durulama protokolü ve ders öncesi 5 maddelik denetim kontrol listesini kapsayan 14 dakikalık bir eğitim videosu hazırladı. Tüm filo, Avustralya bahar sezonunun başlangıcı olan 1 Eylül 2023'te devreye alındı.",
             },
             {
               title: 'Adım 4 — Operasyonel Etki Ölçümü ve Maliyet-Fayda Analizi',
@@ -3575,17 +3575,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Kuruğa Karşı Korunmış Tedarik ve Maliyet Modellemesi',
               detail:
-                "Afarer'in finans ekibi, Ekim–Aralık 2022 boyunca Thabo ile, R17,80/USD sabit 6 aylık kur maddesi içeren ve Güney Afrika Randı (ZAR) cinsinden düzenlenmiş bir satın alma sözleşmesi yapılandırdı — bu, Temmuz 2022'de 19,20/USD'e ulaşan ZAR oynaklığından onu koruyordu. Afarer, adet başına 3.100 R maliyetle (yüzde %22 ithalat vergisi, lojistik ve gümrük müşavirliği dahil) 5 yıllık UV garantili çift katmanlı Fusion PVC tahta üretebilecek bir Shenzhen fabrikası belirledi. Thabo'nun 7.200 R'lik perakende satış fiyatı ona %56,9 brüt marj sağladı — markalı tahtalar için %22'lik ortalamasının belirgin şekilde üzerinde.",
+                "OLagoon'in finans ekibi, Ekim–Aralık 2022 boyunca Thabo ile, R17,80/USD sabit 6 aylık kur maddesi içeren ve Güney Afrika Randı (ZAR) cinsinden düzenlenmiş bir satın alma sözleşmesi yapılandırdı — bu, Temmuz 2022'de 19,20/USD'e ulaşan ZAR oynaklığından onu koruyordu. OLagoon, adet başına 3.100 R maliyetle (yüzde %22 ithalat vergisi, lojistik ve gümrük müşavirliği dahil) 5 yıllık UV garantili çift katmanlı Fusion PVC tahta üretebilecek bir Shenzhen fabrikası belirledi. Thabo'nun 7.200 R'lik perakende satış fiyatı ona %56,9 brüt marj sağladı — markalı tahtalar için %22'lik ortalamasının belirgin şekilde üzerinde.",
             },
             {
               title: 'Adım 2 — Cape Town Esinli Tasarım ve Kültürel Markalama',
               detail:
-                "Afarer'in grafik tasarımcıları, Cape Townlu illüstratör Mbali Dlamini ile iş birliği yaparak 3 özel güverte tasarımı oluşturdu — “Seal Island” (Cape kürklü foklar), “Chapman's Peak” (dağ silueti) ve “Boulder's Beach” (Afrika penguenleri). Her tasarım, 500 saatten fazla güneş maruziyeti için test edilmiş UV dirençli mürekkeplerle 6 renkli ısı transferi baskısı kullandı. Tahtalar, Güney Afrika pazarına özgü bir özellik içeriyordu — kuru çantalar için pruvada takviyeli bağlama sistemi (Skeleton Coast'tan Durban'a çok günlü kürek çekmelerde popüler). Thabo, Afarer'in Muizenberg Plajı'nda çektiği ürün fotoğraflarıyla Shopify üzerinde bir web sitesi (kalkbaysurfco.co.za) başlattı.",
+                "OLagoon'in grafik tasarımcıları, Cape Townlu illüstratör Mbali Dlamini ile iş birliği yaparak 3 özel güverte tasarımı oluşturdu — “Seal Island” (Cape kürklü foklar), “Chapman's Peak” (dağ silueti) ve “Boulder's Beach” (Afrika penguenleri). Her tasarım, 500 saatten fazla güneş maruziyeti için test edilmiş UV dirençli mürekkeplerle 6 renkli ısı transferi baskısı kullandı. Tahtalar, Güney Afrika pazarına özgü bir özellik içeriyordu — kuru çantalar için pruvada takviyeli bağlama sistemi (Skeleton Coast'tan Durban'a çok günlü kürek çekmelerde popüler). Thabo, OLagoon'in Muizenberg Plajı'nda çektiği ürün fotoğraflarıyla Shopify üzerinde bir web sitesi (kalkbaysurfco.co.za) başlattı.",
             },
             {
               title: 'Adım 3 — Örnek Üretimi, Kalite Testi ve Sertifikasyon',
               detail:
-                "Afarer, Ocak 2023'te SKU başına 6 örnek üretti. Thabo ve iki yerel sörf tahtası şekillendiricisi (toplam 50+ yıl deneyimle) yıkıcı testler yürüttü — her tahta 25 PSI'ya (nominal basıncın %125'i) şişirildi ve 72 saat tutuldu; tüm örnekler 0,5 PSI'den az kayıpla geçti. Dikiş dayanımını dijital bir çekme ölçeriyle test ettiler — asgari 120 N/cm gerekiyordu (örnekler ortalama 138 N/cm verdi). Thabo, Şubat 2023'te 3 tahtayı Arniston'dan Struisbaai'ye 5 günlük rehberli bir kürek gezisine (120 km) götürerek ağır kullanım turu koşullarını simüle etti. Bir tahtanın fin kutusu 80 km sonra gevşedi — Afarer, naylon fin kutusunu paslanmaz çelikle takviyeli bir sürümle değiştirdi.",
+                "OLagoon, Ocak 2023'te SKU başına 6 örnek üretti. Thabo ve iki yerel sörf tahtası şekillendiricisi (toplam 50+ yıl deneyimle) yıkıcı testler yürüttü — her tahta 25 PSI'ya (nominal basıncın %125'i) şişirildi ve 72 saat tutuldu; tüm örnekler 0,5 PSI'den az kayıpla geçti. Dikiş dayanımını dijital bir çekme ölçeriyle test ettiler — asgari 120 N/cm gerekiyordu (örnekler ortalama 138 N/cm verdi). Thabo, Şubat 2023'te 3 tahtayı Arniston'dan Struisbaai'ye 5 günlük rehberli bir kürek gezisine (120 km) götürerek ağır kullanım turu koşullarını simüle etti. Bir tahtanın fin kutusu 80 km sonra gevşedi — OLagoon, naylon fin kutusunu paslanmaz çelikle takviyeli bir sürümle değiştirdi.",
             },
             {
               title: 'Adım 4 — Perakende Lansmanı, Tur Operatörü Ortaklıkları ve Yeniden Sipariş',
@@ -3602,8 +3602,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Neden Afarer',
+    whyOLagoon: {
+      title: 'Neden OLagoon',
       items: [
         {
           title: 'Sörf Pazarını Anlama',
@@ -3648,7 +3648,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Kendi markalı şişirilebilir SUP hattımı oluşturabilir miyim?',
         answer:
-          'Evet. Afarer, sörf markanız adı altında özel tahta tasarımı, grafikler, renkler, ambalaj ve aksesuarları içeren eksiksiz private label çözümleri sunar.',
+          'Evet. OLagoon, sörf markanız adı altında özel tahta tasarımı, grafikler, renkler, ambalaj ve aksesuarları içeren eksiksiz private label çözümleri sunar.',
       },
       {
         question: 'Şişirilebilir tahtalarda nakliyeden ne kadar tasarruf edebilirim?',
@@ -3658,7 +3658,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Sörf okulları için kiralama sınıfı ürünler sunuyor musunuz?',
         answer:
-          'Evet. Afarer, kolay bakım, güvenilir aksesuarlar ve maliyet etkin filo fiyatlandırmasıyla sık kiralama kullanımı için tasarlanmış dayanıklı ürünler geliştirir.',
+          'Evet. OLagoon, kolay bakım, güvenilir aksesuarlar ve maliyet etkin filo fiyatlandırmasıyla sık kiralama kullanımı için tasarlanmış dayanıklı ürünler geliştirir.',
       },
       {
         question: 'Dükkânımda sert tahta ve şişirilebilir ürünleri birleştirebilir miyim?',
@@ -3680,7 +3680,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Çocuk SUP Üreticisi | {SITE}',
       description:
-        "Afarer, yaz kampları, okullar ve gençlik macera programları için güvenli çocuk SUP çözümleri sunar. Çocuk paddle board'ları, Giant SUP ekipmanları, ticari filolar ve özel OEM çözümleri.",
+        "OLagoon, yaz kampları, okullar ve gençlik macera programları için güvenli çocuk SUP çözümleri sunar. Çocuk paddle board'ları, Giant SUP ekipmanları, ticari filolar ve özel OEM çözümleri.",
     },
     hero: {
       tagline: 'Çocuk Macera Kampları, Okullar & Gençlik Açık Hava Programları için Güvenli & Eğlenceli SUP Çözümleri',
@@ -3772,7 +3772,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Gençlik Ürün Seçimi',
           detail:
-            'Afarer, kampın yaş gruplarına özel çocuk SUP modelleri, kararlı yeni başlayan tahtaları ve eğitmen ekipmanı önerdi.',
+            'OLagoon, kampın yaş gruplarına özel çocuk SUP modelleri, kararlı yeni başlayan tahtaları ve eğitmen ekipmanı önerdi.',
         },
         {
           title: 'Güvenlik Özelleştirmesi',
@@ -3809,17 +3809,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: "Adım 1: Çocuklara Özel SUP Tasarımı (Junior Explorer 9'6″ X)",
               detail:
-                "Temmuz 2024'te Connolly, amaca yönelik bir çocuk SUP'ı geliştirmek için Afarer'in ürün ekibiyle ortak oldu. 3 prototip iterasyonundan sonra Junior Explorer 9'6″ X'i (28″ genişlik, 4″ kalınlık, 180 L hacim) — standart tahtalardan %25 daha dar ve %40 daha hafif — kesinleştirdiler. Öne çıkan özellikler: ağırlık merkezini %22 düşüren çökük güverte pedi (1,5″ alçalma); renk kodlu şeritlerle 18–55 kg aralığı göstergesi; ve her kenarda iki güvenlik tutma ilmeği. Connolly, okul markalı güverte grafikleriyle (6 okul renk düzeni, her birinden 20 adet) 120 tahta sipariş etti. Prototipleme ve test 14 bin $ tuttu; üretim siparişi 96 bin $ idi.",
+                "Temmuz 2024'te Connolly, amaca yönelik bir çocuk SUP'ı geliştirmek için OLagoon'in ürün ekibiyle ortak oldu. 3 prototip iterasyonundan sonra Junior Explorer 9'6″ X'i (28″ genişlik, 4″ kalınlık, 180 L hacim) — standart tahtalardan %25 daha dar ve %40 daha hafif — kesinleştirdiler. Öne çıkan özellikler: ağırlık merkezini %22 düşüren çökük güverte pedi (1,5″ alçalma); renk kodlu şeritlerle 18–55 kg aralığı göstergesi; ve her kenarda iki güvenlik tutma ilmeği. Connolly, okul markalı güverte grafikleriyle (6 okul renk düzeni, her birinden 20 adet) 120 tahta sipariş etti. Prototipleme ve test 14 bin $ tuttu; üretim siparişi 96 bin $ idi.",
             },
             {
               title: 'Adım 2: ACARA Uyumlu Müfredat Geliştirme',
               detail:
-                "Connolly, “Paddle & Discover”ı — Avustralya Müfredatı v9.0'a (Fen, HPE, Coğrafya) hizalanmış 14 oturumlu bir SUP keşif programı — yazmak için Afarer'in eğitim danışmanlarıyla ve Queensland'in müfredat otoritesiyle çalıştı. Oturumlar şunları içeriyordu: su böceği örneklemesi (güverte montajlı bir toplama tepsisi kullanılarak), çözünmüş oksijen ölçümü (D-halkalarına klipslenen taşınabilir ölçer), yüzdürme ve su dışarı itme deneyleri ve Everglades ekosistem haritalama. Programın 3 zorluk kademesi vardı: Yılanbalıkları (Hazırlık–1. sınıf, havuz/sakin su), Kaplumbağalar (2–3. sınıflar, korumalı koy) ve Vatozlar (4–6. sınıflar, açık Everglades). Afarer her kademe için hava koşullarına dayanıklı ipucu kartları bastı.",
+                "Connolly, “Paddle & Discover”ı — Avustralya Müfredatı v9.0'a (Fen, HPE, Coğrafya) hizalanmış 14 oturumlu bir SUP keşif programı — yazmak için OLagoon'in eğitim danışmanlarıyla ve Queensland'in müfredat otoritesiyle çalıştı. Oturumlar şunları içeriyordu: su böceği örneklemesi (güverte montajlı bir toplama tepsisi kullanılarak), çözünmüş oksijen ölçümü (D-halkalarına klipslenen taşınabilir ölçer), yüzdürme ve su dışarı itme deneyleri ve Everglades ekosistem haritalama. Programın 3 zorluk kademesi vardı: Yılanbalıkları (Hazırlık–1. sınıf, havuz/sakin su), Kaplumbağalar (2–3. sınıflar, korumalı koy) ve Vatozlar (4–6. sınıflar, açık Everglades). OLagoon her kademe için hava koşullarına dayanıklı ipucu kartları bastı.",
             },
             {
               title: 'Adım 3: Öğretmen Sertifikasyonu, Risk Değerlendirmesi ve Güneş Güvenliği Entegrasyonu',
               detail:
-                "Eylül 2024'te 3 hafta sonu boyunca Afarer'in eğitim ekibi, çocuklara özgü güvenliği vurgulayan değiştirilmiş bir IRF Seviye 1 kursuyla (daha önce SUP deneyimi olmayan) 14 okul öğretmenini sertifikalandırdı: düdük sinyalleriyle grup yönetimi (3 düdük = donma, 5 = acil durum), “koala inişi” (çocuğun oturur pozisyondan tahtaya düşmesi) ve 30 kg altındaki çocukların devrilme toparlanması. Queensland Eğitim Departmanı, SUP programını eyaletin Açık Hava Aktivitesi Risk Değerlendirmesi çerçevesi altında onayladı; sakin suda 1:6 eğitmen-öğrenci oranı (<0,3 m dalga, <12 knot rüzgar) gerektiriyordu. Güneş güvenliği (rash vest, SPF 50+, boyun koruması) oturum-0 gereksinimi olarak entegre edildi.",
+                "Eylül 2024'te 3 hafta sonu boyunca OLagoon'in eğitim ekibi, çocuklara özgü güvenliği vurgulayan değiştirilmiş bir IRF Seviye 1 kursuyla (daha önce SUP deneyimi olmayan) 14 okul öğretmenini sertifikalandırdı: düdük sinyalleriyle grup yönetimi (3 düdük = donma, 5 = acil durum), “koala inişi” (çocuğun oturur pozisyondan tahtaya düşmesi) ve 30 kg altındaki çocukların devrilme toparlanması. Queensland Eğitim Departmanı, SUP programını eyaletin Açık Hava Aktivitesi Risk Değerlendirmesi çerçevesi altında onayladı; sakin suda 1:6 eğitmen-öğrenci oranı (<0,3 m dalga, <12 knot rüzgar) gerektiriyordu. Güneş güvenliği (rash vest, SPF 50+, boyun koruması) oturum-0 gereksinimi olarak entegre edildi.",
             },
             {
               title: 'Adım 4: 2025 1. Dönem Lansmanı ve Ölçülebilir Öğrenci Çıktıları',
@@ -3847,7 +3847,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Filo Tedariki ve Yaşa Uygun Tahta Boyutlandırması',
               detail:
-                "Ocak 2025'te Whitfield, 8–11 yaş kamperler için Afarer Junior Explorer 9'6″ X'i (40 tahta) ve 12–15 yaşlar için Explorer 10'8″ X'i (30 tahta) seçti; toplam 58 bin $. Her tahtayı GoPro/toplama tepsisi montajı için iki pruva montajlı D-halka ve su geçirmez bir doğa günlüğü (Rite in the Rain, spiral ciltli) için güverte lastiğiyle belirtti. Her tahta, bir kamper kimlik numarası ve Camp Keowee rakun logosuyla lazerle kazındı.",
+                "Ocak 2025'te Whitfield, 8–11 yaş kamperler için OLagoon Junior Explorer 9'6″ X'i (40 tahta) ve 12–15 yaşlar için Explorer 10'8″ X'i (30 tahta) seçti; toplam 58 bin $. Her tahtayı GoPro/toplama tepsisi montajı için iki pruva montajlı D-halka ve su geçirmez bir doğa günlüğü (Rite in the Rain, spiral ciltli) için güverte lastiğiyle belirtti. Her tahta, bir kamper kimlik numarası ve Camp Keowee rakun logosuyla lazerle kazındı.",
             },
             {
               title: 'Adım 2: 4 Kademeli SUP Keşif Rozeti Müfredat Tasarımı',
@@ -3857,7 +3857,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 3: Danışman Sertifikasyonu ve Lake Jocassee Güvenlik Bölgesi Haritalama',
               detail:
-                "Mayıs 2025'te (kamp öncesi personel eğitimi) Afarer, gençlik grubu yönetimine odaklanan 3 günlük IRF bazlı SUP rehber kursuyla 22 su kenarı danışmanını (19–24 yaş) sertifikalandırdı. Whitfield, renk kodlu işaret şamandıralarıyla 6 güvenlik bölgesi haritaladı: yüzme bölgesi (kırmızı), yeni başlayan kürek bölgesi (sarı, iskeleden 200 m içinde), orta seviye bölge (yeşil, batı kıyısı boyunca 1 km'ye kadar), ileri bölge (mavi, telsiz kontrol noktalı tüm göl) ve yasak bölgeler (mor, baraj emme ağzı ve Bald Rock kayalıkları çevresi). Her danışman, SUP operasyonlarına ayrılmış 15. kanalla su geçirmez bir VHF telsiz taşıdı. Duke Power göl yönetim otoritesi, 12 Mayıs'taki ortak güvenlik incelemesinin ardından planı onayladı.",
+                "Mayıs 2025'te (kamp öncesi personel eğitimi) OLagoon, gençlik grubu yönetimine odaklanan 3 günlük IRF bazlı SUP rehber kursuyla 22 su kenarı danışmanını (19–24 yaş) sertifikalandırdı. Whitfield, renk kodlu işaret şamandıralarıyla 6 güvenlik bölgesi haritaladı: yüzme bölgesi (kırmızı), yeni başlayan kürek bölgesi (sarı, iskeleden 200 m içinde), orta seviye bölge (yeşil, batı kıyısı boyunca 1 km'ye kadar), ileri bölge (mavi, telsiz kontrol noktalı tüm göl) ve yasak bölgeler (mor, baraj emme ağzı ve Bald Rock kayalıkları çevresi). Her danışman, SUP operasyonlarına ayrılmış 15. kanalla su geçirmez bir VHF telsiz taşıdı. Duke Power göl yönetim otoritesi, 12 Mayıs'taki ortak güvenlik incelemesinin ardından planı onayladı.",
             },
             {
               title: 'Adım 4: 2025 Yaz Sezonu Sonuçları ve Rozet Kazanma Oranları',
@@ -3874,8 +3874,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Gençlik Programları Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Gençlik Programları Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Çocuk Güvenliği',
@@ -3903,7 +3903,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Farklı yaşlardaki çocuklar için hangi boyutta SUP tahtası uygundur?',
         answer:
-          'Afarer, çocuklar ve gençler için tasarlanmış daha küçük, gençliğe özel SUP boyutları sunar. Bu tahtalar, yetişkin modellerine kıyasla daha düşük hacim, daha dar genişlik ve daha hafif ağırlık taşır; bu da genç kullanıcılar için kullanımını, kontrolünü ve öğrenmesini kolaylaştırır.',
+          'OLagoon, çocuklar ve gençler için tasarlanmış daha küçük, gençliğe özel SUP boyutları sunar. Bu tahtalar, yetişkin modellerine kıyasla daha düşük hacim, daha dar genişlik ve daha hafif ağırlık taşır; bu da genç kullanıcılar için kullanımını, kontrolünü ve öğrenmesini kolaylaştırır.',
       },
       {
         question: 'Giant SUP takım ruhu aktivitelerinde nasıl çalışır?',
@@ -3913,26 +3913,26 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Çocuk SUP tahtalarında hangi güvenlik özellikleri var?',
         answer:
-          'Afarer gençlik tahtaları; çoklu tutamaç güvenlik tasarımı (yan, ön ve taşıma tutamaçları), sağlam basış için tam EVA kaymaz güverte, keskin kenarı olmayan yuvarlatılmış güvenlik formları, kararlı yüzme için yüksek yüzdürme kapasiteli yapı ve düştükten sonra kolay toparlanma tasarımı içerir.',
+          'OLagoon gençlik tahtaları; çoklu tutamaç güvenlik tasarımı (yan, ön ve taşıma tutamaçları), sağlam basış için tam EVA kaymaz güverte, keskin kenarı olmayan yuvarlatılmış güvenlik formları, kararlı yüzme için yüksek yüzdürme kapasiteli yapı ve düştükten sonra kolay toparlanma tasarımı içerir.',
       },
       {
         question: 'SUP tahtaları kamp logomuz ve renklerimizle özelleştirilebilir mi?',
         answer:
-          'Evet, Afarer; kamp logoları, program renkleri, markalaşma öğeleri ve temalı grafikler dahil eksiksiz özelleştirmeyi destekler. Özel markalaşma, benzersiz bir kamp kimliği yaratmaya ve ekipmanın kolayca tanınmasını sağlamaya yardım eder.',
+          'Evet, OLagoon; kamp logoları, program renkleri, markalaşma öğeleri ve temalı grafikler dahil eksiksiz özelleştirmeyi destekler. Özel markalaşma, benzersiz bir kamp kimliği yaratmaya ve ekipmanın kolayca tanınmasını sağlamaya yardım eder.',
       },
       {
         question: 'Bir gençlik SUP programına başlamak için kaç tahta gerekir?',
         answer:
-          "Afarer; çocuk tahtaları, eğitmen tahtaları, kürekler, pompalar, leash'ler ve taşıma çantaları dahil bir başlangıç paketi önerir. Filo büyüklüğü grup kapasitesine bağlıdır — tipik bir kamp 10–20 gençlik tahtası artı eğitmen ekipmanıyla başlayabilir ve sezonluk genişleme seçenekleri vardır.",
+          "OLagoon; çocuk tahtaları, eğitmen tahtaları, kürekler, pompalar, leash'ler ve taşıma çantaları dahil bir başlangıç paketi önerir. Filo büyüklüğü grup kapasitesine bağlıdır — tipik bir kamp 10–20 gençlik tahtası artı eğitmen ekipmanıyla başlayabilir ve sezonluk genişleme seçenekleri vardır.",
       },
       {
         question: 'Kamp SUP programları için hangi eğitmen ekipmanı önerilir?',
         answer:
-          "Afarer; güçlendirilmiş kararlılık ve kontrol özelliklerine sahip eğitmenlere özel tahtalar, ayrıca leash'ler, pompalar, tamir kitleri ve iletişim ekipmanı dahil güvenlik aksesuarları önerir. Kamp Filosu Paketi, özel eğitmen tahtaları ve yedek bileşenler içerebilir.",
+          "OLagoon; güçlendirilmiş kararlılık ve kontrol özelliklerine sahip eğitmenlere özel tahtalar, ayrıca leash'ler, pompalar, tamir kitleri ve iletişim ekipmanı dahil güvenlik aksesuarları önerir. Kamp Filosu Paketi, özel eğitmen tahtaları ve yedek bileşenler içerebilir.",
       },
     ],
     cta: {
-      title: 'Afarer ile Çocuk Su Macerası Programınızı Kurun',
+      title: 'OLagoon ile Çocuk Su Macerası Programınızı Kurun',
       subtitle:
         'Profesyonelce tasarlanmış SUP keşif programları aracılığıyla çocukların kendine güveni, takım çalışması, doğayı ve macerayı keşfetmesine yardım edin.',
       primaryAction: {
@@ -3955,9 +3955,9 @@ const tr: Record<string, SolutionOverride> = {
       title:
         'Cruise Hatları, Yat Şirketleri ve Denizcilik Misafirperverlik Markaları için Premium Taşınabilir Su Sporları Çözümleri',
       subtitle:
-        'Afarer; cruise şirketleri, ekspedisyon cruise operatörleri, yat kiralama şirketleri, süperyat sahipleri ve marina aktivite sağlayıcıları için özel olarak tasarlanmış Lüks Taşınabilir SUP Paketi çözümleri sunar. Deniz sınıfı bileşenler ve lüks özelleştirmeyle ultra taşınabilir şişme SUP tasarımları teslim ediyoruz.',
+        'OLagoon; cruise şirketleri, ekspedisyon cruise operatörleri, yat kiralama şirketleri, süperyat sahipleri ve marina aktivite sağlayıcıları için özel olarak tasarlanmış Lüks Taşınabilir SUP Paketi çözümleri sunar. Deniz sınıfı bileşenler ve lüks özelleştirmeyle ultra taşınabilir şişme SUP tasarımları teslim ediyoruz.',
       image: {
-        alt: 'Yatlar ve cruise gemileri için Afarer lüks taşınabilir SUP paketi',
+        alt: 'Yatlar ve cruise gemileri için OLagoon lüks taşınabilir SUP paketi',
       },
     },
     challenge: {
@@ -3991,13 +3991,13 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ultra Taşınabilir Şişme SUP Tasarımı',
           description:
-            'Şişme SUP teknolojisi, yatlar ve cruise operatörleri için büyük bir avantaj sağlar. Afarer tahtaları; küçük depolama hacmi için kompakt katlama sistemleri, daha hızlı konuşlandırma için hafif taşıma ve tahta, katlanabilir kürek, pompa ve sırt çantası dahil eksiksiz seyahat paketleri içerir.',
+            'Şişme SUP teknolojisi, yatlar ve cruise operatörleri için büyük bir avantaj sağlar. OLagoon tahtaları; küçük depolama hacmi için kompakt katlama sistemleri, daha hızlı konuşlandırma için hafif taşıma ve tahta, katlanabilir kürek, pompa ve sırt çantası dahil eksiksiz seyahat paketleri içerir.',
           features: ['Kompakt katlama sistemi', 'Hafif taşıma', 'Eksiksiz seyahat paketi', 'Gemide kolay yerleştirme'],
         },
         {
           title: 'Deniz Sınıfı Malzeme Seçimi',
           description:
-            'Afarer; korozyona dayanıklı donanımlı tuzlu su dirençli bileşenler, güneş maruziyeti için UV dirençli yapı ve okyanus ortamları için özel olarak tasarlanmış dayanıklı PVC katmanlı, güçlü drop stitch çekirdekli takviyeli SUP yapısı kullanır.',
+            'OLagoon; korozyona dayanıklı donanımlı tuzlu su dirençli bileşenler, güneş maruziyeti için UV dirençli yapı ve okyanus ortamları için özel olarak tasarlanmış dayanıklı PVC katmanlı, güçlü drop stitch çekirdekli takviyeli SUP yapısı kullanır.',
           features: [
             'Tuzlu su dirençli bileşenler',
             'UV dirençli yapı',
@@ -4008,7 +4008,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Lüks Yat ve Cruise Özelleştirmesi',
           description:
-            'Premium deniz işletmeleri için görünüm önemlidir. Afarer; yat logoları ve cruise şirketi kimliğiyle özel markalaşmayı, yat lüksü, ekspedisyon macerası veya tatil köyü deniz tarzlarında premium renk tasarımını ve eşleşen küreklerle özel çantaları içeren markalı ekipman setlerini destekler.',
+            'Premium deniz işletmeleri için görünüm önemlidir. OLagoon; yat logoları ve cruise şirketi kimliğiyle özel markalaşmayı, yat lüksü, ekspedisyon macerası veya tatil köyü deniz tarzlarında premium renk tasarımını ve eşleşen küreklerle özel çantaları içeren markalı ekipman setlerini destekler.',
           features: [
             'Özel yat ve cruise markalaşması',
             'Premium renk tasarımı',
@@ -4019,27 +4019,27 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Yat Kiralama SUP Paketi',
           description:
-            'Yat misafirleri kolaylık ve ayrıcalıklılık bekler. Afarer; süperyatlar, katamaranlar ve yelkenli yatlar için özel kiralama ekipman setlerini, yeni başlayanlar ve aileler için misafir dostu operasyonu, düzenli depolamayı ve lüks görünümlü premium sunumu destekler.',
+            'Yat misafirleri kolaylık ve ayrıcalıklılık bekler. OLagoon; süperyatlar, katamaranlar ve yelkenli yatlar için özel kiralama ekipman setlerini, yeni başlayanlar ve aileler için misafir dostu operasyonu, düzenli depolamayı ve lüks görünümlü premium sunumu destekler.',
         },
         {
           title: 'Ekspedisyon Cruise Su Aktivitesi Çözümleri',
           description:
-            'Macera cruiseleri; ada durakları, kıyı keşfi ve doğa gezileri için esnek ekipman gerektirir. Afarer çözümleri; kolay taşıma ve kompakt depolamayla uzak konum operasyonlarını, ayrıca küçük gruplar ve rehberli geziler için grup aktivite programlarını destekler.',
+            'Macera cruiseleri; ada durakları, kıyı keşfi ve doğa gezileri için esnek ekipman gerektirir. OLagoon çözümleri; kolay taşıma ve kompakt depolamayla uzak konum operasyonlarını, ayrıca küçük gruplar ve rehberli geziler için grup aktivite programlarını destekler.',
         },
         {
           title: 'Eksiksiz Gemi İçi Depolama Çözümleri',
           description:
-            'Afarer deniz alanı sınırlamalarını anlar; tahta ve aksesuar organizasyonu için kompakt depolama planlaması, depolama çantalarıyla koruma sistemleri ve mürettebatın daha hızlı hazırlanıp ekipmanı daha kolay yönetmesine yardımcı operasyonel verimlilik sağlar.',
+            'OLagoon deniz alanı sınırlamalarını anlar; tahta ve aksesuar organizasyonu için kompakt depolama planlaması, depolama çantalarıyla koruma sistemleri ve mürettebatın daha hızlı hazırlanıp ekipmanı daha kolay yönetmesine yardımcı operasyonel verimlilik sağlar.',
         },
         {
           title: 'Mürettebat Eğitimi ve Bakım Desteği',
           description:
-            'Afarer; şişirme prosedürleri, ekipman kullanımı ve temizlik yöntemlerini kapsayan mürettebat operasyon kılavuzlarının yanı sıra tuzlu su temizliği, kurutma prosedürleri ve aktivite öncesi/sonrası denetim kontrol listeleriyle depolama uygulamaları için bakım önerileri sağlar.',
+            'OLagoon; şişirme prosedürleri, ekipman kullanımı ve temizlik yöntemlerini kapsayan mürettebat operasyon kılavuzlarının yanı sıra tuzlu su temizliği, kurutma prosedürleri ve aktivite öncesi/sonrası denetim kontrol listeleriyle depolama uygulamaları için bakım önerileri sağlar.',
         },
         {
           title: 'Premium Su Deneyimi Tasarımı',
           description:
-            'SUP, lüks bir deneyim paketinin parçası haline gelebilir. Afarer; çiftler ve VIP misafirler için gün batımı yat SUP deneyimleri, kiralama müşterileri için özel ada keşfi, lüks cruiseler için okyanus wellness programları ve ekspedisyon cruiseleri için deniz eko deneyimleri yaratmaya yardımcı olur.',
+            'SUP, lüks bir deneyim paketinin parçası haline gelebilir. OLagoon; çiftler ve VIP misafirler için gün batımı yat SUP deneyimleri, kiralama müşterileri için özel ada keşfi, lüks cruiseler için okyanus wellness programları ve ekspedisyon cruiseleri için deniz eko deneyimleri yaratmaya yardımcı olur.',
         },
       ],
     },
@@ -4055,7 +4055,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ürün Planlaması',
           detail:
-            'Afarer, yatın depolama sınırlamalarına, misafir deneyimi gereksinimlerine ve Akdeniz deniz ortamına dayalı bir Lüks Taşınabilir SUP Paketi tasarladı.',
+            'OLagoon, yatın depolama sınırlamalarına, misafir deneyimi gereksinimlerine ve Akdeniz deniz ortamına dayalı bir Lüks Taşınabilir SUP Paketi tasarladı.',
         },
         {
           title: 'Ürün Özelleştirmesi',
@@ -4093,29 +4093,29 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: "79° Kuzeyde Kongsfjorden'de Arktik Saha Testi",
               detail:
-                "Mayıs 2024'te Afarer'ın aşırı ortamlar ekibi (Afarer'ın Hamburg ofisinden baş mühendis Sven Lehmann), Hurtigruten'in MS Maud gemisine 14 günlük bir Svalbard yolculuğunda katıldı. Ny-Ålesund ve Monaco Buzulu yakınındaki 11 Zodiac konuşlandırmasında 8 rakip tahta ve 6 Afarer Arktik prototipini test ettiler. Temel bulgular: standart valfler, 2°C suya daldırıldıktan sonra -8°C havada açık dondu (valf gövdesindeki sıcak su, soğuk havayla temasında yeniden dondu). Afarer'ın çözümü: kapanmadan önce tüm nemi dışarı atan azot tahliyeli bir valf sistemi ve bir neopren valf kapağı. Tahta malzemesi: standart PVC -15°C'de %40 esneklik kaybetti — Afarer'ın Polarex TPU karışımı -20°C'de %92 esneklik korudu. Tahtaların 7 dakikadan kısa sürede şişmesi (soğuk koşullarda misafirlerin sabır sınırı) ve 5 dakikada söülüp paketlenmesi gerekiyordu (kutup ayısı maruziyet penceresini en aza indirmek için). Afarer'ın 2 kademeli pompası (ilk 10 PSI için el pompası, 18 PSI'ya azot tüplü güçlendirici) 6,2 dakikalık şişme süresine ulaştı.",
+                "Mayıs 2024'te OLagoon'ın aşırı ortamlar ekibi (OLagoon'ın Hamburg ofisinden baş mühendis Sven Lehmann), Hurtigruten'in MS Maud gemisine 14 günlük bir Svalbard yolculuğunda katıldı. Ny-Ålesund ve Monaco Buzulu yakınındaki 11 Zodiac konuşlandırmasında 8 rakip tahta ve 6 OLagoon Arktik prototipini test ettiler. Temel bulgular: standart valfler, 2°C suya daldırıldıktan sonra -8°C havada açık dondu (valf gövdesindeki sıcak su, soğuk havayla temasında yeniden dondu). OLagoon'ın çözümü: kapanmadan önce tüm nemi dışarı atan azot tahliyeli bir valf sistemi ve bir neopren valf kapağı. Tahta malzemesi: standart PVC -15°C'de %40 esneklik kaybetti — OLagoon'ın Polarex TPU karışımı -20°C'de %92 esneklik korudu. Tahtaların 7 dakikadan kısa sürede şişmesi (soğuk koşullarda misafirlerin sabır sınırı) ve 5 dakikada söülüp paketlenmesi gerekiyordu (kutup ayısı maruziyet penceresini en aza indirmek için). OLagoon'ın 2 kademeli pompası (ilk 10 PSI için el pompası, 18 PSI'ya azot tüplü güçlendirici) 6,2 dakikalık şişme süresine ulaştı.",
             },
             {
               title: 'Zodiac Entegrasyonu ve Güvenlik Sistemleriyle “Polar Explorer” Paketi',
               detail:
-                "Afarer, belirli Arktik uyarlamalarıyla “Polar Explorer 12.0”ı tasarladı: buz üzerinde dürbünle 2 km'den görünür parlak uluslararası turuncu renk, yansıtıcı SOLAS sınıfı bant şeritleri, 600 kg'a derecelendirilmiş yerleşik kurtarma halkası (Zodiac çekme kurtarması için) ve burunda bir GPS işaretçi cebi (Hurtigruten Garmin inReach Mini 2 cihazlarını sağladı). Paket; kuru elbiseye uyumlu şişirilebilir can yeleği (Mustang Survival HIT, kürek çekerken hareketlilik için Afarer tarafından test edildi), bir neopren pogie seti (el ısıtıcıları kürek sapına entegre) ve bir Zodiac'ın depolama bölmesine sığan özel bir sırt çantası (paket boyutu 60×30×30 cm) içeriyordu. Zodiac konuşlandırma sistemi: Zodiac'ın pontonuna kelepçelenmiş bir jockey-wheel rafı, tek bir rehberin tahtaları kaldırmadan suya kaydırmasını sağladı.",
+                "OLagoon, belirli Arktik uyarlamalarıyla “Polar Explorer 12.0”ı tasarladı: buz üzerinde dürbünle 2 km'den görünür parlak uluslararası turuncu renk, yansıtıcı SOLAS sınıfı bant şeritleri, 600 kg'a derecelendirilmiş yerleşik kurtarma halkası (Zodiac çekme kurtarması için) ve burunda bir GPS işaretçi cebi (Hurtigruten Garmin inReach Mini 2 cihazlarını sağladı). Paket; kuru elbiseye uyumlu şişirilebilir can yeleği (Mustang Survival HIT, kürek çekerken hareketlilik için OLagoon tarafından test edildi), bir neopren pogie seti (el ısıtıcıları kürek sapına entegre) ve bir Zodiac'ın depolama bölmesine sığan özel bir sırt çantası (paket boyutu 60×30×30 cm) içeriyordu. Zodiac konuşlandırma sistemi: Zodiac'ın pontonuna kelepçelenmiş bir jockey-wheel rafı, tek bir rehberin tahtaları kaldırmadan suya kaydırmasını sağladı.",
             },
             {
               title: 'Kutup Ayısı Güvenlik Protokolleri ve Rehber Eğitim Programı',
               detail:
-                "Afarer'ın güvenlik danışmanı, Svalbard valiliği eski güvenlik danışmanı Bjørn Viken, 12 Hurtigruten rehberi için 3 günlük bir eğitim programını birlikte geliştirdi. “Arktik Kürek Güvenlik Protokolü” şunları içeriyordu: kutup ayısı gözcülüğü rotasyonu (ayı tespitine adanmış bir rehber, .308 kalibre tüfek ve ışık tabancasıyla — standart Svalbard gereksinimi), grup formasyonu (50 metre içinde yan yana hat, Zodiac'la arası asla 200 metreyi geçmeyen), hızlı tahliye (tam grubun 90 saniyeden kısa sürede yeniden binmesi, haftalık tatbikat) ve acil hipotermi müdahalesi. Afarer, her rehber için su geçirmez, laminasyonlu hızlı başvuru kartları sağladı. Her seans, 2 rehber ve 100 metrede 1 silahlı güvenlik Zodiac'ıyla en fazla 8 misafirle sınırlandırıldı. Kürek sırasında kutup ayısı görülmeleri: 2024 sezonunda 2 olay — her ikisi de işaret fişeği uyarı atışlarıyla yönetildi, yaralanma olmadı. Misafirler “güvenlik güvenini” 4,9/5 olarak puanladı.",
+                "OLagoon'ın güvenlik danışmanı, Svalbard valiliği eski güvenlik danışmanı Bjørn Viken, 12 Hurtigruten rehberi için 3 günlük bir eğitim programını birlikte geliştirdi. “Arktik Kürek Güvenlik Protokolü” şunları içeriyordu: kutup ayısı gözcülüğü rotasyonu (ayı tespitine adanmış bir rehber, .308 kalibre tüfek ve ışık tabancasıyla — standart Svalbard gereksinimi), grup formasyonu (50 metre içinde yan yana hat, Zodiac'la arası asla 200 metreyi geçmeyen), hızlı tahliye (tam grubun 90 saniyeden kısa sürede yeniden binmesi, haftalık tatbikat) ve acil hipotermi müdahalesi. OLagoon, her rehber için su geçirmez, laminasyonlu hızlı başvuru kartları sağladı. Her seans, 2 rehber ve 100 metrede 1 silahlı güvenlik Zodiac'ıyla en fazla 8 misafirle sınırlandırıldı. Kürek sırasında kutup ayısı görülmeleri: 2024 sezonunda 2 olay — her ikisi de işaret fişeği uyarı atışlarıyla yönetildi, yaralanma olmadı. Misafirler “güvenlik güvenini” 4,9/5 olarak puanladı.",
             },
             {
               title: 'Haziran–Eylül 2024 Arktik Sezonu Lansmanı ve Sonuçları',
               detail:
-                "60 tahtalık filo, 1 Haziran 2024'ten itibaren 4 gemiye dağıtıldı. Her gemi haftada 3 kürek seansı sundu (hava koşullarına bağlı, her biri 90 dakika). 2024 sezonunda toplam seans: tüm gemilerde 288 seans (4 gemi × haftada 3 × 24 hafta). Ortalama doluluk: seans başına 7,2 misafir (8 kişilik kapasitenin %90'ı). Gelir: 288 × 7,2 × 450 $ (premium gezinti fiyatı) = 933.120 $. Tahta performansı: sıfır yıkıcı arıza. Bir tahta, deniz buzundan 3 cm'lik bir delik aldı (keskin bir buz parçası) — bir Zodiac sürüklenmesi sırasında Arktik sınıfı yama kitiyle 8 dakikada onarıldı. Valfler, 288 şişme/söndürme döngüsünde kusursuz çalıştı. Misafir geri bildirimi: ortalama 4,93/5 puan. Misafirlerin %83'ü SUP deneyiminin “yolculuklarının öne çıkan anı” olduğunu söyledi. Erik, 2025 sezonu için 40 ek tahta sipariş etti ve Afarer'dan tandem Arktik küreği için bir “Twin” modeli geliştirmesini istedi.",
+                "60 tahtalık filo, 1 Haziran 2024'ten itibaren 4 gemiye dağıtıldı. Her gemi haftada 3 kürek seansı sundu (hava koşullarına bağlı, her biri 90 dakika). 2024 sezonunda toplam seans: tüm gemilerde 288 seans (4 gemi × haftada 3 × 24 hafta). Ortalama doluluk: seans başına 7,2 misafir (8 kişilik kapasitenin %90'ı). Gelir: 288 × 7,2 × 450 $ (premium gezinti fiyatı) = 933.120 $. Tahta performansı: sıfır yıkıcı arıza. Bir tahta, deniz buzundan 3 cm'lik bir delik aldı (keskin bir buz parçası) — bir Zodiac sürüklenmesi sırasında Arktik sınıfı yama kitiyle 8 dakikada onarıldı. Valfler, 288 şişme/söndürme döngüsünde kusursuz çalıştı. Misafir geri bildirimi: ortalama 4,93/5 puan. Misafirlerin %83'ü SUP deneyiminin “yolculuklarının öne çıkan anı” olduğunu söyledi. Erik, 2025 sezonu için 40 ek tahta sipariş etti ve OLagoon'dan tandem Arktik küreği için bir “Twin” modeli geliştirmesini istedi.",
             },
           ],
           results: [
             'Tek bir 4 aylık Arktik sezonunda, %90 kapasite kullanımıyla 288 SUP seansından 933.120 $ gelir',
             'Ekstrem Arktik koşullarında 288 seansta sıfır yıkıcı tahta arızası; 1 küçük buz deliği gemi üzerinde 8 dakikada onarıldı',
             "Misafir memnuniyeti 4,93/5; misafirlerin %83'ü SUP deneyimini “yolculuğun öne çıkan anı” olarak puanladı; gemiler SUP'ı kalıcı gezinti kategorisi olarak ekledi",
-            'Afarer, tüm Hurtigruten Svalbard operasyonları için 3 yıllık münhasır ortaklıkla ödüllendirildi; 2025 sezonu için 40 ek tahta sipariş edildi',
+            'OLagoon, tüm Hurtigruten Svalbard operasyonları için 3 yıllık münhasır ortaklıkla ödüllendirildi; 2025 sezonu için 40 ek tahta sipariş edildi',
           ],
         },
         {
@@ -4130,36 +4130,36 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Mart 2024 Ada Değerlendirmesi ve Özel Yapım Tasarım Danışmanlığı',
               detail:
-                "Afarer'ın lüks bölüm direktörü Philippe Moreau ve kıdemli tasarımcı Amira Al Hashimi, Al Nabigha Adası'nda 4 gün geçirdi. Her detayı belgelediler: villa iç mekânları (krem, kum ve altın tonlarıyla çağdaş Arap tasarımı), mercan bahçesi renk paleti (turkuaz, camgöbeği, mercan pembesi), marina ahşap boyası (Pantone eşleşmeli) ve hatta ailenin porselen deseni (Wedgwood “Middle East Pearl”). Philippe ve Amira “eşsiz” bir estetik önerdi: adanın gerçek resif renkleriyle eşleşen tahtalar ve şeffaf epoksi altında 24 ayar yaprak altınla kabartılmış Al Nabigha aile arması (hurma palmiyesinin üzerinde bir şahin). Depolama bir kısıttı — Hamdan'ın mevcut sahil kulübesinde, 20 tahta için yalnızca 8 metreküp alan vardı. Afarer, her tahta nem sensörüyle rulo halinde saklandığı, tek tek havalandırmalı çekmeceli özel tik dolaplar önerdi.",
+                "OLagoon'ın lüks bölüm direktörü Philippe Moreau ve kıdemli tasarımcı Amira Al Hashimi, Al Nabigha Adası'nda 4 gün geçirdi. Her detayı belgelediler: villa iç mekânları (krem, kum ve altın tonlarıyla çağdaş Arap tasarımı), mercan bahçesi renk paleti (turkuaz, camgöbeği, mercan pembesi), marina ahşap boyası (Pantone eşleşmeli) ve hatta ailenin porselen deseni (Wedgwood “Middle East Pearl”). Philippe ve Amira “eşsiz” bir estetik önerdi: adanın gerçek resif renkleriyle eşleşen tahtalar ve şeffaf epoksi altında 24 ayar yaprak altınla kabartılmış Al Nabigha aile arması (hurma palmiyesinin üzerinde bir şahin). Depolama bir kısıttı — Hamdan'ın mevcut sahil kulübesinde, 20 tahta için yalnızca 8 metreküp alan vardı. OLagoon, her tahta nem sensörüyle rulo halinde saklandığı, tek tek havalandırmalı çekmeceli özel tik dolaplar önerdi.",
             },
             {
               title: '“Royal Heritage” Özel Üretimi ve Sessiz Elektrik Altyapısı',
               detail:
-                "Afarer'ın Xiamen tesisi, Al Nabigha siparişi için ayrı bir üretim hattı ayırdı. Her tahta, adanın daha derin resif bölgeleriyle eşleştirilmiş özel bir Pantone rengi (PMS 7712 C) olan “Arabian Teal” renginde, özel boyanmış PVC ile elle serildi. Yaprak altın kabartma: aile armasının çevresine, deniz sınıfı UV ile sertleştirilmiş 3 kat epoksiyle korunan 0,5 mikron 24 ayar altın uygulandı. Afarer, sessiz elektrikli pompalar tedarik etti (JOBE Aero, işletmeyi 38 dB'ye düşüren ses yalıtımlı muhafazalarla modifiye edildi — adanın ortam dalga sesinden daha sessiz). Her pompanın güç kablosu, villa dekoruyla eşleşmesi için krem rengi kumaşa sarıldı. 20 parçalık kürek seti: mat krem renginde özel karbon fiber saplar, ferrulda 24 ayar altın bant ve Xiamen merkezli deniz sanatçısı Liao Fang tarafından el ile boyanmış, mercan resifi motifli kanatlar. Nem kontrollü depolama dolabı, Afarer'ın Milano'daki marangozlık ortağı tarafından üretildi, düz paket olarak gönderildi ve adada monte edildi.",
+                "OLagoon'ın Xiamen tesisi, Al Nabigha siparişi için ayrı bir üretim hattı ayırdı. Her tahta, adanın daha derin resif bölgeleriyle eşleştirilmiş özel bir Pantone rengi (PMS 7712 C) olan “Arabian Teal” renginde, özel boyanmış PVC ile elle serildi. Yaprak altın kabartma: aile armasının çevresine, deniz sınıfı UV ile sertleştirilmiş 3 kat epoksiyle korunan 0,5 mikron 24 ayar altın uygulandı. OLagoon, sessiz elektrikli pompalar tedarik etti (JOBE Aero, işletmeyi 38 dB'ye düşüren ses yalıtımlı muhafazalarla modifiye edildi — adanın ortam dalga sesinden daha sessiz). Her pompanın güç kablosu, villa dekoruyla eşleşmesi için krem rengi kumaşa sarıldı. 20 parçalık kürek seti: mat krem renginde özel karbon fiber saplar, ferrulda 24 ayar altın bant ve Xiamen merkezli deniz sanatçısı Liao Fang tarafından el ile boyanmış, mercan resifi motifli kanatlar. Nem kontrollü depolama dolabı, OLagoon'ın Milano'daki marangozlık ortağı tarafından üretildi, düz paket olarak gönderildi ve adada monte edildi.",
             },
             {
               title: 'Beyaz Eldiven Hizmet Protokolü ve Personel Eğitimi',
               detail:
-                "Saeed Al Mazrouei, Mayıs 2024'te Afarer'in Beyaz Eldiven Hizmet Eğitimi için 6 ada personeli seçti (3 vale, 2 plaj görevlisi, 1 marina çalışanı). 5 günlük program şunları kapsıyordu: misafir karşılaması (tahtalar rattan bir standda sunulur, asla yere konmaz), şişirme seremonisi (misafir gelmeden pompa başlatılır — misafir sahile ulaştığında tahta hazır — pompa başlangıcından tam 15 PSI'ya ölçülen 11,5 dakika), kişisel donanım (doğru kürek boyu, kayış takma, can yeleği bedeni — mutlaka gizli olmalıydı, bu yüzden Afarer mat altın donanımlı, krem renginde özel renkli şişirilebilir can yelekleri sağladı) ve seans sonrası bakım (tahta pH-nötr temizleyiciyle silinir, her 5 seansta bir UV koruyucu uygulanır, valf denetlenir ve misafir ayrılışından 8 dakika içinde çekmeceye geri sarılır). Protokol kılavuzu (45 sayfa, altın varak kenarlı sayfalarla deri ciltli) kulübenin gizli kasasında saklandı. Eğitim sonrası Hamdan'ın geri bildirimi: “Ekipmana böyle muamele edilmeli.”",
+                "Saeed Al Mazrouei, Mayıs 2024'te OLagoon'in Beyaz Eldiven Hizmet Eğitimi için 6 ada personeli seçti (3 vale, 2 plaj görevlisi, 1 marina çalışanı). 5 günlük program şunları kapsıyordu: misafir karşılaması (tahtalar rattan bir standda sunulur, asla yere konmaz), şişirme seremonisi (misafir gelmeden pompa başlatılır — misafir sahile ulaştığında tahta hazır — pompa başlangıcından tam 15 PSI'ya ölçülen 11,5 dakika), kişisel donanım (doğru kürek boyu, kayış takma, can yeleği bedeni — mutlaka gizli olmalıydı, bu yüzden OLagoon mat altın donanımlı, krem renginde özel renkli şişirilebilir can yelekleri sağladı) ve seans sonrası bakım (tahta pH-nötr temizleyiciyle silinir, her 5 seansta bir UV koruyucu uygulanır, valf denetlenir ve misafir ayrılışından 8 dakika içinde çekmeceye geri sarılır). Protokol kılavuzu (45 sayfa, altın varak kenarlı sayfalarla deri ciltli) kulübenin gizli kasasında saklandı. Eğitim sonrası Hamdan'ın geri bildirimi: “Ekipmana böyle muamele edilmeli.”",
             },
             {
               title:
                 "Haziran 2024 Teslimatı ve İlk VIP Hafta Sonu (Prens Andrew'un iptal edilen konaklamasının yerini Katar Emiri aldı)",
               detail:
-                "İlk tam filo konuşlandırması, Katar Emiri Tamim bin Hamad Al Thani ve ailesinin 24 Haziran 2024'teki devlet ziyareti için yapıldı (aslen katılan bir İngiliz kraliyet üyesi için planlanmıştı). 07.30'a kadar özel plajda 6 SUP kuruldu. Emir'in 14 yaşındaki oğlu Şeyh Jassim, deniz biyoloğu bir rehberle (o da Afarer tarafından özel eğitildi) 3 saat boyunca kürek çekerek mercan bahçesini keşfetti. Hamdan şunu bildirdi: “Emir'in oğlu, ziyaretin en iyi parçası olduğunu söyledi.” Ekim 2024'te Suudi Kraliyet Sarayı'ndan 12 misafir için ikinci konuşlandırmada şampanya servisiyle gün batımı küreği yapıldı (kadehler, Afarer'in tekne dalgasında devrilmeyecek şekilde tasarlanmış özel içecek tutucusunda taşındı). Mart 2025 itibarıyla tahtalar 47 kez kullanıldı; sıfır hasar, sıfır bakım olayı ve sıfır misafir şikayeti yaşandı. Hamdan, ailenin özel yatı (65 metrelik “Al Nabigha Star”) için 8 ek tahta sipariş etti ve Afarer'a BAE Ulusal Günü kutlamaları için yaprak altın kürek serisi geliştirme görevi verdi.",
+                "İlk tam filo konuşlandırması, Katar Emiri Tamim bin Hamad Al Thani ve ailesinin 24 Haziran 2024'teki devlet ziyareti için yapıldı (aslen katılan bir İngiliz kraliyet üyesi için planlanmıştı). 07.30'a kadar özel plajda 6 SUP kuruldu. Emir'in 14 yaşındaki oğlu Şeyh Jassim, deniz biyoloğu bir rehberle (o da OLagoon tarafından özel eğitildi) 3 saat boyunca kürek çekerek mercan bahçesini keşfetti. Hamdan şunu bildirdi: “Emir'in oğlu, ziyaretin en iyi parçası olduğunu söyledi.” Ekim 2024'te Suudi Kraliyet Sarayı'ndan 12 misafir için ikinci konuşlandırmada şampanya servisiyle gün batımı küreği yapıldı (kadehler, OLagoon'in tekne dalgasında devrilmeyecek şekilde tasarlanmış özel içecek tutucusunda taşındı). Mart 2025 itibarıyla tahtalar 47 kez kullanıldı; sıfır hasar, sıfır bakım olayı ve sıfır misafir şikayeti yaşandı. Hamdan, ailenin özel yatı (65 metrelik “Al Nabigha Star”) için 8 ek tahta sipariş etti ve OLagoon'a BAE Ulusal Günü kutlamaları için yaprak altın kürek serisi geliştirme görevi verdi.",
             },
           ],
           results: [
             '20 tahtalık filo, ilk 9 ayda 47 VIP misafir seansı için konuşlandırıldı; sıfır bakım olayı veya misafir şikayeti',
             'Sessiz elektrikli pompa sistemi için ortalama 11,5 dakikalık kurulum süresi; seans sonrası toplama 8 dakikada tamamlandı — ikisi de 15 dakikalık lüks hizmet standardını aştı',
             'Özel depolama dolapları ortalama %58 nem korudu (PVC için optimal); küf veya malzeme bozulması bildirilmedi',
-            'Aile yatı “Al Nabigha Star” için 8 tahtalık ek sipariş verildi; Afarer, münhasır BAE Ulusal Günü 2025 yaprak altın kürek serisi için görevlendirildi',
+            'Aile yatı “Al Nabigha Star” için 8 tahtalık ek sipariş verildi; OLagoon, münhasır BAE Ulusal Günü 2025 yaprak altın kürek serisi için görevlendirildi',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: "Cruise ve Yat Şirketleri Neden Afarer'ı Seçiyor",
+    whyOLagoon: {
+      title: "Cruise ve Yat Şirketleri Neden OLagoon'ı Seçiyor",
       items: [
         {
           title: 'Deniz Ortamı',
@@ -4185,19 +4185,19 @@ const tr: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Afarer SUP tahtaları yat depolaması için paketlendiğinde ne kadar kompakt olur?',
+        question: 'OLagoon SUP tahtaları yat depolaması için paketlendiğinde ne kadar kompakt olur?',
         answer:
-          'Afarer lüks taşınabilir SUP tahtaları, depolama hacmini önemli ölçüde azaltan kompakt katlama sistemlerine sahiptir; yat kabinlerine, depolama bölmelerine ve ekspedisyon gemilerine kolayca sığar. Her tahta, tüm aksesuarlarla birlikte bir taşıma sırt çantasına sığar.',
+          'OLagoon lüks taşınabilir SUP tahtaları, depolama hacmini önemli ölçüde azaltan kompakt katlama sistemlerine sahiptir; yat kabinlerine, depolama bölmelerine ve ekspedisyon gemilerine kolayca sığar. Her tahta, tüm aksesuarlarla birlikte bir taşıma sırt çantasına sığar.',
       },
       {
-        question: 'Afarer SUP tahtaları tuzlu suya ve UV hasarına dayanıklı mı?',
+        question: 'OLagoon SUP tahtaları tuzlu suya ve UV hasarına dayanıklı mı?',
         answer:
-          'Evet, Afarer; okyanus ortamlarına, neme ve güneş maruziyetine dayanacak şekilde özel olarak tasarlanmış tuzlu su dirençli bileşenler, korozyona dayanıklı donanım, UV dirençli yapı ve dayanıklı PVC katmanlar dahil deniz sınıfı malzemeler kullanır.',
+          'Evet, OLagoon; okyanus ortamlarına, neme ve güneş maruziyetine dayanacak şekilde özel olarak tasarlanmış tuzlu su dirençli bileşenler, korozyona dayanıklı donanım, UV dirençli yapı ve dayanıklı PVC katmanlar dahil deniz sınıfı malzemeler kullanır.',
       },
       {
         question: 'SUP tahtalarını yatımın veya cruise şirketimin markasıyla özelleştirebilir misiniz?',
         answer:
-          'Evet, Afarer; yat logoları, cruise şirketi kimliği, çeşitli tarzlarda premium renk tasarımı, eşleşen markalı kürekler, özel çantalar ve markanızın lüks konumlandırmasını yansıtan eksiksiz ekipman setleri dahil tam özelleştirme sunar.',
+          'Evet, OLagoon; yat logoları, cruise şirketi kimliği, çeşitli tarzlarda premium renk tasarımı, eşleşen markalı kürekler, özel çantalar ve markanızın lüks konumlandırmasını yansıtan eksiksiz ekipman setleri dahil tam özelleştirme sunar.',
       },
       {
         question: 'Lüks taşınabilir bir SUP paketinde neler bulunur?',
@@ -4207,18 +4207,18 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Mürettebat üyeleri için ekipmanın hazırlanması ve konuşlandırılması ne kadar kolay?',
         answer:
-          'Afarer; şişirme prosedürleri, ekipman kullanımı, temizlik yöntemleri ve denetim kontrol listelerini kapsayan mürettebat operasyon kılavuzları sağlar. Hafif, taşınabilir tasarım, geleneksel sert tahtalara kıyasla daha hızlı konuşlandırma ve daha kolay kullanım sağlar.',
+          'OLagoon; şişirme prosedürleri, ekipman kullanımı, temizlik yöntemleri ve denetim kontrol listelerini kapsayan mürettebat operasyon kılavuzları sağlar. Hafif, taşınabilir tasarım, geleneksel sert tahtalara kıyasla daha hızlı konuşlandırma ve daha kolay kullanım sağlar.',
       },
       {
         question: 'Birden fazla gemisi olan cruise hatları için toplu çözümler sunuyor musunuz?',
         answer:
-          'Evet, Afarer; gemiler arasında tutarlı ürün kalitesi, toplu satın alma verimliliği ve standartlaştırılmış ekipman paketleri dahil filo ölçekli çözümlerle cruise şirketlerini, yat kiralama işletmelerini ve denizcilik misafirperverlik markalarını destekler.',
+          'Evet, OLagoon; gemiler arasında tutarlı ürün kalitesi, toplu satın alma verimliliği ve standartlaştırılmış ekipman paketleri dahil filo ölçekli çözümlerle cruise şirketlerini, yat kiralama işletmelerini ve denizcilik misafirperverlik markalarını destekler.',
       },
     ],
     cta: {
-      title: 'Afarer ile Lüks Su Deneyiminizi Yaratın',
+      title: 'OLagoon ile Lüks Su Deneyiminizi Yaratın',
       subtitle:
-        'Okyanus sizin destinasyonunuz. Şimdi üzerinde unutulmaz deneyimler yaratın. Afarer; cruise şirketlerinin, yat operatörlerinin, kiralama işletmelerinin ve denizcilik misafirperverlik markalarının premium taşınabilir SUP deneyimleri kurmasına yardımcı olur.',
+        'Okyanus sizin destinasyonunuz. Şimdi üzerinde unutulmaz deneyimler yaratın. OLagoon; cruise şirketlerinin, yat operatörlerinin, kiralama işletmelerinin ve denizcilik misafirperverlik markalarının premium taşınabilir SUP deneyimleri kurmasına yardımcı olur.',
       primaryAction: {
         text: 'Lüks Deniz SUP Projenize Bugün Başlayın',
       },
@@ -4232,7 +4232,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Evcil Hayvan Dostu Paddle Board Üreticisi | Köpek SUP OEM Tedarikçisi | {SITE}',
       description:
-        "Afarer, köpek macerası markaları ve evcil hayvan outdoor şirketleri için özel evcil hayvan dostu paddle board'lar üretir. Dayanıklı çizilmez SUP tasarımları, geniş stabil platformlar, OEM üretimi ve private label çözümleri.",
+        "OLagoon, köpek macerası markaları ve evcil hayvan outdoor şirketleri için özel evcil hayvan dostu paddle board'lar üretir. Dayanıklı çizilmez SUP tasarımları, geniş stabil platformlar, OEM üretimi ve private label çözümleri.",
     },
     hero: {
       tagline: 'Evcil Hayvan Dostu Paddle Board Programı™',
@@ -4273,7 +4273,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Evcil Hayvana Optimize SUP Tasarımı',
           description:
-            'Afarer; artan tahta genişliği, daha büyük durma alanı ve her boyutta köpekler için uzun tam güverte aktivite alanı sunan ultra stabil geniş platform tasarımıyla özellikle evcil hayvan kullanımına yönelik SUP yapıları geliştirir.',
+            'OLagoon; artan tahta genişliği, daha büyük durma alanı ve her boyutta köpekler için uzun tam güverte aktivite alanı sunan ultra stabil geniş platform tasarımıyla özellikle evcil hayvan kullanımına yönelik SUP yapıları geliştirir.',
           features: [
             'Ultra Stabil Geniş Platform Tasarımı',
             'Uzun Tam Güverte Aktivite Alanı',
@@ -4283,13 +4283,13 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Çizilme Karşıtı ve Evcil Hayvana Dayanıklı Malzeme Yapısı',
           description:
-            'Afarer; çizilmeye dayanıklılık için güçlendirilmiş PVC yapı, artırılmış tutuşla ağır hizmet tipi tam kaplama EVA güverte pedleri ve pençe basıncına karşı koruma sağlayan delinme karşıtı yapıyı destekler.',
+            'OLagoon; çizilmeye dayanıklılık için güçlendirilmiş PVC yapı, artırılmış tutuşla ağır hizmet tipi tam kaplama EVA güverte pedleri ve pençe basıncına karşı koruma sağlayan delinme karşıtı yapıyı destekler.',
           features: ['Güçlendirilmiş PVC Yapı', 'Ağır Hizmet Tipi EVA Güverte Pedi', 'Delinme Karşıtı Yapı'],
         },
         {
           title: 'Evcil Hayvan Dostu Ürün Konfigürasyonu',
           description:
-            'Afarer; tahtalar ve aksesuarlarla standart evcil hayvan SUP paketleri, güvenlik aksesuarlarıyla premium köpek macerası paketleri ve yol gezileri ile kampçılık için seyahat evcil hayvan paketleri dahil eksiksiz ürün çözümlerini destekler.',
+            'OLagoon; tahtalar ve aksesuarlarla standart evcil hayvan SUP paketleri, güvenlik aksesuarlarıyla premium köpek macerası paketleri ve yol gezileri ile kampçılık için seyahat evcil hayvan paketleri dahil eksiksiz ürün çözümlerini destekler.',
           features: [
             'Standart Evcil Hayvan SUP Paketi',
             'Premium Köpek Macerası Paketi',
@@ -4299,13 +4299,13 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Özel Private Label Evcil Hayvan SUP Geliştirme',
           description:
-            "Afarer; logo yerleşimi, renkler ve grafik tasarımla özel markalı ürünler, premium konumlandırma için yaşam tarzı odaklı tasarım ve influencer'lar için sınırlı sayı koleksiyonlar oluşturmada evcil hayvan markalarına yardımcı olur.",
+            "OLagoon; logo yerleşimi, renkler ve grafik tasarımla özel markalı ürünler, premium konumlandırma için yaşam tarzı odaklı tasarım ve influencer'lar için sınırlı sayı koleksiyonlar oluşturmada evcil hayvan markalarına yardımcı olur.",
           features: ['Marka Özelleştirmesi', 'Yaşam Tarzı Odaklı Tasarım', 'Sınırlı Sayı Koleksiyonlar'],
         },
         {
           title: 'Evcil Hayvan Markası Pazar Konumlandırma Desteği',
           description:
-            'Afarer; lüks görünüme odaklanan premium evcil hayvan yaşam tarzı markalarından, dayanıklılığa odaklanan macera köpeği markalarına ve güvenliğe odaklanan aile evcil hayvan markalarına kadar farklı marka konumlarıyla eşleşen ürünler geliştirir.',
+            'OLagoon; lüks görünüme odaklanan premium evcil hayvan yaşam tarzı markalarından, dayanıklılığa odaklanan macera köpeği markalarına ve güvenliğe odaklanan aile evcil hayvan markalarına kadar farklı marka konumlarıyla eşleşen ürünler geliştirir.',
           features: [
             'Premium Evcil Hayvan Yaşam Tarzı Markaları',
             'Macera Köpeği Markaları',
@@ -4315,19 +4315,19 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Evcil Hayvan Ürünü Girişimcileri için OEM Desteği',
           description:
-            'Pek çok evcil hayvan markasının müşteri toplulukları ve pazarlama yeteneği vardır ancak üretim bilgisi yoktur. Afarer; ürün geliştirme, prototip oluşturma, üretim, kalite kontrolü ve ihracat desteği sağlar.',
+            'Pek çok evcil hayvan markasının müşteri toplulukları ve pazarlama yeteneği vardır ancak üretim bilgisi yoktur. OLagoon; ürün geliştirme, prototip oluşturma, üretim, kalite kontrolü ve ihracat desteği sağlar.',
           features: ['Ürün Geliştirme', 'Prototip Oluşturma', 'Üretim Desteği'],
         },
         {
           title: 'İçerik Dostu Ürün Tasarımı',
           description:
-            'Afarer; çekici grafikler ve yaşam tarzı görünümüyle sosyal medya görünürlüğüne optimize, müşteri fotoğraflarını ve videolarını teşvik eden, paylaşılabilir deneyimler ve topluluk etkileşimi yaratan tasarımları destekler.',
+            'OLagoon; çekici grafikler ve yaşam tarzı görünümüyle sosyal medya görünürlüğüne optimize, müşteri fotoğraflarını ve videolarını teşvik eden, paylaşılabilir deneyimler ve topluluk etkileşimi yaratan tasarımları destekler.',
           features: ['Sosyal Medya Görünürlüğü', 'Müşteri Fotoğrafları ve Videoları', 'Marka Farkındalığı'],
         },
         {
           title: 'Evcil Hayvan Güvenliği için Kalite Kontrol',
           description:
-            'Afarer; yüzey dayanıklılığını kontrol ederek malzeme güvenliği, şişirme ve stabiliteyi test ederek ürün performansı ile görünüm, aksesuarlar ve paketlemenin son denetimine odaklanır.',
+            'OLagoon; yüzey dayanıklılığını kontrol ederek malzeme güvenliği, şişirme ve stabiliteyi test ederek ürün performansı ile görünüm, aksesuarlar ve paketlemenin son denetimine odaklanır.',
           features: ['Malzeme Güvenliği', 'Ürün Performansı', 'Son Denetim'],
         },
       ],
@@ -4344,7 +4344,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ürün Geliştirme',
           detail:
-            'Afarer; köpekleri güvenli ve rahat bir şekilde ağırlamak için daha geniş tahta formu, daha büyük güverte alanı ve güçlendirilmiş yüzey dahil evcil hayvana özel bir SUP yapısı tasarladı.',
+            'OLagoon; köpekleri güvenli ve rahat bir şekilde ağırlamak için daha geniş tahta formu, daha büyük güverte alanı ve güçlendirilmiş yüzey dahil evcil hayvana özel bir SUP yapısı tasarladı.',
         },
         {
           title: 'Malzeme Optimizasyonu',
@@ -4382,22 +4382,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: "Köpeğe Özel Ürün Ar-Ge'si ve Güvenlik Mühendisliği",
               detail:
-                "Ocak 2025'te Emma ve ürün ekibi, Afarer'in malzeme mühendisleri ve bir veteriner danışmanıyla bir hafta boyunca Afarer'in inovasyon laboratuvarında çalıştı. Köpeğe özel 3 inovasyon geliştirdiler: (1) standart pedlerden 3 kat daha yüksek sürtünme katsayılı, köpek patileri için ekstra tutuş bölgeli çift yoğunluklu güverte pedi, (2) 50 kg yük testli kapasiteli güçlendirilmiş orta bölüm (Labrador ve Golden Retriever ağırlık simülasyonlarıyla test edildi) ve (3) köpek can yelekleriyle uyumlu D halkası bağlantı sistemi. Afarer 6 prototip varyasyonu üretti ve Emma'nın ekibi, İngiltere genelinde 50 köpek sahibiyle 8 hafta test yaptı, 347 anket yanıtına dayanarak tasarımı rafine etti. Nihai tasarımda pati izi kabartması, “çamura dayanıklı” malzeme ve güverte pedine entegre bir dışkı torbası tutucu yer aldı.",
+                "Ocak 2025'te Emma ve ürün ekibi, OLagoon'in malzeme mühendisleri ve bir veteriner danışmanıyla bir hafta boyunca OLagoon'in inovasyon laboratuvarında çalıştı. Köpeğe özel 3 inovasyon geliştirdiler: (1) standart pedlerden 3 kat daha yüksek sürtünme katsayılı, köpek patileri için ekstra tutuş bölgeli çift yoğunluklu güverte pedi, (2) 50 kg yük testli kapasiteli güçlendirilmiş orta bölüm (Labrador ve Golden Retriever ağırlık simülasyonlarıyla test edildi) ve (3) köpek can yelekleriyle uyumlu D halkası bağlantı sistemi. OLagoon 6 prototip varyasyonu üretti ve Emma'nın ekibi, İngiltere genelinde 50 köpek sahibiyle 8 hafta test yaptı, 347 anket yanıtına dayanarak tasarımı rafine etti. Nihai tasarımda pati izi kabartması, “çamura dayanıklı” malzeme ve güverte pedine entegre bir dışkı torbası tutucu yer aldı.",
             },
             {
               title: 'Marka Geliştirme, Ambalaj ve Evcil Hayvan Perakende Uyumluluğu',
               detail:
-                "Afarer'in tasarım ekibi; köpek fotoğraflı ambalaj, raf wobblers ve “Dog SUP Safety” video kılavuzuna bağlanan QR kodları dahil “Paws & Paddle Adventure” görsel kimliğini oluşturdu. 3 model lansman edildi: “The Spaniel” (küçük-orta köpekler için 10' all-round), “The Labrador” (orta-büyük köpekler için 11'6″ çok amaçlı) ve “The Retriever” (büyük köpekler ve uzun geziler için 12'6″ touring). Afarer; UKCA sertifikasyonunu ve CE işaretlemesini yönetti ve güvenlik uyarıları, köpek ağırlık limitleri ve sorumluluk dokümantasyonu dahil bir Pet Industry Federation uyumluluk paketi geliştirdi. Emma, üretim başlamadan önce mevcut evcil hayvan perakende ağı aracılığıyla 1.800 adet ön satış yaptı.",
+                "OLagoon'in tasarım ekibi; köpek fotoğraflı ambalaj, raf wobblers ve “Dog SUP Safety” video kılavuzuna bağlanan QR kodları dahil “Paws & Paddle Adventure” görsel kimliğini oluşturdu. 3 model lansman edildi: “The Spaniel” (küçük-orta köpekler için 10' all-round), “The Labrador” (orta-büyük köpekler için 11'6″ çok amaçlı) ve “The Retriever” (büyük köpekler ve uzun geziler için 12'6″ touring). OLagoon; UKCA sertifikasyonunu ve CE işaretlemesini yönetti ve güvenlik uyarıları, köpek ağırlık limitleri ve sorumluluk dokümantasyonu dahil bir Pet Industry Federation uyumluluk paketi geliştirdi. Emma, üretim başlamadan önce mevcut evcil hayvan perakende ağı aracılığıyla 1.800 adet ön satış yaptı.",
             },
             {
               title: 'Influencer Lansman Kampanyası ve Perakende Eğitimi',
               detail:
-                "Koleksiyon Mart 2025'te, @myadventureswithoscar (2,1 milyon takipçi) ve @the_hiking_husky (890 bin takipçi) dahil 12 İngiltere köpek influencer'ını içeren eşgüdümlü bir kampanyayla lansman edildi. Afarer; influencer içeriği ve evcil hayvan mağazası etkinlikleri için 50 demo adedi sağladı. Afarer eğitim ekibi; köpek SUP güvenliğini, farklı ırklar için uyumu ve köpek can yelekleri ile pati koruma botlarının çapraz satışını kapsayan 20 dakikalık bir “Retail Pro” modülü oluşturdu. Paws & Paddle'ın 340 perakende ortağı, müşterilerin köpekleriyle şişme havuzlarda tahtaları deneyebildiği mağaza içi demo günleri düzenledi — demo katılımcılarının %78'i satın almayla sonuçlandı.",
+                "Koleksiyon Mart 2025'te, @myadventureswithoscar (2,1 milyon takipçi) ve @the_hiking_husky (890 bin takipçi) dahil 12 İngiltere köpek influencer'ını içeren eşgüdümlü bir kampanyayla lansman edildi. OLagoon; influencer içeriği ve evcil hayvan mağazası etkinlikleri için 50 demo adedi sağladı. OLagoon eğitim ekibi; köpek SUP güvenliğini, farklı ırklar için uyumu ve köpek can yelekleri ile pati koruma botlarının çapraz satışını kapsayan 20 dakikalık bir “Retail Pro” modülü oluşturdu. Paws & Paddle'ın 340 perakende ortağı, müşterilerin köpekleriyle şişme havuzlarda tahtaları deneyebildiği mağaza içi demo günleri düzenledi — demo katılımcılarının %78'i satın almayla sonuçlandı.",
             },
             {
               title: 'Kategori Genişlemesi ve Veteriner Ortaklığı Programı',
               detail:
-                "Eylül 2025'e gelindiğinde köpek dostu SUP hattı, 340 perakende konumunda 4.200 adet satarak 2,1 milyon £ toptan satış geliri elde etti (1,5 milyon £ hedefin %40 üzerinde). “Labrador” modeli satışların %52'sini oluşturdu. Emma, köpek su güvenliğini teşvik eden öncü bir ortaklığı İngiliz Veteriner Hekimler Birliğiyle başlattı ve Afarer, veteriner hekimler aracılığıyla dağıtılan 5.000 “Dog SUP Safety” broşürü üretti. 3.000 adetlik yeniden siparişe yeni bir “The Terrier” modeli (küçük köpekler için 8'6″) ve eşleşen bir köpek can yeleği hattı dahildi. Koleksiyon, 2025 UK Pet Show'da “Yılın Pet Ürünü” seçildi.",
+                "Eylül 2025'e gelindiğinde köpek dostu SUP hattı, 340 perakende konumunda 4.200 adet satarak 2,1 milyon £ toptan satış geliri elde etti (1,5 milyon £ hedefin %40 üzerinde). “Labrador” modeli satışların %52'sini oluşturdu. Emma, köpek su güvenliğini teşvik eden öncü bir ortaklığı İngiliz Veteriner Hekimler Birliğiyle başlattı ve OLagoon, veteriner hekimler aracılığıyla dağıtılan 5.000 “Dog SUP Safety” broşürü üretti. 3.000 adetlik yeniden siparişe yeni bir “The Terrier” modeli (küçük köpekler için 8'6″) ve eşleşen bir köpek can yeleği hattı dahildi. Koleksiyon, 2025 UK Pet Show'da “Yılın Pet Ürünü” seçildi.",
             },
           ],
           results: [
@@ -4414,28 +4414,28 @@ const tr: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Avustralya',
             background:
               "Blue Heeler Expeditions, 2018'de eski Avustralya Ordusu köpek eğiticisi olup sonrasında köpek davranışçısı olan Lachlan “Locky” Murphy tarafından kuruldu. Locky yüksek enerjili ırk eğitiminde (kelpie, heeler, border collie) uzmanlaşmıştı ve YouTube kanalı (480 bin abone) ile tümü dolan atölyeler aracılığıyla sadık bir hayran kitlesi oluşturmuştu. Noosa Nehri yakınında 12.000 sq ft'lik bir tesisi vardı ancak tamamen yeni bir kategori yaratmak istiyordu: yapılandırılmış köpek SUP eğitimi ve sertifikasyon programı. Avustralya'da köpek sahipliği rekor seviyelerdeydi (5,1 milyon köpek) ve #dogpaddle Avustralya sosyal medyasında trend oldu; ancak kimse profesyonel köpek SUP eğitimi veya Avustralya iklimine uygun ekipman sunmuyordu.",
-            goal: 'Özel Afarer tahtalarıyla kapsamlı bir “Köpek SUP Sertifikasyonu” programı geliştirmek, 18 ay içinde Avustralya genelinde 80 eğitmen eğitmek ve sertifikalandırmak ile tahta satışları, sertifikasyon ücretleri ve ürünlerden oluşan kombinasyonla program gelirinde 1,2 milyon AUD elde etmek.',
+            goal: 'Özel OLagoon tahtalarıyla kapsamlı bir “Köpek SUP Sertifikasyonu” programı geliştirmek, 18 ay içinde Avustralya genelinde 80 eğitmen eğitmek ve sertifikalandırmak ile tahta satışları, sertifikasyon ücretleri ve ürünlerden oluşan kombinasyonla program gelirinde 1,2 milyon AUD elde etmek.',
           },
           steps: [
             {
               title: 'Köpek Davranış Analizi ve SUP Eğitim Protokolü Geliştirme',
               detail:
-                "Locky, köpek denge eğitimine optimize bir tahta tasarlamak için Ekim–Aralık 2024 boyunca 3 ay Afarer'in ürün ekibi ve Queensland Üniversitesi'nden bir hayvan biyomekanik araştırmacısıyla çalıştı. Ultra yumuşak EVA güverte dolgusu (standart 4 mm yerine 8 mm), köpeğin tahtaya kolay binmesi için alçak profilli kenarlar ve 14 köpek ırkında test edilmiş kaymaz dokulu yüzey içeren 12' x 34″ geniş bir platform oluşturdular. Locky 6 prototip iterasyonunda 30 köpek test etti ve 5 aşamalı bir köpek SUP eğitim protokolü geliştirdi: Aşama 1 (karada tahta alışması), Aşama 2 (durgun suda yüzdürme), Aşama 3 (oturarak kürek), Aşama 4 (köpek otururken ayakta kürek), Aşama 5 (köpek ayaktayken tam kürek). Afarer; Avustralya sığır köpeği siluetiyle özel “Blue Heeler” grafikli 200 eğitmen sınıfı tahta üretti.",
+                "Locky, köpek denge eğitimine optimize bir tahta tasarlamak için Ekim–Aralık 2024 boyunca 3 ay OLagoon'in ürün ekibi ve Queensland Üniversitesi'nden bir hayvan biyomekanik araştırmacısıyla çalıştı. Ultra yumuşak EVA güverte dolgusu (standart 4 mm yerine 8 mm), köpeğin tahtaya kolay binmesi için alçak profilli kenarlar ve 14 köpek ırkında test edilmiş kaymaz dokulu yüzey içeren 12' x 34″ geniş bir platform oluşturdular. Locky 6 prototip iterasyonunda 30 köpek test etti ve 5 aşamalı bir köpek SUP eğitim protokolü geliştirdi: Aşama 1 (karada tahta alışması), Aşama 2 (durgun suda yüzdürme), Aşama 3 (oturarak kürek), Aşama 4 (köpek otururken ayakta kürek), Aşama 5 (köpek ayaktayken tam kürek). OLagoon; Avustralya sığır köpeği siluetiyle özel “Blue Heeler” grafikli 200 eğitmen sınıfı tahta üretti.",
             },
             {
               title: 'Eğitmen Sertifikasyon Programı ve Yasal Çerçeve',
               detail:
-                "Locky ve Afarer birlikte 3 seviyeli bir Köpek SUP Eğitmen Sertifikasyonu geliştirdi: Seviye 1 (40 saat online + hafta sonu pratik), Seviye 2 (su kurtarmalı 10 günlük ileri seviye), Seviye 3 (14 günlük baş eğitmen). Müfredat; suda köpek davranışını, köpek ilk yardımını, ırka özgü eğitim yaklaşımlarını, Avustralya su güvenliği düzenlemelerini, sigorta gereksinimlerini ve iş kurulumunu kapsıyordu. Afarer; Noosa Nehri'nde çekilen 25 saatlik HD video içeriğinin oluşturulmasını finanse etti ve 200 sayfalık bir eğitmen kılavuzu üretti. Locky sertifikasyon programını Şubat 2025'te 24 kişilik ilk grupla başlattı — 24'ün tamamı Seviye 1'i geçti ve 18'i Seviye 2'ye devam etti.",
+                "Locky ve OLagoon birlikte 3 seviyeli bir Köpek SUP Eğitmen Sertifikasyonu geliştirdi: Seviye 1 (40 saat online + hafta sonu pratik), Seviye 2 (su kurtarmalı 10 günlük ileri seviye), Seviye 3 (14 günlük baş eğitmen). Müfredat; suda köpek davranışını, köpek ilk yardımını, ırka özgü eğitim yaklaşımlarını, Avustralya su güvenliği düzenlemelerini, sigorta gereksinimlerini ve iş kurulumunu kapsıyordu. OLagoon; Noosa Nehri'nde çekilen 25 saatlik HD video içeriğinin oluşturulmasını finanse etti ve 200 sayfalık bir eğitmen kılavuzu üretti. Locky sertifikasyon programını Şubat 2025'te 24 kişilik ilk grupla başlattı — 24'ün tamamı Seviye 1'i geçti ve 18'i Seviye 2'ye devam etti.",
             },
             {
               title: 'Ekipman Yelpazesi, Perakende Dağıtımı ve YouTube Lansmanı',
               detail:
-                "Locky'nin “Blue Heeler Expeditions” markası 4 perakende ürünü lansman etti: “Blue” (899 AUD'dan 12' eğitmen tahtası), “Heeler” (649 AUD'dan 10'6″ rekreasyonel köpek tahtası), köpeğe özel bir can yeleği (89 AUD) ve bir eğitim bağlantı sistemi (39 AUD). Afarer, ilk perakende ve eğitmen hattı için 1.000 adet üretti. Locky, eğitim protokolünü belgeleyen 6 bölümlük “Paddle Paws” YouTube serisini yayınladı — ilk bölüm 2 haftada 2,1 milyon görüntüleme kazandı. 30 gün içinde Locky'nin web sitesi 47.000 sipariş talebi aldı ve 340 Avustralyalı eğitmen sertifikasyonu bekleme listesine kaydoldu.",
+                "Locky'nin “Blue Heeler Expeditions” markası 4 perakende ürünü lansman etti: “Blue” (899 AUD'dan 12' eğitmen tahtası), “Heeler” (649 AUD'dan 10'6″ rekreasyonel köpek tahtası), köpeğe özel bir can yeleği (89 AUD) ve bir eğitim bağlantı sistemi (39 AUD). OLagoon, ilk perakende ve eğitmen hattı için 1.000 adet üretti. Locky, eğitim protokolünü belgeleyen 6 bölümlük “Paddle Paws” YouTube serisini yayınladı — ilk bölüm 2 haftada 2,1 milyon görüntüleme kazandı. 30 gün içinde Locky'nin web sitesi 47.000 sipariş talebi aldı ve 340 Avustralyalı eğitmen sertifikasyonu bekleme listesine kaydoldu.",
             },
             {
               title: 'Program Ölçeği, Ulusal Genişleme ve Uluslararası Talepler',
               detail:
-                "Ağustos 2025'e gelindiğinde Blue Heeler Expeditions, Avustralya'nın tüm eyaletlerinde 85 sertifikalı eğitmene sahipti (18 aylık hedefe 6 ayda ulaşıldı, +5). Eğitmenler Seviye 1 sertifikasyonu için 2.500 AUD + 899 AUD tahta ödedi ve 296.000 AUD sertifikasyon geliri oluştu. Locky evcil hayvan sahiplerine 1.400 perakende tahtası, sertifikalı eğiticilere 200 eğitmen sınıfı tahta ve 3.400 köpek can yeleği sattı. Toplam program geliri 8 ayda 1,85 milyon AUD'ye ulaştı (1,2 milyon AUD'lik 18 aylık hedefin %54 üzerinde). Locky 14 ülkeden talep aldı ve Kuzey Amerika sürümü için bir ABD ortağıyla lisans anlaşması imzaladı. Afarer, Köpek SUP ürün hattı için münhasır 3 yıllık küresel ortaklık taahhüt etti.",
+                "Ağustos 2025'e gelindiğinde Blue Heeler Expeditions, Avustralya'nın tüm eyaletlerinde 85 sertifikalı eğitmene sahipti (18 aylık hedefe 6 ayda ulaşıldı, +5). Eğitmenler Seviye 1 sertifikasyonu için 2.500 AUD + 899 AUD tahta ödedi ve 296.000 AUD sertifikasyon geliri oluştu. Locky evcil hayvan sahiplerine 1.400 perakende tahtası, sertifikalı eğiticilere 200 eğitmen sınıfı tahta ve 3.400 köpek can yeleği sattı. Toplam program geliri 8 ayda 1,85 milyon AUD'ye ulaştı (1,2 milyon AUD'lik 18 aylık hedefin %54 üzerinde). Locky 14 ülkeden talep aldı ve Kuzey Amerika sürümü için bir ABD ortağıyla lisans anlaşması imzaladı. OLagoon, Köpek SUP ürün hattı için münhasır 3 yıllık küresel ortaklık taahhüt etti.",
             },
           ],
           results: [
@@ -4447,8 +4447,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Evcil Hayvan Macera Markaları Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Evcil Hayvan Macera Markaları Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Evcil Hayvan Güvenliği',
@@ -4492,26 +4492,26 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Evcil hayvan markaları SUP tahtalarını kendi logoları ve renkleriyle özelleştirebilir mi?',
         answer:
-          "Kesinlikle. Afarer; logo yerleşimi, özel renk eşleştirmesi, grafik tasarımı ve markalı ambalaj dahil tam marka özelleştirmesi sunar. Ayrıca evcil hayvan influencer'ları için sınırlı sayı koleksiyonları ve sezonluk ürün lansmanlarını destekliyoruz.",
+          "Kesinlikle. OLagoon; logo yerleşimi, özel renk eşleştirmesi, grafik tasarımı ve markalı ambalaj dahil tam marka özelleştirmesi sunar. Ayrıca evcil hayvan influencer'ları için sınırlı sayı koleksiyonları ve sezonluk ürün lansmanlarını destekliyoruz.",
       },
       {
         question: 'Köpekle kürek çekmek için önerilen tahta boyutu nedir?',
         answer:
-          "Köpeklerle kürek çekmek için daha büyük güverte alanlı, daha geniş tahtalar önerilir. Afarer'in evcil hayvan dostu tasarımları; küçük, orta ve büyük köpekleri rahatça ağırlarken stabiliteyi koruyan artırılmış tahta genişliği ve uzun tam güverte aktivite alanları içerir.",
+          "Köpeklerle kürek çekmek için daha büyük güverte alanlı, daha geniş tahtalar önerilir. OLagoon'in evcil hayvan dostu tasarımları; küçük, orta ve büyük köpekleri rahatça ağırlarken stabiliteyi koruyan artırılmış tahta genişliği ve uzun tam güverte aktivite alanları içerir.",
       },
       {
         question: 'Aksesuarlı eksiksiz evcil hayvan SUP paketleri sunuyor musunuz?',
         answer:
-          'Evet, Afarer; tahta, kürek, pompa, emniyet kordonu, taşıma çantası ve tamir kiti içeren standart evcil hayvan SUP paketlerinin yanı sıra evcil hayvan güvenlik aksesuarlı premium köpek macerası paketleri ve yol gezileri ile kampçılık için optimize seyahat evcil hayvan paketleri sunar.',
+          'Evet, OLagoon; tahta, kürek, pompa, emniyet kordonu, taşıma çantası ve tamir kiti içeren standart evcil hayvan SUP paketlerinin yanı sıra evcil hayvan güvenlik aksesuarlı premium köpek macerası paketleri ve yol gezileri ile kampçılık için optimize seyahat evcil hayvan paketleri sunar.',
       },
       {
         question: 'Özel evcil hayvan dostu SUP tahtaları için minimum sipariş adedi nedir?',
         answer:
-          "Afarer her boyutta evcil hayvan markasıyla çalışır. Minimum sipariş adetleri, evcil hayvan influencer'ları için küçük parti sınırlı sayı lansmanlarından yerleşik evcil hayvan outdoor markaları için tam ölçekli üretim turlarına kadar markanın aşamasına uygun şekilde yapılandırılabilir.",
+          "OLagoon her boyutta evcil hayvan markasıyla çalışır. Minimum sipariş adetleri, evcil hayvan influencer'ları için küçük parti sınırlı sayı lansmanlarından yerleşik evcil hayvan outdoor markaları için tam ölçekli üretim turlarına kadar markanın aşamasına uygun şekilde yapılandırılabilir.",
       },
     ],
     cta: {
-      title: 'Afarer ile Evcil Hayvan Macerası SUP Markanızı Yaratın',
+      title: 'OLagoon ile Evcil Hayvan Macerası SUP Markanızı Yaratın',
       subtitle: "Evcil hayvan ürünlerinin geleceği yalnızca kapalı alanlarda değil. Outdoor'da.",
       primaryAction: {
         text: 'Evcil Hayvan Dostu SUP Projenizi Bugün Başlatın',
@@ -4526,7 +4526,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Lüks Özel SUP Üreticisi | {SITE}',
       description:
-        'Afarer, özel adalar, yat kulüpleri, lüks resortlar ve seçkin yaşam tarzı markaları için premium özel SUP koleksiyonları üretir. Özel tasarımlar, lüks malzemeler, VIP özelleştirme ve butik OEM üretimi.',
+        'OLagoon, özel adalar, yat kulüpleri, lüks resortlar ve seçkin yaşam tarzı markaları için premium özel SUP koleksiyonları üretir. Özel tasarımlar, lüks malzemeler, VIP özelleştirme ve butik OEM üretimi.',
     },
     hero: {
       tagline: 'Özel Adalar, Yacht Kulüpleri ve Seçkin Yaşam Tarzı Destinasyonları için Münhasır Lüks SUP Çözümleri',
@@ -4567,7 +4567,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Münhasır Lüks SUP Tasarımı',
           description:
-            'Afarer; özel renk geliştirme, markaya özel tonlar ve tatil köyüyle eşleşen tasarımlarla eksiksiz estetik özelleştirmeyi destekler. Tarzlar arasında derin lacivert ve inci beyazıyla “Ocean Luxury”, doğal tonlarla “Tropical Island” ile minimalist renkler ve premium kaplamalarla “Modern Yacht” yer alır.',
+            'OLagoon; özel renk geliştirme, markaya özel tonlar ve tatil köyüyle eşleşen tasarımlarla eksiksiz estetik özelleştirmeyi destekler. Tarzlar arasında derin lacivert ve inci beyazıyla “Ocean Luxury”, doğal tonlarla “Tropical Island” ile minimalist renkler ve premium kaplamalarla “Modern Yacht” yer alır.',
         },
         {
           title: 'Premium Malzeme ve Kaplama Seçimi',
@@ -4654,17 +4654,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Özel Tasarım İş Birliği ve Malzeme Seçimi',
               detail:
-                "Ağustos 2024'te Voss, Afarer'in özel üretim birimine detaylı bir brief ile başvurdu: tahtalar, villa zeminleriyle eşleşen sıva dokulu bir güverte pediyle tatil köyünün “Ocean Sand” renk paletiyle (sıcak bej, füme, pudra ve turkuaz) eşleşmeliydi. Afarer'in tasarım ekibi 6 hafta boyunca 14 renk şeması prototipi geliştirdi ve UV stabilize mat PVC dış kabukla 5 katmanlı füzyon drop stitch çekirdekte karar kıldı. Her tahta, Balili bir zanaatkâr tarafından uygulanan, tahta başına 4 saat süren elle boyanmış altın varak logo — Coco markasının yaprak amblemi — aldı. 30 tahtalık sipariş (25 Explorer 11'6″ X, 5 adet 12'6″ touring) toplam 87.000 $ tuttu.",
+                "Ağustos 2024'te Voss, OLagoon'in özel üretim birimine detaylı bir brief ile başvurdu: tahtalar, villa zeminleriyle eşleşen sıva dokulu bir güverte pediyle tatil köyünün “Ocean Sand” renk paletiyle (sıcak bej, füme, pudra ve turkuaz) eşleşmeliydi. OLagoon'in tasarım ekibi 6 hafta boyunca 14 renk şeması prototipi geliştirdi ve UV stabilize mat PVC dış kabukla 5 katmanlı füzyon drop stitch çekirdekte karar kıldı. Her tahta, Balili bir zanaatkâr tarafından uygulanan, tahta başına 4 saat süren elle boyanmış altın varak logo — Coco markasının yaprak amblemi — aldı. 30 tahtalık sipariş (25 Explorer 11'6″ X, 5 adet 12'6″ touring) toplam 87.000 $ tuttu.",
             },
             {
               title: 'Adım 2: Yüzer İskele Entegrasyonu ve Depolama Mimarisi',
               detail:
-                "Voss, Afarer'in deniz mimarlarıyla birlikte iki katlı bir yüzen tahta vale sistemi tasarlamak için çalıştı. Alt kat, anında misafir erişimi için 15 tahtayı burun dışarı tuttu; üst kat, UV bozulmasını önlemek için 15 tahtayı özel neopren askılarda sakladı. Phuket'te inşa edilip modüler bölümler halinde gönderilen iskele, kurulum dahil 42.000 $'a mal oldu. Her tahta, tatil köyünün RMS'sine bağlı su geçirmez çipli NFC etiketiyle işaretlendi ve önceki kâğıt manifest sistemine kıyasla personel işçiliğini günde 3,2 saat azaltarak otomatik giriş/çıkış sağladı.",
+                "Voss, OLagoon'in deniz mimarlarıyla birlikte iki katlı bir yüzen tahta vale sistemi tasarlamak için çalıştı. Alt kat, anında misafir erişimi için 15 tahtayı burun dışarı tuttu; üst kat, UV bozulmasını önlemek için 15 tahtayı özel neopren askılarda sakladı. Phuket'te inşa edilip modüler bölümler halinde gönderilen iskele, kurulum dahil 42.000 $'a mal oldu. Her tahta, tatil köyünün RMS'sine bağlı su geçirmez çipli NFC etiketiyle işaretlendi ve önceki kâğıt manifest sistemine kıyasla personel işçiliğini günde 3,2 saat azaltarak otomatik giriş/çıkış sağladı.",
             },
             {
               title: 'Adım 3: Butler SUP Eğitimi ve Concierge Entegrasyonu',
               detail:
-                "Kasım 2024'te Afarer'in eğitim ekibi, Coco Private Island'da 8 tatil köyü butleri ve 4 dalış merkezi personeli için 4 günlük yoğun bir program gerçekleştirdi. Eğitim; ultra zengin misafirler için SUP görgü kurallarını (sessiz suya indirme, tahta kenarında meyve servisi, GoPro montaj noktaları) kapsadı. Her butler 15 gözetimli misafir seansı tamamladı. Voss, misafirlerin tahta rengini önceden seçmesini ve gün doğumu/lagün/resif rotalarını planlamasını sağlayarak SUP rezervasyonunu villa varış öncesi concierge uygulamasına entegre etti. Benimseme oranı ilk 2 ayda %28'e ulaştı.",
+                "Kasım 2024'te OLagoon'in eğitim ekibi, Coco Private Island'da 8 tatil köyü butleri ve 4 dalış merkezi personeli için 4 günlük yoğun bir program gerçekleştirdi. Eğitim; ultra zengin misafirler için SUP görgü kurallarını (sessiz suya indirme, tahta kenarında meyve servisi, GoPro montaj noktaları) kapsadı. Her butler 15 gözetimli misafir seansı tamamladı. Voss, misafirlerin tahta rengini önceden seçmesini ve gün doğumu/lagün/resif rotalarını planlamasını sağlayarak SUP rezervasyonunu villa varış öncesi concierge uygulamasına entegre etti. Benimseme oranı ilk 2 ayda %28'e ulaştı.",
             },
             {
               title: 'Adım 4: Influencer Lansmanı ve Sosyal Sermaye Üzerinde Ölçülen Yatırım Getirisi',
@@ -4692,22 +4692,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Artistik Desen Aktarımı ve Malzeme İnovasyonu',
               detail:
-                "Şubat 2025'ten itibaren Afarer'in Ar-Ge ekibi ve Verlaine'in atölyesi, Verlaine'in 14 renkli “Geometrica” desenini renk taşması veya gerilme bozulması olmadan 1.200 DPI'da yeniden üretebilen doğrudan PVC'ye sublimasyon süreci geliştirmek için 10 hafta harcadı. 18 başarısız örnekten sonra (kenar eğrisi çevresinde desen bozulması), Afarer'in mühendisleri, füzyon lamine edilmeden önce düz PVC levhalarda ön baskı yapılmasını sağlayan 7 panelli dişi kesim şablonu oluşturdu. Her tahta 11,5 saat üretim süresi gerektiriyordu (standart tahtalar için 3 saate kıyasla). Nihai yüzey, özel olarak Verlaine için geliştirilen mat kaymaz kaplama aldı.",
+                "Şubat 2025'ten itibaren OLagoon'in Ar-Ge ekibi ve Verlaine'in atölyesi, Verlaine'in 14 renkli “Geometrica” desenini renk taşması veya gerilme bozulması olmadan 1.200 DPI'da yeniden üretebilen doğrudan PVC'ye sublimasyon süreci geliştirmek için 10 hafta harcadı. 18 başarısız örnekten sonra (kenar eğrisi çevresinde desen bozulması), OLagoon'in mühendisleri, füzyon lamine edilmeden önce düz PVC levhalarda ön baskı yapılmasını sağlayan 7 panelli dişi kesim şablonu oluşturdu. Her tahta 11,5 saat üretim süresi gerektiriyordu (standart tahtalar için 3 saate kıyasla). Nihai yüzey, özel olarak Verlaine için geliştirilen mat kaymaz kaplama aldı.",
             },
             {
               title: 'Adım 2: Ambalaj, Kutu Açma ve Perakende Sunum Stratejisi',
               detail:
-                "Rinaldi “amiral gemisi seviyesinde” bir kutu açma deneyimi konusunda ısrar etti. Afarer, Verlaine'in ambalaj tasarımcılarıyla birlikte, Verlaine'in imza ekru kanvasıyla kaplı ve deri köşe korumalı (Verlaine'in kendi deri ürün atölyesinde Toskana'da üretilen) sert bir seyahat çantası oluşturmak için iş birliği yaptı. Çanta; SUP'ı, Verlaine monogramlı karbon fiber 3 parçalı bir küreği, Geometrica motifiyle kabartmalı basınç göstergeli özel bir pompayı ve folyo baskılı bir zarfta numaralandırılmış bir orijinallik sertifikasını içeriyordu. Birim başına toplam ambalaj maliyeti 340 € idi. Komple set 26 kg ağırlığındaydı — birinci sınıf uçuş bagajı için yeterince hafif.",
+                "Rinaldi “amiral gemisi seviyesinde” bir kutu açma deneyimi konusunda ısrar etti. OLagoon, Verlaine'in ambalaj tasarımcılarıyla birlikte, Verlaine'in imza ekru kanvasıyla kaplı ve deri köşe korumalı (Verlaine'in kendi deri ürün atölyesinde Toskana'da üretilen) sert bir seyahat çantası oluşturmak için iş birliği yaptı. Çanta; SUP'ı, Verlaine monogramlı karbon fiber 3 parçalı bir küreği, Geometrica motifiyle kabartmalı basınç göstergeli özel bir pompayı ve folyo baskılı bir zarfta numaralandırılmış bir orijinallik sertifikasını içeriyordu. Birim başına toplam ambalaj maliyeti 340 € idi. Komple set 26 kg ağırlığındaydı — birinci sınıf uçuş bagajı için yeterince hafif.",
             },
             {
               title: 'Adım 3: VIP Müşteri Önizlemesi ve Yalnızca Randevulu Satış Modeli',
               detail:
-                "Koleksiyon, 8 Mayıs 2025'te Milano Tasarım Haftası sırasında Verlaine'in Via Monte Napoleone amiral mağazasında yalnızca randevulu özel bir önizlemeyle lansman edildi. Yalnızca 200 müşteri kabartmalı davetiyeler aldı. 45 dakikalık her randevu, mağazanın avlusuna kurulan 40.000 litrelik özel yapım havuzda canlı bir SUP demonstrasyonunu içeriyordu; Afarer'in marka elçisi tahtanın rijitliğini gösteriyordu (Verlaine markalı pompayla 18 PSI'ya şişirilmiş). Tasarım Haftası boyunca 127 adet ön sipariş edildi ve 1,62 milyon € depozito oluşturuldu. Rinaldi, sosyal medya tanıtımını yalnızca Verlaine'in özel müşteri WhatsApp kanallarıyla sınırladı.",
+                "Koleksiyon, 8 Mayıs 2025'te Milano Tasarım Haftası sırasında Verlaine'in Via Monte Napoleone amiral mağazasında yalnızca randevulu özel bir önizlemeyle lansman edildi. Yalnızca 200 müşteri kabartmalı davetiyeler aldı. 45 dakikalık her randevu, mağazanın avlusuna kurulan 40.000 litrelik özel yapım havuzda canlı bir SUP demonstrasyonunu içeriyordu; OLagoon'in marka elçisi tahtanın rijitliğini gösteriyordu (Verlaine markalı pompayla 18 PSI'ya şişirilmiş). Tasarım Haftası boyunca 127 adet ön sipariş edildi ve 1,62 milyon € depozito oluşturuldu. Rinaldi, sosyal medya tanıtımını yalnızca Verlaine'in özel müşteri WhatsApp kanallarıyla sınırladı.",
             },
             {
               title: 'Adım 4: Küresel Karşılama, Concierge Teslimat ve Tükenme Performansı',
               detail:
-                "Siparişler Haziran 2025'ten itibaren, 34 ülkeye beyaz eldivenli teslimatla gönderildi. Her teslimat, WhatsApp videosu aracılığıyla müşteriye kişisel olarak tanıtılan bir Afarer eğitmeniyle 90 dakikalık sanal bir seans içeriyordu. Kasım 2025'e gelindiğinde 500 adedin 468'i satıldı (%93,6 satış) ve indirim yapılmadan tam perakende fiyatla 5,85 milyon € gelir oluşturuldu. Kalan 32 adet, Verlaine'in Arşiv koleksiyonu için alıkonuldu. Rinaldi, alıcıların %41'inin Verlaine'e yeni olduğunu — SUP koleksiyonu aracılığıyla kazanıldığını — ve satın alma randevusu sırasında hazır giyimde ortalama 3.200 € ek harcama yaptıklarını bildirdi.",
+                "Siparişler Haziran 2025'ten itibaren, 34 ülkeye beyaz eldivenli teslimatla gönderildi. Her teslimat, WhatsApp videosu aracılığıyla müşteriye kişisel olarak tanıtılan bir OLagoon eğitmeniyle 90 dakikalık sanal bir seans içeriyordu. Kasım 2025'e gelindiğinde 500 adedin 468'i satıldı (%93,6 satış) ve indirim yapılmadan tam perakende fiyatla 5,85 milyon € gelir oluşturuldu. Kalan 32 adet, Verlaine'in Arşiv koleksiyonu için alıkonuldu. Rinaldi, alıcıların %41'inin Verlaine'e yeni olduğunu — SUP koleksiyonu aracılığıyla kazanıldığını — ve satın alma randevusu sırasında hazır giyimde ortalama 3.200 € ek harcama yaptıklarını bildirdi.",
             },
           ],
           results: [
@@ -4719,8 +4719,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Lüks Müşteriler Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Lüks Müşteriler Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Tasarım Duyarlılığı',
@@ -4745,38 +4745,38 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Lüks SUP koleksiyonları için hangi özelleştirme seçenekleri mevcut?',
         answer:
-          'Afarer; özel renk geliştirme, markaya özel tonlar, zarif desenler, marka sembolleri, imza sanat eserleri, premium PVC yapı, özel EVA güverte dokuları, rafine donanım ve kişiselleştirilmiş ambalaj dahil eksiksiz özelleştirme sunar.',
+          'OLagoon; özel renk geliştirme, markaya özel tonlar, zarif desenler, marka sembolleri, imza sanat eserleri, premium PVC yapı, özel EVA güverte dokuları, rafine donanım ve kişiselleştirilmiş ambalaj dahil eksiksiz özelleştirme sunar.',
       },
       {
         question: 'Premium özel SUP üretimi için minimum sipariş adedi nedir?',
         answer:
-          'Afarer, tipik projelerin 10 ile 50 takım arasında değiştiği küçük parti lüks üretiminde uzmanlaşmıştır. Bu, onu özel ada sahipleri, yacht kulüpleri, lüks tatil köyleri ve münhasır yaşam tarzı markaları için ideal kılar.',
+          'OLagoon, tipik projelerin 10 ile 50 takım arasında değiştiği küçük parti lüks üretiminde uzmanlaşmıştır. Bu, onu özel ada sahipleri, yacht kulüpleri, lüks tatil köyleri ve münhasır yaşam tarzı markaları için ideal kılar.',
       },
       {
         question: 'Özel bir SUP koleksiyonu için tasarım ve üretim süreci ne kadar sürer?',
         answer:
-          'Zaman çizelgesi karmaşıklığa ve özelleştirme seviyesine bağlıdır. Afarer, konsept geliştirmeden üretime kadar her müşteriyle yakından çalışır ve lüks koleksiyonları genellikle proje gereksinimlerini ve sezonluk ihtiyaçları karşılayan bir süre içinde tamamlar.',
+          'Zaman çizelgesi karmaşıklığa ve özelleştirme seviyesine bağlıdır. OLagoon, konsept geliştirmeden üretime kadar her müşteriyle yakından çalışır ve lüks koleksiyonları genellikle proje gereksinimlerini ve sezonluk ihtiyaçları karşılayan bir süre içinde tamamlar.',
       },
       {
         question: 'SUP tahtaları mevcut mülk markalaması ve estetiğiyle eşleşecek şekilde tasarlanabilir mi?',
         answer:
-          'Evet, Afarer mülk estetiğiyle kusursuz bütünleşen koleksiyonlar oluşturmada uzmandır. Bütünleşik bir lüks ortam için mevcut marka renkleri, mimari temalar ve iç mekân tasarım öğeleriyle eşleşebiliriz.',
+          'Evet, OLagoon mülk estetiğiyle kusursuz bütünleşen koleksiyonlar oluşturmada uzmandır. Bütünleşik bir lüks ortam için mevcut marka renkleri, mimari temalar ve iç mekân tasarım öğeleriyle eşleşebiliriz.',
       },
       {
         question: 'Lüks sınıf SUP tahtaları için hangi malzemeler kullanılıyor?',
         answer:
-          'Afarer; zarif görünüm ve dayanıklılık için premium PVC yapı, özel dokular ve renklerle üst düzey EVA güverte malzemeleri ve donanım için rafine premium metal bileşenler kullanır — tümü estetik kaliteleri ve deniz sınıfı performansları için seçilmiştir.',
+          'OLagoon; zarif görünüm ve dayanıklılık için premium PVC yapı, özel dokular ve renklerle üst düzey EVA güverte malzemeleri ve donanım için rafine premium metal bileşenler kullanır — tümü estetik kaliteleri ve deniz sınıfı performansları için seçilmiştir.',
       },
       {
         question: 'VIP SUP koleksiyonları için özel ambalaj sunuyor musunuz?',
         answer:
-          'Evet, Afarer; markalı sunum kutuları, lüks depolama çantaları, kişiselleştirilmiş etiketler ve sınırlı sayı sunumu dahil VIP özel ambalaj sağlar. Kutu açma deneyimi, ürünün kendisinin münhasırlığıyla eşleşecek şekilde tasarlanmıştır.',
+          'Evet, OLagoon; markalı sunum kutuları, lüks depolama çantaları, kişiselleştirilmiş etiketler ve sınırlı sayı sunumu dahil VIP özel ambalaj sağlar. Kutu açma deneyimi, ürünün kendisinin münhasırlığıyla eşleşecek şekilde tasarlanmıştır.',
       },
     ],
     cta: {
-      title: 'Afarer ile Münhasır Su Yaşam Tarzı Koleksiyonunuzu Yaratın',
+      title: 'OLagoon ile Münhasır Su Yaşam Tarzı Koleksiyonunuzu Yaratın',
       subtitle:
-        "Mülkünüz benzersizdir. Ekipmanınız da benzersiz olmalı. Afarer'in imza bir SUP koleksiyonu oluşturmanıza yardım etmesine izin verin.",
+        "Mülkünüz benzersizdir. Ekipmanınız da benzersiz olmalı. OLagoon'in imza bir SUP koleksiyonu oluşturmanıza yardım etmesine izin verin.",
       primaryAction: {
         text: 'Projenizi Başlatın',
       },
@@ -4790,7 +4790,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Su Kurtarma SUP Üreticisi | {SITE}',
       description:
-        "Afarer, cankurtaranlar, acil durum ekipleri ve güvenlik kuruluşları için profesyonel su kurtarma SUP sistemleri sunar. Yüksek kapasiteli kurtarma board'ları, çoklu tutamak tasarımı, çekme sistemleri ve özel OEM çözümleri.",
+        "OLagoon, cankurtaranlar, acil durum ekipleri ve güvenlik kuruluşları için profesyonel su kurtarma SUP sistemleri sunar. Yüksek kapasiteli kurtarma board'ları, çoklu tutamak tasarımı, çekme sistemleri ve özel OEM çözümleri.",
     },
     hero: {
       tagline:
@@ -4922,7 +4922,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Kurtarmaya Özel SUP Tasarımı ve Tıbbi Entegrasyon',
               detail:
-                "Ocak–Nisan 2025 arasında Tran, RescuePro 12'6″ XR'yi tasarlamak için Afarer'in deniz endüstriyel bölümüyle çalıştı. Tahta; düşük hız kararlılığı için 34″ genişlik, 6″ kalınlığında askeri sınıf PVC (1.200 denye, 25 PSI'ya test edildi) ve üniform ekipman montajı için rokersiz düz güverte özellikleri taşıyor. Afarer, ilk yardım, AED ve oksijen için lastikle sabitlenmiş tıbbi kapsüller amacıyla ön/arka düzeninde 12 paslanmaz çelik D-halka entegre etti. Tahta, SOLAS sınıfı yansıtıcı bantlı neon sarı görünürlük şeridi ve 400 kg hat çekme kuvvetine test edilmiş pruva montajlı çekme kancası içeriyor. Queensland Üniversitesi'nde 14 gün süren dalga havuzu testlerinden sonra nihai tasarım, 7,5 knotluk yüklü azami hızla (110 kg kürekçi + 30 kg ekipman) onaylandı.",
+                "Ocak–Nisan 2025 arasında Tran, RescuePro 12'6″ XR'yi tasarlamak için OLagoon'in deniz endüstriyel bölümüyle çalıştı. Tahta; düşük hız kararlılığı için 34″ genişlik, 6″ kalınlığında askeri sınıf PVC (1.200 denye, 25 PSI'ya test edildi) ve üniform ekipman montajı için rokersiz düz güverte özellikleri taşıyor. OLagoon, ilk yardım, AED ve oksijen için lastikle sabitlenmiş tıbbi kapsüller amacıyla ön/arka düzeninde 12 paslanmaz çelik D-halka entegre etti. Tahta, SOLAS sınıfı yansıtıcı bantlı neon sarı görünürlük şeridi ve 400 kg hat çekme kuvvetine test edilmiş pruva montajlı çekme kancası içeriyor. Queensland Üniversitesi'nde 14 gün süren dalga havuzu testlerinden sonra nihai tasarım, 7,5 knotluk yüklü azami hızla (110 kg kürekçi + 30 kg ekipman) onaylandı.",
             },
             {
               title: 'Adım 2: Kulüp Tahsisi, Depolama Rafları ve Hızlı Konuşlandırma Sistemi',
@@ -4932,12 +4932,12 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 3: Cankurtaran SUP Kurtarma Sertifikasyonu ve Sörf Yeterlik Testi',
               detail:
-                "Ağustos 2025'te (yaz öncesi eğitim dönemi) Afarer'in kurtarma eğitim bölümü, 5 bölgesel merkezde 82 kıdemli cankurtarana 40 saatlik SUP Kurtarma Operatörü sertifikası verdi. Kurs şunları kapsıyordu: baygın kazazedelerin kürekle çekilmesi (100 m çekme 3 dakikanın altında), ekipmanla sörf bölgesine giriş/çıkış teknikleri, kararsız platformda AED konuşlandırması ve tahta üstü omurga immobilizasyonu (tahta kararlılığı korunurken ortopedik boyunluklar takılması). Her aday; kazazadeye 200 m kürek çekme, ekipman geri alınarak simüle edilmiş baygın kurtarma ve kıyıya dönüş içeren pratik bir sınavı geçmek zorundaydı — tamamı 7 dakika içinde. Geçme oranı: %89 (82'nin 73'ü). Başarısız adaylar ikincil rollere atandı.",
+                "Ağustos 2025'te (yaz öncesi eğitim dönemi) OLagoon'in kurtarma eğitim bölümü, 5 bölgesel merkezde 82 kıdemli cankurtarana 40 saatlik SUP Kurtarma Operatörü sertifikası verdi. Kurs şunları kapsıyordu: baygın kazazedelerin kürekle çekilmesi (100 m çekme 3 dakikanın altında), ekipmanla sörf bölgesine giriş/çıkış teknikleri, kararsız platformda AED konuşlandırması ve tahta üstü omurga immobilizasyonu (tahta kararlılığı korunurken ortopedik boyunluklar takılması). Her aday; kazazadeye 200 m kürek çekme, ekipman geri alınarak simüle edilmiş baygın kurtarma ve kıyıya dönüş içeren pratik bir sınavı geçmek zorundaydı — tamamı 7 dakika içinde. Geçme oranı: %89 (82'nin 73'ü). Başarısız adaylar ikincil rollere atandı.",
             },
             {
               title: 'Adım 4: Yaz Sezonu Konuşlandırması ve Kurtarma Performans Verileri',
               detail:
-                "SUP Kurtarma filosu, Avustralya yazı için 1 Ekim 2025'te 11 kulübün tamamında aktive edildi. 31 Mart 2026'ya gelindiğinde (6 aylık sezon), SLSQ 512 IRB kurtarmasına karşılık 347 SUP destekli kurtarma kaydetti; bu, sudaki tüm kurtarmaların %40,4'üne denk geliyor. Ortalama SUP konuşlandırma süresi 47 saniyeydi (IRB için 4 dk 20 sn). En hızlı kurtarma 22 saniyeydi: Surfers Paradise'da kıyıdan 80 m açıkta bir akıntıya yakalanan 9 yaşında bir çocuk. SUP kurtarma başarı oranı %99,1 idi (344 başarılı, 3 kazazede ek IRB desteği gerektirdi). Tran, 0 pervane yaralanması, 0 tahta arızası ve 2 tahta tamiri (tabakalaşan yüzgeç kutuları; ikisi de Afarer'in hızlı tamir servisi tarafından 48 saat içinde onarıldı) bildirdi. SLSQ, Kuzey Queensland kulüplerine 2026–27 sezonu konuşlandırması için 18 ek RescuePro tahtası sipariş etti.",
+                "SUP Kurtarma filosu, Avustralya yazı için 1 Ekim 2025'te 11 kulübün tamamında aktive edildi. 31 Mart 2026'ya gelindiğinde (6 aylık sezon), SLSQ 512 IRB kurtarmasına karşılık 347 SUP destekli kurtarma kaydetti; bu, sudaki tüm kurtarmaların %40,4'üne denk geliyor. Ortalama SUP konuşlandırma süresi 47 saniyeydi (IRB için 4 dk 20 sn). En hızlı kurtarma 22 saniyeydi: Surfers Paradise'da kıyıdan 80 m açıkta bir akıntıya yakalanan 9 yaşında bir çocuk. SUP kurtarma başarı oranı %99,1 idi (344 başarılı, 3 kazazede ek IRB desteği gerektirdi). Tran, 0 pervane yaralanması, 0 tahta arızası ve 2 tahta tamiri (tabakalaşan yüzgeç kutuları; ikisi de OLagoon'in hızlı tamir servisi tarafından 48 saat içinde onarıldı) bildirdi. SLSQ, Kuzey Queensland kulüplerine 2026–27 sezonu konuşlandırması için 18 ek RescuePro tahtası sipariş etti.",
             },
           ],
           results: [
@@ -4960,7 +4960,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1: Kıyı Dalgasına Özel SUP Tasarımı ve Travma Ekipmanı Entegrasyonu',
               detail:
-                "Mart–Haziran 2025 arasında Rodriguez, RescuePro 12'6″ XR'yi Batı Kıyısı kıyı dalgası koşullarına uyarlamak için Afarer'in kurtarma bölümüyle çalıştı. Modifikasyonlar şunları içeriyordu: içi boş 1–3 ft dalgalar içinde geçiş kabiliyeti için rocker'lı burun (2,5″ yükselme); dar sörfte manevra için dört yüzgeçli kutu konfigürasyonu; ve kurtarma yüzücüsü bağlama için pruva montajlı çekme bridası halkası. Tıbbi kapsül; bir Kuzey Amerika Kurtarma M9 travma kiti (turnike, göğüs tıkacı, hemostatik gaz), bir Phillips HeartStart FRx AED ve bir Ferno KED omurga immobilizasyon cihazıyla donatıldı. NBFD'nin deniz birimi, nihai tasarımı onaylamadan önce Wedge'de 12 eğitim oturumunda 4 prototip test etti.",
+                "Mart–Haziran 2025 arasında Rodriguez, RescuePro 12'6″ XR'yi Batı Kıyısı kıyı dalgası koşullarına uyarlamak için OLagoon'in kurtarma bölümüyle çalıştı. Modifikasyonlar şunları içeriyordu: içi boş 1–3 ft dalgalar içinde geçiş kabiliyeti için rocker'lı burun (2,5″ yükselme); dar sörfte manevra için dört yüzgeçli kutu konfigürasyonu; ve kurtarma yüzücüsü bağlama için pruva montajlı çekme bridası halkası. Tıbbi kapsül; bir Kuzey Amerika Kurtarma M9 travma kiti (turnike, göğüs tıkacı, hemostatik gaz), bir Phillips HeartStart FRx AED ve bir Ferno KED omurga immobilizasyon cihazıyla donatıldı. NBFD'nin deniz birimi, nihai tasarımı onaylamadan önce Wedge'de 12 eğitim oturumunda 4 prototip test etti.",
             },
             {
               title: 'Adım 2: İstasyon Konuşlandırması, Depolama ve Hızlı Müdahale Protokolleri',
@@ -4970,7 +4970,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: "Adım 3: NBFD'ye Özel SUP Kurtarma Sertifikasyonu ve Canlı Tatbikatlar",
               detail:
-                "Temmuz 2025'te 5 gün boyunca Afarer'in baş kurtarma eğitmeni, 18 NBFD deniz güvenlik memuru için plaj üstü sertifikasyon gerçekleştirdi. Kurs Batı Kıyısı koşullarına göre uyarlandı: SUP ile kıyı dalgası altında dalma, plajdan başlayan kurtarma çıkarma (kırılan dalgalar içinde kazazedenin tahtaya çekilmesi) ve NBFD'nin Bell 412 helikopteriyle helikopter destekli senaryo koordinasyonu. Rodriguez, 18 memurun tamamının nihai bir senaryoyu geçmesini istedi: Wedge'de 2–3 ft sörfte kıyıdan 150 m açıkta simüle edilmiş bir kazazadeyi (80 kg manken) bulmak, suda omurga immobilizasyonu yapmak ve plaja dönmek — tamamı 8 dakika içinde. Geçme oranı: %100, medyan tamamlama süresi 6 dakika 12 saniye.",
+                "Temmuz 2025'te 5 gün boyunca OLagoon'in baş kurtarma eğitmeni, 18 NBFD deniz güvenlik memuru için plaj üstü sertifikasyon gerçekleştirdi. Kurs Batı Kıyısı koşullarına göre uyarlandı: SUP ile kıyı dalgası altında dalma, plajdan başlayan kurtarma çıkarma (kırılan dalgalar içinde kazazedenin tahtaya çekilmesi) ve NBFD'nin Bell 412 helikopteriyle helikopter destekli senaryo koordinasyonu. Rodriguez, 18 memurun tamamının nihai bir senaryoyu geçmesini istedi: Wedge'de 2–3 ft sörfte kıyıdan 150 m açıkta simüle edilmiş bir kazazadeyi (80 kg manken) bulmak, suda omurga immobilizasyonu yapmak ve plaja dönmek — tamamı 8 dakika içinde. Geçme oranı: %100, medyan tamamlama süresi 6 dakika 12 saniye.",
             },
             {
               title: 'Adım 4: 1 Eylül 2025 Aktif Duruma Geçiş ve Acil Durum Müdahale İstatistikleri',
@@ -4987,8 +4987,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Kurtarma Kuruluşları Neden Afarer'i Seçiyor",
+    whyOLagoon: {
+      title: "Kurtarma Kuruluşları Neden OLagoon'i Seçiyor",
       items: [
         {
           title: 'Önce Güvenlik',
@@ -5014,24 +5014,24 @@ const tr: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Afarer kurtarma SUP tahtaları hangi yük kapasitesini destekliyor?',
+        question: 'OLagoon kurtarma SUP tahtaları hangi yük kapasitesini destekliyor?',
         answer:
-          'Afarer kurtarma SUP tahtaları; bir kurtarıcıyı, kazazedeyi, kurtarma ekipmanını ve tıbbi malzemeleri aynı anda taşıyacak şekilde tasarlanmış aşırı yüksek yük kapasitesi özellikleri taşır. Ekstra geniş kurtarma platformu, güvenli kazazede yardımı için artırılmış kararlılık ve daha büyük çalışma alanı sağlar.',
+          'OLagoon kurtarma SUP tahtaları; bir kurtarıcıyı, kazazedeyi, kurtarma ekipmanını ve tıbbi malzemeleri aynı anda taşıyacak şekilde tasarlanmış aşırı yüksek yük kapasitesi özellikleri taşır. Ekstra geniş kurtarma platformu, güvenli kazazede yardımı için artırılmış kararlılık ve daha büyük çalışma alanı sağlar.',
       },
       {
-        question: "Afarer kurtarma SUP tahtalarını rekreasyonel paddle board'lardan farklı kılan nedir?",
+        question: "OLagoon kurtarma SUP tahtalarını rekreasyonel paddle board'lardan farklı kılan nedir?",
         answer:
-          'Afarer kurtarma tahtaları, özellikle acil durum operasyonları için tasarlanmıştır: yüksek kapasiteli platformlar, çoklu kurtarma tutamaçları, güçlendirilmiş D-halkalı çekme sistemleri, yüksek görünürlüklü renkler, yansıtıcı elemanlar, aşınmaya dayanıklı malzemeler ve ağır hizmet dikiş yapısı — rekreasyonel ürünlerde bulunmayan özellikler.',
+          'OLagoon kurtarma tahtaları, özellikle acil durum operasyonları için tasarlanmıştır: yüksek kapasiteli platformlar, çoklu kurtarma tutamaçları, güçlendirilmiş D-halkalı çekme sistemleri, yüksek görünürlüklü renkler, yansıtıcı elemanlar, aşınmaya dayanıklı malzemeler ve ağır hizmet dikiş yapısı — rekreasyonel ürünlerde bulunmayan özellikler.',
       },
       {
         question: 'Kurtarma SUP tahtaları için hangi renk seçenekleri mevcut?',
         answer:
-          'Afarer; kurtarma sarısı, güvenlik turuncusu ve acil durum kırmızısı dahil profesyonel kurtarma renkleri sunar. Tüm seçenekler, düşük ışık ve gece görünürlüğü için yansıtıcı güvenlik elemanlarıyla, ayrıca takım logoları ve kurum işaretleriyle birleştirilebilir.',
+          'OLagoon; kurtarma sarısı, güvenlik turuncusu ve acil durum kırmızısı dahil profesyonel kurtarma renkleri sunar. Tüm seçenekler, düşük ışık ve gece görünürlüğü için yansıtıcı güvenlik elemanlarıyla, ayrıca takım logoları ve kurum işaretleriyle birleştirilebilir.',
       },
       {
         question: 'Kurtarma SUP tahtaları takım logomuz ve işaretlerimizle özelleştirilebilir mi?',
         answer:
-          'Evet, Afarer; takım logoları, kurum kimliği, güvenlik işaretleri ve özel renk düzenleri dahil eksiksiz kurtarma kuruluşu markalaşmasını destekler. Bu, profesyonel görünüme ve çok kurumlu operasyonlar sırasında ekipman tanımlamasına yardım eder.',
+          'Evet, OLagoon; takım logoları, kurum kimliği, güvenlik işaretleri ve özel renk düzenleri dahil eksiksiz kurtarma kuruluşu markalaşmasını destekler. Bu, profesyonel görünüme ve çok kurumlu operasyonlar sırasında ekipman tanımlamasına yardım eder.',
       },
       {
         question: 'Profesyonel bir kurtarma SUP paketinde hangi aksesuarlar bulunur?',
@@ -5041,13 +5041,13 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Kurtarma SUP tahtaları nasıl bakılır ve saklanır?',
         answer:
-          'Afarer kurtarma tahtaları; sık konuşlandırmaya ve açık hava depolamasına dayanan dayanıklı malzemelerle kolay bakım için tasarlanmıştır. Şişme oldukları için taşıma ve depolamada kompakt katlanırlar. Uzun vadeli güvenilirlik için bakım rehberliği, denetim prosedürleri ve yedek bileşenler sağlıyoruz.',
+          'OLagoon kurtarma tahtaları; sık konuşlandırmaya ve açık hava depolamasına dayanan dayanıklı malzemelerle kolay bakım için tasarlanmıştır. Şişme oldukları için taşıma ve depolamada kompakt katlanırlar. Uzun vadeli güvenilirlik için bakım rehberliği, denetim prosedürleri ve yedek bileşenler sağlıyoruz.',
       },
     ],
     cta: {
-      title: 'Afarer ile Profesyonel Su Kurtarma Sisteminizi Kurun',
+      title: 'OLagoon ile Profesyonel Su Kurtarma Sisteminizi Kurun',
       subtitle:
-        'Her kurtarma görevi güven gerektirir. Afarer; cankurtaran ekiplerine, kurtarma kuruluşlarına, eğitim kurumlarına ve acil durum teşkilatlarına güvenilir su güvenliği ekipman sistemleri kurma konusunda yardım eder.',
+        'Her kurtarma görevi güven gerektirir. OLagoon; cankurtaran ekiplerine, kurtarma kuruluşlarına, eğitim kurumlarına ve acil durum teşkilatlarına güvenilir su güvenliği ekipman sistemleri kurma konusunda yardım eder.',
       primaryAction: {
         text: 'Projenizi Başlatın',
       },
@@ -5061,7 +5061,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP Distribütör Tedarikçisi | Toplu OEM Paddle Board Üreticisi | {SITE}',
       description:
-        'Afarer, küresel SUP distribütörleri ve ithalatçılarıyla toplu OEM üretimi, private label çözümleri, bölgesel pazar desteği ve güvenilir tedarik zinciri yönetimi yoluyla iş ortaklığı yapar.',
+        'OLagoon, küresel SUP distribütörleri ve ithalatçılarıyla toplu OEM üretimi, private label çözümleri, bölgesel pazar desteği ve güvenilir tedarik zinciri yönetimi yoluyla iş ortaklığı yapar.',
     },
     hero: {
       tagline: 'Bölgesel OEM ve Tedarik Zinciri Ortağı™',
@@ -5102,49 +5102,49 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Büyük Ölçekli OEM Üretim Kapasitesi',
           description:
-            'Afarer; pazar testi (1.000–3.000 adet), bölgesel genişleme (5.000–10.000 adet) ve büyük distribütör ölçeği (10.000–20.000+ adet) olmak üzere üç iş birliği aşamasında orta hacimli siparişleri, konteyner sevkiyatlarını ve yıllık tedarik anlaşmalarını destekler.',
+            'OLagoon; pazar testi (1.000–3.000 adet), bölgesel genişleme (5.000–10.000 adet) ve büyük distribütör ölçeği (10.000–20.000+ adet) olmak üzere üç iş birliği aşamasında orta hacimli siparişleri, konteyner sevkiyatlarını ve yıllık tedarik anlaşmalarını destekler.',
           features: ['Pazar Testi Aşaması', 'Bölgesel Genişleme Aşaması', 'Büyük Distribütör Aşaması'],
         },
         {
           title: 'Münhasır OEM Marka Geliştirme',
           description:
-            'Afarer, ithalatçılığın ötesine geçmek isteyen distribütörleri destekler: özel konumlandırma, ürün seçimi, grafik tasarım, ambalaj ve münhasır ürün koleksiyonlarıyla private label markalar yaratılır.',
+            'OLagoon, ithalatçılığın ötesine geçmek isteyen distribütörleri destekler: özel konumlandırma, ürün seçimi, grafik tasarım, ambalaj ve münhasır ürün koleksiyonlarıyla private label markalar yaratılır.',
           features: ['Private Label Geliştirme', 'Münhasır Ürün Koleksiyonları', 'Rekabetçi Farklılaşma'],
         },
         {
           title: 'Bölgesel Pazar Koruma Programı',
           description:
-            'Nitelikli ortaklar için Afarer; pazar büyüklüğüne ve taahhüde dayalı bölge iş birliği, münhasır grafikler ve konfigürasyonlarla ürün farklılaşması ve bayi ağı desteği sunar.',
+            'Nitelikli ortaklar için OLagoon; pazar büyüklüğüne ve taahhüde dayalı bölge iş birliği, münhasır grafikler ve konfigürasyonlarla ürün farklılaşması ve bayi ağı desteği sunar.',
           features: ['Bölge İş Birliği', 'Ürün Farklılaşması', 'Bayi Ağı Desteği'],
         },
         {
           title: 'Eksiksiz Ürün Portföyü Planlaması',
           description:
-            "Afarer, distribütörlerin all-round SUP, touring SUP, çocuk SUP'ı, balıkçılık SUP'ı, yoga SUP'ı, aksesuarlar ve su rekreasyon ekipmanı dahil eksiksiz su sporları kategorileri kurmasına yardımcı olur.",
+            "OLagoon, distribütörlerin all-round SUP, touring SUP, çocuk SUP'ı, balıkçılık SUP'ı, yoga SUP'ı, aksesuarlar ve su rekreasyon ekipmanı dahil eksiksiz su sporları kategorileri kurmasına yardımcı olur.",
           features: ['SUP Ürün Kategorileri', 'Ek Ürün Genişlemesi', 'Aksesuarlar'],
         },
         {
           title: 'Lojistik Optimizasyon Desteği',
           description:
-            'Afarer; sevkiyat verimliliğini ve ithalat ekonomisini en üst düzeye çıkarmak için konteyner yükü optimizasyonunu, hızlı satılan modellerle premium ürünleri birleştiren ürün karması planlamasını ve ihracat dokümantasyon koordinasyonunu destekler.',
+            'OLagoon; sevkiyat verimliliğini ve ithalat ekonomisini en üst düzeye çıkarmak için konteyner yükü optimizasyonunu, hızlı satılan modellerle premium ürünleri birleştiren ürün karması planlamasını ve ihracat dokümantasyon koordinasyonunu destekler.',
           features: ['Konteyner Yükü Optimizasyonu', 'Ürün Karması Planlaması', 'İhracat Dokümantasyon Desteği'],
         },
         {
           title: 'Uluslararası Pazarlar için Kalite Kontrol',
           description:
-            "Afarer'ın kalite yönetimi; PVC ve drop stitch malzemelerin malzeme denetimini, üretim süreçlerinin izlenmesini ve görünüm, aksesuarlar, ambalaj ile adetin nihai sevkiyat denetimini içerir.",
+            "OLagoon'ın kalite yönetimi; PVC ve drop stitch malzemelerin malzeme denetimini, üretim süreçlerinin izlenmesini ve görünüm, aksesuarlar, ambalaj ile adetin nihai sevkiyat denetimini içerir.",
           features: ['Malzeme Denetimi', 'Üretim İzleme', 'Nihai Sevkiyat Denetimi'],
         },
         {
           title: 'Distribütör Satış Desteği',
           description:
-            'Afarer; ürün spesifikasyonları ve teknik bilgiler, ürün ve lifestyle görselleri dahil pazarlama materyalleri ile avantajlar, uygulamalar ve satış konumlandırması üzerine ürün eğitimiyle ortaklarını destekler.',
+            'OLagoon; ürün spesifikasyonları ve teknik bilgiler, ürün ve lifestyle görselleri dahil pazarlama materyalleri ile avantajlar, uygulamalar ve satış konumlandırması üzerine ürün eğitimiyle ortaklarını destekler.',
           features: ['Ürün Bilgisi', 'Pazarlama Materyalleri', 'Ürün Eğitimi'],
         },
         {
           title: 'Uzun Vadeli Tedarik Ortaklığı',
           description:
-            'Afarer, tekil siparişlerin ötesinde ilişkilere odaklanır: stabil bir üretim üssü, sürekli ürün geliştirme ve ithalatçıdan distribütöre, bölgesel marka sahibine uzanan iş büyümesi desteği sunar.',
+            'OLagoon, tekil siparişlerin ötesinde ilişkilere odaklanır: stabil bir üretim üssü, sürekli ürün geliştirme ve ithalatçıdan distribütöre, bölgesel marka sahibine uzanan iş büyümesi desteği sunar.',
           features: ['Stabil Üretim Üssü', 'Sürekli Ürün Geliştirme', 'İş Büyümesi Desteği'],
         },
       ],
@@ -5161,7 +5161,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Bölgesel Pazar Analizi',
           detail:
-            'Afarer, yeni başlayan SUP talebinin, aile rekreasyonu pazar fırsatlarının ve Orta Doğu bölgesine özgü turizm uygulamalarının belirlenmesine yardımcı oldu.',
+            'OLagoon, yeni başlayan SUP talebinin, aile rekreasyonu pazar fırsatlarının ve Orta Doğu bölgesine özgü turizm uygulamalarının belirlenmesine yardımcı oldu.',
         },
         {
           title: 'Ürün Portföyü Geliştirme',
@@ -5192,28 +5192,28 @@ const tr: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Avustralya',
             background:
               "PaddleHub Australia, 3 yıldır 45 yerel sörf mağazasına jenerik Çin SUP tahtaları dağıtan, yıllık geliri 1,8 milyon AUD civarında, eski rekabetçi sörfçü kurucusu James Whitfield tarafından yönetilen küçük bir ithalatçıydı. Rakipler fiyat kırdıkça ve tedarikçiler münhasırlık teklif etmeyi reddettikçe marjları eriyordu. James, kalıcı değer inşa etmek için bölgesel korumalı, benzersiz bir mülkiyet markasına ihtiyacı olduğunu fark etti. 350 bin AUD kullanılabilir sermayesi ve Burleigh Heads'te bir deposu vardı ama Avustralya'ya özgü tasarım özellikleri ve Okyanusya için bölgesel münhasırlıkla OEM kalitesinde tahtalar teslim edebilecek bir üretim ortağına ihtiyacı vardı.",
-            goal: "12 benzersiz modelli bir mülkiyet SUP markası yaratmak, 18 ay içinde 200'den fazla Avustralya ve Yeni Zelanda bayi hesabı imzalamak, yıllık 6 milyon AUD toptan gelire ulaşmak ve Afarer'dan münhasır Okyanusya dağıtım haklarını güvence altına almak.",
+            goal: "12 benzersiz modelli bir mülkiyet SUP markası yaratmak, 18 ay içinde 200'den fazla Avustralya ve Yeni Zelanda bayi hesabı imzalamak, yıllık 6 milyon AUD toptan gelire ulaşmak ve OLagoon'dan münhasır Okyanusya dağıtım haklarını güvence altına almak.",
           },
           steps: [
             {
               title: 'Stratejik Ortaklık Müzakeresi ve Münhasır Bölge Anlaşması',
               detail:
-                "Şubat 2024'te James, iş gerekçesini Afarer'ın Shenzhen tesisinde 3 günlük bir toplantıda Afarer'ın Küresel Ortaklıklar Başkan Yardımcısı'na sundu. Afarer, Avustralya'da SUP taşıyabilecek 340+ sörf mağazası, 180+ su sporları perakendecisi ve 60+ denizcilik bayisi olduğunu ancak bunların yalnızca %23'ünün şu anda bu kategoriyi sunduğunu gösteren bir pazar yapılabilirlik çalışması yürüttü. Afarer, “WaveGlide” ve “Expedition” platform aileleri için PaddleHub'a münhasır Okyanusya dağıtım hakları verdi; asgari 2,5 milyon AUD yıllık satın alma gerekti. James 800 bin AUD başlangıç MOQ taahhüt etti ve münhasır bayi sayısı hedefleri dahil Afarer'ın bölge geliştirme kilometre taşlarını kabul etti.",
+                "Şubat 2024'te James, iş gerekçesini OLagoon'ın Shenzhen tesisinde 3 günlük bir toplantıda OLagoon'ın Küresel Ortaklıklar Başkan Yardımcısı'na sundu. OLagoon, Avustralya'da SUP taşıyabilecek 340+ sörf mağazası, 180+ su sporları perakendecisi ve 60+ denizcilik bayisi olduğunu ancak bunların yalnızca %23'ünün şu anda bu kategoriyi sunduğunu gösteren bir pazar yapılabilirlik çalışması yürüttü. OLagoon, “WaveGlide” ve “Expedition” platform aileleri için PaddleHub'a münhasır Okyanusya dağıtım hakları verdi; asgari 2,5 milyon AUD yıllık satın alma gerekti. James 800 bin AUD başlangıç MOQ taahhüt etti ve münhasır bayi sayısı hedefleri dahil OLagoon'ın bölge geliştirme kilometre taşlarını kabul etti.",
             },
             {
               title: 'Özel Ürün Platformu Geliştirme ve Avustralya Uyarlaması',
               detail:
-                "Afarer'ın Ar-Ge ekibi, 5 all-round tahta, 3 touring tahtası, 2 yarış tahtası, 1 balıkçılık tahtası ve 1 gençlik tahtası dahil PaddleHub'ın 12 modelli kadrosunu geliştirmek için 6 hafta harcadı. Her model Avustralya'ya özgü modifikasyonlar içeriyordu: Queensland'in yoğun güneşi için UV stabilize PVC, Büyük Set Resifi kayalık rampaları için takviyeli kenarlar ve Aborijin nokta sanatı esintili desenli özel grafik paketleri. Afarer, 12 modelin tamamında 300 ön üretim adedi üretti; James bunları sörf mağazası sahipleri, kürek eğitmenleri ve balıkçılık rehberleri dahil 50 beta test kullanıcısına dağıttı ve 23 tasarım iyileştirmesine yol açan ayrıntılı geri bildirimler aldı.",
+                "OLagoon'ın Ar-Ge ekibi, 5 all-round tahta, 3 touring tahtası, 2 yarış tahtası, 1 balıkçılık tahtası ve 1 gençlik tahtası dahil PaddleHub'ın 12 modelli kadrosunu geliştirmek için 6 hafta harcadı. Her model Avustralya'ya özgü modifikasyonlar içeriyordu: Queensland'in yoğun güneşi için UV stabilize PVC, Büyük Set Resifi kayalık rampaları için takviyeli kenarlar ve Aborijin nokta sanatı esintili desenli özel grafik paketleri. OLagoon, 12 modelin tamamında 300 ön üretim adedi üretti; James bunları sörf mağazası sahipleri, kürek eğitmenleri ve balıkçılık rehberleri dahil 50 beta test kullanıcısına dağıttı ve 23 tasarım iyileştirmesine yol açan ayrıntılı geri bildirimler aldı.",
             },
             {
               title: 'Bayi Ağı İşe Alımı ve Kanal Geliştirme',
               detail:
-                "James ve 3 kişilik satış ekibi; kademeli fiyatlandırma, yeni hesaplar için %0 faizli 60 günlük ödeme koşulları, ücretsiz sergi standları ve personel eğitimi sunan bir “Dealer Pro” programı başlattı. Afarer; paylaşılan bir CRM sistemi, ürün katalogları, karşılaştırma kılavuzları ve bir bayi bulucu web sitesi sağladı. Sydney Uluslararası Tekne Fuarı'na ve 7 bölgesel balıkçılık/outdoor fuarına katılarak James, Anaconda (42 mağaza), BCF (35 mağaza) ve 20 bağımsız sörf mağazası dahil ilk 6 ayda 97 bayi imzaladı. Afarer'ın lojistik ekibi, 14 günlük teslimat garantili Sidney merkezli bir konsolidasyon deposu kurdu.",
+                "James ve 3 kişilik satış ekibi; kademeli fiyatlandırma, yeni hesaplar için %0 faizli 60 günlük ödeme koşulları, ücretsiz sergi standları ve personel eğitimi sunan bir “Dealer Pro” programı başlattı. OLagoon; paylaşılan bir CRM sistemi, ürün katalogları, karşılaştırma kılavuzları ve bir bayi bulucu web sitesi sağladı. Sydney Uluslararası Tekne Fuarı'na ve 7 bölgesel balıkçılık/outdoor fuarına katılarak James, Anaconda (42 mağaza), BCF (35 mağaza) ve 20 bağımsız sörf mağazası dahil ilk 6 ayda 97 bayi imzaladı. OLagoon'ın lojistik ekibi, 14 günlük teslimat garantili Sidney merkezli bir konsolidasyon deposu kurdu.",
             },
             {
               title: 'Marka Lansmanı, Pazarlama Desteği ve Büyüme Hızlanması',
               detail:
-                "PaddleHub, marka elçisi olarak eski Avustralya SUP şampiyonu Jessica Krieger'in yer aldığı 250 bin AUD'lik bir kampanyayla resmi olarak lansman edildi. Afarer, toptan satın alımların %4'üne eşit ortak pazarlama fonlarıyla katkıda bulundu ve 24 ürün videosu, 360 derece ürün fotoğrafçılığı ve sosyal medya materyalleri üretti. Ağustos 2025 itibarıyla PaddleHub'ın 215 aktif bayi hesabı ve son 12 ayda 5,8 milyon AUD toptan geliri vardı; toplam 3,2 milyon AUD değerinde 3 ek üretim siparişi verilmişti. James ekibini, tam zamanlı bir ürün müdürü dahil 12 çalışana genişletti ve PaddleHub, satış noktası sayısına göre Avustralya pazarının en büyük ikinci SUP markası haline geldi.",
+                "PaddleHub, marka elçisi olarak eski Avustralya SUP şampiyonu Jessica Krieger'in yer aldığı 250 bin AUD'lik bir kampanyayla resmi olarak lansman edildi. OLagoon, toptan satın alımların %4'üne eşit ortak pazarlama fonlarıyla katkıda bulundu ve 24 ürün videosu, 360 derece ürün fotoğrafçılığı ve sosyal medya materyalleri üretti. Ağustos 2025 itibarıyla PaddleHub'ın 215 aktif bayi hesabı ve son 12 ayda 5,8 milyon AUD toptan geliri vardı; toplam 3,2 milyon AUD değerinde 3 ek üretim siparişi verilmişti. James ekibini, tam zamanlı bir ürün müdürü dahil 12 çalışana genişletti ve PaddleHub, satış noktası sayısına göre Avustralya pazarının en büyük ikinci SUP markası haline geldi.",
             },
           ],
           results: [
@@ -5229,41 +5229,41 @@ const tr: Record<string, SolutionOverride> = {
             location: 'Dubai, BAE',
             background:
               "Emirli girişimci Rashid Al Maktoum liderliğindeki Dune Sports DMCC, Körfez genelindeki denizcilik bayilerine jet ski ve kano tedarik eden, yıllık geliri 2,3 milyon $ olan Dubai merkezli bir su sporları distribütörüydü. Rashid, sahil turizminin, lüks tatil köylerinin ve su sporlarının patladığı Orta Doğu'da SUP'ı keşfedilmemiş bir fırsat olarak gördü. Bölgede baskın bir SUP markası yoktu ve ürünlerin çoğu, hizmet veya garanti olmaksızın Amazon'da satılan düşük kaliteli ithalatlardı. Rashid, 1,2 milyon $ başlangıç yatırımıyla Orta Doğu pazarına hükmedebilecek premium bir SUP markasının münhasır bölgesel OEM ortağı olmak istiyordu.",
-            goal: "Afarer'dan münhasır Orta Doğu ve Kuzey Afrika dağıtım haklarını güvence altına almak, 8 ülkede premium bir bölgesel marka başlatmak, 24 ay içinde 5 milyon $ toptan gelire ulaşmak ve GCC premium SUP segmentinde %60+ pazar payı ele geçirmek.",
+            goal: "OLagoon'dan münhasır Orta Doğu ve Kuzey Afrika dağıtım haklarını güvence altına almak, 8 ülkede premium bir bölgesel marka başlatmak, 24 ay içinde 5 milyon $ toptan gelire ulaşmak ve GCC premium SUP segmentinde %60+ pazar payı ele geçirmek.",
           },
           steps: [
             {
               title: 'Bölgesel Pazar Analizi ve Münhasırlık Çerçeve Anlaşması',
               detail:
-                "Rashid, BAE, Suudi Arabistan, Katar, Kuveyt, Umman, Bahreyn, Mısır ve Ürdün genelinde 6 haftalık bir pazar çalışması yaptırdı. Çalışma; denizcilik perakendecileri, otel satın alma departmanları ve ihtisas spor mağazaları dahil, yıllık toplam adreslenebilir pazarı 18 milyon $ olan 280'den fazla potansiyel bayi belirledi. Nisan 2024'te Rashid, MENA bölgesindeki 15 ülkeyi kapsayan ve yılda %15 artan asgari 3 milyon $ yıllık satın alma taahhüdü içeren 5 yıllık münhasır bir OEM anlaşmasını Afarer ile imzaladı. Afarer, Arapça pazarlama materyallerine, bölgesel fuar varlığına ve Dubai merkezli bir yedek parça deposuna 150 bin $ ortak yatırım yapmayı kabul etti.",
+                "Rashid, BAE, Suudi Arabistan, Katar, Kuveyt, Umman, Bahreyn, Mısır ve Ürdün genelinde 6 haftalık bir pazar çalışması yaptırdı. Çalışma; denizcilik perakendecileri, otel satın alma departmanları ve ihtisas spor mağazaları dahil, yıllık toplam adreslenebilir pazarı 18 milyon $ olan 280'den fazla potansiyel bayi belirledi. Nisan 2024'te Rashid, MENA bölgesindeki 15 ülkeyi kapsayan ve yılda %15 artan asgari 3 milyon $ yıllık satın alma taahhüdü içeren 5 yıllık münhasır bir OEM anlaşmasını OLagoon ile imzaladı. OLagoon, Arapça pazarlama materyallerine, bölgesel fuar varlığına ve Dubai merkezli bir yedek parça deposuna 150 bin $ ortak yatırım yapmayı kabul etti.",
             },
             {
               title: 'Ürün Hattı Stratejisi ve Çöle Uyarlanmış Mühendislik',
               detail:
-                "Afarer'ın mühendisleri, Dune Sports için Orta Doğu koşullarına optimize edilmiş 8 modelli “Oryx” markasını geliştirdi: yüksek sıcaklığa dayanıklı PVC (75°C yüzey sıcaklığına test edildi), Arap güneşinde solmayacak UV stabil pigmentler ve hızlı açılır mekanizmalı kuma dirençli fin sistemleri. Afarer, lüks tatil köyü segmenti için altın vurgulu ve deri kulplu özel bir “Royal Edition” dahil 500 ön lansman adedi üretti. Rashid'in ekibi tahtaları Basra Körfezi, Kızıldeniz ve kapalı dalga havuzlarında test etti; 200 test kullanıcısından ortalama 4,7/5 kalite puanı aldı.",
+                "OLagoon'ın mühendisleri, Dune Sports için Orta Doğu koşullarına optimize edilmiş 8 modelli “Oryx” markasını geliştirdi: yüksek sıcaklığa dayanıklı PVC (75°C yüzey sıcaklığına test edildi), Arap güneşinde solmayacak UV stabil pigmentler ve hızlı açılır mekanizmalı kuma dirençli fin sistemleri. OLagoon, lüks tatil köyü segmenti için altın vurgulu ve deri kulplu özel bir “Royal Edition” dahil 500 ön lansman adedi üretti. Rashid'in ekibi tahtaları Basra Körfezi, Kızıldeniz ve kapalı dalga havuzlarında test etti; 200 test kullanıcısından ortalama 4,7/5 kalite puanı aldı.",
             },
             {
               title: 'Kanal Geliştirme ve Otel/Tatil Köyü Ortaklıkları',
               detail:
-                "Rashid, Dubai, Riyad ve Kahire merkezli 5 kişilik bir bölgesel satış ekibi kurdu. Afarer'ın kanal geliştirme ekibi; bayi işe alım senaryoları, sunum dosyaları ve 3 kademeli bir bayi programı (Platin, Altın, Gümüş) sağladı. Dune Sports, 65 denizcilik bayisiyle münhasır dağıtım anlaşmaları ve Jumeirah, Four Seasons ve St. Regis dahil 22 lüks otel zinciriyle doğrudan satın alma sözleşmeleri güvence altına aldı. “Oryx” markası, Ras Al Khaimah'taki yeni Rixos ve Anantara tatil köyü projelerinde, Kızıldeniz Projesi'nde ve Maldivler'de standart ekipman olarak belirlendi.",
+                "Rashid, Dubai, Riyad ve Kahire merkezli 5 kişilik bir bölgesel satış ekibi kurdu. OLagoon'ın kanal geliştirme ekibi; bayi işe alım senaryoları, sunum dosyaları ve 3 kademeli bir bayi programı (Platin, Altın, Gümüş) sağladı. Dune Sports, 65 denizcilik bayisiyle münhasır dağıtım anlaşmaları ve Jumeirah, Four Seasons ve St. Regis dahil 22 lüks otel zinciriyle doğrudan satın alma sözleşmeleri güvence altına aldı. “Oryx” markası, Ras Al Khaimah'taki yeni Rixos ve Anantara tatil köyü projelerinde, Kızıldeniz Projesi'nde ve Maldivler'de standart ekipman olarak belirlendi.",
             },
             {
               title: 'Bölgesel Lansman, Ramazan Kampanyası ve Pazar Hakimiyeti',
               detail:
-                "“Oryx” markası Ekim 2024'te 8 pazarın tamamında, Dubai Marina Mall, Suudi Arabistan'daki Red Sea Mall ve Katar'daki Doha Festival City'de eşzamanlı etkinliklerle lansman edildi. Afarer; Arapça TV reklamları, 15 Orta Doğulu outdoor maceracısıyla influencer ortaklıkları ve Dubai SUP Festivali sponsorluğu dahil 200 bin $'lık bir pazarlama kampanyasıyla destek verdi. Mart 2025 itibarıyla Dune Sports 8.400 adet satmış, 4,7 milyon $ toptan gelire ulaşmış ve GCC premium SUP pazarının %58'ini ele geçirmişti. Rashid, Afarer ile ilk opsiyon yılı yenilemesini yıllık 4,5 milyon $ satın alımla kullandı.",
+                "“Oryx” markası Ekim 2024'te 8 pazarın tamamında, Dubai Marina Mall, Suudi Arabistan'daki Red Sea Mall ve Katar'daki Doha Festival City'de eşzamanlı etkinliklerle lansman edildi. OLagoon; Arapça TV reklamları, 15 Orta Doğulu outdoor maceracısıyla influencer ortaklıkları ve Dubai SUP Festivali sponsorluğu dahil 200 bin $'lık bir pazarlama kampanyasıyla destek verdi. Mart 2025 itibarıyla Dune Sports 8.400 adet satmış, 4,7 milyon $ toptan gelire ulaşmış ve GCC premium SUP pazarının %58'ini ele geçirmişti. Rashid, OLagoon ile ilk opsiyon yılı yenilemesini yıllık 4,5 milyon $ satın alımla kullandı.",
             },
           ],
           results: [
             "İlk 12 ayda 8 ülkede 4,7 milyon $ toptan gelir — 24 aylık hedefin %94'üne yarım sürede ulaşıldı",
             'GCC premium SUP segmentinde (349–799 $ perakende) %58 pazar payı; parçalı rakip markalar karşısında hakimiyet',
             'Misafirperverlik sektörüne satılan 3.100 adetle 22 münhasır otel/tatil köyü satın alma sözleşmesi; %72 tekrar sipariş oranı',
-            "Dune Sports'ın şirket değeri 14 ayda 2,3 milyon $'dan 12 milyon $'a büyüdü; Rashid, Afarer'ın OEM platformu aracılığıyla bitişik su sporları kategorilerine genişledi",
+            "Dune Sports'ın şirket değeri 14 ayda 2,3 milyon $'dan 12 milyon $'a büyüdü; Rashid, OLagoon'ın OEM platformu aracılığıyla bitişik su sporları kategorilerine genişledi",
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: "Küresel Distribütörler Neden Afarer'ı Seçiyor",
+    whyOLagoon: {
+      title: "Küresel Distribütörler Neden OLagoon'ı Seçiyor",
       items: [
         {
           title: 'Üretim Ölçeği',
@@ -5298,38 +5298,38 @@ const tr: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: "Afarer'ı distribütörler için diğer SUP OEM üreticilerinden farklı kılan nedir?",
+        question: "OLagoon'ı distribütörler için diğer SUP OEM üreticilerinden farklı kılan nedir?",
         answer:
-          'Afarer; bölgesel pazar koruma programları, münhasır marka geliştirme desteği, lojistik optimizasyonu ve distribütör satış eğitimi dahil, üretimin ötesinde eksiksiz bir ortaklık modeli sunar. Ortakların ithalatçıdan bölgesel marka sahibine büyümesine yardımcı olan uzun vadeli ilişkilere odaklanırız.',
+          'OLagoon; bölgesel pazar koruma programları, münhasır marka geliştirme desteği, lojistik optimizasyonu ve distribütör satış eğitimi dahil, üretimin ötesinde eksiksiz bir ortaklık modeli sunar. Ortakların ithalatçıdan bölgesel marka sahibine büyümesine yardımcı olan uzun vadeli ilişkilere odaklanırız.',
       },
       {
         question: 'Bölgesel pazar koruma programı münhasır distribütörler için nasıl çalışır?',
         answer:
-          'Nitelikli ortaklar için Afarer; bölge temelli iş birliği anlaşmaları, münhasır grafikler ve konfigürasyonlarla ürün farklılaşması ve bayi ağı desteği sunar. Bu, distribütörlerin bölgesel konumlarının korunduğu güvenle pazar geliştirmeye yatırım yapabilmesini sağlar.',
+          'Nitelikli ortaklar için OLagoon; bölge temelli iş birliği anlaşmaları, münhasır grafikler ve konfigürasyonlarla ürün farklılaşması ve bayi ağı desteği sunar. Bu, distribütörlerin bölgesel konumlarının korunduğu güvenle pazar geliştirmeye yatırım yapabilmesini sağlar.',
       },
       {
         question: 'Konteyner düzeyinde SUP sevkiyatları için tipik sipariş adetleri nedir?',
         answer:
-          'Afarer üç iş birliği aşamasını destekler: pazar testi (1.000–3.000 adet), bölgesel genişleme (5.000–10.000 adet) ve büyük distribütör ölçeği (10.000–20.000+ adet). Konteyner yükü optimizasyonu, sevkiyat verimliliğini en üst düzeye çıkarıp adet başına ithalat maliyetini azaltmaya yardımcı olur.',
+          'OLagoon üç iş birliği aşamasını destekler: pazar testi (1.000–3.000 adet), bölgesel genişleme (5.000–10.000 adet) ve büyük distribütör ölçeği (10.000–20.000+ adet). Konteyner yükü optimizasyonu, sevkiyat verimliliğini en üst düzeye çıkarıp adet başına ithalat maliyetini azaltmaya yardımcı olur.',
       },
       {
-        question: 'Distribütörler Afarer ile kendi private label SUP markalarını oluşturabilir mi?',
+        question: 'Distribütörler OLagoon ile kendi private label SUP markalarını oluşturabilir mi?',
         answer:
-          'Evet, Afarer; marka konumlandırma, ürün seçimi, özel grafik tasarım, ambalaj özelleştirmesi ve münhasır ürün koleksiyonları dahil eksiksiz private label geliştirmeyi destekler. Bu, distribütörlerin yalnızca fiyat üzerinden rekabet etmek yerine bölgesel markalar kurmasını sağlar.',
+          'Evet, OLagoon; marka konumlandırma, ürün seçimi, özel grafik tasarım, ambalaj özelleştirmesi ve münhasır ürün koleksiyonları dahil eksiksiz private label geliştirmeyi destekler. Bu, distribütörlerin yalnızca fiyat üzerinden rekabet etmek yerine bölgesel markalar kurmasını sağlar.',
       },
       {
-        question: 'Afarer lojistik optimizasyonu ve ithalat maliyeti azaltımı konusunda nasıl yardımcı olur?',
+        question: 'OLagoon lojistik optimizasyonu ve ithalat maliyeti azaltımı konusunda nasıl yardımcı olur?',
         answer:
-          'Afarer; sevkiyat verimliliğini en üst düzeye çıkarmak için konteyner yükü optimizasyonu, hızlı satılan modellerle premium ürünleri birleştiren ürün karması planlaması ve gümrük işlemlerini kolaylaştırıp gecikmeleri azaltan kapsamlı ihracat dokümantasyon desteği sağlar.',
+          'OLagoon; sevkiyat verimliliğini en üst düzeye çıkarmak için konteyner yükü optimizasyonu, hızlı satılan modellerle premium ürünleri birleştiren ürün karması planlaması ve gümrük işlemlerini kolaylaştırıp gecikmeleri azaltan kapsamlı ihracat dokümantasyon desteği sağlar.',
       },
       {
         question: 'Uluslararası sevkiyatlar için hangi kalite kontrol süreçleri uygulanır?',
         answer:
-          'Afarer üç aşamalı kalite yönetimi uygular: PVC ve drop stitch bileşenlerinin malzeme denetimi, süreç içi üretim izlemesi ve görünüm, aksesuarlar, ambalaj ile adet doğruluğunu kapsayan nihai sevkiyat öncesi denetim.',
+          'OLagoon üç aşamalı kalite yönetimi uygular: PVC ve drop stitch bileşenlerinin malzeme denetimi, süreç içi üretim izlemesi ve görünüm, aksesuarlar, ambalaj ile adet doğruluğunu kapsayan nihai sevkiyat öncesi denetim.',
       },
     ],
     cta: {
-      title: 'Afarer Bölgesel Ortağı Olun',
+      title: 'OLagoon Bölgesel Ortağı Olun',
       subtitle: 'Pazarınız güvenilir bir su sporları tedarik ortağını hak ediyor.',
       primaryAction: {
         text: 'Bölgesel OEM Ortaklığınıza Bugün Başlayın',
@@ -5350,9 +5350,9 @@ const tr: Record<string, SolutionOverride> = {
       tagline: 'Tatil Köyü Su Aktivitesi Paketi™',
       title: 'Lüks Oteller, Tatil Köyleri ve Misafirperverlik Markaları için Premium SUP ve Su Sporları Çözümleri',
       subtitle:
-        "Afarer, misafirperverlik işletmeleri için özel olarak tasarlanmış eksiksiz Tatil Köyü Su Aktivitesi Paketleri sunar. Lüks tatil köylerinin, sahil otellerinin, ada destinasyonlarının, eko tatil köylerinin ve wellness retreat'ların; özel SUP filoları, depolama sistemleri ve personel eğitimi yoluyla markalı su deneyimleri yaratmasına yardımcı oluruz.",
+        "OLagoon, misafirperverlik işletmeleri için özel olarak tasarlanmış eksiksiz Tatil Köyü Su Aktivitesi Paketleri sunar. Lüks tatil köylerinin, sahil otellerinin, ada destinasyonlarının, eko tatil köylerinin ve wellness retreat'ların; özel SUP filoları, depolama sistemleri ve personel eğitimi yoluyla markalı su deneyimleri yaratmasına yardımcı oluruz.",
       image: {
-        alt: 'Özel markalı SUP tahtalarıyla Afarer tatil köyü su aktivitesi paketi',
+        alt: 'Özel markalı SUP tahtalarıyla OLagoon tatil köyü su aktivitesi paketi',
       },
     },
     challenge: {
@@ -5386,7 +5386,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Özel Tatil Köyü SUP Filosu Geliştirme',
           description:
-            'Afarer, tatil köylerinin konuma, misafir profiline, su ortamına ve aktivite programlarına dayanarak özel ekipman filoları geliştirmesine yardımcı olur. Paketler; kararlı all-round tahtalarla aile tatil köyü konfigürasyonlarından, premium tasarımlı lüks ada paketlerine ve geniş yoga SUP tahtalarıyla wellness retreat paketlerine kadar uzanır.',
+            'OLagoon, tatil köylerinin konuma, misafir profiline, su ortamına ve aktivite programlarına dayanarak özel ekipman filoları geliştirmesine yardımcı olur. Paketler; kararlı all-round tahtalarla aile tatil köyü konfigürasyonlarından, premium tasarımlı lüks ada paketlerine ve geniş yoga SUP tahtalarıyla wellness retreat paketlerine kadar uzanır.',
           features: [
             'Aile tatil köyü paketi',
             'Lüks ada tatil köyü paketi',
@@ -5397,7 +5397,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Tatil Köyü Markalaşma Özelleştirmesi',
           description:
-            'Su ekipmanınız misafir yolculuğunun bir parçası haline gelir. Afarer; özel logo entegrasyonunu, tatil köyü mimarisiyle ve marka renkleriyle uyumlu özel renk tasarımını ve markalı aksesuarlar ile misafir kullanım materyalleri içeren premium ambalajı destekler.',
+            'Su ekipmanınız misafir yolculuğunun bir parçası haline gelir. OLagoon; özel logo entegrasyonunu, tatil köyü mimarisiyle ve marka renkleriyle uyumlu özel renk tasarımını ve markalı aksesuarlar ile misafir kullanım materyalleri içeren premium ambalajı destekler.',
           features: [
             'Özel logo baskısı',
             'Markayla uyumlu renk tasarımı',
@@ -5408,27 +5408,27 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Tatil Köyü Depolama ve Ekipman Yönetim Sistemi',
           description:
-            'Afarer; güneş maruziyetini, nemi ve sahil ortamlarını göz önünde bulundurarak SUP rafları, organizasyon sistemleri ve hava koruma çözümleriyle ekipman depolaması planlamasına yardımcı olur. Personel; günlük ekipman hazırlığını, misafir teslim ve iade işlemlerini ve bakım denetimlerini verimli biçimde yönetebilir.',
+            'OLagoon; güneş maruziyetini, nemi ve sahil ortamlarını göz önünde bulundurarak SUP rafları, organizasyon sistemleri ve hava koruma çözümleriyle ekipman depolaması planlamasına yardımcı olur. Personel; günlük ekipman hazırlığını, misafir teslim ve iade işlemlerini ve bakım denetimlerini verimli biçimde yönetebilir.',
         },
         {
           title: 'Personel Güvenliği ve Operasyon Eğitimi Desteği',
           description:
-            'Afarer; ekipman kullanım prosedürleri, şişirme talimatları, temizlik yöntemleri, depolama kılavuzları, misafir güvenliği prosedürleri ve kullanım öncesi denetim ile kullanım sonrası temizliği kapsayan günlük operasyon kontrol listeleri dahil operasyonel rehberlik sağlar.',
+            'OLagoon; ekipman kullanım prosedürleri, şişirme talimatları, temizlik yöntemleri, depolama kılavuzları, misafir güvenliği prosedürleri ve kullanım öncesi denetim ile kullanım sonrası temizliği kapsayan günlük operasyon kontrol listeleri dahil operasyonel rehberlik sağlar.',
         },
         {
           title: 'Eksiksiz Tatil Köyü Su Aktivitesi Paketi',
           description:
-            'Örnek paketler; özel markalı SUP tahtaları, ayarlanabilir kürekler, pompalar, emniyet kayışları, depolama rafları, tamir kitleri ve personel operasyon kılavuzları içerir. Afarer ayrıca su fitness ürünlerine ve aile su ekipmanına genişleme desteği sağlayabilir.',
+            'Örnek paketler; özel markalı SUP tahtaları, ayarlanabilir kürekler, pompalar, emniyet kayışları, depolama rafları, tamir kitleri ve personel operasyon kılavuzları içerir. OLagoon ayrıca su fitness ürünlerine ve aile su ekipmanına genişleme desteği sağlayabilir.',
         },
         {
           title: 'Düşük Bakımlı Ticari Ekipman',
           description:
-            'Tatil köyü ekipmanı misafir deneyimi, dayanıklılık ve bakım verimliliğini dengelemelidir. Afarer; takviyeli PVC ve ticari sınıf bileşenlerle dayanıklı yapıya, standart aksesuarlarla kolay bakıma ve değişim sıklığını azaltan uzun vadeli değere odaklanır.',
+            'Tatil köyü ekipmanı misafir deneyimi, dayanıklılık ve bakım verimliliğini dengelemelidir. OLagoon; takviyeli PVC ve ticari sınıf bileşenlerle dayanıklı yapıya, standart aksesuarlarla kolay bakıma ve değişim sıklığını azaltan uzun vadeli değere odaklanır.',
         },
         {
           title: 'Tatil Köyü Deneyimi Tasarım Desteği',
           description:
-            "Afarer, ekipmanı imza misafir aktivitelerine dönüştürmeye yardımcı olur: çiftler için gün batımı SUP deneyimleri, aile okyanus maceraları, yoga retreat'ları için yüzen wellness programları ve doğa tatil köyleri ile deniz destinasyonları için eko keşif aktiviteleri.",
+            "OLagoon, ekipmanı imza misafir aktivitelerine dönüştürmeye yardımcı olur: çiftler için gün batımı SUP deneyimleri, aile okyanus maceraları, yoga retreat'ları için yüzen wellness programları ve doğa tatil köyleri ile deniz destinasyonları için eko keşif aktiviteleri.",
         },
       ],
     },
@@ -5444,7 +5444,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Tatil Köyü Aktivite Planlaması',
           detail:
-            'Afarer, misafir demografisini, sahil koşullarını ve aktivite hedeflerini analiz etti; ardından tatil köyünün lüks konumlandırmasına ve misafir beklentilerine göre uyarlanmış özel bir Tatil Köyü SUP Filosu önerdi.',
+            'OLagoon, misafir demografisini, sahil koşullarını ve aktivite hedeflerini analiz etti; ardından tatil köyünün lüks konumlandırmasına ve misafir beklentilerine göre uyarlanmış özel bir Tatil Köyü SUP Filosu önerdi.',
         },
         {
           title: 'Ürün Özelleştirmesi',
@@ -5475,29 +5475,29 @@ const tr: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Meksika',
             background:
-              "36 yaşındaki Ana Sofía Villanueva, Punta Mita'nın Pasifik kıyısındaki 62 süitli lüks bir eko tatil köyü olan “Casa del Pacífico”nun Misafir Deneyimleri Direktörü'dür (oda fiyatları 1.800–8.000 $/gece). Tatil köyünün 12 dönümlük arazisi; 3 özel plajı, 2 lagün havuzunu ve gizli cenotelere uzanan bir mangrov haliçini kapsar. 2023'te misafir anketleri, karşılanamayan 1 numaralı talep olarak “benzersiz su deneyimlerini” gösterdi (misafirlerin %78'i bunu istiyordu). Ana, Tulum'daki rakip bir tatil köyü bir SUP programı başlattıktan sonra Afarer'a başvurdu — daha özel bir şeye ihtiyacı vardı. Zorluk şuydu: değişken ışık seviyeleri, akıntılar ve ekolojik hassasiyetler altında okyanus dalgasında, sakin mangrovlarda ve tatlı su cenotelerinde çalışabilen tek bir paket.",
+              "36 yaşındaki Ana Sofía Villanueva, Punta Mita'nın Pasifik kıyısındaki 62 süitli lüks bir eko tatil köyü olan “Casa del Pacífico”nun Misafir Deneyimleri Direktörü'dür (oda fiyatları 1.800–8.000 $/gece). Tatil köyünün 12 dönümlük arazisi; 3 özel plajı, 2 lagün havuzunu ve gizli cenotelere uzanan bir mangrov haliçini kapsar. 2023'te misafir anketleri, karşılanamayan 1 numaralı talep olarak “benzersiz su deneyimlerini” gösterdi (misafirlerin %78'i bunu istiyordu). Ana, Tulum'daki rakip bir tatil köyü bir SUP programı başlattıktan sonra OLagoon'a başvurdu — daha özel bir şeye ihtiyacı vardı. Zorluk şuydu: değişken ışık seviyeleri, akıntılar ve ekolojik hassasiyetler altında okyanus dalgasında, sakin mangrovlarda ve tatlı su cenotelerinde çalışabilen tek bir paket.",
             goal: "Kişi başı 450 $'lık “İmza Cenote'ten Okyanusa SUP Deneyimi” paketi geliştirmek (3 saatlik rehberli tur, profesyonel fotoğrafçılık ve Meksika tadım menüsü); asgari %40 kâr marjı ve 4,8+ misafir memnuniyet puanıyla.",
           },
           steps: [
             {
               title: 'Mart 2024 Saha Çalışması ve Çevresel Etki Değerlendirmesi',
               detail:
-                "Afarer'ın Latin Amerika iş direktörü Felipe Ortíz ve deniz biyoloğu Dr. Camila Reyes, “Casa del Pacífico”nun su yollarını haritalamak için 10 gün harcadı. Dört farklı SUP ortamı belirlediler: Pasifik plajı rampası (istikrarlı 2–3 ft'lik dalga kırılması), mangrov tüneli (üstlerinde sarkan kökler bulunan dar 2 metrelik kanallar), gizli cenote (18 metre derinlikte tatlı su, 24°C sabit sıcaklık, duvarlarda hassas mikrobiyal örtüler) ve lagün havuzu (yeni başlayan misafirler için). Dr. Reyes, taşıma kapasitesini belirlemek amacıyla sediment örneklemesi ve yuvalayan kuş sayımları yaptı: tur başına en fazla 8 misafir, deniz kuşlarının beslenme saatinden önce 07.30'da çıkış. Değerlendirme, çinko fosfat pigmentli standart SUP tahtalarının cenoteye sızacağı sonucuna vardı — Afarer, seramik bazlı pigmentlere geçti.",
+                "OLagoon'ın Latin Amerika iş direktörü Felipe Ortíz ve deniz biyoloğu Dr. Camila Reyes, “Casa del Pacífico”nun su yollarını haritalamak için 10 gün harcadı. Dört farklı SUP ortamı belirlediler: Pasifik plajı rampası (istikrarlı 2–3 ft'lik dalga kırılması), mangrov tüneli (üstlerinde sarkan kökler bulunan dar 2 metrelik kanallar), gizli cenote (18 metre derinlikte tatlı su, 24°C sabit sıcaklık, duvarlarda hassas mikrobiyal örtüler) ve lagün havuzu (yeni başlayan misafirler için). Dr. Reyes, taşıma kapasitesini belirlemek amacıyla sediment örneklemesi ve yuvalayan kuş sayımları yaptı: tur başına en fazla 8 misafir, deniz kuşlarının beslenme saatinden önce 07.30'da çıkış. Değerlendirme, çinko fosfat pigmentli standart SUP tahtalarının cenoteye sızacağı sonucuna vardı — OLagoon, seramik bazlı pigmentlere geçti.",
             },
             {
               title: 'Entegre Fotoğrafçılık Sistemli Özel “Explora México” Tahtası',
               detail:
-                "Afarer; 4 katmanlı yapı, resife zarar vermeyen antifouling taban (biyosid içermeyen silikon kaplama; 28°C Pasifik suyunda 200 saat test edildi) ve parlama önleyici mat zeytin yeşili güverteyle “Explora México 10.8”i tasarladı. Ana, deneyimin bir parçası olarak profesyonel fotoğrafçılık istedi — Afarer, tahtanın burnuna su geçirmez bir drone kalkış platformu entegre etti (kaymaz kaplamalı, takviyeli 25×25 cm karbon fiber platform; DJI Mini 4 Pro'nun elle kalkış ve kurtarma sırasında taşıldığı test edildi). Her tahtada ayrıca bir su altı kamera direği bağlantı noktası bulunuyordu. Tahtalar; toksik akıntıyı önlemek amacıyla boyalı değil kabartmalı, Maya esintili geometrik desenlerle ve sınırlı sayıda üretilen “Casa del Pacífico” markasıyla üretildi.",
+                "OLagoon; 4 katmanlı yapı, resife zarar vermeyen antifouling taban (biyosid içermeyen silikon kaplama; 28°C Pasifik suyunda 200 saat test edildi) ve parlama önleyici mat zeytin yeşili güverteyle “Explora México 10.8”i tasarladı. Ana, deneyimin bir parçası olarak profesyonel fotoğrafçılık istedi — OLagoon, tahtanın burnuna su geçirmez bir drone kalkış platformu entegre etti (kaymaz kaplamalı, takviyeli 25×25 cm karbon fiber platform; DJI Mini 4 Pro'nun elle kalkış ve kurtarma sırasında taşıldığı test edildi). Her tahtada ayrıca bir su altı kamera direği bağlantı noktası bulunuyordu. Tahtalar; toksik akıntıyı önlemek amacıyla boyalı değil kabartmalı, Maya esintili geometrik desenlerle ve sınırlı sayıda üretilen “Casa del Pacífico” markasıyla üretildi.",
             },
             {
               title: 'Rehber Sertifikasyon Programı ve Lojistik Entegrasyonu',
               detail:
-                "Mayıs 2024'te Afarer'ın kıdemli rehber eğitmeni Diego Castillo, “Casa del Pacífico”nun 8 aktivite rehberini sertifikalandıran 2 haftalık yoğun bir program yürüttü. Müfredat şunları kapsıyordu: Pasifik plajı kırılan dalgalarında sörf bölgesi kalkışı ve kurtarması, gelgitlerle mangrov navigasyonu (rehber, alçak çamurda sıkışmayı önlemek için 3 saatlik gelgit penceresini bilmek zorunda), cenote görgü kuralları (güneş kremi yok, duvarlara dokunmak yok — Dr. Reyes yarım günlük bir hassasiyet oturumu için geri döndü), acil durum protokolleri (puma karşılaşmaları dahil — mangrovda yerleşik bir erkek barınıyor) ve İspanyolca/İngilizce iki dilli rehberlik. Afarer ayrıca SUP envanterini tatil köyünün Oracle Opera PMS sistemine entegre etti; böylece SUP rezervasyonları misafir hesaplarında otomatik olarak göründü. Fotoğraf iş akışı şu şekilde: rehberler, ön ayarlı “Cenote” renk profiliyle GoPro Hero12 Black kullanıyor; fotoğraflar 30 dakika içinde NFC kart aracılığıyla misafirlere aktarılıyor.",
+                "Mayıs 2024'te OLagoon'ın kıdemli rehber eğitmeni Diego Castillo, “Casa del Pacífico”nun 8 aktivite rehberini sertifikalandıran 2 haftalık yoğun bir program yürüttü. Müfredat şunları kapsıyordu: Pasifik plajı kırılan dalgalarında sörf bölgesi kalkışı ve kurtarması, gelgitlerle mangrov navigasyonu (rehber, alçak çamurda sıkışmayı önlemek için 3 saatlik gelgit penceresini bilmek zorunda), cenote görgü kuralları (güneş kremi yok, duvarlara dokunmak yok — Dr. Reyes yarım günlük bir hassasiyet oturumu için geri döndü), acil durum protokolleri (puma karşılaşmaları dahil — mangrovda yerleşik bir erkek barınıyor) ve İspanyolca/İngilizce iki dilli rehberlik. OLagoon ayrıca SUP envanterini tatil köyünün Oracle Opera PMS sistemine entegre etti; böylece SUP rezervasyonları misafir hesaplarında otomatik olarak göründü. Fotoğraf iş akışı şu şekilde: rehberler, ön ayarlı “Cenote” renk profiliyle GoPro Hero12 Black kullanıyor; fotoğraflar 30 dakika içinde NFC kart aracılığıyla misafirlere aktarılıyor.",
             },
             {
               title: 'Kasım 2024 Yüksek Sezon Lansmanı ve Medya Kapsamı',
               detail:
-                "“Cenote'ten Okyanusa” deneyimi 15 Kasım 2024'te, Punta Mita yüksek sezonunun başlangıcında yayına girdi. İlk 30 günde kişi başı 450 $'dan 112 tur satıldı = 50.400 $ gelir. Condé Nast Traveler muhabirlerinden biri 47 numaralı misafirdi; Ocak 2025'te yayımlanan “Meksika'nın En Yeni Eko Adrenalin Macerası: Cenoteden Pasifiğe Kürek Çekmek” adlı yazısı Mart sonuna kadar 800'den fazla rezervasyon getirdi. Misafir memnuniyeti, 340 tur boyunca ortalama 4,94/5 oldu. Tatil köyü, 150 $'lık bir “Altın Saat” fotoğrafçılık eklentisi ekledi (profesyonel drone pilotlu, şampanya ve istiridyeli gün batımı seansı) — misafirlerin %94'ü bu eklentiyi satın aldı. Nisan 2025 itibarıyla program, %52 kâr marjıyla 1,12 milyon $ doğrudan gelir üretti. Casa del Pacífico, 2026 için 20 ek tahta sipariş etti ve Afarer'a bir “Balina Gözlem SUP” paketi geliştirilmesi için sözleşme verdi (kambur balina göçü Aralık–Mart).",
+                "“Cenote'ten Okyanusa” deneyimi 15 Kasım 2024'te, Punta Mita yüksek sezonunun başlangıcında yayına girdi. İlk 30 günde kişi başı 450 $'dan 112 tur satıldı = 50.400 $ gelir. Condé Nast Traveler muhabirlerinden biri 47 numaralı misafirdi; Ocak 2025'te yayımlanan “Meksika'nın En Yeni Eko Adrenalin Macerası: Cenoteden Pasifiğe Kürek Çekmek” adlı yazısı Mart sonuna kadar 800'den fazla rezervasyon getirdi. Misafir memnuniyeti, 340 tur boyunca ortalama 4,94/5 oldu. Tatil köyü, 150 $'lık bir “Altın Saat” fotoğrafçılık eklentisi ekledi (profesyonel drone pilotlu, şampanya ve istiridyeli gün batımı seansı) — misafirlerin %94'ü bu eklentiyi satın aldı. Nisan 2025 itibarıyla program, %52 kâr marjıyla 1,12 milyon $ doğrudan gelir üretti. Casa del Pacífico, 2026 için 20 ek tahta sipariş etti ve OLagoon'a bir “Balina Gözlem SUP” paketi geliştirilmesi için sözleşme verdi (kambur balina göçü Aralık–Mart).",
             },
           ],
           results: [
@@ -5512,19 +5512,19 @@ const tr: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Tayland',
             background:
-              "32 yaşındaki Pimchanok “Mint” Suwannarat, Chaweng Noi Plajı'na bakan, 98 villalı ve ortalama 6,4 gecelik konaklamaya sahip 5 yıldızlı bir tatil köyü olan “Veranda Samui”nin Deneyim Direktörü'dür. Mint, misafirlerin %73'ünün en az bir “ada gezisi” rezerve ettiğini (genellikle Ang Thong Deniz Parkı'na kişi başı 3.500 THB'lik hızlı tekne turu), ancak konaklama sonrası anketlerde “kalabalık turlar” ve “çok fazla durak, yeterince kürek yok” şikayetlerinin öne çıktığını fark etti. Misafirlerin Koh Samui ile yakın adalar arasında kürek çekerek ilerlediği, eko konaklamalarda ve sahil kamplarında kaldığı çok günlü bir SUP seferi hayal etti. Tayland'da bunu sunan hiçbir tatil köyü yoktu. Batı lüks standartlarına uygun, kamp ekipmanı ve erzağıyla çok günlük, kendi kendine yeterli yolculukları taşıyabilecek sefer sınıfı ekipman tasarlaması için Afarer'a ihtiyacı vardı.",
+              "32 yaşındaki Pimchanok “Mint” Suwannarat, Chaweng Noi Plajı'na bakan, 98 villalı ve ortalama 6,4 gecelik konaklamaya sahip 5 yıldızlı bir tatil köyü olan “Veranda Samui”nin Deneyim Direktörü'dür. Mint, misafirlerin %73'ünün en az bir “ada gezisi” rezerve ettiğini (genellikle Ang Thong Deniz Parkı'na kişi başı 3.500 THB'lik hızlı tekne turu), ancak konaklama sonrası anketlerde “kalabalık turlar” ve “çok fazla durak, yeterince kürek yok” şikayetlerinin öne çıktığını fark etti. Misafirlerin Koh Samui ile yakın adalar arasında kürek çekerek ilerlediği, eko konaklamalarda ve sahil kamplarında kaldığı çok günlü bir SUP seferi hayal etti. Tayland'da bunu sunan hiçbir tatil köyü yoktu. Batı lüks standartlarına uygun, kamp ekipmanı ve erzağıyla çok günlük, kendi kendine yeterli yolculukları taşıyabilecek sefer sınıfı ekipman tasarlaması için OLagoon'a ihtiyacı vardı.",
             goal: '“Samui Takımadası Küreği”ni başlatmak: 4 adayı kapsayan (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → dönüş) 5 gün 4 gece rehberli SUP seferi; kişi başı 89.000 THB (2.500 $), yılda asgari 12 hareket ve %100 doluluk hedefiyle.',
           },
           steps: [
             {
               title: 'Samui Takımadası Genelinde Rota Haritalama ve Lojistik Araştırması',
               detail:
-                "Ekim 2023'te Afarer'ın Asya-Pasifik sefer uzmanı Tomo Kato ve Taylandlı deniz ekoloğu Dr. Narong Chaiyasit, önerilen rotayı kürekle kat etmek ve motor desteğiyle incelemek için 14 gün harcadı. 7 kritik faktör belirlediler: muson rüzgarı desenleri (Kasım–Ocak arası Kuzeydoğu Musonu, Koh Samui–Koh Phangan geçişini riskli kılar; Şubat–Ekim güvenlidir), Koh Tao'daki kamp alanları (çadır izni olan yalnızca 2 sahil noktası — her biri en fazla 10 kişi), tatlı su ikmali (Koh Nang Yuan'da yok — misafirler kişi başı günde 4 L taşır) ve resif navigasyon koridorları (Koh Tao'daki Köpekbalığı Körfezi'ndeki mercan, alçak gelgitten geçerken 40+ cm su kesimi boşluğu gerektirir). Nihai rota 5 günde 68 km'ydi; günlük kürek mesafeleri 8–18 km arasındaydı. Tomo, sahil kampı için 14 çapa türünü test etti (Danforth tarzı çapalar Samui'nin kumlu tabanında en iyi tutundu).",
+                "Ekim 2023'te OLagoon'ın Asya-Pasifik sefer uzmanı Tomo Kato ve Taylandlı deniz ekoloğu Dr. Narong Chaiyasit, önerilen rotayı kürekle kat etmek ve motor desteğiyle incelemek için 14 gün harcadı. 7 kritik faktör belirlediler: muson rüzgarı desenleri (Kasım–Ocak arası Kuzeydoğu Musonu, Koh Samui–Koh Phangan geçişini riskli kılar; Şubat–Ekim güvenlidir), Koh Tao'daki kamp alanları (çadır izni olan yalnızca 2 sahil noktası — her biri en fazla 10 kişi), tatlı su ikmali (Koh Nang Yuan'da yok — misafirler kişi başı günde 4 L taşır) ve resif navigasyon koridorları (Koh Tao'daki Köpekbalığı Körfezi'ndeki mercan, alçak gelgitten geçerken 40+ cm su kesimi boşluğu gerektirir). Nihai rota 5 günde 68 km'ydi; günlük kürek mesafeleri 8–18 km arasındaydı. Tomo, sahil kampı için 14 çapa türünü test etti (Danforth tarzı çapalar Samui'nin kumlu tabanında en iyi tutundu).",
             },
             {
               title: 'Hayatta Kalma ve Konfor Özellikleri Taşıyan “Takımada Seferi” Tahtası',
               detail:
-                "Afarer; 35 kg kamp ekipmanı artı 20 kg misafir kişisel eşyası taşıyabilecek hacme — 400 L — sahip “Veranda Explorer 13.0”ı tasarladı. Özellikler arasında: vida kapaklı sızdırmaz pruva yük kapağı (1 metre derinlikte 30 dakika dalışla test edildi), kuru çantalar için 6 daisy-chain bağlantı noktası, kameraya hızlı erişim için hızlı açılır güverte lastiği sistemi ve okyanus rotasını korumak için sökülebilir dümen skegi (Koh Phangan–Koh Tao ayağında 2 knot'luk çapraz akıntı var). Mint konfor konusunda ısrarcıydı: her tahtada bardak tutuculu şişirilebilir sırt dayaması (“LoungePak”) ve telifli bir “ShadowDeck” tente bulunuyordu (gergin karbon fiber direkli, UPF 50+ kumaşlı; 35°C sıcakta test edildi). Afarer 24 tahta üretti: 12'si misafirler, 6'sı rehberler, 6'sı yedek için.",
+                "OLagoon; 35 kg kamp ekipmanı artı 20 kg misafir kişisel eşyası taşıyabilecek hacme — 400 L — sahip “Veranda Explorer 13.0”ı tasarladı. Özellikler arasında: vida kapaklı sızdırmaz pruva yük kapağı (1 metre derinlikte 30 dakika dalışla test edildi), kuru çantalar için 6 daisy-chain bağlantı noktası, kameraya hızlı erişim için hızlı açılır güverte lastiği sistemi ve okyanus rotasını korumak için sökülebilir dümen skegi (Koh Phangan–Koh Tao ayağında 2 knot'luk çapraz akıntı var). Mint konfor konusunda ısrarcıydı: her tahtada bardak tutuculu şişirilebilir sırt dayaması (“LoungePak”) ve telifli bir “ShadowDeck” tente bulunuyordu (gergin karbon fiber direkli, UPF 50+ kumaşlı; 35°C sıcakta test edildi). OLagoon 24 tahta üretti: 12'si misafirler, 6'sı rehberler, 6'sı yedek için.",
             },
             {
               title: 'Rehber Ekibi İşe Alımı ve Güvenlik Sertifikasyonu',
@@ -5534,7 +5534,7 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Ocak 2025 İlk Sefer ve 12 Aylık Rezervasyon Hattı',
               detail:
-                "İlk yolculuk 15 Ocak 2025'te 6 misafirle denize açıldı (3 çift, tamamı Avustralyalı, 34–52 yaşlarında). Mint'in ekibi seferi içerik üretimi için kayda geçirdi. Koh Phangan'a yapılan 2. gün geçişi beklenmedik bir sağanağa yakalandı (45 dakika boyunca 30 knot rüzgar) — Afarer tahtaları bunu sıfır alaborayla atlattı; rehber protokolü “güvenlik salı” formasyonunu devreye soktu (tahtalar yıldız deseniyle birbirine bağlandı). Mart 2025 itibarıyla planlanan 12 hareketten 11'i tamamen doldu (bekleme listesinde 40 misafir). 2025 gelir projeksiyonu: 12 × 6 misafir × 89.000 THB = 6,41 milyon THB (178.000 $). Veranda'nın CEO'su, hareket öncesi brifingler için sahilde özel bir “Sefer Pavyonu”nun inşasını onayladı. Mint şu anda 2026 için daha kısa mesafeli, tatil köyü tabanlı kamplı 3 günlük bir “Aile Kaşifi” rotası geliştiriyor.",
+                "İlk yolculuk 15 Ocak 2025'te 6 misafirle denize açıldı (3 çift, tamamı Avustralyalı, 34–52 yaşlarında). Mint'in ekibi seferi içerik üretimi için kayda geçirdi. Koh Phangan'a yapılan 2. gün geçişi beklenmedik bir sağanağa yakalandı (45 dakika boyunca 30 knot rüzgar) — OLagoon tahtaları bunu sıfır alaborayla atlattı; rehber protokolü “güvenlik salı” formasyonunu devreye soktu (tahtalar yıldız deseniyle birbirine bağlandı). Mart 2025 itibarıyla planlanan 12 hareketten 11'i tamamen doldu (bekleme listesinde 40 misafir). 2025 gelir projeksiyonu: 12 × 6 misafir × 89.000 THB = 6,41 milyon THB (178.000 $). Veranda'nın CEO'su, hareket öncesi brifingler için sahilde özel bir “Sefer Pavyonu”nun inşasını onayladı. Mint şu anda 2026 için daha kısa mesafeli, tatil köyü tabanlı kamplı 3 günlük bir “Aile Kaşifi” rotası geliştiriyor.",
             },
           ],
           results: [
@@ -5546,8 +5546,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "Tatil Köyleri Neden Afarer'ı Seçiyor",
+    whyOLagoon: {
+      title: "Tatil Köyleri Neden OLagoon'ı Seçiyor",
       items: [
         {
           title: 'Misafir Deneyimi',
@@ -5574,38 +5574,38 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Tatil köyü su aktiviteleri için hangi SUP tahtaları en iyisidir?',
         answer:
-          'Tatil köyleri, tüm beceri seviyelerindeki misafirlere uygun, kararlı ve yeni başlayan dostu SUP tahtalarına ihtiyaç duyar. Afarer; all-round tahtalarla aile tatil köyü paketleri, premium tasarımlı lüks ada paketleri ve geniş yoga tahtalarıyla wellness retreat paketleri sunar — hepsi tatil köyü markasıyla özelleştirilebilir.',
+          'Tatil köyleri, tüm beceri seviyelerindeki misafirlere uygun, kararlı ve yeni başlayan dostu SUP tahtalarına ihtiyaç duyar. OLagoon; all-round tahtalarla aile tatil köyü paketleri, premium tasarımlı lüks ada paketleri ve geniş yoga tahtalarıyla wellness retreat paketleri sunar — hepsi tatil köyü markasıyla özelleştirilebilir.',
       },
       {
-        question: 'Afarer, SUP tahtalarını tatil köyümün logosu ve marka renkleriyle özelleştirebilir mi?',
+        question: 'OLagoon, SUP tahtalarını tatil köyümün logosu ve marka renkleriyle özelleştirebilir mi?',
         answer:
-          'Evet, Afarer; logo entegrasyonu, tatil köyünüzün mimarisiyle ve marka kimliğiyle uyumlu renk tasarımı ve markalı aksesuarlar ile misafir kullanım materyalleri içeren premium ambalaj dahil tam özelleştirme sağlar.',
+          'Evet, OLagoon; logo entegrasyonu, tatil köyünüzün mimarisiyle ve marka kimliğiyle uyumlu renk tasarımı ve markalı aksesuarlar ile misafir kullanım materyalleri içeren premium ambalaj dahil tam özelleştirme sağlar.',
       },
       {
         question: 'Tatil köyü SUP ekipmanı için depolama çözümleri sunuyor musunuz?',
         answer:
-          'Evet, Afarer; yatırımınızı ve tatil köyü görünümünü korumak için güneş maruziyeti, nem ve sahil ortamlarını göz önünde bulundurarak SUP rafları, organizasyon sistemleri ve hava koruma çözümleriyle ekipman depolama planlamasına yardımcı olur.',
+          'Evet, OLagoon; yatırımınızı ve tatil köyü görünümünü korumak için güneş maruziyeti, nem ve sahil ortamlarını göz önünde bulundurarak SUP rafları, organizasyon sistemleri ve hava koruma çözümleriyle ekipman depolama planlamasına yardımcı olur.',
       },
       {
         question: 'SUP programlarını yürütmek için tatil köyü personeline hangi eğitim gerekir?',
         answer:
-          'Afarer; ekipman kullanım prosedürleri, şişirme talimatları, temizlik yöntemleri, depolama kılavuzları, misafir güvenliği prosedürleri ve günlük operasyon kontrol listeleri dahil operasyonel rehberlik sağlar; böylece her çalışan programı profesyonelce yönetebilir.',
+          'OLagoon; ekipman kullanım prosedürleri, şişirme talimatları, temizlik yöntemleri, depolama kılavuzları, misafir güvenliği prosedürleri ve günlük operasyon kontrol listeleri dahil operasyonel rehberlik sağlar; böylece her çalışan programı profesyonelce yönetebilir.',
       },
       {
-        question: 'Günlük tatil köyü kullanımı için Afarer SUP tahtaları ne kadar dayanıklı?',
+        question: 'Günlük tatil köyü kullanımı için OLagoon SUP tahtaları ne kadar dayanıklı?',
         answer:
-          'Afarer tatil köyü SUP tahtaları; misafirlerin günlük kullanımına dayanacak ve premium görünüm ile performansı koruyacak şekilde tasarlanmış takviyeli PVC yapı, ticari sınıf bileşenler ve dayanıklı drop stitch yapılar içerir.',
+          'OLagoon tatil köyü SUP tahtaları; misafirlerin günlük kullanımına dayanacak ve premium görünüm ile performansı koruyacak şekilde tasarlanmış takviyeli PVC yapı, ticari sınıf bileşenler ve dayanıklı drop stitch yapılar içerir.',
       },
       {
         question: "SUP'ı diğer su aktiviteleriyle birlikte sunabilir miyiz?",
         answer:
-          'Evet, Afarer; eksiksiz bir tatil köyü su aktivitesi portföyü oluşturmak için su fitness ürünlerine, aile su ekipmanına ve diğer açık hava rekreasyon ürünlerine genişleme desteği sağlayabilir.',
+          'Evet, OLagoon; eksiksiz bir tatil köyü su aktivitesi portföyü oluşturmak için su fitness ürünlerine, aile su ekipmanına ve diğer açık hava rekreasyon ürünlerine genişleme desteği sağlayabilir.',
       },
     ],
     cta: {
-      title: 'Afarer ile Tatil Köyü Su Deneyiminizi Yaratın',
+      title: 'OLagoon ile Tatil Köyü Su Deneyiminizi Yaratın',
       subtitle:
-        'Destinasyonunuzun okyanusu zaten var. Şimdi üzerinde unutulmaz anlar yaratın. Afarer; lüks otellerin, ada tatil köylerinin ve wellness destinasyonlarının özel SUP filoları, markalı su aktiviteleri ve eksiksiz tatil köyü ekipman çözümleri kurmasına yardımcı olur.',
+        'Destinasyonunuzun okyanusu zaten var. Şimdi üzerinde unutulmaz anlar yaratın. OLagoon; lüks otellerin, ada tatil köylerinin ve wellness destinasyonlarının özel SUP filoları, markalı su aktiviteleri ve eksiksiz tatil köyü ekipman çözümleri kurmasına yardımcı olur.',
       primaryAction: {
         text: 'Tatil Köyü Su Aktivitesi Projenize Bugün Başlayın',
       },
@@ -5619,7 +5619,7 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Private Label SUP Üreticisi | Perakendeciler için OEM Paddle Board Tedarikçisi | {SITE}',
       description:
-        "Afarer, outdoor perakendecileri, spor ürün zincirleri ve küresel markalar için private label SUP üretim çözümleri sunar. Perakende ambalajlı, uygunluk desteği ve güvenilir OEM tedarikiyle özel paddle board'lar.",
+        "OLagoon, outdoor perakendecileri, spor ürün zincirleri ve küresel markalar için private label SUP üretim çözümleri sunar. Perakende ambalajlı, uygunluk desteği ve güvenilir OEM tedarikiyle özel paddle board'lar.",
     },
     hero: {
       tagline: 'Perakende Private Label Programı™',
@@ -5661,7 +5661,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Özel Private Label SUP Ürün Geliştirme',
           description:
-            'Afarer, perakendecilerin giriş seviyesi, orta segment lifestyle ve premium SUP koleksiyonlarında hedef müşterilere, fiyat konumlandırmasına, satış kanallarına ve pazar trendlerine dayalı ürünler geliştirmesine yardımcı olur.',
+            'OLagoon, perakendecilerin giriş seviyesi, orta segment lifestyle ve premium SUP koleksiyonlarında hedef müşterilere, fiyat konumlandırmasına, satış kanallarına ve pazar trendlerine dayalı ürünler geliştirmesine yardımcı olur.',
           features: [
             'Giriş Seviyesi SUP Koleksiyonu',
             'Orta Segment Lifestyle SUP Koleksiyonu',
@@ -5671,25 +5671,25 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Perakende Marj Optimizasyonu',
           description:
-            'Afarer, perakendecilerin hedef perakende fiyatıyla, müşteri beklentileriyle ve marj hedefleriyle eşleşmesi için üretim maliyet kontrolü ve ürün konfigürasyon ayarlamalarıyla ürün yapısını optimize etmesine yardımcı olur.',
+            'OLagoon, perakendecilerin hedef perakende fiyatıyla, müşteri beklentileriyle ve marj hedefleriyle eşleşmesi için üretim maliyet kontrolü ve ürün konfigürasyon ayarlamalarıyla ürün yapısını optimize etmesine yardımcı olur.',
           features: ['Üretim Maliyet Kontrolü', 'Ürün Konfigürasyon Optimizasyonu', 'Malzeme Seçimi'],
         },
         {
           title: 'Perakendeye Hazır Ambalaj Tasarımı',
           description:
-            'Afarer; renkli kutular ve ürün görselleriyle sergi ambalajı, Amazon ve Shopify için optimize edilmiş e-ticaret ambalajı ve marka hikayesi entegrasyonu dahil eksiksiz ambalaj çözümlerini destekler.',
+            'OLagoon; renkli kutular ve ürün görselleriyle sergi ambalajı, Amazon ve Shopify için optimize edilmiş e-ticaret ambalajı ve marka hikayesi entegrasyonu dahil eksiksiz ambalaj çözümlerini destekler.',
           features: ['Sergi Ambalajı', 'E-ticaret Ambalajı', 'Marka Hikayesi Entegrasyonu'],
         },
         {
           title: 'Uluslararası Kalite ve Uyumluluk Desteği',
           description:
-            'Afarer; malzeme uyumluluk bilgileri, ürün test desteği ve ithalat gereksinimlerinin yönetilmesine yardımcı olacak ihracat dokümantasyonu dahil kalite dokümantasyonuyla perakendecileri destekler.',
+            'OLagoon; malzeme uyumluluk bilgileri, ürün test desteği ve ithalat gereksinimlerinin yönetilmesine yardımcı olacak ihracat dokümantasyonu dahil kalite dokümantasyonuyla perakendecileri destekler.',
           features: ['Malzeme Uyumluluk Desteği', 'Ürün Test Desteği', 'İhracat Dokümantasyon Desteği'],
         },
         {
           title: 'Yüksek Hacimli OEM Üretimi',
           description:
-            'Afarer; 500–2.000 adetlik yeni ürün lansmanlarından 3.000–10.000 adetlik perakende genişlemesine ve yıllık tedarik anlaşmalı küresel perakende programlarına kadar farklı satın alma ölçeklerini destekler.',
+            'OLagoon; 500–2.000 adetlik yeni ürün lansmanlarından 3.000–10.000 adetlik perakende genişlemesine ve yıllık tedarik anlaşmalı küresel perakende programlarına kadar farklı satın alma ölçeklerini destekler.',
           features: [
             'Yeni Ürün Lansmanı (500–2.000 adet)',
             'Perakende Genişlemesi (3.000–10.000 adet)',
@@ -5699,24 +5699,24 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Sezonluk Tedarik Zinciri Planlaması',
           description:
-            'Afarer; ilkbahar/yaz talebine ve bölgesel pazarlara dayalı ürün planlamasının yanı sıra, perakendecilerin envanter zamanlamasını, depo planlamasını ve promosyon kampanyalarını yönetmesine yardımcı olacak üretim çizelgelemesini destekler.',
+            'OLagoon; ilkbahar/yaz talebine ve bölgesel pazarlara dayalı ürün planlamasının yanı sıra, perakendecilerin envanter zamanlamasını, depo planlamasını ve promosyon kampanyalarını yönetmesine yardımcı olacak üretim çizelgelemesini destekler.',
         },
         {
           title: 'ODM Ürün İnovasyon Desteği',
           description:
-            'Perakendecilerin farklılaşmaya ihtiyacı vardır. Afarer; özel tahta formaları, perakende marka kimliğiyle özel grafikler ve SUP paketleri ile eksiksiz outdoor kitleri dahil ürün demetlerini destekler.',
+            'Perakendecilerin farklılaşmaya ihtiyacı vardır. OLagoon; özel tahta formaları, perakende marka kimliğiyle özel grafikler ve SUP paketleri ile eksiksiz outdoor kitleri dahil ürün demetlerini destekler.',
           features: ['Özel Tahta Formaları', 'Özel Grafikler', 'Ürün Demetleri'],
         },
         {
           title: 'Çok Kanallı Perakende Desteği',
           description:
-            'Afarer; çekici ambalajlı fiziksel perakende mağazaları için, güçlü görselli e-ticaret platformları için ve stabil tedarik ile tutarlı spesifikasyonlu bayi ağları için ürünleri destekler.',
+            'OLagoon; çekici ambalajlı fiziksel perakende mağazaları için, güçlü görselli e-ticaret platformları için ve stabil tedarik ile tutarlı spesifikasyonlu bayi ağları için ürünleri destekler.',
           features: ['Fiziksel Perakende Mağazaları', 'E-ticaret Platformları', 'Bayi Ağları'],
         },
         {
           title: 'Kalite Kontrol ve Teslimat Güvenilirliği',
           description:
-            'Afarer, perakendecilerin güven sattığını bilir. Kalite sistemleri; üretim denetimi, sevkiyat öncesi denetim ve büyük siparişlerde aynı kaliteyi güvence altına alan parti tutarlılığı kontrolünü içerir.',
+            'OLagoon, perakendecilerin güven sattığını bilir. Kalite sistemleri; üretim denetimi, sevkiyat öncesi denetim ve büyük siparişlerde aynı kaliteyi güvence altına alan parti tutarlılığı kontrolünü içerir.',
           features: ['Üretim Denetimi', 'Sevkiyat Öncesi Denetim', 'Parti Tutarlılığı Kontrolü'],
         },
       ],
@@ -5733,7 +5733,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Ürün Hattı Planlaması',
           detail:
-            "Afarer, mevcut müşteri tabanına yönelik giriş seviyesi aile SUP'ı, touring SUP ve premium lifestyle SUP modellerini içeren bir Private Label SUP Koleksiyonu oluşturmaya yardımcı oldu.",
+            "OLagoon, mevcut müşteri tabanına yönelik giriş seviyesi aile SUP'ı, touring SUP ve premium lifestyle SUP modellerini içeren bir Private Label SUP Koleksiyonu oluşturmaya yardımcı oldu.",
         },
         {
           title: 'Ürün Özelleştirmesi',
@@ -5770,29 +5770,29 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Tedarik Kıyaslaması ve Ürün Spesifikasyon Çalıştayı',
               detail:
-                "Mart 2024'te Sarah'nın ekibi, 3 günlük bir ürün çalıştayı için Afarer'ın Shenzhen merkezine uçtu. Drop stitch yoğunluğu varyasyonları, kenar profilleri ve güverte pedi konfigürasyonları dahil 14 farklı SUP yapısını test ettiler. Afarer'ın mühendislik ekibi, Avustralya UV radyasyonu standartlarını karşılamak için 3 özel PVC formülasyonu oluşturdu. Rebel Sport, 6 SKU'ya bölünmüş 5.000 adetlik başlangıç MOQ taahhüdüyle 1,8 milyon AUD ön yatırımı onayladı: 2 all-round tahta, 2 touring forması, 1 yoga platformu ve 1 gençlik tahtası.",
+                "Mart 2024'te Sarah'nın ekibi, 3 günlük bir ürün çalıştayı için OLagoon'ın Shenzhen merkezine uçtu. Drop stitch yoğunluğu varyasyonları, kenar profilleri ve güverte pedi konfigürasyonları dahil 14 farklı SUP yapısını test ettiler. OLagoon'ın mühendislik ekibi, Avustralya UV radyasyonu standartlarını karşılamak için 3 özel PVC formülasyonu oluşturdu. Rebel Sport, 6 SKU'ya bölünmüş 5.000 adetlik başlangıç MOQ taahhüdüyle 1,8 milyon AUD ön yatırımı onayladı: 2 all-round tahta, 2 touring forması, 1 yoga platformu ve 1 gençlik tahtası.",
             },
             {
               title: 'Özel Markalaşma, Ambalaj ve Uyumluluk Mühendisliği',
               detail:
-                "Afarer'ın tasarım ekibi, Rebel Sport'ın “Coastal Force” marka kimliğini geliştirdi: özel güverte grafikleri, yalnızca Rebel'e özel renk seçenekleri ve raf etiketli stantlarla perakendeye hazır ambalaj. Uyumluluk ekibi AS/NZS 1900-2014 sertifikasını ve Avustralya Tüketici Yasası uyumluluğunu güvence altına aldı, ISTA 3A taşıma testlerini tamamladı. Afarer, 12 amiral mağazada mağaza içi test için Nisan 2024'te hava yüküyle gönderilen 200 ön üretim adedi üretti; sergilenen ürünlerin %87'si 2 hafta içinde 399 AUD tam perakende fiyatıyla satıldı.",
+                "OLagoon'ın tasarım ekibi, Rebel Sport'ın “Coastal Force” marka kimliğini geliştirdi: özel güverte grafikleri, yalnızca Rebel'e özel renk seçenekleri ve raf etiketli stantlarla perakendeye hazır ambalaj. Uyumluluk ekibi AS/NZS 1900-2014 sertifikasını ve Avustralya Tüketici Yasası uyumluluğunu güvence altına aldı, ISTA 3A taşıma testlerini tamamladı. OLagoon, 12 amiral mağazada mağaza içi test için Nisan 2024'te hava yüküyle gönderilen 200 ön üretim adedi üretti; sergilenen ürünlerin %87'si 2 hafta içinde 399 AUD tam perakende fiyatıyla satıldı.",
             },
             {
               title: 'Kademeli Envanter Dağıtımı ve Personel Eğitim Programı',
               detail:
-                "Afarer, 3 fazlı bir deniz yükü teslimat çizelgesini koordine etti: Faz 1 (1 Haziran'a kadar Sidney DC'ye 1.500 adet), Faz 2 (1 Temmuz'a kadar Melbourne ve Brisbane DC'lerine 2.000 adet), Faz 3 (1 Ağustos'a kadar Perth ve Adelaide DC'lerine 1.500 adet). Afarer'ın eğitim ekibi, Rebel'in bölüm müdürleri için ürün özellikleri, tahta yapısı farkları, aksesuar çapraz satışları ve müşterilerin doğru tahta seçimi sorularını kapsayan 24 sanal eğitmen eğitimi oturumu yürüttü. Her mağaza bir demo tahta ve satış noktası karşılaştırma kılavuzu aldı.",
+                "OLagoon, 3 fazlı bir deniz yükü teslimat çizelgesini koordine etti: Faz 1 (1 Haziran'a kadar Sidney DC'ye 1.500 adet), Faz 2 (1 Temmuz'a kadar Melbourne ve Brisbane DC'lerine 2.000 adet), Faz 3 (1 Ağustos'a kadar Perth ve Adelaide DC'lerine 1.500 adet). OLagoon'ın eğitim ekibi, Rebel'in bölüm müdürleri için ürün özellikleri, tahta yapısı farkları, aksesuar çapraz satışları ve müşterilerin doğru tahta seçimi sorularını kapsayan 24 sanal eğitmen eğitimi oturumu yürüttü. Her mağaza bir demo tahta ve satış noktası karşılaştırma kılavuzu aldı.",
             },
             {
               title: 'Lansman Kampanyası, Performans Takibi ve Yeniden Sipariş Optimizasyonu',
               detail:
-                "“Coastal Force” hattı, 15 Ağustos 2024'te mağaza içi tabelalar, katalog tanıtımları ve Avustralyalı kürek tahtası sporcularıyla influencer ortaklıkları içeren 500 bin AUD'lik bir pazarlama kampanyasıyla lansman edildi. Afarer'ın özel hesap ekibi, paylaşılan bir panel üzerinden haftalık satış hızı raporları sağladı. Kasım 2024 itibarıyla satış hızı oranı tüm SKU'larda ortalama %72'ye ulaştı; all-round 10'6″ model satışların %41'ini oluşturuyordu. Rebel, müşteri geri bildirimlerine dayanan 2 yeni touring modeli de dahil 2025 ilkbahar sezonu için 3.000 adetlik yeniden sipariş verdi.",
+                "“Coastal Force” hattı, 15 Ağustos 2024'te mağaza içi tabelalar, katalog tanıtımları ve Avustralyalı kürek tahtası sporcularıyla influencer ortaklıkları içeren 500 bin AUD'lik bir pazarlama kampanyasıyla lansman edildi. OLagoon'ın özel hesap ekibi, paylaşılan bir panel üzerinden haftalık satış hızı raporları sağladı. Kasım 2024 itibarıyla satış hızı oranı tüm SKU'larda ortalama %72'ye ulaştı; all-round 10'6″ model satışların %41'ini oluşturuyordu. Rebel, müşteri geri bildirimlerine dayanan 2 yeni touring modeli de dahil 2025 ilkbahar sezonu için 3.000 adetlik yeniden sipariş verdi.",
             },
           ],
           results: [
             '87 mağazada %62 satış hızı oranıyla ilk yılda 4,2 milyon AUD hedefinin %14 üzerinde 4,8 milyon AUD perakende satışı',
             "Üçüncü taraf markalardaki %32'lik marja kıyasla %55,3 brüt marj elde edildi; 1,1 milyon AUD ek kâr eklendi",
             'Lansmandan sonraki 10 ay içinde Avustralya 500 AUD altı SUP segmentinde %19,2 pazar payı ele geçirildi',
-            "Afarer'ın kalite kontrolü ve Avustralya sertifikalı yapısı sayesinde %3,2 müşteri iade oranı (sektör ortalaması %8–12)",
+            "OLagoon'ın kalite kontrolü ve Avustralya sertifikalı yapısı sayesinde %3,2 müşteri iade oranı (sektör ortalaması %8–12)",
           ],
         },
         {
@@ -5807,35 +5807,35 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Konsept Doğrulama ve Ürün Tasarım Sprinti',
               detail:
-                "Eylül 2024'te David liderliğindeki Macy's ürün geliştirme ekibi, 8 haftalık hızlı bir tasarım sprinti için Afarer ile çalıştı. Afarer'ın endüstriyel tasarımcıları, 3 all-round tahta (10', 11', 12') ve 1 touring tahtası dahil ayrıntılı spesifikasyonlu 8 konsept tahta oluşturdu. Macy's, münhasır “Boardwalk Reserve” markalaşması, kıyı esintili renk seçenekleri (Seafoam, Sandbar, Coral, Navy) ve 349–549 $ perakende fiyatlandırmasıyla 4 SKU seçti. Afarer 14 gün içinde özel 3D görselleştirmeler ve fiziksel maketler üretti; Macy's tüm hattı 15 Ekim 2024'te, 1,2 milyon $ toptan değerli 6.000 adetlik satın alma siparişiyle onayladı.",
+                "Eylül 2024'te David liderliğindeki Macy's ürün geliştirme ekibi, 8 haftalık hızlı bir tasarım sprinti için OLagoon ile çalıştı. OLagoon'ın endüstriyel tasarımcıları, 3 all-round tahta (10', 11', 12') ve 1 touring tahtası dahil ayrıntılı spesifikasyonlu 8 konsept tahta oluşturdu. Macy's, münhasır “Boardwalk Reserve” markalaşması, kıyı esintili renk seçenekleri (Seafoam, Sandbar, Coral, Navy) ve 349–549 $ perakende fiyatlandırmasıyla 4 SKU seçti. OLagoon 14 gün içinde özel 3D görselleştirmeler ve fiziksel maketler üretti; Macy's tüm hattı 15 Ekim 2024'te, 1,2 milyon $ toptan değerli 6.000 adetlik satın alma siparişiyle onayladı.",
             },
             {
               title: 'Tedarik Zinciri Entegrasyonu ve Uyumluluk Hazırlığı',
               detail:
-                "Afarer'ın tedarik zinciri ekibi, tüm ABD CPSC güvenlik standartlarını, ASTM F3340-18 sertifikasını ve Kaliforniya Prop 65 gereksinimlerini karşılamak için Macy's uyumluluk departmanıyla çalıştı. Ambalaj; EAS etiketleri, video kurulum kılavuzlarına bağlanan QR kodları ve Macy's dağıtım merkezi yerleşimi için optimize edilmiş kompakt kutu boyutlarıyla (36×16×12 inç) rafa hazır gereksinimlere göre tasarlandı. Afarer, Kasım 2024'te 500 ön satış adedi üretti ve Macy's'in 20 mağaza testi ile çevrim içi fotoğrafçılığı için hava yoluyla gönderdi. Her test mağazası, tatil sezonunda 399 $ perakende fiyatıyla haftada ortalama 14 adet sattı.",
+                "OLagoon'ın tedarik zinciri ekibi, tüm ABD CPSC güvenlik standartlarını, ASTM F3340-18 sertifikasını ve Kaliforniya Prop 65 gereksinimlerini karşılamak için Macy's uyumluluk departmanıyla çalıştı. Ambalaj; EAS etiketleri, video kurulum kılavuzlarına bağlanan QR kodları ve Macy's dağıtım merkezi yerleşimi için optimize edilmiş kompakt kutu boyutlarıyla (36×16×12 inç) rafa hazır gereksinimlere göre tasarlandı. OLagoon, Kasım 2024'te 500 ön satış adedi üretti ve Macy's'in 20 mağaza testi ile çevrim içi fotoğrafçılığı için hava yoluyla gönderdi. Her test mağazası, tatil sezonunda 399 $ perakende fiyatıyla haftada ortalama 14 adet sattı.",
             },
             {
               title: 'Çok Kanallı Lansman Uygulaması ve Mağaza İçi Deneyim',
               detail:
-                "5.500 adetlik ana deniz yükü sevkiyatı 1 Şubat 2025'te Macy's'in Robbinsville, New Jersey'deki dağıtım merkezine ulaştı. Afarer, entegre tahta depolama ve aksesuar bölmeleriyle 340 gerçek boyutlu sergi standı sağladı. Afarer eğitim ekibi, Macy's'in 8.500 sezonluk çalışanı için ürün bilgisi ile pompa, kürek ve can yelekleri çapraz satış tekniklerini kapsayan 12 dakikalık bir video modülü hazırladı. Koleksiyon 1 Mart 2025'te macys.com'da ve 15 Mart'a kadar 340 mağazanın tamamında lansman edildi; en yüksek hacimli 50 lokasyonda münhasır “Boardwalk Reserve” shop-in-shop deneyimi sunuldu.",
+                "5.500 adetlik ana deniz yükü sevkiyatı 1 Şubat 2025'te Macy's'in Robbinsville, New Jersey'deki dağıtım merkezine ulaştı. OLagoon, entegre tahta depolama ve aksesuar bölmeleriyle 340 gerçek boyutlu sergi standı sağladı. OLagoon eğitim ekibi, Macy's'in 8.500 sezonluk çalışanı için ürün bilgisi ile pompa, kürek ve can yelekleri çapraz satış tekniklerini kapsayan 12 dakikalık bir video modülü hazırladı. Koleksiyon 1 Mart 2025'te macys.com'da ve 15 Mart'a kadar 340 mağazanın tamamında lansman edildi; en yüksek hacimli 50 lokasyonda münhasır “Boardwalk Reserve” shop-in-shop deneyimi sunuldu.",
             },
             {
               title: 'Performans Analitiği ve Sezonluk Tazeleme',
               detail:
-                "Mayıs 2025 itibarıyla satış hızı %58'e ulaştı; en iyi performans gösteren ürün Seafoam 11' all-round tahtaydı (satışların %36'sı). Çevrim içi dönüşüm oranı %4,2 oldu ve Macy's'in spor malzemesi kategori ortalaması olan %2,1'in belirgin şekilde üzerine çıktı. Afarer'ın gerçek zamanlı envanter paneli, mağaza stoğu 6 adedin altına düştüğünde tazeleme siparişlerinin otomatik tetiklenmesini sağladı. Program, %62 marjla 2,1 milyon $ aksesuar satışı (kürek, pompa, çanta, can yeleği) yarattı. Macy's, 2 yeni kar/sörf temalı renk seçeneğiyle 2025 tatil sezonu için 4.000 adetlik yeniden sipariş opsiyonunu kullandı.",
+                "Mayıs 2025 itibarıyla satış hızı %58'e ulaştı; en iyi performans gösteren ürün Seafoam 11' all-round tahtaydı (satışların %36'sı). Çevrim içi dönüşüm oranı %4,2 oldu ve Macy's'in spor malzemesi kategori ortalaması olan %2,1'in belirgin şekilde üzerine çıktı. OLagoon'ın gerçek zamanlı envanter paneli, mağaza stoğu 6 adedin altına düştüğünde tazeleme siparişlerinin otomatik tetiklenmesini sağladı. Program, %62 marjla 2,1 milyon $ aksesuar satışı (kürek, pompa, çanta, can yeleği) yarattı. Macy's, 2 yeni kar/sörf temalı renk seçeneğiyle 2025 tatil sezonu için 4.000 adetlik yeniden sipariş opsiyonunu kullandı.",
             },
           ],
           results: [
             'İlk 7 ayda 340 mağaza ve macys.com genelinde toplam 4,1 milyon $ GMV — 3,5 milyon $ hedefinin %17 üzerinde',
             "Karşılaştırılabilir üçüncü taraf markalı outdoor ekipmanındaki %38'e kıyasla %53 başlangıç kâr marjı; 1,6 milyon $ brüt kâr katkısı",
             '%4,2 çevrim içi dönüşüm oranı ve %11,7 aksesuar ek satış oranı; yüksek marjlı ek satışlarla 2,1 milyon $ ek gelir',
-            "Afarer'ın fabrikadan dağıtım merkezine tedarik zincirinde %98,4 zamanında teslimat oranı; zirve Mart–Mayıs satış sezonunda sıfır stok tükenmesi",
+            "OLagoon'ın fabrikadan dağıtım merkezine tedarik zincirinde %98,4 zamanında teslimat oranı; zirve Mart–Mayıs satış sezonunda sıfır stok tükenmesi",
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: "Perakende Alıcıları Neden Afarer'ı Seçiyor",
+    whyOLagoon: {
+      title: "Perakende Alıcıları Neden OLagoon'ı Seçiyor",
       items: [
         {
           title: 'Ürün Geliştirme',
@@ -5870,37 +5870,37 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Private label SUP programı nedir ve outdoor perakendecileri için nasıl çalışır?',
         answer:
-          'Private label SUP programı, outdoor perakendecilerinin kürek tahtalarını kendi marka adları altında üretmesini ve satmasını sağlar. Afarer; ürün geliştirme, üretim, sertifikasyon desteği, ambalaj tasarımı ve toplu tedarik dahil tüm OEM/ODM sürecini yönetir. Perakendeciler, fabrika ekipmanına veya şişme üretim uzmanlığına yatırım yapmadan özel SUP koleksiyonları başlatabilir.',
+          'Private label SUP programı, outdoor perakendecilerinin kürek tahtalarını kendi marka adları altında üretmesini ve satmasını sağlar. OLagoon; ürün geliştirme, üretim, sertifikasyon desteği, ambalaj tasarımı ve toplu tedarik dahil tüm OEM/ODM sürecini yönetir. Perakendeciler, fabrika ekipmanına veya şişme üretim uzmanlığına yatırım yapmadan özel SUP koleksiyonları başlatabilir.',
       },
       {
         question:
           'Perakendeciler private label SUP ürünlerinin uluslararası güvenlik standartlarını karşıladığını nasıl garanti eder?',
         answer:
-          'Afarer; CE ve REACH gereksinimleri, malzeme güvenliği verileri, ürün test raporları ve kalite denetim kayıtları dahil kapsamlı uyumluluk dokümantasyonuyla perakendecileri destekler. Bu, private label SUP ürünlerinin Avrupa, Kuzey Amerika ve diğer uluslararası pazarlar için mevzuat standartlarını karşılamasını sağlar.',
+          'OLagoon; CE ve REACH gereksinimleri, malzeme güvenliği verileri, ürün test raporları ve kalite denetim kayıtları dahil kapsamlı uyumluluk dokümantasyonuyla perakendecileri destekler. Bu, private label SUP ürünlerinin Avrupa, Kuzey Amerika ve diğer uluslararası pazarlar için mevzuat standartlarını karşılamasını sağlar.',
       },
       {
         question: 'Özel SUP üretimi için tipik olarak hangi asgari sipariş adetleri gerekir?',
         answer:
-          'Afarer farklı ölçekleri karşılar. Yeni ürün lansmanları ve pazar testleri genellikle 500–2.000 adetle başlar. Perakende genişleme siparişleri 3.000–10.000 adet aralığındadır. Yıllık tedarik anlaşmalı büyük küresel perakende programları, birden fazla modelde on binlerce adede ölçeklenebilir.',
+          'OLagoon farklı ölçekleri karşılar. Yeni ürün lansmanları ve pazar testleri genellikle 500–2.000 adetle başlar. Perakende genişleme siparişleri 3.000–10.000 adet aralığındadır. Yıllık tedarik anlaşmalı büyük küresel perakende programları, birden fazla modelde on binlerce adede ölçeklenebilir.',
       },
       {
         question: 'Bir private label SUP ürün hattının geliştirilmesi ve lansmanı ne kadar sürer?',
         answer:
-          "Süre, özelleştirme karmaşıklığına bağlıdır. Afarer'ın ürün konseptinden rafa hazır teslimata kadar kolaylaştırılmış süreci; ürün planlaması, tasarım onayı, prototip geliştirme, sertifikasyon desteği, üretim ve nakliye dahil tipik olarak 8–16 hafta sürer. İlkbahar/yaz talep döngüleriyle hizalanmak için sezonluk planlama önerilir.",
+          "Süre, özelleştirme karmaşıklığına bağlıdır. OLagoon'ın ürün konseptinden rafa hazır teslimata kadar kolaylaştırılmış süreci; ürün planlaması, tasarım onayı, prototip geliştirme, sertifikasyon desteği, üretim ve nakliye dahil tipik olarak 8–16 hafta sürer. İlkbahar/yaz talep döngüleriyle hizalanmak için sezonluk planlama önerilir.",
       },
       {
         question: 'Perakendeciler SUP ambalajını marka kimliklerine uyacak şekilde özelleştirebilir mi?',
         answer:
-          'Evet, Afarer; markalı renkli kutular, ürün görselleri, öne çıkan özellikler ve marka mesajları dahil eksiksiz ambalaj özelleştirmesini destekler. Fiziksel perakende rafları ve Amazon ile Shopify gibi e-ticaret platformları için ambalaj seçenekleri; ürün fotoğrafçılığı ve bilgi yapısı rehberliğiyle birlikte sunulur.',
+          'Evet, OLagoon; markalı renkli kutular, ürün görselleri, öne çıkan özellikler ve marka mesajları dahil eksiksiz ambalaj özelleştirmesini destekler. Fiziksel perakende rafları ve Amazon ile Shopify gibi e-ticaret platformları için ambalaj seçenekleri; ürün fotoğrafçılığı ve bilgi yapısı rehberliğiyle birlikte sunulur.',
       },
       {
-        question: 'Afarer sezonluk talep planlaması için hangi desteği sağlar?',
+        question: 'OLagoon sezonluk talep planlaması için hangi desteği sağlar?',
         answer:
-          'Afarer; koordine edilmiş üretim çizelgelemesi, envanter zamanlaması, depo planlaması ve promosyon kampanyası hizalamasıyla perakendecilerin sezonluk outdoor ürün talebini yönetmesine yardımcı olur. Yıllık tedarik anlaşmaları, öngörülebilir teslim süreleri ve zirve sezonlarda garanti edilen üretim kapasitesi sağlar.',
+          'OLagoon; koordine edilmiş üretim çizelgelemesi, envanter zamanlaması, depo planlaması ve promosyon kampanyası hizalamasıyla perakendecilerin sezonluk outdoor ürün talebini yönetmesine yardımcı olur. Yıllık tedarik anlaşmaları, öngörülebilir teslim süreleri ve zirve sezonlarda garanti edilen üretim kapasitesi sağlar.',
       },
     ],
     cta: {
-      title: 'Afarer ile Private Label SUP Koleksiyonunuzu Kurun',
+      title: 'OLagoon ile Private Label SUP Koleksiyonunuzu Kurun',
       subtitle: 'Müşterileriniz zaten outdoor ürünleri satın alıyor. Şimdi kendi su sporları kategorinizi yaratın.',
       primaryAction: {
         text: 'Perakende Private Label Projenize Bugün Başlayın',
@@ -5922,9 +5922,9 @@ const tr: Record<string, SolutionOverride> = {
       title:
         'Su Sporları Okulları, Gençlik Programları ve Açık Hava Eğitimi Kuruluşları için Profesyonel SUP Ekipman Çözümleri',
       subtitle:
-        "Afarer, profesyonel öğretim ortamları için geliştirilmiş eksiksiz bir ekipman çözümü olan SUP Akademi Ekipman Programı'nı sunar. SUP okullarının, gençlik eğitim merkezlerinin, yaz kamplarının ve açık hava eğitim şirketlerinin; yeni başlayan dostu tahtalar, çocuk modelleri ve eğitmen ekipmanıyla güvenilir eğitim filoları kurmasına yardımcı oluruz.",
+        "OLagoon, profesyonel öğretim ortamları için geliştirilmiş eksiksiz bir ekipman çözümü olan SUP Akademi Ekipman Programı'nı sunar. SUP okullarının, gençlik eğitim merkezlerinin, yaz kamplarının ve açık hava eğitim şirketlerinin; yeni başlayan dostu tahtalar, çocuk modelleri ve eğitmen ekipmanıyla güvenilir eğitim filoları kurmasına yardımcı oluruz.",
       image: {
-        alt: 'Eğitim okulları ve gençlik programları için Afarer SUP akademi ekipmanı',
+        alt: 'Eğitim okulları ve gençlik programları için OLagoon SUP akademi ekipmanı',
       },
     },
     challenge: {
@@ -5958,7 +5958,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Yeni Başlayan Eğitim SUP Tahtaları',
           description:
-            'Afarer, öğrenme ortamları için özel olarak kararlı SUP tahtaları geliştirir: kolay denge için yüksek kararlılıklı platform tasarımı, daha iyi su üstünde kalma desteği için yüksek yüzücülük yapısı ve yavaş hızda kontrol ile kolay dönüş için all-round yeni başlayan formaları.',
+            'OLagoon, öğrenme ortamları için özel olarak kararlı SUP tahtaları geliştirir: kolay denge için yüksek kararlılıklı platform tasarımı, daha iyi su üstünde kalma desteği için yüksek yüzücülük yapısı ve yavaş hızda kontrol ile kolay dönüş için all-round yeni başlayan formaları.',
           features: [
             'Yüksek kararlılıklı platform tasarımı',
             'Yüksek yüzücülük yapısı',
@@ -5969,7 +5969,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Çocuk SUP Programı',
           description:
-            'Çocuklar, boyutlarına ve yeteneklerine göre tasarlanmış ekipmana ihtiyaç duyar. Afarer; okul programları, yaz kampları, gençlik kursları ve aile aktiviteleri için uygun uzunlukta, hafif kullanımlı, kararlı formalı ve çocuk dostu görünümlü çocuk SUP tahtaları sunar.',
+            'Çocuklar, boyutlarına ve yeteneklerine göre tasarlanmış ekipmana ihtiyaç duyar. OLagoon; okul programları, yaz kampları, gençlik kursları ve aile aktiviteleri için uygun uzunlukta, hafif kullanımlı, kararlı formalı ve çocuk dostu görünümlü çocuk SUP tahtaları sunar.',
           features: [
             'Çocuk SUP tahtası tasarımı',
             'Gençlik eğitim uygulamaları',
@@ -5985,12 +5985,12 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Eksiksiz SUP Akademi Filo Paketi',
           description:
-            'Afarer; yeni başlayan tahtaları ve ayarlanabilir kürekleriyle öğrenci ekipmanı, premium SUP tahtalarıyla eğitmen ekipmanı ve sorunsuz günlük operasyon için tamir kitleri ile yedek aksesuarlar içeren bakım ekipmanı dahil, akademilerin eksiksiz ekipman sistemleri kurmasına yardımcı olur.',
+            'OLagoon; yeni başlayan tahtaları ve ayarlanabilir kürekleriyle öğrenci ekipmanı, premium SUP tahtalarıyla eğitmen ekipmanı ve sorunsuz günlük operasyon için tamir kitleri ile yedek aksesuarlar içeren bakım ekipmanı dahil, akademilerin eksiksiz ekipman sistemleri kurmasına yardımcı olur.',
         },
         {
           title: 'Günlük Öğretim için Ticari Dayanıklılık',
           description:
-            'Eğitim ekipmanı daha güçlü yapı gerektirir. Afarer; daha iyi aşınma direnci için takviyeli PVC malzemelere, tahta sertliği için dayanıklı drop stitch yapıya ve kıyı çarpması ile taşıma hasarına karşı koruyan takviyeli kenarlara odaklanır.',
+            'Eğitim ekipmanı daha güçlü yapı gerektirir. OLagoon; daha iyi aşınma direnci için takviyeli PVC malzemelere, tahta sertliği için dayanıklı drop stitch yapıya ve kıyı çarpması ile taşıma hasarına karşı koruyan takviyeli kenarlara odaklanır.',
           features: [
             'Takviyeli PVC malzemeler',
             'Dayanıklı drop stitch yapı',
@@ -6001,22 +6001,22 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Akademi Filo Yönetimi Desteği',
           description:
-            'Büyük eğitim programları organizasyon gerektirir. Afarer; eğitmen eğitimini kolaylaştıran standartlaştırılmış filo konfigürasyonunu, tahta numaralandırması ve akademi logolarıyla ekipman tanımlamayı ve yedek kürekler ile tamir malzemeleri içeren yedek parça planlamasını destekler.',
+            'Büyük eğitim programları organizasyon gerektirir. OLagoon; eğitmen eğitimini kolaylaştıran standartlaştırılmış filo konfigürasyonunu, tahta numaralandırması ve akademi logolarıyla ekipman tanımlamayı ve yedek kürekler ile tamir malzemeleri içeren yedek parça planlamasını destekler.',
         },
         {
           title: 'Yaz Kampı ve Gençlik Programı Çözümleri',
           description:
-            'SUP, yaz kamplarında ve gençlik macera programlarında popülerleşiyor. Afarer; öğrenci yaşı ve grup büyüklüğünü göz önünde bulunduran kamp filosu tasarımını, birden fazla özdeş tahtayla grup aktivitesi ekipmanını ve yaz programları ile tatil aktiviteleri için sezonluk operasyon planlamasını destekler.',
+            'SUP, yaz kamplarında ve gençlik macera programlarında popülerleşiyor. OLagoon; öğrenci yaşı ve grup büyüklüğünü göz önünde bulunduran kamp filosu tasarımını, birden fazla özdeş tahtayla grup aktivitesi ekipmanını ve yaz programları ile tatil aktiviteleri için sezonluk operasyon planlamasını destekler.',
         },
         {
           title: 'Güvenlik ve Bakım Desteği',
           description:
-            'Afarer; dersten önce hava basıncı, yüzey ve aksesuar kontrollerini kapsayan ekipman denetim kılavuzlarının yanı sıra dersten sonra temizlik, kurutma ve depolama prosedürleri ile temel tamir rehberliği dahil, günlük operasyon için pratik rehberlik sağlar.',
+            'OLagoon; dersten önce hava basıncı, yüzey ve aksesuar kontrollerini kapsayan ekipman denetim kılavuzlarının yanı sıra dersten sonra temizlik, kurutma ve depolama prosedürleri ile temel tamir rehberliği dahil, günlük operasyon için pratik rehberlik sağlar.',
         },
         {
           title: 'Özel Akademi Markalaşması',
           description:
-            'Afarer; markalı tahtalar ve eğitmen ekipmanı yoluyla daha güçlü marka bilinirliği, daha profesyonel dersler ve daha iyi öğrenci deneyimi yaratan akademi logosu özelleştirmesini, renk uyumunu ve profesyonel görünümü destekler.',
+            'OLagoon; markalı tahtalar ve eğitmen ekipmanı yoluyla daha güçlü marka bilinirliği, daha profesyonel dersler ve daha iyi öğrenci deneyimi yaratan akademi logosu özelleştirmesini, renk uyumunu ve profesyonel görünümü destekler.',
         },
       ],
     },
@@ -6030,7 +6030,7 @@ const tr: Record<string, SolutionOverride> = {
         {
           title: 'Eğitim Programı Analizi',
           detail:
-            'Afarer; öğrenci yaş gruplarını, öğretim yöntemlerini ve kullanım sıklığını inceleyerek akademinin yeni başlayan, gençlik ve eğitmen ekipmanına ilişkin özel gereksinimlerini anladı.',
+            'OLagoon; öğrenci yaş gruplarını, öğretim yöntemlerini ve kullanım sıklığını inceleyerek akademinin yeni başlayan, gençlik ve eğitmen ekipmanına ilişkin özel gereksinimlerini anladı.',
         },
         {
           title: 'Filo Geliştirme',
@@ -6061,29 +6061,29 @@ const tr: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Japonya',
             background:
-              "44 yaşındaki Kenji Nakamura, eski bir Olimpiyat kano slalom bronz madalyası sahibi (Atina 2004) ve 6 kez Japonya ulusal şampiyonudur. Yarışmalardan emekli olduktan sonra SUP ile 2018'de tanışana kadar 8 yıl Japonya'nın gençlik kano takımını çalıştırdı. Sporun 2024 Paris Olimpiyatları'nda yer almasına rağmen Japonya'da hiçbir gençlik SUP programının olmadığını gördü. 2023'te, Kamakura şehrini (173.000 nüfuslu, Tokyo'nun 50 km güneyindeki sahil şehri) tarihi Yuigahama Plajı'nı eğitim mekanı olarak kullanmaya ikna etti. Afarer'dan eksiksiz bir akademi ekipman paketi sağlamasını istedi: gençlik tahtaları, antrenman materyalleri ve Japon okullarının kabul edeceği bir yol haritası programı.",
+              "44 yaşındaki Kenji Nakamura, eski bir Olimpiyat kano slalom bronz madalyası sahibi (Atina 2004) ve 6 kez Japonya ulusal şampiyonudur. Yarışmalardan emekli olduktan sonra SUP ile 2018'de tanışana kadar 8 yıl Japonya'nın gençlik kano takımını çalıştırdı. Sporun 2024 Paris Olimpiyatları'nda yer almasına rağmen Japonya'da hiçbir gençlik SUP programının olmadığını gördü. 2023'te, Kamakura şehrini (173.000 nüfuslu, Tokyo'nun 50 km güneyindeki sahil şehri) tarihi Yuigahama Plajı'nı eğitim mekanı olarak kullanmaya ikna etti. OLagoon'dan eksiksiz bir akademi ekipman paketi sağlamasını istedi: gençlik tahtaları, antrenman materyalleri ve Japon okullarının kabul edeceği bir yol haritası programı.",
             goal: "Nisan 2024'te 40 genç öğrenciyle (10–18 yaş), 3 kademeli (Bronz/Gümüş/Altın) bir sertifikasyon sistemiyle ve Japonya ulusal SUP takımına giden bir yolla “Kamakura SUP Akademisi”ni başlatmak — ilk 2 yıl için ekipman maliyeti 8 milyon ¥ (53.000 $) altında.",
           },
           steps: [
             {
               title: 'Japon Okul Spor Standartlarıyla Gençlik Tahtası Geliştirme',
               detail:
-                "Ekim 2023'te Afarer'ın ürün geliştirme direktörü Yuki Tanaka (Afarer'ın Osaka ofisinden), Kenji ile Asya gençlik fizyolojisine özel bir tahta olan “Academy Junior 10.0”ı tasarladı (ortalama 12 yaşındaki bir Japon öğrenci: 150 cm, 42 kg). Temel özellikler: 10'0″ × 30″ × 4,5″ (152 L hacim), ağırlık 6,8 kg (öğrencilerin taşıyabileceği kadar hafif), yumuşak EVA kenarlar (düşmeler sırasında yaralanma riskini azaltır) ve küçük ellere özel kalıplanmış saplı kısa 120 cm'lik bir fiberglas kürek. Afarer, Japonya'nın ulusal renklerinde (kırmızı gün doğusu çemberli beyaz) 40 tahta ve 20 yedek tahta üretti. Her tahtada Kenji'nin teknik videolarına bağlanan bir QR kod vardı — öğrenciler antrenmandan önce tarıyordu.",
+                "Ekim 2023'te OLagoon'ın ürün geliştirme direktörü Yuki Tanaka (OLagoon'ın Osaka ofisinden), Kenji ile Asya gençlik fizyolojisine özel bir tahta olan “Academy Junior 10.0”ı tasarladı (ortalama 12 yaşındaki bir Japon öğrenci: 150 cm, 42 kg). Temel özellikler: 10'0″ × 30″ × 4,5″ (152 L hacim), ağırlık 6,8 kg (öğrencilerin taşıyabileceği kadar hafif), yumuşak EVA kenarlar (düşmeler sırasında yaralanma riskini azaltır) ve küçük ellere özel kalıplanmış saplı kısa 120 cm'lik bir fiberglas kürek. OLagoon, Japonya'nın ulusal renklerinde (kırmızı gün doğusu çemberli beyaz) 40 tahta ve 20 yedek tahta üretti. Her tahtada Kenji'nin teknik videolarına bağlanan bir QR kod vardı — öğrenciler antrenmandan önce tarıyordu.",
             },
             {
               title: '3 Kademeli Sertifikasyon Müfredatı ve Güvenlik Protokolleri',
               detail:
-                "Afarer'ın antrenman danışmanı Dave Kalama (Hawaii'den video görüşmeleriyle), müfredat konusunda Kenji ile iş birliği yaptı. Bronz (10 seans): durgun su dengesi, temel ileri kürek çekişi, öz kurtarma. Gümüş (20 seans): 2 km'lik süreli kürek, pivot dönüş, rüzgar farkındalığı. Altın (40 seans): 5 km'lik okyanus küreği, sörf bölgesine giriş/çıkış, yarış taktikleri ve temel antrenörlük. Kenji güvenlikte ısrar etti: Afarer, 50 adet Tip V can yeleği (Japonya sertifikalı, yansıtıcı şeritli neon turuncu), 50 kayış seti (sarılmış, hızlı açılır) ve su geçirmez bir olay bildirim tableti sağladı. Akademinin “Önce Güvenlik” protokolü, herhangi bir öğrencinin 30 saniye içinde bir kurtarma tahtası ve ilk yardım çantasına erişebilmesini gerektiren 4:1 öğrenci-antrenör oranı şart koşuyordu.",
+                "OLagoon'ın antrenman danışmanı Dave Kalama (Hawaii'den video görüşmeleriyle), müfredat konusunda Kenji ile iş birliği yaptı. Bronz (10 seans): durgun su dengesi, temel ileri kürek çekişi, öz kurtarma. Gümüş (20 seans): 2 km'lik süreli kürek, pivot dönüş, rüzgar farkındalığı. Altın (40 seans): 5 km'lik okyanus küreği, sörf bölgesine giriş/çıkış, yarış taktikleri ve temel antrenörlük. Kenji güvenlikte ısrar etti: OLagoon, 50 adet Tip V can yeleği (Japonya sertifikalı, yansıtıcı şeritli neon turuncu), 50 kayış seti (sarılmış, hızlı açılır) ve su geçirmez bir olay bildirim tableti sağladı. Akademinin “Önce Güvenlik” protokolü, herhangi bir öğrencinin 30 saniye içinde bir kurtarma tahtası ve ilk yardım çantasına erişebilmesini gerektiren 4:1 öğrenci-antrenör oranı şart koşuyordu.",
             },
             {
               title: 'Belediye Meclisi Onayı ve Okul Entegrasyon Programı',
               detail:
-                "Afarer'ın Japonya ülke müdürü Hiroshi Abe, Kenji'ye Kamakura şehrinin izin sürecinde yol gösterdi. Bu şunları gerektirdi: sorumluluk sigortası (100 milyon ¥ teminat), sahil bölgesi sınırlandırması (200×50 m'lik eğitim alanını işaretleyen renkli şamandıralar — yüzücülerle çakışma yok), gürültü sınırları (17.00'den sonra düdük yok) ve bir atık yönetim planı. Afarer, iki dilli Japonca/İngilizce güvenlik kılavuzları ve olay takip formları üretti. Kenji, 3 yerel ortaokulla (Kamakura Daiichi, Koshigoe ve Hase) anlaşma imzalayarak SUP'ı resmi bir okul sonrası kulüp olarak sundu — Japonya'da bir ilk. Her okul program için öğrenci başına dönemde 36.000 ¥ ödedi; şehir, düşük gelirli aileler için %40 sübvansiyon sağladı.",
+                "OLagoon'ın Japonya ülke müdürü Hiroshi Abe, Kenji'ye Kamakura şehrinin izin sürecinde yol gösterdi. Bu şunları gerektirdi: sorumluluk sigortası (100 milyon ¥ teminat), sahil bölgesi sınırlandırması (200×50 m'lik eğitim alanını işaretleyen renkli şamandıralar — yüzücülerle çakışma yok), gürültü sınırları (17.00'den sonra düdük yok) ve bir atık yönetim planı. OLagoon, iki dilli Japonca/İngilizce güvenlik kılavuzları ve olay takip formları üretti. Kenji, 3 yerel ortaokulla (Kamakura Daiichi, Koshigoe ve Hase) anlaşma imzalayarak SUP'ı resmi bir okul sonrası kulüp olarak sundu — Japonya'da bir ilk. Her okul program için öğrenci başına dönemde 36.000 ¥ ödedi; şehir, düşük gelirli aileler için %40 sübvansiyon sağladı.",
             },
             {
               title: 'Nisan 2024 Lansmanı ve 12 Aylık Performans',
               detail:
-                "Kamakura SUP Akademisi 6 Nisan 2024'te, Kenji'nin 40 kişilik hedefini aşan 43 öğrenciyle açıldı. Mart 2025'e gelindiğinde kayıt sayısı 87 öğrenciye ulaştı (%127 kapasite). İki öğrenci (16 yaşındaki Sora Yamamoto ve 15 yaşındaki Mei Taniguchi) Japonya'nın gençlik ulusal SUP takımına seçildi ve Kopenhag'daki 2024 ISA Dünya SUP Şampiyonası'nda yarıştı. Kenji'nin Altın sertifikası, ulusal antrenör sertifikasına sayılması yönünden Japonya Kano Federasyonu tarafından tanındı. Ekipman arıza oranı: 2 tahta küçük valf onarımları gerektirdi (Afarer'ın Osaka servis merkezi tarafından 24 saat içinde onarıldı). Afarer ve Kenji, ileri düzey öğrenciler için bir “Academy Pro” 12,6 tahtası geliştirmek ve 2027'ye kadar 5 ek sahil şehrine genişlemek için 3 yıllık bir ortaklık imzaladı.",
+                "Kamakura SUP Akademisi 6 Nisan 2024'te, Kenji'nin 40 kişilik hedefini aşan 43 öğrenciyle açıldı. Mart 2025'e gelindiğinde kayıt sayısı 87 öğrenciye ulaştı (%127 kapasite). İki öğrenci (16 yaşındaki Sora Yamamoto ve 15 yaşındaki Mei Taniguchi) Japonya'nın gençlik ulusal SUP takımına seçildi ve Kopenhag'daki 2024 ISA Dünya SUP Şampiyonası'nda yarıştı. Kenji'nin Altın sertifikası, ulusal antrenör sertifikasına sayılması yönünden Japonya Kano Federasyonu tarafından tanındı. Ekipman arıza oranı: 2 tahta küçük valf onarımları gerektirdi (OLagoon'ın Osaka servis merkezi tarafından 24 saat içinde onarıldı). OLagoon ve Kenji, ileri düzey öğrenciler için bir “Academy Pro” 12,6 tahtası geliştirmek ve 2027'ye kadar 5 ek sahil şehrine genişlemek için 3 yıllık bir ortaklık imzaladı.",
             },
           ],
           results: [
@@ -6098,29 +6098,29 @@ const tr: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Avustralya',
             background:
-              "38 yaşındaki Kylie Brennan, 2019'dan beri Gold Coast'taki Tallebudgera Creek'te 5 kişilik bir işletme olan “Kylie's Paddle School”u işleten eski bir Avustralyalı Ironwoman'dır (rekabetçi sörf cankurtaranlık). 2023 itibarıyla yılda 350 öğrencisi vardı ama ekipmanını ölçekleyemediği için taleplerin %60'ını geri çeviriyordu. 20 karma marka tahtası yıpranmıştı, öğrencileri 6 yaşından 72 yaşına kadar değişiyordu ve sigortası, kârlılığı sınırlayan 4:1 öğrenci-antrenör oranı gerektiriyordu. 2023 Sydney SUP Fuarı'nda Afarer'a başvurdu; yaş/boyuta özel tahtalar, kürekler, can yelekleri, müfredat materyalleri ve ekipman tahsisiyle entegre bir rezervasyon sistemi içeren eksiksiz bir “hazır akademi” çözümüne ihtiyacı vardı.",
+              "38 yaşındaki Kylie Brennan, 2019'dan beri Gold Coast'taki Tallebudgera Creek'te 5 kişilik bir işletme olan “Kylie's Paddle School”u işleten eski bir Avustralyalı Ironwoman'dır (rekabetçi sörf cankurtaranlık). 2023 itibarıyla yılda 350 öğrencisi vardı ama ekipmanını ölçekleyemediği için taleplerin %60'ını geri çeviriyordu. 20 karma marka tahtası yıpranmıştı, öğrencileri 6 yaşından 72 yaşına kadar değişiyordu ve sigortası, kârlılığı sınırlayan 4:1 öğrenci-antrenör oranı gerektiriyordu. 2023 Sydney SUP Fuarı'nda OLagoon'a başvurdu; yaş/boyuta özel tahtalar, kürekler, can yelekleri, müfredat materyalleri ve ekipman tahsisiyle entegre bir rezervasyon sistemi içeren eksiksiz bir “hazır akademi” çözümüne ihtiyacı vardı.",
             goal: "Eylül 2024'te kişi başı 499 AUD'den yapılandırılmış 8 haftalık dönemlere kayıtlı 200+ öğrenciyle “Australia SUP Academy — Gold Coast”u başlatmak; %85+ yenileme oranı ve ekipmanda %95 kâr marjına ulaşmak.",
           },
           steps: [
             {
               title: '4 Yaş Kohortu için Özel Akademi Filosu Tasarımı',
               detail:
-                "Afarer'ın Okyanusya hesap direktörü Lachlan Murphy, Mart 2024'te Kylie ile 3 hafta geçirerek öğrenci demografisini analiz etti. 4 kohorta ayırdılar: “Kürekçiler” (6–9 yaş, hafif 9,6' × 28″ tahta, 4,2 kg, çizgi film tarzı “Deniz Ejderhası” grafikleriyle), “Gençler” (10–14 yaş, 10,6' × 30″ tahta, 6,5 kg), “Yetişkinler” (15–55 yaş, 11,6' × 32″ tahta, 8,9 kg) ve “Yaşlılar ve Uyarlanabilir” (55+, tutma destek kayışlı 10,0' × 34″ ultra kararlı tahta, 9,2 kg). Afarer, her tahtayı anında boyut tanımlaması için renk kodlu kenar bantlarıyla (yeşil/sarı/mavi/kırmızı) tasarladı ve 120 tahta üretti (kohort başına 30). Her tahtada kişiselleştirilmiş bir isim etiketi yuvası ve bir gelişim takip çıkartması vardı (öğrenciler kazandıkları beceriler için damga topladı).",
+                "OLagoon'ın Okyanusya hesap direktörü Lachlan Murphy, Mart 2024'te Kylie ile 3 hafta geçirerek öğrenci demografisini analiz etti. 4 kohorta ayırdılar: “Kürekçiler” (6–9 yaş, hafif 9,6' × 28″ tahta, 4,2 kg, çizgi film tarzı “Deniz Ejderhası” grafikleriyle), “Gençler” (10–14 yaş, 10,6' × 30″ tahta, 6,5 kg), “Yetişkinler” (15–55 yaş, 11,6' × 32″ tahta, 8,9 kg) ve “Yaşlılar ve Uyarlanabilir” (55+, tutma destek kayışlı 10,0' × 34″ ultra kararlı tahta, 9,2 kg). OLagoon, her tahtayı anında boyut tanımlaması için renk kodlu kenar bantlarıyla (yeşil/sarı/mavi/kırmızı) tasarladı ve 120 tahta üretti (kohort başına 30). Her tahtada kişiselleştirilmiş bir isim etiketi yuvası ve bir gelişim takip çıkartması vardı (öğrenciler kazandıkları beceriler için damga topladı).",
             },
             {
-              title: 'Eğitmen Eğitimi Programı ve Afarer Sertifikalı Müfredat',
+              title: 'Eğitmen Eğitimi Programı ve OLagoon Sertifikalı Müfredat',
               detail:
-                "Afarer, Kylie'nin ilk baş eğitmen olarak yer aldığı 40 saatlik bir eğitmen sertifikasyon kursu geliştirdi. Kurs şunları kapsıyordu: kohorta özel öğretim yöntemleri (ör. Yaşlılar için sınırlı hareketliliğe uygun giriş/çıkış teknikleri; çocuklar için oyunlaştırma ve kurtarma becerileri), ilerleme haritalaması (her seviyede video karşılaştırma ölçütleriyle 12 beceri) ve güvenlik yönetimi (Gold Coast'taki Tallebudgera Creek, yüksek gelgitten 4 knot'luk akıntıya sahihtir — rehberler gelgit pencerelerini bilmek zorundadır). Kylie'nin mevcut 15 eğitmeninden 12'si sertifikayı tamamladı; Afarer onları “Seviye 1 SUP Akademi Eğitmeni” olarak sertifikalandırdı. Afarer ayrıca her öğrenci için eksiksiz bir başlangıç seti sağladı: markalı bir rash guard, su geçirmez bir beceri kitapçığı ve başarı çıkartmalı bir kayıt defteri.",
+                "OLagoon, Kylie'nin ilk baş eğitmen olarak yer aldığı 40 saatlik bir eğitmen sertifikasyon kursu geliştirdi. Kurs şunları kapsıyordu: kohorta özel öğretim yöntemleri (ör. Yaşlılar için sınırlı hareketliliğe uygun giriş/çıkış teknikleri; çocuklar için oyunlaştırma ve kurtarma becerileri), ilerleme haritalaması (her seviyede video karşılaştırma ölçütleriyle 12 beceri) ve güvenlik yönetimi (Gold Coast'taki Tallebudgera Creek, yüksek gelgitten 4 knot'luk akıntıya sahihtir — rehberler gelgit pencerelerini bilmek zorundadır). Kylie'nin mevcut 15 eğitmeninden 12'si sertifikayı tamamladı; OLagoon onları “Seviye 1 SUP Akademi Eğitmeni” olarak sertifikalandırdı. OLagoon ayrıca her öğrenci için eksiksiz bir başlangıç seti sağladı: markalı bir rash guard, su geçirmez bir beceri kitapçığı ve başarı çıkartmalı bir kayıt defteri.",
             },
             {
               title: 'Rezervasyon Sistemi Entegrasyonu ve Ekipman Lojistiği',
               detail:
-                "Afarer'ın teknoloji ekibi, Kylie'nin mevcut BookingKit rezervasyon sistemini Afarer'ın envanter modülüyle entegre etti. Her tahtada, teslim ve iadede taranan bir RFID etiketi vardı — kullanım saatleri, gecikmiş iadeler ve bakım ihtiyaçları izleniyordu. Sistem, bir öğrenci ders rezerve ettiğinde doğru tahta boyutunu otomatik atıyordu. Afarer, UV koruyucu tente ve RFID okuyucu kapılarıyla modüler bir raf sistemi tasarladı (raf başına 24 tahta, toplam 5 raf). Gold Coast Belediyesi, Kylie'ye Tallebudgera Plajı'nın güney ucunda kalıcı, 500 m²'lik çitli bir alan için 5 yıllık izin verdi — bölgenin katı kıyı kalkınma kuralları düşünülünce büyük bir başarı. Afarer'ın Lachlan, belediyenin daha önce hiçbir SUP okuluna uygulamadığı “Toplum Spor Tesisi” sınıflandırmasını kullanarak izni elde etti.",
+                "OLagoon'ın teknoloji ekibi, Kylie'nin mevcut BookingKit rezervasyon sistemini OLagoon'ın envanter modülüyle entegre etti. Her tahtada, teslim ve iadede taranan bir RFID etiketi vardı — kullanım saatleri, gecikmiş iadeler ve bakım ihtiyaçları izleniyordu. Sistem, bir öğrenci ders rezerve ettiğinde doğru tahta boyutunu otomatik atıyordu. OLagoon, UV koruyucu tente ve RFID okuyucu kapılarıyla modüler bir raf sistemi tasarladı (raf başına 24 tahta, toplam 5 raf). Gold Coast Belediyesi, Kylie'ye Tallebudgera Plajı'nın güney ucunda kalıcı, 500 m²'lik çitli bir alan için 5 yıllık izin verdi — bölgenin katı kıyı kalkınma kuralları düşünülünce büyük bir başarı. OLagoon'ın Lachlan, belediyenin daha önce hiçbir SUP okuluna uygulamadığı “Toplum Spor Tesisi” sınıflandırmasını kullanarak izni elde etti.",
             },
             {
               title: 'Eylül 2024 1. Dönem Lansmanı ve Kayıt Patlaması',
               detail:
-                "1. Dönem (Eylül–Kasım 2024, Avustralya baharı), 200 kişilik hedefin %91'iyle 183 kayıtlı öğrenciyle başladı. Kylie, 12 eğitmenle haftada 28 ders yürüttü. Ebeveyn memnuniyeti: 4,8/5. 2. Dönem (Şubat–Nisan 2025) kaydı 264 öğrenciye ulaştı (hedefin %132'si). Gelir: 1. Dönem = 91.317 AUD; 2. Dönem = 131.736 AUD. Akademinin “Uyarlanabilir Kürek” programı (engelli öğrenciler için, Spinal Life Australia ile birlikte tasarlandı) 12 öğrenci kaydetti ve 2025 Gold Coast Spor ve Rekreasyon “Yılın Kapsayıcı Programı” ödülünü kazandı. Tahta bakım maliyeti: 6 ayda 120 tahtada toplam 1.220 AUD (çoğunlukla fin vidaları ve valf kapakları). Kylie, 2025–26 için 60 ek tahta sipariş etti ve 15 rekabetçi öğrencisi için gelişmiş bir “Race Squad” tahtası geliştirmek üzere Afarer ile anlaştı.",
+                "1. Dönem (Eylül–Kasım 2024, Avustralya baharı), 200 kişilik hedefin %91'iyle 183 kayıtlı öğrenciyle başladı. Kylie, 12 eğitmenle haftada 28 ders yürüttü. Ebeveyn memnuniyeti: 4,8/5. 2. Dönem (Şubat–Nisan 2025) kaydı 264 öğrenciye ulaştı (hedefin %132'si). Gelir: 1. Dönem = 91.317 AUD; 2. Dönem = 131.736 AUD. Akademinin “Uyarlanabilir Kürek” programı (engelli öğrenciler için, Spinal Life Australia ile birlikte tasarlandı) 12 öğrenci kaydetti ve 2025 Gold Coast Spor ve Rekreasyon “Yılın Kapsayıcı Programı” ödülünü kazandı. Tahta bakım maliyeti: 6 ayda 120 tahtada toplam 1.220 AUD (çoğunlukla fin vidaları ve valf kapakları). Kylie, 2025–26 için 60 ek tahta sipariş etti ve 15 rekabetçi öğrencisi için gelişmiş bir “Race Squad” tahtası geliştirmek üzere OLagoon ile anlaştı.",
             },
           ],
           results: [
@@ -6132,8 +6132,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: "SUP Akademileri Neden Afarer'ı Seçiyor",
+    whyOLagoon: {
+      title: "SUP Akademileri Neden OLagoon'ı Seçiyor",
       items: [
         {
           title: 'Öğrenme Deneyimi',
@@ -6161,22 +6161,22 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Yeni başlayanlara öğretmek için hangi SUP tahtaları en iyisidir?',
         answer:
-          'Yeni başlayan eğitim SUP tahtaları; güven, denge ve kolay kontrol sağlayan daha geniş platformlara, daha yüksek hacme ve kararlı all-round formalara sahip olmalıdır. Afarer yeni başlayan tahtaları, öğrenme ortamları için özel olarak yüksek kararlılıklı platform tasarımı ve yüksek yüzücülük yapısı içerir.',
+          'Yeni başlayan eğitim SUP tahtaları; güven, denge ve kolay kontrol sağlayan daha geniş platformlara, daha yüksek hacme ve kararlı all-round formalara sahip olmalıdır. OLagoon yeni başlayan tahtaları, öğrenme ortamları için özel olarak yüksek kararlılıklı platform tasarımı ve yüksek yüzücülük yapısı içerir.',
       },
       {
         question: 'Gençlik programları için çocuk boyutunda SUP tahtaları sunuyor musunuz?',
         answer:
-          'Evet, Afarer; okul programları, yaz kampları, gençlik kursları ve aile aktiviteleri için tasarlanmış, uygun uzunlukta, hafif kullanımlı, kararlı formalı ve çocuk dostu görünümlü özel çocuk SUP tahtaları sunar.',
+          'Evet, OLagoon; okul programları, yaz kampları, gençlik kursları ve aile aktiviteleri için tasarlanmış, uygun uzunlukta, hafif kullanımlı, kararlı formalı ve çocuk dostu görünümlü özel çocuk SUP tahtaları sunar.',
       },
       {
-        question: 'Günlük öğretim kullanımı için Afarer eğitim tahtaları ne kadar dayanıklı?',
+        question: 'Günlük öğretim kullanımı için OLagoon eğitim tahtaları ne kadar dayanıklı?',
         answer:
-          'Afarer eğitim tahtaları; birden fazla öğrencinin günlük kullanımına, sık taşımaya, tekrarlanan şişirmeye ve yeni başlayan hatalarına dayanacak şekilde tasarlanmış takviyeli PVC malzemeler, dayanıklı drop stitch yapı ve takviyeli kenarlar içerir.',
+          'OLagoon eğitim tahtaları; birden fazla öğrencinin günlük kullanımına, sık taşımaya, tekrarlanan şişirmeye ve yeni başlayan hatalarına dayanacak şekilde tasarlanmış takviyeli PVC malzemeler, dayanıklı drop stitch yapı ve takviyeli kenarlar içerir.',
       },
       {
         question: 'Tahtaları akademimizin markasıyla özelleştirebilir misiniz?',
         answer:
-          'Evet, Afarer; profesyonel bir imaj yaratan ve eğitmenler için filo yönetimini kolaylaştıran akademi logosu özelleştirmesini, renk uyumunu, tahta numaralandırmasını ve tanımlama sistemlerini destekler.',
+          'Evet, OLagoon; profesyonel bir imaj yaratan ve eğitmenler için filo yönetimini kolaylaştıran akademi logosu özelleştirmesini, renk uyumunu, tahta numaralandırmasını ve tanımlama sistemlerini destekler.',
       },
       {
         question: 'Bir akademi filo paketinde hangi aksesuarlar bulunur?',
@@ -6186,13 +6186,13 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Eğitim ekipmanı için bakım desteği sağlıyor musunuz?',
         answer:
-          'Evet, Afarer; eğitim filonuzu sezon boyunca çalışır durumda tutmak için ekipman denetim kılavuzları, temizlik ve depolama prosedürleri, küçük hasarlar ve valf bakımı için temel tamir rehberliği ile yedek parça planlaması sağlar.',
+          'Evet, OLagoon; eğitim filonuzu sezon boyunca çalışır durumda tutmak için ekipman denetim kılavuzları, temizlik ve depolama prosedürleri, küçük hasarlar ve valf bakımı için temel tamir rehberliği ile yedek parça planlaması sağlar.',
       },
     ],
     cta: {
-      title: 'Afarer ile SUP Akademi Filonuzu Kurun',
+      title: 'OLagoon ile SUP Akademi Filonuzu Kurun',
       subtitle:
-        'Öğrencilerinizin ilk SUP deneyimi önemli. Onlara güvenli ve özgüvenli öğrenme imkanı veren ekipmanı seçin. Afarer; SUP okullarının, gençlik akademilerinin, yaz kamplarının ve açık hava eğitim kuruluşlarının profesyonel eğitim programları oluşturmasına yardımcı olur.',
+        'Öğrencilerinizin ilk SUP deneyimi önemli. Onlara güvenli ve özgüvenli öğrenme imkanı veren ekipmanı seçin. OLagoon; SUP okullarının, gençlik akademilerinin, yaz kamplarının ve açık hava eğitim kuruluşlarının profesyonel eğitim programları oluşturmasına yardımcı olur.',
       primaryAction: {
         text: 'SUP Akademi Projenize Bugün Başlayın',
       },
@@ -6206,15 +6206,15 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: 'Kendi SUP Markanızı Kurun | Şişirilebilir SUP OEM Üreticisi | {SITE}',
       description:
-        "Afarer, outdoor girişimlerinin OEM üretimi, private label paddle board'lar, düşük MOQ'lu üretim, ürün tasarımı, kalite kontrolü ve küresel tedarik zinciri desteğiyle özel SUP markaları kurmasına yardımcı olur.",
+        "OLagoon, outdoor girişimlerinin OEM üretimi, private label paddle board'lar, düşük MOQ'lu üretim, ürün tasarımı, kalite kontrolü ve küresel tedarik zinciri desteğiyle özel SUP markaları kurmasına yardımcı olur.",
     },
     hero: {
       tagline: 'Kendi SUP Markanızı Kurun™',
       title: 'Outdoor Girişim Kurucuları için Özel SUP Üretimi',
       subtitle:
-        "Afarer, outdoor girişimlerinin OEM üretimi, private label paddle board'lar, düşük MOQ'lu üretim, ürün tasarımı, kalite kontrol ve küresel tedarik zinciri desteğiyle kendi özel SUP markalarını kurmasına yardımcı olur.",
+        "OLagoon, outdoor girişimlerinin OEM üretimi, private label paddle board'lar, düşük MOQ'lu üretim, ürün tasarımı, kalite kontrol ve küresel tedarik zinciri desteğiyle kendi özel SUP markalarını kurmasına yardımcı olur.",
       image: {
-        alt: 'Afarer özel SUP tahtaları açıklaması',
+        alt: 'OLagoon özel SUP tahtaları açıklaması',
       },
     },
     challenge: {
@@ -6328,7 +6328,7 @@ const tr: Record<string, SolutionOverride> = {
       customer:
         "ABD'li bir outdoor girişim markası kurucusu. Eski outdoor perakende yöneticisi, sörf ve kano meraklısı ve premium bir şişirilebilir SUP markası yaratmayı hedefleyen Shopify girişimcisi.",
       steps: [
-        'Afarer, marka yönünü 25–45 yaş outdoor tüketicilerini hedefleyen bir Premium Outdoor Lifestyle SUP Markası olarak tanımlamaya yardımcı oldu. Pazar konumlandırma analizi ve rekabet araştırması yürütüldü.',
+        'OLagoon, marka yönünü 25–45 yaş outdoor tüketicilerini hedefleyen bir Premium Outdoor Lifestyle SUP Markası olarak tanımlamaya yardımcı oldu. Pazar konumlandırma analizi ve rekabet araştırması yürütüldü.',
         "İlk ürün geliştirildi — dayanıklı Drop Stitch konstrüksiyonlu, premium PVC yapılı, modern EVA tasarımlı, karbon kürekli ve yüksek kaliteli aksesuarlı 10'6″ Premium Şişirilebilir SUP.",
         'Marka kimliğiyle uyumlu özel tahta grafikleri, marka renk sistemi, ambalaj tasarımı ve eksiksiz perakendeye hazır ürün paketi oluşturuldu.',
         'Pazar talebini doğrulamak amacıyla Shopify mağazası, influencer pazarlama kampanyaları ve müşteri testleri eşliğinde 300 adetlik ilk partiyle lansman yapıldı.',
@@ -6353,22 +6353,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Üç Kıtada Marka Kimliği ve Tedarikçi Arayışı',
               detail:
-                "James, Ocak–Mart 2023 arasında Afarer'in tedarik ekibiyle birlikte Çin, Vietnam ve Tayland'daki 5 fabrikayı ziyaret etti. Afarer, onu Qingdao'da daha önce yalnızca Avrupalı distribütörler için white-label tahtalar üretmiş askeri sınıf PVC laminasyon tesisiyle tanıştırdı. Birlikte, 6 aylık münhasırlık maddesi karşılığında asgari sipariş miktarını 1.000 adetten 500 adete düşürmek için müzakere ettiler. Afarer'in kalite kontrol ekibi 3 tur örnek testi gerçekleştirdi ve üçüncü partiyi onaylamadan önce ilk ikisini tutarsız kenar dikişi kaynağı nedeniyle reddetti.",
+                "James, Ocak–Mart 2023 arasında OLagoon'in tedarik ekibiyle birlikte Çin, Vietnam ve Tayland'daki 5 fabrikayı ziyaret etti. OLagoon, onu Qingdao'da daha önce yalnızca Avrupalı distribütörler için white-label tahtalar üretmiş askeri sınıf PVC laminasyon tesisiyle tanıştırdı. Birlikte, 6 aylık münhasırlık maddesi karşılığında asgari sipariş miktarını 1.000 adetten 500 adete düşürmek için müzakere ettiler. OLagoon'in kalite kontrol ekibi 3 tur örnek testi gerçekleştirdi ve üçüncü partiyi onaylamadan önce ilk ikisini tutarsız kenar dikişi kaynağı nedeniyle reddetti.",
             },
             {
               title: 'Adım 2 — Kitle Fonlama Kampanyası Altyapısı ve Karşılama Planlaması',
               detail:
-                "Afarer'in lojistik ekibi James'e, günde 2.000 paketi işleyebilen Gloucester'daki bir karşılama merkeziyle 3PL ortaklığı kurmasında yardımcı oldu. Ayrıntılı bir Kickstarter ödül kademeleri tablosu oluşturdular — 399 £ erken destekçi (50 adet), 449 £ standart (300 adet) ve 549 £ kürek ile pompalı premium paket (150 adet). Afarer, 12 yüksek çözünürlüklü ürün görseli, Wye Nehri üzerindeki Symonds Yat'ta çekilmiş 4 dakikalık bir kampanya videosu ve 6 inç kalınlığı, 32 PSI drop-stitch çekirdeği ile karbon fiber kürek seçeneğini öne çıkaran eksiksiz bir teknik föy üretti. Kampanya, 150.000 £ hedefle 1 Mayıs 2023'te başladı.",
+                "OLagoon'in lojistik ekibi James'e, günde 2.000 paketi işleyebilen Gloucester'daki bir karşılama merkeziyle 3PL ortaklığı kurmasında yardımcı oldu. Ayrıntılı bir Kickstarter ödül kademeleri tablosu oluşturdular — 399 £ erken destekçi (50 adet), 449 £ standart (300 adet) ve 549 £ kürek ile pompalı premium paket (150 adet). OLagoon, 12 yüksek çözünürlüklü ürün görseli, Wye Nehri üzerindeki Symonds Yat'ta çekilmiş 4 dakikalık bir kampanya videosu ve 6 inç kalınlığı, 32 PSI drop-stitch çekirdeği ile karbon fiber kürek seçeneğini öne çıkaran eksiksiz bir teknik föy üretti. Kampanya, 150.000 £ hedefle 1 Mayıs 2023'te başladı.",
             },
             {
               title: 'Adım 3 — Kampanya Ortası Kriz Yönetimi ve Esnek Hedeflerin Uygulanması',
               detail:
-                "Kampanya ilk 72 saatte 85.000 £'a ulaştı ama 14. gün itibarıyla 110.000 £'ta durakladığında, Afarer'in pazarlama stratejistleri, toplam 500.000+ üyesi olan Birleşik Krallık paddleboarding Facebook gruplarına odaklanan hedefli Facebook ve Instagram reklam kampanyası devreye soktu. James'in YouTube tanıklıklarını içeren, A/B testinden geçirilmiş 8 reklam varyantı oluşturdular. 30. güne kadar 212 destekçi daha toplamı 162.000 £'a taşıdı. Afarer, 449 £ üzeri tüm desteklere 45 £ değerinde ücretsiz kuru çanta ekleyen bir esnek hedef koordine etti — bu da son 48 saatte 88 destekçilik final bir dalgayı tetikledi ve kampanya 487 destekçiden 198.740 £ ile kapandı.",
+                "Kampanya ilk 72 saatte 85.000 £'a ulaştı ama 14. gün itibarıyla 110.000 £'ta durakladığında, OLagoon'in pazarlama stratejistleri, toplam 500.000+ üyesi olan Birleşik Krallık paddleboarding Facebook gruplarına odaklanan hedefli Facebook ve Instagram reklam kampanyası devreye soktu. James'in YouTube tanıklıklarını içeren, A/B testinden geçirilmiş 8 reklam varyantı oluşturdular. 30. güne kadar 212 destekçi daha toplamı 162.000 £'a taşıdı. OLagoon, 449 £ üzeri tüm desteklere 45 £ değerinde ücretsiz kuru çanta ekleyen bir esnek hedef koordine etti — bu da son 48 saatte 88 destekçilik final bir dalgayı tetikledi ve kampanya 487 destekçiden 198.740 £ ile kapandı.",
             },
             {
               title: 'Adım 4 — Üretim, Kalite Güvencesi ve Kampanya Sonrası Karşılama',
               detail:
-                "Üretim Ağustos 2023'te Qingdao tesisinde başladı; Afarer fabrikaya 6 haftı boyunca tam zamanlı bir kalite kontrol müfettişi görevlendirdi. Her tahta, 18 PSI'da 24 saatlik şişirme testinden ve 150 N/cm'yi aşan dikiş soyulma dayanımı testinden geçti. İlk 200 adet, 15 Eylül'de deniz yoluyla sevk edildi ve Afarer'in önceden hazırlanmış evrakları sayesinde Birleşik Krallık gümrüğünden 4 gün içinde geçti. 487 destekçinin tümü tahtalarına 25 Ekim 2023'te — belirtilen teslim tarihinden 9 gün önce — kavuştu. James, ilk 150 müşteri geri bildirim formunda ortalama 4,7/5 puan bildirdi.",
+                "Üretim Ağustos 2023'te Qingdao tesisinde başladı; OLagoon fabrikaya 6 haftı boyunca tam zamanlı bir kalite kontrol müfettişi görevlendirdi. Her tahta, 18 PSI'da 24 saatlik şişirme testinden ve 150 N/cm'yi aşan dikiş soyulma dayanımı testinden geçti. İlk 200 adet, 15 Eylül'de deniz yoluyla sevk edildi ve OLagoon'in önceden hazırlanmış evrakları sayesinde Birleşik Krallık gümrüğünden 4 gün içinde geçti. 487 destekçinin tümü tahtalarına 25 Ekim 2023'te — belirtilen teslim tarihinden 9 gün önce — kavuştu. James, ilk 150 müşteri geri bildirim formunda ortalama 4,7/5 puan bildirdi.",
             },
           ],
           results: [
@@ -6390,22 +6390,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Tropik Ortam Denetimi ve Malzeme Şartnamesi',
               detail:
-                "Afarer'in ürün mühendisleri Mayıs 2023'te 2 haftayı Cairns'te geçirerek Mara'nın mevcut filosunu test etti. 8 spesifik arıza noktası belgelediler — UV bozulmasına uğramış PVC (22 tahtada görünür durumda), korozyona uğramış paslanmaz çelik D-ring'ler (6 ay içinde oluşan) ve pruvadaki tutamaçta dikiş arızası (3 tahta). Afarer'in laboratuvar ekibi üst PVC katmanını UV stabilizatör katkısı içerecek şekilde yeniden formüle etti (%0,6 konsantrasyonda UV-531) ve tüm donanım için 304 sınıfı denizcilik paslanmaz çeliği şart koştu. 400 kg kopma dayanımında, 3 katmanlı kumaş kayış sandviçli takviyeli bir pruva tutamacı tasarladılar.",
+                "OLagoon'in ürün mühendisleri Mayıs 2023'te 2 haftayı Cairns'te geçirerek Mara'nın mevcut filosunu test etti. 8 spesifik arıza noktası belgelediler — UV bozulmasına uğramış PVC (22 tahtada görünür durumda), korozyona uğramış paslanmaz çelik D-ring'ler (6 ay içinde oluşan) ve pruvadaki tutamaçta dikiş arızası (3 tahta). OLagoon'in laboratuvar ekibi üst PVC katmanını UV stabilizatör katkısı içerecek şekilde yeniden formüle etti (%0,6 konsantrasyonda UV-531) ve tüm donanım için 304 sınıfı denizcilik paslanmaz çeliği şart koştu. 400 kg kopma dayanımında, 3 katmanlı kumaş kayış sandviçli takviyeli bir pruva tutamacı tasarladılar.",
             },
             {
               title: 'Adım 2 — Üç Tur Rotasında Prototip Üretimi ve Saha Testi',
               detail:
-                "Afarer, Temmuz 2023'te Guangzhou'daki fabrikasında, kolay filo tanımlaması için her biri benzersiz renk düzenine sahip (mercan mavisi, mangrov yeşili, resif turuncusu) 10 prototip tahta üretti. Mara, üç ana tur rotasında 60 günlük bir saha denemesi yürüttü — Fitzroy Adası (tuzlu su, 6 saat doğrudan güneş), Mulgrave Nehri sabah turları (tatlı su, gölgeli) ve Trinity Inlet'te gün batımı turları (karma koşullar). Her tahta 300 saatten fazla kullanım kaydetti. İki prototip 250 saat sonra valf kaçağı gösterdi ve Afarer'e valf gövdesinin yeniden tasarlanması için geri gönderildi — pirinçten naylon takviyeli kompozit valfe geçildi.",
+                "OLagoon, Temmuz 2023'te Guangzhou'daki fabrikasında, kolay filo tanımlaması için her biri benzersiz renk düzenine sahip (mercan mavisi, mangrov yeşili, resif turuncusu) 10 prototip tahta üretti. Mara, üç ana tur rotasında 60 günlük bir saha denemesi yürüttü — Fitzroy Adası (tuzlu su, 6 saat doğrudan güneş), Mulgrave Nehri sabah turları (tatlı su, gölgeli) ve Trinity Inlet'te gün batımı turları (karma koşullar). Her tahta 300 saatten fazla kullanım kaydetti. İki prototip 250 saat sonra valf kaçağı gösterdi ve OLagoon'e valf gövdesinin yeniden tasarlanması için geri gönderildi — pirinçten naylon takviyeli kompozit valfe geçildi.",
             },
             {
               title: 'Adım 3 — Üretimin Artırılması, Özel Markalama ve Ambalaj Tasarımı',
               detail:
-                "Saha testlerini geçtikten sonra Mara, Eylül 2023'te 200 Reef Runner tahtası için satın alma siparişi verdi. Afarer'in tasarım ekibi, güverte pedinde Reef & River logosunu ve bordada seri numaralı filo yönetim numarasını taşıyan özel ısı transferi grafikleri oluşturdu. Her tahta, takviyeli dikişli, özel dokunmuş 1000 denier naylon taşıma çantasıyla geldi (80 kg yükte test edildi). Afarer, Avustralya biyogüvenlik uygunluğu için fumigasyon sertifikası dahil, 28 günlük transit süresiyle Townsville Limanı üzerinden deniz yükü ayarladı. Sevkiyat 5 Kasım 2023'te gümrükten geçti.",
+                "Saha testlerini geçtikten sonra Mara, Eylül 2023'te 200 Reef Runner tahtası için satın alma siparişi verdi. OLagoon'in tasarım ekibi, güverte pedinde Reef & River logosunu ve bordada seri numaralı filo yönetim numarasını taşıyan özel ısı transferi grafikleri oluşturdu. Her tahta, takviyeli dikişli, özel dokunmuş 1000 denier naylon taşıma çantasıyla geldi (80 kg yükte test edildi). OLagoon, Avustralya biyogüvenlik uygunluğu için fumigasyon sertifikası dahil, 28 günlük transit süresiyle Townsville Limanı üzerinden deniz yükü ayarladı. Sevkiyat 5 Kasım 2023'te gümrükten geçti.",
             },
             {
               title: 'Adım 4 — Personel Eğitim Programı ve Bakım Protokolü Dokümantasyonu',
               detail:
-                "Afarer'in müşteri başarı ekibi, Kasım 2023'te Mara'nın 12 rehberi ve 3 bakım personeli için 2 günlük bir eğitim atölyesi yürütmek üzere Cairns'e uçtu. Eğitim günlük denetim kontrol listelerini, doğru şişirme/indirme prosedürlerini, tuzlu su durulama protokollerini ve 6 PVC yama ile 2 yedek valf içeren bir tamir kitini kapsıyordu. Afarer, İngilizce ve Mandarin dillerinde lamine edilmiş hızlı referans rehberi sağladı. Mara, tahta başına kullanım saatlerini izleyen dijital bir filo kaydını Google Sheets üzerinde uygulamaya koydu. 65 tahtalık ilk üç aylık ikmal siparişi Şubat 2024'te verildi.",
+                "OLagoon'in müşteri başarı ekibi, Kasım 2023'te Mara'nın 12 rehberi ve 3 bakım personeli için 2 günlük bir eğitim atölyesi yürütmek üzere Cairns'e uçtu. Eğitim günlük denetim kontrol listelerini, doğru şişirme/indirme prosedürlerini, tuzlu su durulama protokollerini ve 6 PVC yama ile 2 yedek valf içeren bir tamir kitini kapsıyordu. OLagoon, İngilizce ve Mandarin dillerinde lamine edilmiş hızlı referans rehberi sağladı. Mara, tahta başına kullanım saatlerini izleyen dijital bir filo kaydını Google Sheets üzerinde uygulamaya koydu. 65 tahtalık ilk üç aylık ikmal siparişi Şubat 2024'te verildi.",
             },
           ],
           results: [
@@ -6417,8 +6417,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Neden Afarer',
+    whyOLagoon: {
+      title: 'Neden OLagoon',
       items: [
         {
           title: 'Ürün Uzmanlığı',
@@ -6446,12 +6446,12 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Özel SUP tahtalarında asgari sipariş miktarı nedir?',
         answer:
-          'Afarer, pazar testi için 100–500 adetten başlayan esnek MOQ sunar; bu sayede girişimler üretimi ölçeklendirmeden önce ürünlerini doğrulayabilir ve müşteri geri bildirimi toplayabilir.',
+          'OLagoon, pazar testi için 100–500 adetten başlayan esnek MOQ sunar; bu sayede girişimler üretimi ölçeklendirmeden önce ürünlerini doğrulayabilir ve müşteri geri bildirimi toplayabilir.',
       },
       {
         question: 'Fabrika sahibi olmadan kendi SUP markamı oluşturabilir miyim?',
         answer:
-          'Evet. Afarer, herhangi bir fabrika yatırımı yapmadan özel markalama, tahta tasarımı, ambalaj ve aksesuarlarla kendi SUP markanızı kurmanıza olanak tanıyan eksiksiz private label üretim hizmetleri sunar.',
+          'Evet. OLagoon, herhangi bir fabrika yatırımı yapmadan özel markalama, tahta tasarımı, ambalaj ve aksesuarlarla kendi SUP markanızı kurmanıza olanak tanıyan eksiksiz private label üretim hizmetleri sunar.',
       },
       {
         question: 'Özel bir SUP ürününün geliştirilmesi ne kadar sürer?',
@@ -6461,17 +6461,17 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Ürün tasarımı ve pazar stratejisinde yardımcı oluyor musunuz?',
         answer:
-          'Evet. Afarer, üretime başlamadan önce hedef pazarınızı, ürün konumlandırmanızı, fiyat stratejinizi ve farklılaşmanızı tanımlamanıza yardımcı olmak için marka ve ürün stratejisi danışmanlığı sağlar.',
+          'Evet. OLagoon, üretime başlamadan önce hedef pazarınızı, ürün konumlandırmanızı, fiyat stratejinizi ve farklılaşmanızı tanımlamanıza yardımcı olmak için marka ve ürün stratejisi danışmanlığı sağlar.',
       },
       {
         question: 'Hangi kalite kontrol önlemlerine sahipsiniz?',
         answer:
-          'Afarer, malzeme denetimi, üretim sırası izleme, hava basıncı testi ve sevkiyat öncesi son ürün denetimini kapsayan kapsamlı bir kalite kontrol sistemine sahiptir.',
+          'OLagoon, malzeme denetimi, üretim sırası izleme, hava basıncı testi ve sevkiyat öncesi son ürün denetimini kapsayan kapsamlı bir kalite kontrol sistemine sahiptir.',
       },
       {
         question: 'Ülkeme sevkiyat yapabiliyor musunuz?',
         answer:
-          'Evet. Afarer, güvenilir lojistik desteğiyle ABD, Kanada, Avustralya, Birleşik Krallık, Almanya, Fransa, Hollanda ve diğer küresel pazarlara sevkiyat yapar.',
+          'Evet. OLagoon, güvenilir lojistik desteğiyle ABD, Kanada, Avustralya, Birleşik Krallık, Almanya, Fransa, Hollanda ve diğer küresel pazarlara sevkiyat yapar.',
       },
     ],
     cta: {
@@ -6488,15 +6488,15 @@ const tr: Record<string, SolutionOverride> = {
     meta: {
       title: "SUP Yoga Ekipman Üreticisi | Özel Yoga Paddle Board'ları | {SITE}",
       description:
-        "Afarer, yoga stüdyoları, wellness retreat'leri ve fitness markaları için özel SUP yoga ekipman çözümleri sunar. Geniş stabil tasarım, tam EVA güverteler ve private label üretimle premium şişirilebilir yoga SUP board'ları oluşturun.",
+        "OLagoon, yoga stüdyoları, wellness retreat'leri ve fitness markaları için özel SUP yoga ekipman çözümleri sunar. Geniş stabil tasarım, tam EVA güverteler ve private label üretimle premium şişirilebilir yoga SUP board'ları oluşturun.",
     },
     hero: {
       tagline: 'SUP Yoga Ekipman Çözümleri™',
       title: 'Wellness Markaları ve Retreatler için Premium SUP Yoga Ekipmanı',
       subtitle:
-        'Afarer, yoga stüdyoları, wellness retreatleri ve fitness markaları için özel SUP Yoga ekipman çözümleri sunar. Geniş stabilite tasarımı, tam EVA güverteleri ve private label imalatıyla premium şişirilebilir yoga SUP tahtaları yaratın.',
+        'OLagoon, yoga stüdyoları, wellness retreatleri ve fitness markaları için özel SUP Yoga ekipman çözümleri sunar. Geniş stabilite tasarımı, tam EVA güverteleri ve private label imalatıyla premium şişirilebilir yoga SUP tahtaları yaratın.',
       image: {
-        alt: 'Afarer özel SUP tahtaları açıklaması',
+        alt: 'OLagoon özel SUP tahtaları açıklaması',
       },
     },
     challenge: {
@@ -6621,7 +6621,7 @@ const tr: Record<string, SolutionOverride> = {
       customer:
         'Premium wellness gezginleri için yoga retreatleri, meditasyon programları ve outdoor wellness deneyimleri işleten Avrupa Wellness Retreat Markası.',
       steps: [
-        'Afarer, ürün konseptini wellness gezginlerini, kadın fitness müşterilerini ve premium retreat misafirlerini hedefleyen “Lüks Yüzen Yoga Deneyimi” olarak tanımladı.',
+        'OLagoon, ürün konseptini wellness gezginlerini, kadın fitness müşterilerini ve premium retreat misafirlerini hedefleyen “Lüks Yüzen Yoga Deneyimi” olarak tanımladı.',
         "Ekstra geniş stabil platform, tam EVA yoga güvertesi, rahat çıplak ayak yüzeyi ve dengeli yüzen performansla Premium Geniş Yoga SUP'ı oluşturuldu.",
         'Wellness markasının sakinleştirici kimliğiyle mükemmel uyum sağlayan yumuşak doğal renk paleti, minimal grafikler ve premium ambalaj geliştirildi.',
         'İlk uygulama olarak retreat programları, yoga dersleri ve premium müşteri deneyimleriyle lansman yapıldı.',
@@ -6646,17 +6646,17 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Yoga Odaklı Tahta Tasarımı ve Sanskrit Estetiği',
               detail:
-                "Afarer'in tasarım ekibi, Mart 2023'te Simone'un gereksinimlerini incelemek için 3 hafta harcadı. Sonuç: “Serenity” SUP yoga tahtası — 34″ genişlik (standart 32″'ye karşı), 11'6″ uzunluk, rijit stabilite için 7 katmanlı drop-stitch çekirdek. Güverte, güverte yüzeyinin %85'ini kaplayan, elmas desenli dokuya (test edilen sürtünme katsayısı: kuru 0,85, ıslak 0,72) sahip 6 mm kalınlığında kapalı hücreli bir EVA ped içeriyordu. Afarer, pruvaya gümüş yansıtıcı ısı transferiyle Sanskrit “Om” sembolünü ve merkez taşıma kulbunun çevresine bir lotus deseni yerleştirdi. Tahtalar, 4 Azure Resort renk paletine karşılık gelen 4 renkte geldi (mercan, turkuaz, gün batımı turuncusu, lagün mavisi). Her tahtada 8 paslanmaz çelik D-halka vardı — 4'ü yoga matlarını sabitlemek için bir büzücü kordon sistemi için, 4'ü ise akıntılarda sabit pratik için isteğe bağlı çapa halatları için.",
+                "OLagoon'in tasarım ekibi, Mart 2023'te Simone'un gereksinimlerini incelemek için 3 hafta harcadı. Sonuç: “Serenity” SUP yoga tahtası — 34″ genişlik (standart 32″'ye karşı), 11'6″ uzunluk, rijit stabilite için 7 katmanlı drop-stitch çekirdek. Güverte, güverte yüzeyinin %85'ini kaplayan, elmas desenli dokuya (test edilen sürtünme katsayısı: kuru 0,85, ıslak 0,72) sahip 6 mm kalınlığında kapalı hücreli bir EVA ped içeriyordu. OLagoon, pruvaya gümüş yansıtıcı ısı transferiyle Sanskrit “Om” sembolünü ve merkez taşıma kulbunun çevresine bir lotus deseni yerleştirdi. Tahtalar, 4 Azure Resort renk paletine karşılık gelen 4 renkte geldi (mercan, turkuaz, gün batımı turuncusu, lagün mavisi). Her tahtada 8 paslanmaz çelik D-halka vardı — 4'ü yoga matlarını sabitlemek için bir büzücü kordon sistemi için, 4'ü ise akıntılarda sabit pratik için isteğe bağlı çapa halatları için.",
             },
             {
               title: "Adım 2 — Azure North'ta Pilot Program ve Yoga Eğitmeni Eğitimi",
               detail:
-                "Afarer 15 prototip tahta üretti ve 1 Haziran 2023'te başlayan 6 haftalık Azure North piloti için ekspres hava kargo ile (Singapore Airlines Cargo) sevk etti. Simone ve 4 misafir yoga eğitmeni, Afarer'in wellness danışmanları ile Yoga Alliance profesyonelleri tarafından ortaklaşa geliştirilen 40 saatlik SUP Yoga Eğitmeni Sertifikasyon programını tamamladı. Sertifikasyon şunları kapsıyordu: yoga için tahta kurulumu ve şişirme (en yüksek stabilite için 12 PSI), su koşullarına göre ders dizileme, rüzgâr ve akıntı için güvenlik protokolleri ve tahta ortamına uyarlanmış 15 benzersiz SUP yoga pozu. Pilot, 186 misafir katılımcıyla 6 haftada 42 ders yürüttü. Pilot öncesi ve sonrası anketler misafir güveninin %58 iyileştiğini gösterdi ve ortalama ders puanı 5 üzerinden 4,8 oldu. Misafir geri bildirimi iki değişikliği öne çıkardı: tahta kenarında bir kürek tutucu talebi (pratik sırasında küreklerin uzaklaşmaması için) ve partner pozları için “yumuşak” pruva yarıçapına sahip tahtalara tercih.",
+                "OLagoon 15 prototip tahta üretti ve 1 Haziran 2023'te başlayan 6 haftalık Azure North piloti için ekspres hava kargo ile (Singapore Airlines Cargo) sevk etti. Simone ve 4 misafir yoga eğitmeni, OLagoon'in wellness danışmanları ile Yoga Alliance profesyonelleri tarafından ortaklaşa geliştirilen 40 saatlik SUP Yoga Eğitmeni Sertifikasyon programını tamamladı. Sertifikasyon şunları kapsıyordu: yoga için tahta kurulumu ve şişirme (en yüksek stabilite için 12 PSI), su koşullarına göre ders dizileme, rüzgâr ve akıntı için güvenlik protokolleri ve tahta ortamına uyarlanmış 15 benzersiz SUP yoga pozu. Pilot, 186 misafir katılımcıyla 6 haftada 42 ders yürüttü. Pilot öncesi ve sonrası anketler misafir güveninin %58 iyileştiğini gösterdi ve ortalama ders puanı 5 üzerinden 4,8 oldu. Misafir geri bildirimi iki değişikliği öne çıkardı: tahta kenarında bir kürek tutucu talebi (pratik sırasında küreklerin uzaklaşmaması için) ve partner pozları için “yumuşak” pruva yarıçapına sahip tahtalara tercih.",
             },
             {
               title: 'Adım 3 — Çoklu Tatil Köyü Yaygınlaştırması, Altyapı ve Programlama',
               detail:
-                "Başarılı pilota dayanarak Azure, Ağustos 2023'te 40 Serenity tahtası (tatil köyü başına 10) için bir satın alma siparişi verdi. Afarer, pilot geri bildirimine dayanarak iki tasarım değişikliği ekledi: iskele rayında silikon bir kürek tutucu kayış ve partner pozu mesafesi için 15 cm daha geniş pruva yarıçapı (45 cm yarıçaptan 60 cm yarıçapa). Afarer, bar yerine PSI'ya kalibre edilmiş basınç göstergeli 40 özel şişirme pompası dahil, adanmış bir 20 fitlik konteynerle deniz yoluyla sevk etti. Sevkiyat 1 Kasım 2023'te Malé'ye vardı. Simone, sertifikasyon müfredatını kullanarak 4 tatil köyü genelinde 12 ek eğitmen (tesis başına 3) eğitti; iki baş eğitmen, Afarer'in wellness ortağı tarafından koordine edilen Bali'de 2 haftalık bir eğitmenleri-eğit programına katıldı. Her tatil köyü, yüzer iskele, ekipman depolama ve gölgeli bir dinlenme alanıyla adanmış bir SUP yoga başlangıç noktası oluşturdu.",
+                "Başarılı pilota dayanarak Azure, Ağustos 2023'te 40 Serenity tahtası (tatil köyü başına 10) için bir satın alma siparişi verdi. OLagoon, pilot geri bildirimine dayanarak iki tasarım değişikliği ekledi: iskele rayında silikon bir kürek tutucu kayış ve partner pozu mesafesi için 15 cm daha geniş pruva yarıçapı (45 cm yarıçaptan 60 cm yarıçapa). OLagoon, bar yerine PSI'ya kalibre edilmiş basınç göstergeli 40 özel şişirme pompası dahil, adanmış bir 20 fitlik konteynerle deniz yoluyla sevk etti. Sevkiyat 1 Kasım 2023'te Malé'ye vardı. Simone, sertifikasyon müfredatını kullanarak 4 tatil köyü genelinde 12 ek eğitmen (tesis başına 3) eğitti; iki baş eğitmen, OLagoon'in wellness ortağı tarafından koordine edilen Bali'de 2 haftalık bir eğitmenleri-eğit programına katıldı. Her tatil köyü, yüzer iskele, ekipman depolama ve gölgeli bir dinlenme alanıyla adanmış bir SUP yoga başlangıç noktası oluşturdu.",
             },
             {
               title: 'Adım 4 — Gelir Performansı, Misafir Tutma ve Program Genişlemesi',
@@ -6683,22 +6683,22 @@ const tr: Record<string, SolutionOverride> = {
             {
               title: 'Adım 1 — Yoga Eğitmeninin Tasarım Vizyonu ve Ergonomik Stüdyo Tahtası',
               detail:
-                "Afarer'in ürün tasarımcıları, Kai'nin 4 dersini gözlemlemek ve öğretim tarzını anlamak için Şubat 2023'te Santa Monica'ya uçtu. Kai, tahtalarda Vinyasa akışı, restoratif yin ve partner akro-yoganın bir karışımını öğretiyordu — bu, standart SUP'ların sunduğundan daha fazla güverte alanı gerektiriyordu. Afarer 3 SKU tasarladı: (1) “Drift 10'6″” — standart SUP yoga tahtası (34″ genişlik, 6 mm güverte pedi), (2) “Studio 12'0″” — 8 mm yastıklamalı güverteli 38″ ekstra geniş tahta (akro ve partner pozları için tasarlandı, azami ağırlık 450 lbs) ve (3) “Mini 9'0″” — çocuk dostu tahta (30″ genişlik, 5 mm güverte, parlak renk seçenekleri). Stüdyo tahtası, öğrencilerin matlarını tutarlı şekilde hizalamasına yardımcı olan, güvertenin ortasından ince bir basılı çizgi olan benzersiz bir “merkez hattı hizalama işaretleyicisi” içeriyordu. Tüm tahtalar, daha kolay taşıma için standart tahtalardan 3 lbs daha hafif olan Afarer'in Fusion-Lite drop-stitch teknolojisini kullandı.",
+                "OLagoon'in ürün tasarımcıları, Kai'nin 4 dersini gözlemlemek ve öğretim tarzını anlamak için Şubat 2023'te Santa Monica'ya uçtu. Kai, tahtalarda Vinyasa akışı, restoratif yin ve partner akro-yoganın bir karışımını öğretiyordu — bu, standart SUP'ların sunduğundan daha fazla güverte alanı gerektiriyordu. OLagoon 3 SKU tasarladı: (1) “Drift 10'6″” — standart SUP yoga tahtası (34″ genişlik, 6 mm güverte pedi), (2) “Studio 12'0″” — 8 mm yastıklamalı güverteli 38″ ekstra geniş tahta (akro ve partner pozları için tasarlandı, azami ağırlık 450 lbs) ve (3) “Mini 9'0″” — çocuk dostu tahta (30″ genişlik, 5 mm güverte, parlak renk seçenekleri). Stüdyo tahtası, öğrencilerin matlarını tutarlı şekilde hizalamasına yardımcı olan, güvertenin ortasından ince bir basılı çizgi olan benzersiz bir “merkez hattı hizalama işaretleyicisi” içeriyordu. Tüm tahtalar, daha kolay taşıma için standart tahtalardan 3 lbs daha hafif olan OLagoon'in Fusion-Lite drop-stitch teknolojisini kullandı.",
             },
             {
               title: 'Adım 2 — Marka Kimliği, İçerik Üretimi ve Ön Satış Stratejisi',
               detail:
-                "Afarer'in yaratıcı ekibi, Drift & Downward Dog'ın görsel kimliğini geliştirdi: stilize lotus/mandala-dalga melezi minimal bir logo, adaçayı yeşili, kum ve okyanus mavisi renk paleti ve özel bir yazı tipi çifti (Lora başlıklar, Nunito gövde). Mart 2023'te Santa Monica Körfezi'ndeki 5 lokasyonda (Santa Monica İskelesi, Malibu'daki Point Dume, Venice Beach, Marina del Rey ve Paradise Cove) 6 günlük bir fotoğraf çekimi gerçekleştirdiler; 480 final görsel ve 8 saatlik 4K video görüntüsü üretildi. Kai, 35.000 $ hedefli bir Kickstarter kampanyasıyla 1 Mayıs 2023'te 30 günlük bir ön satış başlattı. Kampanya 3 ödül kademesi içeriyordu: erken kayıt Drift tahtası (599 $, 40 adet), mat ve kayışlı Studio tahtası paketi (949 $, 25 adet) ve Mini tahtası (449 $, 20 adet). Kampanya 11 saatte hedefine ulaştı ve 118 destekçiden 74.200 $ ile kapandı.",
+                "OLagoon'in yaratıcı ekibi, Drift & Downward Dog'ın görsel kimliğini geliştirdi: stilize lotus/mandala-dalga melezi minimal bir logo, adaçayı yeşili, kum ve okyanus mavisi renk paleti ve özel bir yazı tipi çifti (Lora başlıklar, Nunito gövde). Mart 2023'te Santa Monica Körfezi'ndeki 5 lokasyonda (Santa Monica İskelesi, Malibu'daki Point Dume, Venice Beach, Marina del Rey ve Paradise Cove) 6 günlük bir fotoğraf çekimi gerçekleştirdiler; 480 final görsel ve 8 saatlik 4K video görüntüsü üretildi. Kai, 35.000 $ hedefli bir Kickstarter kampanyasıyla 1 Mayıs 2023'te 30 günlük bir ön satış başlattı. Kampanya 3 ödül kademesi içeriyordu: erken kayıt Drift tahtası (599 $, 40 adet), mat ve kayışlı Studio tahtası paketi (949 $, 25 adet) ve Mini tahtası (449 $, 20 adet). Kampanya 11 saatte hedefine ulaştı ve 118 destekçiden 74.200 $ ile kapandı.",
             },
             {
               title: 'Adım 3 — Üretim, Gerçekleştirme Lojistiği ve Ders Entegrasyonu',
               detail:
-                "180 tahtalık üretim (80 Drift, 50 Studio, 50 Mini), Haziran–Temmuz 2023'te Afarer'in Vietnam tesisinde gerçekleşti. 1 Ağustos 2023'e kadar tüm Kickstarter siparişleri, Kai'nin Santa Monica stüdyosuna 15 mil uzaklıktaki Long Beach'teki bir 3PL deposundan gerçekleştirildi. Kai, ders rezervasyon platformunu Acuity Scheduling ile entegre özel bir planlama uygulamasıyla Shopify üzerinde lansman etti. 4 ders türü sundu: “Sunrise Flow” (başlangıç, Drift tahtası), “Full Moon Studio” (ileri/partner, Studio tahtası), “Family Paddle” (çocuklar + ebeveynler, Mini + Drift) ve “Restorative Yin & Float” (yin pozları ve yönlendirilmiş meditasyon karışımı). Genişleyen programı karşılamak için 3 ek sertifikalı SUP yoga eğitmeni işe aldı. Eylül 2023'e kadar Kai, ders başına ortalama 14 öğrenciyle haftada 22 ders yürütüyordu.",
+                "180 tahtalık üretim (80 Drift, 50 Studio, 50 Mini), Haziran–Temmuz 2023'te OLagoon'in Vietnam tesisinde gerçekleşti. 1 Ağustos 2023'e kadar tüm Kickstarter siparişleri, Kai'nin Santa Monica stüdyosuna 15 mil uzaklıktaki Long Beach'teki bir 3PL deposundan gerçekleştirildi. Kai, ders rezervasyon platformunu Acuity Scheduling ile entegre özel bir planlama uygulamasıyla Shopify üzerinde lansman etti. 4 ders türü sundu: “Sunrise Flow” (başlangıç, Drift tahtası), “Full Moon Studio” (ileri/partner, Studio tahtası), “Family Paddle” (çocuklar + ebeveynler, Mini + Drift) ve “Restorative Yin & Float” (yin pozları ve yönlendirilmiş meditasyon karışımı). Genişleyen programı karşılamak için 3 ek sertifikalı SUP yoga eğitmeni işe aldı. Eylül 2023'e kadar Kai, ders başına ortalama 14 öğrenciyle haftada 22 ders yürütüyordu.",
             },
             {
               title: 'Adım 4 — Perakende Kanalı Genişlemesi, Kurumsal Wellness ve 2. Yıl Büyümesi',
               detail:
-                "Ekim 2023'te Kai'ye, derslerinden birine katılmış olan REI'nin Güney Kaliforniya bölge alıcısı ulaştı. REI, Santa Monica bölgesindeki 5 mağaza için 30 Drift ve 15 Mini tahtalık bir test siparişi verdi. Afarer, ambalajı REI uyumlu asma etiketler ve QR kodlu ürün kaydı içerecek şekilde uyarladı. Aralık 2023'e kadar REI satış hızı 5 mağaza genelinde %82'ye ulaştı; REI, Güney Kaliforniya'daki 20 lokasyon için 100 tahtalık bir sonraki siparişi verdi. Kai ayrıca bir kurumsal wellness programı başlattı — haftalık yerinde SUP yoga derslerini çalışan faydası olarak sağlamak için 4 teknoloji şirketiyle (Google Venice, Hulu Santa Monica ve diğer ikisi) sözleşme yaptı. Kurumsal program aylık 4.200 $ yinelenen gelir oluşturdu. 1. Yılın sonuna kadar (Mart 2024), Drift & Downward Dog birleşik 342.000 $ gelir elde etti (ürün satışları: 218.000 $, ders geliri: 94.000 $, kurumsal wellness: 30.000 $).",
+                "Ekim 2023'te Kai'ye, derslerinden birine katılmış olan REI'nin Güney Kaliforniya bölge alıcısı ulaştı. REI, Santa Monica bölgesindeki 5 mağaza için 30 Drift ve 15 Mini tahtalık bir test siparişi verdi. OLagoon, ambalajı REI uyumlu asma etiketler ve QR kodlu ürün kaydı içerecek şekilde uyarladı. Aralık 2023'e kadar REI satış hızı 5 mağaza genelinde %82'ye ulaştı; REI, Güney Kaliforniya'daki 20 lokasyon için 100 tahtalık bir sonraki siparişi verdi. Kai ayrıca bir kurumsal wellness programı başlattı — haftalık yerinde SUP yoga derslerini çalışan faydası olarak sağlamak için 4 teknoloji şirketiyle (Google Venice, Hulu Santa Monica ve diğer ikisi) sözleşme yaptı. Kurumsal program aylık 4.200 $ yinelenen gelir oluşturdu. 1. Yılın sonuna kadar (Mart 2024), Drift & Downward Dog birleşik 342.000 $ gelir elde etti (ürün satışları: 218.000 $, ders geliri: 94.000 $, kurumsal wellness: 30.000 $).",
             },
           ],
           results: [
@@ -6710,8 +6710,8 @@ const tr: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Neden Afarer',
+    whyOLagoon: {
+      title: 'Neden OLagoon',
       items: [
         {
           title: 'Wellness Deneyimi Anlayışı',
@@ -6750,7 +6750,7 @@ const tr: Record<string, SolutionOverride> = {
       {
         question: 'Kendi markalı SUP Yoga ürün hattımı oluşturabilir miyim?',
         answer:
-          'Evet. Afarer, özellikle yoga ve wellness markaları için tasarlanmış özel renkler, grafikler, ambalaj ve aksesuarlarla eksiksiz private label imalatı sağlar.',
+          'Evet. OLagoon, özellikle yoga ve wellness markaları için tasarlanmış özel renkler, grafikler, ambalaj ve aksesuarlarla eksiksiz private label imalatı sağlar.',
       },
       {
         question: 'SUP Yoga tahtalarınız profesyonel stüdyo kullanımına uygun mu?',

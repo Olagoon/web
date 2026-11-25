@@ -1,6 +1,6 @@
 meta:
-  title: Pranchas de Paddle Infláveis Afarer | Vá mais longe. Reme mais forte.
-  description: Descubra as pranchas de paddle infláveis Afarer para paddling versátil, touring, yoga, pesca e aventuras ao ar livre. Encontre seu SUP perfeito e explore mais na água.
+  title: Pranchas de Paddle Infláveis OLagoon | Vá mais longe. Reme mais forte.
+  description: Descubra as pranchas de paddle infláveis OLagoon para paddling versátil, touring, yoga, pesca e aventuras ao ar livre. Encontre seu SUP perfeito e explore mais na água.
   keywords:
     - prancha de paddle inflável
     - sup inflável
@@ -14,7 +14,7 @@ hero:
   tagline: Pranchas de Paddle Infláveis
   title: Pranchas de Paddle Infláveis para Cada Aventura
   slogan: Vá mais longe. Reme mais forte.
-  subtitle: Descubra a liberdade do paddle com a Afarer. Explore SUPs infláveis cuidadosamente projetados para dias relaxantes no lago, aventuras costeiras, fitness e tudo o mais.
+  subtitle: Descubra a liberdade do paddle com a OLagoon. Explore SUPs infláveis cuidadosamente projetados para dias relaxantes no lago, aventuras costeiras, fitness e tudo o mais.
   taglineSection: Projetado para confiança. Feito para se destacar.
   actions:
     - variant: primary
@@ -24,16 +24,16 @@ hero:
     - text: Explorar SUPs
       href: /inflatable-sup/
       icon: tabler:waves
-    - text: Por Que Afarer
-      href: /afarer-story/
+    - text: Por Que OLagoon
+      href: /olagoon-story/
       icon: tabler:heart
   image:
     src: ~/assets/images/hero-image.webp
-    alt: Pranchas de paddle infláveis Afarer deslizando sobre água calma ao nascer do sol — feitas para cada aventura
+    alt: Pranchas de paddle infláveis OLagoon deslizando sobre água calma ao nascer do sol — feitas para cada aventura
 who_we_serve:
   tagline: Reme Conosco
   title: Encontre Seu Caminho na Água
-  subtitle: Cada remador tem uma ideia diferente de aventura. Descubra um SUP Afarer projetado para o seu jeito de remar.
+  subtitle: Cada remador tem uma ideia diferente de aventura. Descubra um SUP OLagoon projetado para o seu jeito de remar.
   items:
     - title: Iniciantes & Remadores Recreativos
       keywords: SUP inflável para iniciantes, prancha de paddle versátil, SUP estável

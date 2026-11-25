@@ -1,6 +1,6 @@
 meta:
   title: 'Kvalita a testování — kontrola výroby | {SITE}'
-  description: 'Systém kvality afarera: nezávislá testovací laboratoř, procesy ISO 9001 a každý kus otestovaný před odesláním. Kontrola kvality při výrobě nafukovacích SUP prken.'
+  description: 'Systém kvality olagoona: nezávislá testovací laboratoř, procesy ISO 9001 a každý kus otestovaný před odesláním. Kontrola kvality při výrobě nafukovacích SUP prken.'
   keywords:
     - 'kontrola kvality SUP'
     - 'testování nafukovacích SUP'
@@ -9,7 +9,7 @@ meta:
 hero:
   tagline: Zajištění kvality
   title: Testování výkonu a kvality
-  subtitle: Každé nafukovací SUP prkno afarer prochází přísným testováním výkonu a kvality v našem výzkumném a vývojovém centru před odesláním. Naše komplexní testování poskytuje hmatatelný důkaz vynikající kvality produktu.
+  subtitle: Každé nafukovací SUP prkno olagoon prochází přísným testováním výkonu a kvality v našem výzkumném a vývojovém centru před odesláním. Naše komplexní testování poskytuje hmatatelný důkaz vynikající kvality produktu.
 stats:
   - value: 100%
     label: Jednotek tlakově testováno
@@ -22,28 +22,28 @@ stats:
 tests:
   - title: Tlakové testování
     description: Nafukovací komory jsou vystaveny tlaku přesahujícímu doporučené provozní limity po delší dobu. To ověřuje vzduchotěsnost a strukturální integritu materiálu a švů, zajišťující, že produkt vydrží zamýšlené použití a případné přehuštění bez selhání nebo netěsností.
-    image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
   - title: Nárazové testování
     description: Produkty jsou vystaveny řízeným nárazům z různých vah a úhlů. To hodnotí odolnost materiálu vůči proražení, roztržení a poškození z kolizí s překážkami ve vodě.
-    image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
   - title: Testování odolnosti proti UV
     description: Vzorky materiálu procházejí urychleným UV vystavením simulujícím roky silného slunečního záření a následně se znovu testuje zachování pevnosti v tahu a stálost barev. To ověřuje, že směsi PVC odolávají vyblednutí, křídění a praskání a zajišťují dlouhodobou odolnost ve slunných mořských prostředích.
-    image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
   - title: Testování odolnosti proti oděru
     description: Vzorky materiálu jsou třeny o abrazivní povrchy po stanovený počet cyklů pod kontrolovaným tlakem. To měří schopnost materiálu odolávat opotřebení z opakovaného použití, kontaktu s pískem, kameny nebo jinými povrchy.
-    image: https://assets.afarer.com/images/afarer/factory/afarer-pvc-material-testing.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pvc-material-testing.webp
   - title: Testování výkonu při nízkých teplotách
     description: Produkty jsou testovány v chladném prostředí pro posouzení funkčnosti a trvanlivosti v různých teplotních podmínkách, zabraňující ztuhnutí nebo praskání ve studenějších vodách.
-    image: https://assets.afarer.com/images/afarer/factory/afarer-factory-exterior.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-exterior.webp
   - title: Testování vztlaku a nosnosti
     description: Produkty jsou testovány s různými závažími pro stanovení maximální nosnosti a zajištění bezpečné podpory uživatelů a vybavení.
-    image: https://assets.afarer.com/images/afarer/factory/afarer-stock-boat-inventory.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-stock-boat-inventory.webp
   - title: Testování ovladatelnosti
     description: Produkty jsou testovány na jejich reakci na pádlovací nebo motorové vstupy, hodnotí se poloměr otáčení a snadnost ovládání.
-    image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing.webp
   - title: Testování vodotěsnosti
     description: Plně smontované produkty jsou ponořeny nebo vystaveny vodnímu postřiku pro kontrolu netěsností ve švech, ventilech nebo materiálech.
-    image: https://assets.afarer.com/images/afarer/factory/afarer-production-department-2.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department-2.webp
 testing_section:
   tagline: Testovací postupy
   title: Důkladné testování v každé fázi

@@ -1,8 +1,8 @@
 meta:
-  title: 'Medienzentrum — Presse & afarer-Ressourcen | {SITE}'
-  description: 'Das afarer-Medienzentrum: Pressemitteilungen, Markenmaterialien und Ressourcen unseres Unternehmens für aufblasbare SUPs.'
+  title: 'Medienzentrum — Presse & olagoon-Ressourcen | {SITE}'
+  description: 'Das olagoon-Medienzentrum: Pressemitteilungen, Markenmaterialien und Ressourcen unseres Unternehmens für aufblasbare SUPs.'
   keywords:
-    - 'afarer Presse'
+    - 'olagoon Presse'
     - 'SUP-Hersteller Medien'
     - 'Paddleboard-Pressekit'
     - 'Nautik-Unternehmensnews'
@@ -21,7 +21,7 @@ sections:
       - Zubehör & Sicherheitsausrüstung
   - id: logo-brand-kit
     title: Logo & Markenkit
-    desc: Offizielle afarer-Logodateien, Farbpalette, Typografie und Markenrichtlinien.
+    desc: Offizielle olagoon-Logodateien, Farbpalette, Typografie und Markenrichtlinien.
     items:
       - Primärlogo (PNG/SVG/EPS)
       - Symbolmarkierung
@@ -55,7 +55,7 @@ cta:
       desc: Sehen Sie unsere 12.000 m² große Fertigungsanlage
     - label: Markenrichtlinien
       href: /brand/
-      desc: Erfahren Sie mehr über die Marke afarer
+      desc: Erfahren Sie mehr über die Marke olagoon
     - label: Partner werden
       href: /contact/
       desc: OEM-, ODM- und Vertriebsanfragen

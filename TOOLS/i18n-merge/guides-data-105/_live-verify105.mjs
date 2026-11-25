@@ -1,7 +1,7 @@
 // Live verification for shard 105 (guides pl/cs) — run AFTER Cloudflare Pages deploy.
 // Usage: node TOOLS/i18n-merge/guides-data-105/_live-verify105.mjs
 // NOTE: Node undici fetch does NOT support file:// — read local files with fs.
-//       Direct https to afarer.com is blocked in this environment; requests go through
+//       Direct https to olagoon.com is blocked in this environment; requests go through
 //       curl.exe --socks5-hostname 127.0.0.1:10808 (same local proxy as the git push).
 import fs from 'node:fs';
 import path from 'node:path';
@@ -9,11 +9,11 @@ import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 const execFileAsync = promisify(execFile);
 
-const ROOT = 'E:/github/afarer';
-const BASE = 'https://afarer.com';
+const ROOT = 'E:/github/olagoon';
+const BASE = 'https://olagoon.com';
 
 let pass = 0;
 const errors = [];

@@ -1,6 +1,6 @@
 meta:
   title: 'Presenza Globale — Produttore di SUP per 50+ Paesi | {SITE}'
-  description: 'afarer esporta SUP gonfiabili in oltre 50 paesi in tutti i continenti. Produttore e fornitore professionale per marchi, distributori e flotte.'
+  description: 'olagoon esporta SUP gonfiabili in oltre 50 paesi in tutti i continenti. Produttore e fornitore professionale per marchi, distributori e flotte.'
   keywords:
     - 'produttore globale di SUP'
     - 'esportatore di paddle board'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Presenza Globale
   title: Servendo oltre 50 paesi<br />In ogni continente
-  subtitle: Dagli operatori di pattuglia costiera europea ai distributori australiani di sport acquatici alle squadre di soccorso del Medio Oriente — le tavole Afarer sono sull'acqua in tutto il mondo.
+  subtitle: Dagli operatori di pattuglia costiera europea ai distributori australiani di sport acquatici alle squadre di soccorso del Medio Oriente — le tavole OLagoon sono sull'acqua in tutto il mondo.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: produzione e distribuzione marina globale Afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: produzione e distribuzione marina globale OLagoon
 stats:
   title: Portata Globale
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: "Scorte disponibili a Montclair, CA per consegne rapide in tutta l'America del Nord. Costa Ovest: 2-3 giorni, Centro: 3-4 giorni, Costa Est: 4-5 giorni."
       icon: tabler:building-warehouse
     - title: Parti di ricambio
-      description: Ricambi e materiali di consumo originali Afarer disponibili tutto l'anno. I pezzi di uso comune vengono spediti entro 24 ore.
+      description: Ricambi e materiali di consumo originali OLagoon disponibili tutto l'anno. I pezzi di uso comune vengono spediti entro 24 ore.
       icon: tabler:package
     - title: Supporto tecnico
       description: Linea diretta con il nostro team di ingegneri per domande tecniche, consigli sulla riparazione e supporto per le modifiche. Supportiamo tavole che abbiamo costruito 20 anni fa.

@@ -1,6 +1,6 @@
 meta:
   title: 'Partnerid — jaotus ja hulgimüük | {SITE}'
-  description: 'Hakka afarer partneriks: jaotusvõrgustikud, hulgihinnad, OEM/eramärgi programmid ja tugi supilauaettevõtetele üle kogu maailma.'
+  description: 'Hakka olagoon partneriks: jaotusvõrgustikud, hulgihinnad, OEM/eramärgi programmid ja tugi supilauaettevõtetele üle kogu maailma.'
   keywords:
     - 'supi jaotuspartner'
     - 'supilaudade hulgimüük'
@@ -8,15 +8,15 @@ meta:
     - 'supi partnerlus'
 hero:
   tagline: 'Partnerid ja jaotus'
-  title: 'Hakka afarer partneriks<br />— ülemaailmne jaotusvõrgustik'
-  subtitle: 'Liitu afarer ülemaailmse partnerite võrgustikuga. Me töötame merenduse jaotajate, sõudespordi edasimüüjate, varustuse jaemüüjate ja kaubamärgipartneritega üle 50 riigis.'
+  title: 'Hakka olagoon partneriks<br />— ülemaailmne jaotusvõrgustik'
+  subtitle: 'Liitu olagoon ülemaailmse partnerite võrgustikuga. Me töötame merenduse jaotajate, sõudespordi edasimüüjate, varustuse jaemüüjate ja kaubamärgipartneritega üle 50 riigis.'
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: 'afarer ülemaailmne partnerite ja jaotajate võrgustik'
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: 'olagoon ülemaailmne partnerite ja jaotajate võrgustik'
 content_programs:
   tagline: 'Partnerprogrammid'
   title: 'Kasvuks ehitatud<br />partnerprogrammid'
-  subtitle: 'Olenemata sellest, kas oled jaotaja, edasimüüja või kaubamärgipartner, pakub afarer programme, mis on loodud toetama sinu ettevõtet.'
+  subtitle: 'Olenemata sellest, kas oled jaotaja, edasimüüja või kaubamärgipartner, pakub olagoon programme, mis on loodud toetama sinu ettevõtet.'
   columns: 3
   items:
     - title: 'Jaotusprogramm'
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: 'Miks meiega partneriks hakata'
-  title: 'Miks partnerid valivad afarer'
+  title: 'Miks partnerid valivad olagoon'
   subtitle: 'Meie partnerid saavad kasu tegelikust tootmisvõimekusest, ühtlasest kvaliteedist ja vastuvõtlikust toest.'
   list:
     - 'Otsene tehase ligipääs: Tööta otse meie tootmisemeeskonnaga — vahendajaid pole. Saad kiiremaid vastuseid, paremaid hindu ja täieliku nähtavuse tootmisesse.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: 'Kuidas partneriks saada'
   title: 'Lihtne partnerlusprotsess'
-  subtitle: 'Meie partnerlusprotsess on otsekohene — loodud, et sa hakkaksid afarer tooteid kiiresti müüma.'
+  subtitle: 'Meie partnerlusprotsess on otsekohene — loodud, et sa hakkaksid olagoon tooteid kiiresti müüma.'
   items:
     - title: 'Samm 1: Esita taotlus'
       description: 'Täida meie partnerluse taotlusvorm koos oma ettevõtte profiili, sihtturu ja tootehuvidesid.'
@@ -62,7 +62,7 @@ content_process:
     - title: 'Samm 4: Koolitus ja käivitamine'
       description: 'Toodete koolitus, müügitugi ja turundusmaterjalid. Oled valmis müüma hakkama.'
 cta:
-  title: 'Valmis afarer partneriks saama?'
+  title: 'Valmis olagoon partneriks saama?'
   subtitle: 'Taotle partnerlust ja meie meeskond vastab 3 tööpäeva jooksul.'
   actions:
     - variant: primary

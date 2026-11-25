@@ -1,4 +1,4 @@
--- Contact/inquiry archive for afarer-contact worker (Cloudflare D1).
+-- Contact/inquiry archive for olagoon-contact worker (Cloudflare D1).
 -- Idempotent: safe to run on every deploy.
 
 CREATE TABLE IF NOT EXISTS inquiries (

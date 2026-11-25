@@ -1,6 +1,6 @@
 meta:
   title: 'Fallstudien — Partnerschafts- & Co-Brand-Projekte | {SITE}'
-  description: 'Echte Projekte, echte Ergebnisse: SUP-Flotten für Resorts, Eigenmarken, Vertrieb und Rettung. Sehen Sie, wie afarer seine Partner unterstützt.'
+  description: 'Echte Projekte, echte Ergebnisse: SUP-Flotten für Resorts, Eigenmarken, Vertrieb und Rettung. Sehen Sie, wie olagoon seine Partner unterstützt.'
   keywords:
     - 'SUP-Fallstudien'
     - 'Paddleboard-Partnerschaftsprojekte'
@@ -8,11 +8,11 @@ meta:
     - 'Nautische Projektbeispiele'
 hero:
   tagline: Fallstudien
-  title: Echte Projekte, echte Ergebnisse<br />— afarer in Aktion
-  subtitle: Erfahren Sie, wie afarer mit Distributoren, Marken und Betreibern weltweit zusammenarbeitet, um maßgeschneiderte Marine-Lösungen für jede Anwendung zu liefern.
+  title: Echte Projekte, echte Ergebnisse<br />— olagoon in Aktion
+  subtitle: Erfahren Sie, wie olagoon mit Distributoren, Marken und Betreibern weltweit zusammenarbeitet, um maßgeschneiderte Marine-Lösungen für jede Anwendung zu liefern.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer Fallstudien — kundenspezifische Marinefertigungsprojekte
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon Fallstudien — kundenspezifische Marinefertigungsprojekte
 features3_cases:
   tagline: Ausgewählte Fälle
   title: Maßgeschneiderte Lösungen<br />für echte Herausforderungen
@@ -31,7 +31,7 @@ features3_cases:
         55 Tagen von Qingdao verschickt.
       product: SUP Voyager Tauchgang
       results: Alle 12 Bretter wurden rechtzeitig für die Touristensaison geliefert. Die Flotte ist seit 18 Monaten im täglichen Betrieb ohne Materialausfälle. Der Kunde bestellte im zweiten Jahr 6 zusätzliche Einheiten.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       quote: Die SUP Voyager Dive ist das Rückgrat unserer täglichen Tauchaktivitäten. Die Stabilität ist ausgezeichnet, und die Anordnung der Ausrüstungsaufbewahrung hält das Deck für unsere Gäste sauber und sicher.
       icon: tabler:lifebuoy
     - title: Australisches Distributor-Co-Brand-Programm
@@ -46,7 +46,7 @@ features3_cases:
         australischen Einzelhandelsgeschäften konfiguriert.
       product: Maßgeschneiderte SUP-Linie (8 Modelle)
       results: Vom Konzept bis zur ersten Lieferung in 90 Tagen. Einzelhandelsverkaufsquote von 85 % in der ersten Saison. Der Distributor erweiterte die Partnerschaft im zweiten Jahr um zusätzliche SUP-Modelle.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       quote: Ein Seefahrer lieferte in 90 Tagen eine komplette SUP-Linie — vom ersten Design bis zum Verkaufsregal. Die Qualität entspricht der von Marken, die zum doppelten Preis verkaufen.
       icon: tabler:currency-dollar
     - title: Rettungsausrüstungslieferung Nahost
@@ -59,7 +59,7 @@ features3_cases:
         Konformitätszertifikate für die lokale Registrierung.
       product: SUP-Patrouille
       results: Flotte wurde über 5 Küstenstationen eingesetzt. Die Geräte arbeiten bei extremer Hitze (45°C) ohne Verschlechterung. Leistung und Haltbarkeit übertrafen die Spezifikationen.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       quote: Das SUP-Patrouillenbrett übertraf unsere betrieblichen Anforderungen. Bei extremen Hitze- Bedingungen zeigen die Boards nach 24-monatiger täglicher Nutzung keine Anzeichen von UV-Abbau.
       icon: tabler:alert-triangle
     - title: Europäische Co-Brand-Partnerschaft
@@ -74,8 +74,8 @@ features3_cases:
         für das lokale Servicenetz bereitgestellt.
       product: Maßgeschneiderte SUP-Linie (5 Modelle)
       results: Mehrjahresvereinbarung unterzeichnet. Erste Produktionsreihe von 50 Einheiten innerhalb von 75 Tagen versandt. Marke auf großer Fachmesse eingeführt, mit positiver Händlerresonanz.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-      quote: Die Zusammenarbeit mit afarer ermöglichte es uns, in den SUP-Markt einzutreten, ohne eine Fabrik zu bauen — sie lieferten eine schlüsselfertige Lösung mit CE-Zertifizierung und Unterlagen zur Händlerunterstützung.
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Die Zusammenarbeit mit olagoon ermöglichte es uns, in den SUP-Markt einzutreten, ohne eine Fabrik zu bauen — sie lieferten eine schlüsselfertige Lösung mit CE-Zertifizierung und Unterlagen zur Händlerunterstützung.
       icon: tabler:building
     - title: Karibik-Resort-Flotte
       customer: Paradise Island Resorts GmbH
@@ -89,7 +89,7 @@ features3_cases:
         Inventarverzeichnis.
       product: Vollständiges SUP-Paket (70 Einheiten)
       results: Die Flotte traf 6 Wochen vor der Hochsaison ein. Die Gästebewertungen für Wassersportaktivitäten stiegen im Jahresvergleich um 40 %. Die Ausrüstung hält seit 3 Saisons mit nur routinemäßiger Wartung.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       quote: Der Ansatz des Komplettpakets bedeutete, dass wir alles, was wir brauchten, in einer Lieferung erhielten — Bretter und Zubehör, alle gebrandet und bereit für die Nutzung durch Gäste. Unsere Gäste lieben die Qualität der Ausrüstung.
       icon: tabler:beach
     - title: US-Küstenpatrouillenvertrag
@@ -102,12 +102,12 @@ features3_cases:
         bereitgestellt.
       product: SUP-Patrouille
       results: Die Agentur berichtete über eine Einsatzbereitschaftsrate von 95 % in den ersten 12 Monaten. Eine zusätzliche Bestellung für 8 Einheiten wurde aufgegeben.
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       quote: Das SUP-Patrouillenboard bietet unseren Crews die Leistung, die für Operationen im offenen Gewässer erforderlich ist. Die verstärkte Konstruktion sorgt für entscheidende Haltbarkeit, ohne das Handling zu beeinträchtigen.
       icon: tabler:shield
 cta:
   title: Haben Sie ein Projekt, das Sie besprechen möchten?
-  subtitle: Jede Partnerschaft mit afarer beginnt mit einem Gespräch. Teilen Sie uns Ihre Anforderungen mit und wir entwickeln eine Lösung.
+  subtitle: Jede Partnerschaft mit olagoon beginnt mit einem Gespräch. Teilen Sie uns Ihre Anforderungen mit und wir entwickeln eine Lösung.
   actions:
     - variant: primary
       text: Starten Sie Ihr Projekt

@@ -1,18 +1,18 @@
 meta:
   title: 'Matriks Solusi Klien B2B | {SITE}'
-  description: 'Matriks solusi klien B2B Afarer lengkap yang mencakup 24 jenis pelanggan — dari startup outdoor hingga lembaga konservasi bahari.'
+  description: 'Matriks solusi klien B2B OLagoon lengkap yang mencakup 24 jenis pelanggan — dari startup outdoor hingga lembaga konservasi bahari.'
 
 hero:
   tagline: 'Solusi Klien B2B'
   title: '24 Solusi B2B<br />Yang Sesuai dengan Bisnis Anda'
-  subtitle: 'Dari pendiri startup hingga distributor global — temukan solusi Afarer yang tepat yang dirancang untuk model bisnis, industri, dan tujuan Anda.'
+  subtitle: 'Dari pendiri startup hingga distributor global — temukan solusi OLagoon yang tepat yang dirancang untuk model bisnis, industri, dan tujuan Anda.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Pabrik dan fasilitas manufaktur Afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'Pabrik dan fasilitas manufaktur OLagoon'
 
 solutions:
   title: 'Matriks Solusi Klien'
-  subtitle: 'Setiap jenis pelanggan, kebutuhan inti mereka, dan halaman solusi Afarer yang dirancang untuk mereka.'
+  subtitle: 'Setiap jenis pelanggan, kebutuhan inti mereka, dan halaman solusi OLagoon yang dirancang untuk mereka.'
   items:
     - clientType: 'Pendiri Startup Outdoor'
       need: 'Penciptaan Merek'

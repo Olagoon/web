@@ -1,6 +1,6 @@
 meta:
   title: 'הסמכות — CE, ISO 9001 ותאימות | {SITE}'
-  description: 'הסמכות האיכות של afarer: CE (EN ISO 25649), ISO 9001:2015, BSCI. תאימות ובטיחות עבור יצרן SUP מתנפח.'
+  description: 'הסמכות האיכות של olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. תאימות ובטיחות עבור יצרן SUP מתנפח.'
   keywords:
     - 'הסמכת CE ל-SUP'
     - 'ISO 9001 SUP'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: 'הסמכות ותקנים'
   title: 'הסמכות איכות<br />ותקני תאימות'
-  subtitle: 'ייצור ה-SUP של afarer מוסמך לתקני בטיחות ימית בינלאומיים, למערכות ניהול איכות ולתקנות סביבתיות — CE, ISO 9001, UKCA, BSCI ו-REACH.'
+  subtitle: 'ייצור ה-SUP של olagoon מוסמך לתקני בטיחות ימית בינלאומיים, למערכות ניהול איכות ולתקנות סביבתיות — CE, ISO 9001, UKCA, BSCI ו-REACH.'
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: 'הסמכות האיכות של afarer ותיעוד תאימות'
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: 'הסמכות האיכות של olagoon ותיעוד תאימות'
 content_certifications:
   tagline: 'ההסמכות שלנו'
   title: 'איכות מוסמכת,<br />מוכרת ברחבי העולם'
-  subtitle: 'כל מוצר של afarer נתמך בהסמכות המעידות על מחויבותנו לאיכות, לבטיחות ולאחריות סביבתית.'
+  subtitle: 'כל מוצר של olagoon נתמך בהסמכות המעידות על מחויבותנו לאיכות, לבטיחות ולאחריות סביבתית.'
   items:
     - title: 'הסמכת CE'
-      description: 'כל מוצרי afarer עומדים בדרישות סימון CE האירופי לכלי שיט לפנאי, ומבטיחים עמידה בתקני בטיחות, בריאות והגנת הסביבה.'
+      description: 'כל מוצרי olagoon עומדים בדרישות סימון CE האירופי לכלי שיט לפנאי, ומבטיחים עמידה בתקני בטיחות, בריאות והגנת הסביבה.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'מערכת ניהול האיכות שלנו מוסמכת ISO 9001:2015, ומקיפה את עיצוב, הייצור וההפצה של כלי שיט מתנפחים וציוד ימי.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'מוצרים הנמכרים בשוק הבריטי נושאים סימון UKCA, המאשר עמידה בתקנות בריטניה לציוד ימי ולכלי שיט אישיים.'
       icon: tabler:shield
     - title: 'עמידה ב-BSCI'
-      description: 'afarer עוברת ביקורות BSCI (Business Social Compliance Initiative), המעידות על פרקטיקות ייצור אתיות, תנאי עבודה הוגנים ואחריות לאורך שרשרת האספקה.'
+      description: 'olagoon עוברת ביקורות BSCI (Business Social Compliance Initiative), המעידות על פרקטיקות ייצור אתיות, תנאי עבודה הוגנים ואחריות לאורך שרשרת האספקה.'
       icon: tabler:heart-handshake
     - title: 'עמידה ב-REACH'
-      description: 'כל החומרים המשמשים במוצרי afarer עומדים בתקנות REACH של האיחוד האירופי לבטיחות כימיקלים, ומבטיחים היעדר חומרים מוגבלים ב-PVC, ב-EVA או ברכיבים שלנו.'
+      description: 'כל החומרים המשמשים במוצרי olagoon עומדים בתקנות REACH של האיחוד האירופי לבטיחות כימיקלים, ומבטיחים היעדר חומרים מוגבלים ב-PVC, ב-EVA או ברכיבים שלנו.'
       icon: tabler:flask
     - title: 'בדיקות חומרים'
       description: 'הבדים נבדקים לחוזק מתיחה, עמידות בקריעה, דהיית UV וביצועים בסדקי קור. כל אצוות ייצור נדגמת ומאומתת.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: 'תקני בטיחות ימית'
   title: 'בטיחות תחילה<br />— מתוכנן לפעולה אמינה'
-  subtitle: 'מוצרי afarer מתוכננים ונבדקים כך שיעמדו בתקני בטיחות ימית בינלאומיים לשימוש מסחרי ולפנאי.'
+  subtitle: 'מוצרי olagoon מתוכננים ונבדקים כך שיעמדו בתקני בטיחות ימית בינלאומיים לשימוש מסחרי ולפנאי.'
   items:
     - title: 'EN ISO 25649'
       description: 'SUP מתנפחים עומדים בתקני EN ISO 25649 למבנה, יציבות, ציפה וכושר נשיאה.'

@@ -1,14 +1,14 @@
 meta:
   title: 'SUP vairumtirdzniecības izplatīšanas partneru programma | {SITE}'
-  description: 'Pievienojieties Afarer globālajam SUP vairumtirdzniecības izplatīšanas tīklam. Ekskluzīvas teritorijas, pilns piepūšamo SUP produktu portfelis, konkurētspējīgas vairumtirdzniecības cenas un atveltīta kontu pārvaldība 50+ valstīs.'
+  description: 'Pievienojieties OLagoon globālajam SUP vairumtirdzniecības izplatīšanas tīklam. Ekskluzīvas teritorijas, pilns piepūšamo SUP produktu portfelis, konkurētspējīgas vairumtirdzniecības cenas un atveltīta kontu pārvaldība 50+ valstīs.'
 
 hero:
   tagline: 'Izplatītāji'
   title: 'Pievienojieties mūsu globālajam<br />izplatīšanas tīklam'
-  subtitle: 'SUP vairumtirdzniecības izplatīšanas partneru programma ar ekskluzīvām teritorijām, pilnu piepūšamo SUP produktu portfeli un pasaules līmeņa atbalstu. Afarer piegādā uz 50+ valstīm — mēs meklējam pastāvīgus jūras un ūdenssporta izplatītājus.'
+  subtitle: 'SUP vairumtirdzniecības izplatīšanas partneru programma ar ekskluzīvām teritorijām, pilnu piepūšamo SUP produktu portfeli un pasaules līmeņa atbalstu. OLagoon piegādā uz 50+ valstīm — mēs meklējam pastāvīgus jūras un ūdenssporta izplatītājus.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'Afarer globālā izplatīšanas un piegādes operācijas'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'OLagoon globālā izplatīšanas un piegādes operācijas'
 
 benefits:
   title: 'Ko saņem izplatītāji'
@@ -27,7 +27,7 @@ benefits:
 
 coverage:
   title: 'Pašreizējā izplatīšana'
-  subtitle: 'Afarer šobrīd apkalpo šos tirgus tieši.'
+  subtitle: 'OLagoon šobrīd apkalpo šos tirgus tieši.'
   regions:
     - name: 'Eiropa'
       countries: 'Francija, Vācija, Apvienotā Karaliste, Spānija, Itālija, Nīderlande, Zviedrija, Norvēģija, Polija, Grieķija'

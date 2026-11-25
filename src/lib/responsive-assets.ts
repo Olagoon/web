@@ -1,5 +1,5 @@
 const RESPONSIVE_WIDTHS = [480, 768, 1200, 1920];
-const R2_BASE = (import.meta.env.PUBLIC_ASSETS_BASE_URL || 'https://assets.afarer.com').replace(/\/+$/, '');
+const R2_BASE = (import.meta.env.PUBLIC_ASSETS_BASE_URL || 'https://assets.olagoon.com').replace(/\/+$/, '');
 
 function isR2ImageUrl(value: string): boolean {
   try {

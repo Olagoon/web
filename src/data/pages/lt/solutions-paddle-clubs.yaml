@@ -7,12 +7,12 @@ hero:
   title: 'Paleiskite, valdykite ir plėskite savo irklavimo klubą<br />su komercinės klasės SUP parkais'
   subtitle: 'SUP klubų įrangos tiekėjas irklavimo klubams ir SUP mokykloms visame pasaulyje — patvarios komercinės lentos, klubų didmenų kainos, pasirinktinis prekės ženklas ir greitos atsarginės dalys, kad galėtumėte sutelkti dėmesį į savo bendruomenės augimą.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: 'Irklavimo klubo nariai vienodomis Afarer SUP lentomis'
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: 'Irklavimo klubo nariai vienodomis OLagoon SUP lentomis'
 
 benefits:
   title: 'Klubo parko pranašumai'
-  subtitle: 'Kodėl irklavimo klubai 50+ šalių renkasi Afarer kaip savo įrangos partnerį.'
+  subtitle: 'Kodėl irklavimo klubai 50+ šalių renkasi OLagoon kaip savo įrangos partnerį.'
   items:
     - metric: '40%+'
       label: 'Parko išlaidų taupymas'
@@ -86,7 +86,7 @@ training:
         - 'CE sertifikuota įranga'
 
 features:
-  title: 'Kodėl klubai renkasi Afarer'
+  title: 'Kodėl klubai renkasi OLagoon'
   subtitle: 'Nuosekli kokybė, greitos dalys ir didmenų kainos, sukurtos augantiems klubams.'
   items:
     - title: '500+ nuomos ciklų'

@@ -8,7 +8,7 @@
     - beginner-guide
 - id: ocean-use
   question: 'Kan ik het in de zee gebruiken?'
-  answer: 'Ja. afarer SUP-boards zijn gebouwd voor gebruik in zee, meren en rivieren. Onze Touring-serie houdt kustgolven aan, en alle boards gebruiken PVC van maritieme kwaliteit dat bestand is tegen corrosie door zout water. Spoel na gebruik in zee na met zoet water.'
+  answer: 'Ja. olagoon SUP-boards zijn gebouwd voor gebruik in zee, meren en rivieren. Onze Touring-serie houdt kustgolven aan, en alle boards gebruiken PVC van maritieme kwaliteit dat bestand is tegen corrosie door zout water. Spoel na gebruik in zee na met zoet water.'
   category: general
   relatedProducts: []
   relatedGuides:
@@ -22,7 +22,7 @@
     - sup-maintenance
 - id: travel-sup
   question: 'Kan ik reizen met een opblaasbaar SUP?'
-  answer: 'Zeker. Elk afarer-board past in een draagtas ter grootte van een rugzak die voldoet aan de bagage-eisen van luchtvaartmaatschappijen. Met slechts 18–22 pond is het eenvoudig mee te nemen naar het strand, het meer of door luchthaventerminals.'
+  answer: 'Zeker. Elk olagoon-board past in een draagtas ter grootte van een rugzak die voldoet aan de bagage-eisen van luchtvaartmaatschappijen. Met slechts 18–22 pond is het eenvoudig mee te nemen naar het strand, het meer of door luchthaventerminals.'
   category: general
   relatedProducts: []
   relatedGuides: []
@@ -35,7 +35,7 @@
     - understanding-specs
 - id: box-contents
   question: 'Wat zit er in de doos?'
-  answer: 'Elke afarer-SUP bevat het board, een reis-rugzak, een dubbelwerkende handpomp, een losse vin, een spiraalleash en een reparatieset. Sommige modellen bieden ook de optie van een carbon paddle.'
+  answer: 'Elke olagoon-SUP bevat het board, een reis-rugzak, een dubbelwerkende handpomp, een losse vin, een spiraalleash en een reparatieset. Sommige modellen bieden ook de optie van een carbon paddle.'
   category: product
   relatedProducts: []
   relatedGuides: []
@@ -62,7 +62,7 @@
   relatedGuides: []
 - id: puncture-repair
   question: 'Hoe repareer ik een lek?'
-  answer: 'Maak het gebied schoon, knip een patch met afgeronde hoeken, breng PVC-lijm aan, druk stevig aan en wacht 24 uur voordat u het board oppompt. afarer-boards worden geleverd met een reparatieset. Gedetailleerde instructies vindt u in onze reparatiegids voor opblaasbare boards.'
+  answer: 'Maak het gebied schoon, knip een patch met afgeronde hoeken, breng PVC-lijm aan, druk stevig aan en wacht 24 uur voordat u het board oppompt. olagoon-boards worden geleverd met een reparatieset. Gedetailleerde instructies vindt u in onze reparatiegids voor opblaasbare boards.'
   category: maintenance
   relatedProducts: []
   relatedGuides:
@@ -92,8 +92,8 @@
     - weather-conditions
     - safety-tips
 - id: warranty
-  question: 'Wat is de garantie van afarer?'
-  answer: 'Alle afarer-producten worden gedekt door een uitgebreide fabrikantengarantie. SUP-boards vallen onder een garantie van 2 jaar of langer tegen fabricagefouten. De garantie dekt fouten in materiaal en afwerking bij normaal gebruik.'
+  question: 'Wat is de garantie van olagoon?'
+  answer: 'Alle olagoon-producten worden gedekt door een uitgebreide fabrikantengarantie. SUP-boards vallen onder een garantie van 2 jaar of langer tegen fabricagefouten. De garantie dekt fouten in materiaal en afwerking bij normaal gebruik.'
   category: warranty
   relatedProducts: []
   relatedGuides: []
@@ -130,13 +130,13 @@
     - choosing-paddle
 - id: material-difference
   question: 'Wat is het verschil tussen enkel- en meerlaags PVC SUP boards?'
-  answer: 'PVC is licht, betaalbaar en eenvoudig te repareren met de meegeleverde patchset. PVC van militaire kwaliteit met UV-bestendige coating biedt de beste balans tussen duurzaamheid en gewicht voor recreatief SUP-gebruik. afarer gebruikt drielagig gelamineerd PVC in alle productlijnen.'
+  answer: 'PVC is licht, betaalbaar en eenvoudig te repareren met de meegeleverde patchset. PVC van militaire kwaliteit met UV-bestendige coating biedt de beste balans tussen duurzaamheid en gewicht voor recreatief SUP-gebruik. olagoon gebruikt drielagig gelamineerd PVC in alle productlijnen.'
   category: product
   relatedProducts: []
   relatedGuides: []
 - id: sup-width-stability
   question: 'Welke SUP-breedte is het beste voor stabiliteit?'
-  answer: 'Voor beginners biedt een breedte van 33–34 inch de beste balans tussen stabiliteit en paddelgemak. Boards smaller dan 32 inch voelen wankel voor nieuwe paddelaars. De afarer SUP Explorer 11 met een breedte van 33 inch is ideaal om te leren.'
+  answer: 'Voor beginners biedt een breedte van 33–34 inch de beste balans tussen stabiliteit en paddelgemak. Boards smaller dan 32 inch voelen wankel voor nieuwe paddelaars. De olagoon SUP Explorer 11 met een breedte van 33 inch is ideaal om te leren.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -152,21 +152,21 @@
   relatedGuides:
     - sup-size-guide
     - paddle-board-size-guide
-- id: afarer-vs-others
-  question: 'Hoe verhoudt afarer zich tot andere merken?'
-  answer: 'afarer biedt de beste prijs-kwaliteitverhouding in opblaasbaar watersportmateriaal. Vergeleken met Red Paddle Co levert afarer 90% van de prestaties voor 60% van de kosten. Vergeleken met iRocker gebruikt afarer hoogwaardiger drielags militair PVC en hogere PSI-waarden. Vergeleken met Bluefin biedt afarer superieure materiaalspecificaties. Voor de meeste recreatieve paddelaars biedt afarer de beste balans tussen kwaliteit en prijs.'
+- id: olagoon-vs-others
+  question: 'Hoe verhoudt olagoon zich tot andere merken?'
+  answer: 'olagoon biedt de beste prijs-kwaliteitverhouding in opblaasbaar watersportmateriaal. Vergeleken met Red Paddle Co levert olagoon 90% van de prestaties voor 60% van de kosten. Vergeleken met iRocker gebruikt olagoon hoogwaardiger drielags militair PVC en hogere PSI-waarden. Vergeleken met Bluefin biedt olagoon superieure materiaalspecificaties. Voor de meeste recreatieve paddelaars biedt olagoon de beste balans tussen kwaliteit en prijs.'
   category: general
   relatedProducts:
     - sup-explorer-11
     - sup-touring-cruiser
   relatedGuides:
     - best-surf-gear-brands-compared
-    - afarer-vs-red-paddle
-    - afarer-vs-irocker
-    - afarer-vs-bluefin
+    - olagoon-vs-red-paddle
+    - olagoon-vs-irocker
+    - olagoon-vs-bluefin
 - id: fishing-sup-setup
   question: 'Kan ik vissen vanaf een SUP-board?'
-  answer: 'Ja. Vissen vanaf een SUP is steeds populairder omdat de staande positie uitstekend zicht in het water biedt. Kies een board van minstens 11 voet lang en 33–34 inch breed voor stabiliteit. Voeg een melkkrat met hengelhouders toe, bevestigd aan de bungees op het dek, een klein anker, en draag altijd een PFD. De afarer SUP Explorer 11 is zeer geschikt voor ontspannen vissen.'
+  answer: 'Ja. Vissen vanaf een SUP is steeds populairder omdat de staande positie uitstekend zicht in het water biedt. Kies een board van minstens 11 voet lang en 33–34 inch breed voor stabiliteit. Voeg een melkkrat met hengelhouders toe, bevestigd aan de bungees op het dek, een klein anker, en draag altijd een PFD. De olagoon SUP Explorer 11 is zeer geschikt voor ontspannen vissen.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -183,7 +183,7 @@
     - yoga-sup-guide
 - id: airline-travel-sup
   question: 'Wat zijn de regels van luchtvaartmaatschappijen voor reizen met een opblaasbaar SUP?'
-  answer: 'De meeste luchtvaartmaatschappijen accepteren SUP-rugzakken als ruimbagage als ze onder 23–32 kg blijven. De afarer-rugzak meet ongeveer 90x40x30 cm en weegt ingepakt ongeveer 15 kg. Sommige maatschappijen rekenen mogelijk toeslagen voor oversized bagage. Kom vroeg, wikkel vinnen en pomp apart in uw handbagage en markeer de tas als breekbaar. Informeer altijd van tevoren naar het sportuitrustingsbeleid van uw maatschappij.'
+  answer: 'De meeste luchtvaartmaatschappijen accepteren SUP-rugzakken als ruimbagage als ze onder 23–32 kg blijven. De olagoon-rugzak meet ongeveer 90x40x30 cm en weegt ingepakt ongeveer 15 kg. Sommige maatschappijen rekenen mogelijk toeslagen voor oversized bagage. Kom vroeg, wikkel vinnen en pomp apart in uw handbagage en markeer de tas als breekbaar. Informeer altijd van tevoren naar het sportuitrustingsbeleid van uw maatschappij.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -204,14 +204,14 @@
   relatedProducts: []
   relatedGuides: []
 - id: oem-custom-branding
-  question: 'Kan ik mijn eigen logo op afarer-producten aanbrengen?'
+  question: 'Kan ik mijn eigen logo op olagoon-producten aanbrengen?'
   answer: "Ja. Onze OEM-service omvat custom logo-plaatsing, custom kleurenschema's en custom verpakking. Wij bieden tampondruk, warmtetransfer en borduurwerk, afhankelijk van het producttype. Stuur uw artwork en specificaties naar ons verkoopteam voor een offerte en een schatting van de levertijd."
   category: ordering
   relatedProducts: []
   relatedGuides: []
 - id: sup-inflate-pressure
   question: 'Tot hoeveel PSI moet ik mijn SUP oppompen?'
-  answer: 'Pomp het board op tot zijn maximale PSI-rating voor de beste prestaties — doorgaans 15–18 PSI voor kwaliteits-SUP-boards. De afarer SUP Explorer 11 presteert het best bij 15–18 PSI. Te weinig lucht maakt het board zacht en laat het slecht sturen. Overpompen boven de maximale rating kan de drop-stitch-draden beschadigen. Raadpleeg het stickertje bij het ventiel voor de specifieke rating van uw board.'
+  answer: 'Pomp het board op tot zijn maximale PSI-rating voor de beste prestaties — doorgaans 15–18 PSI voor kwaliteits-SUP-boards. De olagoon SUP Explorer 11 presteert het best bij 15–18 PSI. Te weinig lucht maakt het board zacht en laat het slecht sturen. Overpompen boven de maximale rating kan de drop-stitch-draden beschadigen. Raadpleeg het stickertje bij het ventiel voor de specifieke rating van uw board.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -229,7 +229,7 @@
     - inflatable-sup-maintenance
 - id: sup-seated-paddling
   question: 'Kan ik mijn SUP zittend paddelen?'
-  answer: 'Ja. Veel SUP-boards, waaronder de afarer Explorer 11, hebben D-ringen waaraan een zitje kan worden gemonteerd. Zittend paddelen is een comfortabele optie voor langere tochten, vissen of wanneer u op het water van positie wilt wisselen.'
+  answer: 'Ja. Veel SUP-boards, waaronder de olagoon Explorer 11, hebben D-ringen waaraan een zitje kan worden gemonteerd. Zittend paddelen is een comfortabele optie voor langere tochten, vissen of wanneer u op het water van positie wilt wisselen.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -252,7 +252,7 @@
     - sup-leash-guide
 - id: drop-stitch-technology
   question: 'Wat is drop-stitch-kern-technologie en waarom is dat belangrijk?'
-  answer: 'Drop-stitch-kern-technologie gebruikt duizenden polyesterdraden die de boven- en onderlaag van een PVC-board met elkaar verbinden. Opgepompt tot 15-20 PSI creëren de draden een stijve, torsiebestendige structuur die zich gedraagt als een board met een harde romp. afarer gebruikt drielagig militair PVC met drop-stitch-laminering op alle SUP-productniveaus en bereikt daarmee een stijfheid die vergelijkbaar is met epoxy-boards, terwijl het board makkelijk vervoerbaar blijft.'
+  answer: 'Drop-stitch-kern-technologie gebruikt duizenden polyesterdraden die de boven- en onderlaag van een PVC-board met elkaar verbinden. Opgepompt tot 15-20 PSI creëren de draden een stijve, torsiebestendige structuur die zich gedraagt als een board met een harde romp. olagoon gebruikt drielagig militair PVC met drop-stitch-laminering op alle SUP-productniveaus en bereikt daarmee een stijfheid die vergelijkbaar is met epoxy-boards, terwijl het board makkelijk vervoerbaar blijft.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -262,7 +262,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-inflatable-vs-rigid
   question: 'Opblaasbaar of stijf SUP: wat is het beste voor verschillende doeleinden?'
-  answer: 'Opblaasbare SUP-boards blinken uit in draagbaarheid, opslag en schokdemping — ideaal voor reizen, beginners en recreatief gebruik. Stijve epoxy-boards bieden maximale snelheid en glijvermogen voor racen en surfen. Voor 90% van de paddelaars biedt een kwaliteitsboard met drop-stitch-kern (15-20 PSI) voldoende stijfheid voor touring, fitness, yoga en vissen. afarer-boards evenaren de prestaties van mid-range hardboards en passen toch in een rugzak.'
+  answer: 'Opblaasbare SUP-boards blinken uit in draagbaarheid, opslag en schokdemping — ideaal voor reizen, beginners en recreatief gebruik. Stijve epoxy-boards bieden maximale snelheid en glijvermogen voor racen en surfen. Voor 90% van de paddelaars biedt een kwaliteitsboard met drop-stitch-kern (15-20 PSI) voldoende stijfheid voor touring, fitness, yoga en vissen. olagoon-boards evenaren de prestaties van mid-range hardboards en passen toch in een rugzak.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -272,7 +272,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-skill-progression
   question: 'Hoe ziet de typische SUP-ontwikkeling van beginner tot gevorderde eruit?'
-  answer: 'Beginner (sessie 1-3): opstaan, basisslagen vooruit, draaien, veilig vallen. Geoefend (sessie 5-15): efficiënte paddeltechniek, pivot-draaien, navigeren in golven, basisreddingsvaardigheden. Gevorderd (20+ sessies): wedstrijdstarts, draaien om boeien, surfen op kleine golven, paddelen met de wind mee. Professioneel: wedstrijdracen, surf-SUP, langeafstands-touring. afarer-boards ondersteunen elke stap: Explorer 11 voor beginners, Ocean Voyager voor touring en Cheetah Surge voor prestatiegericht paddelen.'
+  answer: 'Beginner (sessie 1-3): opstaan, basisslagen vooruit, draaien, veilig vallen. Geoefend (sessie 5-15): efficiënte paddeltechniek, pivot-draaien, navigeren in golven, basisreddingsvaardigheden. Gevorderd (20+ sessies): wedstrijdstarts, draaien om boeien, surfen op kleine golven, paddelen met de wind mee. Professioneel: wedstrijdracen, surf-SUP, langeafstands-touring. olagoon-boards ondersteunen elke stap: Explorer 11 voor beginners, Ocean Voyager voor touring en Cheetah Surge voor prestatiegericht paddelen.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -284,7 +284,7 @@
     - sup-paddle-guide
 - id: sup-weight-capacity
   question: 'Hoeveel gewicht kan een opblaasbaar SUP-board dragen?'
-  answer: 'De gewichtscapaciteit varieert per boardvolume. afarer-boards: SUP Explorer 11 (260 L, tot 100 kg / 220 pond), Ocean Voyager 12 (310 L, tot 140 kg / 308 pond), Leviathan Wake (350 L, tot 180 kg / 396 pond). Houd voor optimale prestaties de totale belasting (rijder + uitrusting) onder 80% van de maximale capaciteit. Het board ligt hoger in het water en stuurt beter zonder overbelasting, vooral in golfwater.'
+  answer: 'De gewichtscapaciteit varieert per boardvolume. olagoon-boards: SUP Explorer 11 (260 L, tot 100 kg / 220 pond), Ocean Voyager 12 (310 L, tot 140 kg / 308 pond), Leviathan Wake (350 L, tot 180 kg / 396 pond). Houd voor optimale prestaties de totale belasting (rijder + uitrusting) onder 80% van de maximale capaciteit. Het board ligt hoger in het water en stuurt beter zonder overbelasting, vooral in golfwater.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -301,7 +301,7 @@
   relatedGuides: []
 - id: sup-inflatable-durability
   question: 'Hoe lang gaan opblaasbare SUP-boards mee met goed onderhoud?'
-  answer: 'Met goed onderhoud gaat een kwaliteits-SUP-board 5-10 jaar mee bij regelmatig recreatief gebruik. Drielagig militair PVC met UV-bestendige coating — zoals gebruikt in alle afarer-boards — weerstaat zonschade, zoutwatercorrosie en slijtage. Belangrijke factoren voor de levensduur: na gebruik naspoelen met zoet water, grondig drogen vóór opslag, buiten directe UV bewaren wanneer niet in gebruik, gedeeltelijk opgepompt bewaren op een koele, droge plek, en het board niet over ruwe oppervlakken slepen. De drop-stitch-draden en naden zijn doorgaans het eerste zwakke punt — niet het PVC-weefsel zelf.'
+  answer: 'Met goed onderhoud gaat een kwaliteits-SUP-board 5-10 jaar mee bij regelmatig recreatief gebruik. Drielagig militair PVC met UV-bestendige coating — zoals gebruikt in alle olagoon-boards — weerstaat zonschade, zoutwatercorrosie en slijtage. Belangrijke factoren voor de levensduur: na gebruik naspoelen met zoet water, grondig drogen vóór opslag, buiten directe UV bewaren wanneer niet in gebruik, gedeeltelijk opgepompt bewaren op een koele, droge plek, en het board niet over ruwe oppervlakken slepen. De drop-stitch-draden en naden zijn doorgaans het eerste zwakke punt — niet het PVC-weefsel zelf.'
   category: maintenance
   relatedProducts:
     - sup-explorer-11
@@ -312,7 +312,7 @@
     - inflatable-sup-repair
 - id: sup-choppy-water
   question: 'Hoe paddel ik een SUP in golfwater of wind?'
-  answer: 'In golven: buig uw knieën, sta breder, maak uw paddle-slag korter en span uw romp aan voor balans. In tegenwind: gebruik een lagere paddle-hoek, maak kortere slagen en leun naar voren. In zijwind: paddel aan de windkant om drift te corrigeren. Met rugwind: surf op de deining voor snelheid. Beginners moeten wind boven 10 mph vermijden en bredere, langere boards kiezen voor stabiliteit. De afarer Ocean Voyager touring-SUP is ontworpen om matige golf- en windomstandigheden aan te kunnen.'
+  answer: 'In golven: buig uw knieën, sta breder, maak uw paddle-slag korter en span uw romp aan voor balans. In tegenwind: gebruik een lagere paddle-hoek, maak kortere slagen en leun naar voren. In zijwind: paddel aan de windkant om drift te corrigeren. Met rugwind: surf op de deining voor snelheid. Beginners moeten wind boven 10 mph vermijden en bredere, langere boards kiezen voor stabiliteit. De olagoon Ocean Voyager touring-SUP is ontworpen om matige golf- en windomstandigheden aan te kunnen.'
   category: safety
   relatedProducts:
     - sup-ocean-voyager
@@ -323,7 +323,7 @@
     - wind-conditions-sup
 - id: sup-sustainability
   question: 'Zijn opblaasbare SUP-boards milieuvriendelijk?'
-  answer: "Opblaasbare SUP-boards hebben op verschillende manieren een kleinere ecologische voetafdruk dan stijve boards: ze gebruiken minder grondstoffen bij de productie, hun lagere gewicht vermindert verzendingsemissies en hun duurzaamheid betekent in de loop van de tijd minder vervangingen. Het PVC in afarer-boards is loodvrij en voldoet aan REACH. Belangrijke praktijken voor duurzaamheid: koop een kwaliteitsboard dat 5-10 jaar meegaat, repareer lekken in plaats van vervangen, recycle het board aan het einde van zijn levensduur via gespecialiseerde PVC-recycleprogramma's, en vermijd wegwerpverpakking door merken te kiezen die herbruikbare draagtassen gebruiken."
+  answer: "Opblaasbare SUP-boards hebben op verschillende manieren een kleinere ecologische voetafdruk dan stijve boards: ze gebruiken minder grondstoffen bij de productie, hun lagere gewicht vermindert verzendingsemissies en hun duurzaamheid betekent in de loop van de tijd minder vervangingen. Het PVC in olagoon-boards is loodvrij en voldoet aan REACH. Belangrijke praktijken voor duurzaamheid: koop een kwaliteitsboard dat 5-10 jaar meegaat, repareer lekken in plaats van vervangen, recycle het board aan het einde van zijn levensduur via gespecialiseerde PVC-recycleprogramma's, en vermijd wegwerpverpakking door merken te kiezen die herbruikbare draagtassen gebruiken."
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -341,8 +341,8 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-certification
-  question: 'Welke certificeringen hebben afarer OEM-producten?'
-  answer: 'Alle afarer OEM/ODM-producten omvatten: CE-conformiteitsverklaring (EU-markt), UKCA (Britse markt), ISO 9001:2015 kwaliteitsmanagementsysteem, BSCI-audit op sociale verantwoordelijkheid, REACH- en RoHS-materiaalcompliance, EN ISO 25649-classificatie voor opblaasbare SUP boards. Aanvullende certificering op verzoek: documentatie van naleving van de US Coast Guard, tests volgens militaire standaard (MIL-STD-810) en ondersteuning bij importcertificering in het bestemmingsland.'
+  question: 'Welke certificeringen hebben olagoon OEM-producten?'
+  answer: 'Alle olagoon OEM/ODM-producten omvatten: CE-conformiteitsverklaring (EU-markt), UKCA (Britse markt), ISO 9001:2015 kwaliteitsmanagementsysteem, BSCI-audit op sociale verantwoordelijkheid, REACH- en RoHS-materiaalcompliance, EN ISO 25649-classificatie voor opblaasbare SUP boards. Aanvullende certificering op verzoek: documentatie van naleving van de US Coast Guard, tests volgens militaire standaard (MIL-STD-810) en ondersteuning bij importcertificering in het bestemmingsland.'
   category: b2b
   relatedProducts: []
   relatedGuides: []
@@ -359,7 +359,7 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-ip-protection
-  question: 'Hoe beschermt afarer mijn intellectuele eigendom en ontwerpen?'
+  question: 'Hoe beschermt olagoon mijn intellectuele eigendom en ontwerpen?'
   answer: "IP-bescherming is een kerndeel van onze OEM-service. Wij ondertekenen NDA's vóór elke ontwerpbespreking. Ontwerpbestanden worden verwerkt op geïsoleerde werkstations met toegangsregistratie. Alle gereedschappen en vormen blijven uw exclusieve eigendom (door u betaald). Wij hergebruiken uw vormen of ontwerpen niet voor andere klanten. Vormopslag en -onderhoud zijn inbegrepen voor actieve accounts. Bij beëindiging van de overeenkomst worden de vormen naar u verzonden of vernietigd met videodocumentatie. Wij respecteren alle merk- en octrooirechten."
   category: b2b
   relatedProducts: []

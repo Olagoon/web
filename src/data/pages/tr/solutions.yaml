@@ -1,6 +1,6 @@
 meta:
   title: 'İş Çözümleri — Her şirket için SUP | {SITE}'
-  description: 'afarer iş çözümleri: tesisler, kulüpler, kiralamalar, dağıtım ve özel etiketler için SUP filoları. B2B için profesyonel denizcilik ekipmanı tedarikçisi.'
+  description: 'olagoon iş çözümleri: tesisler, kulüpler, kiralamalar, dağıtım ve özel etiketler için SUP filoları. B2B için profesyonel denizcilik ekipmanı tedarikçisi.'
   keywords:
     - 'SUP iş çözümleri'
     - 'şişme paddle board tedarikçisi'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: İş Çözümleri
   title: Her İş İçin<br />SUP Çözümleri
-  subtitle: Resort'lardan perakendeye, kiralık işletmelerden küresel distribütörlere — Afarer, iş modelinize özel eksiksiz SUP çözümleri sunar.
+  subtitle: Resort'lardan perakendeye, kiralık işletmelerden küresel distribütörlere — OLagoon, iş modelinize özel eksiksiz SUP çözümleri sunar.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: İş ve profesyonel uygulamalar için Afarer SUP tahtaları
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: İş ve profesyonel uygulamalar için OLagoon SUP tahtaları
 stats:
-  title: Afarer Bir Bakışta
+  title: OLagoon Bir Bakışta
   stats:
     - title: Yıllık Deneyim
       amount: 2012'den Beri
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Kendi Markanızı Oluşturun
-      description: Uçtan uca OEM/ODM SUP üretimi — tasarım, prototipleme, seri üretim ve lojistik. Markanızı Afarer ile başlatın.
+      description: Uçtan uca OEM/ODM SUP üretimi — tasarım, prototipleme, seri üretim ve lojistik. Markanızı OLagoon ile başlatın.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

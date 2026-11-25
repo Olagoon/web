@@ -1,6 +1,6 @@
 meta:
   title: 'Sertifikāti — CE, ISO 9001 un atbilstība | {SITE}'
-  description: 'afarer kvalitātes sertifikāti: CE (EN ISO 25649), ISO 9001:2015, BSCI. Atbilstība un drošība piepūšamo SUP ražotājam.'
+  description: 'olagoon kvalitātes sertifikāti: CE (EN ISO 25649), ISO 9001:2015, BSCI. Atbilstība un drošība piepūšamo SUP ražotājam.'
   keywords:
     - 'ce sertifikācija sup'
     - 'iso 9001 sup'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: 'Sertifikāti un standarti'
   title: 'Kvalitātes sertifikāti<br />un atbilstības standarti'
-  subtitle: 'afarer SUP ražošana ir sertificēta atbilstoši starptautiskajiem jūras drošības standartiem, kvalitātes vadības sistēmām un vides normatīviem — CE, ISO 9001, UKCA, BSCI un REACH.'
+  subtitle: 'olagoon SUP ražošana ir sertificēta atbilstoši starptautiskajiem jūras drošības standartiem, kvalitātes vadības sistēmām un vides normatīviem — CE, ISO 9001, UKCA, BSCI un REACH.'
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: 'afarer kvalitātes sertifikāti un atbilstības dokumentācija'
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: 'olagoon kvalitātes sertifikāti un atbilstības dokumentācija'
 content_certifications:
   tagline: 'Mūsu sertifikāti'
   title: 'Sertificēta kvalitāte,<br />atzīta visā pasaulē'
-  subtitle: 'Katru afarer produktu apliecina sertifikāti, kas demonstrē mūsu apņemšanos kvalitātei, drošībai un vides atbildībai.'
+  subtitle: 'Katru olagoon produktu apliecina sertifikāti, kas demonstrē mūsu apņemšanos kvalitātei, drošībai un vides atbildībai.'
   items:
     - title: 'CE sertificēts'
-      description: 'Visi afarer produkti atbilst Eiropas CE marķējuma prasībām atpūtas peldlīdzekļiem, nodrošinot drošības, veselības aizsardzības un vides aizsardzības standartu ievērošanu.'
+      description: 'Visi olagoon produkti atbilst Eiropas CE marķējuma prasībām atpūtas peldlīdzekļiem, nodrošinot drošības, veselības aizsardzības un vides aizsardzības standartu ievērošanu.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'Mūsu kvalitātes vadības sistēma ir ISO 9001:2015 sertificēta un aptver piepūšamo peldlīdzekļu un jūras aprīkojuma dizainu, ražošanu un izplatīšanu.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'Produkti, kas tiek pārdoti Apvienotās Karalistes tirgū, nes UKCA marķējumu, apliecinot atbilstību Apvienotās Karalistes normatīviem jūras aprīkojumam un personīgajiem peldlīdzekļiem.'
       icon: tabler:shield
     - title: 'BSCI atbilstība'
-      description: 'afarer ir BSCI (Business Social Compliance Initiative) auditēts, demonstrējot ētisku ražošanas praksi, taisnīgus darba apstākļus un piegādes ķēdes atbildību.'
+      description: 'olagoon ir BSCI (Business Social Compliance Initiative) auditēts, demonstrējot ētisku ražošanas praksi, taisnīgus darba apstākļus un piegādes ķēdes atbildību.'
       icon: tabler:heart-handshake
     - title: 'REACH atbilstība'
-      description: 'Visi afarer produktos izmantotie materiāli atbilst ES REACH normatīviem ķīmiskajai drošībai, nodrošinot, ka mūsu PVC, EVA vai komponentos nav ierobežotu vielu.'
+      description: 'Visi olagoon produktos izmantotie materiāli atbilst ES REACH normatīviem ķīmiskajai drošībai, nodrošinot, ka mūsu PVC, EVA vai komponentos nav ierobežotu vielu.'
       icon: tabler:flask
     - title: 'Materiālu testēšana'
       description: 'Audumi tiek testēti uz stiepes izturību, plīsumizturību, UV degradāciju un aukstuma plaisāšanu. Katra ražošanas partija tiek izlasē un verificēta.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: 'Jūras drošības standarti'
   title: 'Drošība pirmajā vietā<br />— radīts uzticamai ekspluatācijai'
-  subtitle: 'afarer produkti ir izstrādāti un testēti, lai atbilstu starptautiskajiem jūras drošības standartiem komerciālai un atpūtas lietošanai.'
+  subtitle: 'olagoon produkti ir izstrādāti un testēti, lai atbilstu starptautiskajiem jūras drošības standartiem komerciālai un atpūtas lietošanai.'
   items:
     - title: 'EN ISO 25649'
       description: 'Piepūšamie SUP atbilst EN ISO 25649 standartiem konstrukcijai, stabilitātei, peldētspējai un slodzes ietilpībai.'

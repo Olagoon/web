@@ -4,12 +4,12 @@ origin:
     Radīti uz ūdens,<br />
     <span class="text-sky-600">vadīti ar mērķi</span>
   paragraphs:
-    - 'afarer aizsākās piekrastes darbnīcā ar vienu dēli un stūrgalvīgu pārliecību: jūras produkti ir jākonstruē tā, it kā tiem būtu nozīme — jo tā arī ir.'
-    - Mūsu dibinātāji, divi jūras inženieri, redzēja nozari, kurā tika ekonomēts uz kvalitātes rēķina, materiāli tika degradēti un drošība bija vien formalitāte. Viņi uzbūvēja pirmo afarer korpusu nevis peļņas dēļ, bet lai pierādītu, ka pieejams jūras aprīkojums var būt arī patiesi uzticams.
+    - 'olagoon aizsākās piekrastes darbnīcā ar vienu dēli un stūrgalvīgu pārliecību: jūras produkti ir jākonstruē tā, it kā tiem būtu nozīme — jo tā arī ir.'
+    - Mūsu dibinātāji, divi jūras inženieri, redzēja nozari, kurā tika ekonomēts uz kvalitātes rēķina, materiāli tika degradēti un drošība bija vien formalitāte. Viņi uzbūvēja pirmo olagoon korpusu nevis peļņas dēļ, bet lai pierādītu, ka pieejams jūras aprīkojums var būt arī patiesi uzticams.
     - Tas pirmais korpuss joprojām ir ekspluatācijā. Šis princips nekad nav mainījies.
     - Mēs neesam lielākais ražotājs. Mēs neražojam lētākos produktus. Taču katrs korpuss, kas pamet mūsu darbnīcu, iziet caur tām pašām rokām, kas nodibināja uzņēmumu — un atbilst tam pašam standartam, ko noteica pirmais korpuss.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  image_alt: afarer piekrastes darbnīca
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  image_alt: olagoon piekrastes darbnīca
 philosophy:
   tagline: Mūsu filozofija
   heading: Sakņojas okeānā
@@ -30,11 +30,11 @@ design:
     Konstruēts apstākļu<br />
     <span class="text-sky-600">robežai</span>
   paragraphs:
-    - 'Katrs afarer produkts sākas ar vienu jautājumu: <em>kādi ir vissliktākie apstākļi, kādos tam būs jādarbojas?</em> Mēs konstruējam no robežas uz iekšpusi, nevis no centra uz āru.'
+    - 'Katrs olagoon produkts sākas ar vienu jautājumu: <em>kādi ir vissliktākie apstākļi, kādos tam būs jādarbojas?</em> Mēs konstruējam no robežas uz iekšpusi, nevis no centra uz āru.'
     - 'Mūsu drop-stitch kodoli ir paredzēti 15 PSI — nevis tāpēc, ka 12 PSI ezera vajadzībām nepietiktu, bet tāpēc, ka 15 PSI dēlis iztur pēkšņi saceltos viļņus, nesaliekoties. Mūsu klāja audumi ir izstrādāti komercklases UV noturībai — nevis tāpēc, ka katrs klients airē tropos, bet tāpēc, ka UV degradācija ir #1 priekšlaicīgas bojāšanās cēlonis.'
     - Mēs nekonstruējam pēc cenas punkta. Mēs konstruējam līdz bojājuma robežai — un pēc tam būvējam ievērojami augstāk par to.
-  image: https://assets.afarer.com/images/afarer/hero/hero-4.webp
-  image_alt: afarer dizains un inženierija
+  image: https://assets.olagoon.com/images/olagoon/hero/hero-4.webp
+  image_alt: olagoon dizains un inženierija
   stats:
     - value: '15'
       label: PSI kodola<br />reitings

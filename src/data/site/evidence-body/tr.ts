@@ -129,7 +129,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Fortune 500 teknoloji şirketi, göl kenarındaki 4 küresel kampüsünde çalışanlar için su temelli bir wellness programı başlatmak istiyordu: kurumsal markalı, depolama çözümlü 60 SUP ve eğitmen eğitimi.',
     solution:
-      "Kurumsal logolu güverte grafikli stabil all-around SUP'lardan oluşan bir filo sağladık. Hava koşullarına dayanıklı saha içi depolama rafları tasarladık. Afarer eğitim programı aracılığıyla 12 şirket içi eğitmen sertifikalandırdık.",
+      "Kurumsal logolu güverte grafikli stabil all-around SUP'lardan oluşan bir filo sağladık. Hava koşullarına dayanıklı saha içi depolama rafları tasarladık. OLagoon eğitim programı aracılığıyla 12 şirket içi eğitmen sertifikalandırdık.",
     result:
       'Program 4 kampüste başlatıldı. İlk yılda 2,400+ çalışan katılımı. %94 çalışan memnuniyet derecesi. Şirketin sürdürülebilirlik raporunda yer aldı.',
     outcomeMetrics: [
@@ -381,7 +381,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Tam ürün serisi — SUP, botlar, aksesuar',
     industry: 'Dağıtım / Denizcilik',
     challenge:
-      "GCC merkezli bir distribütör, 6 Körfez ülkesinde Afarer'ın tüm ürün serisinin münhasır temsil hakkını, Arapça ambalaj, ısıya dayanıklı malzeme spesifikasyonları ve şeriata uygun garanti koşullarıyla istiyordu.",
+      "GCC merkezli bir distribütör, 6 Körfez ülkesinde OLagoon'ın tüm ürün serisinin münhasır temsil hakkını, Arapça ambalaj, ısıya dayanıklı malzeme spesifikasyonları ve şeriata uygun garanti koşullarıyla istiyordu.",
     solution:
       'Münhasır dağıtım anlaşması kuruldu. Arapça ambalaj ve pazarlama materyalleri geliştirildi. Malzeme spesifikasyonları 50°C ortam sıcaklığında doğrulandı. Bölgesel uygunluk için garanti şartları uyarlandı.',
     result:

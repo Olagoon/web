@@ -8,7 +8,7 @@ meta:
     - 'privātā zīmola piepūšamais sup'
     - 'airu dēļu ražošana'
 hero:
-  tagline: 'afarer pielāgošanas laboratorija'
+  tagline: 'olagoon pielāgošanas laboratorija'
   title: 'Izveidojiet savu<br />SUP dēli'
   subtitle: 'Pielāgota SUP partnerība, piedāvājot kopīgu zīmolu, privāto zīmolu un individuālu airu dēļu ražošanu uzņēmumiem visā pasaulē. No viena prototipa līdz pilnas ražošanas partijām.'
   cta: 'Sāciet savu projektu'
@@ -69,7 +69,7 @@ capabilities_section:
       value: 'CE, UKCA, FCC (atbalsts globālai atbilstībai)'
 
 why_section:
-  tagline: 'Kāpēc afarer'
+  tagline: 'Kāpēc olagoon'
   title: 'Viena rūpnīca. Viens standarts. Nulles kompromisi.'
   points:
     - text: '12,000 m² integrēts ražošanas objekts'

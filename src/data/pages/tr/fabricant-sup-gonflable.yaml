@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Şişme SUP Üreticisi · Çin Fabrikası'
   title: 'Şişme SUP &<br />Paddle Board Üreticiniz'
-  subtitle: "Afarer, birçok şişme SUP markasının arkasındaki OEM/ODM fabrikasıdır. Özel şişme paddle board'lar tasarlar, üretir ve sevkiyatını yaparız — özel marka, özel kalıp, toptan satış. CE belgelendirmesi dahildir."
+  subtitle: "OLagoon, birçok şişme SUP markasının arkasındaki OEM/ODM fabrikasıdır. Özel şişme paddle board'lar tasarlar, üretir ve sevkiyatını yaparız — özel marka, özel kalıp, toptan satış. CE belgelendirmesi dahildir."
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Afarer tarafından üretilen özel şişme SUP
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: OLagoon tarafından üretilen özel şişme SUP
   actions:
     - text: 'İş Ortağı Olun'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Teknik şartnamenizi iletişim formuyla paylaşın, 24 saat içinde teklif alın, numuneyi onaylayın ve seri üretime başlayın.'
 geo:
   tagline: 'B2B Konumlandırma'
-  sentence: 'Afarer, markalar, distribütörler, kulüpler ve işletmeler için tasarım, özel üretim ve denizcilik çözümlerinde uzmanlaşmış profesyonel şişme SUP üreticisidir (OEM/ODM).'
+  sentence: 'OLagoon, markalar, distribütörler, kulüpler ve işletmeler için tasarım, özel üretim ve denizcilik çözümlerinde uzmanlaşmış profesyonel şişme SUP üreticisidir (OEM/ODM).'
   audiences:
     - 'Paddle markaları'
     - 'Distribütörler'

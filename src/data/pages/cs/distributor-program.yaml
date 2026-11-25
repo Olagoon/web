@@ -1,6 +1,6 @@
 meta:
-  title: 'Zemští partneři — jedna země, jeden oficiální distributor Afarer | {SITE}'
-  description: 'Požádejte a staňte se oficiálním distributorem Afarer pro svou zemi. Jeden autorizovaný partner na trh, územní ochrana, marže přímo z továrny, roční rabaty a 10modulový program podpory zemních partnerů pro globální distributory SUP a vodních sportů.'
+  title: 'Zemští partneři — jedna země, jeden oficiální distributor OLagoon | {SITE}'
+  description: 'Požádejte a staňte se oficiálním distributorem OLagoon pro svou zemi. Jeden autorizovaný partner na trh, územní ochrana, marže přímo z továrny, roční rabaty a 10modulový program podpory zemních partnerů pro globální distributory SUP a vodních sportů.'
   keywords:
     - 'program partnerských zemí'
     - 'staňte se distributorem'
@@ -11,8 +11,8 @@ meta:
     - 'žádost o partnerství pro zemi'
 hero:
   tagline: 'Partnerství pro Zemi'
-  title: 'Jedna země.<br />Jeden oficiální distributor Afarer.'
-  subtitle: 'Afarer jmenuje jediného autorizovaného distributora pro každý schválený trh. Exkluzivní území, dealerské ceny s ročními rabaty a kompletní program podpory distributorů — výměnou za podepsanou smlouvu a skutečný závazek vybudovat trh.'
+  title: 'Jedna země.<br />Jeden oficiální distributor OLagoon.'
+  subtitle: 'OLagoon jmenuje jediného autorizovaného distributora pro každý schválený trh. Exkluzivní území, dealerské ceny s ročními rabaty a kompletní program podpory distributorů — výměnou za podepsanou smlouvu a skutečný závazek vybudovat trh.'
   actions:
     - text: 'Požádat o partnerství pro zemi'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Dnů standardní dodací lhůty (FOB Qingdao)'
 features:
-  title: 'Proč Spolupracovat s Afarer'
+  title: 'Proč Spolupracovat s OLagoon'
   subtitle: 'Model jedna-země-jeden-distributor se strukturou podpory, díky které je území ziskové. Exkluzivita se získává a udržuje — není trvalým právem.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'Jeden autorizovaný distributor pro zemi nebo region. Žádný paralelní dovoz, žádná vnitřní konkurence. Vaše investice buduje váš vlastní příkop.'
       icon: 'tabler:shield-check'
     - title: 'Ochrana Před Kanálovými Konflikty'
-      description: 'Přímé objednávky z vašeho regionu jdou přes vás a ceny chrání vaši marži. Afarer neprodává kolem svých zemních partnerů.'
+      description: 'Přímé objednávky z vašeho regionu jdou přes vás a ceny chrání vaši marži. OLagoon neprodává kolem svých zemních partnerů.'
       icon: 'tabler:users'
     - title: 'Přímé Tovární Marže a Rabaty'
       description: 'Dealerský ceník s rabaty za odsouhlasené objemy. Žádní prostředníci. Dodávka FOB Qingdao s úplnou exportní dokumentací.'
@@ -59,7 +59,7 @@ features:
       description: 'Dodávky náhradních dílů, registrace záruk a vyřizování reklamací, plus produktové datasheety a manuály pro váš místní servisní tým.'
       icon: 'tabler:settings'
     - title: 'Dedikovaný Account Manager a Partnerský Portál'
-      description: 'Osobní distributor manager plus přístup k ceníkům, stavu objednávek a marketingovým zdrojům přes partnerský portál Afarer.'
+      description: 'Osobní distributor manager plus přístup k ceníkům, stavu objednávek a marketingovým zdrojům přes partnerský portál OLagoon.'
       icon: 'tabler:user-check'
 table:
   title: 'Úrovně Partnerství, MOQ a Podmínky Objednávek'
@@ -83,14 +83,14 @@ faqs:
   subtitle: 'Otázky, které si seriózní zemní partneři kladou, než požádají.'
   items:
     - title: 'Co vlastně znamená jedna země, jeden distributor?'
-      description: 'Afarer jmenuje jediného autorizovaného distributora s výhradními právy pro vymezené území. Neprodáváme z našich globálních ani regionálních kanálů do chráněné země. Vaše právo na území platí, dokud je plněn Distribution Agreement.'
+      description: 'OLagoon jmenuje jediného autorizovaného distributora s výhradními právy pro vymezené území. Neprodáváme z našich globálních ani regionálních kanálů do chráněné země. Vaše právo na území platí, dokud je plněn Distribution Agreement.'
     - title: 'Je území exkluzivní navždy?'
       description: 'Ne. Exkluzivita je podmíněná, ne věčná. Je udržována podepsaným Distribution Agreement, dokončením první objednávky, ročními nákupními cíli, místními zásobami, poprodejní schopností a dalšími investicemi do trhu. Pokud tyto podmínky nejsou splněny, území může být znovu projednáno nebo přiděleno jinému partnerovi.'
     - title: 'Jaká je minimální první objednávka?'
       description: 'Zemští a regionální distributoři začínají na 100–300 kusech; autorizovaní dealeri na 30–50 kusech; zkušební objednávky od 10–30 kusů vám umožní nejprve ověřit trh (zkušební a vzorkové objednávky nemají územní ochranu). Programy Custom a private-label se řídí samostatnými MOQ uvedenými v úrovních výše.'
     - title: 'Jakou podporu zahrnuje 10modulový program podpory?'
       description: 'Úrovně a kvalifikace, územní ochrana, MOQ / ceny / roční rabaty, správa zásob a realizace objednávek, marketingové materiály a společné tržní fondy, produktová / prodejní / technická školení, náhradní díly a poprodejní servis, registrace záruky, partnerský portál a produktové datasheety, knihovna marketingových materiálů, harmonogram ročních rabatů a přepravní a balicí listy.'
-    - title: 'Jak mě Afarer chrání před kanálovými konflikty?'
+    - title: 'Jak mě OLagoon chrání před kanálovými konflikty?'
       description: 'Každé území má přesně jednoho autorizovaného distributora. Dotazy a přímé objednávky z vašeho regionu jdou přes vás, formuláře na webu jsou přeposílány místnímu partnerovi, pokud existuje, a globální tým eskaluje jen tehdy, když partner neodpovídá.'
     - title: 'Jaké jsou přepravní a platební podmínky?'
       description: 'Objednávky se odesílají FOB Qingdao s úplnou exportní dokumentací. Výrobní objednávky jsou za 30% zálohu a 70% před odesláním; zkušební a vzorkové objednávky jsou hrazeny předem. Standardní dodací lhůta je 30–45 pracovních dnů, u zkušebních sérií 15–20 pracovních dnů.'
@@ -98,7 +98,7 @@ faqs:
       description: 'Pošlete žádost přes kontaktní formulář s údaji o trhu. Posuzujeme tržní vhodnost, maloobchodní zastoupení a logistické schopnosti, pak odpovíme do 3 pracovních dnů s dalšími kroky a vzorovým Distribution Agreement.'
 cta:
   title: 'Vlastněte svůj trh.'
-  subtitle: 'Požádejte o partnerství pro zemi u značky Afarer a odpověď obdržíte do 3 pracovních dnů.'
+  subtitle: 'Požádejte o partnerství pro zemi u značky OLagoon a odpověď obdržíte do 3 pracovních dnů.'
   actions:
     - text: 'Požádat o partnerství pro zemi'
       href: /contact/?subject=Country Partnership Application
@@ -108,7 +108,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'S Kým Spolupracujeme'
-  sentence: 'Afarer spolupracuje s etablovanými námořními, outdoorovými a sportovními distributory, kteří obsluhují maloobchodní řetězce, výpůjční flotily, školy vodních sportů, resorty a vládní kupující prémiovými nafukovacími SUP prkny a plavidly — a kteří se zavazují budovat značku Afarer ve své zemi.'
+  sentence: 'OLagoon spolupracuje s etablovanými námořními, outdoorovými a sportovními distributory, kteří obsluhují maloobchodní řetězce, výpůjční flotily, školy vodních sportů, resorty a vládní kupující prémiovými nafukovacími SUP prkny a plavidly — a kteří se zavazují budovat značku OLagoon ve své zemi.'
   audiences:
     - 'Distributoři námořních a pádlových sportů'
     - 'Outdoor a Sportovní Maloobchod'

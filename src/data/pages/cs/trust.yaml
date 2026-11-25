@@ -1,6 +1,6 @@
 meta:
   title: 'Důvěra — kvalita, normy a pověst | {SITE}'
-  description: 'Proč důvěřovat afarere: certifikace CE a ISO, integrovaná továrna, globální reference a záruka. Profesionální výrobce nafukovacích SUP prken.'
+  description: 'Proč důvěřovat olagoone: certifikace CE a ISO, integrovaná továrna, globální reference a záruka. Profesionální výrobce nafukovacích SUP prken.'
   keywords:
     - 'spolehlivý výrobce SUP'
     - 'certifikovaná paddleboardová továrna'
@@ -8,15 +8,15 @@ meta:
     - 'certifikovaná SUP továrna'
 hero:
   tagline: Postaveno podle standardů, na kterých záleží
-  title: Důvěřujte afarer
+  title: Důvěřujte olagoon
   subtitle: |
     Každý produkt, který stavíme, je CE certifikován — testován na bezpečnost,<br />
     odolnost a výkon. Žádné zkratky. Žádné výjimky.
   taglineSection: Certifikováno. Testováno. Ověřeno.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: Produkt afarer procházející testováním kvality
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: Produkt olagoon procházející testováním kvality
 stats:
-  title: afarer v číslech
+  title: olagoon v číslech
   stats:
     - title: CE certifikováno
       description: Všechny rekreační produkty splňují bezpečnostní normy EU
@@ -25,7 +25,7 @@ stats:
     - title: BSCI & REACH
       description: Etická výroba a soulad s materiálovými předpisy
     - title: 3letá záruka
-      description: Na každý produkt afarer — bez otázek
+      description: Na každý produkt olagoon — bez otázek
 features3_certifications:
   title: Certifikace a soulad s předpisy
   subtitle: Každý produkt je nezávisle testován a certifikován podle mezinárodních standardů.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: CE certifikace
-      description: Všechny SUP afarer splňují evropský bezpečnostní standard CE pro rekreační plavidla. Každý produkt prochází tlakovou, vztlakovou a zátěžovou zkouškou před opuštěním továrny.
+      description: Všechny SUP olagoon splňují evropský bezpečnostní standard CE pro rekreační plavidla. Každý produkt prochází tlakovou, vztlakovou a zátěžovou zkouškou před opuštěním továrny.
       icon: tabler:certificate
     - title: ISO 9001
       description: Náš závod 12 000 m² v Qingdao funguje pod systémem řízení kvality ISO 9001. Každá výrobní dávka je dohledatelná, zdokumentovaná a zkontrolovaná.
@@ -48,20 +48,20 @@ features3_certifications:
       description: Interní materiálová laboratoř testuje pevnost v tahu, UV odolnost, integritu švů a odolnost proti oděru pro každou dávku tkaniny před výrobou.
       icon: tabler:microscope
     - title: 3letá záruka
-      description: Každý produkt afarer je dodáván s tříletou zárukou na výrobní vady. Stojíme si za tím, co stavíme.
+      description: Každý produkt olagoon je dodáván s tříletou zárukou na výrobní vady. Stojíme si za tím, co stavíme.
       icon: tabler:shield-check
 testimonials:
   tagline: Důvěra zákazníků
   title: Co říkají naši zákazníci
-  subtitle: Od začínajících pádlujících po profesionální operátory flotil — podívejte se, proč důvěřují afarer.
+  subtitle: Od začínajících pádlujících po profesionální operátory flotil — podívejte se, proč důvěřují olagoon.
   items:
-    - content: Vybavili jsme celou naši půjčovnu SUP prkny afarer. Po dvou sezónách nula selhání. CE certifikace udělala schválení pojištěním bezproblémové.
+    - content: Vybavili jsme celou naši půjčovnu SUP prkny olagoon. Po dvou sezónách nula selhání. CE certifikace udělala schválení pojištěním bezproblémové.
       name: Marco V.
       title: Provozovatel zájezdů, Chorvatsko
     - content: Jako prvoodběratel jsem byl nervózní ohledně kvality. ISO dokumentace a zkušební zprávy, které sdíleli, mi daly naprostou důvěru.
       name: James T.
       title: Majitel SUP Explorer 11, Kanada
-    - content: Spolupracujeme s afarer pro naše pobřežní hlídkové jednotky. Jejich QC proces je konzistentní napříč každou dávkou — tato spolehlivost záleží při misích kritických pro provoz.
+    - content: Spolupracujeme s olagoon pro naše pobřežní hlídkové jednotky. Jejich QC proces je konzistentní napříč každou dávkou — tato spolehlivost záleží při misích kritických pro provoz.
       name: Lt. Cmdr. Andres
       title: Námořní nákupčí, Filipíny
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Za každým výrobkem stojíme — s jasnými záručními podmínkami, rychlým vyřízením reklamací a originálními náhradními díly.
   items:
     - title: 3letá záruka na výrobek
-      desc: Všechny produkty afarer mají tříletou záruku na výrobní vady – rozpad švů, vady ventilů a delaminaci materiálu při běžném používání.
+      desc: Všechny produkty olagoon mají tříletou záruku na výrobní vady – rozpad švů, vady ventilů a delaminaci materiálu při běžném používání.
     - title: Doživotní podpora náhradních dílů
       desc: Originální náhradní díly — ventily, opravné sady, ploutve, D-kroužky — dostupné pro všechny modely. Formy a nástroje udržujeme nejméně 5 let po ukončení výroby.
     - title: Vyřízení reklamací do 48 hodin
@@ -149,25 +149,25 @@ faqs_sup:
     - title: Nabízíte kompletní SUP balíčky?
       description: Ano. Každé SUP prkno je dodáváno s kompletním balíčkem včetně třídílného hliníkového pádla, vysokotlaké ruční pumpy, spirálového vodítka, cestovního batohu a opravné sady. Některé modely také obsahují odnímatelnou sadu ploutví.
     - title: Jaká je záruka na SUP prkna?
-      description: Všechna SUP prkna afarer nesou tříletou záruku na výrobní vady, včetně selhání švů, defektů ventilů a delaminace materiálu při běžném používání.
+      description: Všechna SUP prkna olagoon nesou tříletou záruku na výrobní vady, včetně selhání švů, defektů ventilů a delaminace materiálu při běžném používání.
     - title: Jak dlouho trvá nafouknutí SUP prkna?
-      description: Při použití přiložené ruční pumpy trvá plné nafouknutí na 15 PSI přibližně 8–12 minut. Pro rychlejší nafouknutí doporučujeme naši elektrickou pumpu afarer 12V, která nafoukne prkno za méně než 4 minuty.
+      description: Při použití přiložené ruční pumpy trvá plné nafouknutí na 15 PSI přibližně 8–12 minut. Pro rychlejší nafouknutí doporučujeme naši elektrickou pumpu olagoon 12V, která nafoukne prkno za méně než 4 minuty.
 faqs_materials:
   title: Časté dotazy k materiálům SUP a péči o ně
   subtitle: Časté dotazy o materiálech našich nafukovacích SUP, péči o ně a jejich skladování.
   columns: 2
   items:
-    - title: Jaké materiály se používají u nafukovacích SUP prken afarer?
+    - title: Jaké materiály se používají u nafukovacích SUP prken olagoon?
       description: Používáme PVC vojenské třídy (1100 denier) s konstrukcí stabilizovanou proti UV záření a odolnou proti oděru, v souladu s nařízeními EU REACH a RoHS.
     - title: Jak dlouho vydrží nafukovací SUP prkna?
       description: Při správné péči vydrží kvalitní nafukovací SUP z PVC 5–10 let. Pravidelné čištění, ochrana před UV zářením a správné skladování výrazně prodlouží životnost.
     - title: Jakou údržbu vyžaduje nafukovací SUP?
       description: Základní údržba zahrnuje opláchnutí sladkou vodou po každém použití (zejména ve slané vodě), osušení před uskladněním, každoroční kontrolu těsnění ventilů a vyhýbání se dlouhodobému vystavení slunci, když prkno nepoužíváte.
     - title: Lze nafukovací prkna SUP používat ve slané vodě?
-      description: Ano. Všechna nafukovací SUP prkna afarer jsou navržena pro použití ve sladké i slané vodě. Po pobytu ve slané vodě doporučujeme opláchnout je sladkou vodou a důkladně vysušit.
+      description: Ano. Všechna nafukovací SUP prkna olagoon jsou navržena pro použití ve sladké i slané vodě. Po pobytu ve slané vodě doporučujeme opláchnout je sladkou vodou a důkladně vysušit.
     - title: Jak skladovat nafukovací SUP?
       description: Před uskladněním prkno zcela vyfoukněte, očistěte a osušte. Srolujte ho volně (vyhněte se ostrým přehybům), skladujte na chladném a suchém místě mimo přímé sluneční světlo a nepokládejte na betonovou podlahu, aby nedocházelo ke vzlínání vlhkosti.
-    - title: Jaká je nosnost nafukovacích SUP prken afarer?
+    - title: Jaká je nosnost nafukovacích SUP prken olagoon?
       description: Nosnost se pohybuje od 100 kg u našich nejmenších modelů až po více než 200 kg u větších desek. Každá produktová stránka uvádí maximální povolené zatížení pro váš konkrétní model.
 cta:
   title: Chcete vidět certifikace sami?

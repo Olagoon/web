@@ -21,7 +21,7 @@ export const faqs: FaqRecord[] = [
     id: 'ocean-use',
     question: 'Can I use it in the ocean?',
     answer:
-      'Yes. afarer SUP boards are built for ocean, lake, and river use. Our Touring series handles coastal chop, and all boards use marine-grade PVC that resists saltwater corrosion. Rinse with fresh water after ocean use.',
+      'Yes. olagoon SUP boards are built for ocean, lake, and river use. Our Touring series handles coastal chop, and all boards use marine-grade PVC that resists saltwater corrosion. Rinse with fresh water after ocean use.',
     category: 'general',
     relatedProducts: [],
     relatedGuides: ['weather-conditions'],
@@ -39,7 +39,7 @@ export const faqs: FaqRecord[] = [
     id: 'travel-sup',
     question: 'Can I travel with an inflatable SUP?',
     answer:
-      'Absolutely. Every afarer board packs into a backpack-sized carrying case that meets airline luggage requirements. At just 18–22 lbs, it is easy to carry to the beach, lake, or through airport terminals.',
+      'Absolutely. Every olagoon board packs into a backpack-sized carrying case that meets airline luggage requirements. At just 18–22 lbs, it is easy to carry to the beach, lake, or through airport terminals.',
     category: 'general',
     relatedProducts: [],
     relatedGuides: [],
@@ -57,7 +57,7 @@ export const faqs: FaqRecord[] = [
     id: 'box-contents',
     question: 'What comes in the box?',
     answer:
-      'Every afarer SUP includes the board, a travel backpack, dual-action hand pump, removable fin, coil leash, and repair kit. Some models also include a carbon paddle upgrade option.',
+      'Every olagoon SUP includes the board, a travel backpack, dual-action hand pump, removable fin, coil leash, and repair kit. Some models also include a carbon paddle upgrade option.',
     category: 'product',
     relatedProducts: [],
     relatedGuides: [],
@@ -93,7 +93,7 @@ export const faqs: FaqRecord[] = [
     id: 'puncture-repair',
     question: 'How do I repair a puncture?',
     answer:
-      'Clean the area, cut a patch with rounded corners, apply PVC adhesive, press firmly, and wait 24 hours before inflating. afarer boards include a repair kit. For detailed instructions, see our inflatable repair guide.',
+      'Clean the area, cut a patch with rounded corners, apply PVC adhesive, press firmly, and wait 24 hours before inflating. olagoon boards include a repair kit. For detailed instructions, see our inflatable repair guide.',
     category: 'maintenance',
     relatedProducts: [],
     relatedGuides: ['inflatable-repair', 'sup-maintenance'],
@@ -127,9 +127,9 @@ export const faqs: FaqRecord[] = [
   },
   {
     id: 'warranty',
-    question: 'What is the afarer warranty?',
+    question: 'What is the olagoon warranty?',
     answer:
-      'All afarer products are backed by a comprehensive manufacturer warranty. SUP boards are covered for 3 years against manufacturing defects. The warranty covers defects in materials and workmanship under normal use.',
+      'All olagoon products are backed by a comprehensive manufacturer warranty. SUP boards are covered for 3 years against manufacturing defects. The warranty covers defects in materials and workmanship under normal use.',
     category: 'warranty',
     relatedProducts: [],
     relatedGuides: [],
@@ -183,7 +183,7 @@ export const faqs: FaqRecord[] = [
     id: 'material-difference',
     question: 'What is the difference between single-layer and multi-layer PVC SUPs?',
     answer:
-      'Single-layer PVC boards are lightweight and budget-friendly but less rigid at high pressure. Double-layer and fusion-laminated constructions add stiffness, puncture resistance, and longevity. Military-grade PVC with UV-resistant coating offers the best balance of durability and weight for recreational SUP use. afarer uses triple-layer laminated PVC across all product tiers.',
+      'Single-layer PVC boards are lightweight and budget-friendly but less rigid at high pressure. Double-layer and fusion-laminated constructions add stiffness, puncture resistance, and longevity. Military-grade PVC with UV-resistant coating offers the best balance of durability and weight for recreational SUP use. olagoon uses triple-layer laminated PVC across all product tiers.',
     category: 'product',
     relatedProducts: [],
     relatedGuides: [],
@@ -192,7 +192,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-width-stability',
     question: 'What SUP width is best for stability?',
     answer:
-      'For beginners, a width of 33–34 inches provides the best balance of stability and paddling ease. Boards narrower than 32 inches feel tippy to new paddlers. The afarer SUP Explorer 11 at 33 inches is ideal for learning.',
+      'For beginners, a width of 33–34 inches provides the best balance of stability and paddling ease. Boards narrower than 32 inches feel tippy to new paddlers. The olagoon SUP Explorer 11 at 33 inches is ideal for learning.',
     category: 'product',
     relatedProducts: ['sup-explorer-11'],
     relatedGuides: ['sup-size-guide', 'paddle-board-size-guide'],
@@ -207,19 +207,19 @@ export const faqs: FaqRecord[] = [
     relatedGuides: ['sup-size-guide', 'paddle-board-size-guide'],
   },
   {
-    id: 'afarer-vs-others',
-    question: 'How does afarer compare to other brands?',
+    id: 'olagoon-vs-others',
+    question: 'How does olagoon compare to other brands?',
     answer:
-      'afarer offers the best value in inflatable water sports gear. Compared to Red Paddle Co, afarer delivers 90% of the performance at 60% of the cost. Compared to iRocker, afarer uses higher-grade triple-layer military-grade PVC and higher PSI ratings. Compared to Bluefin, afarer offers superior material specs. For most recreational paddlers, afarer provides the best balance of quality and price.',
+      'olagoon offers the best value in inflatable water sports gear. Compared to Red Paddle Co, olagoon delivers 90% of the performance at 60% of the cost. Compared to iRocker, olagoon uses higher-grade triple-layer military-grade PVC and higher PSI ratings. Compared to Bluefin, olagoon offers superior material specs. For most recreational paddlers, olagoon provides the best balance of quality and price.',
     category: 'general',
     relatedProducts: ['sup-explorer-11', 'sup-touring-cruiser'],
-    relatedGuides: ['best-surf-gear-brands-compared', 'afarer-vs-red-paddle', 'afarer-vs-irocker', 'afarer-vs-bluefin'],
+    relatedGuides: ['best-surf-gear-brands-compared', 'olagoon-vs-red-paddle', 'olagoon-vs-irocker', 'olagoon-vs-bluefin'],
   },
   {
     id: 'fishing-sup-setup',
     question: 'Can I fish from a SUP board?',
     answer:
-      'Yes. SUP fishing is increasingly popular because the standing position offers excellent visibility into the water. Choose a board at least 11 feet long and 33–34 inches wide for stability. Add a milk crate with rod holders secured to the deck bungees, a small anchor, and always wear a PFD. The afarer SUP Explorer 11 works well for casual fishing.',
+      'Yes. SUP fishing is increasingly popular because the standing position offers excellent visibility into the water. Choose a board at least 11 feet long and 33–34 inches wide for stability. Add a milk crate with rod holders secured to the deck bungees, a small anchor, and always wear a PFD. The olagoon SUP Explorer 11 works well for casual fishing.',
     category: 'general',
     relatedProducts: ['sup-explorer-11'],
     relatedGuides: ['fishing-sup-guide', 'sup-anchor-guide'],
@@ -237,7 +237,7 @@ export const faqs: FaqRecord[] = [
     id: 'airline-travel-sup',
     question: 'What are the airline rules for traveling with an inflatable SUP?',
     answer:
-      "Most airlines accept SUP backpacks as checked baggage if under 23–32 kg. The afarer backpack is approximately 90x40x30 cm and weighs about 15 kg packed. Some airlines may charge oversized baggage fees. Arrive early, wrap fins and pump separately in your carry-on, and label the bag as fragile. Always research your airline's sporting equipment policy before flying.",
+      "Most airlines accept SUP backpacks as checked baggage if under 23–32 kg. The olagoon backpack is approximately 90x40x30 cm and weighs about 15 kg packed. Some airlines may charge oversized baggage fees. Arrive early, wrap fins and pump separately in your carry-on, and label the bag as fragile. Always research your airline's sporting equipment policy before flying.",
     category: 'general',
     relatedProducts: ['sup-explorer-11'],
     relatedGuides: ['sup-travel-guide'],
@@ -262,7 +262,7 @@ export const faqs: FaqRecord[] = [
   },
   {
     id: 'oem-custom-branding',
-    question: 'Can I put my own logo on afarer products?',
+    question: 'Can I put my own logo on olagoon products?',
     answer:
       'Yes. Our OEM service includes custom logo placement, custom color schemes, and custom packaging. We offer pad printing, heat transfer, and embroidery options depending on the product type. Send your artwork and specifications to our sales team for a quote and lead time estimate.',
     category: 'ordering',
@@ -273,7 +273,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-inflate-pressure',
     question: 'What PSI should I inflate my SUP to?',
     answer:
-      "Inflate to the board's rated maximum PSI for best performance — typically 15–18 PSI for quality inflatable SUPs. The afarer SUP Explorer 11 performs best at 15–18 PSI. Under-inflation causes the board to feel soft and track poorly. Over-inflation past the rated max risks damaging the drop-stitch threads. Check the sticker near the valve for your board's specific rating.",
+      "Inflate to the board's rated maximum PSI for best performance — typically 15–18 PSI for quality inflatable SUPs. The olagoon SUP Explorer 11 performs best at 15–18 PSI. Under-inflation causes the board to feel soft and track poorly. Over-inflation past the rated max risks damaging the drop-stitch threads. Check the sticker near the valve for your board's specific rating.",
     category: 'product',
     relatedProducts: ['sup-explorer-11', 'sup-touring-cruiser'],
     relatedGuides: ['how-to-choose-inflatable-sup', 'sup-pump-guide'],
@@ -291,7 +291,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-seated-paddling',
     question: 'Can I paddle my SUP in a seated position?',
     answer:
-      'Yes. Many SUP boards, including the afarer Explorer 11, have D-rings that allow attachment of a seat. Paddling seated offers a comfortable option for longer trips, fishing, or when you want to switch positions on the water.',
+      'Yes. Many SUP boards, including the olagoon Explorer 11, have D-rings that allow attachment of a seat. Paddling seated offers a comfortable option for longer trips, fishing, or when you want to switch positions on the water.',
     category: 'product',
     relatedProducts: ['sup-explorer-11'],
     relatedGuides: [],
@@ -318,7 +318,7 @@ export const faqs: FaqRecord[] = [
     id: 'drop-stitch-technology',
     question: 'What is drop-stitch core technology and why does it matter?',
     answer:
-      'Drop-stitch core technology uses thousands of polyester threads connecting the top and bottom layers of a PVC board. When inflated to 15-20 PSI, these threads create a rigid, torsion-resistant structure that performs like a hard shell board. Afarer uses military-grade triple-layer PVC with drop-stitch lamination across all SUP product tiers, delivering rigidity comparable to epoxy boards while maintaining the portability of an inflatable.',
+      'Drop-stitch core technology uses thousands of polyester threads connecting the top and bottom layers of a PVC board. When inflated to 15-20 PSI, these threads create a rigid, torsion-resistant structure that performs like a hard shell board. OLagoon uses military-grade triple-layer PVC with drop-stitch lamination across all SUP product tiers, delivering rigidity comparable to epoxy boards while maintaining the portability of an inflatable.',
     category: 'product',
     relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager', 'sup-flowing-lotus'],
     relatedGuides: ['how-to-choose-inflatable-sup'],
@@ -327,7 +327,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-inflatable-vs-rigid',
     question: 'Inflatable vs rigid SUP: which is better for different use cases?',
     answer:
-      'Inflatable SUPs excel in portability, storage, and impact absorption — ideal for travel, beginners, and recreational use. Rigid epoxy boards offer maximum speed and glide for racing and surfing. For 90% of paddlers, a quality inflatable with drop-stitch core (15-20 PSI) provides sufficient rigidity for touring, fitness, yoga, and fishing. Afarer inflatable boards match the performance of mid-range hard boards while packing into a backpack.',
+      'Inflatable SUPs excel in portability, storage, and impact absorption — ideal for travel, beginners, and recreational use. Rigid epoxy boards offer maximum speed and glide for racing and surfing. For 90% of paddlers, a quality inflatable with drop-stitch core (15-20 PSI) provides sufficient rigidity for touring, fitness, yoga, and fishing. OLagoon inflatable boards match the performance of mid-range hard boards while packing into a backpack.',
     category: 'general',
     relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager'],
     relatedGuides: ['inflatable-sup-vs-hard-board', 'how-to-choose-inflatable-sup'],
@@ -336,7 +336,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-skill-progression',
     question: 'What is the typical SUP skill progression from beginner to advanced?',
     answer:
-      'Beginner (session 1-3): standing up, basic forward stroke, turning, falling safely. Intermediate (session 5-15): efficient stroke technique, pivot turns, navigating chop, basic rescue skills. Advanced (20+ sessions): racing starts, buoy turns, surfing small waves, downwind paddling. Professional: competitive racing, surf SUP, long-distance touring. Afarer boards support every stage: the Explorer 11 for beginners, Ocean Voyager for touring, and Cheetah Surge for performance paddling.',
+      'Beginner (session 1-3): standing up, basic forward stroke, turning, falling safely. Intermediate (session 5-15): efficient stroke technique, pivot turns, navigating chop, basic rescue skills. Advanced (20+ sessions): racing starts, buoy turns, surfing small waves, downwind paddling. Professional: competitive racing, surf SUP, long-distance touring. OLagoon boards support every stage: the Explorer 11 for beginners, Ocean Voyager for touring, and Cheetah Surge for performance paddling.',
     category: 'general',
     relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager', 'sup-cheetah-surge'],
     relatedGuides: ['beginner-sup-guide', 'sup-fitness-workout', 'sup-paddle-guide'],
@@ -345,7 +345,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-weight-capacity',
     question: 'How much weight can an inflatable SUP board hold?',
     answer:
-      'Weight capacity varies by board volume. Afarer boards: SUP Explorer 11 (260L, up to 100 kg / 220 lbs), Ocean Voyager 12 (310L, up to 140 kg / 308 lbs), Leviathan Wake (350L, up to 180 kg / 396 lbs). For optimal performance, keep total load (rider + gear) within 80% of max capacity. The board rides higher and tracks better when not overloaded, especially in choppy conditions.',
+      'Weight capacity varies by board volume. OLagoon boards: SUP Explorer 11 (260L, up to 100 kg / 220 lbs), Ocean Voyager 12 (310L, up to 140 kg / 308 lbs), Leviathan Wake (350L, up to 180 kg / 396 lbs). For optimal performance, keep total load (rider + gear) within 80% of max capacity. The board rides higher and tracks better when not overloaded, especially in choppy conditions.',
     category: 'product',
     relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager', 'sup-leviathan-wake'],
     relatedGuides: ['sup-size-guide', 'paddle-board-size-guide'],
@@ -363,7 +363,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-inflatable-durability',
     question: 'How long do inflatable SUP boards last with proper care?',
     answer:
-      'With proper care, a quality inflatable SUP board lasts 5-10 years of regular recreational use. Military-grade triple-layer PVC with UV-resistant coating — as used in all afarer boards — resists sun damage, saltwater corrosion, and abrasion. Key longevity factors: rinse with fresh water after each use, dry thoroughly before storage, keep out of direct UV when not in use, store partially inflated in a cool dry place, and avoid dragging on rough surfaces. The drop-stitch threads and seams are typically the first failure point, not the PVC fabric itself.',
+      'With proper care, a quality inflatable SUP board lasts 5-10 years of regular recreational use. Military-grade triple-layer PVC with UV-resistant coating — as used in all olagoon boards — resists sun damage, saltwater corrosion, and abrasion. Key longevity factors: rinse with fresh water after each use, dry thoroughly before storage, keep out of direct UV when not in use, store partially inflated in a cool dry place, and avoid dragging on rough surfaces. The drop-stitch threads and seams are typically the first failure point, not the PVC fabric itself.',
     category: 'maintenance',
     relatedProducts: ['sup-explorer-11', 'sup-ocean-voyager'],
     relatedGuides: ['inflatable-sup-maintenance', 'inflatable-sup-storage', 'inflatable-sup-repair'],
@@ -372,7 +372,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-choppy-water',
     question: 'How do I paddle a SUP in choppy water or wind?',
     answer:
-      'In chop: bend your knees, use a wider stance, shorten your paddle stroke, and engage your core for balance. In headwind: use a lower paddle angle, take shorter strokes, and lean forward. In side-wind: paddle on the upwind side to correct drift. In following wind: surf the swells for speed. Beginners should avoid winds exceeding 10 mph and choose wider, longer boards for stability. The afarer Ocean Voyager touring SUP is designed to handle moderate chop and wind conditions.',
+      'In chop: bend your knees, use a wider stance, shorten your paddle stroke, and engage your core for balance. In headwind: use a lower paddle angle, take shorter strokes, and lean forward. In side-wind: paddle on the upwind side to correct drift. In following wind: surf the swells for speed. Beginners should avoid winds exceeding 10 mph and choose wider, longer boards for stability. The olagoon Ocean Voyager touring SUP is designed to handle moderate chop and wind conditions.',
     category: 'safety',
     relatedProducts: ['sup-ocean-voyager', 'sup-explorer-11'],
     relatedGuides: ['weather-conditions', 'sup-safety-guide', 'wind-conditions-sup'],
@@ -381,7 +381,7 @@ export const faqs: FaqRecord[] = [
     id: 'sup-sustainability',
     question: 'Are inflatable SUP boards environmentally sustainable?',
     answer:
-      'Inflatable SUPs have a lower environmental footprint than rigid boards in several ways: they use less raw material in production, their lighter weight reduces shipping emissions, and their durability means fewer replacements over time. The PVC used in Afarer boards is lead-free and REACH compliant. Key sustainability practices: buy a quality board that lasts 5-10 years, repair rather than replace punctures, recycle the board at end of life through specialized PVC recycling programs, and avoid single-use packaging by choosing brands that use reusable carry bags.',
+      'Inflatable SUPs have a lower environmental footprint than rigid boards in several ways: they use less raw material in production, their lighter weight reduces shipping emissions, and their durability means fewer replacements over time. The PVC used in OLagoon boards is lead-free and REACH compliant. Key sustainability practices: buy a quality board that lasts 5-10 years, repair rather than replace punctures, recycle the board at end of life through specialized PVC recycling programs, and avoid single-use packaging by choosing brands that use reusable carry bags.',
     category: 'general',
     relatedProducts: ['sup-explorer-11'],
     relatedGuides: [],
@@ -407,9 +407,9 @@ export const faqs: FaqRecord[] = [
   },
   {
     id: 'b2b-certification',
-    question: 'What certifications do Afarer OEM products carry?',
+    question: 'What certifications do OLagoon OEM products carry?',
     answer:
-      'All Afarer OEM/ODM products carry: CE declaration of conformity (EU market), UKCA (UK market), ISO 9001:2015 quality management system, BSCI social compliance audit, REACH and RoHS material compliance, EN ISO 25649 classification for inflatable SUP boards. Additional certifications available on request: US Coast Guard compliance documentation, military standard testing (MIL-STD-810), and destination country import certification support.',
+      'All OLagoon OEM/ODM products carry: CE declaration of conformity (EU market), UKCA (UK market), ISO 9001:2015 quality management system, BSCI social compliance audit, REACH and RoHS material compliance, EN ISO 25649 classification for inflatable SUP boards. Additional certifications available on request: US Coast Guard compliance documentation, military standard testing (MIL-STD-810), and destination country import certification support.',
     category: 'b2b',
     relatedProducts: [],
     relatedGuides: [],
@@ -434,7 +434,7 @@ export const faqs: FaqRecord[] = [
   },
   {
     id: 'b2b-ip-protection',
-    question: 'How does Afarer protect my intellectual property and designs?',
+    question: 'How does OLagoon protect my intellectual property and designs?',
     answer:
       'IP protection is a core part of our OEM service. We sign NDAs before any design discussion. Design files are handled on isolated workstations with access logging. All tooling and molds remain your exclusive property (paid by you). We will not reuse your molds or designs for other clients. Mold storage and maintenance are included for active accounts. Upon agreement termination, molds are either shipped to you or destroyed with video documentation. We respect all trademark and patent rights.',
     category: 'b2b',

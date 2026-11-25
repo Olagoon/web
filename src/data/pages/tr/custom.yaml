@@ -8,7 +8,7 @@ meta:
     - 'özel etiketli şişme SUP'
     - 'paddle board üretimi'
 hero:
-  tagline: afarer Özel Laboratuvar
+  tagline: olagoon Özel Laboratuvar
   title: Kendi SUP Tahtanızı<br />Tasarlayın
   subtitle: İşletmeler için ortak marka, özel etiket ve özel SUP üretimine yönelik özel SUP ortağı. Tek bir prototipten tam üretim serisine.
   cta: Projeye Başlayın
@@ -65,7 +65,7 @@ capabilities_section:
     - label: Sertifikasyon
       value: CE, UKCA, FCC (küresel uyumluluk desteği)
 why_section:
-  tagline: Neden afarer
+  tagline: Neden olagoon
   title: Tek fabrika. Tek standart. Sıfır taviz.
   points:
     - text: 12.000 m² entegre üretim tesisi

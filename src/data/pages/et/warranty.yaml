@@ -1,22 +1,22 @@
 meta:
   title: 'Garantii — täispuhutavad supilauad | {SITE}'
-  description: 'afarer garantii ja järeltugi täispuhutavatele supilaudadele ja tarvikutele. Meie kvaliteedikohustus partnerite ja klientide ees.'
+  description: 'olagoon garantii ja järeltugi täispuhutavatele supilaudadele ja tarvikutele. Meie kvaliteedikohustus partnerite ja klientide ees.'
   keywords:
     - 'supi garantii'
     - 'täispuhutava SUP-i garantii'
     - 'supilaua garantiisüsteem'
     - 'järeltugi'
 label: 'Garantii'
-headline: 'afarer tootja piiratud garantii'
-subtitle: 'afarer vastutab iga meie toodetud täispuhutava meretooted kvaliteedi eest. Käesolev piiratud garantii sätestab teie afareri toote tingimused ja katvuse.'
+headline: 'olagoon tootja piiratud garantii'
+subtitle: 'olagoon vastutab iga meie toodetud täispuhutava meretooted kvaliteedi eest. Käesolev piiratud garantii sätestab teie olagooni toote tingimused ja katvuse.'
 seo:
-  headline: 'afarer täispuhutava SUP-i garantii — 3-aastane piiratud garantii | afarer'
-  description: 'afarer pakub 3-aastast piiratud garantiit põhilise tekikanga, õmbluste ja Drop-Stitch tuuma konstruktsiooniterviklikkuse kohta. Katame ka täispuhumisklapid ja tehases paigaldatud tarvikud. Täielikud afareri täispuhutava SUP-i garantiitingimused.'
+  headline: 'olagoon täispuhutava SUP-i garantii — 3-aastane piiratud garantii | olagoon'
+  description: 'olagoon pakub 3-aastast piiratud garantiit põhilise tekikanga, õmbluste ja Drop-Stitch tuuma konstruktsiooniterviklikkuse kohta. Katame ka täispuhumisklapid ja tehases paigaldatud tarvikud. Täielikud olagooni täispuhutava SUP-i garantiitingimused.'
   datePublished: '2024-01-01'
   dateModified: '2026-11-18'
 body: |
   <p class="text-lg text-gray-600 dark:text-gray-400 mb-8">
-    Käesolev piiratud garantii kehtib uute afareri kaubamärgiga täispuhutavate meretoodete kohta, mis on ostetud otse afarerilt või volitatud afareri edasimüüjalt või jaemüüjalt. Jõustumiskuupäev on algse jaemüügi kontrollitav ostukuupäev.
+    Käesolev piiratud garantii kehtib uute olagooni kaubamärgiga täispuhutavate meretoodete kohta, mis on ostetud otse olagoonilt või volitatud olagooni edasimüüjalt või jaemüüjalt. Jõustumiskuupäev on algse jaemüügi kontrollitav ostukuupäev.
   </p>
 
   <div class="bg-sky-50 dark:bg-gray-900 border border-sky-200 dark:border-gray-800 rounded-xl p-6 mb-10">
@@ -52,7 +52,7 @@ body: |
 
   <h2>Mida garantii katab</h2>
   <h3>Peamine torukangas (3 aastat)</h3>
-  <p>afarer garanteerib peamise tekikanga vastu poorsuse halvenemist, mis oluliselt kahjustab toote võimet hoida töökorras õhurõhku. See kehtib PVC-kattega kanga ja kõigi teiste tootmises kasutatud tekikangamaterjalide kohta.</p>
+  <p>olagoon garanteerib peamise tekikanga vastu poorsuse halvenemist, mis oluliselt kahjustab toote võimet hoida töökorras õhurõhku. See kehtib PVC-kattega kanga ja kõigi teiste tootmises kasutatud tekikangamaterjalide kohta.</p>
 
   <h3>Klaaskiust kere konstruktsiooniterviklikkus (3 aastat)</h3>
   <p>Toodete puhul, millel on klaaskiuga tugevdatud plastist (FRP) kere, garanteeritakse põhiline komposiitkonstruktsioon struktuurilise rikke vastu, mis on põhjustatud materjalide või töö kvaliteedi puudustest.</p>
@@ -61,10 +61,10 @@ body: |
   <p>Täispuhutavate torude õmblused, mis ühendatakse tootmise käigus, on garantii all tootmisvigade vastu, mis põhjustavad märkimisväärset õhulekket õmbluse kaudu. Perioodiline inspektsioon ja sobivate rõhkude hoidmine on katvuse tingimuseks.</p>
 
   <h3>Täispuhumisklapi toimimine (3 aastat)</h3>
-  <p>Õhupuhumisklapid, mille afarer algselt paigaldas, on garantii all materjali või töö kvaliteedi puuduste vastu, mis takistavad klapil õhku disainile vastavalt hoidmast.</p>
+  <p>Õhupuhumisklapid, mille olagoon algselt paigaldas, on garantii all materjali või töö kvaliteedi puuduste vastu, mis takistavad klapil õhku disainile vastavalt hoidmast.</p>
 
   <h3>Tehases paigaldatud tarvikud (1 aasta)</h3>
-  <p>afarer toodetud ja tehases algselt paigaldatud komponendid ja liitmikud on ühe aasta jooksul garantii all materjali ja töö puuduste vastu. See ei hõlma kolmanda osapoole tooteid, mida katab ainult nende vastavate tootjate garantii.</p>
+  <p>olagoon toodetud ja tehases algselt paigaldatud komponendid ja liitmikud on ühe aasta jooksul garantii all materjali ja töö puuduste vastu. See ei hõlma kolmanda osapoole tooteid, mida katab ainult nende vastavate tootjate garantii.</p>
 
   <h2>Mida garantii ei kata</h2>
   <ul>
@@ -81,13 +81,13 @@ body: |
   </ul>
 
   <h2>Tootja kohustus ja lahendus</h2>
-  <p>afarer ainukohane ja eksklusiivne kohustus on parandada või asendada afarer valikul mis tahes komponent, mille on määratud materjali või töö kvaliteedi puudusega defektseks ja mis kuulub käesoleva garantii alla. Parandusi või asendusi teostab afarer või selle nimetatud volitatud teenindusasutus. Parandatud või asendatud komponendid on garantii all ainult algses garantiiperioodis järelejäänud osas.</p>
+  <p>olagoon ainukohane ja eksklusiivne kohustus on parandada või asendada olagoon valikul mis tahes komponent, mille on määratud materjali või töö kvaliteedi puudusega defektseks ja mis kuulub käesoleva garantii alla. Parandusi või asendusi teostab olagoon või selle nimetatud volitatud teenindusasutus. Parandatud või asendatud komponendid on garantii all ainult algses garantiiperioodis järelejäänud osas.</p>
 
   <h2>Garantii tingimused</h2>
   <ul>
     <li><strong>Registreerimine:</strong> Toode peab olema nõuetekohaselt registreeritud, nagu on ette nähtud garantiitingimustes.</li>
-    <li><strong>Hooldus:</strong> Toodet tuleb hooldada vastavalt afarer avaldatud juhistele, sealhulgas perioodilise inspektsiooni ja sobivate rõhkude hoidmisega.</li>
-    <li><strong>Koostöö:</strong> Ostja peab garantiinõuetega seotud küsimustes afareriga täielikult ja viivitamatu koostööd tegema.</li>
+    <li><strong>Hooldus:</strong> Toodet tuleb hooldada vastavalt olagoon avaldatud juhistele, sealhulgas perioodilise inspektsiooni ja sobivate rõhkude hoidmisega.</li>
+    <li><strong>Koostöö:</strong> Ostja peab garantiinõuetega seotud küsimustes olagooniga täielikult ja viivitamatu koostööd tegema.</li>
     <li><strong>Algne ostja:</strong> Käesolev garantii kehtib ainult algsele lõppkasutajast ostjale ja see ei ole üleandmine.</li>
   </ul>
 
@@ -95,12 +95,12 @@ body: |
   <p>Kui toodet kasutatakse äri-, valitsus-, mittetulundus-, tšarter-, rendi-, õppe- või muul eesmärgil kui eravabaaja kasutus, väheneb kõigi komponentide garantiiperiood ühele (1) aastale alates algsest jaemüügi ostukuupäevast. Kasutus võistlustel, kiirus- või vastupidavusvõistlusel tühistab garantii viivitamata ja tagasiulatuvatult täielikult.</p>
 
   <h2>Kuidas esitada garantiinõue</h2>
-  <p>Võtke ühendust afareriga või oma volitatud edasimüüjaga koos ostutõendi ja probleemi üksikasjaliku kirjeldusega. afarer vaatab nõude läbi ja annab juhised inspektsiooniks ja teeninduseks.</p>
+  <p>Võtke ühendust olagooniga või oma volitatud edasimüüjaga koos ostutõendi ja probleemi üksikasjaliku kirjeldusega. olagoon vaatab nõude läbi ja annab juhised inspektsiooniks ja teeninduseks.</p>
   <p>Garantiiteeninduse päringuteks võtke palun meiega ühendust meie <a href="/contact/" class="text-sky-600 underline">kontaktlehe</a> kaudu, kasutades oma tellimuse numbrit ja toote andmeid.</p>
 
   <h2>Kolmanda osapoole tooted</h2>
-  <p>Kolmandate osapoolte toodetud varustus, komponendid või süsteemid (isegi kui afarer need paigaldas) on kaetud ainult nende vastavate tootjate pakutava garantiiga. afarer võtab selgesõnaliselt kõik garantiikohustused selliste kolmanda osapoole toodete osas tagasi.</p>
+  <p>Kolmandate osapoolte toodetud varustus, komponendid või süsteemid (isegi kui olagoon need paigaldas) on kaetud ainult nende vastavate tootjate pakutava garantiiga. olagoon võtab selgesõnaliselt kõik garantiikohustused selliste kolmanda osapoole toodete osas tagasi.</p>
 
   <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
-    Käesolev garantiiteatis on täieliku afarer tootja piiratud garantii kokkuvõte. Kõiki garantiitingimusi reguleerib täielik juriidiline garantiidokument. Spetsifikatsioonid võivad muutuda ette teatamata. afarer on kaubamärk, mida haldab Aquafarer LLC.
+    Käesolev garantiiteatis on täieliku olagoon tootja piiratud garantii kokkuvõte. Kõiki garantiitingimusi reguleerib täielik juriidiline garantiidokument. Spetsifikatsioonid võivad muutuda ette teatamata. olagoon on kaubamärk, mida haldab Olagoon LLC.
   </p>

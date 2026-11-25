@@ -1,6 +1,6 @@
 meta:
   title: 'Ohutus — standardid ja sertifitseerimised | {SITE}'
-  description: 'afarer toodete ohutus: CE-sertifitseeritud täispuhutavad SUP-id, range testimine ja vastavus rahvusvahelistele merendusohutuse standarditele.'
+  description: 'olagoon toodete ohutus: CE-sertifitseeritud täispuhutavad SUP-id, range testimine ja vastavus rahvusvahelistele merendusohutuse standarditele.'
   keywords:
     - 'supi ohutusstandardid'
     - 'ce-sertifitseeritud sõudelaud'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'Ohutus'
   title: 'Ohutusstandardid ja sertifitseerimine'
-  subtitle: 'Iga afarer toode läbib range testimise ja vastab rahvusvahelistele ohutusstandarditele nii vabaaja- kui ka professionaalseks kasutuseks.'
+  subtitle: 'Iga olagoon toode läbib range testimise ja vastab rahvusvahelistele ohutusstandarditele nii vabaaja- kui ka professionaalseks kasutuseks.'
 
 certifications:
   - title: 'CE-sertifitseerimine'
-    description: 'Kogu afarer ohutusvarustus vastab CE-märgistuse nõuetele vastavalt Euroopa isikukaitsevahendite määrusele (EL) 2016/425.'
+    description: 'Kogu olagoon ohutusvarustus vastab CE-märgistuse nõuetele vastavalt Euroopa isikukaitsevahendite määrusele (EL) 2016/425.'
   - title: 'ISO 12402 sertifitseerimine'
     description: 'Päästevestid vastavad ISO 12402 ujuvusstandarditele. Life Vest Classic pakub üle 50N ujuvuse; Life Vest Pro vastab SOLAS-i nõuetele automaatse täitumisega.'
   - title: 'SOLAS-i vastavus'

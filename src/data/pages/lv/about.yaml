@@ -1,6 +1,6 @@
 meta:
-  title: 'Par Afarer — piepūšamo SUP un ūdens sporta zīmols | {SITE}'
-  description: 'Afarer ir globāls piepūšamo SUP un ūdens sporta zīmols, ko pārvalda Aquafarer LLC (ASV) un ko veido mūsu Cindao operāciju komanda. Atklājiet mūsu stāstu, inženieriju, sertificēto kvalitāti un valstu partneru programmas.'
+  title: 'Par OLagoon — piepūšamo SUP un ūdens sporta zīmols | {SITE}'
+  description: 'OLagoon ir globāls piepūšamo SUP un ūdens sporta zīmols, ko pārvalda Olagoon LLC (ASV) un ko veido mūsu Cindao operāciju komanda. Atklājiet mūsu stāstu, inženieriju, sertificēto kvalitāti un valstu partneru programmas.'
   keywords:
     - 'piepūšamo SUP zīmols'
     - 'ūdens sporta zīmols'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'Par mums'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'afarer rūpnīca un darbnīca'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'olagoon rūpnīca un darbnīca'
   title: |
     Jūras inženierija, <br />
-    veidota <span class="text-accent dark:text-white">afarer</span> ceļā
+    veidota <span class="text-accent dark:text-white">olagoon</span> ceļā
   subtitle: 'Mēs sākām piekrastes darbnīcā ar vienu dēli un neatlaidīgu pārliecību: jūras produkti ir jāizstrādā tā, it kā tie būtu svarīgi, jo tādi tie arī ir. Šodien mēs nosūtām produktus uz vairāk nekā 40 valstīm, taču katrs korpuss joprojām iziet cauri tām pašām rokām, kuras nodibināja uzņēmumu.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Projektu pa projektam dizains komerciāliem, zinātniskiem un militāriem klientiem.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Dēļu dizaina un inženierijas apspriede'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Atskaites punkti'
-  subtitle: 'Īsa afarer stāsta versija.'
+  subtitle: 'Īsa olagoon stāsta versija.'
   isReversed: true
   items:
     - title: 'Dibināts piekrastes darbnīcā'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Nosūtām uz 50+ valstīm no mūsu Cindao objekta ar autorizētiem servisa partneriem visā Eiropā, Āzijas un Klusā okeāna reģionā un Amerikā.'
     link: /brand-global-presence/
     link_label: 'Uzzināt vairāk →'
-  - title: 'Kāpēc afarer'
+  - title: 'Kāpēc olagoon'
     desc: 'Zīmols, kas balstīts uz pārbaudītu kvalitāti — dubultā sertifikācija (ISO 9001 + BSCI), CE atbilstība un ekskluzīvas valsts partnerības ar ierobežotām kopīga zīmola kolekcijām ūdens sporta uzņēmumiem.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Uzzināt vairāk →'

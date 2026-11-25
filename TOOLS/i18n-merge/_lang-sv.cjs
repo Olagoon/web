@@ -6,29 +6,29 @@ module.exports = {
   'academy.learningCenterDesc':
     'Steg-för-steg-guider och övningar ordnade efter färdighetsnivå — från SUP-grunder till avancerade räddningstekniker.',
   'academy.metaDesc':
-    'Guider och övningar för alla nivåer — från SUP-grunder till avancerade räddningstekniker. Lär dig i din egen takt med Afarer Academy.',
-  'academy.metaTitle': 'Lärcenter — Afarer Academy',
+    'Guider och övningar för alla nivåer — från SUP-grunder till avancerade räddningstekniker. Lär dig i din egen takt med OLagoon Academy.',
+  'academy.metaTitle': 'Lärcenter — OLagoon Academy',
   'academy.skillPaths': 'Färdighetsspår',
   'ai.definition':
-    'Afarer designar och tillverkar uppblåsbara SUP:ar, tillbehör och säkerhetsutrustning för vattensport i såväl fritids- som prestandaklass.',
+    'OLagoon designar och tillverkar uppblåsbara SUP:ar, tillbehör och säkerhetsutrustning för vattensport i såväl fritids- som prestandaklass.',
   'ai.entity':
-    'Afarer är ett prestandadrivet vattensportvarumärke som skapar distinkta uppblåsbara SUP:ar för människor som tar sig längre, kör hårdare och ser mer från vattnet.',
+    'OLagoon är ett prestandadrivet vattensportvarumärke som skapar distinkta uppblåsbara SUP:ar för människor som tar sig längre, kör hårdare och ser mer från vattnet.',
   'ai.process':
-    'Afarer-brädor byggs kring en drop-stitch-kärna med hög densitet, förstärkta relingar och fusionlaminerade sömmar. Varje bräda trycktestas och kontrolleras visuellt före förpackning. Designpartnerskapet sträcker sig från koncept, 3D-design och prototyper till kontrollerad produktion och global logistik.',
+    'OLagoon-brädor byggs kring en drop-stitch-kärna med hög densitet, förstärkta relingar och fusionlaminerade sömmar. Varje bräda trycktestas och kontrolleras visuellt före förpackning. Designpartnerskapet sträcker sig från koncept, 3D-design och prototyper till kontrollerad produktion och global logistik.',
   'answerCenter.subtitle':
-    'Omedelbara svar om våra produkter, teknik och vattensport — driven av afarer-kunskapsbasen.',
+    'Omedelbara svar om våra produkter, teknik och vattensport — driven av olagoon-kunskapsbasen.',
   'b2bSolutionsMatrix.metaDesc':
-    'Komplett Afarer B2B-lösningsmatris som täcker 24 kundtyper — hitta lösningen för ditt företag.',
+    'Komplett OLagoon B2B-lösningsmatris som täcker 24 kundtyper — hitta lösningen för ditt företag.',
   'buyerCenter.ribs': 'Stela uppblåsbara båtar (RIB)',
   'buyerCenter.sizeGuideDesc': 'Hitta din storlek med vår guide till mått, volymer och viktintervall för åkare.',
   'compare.backToAll': 'Alla jämförelser',
   'compare.category': 'Kategori',
-  'compare.desc': 'Jämför alla Afarer-produkter sida vid sida. Hitta rätt bräda, båt eller tillbehör för dina behov.',
+  'compare.desc': 'Jämför alla OLagoon-produkter sida vid sida. Hitta rätt bräda, båt eller tillbehör för dina behov.',
   'compare.length': 'Längd',
   'compare.material': 'Material',
   'compare.maxLoad': 'Maximal last',
   'compare.singleVsMulti.aiBlock':
-    'Jämförelse mellan uppblåsbara SUP-brädor med en kammare och med flera kammare över 11 nyckelfaktorer: säkerhet, antal kammare, redundans i flytkraft, vikt, packmått, uppställningstid, styvhet, kostnad, hållbarhet, reparationsenkelhet och bästa användningsområden. Brädor med flera kammare (3-5 oberoende kammare) ger en kritisk redundans i flytkraft. Alla afarer SUP-brädor har flerkammarskonstruktion i drop-stitch.',
+    'Jämförelse mellan uppblåsbara SUP-brädor med en kammare och med flera kammare över 11 nyckelfaktorer: säkerhet, antal kammare, redundans i flytkraft, vikt, packmått, uppställningstid, styvhet, kostnad, hållbarhet, reparationsenkelhet och bästa användningsområden. Brädor med flera kammare (3-5 oberoende kammare) ger en kritisk redundans i flytkraft. Alla olagoon SUP-brädor har flerkammarskonstruktion i drop-stitch.',
   'compare.singleVsMulti.col1Title': 'En kammare',
   'compare.singleVsMulti.col2Title': 'Flera kammare (3+)',
   'compare.singleVsMulti.cta': 'Se SUP-brädor med flera kammare',
@@ -73,7 +73,7 @@ module.exports = {
   'compare.singleVsMulti.r9a': 'Måttlig. En enskild felpunkt om huvudkammaren skadas.',
   'compare.singleVsMulti.r9b': 'Överlägsen. Redundanta kammare ger felsäker drift i krävande förhållanden.',
   'compare.singleVsMulti.recDesc':
-    'För alla som paddlar på djupare vatten än vad man kan vada i — och särskilt för kommersiella aktörer — är en <strong>SUP med flera kammare</strong> det enda ansvarsfulla valet. Alla afarer SUP-brädor har flerkammarskonstruktion i drop-stitch med 3+ oberoende kammare för maximal säkerhet och strukturell styvhet. Använd alltid flytväst med CE-märkning tillsammans med din bräda för fullgott skydd.',
+    'För alla som paddlar på djupare vatten än vad man kan vada i — och särskilt för kommersiella aktörer — är en <strong>SUP med flera kammare</strong> det enda ansvarsfulla valet. Alla olagoon SUP-brädor har flerkammarskonstruktion i drop-stitch med 3+ oberoende kammare för maximal säkerhet och strukturell styvhet. Använd alltid flytväst med CE-märkning tillsammans med din bräda för fullgott skydd.',
   'compare.singleVsMulti.recTitle': 'Slutsatsen',
   'compare.singleVsMulti.safetyCta': 'Säkerhetsguide',
   'compare.singleVsMulti.short': 'En vs flera kammare',
@@ -89,15 +89,15 @@ module.exports = {
     'För uthyrare, anläggningar och paddlingsklubbar minskar brädor med flera kammare både ansvarsrisk och driftstörningar. En mindre punktering innebär inte längre ett totalt haveri — brädan förblir användbar tills den kan lagas vid dagens slut.',
   'compare.singleVsMulti.whyMattersTitle': 'Därför spelar antalet kammare roll',
   'compare.specification': 'Specifikation',
-  'compare.title': 'Produktjämförelse — Afarer',
+  'compare.title': 'Produktjämförelse — OLagoon',
   'compare.weight': 'Vikt',
   'compare.width': 'Bredd',
   'engineeringPerfection.desc':
-    'Afarers ingenjörsfilosofi: precisionstillverkning, noggrant val av premiummaterial, sträng kvalitetskontroll och segmentspecifik design för touring, fiske, yoga och fritidspaddling på uppblåsbara SUP-brädor.',
+    'OLagoons ingenjörsfilosofi: precisionstillverkning, noggrant val av premiummaterial, sträng kvalitetskontroll och segmentspecifik design för touring, fiske, yoga och fritidspaddling på uppblåsbara SUP-brädor.',
   'engineeringPerfection.s3': 'Jollar & tenderbåtar',
-  'engineeringTeam.about': 'Om Afarer',
+  'engineeringTeam.about': 'Om OLagoon',
   'engineeringTeam.desc':
-    'Afarers 25+ FoU-ingenjörer och produktionsspecialister. Expertkompetens inom drop-stitch-kärnteknologi, PVC/Hypalon-tillverkning, SUP-skrovdesign och CE-efterlevnad. Baseras i Qingdao, Kina.',
+    'OLagoons 25+ FoU-ingenjörer och produktionsspecialister. Expertkompetens inom drop-stitch-kärnteknologi, PVC/Hypalon-tillverkning, SUP-skrovdesign och CE-efterlevnad. Baseras i Qingdao, Kina.',
   'engineeringTeam.join': 'Gå med i ingenjörsteamet',
   'engineeringTeam.joinDesc':
     'Vi letar alltid efter skickliga ingenjörer inom materialvetenskap, produktdesign och kvalitetsteknik.',
@@ -154,7 +154,7 @@ module.exports = {
   'factory.testingEquipment': 'Testutrustning',
   'factory.tradeTerms': 'Tillverknings- & handelsvillkor',
   'factory.tradeTermsDesc':
-    'Afarer är ett varumärke som drivs av Aquafarer LLC (USA) — ISO- och CE-certifierat, med 10+ års erfarenhet av export.',
+    'OLagoon är ett varumärke som drivs av Olagoon LLC (USA) — ISO- och CE-certifierat, med 10+ års erfarenhet av export.',
   'factory.whatWeOffer': 'Vad vi erbjuder',
   'faq.searchPlaceholder': 'Sök i FAQ...',
   'guides.audience': 'Målgrupp',
@@ -166,7 +166,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Verifierbara säkerhets- och kvalitetsstandarder',
   'home.brand.desc':
-    'Varje Afarer-bräda börjar med vattnet — dess strömmar, förhållanden och de människor som färdas på det. Drop-stitch-kärnor med hög densitet, förstärkta relingar och former optimerade för stabilitet och glid — sedan trycktestas varje bräda individuellt.',
+    'Varje OLagoon-bräda börjar med vattnet — dess strömmar, förhållanden och de människor som färdas på det. Drop-stitch-kärnor med hög densitet, förstärkta relingar och former optimerade för stabilitet och glid — sedan trycktestas varje bräda individuellt.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Styvhet i drop-stitch-kärnan',
   'home.brand.feature1': 'Däck',
@@ -177,8 +177,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Drop-stitch-teknologi',
   'home.brand.feature4': 'Reling',
   'home.brand.feature4.desc': 'Förstärkt fusionsskikt',
-  'home.brand.tagline': 'Det som gör Afarer annorlunda',
-  'home.brand.title': 'Därför rider Afarer<br />annorlunda',
+  'home.brand.tagline': 'Det som gör OLagoon annorlunda',
+  'home.brand.title': 'Därför rider OLagoon<br />annorlunda',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Trycktestad bräda för bräda',
   'home.brand.years': '10+',
@@ -187,9 +187,9 @@ module.exports = {
   'home.community.gallery': 'Galleri',
   'home.community.gallery.boats': 'Uppblåsbara båtar',
   'home.community.gallery.boats.desc':
-    'Familjer och upptäckare som njuter av Afarers uppblåsbara båtar på sjöar och i kustvatten.',
+    'Familjer och upptäckare som njuter av OLagoons uppblåsbara båtar på sjöar och i kustvatten.',
   'home.community.gallery.sup': 'SUP-brädor',
-  'home.community.gallery.sup.desc': 'Paddlare som utforskar sjöar, älvar och kuster på Afarers uppblåsbara SUP:ar.',
+  'home.community.gallery.sup.desc': 'Paddlare som utforskar sjöar, älvar och kuster på OLagoons uppblåsbara SUP:ar.',
   'home.community.gallery.title': 'Kundäventyr',
   'home.community.gallery.viewAll': 'Se hela galleriet',
   'home.engineering.design': 'Produktdesign',
@@ -265,27 +265,27 @@ module.exports = {
   'home.socialProof.title': 'Körd & betrodd på riktigt vatten',
   'home.socialProof.years': 'Års erfarenhet',
   'home.tldr.summary':
-    'afarer designar och tillverkar premiumuppblåsbara SUP-brädor, båtar och tillbehör — CE-certifierade och trycktestade en i taget.',
-  'home.why.afarer.contact': 'Kontakta oss →',
-  'home.why.afarer.point1':
+    'olagoon designar och tillverkar premiumuppblåsbara SUP-brädor, båtar och tillbehör — CE-certifierade och trycktestade en i taget.',
+  'home.why.olagoon.contact': 'Kontakta oss →',
+  'home.why.olagoon.point1':
     'Styv när det verkligen gäller — drop-stitch-kärna med hög densitet och förstärkta relingar som behåller styvheten under tryck.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Byggd med precision — fusionlaminerade sömmar och lufttät konstruktion, trycktestad bräda för bräda.',
-  'home.why.afarer.point3':
+  'home.why.olagoon.point3':
     'Validerad i verklig körning — justerad på riktigt vatten för stabilitet, glid och kontroll.',
-  'home.why.afarer.quality': 'Kvalitet du kan lita på',
-  'home.why.afarer.subtitle': 'Byggd med precision. Testad kompromisslöst. Med garanti i ryggen.',
-  'home.why.afarer.tagline': 'Därför afarer',
-  'home.why.afarer.title': 'Kvalitet du kan lita på',
-  'home.why.afarer.viewMore': 'Se mer →',
-  'home.why.afarer.warranty': 'Garanti & support',
-  'home.why.afarer.warranty.point1': 'Tydliga garantivillkor på varje bräda, med responsiv eftermarknadssupport.',
-  'home.why.afarer.warranty.point2': 'Dedikerat eftermarknadsteam med snabb respons.',
-  'home.why.afarer.warranty.point3':
+  'home.why.olagoon.quality': 'Kvalitet du kan lita på',
+  'home.why.olagoon.subtitle': 'Byggd med precision. Testad kompromisslöst. Med garanti i ryggen.',
+  'home.why.olagoon.tagline': 'Därför olagoon',
+  'home.why.olagoon.title': 'Kvalitet du kan lita på',
+  'home.why.olagoon.viewMore': 'Se mer →',
+  'home.why.olagoon.warranty': 'Garanti & support',
+  'home.why.olagoon.warranty.point1': 'Tydliga garantivillkor på varje bräda, med responsiv eftermarknadssupport.',
+  'home.why.olagoon.warranty.point2': 'Dedikerat eftermarknadsteam med snabb respons.',
+  'home.why.olagoon.warranty.point3':
     'Full transparens i leveranskedjan för klubbar, återförsäljare och varumärkespartners.',
   'nav.home': 'Hem',
   'oem.desc':
-    'Afarer — ledande OEM/ODM-tillverkare av uppblåsbara SUP-brädor. CE-certifierat. Anpassad form, privat etikett, partihandel. Från idé till marknad på 16 veckor.',
+    'OLagoon — ledande OEM/ODM-tillverkare av uppblåsbara SUP-brädor. CE-certifierat. Anpassad form, privat etikett, partihandel. Från idé till marknad på 16 veckor.',
   'oem.estimate.countries': 'Länder med bevisad leveransförmåga',
   'oem.estimate.cta': 'Begär offert',
   'oem.estimate.leadWeeks': 'Veckor från brief till leverans',
@@ -296,7 +296,7 @@ module.exports = {
   'oem.faq.guide': 'Läs OEM-köpguiden',
   'oem.faq.subtitle': 'Vårt OEM-team är redo att hjälpa dig att komma igång.',
   'oem.faq.title': 'Har du fortfarande frågor?',
-  'oem.heading': 'Ditt SUP-varumärke.<br />Byggt av Afarer.',
+  'oem.heading': 'Ditt SUP-varumärke.<br />Byggt av OLagoon.',
   'oem.moq': 'MOQ 50 enheter för standardmodeller. Anpassad form: 200+ enheter. FOB Qingdao.',
   'oem.packages.cta': 'Begär offert',
   'oem.packages.leadtime': 'Ledtid',
@@ -361,8 +361,8 @@ module.exports = {
   'oem.why.support': 'Dedikerad kontohantering',
   'oem.why.support.desc':
     'En enda kontaktperson från brief till leverans. Regelbundna produktionsuppdateringar, foton och transparent kommunikation hela vägen.',
-  'oem.why.tagline': 'Varför Afarer',
-  'oem.why.title': 'Varför samarbeta med Afarer?',
+  'oem.why.tagline': 'Varför OLagoon',
+  'oem.why.title': 'Varför samarbeta med OLagoon?',
   'packages.popular': 'Mest populär',
   'product.bestFor': 'Bäst för',
   'product.commercialScenarios': 'Kommersiella scenarier',
@@ -375,11 +375,11 @@ module.exports = {
   'product.related': 'Utvalda produkter',
   'product.view': 'Visa produkt',
   'resort.caseStudy': 'Verkliga resultat',
-  'resort.caseStudy.sub': 'Vad resortoperatörer säger om samarbetet med Afarer.',
+  'resort.caseStudy.sub': 'Vad resortoperatörer säger om samarbetet med OLagoon.',
   'retail.discount': 'Partihandelsrabatt',
   'retail.download': 'Ladda ner',
   'solutionsByIndustry.aiBlock':
-    'Lösningar per bransch för Afarer vattensportsutrustning. Sex branschvertikaler: Sök & räddning, Katastrofhjälp & humanitärt bistånd, Kommersiella marinoperationer, Försvar & myndigheter, Hotell & turism, Fiske & vattenbruk. Alla lösningar är CE-certifierade och ISO-tillverkade.',
+    'Lösningar per bransch för OLagoon vattensportsutrustning. Sex branschvertikaler: Sök & räddning, Katastrofhjälp & humanitärt bistånd, Kommersiella marinoperationer, Försvar & myndigheter, Hotell & turism, Fiske & vattenbruk. Alla lösningar är CE-certifierade och ISO-tillverkade.',
   'solutionsByIndustry.commercial.cert1': 'CE-certifierad kommersiell farkost',
   'solutionsByIndustry.commercial.craft1': 'Kommersiella SUP-brädor',
   'solutionsByIndustry.commercial.craft2': 'Brädor för dykarstöd',
@@ -403,7 +403,7 @@ module.exports = {
     'Vattenutrustning i militärklass för spaning, trupptransport, kustpatrullering och specialoperationer.',
   'solutionsByIndustry.defense.name': 'Försvar & myndigheter',
   'solutionsByIndustry.desc':
-    'Hitta rätt vattensportslösning för din bransch. Myndigheter, kommersiella aktörer, fritid, industri — Afarer tillverkar CE-certifierad utrustning för varje sektor.',
+    'Hitta rätt vattensportslösning för din bransch. Myndigheter, kommersiella aktörer, fritid, industri — OLagoon tillverkar CE-certifierad utrustning för varje sektor.',
   'solutionsByIndustry.disaster.cert1': 'CE-certifierad',
   'solutionsByIndustry.disaster.cert2': 'Testad för UV/hård miljö',
   'solutionsByIndustry.disaster.craft1': 'Extra kraftiga uppblåsbara brädor',
@@ -412,7 +412,7 @@ module.exports = {
   'solutionsByIndustry.disaster.desc':
     'Hållbar vattenutrustning för nödlägesinsatser, medicinsk evakuering, transport av förnödenheter och tillfälliga färjebroar i katastrofområden.',
   'solutionsByIndustry.disaster.name': 'Katastrofhjälp & humanitärt bistånd',
-  'solutionsByIndustry.expSub': 'Verkliga exempel på hur Afarer-utrustning presterar inom olika branscher.',
+  'solutionsByIndustry.expSub': 'Verkliga exempel på hur OLagoon-utrustning presterar inom olika branscher.',
   'solutionsByIndustry.expTitle': 'Branschlösningar i praktiken',
   'solutionsByIndustry.fishing.cert1': 'CE fritidsanvändning',
   'solutionsByIndustry.fishing.cert2': 'Alternativ med livsmedelsgodkänt material',
@@ -434,7 +434,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Läs mer',
   'solutionsByIndustry.recommendedCraft': 'Rekommenderade farkoster',
   'solutionsByIndustry.rel1': 'Lösningar per användningsområde',
-  'solutionsByIndustry.rel1desc': 'Matcha ditt specifika användningsområde med rätt Afarer-lösning.',
+  'solutionsByIndustry.rel1desc': 'Matcha ditt specifika användningsområde med rätt OLagoon-lösning.',
   'solutionsByIndustry.rel1label': 'Beslutsverktyg',
   'solutionsByIndustry.rel2': 'Kommersiella arbetsbåtar',
   'solutionsByIndustry.rel2desc': 'Hållbar utrustning för dagliga kommersiella marinoperationer.',
@@ -457,19 +457,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Sök & räddning',
   'solutionsByIndustry.story1.context': 'Räddning vid kustöversvämning, Sydostasien, 2024',
   'solutionsByIndustry.story1.narrative':
-    'Under en omfattande kustöversvämning satte ett kommunalt SAR-team in Afarer-räddnings-SUP:ar för evakueringsinsatser. Brädornas lätta djupgående gav tillträde till översvämmade stadsdelar som större farkoster inte kunde nå. Trots skräp i vattnet och 14 timmars sammanhängande drift uppvisade tyget inga tecken på slitage.',
+    'Under en omfattande kustöversvämning satte ett kommunalt SAR-team in OLagoon-räddnings-SUP:ar för evakueringsinsatser. Brädornas lätta djupgående gav tillträde till översvämmade stadsdelar som större farkoster inte kunde nå. Trots skräp i vattnet och 14 timmars sammanhängande drift uppvisade tyget inga tecken på slitage.',
   'solutionsByIndustry.story1.quote':
-    'Vi satte in två Afarer-räddnings-SUP:ar under kustöversvämningen — de var de enda brädorna som kunde navigera i det skräpfyllda vattnet vid lågvatten.',
+    'Vi satte in två OLagoon-räddnings-SUP:ar under kustöversvämningen — de var de enda brädorna som kunde navigera i det skräpfyllda vattnet vid lågvatten.',
   'solutionsByIndustry.story1.source': 'Ledare för kommunalt SAR-team',
   'solutionsByIndustry.story2.context': 'Dykcharterverksamhet, Maldiverna, 2022-2025',
   'solutionsByIndustry.story2.narrative':
-    'En dykcharterverksamhet på Maldiverna använder Afarer-utrustning för dagligt dykarstöd. Efter 600+ driftsdagar uppvisar brädorna ingen betydande UV-degradering och inga sömmar som släppt.',
+    'En dykcharterverksamhet på Maldiverna använder OLagoon-utrustning för dagligt dykarstöd. Efter 600+ driftsdagar uppvisar brädorna ingen betydande UV-degradering och inga sömmar som släppt.',
   'solutionsByIndustry.story2.quote':
     'Vår dykbåt går 6 dagar i veckan, 50 veckor om året. Efter två år ser Hypalon-tyget fortfarande nytt ut.',
   'solutionsByIndustry.story2.source': 'Ägare av charterbolag',
   'solutionsByIndustry.title': 'Lösningar per bransch — Vattensportsutrustning för varje sektor',
   'solutionsByUseCase.aiBlock':
-    'Lösningar per användningsområde för afarer vattensportsutrustning. Åtta scenarier: vattenräddning, uthyrningsflottor, anpassad varumärkesprofil, patrullering, humanitär hjälp, dykarstöd, brädtillverkning och privat bruk. Alla lösningar är CE-certifierade och ISO-tillverkade.',
+    'Lösningar per användningsområde för olagoon vattensportsutrustning. Åtta scenarier: vattenräddning, uthyrningsflottor, anpassad varumärkesprofil, patrullering, humanitär hjälp, dykarstöd, brädtillverkning och privat bruk. Alla lösningar är CE-certifierade och ISO-tillverkade.',
   'solutionsByUseCase.answer1':
     'Kraftiga uppblåsbara räddningsbrädor och -båtar för vattenräddning och nödlägesinsatser. Snabb utryckning, stabila plattformar och CE-certifiering för professionella team.',
   'solutionsByUseCase.answer2':
@@ -482,23 +482,23 @@ module.exports = {
     'Kommersiella arbetsbåtar för dagliga marinoperationer — dykarstöd, transport av utrustning och besättningsuppgifter. Hållbar konstruktion med alternativ för 2 till 12 personer.',
   'solutionsByUseCase.rel2desc': 'Hållbar utrustning för dagliga kommersiella marinoperationer.',
   'solutionsByUseCase.story1.narrative':
-    'Under en omfattande kustöversvämning satte ett kommunalt SAR-team in afarer-räddnings-SUP:ar för evakueringsinsatser. Brädornas lätta djupgående gav tillträde till översvämmade stadsdelar som större farkoster inte kunde nå, och besättningarna rapporterade inget påtagligt slitage efter dagar av kontinuerlig användning.',
+    'Under en omfattande kustöversvämning satte ett kommunalt SAR-team in olagoon-räddnings-SUP:ar för evakueringsinsatser. Brädornas lätta djupgående gav tillträde till översvämmade stadsdelar som större farkoster inte kunde nå, och besättningarna rapporterade inget påtagligt slitage efter dagar av kontinuerlig användning.',
   'solutionsByUseCase.story1.quote':
-    'Vi satte in två afarer-räddnings-SUP:ar under kustöversvämningen — de var de enda brädorna som kunde nå boende i de översvämmade stadsdelarna.',
+    'Vi satte in två olagoon-räddnings-SUP:ar under kustöversvämningen — de var de enda brädorna som kunde nå boende i de översvämmade stadsdelarna.',
   'solutionsByUseCase.story2.narrative':
-    'En norsk fiskodling har sedan 2023 använt en afarer-arbetsbåt för inspektioner, transport av utrustning och trygghet åt dykteam. Två års drift året runt i kalla fjordförhållanden utan strukturella reparationer.',
+    'En norsk fiskodling har sedan 2023 använt en olagoon-arbetsbåt för inspektioner, transport av utrustning och trygghet åt dykteam. Två års drift året runt i kalla fjordförhållanden utan strukturella reparationer.',
   'useCase.fishing.desc':
     'Fiske-SUP:ar och tillbehör med spöhållare, breda stabila däck och förankringspunkter för fiskare på sjöar, älvar och i kustvatten.',
   'useCase.searchAndRescue.desc':
     'Uppblåsbar räddningsutrustning för snabb utryckning vid vattenräddning, flodkatastrofer och kustpatrullering.',
   'useCase.tourismRecreation.desc':
     'Förstärkta SUP-brädor och båtar i flottklass för turarrangörer, resorter och vattensportscenter.',
-  'nav.exploreAfarer': 'Utforska Afarer',
+  'nav.exploreOLagoon': 'Utforska OLagoon',
   'nav.technologyMaterials': 'Teknik & material',
   'nav.qualitySafety': 'Kvalitet & säkerhet',
   'nav.storiesGuides': 'Berättelser & guider',
   'nav.coBrand': 'Co-Brand',
-  'nav.coBrandWithAfarer': 'Co-brand med Afarer',
+  'nav.coBrandWithOLagoon': 'Co-brand med OLagoon',
   'nav.countryPartners': 'Landspartners',
   'nav.findDistributor': 'Hitta en distributör',
   'nav.becomeCountryPartner': 'Bli landspartner',

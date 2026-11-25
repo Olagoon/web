@@ -1,6 +1,6 @@
 meta:
   title: "Expertise Marine — L'Ingénierie dans Chaque Coque | {SITE}"
-  description: "Des décennies d'ingénierie marine dans chaque coque. afarer maîtrise le drop stitch, le PVC marine et la conception de SUP gonflables professionnels."
+  description: "Des décennies d'ingénierie marine dans chaque coque. olagoon maîtrise le drop stitch, le PVC marine et la conception de SUP gonflables professionnels."
   keywords:
     - 'ingénierie marine'
     - 'fabricant SUP gonflable'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: Expertise marine
   title: Des Décennies d'Ingénierie Marine<br />dans Chaque Coque
-  subtitle: afarer combine une science des matériaux approfondie, une fabrication de précision et des tests en conditions réelles pour produire des embarcations performantes au moment décisif.
+  subtitle: olagoon combine une science des matériaux approfondie, une fabrication de précision et des tests en conditions réelles pour produire des embarcations performantes au moment décisif.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: Équipe d'ingénierie marine et R&D d'afarer au travail
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: Équipe d'ingénierie marine et R&D d'olagoon au travail
 expertise_materials:
   tagline: Science des Matériaux
   title: Choisir le Bon Matériau<br />pour Chaque Application

@@ -1,6 +1,6 @@
 meta:
   title: 'Produktionsproces — Fra råmateriale til SUP | {SITE}'
-  description: 'Fra råmateriale til søklar SUP: hvert trin i afarers produktionsproces under vores kontrol, fra skæring og svejsning til testning.'
+  description: 'Fra råmateriale til søklar SUP: hvert trin i olagoons produktionsproces under vores kontrol, fra skæring og svejsning til testning.'
   keywords:
     - 'SUP produktionsproces'
     - 'oppustelig SUP fabrik'
@@ -13,7 +13,7 @@ hero:
   back_label: Tilbage til fabrikken
   back_link: /factory/
 intro: >-
-  I modsætning til brands, der outsourcer produktionen til tredjepartsfabrikker, ejer og driver afarer hele sin produktionskæde. Denne vertikale integration gør os i stand til at opretholde streng kvalitetskontrol i alle faser, reagere hurtigt på kundetilpassede krav og levere ensartet
+  I modsætning til brands, der outsourcer produktionen til tredjepartsfabrikker, ejer og driver olagoon hele sin produktionskæde. Denne vertikale integration gør os i stand til at opretholde streng kvalitetskontrol i alle faser, reagere hurtigt på kundetilpassede krav og levere ensartet
   produktkvalitet batch efter batch. Sådan bygges et board i vores fabrik.
 steps:
   - step: '01'
@@ -57,6 +57,6 @@ steps:
     duration: 1 dag
 cta:
   title: Se vores udstyr og maskiner
-  desc: Udforsk det industrielle udstyr bag hvert eneste afarer board.
+  desc: Udforsk det industrielle udstyr bag hvert eneste olagoon board.
   label: Se udstyret →
   link: /factory/equipment/

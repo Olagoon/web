@@ -1,6 +1,6 @@
 meta:
   title: 'Jūras kompetence — inženierija katrā korpusā | {SITE}'
-  description: 'Gadu desmiti jūras inženierijas katrā korpusā. afarer pārvalda Drop Stitch, jūras PVC un profesionālu piepūšamo SUP dizainu.'
+  description: 'Gadu desmiti jūras inženierijas katrā korpusā. olagoon pārvalda Drop Stitch, jūras PVC un profesionālu piepūšamo SUP dizainu.'
   keywords:
     - 'jūras inženierija'
     - 'piepūšamo SUP ražotājs'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: 'Jūras kompetence'
   title: 'Gadu desmiti jūras inženierijas<br />katrā korpusā'
-  subtitle: 'afarer apvieno dziļu materiālu zinātni, precīzu ražošanu un reālu testēšanu, lai radītu peldlīdzekļus, kas darbojas, kad tas ir svarīgi.'
+  subtitle: 'olagoon apvieno dziļu materiālu zinātni, precīzu ražošanu un reālu testēšanu, lai radītu peldlīdzekļus, kas darbojas, kad tas ir svarīgi.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: 'afarer jūras inženierijas un pētniecības komanda darbā'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: 'olagoon jūras inženierijas un pētniecības komanda darbā'
 expertise_materials:
   tagline: 'Materiālu zinātne'
   title: 'Pareizā materiāla izvēle<br />katram lietojumam'

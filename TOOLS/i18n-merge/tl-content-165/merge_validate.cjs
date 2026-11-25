@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require(path.join('E:\\github\\afarer', 'node_modules', 'js-yaml'));
+const yaml = require(path.join('E:\\github\\olagoon', 'node_modules', 'js-yaml'));
 
 const dir = __dirname;
-const enPath = 'E:\\github\\afarer\\src\\data\\site\\content-v2.yaml';
+const enPath = 'E:\\github\\olagoon\\src\\data\\site\\content-v2.yaml';
 
 const enRaw = fs.readFileSync(enPath, 'utf8');
 const enDocs = yaml.load(enRaw);

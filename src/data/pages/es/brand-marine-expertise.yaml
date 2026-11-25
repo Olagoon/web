@@ -1,6 +1,6 @@
 meta:
   title: 'Experiencia Marina — Ingeniería en Cada Casco | {SITE}'
-  description: 'Décadas de ingeniería marina en cada casco. afarer domina el drop stitch, el PVC marino y el diseño profesional de SUP inflables.'
+  description: 'Décadas de ingeniería marina en cada casco. olagoon domina el drop stitch, el PVC marino y el diseño profesional de SUP inflables.'
   keywords:
     - 'ingeniería marina'
     - 'fabricante de SUP hinchable'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: Experiencia Marina
   title: Décadas de Ingeniería Marina<br />en Cada Casco
-  subtitle: afarer combina ciencia de materiales, fabricación de precisión y pruebas reales.
+  subtitle: olagoon combina ciencia de materiales, fabricación de precisión y pruebas reales.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: equipo de ingeniería marítima y I+D de Afarer en el trabajo
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: equipo de ingeniería marítima y I+D de OLagoon en el trabajo
 expertise_materials:
   tagline: Ciencia de los materiales
   title: Elegir el Material Correcto<br />para Cada Aplicación

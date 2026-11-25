@@ -8,10 +8,10 @@ hero:
   tagline: Lab 01
   title: Laboratoire Tissu PVC
   subtitle: Tests scientifiques des matériaux — de la fibre à la planche finie
-  image: 'https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp'
-  image_alt: Laboratoire d'essai des matériaux PVC afarer
+  image: 'https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp'
+  image_alt: Laboratoire d'essai des matériaux PVC olagoon
 
-intro: "Le tissu du pont et des rails est le matériau le plus critique d'un SUP gonflable. Il doit résister à une exposition UV constante, à des cycles de gonflage répétés, à l'abrasion contre les quais et les débris, et à des variations extrêmes de température — tout en maintenant son intégrité structurelle pendant des années. Chez Afarer, notre Laboratoire de Tissu PVC est dédié exclusivement à la caractérisation, la validation et l'amélioration continue des tissus que nous utilisons dans chaque planche que nous construisons."
+intro: "Le tissu du pont et des rails est le matériau le plus critique d'un SUP gonflable. Il doit résister à une exposition UV constante, à des cycles de gonflage répétés, à l'abrasion contre les quais et les débris, et à des variations extrêmes de température — tout en maintenant son intégrité structurelle pendant des années. Chez OLagoon, notre Laboratoire de Tissu PVC est dédié exclusivement à la caractérisation, la validation et l'amélioration continue des tissus que nous utilisons dans chaque planche que nous construisons."
 
 content_html: |
   <h2>Le fondement de chaque SUP gonflable</h2>
@@ -82,7 +82,7 @@ content_html: |
     <li>Une formulation PVC basse température pour une expédition arctique, testée à -50 °C sans fragilisation.</li>
     <li>Un tissu orange stabilisé en couleur pour une flotte de planches de sauvetage et de maîtres-nageurs, maintenant sa visibilité après 3 ans d'exposition au soleil tropical.</li>
   </ul>
-  <p>Nous ne vendons pas des tissus « sur étagère » en espérant qu'ils fonctionnent. Nous testons, validons et recommandons — ou créons — une solution sur mesure pour votre profil de mission spécifique. C'est la différence Afarer.</p>
+  <p>Nous ne vendons pas des tissus « sur étagère » en espérant qu'ils fonctionnent. Nous testons, validons et recommandons — ou créons — une solution sur mesure pour votre profil de mission spécifique. C'est la différence OLagoon.</p>
 
   <h2>Comment nous vous servons</h2>
   <p>Lorsque vous nous soumettez un défi matériaux, voici ce à quoi vous pouvez vous attendre :</p>

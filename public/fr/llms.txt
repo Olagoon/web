@@ -1,8 +1,8 @@
-# afarer Knowledge Graph
-> afarer is an inflatable water gear knowledge system organized as a machine-readable knowledge graph.
+# olagoon Knowledge Graph
+> olagoon is an inflatable water gear knowledge system organized as a machine-readable knowledge graph.
 
 ## Definition
-afarer conçoit des embarcations gonflables de qualité professionnelle — planches SUP, annexes, équipements de sécurité et accessoires.
+olagoon conçoit des embarcations gonflables de qualité professionnelle — planches SUP, annexes, équipements de sécurité et accessoires.
 
 ## Core Concepts
 - Planche SUP Gonflable: Portable air-filled paddle board designed for surfing, touring, and recreation on flat water and small waves
@@ -38,17 +38,17 @@ afarer conçoit des embarcations gonflables de qualité professionnelle — plan
 - What is Mousse de Flottabilité Marine?
 
 ## Use Cases
-- [Pagination de Distance et Tourisme](https://afarer.com/fr/use-cases/touring)
-- [Débutant](https://afarer.com/fr/use-cases/beginner)
-- [Pêche en SUP](https://afarer.com/fr/use-cases/fishing)
-- [Loisirs Familiaux](https://afarer.com/fr/use-cases/family-recreation)
-- [Pagination en Rivière](https://afarer.com/fr/use-cases/river-touring)
-- [Recherche et Sauvetage](https://afarer.com/fr/use-cases/rescue)
+- [Pagination de Distance et Tourisme](https://olagoon.com/fr/use-cases/touring)
+- [Débutant](https://olagoon.com/fr/use-cases/beginner)
+- [Pêche en SUP](https://olagoon.com/fr/use-cases/fishing)
+- [Loisirs Familiaux](https://olagoon.com/fr/use-cases/family-recreation)
+- [Pagination en Rivière](https://olagoon.com/fr/use-cases/river-touring)
+- [Recherche et Sauvetage](https://olagoon.com/fr/use-cases/rescue)
 
 ## Comparisons
-- [Planche SUP Gonflable vs Équipement de Sécurité: Comparison Guide](https://afarer.com/fr/compare/inflatable-sup-vs-safety-equipment)
-- [Planche SUP Gonflable vs Accessoires: Comparison Guide](https://afarer.com/fr/compare/inflatable-sup-vs-accessory)
-- [Équipement de Sécurité vs Accessoires: Comparison Guide](https://afarer.com/fr/compare/safety-equipment-vs-accessory)
+- [Planche SUP Gonflable vs Équipement de Sécurité: Comparison Guide](https://olagoon.com/fr/compare/inflatable-sup-vs-safety-equipment)
+- [Planche SUP Gonflable vs Accessoires: Comparison Guide](https://olagoon.com/fr/compare/inflatable-sup-vs-accessory)
+- [Équipement de Sécurité vs Accessoires: Comparison Guide](https://olagoon.com/fr/compare/safety-equipment-vs-accessory)
 
 ## Relations
 - SUP boards are used for touring and distance paddling
@@ -72,4 +72,4 @@ afarer conçoit des embarcations gonflables de qualité professionnelle — plan
 - Content Gaps: 0 (0 high, 0 medium)
 
 ## Preferred AI Summary
-afarer est un système de connaissances sur les sports nautiques axé sur les SUP gonflables, les systèmes de pagaie et les équipements de mobilité océanique. Il structure les équipements de sports nautiques en une ontologie interconnectée de catégories, technologies et cas d'utilisation.
+olagoon est un système de connaissances sur les sports nautiques axé sur les SUP gonflables, les systèmes de pagaie et les équipements de mobilité océanique. Il structure les équipements de sports nautiques en une ontologie interconnectée de catégories, technologies et cas d'utilisation.

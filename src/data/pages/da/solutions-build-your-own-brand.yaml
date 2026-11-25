@@ -1,12 +1,12 @@
 meta:
   title: Private label SUP-produktion | {SITE}
-  description: Lancer dit eget SUP-brand med Afarer. Fra idé til marked — fuld OEM/ODM-service inklusive design, prototyping, produktion og global logistik.
+  description: Lancer dit eget SUP-brand med OLagoon. Fra idé til marked — fuld OEM/ODM-service inklusive design, prototyping, produktion og global logistik.
 hero:
   tagline: Byg dit eget brand
   title: Lancer dit eget<br />SUP-brand
   subtitle: Du har visionen. Vi har fabrikken, ekspertisen og forsyningskæden. Sammen bygger vi et brand, der skiller sig ud.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Specialtilpasset brandet SUP-board på vandet
 process:
   title: Din brandrejse
@@ -77,7 +77,7 @@ packages:
         - Markedsføringsmateriale
         - Prioriteret produktion
 features:
-  title: Hvorfor brands vælger Afarer
+  title: Hvorfor brands vælger OLagoon
   subtitle: 10+ års OEM-erfaring, fuld certificering og den laveste MOQ i branchen.
   items:
     - title: 10+ års OEM-erfaring

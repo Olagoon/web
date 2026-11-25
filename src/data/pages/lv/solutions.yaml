@@ -1,6 +1,6 @@
 meta:
   title: 'Biznesa risinājumi — SUP ikvienam uzņēmumam | {SITE}'
-  description: 'afarer biznesa risinājumi: SUP flotes kūrortiem, klubiem, nomai, distribūcijai un privātajiem zīmoliem. Profesionāls jūras aprīkojuma piegādātājs B2B sektoram.'
+  description: 'olagoon biznesa risinājumi: SUP flotes kūrortiem, klubiem, nomai, distribūcijai un privātajiem zīmoliem. Profesionāls jūras aprīkojuma piegādātājs B2B sektoram.'
   keywords:
     - 'sup biznesa risinājumi'
     - 'piepūšamo airu dēļu piegādātājs'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Biznesa risinājumi'
   title: 'SUP risinājumi<br />ikvienam uzņēmumam'
-  subtitle: 'No kūrortiem līdz mazumtirdzniecībai, nomas operatoriem līdz globāliem izplatītājiem — Afarer sniedz pilnvērtīgus SUP risinājumus, pielāgotus jūsu biznesa modelim.'
+  subtitle: 'No kūrortiem līdz mazumtirdzniecībai, nomas operatoriem līdz globāliem izplatītājiem — OLagoon sniedz pilnvērtīgus SUP risinājumus, pielāgotus jūsu biznesa modelim.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Afarer SUP dēļi biznesam un profesionālam lietojumam'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'OLagoon SUP dēļi biznesam un profesionālam lietojumam'
 stats:
-  title: 'Afarer īsumā'
+  title: 'OLagoon īsumā'
   stats:
     - title: 'Gadu pieredze'
       amount: 'Kopš 2012. gada'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Izveidojiet savu zīmolu'
-      description: 'Pilna cikla OEM/ODM SUP ražošana — dizains, prototipi, sērijveida ražošana un loģistika. Palaidiet savu zīmolu kopā ar Afarer.'
+      description: 'Pilna cikla OEM/ODM SUP ražošana — dizains, prototipi, sērijveida ražošana un loģistika. Palaidiet savu zīmolu kopā ar OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

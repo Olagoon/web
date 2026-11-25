@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const partsDir = 'C:/Users/Helleo/AppData/Local/Temp/deveco/pl_work/parts';
-const enPath = 'E:/github/afarer/src/data/site/content-v2.yaml';
+const enPath = 'E:/github/olagoon/src/data/site/content-v2.yaml';
 
 const en = yaml.load(fs.readFileSync(enPath, 'utf8'));
 const enSlice = en.slice(50, 75); // records 51-75

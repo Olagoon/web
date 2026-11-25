@@ -1,0 +1,72 @@
+meta:
+  title: 'Pourquoi olagoon — 7 Raisons de Choisir Notre Usine | {SITE}'
+  description: 'Marques mondiales choisissent olagoon : certifications CE et ISO, MOQ flexible, moule personnalisé, délai de 30 jours. Fabricant professionnel de SUP gonflables.'
+  keywords:
+    - 'pourquoi choisir olagoon'
+    - 'fabricant SUP gonflable'
+    - 'usine SUP Chine'
+    - 'fournisseur paddle gonflable'
+hero:
+  tagline: Pourquoi olagoon
+  title: Sept Raisons Pour Lesquelles les Marques Mondiales<br />Choisissent olagoon
+  subtitle: Tous les fabricants ne se valent pas. Voici ce qui fait d'olagoon le partenaire privilégié des distributeurs et marques du monde entier.
+  image:
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: qualité de fabrication et savoir-faire olagoon
+stats:
+  title: La Confiance en Chiffres
+  stats:
+    - title: Années d'Activité
+      amount: Depuis 2012
+    - title: Planches Fabriquées
+      amount: 15 000+
+    - title: Clients Récurrents
+      amount: 85%
+    - title: Réclamations Sous Garantie
+      amount: <2 %
+features3_reasons:
+  tagline: Pourquoi Choisir olagoon
+  title: Sept Raisons de S'associer à Nous
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: 1. Véritable Fabrication, Pas du Courtage
+      description: Nous possédons et exploitons une usine de 12 000 m². Vous travaillez directement avec les concepteurs et fabricants — sans intermédiaires.
+      icon: tabler:building-factory
+    - title: 2. Approche Pilotée par l'Ingénierie
+      description: Notre processus de conception commence par le cas d'usage, pas par la catégorie de produit.
+      icon: tabler:engine
+    - title: 3. Qualité Certifiée
+      description: Certifié CE, ISO, BSCI, REACH, approuvé USCG. Chaque produit répond aux normes internationales — pas seulement des affirmations.
+      icon: tabler:certificate
+    - title: 4. Co-Branding Flexible
+      description: Couleurs des tubes, disposition de la console, marque, emballage — nous personnalisons selon vos spécifications. Aucune pression de commande minimum. Commencez par un prototype, passez à l'échelle en toute confiance.
+      icon: tabler:adjustments
+    - title: 5. Logistique Mondiale
+      description: Entrepôt US en Californie, expédition directe depuis Qingdao, fret aérien pour les commandes urgentes. Nous gérons les formalités douanières et la documentation.
+      icon: tabler:truck-delivery
+    - title: 6. Support à Vie
+      description: Nous soutenons les planches construites il y a 20 ans. Pièces d'origine, conseils techniques, réparations — notre équipe est disponible.
+      icon: tabler:lifebuoy
+    - title: 7. Spécifications Honnêtes
+      description: Vraies capacités, vraies dimensions, vrai poids. Pas d'inflation marketing. Ce que nous publions est ce que vous obtenez — vérifié par des tests indépendants.
+      icon: tabler:ruler-measure
+testimonials:
+  tagline: Approuvé par les Marques du Monde Entier
+  title: Ce Que Disent Nos Partenaires
+  items:
+    - content: Nous avons travaillé avec plusieurs fabricants en Chine, mais olagoon se distingue par son support d’ingénierie et sa qualité constante. Ils traitent notre marque comme la leur.
+      name: — Partenaire Co-Brand, European Water Sports Brand
+    - content: Leurs planches SUP sont en service dans notre flotte depuis plus de 5 ans. Entretien minimal, excellente résistance UV. La garantie de 5 ans nous donne confiance.
+      name: — Opérateur de Flotte, Middle East Resort Group
+    - content: L'équipe olagoon nous a aidés à développer un SUP personnalisé du concept à la production en 90 jours. La qualité a dépassé nos attentes.
+      name: — Distributeur, Australian Watersports
+cta:
+  title: Prêt à découvrir la différence ?
+  subtitle: Contactez notre équipe pour discuter de votre projet. Aucun engagement — seulement des conseils honnêtes.
+  actions:
+    - variant: primary
+      text: Talk to our team
+      href: /contact/
+    - text: Télécharger le catalogue produits
+      href: /resources/download-catalog/

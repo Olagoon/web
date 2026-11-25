@@ -1,6 +1,6 @@
 meta:
   title: 'Mga Solusyon sa Negosyo — SUP para sa Bawat Negosyo | {SITE}'
-  description: 'Mga solusyon sa negosyo ng afarer: mga SUP fleet para sa resort, club, rental, distribusyon, at private label. Propesyonal na supplier ng nautical equipment para sa B2B.'
+  description: 'Mga solusyon sa negosyo ng olagoon: mga SUP fleet para sa resort, club, rental, distribusyon, at private label. Propesyonal na supplier ng nautical equipment para sa B2B.'
   keywords:
     - 'mga solusyon sa negosyo ng sup'
     - 'supplier ng inflatable paddle board'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Mga Solusyon sa Negosyo'
   title: 'Mga Solusyon sa SUP<br />Para sa Bawat Negosyo'
-  subtitle: 'Mula sa mga resort hanggang sa retail, mga rental operator hanggang sa mga pandaigdigang distributor — nagbibigay ang Afarer ng kumpletong solusyon sa SUP na nakaakma sa iyong modelo ng negosyo.'
+  subtitle: 'Mula sa mga resort hanggang sa retail, mga rental operator hanggang sa mga pandaigdigang distributor — nagbibigay ang OLagoon ng kumpletong solusyon sa SUP na nakaakma sa iyong modelo ng negosyo.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Mga SUP board ng Afarer para sa negosyo at propesyonal na aplikasyon'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Mga SUP board ng OLagoon para sa negosyo at propesyonal na aplikasyon'
 stats:
-  title: 'Ang Afarer sa Isang Tingin'
+  title: 'Ang OLagoon sa Isang Tingin'
   stats:
     - title: 'Taon ng Karanasan'
       amount: 'Mula pa noong 2012'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Bumuo ng Iyong Sariling Brand'
-      description: 'Buong-bilhisan na OEM/ODM SUP manufacturing — disenyo, prototyping, malaking produksyon, at logistics. Ilunsad ang iyong brand kasama ang Afarer.'
+      description: 'Buong-bilhisan na OEM/ODM SUP manufacturing — disenyo, prototyping, malaking produksyon, at logistics. Ilunsad ang iyong brand kasama ang OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

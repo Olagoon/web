@@ -7,7 +7,7 @@ hero:
   subtitle: مركّزون على التقدم
 intro:
   - >-
-    مركز afarer للبحث والتطوير (R&D) هو القوة الدافعة وراء مهمتنا في إحداث ثورة في معدات الرياضات المائية. نحن نُمكّن عشاق الرياضات المائية حول العالم من منتجات أكثر أمانًا وراحةً ومتعةً من خلال الابتكار المتواصل في ألواح التجديف الوقوف القابلة للنفخ (SUP). فريقنا المتفاني من المهندسين
+    مركز olagoon للبحث والتطوير (R&D) هو القوة الدافعة وراء مهمتنا في إحداث ثورة في معدات الرياضات المائية. نحن نُمكّن عشاق الرياضات المائية حول العالم من منتجات أكثر أمانًا وراحةً ومتعةً من خلال الابتكار المتواصل في ألواح التجديف الوقوف القابلة للنفخ (SUP). فريقنا المتفاني من المهندسين
     والمصممين وخبراء الرياضات المائية المتحمسين يصوغون مستقبل الصناعة، ويرفعون باستمرار سقف الجودة والأداء والاستدامة.
   - تجمع منشأة البحث والتطوير لدينا علماء المواد ومهندسين بحريين ومهندسي الإنتاج تحت سقف واحد. من تركيب الأقمشة ومحاكاة الهيكل إلى تطوير عمليات اللحام والتجارب البحرية كاملة الحجم، كل مرحلة من مراحل تطوير المنتج تقودها البيانات وتُثبتها الاختبارات.
 mission:
@@ -93,33 +93,33 @@ vision:
   tagline: رؤيتنا
   title: نشكّل مستقبل الرياضات المائية
   body: >-
-    تسعى afarer إلى قيادة صناعة ألواح SUP القابلة للنفخ من خلال الابتكار المستمر والجودة التي لا تتزعزع والالتزام الراسخ بالسلامة والاستدامة — ما يُثري في النهاية تجارب عشاق الرياضات المائية حول العالم. مركز afarer للبحث والتطوير هو المكان الذي تلتقي فيه الشغف بالابتكار، واضعاً معايير جديدة
+    تسعى olagoon إلى قيادة صناعة ألواح SUP القابلة للنفخ من خلال الابتكار المستمر والجودة التي لا تتزعزع والالتزام الراسخ بالسلامة والاستدامة — ما يُثري في النهاية تجارب عشاق الرياضات المائية حول العالم. مركز olagoon للبحث والتطوير هو المكان الذي تلتقي فيه الشغف بالابتكار، واضعاً معايير جديدة
     لصناعة الرياضات المائية.
 labs_section:
   tagline: المختبرات
   title: مختبراتنا
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: مختبر أقمشة PVC
       description: بحث واختبار مستمران لأقمشة سطح PVC لقياس قوة الشد، ومقاومة الأشعة فوق البنفسجية، والتآكل، والمرونة في درجات الحرارة المنخفضة، لضمان موثوقية طويلة الأمد في البيئات البحرية.
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: استوديو هندسة الهياكل
       description: تصميم قائم على CAD وتحليل العناصر المحدودة لهياكل HDPE والألمنيوم والألياف الزجاجية. يتم محاكاة كل هيكل رقميًا للتحقق من توزيع الإجهاد ومقاومة الصدمات قبل بناء النموذج الأولي.
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: مركز اللحام بالترددات الراديوية (RF)
       description: منشأة لحام مخصصة بالترددات الراديوية مع تحكم دقيق في درجة الحرارة والضغط، تنتج لحامات عالية القوة ومحكمة الإغلاق تلبي معايير الصناعة البحرية للمركبات المائية القابلة للنفخ.
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: خزان الاختبار الهيدروديناميكي
       description: اختبار النماذج المصغّرة في حوض الاختبار الداخلي لدينا لتحسين شكل الهيكل وأداء الانزلاق والثبات وكفاءة استهلاك الوقود عبر مجموعة من الأحمال والظروف البحرية.
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: ورشة النماذج الأولية
       description: منشأة للنماذج الأولية والتجهيز بالحجم الكامل تُبنى فيها النماذج الجديدة وتُجهَّز وتُخضع للتجارب البحرية. يخضع كل نموذج أولي لبرنامج اختبارات مائية لا يقل عن 20 ساعة قبل الموافقة على الإنتاج.
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: مختبر الجودة والفحص
       description: مختبر مخصص لضمان الجودة يجري اختبارات الشد، ودورات الاحتفاظ بالهواء، واختبارات تقشير الدرزات، واعتماد المواد؛ لضمان أن كل لوح يغادر الورشة يطابق مواصفاتنا المنشورة.
       href: /randdcenter/quality-inspection-lab/

@@ -14,12 +14,12 @@ const GENERATED_DIR = path.join(ROOT, 'src', 'i18n', 'generated');
 // from a temp dir with a different cwd. INIT_CWD (set by npm/yarn) is the primary
 // path; this sidecar is a fallback for direct `astro build` invocations.
 try {
-  fs.writeFileSync(path.join(os.tmpdir(), 'afarer-project-root'), ROOT);
+  fs.writeFileSync(path.join(os.tmpdir(), 'olagoon-project-root'), ROOT);
 } catch {
   // ignore
 }
 
-const ASSET_BASE = (process.env.ASSETS_BASE_URL || 'https://assets.afarer.com').replace(/\/+$/, '');
+const ASSET_BASE = (process.env.ASSETS_BASE_URL || 'https://assets.olagoon.com').replace(/\/+$/, '');
 
 // Prefix image/file paths with the public R2 custom-domain base so the emitted
 // data references the public CDN (not the Worker). Already-absolute URLs are

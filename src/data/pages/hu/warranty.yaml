@@ -1,16 +1,16 @@
 meta:
   title: 'Garancia — Felfújható SUP-ok | {SITE}'
-  description: 'afarer garancia és értékesítés utáni támogatás felfújható SUP-okhoz és kiegészítőkhöz. Minőségi elkötelezettségünk partnereink és ügyfeleink felé.'
+  description: 'olagoon garancia és értékesítés utáni támogatás felfújható SUP-okhoz és kiegészítőkhöz. Minőségi elkötelezettségünk partnereink és ügyfeleink felé.'
   keywords:
     - 'sup garancia'
     - 'felfújható SUP garancia'
     - 'paddle board garancia'
     - 'értékesítés utáni támogatás'
 label: 'Garancia'
-headline: 'afarer gyártói korlátozott garancia'
+headline: 'olagoon gyártói korlátozott garancia'
 subtitle: 'Az afarar kiáll minden általunk gyártott felfújható tengeri termék minősége mellett. Ez a korlátozott garancia rögzíti afarar termékének feltételeit és fedezetét.'
 seo:
-  headline: 'afarer felfújható SUP garancia — 3 éves korlátozott garancia | afarer'
+  headline: 'olagoon felfújható SUP garancia — 3 éves korlátozott garancia | olagoon'
   description: 'Az afarar 3 éves korlátozott garanciát kínál a fő fedélzeti szövetre, varratokra és a drop-stitch mag szerkezeti integritására. Emellett a felfújószelepekre és a gyári szerelt kiegészítőkre is kiterjed. Teljes feltételek az afarar felfújható SUP garanciához.'
   datePublished: '2024-01-01'
   dateModified: '2026-11-18'
@@ -102,5 +102,5 @@ body: |
   <p>A harmadik felek által gyártott berendezésekre, alkatrészekre vagy rendszerekre (akkor is, ha az afarar szerelte be őket) kizárólag a saját gyártójuk által kínált garancia terjed ki. Az afarar kifejezetten elzárkózik minden garanciális felelősségtől az ilyen harmadik fél termékekkel kapcsolatban.</p>
 
   <p class="text-sm text-gray-500 mt-8 border-t border-gray-200 dark:border-gray-800 pt-6">
-    Ez a garancia-nyilatkozat a teljes afarar gyártói korlátozott garancia összefoglalása. A teljes jogi garanciadokumentum határozza meg az összes garanciális feltételt. A műszaki adatok előzetes értesítés nélkül változhatnak. Az afarar az Aquafarer LLC által üzemeltetett márka.
+    Ez a garancia-nyilatkozat a teljes afarar gyártói korlátozott garancia összefoglalása. A teljes jogi garanciadokumentum határozza meg az összes garanciális feltételt. A műszaki adatok előzetes értesítés nélkül változhatnak. Az afarar az Olagoon LLC által üzemeltetett márka.
   </p>

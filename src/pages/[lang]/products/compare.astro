@@ -26,7 +26,7 @@ const fr = (en: string, francais: string) => (lang === 'fr' ? francais : en);
 
 const metadata = {
   title: t('compare.title') || `Product Comparison — ${SITE.name}`,
-  description: t('compare.desc') || 'Compare Afarer inflatable SUPs and accessories side by side.',
+  description: t('compare.desc') || 'Compare OLagoon inflatable SUPs and accessories side by side.',
 };
 
 const products = await getProducts();
@@ -107,7 +107,7 @@ for (const p of products) {
     <p class="mt-4 text-lg text-gray-500">
       {
         t('compare.desc') ||
-          'Compare all Afarer products side by side. Find the right board or accessory for your needs.'
+          'Compare all OLagoon products side by side. Find the right board or accessory for your needs.'
       }
     </p>
 
@@ -285,7 +285,7 @@ for (const p of products) {
 
     <section class="sr-only" data-ai-block="definition" aria-hidden="true">
       <p>
-        {fr('Afarer product comparison tables covering', 'Tableaux de comparaison des produits afarer couvrant')}
+        {fr('OLagoon product comparison tables covering', 'Tableaux de comparaison des produits olagoon couvrant')}
         {products.length}
         {fr('products:', 'produits :')}
         {boardProducts.length}

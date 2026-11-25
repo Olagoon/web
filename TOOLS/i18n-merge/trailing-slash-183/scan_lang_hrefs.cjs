@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOTS = ['E:/github/afarer/src/components', 'E:/github/afarer/src/layouts', 'E:/github/afarer/src/pages'];
+const ROOTS = ['E:/github/olagoon/src/components', 'E:/github/olagoon/src/layouts', 'E:/github/olagoon/src/pages'];
 // backtick template starting with /${lang} NOT wrapped in withTrailingSlash, in an href context
 const re = /href=\{`\/\$\{lang\}[^`]*`[^}]*\}|href=\{`\/\$\{lang\}[^`]*`\}/g;
 
@@ -17,7 +17,7 @@ function walk(dir) {
       lines.forEach((line, i) => {
         if (/href=\{`\/\$\{lang\}/.test(line) && !/withTrailingSlash/.test(line)) {
           console.log(
-            `${fp.replace(/\\/g, '/').replace('E:/github/afarer/', '')}:${i + 1}: ${line.trim().slice(0, 130)}`
+            `${fp.replace(/\\/g, '/').replace('E:/github/olagoon/', '')}:${i + 1}: ${line.trim().slice(0, 130)}`
           );
           hits++;
         }

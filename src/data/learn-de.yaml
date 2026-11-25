@@ -1,5 +1,5 @@
 sup:
-  title: 'Alles über SUP — Guides und Ressourcen zum aufblasbaren SUP | afarer'
+  title: 'Alles über SUP — Guides und Ressourcen zum aufblasbaren SUP | olagoon'
   description: 'Umfassendes SUP-Wissenscenter: Einsteiger-Guides, Board-Größenberatung, Technik-Tutorials, Sicherheitstipps und Technologie des aufblasbaren SUP.'
   articles:
     - title: 'SUP-Grundlagen — Guide für Einsteiger'
@@ -21,7 +21,7 @@ sup:
       desc: 'Wichtiges Sicherheitswissen: Wetter einschätzen, Rettungsweste wählen, Selbstrettung und Paddeln in der Gruppe.'
       href: '/learn/water-safety/'
 water-safety:
-  title: 'Sicherheit auf dem Wasser — Guides für sicheres Paddeln | afarer'
+  title: 'Sicherheit auf dem Wasser — Guides für sicheres Paddeln | olagoon'
   description: 'Umfassende Sicherheitsressourcen für SUP, Kajak und Bootfahren: Wahl der Rettungsweste, Wetterlesen, Selbstrettung, Sicherheit im kalten Wasser und CE-Zertifizierung.'
   articles:
     - title: 'Guide zur Sicherheit auf dem Wasser'
@@ -44,7 +44,7 @@ water-safety:
       href: '/trust/'
 sup-basics:
   title: 'SUP-Grundlagen — Einsteiger-Guide für Stand-Up-Paddling'
-  description: 'Alles, was Sie für den Start ins Stand-Up-Paddling wissen müssen. Ausrüstungs-Guides, Größenberatung, Sicherheitstipps und Einsteiger-Techniken aus dem afarer-Wissenscenter.'
+  description: 'Alles, was Sie für den Start ins Stand-Up-Paddling wissen müssen. Ausrüstungs-Guides, Größenberatung, Sicherheitstipps und Einsteiger-Techniken aus dem olagoon-Wissenscenter.'
   articles: []
 drop-stitch-core:
   title: 'Drop-Stitch-Kern-Technologie — Wie aufblasbare SUPs ihre Steifheit erreichen'

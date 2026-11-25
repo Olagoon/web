@@ -1,18 +1,18 @@
 meta:
   title: 'B2B klientų sprendimų matrica | {SITE}'
-  description: 'Išsami Afarer B2B klientų sprendimų matrica, apimanti 24 klientų tipus — nuo lauko startuolių iki jūrinės aplinkosaugos institucijų.'
+  description: 'Išsami OLagoon B2B klientų sprendimų matrica, apimanti 24 klientų tipus — nuo lauko startuolių iki jūrinės aplinkosaugos institucijų.'
 
 hero:
   tagline: 'B2B klientų sprendimai'
   title: '24 B2B sprendimai,<br />pritaikyti jūsų verslui'
-  subtitle: 'Nuo startuolių įkūrėjų iki pasaulinių platintojų — raskite tikslų Afarer sprendimą, sukurtą jūsų verslo modeliui, pramonei ir tikslams.'
+  subtitle: 'Nuo startuolių įkūrėjų iki pasaulinių platintojų — raskite tikslų OLagoon sprendimą, sukurtą jūsų verslo modeliui, pramonei ir tikslams.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Afarer gamykla ir gamybos įmonė'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'OLagoon gamykla ir gamybos įmonė'
 
 solutions:
   title: 'Klientų sprendimų matrica'
-  subtitle: 'Kiekvienas kliento tipas, jų pagrindinis poreikis ir Afarer sprendimo puslapis, sukurtas jiems.'
+  subtitle: 'Kiekvienas kliento tipas, jų pagrindinis poreikis ir OLagoon sprendimo puslapis, sukurtas jiems.'
   items:
     - clientType: 'Lauko startuolio įkūrėjas'
       need: 'Prekės ženklo kūrimas'

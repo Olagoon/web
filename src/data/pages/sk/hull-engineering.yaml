@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratórium 02'
   title: 'Štúdio inžinierstva trupov'
   subtitle: 'Digitálna simulácia, štrukturálna inteligencia, zákazkový dizajn trupov'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Pracovná stanica CAD dizajnu v štúdiu inžinierstva trupov Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'Pracovná stanica CAD dizajnu v štúdiu inžinierstva trupov OLagoon'
 
-intro: 'Trup je chrbticou každej nafukovacej dosky SUP. Musí byť dostatočne ľahký, aby efektívne kĺzal, dostatočne pevný, aby zvládol skalnaté pobrežia, a dostatočne tuhý, aby premieňal každý záber pádlom na dopredný pohyb. V spoločnosti Afarer kombinuje naše štúdio inžinierstva trupov pokročilé CAD modelovanie, analýzu konečných prvkov (FEA) a desaťročia praktických skúseností s dizajnom dosiek, aby dodávalo trupy optimalizované pre zamýšľanú disciplínu — nie generické tvary prevzaté z katalógu.'
+intro: 'Trup je chrbticou každej nafukovacej dosky SUP. Musí byť dostatočne ľahký, aby efektívne kĺzal, dostatočne pevný, aby zvládol skalnaté pobrežia, a dostatočne tuhý, aby premieňal každý záber pádlom na dopredný pohyb. V spoločnosti OLagoon kombinuje naše štúdio inžinierstva trupov pokročilé CAD modelovanie, analýzu konečných prvkov (FEA) a desaťročia praktických skúseností s dizajnom dosiek, aby dodávalo trupy optimalizované pre zamýšľanú disciplínu — nie generické tvary prevzaté z katalógu.'
 
 content_html: |
   <h2>Kde sa stretáva pevnosť s hydrodynamikou</h2>

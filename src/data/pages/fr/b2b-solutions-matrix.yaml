@@ -1,6 +1,6 @@
 meta:
   title: "Solutions Clients B2B — 24 Cas d'Usage | {SITE}"
-  description: 'Matrice complète de solutions B2B afarer : flottes SUP pour resorts, marques privées, distribution, clubs, sauvetage et plus. Fournisseur équipement nautique professionnel.'
+  description: 'Matrice complète de solutions B2B olagoon : flottes SUP pour resorts, marques privées, distribution, clubs, sauvetage et plus. Fournisseur équipement nautique professionnel.'
   keywords:
     - 'solutions B2B nautiques'
     - 'fournisseur équipement nautique professionnel'
@@ -9,13 +9,13 @@ meta:
 hero:
   tagline: Solutions Clients B2B
   title: 24 Solutions B2B<br />Adaptées à Votre Entreprise
-  subtitle: Des fondateurs de startups aux distributeurs mondiaux — trouvez la solution Afarer exacte conçue pour votre modèle d’entreprise, votre secteur et vos objectifs.
+  subtitle: Des fondateurs de startups aux distributeurs mondiaux — trouvez la solution OLagoon exacte conçue pour votre modèle d’entreprise, votre secteur et vos objectifs.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Usine Afarer et site de fabrication
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: Usine OLagoon et site de fabrication
 solutions:
   title: Matrice de Solutions Clients
-  subtitle: Chaque type de client, son besoin principal et la solution afarer conçue pour lui.
+  subtitle: Chaque type de client, son besoin principal et la solution olagoon conçue pour lui.
   items:
     - clientType: Fondateur de Startup Outdoor
       need: Création de Marque

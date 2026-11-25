@@ -1,7 +1,7 @@
 {
-  "name": "afarer",
+  "name": "olagoon",
   "version": "1.0.0-beta.63",
-  "description": "Afarer static site, built with Astro 6 and Tailwind CSS v4.",
+  "description": "OLagoon static site, built with Astro 6 and Tailwind CSS v4.",
   "type": "module",
   "private": true,
   "engines": {
@@ -16,10 +16,10 @@
     "build:geo": "npx tsx scripts/generate-geo-files.ts",
     "build:assets": "node scripts/optimize-assets.mjs",
     "build:r2": "node scripts/fast-upload-r2.mjs",
-    "deploy": "npm run build && npx wrangler pages deploy dist/ --project-name afarer",
+    "deploy": "npm run build && npx wrangler pages deploy dist/ --project-name olagoon",
     "deploy:all": "npm run build && npm run deploy:pages && npm run deploy:workers",
     "deploy:r2": "node scripts/fast-upload-r2.mjs",
-    "deploy:pages": "npx wrangler pages deploy dist/ --project-name afarer",
+    "deploy:pages": "npx wrangler pages deploy dist/ --project-name olagoon",
     "deploy:worker-contact": "npx wrangler deploy -c workers/contact-worker/wrangler.toml",
     "inquiries:resend": "node scripts/resend-failed-inquiries.mjs",
     "deploy:worker-ai": "npx wrangler deploy -c workers/ai-worker/wrangler.toml",

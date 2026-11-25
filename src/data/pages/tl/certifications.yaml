@@ -1,6 +1,6 @@
 meta:
   title: 'Mga Sertipikasyon — CE, ISO 9001 at Pagsunod | {SITE}'
-  description: 'Mga sertipikasyon ng kalidad ng afarer: CE (EN ISO 25649), ISO 9001:2015, BSCI. Pagsunod at kaligtasan para sa isang tagagawa ng inflatable SUP.'
+  description: 'Mga sertipikasyon ng kalidad ng olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Pagsunod at kaligtasan para sa isang tagagawa ng inflatable SUP.'
   keywords:
     - 'ce certification sup'
     - 'iso 9001 sup'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: 'Mga Sertipikasyon at Pamantayan'
   title: 'Mga Sertipikasyon ng Kalidad<br />at Pamantayan ng Pagsunod'
-  subtitle: 'Ang paggawa ng SUP ng afarer ay sertipikado ayon sa mga pandaigdigang pamantayan ng kaligtasan sa dagat, sistema ng quality management, at regulasyon sa kapaligiran — CE, ISO 9001, UKCA, BSCI, at REACH.'
+  subtitle: 'Ang paggawa ng SUP ng olagoon ay sertipikado ayon sa mga pandaigdigang pamantayan ng kaligtasan sa dagat, sistema ng quality management, at regulasyon sa kapaligiran — CE, ISO 9001, UKCA, BSCI, at REACH.'
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: 'mga sertipikasyon ng kalidad ng afarer at dokumentasyon ng pagsunod'
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: 'mga sertipikasyon ng kalidad ng olagoon at dokumentasyon ng pagsunod'
 content_certifications:
   tagline: 'Ang Aming mga Sertipikasyon'
   title: 'Sertipikadong Kalidad,<br />Kilala sa Buong Mundo'
-  subtitle: 'Ang bawat produkto ng afarer ay may kasamang mga sertipikasyon na nagpapatunay ng aming komitment sa kalidad, kaligtasan, at responsibilidad sa kapaligiran.'
+  subtitle: 'Ang bawat produkto ng olagoon ay may kasamang mga sertipikasyon na nagpapatunay ng aming komitment sa kalidad, kaligtasan, at responsibilidad sa kapaligiran.'
   items:
     - title: 'CE Certified'
-      description: 'Lahat ng produkto ng afarer ay sumusunod sa mga kinakailangan ng European CE marking para sa recreational watercraft, na tinitiyak na natutugunan ang mga pamantayan ng kaligtasan, kalusugan, at proteksyon sa kapaligiran.'
+      description: 'Lahat ng produkto ng olagoon ay sumusunod sa mga kinakailangan ng European CE marking para sa recreational watercraft, na tinitiyak na natutugunan ang mga pamantayan ng kaligtasan, kalusugan, at proteksyon sa kapaligiran.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'Ang aming quality management system ay sertipikado sa ISO 9001:2015, na sumasaklaw sa disenyo, paggawa, at distribusyon ng inflatable watercraft at kagamitang pandagat.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'Ang mga produktong ibinebenta sa UK market ay may UKCA marking, na kumukumpirma ng pagsunod sa regulasyon ng UK para sa kagamitang pandagat at personal watercraft.'
       icon: tabler:shield
     - title: 'Sumusunod sa BSCI'
-      description: 'Ang afarer ay naka-audit sa BSCI (Business Social Compliance Initiative), na nagpapatunay ng etikal na kagawian sa paggawa, makatarungang kundisyon ng paggawa, at responsibilidad sa supply chain.'
+      description: 'Ang olagoon ay naka-audit sa BSCI (Business Social Compliance Initiative), na nagpapatunay ng etikal na kagawian sa paggawa, makatarungang kundisyon ng paggawa, at responsibilidad sa supply chain.'
       icon: tabler:heart-handshake
     - title: 'Sumusunod sa REACH'
-      description: 'Lahat ng materyal na ginagamit sa mga produkto ng afarer ay sumusunod sa regulasyong EU REACH para sa kaligtasan sa kemikal, na tinitiyak na walang ipinagbabawal na sangkap sa aming PVC, EVA, o mga bahagi.'
+      description: 'Lahat ng materyal na ginagamit sa mga produkto ng olagoon ay sumusunod sa regulasyong EU REACH para sa kaligtasan sa kemikal, na tinitiyak na walang ipinagbabawal na sangkap sa aming PVC, EVA, o mga bahagi.'
       icon: tabler:flask
     - title: 'Pagsubok sa Materyal'
       description: 'Ang mga fabric ay sinusubok para sa tensile strength, tear resistance, pagkasira dahil sa UV, at performance sa cold-crack. Ang bawat production batch ay sinasample at pinapatunayan.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: 'Mga Pamantayan ng Kaligtasan sa Dagat'
   title: 'Kaligtasan ang Una<br />— Dinisenyo para sa Maaasahang Operasyon'
-  subtitle: 'Ang mga produkto ng afarer ay idinisenyo at sinusubok upang tumugon sa mga pandaigdigang pamantayan ng kaligtasan sa dagat para sa komersyal at pang-rekasyon na paggamit.'
+  subtitle: 'Ang mga produkto ng olagoon ay idinisenyo at sinusubok upang tumugon sa mga pandaigdigang pamantayan ng kaligtasan sa dagat para sa komersyal at pang-rekasyon na paggamit.'
   items:
     - title: 'EN ISO 25649'
       description: 'Ang mga inflatable SUP ay sumusunod sa mga pamantayan ng EN ISO 25649 para sa konstruksyon, katatagan, buoyancy, at kapasidad ng karga.'

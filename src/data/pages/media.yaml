@@ -1,8 +1,8 @@
 meta:
-  title: 'Media Center — Press & afarer Resources | {SITE}'
-  description: 'The afarer media center: press releases, brand assets, and resources from our inflatable SUP manufacturing company.'
+  title: 'Media Center — Press & olagoon Resources | {SITE}'
+  description: 'The olagoon media center: press releases, brand assets, and resources from our inflatable SUP manufacturing company.'
   keywords:
-    - 'afarer press'
+    - 'olagoon press'
     - 'sup manufacturer media'
     - 'paddle board press kit'
     - 'nautical company news'
@@ -22,7 +22,7 @@ sections:
       - Accessories & Safety Gear
   - id: logo-brand-kit
     title: Logo & Brand Kit
-    desc: Official afarer logo files, colour palette, typography, and brand guidelines.
+    desc: Official olagoon logo files, colour palette, typography, and brand guidelines.
     items:
       - Primary Logo (PNG/SVG/EPS)
       - Icon Mark
@@ -58,7 +58,7 @@ cta:
       desc: See our 12,000 sqm manufacturing facility
     - label: Brand guidelines
       href: /brand/
-      desc: Learn about the afarer brand
+      desc: Learn about the olagoon brand
     - label: Partner with us
       href: /contact/
       desc: OEM, ODM, and distribution inquiries

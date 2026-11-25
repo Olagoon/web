@@ -1,12 +1,12 @@
 meta:
   title: Privatmärkt SUP-tillverkning | {SITE}
-  description: Lansera ditt eget SUP-varumärke med Afarer. Från idé till marknad — komplett OEM/ODM-tjänst inklusive design, prototytillverkning, produktion och global logistik.
+  description: Lansera ditt eget SUP-varumärke med OLagoon. Från idé till marknad — komplett OEM/ODM-tjänst inklusive design, prototytillverkning, produktion och global logistik.
 hero:
   tagline: Bygg ditt eget varumärke
   title: Lansera ditt eget<br />SUP-varumärke
   subtitle: Du har visionen. Vi har fabriken, expertisen och leveranskedjan. Tillsammans bygger vi ett varumärke som sticker ut.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: Anpassad SUP-bräda med eget varumärke på vatten
 process:
   title: Din varumärkesresa
@@ -77,7 +77,7 @@ packages:
         - Marknadsföringsmaterial
         - Prioriterad produktion
 features:
-  title: Varför varumärken väljer Afarer
+  title: Varför varumärken väljer OLagoon
   subtitle: 10+ års OEM-erfarenhet, fullständig certifiering och lägsta MOQ i branschen.
   items:
     - title: 10+ års OEM-erfarenhet

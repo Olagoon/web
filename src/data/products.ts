@@ -937,7 +937,7 @@ export const products: ProductRecord[] = [
       },
       {
         q: 'How do I reach full pressure?',
-        a: 'The included dual-cylinder hand pump moves high volume quickly and reaches higher pressures with less effort, and the board is compatible with the optional afarer 12VDC electric pump.',
+        a: 'The included dual-cylinder hand pump moves high volume quickly and reaches higher pressures with less effort, and the board is compatible with the optional olagoon 12VDC electric pump.',
       },
     ],
   },

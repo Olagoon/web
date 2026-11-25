@@ -1,6 +1,6 @@
 meta:
   title: 'Kumppanit — jakelu ja tukku | {SITE}'
-  description: 'Ryhdy afarerin kumppaniksi: jakeluverkostot, tukkuhinnat, OEM/omamerkki-ohjelmat ja tuki paddle board -yrityksille maailmanlaajuisesti.'
+  description: 'Ryhdy olagoonin kumppaniksi: jakeluverkostot, tukkuhinnat, OEM/omamerkki-ohjelmat ja tuki paddle board -yrityksille maailmanlaajuisesti.'
   keywords:
     - 'SUP-jakelukumppani'
     - 'paddle board -tukku'
@@ -8,15 +8,15 @@ meta:
     - 'SUP-kumppanuus'
 hero:
   tagline: Kumppanit ja jakelu
-  title: Tule afarer-kumppaniksi<br />— Maailmanlaajuinen jakeluverkosto
-  subtitle: Liity afarerin maailmanlaajuiseen kumppaniverkostoon. Teemme yhteistyötä merenkulkualan jakelijoiden, melontaurheilun jälleenmyyjien, varustejälleenmyyjien ja brändikumppanien kanssa yli 50 maassa.
+  title: Tule olagoon-kumppaniksi<br />— Maailmanlaajuinen jakeluverkosto
+  subtitle: Liity olagoonin maailmanlaajuiseen kumppaniverkostoon. Teemme yhteistyötä merenkulkualan jakelijoiden, melontaurheilun jälleenmyyjien, varustejälleenmyyjien ja brändikumppanien kanssa yli 50 maassa.
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: afarerin maailmanlaajuinen kumppani- ja jakeluverkosto
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: olagoonin maailmanlaajuinen kumppani- ja jakeluverkosto
 content_programs:
   tagline: Kumppaniohjelmat
   title: Kumppaniohjelmat<br />rakennettu kasvua varten
-  subtitle: Oletpa sitten jakelija, jälleenmyyjä tai brändikumppani, afarer tarjoaa ohjelmia, jotka on suunniteltu tukemaan liiketoimintaasi.
+  subtitle: Oletpa sitten jakelija, jälleenmyyjä tai brändikumppani, olagoon tarjoaa ohjelmia, jotka on suunniteltu tukemaan liiketoimintaasi.
   columns: 3
   items:
     - title: Jakelijaohjelma
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: Miksi tehdä yhteistyötä kanssamme
-  title: Miksi kumppanit valitsevat afarerin
+  title: Miksi kumppanit valitsevat olagoonin
   subtitle: Kumppanimme hyötyvät todellisesta valmistuskapasiteetista, tasaisesta laadusta ja reagoivasta tuesta.
   list:
     - 'Suora tehdasväylä: Tee yhteistyötä suoraan valmistusjoukkueemme kanssa — ei välittäjiä. Saat nopeammat vastaukset, paremmat hinnat ja täydellisen näkyvyyden tuotantoon.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: Näin ryhdyt kumppaniksi
   title: Yksinkertainen kumppanuusprosessi
-  subtitle: Kumppanuusprosessimme on suoraviivainen — suunniteltu saamaan sinut myymään afarer-tuotteita nopeasti.
+  subtitle: Kumppanuusprosessimme on suoraviivainen — suunniteltu saamaan sinut myymään olagoon-tuotteita nopeasti.
   items:
     - title: 'Vaihe 1: Jätä hakemus'
       description: Täytä kumppanihakemuslomakkeemme yritysprofiilillasi, kohdemarkkinallasi ja tuotekiinnostuksillasi.
@@ -62,7 +62,7 @@ content_process:
     - title: 'Vaihe 4: Koulutus ja käynnistys'
       description: Tuotekoulutus, myyntituki ja markkinointimateriaalit toimitetaan. Olet valmis aloittamaan myynnin.
 cta:
-  title: Valmis tulemaan afarer-kumppaniksi?
+  title: Valmis tulemaan olagoon-kumppaniksi?
   subtitle: Hae kumppanuutta, niin tiimimme vastaa 3 työpäivän kuluessa.
   actions:
     - variant: primary

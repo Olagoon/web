@@ -54,7 +54,7 @@ for (const loc of locales) {
     const d = (data[slug].description || '').trim();
     if (!t) issues.push(`${slug}: empty title`);
     if (!d) issues.push(`${slug}: empty description`);
-    if (t && !t.endsWith('| Afarer')) issues.push(`${slug}: title missing "| Afarer" suffix`);
+    if (t && !t.endsWith('| OLagoon')) issues.push(`${slug}: title missing "| OLagoon" suffix`);
     if (t && !t.includes(' — ')) issues.push(`${slug}: title missing " — " separator`);
     if (t && t === en[slug].enTitle) issues.push(`${slug}: title identical to EN`);
     if (d && d === en[slug].enDesc) issues.push(`${slug}: desc identical to EN`);

@@ -7,10 +7,10 @@ hero:
   tagline: Laboratorium 05
   title: Prototypeværksted
   subtitle: Fra CAD-model til søklart board — bygget, udstyret og afprøvet
-  image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  image_alt: Boardfremstilling i Afarers prototypeværksted
+  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+  image_alt: Boardfremstilling i OLagoons prototypeværksted
 intro: >-
-  En CAD-model, uanset hvor detaljeret den er, kan ikke afsløre, hvordan et board faktisk vil opføre sig, før det møder vandet. Derfor er vores Prototype Workshop designet til at omsætte ingeniørdata til et fysisk, søklart board så hurtigt og præcist som muligt. Hver ny Afarer-model – og
+  En CAD-model, uanset hvor detaljeret den er, kan ikke afsløre, hvordan et board faktisk vil opføre sig, før det møder vandet. Derfor er vores Prototype Workshop designet til at omsætte ingeniørdata til et fysisk, søklart board så hurtigt og præcist som muligt. Hver ny OLagoon-model – og
   ethvert væsentligt specialbyg – passerer gennem værkstedet, før produktionsværktøjet fastlægges.
 content_html: >
   <h2>Hvor design bliver til virkelighed</h2>

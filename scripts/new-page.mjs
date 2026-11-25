@@ -18,7 +18,7 @@
  * Examples:
  *   node scripts/new-page.mjs content about-us
  *   node scripts/new-page.mjs product sup-racer-14
- *   node scripts/new-page.mjs news afarer-new-factory
+ *   node scripts/new-page.mjs news olagoon-new-factory
  *   node scripts/new-page.mjs tech carbon-fiber-kevlar
  *   node scripts/new-page.mjs usecase sailing-training
  *   node scripts/new-page.mjs node whitewater-kayak
@@ -143,9 +143,9 @@ title: ${title}
 sku: ${sku}
 summary: ${summary}
 description: ${summary}
-image: /images/afarer/products/${id}.${ext}
+image: /images/olagoon/products/${id}.${ext}
 gallery:
-  - url: /images/afarer/products/${id}.${ext}
+  - url: /images/olagoon/products/${id}.${ext}
     alt: ${title}
 category: ${slugify(category)}
 tags:
@@ -278,10 +278,10 @@ async function createNews(slug) {
 publishDate: ${new Date().toISOString()}
 title: "${title}"
 excerpt: '${excerpt}'
-image: /images/afarer/news/${slug}.jpg
+image: /images/olagoon/news/${slug}.jpg
 tags: []
 category: ${category}
-author: afarer Team
+author: olagoon Team
 metadata:
   title: '${title}'
   description: '${excerpt}'
@@ -292,7 +292,7 @@ ${title}
 TODO: write article content here.
 `;
   write(file, content);
-  console.log(`\nNext: add a news image to public/images/afarer/news/${slug}.jpg`);
+  console.log(`\nNext: add a news image to public/images/olagoon/news/${slug}.jpg`);
 }
 
 // ── 4. Technology ────────────────────────────────────────────────────────────

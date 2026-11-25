@@ -323,7 +323,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Kumpletong Linya ng Produkto — mga SUP at Accessory',
     industry: 'Distribusyon / Pandagat',
     challenge:
-      'Nais ng distributor na nakabase sa GCC ng eksklusibong karapatang katawanin ang kumpletong linya ng produkto ng afarer sa 6 bansa sa Gulpo, na may custom na packaging sa Arabic, specs ng materyales na heat-resistant, at termino ng warranty na sumusunod sa sharia.',
+      'Nais ng distributor na nakabase sa GCC ng eksklusibong karapatang katawanin ang kumpletong linya ng produkto ng olagoon sa 6 bansa sa Gulpo, na may custom na packaging sa Arabic, specs ng materyales na heat-resistant, at termino ng warranty na sumusunod sa sharia.',
     solution:
       'Nagtatag ng eksklusibong kasunduan sa distribusyon. Bumuo ng packaging at marketing collateral sa Arabic. Na-validate ang specs ng materyales sa 50°C na ambient temperature. Inangkop ang termino ng warranty para sa rehiyonal na pagsunod.',
     result:
@@ -400,7 +400,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Nais ng isang Fortune 500 tech company na maglunsad ng water-based na wellness program para sa mga empleyado sa 4 global na campus na may lokasyon sa tabing-lawa, na nangangailangan ng 60 SUP na may corporate branding, solusyon sa pag-iimbak, at pagsasanay sa instructor.',
     solution:
-      'Nagbigay ng flota ng stable na all-around SUP na may deck graphics na may corporate logo. Nagdisenyo ng weatherproof na storage rack sa site. Nag-certify ng 12 in-house na instructor sa pamamagitan ng training program ng afarer.',
+      'Nagbigay ng flota ng stable na all-around SUP na may deck graphics na may corporate logo. Nagdisenyo ng weatherproof na storage rack sa site. Nag-certify ng 12 in-house na instructor sa pamamagitan ng training program ng olagoon.',
     result:
       'Nailunsad ang programa sa 4 campus. 2,400+ pakikilahok ng empleyado sa unang taon. 94% rating ng kasiyahan ng empleyado. Naitampok sa sustainability report ng kumpanya.',
     outcomeMetrics: [

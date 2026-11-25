@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 
 function htmlUnescape(s) {
   return s
@@ -13,8 +13,8 @@ function htmlUnescape(s) {
 }
 
 (async () => {
-  const yaml = require('E:/github/afarer/node_modules/js-yaml');
-  const mod = await import('file:///E:/github/afarer/src/data/biz-solutions/translations/de.ts');
+  const yaml = require('E:/github/olagoon/node_modules/js-yaml');
+  const mod = await import('file:///E:/github/olagoon/src/data/biz-solutions/translations/de.ts');
   const de = mod.default;
   const enPartsDir = 'C:/Users/Helleo/AppData/Local/Temp/deveco/de_sol_work/en_parts';
   const enBySlug = {};

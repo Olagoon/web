@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
-const SRC = 'E:/github/afarer/src/data/biz-solutions/translations/id.ts';
+const SRC = 'E:/github/olagoon/src/data/biz-solutions/translations/id.ts';
 const OUT_DIR = path.join(__dirname, 'id_parts');
 fs.mkdirSync(OUT_DIR, { recursive: true });
 

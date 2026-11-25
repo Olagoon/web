@@ -59,7 +59,7 @@ function countOccurrences(hay, needle) {
     'home.resources.download': 'Download PDF',
     'retail.download': 'Download',
     'home.resources.b2bSubtitle':
-      'Download produktkataloger, kvalitetsrapporter og overholdelsesdokumentation for at udforske afarers kollektioner og partnerprogrammer.',
+      'Download produktkataloger, kvalitetsrapporter og overholdelsesdokumentation for at udforske olagoons kollektioner og partnerprogrammer.',
     'buyerCenter.downloadCatalog': 'Download katalog',
     'buyerCenter.b2bResourcesDesc': 'Download kataloger, QC-rapporter og fabriksrundvisningsinformation.',
     'oem.catalog': 'Download produktkatalog',
@@ -88,7 +88,7 @@ function countOccurrences(hay, needle) {
     'academy.learningCenterDesc':
       'Trinvise guider og tutorials organiseret efter færdighedsniveau — fra SUP-basics til avancerede redningsteknikker.',
     'academy.metaDesc':
-      'Guider og tutorials for hvert færdighedsniveau — fra SUP-basics til avancerede redningsteknikker. Lær i dit eget tempo med Afarer Academy.',
+      'Guider og tutorials for hvert færdighedsniveau — fra SUP-basics til avancerede redningsteknikker. Lær i dit eget tempo med OLagoon Academy.',
     'oem.pkg.growing.f2': 'Skræddersyet emballage & labels',
     'solutionsByIndustry.sar.cert1': 'SOLAS-compliant muligheder',
   };

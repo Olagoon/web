@@ -8,7 +8,7 @@
     - beginner-guide
 - id: ocean-use
   question: 'Ar galiu naudoti lentą vandenyne?'
-  answer: 'Taip. afarer SUP lentos sukurtos naudojimui vandenyne, ežere ir upėje. Mūsų Touring serija atlaiko pakrantės bangavimą, o visos lentos gaminamos iš jūrinio lygio PVC, atsparaus sūraus vandens korozijai. Po naudojimo vandenyne nuplaukite lentą gėlu vandeniu.'
+  answer: 'Taip. olagoon SUP lentos sukurtos naudojimui vandenyne, ežere ir upėje. Mūsų Touring serija atlaiko pakrantės bangavimą, o visos lentos gaminamos iš jūrinio lygio PVC, atsparaus sūraus vandens korozijai. Po naudojimo vandenyne nuplaukite lentą gėlu vandeniu.'
   category: general
   relatedProducts: []
   relatedGuides:
@@ -22,7 +22,7 @@
     - sup-maintenance
 - id: travel-sup
   question: 'Ar galiu keliauti su pripučiama SUP lenta?'
-  answer: 'Žinoma. Kiekviena afarer lenta susideda į kuprinės dydžio nešiojamąjį dėklą, atitinkantį oro linijų bagažo reikalavimus. Lenta sveria vos 18–22 lbs, todėl ją lengva nusinešti į paplūdimį, prie ežero ar per oro uosto terminalus.'
+  answer: 'Žinoma. Kiekviena olagoon lenta susideda į kuprinės dydžio nešiojamąjį dėklą, atitinkantį oro linijų bagažo reikalavimus. Lenta sveria vos 18–22 lbs, todėl ją lengva nusinešti į paplūdimį, prie ežero ar per oro uosto terminalus.'
   category: general
   relatedProducts: []
   relatedGuides: []
@@ -35,7 +35,7 @@
     - understanding-specs
 - id: box-contents
   question: 'Kas yra komplekte?'
-  answer: 'Kiekvienas afarer SUP apima lentą, kelioninę kuprinę, dvipusio veikimo rankinį siurblį, nuimamą peleką, spiralinę saugos virvę (leash) ir remonto rinkinį. Kai kuriuose modeliuose taip pat galima rinktis anglies pluošto irklą.'
+  answer: 'Kiekvienas olagoon SUP apima lentą, kelioninę kuprinę, dvipusio veikimo rankinį siurblį, nuimamą peleką, spiralinę saugos virvę (leash) ir remonto rinkinį. Kai kuriuose modeliuose taip pat galima rinktis anglies pluošto irklą.'
   category: product
   relatedProducts: []
   relatedGuides: []
@@ -62,7 +62,7 @@
   relatedGuides: []
 - id: puncture-repair
   question: 'Kaip suremontuoti pradūrimą?'
-  answer: 'Nuvalykite pažeistą vietą, iškirpkite lopą su suapvalintais kampais, užtepkite PVC klijų, stipriai prispauskite ir prieš pripūsdami palaukite 24 valandas. Prie afarer lentų pridedamas remonto rinkinys. Išsamias instrukcijas rasite mūsų pripučiamų lentų remonto vadove.'
+  answer: 'Nuvalykite pažeistą vietą, iškirpkite lopą su suapvalintais kampais, užtepkite PVC klijų, stipriai prispauskite ir prieš pripūsdami palaukite 24 valandas. Prie olagoon lentų pridedamas remonto rinkinys. Išsamias instrukcijas rasite mūsų pripučiamų lentų remonto vadove.'
   category: maintenance
   relatedProducts: []
   relatedGuides:
@@ -92,8 +92,8 @@
     - weather-conditions
     - safety-tips
 - id: warranty
-  question: 'Kokia yra afarer garantija?'
-  answer: 'Visi afarer produktai turi išsamią gamintojo garantiją. SUP lentos dengiamos 2+ metų garantija nuo gamybos defektų. Garantija apima medžiagų ir darbo defektus esant normaliam naudojimui.'
+  question: 'Kokia yra olagoon garantija?'
+  answer: 'Visi olagoon produktai turi išsamią gamintojo garantiją. SUP lentos dengiamos 2+ metų garantija nuo gamybos defektų. Garantija apima medžiagų ir darbo defektus esant normaliam naudojimui.'
   category: warranty
   relatedProducts: []
   relatedGuides: []
@@ -130,13 +130,13 @@
     - choosing-paddle
 - id: material-difference
   question: 'Kuo skiriasi vienasluoksniai ir daugiasluoksniai PVC SUP?'
-  answer: 'Vienasluoksnės PVC lentos yra lengvos ir pigesnės, tačiau mažiau standrios esant aukštam slėgiui. Dviejų sluoksnių ir lydytojo laminavimo konstrukcijos suteikia daugiau standumo, atsparumo pradūrimams ir ilgaamžiškumo. Karinio lygio PVC su UV atsparia danga poilsio SUP naudojimui užtikrina geriausią patvarumo ir svorio balansą. afarer visuose produktų segmentuose naudoja trisluoksnį laminuotą PVC.'
+  answer: 'Vienasluoksnės PVC lentos yra lengvos ir pigesnės, tačiau mažiau standrios esant aukštam slėgiui. Dviejų sluoksnių ir lydytojo laminavimo konstrukcijos suteikia daugiau standumo, atsparumo pradūrimams ir ilgaamžiškumo. Karinio lygio PVC su UV atsparia danga poilsio SUP naudojimui užtikrina geriausią patvarumo ir svorio balansą. olagoon visuose produktų segmentuose naudoja trisluoksnį laminuotą PVC.'
   category: product
   relatedProducts: []
   relatedGuides: []
 - id: sup-width-stability
   question: 'Koks SUP plotis geriausias stabilumui?'
-  answer: 'Pradedantiesiems 33–34 colių plotis užtikrina geriausią stabilumo ir irklavimo lengvumo santykį. Lentos, siauresnės nei 32 coliai, naujiems irkluotojams atrodo nestabilios. 33 colių pločio afarer SUP Explorer 11 yra idealus mokymuisi.'
+  answer: 'Pradedantiesiems 33–34 colių plotis užtikrina geriausią stabilumo ir irklavimo lengvumo santykį. Lentos, siauresnės nei 32 coliai, naujiems irkluotojams atrodo nestabilios. 33 colių pločio olagoon SUP Explorer 11 yra idealus mokymuisi.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -152,21 +152,21 @@
   relatedGuides:
     - sup-size-guide
     - paddle-board-size-guide
-- id: afarer-vs-others
-  question: 'Kaip afarer lyginasi su kitais prekių ženklais?'
-  answer: 'afarer pripučiamoje vandens sporto įrangoje siūlo geriausią kainos ir kokybės santykį. Palyginti su Red Paddle Co, afarer teikia 90 % rezultatų už 60 % kainos. Palyginti su iRocker, afarer naudoja aukštesnės klasės trisluoksnį karinio lygio PVC ir didesnius PSI reitingus. Palyginti su Bluefin, afarer siūlo geresnes medžiagų specifikacijas. Daugumai poilsio irkluotojų afarer suteikia geriausią kokybės ir kainos balansą.'
+- id: olagoon-vs-others
+  question: 'Kaip olagoon lyginasi su kitais prekių ženklais?'
+  answer: 'olagoon pripučiamoje vandens sporto įrangoje siūlo geriausią kainos ir kokybės santykį. Palyginti su Red Paddle Co, olagoon teikia 90 % rezultatų už 60 % kainos. Palyginti su iRocker, olagoon naudoja aukštesnės klasės trisluoksnį karinio lygio PVC ir didesnius PSI reitingus. Palyginti su Bluefin, olagoon siūlo geresnes medžiagų specifikacijas. Daugumai poilsio irkluotojų olagoon suteikia geriausią kokybės ir kainos balansą.'
   category: general
   relatedProducts:
     - sup-explorer-11
     - sup-touring-cruiser
   relatedGuides:
     - best-surf-gear-brands-compared
-    - afarer-vs-red-paddle
-    - afarer-vs-irocker
-    - afarer-vs-bluefin
+    - olagoon-vs-red-paddle
+    - olagoon-vs-irocker
+    - olagoon-vs-bluefin
 - id: fishing-sup-setup
   question: 'Ar galiu žvejoti iš SUP lentos?'
-  answer: 'Taip. Žvejyba iš SUP vis populiarėja, nes stovima padėtis užtikrina puikų matomumą į vandenį. Stabilumui rinkitės mažiausiai 11 pėdų ilgumo ir 33–34 colių pločio lentą. Pridėkite prie denio tampriųjų virvių pritvirtintą plastikinę dėžę su meškerių laikikliais bei mažą inkarą ir visada dėvėkite gelbėjimo liemenę. afarer SUP Explorer 11 puikiai tinka paprastai žvejybai.'
+  answer: 'Taip. Žvejyba iš SUP vis populiarėja, nes stovima padėtis užtikrina puikų matomumą į vandenį. Stabilumui rinkitės mažiausiai 11 pėdų ilgumo ir 33–34 colių pločio lentą. Pridėkite prie denio tampriųjų virvių pritvirtintą plastikinę dėžę su meškerių laikikliais bei mažą inkarą ir visada dėvėkite gelbėjimo liemenę. olagoon SUP Explorer 11 puikiai tinka paprastai žvejybai.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -183,7 +183,7 @@
     - yoga-sup-guide
 - id: airline-travel-sup
   question: 'Kokios oro linijų taisyklės galioja keliaujant su pripučiama SUP?'
-  answer: 'Dauguma oro linijų priima SUP kuprines kaip registruotą bagažą, jei jis sveria iki 23–32 kg. afarer kuprinė yra maždaug 90x40x30 cm dydžio ir supakuota sveria apie 15 kg. Kai kurios oro linijos gali imti papildomą mokestį už didelį bagažą. Atvykite anksčiau, pelekus ir siurblį atskirai įvyniokite į rankinį bagažą ir pažymėkite kuprinę kaip trapų bagažą. Prieš skrydį visada pasidomėkite savo oro linijų sporto įrangos politika.'
+  answer: 'Dauguma oro linijų priima SUP kuprines kaip registruotą bagažą, jei jis sveria iki 23–32 kg. olagoon kuprinė yra maždaug 90x40x30 cm dydžio ir supakuota sveria apie 15 kg. Kai kurios oro linijos gali imti papildomą mokestį už didelį bagažą. Atvykite anksčiau, pelekus ir siurblį atskirai įvyniokite į rankinį bagažą ir pažymėkite kuprinę kaip trapų bagažą. Prieš skrydį visada pasidomėkite savo oro linijų sporto įrangos politika.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -204,14 +204,14 @@
   relatedProducts: []
   relatedGuides: []
 - id: oem-custom-branding
-  question: 'Ar galiu uždėti savo logotipą ant afarer produktų?'
+  question: 'Ar galiu uždėti savo logotipą ant olagoon produktų?'
   answer: 'Taip. Mūsų OEM paslauga apima individualų logotipų išdėstymą, individualius spalvų derinius ir individualią pakuotę. Priklausomai nuo produkto tipo siūlome tamspaudės, terminio perkėlimo ir siuvinėjimo galimybes. Dėl pasiūlymo ir gamybos terminų įvertinimo atsiųskite savo maketus ir specifikacijas mūsų pardavimų komandai.'
   category: ordering
   relatedProducts: []
   relatedGuides: []
 - id: sup-inflate-pressure
   question: 'Iki kokio PSI turėčiau pripūsti savo SUP?'
-  answer: 'Geriausiam našumui pripūskite iki lentos nurodyto maksimalaus PSI — kokybiškiems pripučiamiems SUP tai paprastai 15–18 PSI. afarer SUP Explorer 11 geriausiai veikia esant 15–18 PSI. Nepakankamai pripūsta lenta jaučiama minkšta ir prasčiau laiko kryptį. Viršijus nurodytą maksimumą, kyla drop-stitch siūlų pažeidimo rizika. Savo lentos konkretų reitingą rasite ant lipduko šalia vožtuvo.'
+  answer: 'Geriausiam našumui pripūskite iki lentos nurodyto maksimalaus PSI — kokybiškiems pripučiamiems SUP tai paprastai 15–18 PSI. olagoon SUP Explorer 11 geriausiai veikia esant 15–18 PSI. Nepakankamai pripūsta lenta jaučiama minkšta ir prasčiau laiko kryptį. Viršijus nurodytą maksimumą, kyla drop-stitch siūlų pažeidimo rizika. Savo lentos konkretų reitingą rasite ant lipduko šalia vožtuvo.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -229,7 +229,7 @@
     - inflatable-sup-maintenance
 - id: sup-seated-paddling
   question: 'Ar galima irkluoti SUP sėdint?'
-  answer: 'Taip. Daugelis SUP lentų, įskaitant afarer Explorer 11, turi D žiedus, prie kurių galima prisegti sėdynę. Irklavimas sėdint yra patogus pasirinkimas ilgesnėms kelionėms, žvejybai arba kai vandenyje norite pakeisti padėtį.'
+  answer: 'Taip. Daugelis SUP lentų, įskaitant olagoon Explorer 11, turi D žiedus, prie kurių galima prisegti sėdynę. Irklavimas sėdint yra patogus pasirinkimas ilgesnėms kelionėms, žvejybai arba kai vandenyje norite pakeisti padėtį.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -252,7 +252,7 @@
     - sup-leash-guide
 - id: drop-stitch-technology
   question: 'Kas yra drop-stitch šerdies technologija ir kodėl ji svarbi?'
-  answer: 'Drop-stitch šerdies technologija naudoja tūkstančius poliesterinių siūlų, jungiančių PVC lentos viršutinį ir apatinį sluoksnius. Pripūtus iki 15-20 PSI, šie siūlai suformuoja standžią, sukimo jėgoms atsparią struktūrą, kuri veikia kaip kietos lentos korpusas. afarer visuose SUP produktų segmentuose naudoja karinio lygio trisluoksnį PVC su drop-stitch laminavimu, užtikrindamas epoksidinėms lentoms prilygstantį standumą ir išlaikydamas pripučiamos lentos pervežimo lengvumą.'
+  answer: 'Drop-stitch šerdies technologija naudoja tūkstančius poliesterinių siūlų, jungiančių PVC lentos viršutinį ir apatinį sluoksnius. Pripūtus iki 15-20 PSI, šie siūlai suformuoja standžią, sukimo jėgoms atsparią struktūrą, kuri veikia kaip kietos lentos korpusas. olagoon visuose SUP produktų segmentuose naudoja karinio lygio trisluoksnį PVC su drop-stitch laminavimu, užtikrindamas epoksidinėms lentoms prilygstantį standumą ir išlaikydamas pripučiamos lentos pervežimo lengvumą.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -262,7 +262,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-inflatable-vs-rigid
   question: 'Pripučiama ar kieta SUP: kuri geresnė skirtingiems naudojimo atvejams?'
-  answer: 'Pripučiami SUP pasižymi pervežimo lengvumu, sandėliavimo patogumu ir smūgių sugerimu — jie idealūs kelionėms, pradedantiesiems ir poilsio naudojimui. Kietos epoksidinės lentos lenktynėms ir banglenčių sportui užtikrina maksimalų greitį ir slydimą. 90 % irkluotojų kokybiška pripučiama lenta su drop-stitch šerdimi (15-20 PSI) yra pakankamai standi turizmui, fitnesui, jogai ir žvejybai. afarer pripučiamos lentos savo charakteristikomis prilygsta vidutinės klasės kietosioms lentoms ir kartu susideda į kuprinę.'
+  answer: 'Pripučiami SUP pasižymi pervežimo lengvumu, sandėliavimo patogumu ir smūgių sugerimu — jie idealūs kelionėms, pradedantiesiems ir poilsio naudojimui. Kietos epoksidinės lentos lenktynėms ir banglenčių sportui užtikrina maksimalų greitį ir slydimą. 90 % irkluotojų kokybiška pripučiama lenta su drop-stitch šerdimi (15-20 PSI) yra pakankamai standi turizmui, fitnesui, jogai ir žvejybai. olagoon pripučiamos lentos savo charakteristikomis prilygsta vidutinės klasės kietosioms lentoms ir kartu susideda į kuprinę.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -272,7 +272,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-skill-progression
   question: 'Koks yra įprastas SUP įgūdžių tobulėjimo kelias nuo pradedančiojo iki pažengusio?'
-  answer: 'Pradedantysis (1-3 sesijos): atsistojimas, pagrindinis mostas į priekį, sukimas, saugus kritimas. Vidutinio lygio (5-15 sesijų): efektyvi irklo technika, posūkiai aplink ašį, bangavimo įveikimas, pagrindiniai gelbėjimo įgūdžiai. Pažengęs (20+ sesijų): lenktynių startai, posūkiai aplink plūdę, mažų bangų banglenčių sportas, irklavimas pagal vėją. Profesionalas: konkurencinės lenktynės, surf SUP, ilgo nuotolio turizmas. afarer lentos tinka kiekvienam etapui: Explorer 11 pradedantiesiems, Ocean Voyager turizmui ir Cheetah Surge sportiniam irklavimui.'
+  answer: 'Pradedantysis (1-3 sesijos): atsistojimas, pagrindinis mostas į priekį, sukimas, saugus kritimas. Vidutinio lygio (5-15 sesijų): efektyvi irklo technika, posūkiai aplink ašį, bangavimo įveikimas, pagrindiniai gelbėjimo įgūdžiai. Pažengęs (20+ sesijų): lenktynių startai, posūkiai aplink plūdę, mažų bangų banglenčių sportas, irklavimas pagal vėją. Profesionalas: konkurencinės lenktynės, surf SUP, ilgo nuotolio turizmas. olagoon lentos tinka kiekvienam etapui: Explorer 11 pradedantiesiems, Ocean Voyager turizmui ir Cheetah Surge sportiniam irklavimui.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -284,7 +284,7 @@
     - sup-paddle-guide
 - id: sup-weight-capacity
   question: 'Kiek svorio gali atlaikyti pripučiama SUP lenta?'
-  answer: 'Svorio talpa priklauso nuo lentos tūrio. afarer lentos: SUP Explorer 11 (260L, iki 100 kg / 220 lbs), Ocean Voyager 12 (310L, iki 140 kg / 308 lbs), Leviathan Wake (350L, iki 180 kg / 396 lbs). Optimaliam našumui bendrą svorį (irkluotojas + įranga) laikykite ne didesniame kaip 80 % maksimalios talpos. Neperkrauta lenta plaukia aukščiau ir geriau laiko kryptį, ypač bangotame vandenyje.'
+  answer: 'Svorio talpa priklauso nuo lentos tūrio. olagoon lentos: SUP Explorer 11 (260L, iki 100 kg / 220 lbs), Ocean Voyager 12 (310L, iki 140 kg / 308 lbs), Leviathan Wake (350L, iki 180 kg / 396 lbs). Optimaliam našumui bendrą svorį (irkluotojas + įranga) laikykite ne didesniame kaip 80 % maksimalios talpos. Neperkrauta lenta plaukia aukščiau ir geriau laiko kryptį, ypač bangotame vandenyje.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -301,7 +301,7 @@
   relatedGuides: []
 - id: sup-inflatable-durability
   question: 'Kiek ilgai tarnauja pripučiamos SUP lentos tinkamai prižiūrimos?'
-  answer: 'Tinkamai prižiūrima kokybiška pripučiama SUP lenta reguliaraus poilsio naudojimo metu tarnauja 5-10 metų. Karinio lygio trisluoksnis PVC su UV atsparia danga — kaip naudojamas visose afarer lentose — atsparus saulės poveikiui, sūraus vandens korozijai ir dilimui. Pagrindiniai ilgaamžiškumo veiksniai: po kiekvieno naudojimo nuplaukite gėlu vandeniu, prieš sandėliavimą gerai išdžiovinkite, nenaudojamą laikykite atokiau nuo tiesioginių UV spindulių, laikykite iš dalies pripūstą vėsioje ir sausoje vietoje ir venkite vilkimo grubiu paviršiumi. Drop-stitch siūlai ir siūlės paprastai genda pirmiau nei pats PVC audinys.'
+  answer: 'Tinkamai prižiūrima kokybiška pripučiama SUP lenta reguliaraus poilsio naudojimo metu tarnauja 5-10 metų. Karinio lygio trisluoksnis PVC su UV atsparia danga — kaip naudojamas visose olagoon lentose — atsparus saulės poveikiui, sūraus vandens korozijai ir dilimui. Pagrindiniai ilgaamžiškumo veiksniai: po kiekvieno naudojimo nuplaukite gėlu vandeniu, prieš sandėliavimą gerai išdžiovinkite, nenaudojamą laikykite atokiau nuo tiesioginių UV spindulių, laikykite iš dalies pripūstą vėsioje ir sausoje vietoje ir venkite vilkimo grubiu paviršiumi. Drop-stitch siūlai ir siūlės paprastai genda pirmiau nei pats PVC audinys.'
   category: maintenance
   relatedProducts:
     - sup-explorer-11
@@ -312,7 +312,7 @@
     - inflatable-sup-repair
 - id: sup-choppy-water
   question: 'Kaip irkluoti SUP bangotame vandenyje arba esant vėjui?'
-  answer: 'Bangotame vandenyje: sulenkite kelius, statykite kojas plačiau, trumpinkite irklo mostus ir balansui įtempkite liemens raumenis. Esant priešvėjui: naudokite žemesnį irklo kampą, darykite trumpesnius mostus ir pasvirkite į priekį. Esant šoniniam vėjui: irkluokite vėjo pusėje, kad ištaisytumėte dreifą. Esant palankiam vėjui: greičiui išnaudokite bangas. Pradedantieji turėtų vengti vėjo, greitesnio nei 10 mph, ir stabilumui rinktis platesnes bei ilgesnes lentas. afarer Ocean Voyager turizmo SUP sukurtas vidutinio bangavimo ir vėjo sąlygoms.'
+  answer: 'Bangotame vandenyje: sulenkite kelius, statykite kojas plačiau, trumpinkite irklo mostus ir balansui įtempkite liemens raumenis. Esant priešvėjui: naudokite žemesnį irklo kampą, darykite trumpesnius mostus ir pasvirkite į priekį. Esant šoniniam vėjui: irkluokite vėjo pusėje, kad ištaisytumėte dreifą. Esant palankiam vėjui: greičiui išnaudokite bangas. Pradedantieji turėtų vengti vėjo, greitesnio nei 10 mph, ir stabilumui rinktis platesnes bei ilgesnes lentas. olagoon Ocean Voyager turizmo SUP sukurtas vidutinio bangavimo ir vėjo sąlygoms.'
   category: safety
   relatedProducts:
     - sup-ocean-voyager
@@ -323,7 +323,7 @@
     - wind-conditions-sup
 - id: sup-sustainability
   question: 'Ar pripučiamos SUP lentos yra draugiškos aplinkai?'
-  answer: 'Pripučiami SUP keliais atžvilgiais palieka mažesnį pėdsaką aplinkai nei kietos lentos: jų gamybai sunaudojama mažiau žaliavų, dėl lengvesnio svorio mažėja transportavimo emisijos, o ilgaamžiškumas reiškia mažiau keitimų laikui bėgant. afarer lentose naudojamas PVC yra be švino ir atitinka REACH reikalavimus. Pagrindinės tvarumo praktikos: pirkti kokybišką lentą, tarnaujančią 5-10 metų, pradūrimus remontuoti, o ne keisti, lentą gyvenimo pabaigoje perdirbti per specializuotas PVC perdirbimo programas ir rinktis prekių ženklus, naudojančius pakartotinai naudojamus dėklus, kad išvengtumėte vienkartinės pakuotės.'
+  answer: 'Pripučiami SUP keliais atžvilgiais palieka mažesnį pėdsaką aplinkai nei kietos lentos: jų gamybai sunaudojama mažiau žaliavų, dėl lengvesnio svorio mažėja transportavimo emisijos, o ilgaamžiškumas reiškia mažiau keitimų laikui bėgant. olagoon lentose naudojamas PVC yra be švino ir atitinka REACH reikalavimus. Pagrindinės tvarumo praktikos: pirkti kokybišką lentą, tarnaujančią 5-10 metų, pradūrimus remontuoti, o ne keisti, lentą gyvenimo pabaigoje perdirbti per specializuotas PVC perdirbimo programas ir rinktis prekių ženklus, naudojančius pakartotinai naudojamus dėklus, kad išvengtumėte vienkartinės pakuotės.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -341,8 +341,8 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-certification
-  question: 'Kokius sertifikatus turi afarer OEM produktai?'
-  answer: 'Visi afarer OEM/ODM produktai turi: CE atitikties deklaraciją (ES rinka), UKCA (JK rinka), ISO 9001:2015 kokybės vadybos sistemą, BSCI socialinės atitikties auditą, REACH ir RoHS medžiagų atitiktį, EN ISO 25649 klasifikaciją pripučiamoms SUP lentoms. Papildomi sertifikatai teikiami pageidavimu: JAV kranto apsaugos (US Coast Guard) atitikties dokumentacija, karinio standarto testavimas (MIL-STD-810) ir paskirties šalies importo sertifikavimo pagalba.'
+  question: 'Kokius sertifikatus turi olagoon OEM produktai?'
+  answer: 'Visi olagoon OEM/ODM produktai turi: CE atitikties deklaraciją (ES rinka), UKCA (JK rinka), ISO 9001:2015 kokybės vadybos sistemą, BSCI socialinės atitikties auditą, REACH ir RoHS medžiagų atitiktį, EN ISO 25649 klasifikaciją pripučiamoms SUP lentoms. Papildomi sertifikatai teikiami pageidavimu: JAV kranto apsaugos (US Coast Guard) atitikties dokumentacija, karinio standarto testavimas (MIL-STD-810) ir paskirties šalies importo sertifikavimo pagalba.'
   category: b2b
   relatedProducts: []
   relatedGuides: []
@@ -359,7 +359,7 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-ip-protection
-  question: 'Kaip afarer apsaugo mano intelektinę nuosavybę ir dizainus?'
+  question: 'Kaip olagoon apsaugo mano intelektinę nuosavybę ir dizainus?'
   answer: 'Intelektinės nuosavybės apsauga yra esminė mūsų OEM paslaugos dalis. NDA pasirašome prieš bet kokius dizaino aptarimus. Dizaino failai tvarkomi izoliuotuose kompiuteriuose su prieigos registravimu. Visa įranga ir formos lieka jūsų išimtine nuosavybe (jūsų apmokėtos). Jūsų formų ar dizainų kitiems klientams nepanaudosime. Aktyviems klientams formų sandėliavimas ir priežiūra įskaitomi. Nutraukus sutartį formos arba išsiunčiamos jums, arba sunaikinamos, tai patvirtinant vaizdo medžiaga. Gerbiame visas prekių ženklų ir patentų teises.'
   category: b2b
   relatedProducts: []

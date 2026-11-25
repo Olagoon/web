@@ -1,6 +1,6 @@
 meta:
   title: 'Presença Global — Fabricante de SUP que Atende 50+ Países | {SITE}'
-  description: 'A afarer exporta SUPs infláveis para mais de 50 países em todos os continentes. Fabricante e fornecedor profissional para marcas, distribuidores e frotas.'
+  description: 'A olagoon exporta SUPs infláveis para mais de 50 países em todos os continentes. Fabricante e fornecedor profissional para marcas, distribuidores e frotas.'
   keywords:
     - 'fabricante global de SUP'
     - 'exportador de paddle board'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Presença Global
   title: Atendendo 50+ Países<br />em Cada Continente
-  subtitle: De operadores de patrulha costeira europeus a distribuidores australianos de esportes aquáticos a equipes de resgate do Oriente Médio — as pranchas afarer estão na água no mundo todo.
+  subtitle: De operadores de patrulha costeira europeus a distribuidores australianos de esportes aquáticos a equipes de resgate do Oriente Médio — as pranchas olagoon estão na água no mundo todo.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: fabricação e distribuição marítima global afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: fabricação e distribuição marítima global olagoon
 stats:
   title: Alcance Global
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: Estoque em Montclair, CA para entrega rápida na América do Norte.
       icon: tabler:building-warehouse
     - title: Peças de reposição
-      description: Peças originais afarer em estoque o ano todo.
+      description: Peças originais olagoon em estoque o ano todo.
       icon: tabler:package
     - title: Suporte Técnico
       description: Linha direta para nossa equipe de engenharia para perguntas técnicas.

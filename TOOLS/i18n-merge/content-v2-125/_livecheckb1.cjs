@@ -5,7 +5,7 @@ const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const yaml = require(path.join(ROOT, 'node_modules', 'js-yaml'));
 const TMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
 
@@ -57,7 +57,7 @@ let n = 0;
 for (const loc of ['es', 'it']) {
   // index page
   const idxOut = path.join(TMP, 'liveb1_' + loc + '_index.html');
-  const code = fetch('https://afarer.com/' + loc + '/v2/', idxOut);
+  const code = fetch('https://olagoon.com/' + loc + '/v2/', idxOut);
   const idxBody = fs.readFileSync(idxOut, 'utf8');
   if (code === '200' && idxBody.includes('<html')) pass('/' + loc + '/v2/ index 200');
   else fail('/' + loc + '/v2/ index code=' + code);
@@ -69,7 +69,7 @@ for (const loc of ['es', 'it']) {
 
   for (const slug of SLUGS) {
     const out = path.join(TMP, 'liveb1_' + loc + '_' + slug + '.html');
-    const c = fetch('https://afarer.com/' + loc + '/v2/' + slug, out);
+    const c = fetch('https://olagoon.com/' + loc + '/v2/' + slug, out);
     const body = fs.readFileSync(out, 'utf8');
     const ok = c === '200' && body.includes(esc(String(titles[loc].get(slug))));
     if (ok) {
@@ -85,7 +85,7 @@ for (const loc of ['es', 'it']) {
 // pt fallback page (no overlay -> EN)
 {
   const fbOut = path.join(TMP, 'liveb1_pt_fb.html');
-  const fc = fetch('https://afarer.com/' + FALLBACK_LANG + '/v2/' + FALLBACK, fbOut);
+  const fc = fetch('https://olagoon.com/' + FALLBACK_LANG + '/v2/' + FALLBACK, fbOut);
   const fb = fs.readFileSync(fbOut, 'utf8');
   if (fc === '200' && fb.includes(esc(enFallbackTitle))) pass('/' + FALLBACK_LANG + '/v2/' + FALLBACK + ' EN fallback');
   else

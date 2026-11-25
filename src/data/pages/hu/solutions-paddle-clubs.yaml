@@ -7,12 +7,12 @@ hero:
   title: 'Indítsa, működtesse és növelje evezőklubját<br />kereskedelmi minőségű SUP flottákkal'
   subtitle: 'SUP klubfelszerelés-beszállító evezőkluboknak és SUP iskoláknak világszerte — tartós kereskedelmi deszkák, tömeges klubáriázás, egyedi márkázás és gyors cserealkatrészek, hogy Ön a közössége növelésére összpontosíthasson.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: 'Evezőklub tagok egymáshoz illő Afarer SUP deszkákon'
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: 'Evezőklub tagok egymáshoz illő OLagoon SUP deszkákon'
 
 benefits:
   title: 'Klubflotta előnyök'
-  subtitle: 'Miért választják az evezőklubok 50+ országban az Afarert felszerelési partnerüknek.'
+  subtitle: 'Miért választják az evezőklubok 50+ országban az OLagoont felszerelési partnerüknek.'
   items:
     - metric: '40%+'
       label: 'Flottaköltség-megtakarítás'
@@ -86,7 +86,7 @@ training:
         - 'CE tanúsított felszerelés'
 
 features:
-  title: 'Miért választják a klubok az Afarert'
+  title: 'Miért választják a klubok az OLagoont'
   subtitle: 'Következetes minőség, gyors alkatrészek és a növekvő klubokhoz illő tömeges árazás.'
   items:
     - title: '500+ kölcsönzési ciklus'

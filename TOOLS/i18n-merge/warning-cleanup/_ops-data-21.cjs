@@ -263,6 +263,6 @@ module.exports = [
     rep: 'Tehtaallamme on ISO 9001 -sertifiointi, ja kaikki',
     n: 1,
   },
-  // === ar/afarer-story ?² mojibake → م² ===
-  { f: 'src/data/pages/ar/afarer-story.yaml', find: '12,000 ?²', rep: '12,000 م²', n: 5 },
+  // === ar/olagoon-story ?² mojibake → م² ===
+  { f: 'src/data/pages/ar/olagoon-story.yaml', find: '12,000 ?²', rep: '12,000 م²', n: 5 },
 ];

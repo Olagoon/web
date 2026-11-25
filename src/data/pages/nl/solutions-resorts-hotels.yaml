@@ -4,9 +4,9 @@ meta:
 hero:
   tagline: Resorts & hotels
   title: Maak van uw waterfront een inkomstencentrum<br />met premium SUP-vloten
-  subtitle: "Afarer levert resorts wereldwijd opblaasbare SUP-vloten van commerciële kwaliteit — van startpakketten met 20 borden tot flagship-programma's met 100+ borden. Inclusief merkpersonalisatie, personeelstraining en vervangingsonderdelen."
+  subtitle: "OLagoon levert resorts wereldwijd opblaasbare SUP-vloten van commerciële kwaliteit — van startpakketten met 20 borden tot flagship-programma's met 100+ borden. Inclusief merkpersonalisatie, personeelstraining en vervangingsonderdelen."
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: Resortgasten die van SUP-boarden genieten op een ongerept strand
 roi_section:
   title: Het Resort SUP-inkomensmodel
@@ -20,7 +20,7 @@ roi_section:
       detail: Haal de volledige vlootinvestering binnen één seizoen terug
     - metric: 40%
       label: Omzetstijging
-      detail: Gemiddelde boost na overstap naar Afarer-vloten
+      detail: Gemiddelde boost na overstap naar OLagoon-vloten
     - metric: '500+'
       label: Verhuurfietsen per bord
       detail: Commerciële duurzaamheid voor dagelijks gebruik
@@ -67,7 +67,7 @@ packages:
       revenue: $200K jaarlijkse omzetpotentieel
       cta_text: Ontvang vlaggenschippakket
 case_study:
-  quote: Sinds we zijn overgestapt op Afarer, is onze SUP-verhuurinkomsten met 40% gestegen. De kosten voor het vervangen van boards zijn met 60% gedaald. We hebben onze volledige vlootinvestering in 4 maanden terugverdiend.
+  quote: Sinds we zijn overgestapt op OLagoon, is onze SUP-verhuurinkomsten met 40% gestegen. De kosten voor het vervangen van boards zijn met 60% gedaald. We hebben onze volledige vlootinvestering in 4 maanden terugverdiend.
   author: Wateractiviteitenbeheerder
   location: 5-sterrenresort, Maldiven
   results:
@@ -78,7 +78,7 @@ case_study:
     - label: Terugverdientijd
       value: 4 maanden
 features:
-  title: Waarom Resorts Voor Afarer Kiezen
+  title: Waarom Resorts Voor OLagoon Kiezen
   subtitle: Commerciële duurzaamheid, wereldwijde logistiek en een partner die gastvrijheid begrijpt.
   items:
     - title: 500 Verhuur Fietsen

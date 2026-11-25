@@ -28,7 +28,7 @@ export type SolutionOverride = {
       results: string[];
     }[];
   };
-  whyAfarer?: {
+  whyOLagoon?: {
     title?: string;
     items?: { title: string; description: string }[];
   };
@@ -47,15 +47,15 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Itayo ang Iyong SUP Brand | OEM na Manufacturer ng Inflatable SUP | {SITE}',
       description:
-        'Tinutulungan ng Afarer ang mga outdoor startup na bumuo ng custom na SUP brands sa pamamagitan ng OEM manufacturing, private label na paddle boards, low MOQ na produksyon, product design, quality control, at suporta sa global supply chain.',
+        'Tinutulungan ng OLagoon ang mga outdoor startup na bumuo ng custom na SUP brands sa pamamagitan ng OEM manufacturing, private label na paddle boards, low MOQ na produksyon, product design, quality control, at suporta sa global supply chain.',
     },
     hero: {
       tagline: 'Itayo ang Iyong SUP Brand™',
       title: 'Custom na SUP Manufacturing para sa mga Founder ng Outdoor Startup',
       subtitle:
-        'Tinutulungan ng Afarer ang mga outdoor startup na bumuo ng custom na SUP brands sa pamamagitan ng OEM manufacturing, private label na paddle boards, low MOQ na produksyon, product design, quality control, at suporta sa global supply chain.',
+        'Tinutulungan ng OLagoon ang mga outdoor startup na bumuo ng custom na SUP brands sa pamamagitan ng OEM manufacturing, private label na paddle boards, low MOQ na produksyon, product design, quality control, at suporta sa global supply chain.',
       image: {
-        alt: 'Paglalarawan ng mga custom na SUP board ng Afarer',
+        alt: 'Paglalarawan ng mga custom na SUP board ng OLagoon',
       },
     },
     challenge: {
@@ -173,7 +173,7 @@ const tl: Record<string, SolutionOverride> = {
       customer:
         'Founder ng Outdoor Startup Brand mula sa United States. Dating outdoor retail manager, mahilig sa surfing at kayaking, at Shopify entrepreneur na layuning lumikha ng premium na inflatable SUP brand.',
       steps: [
-        'Tinulungan ng Afarer na tukuyin ang direksyon ng brand bilang Premium Outdoor Lifestyle SUP Brand na nagta-target sa mga outdoor consumer na may edad 25-45. Isinagawa ang market positioning analysis at competitive research.',
+        'Tinulungan ng OLagoon na tukuyin ang direksyon ng brand bilang Premium Outdoor Lifestyle SUP Brand na nagta-target sa mga outdoor consumer na may edad 25-45. Isinagawa ang market positioning analysis at competitive research.',
         "Binuo ang unang produkto: 10'6 Premium Inflatable SUP na may matibay na Drop Stitch construction, premium na PVC structure, modernong EVA design, carbon paddle, at mataas na kalidad na mga accessory.",
         'Nilikha ang mga custom na board graphics, brand color system, packaging design, at kumpletong retail-ready na product package na umaayon sa brand identity.',
         'Inilunsad na may 300 units para sa Shopify store, mga influencer marketing campaign, at customer testing para ma-validate ang market demand.',
@@ -198,22 +198,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Brand Identity at Paghanap ng Supplier sa Tatlong Kontinente',
               detail:
-                'Ginugol ni James ang Enero-Marso 2023 sa pagbisita sa 5 pabrika sa China, Vietnam, at Thailand kasama ang sourcing team ng Afarer. Ipinakilala siya ng Afarer sa isang specialized na military-grade PVC laminating facility sa Qingdao na dati ay gumagawa lamang ng white-label na board para sa mga European distributor. Sabay-sabay nilang tinawaran ang pagbaba ng minimum order quantity mula 1,000 units tungong 500 units sa pamamagitan ng pagtanggap sa 6-buwang exclusivity clause. Isinagawa ng quality control team ng Afarer ang 3 round ng sample testing, tinanggihan ang unang dalawang batch dahil sa hindi-consistent na rail seam welding bago aprubahan ang pangatlo.',
+                'Ginugol ni James ang Enero-Marso 2023 sa pagbisita sa 5 pabrika sa China, Vietnam, at Thailand kasama ang sourcing team ng OLagoon. Ipinakilala siya ng OLagoon sa isang specialized na military-grade PVC laminating facility sa Qingdao na dati ay gumagawa lamang ng white-label na board para sa mga European distributor. Sabay-sabay nilang tinawaran ang pagbaba ng minimum order quantity mula 1,000 units tungong 500 units sa pamamagitan ng pagtanggap sa 6-buwang exclusivity clause. Isinagawa ng quality control team ng OLagoon ang 3 round ng sample testing, tinanggihan ang unang dalawang batch dahil sa hindi-consistent na rail seam welding bago aprubahan ang pangatlo.',
             },
             {
               title: 'Hakbang 2 - Infrastructure ng Crowdfunding Campaign at Pagpaplano ng Fulfillment',
               detail:
-                'Tinulungan ng logistics team ng Afarer si James na magtatag ng 3PL partnership sa isang fulfillment center sa Gloucester na kayang humawak ng 2,000 parcel kada araw. Lumikha sila ng detalyadong Kickstarter rewards tier: £399 early bird (50 units), £449 standard (300 units), at £549 premium package na may paddle at pump (150 units). Naglabas ang Afarer ng 12 high-resolution na product render, 4-minutong campaign video na kinuhanan sa Symonds Yat sa Wye River, at kumpletong spec sheet na nagbibigay-diin sa 6-pulgadang kapal, 32-PSI na drop-stitch core, at carbon-fiber paddle option. Inilunsad ang campaign noong 1 Mayo 2023 na may £150,000 na goal.',
+                'Tinulungan ng logistics team ng OLagoon si James na magtatag ng 3PL partnership sa isang fulfillment center sa Gloucester na kayang humawak ng 2,000 parcel kada araw. Lumikha sila ng detalyadong Kickstarter rewards tier: £399 early bird (50 units), £449 standard (300 units), at £549 premium package na may paddle at pump (150 units). Naglabas ang OLagoon ng 12 high-resolution na product render, 4-minutong campaign video na kinuhanan sa Symonds Yat sa Wye River, at kumpletong spec sheet na nagbibigay-diin sa 6-pulgadang kapal, 32-PSI na drop-stitch core, at carbon-fiber paddle option. Inilunsad ang campaign noong 1 Mayo 2023 na may £150,000 na goal.',
             },
             {
               title: 'Hakbang 3 - Pamamahala ng Krisis sa Gitna ng Campaign at Pagpapatupad ng Stretch Goal',
               detail:
-                'Nang maabot ng campaign ang £85,000 sa unang 72 oras pero huminto sa £110,000 pagsapit ng ika-14 na araw, nagdeploy ang mga marketing strategist ng Afarer ng targeted na Facebook at Instagram ad campaign na nakatuon sa mga British paddleboarding Facebook group na may pinagsamang 500,000+ miyembro. Gumawa sila ng 8 A/B tested na ad variant na nagtatampok sa mga YouTube testimonial ni James. Pagsapit ng ika-30 na araw, 212 pang backer ang nagtulak ng total sa £162,000. Nag-coordinate ang Afarer ng stretch goal — pagdaragdag ng libreng dry bag na nagkakahalaga ng £45 sa lahat ng pledge na higit £449 — na nagtrigger ng huling paglakas ng 88 backer sa huling 48 oras, nagsara sa £198,740 mula sa 487 backer.',
+                'Nang maabot ng campaign ang £85,000 sa unang 72 oras pero huminto sa £110,000 pagsapit ng ika-14 na araw, nagdeploy ang mga marketing strategist ng OLagoon ng targeted na Facebook at Instagram ad campaign na nakatuon sa mga British paddleboarding Facebook group na may pinagsamang 500,000+ miyembro. Gumawa sila ng 8 A/B tested na ad variant na nagtatampok sa mga YouTube testimonial ni James. Pagsapit ng ika-30 na araw, 212 pang backer ang nagtulak ng total sa £162,000. Nag-coordinate ang OLagoon ng stretch goal — pagdaragdag ng libreng dry bag na nagkakahalaga ng £45 sa lahat ng pledge na higit £449 — na nagtrigger ng huling paglakas ng 88 backer sa huling 48 oras, nagsara sa £198,740 mula sa 487 backer.',
             },
             {
               title: 'Hakbang 4 - Produksyon, Quality Assurance, at Post-Campaign Fulfillment',
               detail:
-                'Nagsimula ang produksyon noong Agosto 2023 sa facility sa Qingdao, na inilagay ng Afarer ang isang full-time na QC inspector sa site sa loob ng 6 linggo. Ang bawat board ay sumailalim sa 24-oras na inflation test sa 18 PSI at seam peel-strength test na lumampas sa 150 N/cm. Ang unang 200 units ay naipadala sa pamamagitan ng sea freight noong 15 Setyembre, na nakalusot sa UK customs sa loob ng 4 na araw salamat sa pre-cleared na dokumentasyon ng Afarer. Natanggap ng lahat ng 487 backer ang kanilang mga board pagsapit ng 25 Oktubre 2023 — 9 na araw nang mas maaga kaysa sa nakasaad na delivery date. Nag-ulat si James ng 4.7/5 na average review score mula sa unang 150 customer feedback form.',
+                'Nagsimula ang produksyon noong Agosto 2023 sa facility sa Qingdao, na inilagay ng OLagoon ang isang full-time na QC inspector sa site sa loob ng 6 linggo. Ang bawat board ay sumailalim sa 24-oras na inflation test sa 18 PSI at seam peel-strength test na lumampas sa 150 N/cm. Ang unang 200 units ay naipadala sa pamamagitan ng sea freight noong 15 Setyembre, na nakalusot sa UK customs sa loob ng 4 na araw salamat sa pre-cleared na dokumentasyon ng OLagoon. Natanggap ng lahat ng 487 backer ang kanilang mga board pagsapit ng 25 Oktubre 2023 — 9 na araw nang mas maaga kaysa sa nakasaad na delivery date. Nag-ulat si James ng 4.7/5 na average review score mula sa unang 150 customer feedback form.',
             },
           ],
           results: [
@@ -235,22 +235,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Tropical Environment Audit at Material Specification',
               detail:
-                'Ginugol ng mga product engineer ng Afarer ang 2 linggo sa Cairns noong Mayo 2023 sa pagsubok sa umiiral na fleet ni Mara. Nadokumento nila ang 8 partikular na punto ng pagkasira: UV-degraded na PVC (nakikita sa 22 board), nalalangaw na stainless steel D-ring (nangyayari sa loob ng 6 buwan), at pagkasira ng seam sa bow handle (3 board). Muling binuo ng lab team ng Afarer ang PVC top layer upang magsama ng UV-stabilizer additive (UV-531 sa 0.6% concentration) at tinukoy ang 304-grade marine stainless steel para sa lahat ng hardware. Nagdisenyo sila ng pinalakas na bow handle na may 3-layer webbing sandwich na naka-rate sa 400 kg breaking strength.',
+                'Ginugol ng mga product engineer ng OLagoon ang 2 linggo sa Cairns noong Mayo 2023 sa pagsubok sa umiiral na fleet ni Mara. Nadokumento nila ang 8 partikular na punto ng pagkasira: UV-degraded na PVC (nakikita sa 22 board), nalalangaw na stainless steel D-ring (nangyayari sa loob ng 6 buwan), at pagkasira ng seam sa bow handle (3 board). Muling binuo ng lab team ng OLagoon ang PVC top layer upang magsama ng UV-stabilizer additive (UV-531 sa 0.6% concentration) at tinukoy ang 304-grade marine stainless steel para sa lahat ng hardware. Nagdisenyo sila ng pinalakas na bow handle na may 3-layer webbing sandwich na naka-rate sa 400 kg breaking strength.',
             },
             {
               title: 'Hakbang 2 - Prototype Production at Field Testing sa Tatlong Tour Route',
               detail:
-                'Naglabas ang Afarer ng 10 prototype board noong Hulyo 2023 sa kanilang pabrika sa Guangzhou, bawat isa na may natatanging color scheme (coral blue, mangrove green, reef orange) para sa madaling pagkilala sa fleet. Nagpatakbo si Mara ng 60-araw na field trial sa tatlong pangunahing tour route niya: Fitzroy Island (saltwater, 6 oras ng direktang araw), morning tour sa Mulgrave River (freshwater, may lilim), at sunset tour sa Trinity Inlet (halong kondisyon). Bawat board ay umabot sa 300+ oras ng paggamit. Dalawang prototype ang nagpakita ng valve leakage pagkatapos ng 250 oras at ibinalik sa Afarer para sa redesign ng valve stem — mula brass tungong nylon-reinforced composite valve.',
+                'Naglabas ang OLagoon ng 10 prototype board noong Hulyo 2023 sa kanilang pabrika sa Guangzhou, bawat isa na may natatanging color scheme (coral blue, mangrove green, reef orange) para sa madaling pagkilala sa fleet. Nagpatakbo si Mara ng 60-araw na field trial sa tatlong pangunahing tour route niya: Fitzroy Island (saltwater, 6 oras ng direktang araw), morning tour sa Mulgrave River (freshwater, may lilim), at sunset tour sa Trinity Inlet (halong kondisyon). Bawat board ay umabot sa 300+ oras ng paggamit. Dalawang prototype ang nagpakita ng valve leakage pagkatapos ng 250 oras at ibinalik sa OLagoon para sa redesign ng valve stem — mula brass tungong nylon-reinforced composite valve.',
             },
             {
               title: 'Hakbang 3 - Pagtaas ng Produksyon, Custom Branding, at Packaging Design',
               detail:
-                'Matapos pumasa sa field trial, naglagay si Mara ng PO para sa 200 Reef Runner board noong Setyembre 2023. Lumikha ang design team ng Afarer ng custom heat-transfer graphics na nagtatampok ng logo ng Reef & River sa deck pad at serialized na fleet management number sa rail. Bawat board ay may kasamang custom-woven na 1000-denier nylon carry bag na may pinalakas na pananahi (sinubukan sa 80 kg load). Nag-ayos ang Afarer ng sea freight sa pamamagitan ng Port of Townsville na may 28-araw na transit time, kabilang ang fumigation certification para sa Australian biosecurity compliance. Nakalusot ang shipment sa customs noong 5 Nobyembre 2023.',
+                'Matapos pumasa sa field trial, naglagay si Mara ng PO para sa 200 Reef Runner board noong Setyembre 2023. Lumikha ang design team ng OLagoon ng custom heat-transfer graphics na nagtatampok ng logo ng Reef & River sa deck pad at serialized na fleet management number sa rail. Bawat board ay may kasamang custom-woven na 1000-denier nylon carry bag na may pinalakas na pananahi (sinubukan sa 80 kg load). Nag-ayos ang OLagoon ng sea freight sa pamamagitan ng Port of Townsville na may 28-araw na transit time, kabilang ang fumigation certification para sa Australian biosecurity compliance. Nakalusot ang shipment sa customs noong 5 Nobyembre 2023.',
             },
             {
               title: 'Hakbang 4 - Staff Training Program at Dokumentasyon ng Maintenance Protocol',
               detail:
-                'Pumunta ang customer success team ng Afarer sa Cairns noong Nobyembre 2023 upang magsagawa ng 2-araw na training workshop para sa 12 guide at 3 maintenance staff ni Mara. Sakop ng training: daily inspection checklist, tamang proseso ng inflation/deflation, protocol sa pagbanlaw ng saltwater, at repair kit na may 6 PVC patch at 2 replacement valve. Nagbigay ang Afarer ng laminated na quick-reference guide sa Ingles at Mandarin. Gumamit si Mara ng digital fleet log gamit ang Google Sheets, na sinusubaybayan ang oras ng paggamit bawat board. Ang unang quarterly replenishment order na 65 board ay inilagay noong Pebrero 2024.',
+                'Pumunta ang customer success team ng OLagoon sa Cairns noong Nobyembre 2023 upang magsagawa ng 2-araw na training workshop para sa 12 guide at 3 maintenance staff ni Mara. Sakop ng training: daily inspection checklist, tamang proseso ng inflation/deflation, protocol sa pagbanlaw ng saltwater, at repair kit na may 6 PVC patch at 2 replacement valve. Nagbigay ang OLagoon ng laminated na quick-reference guide sa Ingles at Mandarin. Gumamit si Mara ng digital fleet log gamit ang Google Sheets, na sinusubaybayan ang oras ng paggamit bawat board. Ang unang quarterly replenishment order na 65 board ay inilagay noong Pebrero 2024.',
             },
           ],
           results: [
@@ -262,8 +262,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Afarer',
+    whyOLagoon: {
+      title: 'Bakit OLagoon',
       items: [
         {
           title: 'Kaalaman sa Produkto',
@@ -291,12 +291,12 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Ano ang minimum order quantity para sa mga custom na SUP board?',
         answer:
-          'Nag-aalok ang Afarer ng flexible na MOQ na nagsisimula sa 100-500 units para sa market testing, na nagpapahintulot sa mga startup na i-validate ang kanilang mga produkto at mangalap ng customer feedback bago palakin ang produksyon.',
+          'Nag-aalok ang OLagoon ng flexible na MOQ na nagsisimula sa 100-500 units para sa market testing, na nagpapahintulot sa mga startup na i-validate ang kanilang mga produkto at mangalap ng customer feedback bago palakin ang produksyon.',
       },
       {
         question: 'Makakabuo ba ako ng sarili kong SUP brand nang hindi nagmamay-ari ng pabrika?',
         answer:
-          'Oo. Nagbibigay ang Afarer ng kumpletong private label manufacturing service, na nagpapahintulot sa iyo na bumuo ng sarili mong SUP brand na may custom branding, board design, packaging, at accessories nang walang anumang investment sa pabrika.',
+          'Oo. Nagbibigay ang OLagoon ng kumpletong private label manufacturing service, na nagpapahintulot sa iyo na bumuo ng sarili mong SUP brand na may custom branding, board design, packaging, at accessories nang walang anumang investment sa pabrika.',
       },
       {
         question: 'Gaano katagal bago mabuo ang isang custom na SUP product?',
@@ -306,17 +306,17 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Tumutulong ba kayo sa product design at market strategy?',
         answer:
-          'Oo. Nagbibigay ang Afarer ng konsultasyon sa brand at product strategy para matulungan kang tukuyin ang iyong target market, product positioning, price strategy, at differentiation bago magsimula ang produksyon.',
+          'Oo. Nagbibigay ang OLagoon ng konsultasyon sa brand at product strategy para matulungan kang tukuyin ang iyong target market, product positioning, price strategy, at differentiation bago magsimula ang produksyon.',
       },
       {
         question: 'Anong mga hakbang sa quality control ang mayroon kayo?',
         answer:
-          'May komprehensibong quality control system ang Afarer na sumasaklaw sa material inspection, pagsubaybay habang nasa produksyon, air pressure testing, at final product inspection bago magpadala.',
+          'May komprehensibong quality control system ang OLagoon na sumasaklaw sa material inspection, pagsubaybay habang nasa produksyon, air pressure testing, at final product inspection bago magpadala.',
       },
       {
         question: 'Makakapagpadala ba kayo sa aking bansa?',
         answer:
-          'Oo. Nagpapadala ang Afarer sa United States, Canada, Australia, United Kingdom, Germany, France, Netherlands, at iba pang global market na may maaasahang logistics support.',
+          'Oo. Nagpapadala ang OLagoon sa United States, Canada, Australia, United Kingdom, Germany, France, Netherlands, at iba pang global market na may maaasahang logistics support.',
       },
     ],
     cta: {
@@ -333,15 +333,15 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Palawakin ang Iyong Outdoor Brand Tungo sa Water Sports | SUP OEM Manufacturer | {SITE}',
       description:
-        'Tinutulungan ng Afarer ang mga matatag na outdoor brand na lumawak sa water sports gamit ang custom na SUP manufacturing, Drop Stitch technology, kaalaman sa PVC, private label na paddle board, at kumpletong solusyon sa product development.',
+        'Tinutulungan ng OLagoon ang mga matatag na outdoor brand na lumawak sa water sports gamit ang custom na SUP manufacturing, Drop Stitch technology, kaalaman sa PVC, private label na paddle board, at kumpletong solusyon sa product development.',
     },
     hero: {
       tagline: 'Palawakin ang Iyong Outdoor Brand Tungo sa Water Sports™',
       title: 'Water Sports Product Expansion para sa mga Matatag na Outdoor Brand',
       subtitle:
-        'Tinutulungan ng Afarer ang mga matatag na outdoor brand na lumawak sa water sports gamit ang custom na SUP manufacturing, Drop Stitch technology, kaalaman sa PVC, private label na paddle board, at kumpletong solusyon sa product development.',
+        'Tinutulungan ng OLagoon ang mga matatag na outdoor brand na lumawak sa water sports gamit ang custom na SUP manufacturing, Drop Stitch technology, kaalaman sa PVC, private label na paddle board, at kumpletong solusyon sa product development.',
       image: {
-        alt: 'Paglalarawan ng mga custom na SUP board ng Afarer',
+        alt: 'Paglalarawan ng mga custom na SUP board ng OLagoon',
       },
     },
     challenge: {
@@ -447,7 +447,7 @@ const tl: Record<string, SolutionOverride> = {
       customer:
         'European Outdoor Lifestyle Brand na orihinal na nakatuon sa camping equipment, outdoor accessories, at adventure lifestyle product na may malakas na retail network at matapat na customer base.',
       steps: [
-        "Sinuri ng Afarer ang brand positioning at inirekomenda ang Premium Outdoor SUP Collection strategy na kinabibilangan ng all-round SUP, touring SUP, at accessories na may temang 'Outdoor adventure mula lupa hanggang tubig'.",
+        "Sinuri ng OLagoon ang brand positioning at inirekomenda ang Premium Outdoor SUP Collection strategy na kinabibilangan ng all-round SUP, touring SUP, at accessories na may temang 'Outdoor adventure mula lupa hanggang tubig'.",
         "Bumuo ng 10'6 All-Round SUP na may mataas na stability, premium na construction, at outdoor lifestyle design, bukod pa sa 12'6 Touring SUP na may adventure performance at kakayahan sa malayong biyahe.",
         'Lumikha ng custom graphics, brand color, packaging, at sistema ng accessories na perpektong tumugma sa umiiral na outdoor brand identity.',
         'Inilunsad na may paunang order na 1,000 pcs na ipinamahagi sa pamamagitan ng mga umiiral na dealer, ecommerce channel, at outdoor retailer.',
@@ -472,22 +472,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Market Analysis at Product Architecture Planning',
               detail:
-                "Noong Marso 2023, sinuri ng market intelligence team ng Afarer ang 18 buwan ng SUP sales data mula sa 120 retailer sa US at Canada. Natukoy nila ang pinakamabilis na lumalaking sub-segment: all-around SUP sa pagitan ng 10'6\" at 11'6\" na may presyong $749–$999 CAD, na lumaki ng 34% kada taon. iminungkahi ng Afarer ang 4-SKU na lineup: ang 'Discovery' 10'6\" all-around board (target na presyo $799 CAD), ang 'Expedition' 11'6\" touring board ($949 CAD), ang 'Crossover' 10'2\" yoga at fitness SUP ($699 CAD), at ang 'Angler' fishing SUP na may removable crate mounting system ($1,049 CAD). Tinanggap ni Henrik ang mungkahi noong Abril na may target launch date ng Pebrero 2024 para sa spring retail buying season.",
+                "Noong Marso 2023, sinuri ng market intelligence team ng OLagoon ang 18 buwan ng SUP sales data mula sa 120 retailer sa US at Canada. Natukoy nila ang pinakamabilis na lumalaking sub-segment: all-around SUP sa pagitan ng 10'6\" at 11'6\" na may presyong $749–$999 CAD, na lumaki ng 34% kada taon. iminungkahi ng OLagoon ang 4-SKU na lineup: ang 'Discovery' 10'6\" all-around board (target na presyo $799 CAD), ang 'Expedition' 11'6\" touring board ($949 CAD), ang 'Crossover' 10'2\" yoga at fitness SUP ($699 CAD), at ang 'Angler' fishing SUP na may removable crate mounting system ($1,049 CAD). Tinanggap ni Henrik ang mungkahi noong Abril na may target launch date ng Pebrero 2024 para sa spring retail buying season.",
             },
             {
               title: 'Hakbang 2 - Co-Branded Design Integration at Retail Compliance',
               detail:
-                'Nagtulungan ang mga industrial designer ng Afarer sa Vancouver-based na creative team ng North Ridge sa loob ng 8 linggo upang bumuo ng visual identity na nag-uugnay ng mountain aesthetic ng brand sa water sports. Ang huling disenyo ay gumamit ng signature na charcoal-and-ember color scheme ng North Ridge na may topographic line pattern sa deck pad. Tiniyak ng Afarer na ang lahat ng board ay sumusunod sa mga vendor requirement ng REI: FSC-certified na cardboard packaging, recycled PET carry bag, at pagsunod sa California Proposition 65 para sa phthalate at heavy metal. Ang 14-pahinang Product Information Management (PIM) specification sheet ay isinumite sa vendor portal ng REI noong 1 Oktubre 2023.',
+                'Nagtulungan ang mga industrial designer ng OLagoon sa Vancouver-based na creative team ng North Ridge sa loob ng 8 linggo upang bumuo ng visual identity na nag-uugnay ng mountain aesthetic ng brand sa water sports. Ang huling disenyo ay gumamit ng signature na charcoal-and-ember color scheme ng North Ridge na may topographic line pattern sa deck pad. Tiniyak ng OLagoon na ang lahat ng board ay sumusunod sa mga vendor requirement ng REI: FSC-certified na cardboard packaging, recycled PET carry bag, at pagsunod sa California Proposition 65 para sa phthalate at heavy metal. Ang 14-pahinang Product Information Management (PIM) specification sheet ay isinumite sa vendor portal ng REI noong 1 Oktubre 2023.',
             },
             {
               title: 'Hakbang 3 - Photography, Copywriting, at Pre-Launch Retail Buyer Presentation',
               detail:
-                'Naglabas ang Afarer ng 230 asset para sa koleksyon: studio product shot sa white background, lifestyle imagery na kinuhanan sa Garibaldi Lake (1,500 m elevation sa British Columbia), at 360-degree spin photography. Sumulat sila ng localized na product copy sa Ingles at French-Canadian para sa mga retailer sa Quebec. Gumawa ang sales enablement team ng Afarer ng 22-pahinang retailer sell-in deck na may competitive analysis laban sa mga brand tulad ng BOTE at Isle, margin projection na nagpapakita ng 48% gross margin para sa mga retailer, at sell-through data mula sa mga test market. Nagpresenta sina Henrik at ang head of sales ng Afarer sa national buyer ng REI noong 15 Nobyembre 2023, at nakaseguro ng commitment mula sa 34 REI store.',
+                'Naglabas ang OLagoon ng 230 asset para sa koleksyon: studio product shot sa white background, lifestyle imagery na kinuhanan sa Garibaldi Lake (1,500 m elevation sa British Columbia), at 360-degree spin photography. Sumulat sila ng localized na product copy sa Ingles at French-Canadian para sa mga retailer sa Quebec. Gumawa ang sales enablement team ng OLagoon ng 22-pahinang retailer sell-in deck na may competitive analysis laban sa mga brand tulad ng BOTE at Isle, margin projection na nagpapakita ng 48% gross margin para sa mga retailer, at sell-through data mula sa mga test market. Nagpresenta sina Henrik at ang head of sales ng OLagoon sa national buyer ng REI noong 15 Nobyembre 2023, at nakaseguro ng commitment mula sa 34 REI store.',
             },
             {
               title: 'Hakbang 4 - Unang Production Run, Warehousing, at Sell-Through Performance',
               detail:
-                'Nagsimula ang produksyon ng 2,800 unit sa buong 4 SKU noong Disyembre 2023 sa facility ng Afarer sa Dongguan. Nag-ayos ang Afarer ng ocean freight patungong Vancouver na may arrival date ng 22 Enero 2024. Ang unang 800 unit ay ipinasa sa fulfillment center ni North Ridge sa Mississauga para sa eastern Canadian distribution. Pagsapit ng 1 Marso 2024, live na ang koleksyon sa 34 shelf ng REI, 18 lokasyon ng MEC, at NorthRidgeGear.com. Naibenta ang Discovery board na 340 unit sa Marso lamang — 136% ng forecast. Pagsapit ng Hunyo 2024, umabot sa $678,000 CAD ang kabuuang kita ng koleksyon, at ang Angler fishing SUP ay backordered hanggang Agosto.',
+                'Nagsimula ang produksyon ng 2,800 unit sa buong 4 SKU noong Disyembre 2023 sa facility ng OLagoon sa Dongguan. Nag-ayos ang OLagoon ng ocean freight patungong Vancouver na may arrival date ng 22 Enero 2024. Ang unang 800 unit ay ipinasa sa fulfillment center ni North Ridge sa Mississauga para sa eastern Canadian distribution. Pagsapit ng 1 Marso 2024, live na ang koleksyon sa 34 shelf ng REI, 18 lokasyon ng MEC, at NorthRidgeGear.com. Naibenta ang Discovery board na 340 unit sa Marso lamang — 136% ng forecast. Pagsapit ng Hunyo 2024, umabot sa $678,000 CAD ang kabuuang kita ng koleksyon, at ang Angler fishing SUP ay backordered hanggang Agosto.',
             },
           ],
           results: [
@@ -509,22 +509,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Material Innovation para sa Pagsunod sa European Standards',
               detail:
-                "Ginugol ng R&D team ng Afarer sa Guangzhou ang 10 linggo sa pagbuo ng proprietary na 5-layer PVC laminate na lumampas sa REACH chemical safety standards ng EU at sa mga kinakailangan ng German GS safety certification. Kanilang kinuha ang textile-grade na drop-stitch yarn mula sa isang German supplier (Karl Mayer Technische Textilien) para tumugma sa marketing angle ng AlpenWerk na 'Made with German Technology'. Apat na prototype board ang ginawa noong Hulyo 2023 at ipinadala sa TÜV Rheinland para sa testing. Hindi pumasa ang dalawa sa paunang GS certification dahil sa hindi sapat na abrasion resistance sa tail pad, na nangailangan ng 12% pagdagdag sa kapal ng PVC surface layer mula 0.8 mm tungong 0.9 mm.",
+                "Ginugol ng R&D team ng OLagoon sa Guangzhou ang 10 linggo sa pagbuo ng proprietary na 5-layer PVC laminate na lumampas sa REACH chemical safety standards ng EU at sa mga kinakailangan ng German GS safety certification. Kanilang kinuha ang textile-grade na drop-stitch yarn mula sa isang German supplier (Karl Mayer Technische Textilien) para tumugma sa marketing angle ng AlpenWerk na 'Made with German Technology'. Apat na prototype board ang ginawa noong Hulyo 2023 at ipinadala sa TÜV Rheinland para sa testing. Hindi pumasa ang dalawa sa paunang GS certification dahil sa hindi sapat na abrasion resistance sa tail pad, na nangailangan ng 12% pagdagdag sa kapal ng PVC surface layer mula 0.8 mm tungong 0.9 mm.",
             },
             {
               title: 'Hakbang 2 - Negosasyon sa Retail Buyer at Shelf-Ready Packaging',
               detail:
-                'Nagpresenta sina Lena at ang European sales director ng Afarer ng koleksyon sa ISPO Munich trade show noong Nobyembre 2023. Nakaseguro sila ng pre-order mula sa 38 lokasyon ng Intersport, 12 Globetrotter store, at Bergfreunde.de. Nagdisenyo ang Afarer ng shelf-ready retail packaging na sumusunod sa German packaging law (VerpackG): 100% recyclable na cardboard box na may soy-based ink printing, walang plastic shrink wrap, at QR code na nag-uugnay sa 3-minutong assembly video sa Aleman. Ang packaging ay nagkakahalaga ng €4.20 kada unit pero nag-alis ng in-store damage na umaabot sa 2.3% para sa mga competing brand na gumagamit ng plastic bag.',
+                'Nagpresenta sina Lena at ang European sales director ng OLagoon ng koleksyon sa ISPO Munich trade show noong Nobyembre 2023. Nakaseguro sila ng pre-order mula sa 38 lokasyon ng Intersport, 12 Globetrotter store, at Bergfreunde.de. Nagdisenyo ang OLagoon ng shelf-ready retail packaging na sumusunod sa German packaging law (VerpackG): 100% recyclable na cardboard box na may soy-based ink printing, walang plastic shrink wrap, at QR code na nag-uugnay sa 3-minutong assembly video sa Aleman. Ang packaging ay nagkakahalaga ng €4.20 kada unit pero nag-alis ng in-store damage na umaabot sa 2.3% para sa mga competing brand na gumagamit ng plastic bag.',
             },
             {
               title: 'Hakbang 3 - European Warehousing at Last-Mile Distribution Setup',
               detail:
-                'Tinulungan ng Afarer ang AlpenWerk na magtatag ng distribution hub sa isang 3PL warehouse sa Dortmund na may kapasidad na 3,000 unit. Kanilang tinalakayan ang DDP shipping term sa isang freight forwarder na based sa Ningbo, kabilang ang customs clearance sa Hamburg port at trucking patungong Dortmund sa loob ng 5 business day mula nang dumating ang vessel. Ang warehouse stock ay naka-configure sa Kanban system: kapag bumaba ang inventory sa mas mababa sa 400 unit, awtomatikong matutriger ang reorder sa pabrika ng Afarer na may 45-araw na lead time. Dumating ang unang container na 1,500 unit noong 15 Pebrero 2024, at ang pangalawang container na 1,200 unit noong 10 Abril.',
+                'Tinulungan ng OLagoon ang AlpenWerk na magtatag ng distribution hub sa isang 3PL warehouse sa Dortmund na may kapasidad na 3,000 unit. Kanilang tinalakayan ang DDP shipping term sa isang freight forwarder na based sa Ningbo, kabilang ang customs clearance sa Hamburg port at trucking patungong Dortmund sa loob ng 5 business day mula nang dumating ang vessel. Ang warehouse stock ay naka-configure sa Kanban system: kapag bumaba ang inventory sa mas mababa sa 400 unit, awtomatikong matutriger ang reorder sa pabrika ng OLagoon na may 45-araw na lead time. Dumating ang unang container na 1,500 unit noong 15 Pebrero 2024, at ang pangalawang container na 1,200 unit noong 10 Abril.',
             },
             {
               title: 'Hakbang 4 - Launch Campaign, Influencer Partnership, at Reorder Velocity',
               detail:
-                "Inilunsad ng AlpenWerk ang 'SeeWolf' 10'8\", 'Flussläufer' 11'6\", at 'Gipfelstürmer' 12'0\" touring model noong 1 Marso 2024 sa lahat ng retail channel at alpenwerk.de. Gumawa ang content team ng Afarer ng 18 social media asset na nagtatampok sa mga German SUP influencer tulad ng 'SUP_mit_Michi' (43,000 follower) at 'PaddelPia' (28,000 follower). Pagsapit ng 31 Mayo 2024, 1,870 unit na ang nabenta — 87% ng paunang sell-in. Naglagay ang Intersport ng reorder para sa 450 unit noong 15 Hunyo. Ang direct-to-consumer web channel ni Lena ay nag-ambag ng €320,000 sa kita na may 54% gross margin, na lumampas sa inaasahang 40% margin.",
+                "Inilunsad ng AlpenWerk ang 'SeeWolf' 10'8\", 'Flussläufer' 11'6\", at 'Gipfelstürmer' 12'0\" touring model noong 1 Marso 2024 sa lahat ng retail channel at alpenwerk.de. Gumawa ang content team ng OLagoon ng 18 social media asset na nagtatampok sa mga German SUP influencer tulad ng 'SUP_mit_Michi' (43,000 follower) at 'PaddelPia' (28,000 follower). Pagsapit ng 31 Mayo 2024, 1,870 unit na ang nabenta — 87% ng paunang sell-in. Naglagay ang Intersport ng reorder para sa 450 unit noong 15 Hunyo. Ang direct-to-consumer web channel ni Lena ay nag-ambag ng €320,000 sa kita na may 54% gross margin, na lumampas sa inaasahang 40% margin.",
             },
           ],
           results: [
@@ -536,8 +536,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Afarer',
+    whyOLagoon: {
+      title: 'Bakit OLagoon',
       items: [
         {
           title: 'Teknikal na Kaalaman',
@@ -570,7 +570,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Paano makakapagpalawak ang aking outdoor brand sa water sports nang walang kaalaman sa SUP?',
         answer:
-          'Nagbibigay ang Afarer ng kumpletong kaalaman sa manufacturing kabilang ang Drop Stitch technology, PVC engineering, at product design. Ang iyong brand ang nagdudulot ng kaalaman sa customer habang kami ang humahawak sa teknikal na produksyon.',
+          'Nagbibigay ang OLagoon ng kumpletong kaalaman sa manufacturing kabilang ang Drop Stitch technology, PVC engineering, at product design. Ang iyong brand ang nagdudulot ng kaalaman sa customer habang kami ang humahawak sa teknikal na produksyon.',
       },
       {
         question: 'Anong mga uri ng water sports product ang kayang niyong gawin?',
@@ -580,7 +580,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Kayang ba ninyong tumugma sa umiiral kong brand quality standards?',
         answer:
-          'Oo. Bumubuo ang Afarer ng mga produkto ayon sa iyong design language, quality standard, at market positioning na may mahigpit na quality control sa buong produksyon.',
+          'Oo. Bumubuo ang OLagoon ng mga produkto ayon sa iyong design language, quality standard, at market positioning na may mahigpit na quality control sa buong produksyon.',
       },
       {
         question: 'Ano ang karaniwang order volume para sa mga matatag na brand?',
@@ -612,15 +612,15 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Inflatable SUP Solutions para sa mga Surf Shop | Private Label Manufacturer | {SITE}',
       description:
-        'Tinutulungan ng Afarer ang mga surf shop at water lifestyle brand na lumawak gamit ang private label na inflatable SUP at custom na water sports product. Bawasan ang gastos sa shipping, storage, at inventory gamit ang advanced na inflatable technology.',
+        'Tinutulungan ng OLagoon ang mga surf shop at water lifestyle brand na lumawak gamit ang private label na inflatable SUP at custom na water sports product. Bawasan ang gastos sa shipping, storage, at inventory gamit ang advanced na inflatable technology.',
     },
     hero: {
       tagline: 'Idala ang Inflatable Technology sa Surf Business™',
       title: 'Inflatable SUP Solutions para sa mga Surf Shop at Coastal Business',
       subtitle:
-        'Tinutulungan ng Afarer ang mga surf shop at water lifestyle brand na lumawak gamit ang private label na inflatable SUP at custom na water sports product. Bawasan ang gastos sa shipping, storage, at inventory gamit ang advanced na inflatable technology.',
+        'Tinutulungan ng OLagoon ang mga surf shop at water lifestyle brand na lumawak gamit ang private label na inflatable SUP at custom na water sports product. Bawasan ang gastos sa shipping, storage, at inventory gamit ang advanced na inflatable technology.',
       image: {
-        alt: 'Paglalarawan ng mga custom na SUP board ng Afarer',
+        alt: 'Paglalarawan ng mga custom na SUP board ng OLagoon',
       },
     },
     challenge: {
@@ -734,7 +734,7 @@ const tl: Record<string, SolutionOverride> = {
       customer:
         'European Coastal Surf Shop Brand na matatagpuan sa Atlantic Coast ng Europa. Orihinal na nakatuon sa surfboard, surf accessory, at beach lifestyle product na may malakas na lokal na komunidad ng customer.',
       steps: [
-        "Inirekomenda ng Afarer ang inflatable SUP collection na kinabibilangan ng 10'6 All-round SUP, 12'6 Touring SUP, at family package na iniangkop sa beachfront na lokasyon ng tindahan at customer base nito.",
+        "Inirekomenda ng OLagoon ang inflatable SUP collection na kinabibilangan ng 10'6 All-round SUP, 12'6 Touring SUP, at family package na iniangkop sa beachfront na lokasyon ng tindahan at customer base nito.",
         'Lumikha ng custom na board graphics, brand color, at retail packaging na tumugma sa umiiral na brand identity ng surf shop at beach lifestyle positioning nito.',
         'Binago ang business model mula sa tradisyonal na surf retail tungo sa kumpletong water lifestyle business sa pamamagitan ng pagdaragdag ng SUP sales, rental package, at lesson para sa mga baguhan.',
         'Inilunsad ang inflatable product line upang dumagdag sa mga umiiral na hardboard offering nang hindi dinadagdagan ang pressure sa storage.',
@@ -759,17 +759,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Performance Benchmarking at Material Selection',
               detail:
-                'Bisita ng mga product engineer ng Afarer ang Gold Coast noong Pebrero 2023 at nagsagawa ng blind test sa 12 instructor ni Brendan. Bawat instructor ay sumubok ng 6 prototype inflatable board laban sa kanilang karaniwang 9\'0" epoxy soft-top sa 4 metric: stability habang nakatayo (rate 1–10), paddle glide (segundo para takpan ang 50 m), rail-to-rail turning responsiveness, at student confidence rating. Ang panalong prototype — itinalagang M9-IS — ay gumamit ng 3-layer drop-stitch core na may full-length na 0.5 mm EVA deck pad at pinalakas na bamboo stringer. Binigyan ito ng rating ng mga instructor na 8.7/10 kumpara sa 7.4/10 para sa epoxy board. Nagorder si Brendan ng 60 unit noong Marso 2023.',
+                'Bisita ng mga product engineer ng OLagoon ang Gold Coast noong Pebrero 2023 at nagsagawa ng blind test sa 12 instructor ni Brendan. Bawat instructor ay sumubok ng 6 prototype inflatable board laban sa kanilang karaniwang 9\'0" epoxy soft-top sa 4 metric: stability habang nakatayo (rate 1–10), paddle glide (segundo para takpan ang 50 m), rail-to-rail turning responsiveness, at student confidence rating. Ang panalong prototype — itinalagang M9-IS — ay gumamit ng 3-layer drop-stitch core na may full-length na 0.5 mm EVA deck pad at pinalakas na bamboo stringer. Binigyan ito ng rating ng mga instructor na 8.7/10 kumpara sa 7.4/10 para sa epoxy board. Nagorder si Brendan ng 60 unit noong Marso 2023.',
             },
             {
               title: 'Hakbang 2 - Commercial Durability Testing sa Kundisyon ng School',
               detail:
-                'Nagkasundo sina Brendan at Afarer sa 4-buwang pilot sa lokasyon ng Surfers Paradise gamit ang 20 prototype board na sinailalim sa 1,200 rental cycle bawat isa. Bawat board ay nagamit nang average na 14 beses kada linggo ng mga baguhang estudyante (60–90 kg). Sinubaybayan ng team ng Afarer ang 6 failure metric: integridad ng seam, valve leakage, pagkadikit ng deck pad, UV discoloration, rail abrasion, at integridad ng fin-box. Sa ika-3 buwan, 3 board ang nagkaroon ng pagtitiklop ng deck pad sa nose contact point — muling binuo ng Afarer ang adhesive gamit ang heat-activated polyurethane film at pinalitan ang apektadong board. Pagsapit ng Hunyo 2023, walang naitalang structural failure ang pilot at 97.3% availability rate.',
+                'Nagkasundo sina Brendan at OLagoon sa 4-buwang pilot sa lokasyon ng Surfers Paradise gamit ang 20 prototype board na sinailalim sa 1,200 rental cycle bawat isa. Bawat board ay nagamit nang average na 14 beses kada linggo ng mga baguhang estudyante (60–90 kg). Sinubaybayan ng team ng OLagoon ang 6 failure metric: integridad ng seam, valve leakage, pagkadikit ng deck pad, UV discoloration, rail abrasion, at integridad ng fin-box. Sa ika-3 buwan, 3 board ang nagkaroon ng pagtitiklop ng deck pad sa nose contact point — muling binuo ng OLagoon ang adhesive gamit ang heat-activated polyurethane film at pinalitan ang apektadong board. Pagsapit ng Hunyo 2023, walang naitalang structural failure ang pilot at 97.3% availability rate.',
             },
             {
               title: 'Hakbang 3 - Buong Fleet Rollout, Training, at Storage Infrastructure',
               detail:
-                'Naglagay si Brendan ng pangalawang PO para sa 50 karagdagang M9-IS board noong Hulyo 2023, na nagdala sa kanyang inflatable fleet sa 70 unit (58% ng kabuuan). Nagpadala ang logistics team ng Afarer ng mga board sa collapsible na 32-L backpack na nagbawas ng storage volume ng 80% kumpara sa mga hardboard — mahalagang bentahe dahil sa 65 m² storage shed ni Brendan sa Burleigh Heads. Gumawa ang Afarer ng 14-minutong training video para sa 22 instructor ni Brendan na sumasaklaw sa tamang inflation pressure (15 PSI para sa surfing, 18 PSI para sa flatwater), protocol sa pagbanlaw ng saltwater, at 5-point na pre-lesson inspection checklist. Ang buong fleet ay naideploy pagsapit ng 1 Setyembre 2023, simula ng spring season sa Australia.',
+                'Naglagay si Brendan ng pangalawang PO para sa 50 karagdagang M9-IS board noong Hulyo 2023, na nagdala sa kanyang inflatable fleet sa 70 unit (58% ng kabuuan). Nagpadala ang logistics team ng OLagoon ng mga board sa collapsible na 32-L backpack na nagbawas ng storage volume ng 80% kumpara sa mga hardboard — mahalagang bentahe dahil sa 65 m² storage shed ni Brendan sa Burleigh Heads. Gumawa ang OLagoon ng 14-minutong training video para sa 22 instructor ni Brendan na sumasaklaw sa tamang inflation pressure (15 PSI para sa surfing, 18 PSI para sa flatwater), protocol sa pagbanlaw ng saltwater, at 5-point na pre-lesson inspection checklist. Ang buong fleet ay naideploy pagsapit ng 1 Setyembre 2023, simula ng spring season sa Australia.',
             },
             {
               title: 'Hakbang 4 - Pagsukat ng Operational Impact at Cost-Benefit Analysis',
@@ -796,17 +796,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Currency-Hedged Sourcing at Cost Modeling',
               detail:
-                'Nagtrabaho ang finance team ng Afarer kay Thabo mula Oktubre hanggang Disyembre 2022 upang buuin ang purchase agreement na nakadenominate sa South African Rand (ZAR) na may 6-buwang fixed exchange rate clause sa R17.80/USD, na nagpoprotekta sa kanya sa pagbabago ng ZAR na umabot sa 19.20/USD noong Hulyo 2022. Natukoy ng Afarer ang isang pabrika sa Shenzhen na kayang gumawa ng dual-layer Fusion PVC board na may 5-taong UV warranty sa landed cost na R3,100 kada unit (kabilang ang 22% import duty, logistics, at customs brokerage). Ang retail price ni Thabo na R7,200 ay nagbigay sa kanya ng 56.9% gross margin — malaking lampas sa kanyang 22% average para sa mga branded board.',
+                'Nagtrabaho ang finance team ng OLagoon kay Thabo mula Oktubre hanggang Disyembre 2022 upang buuin ang purchase agreement na nakadenominate sa South African Rand (ZAR) na may 6-buwang fixed exchange rate clause sa R17.80/USD, na nagpoprotekta sa kanya sa pagbabago ng ZAR na umabot sa 19.20/USD noong Hulyo 2022. Natukoy ng OLagoon ang isang pabrika sa Shenzhen na kayang gumawa ng dual-layer Fusion PVC board na may 5-taong UV warranty sa landed cost na R3,100 kada unit (kabilang ang 22% import duty, logistics, at customs brokerage). Ang retail price ni Thabo na R7,200 ay nagbigay sa kanya ng 56.9% gross margin — malaking lampas sa kanyang 22% average para sa mga branded board.',
             },
             {
               title: 'Hakbang 2 - Design na Inspirasyon ng Cape Town at Cultural Branding',
               detail:
-                "Nagtulungan ang mga graphic designer ng Afarer sa lokal na illustrator ng Cape Town na si Mbali Dlamini upang lumikha ng 3 custom deck design: 'Seal Island' (may tampok na Cape fur seal), 'Chapman's Peak' (silhouette ng bundok), at 'Boulder's Beach' (African penguin). Bawat disenyo ay gumamit ng 6-color heat-transfer printing na may UV-resistant na ink na sinubukan sa 500+ oras ng pagkakalantad sa araw. Ang mga board ay may natatanging feature para sa South African market: pinalakas na tie-down system sa nose para sa dry bag (sikat sa maraming araw na paddle sa kahabaan ng Skeleton Coast hanggang Durban). Naglunsad si Thabo ng website (kalkbaysurfco.co.za) sa Shopify gamit ang product photography ng Afarer na kinuhanan sa Muizenberg Beach.",
+                "Nagtulungan ang mga graphic designer ng OLagoon sa lokal na illustrator ng Cape Town na si Mbali Dlamini upang lumikha ng 3 custom deck design: 'Seal Island' (may tampok na Cape fur seal), 'Chapman's Peak' (silhouette ng bundok), at 'Boulder's Beach' (African penguin). Bawat disenyo ay gumamit ng 6-color heat-transfer printing na may UV-resistant na ink na sinubukan sa 500+ oras ng pagkakalantad sa araw. Ang mga board ay may natatanging feature para sa South African market: pinalakas na tie-down system sa nose para sa dry bag (sikat sa maraming araw na paddle sa kahabaan ng Skeleton Coast hanggang Durban). Naglunsad si Thabo ng website (kalkbaysurfco.co.za) sa Shopify gamit ang product photography ng OLagoon na kinuhanan sa Muizenberg Beach.",
             },
             {
               title: 'Hakbang 3 - Sample Production, Quality Testing, at Certification',
               detail:
-                'Naglabas ang Afarer ng 6 sample bawat SKU noong Enero 2023. Nagsagawa sina Thabo at dalawang lokal na surfboard shaper (may pinagsamang 50+ taon ng karanasan) ng destructive testing: bawat board ay pinaga hanggang 25 PSI (125% ng rated pressure) at hinawakan sa loob ng 72 oras — pumasa ang lahat ng sample na may mas mababa sa 0.5 PSI na pagbaba. Sinubukan nila ang lakas ng seam gamit ang digital pull gauge, na nangangailangan ng minimum na 120 N/cm (average ng sample ay 138 N/cm). Nagdala si Thabo ng 3 board sa 5-araw na guided paddle mula Arniston hanggang Struisbaai (120 km) noong Pebrero 2023, na nagsasabay ng mabigat na kondisyon ng tour. Humina ang fin box ng isang board pagkatapos ng 80 km — pinalitan ng Afarer ang nylon fin box ng stainless steel reinforced na bersyon.',
+                'Naglabas ang OLagoon ng 6 sample bawat SKU noong Enero 2023. Nagsagawa sina Thabo at dalawang lokal na surfboard shaper (may pinagsamang 50+ taon ng karanasan) ng destructive testing: bawat board ay pinaga hanggang 25 PSI (125% ng rated pressure) at hinawakan sa loob ng 72 oras — pumasa ang lahat ng sample na may mas mababa sa 0.5 PSI na pagbaba. Sinubukan nila ang lakas ng seam gamit ang digital pull gauge, na nangangailangan ng minimum na 120 N/cm (average ng sample ay 138 N/cm). Nagdala si Thabo ng 3 board sa 5-araw na guided paddle mula Arniston hanggang Struisbaai (120 km) noong Pebrero 2023, na nagsasabay ng mabigat na kondisyon ng tour. Humina ang fin box ng isang board pagkatapos ng 80 km — pinalitan ng OLagoon ang nylon fin box ng stainless steel reinforced na bersyon.',
             },
             {
               title: 'Hakbang 4 - Retail Launch, Tour Operator Partnership, at Reorder',
@@ -823,8 +823,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Afarer',
+    whyOLagoon: {
+      title: 'Bakit OLagoon',
       items: [
         {
           title: 'Pag-unawa sa Surf Market',
@@ -872,7 +872,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Makakabuo ba ako ng sarili kong branded inflatable SUP line?',
         answer:
-          'Oo. Nagbibigay ang Afarer ng kumpletong private label solution kabilang ang custom board design, graphics, kulay, packaging, at accessories sa ilalim ng pangalan ng iyong surf brand.',
+          'Oo. Nagbibigay ang OLagoon ng kumpletong private label solution kabilang ang custom board design, graphics, kulay, packaging, at accessories sa ilalim ng pangalan ng iyong surf brand.',
       },
       {
         question: 'Magkano ang matitipid ko sa shipping gamit ang mga inflatable board?',
@@ -882,7 +882,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Nag-aalok ba kayo ng rental-grade na produkto para sa mga surf school?',
         answer:
-          'Oo. Bumubuo ang Afarer ng matibay na produkto na idinisenyo para sa madalas na rental use na may madaling maintenance, maaasahang accessories, at cost-effective na fleet pricing.',
+          'Oo. Bumubuo ang OLagoon ng matibay na produkto na idinisenyo para sa madalas na rental use na may madaling maintenance, maaasahang accessories, at cost-effective na fleet pricing.',
       },
       {
         question: 'Pwede ko bang pagsamahin ang hardboard at inflatable product sa aking tindahan?',
@@ -904,15 +904,15 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Amazon SUP Brand Supplier | Custom Inflatable SUP Manufacturer | {SITE}',
       description:
-        'Tinutulungan ng Afarer ang mga seller sa Amazon, Walmart, at Shopify na bumuo ng naiibang SUP brand gamit ang custom inflatable paddle board, private label manufacturing, natatanging graphics, mabilis na supply chain, at suporta sa ecommerce product.',
+        'Tinutulungan ng OLagoon ang mga seller sa Amazon, Walmart, at Shopify na bumuo ng naiibang SUP brand gamit ang custom inflatable paddle board, private label manufacturing, natatanging graphics, mabilis na supply chain, at suporta sa ecommerce product.',
     },
     hero: {
       tagline: 'Product Differentiation at Mabilis na Supply™',
       title: 'Naiibang SUP Product para sa mga Ecommerce Marketplace Seller',
       subtitle:
-        'Tinutulungan ng Afarer ang mga seller sa Amazon, Walmart, at Shopify na bumuo ng naiibang SUP brand gamit ang custom inflatable paddle board, private label manufacturing, natatanging graphics, mabilis na supply chain, at suporta sa ecommerce product.',
+        'Tinutulungan ng OLagoon ang mga seller sa Amazon, Walmart, at Shopify na bumuo ng naiibang SUP brand gamit ang custom inflatable paddle board, private label manufacturing, natatanging graphics, mabilis na supply chain, at suporta sa ecommerce product.',
       image: {
-        alt: 'Paglalarawan ng mga custom na SUP board ng Afarer',
+        alt: 'Paglalarawan ng mga custom na SUP board ng OLagoon',
       },
     },
     challenge: {
@@ -1028,7 +1028,7 @@ const tl: Record<string, SolutionOverride> = {
       customer:
         'US Amazon Outdoor Seller na dati ay nagbebenta ng camping accessory, outdoor product, at fitness equipment sa pamamagitan ng Amazon at Shopify channel.',
       steps: [
-        'Tinulungan ng Afarer na tukuyin ang target customer bilang mga batang outdoor lifestyle consumer at ipinosisyon ang produkto bilang premium-looking na abot-kayang SUP na may natatanging visual identity.',
+        'Tinulungan ng OLagoon na tukuyin ang target customer bilang mga batang outdoor lifestyle consumer at ipinosisyon ang produkto bilang premium-looking na abot-kayang SUP na may natatanging visual identity.',
         "Lumikha ng custom na 10'6 Inflatable SUP na may natatanging board graphics, premium na color system, pinahusay na accessory package, at brand-focused na packaging.",
         'Naghanda ng ecommerce content strategy kabilang ang istraktura ng product image, presentasyon ng feature, at direksyon ng lifestyle visual para sa mga marketplace listing.',
         'Inilunsad na may 500 unit para sa Amazon launch, pagsubok sa advertising, at pangangalap ng customer feedback.',
@@ -1053,22 +1053,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Amazon Category Analysis at SKU Architecture',
               detail:
-                "Noong Enero 2023, nagsagawa ang ecommerce strategy team ng Afarer ng malalim na pagsusuri sa SUP category ng Amazon UK gamit ang Helium 10 at Jungle Scout. Natukoy nila na 78% ng first-time buyer ay naghahanap ng 'complete package' (board + paddle + pump + bag + leash + fin), pero 4 na brand lamang ang nag-aalok ng tunay na all-in-one kit na may premium accessory. Iminungkahi ng Afarer ang 3-SKU lineup: 'AquaStart 10'6\" Complete Kit' (£449 target na presyo), 'AquaStart 11'0\" Touring Kit' (£549), at 'AquaStart Duo' (£699, 2-board na pampamilyang package). Bawat kit ay may kasamang hand pump na may pressure gauge, 3-piece carbon-fiber paddle, coiled leash, 5\" removable US fin, at waterproof phone pouch — na nakapagpapakilala sa mga kakumpetensyang nagbebenta ng karamihan sa accessories nang hiwalay.",
+                "Noong Enero 2023, nagsagawa ang ecommerce strategy team ng OLagoon ng malalim na pagsusuri sa SUP category ng Amazon UK gamit ang Helium 10 at Jungle Scout. Natukoy nila na 78% ng first-time buyer ay naghahanap ng 'complete package' (board + paddle + pump + bag + leash + fin), pero 4 na brand lamang ang nag-aalok ng tunay na all-in-one kit na may premium accessory. Iminungkahi ng OLagoon ang 3-SKU lineup: 'AquaStart 10'6\" Complete Kit' (£449 target na presyo), 'AquaStart 11'0\" Touring Kit' (£549), at 'AquaStart Duo' (£699, 2-board na pampamilyang package). Bawat kit ay may kasamang hand pump na may pressure gauge, 3-piece carbon-fiber paddle, coiled leash, 5\" removable US fin, at waterproof phone pouch — na nakapagpapakilala sa mga kakumpetensyang nagbebenta ng karamihan sa accessories nang hiwalay.",
             },
             {
               title: 'Hakbang 2 - Packaging Design para sa Ecommerce at FBA Compliance',
               detail:
-                'Nagdisenyo ang Afarer ng retail-ready na package na kasya sa dimensional limit ng FBA ng Amazon: ang box ng 10\'6" board ay sukat 34" × 18" × 14" at bigat 14.2 kg — mas mababa sa 15 kg na threshold ng Amazon para iwasan ang heavy-bulky fee. May kasamang die-cut handle ang box sa magkabilang panig para sa warehouse staff. Sa loob, ang board ay vacuum-sealed sa 0.1-mm PE bag, kasama ang mga accessory sa custom-cut na EVA foam insert. Bawat accessory ay naka-individual poly-bag na may branding ng AquaStart. Kasama sa package ang \'Quick Start Guide\' (QR code na nag-uugnay sa 6-minutong unboxing video). Nabawasan ng packaging engineer ng Afarer ang kabuuang box volume ng 22% kumpara sa paunang disenyo, na nakatipid kay Priya ng £1.80 kada unit sa FBA fulfillment fee.',
+                'Nagdisenyo ang OLagoon ng retail-ready na package na kasya sa dimensional limit ng FBA ng Amazon: ang box ng 10\'6" board ay sukat 34" × 18" × 14" at bigat 14.2 kg — mas mababa sa 15 kg na threshold ng Amazon para iwasan ang heavy-bulky fee. May kasamang die-cut handle ang box sa magkabilang panig para sa warehouse staff. Sa loob, ang board ay vacuum-sealed sa 0.1-mm PE bag, kasama ang mga accessory sa custom-cut na EVA foam insert. Bawat accessory ay naka-individual poly-bag na may branding ng AquaStart. Kasama sa package ang \'Quick Start Guide\' (QR code na nag-uugnay sa 6-minutong unboxing video). Nabawasan ng packaging engineer ng OLagoon ang kabuuang box volume ng 22% kumpara sa paunang disenyo, na nakatipid kay Priya ng £1.80 kada unit sa FBA fulfillment fee.',
             },
             {
               title: 'Hakbang 3 - Amazon Listing Optimization, A+ Content, at Launch Strategy',
               detail:
-                "Gumawa ang content studio ng Afarer ng 14 A+ module image, 6 lifestyle photo na kinuhanan sa Lake Windermere, 90-segundong brand story video, at 360-degree product viewer. Sumulat sila ng keyword-optimized na bullet point na nagta-target sa 237 long-tail keyword na natukoy sa Amazon search term report. Ang launch strategy ay nag-deploy ng 21-araw na 'Vine' program (30 unit sa 50% discount) para bumuo ng paunang review velocity, na sinusundan ng £2,000 Amazon PPC campaign (Sponsored Products + Sponsored Brand) na may pang-araw-araw na badyet na nahati sa 3 SKU. Inilunsad ang campaign noong 15 Abril 2023. Pagsapit ng ika-45 araw, may 24 review na ang AquaStart na may average na 4.6 star, at naabot ng 10'6\" kit ang #17 sa SUP category.",
+                "Gumawa ang content studio ng OLagoon ng 14 A+ module image, 6 lifestyle photo na kinuhanan sa Lake Windermere, 90-segundong brand story video, at 360-degree product viewer. Sumulat sila ng keyword-optimized na bullet point na nagta-target sa 237 long-tail keyword na natukoy sa Amazon search term report. Ang launch strategy ay nag-deploy ng 21-araw na 'Vine' program (30 unit sa 50% discount) para bumuo ng paunang review velocity, na sinusundan ng £2,000 Amazon PPC campaign (Sponsored Products + Sponsored Brand) na may pang-araw-araw na badyet na nahati sa 3 SKU. Inilunsad ang campaign noong 15 Abril 2023. Pagsapit ng ika-45 araw, may 24 review na ang AquaStart na may average na 4.6 star, at naabot ng 10'6\" kit ang #17 sa SUP category.",
             },
             {
               title: 'Hakbang 4 - Inventory Management, Demand Forecasting, at Pangalawang Production Run',
               detail:
-                'Bumuo ang demand planning team ng Afarer ng 6-buwang forecast model gamit ang historical data ng Amazon, Google Trends (search volume ng paddleboarding sa UK), at seasonal factor. Hinulaan ng model ang sell-through na 410 unit pagsapit ng Setyembre 2023. Ang unang production run ni Priya ay 500 unit (300 × 10\'6", 120 × 11\'0", 80 × Duo), na ipinadala sa mga Amazon FBA center sa Manchester at Doncaster. Ang aktwal na sell-through pagsapit ng 30 Setyembre ay 386 unit — nasa loob ng 6% ng forecast. Nagorder ng pangalawang production run na 700 unit noong Oktubre 2023 na may 2 mahalagang pagbabago: pinalakas na carry bag handle (9 ulat ng pagkasira mula sa unang run) at in-upgrade na stainless steel D-ring (pagkatapos ng 4 reklamo sa kalawang). Pagsapit ng Disyembre 2023, umabot sa £298,000 ang kita ng AquaStart UK, at hawak ng 10\'6" kit ang #12 ranking sa Amazon UK.',
+                'Bumuo ang demand planning team ng OLagoon ng 6-buwang forecast model gamit ang historical data ng Amazon, Google Trends (search volume ng paddleboarding sa UK), at seasonal factor. Hinulaan ng model ang sell-through na 410 unit pagsapit ng Setyembre 2023. Ang unang production run ni Priya ay 500 unit (300 × 10\'6", 120 × 11\'0", 80 × Duo), na ipinadala sa mga Amazon FBA center sa Manchester at Doncaster. Ang aktwal na sell-through pagsapit ng 30 Setyembre ay 386 unit — nasa loob ng 6% ng forecast. Nagorder ng pangalawang production run na 700 unit noong Oktubre 2023 na may 2 mahalagang pagbabago: pinalakas na carry bag handle (9 ulat ng pagkasira mula sa unang run) at in-upgrade na stainless steel D-ring (pagkatapos ng 4 reklamo sa kalawang). Pagsapit ng Disyembre 2023, umabot sa £298,000 ang kita ng AquaStart UK, at hawak ng 10\'6" kit ang #12 ranking sa Amazon UK.',
             },
           ],
           results: [
@@ -1090,22 +1090,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Recycled Material Sourcing at Supply Chain Certification',
               detail:
-                "Ginugol ng Afarer ang 14 linggo sa pagitan ng Enero at Abril 2023 sa pagbuo ng recycled PVC laminate gamit ang post-industrial fabric waste mula sa sarili nilang pabrika. Ang material — branding na 'EcoShell RPVC' — ay may 63% recycled content ayon sa timbang at nakamit ang tensile strength na 3,200 N/5 cm (kumpara sa 3,500 N para sa virgin PVC). Nakaseguro ang Afarer ng GRS (Global Recycled Standard) certification para sa material at nag-ayos ng third-party life cycle assessment na nagpapakita ng 37% pagbaba ng CO₂e bawat board kumpara sa virgin PVC board. Kinuha ng team ni Felix ang 50,000 recycled PET bottle mula sa recycling cooperative sa Berlin para gawin ang carry bag fabric at deck pad EVA (30% recycled content). Ang kabuuang premium ng sustainable material ay €18 bawat board, na isinama ng Afarer sa kanilang margin para matulungan ang UrbanPulse na maabot ang target retail price.",
+                "Ginugol ng OLagoon ang 14 linggo sa pagitan ng Enero at Abril 2023 sa pagbuo ng recycled PVC laminate gamit ang post-industrial fabric waste mula sa sarili nilang pabrika. Ang material — branding na 'EcoShell RPVC' — ay may 63% recycled content ayon sa timbang at nakamit ang tensile strength na 3,200 N/5 cm (kumpara sa 3,500 N para sa virgin PVC). Nakaseguro ang OLagoon ng GRS (Global Recycled Standard) certification para sa material at nag-ayos ng third-party life cycle assessment na nagpapakita ng 37% pagbaba ng CO₂e bawat board kumpara sa virgin PVC board. Kinuha ng team ni Felix ang 50,000 recycled PET bottle mula sa recycling cooperative sa Berlin para gawin ang carry bag fabric at deck pad EVA (30% recycled content). Ang kabuuang premium ng sustainable material ay €18 bawat board, na isinama ng OLagoon sa kanilang margin para matulungan ang UrbanPulse na maabot ang target retail price.",
             },
             {
               title: 'Hakbang 2 - Carbon-Neutral Fulfillment at DTC Logistics Architecture',
               detail:
-                'Nagtulungan ang logistics team ng Afarer sa DHL GoGreen Climate Neutral para sa UrbanPulse account, na nag-ooffset ng 1.8 kg CO₂ bawat board na naipapadala (sakop ang sea freight mula China hanggang Hamburg at last-mile delivery). Nagtatag sila ng dedicated na 200 m² fulfillment zone sa warehouse ng UrbanPulse sa Cologne na may custom racking para sa inflatable SUP box. Bawat shipment ay may kasamang pre-paid return label para sa cardboard box (naka-print sa 100% recycled FSC-certified cardboard na may soy-based ink). Tinanggal ng packaging design ng Afarer ang lahat ng single-use plastic: nakabalot ang board sa compostable PBAT/PLA film, ang mga accessory ay naka-secure ng paper tape, at ang user manual ay naka-print sa seed paper (itanim pagkatapos basahin).',
+                'Nagtulungan ang logistics team ng OLagoon sa DHL GoGreen Climate Neutral para sa UrbanPulse account, na nag-ooffset ng 1.8 kg CO₂ bawat board na naipapadala (sakop ang sea freight mula China hanggang Hamburg at last-mile delivery). Nagtatag sila ng dedicated na 200 m² fulfillment zone sa warehouse ng UrbanPulse sa Cologne na may custom racking para sa inflatable SUP box. Bawat shipment ay may kasamang pre-paid return label para sa cardboard box (naka-print sa 100% recycled FSC-certified cardboard na may soy-based ink). Tinanggal ng packaging design ng OLagoon ang lahat ng single-use plastic: nakabalot ang board sa compostable PBAT/PLA film, ang mga accessory ay naka-secure ng paper tape, at ang user manual ay naka-print sa seed paper (itanim pagkatapos basahin).',
             },
             {
               title: 'Hakbang 3 - Shopify Integration, Pre-Launch Content, at Influencer Strategy',
               detail:
-                "Isinama ng ecommerce team ng Afarer ang Shopify store ng UrbanPulse sa custom product configurator na nagpapahintulot sa customer na piliin ang kulay ng board (3 opsyon), kulay ng paddle (2 opsyon), at magdagdag ng 'sustainability badge' na may serial number ng board at ang eksaktong dami ng recycled content (sa gramo). Gumawa ang Afarer ng 6 short-form video asset (15–45 segundo) na nagtatampok sa mga SUP influencer sa Berlin na 'GreenPaddle' at 'ElisePaddlesBerlin' (pinagsamang 72,000 follower). Iniwanan nila ng diin ang 'urban paddleboarding' sa mga canal at lawa ng Berlin, na ipiniposisyon ang SUP bilang weekend activity ng mga naninirahan sa lungsod. Ang pre-launch email campaign (ipinadala sa 12,000 subscriber ng UrbanPulse) ay nakamit ang 34% open rate at 2,100 click sa product page.",
+                "Isinama ng ecommerce team ng OLagoon ang Shopify store ng UrbanPulse sa custom product configurator na nagpapahintulot sa customer na piliin ang kulay ng board (3 opsyon), kulay ng paddle (2 opsyon), at magdagdag ng 'sustainability badge' na may serial number ng board at ang eksaktong dami ng recycled content (sa gramo). Gumawa ang OLagoon ng 6 short-form video asset (15–45 segundo) na nagtatampok sa mga SUP influencer sa Berlin na 'GreenPaddle' at 'ElisePaddlesBerlin' (pinagsamang 72,000 follower). Iniwanan nila ng diin ang 'urban paddleboarding' sa mga canal at lawa ng Berlin, na ipiniposisyon ang SUP bilang weekend activity ng mga naninirahan sa lungsod. Ang pre-launch email campaign (ipinadala sa 12,000 subscriber ng UrbanPulse) ay nakamit ang 34% open rate at 2,100 click sa product page.",
             },
             {
               title: 'Hakbang 4 - Launch, Channel Expansion, at Reorder Decision',
               detail:
-                "Inilunsad ang UrbanPulse SUP collection noong 1 Hunyo 2023 na may 500 unit (350 all-around, 150 touring). Ang sell-through sa unang linggo ay 112 unit (22.4%). Inayos ng mga demand planner ng Afarer ang PPC strategy sa Google Shopping at Meta, na inilipat ang badyet sa high-intent keyword tulad ng 'nachhaltiges SUP kaufen' (sustainable SUP buy). Pagsapit ng ika-8 linggo, ang all-around board ang #2 best-selling SUP sa German Shopify DTC market (sunod sa direct sales ng Fanatic). Noong Agosto 2023, nakaseguro si Felix ng partnership sa SportScheck, na naglagay ng 80 board sa 8 store na may dedicated na 'Sustainable Sports' endcap. Pagsapit ng Disyembre 2023, umabot sa €487,000 ang kabuuang kita, kung saan 71% ng benta ay mula sa all-around board. Nagorder ng pangalawang production run na 800 unit para sa Pebrero 2024.",
+                "Inilunsad ang UrbanPulse SUP collection noong 1 Hunyo 2023 na may 500 unit (350 all-around, 150 touring). Ang sell-through sa unang linggo ay 112 unit (22.4%). Inayos ng mga demand planner ng OLagoon ang PPC strategy sa Google Shopping at Meta, na inilipat ang badyet sa high-intent keyword tulad ng 'nachhaltiges SUP kaufen' (sustainable SUP buy). Pagsapit ng ika-8 linggo, ang all-around board ang #2 best-selling SUP sa German Shopify DTC market (sunod sa direct sales ng Fanatic). Noong Agosto 2023, nakaseguro si Felix ng partnership sa SportScheck, na naglagay ng 80 board sa 8 store na may dedicated na 'Sustainable Sports' endcap. Pagsapit ng Disyembre 2023, umabot sa €487,000 ang kabuuang kita, kung saan 71% ng benta ay mula sa all-around board. Nagorder ng pangalawang production run na 800 unit para sa Pebrero 2024.",
             },
           ],
           results: [
@@ -1117,8 +1117,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Afarer',
+    whyOLagoon: {
+      title: 'Bakit OLagoon',
       items: [
         {
           title: 'Product Differentiation',
@@ -1151,7 +1151,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Paano ko maidifferentiate ang aking SUP product sa Amazon?',
         answer:
-          'Tinutulungan ang Afarer lumikha ng natatanging board graphics, custom color system, pinahusay na accessory package, at brand-focused na packaging na nagpapamukod-tangi sa iyong produkto mula sa magkamukhang listing ng kakumpetensya.',
+          'Tinutulungan ang OLagoon lumikha ng natatanging board graphics, custom color system, pinahusay na accessory package, at brand-focused na packaging na nagpapamukod-tangi sa iyong produkto mula sa magkamukhang listing ng kakumpetensya.',
       },
       {
         question: 'Ano ang minimum order quantity para sa mga marketplace seller?',
@@ -1161,7 +1161,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Matutulungan ba ninyo ako sa Amazon listing content at image?',
         answer:
-          'Oo. Nagbibigay ang Afarer ng ecommerce visual support kabilang ang hero image concept, feature image, direksyon sa lifestyle photography, at organisasyon ng product information.',
+          'Oo. Nagbibigay ang OLagoon ng ecommerce visual support kabilang ang hero image concept, feature image, direksyon sa lifestyle photography, at organisasyon ng product information.',
       },
       {
         question: 'Gaano kayabilis na kayang magproduce at magpadala ng aking custom SUP order?',
@@ -1176,7 +1176,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Matutulungan ba ninyo akong lumawak mula sa isang SUP product tungo sa buong brand?',
         answer:
-          'Oo. Sinusuportahan ng Afarer ang kumpletong pagbuo ng product portfolio kabilang ang maramihang SUP model at outdoor accessory para sa pagpapalawak ng brand.',
+          'Oo. Sinusuportahan ng OLagoon ang kumpletong pagbuo ng product portfolio kabilang ang maramihang SUP model at outdoor accessory para sa pagpapalawak ng brand.',
       },
     ],
     cta: {
@@ -1193,15 +1193,15 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Fishing SUP Manufacturer | Custom Inflatable Fishing Paddle Board | {SITE}',
       description:
-        'Tinutulungan ng Afarer ang mga fishing gear brand na lumikha ng custom na Fishing SUP product gamit ang disenyo na may mataas na stability, rod holder system, cooler mount, D-ring accessory, at private label manufacturing solution.',
+        'Tinutulungan ng OLagoon ang mga fishing gear brand na lumikha ng custom na Fishing SUP product gamit ang disenyo na may mataas na stability, rod holder system, cooler mount, D-ring accessory, at private label manufacturing solution.',
     },
     hero: {
       tagline: 'Lumikha ng Iyong Fishing SUP Brand™',
       title: 'Custom Fishing SUP Manufacturing para sa mga Fishing Gear Brand',
       subtitle:
-        'Tinutulungan ng Afarer ang mga fishing gear brand na lumikha ng custom na Fishing SUP product gamit ang disenyo na may mataas na stability, rod holder system, cooler mount, D-ring accessory, at private label manufacturing solution.',
+        'Tinutulungan ng OLagoon ang mga fishing gear brand na lumikha ng custom na Fishing SUP product gamit ang disenyo na may mataas na stability, rod holder system, cooler mount, D-ring accessory, at private label manufacturing solution.',
       image: {
-        alt: 'Paglalarawan ng mga custom na SUP board ng Afarer',
+        alt: 'Paglalarawan ng mga custom na SUP board ng OLagoon',
       },
     },
     challenge: {
@@ -1304,7 +1304,7 @@ const tl: Record<string, SolutionOverride> = {
       customer:
         'North American Fishing Equipment Brand na orihinal na nagbebenta ng fishing rod, tackle box, at outdoor fishing accessory sa matapat na komunidad ng mga bihasang nangangisda.',
       steps: [
-        "Sinuri ng Afarer ang mga target user at tinukoy ang product positioning bilang 'Propesyonal na Inflatable Fishing Platform Para sa mga Seryosong Nangangisda' na umaayon sa reputasyon ng brand.",
+        "Sinuri ng OLagoon ang mga target user at tinukoy ang product positioning bilang 'Propesyonal na Inflatable Fishing Platform Para sa mga Seryosong Nangangisda' na umaayon sa reputasyon ng brand.",
         "Lumikha ng 11' Fishing SUP Model na may extra-wide na standing platform, mataas na load capacity, pinalakas na Drop Stitch structure, maramihang D-ring system, at compatibility sa rod holder.",
         'Bumuo ng fishing-focused na graphics, outdoor color system, at propesyonal na packaging na umaakit sa mga bihasang nangangisda.',
         'Inilunsad na may 500 unit na ipinamahagi sa pamamagitan ng mga umiiral na fishing customer, ecommerce store, at outdoor dealer network.',
@@ -1329,22 +1329,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Co-Design kasama ang mga Propesyonal na Nangangisda at Ergonomic Analysis',
               detail:
-                'Nagpadala ang Afarer ng 3-taong product development team sa Gothenburg noong Marso 2023 para sa 10-araw na co-design workshop. Nagtrabaho sila sa 8 propesyonal at semi-propesyonal na nangangisda (kabilang ang Swedish sport fishing champion na si Lars Nilsson) na bawat isa ay may 15+ taon ng karanasan sa fishing SUP. Isinagawa ng team ang motion-capture analysis ng kilos ng paghahagis at pagbubuot ng linya sa prototype board para matukoy ang pinaka-optimal na posisyon ng pagtayo. Mga pangunahing natuklasan: ang ideyal na anggulo ng rod holder ay 22 degree mula sa patayo (kumpara sa 15 degree sa mga produktong kakumpetensya), ang tackle storage area ay kailangang nasa loob ng 40 cm abot ng paddler, at ang board ay kailangang may minimum na 34" lapad para sa matatayong pagtayo sa 30 km/h na kondisyon ng hangin. Ang workshop ay naglabas ng 47 partikular na design requirement, kung saan 42 ay isinama sa huling disenyo.',
+                'Nagpadala ang OLagoon ng 3-taong product development team sa Gothenburg noong Marso 2023 para sa 10-araw na co-design workshop. Nagtrabaho sila sa 8 propesyonal at semi-propesyonal na nangangisda (kabilang ang Swedish sport fishing champion na si Lars Nilsson) na bawat isa ay may 15+ taon ng karanasan sa fishing SUP. Isinagawa ng team ang motion-capture analysis ng kilos ng paghahagis at pagbubuot ng linya sa prototype board para matukoy ang pinaka-optimal na posisyon ng pagtayo. Mga pangunahing natuklasan: ang ideyal na anggulo ng rod holder ay 22 degree mula sa patayo (kumpara sa 15 degree sa mga produktong kakumpetensya), ang tackle storage area ay kailangang nasa loob ng 40 cm abot ng paddler, at ang board ay kailangang may minimum na 34" lapad para sa matatayong pagtayo sa 30 km/h na kondisyon ng hangin. Ang workshop ay naglabas ng 47 partikular na design requirement, kung saan 42 ay isinama sa huling disenyo.',
             },
             {
               title: 'Hakbang 2 - Integrated Fishing System Engineering at Prototype Testing',
               detail:
-                "Bumuo ang mga industrial designer ng Afarer ng modular na 'Fishing Deck' system: removable na aluminum rail system (1.2 m haba) na nakakabit sa pamamagitan ng 12 stainless steel insert na nasa loob ng drop-stitch core ng board. Tinatanggap ng rail ang 4 rod holder (adjustable na anggulo, quick-release), malaking tackle crate (32 L, waterproof IP67 rating, removable), net holster, at cup holder para sa thermos (kinakailangan ng Nordic market). Tatlong prototype board ang ginawa noong Mayo 2023 at sinubukan sa loob ng 4 linggo sa 6 lawa ng Sweden (Vänern, Vättern, Mälaren, at 3 mas maliit na lawa sa Småland). Ang test program ay nagtala ng 340 oras ng aktibong oras ng pangingisda. Isang prototype ang nagkaroon ng bahagyang baluktot pagkatapos ng 3 araw na tuloy-tuloy na pagkakalantad sa araw sa 26°C na panahon — dinagdagan ng Afarer ang kapal ng deck PVC mula 0.9 mm tungong 1.2 mm para sa lahat ng production unit.",
+                "Bumuo ang mga industrial designer ng OLagoon ng modular na 'Fishing Deck' system: removable na aluminum rail system (1.2 m haba) na nakakabit sa pamamagitan ng 12 stainless steel insert na nasa loob ng drop-stitch core ng board. Tinatanggap ng rail ang 4 rod holder (adjustable na anggulo, quick-release), malaking tackle crate (32 L, waterproof IP67 rating, removable), net holster, at cup holder para sa thermos (kinakailangan ng Nordic market). Tatlong prototype board ang ginawa noong Mayo 2023 at sinubukan sa loob ng 4 linggo sa 6 lawa ng Sweden (Vänern, Vättern, Mälaren, at 3 mas maliit na lawa sa Småland). Ang test program ay nagtala ng 340 oras ng aktibong oras ng pangingisda. Isang prototype ang nagkaroon ng bahagyang baluktot pagkatapos ng 3 araw na tuloy-tuloy na pagkakalantad sa araw sa 26°C na panahon — dinagdagan ng OLagoon ang kapal ng deck PVC mula 0.9 mm tungong 1.2 mm para sa lahat ng production unit.",
             },
             {
               title: 'Hakbang 3 - Nordic Retail Packaging, Catalog Integration, at Pre-Sell',
               detail:
-                "Nagdisenyo ang Afarer ng matibay na packaging na may bilingual (Swedish/Finnish) na label at 'Fishing SUP Starter Kit' na interior layout: board, fishing rail na may 4 rod holder, tackle crate, 3-piece paddle, dual-action pump, backpack, at 32-pahinang 'Fishing from SUP' na gabay sa Swedish, Norwegian, at Finnish. Naglunsad ang Nordic Angler ng pre-sell sa Swedish Sports Fishing Trade Fair sa Stockholm (Agosto 2023), at nakaseguro ng tuluy-tuloy na order mula sa 34 retailer para sa 860 unit. Nag-ayos si Erik ng exclusive na 12-buwang Nordic distribution deal sa Afarer, na nagsisiguro na walang kakumpetensyang private-label fishing SUP na ibebenta sa mga kakumpetensya ng Nordic Angler sa loob ng panahong iyon.",
+                "Nagdisenyo ang OLagoon ng matibay na packaging na may bilingual (Swedish/Finnish) na label at 'Fishing SUP Starter Kit' na interior layout: board, fishing rail na may 4 rod holder, tackle crate, 3-piece paddle, dual-action pump, backpack, at 32-pahinang 'Fishing from SUP' na gabay sa Swedish, Norwegian, at Finnish. Naglunsad ang Nordic Angler ng pre-sell sa Swedish Sports Fishing Trade Fair sa Stockholm (Agosto 2023), at nakaseguro ng tuluy-tuloy na order mula sa 34 retailer para sa 860 unit. Nag-ayos si Erik ng exclusive na 12-buwang Nordic distribution deal sa OLagoon, na nagsisiguro na walang kakumpetensyang private-label fishing SUP na ibebenta sa mga kakumpetensya ng Nordic Angler sa loob ng panahong iyon.",
             },
             {
               title: 'Hakbang 4 - Produksyon, Seasonal Timing, at Unang-Taong Sell-Through',
               detail:
-                'Ang produksyon ng 1,200 unit (700 Lake Angler, 500 Expedition Angler) ay tumakbo mula Setyembre hanggang Nobyembre 2023 sa facility ng Afarer sa Zhongshan. Umalis ang shipment sa Ningbo noong 18 Nobyembre 2023 at dumating sa Port of Gothenburg noong 18 Disyembre 2023 — perpektong timing para sa spring purchasing ng mga retailer. Ipamahagi ng Nordic Angler ang 760 unit sa retail shelf pagsapit ng 1 Marso 2024, at ang natitirang 440 unit ay nasa sarili nilang warehouse para sa direct fulfillment. Pagsapit ng 31 Mayo 2024, 980 unit na ang nabenta (81.7% ng paunang run). Naging #1 best-selling fishing SUP ang Lake Angler board sa XXL Sweden sa loob ng 90 araw. Naglagay si Erik ng reorder para sa 1,800 unit noong Hunyo 2024 na may 3 pagpapabuti sa disenyo: mas makapal na carry bag, tool-less rail adjustment knob, at GPS-tracker mounting pocket.',
+                'Ang produksyon ng 1,200 unit (700 Lake Angler, 500 Expedition Angler) ay tumakbo mula Setyembre hanggang Nobyembre 2023 sa facility ng OLagoon sa Zhongshan. Umalis ang shipment sa Ningbo noong 18 Nobyembre 2023 at dumating sa Port of Gothenburg noong 18 Disyembre 2023 — perpektong timing para sa spring purchasing ng mga retailer. Ipamahagi ng Nordic Angler ang 760 unit sa retail shelf pagsapit ng 1 Marso 2024, at ang natitirang 440 unit ay nasa sarili nilang warehouse para sa direct fulfillment. Pagsapit ng 31 Mayo 2024, 980 unit na ang nabenta (81.7% ng paunang run). Naging #1 best-selling fishing SUP ang Lake Angler board sa XXL Sweden sa loob ng 90 araw. Naglagay si Erik ng reorder para sa 1,800 unit noong Hunyo 2024 na may 3 pagpapabuti sa disenyo: mas makapal na carry bag, tool-less rail adjustment knob, at GPS-tracker mounting pocket.',
             },
           ],
           results: [
@@ -1366,22 +1366,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Guide-Centric na Product Specification at Pagsusuri sa Feedback ng Customer',
               detail:
-                'Nakapanayam ang product team ng Afarer sa 14 fishing guide sa US noong Marso 2023 (mula Texas, Florida, Michigan, at Oregon) upang lumikha ng pinagsamang specification. Ang top 3 na hiniling na feature ay: (1) nakataas na casting platform sa nose (8" taas) para sa mas mahusay na visibility at back-casting clearance, (2) silent-mounting system para sa pagkabit ng trolling motor (55-lb thrust min., transom mount), at (3) \'yak-attack\' compatible na gear track system. Pinilit din ni Dwayne ang maximum weight capacity na 450 lbs para sa pagdadala ng dalawang nangangisda (guide at customer). Ang resultang spec sheet ay 18 pahina, kabilang ang structural Finite Element Analysis (FEA) report mula sa engineering team ng Afarer na nagpapakita na kaya ng board na suportahan ang 250-lb point load sa mid-span na may mas mababa sa 1.5" deflection.',
+                'Nakapanayam ang product team ng OLagoon sa 14 fishing guide sa US noong Marso 2023 (mula Texas, Florida, Michigan, at Oregon) upang lumikha ng pinagsamang specification. Ang top 3 na hiniling na feature ay: (1) nakataas na casting platform sa nose (8" taas) para sa mas mahusay na visibility at back-casting clearance, (2) silent-mounting system para sa pagkabit ng trolling motor (55-lb thrust min., transom mount), at (3) \'yak-attack\' compatible na gear track system. Pinilit din ni Dwayne ang maximum weight capacity na 450 lbs para sa pagdadala ng dalawang nangangisda (guide at customer). Ang resultang spec sheet ay 18 pahina, kabilang ang structural Finite Element Analysis (FEA) report mula sa engineering team ng OLagoon na nagpapakita na kaya ng board na suportahan ang 250-lb point load sa mid-span na may mas mababa sa 1.5" deflection.',
             },
             {
               title: 'Hakbang 2 - Prototyping, Guide Fleet Testing, at Iteration Cycle',
               detail:
-                "Naglabas ang Afarer ng 4 prototype Guide Pro board noong Mayo 2023. Eksklusibong ginamit ni Dwayne ang mga ito sa 22 guided trip sa loob ng 6 linggo (Hunyo–Hulyo 2023), na kasama ang 54 customer. Bawat trip ay naitala sa nakasulat na feedback ng customer at video footage. Mga pangunahing natuklasan: mahusay na natanggap ang nakataas na casting platform (rating 4.8/5), pero masyadong malayo ang unaang placement ng gear track ayon sa customer — inilipat ito ng Afarer ng 6\" patungo sa dulo. Gumana ang silent trolling motor mount pero ang bigat (9 lbs) ay nagpabago sa balanse ng board — muling idinisenyo ito ng Afarer bilang 2-piece aluminum bracket na bigat 5.2 lbs. Ang pinakakaraniwang komento ng customer: 'Naramdaman kong sapat na akong matatag para tumayo at maghagis ng patok sa unang subok ko.' Pagkatapos ng 54 client trip, walang board na nagpakita ng structural issue. Ibinigay ni Dwayne ang huling aprubasyon noong Agosto 2023.",
+                "Naglabas ang OLagoon ng 4 prototype Guide Pro board noong Mayo 2023. Eksklusibong ginamit ni Dwayne ang mga ito sa 22 guided trip sa loob ng 6 linggo (Hunyo–Hulyo 2023), na kasama ang 54 customer. Bawat trip ay naitala sa nakasulat na feedback ng customer at video footage. Mga pangunahing natuklasan: mahusay na natanggap ang nakataas na casting platform (rating 4.8/5), pero masyadong malayo ang unaang placement ng gear track ayon sa customer — inilipat ito ng OLagoon ng 6\" patungo sa dulo. Gumana ang silent trolling motor mount pero ang bigat (9 lbs) ay nagpabago sa balanse ng board — muling idinisenyo ito ng OLagoon bilang 2-piece aluminum bracket na bigat 5.2 lbs. Ang pinakakaraniwang komento ng customer: 'Naramdaman kong sapat na akong matatag para tumayo at maghagis ng patok sa unang subok ko.' Pagkatapos ng 54 client trip, walang board na nagpakita ng structural issue. Ibinigay ni Dwayne ang huling aprubasyon noong Agosto 2023.",
             },
             {
               title: 'Hakbang 3 - Brand Launch, DTC Website, at Guide Affiliate Program',
               detail:
-                "Inilunsad ang Texas Tailwaters noong 1 Nobyembre 2023 na may Shopify DTC site na ginawa ng ecommerce team ng Afarer. Nagtampok ang site ng 8 product video, 34 lifestyle image na kinuhanan sa Lake Travis (kabilang ang drone footage), at detalyadong 'Guide Notes' (mga personal na tip ni Dwayne para sa bawat board). Nagpatupad ang Afarer ng tiered guide affiliate program: nakakatanggap ang mga guide ng 15% commission sa direktang referral, libreng demo board pagkatapos maka-refer ng 10 benta, at exclusive na access sa private Facebook group (42 kasapi na ang guide pagsapit ng Marso 2024). Kasama sa launch campaign ang Google Ads strategy na nagta-target sa 'fishing SUP', 'SUP fishing', at 'guide paddleboard' na may $3,500 buwanang badyet. Ang sariling nilalaman ni Dwayne sa Instagram ang nagdulot ng malaking trapiko — ang kanyang 'Day on the Water' Reels ay may average na 12,000 view.",
+                "Inilunsad ang Texas Tailwaters noong 1 Nobyembre 2023 na may Shopify DTC site na ginawa ng ecommerce team ng OLagoon. Nagtampok ang site ng 8 product video, 34 lifestyle image na kinuhanan sa Lake Travis (kabilang ang drone footage), at detalyadong 'Guide Notes' (mga personal na tip ni Dwayne para sa bawat board). Nagpatupad ang OLagoon ng tiered guide affiliate program: nakakatanggap ang mga guide ng 15% commission sa direktang referral, libreng demo board pagkatapos maka-refer ng 10 benta, at exclusive na access sa private Facebook group (42 kasapi na ang guide pagsapit ng Marso 2024). Kasama sa launch campaign ang Google Ads strategy na nagta-target sa 'fishing SUP', 'SUP fishing', at 'guide paddleboard' na may $3,500 buwanang badyet. Ang sariling nilalaman ni Dwayne sa Instagram ang nagdulot ng malaking trapiko — ang kanyang 'Day on the Water' Reels ay may average na 12,000 view.",
             },
             {
               title: 'Hakbang 4 - Production Fulfillment, Customer Support, at Second-Year Scaling',
               detail:
-                'Ang unang production run na 450 unit (300 Guide Pro, 150 Expedition Elite) ay naipadala mula sa pabrika ng Afarer noong 15 Oktubre 2023 at dumating sa 3PL partner ni Dwayne sa Houston (ShipBob facility) noong 22 Nobyembre 2023. Pre-sold si Dwayne ng 87 unit bago ang launch sa pamamagitan ng kanyang guide network. Pagsapit ng 31 Marso 2024, 334 unit na ang nabenta (74.2% ng stock). Pinangasiwaan ng customer support team ng Afarer ang lahat ng warranty inquiry (6 na naiulat na isyu: 3 valve core leak, 2 fin box loosening, 1 deck pad blister) — lahat ay naresolba sa loob ng 48 oras. Naghire si Dwayne ng part-time customer service coordinator noong Abril 2024 habang lumalaki ang volume. Nagorder ng pangalawang production run na 800 unit noong Mayo 2024 na may pagpapalawak sa dalawang bagong retailer: Austin Kayak at Fishing Tackle Unlimited (pareho sa Texas).',
+                'Ang unang production run na 450 unit (300 Guide Pro, 150 Expedition Elite) ay naipadala mula sa pabrika ng OLagoon noong 15 Oktubre 2023 at dumating sa 3PL partner ni Dwayne sa Houston (ShipBob facility) noong 22 Nobyembre 2023. Pre-sold si Dwayne ng 87 unit bago ang launch sa pamamagitan ng kanyang guide network. Pagsapit ng 31 Marso 2024, 334 unit na ang nabenta (74.2% ng stock). Pinangasiwaan ng customer support team ng OLagoon ang lahat ng warranty inquiry (6 na naiulat na isyu: 3 valve core leak, 2 fin box loosening, 1 deck pad blister) — lahat ay naresolba sa loob ng 48 oras. Naghire si Dwayne ng part-time customer service coordinator noong Abril 2024 habang lumalaki ang volume. Nagorder ng pangalawang production run na 800 unit noong Mayo 2024 na may pagpapalawak sa dalawang bagong retailer: Austin Kayak at Fishing Tackle Unlimited (pareho sa Texas).',
             },
           ],
           results: [
@@ -1393,8 +1393,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Afarer',
+    whyOLagoon: {
+      title: 'Bakit OLagoon',
       items: [
         {
           title: 'Pangangailangan ng Nangangisda',
@@ -1432,7 +1432,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Pwede bang magdagdag ng rod holder at cooler mount sa SUP?',
         answer:
-          'Oo. Isinasama ng Afarer ang fishing-specific na accessory system kabilang ang rod holder, cooler mounting area, camera mount, at D-ring attachment point nang direkta sa disenyo ng board.',
+          'Oo. Isinasama ng OLagoon ang fishing-specific na accessory system kabilang ang rod holder, cooler mounting area, camera mount, at D-ring attachment point nang direkta sa disenyo ng board.',
       },
       {
         question: 'Ano ang weight capacity ng fishing SUP?',
@@ -1442,7 +1442,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Nag-aalok ba kayo ng custom branding para sa mga fishing equipment company?',
         answer:
-          'Oo. Nagbibigay ang Afarer ng kumpletong private label manufacturing na may custom board graphics, brand color, logo placement, EVA deck design, at packaging para sa mga fishing brand.',
+          'Oo. Nagbibigay ang OLagoon ng kumpletong private label manufacturing na may custom board graphics, brand color, logo placement, EVA deck design, at packaging para sa mga fishing brand.',
       },
       {
         question: 'Pwede bang gamitin ang fishing SUP sa freshwater at saltwater?',
@@ -1469,15 +1469,15 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP Yoga Equipment Manufacturer | Custom Yoga Paddle Board | {SITE}',
       description:
-        'Nagbibigay ang Afarer ng custom na SUP Yoga equipment solution para sa mga yoga studio, wellness retreat, at fitness brand. Lumikha ng premium inflatable yoga SUP board na may malawak na stability design, full EVA deck, at private label manufacturing.',
+        'Nagbibigay ang OLagoon ng custom na SUP Yoga equipment solution para sa mga yoga studio, wellness retreat, at fitness brand. Lumikha ng premium inflatable yoga SUP board na may malawak na stability design, full EVA deck, at private label manufacturing.',
     },
     hero: {
       tagline: 'SUP Yoga Equipment Solutions™',
       title: 'Premium SUP Yoga Equipment para sa mga Wellness Brand at Retreat',
       subtitle:
-        'Nagbibigay ang Afarer ng custom na SUP Yoga equipment solution para sa mga yoga studio, wellness retreat, at fitness brand. Lumikha ng premium inflatable yoga SUP board na may malawak na stability design, full EVA deck, at private label manufacturing.',
+        'Nagbibigay ang OLagoon ng custom na SUP Yoga equipment solution para sa mga yoga studio, wellness retreat, at fitness brand. Lumikha ng premium inflatable yoga SUP board na may malawak na stability design, full EVA deck, at private label manufacturing.',
       image: {
-        alt: 'Paglalarawan ng mga custom na SUP board ng Afarer',
+        alt: 'Paglalarawan ng mga custom na SUP board ng OLagoon',
       },
     },
     challenge: {
@@ -1603,7 +1603,7 @@ const tl: Record<string, SolutionOverride> = {
       customer:
         'European Wellness Retreat Brand na nagpapatakbo ng mga yoga retreat, meditation program, at outdoor wellness experience para sa mga premium wellness traveler.',
       steps: [
-        "Tinukoy ng Afarer ang product concept bilang 'Luxury Floating Yoga Experience' na nagta-target sa mga wellness traveler, babaeng fitness customer, at premium na retreat guest.",
+        "Tinukoy ng OLagoon ang product concept bilang 'Luxury Floating Yoga Experience' na nagta-target sa mga wellness traveler, babaeng fitness customer, at premium na retreat guest.",
         'Lumikha ng Premium Wide Yoga SUP na may extra-wide na matatag na platform, full EVA yoga deck, komportableng surface na walang sapin, at balanseng floating performance.',
         'Bumuo ng malambot at natural na color palette, minimal na graphics, at premium packaging na perpektong tumugma sa kalmadong identity ng wellness brand.',
         'Inilunsad kasama ang mga retreat program, yoga class, at premium na karanasan ng customer bilang paunang aplikasyon.',
@@ -1628,17 +1628,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Yoga-Specific na Board Design at Sanskrit Aesthetics',
               detail:
-                "Ginugol ng design team ng Afarer ang 3 linggo noong Marso 2023 sa pag-aaral ng mga kinakailangan ni Simone. Ang resulta: 'Serenity' SUP yoga board — 34\" ang lapad (kumpara sa karaniwang 32\"), 11'6\" ang haba, na may 7-layer drop-stitch core para sa matigas na stability. Ang deck ay may 6-mm na kapal na closed-cell EVA pad na may diamond-pattern na texture (sinubukang coefficient of friction: 0.83 dry, 0.72 wet) na sumasaklaw sa 85% ng deck surface. Isinama ng Afarer ang Sanskrit na 'Om' symbol sa silver reflective heat-transfer sa nose at lotus pattern sa paligid ng center carry handle. Ang mga board ay may 4 na kulay (coral, turquoise, sunset orange, lagoon blue) na tumutugma sa 4 na color palette ng Azure Resort. Bawat board ay may 8 stainless steel D-ring — 4 para sa bungee cord system na mag-secure ng yoga mat, at 4 para sa opsyonal na anchor line para sa stationary na pagsasanay sa may agos.",
+                "Ginugol ng design team ng OLagoon ang 3 linggo noong Marso 2023 sa pag-aaral ng mga kinakailangan ni Simone. Ang resulta: 'Serenity' SUP yoga board — 34\" ang lapad (kumpara sa karaniwang 32\"), 11'6\" ang haba, na may 7-layer drop-stitch core para sa matigas na stability. Ang deck ay may 6-mm na kapal na closed-cell EVA pad na may diamond-pattern na texture (sinubukang coefficient of friction: 0.83 dry, 0.72 wet) na sumasaklaw sa 85% ng deck surface. Isinama ng OLagoon ang Sanskrit na 'Om' symbol sa silver reflective heat-transfer sa nose at lotus pattern sa paligid ng center carry handle. Ang mga board ay may 4 na kulay (coral, turquoise, sunset orange, lagoon blue) na tumutugma sa 4 na color palette ng Azure Resort. Bawat board ay may 8 stainless steel D-ring — 4 para sa bungee cord system na mag-secure ng yoga mat, at 4 para sa opsyonal na anchor line para sa stationary na pagsasanay sa may agos.",
             },
             {
               title: 'Hakbang 2 - Pilot Programme sa Azure North kasama ang Yoga Instructor Training',
               detail:
-                "Naglabas ang Afarer ng 15 prototype board at ipinadala sa pamamagitan ng express air freight (Singapore Airlines Cargo) para sa 6-linggong pilot sa Azure North na nagsimula noong 1 Hunyo 2023. Kumpleto sina Simone at 4 resident yoga instructor sa 40-oras na SUP Yoga Instructor Certification program na joint na binuo ng mga wellness consultant ng Afarer at mga propesyonal ng Yoga Alliance. Sakop ng certification: setup at inflation ng board para sa yoga (12 PSI para sa pinakamataas na stability), class sequencing para sa kondisyon ng tubig, safety protocol para sa hangin at agos, at 15 natatanging SUP yoga pose na inangkop para sa kapaligiran ng board. Nagtakbo ang pilot ng 42 klase sa loob ng 6 linggo na may 186 kalahok na bisita. Ang pre- at post-pilot survey ay nagpakita ng 58% pagpapabuti sa kumpiyansa ng bisita, at ang average na class rating ay 4.8/5. Nagbigay-diin ang feedback ng bisita sa dalawang pagbabago: kahilingan para sa paddle holder sa gilid ng board (para hindi malutang ang paddle sa pagsasanay) at mas gustong board na may 'malambot' na nose radius para sa partner pose.",
+                "Naglabas ang OLagoon ng 15 prototype board at ipinadala sa pamamagitan ng express air freight (Singapore Airlines Cargo) para sa 6-linggong pilot sa Azure North na nagsimula noong 1 Hunyo 2023. Kumpleto sina Simone at 4 resident yoga instructor sa 40-oras na SUP Yoga Instructor Certification program na joint na binuo ng mga wellness consultant ng OLagoon at mga propesyonal ng Yoga Alliance. Sakop ng certification: setup at inflation ng board para sa yoga (12 PSI para sa pinakamataas na stability), class sequencing para sa kondisyon ng tubig, safety protocol para sa hangin at agos, at 15 natatanging SUP yoga pose na inangkop para sa kapaligiran ng board. Nagtakbo ang pilot ng 42 klase sa loob ng 6 linggo na may 186 kalahok na bisita. Ang pre- at post-pilot survey ay nagpakita ng 58% pagpapabuti sa kumpiyansa ng bisita, at ang average na class rating ay 4.8/5. Nagbigay-diin ang feedback ng bisita sa dalawang pagbabago: kahilingan para sa paddle holder sa gilid ng board (para hindi malutang ang paddle sa pagsasanay) at mas gustong board na may 'malambot' na nose radius para sa partner pose.",
             },
             {
               title: 'Hakbang 3 - Multi-Resort Rollout, Infrastructure, at Programming',
               detail:
-                'Batay sa matagumpay na pilot, naglagay ang Azure ng PO para sa 40 Serenity board (10 bawat resort) noong Agosto 2023. Nagdagdag ang Afarer ng dalawang pagbabago sa disenyo batay sa feedback ng pilot: silicone paddle keeper strap sa starboard rail at 15-cm na mas malawak na nose radius (mula 45 cm tungong 60 cm radius) para sa partner pose clearance. Nagpadala ang Afarer sa pamamagitan ng sea freight na may dedicated na 20-ft container, kabilang ang 40 custom inflation pump na may pressure gauge na naka-calibrate sa PSI sa halip na bar. Dumating ang shipment sa Malé noong 1 Nobyembre 2023. Nagtrain si Simone ng 12 karagdagang instructor sa 4 resort (3 bawat property) gamit ang certification curriculum, kung saan dalawang lead instructor ang lumahok sa 2-linggong train-the-trainer program sa Bali (in-coordinate ng wellness partner ng Afarer). Bawat resort ay nagtatag ng dedicated na SUP yoga launch point na may floating dock, equipment storage, at may lilim na relaxation area.',
+                'Batay sa matagumpay na pilot, naglagay ang Azure ng PO para sa 40 Serenity board (10 bawat resort) noong Agosto 2023. Nagdagdag ang OLagoon ng dalawang pagbabago sa disenyo batay sa feedback ng pilot: silicone paddle keeper strap sa starboard rail at 15-cm na mas malawak na nose radius (mula 45 cm tungong 60 cm radius) para sa partner pose clearance. Nagpadala ang OLagoon sa pamamagitan ng sea freight na may dedicated na 20-ft container, kabilang ang 40 custom inflation pump na may pressure gauge na naka-calibrate sa PSI sa halip na bar. Dumating ang shipment sa Malé noong 1 Nobyembre 2023. Nagtrain si Simone ng 12 karagdagang instructor sa 4 resort (3 bawat property) gamit ang certification curriculum, kung saan dalawang lead instructor ang lumahok sa 2-linggong train-the-trainer program sa Bali (in-coordinate ng wellness partner ng OLagoon). Bawat resort ay nagtatag ng dedicated na SUP yoga launch point na may floating dock, equipment storage, at may lilim na relaxation area.',
             },
             {
               title: 'Hakbang 4 - Revenue Performance, Guest Retention, at Programme Expansion',
@@ -1665,22 +1665,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Hakbang 1 - Design Vision ng Yoga Instructor at Ergonomic Studio Board',
               detail:
-                "Pumunta ang mga product designer ng Afarer sa Santa Monica noong Pebrero 2023 upang obserbahan ang 4 klase ni Kai at maunawaan ang kanyang istilo ng pagtuturo. Nagtuturo si Kai ng halo ng Vinyasa flow, restorative yin, at partner acro-yoga sa board — na nangangailangan ng mas maraming deck space kaysa sa inaalok ng karaniwang SUP. Nagdisenyo ang Afarer ng 3 SKU: (1) 'Drift 10'6\"' — karaniwang SUP yoga board (34\" lapad, 6 mm deck pad), (2) 'Studio 12'0\"' — extra-wide na board sa 38\" na may 8 mm cushioned deck (idinisenyo para sa acro at partner pose, max na timbang 450 lbs), at (3) 'Mini 9'0\"' — kid-friendly na board (30\" lapad, 5 mm deck, maliwanag na opsyon sa kulay). Ang Studio board ay may natatanging 'centerline alignment marker' — isang banayad na naka-print na linya sa gitna ng deck para matulungan ang mga estudyante na consistent na i-align ang kanilang mat. Lahat ng board ay gumamit ng Fusion-Lite drop-stitch technology ng Afarer, 3 lbs mas magaan kaysa sa karaniwang board para mas madaling hawakan.",
+                "Pumunta ang mga product designer ng OLagoon sa Santa Monica noong Pebrero 2023 upang obserbahan ang 4 klase ni Kai at maunawaan ang kanyang istilo ng pagtuturo. Nagtuturo si Kai ng halo ng Vinyasa flow, restorative yin, at partner acro-yoga sa board — na nangangailangan ng mas maraming deck space kaysa sa inaalok ng karaniwang SUP. Nagdisenyo ang OLagoon ng 3 SKU: (1) 'Drift 10'6\"' — karaniwang SUP yoga board (34\" lapad, 6 mm deck pad), (2) 'Studio 12'0\"' — extra-wide na board sa 38\" na may 8 mm cushioned deck (idinisenyo para sa acro at partner pose, max na timbang 450 lbs), at (3) 'Mini 9'0\"' — kid-friendly na board (30\" lapad, 5 mm deck, maliwanag na opsyon sa kulay). Ang Studio board ay may natatanging 'centerline alignment marker' — isang banayad na naka-print na linya sa gitna ng deck para matulungan ang mga estudyante na consistent na i-align ang kanilang mat. Lahat ng board ay gumamit ng Fusion-Lite drop-stitch technology ng OLagoon, 3 lbs mas magaan kaysa sa karaniwang board para mas madaling hawakan.",
             },
             {
               title: 'Hakbang 2 - Brand Identity, Content Production, at Pre-Sale Strategy',
               detail:
-                'Bumuo ang creative team ng Afarer ng visual identity ng Drift & Downward Dog: minimalist na logo na may stylized na lotus/mandala-wave hybrid, color palette ng sage green, buhangin, at ocean blue, at custom na font pair (Lora heading, Nunito body). Gumawa sila ng 6-araw na photoshoot noong Marso 2023 sa 5 lokasyon ng Santa Monica Bay (Santa Monica Pier, Point Dume ng Malibu, Venice Beach, Marina del Rey, at Paradise Cove), na lumikha ng 480 huling image at 8 oras ng 4K video footage. Naglunsad si Kai ng 30-araw na presale noong 1 Mayo 2023 sa pamamagitan ng Kickstarter campaign na may $35,000 na goal. Nagtampok ang campaign ng 3 reward tier: early-bird Drift board ($599, 40 unit), Studio board package na may mat at strap ($949, 25 unit), at Mini board ($449, 20 unit). Naabot ng campaign ang goal sa loob ng 11 oras at nagsara sa $74,200 mula sa 118 backer.',
+                'Bumuo ang creative team ng OLagoon ng visual identity ng Drift & Downward Dog: minimalist na logo na may stylized na lotus/mandala-wave hybrid, color palette ng sage green, buhangin, at ocean blue, at custom na font pair (Lora heading, Nunito body). Gumawa sila ng 6-araw na photoshoot noong Marso 2023 sa 5 lokasyon ng Santa Monica Bay (Santa Monica Pier, Point Dume ng Malibu, Venice Beach, Marina del Rey, at Paradise Cove), na lumikha ng 480 huling image at 8 oras ng 4K video footage. Naglunsad si Kai ng 30-araw na presale noong 1 Mayo 2023 sa pamamagitan ng Kickstarter campaign na may $35,000 na goal. Nagtampok ang campaign ng 3 reward tier: early-bird Drift board ($599, 40 unit), Studio board package na may mat at strap ($949, 25 unit), at Mini board ($449, 20 unit). Naabot ng campaign ang goal sa loob ng 11 oras at nagsara sa $74,200 mula sa 118 backer.',
             },
             {
               title: 'Hakbang 3 - Produksyon, Fulfillment Logistics, at Class Integration',
               detail:
-                "Ang produksyon ng 180 board (80 Drift, 50 Studio, 50 Mini) ay tumakbo mula Hunyo hanggang Hulyo 2023 sa facility ng Afarer sa Vietnam. Pagsapit ng 1 Agosto 2023, lahat ng Kickstarter order ay natupad mula sa 3PL warehouse sa Long Beach (15 milya mula sa Santa Monica studio ni Kai). Inilunsad ni Kai ang kanyang class booking platform sa Shopify na may custom scheduling app na integrated sa Acuity Scheduling. Nag-alok siya ng 4 uri ng klase: 'Sunrise Flow' (beginner, Drift board), 'Full Moon Studio' (advanced/partner, Studio board), 'Family Paddle' (mga bata + magulang, Mini + Drift), at 'Restorative Yin & Float' (kombinasyon ng yin pose at guided meditation). Naghire siya ng 3 karagdagang certified na SUP yoga instructor para sa pinalawak na iskedyul. Pagsapit ng Setyembre 2023, nagpapatakbo na si Kai ng 22 klase kada linggo na may average na 14 estudyante bawat klase.",
+                "Ang produksyon ng 180 board (80 Drift, 50 Studio, 50 Mini) ay tumakbo mula Hunyo hanggang Hulyo 2023 sa facility ng OLagoon sa Vietnam. Pagsapit ng 1 Agosto 2023, lahat ng Kickstarter order ay natupad mula sa 3PL warehouse sa Long Beach (15 milya mula sa Santa Monica studio ni Kai). Inilunsad ni Kai ang kanyang class booking platform sa Shopify na may custom scheduling app na integrated sa Acuity Scheduling. Nag-alok siya ng 4 uri ng klase: 'Sunrise Flow' (beginner, Drift board), 'Full Moon Studio' (advanced/partner, Studio board), 'Family Paddle' (mga bata + magulang, Mini + Drift), at 'Restorative Yin & Float' (kombinasyon ng yin pose at guided meditation). Naghire siya ng 3 karagdagang certified na SUP yoga instructor para sa pinalawak na iskedyul. Pagsapit ng Setyembre 2023, nagpapatakbo na si Kai ng 22 klase kada linggo na may average na 14 estudyante bawat klase.",
             },
             {
               title: 'Hakbang 4 - Retail Channel Expansion, Corporate Wellness, at Paglaki sa Ika-2 Taon',
               detail:
-                'Noong Oktubre 2023, nilapitan si Kai ng Southern California regional buyer ng REI na nakasama sa isa sa kanyang mga klase. Naglagay ang REI ng test order para sa 30 Drift board at 15 Mini board para sa 5 tindahan sa paligid ng Santa Monica. Inangkop ng Afarer ang packaging upang magsama ng REI-compliant na hang tag at QR-code product registration. Pagsapit ng Disyembre 2023, umabot sa 82% ang sell-through rate ng REI sa 5 tindahan, at naglagay ang REI ng follow-on order para sa 100 board sa 20 lokasyon sa Southern California. Naglunsad din si Kai ng corporate wellness programme — nagkontrata sa 4 tech company (Google Venice, Hulu Santa Monica, at dalawa pa) para sa lingguhang on-site SUP yoga class bilang benepisyo ng empleyado. Ang corporate programme ay bumuo ng $4,200/buwan na paulit-ulit na kita. Pagtatapos ng Ika-1 Taon (Marso 2024), ang Drift & Downward Dog ay nakabuo ng $342,000 pinagsamang kita (benta ng produkto: $218,000, kita ng klase: $94,000, corporate wellness: $30,000).',
+                'Noong Oktubre 2023, nilapitan si Kai ng Southern California regional buyer ng REI na nakasama sa isa sa kanyang mga klase. Naglagay ang REI ng test order para sa 30 Drift board at 15 Mini board para sa 5 tindahan sa paligid ng Santa Monica. Inangkop ng OLagoon ang packaging upang magsama ng REI-compliant na hang tag at QR-code product registration. Pagsapit ng Disyembre 2023, umabot sa 82% ang sell-through rate ng REI sa 5 tindahan, at naglagay ang REI ng follow-on order para sa 100 board sa 20 lokasyon sa Southern California. Naglunsad din si Kai ng corporate wellness programme — nagkontrata sa 4 tech company (Google Venice, Hulu Santa Monica, at dalawa pa) para sa lingguhang on-site SUP yoga class bilang benepisyo ng empleyado. Ang corporate programme ay bumuo ng $4,200/buwan na paulit-ulit na kita. Pagtatapos ng Ika-1 Taon (Marso 2024), ang Drift & Downward Dog ay nakabuo ng $342,000 pinagsamang kita (benta ng produkto: $218,000, kita ng klase: $94,000, corporate wellness: $30,000).',
             },
           ],
           results: [
@@ -1692,8 +1692,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Afarer',
+    whyOLagoon: {
+      title: 'Bakit OLagoon',
       items: [
         {
           title: 'Pag-unawa sa Wellness Experience',
@@ -1736,7 +1736,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Makakabuo ba ako ng sarili kong branded na SUP Yoga product line?',
         answer:
-          'Oo. Nagbibigay ang Afarer ng kumpletong private label manufacturing na may custom na kulay, graphics, packaging, at accessories na partikular na idinisenyo para sa mga yoga at wellness brand.',
+          'Oo. Nagbibigay ang OLagoon ng kumpletong private label manufacturing na may custom na kulay, graphics, packaging, at accessories na partikular na idinisenyo para sa mga yoga at wellness brand.',
       },
       {
         question: 'Angkop ba ang inyong mga SUP Yoga board para sa propesyonal na paggamit sa studio?',
@@ -1776,12 +1776,12 @@ const tl: Record<string, SolutionOverride> = {
         'Tinutulungan ng {SITE} ang mga creator ng YouTube, TikTok, Instagram at mga Kickstarter brand na maglunsad ng custom na SUP product gamit ang mabilis na prototype, low MOQ manufacturing, limited edition na disenyo, at private label solution.',
     },
     hero: {
-      tagline: 'Gawing Water Sports Brand ang Iyong Audience sa Afarer',
+      tagline: 'Gawing Water Sports Brand ang Iyong Audience sa OLagoon',
       title: 'Custom SUP Manufacturing Solution para sa mga Creator ng YouTube, TikTok, Instagram at Kickstarter Brand',
       subtitle:
-        'Tinutulungan ng Afarer ang mga creator na ilunsad ang sarili nilang SUP brand sa pamamagitan ng mabilis na prototype development, maliit na MOQ production, custom graphics, limited edition na disenyo, brand packaging, at flexible na manufacturing solution.',
+        'Tinutulungan ng OLagoon ang mga creator na ilunsad ang sarili nilang SUP brand sa pamamagitan ng mabilis na prototype development, maliit na MOQ production, custom graphics, limited edition na disenyo, brand packaging, at flexible na manufacturing solution.',
       image: {
-        alt: 'Mga custom na SUP board ng Afarer para sa creator at influencer brand',
+        alt: 'Mga custom na SUP board ng OLagoon para sa creator at influencer brand',
       },
     },
     challenge: {
@@ -1815,7 +1815,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Mabilis na SUP Prototype Development',
           description:
-            'Tinutulungan ng Afarer na mabilis na gawing pisikal na prototype ang mga ideya. Mula sa concept development at sample ng board hanggang sa pagsubok ng graphics at pag-ayos ng configuration, maaaring mabilis mag-iterate ang mga creator batay sa feedback ng komunidad.',
+            'Tinutulungan ng OLagoon na mabilis na gawing pisikal na prototype ang mga ideya. Mula sa concept development at sample ng board hanggang sa pagsubok ng graphics at pag-ayos ng configuration, maaaring mabilis mag-iterate ang mga creator batay sa feedback ng komunidad.',
           features: [
             'Product concept development',
             'Paggawa ng prototype',
@@ -1826,7 +1826,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Low MOQ Production para sa mga Creator Brand',
           description:
-            'Kailangan ng mga creator na i-validate ang demand bago palakin. Sinusuportahan ng Afarer ang flexible na startup quantity mula 100-300 unit para sa community testing at limited launch, na pwedeng palakin tungong 500-2000 para sa paglaki at 3000+ para sa buong brand operation.',
+            'Kailangan ng mga creator na i-validate ang demand bago palakin. Sinusuportahan ng OLagoon ang flexible na startup quantity mula 100-300 unit para sa community testing at limited launch, na pwedeng palakin tungong 500-2000 para sa paglaki at 3000+ para sa buong brand operation.',
           features: [
             'Creator launch stage: 100-300 pcs',
             'Growth stage: 500-2000 pcs',
@@ -1837,7 +1837,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Limited Edition na Creator SUP Design',
           description:
-            'Matagumpay ang mga creator brand sa pamamagitan ng pagiging kakaiba. Tinutulungan ng Afarer ang pagbuo ng exclusive edition na may custom graphics, signature artwork, espesyal na color edition, at design element na inspirasyon ng komunidad na talagang gusto ng mga fan.',
+            'Matagumpay ang mga creator brand sa pamamagitan ng pagiging kakaiba. Tinutulungan ng OLagoon ang pagbuo ng exclusive edition na may custom graphics, signature artwork, espesyal na color edition, at design element na inspirasyon ng komunidad na talagang gusto ng mga fan.',
           features: [
             'Custom graphics at artwork',
             'Signature at community edition',
@@ -1848,12 +1848,12 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Premium Packaging para sa Creator Launch',
           description:
-            'Para sa mga creator, ang unboxing ay bahagi ng brand experience. Sinusuportahan ng Afarer ang custom packaging na may branded box, product card, mensahe ng pasasalamat, at QR code na nag-uugnay sa nilalaman ng creator na nagpapalit sa mga customer sa pangmatagalang tagasunod.',
+            'Para sa mga creator, ang unboxing ay bahagi ng brand experience. Sinusuportahan ng OLagoon ang custom packaging na may branded box, product card, mensahe ng pasasalamat, at QR code na nag-uugnay sa nilalaman ng creator na nagpapalit sa mga customer sa pangmatagalang tagasunod.',
         },
         {
           title: 'Suporta para sa Kickstarter at Crowdfunding Product',
           description:
-            'Maraming creator ang gumagamit ng crowdfunding para i-validate ang demand. Sinusuportahan ng Afarer ang pre-launch prototype development, production planning ng campaign, at post-campaign batch fulfillment para matupad ng mga creator ang kanilang pangako.',
+            'Maraming creator ang gumagamit ng crowdfunding para i-validate ang demand. Sinusuportahan ng OLagoon ang pre-launch prototype development, production planning ng campaign, at post-campaign batch fulfillment para matupad ng mga creator ang kanilang pangako.',
           features: [
             'Pre-launch development',
             'Production planning ng campaign',
@@ -1864,7 +1864,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Creator Brand Product Expansion',
           description:
-            'Ang isang matagumpay na creator brand ay pwedeng lumawak sa kumpletong outdoor ecosystem. Sinusuportahan ng Afarer ang mga SUP product line, water accessory, at seasonal collection na lumalaki kasama ng komunidad.',
+            'Ang isang matagumpay na creator brand ay pwedeng lumawak sa kumpletong outdoor ecosystem. Sinusuportahan ng OLagoon ang mga SUP product line, water accessory, at seasonal collection na lumalaki kasama ng komunidad.',
           features: [
             'Signature na SUP board line',
             'Mga water accessory',
@@ -1875,7 +1875,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Content-Friendly na Product Development',
           description:
-            'Kailangan ng mga creator ng mga produktong natural na sumusuporta sa storytelling. Tinutulungan ng Afarer ang pagbuo ng mga produktong angkop para sa unboxing video, adventure content, product review, at community challenge na lumilikha ng organic engagement.',
+            'Kailangan ng mga creator ng mga produktong natural na sumusuporta sa storytelling. Tinutulungan ng OLagoon ang pagbuo ng mga produktong angkop para sa unboxing video, adventure content, product review, at community challenge na lumilikha ng organic engagement.',
           features: [
             'Disenyo ng unboxing experience',
             'Adventure-ready na produkto',
@@ -1886,7 +1886,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Quality Control para sa Reputasyon ng Creator',
           description:
-            'Ang tiwala ang pinakamahalagang ari-arian ng creator. Kasama sa quality control ng Afarer ang air pressure stability testing, verification ng tibay ng board, pagsusuri sa consistency ng graphics at kulay, at kumpletong accessory inspection para protektahan ang relasyon sa komunidad.',
+            'Ang tiwala ang pinakamahalagang ari-arian ng creator. Kasama sa quality control ng OLagoon ang air pressure stability testing, verification ng tibay ng board, pagsusuri sa consistency ng graphics at kulay, at kumpletong accessory inspection para protektahan ang relasyon sa komunidad.',
         },
       ],
     },
@@ -1905,7 +1905,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Prototype Development',
           detail:
-            'Lumikha ang Afarer ng custom na disenyo ng board na may signature graphics at product sample. Sinubukan ng creator ang performance, itsura, at kinuha ang feedback ng audience bago mag-commit sa produksyon.',
+            'Lumikha ang OLagoon ng custom na disenyo ng board na may signature graphics at product sample. Sinubukan ng creator ang performance, itsura, at kinuha ang feedback ng audience bago mag-commit sa produksyon.',
         },
         {
           title: 'Limited Edition Launch',
@@ -1930,29 +1930,29 @@ const tl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brazil',
             background:
-              "Si Carlos Mendes, 34 taong gulang, ay adventure photographer na tampok sa National Geographic at drone pilot na may 890,000 Instagram follower. Pagkatapos magdokumento ng mga remote na ekspedisyon sa ilog ng Amazon sa loob ng 7 taon, napansin niyang laging nagtatanong ang kanyang audience tungkol sa mga inflatable SUP na ginagamit niya para makarating sa mga lokasyon ng pag-film. Walang background sa paddling, kailangan niya ng Afarer para i-engineer ang custom na board na maaaring maging camera platform at ekspedisyon craft sabay, habang naglulunsad ng merchandised brand sa paligid ng kanyang series na 'Rios do Brasil'.",
+              "Si Carlos Mendes, 34 taong gulang, ay adventure photographer na tampok sa National Geographic at drone pilot na may 890,000 Instagram follower. Pagkatapos magdokumento ng mga remote na ekspedisyon sa ilog ng Amazon sa loob ng 7 taon, napansin niyang laging nagtatanong ang kanyang audience tungkol sa mga inflatable SUP na ginagamit niya para makarating sa mga lokasyon ng pag-film. Walang background sa paddling, kailangan niya ng OLagoon para i-engineer ang custom na board na maaaring maging camera platform at ekspedisyon craft sabay, habang naglulunsad ng merchandised brand sa paligid ng kanyang series na 'Rios do Brasil'.",
             goal: 'Ilunsad ang co-branded signature SUP pagsapit ng Mayo 2025 na sumasaklaw sa 5 pangunahing water biome ng Brazil (Amazon, Pantanal, São Francisco, Paraná, at coastal Rio), na may pre-sale na 500 unit sa R$4,990 bawat isa bago ang produksyon.',
           },
           steps: [
             {
-              title: 'Biome-Specific na R&D Expedition kasama ang mga Engineer ng Afarer',
+              title: 'Biome-Specific na R&D Expedition kasama ang mga Engineer ng OLagoon',
               detail:
-                'Noong Agosto 2024, nagpadala ang Afarer ng senior marine engineer na si Li Wei at product designer na si Henrik Larsson sa Manaus sa loob ng 10 araw. Nag-paddle sila ng 180 km sa Rio Negro kasama si Carlos, sinukat ang temperatura ng tubig (28-32°C), sediment load, at karaniwang payload (40 kg camera gear at 25 kg camping equipment). Natagpuan nila na ang mga karaniwang drop-stitch board ay naghihiwalay sa ilalim ng kombinasyon ng equatorial UV index 12+ at nakakaskas na buhangin sa mga portage. Pinilit ni Carlos na ang board ay dapat kumportable sa loob ng 65-liter dry bag kapag deflate para sa biyahe sa bush plane.',
+                'Noong Agosto 2024, nagpadala ang OLagoon ng senior marine engineer na si Li Wei at product designer na si Henrik Larsson sa Manaus sa loob ng 10 araw. Nag-paddle sila ng 180 km sa Rio Negro kasama si Carlos, sinukat ang temperatura ng tubig (28-32°C), sediment load, at karaniwang payload (40 kg camera gear at 25 kg camping equipment). Natagpuan nila na ang mga karaniwang drop-stitch board ay naghihiwalay sa ilalim ng kombinasyon ng equatorial UV index 12+ at nakakaskas na buhangin sa mga portage. Pinilit ni Carlos na ang board ay dapat kumportable sa loob ng 65-liter dry bag kapag deflate para sa biyahe sa bush plane.',
             },
             {
               title: 'Triple-Layer Fusion Construction at Modular Rigging System',
               detail:
-                "Bumuo ang R&D center ng Afarer sa Xiamen ng 7 prototype sa pagitan ng Setyembre at Nobyembre 2024. Ang huling disenyo ay gumamit ng 3-layer na PVC-Dropstitch-PVC sandwich na may karagdagang UV-reflective top coating, na sinubukan sa 1,200 oras na pinaikli na UV exposure. Isang proprietary na 'Rails-to-Rail' bracing system ang nagdagdag ng lateral stiffness nang walang karagdagang bigat. Nag-co-design sina Carlos at Afarer ng modular camera-mount rail system na bolted sa pinalakas na pad — walang suction cup — na sinubukang humawak ng 28 kg sa 30 km/h tow speed. Bawat board ay 11.8 kg lamang ang bigat pero sumusuporta ng 220 kg payload.",
+                "Bumuo ang R&D center ng OLagoon sa Xiamen ng 7 prototype sa pagitan ng Setyembre at Nobyembre 2024. Ang huling disenyo ay gumamit ng 3-layer na PVC-Dropstitch-PVC sandwich na may karagdagang UV-reflective top coating, na sinubukan sa 1,200 oras na pinaikli na UV exposure. Isang proprietary na 'Rails-to-Rail' bracing system ang nagdagdag ng lateral stiffness nang walang karagdagang bigat. Nag-co-design sina Carlos at OLagoon ng modular camera-mount rail system na bolted sa pinalakas na pad — walang suction cup — na sinubukang humawak ng 28 kg sa 30 km/h tow speed. Bawat board ay 11.8 kg lamang ang bigat pero sumusuporta ng 220 kg payload.",
             },
             {
               title: 'Content-Led Pre-Launch Campaign at Limited Biome Edition',
               detail:
-                "Mula Disyembre 2024, naglabas si Carlos ng 5 mini-documentary (average 4.2 milyong view bawat isa) na nagpapakita ng pagsubok sa prototype sa bawat biome. Nagtatag ang Afarer ng dedicated na Shopify D2C store na may regional logistics hub sa Manaus, São Paulo, at Brasília. Gumawa sila ng 5 biome-specific na colorway (Rio Negro dark water, Pantanal sunset, São Francisco canyon red, Paraná forest green, Costa Dourada gold), bawat isa ay limitado sa 100 unit. Maaaring 'amponin' ng mga customer ang kanilang biome at tumanggap ng GPS-tracked na donasyon sa pondo ni Carlos para sa reforestation ng Amazon.",
+                "Mula Disyembre 2024, naglabas si Carlos ng 5 mini-documentary (average 4.2 milyong view bawat isa) na nagpapakita ng pagsubok sa prototype sa bawat biome. Nagtatag ang OLagoon ng dedicated na Shopify D2C store na may regional logistics hub sa Manaus, São Paulo, at Brasília. Gumawa sila ng 5 biome-specific na colorway (Rio Negro dark water, Pantanal sunset, São Francisco canyon red, Paraná forest green, Costa Dourada gold), bawat isa ay limitado sa 100 unit. Maaaring 'amponin' ng mga customer ang kanilang biome at tumanggap ng GPS-tracked na donasyon sa pondo ni Carlos para sa reforestation ng Amazon.",
             },
             {
               title: 'Launch noong Abril 2025 at Distribution Network ng Brazil',
               detail:
-                "Noong 5 Abril 2025, inilunsad ang 'Rios do Brasil Explorer 12.6' sa Ibirapuera Park sa São Paulo na may 350 influencer at media. Ang lahat ng 500 unit ay pre-sold sa loob ng 11 oras — R$2.495 milyong kita. Nag-air-freight ang Afarer ng 200 unit para maunahan ang dry season ng Amazon, habang ang 300 ay dumaan sa ocean freight. Ang biome-donation program ni Carlos ay nakalikom ng R$187,000 sa unang buwan. Pumirma sina Afarer at Carlos ng 3-taong exclusivity deal para sa Latin America na may minimum 2,000 unit kada taon at pangalawang model (ang 'Expedition Tandem') na nasa development na para sa 2026.",
+                "Noong 5 Abril 2025, inilunsad ang 'Rios do Brasil Explorer 12.6' sa Ibirapuera Park sa São Paulo na may 350 influencer at media. Ang lahat ng 500 unit ay pre-sold sa loob ng 11 oras — R$2.495 milyong kita. Nag-air-freight ang OLagoon ng 200 unit para maunahan ang dry season ng Amazon, habang ang 300 ay dumaan sa ocean freight. Ang biome-donation program ni Carlos ay nakalikom ng R$187,000 sa unang buwan. Pumirma sina OLagoon at Carlos ng 3-taong exclusivity deal para sa Latin America na may minimum 2,000 unit kada taon at pangalawang model (ang 'Expedition Tandem') na nasa development na para sa 2026.",
             },
           ],
           results: [
@@ -1968,29 +1968,29 @@ const tl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norway',
             background:
-              "Si Tor Haugen, 29 taong gulang, ay dating cross-country skier ng national team ng Norway na naging CrossFit Games semifinalist na may 620,000 YouTube subscriber at 410,000 TikTok follower. Ang kanyang fitness channel na 'Nordic Strength' ay nagtatampok ng outdoor workout gamit ang hindi karaniwang kagamitan. Pagkatapos ng viral video (8.7 milyong view) niyang gumagawa ng burpee sa murang SUP sa Oslo Fjord, hiniling ng kanyang komunidad ng board na ginawa para sa high-intensity fitness. Walang karanasan si Tor sa product design at kailangan niya ng Afarer para i-engineer ang matatag na platform na makakayanan ang pagtalon, paghulog ng mga pabigat, at matinding kondisyon ng panahon sa Nordic.",
+              "Si Tor Haugen, 29 taong gulang, ay dating cross-country skier ng national team ng Norway na naging CrossFit Games semifinalist na may 620,000 YouTube subscriber at 410,000 TikTok follower. Ang kanyang fitness channel na 'Nordic Strength' ay nagtatampok ng outdoor workout gamit ang hindi karaniwang kagamitan. Pagkatapos ng viral video (8.7 milyong view) niyang gumagawa ng burpee sa murang SUP sa Oslo Fjord, hiniling ng kanyang komunidad ng board na ginawa para sa high-intensity fitness. Walang karanasan si Tor sa product design at kailangan niya ng OLagoon para i-engineer ang matatag na platform na makakayanan ang pagtalon, paghulog ng mga pabigat, at matinding kondisyon ng panahon sa Nordic.",
             goal: "Lumikha ng unang 'functional fitness SUP' na certified para sa CrossFit-style training, na inilunsad noong Oktubre 2024 sa 3,990 NOK ($370 USD) na may 1,000 unit presale at sabay na 20-lungsod na European tour.",
           },
           steps: [
             {
               title: 'Oslo Fjord Prototype Trials na may Load Cell Testing',
               detail:
-                "Ang product team ng Afarer na pinangungunahan ng structural engineer na si Marta Johansson ay gumugol ng isang linggo noong Marso 2024 sa Kongshavn Marina ng Oslo. Nag-instrumento sila ng 6 board ng kakumpetensya ng 14 strain gauge at accelerometer habang nagsasagawa si Tor ng burpee (120 bpm tempo), barbell overhead hold (60 kg), at box jump (50 cm box). Ipinakita ng resulta na ang mga karaniwang SUP board ay nakakaranas ng 3.7x na dynamic load kumpara sa recreational paddling. Lumampas ang deck flex sa 22 mm — delikado para sa stability ng bukung-bukong. Kinalkula ng team ni Marta na kailangan nila ng 200% na mas matigas na torsion box na may natatanging 'drop-through' standing platform.",
+                "Ang product team ng OLagoon na pinangungunahan ng structural engineer na si Marta Johansson ay gumugol ng isang linggo noong Marso 2024 sa Kongshavn Marina ng Oslo. Nag-instrumento sila ng 6 board ng kakumpetensya ng 14 strain gauge at accelerometer habang nagsasagawa si Tor ng burpee (120 bpm tempo), barbell overhead hold (60 kg), at box jump (50 cm box). Ipinakita ng resulta na ang mga karaniwang SUP board ay nakakaranas ng 3.7x na dynamic load kumpara sa recreational paddling. Lumampas ang deck flex sa 22 mm — delikado para sa stability ng bukung-bukong. Kinalkula ng team ni Marta na kailangan nila ng 200% na mas matigas na torsion box na may natatanging 'drop-through' standing platform.",
             },
             {
               title: 'Composite Stringer Platform at Anti-Slip Deck Technology',
               detail:
-                'Sa loob ng 4 buwan, bumuo ang Afarer ng 9 prototype na papataas na tigas. Ang breakthrough ay mula sa 2.5 mm marine-grade aluminum stringer sandwich na nasa pagitan ng dalawang drop-stitch layer, na lumikha ng board na 0.8 mm flex sa ilalim ng 100 kg dynamic load. Ang deck ay gumamit ng closed-cell EVA foam na may 6 mm na nakataas na diamond pattern — sinubukan ito ni Tor na basa, maalat, at mamasa-masa, at natagpuan niyang higit pa sa skateboard grip tape ang grip. Nagdagdag ang Afarer ng D-ring tie-down sa 22 punto sa paligid ng board para sa resistance band at weight plate. Bawat board ay may clip-in safety leash anchor na naka-rate sa 500 kg static load.',
+                'Sa loob ng 4 buwan, bumuo ang OLagoon ng 9 prototype na papataas na tigas. Ang breakthrough ay mula sa 2.5 mm marine-grade aluminum stringer sandwich na nasa pagitan ng dalawang drop-stitch layer, na lumikha ng board na 0.8 mm flex sa ilalim ng 100 kg dynamic load. Ang deck ay gumamit ng closed-cell EVA foam na may 6 mm na nakataas na diamond pattern — sinubukan ito ni Tor na basa, maalat, at mamasa-masa, at natagpuan niyang higit pa sa skateboard grip tape ang grip. Nagdagdag ang OLagoon ng D-ring tie-down sa 22 punto sa paligid ng board para sa resistance band at weight plate. Bawat board ay may clip-in safety leash anchor na naka-rate sa 500 kg static load.',
             },
             {
               title: 'Nordic Strength Co-Branding at Certification Process',
               detail:
-                "Bumuo sina Tor at Afarer ng branding na 'Nordic Strength Trainer 11.0', na may signature na blue-and-white color scheme ni Tor na tumutugma sa channel art niya. Tinulungan ng Afarer si Tor sa EU CE certification para sa fitness equipment (hiwalay na proseso mula sa karaniwang SUP certification), na nangangailangan ng 200 oras na mechanical fatigue testing. Ang packaging ay may QR code na nag-uugnay sa 12-linggong 'Fjord Fitness' training program ni Tor na filmed sa partnership sa isang Norwegian sports medicine clinic. Nagtatag ang Afarer ng European distribution hub sa Rotterdam para sa 20 bansa.",
+                "Bumuo sina Tor at OLagoon ng branding na 'Nordic Strength Trainer 11.0', na may signature na blue-and-white color scheme ni Tor na tumutugma sa channel art niya. Tinulungan ng OLagoon si Tor sa EU CE certification para sa fitness equipment (hiwalay na proseso mula sa karaniwang SUP certification), na nangangailangan ng 200 oras na mechanical fatigue testing. Ang packaging ay may QR code na nag-uugnay sa 12-linggong 'Fjord Fitness' training program ni Tor na filmed sa partnership sa isang Norwegian sports medicine clinic. Nagtatag ang OLagoon ng European distribution hub sa Rotterdam para sa 20 bansa.",
             },
             {
               title: 'Oktubre 2024 Launch sa 20 Lungsod ng Europa',
               detail:
-                "Inilunsad ang 'Fjord to Peak' tour ni Tor noong 12 Oktubre 2024 sa Sørenga bathing area ng Oslo na may 1,200 kalahok na gumagawa ng grupoang SUP workout. Sa loob ng 5 linggo, bumisita si Tor sa Copenhagen, Hamburg, Amsterdam, Berlin, Warsaw, Prague, Munich, Zurich, Milan, Barcelona, Madrid, Paris, London, Dublin, Edinburgh, Stockholm, Helsinki, Tallinn, at Riga. Bawat event ay pinagsama ang 45-minutong SUP fitness class at meet-and-greet. Ang lahat ng 1,000 launch unit ay nabenta sa pre-sale bago ang unang event; nagmadali ang Afarer na mag-air-freight ng 500 karagdagang unit sa gitna ng tour. Ang kabuuang benta noong 2024 ay umabot sa 2,300 unit sa 18 bansa sa Europa.",
+                "Inilunsad ang 'Fjord to Peak' tour ni Tor noong 12 Oktubre 2024 sa Sørenga bathing area ng Oslo na may 1,200 kalahok na gumagawa ng grupoang SUP workout. Sa loob ng 5 linggo, bumisita si Tor sa Copenhagen, Hamburg, Amsterdam, Berlin, Warsaw, Prague, Munich, Zurich, Milan, Barcelona, Madrid, Paris, London, Dublin, Edinburgh, Stockholm, Helsinki, Tallinn, at Riga. Bawat event ay pinagsama ang 45-minutong SUP fitness class at meet-and-greet. Ang lahat ng 1,000 launch unit ay nabenta sa pre-sale bago ang unang event; nagmadali ang OLagoon na mag-air-freight ng 500 karagdagang unit sa gitna ng tour. Ang kabuuang benta noong 2024 ay umabot sa 2,300 unit sa 18 bansa sa Europa.",
             },
           ],
           results: [
@@ -2002,8 +2002,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Creator ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Creator ang OLagoon',
       items: [
         {
           title: 'Kaalaman sa Produkto',
@@ -2031,38 +2031,38 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Ano ang minimum order quantity para sa creator-branded na SUP product?',
         answer:
-          'Sinusuportahan ng Afarer ang low MOQ production na nagsisimula sa 100-300 unit para sa creator launch stage, na nagpapahintulot sa iyo na i-validate ang demand nang walang malaking investment sa inventory. Habang lumalaki ang iyong brand, kaya naming palakin ang produksyon tungong 500-2000 unit at higit pa.',
+          'Sinusuportahan ng OLagoon ang low MOQ production na nagsisimula sa 100-300 unit para sa creator launch stage, na nagpapahintulot sa iyo na i-validate ang demand nang walang malaking investment sa inventory. Habang lumalaki ang iyong brand, kaya naming palakin ang produksyon tungong 500-2000 unit at higit pa.',
       },
       {
-        question: 'Matutulungan ba ng Afarer ang disenyo at prototyping ng aking custom SUP board?',
+        question: 'Matutulungan ba ng OLagoon ang disenyo at prototyping ng aking custom SUP board?',
         answer:
-          'Oo, nagbibigay ang Afarer ng buong product concept development, paggawa ng prototype, pagsubok sa kulay at graphics, at pagsasaayos ng configuration. Malapit kaming nagtatrabaho sa mga creator para mabuhay ang kanilang bisyon gamit ang custom board design, signature graphics, at product sample.',
+          'Oo, nagbibigay ang OLagoon ng buong product concept development, paggawa ng prototype, pagsubok sa kulay at graphics, at pagsasaayos ng configuration. Malapit kaming nagtatrabaho sa mga creator para mabuhay ang kanilang bisyon gamit ang custom board design, signature graphics, at product sample.',
       },
       {
         question: 'Gaano katagal bago bumuo ng prototype at simulan ang produksyon?',
         answer:
-          'Inuuna ng Afarer ang bilis para sa mga proyekto ng creator. Karaniwang ilang linggo lang ang prototype development, at flexible ang production timeline para tumugma sa iskedyul ng campaign, seasonal timing, at momentum ng audience.',
+          'Inuuna ng OLagoon ang bilis para sa mga proyekto ng creator. Karaniwang ilang linggo lang ang prototype development, at flexible ang production timeline para tumugma sa iskedyul ng campaign, seasonal timing, at momentum ng audience.',
       },
       {
         question: 'Kayo bang suportahan ang Kickstarter campaign sa manufacturing at fulfillment?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang pre-launch prototype preparation, production planning ng campaign, pagbuo ng tinatayang timeline, at post-campaign batch fulfillment kabilang ang paghahanda ng packaging at pagpapadala.',
+          'Oo, sinusuportahan ng OLagoon ang pre-launch prototype preparation, production planning ng campaign, pagbuo ng tinatayang timeline, at post-campaign batch fulfillment kabilang ang paghahanda ng packaging at pagpapadala.',
       },
       {
         question: 'Anong mga opsyon sa customization ang available para sa limited edition na SUP board?',
         answer:
-          'Nag-aalok ang Afarer ng custom graphics, signature artwork, logo ng creator, simbolo ng komunidad, natatanging pattern, espesyal na color edition, limited na numero, at premium packaging na may branded box at story material.',
+          'Nag-aalok ang OLagoon ng custom graphics, signature artwork, logo ng creator, simbolo ng komunidad, natatanging pattern, espesyal na color edition, limited na numero, at premium packaging na may branded box at story material.',
       },
       {
-        question: 'Paano nasisiguro ng Afarer ang quality control para sa creator-branded na produkto?',
+        question: 'Paano nasisiguro ng OLagoon ang quality control para sa creator-branded na produkto?',
         answer:
-          'Nagsasagawa ang Afarer ng air pressure stability testing, verification ng tibay ng board, material quality inspection, pagsusuri sa consistency ng graphics at kulay, pagsusuri sa kalidad ng packaging, at kumpletong accessory inspection para protektahan ang tiwala ng iyong komunidad.',
+          'Nagsasagawa ang OLagoon ng air pressure stability testing, verification ng tibay ng board, material quality inspection, pagsusuri sa consistency ng graphics at kulay, pagsusuri sa kalidad ng packaging, at kumpletong accessory inspection para protektahan ang tiwala ng iyong komunidad.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Creator Edition SUP Brand sa Afarer',
+      title: 'Bumuo ng Iyong Creator Edition SUP Brand sa OLagoon',
       subtitle:
-        'Sinusunod na ng iyong audience ang iyong paglalakbay. Ngayon, lumikha ng isang bagay na maaari nilang maranasan. Tinutulungan ng Afarer ang mga creator na maglunsad ng custom SUP product, limited edition board, at private label outdoor equipment.',
+        'Sinusunod na ng iyong audience ang iyong paglalakbay. Ngayon, lumikha ng isang bagay na maaari nilang maranasan. Tinutulungan ng OLagoon ang mga creator na maglunsad ng custom SUP product, limited edition board, at private label outdoor equipment.',
       primaryAction: {
         text: 'Simulan ang Iyong Creator SUP Project Ngayon',
       },
@@ -2082,9 +2082,9 @@ const tl: Record<string, SolutionOverride> = {
       tagline: 'Commercial SUP Fleet™',
       title: 'Propesyonal na SUP Equipment Solution para sa mga Paddle Club, Rental Operator at Water Sports School',
       subtitle:
-        'Nagbibigay ang Afarer ng Commercial SUP Fleet Solution na partikular na idinisenyo para sa mga propesyonal na operator. Tinutulungan namin ang mga SUP school, paddle club, rental company, resort, adventure operator, at event organizer na bumuo ng maaasahang equipment fleet na may commercial-grade na construction at pangmatagalang suporta.',
+        'Nagbibigay ang OLagoon ng Commercial SUP Fleet Solution na partikular na idinisenyo para sa mga propesyonal na operator. Tinutulungan namin ang mga SUP school, paddle club, rental company, resort, adventure operator, at event organizer na bumuo ng maaasahang equipment fleet na may commercial-grade na construction at pangmatagalang suporta.',
       image: {
-        alt: 'Commercial SUP fleet ng Afarer para sa mga paddle club at water sports school',
+        alt: 'Commercial SUP fleet ng OLagoon para sa mga paddle club at water sports school',
       },
     },
     challenge: {
@@ -2118,7 +2118,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Commercial-Grade na Inflatable SUP Construction',
           description:
-            'Ang mga commercial SUP product ng Afarer ay may pinalakas na PVC material system na may mas mataas na abrasion resistance, multi-layer rail reinforcement para sa paglaban sa bangga, high-density drop stitch structure para sa rigidity, at heavy-duty valve system na idinisenyo para sa madalas na inflation cycle.',
+            'Ang mga commercial SUP product ng OLagoon ay may pinalakas na PVC material system na may mas mataas na abrasion resistance, multi-layer rail reinforcement para sa paglaban sa bangga, high-density drop stitch structure para sa rigidity, at heavy-duty valve system na idinisenyo para sa madalas na inflation cycle.',
           features: [
             'Pinalakas na PVC material system',
             'Multi-layer rail reinforcement',
@@ -2129,7 +2129,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Fleet-Optimized na SUP Product Design',
           description:
-            'Bumubuo ang Afarer ng SUP equipment batay sa pangangailangan ng operasyon na may dedicated na training fleet para sa mga baguhan, rental fleet para sa madalas gumagamit, at event fleet para sa grupoang aktibidad. Nakatuon ang bawat configuration sa stability, tibay, at kadalian ng maintenance.',
+            'Bumubuo ang OLagoon ng SUP equipment batay sa pangangailangan ng operasyon na may dedicated na training fleet para sa mga baguhan, rental fleet para sa madalas gumagamit, at event fleet para sa grupoang aktibidad. Nakatuon ang bawat configuration sa stability, tibay, at kadalian ng maintenance.',
           features: [
             'SUP training fleet para sa lesson',
             'Rental fleet para sa madalas gumagamit',
@@ -2140,12 +2140,12 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Kumpletong Commercial Package Configuration',
           description:
-            'Tinutulungan ng Afarer ang pagbuo ng kumpletong fleet package kabilang ang mga inflatable SUP board, propesyonal na paddle, high-pressure pump, matibay na leash, heavy-duty backpack, at repair kit, na may karagdagang opsyon tulad ng spare valve, extra fin, at replacement handle.',
+            'Tinutulungan ng OLagoon ang pagbuo ng kumpletong fleet package kabilang ang mga inflatable SUP board, propesyonal na paddle, high-pressure pump, matibay na leash, heavy-duty backpack, at repair kit, na may karagdagang opsyon tulad ng spare valve, extra fin, at replacement handle.',
         },
         {
           title: 'Fleet Customization para sa mga Water Business',
           description:
-            'Kailangan ng mga komersyal na operator ng malakas na visual identity. Sinusuportahan ng Afarer ang logo customization, customization ng kulay na tumutugma sa branding ng club o kapaligiran ng resort, at fleet identification system na may number printing at model identification para mahusay na pamahalaan ang malalaking fleet.',
+            'Kailangan ng mga komersyal na operator ng malakas na visual identity. Sinusuportahan ng OLagoon ang logo customization, customization ng kulay na tumutugma sa branding ng club o kapaligiran ng resort, at fleet identification system na may number printing at model identification para mahusay na pamahalaan ang malalaking fleet.',
           features: [
             'Logo customization',
             'Customization ng kulay',
@@ -2156,27 +2156,27 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Bawasan ang Pangmatagalang Gastos sa Operasyon',
           description:
-            'Ang pinakamurang board ay hindi palaging ang pinakakumikita. Pinapabuti ng solusyon ng Afarer ang haba-buhay ng kagamitan gamit ang mas malalakas na material, kahusayan sa maintenance gamit ang standardized na component, at pagiging kumikita ng negosyo gamit ang mas kaunting downtime at mas mataas na utilization.',
+            'Ang pinakamurang board ay hindi palaging ang pinakakumikita. Pinapabuti ng solusyon ng OLagoon ang haba-buhay ng kagamitan gamit ang mas malalakas na material, kahusayan sa maintenance gamit ang standardized na component, at pagiging kumikita ng negosyo gamit ang mas kaunting downtime at mas mataas na utilization.',
         },
         {
           title: 'Suporta para sa mga SUP Rental Business',
           description:
-            'Kailangan ng mga rental operator ng kagamitang madali para sa customer, madali para sa staff, at madaling alagaan. Nagbibigay ang Afarer ng beginner-friendly na disenyo na may mataas na stability, mabilis na operasyon para sa mas mabilis na turnover ng customer, at matibay na accessory kabilang ang malalakas na paddle at maaasahang pump.',
+            'Kailangan ng mga rental operator ng kagamitang madali para sa customer, madali para sa staff, at madaling alagaan. Nagbibigay ang OLagoon ng beginner-friendly na disenyo na may mataas na stability, mabilis na operasyon para sa mas mabilis na turnover ng customer, at matibay na accessory kabilang ang malalakas na paddle at maaasahang pump.',
         },
         {
           title: 'SUP School Equipment Solution',
           description:
-            'Kailangan ng mga SUP instructor ng kagamitang sumusuporta sa pagkatuto. Maaaring i-optimize ang mga produkto ng Afarer para sa beginner course, youth program, grupoang training, at demonstration ng instructor na may mga feature na nagpapahusay ng karanasan sa pagtuturo.',
+            'Kailangan ng mga SUP instructor ng kagamitang sumusuporta sa pagkatuto. Maaaring i-optimize ang mga produkto ng OLagoon para sa beginner course, youth program, grupoang training, at demonstration ng instructor na may mga feature na nagpapahusay ng karanasan sa pagtuturo.',
         },
         {
           title: 'Event at Resort Water Activity Solution',
           description:
-            'Mga hotel, resort, at event company ang lalong nag-aalok ng beach activity, team building, at outdoor experience. Sinusuportahan ng Afarer ang fleet planning, product customization, at batch production para sa mga hospitality application na ito.',
+            'Mga hotel, resort, at event company ang lalong nag-aalok ng beach activity, team building, at outdoor experience. Sinusuportahan ng OLagoon ang fleet planning, product customization, at batch production para sa mga hospitality application na ito.',
         },
         {
           title: 'Suporta sa Maintenance at After-Sales',
           description:
-            'Kailangan ng mga propesyonal na operator ng suporta pagkatapos ng delivery. Nagbibigay ang Afarer ng spare parts planning na may repair material at replacement accessory, gabay sa maintenance para sa storage at paglilinis, at suporta sa pagpapalawak ng fleet para sa pagdaragdag ng bagong board at model.',
+            'Kailangan ng mga propesyonal na operator ng suporta pagkatapos ng delivery. Nagbibigay ang OLagoon ng spare parts planning na may repair material at replacement accessory, gabay sa maintenance para sa storage at paglilinis, at suporta sa pagpapalawak ng fleet para sa pagdaragdag ng bagong board at model.',
           features: [
             'Pagpaplano ng spare parts',
             'Gabay sa maintenance',
@@ -2198,7 +2198,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Commercial Fleet Planning',
           detail:
-            'Sinuri ng Afarer ang pang-araw-araw na pattern ng paggamit, antas ng kasanayan ng customer, at kondisyon ng kapaligiran ng tubig, pagkatapos ay inirekomenda ang configuration ng commercial inflatable SUP fleet na iniangkop sa pangangailangan ng operasyon ng club.',
+            'Sinuri ng OLagoon ang pang-araw-araw na pattern ng paggamit, antas ng kasanayan ng customer, at kondisyon ng kapaligiran ng tubig, pagkatapos ay inirekomenda ang configuration ng commercial inflatable SUP fleet na iniangkop sa pangangailangan ng operasyon ng club.',
         },
         {
           title: 'Product Development',
@@ -2229,35 +2229,35 @@ const tl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubai, United Arab Emirates',
             background:
-              "Si Ahmed Al-Rashid, 41 taong gulang, ay nagtatag ng 'Dubai Paddle Club' noong 2020 na may 8 entry-level na SUP na nire-renta mula sa isang shipping container malapit sa Dubai Marina. Pagsapit ng 2023, organikong lumaki ang kanyang operasyon tungong 45 board sa dalawang lokasyon pero nagdulot ng 60% taunang pagkawala ng inventory dahil sa delamination, UV damage, at kalawang sa saltwater. 7 buwan lamang ang average na haba-buhay ng board. Ang 12 staff ni Ahmed ay gumugugol ng 22 oras kada linggo sa repair sa halip na paglingkuran ang customer. Lumapit siya sa Afarer pagkatapos irekomenda ng isang kakumpetensya na ang kanilang iSUP ay tumatagal ng 3+ taon sa kondisyon ng Middle East.",
+              "Si Ahmed Al-Rashid, 41 taong gulang, ay nagtatag ng 'Dubai Paddle Club' noong 2020 na may 8 entry-level na SUP na nire-renta mula sa isang shipping container malapit sa Dubai Marina. Pagsapit ng 2023, organikong lumaki ang kanyang operasyon tungong 45 board sa dalawang lokasyon pero nagdulot ng 60% taunang pagkawala ng inventory dahil sa delamination, UV damage, at kalawang sa saltwater. 7 buwan lamang ang average na haba-buhay ng board. Ang 12 staff ni Ahmed ay gumugugol ng 22 oras kada linggo sa repair sa halip na paglingkuran ang customer. Lumapit siya sa OLagoon pagkatapos irekomenda ng isang kakumpetensya na ang kanilang iSUP ay tumatagal ng 3+ taon sa kondisyon ng Middle East.",
             goal: 'I-standardize sa isang matibay na fleet na 200 board na naglilingkod sa 3 lokasyon (Dubai Marina, Abu Dhabi Corniche, at Fujairah Beach) na may ≤15% taunang replacement rate at 40% na mas mataas na buwanang utilization bawat board.',
           },
           steps: [
             {
               title: 'Stress Testing ng 14 Board sa Buong Kondisyon ng Tag-init ng UAE',
               detail:
-                'Noong Mayo 2024, nagpadala ang Afarer ng regional sales director na si Karim Nasr at product engineer na si Sophie Chen sa Dubai para sa 6-linggong field test. Nag-deploy sila ng 14 iSUP ng kakumpetensya at 6 prototype ng Afarer sa lahat ng 3 lokasyon sa pinakatindi ng tag-init (ambient 48°C, tubig 35°C, UV index 11). Nagtala ang staff ni Ahmed ng 1,100+ oras na rental na may datos sa inflation retention, valve failure, abrasion, at kasiyahan ng customer. Ang XHD 15.0 mm board ng Afarer ay nawalan lamang ng 0.3 PSI sa loob ng 8 oras, kumpara sa 2.1 PSI na average ng mga kakumpetensya. Walang valve failure na ipinakita ang mga board ng Afarer — ang mga kakumpetensya ay may average na 1 failure bawat 120 oras na rental.',
+                'Noong Mayo 2024, nagpadala ang OLagoon ng regional sales director na si Karim Nasr at product engineer na si Sophie Chen sa Dubai para sa 6-linggong field test. Nag-deploy sila ng 14 iSUP ng kakumpetensya at 6 prototype ng OLagoon sa lahat ng 3 lokasyon sa pinakatindi ng tag-init (ambient 48°C, tubig 35°C, UV index 11). Nagtala ang staff ni Ahmed ng 1,100+ oras na rental na may datos sa inflation retention, valve failure, abrasion, at kasiyahan ng customer. Ang XHD 15.0 mm board ng OLagoon ay nawalan lamang ng 0.3 PSI sa loob ng 8 oras, kumpara sa 2.1 PSI na average ng mga kakumpetensya. Walang valve failure na ipinakita ang mga board ng OLagoon — ang mga kakumpetensya ay may average na 1 failure bawat 120 oras na rental.',
             },
             {
               title: 'Custom Fleet Configuration na may RFID Tracking at Color Coding',
               detail:
-                "Batay sa datos ng field, inirekomenda ng Afarer ang halo na 3-board fleet: 120 'Marina Pro 11.6' (all-around), 50 'Expedition 12.6' (touring para sa coastline ng Fujairah), at 30 'Yoga XL 10.8' (para sa sunrise class na pinangungunahan ng babae). Nag-embed ang Afarer ng RFID tag sa fin box ng bawat board para sa custom inventory system ni Ahmed gamit ang handheld reader. Ang mga board ay may color code ayon sa lokasyon: Dubai Marina sa teal, Abu Dhabi sa buhangin, Fujairah sa ocean blue. Nagdagdag si Ahmed ng $5/oras na premium para sa mga board ng Afarer kaysa sa natitirang generic fleet niya — at nakita niyang 92% ng customer ang pumili ng Afarer.",
+                "Batay sa datos ng field, inirekomenda ng OLagoon ang halo na 3-board fleet: 120 'Marina Pro 11.6' (all-around), 50 'Expedition 12.6' (touring para sa coastline ng Fujairah), at 30 'Yoga XL 10.8' (para sa sunrise class na pinangungunahan ng babae). Nag-embed ang OLagoon ng RFID tag sa fin box ng bawat board para sa custom inventory system ni Ahmed gamit ang handheld reader. Ang mga board ay may color code ayon sa lokasyon: Dubai Marina sa teal, Abu Dhabi sa buhangin, Fujairah sa ocean blue. Nagdagdag si Ahmed ng $5/oras na premium para sa mga board ng OLagoon kaysa sa natitirang generic fleet niya — at nakita niyang 92% ng customer ang pumili ng OLagoon.",
             },
             {
               title: 'Staff Training at Standardized Maintenance Protocol',
               detail:
-                'Noong Hulyo 2024, nagsagawa ang Afarer ng 3-araw na masusing training para sa 15 staff ni Ahmed sa Dubai Marina. Sakop ng training: tamang teknik ng inflation/deflation para maiwasan ang pagsuot ng valve thread, protocol sa pagbanlaw ng freshwater (sinukat sa 90 segundo bawat board), paglalagay ng UV protectant bawat 30 oras na rental, at proseso ng pag-iimpake para maiwasan ang pagtiklop. Nagbigay ang Afarer ng custom maintenance kit na may calibrated na pressure gauge, silicone lubricant, at UV test strip. Nagpatupad si Ahmed ng pang-araw-araw na digital checklist na may litrato; ang pagsunod ay sinubaybayan at umabot sa average na 94% sa unang 6 buwan.',
+                'Noong Hulyo 2024, nagsagawa ang OLagoon ng 3-araw na masusing training para sa 15 staff ni Ahmed sa Dubai Marina. Sakop ng training: tamang teknik ng inflation/deflation para maiwasan ang pagsuot ng valve thread, protocol sa pagbanlaw ng freshwater (sinukat sa 90 segundo bawat board), paglalagay ng UV protectant bawat 30 oras na rental, at proseso ng pag-iimpake para maiwasan ang pagtiklop. Nagbigay ang OLagoon ng custom maintenance kit na may calibrated na pressure gauge, silicone lubricant, at UV test strip. Nagpatupad si Ahmed ng pang-araw-araw na digital checklist na may litrato; ang pagsunod ay sinubaybayan at umabot sa average na 94% sa unang 6 buwan.',
             },
             {
               title: 'Launch noong Agosto 2024 at Resulta ng Unang Season',
               detail:
-                'Dumating ang fleet na 200 board sa pamamagitan ng Jebel Ali Port ng Dubai noong 1 Agosto 2024, kumpleto na ang training sa team ni Ahmed. Umabot sa AED 487,000 ($132,600) ang kita sa unang buwan, tumaas ng 210% mula sa katulad na buwan ng nakaraang taon. Nagdagdag ang lokasyon ng Fujairah ng snorkeling SUP tour sa AED 220/bawat tao, na may average na 40 rider araw-araw. Pagsapit ng Disyembre 2024, 73% ang kabuuang utilization ng fleet sa lahat ng lokasyon — 45% ang industry average. 3 board lamang ang nasira (lahat maling paggamit ng customer), at na-repair sa ilalim ng commercial warranty ng Afarer sa loob ng 5 business day bawat isa.',
+                'Dumating ang fleet na 200 board sa pamamagitan ng Jebel Ali Port ng Dubai noong 1 Agosto 2024, kumpleto na ang training sa team ni Ahmed. Umabot sa AED 487,000 ($132,600) ang kita sa unang buwan, tumaas ng 210% mula sa katulad na buwan ng nakaraang taon. Nagdagdag ang lokasyon ng Fujairah ng snorkeling SUP tour sa AED 220/bawat tao, na may average na 40 rider araw-araw. Pagsapit ng Disyembre 2024, 73% ang kabuuang utilization ng fleet sa lahat ng lokasyon — 45% ang industry average. 3 board lamang ang nasira (lahat maling paggamit ng customer), at na-repair sa ilalim ng commercial warranty ng OLagoon sa loob ng 5 business day bawat isa.',
             },
           ],
           results: [
             'Lumaki ang buwanang kita ng fleet mula AED 157,000 tungong AED 487,000 ($132,600) — 210% na pagtaas sa 6 buwan',
             'Bumaba ang taunang replacement rate ng board mula 60% tungong 4.5%, nakatipid ng humigit-kumulang AED 312,000 kada taon',
-            'Tumaas ang customer satisfaction score mula 3.8/5 (generic fleet) tungong 4.7/5 (Afarer fleet); tumaas ang Google Reviews mula 187 tungong 1,420',
+            'Tumaas ang customer satisfaction score mula 3.8/5 (generic fleet) tungong 4.7/5 (OLagoon fleet); tumaas ang Google Reviews mula 187 tungong 1,420',
             'Lumawak si Ahmed sa ika-4 na lokasyon (Ras Al Khaimah) noong Pebrero 2025, at nagorder ng 80 karagdagang board',
           ],
         },
@@ -2274,26 +2274,26 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Pagsusuri Bawat Isla at Product Customization',
               detail:
-                "Bisita ng EMEA accounts director ng Afarer na si Stefan Berger ang lahat ng 5 isla noong Abril 2024 kasama si Dimitri. Magkakaiba ang kondisyon ng bawat lokasyon: bulkanikong buhangin ng Santorini (nakakaskas, pH 8.2), mga dalampasigan ng Mykonos na antabay sa hangin (tuloy-tuloy na 20-25 knot na Meltemi wind), mababaw at mabatong entry point ng Naxos na nangangailangan ng pinalakas na nose, mahabang coastal trail ng Paros (8-12 km), at mapayapang look ng Crete na angkop sa pamilya. Bumuo ang Afarer ng 3 iniangkop na model: ang 'Med RockShield 11.0' na may 50% mas makapal na nose guard (sinubukan sa 2,000 paghatak sa sandstone), ang 'Meltemi Pro 10.6' na may low-profile deck para sa stability sa hangin, at ang 'Family Cruiser 11.6' na may 275 kg capacity para sa magulang-anak na paggamit.",
+                "Bisita ng EMEA accounts director ng OLagoon na si Stefan Berger ang lahat ng 5 isla noong Abril 2024 kasama si Dimitri. Magkakaiba ang kondisyon ng bawat lokasyon: bulkanikong buhangin ng Santorini (nakakaskas, pH 8.2), mga dalampasigan ng Mykonos na antabay sa hangin (tuloy-tuloy na 20-25 knot na Meltemi wind), mababaw at mabatong entry point ng Naxos na nangangailangan ng pinalakas na nose, mahabang coastal trail ng Paros (8-12 km), at mapayapang look ng Crete na angkop sa pamilya. Bumuo ang OLagoon ng 3 iniangkop na model: ang 'Med RockShield 11.0' na may 50% mas makapal na nose guard (sinubukan sa 2,000 paghatak sa sandstone), ang 'Meltemi Pro 10.6' na may low-profile deck para sa stability sa hangin, at ang 'Family Cruiser 11.6' na may 275 kg capacity para sa magulang-anak na paggamit.",
             },
             {
               title: 'Commercial-Grade Construction at Modular Accessory Rail',
               detail:
-                "Naglabas ang pabrika ng Afarer sa Xiamen ng mga board na may 1,200 denier PVC (kumpara sa karaniwang 1,000D), double-welded seam na sinubukan sa 14 PSI burst pressure (10 PSI ang industry standard), at stainless steel D-ring sa halip na plastic-welded. Bawat board ay may kasamang bagong 'QuickRail' system ng Afarer — extruded aluminum profile na nakadikit sa rail — na nagpapahintulot kay Dimitri na ikabit ang GoPro mount, water bottle holder, at fishing rod holder. Nagdagdag ito ng €12 na kita sa accessory rental bawat board bawat araw. Nagdagdag ang Afarer ng reflective na logo para kita: mahalaga kapag inieregulate ng Mykonos harbor patrol ang mga sasakyan pagkatapos ng paglubog ng araw.",
+                "Naglabas ang pabrika ng OLagoon sa Xiamen ng mga board na may 1,200 denier PVC (kumpara sa karaniwang 1,000D), double-welded seam na sinubukan sa 14 PSI burst pressure (10 PSI ang industry standard), at stainless steel D-ring sa halip na plastic-welded. Bawat board ay may kasamang bagong 'QuickRail' system ng OLagoon — extruded aluminum profile na nakadikit sa rail — na nagpapahintulot kay Dimitri na ikabit ang GoPro mount, water bottle holder, at fishing rod holder. Nagdagdag ito ng €12 na kita sa accessory rental bawat board bawat araw. Nagdagdag ang OLagoon ng reflective na logo para kita: mahalaga kapag inieregulate ng Mykonos harbor patrol ang mga sasakyan pagkatapos ng paglubog ng araw.",
             },
             {
               title: 'Pre-Season Staff Certification at Fleet Management System',
               detail:
-                'Noong Mayo 2024, nagtrain ang Afarer sa 22 staff ni Dimitri sa buong isla sa 2-araw na workshop sa Santorini. Kasama sa training: teknik ng rock-landing para mabawasan ang abrasion, tamang inflation sa 14-16 PSI tuning para sa temperatura ng tubig (18-26°C seasonal variation), emergency field repair gamit ang PVC patch (sinubukan ng trainer ang bawat estudyante na kumpletohin ang repair sa mas mababa sa 6 minuto), at protocol sa pagkasya sa customer para matiyak ang angkop na board sa timbang. Nagbigay ang Afarer ng digital fleet dashboard na nagpapakita ng oras ng rental ng bawat board, history ng maintenance, at lokasyon batay sa GPS. Pagtatapos ng season, 97% ng field repair ay pinangasiwaan ng staff nang hindi na tinatawag ang Afarer.',
+                'Noong Mayo 2024, nagtrain ang OLagoon sa 22 staff ni Dimitri sa buong isla sa 2-araw na workshop sa Santorini. Kasama sa training: teknik ng rock-landing para mabawasan ang abrasion, tamang inflation sa 14-16 PSI tuning para sa temperatura ng tubig (18-26°C seasonal variation), emergency field repair gamit ang PVC patch (sinubukan ng trainer ang bawat estudyante na kumpletohin ang repair sa mas mababa sa 6 minuto), at protocol sa pagkasya sa customer para matiyak ang angkop na board sa timbang. Nagbigay ang OLagoon ng digital fleet dashboard na nagpapakita ng oras ng rental ng bawat board, history ng maintenance, at lokasyon batay sa GPS. Pagtatapos ng season, 97% ng field repair ay pinangasiwaan ng staff nang hindi na tinatawag ang OLagoon.',
             },
             {
               title: 'Season ng Hunyo-Oktubre 2024: Launch, Excursion, at ROI',
               detail:
-                'Inilunsad ni Dimitri ang bagong fleet noong 1 Hunyo 2024, sabay-sabay sa lahat ng isla. Ang guided SUP excursion product (€55/bawat tao para sa 3-oras na coastal exploration na may snorkel stop) ay inilunsad noong 15 Hunyo, na may 4 trip araw-araw mula sa Red Beach ng Santorini at Agios Prokopios ng Naxos. Pagsapit ng Agosto, umabot ang excursion booking sa 2,100 bawat linggo sa lahat ng isla. Ang kabuuang kita sa season (Hunyo-Oktubre) ay €2.85 milyon, tumaas ng 137% mula sa €1.2 milyon noong 2023. Bumaba ang gastos sa repair ng board mula €22,000 tungong €2,800. 4 na board lamang ang sinulat-off (lahat dahil sa customer na hindi na kayang ayusin). Sa pagtatapos ng season, nagorder si Dimitri ng 100 karagdagang board para sa 2025 season at hiniling sa Afarer na bumuo ng pedal-drive SUP conversion kit.',
+                'Inilunsad ni Dimitri ang bagong fleet noong 1 Hunyo 2024, sabay-sabay sa lahat ng isla. Ang guided SUP excursion product (€55/bawat tao para sa 3-oras na coastal exploration na may snorkel stop) ay inilunsad noong 15 Hunyo, na may 4 trip araw-araw mula sa Red Beach ng Santorini at Agios Prokopios ng Naxos. Pagsapit ng Agosto, umabot ang excursion booking sa 2,100 bawat linggo sa lahat ng isla. Ang kabuuang kita sa season (Hunyo-Oktubre) ay €2.85 milyon, tumaas ng 137% mula sa €1.2 milyon noong 2023. Bumaba ang gastos sa repair ng board mula €22,000 tungong €2,800. 4 na board lamang ang sinulat-off (lahat dahil sa customer na hindi na kayang ayusin). Sa pagtatapos ng season, nagorder si Dimitri ng 100 karagdagang board para sa 2025 season at hiniling sa OLagoon na bumuo ng pedal-drive SUP conversion kit.',
             },
           ],
           results: [
-            'Lumaki ang kita sa season ng 137% mula €1.2M tungong €2.85M sa unang taon ng deployment ng Afarer',
+            'Lumaki ang kita sa season ng 137% mula €1.2M tungong €2.85M sa unang taon ng deployment ng OLagoon',
             'Bumaba ang gastos sa repair ng board mula €22,000 tungong €2,800 — 87% na pagbaba na nakatipid ng €19,200',
             '4 sa 200 board lamang ang sinulat-off (2% taunang pagkawala kumpara sa 35% sa nakaraang fleet); inaasahang 4 hanggang 5 season ang haba-buhay',
             'Ang guided excursion product ay bumuo ng €843,000 sa unang season na may 87% profit margin; 4.9/5 na TripAdvisor rating',
@@ -2301,8 +2301,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Paddle Club ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Paddle Club ang OLagoon',
       items: [
         {
           title: 'Business Operation',
@@ -2312,7 +2312,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Commercial Durability',
           description:
-            'Ang mga produkto ng Afarer ay idinisenyo para sa pang-araw-araw na propesyonal na paggamit na may pinalakas na construction, mas malalakas na material, at mahigpit na testing.',
+            'Ang mga produkto ng OLagoon ay idinisenyo para sa pang-araw-araw na propesyonal na paggamit na may pinalakas na construction, mas malalakas na material, at mahigpit na testing.',
         },
         {
           title: 'Fleet Management',
@@ -2322,15 +2322,15 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pangmatagalang Partnership',
           description:
-            'Sinusuportahan ng Afarer ang paglaki ng iyong negosyo na may spare parts, gabay sa maintenance, at pagpaplano ng pagpapalawak nang lampas sa paunang pagbili.',
+            'Sinusuportahan ng OLagoon ang paglaki ng iyong negosyo na may spare parts, gabay sa maintenance, at pagpaplano ng pagpapalawak nang lampas sa paunang pagbili.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Ano ang nagpapaging-angkop sa mga SUP board ng Afarer para sa mga komersyal na paddle club?',
+        question: 'Ano ang nagpapaging-angkop sa mga SUP board ng OLagoon para sa mga komersyal na paddle club?',
         answer:
-          'Ang mga commercial SUP board ng Afarer ay may pinalakas na PVC construction, multi-layer rail reinforcement, high-density drop stitch structure, at heavy-duty valve system na partikular na idinisenyo para sa pang-araw-araw na madalas na paggamit sa kapaligiran ng rental at training.',
+          'Ang mga commercial SUP board ng OLagoon ay may pinalakas na PVC construction, multi-layer rail reinforcement, high-density drop stitch structure, at heavy-duty valve system na partikular na idinisenyo para sa pang-araw-araw na madalas na paggamit sa kapaligiran ng rental at training.',
       },
       {
         question: 'Ano ang pagkakaiba ng consumer-grade at commercial-grade na SUP equipment?',
@@ -2338,30 +2338,30 @@ const tl: Record<string, SolutionOverride> = {
           'Ang mga commercial-grade na SUP board ay gumagamit ng mas malalakas na material, pinalakas na construction, at mas matibay na component para makayanan ang pang-araw-araw na paggamit ng maraming user. Ang mga consumer board ay idinisenyo para sa paminsan-minsang recreational na paggamit at mabilis masusuot sa komersyal na kondisyon.',
       },
       {
-        question: 'Pwede bang i-customize ng Afarer ang mga SUP board gamit ang logo at kulay ng aking club?',
+        question: 'Pwede bang i-customize ng OLagoon ang mga SUP board gamit ang logo at kulay ng aking club?',
         answer:
-          'Oo, nag-aalok ang Afarer ng buong fleet customization kabilang ang logo placement, brand color, sistema ng numero ng board, model identification, at marka ng instructor board para bumuo ng consistent at propesyonal na identity ng fleet.',
+          'Oo, nag-aalok ang OLagoon ng buong fleet customization kabilang ang logo placement, brand color, sistema ng numero ng board, model identification, at marka ng instructor board para bumuo ng consistent at propesyonal na identity ng fleet.',
       },
       {
-        question: 'Ano ang karaniwang haba-buhay ng commercial SUP board mula sa Afarer?',
+        question: 'Ano ang karaniwang haba-buhay ng commercial SUP board mula sa OLagoon?',
         answer:
-          'Sa tamang maintenance, malaki na lampas ng mga commercial SUP board ng Afarer sa haba-buhay ng consumer-grade na produkto, na binabawasan ang dalas ng replacement at kabuuang gastos ng pagmamay-ari. Nakadepende ang eksaktong haba-buhay sa intensity ng paggamit at gawi sa maintenance.',
+          'Sa tamang maintenance, malaki na lampas ng mga commercial SUP board ng OLagoon sa haba-buhay ng consumer-grade na produkto, na binabawasan ang dalas ng replacement at kabuuang gastos ng pagmamay-ari. Nakadepende ang eksaktong haba-buhay sa intensity ng paggamit at gawi sa maintenance.',
       },
       {
         question: 'Nag-aalok ba kayo ng spare parts at suporta sa maintenance para sa mga fleet operator?',
         answer:
-          'Oo, nagbibigay ang Afarer ng komprehensibong after-sales support kabilang ang pagpaplano ng spare parts, repair material, replacement accessory, gabay sa maintenance, rekomendasyon sa storage, at instruksyon sa paglilinis.',
+          'Oo, nagbibigay ang OLagoon ng komprehensibong after-sales support kabilang ang pagpaplano ng spare parts, repair material, replacement accessory, gabay sa maintenance, rekomendasyon sa storage, at instruksyon sa paglilinis.',
       },
       {
-        question: 'Anong laki ng fleet ang kayang suportahan ng Afarer para sa mga paddle club?',
+        question: 'Anong laki ng fleet ang kayang suportahan ng OLagoon para sa mga paddle club?',
         answer:
-          'Sinusuportahan ng Afarer ang lahat ng laki ng fleet mula sa maliliit na club na may 10-30 board hanggang sa malalaking operasyon na may 100+ board. Nagbibigay kami ng bulk purchasing solution, consistent na kalidad ng produkto, at suporta sa pagpapalawak habang lumalaki ang iyong negosyo.',
+          'Sinusuportahan ng OLagoon ang lahat ng laki ng fleet mula sa maliliit na club na may 10-30 board hanggang sa malalaking operasyon na may 100+ board. Nagbibigay kami ng bulk purchasing solution, consistent na kalidad ng produkto, at suporta sa pagpapalawak habang lumalaki ang iyong negosyo.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Commercial SUP Fleet sa Afarer',
+      title: 'Bumuo ng Iyong Commercial SUP Fleet sa OLagoon',
       subtitle:
-        'Ang iyong kagamitan ang pundasyon ng iyong negosyo. Pumili ng mga produktong idinisenyo para gumanap araw-araw. Tinutulungan ng Afarer ang mga paddle club, SUP school, rental operator, at resort na lumikha ng propesyonal na SUP fleet na may maaasahang manufacturing support.',
+        'Ang iyong kagamitan ang pundasyon ng iyong negosyo. Pumili ng mga produktong idinisenyo para gumanap araw-araw. Tinutulungan ng OLagoon ang mga paddle club, SUP school, rental operator, at resort na lumikha ng propesyonal na SUP fleet na may maaasahang manufacturing support.',
       primaryAction: {
         text: 'Simulan ang Iyong Commercial SUP Project Ngayon',
       },
@@ -2381,9 +2381,9 @@ const tl: Record<string, SolutionOverride> = {
       tagline: 'Durable Rental Fleet Solution™',
       title: 'Commercial SUP Equipment Solution para sa mga Rental Business, Dalampasigan at Tourist Destination',
       subtitle:
-        'Nagbibigay ang Afarer ng Durable Rental Fleet Solution na partikular na idinisenyo para sa mga komersyal na rental business. Tinutulungan namin ang mga beach rental company, lake activity operator, resort water center, at adventure tourism business na bumuo ng kumikitang SUP fleet na may matibay na construction at madaling maintenance.',
+        'Nagbibigay ang OLagoon ng Durable Rental Fleet Solution na partikular na idinisenyo para sa mga komersyal na rental business. Tinutulungan namin ang mga beach rental company, lake activity operator, resort water center, at adventure tourism business na bumuo ng kumikitang SUP fleet na may matibay na construction at madaling maintenance.',
       image: {
-        alt: 'Matibay na rental SUP fleet ng Afarer para sa mga beach at water sports operator',
+        alt: 'Matibay na rental SUP fleet ng OLagoon para sa mga beach at water sports operator',
       },
     },
     challenge: {
@@ -2417,7 +2417,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Rental-Grade na Inflatable SUP Construction',
           description:
-            'Nakatuon ang mga rental SUP product ng Afarer sa praktikal na tibay gamit ang abrasion-resistant na PVC material, pinalakas na rail construction para sa madalas na bangga, matibay na drop stitch structure para sa matatag na performance, at high-durability na valve system na idinisenyo para sa pang-araw-araw na operasyon.',
+            'Nakatuon ang mga rental SUP product ng OLagoon sa praktikal na tibay gamit ang abrasion-resistant na PVC material, pinalakas na rail construction para sa madalas na bangga, matibay na drop stitch structure para sa matatag na performance, at high-durability na valve system na idinisenyo para sa pang-araw-araw na operasyon.',
           features: [
             'Abrasion-resistant na PVC material',
             'Pinalakas na rail construction',
@@ -2428,7 +2428,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Cost-Optimized na Rental SUP Design',
           description:
-            'Hindi kailangan ng mga rental customer ang performance na antas ng kompetisyon. Kailangan nila ng stability, kaligtasan, kadalian ng operasyon, at pagiging maaasahan. Iko-configure ng Afarer ang mga produkto gamit ang matatag na all-round na hugis, standardized na accessory, at praktikal na packaging para sa mas mabilis na pamamahala ng kagamitan.',
+            'Hindi kailangan ng mga rental customer ang performance na antas ng kompetisyon. Kailangan nila ng stability, kaligtasan, kadalian ng operasyon, at pagiging maaasahan. Iko-configure ng OLagoon ang mga produkto gamit ang matatag na all-round na hugis, standardized na accessory, at praktikal na packaging para sa mas mabilis na pamamahala ng kagamitan.',
           features: [
             'Matatag na all-round na hugis para sa mga baguhan',
             'Standardized na accessory',
@@ -2439,17 +2439,17 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Kumpletong Rental Fleet Package',
           description:
-            'Bumubuo ang Afarer ng handa nang gamiting rental package kabilang ang matibay na inflatable SUP board, adjustable na paddle, pump, leash, carry backpack, at repair kit, na may commercial add-on na opsyon tulad ng spare fin, karagdagang paddle, replacement valve, at storage solution.',
+            'Bumubuo ang OLagoon ng handa nang gamiting rental package kabilang ang matibay na inflatable SUP board, adjustable na paddle, pump, leash, carry backpack, at repair kit, na may commercial add-on na opsyon tulad ng spare fin, karagdagang paddle, replacement valve, at storage solution.',
         },
         {
           title: 'Bulk Fleet Purchasing Solution',
           description:
-            'Sinusuportahan ng Afarer ang mga operator na bumibili ng 50, 100, 300, o 500+ board fleet na may suporta sa pagpapalawak mula sa maliliit na rental operation hanggang sa multi-location na negosyo, na tinitiyak ang consistent na kalidad ng kagamitan at mas mahusay na kahusayan sa pagbili.',
+            'Sinusuportahan ng OLagoon ang mga operator na bumibili ng 50, 100, 300, o 500+ board fleet na may suporta sa pagpapalawak mula sa maliliit na rental operation hanggang sa multi-location na negosyo, na tinitiyak ang consistent na kalidad ng kagamitan at mas mahusay na kahusayan sa pagbili.',
         },
         {
           title: 'Madaling Sistema ng Maintenance at Repair',
           description:
-            'Hindi kayang bayaran ng mga rental business ang mahabang downtime ng kagamitan. Nagbibigay ang Afarer ng repair-friendly na disenyo ng produkto na may replaceable na component, gabay sa maintenance para sa paglilinis at storage, at emergency repair support na may kit at gabay sa troubleshooting.',
+            'Hindi kayang bayaran ng mga rental business ang mahabang downtime ng kagamitan. Nagbibigay ang OLagoon ng repair-friendly na disenyo ng produkto na may replaceable na component, gabay sa maintenance para sa paglilinis at storage, at emergency repair support na may kit at gabay sa troubleshooting.',
           features: [
             'Replaceable na component',
             'Standard na accessory',
@@ -2460,23 +2460,23 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Seasonal na Optimize ng Rental Business',
           description:
-            'Maraming rental business ang seasonal ang operasyon. Tinutulungan ng Afarer ang pagpaplano ng inventory ayon sa demand na may angkop na produkto para sa tag-init na beach operation, family SUP package, resort activity, at adventure tourism gamit ang touring-style na model.',
+            'Maraming rental business ang seasonal ang operasyon. Tinutulungan ng OLagoon ang pagpaplano ng inventory ayon sa demand na may angkop na produkto para sa tag-init na beach operation, family SUP package, resort activity, at adventure tourism gamit ang touring-style na model.',
         },
         {
           title: 'Custom Branding para sa mga Rental Operator',
           description:
-            'Nakikita ng daan-daang customer ang rental equipment. Sinusuportahan ng Afarer ang logo branding, customization ng kulay na tumutugma sa atmospera ng dalampasigan o istilo ng resort, at fleet identification na may numero ng board at label ng model na ginagawang marketing tool ang kagamitan.',
+            'Nakikita ng daan-daang customer ang rental equipment. Sinusuportahan ng OLagoon ang logo branding, customization ng kulay na tumutugma sa atmospera ng dalampasigan o istilo ng resort, at fleet identification na may numero ng board at label ng model na ginagawang marketing tool ang kagamitan.',
           features: ['Logo branding', 'Customization ng kulay', 'Numero ng board', 'Label ng model at operasyon'],
         },
         {
           title: 'Suporta para sa mga Tourist Destination at Resort',
           description:
-            'Maraming tourism business ang gumagamit ng SUP bilang experience product. Sinusuportahan ng Afarer ang mga hotel, resort, campsite, at adventure park na may fleet planning, product customization, at batch production para sa kumpletong karanasan sa water activity.',
+            'Maraming tourism business ang gumagamit ng SUP bilang experience product. Sinusuportahan ng OLagoon ang mga hotel, resort, campsite, at adventure park na may fleet planning, product customization, at batch production para sa kumpletong karanasan sa water activity.',
         },
         {
           title: 'Pagbutihin ang ROI ng Rental Business',
           description:
-            'Tinutulungan ng Afarer ang mga operator na pagbutihin ang pagiging kumikita gamit ang mas mahabang haba-buhay ng produkto na nagbabawas ng dalas ng replacement, mas mababang gastos sa maintenance na nagbabawas ng oras ng repair, at mas mataas na availability na nagpapataas ng pang-araw-araw na rental capacity at kasiyahan ng customer.',
+            'Tinutulungan ng OLagoon ang mga operator na pagbutihin ang pagiging kumikita gamit ang mas mahabang haba-buhay ng produkto na nagbabawas ng dalas ng replacement, mas mababang gastos sa maintenance na nagbabawas ng oras ng repair, at mas mataas na availability na nagpapataas ng pang-araw-araw na rental capacity at kasiyahan ng customer.',
         },
       ],
     },
@@ -2492,7 +2492,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pagsusuri ng Rental Fleet',
           detail:
-            'Sinuri ng Afarer ang dalas ng paggamit, profile ng customer, at kapaligiran ng operasyon, pagkatapos ay inirekomenda ang commercial rental SUP configuration na optimize para sa kapaligiran ng Mediterranean beach.',
+            'Sinuri ng OLagoon ang dalas ng paggamit, profile ng customer, at kapaligiran ng operasyon, pagkatapos ay inirekomenda ang commercial rental SUP configuration na optimize para sa kapaligiran ng Mediterranean beach.',
         },
         {
           title: 'Product Development',
@@ -2529,19 +2529,19 @@ const tl: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Winter Storage Simulation Testing sa Cold Chamber Facility ng Afarer',
+              title: 'Winter Storage Simulation Testing sa Cold Chamber Facility ng OLagoon',
               detail:
-                "Noong Enero 2024, nagpadala si Sarah ng 8 board ng kakumpetensya at 6 prototype ng Afarer sa facility ng Afarer sa Xiamen para sa 4 linggo ng extreme cold testing. Ang test chamber ay umiikot sa pagitan ng -35°C at +25°C araw-araw (sinasalamin ang freeze-thaw ng Marso sa Canada). Ang mga board ay iniimbak sa sinimulang rack condition sa ilalim ng 200 kg snow load. Ang XHD-Plus material ng Afarer — isang 4-layer laminate na may inner TPU membrane — ay walang ipinakitang micro-cracking pagkatapos ng 28 cycle, habang 5 sa 8 board ng kakumpetensya ay nagkaroon ng nakikitang bitak. Ang TPU layer ay pumigil sa pagpasok ng kahalumigmigan kahit gasgas ang surface ng board. Humiling din si Sarah ng 'cold-fold' test: mga board na tiniklop para sa transport sa -20°C; ang sa Afarer ay nakayanan ang 500 fold nang walang pagkabigo sa crease-line.",
+                "Noong Enero 2024, nagpadala si Sarah ng 8 board ng kakumpetensya at 6 prototype ng OLagoon sa facility ng OLagoon sa Xiamen para sa 4 linggo ng extreme cold testing. Ang test chamber ay umiikot sa pagitan ng -35°C at +25°C araw-araw (sinasalamin ang freeze-thaw ng Marso sa Canada). Ang mga board ay iniimbak sa sinimulang rack condition sa ilalim ng 200 kg snow load. Ang XHD-Plus material ng OLagoon — isang 4-layer laminate na may inner TPU membrane — ay walang ipinakitang micro-cracking pagkatapos ng 28 cycle, habang 5 sa 8 board ng kakumpetensya ay nagkaroon ng nakikitang bitak. Ang TPU layer ay pumigil sa pagpasok ng kahalumigmigan kahit gasgas ang surface ng board. Humiling din si Sarah ng 'cold-fold' test: mga board na tiniklop para sa transport sa -20°C; ang sa OLagoon ay nakayanan ang 500 fold nang walang pagkabigo sa crease-line.",
             },
             {
               title: "Custom na 'Canadian Shield' Package na may Insulated Storage Sleeve",
               detail:
-                "Batay sa resulta ng test, bumuo ang Afarer ng 'Canadian Shield' specification: 4-layer na PVC/TPU construction, stainless steel valve na rated hanggang -40°C (ang standard na brass valve ay humihigpit sa yelo), at pinalakas na carry handle na rated hanggang 2x bigat ng board para sa pagbubuhat sa niyebe. Nagdisenyo ang Afarer ng fleece-lined na insulated storage sleeve (ang 'Winter Jacket') na nagpanatili ng internal na temperatura na 12°C mas mataas kaysa ambient. Sinubukan ni Sarah ang mga sleeve noong Marso 2024 sa Lake Muskoka: ang mga board na iniimbak sa -22°C nang magdamag sa loob ng sleeve ay nasa -8°C sa umaga at nag-inflate nang 3 minuto mas mabilis. Gumawa ang Afarer ng 150 sleeve bilang bahagi ng order.",
+                "Batay sa resulta ng test, bumuo ang OLagoon ng 'Canadian Shield' specification: 4-layer na PVC/TPU construction, stainless steel valve na rated hanggang -40°C (ang standard na brass valve ay humihigpit sa yelo), at pinalakas na carry handle na rated hanggang 2x bigat ng board para sa pagbubuhat sa niyebe. Nagdisenyo ang OLagoon ng fleece-lined na insulated storage sleeve (ang 'Winter Jacket') na nagpanatili ng internal na temperatura na 12°C mas mataas kaysa ambient. Sinubukan ni Sarah ang mga sleeve noong Marso 2024 sa Lake Muskoka: ang mga board na iniimbak sa -22°C nang magdamag sa loob ng sleeve ay nasa -8°C sa umaga at nag-inflate nang 3 minuto mas mabilis. Gumawa ang OLagoon ng 150 sleeve bilang bahagi ng order.",
             },
             {
               title: 'Pre-Season Bootcamp para sa Resort Staff sa 3 Property',
               detail:
-                "Noong Mayo 2024, gumugol si Jake Patterson, North America service manager ng Afarer, ng 5 araw sa pagtuturo sa 28 staff sa buong 3 resort. Kasama sa protocol na partikular sa Canada: spring commissioning (detalyadong inspection checklist para sa pinsala mula sa cold storage), tamang inflation sa 13-15 PSI (inaadjust para sa malamig na tubig — ang Lake Muskoka ay nasa average na 14°C sa Hunyo), winterization procedure para sa mga board na iniimbak sa hindi pinainit na boathouse, at 'damage-reporting-in-15-minutes' na WhatsApp system. Itinuro din ni Jake sa staff ang kilalanin ang karaniwang pinsala mula sa ngipin ng beaver ng Canada (totoong problema: 2 board ang nawala sa beaver noong 2023) at kung paano aayusan gamit ang heavy-duty na PVC patch.",
+                "Noong Mayo 2024, gumugol si Jake Patterson, North America service manager ng OLagoon, ng 5 araw sa pagtuturo sa 28 staff sa buong 3 resort. Kasama sa protocol na partikular sa Canada: spring commissioning (detalyadong inspection checklist para sa pinsala mula sa cold storage), tamang inflation sa 13-15 PSI (inaadjust para sa malamig na tubig — ang Lake Muskoka ay nasa average na 14°C sa Hunyo), winterization procedure para sa mga board na iniimbak sa hindi pinainit na boathouse, at 'damage-reporting-in-15-minutes' na WhatsApp system. Itinuro din ni Jake sa staff ang kilalanin ang karaniwang pinsala mula sa ngipin ng beaver ng Canada (totoong problema: 2 board ang nawala sa beaver noong 2023) at kung paano aayusan gamit ang heavy-duty na PVC patch.",
             },
             {
               title: 'Launch noong Summer 2024 at Performance sa Leaf Season',
@@ -2569,17 +2569,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Heat Stress Study noong Hulyo 2023 sa Playa de la Fontanilla ng Marbella',
               detail:
-                'Noong Hulyo 2023, pinangasiwaan ni Pedro Sánchez, Mediterranean technical lead ng Afarer, ang 3-linggong pag-aaral sa flagship na dalampasigan ni Miguel. Naglagay sila ng Bluetooth pressure sensor sa 10 board ng kakumpetensya at 5 prototype ng Afarer na nagre-record bawat 5 minuto. Ipinakita ng resulta na ang mga board ng kakumpetensya ay nawalan ng 2.8-4.1 PSI sa loob ng 8 oras (nagsimula sa 15 PSI, bumaba tungong 10.9-12.2 PSI pagsapit ng 4 PM). Ang mga XHD-Thermal board ng Afarer — na gumagamit ng heat-reflective na silver outer layer at nitrogen gas fill — ay nawalan lamang ng 0.7 PSI. Natuklasan ni Pedro ang pangunahing isyu: ang karaniwang hangin ay lumalawak sa init, na nagpapataas ng internal pressure, na nagti-trigger ng safety valve release; ang nitrogen fill ng Afarer (mas malalaking molecule, mas mabagal na diffusion) ay binawasan ang epekto na ito. Ang temperatura ng surface ng board sa buhangin sa 3 PM ay umabot sa 67°C — ang silver layer ng Afarer ay nagreflect ng 34% ng infrared radiation.',
+                'Noong Hulyo 2023, pinangasiwaan ni Pedro Sánchez, Mediterranean technical lead ng OLagoon, ang 3-linggong pag-aaral sa flagship na dalampasigan ni Miguel. Naglagay sila ng Bluetooth pressure sensor sa 10 board ng kakumpetensya at 5 prototype ng OLagoon na nagre-record bawat 5 minuto. Ipinakita ng resulta na ang mga board ng kakumpetensya ay nawalan ng 2.8-4.1 PSI sa loob ng 8 oras (nagsimula sa 15 PSI, bumaba tungong 10.9-12.2 PSI pagsapit ng 4 PM). Ang mga XHD-Thermal board ng OLagoon — na gumagamit ng heat-reflective na silver outer layer at nitrogen gas fill — ay nawalan lamang ng 0.7 PSI. Natuklasan ni Pedro ang pangunahing isyu: ang karaniwang hangin ay lumalawak sa init, na nagpapataas ng internal pressure, na nagti-trigger ng safety valve release; ang nitrogen fill ng OLagoon (mas malalaking molecule, mas mabagal na diffusion) ay binawasan ang epekto na ito. Ang temperatura ng surface ng board sa buhangin sa 3 PM ay umabot sa 67°C — ang silver layer ng OLagoon ay nagreflect ng 34% ng infrared radiation.',
             },
             {
               title: "'Costa del Sol Edition' na may Heat-Dissipating Deck at Anti-Theft Anchor",
               detail:
-                "Lumikha ang Afarer ng custom specification para kay Miguel: 'Costasol Edition 11.0' na may cork deck (8°C mas malamig kaysa EVA foam sa peak na araw, beripikado gamit ang thermal camera), heat-resistant na stainless steel valve na may silicone O-ring (kumpara sa karaniwang rubber na nasisira sa 400+ oras ng araw ng Espanya), at UV-stabilized na fin system na rated hanggang 2,000 oras UV exposure. Humiling si Miguel ng feature laban sa pagnanakaw: nag-integrate ang Afarer ng stainless steel cable loop sa ilong ng board na pwedeng salihan ng combination lock ng staff — nabawasan ang pagnanakaw ng board mula 12/kada taon tungong 0. Ang bawat board ay may heat-embossed na logo ng beach club ni Miguel (walang sticker na matatanggal) na may QR code na tumuturo sa liability waiver at rental agreement.",
+                "Lumikha ang OLagoon ng custom specification para kay Miguel: 'Costasol Edition 11.0' na may cork deck (8°C mas malamig kaysa EVA foam sa peak na araw, beripikado gamit ang thermal camera), heat-resistant na stainless steel valve na may silicone O-ring (kumpara sa karaniwang rubber na nasisira sa 400+ oras ng araw ng Espanya), at UV-stabilized na fin system na rated hanggang 2,000 oras UV exposure. Humiling si Miguel ng feature laban sa pagnanakaw: nag-integrate ang OLagoon ng stainless steel cable loop sa ilong ng board na pwedeng salihan ng combination lock ng staff — nabawasan ang pagnanakaw ng board mula 12/kada taon tungong 0. Ang bawat board ay may heat-embossed na logo ng beach club ni Miguel (walang sticker na matatanggal) na may QR code na tumuturo sa liability waiver at rental agreement.",
             },
             {
               title: 'High-Volume Rental Logistics at Team Training',
               detail:
-                "Gumugol si Ana Martínez, operations consultant ng Afarer, ng 2 linggo noong Pebrero 2024 sa pag-optimize ng rental workflow ni Miguel. Ang 'grab-and-go' model: 50 board na laging inflated sa custom rolling rack (ginawa ng accessory team ng Afarer), na binabawasan ang checkout time mula 8 minuto tungong 90 segundo. Nagtrain si Ana sa 22 seasonal staff sa: 1-minutong inflation check gamit ang calibrated na gauge, tamang paglilinis ng cork deck (hinahapunan sabon, walang pressure washer), protocol sa hapon na pressure top-up (30-segundong check sa 2 PM), at pagbanlaw sa katapusan ng araw gamit ang freshwater spray system (in-install ng Afarer, €80/station). Ang bagong workflow ay nagpahintulot sa 2 staff na pamahalaan ang 200 board sa halip na 5 staff para sa 85.",
+                "Gumugol si Ana Martínez, operations consultant ng OLagoon, ng 2 linggo noong Pebrero 2024 sa pag-optimize ng rental workflow ni Miguel. Ang 'grab-and-go' model: 50 board na laging inflated sa custom rolling rack (ginawa ng accessory team ng OLagoon), na binabawasan ang checkout time mula 8 minuto tungong 90 segundo. Nagtrain si Ana sa 22 seasonal staff sa: 1-minutong inflation check gamit ang calibrated na gauge, tamang paglilinis ng cork deck (hinahapunan sabon, walang pressure washer), protocol sa hapon na pressure top-up (30-segundong check sa 2 PM), at pagbanlaw sa katapusan ng araw gamit ang freshwater spray system (in-install ng OLagoon, €80/station). Ang bagong workflow ay nagpahintulot sa 2 staff na pamahalaan ang 200 board sa halip na 5 staff para sa 85.",
             },
             {
               title: 'Summer 2024: Ang Pinakamainit na Hulyo sa Kasaysayan ng Espanya',
@@ -2596,8 +2596,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Rental Business ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Rental Business ang OLagoon',
       items: [
         {
           title: 'Komersyal na Paggamit',
@@ -2625,38 +2625,38 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Anong uri ng SUP board ang pinakamahusay para sa mga rental business?',
         answer:
-          'Kailangan ng mga rental business ang matibay at matatag na all-round SUP board na may pinalakas na construction, beginner-friendly na hugis, standardized na accessory, at madaling maintenance feature. Partikular na idinisenyo ang mga rental board ng Afarer para makayanan ang madalas na paggamit ng customer ng lahat ng antas ng kasanayan.',
+          'Kailangan ng mga rental business ang matibay at matatag na all-round SUP board na may pinalakas na construction, beginner-friendly na hugis, standardized na accessory, at madaling maintenance feature. Partikular na idinisenyo ang mga rental board ng OLagoon para makayanan ang madalas na paggamit ng customer ng lahat ng antas ng kasanayan.',
       },
       {
         question: 'Paano ko mababawasan ang gastos sa maintenance ng aking rental SUP fleet?',
         answer:
-          'Tinutulungan ng Afarer ang pagbawas ng gastos sa maintenance gamit ang matibay na construction na lumalaban sa pinsala, standardized na component na nagpapadali ng repair, replaceable na part na nag-aalis ng ganap na pagpapalit ng board, at gabay sa maintenance na tumutulong sa iyong team na mahusay na pangasiwaan ang pangunahing pag-aalaga.',
+          'Tinutulungan ng OLagoon ang pagbawas ng gastos sa maintenance gamit ang matibay na construction na lumalaban sa pinsala, standardized na component na nagpapadali ng repair, replaceable na part na nag-aalis ng ganap na pagpapalit ng board, at gabay sa maintenance na tumutulong sa iyong team na mahusay na pangasiwaan ang pangunahing pag-aalaga.',
       },
       {
         question: 'Ano ang minimum order quantity para sa mga rental SUP fleet?',
         answer:
-          'Sinusuportahan ng Afarer ang flexible na laki ng fleet mula sa maliliit na operasyon na nagsisimula sa 50 board hanggang sa malalaking fleet na 500+ board. Nagbibigay kami ng bulk purchasing solution na may consistent na kalidad sa lahat ng dami ng order.',
+          'Sinusuportahan ng OLagoon ang flexible na laki ng fleet mula sa maliliit na operasyon na nagsisimula sa 50 board hanggang sa malalaking fleet na 500+ board. Nagbibigay kami ng bulk purchasing solution na may consistent na kalidad sa lahat ng dami ng order.',
       },
       {
         question: 'Nag-aalok ba kayo ng bulk pricing para sa mga rental operator?',
         answer:
-          'Oo, nag-aalok ang Afarer ng competitive na bulk pricing para sa mga rental operator na bumibili ng 50, 100, 300, o 500+ board fleet, na may consistent na kalidad ng kagamitan at mahusay na production timeline para sa malalaking order.',
+          'Oo, nag-aalok ang OLagoon ng competitive na bulk pricing para sa mga rental operator na bumibili ng 50, 100, 300, o 500+ board fleet, na may consistent na kalidad ng kagamitan at mahusay na production timeline para sa malalaking order.',
       },
       {
-        question: 'Paano nakakayanan ng mga SUP board ng Afarer ang saltwater at kapaligiran ng dalampasigan?',
+        question: 'Paano nakakayanan ng mga SUP board ng OLagoon ang saltwater at kapaligiran ng dalampasigan?',
         answer:
-          'Ang mga rental board ng Afarer ay may abrasion-resistant na PVC material, UV-resistant na construction, pinalakas na rail para sa pagkakadikit sa dalampasigan, at corrosion-resistant na hardware na kayang tiisin ang pagkakalantad sa saltwater, pagkaskas ng buhangin, at kondisyon ng outdoor storage.',
+          'Ang mga rental board ng OLagoon ay may abrasion-resistant na PVC material, UV-resistant na construction, pinalakas na rail para sa pagkakadikit sa dalampasigan, at corrosion-resistant na hardware na kayang tiisin ang pagkakalantad sa saltwater, pagkaskas ng buhangin, at kondisyon ng outdoor storage.',
       },
       {
         question: 'Pwede bang lagyan ng logo ng aking negosyo ang aking rental SUP board?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang buong customization kabilang ang logo branding, pagtutugma ng kulay, numero ng board, at label ng model na ginagawang kitang marketing ang iyong rental equipment sa buong lokasyon ng iyong dalampasigan o resort.',
+          'Oo, sinusuportahan ng OLagoon ang buong customization kabilang ang logo branding, pagtutugma ng kulay, numero ng board, at label ng model na ginagawang kitang marketing ang iyong rental equipment sa buong lokasyon ng iyong dalampasigan o resort.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Matibay na SUP Rental Fleet sa Afarer',
+      title: 'Bumuo ng Iyong Matibay na SUP Rental Fleet sa OLagoon',
       subtitle:
-        'Ang iyong kagamitan ang tumutukoy sa pagiging kumikita ng iyong negosyo. Pumili ng SUP product na idinisenyong mas magsumikap at mas tumagal. Tinutulungan ng Afarer ang mga rental operator na bumuo ng beach SUP fleet, resort water activity equipment, at tourism adventure system na may maaasahang OEM manufacturing support.',
+        'Ang iyong kagamitan ang tumutukoy sa pagiging kumikita ng iyong negosyo. Pumili ng SUP product na idinisenyong mas magsumikap at mas tumagal. Tinutulungan ng OLagoon ang mga rental operator na bumuo ng beach SUP fleet, resort water activity equipment, at tourism adventure system na may maaasahang OEM manufacturing support.',
       primaryAction: {
         text: 'Simulan ang Iyong Rental Fleet Project Ngayon',
       },
@@ -2676,9 +2676,9 @@ const tl: Record<string, SolutionOverride> = {
       tagline: 'Resort Water Activity Package™',
       title: 'Premium na SUP at Water Sports Solution para sa mga Luxury Hotel, Resort at Hospitality Brand',
       subtitle:
-        'Nagbibigay ang Afarer ng kumpletong Resort Water Activity Package na partikular na idinisenyo para sa mga hospitality business. Tinutulungan namin ang mga luxury resort, beach hotel, island destination, eco resort, at wellness retreat na lumikha ng branded na karanasan sa tubig gamit ang custom SUP fleet, storage system, at staff training.',
+        'Nagbibigay ang OLagoon ng kumpletong Resort Water Activity Package na partikular na idinisenyo para sa mga hospitality business. Tinutulungan namin ang mga luxury resort, beach hotel, island destination, eco resort, at wellness retreat na lumikha ng branded na karanasan sa tubig gamit ang custom SUP fleet, storage system, at staff training.',
       image: {
-        alt: 'Resort water activity package ng Afarer na may custom branded na SUP board',
+        alt: 'Resort water activity package ng OLagoon na may custom branded na SUP board',
       },
     },
     challenge: {
@@ -2712,7 +2712,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Custom Resort SUP Fleet Development',
           description:
-            'Tinutulungan ng Afarer ang mga resort na bumuo ng dedicated na fleet ng kagamitan batay sa lokasyon, profile ng guest, kapaligiran ng tubig, at programa ng aktibidad. Mula sa family resort configuration na may matatag na all-round board hanggang sa luxury island package na may premium na disenyo at wellness retreat package na may malapad na yoga SUP board.',
+            'Tinutulungan ng OLagoon ang mga resort na bumuo ng dedicated na fleet ng kagamitan batay sa lokasyon, profile ng guest, kapaligiran ng tubig, at programa ng aktibidad. Mula sa family resort configuration na may matatag na all-round board hanggang sa luxury island package na may premium na disenyo at wellness retreat package na may malapad na yoga SUP board.',
           features: [
             'Family resort package',
             'Luxury island resort package',
@@ -2723,7 +2723,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Resort Branding Customization',
           description:
-            'Ang iyong kagamitan sa tubig ay magiging bahagi ng paglalakbay ng guest. Sinusuportahan ng Afarer ang custom na integrasyon ng logo, custom na disenyo ng kulay na tumutugma sa arkitektura ng resort at kulay ng brand, at premium na packaging na may branded na accessory at materyal ng pagtuturo sa guest.',
+            'Ang iyong kagamitan sa tubig ay magiging bahagi ng paglalakbay ng guest. Sinusuportahan ng OLagoon ang custom na integrasyon ng logo, custom na disenyo ng kulay na tumutugma sa arkitektura ng resort at kulay ng brand, at premium na packaging na may branded na accessory at materyal ng pagtuturo sa guest.',
           features: [
             'Custom na pag-print ng logo',
             'Disenyo ng kulay na tumutugma sa brand',
@@ -2734,27 +2734,27 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Resort Storage at Equipment Management System',
           description:
-            'Tinutulungan ng Afarer ang mga resort na planuhin ang storage ng kagamitan gamit ang SUP rack, sistema ng organisasyon, at solusyon sa proteksyon sa panahon na isinasaalang-alang ang pagkakalantad sa araw, kahalumigmigan, at coastal na kapaligiran. Maayos na mapamamahalaan ng staff ang pang-araw-araw na paghahanda ng kagamitan, check-out ng guest, at inspeksyon ng maintenance.',
+            'Tinutulungan ng OLagoon ang mga resort na planuhin ang storage ng kagamitan gamit ang SUP rack, sistema ng organisasyon, at solusyon sa proteksyon sa panahon na isinasaalang-alang ang pagkakalantad sa araw, kahalumigmigan, at coastal na kapaligiran. Maayos na mapamamahalaan ng staff ang pang-araw-araw na paghahanda ng kagamitan, check-out ng guest, at inspeksyon ng maintenance.',
         },
         {
           title: 'Suporta sa Staff Safety at Operation Training',
           description:
-            'Nagbibigay ang Afarer ng operational na gabay kabilang ang proseso sa paghawak ng kagamitan, instruksyon sa inflation, paraan ng paglilinis, gabay sa storage, proseso sa kaligtasan ng guest, at pang-araw-araw na operational checklist na sumasaklaw sa inspeksyon bago gamitin at paglilinis pagkatapos gamitin.',
+            'Nagbibigay ang OLagoon ng operational na gabay kabilang ang proseso sa paghawak ng kagamitan, instruksyon sa inflation, paraan ng paglilinis, gabay sa storage, proseso sa kaligtasan ng guest, at pang-araw-araw na operational checklist na sumasaklaw sa inspeksyon bago gamitin at paglilinis pagkatapos gamitin.',
         },
         {
           title: 'Kumpletong Resort Water Activity Package',
           description:
-            'Kasama sa mga halimbawa ng package ang custom branded na SUP board, adjustable na paddle, pump, safety leash, storage rack, repair kit, at operational guide ng staff. Maaari ring suportahan ng Afarer ang paglawak tungo sa water fitness product at kagamitan sa tubig para sa pamilya.',
+            'Kasama sa mga halimbawa ng package ang custom branded na SUP board, adjustable na paddle, pump, safety leash, storage rack, repair kit, at operational guide ng staff. Maaari ring suportahan ng OLagoon ang paglawak tungo sa water fitness product at kagamitan sa tubig para sa pamilya.',
         },
         {
           title: 'Low-Maintenance na Commercial Equipment',
           description:
-            'Dapat balansehin ng kagamitan ng resort ang karanasan ng guest, tibay, at kahusayan sa maintenance. Nakatuon ang Afarer sa matibay na construction na may pinalakas na PVC at commercial-grade na component, madaling maintenance gamit ang standard na accessory, at pangmatagalang halaga na nagbabawas ng dalas ng replacement.',
+            'Dapat balansehin ng kagamitan ng resort ang karanasan ng guest, tibay, at kahusayan sa maintenance. Nakatuon ang OLagoon sa matibay na construction na may pinalakas na PVC at commercial-grade na component, madaling maintenance gamit ang standard na accessory, at pangmatagalang halaga na nagbabawas ng dalas ng replacement.',
         },
         {
           title: 'Suporta sa Resort Experience Design',
           description:
-            'Tinutulungan ng Afarer ang paggawing signature na aktibidad ng guest ang kagamitan kabilang ang sunset SUP experience para sa mag-asawa, family ocean adventure, floating wellness program para sa yoga retreat, at eco exploration activity para sa mga nature resort at marine destination.',
+            'Tinutulungan ng OLagoon ang paggawing signature na aktibidad ng guest ang kagamitan kabilang ang sunset SUP experience para sa mag-asawa, family ocean adventure, floating wellness program para sa yoga retreat, at eco exploration activity para sa mga nature resort at marine destination.',
         },
       ],
     },
@@ -2770,7 +2770,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pagpaplano ng Resort Activity',
           detail:
-            'Sinuri ng Afarer ang demograpiko ng guest, kondisyon ng dalampasigan, at layunin ng aktibidad, pagkatapos ay inirekomenda ang custom Resort SUP Fleet na iniangkop sa luxury positioning ng resort at inaasahan ng guest.',
+            'Sinuri ng OLagoon ang demograpiko ng guest, kondisyon ng dalampasigan, at layunin ng aktibidad, pagkatapos ay inirekomenda ang custom Resort SUP Fleet na iniangkop sa luxury positioning ng resort at inaasahan ng guest.',
         },
         {
           title: 'Product Customization',
@@ -2801,29 +2801,29 @@ const tl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Mexico',
             background:
-              "Si Ana Sofía Villanueva, 36 taong gulang, ang Director of Guest Experiences ng 'Casa del Pacífico,' isang 62-suite na luxury eco-resort sa Pacific coast ng Punta Mita (presyo ng kuwarto $1,800-$8,000/gabi). Kasama sa 12-acre na bakuran ng resort ang 3 pribadong dalampasigan, 2 lagoon pool, at mangrove estuary na patungo sa mga nakatagong cenote. Noong 2023, ipinakita ng survey ng guest ang 'unique water experience' bilang #1 na hindi natutugunang demand (78% ng guest ang nais ito). Lumapit si Ana sa Afarer pagkatapos maglunsad ang isang kakumpetensyang resort sa Tulum ng SUP program — kailangan niya ng mas eksklusibo. Ang hamon: isang package na gagana sa ocean surf, mapayapang mangrove, at sariwang cenote na may nagbabagong antas ng liwanag, agos, at sensitibong ekolohiya.",
+              "Si Ana Sofía Villanueva, 36 taong gulang, ang Director of Guest Experiences ng 'Casa del Pacífico,' isang 62-suite na luxury eco-resort sa Pacific coast ng Punta Mita (presyo ng kuwarto $1,800-$8,000/gabi). Kasama sa 12-acre na bakuran ng resort ang 3 pribadong dalampasigan, 2 lagoon pool, at mangrove estuary na patungo sa mga nakatagong cenote. Noong 2023, ipinakita ng survey ng guest ang 'unique water experience' bilang #1 na hindi natutugunang demand (78% ng guest ang nais ito). Lumapit si Ana sa OLagoon pagkatapos maglunsad ang isang kakumpetensyang resort sa Tulum ng SUP program — kailangan niya ng mas eksklusibo. Ang hamon: isang package na gagana sa ocean surf, mapayapang mangrove, at sariwang cenote na may nagbabagong antas ng liwanag, agos, at sensitibong ekolohiya.",
             goal: "Bumuo ng 'Signature Cenote-to-Ocean SUP Experience' package (3-oras na guided tour, propesyonal na potograpiya, at Mexican tasting menu) sa $450/bawat tao na may pinakamababang 40% profit margin at 4.8+ na rating ng kasiyahan ng guest.",
           },
           steps: [
             {
               title: 'Site Survey noong Marso 2024 at Environmental Impact Assessment',
               detail:
-                'Gumugol si Felipe Ortíz, Latin America business director ng Afarer, at si marine biologist na si Dr. Camila Reyes ng 10 araw sa pagmamapa ng mga daluyan ng tubig ng Casa del Pacífico. Natukoy nila ang 4 natatanging kapaligiran ng SUP: ang Pacific beach launch (consistent na 2-3 ft surf break), ang mangrove tunnel (makitid na 2-metro na channel na may nakabusang ugat), ang nakatagong cenote (18-metro ang lalim ng sariwang tubig, 24°C na parehong temperatura, delikadong microbial mat sa pader), at ang lagoon pool (para sa mga baguhang guest). Nagsagawa si Dr. Reyes ng sediment sampling at survey ng mga ibong nagpaparami para matukoy ang carrying capacity: hanggang 8 guest bawat tour, paglulunsad sa 7:30 AM bago magpakain ang mga ibong dagat. Ang konklusyon ng assessment ay ang mga standard na SUP board na may zinc-phosphate pigment ay tatagas sa cenote — lumipat ang Afarer sa ceramic-based na pigment.',
+                'Gumugol si Felipe Ortíz, Latin America business director ng OLagoon, at si marine biologist na si Dr. Camila Reyes ng 10 araw sa pagmamapa ng mga daluyan ng tubig ng Casa del Pacífico. Natukoy nila ang 4 natatanging kapaligiran ng SUP: ang Pacific beach launch (consistent na 2-3 ft surf break), ang mangrove tunnel (makitid na 2-metro na channel na may nakabusang ugat), ang nakatagong cenote (18-metro ang lalim ng sariwang tubig, 24°C na parehong temperatura, delikadong microbial mat sa pader), at ang lagoon pool (para sa mga baguhang guest). Nagsagawa si Dr. Reyes ng sediment sampling at survey ng mga ibong nagpaparami para matukoy ang carrying capacity: hanggang 8 guest bawat tour, paglulunsad sa 7:30 AM bago magpakain ang mga ibong dagat. Ang konklusyon ng assessment ay ang mga standard na SUP board na may zinc-phosphate pigment ay tatagas sa cenote — lumipat ang OLagoon sa ceramic-based na pigment.',
             },
             {
               title: "Custom na 'Explora México' Board na may Integrated Photography System",
               detail:
-                "Idinisenyo ng Afarer ang 'Explora México 10.8' na may 4-layer na construction, reef-safe na antifouling na ilalim (biocide-free na silicone coating, sinubukan sa 200 oras sa 28°C na tubig ng Pacific), at anti-glare na matte olive-green na deck. Humiling si Ana ng propesyonal na potograpiya bilang bahagi ng karanasan — nag-integrate ang Afarer ng waterproof na drone-launch pad sa ilong ng board (isang pinalakas na 25x25 cm carbon fiber platform na may non-slip coating, sinubukang humawak ng DJI Mini 4 Pro sa hand launch/recovery). May mounting point din ang bawat board para sa underwater camera pole. Ang mga board ay ginawa sa limitadong 'Casa del Pacífico' branding na may Mayan-inspired na geometric na pattern — embossed, hindi pininta, para iwasan ang toxic runoff.",
+                "Idinisenyo ng OLagoon ang 'Explora México 10.8' na may 4-layer na construction, reef-safe na antifouling na ilalim (biocide-free na silicone coating, sinubukan sa 200 oras sa 28°C na tubig ng Pacific), at anti-glare na matte olive-green na deck. Humiling si Ana ng propesyonal na potograpiya bilang bahagi ng karanasan — nag-integrate ang OLagoon ng waterproof na drone-launch pad sa ilong ng board (isang pinalakas na 25x25 cm carbon fiber platform na may non-slip coating, sinubukang humawak ng DJI Mini 4 Pro sa hand launch/recovery). May mounting point din ang bawat board para sa underwater camera pole. Ang mga board ay ginawa sa limitadong 'Casa del Pacífico' branding na may Mayan-inspired na geometric na pattern — embossed, hindi pininta, para iwasan ang toxic runoff.",
             },
             {
               title: 'Guide Certification Program at Logistics Integration',
               detail:
-                "Bumalik si Diego Castillo, senior guide trainer ng Afarer, noong Mayo 2024 para sa 2-linggong masusing program na nag-certify sa 8 activity guide ng Casa del Pacífico. Sakop ng kurikulum: teknik ng launch/recovery sa surf zone para sa Pacific beach break, pag-navigate sa mangrove ayon sa tubig (dapat alam ng guide ang 3-oras na tidal window para maiwasan ang stranded sa mababaw na putik), etiquette sa cenote (walang sunscreen, huwag hawakan ang pader — bumalik si Dr. Reyes para sa half-day na sensitivity session), emergency protocol (kabilang ang pagkakatagpo sa puma — may residenteng lalaking puma sa mangrove), at bilingual na paggi-guide sa Spanish/English. I-integrate din ng Afarer ang SUP inventory sa Oracle Opera PMS system ng resort para awtomatikong lumabas ang SUP reservation sa folio ng guest. Ang workflow ng potograpiya: gumagamit ang mga guide ng GoPro Hero12 Black na may preset na 'Cenote' color profile, inililipat ang litrato sa guest sa pamamagitan ng NFC card sa loob ng 30 minuto.",
+                "Bumalik si Diego Castillo, senior guide trainer ng OLagoon, noong Mayo 2024 para sa 2-linggong masusing program na nag-certify sa 8 activity guide ng Casa del Pacífico. Sakop ng kurikulum: teknik ng launch/recovery sa surf zone para sa Pacific beach break, pag-navigate sa mangrove ayon sa tubig (dapat alam ng guide ang 3-oras na tidal window para maiwasan ang stranded sa mababaw na putik), etiquette sa cenote (walang sunscreen, huwag hawakan ang pader — bumalik si Dr. Reyes para sa half-day na sensitivity session), emergency protocol (kabilang ang pagkakatagpo sa puma — may residenteng lalaking puma sa mangrove), at bilingual na paggi-guide sa Spanish/English. I-integrate din ng OLagoon ang SUP inventory sa Oracle Opera PMS system ng resort para awtomatikong lumabas ang SUP reservation sa folio ng guest. Ang workflow ng potograpiya: gumagamit ang mga guide ng GoPro Hero12 Black na may preset na 'Cenote' color profile, inililipat ang litrato sa guest sa pamamagitan ng NFC card sa loob ng 30 minuto.",
             },
             {
               title: 'Launch noong Nobyembre 2024 sa High Season at Media Coverage',
               detail:
-                "Inilunsad ang 'Cenote-to-Ocean' experience noong Nobyembre 15, 2024 (simula ng high season ng Punta Mita). Sa unang 30 araw: 112 tour ang nabenta sa $450/bawat tao = $50,400 kita. Isang mamamahayag ng Condé Nast Traveler ang guest #47; ang kanyang artikulong 'Mexico's Newest Eco-Thrill: Paddleboarding a Cenote to the Pacific' na inilathala noong Enero 2025 ay nagdulot ng 800+ booking hanggang Marso. Ang kasiyahan ng guest ay nasa average na 4.94/5 sa 340 tour. Nagdagdag ang resort ng $150 na 'Golden Hour' photography add-on (sunset session na may propesyonal na drone pilot, champagne, at oyster) — 94% ng guest ang bumili nito. Pagsapit ng Abril 2025, ang programa ay umani ng $1.12 milyon sa tuwirang kita na may 52% profit margin. Nagorder ang Casa del Pacífico ng 20 karagdagang board para sa 2026 at kinontrata ang Afarer na bumuo ng 'Whale-Watching SUP' package (humpback migration Disyembre-Marso).",
+                "Inilunsad ang 'Cenote-to-Ocean' experience noong Nobyembre 15, 2024 (simula ng high season ng Punta Mita). Sa unang 30 araw: 112 tour ang nabenta sa $450/bawat tao = $50,400 kita. Isang mamamahayag ng Condé Nast Traveler ang guest #47; ang kanyang artikulong 'Mexico's Newest Eco-Thrill: Paddleboarding a Cenote to the Pacific' na inilathala noong Enero 2025 ay nagdulot ng 800+ booking hanggang Marso. Ang kasiyahan ng guest ay nasa average na 4.94/5 sa 340 tour. Nagdagdag ang resort ng $150 na 'Golden Hour' photography add-on (sunset session na may propesyonal na drone pilot, champagne, at oyster) — 94% ng guest ang bumili nito. Pagsapit ng Abril 2025, ang programa ay umani ng $1.12 milyon sa tuwirang kita na may 52% profit margin. Nagorder ang Casa del Pacífico ng 20 karagdagang board para sa 2026 at kinontrata ang OLagoon na bumuo ng 'Whale-Watching SUP' package (humpback migration Disyembre-Marso).",
             },
           ],
           results: [
@@ -2839,19 +2839,19 @@ const tl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Thailand',
             background:
-              "Si Pimchanok 'Mint' Suwannarat, 32 taong gulang, ang Experience Director ng 'Veranda Samui,' isang 5-star na resort na nakatanaw sa Chaweng Noi Beach na may 98 villa at average na 6.4 gabi na paglagi. Napansin ni Mint na 73% ng guest ang bumubili ng kahit isang 'island excursion' (karaniwang speedboat tour sa Ang Thong Marine Park sa 3,500 THB/bawat tao) pero nagreklamo sa post-stay survey ang 'crowded tour' at 'masyadong maraming hintuan, kulang sa paddling.' Naisip niya ang maraming-araw na SUP expedition kung saan ang guest ay nagpapaddle sa pagitan ng Koh Samui at mga kalapit na isla, na naglalagi sa eco-lodge at beach camp. Walang resort sa Thailand na nag-aalok nito. Kailangan niya ng Afarer para idisenyo ang expedition-grade na kagamitang sumusuporta sa maraming-araw na self-supported na paglalakbay na may camping gear at suplay para sa Western luxury standard.",
+              "Si Pimchanok 'Mint' Suwannarat, 32 taong gulang, ang Experience Director ng 'Veranda Samui,' isang 5-star na resort na nakatanaw sa Chaweng Noi Beach na may 98 villa at average na 6.4 gabi na paglagi. Napansin ni Mint na 73% ng guest ang bumubili ng kahit isang 'island excursion' (karaniwang speedboat tour sa Ang Thong Marine Park sa 3,500 THB/bawat tao) pero nagreklamo sa post-stay survey ang 'crowded tour' at 'masyadong maraming hintuan, kulang sa paddling.' Naisip niya ang maraming-araw na SUP expedition kung saan ang guest ay nagpapaddle sa pagitan ng Koh Samui at mga kalapit na isla, na naglalagi sa eco-lodge at beach camp. Walang resort sa Thailand na nag-aalok nito. Kailangan niya ng OLagoon para idisenyo ang expedition-grade na kagamitang sumusuporta sa maraming-araw na self-supported na paglalakbay na may camping gear at suplay para sa Western luxury standard.",
             goal: "Ilunsad ang 'The Samui Archipelago Paddle' — 5-araw at 4-gabing guided SUP expedition na sumasaklaw sa 4 isla (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → pagbabalik) sa 89,000 THB ($2,500 USD)/bawat tao, na may pinakamababang 12 departure bawat taon na 100% occupancy.",
           },
           steps: [
             {
               title: 'Route Mapping at Logistics Survey sa Buong Samui Archipelago',
               detail:
-                'Noong Oktubre 2023, gumugol si Tomo Kato, Asia-Pacific expedition specialist ng Afarer, at si Thai marine ecologist na si Dr. Narong Chaiyasit ng 14 araw sa pagkakayak at motor support sa iminungkahing ruta. Natukoy nila ang 7 mahahalagang salik: pattern ng monsoon wind (ang Northeast Monsoon mula Nobyembre-Enero ay ginagawang delikado ang pagtawid sa Koh Samui-Koh Phangan; ligtas mula Pebrero-Oktubre), camping site sa Koh Tao (2 lamang beachfront na lugar na may permit para sa tolda — bawat isa limitado sa 10 tao), resupply ng sariwang tubig (wala sa Koh Nang Yuan — magdadala ang guest ng 4L bawat tao bawat araw), at coral navigation corridor (ang coral sa Shark Bay ng Koh Tao ay nangangailangan ng board na may 40+ cm draft clearance sa mababaw). Ang panghuling ruta ay 68 km sa loob ng 5 araw na may pang-araw-araw na distansya ng pagpaddle na 8-18 km. Sinubukan ni Tomo ang 14 uri ng anchor para sa beach camping (ang Danforth-style ang pinakamahusay sa mabuhangin na ilalim ng Samui).',
+                'Noong Oktubre 2023, gumugol si Tomo Kato, Asia-Pacific expedition specialist ng OLagoon, at si Thai marine ecologist na si Dr. Narong Chaiyasit ng 14 araw sa pagkakayak at motor support sa iminungkahing ruta. Natukoy nila ang 7 mahahalagang salik: pattern ng monsoon wind (ang Northeast Monsoon mula Nobyembre-Enero ay ginagawang delikado ang pagtawid sa Koh Samui-Koh Phangan; ligtas mula Pebrero-Oktubre), camping site sa Koh Tao (2 lamang beachfront na lugar na may permit para sa tolda — bawat isa limitado sa 10 tao), resupply ng sariwang tubig (wala sa Koh Nang Yuan — magdadala ang guest ng 4L bawat tao bawat araw), at coral navigation corridor (ang coral sa Shark Bay ng Koh Tao ay nangangailangan ng board na may 40+ cm draft clearance sa mababaw). Ang panghuling ruta ay 68 km sa loob ng 5 araw na may pang-araw-araw na distansya ng pagpaddle na 8-18 km. Sinubukan ni Tomo ang 14 uri ng anchor para sa beach camping (ang Danforth-style ang pinakamahusay sa mabuhangin na ilalim ng Samui).',
             },
             {
               title: "'Archipelago Expedition' Board na may Survival at Comfort Feature",
               detail:
-                "Idinisenyo ng Afarer ang 'Veranda Explorer 13.0' na may 400L volume — sapat para magdala ng 35 kg camping gear at 20 kg personal na gamit ng guest. Kasama sa feature: waterproof na bow cargo hatch na may screw-top seal (sinubukan sa 1-metro ng paglubog sa loob ng 30 minuto), 6 daisy-chain attachment point para sa dry bag, deck bungee system na may quick-release para sa camera access, at removable na rudder skeg para sa ocean tracking (ang bahagi ng Koh Phangan-Koh Tao ay may 2-knot cross-current). Pagpilit ni Mint sa kaginhawahan: ang bawat board ay may inflatable na backrest (ang 'LoungePak') na may cup holder, at proprietary na 'ShadowDeck' canopy (tensioned na carbon-fiber pole na may UPF 50+ fabric, sinubukan sa 35°C init). Gumawa ang Afarer ng 24 board: 12 para sa guest, 6 para sa guide, 6 backup.",
+                "Idinisenyo ng OLagoon ang 'Veranda Explorer 13.0' na may 400L volume — sapat para magdala ng 35 kg camping gear at 20 kg personal na gamit ng guest. Kasama sa feature: waterproof na bow cargo hatch na may screw-top seal (sinubukan sa 1-metro ng paglubog sa loob ng 30 minuto), 6 daisy-chain attachment point para sa dry bag, deck bungee system na may quick-release para sa camera access, at removable na rudder skeg para sa ocean tracking (ang bahagi ng Koh Phangan-Koh Tao ay may 2-knot cross-current). Pagpilit ni Mint sa kaginhawahan: ang bawat board ay may inflatable na backrest (ang 'LoungePak') na may cup holder, at proprietary na 'ShadowDeck' canopy (tensioned na carbon-fiber pole na may UPF 50+ fabric, sinubukan sa 35°C init). Gumawa ang OLagoon ng 24 board: 12 para sa guest, 6 para sa guide, 6 backup.",
             },
             {
               title: 'Guide Team Recruitment at Safety Certification',
@@ -2861,7 +2861,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Inaugural Expedition noong Enero 2025 at 12-Buwan na Booking Pipeline',
               detail:
-                "Ang unang paglalayag ay umalis noong Enero 15, 2025 na may 6 guest (3 mag-asawa, lahat Australian, edad 34-52). Nakuha ng team ni Mint ang expedition sa video para sa content. Ang pagtawid sa Koh Phangan sa araw 2 ay nakatagpo ng bigla squall (30 knot hangin sa loob ng 45 minuto) — matiisin ito ng mga board ng Afarer nang walang tumalong; nag-deploy ang guide protocol ng 'safety raft' formation (mga board na itinali sa hugis bituin). Pagsapit ng Marso 2025, 11 sa 12 naka-iskedyul na 2025 departure ay kumpleto nang nabookan (waitlist ng 40 guest). Proyektadong kita para sa 2025: 12 × 6 guest × 89,000 THB = 6.41 milyong THB ($178,000 USD). Inaprubahan ng CEO ng Veranda ang pagtatayo ng dedicated na 'Expedition Pavilion' sa beachfront para sa pre-departure briefing. Si Mint ngayon ay bumubuo ng 3-araw na 'Family Explorer' ruta (mas maikling distansya, resort-based camping) para sa 2026.",
+                "Ang unang paglalayag ay umalis noong Enero 15, 2025 na may 6 guest (3 mag-asawa, lahat Australian, edad 34-52). Nakuha ng team ni Mint ang expedition sa video para sa content. Ang pagtawid sa Koh Phangan sa araw 2 ay nakatagpo ng bigla squall (30 knot hangin sa loob ng 45 minuto) — matiisin ito ng mga board ng OLagoon nang walang tumalong; nag-deploy ang guide protocol ng 'safety raft' formation (mga board na itinali sa hugis bituin). Pagsapit ng Marso 2025, 11 sa 12 naka-iskedyul na 2025 departure ay kumpleto nang nabookan (waitlist ng 40 guest). Proyektadong kita para sa 2025: 12 × 6 guest × 89,000 THB = 6.41 milyong THB ($178,000 USD). Inaprubahan ng CEO ng Veranda ang pagtatayo ng dedicated na 'Expedition Pavilion' sa beachfront para sa pre-departure briefing. Si Mint ngayon ay bumubuo ng 3-araw na 'Family Explorer' ruta (mas maikling distansya, resort-based camping) para sa 2026.",
             },
           ],
           results: [
@@ -2873,8 +2873,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Resort ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Resort ang OLagoon',
       items: [
         {
           title: 'Karanasan ng Guest',
@@ -2902,39 +2902,39 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Anong SUP board ang pinakamahusay para sa mga water activity ng resort?',
         answer:
-          'Kailangan ng mga resort ng matatag at beginner-friendly na SUP board na angkop sa guest ng lahat ng antas ng kasanayan. Nag-aalok ang Afarer ng family resort package na may all-round board, luxury island package na may premium na disenyo, at wellness retreat package na may malapad na yoga board — lahat pwedeng i-customize gamit ang branding ng resort.',
+          'Kailangan ng mga resort ng matatag at beginner-friendly na SUP board na angkop sa guest ng lahat ng antas ng kasanayan. Nag-aalok ang OLagoon ng family resort package na may all-round board, luxury island package na may premium na disenyo, at wellness retreat package na may malapad na yoga board — lahat pwedeng i-customize gamit ang branding ng resort.',
       },
       {
         question:
-          'Pwede bang i-customize ng Afarer ang mga SUP board gamit ang logo at kulay ng brand ng aking resort?',
+          'Pwede bang i-customize ng OLagoon ang mga SUP board gamit ang logo at kulay ng brand ng aking resort?',
         answer:
-          'Oo, nagbibigay ang Afarer ng buong customization kabilang ang integrasyon ng logo, disenyo ng kulay na tumutugma sa arkitektura at brand identity ng iyong resort, at premium na packaging na may branded na accessory at materyal ng pagtuturo sa guest.',
+          'Oo, nagbibigay ang OLagoon ng buong customization kabilang ang integrasyon ng logo, disenyo ng kulay na tumutugma sa arkitektura at brand identity ng iyong resort, at premium na packaging na may branded na accessory at materyal ng pagtuturo sa guest.',
       },
       {
         question: 'Nagbibigay ba kayo ng storage solution para sa SUP equipment ng resort?',
         answer:
-          'Oo, tinutulungan ng Afarer ang pagpaplano ng storage ng kagamitan gamit ang SUP rack, sistema ng organisasyon, at solusyon sa proteksyon sa panahon na isinasaalang-alang ang pagkakalantad sa araw, kahalumigmigan, at coastal na kapaligiran para protektahan ang iyong investment at mapanatili ang itsura ng resort.',
+          'Oo, tinutulungan ng OLagoon ang pagpaplano ng storage ng kagamitan gamit ang SUP rack, sistema ng organisasyon, at solusyon sa proteksyon sa panahon na isinasaalang-alang ang pagkakalantad sa araw, kahalumigmigan, at coastal na kapaligiran para protektahan ang iyong investment at mapanatili ang itsura ng resort.',
       },
       {
         question: 'Anong training ang kailangan ng staff ng resort para magpatakbo ng SUP program?',
         answer:
-          'Nagbibigay ang Afarer ng operational na gabay kabilang ang proseso sa paghawak ng kagamitan, instruksyon sa inflation, paraan ng paglilinis, gabay sa storage, proseso sa kaligtasan ng guest, at pang-araw-araw na operational checklist para kahit sinong empleyado ay makapamahala nang propesyonal.',
+          'Nagbibigay ang OLagoon ng operational na gabay kabilang ang proseso sa paghawak ng kagamitan, instruksyon sa inflation, paraan ng paglilinis, gabay sa storage, proseso sa kaligtasan ng guest, at pang-araw-araw na operational checklist para kahit sinong empleyado ay makapamahala nang propesyonal.',
       },
       {
-        question: 'Gaano katibay ang mga SUP board ng Afarer para sa pang-araw-araw na paggamit sa resort?',
+        question: 'Gaano katibay ang mga SUP board ng OLagoon para sa pang-araw-araw na paggamit sa resort?',
         answer:
-          'Ang mga resort SUP board ng Afarer ay may pinalakas na PVC construction, commercial-grade na component, at matibay na drop stitch structure na idinisenyo para makayanan ang pang-araw-araw na paggamit ng guest habang pinapanatili ang premium na itsura at performance.',
+          'Ang mga resort SUP board ng OLagoon ay may pinalakas na PVC construction, commercial-grade na component, at matibay na drop stitch structure na idinisenyo para makayanan ang pang-araw-araw na paggamit ng guest habang pinapanatili ang premium na itsura at performance.',
       },
       {
         question: 'Pwede ba kaming mag-alok ng SUP kasama ng iba pang water activity?',
         answer:
-          'Oo, maaaring suportahan ng Afarer ang paglawak tungo sa water fitness product, kagamitan sa tubig para sa pamilya, at iba pang outdoor recreation product para lumikha ng kumpletong portfolio ng resort water activity.',
+          'Oo, maaaring suportahan ng OLagoon ang paglawak tungo sa water fitness product, kagamitan sa tubig para sa pamilya, at iba pang outdoor recreation product para lumikha ng kumpletong portfolio ng resort water activity.',
       },
     ],
     cta: {
-      title: 'Likuin ang Iyong Resort Water Experience sa Afarer',
+      title: 'Likuin ang Iyong Resort Water Experience sa OLagoon',
       subtitle:
-        'May karagatan na ang iyong destinasyon. Ngayon ay lumikha ng makakalimutang sandali dito. Tinutulungan ng Afarer ang mga luxury hotel, island resort, at wellness destination na bumuo ng custom SUP fleet, branded na water activity, at kumpletong resort equipment solution.',
+        'May karagatan na ang iyong destinasyon. Ngayon ay lumikha ng makakalimutang sandali dito. Tinutulungan ng OLagoon ang mga luxury hotel, island resort, at wellness destination na bumuo ng custom SUP fleet, branded na water activity, at kumpletong resort equipment solution.',
       primaryAction: {
         text: 'Simulan ang Iyong Resort Water Activity Project Ngayon',
       },
@@ -2955,9 +2955,9 @@ const tl: Record<string, SolutionOverride> = {
       title:
         'Propesyonal na SUP Equipment Solution para sa mga Water Sports School, Youth Program at Outdoor Education Organization',
       subtitle:
-        'Nagbibigay ang Afarer ng SUP Academy Equipment Program, isang kumpletong solusyon sa kagamitan na binuo para sa propesyonal na kapaligiran ng pagtuturo. Tinutulungan namin ang mga SUP school, youth training center, summer camp, at outdoor education company na bumuo ng maaasahang training fleet gamit ang beginner-friendly na board, kids model, at instructor equipment.',
+        'Nagbibigay ang OLagoon ng SUP Academy Equipment Program, isang kumpletong solusyon sa kagamitan na binuo para sa propesyonal na kapaligiran ng pagtuturo. Tinutulungan namin ang mga SUP school, youth training center, summer camp, at outdoor education company na bumuo ng maaasahang training fleet gamit ang beginner-friendly na board, kids model, at instructor equipment.',
       image: {
-        alt: 'SUP academy equipment ng Afarer para sa mga training school at youth program',
+        alt: 'SUP academy equipment ng OLagoon para sa mga training school at youth program',
       },
     },
     challenge: {
@@ -2991,7 +2991,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Beginner Training SUP Board',
           description:
-            'Bumubuo ang Afarer ng matatag na SUP board na partikular para sa kapaligiran ng pagkatuto na may high-stability na disenyo ng platform para sa mas madaling balanse, high buoyancy na construction para sa mas mahusay na suporta sa paglutang, at all-round na hugis para sa baguhan na madaling kontrolin sa mababang bilis at madaling ikutin.',
+            'Bumubuo ang OLagoon ng matatag na SUP board na partikular para sa kapaligiran ng pagkatuto na may high-stability na disenyo ng platform para sa mas madaling balanse, high buoyancy na construction para sa mas mahusay na suporta sa paglutang, at all-round na hugis para sa baguhan na madaling kontrolin sa mababang bilis at madaling ikutin.',
           features: [
             'High-stability na disenyo ng platform',
             'High buoyancy na construction',
@@ -3002,7 +3002,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Kids SUP Program',
           description:
-            'Kailangan ng mga bata ng kagamitang idinisenyo sa kanilang laki at kakayahan. Nag-aalok ang Afarer ng kids SUP board na may angkop na haba, magaan na paghawak, matatag na hugis, at child-friendly na itsura para sa school program, summer camp, junior course, at pamilyang aktibidad.',
+            'Kailangan ng mga bata ng kagamitang idinisenyo sa kanilang laki at kakayahan. Nag-aalok ang OLagoon ng kids SUP board na may angkop na haba, magaan na paghawak, matatag na hugis, at child-friendly na itsura para sa school program, summer camp, junior course, at pamilyang aktibidad.',
           features: [
             'Disenyo ng kids SUP board',
             'Aplikasyon sa youth training',
@@ -3018,12 +3018,12 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Kumpletong SUP Academy Fleet Package',
           description:
-            'Tinutulungan ng Afarer ang mga academy na bumuo ng kumpletong sistema ng kagamitan kabilang ang kagamitan ng mag-aaral na may beginner board at adjustable na paddle, kagamitan ng instructor na may premium SUP board, at kagamitan sa maintenance na may repair kit at spare accessory para tuloy-tuloy na pang-araw-araw na operasyon.',
+            'Tinutulungan ng OLagoon ang mga academy na bumuo ng kumpletong sistema ng kagamitan kabilang ang kagamitan ng mag-aaral na may beginner board at adjustable na paddle, kagamitan ng instructor na may premium SUP board, at kagamitan sa maintenance na may repair kit at spare accessory para tuloy-tuloy na pang-araw-araw na operasyon.',
         },
         {
           title: 'Commercial Durability para sa Pang-araw-araw na Pagtuturo',
           description:
-            'Kailangan ng training equipment ng mas malakas na construction. Nakatuon ang Afarer sa pinalakas na PVC material para sa mas mahusay na paglaban sa pagkaskas, matibay na drop stitch structure para sa rigidity ng board, at pinalakas na rail na sumasanggalang sa bangga sa dalampasigan at pinsala sa transport.',
+            'Kailangan ng training equipment ng mas malakas na construction. Nakatuon ang OLagoon sa pinalakas na PVC material para sa mas mahusay na paglaban sa pagkaskas, matibay na drop stitch structure para sa rigidity ng board, at pinalakas na rail na sumasanggalang sa bangga sa dalampasigan at pinsala sa transport.',
           features: [
             'Pinalakas na PVC material',
             'Matibay na drop stitch structure',
@@ -3034,22 +3034,22 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Suporta sa Academy Fleet Management',
           description:
-            'Kailangan ng malalaking training program ng organisasyon. Sinusuportahan ng Afarer ang standardized na configuration ng fleet para sa mas madaling training ng instructor, pagkilala sa kagamitan gamit ang numero ng board at logo ng academy, at pagpaplano ng spare part na may backup paddle at materyal para sa repair.',
+            'Kailangan ng malalaking training program ng organisasyon. Sinusuportahan ng OLagoon ang standardized na configuration ng fleet para sa mas madaling training ng instructor, pagkilala sa kagamitan gamit ang numero ng board at logo ng academy, at pagpaplano ng spare part na may backup paddle at materyal para sa repair.',
         },
         {
           title: 'Summer Camp at Youth Program Solution',
           description:
-            'Lumalaganap ang SUP sa mga summer camp at youth adventure program. Sinusuportahan ng Afarer ang disenyo ng camp fleet na isinasaalang-alang ang edad ng mag-aaral at laki ng grupo, kagamitan sa grupoang aktibidad na may maramihang magkakaparehong board, at pagpaplano ng seasonal na operasyon para sa summer program at holiday activity.',
+            'Lumalaganap ang SUP sa mga summer camp at youth adventure program. Sinusuportahan ng OLagoon ang disenyo ng camp fleet na isinasaalang-alang ang edad ng mag-aaral at laki ng grupo, kagamitan sa grupoang aktibidad na may maramihang magkakaparehong board, at pagpaplano ng seasonal na operasyon para sa summer program at holiday activity.',
         },
         {
           title: 'Suporta sa Kaligtasan at Maintenance',
           description:
-            'Nagbibigay ang Afarer ng praktikal na gabay para sa pang-araw-araw na operasyon kabilang ang guide sa inspeksyon ng kagamitan na sumasaklaw sa check ng air pressure, surface, at accessory bago ang klase, bukod pa ang proseso ng paglilinis, pagpapatuyo, at storage pagkatapos ng klase, kasama ang pangunahing gabay sa repair.',
+            'Nagbibigay ang OLagoon ng praktikal na gabay para sa pang-araw-araw na operasyon kabilang ang guide sa inspeksyon ng kagamitan na sumasaklaw sa check ng air pressure, surface, at accessory bago ang klase, bukod pa ang proseso ng paglilinis, pagpapatuyo, at storage pagkatapos ng klase, kasama ang pangunahing gabay sa repair.',
         },
         {
           title: 'Custom Academy Branding',
           description:
-            'Sinusuportahan ng Afarer ang customization ng logo ng academy, pagtutugma ng kulay, at propesyonal na itsura na lumilikha ng mas malakas na pagkilala sa brand, mas propesyonal na klase, at mas magandang karanasan ng mag-aaral gamit ang branded na board at instructor equipment.',
+            'Sinusuportahan ng OLagoon ang customization ng logo ng academy, pagtutugma ng kulay, at propesyonal na itsura na lumilikha ng mas malakas na pagkilala sa brand, mas propesyonal na klase, at mas magandang karanasan ng mag-aaral gamit ang branded na board at instructor equipment.',
         },
       ],
     },
@@ -3063,7 +3063,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pagsusuri ng Training Program',
           detail:
-            'Sinuri ng Afarer ang grupo ng edad ng mag-aaral, paraan ng pagtuturo, at dalas ng paggamit para maunawaan ang partikular na pangangailangan ng academy para sa kagamitan ng baguhan, kabataan, at instructor.',
+            'Sinuri ng OLagoon ang grupo ng edad ng mag-aaral, paraan ng pagtuturo, at dalas ng paggamit para maunawaan ang partikular na pangangailangan ng academy para sa kagamitan ng baguhan, kabataan, at instructor.',
         },
         {
           title: 'Pagbuo ng Fleet',
@@ -3094,29 +3094,29 @@ const tl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Japan',
             background:
-              'Si Kenji Nakamura, 44 taong gulang, ay dating Olympic canoe slalom bronze medalist (Athens 2004) at 6-beses na national champion ng Japan. Pagkatapos magretiro sa kompetisyon, naging coach siya ng junior kayak team ng Japan sa loob ng 8 taon bago natuklasan ang SUP noong 2018. Nakita niyang wala kahit isang youth SUP program ang Japan sa kabila ng pagsama ng sport sa 2024 Paris Olympics. Noong 2023, nakumbinsi niya ang Kamakura City (populasyon 173,000, coastal city 50 km sa timog ng Tokyo) na payagan siyang gamitin ang makasaysayang Yuigahama Beach bilang training venue. Kailangan niya ng Afarer para magbigay ng kumpletong academy equipment package: junior board, coaching material, at pathway program na kakilalanin ng mga paaralang Hapon.',
+              'Si Kenji Nakamura, 44 taong gulang, ay dating Olympic canoe slalom bronze medalist (Athens 2004) at 6-beses na national champion ng Japan. Pagkatapos magretiro sa kompetisyon, naging coach siya ng junior kayak team ng Japan sa loob ng 8 taon bago natuklasan ang SUP noong 2018. Nakita niyang wala kahit isang youth SUP program ang Japan sa kabila ng pagsama ng sport sa 2024 Paris Olympics. Noong 2023, nakumbinsi niya ang Kamakura City (populasyon 173,000, coastal city 50 km sa timog ng Tokyo) na payagan siyang gamitin ang makasaysayang Yuigahama Beach bilang training venue. Kailangan niya ng OLagoon para magbigay ng kumpletong academy equipment package: junior board, coaching material, at pathway program na kakilalanin ng mga paaralang Hapon.',
             goal: "Ilunsad ang 'Kamakura SUP Academy' noong Abril 2024 na may 40 junior student (edad 10-18), 3-tier na certification system (Bronze/Silver/Gold), at pipeline tungo sa national SUP team ng Japan — na ang gastos sa kagamitan ay mas mababa sa ¥8 milyon ($53,000 USD) sa unang 2 taon.",
           },
           steps: [
             {
               title: 'Junior Board Development ayon sa Japanese School Sports Standard',
               detail:
-                'Noong Oktubre 2023, nagtrabaho si Yuki Tanaka, product development director ng Afarer (nakabase sa Osaka office ng Afarer), kasama si Kenji para idisenyo ang \'Academy Junior 10.0\' — board na partikular para sa pisika ng kabataang Asyano (average na 12-taong gulang na estudyanteng Hapon: 150 cm, 42 kg). Pangunahing spec: 10\'0" x 30" x 4.5" (152L volume), bigat 6.8 kg (gaan para madala ng mga mag-aaral), malambot na EVA rail (binabawasan ang panganib ng pinsala sa pagkahulog), at maikling 120 cm fiberglass paddle (custom-molded na hawakan para sa maliit na kamay). Gumawa ang Afarer ng 40 board sa pambansang kulay ng Japan (puti na may pulang bilog ng pagsikat ng araw) at 20 spare board. May QR code ang bawat board na tumuturo sa mga technique video ni Kenji — ini-scan ng mga mag-aaral bago magsanay.',
+                'Noong Oktubre 2023, nagtrabaho si Yuki Tanaka, product development director ng OLagoon (nakabase sa Osaka office ng OLagoon), kasama si Kenji para idisenyo ang \'Academy Junior 10.0\' — board na partikular para sa pisika ng kabataang Asyano (average na 12-taong gulang na estudyanteng Hapon: 150 cm, 42 kg). Pangunahing spec: 10\'0" x 30" x 4.5" (152L volume), bigat 6.8 kg (gaan para madala ng mga mag-aaral), malambot na EVA rail (binabawasan ang panganib ng pinsala sa pagkahulog), at maikling 120 cm fiberglass paddle (custom-molded na hawakan para sa maliit na kamay). Gumawa ang OLagoon ng 40 board sa pambansang kulay ng Japan (puti na may pulang bilog ng pagsikat ng araw) at 20 spare board. May QR code ang bawat board na tumuturo sa mga technique video ni Kenji — ini-scan ng mga mag-aaral bago magsanay.',
             },
             {
               title: '3-Tier na Certification Curriculum at Safety Protocol',
               detail:
-                "Nagtulungan si Dave Kalama, coaching consultant ng Afarer (sa pamamagitan ng video call mula Hawaii), kasama si Kenji sa kurikulum. Bronze (10 session): balanse sa mapayapang tubig, pangunahing forward stroke, self-rescue. Silver (20 session): 2 km timed paddle, pivot turn, kamalayan sa hangin. Gold (40 session): 5 km ocean paddle, pagpasok/paglabas sa surf zone, racing tactic, at pangunahing coaching. Pagpilit ni Kenji sa kaligtasan: nagbigay ang Afarer ng 50 Type V PFD (certified sa Japan, neon orange na may reflective strip), 50 leash set (coiled, quick-release), at waterproof na tablet para sa incident report. Ang 'Safety First' protocol ng academy ay nangangailangan ng 4:1 na ratio ng mag-aaral sa coach na may rescue board at first-aid kit sa loob ng 30 segundo mula sa kahit sinong mag-aaral.",
+                "Nagtulungan si Dave Kalama, coaching consultant ng OLagoon (sa pamamagitan ng video call mula Hawaii), kasama si Kenji sa kurikulum. Bronze (10 session): balanse sa mapayapang tubig, pangunahing forward stroke, self-rescue. Silver (20 session): 2 km timed paddle, pivot turn, kamalayan sa hangin. Gold (40 session): 5 km ocean paddle, pagpasok/paglabas sa surf zone, racing tactic, at pangunahing coaching. Pagpilit ni Kenji sa kaligtasan: nagbigay ang OLagoon ng 50 Type V PFD (certified sa Japan, neon orange na may reflective strip), 50 leash set (coiled, quick-release), at waterproof na tablet para sa incident report. Ang 'Safety First' protocol ng academy ay nangangailangan ng 4:1 na ratio ng mag-aaral sa coach na may rescue board at first-aid kit sa loob ng 30 segundo mula sa kahit sinong mag-aaral.",
             },
             {
               title: 'Pag-apruba ng City Council at School Integration Program',
               detail:
-                'Tinulungan si Hiroshi Abe, Japan country manager ng Afarer, si Kenji sa proseso ng permit sa Kamakura City. Kailangan nito: liability insurance (¥100 milyon coverage), pagmamarka ng beach zone (kulay na buoy na nagmamarka ng 200x50m training area — walang overlap sa mga manlalangoy), limitasyon sa ingay (walang whistle pagkatapos ng 5 PM), at plano sa pamamahala ng basura. Gumawa ang Afarer ng bilingual na Japanese/English safety manual at incident tracker. Pumirma si Kenji ng kasunduan sa 3 lokal na junior high school (Kamakura Daiichi, Koshigoe, at Hase) na nag-aalok ng SUP bilang opisyal na after-school club — una sa Japan. Ang bawat paaralan ay nagbayad ng ¥36,000/mag-aaral/semester para sa program; binigyan ng subsidiya ng lungsod ang 40% para sa mga mababang kita na pamilya.',
+                'Tinulungan si Hiroshi Abe, Japan country manager ng OLagoon, si Kenji sa proseso ng permit sa Kamakura City. Kailangan nito: liability insurance (¥100 milyon coverage), pagmamarka ng beach zone (kulay na buoy na nagmamarka ng 200x50m training area — walang overlap sa mga manlalangoy), limitasyon sa ingay (walang whistle pagkatapos ng 5 PM), at plano sa pamamahala ng basura. Gumawa ang OLagoon ng bilingual na Japanese/English safety manual at incident tracker. Pumirma si Kenji ng kasunduan sa 3 lokal na junior high school (Kamakura Daiichi, Koshigoe, at Hase) na nag-aalok ng SUP bilang opisyal na after-school club — una sa Japan. Ang bawat paaralan ay nagbayad ng ¥36,000/mag-aaral/semester para sa program; binigyan ng subsidiya ng lungsod ang 40% para sa mga mababang kita na pamilya.',
             },
             {
               title: 'Launch noong Abril 2024 at Performance sa 12 Buwan',
               detail:
-                "Binuksan ang Kamakura SUP Academy noong Abril 6, 2024, na may 43 mag-aaral (lumampas sa target ni Kenji na 40). Pagsapit ng Marso 2025, lumaki ang enrollment tungong 87 mag-aaral (127% capacity). Dalawang mag-aaral (si Sora Yamamoto, 16, at si Mei Taniguchi, 15) ay nakapasok sa junior national SUP team ng Japan at nakipagkumpetensya sa 2024 ISA World SUP Championships sa Copenhagen. Ang Gold certification ni Kenji ay kinilala ng Japan Canoe Federation bilang kredito tungo sa national coaching certification. Dalas ng pagkabigo ng kagamitan: 2 board ang nangailangan ng maliliit na repair sa valve (inayos sa loob ng 24 oras ng Osaka service center ng Afarer). Pumirma ang Afarer at si Kenji ng 3-taong partnership para bumuo ng 'Academy Pro' 12.6 board para sa mga advanced na mag-aaral at para lumawak sa 5 karagdagang coastal city pagsapit ng 2027.",
+                "Binuksan ang Kamakura SUP Academy noong Abril 6, 2024, na may 43 mag-aaral (lumampas sa target ni Kenji na 40). Pagsapit ng Marso 2025, lumaki ang enrollment tungong 87 mag-aaral (127% capacity). Dalawang mag-aaral (si Sora Yamamoto, 16, at si Mei Taniguchi, 15) ay nakapasok sa junior national SUP team ng Japan at nakipagkumpetensya sa 2024 ISA World SUP Championships sa Copenhagen. Ang Gold certification ni Kenji ay kinilala ng Japan Canoe Federation bilang kredito tungo sa national coaching certification. Dalas ng pagkabigo ng kagamitan: 2 board ang nangailangan ng maliliit na repair sa valve (inayos sa loob ng 24 oras ng Osaka service center ng OLagoon). Pumirma ang OLagoon at si Kenji ng 3-taong partnership para bumuo ng 'Academy Pro' 12.6 board para sa mga advanced na mag-aaral at para lumawak sa 5 karagdagang coastal city pagsapit ng 2027.",
             },
           ],
           results: [
@@ -3132,29 +3132,29 @@ const tl: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Australia',
             background:
-              "Si Kylie Brennan, 38 taong gulang, ay dating Australian Ironwoman (competitive surf lifesaving) na nagpatakbo ng 'Kylie's Paddle School,' isang operasyon na 5 tao sa Tallebudgera Creek sa Gold Coast mula noong 2019. Pagsapit ng 2023, may 350 mag-aaral siya kada taon pero tinatanggihan niya ang 60% ng inquiry dahil hindi niya mapalawak ang kanyang kagamitan. Ang kanyang 20 halo-halong brand na board ay sira-sira na, iba-iba ang edad ng mag-aaral mula 6 hanggang 72 taong gulang, at ang kanyang insurance ay nangangailangan ng 4:1 na ratio ng mag-aaral sa coach na naglilimita sa kita. Lumapit siya sa Afarer sa 2023 SUP Show sa Sydney, na nangangailangan ng kumpletong academy-in-a-box solution: board na angkop sa edad/laki, paddle, PFD, kurikulum material, at booking system na naka-integrate sa alokasyon ng kagamitan.",
+              "Si Kylie Brennan, 38 taong gulang, ay dating Australian Ironwoman (competitive surf lifesaving) na nagpatakbo ng 'Kylie's Paddle School,' isang operasyon na 5 tao sa Tallebudgera Creek sa Gold Coast mula noong 2019. Pagsapit ng 2023, may 350 mag-aaral siya kada taon pero tinatanggihan niya ang 60% ng inquiry dahil hindi niya mapalawak ang kanyang kagamitan. Ang kanyang 20 halo-halong brand na board ay sira-sira na, iba-iba ang edad ng mag-aaral mula 6 hanggang 72 taong gulang, at ang kanyang insurance ay nangangailangan ng 4:1 na ratio ng mag-aaral sa coach na naglilimita sa kita. Lumapit siya sa OLagoon sa 2023 SUP Show sa Sydney, na nangangailangan ng kumpletong academy-in-a-box solution: board na angkop sa edad/laki, paddle, PFD, kurikulum material, at booking system na naka-integrate sa alokasyon ng kagamitan.",
             goal: "Ilunsad ang 'Australia SUP Academy — Gold Coast' noong Setyembre 2024 na may 200+ mag-aaral na nakatala sa istrukturadong 8-linggong term sa $499 AUD/bawat tao, na nakakamit ang 85%+ renewal rate at 95% profit margin sa kagamitan.",
           },
           steps: [
             {
               title: 'Custom Academy Fleet Design para sa 4 Grupo ng Edad',
               detail:
-                "Gumugol si Lachlan Murphy, Oceania account director ng Afarer, ng 3 linggo kasama si Kylie noong Marso 2024 sa pagsusuri ng demograpiko ng kanyang mag-aaral. Hinati nila sa 4 cohort: 'Paddlers' (edad 6-9, magaan na 9.6'x28' board, 4.2 kg, na may cartoonish na 'Sea Dragon' graphic), 'Juniors' (edad 10-14, 10.6'x30' board, 6.5 kg), 'Adults' (edad 15-55, 11.6'x32' board, 8.9 kg), at 'Seniors & Adaptive' (55+, 10.0'x34' ultra-stable na board na may handle-assist strap, 9.2 kg). Idinisenyo ng Afarer ang bawat board na may color-coded na rail band (green/yellow/blue/red) para sa agarang pagkilala sa laki at gumawa ng 120 board (30 bawat cohort). Kasama sa bawat board ang personalized na slot ng label ng pangalan at progress tracker sticker (kumukuha ng stamp ang mga mag-aaral para sa natutong kasanayan).",
+                "Gumugol si Lachlan Murphy, Oceania account director ng OLagoon, ng 3 linggo kasama si Kylie noong Marso 2024 sa pagsusuri ng demograpiko ng kanyang mag-aaral. Hinati nila sa 4 cohort: 'Paddlers' (edad 6-9, magaan na 9.6'x28' board, 4.2 kg, na may cartoonish na 'Sea Dragon' graphic), 'Juniors' (edad 10-14, 10.6'x30' board, 6.5 kg), 'Adults' (edad 15-55, 11.6'x32' board, 8.9 kg), at 'Seniors & Adaptive' (55+, 10.0'x34' ultra-stable na board na may handle-assist strap, 9.2 kg). Idinisenyo ng OLagoon ang bawat board na may color-coded na rail band (green/yellow/blue/red) para sa agarang pagkilala sa laki at gumawa ng 120 board (30 bawat cohort). Kasama sa bawat board ang personalized na slot ng label ng pangalan at progress tracker sticker (kumukuha ng stamp ang mga mag-aaral para sa natutong kasanayan).",
             },
             {
-              title: 'Instructor Training Program at Afarer-Certified na Kurikulum',
+              title: 'Instructor Training Program at OLagoon-Certified na Kurikulum',
               detail:
-                "Bumuo ang Afarer ng 40-oras na instructor certification course kasama si Kylie bilang inaugural master trainer. Sakop ng kurso: paraan ng pagtuturo na partikular sa cohort (hal., para sa mga Senior, teknik ng pagpasok/paglabas para sa limitadong mobility; para sa mga bata, gamification at rescue skill), progression mapping (bawat antas ay may 12 kasanayan na may video benchmark), at safety management (ang Tallebudgera Creek ng Gold Coast ay may 4-knot na agos sa high tide — dapat alam ng guide ang tidal window). 12 sa 15 umiiral na instructor ni Kylie ang nakumpleto ang certification; kinilala sila ng Afarer bilang 'Level 1 SUP Academy Instructor.' Nagbigay din ang Afarer ng kumpletong starter kit para sa bawat mag-aaral: branded na rash guard, waterproof na booklet ng kasanayan, at logbook na may achievement sticker.",
+                "Bumuo ang OLagoon ng 40-oras na instructor certification course kasama si Kylie bilang inaugural master trainer. Sakop ng kurso: paraan ng pagtuturo na partikular sa cohort (hal., para sa mga Senior, teknik ng pagpasok/paglabas para sa limitadong mobility; para sa mga bata, gamification at rescue skill), progression mapping (bawat antas ay may 12 kasanayan na may video benchmark), at safety management (ang Tallebudgera Creek ng Gold Coast ay may 4-knot na agos sa high tide — dapat alam ng guide ang tidal window). 12 sa 15 umiiral na instructor ni Kylie ang nakumpleto ang certification; kinilala sila ng OLagoon bilang 'Level 1 SUP Academy Instructor.' Nagbigay din ang OLagoon ng kumpletong starter kit para sa bawat mag-aaral: branded na rash guard, waterproof na booklet ng kasanayan, at logbook na may achievement sticker.",
             },
             {
               title: 'Booking System Integration at Equipment Logistics',
               detail:
-                "I-integrate ng tech team ng Afarer ang umiiral na BookingKit reservation system ni Kylie sa inventory module ng Afarer. May RFID tag ang bawat board na ini-scan sa checkout at pagbabalik — sinusubaybayan ang oras ng paggamit, late na pagbabalik, at pangangailangan ng maintenance. Awtomatikong itinalaga ng system ang tamang laki ng board kapag nagbook ang mag-aaral ng klase. Nagdisenyo ang Afarer ng modular na rack system (24 board bawat rack, 5 rack kabuuan) na may UV-protective na canopy at RFID reader gate. Nagbigay ang Gold Coast City Council kay Kylie ng 5-taong permit para sa permanenteng 500 m² nakakulong na enclosure sa katimugang dulo ng Tallebudgera Beach — isang tagumpay sa kabila ng striktong tuntunin sa coastal development ng lugar. Nakinegotiate si Lachlan ng Afarer ng permit gamit ang 'Community Sports Facility' classification ng Afarer, na hindi pa nagagamit ng council para sa SUP school.",
+                "I-integrate ng tech team ng OLagoon ang umiiral na BookingKit reservation system ni Kylie sa inventory module ng OLagoon. May RFID tag ang bawat board na ini-scan sa checkout at pagbabalik — sinusubaybayan ang oras ng paggamit, late na pagbabalik, at pangangailangan ng maintenance. Awtomatikong itinalaga ng system ang tamang laki ng board kapag nagbook ang mag-aaral ng klase. Nagdisenyo ang OLagoon ng modular na rack system (24 board bawat rack, 5 rack kabuuan) na may UV-protective na canopy at RFID reader gate. Nagbigay ang Gold Coast City Council kay Kylie ng 5-taong permit para sa permanenteng 500 m² nakakulong na enclosure sa katimugang dulo ng Tallebudgera Beach — isang tagumpay sa kabila ng striktong tuntunin sa coastal development ng lugar. Nakinegotiate si Lachlan ng OLagoon ng permit gamit ang 'Community Sports Facility' classification ng OLagoon, na hindi pa nagagamit ng council para sa SUP school.",
             },
             {
               title: 'Launch ng Term 1 noong Setyembre 2024 at Pagtaas ng Enrollment',
               detail:
-                "Inilunsad ang Term 1 (Setyembre-Nobyembre 2024, tagsibol sa Australia) na may 83 mag-aaral na nakatala — 91% ng target na 200. Nagpatakbo si Kylie ng 28 klase bawat linggo gamit ang 12 instructor. Kasiyahan ng magulang: 4.8/5. Ang enrollment sa Term 2 (Pebrero-Abril 2025) ay umabot sa 264 mag-aaral (132% ng target). Kita: Term 1 = $91,317 AUD; Term 2 = $131,736 AUD. Ang 'Adaptive Paddle' program ng academy (para sa mga mag-aaral may kapansanan, co-designed sa Spinal Life Australia) ay may 12 nakatalang mag-aaral at nanalo ng 2025 Gold Coast Sport & Recreation 'Inclusive Program of the Year.' Gastos sa maintenance ng board: $1,220 AUD kabuuan sa 120 board sa loob ng 6 buwan (karamihan fin screw at valve cap). Nagorder si Kylie ng 60 karagdagang board para sa 2025-26 at kinontrata ang Afarer na bumuo ng advanced na 'Race Squad' board para sa kanyang 15 competitive na mag-aaral.",
+                "Inilunsad ang Term 1 (Setyembre-Nobyembre 2024, tagsibol sa Australia) na may 83 mag-aaral na nakatala — 91% ng target na 200. Nagpatakbo si Kylie ng 28 klase bawat linggo gamit ang 12 instructor. Kasiyahan ng magulang: 4.8/5. Ang enrollment sa Term 2 (Pebrero-Abril 2025) ay umabot sa 264 mag-aaral (132% ng target). Kita: Term 1 = $91,317 AUD; Term 2 = $131,736 AUD. Ang 'Adaptive Paddle' program ng academy (para sa mga mag-aaral may kapansanan, co-designed sa Spinal Life Australia) ay may 12 nakatalang mag-aaral at nanalo ng 2025 Gold Coast Sport & Recreation 'Inclusive Program of the Year.' Gastos sa maintenance ng board: $1,220 AUD kabuuan sa 120 board sa loob ng 6 buwan (karamihan fin screw at valve cap). Nagorder si Kylie ng 60 karagdagang board para sa 2025-26 at kinontrata ang OLagoon na bumuo ng advanced na 'Race Squad' board para sa kanyang 15 competitive na mag-aaral.",
             },
           ],
           results: [
@@ -3166,8 +3166,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga SUP Academy ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga SUP Academy ang OLagoon',
       items: [
         {
           title: 'Karanasan sa Pagkatuto',
@@ -3195,22 +3195,22 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Anong SUP board ang pinakamahusay para sa pagtuturo sa mga baguhan?',
         answer:
-          'Ang beginner training SUP board ay dapat may mas malapad na platform, mas mataas na volume, at matatag na all-round na hugis na nagbibigay ng kumpiyansa, balanse, at madaling kontrol. Ang mga beginner board ng Afarer ay may high-stability na disenyo ng platform at high buoyancy na construction na partikular para sa kapaligiran ng pagkatuto.',
+          'Ang beginner training SUP board ay dapat may mas malapad na platform, mas mataas na volume, at matatag na all-round na hugis na nagbibigay ng kumpiyansa, balanse, at madaling kontrol. Ang mga beginner board ng OLagoon ay may high-stability na disenyo ng platform at high buoyancy na construction na partikular para sa kapaligiran ng pagkatuto.',
       },
       {
         question: 'Nag-aalok ba kayo ng kids-sized na SUP board para sa youth program?',
         answer:
-          'Oo, nag-aalok ang Afarer ng dedicated na kids SUP board na may angkop na haba, magaan na paghawak, matatag na hugis, at child-friendly na itsura na idinisenyo para sa school program, summer camp, junior course, at pamilyang aktibidad.',
+          'Oo, nag-aalok ang OLagoon ng dedicated na kids SUP board na may angkop na haba, magaan na paghawak, matatag na hugis, at child-friendly na itsura na idinisenyo para sa school program, summer camp, junior course, at pamilyang aktibidad.',
       },
       {
-        question: 'Gaano katibay ang mga training board ng Afarer para sa pang-araw-araw na paggamit sa pagtuturo?',
+        question: 'Gaano katibay ang mga training board ng OLagoon para sa pang-araw-araw na paggamit sa pagtuturo?',
         answer:
-          'Ang mga training board ng Afarer ay may pinalakas na PVC material, matibay na drop stitch structure, at pinalakas na rail na idinisenyo para makayanan ang pang-araw-araw na paggamit ng maraming mag-aaral, madalas na transport, paulit-ulit na inflation, at mali ng mga baguhan.',
+          'Ang mga training board ng OLagoon ay may pinalakas na PVC material, matibay na drop stitch structure, at pinalakas na rail na idinisenyo para makayanan ang pang-araw-araw na paggamit ng maraming mag-aaral, madalas na transport, paulit-ulit na inflation, at mali ng mga baguhan.',
       },
       {
         question: 'Pwede ninyong i-customize ang mga board gamit ang branding ng aming academy?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang customization ng logo ng academy, pagtutugma ng kulay, numero ng board, at sistema ng pagkilala na lumilikha ng propesyonal na imahe at nagpapadali ng fleet management para sa mga instructor.',
+          'Oo, sinusuportahan ng OLagoon ang customization ng logo ng academy, pagtutugma ng kulay, numero ng board, at sistema ng pagkilala na lumilikha ng propesyonal na imahe at nagpapadali ng fleet management para sa mga instructor.',
       },
       {
         question: 'Anong accessory ang kasama sa academy fleet package?',
@@ -3220,13 +3220,13 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Nagbibigay ba kayo ng suporta sa maintenance para sa training equipment?',
         answer:
-          'Oo, nagbibigay ang Afarer ng guide sa inspeksyon ng kagamitan, proseso ng paglilinis at storage, pangunahing gabay sa repair para sa maliliit na pinsala at maintenance ng valve, at pagpaplano ng spare part para mapanatiling operational ang iyong training fleet sa buong season.',
+          'Oo, nagbibigay ang OLagoon ng guide sa inspeksyon ng kagamitan, proseso ng paglilinis at storage, pangunahing gabay sa repair para sa maliliit na pinsala at maintenance ng valve, at pagpaplano ng spare part para mapanatiling operational ang iyong training fleet sa buong season.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong SUP Academy Fleet sa Afarer',
+      title: 'Bumuo ng Iyong SUP Academy Fleet sa OLagoon',
       subtitle:
-        'Mahalaga ang unang karanasan sa SUP ng iyong mga mag-aaral. Pumili ng kagamitang idinisenyo para matulungan silang matuto nang ligtas at may kumpiyansa. Tinutulungan ng Afarer ang mga SUP school, youth academy, summer camp, at outdoor education organization na lumikha ng propesyonal na training program.',
+        'Mahalaga ang unang karanasan sa SUP ng iyong mga mag-aaral. Pumili ng kagamitang idinisenyo para matulungan silang matuto nang ligtas at may kumpiyansa. Tinutulungan ng OLagoon ang mga SUP school, youth academy, summer camp, at outdoor education organization na lumikha ng propesyonal na training program.',
       primaryAction: {
         text: 'Simulan ang Iyong SUP Academy Project Ngayon',
       },
@@ -3247,9 +3247,9 @@ const tl: Record<string, SolutionOverride> = {
       title:
         'Premium na Portable Water Sports Solution para sa mga Cruise Line, Yacht Company at Marine Hospitality Brand',
       subtitle:
-        'Nagbibigay ang Afarer ng Luxury Portable SUP Package solution na partikular na idinisenyo para sa mga cruise company, expedition cruise operator, yacht charter company, may-ari ng super yacht, at marine activity provider. Naghahatid ng ultra-portable na inflatable SUP design na may marine-grade na component at luxury customization.',
+        'Nagbibigay ang OLagoon ng Luxury Portable SUP Package solution na partikular na idinisenyo para sa mga cruise company, expedition cruise operator, yacht charter company, may-ari ng super yacht, at marine activity provider. Naghahatid ng ultra-portable na inflatable SUP design na may marine-grade na component at luxury customization.',
       image: {
-        alt: 'Luxury portable SUP package ng Afarer para sa mga yacht at cruise ship',
+        alt: 'Luxury portable SUP package ng OLagoon para sa mga yacht at cruise ship',
       },
     },
     challenge: {
@@ -3283,7 +3283,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Ultra-Portable na Inflatable SUP Design',
           description:
-            'Nagbibigay ang teknolohiyang inflatable SUP ng malaking bentahe para sa mga yacht at cruise operator. Ang mga board ng Afarer ay may compact folding system para sa maliit na storage volume, magaan na transportasyon para sa mas mabilis na deployment, at kumpletong travel package kabilang ang board, natitiklop na paddle, pump, at backpack.',
+            'Nagbibigay ang teknolohiyang inflatable SUP ng malaking bentahe para sa mga yacht at cruise operator. Ang mga board ng OLagoon ay may compact folding system para sa maliit na storage volume, magaan na transportasyon para sa mas mabilis na deployment, at kumpletong travel package kabilang ang board, natitiklop na paddle, pump, at backpack.',
           features: [
             'Compact folding system',
             'Magaan na transportasyon',
@@ -3294,7 +3294,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Marine-Grade na Pagpili ng Material',
           description:
-            'Gumagamit ang Afarer ng saltwater-resistant na component na may corrosion-resistant na hardware, UV-resistant na construction para sa pagkakalantad sa araw, at pinalakas na SUP structure na may matibay na PVC layer at malakas na drop stitch core na partikular na idinisenyo para sa kapaligirang karagatan.',
+            'Gumagamit ang OLagoon ng saltwater-resistant na component na may corrosion-resistant na hardware, UV-resistant na construction para sa pagkakalantad sa araw, at pinalakas na SUP structure na may matibay na PVC layer at malakas na drop stitch core na partikular na idinisenyo para sa kapaligirang karagatan.',
           features: [
             'Saltwater-resistant na component',
             'UV-resistant na construction',
@@ -3305,7 +3305,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Luxury Yacht at Cruise Customization',
           description:
-            'Para sa mga premium na marine business, mahalaga ang itsura. Sinusuportahan ng Afarer ang custom branding na may logo ng yacht at identity ng cruise company, premium na disenyo ng kulay sa istilong luxury yacht, expedition adventure, o resort marine, at branded na set ng kagamitan na may tumutugmang paddle at custom bag.',
+            'Para sa mga premium na marine business, mahalaga ang itsura. Sinusuportahan ng OLagoon ang custom branding na may logo ng yacht at identity ng cruise company, premium na disenyo ng kulay sa istilong luxury yacht, expedition adventure, o resort marine, at branded na set ng kagamitan na may tumutugmang paddle at custom bag.',
           features: [
             'Custom na branding ng yacht at cruise',
             'Premium na disenyo ng kulay',
@@ -3316,27 +3316,27 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Yacht Charter SUP Package',
           description:
-            'Umasa ang mga guest ng yacht ng kaginhawahan at eksklusibidad. Sinusuportahan ng Afarer ang pribadong charter equipment set para sa super yacht, catamaran, at sailing yacht na may guest-friendly na operasyon para sa mga baguhan at pamilya, organisadong storage, at premium na presentasyon na may luxury na itsura.',
+            'Umasa ang mga guest ng yacht ng kaginhawahan at eksklusibidad. Sinusuportahan ng OLagoon ang pribadong charter equipment set para sa super yacht, catamaran, at sailing yacht na may guest-friendly na operasyon para sa mga baguhan at pamilya, organisadong storage, at premium na presentasyon na may luxury na itsura.',
         },
         {
           title: 'Expedition Cruise Water Activity Solution',
           description:
-            'Kailangan ng mga adventure cruise ng flexible na kagamitan para sa paghinto sa isla, paggalugad ng coastal area, at nature excursion. Sinusuportahan ng solusyon ng Afarer ang operasyon sa malalayong lokasyon na may madaling transportasyon at compact na storage, bukod pa ang grupoang programa ng aktibidad para sa maliliit na grupo at guided excursion.',
+            'Kailangan ng mga adventure cruise ng flexible na kagamitan para sa paghinto sa isla, paggalugad ng coastal area, at nature excursion. Sinusuportahan ng solusyon ng OLagoon ang operasyon sa malalayong lokasyon na may madaling transportasyon at compact na storage, bukod pa ang grupoang programa ng aktibidad para sa maliliit na grupo at guided excursion.',
         },
         {
           title: 'Kumpletong Onboard Storage Solution',
           description:
-            'Naiintindihan ng Afarer ang limitasyon ng marine space at nagbibigay ng compact na pagpaplano ng storage para sa organisasyon ng board at accessory, sistema ng proteksyon na may storage bag, at kahusayan sa operasyon na tumutulong sa crew na mas mabilis na maghanda at mas madaling pamahalaan ang kagamitan.',
+            'Naiintindihan ng OLagoon ang limitasyon ng marine space at nagbibigay ng compact na pagpaplano ng storage para sa organisasyon ng board at accessory, sistema ng proteksyon na may storage bag, at kahusayan sa operasyon na tumutulong sa crew na mas mabilis na maghanda at mas madaling pamahalaan ang kagamitan.',
         },
         {
           title: 'Crew Training at Suporta sa Maintenance',
           description:
-            'Nagbibigay ang Afarer ng operational guide para sa crew na sumasaklaw sa proseso ng inflation, paghawak ng kagamitan, at paraan ng paglilinis, bukod pa ang rekomendasyon sa maintenance para sa paglilinis ng saltwater, proseso ng pagpapatuyo, at gawi sa storage na may inspection checklist bago at pagkatapos ng aktibidad.',
+            'Nagbibigay ang OLagoon ng operational guide para sa crew na sumasaklaw sa proseso ng inflation, paghawak ng kagamitan, at paraan ng paglilinis, bukod pa ang rekomendasyon sa maintenance para sa paglilinis ng saltwater, proseso ng pagpapatuyo, at gawi sa storage na may inspection checklist bago at pagkatapos ng aktibidad.',
         },
         {
           title: 'Premium na Disenyo ng Karanasan sa Tubig',
           description:
-            'Maaaring maging bahagi ng luxury experience package ang SUP. Tinutulungan ng Afarer ang paglikha ng sunset yacht SUP experience para sa mga mag-asawa at VIP guest, pribadong paggalugad ng isla para sa charter customer, ocean wellness program para sa luxury cruise, at marine eco experience para sa expedition cruise.',
+            'Maaaring maging bahagi ng luxury experience package ang SUP. Tinutulungan ng OLagoon ang paglikha ng sunset yacht SUP experience para sa mga mag-asawa at VIP guest, pribadong paggalugad ng isla para sa charter customer, ocean wellness program para sa luxury cruise, at marine eco experience para sa expedition cruise.',
         },
       ],
     },
@@ -3352,7 +3352,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Product Planning',
           detail:
-            'Nagdisenyo ang Afarer ng Luxury Portable SUP Package batay sa limitasyon ng storage ng yacht, pangangailangan sa karanasan ng guest, at kapaligirang marino ng Mediterranean.',
+            'Nagdisenyo ang OLagoon ng Luxury Portable SUP Package batay sa limitasyon ng storage ng yacht, pangangailangan sa karanasan ng guest, at kapaligirang marino ng Mediterranean.',
         },
         {
           title: 'Product Customization',
@@ -3390,29 +3390,29 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Arctic Field Testing sa Kongsfjorden sa 79° North',
               detail:
-                'Noong Mayo 2024, sumali ang extreme environments team ng Afarer (lead engineer na si Sven Lehmann mula sa Hamburg office ng Afarer) sa MS Maud ng Hurtigruten sa 14-araw na paglalayag sa Svalbard. Sinubukan nila ang 8 board ng kakumpetensya at 6 Arctic prototype ng Afarer sa 11 Zodiac deployment malapit sa Ny-Ålesund at Monaco Glacier. Pangunahing natuklasan: ang mga standard na valve ay nagyelo nang bukas sa -8°C na hangin pagkatapos ng paglubog sa 2°C na tubig (ang mainit na tubig sa loob ng valve stem ay muling nagyelo sa pagkakadikit sa malamig na hangin). Solusyon ng Afarer: nitrogen-purge na valve system na nagpapalabas ng lahat ng kahalumigmigan bago magsara, bukod pa ang neoprene valve cover. Material ng board: ang standard na PVC ay nawalan ng 40% flexibility sa -15°C — ang Polarex TPU blend ng Afarer ay nagpanatili ng 92% flexibility sa -20°C. Kailangang mag-inflate ang mga board sa mas mababa sa 7 minuto (limitasyon ng pasensya ng guest sa malamig na kondisyon) at mag-deflate/mag-pack sa 5 minuto (para paliitin ang window ng pagkakalantad sa polar bear). Nakamit ng 2-stage pump ng Afarer (hand pump para sa unang 10 PSI, nitrogen canister booster hanggang 18 PSI) ang 6.2-minutong inflation.',
+                'Noong Mayo 2024, sumali ang extreme environments team ng OLagoon (lead engineer na si Sven Lehmann mula sa Hamburg office ng OLagoon) sa MS Maud ng Hurtigruten sa 14-araw na paglalayag sa Svalbard. Sinubukan nila ang 8 board ng kakumpetensya at 6 Arctic prototype ng OLagoon sa 11 Zodiac deployment malapit sa Ny-Ålesund at Monaco Glacier. Pangunahing natuklasan: ang mga standard na valve ay nagyelo nang bukas sa -8°C na hangin pagkatapos ng paglubog sa 2°C na tubig (ang mainit na tubig sa loob ng valve stem ay muling nagyelo sa pagkakadikit sa malamig na hangin). Solusyon ng OLagoon: nitrogen-purge na valve system na nagpapalabas ng lahat ng kahalumigmigan bago magsara, bukod pa ang neoprene valve cover. Material ng board: ang standard na PVC ay nawalan ng 40% flexibility sa -15°C — ang Polarex TPU blend ng OLagoon ay nagpanatili ng 92% flexibility sa -20°C. Kailangang mag-inflate ang mga board sa mas mababa sa 7 minuto (limitasyon ng pasensya ng guest sa malamig na kondisyon) at mag-deflate/mag-pack sa 5 minuto (para paliitin ang window ng pagkakalantad sa polar bear). Nakamit ng 2-stage pump ng OLagoon (hand pump para sa unang 10 PSI, nitrogen canister booster hanggang 18 PSI) ang 6.2-minutong inflation.',
             },
             {
               title: "'Polar Explorer' Package na may Zodiac Integration at Safety System",
               detail:
-                "Idinisenyo ng Afarer ang 'Polar Explorer 12.0' na may partikular na adaptasyon sa Arctic: maliwanag na international-orange na kulay (kitang-kita sa yelo sa layong 2 km gamit ang binocular), reflective na SOLAS-grade na tape strip, built-in na rescue loop na rated hanggang 600 kg (para sa Zodiac tow recovery), at GPS beacon pocket sa ilong (nagbigay ang Hurtigruten ng Garmin inReach Mini 2 unit). Kasama sa package ang inflatable PFD na compatible sa drysuit (Mustang Survival HIT, sinubukan ng Afarer para sa mobility sa panahon ng paddling), neoprene pogie set (hand warmer na naka-integrate sa paddle shaft), at custom backpack na kasya sa storage locker ng Zodiac (60x30x30 cm packed size). Ang Zodiac deployment system: isang jockey-wheel rack na kinalkampay sa pontoon ng Zodiac ang nagpahintulot sa isang guide na madulas ang mga board sa tubig nang hindi binubuhat.",
+                "Idinisenyo ng OLagoon ang 'Polar Explorer 12.0' na may partikular na adaptasyon sa Arctic: maliwanag na international-orange na kulay (kitang-kita sa yelo sa layong 2 km gamit ang binocular), reflective na SOLAS-grade na tape strip, built-in na rescue loop na rated hanggang 600 kg (para sa Zodiac tow recovery), at GPS beacon pocket sa ilong (nagbigay ang Hurtigruten ng Garmin inReach Mini 2 unit). Kasama sa package ang inflatable PFD na compatible sa drysuit (Mustang Survival HIT, sinubukan ng OLagoon para sa mobility sa panahon ng paddling), neoprene pogie set (hand warmer na naka-integrate sa paddle shaft), at custom backpack na kasya sa storage locker ng Zodiac (60x30x30 cm packed size). Ang Zodiac deployment system: isang jockey-wheel rack na kinalkampay sa pontoon ng Zodiac ang nagpahintulot sa isang guide na madulas ang mga board sa tubig nang hindi binubuhat.",
             },
             {
               title: 'Polar Bear Safety Protocol at Guide Training Program',
               detail:
-                "Co-develop ni Bjørn Viken, safety consultant ng Afarer at dating security advisor ng governor's office ng Svalbard, ng 3-araw na training program para sa 12 guide ng Hurtigruten. Kasama sa 'Arctic Paddle Safety Protocol': rotation ng polar bear watch (isang guide na nakalaan sa pag-spot ng bear, na may .308 caliber rifle at flare gun — standard na kahilingan sa Svalbard), formation ng grupo (line-abreast sa loob ng 50 metro, hindi kailanman > 200 metro mula sa Zodiac), mabilis na extraction (buong grupo ay makasakay muli sa mas mababa sa 90 segundo, sinasanay linggu-linggo), at emergency response sa hypothermia. Nagbigay ang Afarer ng waterproof na laminated quick-reference card para sa bawat guide. Ang bawat session ay limitado sa 8 guest na may 2 guide at 1 armadong safety Zodiac sa 100 metro. Pagkakita sa polar bear sa panahon ng paddling: 2 insidente sa 2024 season — pareho napamahalaan gamit ang flare warning shot, walang nasaktan. In-rate ng mga guest ang 'safety confidence' sa 4.9/5.",
+                "Co-develop ni Bjørn Viken, safety consultant ng OLagoon at dating security advisor ng governor's office ng Svalbard, ng 3-araw na training program para sa 12 guide ng Hurtigruten. Kasama sa 'Arctic Paddle Safety Protocol': rotation ng polar bear watch (isang guide na nakalaan sa pag-spot ng bear, na may .308 caliber rifle at flare gun — standard na kahilingan sa Svalbard), formation ng grupo (line-abreast sa loob ng 50 metro, hindi kailanman > 200 metro mula sa Zodiac), mabilis na extraction (buong grupo ay makasakay muli sa mas mababa sa 90 segundo, sinasanay linggu-linggo), at emergency response sa hypothermia. Nagbigay ang OLagoon ng waterproof na laminated quick-reference card para sa bawat guide. Ang bawat session ay limitado sa 8 guest na may 2 guide at 1 armadong safety Zodiac sa 100 metro. Pagkakita sa polar bear sa panahon ng paddling: 2 insidente sa 2024 season — pareho napamahalaan gamit ang flare warning shot, walang nasaktan. In-rate ng mga guest ang 'safety confidence' sa 4.9/5.",
             },
             {
               title: 'Launch ng Arctic Season noong Hunyo-Setyembre 2024 at Resulta',
               detail:
-                "Ang fleet na 60 board ay na-deploy sa 4 barko simula Hunyo 1, 2024. Nag-alok ang bawat barko ng 3 paddle session bawat linggo (depende sa panahon, 90 minuto bawat isa). Kabuuang session sa 2024 season: 288 session sa lahat ng barko (4 barko × 3/linggo × 24 linggo). Average na occupancy: 7.2 guest bawat session (90% ng 8-guest capacity). Kita: 288 × 7.2 × $450 (premium excursion pricing) = $933,120 USD. Performance ng board: walang catastrophic na pagkabigo. Isang board ang nagkaroon ng 3 cm butas mula sa sea ice (isang matalim na brash ice fragment) — inayos gamit ang Arctic-rated patch kit sa loob ng 8 minuto sa panahon ng Zodiac drift. Napakahusay na pagganap ng valve sa 288 inflation/deflation cycle. Feedback ng guest: 4.93/5 average rating. Sinabi ng 83% ng guest na ang SUP experience ang 'highlight ng kanilang paglalayag.' Nagorder si Erik ng 40 karagdagang board para sa 2025 season at hiniling sa Afarer na bumuo ng 'Twin' model para sa tandem Arctic paddling.",
+                "Ang fleet na 60 board ay na-deploy sa 4 barko simula Hunyo 1, 2024. Nag-alok ang bawat barko ng 3 paddle session bawat linggo (depende sa panahon, 90 minuto bawat isa). Kabuuang session sa 2024 season: 288 session sa lahat ng barko (4 barko × 3/linggo × 24 linggo). Average na occupancy: 7.2 guest bawat session (90% ng 8-guest capacity). Kita: 288 × 7.2 × $450 (premium excursion pricing) = $933,120 USD. Performance ng board: walang catastrophic na pagkabigo. Isang board ang nagkaroon ng 3 cm butas mula sa sea ice (isang matalim na brash ice fragment) — inayos gamit ang Arctic-rated patch kit sa loob ng 8 minuto sa panahon ng Zodiac drift. Napakahusay na pagganap ng valve sa 288 inflation/deflation cycle. Feedback ng guest: 4.93/5 average rating. Sinabi ng 83% ng guest na ang SUP experience ang 'highlight ng kanilang paglalayag.' Nagorder si Erik ng 40 karagdagang board para sa 2025 season at hiniling sa OLagoon na bumuo ng 'Twin' model para sa tandem Arctic paddling.",
             },
           ],
           results: [
             '$933,120 kita mula sa 288 SUP session sa loob ng isang 4-buwang Arctic season na may 90% capacity utilization',
             'Walang catastrophic na pagkabigo ng board sa 288 session sa matinding kondisyon ng Arctic; 1 maliliit na butas mula sa yelo ang inayos onboard sa 8 minuto',
             "Kasiyahan ng guest 4.93/5; 83% ang nag-rate sa SUP experience bilang 'highlight ng paglalayag'; idinagdag ng mga barko ang SUP bilang permanenteng kategorya ng excursion",
-            'iginawad sa Afarer ang 3-taong exclusive partnership para sa lahat ng operasyon ng Hurtigruten Svalbard; 40 karagdagang board ang naorder para sa 2025 season',
+            'iginawad sa OLagoon ang 3-taong exclusive partnership para sa lahat ng operasyon ng Hurtigruten Svalbard; 40 karagdagang board ang naorder para sa 2025 season',
           ],
         },
         {
@@ -3428,36 +3428,36 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Island Assessment noong Marso 2024 at Bespoke Design Consultation',
               detail:
-                "Gumugol si Philippe Moreau, luxury division director ng Afarer, at si senior designer na si Amira Al Hashimi ng 4 araw sa Al Nabigha Island. Nadokumento nila ang bawat detalye: ang interior ng villa (kontemporaryong Arabic na disenyo na may cream, buhangin, at gintong tono), ang color palette ng coral garden (teal, turquoise, coral pink), ang pantone-matched na wood stain ng marina, at maging ang pattern ng tsina ng pamilya (Wedgwood 'Middle East Pearl'). Iminungkahi nina Philippe at Amira ang 'one-of-a-kind' aesthetic: mga board na tumutugma sa aktwal na kulay ng reef ng isla, na may family crest ng Al Nabigha (isang falcon sa ibabaw ng date palm) na embossed sa 24-karat gold leaf sa ilalim ng clear epoxy. Ang storage ang limitasyon — ang umiiral na beach cabana ni Hamdan ay may 8 kubikong metro lamang para sa magiging 20 board. Iminungkahi ng Afarer ang custom na teak cabinetry na may indibidwal na ventilated drawer, ang bawat board ay naka-roll at nakaimbak na may humidity sensor.",
+                "Gumugol si Philippe Moreau, luxury division director ng OLagoon, at si senior designer na si Amira Al Hashimi ng 4 araw sa Al Nabigha Island. Nadokumento nila ang bawat detalye: ang interior ng villa (kontemporaryong Arabic na disenyo na may cream, buhangin, at gintong tono), ang color palette ng coral garden (teal, turquoise, coral pink), ang pantone-matched na wood stain ng marina, at maging ang pattern ng tsina ng pamilya (Wedgwood 'Middle East Pearl'). Iminungkahi nina Philippe at Amira ang 'one-of-a-kind' aesthetic: mga board na tumutugma sa aktwal na kulay ng reef ng isla, na may family crest ng Al Nabigha (isang falcon sa ibabaw ng date palm) na embossed sa 24-karat gold leaf sa ilalim ng clear epoxy. Ang storage ang limitasyon — ang umiiral na beach cabana ni Hamdan ay may 8 kubikong metro lamang para sa magiging 20 board. Iminungkahi ng OLagoon ang custom na teak cabinetry na may indibidwal na ventilated drawer, ang bawat board ay naka-roll at nakaimbak na may humidity sensor.",
             },
             {
               title: "'Royal Heritage' Custom Manufacturing at Silent Electric Infrastructure",
               detail:
-                "Naglaan ang facility ng Afarer sa Xiamen ng hiwalay na production line para sa order ng Al Nabigha. Ang bawat board ay inilatay kamay gamit ang custom-dyed na PVC sa 'Arabian Teal' — custom na Pantone color (PMS 7712 C) na tumutugma sa mas malalim na reef zone ng isla. Ang gold leaf embossing: 0.5 micron na 24K gold na inilagay sa paligid ng family crest, protektado ng 3 layer ng marine-grade na UV-cured epoxy. Naghanap ang Afarer ng silent electric pump (JOBE Aero, binago gamit ang noise-dampening enclosure na bumaba sa 38 dB — mas tahimik kaysa ambient na tunog ng alon ng isla). Ang power cord ng bawat pump ay nabalutan ng cream-colored na fabric para tumugma sa decor ng villa. Ang 20-paddle set: custom na carbon-fiber shaft sa matte cream na may 24K gold band sa ferrule at blades na kamay-pininta ng coral reef motif ni Liao Fang, marine artist na nakabase sa Xiamen. Ang humidity-controlled na storage cabinet ay ginawa ng carpentry partner ng Afarer sa Milan, ipinadala flat-packed at binuo sa isla.",
+                "Naglaan ang facility ng OLagoon sa Xiamen ng hiwalay na production line para sa order ng Al Nabigha. Ang bawat board ay inilatay kamay gamit ang custom-dyed na PVC sa 'Arabian Teal' — custom na Pantone color (PMS 7712 C) na tumutugma sa mas malalim na reef zone ng isla. Ang gold leaf embossing: 0.5 micron na 24K gold na inilagay sa paligid ng family crest, protektado ng 3 layer ng marine-grade na UV-cured epoxy. Naghanap ang OLagoon ng silent electric pump (JOBE Aero, binago gamit ang noise-dampening enclosure na bumaba sa 38 dB — mas tahimik kaysa ambient na tunog ng alon ng isla). Ang power cord ng bawat pump ay nabalutan ng cream-colored na fabric para tumugma sa decor ng villa. Ang 20-paddle set: custom na carbon-fiber shaft sa matte cream na may 24K gold band sa ferrule at blades na kamay-pininta ng coral reef motif ni Liao Fang, marine artist na nakabase sa Xiamen. Ang humidity-controlled na storage cabinet ay ginawa ng carpentry partner ng OLagoon sa Milan, ipinadala flat-packed at binuo sa isla.",
             },
             {
               title: 'White-Glove Service Protocol at Staff Training',
               detail:
-                "Pumili si Saeed Al Mazrouei ng 6 staff ng isla (3 butler, 2 beach attendant, 1 marina hand) para sa White-Glove Service Training ng Afarer noong Mayo 2024. Sakop ng 5-araw na programa: pagbati sa guest (ipinapresenta ang board sa rattan stand, hindi kailanman inilalagay sa lupa), seremonya ng inflation (sinisimulan ang pump bago dumating ang guest — handa na ang board pagdating ng guest sa dalampasigan — sinukat sa 11.5 minuto mula simula ng pump hanggang buong 15 PSI), personal fitting (tamang taas ng paddle, pagkakabit ng leash, sukat ng PFD — DAPAT discrito, kaya nagbigay ang Afarer ng custom-colored na inflatable PFD sa cream na may matte gold hardware), at pangangalaga pagkatapos ng session (pinupunasan ang board ng pH-neutral na cleaner, inilalagay ang UV protectant bawat 5 session, iniinspeksyon ang valve, at muling iniro-roll sa drawer sa loob ng 8 minuto mula umalis ang guest). Ang protocol manual (45 pahina, balat na may ginto sa gilid ng pahina) ay nakaimbak sa nakatagong safe ng cabana. Feedback ni Hamdan pagkatapos ng training: 'Ganito dapat tratuin ang kagamitan.'",
+                "Pumili si Saeed Al Mazrouei ng 6 staff ng isla (3 butler, 2 beach attendant, 1 marina hand) para sa White-Glove Service Training ng OLagoon noong Mayo 2024. Sakop ng 5-araw na programa: pagbati sa guest (ipinapresenta ang board sa rattan stand, hindi kailanman inilalagay sa lupa), seremonya ng inflation (sinisimulan ang pump bago dumating ang guest — handa na ang board pagdating ng guest sa dalampasigan — sinukat sa 11.5 minuto mula simula ng pump hanggang buong 15 PSI), personal fitting (tamang taas ng paddle, pagkakabit ng leash, sukat ng PFD — DAPAT discrito, kaya nagbigay ang OLagoon ng custom-colored na inflatable PFD sa cream na may matte gold hardware), at pangangalaga pagkatapos ng session (pinupunasan ang board ng pH-neutral na cleaner, inilalagay ang UV protectant bawat 5 session, iniinspeksyon ang valve, at muling iniro-roll sa drawer sa loob ng 8 minuto mula umalis ang guest). Ang protocol manual (45 pahina, balat na may ginto sa gilid ng pahina) ay nakaimbak sa nakatagong safe ng cabana. Feedback ni Hamdan pagkatapos ng training: 'Ganito dapat tratuin ang kagamitan.'",
             },
             {
               title:
                 'Delivery noong Hunyo 2024 at Unang VIP Weekend (Pumalit ang Qatari Emir sa kanseladong paglagi ni Prince Andrew)',
               detail:
-                "Ang unang buong deployment ng fleet ay para sa state visit ng Emir ng Qatar na si Tamim bin Hamad Al Thani at ang kanyang pamilya noong Hunyo 24, 2024 (orihinal na naka-iskedyul para sa isang British royal na umatras). Anim na SUP ang inihanda sa pribadong dalampasigan pagsapit ng 7:30 AM. Ang 14-taong gulang na anak ng Emir na si Sheikh Jassim ay nagpaddle nang 3 oras kasama ang marine biologist guide (na custom-trained din ng Afarer) sa paggalugad ng coral garden. Ulat ni Hamdan: 'Sinabi ng anak ng Emir na ito ang pinakamagandang bahagi ng pagbisita.' Ang ikalawang deployment noong Oktubre 2024 para sa 12 guest mula sa Saudi Royal Court ay kasama ang sunset paddle na may champagne service (hawak ang flute sa custom drink holder ng Afarer, idinisenyong hindi tumitiltil sa boat wake). Pagsapit ng Marso 2025, ang mga board ay nagamit nang 47 beses nang walang pinsala, walang insidente sa maintenance, at walang reklamo ng guest. Nagorder si Hamdan ng 8 karagdagang board para sa pribadong yacht ng pamilya (ang 65-metrong 'Al Nabigha Star') at kinomisyon ang Afarer na bumuo ng gold-leaf paddle series para sa pagdiriwang ng UAE National Day.",
+                "Ang unang buong deployment ng fleet ay para sa state visit ng Emir ng Qatar na si Tamim bin Hamad Al Thani at ang kanyang pamilya noong Hunyo 24, 2024 (orihinal na naka-iskedyul para sa isang British royal na umatras). Anim na SUP ang inihanda sa pribadong dalampasigan pagsapit ng 7:30 AM. Ang 14-taong gulang na anak ng Emir na si Sheikh Jassim ay nagpaddle nang 3 oras kasama ang marine biologist guide (na custom-trained din ng OLagoon) sa paggalugad ng coral garden. Ulat ni Hamdan: 'Sinabi ng anak ng Emir na ito ang pinakamagandang bahagi ng pagbisita.' Ang ikalawang deployment noong Oktubre 2024 para sa 12 guest mula sa Saudi Royal Court ay kasama ang sunset paddle na may champagne service (hawak ang flute sa custom drink holder ng OLagoon, idinisenyong hindi tumitiltil sa boat wake). Pagsapit ng Marso 2025, ang mga board ay nagamit nang 47 beses nang walang pinsala, walang insidente sa maintenance, at walang reklamo ng guest. Nagorder si Hamdan ng 8 karagdagang board para sa pribadong yacht ng pamilya (ang 65-metrong 'Al Nabigha Star') at kinomisyon ang OLagoon na bumuo ng gold-leaf paddle series para sa pagdiriwang ng UAE National Day.",
             },
           ],
           results: [
             '20-board na fleet na na-deploy para sa 47 VIP guest session sa unang 9 buwan nang walang insidente sa maintenance o reklamo ng guest',
             'Average na 11.5-minutong setup time para sa silent electric pump system; ang pag-iimbak pagkatapos ng session ay nakumpleto sa 8 minuto — parehong lumampas sa 15-minutong luxury service standard',
             'Ang custom storage cabinetry ay nagpanatili ng 58% average na humidity (optimal para sa PVC); walang naiulat na amag o pagkasira ng material',
-            "Karagdagang order na 8 board para sa yacht ng pamilya na 'Al Nabigha Star'; kinomisyon ang Afarer para sa exclusive na UAE National Day 2025 gold-leaf paddle series",
+            "Karagdagang order na 8 board para sa yacht ng pamilya na 'Al Nabigha Star'; kinomisyon ang OLagoon para sa exclusive na UAE National Day 2025 gold-leaf paddle series",
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Cruise at Yacht Company ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Cruise at Yacht Company ang OLagoon',
       items: [
         {
           title: 'Kapaligirang Marino',
@@ -3483,19 +3483,19 @@ const tl: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Gaano ka-compact ang mga SUP board ng Afarer kapag naka-pack para sa storage ng yacht?',
+        question: 'Gaano ka-compact ang mga SUP board ng OLagoon kapag naka-pack para sa storage ng yacht?',
         answer:
-          'Ang mga luxury portable SUP board ng Afarer ay may compact folding system na malaki pong bumabawas sa storage volume, kasya nang madali sa cabin ng yacht, storage compartment, tender boat, at expedition vessel. Ang bawat board ay kasya sa carry backpack na may lahat ng accessory.',
+          'Ang mga luxury portable SUP board ng OLagoon ay may compact folding system na malaki pong bumabawas sa storage volume, kasya nang madali sa cabin ng yacht, storage compartment, tender boat, at expedition vessel. Ang bawat board ay kasya sa carry backpack na may lahat ng accessory.',
       },
       {
-        question: 'Lumalaban ba ang mga SUP board ng Afarer sa saltwater at pinsala ng UV?',
+        question: 'Lumalaban ba ang mga SUP board ng OLagoon sa saltwater at pinsala ng UV?',
         answer:
-          'Oo, gumagamit ang Afarer ng marine-grade na material kabilang ang saltwater-resistant na component, corrosion-resistant na hardware, UV-resistant na construction, at matibay na PVC layer na partikular na idinisenyo para makayanan ang kapaligirang karagatan, kahalumigmigan, at pagkakalantad sa araw.',
+          'Oo, gumagamit ang OLagoon ng marine-grade na material kabilang ang saltwater-resistant na component, corrosion-resistant na hardware, UV-resistant na construction, at matibay na PVC layer na partikular na idinisenyo para makayanan ang kapaligirang karagatan, kahalumigmigan, at pagkakalantad sa araw.',
       },
       {
         question: 'Pwede ninyong i-customize ang mga SUP board gamit ang branding ng aking yacht o cruise company?',
         answer:
-          "Oo, nag-aalok ang Afarer ng buong customization kabilang ang logo ng yacht, identity ng cruise company, premium na disenyo ng kulay sa iba't ibang istilo, tumutugmang branded paddle, custom bag, at kumpletong set ng kagamitan na sumasalamin sa luxury positioning ng iyong brand.",
+          "Oo, nag-aalok ang OLagoon ng buong customization kabilang ang logo ng yacht, identity ng cruise company, premium na disenyo ng kulay sa iba't ibang istilo, tumutugmang branded paddle, custom bag, at kumpletong set ng kagamitan na sumasalamin sa luxury positioning ng iyong brand.",
       },
       {
         question: 'Ano ang kasama sa luxury portable SUP package?',
@@ -3505,18 +3505,18 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Gaano kadali para sa miyembro ng crew na ihanda at i-deploy ang kagamitan?',
         answer:
-          'Nagbibigay ang Afarer ng operational guide ng crew na sumasaklaw sa proseso ng inflation, paghawak ng kagamitan, paraan ng paglilinis, at inspection checklist. Ang magaan at portable na disenyo ay nagpapahintulot ng mas mabilis na deployment at mas madaling paghawak kumpara sa mga tradisyonal na hard board.',
+          'Nagbibigay ang OLagoon ng operational guide ng crew na sumasaklaw sa proseso ng inflation, paghawak ng kagamitan, paraan ng paglilinis, at inspection checklist. Ang magaan at portable na disenyo ay nagpapahintulot ng mas mabilis na deployment at mas madaling paghawak kumpara sa mga tradisyonal na hard board.',
       },
       {
         question: 'Nag-aalok ba kayo ng bulk solution para sa mga cruise line na maraming barko?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang mga cruise company, yacht charter business, at marine hospitality brand ng fleet-scale na solusyon kabilang ang consistent na kalidad ng produkto sa lahat ng barko, kahusayan sa bulk purchasing, at standardized na equipment package.',
+          'Oo, sinusuportahan ng OLagoon ang mga cruise company, yacht charter business, at marine hospitality brand ng fleet-scale na solusyon kabilang ang consistent na kalidad ng produkto sa lahat ng barko, kahusayan sa bulk purchasing, at standardized na equipment package.',
       },
     ],
     cta: {
-      title: 'Likuin ang Iyong Luxury Water Experience sa Afarer',
+      title: 'Likuin ang Iyong Luxury Water Experience sa OLagoon',
       subtitle:
-        'Ang karagatan ang iyong destinasyon. Ngayon ay lumikha ng makakalimutang karanasan dito. Tinutulungan ng Afarer ang mga cruise company, yacht operator, charter business, at marine hospitality brand na bumuo ng premium na portable SUP experience.',
+        'Ang karagatan ang iyong destinasyon. Ngayon ay lumikha ng makakalimutang karanasan dito. Tinutulungan ng OLagoon ang mga cruise company, yacht operator, charter business, at marine hospitality brand na bumuo ng premium na portable SUP experience.',
       primaryAction: {
         text: 'Simulan ang Iyong Luxury Marine SUP Project Ngayon',
       },
@@ -3530,7 +3530,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Private Label SUP Manufacturer | OEM Paddle Board Supplier para sa mga Retailer | {SITE}',
       description:
-        'Nagbibigay ang Afarer ng private label SUP manufacturing solution para sa mga outdoor retailer, sporting goods chain, at global brand. Custom paddle board na may retail packaging, suporta sa compliance, at maaasahang OEM supply.',
+        'Nagbibigay ang OLagoon ng private label SUP manufacturing solution para sa mga outdoor retailer, sporting goods chain, at global brand. Custom paddle board na may retail packaging, suporta sa compliance, at maaasahang OEM supply.',
     },
     hero: {
       tagline: 'Retail Private Label Program™',
@@ -3572,13 +3572,13 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Custom Private Label SUP Product Development',
           description:
-            'Tinutulungan ng Afarer ang mga retailer na bumuo ng produkto batay sa target na customer, price positioning, channel ng benta, at trend ng mercado sa buong entry-level, mid-range lifestyle, at premium SUP collection.',
+            'Tinutulungan ng OLagoon ang mga retailer na bumuo ng produkto batay sa target na customer, price positioning, channel ng benta, at trend ng mercado sa buong entry-level, mid-range lifestyle, at premium SUP collection.',
           features: ['Entry-Level SUP Collection', 'Mid-Range Lifestyle SUP Collection', 'Premium SUP Collection'],
         },
         {
           title: 'Retail Margin Optimization',
           description:
-            'Tinutulungan ng Afarer ang mga retailer na i-optimize ang istruktura ng produkto gamit ang kontrol sa gastos ng manufacturing at pag-aadjust ng configuration ng produkto para tumugma sa target na retail price, inaasahan ng customer, at layunin sa margin.',
+            'Tinutulungan ng OLagoon ang mga retailer na i-optimize ang istruktura ng produkto gamit ang kontrol sa gastos ng manufacturing at pag-aadjust ng configuration ng produkto para tumugma sa target na retail price, inaasahan ng customer, at layunin sa margin.',
           features: [
             'Kontrol sa Gastos ng Manufacturing',
             'Optimization ng Configuration ng Produkto',
@@ -3588,13 +3588,13 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Retail-Ready na Disenyo ng Packaging',
           description:
-            'Sinusuportahan ng Afarer ang kumpletong solusyon sa packaging kabilang ang display packaging na may color box at larawan ng produkto, ecommerce packaging na optimize para sa Amazon at Shopify, at integrasyon ng kwento ng brand.',
+            'Sinusuportahan ng OLagoon ang kumpletong solusyon sa packaging kabilang ang display packaging na may color box at larawan ng produkto, ecommerce packaging na optimize para sa Amazon at Shopify, at integrasyon ng kwento ng brand.',
           features: ['Display Packaging', 'Ecommerce Packaging', 'Integrasyon ng Kwento ng Brand'],
         },
         {
           title: 'Internasyonal na Suporta sa Kalidad at Compliance',
           description:
-            'Sinusuportahan ng Afarer ang mga retailer ng dokumentasyon sa kalidad kabilang ang impormasyon sa compliance ng material, suporta sa testing ng produkto, at dokumentasyon sa export para matulungan sa pamamahala ng kahilingan sa import.',
+            'Sinusuportahan ng OLagoon ang mga retailer ng dokumentasyon sa kalidad kabilang ang impormasyon sa compliance ng material, suporta sa testing ng produkto, at dokumentasyon sa export para matulungan sa pamamahala ng kahilingan sa import.',
           features: [
             'Suporta sa Compliance ng Material',
             'Suporta sa Testing ng Produkto',
@@ -3604,7 +3604,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Large Volume OEM Manufacturing',
           description:
-            "Sinusuportahan ng Afarer ang iba't ibang saklaw ng pagbili mula sa paglunsad ng bagong produkto na 500-2000 pcs hanggang sa paglawak ng retail na 3000-10000 pcs at global retail program na may taunang supply agreement.",
+            "Sinusuportahan ng OLagoon ang iba't ibang saklaw ng pagbili mula sa paglunsad ng bagong produkto na 500-2000 pcs hanggang sa paglawak ng retail na 3000-10000 pcs at global retail program na may taunang supply agreement.",
           features: [
             'Paglunsad ng Bagong Produkto (500-2000 pcs)',
             'Paglawak ng Retail (3000-10000 pcs)',
@@ -3614,24 +3614,24 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Seasonal na Pagpaplano ng Supply Chain',
           description:
-            'Sinusuportahan ng Afarer ang pagpaplano ng produkto batay sa demand ng tagsibol/tag-init at rehiyonal na mercado, bukod pa ang production scheduling para matulungan ang mga retailer sa pagpapasya sa timing ng inventory, pagpaplano ng bodega, at promotional campaign.',
+            'Sinusuportahan ng OLagoon ang pagpaplano ng produkto batay sa demand ng tagsibol/tag-init at rehiyonal na mercado, bukod pa ang production scheduling para matulungan ang mga retailer sa pagpapasya sa timing ng inventory, pagpaplano ng bodega, at promotional campaign.',
         },
         {
           title: 'Suporta sa ODM Product Innovation',
           description:
-            'Kailangan ng mga retailer ng pagkakaiba. Sinusuportahan ng Afarer ang custom na hugis ng board, custom graphic na may retail brand identity, at product bundle kabilang ang SUP package at kumpletong outdoor kit.',
+            'Kailangan ng mga retailer ng pagkakaiba. Sinusuportahan ng OLagoon ang custom na hugis ng board, custom graphic na may retail brand identity, at product bundle kabilang ang SUP package at kumpletong outdoor kit.',
           features: ['Custom na Hugis ng Board', 'Custom Graphic', 'Product Bundle'],
         },
         {
           title: 'Multi-Channel na Suporta sa Retail',
           description:
-            'Sinusuportahan ng Afarer ang mga produkto para sa pisikal na retail store na may kaakit-akit na packaging, ecommerce platform na may malakas na biswal, at dealer network na may matatag na supply at pare-parehong specification.',
+            'Sinusuportahan ng OLagoon ang mga produkto para sa pisikal na retail store na may kaakit-akit na packaging, ecommerce platform na may malakas na biswal, at dealer network na may matatag na supply at pare-parehong specification.',
           features: ['Pisikal na Retail Store', 'Ecommerce Platform', 'Dealer Network'],
         },
         {
           title: 'Quality Control at Maaasahang Delivery',
           description:
-            'Naiintindihan ng Afarer na nagbebenta ng tiwala ang mga retailer. Kasama sa sistema ng kalidad ang production inspection, pre-shipment inspection, at kontrol sa consistency ng batch na tumitiyak ng parehong kalidad sa malalaking order.',
+            'Naiintindihan ng OLagoon na nagbebenta ng tiwala ang mga retailer. Kasama sa sistema ng kalidad ang production inspection, pre-shipment inspection, at kontrol sa consistency ng batch na tumitiyak ng parehong kalidad sa malalaking order.',
           features: ['Production Inspection', 'Pre-Shipment Inspection', 'Kontrol sa Consistency ng Batch'],
         },
       ],
@@ -3648,7 +3648,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pagpaplano ng Linya ng Produkto',
           detail:
-            'Tinulungan ng Afarer ang paglikha ng Private Label SUP Collection kabilang ang entry-level family SUP, touring SUP, at premium lifestyle SUP model na nakatuon sa kanilang umiiral na base ng customer.',
+            'Tinulungan ng OLagoon ang paglikha ng Private Label SUP Collection kabilang ang entry-level family SUP, touring SUP, at premium lifestyle SUP model na nakatuon sa kanilang umiiral na base ng customer.',
         },
         {
           title: 'Product Customization',
@@ -3685,29 +3685,29 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Sourcing Benchmarking at Product Specification Workshop',
               detail:
-                "Noong Marso 2024, lumipad ang team ni Sarah sa Shenzhen HQ ng Afarer para sa 3-araw na product workshop. Sinubukan nila ang 14 iba't ibang SUP construction kabilang ang pagkakaiba-iba ng drop-stitch density, rail profile, at deck pad configuration. Lumikha ang engineering team ng Afarer ng 3 custom na PVC formulation para tumugon sa pamantayan sa UV radiation ng Australia. Nag-commit ang Rebel Sport sa 5,000-unit na paunang MOQ na nahati sa 6 SKU na may AU$1.8M paunang investment, kabilang ang 2 all-around board, 2 touring hugis, 1 yoga platform, at 1 youth board.",
+                "Noong Marso 2024, lumipad ang team ni Sarah sa Shenzhen HQ ng OLagoon para sa 3-araw na product workshop. Sinubukan nila ang 14 iba't ibang SUP construction kabilang ang pagkakaiba-iba ng drop-stitch density, rail profile, at deck pad configuration. Lumikha ang engineering team ng OLagoon ng 3 custom na PVC formulation para tumugon sa pamantayan sa UV radiation ng Australia. Nag-commit ang Rebel Sport sa 5,000-unit na paunang MOQ na nahati sa 6 SKU na may AU$1.8M paunang investment, kabilang ang 2 all-around board, 2 touring hugis, 1 yoga platform, at 1 youth board.",
             },
             {
               title: 'Custom Branding, Packaging at Compliance Engineering',
               detail:
-                "Bumuo ang design team ng Afarer ng brand identity ng Rebel Sport na 'Coastal Force' kabilang ang custom deck graphic, colorway na eksklusibo sa Rebel, at retail-ready na packaging na may shelf-talker display. Nakamit ng compliance team ang AS/NZS 1900-2014 certification, pagsunod sa Australian Consumer Law, at nakumpleto ang ISTA 3A transit testing. Gumawa ang Afarer ng 200 pre-production unit na ipinadala sa pamamagitan ng air freight noong Abril 2024 para sa testing sa store sa 12 flagship lokasyon, kung saan 87% ng display unit ang nabenta sa loob ng 2 linggo sa buong retail price na AU$399.",
+                "Bumuo ang design team ng OLagoon ng brand identity ng Rebel Sport na 'Coastal Force' kabilang ang custom deck graphic, colorway na eksklusibo sa Rebel, at retail-ready na packaging na may shelf-talker display. Nakamit ng compliance team ang AS/NZS 1900-2014 certification, pagsunod sa Australian Consumer Law, at nakumpleto ang ISTA 3A transit testing. Gumawa ang OLagoon ng 200 pre-production unit na ipinadala sa pamamagitan ng air freight noong Abril 2024 para sa testing sa store sa 12 flagship lokasyon, kung saan 87% ng display unit ang nabenta sa loob ng 2 linggo sa buong retail price na AU$399.",
             },
             {
               title: 'Tiered Inventory Rollout at Staff Training Program',
               detail:
-                'Nakoordina ng Afarer ang 3-phase na iskedyul ng ocean freight delivery: Phase 1 (1,500 unit sa Sydney DC pagsapit ng Hunyo 1), Phase 2 (2,000 unit sa Melbourne at Brisbane DC pagsapit ng Hulyo 1), Phase 3 (1,500 unit sa Perth at Adelaide DC pagsapit ng Agosto 1). Nagpatakbo ang training team ng Afarer ng 24 virtual train-the-trainer session para sa mga department manager ng Rebel na sumasaklaw sa feature ng produkto, pagkakaiba ng board construction, cross-sell ng accessory, at tanong sa pagkasya ng customer. May natanggap na demo board at point-of-sale comparison guide ang bawat store.',
+                'Nakoordina ng OLagoon ang 3-phase na iskedyul ng ocean freight delivery: Phase 1 (1,500 unit sa Sydney DC pagsapit ng Hunyo 1), Phase 2 (2,000 unit sa Melbourne at Brisbane DC pagsapit ng Hulyo 1), Phase 3 (1,500 unit sa Perth at Adelaide DC pagsapit ng Agosto 1). Nagpatakbo ang training team ng OLagoon ng 24 virtual train-the-trainer session para sa mga department manager ng Rebel na sumasaklaw sa feature ng produkto, pagkakaiba ng board construction, cross-sell ng accessory, at tanong sa pagkasya ng customer. May natanggap na demo board at point-of-sale comparison guide ang bawat store.',
             },
             {
               title: 'Launch Campaign, Performance Tracking at Reorder Optimization',
               detail:
-                "Inilunsad ang linyang 'Coastal Force' noong Agosto 15, 2024 na may AU$500K marketing campaign kabilang ang signage sa store, feature sa catalog, at influencer partnership sa mga atletang paddle boarder ng Australia. Nagbigay ang dedicated account team ng Afarer ng linggu-lingguhang sell-through report sa pamamagitan ng shared dashboard. Pagsapit ng Nobyembre 2024, ang sell-through rate ay nasa average na 72% sa lahat ng SKU na ang all-around 10'6\" model ay 41% ng benta. Naglagay ang Rebel ng reorder para sa 3,000 unit para sa Spring 2025 season, kabilang ang 2 bagong touring model batay sa feedback ng customer.",
+                "Inilunsad ang linyang 'Coastal Force' noong Agosto 15, 2024 na may AU$500K marketing campaign kabilang ang signage sa store, feature sa catalog, at influencer partnership sa mga atletang paddle boarder ng Australia. Nagbigay ang dedicated account team ng OLagoon ng linggu-lingguhang sell-through report sa pamamagitan ng shared dashboard. Pagsapit ng Nobyembre 2024, ang sell-through rate ay nasa average na 72% sa lahat ng SKU na ang all-around 10'6\" model ay 41% ng benta. Naglagay ang Rebel ng reorder para sa 3,000 unit para sa Spring 2025 season, kabilang ang 2 bagong touring model batay sa feedback ng customer.",
             },
           ],
           results: [
             'AU$4.8M unang-taon na benta sa retail (14% lampas sa target na AU$4.2M) sa 87 store na may 62% sell-through rate',
             'Nakamit na 55.3% gross margin kumpara sa 32% margin sa third-party brand, na nagdagdag ng AU$1.1M karagdagang kita',
             '19.2% market share ang nakuhang mulat sa sub-AU$500 SUP segment ng Australia sa loob ng 10 buwan mula nang ilunsad',
-            '3.2% return rate ng customer (ang industry average ay 8-12%) dahil sa quality control ng Afarer at Australian-certified na construction',
+            '3.2% return rate ng customer (ang industry average ay 8-12%) dahil sa quality control ng OLagoon at Australian-certified na construction',
           ],
         },
         {
@@ -3722,35 +3722,35 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Concept Validation at Product Design Sprint',
               detail:
-                "Noong Setyembre 2024, kinuha ng product development team ng Macy's na pinangungunahan ni David ang Afarer para sa 8-linggong mabilis na design sprint. Lumikha ang mga industrial designer ng Afarer ng 8 concept board na may detalyadong spec kabilang ang 3 all-around board (10', 11', 12') at 1 touring board. Pumili ang Macy's ng 4 SKU na may eksklusibong branding na 'Boardwalk Reserve', coastal-inspired na colorway (Seafoam, Sandbar, Coral, Navy), at retail pricing na $349-$549. Gumawa ang Afarer ng custom 3D rendering at pisikal na mockup sa loob ng 14 araw, at inaprubahan ng Macy's ang buong linya noong Oktubre 15, 2024 na may 6,000-unit na purchase order na nagkakahalaga ng $1.2M wholesale.",
+                "Noong Setyembre 2024, kinuha ng product development team ng Macy's na pinangungunahan ni David ang OLagoon para sa 8-linggong mabilis na design sprint. Lumikha ang mga industrial designer ng OLagoon ng 8 concept board na may detalyadong spec kabilang ang 3 all-around board (10', 11', 12') at 1 touring board. Pumili ang Macy's ng 4 SKU na may eksklusibong branding na 'Boardwalk Reserve', coastal-inspired na colorway (Seafoam, Sandbar, Coral, Navy), at retail pricing na $349-$549. Gumawa ang OLagoon ng custom 3D rendering at pisikal na mockup sa loob ng 14 araw, at inaprubahan ng Macy's ang buong linya noong Oktubre 15, 2024 na may 6,000-unit na purchase order na nagkakahalaga ng $1.2M wholesale.",
             },
             {
               title: 'Supply Chain Integration at Paghahanda sa Compliance',
               detail:
-                "Nagtrabaho ang supply chain team ng Afarer sa compliance department ng Macy's para tumugon sa lahat ng pamantayan sa kaligtasan ng US CPSC, ASTM F3340-18 certification, at kahilingan ng California Prop 65. Ang packaging ay idinisenyo para sa shelf-ready na kahilingan ng Macy's kabilang ang EAS tag, QR code na tumuturo sa video assembly guide, at compact na sukat ng box (36x16x12 pulgada) na optimize para sa slotting ng distribution center ng Macy's. Gumawa ang Afarer ng 500 pre-sell unit noong Nobyembre 2024 at ipinadala sa pamamagitan ng hangin sa Macy's para sa 20 store test at online photography. Ang bawat test store ay nagbenta ng average na 14 unit bawat linggo sa panahon ng holiday season sa retail price na $399.",
+                "Nagtrabaho ang supply chain team ng OLagoon sa compliance department ng Macy's para tumugon sa lahat ng pamantayan sa kaligtasan ng US CPSC, ASTM F3340-18 certification, at kahilingan ng California Prop 65. Ang packaging ay idinisenyo para sa shelf-ready na kahilingan ng Macy's kabilang ang EAS tag, QR code na tumuturo sa video assembly guide, at compact na sukat ng box (36x16x12 pulgada) na optimize para sa slotting ng distribution center ng Macy's. Gumawa ang OLagoon ng 500 pre-sell unit noong Nobyembre 2024 at ipinadala sa pamamagitan ng hangin sa Macy's para sa 20 store test at online photography. Ang bawat test store ay nagbenta ng average na 14 unit bawat linggo sa panahon ng holiday season sa retail price na $399.",
             },
             {
               title: 'Multi-Channel Launch Execution at Karanasan sa Loob ng Store',
               detail:
-                "Ang pangunahing ocean shipment na 5,500 unit ay dumating sa Robbinsville, NJ DC ng Macy's noong Pebrero 1, 2025. Nagbigay ang Afarer ng 340 life-size na display stand na may integrated na storage ng board at accessory pod. Lumikha ang training team ng Afarer ng 12-minutong video module para sa 8,500 seasonal associate ng Macy's na sumasaklaw sa kaalaman sa produkto at teknik ng cross-selling para sa pump, paddle, at PFD. Inilunsad ang collection sa macys.com noong Marso 1, 2025 at sa lahat ng 340 store pagsapit ng Marso 15, na may dedicated na 'Boardwalk Reserve' shop-in-shop experience sa 50 pinakamataas ang volume na lokasyon.",
+                "Ang pangunahing ocean shipment na 5,500 unit ay dumating sa Robbinsville, NJ DC ng Macy's noong Pebrero 1, 2025. Nagbigay ang OLagoon ng 340 life-size na display stand na may integrated na storage ng board at accessory pod. Lumikha ang training team ng OLagoon ng 12-minutong video module para sa 8,500 seasonal associate ng Macy's na sumasaklaw sa kaalaman sa produkto at teknik ng cross-selling para sa pump, paddle, at PFD. Inilunsad ang collection sa macys.com noong Marso 1, 2025 at sa lahat ng 340 store pagsapit ng Marso 15, na may dedicated na 'Boardwalk Reserve' shop-in-shop experience sa 50 pinakamataas ang volume na lokasyon.",
             },
             {
               title: 'Performance Analytics at Seasonal Replenishment',
               detail:
-                "Pagsapit ng Mayo 2025, umabot ang sell-through sa 58% na ang Seafoam 11' all-around board ang nanguna (36% ng benta). Ang online conversion rate ay 4.2%, malaki ang lampas sa average ng sporting goods category ng Macy's na 2.1%. Ang real-time inventory dashboard ng Afarer ay nagpahintulot sa Macy's na awtomatikong mag-trigger ng replenishment order kapag bumaba ang stock sa store sa mas mababa sa 6 unit. Ang programa ay umani ng $2.1M benta sa accessory (paddle, pump, bag, life vest) na may 62% margin. Ginamit ng Macy's ang kanilang opsyon para sa Holiday 2025 reorder na 4,000 unit na may 2 bagong snow/surf-themed na colorway.",
+                "Pagsapit ng Mayo 2025, umabot ang sell-through sa 58% na ang Seafoam 11' all-around board ang nanguna (36% ng benta). Ang online conversion rate ay 4.2%, malaki ang lampas sa average ng sporting goods category ng Macy's na 2.1%. Ang real-time inventory dashboard ng OLagoon ay nagpahintulot sa Macy's na awtomatikong mag-trigger ng replenishment order kapag bumaba ang stock sa store sa mas mababa sa 6 unit. Ang programa ay umani ng $2.1M benta sa accessory (paddle, pump, bag, life vest) na may 62% margin. Ginamit ng Macy's ang kanilang opsyon para sa Holiday 2025 reorder na 4,000 unit na may 2 bagong snow/surf-themed na colorway.",
             },
           ],
           results: [
             '$4.1M kabuuang GMV sa 340 store at macys.com sa unang 7 buwan, lumampas sa target na $3.5M nang 17%',
             'Nakamit na 53% paunang markup kumpara sa 38% sa katumbas na third-party branded outdoor gear, na nag-ambag ng $1.6M gross profit',
             '4.2% online conversion rate na may 11.7% attach rate para sa accessory, na nagdulot ng karagdagang $2.1M mataas na margin na add-on na benta',
-            '98.4% on-time delivery rate mula sa factory-to-DC supply chain ng Afarer na may zero stockout sa peak ng selling season na Marso-Mayo',
+            '98.4% on-time delivery rate mula sa factory-to-DC supply chain ng OLagoon na may zero stockout sa peak ng selling season na Marso-Mayo',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Retail Buyer ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Retail Buyer ang OLagoon',
       items: [
         {
           title: 'Product Development',
@@ -3788,37 +3788,37 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Ano ang private label SUP program at paano ito gumagana para sa mga outdoor retailer?',
         answer:
-          'Ang private label SUP program ay nagpapahintulot sa mga outdoor retailer na lumikha at magbenta ng paddle board sa ilalim ng sarili nilang brand. Pinamamahalaan ng Afarer ang buong proseso ng OEM/ODM kabilang ang product development, manufacturing, suporta sa certification, disenyo ng packaging, at bulk supply. Maaaring maglunsad ang mga retailer ng custom SUP collection nang hindi nag-iinvest sa kagamitan ng factory o kadalubhasaan sa inflatable manufacturing.',
+          'Ang private label SUP program ay nagpapahintulot sa mga outdoor retailer na lumikha at magbenta ng paddle board sa ilalim ng sarili nilang brand. Pinamamahalaan ng OLagoon ang buong proseso ng OEM/ODM kabilang ang product development, manufacturing, suporta sa certification, disenyo ng packaging, at bulk supply. Maaaring maglunsad ang mga retailer ng custom SUP collection nang hindi nag-iinvest sa kagamitan ng factory o kadalubhasaan sa inflatable manufacturing.',
       },
       {
         question:
           'Paano matitiyak ng mga retailer na ang kanilang private label SUP product ay tumutugon sa pamantayan sa kaligtasan ng internasyonal?',
         answer:
-          'Sinusuportahan ng Afarer ang mga retailer ng komprehensibong dokumentasyon ng compliance kabilang ang kahilingan ng CE at REACH, data sa kaligtasan ng material, report sa testing ng produkto, at talaan ng quality inspection. Tinitiyak nito na ang private label SUP product ay tumutugon sa pamantayang regulatoryo para sa Europeo, North American, at iba pang internasyonal na mercado.',
+          'Sinusuportahan ng OLagoon ang mga retailer ng komprehensibong dokumentasyon ng compliance kabilang ang kahilingan ng CE at REACH, data sa kaligtasan ng material, report sa testing ng produkto, at talaan ng quality inspection. Tinitiyak nito na ang private label SUP product ay tumutugon sa pamantayang regulatoryo para sa Europeo, North American, at iba pang internasyonal na mercado.',
       },
       {
         question: 'Anong minimum order quantity ang karaniwang kailangan para sa custom SUP manufacturing?',
         answer:
-          "Ang Afarer ay umaangkop sa iba't ibang saklaw. Ang paglunsad ng bagong produkto at testing ng mercado ay karaniwang nagsisimula sa 500-2000 unit. Ang retail expansion order ay mula 3000-10000 unit. Ang malalaking global retail program na may taunang supply agreement ay maaaring umabot sa sampung libong unit sa maraming model.",
+          "Ang OLagoon ay umaangkop sa iba't ibang saklaw. Ang paglunsad ng bagong produkto at testing ng mercado ay karaniwang nagsisimula sa 500-2000 unit. Ang retail expansion order ay mula 3000-10000 unit. Ang malalaking global retail program na may taunang supply agreement ay maaaring umabot sa sampung libong unit sa maraming model.",
       },
       {
         question: 'Gaano katagal bago makabuo at makapaglunsad ng private label SUP product line?',
         answer:
-          'Nakadepende ang timeline sa kumplikado ng customization. Ang streamline na proseso ng Afarer mula concept ng produkto hanggang shelf-ready na delivery ay karaniwang 8-16 linggo, kabilang ang pagpaplano ng produkto, pag-apruba ng disenyo, pagbuo ng prototype, suporta sa certification, produksyon, at pagpapadala. Inirerekomenda ang seasonal na pagpaplano para tumugma sa siklo ng demand ng tagsibol/tag-init.',
+          'Nakadepende ang timeline sa kumplikado ng customization. Ang streamline na proseso ng OLagoon mula concept ng produkto hanggang shelf-ready na delivery ay karaniwang 8-16 linggo, kabilang ang pagpaplano ng produkto, pag-apruba ng disenyo, pagbuo ng prototype, suporta sa certification, produksyon, at pagpapadala. Inirerekomenda ang seasonal na pagpaplano para tumugma sa siklo ng demand ng tagsibol/tag-init.',
       },
       {
         question: 'Pwede bang i-customize ng mga retailer ang SUP packaging para tumugma sa kanilang brand identity?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang buong customization ng packaging kabilang ang branded na color box, larawan ng produkto, highlight ng feature, at mensahe ng brand. Magagamit ang opsyon sa packaging para sa pisikal na rack ng retail at sa ecommerce platform tulad ng Amazon at Shopify, na may gabay sa potograpiya ng produkto at istruktura ng impormasyon.',
+          'Oo, sinusuportahan ng OLagoon ang buong customization ng packaging kabilang ang branded na color box, larawan ng produkto, highlight ng feature, at mensahe ng brand. Magagamit ang opsyon sa packaging para sa pisikal na rack ng retail at sa ecommerce platform tulad ng Amazon at Shopify, na may gabay sa potograpiya ng produkto at istruktura ng impormasyon.',
       },
       {
-        question: 'Anong suporta ang ibinibigay ng Afarer para sa seasonal demand planning?',
+        question: 'Anong suporta ang ibinibigay ng OLagoon para sa seasonal demand planning?',
         answer:
-          'Tinutulungan ng Afarer ang mga retailer na pangasiwaan ang seasonal na demand sa outdoor product gamit ang nakoordinong production scheduling, timing ng inventory, pagpaplano ng bodega, at pag-align sa promotional campaign. Ang taunang supply agreement ay nagpapahintulot ng maaasahang lead time at garantisadong production capacity sa peak na season.',
+          'Tinutulungan ng OLagoon ang mga retailer na pangasiwaan ang seasonal na demand sa outdoor product gamit ang nakoordinong production scheduling, timing ng inventory, pagpaplano ng bodega, at pag-align sa promotional campaign. Ang taunang supply agreement ay nagpapahintulot ng maaasahang lead time at garantisadong production capacity sa peak na season.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Private Label SUP Collection sa Afarer',
+      title: 'Bumuo ng Iyong Private Label SUP Collection sa OLagoon',
       subtitle:
         'Bumibili na ang iyong mga customer ng outdoor product. Ngayon ay likuin ang iyong sariling kategorya ng water sports.',
       primaryAction: {
@@ -3834,7 +3834,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP Distributor Supplier | Bulk OEM Paddle Board Manufacturer | {SITE}',
       description:
-        'Nakikipagtulungan ang Afarer sa mga global SUP distributor at importer gamit ang bulk OEM manufacturing, private label solution, rehiyonal na suporta sa mercado, at maaasahang pamamahala ng supply chain.',
+        'Nakikipagtulungan ang OLagoon sa mga global SUP distributor at importer gamit ang bulk OEM manufacturing, private label solution, rehiyonal na suporta sa mercado, at maaasahang pamamahala ng supply chain.',
     },
     hero: {
       tagline: 'Regional OEM & Supply Chain Partner™',
@@ -3875,49 +3875,49 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Large-Scale na OEM Production Capability',
           description:
-            'Sinusuportahan ng Afarer ang medium-volume na order, container shipment, at taunang supply agreement sa tatlong yugto ng kooperasyon: market testing (1,000-3,000 pcs), rehiyonal na paglawak (5,000-10,000 pcs), at laki ng malaking distributor (10,000-20,000+ pcs).',
+            'Sinusuportahan ng OLagoon ang medium-volume na order, container shipment, at taunang supply agreement sa tatlong yugto ng kooperasyon: market testing (1,000-3,000 pcs), rehiyonal na paglawak (5,000-10,000 pcs), at laki ng malaking distributor (10,000-20,000+ pcs).',
           features: ['Yugto ng Market Testing', 'Yugto ng Rehiyonal na Paglawak', 'Yugto ng Malaking Distributor'],
         },
         {
           title: 'Eksklusibong OEM Brand Development',
           description:
-            'Sinusuportahan ng Afarer ang mga distributor na nais lumampas sa pag-iimport sa pamamagitan ng paglikha ng private label brand na may custom positioning, pagpili ng produkto, graphic design, packaging, at eksklusibong product collection.',
+            'Sinusuportahan ng OLagoon ang mga distributor na nais lumampas sa pag-iimport sa pamamagitan ng paglikha ng private label brand na may custom positioning, pagpili ng produkto, graphic design, packaging, at eksklusibong product collection.',
           features: ['Private Label Development', 'Eksklusibong Product Collection', 'Competitive na Pagkakaiba'],
         },
         {
           title: 'Regional Market Protection Program',
           description:
-            'Para sa mga kwalipikadong partner, nag-aalok ang Afarer ng territory cooperation batay sa laki ng mercado at commitment, pagkakaiba ng produkto gamit ang eksklusibong graphic at configuration, at suporta sa dealer network.',
+            'Para sa mga kwalipikadong partner, nag-aalok ang OLagoon ng territory cooperation batay sa laki ng mercado at commitment, pagkakaiba ng produkto gamit ang eksklusibong graphic at configuration, at suporta sa dealer network.',
           features: ['Territory Cooperation', 'Pagkakaiba ng Produkto', 'Suporta sa Dealer Network'],
         },
         {
           title: 'Kumpletong Pagpaplano ng Product Portfolio',
           description:
-            'Tinutulungan ng Afarer ang mga distributor na bumuo ng buong kategorya ng water sports kabilang ang all-round SUP, touring SUP, kids SUP, fishing SUP, yoga SUP, accessory, at kagamitan sa water recreation.',
+            'Tinutulungan ng OLagoon ang mga distributor na bumuo ng buong kategorya ng water sports kabilang ang all-round SUP, touring SUP, kids SUP, fishing SUP, yoga SUP, accessory, at kagamitan sa water recreation.',
           features: ['Kategorya ng SUP Product', 'Karagdagang Paglawak ng Produkto', 'Mga Accessory'],
         },
         {
           title: 'Suporta sa Logistics Optimization',
           description:
-            'Sinusuportahan ng Afarer ang container load optimization para i-maximize ang kahusayan ng pagpapadala at ekonomiya ng import, product mix planning na pagsasama ng mabilis maibebeng model at premium na item, at koordinasyon ng dokumentasyon ng export.',
+            'Sinusuportahan ng OLagoon ang container load optimization para i-maximize ang kahusayan ng pagpapadala at ekonomiya ng import, product mix planning na pagsasama ng mabilis maibebeng model at premium na item, at koordinasyon ng dokumentasyon ng export.',
           features: ['Container Load Optimization', 'Product Mix Planning', 'Suporta sa Dokumentasyon ng Export'],
         },
         {
           title: 'Quality Control para sa Internasyonal na Mercado',
           description:
-            'Kasama sa quality management ng Afarer ang inspeksyon ng material sa PVC at drop stitch material, production monitoring ng proseso ng manufacturing, at final shipment inspection ng itsura, accessory, packaging, at dami.',
+            'Kasama sa quality management ng OLagoon ang inspeksyon ng material sa PVC at drop stitch material, production monitoring ng proseso ng manufacturing, at final shipment inspection ng itsura, accessory, packaging, at dami.',
           features: ['Inspeksyon ng Material', 'Production Monitoring', 'Final Shipment Inspection'],
         },
         {
           title: 'Suporta sa Benta ng Distributor',
           description:
-            'Sinusuportahan ng Afarer ang mga partner ng spec ng produkto at teknikal na impormasyon, marketing material kabilang ang biswal ng produkto at lifestyle, at product training sa bentahe, aplikasyon, at positioning ng benta.',
+            'Sinusuportahan ng OLagoon ang mga partner ng spec ng produkto at teknikal na impormasyon, marketing material kabilang ang biswal ng produkto at lifestyle, at product training sa bentahe, aplikasyon, at positioning ng benta.',
           features: ['Impormasyon ng Produkto', 'Marketing Material', 'Product Training'],
         },
         {
           title: 'Pangmatagalang Supply Partnership',
           description:
-            'Nakatuon ang Afarer sa relasyon lampas sa isang order — nag-aalok ng matatag na manufacturing base, tuloy-tuloy na product development, at suporta sa paglaki ng negosyo mula importer tungong distributor tungo sa rehiyonal na brand owner.',
+            'Nakatuon ang OLagoon sa relasyon lampas sa isang order — nag-aalok ng matatag na manufacturing base, tuloy-tuloy na product development, at suporta sa paglaki ng negosyo mula importer tungong distributor tungo sa rehiyonal na brand owner.',
           features: [
             'Matatag na Manufacturing Base',
             'Tuloy-tuloy na Product Development',
@@ -3938,7 +3938,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Rehiyonal na Pagsusuri ng Mercado',
           detail:
-            'Tinulungan ng Afarer ang pagtukoy sa demand ng beginner SUP, oportunidad ng pamilyang recreation na mercado, at aplikasyon sa turismo na partikular sa rehiyon ng Middle East.',
+            'Tinulungan ng OLagoon ang pagtukoy sa demand ng beginner SUP, oportunidad ng pamilyang recreation na mercado, at aplikasyon sa turismo na partikular sa rehiyon ng Middle East.',
         },
         {
           title: 'Pagbuo ng Product Portfolio',
@@ -3969,28 +3969,28 @@ const tl: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Australia',
             background:
               'Ang PaddleHub Australia ay maliit na importer na pinapatakbo ni founder na si James Whitfield, dating competitive surfer na namamahagi ng generic na Chinese SUP board sa 45 lokal na surf shop sa loob ng 3 taon na may taunang kita na humigit-kumulang AU$1.8M. Hinaharap niya ang unti-unting paghupa ng margin habang tinatapyas ng mga kakumpetensya ang presyo at tumatangging magbigay ng eksklusibidad ang mga supplier. Napagtanto ni James na kailangan niya ng natatanging proprietary brand na may territorial protection para bumuo ng pangmatagalang halaga. Mayroon siyang AU$350K na available na kapital at bodega sa Burleigh Heads pero kailangan niya ng manufacturing partner na makahahatid ng OEM-quality na board na may Australian-specific na feature ng disenyo at rehiyonal na eksklusibidad para sa Oceania.',
-            goal: 'Lumikha ng proprietary SUP brand na may 12 natatanging model, pumirma ng 200+ dealer account sa Australia at NZ sa loob ng 18 buwan, makamit ang AU$6M taunang wholesale revenue, at makakuha ng eksklusibong karapatang distribusyon sa Oceania mula sa Afarer.',
+            goal: 'Lumikha ng proprietary SUP brand na may 12 natatanging model, pumirma ng 200+ dealer account sa Australia at NZ sa loob ng 18 buwan, makamit ang AU$6M taunang wholesale revenue, at makakuha ng eksklusibong karapatang distribusyon sa Oceania mula sa OLagoon.',
           },
           steps: [
             {
               title: 'Strategic Partnership Negotiation at Exclusive Territory Agreement',
               detail:
-                "Noong Pebrero 2024, ipinresenta ni James ang kanyang business case sa VP of Global Partnerships ng Afarer sa 3-araw na pagpupulong sa facility ng Afarer sa Shenzhen. Nagsagawa ang Afarer ng market viability study na nagpapakitang may 340+ surf shop ang Australia, 180+ watersports retailer, at 60+ marine dealer na maaaring magdala ng SUP pero 23% lamang ang kasalukuyang nag-aalok ng kategorya. Ibinigay ng Afarer sa PaddleHub ang eksklusibong karapatang distribusyon sa Oceania para sa pamilya ng platform na 'WaveGlide' at 'Expedition', na nangangailangan ng minimum na taunang pagbili na AU$2.5M. Nag-commit si James sa AU$800K paunang MOQ at sumang-ayon sa milestone ng pagpapaunlad ng teritoryo ng Afarer kabilang ang target sa bilang ng eksklusibong dealer.",
+                "Noong Pebrero 2024, ipinresenta ni James ang kanyang business case sa VP of Global Partnerships ng OLagoon sa 3-araw na pagpupulong sa facility ng OLagoon sa Shenzhen. Nagsagawa ang OLagoon ng market viability study na nagpapakitang may 340+ surf shop ang Australia, 180+ watersports retailer, at 60+ marine dealer na maaaring magdala ng SUP pero 23% lamang ang kasalukuyang nag-aalok ng kategorya. Ibinigay ng OLagoon sa PaddleHub ang eksklusibong karapatang distribusyon sa Oceania para sa pamilya ng platform na 'WaveGlide' at 'Expedition', na nangangailangan ng minimum na taunang pagbili na AU$2.5M. Nag-commit si James sa AU$800K paunang MOQ at sumang-ayon sa milestone ng pagpapaunlad ng teritoryo ng OLagoon kabilang ang target sa bilang ng eksklusibong dealer.",
             },
             {
               title: 'Custom Product Platform Development at Australian Adaptation',
               detail:
-                'Gumugol ang R&D team ng Afarer ng 6 linggo sa pagbuo ng 12-model na lineup ng PaddleHub kabilang ang 5 all-around board, 3 touring board, 2 race board, 1 fishing board, at 1 youth board. May Australian-specific na pagbabago ang bawat model: UV-stabilized na PVC para sa matinding araw ng Queensland, pinalakas na rail para sa mabatong launch sa Great Barrier Reef, at custom graphic package na may pattern na inspirasyon ng Aboriginal dot-art. Gumawa ang Afarer ng 300 pre-production unit sa lahat ng 12 model na ipinamahagi ni James sa 50 beta tester kabilang ang may-ari ng surf shop, paddle instructor, at fishing guide na nagbigay ng detalyadong feedback na humantong sa 23 pagpipino sa disenyo.',
+                'Gumugol ang R&D team ng OLagoon ng 6 linggo sa pagbuo ng 12-model na lineup ng PaddleHub kabilang ang 5 all-around board, 3 touring board, 2 race board, 1 fishing board, at 1 youth board. May Australian-specific na pagbabago ang bawat model: UV-stabilized na PVC para sa matinding araw ng Queensland, pinalakas na rail para sa mabatong launch sa Great Barrier Reef, at custom graphic package na may pattern na inspirasyon ng Aboriginal dot-art. Gumawa ang OLagoon ng 300 pre-production unit sa lahat ng 12 model na ipinamahagi ni James sa 50 beta tester kabilang ang may-ari ng surf shop, paddle instructor, at fishing guide na nagbigay ng detalyadong feedback na humantong sa 23 pagpipino sa disenyo.',
             },
             {
               title: 'Dealer Network Recruitment at Channel Development',
               detail:
-                "Naglunsad si James at ang kanyang 3-taong sales team ng 'Dealer Pro' program na nag-aalok ng tiered pricing, 0% 60-day na termino para sa bagong account, libreng display stand, at staff training. Nagbigay ang Afarer ng shared CRM system, product catalog, comparison guide, at dealer locator website. Sa pagdalo sa Sydney International Boat Show at 7 rehiyonal na fishing/outdoor expo, pumirma si James ng 97 dealer sa unang 6 buwan kabilang ang malalaking account tulad ng Anaconda (42 store), BCF (35 store), at 20 independent na surf shop. Nagtatag ang logistics team ng Afarer ng consolidation warehouse na nakabase sa Sydney na may 14-araw na garantiya sa delivery.",
+                "Naglunsad si James at ang kanyang 3-taong sales team ng 'Dealer Pro' program na nag-aalok ng tiered pricing, 0% 60-day na termino para sa bagong account, libreng display stand, at staff training. Nagbigay ang OLagoon ng shared CRM system, product catalog, comparison guide, at dealer locator website. Sa pagdalo sa Sydney International Boat Show at 7 rehiyonal na fishing/outdoor expo, pumirma si James ng 97 dealer sa unang 6 buwan kabilang ang malalaking account tulad ng Anaconda (42 store), BCF (35 store), at 20 independent na surf shop. Nagtatag ang logistics team ng OLagoon ng consolidation warehouse na nakabase sa Sydney na may 14-araw na garantiya sa delivery.",
             },
             {
               title: 'Brand Launch, Marketing Support at Growth Acceleration',
               detail:
-                'Opisyal na inilunsad ang PaddleHub na may AU$250K campaign na tampok ang dating Australian SUP champion na si Jessica Krieger bilang brand ambassador. Nag-ambag ang Afarer ng co-op marketing fund na katumbas ng 4% ng wholesale purchase at gumawa ng 24 product video, 360-degree product photography, at social media asset. Pagsapit ng Agosto 2025, may 215 aktibong dealer account na ang PaddleHub, AU$5.8M trailing 12-month wholesale revenue, at nakapaglagay na ng 3 karagdagang production order na kabuuang AU$3.2M. Pinalawak ni James ang kanyang team tungong 12 empleyado kabilang ang full-time product manager, at naging pangalawang pinakamalaking SUP brand sa Australian market ayon sa bilang ng pinto ang PaddleHub.',
+                'Opisyal na inilunsad ang PaddleHub na may AU$250K campaign na tampok ang dating Australian SUP champion na si Jessica Krieger bilang brand ambassador. Nag-ambag ang OLagoon ng co-op marketing fund na katumbas ng 4% ng wholesale purchase at gumawa ng 24 product video, 360-degree product photography, at social media asset. Pagsapit ng Agosto 2025, may 215 aktibong dealer account na ang PaddleHub, AU$5.8M trailing 12-month wholesale revenue, at nakapaglagay na ng 3 karagdagang production order na kabuuang AU$3.2M. Pinalawak ni James ang kanyang team tungong 12 empleyado kabilang ang full-time product manager, at naging pangalawang pinakamalaking SUP brand sa Australian market ayon sa bilang ng pinto ang PaddleHub.',
             },
           ],
           results: [
@@ -4006,41 +4006,41 @@ const tl: Record<string, SolutionOverride> = {
             location: 'Dubai, UAE',
             background:
               'Ang Dune Sports DMCC, na pinangungunahan ng Emirati entrepreneur na si Rashid Al Maktoum, ay Dubai-based na watersports distributor na may $2.3M taunang kita na nagbibigay ng jet ski at kayak sa mga marine dealer sa buong GCC. Kinilala ni Rashid ang SUP bilang hindi pa natatalunang oportunidad sa Middle East kung saan kumikinita ang beach tourism, luxury resort, at water sports. Walang dominanteng SUP brand sa rehiyon at karamihan ng produkto ay mababang kalidad na import na ibinebenta sa Amazon nang walang serbisyo o warranty. Nais ni Rashid na maging eksklusibong rehiyonal na OEM partner ng premium SUP brand na makakapanaig sa Middle East market na may $1.2M paunang investment.',
-            goal: 'Makakuha ng eksklusibong karapatang distribusyon sa Middle East at North Africa mula sa Afarer, maglunsad ng premium na rehiyonal na brand sa 8 bansa, makamit ang $5M wholesale revenue sa loob ng 24 buwan, at makuha ang 60%+ market share sa GCC premium SUP segment.',
+            goal: 'Makakuha ng eksklusibong karapatang distribusyon sa Middle East at North Africa mula sa OLagoon, maglunsad ng premium na rehiyonal na brand sa 8 bansa, makamit ang $5M wholesale revenue sa loob ng 24 buwan, at makuha ang 60%+ market share sa GCC premium SUP segment.',
           },
           steps: [
             {
               title: 'Rehiyonal na Pagsusuri ng Mercado at Exclusivity Framework Agreement',
               detail:
-                'Nagkomisyon si Rashid ng 6-linggong market study sa UAE, Saudi Arabia, Qatar, Kuwait, Oman, Bahrain, Egypt, at Jordan. Natukoy ng study ang 280+ potensyal na dealer kabilang ang marine retailer, procurement department ng hotel, at specialty sports store, na may kabuuang addressable market na $18M kada taon. Noong Abril 2024, pumirma si Rashid ng 5-taong eksklusibong OEM agreement sa Afarer na sumasaklaw sa 15 bansa sa MENA, na may commitment na $3M minimum na taunang pagbili na tumataas nang 15% bawat taon. Sumang-ayon ang Afarer na co-invest ng $150K sa Arabic-language na marketing material, presensya sa rehiyonal na trade show, at Dubai-based na spare parts warehouse.',
+                'Nagkomisyon si Rashid ng 6-linggong market study sa UAE, Saudi Arabia, Qatar, Kuwait, Oman, Bahrain, Egypt, at Jordan. Natukoy ng study ang 280+ potensyal na dealer kabilang ang marine retailer, procurement department ng hotel, at specialty sports store, na may kabuuang addressable market na $18M kada taon. Noong Abril 2024, pumirma si Rashid ng 5-taong eksklusibong OEM agreement sa OLagoon na sumasaklaw sa 15 bansa sa MENA, na may commitment na $3M minimum na taunang pagbili na tumataas nang 15% bawat taon. Sumang-ayon ang OLagoon na co-invest ng $150K sa Arabic-language na marketing material, presensya sa rehiyonal na trade show, at Dubai-based na spare parts warehouse.',
             },
             {
               title: 'Product Line Strategy at Desert-Adapted Engineering',
               detail:
-                "Bumuo ang mga engineer ng Afarer ng brand na 'Oryx' para sa Dune Sports na may 8 model na optimize para sa kondisyon ng Middle East: PVC na lumalaban sa mataas na temperatura (sinubukan hanggang 75°C surface temperature), UV-stable na pigment na hindi kumukupas sa araw ng Arabia, at fin system na lumalaban sa buhangin na may quick-release mechanism. Gumawa ang Afarer ng 500 pre-launch unit kabilang ang special edition na 'Royal Edition' na may gold accent at leather handle para sa luxury resort segment. Sinubukan ng team ni Rashid ang mga board sa Arabian Gulf, Red Sea, at indoor wave pool, at nakamit ang average na quality score na 4.7/5 mula sa 200 tester.",
+                "Bumuo ang mga engineer ng OLagoon ng brand na 'Oryx' para sa Dune Sports na may 8 model na optimize para sa kondisyon ng Middle East: PVC na lumalaban sa mataas na temperatura (sinubukan hanggang 75°C surface temperature), UV-stable na pigment na hindi kumukupas sa araw ng Arabia, at fin system na lumalaban sa buhangin na may quick-release mechanism. Gumawa ang OLagoon ng 500 pre-launch unit kabilang ang special edition na 'Royal Edition' na may gold accent at leather handle para sa luxury resort segment. Sinubukan ng team ni Rashid ang mga board sa Arabian Gulf, Red Sea, at indoor wave pool, at nakamit ang average na quality score na 4.7/5 mula sa 200 tester.",
             },
             {
               title: 'Channel Development at Partnership sa Hotel/Resort',
               detail:
-                "Bumuo si Rashid ng 5-taong rehiyonal na sales team na nakabase sa Dubai, Riyadh, at Cairo. Nagbigay ang channel development team ng Afarer ng dealer recruitment script, presentation deck, at 3-tier na dealer program (Platinum, Gold, Silver). Nakakuha ang Dune Sports ng eksklusibong distribution agreement sa 65 marine dealer at direct procurement contract sa 22 luxury hotel chain kabilang ang Jumeirah, Four Seasons, at St. Regis. Naging standard equipment ang brand na 'Oryx' para sa bagong Rixos at Anantara resort development sa Ras Al Khaimah, Red Sea Project, at Maldives.",
+                "Bumuo si Rashid ng 5-taong rehiyonal na sales team na nakabase sa Dubai, Riyadh, at Cairo. Nagbigay ang channel development team ng OLagoon ng dealer recruitment script, presentation deck, at 3-tier na dealer program (Platinum, Gold, Silver). Nakakuha ang Dune Sports ng eksklusibong distribution agreement sa 65 marine dealer at direct procurement contract sa 22 luxury hotel chain kabilang ang Jumeirah, Four Seasons, at St. Regis. Naging standard equipment ang brand na 'Oryx' para sa bagong Rixos at Anantara resort development sa Ras Al Khaimah, Red Sea Project, at Maldives.",
             },
             {
               title: 'Rehiyonal na Launch, Ramadan Campaign at Market Dominance',
               detail:
-                "Inilunsad ang brand na 'Oryx' sa lahat ng 8 mercado noong Oktubre 2024 na may sabay-sabay na event sa Dubai Marina Mall, Red Sea Mall ng Saudi Arabia, at Doha Festival City ng Qatar. Sumuporta ang Afarer ng $200K marketing campaign kabilang ang Arabic TV commercial, influencer partnership sa 15 Middle Eastern outdoor adventurer, at sponsorship ng Dubai SUP Festival. Pagsapit ng Marso 2025, nakapagbenta na ang Dune Sports ng 8,400 unit, nakamit ang $4.7M wholesale revenue, at nakakuha ng 58% ng GCC premium SUP market. Ginamit ni Rashid ang kanyang unang option year renewal sa Afarer na may $4.5M taunang pagbili.",
+                "Inilunsad ang brand na 'Oryx' sa lahat ng 8 mercado noong Oktubre 2024 na may sabay-sabay na event sa Dubai Marina Mall, Red Sea Mall ng Saudi Arabia, at Doha Festival City ng Qatar. Sumuporta ang OLagoon ng $200K marketing campaign kabilang ang Arabic TV commercial, influencer partnership sa 15 Middle Eastern outdoor adventurer, at sponsorship ng Dubai SUP Festival. Pagsapit ng Marso 2025, nakapagbenta na ang Dune Sports ng 8,400 unit, nakamit ang $4.7M wholesale revenue, at nakakuha ng 58% ng GCC premium SUP market. Ginamit ni Rashid ang kanyang unang option year renewal sa OLagoon na may $4.5M taunang pagbili.",
             },
           ],
           results: [
             '$4.7M wholesale revenue sa unang 12 buwan sa 8 bansa, na nakamit ang 94% ng 24-buwan na target sa kalahati ng oras',
             '58% market share ang nakuha sa GCC premium SUP segment ($349-$799 retail), na panaig sa mga fragmented na kakumpetensyang brand',
             '22 eksklusibong procurement contract sa hotel/resort ang nakuhang mulat, na kumakatawan sa 3,100 unit na ibinebenta sa hospitality sector na may 72% repeat order rate',
-            'Lumaki ang valuation ng Dune Sports mula $2.3M tungong $12M sa loob ng 14 buwan, at lumawak si Rashid sa mga katabing kategorya ng water sports sa pamamagitan ng OEM platform ng Afarer',
+            'Lumaki ang valuation ng Dune Sports mula $2.3M tungong $12M sa loob ng 14 buwan, at lumawak si Rashid sa mga katabing kategorya ng water sports sa pamamagitan ng OEM platform ng OLagoon',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Global Distributor ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Global Distributor ang OLagoon',
       items: [
         {
           title: 'Sukat ng Manufacturing',
@@ -4076,38 +4076,38 @@ const tl: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Ano ang nagpapakilala sa Afarer mula sa iba pang SUP OEM manufacturer para sa mga distributor?',
+        question: 'Ano ang nagpapakilala sa OLagoon mula sa iba pang SUP OEM manufacturer para sa mga distributor?',
         answer:
-          'Nagbibigay ang Afarer ng kumpletong modelo ng partnership lampas sa manufacturing, kabilang ang regional market protection program, suporta sa eksklusibong brand development, logistics optimization, at sales training ng distributor. Nakatuon kami sa pangmatagalang relasyon na tumutulong sa mga partner na lumago mula importer tungo sa rehiyonal na brand owner.',
+          'Nagbibigay ang OLagoon ng kumpletong modelo ng partnership lampas sa manufacturing, kabilang ang regional market protection program, suporta sa eksklusibong brand development, logistics optimization, at sales training ng distributor. Nakatuon kami sa pangmatagalang relasyon na tumutulong sa mga partner na lumago mula importer tungo sa rehiyonal na brand owner.',
       },
       {
         question: 'Paano gumagana ang regional market protection program para sa mga eksklusibong distributor?',
         answer:
-          'Para sa mga kwalipikadong partner, nag-aalok ang Afarer ng territory-based na cooperation agreement, pagkakaiba ng produkto gamit ang eksklusibong graphic at configuration, at suporta sa dealer network. Tinitiyak nito na makakapag-invest ang mga distributor sa pagpapaunlad ng mercado na may kumpiyansang protektado ang kanilang rehiyonal na posisyon.',
+          'Para sa mga kwalipikadong partner, nag-aalok ang OLagoon ng territory-based na cooperation agreement, pagkakaiba ng produkto gamit ang eksklusibong graphic at configuration, at suporta sa dealer network. Tinitiyak nito na makakapag-invest ang mga distributor sa pagpapaunlad ng mercado na may kumpiyansang protektado ang kanilang rehiyonal na posisyon.',
       },
       {
         question: 'Ano ang karaniwang dami ng order para sa container-level na SUP shipment?',
         answer:
-          'Sinusuportahan ng Afarer ang tatlong yugto ng kooperasyon: market testing (1,000-3,000 pcs), rehiyonal na paglawak (5,000-10,000 pcs), at laki ng malaking distributor (10,000-20,000+ pcs). Ang container load optimization ay tumutulong na i-maximize ang kahusayan ng pagpapadala at bawasan ang gastos ng import bawat unit.',
+          'Sinusuportahan ng OLagoon ang tatlong yugto ng kooperasyon: market testing (1,000-3,000 pcs), rehiyonal na paglawak (5,000-10,000 pcs), at laki ng malaking distributor (10,000-20,000+ pcs). Ang container load optimization ay tumutulong na i-maximize ang kahusayan ng pagpapadala at bawasan ang gastos ng import bawat unit.',
       },
       {
-        question: 'Pwede bang lumikha ang mga distributor ng sarili nilang private label SUP brand sa Afarer?',
+        question: 'Pwede bang lumikha ang mga distributor ng sarili nilang private label SUP brand sa OLagoon?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang kumpletong private label development kabilang ang brand positioning, pagpili ng produkto, custom graphic design, customization ng packaging, at eksklusibong product collection. Ito ay nagpapahintulot sa mga distributor na bumuo ng rehiyonal na brand sa halip na makipagkumpetensya lamang sa presyo.',
+          'Oo, sinusuportahan ng OLagoon ang kumpletong private label development kabilang ang brand positioning, pagpili ng produkto, custom graphic design, customization ng packaging, at eksklusibong product collection. Ito ay nagpapahintulot sa mga distributor na bumuo ng rehiyonal na brand sa halip na makipagkumpetensya lamang sa presyo.',
       },
       {
-        question: 'Paano tumutulong ang Afarer sa logistics optimization at pagbawas ng gastos sa import?',
+        question: 'Paano tumutulong ang OLagoon sa logistics optimization at pagbawas ng gastos sa import?',
         answer:
-          'Nagbibigay ang Afarer ng container load optimization para i-maximize ang kahusayan ng pagpapadala, product mix planning na nagsasama ng mabilis maibebeng model at premium na item, at komprehensibong suporta sa dokumentasyon ng export para mapadali ang customs clearance at bawasan ang pagkaantala.',
+          'Nagbibigay ang OLagoon ng container load optimization para i-maximize ang kahusayan ng pagpapadala, product mix planning na nagsasama ng mabilis maibebeng model at premium na item, at komprehensibong suporta sa dokumentasyon ng export para mapadali ang customs clearance at bawasan ang pagkaantala.',
       },
       {
         question: 'Anong proseso ng quality control ang mayroon para sa internasyonal na shipment?',
         answer:
-          'Ipinatutupad ng Afarer ang three-stage na quality management: inspeksyon ng material sa PVC at drop stitch component, production monitoring sa proseso, at final pre-shipment inspection na sumasaklaw sa itsura, accessory, packaging, at katumpakan ng dami.',
+          'Ipinatutupad ng OLagoon ang three-stage na quality management: inspeksyon ng material sa PVC at drop stitch component, production monitoring sa proseso, at final pre-shipment inspection na sumasaklaw sa itsura, accessory, packaging, at katumpakan ng dami.',
       },
     ],
     cta: {
-      title: 'Maging Afarer Regional Partner',
+      title: 'Maging OLagoon Regional Partner',
       subtitle: 'Karapat-dapat ang iyong mercado ng maaasahang water sports supply partner.',
       primaryAction: {
         text: 'Simulan ang Iyong Regional OEM Partnership Ngayon',
@@ -4122,7 +4122,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Custom Branded SUP Board para sa mga Corporate Event | OEM Event Solution | {SITE}',
       description:
-        'Lumilikha ang Afarer ng custom branded SUP board para sa mga corporate event, team building activity, at marketing campaign. Buong customization ng logo, pagtutugma ng kulay ng korporasyon, mabilis na prototyping, at bulk OEM production.',
+        'Lumilikha ang OLagoon ng custom branded SUP board para sa mga corporate event, team building activity, at marketing campaign. Buong customization ng logo, pagtutugma ng kulay ng korporasyon, mabilis na prototyping, at bulk OEM production.',
     },
     hero: {
       tagline: 'Corporate SUP Event Package™',
@@ -4163,25 +4163,25 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Buong Corporate Branding Customization',
           description:
-            'Sinusuportahan ng Afarer ang malaking lugar na pag-print ng logo, branding sa surface ng board, customization ng paddle, at branding ng accessory na may pagtutugma ng kulay ng korporasyon gamit ang Pantone reference at pangangailangan sa visual identity.',
+            'Sinusuportahan ng OLagoon ang malaking lugar na pag-print ng logo, branding sa surface ng board, customization ng paddle, at branding ng accessory na may pagtutugma ng kulay ng korporasyon gamit ang Pantone reference at pangangailangan sa visual identity.',
           features: ['Aplikasyon ng Corporate Logo', 'Pagtutugma ng Kulay ng Korporasyon', 'Custom Graphic Design'],
         },
         {
           title: 'Event-Specific na SUP Product Development',
           description:
-            'Magkakaiba ang pangangailangan ng bawat event. Nag-aalok ang Afarer ng team building package para sa malalaking grupo ng empleyado, brand activation package para sa marketing campaign, at VIP experience package para sa luxury customer event.',
+            'Magkakaiba ang pangangailangan ng bawat event. Nag-aalok ang OLagoon ng team building package para sa malalaking grupo ng empleyado, brand activation package para sa marketing campaign, at VIP experience package para sa luxury customer event.',
           features: ['Team Building Package', 'Brand Activation Package', 'VIP Experience Package'],
         },
         {
           title: 'Mabilis na Proseso ng Prototype at Pag-apruba',
           description:
-            'Sinusuportahan ng Afarer ang mabilis na kumpirmasyon ng disenyo gamit ang pag-review ng artwork at pag-aadjust ng graphic, pagbuo ng prototype para sa kumpirmasyon ng kulay at placement ng logo, at production scheduling na nakalinya sa deadline ng event.',
+            'Sinusuportahan ng OLagoon ang mabilis na kumpirmasyon ng disenyo gamit ang pag-review ng artwork at pag-aadjust ng graphic, pagbuo ng prototype para sa kumpirmasyon ng kulay at placement ng logo, at production scheduling na nakalinya sa deadline ng event.',
           features: ['Mabilis na Kumpirmasyon ng Disenyo', 'Pagbuo ng Prototype', 'Production Scheduling'],
         },
         {
           title: 'Bulk Custom Production Capability',
           description:
-            'Sinusuportahan ng Afarer ang mga corporate order mula sa maliliit na event na 50-100 pcs para sa panloob na aktibidad, katamtamang marketing project na 100-500 pcs para sa brand activation, at malalaking corporate campaign na 500-1000+ pcs para sa pambansang event.',
+            'Sinusuportahan ng OLagoon ang mga corporate order mula sa maliliit na event na 50-100 pcs para sa panloob na aktibidad, katamtamang marketing project na 100-500 pcs para sa brand activation, at malalaking corporate campaign na 500-1000+ pcs para sa pambansang event.',
           features: [
             'Maliliit na Corporate Event (50-100 pcs)',
             'Katamtamang Marketing Project (100-500 pcs)',
@@ -4191,7 +4191,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Kumpletong Event Equipment Package',
           description:
-            'Nagbibigay ang Afarer ng kumpletong solusyon sa event kabilang ang custom SUP board, adjustable na paddle, pump, leash, carry bag, repair kit, at opsyonal na branded paddle, accessory sa event, at display material.',
+            'Nagbibigay ang OLagoon ng kumpletong solusyon sa event kabilang ang custom SUP board, adjustable na paddle, pump, leash, carry bag, repair kit, at opsyonal na branded paddle, accessory sa event, at display material.',
           features: ['Kasama sa Standard Package', 'Opsyonal na Customization', 'Kagamitan ng Staff'],
         },
         {
@@ -4203,13 +4203,13 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Quality Control para sa Brand Project',
           description:
-            'Nagbibigay ang Afarer ng production quality inspection para sa material at pag-print, kontrol sa katumpakan ng branding para sa posisyon ng logo at consistency ng kulay, at delivery inspection para sa dami, packaging, at accessory.',
+            'Nagbibigay ang OLagoon ng production quality inspection para sa material at pag-print, kontrol sa katumpakan ng branding para sa posisyon ng logo at consistency ng kulay, at delivery inspection para sa dami, packaging, at accessory.',
           features: ['Production Quality Inspection', 'Kontrol sa Katumpakan ng Branding', 'Delivery Inspection'],
         },
         {
           title: 'Global Event Delivery Support',
           description:
-            "Para sa mga multinational na kompanya, sinusuportahan ng Afarer ang multi-country na project, rehiyonal na event, at global campaign na may nakoordinong produksyon, packaging, at paghahanda sa pagpapadala sa iba't ibang lokasyon.",
+            "Para sa mga multinational na kompanya, sinusuportahan ng OLagoon ang multi-country na project, rehiyonal na event, at global campaign na may nakoordinong produksyon, packaging, at paghahanda sa pagpapadala sa iba't ibang lokasyon.",
           features: ['Multi-country na Project', 'Rehiyonal na Event', 'Global Campaign'],
         },
       ],
@@ -4226,7 +4226,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Integrasyon ng Brand Design',
           detail:
-            'Bumuo ang Afarer ng custom graphic ng board na may eksaktong pagtutugma ng kulay ng brand at malaking placement ng logo para i-maximize ang biswal na epekto sa tubig.',
+            'Bumuo ang OLagoon ng custom graphic ng board na may eksaktong pagtutugma ng kulay ng brand at malaking placement ng logo para i-maximize ang biswal na epekto sa tubig.',
         },
         {
           title: 'Pag-apruba ng Prototype',
@@ -4263,17 +4263,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Konsepto ng Programa at Custom Product Engineering',
               detail:
-                "Noong Nobyembre 2024, nakipagkita ang team ni Klaus sa Corporate Events division ng Afarer sa boot Düsseldorf boat show para suriin ang konsepto. Iminungkahi ng Afarer ang custom na 11'6'' touring board sa kulay ng BMW i-series (Blue Ridge Mountain Metallic, Frozen Pure Grey) na may woven carbon fiber accent na tumutugma sa interior trim ng i7. Lumikha ang mga engineer ng Afarer ng 3 prototype board na may integrated na GoPro mount para sa action photography, non-slip na deck pad na may stitching na inspirasyon ng BMW M, at custom valve cover na may BMW roundel. Inaprubahan ng BMW ang 120 unit sa €895 bawat board na may dedicated na sistema ng storage at transport gamit ang custom wheeled cart.",
+                "Noong Nobyembre 2024, nakipagkita ang team ni Klaus sa Corporate Events division ng OLagoon sa boot Düsseldorf boat show para suriin ang konsepto. Iminungkahi ng OLagoon ang custom na 11'6'' touring board sa kulay ng BMW i-series (Blue Ridge Mountain Metallic, Frozen Pure Grey) na may woven carbon fiber accent na tumutugma sa interior trim ng i7. Lumikha ang mga engineer ng OLagoon ng 3 prototype board na may integrated na GoPro mount para sa action photography, non-slip na deck pad na may stitching na inspirasyon ng BMW M, at custom valve cover na may BMW roundel. Inaprubahan ng BMW ang 120 unit sa €895 bawat board na may dedicated na sistema ng storage at transport gamit ang custom wheeled cart.",
             },
             {
               title: 'Brand Integration at Pagpaplano ng Event Logistics',
               detail:
-                'Bumuo ang graphics team ng Afarer ng full-wrap na UV-stable decal na may BMW i-branding, QR code na tumuturo sa BMW i configurator, at graphic ng instruksyon sa kaligtasan sa 8 wika. Nagdisenyo ang logistics team ng rotation system na nagpapadala ng 40 board sa bawat isa sa 3 rehiyon (Southern Europe, Central Europe, Nordic/Baltic) na may mobile pump station, battery-powered na inflator, at waterproof na changing room. Pumili ang event team ng BMW ng 18 venue kabilang ang Lake Como (Italya), St. Tropez (Pransiya), Lake Lucerne (Switzerland), Lake Garda (Italya), at archipelago malapit sa Stockholm (Sweden), bawat isa ay may 300-600 guest sa loob ng 2-3 araw na programa.',
+                'Bumuo ang graphics team ng OLagoon ng full-wrap na UV-stable decal na may BMW i-branding, QR code na tumuturo sa BMW i configurator, at graphic ng instruksyon sa kaligtasan sa 8 wika. Nagdisenyo ang logistics team ng rotation system na nagpapadala ng 40 board sa bawat isa sa 3 rehiyon (Southern Europe, Central Europe, Nordic/Baltic) na may mobile pump station, battery-powered na inflator, at waterproof na changing room. Pumili ang event team ng BMW ng 18 venue kabilang ang Lake Como (Italya), St. Tropez (Pransiya), Lake Lucerne (Switzerland), Lake Garda (Italya), at archipelago malapit sa Stockholm (Sweden), bawat isa ay may 300-600 guest sa loob ng 2-3 araw na programa.',
             },
             {
               title: 'On-Site Activation at Disenyo ng Karanasan ng Guest',
               detail:
-                "May tampok na bawat event ang 'BMW i Paddle Experience' na may 40 board na magagamit sa 90-minutong guided session na pinangungunahan ng instructor na sinanay ng Afarer. Nakatanggap ang mga guest ng personalized na BMW i-branded rash guard at waterproof phone pouch. Kumuhan ng litrato ang mga propesyonal na photographer ng bawat guest na nagpapaddle gamit ang integrated camera mount ng board; ang mga larawan ay in-edit at naipadala sa loob ng 2 oras sa pamamagitan ng branded microsite. Pinares ang activation sa test drive ng BMW i7 sa scenic coastal road, na lumilikha ng land-and-water na paglubog sa brand. Sa unang 10 event, ang kasiyahan ng guest ay 4.8/5 at iniulat ng BMW na 23% ng kalahok ay humiling ng dealer follow-up test drive.",
+                "May tampok na bawat event ang 'BMW i Paddle Experience' na may 40 board na magagamit sa 90-minutong guided session na pinangungunahan ng instructor na sinanay ng OLagoon. Nakatanggap ang mga guest ng personalized na BMW i-branded rash guard at waterproof phone pouch. Kumuhan ng litrato ang mga propesyonal na photographer ng bawat guest na nagpapaddle gamit ang integrated camera mount ng board; ang mga larawan ay in-edit at naipadala sa loob ng 2 oras sa pamamagitan ng branded microsite. Pinares ang activation sa test drive ng BMW i7 sa scenic coastal road, na lumilikha ng land-and-water na paglubog sa brand. Sa unang 10 event, ang kasiyahan ng guest ay 4.8/5 at iniulat ng BMW na 23% ng kalahok ay humiling ng dealer follow-up test drive.",
             },
             {
               title: 'Pagsusuri ng Performance at Pagpapalawak ng Programa',
@@ -4300,17 +4300,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Disenyo ng Programa at Pagpaplano ng Multi-Location Logistics',
               detail:
-                "Kinuha ng team ni Dr. Sharma ang Afarer noong Pebrero 2025 para sa custom corporate program. Iminungkahi ng Afarer ang temang 'Paddle into Production' kung saan ang mga team na 8-10 engineer ay mag-navigate ng SUP course na kumakatawan sa mga yugto ng deployment pipeline ng Google Cloud. Nag-customize ang Afarer ng 80 board na may Google Cloud branding, color-coding ng team, at waterproof tech deck para sa paghawak ng mobile device. Sakop ng plano sa logistics ang 6 lokasyon: Sunnyvale HQ, Seattle, New York, Austin, Chicago, at Boulder, na may event bawat 2 linggo mula Hunyo hanggang Agosto 2025. Nag-commit ang Afarer ng €320K para sa 80 board, 24 instructor, buong logistics, at branded gear para sa 1,200 kalahok.",
+                "Kinuha ng team ni Dr. Sharma ang OLagoon noong Pebrero 2025 para sa custom corporate program. Iminungkahi ng OLagoon ang temang 'Paddle into Production' kung saan ang mga team na 8-10 engineer ay mag-navigate ng SUP course na kumakatawan sa mga yugto ng deployment pipeline ng Google Cloud. Nag-customize ang OLagoon ng 80 board na may Google Cloud branding, color-coding ng team, at waterproof tech deck para sa paghawak ng mobile device. Sakop ng plano sa logistics ang 6 lokasyon: Sunnyvale HQ, Seattle, New York, Austin, Chicago, at Boulder, na may event bawat 2 linggo mula Hunyo hanggang Agosto 2025. Nag-commit ang OLagoon ng €320K para sa 80 board, 24 instructor, buong logistics, at branded gear para sa 1,200 kalahok.",
             },
             {
               title: 'Inclusive Activity Development at Safety Framework',
               detail:
-                "Bumuo ang programming team ng Afarer ng 3 skill track: 'Beginner Buoy' (pangunahing paddling at laro sa stability), 'Production Racer' (team relay race), at 'Cloud Cluster' (hamon sa formation ng grupo na nangangailangan ng koordinasyon). Bawat track ay may hamon na may tema ng Google Cloud tulad ng 'deploy a container' (pag-balance ng bola sa board habang nagpapaddle) at 'scale to zero' (sabay na uupo ang lahat). Humire ang Afarer ng 24 certified na SUP instructor sa lahat ng lokasyon at bumuo ng komprehensibong safety protocol kabilang ang mandatory na life vest, buddy system, swim test, at on-water spotter na may rescue board.",
+                "Bumuo ang programming team ng OLagoon ng 3 skill track: 'Beginner Buoy' (pangunahing paddling at laro sa stability), 'Production Racer' (team relay race), at 'Cloud Cluster' (hamon sa formation ng grupo na nangangailangan ng koordinasyon). Bawat track ay may hamon na may tema ng Google Cloud tulad ng 'deploy a container' (pag-balance ng bola sa board habang nagpapaddle) at 'scale to zero' (sabay na uupo ang lahat). Humire ang OLagoon ng 24 certified na SUP instructor sa lahat ng lokasyon at bumuo ng komprehensibong safety protocol kabilang ang mandatory na life vest, buddy system, swim test, at on-water spotter na may rescue board.",
             },
             {
               title: 'Onboarding, Branded Swag at Pagsasagawa ng Event',
               detail:
-                "Nakatanggap ang bawat kalahok ng branded welcome kit kabilang ang Google Cloud x Afarer rash guard, SPF lip balm, dry bag, at event booklet. Ang 2-oras na session ay kabilang ang 30 minuto ng instruksyon sa lupa, 75 minuto ng aktibidad sa tubig, at 15 minuto ng cool-down na may team photo gamit ang drone. Pinangasiwaan ng event team ng Afarer ang lahat ng setup, breakdown, at paglilinis sa bawat venue — kailangan lamang dumating ang mga empleyado ng Google. Ang unang event sa Shoreline Lake sa Mountain View noong Hunyo 12, 2025 ay nakamit ang 97% attendance na ang mga team ay nagtatalaban para sa parangal na 'Highest Availability' batay sa koordinasyon at bilis.",
+                "Nakatanggap ang bawat kalahok ng branded welcome kit kabilang ang Google Cloud x OLagoon rash guard, SPF lip balm, dry bag, at event booklet. Ang 2-oras na session ay kabilang ang 30 minuto ng instruksyon sa lupa, 75 minuto ng aktibidad sa tubig, at 15 minuto ng cool-down na may team photo gamit ang drone. Pinangasiwaan ng event team ng OLagoon ang lahat ng setup, breakdown, at paglilinis sa bawat venue — kailangan lamang dumating ang mga empleyado ng Google. Ang unang event sa Shoreline Lake sa Mountain View noong Hunyo 12, 2025 ay nakamit ang 97% attendance na ang mga team ay nagtatalaban para sa parangal na 'Highest Availability' batay sa koordinasyon at bilis.",
             },
             {
               title: 'Pagsusuri ng Resulta at Pagpapalawak sa Ikalawang Taon',
@@ -4327,8 +4327,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Kompanya ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Kompanya ang OLagoon',
       items: [
         {
           title: 'Presentasyon ng Brand',
@@ -4338,7 +4338,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Mabilis na Pagsasagawa ng Project',
           description:
-            'Mahalaga ang deadline. Ang streamline na proseso ng Afarer ay gumagalaw mula konsepto hanggang delivery sa loob ng mahigpit na iskedyul ng event.',
+            'Mahalaga ang deadline. Ang streamline na proseso ng OLagoon ay gumagalaw mula konsepto hanggang delivery sa loob ng mahigpit na iskedyul ng event.',
         },
         {
           title: 'Custom Manufacturing',
@@ -4348,7 +4348,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Maaasahang Delivery',
           description:
-            'Hindi maaaring maghintay ang mga event. Ginagarantiyahan ng Afarer ang production scheduling at koordinasyon ng pagpapadala para tumugon sa fixed na petsa ng event.',
+            'Hindi maaaring maghintay ang mga event. Ginagarantiyahan ng OLagoon ang production scheduling at koordinasyon ng pagpapadala para tumugon sa fixed na petsa ng event.',
         },
         {
           title: 'Biswal na Epekto',
@@ -4366,36 +4366,36 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Pwede ninyong itugma ang eksaktong kulay ng brand ng korporasyon (Pantone) sa mga SUP board?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang Pantone color matching at pangangailangan sa corporate visual identity na may tumpak na pagkopya ng kulay. Nagbibigay kami ng prototype sample para sa pag-apruba ng kulay bago ang mass production para matiyak na tumutugma ang panghuling produkto sa pamantayan ng iyong brand.',
+          'Oo, sinusuportahan ng OLagoon ang Pantone color matching at pangangailangan sa corporate visual identity na may tumpak na pagkopya ng kulay. Nagbibigay kami ng prototype sample para sa pag-apruba ng kulay bago ang mass production para matiyak na tumutugma ang panghuling produkto sa pamantayan ng iyong brand.',
       },
       {
         question: 'Ano ang minimum order quantity para sa custom branded na SUP board?',
         answer:
-          "Umaangkop ang Afarer sa iba't ibang saklaw ng project. Ang maliliit na corporate event at panloob na aktibidad ay nagsisimula sa 50-100 unit. Ang katamtamang marketing campaign ay mula 100-500 unit, at ang malalaking pambansa o multi-location na event ay maaaring umabot sa 500-1000+ unit.",
+          "Umaangkop ang OLagoon sa iba't ibang saklaw ng project. Ang maliliit na corporate event at panloob na aktibidad ay nagsisimula sa 50-100 unit. Ang katamtamang marketing campaign ay mula 100-500 unit, at ang malalaking pambansa o multi-location na event ay maaaring umabot sa 500-1000+ unit.",
       },
       {
         question: 'Gaano katagal ang proseso ng prototyping at pag-apruba?',
         answer:
-          'Ang proseso ng prototyping ay idinisenyo para sa bilis. Nagbibigay ang Afarer ng mabilis na kumpirmasyon ng disenyo, pag-review ng artwork, at pagbuo ng prototype na karaniwang sa loob ng 1-2 linggo. Nagbibigay ito ng sapat na oras para sa pag-apruba at mass production bago ang deadline ng event.',
+          'Ang proseso ng prototyping ay idinisenyo para sa bilis. Nagbibigay ang OLagoon ng mabilis na kumpirmasyon ng disenyo, pag-review ng artwork, at pagbuo ng prototype na karaniwang sa loob ng 1-2 linggo. Nagbibigay ito ng sapat na oras para sa pag-apruba at mass production bago ang deadline ng event.',
       },
       {
         question: 'Pwede ba kayong maghatid sa maraming lokasyon para sa global campaign event?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang multi-country at multi-location na event campaign. Kinokoordina namin ang produksyon, packaging, at paghahanda sa pagpapadala para matiyak ang consistent na delivery sa lahat ng rehiyonal o global na lokasyon ng event.',
+          'Oo, sinusuportahan ng OLagoon ang multi-country at multi-location na event campaign. Kinokoordina namin ang produksyon, packaging, at paghahanda sa pagpapadala para matiyak ang consistent na delivery sa lahat ng rehiyonal o global na lokasyon ng event.',
       },
       {
         question: 'Anong opsyon sa customization ang magagamit bukod sa pag-print ng logo?',
         answer:
-          'Bukod sa pag-print ng logo, nag-aalok ang Afarer ng buong branding sa surface ng board, customization ng paddle, pagtutugma ng kulay ng korporasyon gamit ang Pantone reference, event-themed na graphic design, limited edition na artwork, at branded accessory kabilang ang paddle, pump, at bag.',
+          'Bukod sa pag-print ng logo, nag-aalok ang OLagoon ng buong branding sa surface ng board, customization ng paddle, pagtutugma ng kulay ng korporasyon gamit ang Pantone reference, event-themed na graphic design, limited edition na artwork, at branded accessory kabilang ang paddle, pump, at bag.',
       },
       {
         question: 'Nag-aalok ba kayo ng kumpletong event package kabilang ang accessory at paddle?',
         answer:
-          'Oo, nagbibigay ang Afarer ng kumpletong event equipment package kabilang ang custom SUP board, adjustable paddle, pump, leash, carry bag, at repair kit. Opsyonal na karagdagan ang branded paddle, accessory sa event, display material, at kagamitan ng staff.',
+          'Oo, nagbibigay ang OLagoon ng kumpletong event equipment package kabilang ang custom SUP board, adjustable paddle, pump, leash, carry bag, at repair kit. Opsyonal na karagdagan ang branded paddle, accessory sa event, display material, at kagamitan ng staff.',
       },
     ],
     cta: {
-      title: 'Likuin ang Iyong Corporate Water Experience sa Afarer',
+      title: 'Likuin ang Iyong Corporate Water Experience sa OLagoon',
       subtitle: 'Karapat-dapat ang iyong brand na matandaan.',
       primaryAction: {
         text: 'Simulan ang Iyong Corporate SUP Project Ngayon',
@@ -4410,7 +4410,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Inflatable SUP OEM Manufacturer para sa mga Water Sports Brand | {SITE}',
       description:
-        'Tinutulungan ng Afarer ang mga brand ng kayak, canoe, sailing, at diving na lumawak sa inflatable SUP product gamit ang propesyonal na Drop Stitch technology, OEM manufacturing, at kumpletong solusyon sa water sports product.',
+        'Tinutulungan ng OLagoon ang mga brand ng kayak, canoe, sailing, at diving na lumawak sa inflatable SUP product gamit ang propesyonal na Drop Stitch technology, OEM manufacturing, at kumpletong solusyon sa water sports product.',
     },
     hero: {
       tagline: 'Expand Your Water Sports Portfolio™',
@@ -4451,7 +4451,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Matog na Teknolohiyang Inflatable SUP Manufacturing',
           description:
-            'Nagbibigay ang Afarer ng propesyonal na Drop Stitch technology para sa high-pressure na inflatable structure na may matigas na performance ng board, multi-layer na PVC construction para sa tibay, at propesyonal na teknolohiyang welding para sa malakas na tahi.',
+            'Nagbibigay ang OLagoon ng propesyonal na Drop Stitch technology para sa high-pressure na inflatable structure na may matigas na performance ng board, multi-layer na PVC construction para sa tibay, at propesyonal na teknolohiyang welding para sa malakas na tahi.',
           features: [
             'Drop Stitch Technology',
             'Multi-Layer na PVC Construction',
@@ -4461,7 +4461,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Kumpletong Pagbuo ng SUP Product Portfolio',
           description:
-            'Nagbibigay ang Afarer ng napatunayang product platform kabilang ang all-round SUP para sa mga baguhan at pamilya, touring SUP para sa adventure user, fishing SUP na may mounting system, yoga SUP para sa wellness market, at kids SUP.',
+            'Nagbibigay ang OLagoon ng napatunayang product platform kabilang ang all-round SUP para sa mga baguhan at pamilya, touring SUP para sa adventure user, fishing SUP na may mounting system, yoga SUP para sa wellness market, at kids SUP.',
           features: [
             'All-Round SUP Series',
             'Touring SUP Series',
@@ -4473,37 +4473,37 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'OEM at ODM Product Development',
           description:
-            'Sinusuportahan ng Afarer ang private label manufacturing na may logo at packaging ng brand, pagbabago ng produkto para sa sukat at feature, at eksklusibong collection para sa model na partikular sa brand at seasonal na produkto.',
+            'Sinusuportahan ng OLagoon ang private label manufacturing na may logo at packaging ng brand, pagbabago ng produkto para sa sukat at feature, at eksklusibong collection para sa model na partikular sa brand at seasonal na produkto.',
           features: ['Private Label Manufacturing', 'Pagbabago ng Produkto', 'Eksklusibong Collection'],
         },
         {
           title: 'Fast Market Entry Program',
           description:
-            'Tinutulungan ng Afarer ang pagbawas ng oras ng development gamit ang umiiral na product platform na may napatunayang hugis ng board at nasubukang construction, mabilis na prototyping mula diskusyon hanggang produksyon, at mas mabilis na commercial launch para mahuli ang seasonal na oportunidad.',
+            'Tinutulungan ng OLagoon ang pagbawas ng oras ng development gamit ang umiiral na product platform na may napatunayang hugis ng board at nasubukang construction, mabilis na prototyping mula diskusyon hanggang produksyon, at mas mabilis na commercial launch para mahuli ang seasonal na oportunidad.',
           features: ['Umiiral na Product Platform', 'Mabilis na Prototyping', 'Mas Mabilis na Commercial Launch'],
         },
         {
           title: 'Brand-Compatible na Integrasyon ng Produkto',
           description:
-            'Nagtatrabaho ang Afarer kasama ang mga brand manager para i-align ang design language ng produkto kabilang ang kulay, graphic, at material sa umiiral na brand identity sa buong adventure, pamilya, at premium marine positioning.',
+            'Nagtatrabaho ang OLagoon kasama ang mga brand manager para i-align ang design language ng produkto kabilang ang kulay, graphic, at material sa umiiral na brand identity sa buong adventure, pamilya, at premium marine positioning.',
           features: ['Design Language ng Produkto', 'Positioning ng Customer', 'Pag-align sa Brand'],
         },
         {
           title: 'Accessory at Kumpletong Pagbuo ng Package',
           description:
-            'Sinusuportahan ng Afarer ang SUP accessory kabilang ang paddle, pump, leash, bag, at repair kit, bukod pa ang product bundle tulad ng beginner package, adventure package, at family package.',
+            'Sinusuportahan ng OLagoon ang SUP accessory kabilang ang paddle, pump, leash, bag, at repair kit, bukod pa ang product bundle tulad ng beginner package, adventure package, at family package.',
           features: ['SUP Accessory', 'Product Bundle', 'Pagbuo ng Package'],
         },
         {
           title: 'Supply Chain Integration',
           description:
-            'Para sa mga naitatag na brand, nagbibigay ang Afarer ng matatag na production capacity na 500-10,000 set/taon, taunang pagpaplano para sa product roadmap at seasonal na produksyon, at consistency ng kalidad sa lahat ng specification.',
+            'Para sa mga naitatag na brand, nagbibigay ang OLagoon ng matatag na production capacity na 500-10,000 set/taon, taunang pagpaplano para sa product roadmap at seasonal na produksyon, at consistency ng kalidad sa lahat ng specification.',
           features: ['Matatag na Production Capacity', 'Taunang Pagpaplano', 'Consistency ng Kalidad'],
         },
         {
           title: 'Suporta sa Quality Control',
           description:
-            'Kasama sa proseso ng kalidad ng Afarer ang inspeksyon ng material sa PVC at Drop Stitch fabric, production monitoring ng welding at assembly, at final inspection ng performance ng produkto, accessory, at packaging.',
+            'Kasama sa proseso ng kalidad ng OLagoon ang inspeksyon ng material sa PVC at Drop Stitch fabric, production monitoring ng welding at assembly, at final inspection ng performance ng produkto, accessory, at packaging.',
           features: ['Inspeksyon ng Material', 'Production Monitoring', 'Final Inspection'],
         },
       ],
@@ -4520,7 +4520,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pagbuo ng Product Strategy',
           detail:
-            'Sinuri ng Afarer ang umiiral na base ng customer ng brand, posisyon sa mercado, at price segment para irekomenda ang paglawak ng SUP product family na naaayon sa kanilang brand.',
+            'Sinuri ng OLagoon ang umiiral na base ng customer ng brand, posisyon sa mercado, at price segment para irekomenda ang paglawak ng SUP product family na naaayon sa kanilang brand.',
         },
         {
           title: 'Pagbuo ng Product Portfolio',
@@ -4557,22 +4557,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Pagpaplano ng Product Portfolio at Adaptasyon sa Brazilian Market',
               detail:
-                'Bisitahin ni Pedro ang facility ng Afarer sa Shenzhen noong Enero 2025 kasama ang kanyang product director at industrial designer para sa 5-araw na kolaboratibong workshop. Pumili sila ng 10 SUP model: 4 all-around, 3 touring, 2 fishing, at 1 yoga platform. Binago ng mga engineer ng Afarer ang bawat produkto para sa kondisyon ng Brazil kabilang ang UV-resistant na PVC para sa tropical na araw, pinalakas na hull para sa mabatong ilog sa Minas Gerais, at colorway na inspirasyon ng pambansang watawat ng Brazil at motif ng Amazon rainforest. Naglagay si Pedro ng paunang order na R$3.2M para sa 4,500 unit, na may 30% deposito at balanse sa bill of lading.',
+                'Bisitahin ni Pedro ang facility ng OLagoon sa Shenzhen noong Enero 2025 kasama ang kanyang product director at industrial designer para sa 5-araw na kolaboratibong workshop. Pumili sila ng 10 SUP model: 4 all-around, 3 touring, 2 fishing, at 1 yoga platform. Binago ng mga engineer ng OLagoon ang bawat produkto para sa kondisyon ng Brazil kabilang ang UV-resistant na PVC para sa tropical na araw, pinalakas na hull para sa mabatong ilog sa Minas Gerais, at colorway na inspirasyon ng pambansang watawat ng Brazil at motif ng Amazon rainforest. Naglagay si Pedro ng paunang order na R$3.2M para sa 4,500 unit, na may 30% deposito at balanse sa bill of lading.',
             },
             {
               title: 'Brand Integration, Portuguese Localization at Compliance',
               detail:
-                "Bumuo ang design team ng Afarer ng kumpletong visual identity ng 'ÁguaVita Adventure' kabilang ang logo, color scheme, packaging, at point-of-sale material sa Brazilian Portuguese. Pinamahalaan ng compliance team ang INMETRO certification para sa lahat ng 10 produkto (mandatory para sa sports equipment sa Brazil) at bumuo ng Portuguese-language na instruction manual na may illustrated assembly guide para sa demograpiko ng Brazil na mas mababang literacy. Gumawa ang Afarer ng 200 pre-production unit na ipinadala sa pamamagitan ng air freight noong Marso 2025 para i-review ng 50 nangungunang dealer ni Pedro — 46 sa 50 ang naglagay ng paunang order na average na R$48K bawat isa.",
+                "Bumuo ang design team ng OLagoon ng kumpletong visual identity ng 'ÁguaVita Adventure' kabilang ang logo, color scheme, packaging, at point-of-sale material sa Brazilian Portuguese. Pinamahalaan ng compliance team ang INMETRO certification para sa lahat ng 10 produkto (mandatory para sa sports equipment sa Brazil) at bumuo ng Portuguese-language na instruction manual na may illustrated assembly guide para sa demograpiko ng Brazil na mas mababang literacy. Gumawa ang OLagoon ng 200 pre-production unit na ipinadala sa pamamagitan ng air freight noong Marso 2025 para i-review ng 50 nangungunang dealer ni Pedro — 46 sa 50 ang naglagay ng paunang order na average na R$48K bawat isa.",
             },
             {
               title: 'Dealer Launch at Nationwide na Distribusyon',
               detail:
-                'Ang pangunahing ocean shipment na 4,300 unit ay dumating sa Santos Port noong Mayo 15, 2025 at nakalusot sa customs sa loob ng 5 araw. Nakipag-ugnayan ang logistics team ng Afarer sa 5 rehiyonal na distribution center ng ÁguaVita sa São Paulo, Rio de Janeiro, Belo Horizonte, Recife, at Porto Alegre. Inilunsad ng 6-taong sales team ni Pedro ang linya sa 2025 São Paulo Outdoor Sports Expo (Hunyo 12-15) na may live paddle pool demonstration na tampok ang Olympic canoeist na si Isabella Santos. Sa loob ng 4 araw, pumirma ang ÁguaVita ng 340 bagong dealer account para sa Adventure line at nagbenta ng 800 unit nang direkta sa sahig ng expo.',
+                'Ang pangunahing ocean shipment na 4,300 unit ay dumating sa Santos Port noong Mayo 15, 2025 at nakalusot sa customs sa loob ng 5 araw. Nakipag-ugnayan ang logistics team ng OLagoon sa 5 rehiyonal na distribution center ng ÁguaVita sa São Paulo, Rio de Janeiro, Belo Horizonte, Recife, at Porto Alegre. Inilunsad ng 6-taong sales team ni Pedro ang linya sa 2025 São Paulo Outdoor Sports Expo (Hunyo 12-15) na may live paddle pool demonstration na tampok ang Olympic canoeist na si Isabella Santos. Sa loob ng 4 araw, pumirma ang ÁguaVita ng 340 bagong dealer account para sa Adventure line at nagbenta ng 800 unit nang direkta sa sahig ng expo.',
             },
             {
               title: 'Paglawak ng Kategorya at Market Leadership',
               detail:
-                "Pagsapit ng Nobyembre 2025, ang 'ÁguaVita Adventure' ay nakapagbenta na ng 6,200 unit sa lahat ng 10 SKU na umani ng R$16.2M kita (35% lampas sa target na R$12M). Ang inflatable SUP model na 'Ipanema 10'6\"' ang pinakamabiling produkto sa lahat ng kategorya ng ÁguaVita kabilang ang legacy diving gear. Iniiniit ni Pedro ang tagumpay sa consistency ng kalidad ng Afarer — 0.8% lamang ang defect rate kumpara sa 4.2% sa kanyang nakaraang supplier ng diving equipment. Naglagay siya ng R$8.5M order para sa 2026 kabilang ang 4 bagong fishing SUP model at stand-up pedal board, na naglalagay sa ÁguaVita bilang pinakamalaking paddle sports company ng Brazil.",
+                "Pagsapit ng Nobyembre 2025, ang 'ÁguaVita Adventure' ay nakapagbenta na ng 6,200 unit sa lahat ng 10 SKU na umani ng R$16.2M kita (35% lampas sa target na R$12M). Ang inflatable SUP model na 'Ipanema 10'6\"' ang pinakamabiling produkto sa lahat ng kategorya ng ÁguaVita kabilang ang legacy diving gear. Iniiniit ni Pedro ang tagumpay sa consistency ng kalidad ng OLagoon — 0.8% lamang ang defect rate kumpara sa 4.2% sa kanyang nakaraang supplier ng diving equipment. Naglagay siya ng R$8.5M order para sa 2026 kabilang ang 4 bagong fishing SUP model at stand-up pedal board, na naglalagay sa ÁguaVita bilang pinakamalaking paddle sports company ng Brazil.",
             },
           ],
           results: [
@@ -4595,17 +4595,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Pagsusuri ng Fleet Composition at Review ng Commercial-Grade Spec',
               detail:
-                'Noong Agosto 2024, si Kai at ang kanyang anak na si Mako (gradweyt ng hospitality management) ay nagtrabaho kasama ang Commercial Fleet division ng Afarer para idisenyo ang perpektong rental fleet. Pagkatapos suriin ang 3 taon ng lokal na datos ng turismo, tumigil sila sa 60 SUP (30 all-around 10\'6", 15 touring 11\'6", 8 yoga board, 7 fishing board). Nagbigay ang Afarer ng commercial-grade na construction na may pinalakas na drop-stitch, double-layer na PVC rail, stainless steel D-ring (sa halip na plastic), at commercial-grade na valve na rated para sa 100,000+ inflation cycle. Ang kabuuang fleet ay $48,000 delivered (kumpara sa $78,000 sa katumbas na Hawayian-made na board), at naglagay si Kai ng order na may 50% deposito noong Setyembre 1, 2024.',
+                'Noong Agosto 2024, si Kai at ang kanyang anak na si Mako (gradweyt ng hospitality management) ay nagtrabaho kasama ang Commercial Fleet division ng OLagoon para idisenyo ang perpektong rental fleet. Pagkatapos suriin ang 3 taon ng lokal na datos ng turismo, tumigil sila sa 60 SUP (30 all-around 10\'6", 15 touring 11\'6", 8 yoga board, 7 fishing board). Nagbigay ang OLagoon ng commercial-grade na construction na may pinalakas na drop-stitch, double-layer na PVC rail, stainless steel D-ring (sa halip na plastic), at commercial-grade na valve na rated para sa 100,000+ inflation cycle. Ang kabuuang fleet ay $48,000 delivered (kumpara sa $78,000 sa katumbas na Hawayian-made na board), at naglagay si Kai ng order na may 50% deposito noong Setyembre 1, 2024.',
             },
             {
               title: 'Rental Operations Training at Setup ng Logistics',
               detail:
-                'Gumugol ang rental operations specialist ng Afarer ng 4 araw sa shop ni Kai noong Oktubre 2024 para i-optimize ang rental workflow. Nagpatupad sila ng fleet management system gamit ang QR-coded na board na may mobile app para sa check-in/out, damage tracking, at preventive maintenance schedule. Nagbigay ang Afarer ng 10 heavy-duty na battery pump para sa same-day na turnover ng fleet at custom storage rack system na nag-i-maximize ng 600 sq ft na bodega. Sakop ng training ang inflation protocol (bawat board ay inflate sa 12–15 PSI sa mas mababa sa 4 minuto gamit ang battery pump), inspection checklist, proseso ng repair, at standardized na safety briefing sa customer para sa lahat ng rental staff.',
+                'Gumugol ang rental operations specialist ng OLagoon ng 4 araw sa shop ni Kai noong Oktubre 2024 para i-optimize ang rental workflow. Nagpatupad sila ng fleet management system gamit ang QR-coded na board na may mobile app para sa check-in/out, damage tracking, at preventive maintenance schedule. Nagbigay ang OLagoon ng 10 heavy-duty na battery pump para sa same-day na turnover ng fleet at custom storage rack system na nag-i-maximize ng 600 sq ft na bodega. Sakop ng training ang inflation protocol (bawat board ay inflate sa 12–15 PSI sa mas mababa sa 4 minuto gamit ang battery pump), inspection checklist, proseso ng repair, at standardized na safety briefing sa customer para sa lahat ng rental staff.',
             },
             {
               title: 'Pricing Strategy, Launch at Online Booking Integration',
               detail:
-                "Inilunsad ni Kai ang fleet noong Disyembre 1, 2024 na may tiered pricing: $35/oras para sa SUP, $89/half-day, $129/full-day, at lingguhang rate. Tulungan ng Afarer si Kai na mag-integrate sa FareHarbor at Peek Pro booking platform, lumikha ng propesyonal na product photography, at bumuo ng Google My Business listing optimization na naglipat sa Kai's mula sa pahina 4 tungong top 3 lokal na resulta ng paghahanap sa loob ng 6 linggo. Pagsapit ng Disyembre 31, ang fleet ay nakamit ang 42% utilization na nagbenta ng 780 rental day sa kabila ng off-season, na umani ng $62K sa Disyembre lamang.",
+                "Inilunsad ni Kai ang fleet noong Disyembre 1, 2024 na may tiered pricing: $35/oras para sa SUP, $89/half-day, $129/full-day, at lingguhang rate. Tulungan ng OLagoon si Kai na mag-integrate sa FareHarbor at Peek Pro booking platform, lumikha ng propesyonal na product photography, at bumuo ng Google My Business listing optimization na naglipat sa Kai's mula sa pahina 4 tungong top 3 lokal na resulta ng paghahanap sa loob ng 6 linggo. Pagsapit ng Disyembre 31, ang fleet ay nakamit ang 42% utilization na nagbenta ng 780 rental day sa kabila ng off-season, na umani ng $62K sa Disyembre lamang.",
             },
             {
               title: 'Ramp ng Peak Season at Pagpaplano ng Pagpapalawak',
@@ -4614,7 +4614,7 @@ const tl: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            '$764K kabuuang kita sa unang taon (12% lampas sa target na $680K) na may $487K net rental income mula sa fleet ng Afarer',
+            '$764K kabuuang kita sa unang taon (12% lampas sa target na $680K) na may $487K net rental income mula sa fleet ng OLagoon',
             '78% fleet utilization sa peak na summer month sa lahat ng 60 SUP, na naglilingkod sa hanggang 180 customer araw-araw',
             'Nakamit ang break-even sa $48K investment sa fleet sa loob lamang ng 3.5 buwan (Disyembre 2024 hanggang kalagitnaan ng Marso 2025)',
             'Tumaas ang valuation ng negosyo mula $420K tungong $1.8M sa loob ng 12 buwan, na nagpahintulot sa pagkuha ng pangalawang beachfront na lokasyon sa Kona',
@@ -4622,8 +4622,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Water Sports Brand ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Water Sports Brand ang OLagoon',
       items: [
         {
           title: 'Water Sports Market',
@@ -4662,7 +4662,7 @@ const tl: Record<string, SolutionOverride> = {
         question:
           'Paano makakadagdag ng inflatable SUP product ang isang kayak o canoe brand nang hindi bumubuo ng factory?',
         answer:
-          'Ang OEM/ODM partnership model ng Afarer ay nagpapahintulot sa mga naitatag na water sports brand na magdagdag ng inflatable SUP product gamit ang aming umiiral na manufacturing infrastructure. Sinasamantala ng mga brand ang kanilang base ng customer at distribution channel habang pinamamahalaan ng Afarer ang Drop Stitch engineering, PVC manufacturing, quality control, at supply chain management.',
+          'Ang OEM/ODM partnership model ng OLagoon ay nagpapahintulot sa mga naitatag na water sports brand na magdagdag ng inflatable SUP product gamit ang aming umiiral na manufacturing infrastructure. Sinasamantala ng mga brand ang kanilang base ng customer at distribution channel habang pinamamahalaan ng OLagoon ang Drop Stitch engineering, PVC manufacturing, quality control, at supply chain management.',
       },
       {
         question: 'Ano ang Drop Stitch technology at bakit ito mahalaga sa SUP manufacturing?',
@@ -4672,27 +4672,27 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Pwede bang ilapat ang umiiral na disenyo at kulay ng brand sa SUP product?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang kumpletong brand integration kabilang ang custom graphic, Pantone color matching, aplikasyon ng logo, at disenyo ng packaging. Nagtatrabaho kami kasama ang mga brand manager para matiyak na ang SUP product ay naaayon sa umiiral na design language ng produkto at posisyon sa mercado.',
+          'Oo, sinusuportahan ng OLagoon ang kumpletong brand integration kabilang ang custom graphic, Pantone color matching, aplikasyon ng logo, at disenyo ng packaging. Nagtatrabaho kami kasama ang mga brand manager para matiyak na ang SUP product ay naaayon sa umiiral na design language ng produkto at posisyon sa mercado.',
       },
       {
         question: 'Ano ang karaniwang timeline mula konsepto hanggang mercado para sa bagong linya ng SUP product?',
         answer:
-          'Gamit ang umiiral na product platform at mabilis na proseso ng prototyping ng Afarer, karaniwang makakagalaw ang mga brand mula konsepto hanggang handa-na-sa-mercado na produkto sa 8-12 linggo. Kasama dito ang pagpili ng produkto, customization ng disenyo, pag-apruba ng prototype, produksyon, at pagpapadala.',
+          'Gamit ang umiiral na product platform at mabilis na proseso ng prototyping ng OLagoon, karaniwang makakagalaw ang mga brand mula konsepto hanggang handa-na-sa-mercado na produkto sa 8-12 linggo. Kasama dito ang pagpili ng produkto, customization ng disenyo, pag-apruba ng prototype, produksyon, at pagpapadala.',
       },
       {
         question: 'Anong minimum order quantity ang kailangan para sa OEM/ODM SUP production?',
         answer:
-          "Sinusuportahan ng Afarer ang iba't ibang volume mula 500 unit para sa paunang market testing hanggang 10,000+ unit kada taon para sa naitatag na programa. Nagtatrabaho kami kasama ang mga brand para planuhin ang production volume na tumutugma sa kanilang saklaw ng distribusyon at seasonal na demand.",
+          "Sinusuportahan ng OLagoon ang iba't ibang volume mula 500 unit para sa paunang market testing hanggang 10,000+ unit kada taon para sa naitatag na programa. Nagtatrabaho kami kasama ang mga brand para planuhin ang production volume na tumutugma sa kanilang saklaw ng distribusyon at seasonal na demand.",
       },
       {
         question:
-          'Nag-aalok ba ang Afarer ng inflatable SUP manufacturing kasama ng umiiral na linya ng kayak product?',
+          'Nag-aalok ba ang OLagoon ng inflatable SUP manufacturing kasama ng umiiral na linya ng kayak product?',
         answer:
-          'Oo, gumagawa ang Afarer ng inflatable SUP board gamit ang Drop Stitch at PVC welding technology. Ito ay nagpapahintulot sa mga water sports brand na magdagdag ng kumpletong inflatable SUP category sa pamamagitan ng isang manufacturing partner habang pinapanatili ang kanilang umiiral na produkto nang hindi nababago.',
+          'Oo, gumagawa ang OLagoon ng inflatable SUP board gamit ang Drop Stitch at PVC welding technology. Ito ay nagpapahintulot sa mga water sports brand na magdagdag ng kumpletong inflatable SUP category sa pamamagitan ng isang manufacturing partner habang pinapanatili ang kanilang umiiral na produkto nang hindi nababago.',
       },
     ],
     cta: {
-      title: 'Palawakin ang Iyong Water Sports Brand sa Afarer',
+      title: 'Palawakin ang Iyong Water Sports Brand sa OLagoon',
       subtitle: 'Mayroon ka na ng mga customer. Mayroon ka na ng mercado. Ngayon ay idagdag ang produktong nais nila.',
       primaryAction: {
         text: 'Simulan ang Iyong SUP Expansion Project Ngayon',
@@ -4707,7 +4707,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pet Friendly Paddle Board Manufacturer | Dog SUP OEM Supplier | {SITE}',
       description:
-        'Lumilikha ang Afarer ng custom na pet-friendly paddle board para sa mga dog adventure brand at pet outdoor company. Matibay na anti-scratch na SUP design, malapad at matatag na platform, OEM manufacturing, at private label solution.',
+        'Lumilikha ang OLagoon ng custom na pet-friendly paddle board para sa mga dog adventure brand at pet outdoor company. Matibay na anti-scratch na SUP design, malapad at matatag na platform, OEM manufacturing, at private label solution.',
     },
     hero: {
       tagline: 'Pet-Friendly Paddle Board Program™',
@@ -4749,7 +4749,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pet-Optimized na SUP Design',
           description:
-            'Bumubuo ang Afarer ng SUP structure na partikular para sa paggamit ng alaga na may ultra-stable at malapad na disenyo ng platform na may pinataas na lapad ng board, mas malaking lugar ng pagtayo, at mahabang full-deck na lugar ng aktibidad para sa mga aso ng lahat ng laki.',
+            'Bumubuo ang OLagoon ng SUP structure na partikular para sa paggamit ng alaga na may ultra-stable at malapad na disenyo ng platform na may pinataas na lapad ng board, mas malaking lugar ng pagtayo, at mahabang full-deck na lugar ng aktibidad para sa mga aso ng lahat ng laki.',
           features: [
             'Ultra-Stable na Malapad na Disenyo ng Platform',
             'Mahabang Full-Deck na Lugar ng Aktibidad',
@@ -4759,43 +4759,43 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Anti-Scratch at Pet-Proof na Istruktura ng Material',
           description:
-            'Sinusuportahan ng Afarer ang pinalakas na PVC construction para sa paglaban sa gasgas, heavy-duty na full coverage na EVA deck pad na may pinahusay na traction, at anti-puncture na istruktura para maprotektahan laban sa presyon ng kuko.',
+            'Sinusuportahan ng OLagoon ang pinalakas na PVC construction para sa paglaban sa gasgas, heavy-duty na full coverage na EVA deck pad na may pinahusay na traction, at anti-puncture na istruktura para maprotektahan laban sa presyon ng kuko.',
           features: ['Pinalakas na PVC Construction', 'Heavy-Duty na EVA Deck Pad', 'Anti-Puncture na Istruktura'],
         },
         {
           title: 'Pet-Friendly na Configuration ng Produkto',
           description:
-            'Sinusuportahan ng Afarer ang kumpletong solusyon sa produkto kabilang ang standard na pet SUP package na may board at accessory, premium na dog adventure package na may accessory sa kaligtasan, at travel pet package para sa road trip at camping.',
+            'Sinusuportahan ng OLagoon ang kumpletong solusyon sa produkto kabilang ang standard na pet SUP package na may board at accessory, premium na dog adventure package na may accessory sa kaligtasan, at travel pet package para sa road trip at camping.',
           features: ['Standard na Pet SUP Package', 'Premium na Dog Adventure Package', 'Travel Pet Package'],
         },
         {
           title: 'Custom Private Label na Pagbuo ng Pet SUP',
           description:
-            'Tinutulungan ng Afarer ang mga pet brand na lumikha ng custom branded na produkto na may placement ng logo, kulay, at graphic design, lifestyle-oriented na disenyo para sa premium positioning, at limited edition na collection para sa mga influencer.',
+            'Tinutulungan ng OLagoon ang mga pet brand na lumikha ng custom branded na produkto na may placement ng logo, kulay, at graphic design, lifestyle-oriented na disenyo para sa premium positioning, at limited edition na collection para sa mga influencer.',
           features: ['Customization ng Brand', 'Lifestyle-Oriented na Disenyo', 'Limited Edition na Collection'],
         },
         {
           title: 'Suporta sa Market Positioning ng Pet Brand',
           description:
-            "Bumubuo ang Afarer ng produkto na tumutugma sa iba't ibang posisyon ng brand — mula sa premium na pet lifestyle brand na nakatuon sa luxury na itsura, tungo sa adventure dog brand na nakatuon sa tibay, at family pet brand na nakatuon sa kaligtasan.",
+            "Bumubuo ang OLagoon ng produkto na tumutugma sa iba't ibang posisyon ng brand — mula sa premium na pet lifestyle brand na nakatuon sa luxury na itsura, tungo sa adventure dog brand na nakatuon sa tibay, at family pet brand na nakatuon sa kaligtasan.",
           features: ['Premium na Pet Lifestyle Brand', 'Adventure Dog Brand', 'Family Pet Brand'],
         },
         {
           title: 'Suporta ng OEM para sa mga Pet Product Entrepreneur',
           description:
-            'Maraming pet brand ang may komunidad ng customer at kakayahang marketing pero kulang sa kaalaman sa manufacturing. Nagbibigay ang Afarer ng product development, pagbuo ng prototype, manufacturing, quality control, at suporta sa export.',
+            'Maraming pet brand ang may komunidad ng customer at kakayahang marketing pero kulang sa kaalaman sa manufacturing. Nagbibigay ang OLagoon ng product development, pagbuo ng prototype, manufacturing, quality control, at suporta sa export.',
           features: ['Product Development', 'Pagbuo ng Prototype', 'Suporta sa Manufacturing'],
         },
         {
           title: 'Content-Friendly na Disenyo ng Produkto',
           description:
-            'Sinusuportahan ng Afarer ang disenyo na optimize para sa visibility sa social media na may kaakit-akit na graphic at lifestyle na itsura, na humihikayat ng litrato at video ng customer na lumilikha ng nababahaging karanasan at pakikilahok ng komunidad.',
+            'Sinusuportahan ng OLagoon ang disenyo na optimize para sa visibility sa social media na may kaakit-akit na graphic at lifestyle na itsura, na humihikayat ng litrato at video ng customer na lumilikha ng nababahaging karanasan at pakikilahok ng komunidad.',
           features: ['Visibility sa Social Media', 'Litrato at Video ng Customer', 'Pagkilala sa Brand'],
         },
         {
           title: 'Quality Control para sa Kaligtasan ng Alaga',
           description:
-            'Nakatuon ang Afarer sa kaligtasan ng material sa pagsusuri ng tibay ng surface, testing ng performance ng produkto sa inflation at stability, at final inspection ng itsura, accessory, at packaging.',
+            'Nakatuon ang OLagoon sa kaligtasan ng material sa pagsusuri ng tibay ng surface, testing ng performance ng produkto sa inflation at stability, at final inspection ng itsura, accessory, at packaging.',
           features: ['Kaligtasan ng Material', 'Performance ng Produkto', 'Final Inspection'],
         },
       ],
@@ -4812,7 +4812,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Product Development',
           detail:
-            'Nagdisenyo ang Afarer ng pet-specific na SUP structure kabilang ang mas malapad na hugis ng board, mas malaking deck area, at pinalakas na surface para ligtas at komportableng mapagtangkilik ang mga aso.',
+            'Nagdisenyo ang OLagoon ng pet-specific na SUP structure kabilang ang mas malapad na hugis ng board, mas malaking deck area, at pinalakas na surface para ligtas at komportableng mapagtangkilik ang mga aso.',
         },
         {
           title: 'Optimization ng Material',
@@ -4850,22 +4850,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Canine-Specific na Product R&D at Safety Engineering',
               detail:
-                "Noong Enero 2025, gumugol si Emma at ang kanyang product team ng isang linggo sa innovation lab ng Afarer kasama ang mga materials engineer ng Afarer at isang veterinary consultant. Bumuo sila ng 3 dog-specific na inobasyon: (1) dual-density na deck pad na may extra-grip zone para sa kuko ng aso na may 3x mas mataas na coefficient of friction kaysa standard na pad, (2) pinalakas na gitnang bahagi na may load-tested na capacity na 50kg (sinubukan gamit ang simulasyon ng timbang ng Labrador at Golden Retriever), at (3) D-ring anchor system na compatible sa dog life vest. Gumawa ang Afarer ng 6 pagkakaiba-iba ng prototype, at nagsagawa ang team ni Emma ng 8 linggo ng testing kasama ang 50 may-ari ng aso sa buong UK, pino ang disenyo batay sa 347 tugon sa survey. Ang panghuling disenyo ay may paw-print embossing, 'mud-resistant' na material, at poop-bag holder na naka-integrate sa deck pad.",
+                "Noong Enero 2025, gumugol si Emma at ang kanyang product team ng isang linggo sa innovation lab ng OLagoon kasama ang mga materials engineer ng OLagoon at isang veterinary consultant. Bumuo sila ng 3 dog-specific na inobasyon: (1) dual-density na deck pad na may extra-grip zone para sa kuko ng aso na may 3x mas mataas na coefficient of friction kaysa standard na pad, (2) pinalakas na gitnang bahagi na may load-tested na capacity na 50kg (sinubukan gamit ang simulasyon ng timbang ng Labrador at Golden Retriever), at (3) D-ring anchor system na compatible sa dog life vest. Gumawa ang OLagoon ng 6 pagkakaiba-iba ng prototype, at nagsagawa ang team ni Emma ng 8 linggo ng testing kasama ang 50 may-ari ng aso sa buong UK, pino ang disenyo batay sa 347 tugon sa survey. Ang panghuling disenyo ay may paw-print embossing, 'mud-resistant' na material, at poop-bag holder na naka-integrate sa deck pad.",
             },
             {
               title: 'Brand Development, Packaging at Pet Retail Compliance',
               detail:
-                "Bumuo ang design team ng Afarer ng visual identity ng 'Paws & Paddle Adventure' kabilang ang packaging na may potograpiya ng aso, shelf wobbler, at QR code na tumuturo sa video guide na 'Dog SUP Safety'. Inilunsad ang 3 model: 'The Spaniel' (10' all-around para sa maliliit-katamtamang aso), 'The Labrador' (11'6\" utility para sa katamtaman-malalaking aso), at 'The Retriever' (12'6\" touring para sa malalaking aso at mas mahabang biyahe). Pinamahalaan ng Afarer ang UKCA certification at CE marking, at bumuo ng Pet Industry Federation compliance package kabilang ang babala sa kaligtasan, limitasyon sa timbang ng aso, at dokumentasyon sa liability. Pre-sold si Emma ng 1,800 unit sa pamamagitan ng kanyang umiiral na pet retail network bago pa magsimula ang produksyon.",
+                "Bumuo ang design team ng OLagoon ng visual identity ng 'Paws & Paddle Adventure' kabilang ang packaging na may potograpiya ng aso, shelf wobbler, at QR code na tumuturo sa video guide na 'Dog SUP Safety'. Inilunsad ang 3 model: 'The Spaniel' (10' all-around para sa maliliit-katamtamang aso), 'The Labrador' (11'6\" utility para sa katamtaman-malalaking aso), at 'The Retriever' (12'6\" touring para sa malalaking aso at mas mahabang biyahe). Pinamahalaan ng OLagoon ang UKCA certification at CE marking, at bumuo ng Pet Industry Federation compliance package kabilang ang babala sa kaligtasan, limitasyon sa timbang ng aso, at dokumentasyon sa liability. Pre-sold si Emma ng 1,800 unit sa pamamagitan ng kanyang umiiral na pet retail network bago pa magsimula ang produksyon.",
             },
             {
               title: 'Influencer Launch Campaign at Retail Training',
               detail:
-                "Inilunsad ang collection noong Marso 2025 na may nakoordinong campaign na tampok ang 12 UK dog influencer kabilang ang @myadventureswithoscar (2.1M follower) at @the_hiking_husky (890K follower). Nagbigay ang Afarer ng 50 demo unit para sa content ng influencer at event sa pet store. Lumikha ang training team ng Afarer ng 20-minutong 'Retail Pro' module na sumasaklaw sa kaligtasan sa dog SUP, pagkasya para sa iba't ibang lahi, at cross-selling ng dog life vest at paw-protection bootie. Nag-host ang 340 retail partner ng Paws & Paddle ng in-store demo day kung saan makakasubok ang customer ng board kasama ang kanilang aso sa inflatable pool — 78% ng kalahok sa demo ang bumili.",
+                "Inilunsad ang collection noong Marso 2025 na may nakoordinong campaign na tampok ang 12 UK dog influencer kabilang ang @myadventureswithoscar (2.1M follower) at @the_hiking_husky (890K follower). Nagbigay ang OLagoon ng 50 demo unit para sa content ng influencer at event sa pet store. Lumikha ang training team ng OLagoon ng 20-minutong 'Retail Pro' module na sumasaklaw sa kaligtasan sa dog SUP, pagkasya para sa iba't ibang lahi, at cross-selling ng dog life vest at paw-protection bootie. Nag-host ang 340 retail partner ng Paws & Paddle ng in-store demo day kung saan makakasubok ang customer ng board kasama ang kanilang aso sa inflatable pool — 78% ng kalahok sa demo ang bumili.",
             },
             {
               title: 'Paglawak ng Kategorya at Veterinary Partnership Program',
               detail:
-                "Pagsapit ng Setyembre 2025, ang dog-friendly SUP line ay nakapagbenta na ng 4,200 unit sa 340 retail location na umani ng £2.1M wholesale revenue (40% lampas sa target na £1.5M). Ang model na 'Labrador' ang 52% ng benta. Inilunsad ni Emma ang nangungunang partnership sa British Veterinary Association na nagsusulong ng dog water safety, at gumawa ang Afarer ng 5,000 booklet na 'Dog SUP Safety' na ipinamahagi sa pamamagitan ng mga vet. Ang reorder na 3,000 unit ay kabilang ang bagong model na 'The Terrier' (8'6\" para sa maliliit na aso) at tumutugmang linya ng dog life vest. Pinangalang 'Pet Product of the Year' ang collection sa 2025 UK Pet Show.",
+                "Pagsapit ng Setyembre 2025, ang dog-friendly SUP line ay nakapagbenta na ng 4,200 unit sa 340 retail location na umani ng £2.1M wholesale revenue (40% lampas sa target na £1.5M). Ang model na 'Labrador' ang 52% ng benta. Inilunsad ni Emma ang nangungunang partnership sa British Veterinary Association na nagsusulong ng dog water safety, at gumawa ang OLagoon ng 5,000 booklet na 'Dog SUP Safety' na ipinamahagi sa pamamagitan ng mga vet. Ang reorder na 3,000 unit ay kabilang ang bagong model na 'The Terrier' (8'6\" para sa maliliit na aso) at tumutugmang linya ng dog life vest. Pinangalang 'Pet Product of the Year' ang collection sa 2025 UK Pet Show.",
             },
           ],
           results: [
@@ -4882,28 +4882,28 @@ const tl: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Australia',
             background:
               "Ang Blue Heeler Expeditions ay itinatag ng dating Australian Army dog handler na naging canine behaviorist na si Lachlan 'Locky' Murphy noong 2018. Espesyal ni Locky ang training ng high-energy na lahi (kelpie, heeler, border collie) at bumuo ng matapat na following sa pamamagitan ng kanyang YouTube channel (480K subscriber) at laging sold-out na workshop. May 12,000 sq ft na facility malapit sa Noosa River pero nais niyang lumikha ng ganap na bagong kategorya: istrukturadong dog SUP training at certification program. Ang pagmamay-ari ng aso sa Australia ay nasa pinakamataas na antas (5.1M aso) at trending ang #dogpaddle sa Australian social media, pero walang nag-aalok ng propesyonal na canine SUP training o equipment na idinisenyo para sa klima ng Australia.",
-            goal: "Bumuo ng komprehensibong 'Canine SUP Certification' program na may custom na board ng Afarer, sanayin at i-certify ang 80 instructor sa buong Australia sa loob ng 18 buwan, at magbigay ng AU$1.2M program revenue sa pamamagitan ng pagsasama ng benta ng board, certification fee, at merchandise.",
+            goal: "Bumuo ng komprehensibong 'Canine SUP Certification' program na may custom na board ng OLagoon, sanayin at i-certify ang 80 instructor sa buong Australia sa loob ng 18 buwan, at magbigay ng AU$1.2M program revenue sa pamamagitan ng pagsasama ng benta ng board, certification fee, at merchandise.",
           },
           steps: [
             {
               title: 'Canine Behavior Analysis at Pagbuo ng SUP Training Protocol',
               detail:
-                "Gumugol si Locky ng 3 buwan mula Oktubre hanggang Disyembre 2024 na nagtatrabaho kasama ang product team ng Afarer at isang mananaliksik ng animal biomechanics mula sa University of Queensland para idisenyo ang board na optimize para sa balance training ng aso. Lumikha sila ng 12' x 34' na malapad na platform na may ultra-soft na EVA deck padding (8mm kumpara sa standard na 4mm), low-profile na rail para sa madaling pagsakay ng aso, at non-slip na textured surface na sinubukan sa 14 lahi ng aso. Sinubukan ni Locky ang 30 aso sa 6 pag-ulit ng prototype at bumuo ng 5-stage na canine SUP training protocol: Stage 1 (pagkakilala sa board sa lupa), Stage 2 (static float), Stage 3 (nakaupong paddle), Stage 4 (nakatayong paddle na nakaupo ang aso), Stage 5 (buong paddle na nakatayo ang aso). Gumawa ang Afarer ng 200 instructor-grade na board na may custom na 'Blue Heeler' graphic na tampok ang silwet ng Australian cattle dog.",
+                "Gumugol si Locky ng 3 buwan mula Oktubre hanggang Disyembre 2024 na nagtatrabaho kasama ang product team ng OLagoon at isang mananaliksik ng animal biomechanics mula sa University of Queensland para idisenyo ang board na optimize para sa balance training ng aso. Lumikha sila ng 12' x 34' na malapad na platform na may ultra-soft na EVA deck padding (8mm kumpara sa standard na 4mm), low-profile na rail para sa madaling pagsakay ng aso, at non-slip na textured surface na sinubukan sa 14 lahi ng aso. Sinubukan ni Locky ang 30 aso sa 6 pag-ulit ng prototype at bumuo ng 5-stage na canine SUP training protocol: Stage 1 (pagkakilala sa board sa lupa), Stage 2 (static float), Stage 3 (nakaupong paddle), Stage 4 (nakatayong paddle na nakaupo ang aso), Stage 5 (buong paddle na nakatayo ang aso). Gumawa ang OLagoon ng 200 instructor-grade na board na may custom na 'Blue Heeler' graphic na tampok ang silwet ng Australian cattle dog.",
             },
             {
               title: 'Instructor Certification Program at Regulatory Framework',
               detail:
-                'Nagtulungan si Locky at ang Afarer sa pagbuo ng 3-level na Canine SUP Instructor Certification: Level 1 (40-oras na online + weekend practical), Level 2 (10-araw na advanced na may water rescue), Level 3 (14-araw na master instructor). Sakop ng kurikulum ang ugali ng aso sa tubig, canine first aid, paraan ng training na partikular sa lahi, regulasyon sa kaligtasan sa tubig ng Australia, kahilingan sa insurance, at setup ng negosyo. Pinondohan ng Afarer ang paggawa ng 25 oras na HD video content na kinuhanan sa Noosa River at gumawa ng 200-pahinang instructor manual. Inilunsad ni Locky ang certification program noong Pebrero 2025 na may paunang grupo na 24 kandidato — pumasa ang lahat ng 24 sa Level 1 at nagpatuloy ang 18 sa Level 2.',
+                'Nagtulungan si Locky at ang OLagoon sa pagbuo ng 3-level na Canine SUP Instructor Certification: Level 1 (40-oras na online + weekend practical), Level 2 (10-araw na advanced na may water rescue), Level 3 (14-araw na master instructor). Sakop ng kurikulum ang ugali ng aso sa tubig, canine first aid, paraan ng training na partikular sa lahi, regulasyon sa kaligtasan sa tubig ng Australia, kahilingan sa insurance, at setup ng negosyo. Pinondohan ng OLagoon ang paggawa ng 25 oras na HD video content na kinuhanan sa Noosa River at gumawa ng 200-pahinang instructor manual. Inilunsad ni Locky ang certification program noong Pebrero 2025 na may paunang grupo na 24 kandidato — pumasa ang lahat ng 24 sa Level 1 at nagpatuloy ang 18 sa Level 2.',
             },
             {
               title: 'Saklaw ng Equipment, Retail Distribution at YouTube Launch',
               detail:
-                "Inilunsad ang brand ni Locky na 'Blue Heeler Expeditions' na may 4 retail product: ang 'Blue' (12' instructor board sa AU$899), ang 'Heeler' (10'6\" recreational dog board sa AU$649), dog-specific na life vest (AU$89), at training tether system (AU$39). Nagmanupaktura ang Afarer ng 1,000 unit para sa paunang retail at instructor pipeline. Naglabas si Locky ng 6-bahaging YouTube series na 'Paddle Paws' na nagdedokumento sa training protocol — ang unang episode ay umani ng 2.1M views sa loob ng 2 linggo. Sa loob ng 30 araw, tumanggap ang website ni Locky ng 47,000 order inquiry at pumirma ang 340 Australian sa waitlist para sa instructor certification.",
+                "Inilunsad ang brand ni Locky na 'Blue Heeler Expeditions' na may 4 retail product: ang 'Blue' (12' instructor board sa AU$899), ang 'Heeler' (10'6\" recreational dog board sa AU$649), dog-specific na life vest (AU$89), at training tether system (AU$39). Nagmanupaktura ang OLagoon ng 1,000 unit para sa paunang retail at instructor pipeline. Naglabas si Locky ng 6-bahaging YouTube series na 'Paddle Paws' na nagdedokumento sa training protocol — ang unang episode ay umani ng 2.1M views sa loob ng 2 linggo. Sa loob ng 30 araw, tumanggap ang website ni Locky ng 47,000 order inquiry at pumirma ang 340 Australian sa waitlist para sa instructor certification.",
             },
             {
               title: 'Sukat ng Programa, Pambansang Paglawak at Internasyonal na Inquiry',
               detail:
-                'Pagsapit ng Agosto 2025, may 85 certified na instructor na ang Blue Heeler Expeditions sa lahat ng estado ng Australia (5 lampas sa 18-buwan na target na nakamit sa 6 buwan). Nagbayad ang mga instructor ng AU$2,500 para sa Level 1 certification + AU$899 board, na umani ng AU$296K certification revenue. Nagbenta si Locky ng 1,400 retail board sa mga may-ari ng alaga, 200 instructor-grade na board sa certified trainer, at 3,400 dog life vest. Ang kabuuang program revenue ay umabot sa AU$1.85M sa 8 buwan (54% lampas sa 18-buwan na target na AU$1.2M). Nakatanggap si Locky ng inquiry mula sa 14 bansa at pumirma ng licensing deal sa US partner para sa North American na bersyon. Nag-commit ang Afarer sa eksklusibong 3-taong global partnership para sa linya ng Canine SUP product.',
+                'Pagsapit ng Agosto 2025, may 85 certified na instructor na ang Blue Heeler Expeditions sa lahat ng estado ng Australia (5 lampas sa 18-buwan na target na nakamit sa 6 buwan). Nagbayad ang mga instructor ng AU$2,500 para sa Level 1 certification + AU$899 board, na umani ng AU$296K certification revenue. Nagbenta si Locky ng 1,400 retail board sa mga may-ari ng alaga, 200 instructor-grade na board sa certified trainer, at 3,400 dog life vest. Ang kabuuang program revenue ay umabot sa AU$1.85M sa 8 buwan (54% lampas sa 18-buwan na target na AU$1.2M). Nakatanggap si Locky ng inquiry mula sa 14 bansa at pumirma ng licensing deal sa US partner para sa North American na bersyon. Nag-commit ang OLagoon sa eksklusibong 3-taong global partnership para sa linya ng Canine SUP product.',
             },
           ],
           results: [
@@ -4915,8 +4915,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Pet Adventure Brand ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Pet Adventure Brand ang OLagoon',
       items: [
         {
           title: 'Kaligtasan ng Alaga',
@@ -4964,26 +4964,26 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Pwede bang i-customize ng mga pet brand ang SUP board gamit ang kanilang sariling logo at kulay?',
         answer:
-          'Siyempre. Nag-aalok ang Afarer ng buong customization ng brand kabilang ang placement ng logo, custom na pagtutugma ng kulay, graphic design, at branded packaging. Sinusuportahan din namin ang limited edition na collection para sa pet influencer at seasonal na paglulunsad ng produkto.',
+          'Siyempre. Nag-aalok ang OLagoon ng buong customization ng brand kabilang ang placement ng logo, custom na pagtutugma ng kulay, graphic design, at branded packaging. Sinusuportahan din namin ang limited edition na collection para sa pet influencer at seasonal na paglulunsad ng produkto.',
       },
       {
         question: 'Anong laki ng board ang inirerekomenda para sa pagpaddle kasama ang aso?',
         answer:
-          'Para sa pagpaddle kasama ang mga aso, inirerekomenda ang mas malapad na board na may mas malaking deck area. Ang pet-friendly na disenyo ng Afarer ay may pinataas na lapad ng board at mahabang full-deck na lugar ng aktibidad na sinesilungan ang maliliit, katamtaman, at malalaking aso nang komportable habang pinapanatili ang stability.',
+          'Para sa pagpaddle kasama ang mga aso, inirerekomenda ang mas malapad na board na may mas malaking deck area. Ang pet-friendly na disenyo ng OLagoon ay may pinataas na lapad ng board at mahabang full-deck na lugar ng aktibidad na sinesilungan ang maliliit, katamtaman, at malalaking aso nang komportable habang pinapanatili ang stability.',
       },
       {
         question: 'Nag-aalok ba kayo ng kumpletong pet SUP package na may accessory?',
         answer:
-          'Oo, nag-aalok ang Afarer ng standard na pet SUP package kabilang ang board, paddle, pump, leash, carry bag, at repair kit, bukod pa sa premium dog adventure package na may accessory sa kaligtasan ng alaga at travel pet package na optimize para sa road trip at camping.',
+          'Oo, nag-aalok ang OLagoon ng standard na pet SUP package kabilang ang board, paddle, pump, leash, carry bag, at repair kit, bukod pa sa premium dog adventure package na may accessory sa kaligtasan ng alaga at travel pet package na optimize para sa road trip at camping.',
       },
       {
         question: 'Ano ang minimum order quantity para sa custom na pet-friendly SUP board?',
         answer:
-          'Nagtatrabaho ang Afarer kasama ang mga pet brand ng lahat ng laki. Ang minimum order quantity ay maaaring istrukturahin para tumugma sa yugto ng brand, mula sa small-batch na limited edition launch para sa pet influencer hanggang sa full-scale na production run para sa naitatag na pet outdoor brand.',
+          'Nagtatrabaho ang OLagoon kasama ang mga pet brand ng lahat ng laki. Ang minimum order quantity ay maaaring istrukturahin para tumugma sa yugto ng brand, mula sa small-batch na limited edition launch para sa pet influencer hanggang sa full-scale na production run para sa naitatag na pet outdoor brand.',
       },
     ],
     cta: {
-      title: 'Likuin ang Iyong Pet Adventure SUP Brand sa Afarer',
+      title: 'Likuin ang Iyong Pet Adventure SUP Brand sa OLagoon',
       subtitle: 'Ang hinaharap ng pet product ay hindi lamang sa loob ng bahay. Nasa labas ito.',
       primaryAction: {
         text: 'Simulan ang Iyong Pet-Friendly SUP Project Ngayon',
@@ -4998,7 +4998,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Commercial SUP Equipment Supplier | Beach Rental Fleet Solution | {SITE}',
       description:
-        'Nagbibigay ang Afarer ng commercial SUP fleet solution para sa mga beach recreation business at water sports center. Matibay na rental paddle board, kumpletong equipment package, suporta sa spare part, at OEM customization.',
+        'Nagbibigay ang OLagoon ng commercial SUP fleet solution para sa mga beach recreation business at water sports center. Matibay na rental paddle board, kumpletong equipment package, suporta sa spare part, at OEM customization.',
     },
     hero: {
       tagline: 'Complete Beach Activity Equipment Solutions™',
@@ -5039,37 +5039,37 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Commercial-Grade na Disenyo ng SUP Fleet',
           description:
-            'Bumubuo ang Afarer ng SUP product na partikular para sa komersyal na kapaligiran na may pinalakas na PVC construction, malakas na teknolohiyang tahi, heavy-duty na EVA deck system, at commercial-grade na accessory kabilang ang matibay na paddle at pump.',
+            'Bumubuo ang OLagoon ng SUP product na partikular para sa komersyal na kapaligiran na may pinalakas na PVC construction, malakas na teknolohiyang tahi, heavy-duty na EVA deck system, at commercial-grade na accessory kabilang ang matibay na paddle at pump.',
           features: ['Pinalakas na Construction', 'Heavy-Duty na EVA Deck System', 'Commercial na Accessory'],
         },
         {
           title: 'Kumpletong Pagpaplano ng Rental Fleet',
           description:
-            'Tinutulungan ng Afarer ang pagpili ng tamang halo ng kagamitan para sa beach rental fleet na may matatag na all-round SUP, water sports center fleet na may maraming sukat at instructor board, at resort activity fleet na may branded na premium na kagamitan.',
+            'Tinutulungan ng OLagoon ang pagpili ng tamang halo ng kagamitan para sa beach rental fleet na may matatag na all-round SUP, water sports center fleet na may maraming sukat at instructor board, at resort activity fleet na may branded na premium na kagamitan.',
           features: ['Beach Rental Fleet', 'Water Sports Center Fleet', 'Resort Activity Fleet'],
         },
         {
           title: 'High-Durability na Configuration ng Rental SUP',
           description:
-            'Ni-optimize ng Afarer ang mga produkto para sa paglaban sa gasgas laban sa buhangin ng dalampasigan at madalas na paghawak, madaling repair gamit ang repair kit at standardized na component, at mahabang haba-buhay ng serbisyo na nag-i-maximize ng ROI ng kagamitan.',
+            'Ni-optimize ng OLagoon ang mga produkto para sa paglaban sa gasgas laban sa buhangin ng dalampasigan at madalas na paghawak, madaling repair gamit ang repair kit at standardized na component, at mahabang haba-buhay ng serbisyo na nag-i-maximize ng ROI ng kagamitan.',
           features: ['Paglaban sa Gasgas', 'Madaling Repair', 'Mahabang Haba-buhay ng Serbisyo'],
         },
         {
           title: 'Standardized na Sistema ng Spare Part',
           description:
-            'Sinusuportahan ng Afarer ang mga komersyal na operator ng replacement accessory kabilang ang valve, leash, paddle, pump, at materyal para sa repair, bukod pa sa pagpaplano ng fleet maintenance para sa pang-araw-araw na inspeksyon at seasonal na maintenance.',
+            'Sinusuportahan ng OLagoon ang mga komersyal na operator ng replacement accessory kabilang ang valve, leash, paddle, pump, at materyal para sa repair, bukod pa sa pagpaplano ng fleet maintenance para sa pang-araw-araw na inspeksyon at seasonal na maintenance.',
           features: ['Replacement Accessory', 'Pagpaplano ng Fleet Maintenance', 'Mabilis na Recover'],
         },
         {
           title: 'Kumpletong Beach Activity Package',
           description:
-            'Nagbibigay ang Afarer ng SUP rental package na may commercial board at accessory, family water activity package para sa resort at tourist area, at group event package para sa corporate at school activity.',
+            'Nagbibigay ang OLagoon ng SUP rental package na may commercial board at accessory, family water activity package para sa resort at tourist area, at group event package para sa corporate at school activity.',
           features: ['SUP Rental Package', 'Family Water Activity Package', 'Group Event Package'],
         },
         {
           title: 'Branding at Customization ng Negosyo',
           description:
-            'Sinusuportahan ng Afarer ang custom branding ng operator na may pag-print ng logo at kulay, disenyo ng tourism experience na lumilikha ng branded na aktibidad at photo opportunity, at integrasyon sa resort at dalampasigan na tumutugma sa identity ng destinasyon.',
+            'Sinusuportahan ng OLagoon ang custom branding ng operator na may pag-print ng logo at kulay, disenyo ng tourism experience na lumilikha ng branded na aktibidad at photo opportunity, at integrasyon sa resort at dalampasigan na tumutugma sa identity ng destinasyon.',
           features: [
             'Custom Branding ng Operator',
             'Disenyo ng Tourism Experience',
@@ -5079,13 +5079,13 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Ligtas at Beginner-Friendly na Disenyo',
           description:
-            'Nakatuon ang Afarer sa disenyo ng stability na may mas malapad na hugis ng board para sa turista at pamilya, at madaling operasyon na tumutulong sa first-time paddler na agad maipagmalaki ang karanasan nang may kumpiyansa at kaligtasan.',
+            'Nakatuon ang OLagoon sa disenyo ng stability na may mas malapad na hugis ng board para sa turista at pamilya, at madaling operasyon na tumutulong sa first-time paddler na agad maipagmalaki ang karanasan nang may kumpiyansa at kaligtasan.',
           features: ['Disenyo ng Stability', 'Madaling Operasyon', 'Beginner-Friendly na Performance'],
         },
         {
           title: 'Supply Support para sa Seasonal na Negosyo',
           description:
-            'Tinutulungan ng Afarer ang mga operator sa pamamahala ng pre-season planning para sa pagpili ng fleet at production scheduling, seasonal replacement para sa karagdagang kagamitan at spare part, at pangmatagalang paglaki ng fleet mula maliliit na operasyon tungo sa malalaking center.',
+            'Tinutulungan ng OLagoon ang mga operator sa pamamahala ng pre-season planning para sa pagpili ng fleet at production scheduling, seasonal replacement para sa karagdagang kagamitan at spare part, at pangmatagalang paglaki ng fleet mula maliliit na operasyon tungo sa malalaking center.',
           features: ['Pre-Season Planning', 'Seasonal Replacement', 'Pangmatagalang Paglaki ng Fleet'],
         },
       ],
@@ -5102,7 +5102,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pagpaplano ng Fleet',
           detail:
-            'Nagdisenyo ang Afarer ng commercial SUP equipment package kabilang ang matatag na all-around board, heavy-duty na accessory, at spare part na iniangkop sa kapaligiran ng dalampasigan ng operator.',
+            'Nagdisenyo ang OLagoon ng commercial SUP equipment package kabilang ang matatag na all-around board, heavy-duty na accessory, at spare part na iniangkop sa kapaligiran ng dalampasigan ng operator.',
         },
         {
           title: 'Product Customization',
@@ -5139,27 +5139,27 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Komprehensibong Resort Assessment at Specification ng Kagamitan',
               detail:
-                'Noong Setyembre 2024, nagsagawa si Carlos at ang Hospitality Solutions team ng Afarer ng 5-araw na onsite audit sa lahat ng 3 property. Sinuri nila ang demograpiko ng guest, pattern ng peak na paggamit, limitasyon sa storage, antas ng staffing, at kondisyon ng pagkakalantad sa saltwater. Ipinakita ng audit na 60+ taunang araw ng guest ang nawawala dahil sa downtime ng kagamitan at ang umiiral na board ay tumatagal lamang ng 8-12 buwan bago masira sa araw at asin ng Caribbean. Iminungkahi ng Afarer ang 140-unit na fleet: 100 SUP (10\'6" all-around), 20 clear-bottom na paddle board para sa pagtanaw sa reef, 20 pedal board, at 10 tandem fishing SUP. Ang bawat board ay may UV-stabilized na marine-grade na PVC na may 5-taong commercial warranty, stainless steel hardware, at Hyatt Ziva branded graphic sa signature na turquoise at puti ng brand.',
+                'Noong Setyembre 2024, nagsagawa si Carlos at ang Hospitality Solutions team ng OLagoon ng 5-araw na onsite audit sa lahat ng 3 property. Sinuri nila ang demograpiko ng guest, pattern ng peak na paggamit, limitasyon sa storage, antas ng staffing, at kondisyon ng pagkakalantad sa saltwater. Ipinakita ng audit na 60+ taunang araw ng guest ang nawawala dahil sa downtime ng kagamitan at ang umiiral na board ay tumatagal lamang ng 8-12 buwan bago masira sa araw at asin ng Caribbean. Iminungkahi ng OLagoon ang 140-unit na fleet: 100 SUP (10\'6" all-around), 20 clear-bottom na paddle board para sa pagtanaw sa reef, 20 pedal board, at 10 tandem fishing SUP. Ang bawat board ay may UV-stabilized na marine-grade na PVC na may 5-taong commercial warranty, stainless steel hardware, at Hyatt Ziva branded graphic sa signature na turquoise at puti ng brand.',
             },
             {
               title: 'Infrastructure ng Beach Operations at Storage Solution',
               detail:
-                'Nagdisenyo ang team ng Afarer ng kumpletong beach operations hub para sa bawat resort kabilang ang: 40-paang naka-lock na shipping container na ginawang ligtas na silid ng kagamitan na may solar-powered na bentilasyon, 10 heavy-duty na electric inflation station na may digital pressure gauge, mobile rack system na humahawak ng 50 board na may drip-dry drainage, at repair/maintenance station na may spare valve, patch kit, at panlinis. Ang property sa Puerto Morelos ay nakatanggap ng dedicated na beachside kiosk na may check-in counter, pader ng life vest, at digital scheduling screen. Gumugol ang installation team ng Afarer ng 2 linggo sa bawat property para baguhin ang umiiral na storage area at sanayin ang maintenance staff sa tamang routine ng pag-aalaga kabilang ang protocol ng pagbanlaw ng sariwang tubig pagkatapos ng bawat paggamit.',
+                'Nagdisenyo ang team ng OLagoon ng kumpletong beach operations hub para sa bawat resort kabilang ang: 40-paang naka-lock na shipping container na ginawang ligtas na silid ng kagamitan na may solar-powered na bentilasyon, 10 heavy-duty na electric inflation station na may digital pressure gauge, mobile rack system na humahawak ng 50 board na may drip-dry drainage, at repair/maintenance station na may spare valve, patch kit, at panlinis. Ang property sa Puerto Morelos ay nakatanggap ng dedicated na beachside kiosk na may check-in counter, pader ng life vest, at digital scheduling screen. Gumugol ang installation team ng OLagoon ng 2 linggo sa bawat property para baguhin ang umiiral na storage area at sanayin ang maintenance staff sa tamang routine ng pag-aalaga kabilang ang protocol ng pagbanlaw ng sariwang tubig pagkatapos ng bawat paggamit.',
             },
             {
               title: 'Activity Programming, Staff Training at Disenyo ng Karanasan ng Guest',
               detail:
-                'Bumuo ang Afarer ng tiered na programa ng aktibidad para sa bawat resort: complimentary (SUP rental para sa 1-oras na slot), guided (umagang SUP yoga sa $45/pp, sunset reef tour sa $55/pp), at premium (pribadong paddle picnic excursion sa $120/pp). Gumugol ang mga trainer ng Afarer ng 12 araw sa 3 resort para sanayin ang 24 recreation staff na sumasaklaw sa paghawak ng kagamitan, pagtuturo sa guest, safety protocol, at pangunahing repair. Kasama sa training ang certification program na kinikilala ng Mexican Association of Water Sports Operators. Inilunsad ng team ni Carlos ang QR code booking system na naka-integrate sa guest app ng Hyatt, na nagpapahintulot sa guest na i-reserve ang kagamitan nang 48 oras bago.',
+                'Bumuo ang OLagoon ng tiered na programa ng aktibidad para sa bawat resort: complimentary (SUP rental para sa 1-oras na slot), guided (umagang SUP yoga sa $45/pp, sunset reef tour sa $55/pp), at premium (pribadong paddle picnic excursion sa $120/pp). Gumugol ang mga trainer ng OLagoon ng 12 araw sa 3 resort para sanayin ang 24 recreation staff na sumasaklaw sa paghawak ng kagamitan, pagtuturo sa guest, safety protocol, at pangunahing repair. Kasama sa training ang certification program na kinikilala ng Mexican Association of Water Sports Operators. Inilunsad ng team ni Carlos ang QR code booking system na naka-integrate sa guest app ng Hyatt, na nagpapahintulot sa guest na i-reserve ang kagamitan nang 48 oras bago.',
             },
             {
               title: 'Seasonal na Operasyon, Performance Tracking at ROI Analysis',
               detail:
-                'Ang buong programa ay inilunsad noong Enero 15, 2025 at pagsapit ng Hunyo 2025 ay nasuportahan na nito ang 14,200 karanasan ng guest nang walang insidente sa kaligtasan. Ang kasiyahan ng guest sa water sports activity ay nasa average na 4.7/5 na ang clear-bottom na paddle board ang may pinakamataas na rating (4.9/5). Ang gastos sa maintenance ng kagamitan ay bumaba nang 42% kumpara sa halo-halong vendor program ng nakaraang taon — mula $34K tungong $19.7K sa 3 property. Ang premium guided program ay umani ng $112K karagdagang kita sa unang 6 buwan. Iniulat ng team ni Carlos ang 22% pagtaas ng guest na nagpapahaba ng paglagi nang 1+ gabi partikular para sa water sports. Inaprubahan ng Inclusive Collection ng Hyatt ang badyet na $240K para sa 2026 para idagdag ang kagamitan ng Afarer sa 2 karagdagang property sa Dominican Republic at Jamaica.',
+                'Ang buong programa ay inilunsad noong Enero 15, 2025 at pagsapit ng Hunyo 2025 ay nasuportahan na nito ang 14,200 karanasan ng guest nang walang insidente sa kaligtasan. Ang kasiyahan ng guest sa water sports activity ay nasa average na 4.7/5 na ang clear-bottom na paddle board ang may pinakamataas na rating (4.9/5). Ang gastos sa maintenance ng kagamitan ay bumaba nang 42% kumpara sa halo-halong vendor program ng nakaraang taon — mula $34K tungong $19.7K sa 3 property. Ang premium guided program ay umani ng $112K karagdagang kita sa unang 6 buwan. Iniulat ng team ni Carlos ang 22% pagtaas ng guest na nagpapahaba ng paglagi nang 1+ gabi partikular para sa water sports. Inaprubahan ng Inclusive Collection ng Hyatt ang badyet na $240K para sa 2026 para idagdag ang kagamitan ng OLagoon sa 2 karagdagang property sa Dominican Republic at Jamaica.',
             },
           ],
           results: [
             '14,200+ karanasan ng guest sa unang 6 buwan nang walang insidente sa kaligtasan at 4.7/5 kasiyahan ng guest sa water sports activity',
-            'Ang gastos sa maintenance ng kagamitan ay nabawasan nang 42% mula $34K tungong $19.7K kada taon dahil sa commercial-grade na construction at UV-stabilized na material ng Afarer',
+            'Ang gastos sa maintenance ng kagamitan ay nabawasan nang 42% mula $34K tungong $19.7K kada taon dahil sa commercial-grade na construction at UV-stabilized na material ng OLagoon',
             'Ang premium guided program ay umani ng $112K karagdagang kita sa 6 buwan, na ang SUP yoga at sunset reef tour ang nanguna',
             '22% pagtaas ng guest na nagpapahaba ng paglagi nang 1+ gabi na binabanggit ang water sports bilang pangunahing salik, na nag-ambag ng tinatayang $340K karagdagang kita sa kuwarto',
           ],
@@ -5177,22 +5177,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Multi-Property Needs Analysis at Custom Fleet Engineering',
               detail:
-                'Noong Oktubre 2024, nagsagawa ang Hospitality team ng Afarer ng indibidwal na assessment sa bawat lokasyon ng BlueWave sa loob ng 10-araw na tour sa Cyclades. Magkakaiba ang kondisyon ng bawat club: Mykonos (maimcrowded na look, high-end na cliente, pagkakalantad sa hangin), Santorini (bulkanikong buhangin, mas mapayapang tubig, sunset tourism), Naxos (pampamilya, mababaw na tubig, mas mahabang beachfront), Paros (crossover sa windsurfing, sporty na cliente), at Crete (mas malalaking alon, halo-halong demograpiko). Nagdisenyo ang Afarer ng 200-unit na fleet na may configuration na partikular sa lokasyon: 110 SUP (kabilang ang 20 SUP yoga platform na may pinalawig na haba at 20 clear-bottom na board), 30 pedal board para sa premium guest, 30 windSUP hybrid para sa Mykonos at Paros, at 30 youth board para sa family program ng Naxos. Lahat ng unit ay may signature na navy-at-puting color scheme ng BlueWave na may gold accent logo.',
+                'Noong Oktubre 2024, nagsagawa ang Hospitality team ng OLagoon ng indibidwal na assessment sa bawat lokasyon ng BlueWave sa loob ng 10-araw na tour sa Cyclades. Magkakaiba ang kondisyon ng bawat club: Mykonos (maimcrowded na look, high-end na cliente, pagkakalantad sa hangin), Santorini (bulkanikong buhangin, mas mapayapang tubig, sunset tourism), Naxos (pampamilya, mababaw na tubig, mas mahabang beachfront), Paros (crossover sa windsurfing, sporty na cliente), at Crete (mas malalaking alon, halo-halong demograpiko). Nagdisenyo ang OLagoon ng 200-unit na fleet na may configuration na partikular sa lokasyon: 110 SUP (kabilang ang 20 SUP yoga platform na may pinalawig na haba at 20 clear-bottom na board), 30 pedal board para sa premium guest, 30 windSUP hybrid para sa Mykonos at Paros, at 30 youth board para sa family program ng Naxos. Lahat ng unit ay may signature na navy-at-puting color scheme ng BlueWave na may gold accent logo.',
             },
             {
               title: 'Site-Specific na Infrastructure at Implementasyon ng Logistics',
               detail:
-                'Nag-deploy ang operations team ng Afarer ng plano sa logistics na nagpapadala ng 40 container sa 5 isla, na nakikoordina sa lokal na logistics partner ng BlueWave para sa paglilipat ng isla sa isla. May natanggap na custom storage solution ang bawat lokasyon: ang Mykonos ay nakakuha ng climate-controlled na beachfront na storeroom na may UV-protected na rack, ang Santorini ay may cliffside pulley system para sa transport ng board mula storage tungo sa dalampasigan, ang Naxos ay nakatanggap ng pampamilyang rental kiosk na may display ng kagamitan ng bata, at ang Paros at Crete ay nakatanggap ng dual-purpose na storage na ginagawang harang sa hangin. Nag-install ang Afarer ng shared digital booking system sa lahat ng 5 property at nagsanay sa 35 staff ng BlueWave sa loob ng 2-linggong masusing programa sa flagship na lokasyon ng Mykonos noong Abril 2025.',
+                'Nag-deploy ang operations team ng OLagoon ng plano sa logistics na nagpapadala ng 40 container sa 5 isla, na nakikoordina sa lokal na logistics partner ng BlueWave para sa paglilipat ng isla sa isla. May natanggap na custom storage solution ang bawat lokasyon: ang Mykonos ay nakakuha ng climate-controlled na beachfront na storeroom na may UV-protected na rack, ang Santorini ay may cliffside pulley system para sa transport ng board mula storage tungo sa dalampasigan, ang Naxos ay nakatanggap ng pampamilyang rental kiosk na may display ng kagamitan ng bata, at ang Paros at Crete ay nakatanggap ng dual-purpose na storage na ginagawang harang sa hangin. Nag-install ang OLagoon ng shared digital booking system sa lahat ng 5 property at nagsanay sa 35 staff ng BlueWave sa loob ng 2-linggong masusing programa sa flagship na lokasyon ng Mykonos noong Abril 2025.',
             },
             {
               title: 'Standardisasyon ng Activity Program at Paglikha ng Premium Tier',
               detail:
-                "Inilunsad ng team ni Dimitri ang standardized na water sports program ng BlueWave na 'Aegean Blue Experiences' na may 3 tier: complimentary (30-minutong SUP session para sa guest ng club), premium (guided SUP sa nakatagong dalampasigan sa €65-€95), at ultra-premium (pribadong yacht-transfer paddle excursion sa €250/pp kabilang ang champagne beach picnic). Bumuo ang programming team ng Afarer ng 12 guided tour route sa 5 isla na may GPS-tracked na ruta, marker ng punto ng interes, at suporta sa photographer. Inilunsad din ng property sa Mykonos ang 'Sunset SUP at Little Venice' — 2-oras na guided evening paddle na sold out bawat session sa €85/pp na may 95% capacity rate sa buong tag-init.",
+                "Inilunsad ng team ni Dimitri ang standardized na water sports program ng BlueWave na 'Aegean Blue Experiences' na may 3 tier: complimentary (30-minutong SUP session para sa guest ng club), premium (guided SUP sa nakatagong dalampasigan sa €65-€95), at ultra-premium (pribadong yacht-transfer paddle excursion sa €250/pp kabilang ang champagne beach picnic). Bumuo ang programming team ng OLagoon ng 12 guided tour route sa 5 isla na may GPS-tracked na ruta, marker ng punto ng interes, at suporta sa photographer. Inilunsad din ng property sa Mykonos ang 'Sunset SUP at Little Venice' — 2-oras na guided evening paddle na sold out bawat session sa €85/pp na may 95% capacity rate sa buong tag-init.",
             },
             {
               title: 'Review ng Performance Season at Sostenibilidad ng Programa',
               detail:
-                'Sa buong season ng Mayo-Setyembre 2025, ang pinag-isang fleet ng BlueWave ay nasuportahan ang 52,000 rental ng guest sa 5 lokasyon (4% lampas sa target na 50,000). Ang kabuuang gastos sa kagamitan ay $198K na amortized sa loob ng 5-taong warranty period ng Afarer kumpara sa nakaraang $165K taunang paggastos sa kagamitang pinalitan bawat 18 buwan — 52% taunang pagbaba ng gastos. Ang kasiyahan ng guest sa water sports ay umabot mula 3.8/5 (halo-halong vendor, pre-2025) tungong 4.6/5 sa lahat ng lokasyon. Iniulat ni Dimitri ang €340K kita sa premium program (SUP yoga, guided tour, sunset paddle) na kumakatawan sa 4.7x balik sa investment ng kagamitan sa isang season. Pumirma ang BlueWave ng 3-taong renewal sa Afarer na pinalawak sa 2 karagdagang lokasyon sa Rhodes at Corfu para sa 2026, na nagdadagdag ng 80 pang board.',
+                'Sa buong season ng Mayo-Setyembre 2025, ang pinag-isang fleet ng BlueWave ay nasuportahan ang 52,000 rental ng guest sa 5 lokasyon (4% lampas sa target na 50,000). Ang kabuuang gastos sa kagamitan ay $198K na amortized sa loob ng 5-taong warranty period ng OLagoon kumpara sa nakaraang $165K taunang paggastos sa kagamitang pinalitan bawat 18 buwan — 52% taunang pagbaba ng gastos. Ang kasiyahan ng guest sa water sports ay umabot mula 3.8/5 (halo-halong vendor, pre-2025) tungong 4.6/5 sa lahat ng lokasyon. Iniulat ni Dimitri ang €340K kita sa premium program (SUP yoga, guided tour, sunset paddle) na kumakatawan sa 4.7x balik sa investment ng kagamitan sa isang season. Pumirma ang BlueWave ng 3-taong renewal sa OLagoon na pinalawak sa 2 karagdagang lokasyon sa Rhodes at Corfu para sa 2026, na nagdadagdag ng 80 pang board.',
             },
           ],
           results: [
@@ -5204,8 +5204,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Beach Operator ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Beach Operator ang OLagoon',
       items: [
         {
           title: 'Tibay',
@@ -5246,22 +5246,22 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Ilang SUP board ang dapat simulan para sa beach rental business?',
         answer:
-          "Inirerekomenda ng Afarer ang pagsisimula ng 10-20 board para sa maliliit na beach operation, pag-scale tungong 30-50 para sa naitatag na rental business, at 50+ para sa malalaking water sports center. Kasama sa pagpaplano ng fleet ang halo ng laki ng board at configuration para mapaglingkuran ang iba't ibang uri ng customer mula baguhan hanggang bihasang paddler.",
+          "Inirerekomenda ng OLagoon ang pagsisimula ng 10-20 board para sa maliliit na beach operation, pag-scale tungong 30-50 para sa naitatag na rental business, at 50+ para sa malalaking water sports center. Kasama sa pagpaplano ng fleet ang halo ng laki ng board at configuration para mapaglingkuran ang iba't ibang uri ng customer mula baguhan hanggang bihasang paddler.",
       },
       {
-        question: 'Anong spare part at suporta sa maintenance ang ibinibigay ng Afarer para sa rental fleet?',
+        question: 'Anong spare part at suporta sa maintenance ang ibinibigay ng OLagoon para sa rental fleet?',
         answer:
-          'Nagbibigay ang Afarer ng standardized na sistema ng spare part kabilang ang valve, leash, paddle, pump, at materyal para sa repair. Nag-aalok din kami ng guide sa pagpaplano ng fleet maintenance para sa pang-araw-araw na inspeksyon, seasonal na maintenance, at proseso ng mabilis na recover para paliitin ang downtime ng kagamitan.',
+          'Nagbibigay ang OLagoon ng standardized na sistema ng spare part kabilang ang valve, leash, paddle, pump, at materyal para sa repair. Nag-aalok din kami ng guide sa pagpaplano ng fleet maintenance para sa pang-araw-araw na inspeksyon, seasonal na maintenance, at proseso ng mabilis na recover para paliitin ang downtime ng kagamitan.',
       },
       {
         question: 'Pwede bang i-customize ang mga SUP board gamit ang logo at branding ng aking negosyo?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang buong branding ng negosyo kabilang ang pag-print ng logo, custom na kulay, at graphic ng pagkilala sa rental. Ginagawa nitong marketing asset ang iyong fleet at lumilikha ng photo opportunity na nagpapataas ng exposure sa social media ng iyong negosyo.',
+          'Oo, sinusuportahan ng OLagoon ang buong branding ng negosyo kabilang ang pag-print ng logo, custom na kulay, at graphic ng pagkilala sa rental. Ginagawa nitong marketing asset ang iyong fleet at lumilikha ng photo opportunity na nagpapataas ng exposure sa social media ng iyong negosyo.',
       },
       {
-        question: 'Gaano katibay ang mga commercial SUP board ng Afarer para sa pang-araw-araw na rental?',
+        question: 'Gaano katibay ang mga commercial SUP board ng OLagoon para sa pang-araw-araw na rental?',
         answer:
-          'Ang mga commercial SUP board ng Afarer ay in-engineer para sa high-frequency na rental operation na may pinalakas na PVC, malakas na teknolohiyang tahi, at protektibong panlabas na layer. Sa tamang maintenance, malaki itong nalalampasan ang consumer-grade na board sa komersyal na kapaligiran, na nagbabawas ng kabuuang gastos ng pagmamay-ari.',
+          'Ang mga commercial SUP board ng OLagoon ay in-engineer para sa high-frequency na rental operation na may pinalakas na PVC, malakas na teknolohiyang tahi, at protektibong panlabas na layer. Sa tamang maintenance, malaki itong nalalampasan ang consumer-grade na board sa komersyal na kapaligiran, na nagbabawas ng kabuuang gastos ng pagmamay-ari.',
       },
       {
         question: 'Ano ang karaniwang return on investment para sa SUP rental fleet?',
@@ -5270,7 +5270,7 @@ const tl: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Beach Water Activity Business sa Afarer',
+      title: 'Bumuo ng Iyong Beach Water Activity Business sa OLagoon',
       subtitle: 'Lumikha ng higit pa sa rental service. Lumikha ng makakalimutang karanasan sa tubig.',
       primaryAction: {
         text: 'Simulan ang Iyong Commercial SUP Fleet Project Ngayon',
@@ -5285,7 +5285,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Commercial Water Park SUP Fleet Supplier | {SITE}',
       description:
-        'Nagbibigay ang Afarer ng commercial SUP fleet solution para sa mga water park at theme park. Mataas na kalidad na matibay na paddle board, beginner-friendly na disenyo, safety-focused na construction, at large-scale na OEM supply.',
+        'Nagbibigay ang OLagoon ng commercial SUP fleet solution para sa mga water park at theme park. Mataas na kalidad na matibay na paddle board, beginner-friendly na disenyo, safety-focused na construction, at large-scale na OEM supply.',
     },
     hero: {
       tagline: 'High-Throughput na SUP Solution para sa mga Water Park, Theme Park at Malalaking Pasilidad ng Libangan',
@@ -5332,12 +5332,12 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Safety-Oriented na Construction',
           description:
-            'Sinusuportahan ng Afarer ang safety-focused na pagbuo ng produkto. Protektibong disenyo ng gilid na may pinalakas na proteksyon sa gilid at mas malambot na lugar ng bangga na nagbabawas ng epekto ng pagbangga. Full EVA safety deck na nagbibigay ng anti-slip na surface at komportableng lugar ng pagtayo. Bilugang beginner-friendly na hugis na nagbabawas ng matalim na gilid at mahihirap na paghawak.',
+            'Sinusuportahan ng OLagoon ang safety-focused na pagbuo ng produkto. Protektibong disenyo ng gilid na may pinalakas na proteksyon sa gilid at mas malambot na lugar ng bangga na nagbabawas ng epekto ng pagbangga. Full EVA safety deck na nagbibigay ng anti-slip na surface at komportableng lugar ng pagtayo. Bilugang beginner-friendly na hugis na nagbabawas ng matalim na gilid at mahihirap na paghawak.',
         },
         {
           title: 'High-Throughput na Pagpaplano ng Fleet',
           description:
-            'Tinutulungan ng Afarer ang mga park na piliin ang tamang laki ng fleet. Maliit na activity zone (100-300 board) para sa water area ng resort, katamtamang entertainment park (300-600 board) para sa rehiyonal na water park, at malalaking theme park operation (600-1000+ board) para sa malalaking grupo ng entertainment at multi-zone na atraksyon.',
+            'Tinutulungan ng OLagoon ang mga park na piliin ang tamang laki ng fleet. Maliit na activity zone (100-300 board) para sa water area ng resort, katamtamang entertainment park (300-600 board) para sa rehiyonal na water park, at malalaking theme park operation (600-1000+ board) para sa malalaking grupo ng entertainment at multi-zone na atraksyon.',
         },
         {
           title: 'Kumpletong Water Park Equipment Package',
@@ -5378,7 +5378,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Commercial Fleet Planning',
           detail:
-            'Nagdisenyo ang Afarer ng sistema ng water park SUP activity kabilang ang matatag na beginner board, commercial accessory, at spare part.',
+            'Nagdisenyo ang OLagoon ng sistema ng water park SUP activity kabilang ang matatag na beginner board, commercial accessory, at spare part.',
         },
         {
           title: 'Safety Customization',
@@ -5416,17 +5416,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Phase 1: Zero-Draft SUP Selection at Modular Obstacle Design',
               detail:
-                'Noong Enero 2025, sinuri ni Delgado ang 7 inflatable SUP vendor. Tinanggihan niya ang 4 dahil sa 6+ minutong siklo ng muling inflation at 2 pa dahil sa delamination sa UV testing. Pinili niya ang Afarer Explorer 11\'6" X (34" lapad, 6" kapal, 320L volume) para sa 15-PSI max rigidity nito at 5-minutong buong deflate-to-stored cycle. Nagtrabaho siya sa OEM team ng Afarer para magdagdag ng 4 integrated na D-ring mounting point bawat board para sa clip-on obstacle module — balance beam, floating hurdle, at crawl-over arch — gamit ang custom rail-mount system na sinubukan hanggang 220 lbs lateral force.',
+                'Noong Enero 2025, sinuri ni Delgado ang 7 inflatable SUP vendor. Tinanggihan niya ang 4 dahil sa 6+ minutong siklo ng muling inflation at 2 pa dahil sa delamination sa UV testing. Pinili niya ang OLagoon Explorer 11\'6" X (34" lapad, 6" kapal, 320L volume) para sa 15-PSI max rigidity nito at 5-minutong buong deflate-to-stored cycle. Nagtrabaho siya sa OEM team ng OLagoon para magdagdag ng 4 integrated na D-ring mounting point bawat board para sa clip-on obstacle module — balance beam, floating hurdle, at crawl-over arch — gamit ang custom rail-mount system na sinubukan hanggang 220 lbs lateral force.',
             },
             {
               title: 'Phase 2: Layout ng Obstacle Course at Compliance sa Lalim ng Tubig',
               detail:
-                "Sa loob ng 6 linggo, sina Delgado at ang kanyang lead aquatics engineer na si Sarah Kim ay nagdisenyo ng 3 configuration ng course para sa iba't ibang lalim ng pool (3.5 ft hanggang 5.5 ft). Ginamit nila ang CAD file ng Afarer para imodelo ang pagitan ng board sa 8 ft interval, na lumilikha ng 150 ft serpentine course. Kailangan ng bawat course ng 16 board bukod pa ang 4 spare bawat park. Nakamit ni Kim ang TDLR amusement ride certification sa pamamagitan ng integrasyon ng shear-pin breakaway connector sa lahat ng mount ng obstacle, na tumitiyak na walang component na lumampas sa 15 lbs ng puwersa ng pagkakabitaw.",
+                "Sa loob ng 6 linggo, sina Delgado at ang kanyang lead aquatics engineer na si Sarah Kim ay nagdisenyo ng 3 configuration ng course para sa iba't ibang lalim ng pool (3.5 ft hanggang 5.5 ft). Ginamit nila ang CAD file ng OLagoon para imodelo ang pagitan ng board sa 8 ft interval, na lumilikha ng 150 ft serpentine course. Kailangan ng bawat course ng 16 board bukod pa ang 4 spare bawat park. Nakamit ni Kim ang TDLR amusement ride certification sa pamamagitan ng integrasyon ng shear-pin breakaway connector sa lahat ng mount ng obstacle, na tumitiyak na walang component na lumampas sa 15 lbs ng puwersa ng pagkakabitaw.",
             },
             {
               title: 'Phase 3: Lifeguard SUP Certification at Rapid-Response Drill',
               detail:
-                'Noong Marso 2025, nagsagawa ang training team ng Afarer ng 3-araw na onsite certification sa Red Oak flagship park para sa 24 lifeguard. Sakop ng training ang teknik ng rescue batay sa SUP, emergency dismount, at pamamahala ng daloy ng tao. Nagpatupad si Delgado ng 15-minutong rotation system: 12-minutong SUP session + 3-minutong pagpalit ng board. Nagdagdag ang bawat park ng 40 ft dedicated staging zone na may 50 wall-mounted board rack na ginawa ng Paddletek. 100% ang completion rate ng lifeguard certification na may written exam average na 94%.',
+                'Noong Marso 2025, nagsagawa ang training team ng OLagoon ng 3-araw na onsite certification sa Red Oak flagship park para sa 24 lifeguard. Sakop ng training ang teknik ng rescue batay sa SUP, emergency dismount, at pamamahala ng daloy ng tao. Nagpatupad si Delgado ng 15-minutong rotation system: 12-minutong SUP session + 3-minutong pagpalit ng board. Nagdagdag ang bawat park ng 40 ft dedicated staging zone na may 50 wall-mounted board rack na ginawa ng Paddletek. 100% ang completion rate ng lifeguard certification na may written exam average na 94%.',
             },
             {
               title: 'Phase 4: Memorial Day Launch at Performance ng Season',
@@ -5454,7 +5454,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: SUP Selection para sa Modesty, Stability at Heat Resilience',
               detail:
-                'Noong Nobyembre 2024, sinubukan ni Al Falasi ang 9 SUP model mula sa 5 brand. Ang Afarer Explorer 10\'8" X (33" x 6" x 320L) lamang ang pumasa sa 48-oras na 50 degree C heat chamber test nang walang pagkasira ng material. Nagorder siya ng 120 board sa dalawang colorway (sand dune beige at ocean teal) para tumugma sa aesthetic ng La Mer. Ang bawat board ay nilagyan ng custom-built na removable canopy shade system — carbon-fiber arch na may UPF 50+ fabric — na idinisenyo ng engineering team ng Afarer sa loob ng 3 pag-ulit ng prototype. Nagdagdag ang mga canopy ng 1.2 kg ngunit pinanatili ang stability sa loob ng 0.5 degree ng heel.',
+                'Noong Nobyembre 2024, sinubukan ni Al Falasi ang 9 SUP model mula sa 5 brand. Ang OLagoon Explorer 10\'8" X (33" x 6" x 320L) lamang ang pumasa sa 48-oras na 50 degree C heat chamber test nang walang pagkasira ng material. Nagorder siya ng 120 board sa dalawang colorway (sand dune beige at ocean teal) para tumugma sa aesthetic ng La Mer. Ang bawat board ay nilagyan ng custom-built na removable canopy shade system — carbon-fiber arch na may UPF 50+ fabric — na idinisenyo ng engineering team ng OLagoon sa loob ng 3 pag-ulit ng prototype. Nagdagdag ang mga canopy ng 1.2 kg ngunit pinanatili ang stability sa loob ng 0.5 degree ng heel.',
             },
             {
               title: 'Step 2: Lagoon Zoning, Privacy at Gender-Segregated Scheduling',
@@ -5464,7 +5464,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 3: Recruitment ng Babaeng SUP Instructor at Cultural Training',
               detail:
-                'Inilunsad ang AquaFun ng targetadong recruitment drive noong Enero 2025, humire ng 12 babaeng SUP instructor (8 Emirati, 4 expat) at 6 lalaking instructor. Naghatid ang Afarer ng customized na 5-araw na SUP guiding certification na iniangkop para sa sensitivity sa kultura — sumasaklaw sa Arabic terminology para sa paddle command, rescue technique na sumusunod sa modesty (board-to-board tow na umaiiwas sa pisikal na pagdikit), at strategy ng pacing ng pamilyang grupo. Pumasa ang lahat ng 18 instructor sa IRF Level 1 equivalent assessment pagsapit ng Pebrero 20. Ang training ay nagkhalaga ng $28K at co-funded ng product innovation grant ng Dubai Tourism.',
+                'Inilunsad ang AquaFun ng targetadong recruitment drive noong Enero 2025, humire ng 12 babaeng SUP instructor (8 Emirati, 4 expat) at 6 lalaking instructor. Naghatid ang OLagoon ng customized na 5-araw na SUP guiding certification na iniangkop para sa sensitivity sa kultura — sumasaklaw sa Arabic terminology para sa paddle command, rescue technique na sumusunod sa modesty (board-to-board tow na umaiiwas sa pisikal na pagdikit), at strategy ng pacing ng pamilyang grupo. Pumasa ang lahat ng 18 instructor sa IRF Level 1 equivalent assessment pagsapit ng Pebrero 20. Ang training ay nagkhalaga ng $28K at co-funded ng product innovation grant ng Dubai Tourism.',
             },
             {
               title: 'Step 4: Ramadan-Aligned Soft Launch at Tuloy-tuloy na Operasyon',
@@ -5481,28 +5481,28 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Water Park ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Water Park ang OLagoon',
       items: [
         {
           title: 'High Traffic Operation',
           description:
-            'Dapat mabuhay ang kagamitan sa pang-araw-araw na komersyal na paggamit. Idinisenyo ng Afarer para sa tuluy-tuloy na high-volume na operasyon na may matibay na construction.',
+            'Dapat mabuhay ang kagamitan sa pang-araw-araw na komersyal na paggamit. Idinisenyo ng OLagoon para sa tuluy-tuloy na high-volume na operasyon na may matibay na construction.',
         },
         {
           title: 'Kahilingan sa Kaligtasan',
           description:
-            'Kailangan ng mga guest ng kumpiyansa at proteksyon. Inuuna ng Afarer ang kaligtasan sa bawat disenyo ng produkto na may beginner-friendly na feature.',
+            'Kailangan ng mga guest ng kumpiyansa at proteksyon. Inuuna ng OLagoon ang kaligtasan sa bawat disenyo ng produkto na may beginner-friendly na feature.',
         },
         {
           title: 'Fleet Management',
           description:
-            'Kailangan ng malalaking proyekto ng kumpletong sistema. Nagbibigay ang Afarer ng end-to-end na pagpaplano ng fleet, rekomendasyon sa dami, at suporta.',
+            'Kailangan ng malalaking proyekto ng kumpletong sistema. Nagbibigay ang OLagoon ng end-to-end na pagpaplano ng fleet, rekomendasyon sa dami, at suporta.',
         },
         {
           title: 'Pangmatagalang Maaasahan',
           description:
-            'Nakadepende ang mga atraksyon sa matatag na operasyon. Tinitiyak ng Afarer ang matibay na produkto at maaasahang supply para sa maraming taon ng tuloy-tuloy na paggamit.',
+            'Nakadepende ang mga atraksyon sa matatag na operasyon. Tinitiyak ng OLagoon ang matibay na produkto at maaasahang supply para sa maraming taon ng tuloy-tuloy na paggamit.',
         },
       ],
     },
@@ -5510,36 +5510,36 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Anong laki ng fleet ang inirerekomenda para sa SUP attraction ng water park?',
         answer:
-          'Inirerekomenda ng Afarer ang 100-300 board para sa maliliit na activity zone at water area ng resort, 300-600 board para sa rehiyonal na water park at destinasyon ng turismo, at 600-1000+ board para sa malalaking theme park at multi-zone na atraksyon.',
+          'Inirerekomenda ng OLagoon ang 100-300 board para sa maliliit na activity zone at water area ng resort, 300-600 board para sa rehiyonal na water park at destinasyon ng turismo, at 600-1000+ board para sa malalaking theme park at multi-zone na atraksyon.',
       },
       {
         question: 'Gaano katibay ang mga commercial SUP board para sa pang-araw-araw na paggamit sa water park?',
         answer:
-          'Ang mga commercial SUP board ng Afarer ay in-engineer para sa high-traffic na operasyon na may pinalakas na PVC construction, matibay na tahi, at commercial-grade na accessory. Kayanin nila ang tuloy-tuloy na pang-araw-araw na paggamit, madalas na mali ng baguhan, at paulit-ulit na bangga na sisisirain ang consumer-grade na produkto.',
+          'Ang mga commercial SUP board ng OLagoon ay in-engineer para sa high-traffic na operasyon na may pinalakas na PVC construction, matibay na tahi, at commercial-grade na accessory. Kayanin nila ang tuloy-tuloy na pang-araw-araw na paggamit, madalas na mali ng baguhan, at paulit-ulit na bangga na sisisirain ang consumer-grade na produkto.',
       },
       {
         question: 'Pwede bang i-customize ang mga SUP board gamit ang branding ng aking water park?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang buong customization kabilang ang logo ng park, character graphic, custom na kulay, at integrasyon sa tema ng atraksyon. Ang custom branding ay ginagawang photo-worthy na atraksyon ang SUP equipment na lumilikha ng exposure sa social media.',
+          'Oo, sinusuportahan ng OLagoon ang buong customization kabilang ang logo ng park, character graphic, custom na kulay, at integrasyon sa tema ng atraksyon. Ang custom branding ay ginagawang photo-worthy na atraksyon ang SUP equipment na lumilikha ng exposure sa social media.',
       },
       {
-        question: 'Anong feature ng kaligtusan ang kasama sa mga commercial SUP board ng Afarer?',
+        question: 'Anong feature ng kaligtusan ang kasama sa mga commercial SUP board ng OLagoon?',
         answer:
-          'Ang mga board ng Afarer ay may protektibong disenyo ng gilid, full EVA anti-slip safety deck, high buoyancy na istruktura, bilugang beginner-friendly na hugis, at pinalakas na proteksyon sa gilid. Pinaliliit ng mga feature na ito ang epekto ng pagbangga at tumitiyak ng ligtas na operasyon para sa first-time na user.',
+          'Ang mga board ng OLagoon ay may protektibong disenyo ng gilid, full EVA anti-slip safety deck, high buoyancy na istruktura, bilugang beginner-friendly na hugis, at pinalakas na proteksyon sa gilid. Pinaliliit ng mga feature na ito ang epekto ng pagbangga at tumitiyak ng ligtas na operasyon para sa first-time na user.',
       },
       {
-        question: 'Paano sinusuportahan ng Afarer ang maintenance at replacement para sa malalaking fleet?',
+        question: 'Paano sinusuportahan ng OLagoon ang maintenance at replacement para sa malalaking fleet?',
         answer:
-          'Nagbibigay ang Afarer ng standardized na component para sa mas madaling replacement, materyal at gabay sa repair, sistema ng fleet inspection para sa pang-araw-araw na check, at availability ng spare part. Nag-aalok din kami ng taunang supply program para sa seasonal replacement at upgrade ng fleet.',
+          'Nagbibigay ang OLagoon ng standardized na component para sa mas madaling replacement, materyal at gabay sa repair, sistema ng fleet inspection para sa pang-araw-araw na check, at availability ng spare part. Nag-aalok din kami ng taunang supply program para sa seasonal replacement at upgrade ng fleet.',
       },
       {
         question: 'Ano ang karaniwang lead time para sa large-scale na order ng SUP fleet?',
         answer:
-          'Nag-iiba ang lead time ayon sa laki ng order at pangangailangan sa customization. Nagtatrabaho nang malapit ang Afarer sa bawat client para magtatag ng production schedule, mula pilot project na 100-500 set hanggang full-scale na installasyon na 500-1000+ set, na tumitiyak ng napapanahong delivery para sa seasonal na pagbubukas.',
+          'Nag-iiba ang lead time ayon sa laki ng order at pangangailangan sa customization. Nagtatrabaho nang malapit ang OLagoon sa bawat client para magtatag ng production schedule, mula pilot project na 100-500 set hanggang full-scale na installasyon na 500-1000+ set, na tumitiyak ng napapanahong delivery para sa seasonal na pagbubukas.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Water Park SUP Attraction sa Afarer',
+      title: 'Bumuo ng Iyong Water Park SUP Attraction sa OLagoon',
       subtitle:
         'Lumikha ng higit pa sa water activity. Lumikha ng makakalimutang karanasan ng guest na nagpapabalik sa mga bisita.',
       primaryAction: {
@@ -5555,7 +5555,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Luxury Custom SUP Manufacturer | {SITE}',
       description:
-        'Lumilikha ang Afarer ng premium custom SUP collection para sa mga private island, yacht club, luxury resort, at elite lifestyle brand. Eksklusibong disenyo, luxury na materyales, VIP customization, at boutique OEM production.',
+        'Lumilikha ang OLagoon ng premium custom SUP collection para sa mga private island, yacht club, luxury resort, at elite lifestyle brand. Eksklusibong disenyo, luxury na materyales, VIP customization, at boutique OEM production.',
     },
     hero: {
       tagline: 'Eksklusibong Luxury SUP Solution para sa mga Private Island, Yacht Club at Elite Lifestyle Destination',
@@ -5596,7 +5596,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Eksklusibong Luxury SUP Design',
           description:
-            'Sinusuportahan ng Afarer ang kumpletong aesthetic customization na may custom na pagbuo ng kulay, brand-specific na tono, at resort matching na disenyo. Kasama sa mga istilo ang Ocean Luxury na may deep navy at pearl white, Tropical Island na may natural na tono, at Modern Yacht na may minimalist na kulay at premium na finish.',
+            'Sinusuportahan ng OLagoon ang kumpletong aesthetic customization na may custom na pagbuo ng kulay, brand-specific na tono, at resort matching na disenyo. Kasama sa mga istilo ang Ocean Luxury na may deep navy at pearl white, Tropical Island na may natural na tono, at Modern Yacht na may minimalist na kulay at premium na finish.',
         },
         {
           title: 'Premium na Pagpili ng Materyales at Finish',
@@ -5683,17 +5683,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Bespoke Design Collaboration at Pagpili ng Materyales',
               detail:
-                "Noong Agosto 2024, nakipag-ugnayan si Voss sa custom division ng Afarer na may detalyadong brief: dapat tumugma ang mga board sa 'Ocean Sand' color palette ng resort (mainit na beige, charcoal, blush, at teal) na may stucco-textured na deck pad na katulad ng sahig ng villa. Nagdevelop ang design team ng Afarer ng 14 colorway prototype sa loob ng 6 linggo, at pumili sa 5-layer fusion drop-stitch core na may UV-stabilized matte PVC skin. Bawat board ay may kamay na ipinintang gold-leaf logo — ang frond emblem ng Coco brand — na inilapat ng Balinese artisan, tumatagal ng 4 oras bawat board. Ang 30-board na order (25 Explorer 11'6\" X, 5 12'6\" touring) ay nagkakahalaga ng $87,000.",
+                "Noong Agosto 2024, nakipag-ugnayan si Voss sa custom division ng OLagoon na may detalyadong brief: dapat tumugma ang mga board sa 'Ocean Sand' color palette ng resort (mainit na beige, charcoal, blush, at teal) na may stucco-textured na deck pad na katulad ng sahig ng villa. Nagdevelop ang design team ng OLagoon ng 14 colorway prototype sa loob ng 6 linggo, at pumili sa 5-layer fusion drop-stitch core na may UV-stabilized matte PVC skin. Bawat board ay may kamay na ipinintang gold-leaf logo — ang frond emblem ng Coco brand — na inilapat ng Balinese artisan, tumatagal ng 4 oras bawat board. Ang 30-board na order (25 Explorer 11'6\" X, 5 12'6\" touring) ay nagkakahalaga ng $87,000.",
             },
             {
               title: 'Step 2: Floating Dock Integration at Arkitektura ng Storage',
               detail:
-                'Nagtrabaho si Voss sa mga marine architect ng Afarer para magdisenyo ng two-tier floating board valet system. Ang mas mababang tier ay may 15 board na nakausli ang harap para sa agarang access ng guest; ang itaas na tier ay nag-imbak ng 15 board sa custom neoprene sling para maiwasan ang UV degradation. Ang dock, na ginawa sa Phuket at ipinadala sa modular na seksyon, ay nagkhalaga ng $42K kabilang ang installasyon. Bawat board ay may NFC tag na waterproof chip na nakakonekta sa RMS ng resort para sa automated na check-in/check-out, na nagbawas ng trabaho ng staff nang 3.2 oras kada araw kumpara sa nakaraang paper manifest system.',
+                'Nagtrabaho si Voss sa mga marine architect ng OLagoon para magdisenyo ng two-tier floating board valet system. Ang mas mababang tier ay may 15 board na nakausli ang harap para sa agarang access ng guest; ang itaas na tier ay nag-imbak ng 15 board sa custom neoprene sling para maiwasan ang UV degradation. Ang dock, na ginawa sa Phuket at ipinadala sa modular na seksyon, ay nagkhalaga ng $42K kabilang ang installasyon. Bawat board ay may NFC tag na waterproof chip na nakakonekta sa RMS ng resort para sa automated na check-in/check-out, na nagbawas ng trabaho ng staff nang 3.2 oras kada araw kumpara sa nakaraang paper manifest system.',
             },
             {
               title: 'Step 3: Butler SUP Training at Concierge Integration',
               detail:
-                'Noong Nobyembre 2024, nagsagawa ang training team ng Afarer ng 4-araw na intensive program para sa 8 resort butler at 4 dive center staff sa Coco Private Island. Sakop ng training ang SUP etiquette para sa ultra-wealthy na guest (silent launch, board-side fruit service, GoPro mounting point). Nakumpleto ng bawat butler ang 15 supervised na guest session. Isinama ni Voss ang SUP reservation sa villa pre-arrival concierge app, na nagpapahintulot sa guest na piliin nang maaga ang kulay ng board at i-schedule ang sunrise/lagoon/reef route. Umabot sa 28% ang adoption rate sa unang 2 buwan.',
+                'Noong Nobyembre 2024, nagsagawa ang training team ng OLagoon ng 4-araw na intensive program para sa 8 resort butler at 4 dive center staff sa Coco Private Island. Sakop ng training ang SUP etiquette para sa ultra-wealthy na guest (silent launch, board-side fruit service, GoPro mounting point). Nakumpleto ng bawat butler ang 15 supervised na guest session. Isinama ni Voss ang SUP reservation sa villa pre-arrival concierge app, na nagpapahintulot sa guest na piliin nang maaga ang kulay ng board at i-schedule ang sunrise/lagoon/reef route. Umabot sa 28% ang adoption rate sa unang 2 buwan.',
             },
             {
               title: 'Step 4: Influencer Launch at Sukat na ROI sa Social Equity',
@@ -5721,22 +5721,22 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Artistic Pattern Transfer at Innovation ng Materyales',
               detail:
-                "Simula Pebrero 2025, gumugol ang R&D team ng Afarer at ang atelier ng Verlaine ng 10 linggo sa pagdevelop ng direct-to-PVC sublimation process na kayang muling likhain ang 14-kulay na 'Geometrica' pattern ng Verlaine sa 1,200 DPI nang walang pagdurugo ng kulay o pagkasira sa pagstretch. Pagkatapos ng 18 bigong sample (pagbaluktot ng pattern sa kurbada ng gilid), gumawa ang mga engineer ng Afarer ng 7-panel die-cut template na nagpahintulot ng pre-printing sa flat na PVC sheet bago ang fusion lamination. Bawat board ay nangailangan ng 11.5 oras ng production time (kumpara sa 3 oras para sa standard na board). Ang huling surface ay tumanggap ng matte anti-slip coating na eksklusibong ginawa para sa Verlaine.",
+                "Simula Pebrero 2025, gumugol ang R&D team ng OLagoon at ang atelier ng Verlaine ng 10 linggo sa pagdevelop ng direct-to-PVC sublimation process na kayang muling likhain ang 14-kulay na 'Geometrica' pattern ng Verlaine sa 1,200 DPI nang walang pagdurugo ng kulay o pagkasira sa pagstretch. Pagkatapos ng 18 bigong sample (pagbaluktot ng pattern sa kurbada ng gilid), gumawa ang mga engineer ng OLagoon ng 7-panel die-cut template na nagpahintulot ng pre-printing sa flat na PVC sheet bago ang fusion lamination. Bawat board ay nangailangan ng 11.5 oras ng production time (kumpara sa 3 oras para sa standard na board). Ang huling surface ay tumanggap ng matte anti-slip coating na eksklusibong ginawa para sa Verlaine.",
             },
             {
               title: 'Step 2: Packaging, Unboxing at Retail Presentation Strategy',
               detail:
-                'Hindi tumanggap si Rinaldi sa hindi flagship-level na unboxing experience. Nakipagtulungan ang Afarer sa mga packaging designer ng Verlaine para lumikha ng rigid travel case na balot sa signature ecru canvas ng Verlaine na may leather corner guard (gawa sa sariling leather goods workshop ng Verlaine sa Tuscany). Ang case ay naglaman ng SUP, carbon-fiber 3-piece paddle na may Verlaine monogram, custom pump na may pressure gauge na naka-engrave ng Geometrica motif, at numbered certificate of authenticity sa foil-stamped na sobre. Ang kabuuang packaging cost bawat unit ay EUR 340. Ang kumpletong set ay tumitimbang ng 26 kg — sapat na magaan para sa first-class airline check-in.',
+                'Hindi tumanggap si Rinaldi sa hindi flagship-level na unboxing experience. Nakipagtulungan ang OLagoon sa mga packaging designer ng Verlaine para lumikha ng rigid travel case na balot sa signature ecru canvas ng Verlaine na may leather corner guard (gawa sa sariling leather goods workshop ng Verlaine sa Tuscany). Ang case ay naglaman ng SUP, carbon-fiber 3-piece paddle na may Verlaine monogram, custom pump na may pressure gauge na naka-engrave ng Geometrica motif, at numbered certificate of authenticity sa foil-stamped na sobre. Ang kabuuang packaging cost bawat unit ay EUR 340. Ang kumpletong set ay tumitimbang ng 26 kg — sapat na magaan para sa first-class airline check-in.',
             },
             {
               title: 'Step 3: VIP Client Preview at Appointment-Only Sales Model',
               detail:
-                'Inilunsad ang collection noong Mayo 8, 2025, sa Milan Design Week na may private appointment-only preview sa Via Monte Napoleone flagship ng Verlaine. 200 client lamang ang tumanggap ng embossed na imbitasyon. Bawat 45-minutong appointment ay may live SUP demonstration sa 40,000-liter custom-built na pool na inilagay sa courtyard ng store, kung saan ipinakita ng brand ambassador ng Afarer ang tigas ng board (ini-inflate hanggang 18 PSI gamit ang Verlaine-branded pump). 127 unit ang na-pre-order sa loob ng Design Week, na lumikha ng EUR 1.62M sa deposito. Itinakda ni Rinaldi ang social media promotion sa private client WhatsApp channel ng Verlaine lamang.',
+                'Inilunsad ang collection noong Mayo 8, 2025, sa Milan Design Week na may private appointment-only preview sa Via Monte Napoleone flagship ng Verlaine. 200 client lamang ang tumanggap ng embossed na imbitasyon. Bawat 45-minutong appointment ay may live SUP demonstration sa 40,000-liter custom-built na pool na inilagay sa courtyard ng store, kung saan ipinakita ng brand ambassador ng OLagoon ang tigas ng board (ini-inflate hanggang 18 PSI gamit ang Verlaine-branded pump). 127 unit ang na-pre-order sa loob ng Design Week, na lumikha ng EUR 1.62M sa deposito. Itinakda ni Rinaldi ang social media promotion sa private client WhatsApp channel ng Verlaine lamang.',
             },
             {
               title: 'Step 4: Global Fulfillment, Concierge Delivery at Sell-Out Performance',
               detail:
-                'Naipadala ang mga order mula Hunyo 2025, na may white-glove delivery sa 34 bansa. Bawat delivery ay may 90-minutong virtual session kasama ang instructor ng Afarer na personal na ipinakilala sa client sa pamamagitan ng WhatsApp video. Pagsapit ng Nobyembre 2025, 468 sa 500 unit ang nabenta (93.6% sell-through), na lumikha ng EUR 5.85M kita sa buong retail nang walang diskwento. Ang natitirang 32 unit ay itinago para sa Archives collection ng Verlaine. Ipinagulat ni Rinaldi na 41% ng buyer ay bago sa Verlaine — nakamit sa pamamagitan ng SUP collection — na may average na karagdagang gastos na EUR 3,200 sa ready-to-wear sa panahon ng purchase appointment.',
+                'Naipadala ang mga order mula Hunyo 2025, na may white-glove delivery sa 34 bansa. Bawat delivery ay may 90-minutong virtual session kasama ang instructor ng OLagoon na personal na ipinakilala sa client sa pamamagitan ng WhatsApp video. Pagsapit ng Nobyembre 2025, 468 sa 500 unit ang nabenta (93.6% sell-through), na lumikha ng EUR 5.85M kita sa buong retail nang walang diskwento. Ang natitirang 32 unit ay itinago para sa Archives collection ng Verlaine. Ipinagulat ni Rinaldi na 41% ng buyer ay bago sa Verlaine — nakamit sa pamamagitan ng SUP collection — na may average na karagdagang gastos na EUR 3,200 sa ready-to-wear sa panahon ng purchase appointment.',
             },
           ],
           results: [
@@ -5748,8 +5748,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Luxury Client ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Luxury Client ang OLagoon',
       items: [
         {
           title: 'Sensibilidad sa Disenyo',
@@ -5777,38 +5777,38 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Anong mga opsyon sa customization ang available para sa luxury SUP collection?',
         answer:
-          'Nag-aalok ang Afarer ng kumpletong customization kabilang ang custom na pagbuo ng kulay, brand-specific na tono, eleganteng pattern, simbolo ng brand, signature artwork, premium PVC construction, custom EVA deck texture, pinong hardware, at personalized packaging.',
+          'Nag-aalok ang OLagoon ng kumpletong customization kabilang ang custom na pagbuo ng kulay, brand-specific na tono, eleganteng pattern, simbolo ng brand, signature artwork, premium PVC construction, custom EVA deck texture, pinong hardware, at personalized packaging.',
       },
       {
         question: 'Ano ang minimum order quantity para sa premium custom SUP production?',
         answer:
-          'Dalubhasa ang Afarer sa small batch luxury production na may karaniwang proyektong 10 hanggang 50 set. Ginagawa itong perpekto para sa mga private island owner, yacht club, luxury resort, at eksklusibong lifestyle brand.',
+          'Dalubhasa ang OLagoon sa small batch luxury production na may karaniwang proyektong 10 hanggang 50 set. Ginagawa itong perpekto para sa mga private island owner, yacht club, luxury resort, at eksklusibong lifestyle brand.',
       },
       {
         question: 'Gaano katagal ang proseso ng disenyo at produksiyon para sa custom SUP collection?',
         answer:
-          'Nakadepende ang timeline sa komplikasyon at antas ng customization. Nagtatrabaho nang malapit ang Afarer sa bawat client mula sa pagdevelop ng konsepto hanggang sa produksiyon, na karaniwang tinatapos ang luxury collection sa loob ng timeframe na tumutugma sa kinakailangan ng proyekto at pangangailangan sa panahon.',
+          'Nakadepende ang timeline sa komplikasyon at antas ng customization. Nagtatrabaho nang malapit ang OLagoon sa bawat client mula sa pagdevelop ng konsepto hanggang sa produksiyon, na karaniwang tinatapos ang luxury collection sa loob ng timeframe na tumutugma sa kinakailangan ng proyekto at pangangailangan sa panahon.',
       },
       {
         question: 'Pwede bang idisenyo ang mga SUP board para tumugma sa umiiral na branding at aesthetic ng property?',
         answer:
-          'Oo, dalubhasa ang Afarer sa paglikha ng collection na tuluyang nakakasama sa aesthetic ng property. Kaya naming tugmain ang umiiral na kulay ng brand, tema ng arkitektura, at elemento ng interior design para sa cohesive na luxury environment.',
+          'Oo, dalubhasa ang OLagoon sa paglikha ng collection na tuluyang nakakasama sa aesthetic ng property. Kaya naming tugmain ang umiiral na kulay ng brand, tema ng arkitektura, at elemento ng interior design para sa cohesive na luxury environment.',
       },
       {
         question: 'Anong mga materyales ang ginagamit para sa luxury-grade na SUP board?',
         answer:
-          'Gumagamit ang Afarer ng premium PVC construction para sa eleganteng itsura at tibay, high-end na EVA deck material na may custom texture at kulay, at pinong premium metal component para sa hardware — lahat pinili para sa kanilang aesthetic na kalidad at marine-grade na performance.',
+          'Gumagamit ang OLagoon ng premium PVC construction para sa eleganteng itsura at tibay, high-end na EVA deck material na may custom texture at kulay, at pinong premium metal component para sa hardware — lahat pinili para sa kanilang aesthetic na kalidad at marine-grade na performance.',
       },
       {
         question: 'Nag-aalok ba kayo ng custom packaging para sa VIP SUP collection?',
         answer:
-          'Oo, nagbibigay ang Afarer ng VIP custom packaging kabilang ang branded presentation box, luxury storage bag, personalized label, at limited edition presentation. Ang unboxing experience ay idinisenyo para tumugma sa eksklusibidad ng mismong produkto.',
+          'Oo, nagbibigay ang OLagoon ng VIP custom packaging kabilang ang branded presentation box, luxury storage bag, personalized label, at limited edition presentation. Ang unboxing experience ay idinisenyo para tumugma sa eksklusibidad ng mismong produkto.',
       },
     ],
     cta: {
-      title: 'Lumikha ng Iyong Eksklusibong Water Lifestyle Collection sa Afarer',
+      title: 'Lumikha ng Iyong Eksklusibong Water Lifestyle Collection sa OLagoon',
       subtitle:
-        'Natatangi ang iyong property. Dapat natatangi rin ang iyong kagamitan. Hayaang tulungan ka ng Afarer na bumuo ng signature SUP collection.',
+        'Natatangi ang iyong property. Dapat natatangi rin ang iyong kagamitan. Hayaang tulungan ka ng OLagoon na bumuo ng signature SUP collection.',
       primaryAction: {
         text: 'Simulan ang Iyong Project',
       },
@@ -5822,7 +5822,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Destination Water Sports Equipment Supplier | {SITE}',
       description:
-        'Nagbibigay ang Afarer ng destination water sports solution para sa mga tourism board, public park, at waterfront project. Commercial SUP fleet, eco-friendly na kagamitan, suporta sa government project, at large-scale na OEM supply.',
+        'Nagbibigay ang OLagoon ng destination water sports solution para sa mga tourism board, public park, at waterfront project. Commercial SUP fleet, eco-friendly na kagamitan, suporta sa government project, at large-scale na OEM supply.',
     },
     hero: {
       tagline:
@@ -5916,7 +5916,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pagpaplano ng Destinasyon',
           detail:
-            'Nagdisenyo ang Afarer ng kumpletong sistema ng aktibidad sa tubig kabilang ang pagpaplano ng dami ng fleet, mga zone ng aktibidad, at configuration ng kagamitan.',
+            'Nagdisenyo ang OLagoon ng kumpletong sistema ng aktibidad sa tubig kabilang ang pagpaplano ng dami ng fleet, mga zone ng aktibidad, at configuration ng kagamitan.',
         },
         {
           title: 'Supply ng Commercial na Kagamitan',
@@ -5954,17 +5954,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Specipikasyon ng Silent Fleet at Kahilingan sa Biodegradable na Materyales',
               detail:
-                'Noong Setyembre 2024, naglabas si Kovacic ng RFP na nangangailangan ng (1) zero single-use plastic sa pagbuo ng board, (2) buong recyclability sa katapusan ng buhay, at (3) sertipikasyon ng tahimik na operasyon na mas mababa sa 25 dB sa 5 m. Panalo ang Afarer sa EcoTouring 12\'6" X, na ginawa mula sa bio-sourced drop-stitch yarn (polymer na batay sa castor oil, 42% renewable content) at natural cork deck pad (FSC-certified na Portuguese cork). Bawat board ay may sealed bamboo stringer para sa tigas nang walang petroleum-based na component. Nagorder ang LBTB ng 200 board (EUR 246K kabuuan) bukod pa ang 12 electric inflation station na pinapagana ng solar charging kiosk sa tabing-lawa.',
+                'Noong Setyembre 2024, naglabas si Kovacic ng RFP na nangangailangan ng (1) zero single-use plastic sa pagbuo ng board, (2) buong recyclability sa katapusan ng buhay, at (3) sertipikasyon ng tahimik na operasyon na mas mababa sa 25 dB sa 5 m. Panalo ang OLagoon sa EcoTouring 12\'6" X, na ginawa mula sa bio-sourced drop-stitch yarn (polymer na batay sa castor oil, 42% renewable content) at natural cork deck pad (FSC-certified na Portuguese cork). Bawat board ay may sealed bamboo stringer para sa tigas nang walang petroleum-based na component. Nagorder ang LBTB ng 200 board (EUR 246K kabuuan) bukod pa ang 12 electric inflation station na pinapagana ng solar charging kiosk sa tabing-lawa.',
             },
             {
               title: 'Step 2: 6-Km GPS-Guided na Eco-Route na may 12 Interpretive Waypoint',
               detail:
-                "Sa taglamig 2024-2025, minapa ng LBTB ang 6.2 km perimeter route na may 12 interpretive na punto ng paghinto (geothermal spring ng Bled Castle, mekanismo ng kampana ng St. Mary's Church, zone ng sedimentation ng isla). Isinama ng Afarer ang waterproof GPS-enabled audio guide unit (matibay na IP68 tablet sa deck-mount cradle) na naghahatid ng 90-segundong narinasyon sa bawat waypoint sa 7 wika. Idinisenyo ang route para iwasan ang sensitibong pugad ng ibon (site ng great crested grebe, sarado Nob-Mar). Nag-install ang LBTB ng 12 bamboo-marker buoy sa halagang EUR 18K, pumalit sa 32 umiiral na motorboat buoy.",
+                "Sa taglamig 2024-2025, minapa ng LBTB ang 6.2 km perimeter route na may 12 interpretive na punto ng paghinto (geothermal spring ng Bled Castle, mekanismo ng kampana ng St. Mary's Church, zone ng sedimentation ng isla). Isinama ng OLagoon ang waterproof GPS-enabled audio guide unit (matibay na IP68 tablet sa deck-mount cradle) na naghahatid ng 90-segundong narinasyon sa bawat waypoint sa 7 wika. Idinisenyo ang route para iwasan ang sensitibong pugad ng ibon (site ng great crested grebe, sarado Nob-Mar). Nag-install ang LBTB ng 12 bamboo-marker buoy sa halagang EUR 18K, pumalit sa 32 umiiral na motorboat buoy.",
             },
             {
               title: 'Step 3: Transition Program at Certification para sa Rental Operator',
               detail:
-                'Sa off-season na Enero-Marso 2025, nagsagawa ang LBTB ng mandatoryong transition program para sa lahat ng 14 lisensyadong boat rental operator. Nagbigay ang Afarer ng 4-araw na SUP guiding certification sa 36 operator at staff, sumasaklaw sa kaalaman sa route, emergency response, at paghahatid ng environmental interpretation. Nag-alok ang LBTB ng EUR 4,000 subsidy bawat operator para sa paglipat mula motorboat patungong SUP rental, na pinondohan ng Green Transition grant ng Slovenian Ministry of Tourism (EUR 280K kabuuan). Pagsapit ng Abril 1, 11 sa 14 operator ang ganap nang lumipat; ang natitirang 3 ay nangako ng hybrid operation na may phase-out schedule sa 2026.',
+                'Sa off-season na Enero-Marso 2025, nagsagawa ang LBTB ng mandatoryong transition program para sa lahat ng 14 lisensyadong boat rental operator. Nagbigay ang OLagoon ng 4-araw na SUP guiding certification sa 36 operator at staff, sumasaklaw sa kaalaman sa route, emergency response, at paghahatid ng environmental interpretation. Nag-alok ang LBTB ng EUR 4,000 subsidy bawat operator para sa paglipat mula motorboat patungong SUP rental, na pinondohan ng Green Transition grant ng Slovenian Ministry of Tourism (EUR 280K kabuuan). Pagsapit ng Abril 1, 11 sa 14 operator ang ganap nang lumipat; ang natitirang 3 ay nangako ng hybrid operation na may phase-out schedule sa 2026.',
             },
             {
               title: 'Step 4: Earth Day Launch, Resulta ng Season at UNESCO Compliance',
@@ -5992,17 +5992,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Pag-mapa ng Route, Risk Assessment at Compliance sa Marine Zoning',
               detail:
-                "Mula Nobyembre 2024 hanggang Pebrero 2025, nagtrabaho ang team ni Delacroix sa mga route specialist ng Afarer at sa French Office of Biodiversity (OFB) para suriin at iuri ang 50 km baybaying-dagat. Natukoy nila ang 5 route: (1) Cap d'Antibes hanggang Baie des Milliardaires (4.2 km, intermediate), (2) Ile Sainte-Marguerite Circumnavigation (7.1 km, advanced), (3) Calanque de Maubois (2.8 km, beginner), (4) Villefranche-sur-Mer Marine Reserve (3.5 km, guided-only), at (5) Menton hanggang Cap Martin Sunset Paddle (5.5 km, intermediate). Bawat route ay GPS-mapped na may 12-15 waypoint kabilang ang mandatoryong pahingahan sa mga naaprubahang private beach club na nagbabayad ng taunang partnership fee na EUR 2,500.",
+                "Mula Nobyembre 2024 hanggang Pebrero 2025, nagtrabaho ang team ni Delacroix sa mga route specialist ng OLagoon at sa French Office of Biodiversity (OFB) para suriin at iuri ang 50 km baybaying-dagat. Natukoy nila ang 5 route: (1) Cap d'Antibes hanggang Baie des Milliardaires (4.2 km, intermediate), (2) Ile Sainte-Marguerite Circumnavigation (7.1 km, advanced), (3) Calanque de Maubois (2.8 km, beginner), (4) Villefranche-sur-Mer Marine Reserve (3.5 km, guided-only), at (5) Menton hanggang Cap Martin Sunset Paddle (5.5 km, intermediate). Bawat route ay GPS-mapped na may 12-15 waypoint kabilang ang mandatoryong pahingahan sa mga naaprubahang private beach club na nagbabayad ng taunang partnership fee na EUR 2,500.",
             },
             {
               title: 'Step 2: Premium Fleet Specification at Integration sa Hotel Concierge',
               detail:
-                "Nagorder ang FRTCB ng 350 Afarer Explorer 11'6\" X board sa custom na 'Mediterranean Breeze' color palette (terracotta, olive, cream) na may integrated GoPro mount, groove ng waterproof phone case, at champagne-bottle holder (custom D-ring net pocket sa harap ng deck pad). Bawat board ay may kasamang carbon-fiber 4-piece paddle na kasya sa Peli-case travel package. Bumuo ang software team ng Afarer ng white-label mobile web app na nagpapahintulot sa mga hotel concierge na i-book ang board, tingnan ang real-time na kondisyon ng route sa pamamagitan ng 6 konektadong weather buoy, at mag-trigger ng emergency alert. Ang kabuuang order ay EUR 429K.",
+                "Nagorder ang FRTCB ng 350 OLagoon Explorer 11'6\" X board sa custom na 'Mediterranean Breeze' color palette (terracotta, olive, cream) na may integrated GoPro mount, groove ng waterproof phone case, at champagne-bottle holder (custom D-ring net pocket sa harap ng deck pad). Bawat board ay may kasamang carbon-fiber 4-piece paddle na kasya sa Peli-case travel package. Bumuo ang software team ng OLagoon ng white-label mobile web app na nagpapahintulot sa mga hotel concierge na i-book ang board, tingnan ang real-time na kondisyon ng route sa pamamagitan ng 6 konektadong weather buoy, at mag-trigger ng emergency alert. Ang kabuuang order ay EUR 429K.",
             },
             {
               title: 'Step 3: Certification ng Guide, Safety Protocol at Network ng Partner Beach Club',
               detail:
-                'Noong Marso 2025, nagsagawa ang Afarer ng 5 rehiyonal na training session sa Nice Yacht Club, na nag-certify sa 62 guide (23 hotel activity staff, 39 independent water sports operator). Kasama sa certification ang FRTCB-specific na nilalaman: pagkilala sa pattern ng hangin sa Mediterranean (contingency sa Mistral/Libeccio), first aid sa jellyfish, at standard ng komunikasyon sa luxury guest. Nagtatag si Delacroix ng safety protocol na nangangailangan ng mandatoryong life vest para sa lahat ng guest (RFD NRS Orion vest na may apitan at kutsilyo), board-to-board communication sa pamamagitan ng waterproof VHF radio, at maximum na laki ng grupo na 12 guest bawat 2 guide.',
+                'Noong Marso 2025, nagsagawa ang OLagoon ng 5 rehiyonal na training session sa Nice Yacht Club, na nag-certify sa 62 guide (23 hotel activity staff, 39 independent water sports operator). Kasama sa certification ang FRTCB-specific na nilalaman: pagkilala sa pattern ng hangin sa Mediterranean (contingency sa Mistral/Libeccio), first aid sa jellyfish, at standard ng komunikasyon sa luxury guest. Nagtatag si Delacroix ng safety protocol na nangangailangan ng mandatoryong life vest para sa lahat ng guest (RFD NRS Orion vest na may apitan at kutsilyo), board-to-board communication sa pamamagitan ng waterproof VHF radio, at maximum na laki ng grupo na 12 guest bawat 2 guide.',
             },
             {
               title: 'Step 4: Cannes Film Festival Launch at Mabilis na Paglaki ng Season',
@@ -6019,13 +6019,13 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Proyekto ng Turismo ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Proyekto ng Turismo ang OLagoon',
       items: [
         {
           title: 'Kaligtasan',
           description:
-            'Idinisenyo para sa lahat. Tinitiyak ng Afarer na tumutugma ang kagamitan sa pinakamataas na standard ng kaligtasan para sa sari-saring publikong user.',
+            'Idinisenyo para sa lahat. Tinitiyak ng OLagoon na tumutugma ang kagamitan sa pinakamataas na standard ng kaligtasan para sa sari-saring publikong user.',
         },
         {
           title: 'Sustainability',
@@ -6048,7 +6048,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Anong sertipikasyon ng kaligtasan ang may kaugnayan sa kagamitan ng public SUP fleet?',
         answer:
-          'Nagbibigay ang Afarer ng specification ng produkto, impormasyon ng performance, at dokumentasyon ng compliance na angkop para sa government procurement. Sinusuportahan namin ang mga public project ng impormasyon sa materyales at sertipikasyon ng kalidad na kailangan sa proseso ng tender.',
+          'Nagbibigay ang OLagoon ng specification ng produkto, impormasyon ng performance, at dokumentasyon ng compliance na angkop para sa government procurement. Sinusuportahan namin ang mga public project ng impormasyon sa materyales at sertipikasyon ng kalidad na kailangan sa proseso ng tender.',
       },
       {
         question: 'Ilang SUP board ang kailangan para sa public water recreation program?',
@@ -6058,28 +6058,28 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Pwede bang i-customize ang mga SUP board gamit ang branding ng lungsod o destinasyon?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang customization ng destination branding kabilang ang logo ng lungsod, graphic ng identity ng turismo, lokal na elemento ng disenyo, at theme-specific na artwork. Nakakatulong itong lumikha ng signature na karanasan sa tubig na nagpapalakas ng identity ng destinasyon.',
+          'Oo, sinusuportahan ng OLagoon ang customization ng destination branding kabilang ang logo ng lungsod, graphic ng identity ng turismo, lokal na elemento ng disenyo, at theme-specific na artwork. Nakakatulong itong lumikha ng signature na karanasan sa tubig na nagpapalakas ng identity ng destinasyon.',
       },
       {
-        question: 'Anong eco-friendly na feature ang iniaalok ng mga SUP board ng Afarer?',
+        question: 'Anong eco-friendly na feature ang iniaalok ng mga SUP board ng OLagoon?',
         answer:
-          'Nakatuon ang Afarer sa matibay na materyales na nagpapahaba ng buhay ng produkto at nagbabawas ng dalas ng replacement, na nagpapababa ng pagkonsumo ng yaman at basura. Nagbibigay din kami ng dokumentasyon ng kapaligiran at impormasyon sa compliance para suportahan ang mga sustenableng inisyatibo ng turismo.',
+          'Nakatuon ang OLagoon sa matibay na materyales na nagpapahaba ng buhay ng produkto at nagbabawas ng dalas ng replacement, na nagpapababa ng pagkonsumo ng yaman at basura. Nagbibigay din kami ng dokumentasyon ng kapaligiran at impormasyon sa compliance para suportahan ang mga sustenableng inisyatibo ng turismo.',
       },
       {
-        question: 'Paano sinusuportahan ng Afarer ang proseso ng government procurement at tender?',
+        question: 'Paano sinusuportahan ng OLagoon ang proseso ng government procurement at tender?',
         answer:
-          'Nagbibigay ang Afarer ng komprehensibong suporta kabilang ang paghahanda ng technical specification, dokumentasyon ng performance ng produkto, opsyon ng configuration, tulong sa project proposal, rekomendasyon ng fleet, iskedyul ng implementasyon, at koordinasyon ng malalaking order para sa production at delivery.',
+          'Nagbibigay ang OLagoon ng komprehensibong suporta kabilang ang paghahanda ng technical specification, dokumentasyon ng performance ng produkto, opsyon ng configuration, tulong sa project proposal, rekomendasyon ng fleet, iskedyul ng implementasyon, at koordinasyon ng malalaking order para sa production at delivery.',
       },
       {
         question: 'Anong maintenance ang kailangan para sa mga public SUP fleet sa munisipal na setting?',
         answer:
-          'Nagbibigay ang Afarer ng kumpletong suporta sa operasyon kabilang ang gabay sa maintenance, proseso ng inspeksyon, proseso ng replacement ng component, availability ng spare part, at pagpaplano ng pamamahala ng fleet. Tinitiyak nito ang pangmatagalang maaasahan para sa mga public recreation program.',
+          'Nagbibigay ang OLagoon ng kumpletong suporta sa operasyon kabilang ang gabay sa maintenance, proseso ng inspeksyon, proseso ng replacement ng component, availability ng spare part, at pagpaplano ng pamamahala ng fleet. Tinitiyak nito ang pangmatagalang maaasahan para sa mga public recreation program.',
       },
     ],
     cta: {
-      title: 'Lumikha ng Iyong Destination Water Experience sa Afarer',
+      title: 'Lumikha ng Iyong Destination Water Experience sa OLagoon',
       subtitle:
-        'May potensyal sa turismo ang iyong mga yaman sa tubig. Tinutulungan ng Afarer ang mga lawa, ilog, waterfront, at public park na gawing makakalimutang outdoor destination.',
+        'May potensyal sa turismo ang iyong mga yaman sa tubig. Tinutulungan ng OLagoon ang mga lawa, ilog, waterfront, at public park na gawing makakalimutang outdoor destination.',
       primaryAction: {
         text: 'Simulan ang Iyong Project',
       },
@@ -6093,7 +6093,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Kids SUP Manufacturer | {SITE}',
       description:
-        'Nagbibigay ang Afarer ng ligtas na kids SUP solution para sa mga summer camp, paaralan, at youth adventure program. Paddle board ng mga bata, kagamitan sa Giant SUP, commercial fleet, at custom OEM solution.',
+        'Nagbibigay ang OLagoon ng ligtas na kids SUP solution para sa mga summer camp, paaralan, at youth adventure program. Paddle board ng mga bata, kagamitan sa Giant SUP, commercial fleet, at custom OEM solution.',
     },
     hero: {
       tagline: 'Ligtas at Masaya na SUP Solution para sa mga Kids Adventure Camp, Paaralan at Youth Outdoor Program',
@@ -6185,7 +6185,7 @@ const tl: Record<string, SolutionOverride> = {
         {
           title: 'Pagpili ng Youth Product',
           detail:
-            'Inirekomenda ng Afarer ang mga kids SUP model, stable na beginner board, at kagamitan ng instructor na angkop sa mga age group ng camp.',
+            'Inirekomenda ng OLagoon ang mga kids SUP model, stable na beginner board, at kagamitan ng instructor na angkop sa mga age group ng camp.',
         },
         {
           title: 'Customization ng Kaligtasan',
@@ -6223,17 +6223,17 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Kids-Specific na Disenyo ng SUP (Junior Explorer 9\'6" X)',
               detail:
-                'Noong Hulyo 2024, nakipagtulungan si Connolly sa product team ng Afarer para makabuo ng purpose-built na SUP ng mga bata. Pagkatapos ng 3 pag-ulit ng prototype, pininal nila ang Junior Explorer 9\'6" X (28" lapad, 4" kapal, 180L volume) — 25% mas makitid at 40% mas magaan kumpara sa standard na board. Pangunahing feature: recessed deck pad (1.5" baba) na nagpapababa ng center of gravity nang 22%; indicator ng saklaw ng timbang (color-coded na guhit para sa 18-55 kg); at dalawang safety grab loop bawat gilid. Nagorder si Connolly ng 120 board na may deck graphic na branded ng paaralan (6 kulay ng paaralan, 20 bawat isa). Ang prototyping at pagsubok ay nagkhalaga ng $14K; ang production order ay $96K.',
+                'Noong Hulyo 2024, nakipagtulungan si Connolly sa product team ng OLagoon para makabuo ng purpose-built na SUP ng mga bata. Pagkatapos ng 3 pag-ulit ng prototype, pininal nila ang Junior Explorer 9\'6" X (28" lapad, 4" kapal, 180L volume) — 25% mas makitid at 40% mas magaan kumpara sa standard na board. Pangunahing feature: recessed deck pad (1.5" baba) na nagpapababa ng center of gravity nang 22%; indicator ng saklaw ng timbang (color-coded na guhit para sa 18-55 kg); at dalawang safety grab loop bawat gilid. Nagorder si Connolly ng 120 board na may deck graphic na branded ng paaralan (6 kulay ng paaralan, 20 bawat isa). Ang prototyping at pagsubok ay nagkhalaga ng $14K; ang production order ay $96K.',
             },
             {
               title: 'Step 2: Pagdevelop ng Kurikulum na Tugma sa ACARA',
               detail:
-                "Nagtrabaho si Connolly sa mga education consultant ng Afarer at sa curriculum authority ng Queensland para isulat ang 'Paddle & Discover,' isang 14-session na SUP exploration program na tugma sa Australian Curriculum v9.0 (Science, HPE, Geography). Kasama sa session ang pag-sample ng water bug (gamit ang deck-mounted na collection tray), pagsukat ng dissolved oxygen (portable meter na nakakabit sa D-ring), eksperimento sa buoyancy at displacement, at pag-mapa ng ecosystem ng Everglades. May 3 antas ng hirap ang program: Eels (Prep-Year 1, pool/tahimik na tubig), Turtles (Years 2-3, protektadong inlet), at Stingrays (Years 4-6, bukas na Everglades). Nag-print ang Afarer ng weatherproof na cue card para sa bawat antas.",
+                "Nagtrabaho si Connolly sa mga education consultant ng OLagoon at sa curriculum authority ng Queensland para isulat ang 'Paddle & Discover,' isang 14-session na SUP exploration program na tugma sa Australian Curriculum v9.0 (Science, HPE, Geography). Kasama sa session ang pag-sample ng water bug (gamit ang deck-mounted na collection tray), pagsukat ng dissolved oxygen (portable meter na nakakabit sa D-ring), eksperimento sa buoyancy at displacement, at pag-mapa ng ecosystem ng Everglades. May 3 antas ng hirap ang program: Eels (Prep-Year 1, pool/tahimik na tubig), Turtles (Years 2-3, protektadong inlet), at Stingrays (Years 4-6, bukas na Everglades). Nag-print ang OLagoon ng weatherproof na cue card para sa bawat antas.",
             },
             {
               title: 'Step 3: Certification ng Guro, Risk Assessment at Pagsasama ng Sun Safety',
               detail:
-                "Sa loob ng 3 katapusan ng linggo noong Setyembre 2024, nag-certify ang training team ng Afarer sa 14 guro ng paaralan (na walang dating karanasan sa SUP) sa pamamagitan ng modified IRF Level 1 course na nakatuon sa kaligtasan ng bata: pamamahala ng grupo gamit ang senyales ng apitan (3 tunog = huminto, 5 = emergency), ang 'koala dismount' (bumabagsak ang bata sa board mula sa pagkakaupo), at pagbawi mula sa pagbaliktad ng bata na mas mababa sa 30 kg. Inaprubahan ng Department of Education ng Queensland ang SUP program sa ilalim ng Outdoor Activity Risk Assessment framework ng estado, na nangangailangan ng ratio na 1:6 instructor-student sa tahimik na tubig (<0.3 m alon, <12 knot hangin). Isinama ang sun safety (rash vest, SPF 50+, neck flap) bilang kahilingan sa session-0.",
+                "Sa loob ng 3 katapusan ng linggo noong Setyembre 2024, nag-certify ang training team ng OLagoon sa 14 guro ng paaralan (na walang dating karanasan sa SUP) sa pamamagitan ng modified IRF Level 1 course na nakatuon sa kaligtasan ng bata: pamamahala ng grupo gamit ang senyales ng apitan (3 tunog = huminto, 5 = emergency), ang 'koala dismount' (bumabagsak ang bata sa board mula sa pagkakaupo), at pagbawi mula sa pagbaliktad ng bata na mas mababa sa 30 kg. Inaprubahan ng Department of Education ng Queensland ang SUP program sa ilalim ng Outdoor Activity Risk Assessment framework ng estado, na nangangailangan ng ratio na 1:6 instructor-student sa tahimik na tubig (<0.3 m alon, <12 knot hangin). Isinama ang sun safety (rash vest, SPF 50+, neck flap) bilang kahilingan sa session-0.",
             },
             {
               title: 'Step 4: Rollout sa Term 1 2025 at Nasusukat na Resulta ng Mag-aaral',
@@ -6261,7 +6261,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Pagkuha ng Fleet at Saklaw ng Laki ng Board ayon sa Edad',
               detail:
-                'Noong Enero 2025, pinili ni Whitfield ang Afarer Junior Explorer 9\'6" X para sa camper na edad 8-11 (40 board) at ang Explorer 10\'8" X para sa edad 12-15 (30 board), na may kabuuang $58K. Tiniyak niya ang bawat board na may dalawang bow-mounted na D-ring para sa pagkabit ng GoPro/collection tray at deck bungee para sa waterproof na nature journal (Rite in the Rain, spiral-bound). Bawat board ay laser-engraved ng camper ID number at logo ng raccoon ng Camp Keowee.',
+                'Noong Enero 2025, pinili ni Whitfield ang OLagoon Junior Explorer 9\'6" X para sa camper na edad 8-11 (40 board) at ang Explorer 10\'8" X para sa edad 12-15 (30 board), na may kabuuang $58K. Tiniyak niya ang bawat board na may dalawang bow-mounted na D-ring para sa pagkabit ng GoPro/collection tray at deck bungee para sa waterproof na nature journal (Rite in the Rain, spiral-bound). Bawat board ay laser-engraved ng camper ID number at logo ng raccoon ng Camp Keowee.',
             },
             {
               title: 'Step 2: Disenyo ng 4-Antas na SUP Exploration Badge Curriculum',
@@ -6271,7 +6271,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 3: Certification ng Counselor at Pag-mapa ng Safety Zone ng Lake Jocassee',
               detail:
-                'Noong Mayo 2025 (training ng staff bago ang camp), nag-certify ang Afarer sa 22 waterfront counselor (edad 19-24) sa pamamagitan ng 3-araw na IRF-based na SUP guide course na nakatuon sa pamamahala ng grupo ng kabataan. Minapa ni Whitfield ang 6 safety zone na may color-coded na marker buoy: swimming zone (pula), beginner paddle zone (dilaw, sa loob ng 200 m mula sa dock), intermediate zone (berde, hanggang 1 km sa kanlurang pampang), advanced zone (asul, buong lawa na may radio check-in), at no-go zone (morado, sa paligid ng dam intake at Bald Rock cliff). Bawat counselor ay may dalang waterproof VHF radio na may channel 15 para sa SUP operation. Inaprubahan ng Duke Power lake management authority ang plano pagkatapos ng joint safety review noong Mayo 12.',
+                'Noong Mayo 2025 (training ng staff bago ang camp), nag-certify ang OLagoon sa 22 waterfront counselor (edad 19-24) sa pamamagitan ng 3-araw na IRF-based na SUP guide course na nakatuon sa pamamahala ng grupo ng kabataan. Minapa ni Whitfield ang 6 safety zone na may color-coded na marker buoy: swimming zone (pula), beginner paddle zone (dilaw, sa loob ng 200 m mula sa dock), intermediate zone (berde, hanggang 1 km sa kanlurang pampang), advanced zone (asul, buong lawa na may radio check-in), at no-go zone (morado, sa paligid ng dam intake at Bald Rock cliff). Bawat counselor ay may dalang waterproof VHF radio na may channel 15 para sa SUP operation. Inaprubahan ng Duke Power lake management authority ang plano pagkatapos ng joint safety review noong Mayo 12.',
             },
             {
               title: 'Step 4: Resulta ng Summer 2025 Season at Rate ng Nakamtam na Badge',
@@ -6288,8 +6288,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Youth Program ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Youth Program ang OLagoon',
       items: [
         {
           title: 'Kaligtasan ng Bata',
@@ -6317,7 +6317,7 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Anong laki ng SUP board ang angkop para sa mga batang magkaibang edad?',
         answer:
-          'Nag-aalok ang Afarer ng mas maliit na youth-specific na SUP size na idinisenyo para sa mga bata at teenager. May mas mababang volume, mas makitid na lapad, at mas magaan na timbang ang mga board na ito kumpara sa adult model, na ginagawang mas madali para sa batang user na hawakan, kontrolin, at pag-aralan.',
+          'Nag-aalok ang OLagoon ng mas maliit na youth-specific na SUP size na idinisenyo para sa mga bata at teenager. May mas mababang volume, mas makitid na lapad, at mas magaan na timbang ang mga board na ito kumpara sa adult model, na ginagawang mas madali para sa batang user na hawakan, kontrolin, at pag-aralan.',
       },
       {
         question: 'Paano gumagana ang Giant SUP para sa aktibidad ng team building?',
@@ -6327,26 +6327,26 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Anong feature ng kaligtasan ang kasama sa mga kids SUP board?',
         answer:
-          'May multi-handle na disenyo ng kaligtasan ang mga youth board ng Afarer (handle sa gilid, harap, at dala), full EVA anti-slip deck para sa ligtas na pagtayo, bilugang hugis ng kaligtasan na walang matalim na gilid, mataas na buoyancy na istruktura para sa stable na paglutang, at disenyo ng madaling pagbangon pagkatapos mahulog.',
+          'May multi-handle na disenyo ng kaligtasan ang mga youth board ng OLagoon (handle sa gilid, harap, at dala), full EVA anti-slip deck para sa ligtas na pagtayo, bilugang hugis ng kaligtasan na walang matalim na gilid, mataas na buoyancy na istruktura para sa stable na paglutang, at disenyo ng madaling pagbangon pagkatapos mahulog.',
       },
       {
         question: 'Pwede bang i-customize ang mga SUP board gamit ang logo at kulay ng aming camp?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang kumpletong customization kabilang ang logo ng camp, kulay ng program, elemento ng branding, at themed na graphic. Nakakatulong ang custom branding na lumikha ng natatanging identity ng camp at ginagawang madaling makilala ang kagamitan.',
+          'Oo, sinusuportahan ng OLagoon ang kumpletong customization kabilang ang logo ng camp, kulay ng program, elemento ng branding, at themed na graphic. Nakakatulong ang custom branding na lumikha ng natatanging identity ng camp at ginagawang madaling makilala ang kagamitan.',
       },
       {
         question: 'Ilang board ang kailangan para magsimula ng youth SUP program?',
         answer:
-          'Inirerekomenda ng Afarer ang starter package na kabilang ang board ng mga bata, board ng instructor, paddle, pump, leash, at carry bag. Nakadepende ang laki ng fleet sa kapasidad ng grupo — karaniwang magsisimula ang isang camp sa 10-20 youth board bukod pa ang kagamitan ng instructor, na may opsyon na palawakin seasonally.',
+          'Inirerekomenda ng OLagoon ang starter package na kabilang ang board ng mga bata, board ng instructor, paddle, pump, leash, at carry bag. Nakadepende ang laki ng fleet sa kapasidad ng grupo — karaniwang magsisimula ang isang camp sa 10-20 youth board bukod pa ang kagamitan ng instructor, na may opsyon na palawakin seasonally.',
       },
       {
         question: 'Anong kagamitan ng instructor ang inirerekomenda para sa camp SUP program?',
         answer:
-          'Inirerekomenda ng Afarer ang instructor-specific na board na may pinahusay na stability at feature ng kontrol, bukod pa ang accessory ng kaligtasan kabilang ang leash, pump, repair kit, at kagamitan sa komunikasyon. Maaaring kasama ang Camp Fleet Package ng dedicated na board ng instructor at spare component.',
+          'Inirerekomenda ng OLagoon ang instructor-specific na board na may pinahusay na stability at feature ng kontrol, bukod pa ang accessory ng kaligtasan kabilang ang leash, pump, repair kit, at kagamitan sa komunikasyon. Maaaring kasama ang Camp Fleet Package ng dedicated na board ng instructor at spare component.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Kids Water Adventure Program sa Afarer',
+      title: 'Bumuo ng Iyong Kids Water Adventure Program sa OLagoon',
       subtitle:
         'Tulungan ang mga bata na matuklasan ang kumpiyansa, pagtutulungan ng grupo, kalikasan, at adventure sa pamamagitan ng propesyonal na idinisenyong SUP exploration program.',
       primaryAction: {
@@ -6362,7 +6362,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Water Rescue SUP Manufacturer | {SITE}',
       description:
-        'Nagbibigay ang Afarer ng propesyonal na water rescue SUP system para sa mga lifeguard, emergency team, at organisasyon ng kaligtasan. Mataas na kapasidad na rescue board, multi-handle na disenyo, towing system, at custom OEM solution.',
+        'Nagbibigay ang OLagoon ng propesyonal na water rescue SUP system para sa mga lifeguard, emergency team, at organisasyon ng kaligtasan. Mataas na kapasidad na rescue board, multi-handle na disenyo, towing system, at custom OEM solution.',
     },
     hero: {
       tagline:
@@ -6494,7 +6494,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Rescue-Specific na Disenyo ng SUP at Integrasyon ng Medikal',
               detail:
-                'Mula Enero hanggang Abril 2025, nagtrabaho si Tran sa marine industrial division ng Afarer para idisenyo ang RescuePro 12\'6" XR. May 34" lapad ang board para sa stability sa mababang bilis, 6" kapal na military-grade PVC (1,200 denier, sinubukan hanggang 25 PSI), at flat deck na walang rocker para sa uniform na pag-mount ng kagamitan. Isinama ng Afarer ang 12 stainless steel D-ring sa configuration na harap/likod para sa bungee-secured na medikal na pod (first aid, AED, oxygen). Kasama ng board ang neon-yellow na guhit ng visibility na may SOLAS-grade reflective tape at bow-mounted towing cleat na sinubukan sa 400 kg line pull. Pagkatapos ng 14 araw ng pagsubok sa wave-tank ng University of Queensland, naaprubahan ang huling disenyo na may 7.5 knot na naka-load na tuktok na bilis (110 kg paddler + 30 kg kagamitan).',
+                'Mula Enero hanggang Abril 2025, nagtrabaho si Tran sa marine industrial division ng OLagoon para idisenyo ang RescuePro 12\'6" XR. May 34" lapad ang board para sa stability sa mababang bilis, 6" kapal na military-grade PVC (1,200 denier, sinubukan hanggang 25 PSI), at flat deck na walang rocker para sa uniform na pag-mount ng kagamitan. Isinama ng OLagoon ang 12 stainless steel D-ring sa configuration na harap/likod para sa bungee-secured na medikal na pod (first aid, AED, oxygen). Kasama ng board ang neon-yellow na guhit ng visibility na may SOLAS-grade reflective tape at bow-mounted towing cleat na sinubukan sa 400 kg line pull. Pagkatapos ng 14 araw ng pagsubok sa wave-tank ng University of Queensland, naaprubahan ang huling disenyo na may 7.5 knot na naka-load na tuktok na bilis (110 kg paddler + 30 kg kagamitan).',
             },
             {
               title: 'Step 2: Alokaloka sa Club, Storage Rack at Rapid-Deployment System',
@@ -6504,12 +6504,12 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 3: Certification sa SUP Rescue ng Lifeguard at Pagsubok sa Competency sa Surf',
               detail:
-                'Noong Agosto 2025 (panahon ng training bago ang tag-init), naghatid ang rescue training division ng Afarer ng 40-oras na SUP Rescue Operator certification sa 82 senior lifeguard sa 5 rehiyonal hub. Sakop ng kurso: paddle-based na paghila ng walang malay na biktima (100 m tow sa ilalim ng 3 min), teknik ng pagpasok/paglabas sa surf zone na may kagamitan, deployment ng AED sa hindi stable na platform, at spinal immobilization na nakabatay sa board (orthopaedic collar na inilapat habang pinapanatili ang stability ng board). Pumasa ang bawat kandidato sa practical exam na nangangailangan ng: 200 m paddle papunta sa pasyente, naka-simulate na pagliligtas ng walang malay na may pagkuha ng kagamitan, at pagbabalik sa pampang — lahat sa loob ng 7 minuto. Pass rate: 89% (73 sa 82). Ang mga hindi pumasa ay inilipat sa pangalawang tungkulin.',
+                'Noong Agosto 2025 (panahon ng training bago ang tag-init), naghatid ang rescue training division ng OLagoon ng 40-oras na SUP Rescue Operator certification sa 82 senior lifeguard sa 5 rehiyonal hub. Sakop ng kurso: paddle-based na paghila ng walang malay na biktima (100 m tow sa ilalim ng 3 min), teknik ng pagpasok/paglabas sa surf zone na may kagamitan, deployment ng AED sa hindi stable na platform, at spinal immobilization na nakabatay sa board (orthopaedic collar na inilapat habang pinapanatili ang stability ng board). Pumasa ang bawat kandidato sa practical exam na nangangailangan ng: 200 m paddle papunta sa pasyente, naka-simulate na pagliligtas ng walang malay na may pagkuha ng kagamitan, at pagbabalik sa pampang — lahat sa loob ng 7 minuto. Pass rate: 89% (73 sa 82). Ang mga hindi pumasa ay inilipat sa pangalawang tungkulin.',
             },
             {
               title: 'Step 4: Deployment sa Summer Season at Data ng Performance sa Pagliligtas',
               detail:
-                'Na-activate ang SUP Rescue fleet noong Oktubre 1, 2025, sa lahat ng 11 club para sa Australian summer. Pagsapit ng Marso 31, 2026 (6-buwang season), nagtala ang SLSQ ng 347 tinulungan ng SUP na pagliligtas kumpara sa 512 IRB rescue, na kumakatawan sa 40.4% ng lahat ng pagliligtas sa tubig. Ang average na deployment time ng SUP ay 47 segundo (kumpara sa 4 min 20 seg para sa IRB). Ang pinakamabilis na pagliligtas ay 22 segundo: isang 9-taong gulang na nahuli sa rip current 80 m mula sa pampang sa Surfers Paradise. Ang success rate ng SUP rescue ay 99.1% (344 matagumpay, 3 kaswalidad na nangailangan ng karagdagang IRB backup). Ipinagulat ni Tran ang 0 pinsala mula sa propeller, 0 pagkabigo ng board, at 2 repair ng board (delaminated fin box, parehong inayos sa loob ng 48 oras ng rapid-repair service ng Afarer). Nagorder ang SLSQ ng 18 karagdagang RescuePro board para sa deployment ng 2026-27 season sa mga club ng North Queensland.',
+                'Na-activate ang SUP Rescue fleet noong Oktubre 1, 2025, sa lahat ng 11 club para sa Australian summer. Pagsapit ng Marso 31, 2026 (6-buwang season), nagtala ang SLSQ ng 347 tinulungan ng SUP na pagliligtas kumpara sa 512 IRB rescue, na kumakatawan sa 40.4% ng lahat ng pagliligtas sa tubig. Ang average na deployment time ng SUP ay 47 segundo (kumpara sa 4 min 20 seg para sa IRB). Ang pinakamabilis na pagliligtas ay 22 segundo: isang 9-taong gulang na nahuli sa rip current 80 m mula sa pampang sa Surfers Paradise. Ang success rate ng SUP rescue ay 99.1% (344 matagumpay, 3 kaswalidad na nangailangan ng karagdagang IRB backup). Ipinagulat ni Tran ang 0 pinsala mula sa propeller, 0 pagkabigo ng board, at 2 repair ng board (delaminated fin box, parehong inayos sa loob ng 48 oras ng rapid-repair service ng OLagoon). Nagorder ang SLSQ ng 18 karagdagang RescuePro board para sa deployment ng 2026-27 season sa mga club ng North Queensland.',
             },
           ],
           results: [
@@ -6532,7 +6532,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Shorebreak-Specific na Disenyo ng SUP at Integrasyon ng Trauma Equipment',
               detail:
-                'Mula Marso hanggang Hunyo 2025, nagtrabaho si Rodriguez sa rescue division ng Afarer para iangkop ang RescuePro 12\'6" XR sa kondisyon ng West Coast shorebreak. Kasama sa pagbabago: rockered na harap (2.5" taas) para sa kakayahang tumagos sa hollow na 1-3 talampakang alon; quad-fin box configuration para sa pagmaneho sa masikip na surf; at bow-mounted tow-bridle ring para sa pagkabit ng rescue swimmer. Ang medikal na pod ay nilagyan ng North American Rescue M9 trauma kit (tourniquet, chest seal, hemostatic gauze), Phillips HeartStart FRx AED, at Ferno KED spine immobilization device. Sinubukan ng marine division ng NBFD ang 4 prototype sa 12 training session sa Wedge bago naaprubahan ang huling disenyo.',
+                'Mula Marso hanggang Hunyo 2025, nagtrabaho si Rodriguez sa rescue division ng OLagoon para iangkop ang RescuePro 12\'6" XR sa kondisyon ng West Coast shorebreak. Kasama sa pagbabago: rockered na harap (2.5" taas) para sa kakayahang tumagos sa hollow na 1-3 talampakang alon; quad-fin box configuration para sa pagmaneho sa masikip na surf; at bow-mounted tow-bridle ring para sa pagkabit ng rescue swimmer. Ang medikal na pod ay nilagyan ng North American Rescue M9 trauma kit (tourniquet, chest seal, hemostatic gauze), Phillips HeartStart FRx AED, at Ferno KED spine immobilization device. Sinubukan ng marine division ng NBFD ang 4 prototype sa 12 training session sa Wedge bago naaprubahan ang huling disenyo.',
             },
             {
               title: 'Step 2: Deployment sa Station, Storage at Rapid-Response Protocol',
@@ -6542,7 +6542,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 3: NBFD-Specific na Certification sa SUP Rescue at Live Drill',
               detail:
-                'Sa loob ng 5 araw noong Hulyo 2025, nagsagawa ang master rescue trainer ng Afarer ng certification sa beach para sa 18 marine safety officer ng NBFD. Binago ang kurso para sa kondisyon ng West Coast: duck-diving sa shorebreak gamit ang SUP, pagkuha ng rescue sa beach-start (paghila ng pasyente papunta sa board sa nagbibigay ng alon), at koordinasyon ng senaryo kasama ang Bell 412 helicopter ng NBFD. Kinailangan ni Rodriguez na pumasa ang lahat ng 18 opisyal sa huling senaryo: hanapin ang naka-simulate na pasyente (80 kg mannequin) 150 m mula sa Wedge sa 2-3 talampakang surf, gawin ang in-water spinal immobilization, at bumalik sa beach — lahat sa loob ng 8 minuto. Pass rate: 100% na may median na 6 minuto 12 segundo.',
+                'Sa loob ng 5 araw noong Hulyo 2025, nagsagawa ang master rescue trainer ng OLagoon ng certification sa beach para sa 18 marine safety officer ng NBFD. Binago ang kurso para sa kondisyon ng West Coast: duck-diving sa shorebreak gamit ang SUP, pagkuha ng rescue sa beach-start (paghila ng pasyente papunta sa board sa nagbibigay ng alon), at koordinasyon ng senaryo kasama ang Bell 412 helicopter ng NBFD. Kinailangan ni Rodriguez na pumasa ang lahat ng 18 opisyal sa huling senaryo: hanapin ang naka-simulate na pasyente (80 kg mannequin) 150 m mula sa Wedge sa 2-3 talampakang surf, gawin ang in-water spinal immobilization, at bumalik sa beach — lahat sa loob ng 8 minuto. Pass rate: 100% na may median na 6 minuto 12 segundo.',
             },
             {
               title: 'Step 4: Activation sa Labor Day 2025 at Istatistika ng Emergency Response',
@@ -6559,8 +6559,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Organisasyon ng Pagliligtas ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Organisasyon ng Pagliligtas ang OLagoon',
       items: [
         {
           title: 'Kaligtasan ang Una',
@@ -6586,24 +6586,24 @@ const tl: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Anong kapasidad ng karga ang sinusuportahan ng mga rescue SUP board ng Afarer?',
+        question: 'Anong kapasidad ng karga ang sinusuportahan ng mga rescue SUP board ng OLagoon?',
         answer:
-          'May ultra-high na kapasidad ng karga ang mga rescue SUP board ng Afarer na idinisenyong magdala nang sabay ng tagapagligtas, biktima, kagamitan sa pagliligtas, at medikal na suplay. Ang extra-wide na rescue platform ay nagbibigay ng dagdag na stability at mas malaking lugar ng trabaho para sa ligtas na tulong sa pasyente.',
+          'May ultra-high na kapasidad ng karga ang mga rescue SUP board ng OLagoon na idinisenyong magdala nang sabay ng tagapagligtas, biktima, kagamitan sa pagliligtas, at medikal na suplay. Ang extra-wide na rescue platform ay nagbibigay ng dagdag na stability at mas malaking lugar ng trabaho para sa ligtas na tulong sa pasyente.',
       },
       {
-        question: 'Ano ang pagkakaiba ng mga rescue SUP board ng Afarer sa mga recreational paddle board?',
+        question: 'Ano ang pagkakaiba ng mga rescue SUP board ng OLagoon sa mga recreational paddle board?',
         answer:
-          'In-engineer ang mga rescue board ng Afarer nang partikular para sa emergency operation na may high-capacity na platform, maraming rescue handle, pinalakas na D-ring towing system, mataas na visibility na kulay, reflective na elemento, materyales na lumalaban sa pagkasira, at heavy-duty na construction ng tahi — mga feature na wala sa mga recreational product.',
+          'In-engineer ang mga rescue board ng OLagoon nang partikular para sa emergency operation na may high-capacity na platform, maraming rescue handle, pinalakas na D-ring towing system, mataas na visibility na kulay, reflective na elemento, materyales na lumalaban sa pagkasira, at heavy-duty na construction ng tahi — mga feature na wala sa mga recreational product.',
       },
       {
         question: 'Anong opsyon ng kulay ang available para sa mga rescue SUP board?',
         answer:
-          'Nag-aalok ang Afarer ng propesyonal na kulay ng pagliligtas kabilang ang rescue yellow, safety orange, at emergency red. Lahat ng opsyon ay pwedeng pagsamahin reflective na elemento ng kaligtasan para sa visibility sa mababang liwanag at gabi, bukod pa ang logo ng koponan at marka ng ahensya.',
+          'Nag-aalok ang OLagoon ng propesyonal na kulay ng pagliligtas kabilang ang rescue yellow, safety orange, at emergency red. Lahat ng opsyon ay pwedeng pagsamahin reflective na elemento ng kaligtasan para sa visibility sa mababang liwanag at gabi, bukod pa ang logo ng koponan at marka ng ahensya.',
       },
       {
         question: 'Pwede bang i-customize ang mga rescue SUP board gamit ang logo at marka ng aming koponan?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang buong branding ng organisasyon ng pagliligtas kabilang ang logo ng koponan, identity ng ahensya, marka ng kaligtasan, at custom na scheme ng kulay. Nakakatulong ito sa propesyonal na itsura at pagkilala sa kagamitan sa multi-agency na operasyon.',
+          'Oo, sinusuportahan ng OLagoon ang buong branding ng organisasyon ng pagliligtas kabilang ang logo ng koponan, identity ng ahensya, marka ng kaligtasan, at custom na scheme ng kulay. Nakakatulong ito sa propesyonal na itsura at pagkilala sa kagamitan sa multi-agency na operasyon.',
       },
       {
         question: 'Anong mga accessory ang kasama sa propesyonal na rescue SUP package?',
@@ -6613,13 +6613,13 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Paano pinapanatili at iniimbak ang mga rescue SUP board?',
         answer:
-          'Ang mga rescue board ng Afarer ay idinisenyo para sa madaling maintenance na may matibay na materyales na kayang tiisin ang madalas na deployment at imbakan sa labas. Dahil inflatable, bumubuo ito ng compact para sa transportasyon at imbakan. Nagbibigay kami ng gabay sa maintenance, proseso ng inspeksyon, at spare component para sa pangmatagalang maaasahan.',
+          'Ang mga rescue board ng OLagoon ay idinisenyo para sa madaling maintenance na may matibay na materyales na kayang tiisin ang madalas na deployment at imbakan sa labas. Dahil inflatable, bumubuo ito ng compact para sa transportasyon at imbakan. Nagbibigay kami ng gabay sa maintenance, proseso ng inspeksyon, at spare component para sa pangmatagalang maaasahan.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Propesyonal na Water Rescue System sa Afarer',
+      title: 'Bumuo ng Iyong Propesyonal na Water Rescue System sa OLagoon',
       subtitle:
-        'Bawat misyon ng pagliligtas ay nangangailangan ng kumpiyansa. Tinutulungan ng Afarer ang mga lifeguard team, organisasyon ng pagliligtas, institusyon ng training, at emergency agency na bumuo ng maaasahang sistema ng kagamitan sa kaligtasan sa tubig.',
+        'Bawat misyon ng pagliligtas ay nangangailangan ng kumpiyansa. Tinutulungan ng OLagoon ang mga lifeguard team, organisasyon ng pagliligtas, institusyon ng training, at emergency agency na bumuo ng maaasahang sistema ng kagamitan sa kaligtasan sa tubig.',
       primaryAction: {
         text: 'Simulan ang Iyong Project',
       },
@@ -6633,7 +6633,7 @@ const tl: Record<string, SolutionOverride> = {
     meta: {
       title: 'Eco Research SUP Platform Manufacturer | {SITE}',
       description:
-        'Nagbibigay ang Afarer ng eco-friendly na SUP research platform para sa mga marine conservation NGO, unibersidad, at organisasyon ng environmental monitoring. Stable na floating platform, sistema ng pag-mount ng kagamitan, at custom OEM solution.',
+        'Nagbibigay ang OLagoon ng eco-friendly na SUP research platform para sa mga marine conservation NGO, unibersidad, at organisasyon ng environmental monitoring. Stable na floating platform, sistema ng pag-mount ng kagamitan, at custom OEM solution.',
     },
     hero: {
       tagline:
@@ -6765,7 +6765,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Low-Noise na Configuration ng SUP at Integrasyon ng Sensor Platform',
               detail:
-                'Noong Setyembre 2024, nakipagtulungan si Huaman sa environmental research division ng Afarer para iangkop ang EcoTouring 12\'6" X sa deployment ng siyentipikong karga. Kasama sa pagbabago: pinalakas na mounting plate ng deck (stainless steel, 4-bolt pattern) para sa Garmin echoMAP Plus 74cv fishfinder/sonar transducer; integrated na RAM-mount system para sa GoPro HERO12 Black sa underwater housing; watertight na equipment drywell (7 L volume, screw-seal) sa core ng board para sa data logger at GPS tracker; at low-profile na keel guard na nagpapahintulot ng pagdaplis sa mabahang pampang ng ilog. Tatlong prototype na board ang sinubukan sa Ucayali noong Oktubre 2024, na sinukat ang output ng ingay sa ilalim ng tubig na 18 dB (kumpara sa 52 dB ng 25 hp Tohatsu outboard sa 5 m). Nagorder ang ARA ng 18 board sa halagang $212K, na pinondohan ng Gordon and Betty Moore Foundation.',
+                'Noong Setyembre 2024, nakipagtulungan si Huaman sa environmental research division ng OLagoon para iangkop ang EcoTouring 12\'6" X sa deployment ng siyentipikong karga. Kasama sa pagbabago: pinalakas na mounting plate ng deck (stainless steel, 4-bolt pattern) para sa Garmin echoMAP Plus 74cv fishfinder/sonar transducer; integrated na RAM-mount system para sa GoPro HERO12 Black sa underwater housing; watertight na equipment drywell (7 L volume, screw-seal) sa core ng board para sa data logger at GPS tracker; at low-profile na keel guard na nagpapahintulot ng pagdaplis sa mabahang pampang ng ilog. Tatlong prototype na board ang sinubukan sa Ucayali noong Oktubre 2024, na sinukat ang output ng ingay sa ilalim ng tubig na 18 dB (kumpara sa 52 dB ng 25 hp Tohatsu outboard sa 5 m). Nagorder ang ARA ng 18 board sa halagang $212K, na pinondohan ng Gordon and Betty Moore Foundation.',
             },
             {
               title: 'Step 2: Pag-aangkop ng Protocol ng Risetso at Pagdevelop ng Paraan ng Silent Observation',
@@ -6775,7 +6775,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 3: Certification ng Mananaliksik sa SUP at Logistics ng Malayong Station',
               detail:
-                'Noong Nobyembre 2024, nagsagawa ang Afarer ng 12-araw na field training program sa 3 station ng ARA, na nag-certify sa 12 mananaliksik (5 PhD candidate, 4 field technician, 3 lokal na gabay sa ilog). Sakop ng training: daloy ng ilog (umaagos ang Ucayali hanggang 4 knot), pag-iwas sa troso/basura, teknik ng pag-paddle sa gabi para sa survey ng nocturnal na espesye, at proseso ng paglunsad sa gubat (pagbubuhat ng inflated na board nang 400 m sa loob ng primary forest papunta sa oxbow lake). Bawat mananaliksik ay nakumpleto ang 40 oras ng supervised na survey paddling at huling exam na nangangailangan ng: 6 km transect sa ilalim ng 2 oras na may sabay na pag-record ng data. Pass rate ng certification: 92% (11 sa 12). Ang natitirang mananaliksik ay nagsilbing rotator support.',
+                'Noong Nobyembre 2024, nagsagawa ang OLagoon ng 12-araw na field training program sa 3 station ng ARA, na nag-certify sa 12 mananaliksik (5 PhD candidate, 4 field technician, 3 lokal na gabay sa ilog). Sakop ng training: daloy ng ilog (umaagos ang Ucayali hanggang 4 knot), pag-iwas sa troso/basura, teknik ng pag-paddle sa gabi para sa survey ng nocturnal na espesye, at proseso ng paglunsad sa gubat (pagbubuhat ng inflated na board nang 400 m sa loob ng primary forest papunta sa oxbow lake). Bawat mananaliksik ay nakumpleto ang 40 oras ng supervised na survey paddling at huling exam na nangangailangan ng: 6 km transect sa ilalim ng 2 oras na may sabay na pag-record ng data. Pass rate ng certification: 92% (11 sa 12). Ang natitirang mananaliksik ay nagsilbing rotator support.',
             },
             {
               title: 'Step 4: Resulta ng 2025 Field Season at Epekto sa Konserbasyon',
@@ -6803,7 +6803,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 1: Integrasyon ng SUP Sensor at Disenyo ng Research Platform',
               detail:
-                'Noong Disyembre 2024, nagtrabaho si Torres sa environmental R&D team ng Afarer para i-configure ang EcoTouring 12\'6" X para sa coastal monitoring. Isinama ng Afarer ang mounting plate para sa YSI EXO2 sonde (inilagay sa custom thru-hull mounting well na dumadaan sa core ng board, na nagpapahintulot ng tuloy-tuloy na daloy ng tubig nang walang drag mula sa sonde na hinihila). Nakatanggap ang board ng bow-mounted davit arm (carbon fiber, 1.5 kg, 50 lb rated) para sa pagbaba at pagbawi ng underwater video array (GoPro HERO12 Black sa backscatter housing na may pulang filter). Ang stern-mounted na data logger box (Pelican 1040) ay naglaman ng GNSS receiver at cellular modem para sa real-time na upload ng data sa cloud platform ng Mote. Tatlong prototype ang na-deploy noong Enero 2025 para sa 30-araw na validation study, na kumpirmahin ang pagbasa ng sonde sa loob ng 2% ng pagbasa na nakabatay sa bangka sa paired station. Nagorder ang Mote ng 15 board sa halagang $186K, na pinondohan ng SBEP at Gulf Research Program.',
+                'Noong Disyembre 2024, nagtrabaho si Torres sa environmental R&D team ng OLagoon para i-configure ang EcoTouring 12\'6" X para sa coastal monitoring. Isinama ng OLagoon ang mounting plate para sa YSI EXO2 sonde (inilagay sa custom thru-hull mounting well na dumadaan sa core ng board, na nagpapahintulot ng tuloy-tuloy na daloy ng tubig nang walang drag mula sa sonde na hinihila). Nakatanggap ang board ng bow-mounted davit arm (carbon fiber, 1.5 kg, 50 lb rated) para sa pagbaba at pagbawi ng underwater video array (GoPro HERO12 Black sa backscatter housing na may pulang filter). Ang stern-mounted na data logger box (Pelican 1040) ay naglaman ng GNSS receiver at cellular modem para sa real-time na upload ng data sa cloud platform ng Mote. Tatlong prototype ang na-deploy noong Enero 2025 para sa 30-araw na validation study, na kumpirmahin ang pagbasa ng sonde sa loob ng 2% ng pagbasa na nakabatay sa bangka sa paired station. Nagorder ang Mote ng 15 board sa halagang $186K, na pinondohan ng SBEP at Gulf Research Program.',
             },
             {
               title: 'Step 2: Network ng Monitoring Station at Protocol ng Tidal Sampling',
@@ -6813,7 +6813,7 @@ const tl: Record<string, SolutionOverride> = {
             {
               title: 'Step 3: Certification ng Research Associate sa SUP at Training sa Nabigasyon sa Mababaw na Tubig',
               detail:
-                'Noong Pebrero 2025, nag-certify ang research division ng Afarer sa 8 research associate ng Mote (4 PhD-level na siyentipiko, 4 field technician) sa pamamagitan ng 5-araw na kurso ng shallow-water SUP research operator. Sakop ng training: nabigasyon sa seagrass bed (pag-iwas sa katumbas ng prop scarring — drag ng fin), protocol ng paglapit sa manatee (minimum na 50 m distansya ng paglapit, silent drift kapag nakakita, pagmamasid ng ugali nang walang ingay ng makina), pamamahala ng tidal current (maximum na 1.5 knot daloy para sa sampling, 2.5 knot para sa paglipat), at deployment/recovery ng kagamitan sa maalinsangang kondisyon. Kinailangan din ni Torres na kumpletuhin ng lahat ng associate ang Florida FWC manatee encounter training (2-oras na online + bahaging pang-larangan). Ang certification ay tinasa sa pamamagitan ng mock sampling day: 4 station sa 3 oras na may 100% kumpleto ang data. Pumasa ang lahat ng 8 sa unang pagsubok, na may average na 38 minuto sa bawat station (kumpara sa 68 minuto para sa protocol ng motorboat).',
+                'Noong Pebrero 2025, nag-certify ang research division ng OLagoon sa 8 research associate ng Mote (4 PhD-level na siyentipiko, 4 field technician) sa pamamagitan ng 5-araw na kurso ng shallow-water SUP research operator. Sakop ng training: nabigasyon sa seagrass bed (pag-iwas sa katumbas ng prop scarring — drag ng fin), protocol ng paglapit sa manatee (minimum na 50 m distansya ng paglapit, silent drift kapag nakakita, pagmamasid ng ugali nang walang ingay ng makina), pamamahala ng tidal current (maximum na 1.5 knot daloy para sa sampling, 2.5 knot para sa paglipat), at deployment/recovery ng kagamitan sa maalinsangang kondisyon. Kinailangan din ni Torres na kumpletuhin ng lahat ng associate ang Florida FWC manatee encounter training (2-oras na online + bahaging pang-larangan). Ang certification ay tinasa sa pamamagitan ng mock sampling day: 4 station sa 3 oras na may 100% kumpleto ang data. Pumasa ang lahat ng 8 sa unang pagsubok, na may average na 38 minuto sa bawat station (kumpara sa 68 minuto para sa protocol ng motorboat).',
             },
             {
               title: 'Step 4: Monitoring Season ng Marso-Nobyembre 2025 at Nasusukat na Resultang Ekolohiko',
@@ -6830,8 +6830,8 @@ const tl: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Bakit Pinipili ng mga Organisasyon ng Risetso ang Afarer',
+    whyOLagoon: {
+      title: 'Bakit Pinipili ng mga Organisasyon ng Risetso ang OLagoon',
       items: [
         {
           title: 'Stability',
@@ -6857,25 +6857,25 @@ const tl: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Anong siyentipikong kagamitan ang pwedeng i-mount sa research SUP platform ng Afarer?',
+        question: 'Anong siyentipikong kagamitan ang pwedeng i-mount sa research SUP platform ng OLagoon?',
         answer:
-          'Sinusuportahan ng mga research platform ng Afarer ang malawak na hanay ng kagamitan kabilang ang sensor ng kalidad ng tubig, kamera at yunit ng GPS, lalagyan ng sample, kasangkapan ng pagsukat, at device ng koleksyon ng data. Ang modular mounting system ay pwedeng i-customize para sa partikular na configuration ng risetso.',
+          'Sinusuportahan ng mga research platform ng OLagoon ang malawak na hanay ng kagamitan kabilang ang sensor ng kalidad ng tubig, kamera at yunit ng GPS, lalagyan ng sample, kasangkapan ng pagsukat, at device ng koleksyon ng data. Ang modular mounting system ay pwedeng i-customize para sa partikular na configuration ng risetso.',
       },
       {
         question: 'Gaano ka-stable ang SUP platform para sa aktibidad ng pag-sample at monitoring sa tubig?',
         answer:
-          'May extra-wide na disenyo, dagdag na lugar ng pagtayo, pinahusay na balanse, at mataas na buoyancy na istruktura ang mga research platform ng Afarer na partikular na in-engineer para sa siyentipikong operasyon sa larangan. Ang stability ay nagpapahintulot sa mga mananaliksik na ligtas na patakbuhin ang kagamitan, lumikom ng sample, at magsagawa ng pagsukat.',
+          'May extra-wide na disenyo, dagdag na lugar ng pagtayo, pinahusay na balanse, at mataas na buoyancy na istruktura ang mga research platform ng OLagoon na partikular na in-engineer para sa siyentipikong operasyon sa larangan. Ang stability ay nagpapahintulot sa mga mananaliksik na ligtas na patakbuhin ang kagamitan, lumikom ng sample, at magsagawa ng pagsukat.',
       },
       {
-        question: 'Anong eco-friendly na materyales ang ginagamit sa mga research SUP board ng Afarer?',
+        question: 'Anong eco-friendly na materyales ang ginagamit sa mga research SUP board ng OLagoon?',
         answer:
-          'Nakatuon ang Afarer sa matibay na construction na mahabang-buhay na nagbabawas ng dalas ng replacement at pagkonsumo ng yaman. Nag-aalok kami ng opsyon ng sustenableng materyales kabilang ang recyclable na pagpipilian at paraan ng manufacturing na mas mababa ang epekto, na tumutugma sa misyon ng konserbasyon ng kapaligiran.',
+          'Nakatuon ang OLagoon sa matibay na construction na mahabang-buhay na nagbabawas ng dalas ng replacement at pagkonsumo ng yaman. Nag-aalok kami ng opsyon ng sustenableng materyales kabilang ang recyclable na pagpipilian at paraan ng manufacturing na mas mababa ang epekto, na tumutugma sa misyon ng konserbasyon ng kapaligiran.',
       },
       {
         question:
           'Pwede bang i-customize ang mga SUP platform para sa partikular na kahilingan ng proyekto ng risetso?',
         answer:
-          'Oo, sinusuportahan ng Afarer ang kumpletong customization kabilang ang custom na sukat ng board (dagdag na lapad, karagdagang haba), pinataas na kapasidad ng karga, interface ng pag-mount ng kagamitan, solusyon sa imbakan, logo ng organisasyon, at accessory para sa partikular na proyekto.',
+          'Oo, sinusuportahan ng OLagoon ang kumpletong customization kabilang ang custom na sukat ng board (dagdag na lapad, karagdagang haba), pinataas na kapasidad ng karga, interface ng pag-mount ng kagamitan, solusyon sa imbakan, logo ng organisasyon, at accessory para sa partikular na proyekto.',
       },
       {
         question: 'Paano humahambing ang SUP sa tradisyonal na bangka ng risetso para sa environmental monitoring?',
@@ -6885,13 +6885,13 @@ const tl: Record<string, SolutionOverride> = {
       {
         question: 'Ano ang karaniwang lead time para sa custom na research SUP platform?',
         answer:
-          'Nag-iiba ang lead time ayon sa komplikasyon ng customization at dami ng order. Sinusuportahan ng Afarer ang pagdevelop ng prototype para sa bagong konsepto ng risetso hanggang sa batch manufacturing para sa institutional order. Nagtatrabaho nang malapit ang Afarer sa mga team ng risetso para matugunan ang timeline ng proyekto at pangangailangan ng field season.',
+          'Nag-iiba ang lead time ayon sa komplikasyon ng customization at dami ng order. Sinusuportahan ng OLagoon ang pagdevelop ng prototype para sa bagong konsepto ng risetso hanggang sa batch manufacturing para sa institutional order. Nagtatrabaho nang malapit ang OLagoon sa mga team ng risetso para matugunan ang timeline ng proyekto at pangangailangan ng field season.',
       },
     ],
     cta: {
-      title: 'Bumuo ng Iyong Eco Research Water Platform sa Afarer',
+      title: 'Bumuo ng Iyong Eco Research Water Platform sa OLagoon',
       subtitle:
-        'Kinakailangan ng kinabukasan ng water research ang flexible at sustenableng solusyon. Tinutulungan ng Afarer ang mga marine NGO, unibersidad, institusyon ng risetso, at organisasyong pangkapaligiran na lumikha ng propesyonal na mobile water research platform.',
+        'Kinakailangan ng kinabukasan ng water research ang flexible at sustenableng solusyon. Tinutulungan ng OLagoon ang mga marine NGO, unibersidad, institusyon ng risetso, at organisasyong pangkapaligiran na lumikha ng propesyonal na mobile water research platform.',
       primaryAction: {
         text: 'Simulan ang Iyong Project',
       },

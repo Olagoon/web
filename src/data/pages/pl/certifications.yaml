@@ -1,6 +1,6 @@
 meta:
   title: 'Certyfikaty — CE, ISO 9001 i zgodność | {SITE}'
-  description: 'Certyfikaty jakości afarera: CE (EN ISO 25649), ISO 9001:2015, BSCI. Zgodność i bezpieczeństwo dla producenta nadmuchiwanych desek SUP.'
+  description: 'Certyfikaty jakości olagoona: CE (EN ISO 25649), ISO 9001:2015, BSCI. Zgodność i bezpieczeństwo dla producenta nadmuchiwanych desek SUP.'
   keywords:
     - 'certyfikat CE paddle board'
     - 'ISO 9001 paddle board'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: Certyfikaty i Standardy
   title: Certyfikaty jakości<br />i standardy zgodności
-  subtitle: Produkty afarer są produkowane zgodnie z międzynarodowymi standardami bezpieczeństwa morskiego, systemami zarządzania jakością i przepisami ochrony środowiska.
+  subtitle: Produkty olagoon są produkowane zgodnie z międzynarodowymi standardami bezpieczeństwa morskiego, systemami zarządzania jakością i przepisami ochrony środowiska.
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: certyfikaty jakości i dokumentacja zgodności Afarera
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: certyfikaty jakości i dokumentacja zgodności OLagoona
 content_certifications:
   tagline: Nasze certyfikaty
   title: Certyfikowana jakość,<br />globalnie uznawana
-  subtitle: Każdy produkt afarer jest poparty certyfikatami, które potwierdzają nasze zaangażowanie w jakość, bezpieczeństwo i odpowiedzialność za środowisko.
+  subtitle: Każdy produkt olagoon jest poparty certyfikatami, które potwierdzają nasze zaangażowanie w jakość, bezpieczeństwo i odpowiedzialność za środowisko.
   items:
     - title: Certyfikowany CE
-      description: Wszystkie produkty afarer spełniają europejskie wymogi oznakowania CE dla rekreacyjnych jednostek pływających, zapewniając spełnienie standardów bezpieczeństwa, zdrowia i ochrony środowiska.
+      description: Wszystkie produkty olagoon spełniają europejskie wymogi oznakowania CE dla rekreacyjnych jednostek pływających, zapewniając spełnienie standardów bezpieczeństwa, zdrowia i ochrony środowiska.
       icon: tabler:certificate
     - title: ISO 9001:2015
       description: Nasz system zarządzania jakością jest certyfikowany zgodnie z ISO 9001:2015, obejmując projektowanie, produkcję i dystrybucję nadmuchiwanych jednostek pływających i sprzętu morskiego.
@@ -28,10 +28,10 @@ content_certifications:
       description: Produkty sprzedawane na rynku brytyjskim posiadają oznaczenie UKCA, potwierdzające zgodność z brytyjskimi przepisami dotyczącymi sprzętu morskiego i jednostek pływających.
       icon: tabler:shield
     - title: Zgodny z BSCI
-      description: afarer jest audytowany przez BSCI (Business Social Compliance Initiative), co potwierdza etyczne praktyki produkcyjne, uczciwe warunki pracy i odpowiedzialność w łańcuchu dostaw.
+      description: olagoon jest audytowany przez BSCI (Business Social Compliance Initiative), co potwierdza etyczne praktyki produkcyjne, uczciwe warunki pracy i odpowiedzialność w łańcuchu dostaw.
       icon: tabler:heart-handshake
     - title: Zgodny z REACH
-      description: Wszystkie materiały używane w produktach afarer są zgodne z unijnymi przepisami REACH dotyczącymi bezpieczeństwa chemicznego, zapewniając brak substancji zabronionych w naszym PVC, EVA lub komponentach.
+      description: Wszystkie materiały używane w produktach olagoon są zgodne z unijnymi przepisami REACH dotyczącymi bezpieczeństwa chemicznego, zapewniając brak substancji zabronionych w naszym PVC, EVA lub komponentach.
       icon: tabler:flask
     - title: Badanie materiałów
       description: Tkaniny są testowane pod kątem wytrzymałości na rozciąganie, odporności na rozdarcie, degradacji UV i pękania na zimno. Każda partia produkcyjna jest próbkowana i weryfikowana.
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: Standardy bezpieczeństwa morskiego
   title: Bezpieczeństwo przede wszystkim<br />— zaprojektowane do niezawodnej pracy
-  subtitle: Produkty afarer są zaprojektowane i testowane, aby spełniać międzynarodowe standardy bezpieczeństwa morskiego do użytku komercyjnego i rekreacyjnego.
+  subtitle: Produkty olagoon są zaprojektowane i testowane, aby spełniać międzynarodowe standardy bezpieczeństwa morskiego do użytku komercyjnego i rekreacyjnego.
   items:
     - title: EN ISO 25649
       description: Nadmuchiwane deski SUP są zgodne z normami EN ISO 25649 dotyczącymi konstrukcji, stateczności, pływalności i nośności.

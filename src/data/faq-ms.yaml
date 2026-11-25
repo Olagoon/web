@@ -8,7 +8,7 @@
     - beginner-guide
 - id: ocean-use
   question: 'Bolehkah saya menggunakannya di laut?'
-  answer: 'Ya. Papan SUP afarer dibina untuk kegunaan laut, tasik dan sungai. Siri Touring kami mampu mengharungi ombak pantai, dan semua papan menggunakan PVC gred marin yang tahan terhadap kakisan air masin. Bilas dengan air tawar selepas digunakan di laut.'
+  answer: 'Ya. Papan SUP olagoon dibina untuk kegunaan laut, tasik dan sungai. Siri Touring kami mampu mengharungi ombak pantai, dan semua papan menggunakan PVC gred marin yang tahan terhadap kakisan air masin. Bilas dengan air tawar selepas digunakan di laut.'
   category: general
   relatedProducts: []
   relatedGuides:
@@ -22,7 +22,7 @@
     - sup-maintenance
 - id: travel-sup
   question: 'Bolehkah saya bercuti sambil membawa SUP boleh tiup?'
-  answer: 'Sudah tentu. Setiap papan afarer dilipat ke dalam bekas bawaan bersaiz beg galas yang memenuhi syarat bagasi syarikat penerbangan. Dengan berat hanya 18–22 lbs, ia mudah dibawa ke pantai, tasik atau merentasi terminal lapangan terbang.'
+  answer: 'Sudah tentu. Setiap papan olagoon dilipat ke dalam bekas bawaan bersaiz beg galas yang memenuhi syarat bagasi syarikat penerbangan. Dengan berat hanya 18–22 lbs, ia mudah dibawa ke pantai, tasik atau merentasi terminal lapangan terbang.'
   category: general
   relatedProducts: []
   relatedGuides: []
@@ -35,7 +35,7 @@
     - understanding-specs
 - id: box-contents
   question: 'Apakah yang terkandung dalam kotak?'
-  answer: 'Setiap SUP afarer dilengkapi papan, beg galas mudah alih, pam tangan dua tindakan, sirip boleh tanggalkan, tali lingkar (coil leash) dan kit pembaikan. Sesetengah model turut menawarkan pilihan naik taraf dayung karbon.'
+  answer: 'Setiap SUP olagoon dilengkapi papan, beg galas mudah alih, pam tangan dua tindakan, sirip boleh tanggalkan, tali lingkar (coil leash) dan kit pembaikan. Sesetengah model turut menawarkan pilihan naik taraf dayung karbon.'
   category: product
   relatedProducts: []
   relatedGuides: []
@@ -62,7 +62,7 @@
   relatedGuides: []
 - id: puncture-repair
   question: 'Bagaimanakah saya membaiki tembusan pada papan?'
-  answer: 'Bersihkan kawasan tersebut, potong tampalan dengan bucu bulat, sapukan gam PVC, tekan dengan kuat dan tunggu 24 jam sebelum menggelembungkan papan. Papan afarer disertakan dengan kit pembaikan. Untuk arahan terperinci, rujuk panduan pembaikan papan boleh tiup kami.'
+  answer: 'Bersihkan kawasan tersebut, potong tampalan dengan bucu bulat, sapukan gam PVC, tekan dengan kuat dan tunggu 24 jam sebelum menggelembungkan papan. Papan olagoon disertakan dengan kit pembaikan. Untuk arahan terperinci, rujuk panduan pembaikan papan boleh tiup kami.'
   category: maintenance
   relatedProducts: []
   relatedGuides:
@@ -92,8 +92,8 @@
     - weather-conditions
     - safety-tips
 - id: warranty
-  question: 'Apakah waranti afarer?'
-  answer: 'Semua produk afarer disokong oleh waranti pengeluar yang menyeluruh. Papan SUP dilindungi selama 2+ tahun terhadap kecacatan pembuatan. Waranti ini meliputi kecacatan bahan dan pemasangan dalam kegunaan normal.'
+  question: 'Apakah waranti olagoon?'
+  answer: 'Semua produk olagoon disokong oleh waranti pengeluar yang menyeluruh. Papan SUP dilindungi selama 2+ tahun terhadap kecacatan pembuatan. Waranti ini meliputi kecacatan bahan dan pemasangan dalam kegunaan normal.'
   category: warranty
   relatedProducts: []
   relatedGuides: []
@@ -130,13 +130,13 @@
     - choosing-paddle
 - id: material-difference
   question: 'Apakah perbezaan antara SUP PVC satu lapisan dan berbilang lapisan?'
-  answer: 'Papan PVC satu lapisan ringan dan mesra bajet tetapi kurang tegar pada tekanan tinggi. Binaan dua lapisan dan laminasi cantuman menambah kekakuan, rintangan tembus serta ketahanan. PVC gred tentera dengan salutan tahan UV menawarkan keseimbangan terbaik antara ketahanan dan berat untuk kegunaan SUP rekreasi. afarer menggunakan PVC laminasi tiga lapisan pada semua peringkat produk.'
+  answer: 'Papan PVC satu lapisan ringan dan mesra bajet tetapi kurang tegar pada tekanan tinggi. Binaan dua lapisan dan laminasi cantuman menambah kekakuan, rintangan tembus serta ketahanan. PVC gred tentera dengan salutan tahan UV menawarkan keseimbangan terbaik antara ketahanan dan berat untuk kegunaan SUP rekreasi. olagoon menggunakan PVC laminasi tiga lapisan pada semua peringkat produk.'
   category: product
   relatedProducts: []
   relatedGuides: []
 - id: sup-width-stability
   question: 'Berapakah lebar SUP yang terbaik untuk kestabilan?'
-  answer: 'Bagi pemula, lebar 33–34 inci memberikan keseimbangan terbaik antara kestabilan dan kemudahan mendayung. Papan yang lebih sempit daripada 32 inci terasa goyah bagi pendayung baharu. afarer SUP Explorer 11 dengan lebar 33 inci adalah ideal untuk pembelajaran.'
+  answer: 'Bagi pemula, lebar 33–34 inci memberikan keseimbangan terbaik antara kestabilan dan kemudahan mendayung. Papan yang lebih sempit daripada 32 inci terasa goyah bagi pendayung baharu. olagoon SUP Explorer 11 dengan lebar 33 inci adalah ideal untuk pembelajaran.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -152,21 +152,21 @@
   relatedGuides:
     - sup-size-guide
     - paddle-board-size-guide
-- id: afarer-vs-others
-  question: 'Bagaimanakah afarer dibandingkan dengan jenama lain?'
-  answer: 'afarer menawarkan nilai terbaik dalam peralatan sukan air boleh tiup. Berbanding Red Paddle Co, afarer menghasilkan 90% prestasi pada 60% kos. Berbanding iRocker, afarer menggunakan PVC gred tentera tiga lapisan yang lebih tinggi grednya serta penarafan PSI yang lebih tinggi. Berbanding Bluefin, afarer menawarkan spesifikasi bahan yang lebih unggul. Bagi kebanyakan pendayung rekreasi, afarer memberikan keseimbangan terbaik antara kualiti dan harga.'
+- id: olagoon-vs-others
+  question: 'Bagaimanakah olagoon dibandingkan dengan jenama lain?'
+  answer: 'olagoon menawarkan nilai terbaik dalam peralatan sukan air boleh tiup. Berbanding Red Paddle Co, olagoon menghasilkan 90% prestasi pada 60% kos. Berbanding iRocker, olagoon menggunakan PVC gred tentera tiga lapisan yang lebih tinggi grednya serta penarafan PSI yang lebih tinggi. Berbanding Bluefin, olagoon menawarkan spesifikasi bahan yang lebih unggul. Bagi kebanyakan pendayung rekreasi, olagoon memberikan keseimbangan terbaik antara kualiti dan harga.'
   category: general
   relatedProducts:
     - sup-explorer-11
     - sup-touring-cruiser
   relatedGuides:
     - best-surf-gear-brands-compared
-    - afarer-vs-red-paddle
-    - afarer-vs-irocker
-    - afarer-vs-bluefin
+    - olagoon-vs-red-paddle
+    - olagoon-vs-irocker
+    - olagoon-vs-bluefin
 - id: fishing-sup-setup
   question: 'Bolehkah saya memancing dari papan SUP?'
-  answer: 'Ya. Memancing dengan SUP semakin popular kerana posisi berdiri menawarkan penglihatan yang jelas ke dalam air. Pilih papan yang panjangnya sekurang-kurangnya 11 kaki dan lebarnya 33–34 inci untuk kestabilan. Tambahkan bakul dengan pemegang joran yang dipasang pada tali bungee dek, sauh kecil, dan sentiasa pakai jaket keselamatan (PFD). afarer SUP Explorer 11 sesuai digunakan untuk memancing secara santai.'
+  answer: 'Ya. Memancing dengan SUP semakin popular kerana posisi berdiri menawarkan penglihatan yang jelas ke dalam air. Pilih papan yang panjangnya sekurang-kurangnya 11 kaki dan lebarnya 33–34 inci untuk kestabilan. Tambahkan bakul dengan pemegang joran yang dipasang pada tali bungee dek, sauh kecil, dan sentiasa pakai jaket keselamatan (PFD). olagoon SUP Explorer 11 sesuai digunakan untuk memancing secara santai.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -183,7 +183,7 @@
     - yoga-sup-guide
 - id: airline-travel-sup
   question: 'Apakah peraturan syarikat penerbangan untuk membawa SUP boleh tiup?'
-  answer: 'Kebanyakan syarikat penerbangan menerima beg galas SUP sebagai bagasi daftar jika beratnya di bawah 23–32 kg. Beg galas afarer berukuran lebih kurang 90x40x30 cm dan beratnya kira-kira 15 kg apabila dibungkus. Sesetengah syarikat penerbangan mungkin mengenakan caj bagasi bersaiz terlampau. Datanglah awal, bungkus sirip dan pam secara berasingan dalam beg kabin, dan labelkan beg sebagai mudah pecah. Sentiasa semak polisi peralatan sukan syarikat penerbangan anda sebelum berlepas.'
+  answer: 'Kebanyakan syarikat penerbangan menerima beg galas SUP sebagai bagasi daftar jika beratnya di bawah 23–32 kg. Beg galas olagoon berukuran lebih kurang 90x40x30 cm dan beratnya kira-kira 15 kg apabila dibungkus. Sesetengah syarikat penerbangan mungkin mengenakan caj bagasi bersaiz terlampau. Datanglah awal, bungkus sirip dan pam secara berasingan dalam beg kabin, dan labelkan beg sebagai mudah pecah. Sentiasa semak polisi peralatan sukan syarikat penerbangan anda sebelum berlepas.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -204,14 +204,14 @@
   relatedProducts: []
   relatedGuides: []
 - id: oem-custom-branding
-  question: 'Bolehkah saya meletakkan logo saya sendiri pada produk afarer?'
+  question: 'Bolehkah saya meletakkan logo saya sendiri pada produk olagoon?'
   answer: 'Ya. Perkhidmatan OEM kami merangkumi peletakan logo tersuai, skim warna tersuai dan pembungkusan tersuai. Kami menawarkan pilihan cetakan pad, pemindahan haba dan sulaman bergantung pada jenis produk. Hantarkan artwork dan spesifikasi anda kepada pasukan jualan kami untuk mendapatkan sebut harga dan anggaran masa pengeluaran.'
   category: ordering
   relatedProducts: []
   relatedGuides: []
 - id: sup-inflate-pressure
   question: 'Berapakah PSI yang sepatutnya saya tiupkan pada SUP saya?'
-  answer: 'Tiupkan sehingga PSI maksimum penarafan papan untuk prestasi terbaik — biasanya 15–18 PSI untuk SUP boleh tiup berkualiti. afarer SUP Explorer 11 memberikan prestasi terbaik pada 15–18 PSI. Tiupan yang tidak mencukupi menyebabkan papan terasa lembut dan sukar dikawal arahnya. Tiupan berlebihan melebihi penarafan maksimum berisiko merosakkan benang jahitan-jatuh. Semak pelekat berhampiran injap untuk penarafan khusus papan anda.'
+  answer: 'Tiupkan sehingga PSI maksimum penarafan papan untuk prestasi terbaik — biasanya 15–18 PSI untuk SUP boleh tiup berkualiti. olagoon SUP Explorer 11 memberikan prestasi terbaik pada 15–18 PSI. Tiupan yang tidak mencukupi menyebabkan papan terasa lembut dan sukar dikawal arahnya. Tiupan berlebihan melebihi penarafan maksimum berisiko merosakkan benang jahitan-jatuh. Semak pelekat berhampiran injap untuk penarafan khusus papan anda.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -229,7 +229,7 @@
     - inflatable-sup-maintenance
 - id: sup-seated-paddling
   question: 'Bolehkah saya mendayung SUP saya dalam posisi duduk?'
-  answer: 'Ya. Banyak papan SUP, termasuk afarer Explorer 11, mempunyai cincin-D yang membolehkan tempat duduk dipasang. Mendayung dalam keadaan duduk menawarkan pilihan yang selesa untuk perjalanan yang lebih jauh, memancing, atau apabila anda mahu menukar posisi di atas air.'
+  answer: 'Ya. Banyak papan SUP, termasuk olagoon Explorer 11, mempunyai cincin-D yang membolehkan tempat duduk dipasang. Mendayung dalam keadaan duduk menawarkan pilihan yang selesa untuk perjalanan yang lebih jauh, memancing, atau apabila anda mahu menukar posisi di atas air.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -252,7 +252,7 @@
     - sup-leash-guide
 - id: drop-stitch-technology
   question: 'Apakah teknologi teras jahitan-jatuh (drop-stitch) dan mengapa ia penting?'
-  answer: 'Teknologi teras jahitan-jatuh menggunakan beribu-ribu benang polyester yang menghubungkan lapisan atas dan bawah papan PVC. Apabila ditiup sehingga 15-20 PSI, benang ini membentuk struktur tegar yang rintang kilasan dan berprestasi seperti papan cangkerang keras. afarer menggunakan PVC tiga lapisan gred tentera dengan laminasi jahitan-jatuh pada semua peringkat produk SUP, memberikan kekakuan yang setanding dengan papan epoksi sambil mengekalkan kemudahalihan papan boleh tiup.'
+  answer: 'Teknologi teras jahitan-jatuh menggunakan beribu-ribu benang polyester yang menghubungkan lapisan atas dan bawah papan PVC. Apabila ditiup sehingga 15-20 PSI, benang ini membentuk struktur tegar yang rintang kilasan dan berprestasi seperti papan cangkerang keras. olagoon menggunakan PVC tiga lapisan gred tentera dengan laminasi jahitan-jatuh pada semua peringkat produk SUP, memberikan kekakuan yang setanding dengan papan epoksi sambil mengekalkan kemudahalihan papan boleh tiup.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -262,7 +262,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-inflatable-vs-rigid
   question: 'SUP boleh tiup vs tegar: yang manakah lebih baik untuk kegunaan berbeza?'
-  answer: 'SUP boleh tiup cemerlang dalam kemudahalihan, penyimpanan dan penyerapan hentaman — ideal untuk perjalanan, pemula dan kegunaan rekreasi. Papan epoksi tegar menawarkan kelajuan dan luncuran maksimum untuk perlumbaan dan sukan luncur. Bagi 90% pendayung, papan boleh tiup berkualiti dengan teras jahitan-jatuh (15-20 PSI) memberikan kekakuan yang mencukupi untuk jelajah, kecergasan, yoga dan memancing. Papan boleh tiup afarer menandingi prestasi papan keras julat pertengahan sambil boleh dilipat ke dalam beg galas.'
+  answer: 'SUP boleh tiup cemerlang dalam kemudahalihan, penyimpanan dan penyerapan hentaman — ideal untuk perjalanan, pemula dan kegunaan rekreasi. Papan epoksi tegar menawarkan kelajuan dan luncuran maksimum untuk perlumbaan dan sukan luncur. Bagi 90% pendayung, papan boleh tiup berkualiti dengan teras jahitan-jatuh (15-20 PSI) memberikan kekakuan yang mencukupi untuk jelajah, kecergasan, yoga dan memancing. Papan boleh tiup olagoon menandingi prestasi papan keras julat pertengahan sambil boleh dilipat ke dalam beg galas.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -272,7 +272,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-skill-progression
   question: 'Apakah perkembangan kemahiran SUP yang biasa dari pemula sehingga mahir?'
-  answer: 'Pemula (sesi 1-3): berdiri, kayuhan hadapan asas, pusingan, jatuh dengan selamat. Pertengahan (sesi 5-15): teknik kayuhan yang cekap, pusingan pivot, mengharungi ombak kecil, kemahiran penyelamatan asas. Mahir (20+ sesi): permulaan perlumbaan, pusingan buoy, melayari ombak kecil, mendayung mengikut arah angin. Profesional: perlumbaan kompetitif, surf SUP, jelajah jarak jauh. Papan afarer menyokong setiap peringkat: Explorer 11 untuk pemula, Ocean Voyager untuk jelajah, dan Cheetah Surge untuk pendayungan berprestasi.'
+  answer: 'Pemula (sesi 1-3): berdiri, kayuhan hadapan asas, pusingan, jatuh dengan selamat. Pertengahan (sesi 5-15): teknik kayuhan yang cekap, pusingan pivot, mengharungi ombak kecil, kemahiran penyelamatan asas. Mahir (20+ sesi): permulaan perlumbaan, pusingan buoy, melayari ombak kecil, mendayung mengikut arah angin. Profesional: perlumbaan kompetitif, surf SUP, jelajah jarak jauh. Papan olagoon menyokong setiap peringkat: Explorer 11 untuk pemula, Ocean Voyager untuk jelajah, dan Cheetah Surge untuk pendayungan berprestasi.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -284,7 +284,7 @@
     - sup-paddle-guide
 - id: sup-weight-capacity
   question: 'Berapa banyak berat yang mampu ditampung oleh papan SUP boleh tiup?'
-  answer: 'Kapasiti berat berbeza mengikut isipadu papan. Papan afarer: SUP Explorer 11 (260L, sehingga 100 kg / 220 lbs), Ocean Voyager 12 (310L, sehingga 140 kg / 308 lbs), Leviathan Wake (350L, sehingga 180 kg / 396 lbs). Untuk prestasi optimum, kekalkan jumlah beban (penunggang + kelengkapan) dalam lingkungan 80% daripada kapasiti maksimum. Papan terapung lebih tinggi dan lebih mudah dikawal arahnya apabila tidak dibebani berlebihan, terutamanya dalam keadaan berombak.'
+  answer: 'Kapasiti berat berbeza mengikut isipadu papan. Papan olagoon: SUP Explorer 11 (260L, sehingga 100 kg / 220 lbs), Ocean Voyager 12 (310L, sehingga 140 kg / 308 lbs), Leviathan Wake (350L, sehingga 180 kg / 396 lbs). Untuk prestasi optimum, kekalkan jumlah beban (penunggang + kelengkapan) dalam lingkungan 80% daripada kapasiti maksimum. Papan terapung lebih tinggi dan lebih mudah dikawal arahnya apabila tidak dibebani berlebihan, terutamanya dalam keadaan berombak.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -301,7 +301,7 @@
   relatedGuides: []
 - id: sup-inflatable-durability
   question: 'Berapa lama papan SUP boleh tiup bertahan dengan penjagaan yang betul?'
-  answer: 'Dengan penjagaan yang betul, papan SUP boleh tiup berkualiti bertahan 5-10 tahun dalam kegunaan rekreasi biasa. PVC tiga lapisan gred tentera bersalut tahan UV — seperti yang digunakan pada semua papan afarer — menahan kerosakan matahari, kakisan air masin dan lelasan. Faktor ketahanan utama: bilas dengan air tawar selepas setiap kegunaan, keringkan sepenuhnya sebelum disimpan, jauhkan daripada sinaran UV terus apabila tidak digunakan, simpan dalam keadaan separa tiup di tempat yang sejuk dan kering, serta elakkan menyeret papan di permukaan yang kasar. Benang jahitan-jatuh dan jahitan biasanya menjadi titik kegagalan pertama, bukan kain PVC itu sendiri.'
+  answer: 'Dengan penjagaan yang betul, papan SUP boleh tiup berkualiti bertahan 5-10 tahun dalam kegunaan rekreasi biasa. PVC tiga lapisan gred tentera bersalut tahan UV — seperti yang digunakan pada semua papan olagoon — menahan kerosakan matahari, kakisan air masin dan lelasan. Faktor ketahanan utama: bilas dengan air tawar selepas setiap kegunaan, keringkan sepenuhnya sebelum disimpan, jauhkan daripada sinaran UV terus apabila tidak digunakan, simpan dalam keadaan separa tiup di tempat yang sejuk dan kering, serta elakkan menyeret papan di permukaan yang kasar. Benang jahitan-jatuh dan jahitan biasanya menjadi titik kegagalan pertama, bukan kain PVC itu sendiri.'
   category: maintenance
   relatedProducts:
     - sup-explorer-11
@@ -312,7 +312,7 @@
     - inflatable-sup-repair
 - id: sup-choppy-water
   question: 'Bagaimanakah saya mendayung SUP dalam air berombak atau berangin?'
-  answer: 'Dalam ombak kecil: bengkokkan lutut, gunakan posisi kaki yang lebih lebar, pendekkan kayuhan dayung dan libatkan otot teras untuk keseimbangan. Melawan angin depan: gunakan sudut dayung yang lebih rendah, ambil kayuhan lebih pendek dan condong ke hadapan. Angin dari sisi: dayung di sisi melawan angin untuk membetulkan hanyutan. Angin dari belakang: luncuri ombak untuk kelajuan. Pemula harus mengelakkan angin melebihi 10 mph dan memilih papan yang lebih lebar dan panjang untuk kestabilan. SUP jelajah afarer Ocean Voyager direka untuk mengharungi ombak dan keadaan berangin yang sederhana.'
+  answer: 'Dalam ombak kecil: bengkokkan lutut, gunakan posisi kaki yang lebih lebar, pendekkan kayuhan dayung dan libatkan otot teras untuk keseimbangan. Melawan angin depan: gunakan sudut dayung yang lebih rendah, ambil kayuhan lebih pendek dan condong ke hadapan. Angin dari sisi: dayung di sisi melawan angin untuk membetulkan hanyutan. Angin dari belakang: luncuri ombak untuk kelajuan. Pemula harus mengelakkan angin melebihi 10 mph dan memilih papan yang lebih lebar dan panjang untuk kestabilan. SUP jelajah olagoon Ocean Voyager direka untuk mengharungi ombak dan keadaan berangin yang sederhana.'
   category: safety
   relatedProducts:
     - sup-ocean-voyager
@@ -323,7 +323,7 @@
     - wind-conditions-sup
 - id: sup-sustainability
   question: 'Adakah papan SUP boleh tiup mampan dari segi alam sekitar?'
-  answer: 'SUP boleh tiup mempunyai jejak alam sekitar yang lebih rendah berbanding papan tegar dalam beberapa cara: ia menggunakan lebih sedikit bahan mentah dalam pengeluaran, beratnya yang lebih ringan mengurangkan pelepasan penghantaran, dan ketahanannya bermakna lebih sedikit penggantian dari masa ke masa. PVC yang digunakan dalam papan afarer bebas plumbum dan mematuhi REACH. Amalan kemampanan utama: beli papan berkualiti yang bertahan 5-10 tahun, baiki tembusan berbanding menggantikan, kitar semula papan pada akhir hayat melalui program kitar semula PVC khusus, dan elakkan pembungkusan guna tunggal dengan memilih jenama yang menggunakan beg bawaan boleh guna semula.'
+  answer: 'SUP boleh tiup mempunyai jejak alam sekitar yang lebih rendah berbanding papan tegar dalam beberapa cara: ia menggunakan lebih sedikit bahan mentah dalam pengeluaran, beratnya yang lebih ringan mengurangkan pelepasan penghantaran, dan ketahanannya bermakna lebih sedikit penggantian dari masa ke masa. PVC yang digunakan dalam papan olagoon bebas plumbum dan mematuhi REACH. Amalan kemampanan utama: beli papan berkualiti yang bertahan 5-10 tahun, baiki tembusan berbanding menggantikan, kitar semula papan pada akhir hayat melalui program kitar semula PVC khusus, dan elakkan pembungkusan guna tunggal dengan memilih jenama yang menggunakan beg bawaan boleh guna semula.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -341,8 +341,8 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-certification
-  question: 'Apakah pensijilan yang dimiliki oleh produk OEM afarer?'
-  answer: 'Semua produk OEM/ODM afarer disertakan dengan: deklarasi pematuhan CE (pasaran EU), UKCA (pasaran UK), sistem pengurusan kualiti ISO 9001:2015, audit pematuhan sosial BSCI, pematuhan bahan REACH dan RoHS, serta klasifikasi EN ISO 25649 untuk papan SUP boleh tiup. Pensijilan tambahan tersedia atas permintaan: dokumentasi pematuhan US Coast Guard, ujian standard tentera (MIL-STD-810) dan sokongan pensijilan import negara destinasi.'
+  question: 'Apakah pensijilan yang dimiliki oleh produk OEM olagoon?'
+  answer: 'Semua produk OEM/ODM olagoon disertakan dengan: deklarasi pematuhan CE (pasaran EU), UKCA (pasaran UK), sistem pengurusan kualiti ISO 9001:2015, audit pematuhan sosial BSCI, pematuhan bahan REACH dan RoHS, serta klasifikasi EN ISO 25649 untuk papan SUP boleh tiup. Pensijilan tambahan tersedia atas permintaan: dokumentasi pematuhan US Coast Guard, ujian standard tentera (MIL-STD-810) dan sokongan pensijilan import negara destinasi.'
   category: b2b
   relatedProducts: []
   relatedGuides: []
@@ -359,7 +359,7 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-ip-protection
-  question: 'Bagaimanakah afarer melindungi harta intelek dan reka bentuk saya?'
+  question: 'Bagaimanakah olagoon melindungi harta intelek dan reka bentuk saya?'
   answer: 'Perlindungan IP merupakan sebahagian teras perkhidmatan OEM kami. Kami menandatangani NDA sebelum sebarang perbincangan reka bentuk. Fail reka bentuk dikendalikan pada stesen kerja terasing dengan log akses. Semua alat dan acuan kekal sebagai harta eksklusif anda (dibayar oleh anda). Kami tidak akan menggunakan semula acuan atau reka bentuk anda untuk pelanggan lain. Penyimpanan dan penyenggaraan acuan disertakan untuk akaun aktif. Selepas penamatan perjanjian, acuan sama ada dihantar kepada anda atau dimusnahkan dengan dokumentasi video. Kami menghormati semua hak tanda dagangan dan paten.'
   category: b2b
   relatedProducts: []

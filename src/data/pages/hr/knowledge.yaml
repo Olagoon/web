@@ -1,6 +1,6 @@
 meta:
   title: 'Znanje — SUP vodiči | {SITE}'
-  description: 'afarer baza znanja: vodiči o napuhivim SUP daskama, materijalima daska za veslanje, odabiru dasaka i uvidima u industriju za marke i profesionalce.'
+  description: 'olagoon baza znanja: vodiči o napuhivim SUP daskama, materijalima daska za veslanje, odabiru dasaka i uvidima u industriju za marke i profesionalce.'
   keywords:
     - 'sup znanje'
     - 'vodič za napuhive sup daske'
@@ -17,7 +17,7 @@ hero:
 clusters:
   tagline: 'Skupine znanja'
   title: 'Istražite po temama'
-  subtitle: 'Detaljni pregledi tehnologije, sigurnosti i vještina koje stoje iza svakog afarer proizvoda.'
+  subtitle: 'Detaljni pregledi tehnologije, sigurnosti i vještina koje stoje iza svakog olagoon proizvoda.'
   items:
     - title: 'Vodiči za kupnju SUP dasaka'
       description: 'Od odabira prve daske do naprednih touring tehnika — sve o stand up paddle boardingu.'

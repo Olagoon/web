@@ -1,6 +1,6 @@
 meta:
   title: 'איכות ובדיקות — בקרת ייצור | {SITE}'
-  description: 'מערכת האיכות של afarer: מעבדת בדיקות עצמאית, תהליכי ISO 9001 ובדיקה של כל יחידה לפני משלוח. בקרת איכות לייצור SUP מתנפח.'
+  description: 'מערכת האיכות של olagoon: מעבדת בדיקות עצמאית, תהליכי ISO 9001 ובדיקה של כל יחידה לפני משלוח. בקרת איכות לייצור SUP מתנפח.'
   keywords:
     - 'בקרת איכות SUP'
     - 'בדיקות SUP מתנפח'
@@ -9,7 +9,7 @@ meta:
 hero:
   tagline: 'בטחון איכות'
   title: 'בדיקות ביצועים ואיכות'
-  subtitle: 'כל SUP מתנפח של afarer עובר בדיקות ביצועים ובקרת איכות קפדניות במרכז המו״פ שלנו לפני המשלוח. בדיקות האיכות המקיפות שלנו ל-SUP מספקות הוכחה מוחשית למצוינות המוצר עבור קוני OEM וסיטונאים.'
+  subtitle: 'כל SUP מתנפח של olagoon עובר בדיקות ביצועים ובקרת איכות קפדניות במרכז המו״פ שלנו לפני המשלוח. בדיקות האיכות המקיפות שלנו ל-SUP מספקות הוכחה מוחשית למצוינות המוצר עבור קוני OEM וסיטונאים.'
 
 stats:
   - value: 100%
@@ -24,28 +24,28 @@ stats:
 tests:
   - title: 'בדיקות לחץ'
     description: 'תאים מתנפחים נחשפים ללחצים העולים על גבולות ההפעלה המומלצים לתקופות ממושכות. זה מאמת את אטימות האוויר ואת שלמות המבנה של החומר והתפרים, ומבטיח שהמוצר יעמוד בשימוש המיועד ובניפוח יתר אפשרי מבלי להיכשל או לדלוף.'
-    image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
   - title: 'בדיקות פגיעה'
     description: 'המוצרים נחשפים לפגיעות מבוקרות ממשקלים ומזוויות שונים. זה מעריך את עמידות החומר לנקבים, לקריעות ולנזקים מהתנגשויות במכשולים במים, ומדגים עמידות ואורך חיים.'
-    image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
   - title: 'בדיקות עמידות ל-UV'
     description: 'דגימות חומר עוברות חשיפה מואצת ל-UV המדמה שנים של שמש קשה, ולאחר מכן נבדקות שוב לשימור חוזק מתיחה ולעמידות צבע. זה מאמת שתרכובות ה-PVC עמידות לדהייה, להלבנה ולסדיקה, ומבטיח עמידות ארוכת טווח בסביבות ימיות שטופות שמש.'
-    image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
   - title: 'בדיקות עמידות לשחיקה'
     description: 'דגימות חומר נשפשפות כנגד משטחים שוחקים למספר מחזורים מוגדר תחת לחץ מבוקר. זה מודד את יכולת החומר לעמוד בשחיקה משימוש חוזר ובמגע עם חול, סלעים או משטחים אחרים, ומבטיח עמידות ארוכת טווח.'
-    image: https://assets.afarer.com/images/afarer/factory/afarer-pvc-material-testing.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pvc-material-testing.webp
   - title: 'בדיקות ביצועים בטמפרטורות נמוכות'
     description: 'המוצרים נבדקים בסביבות קרות כדי להעריך תפקוד ועמידות במגוון תנאי טמפרטורה, ולמנוע נוקשות או סדיקה במים קרים יותר. חיוני עבור לוחות המיועדים לשימוש חורפי או באזורי רוחב גבוה.'
-    image: https://assets.afarer.com/images/afarer/factory/afarer-factory-exterior.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-exterior.webp
   - title: 'בדיקות ציפה וכושר נשיאה'
     description: 'המוצרים נבדקים עם משקולות שונות כדי לקבוע את כושר הנשיאה המרבי שלהם ולהבטיח שיתמכו בבטחה במשתמשים ובציוד. כושר הנשיאה הנקוב של כל דגם מאומת לפני השקתו.'
-    image: https://assets.afarer.com/images/afarer/factory/afarer-stock-boat-inventory.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-stock-boat-inventory.webp
   - title: 'בדיקות תמרון'
     description: 'המוצרים נבדקים לרגישותם לקלט חתירה או מנוע, תוך הערכת רדיוס הפנייה וקלות התפעול. ניסויים במים מאמתים שההתנהגות בתנאים אמיתיים תואמת את מפרט העיצוב.'
-    image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing.webp
   - title: 'בדיקות אטימות למים'
     description: 'מוצרים מורכבים במלואם מוטבעים במים או נחשפים לתרסיס מים כדי לבדוק דליפות דרך תפרים, שסתומים או חומרים. כל לוח עובר בדיקת אטימות חובה לפני המשלוח.'
-    image: https://assets.afarer.com/images/afarer/factory/afarer-production-department-2.webp
+    image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department-2.webp
 
 testing_section:
   tagline: 'נהלי בדיקה'

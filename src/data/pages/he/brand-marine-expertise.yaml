@@ -1,6 +1,6 @@
 meta:
   title: 'מומחיות ימית — הנדסה בכל גוף | {SITE}'
-  description: 'עשרות שנות הנדסה ימית בכל גוף. afarer שולטת ב-Drop-Stitch, ב-PVC ימי ובעיצוב SUP ניפחים מקצועי.'
+  description: 'עשרות שנות הנדסה ימית בכל גוף. olagoon שולטת ב-Drop-Stitch, ב-PVC ימי ובעיצוב SUP ניפחים מקצועי.'
   keywords:
     - 'הנדסה ימית'
     - 'יצרן SUP ניפחים'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: 'מומחיות ימית'
   title: 'עשרות שנות הנדסה ימית<br />בכל גוף'
-  subtitle: 'afarer משלבת מדע חומרים עמוק, ייצור מדויק ובדיקות בתנאים אמיתיים כדי לייצר כלי שיט שמתפקדים כשזה חשוב.'
+  subtitle: 'olagoon משלבת מדע חומרים עמוק, ייצור מדויק ובדיקות בתנאים אמיתיים כדי לייצר כלי שיט שמתפקדים כשזה חשוב.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: 'צוות ההנדסה הימית והמו״פ של afarer בעבודה'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: 'צוות ההנדסה הימית והמו״פ של olagoon בעבודה'
 expertise_materials:
   tagline: 'מדע חומרים'
   title: 'בחירת החומר הנכון<br />לכל יישום'

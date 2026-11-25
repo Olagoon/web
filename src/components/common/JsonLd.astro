@@ -139,8 +139,8 @@ const {
 } = Astro.props;
 const type = typeProp || (data?.['@type'] as LdType) || 'WebSite';
 const siteUrl = String(SITE.site).replace(/\/+$/, '');
-const name = SITE_SETTINGS?.siteName || SITE?.name || 'Afarer';
-const authorName = 'Afarer Team';
+const name = SITE_SETTINGS?.siteName || SITE?.name || 'OLagoon';
+const authorName = 'OLagoon Team';
 
 let schema: Record<string, unknown> = { '@context': 'https://schema.org' };
 

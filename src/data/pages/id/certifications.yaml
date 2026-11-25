@@ -1,6 +1,6 @@
 meta:
   title: 'Sertifikasi — CE, ISO 9001 & Kepatuhan | {SITE}'
-  description: 'Sertifikasi kualitas afarer: CE (EN ISO 25649), ISO 9001:2015, BSCI. Kepatuhan dan keselamatan untuk produsen SUP tiup.'
+  description: 'Sertifikasi kualitas olagoon: CE (EN ISO 25649), ISO 9001:2015, BSCI. Kepatuhan dan keselamatan untuk produsen SUP tiup.'
   keywords:
     - 'sertifikasi ce sup'
     - 'iso 9001 sup'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: 'Sertifikasi & Standar'
   title: 'Sertifikasi Kualitas<br />& Standar Kepatuhan'
-  subtitle: 'Manufaktur SUP afarer tersertifikasi terhadap standar keselamatan bahari internasional, sistem manajemen kualitas, dan regulasi lingkungan — CE, ISO 9001, UKCA, BSCI, dan REACH.'
+  subtitle: 'Manufaktur SUP olagoon tersertifikasi terhadap standar keselamatan bahari internasional, sistem manajemen kualitas, dan regulasi lingkungan — CE, ISO 9001, UKCA, BSCI, dan REACH.'
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: 'sertifikasi kualitas afarer dan dokumentasi kepatuhan'
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: 'sertifikasi kualitas olagoon dan dokumentasi kepatuhan'
 content_certifications:
   tagline: 'Sertifikasi Kami'
   title: 'Kualitas Tersertifikasi,<br />Diakui Secara Global'
-  subtitle: 'Setiap produk afarer didukung oleh sertifikasi yang menunjukkan komitmen kami terhadap kualitas, keselamatan, dan tanggung jawab lingkungan.'
+  subtitle: 'Setiap produk olagoon didukung oleh sertifikasi yang menunjukkan komitmen kami terhadap kualitas, keselamatan, dan tanggung jawab lingkungan.'
   items:
     - title: 'Tersertifikasi CE'
-      description: 'Semua produk afarer mematuhi persyaratan penandaan CE Eropa untuk kapal air rekreasi, memastikan standar keselamatan, kesehatan, dan perlindungan lingkungan terpenuhi.'
+      description: 'Semua produk olagoon mematuhi persyaratan penandaan CE Eropa untuk kapal air rekreasi, memastikan standar keselamatan, kesehatan, dan perlindungan lingkungan terpenuhi.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'Sistem manajemen kualitas kami tersertifikasi ISO 9001:2015, mencakup desain, manufaktur, dan distribusi kapal air tiup serta peralatan bahari.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'Produk yang dijual di pasar Inggris membawa penandaan UKCA, menegaskan kepatuhan terhadap regulasi Inggris untuk peralatan bahari dan kapal air pribadi.'
       icon: tabler:shield
     - title: 'Patuh BSCI'
-      description: 'afarer telah diaudit BSCI (Business Social Compliance Initiative), menunjukkan praktik manufaktur yang etis, kondisi kerja yang adil, dan tanggung jawab rantai pasokan.'
+      description: 'olagoon telah diaudit BSCI (Business Social Compliance Initiative), menunjukkan praktik manufaktur yang etis, kondisi kerja yang adil, dan tanggung jawab rantai pasokan.'
       icon: tabler:heart-handshake
     - title: 'Patuh REACH'
-      description: 'Semua material yang digunakan dalam produk afarer mematuhi regulasi REACH UE untuk keamanan kimia, memastikan tidak ada zat terbatas dalam PVC, EVA, atau komponen kami.'
+      description: 'Semua material yang digunakan dalam produk olagoon mematuhi regulasi REACH UE untuk keamanan kimia, memastikan tidak ada zat terbatas dalam PVC, EVA, atau komponen kami.'
       icon: tabler:flask
     - title: 'Pengujian Material'
       description: 'Kain diuji untuk kekuatan tarik, ketahanan sobek, degradasi UV, dan performa cold-crack. Setiap batch produksi diambil sampelnya dan diverifikasi.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: 'Standar Keselamatan Bahari'
   title: 'Utamakan Keselamatan<br />— Dirancang untuk Operasi yang Andal'
-  subtitle: 'Produk afarer dirancang dan diuji untuk memenuhi standar keselamatan bahari internasional bagi penggunaan komersial dan rekreasi.'
+  subtitle: 'Produk olagoon dirancang dan diuji untuk memenuhi standar keselamatan bahari internasional bagi penggunaan komersial dan rekreasi.'
   items:
     - title: 'EN ISO 25649'
       description: 'SUP tiup mematuhi standar EN ISO 25649 untuk konstruksi, stabilitas, daya apung, dan kapasitas beban.'

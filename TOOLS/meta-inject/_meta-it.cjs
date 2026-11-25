@@ -23,7 +23,7 @@ module.exports = {
       'lezioni di SUP',
     ],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'La Nostra Storia — Produttore di SUP Gonfiabili e Barche | {SITE}',
     description:
       'Da un laboratorio costiero a un produttore marino globale: la storia di afar, ingegneria per la libertà in acqua con una fabbrica certificata di 12.000 m².',
@@ -57,7 +57,7 @@ module.exports = {
       'Fondata nel 2012 a Qingdao, afar è stata costruita da ingegneri navali, scienziati dei materiali e appassionati di sport acquatici. Scopri il team dietro la fabbrica.',
     keywords: ['team afar', 'ingegneri navali', 'produttore di SUP gonfiabili', 'team della fabbrica SUP'],
   },
-  'brand-why-afarer': {
+  'brand-why-olagoon': {
     title: 'Perché afar — 7 Motivi per Cui i Marchi Globali Ci Scelgono | {SITE}',
     description:
       'Perché i marchi globali scelgono afar: certificazioni CE e ISO, MOQ flessibile, stampi personalizzati e tempi di consegna di 30 giorni da una fabbrica SUP professionale.',

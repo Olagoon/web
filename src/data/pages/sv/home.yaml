@@ -1,6 +1,6 @@
 meta:
-  title: Afarer Uppblåsbara Paddleboards | Gå längre. Kör hårdare.
-  description: Upptäck Afarer uppblåsbara paddleboards för allround-paddling, touring, yoga, fiske och äventyr utomhus. Hitta din perfekta SUP och utforska mer på vattnet.
+  title: OLagoon Uppblåsbara Paddleboards | Gå längre. Kör hårdare.
+  description: Upptäck OLagoon uppblåsbara paddleboards för allround-paddling, touring, yoga, fiske och äventyr utomhus. Hitta din perfekta SUP och utforska mer på vattnet.
   keywords:
     - uppblåsbar paddleboard
     - uppblåsbar sup
@@ -14,7 +14,7 @@ hero:
   tagline: Uppblåsbara Paddleboards
   title: Uppblåsbara Paddleboards för Varje Äventyr
   slogan: Gå längre. Kör hårdare.
-  subtitle: Upptäck friheten i paddling med Afarer. Utforska genomtänkta uppblåsbara SUP:ar för avslappnade dagar vid sjön, kustäventyr, träning och allt däremellan.
+  subtitle: Upptäck friheten i paddling med OLagoon. Utforska genomtänkta uppblåsbara SUP:ar för avslappnade dagar vid sjön, kustäventyr, träning och allt däremellan.
   taglineSection: Byggd för förtroende. Designad för att synas.
   actions:
     - variant: primary
@@ -24,16 +24,16 @@ hero:
     - text: Utforska SUP
       href: /inflatable-sup/
       icon: tabler:waves
-    - text: Varför Afarer
-      href: /afarer-story/
+    - text: Varför OLagoon
+      href: /olagoon-story/
       icon: tabler:heart
   image:
     src: ~/assets/images/hero-image.webp
-    alt: Afarer uppblåsbara paddleboards glider över lugnt vatten i soluppgången — byggda för varje äventyr
+    alt: OLagoon uppblåsbara paddleboards glider över lugnt vatten i soluppgången — byggda för varje äventyr
 who_we_serve:
   tagline: Kör Med Oss
   title: Hitta Din Väg på Vattnet
-  subtitle: Varje paddlare har sin egen bild av äventyr. Upptäck en Afarer SUP designad för ditt sätt att paddla.
+  subtitle: Varje paddlare har sin egen bild av äventyr. Upptäck en OLagoon SUP designad för ditt sätt att paddla.
   items:
     - title: Nybörjare & Fritidspaddlare
       keywords: uppblåsbar sup för nybörjare, allround paddleboard, stabil sup

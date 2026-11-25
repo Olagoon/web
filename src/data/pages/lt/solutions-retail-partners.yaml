@@ -5,10 +5,10 @@ meta:
 hero:
   tagline: 'Mažmeninės prekybos partneriai'
   title: 'Parduokite premium pripučiamas SUP lentas<br />su veikiančiomis maržomis'
-  subtitle: 'Tapkite Afarer mažmeninės prekybos partneriu — prekiaukite greičiausiai augančiu SUP prekės ženklu savo rinkoje su pilnomis didmeninėmis kainomis, tiesioginiu siuntimu, profesionaliomis rinkodaros medžiagomis ir skirtu palaikymu.'
+  subtitle: 'Tapkite OLagoon mažmeninės prekybos partneriu — prekiaukite greičiausiai augančiu SUP prekės ženklu savo rinkoje su pilnomis didmeninėmis kainomis, tiesioginiu siuntimu, profesionaliomis rinkodaros medžiagomis ir skirtu palaikymu.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Afarer SUP lentos, rodomos mažmeninės prekybos parduotuvėje'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'OLagoon SUP lentos, rodomos mažmeninės prekybos parduotuvėje'
 
 margin_section:
   title: 'Mažmeninės maržos ir MOQ'
@@ -92,7 +92,7 @@ support:
     - 'Mokėjimo sąlygos Net 30'
 
 cta:
-  title: 'Pasirengę tapti Afarer mažmeninės prekybos partneriu?'
+  title: 'Pasirengę tapti OLagoon mažmeninės prekybos partneriu?'
   subtitle: 'Pateikite partnerystės paraišką arba atsisiųskite mūsų mažmeninės prekybos katalogą, kad pradėtumėte.'
   actions:
     - text: 'Pateikti partnerystės paraišką'

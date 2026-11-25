@@ -1,6 +1,6 @@
 meta:
-  title: 'Om afarer — uppblåsbara SUP- och vattensportsvarumärket | {SITE}'
-  description: 'Afarer är ett globalt varumärke för uppblåsbara SUP:ar och vattensport, som drivs av Aquafarer LLC och byggs av vårt Qingdao-team. Upptäck vår berättelse, vår ingenjörskonst, certifierad kvalitet och våra landspartnerprogram.'
+  title: 'Om olagoon — uppblåsbara SUP- och vattensportsvarumärket | {SITE}'
+  description: 'OLagoon är ett globalt varumärke för uppblåsbara SUP:ar och vattensport, som drivs av Olagoon LLC och byggs av vårt Qingdao-team. Upptäck vår berättelse, vår ingenjörskonst, certifierad kvalitet och våra landspartnerprogram.'
   keywords:
     - 'uppblåsbart SUP-varumärke'
     - 'vattensportsvarumärke'
@@ -10,11 +10,11 @@ meta:
 hero:
   tagline: Om företaget
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer-verkstad
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon-verkstad
   title: |
     Marin ingenjörskonst <br />
-    i <span class="text-accent dark:text-white">afarer</span>-stil
+    i <span class="text-accent dark:text-white">olagoon</span>-stil
   subtitle: 'Vi började i en kustverkstad med en bräda och en orubblig övertygelse: marina produkter bör konstrueras som om de spelar roll — för det gör de. Idag levererar vi till över 40 länder, men varje skrov går fortfarande genom samma händer som grundade företaget.'
 stats:
   title: I siffror
@@ -57,7 +57,7 @@ features3_more:
       description: Design projekt för projekt för kommersiella, vetenskapliga och militära kunder.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Design- och ingenjörsdiskussion kring brädor
 steps2_values:
   title: Våra värderingar
@@ -74,7 +74,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Milstolpar
-  subtitle: Den korta versionen av afarers historia.
+  subtitle: Den korta versionen av olagoons historia.
   isReversed: true
   items:
     - title: Grundad i en kustverkstad
@@ -109,7 +109,7 @@ brand_hub_cards:
     desc: Frakt till 50+ länder från vår anläggning i Qingdao med auktoriserade servicepartners i Europa, Stillahavsregionen och Amerika.
     link: /brand-global-presence/
     link_label: Läs mer →
-  - title: Varför afarer
+  - title: Varför olagoon
     desc: Ett varumärke byggt på verifierad kvalitet — dubbel certifiering (ISO 9001 + BSCI), CE-uppfyllelse och exklusiva landspartnerskap med begränsade co-branded kollektioner för vattensportsföretag.
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Läs mer →

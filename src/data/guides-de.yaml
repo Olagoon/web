@@ -19,7 +19,7 @@
     - q: Aufblasbares oder hartes SUP Board?
       a: Aufblasbare Boards bieten Transportfreundlichkeit, bequeme Lagerung und Stoßdämpfung. Hardboards bieten maximale Steifigkeit und Geschwindigkeit. Für die meisten Freizeitsportler ist ein hochwertiges aufblasbares SUP mit Drop-Stitch-Kern die praktische Wahl.
     - q: Auf welchen Luftdruck in PSI soll ich aufpumpen?
-      a: Für afarer-Boards werden 12-15 PSI empfohlen. Bei 15 PSI erreicht das Board seine maximale Steifigkeit, die mit einem Hardboard vergleichbar ist. Bleiben Sie immer innerhalb des auf dem Board angegebenen zulässigen Luftdruckbereichs.
+      a: Für olagoon-Boards werden 12-15 PSI empfohlen. Bei 15 PSI erreicht das Board seine maximale Steifigkeit, die mit einem Hardboard vergleichbar ist. Bleiben Sie immer innerhalb des auf dem Board angegebenen zulässigen Luftdruckbereichs.
   relatedProducts: []
   relatedGuides:
     - beginner-guide
@@ -208,7 +208,7 @@
     - q: Kann ich mein SUP die ganze Saison über aufgepumpt lassen?
       a: Ja, aber halten Sie es außerhalb der direkten Sonneneinstrahlung, wenn es nicht benutzt wird. Für eine längere Lagerung wird ein teilweises Ablassen des Luftdrucks (8-10 PSI) empfohlen.
     - q: Wie repariere ich einen Einstich?
-      a: Reinigen Sie die Stelle, schneiden Sie einen Flicken mit abgerundeten Ecken zurecht, tragen Sie Kleber auf, drücken Sie kräftig an und warten Sie 24 Stunden, bevor Sie wieder aufpumpen. Zu afarer-Boards liegt ein Reparaturset bei.
+      a: Reinigen Sie die Stelle, schneiden Sie einen Flicken mit abgerundeten Ecken zurecht, tragen Sie Kleber auf, drücken Sie kräftig an und warten Sie 24 Stunden, bevor Sie wieder aufpumpen. Zu olagoon-Boards liegt ein Reparaturset bei.
     - q: Wie oft soll ich das Ventil prüfen?
       a: Monatlich. Das Ventil ist der häufigste Schwachpunkt. Prüfen Sie, dass sich der Ventilstift frei bewegt und der O-Ring intakt ist.
   relatedProducts: []
@@ -703,7 +703,7 @@
   description: Wie Sie mit einem aufblasbaren SUP per Flugzeug, Auto oder Wohnmobil reisen. Tipps zu Airline-Gebühren, Packen, Aufpumpen am Reiseziel und Besonderheiten bei Auslandsreisen.
   tldr: Lassen Sie die Luft ab, rollen Sie Ihr SUP zusammen und packen Sie es in seinen Rucksack. Die meisten Fluggesellschaften akzeptieren es als Aufgabegepäck (unter 23 kg / 127 cm Linearmaß). Packen Sie Pumpe und Paddel immer in dieselbe Tasche. Kommen Sie früh am Flughafen an, um zusätzliche Zeit einzuplanen, falls das Personal die Taschengröße hinterfragt. Erwägen Sie für lange Reisen den Versand im Voraus.
   problem: Reisen mit einem SUP erscheint kompliziert — Größenlimits der Fluggesellschaften, TSA-Bedenken und die Frage, wie man an einem abgelegenen Reiseziel aufpumpt, schaffen Unsicherheit.
-  solution: Afarer-SUP-Rucksäcke sind so konzipiert, dass sie die Aufgabegepäck-Grenzen der Fluggesellschaften einhalten. Packen Sie strategisch, führen Sie ein Reparaturset mit und recherchieren Sie vor der Abreise Aufpumpmöglichkeiten (Marinas, Campingplätze mit Stromanschluss).
+  solution: OLagoon-SUP-Rucksäcke sind so konzipiert, dass sie die Aufgabegepäck-Grenzen der Fluggesellschaften einhalten. Packen Sie strategisch, führen Sie ein Reparaturset mit und recherchieren Sie vor der Abreise Aufpumpmöglichkeiten (Marinas, Campingplätze mit Stromanschluss).
   audience: Paddler, die SUP-Reisen per Flugzeug, Auto oder Wohnmobil planen.
   steps:
     - Lassen Sie das Board vollständig ab und rollen Sie es von der Spitze zum Heck
@@ -736,7 +736,7 @@
   description: Leitfaden zur Auswahl aufblasbarer SUPs für größere Paddler (90-180 kg). Empfehlungen zu Boardbreite, Länge, Volumen und Tragfähigkeit für große und schwere Fahrer.
   tldr: Große Paddler brauchen breitere Boards (34-36”), größere Längen (11’6”-12’) und eine höhere Tragfähigkeit (136-180 kg). Achten Sie auf PVC in Militärqualität, verstärktes Drop-Stitch und Doppelschicht-Konstruktion. Meiden Sie schmale Boards unter 32”, unabhängig von der Länge.
   problem: Standard-SUPs haben Tragfähigkeiten von 90-113 kg und schließen damit viele Paddler aus. Das Fahren auf einem zu kleinen Board ist unbequem, instabil und potenziell gefährlich.
-  solution: Wählen Sie Boards mit einer Zulassung für 136+ kg und extra Breite für Stabilität. Die Serien Tropical Breeze und Leviathan Wake von Afarer bieten das Volumen und die Verstärkung, die größere Paddler brauchen.
+  solution: Wählen Sie Boards mit einer Zulassung für 136+ kg und extra Breite für Stabilität. Die Serien Tropical Breeze und Leviathan Wake von OLagoon bieten das Volumen und die Verstärkung, die größere Paddler brauchen.
   audience: Paddler über 90 kg, die ein Board brauchen, das ihr Gewicht sicher trägt.
   steps:
     - 'Berechnen Sie die Gesamtlast: Körpergewicht + Ausrüstung + 20 % Sicherheitsmarge'
@@ -835,7 +835,7 @@
   description: 'Wie Sie ein Touring-SUP für Langstreckenpaddeln wählen: Rumpfdesign, Länge, Breite, Spurtreue und Ausrüstungsempfehlungen für mehrtägige Expeditionen.'
   tldr: Touring-SUPs brauchen längere Rümpfe (12-14’), Verdrängungsbugs für effizientes Gleiten und eine moderate Breite (30-32”) für Spurtreue. Achten Sie auf Bungee-Deckrigging, mehrere D-Ringe und Drop-Stitch für hohe PSI-Werte. Ein Touring-spezifisches Paddel mit kleinerer Blattfläche reduziert die Ermüdung an langen Tagen.
   problem: Ein kurzes Allround-Board für Touring zu nutzen führt zu niedrigem Tempo, schlechter Spurtreue und früher Ermüdung. Distanzpaddeln erfordert ein spezialisiertes Rumpfdesign.
-  solution: Wählen Sie ein Board von 12’ oder länger mit Verdrängungsbug. Die Modelle Ocean Pulse und Ocean Voyager von Afarer bieten die Touring-spezifische Rumpfform und das Bungee-Rigging, die für Expeditionsfahrten nötig sind.
+  solution: Wählen Sie ein Board von 12’ oder länger mit Verdrängungsbug. Die Modelle Ocean Pulse und Ocean Voyager von OLagoon bieten die Touring-spezifische Rumpfform und das Bungee-Rigging, die für Expeditionsfahrten nötig sind.
   audience: Paddler, die Tagestouren, mehrtägige Expeditionen oder Fitnesstraining auf Distanz planen.
   steps:
     - Wählen Sie ein Board mit 12-14’ Länge für effizientes Gleiten und Spurtreue

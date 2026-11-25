@@ -1,14 +1,14 @@
 meta:
   title: 'SUP didmenų platinimo partnerystės programa | {SITE}'
-  description: 'Prisijunkite prie Afarer pasaulinio SUP didmenų platinimo tinklo. Išskirtinės teritorijos, visas pripučiamų SUP produktų portfelis, konkurencingos didmenų kainos ir skirta sąskaitų vadyba 50+ šalių.'
+  description: 'Prisijunkite prie OLagoon pasaulinio SUP didmenų platinimo tinklo. Išskirtinės teritorijos, visas pripučiamų SUP produktų portfelis, konkurencingos didmenų kainos ir skirta sąskaitų vadyba 50+ šalių.'
 
 hero:
   tagline: 'Platintojai'
   title: 'Prisijunkite prie mūsų pasaulinio<br />platinimo tinklo'
-  subtitle: 'SUP didmenų platinimo partnerystės programa su išskirtinėmis teritorijomis, visu pripučiamų SUP produktų portfeliu ir pasaulinio lygio parama. Afarer siunčia į 50+ šalių — ieškome įsitvirtinusių jūrinės ir vandens sporto prekių platintojų.'
+  subtitle: 'SUP didmenų platinimo partnerystės programa su išskirtinėmis teritorijomis, visu pripučiamų SUP produktų portfeliu ir pasaulinio lygio parama. OLagoon siunčia į 50+ šalių — ieškome įsitvirtinusių jūrinės ir vandens sporto prekių platintojų.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'Afarer pasaulinis platinimas ir siuntimo operacijos'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'OLagoon pasaulinis platinimas ir siuntimo operacijos'
 
 benefits:
   title: 'Ką gauna platintojai'
@@ -27,7 +27,7 @@ benefits:
 
 coverage:
   title: 'Dabartinis platinimas'
-  subtitle: 'Afarer šiuo metu tiesiogiai aptarnauja šias rinkas.'
+  subtitle: 'OLagoon šiuo metu tiesiogiai aptarnauja šias rinkas.'
   regions:
     - name: 'Europa'
       countries: 'Prancūzija, Vokietija, Jungtinė Karalystė, Ispanija, Italija, Nyderlandai, Švedija, Norvegija, Lenkija, Graikija'

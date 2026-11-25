@@ -1,6 +1,6 @@
 meta:
-  title: Afarer Napihljivi Paddleboardi | Zapluj dlje. Veslaj močneje.
-  description: Odkrijte Afarer napihljive paddleboarde za vsestransko veslanje, turizem, jogo, ribolov in pustolovščine v naravi. Poiščite svoj popoln SUP in raziskujte več po vodi.
+  title: OLagoon Napihljivi Paddleboardi | Zapluj dlje. Veslaj močneje.
+  description: Odkrijte OLagoon napihljive paddleboarde za vsestransko veslanje, turizem, jogo, ribolov in pustolovščine v naravi. Poiščite svoj popoln SUP in raziskujte več po vodi.
   keywords:
     - napihljivi paddleboard
     - napihljivi sup
@@ -14,7 +14,7 @@ hero:
   tagline: Napihljivi Paddleboardi
   title: Napihljivi Paddleboardi za Vsako Pustolovščino
   slogan: Zapluj dlje. Veslaj močneje.
-  subtitle: Odkrijte svobodo veslanja z Afarerjem. Raziskujte premišljeno zasnovane napihljive SUPe za sproščene dneve na jezeru, obalne pustolovščine, fitnes in vse vmes.
+  subtitle: Odkrijte svobodo veslanja z OLagoonjem. Raziskujte premišljeno zasnovane napihljive SUPe za sproščene dneve na jezeru, obalne pustolovščine, fitnes in vse vmes.
   taglineSection: Zgrajeno za zaupanje. Oblikovano, da izstopa.
   actions:
     - variant: primary
@@ -24,16 +24,16 @@ hero:
     - text: Raziskujte SUPe
       href: /inflatable-sup/
       icon: tabler:waves
-    - text: Zakaj Afarer
-      href: /afarer-story/
+    - text: Zakaj OLagoon
+      href: /olagoon-story/
       icon: tabler:heart
   image:
     src: ~/assets/images/hero-image.webp
-    alt: Afarer napihljivi paddleboardi drsijo po mirni vodi ob sončnem vzhodu — ustvarjeni za vsako pustolovščino
+    alt: OLagoon napihljivi paddleboardi drsijo po mirni vodi ob sončnem vzhodu — ustvarjeni za vsako pustolovščino
 who_we_serve:
   tagline: Veslajte z Nami
   title: Poiščite Svojo Pot po Vodi
-  subtitle: Vsak veslač ima drugačno predstavo o pustolovščini. Odkrijte SUP Afarer, zasnovan za vaš slog vožnje.
+  subtitle: Vsak veslač ima drugačno predstavo o pustolovščini. Odkrijte SUP OLagoon, zasnovan za vaš slog vožnje.
   items:
     - title: Začetniki in Rekreacijski Veslači
       keywords: napihljivi sup za začetnike, vsestranski paddleboard, stabilni sup

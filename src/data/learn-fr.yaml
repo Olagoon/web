@@ -1,5 +1,5 @@
 sup:
-  title: 'Tout savoir sur le paddle — Guides et ressources sur le paddle gonflable | afarer'
+  title: 'Tout savoir sur le paddle — Guides et ressources sur le paddle gonflable | olagoon'
   description: 'Centre de connaissances complet sur le paddle : guides pour débutants, choix des dimensions de la planche, tutoriels de technique, conseils de sécurité nautique et technologie du paddle gonflable.'
   articles:
     - title: 'Les bases du paddle — Guide du débutant'
@@ -21,7 +21,7 @@ sup:
       desc: "L'essentiel de la sécurité : lecture de la météo, choix du gilet de sauvetage, auto-sauvetage et sortie en groupe."
       href: '/learn/water-safety/'
 water-safety:
-  title: 'Sécurité nautique — Guides pour pagayer en toute sécurité | afarer'
+  title: 'Sécurité nautique — Guides pour pagayer en toute sécurité | olagoon'
   description: 'Ressources complètes de sécurité nautique pour le paddle, le kayak et la navigation : choix du gilet de sauvetage, lecture de la météo, auto-sauvetage, sécurité en eau froide et certification CE.'
   articles:
     - title: 'Guide de sécurité nautique'
@@ -44,7 +44,7 @@ water-safety:
       href: '/trust/'
 sup-basics:
   title: 'Les bases du paddle — Guide du débutant en stand-up paddle'
-  description: "Tout ce qu'il faut savoir pour débuter le stand-up paddle. Guides d'équipement, conseils de dimensionnement, astuces de sécurité et techniques de débutant, issus du centre de connaissances afarer."
+  description: "Tout ce qu'il faut savoir pour débuter le stand-up paddle. Guides d'équipement, conseils de dimensionnement, astuces de sécurité et techniques de débutant, issus du centre de connaissances olagoon."
   articles: []
 drop-stitch-core:
   title: 'Technologie du cœur drop-stitch — Comment les paddles gonflables atteignent leur rigidité'

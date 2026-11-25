@@ -1,8 +1,8 @@
 meta:
-  title: 'Central de Mídia — Imprensa e Recursos afarer | {SITE}'
-  description: 'A central de mídia afarer: comunicados à imprensa, materiais de marca e recursos da nossa empresa fabricante de SUP inflável.'
+  title: 'Central de Mídia — Imprensa e Recursos olagoon | {SITE}'
+  description: 'A central de mídia olagoon: comunicados à imprensa, materiais de marca e recursos da nossa empresa fabricante de SUP inflável.'
   keywords:
-    - 'imprensa afarer'
+    - 'imprensa olagoon'
     - 'mídia do fabricante de SUP'
     - 'kit de imprensa de paddle board'
     - 'notícias de empresa náutica'
@@ -21,7 +21,7 @@ sections:
       - Acessórios e Equipamento de Segurança
   - id: logo-brand-kit
     title: Logótipo e Kit de Marca
-    desc: Ficheiros oficiais do logótipo afarer, paleta de cores, tipografia e diretrizes de marca.
+    desc: Ficheiros oficiais do logótipo olagoon, paleta de cores, tipografia e diretrizes de marca.
     items:
       - Logótipo Principal (PNG/SVG/EPS)
       - Marca Icónica
@@ -55,7 +55,7 @@ cta:
       desc: Veja a nossa instalação de fabrico de 12 000 m²
     - label: Diretrizes de marca
       href: /brand/
-      desc: Conheça a marca afarer
+      desc: Conheça a marca olagoon
     - label: Faça parceria connosco
       href: /contact/
       desc: Consultas OEM, ODM e distribuição

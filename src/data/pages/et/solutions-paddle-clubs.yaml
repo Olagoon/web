@@ -7,12 +7,12 @@ hero:
   title: 'Käivita, halda ja kasvata oma sõudeklubi<br />kommertsklassi SUP-laevastikega'
   subtitle: 'SUP-klubide varustuse tarnija sõudeklubidele ja SUP-koolidele kogu maailmas — vastupidavad kommertslauad, hulgihinnad klubidele, kohandatud bränding ja kiired varuosad, et saaksite keskenduda oma kogukonna kasvatamisele.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: 'Sõudeklubi liikmed ühtlastel Afarer SUP-laudadel'
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: 'Sõudeklubi liikmed ühtlastel OLagoon SUP-laudadel'
 
 benefits:
   title: 'Klubilaevastiku eelised'
-  subtitle: 'Miks sõudeklubid üle 50 riigi valivad Afareri oma varustuspartneriks.'
+  subtitle: 'Miks sõudeklubid üle 50 riigi valivad OLagooni oma varustuspartneriks.'
   items:
     - metric: '40%+'
       label: 'Laevastiku kulude kokkuhoid'
@@ -86,7 +86,7 @@ training:
         - 'CE sertifitseeritud varustus'
 
 features:
-  title: 'Miks klubid valivad Afareri'
+  title: 'Miks klubid valivad OLagooni'
   subtitle: 'Ühtlane kvaliteet, kiired varuosad ja hulgihinnad kasvavatele klubidele.'
   items:
     - title: '500+ renditsüklit'

@@ -1,6 +1,6 @@
 meta:
   title: Kontaktai — partnerystės ir produktų užklausos | {SITE}
-  description: Susisiekite su afarer dėl partnerystės, bendro prekės ženklo ir privataus prekės ženklo klausimų ar profesionalių parkų. Pripučiamų SUP prekės ženklas, atsakome per 2 darbo dienas.
+  description: Susisiekite su olagoon dėl partnerystės, bendro prekės ženklo ir privataus prekės ženklo klausimų ar profesionalių parkų. Pripučiamų SUP prekės ženklas, atsakome per 2 darbo dienas.
   keywords:
     - sup platintojo pasiūlymas
     - profesionalus sup tiekėjas
@@ -12,7 +12,7 @@ contact_form:
   id: form
   title: Atsiųskite mums žinutę
   subtitle: Dėl pasiūlymų, techninių klausimų ar partnerystės užklausų, parašykite mums. Atsakome per vieną darbo dieną.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Siųsti užklausą → Gauti pasiūlymą
   success_message: Dėkojame! Jūsų žinutė atsidūrė mūsų pašto dėžutėje. Atsakysime per vieną darbo dieną.
   error_message: Išsiunčiant žinutę kažkas nepavyko. Bandykite dar kartą arba atsiųskite mums el. laišką tiesiogiai.
@@ -132,7 +132,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: El. paštas
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Būstinė
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

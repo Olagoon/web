@@ -1,8 +1,8 @@
 meta:
-  title: 'Centro de Prensa — Notas y Recursos de afarer | {SITE}'
-  description: 'El centro de prensa afarer: comunicados, recursos de marca y materiales de nuestra empresa fabricante de SUP hinchables y barcas.'
+  title: 'Centro de Prensa — Notas y Recursos de olagoon | {SITE}'
+  description: 'El centro de prensa olagoon: comunicados, recursos de marca y materiales de nuestra empresa fabricante de SUP hinchables y barcas.'
   keywords:
-    - 'prensa afarer'
+    - 'prensa olagoon'
     - 'medios del fabricante de SUP'
     - 'kit de prensa de paddle surf'
     - 'noticias de empresa náutica'
@@ -21,7 +21,7 @@ sections:
       - Accesorios y equipos de seguridad
   - id: logo-brand-kit
     title: Logotipo y kit de marca
-    desc: Archivos oficiales del logotipo de afarer, paleta de colores, tipografía y pautas de marca.
+    desc: Archivos oficiales del logotipo de olagoon, paleta de colores, tipografía y pautas de marca.
     items:
       - Logotipo principal (PNG/SVG/EPS)
       - Marca de icono
@@ -55,7 +55,7 @@ cta:
       desc: Conoce nuestra instalación de fabricación de 12.000 m²
     - label: Pautas de marca
       href: /brand/
-      desc: Conoce la marca afarer
+      desc: Conoce la marca olagoon
     - label: Asóciate con nosotros
       href: /contact/
       desc: Consultas de OEM, ODM y distribución

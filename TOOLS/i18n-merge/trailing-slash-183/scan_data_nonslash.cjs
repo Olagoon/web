@@ -1,7 +1,7 @@
 // List values starting with '/' that have NO trailing slash and NO query — classify files vs routes.
 const fs = require('fs');
 const path = require('path');
-const ROOT = 'E:/github/afarer/src/data';
+const ROOT = 'E:/github/olagoon/src/data';
 const out = [];
 const seen = new Map();
 
@@ -22,7 +22,7 @@ function record(v, loc) {
     const fp = path.join(dir, e.name);
     if (e.isDirectory()) walk(fp);
     else if (/\.(ya?ml|json|md|mdx)$/.test(e.name)) {
-      const rel = path.relative('E:/github/afarer/src', fp).replace(/\\/g, '/');
+      const rel = path.relative('E:/github/olagoon/src', fp).replace(/\\/g, '/');
       const lines = fs.readFileSync(fp, 'utf8').split(/\r?\n/);
       lines.forEach((ln, i) => {
         const pats = [

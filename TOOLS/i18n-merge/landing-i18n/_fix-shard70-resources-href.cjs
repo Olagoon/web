@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 /**
- * Shard 70 — 挂账修复 C1a:brand-why-afarer.yaml 18 locale 裸 /resources 404 href
+ * Shard 70 — 挂账修复 C1a:brand-why-olagoon.yaml 18 locale 裸 /resources 404 href
  *
  * 背景:18 个 locale 的 hero CTA "Download product catalog" 链到 /resources(根级不存在,
  * dist 无 /resources/index.html → 404)。EN/fr 正确写法为 /resources/download-catalog。
  *
- * 修复:所有 locale brand-why-afarer.yaml 中 `href: /resources`(行尾裸)→ `href: /resources/download-catalog`。
+ * 修复:所有 locale brand-why-olagoon.yaml 中 `href: /resources`(行尾裸)→ `href: /resources/download-catalog`。
  * 用法: node TOOLS/i18n-merge/landing-i18n/_fix-shard70-resources-href.cjs [--dry]
  */
 const fs = require('fs');
@@ -19,8 +19,8 @@ let files = 0;
 let lines = 0;
 for (const entry of fs.readdirSync(PAGES, { withFileTypes: true })) {
   const f = entry.isFile()
-    ? path.join(PAGES, 'brand-why-afarer.yaml')
-    : path.join(PAGES, entry.name, 'brand-why-afarer.yaml');
+    ? path.join(PAGES, 'brand-why-olagoon.yaml')
+    : path.join(PAGES, entry.name, 'brand-why-olagoon.yaml');
   if (!fs.existsSync(f)) continue;
   const raw = fs.readFileSync(f, 'utf8');
   const out = raw.split('\n').map((l) => {

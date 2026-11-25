@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer/src/data';
+const ROOT = 'E:/github/olagoon/src/data';
 const FILE_RE = /\/[^/]*\.[a-z0-9]+$/i;
 
 function slashize(href) {

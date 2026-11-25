@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const WORK = 'C:/Users/Helleo/AppData/Local/Temp/deveco/it_sol_work';
-const TS = 'E:/github/afarer/src/data/biz-solutions/translations/it.ts';
+const TS = 'E:/github/olagoon/src/data/biz-solutions/translations/it.ts';
 
 // 0. keep everything before the body marker as the header
 //    (it.ts already imports SolutionOverride from './fr' — no type block to manage)
@@ -47,7 +47,7 @@ if (missing.length || extra.length) {
 }
 
 // 3. merge: meta from existing it.ts + body fields from part, fixed key order
-const ORDER = ['clientType', 'meta', 'hero', 'challenge', 'solutions', 'caseStudy', 'whyAfarer', 'faqs', 'cta'];
+const ORDER = ['clientType', 'meta', 'hero', 'challenge', 'solutions', 'caseStudy', 'whyOLagoon', 'faqs', 'cta'];
 const merged = {};
 for (const slug of existingSlugs.slice().sort()) {
   const body = bodies[slug];

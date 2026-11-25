@@ -1,5 +1,5 @@
 const fs = require('fs');
-const he = fs.readFileSync('E:/github/afarer/src/data/biz-solutions/translations/he.ts', 'utf8');
+const he = fs.readFileSync('E:/github/olagoon/src/data/biz-solutions/translations/he.ts', 'utf8');
 const lines = he.split(/\r?\n/);
 lines.forEach((ln, i) => {
   if (ln.indexOf('{SITE}') >= 0) {

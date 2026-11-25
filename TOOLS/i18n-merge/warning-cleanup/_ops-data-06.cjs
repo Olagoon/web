@@ -61,11 +61,11 @@ module.exports = [
     find: '완전한 OEM 서비스 —',
     rep: '완전한 OEM 서비스 →',
   },
-  // ko: brand typo "afar" → "afarer"
+  // ko: brand typo "afar" → "olagoon"
   {
     f: 'src/data/pages/ko/factory.yaml',
     find: 'afar 공장을',
-    rep: 'afarer 공장을',
+    rep: 'olagoon 공장을',
   },
   // th: BSCI missing C
   {

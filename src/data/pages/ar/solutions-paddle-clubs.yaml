@@ -6,11 +6,11 @@ hero:
   title: أطلق نادي التجديف الخاص بك وأدره ونمِّه<br />بأساطيل SUP بجودة تجارية
   subtitle: مورّد معدات SUP لأندية التجديف ومدارس SUP حول العالم — ألواح تجارية متينة، أسعار جماعية للأندية، هوية علامة مخصصة وقطع غيار سريعة، لتتفرغ لتنمية مجتمعك.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: أعضاء نادي التجديف على ألواح afarer SUP المتطابقة
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: أعضاء نادي التجديف على ألواح olagoon SUP المتطابقة
 benefits:
   title: مزايا أسطول النوادي
-  subtitle: لماذا تختار أندية التجديف في أكثر من 50 دولة شركة Afarer كشريكها في المعدات.
+  subtitle: لماذا تختار أندية التجديف في أكثر من 50 دولة شركة OLagoon كشريكها في المعدات.
   items:
     - metric: 40%+
       label: توفير تكاليف الأسطول
@@ -81,7 +81,7 @@ training:
         - دعم المناهج التدريبية والشهادات
         - معدات معتمدة بشهادة CE
 features:
-  title: لماذا تختار الأندية Afarer
+  title: لماذا تختار الأندية OLagoon
   subtitle: جودة ثابتة، وتوفير سريع لقطع الغيار، وأسعار جملة مصممة للأندية المتنامية.
   items:
     - title: 500+ دورة تأجير

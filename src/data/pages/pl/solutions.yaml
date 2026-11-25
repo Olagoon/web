@@ -1,6 +1,6 @@
 meta:
   title: 'Rozwiązania biznesowe — SUP dla każdej firmy | {SITE}'
-  description: 'Rozwiązania biznesowe afarera: floty SUP dla kurortów, klubów, wypożyczalni, dystrybucji i marek własnych. Profesjonalny dostawca sprzętu morskiego B2B.'
+  description: 'Rozwiązania biznesowe olagoona: floty SUP dla kurortów, klubów, wypożyczalni, dystrybucji i marek własnych. Profesjonalny dostawca sprzętu morskiego B2B.'
   keywords:
     - 'rozwiązania biznesowe SUP'
     - 'dostawca nadmuchiwanych paddle boardów'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Rozwiązania biznesowe
   title: Rozwiązania SUP<br />Dla Każdego Biznesu
-  subtitle: Od ośrodków wypoczynkowych po handel detaliczny, od operatorów wynajmu po dystrybutorów globalnych — Afarer oferuje kompletne rozwiązania SUP dostosowane do Twojego modelu biznesowego.
+  subtitle: Od ośrodków wypoczynkowych po handel detaliczny, od operatorów wynajmu po dystrybutorów globalnych — OLagoon oferuje kompletne rozwiązania SUP dostosowane do Twojego modelu biznesowego.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Deski SUP Afarer do zastosowań biznesowych i profesjonalnych
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Deski SUP OLagoon do zastosowań biznesowych i profesjonalnych
 stats:
-  title: Afarer w skrócie
+  title: OLagoon w skrócie
   stats:
     - title: Lata doświadczenia
       amount: Od 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Zbuduj swoją własną markę
-      description: Kompleksowa produkcja SUP OEM/ODM — projektowanie, prototypowanie, produkcja masowa i logistyka. Wprowadź swoją markę z Afarer.
+      description: Kompleksowa produkcja SUP OEM/ODM — projektowanie, prototypowanie, produkcja masowa i logistyka. Wprowadź swoją markę z OLagoon.
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

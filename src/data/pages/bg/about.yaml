@@ -1,6 +1,6 @@
 meta:
-  title: 'За Afarer — марка за надуваеми SUP дъски и водни спортове | {SITE}'
-  description: 'Afarer е глобална марка за надуваеми SUP дъски и водни спортове, управлявана от Aquafarer LLC (САЩ) и изградена от нашия екип в Циндао. Открийте нашата история, инженеринга, сертифицираното качество и програмите за национални партньори.'
+  title: 'За OLagoon — марка за надуваеми SUP дъски и водни спортове | {SITE}'
+  description: 'OLagoon е глобална марка за надуваеми SUP дъски и водни спортове, управлявана от Olagoon LLC (САЩ) и изградена от нашия екип в Циндао. Открийте нашата история, инженеринга, сертифицираното качество и програмите за национални партньори.'
   keywords:
     - 'марка надуваеми SUP дъски'
     - 'марка за водни спортове'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'За нас'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'фабрика и работилница на afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'фабрика и работилница на olagoon'
   title: |
     Морско инженерство, <br />
-    изградено по <span class="text-accent dark:text-white">afarer</span> начина
+    изградено по <span class="text-accent dark:text-white">olagoon</span> начина
   subtitle: 'Започнахме в крайбрежна работилница с една дъска и упорито убеждение: морските продукти трябва да се проектират така, сякаш имат значение, защото е точно така. Днес изпращаме продукти в над 40 държави, но всеки корпус все още минава през същите ръце, които основаха компанията.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Дизайн проект по проект за търговски, научни и военни клиенти.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Дискусия за дизайн и инженеринг на дъски'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Етапи на развитие'
-  subtitle: 'Кратка версия на историята на afarer.'
+  subtitle: 'Кратка версия на историята на olagoon.'
   isReversed: true
   items:
     - title: 'Основана в крайбрежна работилница'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Доставки в над 50 държави от нашето предприятие в Циндао с оторизирани сервизни партньори в цяла Европа, Азиатско-тихоокеанския регион и Америка.'
     link: /brand-global-presence/
     link_label: 'Научете повече →'
-  - title: 'Защо afarer'
+  - title: 'Защо olagoon'
     desc: 'Марка, изградена върху проверено качество — двойна сертификация (ISO 9001 + BSCI), съответствие с CE и изключителни национални партньорства с ограничени колекции със съвместна марка за водноспортни бизнеса.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Научете повече →'

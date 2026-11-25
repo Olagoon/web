@@ -3,8 +3,8 @@
 // Grounded against: EN root 404 values (i18n-config.json en block), EN root brand-marine-expertise.yaml,
 // sibling translations (de/nl/tr/el/pl/th for Drop Stitch titles), ja/ko dict terminology probes
 // (ja: nav.products 製品 / nav.news ニュース / nav.home ホーム; ko: 제품/뉴스/홈) and dash convention
-// (dict has ZERO U+2015; ja block uses U+2014 with spaces, e.g. compare.afarerVsTraditional.title
-// "afarer 対 従来型ボートメーカー — 直接比較" → ja 404.title uses "— {name}" like all 20 locales).
+// (dict has ZERO U+2015; ja block uses U+2014 with spaces, e.g. compare.olagoonVsTraditional.title
+// "olagoon 対 従来型ボートメーカー — 直接比較" → ja 404.title uses "— {name}" like all 20 locales).
 //
 // EN root SSOT values translated here:
 //   404.title       "Page not found — {name}"

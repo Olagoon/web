@@ -323,7 +323,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Cjelovita linija proizvoda — SUP-ovi i pribor',
     industry: 'Distribucija / Pomorstvo',
     challenge:
-      'Distributer sa sjedištem u GCC-u želio je ekskluzivna prava zastupanja cjelokupne afarer linije proizvoda u 6 zemalja Zaljeva, s prilagođenom ambalažom na arapskom jeziku, specifikacijama materijala otpornih na vrućinu i uvjetima jamstva u skladu sa šerijatom.',
+      'Distributer sa sjedištem u GCC-u želio je ekskluzivna prava zastupanja cjelokupne olagoon linije proizvoda u 6 zemalja Zaljeva, s prilagođenom ambalažom na arapskom jeziku, specifikacijama materijala otpornih na vrućinu i uvjetima jamstva u skladu sa šerijatom.',
     solution:
       'Sklopili smo ekskluzivni distribucijski ugovor. Razvili smo ambalažu i marketinške materijale na arapskom jeziku. Potvrdili smo specifikacije materijala pri okolnoj temperaturi od 50 °C. Prilagodili smo uvjete jamstva regionalnim propisima.',
     result:
@@ -400,7 +400,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Tehnološka tvrtka s liste Fortune 500 željela je pokrenuti vodeni program dobrobiti za zaposlenike na 4 globalna kampusa uz jezera, s 60 SUP-ova s korporativnim brendiranjem, rješenjima za skladištenje i obukom instruktora.',
     solution:
-      'Isporučili smo flotu stabilnih all-round SUP-ova s grafikom palube s korporativnim logotipom. Dizajnirali smo stalke za skladištenje na lokaciji, otporne na vremenske uvjete. Certificirali smo 12 internih instruktora kroz afarer program obuke.',
+      'Isporučili smo flotu stabilnih all-round SUP-ova s grafikom palube s korporativnim logotipom. Dizajnirali smo stalke za skladištenje na lokaciji, otporne na vremenske uvjete. Certificirali smo 12 internih instruktora kroz olagoon program obuke.',
     result:
       'Program pokrenut na 4 kampusa. Više od 2.400 sudjelovanja zaposlenika u prvoj godini. Ocjena zadovoljstva zaposlenika 94 %. Istaknuto u izvješću tvrtke o održivosti.',
     outcomeMetrics: [

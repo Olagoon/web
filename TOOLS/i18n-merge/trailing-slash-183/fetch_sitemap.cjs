@@ -19,7 +19,7 @@ function get(u, method = 'GET', tries = 3) {
 }
 
 (async () => {
-  const d = await get('https://afarer.com/sitemap-0.xml');
+  const d = await get('https://olagoon.com/sitemap-0.xml');
   const urls = [...d.b.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
   console.log('urls:', urls.length);
 

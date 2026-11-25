@@ -1,6 +1,6 @@
 meta:
   title: 'Soluciones Empresariales — SUP para Cada Negocio | {SITE}'
-  description: 'Soluciones empresariales afarer: flotas de SUP para resorts, clubes, alquileres, distribución y marcas privadas. Proveedor profesional de equipamiento náutico para B2B.'
+  description: 'Soluciones empresariales olagoon: flotas de SUP para resorts, clubes, alquileres, distribución y marcas privadas. Proveedor profesional de equipamiento náutico para B2B.'
   keywords:
     - 'soluciones empresariales de SUP'
     - 'proveedor de paddle surf hinchable'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Soluciones Empresariales
   title: Soluciones SUP<br />Para Cada Negocio
-  subtitle: Desde resorts hasta comercios minoristas, operadores de alquiler hasta distribuidores globales, Afarer ofrece soluciones completas de SUP adaptadas a su modelo de negocio.
+  subtitle: Desde resorts hasta comercios minoristas, operadores de alquiler hasta distribuidores globales, OLagoon ofrece soluciones completas de SUP adaptadas a su modelo de negocio.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Tablas SUP Afarer para negocios y aplicaciones profesionales
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Tablas SUP OLagoon para negocios y aplicaciones profesionales
 stats:
-  title: Afarer de un vistazo
+  title: OLagoon de un vistazo
   stats:
     - title: Años de experiencia
       amount: Desde 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Construye Tu Propia Marca
-      description: 'Fabricación SUP OEM/ODM de extremo a extremo: diseño, prototipado, producción en masa y logística. Lanza tu marca con Afarer.'
+      description: 'Fabricación SUP OEM/ODM de extremo a extremo: diseño, prototipado, producción en masa y logística. Lanza tu marca con OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

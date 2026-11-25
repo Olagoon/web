@@ -1,7 +1,7 @@
 // Extract EN guides (29 records) from src/data/guides.ts into JSON + 4 chunks.
 const fs = require('fs');
 const path = require('path');
-const REPO = 'E:\\github\\afarer';
+const REPO = 'E:\\github\\olagoon';
 const OUT = __dirname;
 
 const src = fs.readFileSync(path.join(REPO, 'src/data/guides.ts'), 'utf8');

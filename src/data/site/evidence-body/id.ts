@@ -322,7 +322,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Lini Produk Lengkap — SUP & Aksesori',
     industry: 'Distribusi / Maritim',
     challenge:
-      'Distributor berbasis GCC menginginkan hak eksklusif untuk mewakili lini produk afarer lengkap di 6 negara Teluk, dengan kemasan Arab kustom, spesifikasi material tahan panas, dan ketentuan garansi yang sesuai syariah.',
+      'Distributor berbasis GCC menginginkan hak eksklusif untuk mewakili lini produk olagoon lengkap di 6 negara Teluk, dengan kemasan Arab kustom, spesifikasi material tahan panas, dan ketentuan garansi yang sesuai syariah.',
     solution:
       'Menyusun perjanjian distribusi eksklusif. Mengembangkan kemasan Arab dan materi pemasaran. Memvalidasi spesifikasi material pada suhu lingkungan 50°C. Menyesuaikan ketentuan garansi untuk kepatuhan regional.',
     result:
@@ -399,7 +399,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Perusahaan teknologi Fortune 500 ingin meluncurkan program kesejahteraan berbasis air untuk karyawan di 4 kampus global dengan lokasi tepi danau, membutuhkan 60 SUP dengan branding korporat, solusi penyimpanan, dan pelatihan instruktur.',
     solution:
-      'Menyediakan armada SUP all-around stabil dengan grafis dek logo korporat. Merancang rak penyimpanan on-site tahan cuaca. Mensertifikasi 12 instruktur internal melalui program pelatihan afarer.',
+      'Menyediakan armada SUP all-around stabil dengan grafis dek logo korporat. Merancang rak penyimpanan on-site tahan cuaca. Mensertifikasi 12 instruktur internal melalui program pelatihan olagoon.',
     result:
       'Program diluncurkan di 4 kampus. 2.400+ partisipasi karyawan pada tahun pertama. Rating kepuasan karyawan 94%. Ditampilkan dalam laporan keberlanjutan perusahaan.',
     outcomeMetrics: [

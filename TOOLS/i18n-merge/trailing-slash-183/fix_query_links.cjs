@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const roots = ['E:/github/afarer/src/content/news', 'E:/github/afarer/src/content/post'].filter((p) =>
+const roots = ['E:/github/olagoon/src/content/news', 'E:/github/olagoon/src/content/post'].filter((p) =>
   fs.existsSync(p)
 );
 // ](/PATH?QUERY/)  ->  ](/PATH/?QUERY)

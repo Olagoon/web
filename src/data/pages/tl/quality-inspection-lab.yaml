@@ -8,8 +8,8 @@ hero:
   tagline: 'Lab 06'
   title: 'Laboratoryo ng Kalidad at Pagsusuri'
   subtitle: 'Independiyenteng beripikasyon — bawat pagsubok ay napasa bago ang paghahatid'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp'
-  image_alt: 'Laboratoryo ng quality inspection ng Afarer para sa UV testing'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp'
+  image_alt: 'Laboratoryo ng quality inspection ng OLagoon para sa UV testing'
 
 intro: 'Bawat board na lumalabas sa aming workshop ay may dalang sertipikasyon na napasa nito ang isang tinukoy na hanay ng quality inspection at material test. Ang aming Laboratoryo ng Kalidad at Pagsusuri ay isang independiyenteng tungkulin sa loob ng organisasyon — ito ay nag-uulat direktamente sa managing director, hindi sa produksyon — upang masiguro na walang komersyal na pressure ang makakasira sa inspection gate. Kapag ang isang batch ng materyales o isang buong board ay hindi tumutugon sa inilathalang espesipikasyon, may awtoridad ang lab na ihinto ang pagpapadala hanggang sa maresolba ang non-conformance.'
 
@@ -110,7 +110,7 @@ content_html: |
   </ul>
 
   <h2>Ang aming pangako sa iyo</h2>
-  <p>Kapag tumanggap ka ng isang board na Afarer, tumatanggap ka rin ng quality dossier nito — isang pinagsamang talaan ng mga resulta ng pagsubok na naaangkop sa iyong partikular na board. Fabric batch certificate, weld peel test, chamber air-test log, at pre-delivery inspection checklist. Bawat numero ay mababakas. Bawat inspector ay nakikilala. Hindi ito basta papel lamang — ito ang aming pangako na ang aming naihatid ay ang aming tinukoy.</p>
+  <p>Kapag tumanggap ka ng isang board na OLagoon, tumatanggap ka rin ng quality dossier nito — isang pinagsamang talaan ng mga resulta ng pagsubok na naaangkop sa iyong partikular na board. Fabric batch certificate, weld peel test, chamber air-test log, at pre-delivery inspection checklist. Bawat numero ay mababakas. Bawat inspector ay nakikilala. Hindi ito basta papel lamang — ito ang aming pangako na ang aming naihatid ay ang aming tinukoy.</p>
   <p>Kung mayroon kang anumang alalahanin tungkol sa kalidad, maaari mong direktang makipag-ugnayan sa lab — nakalimbag ang mga detalye ng pakikipag-ugnayan sa iyong certificate of conformance. Seryoso naming tinutugunan ang bawat tanong at nakakompromiso kaming magsagawa ng pormal na imbestigasyon sa loob ng 48 oras.</p>
 
 cta:

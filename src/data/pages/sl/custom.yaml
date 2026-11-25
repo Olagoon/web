@@ -8,7 +8,7 @@ meta:
     - 'napihljiva sup pod zasebno znamko'
     - 'proizvodnja veslaških desk'
 hero:
-  tagline: 'Laboratorij po meri afarer'
+  tagline: 'Laboratorij po meri olagoon'
   title: 'Oblikujte svojo<br />desko SUP'
   subtitle: 'Partner SUP po meri, ki ponuja skupno znamko, zasebno znamko in proizvodnjo veslaških desk po naročilu za podjetja po vsem svetu. Od enega samega prototipa do polnih proizvodnih serij.'
   cta: 'Začnite svoj projekt'
@@ -69,7 +69,7 @@ capabilities_section:
       value: 'CE, UKCA, FCC (podpora za globalno skladnost)'
 
 why_section:
-  tagline: 'Zakaj afarer'
+  tagline: 'Zakaj olagoon'
   title: 'Ena tovarna. En standard. Nič kompromisov.'
   points:
     - text: 'Integriran proizvodni obrat s 12,000 m²'

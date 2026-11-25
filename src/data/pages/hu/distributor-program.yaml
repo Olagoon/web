@@ -1,6 +1,6 @@
 meta:
-  title: 'Országpartnerek — Egy ország, egy hivatalos Afarer forgalmazó | {SITE}'
-  description: 'Jelentkezzen, hogy az Afarer hivatalos forgalmazója legyen az Ön országában. Egy engedéllyel rendelkező partner piacanként, területi védelem, közvetlen gyári árrések, éves visszatérítések és egy 10 modulos országpartnerek-támogatási program globális SUP- és vízisport-forgalmazók számára.'
+  title: 'Országpartnerek — Egy ország, egy hivatalos OLagoon forgalmazó | {SITE}'
+  description: 'Jelentkezzen, hogy az OLagoon hivatalos forgalmazója legyen az Ön országában. Egy engedéllyel rendelkező partner piacanként, területi védelem, közvetlen gyári árrések, éves visszatérítések és egy 10 modulos országpartnerek-támogatási program globális SUP- és vízisport-forgalmazók számára.'
   keywords:
     - 'országpartnerségi program'
     - 'forgalmazóvá válás'
@@ -11,8 +11,8 @@ meta:
     - 'országpartnerségi jelentkezés'
 hero:
   tagline: 'Országpartnerség'
-  title: 'Egy ország.<br />Egy hivatalos Afarer forgalmazó.'
-  subtitle: 'Az Afarer minden jóváhagyott piacra egyetlen engedéllyel rendelkező országos forgalmazót nevez ki. Kizárólagos terület, kereskedői árak éves visszatérítésekkel, valamint teljes körű forgalmazói támogatási program — ellenértékként aláírt megállapodás és a piac felépítésére tett valódi elkötelezettség várható.'
+  title: 'Egy ország.<br />Egy hivatalos OLagoon forgalmazó.'
+  subtitle: 'Az OLagoon minden jóváhagyott piacra egyetlen engedéllyel rendelkező országos forgalmazót nevez ki. Kizárólagos terület, kereskedői árak éves visszatérítésekkel, valamint teljes körű forgalmazói támogatási program — ellenértékként aláírt megállapodás és a piac felépítésére tett valódi elkötelezettség várható.'
   actions:
     - text: 'Jelentkezés országpartnerségre'
       href: /contact/?subject=Country Partnership Application
@@ -33,7 +33,7 @@ stats:
   - value: '30–45'
     label: 'Nap standard átfutási idő (FOB Qingdao)'
 features:
-  title: 'Miért érdemes az Afarerrel partnerségre lépni'
+  title: 'Miért érdemes az OLagoonrel partnerségre lépni'
   subtitle: 'Egy ország — egy forgalmazó modell, a terület kifizetődővé tételéhez szükséges támogatási struktúrával. A kizárólagosságot meg kell szolgálni és fenntartani — ez nem örökös jog.'
   columns: 3
   items:
@@ -41,7 +41,7 @@ features:
       description: 'Országonként vagy régiónként egy engedéllyel rendelkező forgalmazó. Nincs párhuzamos import, nincs belső verseny. Az Ön befektetése a saját védőárkot építi.'
       icon: 'tabler:shield-check'
     - title: 'Védelem a csatornaütközésekkel szemben'
-      description: 'Az Ön régiójából érkező közvetlen megrendelések Önhöz kerülnek, az árazás pedig védi az Ön árresét. Az Afarer nem kerüli meg országpartnereit az értékesítésben.'
+      description: 'Az Ön régiójából érkező közvetlen megrendelések Önhöz kerülnek, az árazás pedig védi az Ön árresét. Az OLagoon nem kerüli meg országpartnereit az értékesítésben.'
       icon: 'tabler:users'
     - title: 'Közvetlen gyári árrések és visszatérítések'
       description: 'Kereskedői árlista a vállalt mennyiségekhez járó visszatérítésekkel. Nincsenek közvetítők. FOB Qingdao szállítás teljes kiviteli dokumentációval.'
@@ -59,7 +59,7 @@ features:
       description: 'Alkatrész-ellátás, garanciaregisztráció és kárrendezés, valamint termékműszaki adatlapok és kézikönyvek az Ön helyi szervizcsapata számára.'
       icon: 'tabler:settings'
     - title: 'Dedikált ügyfélmenedzser és partnerportál'
-      description: 'Személyes forgalmazói menedzser, valamint hozzáférés az árlistákhoz, a rendelési státuszhoz és a marketinganyagokhoz az Afarer partnerportálon keresztül.'
+      description: 'Személyes forgalmazói menedzser, valamint hozzáférés az árlistákhoz, a rendelési státuszhoz és a marketinganyagokhoz az OLagoon partnerportálon keresztül.'
       icon: 'tabler:user-check'
 table:
   title: 'Partnerségi szintek, MOQ és rendelési feltételek'
@@ -83,14 +83,14 @@ faqs:
   subtitle: 'A kérdések, amelyeket komoly országpartnerek tesznek fel a jelentkezés előtt.'
   items:
     - title: 'Mit jelent valójában az egy ország — egy forgalmazó elv?'
-      description: 'Az Afarer egyetlen, meghatározott területre kizárólagos jogokkal rendelkező, engedéllyel ellátott forgalmazót nevez ki. Nem értékesítünk globális vagy regionális csatornáinkból egy védett országba. Az Ön területi tulajdonosa addig áll fenn, amíg a Disztribúciós Megállapodás feltételei teljesülnek.'
+      description: 'Az OLagoon egyetlen, meghatározott területre kizárólagos jogokkal rendelkező, engedéllyel ellátott forgalmazót nevez ki. Nem értékesítünk globális vagy regionális csatornáinkból egy védett országba. Az Ön területi tulajdonosa addig áll fenn, amíg a Disztribúciós Megállapodás feltételei teljesülnek.'
     - title: 'A terület örökre kizárólagos?'
       description: 'Nem. A kizárólagosság feltételes, nem örökös. Fenntartása aláírt Disztribúciós Megállapodáson, az első rendelés teljesítésén, éves beszerzési célokon, helyi készleten, értékesítés utáni képességeken és folyamatos piaci befektetésen alapul. Ha ezek nem teljesülnek, a terület újrakövetelhető vagy újból kiosztható.'
     - title: 'Mekkora a minimális első rendelés?'
       description: 'Az országos és regionális forgalmazók 100–300 egységgel kezdnek; a felhatalmazott kereskedők 30–50 egységgel; a próbarendelések 10–30 egységtől lehetővé teszik a piac előzetes validálását (a próbát- és mintarendelések nem járnak területi védelemmel). Az egyedi és saját márkás programok a fenti szintekben felsorolt, eltérő MOQ-kat követik.'
     - title: 'Mit tartalmaz a 10 modulos támogatási program?'
       description: 'Szintek és minősítés, területi védelem, MOQ / árazás / éves visszatérítések, készlet- és rendeléskivitelezés, marketinganyagok és közös piaci alapok, termék- / értékesítési / műszaki képzés, alkatrészek és értékesítés utáni támogatás, garanciaregisztráció, a partnerportál, valamint termékműszaki adatlapok, marketinganyag-könyvtár, éves visszatérítési ütemezés és szállítási és csomagolási listák.'
-    - title: 'Hogyan véd meg az Afarer a csatornaütközésektől?'
+    - title: 'Hogyan véd meg az OLagoon a csatornaütközésektől?'
       description: 'Minden területen pontosan egy engedéllyel rendelkező forgalmazó működik. Az Ön régiójából érkező megkeresések és közvetlen megrendelések Önhöz kerülnek, a weboldal űrlapjai továbbításra kerülnek a helyi partnerhez, ahol ilyen létezik, a globális csapat pedig csak akkor lép közbe, ha egy partner nem válaszol.'
     - title: 'Mik a szállítási és fizetési feltételek?'
       description: 'A rendelések FOB Qingdao feltételekkel, teljes kiviteli dokumentációval kerülnek szállításra. A termelési rendeléseknél 30% előleg és 70% szállítás előtt fizetendő; a próbat- és mintarendelések előrefizetésesek. A standard átfutási idő 30–45 munkanap, mintameneteknél 15–20 munkanap.'
@@ -98,7 +98,7 @@ faqs:
       description: 'Küldje el jelentkezését a kapcsolatfelvételi űrlapon keresztül, a piaci részletek megadásával. Átvizsgáljuk a piaci illeszkedést, a kiskereskedelmi jelenlétet és a logisztikai képességeket, majd 3 munkanapon belül válaszolunk a következő lépésekkel és egy minta Disztribúciós Megállapodással.'
 cta:
   title: 'Legyen az Öné a piac.'
-  subtitle: 'Jelentkezzen az Afarer országpartnerségre, és 3 munkanapon belül választ kap.'
+  subtitle: 'Jelentkezzen az OLagoon országpartnerségre, és 3 munkanapon belül választ kap.'
   actions:
     - text: 'Jelentkezés országpartnerségre'
       href: /contact/?subject=Country Partnership Application
@@ -108,7 +108,7 @@ cta:
       variant: secondary
 geo:
   tagline: 'Kikkel lépünk partnerségre'
-  sentence: 'Az Afarer bevált vízi, szabadtéri- és sportforgalmazókkal lép partnerségre, akik kiskereskedelmi láncokat, kölcsönzőflottákat, vízisport-iskolákat, reszortokat és kormányzati vásárlókat szolgálnak prémium felfújható SUP deszkákkal és vízijárművekkel — és akik elkötelezettek az Afarer márka országukban történő felépítése iránt.'
+  sentence: 'Az OLagoon bevált vízi, szabadtéri- és sportforgalmazókkal lép partnerségre, akik kiskereskedelmi láncokat, kölcsönzőflottákat, vízisport-iskolákat, reszortokat és kormányzati vásárlókat szolgálnak prémium felfújható SUP deszkákkal és vízijárművekkel — és akik elkötelezettek az OLagoon márka országukban történő felépítése iránt.'
   audiences:
     - 'Vízi és evezős sportforgalmazók'
     - 'Szabadtéri és sport kiskereskedelem'

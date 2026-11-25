@@ -1,13 +1,13 @@
 meta:
   title: 'Saját márkás SUP gyártás és egyedi márka indítása | {SITE}'
-  description: 'Saját márkás SUP gyártó új paddle board márkák számára. Indítsa el saját SUP márkáját az Afarerrel — teljes OEM/ODM szolgáltatás beleértve a tervezést, prototípuskészítést, egyedi márkázást, gyártást és globális logisztikát.'
+  description: 'Saját márkás SUP gyártó új paddle board márkák számára. Indítsa el saját SUP márkáját az OLagoonrel — teljes OEM/ODM szolgáltatás beleértve a tervezést, prototípuskészítést, egyedi márkázást, gyártást és globális logisztikát.'
 
 hero:
   tagline: 'Építse meg saját márkáját'
   title: 'Indítsa el saját<br />SUP márkáját'
   subtitle: 'Önnél a vízió. Nálunk a gyár, a szakértelem és az ellátási lánc. Saját márkás SUP gyártás és egyedi SUP márkafejlesztés — együtt olyan márkát építünk, amely kiemelkedik.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Egyedi márkázású SUP deszka a vízen'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Elsőbbségi gyártás'
 
 features:
-  title: 'Miért választják a márkák az Afarert'
+  title: 'Miért választják a márkák az OLagoont'
   subtitle: '10+ év OEM tapasztalat, teljes tanúsítás és a legalacsonyabb MOQ az iparágban.'
   items:
     - title: '10+ év OEM tapasztalat'

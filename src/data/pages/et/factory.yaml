@@ -1,6 +1,6 @@
 meta:
   title: 'Tehas ja tootmine — täispuhutavate SUP-laudade OEM | {SITE}'
-  description: 'Tutvu afarer tehasega: 12 000 m² tootmisüksus lõikamise, RF-keevituse, trükkimise, kokkupaneku ja kvaliteedilaboriga täispuhutavate SUP-laudade OEM/ODM tootmiseks.'
+  description: 'Tutvu olagoon tehasega: 12 000 m² tootmisüksus lõikamise, RF-keevituse, trükkimise, kokkupaneku ja kvaliteedilaboriga täispuhutavate SUP-laudade OEM/ODM tootmiseks.'
   keywords:
     - 'sup factory china'
     - 'täispuhutavate sõudelaudade tehas'
@@ -12,7 +12,7 @@ hero:
   subtitle: '12 000 m² integreeritud tootmist — toormaterjalist valmis lauani'
 
 intro:
-  - 'Aquafarer LLC tootmisüksusena juhib afarer Qingdao meeskond kõiki tootmisetappe — PVC- ja klaaskiudmaterjalide saabumisest kuni valmis lauani enne väljastust tehtava lõpliku ülevaatusega. Meie tootmisüksus Qingdao majandusarengu tsoonis hõlmab 12 000 ruutmeetrit ja mahutab eraldatud töökojad PVC lõikamiseks, torude kuumkeevitamiseks, FRP-vormide valmistamiseks, SUP digitaalseks trükkimiseks, lõplikuks kokkupanekuks ja kvaliteeditestimiseks.'
+  - 'Olagoon LLC tootmisüksusena juhib olagoon Qingdao meeskond kõiki tootmisetappe — PVC- ja klaaskiudmaterjalide saabumisest kuni valmis lauani enne väljastust tehtava lõpliku ülevaatusega. Meie tootmisüksus Qingdao majandusarengu tsoonis hõlmab 12 000 ruutmeetrit ja mahutab eraldatud töökojad PVC lõikamiseks, torude kuumkeevitamiseks, FRP-vormide valmistamiseks, SUP digitaalseks trükkimiseks, lõplikuks kokkupanekuks ja kvaliteeditestimiseks.'
   - 'Ühendades disaini, inseneritöö, prototüübid, tootmise ja testimise ühe katuse all, väldime allhanketootmise ebatõhusust ja säilitame otsese kontrolli ehituskvaliteedi, materjalivaliku ja tarneajad üle. Iga meie töökojast väljuv laud on ehitatud meie inimeste poolt, meie seadmetel, meie standardite järgi.'
 
 stats:
@@ -69,22 +69,22 @@ workshops_section:
   workshops:
     - title: 'PVC lõikamine ja materjali ettevalmistus'
       description: 'Automaatsed CNC-lõikusmasseerivad töötlevad PVC- ja Drop-Stitch-kangaid allmillimeetristäpsusega. Arvutioptimeeritud paigutus vähendab materjalikadu miinimumini ja tagab, et iga paneel vastab mõõtmetingimustele enne keevitamist.'
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: 'Torude keevitamine ja kuumtihendamine'
       description: 'Eraldatud keevitustöökoda kuumtihendusmasinate ja RF-dielektriliste pressidega. Kuuma õhu tihistid ühendavad ja sulatavad PVC-toru kambreid, samas kui RF-keevitused tagavad kõrge tugevusega õhukindlad õmblused, mis ületavad EN ISO 25649 nõudeid.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: 'FRP-vormid ja komposiittootmine'
       description: 'Kohandatud FRP-vormid SUP-komponentidele, valmistatud käsitsi klaaskiudvormimisega polüestri ja vinüülestri vaigusüsteemidega. Iga kiht rullitakse käsitsi ja vakumeeritakse ühtlase kvaliteedi tagamiseks. Geelkatte pihustiabi tagab kõrge läikega UV-kindla merelakkimise.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'SUP-i trükkimine ja dekoreerimine'
       description: 'SUP-lauad dekoreeritakse digitaaltrükiga täisvärvi graafika jaoks ning sõeltrükiga logode ja korduvate mustrite jaoks. Digitaalprinterid loovad fotokvaliteediga tekkide disaine, samas kui sõeltrükk annab vastupidavad ja eredad brändimärgid.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Lõplik kokkupanek ja varustus'
       description: 'Kokkupanekuliin, kus Drop-Stitch-tuumad varustatakse reelingutega, paigaldatakse EVA tekid ning paigaldatakse uimed, ventiilid ja tarvikud. Iga laual järgitakse 100-punktilist kokkupaneku kontroll-loendit, mille kinnitab meeskonna juht.'
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: 'Kvaliteeditestimine ja kontroll'
       description: 'Iga valmis laual läbib kohustusliku õhukindluse testi, õmbluste koorekontrolli ja täieliku süsteemikontrolli enne saatmist. Meie kvaliteedilabor tegutseb tootmisest sõltumatult ja annab aru otse juhtkonnale.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
   tagline: 'Seadmed'
@@ -141,7 +141,7 @@ faq_section:
   questions:
     - q: 'Mis on täispuhutavate OEM SUP-laudade minimaalne tellimuskogus (MOQ)?'
       a: 'MOQ algab 5–10 ühikust standardsete OEM-mudelite puhul. Kohandatud vormid ja eramärgise projektid nõuavad sõltuvalt keerukusest vähemalt 200 ühikut. Proovitellimused ja väiksed partiisuurused on saadaval uute brändide käivitamiseks.'
-    - q: 'Kas afarer omab BSCI sertifikaati?'
+    - q: 'Kas olagoon omab BSCI sertifikaati?'
       a: 'Jah. Meie tehas säilitab kehtiva BSCI sotsiaalse vastavuse sertifikaadi (auditiaruanne saadaval nõudmisel). Samuti omame ISO 9001 kvaliteedijuhtimise sertifikaati ja kõik tooted kannavad CE sertifikaati. REACHi ja RoHSi vastavuse dokumentatsioon edastatakse iga OEM-saadetisega.'
     - q: 'Mis on tüüpiline OEM-tellimuse täitmisaeg?'
       a: 'Standardne täitmisaeg on 30–45 päeva kinnitatud PO-st ja sissemaksest massilise OEM-tootmise puhul. Kohandatud vormide arendus lisab 15–20 päeva tööriistade jaoks. Kiirendatud tootmine on saadaval kiireloomuliste tellimuste ja hooajaliselt aktiivsete perioodide jaoks. Prototüübid saadetakse tavaliselt 15–20 päevaga.'

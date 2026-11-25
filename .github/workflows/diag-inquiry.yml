@@ -36,7 +36,7 @@ jobs:
       - if: steps.guard.outputs.enabled == 'true'
         name: Probe /api/contact routing
         run: |
-          HTTP_CODE=$(curl -s -o /tmp/probe.json -w "%{http_code}" -X POST "https://afarer.com/api/contact" \
+          HTTP_CODE=$(curl -s -o /tmp/probe.json -w "%{http_code}" -X POST "https://olagoon.com/api/contact" \
             -H "Content-Type: application/json" --data '{"email_confirm":"ci-probe@example.com"}')
           echo "HTTP $HTTP_CODE" > /tmp/probe.txt
           cat /tmp/probe.json >> /tmp/probe.txt
@@ -48,7 +48,7 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
           HTTP_CODE=$(curl -s -o /tmp/settings.json -w "%{http_code}" \
-            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/workers/scripts/afarer-contact/settings" \
+            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/workers/scripts/olagoon-contact/settings" \
             -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}")
           echo "HTTP $HTTP_CODE" | tee /tmp/settings-meta.txt
           cat /tmp/settings.json
@@ -66,12 +66,12 @@ jobs:
             cat /tmp/d1.json
             exit 1
           fi
-          ID=$(jq -r '.result[]? | select(.name == "afarer-inquiries") | .uuid' /tmp/d1.json | head -n 1)
+          ID=$(jq -r '.result[]? | select(.name == "olagoon-inquiries") | .uuid' /tmp/d1.json | head -n 1)
           if [ -z "$ID" ]; then
-            echo "ERROR: D1 database afarer-inquiries not found"
+            echo "ERROR: D1 database olagoon-inquiries not found"
             exit 1
           fi
-          echo "Resolved D1 database afarer-inquiries: $ID"
+          echo "Resolved D1 database olagoon-inquiries: $ID"
           sed -i "s/__D1_DATABASE_ID__/$ID/" workers/contact-worker/wrangler.toml
       - if: steps.guard.outputs.enabled == 'true'
         name: Capture live worker logs (8 min window - submit the form NOW)
@@ -79,8 +79,8 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
-          echo "Tailing afarer-contact for 60s (verification pass)."
-          timeout 60 npx --yes wrangler@4 tail afarer-contact -c workers/contact-worker/wrangler.toml --format json > /tmp/tail.log 2>&1 || true
+          echo "Tailing olagoon-contact for 60s (verification pass)."
+          timeout 60 npx --yes wrangler@4 tail olagoon-contact -c workers/contact-worker/wrangler.toml --format json > /tmp/tail.log 2>&1 || true
           echo '--- tail output ---'
           cat /tmp/tail.log
       - if: steps.guard.outputs.enabled == 'true'
@@ -97,7 +97,7 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
-          npx --yes wrangler@4 d1 execute afarer-inquiries --remote -c workers/contact-worker/wrangler.toml --json \
+          npx --yes wrangler@4 d1 execute olagoon-inquiries --remote -c workers/contact-worker/wrangler.toml --json \
             --command "SELECT id, substr(email,1,3) || '***' AS email_masked, email_status, retry_count, last_error, substr(message,1,40) AS message_head, created_at, updated_at FROM inquiries ORDER BY created_at DESC LIMIT 10" \
             > /tmp/inquiries.json 2>&1 || true
           cat /tmp/inquiries.json
@@ -137,7 +137,7 @@ jobs:
             echo '```'
           } > inquiry-diagnostics.md
           HTTP_CODE=$(curl -s -o /tmp/r2put.json -w "%{http_code}" -X PUT \
-            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/r2/buckets/afarer-assets/objects/diag%2Finquiry-diagnostics.md" \
+            "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/r2/buckets/olagoon-assets/objects/diag%2Finquiry-diagnostics.md" \
             -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
             -H "Content-Type: text/markdown" \
             --data-binary @inquiry-diagnostics.md)

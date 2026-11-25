@@ -8,10 +8,10 @@ hero:
   tagline: '04. labor'
   title: 'Hidrodinamikai tesztmedence'
   subtitle: 'A teljesítmény validálása az első méretarányos prototípus előtt'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp'
-  image_alt: 'Afarer hidrodinamikai tesztmedence teljesítménytesztelés'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp'
+  image_alt: 'OLagoon hidrodinamikai tesztmedence teljesítménytesztelés'
 
-intro: 'Gyakori tévhit, hogy a hidrodinamikai tesztelés csak az óceánjáró hajóknak jár. Valójában egy kis síkban menő hajótest — például egy felfújható SUP — teljesítménye ugyanúgy függ a víz alatti alakjától, mint egy tartályhajó a bulbós orrától. A trim-szög, a benedvesített felület, a permetképződés és a szellőzés mind drámai hatással vannak a siklásra, a sebességre és a kényelmes menetre. Az Afarernél üzemeltetünk egy dedikált hidrodinamikai tesztmedencét, amely lehetővé teszi e hatások modellezett méretarányban történő számszerűsítését — még mielőtt anyagot és szerszámot szánnánk egy méretarányos prototípusra.'
+intro: 'Gyakori tévhit, hogy a hidrodinamikai tesztelés csak az óceánjáró hajóknak jár. Valójában egy kis síkban menő hajótest — például egy felfújható SUP — teljesítménye ugyanúgy függ a víz alatti alakjától, mint egy tartályhajó a bulbós orrától. A trim-szög, a benedvesített felület, a permetképződés és a szellőzés mind drámai hatással vannak a siklásra, a sebességre és a kényelmes menetre. Az OLagoonnél üzemeltetünk egy dedikált hidrodinamikai tesztmedencét, amely lehetővé teszi e hatások modellezett méretarányban történő számszerűsítését — még mielőtt anyagot és szerszámot szánnánk egy méretarányos prototípusra.'
 
 content_html: |
   <h2>Miért teszteljük a paddle boardot medencében?</h2>

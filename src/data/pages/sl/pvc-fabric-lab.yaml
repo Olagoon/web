@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratorij 01'
   title: 'Laboratorij za tkanine PVC'
   subtitle: 'Znanstveno preskušanje materialov — od vlakna do končne deske'
-  image: 'https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp'
-  image_alt: 'Laboratorij Afarer za preskušanje materialov iz tkanine PVC'
+  image: 'https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp'
+  image_alt: 'Laboratorij OLagoon za preskušanje materialov iz tkanine PVC'
 
-intro: 'Tkanina palube in robov je najkritičnejši material v napihljivi deski SUP. Zdržati mora stalno izpostavljenost UV-žarkom, ponavljajoče se cikle napihovanja, obrabo ob pomolih in razbitinah ter skrajne temperaturne nihaje — vse to, pri čemer leta ohranja svojo strukturno celovitost. Pri Afarerju je naš laboratorij za tkanine PVC izključno posvečen karakterizaciji, validaciji in nenehnemu izboljševanju tkanin, ki jih uporabljamo v vsaki deski, ki jo izdelamo.'
+intro: 'Tkanina palube in robov je najkritičnejši material v napihljivi deski SUP. Zdržati mora stalno izpostavljenost UV-žarkom, ponavljajoče se cikle napihovanja, obrabo ob pomolih in razbitinah ter skrajne temperaturne nihaje — vse to, pri čemer leta ohranja svojo strukturno celovitost. Pri OLagoonju je naš laboratorij za tkanine PVC izključno posvečen karakterizaciji, validaciji in nenehnemu izboljševanju tkanin, ki jih uporabljamo v vsaki deski, ki jo izdelamo.'
 
 content_html: |
   <h2>Temelj vsake napihljive deske SUP</h2>
@@ -82,7 +82,7 @@ content_html: |
     <li>Formulacija PVC za nizke temperature za arktično ekspedicijo, preskušena do -50 °C brez krhkosti.</li>
     <li>Barvno stabilizirana oranžna tkanina za floto reševalnih desk, ki ohranja vidljivost po 3 letih izpostavljenosti tropskemu soncu.</li>
   </ul>
-  <p>Ne prodajamo tkanin "s police" v upanju, da bodo delovale. Preskušamo, validiramo in priporočamo — ali ustvarimo — rešitev po meri za vaš specifični misijski profil. To je razlika Afarer.</p>
+  <p>Ne prodajamo tkanin "s police" v upanju, da bodo delovale. Preskušamo, validiramo in priporočamo — ali ustvarimo — rešitev po meri za vaš specifični misijski profil. To je razlika OLagoon.</p>
 
   <h2>Kako vam stojimo ob strani</h2>
   <p>Ko nam prinesete izziv s področja materialov, lahko pričakujete naslednje:</p>

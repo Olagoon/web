@@ -20,10 +20,10 @@
 // Output: _ops-data-53.cjs (9 ops = 3 dict block/line + 5 it bme + 1 fr bme; 22 changed keys).
 const fs = require('fs');
 
-const REPO = 'E:/github/afarer';
+const REPO = 'E:/github/olagoon';
 const prettier = require(REPO + '/node_modules/prettier');
 
-const DIR = 'E:/github/afarer/TOOLS/i18n-merge/warning-cleanup';
+const DIR = 'E:/github/olagoon/TOOLS/i18n-merge/warning-cleanup';
 const OPS_PATH = DIR + '/_ops-data-53.cjs';
 if (fs.existsSync(OPS_PATH) && !process.argv.includes('--force')) {
   throw new Error('_ops-data-53.cjs already exists — delete it first (generator runs on pre-patch state only)');

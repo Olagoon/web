@@ -1,16 +1,16 @@
 meta:
   title: B2B-asiakasratkaisut | {SITE}
-  description: Täydellinen Afarerin B2B-asiakasratkaisujen matriisi, joka kattaa 24 asiakastyyppiä — ulkoilu-alan startupeista meren suojelulaitoksiin.
+  description: Täydellinen OLagoonin B2B-asiakasratkaisujen matriisi, joka kattaa 24 asiakastyyppiä — ulkoilu-alan startupeista meren suojelulaitoksiin.
 hero:
   tagline: B2B-asiakasratkaisut
   title: 24 B2B-ratkaisua<br />Sovitettu yrityksesi tarpeisiin
-  subtitle: Perustajayrittäjistä maailmanlaajuisiin jakajoihin – löydä juuri sinulle suunniteltu Afarer-ratkaisu liiketoimintamalliasi, alaa ja tavoitteita varten.
+  subtitle: Perustajayrittäjistä maailmanlaajuisiin jakajoihin – löydä juuri sinulle suunniteltu OLagoon-ratkaisu liiketoimintamalliasi, alaa ja tavoitteita varten.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Afarerin tehdas ja valmistuslaitos
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: OLagoonin tehdas ja valmistuslaitos
 solutions:
   title: Asiakasratkaisumatriisi
-  subtitle: Jokainen asiakastyyppi, heidän keskeisin tarpeensa ja sitä varten suunniteltu Afarer-ratkaisusivu.
+  subtitle: Jokainen asiakastyyppi, heidän keskeisin tarpeensa ja sitä varten suunniteltu OLagoon-ratkaisusivu.
   items:
     - clientType: Ulkoilualan startupin perustaja
       need: Merkin luominen

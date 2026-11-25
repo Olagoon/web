@@ -8,10 +8,10 @@ hero:
   tagline: 'Laboratórium 04'
   title: 'Hydrodynamický skúšobný bazén'
   subtitle: 'Overovanie výkonu pred prvým prototypom v plnom meradle'
-  image: 'https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp'
-  image_alt: 'Výkonnostné testovanie v hydrodynamickom skúšobnom bazéne Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp'
+  image_alt: 'Výkonnostné testovanie v hydrodynamickom skúšobnom bazéne OLagoon'
 
-intro: 'Bežnou mylnou predstavou je, že hydrodynamické testovanie je vyhradené len pre námorné lode. V skutočnosti závisí výkon malého glisujúceho trupu — ako je nafukovacie SUP — od jeho podvodného tvaru rovnako ako tanker od svojej prove s bulbom. Uhol trimu, omáčaná plocha, tvorba spreja a ventilácia majú dramatický vplyv na klz, rýchlosť a komfort jazdy. V Afarer prevádzkujeme vyhradený hydrodynamický skúšobný bazén, ktorý nám umožňuje kvantifikovať tieto efekty v meradle modelu — ešte predtým, než investujeme látku a nástroje do prototypu v plnej veľkosti.'
+intro: 'Bežnou mylnou predstavou je, že hydrodynamické testovanie je vyhradené len pre námorné lode. V skutočnosti závisí výkon malého glisujúceho trupu — ako je nafukovacie SUP — od jeho podvodného tvaru rovnako ako tanker od svojej prove s bulbom. Uhol trimu, omáčaná plocha, tvorba spreja a ventilácia majú dramatický vplyv na klz, rýchlosť a komfort jazdy. V OLagoon prevádzkujeme vyhradený hydrodynamický skúšobný bazén, ktorý nám umožňuje kvantifikovať tieto efekty v meradle modelu — ešte predtým, než investujeme látku a nástroje do prototypu v plnej veľkosti.'
 
 content_html: |
   <h2>Prečo testovať paddle board v bazéne?</h2>

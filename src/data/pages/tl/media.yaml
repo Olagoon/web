@@ -1,8 +1,8 @@
 meta:
-  title: 'Media Center — Press at mga Resource ng afarer | {SITE}'
-  description: 'Ang media center ng afarer: mga press release, brand asset, at resource mula sa aming kompanya ng paggawa ng inflatable SUP.'
+  title: 'Media Center — Press at mga Resource ng olagoon | {SITE}'
+  description: 'Ang media center ng olagoon: mga press release, brand asset, at resource mula sa aming kompanya ng paggawa ng inflatable SUP.'
   keywords:
-    - 'afarer press'
+    - 'olagoon press'
     - 'sup manufacturer media'
     - 'paddle board press kit'
     - 'nautical company news'
@@ -22,7 +22,7 @@ sections:
       - 'Mga Aksesorya at Kagamitang Pangkaligtasan'
   - id: logo-brand-kit
     title: 'Logo at Brand Kit'
-    desc: 'Mga opisyal na file ng logo ng afarer, palette ng kulay, typography, at brand guidelines.'
+    desc: 'Mga opisyal na file ng logo ng olagoon, palette ng kulay, typography, at brand guidelines.'
     items:
       - 'Pangunahing Logo (PNG/SVG/EPS)'
       - 'Icon Mark'
@@ -58,7 +58,7 @@ cta:
       desc: 'Tingnan ang aming pasilidad ng paggawa na 12,000 sqm'
     - label: 'Mga alituntunin sa brand'
       href: /brand/
-      desc: 'Alamin ang tungkol sa brand ng afarer'
+      desc: 'Alamin ang tungkol sa brand ng olagoon'
     - label: 'Maki-partner sa amin'
       href: /contact/
       desc: 'Mga tanong sa OEM, ODM, at distribusyon'

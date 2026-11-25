@@ -1,13 +1,13 @@
 meta:
   title: 'Paggawa ng Private Label SUP at Paglulunsad ng Custom Brand | {SITE}'
-  description: 'Tagagawa ng private label SUP para sa mga bagong brand ng paddle board. Ilunsad ang iyong sariling SUP brand sa Afarer — kumpletong serbisyong OEM/ODM kabilang ang disenyo, prototyping, custom branding, produksyon, at global na lohestika.'
+  description: 'Tagagawa ng private label SUP para sa mga bagong brand ng paddle board. Ilunsad ang iyong sariling SUP brand sa OLagoon — kumpletong serbisyong OEM/ODM kabilang ang disenyo, prototyping, custom branding, produksyon, at global na lohestika.'
 
 hero:
   tagline: 'Buuin Ang Iyong Sariling Brand'
   title: 'Ilunsad Ang Iyong Sariling<br />SUP Brand'
   subtitle: 'Ikaw ang may pangitain. Kami ang may pabrika, kadalubhasaan, at supply chain. Paggawa ng private label SUP at pagbuo ng custom na SUP brand — magkasama, bubuuin namin ang isang brand na tatayo sa iba.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
     alt: 'Custom na branded na SUP board sa tubig'
 
 process:
@@ -81,7 +81,7 @@ packages:
         - 'Priyoridad sa produksyon'
 
 features:
-  title: 'Bakit Pinipili ng mga Brand ang Afarer'
+  title: 'Bakit Pinipili ng mga Brand ang OLagoon'
   subtitle: '10+ taon ng karanasan sa OEM, kumpletong sertipikasyon, at pinakamababang MOQ sa industriya.'
   items:
     - title: '10+ Taon ng Karnasan sa OEM'

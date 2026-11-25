@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const NEEDLES = [
   'href="/resources/download-catalog"',
   'href="/contact"',

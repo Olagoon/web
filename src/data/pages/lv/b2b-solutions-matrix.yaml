@@ -1,18 +1,18 @@
 meta:
   title: 'B2B klientu risinājumu matrica | {SITE}'
-  description: 'Pilnīga Afarer B2B klientu risinājumu matrica, kas aptver 24 klientu veidus — no āra aktivitāšu jaunuzņēmumiem līdz jūras aizsardzības institūcijām.'
+  description: 'Pilnīga OLagoon B2B klientu risinājumu matrica, kas aptver 24 klientu veidus — no āra aktivitāšu jaunuzņēmumiem līdz jūras aizsardzības institūcijām.'
 
 hero:
   tagline: 'B2B klientu risinājumi'
   title: '24 B2B risinājumi,<br />kas atbilst jūsu biznesam'
-  subtitle: 'No jaunuzņēmumu dibinātājiem līdz globāliem izplatītājiem — atrodiet tieši jūsu biznesa modelim, nozarei un mērķiem paredzēto Afarer risinājumu.'
+  subtitle: 'No jaunuzņēmumu dibinātājiem līdz globāliem izplatītājiem — atrodiet tieši jūsu biznesa modelim, nozarei un mērķiem paredzēto OLagoon risinājumu.'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: 'Afarer rūpnīca un ražošanas objekts'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: 'OLagoon rūpnīca un ražošanas objekts'
 
 solutions:
   title: 'Klientu risinājumu matrica'
-  subtitle: 'Katrs klienta veids, to pamatvajadzība un viņiem paredzētā Afarer risinājumu lapa.'
+  subtitle: 'Katrs klienta veids, to pamatvajadzība un viņiem paredzētā OLagoon risinājumu lapa.'
   items:
     - clientType: 'Āra aktivitāšu jaunuzņēmuma dibinātājs'
       need: 'Zīmola izveide'

@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Dodavatel nautického vybavení · OEM'
   title: 'Váš profesionální dodavatel<br />nautického vybavení'
-  subtitle: 'Afarer dodává nautickým centrům, rekreačním zařízením, hotelům a značkám profesionální vybavení pro vodu: nafukovací SUP prkna, pádla, plováky, vesty a příslušenství. Výroba OEM, tovární ceny, certifikovaná kvalita.'
+  subtitle: 'OLagoon dodává nautickým centrům, rekreačním zařízením, hotelům a značkám profesionální vybavení pro vodu: nafukovací SUP prkna, pádla, plováky, vesty a příslušenství. Výroba OEM, tovární ceny, certifikovaná kvalita.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Profesionální výroba nautického vybavení v továrně
   actions:
     - text: 'Stát se dodavatelským partnerem'
@@ -66,7 +66,7 @@ faqs:
       description: 'Všechny produkty splňují normy CE / ISO a bezpečnostní požadavky evropských a severoamerických trhů.'
 geo:
   tagline: 'Pozicování B2B'
-  sentence: 'Afarer je profesionální výrobce nafukovacích SUP prken (OEM/ODM) specializovaný na design, výrobu na zakázku a nautická řešení pro značky, distributory, kluby a firmy.'
+  sentence: 'OLagoon je profesionální výrobce nafukovacích SUP prken (OEM/ODM) specializovaný na design, výrobu na zakázku a nautická řešení pro značky, distributory, kluby a firmy.'
   audiences:
     - 'Nautické kluby'
     - 'Rekreační centra'

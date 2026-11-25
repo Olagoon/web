@@ -4,10 +4,10 @@ meta:
 hero:
   tagline: Vähittäiskaupan kumppanit
   title: Myy premium-ilmatäytettäviä SUP-lautoja<br />katteilla, jotka toimivat
-  subtitle: Ryhdy Afarerin vähittäismyyjäkumppaniksi — tarjoa markkinoidesi nopeimmin kasvava SUP-brändi kattavilla tukkuhinnoilla, dropshippingillä, ammattimaisella markkinointimateriaalilla ja omistautuneella tuella.
+  subtitle: Ryhdy OLagoonin vähittäismyyjäkumppaniksi — tarjoa markkinoidesi nopeimmin kasvava SUP-brändi kattavilla tukkuhinnoilla, dropshippingillä, ammattimaisella markkinointimateriaalilla ja omistautuneella tuella.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Afarer SUP -lautoja esillä vähittäismyymälässä
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: OLagoon SUP -lautoja esillä vähittäismyymälässä
 margin_section:
   title: Vähittäismyynnin katteet ja MOQ
   subtitle: Tukkuhintaportaat, jotka on suunniteltu vähittäismyynnin kannattavuutta ajatellen.
@@ -86,7 +86,7 @@ support:
     - Dropshipping-vaihtoehto saatavilla — ei varastoriskiä
     - Netto 30 -maksuehdot
 cta:
-  title: Valmiina ryhtymään Afarerin vähittäismyyjäkumppaniksi?
+  title: Valmiina ryhtymään OLagoonin vähittäismyyjäkumppaniksi?
   subtitle: Hae kumppanuutta tai lataa jälleenmyyntiluettelomme aloittaaksesi.
   actions:
     - text: Hae kumppaniksi

@@ -4,12 +4,12 @@ origin:
     Postavené na vode,<br />
     <span class="text-sky-600">poháňané poslaním</span>
   paragraphs:
-    - 'afarer vznikol v prímorskej dielni s jedným doskom a tvrdohlavým presvedčením: morské výrobky by mali byť konštruované tak, akoby na nich záležalo — pretože záleží.'
-    - Naši zakladatelia, dvaja inžinieri lodného staviteľstva, videli odvetvie, v ktorom sa šetrilo na úkor kvality, materiály boli horšej triedy a bezpečnosť sa riešila len formálne. Prvý trup afarer postavili nie pre zisk, ale aby dokázali, že cenovo dostupné morské vybavenie môže byť aj skutočne spoľahlivé.
+    - 'olagoon vznikol v prímorskej dielni s jedným doskom a tvrdohlavým presvedčením: morské výrobky by mali byť konštruované tak, akoby na nich záležalo — pretože záleží.'
+    - Naši zakladatelia, dvaja inžinieri lodného staviteľstva, videli odvetvie, v ktorom sa šetrilo na úkor kvality, materiály boli horšej triedy a bezpečnosť sa riešila len formálne. Prvý trup olagoon postavili nie pre zisk, ale aby dokázali, že cenovo dostupné morské vybavenie môže byť aj skutočne spoľahlivé.
     - Ten prvý trup slúži dodnes. Ten princíp sa nikdy nezmenil.
     - Nie sme najväčší výrobca. Nevyrábame najlacnejšie produkty. Ale každý trup, ktorý opustí našu dielňu, prechádza cez tie isté ruky, ktoré založili firmu — a spĺňa rovnaký štandard, ktorý stanovil ten prvý trup.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  image_alt: prímorská dielňa afarer
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  image_alt: prímorská dielňa olagoon
 philosophy:
   tagline: Naša filozofia
   heading: Zakorenení v oceáne
@@ -30,11 +30,11 @@ design:
     Konštruované pre hranicu<br />
     <span class="text-sky-600">podmienok</span>
   paragraphs:
-    - 'Každý produkt afarer začína jednou otázkou: <em>aká je najhoršia podmienka, ktorej bude čeliť?</em> Navrhujeme od okraja dovnútra, nie od stredu von.'
+    - 'Každý produkt olagoon začína jednou otázkou: <em>aká je najhoršia podmienka, ktorej bude čeliť?</em> Navrhujeme od okraja dovnútra, nie od stredu von.'
     - 'Naše drop-stitch jadrá sú dimenzované na 15 PSI — nie preto, žeby 12 PSI nestačilo na jazero, ale preto, že doska na 15 PSI zvládne náhle vlnobitie bez prehýbania. Naše palubné tkanivá sú špecifikované na komerčnú odolnosť voči UV žiareniu — nie preto, žeby každý zákazník pádloval v trópoch, ale preto, že UV degradácia je #1 príčinou predčasného zlyhania.'
     - Nenavrhujeme podľa cieľovej ceny. Navrhujeme podľa hranice zlyhania — a potom konštruujeme dobre nad ňou.
-  image: https://assets.afarer.com/images/afarer/hero/hero-4.webp
-  image_alt: dizajn a konštrukcia afarer
+  image: https://assets.olagoon.com/images/olagoon/hero/hero-4.webp
+  image_alt: dizajn a konštrukcia olagoon
   stats:
     - value: '15'
       label: PSI tlak<br />v jadre

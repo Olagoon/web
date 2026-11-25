@@ -8,16 +8,16 @@
 // double-quoted terminal L3 (matches disk, idempotent). See TECH.md L37-5.
 const fs = require('fs');
 
-const OPS_PATH = 'E:/github/afarer/TOOLS/i18n-merge/warning-cleanup/_ops-data-47.cjs';
-const HOME = 'E:/github/afarer/src/data/pages/da/home.yaml';
+const OPS_PATH = 'E:/github/olagoon/TOOLS/i18n-merge/warning-cleanup/_ops-data-47.cjs';
+const HOME = 'E:/github/olagoon/src/data/pages/da/home.yaml';
 
 const OLD_FIND = "performance-oppustelige SUP'er";
 const OLD_REP = "performance-oppustelige SUP''er";
 
 const NEW_FIND =
-  "  description: 'afarer designer performance-oppustelige SUPer til åbent vand, touring, yoga og eventyr. Drop-stitch-stivhed, tryktestet board for board, med eksklusive landepartnerskaber og begrænsede co-branded kollektioner. Udforsk kollektionen.'";
+  "  description: 'olagoon designer performance-oppustelige SUPer til åbent vand, touring, yoga og eventyr. Drop-stitch-stivhed, tryktestet board for board, med eksklusive landepartnerskaber og begrænsede co-branded kollektioner. Udforsk kollektionen.'";
 const NEW_REP =
-  '  description: "afarer designer performance-oppustelige SUP\'er til åbent vand, touring, yoga og eventyr. Drop-stitch-stivhed, tryktestet board for board, med eksklusive landepartnerskaber og begrænsede co-branded kollektioner. Udforsk kollektionen."';
+  '  description: "olagoon designer performance-oppustelige SUP\'er til åbent vand, touring, yoga og eventyr. Drop-stitch-stivhed, tryktestet board for board, med eksklusive landepartnerskaber og begrænsede co-branded kollektioner. Udforsk kollektionen."';
 
 // pre-conditions
 const home = fs.readFileSync(HOME, 'utf8');

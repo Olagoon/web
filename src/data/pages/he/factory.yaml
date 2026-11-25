@@ -1,6 +1,6 @@
 meta:
   title: 'מפעל וייצור — SUP מתנפח OEM | {SITE}'
-  description: 'סיור במפעל afarer: מפעל של 12,000 מ״ר עם חיתוך, ריתוך RF, הדפסה, הרכבה ומעבדת איכות לייצור SUP מתנפח במתכונת OEM/ODM.'
+  description: 'סיור במפעל olagoon: מפעל של 12,000 מ״ר עם חיתוך, ריתוך RF, הדפסה, הרכבה ומעבדת איכות לייצור SUP מתנפח במתכונת OEM/ODM.'
   keywords:
     - 'מפעל SUP בסין'
     - 'מפעל גלשני פאדל מתנפחים'
@@ -12,7 +12,7 @@ hero:
   subtitle: '12,000 מ״ר של ייצור משולב — מחומר גלם ועד לוח מוגמר'
 
 intro:
-  - 'כזרוע הייצור של **Aquafarer LLC**, צוות התפעול של afarer בצ׳ינגדאו שולט בכל שלב של הייצור — מהגעתם של חומרי הגלם PVC ופיברגלס ועד לבדיקה הסופית שלפני המסירה של הלוח המוגמר. מתקן הייצור שלנו באזור הפיתוח הכלכלי של צ׳ינגדאו משתרע על שטח של 12,000 מ״ר ומכיל סדנות ייעודיות לחיתוך PVC, איטום תרמי של צינורות, ייצור תבניות FRP, הדפסה דיגיטלית של SUP, הרכבה סופית ובדיקות איכות.'
+  - 'כזרוע הייצור של **Olagoon LLC**, צוות התפעול של olagoon בצ׳ינגדאו שולט בכל שלב של הייצור — מהגעתם של חומרי הגלם PVC ופיברגלס ועד לבדיקה הסופית שלפני המסירה של הלוח המוגמר. מתקן הייצור שלנו באזור הפיתוח הכלכלי של צ׳ינגדאו משתרע על שטח של 12,000 מ״ר ומכיל סדנות ייעודיות לחיתוך PVC, איטום תרמי של צינורות, ייצור תבניות FRP, הדפסה דיגיטלית של SUP, הרכבה סופית ובדיקות איכות.'
   - 'באמצעות שילוב של עיצוב, הנדסה, פיתוח אבות-טיפוס, ייצור ובדיקות תחת קורת גג אחת, אנו מבטלים את חוסר היעילות של ייצור בקבלנות ושומרים על שליטה ישירה באיכות הבנייה, בבחירת החומרים ובלוחות הזמנים לאספקה. כל לוח שיוצא מהסדנה שלנו נבנה על ידי האנשים שלנו, בציוד שלנו, לפי הסטנדרטים שלנו.'
 
 stats:
@@ -69,22 +69,22 @@ workshops_section:
   workshops:
     - title: 'חיתוך PVC והכנת חומרים'
       description: 'מכונות חיתוך CNC אוטומטיות מעבדות בדי PVC ו-Drop-Stitch בדיוק תת-מילימטרי. קינון ממוחשב ממוטב ממזער את בזבוז החומר ומבטיח שכל פאנל עומד במפרט הממדי שלו לפני הריתוך.'
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: 'ריתוך צינורות ואיטום תרמי'
       description: 'סדנת ריתוך ייעודית עם מכונות איטום חום ומכבשי RF דיאלקטריים. מאטמי אוויר חם מלחימים וממזגים תאי צינור PVC, ואילו ריתוכי RF מייצרים תפרים אטומים בחוזק גבוה העולים על דרישות EN ISO 25649.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: 'תבניות FRP וייצור חומרים מרוכבים'
       description: 'תבניות FRP מותאמות אישית לרכיבי SUP, המיוצרות בשיטת הנחה ידנית של פיברגלס עם מערכות שרף פוליאסטר ווינילאסטר. כל שכבה מגולגלת ביד ונאטמת בוואקום לאיכות עקבית. תא ריסוס ג׳לקואט מספק גימור ימי מבריק ועמיד ל-UV.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'הדפסה ועיטור SUP'
       description: 'לוחות SUP מעוטרים בהדפסה דיגיטלית לגרפיקה מלאה בצבע ובהדפסת מסך ללוגואים ולדוגמאות חוזרות. מדפסות דיגיטליות מפיקות עיצובי סיפון באיכות צילום, ואילו הדפסת מסך מספקת סימני מותג עמידים וחיים בצבע.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'הרכבה סופית וציוד'
       description: 'פס ייצור שבו ליבות Drop-Stitch מושלמות עם מסילות, מדבקות סיפון EVA מוחלות, וסנפירים, שסתומים ואביזרים מותקנים. כל לוח פועל לפי רשימת בדיקה של 100 נקודות החתומה על ידי ראש הצוות.'
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: 'בדיקות איכות ופיקוח'
       description: 'כל לוח שהושלם עובר בדיקת שמירת אוויר חובה, אימות קילוף תפרים ובדיקת מערכות מלאה לפני המשלוח. מעבדת האיכות שלנו פועלת באופן עצמאי מהייצור ומדווחת ישירות להנהלה.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
   tagline: 'ציוד'
@@ -141,7 +141,7 @@ faq_section:
   questions:
     - q: 'מהי כמות ההזמנה המינימלית (MOQ) ללוחות SUP מתנפחים במתכונת OEM?'
       a: 'MOQ מתחיל ב-5–10 יחידות לדגמי OEM סטנדרטיים. תבניות מותאמות אישית ופרויקטים של מיתוג פרטי דורשים מינימום של 200 יחידות בהתאם למורכבות. הזמנות ניסיון והרצות דגימה זמינות להשקת מותגים חדשים.'
-    - q: 'האם ל-afarer יש הסמכת BSCI?'
+    - q: 'האם ל-olagoon יש הסמכת BSCI?'
       a: 'כן. המפעל שלנו מחזיק בהסמכת ציות חברתי BSCI תקפה (דוח ביקורת זמין לפי בקשה). אנו גם מחזיקים ב-ISO 9001 לניהול איכות, וכל המוצרים נושאים הסמכת CE. תיעוד ציות REACH ו-RoHS מסופק עם כל משלוח OEM.'
     - q: 'מהו זמן האספקה הטיפוסי להזמנת OEM?'
       a: 'זמן אספקה סטנדרטי הוא 30–45 ימים מאישור PO ותשלום מקדמה לייצור OEM בכמויות. פיתוח תבנית מותאמת אישית מוסיף 15–20 ימים לייצור הכלים. ייצור מואץ זמין להזמנות דחופות ולעומסים עונתיים. דגימות אב-טיפוס נשלחות בדרך כלל תוך 15–20 ימים.'

@@ -1,6 +1,6 @@
 meta:
   title: 'Teadmised — SUP-i juhendid | {SITE}'
-  description: 'afarer teadmusbaas: juhendid täispuhutavate SUP-ide, sõudelaudade materjalide, laudade valiku ja tööstuse ülevaadete kohta brändidele ja professionaalidele.'
+  description: 'olagoon teadmusbaas: juhendid täispuhutavate SUP-ide, sõudelaudade materjalide, laudade valiku ja tööstuse ülevaadete kohta brändidele ja professionaalidele.'
   keywords:
     - 'sup knowledge'
     - 'inflatable sup guide'
@@ -17,7 +17,7 @@ hero:
 clusters:
   tagline: 'Teadmiste kobarad'
   title: 'Avasta teemade kaupa'
-  subtitle: 'Süvauuringud tehnoloogiasse, ohutusse ja oskustesse iga afarer toote taga.'
+  subtitle: 'Süvauuringud tehnoloogiasse, ohutusse ja oskustesse iga olagoon toote taga.'
   items:
     - title: 'SUP-i ostujuhendid'
       description: 'Esimene laua valimisest edasijõudnute matkatehnikateni — kõik stand-up sõudmise kohta.'

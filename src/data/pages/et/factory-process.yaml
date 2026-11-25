@@ -1,6 +1,6 @@
 meta:
   title: 'Tootmisprotsess — toormaterjalist SUP-ini | {SITE}'
-  description: 'Toormaterjalist merivalmis SUP-ini: iga afarer tootmisprotsessi samm meie kontrolli all, alates lõikamisest ja keevitamisest kuni testimiseni.'
+  description: 'Toormaterjalist merivalmis SUP-ini: iga olagoon tootmisprotsessi samm meie kontrolli all, alates lõikamisest ja keevitamisest kuni testimiseni.'
   keywords:
     - 'supi tootmisprotsess'
     - 'täispuhutavate supilaudade tehas'
@@ -13,7 +13,7 @@ hero:
   back_label: 'Tagasi tehasesse'
   back_link: /factory/
 
-intro: 'Erinevalt kaubamärkidest, kes tellivad tootmist kolmanda osapoole tehastest, omab ja haldab afarer kogu oma tootmisahelat. See vertikaalne integratsioon võimaldab meil hoida ranget kvaliteedikontrolli igas etapis, reageerida kiiresti kohandatud nõuetele ja tarnida ühtlast tootekvaliteeti partii partii järel. Nii ehitatakse laud meie rajatises.'
+intro: 'Erinevalt kaubamärkidest, kes tellivad tootmist kolmanda osapoole tehastest, omab ja haldab olagoon kogu oma tootmisahelat. See vertikaalne integratsioon võimaldab meil hoida ranget kvaliteedikontrolli igas etapis, reageerida kiiresti kohandatud nõuetele ja tarnida ühtlast tootekvaliteeti partii partii järel. Nii ehitatakse laud meie rajatises.'
 
 steps:
   - step: '01'
@@ -47,6 +47,6 @@ steps:
 
 cta:
   title: 'Vaata meie seadmeid ja masinaid'
-  desc: 'Avasta tööstusklassi seadmed iga afarer laua taga.'
+  desc: 'Avasta tööstusklassi seadmed iga olagoon laua taga.'
   label: 'Vaata seadmeid →'
   link: /factory/equipment/

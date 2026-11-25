@@ -4,7 +4,7 @@ const path = require('path');
 const { createRequire } = require('module');
 
 const TEMP = 'C:/Users/Helleo/AppData/Local/Temp/deveco';
-const PROJ = 'E:/github/afarer';
+const PROJ = 'E:/github/olagoon';
 const projRequire = createRequire(path.join(PROJ, 'package.json'));
 const yaml = projRequire('js-yaml');
 

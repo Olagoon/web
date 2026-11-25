@@ -5,7 +5,7 @@ const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const yaml = require(path.join(ROOT, 'node_modules', 'js-yaml'));
 const TMP = path.join(process.env.TEMP, 'deveco');
 
@@ -27,7 +27,7 @@ const SLUGS = [
   'longboard-vs-shortboard',
   'best-surf-gear-brands-compared',
 ];
-const FALLBACK = 'afarer-surfboard-pro';
+const FALLBACK = 'olagoon-surfboard-pro';
 
 const titles = {};
 for (const loc of ['ro', 'th']) {
@@ -54,7 +54,7 @@ let n = 0;
 for (const loc of ['ro', 'th']) {
   // index page
   const idxOut = path.join(TMP, 'live121_' + loc + '_index.html');
-  const code = fetch('https://afarer.com/' + loc + '/v2/', idxOut);
+  const code = fetch('https://olagoon.com/' + loc + '/v2/', idxOut);
   const idxBody = fs.readFileSync(idxOut, 'utf8');
   if (code === '200' && idxBody.includes('<html')) pass('/' + loc + '/v2/ index 200');
   else fail('/' + loc + '/v2/ index code=' + code);
@@ -66,7 +66,7 @@ for (const loc of ['ro', 'th']) {
 
   for (const slug of SLUGS) {
     const out = path.join(TMP, 'live121_' + loc + '_' + slug + '.html');
-    const c = fetch('https://afarer.com/' + loc + '/v2/' + slug, out);
+    const c = fetch('https://olagoon.com/' + loc + '/v2/' + slug, out);
     const body = fs.readFileSync(out, 'utf8');
     const ok = c === '200' && body.includes(esc(String(titles[loc].get(slug))));
     if (ok) {
@@ -79,9 +79,9 @@ for (const loc of ['ro', 'th']) {
   }
   // EN fallback page
   const fbOut = path.join(TMP, 'live121_' + loc + '_fb.html');
-  const fc = fetch('https://afarer.com/' + loc + '/v2/' + FALLBACK, fbOut);
+  const fc = fetch('https://olagoon.com/' + loc + '/v2/' + FALLBACK, fbOut);
   const fb = fs.readFileSync(fbOut, 'utf8');
-  if (fc === '200' && fb.includes('The afarer Surfboard Pro')) pass('/' + loc + '/v2/' + FALLBACK + ' EN fallback');
+  if (fc === '200' && fb.includes('The olagoon Surfboard Pro')) pass('/' + loc + '/v2/' + FALLBACK + ' EN fallback');
   else fail('/' + loc + '/v2/' + FALLBACK + ' code=' + fc);
 }
 

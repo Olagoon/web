@@ -28,7 +28,7 @@ export type SolutionOverride = {
       results: string[];
     }[];
   };
-  whyAfarer?: {
+  whyOLagoon?: {
     title?: string;
     items?: { title: string; description: string }[];
   };
@@ -47,15 +47,15 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Izveidojiet savu SUP zīmolu | OEM piepūšamo SUP ražotājs | {SITE}',
       description:
-        'Afarer palīdz āra aktivitāšu startapiem veidot pielāgotus SUP zīmolus, piedāvājot OEM ražošanu, privātā zīmola SUP dēļus, ražošanu ar zemu MOQ, produktu dizainu, kvalitātes kontroli un globāla piegādes ķēdes atbalstu.',
+        'OLagoon palīdz āra aktivitāšu startapiem veidot pielāgotus SUP zīmolus, piedāvājot OEM ražošanu, privātā zīmola SUP dēļus, ražošanu ar zemu MOQ, produktu dizainu, kvalitātes kontroli un globāla piegādes ķēdes atbalstu.',
     },
     hero: {
       tagline: 'Veidojiet savu SUP zīmolu™',
       title: 'Pielāgota SUP ražošana āra aktivitāšu startapa dibinātājiem',
       subtitle:
-        'Afarer palīdz āra aktivitāšu startapiem veidot pielāgotus SUP zīmolus, piedāvājot OEM ražošanu, privātā zīmola SUP dēļus, ražošanu ar zemu MOQ, produktu dizainu, kvalitātes kontroli un globāla piegādes ķēdes atbalstu.',
+        'OLagoon palīdz āra aktivitāšu startapiem veidot pielāgotus SUP zīmolus, piedāvājot OEM ražošanu, privātā zīmola SUP dēļus, ražošanu ar zemu MOQ, produktu dizainu, kvalitātes kontroli un globāla piegādes ķēdes atbalstu.',
       image: {
-        alt: 'Afarer pielāgotu SUP dēļu apraksts',
+        alt: 'OLagoon pielāgotu SUP dēļu apraksts',
       },
     },
     challenge: {
@@ -169,7 +169,7 @@ const lv: Record<string, SolutionOverride> = {
       customer:
         'Āra aktivitāšu startapa zīmola dibinātājs no Amerikas Savienotajām Valstīm. Bijušais āra preču mazumtirdzniecības vadītājs, sērfinga un kajaka airēšanas entuziasts un Shopify uzņēmējs, kurš vēlas izveidot premium piepūšamo SUP zīmolu.',
       steps: [
-        'Afarer palīdzēja noteikt zīmola virzienu kā Premium Outdoor Lifestyle SUP zīmolu, kas vērsts uz 25-45 gadus veciem āra aktivitāšu patērētājiem. Tika veikta tirgus pozicionējuma analīze un konkurences izpēte.',
+        'OLagoon palīdzēja noteikt zīmola virzienu kā Premium Outdoor Lifestyle SUP zīmolu, kas vērsts uz 25-45 gadus veciem āra aktivitāšu patērētājiem. Tika veikta tirgus pozicionējuma analīze un konkurences izpēte.',
         "Izstrādāja pirmo produktu: 10'6 Premium piepūšamais SUP ar izturīgu Drop Stitch konstrukciju, premium PVC struktūru, modernu EVA dizainu, oglekļa airi un augstas kvalitātes piederumiem.",
         'Izveidoja pielāgotu dēļa grafisko noformējumu, zīmola krāsu sistēmu, iepakojuma dizainu un pilnīgu mazumtirdzniecībai gatavu produktu komplektu, kas atbilst zīmola identitātei.',
         'Palaišana ar 300 vienībām Shopify veikalam, influencer mārketinga kampaņām un klientu testēšanai, lai apstiprinātu tirgus pieprasījumu.',
@@ -194,22 +194,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis - Zīmola identitāte un piegādātāju atrašana trijos kontinentos',
               detail:
-                'No 2023. gada janvāra līdz martam James kopā ar Afarer piegādātāju atlases komandu apmeklēja 5 rūpnīcas Ķīnā, Vjetnamā un Taizemē. Afarer iepazīstināja viņu ar specializētu militārās klases PVC laminēšanas ražotni Qingdao, kas iepriekš ražoja tikai white-label dēļus Eiropas izplatītājiem. Kopā tika vienots par minimālā pasūtījuma daudzuma samazināšanu no 1,000 uz 500 vienībām, pieņemot 6 mēnešu ekskluzivitātes klauzulu. Afarer kvalitātes kontroles komanda veica 3 paraugu testēšanas raundus, noraidot pirmās divas partijas nepastāvīgas sānu šuvju metināšanas dēļ, pirms apstiprināja trešo.',
+                'No 2023. gada janvāra līdz martam James kopā ar OLagoon piegādātāju atlases komandu apmeklēja 5 rūpnīcas Ķīnā, Vjetnamā un Taizemē. OLagoon iepazīstināja viņu ar specializētu militārās klases PVC laminēšanas ražotni Qingdao, kas iepriekš ražoja tikai white-label dēļus Eiropas izplatītājiem. Kopā tika vienots par minimālā pasūtījuma daudzuma samazināšanu no 1,000 uz 500 vienībām, pieņemot 6 mēnešu ekskluzivitātes klauzulu. OLagoon kvalitātes kontroles komanda veica 3 paraugu testēšanas raundus, noraidot pirmās divas partijas nepastāvīgas sānu šuvju metināšanas dēļ, pirms apstiprināja trešo.',
             },
             {
               title: '2. solis - Pūļa finansēšanas kampaņas infrastruktūra un pasūtījumu izpildes plānošana',
               detail:
-                'Afarer loģistikas komanda palīdzēja James izveidot 3PL partnerību ar pasūtījumu izpildes centru Gloucester, kas spēj apstrādāt 2,000 sūtījumus dienā. Tika izveidoti detalizēti Kickstarter atbalstu līmeņi: £399 priekšpārdošanas cena (50 vienības), £449 standarta cena (300 vienības) un £549 premium pakete ar airi un sūkni (150 vienības). Afarer izgatavoja 12 augstas izšķirtspējas produktu attēlus, 4 minūšu kampaņas video, kas uzņemts Symonds Yat pie River Wye, un pilnu specifikāciju, izceļot 6 collu biezumu, 32-PSI drop-stitch kodolu un oglekļa šķiedras aira opciju. Kampaņa tika palaista 2023. gada 1. maijā ar £150,000 mērķi.',
+                'OLagoon loģistikas komanda palīdzēja James izveidot 3PL partnerību ar pasūtījumu izpildes centru Gloucester, kas spēj apstrādāt 2,000 sūtījumus dienā. Tika izveidoti detalizēti Kickstarter atbalstu līmeņi: £399 priekšpārdošanas cena (50 vienības), £449 standarta cena (300 vienības) un £549 premium pakete ar airi un sūkni (150 vienības). OLagoon izgatavoja 12 augstas izšķirtspējas produktu attēlus, 4 minūšu kampaņas video, kas uzņemts Symonds Yat pie River Wye, un pilnu specifikāciju, izceļot 6 collu biezumu, 32-PSI drop-stitch kodolu un oglekļa šķiedras aira opciju. Kampaņa tika palaista 2023. gada 1. maijā ar £150,000 mērķi.',
             },
             {
               title: '3. solis - Krīzes vadība kampaņas vidū un papildu mērķu īstenošana',
               detail:
-                'Kad kampaņa pirmajās 72 stundās sasniedza £85,000, bet līdz 14. dienai apstājās pie £110,000, Afarer mārketinga stratēģi izvietoja mērķētu Facebook un Instagram reklāmu kampaņu, kas koncentrējās uz Apvienotās Karalistes SUP airēšanas Facebook grupām ar kopā 500,000+ dalībnieku. Tika izveidoti 8 A/B testēti reklāmas varianti ar James YouTube atsauksmēm. Līdz 30. dienai vēl 212 atbalstītāji pacēla kopsummu līdz £162,000. Afarer koordinēja papildu mērķi — bezmaksas sauso maisu £45 vērtībā visiem ieguldījumiem virs £449 — kas pēdējās 48 stundās izraisīja noslēdzošu 88 atbalstītāju pieplūdumu, un kampaņa noslēdzās ar £198,740 no 487 atbalstītājiem.',
+                'Kad kampaņa pirmajās 72 stundās sasniedza £85,000, bet līdz 14. dienai apstājās pie £110,000, OLagoon mārketinga stratēģi izvietoja mērķētu Facebook un Instagram reklāmu kampaņu, kas koncentrējās uz Apvienotās Karalistes SUP airēšanas Facebook grupām ar kopā 500,000+ dalībnieku. Tika izveidoti 8 A/B testēti reklāmas varianti ar James YouTube atsauksmēm. Līdz 30. dienai vēl 212 atbalstītāji pacēla kopsummu līdz £162,000. OLagoon koordinēja papildu mērķi — bezmaksas sauso maisu £45 vērtībā visiem ieguldījumiem virs £449 — kas pēdējās 48 stundās izraisīja noslēdzošu 88 atbalstītāju pieplūdumu, un kampaņa noslēdzās ar £198,740 no 487 atbalstītājiem.',
             },
             {
               title: '4. solis - Ražošana, kvalitātes nodrošināšana un izpilde pēc kampaņas',
               detail:
-                'Ražošana sākās 2023. gada augustā Qingdao ražotnē, un Afarer uz vietas novietoja pilna laika kvalitātes kontroles inspektoru uz 6 nedēļām. Katrs dēlis izturēja 24 stundu piepūšanas testu pie 18 PSI un šuves lobīšanās izturības testu ar rādītāju virs 150 N/cm. Pirmās 200 vienības 15. septembrī tika nosūtītas ar jūras kravu, un Apvienotās Karalistes muitu tās izgāja 4 dienu laikā, pateicoties Afarer iepriekš sagatavotajai dokumentācijai. Visi 487 atbalstītāji savus dēļus saņēma līdz 2023. gada 25. oktobrim — 9 dienas pirms solītā piegādes datuma. James ziņoja par vidējo vērtējumu 4.7/5 pirmajās 150 klientu atsauksmju anketās.',
+                'Ražošana sākās 2023. gada augustā Qingdao ražotnē, un OLagoon uz vietas novietoja pilna laika kvalitātes kontroles inspektoru uz 6 nedēļām. Katrs dēlis izturēja 24 stundu piepūšanas testu pie 18 PSI un šuves lobīšanās izturības testu ar rādītāju virs 150 N/cm. Pirmās 200 vienības 15. septembrī tika nosūtītas ar jūras kravu, un Apvienotās Karalistes muitu tās izgāja 4 dienu laikā, pateicoties OLagoon iepriekš sagatavotajai dokumentācijai. Visi 487 atbalstītāji savus dēļus saņēma līdz 2023. gada 25. oktobrim — 9 dienas pirms solītā piegādes datuma. James ziņoja par vidējo vērtējumu 4.7/5 pirmajās 150 klientu atsauksmju anketās.',
             },
           ],
           results: [
@@ -231,22 +231,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis - Tropiskās vides audits un materiālu specifikācija',
               detail:
-                'Afarer produktu inženieri 2023. gada maijā divas nedēļas pavadīja Cairns, testējot Maras esošo floti. Tika dokumentēti 8 konkrēti bojājumu punkti: UV bojāts PVC (redzams uz 22 dēļiem), korrodēti nerūsējošā tērauda D-gredzeni (radās 6 mēnešu laikā) un šuves plīsums pie priekšgala roktura (3 dēļi). Afarer laboratorijas komanda pārveidoja PVC augšējo slāni, iekļaujot UV stabilizatora piedevu (UV-531 0.6% koncentrācijā), un visām metāla detaļām noteica 304. pakāpes jūras nerūsējošo tēraudu. Tika izstrādāts pastiprināts priekšgala rokturis ar 3 slāņu siksnju struktūru, kuras pārrāvuma izturība ir 400 kg.',
+                'OLagoon produktu inženieri 2023. gada maijā divas nedēļas pavadīja Cairns, testējot Maras esošo floti. Tika dokumentēti 8 konkrēti bojājumu punkti: UV bojāts PVC (redzams uz 22 dēļiem), korrodēti nerūsējošā tērauda D-gredzeni (radās 6 mēnešu laikā) un šuves plīsums pie priekšgala roktura (3 dēļi). OLagoon laboratorijas komanda pārveidoja PVC augšējo slāni, iekļaujot UV stabilizatora piedevu (UV-531 0.6% koncentrācijā), un visām metāla detaļām noteica 304. pakāpes jūras nerūsējošo tēraudu. Tika izstrādāts pastiprināts priekšgala rokturis ar 3 slāņu siksnju struktūru, kuras pārrāvuma izturība ir 400 kg.',
             },
             {
               title: '2. solis - Prototipu ražošana un lauka testēšana trīs tūru maršrutos',
               detail:
-                'Afarer 2023. gada jūlijā savā Guangzhou rūpnīcā izgatavoja 10 prototipa dēļus, katru ar unikālu krāsu shēmu (koraļļu zils, mangrovju zaļš, rifa oranžs) ērtai flotes identifikācijai. Mara veica 60 dienu lauka testu trīs galvenajos tūru maršrutos: Fitzroy Island (sālsūdens, 6 stundas tiešas saules), Mulgrave River rīta tūres (saldūdens, ēnaini) un saulrieta tūres Trinity Inlet (jaukti apstākļi). Katrs dēlis uzkrāja 300+ lietošanas stundu. Diviem prototipiem pēc 250 stundām konstatēja vārstu noplūdi, un tie tika nosūtīti atpakaļ uz Afarer vārsta kodola pārveidošanai — pārejot no misiņa vārsta uz ar nailonu pastiprinātu kompozīta vārstu.',
+                'OLagoon 2023. gada jūlijā savā Guangzhou rūpnīcā izgatavoja 10 prototipa dēļus, katru ar unikālu krāsu shēmu (koraļļu zils, mangrovju zaļš, rifa oranžs) ērtai flotes identifikācijai. Mara veica 60 dienu lauka testu trīs galvenajos tūru maršrutos: Fitzroy Island (sālsūdens, 6 stundas tiešas saules), Mulgrave River rīta tūres (saldūdens, ēnaini) un saulrieta tūres Trinity Inlet (jaukti apstākļi). Katrs dēlis uzkrāja 300+ lietošanas stundu. Diviem prototipiem pēc 250 stundām konstatēja vārstu noplūdi, un tie tika nosūtīti atpakaļ uz OLagoon vārsta kodola pārveidošanai — pārejot no misiņa vārsta uz ar nailonu pastiprinātu kompozīta vārstu.',
             },
             {
               title: '3. solis - Ražošanas apjoma pieaugums, pielāgota zīmola noformējums un iepakojuma dizains',
               detail:
-                'Pēc veiksmīgi izturētiem lauka testiem Mara 2023. gada septembrī izdeva pirkuma pasūtījumu (PO) uz 200 Reef Runner dēļiem. Afarer dizaina komanda izveidoja pielāgotu termopārnesuma druku ar Reef & River logotipu uz klājuma paklājiņa un sērijveida flotes pārvaldības numuru uz dēļa sāna. Katram dēlim līdzi bija pēc individuāla pasūtījuma austs 1000-denier nailona pārvadāšanas mais ar pastiprinātām šuvēm (pārbaudīts ar 80 kg slodzi). Afarer organizēja jūras kravu caur Port of Townsville ar 28 dienu tranzīta laiku, ietverot fumigācijas sertifikātu atbilstībai Austrālijas biosegurības prasībām. Krava izgāja muitu 2023. gada 5. novembrī.',
+                'Pēc veiksmīgi izturētiem lauka testiem Mara 2023. gada septembrī izdeva pirkuma pasūtījumu (PO) uz 200 Reef Runner dēļiem. OLagoon dizaina komanda izveidoja pielāgotu termopārnesuma druku ar Reef & River logotipu uz klājuma paklājiņa un sērijveida flotes pārvaldības numuru uz dēļa sāna. Katram dēlim līdzi bija pēc individuāla pasūtījuma austs 1000-denier nailona pārvadāšanas mais ar pastiprinātām šuvēm (pārbaudīts ar 80 kg slodzi). OLagoon organizēja jūras kravu caur Port of Townsville ar 28 dienu tranzīta laiku, ietverot fumigācijas sertifikātu atbilstībai Austrālijas biosegurības prasībām. Krava izgāja muitu 2023. gada 5. novembrī.',
             },
             {
               title: '4. solis - Personāla apmācības programma un apkopes protokola dokumentācija',
               detail:
-                'Afarer klientu atbalsta komanda 2023. gada novembrī aizlidoja uz Cairns, lai 12 Maras gidiem un 3 apkopes darbiniekiem vadītu 2 dienu apmācību semināru. Apmācībā tika iekļauti ikdienas inspekcijas kontrolsaraksti, pareizas piepūšanas un atpūšanas procedūras, sālsūdens skalošanas protokoli un remonta komplekts ar 6 PVC ielāpiem un 2 rezerves vārstiem. Afarer nodrošināja laminētu ātrās atsauksmes ceļvedi angļu un mandarīnu valodā. Mara, izmantojot Google Sheets, ieviesa digitālu flotes žurnālu, izsekojot katra dēļa lietošanas stundas. Pirmais ceturkšņa krājumu papildināšanas pasūtījums uz 65 dēļiem tika veikts 2024. gada februārī.',
+                'OLagoon klientu atbalsta komanda 2023. gada novembrī aizlidoja uz Cairns, lai 12 Maras gidiem un 3 apkopes darbiniekiem vadītu 2 dienu apmācību semināru. Apmācībā tika iekļauti ikdienas inspekcijas kontrolsaraksti, pareizas piepūšanas un atpūšanas procedūras, sālsūdens skalošanas protokoli un remonta komplekts ar 6 PVC ielāpiem un 2 rezerves vārstiem. OLagoon nodrošināja laminētu ātrās atsauksmes ceļvedi angļu un mandarīnu valodā. Mara, izmantojot Google Sheets, ieviesa digitālu flotes žurnālu, izsekojot katra dēļa lietošanas stundas. Pirmais ceturkšņa krājumu papildināšanas pasūtījums uz 65 dēļiem tika veikts 2024. gada februārī.',
             },
           ],
           results: [
@@ -258,8 +258,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc OLagoon',
       items: [
         {
           title: 'Produktu kompetence',
@@ -286,12 +286,12 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kāds ir minimālais pasūtījuma daudzums pielāgotiem SUP dēļiem?',
         answer:
-          'Afarer piedāvā elastīgu MOQ, sākot no 100-500 vienībām tirgus testēšanai, ļaujot startapiem validēt savus produktus un apkopot klientu atsauksmes, pirms palielināt ražošanas apjomus.',
+          'OLagoon piedāvā elastīgu MOQ, sākot no 100-500 vienībām tirgus testēšanai, ļaujot startapiem validēt savus produktus un apkopot klientu atsauksmes, pirms palielināt ražošanas apjomus.',
       },
       {
         question: 'Vai varu izveidot savu SUP zīmolu bez savas rūpnīcas?',
         answer:
-          'Jā. Afarer nodrošina pilnus privātā zīmola ražošanas pakalpojumus, ļaujot jums izveidot savu SUP zīmolu ar pielāgotu zīmola noformējumu, dēļu dizainu, iepakojumu un piederumiem bez jebkādām investīcijām rūpnīcā.',
+          'Jā. OLagoon nodrošina pilnus privātā zīmola ražošanas pakalpojumus, ļaujot jums izveidot savu SUP zīmolu ar pielāgotu zīmola noformējumu, dēļu dizainu, iepakojumu un piederumiem bez jebkādām investīcijām rūpnīcā.',
       },
       {
         question: 'Cik ilgs laiks nepieciešams pielāgota SUP produkta izstrādei?',
@@ -301,17 +301,17 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai jūs palīdzat ar produktu dizainu un tirgus stratēģiju?',
         answer:
-          'Jā. Afarer sniedz zīmola un produktu stratēģijas konsultācijas, lai palīdzētu jums noteikt mērķa tirgu, produkta pozicionējumu, cenu stratēģiju un diferenciāciju pirms ražošanas sākuma.',
+          'Jā. OLagoon sniedz zīmola un produktu stratēģijas konsultācijas, lai palīdzētu jums noteikt mērķa tirgu, produkta pozicionējumu, cenu stratēģiju un diferenciāciju pirms ražošanas sākuma.',
       },
       {
         question: 'Kādus kvalitātes kontroles pasākumus jūs esat ieviesuši?',
         answer:
-          'Afarer ir izveidojusi visaptverošu kvalitātes kontroles sistēmu, kas aptver materiālu inspekciju, uzraudzību ražošanas laikā, gaisa spiediena testēšanu un gatavā produkta inspekciju pirms nosūtīšanas.',
+          'OLagoon ir izveidojusi visaptverošu kvalitātes kontroles sistēmu, kas aptver materiālu inspekciju, uzraudzību ražošanas laikā, gaisa spiediena testēšanu un gatavā produkta inspekciju pirms nosūtīšanas.',
       },
       {
         question: 'Vai jūs varat piegādāt uz manu valsti?',
         answer:
-          'Jā. Afarer piegādā uz Amerikas Savienotajām Valstīm, Kanādu, Austrāliju, Apvienoto Karalisti, Vāciju, Franciju, Nīderlandi un citiem globālajiem tirgiem ar uzticamu loģistikas atbalstu.',
+          'Jā. OLagoon piegādā uz Amerikas Savienotajām Valstīm, Kanādu, Austrāliju, Apvienoto Karalisti, Vāciju, Franciju, Nīderlandi un citiem globālajiem tirgiem ar uzticamu loģistikas atbalstu.',
       },
     ],
     cta: {
@@ -328,15 +328,15 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Paplašiniet savu outdoor zīmolu ūdens sportā | SUP OEM ražotājs | {SITE}',
       description:
-        'Afarer palīdz atzītiem outdoor zīmoliem paplašināties ūdens sportā ar pielāgotu SUP ražošanu, Drop Stitch tehnoloģiju, PVC kompetenci, SUP dēļiem ar privāto etiķeti un pilnvērtīgiem produktu izstrādes risinājumiem.',
+        'OLagoon palīdz atzītiem outdoor zīmoliem paplašināties ūdens sportā ar pielāgotu SUP ražošanu, Drop Stitch tehnoloģiju, PVC kompetenci, SUP dēļiem ar privāto etiķeti un pilnvērtīgiem produktu izstrādes risinājumiem.',
     },
     hero: {
       tagline: 'Paplašiniet savu outdoor zīmolu ūdens sportā™',
       title: 'Ūdens sporta produktu paplašināšana atzītiem outdoor zīmoliem',
       subtitle:
-        'Afarer palīdz atzītiem outdoor zīmoliem paplašināties ūdens sportā ar pielāgotu SUP ražošanu, Drop Stitch tehnoloģiju, PVC kompetenci, SUP dēļiem ar privāto etiķeti un pilnvērtīgiem produktu izstrādes risinājumiem.',
+        'OLagoon palīdz atzītiem outdoor zīmoliem paplašināties ūdens sportā ar pielāgotu SUP ražošanu, Drop Stitch tehnoloģiju, PVC kompetenci, SUP dēļiem ar privāto etiķeti un pilnvērtīgiem produktu izstrādes risinājumiem.',
       image: {
-        alt: 'Afarer pielāgotu SUP dēļu apraksts',
+        alt: 'OLagoon pielāgotu SUP dēļu apraksts',
       },
     },
     challenge: {
@@ -439,7 +439,7 @@ const lv: Record<string, SolutionOverride> = {
       customer:
         'Eiropas outdoor dzīvesveida zīmols, kas sākotnēji specializējās kempinga aprīkojumā, outdoor piederumos un piedzīvojumu dzīvesveida produktos ar spēcīgu mazumtirdzniecības tīklu un lojālu klientu bāzi.',
       steps: [
-        "Afarer analizēja zīmola pozicionējumu un ieteica Premium Outdoor SUP kolekcijas stratēģiju, tostarp universālos SUP, touring SUP un piederumus ar tēmu 'Outdoor adventure from land to water'.",
+        "OLagoon analizēja zīmola pozicionējumu un ieteica Premium Outdoor SUP kolekcijas stratēģiju, tostarp universālos SUP, touring SUP un piederumus ar tēmu 'Outdoor adventure from land to water'.",
         "Tika izstrādāts 10'6 All-Round SUP ar augstu stabilitāti, premium konstrukciju un outdoor dzīvesveida dizainu, kā arī 12'6 Touring SUP ar piedzīvojumu veiktspēju un garo distanču iespējām.",
         'Tika izveidota pielāgota grafika, zīmola krāsas, iepakojums un piederumu sistēma, kas pilnībā atbilda esošajai outdoor zīmola identitātei.',
         'Tika veikta palaišana ar sākotnējo pasūtījumu 1,000 gab. apmērā, izplatot caur esošajiem dīleriem, e-komercijas kanāliem un outdoor mazumtirgotājiem.',
@@ -464,23 +464,23 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis - Tirgus analīze un produktu arhitektūras plānošana',
               detail:
-                "Afarer tirgus izpētes komanda 2023. gada martā analizēja 18 mēnešu SUP pārdošanas datus no 120 ASV un Kanādas mazumtirgotājiem. Tika identificēts ātrāk augošais apakšsegments: universālie SUP ar izmēriem no 10'6\" līdz 11'6\" un cenu $749–$999 CAD, kas pieauga par 34% gadā. Afarer piedāvāja 4-SKU klāstu: 'Discovery' 10'6\" universālais dēlis (mērķa cena $799 CAD), 'Expedition' 11'6\" touring dēlis ($949 CAD), 'Crossover' 10'2\" jogas un fitnesa SUP ($699 CAD) un 'Angler' makšerēšanas SUP ar noņemamu kastes stiprinājuma sistēmu ($1,049 CAD). Henriks pieņēma priekšlikumu aprīlī, noteicot mērķa palaišanas datumu 2024. gada februārī pavasara mazumtirdzniecības iepirkumu sezonai.",
+                "OLagoon tirgus izpētes komanda 2023. gada martā analizēja 18 mēnešu SUP pārdošanas datus no 120 ASV un Kanādas mazumtirgotājiem. Tika identificēts ātrāk augošais apakšsegments: universālie SUP ar izmēriem no 10'6\" līdz 11'6\" un cenu $749–$999 CAD, kas pieauga par 34% gadā. OLagoon piedāvāja 4-SKU klāstu: 'Discovery' 10'6\" universālais dēlis (mērķa cena $799 CAD), 'Expedition' 11'6\" touring dēlis ($949 CAD), 'Crossover' 10'2\" jogas un fitnesa SUP ($699 CAD) un 'Angler' makšerēšanas SUP ar noņemamu kastes stiprinājuma sistēmu ($1,049 CAD). Henriks pieņēma priekšlikumu aprīlī, noteicot mērķa palaišanas datumu 2024. gada februārī pavasara mazumtirdzniecības iepirkumu sezonai.",
             },
             {
               title: '2. solis - Kopzīmola dizaina integrācija un atbilstība mazumtirdzniecības prasībām',
               detail:
-                'Afarer rūpnieciskās dizaina komanda 8 nedēļas sadarbojās ar North Ridge radošo komandu Vancouver, lai izstrādātu vizuālo identitāti, kas savienotu zīmola kalnu estētiku ar ūdens sportu. Gala dizains izmantoja North Ridge raksturīgo antracīta un ugunsdzirksteles krāsu shēmu ar topogrāfisko līniju rakstiem uz klāja spilventiņa. Afarer nodrošināja, ka visi dēļi atbilst REI piegādātāju prasībām: FSC sertificēts kartona iepakojums, pārstrādātas PET pārvadāšanas somas un atbilstība California Proposition 65 attiecībā uz ftalātiem un smagajiem metāliem. 14 lappušu produkta informācijas pārvaldības (PIM) specifikācijas lapa tika iesniegta REI piegādātāju portālā 2023. gada 1. oktobrī.',
+                'OLagoon rūpnieciskās dizaina komanda 8 nedēļas sadarbojās ar North Ridge radošo komandu Vancouver, lai izstrādātu vizuālo identitāti, kas savienotu zīmola kalnu estētiku ar ūdens sportu. Gala dizains izmantoja North Ridge raksturīgo antracīta un ugunsdzirksteles krāsu shēmu ar topogrāfisko līniju rakstiem uz klāja spilventiņa. OLagoon nodrošināja, ka visi dēļi atbilst REI piegādātāju prasībām: FSC sertificēts kartona iepakojums, pārstrādātas PET pārvadāšanas somas un atbilstība California Proposition 65 attiecībā uz ftalātiem un smagajiem metāliem. 14 lappušu produkta informācijas pārvaldības (PIM) specifikācijas lapa tika iesniegta REI piegādātāju portālā 2023. gada 1. oktobrī.',
             },
             {
               title:
                 '3. solis - Fotogrāfija, tekstu rakstīšana un pirmspalaišanas prezentācijas mazumtirdzniecības pircējiem',
               detail:
-                'Afarer izveidoja 230 vizuālos materiālus kolekcijai: studijas produktu uzņēmumus uz balta fona, dzīvesveida attēlus, uzņemtas Garibaldi Lake (1,500 m augstumā British Columbia), un 360 grādu rotācijas fotogrāfijas. Tika uzrakstīti lokalizēti produktu teksti angļu un Kanādas franču valodā Quebec mazumtirgotājiem. Afarer pārdošanas atbalsta komanda izveidoja 22 lappušu prezentāciju mazumtirgotāju iepirkšanai ar konkurences analīzi pret tādiem zīmoliem kā BOTE un Isle, maržas prognozēm, kas parādīja 48% brutto maržu mazumtirgotājiem, un realizācijas datiem no testa tirgiem. Henriks un Afarer pārdošanas vadītājs 2023. gada 15. novembrī prezentēja REI nacionālajam pircējam, nodrošinot saistības no 34 REI veikaliem.',
+                'OLagoon izveidoja 230 vizuālos materiālus kolekcijai: studijas produktu uzņēmumus uz balta fona, dzīvesveida attēlus, uzņemtas Garibaldi Lake (1,500 m augstumā British Columbia), un 360 grādu rotācijas fotogrāfijas. Tika uzrakstīti lokalizēti produktu teksti angļu un Kanādas franču valodā Quebec mazumtirgotājiem. OLagoon pārdošanas atbalsta komanda izveidoja 22 lappušu prezentāciju mazumtirgotāju iepirkšanai ar konkurences analīzi pret tādiem zīmoliem kā BOTE un Isle, maržas prognozēm, kas parādīja 48% brutto maržu mazumtirgotājiem, un realizācijas datiem no testa tirgiem. Henriks un OLagoon pārdošanas vadītājs 2023. gada 15. novembrī prezentēja REI nacionālajam pircējam, nodrošinot saistības no 34 REI veikaliem.',
             },
             {
               title: '4. solis - Pirmā ražošanas partija, noliktavošana un realizācijas veiktspēja',
               detail:
-                'Ražošana ar 2,800 vienībām 4 SKU ietvaros sākās 2023. gada decembrī Afarer ražotnē Dongguan. Afarer organizēja jūras kravu uz Vancouver ar ierašanās datumu 2024. gada 22. janvārī. Pirmās 800 vienības tika pārkrautas uz North Ridge izpildes centru Mississauga, lai nodrošinātu izplatīšanu Kanādas austrumos. Līdz 2024. gada 1. martam kolekcija bija pieejama 34 REI plauktos, 18 MEC vietās un NorthRidgeGear.com. Discovery dēlis vien martā pārdeva 340 vienības — 136% no prognozes. Līdz 2024. gada jūnijam kopējie kolekcijas ieņēmumi sasniedza $678,000 CAD, un Angler makšerēšanas SUP bija ar priekšpasūtījumiem līdz augustam.',
+                'Ražošana ar 2,800 vienībām 4 SKU ietvaros sākās 2023. gada decembrī OLagoon ražotnē Dongguan. OLagoon organizēja jūras kravu uz Vancouver ar ierašanās datumu 2024. gada 22. janvārī. Pirmās 800 vienības tika pārkrautas uz North Ridge izpildes centru Mississauga, lai nodrošinātu izplatīšanu Kanādas austrumos. Līdz 2024. gada 1. martam kolekcija bija pieejama 34 REI plauktos, 18 MEC vietās un NorthRidgeGear.com. Discovery dēlis vien martā pārdeva 340 vienības — 136% no prognozes. Līdz 2024. gada jūnijam kopējie kolekcijas ieņēmumi sasniedza $678,000 CAD, un Angler makšerēšanas SUP bija ar priekšpasūtījumiem līdz augustam.',
             },
           ],
           results: [
@@ -502,22 +502,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis - Materiālu inovācija Eiropas standartu atbilstībai',
               detail:
-                "Afarer pētniecības un izstrādes komanda Guangzhou pavadīja 10 nedēļas, izstrādājot patentētu 5 slāņu PVC laminātu, kas pārsniedza ES REACH ķīmiskās drošības standartus un Vācijas GS drošības sertifikācijas prasības. Tika iegādāts tekstila kvalitātes drop-stitch pavediens no Vācijas piegādātāja (Karl Mayer Technische Textilien), lai atbilstu AlpenWerk 'Made with German Technology' mārketinga virzienam. 2023. gada jūlijā tika izgatavoti četri prototipu dēļi un nosūtīti testēšanai uz TÜV Rheinland. Divi no tiem neizturēja sākotnējo GS sertifikāciju nepietiekamas berzes izturības dēļ aizmugurējā spilventiņa zonā, kas prasīja PVC virsmas slāņa biezuma palielinājumu par 12% no 0.8 mm līdz 0.9 mm.",
+                "OLagoon pētniecības un izstrādes komanda Guangzhou pavadīja 10 nedēļas, izstrādājot patentētu 5 slāņu PVC laminātu, kas pārsniedza ES REACH ķīmiskās drošības standartus un Vācijas GS drošības sertifikācijas prasības. Tika iegādāts tekstila kvalitātes drop-stitch pavediens no Vācijas piegādātāja (Karl Mayer Technische Textilien), lai atbilstu AlpenWerk 'Made with German Technology' mārketinga virzienam. 2023. gada jūlijā tika izgatavoti četri prototipu dēļi un nosūtīti testēšanai uz TÜV Rheinland. Divi no tiem neizturēja sākotnējo GS sertifikāciju nepietiekamas berzes izturības dēļ aizmugurējā spilventiņa zonā, kas prasīja PVC virsmas slāņa biezuma palielinājumu par 12% no 0.8 mm līdz 0.9 mm.",
             },
             {
               title: '2. solis - Sarunas ar mazumtirdzniecības pircējiem un plauktam gatavs iepakojums',
               detail:
-                'Lena un Afarer Eiropas pārdošanas direktors prezentēja kolekciju ISPO Munich tirdzniecības izstādē 2023. gada novembrī. Tika nodrošināti priekšpasūtījumi no 38 Intersport vietām, 12 Globetrotter veikaliem un Bergfreunde.de. Afarer izstrādāja mazumtirdzniecībai gatavu iepakojumu, kas atbilda Vācijas iepakojuma likumam (VerpackG): 100% pārstrādājama kartona kaste ar druku ar sojas bāzes tinti, bez plastmasas saraušanās plēves un ar QR kodu, kas norāda uz 3 minūšu montāžas video vācu valodā. Iepakojums izmaksāja €4.20 par vienību, taču novērsa veikalos radušos bojājumus, kas konkurējošiem zīmoliem ar plastmasas maisiņiem sasniedza 2.3%.',
+                'Lena un OLagoon Eiropas pārdošanas direktors prezentēja kolekciju ISPO Munich tirdzniecības izstādē 2023. gada novembrī. Tika nodrošināti priekšpasūtījumi no 38 Intersport vietām, 12 Globetrotter veikaliem un Bergfreunde.de. OLagoon izstrādāja mazumtirdzniecībai gatavu iepakojumu, kas atbilda Vācijas iepakojuma likumam (VerpackG): 100% pārstrādājama kartona kaste ar druku ar sojas bāzes tinti, bez plastmasas saraušanās plēves un ar QR kodu, kas norāda uz 3 minūšu montāžas video vācu valodā. Iepakojums izmaksāja €4.20 par vienību, taču novērsa veikalos radušos bojājumus, kas konkurējošiem zīmoliem ar plastmasas maisiņiem sasniedza 2.3%.',
             },
             {
               title: '3. solis - Eiropas noliktavošanas un izplatīšanas pēdējā posma ierīkošana',
               detail:
-                'Afarer palīdzēja AlpenWerk izveidot izplatīšanas centru 3PL noliktavā Dortmund ar ietilpību 3,000 vienības. Tika vienoti DDP piegādes nosacījumi ar kravu ekspeditoru no Ningbo, tostarp muitas apstrādi Hamburg ostā un autokravu pārvadājumus uz Dortmund 5 darba dienu laikā pēc kuģa ierašanās. Noliktavas krājumi tika konfigurēti ar Kanban sistēmu: kad krājumi nokritās zem 400 vienībām, uz Afarer rūpnīcu tika automātiski nosūtīts atkārtots pasūtījums ar 45 dienu izpildes laiku. Pirmais konteiners ar 1,500 vienībām ieradās 2024. gada 15. februārī, bet otrā konteinera ar 1,200 vienībām ierašanās notika 10. aprīlī.',
+                'OLagoon palīdzēja AlpenWerk izveidot izplatīšanas centru 3PL noliktavā Dortmund ar ietilpību 3,000 vienības. Tika vienoti DDP piegādes nosacījumi ar kravu ekspeditoru no Ningbo, tostarp muitas apstrādi Hamburg ostā un autokravu pārvadājumus uz Dortmund 5 darba dienu laikā pēc kuģa ierašanās. Noliktavas krājumi tika konfigurēti ar Kanban sistēmu: kad krājumi nokritās zem 400 vienībām, uz OLagoon rūpnīcu tika automātiski nosūtīts atkārtots pasūtījums ar 45 dienu izpildes laiku. Pirmais konteiners ar 1,500 vienībām ieradās 2024. gada 15. februārī, bet otrā konteinera ar 1,200 vienībām ierašanās notika 10. aprīlī.',
             },
             {
               title: '4. solis - Palaišanas kampaņa, sadarbība ar ietekmētājiem un atkārtotu pasūtījumu temps',
               detail:
-                "AlpenWerk 2024. gada 1. martā palaida 'SeeWolf' 10'8\", 'Flussläufer' 11'6\" un 'Gipfelstürmer' 12'0\" touring modeļus visos mazumtirdzniecības kanālos un alpenwerk.de. Afarer satura komanda izveidoja 18 sociālo tīklu materiālus ar Vācijas SUP ietekmētājiem, piemēram, 'SUP_mit_Michi' (43,000 sekotāju) un 'PaddelPia' (28,000 sekotāju). Līdz 2024. gada 31. maijam bija realizētas 1,870 vienības — 87% no sākotnējā iepirkuma. Intersport 15. jūnijā veica atkārtotu pasūtījumu 450 vienībām. Lenas tiešo pārdošanu (D2C) tīmekļa kanāls deva €320,000 ieņēmumu ar 54% brutto maržu, pārspējot sākotnēji prognozētās 40% maržas.",
+                "AlpenWerk 2024. gada 1. martā palaida 'SeeWolf' 10'8\", 'Flussläufer' 11'6\" un 'Gipfelstürmer' 12'0\" touring modeļus visos mazumtirdzniecības kanālos un alpenwerk.de. OLagoon satura komanda izveidoja 18 sociālo tīklu materiālus ar Vācijas SUP ietekmētājiem, piemēram, 'SUP_mit_Michi' (43,000 sekotāju) un 'PaddelPia' (28,000 sekotāju). Līdz 2024. gada 31. maijam bija realizētas 1,870 vienības — 87% no sākotnējā iepirkuma. Intersport 15. jūnijā veica atkārtotu pasūtījumu 450 vienībām. Lenas tiešo pārdošanu (D2C) tīmekļa kanāls deva €320,000 ieņēmumu ar 54% brutto maržu, pārspējot sākotnēji prognozētās 40% maržas.",
             },
           ],
           results: [
@@ -529,8 +529,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc OLagoon',
       items: [
         {
           title: 'Tehniskā kompetence',
@@ -563,7 +563,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kā mans outdoor zīmols var paplašināties ūdens sportā bez SUP zināšanām?',
         answer:
-          'Afarer nodrošina pilnvērtīgu ražošanas kompetenci, tostarp Drop Stitch tehnoloģiju, PVC inženieriju un produktu dizainu. Jūsu zīmols ienes klientu zināšanas, kamēr mēs nodrošinām tehnisko ražošanu.',
+          'OLagoon nodrošina pilnvērtīgu ražošanas kompetenci, tostarp Drop Stitch tehnoloģiju, PVC inženieriju un produktu dizainu. Jūsu zīmols ienes klientu zināšanas, kamēr mēs nodrošinām tehnisko ražošanu.',
       },
       {
         question: 'Kādus ūdens sporta produktu veidus jūs varat ražot?',
@@ -573,7 +573,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai jūs varat atbilst maniem esošajiem zīmola kvalitātes standartiem?',
         answer:
-          'Jā. Afarer izstrādā produktus atbilstoši jūsu dizaina valodai, kvalitātes standartiem un tirgus pozicionējumam ar stingru kvalitātes kontroli visā ražošanas procesā.',
+          'Jā. OLagoon izstrādā produktus atbilstoši jūsu dizaina valodai, kvalitātes standartiem un tirgus pozicionējumam ar stingru kvalitātes kontroli visā ražošanas procesā.',
       },
       {
         question: 'Kāds ir tipiskais pasūtījuma apjoms atzītiem zīmoliem?',
@@ -605,15 +605,15 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Piepūšamo SUP risinājumi sērfinga veikaliem | Privātā zīmola ražotājs | {SITE}',
       description:
-        'Afarer palīdz sērfinga veikaliem un ūdens dzīvesveida zīmoliem paplašināties ar privātā zīmola piepūšamajiem SUP dēļiem un pielāgotiem ūdenssporta izstrādājumiem. Samaziniet piegādes, uzglabāšanas un krājumu izmaksas ar modernu piepūšamo tehnoloģiju.',
+        'OLagoon palīdz sērfinga veikaliem un ūdens dzīvesveida zīmoliem paplašināties ar privātā zīmola piepūšamajiem SUP dēļiem un pielāgotiem ūdenssporta izstrādājumiem. Samaziniet piegādes, uzglabāšanas un krājumu izmaksas ar modernu piepūšamo tehnoloģiju.',
     },
     hero: {
       tagline: 'Ieviesiet piepūšamo tehnoloģiju sērfinga biznesā™',
       title: 'Piepūšamo SUP risinājumi sērfinga veikaliem un piekrastes uzņēmumiem',
       subtitle:
-        'Afarer palīdz sērfinga veikaliem un ūdens dzīvesveida zīmoliem paplašināties ar privātā zīmola piepūšamajiem SUP dēļiem un pielāgotiem ūdenssporta izstrādājumiem. Samaziniet piegādes, uzglabāšanas un krājumu izmaksas ar modernu piepūšamo tehnoloģiju.',
+        'OLagoon palīdz sērfinga veikaliem un ūdens dzīvesveida zīmoliem paplašināties ar privātā zīmola piepūšamajiem SUP dēļiem un pielāgotiem ūdenssporta izstrādājumiem. Samaziniet piegādes, uzglabāšanas un krājumu izmaksas ar modernu piepūšamo tehnoloģiju.',
       image: {
-        alt: 'Afarer pielāgotu SUP dēļu apraksts',
+        alt: 'OLagoon pielāgotu SUP dēļu apraksts',
       },
     },
     challenge: {
@@ -727,7 +727,7 @@ const lv: Record<string, SolutionOverride> = {
       customer:
         'Eiropas piekrastes sērfinga veikalu zīmols, kas atrodas Eiropas Atlantijas okeāna piekrastē. Sākotnēji koncentrējās uz sērfinga dēļiem, sērfinga piederumiem un pludmales dzīvesveida produktiem ar spēcīgu vietējo klientu kopienu.',
       steps: [
-        "Afarer ieteica piepūšamo SUP kolekciju, ietverot 10'6 vispusīgo SUP, 12'6 tūrisma SUP un ģimenes paketes, kas pielāgotas veikala atrašanās vietai pie pludmales un klientu bāzei.",
+        "OLagoon ieteica piepūšamo SUP kolekciju, ietverot 10'6 vispusīgo SUP, 12'6 tūrisma SUP un ģimenes paketes, kas pielāgotas veikala atrašanās vietai pie pludmales un klientu bāzei.",
         'Izveidoja pielāgotu dēļu grafiku, zīmola krāsas un mazumtirdzniecības iepakojumu, kas atbilda sērfinga veikala esošajai zīmola identitātei un pludmales dzīvesveida pozicionējumam.',
         'Pārveidoja biznesa modeli no tradicionālās sērfinga mazumtirdzniecības par pilnvērtīgu ūdens dzīvesveida biznesu, pievienojot SUP pārdošanu, īres paketes un iesācēju nodarbības.',
         'Palaida piepūšamo produktu līniju kā papildinājumu esošajiem cietajiem dēļiem, nepalielinot uzglabāšanas spiedienu.',
@@ -752,17 +752,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis - Veiktspējas salīdzināšana un materiālu izvēle',
               detail:
-                'Afarer produktu inženieri 2023. gada februārī apmeklēja Gold Coast un veica aklos testus ar 12 Brendana instruktoriem. Katrs instruktors testēja 6 piepūšamo dēļu prototipus, salīdzinot ar standarta 9\'0" epoksīda mīkstās virsmas dēli, 4 rādītājos: stabilitāte stāvot (vērtējums 1–10), airēšanas slīdējums (sekundes 50 m distances veikšanai), pagriezienu reaģētspēja no malas līdz malai un studentu pašpārliecinātības vērtējums. Uzvarošais prototips — ar apzīmējumu M9-IS — izmantoja 3 slāņu drop-stitch serdi ar pilna garuma 0.5 mm EVA klājuma paklājiņu un pastiprinātu bambusa stringeri. Instruktori to kopumā novērtēja ar 8.7/10 pret 7.4/10 epoksīda dēļiem. Brendans 2023. gada martā pasūtīja 60 vienības.',
+                'OLagoon produktu inženieri 2023. gada februārī apmeklēja Gold Coast un veica aklos testus ar 12 Brendana instruktoriem. Katrs instruktors testēja 6 piepūšamo dēļu prototipus, salīdzinot ar standarta 9\'0" epoksīda mīkstās virsmas dēli, 4 rādītājos: stabilitāte stāvot (vērtējums 1–10), airēšanas slīdējums (sekundes 50 m distances veikšanai), pagriezienu reaģētspēja no malas līdz malai un studentu pašpārliecinātības vērtējums. Uzvarošais prototips — ar apzīmējumu M9-IS — izmantoja 3 slāņu drop-stitch serdi ar pilna garuma 0.5 mm EVA klājuma paklājiņu un pastiprinātu bambusa stringeri. Instruktori to kopumā novērtēja ar 8.7/10 pret 7.4/10 epoksīda dēļiem. Brendans 2023. gada martā pasūtīja 60 vienības.',
             },
             {
               title: '2. solis - Komerciālās izturības testēšana skolas apstākļos',
               detail:
-                'Brendans un Afarer vienojās par 4 mēnešu pilotprojektu Surfers Paradise atrašanās vietā, izmantojot 20 prototipa dēļus, no kuriem katrs izgāja 1,200 īres ciklus. Katrs dēlis vidēji tika izmantots 14 reizes nedēļā iesācējiem studentiem (svars 60–90 kg). Afarer komanda izsekoja 6 kļūmju rādītājus: šuvju integritāte, vārsta noplūde, klājuma paklājiņa pielīmēšanās, UV izkrāsošanās, malu berze un spuru kārbas integritāte. 3. mēnesī 3 dēļiem deguna kontakta punktā sāka atslāņoties klājuma paklājiņš — Afarer pārformulēja līmvielu, izmantojot ar siltumu aktivizētu poliuretāna plēvi, un aizstāja skartos dēļus. Līdz 2023. gada jūnijam pilotprojektā tika reģistrēti nulles strukturālie bojājumi un 97.3% pieejamības rādītājs.',
+                'Brendans un OLagoon vienojās par 4 mēnešu pilotprojektu Surfers Paradise atrašanās vietā, izmantojot 20 prototipa dēļus, no kuriem katrs izgāja 1,200 īres ciklus. Katrs dēlis vidēji tika izmantots 14 reizes nedēļā iesācējiem studentiem (svars 60–90 kg). OLagoon komanda izsekoja 6 kļūmju rādītājus: šuvju integritāte, vārsta noplūde, klājuma paklājiņa pielīmēšanās, UV izkrāsošanās, malu berze un spuru kārbas integritāte. 3. mēnesī 3 dēļiem deguna kontakta punktā sāka atslāņoties klājuma paklājiņš — OLagoon pārformulēja līmvielu, izmantojot ar siltumu aktivizētu poliuretāna plēvi, un aizstāja skartos dēļus. Līdz 2023. gada jūnijam pilotprojektā tika reģistrēti nulles strukturālie bojājumi un 97.3% pieejamības rādītājs.',
             },
             {
               title: '3. solis - Pilnas flotes ieviešana, apmācība un uzglabāšanas infrastruktūra',
               detail:
-                'Brendans 2023. gada jūlijā izsniedza otro pasūtījumu par 50 papildu M9-IS dēļiem, palielinot savu piepūšamo floti līdz 70 vienībām (58% no kopējā skaita). Afarer loģistikas komanda nosūtīja dēļus salokāmās 32-L mugorsomās, kas samazināja uzglabāšanas tilpumu par 80% salīdzinājumā ar cietajiem dēļiem — izšķiroša priekšrocība, ņemot vērā Brendana 65 m² uzglabāšanas būdu Burleigh Heads. Afarer izveidoja 14 minūšu garu apmācības video Brendana 22 instruktoriem, aptverot pareizu piepūšanas spiedienu (15 PSI sērfingam, 18 PSI klajam ūdenim), sālsūdens skalošanas protokolu un 5 punktu inspekcijas kontrolsarakstu pirms nodarbības. Visa flote tika izvietota līdz 2023. gada 1. septembrim — Austrālijas pavasara sezonas sākumam.',
+                'Brendans 2023. gada jūlijā izsniedza otro pasūtījumu par 50 papildu M9-IS dēļiem, palielinot savu piepūšamo floti līdz 70 vienībām (58% no kopējā skaita). OLagoon loģistikas komanda nosūtīja dēļus salokāmās 32-L mugorsomās, kas samazināja uzglabāšanas tilpumu par 80% salīdzinājumā ar cietajiem dēļiem — izšķiroša priekšrocība, ņemot vērā Brendana 65 m² uzglabāšanas būdu Burleigh Heads. OLagoon izveidoja 14 minūšu garu apmācības video Brendana 22 instruktoriem, aptverot pareizu piepūšanas spiedienu (15 PSI sērfingam, 18 PSI klajam ūdenim), sālsūdens skalošanas protokolu un 5 punktu inspekcijas kontrolsarakstu pirms nodarbības. Visa flote tika izvietota līdz 2023. gada 1. septembrim — Austrālijas pavasara sezonas sākumam.',
             },
             {
               title: '4. solis - Operatīvās ietekmes mērīšana un izmaksu un ieguvumu analīze',
@@ -789,17 +789,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis - Valūtas riska segta iepirkšana un izmaksu modelēšana',
               detail:
-                'Afarer finanšu komanda no 2022. gada oktobra līdz decembrim strādāja ar Thabo, lai izveidotu pirkuma līgumu, kas denominēts Dienvidāfrikas randos (ZAR) ar 6 mēnešu fiksēta maiņas kursa klauzulu R17.80/USD, pasargājot viņu no ZAR svārstībām, kas 2022. gada jūlijā sasniedza 19.20/USD. Afarer identificēja rūpnīcu Shenzhen, kas spēj ražot divslāņu Fusion PVC dēli ar 5 gadu UV garantiju ar izkraušanas izmaksām R3,100 par vienību (ieskaitot 22% importa nodevas, loģistiku un muitas brokera pakalpojumus). Thabo noteiktā mazumtirdzniecības cena R7,200 deva viņam 56.9% bruto peļņas starpību — ievērojami virs viņa 22% vidējās peļņas starpības zīmolu dēļiem.',
+                'OLagoon finanšu komanda no 2022. gada oktobra līdz decembrim strādāja ar Thabo, lai izveidotu pirkuma līgumu, kas denominēts Dienvidāfrikas randos (ZAR) ar 6 mēnešu fiksēta maiņas kursa klauzulu R17.80/USD, pasargājot viņu no ZAR svārstībām, kas 2022. gada jūlijā sasniedza 19.20/USD. OLagoon identificēja rūpnīcu Shenzhen, kas spēj ražot divslāņu Fusion PVC dēli ar 5 gadu UV garantiju ar izkraušanas izmaksām R3,100 par vienību (ieskaitot 22% importa nodevas, loģistiku un muitas brokera pakalpojumus). Thabo noteiktā mazumtirdzniecības cena R7,200 deva viņam 56.9% bruto peļņas starpību — ievērojami virs viņa 22% vidējās peļņas starpības zīmolu dēļiem.',
             },
             {
               title: '2. solis - Cape Town iedvesmots dizains un kultūras zīmola veidošana',
               detail:
-                "Afarer grafikas dizaineri sadarbojās ar vietējo Cape Town ilustratori Mbali Dlamini, lai izveidotu 3 pielāgotus klājuma dizainus: 'Seal Island' (ar Dienvidāfrikas kažokroņu roņiem), 'Chapman's Peak' (kalnu siluets) un 'Boulder's Beach' (Āfrikas pingvīni). Katrā dizainā tika izmantota 6 krāsu siltumtransfera druka ar UV izturīgām krāsvielām, kas testētas vairāk nekā 500 stundas saules iedarbībai. Dēļos tika iekļauta unikāla funkcija Dienvidāfrikas tirgum: pastiprināta sasiešanas sistēma deguna daļā sausajiem maisiem (populāra vairāku dienu airējumiem gar Skeleton Coast uz Durbanu). Thabo palaida tīmekļa vietni (kalkbaysurfco.co.za) platformā Shopify ar Afarer produktu fotogrāfijām, kas uzņemtas Muizenberg Beach.",
+                "OLagoon grafikas dizaineri sadarbojās ar vietējo Cape Town ilustratori Mbali Dlamini, lai izveidotu 3 pielāgotus klājuma dizainus: 'Seal Island' (ar Dienvidāfrikas kažokroņu roņiem), 'Chapman's Peak' (kalnu siluets) un 'Boulder's Beach' (Āfrikas pingvīni). Katrā dizainā tika izmantota 6 krāsu siltumtransfera druka ar UV izturīgām krāsvielām, kas testētas vairāk nekā 500 stundas saules iedarbībai. Dēļos tika iekļauta unikāla funkcija Dienvidāfrikas tirgum: pastiprināta sasiešanas sistēma deguna daļā sausajiem maisiem (populāra vairāku dienu airējumiem gar Skeleton Coast uz Durbanu). Thabo palaida tīmekļa vietni (kalkbaysurfco.co.za) platformā Shopify ar OLagoon produktu fotogrāfijām, kas uzņemtas Muizenberg Beach.",
             },
             {
               title: '3. solis - Paraugu ražošana, kvalitātes testēšana un sertifikācija',
               detail:
-                'Afarer 2023. gada janvārī izgatavoja 6 paraugus katram SKU. Thabo un divi vietējie sērfinga dēļu veidotāji (ar kopējo pieredzi vairāk nekā 50 gadu) veica destruktīvos testus: katrs dēlis tika piepūsts līdz 25 PSI (125% no nominālā spiediena) un turēts 72 stundas — visi paraugi izturēja ar mazāk nekā 0.5 PSI spiediena zudumu. Šuvju izturību testēja ar ciparu vilkmes spēka mērītāju, pieprasot vismaz 120 N/cm (paraugi vidēji sasniedza 138 N/cm). Thabo 2023. gada februārī paņēma 3 dēļus piecu dienu vadītajā airējumā no Arniston uz Struisbaai (120 km), simulējot smagi lietotus tūras apstākļus. Viena dēļa spuru kaste pēc 80 km atbrīvojās — Afarer aizstāja nailona spuru kasti ar nerūsējošā tērauda pastiprinātu versiju.',
+                'OLagoon 2023. gada janvārī izgatavoja 6 paraugus katram SKU. Thabo un divi vietējie sērfinga dēļu veidotāji (ar kopējo pieredzi vairāk nekā 50 gadu) veica destruktīvos testus: katrs dēlis tika piepūsts līdz 25 PSI (125% no nominālā spiediena) un turēts 72 stundas — visi paraugi izturēja ar mazāk nekā 0.5 PSI spiediena zudumu. Šuvju izturību testēja ar ciparu vilkmes spēka mērītāju, pieprasot vismaz 120 N/cm (paraugi vidēji sasniedza 138 N/cm). Thabo 2023. gada februārī paņēma 3 dēļus piecu dienu vadītajā airējumā no Arniston uz Struisbaai (120 km), simulējot smagi lietotus tūras apstākļus. Viena dēļa spuru kaste pēc 80 km atbrīvojās — OLagoon aizstāja nailona spuru kasti ar nerūsējošā tērauda pastiprinātu versiju.',
             },
             {
               title: '4. solis - Mazumtirdzniecības palaišana, tūru operatoru partnerības un atkārtota pasūtīšana',
@@ -816,8 +816,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc OLagoon',
       items: [
         {
           title: 'Sērfinga tirgus izpratne',
@@ -865,7 +865,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai varu izveidot savu piepūšamo SUP līniju ar savu zīmolu?',
         answer:
-          'Jā. Afarer nodrošina pilnus privātā zīmola risinājumus, ietverot pielāgotu dēļu dizainu, grafiku, krāsas, iepakojumu un piederumus ar jūsu sērfinga zīmola nosaukumu.',
+          'Jā. OLagoon nodrošina pilnus privātā zīmola risinājumus, ietverot pielāgotu dēļu dizainu, grafiku, krāsas, iepakojumu un piederumus ar jūsu sērfinga zīmola nosaukumu.',
       },
       {
         question: 'Cik daudz varu ietaupīt uz piegādes izmaksām ar piepūšamajiem dēļiem?',
@@ -875,7 +875,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai jūs piedāvājat īres līmeņa produktus sērfinga skolām?',
         answer:
-          'Jā. Afarer izstrādā izturīgus produktus, kas paredzēti biežai lietošanai īrei, ar vienkāršu apkopi, uzticamiem piederumiem un izdevīgām flotes cenām.',
+          'Jā. OLagoon izstrādā izturīgus produktus, kas paredzēti biežai lietošanai īrei, ar vienkāršu apkopi, uzticamiem piederumiem un izdevīgām flotes cenām.',
       },
       {
         question: 'Vai savā veikalā varu apvienot cietos dēļus un piepūšamos produktus?',
@@ -897,15 +897,15 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Amazon SUP zīmola piegādātājs | Pielāgotu piepūšamu SUP ražotājs | {SITE}',
       description:
-        'Afarer palīdz Amazon, Walmart un Shopify pārdevējiem veidot diferenciētus SUP zīmolus ar pielāgotiem piepūšamiem SUP dēļiem, privātās etiķetes ražošanu, unikālu grafiku, ātru piegādes ķēdi un e-komercijas produktu atbalstu.',
+        'OLagoon palīdz Amazon, Walmart un Shopify pārdevējiem veidot diferenciētus SUP zīmolus ar pielāgotiem piepūšamiem SUP dēļiem, privātās etiķetes ražošanu, unikālu grafiku, ātru piegādes ķēdi un e-komercijas produktu atbalstu.',
     },
     hero: {
       tagline: 'Produktu diferenciācija un ātra piegāde™',
       title: 'Diferenciēti SUP produkti e-komercijas tirgusvietu pārdevējiem',
       subtitle:
-        'Afarer palīdz Amazon, Walmart un Shopify pārdevējiem veidot diferenciētus SUP zīmolus ar pielāgotiem piepūšamiem SUP dēļiem, privātās etiķetes ražošanu, unikālu grafiku, ātru piegādes ķēdi un e-komercijas produktu atbalstu.',
+        'OLagoon palīdz Amazon, Walmart un Shopify pārdevējiem veidot diferenciētus SUP zīmolus ar pielāgotiem piepūšamiem SUP dēļiem, privātās etiķetes ražošanu, unikālu grafiku, ātru piegādes ķēdi un e-komercijas produktu atbalstu.',
       image: {
-        alt: 'Afarer pielāgoto SUP dēļu apraksts',
+        alt: 'OLagoon pielāgoto SUP dēļu apraksts',
       },
     },
     challenge: {
@@ -1020,7 +1020,7 @@ const lv: Record<string, SolutionOverride> = {
       customer:
         'ASV Amazon brīvā dabas nozares pārdevējs, kas iepriekš pārdeva kempinga piederumus, brīvā dabas produktus un fitnesa iekārtas, izmantojot Amazon un Shopify kanālus.',
       steps: [
-        'Afarer palīdzēja definēt mērķa klientu kā jaunus brīvā dabas dzīvesveida patērētājus un pozicionēja produktu kā pieejamu SUP ar premium izskatu un unikālu vizuālo identitāti.',
+        'OLagoon palīdzēja definēt mērķa klientu kā jaunus brīvā dabas dzīvesveida patērētājus un pozicionēja produktu kā pieejamu SUP ar premium izskatu un unikālu vizuālo identitāti.',
         "Izveidoja pielāgotu 10'6 piepūšamu SUP ar unikālu dēļu grafiku, premium krāsu sistēmu, uzlabotu piederumu komplektu un uz zīmolu vērstu iepakojumu.",
         'Sagatavoja e-komercijas satura stratēģiju, tostarp produktu attēlu struktūru, funkciju prezentāciju un dzīvesveida vizuālo virzienu tirgusvietu sludinājumiem.',
         'Veica ievadi tirgū ar 500 vienībām Amazon ievadei, reklāmas testēšanai un klientu atsauksmju vākšanai.',
@@ -1045,22 +1045,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis – Amazon kategoriju analīze un SKU arhitektūra',
               detail:
-                "2023. gada janvārī Afarer e-komercijas stratēģijas komanda veica padziļinātu Amazon UK SUP kategorijas analīzi, izmantojot Helium 10 un Jungle Scout rīkus. Tika atklāts, ka 78% pircēju, kuri pērk pirmo reizi, meklēja 'complete packages' (dēlis + aira + sūknis + soma + aukla + spura), taču tikai 4 zīmoli piedāvāja īstu visu vienā komplektu ar premium piederumiem. Afarer piedāvāja 3-SKU klāstu: 'AquaStart 10'6\" Complete Kit' (£449 mērķa cena), 'AquaStart 11'0\" Touring Kit' (£549) un 'AquaStart Duo' (£699, divu dēļu ģimenes komplekts). Katrā komplektā bija iekļauts rokas sūknis ar spiediena mērītāju, trīs daļu oglekļa šķiedras aira, ritināta drošības aukla, 5\" noņemama US spura un ūdensizturīgs telefona futrālis — tas atšķīrās no konkurentiem, kuri lielāko daļu piederumu pārdeva atsevišķi.",
+                "2023. gada janvārī OLagoon e-komercijas stratēģijas komanda veica padziļinātu Amazon UK SUP kategorijas analīzi, izmantojot Helium 10 un Jungle Scout rīkus. Tika atklāts, ka 78% pircēju, kuri pērk pirmo reizi, meklēja 'complete packages' (dēlis + aira + sūknis + soma + aukla + spura), taču tikai 4 zīmoli piedāvāja īstu visu vienā komplektu ar premium piederumiem. OLagoon piedāvāja 3-SKU klāstu: 'AquaStart 10'6\" Complete Kit' (£449 mērķa cena), 'AquaStart 11'0\" Touring Kit' (£549) un 'AquaStart Duo' (£699, divu dēļu ģimenes komplekts). Katrā komplektā bija iekļauts rokas sūknis ar spiediena mērītāju, trīs daļu oglekļa šķiedras aira, ritināta drošības aukla, 5\" noņemama US spura un ūdensizturīgs telefona futrālis — tas atšķīrās no konkurentiem, kuri lielāko daļu piederumu pārdeva atsevišķi.",
             },
             {
               title: '2. solis – Iepakojuma dizains e-komercijai un FBA atbilstībai',
               detail:
-                'Afarer izstrādāja mazumtirdzniecībai gatavu iepakojumu, kas ietilpa Amazon FBA gabarītu ierobežojumos: 10\'6" dēļa kaste bija 34" × 18" × 14" un svēra 14.2 kg — zem 15 kg Amazon sliekšņa, lai izvairītos no smago un apjomīgo kravu maksām. Kastē abās pusēs bija izgriezti rokturi noliktavas darbiniekiem. Iekšpusē dēlis bija vakuuma iepakots 0.1-mm PE maisiņā, kopā ar piederumiem novietots pielāgotos EVA putuplasta ieliktņos. Katrs piederums bija individuāli iepakots polietilēna maisiņā ar AquaStart zīmolējumu. Iepakojumā bija iekļauta \'Quick Start Guide\' (QR kods ar saiti uz 6 minūšu izpakēšanas video). Afarer iepakojuma inženieris samazināja kopējo kastes tilpumu par 22% salīdzinājumā ar sākotnējo dizainu, ietaupot Priya £1.80 uz katru vienību FBA izpildes maksājumos.',
+                'OLagoon izstrādāja mazumtirdzniecībai gatavu iepakojumu, kas ietilpa Amazon FBA gabarītu ierobežojumos: 10\'6" dēļa kaste bija 34" × 18" × 14" un svēra 14.2 kg — zem 15 kg Amazon sliekšņa, lai izvairītos no smago un apjomīgo kravu maksām. Kastē abās pusēs bija izgriezti rokturi noliktavas darbiniekiem. Iekšpusē dēlis bija vakuuma iepakots 0.1-mm PE maisiņā, kopā ar piederumiem novietots pielāgotos EVA putuplasta ieliktņos. Katrs piederums bija individuāli iepakots polietilēna maisiņā ar AquaStart zīmolējumu. Iepakojumā bija iekļauta \'Quick Start Guide\' (QR kods ar saiti uz 6 minūšu izpakēšanas video). OLagoon iepakojuma inženieris samazināja kopējo kastes tilpumu par 22% salīdzinājumā ar sākotnējo dizainu, ietaupot Priya £1.80 uz katru vienību FBA izpildes maksājumos.',
             },
             {
               title: '3. solis – Amazon sludinājumu optimizācija, A+ saturs un ievades stratēģija',
               detail:
-                "Afarer satura studija izveidoja 14 A+ moduļu attēlus, 6 dzīvesveida fotogrāfijas, kas uzņemtas Lake Windermere, 90 sekunžu zīmola stāsta video un 360 grādu produkta skatītāju. Tika uzrakstīti ar atslēgvārdiem optimizēti punkti, kas mērķē 237 garās astes atslēgvārdus, identificētus Amazon meklēšanas terminu atskaitē. Ievades stratēģija ietvēra 21 dienas garu 'Vine' programmu (30 vienības ar 50% atlaidi), lai veidotu sākotnējo atsauksmju apjomu, kam sekoja £2,000 Amazon PPC kampaņa (Sponsored Products + Sponsored Brand) ar ikdienas budžetu, kas sadalīts starp 3 SKU. Kampaņa tika palaista 2023. gada 15. aprīlī. Līdz 45. dienai AquaStart bija ieguvis 24 atsauksmes ar vidējo vērtējumu 4.6 zvaigznes, un 10'6\" komplekts sasniedza #17 pozīciju SUP kategorijā.",
+                "OLagoon satura studija izveidoja 14 A+ moduļu attēlus, 6 dzīvesveida fotogrāfijas, kas uzņemtas Lake Windermere, 90 sekunžu zīmola stāsta video un 360 grādu produkta skatītāju. Tika uzrakstīti ar atslēgvārdiem optimizēti punkti, kas mērķē 237 garās astes atslēgvārdus, identificētus Amazon meklēšanas terminu atskaitē. Ievades stratēģija ietvēra 21 dienas garu 'Vine' programmu (30 vienības ar 50% atlaidi), lai veidotu sākotnējo atsauksmju apjomu, kam sekoja £2,000 Amazon PPC kampaņa (Sponsored Products + Sponsored Brand) ar ikdienas budžetu, kas sadalīts starp 3 SKU. Kampaņa tika palaista 2023. gada 15. aprīlī. Līdz 45. dienai AquaStart bija ieguvis 24 atsauksmes ar vidējo vērtējumu 4.6 zvaigznes, un 10'6\" komplekts sasniedza #17 pozīciju SUP kategorijā.",
             },
             {
               title: '4. solis – Krājumu vadība, pieprasījuma prognozēšana un otrā ražošanas kārta',
               detail:
-                'Afarer pieprasījuma plānošanas komanda izveidoja 6 mēnešu prognozēšanas modeli, izmantojot Amazon vēsturiskos datus, Google Trends (SUP braukšanas meklēšanas apjoms UK) un sezonālos faktorus. Modelis prognozēja 410 vienību realizāciju līdz 2023. gada septembrim. Priya pirmā ražošanas kārta bija 500 vienības (300 × 10\'6", 120 × 11\'0", 80 × Duo), kas tika nosūtītas uz Amazon FBA centriem pilsētās Manchester un Doncaster. Faktiskā realizācija līdz 30. septembrim bija 386 vienības — 6% robežās no prognozes. Otrā ražošanas kārta ar 700 vienībām tika pasūtīta 2023. gada oktobrī ar 2 svarīgiem uzlabojumiem: pastiprināti pārnēsājamās somas rokturi (9 bojājumu ziņojumi no pirmās kārtas) un uzlaboti nerūsējošā tērauda D-gredzieni (pēc 4 sūdzībām par koroziju). Līdz 2023. gada decembrim AquaStart UK ieņēmumi sasniedza £298,000, un 10\'6" komplekts noturēja #12 pozīciju Amazon UK.',
+                'OLagoon pieprasījuma plānošanas komanda izveidoja 6 mēnešu prognozēšanas modeli, izmantojot Amazon vēsturiskos datus, Google Trends (SUP braukšanas meklēšanas apjoms UK) un sezonālos faktorus. Modelis prognozēja 410 vienību realizāciju līdz 2023. gada septembrim. Priya pirmā ražošanas kārta bija 500 vienības (300 × 10\'6", 120 × 11\'0", 80 × Duo), kas tika nosūtītas uz Amazon FBA centriem pilsētās Manchester un Doncaster. Faktiskā realizācija līdz 30. septembrim bija 386 vienības — 6% robežās no prognozes. Otrā ražošanas kārta ar 700 vienībām tika pasūtīta 2023. gada oktobrī ar 2 svarīgiem uzlabojumiem: pastiprināti pārnēsājamās somas rokturi (9 bojājumu ziņojumi no pirmās kārtas) un uzlaboti nerūsējošā tērauda D-gredzieni (pēc 4 sūdzībām par koroziju). Līdz 2023. gada decembrim AquaStart UK ieņēmumi sasniedza £298,000, un 10\'6" komplekts noturēja #12 pozīciju Amazon UK.',
             },
           ],
           results: [
@@ -1082,22 +1082,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis – Pārstrādāta materiāla iepirkums un piegādes ķēdes sertifikācija',
               detail:
-                "Afarer no 2023. gada janvāra līdz aprīlim, 14 nedēļu laikā, izstrādāja pārstrādāta PVC laminātu, izmantojot ražošanas audumu atkritumus no savas rūpnīcas. Materiāls ar zīmolu 'EcoShell RPVC' saturēja 63% pārstrādāta materiāla pēc svara un sasniedza stiepes izturību 3,200 N/5 cm (salīdzinājumā ar 3,500 N sākotnējam PVC). Afarer ieguva GRS (Global Recycled Standard) sertifikātu šim materiālam un organizēja trešās puses dzīves cikla novērtējumu, kas parādīja 37% CO₂e samazinājumu uz vienu dēli salīdzinājumā ar dēļiem no sākotnējā PVC. Felix komanda iepirka 50,000 pārstrādātas PET pudeles no Berlin bāzēta pārstrādes kooperatīva, lai izgatavotu pārnēsājamās somas audumu un klāja EVA paklājiņu (30% pārstrādāta satura). Kopējā ilgtspējīgo materiālu prēmija bija €18 uz dēli, ko Afarer iekļāva savā maržā, lai palīdzētu UrbanPulse sasniegt mērķa mazumtirdzniecības cenu.",
+                "OLagoon no 2023. gada janvāra līdz aprīlim, 14 nedēļu laikā, izstrādāja pārstrādāta PVC laminātu, izmantojot ražošanas audumu atkritumus no savas rūpnīcas. Materiāls ar zīmolu 'EcoShell RPVC' saturēja 63% pārstrādāta materiāla pēc svara un sasniedza stiepes izturību 3,200 N/5 cm (salīdzinājumā ar 3,500 N sākotnējam PVC). OLagoon ieguva GRS (Global Recycled Standard) sertifikātu šim materiālam un organizēja trešās puses dzīves cikla novērtējumu, kas parādīja 37% CO₂e samazinājumu uz vienu dēli salīdzinājumā ar dēļiem no sākotnējā PVC. Felix komanda iepirka 50,000 pārstrādātas PET pudeles no Berlin bāzēta pārstrādes kooperatīva, lai izgatavotu pārnēsājamās somas audumu un klāja EVA paklājiņu (30% pārstrādāta satura). Kopējā ilgtspējīgo materiālu prēmija bija €18 uz dēli, ko OLagoon iekļāva savā maržā, lai palīdzētu UrbanPulse sasniegt mērķa mazumtirdzniecības cenu.",
             },
             {
               title: '2. solis – Oglekļa neitrāla izpilde un DTC loģistikas arhitektūra',
               detail:
-                'Afarer loģistikas komanda UrbanPulse kontam sadarbojās ar DHL GoGreen Climate Neutral, kompensējot 1.8 kg CO₂ par katru nosūtīto dēli (ietverot jūras kravu no China uz Hamburg un pēdējās jūdzes piegādi). Tika izveidota atsevišķa 200 m² izpildes zona UrbanPulse noliktavā Cologne ar pielāgotiem statīviem piepūšamo SUP kastēm. Katrā sūtījumā bija iepriekš apmaksāta kartona kastes atgriešanas etiķete (drukāta uz 100% pārstrādāta FSC sertificēta kartona ar sojas bāzes tintēm). Afarer iepakojuma dizains pilnībā izslēdza vienreiz lietojamu plastmasu: dēlis bija ietīts kompostējamā PBAT/PLA plēvē, piederumi bija nostiprināti ar papīra lenti, un lietošanas pamācība bija drukāta uz sēklu papīra (iestādiet to pēc izlasīšanas).',
+                'OLagoon loģistikas komanda UrbanPulse kontam sadarbojās ar DHL GoGreen Climate Neutral, kompensējot 1.8 kg CO₂ par katru nosūtīto dēli (ietverot jūras kravu no China uz Hamburg un pēdējās jūdzes piegādi). Tika izveidota atsevišķa 200 m² izpildes zona UrbanPulse noliktavā Cologne ar pielāgotiem statīviem piepūšamo SUP kastēm. Katrā sūtījumā bija iepriekš apmaksāta kartona kastes atgriešanas etiķete (drukāta uz 100% pārstrādāta FSC sertificēta kartona ar sojas bāzes tintēm). OLagoon iepakojuma dizains pilnībā izslēdza vienreiz lietojamu plastmasu: dēlis bija ietīts kompostējamā PBAT/PLA plēvē, piederumi bija nostiprināti ar papīra lenti, un lietošanas pamācība bija drukāta uz sēklu papīra (iestādiet to pēc izlasīšanas).',
             },
             {
               title: '3. solis – Shopify integrācija, saturs pirms ievades un influenceru stratēģija',
               detail:
-                "Afarer e-komercijas komanda integrēja UrbanPulse Shopify veikalu ar pielāgotu produktu konfiguratoru, kas ļauj klientiem izvēlēties dēļa krāsu (3 opcijas), airas krāsu (2 opcijas) un pievienot 'sustainability badge' ar dēļa sērijas numuru un precīzu pārstrādātā satura daudzumu (gramos). Afarer izveidoja 6 īsā formāta video materiālus (15–45 sekundes) ar Berlin SUP influenceriem 'GreenPaddle' un 'ElisePaddlesBerlin' (kopējais sekotāju skaits 72,000). Saturs akcentēja 'urban paddleboarding' uz Berlin kanāliem un ezeriem, pozicionējot SUP kā pilsētā dzīvojošo cilvēku brīvdienu aktivitāti. E-pasta kampaņa pirms ievades (nosūtīta 12,000 UrbanPulse abonentiem) sasniedza 34% atvēršanas līmeni un 2,100 klikšķus uz produkta lapu.",
+                "OLagoon e-komercijas komanda integrēja UrbanPulse Shopify veikalu ar pielāgotu produktu konfiguratoru, kas ļauj klientiem izvēlēties dēļa krāsu (3 opcijas), airas krāsu (2 opcijas) un pievienot 'sustainability badge' ar dēļa sērijas numuru un precīzu pārstrādātā satura daudzumu (gramos). OLagoon izveidoja 6 īsā formāta video materiālus (15–45 sekundes) ar Berlin SUP influenceriem 'GreenPaddle' un 'ElisePaddlesBerlin' (kopējais sekotāju skaits 72,000). Saturs akcentēja 'urban paddleboarding' uz Berlin kanāliem un ezeriem, pozicionējot SUP kā pilsētā dzīvojošo cilvēku brīvdienu aktivitāti. E-pasta kampaņa pirms ievades (nosūtīta 12,000 UrbanPulse abonentiem) sasniedza 34% atvēršanas līmeni un 2,100 klikšķus uz produkta lapu.",
             },
             {
               title: '4. solis – Ievade tirgū, kanālu paplašināšana un atkārtotas pasūtīšanas lēmums',
               detail:
-                "UrbanPulse SUP kolekcija tika izlaista 2023. gada 1. jūnijā ar 500 vienībām (350 universālie, 150 tūrisma). Pirmās nedēļas realizācija bija 112 vienības (22.4%). Afarer pieprasījuma plānotāji pielāgoja PPC stratēģiju Google Shopping un Meta, pārvirzot budžetu uz augstas iecerētības atslēgvārdiem, piemēram, 'nachhaltiges SUP kaufen' (ilgtspējīga SUP iegāde). Līdz 8. nedēļai universālais dēlis bija #2 visvairāk pārdotais SUP Vācijas Shopify DTC tirgū (aiz Fanatic tiešajiem pārdošanas kanāliem). 2023. gada augustā Felix noslēdza partnerību ar SportScheck, izvietojot 80 dēļus 8 veikalos ar īpašiem 'Sustainable Sports' stendiem rindu galos. Līdz 2023. gada decembrim kopējie ieņēmumi sasniedza €487,000, universālajam dēlim veidojot 71% no pārdošanas. Otrā ražošanas kārta ar 800 vienībām tika pasūtīta 2024. gada februārim.",
+                "UrbanPulse SUP kolekcija tika izlaista 2023. gada 1. jūnijā ar 500 vienībām (350 universālie, 150 tūrisma). Pirmās nedēļas realizācija bija 112 vienības (22.4%). OLagoon pieprasījuma plānotāji pielāgoja PPC stratēģiju Google Shopping un Meta, pārvirzot budžetu uz augstas iecerētības atslēgvārdiem, piemēram, 'nachhaltiges SUP kaufen' (ilgtspējīga SUP iegāde). Līdz 8. nedēļai universālais dēlis bija #2 visvairāk pārdotais SUP Vācijas Shopify DTC tirgū (aiz Fanatic tiešajiem pārdošanas kanāliem). 2023. gada augustā Felix noslēdza partnerību ar SportScheck, izvietojot 80 dēļus 8 veikalos ar īpašiem 'Sustainable Sports' stendiem rindu galos. Līdz 2023. gada decembrim kopējie ieņēmumi sasniedza €487,000, universālajam dēlim veidojot 71% no pārdošanas. Otrā ražošanas kārta ar 800 vienībām tika pasūtīta 2024. gada februārim.",
             },
           ],
           results: [
@@ -1109,8 +1109,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc OLagoon',
       items: [
         {
           title: 'Produktu diferenciācija',
@@ -1142,7 +1142,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kā es varu diferenciēt savu SUP produktu Amazon?',
         answer:
-          'Afarer palīdz izveidot unikālu dēļu grafiku, pielāgotas krāsu sistēmas, uzlabotus piederumu komplektus un uz zīmolu vērstu iepakojumu, kas liek jūsu produktam izcelties starp identiskiem konkurentu sludinājumiem.',
+          'OLagoon palīdz izveidot unikālu dēļu grafiku, pielāgotas krāsu sistēmas, uzlabotus piederumu komplektus un uz zīmolu vērstu iepakojumu, kas liek jūsu produktam izcelties starp identiskiem konkurentu sludinājumiem.',
       },
       {
         question: 'Kāds ir minimālais pasūtījuma daudzums tirgusvietu pārdevējiem?',
@@ -1152,7 +1152,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai jūs varat palīdzēt ar Amazon sludinājumu saturu un attēliem?',
         answer:
-          'Jā. Afarer sniedz e-komercijas vizuālo atbalstu, tostarp galvenā attēla koncepcijas, funkciju attēlus, dzīvesveida fotogrāfiju virzību un produktu informācijas strukturēšanu.',
+          'Jā. OLagoon sniedz e-komercijas vizuālo atbalstu, tostarp galvenā attēla koncepcijas, funkciju attēlus, dzīvesveida fotogrāfiju virzību un produktu informācijas strukturēšanu.',
       },
       {
         question: 'Cik ātri jūs varat saražot un nosūtīt manu pielāgoto SUP pasūtījumu?',
@@ -1167,7 +1167,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai jūs varat palīdzēt man paplašināties no viena SUP produkta uz pilnvērtīgu zīmolu?',
         answer:
-          'Jā. Afarer atbalsta pilnīgu produktu portfeļa izstrādi, tostarp vairākus SUP modeļus un brīvā dabas piederumus zīmola paplašināšanai.',
+          'Jā. OLagoon atbalsta pilnīgu produktu portfeļa izstrādi, tostarp vairākus SUP modeļus un brīvā dabas piederumus zīmola paplašināšanai.',
       },
     ],
     cta: {
@@ -1184,15 +1184,15 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Makšķerēšanas SUP ražotājs | Pielāgoti piepūšamie makšķerēšanas SUP dēļi | {SITE}',
       description:
-        'Afarer palīdz makšķerēšanas piederumu zīmoliem izveidot pielāgotus makšķerēšanas SUP produktus ar augstas stabilitātes dizainu, makšķerkātu turētāju sistēmām, dzesētāju stiprinājumiem, D-gredzenu piederumiem un privātā zīmola ražošanas risinājumiem.',
+        'OLagoon palīdz makšķerēšanas piederumu zīmoliem izveidot pielāgotus makšķerēšanas SUP produktus ar augstas stabilitātes dizainu, makšķerkātu turētāju sistēmām, dzesētāju stiprinājumiem, D-gredzenu piederumiem un privātā zīmola ražošanas risinājumiem.',
     },
     hero: {
       tagline: 'Izveidojiet savu makšķerēšanas SUP zīmolu™',
       title: 'Pielāgota makšķerēšanas SUP ražošana makšķerēšanas piederumu zīmoliem',
       subtitle:
-        'Afarer palīdz makšķerēšanas piederumu zīmoliem izveidot pielāgotus makšķerēšanas SUP produktus ar augstas stabilitātes dizainu, makšķerkātu turētāju sistēmām, dzesētāju stiprinājumiem, D-gredzenu piederumiem un privātā zīmola ražošanas risinājumiem.',
+        'OLagoon palīdz makšķerēšanas piederumu zīmoliem izveidot pielāgotus makšķerēšanas SUP produktus ar augstas stabilitātes dizainu, makšķerkātu turētāju sistēmām, dzesētāju stiprinājumiem, D-gredzenu piederumiem un privātā zīmola ražošanas risinājumiem.',
       image: {
-        alt: 'Afarer pielāgoto SUP dēļu apraksts',
+        alt: 'OLagoon pielāgoto SUP dēļu apraksts',
       },
     },
     challenge: {
@@ -1295,7 +1295,7 @@ const lv: Record<string, SolutionOverride> = {
       customer:
         'Ziemeļamerikas makšķerēšanas ekipējuma zīmols, kas sākotnēji pārdeva makšķeres, makšķerēšanas kastes un āra makšķerēšanas piederumus lojālai pieredzējušu makšķernieku kopienai.',
       steps: [
-        "Afarer analizēja mērķa lietotājus un atbilstoši zīmola reputācijai definēja produkta pozicionējumu kā 'Profesionāla piepūšamā makšķerēšanas platforma nopietniem makšķerniekiem'.",
+        "OLagoon analizēja mērķa lietotājus un atbilstoši zīmola reputācijai definēja produkta pozicionējumu kā 'Profesionāla piepūšamā makšķerēšanas platforma nopietniem makšķerniekiem'.",
         "Izveidoja 11' makšķerēšanas SUP modeli ar īpaši platu stāvēšanas platformu, augstu kravnesību, pastiprinātu Drop Stitch struktūru, vairākām D-gredzenu sistēmām un makšķerkātu turētāju saderību.",
         'Izstrādāja makšķerēšanai vērstu grafisko dizainu, āra krāsu sistēmu un profesionālu iepakojumu, kas piesaistīja pieredzējušus makšķerniekus.',
         'Uzsāka pārdošanu ar 500 vienībām, izplatot tās caur esošajiem makšķerēšanas klientiem, e-komercijas veikalu un āra dīleru tīklu.',
@@ -1320,22 +1320,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis - Kopīga dizaina izstrāde ar profesionāliem makšķerniekiem un ergonomiskā analīze',
               detail:
-                'Afarer 2023. gada martā nosūtīja trīs cilvēku produktu izstrādes komandu uz Gothenburg 10 dienu kopīgas dizaina izstrādes darbnīcai. Komanda sadarbojās ar 8 profesionāliem un pusprofesionāliem makšķerniekiem (tostarp Zviedrijas sporta makšķerēšanas čempionu Lars Nilsson), kuriem katram bija vairāk nekā 15 gadu makšķerēšanas SUP pieredzes. Komanda veica kustību reģistrēšanas analīzi metiena un makšķeres ievākšanas kustībām uz prototipa dēļiem, lai noteiktu optimālos stāvēšanas punktus. Galvenie secinājumi: ideālais makšķerkāta turētāja leņķis bija 22 grādi no vertikāles (pret 15 grādiem konkurentu produktos), makšķerēšanas piederumu glabāšanas zonai bija jāatrodas 40 cm attālumā no airētāja dabiskā sniedzamības, un dēlim bija nepieciešams vismaz 34" platums, lai nodrošinātu stabilu stāvēšanu 30 km/h vēja apstākļos. Darbnīcā tika izstrādātas 47 konkrētas dizaina prasības, no kurām 42 tika iekļautas galīgajā dizainā.',
+                'OLagoon 2023. gada martā nosūtīja trīs cilvēku produktu izstrādes komandu uz Gothenburg 10 dienu kopīgas dizaina izstrādes darbnīcai. Komanda sadarbojās ar 8 profesionāliem un pusprofesionāliem makšķerniekiem (tostarp Zviedrijas sporta makšķerēšanas čempionu Lars Nilsson), kuriem katram bija vairāk nekā 15 gadu makšķerēšanas SUP pieredzes. Komanda veica kustību reģistrēšanas analīzi metiena un makšķeres ievākšanas kustībām uz prototipa dēļiem, lai noteiktu optimālos stāvēšanas punktus. Galvenie secinājumi: ideālais makšķerkāta turētāja leņķis bija 22 grādi no vertikāles (pret 15 grādiem konkurentu produktos), makšķerēšanas piederumu glabāšanas zonai bija jāatrodas 40 cm attālumā no airētāja dabiskā sniedzamības, un dēlim bija nepieciešams vismaz 34" platums, lai nodrošinātu stabilu stāvēšanu 30 km/h vēja apstākļos. Darbnīcā tika izstrādātas 47 konkrētas dizaina prasības, no kurām 42 tika iekļautas galīgajā dizainā.',
             },
             {
               title: '2. solis - Integrētas makšķerēšanas sistēmas inženierija un prototipu testēšana',
               detail:
-                "Afarer rūpnieciskie dizaineri izstrādāja modulāru 'Fishing Deck' sistēmu: noņemamu alumīnija sliežu sistēmu (1,2 m gara), kas piestiprināta ar 12 nerūsējošā tērauda ieliktņiem, kas ievadīti dēļa drop-stitch kodolā. Sliede uzņēma 4 makšķerkāta turētājus (regulējams leņķis, ātra atdalīšana), lielu makšķerēšanas piederumu kasti (32 L, ūdensnecaurlaidība IP67, noņemama), tīkla maksti un glāzes turētāju termosiem (Ziemeļvalstu tirgus prasība). Trīs prototipa dēļi tika izgatavoti 2023. gada maijā un testēti 4 nedēļas sešos Zviedrijas ezeros (Vänern, Vättern, Mälaren un 3 mazākos ezeros Småland). Testēšanas programmā tika reģistrētas 340 stundas aktīvas makšķerēšanas. Viens prototips ieguva nelielu izliekumu pēc 3 dienu nepārtrauktas saules iedarbības 26°C laikapstākļos — Afarer visām ražošanas vienībām palielināja klāja PVC biezumu no 0,9 mm līdz 1,2 mm.",
+                "OLagoon rūpnieciskie dizaineri izstrādāja modulāru 'Fishing Deck' sistēmu: noņemamu alumīnija sliežu sistēmu (1,2 m gara), kas piestiprināta ar 12 nerūsējošā tērauda ieliktņiem, kas ievadīti dēļa drop-stitch kodolā. Sliede uzņēma 4 makšķerkāta turētājus (regulējams leņķis, ātra atdalīšana), lielu makšķerēšanas piederumu kasti (32 L, ūdensnecaurlaidība IP67, noņemama), tīkla maksti un glāzes turētāju termosiem (Ziemeļvalstu tirgus prasība). Trīs prototipa dēļi tika izgatavoti 2023. gada maijā un testēti 4 nedēļas sešos Zviedrijas ezeros (Vänern, Vättern, Mälaren un 3 mazākos ezeros Småland). Testēšanas programmā tika reģistrētas 340 stundas aktīvas makšķerēšanas. Viens prototips ieguva nelielu izliekumu pēc 3 dienu nepārtrauktas saules iedarbības 26°C laikapstākļos — OLagoon visām ražošanas vienībām palielināja klāja PVC biezumu no 0,9 mm līdz 1,2 mm.",
             },
             {
               title: '3. solis - Ziemeļvalstu mazumtirdzniecības iepakojums, katalogu integrācija un priekšpārdošana',
               detail:
-                "Afarer izstrādāja izturīgu iepakojumu ar divvalodu (zviedru/somu) marķējumu un 'Fishing SUP Starter Kit' iekšējo izkārtojumu: dēlis, makšķerēšanas sliede ar 4 makšķerkāta turētājiem, makšķerēšanas piederumu kaste, trīsdaļu airis, divvirzienu sūknis, mugursoma un 32 lappušu ceļvedis 'Fishing from SUP' zviedru, norvēģu un somu valodās. Nordic Angler uzsāka priekšpārdošanu Zviedrijas sporta makšķerēšanas gadatirgū Stockholm (2023. gada augusts), nodrošinot stingrus pasūtījumus no 34 mazumtirgotājiem uz 860 vienībām. Erik noslēdza ar Afarer ekskluzīvu 12 mēnešu Ziemeļvalstu izplatīšanas vienošanos, nodrošinot, ka konkurējoši privātā zīmola makšķerēšanas SUP netiks pārdoti Nordic Angler konkurentiem šajā periodā.",
+                "OLagoon izstrādāja izturīgu iepakojumu ar divvalodu (zviedru/somu) marķējumu un 'Fishing SUP Starter Kit' iekšējo izkārtojumu: dēlis, makšķerēšanas sliede ar 4 makšķerkāta turētājiem, makšķerēšanas piederumu kaste, trīsdaļu airis, divvirzienu sūknis, mugursoma un 32 lappušu ceļvedis 'Fishing from SUP' zviedru, norvēģu un somu valodās. Nordic Angler uzsāka priekšpārdošanu Zviedrijas sporta makšķerēšanas gadatirgū Stockholm (2023. gada augusts), nodrošinot stingrus pasūtījumus no 34 mazumtirgotājiem uz 860 vienībām. Erik noslēdza ar OLagoon ekskluzīvu 12 mēnešu Ziemeļvalstu izplatīšanas vienošanos, nodrošinot, ka konkurējoši privātā zīmola makšķerēšanas SUP netiks pārdoti Nordic Angler konkurentiem šajā periodā.",
             },
             {
               title: '4. solis - Ražošana, sezonālā plānošana un pirmā gada realizācija',
               detail:
-                '1200 vienību (700 Lake Angler, 500 Expedition Angler) ražošana noritēja no 2023. gada septembra līdz novembrim Afarer ražotnē Zhongshan. Sūtījums devās ceļā no Ningbo 2023. gada 18. novembrī un ieradās Gothenburg ostā 2023. gada 18. decembrī — ideālā laikā mazumtirgotāju pavasara iepirkumiem. Nordic Angler līdz 2024. gada 1. martam izplatīja 760 vienības mazumtirdzniecības plauktos, savukārt atlikušās 440 vienības glabāja savā noliktavā tiešai izpildei. Līdz 2024. gada 31. maijam bija realizētas 980 vienības (81,7 % no sākotnējās partijas). Lake Angler dēlis 90 dienu laikā kļuva par Nr. 1 pārdotāko makšķerēšanas SUP XXL Sweden. Erik 2024. gada jūnijā veica atkārtotu pasūtījumu uz 1800 vienībām ar 3 dizaina uzlabojumiem: labāk polsterētu pārvadāšanas somu, sliedes regulēšanas rokturiem bez instrumentiem un GPS ierīces stiprinājuma kabatu.',
+                '1200 vienību (700 Lake Angler, 500 Expedition Angler) ražošana noritēja no 2023. gada septembra līdz novembrim OLagoon ražotnē Zhongshan. Sūtījums devās ceļā no Ningbo 2023. gada 18. novembrī un ieradās Gothenburg ostā 2023. gada 18. decembrī — ideālā laikā mazumtirgotāju pavasara iepirkumiem. Nordic Angler līdz 2024. gada 1. martam izplatīja 760 vienības mazumtirdzniecības plauktos, savukārt atlikušās 440 vienības glabāja savā noliktavā tiešai izpildei. Līdz 2024. gada 31. maijam bija realizētas 980 vienības (81,7 % no sākotnējās partijas). Lake Angler dēlis 90 dienu laikā kļuva par Nr. 1 pārdotāko makšķerēšanas SUP XXL Sweden. Erik 2024. gada jūnijā veica atkārtotu pasūtījumu uz 1800 vienībām ar 3 dizaina uzlabojumiem: labāk polsterētu pārvadāšanas somu, sliedes regulēšanas rokturiem bez instrumentiem un GPS ierīces stiprinājuma kabatu.',
             },
           ],
           results: [
@@ -1357,22 +1357,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis - Uz gidiem vērsta produkta specifikācija un klientu atsauksmju analīze',
               detail:
-                'Afarer produktu komanda 2023. gada martā aptaujāja 14 ASV makšķerēšanas gidus (no Texas, Florida, Michigan un Oregon), lai izveidotu vienotu specifikāciju. Trim pieprasītākajām funkcijām bija: (1) pacelta metiena platforma priekšgalā (8" pacēlums) labākai redzamībai un brīvai metienam aiz muguras, (2) klusa stiprinājuma sistēma trollinga dzinēja pievienošanai (vismaz 55-lb vilkme, aizmugurējais stiprinājums) un (3) ar \'yak-attack\' saderīga ekipējuma sliežu sistēma. Dwayne arī pieprasīja maksimālo kravnesību 450 lbs, lai pārvadātu divus makšķerniekus (gidu un klientu). Rezultātā radās 18 lappušu specifikācijas lapa, tostarp struktūras galīgo elementu analīzes (FEA) pārskats no Afarer inženieru komandas, kas parādīja, ka dēlis vidusdaļā iztur 250-lb punktveida slodzi ar noliekumu, kas mazāks par 1,5".',
+                'OLagoon produktu komanda 2023. gada martā aptaujāja 14 ASV makšķerēšanas gidus (no Texas, Florida, Michigan un Oregon), lai izveidotu vienotu specifikāciju. Trim pieprasītākajām funkcijām bija: (1) pacelta metiena platforma priekšgalā (8" pacēlums) labākai redzamībai un brīvai metienam aiz muguras, (2) klusa stiprinājuma sistēma trollinga dzinēja pievienošanai (vismaz 55-lb vilkme, aizmugurējais stiprinājums) un (3) ar \'yak-attack\' saderīga ekipējuma sliežu sistēma. Dwayne arī pieprasīja maksimālo kravnesību 450 lbs, lai pārvadātu divus makšķerniekus (gidu un klientu). Rezultātā radās 18 lappušu specifikācijas lapa, tostarp struktūras galīgo elementu analīzes (FEA) pārskats no OLagoon inženieru komandas, kas parādīja, ka dēlis vidusdaļā iztur 250-lb punktveida slodzi ar noliekumu, kas mazāks par 1,5".',
             },
             {
               title: '2. solis - Prototipi, gidu flotes testēšana un uzlabojumu cikls',
               detail:
-                'Afarer 2023. gada maijā izgatavoja 4 prototipa Guide Pro dēļus. Dwayne izmantoja tos tikai 22 vadītos braucienos 6 nedēļu laikā (2023. gada jūnijs–jūlijs), iesaistot 54 klientus. Katrs brauciens tika dokumentēts ar rakstiskām klientu atsauksmēm un video ierakstiem. Galvenie secinājumi: paceltā metiena platforma tika labi uzņemta (vērtējums 4,8 no 5), taču klientiem sākotnējais ekipējuma sliežu izvietojums šķita pārāk tālu priekšā — Afarer to pārcēla 6" uz aizmuguri. Klusais trollinga dzinēja stiprinājums darbojās, taču tā svars (9 lbs) mainīja dēļa līdzsvaru — Afarer to pārveidoja par divdaļīgu alumīnija kronšteinu ar 5,2 lbs masu. Biežākais klientu komentārs: "Pirmajā reizē jutos pietiekami stabili, lai stāvētu un mestu." Pēc 54 klientu braucieniem neviens dēlis neuzrādīja strukturālas problēmas. Dwayne sniedza galīgo apstiprinājumu 2023. gada augustā.',
+                'OLagoon 2023. gada maijā izgatavoja 4 prototipa Guide Pro dēļus. Dwayne izmantoja tos tikai 22 vadītos braucienos 6 nedēļu laikā (2023. gada jūnijs–jūlijs), iesaistot 54 klientus. Katrs brauciens tika dokumentēts ar rakstiskām klientu atsauksmēm un video ierakstiem. Galvenie secinājumi: paceltā metiena platforma tika labi uzņemta (vērtējums 4,8 no 5), taču klientiem sākotnējais ekipējuma sliežu izvietojums šķita pārāk tālu priekšā — OLagoon to pārcēla 6" uz aizmuguri. Klusais trollinga dzinēja stiprinājums darbojās, taču tā svars (9 lbs) mainīja dēļa līdzsvaru — OLagoon to pārveidoja par divdaļīgu alumīnija kronšteinu ar 5,2 lbs masu. Biežākais klientu komentārs: "Pirmajā reizē jutos pietiekami stabili, lai stāvētu un mestu." Pēc 54 klientu braucieniem neviens dēlis neuzrādīja strukturālas problēmas. Dwayne sniedza galīgo apstiprinājumu 2023. gada augustā.',
             },
             {
               title: '3. solis - Zīmola palaišana, DTC tīmekļa vietne un gidu affiliate programma',
               detail:
-                "Texas Tailwaters tika palaists 2023. gada 1. novembrī ar Shopify DTC vietni, ko izveidoja Afarer e-komercijas komanda. Vietnē bija 8 produktu video, 34 dzīvesstila attēli, kas uzņemti Lake Travis (tostarp drona uzņēmumi), un detalizētas 'Guide Notes' (Dwayne personīgie padomi katram dēlim). Afarer ieviesa pakāpjveida gidu affiliate programmu: gidi saņēma 15 % komisiju par tiešiem ieteikumiem, bezmaksas demonstrācijas dēli pēc 10 pārdotām vienībām un ekskluzīvu piekļuvi privātai Facebook grupai (42 gidu dalībnieki līdz 2024. gada martam). Palaišanas kampaņa ietvēra Google Ads stratēģiju ar mērķa frāzēm 'fishing SUP', 'SUP fishing' un 'guide paddleboard' ar $3,500 mēneša budžetu. Dwayne paša Instagram saturs nodrošināja ievērojamu apmeklējumu — viņa 'Day on the Water' Reels video vidēji ieguva 12 000 skatījumu.",
+                "Texas Tailwaters tika palaists 2023. gada 1. novembrī ar Shopify DTC vietni, ko izveidoja OLagoon e-komercijas komanda. Vietnē bija 8 produktu video, 34 dzīvesstila attēli, kas uzņemti Lake Travis (tostarp drona uzņēmumi), un detalizētas 'Guide Notes' (Dwayne personīgie padomi katram dēlim). OLagoon ieviesa pakāpjveida gidu affiliate programmu: gidi saņēma 15 % komisiju par tiešiem ieteikumiem, bezmaksas demonstrācijas dēli pēc 10 pārdotām vienībām un ekskluzīvu piekļuvi privātai Facebook grupai (42 gidu dalībnieki līdz 2024. gada martam). Palaišanas kampaņa ietvēra Google Ads stratēģiju ar mērķa frāzēm 'fishing SUP', 'SUP fishing' un 'guide paddleboard' ar $3,500 mēneša budžetu. Dwayne paša Instagram saturs nodrošināja ievērojamu apmeklējumu — viņa 'Day on the Water' Reels video vidēji ieguva 12 000 skatījumu.",
             },
             {
               title: '4. solis - Ražošanas izpilde, klientu atbalsts un mērogošana otrajam gadam',
               detail:
-                'Pirmā 450 vienību ražošanas partija (300 Guide Pro, 150 Expedition Elite) tika nosūtīta no Afarer rūpnīcas 2023. gada 15. oktobrī un ieradās pie Dwayne 3PL partnera Houston (ShipBob noliktavā) 2023. gada 22. novembrī. Dwayne pirms palaišanas bija priekšpārdevis 87 vienības caur savu gidu tīklu. Līdz 2024. gada 31. martam bija pārdotas 334 vienības (74,2 % no krājuma). Afarer klientu atbalsta komanda apstrādāja visus garantijas pieprasījumus (6 reģistrētas problēmas: 3 vārsta blīvju noplūdes, 2 spuru kārbu atslābumi, 1 klāja pakas pūslis) — visas tika atrisinātas 48 stundu laikā. Dwayne 2024. gada aprīlī pieņēma darbā nepilna laika klientu apkalpošanas koordinatoru, jo apjoms auga. Otrā 800 vienību ražošanas partija tika pasūtīta 2024. gada maijā ar paplašināšanos divos jaunos mazumtirgotājos: Austin Kayak un Fishing Tackle Unlimited (abi atrodas Texas).',
+                'Pirmā 450 vienību ražošanas partija (300 Guide Pro, 150 Expedition Elite) tika nosūtīta no OLagoon rūpnīcas 2023. gada 15. oktobrī un ieradās pie Dwayne 3PL partnera Houston (ShipBob noliktavā) 2023. gada 22. novembrī. Dwayne pirms palaišanas bija priekšpārdevis 87 vienības caur savu gidu tīklu. Līdz 2024. gada 31. martam bija pārdotas 334 vienības (74,2 % no krājuma). OLagoon klientu atbalsta komanda apstrādāja visus garantijas pieprasījumus (6 reģistrētas problēmas: 3 vārsta blīvju noplūdes, 2 spuru kārbu atslābumi, 1 klāja pakas pūslis) — visas tika atrisinātas 48 stundu laikā. Dwayne 2024. gada aprīlī pieņēma darbā nepilna laika klientu apkalpošanas koordinatoru, jo apjoms auga. Otrā 800 vienību ražošanas partija tika pasūtīta 2024. gada maijā ar paplašināšanos divos jaunos mazumtirgotājos: Austin Kayak un Fishing Tackle Unlimited (abi atrodas Texas).',
             },
           ],
           results: [
@@ -1384,8 +1384,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc OLagoon',
       items: [
         {
           title: 'Makšķernieku vajadzības',
@@ -1423,7 +1423,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai pie SUP var pievienot makšķerkāta turētājus un dzesētāju stiprinājumus?',
         answer:
-          'Jā. Afarer integrē makšķerēšanai paredzētas piederumu sistēmas, tostarp makšķerkāta turētājus, dzesētāju stiprinājuma zonas, kameru stiprinājumus un D-gredzenu piestiprināšanas punktus, tieši dēļa dizainā.',
+          'Jā. OLagoon integrē makšķerēšanai paredzētas piederumu sistēmas, tostarp makšķerkāta turētājus, dzesētāju stiprinājuma zonas, kameru stiprinājumus un D-gredzenu piestiprināšanas punktus, tieši dēļa dizainā.',
       },
       {
         question: 'Kāda ir makšķerēšanas SUP kravnesība?',
@@ -1433,7 +1433,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai jūs piedāvājat pielāgotu zīmolēšanu makšķerēšanas ekipējuma uzņēmumiem?',
         answer:
-          'Jā. Afarer nodrošina pilnīgu privātā zīmola ražošanu ar pielāgotu dēļu grafiku, zīmola krāsām, logotipa izvietojumu, EVA klāja dizainu un iepakojumu makšķerēšanas zīmoliem.',
+          'Jā. OLagoon nodrošina pilnīgu privātā zīmola ražošanu ar pielāgotu dēļu grafiku, zīmola krāsām, logotipa izvietojumu, EVA klāja dizainu un iepakojumu makšķerēšanas zīmoliem.',
       },
       {
         question: 'Vai makšķerēšanas SUP var izmantot gan saldūdenī, gan sālsūdenī?',
@@ -1460,15 +1460,15 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP jogas aprīkojuma ražotājs | Pielāgoti jogas SUP dēļi | {SITE}',
       description:
-        'Afarer piedāvā pielāgotus SUP jogas aprīkojuma risinājumus jogas studijām, wellness atpūtas centriem un fitnesa zīmoliem. Izveidojiet premium piepūšamus jogas SUP dēļus ar platu stabilitātes dizainu, pilna seguma EVA klājiem un privātā zīmola ražošanu.',
+        'OLagoon piedāvā pielāgotus SUP jogas aprīkojuma risinājumus jogas studijām, wellness atpūtas centriem un fitnesa zīmoliem. Izveidojiet premium piepūšamus jogas SUP dēļus ar platu stabilitātes dizainu, pilna seguma EVA klājiem un privātā zīmola ražošanu.',
     },
     hero: {
       tagline: 'SUP jogas aprīkojuma risinājumi™',
       title: 'Premium SUP jogas aprīkojums wellness zīmoliem un atpūtas centriem',
       subtitle:
-        'Afarer piedāvā pielāgotus SUP jogas aprīkojuma risinājumus jogas studijām, wellness atpūtas centriem un fitnesa zīmoliem. Izveidojiet premium piepūšamus jogas SUP dēļus ar platu stabilitātes dizainu, pilna seguma EVA klājiem un privātā zīmola ražošanu.',
+        'OLagoon piedāvā pielāgotus SUP jogas aprīkojuma risinājumus jogas studijām, wellness atpūtas centriem un fitnesa zīmoliem. Izveidojiet premium piepūšamus jogas SUP dēļus ar platu stabilitātes dizainu, pilna seguma EVA klājiem un privātā zīmola ražošanu.',
       image: {
-        alt: 'Afarer pielāgoto SUP dēļu apraksts',
+        alt: 'OLagoon pielāgoto SUP dēļu apraksts',
       },
     },
     challenge: {
@@ -1593,7 +1593,7 @@ const lv: Record<string, SolutionOverride> = {
       customer:
         'Eiropas wellness atpūtas centru zīmols, kas organizē jogas atpūtas programmas, meditācijas programmas un āra wellness pieredzi premium wellness ceļotājiem.',
       steps: [
-        'Afarer definēja produkta koncepciju kā "Luxury Floating Yoga Experience", paredzētu wellness ceļotājiem, sieviešu fitnesa klientiem un premium atpūtas centru viesiem.',
+        'OLagoon definēja produkta koncepciju kā "Luxury Floating Yoga Experience", paredzētu wellness ceļotājiem, sieviešu fitnesa klientiem un premium atpūtas centru viesiem.',
         'Izveidoja Premium Wide Yoga SUP ar īpaši platu, stabilu platformu, pilnu EVA jogas klāju, ērtu virsmu kailām kājām un līdzsvarotu peldošu veiktspēju.',
         'Izstrādāja maigu, dabisku krāsu paleti, minimālus grafikus un premium iepakojumu, kas pilnībā atbilda wellness zīmola mierīgajai identitātei.',
         'Palaida ar atpūtas programmām, jogas nodarbībām un premium klientu pieredzi kā sākotnējo lietojumu.',
@@ -1618,17 +1618,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis — Dēļu dizains jogai un sanskrita estētika',
               detail:
-                'Afarer dizaina komanda 2023. gada martā pavadīja 3 nedēļas, izpētot Simone prasības. Rezultāts: SUP jogas dēlis "Serenity" — 34" plats (pretēji standarta 32"), 11\'6" garš, ar 7 slāņu drop-stitch kodolu stingrai stabilitātei. Klājs bija aprīkots ar 6 mm biezu slēgtās šūnas EVA paklāju ar dimanta raksta tekstūru (testētais berzes koeficients: 0,85 sausā, 0,72 slapjā), kas sedza 85% klāja virsmas. Afarer iekļāva sanskrita "Om" simbolu sudrabainā, reflektīvā termopārnesumā dēļa priekšgalā un lotosa rakstu ap centrālo nesamo rokturi. Dēļi bija pieejami 4 krāsās (koraļļu, tirkīza, saulrieta oranžā, lagūnas zilā), kas atbilda 4 Azure Resort krāsu paletēm. Katram dēlim bija 8 nerūsējošā tērauda D-gredzeni — 4 sporta auklas sistēmai jogas paklājiņu nostiprināšanai un 4 papildu enkura virvēm stacionārai praksei straumēs.',
+                'OLagoon dizaina komanda 2023. gada martā pavadīja 3 nedēļas, izpētot Simone prasības. Rezultāts: SUP jogas dēlis "Serenity" — 34" plats (pretēji standarta 32"), 11\'6" garš, ar 7 slāņu drop-stitch kodolu stingrai stabilitātei. Klājs bija aprīkots ar 6 mm biezu slēgtās šūnas EVA paklāju ar dimanta raksta tekstūru (testētais berzes koeficients: 0,85 sausā, 0,72 slapjā), kas sedza 85% klāja virsmas. OLagoon iekļāva sanskrita "Om" simbolu sudrabainā, reflektīvā termopārnesumā dēļa priekšgalā un lotosa rakstu ap centrālo nesamo rokturi. Dēļi bija pieejami 4 krāsās (koraļļu, tirkīza, saulrieta oranžā, lagūnas zilā), kas atbilda 4 Azure Resort krāsu paletēm. Katram dēlim bija 8 nerūsējošā tērauda D-gredzeni — 4 sporta auklas sistēmai jogas paklājiņu nostiprināšanai un 4 papildu enkura virvēm stacionārai praksei straumēs.',
             },
             {
               title: '2. solis — Pilotprogramma Azure North ar jogas instruktoru apmācību',
               detail:
-                'Afarer izgatavoja 15 prototipa dēļus un nosūtīja tos ar ekspreso gaisa kravu (Singapore Airlines Cargo) 6 nedēļu pilotprojektam Azure North, sākot ar 2023. gada 1. jūniju. Simone un 4 rezidējošie jogas instruktori pabeidza 40 stundu ilgu SUP jogas instruktoru sertifikācijas programmu, ko kopīgi izstrādāja Afarer wellness konsultanti un Yoga Alliance profesionāļi. Sertifikācija ietvēra: dēļa sagatavošanu un piepūšanu jogai (12 PSI maksimālai stabilitātei), nodarbību secību atbilstoši ūdens apstākļiem, drošības protokolus vējam un straumei, kā arī 15 unikālas SUP jogas pozas, pielāgotas dēļa videi. Pilota ietvaros 6 nedēļu laikā notika 42 nodarbības ar 186 viesu dalībniekiem. Pirms un pēc pilota veiktās aptaujas parādīja, ka viesu pārliecība uzlabojās par 58%, un vidējais nodarbību vērtējums bija 4,8/5. Viesu atsauksmes izcēla divus uzlabojumus: pieprasījumu pēc airu turētāja dēļa malā (lai airi neaizpeld prom prakses laikā) un vēlmi pēc dēļiem ar "mīkstu" priekšgala rādiusu partneru pozām.',
+                'OLagoon izgatavoja 15 prototipa dēļus un nosūtīja tos ar ekspreso gaisa kravu (Singapore Airlines Cargo) 6 nedēļu pilotprojektam Azure North, sākot ar 2023. gada 1. jūniju. Simone un 4 rezidējošie jogas instruktori pabeidza 40 stundu ilgu SUP jogas instruktoru sertifikācijas programmu, ko kopīgi izstrādāja OLagoon wellness konsultanti un Yoga Alliance profesionāļi. Sertifikācija ietvēra: dēļa sagatavošanu un piepūšanu jogai (12 PSI maksimālai stabilitātei), nodarbību secību atbilstoši ūdens apstākļiem, drošības protokolus vējam un straumei, kā arī 15 unikālas SUP jogas pozas, pielāgotas dēļa videi. Pilota ietvaros 6 nedēļu laikā notika 42 nodarbības ar 186 viesu dalībniekiem. Pirms un pēc pilota veiktās aptaujas parādīja, ka viesu pārliecība uzlabojās par 58%, un vidējais nodarbību vērtējums bija 4,8/5. Viesu atsauksmes izcēla divus uzlabojumus: pieprasījumu pēc airu turētāja dēļa malā (lai airi neaizpeld prom prakses laikā) un vēlmi pēc dēļiem ar "mīkstu" priekšgala rādiusu partneru pozām.',
             },
             {
               title: '3. solis — Izvēršana visos kūrortos, infrastruktūra un programmu izveide',
               detail:
-                'Pamatojoties uz veiksmīgo pilotu, Azure 2023. gada augustā izdeva pasūtījumu (PO) uz 40 "Serenity" dēļiem (10 katrā kūrortā). Pamatojoties uz pilota atsauksmēm, Afarer veica divus dizaina uzlabojumus: silikona siksnas airu fiksēšanai labajā bortā un par 15 cm lielāku priekšgala rādiusu (no 45 cm uz 60 cm rādiusu) brīvākai partneru pozu izpildei. Afarer nosūtīja jūras kravu atsevišķā 20 pēdu konteinerā, iekļaujot 40 pielāgotus piepūšanas sūkņus ar spiediena mērītājiem, kalibrētiem PSI, nevis bāros. Krava ieradās Malé 2023. gada 1. novembrī. Simone, izmantojot sertifikācijas mācību programmu, apmācīja papildu 12 instruktorus 4 kūrortos (3 katrā īpašumā), un divi galvenie instruktori piedalījās 2 nedēļu ilgu treneru apmācības programmā Bali (koordinēja Afarer wellness partneris). Katrs kūrorts izveidoja īpašu SUP jogas starta punktu ar peldošu piestātni, aprīkojuma glabātuvi un noēnotu atpūtas zonu.',
+                'Pamatojoties uz veiksmīgo pilotu, Azure 2023. gada augustā izdeva pasūtījumu (PO) uz 40 "Serenity" dēļiem (10 katrā kūrortā). Pamatojoties uz pilota atsauksmēm, OLagoon veica divus dizaina uzlabojumus: silikona siksnas airu fiksēšanai labajā bortā un par 15 cm lielāku priekšgala rādiusu (no 45 cm uz 60 cm rādiusu) brīvākai partneru pozu izpildei. OLagoon nosūtīja jūras kravu atsevišķā 20 pēdu konteinerā, iekļaujot 40 pielāgotus piepūšanas sūkņus ar spiediena mērītājiem, kalibrētiem PSI, nevis bāros. Krava ieradās Malé 2023. gada 1. novembrī. Simone, izmantojot sertifikācijas mācību programmu, apmācīja papildu 12 instruktorus 4 kūrortos (3 katrā īpašumā), un divi galvenie instruktori piedalījās 2 nedēļu ilgu treneru apmācības programmā Bali (koordinēja OLagoon wellness partneris). Katrs kūrorts izveidoja īpašu SUP jogas starta punktu ar peldošu piestātni, aprīkojuma glabātuvi un noēnotu atpūtas zonu.',
             },
             {
               title: '4. solis — Ieņēmumu veiktspēja, viesu noturēšana un programmas paplašināšana',
@@ -1655,22 +1655,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis — Jogas instruktores dizaina vīzija un ergonomiskais studijas dēlis',
               detail:
-                'Afarer produktu dizaineri 2023. gada februārī ieradās Santamonikā, lai vērotu 4 Kai nodarbības un izprastu viņas mācību stilu. Kai mācīja Vinyasa plūsmas, atjaunojošās yin un partneru akro-jogas apvienojumu uz dēļiem — tas prasīja vairāk klāja vietas, nekā piedāvā standarta SUP dēļi. Afarer izstrādāja 3 SKU: (1) "Drift 10\'6"" — standarta SUP jogas dēlis (34" plats, 6 mm klāja paklājs), (2) "Studio 12\'0"" — īpaši plats dēlis ar 38" platumu un 8 mm mīkstu klāju (paredzēts akro un partneru pozām, maksimālais svars 450 lbs) un (3) "Mini 9\'0"" — bērniem draudzīgs dēlis (30" plats, 5 mm klājs, spilgtu krāsu iespējas). Studijas dēlim bija unikāls "centerline alignment marker" — smalka drukāta līnija klāja vidū, kas palīdz studentiem vienmērīgi izvietot paklājiņus. Visi dēļi izmantoja Afarer Fusion-Lite drop-stitch tehnoloģiju un bija par 3 lbs vieglāki nekā standarta dēļi, lai atvieglotu pārvadāšanu.',
+                'OLagoon produktu dizaineri 2023. gada februārī ieradās Santamonikā, lai vērotu 4 Kai nodarbības un izprastu viņas mācību stilu. Kai mācīja Vinyasa plūsmas, atjaunojošās yin un partneru akro-jogas apvienojumu uz dēļiem — tas prasīja vairāk klāja vietas, nekā piedāvā standarta SUP dēļi. OLagoon izstrādāja 3 SKU: (1) "Drift 10\'6"" — standarta SUP jogas dēlis (34" plats, 6 mm klāja paklājs), (2) "Studio 12\'0"" — īpaši plats dēlis ar 38" platumu un 8 mm mīkstu klāju (paredzēts akro un partneru pozām, maksimālais svars 450 lbs) un (3) "Mini 9\'0"" — bērniem draudzīgs dēlis (30" plats, 5 mm klājs, spilgtu krāsu iespējas). Studijas dēlim bija unikāls "centerline alignment marker" — smalka drukāta līnija klāja vidū, kas palīdz studentiem vienmērīgi izvietot paklājiņus. Visi dēļi izmantoja OLagoon Fusion-Lite drop-stitch tehnoloģiju un bija par 3 lbs vieglāki nekā standarta dēļi, lai atvieglotu pārvadāšanu.',
             },
             {
               title: '2. solis — Zīmola identitāte, satura producēšana un priekšpārdošanas stratēģija',
               detail:
-                'Afarer radošā komanda izstrādāja "Drift & Downward Dog" vizuālo identitāti: minimālistisku logo ar stilizētu lotosa un mandalas viļņa hibrīdu, krāsu paleti no salvijas zaļās, smilšu un okeāna zilās, kā arī pielāgotu fontu pāri (Lora virsrakstiem, Nunito pamattekstam). 2023. gada martā viņi 5 Santamonikas līča vietās (Santa Monica Pier, Point Dume Malibu, Venice Beach, Marina del Rey un Paradise Cove) veica 6 dienu fotosesiju, iegūstot 480 atlasītus attēlus un 8 stundas 4K video materiāla. Kai 2023. gada 1. maijā palaida 30 dienu priekšpārdošanu, izmantojot Kickstarter kampaņu ar $35,000 mērķi. Kampaņā bija 3 atbalsta līmeņi: "Drift" dēlis aglajiem pircējiem ($599, 40 vienības), "Studio" dēļa komplekts ar paklājiņu un siksnu ($949, 25 vienības) un "Mini" dēlis ($449, 20 vienības). Kampaņa sasniedza mērķi 11 stundās un noslēdzās ar $74,200 no 118 atbalstītājiem.',
+                'OLagoon radošā komanda izstrādāja "Drift & Downward Dog" vizuālo identitāti: minimālistisku logo ar stilizētu lotosa un mandalas viļņa hibrīdu, krāsu paleti no salvijas zaļās, smilšu un okeāna zilās, kā arī pielāgotu fontu pāri (Lora virsrakstiem, Nunito pamattekstam). 2023. gada martā viņi 5 Santamonikas līča vietās (Santa Monica Pier, Point Dume Malibu, Venice Beach, Marina del Rey un Paradise Cove) veica 6 dienu fotosesiju, iegūstot 480 atlasītus attēlus un 8 stundas 4K video materiāla. Kai 2023. gada 1. maijā palaida 30 dienu priekšpārdošanu, izmantojot Kickstarter kampaņu ar $35,000 mērķi. Kampaņā bija 3 atbalsta līmeņi: "Drift" dēlis aglajiem pircējiem ($599, 40 vienības), "Studio" dēļa komplekts ar paklājiņu un siksnu ($949, 25 vienības) un "Mini" dēlis ($449, 20 vienības). Kampaņa sasniedza mērķi 11 stundās un noslēdzās ar $74,200 no 118 atbalstītājiem.',
             },
             {
               title: '3. solis — Ražošana, izpildes loģistika un integrācija nodarbībās',
               detail:
-                '180 dēļu (80 Drift, 50 Studio, 50 Mini) ražošana noritēja no 2023. gada jūnija līdz jūlijam Afarer ražotnē Vjetnamā. Līdz 2023. gada 1. augustam visi Kickstarter pasūtījumi tika izpildīti no 3PL noliktavas Long Beach (15 jūdzes no Kai studijas Santamonikā). Kai palaida nodarbību rezervācijas platformu Shopify ar pielāgotu plānošanas lietotni, kas integrēta ar Acuity Scheduling. Viņa piedāvāja 4 nodarbību veidus: "Sunrise Flow" (iesācējiem, Drift dēlis), "Full Moon Studio" (padziļinātais līmenis un partneriem, Studio dēlis), "Family Paddle" (bērni un vecāki, Mini un Drift) un "Restorative Yin & Float" (jogas pozu un vadītās meditācijas apvienojums). Viņa nolīga 3 papildu sertificētus SUP jogas instruktorus paplašinātā grafika nodrošināšanai. Līdz 2023. gada septembrim Kai vadīja 22 nodarbības nedēļā ar vidēji 14 studentiem katrā.',
+                '180 dēļu (80 Drift, 50 Studio, 50 Mini) ražošana noritēja no 2023. gada jūnija līdz jūlijam OLagoon ražotnē Vjetnamā. Līdz 2023. gada 1. augustam visi Kickstarter pasūtījumi tika izpildīti no 3PL noliktavas Long Beach (15 jūdzes no Kai studijas Santamonikā). Kai palaida nodarbību rezervācijas platformu Shopify ar pielāgotu plānošanas lietotni, kas integrēta ar Acuity Scheduling. Viņa piedāvāja 4 nodarbību veidus: "Sunrise Flow" (iesācējiem, Drift dēlis), "Full Moon Studio" (padziļinātais līmenis un partneriem, Studio dēlis), "Family Paddle" (bērni un vecāki, Mini un Drift) un "Restorative Yin & Float" (jogas pozu un vadītās meditācijas apvienojums). Viņa nolīga 3 papildu sertificētus SUP jogas instruktorus paplašinātā grafika nodrošināšanai. Līdz 2023. gada septembrim Kai vadīja 22 nodarbības nedēļā ar vidēji 14 studentiem katrā.',
             },
             {
               title: '4. solis — Mazumtirdzniecības kanālu paplašināšana, korporatīvais wellness un 2. gada izaugsme',
               detail:
-                '2023. gada oktobrī Kai uzrunāja REI Dienvidkalifornijas reģionālā pircēja, kurš bija piedalījies vienā no viņas nodarbībām. REI izdeva testēšanas pasūtījumu uz 30 Drift dēļiem un 15 Mini dēļiem 5 veikaliem Santamonikas apkaimē. Afarer pielāgoja iepakojumu, iekļaujot ar REI prasībām atbilstošus karodziņus un produkta reģistrāciju ar QR kodu. Līdz 2023. gada decembrim REI pārdošanas temps 5 veikalos sasniedza 82%, un REI izdeva papildu pasūtījumu uz 100 dēļiem 20 Dienvidkalifornijas vietās. Kai arī palaida korporatīvo wellness programmu, slēdzot līgumus ar 4 tehnoloģiju uzņēmumiem (Google Venice, Hulu Santa Monica un vēl diviem), lai nodrošinātu iknedēļas SUP jogas nodarbības uz vietas kā darbinieku atvieglojumu. Korporatīvā programma ģenerēja $4,200 atkārtojošos ieņēmumu mēnesī. Līdz 1. gada beigām (2024. gada marts) "Drift & Downward Dog" bija ģenerējis $342,000 kopējo ieņēmumu (produktu pārdošana: $218,000, nodarbību ieņēmumi: $94,000, korporatīvais wellness: $30,000).',
+                '2023. gada oktobrī Kai uzrunāja REI Dienvidkalifornijas reģionālā pircēja, kurš bija piedalījies vienā no viņas nodarbībām. REI izdeva testēšanas pasūtījumu uz 30 Drift dēļiem un 15 Mini dēļiem 5 veikaliem Santamonikas apkaimē. OLagoon pielāgoja iepakojumu, iekļaujot ar REI prasībām atbilstošus karodziņus un produkta reģistrāciju ar QR kodu. Līdz 2023. gada decembrim REI pārdošanas temps 5 veikalos sasniedza 82%, un REI izdeva papildu pasūtījumu uz 100 dēļiem 20 Dienvidkalifornijas vietās. Kai arī palaida korporatīvo wellness programmu, slēdzot līgumus ar 4 tehnoloģiju uzņēmumiem (Google Venice, Hulu Santa Monica un vēl diviem), lai nodrošinātu iknedēļas SUP jogas nodarbības uz vietas kā darbinieku atvieglojumu. Korporatīvā programma ģenerēja $4,200 atkārtojošos ieņēmumu mēnesī. Līdz 1. gada beigām (2024. gada marts) "Drift & Downward Dog" bija ģenerējis $342,000 kopējo ieņēmumu (produktu pārdošana: $218,000, nodarbību ieņēmumi: $94,000, korporatīvais wellness: $30,000).',
             },
           ],
           results: [
@@ -1682,8 +1682,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc OLagoon',
       items: [
         {
           title: 'Wellness pieredzes izpratne',
@@ -1722,7 +1722,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai varu izveidot savu zīmola SUP jogas produktu līniju?',
         answer:
-          'Jā. Afarer nodrošina pilnīgu privātā zīmola ražošanu ar pielāgotām krāsām, grafiku, iepakojumu un piederumiem, kas īpaši izstrādāti jogas un wellness zīmoliem.',
+          'Jā. OLagoon nodrošina pilnīgu privātā zīmola ražošanu ar pielāgotām krāsām, grafiku, iepakojumu un piederumiem, kas īpaši izstrādāti jogas un wellness zīmoliem.',
       },
       {
         question: 'Vai jūsu SUP jogas dēļi ir piemēroti profesionālai izmantošanai studijās?',
@@ -1762,12 +1762,12 @@ const lv: Record<string, SolutionOverride> = {
         '{SITE} palīdz YouTube, TikTok un Instagram veidotājiem, kā arī Kickstarter zīmoliem uzsākt pielāgotus SUP produktus ar ātriem prototipiem, ražošanu ar zemu MOQ, ierobežota izdevuma dizainu un private label risinājumiem.',
     },
     hero: {
-      tagline: 'Pārvērtiet savu auditoriju ūdens sporta zīmolā kopā ar Afarer',
+      tagline: 'Pārvērtiet savu auditoriju ūdens sporta zīmolā kopā ar OLagoon',
       title: 'Pielāgotas SUP ražošanas risinājumi YouTube, TikTok un Instagram veidotājiem un Kickstarter zīmoliem',
       subtitle:
-        'Afarer palīdz veidotājiem uzsākt savus SUP zīmolus, izmantojot ātru prototipu izstrādi, mazu MOQ ražošanu, pielāgotu grafiku, ierobežota izdevuma dizainu, zīmola iepakojumu un elastīgus ražošanas risinājumus.',
+        'OLagoon palīdz veidotājiem uzsākt savus SUP zīmolus, izmantojot ātru prototipu izstrādi, mazu MOQ ražošanu, pielāgotu grafiku, ierobežota izdevuma dizainu, zīmola iepakojumu un elastīgus ražošanas risinājumus.',
       image: {
-        alt: 'Afarer pielāgoti SUP dēļi creator un ietekmētāju zīmoliem',
+        alt: 'OLagoon pielāgoti SUP dēļi creator un ietekmētāju zīmoliem',
       },
     },
     challenge: {
@@ -1801,7 +1801,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Strauja SUP prototipu izstrāde',
           description:
-            'Afarer palīdz ātri pārvērst idejas fiziskos prototipos. No koncepta izstrādes un dēļu paraugiem līdz grafiku testēšanai un konfigurācijas pielāgošanai veidotāji var ātri iterēt, balstoties uz kopienas atsauksmēm.',
+            'OLagoon palīdz ātri pārvērst idejas fiziskos prototipos. No koncepta izstrādes un dēļu paraugiem līdz grafiku testēšanai un konfigurācijas pielāgošanai veidotāji var ātri iterēt, balstoties uz kopienas atsauksmēm.',
           features: [
             'Produkta koncepta izstrāde',
             'Prototipu izveide',
@@ -1812,7 +1812,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Zema MOQ ražošana creator zīmoliem',
           description:
-            'Veidotājiem ir jāapstiprina pieprasījums pirms mērogošanas. Afarer atbalsta elastīgus starta apjomus no 100-300 vienībām kopienas testēšanai un ierobežotiem startiem, mērogojot līdz 500-2000 izaugsmei un 3000+ pilnvērtīgai zīmola darbībai.',
+            'Veidotājiem ir jāapstiprina pieprasījums pirms mērogošanas. OLagoon atbalsta elastīgus starta apjomus no 100-300 vienībām kopienas testēšanai un ierobežotiem startiem, mērogojot līdz 500-2000 izaugsmei un 3000+ pilnvērtīgai zīmola darbībai.',
           features: [
             'Creator starta posms: 100-300 gab.',
             'Izaugsmes posms: 500-2000 gab.',
@@ -1823,7 +1823,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Ierobežota izdevuma creator SUP dizains',
           description:
-            'Creator zīmoli gūst panākumus, pateicoties unikalitātei. Afarer palīdz izstrādāt eksklusīvus izdevumus ar pielāgotiem grafikiem, paraksta mākslu, īpašām krāsu versijām un kopienas iedvesmotiem dizaina elementiem, ko fani patiesi vēlas.',
+            'Creator zīmoli gūst panākumus, pateicoties unikalitātei. OLagoon palīdz izstrādāt eksklusīvus izdevumus ar pielāgotiem grafikiem, paraksta mākslu, īpašām krāsu versijām un kopienas iedvesmotiem dizaina elementiem, ko fani patiesi vēlas.',
           features: [
             'Pielāgoti grafiki un mākslinieku darbi',
             'Paraksta un kopienas izdevumi',
@@ -1834,12 +1834,12 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Premium iepakojums creator startiem',
           description:
-            'Veidotājiem iesaiņošanas atvēršana ir daļa no zīmola pieredzes. Afarer atbalsta pielāgotu iepakojumu ar zīmolota kastēm, produkta kartītēm, pateicības vēstulēm un QR kodiem, kas vedina uz veidotāja saturu un pārvērš klientus par ilgtermiņa sekotājiem.',
+            'Veidotājiem iesaiņošanas atvēršana ir daļa no zīmola pieredzes. OLagoon atbalsta pielāgotu iepakojumu ar zīmolota kastēm, produkta kartītēm, pateicības vēstulēm un QR kodiem, kas vedina uz veidotāja saturu un pārvērš klientus par ilgtermiņa sekotājiem.',
         },
         {
           title: 'Kickstarter un pūlfinansēšanas produktu atbalsts',
           description:
-            'Daudzi veidotāji izmanto pūlfinansēšanu, lai apstiprinātu pieprasījumu. Afarer atbalsta prototipu izstrādi pirms starta, kampaņas ražošanas plānošanu un partijas izpildi pēc kampaņas, lai veidotāji varētu izpildīt savus solījumus.',
+            'Daudzi veidotāji izmanto pūlfinansēšanu, lai apstiprinātu pieprasījumu. OLagoon atbalsta prototipu izstrādi pirms starta, kampaņas ražošanas plānošanu un partijas izpildi pēc kampaņas, lai veidotāji varētu izpildīt savus solījumus.',
           features: [
             'Izstrāde pirms starta',
             'Kampaņas ražošanas plānošana',
@@ -1850,7 +1850,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Creator zīmola produktu paplašināšana',
           description:
-            'Veiksmīgs creator zīmols var paplašināties par pilnvērtīgu āra ekosistēmu. Afarer atbalsta SUP produktu līnijas, ūdens piederumus un sezonas kolekcijas, kas aug līdzi kopienai.',
+            'Veiksmīgs creator zīmols var paplašināties par pilnvērtīgu āra ekosistēmu. OLagoon atbalsta SUP produktu līnijas, ūdens piederumus un sezonas kolekcijas, kas aug līdzi kopienai.',
           features: [
             'Paraksta SUP dēļu līnija',
             'Ūdens piederumi',
@@ -1861,7 +1861,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Satvam draudzīga produktu izstrāde',
           description:
-            'Veidotājiem ir vajadzīgi produkti, kas dabiski atbalsta stāstīšanu. Afarer palīdz izstrādāt produktus, kas ir piemēroti iesaiņošanas video, piedzīvojumu saturam, produktu recenzijām un kopienas izaicinājumiem, kas rada organisku iesaisti.',
+            'Veidotājiem ir vajadzīgi produkti, kas dabiski atbalsta stāstīšanu. OLagoon palīdz izstrādāt produktus, kas ir piemēroti iesaiņošanas video, piedzīvojumu saturam, produktu recenzijām un kopienas izaicinājumiem, kas rada organisku iesaisti.',
           features: [
             'Iesaiņošanas pieredzes dizains',
             'Piedzīvojumiem gatavi produkti',
@@ -1872,7 +1872,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Kvalitātes kontrole creator reputācijai',
           description:
-            'Uzticēšanās ir veidotāja vērtīgākais aktīvs. Afarer kvalitātes kontrole ietver gaisa spiediena stabilitātes testēšanu, dēļu izturības pārbaudi, grafiku un krāsu konsekvences pārbaudes, kā arī pilnīgu piederumu inspekciju, lai aizsargātu kopienas attiecības.',
+            'Uzticēšanās ir veidotāja vērtīgākais aktīvs. OLagoon kvalitātes kontrole ietver gaisa spiediena stabilitātes testēšanu, dēļu izturības pārbaudi, grafiku un krāsu konsekvences pārbaudes, kā arī pilnīgu piederumu inspekciju, lai aizsargātu kopienas attiecības.',
         },
       ],
     },
@@ -1891,7 +1891,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Prototipa izstrāde',
           detail:
-            'Afarer izveidoja pielāgotu dēļu dizainu ar paraksta grafikiem un produkta paraugiem. Veidotājs testēja veiktspēju un izskatu, kā arī apkopoja auditorijas atsauksmes, pirms apņēmās sākt ražošanu.',
+            'OLagoon izveidoja pielāgotu dēļu dizainu ar paraksta grafikiem un produkta paraugiem. Veidotājs testēja veiktspēju un izskatu, kā arī apkopoja auditorijas atsauksmes, pirms apņēmās sākt ražošanu.',
         },
         {
           title: 'Ierobežota izdevuma launches',
@@ -1916,29 +1916,29 @@ const lv: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manausa, Brazīlija',
             background:
-              'Carlos Mendes, 34 gadus vecs, ir National Geographic publicēts piedzīvojumu fotogrāfs un drona pilots ar 890 000 Instagram sekotāju. Pēc 7 gadiem, ko viņš veltīja attālinātu Amazones upju ekspedīciju dokumentēšanai, viņš pamanīja, ka auditorija arvien biežāk interesējas par piepūšamajiem SUP dēļiem, ko viņš izmantoja, lai nokļūtu filmēšanas vietās. Bez airēšanas pieredzes viņam bija vajadzīgs Afarer, lai izstrādātu pielāgotu dēli, kas varētu kalpot gan par kameras platformu, gan par ekspedīcijas plostu, vienlaikus uzsākot zīmolu ap viņa "Rios do Brasil" sēriju.',
+              'Carlos Mendes, 34 gadus vecs, ir National Geographic publicēts piedzīvojumu fotogrāfs un drona pilots ar 890 000 Instagram sekotāju. Pēc 7 gadiem, ko viņš veltīja attālinātu Amazones upju ekspedīciju dokumentēšanai, viņš pamanīja, ka auditorija arvien biežāk interesējas par piepūšamajiem SUP dēļiem, ko viņš izmantoja, lai nokļūtu filmēšanas vietās. Bez airēšanas pieredzes viņam bija vajadzīgs OLagoon, lai izstrādātu pielāgotu dēli, kas varētu kalpot gan par kameras platformu, gan par ekspedīcijas plostu, vienlaikus uzsākot zīmolu ap viņa "Rios do Brasil" sēriju.',
             goal: 'Uzsākt kopzīmola paraksta SUP līdz 2025. gada maijam, aptverot Brazīlijas 5 lielos ūdens biomus (Amazone, Pantanāla, Sanfrancisku, Paranu un piekrastes Riu), ar 500 vienību priekšpārdošanu pa R$4,990 par katru pirms ražošanas.',
           },
           steps: [
             {
-              title: 'Biomam specifiska pētniecības ekspedīcija ar Afarer inženieriem',
+              title: 'Biomam specifiska pētniecības ekspedīcija ar OLagoon inženieriem',
               detail:
-                '2024. gada augustā Afarer nosūtīja vecāko jūras inženieri Li Wei un produktu dizaineri Henrik Larsson uz Manausu uz 10 dienām. Viņi nopeldēja 180 km pa Riunegru kopā ar Carlos, mērot ūdens temperatūru (28-32°C), nogulumu slodzi un tipisko kravu (40 kg kameras aprīkojums plus 25 kg kempinga ekipējums). Viņi atklāja, ka standarta drop-stitch dēļi delaminējas ekvatoriālā UV indeksa 12+ un abrazīvās smilšu uzņemšanas kombinācijas dēļ portāžu laikā. Carlos uzstāja, ka dēlim jābūt izpūšamam, lai ietilptu 65 litru sausajā maisā kravas lidmašīnas pārvadājumiem.',
+                '2024. gada augustā OLagoon nosūtīja vecāko jūras inženieri Li Wei un produktu dizaineri Henrik Larsson uz Manausu uz 10 dienām. Viņi nopeldēja 180 km pa Riunegru kopā ar Carlos, mērot ūdens temperatūru (28-32°C), nogulumu slodzi un tipisko kravu (40 kg kameras aprīkojums plus 25 kg kempinga ekipējums). Viņi atklāja, ka standarta drop-stitch dēļi delaminējas ekvatoriālā UV indeksa 12+ un abrazīvās smilšu uzņemšanas kombinācijas dēļ portāžu laikā. Carlos uzstāja, ka dēlim jābūt izpūšamam, lai ietilptu 65 litru sausajā maisā kravas lidmašīnas pārvadājumiem.',
             },
             {
               title: 'Trīsslāņu fūzijas konstrukcija un modulāra aprīkojuma sistēma',
               detail:
-                'Afarer pētniecības un izstrādes centrs Sjameņā no 2024. gada septembra līdz novembrim izgatavoja 7 prototipus. Galīgais dizains izmantoja 3 slāņu PVC-Dropstitch-PVC sendviču ar papildu UV atstarojošu augšējo pārklājumu, testētu 1200 stundas paātrinātā UV iedarbībā. Patentētā "Rails-to-Rail" balsta sistēma pievienoja sānu stingrību bez papildu svara. Carlos un Afarer kopīgi izstrādāja modulāru kameras stiprinājuma sliedi, kas tika skrūvēta cauri pastiprinātām paliktņiem — bez uzsučiem — un testēta, lai notur 28 kg ar 30 km/h vilkšanas ātrumu. Katrs dēlis svēra tikai 11,8 kg, bet atbalstīja 220 kg kravu.',
+                'OLagoon pētniecības un izstrādes centrs Sjameņā no 2024. gada septembra līdz novembrim izgatavoja 7 prototipus. Galīgais dizains izmantoja 3 slāņu PVC-Dropstitch-PVC sendviču ar papildu UV atstarojošu augšējo pārklājumu, testētu 1200 stundas paātrinātā UV iedarbībā. Patentētā "Rails-to-Rail" balsta sistēma pievienoja sānu stingrību bez papildu svara. Carlos un OLagoon kopīgi izstrādāja modulāru kameras stiprinājuma sliedi, kas tika skrūvēta cauri pastiprinātām paliktņiem — bez uzsučiem — un testēta, lai notur 28 kg ar 30 km/h vilkšanas ātrumu. Katrs dēlis svēra tikai 11,8 kg, bet atbalstīja 220 kg kravu.',
             },
             {
               title: 'Satura vadīta pirmsstarta kampaņa un ierobežotie bioma izdevumi',
               detail:
-                'Sākot no 2024. gada decembra, Carlos publicēja 5 minidokumentālās filmas (vidēji 4,2 miljoni skatījumu katra), kurās tika parādīta prototipu testēšana katrā biomā. Afarer izveidoja īpašu Shopify D2C veikalu ar reģionālajiem loģistikas centriem Manausā, Sanpaulu un Braziljā. Tika izgatavoti 5 biomam specifiski krāsu varianti (Riunegra tumšais ūdens, Pantanālas saulriets, Sanfrancisko kanjona sarkanais, Paranas meža zaļais, Costa Dourada zelta), katrs ierobežots līdz 100 vienībām. Klienti varēja "adoptēt" savu biomu un saņemt GPS izsekotu ziedojumu Carlos Amazones atmežošanas fondā.',
+                'Sākot no 2024. gada decembra, Carlos publicēja 5 minidokumentālās filmas (vidēji 4,2 miljoni skatījumu katra), kurās tika parādīta prototipu testēšana katrā biomā. OLagoon izveidoja īpašu Shopify D2C veikalu ar reģionālajiem loģistikas centriem Manausā, Sanpaulu un Braziljā. Tika izgatavoti 5 biomam specifiski krāsu varianti (Riunegra tumšais ūdens, Pantanālas saulriets, Sanfrancisko kanjona sarkanais, Paranas meža zaļais, Costa Dourada zelta), katrs ierobežots līdz 100 vienībām. Klienti varēja "adoptēt" savu biomu un saņemt GPS izsekotu ziedojumu Carlos Amazones atmežošanas fondā.',
             },
             {
               title: '2025. gada aprīļa starts un Brazīlijas izplatīšanas tīkls',
               detail:
-                '2025. gada 5. aprīlī "Rios do Brasil Explorer 12.6" tika uzsākts Ibirapuera parkā Sanpaulu ar 350 ietekmētājiem un medijiem. Visas 500 vienības tika priekšpārdotas 11 stundu laikā — R$2.495 miljoni ieņēmumu. Afarer ar gaisa kravu nogādāja 200 vienības, lai apsteigtu Amazones sauso sezonu, savukārt 300 devās ar jūras kravu. Carlos biomu ziedojumu programma pirmajā mēnesī savāca R$187,000. Afarer un Carlos parakstīja 3 gadu eksklusivitātes līgumu Latīņamerikai ar minimāli 2000 vienībām gadā, un otrs modelis ("Expedition Tandem") jau tika izstrādāts 2026. gadam.',
+                '2025. gada 5. aprīlī "Rios do Brasil Explorer 12.6" tika uzsākts Ibirapuera parkā Sanpaulu ar 350 ietekmētājiem un medijiem. Visas 500 vienības tika priekšpārdotas 11 stundu laikā — R$2.495 miljoni ieņēmumu. OLagoon ar gaisa kravu nogādāja 200 vienības, lai apsteigtu Amazones sauso sezonu, savukārt 300 devās ar jūras kravu. Carlos biomu ziedojumu programma pirmajā mēnesī savāca R$187,000. OLagoon un Carlos parakstīja 3 gadu eksklusivitātes līgumu Latīņamerikai ar minimāli 2000 vienībām gadā, un otrs modelis ("Expedition Tandem") jau tika izstrādāts 2026. gadam.',
             },
           ],
           results: [
@@ -1954,29 +1954,29 @@ const lv: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norvēģija',
             background:
-              'Tor Haugen, 29 gadus vecs, ir bijušais Norvēģijas izlases distanču slēpotājs un CrossFit Games pusfinālists ar 620 000 YouTube abonentu un 410 000 TikTok sekotāju. Viņa "Nordic Strength" fitnesa kanālā tiek rādīti āra treniņi ar nekonvencionālu ekipējumu. Pēc vīrusa video (8,7 miljoni skatījumu), kurā viņš veica burpees uz lēta SUP dēļa Oslo fjordā, viņa kopiena pieprasīja dēli, kas ir izstrādāts augstas intensitātes fitnesam. Tor nebija produkta dizaina pieredzes, un viņam bija vajadzīgs Afarer, lai izstrādātu stabilu platformu, kas izturētu lēcienus, svaru mešanu un ziemeļu laikapstākļu galējības.',
+              'Tor Haugen, 29 gadus vecs, ir bijušais Norvēģijas izlases distanču slēpotājs un CrossFit Games pusfinālists ar 620 000 YouTube abonentu un 410 000 TikTok sekotāju. Viņa "Nordic Strength" fitnesa kanālā tiek rādīti āra treniņi ar nekonvencionālu ekipējumu. Pēc vīrusa video (8,7 miljoni skatījumu), kurā viņš veica burpees uz lēta SUP dēļa Oslo fjordā, viņa kopiena pieprasīja dēli, kas ir izstrādāts augstas intensitātes fitnesam. Tor nebija produkta dizaina pieredzes, un viņam bija vajadzīgs OLagoon, lai izstrādātu stabilu platformu, kas izturētu lēcienus, svaru mešanu un ziemeļu laikapstākļu galējības.',
             goal: 'Izveidot pirmo "funkcionālā fitnesa SUP", kas sertificēts CrossFit stila treniņiem, uzsākot 2024. gada oktobrī par 3,990 NOK ($370 USD) ar 1000 vienību priekšpārdošanu un vienlaicīgu 20 pilsētu Eiropas turneju.',
           },
           steps: [
             {
               title: 'Oslo fjorda prototipu testēšana ar spēka sensoru mērījumiem',
               detail:
-                'Afarer produktu komanda, kuru vadīja struktūrinženiere Marta Johansson, 2024. gada martā nedēļu pavadīja Oslo Kongshavn marīnā. Viņi aprīkoja 6 konkurentu dēļus ar 14 tensometriem un akselerometriem, kamēr Tor veica burpees (120 bpm tempā), stanga turēšanu virs galvas (60 kg) un lēcienus uz kastes (50 cm kaste). Rezultāti parādīja, ka standarta SUP dēļi piedzīvo 3,7 reizes lielāku dinamisko slodzi nekā rekreācijas airēšana. Klāja liekums pārsniedza 22 mm — bīstami potīšu stabilitātei. Martas komanda aprēķināja, ka ir nepieciešama par 200% stingrāka torsijas kaste ar unikālu "drop-through" stāvēšanas platformu.',
+                'OLagoon produktu komanda, kuru vadīja struktūrinženiere Marta Johansson, 2024. gada martā nedēļu pavadīja Oslo Kongshavn marīnā. Viņi aprīkoja 6 konkurentu dēļus ar 14 tensometriem un akselerometriem, kamēr Tor veica burpees (120 bpm tempā), stanga turēšanu virs galvas (60 kg) un lēcienus uz kastes (50 cm kaste). Rezultāti parādīja, ka standarta SUP dēļi piedzīvo 3,7 reizes lielāku dinamisko slodzi nekā rekreācijas airēšana. Klāja liekums pārsniedza 22 mm — bīstami potīšu stabilitātei. Martas komanda aprēķināja, ka ir nepieciešama par 200% stingrāka torsijas kaste ar unikālu "drop-through" stāvēšanas platformu.',
             },
             {
               title: 'Kompozīta stringera platforma un pret-slīdēšanas klāja tehnoloģija',
               detail:
-                '4 mēnešu laikā Afarer uzbūvēja 9 prototipus ar arvien lielāku stingrību. Pārrāvums nāca no 2,5 mm jūras kvalitātes alumīnija stringera, kas bija iestrādāts starp diviem drop-stitch slāņiem, radot dēli ar 0,8 mm liekumu zem 100 kg dinamiskās slodzes. Klājs izmantoja aizvērta porainuma EVA putu ar 6 mm izcilu dimanta rakstu — Tor to testēja slapju, sālītu un dubļainu, un secināja, ka tvēriens pārsniedz skeitborda gripa lenti. Afarer pievienoja D-ring stiprinājumus 22 punktos ap dēļa perimetru rezistences lentām un svaru diskiem. Katram dēlim bija ieklipejamā drošības saites enkurs, kas paredzēts 500 kg statiskajai slodzei.',
+                '4 mēnešu laikā OLagoon uzbūvēja 9 prototipus ar arvien lielāku stingrību. Pārrāvums nāca no 2,5 mm jūras kvalitātes alumīnija stringera, kas bija iestrādāts starp diviem drop-stitch slāņiem, radot dēli ar 0,8 mm liekumu zem 100 kg dinamiskās slodzes. Klājs izmantoja aizvērta porainuma EVA putu ar 6 mm izcilu dimanta rakstu — Tor to testēja slapju, sālītu un dubļainu, un secināja, ka tvēriens pārsniedz skeitborda gripa lenti. OLagoon pievienoja D-ring stiprinājumus 22 punktos ap dēļa perimetru rezistences lentām un svaru diskiem. Katram dēlim bija ieklipejamā drošības saites enkurs, kas paredzēts 500 kg statiskajai slodzei.',
             },
             {
               title: 'Nordic Strength kopzīmološana un sertifikācijas process',
               detail:
-                'Tor un Afarer izveidoja "Nordic Strength Trainer 11.0" zīmolojumu ar Tora paraksta zilbalto krāsu shēmu, kas atbilst viņa kanāla noformējumam. Afarer palīdzēja Toram iziet ES CE sertifikāciju fitnesa iekārtām (atsevišķs process no standarta SUP sertifikācijas), kas prasīja 200 stundas mehāniskās noguruma testēšanas. Iepakojumā bija iekļauti QR kodi, kas vedina uz Tora 12 nedēļu "Fjord Fitness" treniņu programmu, kas tika uzfilmēta sadarbībā ar Norvēģijas sporta medicīnas klīniku. Afarer izveidoja Eiropas izplatīšanas centru Rotterdamā, lai apkalpotu 20 valstis.',
+                'Tor un OLagoon izveidoja "Nordic Strength Trainer 11.0" zīmolojumu ar Tora paraksta zilbalto krāsu shēmu, kas atbilst viņa kanāla noformējumam. OLagoon palīdzēja Toram iziet ES CE sertifikāciju fitnesa iekārtām (atsevišķs process no standarta SUP sertifikācijas), kas prasīja 200 stundas mehāniskās noguruma testēšanas. Iepakojumā bija iekļauti QR kodi, kas vedina uz Tora 12 nedēļu "Fjord Fitness" treniņu programmu, kas tika uzfilmēta sadarbībā ar Norvēģijas sporta medicīnas klīniku. OLagoon izveidoja Eiropas izplatīšanas centru Rotterdamā, lai apkalpotu 20 valstis.',
             },
             {
               title: '2024. gada oktobra starts 20 Eiropas pilsētās',
               detail:
-                'Tora "Fjord to Peak" turneja tika uzsākta 2024. gada 12. oktobrī Oslo Sørenga peldvietā ar 1200 dalībniekiem, kas veica grupas SUP treniņu. 5 nedēļu laikā Tor apmeklēja Kopenhāgenu, Hamburgu, Amsterdamu, Berlīni, Varšavu, Prāgu, Minheni, Cīrihē, Milānu, Barselonu, Madridi, Parīzi, Londonu, Dublinu, Edinburgu, Stokholmu, Helsinki, Tallinu un Rīgu. Katrs pasākums apvienoja 45 minūšu SUP fitnesa nodarbību un tikšanos ar faniem. Visas 1000 starta vienības tika pārdotas priekšpārdošanā pirms pirmā pasākuma; Afarer steidzīgi ar gaisa kravu piegādāja 500 papildu vienības turnejas laikā. Kopējie 2024. gada pārdošanas apjomi sasniedza 2300 vienības 18 Eiropas valstīs.',
+                'Tora "Fjord to Peak" turneja tika uzsākta 2024. gada 12. oktobrī Oslo Sørenga peldvietā ar 1200 dalībniekiem, kas veica grupas SUP treniņu. 5 nedēļu laikā Tor apmeklēja Kopenhāgenu, Hamburgu, Amsterdamu, Berlīni, Varšavu, Prāgu, Minheni, Cīrihē, Milānu, Barselonu, Madridi, Parīzi, Londonu, Dublinu, Edinburgu, Stokholmu, Helsinki, Tallinu un Rīgu. Katrs pasākums apvienoja 45 minūšu SUP fitnesa nodarbību un tikšanos ar faniem. Visas 1000 starta vienības tika pārdotas priekšpārdošanā pirms pirmā pasākuma; OLagoon steidzīgi ar gaisa kravu piegādāja 500 papildu vienības turnejas laikā. Kopējie 2024. gada pārdošanas apjomi sasniedza 2300 vienības 18 Eiropas valstīs.',
             },
           ],
           results: [
@@ -1988,8 +1988,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc veidotāji izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc veidotāji izvēlas OLagoon',
       items: [
         {
           title: 'Produktu kompetence',
@@ -2017,38 +2017,38 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kāds ir minimālais pasūtījuma apjoms creator zīmola SUP produktiem?',
         answer:
-          'Afarer atbalsta zema MOQ ražošanu, sākot no 100-300 vienībām creator starta posmos, ļaujot jums apstiprināt pieprasījumu bez milzīgiem krājumu ieguldījumiem. Kad jūsu zīmols aug, mēs varam mērogot ražošanu līdz 500-2000 vienībām un vairāk.',
+          'OLagoon atbalsta zema MOQ ražošanu, sākot no 100-300 vienībām creator starta posmos, ļaujot jums apstiprināt pieprasījumu bez milzīgiem krājumu ieguldījumiem. Kad jūsu zīmols aug, mēs varam mērogot ražošanu līdz 500-2000 vienībām un vairāk.',
       },
       {
-        question: 'Vai Afarer var palīdzēt ar mana pielāgotā SUP dēļa dizainu un prototipēšanu?',
+        question: 'Vai OLagoon var palīdzēt ar mana pielāgotā SUP dēļa dizainu un prototipēšanu?',
         answer:
-          'Jā, Afarer nodrošina pilnu produkta koncepta izstrādi, prototipu izveidi, krāsu un grafiku testēšanu, kā arī konfigurācijas pielāgošanu. Mēs cieši sadarbojamies ar veidotājiem, lai īstenotu viņu vīziju ar pielāgotiem dēļu dizainiem, paraksta grafikiem un produkta paraugiem.',
+          'Jā, OLagoon nodrošina pilnu produkta koncepta izstrādi, prototipu izveidi, krāsu un grafiku testēšanu, kā arī konfigurācijas pielāgošanu. Mēs cieši sadarbojamies ar veidotājiem, lai īstenotu viņu vīziju ar pielāgotiem dēļu dizainiem, paraksta grafikiem un produkta paraugiem.',
       },
       {
         question: 'Cik ilgs laiks nepieciešams prototipa izstrādei un ražošanas uzsākšanai?',
         answer:
-          'Afarer creator projektiem piešķir prioritāti ātrumam. Prototipa izstrāde parasti aizņem dažas nedēļas, un ražošanas grafiki ir elastīgi, lai atbilstu kampaņu grafikiem, sezonas laikam un auditorijas impulsam.',
+          'OLagoon creator projektiem piešķir prioritāti ātrumam. Prototipa izstrāde parasti aizņem dažas nedēļas, un ražošanas grafiki ir elastīgi, lai atbilstu kampaņu grafikiem, sezonas laikam un auditorijas impulsam.',
       },
       {
         question: 'Vai jūs varat atbalstīt Kickstarter kampaņas ar ražošanu un izpildi?',
         answer:
-          'Jā, Afarer atbalsta prototipu sagatavošanu pirms starta, kampaņas ražošanas plānošanu, prognozēta laika grafika izstrādi un partijas izpildi pēc kampaņas, ietverot iepakojuma un nosūtīšanas sagatavošanu.',
+          'Jā, OLagoon atbalsta prototipu sagatavošanu pirms starta, kampaņas ražošanas plānošanu, prognozēta laika grafika izstrādi un partijas izpildi pēc kampaņas, ietverot iepakojuma un nosūtīšanas sagatavošanu.',
       },
       {
         question: 'Kādas pielāgošanas iespējas ir pieejamas ierobežota izdevuma SUP dēļiem?',
         answer:
-          'Afarer piedāvā pielāgotus grafikus, paraksta mākslu, creator logotipus, kopienas simbolus, unikālus rakstus, īpašas krāsu versijas, ierobežotu numerāciju, kā arī premium iepakojumu ar zīmolotām kastēm un stāsta materiāliem.',
+          'OLagoon piedāvā pielāgotus grafikus, paraksta mākslu, creator logotipus, kopienas simbolus, unikālus rakstus, īpašas krāsu versijas, ierobežotu numerāciju, kā arī premium iepakojumu ar zīmolotām kastēm un stāsta materiāliem.',
       },
       {
-        question: 'Kā Afarer nodrošina kvalitātes kontroli creator zīmola produktiem?',
+        question: 'Kā OLagoon nodrošina kvalitātes kontroli creator zīmola produktiem?',
         answer:
-          'Afarer veic gaisa spiediena stabilitātes testēšanu, dēļu izturības pārbaudi, materiālu kvalitātes inspekciju, grafiku un krāsu konsekvences pārbaudes, iepakojuma kvalitātes revīziju un pilnīgu piederumu inspekciju, lai aizsargātu jūsu kopienas uzticēšanos.',
+          'OLagoon veic gaisa spiediena stabilitātes testēšanu, dēļu izturības pārbaudi, materiālu kvalitātes inspekciju, grafiku un krāsu konsekvences pārbaudes, iepakojuma kvalitātes revīziju un pilnīgu piederumu inspekciju, lai aizsargātu jūsu kopienas uzticēšanos.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu Creator Edition SUP zīmolu kopā ar Afarer',
+      title: 'Izveidojiet savu Creator Edition SUP zīmolu kopā ar OLagoon',
       subtitle:
-        'Jūsu auditorija jau seko jūsu ceļojumam. Tagad izveidojiet kaut ko, ko viņi var pieredzēt. Afarer palīdz veidotājiem uzsākt pielāgotus SUP produktus, ierobežota izdevuma dēļus un private label āra ekipējumu.',
+        'Jūsu auditorija jau seko jūsu ceļojumam. Tagad izveidojiet kaut ko, ko viņi var pieredzēt. OLagoon palīdz veidotājiem uzsākt pielāgotus SUP produktus, ierobežota izdevuma dēļus un private label āra ekipējumu.',
       primaryAction: {
         text: 'Sāciet savu creator SUP projektu jau šodien',
       },
@@ -2068,9 +2068,9 @@ const lv: Record<string, SolutionOverride> = {
       tagline: 'Komerciālā SUP flote™',
       title: 'Profesionāli SUP aprīkojuma risinājumi airēšanas klubiem, nomas operatoriem un ūdenssporta skolām',
       subtitle:
-        'Afarer piedāvā komerciālo SUP flošu risinājumus, kas izstrādāti īpaši profesionāliem operatoriem. Mēs palīdzam SUP skolām, airēšanas klubiem, nomas uzņēmumiem, kūrortiem, piedzīvojumu operatoriem un pasākumu organizētājiem izveidot uzticamas aprīkojuma flotes ar komerciāla līmeņa konstrukciju un ilgtermiņa atbalstu.',
+        'OLagoon piedāvā komerciālo SUP flošu risinājumus, kas izstrādāti īpaši profesionāliem operatoriem. Mēs palīdzam SUP skolām, airēšanas klubiem, nomas uzņēmumiem, kūrortiem, piedzīvojumu operatoriem un pasākumu organizētājiem izveidot uzticamas aprīkojuma flotes ar komerciāla līmeņa konstrukciju un ilgtermiņa atbalstu.',
       image: {
-        alt: 'Afarer komerciālā SUP flote airēšanas klubiem un ūdenssporta skolām',
+        alt: 'OLagoon komerciālā SUP flote airēšanas klubiem un ūdenssporta skolām',
       },
     },
     challenge: {
@@ -2104,7 +2104,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Komerciāla līmeņa piepūšamā SUP konstrukcija',
           description:
-            'Afarer komerciālajiem SUP produktiem piemīt pastiprinātas PVC materiālu sistēmas ar paaugstinātu berzes izturību, vairākslāņu sānu malu pastiprinājums triecienizturībai, lielblīvuma drop stitch struktūra stingrumam un izturīgas vārstu sistēmas, kas paredzētas biežiem piepūšanas cikliem.',
+            'OLagoon komerciālajiem SUP produktiem piemīt pastiprinātas PVC materiālu sistēmas ar paaugstinātu berzes izturību, vairākslāņu sānu malu pastiprinājums triecienizturībai, lielblīvuma drop stitch struktūra stingrumam un izturīgas vārstu sistēmas, kas paredzētas biežiem piepūšanas cikliem.',
           features: [
             'Pastiprināta PVC materiālu sistēma',
             'Vairākslāņu sānu malu pastiprinājums',
@@ -2115,7 +2115,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Flotei optimizēts SUP produktu dizains',
           description:
-            'Afarer izstrādā SUP aprīkojumu, balstoties uz darbības vajadzībām, piedāvājot atsevišķas apmācību flotes iesācējiem, nomas flotes biežiem lietotājiem un pasākumu flotes grupu aktivitātēm. Katra konfigurācija vērsta uz stabilitāti, izturību un apkopes vienkāršību.',
+            'OLagoon izstrādā SUP aprīkojumu, balstoties uz darbības vajadzībām, piedāvājot atsevišķas apmācību flotes iesācējiem, nomas flotes biežiem lietotājiem un pasākumu flotes grupu aktivitātēm. Katra konfigurācija vērsta uz stabilitāti, izturību un apkopes vienkāršību.',
           features: [
             'SUP apmācību flote nodarbībām',
             'Nomas flote biežiem lietotājiem',
@@ -2126,12 +2126,12 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pilnīga komerciālās paketes konfigurācija',
           description:
-            'Afarer palīdz izveidot pilnas flotes paketes, ietverot piepūšamos SUP dēļus, profesionālus airus, augsta spiediena sūkņus, izturīgas drošības saites, stipras mugursomas un remonta komplektus, kā arī papildu iespējas, piemēram, rezerves vārstus, papildu spuras un nomaiņas rokturus.',
+            'OLagoon palīdz izveidot pilnas flotes paketes, ietverot piepūšamos SUP dēļus, profesionālus airus, augsta spiediena sūkņus, izturīgas drošības saites, stipras mugursomas un remonta komplektus, kā arī papildu iespējas, piemēram, rezerves vārstus, papildu spuras un nomaiņas rokturus.',
         },
         {
           title: 'Flotes pielāgošana ūdens biznesam',
           description:
-            'Komerciāliem operatoriem nepieciešama spēcīga vizuālā identitāte. Afarer atbalsta logotipa pielāgošanu, krāsu pielāgošanu atbilstoši kluba zīmolam vai kūrorta videi, kā arī flotes identifikācijas sistēmas ar numuru drukāšanu un modeļu identifikāciju, lai efektīvi pārvaldītu lielas flotes.',
+            'Komerciāliem operatoriem nepieciešama spēcīga vizuālā identitāte. OLagoon atbalsta logotipa pielāgošanu, krāsu pielāgošanu atbilstoši kluba zīmolam vai kūrorta videi, kā arī flotes identifikācijas sistēmas ar numuru drukāšanu un modeļu identifikāciju, lai efektīvi pārvaldītu lielas flotes.',
           features: [
             'Logotipa pielāgošana',
             'Krāsu pielāgošana',
@@ -2142,27 +2142,27 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Samaziniet ilgtermiņa ekspluatācijas izmaksas',
           description:
-            'Lētākais dēlis ne vienmēr ir visrentablākais. Afarer risinājumi paildzina aprīkojuma kalpošanas laiku ar izturīgākiem materiāliem, paaugstina apkopes efektivitāti ar standartizētiem komponentiem un uzlabo biznesa rentabilitāti, samazinot dīkstāvi un palielinot izmantojumu.',
+            'Lētākais dēlis ne vienmēr ir visrentablākais. OLagoon risinājumi paildzina aprīkojuma kalpošanas laiku ar izturīgākiem materiāliem, paaugstina apkopes efektivitāti ar standartizētiem komponentiem un uzlabo biznesa rentabilitāti, samazinot dīkstāvi un palielinot izmantojumu.',
         },
         {
           title: 'Atbalsts SUP nomas uzņēmumiem',
           description:
-            'Nomas operatoriem nepieciešams aprīkojums, kas ir viegli lietojams klientiem, ērts personālam un vienkārši apkopojams. Afarer piedāvā iesācējiem draudzīgus dizainus ar augstu stabilitāti, ātru sagatavošanu ātrākai klientu apritai un izturīgus aksesuārus, tostarp stiprus airus un uzticamus sūkņus.',
+            'Nomas operatoriem nepieciešams aprīkojums, kas ir viegli lietojams klientiem, ērts personālam un vienkārši apkopojams. OLagoon piedāvā iesācējiem draudzīgus dizainus ar augstu stabilitāti, ātru sagatavošanu ātrākai klientu apritai un izturīgus aksesuārus, tostarp stiprus airus un uzticamus sūkņus.',
         },
         {
           title: 'SUP skolu aprīkojuma risinājumi',
           description:
-            'SUP instruktoriem nepieciešams aprīkojums, kas atbalsta mācību procesu. Afarer produktus var optimizēt iesācēju kursiem, jauniešu programmām, grupu apmācībām un instruktoru demonstrācijām ar funkcijām, kas uzlabo mācību pieredzi.',
+            'SUP instruktoriem nepieciešams aprīkojums, kas atbalsta mācību procesu. OLagoon produktus var optimizēt iesācēju kursiem, jauniešu programmām, grupu apmācībām un instruktoru demonstrācijām ar funkcijām, kas uzlabo mācību pieredzi.',
         },
         {
           title: 'Pasākumu un kūrortu ūdens aktivitāšu risinājumi',
           description:
-            'Viesnīcas, kūrorti un pasākumu uzņēmumi arvien biežāk piedāvā pludmales aktivitātes, komandu saliedēšanas pasākumus un āra piedzīvojumus. Afarer atbalsta flotes plānošanu, produktu pielāgošanu un sērijveida ražošanu šiem viesmīlības nozares lietojumiem.',
+            'Viesnīcas, kūrorti un pasākumu uzņēmumi arvien biežāk piedāvā pludmales aktivitātes, komandu saliedēšanas pasākumus un āra piedzīvojumus. OLagoon atbalsta flotes plānošanu, produktu pielāgošanu un sērijveida ražošanu šiem viesmīlības nozares lietojumiem.',
         },
         {
           title: 'Apkope un pēcpārdošanas atbalsts',
           description:
-            'Profesionāliem operatoriem atbalsts nepieciešams arī pēc piegādes. Afarer nodrošina rezerves daļu plānošanu ar remonta materiāliem un nomaiņas aksesuāriem, apkopes norādījumus glabāšanai un tīrīšanai, kā arī flotes paplašināšanas atbalstu, pievienojot jaunus dēļus un modeļus.',
+            'Profesionāliem operatoriem atbalsts nepieciešams arī pēc piegādes. OLagoon nodrošina rezerves daļu plānošanu ar remonta materiāliem un nomaiņas aksesuāriem, apkopes norādījumus glabāšanai un tīrīšanai, kā arī flotes paplašināšanas atbalstu, pievienojot jaunus dēļus un modeļus.',
           features: [
             'Rezerves daļu plānošana',
             'Apkopes norādījumi',
@@ -2184,7 +2184,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Komerciālās flotes plānošana',
           detail:
-            'Afarer analizēja ikdienas lietošanas paradumus, klientu prasmju līmeni un ūdens vides apstākļus, pēc tam ieteica komerciālas piepūšamās SUP flotes konfigurāciju, kas pielāgota kluba darbības vajadzībām.',
+            'OLagoon analizēja ikdienas lietošanas paradumus, klientu prasmju līmeni un ūdens vides apstākļus, pēc tam ieteica komerciālas piepūšamās SUP flotes konfigurāciju, kas pielāgota kluba darbības vajadzībām.',
         },
         {
           title: 'Produkta izstrāde',
@@ -2215,35 +2215,35 @@ const lv: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubai, Apvienotie Arābu Emirāti',
             background:
-              "Ahmed Al-Rashid (41) 2020. gadā dibināja 'Dubai Paddle Club' ar 8 pamata līmeņa SUP dēļiem, ko iznomāja no kravas konteinera netālu no Dubai Marina. Līdz 2023. gadam viņa bizness bija organiski izaudzis līdz 45 dēļiem divās vietās, taču delaminācijas, UV bojājumu un sālsūdens korozijas dēļ gadā tika zaudēti 60% krājumu. Vidējais dēļa kalpošanas laiks bija tikai 7 mēneši. Viņa 12 darbinieki nedēļā remontiem veltīja 22 stundas, nevis klientu apkalpošanai. Viņš vērsās pie Afarer pēc tam, kad konkurents pastāstīja, ka Afarer iSUP Tuvajos Austrumu apstākļos kalpo 3+ gadus.",
+              "Ahmed Al-Rashid (41) 2020. gadā dibināja 'Dubai Paddle Club' ar 8 pamata līmeņa SUP dēļiem, ko iznomāja no kravas konteinera netālu no Dubai Marina. Līdz 2023. gadam viņa bizness bija organiski izaudzis līdz 45 dēļiem divās vietās, taču delaminācijas, UV bojājumu un sālsūdens korozijas dēļ gadā tika zaudēti 60% krājumu. Vidējais dēļa kalpošanas laiks bija tikai 7 mēneši. Viņa 12 darbinieki nedēļā remontiem veltīja 22 stundas, nevis klientu apkalpošanai. Viņš vērsās pie OLagoon pēc tam, kad konkurents pastāstīja, ka OLagoon iSUP Tuvajos Austrumu apstākļos kalpo 3+ gadus.",
             goal: 'Standartizēt darbību vienā izturīgā 200 dēļu flotē, kas apkalpo 3 vietas (Dubai Marina, Abu Dhabi Corniche un Fujairah Beach), ar gadējo nomaiņas līmeni ≤15% un par 40% augstāku ikmēneša dēļu izmantojumu.',
           },
           steps: [
             {
               title: 'Izturības testēšana ar 14 dēļiem AAE vasaras apstākļos',
               detail:
-                'Afarer reģionālais pārdošanas direktors Karim Nasr un produkta inženiere Sophie Chen 2024. gada maijā devās uz Dubai, lai sešas nedēļas veiktu lauka testus. Vasaras maksimuma laikā (gaisa temperatūra 48°C, ūdens 35°C, UV indekss 11) viņi izvietoja 14 konkurentu iSUP un 6 Afarer prototipus visās 3 vietās. Testā tika reģistrētas vairāk nekā 1,100 nomas stundas ar datiem par piepūšuma noturību, vārstu bojājumiem, berzi un klientu apmierinātību. Afarer XHD 15.0 mm dēļi 8 stundu laikā zaudēja tikai 0.3 PSI, savukārt konkurentu vidējais rādītājs bija 2.1 PSI. Afarer dēļiem nebija neviena vārsta bojājuma — konkurentiem vidēji reģistrējās 1 bojājums uz 120 nomas stundām.',
+                'OLagoon reģionālais pārdošanas direktors Karim Nasr un produkta inženiere Sophie Chen 2024. gada maijā devās uz Dubai, lai sešas nedēļas veiktu lauka testus. Vasaras maksimuma laikā (gaisa temperatūra 48°C, ūdens 35°C, UV indekss 11) viņi izvietoja 14 konkurentu iSUP un 6 OLagoon prototipus visās 3 vietās. Testā tika reģistrētas vairāk nekā 1,100 nomas stundas ar datiem par piepūšuma noturību, vārstu bojājumiem, berzi un klientu apmierinātību. OLagoon XHD 15.0 mm dēļi 8 stundu laikā zaudēja tikai 0.3 PSI, savukārt konkurentu vidējais rādītājs bija 2.1 PSI. OLagoon dēļiem nebija neviena vārsta bojājuma — konkurentiem vidēji reģistrējās 1 bojājums uz 120 nomas stundām.',
             },
             {
               title: 'Pielāgota flotes konfigurācija ar RFID izsekošanu un krāsu kodējumu',
               detail:
-                "Balstoties lauka datos, Afarer ieteica flotes sastāvu no 3 modeļiem: 120 'Marina Pro 11.6' (universālai lietošanai), 50 'Expedition 12.6' (tūringam Fujairah piekrastei) un 30 'Yoga XL 10.8' (sieviešu vadītām saullēkta nodarbībām). Afarer katra dēļa spuras nodalījumā iestrādāja RFID iezīmes darbam ar viņa izveidoto krājumu sistēmu, izmantojot rokas lasītājus. Dēļi tika iekrāsoti atbilstoši atrašanās vietai: Dubai Marina tirkīza krāsā, Abu Dhabi smilšu krāsā un Fujairah okeāna zilā krāsā. Viņš noteica $5/hour piemaksu par Afarer dēļiem, salīdzinājumā ar atlikušo parasto floti — un 92% klientu izvēlējās Afarer.",
+                "Balstoties lauka datos, OLagoon ieteica flotes sastāvu no 3 modeļiem: 120 'Marina Pro 11.6' (universālai lietošanai), 50 'Expedition 12.6' (tūringam Fujairah piekrastei) un 30 'Yoga XL 10.8' (sieviešu vadītām saullēkta nodarbībām). OLagoon katra dēļa spuras nodalījumā iestrādāja RFID iezīmes darbam ar viņa izveidoto krājumu sistēmu, izmantojot rokas lasītājus. Dēļi tika iekrāsoti atbilstoši atrašanās vietai: Dubai Marina tirkīza krāsā, Abu Dhabi smilšu krāsā un Fujairah okeāna zilā krāsā. Viņš noteica $5/hour piemaksu par OLagoon dēļiem, salīdzinājumā ar atlikušo parasto floti — un 92% klientu izvēlējās OLagoon.",
             },
             {
               title: 'Personāla apmācība un standartizēta apkopes procedūra',
               detail:
-                '2024. gada jūlijā Afarer Dubai Marina organizēja 3 dienu intensīvu apmācību 15 viņa darbiniekiem. Apmācībā tika iekļauta: pareiza piepūšanas un gaisa atlaišanas tehnika, lai novērstu vārstu vītņu nolietojumu, saldūdens skalošanas procedūras (90 sekundes katram dēlim), UV aizsarglīdzekļa uzklāšana ik pēc 30 nomas stundām un glabāšanas kraušanas procedūras, lai novērstu dēļu krokošanos. Afarer piegādāja pielāgotu apkopes komplektu ar kalibrētiem spiediena mērītājiem, silikona smērvielu un UV teststrēmelēm. Tika ieviesta ikdienas digitālā kontrolsaraksta sistēma ar fotogrāfijām; tās izpilde tika izsekota, un pirmajos 6 mēnešos tā vidēji sasniedza 94%.',
+                '2024. gada jūlijā OLagoon Dubai Marina organizēja 3 dienu intensīvu apmācību 15 viņa darbiniekiem. Apmācībā tika iekļauta: pareiza piepūšanas un gaisa atlaišanas tehnika, lai novērstu vārstu vītņu nolietojumu, saldūdens skalošanas procedūras (90 sekundes katram dēlim), UV aizsarglīdzekļa uzklāšana ik pēc 30 nomas stundām un glabāšanas kraušanas procedūras, lai novērstu dēļu krokošanos. OLagoon piegādāja pielāgotu apkopes komplektu ar kalibrētiem spiediena mērītājiem, silikona smērvielu un UV teststrēmelēm. Tika ieviesta ikdienas digitālā kontrolsaraksta sistēma ar fotogrāfijām; tās izpilde tika izsekota, un pirmajos 6 mēnešos tā vidēji sasniedza 94%.',
             },
             {
               title: 'Starts 2024. gada augustā un pirmās sezonas rezultāti',
               detail:
-                '200 dēļu flote ieradās 2024. gada 1. augustā caur Dubai Jebel Ali ostu, un viņa komandas apmācība bija pabeigta. Pirmā mēneša ieņēmumi sasniedza AED 487,000 ($132,600) — par 210% vairāk nekā iepriekšējā gada attiecīgajā mēnesī. Fujairah vieta papildus piedāvāja snorkelēšanas SUP tūres par AED 220/person ar vidēji 40 braucējiem dienā. Līdz 2024. gada decembrim kopējā flotes noslodze visās vietās sasniedza 73% — nozares vidējais rādītājs ir 45%. Bojājumus guva tikai 3 dēļi (visos gadījumos neatbilstošas lietošanas dēļ), un katrs no tiem Afarer komerciālās garantijas ietvaros tika izremontēts 5 darba dienu laikā.',
+                '200 dēļu flote ieradās 2024. gada 1. augustā caur Dubai Jebel Ali ostu, un viņa komandas apmācība bija pabeigta. Pirmā mēneša ieņēmumi sasniedza AED 487,000 ($132,600) — par 210% vairāk nekā iepriekšējā gada attiecīgajā mēnesī. Fujairah vieta papildus piedāvāja snorkelēšanas SUP tūres par AED 220/person ar vidēji 40 braucējiem dienā. Līdz 2024. gada decembrim kopējā flotes noslodze visās vietās sasniedza 73% — nozares vidējais rādītājs ir 45%. Bojājumus guva tikai 3 dēļi (visos gadījumos neatbilstošas lietošanas dēļ), un katrs no tiem OLagoon komerciālās garantijas ietvaros tika izremontēts 5 darba dienu laikā.',
             },
           ],
           results: [
             'Mēneša flotes ieņēmumi pieauga no AED 157,000 līdz AED 487,000 ($132,600) — par 210% 6 mēnešos',
             'Gadējais dēļu nomaiņas līmenis samazinājās no 60% uz 4.5%, ietaupot aptuveni AED 312,000 gadā',
-            'Klientu apmierinātības vērtējums pieauga no 3.8/5 (parasta flote) uz 4.7/5 (Afarer flote); Google Reviews skaits pieauga no 187 uz 1,420',
+            'Klientu apmierinātības vērtējums pieauga no 3.8/5 (parasta flote) uz 4.7/5 (OLagoon flote); Google Reviews skaits pieauga no 187 uz 1,420',
             '2025. gada februārī tika atvērta 4. vieta (Ras Al Khaimah) un pasūtīti vēl 80 dēļi',
           ],
         },
@@ -2259,26 +2259,26 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Katras salas izvērtēšana un produktu pielāgošana',
               detail:
-                "Afarer EMEA klientu attiecību direktors Stefan Berger 2024. gada aprīlī kopā ar Dimitri apmeklēja visas 5 salas. Katrā vietā bija atšķirīgi apstākļi: Santorini vulkāniskās smiltis (abrāzīvas, pH 8.2), Mykonos vējam pakļautās pludmales (pastāvīgi 20-25 mezglu stipri Meltemi vēji), Naxos seklie un akmeņainie ieejas punkti, kas prasīja pastiprinātus dēļu degunus, Paros tālie piekrastes maršruti (8-12 km) un Crete mierīgie, ģimenēm draudzīgie līči. Afarer izstrādāja 3 pielāgotus modeļus: 'Med RockShield 11.0' ar par 50% biezāku deguna aizsargu (pārbaudīts 2,000 vilkšanas ciklos pa smilšakmeni), 'Meltemi Pro 10.6' ar zemu klāju stabilitātei vējā un 'Family Cruiser 11.6' ar 275 kg ietilpību braukšanai kopā ar bērniem.",
+                "OLagoon EMEA klientu attiecību direktors Stefan Berger 2024. gada aprīlī kopā ar Dimitri apmeklēja visas 5 salas. Katrā vietā bija atšķirīgi apstākļi: Santorini vulkāniskās smiltis (abrāzīvas, pH 8.2), Mykonos vējam pakļautās pludmales (pastāvīgi 20-25 mezglu stipri Meltemi vēji), Naxos seklie un akmeņainie ieejas punkti, kas prasīja pastiprinātus dēļu degunus, Paros tālie piekrastes maršruti (8-12 km) un Crete mierīgie, ģimenēm draudzīgie līči. OLagoon izstrādāja 3 pielāgotus modeļus: 'Med RockShield 11.0' ar par 50% biezāku deguna aizsargu (pārbaudīts 2,000 vilkšanas ciklos pa smilšakmeni), 'Meltemi Pro 10.6' ar zemu klāju stabilitātei vējā un 'Family Cruiser 11.6' ar 275 kg ietilpību braukšanai kopā ar bērniem.",
             },
             {
               title: 'Komerciāla līmeņa konstrukcija un modulārā aksesuāru sliede',
               detail:
-                "Afarer Xiamen rūpnīcā tika saražoti dēļi no 1,200 denier PVC (salīdzinājumā ar standarta 1,000D), ar divkārši metinātām šuvēm, kas pārbaudītas pie 14 PSI plīšanas spiediena (nozares standarts 10 PSI), kā arī ar nerūsējošā tērauda D-gredzeniem plastmasas metinājumu vietā. Katrs dēlis ietvēra Afarer jauno 'QuickRail' sistēmu — ekstrudētu alumīnija profilu, kas iestrādāts dēļa sānu malā —, kas ļauj viegli piestiprināt GoPro turētājus, ūdenspudeļu turētājus un makšķeru kātu turētājus. Tas palielināja aksesuāru nomas ieņēmumus par €12 no katra dēļa dienā. Afarer pievienoja atstarojošus logotipus labākai redzamībai — tas ir izšķiroši, kad Mykonos ostas dienests pēc saulrieta reglamentē peldlīdzekļus.",
+                "OLagoon Xiamen rūpnīcā tika saražoti dēļi no 1,200 denier PVC (salīdzinājumā ar standarta 1,000D), ar divkārši metinātām šuvēm, kas pārbaudītas pie 14 PSI plīšanas spiediena (nozares standarts 10 PSI), kā arī ar nerūsējošā tērauda D-gredzeniem plastmasas metinājumu vietā. Katrs dēlis ietvēra OLagoon jauno 'QuickRail' sistēmu — ekstrudētu alumīnija profilu, kas iestrādāts dēļa sānu malā —, kas ļauj viegli piestiprināt GoPro turētājus, ūdenspudeļu turētājus un makšķeru kātu turētājus. Tas palielināja aksesuāru nomas ieņēmumus par €12 no katra dēļa dienā. OLagoon pievienoja atstarojošus logotipus labākai redzamībai — tas ir izšķiroši, kad Mykonos ostas dienests pēc saulrieta reglamentē peldlīdzekļus.",
             },
             {
               title: 'Personāla sertifikācija pirms sezonas un flotes pārvaldības sistēma',
               detail:
-                '2024. gada maijā Afarer Santorini rīkoja 2 dienu apmācību darbnīcu, kurā piedalījās 22 viņa darbinieki no visām salām. Apmācībā ietilpa: izkāpšanas uz akmeņiem tehnika berzes mazināšanai, pareiza piepūšana līdz 14-16 PSI, pielāgojot ūdens temperatūrai (18-26°C sezonālas svārstības), avārijas remonts lauka apstākļos ar PVC ielāpiem (instruktors pārbaudīja, ka katrs dalībnieks remontu paveic mazāk nekā 6 minūtēs) un klientu aprīkošanas procedūras, lai nodrošinātu svaram atbilstošu dēļa izvēli. Afarer nodrošināja digitālu flotes pārvaldības paneli, kas rādīja katra dēļa nomas stundas, apkopes vēsturi un atrašanās vietu pēc GPS. Līdz sezonas beigām 97% lauka remontu darbinieki veica paši, neiesaistot Afarer.',
+                '2024. gada maijā OLagoon Santorini rīkoja 2 dienu apmācību darbnīcu, kurā piedalījās 22 viņa darbinieki no visām salām. Apmācībā ietilpa: izkāpšanas uz akmeņiem tehnika berzes mazināšanai, pareiza piepūšana līdz 14-16 PSI, pielāgojot ūdens temperatūrai (18-26°C sezonālas svārstības), avārijas remonts lauka apstākļos ar PVC ielāpiem (instruktors pārbaudīja, ka katrs dalībnieks remontu paveic mazāk nekā 6 minūtēs) un klientu aprīkošanas procedūras, lai nodrošinātu svaram atbilstošu dēļa izvēli. OLagoon nodrošināja digitālu flotes pārvaldības paneli, kas rādīja katra dēļa nomas stundas, apkopes vēsturi un atrašanās vietu pēc GPS. Līdz sezonas beigām 97% lauka remontu darbinieki veica paši, neiesaistot OLagoon.',
             },
             {
               title: '2024. gada jūnija-oktobra sezona: starts, ekskursijas un ROI',
               detail:
-                'Darbu ar jauno floti Dimitri uzsāka 2024. gada 1. jūnijā vienlaikus visās salās. Vadīto SUP ekskursiju produkts (€55/person par 3 stundu piekrastes izpēti ar snorkelēšanas pieturu) tika uzsākts 15. jūnijā, un no Santorini Red Beach un Naxos Agios Prokopios katru dienu devās 4 izbraucieni. Līdz augustam ekskursiju rezervāciju skaits visās salās sasniedza 2,100 nedēļā. Kopējie sezonas ieņēmumi (jūnijs-oktobris) sasniedza €2.85 milj. — par 137% vairāk nekā €1.2 milj. 2023. gadā. Dēļu remonta izmaksas samazinājās no €22,000 līdz €2,800. Norakstīti tika tikai 4 dēļi (visi bojāti klientu vainas dēļ un nav remontējami). Sezonas beigās tika pasūtīti vēl 100 dēļi 2025. gada sezonai, kā arī Afarer saņēma pieprasījumu izstrādāt pedāļu piedziņas SUP pārbūves komplektu.',
+                'Darbu ar jauno floti Dimitri uzsāka 2024. gada 1. jūnijā vienlaikus visās salās. Vadīto SUP ekskursiju produkts (€55/person par 3 stundu piekrastes izpēti ar snorkelēšanas pieturu) tika uzsākts 15. jūnijā, un no Santorini Red Beach un Naxos Agios Prokopios katru dienu devās 4 izbraucieni. Līdz augustam ekskursiju rezervāciju skaits visās salās sasniedza 2,100 nedēļā. Kopējie sezonas ieņēmumi (jūnijs-oktobris) sasniedza €2.85 milj. — par 137% vairāk nekā €1.2 milj. 2023. gadā. Dēļu remonta izmaksas samazinājās no €22,000 līdz €2,800. Norakstīti tika tikai 4 dēļi (visi bojāti klientu vainas dēļ un nav remontējami). Sezonas beigās tika pasūtīti vēl 100 dēļi 2025. gada sezonai, kā arī OLagoon saņēma pieprasījumu izstrādāt pedāļu piedziņas SUP pārbūves komplektu.',
             },
           ],
           results: [
-            'Sezonas ieņēmumi Afarer risinājuma pirmajā gadā pieauga par 137% — no €1.2M līdz €2.85M',
+            'Sezonas ieņēmumi OLagoon risinājuma pirmajā gadā pieauga par 137% — no €1.2M līdz €2.85M',
             'Dēļu remonta izmaksas samazinājās no €22,000 uz €2,800 — par 87%, ietaupot €19,200',
             'No 200 dēļiem norakstīti tikai 4 (2% gadējo zaudējumu salīdzinājumā ar 35% ar iepriekšējo floti); prognozētais kalpošanas laiks — 4 līdz 5 sezonas',
             'Vadīto ekskursiju produkts pirmajā sezonā ienesa €843,000 ar 87% peļņas maržu; 4.9/5 vērtējums TripAdvisor',
@@ -2286,8 +2286,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc airēšanas klubi izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc airēšanas klubi izvēlas OLagoon',
       items: [
         {
           title: 'Biznesa darbība',
@@ -2297,7 +2297,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Komerciāla izturība',
           description:
-            'Afarer produkti ir izstrādāti ikdienas profesionālai lietošanai ar pastiprinātu konstrukciju, izturīgākiem materiāliem un rūpīgu testēšanu.',
+            'OLagoon produkti ir izstrādāti ikdienas profesionālai lietošanai ar pastiprinātu konstrukciju, izturīgākiem materiāliem un rūpīgu testēšanu.',
         },
         {
           title: 'Flotes pārvaldība',
@@ -2307,15 +2307,15 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Ilgtermiņa partnerība',
           description:
-            'Afarer atbalsta jūsu biznesa izaugsmi ar rezerves daļām, apkopes norādījumiem un paplašināšanas plānošanu arī pēc sākotnējā pirkuma.',
+            'OLagoon atbalsta jūsu biznesa izaugsmi ar rezerves daļām, apkopes norādījumiem un paplašināšanas plānošanu arī pēc sākotnējā pirkuma.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Kas padara Afarer SUP dēļus piemērotus komerciāliem airēšanas klubiem?',
+        question: 'Kas padara OLagoon SUP dēļus piemērotus komerciāliem airēšanas klubiem?',
         answer:
-          'Afarer komerciālajiem SUP dēļiem ir pastiprināta PVC konstrukcija, vairākslāņu sānu malu pastiprinājums, lielblīvuma drop stitch struktūra un izturīgas vārstu sistēmas, kas īpaši izstrādātas ikdienas intensīvai lietošanai nomas un apmācības vidēs.',
+          'OLagoon komerciālajiem SUP dēļiem ir pastiprināta PVC konstrukcija, vairākslāņu sānu malu pastiprinājums, lielblīvuma drop stitch struktūra un izturīgas vārstu sistēmas, kas īpaši izstrādātas ikdienas intensīvai lietošanai nomas un apmācības vidēs.',
       },
       {
         question: 'Kāda ir atšķirība starp patērētāju līmeņa un komerciālā līmeņa SUP aprīkojumu?',
@@ -2323,30 +2323,30 @@ const lv: Record<string, SolutionOverride> = {
           'Komerciālā līmeņa SUP dēļos tiek izmantoti izturīgāki materiāli, pastiprināta konstrukcija un noturīgāki komponenti, lai izturētu ikdienas lietošanu ar daudziem lietotājiem. Patērētāju dēļi ir paredzēti retai atpūtas lietošanai un komerciālos apstākļos ātri nolietojas.',
       },
       {
-        question: 'Vai Afarer var pielāgot SUP dēļus ar mana kluba logotipu un krāsām?',
+        question: 'Vai OLagoon var pielāgot SUP dēļus ar mana kluba logotipu un krāsām?',
         answer:
-          'Jā, Afarer piedāvā pilnu flotes pielāgošanu, tostarp logotipa izvietojumu, zīmola krāsas, dēļu numerācijas sistēmas, modeļu identifikāciju un instruktoru dēļu marķējumu, lai izveidotu vienotu un profesionālu flotes identitāti.',
+          'Jā, OLagoon piedāvā pilnu flotes pielāgošanu, tostarp logotipa izvietojumu, zīmola krāsas, dēļu numerācijas sistēmas, modeļu identifikāciju un instruktoru dēļu marķējumu, lai izveidotu vienotu un profesionālu flotes identitāti.',
       },
       {
-        question: 'Kāds ir parastais Afarer komerciālā SUP dēļa kalpošanas laiks?',
+        question: 'Kāds ir parastais OLagoon komerciālā SUP dēļa kalpošanas laiks?',
         answer:
-          'Ar pareizu apkopi Afarer komerciālie SUP dēļi kalpo ievērojami ilgāk nekā patērētāju līmeņa produkti, samazinot nomaiņas biežumu un kopējās lietošanas izmaksas. Precīzs kalpošanas laiks atkarīgs no lietošanas intensitātes un apkopes prakses.',
+          'Ar pareizu apkopi OLagoon komerciālie SUP dēļi kalpo ievērojami ilgāk nekā patērētāju līmeņa produkti, samazinot nomaiņas biežumu un kopējās lietošanas izmaksas. Precīzs kalpošanas laiks atkarīgs no lietošanas intensitātes un apkopes prakses.',
       },
       {
         question: 'Vai jūs piedāvājat rezerves daļas un apkopes atbalstu flotes operatoriem?',
         answer:
-          'Jā, Afarer nodrošina visaptverošu pēcpārdošanas atbalstu, tostarp rezerves daļu plānošanu, remonta materiālus, nomaiņas aksesuārus, apkopes norādījumus, glabāšanas ieteikumus un tīrīšanas instrukcijas.',
+          'Jā, OLagoon nodrošina visaptverošu pēcpārdošanas atbalstu, tostarp rezerves daļu plānošanu, remonta materiālus, nomaiņas aksesuārus, apkopes norādījumus, glabāšanas ieteikumus un tīrīšanas instrukcijas.',
       },
       {
-        question: 'Kāda izmēra flotes Afarer var nodrošināt airēšanas klubiem?',
+        question: 'Kāda izmēra flotes OLagoon var nodrošināt airēšanas klubiem?',
         answer:
-          'Afarer atbalsta visdažādākā izmēra flotes — no maziem klubiem ar 10-30 dēļiem līdz lielām operācijām ar 100+ dēļiem. Mēs nodrošinām vairumpirkumu risinājumus, vienmērīgu produktu kvalitāti un paplašināšanās atbalstu, augot jūsu biznesam.',
+          'OLagoon atbalsta visdažādākā izmēra flotes — no maziem klubiem ar 10-30 dēļiem līdz lielām operācijām ar 100+ dēļiem. Mēs nodrošinām vairumpirkumu risinājumus, vienmērīgu produktu kvalitāti un paplašināšanās atbalstu, augot jūsu biznesam.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu komerciālo SUP floti kopā ar Afarer',
+      title: 'Izveidojiet savu komerciālo SUP floti kopā ar OLagoon',
       subtitle:
-        'Jūsu aprīkojums ir jūsu biznesa pamats. Izvēlieties produktus, kas izstrādāti ikdienas darbam. Afarer palīdz airēšanas klubiem, SUP skolām, nomas operatoriem un kūrortiem izveidot profesionālas SUP flotes ar uzticamu ražošanas atbalstu.',
+        'Jūsu aprīkojums ir jūsu biznesa pamats. Izvēlieties produktus, kas izstrādāti ikdienas darbam. OLagoon palīdz airēšanas klubiem, SUP skolām, nomas operatoriem un kūrortiem izveidot profesionālas SUP flotes ar uzticamu ražošanas atbalstu.',
       primaryAction: {
         text: 'Sāciet savu komerciālo SUP projektu jau šodien',
       },
@@ -2366,9 +2366,9 @@ const lv: Record<string, SolutionOverride> = {
       tagline: 'Izturīgs nomas flotes risinājums™',
       title: 'Komerciāli SUP aprīkojuma risinājumi nomas uzņēmumiem, pludmalēm un tūristu galamērķiem',
       subtitle:
-        'Afarer piedāvā izturīgus nomas flotes risinājumus, kas izstrādāti īpaši komerciāliem nomas uzņēmumiem. Mēs palīdzam pludmales nomas uzņēmumiem, ezeru aktivitāšu operatoriem, kūrortu ūdens centriem un piedzīvojumu tūrisma uzņēmumiem izveidot ienesīgas SUP flotes ar izturīgu konstrukciju un vienkāršu apkopi.',
+        'OLagoon piedāvā izturīgus nomas flotes risinājumus, kas izstrādāti īpaši komerciāliem nomas uzņēmumiem. Mēs palīdzam pludmales nomas uzņēmumiem, ezeru aktivitāšu operatoriem, kūrortu ūdens centriem un piedzīvojumu tūrisma uzņēmumiem izveidot ienesīgas SUP flotes ar izturīgu konstrukciju un vienkāršu apkopi.',
       image: {
-        alt: 'Afarer izturīgā nomas SUP flote pludmales un ūdens sporta operatoriem',
+        alt: 'OLagoon izturīgā nomas SUP flote pludmales un ūdens sporta operatoriem',
       },
     },
     challenge: {
@@ -2402,7 +2402,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Nomas līmeņa piepūšama SUP konstrukcija',
           description:
-            'Afarer nomas SUP produkti koncentrējas uz praktisku izturību ar pret berzi izturīgu PVC materiālu, pastiprinātu sānu malu konstrukciju biežiem triecieniem, izturīgu drop stitch struktūru stabilai darbībai un augstas izturības vārstu sistēmām, kas izstrādātas ikdienas darbībai.',
+            'OLagoon nomas SUP produkti koncentrējas uz praktisku izturību ar pret berzi izturīgu PVC materiālu, pastiprinātu sānu malu konstrukciju biežiem triecieniem, izturīgu drop stitch struktūru stabilai darbībai un augstas izturības vārstu sistēmām, kas izstrādātas ikdienas darbībai.',
           features: [
             'Pret berzi izturīgs PVC materiāls',
             'Pastiprināta sānu malu konstrukcija',
@@ -2413,7 +2413,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Izmaksu optimizēts nomas SUP dizains',
           description:
-            'Nomas klientiem nav nepieciešama konkurencijas līmeņa veiktspēja. Viņiem nepieciešama stabilitāte, drošība, viegla lietošana un uzticamība. Afarer konfigurē produktus ar stabilām universālām formām, standartizētiem piederumiem un praktisku iepakojumu ātrākai aprīkojuma pārvaldībai.',
+            'Nomas klientiem nav nepieciešama konkurencijas līmeņa veiktspēja. Viņiem nepieciešama stabilitāte, drošība, viegla lietošana un uzticamība. OLagoon konfigurē produktus ar stabilām universālām formām, standartizētiem piederumiem un praktisku iepakojumu ātrākai aprīkojuma pārvaldībai.',
           features: [
             'Stabila universāla forma iesācējiem',
             'Standartizēti piederumi',
@@ -2424,17 +2424,17 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pilnīgs nomas flotes komplekts',
           description:
-            'Afarer izveido lietošanai gatavus nomas komplektus, ietverot izturīgus piepūšamus SUP dēļus, regulējamus airus, sūkņus, drošības saites, pārvadāšanas mugursomas un remonta komplektus, kā arī komerciālas papildu iespējas, piemēram, rezerves spurus, papildu airus, nomaiņas vārstus un uzglabāšanas risinājumus.',
+            'OLagoon izveido lietošanai gatavus nomas komplektus, ietverot izturīgus piepūšamus SUP dēļus, regulējamus airus, sūkņus, drošības saites, pārvadāšanas mugursomas un remonta komplektus, kā arī komerciālas papildu iespējas, piemēram, rezerves spurus, papildu airus, nomaiņas vārstus un uzglabāšanas risinājumus.',
         },
         {
           title: 'Apjomīgi flotes iepirkuma risinājumi',
           description:
-            'Afarer atbalsta operatorus, kas iepērk 50, 100, 300 vai 500+ dēļu flotes, ar flotes paplašināšanas atbalstu no mazām nomas operācijām līdz vairāku vietu uzņēmumiem, nodrošinot vienotu aprīkojuma kvalitāti un labāku iepirkuma efektivitāti.',
+            'OLagoon atbalsta operatorus, kas iepērk 50, 100, 300 vai 500+ dēļu flotes, ar flotes paplašināšanas atbalstu no mazām nomas operācijām līdz vairāku vietu uzņēmumiem, nodrošinot vienotu aprīkojuma kvalitāti un labāku iepirkuma efektivitāti.',
         },
         {
           title: 'Vienkārša apkopes un remonta sistēma',
           description:
-            'Nomas uzņēmumi nevar atļauties ilgu aprīkojuma dīkstāvi. Afarer nodrošina remontam draudzīgu produktu dizainu ar nomaināmām sastāvdaļām, apkopes norādījumiem tīrīšanai un uzglabāšanai, kā arī avārijas remonta atbalstu ar komplektiem un problēmu novēršanas norādījumiem.',
+            'Nomas uzņēmumi nevar atļauties ilgu aprīkojuma dīkstāvi. OLagoon nodrošina remontam draudzīgu produktu dizainu ar nomaināmām sastāvdaļām, apkopes norādījumiem tīrīšanai un uzglabāšanai, kā arī avārijas remonta atbalstu ar komplektiem un problēmu novēršanas norādījumiem.',
           features: [
             'Nomaināmas sastāvdaļas',
             'Standarta piederumi',
@@ -2445,23 +2445,23 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Sezonālā nomas uzņēmuma optimizācija',
           description:
-            'Daudzi nomas uzņēmumi darbojas sezonāli. Afarer palīdz plānot krājumus atbilstoši pieprasījumam ar piemērotiem produktiem vasaras pludmales operācijām, ģimenes SUP komplektiem, kūrortu aktivitātēm un piedzīvojumu tūrismam ar tūringa tipa modeļiem.',
+            'Daudzi nomas uzņēmumi darbojas sezonāli. OLagoon palīdz plānot krājumus atbilstoši pieprasījumam ar piemērotiem produktiem vasaras pludmales operācijām, ģimenes SUP komplektiem, kūrortu aktivitātēm un piedzīvojumu tūrismam ar tūringa tipa modeļiem.',
         },
         {
           title: 'Pielāgota zīmolēšana nomas operatoriem',
           description:
-            'Nomas aprīkojumu redz simtiem klientu. Afarer atbalsta logo zīmolēšanu, krāsu pielāgošanu, kas atbilst pludmales atmosfērai vai kūrorta stilam, kā arī flotes identifikāciju ar dēļu numerāciju un modeļu marķējumu, kas pārvērš aprīkojumu mārketinga rīkā.',
+            'Nomas aprīkojumu redz simtiem klientu. OLagoon atbalsta logo zīmolēšanu, krāsu pielāgošanu, kas atbilst pludmales atmosfērai vai kūrorta stilam, kā arī flotes identifikāciju ar dēļu numerāciju un modeļu marķējumu, kas pārvērš aprīkojumu mārketinga rīkā.',
           features: ['Logo zīmolēšana', 'Krāsu pielāgošana', 'Dēļu numerācija', 'Modeļu un darbības marķējums'],
         },
         {
           title: 'Atbalsts tūristu galamērķiem un kūrortiem',
           description:
-            'Daudzi tūrisma uzņēmumi izmanto SUP kā pieredzes produktu. Afarer atbalsta viesnīcas, kūrortus, telšu vietas un piedzīvojumu parkus ar flotes plānošanu, produktu pielāgošanu un sērijveida ražošanu pilnīgām ūdens aktivitāšu pieredzēm.',
+            'Daudzi tūrisma uzņēmumi izmanto SUP kā pieredzes produktu. OLagoon atbalsta viesnīcas, kūrortus, telšu vietas un piedzīvojumu parkus ar flotes plānošanu, produktu pielāgošanu un sērijveida ražošanu pilnīgām ūdens aktivitāšu pieredzēm.',
         },
         {
           title: 'Uzlabojiet nomas uzņēmuma ROI',
           description:
-            'Afarer palīdz operatoriem uzlabot ienesīgumu ar ilgāku produkta kalpošanas laiku, kas samazina nomaiņas biežumu, zemākām apkopes izmaksām, kas mazina remonta laiku, un lielāku pieejamību, kas palielina ikdienas nomas jaudu un klientu apmierinātību.',
+            'OLagoon palīdz operatoriem uzlabot ienesīgumu ar ilgāku produkta kalpošanas laiku, kas samazina nomaiņas biežumu, zemākām apkopes izmaksām, kas mazina remonta laiku, un lielāku pieejamību, kas palielina ikdienas nomas jaudu un klientu apmierinātību.',
         },
       ],
     },
@@ -2477,7 +2477,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Nomas flotes analīze',
           detail:
-            'Afarer izvērtēja lietošanas biežumu, klientu profilu un ekspluatācijas vidi, pēc tam ieteica komerciālu nomas SUP konfigurāciju, kas optimizēta Vidusjūras pludmales videi.',
+            'OLagoon izvērtēja lietošanas biežumu, klientu profilu un ekspluatācijas vidi, pēc tam ieteica komerciālu nomas SUP konfigurāciju, kas optimizēta Vidusjūras pludmales videi.',
         },
         {
           title: 'Produkta izstrāde',
@@ -2513,19 +2513,19 @@ const lv: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Ziemas uzglabāšanas simulācijas testēšana Afarer aukstuma kameras iekārtās',
+              title: 'Ziemas uzglabāšanas simulācijas testēšana OLagoon aukstuma kameras iekārtās',
               detail:
-                "2024. gada janvārī Sarah nosūtīja 8 konkurentu dēļus un 6 Afarer prototipus uz Afarer Xiamen ražotni 4 nedēļu ekstremāla aukstuma testēšanai. Testa kamera katru dienu ciklēja starp -35°C un +25°C (simulējot Kanādas marta salšanu un atkušanu). Dēļi tika uzglabāti simulētos statņu apstākļos zem 200 kg sniega slodzes. Afarer XHD-Plus materiāls — 4 slāņu lamināts ar iekšēju TPU membrānu — pēc 28 cikliem neuzrādīja nekādu mikroplaisu, savukārt 5 no 8 konkurentu dēļiem veidojās redzamas plaisas. TPU slānis novērsa mitruma iekļūšanu pat tad, ja dēļu virsma bija saskrambāta. Sarah pieprasīja arī 'cold-fold' testu: dēļi salocīti transportēšanai pie -20°C; Afarer dēļi izturēja 500 locījumus bez salocījumu līniju bojājumiem.",
+                "2024. gada janvārī Sarah nosūtīja 8 konkurentu dēļus un 6 OLagoon prototipus uz OLagoon Xiamen ražotni 4 nedēļu ekstremāla aukstuma testēšanai. Testa kamera katru dienu ciklēja starp -35°C un +25°C (simulējot Kanādas marta salšanu un atkušanu). Dēļi tika uzglabāti simulētos statņu apstākļos zem 200 kg sniega slodzes. OLagoon XHD-Plus materiāls — 4 slāņu lamināts ar iekšēju TPU membrānu — pēc 28 cikliem neuzrādīja nekādu mikroplaisu, savukārt 5 no 8 konkurentu dēļiem veidojās redzamas plaisas. TPU slānis novērsa mitruma iekļūšanu pat tad, ja dēļu virsma bija saskrambāta. Sarah pieprasīja arī 'cold-fold' testu: dēļi salocīti transportēšanai pie -20°C; OLagoon dēļi izturēja 500 locījumus bez salocījumu līniju bojājumiem.",
             },
             {
               title: "Pielāgots 'Canadian Shield' komplekts ar izolētiem uzglabāšanas pārvalkiem",
               detail:
-                "Balstoties testa rezultātos, Afarer izstrādāja 'Canadian Shield' specifikāciju: 4 slāņu PVC/TPU konstrukcija, nerūsējošā tērauda vārsti ar izturību līdz -40°C (standarta misiņa vārsti ar ledu sasalst ciet) un pastiprināti pārvadāšanas rokturi ar slodzi līdz 2x dēļa svaram sniega pārvadāšanai. Afarer izstrādāja flīsa oderētu izolētu uzglabāšanas pārvalku ('Winter Jacket'), kas uzturēja iekšējo temperatūru par 12°C augstāku par apkārtējo vidi. Sarah testēja pārvalkus 2024. gada martā uz Lake Muskoka: dēļi, kas pārvalkos pa nakti uzglabāti pie -22°C, no rīta bija pie -8°C un uzpūtās par 3 minūtēm ātrāk. Afarer ražoja 150 pārvalkus kā daļu no pasūtījuma.",
+                "Balstoties testa rezultātos, OLagoon izstrādāja 'Canadian Shield' specifikāciju: 4 slāņu PVC/TPU konstrukcija, nerūsējošā tērauda vārsti ar izturību līdz -40°C (standarta misiņa vārsti ar ledu sasalst ciet) un pastiprināti pārvadāšanas rokturi ar slodzi līdz 2x dēļa svaram sniega pārvadāšanai. OLagoon izstrādāja flīsa oderētu izolētu uzglabāšanas pārvalku ('Winter Jacket'), kas uzturēja iekšējo temperatūru par 12°C augstāku par apkārtējo vidi. Sarah testēja pārvalkus 2024. gada martā uz Lake Muskoka: dēļi, kas pārvalkos pa nakti uzglabāti pie -22°C, no rīta bija pie -8°C un uzpūtās par 3 minūtēm ātrāk. OLagoon ražoja 150 pārvalkus kā daļu no pasūtījuma.",
             },
             {
               title: 'Pirmssezonas apmācības nometne kūrortu personālam 3 objektos',
               detail:
-                "2024. gada maijā Afarer Ziemeļamerikas servisa vadītājs Jake Patterson piecas dienas apmācīja 28 darbiniekus 3 kūrortos. Kanādai specifiskie protokoli ietvēra: pavasara nodošanu ekspluatācijā (detalizētu pārbaudes kontrolsarakstu aukstās uzglabāšanas bojājumiem), pareizu uzpūšanu līdz 13-15 PSI (pielāgotu aukstam ūdenim — Lake Muskoka jūnijā vidēji 14°C), ziemošanas procedūru dēļiem, kas uzglabāti neapkurinātās laivu mājās, un 'damage-reporting-in-15-minutes' WhatsApp sistēmu. Jake arī iemācīja personālam atpazīt tipiskos Kanādas bebru grauzuma bojājumus (reāla problēma: 2023. gadā bebru dēļ gāja bojā 2 dēļi) un kā remontēt ar izturīgiem PVC plāksteriem.",
+                "2024. gada maijā OLagoon Ziemeļamerikas servisa vadītājs Jake Patterson piecas dienas apmācīja 28 darbiniekus 3 kūrortos. Kanādai specifiskie protokoli ietvēra: pavasara nodošanu ekspluatācijā (detalizētu pārbaudes kontrolsarakstu aukstās uzglabāšanas bojājumiem), pareizu uzpūšanu līdz 13-15 PSI (pielāgotu aukstam ūdenim — Lake Muskoka jūnijā vidēji 14°C), ziemošanas procedūru dēļiem, kas uzglabāti neapkurinātās laivu mājās, un 'damage-reporting-in-15-minutes' WhatsApp sistēmu. Jake arī iemācīja personālam atpazīt tipiskos Kanādas bebru grauzuma bojājumus (reāla problēma: 2023. gadā bebru dēļ gāja bojā 2 dēļi) un kā remontēt ar izturīgiem PVC plāksteriem.",
             },
             {
               title: '2024. gada vasaras atklāšana un lapu sezonas veiktspēja',
@@ -2553,17 +2553,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '2023. gada jūlija karstuma stresa pētījums Marbella pludmalē Playa de la Fontanilla',
               detail:
-                '2023. gada jūlijā Afarer Vidusjūras tehniskais vadītājs Pedro Sánchez veica 3 nedēļu pētījumu Miguela galvenajā pludmalē. Viņi aprīkoja 10 konkurentu dēļus un 5 Afarer prototipus ar Bluetooth spiediena sensoriem, kas fiksēja rādījumus ik pēc 5 minūtēm. Rezultāti parādīja, ka konkurentu dēļi 8 stundu laikā zaudēja 2.8-4.1 PSI (sākotnējais spiediens 15 PSI, līdz plkst. 16.00 krītot līdz 10.9-12.2 PSI). Afarer XHD-Thermal dēļi — ar siltumu atstarojošu sudraba ārējo slāni un slāpekļa gāzes pildījumu — zaudēja tikai 0.7 PSI. Pedro atklāja galveno problēmu: parastais gaiss karstumā izplešas, paaugstinot iekšējo spiedienu, kas izraisa drošības vārsta atvēršanos; Afarer slāpekļa pildījums (lielākas molekulas, lēnāka difūzija) mazināja šo efektu. Dēļa virsmas temperatūra smiltīs plkst. 15.00 sasniedza 67°C — Afarer sudraba slānis atstaroja 34% infrasarkanā starojuma.',
+                '2023. gada jūlijā OLagoon Vidusjūras tehniskais vadītājs Pedro Sánchez veica 3 nedēļu pētījumu Miguela galvenajā pludmalē. Viņi aprīkoja 10 konkurentu dēļus un 5 OLagoon prototipus ar Bluetooth spiediena sensoriem, kas fiksēja rādījumus ik pēc 5 minūtēm. Rezultāti parādīja, ka konkurentu dēļi 8 stundu laikā zaudēja 2.8-4.1 PSI (sākotnējais spiediens 15 PSI, līdz plkst. 16.00 krītot līdz 10.9-12.2 PSI). OLagoon XHD-Thermal dēļi — ar siltumu atstarojošu sudraba ārējo slāni un slāpekļa gāzes pildījumu — zaudēja tikai 0.7 PSI. Pedro atklāja galveno problēmu: parastais gaiss karstumā izplešas, paaugstinot iekšējo spiedienu, kas izraisa drošības vārsta atvēršanos; OLagoon slāpekļa pildījums (lielākas molekulas, lēnāka difūzija) mazināja šo efektu. Dēļa virsmas temperatūra smiltīs plkst. 15.00 sasniedza 67°C — OLagoon sudraba slānis atstaroja 34% infrasarkanā starojuma.',
             },
             {
               title: "'Costa del Sol Edition' ar siltumu izkliedējošu klāju un pret zādzībām paredzētu enkuru",
               detail:
-                "Afarer izveidoja pielāgotu specifikāciju Miguelam: 'Costasol Edition 11.0' ar korķa klāju (maksimālā saulē paliek par 8°C vēsāks nekā EVA putu, pārbaudīts ar termokameru), karstumizturīgiem nerūsējošā tērauda vārstiem ar silikona O-gredzeniem (pretstatā standarta gumijai, kas Spānijas saulē degradējas pēc 400+ stundām) un UV stabilizētu spuru sistēmu ar reitingu 2,000 stundu UV iedarbībai. Miguel pieprasīja zādzību atbaidīšanas funkciju: Afarer integrēja nerūsējošā tērauda kabeļa cilpu dēļa priekšgalā, caur kuru personāls var izvērt cipara atslēgu — samazinot dēļu zādzības no 12 gadā līdz 0. Katram dēlim bija ar karstumu iespiests Miguela pludmales kluba logo (bez uzlīmēm, kas var noplēsties) ar QR kodu, kas ved uz atbildības atrunu un nomas līgumu.",
+                "OLagoon izveidoja pielāgotu specifikāciju Miguelam: 'Costasol Edition 11.0' ar korķa klāju (maksimālā saulē paliek par 8°C vēsāks nekā EVA putu, pārbaudīts ar termokameru), karstumizturīgiem nerūsējošā tērauda vārstiem ar silikona O-gredzeniem (pretstatā standarta gumijai, kas Spānijas saulē degradējas pēc 400+ stundām) un UV stabilizētu spuru sistēmu ar reitingu 2,000 stundu UV iedarbībai. Miguel pieprasīja zādzību atbaidīšanas funkciju: OLagoon integrēja nerūsējošā tērauda kabeļa cilpu dēļa priekšgalā, caur kuru personāls var izvērt cipara atslēgu — samazinot dēļu zādzības no 12 gadā līdz 0. Katram dēlim bija ar karstumu iespiests Miguela pludmales kluba logo (bez uzlīmēm, kas var noplēsties) ar QR kodu, kas ved uz atbildības atrunu un nomas līgumu.",
             },
             {
               title: 'Lielapjoma nomas loģistika un komandas apmācība',
               detail:
-                "Afarer operāciju konsultante Ana Martínez 2024. gada februārī divas nedēļas optimizēja Miguela nomas darba plūsmu. 'Grab-and-go' modelis: 50 dēļi vienmēr turēti uzpūsti uz pielāgota ritoša statņa (būvēta Afarer piederumu komandas), samazinot izsniegšanas laiku no 8 minūtēm līdz 90 sekundēm. Ana apmācīja 22 sezonas darbiniekus: 1 minūtes uzpūšanas pārbaude ar kalibrētu manometru, pareiza korķa klāja tīrīšana (maigas ziepes, bez augstspiediena mazgātāja), pēcpusdienas spiediena papildināšanas protokols (30 sekunžu pārbaude plkst. 14.00) un diennakts noslēguma skalošana ar saldūdens smidzināšanas sistēmu (uzstādīja Afarer, 80€/stacija). Jaunā darba plūsma ļāva 2 darbiniekiem pārvaldīt 200 dēļus 5 darbinieku un 85 dēļu vietā.",
+                "OLagoon operāciju konsultante Ana Martínez 2024. gada februārī divas nedēļas optimizēja Miguela nomas darba plūsmu. 'Grab-and-go' modelis: 50 dēļi vienmēr turēti uzpūsti uz pielāgota ritoša statņa (būvēta OLagoon piederumu komandas), samazinot izsniegšanas laiku no 8 minūtēm līdz 90 sekundēm. Ana apmācīja 22 sezonas darbiniekus: 1 minūtes uzpūšanas pārbaude ar kalibrētu manometru, pareiza korķa klāja tīrīšana (maigas ziepes, bez augstspiediena mazgātāja), pēcpusdienas spiediena papildināšanas protokols (30 sekunžu pārbaude plkst. 14.00) un diennakts noslēguma skalošana ar saldūdens smidzināšanas sistēmu (uzstādīja OLagoon, 80€/stacija). Jaunā darba plūsma ļāva 2 darbiniekiem pārvaldīt 200 dēļus 5 darbinieku un 85 dēļu vietā.",
             },
             {
               title: '2024. gada vasara: Spānijas karstākais jūlijs vēsturē',
@@ -2580,8 +2580,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc nomas uzņēmumi izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc nomas uzņēmumi izvēlas OLagoon',
       items: [
         {
           title: 'Komerciāla lietošana',
@@ -2609,38 +2609,38 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kāda tipa SUP dēļi ir vislabākie nomas uzņēmumiem?',
         answer:
-          'Nomas uzņēmumiem nepieciešami izturīgi, stabili universāli SUP dēļi ar pastiprinātu konstrukciju, iesācējiem draudzīgām formām, standartizētiem piederumiem un vienkāršas apkopes funkcijām. Afarer nomas dēļi ir īpaši izstrādāti, lai izturētu biežu klientu ar dažādu prasmju līmeni lietošanu.',
+          'Nomas uzņēmumiem nepieciešami izturīgi, stabili universāli SUP dēļi ar pastiprinātu konstrukciju, iesācējiem draudzīgām formām, standartizētiem piederumiem un vienkāršas apkopes funkcijām. OLagoon nomas dēļi ir īpaši izstrādāti, lai izturētu biežu klientu ar dažādu prasmju līmeni lietošanu.',
       },
       {
         question: 'Kā varu samazināt apkopes izmaksas savai nomas SUP flotei?',
         answer:
-          'Afarer palīdz samazināt apkopes izmaksas ar izturīgu konstrukciju, kas iztur bojājumus, standartizētām sastāvdaļām, kas vienkāršo remontu, nomaināmām daļām, kas izslēdz pilnu dēļa nomaiņu, un apkopes norādījumiem, kas palīdz jūsu komandai efektīvi veikt pamata apkopi.',
+          'OLagoon palīdz samazināt apkopes izmaksas ar izturīgu konstrukciju, kas iztur bojājumus, standartizētām sastāvdaļām, kas vienkāršo remontu, nomaināmām daļām, kas izslēdz pilnu dēļa nomaiņu, un apkopes norādījumiem, kas palīdz jūsu komandai efektīvi veikt pamata apkopi.',
       },
       {
         question: 'Kāds ir minimālais pasūtījuma daudzums nomas SUP flotēm?',
         answer:
-          'Afarer atbalsta elastīgus flotes izmērus no mazām operācijām, kas sākas ar 50 dēļiem, līdz liela mēroga flotēm ar 500+ dēļiem. Mēs nodrošinām lielapjoma iepirkuma risinājumus ar vienotu kvalitāti visos pasūtījuma daudzumos.',
+          'OLagoon atbalsta elastīgus flotes izmērus no mazām operācijām, kas sākas ar 50 dēļiem, līdz liela mēroga flotēm ar 500+ dēļiem. Mēs nodrošinām lielapjoma iepirkuma risinājumus ar vienotu kvalitāti visos pasūtījuma daudzumos.',
       },
       {
         question: 'Vai jūs piedāvājat lielapjoma cenas nomas operatoriem?',
         answer:
-          'Jā, Afarer piedāvā konkurētspējīgas lielapjoma cenas nomas operatoriem, kas iepērk 50, 100, 300 vai 500+ dēļu flotes, ar vienotu aprīkojuma kvalitāti un efektīviem ražošanas termiņiem lieliem pasūtījumiem.',
+          'Jā, OLagoon piedāvā konkurētspējīgas lielapjoma cenas nomas operatoriem, kas iepērk 50, 100, 300 vai 500+ dēļu flotes, ar vienotu aprīkojuma kvalitāti un efektīviem ražošanas termiņiem lieliem pasūtījumiem.',
       },
       {
-        question: 'Kā Afarer SUP dēļi tiek galā ar sālsūdeni un pludmales vidi?',
+        question: 'Kā OLagoon SUP dēļi tiek galā ar sālsūdeni un pludmales vidi?',
         answer:
-          'Afarer nomas dēļiem ir pret berzi izturīgs PVC materiāls, UV izturīga konstrukcija, pastiprinātas sānu malas pludmales kontaktam un pret koroziju izturīga furnitūra, kas iztur sālsūdens iedarbību, smilšu berzi un āra uzglabāšanas apstākļus.',
+          'OLagoon nomas dēļiem ir pret berzi izturīgs PVC materiāls, UV izturīga konstrukcija, pastiprinātas sānu malas pludmales kontaktam un pret koroziju izturīga furnitūra, kas iztur sālsūdens iedarbību, smilšu berzi un āra uzglabāšanas apstākļus.',
       },
       {
         question: 'Vai varu marķēt savus nomas SUP dēļus ar sava uzņēmuma logo?',
         answer:
-          'Jā, Afarer atbalsta pilnu pielāgošanu, tostarp logo zīmolēšanu, krāsu saskaņošanu, dēļu numerāciju un modeļu marķējumu, kas pārvērš jūsu nomas aprīkojumu redzamos mārketinga rīkos visā jūsu pludmales vai kūrorta atrašanās vietā.',
+          'Jā, OLagoon atbalsta pilnu pielāgošanu, tostarp logo zīmolēšanu, krāsu saskaņošanu, dēļu numerāciju un modeļu marķējumu, kas pārvērš jūsu nomas aprīkojumu redzamos mārketinga rīkos visā jūsu pludmales vai kūrorta atrašanās vietā.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu izturīgo SUP nomas floti ar Afarer',
+      title: 'Izveidojiet savu izturīgo SUP nomas floti ar OLagoon',
       subtitle:
-        'Jūsu aprīkojums nosaka jūsu uzņēmuma ienesīgumu. Izvēlieties SUP produktus, kas izstrādāti smagākam darbam un ilgākai kalpošanai. Afarer palīdz nomas operatoriem izveidot pludmales SUP flotes, kūrortu ūdens aktivitāšu aprīkojumu un tūrisma piedzīvojumu sistēmas ar uzticamu OEM ražošanas atbalstu.',
+        'Jūsu aprīkojums nosaka jūsu uzņēmuma ienesīgumu. Izvēlieties SUP produktus, kas izstrādāti smagākam darbam un ilgākai kalpošanai. OLagoon palīdz nomas operatoriem izveidot pludmales SUP flotes, kūrortu ūdens aktivitāšu aprīkojumu un tūrisma piedzīvojumu sistēmas ar uzticamu OEM ražošanas atbalstu.',
       primaryAction: {
         text: 'Sāciet savu nomas flotes projektu jau šodien',
       },
@@ -2660,9 +2660,9 @@ const lv: Record<string, SolutionOverride> = {
       tagline: 'Kūrorta ūdens aktivitāšu pakete™',
       title: 'Premium SUP un ūdens sporta risinājumi greznām viesnīcām, kūrortiem un viesmīlības zīmoliem',
       subtitle:
-        'Afarer piedāvā pilnīgas kūrorta ūdens aktivitāšu paketes, kas izstrādātas īpaši viesmīlības uzņēmumiem. Mēs palīdzam grezniem kūrortiem, pludmales viesnīcām, salu galamērķiem, eko kūrortiem un labsajūtas atpūtas vietām izveidot ūdens pieredzi ar zīmola noformējumu, izmantojot pielāgotas SUP flotes, glabāšanas sistēmas un personāla apmācību.',
+        'OLagoon piedāvā pilnīgas kūrorta ūdens aktivitāšu paketes, kas izstrādātas īpaši viesmīlības uzņēmumiem. Mēs palīdzam grezniem kūrortiem, pludmales viesnīcām, salu galamērķiem, eko kūrortiem un labsajūtas atpūtas vietām izveidot ūdens pieredzi ar zīmola noformējumu, izmantojot pielāgotas SUP flotes, glabāšanas sistēmas un personāla apmācību.',
       image: {
-        alt: 'Afarer kūrorta ūdens aktivitāšu pakete ar pielāgotiem SUP dēļiem ar zīmola noformējumu',
+        alt: 'OLagoon kūrorta ūdens aktivitāšu pakete ar pielāgotiem SUP dēļiem ar zīmola noformējumu',
       },
     },
     challenge: {
@@ -2696,7 +2696,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pielāgotas kūrorta SUP flotes izstrāde',
           description:
-            'Afarer palīdz kūrortiem izveidot īpašas aprīkojuma flotes, pamatojoties uz atrašanās vietu, viesu profilu, ūdens vidi un aktivitāšu programmām. Paketes ietver gan ģimenes kūrorta konfigurācijas ar stabiliem universāliem dēļiem, gan luksusa salu paketes ar premium dizainu, gan labsajūtas atpūtas paketes ar platām joga SUP dēļiem.',
+            'OLagoon palīdz kūrortiem izveidot īpašas aprīkojuma flotes, pamatojoties uz atrašanās vietu, viesu profilu, ūdens vidi un aktivitāšu programmām. Paketes ietver gan ģimenes kūrorta konfigurācijas ar stabiliem universāliem dēļiem, gan luksusa salu paketes ar premium dizainu, gan labsajūtas atpūtas paketes ar platām joga SUP dēļiem.',
           features: [
             'Ģimenes kūrorta pakete',
             'Luksusa salu kūrorta pakete',
@@ -2707,7 +2707,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Kūrorta zīmola pielāgošana',
           description:
-            'Jūsu ūdens aprīkojums kļūst par viesu ceļojuma sastāvdaļu. Afarer nodrošina pielāgota logotipa integrāciju, pielāgotu krāsu dizainu, kas saderināts ar kūrorta arhitektūru un zīmola krāsām, kā arī premium iepakojumu ar zīmola aksesuāriem un viesu instrukciju materiāliem.',
+            'Jūsu ūdens aprīkojums kļūst par viesu ceļojuma sastāvdaļu. OLagoon nodrošina pielāgota logotipa integrāciju, pielāgotu krāsu dizainu, kas saderināts ar kūrorta arhitektūru un zīmola krāsām, kā arī premium iepakojumu ar zīmola aksesuāriem un viesu instrukciju materiāliem.',
           features: [
             'Pielāgota logotipa druka',
             'Krāsu dizains, kas atbilst zīmolam',
@@ -2718,27 +2718,27 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Kūrorta glabāšanas un aprīkojuma pārvaldības sistēma',
           description:
-            'Afarer palīdz kūrortiem plānot aprīkojuma glabāšanu ar SUP statņiem, organizēšanas sistēmām un aizsardzības risinājumiem pret laikapstākļiem, ņemot vērā saules iedarbību, mitrumu un piekrastes vidi. Personāls var efektīvi pārvaldīt ikdienas aprīkojuma sagatavošanu, izsniegšanu viesiem un apkopes pārbaudes.',
+            'OLagoon palīdz kūrortiem plānot aprīkojuma glabāšanu ar SUP statņiem, organizēšanas sistēmām un aizsardzības risinājumiem pret laikapstākļiem, ņemot vērā saules iedarbību, mitrumu un piekrastes vidi. Personāls var efektīvi pārvaldīt ikdienas aprīkojuma sagatavošanu, izsniegšanu viesiem un apkopes pārbaudes.',
         },
         {
           title: 'Personāla drošības un darbības apmācības atbalsts',
           description:
-            'Afarer sniedz operacionālus norādījumus, tostarp aprīkojuma lietošanas procedūras, piepūšanas instrukcijas, tīrīšanas metodes, glabāšanas vadlīnijas, viesu drošības procedūras un ikdienas darbības kontrolsarakstus, kas ietver pārbaudi pirms lietošanas un tīrīšanu pēc lietošanas.',
+            'OLagoon sniedz operacionālus norādījumus, tostarp aprīkojuma lietošanas procedūras, piepūšanas instrukcijas, tīrīšanas metodes, glabāšanas vadlīnijas, viesu drošības procedūras un ikdienas darbības kontrolsarakstus, kas ietver pārbaudi pirms lietošanas un tīrīšanu pēc lietošanas.',
         },
         {
           title: 'Pilnīga kūrorta ūdens aktivitāšu pakete',
           description:
-            'Piemēra paketes ietver pielāgotus SUP dēļus ar zīmola noformējumu, regulējamus airus, sūkņus, drošības siksnas, glabāšanas statņus, remonta komplektus un personāla darbības rokasgrāmatas. Afarer var arī atbalstīt paplašināšanos ūdens fitnesa produktos un ģimenes ūdens aprīkojumā.',
+            'Piemēra paketes ietver pielāgotus SUP dēļus ar zīmola noformējumu, regulējamus airus, sūkņus, drošības siksnas, glabāšanas statņus, remonta komplektus un personāla darbības rokasgrāmatas. OLagoon var arī atbalstīt paplašināšanos ūdens fitnesa produktos un ģimenes ūdens aprīkojumā.',
         },
         {
           title: 'Zemas apkopes komerciālais aprīkojums',
           description:
-            'Kūrorta aprīkojumam jālīdzsvaro viesu pieredze, izturība un apkopes efektivitāte. Afarer pievērš uzmanību izturīgai konstrukcijai ar pastiprinātu PVC un komerciāla līmeņa komponentēm, vieglai apkopei ar standarta aksesuāriem un ilgtermiņa vērtībai, kas samazina nomaiņas biežumu.',
+            'Kūrorta aprīkojumam jālīdzsvaro viesu pieredze, izturība un apkopes efektivitāte. OLagoon pievērš uzmanību izturīgai konstrukcijai ar pastiprinātu PVC un komerciāla līmeņa komponentēm, vieglai apkopei ar standarta aksesuāriem un ilgtermiņa vērtībai, kas samazina nomaiņas biežumu.',
         },
         {
           title: 'Kūrorta pieredzes dizaina atbalsts',
           description:
-            'Afarer palīdz pārvērst aprīkojumu kūrorta īpašās viesu aktivitātēs, tostarp saulrieta SUP pieredzē pāriem, ģimenes okeāna piedzīvojumos, peldošās labsajūtas programmās joga atpūtas vietām un eko izpētes aktivitātēs dabas kūrortiem un jūras galamērķiem.',
+            'OLagoon palīdz pārvērst aprīkojumu kūrorta īpašās viesu aktivitātēs, tostarp saulrieta SUP pieredzē pāriem, ģimenes okeāna piedzīvojumos, peldošās labsajūtas programmās joga atpūtas vietām un eko izpētes aktivitātēs dabas kūrortiem un jūras galamērķiem.',
         },
       ],
     },
@@ -2754,7 +2754,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Kūrorta aktivitāšu plānošana',
           detail:
-            'Afarer izanalizēja viesu demogrāfiju, pludmales apstākļus un aktivitāšu mērķus un ieteica pielāgotu kūrorta SUP floti, kas atbilst kūrorta luksusa pozicionējumam un viesu gaidām.',
+            'OLagoon izanalizēja viesu demogrāfiju, pludmales apstākļus un aktivitāšu mērķus un ieteica pielāgotu kūrorta SUP floti, kas atbilst kūrorta luksusa pozicionējumam un viesu gaidām.',
         },
         {
           title: 'Produkta pielāgošana',
@@ -2785,29 +2785,29 @@ const lv: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Meksika',
             background:
-              "Ana Sofía Villanueva, 36, ir viesu pieredzes direktore kūrortā 'Casa del Pacífico' — 62 numuru luksusa eko kūrortā Punta Mita piekrastē Klusajā okeānā (numuru cenas $1,800-$8,000/night). Kūrorta 12 akru teritorijā ir 3 privātas pludmales, 2 lagūnas baseini un mangrovju estuārs, kas ved uz slēptiem cenote. 2023. gadā viesu aptaujas parādīja, ka 'unikālas ūdens pieredzes' ir Nr. 1 neapmierinātais pieprasījums (to vēlējās 78% viesu). Ana vērsās pie Afarer pēc tam, kad konkurentu kūrortā Tulumā tika palaista SUP programma — viņai bija nepieciešams kaut kas ekskluzīvāks. Izaicinājums: viena pakete, kas darbojas okeāna viļņos, mierīgos mangrovjos un saldūdens cenote ar mainīgu gaismas līmeni, straumēm un ekoloģisko jutīgumu.",
+              "Ana Sofía Villanueva, 36, ir viesu pieredzes direktore kūrortā 'Casa del Pacífico' — 62 numuru luksusa eko kūrortā Punta Mita piekrastē Klusajā okeānā (numuru cenas $1,800-$8,000/night). Kūrorta 12 akru teritorijā ir 3 privātas pludmales, 2 lagūnas baseini un mangrovju estuārs, kas ved uz slēptiem cenote. 2023. gadā viesu aptaujas parādīja, ka 'unikālas ūdens pieredzes' ir Nr. 1 neapmierinātais pieprasījums (to vēlējās 78% viesu). Ana vērsās pie OLagoon pēc tam, kad konkurentu kūrortā Tulumā tika palaista SUP programma — viņai bija nepieciešams kaut kas ekskluzīvāks. Izaicinājums: viena pakete, kas darbojas okeāna viļņos, mierīgos mangrovjos un saldūdens cenote ar mainīgu gaismas līmeni, straumēm un ekoloģisko jutīgumu.",
             goal: "Izstrādāt paketi 'Signature Cenote-to-Ocean SUP Experience' (3 stundu ekskursija ar gida pavadību, profesionāla fotogrāfēšana un Meksikas degustācijas izvēlne) par $450/person ar vismaz 40% peļņas maržu un 4.8+ viesu apmierinātības vērtējumu.",
           },
           steps: [
             {
               title: '2024. gada marta teritorijas izpēte un vides ietekmes novērtējums',
               detail:
-                'Afarer Latīņamerikas biznesa direktors Felipe Ortíz un jūras bioloģe Dr. Camila Reyes pavadīja 10 dienas, kartējot Casa del Pacífico ūdensceļus. Viņi identificēja 4 atšķirīgas SUP vides: Klusā okeāna pludmales starta vietu (pastāvīgi 2-3 ft viļņu lūzumi), mangrovju tuneli (šauri 2 metru kanāli ar pārkarušām saknēm), slēpto cenote (18 metrus dziļš saldūdens, nemainīga 24°C temperatūra, trausli mikrobu slāņi uz sienām) un lagūnas baseinu (iesācējiem viesiem). Dr. Reyes veica nogulumu paraugu ņemšanu un ligzdojošo putnu aptaujas, lai noteiktu ietilpību: maksimāli 8 viesi vienā ekskursijā, starts plkst. 7:30 no rīta pirms jūrasputnu barošanās. Novērtējums secināja, ka standarta SUP dēļi ar cinka fosfāta pigmentiem izskalotos cenote — Afarer pārgāja uz keramikas bāzes pigmentiem.',
+                'OLagoon Latīņamerikas biznesa direktors Felipe Ortíz un jūras bioloģe Dr. Camila Reyes pavadīja 10 dienas, kartējot Casa del Pacífico ūdensceļus. Viņi identificēja 4 atšķirīgas SUP vides: Klusā okeāna pludmales starta vietu (pastāvīgi 2-3 ft viļņu lūzumi), mangrovju tuneli (šauri 2 metru kanāli ar pārkarušām saknēm), slēpto cenote (18 metrus dziļš saldūdens, nemainīga 24°C temperatūra, trausli mikrobu slāņi uz sienām) un lagūnas baseinu (iesācējiem viesiem). Dr. Reyes veica nogulumu paraugu ņemšanu un ligzdojošo putnu aptaujas, lai noteiktu ietilpību: maksimāli 8 viesi vienā ekskursijā, starts plkst. 7:30 no rīta pirms jūrasputnu barošanās. Novērtējums secināja, ka standarta SUP dēļi ar cinka fosfāta pigmentiem izskalotos cenote — OLagoon pārgāja uz keramikas bāzes pigmentiem.',
             },
             {
               title: "Pielāgots dēlis 'Explora México' ar integrētu fotogrāfēšanas sistēmu",
               detail:
-                "Afarer izstrādāja 'Explora México 10.8' ar 4 slāņu konstrukciju, rifiem drošu pretapaugšanas apakšējo daļu (bez biocīdiem silikona pārklājums, testēts 200 stundas 28°C Klusā okeāna ūdenī) un pretatspīdumu matētu olīvzaļu klāju. Ana pieprasīja profesionālu fotografēšanu kā pieredzes sastāvdaļu — Afarer dēļa priekšgalā integrēja ūdensnecaurlaidīgu drona palaišanas platformu (pastiprināta 25x25 cm oglekļa šķiedras platforma ar pretslīdēšanas pārklājumu, testēta ar DJI Mini 4 Pro rokas palaišanas un atgūšanas laikā). Katram dēlim bija arī zemūdens kameras mastu stiprinājums. Dēļi tika izgatavoti ierobežotā 'Casa del Pacífico' zīmola noformējumā ar maiju iedvesmotiem ģeometriskiem rakstiem — reljefa iespiedumi, nevis krāsojums, lai izvairītos no toksiskas noteces.",
+                "OLagoon izstrādāja 'Explora México 10.8' ar 4 slāņu konstrukciju, rifiem drošu pretapaugšanas apakšējo daļu (bez biocīdiem silikona pārklājums, testēts 200 stundas 28°C Klusā okeāna ūdenī) un pretatspīdumu matētu olīvzaļu klāju. Ana pieprasīja profesionālu fotografēšanu kā pieredzes sastāvdaļu — OLagoon dēļa priekšgalā integrēja ūdensnecaurlaidīgu drona palaišanas platformu (pastiprināta 25x25 cm oglekļa šķiedras platforma ar pretslīdēšanas pārklājumu, testēta ar DJI Mini 4 Pro rokas palaišanas un atgūšanas laikā). Katram dēlim bija arī zemūdens kameras mastu stiprinājums. Dēļi tika izgatavoti ierobežotā 'Casa del Pacífico' zīmola noformējumā ar maiju iedvesmotiem ģeometriskiem rakstiem — reljefa iespiedumi, nevis krāsojums, lai izvairītos no toksiskas noteces.",
             },
             {
               title: 'Gidu sertifikācijas programma un loģistikas integrācija',
               detail:
-                "2024. gada maijā Afarer vecākais gida treneris Diego Castillo vadīja 2 nedēļu intensīvu programmu, sertificējot 8 Casa del Pacífico aktivitāšu gidus. Mācību programma ietvēra: starta un atgūšanas tehniku viļņu zonā Klusā okeāna pludmales viļņiem, navigāciju mangrovjos ar plūdmaiņām (gidam jāzina 3 stundu plūdmaiņu logs, lai izvairītos no iestrēgšanas dubļos), cenote etiķeti (bez sauļošanās līdzekļiem, bez sienu aizskaršanas — Dr. Reyes atgriezās pusdienu sensitivitātes sesijai), ārkārtas protokolus (tostarp sastopot pumu — mangrovjos dzīvo pastāvīgs tēviņš) un divvalodu gida darbu spāņu un angļu valodās. Afarer arī integrēja SUP krājumus kūrorta Oracle Opera PMS sistēmā, lai SUP rezervācijas automātiski parādītos viesu rēķinos. Fotogrāfēšanas darbplūsma: gidi izmanto GoPro Hero12 Black ar iepriekš iestatītu 'Cenote' krāsu profilu, fotogrāfijas viesiem tiek nodotas ar NFC karti 30 minūšu laikā.",
+                "2024. gada maijā OLagoon vecākais gida treneris Diego Castillo vadīja 2 nedēļu intensīvu programmu, sertificējot 8 Casa del Pacífico aktivitāšu gidus. Mācību programma ietvēra: starta un atgūšanas tehniku viļņu zonā Klusā okeāna pludmales viļņiem, navigāciju mangrovjos ar plūdmaiņām (gidam jāzina 3 stundu plūdmaiņu logs, lai izvairītos no iestrēgšanas dubļos), cenote etiķeti (bez sauļošanās līdzekļiem, bez sienu aizskaršanas — Dr. Reyes atgriezās pusdienu sensitivitātes sesijai), ārkārtas protokolus (tostarp sastopot pumu — mangrovjos dzīvo pastāvīgs tēviņš) un divvalodu gida darbu spāņu un angļu valodās. OLagoon arī integrēja SUP krājumus kūrorta Oracle Opera PMS sistēmā, lai SUP rezervācijas automātiski parādītos viesu rēķinos. Fotogrāfēšanas darbplūsma: gidi izmanto GoPro Hero12 Black ar iepriekš iestatītu 'Cenote' krāsu profilu, fotogrāfijas viesiem tiek nodotas ar NFC karti 30 minūšu laikā.",
             },
             {
               title: '2024. gada novembra augstās sezonas palaišana un mediju atspoguļojums',
               detail:
-                "Pieredze 'Cenote-to-Ocean' tika palaista 2024. gada 15. novembrī (Punta Mita augstās sezonas sākums). Pirmajās 30 dienās: pārdotas 112 ekskursijas par $450/person = $50,400 ieņēmumu. Condé Nast Traveler žurnāliste bija 47. viesis; viņas raksts 'Mexico's Newest Eco-Thrill: Paddleboarding a Cenote to the Pacific', publicēts 2025. gada janvārī, nodrošināja 800+ rezervāciju līdz martam. Viesu apmierinātība vidēji 4.94/5 340 ekskursijās. Kūrorts pievienoja $150 'Golden Hour' fotogrāfēšanas papildpakalpojumu (saulrieta sesija ar profesionālu drona pilotu, šampanieri un austriņām) — to iegādājās 94% viesu. Līdz 2025. gada aprīlim programma ģenerēja $1.12 milj. tiešo ieņēmumu ar 52% peļņas maržu. Casa del Pacífico pasūtīja 20 papildu dēļus 2026. gadam un nolīga Afarer izstrādāt 'Whale-Watching SUP' paketi (kuprvaļu migrācija decembris–marts).",
+                "Pieredze 'Cenote-to-Ocean' tika palaista 2024. gada 15. novembrī (Punta Mita augstās sezonas sākums). Pirmajās 30 dienās: pārdotas 112 ekskursijas par $450/person = $50,400 ieņēmumu. Condé Nast Traveler žurnāliste bija 47. viesis; viņas raksts 'Mexico's Newest Eco-Thrill: Paddleboarding a Cenote to the Pacific', publicēts 2025. gada janvārī, nodrošināja 800+ rezervāciju līdz martam. Viesu apmierinātība vidēji 4.94/5 340 ekskursijās. Kūrorts pievienoja $150 'Golden Hour' fotogrāfēšanas papildpakalpojumu (saulrieta sesija ar profesionālu drona pilotu, šampanieri un austriņām) — to iegādājās 94% viesu. Līdz 2025. gada aprīlim programma ģenerēja $1.12 milj. tiešo ieņēmumu ar 52% peļņas maržu. Casa del Pacífico pasūtīja 20 papildu dēļus 2026. gadam un nolīga OLagoon izstrādāt 'Whale-Watching SUP' paketi (kuprvaļu migrācija decembris–marts).",
             },
           ],
           results: [
@@ -2822,19 +2822,19 @@ const lv: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Taizeme',
             background:
-              "Pimchanok 'Mint' Suwannarat, 32, ir pieredzes direktore kūrortā 'Veranda Samui' — pieczvaigžņu kūrortā ar skatu uz Chaweng Noi pludmali, ar 98 villām un vidēji 6.4 naktis ilgu uzturēšanos. Mint pamanīja, ka 73% viesu rezervēja vismaz vienu 'salu ekskursiju' (parasti ātrgaitas laivas ceļojums uz Ang Thong jūras parku par 3,500 THB/person), taču pēc uzturēšanās veiktās aptaujas sūdzējās par 'pārpildītām ekskursijām' un 'par daudz apstāšanās, par maz airēšanas'. Viņa iedomājās vairāku dienu SUP ekspedīciju, kurā viesi airē starp Koh Samui un tuvējām salām, nakšņojot eko mājokļos un pludmales nometnēs. Nevienā Taizemes kūrortā šādu piedāvājumu nebija. Viņai bija nepieciešams, lai Afarer izstrādātu ekspedīciju klases aprīkojumu, kas spētu nodrošināt vairāku dienu ceļojumus bez ārēja atbalsta ar nometņu inventāru un piederumiem pēc Rietumu luksusa standartiem.",
+              "Pimchanok 'Mint' Suwannarat, 32, ir pieredzes direktore kūrortā 'Veranda Samui' — pieczvaigžņu kūrortā ar skatu uz Chaweng Noi pludmali, ar 98 villām un vidēji 6.4 naktis ilgu uzturēšanos. Mint pamanīja, ka 73% viesu rezervēja vismaz vienu 'salu ekskursiju' (parasti ātrgaitas laivas ceļojums uz Ang Thong jūras parku par 3,500 THB/person), taču pēc uzturēšanās veiktās aptaujas sūdzējās par 'pārpildītām ekskursijām' un 'par daudz apstāšanās, par maz airēšanas'. Viņa iedomājās vairāku dienu SUP ekspedīciju, kurā viesi airē starp Koh Samui un tuvējām salām, nakšņojot eko mājokļos un pludmales nometnēs. Nevienā Taizemes kūrortā šādu piedāvājumu nebija. Viņai bija nepieciešams, lai OLagoon izstrādātu ekspedīciju klases aprīkojumu, kas spētu nodrošināt vairāku dienu ceļojumus bez ārēja atbalsta ar nometņu inventāru un piederumiem pēc Rietumu luksusa standartiem.",
             goal: "Palaist 'The Samui Archipelago Paddle' — 5 dienu, 4 nakšu SUP ekspedīciju ar gidu, kas aptver 4 salas (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → atgriešanās), par 89,000 THB ($2,500 USD)/person, ar vismaz 12 izbraukumiem gadā un 100% aizpildījumu.",
           },
           steps: [
             {
               title: 'Maršrutu kartēšana un loģistikas izpēte Samui arhipelāgā',
               detail:
-                '2023. gada oktobrī Afarer Āzijas un Klusā okeāna reģiona ekspedīciju speciālists Tomo Kato un Taizemes jūras ekologs Dr. Narong Chaiyasit pavadīja 14 dienas, airējot ar kajakiem un izsekojot piedāvāto maršrutu ar motorlaivas atbalstu. Viņi identificēja 7 kritiskus faktorus: musonu vētru modeļi (no novembra līdz janvārim Ziemeļaustrumu musons padara pārcelšanos starp Koh Samui un Koh Phangan bīstamu; no februāra līdz oktobrim ir droši), nometņu vietas Koh Tao (tikai 2 pludmales vietas ar atļaujām teltīm — katra ierobežota līdz 10 cilvēkiem), saldūdens papildināšana (Koh Nang Yuan nav — viesi nes 4L uz personu dienā) un rifu navigācijas koridori (koraļļi Koh Tao Shark līcī pie bēguma prasa dēļus ar 40+ cm klīdes brīvo augstumu). Gala maršruts bija 68 km 5 dienās ar ikdienas airēšanas attālumiem 8-18 km. Tomo testēja 14 enkuru tipus pludmales nometnēm, izmantojot pūķi (Danforth tipa enkuri noturējās labāk Samui smilšainajās gultnēs).',
+                '2023. gada oktobrī OLagoon Āzijas un Klusā okeāna reģiona ekspedīciju speciālists Tomo Kato un Taizemes jūras ekologs Dr. Narong Chaiyasit pavadīja 14 dienas, airējot ar kajakiem un izsekojot piedāvāto maršrutu ar motorlaivas atbalstu. Viņi identificēja 7 kritiskus faktorus: musonu vētru modeļi (no novembra līdz janvārim Ziemeļaustrumu musons padara pārcelšanos starp Koh Samui un Koh Phangan bīstamu; no februāra līdz oktobrim ir droši), nometņu vietas Koh Tao (tikai 2 pludmales vietas ar atļaujām teltīm — katra ierobežota līdz 10 cilvēkiem), saldūdens papildināšana (Koh Nang Yuan nav — viesi nes 4L uz personu dienā) un rifu navigācijas koridori (koraļļi Koh Tao Shark līcī pie bēguma prasa dēļus ar 40+ cm klīdes brīvo augstumu). Gala maršruts bija 68 km 5 dienās ar ikdienas airēšanas attālumiem 8-18 km. Tomo testēja 14 enkuru tipus pludmales nometnēm, izmantojot pūķi (Danforth tipa enkuri noturējās labāk Samui smilšainajās gultnēs).',
             },
             {
               title: "'Archipelago Expedition' dēlis ar izdzīvošanas un komforta funkcijām",
               detail:
-                "Afarer izstrādāja 'Veranda Explorer 13.0' ar 400L tilpumu — pietiekami, lai pārvadātu 35 kg nometņu inventāra un papildus 20 kg viesu personīgo mantu. Ietvertās funkcijas: ūdensnecaurlaidīga kravas lūka priekšgalā ar skrūvveida vāciņu (testēta 1 metra dziļumā 30 minūtes), 6 daisy-chain stiprinājuma punkti sausajiem maisiem, klāja bungee sistēma ar ātras atbrīvošanas mehānismu piekļuvei kamerai un noņemams stūres skegs okeāna kursa noturēšanai (Koh Phangan-Koh Tao posmā ir 2 mezglu sānstraume). Mint uzstāja uz komfortu: katram dēlim bija piepūšama muguras atzveltne ('LoungePak') ar turētāju glāzei un patentēts 'ShadowDeck' pārsegs (saspringts oglekļa šķiedras masts ar UPF 50+ audumu, testēts 35°C karstumā). Afarer izgatavoja 24 dēļus: 12 viesiem, 6 gidiem, 6 rezerves.",
+                "OLagoon izstrādāja 'Veranda Explorer 13.0' ar 400L tilpumu — pietiekami, lai pārvadātu 35 kg nometņu inventāra un papildus 20 kg viesu personīgo mantu. Ietvertās funkcijas: ūdensnecaurlaidīga kravas lūka priekšgalā ar skrūvveida vāciņu (testēta 1 metra dziļumā 30 minūtes), 6 daisy-chain stiprinājuma punkti sausajiem maisiem, klāja bungee sistēma ar ātras atbrīvošanas mehānismu piekļuvei kamerai un noņemams stūres skegs okeāna kursa noturēšanai (Koh Phangan-Koh Tao posmā ir 2 mezglu sānstraume). Mint uzstāja uz komfortu: katram dēlim bija piepūšama muguras atzveltne ('LoungePak') ar turētāju glāzei un patentēts 'ShadowDeck' pārsegs (saspringts oglekļa šķiedras masts ar UPF 50+ audumu, testēts 35°C karstumā). OLagoon izgatavoja 24 dēļus: 12 viesiem, 6 gidiem, 6 rezerves.",
             },
             {
               title: 'Gidu komandas komplektēšana un drošības sertifikācija',
@@ -2844,7 +2844,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '2025. gada janvāra pirmā ekspedīcija un 12 mēnešu rezervāciju plūsma',
               detail:
-                "Pirmais reiss devās ceļā 2025. gada 15. janvārī ar 6 viesiem (3 pāri, visi austrālieši, vecumā no 34 līdz 52 gadiem). Mint komanda filmēja ekspedīciju satura veidošanai. 2. dienā pārcelšanās uz Koh Phangan nokļuva negaidītā vētrā (30 mezglu vējš 45 minūtes) — Afarer dēļi to pārvarēja bez nevienas apgāšanās; gidu protokols izvērsa 'safety raft' formāciju (dēļi sasiesti kopā zvaigznes formā). Līdz 2025. gada martam 11 no 12 plānotajiem 2025. gada izbraukumiem bija pilnībā rezervēti (gaidīšanas sarakstā 40 viesu). 2025. gada ieņēmumu prognoze: 12 × 6 viesi × 89,000 THB = 6.41 milj. THB ($178,000 USD). Veranda izpilddirektors apstiprināja atsevišķa 'Expedition Pavilion' būvniecību pludmalē pirmsizbraukšanas instruktāžām. Mint tagad izstrādā 3 dienu 'Family Explorer' maršrutu (īsāki attālumi, nometņu bāze kūrortā) 2026. gadam.",
+                "Pirmais reiss devās ceļā 2025. gada 15. janvārī ar 6 viesiem (3 pāri, visi austrālieši, vecumā no 34 līdz 52 gadiem). Mint komanda filmēja ekspedīciju satura veidošanai. 2. dienā pārcelšanās uz Koh Phangan nokļuva negaidītā vētrā (30 mezglu vējš 45 minūtes) — OLagoon dēļi to pārvarēja bez nevienas apgāšanās; gidu protokols izvērsa 'safety raft' formāciju (dēļi sasiesti kopā zvaigznes formā). Līdz 2025. gada martam 11 no 12 plānotajiem 2025. gada izbraukumiem bija pilnībā rezervēti (gaidīšanas sarakstā 40 viesu). 2025. gada ieņēmumu prognoze: 12 × 6 viesi × 89,000 THB = 6.41 milj. THB ($178,000 USD). Veranda izpilddirektors apstiprināja atsevišķa 'Expedition Pavilion' būvniecību pludmalē pirmsizbraukšanas instruktāžām. Mint tagad izstrādā 3 dienu 'Family Explorer' maršrutu (īsāki attālumi, nometņu bāze kūrortā) 2026. gadam.",
             },
           ],
           results: [
@@ -2856,8 +2856,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc kūrorti izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc kūrorti izvēlas OLagoon',
       items: [
         {
           title: 'Viesu pieredze',
@@ -2885,38 +2885,38 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kādi SUP dēļi ir labākie kūrorta ūdens aktivitātēm?',
         answer:
-          'Kūrortiem nepieciešami stabili, iesācējiem draudzīgi SUP dēļi, kas atbilst viesiem ar visiem prasmju līmeņiem. Afarer piedāvā ģimenes kūrorta paketes ar universāliem dēļiem, luksusa salu paketes ar premium dizainu un labsajūtas atpūtas paketes ar platām joga dēļiem — visas pielāgojamas ar kūrorta zīmola noformējumu.',
+          'Kūrortiem nepieciešami stabili, iesācējiem draudzīgi SUP dēļi, kas atbilst viesiem ar visiem prasmju līmeņiem. OLagoon piedāvā ģimenes kūrorta paketes ar universāliem dēļiem, luksusa salu paketes ar premium dizainu un labsajūtas atpūtas paketes ar platām joga dēļiem — visas pielāgojamas ar kūrorta zīmola noformējumu.',
       },
       {
-        question: 'Vai Afarer var pielāgot SUP dēļus ar mana kūrorta logotipu un zīmola krāsām?',
+        question: 'Vai OLagoon var pielāgot SUP dēļus ar mana kūrorta logotipu un zīmola krāsām?',
         answer:
-          'Jā, Afarer nodrošina pilnu pielāgošanu, tostarp logotipa integrāciju, krāsu dizainu, kas atbilst jūsu kūrorta arhitektūrai un zīmola identitātei, kā arī premium iepakojumu ar zīmola aksesuāriem un viesu instrukciju materiāliem.',
+          'Jā, OLagoon nodrošina pilnu pielāgošanu, tostarp logotipa integrāciju, krāsu dizainu, kas atbilst jūsu kūrorta arhitektūrai un zīmola identitātei, kā arī premium iepakojumu ar zīmola aksesuāriem un viesu instrukciju materiāliem.',
       },
       {
         question: 'Vai jūs piedāvājat glabāšanas risinājumus kūrorta SUP aprīkojumam?',
         answer:
-          'Jā, Afarer palīdz plānot aprīkojuma glabāšanu ar SUP statņiem, organizēšanas sistēmām un aizsardzības risinājumiem pret laikapstākļiem, ņemot vērā saules iedarbību, mitrumu un piekrastes vidi, lai aizsargātu jūsu ieguldījumu un saglabātu kūrorta izskatu.',
+          'Jā, OLagoon palīdz plānot aprīkojuma glabāšanu ar SUP statņiem, organizēšanas sistēmām un aizsardzības risinājumiem pret laikapstākļiem, ņemot vērā saules iedarbību, mitrumu un piekrastes vidi, lai aizsargātu jūsu ieguldījumu un saglabātu kūrorta izskatu.',
       },
       {
         question: 'Kāda apmācība ir nepieciešama kūrorta personālam SUP programmu vadīšanai?',
         answer:
-          'Afarer sniedz operacionālus norādījumus, tostarp aprīkojuma lietošanas procedūras, piepūšanas instrukcijas, tīrīšanas metodes, glabāšanas vadlīnijas, viesu drošības procedūras un ikdienas darbības kontrolsarakstus, lai jebkurš darbinieks varētu programmu pārvaldīt profesionāli.',
+          'OLagoon sniedz operacionālus norādījumus, tostarp aprīkojuma lietošanas procedūras, piepūšanas instrukcijas, tīrīšanas metodes, glabāšanas vadlīnijas, viesu drošības procedūras un ikdienas darbības kontrolsarakstus, lai jebkurš darbinieks varētu programmu pārvaldīt profesionāli.',
       },
       {
-        question: 'Cik izturīgi ir Afarer SUP dēļi ikdienas lietošanai kūrortā?',
+        question: 'Cik izturīgi ir OLagoon SUP dēļi ikdienas lietošanai kūrortā?',
         answer:
-          'Afarer kūrorta SUP dēļiem ir pastiprināta PVC konstrukcija, komerciāla līmeņa komponentes un izturīgas drop stitch struktūras, kas izstrādātas, lai izturētu viesu ikdienas lietošanu, saglabājot premium izskatu un veiktspēju.',
+          'OLagoon kūrorta SUP dēļiem ir pastiprināta PVC konstrukcija, komerciāla līmeņa komponentes un izturīgas drop stitch struktūras, kas izstrādātas, lai izturētu viesu ikdienas lietošanu, saglabājot premium izskatu un veiktspēju.',
       },
       {
         question: 'Vai mēs varam piedāvāt SUP kopā ar citām ūdens aktivitātēm?',
         answer:
-          'Jā, Afarer var atbalstīt paplašināšanos ūdens fitnesa produktos, ģimenes ūdens aprīkojumā un citos āra atpūtas produktos, lai izveidotu pilnīgu kūrorta ūdens aktivitāšu portfeli.',
+          'Jā, OLagoon var atbalstīt paplašināšanos ūdens fitnesa produktos, ģimenes ūdens aprīkojumā un citos āra atpūtas produktos, lai izveidotu pilnīgu kūrorta ūdens aktivitāšu portfeli.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu kūrorta ūdens pieredzi ar Afarer',
+      title: 'Izveidojiet savu kūrorta ūdens pieredzi ar OLagoon',
       subtitle:
-        'Jūsu galamērķim jau ir okeāns. Tagad izveidojiet uz tā neaizmirstamus brīžus. Afarer palīdz greznām viesnīcām, salu kūrortiem un labsajūtas galamērķiem veidot pielāgotas SUP flotes, ūdens aktivitātes ar zīmola noformējumu un pilnīgus kūrorta aprīkojuma risinājumus.',
+        'Jūsu galamērķim jau ir okeāns. Tagad izveidojiet uz tā neaizmirstamus brīžus. OLagoon palīdz greznām viesnīcām, salu kūrortiem un labsajūtas galamērķiem veidot pielāgotas SUP flotes, ūdens aktivitātes ar zīmola noformējumu un pilnīgus kūrorta aprīkojuma risinājumus.',
       primaryAction: {
         text: 'Sāciet savu kūrorta ūdens aktivitāšu projektu jau šodien',
       },
@@ -2937,9 +2937,9 @@ const lv: Record<string, SolutionOverride> = {
       title:
         'Profesionāli SUP aprīkojuma risinājumi ūdens sporta skolām, jaunatnes programmām un āra izglītības organizācijām',
       subtitle:
-        'Afarer piedāvā SUP akadēmijas aprīkojuma programmu — pilnīgu aprīkojuma risinājumu, kas izstrādāts profesionālām mācību vidēm. Mēs palīdzam SUP skolām, jaunatnes treniņu centriem, vasaras nometnēm un āra izglītības uzņēmumiem veidot uzticamas treniņu flotes ar iesācējiem draudzīgiem dēļiem, bērnu modeļiem un instruktoru aprīkojumu.',
+        'OLagoon piedāvā SUP akadēmijas aprīkojuma programmu — pilnīgu aprīkojuma risinājumu, kas izstrādāts profesionālām mācību vidēm. Mēs palīdzam SUP skolām, jaunatnes treniņu centriem, vasaras nometnēm un āra izglītības uzņēmumiem veidot uzticamas treniņu flotes ar iesācējiem draudzīgiem dēļiem, bērnu modeļiem un instruktoru aprīkojumu.',
       image: {
-        alt: 'Afarer SUP akadēmijas aprīkojums treniņu skolām un jaunatnes programmām',
+        alt: 'OLagoon SUP akadēmijas aprīkojums treniņu skolām un jaunatnes programmām',
       },
     },
     challenge: {
@@ -2973,7 +2973,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Treniņu SUP dēļi iesācējiem',
           description:
-            'Afarer izstrādā stabīlus SUP dēļus īpaši mācību vidēm — ar augstas stabilitātes platformas dizainu vieglākai līdzsvarošanai, augstas peldspējas konstrukciju labākam atbalstam uz ūdens un universālu iesācēju apveidu, kas nodrošina vadāmību lēnā gaitā un vieglu grozīšanos.',
+            'OLagoon izstrādā stabīlus SUP dēļus īpaši mācību vidēm — ar augstas stabilitātes platformas dizainu vieglākai līdzsvarošanai, augstas peldspējas konstrukciju labākam atbalstam uz ūdens un universālu iesācēju apveidu, kas nodrošina vadāmību lēnā gaitā un vieglu grozīšanos.',
           features: [
             'Augstas stabilitātes platformas dizains',
             'Augstas peldspējas konstrukcija',
@@ -2984,7 +2984,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Bērnu SUP programma',
           description:
-            'Bērniem nepieciešams aprīkojums, kas izstrādāts atbilstoši viņu augumam un spējām. Afarer piedāvā bērnu SUP dēļus ar atbilstošu garumu, vieglu lietošanu, stabilu apveidu un bērniem draudzīgu izskatu skolu programmām, vasaras nometnēm, junioru kursiem un ģimenes aktivitātēm.',
+            'Bērniem nepieciešams aprīkojums, kas izstrādāts atbilstoši viņu augumam un spējām. OLagoon piedāvā bērnu SUP dēļus ar atbilstošu garumu, vieglu lietošanu, stabilu apveidu un bērniem draudzīgu izskatu skolu programmām, vasaras nometnēm, junioru kursiem un ģimenes aktivitātēm.',
           features: [
             'Bērnu SUP dēļa dizains',
             'Jaunatnes treniņu pielietojumi',
@@ -3000,12 +3000,12 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pilns SUP akadēmijas flotes komplekts',
           description:
-            'Afarer palīdz akadēmijām izveidot pilnīgas aprīkojuma sistēmas, tostarp studentu aprīkojumu ar iesācēju dēļiem un regulējamiem airiem, instruktoru aprīkojumu ar premium SUP dēļiem un apkopes aprīkojumu ar remonta komplektiem un rezerves aksesuāriem nevainojamai ikdienas darbībai.',
+            'OLagoon palīdz akadēmijām izveidot pilnīgas aprīkojuma sistēmas, tostarp studentu aprīkojumu ar iesācēju dēļiem un regulējamiem airiem, instruktoru aprīkojumu ar premium SUP dēļiem un apkopes aprīkojumu ar remonta komplektiem un rezerves aksesuāriem nevainojamai ikdienas darbībai.',
         },
         {
           title: 'Komerciāla izturība ikdienas mācībām',
           description:
-            'Treniņu aprīkojumam nepieciešama izturīgāka konstrukcija. Afarer koncentrējas uz pastiprinātiem PVC materiāliem labākai berzes izturībai, izturīgu drop stitch struktūru dēļu stingrībai un pastiprinātiem reiliem, kas aizsargā pret triecieniem pret krastu un bojājumiem transportēšanas laikā.',
+            'Treniņu aprīkojumam nepieciešama izturīgāka konstrukcija. OLagoon koncentrējas uz pastiprinātiem PVC materiāliem labākai berzes izturībai, izturīgu drop stitch struktūru dēļu stingrībai un pastiprinātiem reiliem, kas aizsargā pret triecieniem pret krastu un bojājumiem transportēšanas laikā.',
           features: [
             'Pastiprināti PVC materiāli',
             'Izturīga drop stitch struktūra',
@@ -3016,22 +3016,22 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Akadēmijas flotes pārvaldības atbalsts',
           description:
-            'Lielām treniņu programmām nepieciešama organizētība. Afarer atbalsta standartizētu flotes konfigurāciju vieglākai instruktoru apmācībai, aprīkojuma identificēšanu ar dēļu numerāciju un akadēmijas logotipiem, kā arī rezerves daļu plānošanu ar rezerves airiem un remonta materiāliem.',
+            'Lielām treniņu programmām nepieciešama organizētība. OLagoon atbalsta standartizētu flotes konfigurāciju vieglākai instruktoru apmācībai, aprīkojuma identificēšanu ar dēļu numerāciju un akadēmijas logotipiem, kā arī rezerves daļu plānošanu ar rezerves airiem un remonta materiāliem.',
         },
         {
           title: 'Vasaras nometņu un jaunatnes programmu risinājumi',
           description:
-            'SUP kļūst arvien populārāks vasaras nometnēs un jaunatnes piedzīvojumu programmās. Afarer atbalsta nometņu flotes dizainu, ņemot vērā studentu vecumu un grupas lielumu, grupu aktivitāšu aprīkojumu ar vairākiem identiskiem dēļiem un sezonālas darbības plānošanu vasaras programmām un brīvdienu aktivitātēm.',
+            'SUP kļūst arvien populārāks vasaras nometnēs un jaunatnes piedzīvojumu programmās. OLagoon atbalsta nometņu flotes dizainu, ņemot vērā studentu vecumu un grupas lielumu, grupu aktivitāšu aprīkojumu ar vairākiem identiskiem dēļiem un sezonālas darbības plānošanu vasaras programmām un brīvdienu aktivitātēm.',
         },
         {
           title: 'Drošības un apkopes atbalsts',
           description:
-            'Afarer sniedz praktiskus norādījumus ikdienas darbībai, tostarp aprīkojuma pārbaudes ceļvežus, kas ietver gaisa spiediena, virsmas un aksesuāru pārbaudes pirms nodarbības, kā arī tīrīšanas, žāvēšanas un uzglabāšanas procedūras pēc nodarbības, un pamata remonta norādījumus.',
+            'OLagoon sniedz praktiskus norādījumus ikdienas darbībai, tostarp aprīkojuma pārbaudes ceļvežus, kas ietver gaisa spiediena, virsmas un aksesuāru pārbaudes pirms nodarbības, kā arī tīrīšanas, žāvēšanas un uzglabāšanas procedūras pēc nodarbības, un pamata remonta norādījumus.',
         },
         {
           title: 'Pielāgota akadēmijas zīmolrade',
           description:
-            'Afarer atbalsta akadēmijas logotipa pielāgošanu, krāsu saskaņošanu un profesionālu izskatu, kas, izmantojot ar zīmolu apzīmētus dēļus un instruktoru aprīkojumu, veido spēcīgāku zīmola atpazīstamību, profesionālākas nodarbības un labāku studentu pieredzi.',
+            'OLagoon atbalsta akadēmijas logotipa pielāgošanu, krāsu saskaņošanu un profesionālu izskatu, kas, izmantojot ar zīmolu apzīmētus dēļus un instruktoru aprīkojumu, veido spēcīgāku zīmola atpazīstamību, profesionālākas nodarbības un labāku studentu pieredzi.',
         },
       ],
     },
@@ -3045,7 +3045,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Treniņu programmas analīze',
           detail:
-            'Afarer izpētīja studentu vecuma grupas, mācību metodes un lietošanas biežumu, lai izprastu akadēmijas īpašās prasības iesācēju, jauniešu un instruktoru aprīkojumam.',
+            'OLagoon izpētīja studentu vecuma grupas, mācību metodes un lietošanas biežumu, lai izprastu akadēmijas īpašās prasības iesācēju, jauniešu un instruktoru aprīkojumam.',
         },
         {
           title: 'Flotes izveide',
@@ -3076,29 +3076,29 @@ const lv: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Japāna',
             background:
-              'Kenji Nakamura (44 gadi) ir bijušais olimpiskais kanoe slaloma bronzas medaļnieks (Athens 2004) un seškārtējs Japānas čempions. Pēc sacensību karjeras beigām viņš astoņus gadus trenēja Japānas junioru kajaku komandu, līdz 2018. gadā atklāja SUP. Viņš redzēja, ka Japānā nav nevienas jaunatnes SUP programmas, neraugoties uz šī sporta veida iekļaušanu 2024. gada Paris olimpiskajās spēlēs. 2023. gadā viņš pārliecināja Kamakura pilsētu (173 000 iedzīvotāju; piejūras pilsēta 50 km uz dienvidiem no pilsētas Tokyo) atļaut viņam izmantot vēsturisko Yuigahama pludmali kā treniņu vietu. Viņam bija nepieciešams, lai Afarer piegādātu pilnīgu akadēmijas aprīkojuma komplektu: junioru dēļus, trenēšanas materiālus un virzības programmu, kuru atzītu Japānas skolas.',
+              'Kenji Nakamura (44 gadi) ir bijušais olimpiskais kanoe slaloma bronzas medaļnieks (Athens 2004) un seškārtējs Japānas čempions. Pēc sacensību karjeras beigām viņš astoņus gadus trenēja Japānas junioru kajaku komandu, līdz 2018. gadā atklāja SUP. Viņš redzēja, ka Japānā nav nevienas jaunatnes SUP programmas, neraugoties uz šī sporta veida iekļaušanu 2024. gada Paris olimpiskajās spēlēs. 2023. gadā viņš pārliecināja Kamakura pilsētu (173 000 iedzīvotāju; piejūras pilsēta 50 km uz dienvidiem no pilsētas Tokyo) atļaut viņam izmantot vēsturisko Yuigahama pludmali kā treniņu vietu. Viņam bija nepieciešams, lai OLagoon piegādātu pilnīgu akadēmijas aprīkojuma komplektu: junioru dēļus, trenēšanas materiālus un virzības programmu, kuru atzītu Japānas skolas.',
             goal: "Atklāt 'Kamakura SUP Academy' 2024. gada aprīlī ar 40 junioriem (vecumā no 10 līdz 18 gadiem), trīspakāpju sertifikācijas sistēmu (Bronza/Sudrabs/Zelts) un ceļu uz Japānas nacionālo SUP izlasi — ar aprīkojuma izmaksām zem ¥8 million ($53,000 USD) pirmajos divos gados.",
           },
           steps: [
             {
               title: 'Junioru dēļu izstrāde atbilstoši Japānas skolu sporta standartiem',
               detail:
-                '2023. gada oktobrī Afarer produktu izstrādes direktors Yuki Tanaka (Afarer birojā Osaka) kopā ar Kenji izstrādāja \'Academy Junior 10.0\' — dēli, kas īpaši veidots Āzijas jauniešu augumam (vidēji 12 gadus vecs Japānas students: 150 cm, 42 kg). Galvenās specifikācijas: 10\'0" x 30" x 4.5" (152L tilpums), svars 6,8 kg (pietiekami viegls, lai studenti to varētu nest), mīksti EVA reili (mazāk traumu riska kritienu laikā) un īss 120 cm stikla šķiedras airis (rokturis veidots mazām rokām). Afarer izgatavoja 40 dēļus Japānas nacionālajās krāsās (balts ar sarkanu saullēkta apli) un 20 rezerves dēļus. Katram dēlim bija QR kods ar saiti uz Kenji tehnikas video — studenti to skenēja pirms treniņa.',
+                '2023. gada oktobrī OLagoon produktu izstrādes direktors Yuki Tanaka (OLagoon birojā Osaka) kopā ar Kenji izstrādāja \'Academy Junior 10.0\' — dēli, kas īpaši veidots Āzijas jauniešu augumam (vidēji 12 gadus vecs Japānas students: 150 cm, 42 kg). Galvenās specifikācijas: 10\'0" x 30" x 4.5" (152L tilpums), svars 6,8 kg (pietiekami viegls, lai studenti to varētu nest), mīksti EVA reili (mazāk traumu riska kritienu laikā) un īss 120 cm stikla šķiedras airis (rokturis veidots mazām rokām). OLagoon izgatavoja 40 dēļus Japānas nacionālajās krāsās (balts ar sarkanu saullēkta apli) un 20 rezerves dēļus. Katram dēlim bija QR kods ar saiti uz Kenji tehnikas video — studenti to skenēja pirms treniņa.',
             },
             {
               title: 'Trīspakāpju sertifikācijas mācību programma un drošības protokoli',
               detail:
-                "Afarer trenēšanas konsultants Dave Kalama (ar videozvaniem no Hawaii) sadarbojās ar Kenji mācību programmas izstrādē. Bronzas pakāpe (10 nodarbības): līdzsvars uz rama ūdens, pamata airējums uz priekšu, pašglābšanās. Sudraba pakāpe (20 nodarbības): 2 km airējums ar laika uzskaiti, pagrieziens uz vietas, izpratne par vēju. Zelta pakāpe (40 nodarbības): 5 km airējums jūrā, ieiešana un izkāpšana sērfinga zonā, sacensību taktika un trenēšanas pamati. Kenji uzstāja uz drošību: Afarer nodrošināja 50 V tipa PFD glābšanas vestes (Japānā sertificētas, neona oranžas ar atstarojošām joslām), 50 saišu komplektus (spirālveida, ar ātru atbrīvošanu) un ūdensnecaurlaidīgu planšeti incidentu reģistrēšanai. Akadēmijas 'Safety First' protokols paredzēja 4:1 attiecību starp studentiem un treneriem, ar glābšanas dēli un pirmās palīdzības komplektu 30 sekunžu attālumā no jebkura studenta.",
+                "OLagoon trenēšanas konsultants Dave Kalama (ar videozvaniem no Hawaii) sadarbojās ar Kenji mācību programmas izstrādē. Bronzas pakāpe (10 nodarbības): līdzsvars uz rama ūdens, pamata airējums uz priekšu, pašglābšanās. Sudraba pakāpe (20 nodarbības): 2 km airējums ar laika uzskaiti, pagrieziens uz vietas, izpratne par vēju. Zelta pakāpe (40 nodarbības): 5 km airējums jūrā, ieiešana un izkāpšana sērfinga zonā, sacensību taktika un trenēšanas pamati. Kenji uzstāja uz drošību: OLagoon nodrošināja 50 V tipa PFD glābšanas vestes (Japānā sertificētas, neona oranžas ar atstarojošām joslām), 50 saišu komplektus (spirālveida, ar ātru atbrīvošanu) un ūdensnecaurlaidīgu planšeti incidentu reģistrēšanai. Akadēmijas 'Safety First' protokols paredzēja 4:1 attiecību starp studentiem un treneriem, ar glābšanas dēli un pirmās palīdzības komplektu 30 sekunžu attālumā no jebkura studenta.",
             },
             {
               title: 'Pilsētas domes apstiprinājums un skolu integrācijas programma',
               detail:
-                'Afarer Japānas pārstāvis Hiroshi Abe palīdzēja Kenji veiksmīgi iziet Kamakura pilsētas atļauju procesu. Tam bija nepieciešams: civiltiesiskās atbildības apdrošināšana (segums ¥100 million), pludmales zonu norobežošana (krāsaini bojas, kas iezīmē 200x50m treniņu zonu — bez pārklāšanās ar peldētāju zonām), trokšņu ierobežojumi (bez svilpšanas pēc plkst. 17.00) un atkritumu apsaimniekošanas plāns. Afarer izveidoja divvalodu japāņu/angļu drošības rokasgrāmatas un incidentu izsekošanas veidnes. Kenji noslēdza vienošanās ar 3 vietējām jaunāko klašu vidusskolām (Kamakura Daiichi, Koshigoe un Hase), piedāvājot SUP kā oficiālu ārpusskolas pulciņu — pirmo reizi Japānā. Katra skola maksāja ¥36,000 par studentu semestrī; pilsēta kompensēja 40 % ģimenēm ar zemiem ienākumiem.',
+                'OLagoon Japānas pārstāvis Hiroshi Abe palīdzēja Kenji veiksmīgi iziet Kamakura pilsētas atļauju procesu. Tam bija nepieciešams: civiltiesiskās atbildības apdrošināšana (segums ¥100 million), pludmales zonu norobežošana (krāsaini bojas, kas iezīmē 200x50m treniņu zonu — bez pārklāšanās ar peldētāju zonām), trokšņu ierobežojumi (bez svilpšanas pēc plkst. 17.00) un atkritumu apsaimniekošanas plāns. OLagoon izveidoja divvalodu japāņu/angļu drošības rokasgrāmatas un incidentu izsekošanas veidnes. Kenji noslēdza vienošanās ar 3 vietējām jaunāko klašu vidusskolām (Kamakura Daiichi, Koshigoe un Hase), piedāvājot SUP kā oficiālu ārpusskolas pulciņu — pirmo reizi Japānā. Katra skola maksāja ¥36,000 par studentu semestrī; pilsēta kompensēja 40 % ģimenēm ar zemiem ienākumiem.',
             },
             {
               title: 'Atklāšana 2024. gada aprīlī un 12 mēnešu veiktspēja',
               detail:
-                "Kamakura SUP Academy tika atklāta 2024. gada 6. aprīlī ar 43 studentiem (pārsniedzot Kenji izvirzīto 40 studentu mērķi). Līdz 2025. gada martam uzņemto studentu skaits pieauga līdz 87 (127 % no kapacitātes). Divi studenti (Sora Yamamoto, 16, un Mei Taniguchi, 15) kvalificējās Japānas junioru nacionālajai SUP izlasei un startēja 2024. gada ISA World SUP Championships, kas notika pilsētā Copenhagen. Kenji Zelta sertifikātu Japan Canoe Federation atzina par ieskaitu nacionālajā trenētāju sertifikācijā. Aprīkojuma bojājumu līmenis: 2 dēļiem bija nepieciešami nelieli vārstu remonti (novērsti 24 stundu laikā Afarer Osaka servisa centrā). Afarer un Kenji noslēdza trīs gadu partnerību, lai izstrādātu 'Academy Pro' 12.6 dēli attīstītākiem studentiem un līdz 2027. gadam paplašinātos uz 5 papildu piejūras pilsētām.",
+                "Kamakura SUP Academy tika atklāta 2024. gada 6. aprīlī ar 43 studentiem (pārsniedzot Kenji izvirzīto 40 studentu mērķi). Līdz 2025. gada martam uzņemto studentu skaits pieauga līdz 87 (127 % no kapacitātes). Divi studenti (Sora Yamamoto, 16, un Mei Taniguchi, 15) kvalificējās Japānas junioru nacionālajai SUP izlasei un startēja 2024. gada ISA World SUP Championships, kas notika pilsētā Copenhagen. Kenji Zelta sertifikātu Japan Canoe Federation atzina par ieskaitu nacionālajā trenētāju sertifikācijā. Aprīkojuma bojājumu līmenis: 2 dēļiem bija nepieciešami nelieli vārstu remonti (novērsti 24 stundu laikā OLagoon Osaka servisa centrā). OLagoon un Kenji noslēdza trīs gadu partnerību, lai izstrādātu 'Academy Pro' 12.6 dēli attīstītākiem studentiem un līdz 2027. gadam paplašinātos uz 5 papildu piejūras pilsētām.",
             },
           ],
           results: [
@@ -3113,29 +3113,29 @@ const lv: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Austrālija',
             background:
-              "Kylie Brennan (38 gadi) ir bijusī Austrālijas Ironwoman (konkurējošais sērfinga glābšanas sports), kas kopš 2019. gada vadīja 'Kylie's Paddle School' — piecu cilvēku uzņēmumu Tallebudgera Creek upē, Gold Coast. Līdz 2023. gadam viņai gadā bija 350 studentu, taču 60 % pieprasījumu nācās noraidīt, jo aprīkojuma apjomu nevarēja pietiekami paplašināt. Viņas 20 dažādu zīmolu dēļi bija nolietoti, studentu vecums svārstījās no 6 līdz 72 gadiem, un apdrošināšana prasīja 4:1 attiecību starp studentiem un treneriem, kas ierobežoja rentabilitāti. Viņa vērsās pie Afarer 2023. gada SUP Show izstādē Sydney — viņai bija vajadzīgs pilnīgs gatavs akadēmijas risinājums: pēc vecuma un izmēra pielāgoti dēļi, airi, PFD, mācību materiāli un rezervāciju sistēma, kas integrēta ar aprīkojuma sadali.",
+              "Kylie Brennan (38 gadi) ir bijusī Austrālijas Ironwoman (konkurējošais sērfinga glābšanas sports), kas kopš 2019. gada vadīja 'Kylie's Paddle School' — piecu cilvēku uzņēmumu Tallebudgera Creek upē, Gold Coast. Līdz 2023. gadam viņai gadā bija 350 studentu, taču 60 % pieprasījumu nācās noraidīt, jo aprīkojuma apjomu nevarēja pietiekami paplašināt. Viņas 20 dažādu zīmolu dēļi bija nolietoti, studentu vecums svārstījās no 6 līdz 72 gadiem, un apdrošināšana prasīja 4:1 attiecību starp studentiem un treneriem, kas ierobežoja rentabilitāti. Viņa vērsās pie OLagoon 2023. gada SUP Show izstādē Sydney — viņai bija vajadzīgs pilnīgs gatavs akadēmijas risinājums: pēc vecuma un izmēra pielāgoti dēļi, airi, PFD, mācību materiāli un rezervāciju sistēma, kas integrēta ar aprīkojuma sadali.",
             goal: "Atklāt 'Australia SUP Academy — Gold Coast' 2024. gada septembrī ar vairāk nekā 200 uzņemtiem studentiem strukturētos 8 nedēļu ceturkšņos par $499 AUD par personu, sasniedzot vismaz 85 % atjaunošanas līmeni un 95 % peļņas normu no aprīkojuma.",
           },
           steps: [
             {
               title: 'Pielāgots akadēmijas flotes dizains 4 vecuma kohortām',
               detail:
-                "Afarer Okeānijas klientu direktors Lachlan Murphy 2024. gada martā pavadīja trīs nedēļas kopā ar Kylie, analizējot viņas studentu demogrāfiju. Studenti tika sadalīti 4 kohortās: 'Paddlers' (vecumā no 6 līdz 9 gadiem, viegls 9.6'x28' dēlis, 4,2 kg, ar jautru 'Sea Dragon' grafiku), 'Juniors' (vecumā no 10 līdz 14 gadiem, 10.6'x30' dēlis, 6,5 kg), 'Adults' (vecumā no 15 līdz 55 gadiem, 11.6'x32' dēlis, 8,9 kg) un 'Seniors & Adaptive' (55 gadus un vecāki, 10.0'x34' ultrastabils dēlis ar rokas atbalsta siksnām, 9,2 kg). Afarer izveidoja katru dēli ar krāsu kodētām reila joslām (zaļa/dzeltena/zila/sarkana) tūlītējai izmēru identificēšanai un izgatavoja 120 dēļus (30 katrā kohortā). Katrā dēlī bija vieta personalizētai vārda etiķetei un progresa izsekošanas uzlīmei (studenti par apgūtajām iemaņām saņēma zīmogus).",
+                "OLagoon Okeānijas klientu direktors Lachlan Murphy 2024. gada martā pavadīja trīs nedēļas kopā ar Kylie, analizējot viņas studentu demogrāfiju. Studenti tika sadalīti 4 kohortās: 'Paddlers' (vecumā no 6 līdz 9 gadiem, viegls 9.6'x28' dēlis, 4,2 kg, ar jautru 'Sea Dragon' grafiku), 'Juniors' (vecumā no 10 līdz 14 gadiem, 10.6'x30' dēlis, 6,5 kg), 'Adults' (vecumā no 15 līdz 55 gadiem, 11.6'x32' dēlis, 8,9 kg) un 'Seniors & Adaptive' (55 gadus un vecāki, 10.0'x34' ultrastabils dēlis ar rokas atbalsta siksnām, 9,2 kg). OLagoon izveidoja katru dēli ar krāsu kodētām reila joslām (zaļa/dzeltena/zila/sarkana) tūlītējai izmēru identificēšanai un izgatavoja 120 dēļus (30 katrā kohortā). Katrā dēlī bija vieta personalizētai vārda etiķetei un progresa izsekošanas uzlīmei (studenti par apgūtajām iemaņām saņēma zīmogus).",
             },
             {
-              title: 'Instruktoru apmācības programma un Afarer sertificēts mācību saturs',
+              title: 'Instruktoru apmācības programma un OLagoon sertificēts mācību saturs',
               detail:
-                "Afarer izstrādāja 40 stundu instruktoru sertifikācijas kursu, un Kylie kļuva par pirmo vadošo trenētāju. Kurss ietvēra: katrai kohortai pielāgotas mācību metodes (piemēram, senioriem — iekāpšanas un izkāpšanas tehnikas ierobežotas kustīguma gadījumā; bērniem — spēles elementus un glābšanas iemaņas), progresa kartēšanu (katrā līmenī 12 iemaņas ar video etaloniem) un drošības pārvaldību (Gold Coast Tallebudgera Creek upē augsta plūdmaiņu laikā ir 4 mezglu straume — gidiem jāzina plūdmaiņu logi). No Kylie 15 esošajiem instruktoriem 12 pabeidza sertifikāciju; Afarer sertificēja viņus kā 'Level 1 SUP Academy Instructors'. Afarer arī nodrošināja pilnīgu sākuma komplektu katram studentam: ar zīmolu apzīmētu rash guard, ūdensnecaurlaidīgu iemaņu bukletu un žurnālu ar sasniegumu uzlīmēm.",
+                "OLagoon izstrādāja 40 stundu instruktoru sertifikācijas kursu, un Kylie kļuva par pirmo vadošo trenētāju. Kurss ietvēra: katrai kohortai pielāgotas mācību metodes (piemēram, senioriem — iekāpšanas un izkāpšanas tehnikas ierobežotas kustīguma gadījumā; bērniem — spēles elementus un glābšanas iemaņas), progresa kartēšanu (katrā līmenī 12 iemaņas ar video etaloniem) un drošības pārvaldību (Gold Coast Tallebudgera Creek upē augsta plūdmaiņu laikā ir 4 mezglu straume — gidiem jāzina plūdmaiņu logi). No Kylie 15 esošajiem instruktoriem 12 pabeidza sertifikāciju; OLagoon sertificēja viņus kā 'Level 1 SUP Academy Instructors'. OLagoon arī nodrošināja pilnīgu sākuma komplektu katram studentam: ar zīmolu apzīmētu rash guard, ūdensnecaurlaidīgu iemaņu bukletu un žurnālu ar sasniegumu uzlīmēm.",
             },
             {
               title: 'Rezervāciju sistēmas integrācija un aprīkojuma loģistika',
               detail:
-                "Afarer tehnoloģiju komanda integrēja Kylie esošo BookingKit rezervāciju sistēmu ar Afarer krājumu moduli. Katram dēlim bija RFID iezīme, kas tika nolasīta izsniegšanas un atgriešanas brīdī — tā izsekoja lietošanas stundas, nokavētas atgriešanas un apkopes vajadzības. Sistēma automātiski piešķīra pareizo dēļa izmēru, kad students rezervēja nodarbību. Afarer izstrādāja modulāru statņu sistēmu (24 dēļi uz statni, kopā 5 statņi) ar UV aizsargpārsegu un RFID lasītāju vārtiem. Gold Coast pilsētas padome piešķīra Kylie piecu gadu atļauju pastāvīgai 500 m² norobežotai teritorijai Tallebudgera Beach dienvidu galā — ievērojams sasniegums, ņemot vērā apvidū stingros piekrastes attīstības noteikumus. Afarer pārstāvis Lachlan vienojās par atļauju, izmantojot Afarer klasifikāciju 'Community Sports Facility', ko padome iepriekš nekad nebija piemērojusi SUP skolai.",
+                "OLagoon tehnoloģiju komanda integrēja Kylie esošo BookingKit rezervāciju sistēmu ar OLagoon krājumu moduli. Katram dēlim bija RFID iezīme, kas tika nolasīta izsniegšanas un atgriešanas brīdī — tā izsekoja lietošanas stundas, nokavētas atgriešanas un apkopes vajadzības. Sistēma automātiski piešķīra pareizo dēļa izmēru, kad students rezervēja nodarbību. OLagoon izstrādāja modulāru statņu sistēmu (24 dēļi uz statni, kopā 5 statņi) ar UV aizsargpārsegu un RFID lasītāju vārtiem. Gold Coast pilsētas padome piešķīra Kylie piecu gadu atļauju pastāvīgai 500 m² norobežotai teritorijai Tallebudgera Beach dienvidu galā — ievērojams sasniegums, ņemot vērā apvidū stingros piekrastes attīstības noteikumus. OLagoon pārstāvis Lachlan vienojās par atļauju, izmantojot OLagoon klasifikāciju 'Community Sports Facility', ko padome iepriekš nekad nebija piemērojusi SUP skolai.",
             },
             {
               title: '2024. gada septembra 1. ceturkšņa uzsākšana un studentu pieplūdums',
               detail:
-                "1. ceturksnis (2024. gada septembris–novembris, Austrālijas pavasaris) tika uzsākts ar 183 uzņemtiem studentiem — 91 % no 200 studentu mērķa. Kylie vadīja 28 nodarbības nedēļā ar 12 instruktoriem. Vecāku apmierinātība: 4,8/5. 2. ceturksnī (2025. gada februāris–aprīlis) uzņemto studentu skaits sasniedza 264 (132 % no mērķa). Ieņēmumi: 1. ceturksnis = $91,317 AUD; 2. ceturksnis = $131,736 AUD. Akadēmijas 'Adaptive Paddle' programma (studentiem ar invaliditāti, izstrādāta kopā ar Spinal Life Australia) uzņēma 12 studentus un ieguva 2025. gada Gold Coast Sport & Recreation balvu 'Inclusive Program of the Year'. Dēļu apkopes izmaksas: kopā $1,220 AUD par 120 dēļiem 6 mēnešos (galvenokārt spuru skrūves un vārstu vāciņi). Kylie pasūtīja 60 papildu dēļus 2025.–26. gadam un noslēdza līgumu ar Afarer par uzlabota 'Race Squad' dēļa izstrādi saviem 15 sacensīgajiem studentiem.",
+                "1. ceturksnis (2024. gada septembris–novembris, Austrālijas pavasaris) tika uzsākts ar 183 uzņemtiem studentiem — 91 % no 200 studentu mērķa. Kylie vadīja 28 nodarbības nedēļā ar 12 instruktoriem. Vecāku apmierinātība: 4,8/5. 2. ceturksnī (2025. gada februāris–aprīlis) uzņemto studentu skaits sasniedza 264 (132 % no mērķa). Ieņēmumi: 1. ceturksnis = $91,317 AUD; 2. ceturksnis = $131,736 AUD. Akadēmijas 'Adaptive Paddle' programma (studentiem ar invaliditāti, izstrādāta kopā ar Spinal Life Australia) uzņēma 12 studentus un ieguva 2025. gada Gold Coast Sport & Recreation balvu 'Inclusive Program of the Year'. Dēļu apkopes izmaksas: kopā $1,220 AUD par 120 dēļiem 6 mēnešos (galvenokārt spuru skrūves un vārstu vāciņi). Kylie pasūtīja 60 papildu dēļus 2025.–26. gadam un noslēdza līgumu ar OLagoon par uzlabota 'Race Squad' dēļa izstrādi saviem 15 sacensīgajiem studentiem.",
             },
           ],
           results: [
@@ -3147,8 +3147,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc SUP akadēmijas izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc SUP akadēmijas izvēlas OLagoon',
       items: [
         {
           title: 'Mācību pieredze',
@@ -3176,22 +3176,22 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kādi SUP dēļi ir vislabākie iesācēju mācīšanai?',
         answer:
-          'Iesācēju treniņu SUP dēļiem jābūt ar platākām platformām, lielāku tilpumu un stabiliem universāliem apveidiem, kas sniedz pārliecību, līdzsvaru un vieglu vadāmību. Afarer iesācēju dēļiem ir augstas stabilitātes platformas dizains un augstas peldspējas konstrukcija, kas izstrādāta īpaši mācību vidēm.',
+          'Iesācēju treniņu SUP dēļiem jābūt ar platākām platformām, lielāku tilpumu un stabiliem universāliem apveidiem, kas sniedz pārliecību, līdzsvaru un vieglu vadāmību. OLagoon iesācēju dēļiem ir augstas stabilitātes platformas dizains un augstas peldspējas konstrukcija, kas izstrādāta īpaši mācību vidēm.',
       },
       {
         question: 'Vai jūs piedāvājat bērnu izmēra SUP dēļus jaunatnes programmām?',
         answer:
-          'Jā, Afarer piedāvā īpašus bērnu SUP dēļus ar atbilstošu garumu, vieglu lietošanu, stabilu apveidu un bērniem draudzīgu izskatu, kas izstrādāti skolu programmām, vasaras nometnēm, junioru kursiem un ģimenes aktivitātēm.',
+          'Jā, OLagoon piedāvā īpašus bērnu SUP dēļus ar atbilstošu garumu, vieglu lietošanu, stabilu apveidu un bērniem draudzīgu izskatu, kas izstrādāti skolu programmām, vasaras nometnēm, junioru kursiem un ģimenes aktivitātēm.',
       },
       {
-        question: 'Cik izturīgi ir Afarer treniņu dēļi ikdienas mācību lietošanai?',
+        question: 'Cik izturīgi ir OLagoon treniņu dēļi ikdienas mācību lietošanai?',
         answer:
-          'Afarer treniņu dēļiem ir pastiprināti PVC materiāli, izturīga drop stitch struktūra un pastiprināti reili, kas izstrādāti, lai izturētu ikdienas lietošanu ar daudziem studentiem, biežu transportēšanu, atkārtotu piepūšanu un iesācēju kļūdas.',
+          'OLagoon treniņu dēļiem ir pastiprināti PVC materiāli, izturīga drop stitch struktūra un pastiprināti reili, kas izstrādāti, lai izturētu ikdienas lietošanu ar daudziem studentiem, biežu transportēšanu, atkārtotu piepūšanu un iesācēju kļūdas.',
       },
       {
         question: 'Vai jūs varat pielāgot dēļus ar mūsu akadēmijas zīmolradi?',
         answer:
-          'Jā, Afarer atbalsta akadēmijas logotipa pielāgošanu, krāsu saskaņošanu, dēļu numerāciju un identificēšanas sistēmas, kas veido profesionālu tēlu un atvieglo instruktoriem flotes pārvaldību.',
+          'Jā, OLagoon atbalsta akadēmijas logotipa pielāgošanu, krāsu saskaņošanu, dēļu numerāciju un identificēšanas sistēmas, kas veido profesionālu tēlu un atvieglo instruktoriem flotes pārvaldību.',
       },
       {
         question: 'Kas ir iekļauts akadēmijas flotes komplektā?',
@@ -3201,13 +3201,13 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai jūs sniedzat apkopes atbalstu treniņu aprīkojumam?',
         answer:
-          'Jā, Afarer sniedz aprīkojuma pārbaudes ceļvežus, tīrīšanas un uzglabāšanas procedūras, pamata remonta norādījumus nelieliem bojājumiem un vārstu apkopei, kā arī rezerves daļu plānošanu, lai jūsu treniņu flote būtu darbspējīga visu sezonu.',
+          'Jā, OLagoon sniedz aprīkojuma pārbaudes ceļvežus, tīrīšanas un uzglabāšanas procedūras, pamata remonta norādījumus nelieliem bojājumiem un vārstu apkopei, kā arī rezerves daļu plānošanu, lai jūsu treniņu flote būtu darbspējīga visu sezonu.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu SUP akadēmijas floti kopā ar Afarer',
+      title: 'Izveidojiet savu SUP akadēmijas floti kopā ar OLagoon',
       subtitle:
-        'Jūsu studentu pirmā SUP pieredze ir svarīga. Izvēlieties aprīkojumu, kas izstrādāts, lai palīdzētu viņiem mācīties droši un pārliecināti. Afarer palīdz SUP skolām, jaunatnes akadēmijām, vasaras nometnēm un āra izglītības organizācijām izveidot profesionālas treniņu programmas.',
+        'Jūsu studentu pirmā SUP pieredze ir svarīga. Izvēlieties aprīkojumu, kas izstrādāts, lai palīdzētu viņiem mācīties droši un pārliecināti. OLagoon palīdz SUP skolām, jaunatnes akadēmijām, vasaras nometnēm un āra izglītības organizācijām izveidot profesionālas treniņu programmas.',
       primaryAction: {
         text: 'Sāciet savu SUP akadēmijas projektu jau šodien',
       },
@@ -3228,9 +3228,9 @@ const lv: Record<string, SolutionOverride> = {
       title:
         'Premium portatīvie ūdenssporta risinājumi kruīza līnijām, jahtu kompānijām un jūras viesnīcniecības zīmoliem',
       subtitle:
-        'Afarer piedāvā Luksusa portatīvā SUP komplekta risinājumus, kas izstrādāti īpaši kruīzu kompānijām, ekspedīciju kruīzu operatoriem, jahtu čartera kompānijām, superrahtu īpašniekiem un marinu aktivitāšu pakalpojumu sniedzējiem. Mēs piegādājam ultraportatīvus piepūšamā SUP dizainus ar jūras klases komponentēm un luksusa pielāgošanu.',
+        'OLagoon piedāvā Luksusa portatīvā SUP komplekta risinājumus, kas izstrādāti īpaši kruīzu kompānijām, ekspedīciju kruīzu operatoriem, jahtu čartera kompānijām, superrahtu īpašniekiem un marinu aktivitāšu pakalpojumu sniedzējiem. Mēs piegādājam ultraportatīvus piepūšamā SUP dizainus ar jūras klases komponentēm un luksusa pielāgošanu.',
       image: {
-        alt: 'Afarer luksusa portatīvais SUP komplekts jahtām un kruīza kuģiem',
+        alt: 'OLagoon luksusa portatīvais SUP komplekts jahtām un kruīza kuģiem',
       },
     },
     challenge: {
@@ -3264,7 +3264,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Ultraportatīvs piepūšamā SUP dizains',
           description:
-            'Piepūšamā SUP tehnoloģija sniedz būtisku priekšrocību jahtām un kruīzu operatoriem. Afarer dēļiem ir kompaktas salokāšanas sistēmas mazam glabāšanas tilpumam, viegla transportēšana ātrākai izvietošanai un pilni ceļojuma komplekti, ietverot dēli, salokāmu airi, sūkni un mugursomu.',
+            'Piepūšamā SUP tehnoloģija sniedz būtisku priekšrocību jahtām un kruīzu operatoriem. OLagoon dēļiem ir kompaktas salokāšanas sistēmas mazam glabāšanas tilpumam, viegla transportēšana ātrākai izvietošanai un pilni ceļojuma komplekti, ietverot dēli, salokāmu airi, sūkni un mugursomu.',
           features: [
             'Kompakta salokāšanas sistēma',
             'Viegla transportēšana',
@@ -3275,7 +3275,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Jūras klases materiālu izvēle',
           description:
-            'Afarer izmanto pret sālsūdeni izturīgas komponentes ar pret koroziju izturīgu furnitūru, UV izturīgu konstrukciju saules iedarbībai un pastiprinātu SUP struktūru ar izturīgiem PVC slāņiem un stipru drop stitch kodolu, kas izstrādāts īpaši okeāna videi.',
+            'OLagoon izmanto pret sālsūdeni izturīgas komponentes ar pret koroziju izturīgu furnitūru, UV izturīgu konstrukciju saules iedarbībai un pastiprinātu SUP struktūru ar izturīgiem PVC slāņiem un stipru drop stitch kodolu, kas izstrādāts īpaši okeāna videi.',
           features: [
             'Pret sālsūdeni izturīgas komponentes',
             'UV izturīga konstrukcija',
@@ -3286,7 +3286,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Luksusa jahtu un kruīzu pielāgošana',
           description:
-            'Premium jūras biznesam izskats ir svarīgs. Afarer atbalsta pielāgotu zīmolvedību ar jahtu logotipiem un kruīzu kompānijas identitāti, premium krāsu dizainu jahtu luksusa, ekspedīciju piedzīvojumu vai kūrortu jūras stilā, kā arī zīmolētus aprīkojuma komplektus ar saderīgiem airiem un pielāgotām somām.',
+            'Premium jūras biznesam izskats ir svarīgs. OLagoon atbalsta pielāgotu zīmolvedību ar jahtu logotipiem un kruīzu kompānijas identitāti, premium krāsu dizainu jahtu luksusa, ekspedīciju piedzīvojumu vai kūrortu jūras stilā, kā arī zīmolētus aprīkojuma komplektus ar saderīgiem airiem un pielāgotām somām.',
           features: [
             'Pielāgota jahtu un kruīzu zīmolvedība',
             'Premium krāsu dizains',
@@ -3297,27 +3297,27 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Jahtu čartera SUP komplekts',
           description:
-            'Jahtu viesi sagaida ērtības un ekskluzivitāti. Afarer atbalsta privātus čartera aprīkojuma komplektus superrahtām, katamarāniem un buru jahtām ar viesiem draudzīgu lietošanu iesācējiem un ģimenēm, kārtīgu glabāšanu un premium prezentāciju ar luksusa izskatu.',
+            'Jahtu viesi sagaida ērtības un ekskluzivitāti. OLagoon atbalsta privātus čartera aprīkojuma komplektus superrahtām, katamarāniem un buru jahtām ar viesiem draudzīgu lietošanu iesācējiem un ģimenēm, kārtīgu glabāšanu un premium prezentāciju ar luksusa izskatu.',
         },
         {
           title: 'Ekspedīciju kruīzu ūdens aktivitāšu risinājumi',
           description:
-            'Piedzīvojumu kruīziem nepieciešams elastīgs aprīkojums salu apmeklējumiem, piekrastes izpētei un dabas ekskursijām. Afarer risinājumi atbalsta darbību attālās vietās ar vieglu transportēšanu un kompaktu glabāšanu, kā arī grupu aktivitāšu programmas mazām grupām un vadītām ekskursijām.',
+            'Piedzīvojumu kruīziem nepieciešams elastīgs aprīkojums salu apmeklējumiem, piekrastes izpētei un dabas ekskursijām. OLagoon risinājumi atbalsta darbību attālās vietās ar vieglu transportēšanu un kompaktu glabāšanu, kā arī grupu aktivitāšu programmas mazām grupām un vadītām ekskursijām.',
         },
         {
           title: 'Pilnīgi glabāšanas risinājumi uz borta',
           description:
-            'Afarer izprot jūras telpas ierobežojumus un piedāvā kompakta glabāšanas plānošanu dēļu un piederumu kārtošanai, aizsardzības sistēmas ar glabāšanas somām un darbības efektivitāti, kas palīdz apkalpei ātrāk sagatavoties un vieglāk pārvaldīt aprīkojumu.',
+            'OLagoon izprot jūras telpas ierobežojumus un piedāvā kompakta glabāšanas plānošanu dēļu un piederumu kārtošanai, aizsardzības sistēmas ar glabāšanas somām un darbības efektivitāti, kas palīdz apkalpei ātrāk sagatavoties un vieglāk pārvaldīt aprīkojumu.',
         },
         {
           title: 'Apkalpes apmācība un apkopes atbalsts',
           description:
-            'Afarer sniedz apkalpes lietošanas pamācības, kas aptver piepūšanas procedūras, aprīkojuma lietošanu un tīrīšanas metodes, kā arī apkopes ieteikumus sālsūdens tīrīšanai, žāvēšanas procedūrām un glabāšanas praksei ar pārbaudes kontrolsarakstiem pirms un pēc aktivitātēm.',
+            'OLagoon sniedz apkalpes lietošanas pamācības, kas aptver piepūšanas procedūras, aprīkojuma lietošanu un tīrīšanas metodes, kā arī apkopes ieteikumus sālsūdens tīrīšanai, žāvēšanas procedūrām un glabāšanas praksei ar pārbaudes kontrolsarakstiem pirms un pēc aktivitātēm.',
         },
         {
           title: 'Premium ūdens pieredzes dizains',
           description:
-            'SUP var kļūt par luksusa pieredzes paketes daļu. Afarer palīdz veidot saulrieta jahtu SUP pieredzes pāriem un VIP viesiem, privātu salu izpēti čartera klientiem, okeāna labsajūtas programmas luksusa kruīziem un jūras eko pieredzes ekspedīciju kruīziem.',
+            'SUP var kļūt par luksusa pieredzes paketes daļu. OLagoon palīdz veidot saulrieta jahtu SUP pieredzes pāriem un VIP viesiem, privātu salu izpēti čartera klientiem, okeāna labsajūtas programmas luksusa kruīziem un jūras eko pieredzes ekspedīciju kruīziem.',
         },
       ],
     },
@@ -3333,7 +3333,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Produktu plānošana',
           detail:
-            'Afarer izstrādāja Luksusa portatīvo SUP komplektu, pamatojoties uz jahtas glabāšanas ierobežojumiem, viesu pieredzes prasībām un Vidusjūras jūras vidi.',
+            'OLagoon izstrādāja Luksusa portatīvo SUP komplektu, pamatojoties uz jahtas glabāšanas ierobežojumiem, viesu pieredzes prasībām un Vidusjūras jūras vidi.',
         },
         {
           title: 'Produktu pielāgošana',
@@ -3371,29 +3371,29 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Arktikas lauka testēšana Kongsfjorden 79° ziemeļu platuma',
               detail:
-                '2024. gada maijā Afarer ekstremālo vides apstākļu komanda (vadošais inženieris Sven Lehmann no Afarer biroja Hamburgā) pievienojās Hurtigruten kuģim MS Maud 14 dienu Svalbard reisā. Viņi testēja 8 konkurentu dēļus un 6 Afarer Arktikas prototipus 11 Zodiac izvietošanas reizēs pie Ny-Ålesund un Monako ledāja. Galvenie atklājumi — standarta vārsti sasala vaļā -8°C gaisā pēc iegremdēšanas 2°C ūdenī (siltais ūdens vārsta stienī atkārtoti sasala saskarē ar auksto gaisu). Afarer risinājums — slāpekļa izpūšanas vārsta sistēma, kas pirms aizvēršanas izspiež visu mitrumu, kā arī neopēna vārsta pārvalks. Dēļu materiāls — standarta PVC pie -15°C zaudēja 40% elastības, savukārt Afarer Polarex TPU maisījums pie -20°C saglabāja 92% elastības. Dēļiem bija jāuzpūšas mazāk nekā 7 minūtēs (viesu pacietības robeža aukstos apstākļos) un jāizsūcas un jāiepakojas 5 minūtēs (lai mazinātu polārlāču ietekmes logu). Afarer 2 pakāpju sūknis (rokas sūknis pirmajiem 10 PSI, slāpekļa baloniņa pastiprinātājs līdz 18 PSI) sasniedza 6,2 minūšu piepūšanu.',
+                '2024. gada maijā OLagoon ekstremālo vides apstākļu komanda (vadošais inženieris Sven Lehmann no OLagoon biroja Hamburgā) pievienojās Hurtigruten kuģim MS Maud 14 dienu Svalbard reisā. Viņi testēja 8 konkurentu dēļus un 6 OLagoon Arktikas prototipus 11 Zodiac izvietošanas reizēs pie Ny-Ålesund un Monako ledāja. Galvenie atklājumi — standarta vārsti sasala vaļā -8°C gaisā pēc iegremdēšanas 2°C ūdenī (siltais ūdens vārsta stienī atkārtoti sasala saskarē ar auksto gaisu). OLagoon risinājums — slāpekļa izpūšanas vārsta sistēma, kas pirms aizvēršanas izspiež visu mitrumu, kā arī neopēna vārsta pārvalks. Dēļu materiāls — standarta PVC pie -15°C zaudēja 40% elastības, savukārt OLagoon Polarex TPU maisījums pie -20°C saglabāja 92% elastības. Dēļiem bija jāuzpūšas mazāk nekā 7 minūtēs (viesu pacietības robeža aukstos apstākļos) un jāizsūcas un jāiepakojas 5 minūtēs (lai mazinātu polārlāču ietekmes logu). OLagoon 2 pakāpju sūknis (rokas sūknis pirmajiem 10 PSI, slāpekļa baloniņa pastiprinātājs līdz 18 PSI) sasniedza 6,2 minūšu piepūšanu.',
             },
             {
               title: "'Polar Explorer' komplekts ar Zodiac integrāciju un drošības sistēmām",
               detail:
-                "Afarer izstrādāja 'Polar Explorer 12.0' ar īpašiem Arktikas pielāgojumiem — spilgti starptautiski oranža krāsa (redzama pret ledu no 2 km ar binokli), atstarojošas SOLAS klases lentes, iebūvēta glābšanas cilpa ar 600 kg noturību (Zodiac vilkšanas atgūšanai) un GPS bākas kabata dēļa degunā (Hurtigruten nodrošināja Garmin inReach Mini 2 ierīces). Komplektā ietilpa ar sausā tērpa saderīga piepūšama PFD (Mustang Survival HIT, kuru Afarer testēja kustību brīvībai airējot), neopēna pogie komplekts (rokas sildītāji integrēti aira kātā) un pielāgota mugursoma, kas ietilpst Zodiac glabāšanas nodalījumā (60x30x30 cm iepakojuma izmērs). Zodiac izvietošanas sistēma — statnis ar jockey riteni, kas piestiprināts pie Zodiac pontona, ļāva vienam gidam iebīdīt dēļus ūdenī bez celšanas.",
+                "OLagoon izstrādāja 'Polar Explorer 12.0' ar īpašiem Arktikas pielāgojumiem — spilgti starptautiski oranža krāsa (redzama pret ledu no 2 km ar binokli), atstarojošas SOLAS klases lentes, iebūvēta glābšanas cilpa ar 600 kg noturību (Zodiac vilkšanas atgūšanai) un GPS bākas kabata dēļa degunā (Hurtigruten nodrošināja Garmin inReach Mini 2 ierīces). Komplektā ietilpa ar sausā tērpa saderīga piepūšama PFD (Mustang Survival HIT, kuru OLagoon testēja kustību brīvībai airējot), neopēna pogie komplekts (rokas sildītāji integrēti aira kātā) un pielāgota mugursoma, kas ietilpst Zodiac glabāšanas nodalījumā (60x30x30 cm iepakojuma izmērs). Zodiac izvietošanas sistēma — statnis ar jockey riteni, kas piestiprināts pie Zodiac pontona, ļāva vienam gidam iebīdīt dēļus ūdenī bez celšanas.",
             },
             {
               title: 'Polārlāču drošības protokoli un gidu apmācības programma',
               detail:
-                "Afarer drošības konsultants, bijušais Svalbard gubernatora biroja drošības padomnieks Bjørn Viken, kopīgi izstrādāja 3 dienu apmācības programmu 12 Hurtigruten gidiem. 'Arctic Paddle Safety Protocol' ietvēra polārlāču novērošanas rotāciju (viens gids atbildīgs par lāču pamanīšanu ar .308 kalibra šauteni un signalizācijas pistoli — standarta Svalbard prasība), grupas formējumu (frontālā ierindā 50 metru attālumā, nekad tālāk par 200 metriem no Zodiac), ātru evakuāciju (pilnas grupas atgriešanās uz laivas mazāk nekā 90 sekundēs, trenēta ik nedēļu) un avārijas hipotermijas reaģēšanu. Afarer nodrošināja ūdensizturīgas laminētas ātro atsauču kartes katram gidam. Katra sesija tika ierobežota līdz 8 viesiem ar 2 gidiem un 1 apbruņotu drošības Zodiac 100 metru attālumā. Polārlāču pamanīšana airēšanas laikā — 2 incidenti 2024. gada sezonā, abi atrisināti ar signalizācijas brīdinājuma šāvieniem, bez ievainojumiem. Viesi novērtēja 'drošības pārliecību' ar 4.9/5.",
+                "OLagoon drošības konsultants, bijušais Svalbard gubernatora biroja drošības padomnieks Bjørn Viken, kopīgi izstrādāja 3 dienu apmācības programmu 12 Hurtigruten gidiem. 'Arctic Paddle Safety Protocol' ietvēra polārlāču novērošanas rotāciju (viens gids atbildīgs par lāču pamanīšanu ar .308 kalibra šauteni un signalizācijas pistoli — standarta Svalbard prasība), grupas formējumu (frontālā ierindā 50 metru attālumā, nekad tālāk par 200 metriem no Zodiac), ātru evakuāciju (pilnas grupas atgriešanās uz laivas mazāk nekā 90 sekundēs, trenēta ik nedēļu) un avārijas hipotermijas reaģēšanu. OLagoon nodrošināja ūdensizturīgas laminētas ātro atsauču kartes katram gidam. Katra sesija tika ierobežota līdz 8 viesiem ar 2 gidiem un 1 apbruņotu drošības Zodiac 100 metru attālumā. Polārlāču pamanīšana airēšanas laikā — 2 incidenti 2024. gada sezonā, abi atrisināti ar signalizācijas brīdinājuma šāvieniem, bez ievainojumiem. Viesi novērtēja 'drošības pārliecību' ar 4.9/5.",
             },
             {
               title: '2024. gada jūnija-septembra Arktikas sezonas uzsākšana un rezultāti',
               detail:
-                "60 dēļu flote tika izvietota uz 4 kuģiem, sākot ar 2024. gada 1. jūniju. Katrs kuģis piedāvāja 3 airēšanas sesijas nedēļā (atkarībā no laika apstākļiem, katra 90 minūtes). Kopējais sesiju skaits 2024. gada sezonā — 288 sesijas visos kuģos (4 kuģi × 3/nedēļā × 24 nedēļas). Vidējais aizpildījums — 7,2 viesi sesijā (90% no 8 viesu ietilpības). Ieņēmumi — 288 × 7.2 × $450 (premium ekskursiju cenas) = $933,120 USD. Dēļu veiktspēja — nulle katastrofālu bojājumu. Viens dēlis cieta 3 cm caurdurumu no jūras ledus (ass brash ledus fragments), kas tika salabots ar Arktikas klases remonta komplektu 8 minūtēs Zodiac dreifa laikā. Vārsti darbojās nevainojami 288 piepūšanas/izsūkšanas ciklos. Viesu atsauksmes — 4.93/5 vidējais vērtējums. 83% viesu atzina, ka SUP pieredze bija 'reisa spožākais brīdis'. Erik pasūtīja 40 papildu dēļus 2025. gada sezonai un lūdza Afarer izstrādāt 'Twin' modeli tandēma airēšanai Arktikā.",
+                "60 dēļu flote tika izvietota uz 4 kuģiem, sākot ar 2024. gada 1. jūniju. Katrs kuģis piedāvāja 3 airēšanas sesijas nedēļā (atkarībā no laika apstākļiem, katra 90 minūtes). Kopējais sesiju skaits 2024. gada sezonā — 288 sesijas visos kuģos (4 kuģi × 3/nedēļā × 24 nedēļas). Vidējais aizpildījums — 7,2 viesi sesijā (90% no 8 viesu ietilpības). Ieņēmumi — 288 × 7.2 × $450 (premium ekskursiju cenas) = $933,120 USD. Dēļu veiktspēja — nulle katastrofālu bojājumu. Viens dēlis cieta 3 cm caurdurumu no jūras ledus (ass brash ledus fragments), kas tika salabots ar Arktikas klases remonta komplektu 8 minūtēs Zodiac dreifa laikā. Vārsti darbojās nevainojami 288 piepūšanas/izsūkšanas ciklos. Viesu atsauksmes — 4.93/5 vidējais vērtējums. 83% viesu atzina, ka SUP pieredze bija 'reisa spožākais brīdis'. Erik pasūtīja 40 papildu dēļus 2025. gada sezonai un lūdza OLagoon izstrādāt 'Twin' modeli tandēma airēšanai Arktikā.",
             },
           ],
           results: [
             '$933,120 ieņēmumi no 288 SUP sesijām vienā 4 mēnešu Arktikas sezonā ar 90% noslodzes izmantojumu',
             'Nulle katastrofālu dēļu bojājumu 288 sesijās ekstremos Arktikas apstākļos; 1 neliels ledus caurdurums salabots uz borta 8 minūtēs',
             "Viesu apmierinātība 4.93/5; 83% vērtēja SUP pieredzi kā 'reisa spožāko brīdi'; kuģi pievienoja SUP kā pastāvīgu ekskursiju kategoriju",
-            'Afarer ieguva 3 gadu ekskluzīvu partnerību visām Hurtigruten Svalbard operācijām; 40 papildu dēļi pasūtīti 2025. gada sezonai',
+            'OLagoon ieguva 3 gadu ekskluzīvu partnerību visām Hurtigruten Svalbard operācijām; 40 papildu dēļi pasūtīti 2025. gada sezonai',
           ],
         },
         {
@@ -3408,36 +3408,36 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '2024. gada marta salas novērtēšana un individuāla dizaina konsultācija',
               detail:
-                "Afarer luksusa nodaļas direktors Philippe Moreau un vecākā dizainere Amira Al Hashimi pavadīja 4 dienas Al Nabigha salā. Viņi dokumentēja katru detaļu — villu interjerus (mūsdienīgs arābu dizains ar krēmkrāsas, smilšu un zelta toņiem), koraļļu dārza krāsu paleti (tirkīza, teāla un koraļļu rozā toņi), pēc pantone saskaņotu marinas koka tonējumu un pat ģimenes porcelāna rakstu (Wedgwood 'Middle East Pearl'). Philippe un Amira piedāvāja unikālu estētiku — dēļus, kas atbilst salas faktiskajām rifu krāsām, ar Al Nabigha ģimenes ģerboņa (falkons virs dateļpalmas) reljefu no 24 karātu zelta folijas zem caurspīdīga epoksīda. Glabāšana bija ierobežojums — Hamdana esošajā pludmales kabīnē bija tikai 8 kubikmetri tam, kas būtu 20 dēļi. Afarer piedāvāja pielāgotus teka koka skapjus ar atsevišķiem ventilētiem atvilktnēm, kur katrs dēlis tiek satīts un glabāts ar mitruma sensoru.",
+                "OLagoon luksusa nodaļas direktors Philippe Moreau un vecākā dizainere Amira Al Hashimi pavadīja 4 dienas Al Nabigha salā. Viņi dokumentēja katru detaļu — villu interjerus (mūsdienīgs arābu dizains ar krēmkrāsas, smilšu un zelta toņiem), koraļļu dārza krāsu paleti (tirkīza, teāla un koraļļu rozā toņi), pēc pantone saskaņotu marinas koka tonējumu un pat ģimenes porcelāna rakstu (Wedgwood 'Middle East Pearl'). Philippe un Amira piedāvāja unikālu estētiku — dēļus, kas atbilst salas faktiskajām rifu krāsām, ar Al Nabigha ģimenes ģerboņa (falkons virs dateļpalmas) reljefu no 24 karātu zelta folijas zem caurspīdīga epoksīda. Glabāšana bija ierobežojums — Hamdana esošajā pludmales kabīnē bija tikai 8 kubikmetri tam, kas būtu 20 dēļi. OLagoon piedāvāja pielāgotus teka koka skapjus ar atsevišķiem ventilētiem atvilktnēm, kur katrs dēlis tiek satīts un glabāts ar mitruma sensoru.",
             },
             {
               title: "'Royal Heritage' pielāgota ražošana un klusā elektriskā infrastruktūra",
               detail:
-                "Afarer Xiamen ražotne atvēlēja atsevišķu ražošanas līniju Al Nabigha pasūtījumam. Katrs dēlis tika klāts ar roku ar pielāgoti krāsotu PVC 'Arabian Teal' — pielāgotā Pantone krāsa (PMS 7712 C), saskaņota ar salas dziļākajām rifu zonām. Zelta folijas reljefs — 0,5 mikronu 24K zelts ap ģimenes ģerboni, aizsargāts ar 3 jūras klases UV cietēta epoksīda kārtām. Afarer atlasīja klusas elektriskās sūknes (JOBE Aero, modificētas ar trokšņa slāpējošiem korpusiem, kas samazina darbību līdz 38 dB — klusāk nekā salas apkārtējā viļņu skaņa). Katras sūknes strāvas vads tika apvīts ar krēmkrāsas audumu, lai saderētu ar villu dekoru. 20 airu komplekts — pielāgoti oglekļa šķiedras kāti matētā krēmkrāsā ar 24K zelta joslu pie savienojuma un asmeni, kas roku darbā apgleznoti ar koraļļu rifu motīviem, to veica Xiamen jūras māksliniece Liao Fang. Mitruma kontrolēts glabāšanas skapis tika izgatavots Afarer galdniecības partnera Milānā, piegādāts plakani saliekams un samontēts uz salas.",
+                "OLagoon Xiamen ražotne atvēlēja atsevišķu ražošanas līniju Al Nabigha pasūtījumam. Katrs dēlis tika klāts ar roku ar pielāgoti krāsotu PVC 'Arabian Teal' — pielāgotā Pantone krāsa (PMS 7712 C), saskaņota ar salas dziļākajām rifu zonām. Zelta folijas reljefs — 0,5 mikronu 24K zelts ap ģimenes ģerboni, aizsargāts ar 3 jūras klases UV cietēta epoksīda kārtām. OLagoon atlasīja klusas elektriskās sūknes (JOBE Aero, modificētas ar trokšņa slāpējošiem korpusiem, kas samazina darbību līdz 38 dB — klusāk nekā salas apkārtējā viļņu skaņa). Katras sūknes strāvas vads tika apvīts ar krēmkrāsas audumu, lai saderētu ar villu dekoru. 20 airu komplekts — pielāgoti oglekļa šķiedras kāti matētā krēmkrāsā ar 24K zelta joslu pie savienojuma un asmeni, kas roku darbā apgleznoti ar koraļļu rifu motīviem, to veica Xiamen jūras māksliniece Liao Fang. Mitruma kontrolēts glabāšanas skapis tika izgatavots OLagoon galdniecības partnera Milānā, piegādāts plakani saliekams un samontēts uz salas.",
             },
             {
               title: 'Premium servisa protokols un personāla apmācība',
               detail:
-                "Saeed Al Mazrouei izvēlējās 6 salas darbiniekus (3 sulaiņus, 2 pludmales apkalpotājus, 1 marinas darbinieku) Afarer premium servisa apmācībai 2024. gada maijā. 5 dienu programma ietvēra viesu sagaidīšanu (dēļi pasniedzami uz rotangpalmas statņa, nekad neliekami uz zemes), piepūšanas ceremoniju (sūknis ieslēdzas pirms viesa ierašanās — dēlis gatavs, līdz viesis nonāk pludmalē, izmērītas 11,5 minūtes no sūkņa starta līdz pilnām 15 PSI), personīgo pielāgošanu (pareizs aira augstums, siksnas piestiprināšana, PFD izmērs — jābūt diskrētam, tāpēc Afarer piegādāja pielāgotu krāsu piepūšamas PFD krēmkrāsā ar matēta zelta furnitūru) un kopšanu pēc sesijas (dēlis noslaucīts ar pH neitrālu līdzekli, UV aizsardzība uzklāta ik pēc 5 sesijām, vārsts pārbaudīts un dēlis atkal satīts atvilktnē 8 minūšu laikā pēc viesu aiziešanas). Protokola rokasgrāmata (45 lappuses, iesieta ādā ar zelta apmalēm) glabājas kabīnes slēptajā seifā. Hamdana atsauksme pēc apmācības — 'Šādi jāapietas ar aprīkojumu.'",
+                "Saeed Al Mazrouei izvēlējās 6 salas darbiniekus (3 sulaiņus, 2 pludmales apkalpotājus, 1 marinas darbinieku) OLagoon premium servisa apmācībai 2024. gada maijā. 5 dienu programma ietvēra viesu sagaidīšanu (dēļi pasniedzami uz rotangpalmas statņa, nekad neliekami uz zemes), piepūšanas ceremoniju (sūknis ieslēdzas pirms viesa ierašanās — dēlis gatavs, līdz viesis nonāk pludmalē, izmērītas 11,5 minūtes no sūkņa starta līdz pilnām 15 PSI), personīgo pielāgošanu (pareizs aira augstums, siksnas piestiprināšana, PFD izmērs — jābūt diskrētam, tāpēc OLagoon piegādāja pielāgotu krāsu piepūšamas PFD krēmkrāsā ar matēta zelta furnitūru) un kopšanu pēc sesijas (dēlis noslaucīts ar pH neitrālu līdzekli, UV aizsardzība uzklāta ik pēc 5 sesijām, vārsts pārbaudīts un dēlis atkal satīts atvilktnē 8 minūšu laikā pēc viesu aiziešanas). Protokola rokasgrāmata (45 lappuses, iesieta ādā ar zelta apmalēm) glabājas kabīnes slēptajā seifā. Hamdana atsauksme pēc apmācības — 'Šādi jāapietas ar aprīkojumu.'",
             },
             {
               title:
                 '2024. gada jūnija piegāde un pirmā VIP nedēļas nogale (Prince Andrew atceltā vizīte aizstāta ar Kataras emīru)',
               detail:
-                "Pirmā pilnā flotes izvietošana notika Kataras emīra Tamim bin Hamad Al Thani un viņa ģimenes valsts vizītei 2024. gada 24. jūnijā (sākotnēji plānota Lielbritānijas karaliskās ģimenes loceklim, kurš atcēla dalību). Seši SUP līdz 7:30 no rīta bija uzstādīti privātajā pludmalē. Emīra 14 gadus vecais dēls Sheikh Jassim trīs stundas airēja ar jūras bioloģijas gidu (arī Afarer īpaši apmācītu), izpētot koraļļu dārzu. Hamdan ziņoja — 'Emīra dēls teica, ka tā bija labākā vizītes daļa.' Otra izvietošana 2024. gada oktobrī 12 viesiem no Saūda Arābijas Karaliskā galma ietvēra saulrieta airēšanu ar šampanieša servisu (flakones Afarer pielāgotajā dzērienu turētājā, kas izstrādāts tā, lai neapgāztos kuģa saceltajos viļņos). Līdz 2025. gada martam dēļi bija lietoti 47 reizes bez bojājumiem, bez apkopes incidentiem un bez viesu sūdzībām. Hamdan pasūtīja 8 papildu dēļus ģimenes privātajai jahtai (65 metru 'Al Nabigha Star') un uzdeva Afarer izstrādāt zelta folijas airu sēriju UAE Nacionālās dienas svinībām.",
+                "Pirmā pilnā flotes izvietošana notika Kataras emīra Tamim bin Hamad Al Thani un viņa ģimenes valsts vizītei 2024. gada 24. jūnijā (sākotnēji plānota Lielbritānijas karaliskās ģimenes loceklim, kurš atcēla dalību). Seši SUP līdz 7:30 no rīta bija uzstādīti privātajā pludmalē. Emīra 14 gadus vecais dēls Sheikh Jassim trīs stundas airēja ar jūras bioloģijas gidu (arī OLagoon īpaši apmācītu), izpētot koraļļu dārzu. Hamdan ziņoja — 'Emīra dēls teica, ka tā bija labākā vizītes daļa.' Otra izvietošana 2024. gada oktobrī 12 viesiem no Saūda Arābijas Karaliskā galma ietvēra saulrieta airēšanu ar šampanieša servisu (flakones OLagoon pielāgotajā dzērienu turētājā, kas izstrādāts tā, lai neapgāztos kuģa saceltajos viļņos). Līdz 2025. gada martam dēļi bija lietoti 47 reizes bez bojājumiem, bez apkopes incidentiem un bez viesu sūdzībām. Hamdan pasūtīja 8 papildu dēļus ģimenes privātajai jahtai (65 metru 'Al Nabigha Star') un uzdeva OLagoon izstrādāt zelta folijas airu sēriju UAE Nacionālās dienas svinībām.",
             },
           ],
           results: [
             '20 dēļu flote izvietota 47 VIP viesu sesijām pirmajos 9 mēnešos bez apkopes incidentiem vai viesu sūdzībām',
             'Vidēji 11,5 minūšu uzstādīšanas laiks klusajai elektriskajai sūkņu sistēmai; savākšana pēc sesijas pabeigta 8 minūtēs — abi rādītāji pārsniedz 15 minūšu luksusa servisa standartu',
             'Pielāgotie glabāšanas skapji uzturēja 58% vidējo mitrumu (optimāli PVC); nulle pelējuma vai materiālu degradācijas',
-            "Papildu pasūtījums uz 8 dēļiem ģimenes jahtai 'Al Nabigha Star'; Afarer uzdots izstrādāt ekskluzīvo UAE Nacionālās dienas 2025 zelta folijas airu sēriju",
+            "Papildu pasūtījums uz 8 dēļiem ģimenes jahtai 'Al Nabigha Star'; OLagoon uzdots izstrādāt ekskluzīvo UAE Nacionālās dienas 2025 zelta folijas airu sēriju",
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc kruīzu un jahtu kompānijas izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc kruīzu un jahtu kompānijas izvēlas OLagoon',
       items: [
         {
           title: 'Jūras vide',
@@ -3463,19 +3463,19 @@ const lv: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Cik kompakts ir Afarer SUP dēļi, salocīti glabāšanai jahtā?',
+        question: 'Cik kompakts ir OLagoon SUP dēļi, salocīti glabāšanai jahtā?',
         answer:
-          'Afarer luksusa portatīvajiem SUP dēļiem ir kompakta salokāšanas sistēma, kas būtiski samazina glabāšanas tilpumu — tie viegli ietilpst jahtu kajītēs, glabāšanas nodalījumos un ekspedīciju kuģos. Katrs dēlis tiek iepakots mugursomā kopā ar visiem piederumiem.',
+          'OLagoon luksusa portatīvajiem SUP dēļiem ir kompakta salokāšanas sistēma, kas būtiski samazina glabāšanas tilpumu — tie viegli ietilpst jahtu kajītēs, glabāšanas nodalījumos un ekspedīciju kuģos. Katrs dēlis tiek iepakots mugursomā kopā ar visiem piederumiem.',
       },
       {
-        question: 'Vai Afarer SUP dēļi ir izturīgi pret sālsūdeni un UV bojājumiem?',
+        question: 'Vai OLagoon SUP dēļi ir izturīgi pret sālsūdeni un UV bojājumiem?',
         answer:
-          'Jā, Afarer izmanto jūras klases materiālus, tostarp pret sālsūdeni izturīgas komponentes, pret koroziju izturīgu furnitūru, UV izturīgu konstrukciju un izturīgus PVC slāņus, kas īpaši izstrādāti, lai izturētu okeāna vidi, mitrumu un saules iedarbību.',
+          'Jā, OLagoon izmanto jūras klases materiālus, tostarp pret sālsūdeni izturīgas komponentes, pret koroziju izturīgu furnitūru, UV izturīgu konstrukciju un izturīgus PVC slāņus, kas īpaši izstrādāti, lai izturētu okeāna vidi, mitrumu un saules iedarbību.',
       },
       {
         question: 'Vai jūs varat pielāgot SUP dēļus ar manas jahtas vai kruīzu kompānijas zīmolvedību?',
         answer:
-          'Jā, Afarer piedāvā pilnu pielāgošanu, tostarp jahtu logotipus, kruīzu kompānijas identitāti, premium krāsu dizainu dažādos stilos, saderīgus zīmolētus airus, pielāgotas somas un pilnus aprīkojuma komplektus, kas atspoguļo jūsu zīmola luksusa pozicionējumu.',
+          'Jā, OLagoon piedāvā pilnu pielāgošanu, tostarp jahtu logotipus, kruīzu kompānijas identitāti, premium krāsu dizainu dažādos stilos, saderīgus zīmolētus airus, pielāgotas somas un pilnus aprīkojuma komplektus, kas atspoguļo jūsu zīmola luksusa pozicionējumu.',
       },
       {
         question: 'Kas ir iekļauts luksusa portatīvajā SUP komplektā?',
@@ -3485,18 +3485,18 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Cik viegli apkalpes locekļiem ir sagatavot un izvietot aprīkojumu?',
         answer:
-          'Afarer sniedz apkalpes lietošanas pamācības, kas aptver piepūšanas procedūras, aprīkojuma lietošanu, tīrīšanas metodes un pārbaudes kontrolsarakstus. Vieglais, portatīvais dizains nodrošina ātrāku izvietošanu un vieglāku lietošanu nekā tradicionālie cietie dēļi.',
+          'OLagoon sniedz apkalpes lietošanas pamācības, kas aptver piepūšanas procedūras, aprīkojuma lietošanu, tīrīšanas metodes un pārbaudes kontrolsarakstus. Vieglais, portatīvais dizains nodrošina ātrāku izvietošanu un vieglāku lietošanu nekā tradicionālie cietie dēļi.',
       },
       {
         question: 'Vai jūs piedāvājat vairumtipa risinājumus kruīza līnijām ar vairākiem kuģiem?',
         answer:
-          'Jā, Afarer atbalsta kruīzu kompānijas, jahtu čartera uzņēmumus un jūras viesnīcniecības zīmolus ar flotes mēroga risinājumiem, tostarp konsekventu produktu kvalitāti visos kuģos, vairumpirkumu efektivitāti un standartizētus aprīkojuma komplektus.',
+          'Jā, OLagoon atbalsta kruīzu kompānijas, jahtu čartera uzņēmumus un jūras viesnīcniecības zīmolus ar flotes mēroga risinājumiem, tostarp konsekventu produktu kvalitāti visos kuģos, vairumpirkumu efektivitāti un standartizētus aprīkojuma komplektus.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu luksusa ūdens pieredzi ar Afarer',
+      title: 'Izveidojiet savu luksusa ūdens pieredzi ar OLagoon',
       subtitle:
-        'Okeāns ir jūsu galamērķis. Tagad radiet tajā neaizmirstamas pieredzes. Afarer palīdz kruīzu kompānijām, jahtu operatoriem, čartera uzņēmumiem un jūras viesnīcniecības zīmoliem veidot premium portatīvās SUP pieredzes.',
+        'Okeāns ir jūsu galamērķis. Tagad radiet tajā neaizmirstamas pieredzes. OLagoon palīdz kruīzu kompānijām, jahtu operatoriem, čartera uzņēmumiem un jūras viesnīcniecības zīmoliem veidot premium portatīvās SUP pieredzes.',
       primaryAction: {
         text: 'Sāciet savu luksusa jūras SUP projektu jau šodien',
       },
@@ -3510,7 +3510,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Privātā zīmola SUP ražotājs | OEM SUP dēļu piegādātājs mazumtirgotājiem | {SITE}',
       description:
-        'Afarer piedāvā privātā zīmola SUP ražošanas risinājumus āra preču mazumtirgotājiem, sporta preču tīkliem un globālajiem zīmoliem. Pielāgoti SUP dēļi ar mazumtirdzniecības iepakojumu, atbilstības atbalstu un uzticamu OEM piegādi.',
+        'OLagoon piedāvā privātā zīmola SUP ražošanas risinājumus āra preču mazumtirgotājiem, sporta preču tīkliem un globālajiem zīmoliem. Pielāgoti SUP dēļi ar mazumtirdzniecības iepakojumu, atbilstības atbalstu un uzticamu OEM piegādi.',
     },
     hero: {
       tagline: 'Mazumtirdzniecības privātā zīmola programma™',
@@ -3552,7 +3552,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pielāgota privātā zīmola SUP produktu izstrāde',
           description:
-            'Afarer palīdz mazumtirgotājiem izstrādāt produktus, pamatojoties uz mērķa klientiem, cenu pozicionējumu, pārdošanas kanāliem un tirgus tendencēm sākuma līmeņa, vidējā diapazona dzīvesveida un premium SUP kolekcijās.',
+            'OLagoon palīdz mazumtirgotājiem izstrādāt produktus, pamatojoties uz mērķa klientiem, cenu pozicionējumu, pārdošanas kanāliem un tirgus tendencēm sākuma līmeņa, vidējā diapazona dzīvesveida un premium SUP kolekcijās.',
           features: [
             'Sākuma līmeņa SUP kolekcija',
             'Vidējā diapazona dzīvesveida SUP kolekcija',
@@ -3562,19 +3562,19 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Mazumtirdzniecības peļņas maržu optimizācija',
           description:
-            'Afarer palīdz mazumtirgotājiem optimizēt produktu struktūru, izmantojot ražošanas izmaksu kontroli un produkta konfigurācijas pielāgojumus, lai atbilstu mērķa mazumtirdzniecības cenai, klientu cerībām un maržu mērķiem.',
+            'OLagoon palīdz mazumtirgotājiem optimizēt produktu struktūru, izmantojot ražošanas izmaksu kontroli un produkta konfigurācijas pielāgojumus, lai atbilstu mērķa mazumtirdzniecības cenai, klientu cerībām un maržu mērķiem.',
           features: ['Ražošanas izmaksu kontrole', 'Produkta konfigurācijas optimizācija', 'Materiālu izvēle'],
         },
         {
           title: 'Mazumtirdzniecībai gatava iepakojuma dizains',
           description:
-            'Afarer atbalsta pilnīgus iepakojuma risinājumus, tostarp eksponēšanas iepakojumu ar krāsainām kastēm un produkta attēliem, e-komercijas iepakojumu, kas optimizēts platformām Amazon un Shopify, kā arī zīmola stāsta iekļaušanu.',
+            'OLagoon atbalsta pilnīgus iepakojuma risinājumus, tostarp eksponēšanas iepakojumu ar krāsainām kastēm un produkta attēliem, e-komercijas iepakojumu, kas optimizēts platformām Amazon un Shopify, kā arī zīmola stāsta iekļaušanu.',
           features: ['Eksponēšanas iepakojums', 'E-komercijas iepakojums', 'Zīmola stāsta iekļaušana'],
         },
         {
           title: 'Starptautiskais kvalitātes un atbilstības atbalsts',
           description:
-            'Afarer atbalsta mazumtirgotājus ar kvalitātes dokumentāciju, tostarp materiālu atbilstības informāciju, produktu testēšanas atbalstu un eksporta dokumentāciju, lai palīdzētu pārvaldīt importa prasības.',
+            'OLagoon atbalsta mazumtirgotājus ar kvalitātes dokumentāciju, tostarp materiālu atbilstības informāciju, produktu testēšanas atbalstu un eksporta dokumentāciju, lai palīdzētu pārvaldīt importa prasības.',
           features: [
             'Materiālu atbilstības atbalsts',
             'Produktu testēšanas atbalsts',
@@ -3584,7 +3584,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Lielapjoma OEM ražošana',
           description:
-            'Afarer atbalsta dažādus iepirkuma apjomus — no jaunu produktu palaišanas ar 500-2000 gabaliem līdz mazumtirdzniecības paplašināšanai ar 3000-10000 gabaliem un globālām mazumtirdzniecības programmām ar ikgadējiem piegādes līgumiem.',
+            'OLagoon atbalsta dažādus iepirkuma apjomus — no jaunu produktu palaišanas ar 500-2000 gabaliem līdz mazumtirdzniecības paplašināšanai ar 3000-10000 gabaliem un globālām mazumtirdzniecības programmām ar ikgadējiem piegādes līgumiem.',
           features: [
             'Jaunu produktu palaišana (500-2000 gabali)',
             'Mazumtirdzniecības paplašināšana (3000-10000 gabali)',
@@ -3594,24 +3594,24 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Sezonas piegādes ķēdes plānošana',
           description:
-            'Afarer atbalsta produktu plānošanu, pamatojoties uz pavasara/vasaras pieprasījumu un reģionālajiem tirgiem, kā arī ražošanas grafikus, lai palīdzētu mazumtirgotājiem pārvaldīt krājumu termiņus, noliktavu plānošanu un reklamakcijas.',
+            'OLagoon atbalsta produktu plānošanu, pamatojoties uz pavasara/vasaras pieprasījumu un reģionālajiem tirgiem, kā arī ražošanas grafikus, lai palīdzētu mazumtirgotājiem pārvaldīt krājumu termiņus, noliktavu plānošanu un reklamakcijas.',
         },
         {
           title: 'ODM produktu inovāciju atbalsts',
           description:
-            'Mazumtirgotājiem ir nepieciešama diferenciācija. Afarer atbalsta pielāgotus dēļu siluetus, pielāgotu grafiku ar mazumtirdzniecības zīmola identitāti un produktu komplektus, tostarp SUP pakas un pilnus āra aprīkojuma komplektus.',
+            'Mazumtirgotājiem ir nepieciešama diferenciācija. OLagoon atbalsta pielāgotus dēļu siluetus, pielāgotu grafiku ar mazumtirdzniecības zīmola identitāti un produktu komplektus, tostarp SUP pakas un pilnus āra aprīkojuma komplektus.',
           features: ['Pielāgoti dēļu silueti', 'Pielāgota grafika', 'Produktu komplekti'],
         },
         {
           title: 'Daudzkanālu mazumtirdzniecības atbalsts',
           description:
-            'Afarer atbalsta produktus fiziskajiem mazumtirdzniecības veikaliem ar pievilcīgu iepakojumu, e-komercijas platformām ar spēcīgu vizuālo noformējumu un izplatītāju tīkliem ar stabilu piegādi un nemainīgām specifikācijām.',
+            'OLagoon atbalsta produktus fiziskajiem mazumtirdzniecības veikaliem ar pievilcīgu iepakojumu, e-komercijas platformām ar spēcīgu vizuālo noformējumu un izplatītāju tīkliem ar stabilu piegādi un nemainīgām specifikācijām.',
           features: ['Fiziskie mazumtirdzniecības veikali', 'E-komercijas platformas', 'Izplatītāju tīkli'],
         },
         {
           title: 'Kvalitātes kontrole un piegādes uzticamība',
           description:
-            'Afarer saprot, ka mazumtirgotāji pārdod uzticēšanos. Kvalitātes sistēmas ietver ražošanas inspekciju, inspekciju pirms nosūtīšanas un partijas konsekvences kontroli, kas nodrošina vienādu kvalitāti lielos pasūtījumos.',
+            'OLagoon saprot, ka mazumtirgotāji pārdod uzticēšanos. Kvalitātes sistēmas ietver ražošanas inspekciju, inspekciju pirms nosūtīšanas un partijas konsekvences kontroli, kas nodrošina vienādu kvalitāti lielos pasūtījumos.',
           features: ['Ražošanas inspekcija', 'Inspekcija pirms nosūtīšanas', 'Partijas konsekvences kontrole'],
         },
       ],
@@ -3628,7 +3628,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Produktu līnijas plānošana',
           detail:
-            'Afarer palīdzēja izveidot privātā zīmola SUP kolekciju, tostarp sākuma līmeņa ģimenes SUP, tūrisma SUP un premium dzīvesveida SUP modeļus, kas vērsti uz mazumtirgotāja esošo klientu bāzi.',
+            'OLagoon palīdzēja izveidot privātā zīmola SUP kolekciju, tostarp sākuma līmeņa ģimenes SUP, tūrisma SUP un premium dzīvesveida SUP modeļus, kas vērsti uz mazumtirgotāja esošo klientu bāzi.',
         },
         {
           title: 'Produkta pielāgošana',
@@ -3665,29 +3665,29 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Piegādātāju izvērtēšanas un produkta specifikāciju darbnīca',
               detail:
-                '2024. gada martā Sarah komanda ieradās Afarer galvenajā mītnē Shenzhen trīs dienu produktu darbnīcā. Viņi testēja 14 dažādas SUP konstrukcijas, tostarp drop-stitch blīvuma variantus, bortu profilus un klāja paklāju konfigurācijas. Afarer inženieru komanda izveidoja 3 pielāgotas PVC formulas, lai atbilstu Austrālijas UV radiācijas standartiem. Rebel Sport apņēmās veikt sākotnējo 5,000 vienību MOQ, kas sadalīts 6 SKU ar AU$1.8M sākotnējo investīciju, tostarp 2 universālos dēļus, 2 tūrisma siluetus, 1 jogas platformu un 1 jauniešu dēli.',
+                '2024. gada martā Sarah komanda ieradās OLagoon galvenajā mītnē Shenzhen trīs dienu produktu darbnīcā. Viņi testēja 14 dažādas SUP konstrukcijas, tostarp drop-stitch blīvuma variantus, bortu profilus un klāja paklāju konfigurācijas. OLagoon inženieru komanda izveidoja 3 pielāgotas PVC formulas, lai atbilstu Austrālijas UV radiācijas standartiem. Rebel Sport apņēmās veikt sākotnējo 5,000 vienību MOQ, kas sadalīts 6 SKU ar AU$1.8M sākotnējo investīciju, tostarp 2 universālos dēļus, 2 tūrisma siluetus, 1 jogas platformu un 1 jauniešu dēli.',
             },
             {
               title: 'Pielāgota zīmola, iepakojuma un atbilstības inženierija',
               detail:
-                "Afarer dizaina komanda izstrādāja Rebel Sport zīmola 'Coastal Force' identitāti, tostarp pielāgotu klāja grafiku, tikai Rebel pieejamas krāsu paletes un mazumtirdzniecībai gatavu iepakojumu ar plauktu cenu izkārtnēm. Atbilstības komanda ieguva AS/NZS 1900-2014 sertifikāciju, atbilstību Australian Consumer Law prasībām un pabeidza ISTA 3A transporta testēšanu. Afarer izgatavoja 200 pirmsražošanas vienības, kas 2024. gada aprīlī tika nosūtītas ar gaisa kravu veikalu testēšanai 12 flagmana vietās, kur 87% eksponātu tika pārdoti divu nedēļu laikā par pilnu mazumtirdzniecības cenu AU$399.",
+                "OLagoon dizaina komanda izstrādāja Rebel Sport zīmola 'Coastal Force' identitāti, tostarp pielāgotu klāja grafiku, tikai Rebel pieejamas krāsu paletes un mazumtirdzniecībai gatavu iepakojumu ar plauktu cenu izkārtnēm. Atbilstības komanda ieguva AS/NZS 1900-2014 sertifikāciju, atbilstību Australian Consumer Law prasībām un pabeidza ISTA 3A transporta testēšanu. OLagoon izgatavoja 200 pirmsražošanas vienības, kas 2024. gada aprīlī tika nosūtītas ar gaisa kravu veikalu testēšanai 12 flagmana vietās, kur 87% eksponātu tika pārdoti divu nedēļu laikā par pilnu mazumtirdzniecības cenu AU$399.",
             },
             {
               title: 'Pakāpeniska krājumu izvēršana un personāla apmācības programma',
               detail:
-                'Afarer koordinēja 3 posmu jūras kravu piegādes grafiku: 1. posms (1,500 vienības Sydney DC līdz 1. jūnijam), 2. posms (2,000 vienības Melburnas un Brisbenas DC līdz 1. jūlijam), 3. posms (1,500 vienības Pertas un Adelaides DC līdz 1. augustam). Afarer apmācību komanda veica 24 virtuālās apmācītāju apmācības (train-the-trainer) sesijas Rebel nodaļu vadītājiem, aptverot produkta funkcijas, dēļu konstrukciju atšķirības, piederumu papildpārdošanu un klientu piemērotības jautājumus. Katrs veikals saņēma demonstrācijas dēli un pārdošanas punkta salīdzinājuma ceļvedi.',
+                'OLagoon koordinēja 3 posmu jūras kravu piegādes grafiku: 1. posms (1,500 vienības Sydney DC līdz 1. jūnijam), 2. posms (2,000 vienības Melburnas un Brisbenas DC līdz 1. jūlijam), 3. posms (1,500 vienības Pertas un Adelaides DC līdz 1. augustam). OLagoon apmācību komanda veica 24 virtuālās apmācītāju apmācības (train-the-trainer) sesijas Rebel nodaļu vadītājiem, aptverot produkta funkcijas, dēļu konstrukciju atšķirības, piederumu papildpārdošanu un klientu piemērotības jautājumus. Katrs veikals saņēma demonstrācijas dēli un pārdošanas punkta salīdzinājuma ceļvedi.',
             },
             {
               title: 'Palaišanas kampaņa, veiktspējas izsekošana un atkārtotu pasūtījumu optimizācija',
               detail:
-                "'Coastal Force' līnija tika palaista 2024. gada 15. augustā ar AU$500K mārketinga kampaņu, tostarp veikalu norādēm, kataloga ierakstiem un sadarbību ar ietekmētājiem — Austrālijas SUP dēļu sportistiem. Afarer atvēlētā klientu apkalpošanas komanda sniedza iknedēļas pārdošanas atskaites, izmantojot kopīgu informācijas paneli. Līdz 2024. gada novembrim pārdošanas ātrums visos SKU vidēji sasniedza 72%, universālajam 10'6\" modelim pārstāvot 41% pārdošanas. Rebel izdeva atkārtotu pasūtījumu 3,000 vienībām 2025. gada pavasara sezonai, tostarp 2 jauniem tūrisma modeļiem, pamatojoties uz klientu atsauksmēm.",
+                "'Coastal Force' līnija tika palaista 2024. gada 15. augustā ar AU$500K mārketinga kampaņu, tostarp veikalu norādēm, kataloga ierakstiem un sadarbību ar ietekmētājiem — Austrālijas SUP dēļu sportistiem. OLagoon atvēlētā klientu apkalpošanas komanda sniedza iknedēļas pārdošanas atskaites, izmantojot kopīgu informācijas paneli. Līdz 2024. gada novembrim pārdošanas ātrums visos SKU vidēji sasniedza 72%, universālajam 10'6\" modelim pārstāvot 41% pārdošanas. Rebel izdeva atkārtotu pasūtījumu 3,000 vienībām 2025. gada pavasara sezonai, tostarp 2 jauniem tūrisma modeļiem, pamatojoties uz klientu atsauksmēm.",
             },
           ],
           results: [
             'AU$4.8M pirmā gada mazumtirdzniecības pārdošanā (par 14% virs AU$4.2M mērķa) 87 veikalos ar 62% pārdošanas ātrumu',
             'Sasniegta 55.3% bruto marža pret 32% maržu trešo pušu zīmoliem, kas pievienoja AU$1.1M papildu peļņas',
             '19.2% tirgus daļa Austrālijas sub-AU$500 SUP segmentā 10 mēnešu laikā pēc palaišanas',
-            'Klientu atgriešanās līmenis 3.2% (nozares vidējais rādītājs ir 8-12%), pateicoties Afarer kvalitātes kontrolei un Austrālijā sertificētajai konstrukcijai',
+            'Klientu atgriešanās līmenis 3.2% (nozares vidējais rādītājs ir 8-12%), pateicoties OLagoon kvalitātes kontrolei un Austrālijā sertificētajai konstrukcijai',
           ],
         },
         {
@@ -3702,35 +3702,35 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Koncepcijas validācija un ātrā produkta dizaina izstrāde',
               detail:
-                "2024. gada septembrī Macy's produktu izstrādes komanda David vadībā iesaistīja Afarer 8 nedēļu ātrajā dizaina izstrādes sprintā. Afarer rūpnieciskie dizaineri izveidoja 8 koncepcijas dēļus ar detalizētām specifikācijām, tostarp 3 universālos dēļus (10', 11', 12') un 1 tūrisma dēli. Macy's izvēlējās 4 SKU ar ekskluzīvu 'Boardwalk Reserve' zīmolojumu, piekrastes iedvesmotām krāsu paletēm (Seafoam, Sandbar, Coral, Navy) un $349-$549 mazumtirdzniecības cenām. Afarer izveidoja pielāgotus 3D attēlojumus un fiziskus maketus 14 dienu laikā, un Macy's apstiprināja visu līniju 2024. gada 15. oktobrī ar 6,000 vienību pirkuma pasūtījumu $1.2M vērtībā vairumtirdzniecībā.",
+                "2024. gada septembrī Macy's produktu izstrādes komanda David vadībā iesaistīja OLagoon 8 nedēļu ātrajā dizaina izstrādes sprintā. OLagoon rūpnieciskie dizaineri izveidoja 8 koncepcijas dēļus ar detalizētām specifikācijām, tostarp 3 universālos dēļus (10', 11', 12') un 1 tūrisma dēli. Macy's izvēlējās 4 SKU ar ekskluzīvu 'Boardwalk Reserve' zīmolojumu, piekrastes iedvesmotām krāsu paletēm (Seafoam, Sandbar, Coral, Navy) un $349-$549 mazumtirdzniecības cenām. OLagoon izveidoja pielāgotus 3D attēlojumus un fiziskus maketus 14 dienu laikā, un Macy's apstiprināja visu līniju 2024. gada 15. oktobrī ar 6,000 vienību pirkuma pasūtījumu $1.2M vērtībā vairumtirdzniecībā.",
             },
             {
               title: 'Piegādes ķēdes integrācija un atbilstības sagatavošana',
               detail:
-                "Afarer piegādes ķēdes komanda sadarbojās ar Macy's atbilstības nodaļu, lai izpildītu visus ASV CPSC drošības standartus, ASTM F3340-18 sertifikāciju un Kalifornijas Prop 65 prasības. Iepakojums tika izstrādāts atbilstoši Macy's prasībām plauktam gatavam iepakojumam, tostarp EAS marķieriem, QR kodiem ar saitēm uz video montāžas ceļvežiem un kompaktiem kastes izmēriem (36x16x12 collas), kas optimizēti Macy's izplatīšanas centra novietojumam. Afarer izgatavoja 500 pirmspārdošanas vienības 2024. gada novembrī un nosūtīja tās ar gaisa kravu Macy's 20 veikalu testēšanai un tiešsaistes fotografēšanai. Katrs testēšanas veikals brīvdienu sezonā vidēji pārdeva 14 vienības nedēļā par $399 mazumtirdzniecības cenā.",
+                "OLagoon piegādes ķēdes komanda sadarbojās ar Macy's atbilstības nodaļu, lai izpildītu visus ASV CPSC drošības standartus, ASTM F3340-18 sertifikāciju un Kalifornijas Prop 65 prasības. Iepakojums tika izstrādāts atbilstoši Macy's prasībām plauktam gatavam iepakojumam, tostarp EAS marķieriem, QR kodiem ar saitēm uz video montāžas ceļvežiem un kompaktiem kastes izmēriem (36x16x12 collas), kas optimizēti Macy's izplatīšanas centra novietojumam. OLagoon izgatavoja 500 pirmspārdošanas vienības 2024. gada novembrī un nosūtīja tās ar gaisa kravu Macy's 20 veikalu testēšanai un tiešsaistes fotografēšanai. Katrs testēšanas veikals brīvdienu sezonā vidēji pārdeva 14 vienības nedēļā par $399 mazumtirdzniecības cenā.",
             },
             {
               title: 'Daudzkanālu palaišanas izpilde un pieredze veikalā',
               detail:
-                "Galvenā jūras krava ar 5,500 vienībām ieradās Macy's Robbinsville, NJ izplatīšanas centrā 2025. gada 1. februārī. Afarer nodrošināja 340 dabīga izmēra eksponātu statīvus ar integrētu dēļu uzglabāšanu un piederumu nodalījumiem. Afarer apmācību komanda izveidoja 12 minūšu video moduli 8,500 Macy's sezonas darbiniekiem, aptverot produktu zināšanas un papildpārdošanas paņēmienus sūkņiem, airiem un PFD. Kolekcija tika palaista macys.com 2025. gada 1. martā un visos 340 veikalos līdz 15. martam, ar atsevišķu 'Boardwalk Reserve' shop-in-shop pieredzi 50 lielākā apgrozījuma vietās.",
+                "Galvenā jūras krava ar 5,500 vienībām ieradās Macy's Robbinsville, NJ izplatīšanas centrā 2025. gada 1. februārī. OLagoon nodrošināja 340 dabīga izmēra eksponātu statīvus ar integrētu dēļu uzglabāšanu un piederumu nodalījumiem. OLagoon apmācību komanda izveidoja 12 minūšu video moduli 8,500 Macy's sezonas darbiniekiem, aptverot produktu zināšanas un papildpārdošanas paņēmienus sūkņiem, airiem un PFD. Kolekcija tika palaista macys.com 2025. gada 1. martā un visos 340 veikalos līdz 15. martam, ar atsevišķu 'Boardwalk Reserve' shop-in-shop pieredzi 50 lielākā apgrozījuma vietās.",
             },
             {
               title: 'Veiktspējas analītika un sezonas krājumu papildināšana',
               detail:
-                "Līdz 2025. gada maijam pārdošanas līmenis sasniedza 58%, un Seafoam 11' universālais dēlis kļuva par vislabāk pārdoto (36% no pārdošanas). Tiešsaistes konversijas līmenis sasniedza 4.2%, kas ievērojami pārsniedz Macy's sporta preču kategorijas vidējo rādītāju 2.1%. Afarer reāllaika krājumu panelis ļāva Macy's automātiski veikt papildināšanas pasūtījumus, kad veikala krājumi nokritās zem 6 vienībām. Programa veicināja $2.1M piederumu pārdošanā (airi, sūkņi, somas, glābšanas vestes) ar 62% maržu. Macy's izmantoja savu opciju uz 2025. gada svētku sezonas atkārtotu pasūtījumu 4,000 vienībām ar 2 jaunām sniega/sērfošanas tēmu krāsu paletēm.",
+                "Līdz 2025. gada maijam pārdošanas līmenis sasniedza 58%, un Seafoam 11' universālais dēlis kļuva par vislabāk pārdoto (36% no pārdošanas). Tiešsaistes konversijas līmenis sasniedza 4.2%, kas ievērojami pārsniedz Macy's sporta preču kategorijas vidējo rādītāju 2.1%. OLagoon reāllaika krājumu panelis ļāva Macy's automātiski veikt papildināšanas pasūtījumus, kad veikala krājumi nokritās zem 6 vienībām. Programa veicināja $2.1M piederumu pārdošanā (airi, sūkņi, somas, glābšanas vestes) ar 62% maržu. Macy's izmantoja savu opciju uz 2025. gada svētku sezonas atkārtotu pasūtījumu 4,000 vienībām ar 2 jaunām sniega/sērfošanas tēmu krāsu paletēm.",
             },
           ],
           results: [
             '$4.1M kopējā GMV 340 veikalos un macys.com pirmajos 7 mēnešos, pārsniedzot $3.5M mērķi par 17%',
             'Sasniegts 53% sākotnējais uzcenojums pret 38% salīdzināmiem trešo pušu zīmola āra preču izstrādājumiem, radot $1.6M bruto peļņu',
             '4.2% tiešsaistes konversijas līmenis ar 11.7% piederumu pievienošanas līmeni, kas veicināja papildu $2.1M augsta uzcenojuma papildpārdošanu',
-            '98.4% savlaicīgas piegādes līmenis Afarer rūpnīcas-uz-DC piegādes ķēdē bez krājumu iztrūkumiem maksimālajā no marta līdz maijam pārdošanas sezonā',
+            '98.4% savlaicīgas piegādes līmenis OLagoon rūpnīcas-uz-DC piegādes ķēdē bez krājumu iztrūkumiem maksimālajā no marta līdz maijam pārdošanas sezonā',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc mazumtirdzniecības pircēji izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc mazumtirdzniecības pircēji izvēlas OLagoon',
       items: [
         {
           title: 'Produktu izstrāde',
@@ -3768,37 +3768,37 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kas ir privātā zīmola SUP programma un kā tā darbojas āra preču mazumtirgotājiem?',
         answer:
-          'Privātā zīmola SUP programma ļauj āra preču mazumtirgotājiem izveidot un pārdot SUP dēļus zem sava zīmola nosaukuma. Afarer pārvalda visu OEM/ODM procesu, tostarp produktu izstrādi, ražošanu, sertifikācijas atbalstu, iepakojuma dizainu un lielapjoma piegādi. Mazumtirgotāji var palaist pielāgotas SUP kolekcijas, neinvestējot rūpnīcas iekārtās vai piepūšamo produktu ražošanas kompetencēs.',
+          'Privātā zīmola SUP programma ļauj āra preču mazumtirgotājiem izveidot un pārdot SUP dēļus zem sava zīmola nosaukuma. OLagoon pārvalda visu OEM/ODM procesu, tostarp produktu izstrādi, ražošanu, sertifikācijas atbalstu, iepakojuma dizainu un lielapjoma piegādi. Mazumtirgotāji var palaist pielāgotas SUP kolekcijas, neinvestējot rūpnīcas iekārtās vai piepūšamo produktu ražošanas kompetencēs.',
       },
       {
         question:
           'Kā mazumtirgotāji var nodrošināt, ka viņu privātā zīmola SUP produkti atbilst starptautiskajiem drošības standartiem?',
         answer:
-          'Afarer atbalsta mazumtirgotājus ar visaptverošu atbilstības dokumentāciju, tostarp CE un REACH prasībām, materiālu drošības datiem, produktu testēšanas atskaitēm un kvalitātes inspekcijas ierakstiem. Tas nodrošina, ka privātā zīmola SUP produkti atbilst normatīvajiem standartiem Eiropas, Ziemeļamerikas un citos starptautiskajos tirgos.',
+          'OLagoon atbalsta mazumtirgotājus ar visaptverošu atbilstības dokumentāciju, tostarp CE un REACH prasībām, materiālu drošības datiem, produktu testēšanas atskaitēm un kvalitātes inspekcijas ierakstiem. Tas nodrošina, ka privātā zīmola SUP produkti atbilst normatīvajiem standartiem Eiropas, Ziemeļamerikas un citos starptautiskajos tirgos.',
       },
       {
         question: 'Kādi minimālie pasūtījuma apjomi parasti ir nepieciešami pielāgotai SUP ražošanai?',
         answer:
-          'Afarer pielāgojas dažādiem apjomiem. Jaunu produktu palaišana un tirgus testēšana parasti sākas ar 500-2000 vienībām. Mazumtirdzniecības paplašināšanas pasūtījumi svārstās no 3000 līdz 10000 vienībām. Lielas globālas mazumtirdzniecības programmas ar ikgadējiem piegādes līgumiem var sasniegt desmitiem tūkstošu vienību vairākos modeļos.',
+          'OLagoon pielāgojas dažādiem apjomiem. Jaunu produktu palaišana un tirgus testēšana parasti sākas ar 500-2000 vienībām. Mazumtirdzniecības paplašināšanas pasūtījumi svārstās no 3000 līdz 10000 vienībām. Lielas globālas mazumtirdzniecības programmas ar ikgadējiem piegādes līgumiem var sasniegt desmitiem tūkstošu vienību vairākos modeļos.',
       },
       {
         question: 'Cik ilgi ilgst privātā zīmola SUP produktu līnijas izstrāde un palaišana?',
         answer:
-          'Laika posms ir atkarīgs no pielāgošanas sarežģītības. Afarer racionalizētais process no produkta koncepcijas līdz plauktam gatavai piegādei parasti ilgst 8-16 nedēļas, tostarp produktu plānošanu, dizaina apstiprināšanu, prototipa izstrādi, sertifikācijas atbalstu, ražošanu un transportēšanu. Ir ieteicama sezonas plānošana, lai saskaņotos ar pavasara/vasaras pieprasījuma cikliem.',
+          'Laika posms ir atkarīgs no pielāgošanas sarežģītības. OLagoon racionalizētais process no produkta koncepcijas līdz plauktam gatavai piegādei parasti ilgst 8-16 nedēļas, tostarp produktu plānošanu, dizaina apstiprināšanu, prototipa izstrādi, sertifikācijas atbalstu, ražošanu un transportēšanu. Ir ieteicama sezonas plānošana, lai saskaņotos ar pavasara/vasaras pieprasījuma cikliem.',
       },
       {
         question: 'Vai mazumtirgotāji var pielāgot SUP iepakojumu, lai tas atbilstu viņu zīmola identitātei?',
         answer:
-          'Jā, Afarer atbalsta pilnīgu iepakojuma pielāgošanu, tostarp zīmola krāsainas kastes, produkta attēlus, funkciju izcēlumus un zīmola vēstījumus. Iepakojuma opcijas ir pieejamas gan fiziskajiem mazumtirdzniecības plauktiem, gan e-komercijas platformām, piemēram, Amazon un Shopify, ar norādēm par produktu fotografēšanu un informācijas struktūru.',
+          'Jā, OLagoon atbalsta pilnīgu iepakojuma pielāgošanu, tostarp zīmola krāsainas kastes, produkta attēlus, funkciju izcēlumus un zīmola vēstījumus. Iepakojuma opcijas ir pieejamas gan fiziskajiem mazumtirdzniecības plauktiem, gan e-komercijas platformām, piemēram, Amazon un Shopify, ar norādēm par produktu fotografēšanu un informācijas struktūru.',
       },
       {
-        question: 'Kādu atbalstu Afarer sniedz sezonas pieprasījuma plānošanā?',
+        question: 'Kādu atbalstu OLagoon sniedz sezonas pieprasījuma plānošanā?',
         answer:
-          'Afarer palīdz mazumtirgotājiem pārvaldīt sezonas āra produktu pieprasījumu, izmantojot koordinētu ražošanas grafiku, krājumu termiņus, noliktavu plānošanu un reklamakciju saskaņošanu. Ikgadējie piegādes līgumi nodrošina paredzamus izpildes termiņus un garantētu ražošanas jaudu maksimālajās sezonās.',
+          'OLagoon palīdz mazumtirgotājiem pārvaldīt sezonas āra produktu pieprasījumu, izmantojot koordinētu ražošanas grafiku, krājumu termiņus, noliktavu plānošanu un reklamakciju saskaņošanu. Ikgadējie piegādes līgumi nodrošina paredzamus izpildes termiņus un garantētu ražošanas jaudu maksimālajās sezonās.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu privātā zīmola SUP kolekciju kopā ar Afarer',
+      title: 'Izveidojiet savu privātā zīmola SUP kolekciju kopā ar OLagoon',
       subtitle: 'Jūsu klienti jau tagad pērk āra preces. Tagad izveidojiet savu ūdens sporta kategoriju.',
       primaryAction: {
         text: 'Sāciet savu mazumtirdzniecības privātā zīmola projektu jau šodien',
@@ -3813,7 +3813,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP izplatītājs un piegādātājs | Lielapjoma OEM SUP dēļu ražotājs | {SITE}',
       description:
-        'Afarer sadarbojas ar globālajiem SUP izplatītājiem un importētājiem, piedāvājot lielapjoma OEM ražošanu, privātā zīmola risinājumus, reģionālo tirgu atbalstu un uzticamu piegādes ķēdes pārvaldību.',
+        'OLagoon sadarbojas ar globālajiem SUP izplatītājiem un importētājiem, piedāvājot lielapjoma OEM ražošanu, privātā zīmola risinājumus, reģionālo tirgu atbalstu un uzticamu piegādes ķēdes pārvaldību.',
     },
     hero: {
       tagline: 'Reģionālais OEM un piegādes ķēdes partneris™',
@@ -3854,49 +3854,49 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Lielapjoma OEM ražošanas spējas',
           description:
-            'Afarer atbalsta vidēja apjoma pasūtījumus, konteineru sūtījumus un ikgadējus piegādes līgumus trīs sadarbības posmos: tirgus testēšana (1,000-3,000 gab.), reģionālā paplašināšanās (5,000-10,000 gab.) un lielo izplatītāju apjoms (10,000-20,000+ gab.).',
+            'OLagoon atbalsta vidēja apjoma pasūtījumus, konteineru sūtījumus un ikgadējus piegādes līgumus trīs sadarbības posmos: tirgus testēšana (1,000-3,000 gab.), reģionālā paplašināšanās (5,000-10,000 gab.) un lielo izplatītāju apjoms (10,000-20,000+ gab.).',
           features: ['Tirgus testēšanas posms', 'Reģionālās paplašināšanās posms', 'Lielo izplatītāju posms'],
         },
         {
           title: 'Ekskluzīva OEM zīmola izveide',
           description:
-            'Afarer atbalsta izplatītājus, kuri vēlas virzīties tālāk par vienkāršu importēšanu, izveidojot privātā zīmola zīmolus ar pielāgotu pozicionējumu, produktu izvēli, grafisko dizainu, iepakojumu un ekskluzīvām produktu kolekcijām.',
+            'OLagoon atbalsta izplatītājus, kuri vēlas virzīties tālāk par vienkāršu importēšanu, izveidojot privātā zīmola zīmolus ar pielāgotu pozicionējumu, produktu izvēli, grafisko dizainu, iepakojumu un ekskluzīvām produktu kolekcijām.',
           features: ['Privātā zīmola izveide', 'Ekskluzīvas produktu kolekcijas', 'Konkurētspējīga diferenciācija'],
         },
         {
           title: 'Reģionālās tirgus aizsardzības programma',
           description:
-            'Kvalificētiem partneriem Afarer piedāvā teritorijas sadarbību atkarībā no tirgus apjoma un apņemšanās, produkta diferenciāciju, izmantojot ekskluzīvus grafiskos risinājumus un konfigurācijas, kā arī tirgotāju tīkla atbalstu.',
+            'Kvalificētiem partneriem OLagoon piedāvā teritorijas sadarbību atkarībā no tirgus apjoma un apņemšanās, produkta diferenciāciju, izmantojot ekskluzīvus grafiskos risinājumus un konfigurācijas, kā arī tirgotāju tīkla atbalstu.',
           features: ['Teritorijas sadarbība', 'Produkta diferenciācija', 'Tirgotāju tīkla atbalsts'],
         },
         {
           title: 'Pilnīgs produktu portfeļa plānojums',
           description:
-            'Afarer palīdz izplatītājiem izveidot pilnus ūdens sporta klāstus, tostarp universālos SUP, tūrisma SUP, bērnu SUP, makšķerēšanas SUP, jogas SUP, aksesuārus un ūdens atpūtas aprīkojumu.',
+            'OLagoon palīdz izplatītājiem izveidot pilnus ūdens sporta klāstus, tostarp universālos SUP, tūrisma SUP, bērnu SUP, makšķerēšanas SUP, jogas SUP, aksesuārus un ūdens atpūtas aprīkojumu.',
           features: ['SUP produktu kategorijas', 'Papildu produktu paplašināšana', 'Aksesuāri'],
         },
         {
           title: 'Loģistikas optimizācijas atbalsts',
           description:
-            'Afarer atbalsta konteineru kravu optimizāciju, lai maksimāli palielinātu transportēšanas efektivitāti un importa ekonomiku, produktu klāsta plānošanu, apvienojot ātri pārdodamos modeļus ar premium produktiem, kā arī eksporta dokumentācijas koordinēšanu.',
+            'OLagoon atbalsta konteineru kravu optimizāciju, lai maksimāli palielinātu transportēšanas efektivitāti un importa ekonomiku, produktu klāsta plānošanu, apvienojot ātri pārdodamos modeļus ar premium produktiem, kā arī eksporta dokumentācijas koordinēšanu.',
           features: ['Konteineru kravas optimizācija', 'Produktu klāsta plānošana', 'Eksporta dokumentācijas atbalsts'],
         },
         {
           title: 'Kvalitātes kontrole starptautiskajiem tirgiem',
           description:
-            'Afarer kvalitātes pārvaldība ietver materiālu pārbaudi (PVC un drop stitch materiāli), ražošanas procesu uzraudzību un gala sūtījuma pārbaudi attiecībā uz izskatu, aksesuāriem, iepakojumu un daudzumu.',
+            'OLagoon kvalitātes pārvaldība ietver materiālu pārbaudi (PVC un drop stitch materiāli), ražošanas procesu uzraudzību un gala sūtījuma pārbaudi attiecībā uz izskatu, aksesuāriem, iepakojumu un daudzumu.',
           features: ['Materiālu pārbaude', 'Ražošanas uzraudzība', 'Gala sūtījuma pārbaude'],
         },
         {
           title: 'Izplatītāju pārdošanas atbalsts',
           description:
-            'Afarer atbalsta partnerus ar produktu specifikācijām un tehnisko informāciju, mārketinga materiāliem, tostarp produktu un dzīvesveida vizuālo materiālu, kā arī produktu apmācībām par priekšrocībām, lietojumu un pārdošanas pozicionējumu.',
+            'OLagoon atbalsta partnerus ar produktu specifikācijām un tehnisko informāciju, mārketinga materiāliem, tostarp produktu un dzīvesveida vizuālo materiālu, kā arī produktu apmācībām par priekšrocībām, lietojumu un pārdošanas pozicionējumu.',
           features: ['Produktu informācija', 'Mārketinga materiāli', 'Produktu apmācības'],
         },
         {
           title: 'Ilgtermiņa piegādes partnerība',
           description:
-            'Afarer koncentrējas uz attiecībām, kas sniedzas pāri atsevišķiem pasūtījumiem, piedāvājot stabilu ražošanas bāzi, nepārtrauktu produktu attīstību un atbalstu biznesa izaugsmei no importētāja līdz izplatītājam un reģionālam zīmola īpašniekam.',
+            'OLagoon koncentrējas uz attiecībām, kas sniedzas pāri atsevišķiem pasūtījumiem, piedāvājot stabilu ražošanas bāzi, nepārtrauktu produktu attīstību un atbalstu biznesa izaugsmei no importētāja līdz izplatītājam un reģionālam zīmola īpašniekam.',
           features: ['Stabila ražošanas bāze', 'Nepārtraukta produktu attīstība', 'Atbalsts biznesa izaugsmei'],
         },
       ],
@@ -3913,7 +3913,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Reģionālā tirgus analīze',
           detail:
-            'Afarer palīdzēja identificēt iesācēju SUP pieprasījumu, ģimenes atpūtas tirgus iespējas un tūrisma lietojumus, kas raksturīgi Tuvo Austrumu reģionam.',
+            'OLagoon palīdzēja identificēt iesācēju SUP pieprasījumu, ģimenes atpūtas tirgus iespējas un tūrisma lietojumus, kas raksturīgi Tuvo Austrumu reģionam.',
         },
         {
           title: 'Produktu portfeļa izveide',
@@ -3944,28 +3944,28 @@ const lv: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Austrālija',
             background:
               'PaddleHub Australia bija mazs importētājs, kuru vadīja dibinātājs James Whitfield — bijušais sacensību sērfotājs, kas trīs gadus bija izplatījis standarta Ķīnas SUP dēļus 45 vietējos sērfa veikalos ar ikgadējiem ieņēmumiem apmēram AU$1.8M. Viņa maržas saruka, jo konkurenti piedāvāja zemākas cenas un piegādātāji atteicās sniegt ekskluzivitāti. James saprata, ka ilgstošas vērtības veidošanai viņam nepieciešams unikāls pašu zīmols ar teritorijas aizsardzību. Viņam bija AU$350K pieejamā kapitāla un noliktava Burleigh Heads, taču bija vajadzīgs ražošanas partneris, kas spētu piegādāt OEM kvalitātes dēļus ar Austrālijai specifiskiem dizaina elementiem un reģionālu ekskluzivitāti Okeānijā.',
-            goal: 'Izveidot pašu SUP zīmolu ar 12 unikāliem modeļiem, 18 mēnešu laikā noslēgt 200+ Austrālijas un Jaunzēlandes tirgotāju kontus, sasniegt AU$6M ikgadējos vairumtirdzniecības ieņēmumus un iegūt ekskluzīvās Okeānijas izplatīšanas tiesības no Afarer.',
+            goal: 'Izveidot pašu SUP zīmolu ar 12 unikāliem modeļiem, 18 mēnešu laikā noslēgt 200+ Austrālijas un Jaunzēlandes tirgotāju kontus, sasniegt AU$6M ikgadējos vairumtirdzniecības ieņēmumus un iegūt ekskluzīvās Okeānijas izplatīšanas tiesības no OLagoon.',
           },
           steps: [
             {
               title: 'Stratēģiskās partnerības sarunas un ekskluzīvās teritorijas vienošanās',
               detail:
-                "2024. gada februārī James prezentēja savu biznesa pamatojumu Afarer globālo partnerību viceprezidentam trīs dienu sanāksmē Afarer ražošanas objektā Shenzhen. Afarer veica tirgus dzīvotspējas pētījumu, kas parādīja, ka Austrālijā ir 340+ sērfa veikali, 180+ ūdens sporta tirgotāji un 60+ jūras aprīkojuma izplatītāji, kas varētu piedāvāt SUP, taču tikai 23% tobrīd piedāvāja šo kategoriju. Afarer piešķīra PaddleHub ekskluzīvās Okeānijas izplatīšanas tiesības uz 'WaveGlide' un 'Expedition' platformu saimēm, noteicot minimālo ikgadējo iepirkumu AU$2.5M apmērā. James apņēmās veikt sākotnējo MOQ AU$800K apmērā un piekrita Afarer teritorijas attīstības mērķiem, tostarp ekskluzīvo tirgotāju skaita mērķiem.",
+                "2024. gada februārī James prezentēja savu biznesa pamatojumu OLagoon globālo partnerību viceprezidentam trīs dienu sanāksmē OLagoon ražošanas objektā Shenzhen. OLagoon veica tirgus dzīvotspējas pētījumu, kas parādīja, ka Austrālijā ir 340+ sērfa veikali, 180+ ūdens sporta tirgotāji un 60+ jūras aprīkojuma izplatītāji, kas varētu piedāvāt SUP, taču tikai 23% tobrīd piedāvāja šo kategoriju. OLagoon piešķīra PaddleHub ekskluzīvās Okeānijas izplatīšanas tiesības uz 'WaveGlide' un 'Expedition' platformu saimēm, noteicot minimālo ikgadējo iepirkumu AU$2.5M apmērā. James apņēmās veikt sākotnējo MOQ AU$800K apmērā un piekrita OLagoon teritorijas attīstības mērķiem, tostarp ekskluzīvo tirgotāju skaita mērķiem.",
             },
             {
               title: 'Pielāgotu produktu platformu izstrāde un pielāgošana Austrālijas tirgum',
               detail:
-                'Afarer pētniecības un attīstības komanda sešas nedēļas izstrādāja PaddleHub 12 modeļu klāstu, tostarp 5 universālos dēļus, 3 tūrisma dēļus, 2 sacensību dēļus, 1 makšķerēšanas dēli un 1 jauniešu dēli. Katram modelim bija Austrālijai specifiskas modifikācijas: UV stabilizēts PVC Kvinslendas intensīvajai saulei, pastiprināti sānu elementi akmeņainajām iekāpšanas vietām pie Great Barrier Reef un pielāgoti grafiskie risinājumi ar aborigīnu punktu mākslas iedvesmotiem rakstiem. Afarer izgatavoja 300 priekšražošanas vienības visos 12 modeļos, kuras James izdalīja 50 beta testētājiem, tostarp sērfa veikalu īpašniekiem, SUP instruktoriem un makšķerēšanas gidiem, kuri sniedza detalizētu atgriezenisko saiti, kas noveda pie 23 dizaina uzlabojumiem.',
+                'OLagoon pētniecības un attīstības komanda sešas nedēļas izstrādāja PaddleHub 12 modeļu klāstu, tostarp 5 universālos dēļus, 3 tūrisma dēļus, 2 sacensību dēļus, 1 makšķerēšanas dēli un 1 jauniešu dēli. Katram modelim bija Austrālijai specifiskas modifikācijas: UV stabilizēts PVC Kvinslendas intensīvajai saulei, pastiprināti sānu elementi akmeņainajām iekāpšanas vietām pie Great Barrier Reef un pielāgoti grafiskie risinājumi ar aborigīnu punktu mākslas iedvesmotiem rakstiem. OLagoon izgatavoja 300 priekšražošanas vienības visos 12 modeļos, kuras James izdalīja 50 beta testētājiem, tostarp sērfa veikalu īpašniekiem, SUP instruktoriem un makšķerēšanas gidiem, kuri sniedza detalizētu atgriezenisko saiti, kas noveda pie 23 dizaina uzlabojumiem.',
             },
             {
               title: 'Tirgotāju tīkla veidošana un kanālu attīstība',
               detail:
-                "James un viņa trīs cilvēku pārdošanas komanda uzsāka programmu 'Dealer Pro', piedāvājot cenu pakāpes, 0% un 60 dienu maksājuma nosacījumus jauniem kontiem, bezmaksas prezentācijas statīvus un personāla apmācību. Afarer nodrošināja kopīgi lietojamu CRM sistēmu, produktu katalogus, salīdzinājumu ceļvežus un tirgotāju meklēšanas tīmekļvietni. Apmeklējot Sydney International Boat Show un 7 reģionālos makšķerēšanas un āra ekspozīcijas, James pirmajos 6 mēnešos noslēdza līgumus ar 97 tirgotājiem, tostarp tādiem lielajiem klientiem kā Anaconda (42 veikali), BCF (35 veikali) un 20 neatkarīgiem sērfa veikaliem. Afarer loģistikas komanda Sidnejā izveidoja konsolidācijas noliktavu ar 14 dienu piegādes garantiju.",
+                "James un viņa trīs cilvēku pārdošanas komanda uzsāka programmu 'Dealer Pro', piedāvājot cenu pakāpes, 0% un 60 dienu maksājuma nosacījumus jauniem kontiem, bezmaksas prezentācijas statīvus un personāla apmācību. OLagoon nodrošināja kopīgi lietojamu CRM sistēmu, produktu katalogus, salīdzinājumu ceļvežus un tirgotāju meklēšanas tīmekļvietni. Apmeklējot Sydney International Boat Show un 7 reģionālos makšķerēšanas un āra ekspozīcijas, James pirmajos 6 mēnešos noslēdza līgumus ar 97 tirgotājiem, tostarp tādiem lielajiem klientiem kā Anaconda (42 veikali), BCF (35 veikali) un 20 neatkarīgiem sērfa veikaliem. OLagoon loģistikas komanda Sidnejā izveidoja konsolidācijas noliktavu ar 14 dienu piegādes garantiju.",
             },
             {
               title: 'Zīmola izlaišana, mārketinga atbalsts un izaugsmes paātrināšana',
               detail:
-                'PaddleHub tika oficiāli izlaists ar AU$250K kampaņu, kuras zīmola vēstne bija bijusī Austrālijas SUP čempione Jessica Krieger. Afarer ieguldīja kooperatīvos mārketinga līdzekļus 4% apmērā no vairumtirdzniecības iepirkumiem un izveidoja 24 produktu video, 360 grādu produktu fotogrāfijas un sociālo mediju saturu. Līdz 2025. gada augustam PaddleHub bija 215 aktīvi tirgotāju konti, AU$5.8M vairumtirdzniecības ieņēmumi pēdējos 12 mēnešos un 3 papildu ražošanas pasūtījumi kopsummā AU$3.2M. James paplašināja komandu līdz 12 darbiniekiem, tostarp pilna laika produktu vadītājam, un PaddleHub kļuva par otro lielāko SUP zīmolu Austrālijas tirgū pēc pārdošanas punktu skaita.',
+                'PaddleHub tika oficiāli izlaists ar AU$250K kampaņu, kuras zīmola vēstne bija bijusī Austrālijas SUP čempione Jessica Krieger. OLagoon ieguldīja kooperatīvos mārketinga līdzekļus 4% apmērā no vairumtirdzniecības iepirkumiem un izveidoja 24 produktu video, 360 grādu produktu fotogrāfijas un sociālo mediju saturu. Līdz 2025. gada augustam PaddleHub bija 215 aktīvi tirgotāju konti, AU$5.8M vairumtirdzniecības ieņēmumi pēdējos 12 mēnešos un 3 papildu ražošanas pasūtījumi kopsummā AU$3.2M. James paplašināja komandu līdz 12 darbiniekiem, tostarp pilna laika produktu vadītājam, un PaddleHub kļuva par otro lielāko SUP zīmolu Austrālijas tirgū pēc pārdošanas punktu skaita.',
             },
           ],
           results: [
@@ -3981,41 +3981,41 @@ const lv: Record<string, SolutionOverride> = {
             location: 'Dubai, UAE',
             background:
               'Dune Sports DMCC, ko vadīja AAE uzņēmējs Rashid Al Maktoum, bija Dubai bāzēts ūdens sporta izplatītājs ar $2.3M ikgadējiem ieņēmumiem, kas piegādāja džetskītus un kajakus jūras aprīkojuma tirgotājiem visā GCC. Rashid atpazina SUP kā neizmantotu iespēju Tuvajos Austrumos, kur strauji attīstījās pludmales tūrisms, luksusa kūrorti un ūdens sports. Reģionā nebija dominējoša SUP zīmola, un lielākā daļa produktu bija zemās kvalitātes importi, kas tika pārdoti Amazon bez servisa un garantijas. Rashid vēlējās kļūt par ekskluzīvo reģionālo OEM partneri premium SUP zīmolam, kas ar $1.2M sākotnējo investīciju varētu dominēt Tuvo Austrumu tirgū.',
-            goal: 'Iegūt ekskluzīvās izplatīšanas tiesības Tuvajiem Austrumiem un Ziemeļāfrikai no Afarer, izlaist premium reģionālu zīmolu 8 valstīs, sasniegt $5M vairumtirdzniecības ieņēmumus 24 mēnešos un iegūt 60%+ tirgus daļu GCC premium SUP segmentā.',
+            goal: 'Iegūt ekskluzīvās izplatīšanas tiesības Tuvajiem Austrumiem un Ziemeļāfrikai no OLagoon, izlaist premium reģionālu zīmolu 8 valstīs, sasniegt $5M vairumtirdzniecības ieņēmumus 24 mēnešos un iegūt 60%+ tirgus daļu GCC premium SUP segmentā.',
           },
           steps: [
             {
               title: 'Reģionālā tirgus analīze un ekskluzivitātes pamatvienošanās',
               detail:
-                'Rashid pasūtīja sešu nedēļu tirgus pētījumu UAE, Saūda Arābijā, Katarā, Kuveitā, Omānā, Bahreinā, Ēģiptē un Jordānijā. Pētījumā tika identificēti 280+ potenciālie tirgotāji, tostarp jūras aprīkojuma mazumtirgotāji, viesnīcu iepirkumu nodaļas un specializētie sporta veikali, ar kopējo apkalpojamo tirgu $18M gadā. 2024. gada aprīlī Rashid parakstīja piecu gadu ekskluzīvu OEM vienošanos ar Afarer, kas aptvēra 15 valstis MENA reģionā, apņemoties veikt minimālos ikgadējos iepirkumus $3M apmērā ar 15% pieaugumu gadā. Afarer piekrita līdzinvestēt $150K arābu valodas mārketinga materiālos, klātbūtnē reģionālajās tirdzniecības izstādēs un Dubai bāzētā rezerves daļu noliktavā.',
+                'Rashid pasūtīja sešu nedēļu tirgus pētījumu UAE, Saūda Arābijā, Katarā, Kuveitā, Omānā, Bahreinā, Ēģiptē un Jordānijā. Pētījumā tika identificēti 280+ potenciālie tirgotāji, tostarp jūras aprīkojuma mazumtirgotāji, viesnīcu iepirkumu nodaļas un specializētie sporta veikali, ar kopējo apkalpojamo tirgu $18M gadā. 2024. gada aprīlī Rashid parakstīja piecu gadu ekskluzīvu OEM vienošanos ar OLagoon, kas aptvēra 15 valstis MENA reģionā, apņemoties veikt minimālos ikgadējos iepirkumus $3M apmērā ar 15% pieaugumu gadā. OLagoon piekrita līdzinvestēt $150K arābu valodas mārketinga materiālos, klātbūtnē reģionālajās tirdzniecības izstādēs un Dubai bāzētā rezerves daļu noliktavā.',
             },
             {
               title: 'Produktu līnijas stratēģija un tuksnesim pielāgota inženierija',
               detail:
-                "Afarer inženieri Dune Sports izstrādāja zīmolu 'Oryx' ar 8 modeļiem, kas optimizēti Tuvo Austrumu apstākļiem: augstas temperatūras izturīgs PVC (pārbaudīts līdz 75°C virsmas temperatūrai), UV stabilas krāsvielas, kas neizbalotu Arābijas saulē, un smilšu izturīgas spuru sistēmas ar ātras noņemšanas mehānismiem. Afarer izgatavoja 500 pirmsizlaišanas vienības, tostarp īpašo izdevumu 'Royal Edition' ar zelta akcentiem un ādas rokturiem luksusa kūrortu segmentam. Rashid komanda testēja dēļus Arābijas līcī, Sarkanajā jūrā un iekštelpu viļņu baseinos, sasniedzot vidējos kvalitātes vērtējumus 4.7/5 no 200 testētājiem.",
+                "OLagoon inženieri Dune Sports izstrādāja zīmolu 'Oryx' ar 8 modeļiem, kas optimizēti Tuvo Austrumu apstākļiem: augstas temperatūras izturīgs PVC (pārbaudīts līdz 75°C virsmas temperatūrai), UV stabilas krāsvielas, kas neizbalotu Arābijas saulē, un smilšu izturīgas spuru sistēmas ar ātras noņemšanas mehānismiem. OLagoon izgatavoja 500 pirmsizlaišanas vienības, tostarp īpašo izdevumu 'Royal Edition' ar zelta akcentiem un ādas rokturiem luksusa kūrortu segmentam. Rashid komanda testēja dēļus Arābijas līcī, Sarkanajā jūrā un iekštelpu viļņu baseinos, sasniedzot vidējos kvalitātes vērtējumus 4.7/5 no 200 testētājiem.",
             },
             {
               title: 'Kanālu attīstība un partnerības ar viesnīcām un kūrortiem',
               detail:
-                "Rashid izveidoja piecu cilvēku reģionālo pārdošanas komandu ar bāzēm Dubai, Riyadh un Cairo. Afarer kanālu attīstības komanda nodrošināja tirgotāju vervināšanas skriptus, prezentāciju materiālus un trīs līmeņu tirgotāju programmu (Platinum, Gold, Silver). Dune Sports noslēdza ekskluzīvus izplatīšanas līgumus ar 65 jūras aprīkojuma tirgotājiem un tiešos iepirkuma līgumus ar 22 luksusa viesnīcu ķēdēm, tostarp Jumeirah, Four Seasons un St. Regis. Zīmols 'Oryx' tika noteikts kā standarta aprīkojums jaunajās Rixos un Anantara kūrortu attīstībās Ras Al Khaimah, Red Sea Project un Maldīvijās.",
+                "Rashid izveidoja piecu cilvēku reģionālo pārdošanas komandu ar bāzēm Dubai, Riyadh un Cairo. OLagoon kanālu attīstības komanda nodrošināja tirgotāju vervināšanas skriptus, prezentāciju materiālus un trīs līmeņu tirgotāju programmu (Platinum, Gold, Silver). Dune Sports noslēdza ekskluzīvus izplatīšanas līgumus ar 65 jūras aprīkojuma tirgotājiem un tiešos iepirkuma līgumus ar 22 luksusa viesnīcu ķēdēm, tostarp Jumeirah, Four Seasons un St. Regis. Zīmols 'Oryx' tika noteikts kā standarta aprīkojums jaunajās Rixos un Anantara kūrortu attīstībās Ras Al Khaimah, Red Sea Project un Maldīvijās.",
             },
             {
               title: 'Reģionālā izlaišana, Ramadana kampaņa un dominēšana tirgū',
               detail:
-                "Zīmols 'Oryx' tika izlaists visos 8 tirgos 2024. gada oktobrī ar vienlaicīgiem pasākumiem Dubai Marina Mall, Saūda Arābijas Red Sea Mall un Kataras Doha Festival City. Afarer atbalstīja ar $200K mārketinga kampaņu, tostarp arābu valodas TV reklāmas, influenceru partnerības ar 15 Tuvajos Austrumos darbojošiem āra piedzīvojumu entuziastiem un Dubai SUP Festival atbalstu. Līdz 2025. gada martam Dune Sports bija pārdevis 8,400 vienības, sasniedzis $4.7M vairumtirdzniecības ieņēmumus un ieguvis 58% GCC premium SUP tirgus. Rashid izmantoja pirmā opcijas gada atjaunošanu ar Afarer par $4.5M ikgadējiem iepirkumiem.",
+                "Zīmols 'Oryx' tika izlaists visos 8 tirgos 2024. gada oktobrī ar vienlaicīgiem pasākumiem Dubai Marina Mall, Saūda Arābijas Red Sea Mall un Kataras Doha Festival City. OLagoon atbalstīja ar $200K mārketinga kampaņu, tostarp arābu valodas TV reklāmas, influenceru partnerības ar 15 Tuvajos Austrumos darbojošiem āra piedzīvojumu entuziastiem un Dubai SUP Festival atbalstu. Līdz 2025. gada martam Dune Sports bija pārdevis 8,400 vienības, sasniedzis $4.7M vairumtirdzniecības ieņēmumus un ieguvis 58% GCC premium SUP tirgus. Rashid izmantoja pirmā opcijas gada atjaunošanu ar OLagoon par $4.5M ikgadējiem iepirkumiem.",
             },
           ],
           results: [
             '$4.7M vairumtirdzniecības ieņēmumi pirmajos 12 mēnešos 8 valstīs, sasniedzot 94% no 24 mēnešu mērķa pusē no termiņa',
             '58% tirgus daļa iegūta GCC premium SUP segmentā ($349-$799 mazumtirdzniecībā), dominējot pār sašķeltajiem konkurentu zīmoliem',
             'Noslēgti 22 ekskluzīvi viesnīcu un kūrortu iepirkuma līgumi, kas nozīmē 3,100 viesmīlības nozarei pārdotu vienību ar 72% atkārtotu pasūtījumu līmeni',
-            'Dune Sports uzņēmuma vērtība pieauga no $2.3M līdz $12M 14 mēnešos, un Rashid, izmantojot Afarer OEM platformu, paplašinājās blakus ūdens sporta kategorijās',
+            'Dune Sports uzņēmuma vērtība pieauga no $2.3M līdz $12M 14 mēnešos, un Rashid, izmantojot OLagoon OEM platformu, paplašinājās blakus ūdens sporta kategorijās',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc globālie izplatītāji izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc globālie izplatītāji izvēlas OLagoon',
       items: [
         {
           title: 'Ražošanas apjoms',
@@ -4050,38 +4050,38 @@ const lv: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Kas Afarer atšķir no citiem SUP OEM ražotājiem izplatītājiem?',
+        question: 'Kas OLagoon atšķir no citiem SUP OEM ražotājiem izplatītājiem?',
         answer:
-          'Afarer piedāvā pilnīgu partnerības modeli, kas sniedzas pāri ražošanai, tostarp reģionālās tirgus aizsardzības programmas, atbalstu ekskluzīva zīmola izveidei, loģistikas optimizāciju un izplatītāju pārdošanas apmācības. Mēs koncentrējamies uz ilgtermiņa attiecībām, kas palīdz partneriem izaugt no importētājiem līdz reģionāliem zīmola īpašniekiem.',
+          'OLagoon piedāvā pilnīgu partnerības modeli, kas sniedzas pāri ražošanai, tostarp reģionālās tirgus aizsardzības programmas, atbalstu ekskluzīva zīmola izveidei, loģistikas optimizāciju un izplatītāju pārdošanas apmācības. Mēs koncentrējamies uz ilgtermiņa attiecībām, kas palīdz partneriem izaugt no importētājiem līdz reģionāliem zīmola īpašniekiem.',
       },
       {
         question: 'Kā darbojas reģionālās tirgus aizsardzības programma ekskluzīvajiem izplatītājiem?',
         answer:
-          'Kvalificētiem partneriem Afarer piedāvā uz teritoriju balstītus sadarbības līgumus, produkta diferenciāciju ar ekskluzīvām grafikām un konfigurācijām, kā arī tirgotāju tīkla atbalstu. Tas nodrošina, ka izplatītāji var investēt tirgus attīstībā ar pārliecību, ka viņu reģionālā pozīcija ir aizsargāta.',
+          'Kvalificētiem partneriem OLagoon piedāvā uz teritoriju balstītus sadarbības līgumus, produkta diferenciāciju ar ekskluzīvām grafikām un konfigurācijām, kā arī tirgotāju tīkla atbalstu. Tas nodrošina, ka izplatītāji var investēt tirgus attīstībā ar pārliecību, ka viņu reģionālā pozīcija ir aizsargāta.',
       },
       {
         question: 'Kādi ir tipiskie pasūtījumu apjomi konteineru līmeņa SUP sūtījumiem?',
         answer:
-          'Afarer atbalsta trīs sadarbības posmus: tirgus testēšana (1,000-3,000 gab.), reģionālā paplašināšanās (5,000-10,000 gab.) un lielo izplatītāju apjoms (10,000-20,000+ gab.). Konteineru kravu optimizācija palīdz maksimāli palielināt transportēšanas efektivitāti un samazināt importa izmaksas uz vienību.',
+          'OLagoon atbalsta trīs sadarbības posmus: tirgus testēšana (1,000-3,000 gab.), reģionālā paplašināšanās (5,000-10,000 gab.) un lielo izplatītāju apjoms (10,000-20,000+ gab.). Konteineru kravu optimizācija palīdz maksimāli palielināt transportēšanas efektivitāti un samazināt importa izmaksas uz vienību.',
       },
       {
-        question: 'Vai izplatītāji kopā ar Afarer var izveidot savus privātā zīmola SUP zīmolus?',
+        question: 'Vai izplatītāji kopā ar OLagoon var izveidot savus privātā zīmola SUP zīmolus?',
         answer:
-          'Jā, Afarer atbalsta pilnīgu privātā zīmola izveidi, tostarp zīmola pozicionējumu, produktu izvēli, pielāgotu grafisko dizainu, iepakojuma pielāgošanu un ekskluzīvas produktu kolekcijas. Tas ļauj izplatītājiem veidot reģionālus zīmolus, nevis konkurēt tikai ar cenu.',
+          'Jā, OLagoon atbalsta pilnīgu privātā zīmola izveidi, tostarp zīmola pozicionējumu, produktu izvēli, pielāgotu grafisko dizainu, iepakojuma pielāgošanu un ekskluzīvas produktu kolekcijas. Tas ļauj izplatītājiem veidot reģionālus zīmolus, nevis konkurēt tikai ar cenu.',
       },
       {
-        question: 'Kā Afarer palīdz loģistikas optimizācijā un importa izmaksu samazināšanā?',
+        question: 'Kā OLagoon palīdz loģistikas optimizācijā un importa izmaksu samazināšanā?',
         answer:
-          'Afarer nodrošina konteineru kravu optimizāciju, lai maksimāli palielinātu transportēšanas efektivitāti, produktu klāsta plānošanu, apvienojot ātri pārdodamos modeļus ar premium produktiem, kā arī visaptverošu eksporta dokumentācijas atbalstu, lai vienkāršotu muitas formalitātes un samazinātu aizkaves.',
+          'OLagoon nodrošina konteineru kravu optimizāciju, lai maksimāli palielinātu transportēšanas efektivitāti, produktu klāsta plānošanu, apvienojot ātri pārdodamos modeļus ar premium produktiem, kā arī visaptverošu eksporta dokumentācijas atbalstu, lai vienkāršotu muitas formalitātes un samazinātu aizkaves.',
       },
       {
         question: 'Kādi kvalitātes kontroles procesi tiek piemēroti starptautiskajiem sūtījumiem?',
         answer:
-          'Afarer īsteno trīs pakāpju kvalitātes pārvaldību: materiālu pārbaudi (PVC un drop stitch komponentes), ražošanas procesu uzraudzību un gala pārbaudi pirms nosūtīšanas, kas aptver izskatu, aksesuārus, iepakojumu un daudzuma precizitāti.',
+          'OLagoon īsteno trīs pakāpju kvalitātes pārvaldību: materiālu pārbaudi (PVC un drop stitch komponentes), ražošanas procesu uzraudzību un gala pārbaudi pirms nosūtīšanas, kas aptver izskatu, aksesuārus, iepakojumu un daudzuma precizitāti.',
       },
     ],
     cta: {
-      title: 'Kļūstiet par Afarer reģionālo partneri',
+      title: 'Kļūstiet par OLagoon reģionālo partneri',
       subtitle: 'Jūsu tirgus ir pelnījis uzticamu ūdens sporta piegādes partneri.',
       primaryAction: {
         text: 'Sāciet savu reģionālo OEM partnerību jau šodien',
@@ -4096,7 +4096,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pielāgoti zīmoloti SUP dēļi korporatīviem pasākumiem | OEM pasākumu risinājumi | {SITE}',
       description:
-        'Afarer izveido pielāgotus zīmolotus SUP dēļus korporatīviem pasākumiem, komandas veidošanas aktivitātēm un mārketinga kampaņām. Pilnīga logotipa pielāgošana, korporatīvo krāsu saskaņošana, ātra prototipu izstrāde un lielapjoma OEM ražošana.',
+        'OLagoon izveido pielāgotus zīmolotus SUP dēļus korporatīviem pasākumiem, komandas veidošanas aktivitātēm un mārketinga kampaņām. Pilnīga logotipa pielāgošana, korporatīvo krāsu saskaņošana, ātra prototipu izstrāde un lielapjoma OEM ražošana.',
     },
     hero: {
       tagline: 'Korporatīvo SUP pasākumu pakete™',
@@ -4138,7 +4138,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pilnīga korporatīvā zīmola pielāgošana',
           description:
-            'Afarer atbalsta liela laukuma logotipa drukāšanu, dēļa virsmas zīmološanu, airu pielāgošanu un piederumu zīmološanu ar korporatīvo krāsu saskaņošanu, izmantojot Pantone atsauces un vizuālās identitātes prasības.',
+            'OLagoon atbalsta liela laukuma logotipa drukāšanu, dēļa virsmas zīmološanu, airu pielāgošanu un piederumu zīmološanu ar korporatīvo krāsu saskaņošanu, izmantojot Pantone atsauces un vizuālās identitātes prasības.',
           features: [
             'Korporatīvā logotipa uzklāšana',
             'Korporatīvo krāsu saskaņošana',
@@ -4148,19 +4148,19 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pasākumam paredzētas SUP produktu izstrāde',
           description:
-            'Dažādiem pasākumiem nepieciešami dažādi risinājumi. Afarer piedāvā komandas veidošanas paketes lielām darbinieku grupām, zīmola aktivizēšanas paketes mārketinga kampaņām un VIP pieredzes paketes luksusa klientu pasākumiem.',
+            'Dažādiem pasākumiem nepieciešami dažādi risinājumi. OLagoon piedāvā komandas veidošanas paketes lielām darbinieku grupām, zīmola aktivizēšanas paketes mārketinga kampaņām un VIP pieredzes paketes luksusa klientu pasākumiem.',
           features: ['Komandas veidošanas pakete', 'Zīmola aktivizēšanas pakete', 'VIP pieredzes pakete'],
         },
         {
           title: 'Ātrs prototipu un apstiprināšanas process',
           description:
-            'Afarer atbalsta ātru dizaina apstiprināšanu ar māksliniecisko izstrādājumu pārskatīšanu un grafikas koriģēšanu, prototipu izstrādi krāsu un logotipa izvietojuma apstiprināšanai, kā arī ražošanas plānošanu, kas saskaņota ar pasākumu termiņiem.',
+            'OLagoon atbalsta ātru dizaina apstiprināšanu ar māksliniecisko izstrādājumu pārskatīšanu un grafikas koriģēšanu, prototipu izstrādi krāsu un logotipa izvietojuma apstiprināšanai, kā arī ražošanas plānošanu, kas saskaņota ar pasākumu termiņiem.',
           features: ['Ātra dizaina apstiprināšana', 'Prototipu izstrāde', 'Ražošanas plānošana'],
         },
         {
           title: 'Lielapjoma pielāgotas ražošanas kapacitāte',
           description:
-            'Afarer atbalsta korporatīvos pasūtījumus — no maziem pasākumiem ar 50-100 gab. iekšējām aktivitātēm un vidējiem mārketinga projektiem ar 100-500 gab. zīmola aktivizēšanai līdz lielām korporatīvām kampaņām ar 500-1000+ gab. nacionāliem pasākumiem.',
+            'OLagoon atbalsta korporatīvos pasūtījumus — no maziem pasākumiem ar 50-100 gab. iekšējām aktivitātēm un vidējiem mārketinga projektiem ar 100-500 gab. zīmola aktivizēšanai līdz lielām korporatīvām kampaņām ar 500-1000+ gab. nacionāliem pasākumiem.',
           features: [
             'Mazie korporatīvie pasākumi (50-100 gab.)',
             'Vidējie mārketinga projekti (100-500 gab.)',
@@ -4170,7 +4170,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pilnīgas pasākumu inventāra paketes',
           description:
-            'Afarer nodrošina pilnīgus pasākumu risinājumus, tostarp pielāgotus SUP dēļus, regulējamas airas, sūkņus, drošības siksnas, pārvadāšanas maisus, remonta komplektus, kā arī pēc izvēles zīmolotas airas, pasākumu piederumus un prezentācijas materiālus.',
+            'OLagoon nodrošina pilnīgus pasākumu risinājumus, tostarp pielāgotus SUP dēļus, regulējamas airas, sūkņus, drošības siksnas, pārvadāšanas maisus, remonta komplektus, kā arī pēc izvēles zīmolotas airas, pasākumu piederumus un prezentācijas materiālus.',
           features: ['Standarta paketē ietilpst', 'Pielāgošana pēc izvēles', 'Personāla ekipējums'],
         },
         {
@@ -4182,13 +4182,13 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Kvalitātes kontrole zīmolu projektiem',
           description:
-            'Afarer nodrošina ražošanas kvalitātes pārbaudi materiāliem un drukai, zīmološanas precizitātes kontroli logotipa novietojumam un krāsu konsekvencei, kā arī piegādes pārbaudi daudzumam, iepakojumam un piederumiem.',
+            'OLagoon nodrošina ražošanas kvalitātes pārbaudi materiāliem un drukai, zīmološanas precizitātes kontroli logotipa novietojumam un krāsu konsekvencei, kā arī piegādes pārbaudi daudzumam, iepakojumam un piederumiem.',
           features: ['Ražošanas kvalitātes pārbaude', 'Zīmološanas precizitātes kontrole', 'Piegādes pārbaude'],
         },
         {
           title: 'Globālas pasākumu piegādes atbalsts',
           description:
-            'Starpnacionāliem uzņēmumiem Afarer atbalsta vairāku valstu projektus, reģionālos pasākumus un globālas kampaņas ar koordinētu ražošanu, iepakojumu un piegādes sagatavošanu dažādās vietās.',
+            'Starpnacionāliem uzņēmumiem OLagoon atbalsta vairāku valstu projektus, reģionālos pasākumus un globālas kampaņas ar koordinētu ražošanu, iepakojumu un piegādes sagatavošanu dažādās vietās.',
           features: ['Vairāku valstu projekti', 'Reģionālie pasākumi', 'Globālas kampaņas'],
         },
       ],
@@ -4205,7 +4205,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Zīmola dizaina integrācija',
           detail:
-            'Afarer izstrādāja pielāgotu dēļu grafiku ar precīzu zīmola krāsu saskaņošanu un liela logotipa izvietojumu, lai maksimizētu vizuālo ietekmi uz ūdens.',
+            'OLagoon izstrādāja pielāgotu dēļu grafiku ar precīzu zīmola krāsu saskaņošanu un liela logotipa izvietojumu, lai maksimizētu vizuālo ietekmi uz ūdens.',
         },
         {
           title: 'Prototipa apstiprināšana',
@@ -4242,17 +4242,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Programmas koncepts un pielāgota produktu inženierija',
               detail:
-                "2024. gada novembrī Klaus komanda tikās ar Afarer korporatīvo pasākumu nodaļu boot Düsseldorf laivu izstādē, lai izskatītu koncepciju. Afarer piedāvāja pielāgotu 11'6'' tūrisma dēli BMW i-series krāsās (Blue Ridge Mountain Metallic, Frozen Pure Grey) ar austas oglekļa šķiedras akcentiem, kas atbilst i7 salona apdarei. Afarer inženieri izveidoja 3 prototipu dēļus ar integrētiem GoPro stiprinājumiem aktīvai fotografēšanai, neslīdošiem dēļa paklājiem ar BMW M iedvesmotu šuvējumu un pielāgotiem vārstu vāciņiem ar BMW emblēmu. BMW apstiprināja 120 vienības, katru par €895, ar īpašu uzglabāšanas un transportēšanas sistēmu, izmantojot pielāgotus ratiņus ar riteņiem.",
+                "2024. gada novembrī Klaus komanda tikās ar OLagoon korporatīvo pasākumu nodaļu boot Düsseldorf laivu izstādē, lai izskatītu koncepciju. OLagoon piedāvāja pielāgotu 11'6'' tūrisma dēli BMW i-series krāsās (Blue Ridge Mountain Metallic, Frozen Pure Grey) ar austas oglekļa šķiedras akcentiem, kas atbilst i7 salona apdarei. OLagoon inženieri izveidoja 3 prototipu dēļus ar integrētiem GoPro stiprinājumiem aktīvai fotografēšanai, neslīdošiem dēļa paklājiem ar BMW M iedvesmotu šuvējumu un pielāgotiem vārstu vāciņiem ar BMW emblēmu. BMW apstiprināja 120 vienības, katru par €895, ar īpašu uzglabāšanas un transportēšanas sistēmu, izmantojot pielāgotus ratiņus ar riteņiem.",
             },
             {
               title: 'Zīmola integrācija un pasākumu loģistikas plānošana',
               detail:
-                'Afarer grafikas komanda izstrādāja pilnībā aptverošas UV noturīgas dekāles ar BMW i zīmolojumu, QR kodiem ar saiti uz BMW i konfiguratoru un drošības instrukciju grafiku 8 valodās. Loģistikas komanda izstrādāja rotācijas sistēmu, nosūtot 40 dēļus uz katru no 3 reģioniem (Southern Europe, Central Europe, Nordic/Baltic), ar mobilām sūkņu stacijām, ar akumulatoru darbinātiem piepūšanas sūkņiem un ūdensnecaurlaidīgām pārģērbšanās kabīnēm. BMW pasākumu komanda izvēlējās 18 vietas, tostarp Lake Como (Italy), St. Tropez (France), Lake Lucerne (Switzerland), Lake Garda (Italy) un arhipelāgu netālu no Stockholm (Sweden), un katrā notika 2-3 dienu programmas ar 300-600 viesiem.',
+                'OLagoon grafikas komanda izstrādāja pilnībā aptverošas UV noturīgas dekāles ar BMW i zīmolojumu, QR kodiem ar saiti uz BMW i konfiguratoru un drošības instrukciju grafiku 8 valodās. Loģistikas komanda izstrādāja rotācijas sistēmu, nosūtot 40 dēļus uz katru no 3 reģioniem (Southern Europe, Central Europe, Nordic/Baltic), ar mobilām sūkņu stacijām, ar akumulatoru darbinātiem piepūšanas sūkņiem un ūdensnecaurlaidīgām pārģērbšanās kabīnēm. BMW pasākumu komanda izvēlējās 18 vietas, tostarp Lake Como (Italy), St. Tropez (France), Lake Lucerne (Switzerland), Lake Garda (Italy) un arhipelāgu netālu no Stockholm (Sweden), un katrā notika 2-3 dienu programmas ar 300-600 viesiem.',
             },
             {
               title: 'Aktivizēšana pasākuma vietā un viesu pieredzes dizains',
               detail:
-                "Katrs pasākums ietvēra 'BMW i Paddle Experience' ar 40 dēļiem, kas bija pieejami 90 minūšu vadītās sesijās ar Afarer apmācītiem instruktoriem. Viesi saņēma personalizētus BMW i zīmola rash guard un ūdensnecaurlaidīgus telefonu makus. Profesionāli fotogrāfi uzņēma katru viesu airējot ar dēļos integrētajiem kameras stiprinājumiem; attēli tika rediģēti un nosūtīti 2 stundu laikā, izmantojot zīmolotu mikrovietni. Aktivizēšana tika apvienota ar BMW i7 testa braucieniem gleznainajos piekrastes ceļos, radot zīmola iespaidu gan uz zemes, gan uz ūdens. Pirmajos 10 pasākumos viesu apmierinātība sasniedza 4,8/5, un BMW ziņoja, ka 23% dalībnieku pēc pasākuma pieprasīja turpmāku dīlera testa braucienu.",
+                "Katrs pasākums ietvēra 'BMW i Paddle Experience' ar 40 dēļiem, kas bija pieejami 90 minūšu vadītās sesijās ar OLagoon apmācītiem instruktoriem. Viesi saņēma personalizētus BMW i zīmola rash guard un ūdensnecaurlaidīgus telefonu makus. Profesionāli fotogrāfi uzņēma katru viesu airējot ar dēļos integrētajiem kameras stiprinājumiem; attēli tika rediģēti un nosūtīti 2 stundu laikā, izmantojot zīmolotu mikrovietni. Aktivizēšana tika apvienota ar BMW i7 testa braucieniem gleznainajos piekrastes ceļos, radot zīmola iespaidu gan uz zemes, gan uz ūdens. Pirmajos 10 pasākumos viesu apmierinātība sasniedza 4,8/5, un BMW ziņoja, ka 23% dalībnieku pēc pasākuma pieprasīja turpmāku dīlera testa braucienu.",
             },
             {
               title: 'Veiktspējas pārskats un programmas paplašināšana',
@@ -4279,17 +4279,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Programmas dizains un vairāku vietu loģistikas plānošana',
               detail:
-                "Dr. Sharma komanda iesaistīja Afarer 2025. gada februārī, lai izveidotu pielāgotu korporatīvo programmu. Afarer piedāvāja 'Paddle into Production' tēmu, kurā 8-10 inženieru komandas pārvarētu SUP trases, kas attēlo Google Cloud izvietošanas konveijera posmus. Afarer pielāgoja 80 dēļus ar Google Cloud zīmolojumu, komandu krāsu kodējumu un ūdensnecaurlaidīgiem turētājiem mobilajām ierīcēm. Loģistikas plāns aptvēra 6 vietas: Sunnyvale HQ, Seattle, New York, Austin, Chicago un Boulder, ar pasākumiem reizi 2 nedēļās no jūnija līdz 2025. gada augustam. Afarer apņēmās €320K par 80 dēļiem, 24 instruktoriem, pilnu loģistiku un zīmolotu ekipējumu 1 200 dalībniekiem.",
+                "Dr. Sharma komanda iesaistīja OLagoon 2025. gada februārī, lai izveidotu pielāgotu korporatīvo programmu. OLagoon piedāvāja 'Paddle into Production' tēmu, kurā 8-10 inženieru komandas pārvarētu SUP trases, kas attēlo Google Cloud izvietošanas konveijera posmus. OLagoon pielāgoja 80 dēļus ar Google Cloud zīmolojumu, komandu krāsu kodējumu un ūdensnecaurlaidīgiem turētājiem mobilajām ierīcēm. Loģistikas plāns aptvēra 6 vietas: Sunnyvale HQ, Seattle, New York, Austin, Chicago un Boulder, ar pasākumiem reizi 2 nedēļās no jūnija līdz 2025. gada augustam. OLagoon apņēmās €320K par 80 dēļiem, 24 instruktoriem, pilnu loģistiku un zīmolotu ekipējumu 1 200 dalībniekiem.",
             },
             {
               title: 'Iekļaujošas aktivitātes izstrāde un drošības ietvars',
               detail:
-                "Afarer programmu komanda izveidoja 3 prasmju līmeņus: 'Beginner Buoy' (pamata airēšana un stabilitātes spēles), 'Production Racer' (komandu stafetes) un 'Cloud Cluster' (grupas veidošanas izaicinājumi, kas prasa koordināciju). Katrs līmenis ietvēra Google Cloud tēmas izaicinājumus, piemēram, 'deploy a container' (noturēt bumbu uz dēļa vienlaikus airējot) un 'scale to zero' (visiem dalībniekiem vienlaikus jāapsēžas). Afarer nolīga 24 sertificētus SUP instruktorus visās vietās un izstrādāja visaptverošu drošības protokolu, tostarp obligātas glābšanas vestes, pāru sistēmu, peldēšanas pārbaudes un novērotājus uz ūdens ar glābšanas dēļiem.",
+                "OLagoon programmu komanda izveidoja 3 prasmju līmeņus: 'Beginner Buoy' (pamata airēšana un stabilitātes spēles), 'Production Racer' (komandu stafetes) un 'Cloud Cluster' (grupas veidošanas izaicinājumi, kas prasa koordināciju). Katrs līmenis ietvēra Google Cloud tēmas izaicinājumus, piemēram, 'deploy a container' (noturēt bumbu uz dēļa vienlaikus airējot) un 'scale to zero' (visiem dalībniekiem vienlaikus jāapsēžas). OLagoon nolīga 24 sertificētus SUP instruktorus visās vietās un izstrādāja visaptverošu drošības protokolu, tostarp obligātas glābšanas vestes, pāru sistēmu, peldēšanas pārbaudes un novērotājus uz ūdens ar glābšanas dēļiem.",
             },
             {
               title: 'Ievadapmācība, zīmoloti suvenīri un pasākuma īstenošana',
               detail:
-                "Katrs dalībnieks saņēma zīmolotu sveicienu komplektu, tostarp Google Cloud x Afarer rash guard, SPF lūpu balzamu, sauso maisu un pasākumu bukletu. 2 stundu sesijas ietvēra 30 minūšu apmācību krastā, 75 minūtes aktivitāšu uz ūdens un 15 minūšu atslodzes ar komandas foto, izmantojot dronu. Afarer pasākumu komanda veica visu uzstādīšanu, demontāžu un uzkopšanu katrā vietā — Google darbiniekiem vajadzēja tikai ierasties. Pirmais pasākums Shoreline Lake, Mountain View, 2025. gada 12. jūnijā sasniedza 97% apmeklētību, un komandas sacentās par 'Highest Availability' balvu, ko piešķīra par koordināciju un ātrumu.",
+                "Katrs dalībnieks saņēma zīmolotu sveicienu komplektu, tostarp Google Cloud x OLagoon rash guard, SPF lūpu balzamu, sauso maisu un pasākumu bukletu. 2 stundu sesijas ietvēra 30 minūšu apmācību krastā, 75 minūtes aktivitāšu uz ūdens un 15 minūšu atslodzes ar komandas foto, izmantojot dronu. OLagoon pasākumu komanda veica visu uzstādīšanu, demontāžu un uzkopšanu katrā vietā — Google darbiniekiem vajadzēja tikai ierasties. Pirmais pasākums Shoreline Lake, Mountain View, 2025. gada 12. jūnijā sasniedza 97% apmeklētību, un komandas sacentās par 'Highest Availability' balvu, ko piešķīra par koordināciju un ātrumu.",
             },
             {
               title: 'Rezultātu analīze un paplašināšana otrajā gadā',
@@ -4306,8 +4306,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc uzņēmumi izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc uzņēmumi izvēlas OLagoon',
       items: [
         {
           title: 'Zīmola prezentācija',
@@ -4317,7 +4317,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Ātra projektu īstenošana',
           description:
-            'Termiņi ir svarīgi. Afarer racionalizētais process virzās no koncepcijas līdz piegādei ciešajos pasākumu grafikos.',
+            'Termiņi ir svarīgi. OLagoon racionalizētais process virzās no koncepcijas līdz piegādei ciešajos pasākumu grafikos.',
         },
         {
           title: 'Pielāgota ražošana',
@@ -4327,7 +4327,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Uzticama piegāde',
           description:
-            'Pasākumi nevar gaidīt. Afarer garantē ražošanas plānošanu un piegādes koordināciju, lai ievērotu fiksētos pasākumu datumus.',
+            'Pasākumi nevar gaidīt. OLagoon garantē ražošanas plānošanu un piegādes koordināciju, lai ievērotu fiksētos pasākumu datumus.',
         },
         {
           title: 'Vizuālā ietekme',
@@ -4345,36 +4345,36 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai varat saskaņot precīzas korporatīvā zīmola krāsas (Pantone) uz SUP dēļiem?',
         answer:
-          'Jā, Afarer atbalsta Pantone krāsu saskaņošanu un korporatīvās vizuālās identitātes prasības ar precīzu krāsu atveidošanu. Nodrošinām prototipu paraugus krāsu apstiprināšanai pirms sērijveida ražošanas, lai gala produkts precīzi atbilstu jūsu zīmola standartiem.',
+          'Jā, OLagoon atbalsta Pantone krāsu saskaņošanu un korporatīvās vizuālās identitātes prasības ar precīzu krāsu atveidošanu. Nodrošinām prototipu paraugus krāsu apstiprināšanai pirms sērijveida ražošanas, lai gala produkts precīzi atbilstu jūsu zīmola standartiem.',
       },
       {
         question: 'Kāds ir minimālais pasūtījuma daudzums pielāgotiem zīmolotiem SUP dēļiem?',
         answer:
-          'Afarer pielāgojas dažādiem projekta mērogiem. Maziem korporatīviem pasākumiem un iekšējām aktivitātēm sākot no 50-100 vienībām. Vidēja apjoma mārketinga kampaņās no 100-500 vienībām, un lieliem nacionāliem vai vairāku vietu pasākumiem iespējams mērogot līdz 500-1000+ vienībām.',
+          'OLagoon pielāgojas dažādiem projekta mērogiem. Maziem korporatīviem pasākumiem un iekšējām aktivitātēm sākot no 50-100 vienībām. Vidēja apjoma mārketinga kampaņās no 100-500 vienībām, un lieliem nacionāliem vai vairāku vietu pasākumiem iespējams mērogot līdz 500-1000+ vienībām.',
       },
       {
         question: 'Cik ilgi ilgst prototipu izstrādes un apstiprināšanas process?',
         answer:
-          'Prototipēšanas process ir izveidots ātrumam. Afarer nodrošina ātru dizaina apstiprināšanu, māksliniecisko izstrādājumu pārskatīšanu un prototipu izstrādi parasti 1-2 nedēļu laikā. Tas ļauj pietiekami laika apstiprināšanai un sērijveida ražošanai pirms pasākumu termiņiem.',
+          'Prototipēšanas process ir izveidots ātrumam. OLagoon nodrošina ātru dizaina apstiprināšanu, māksliniecisko izstrādājumu pārskatīšanu un prototipu izstrādi parasti 1-2 nedēļu laikā. Tas ļauj pietiekami laika apstiprināšanai un sērijveida ražošanai pirms pasākumu termiņiem.',
       },
       {
         question: 'Vai varat piegādāt uz vairākām vietām globālu kampaņu pasākumiem?',
         answer:
-          'Jā, Afarer atbalsta vairāku valstu un vairāku vietu pasākumu kampaņas. Koordinējam ražošanu, iepakojumu un piegādes sagatavošanu, lai nodrošinātu konsekventu piegādi visās reģionālajās vai globālajās pasākumu vietās.',
+          'Jā, OLagoon atbalsta vairāku valstu un vairāku vietu pasākumu kampaņas. Koordinējam ražošanu, iepakojumu un piegādes sagatavošanu, lai nodrošinātu konsekventu piegādi visās reģionālajās vai globālajās pasākumu vietās.',
       },
       {
         question: 'Kādas pielāgošanas iespējas ir pieejamas papildus logotipa drukāšanai?',
         answer:
-          'Papildus logotipa drukāšanai Afarer piedāvā pilnu dēļa virsmas zīmološanu, airu pielāgošanu, korporatīvo krāsu saskaņošanu ar Pantone atsauces, pasākumu tēmas grafiskos dizainus, ierobežota izdevuma mākslinieciskos darbus un zīmolotus piederumus, tostarp airas, sūkņus un maisus.',
+          'Papildus logotipa drukāšanai OLagoon piedāvā pilnu dēļa virsmas zīmološanu, airu pielāgošanu, korporatīvo krāsu saskaņošanu ar Pantone atsauces, pasākumu tēmas grafiskos dizainus, ierobežota izdevuma mākslinieciskos darbus un zīmolotus piederumus, tostarp airas, sūkņus un maisus.',
       },
       {
         question: 'Vai piedāvājat pilnīgas pasākumu paketes, ietverot piederumus un airas?',
         answer:
-          'Jā, Afarer nodrošina pilnīgas pasākumu inventāra paketes, tostarp pielāgotus SUP dēļus, regulējamas airas, sūkņus, drošības siksnas, pārvadāšanas maisus un remonta komplektus. Pēc izvēles papildinājumi ietver zīmolotas airas, pasākumu piederumus, prezentācijas materiālus un personāla ekipējumu.',
+          'Jā, OLagoon nodrošina pilnīgas pasākumu inventāra paketes, tostarp pielāgotus SUP dēļus, regulējamas airas, sūkņus, drošības siksnas, pārvadāšanas maisus un remonta komplektus. Pēc izvēles papildinājumi ietver zīmolotas airas, pasākumu piederumus, prezentācijas materiālus un personāla ekipējumu.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu korporatīvo ūdens pieredzi kopā ar Afarer',
+      title: 'Izveidojiet savu korporatīvo ūdens pieredzi kopā ar OLagoon',
       subtitle: 'Jūsu zīmols ir pelnījis, lai to atceras.',
       primaryAction: {
         text: 'Sāciet savu korporatīvo SUP projektu jau šodien',
@@ -4389,7 +4389,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Piepūšamo SUP OEM ražotājs ūdens sporta zīmoliem | {SITE}',
       description:
-        'Afarer palīdz kajaku, kanoe, burāšanas un niršanas zīmoliem paplašināties piepūšamo SUP produktu virzienā ar profesionālu Drop Stitch tehnoloģiju, OEM ražošanu un pilnīgiem ūdens sporta produktu risinājumiem.',
+        'OLagoon palīdz kajaku, kanoe, burāšanas un niršanas zīmoliem paplašināties piepūšamo SUP produktu virzienā ar profesionālu Drop Stitch tehnoloģiju, OEM ražošanu un pilnīgiem ūdens sporta produktu risinājumiem.',
     },
     hero: {
       tagline: 'Paplašiniet savu ūdens sporta portfeli™',
@@ -4430,13 +4430,13 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Nobriedusi piepūšamo SUP ražošanas tehnoloģija',
           description:
-            'Afarer piedāvā profesionālu Drop Stitch tehnoloģiju augsta spiediena piepūšamajām konstrukcijām ar cieta dēļa veiktspēju, daudzslāņu PVC konstrukciju izturībai un profesionālu metināšanas tehnoloģiju stiprām šuvēm.',
+            'OLagoon piedāvā profesionālu Drop Stitch tehnoloģiju augsta spiediena piepūšamajām konstrukcijām ar cieta dēļa veiktspēju, daudzslāņu PVC konstrukciju izturībai un profesionālu metināšanas tehnoloģiju stiprām šuvēm.',
           features: ['Drop Stitch tehnoloģija', 'Daudzslāņu PVC konstrukcija', 'Profesionālā metināšanas tehnoloģija'],
         },
         {
           title: 'Pilnīga SUP produktu portfeļa izstrāde',
           description:
-            'Afarer piedāvā pārbaudītas produktu platformas, tostarp universālos SUP iesācējiem un ģimenēm, tūrisma SUP piedzīvojumu lietotājiem, makšķerēšanas SUP ar montāžas sistēmām, jogas SUP labsajūtas tirgiem un bērnu SUP.',
+            'OLagoon piedāvā pārbaudītas produktu platformas, tostarp universālos SUP iesācējiem un ģimenēm, tūrisma SUP piedzīvojumu lietotājiem, makšķerēšanas SUP ar montāžas sistēmām, jogas SUP labsajūtas tirgiem un bērnu SUP.',
           features: [
             'Universālo SUP sērija',
             'Tūrisma SUP sērija',
@@ -4448,37 +4448,37 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'OEM un ODM produktu izstrāde',
           description:
-            'Afarer atbalsta ražošanu zem paša zīmola ar zīmola logotipu un iepakojumu, produktu modifikāciju izmēriem un funkcijām, kā arī ekskluzīvas kolekcijas zīmolam specifiskiem modeļiem un sezonas produktiem.',
+            'OLagoon atbalsta ražošanu zem paša zīmola ar zīmola logotipu un iepakojumu, produktu modifikāciju izmēriem un funkcijām, kā arī ekskluzīvas kolekcijas zīmolam specifiskiem modeļiem un sezonas produktiem.',
           features: ['Ražošana zem paša zīmola', 'Produktu modifikācija', 'Ekskluzīvas kolekcijas'],
         },
         {
           title: 'Ātras ieiešanas tirgū programma',
           description:
-            'Afarer palīdz saīsināt izstrādes laiku, izmantojot esošas produktu platformas ar pārbaudītām dēļu formām un testētām konstrukcijām, ātru prototipu izstrādi no diskusijas līdz ražošanai un ātrāku komerciālo palaišanu sezonas iespēju izmantošanai.',
+            'OLagoon palīdz saīsināt izstrādes laiku, izmantojot esošas produktu platformas ar pārbaudītām dēļu formām un testētām konstrukcijām, ātru prototipu izstrādi no diskusijas līdz ražošanai un ātrāku komerciālo palaišanu sezonas iespēju izmantošanai.',
           features: ['Esošas produktu platformas', 'Ātra prototipu izstrāde', 'Ātrāka komerciālā palaišana'],
         },
         {
           title: 'Ar zīmolu saderīga produktu integrācija',
           description:
-            'Afarer sadarbojas ar zīmolu vadītājiem, lai saskaņotu produktu dizaina valodu, tostarp krāsas, grafiku un materiālus, ar esošo zīmola identitāti piedzīvojumu, ģimenes un premium jūras pozicionējuma segmentos.',
+            'OLagoon sadarbojas ar zīmolu vadītājiem, lai saskaņotu produktu dizaina valodu, tostarp krāsas, grafiku un materiālus, ar esošo zīmola identitāti piedzīvojumu, ģimenes un premium jūras pozicionējuma segmentos.',
           features: ['Produktu dizaina valoda', 'Klientu pozicionēšana', 'Zīmola saskaņotība'],
         },
         {
           title: 'Piederumu un pilnīgu komplektu izstrāde',
           description:
-            'Afarer atbalsta SUP piederumus, tostarp airus, sūkņus, drošības saites, somas un remonta komplektus, kā arī produktu pakas, piemēram, iesācēju, piedzīvojumu un ģimenes komplektus.',
+            'OLagoon atbalsta SUP piederumus, tostarp airus, sūkņus, drošības saites, somas un remonta komplektus, kā arī produktu pakas, piemēram, iesācēju, piedzīvojumu un ģimenes komplektus.',
           features: ['SUP piederumi', 'Produktu komplekti', 'Komplektu izstrāde'],
         },
         {
           title: 'Piegādes ķēdes integrācija',
           description:
-            'Esiem zīmoliem Afarer nodrošina stabilu ražošanas jaudu 500-10,000 komplektu gadā, ikgadēju plānošanu produktu ceļakartei un sezonas ražošanai, kā arī kvalitātes konsekvenci visās specifikācijās.',
+            'Esiem zīmoliem OLagoon nodrošina stabilu ražošanas jaudu 500-10,000 komplektu gadā, ikgadēju plānošanu produktu ceļakartei un sezonas ražošanai, kā arī kvalitātes konsekvenci visās specifikācijās.',
           features: ['Stabila ražošanas jauda', 'Ikgadējā plānošana', 'Kvalitātes konsekvence'],
         },
         {
           title: 'Kvalitātes kontroles atbalsts',
           description:
-            'Afarer kvalitātes procesos ietilpst materiālu inspekcija PVC un Drop Stitch audumam, ražošanas uzraudzība metināšanai un montāžai, kā arī noslēguma inspekcija produktu veiktspējai, piederumiem un iepakojumam.',
+            'OLagoon kvalitātes procesos ietilpst materiālu inspekcija PVC un Drop Stitch audumam, ražošanas uzraudzība metināšanai un montāžai, kā arī noslēguma inspekcija produktu veiktspējai, piederumiem un iepakojumam.',
           features: ['Materiālu inspekcija', 'Ražošanas uzraudzība', 'Noslēguma inspekcija'],
         },
       ],
@@ -4495,7 +4495,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Produktu stratēģijas izstrāde',
           detail:
-            'Afarer analizēja zīmola esošo klientu bāzi, tirgus pozicionējumu un cenu segmentu, lai ieteiktu SUP produktu saimes paplašināšanu, kas saskanētu ar viņu zīmolu.',
+            'OLagoon analizēja zīmola esošo klientu bāzi, tirgus pozicionējumu un cenu segmentu, lai ieteiktu SUP produktu saimes paplašināšanu, kas saskanētu ar viņu zīmolu.',
         },
         {
           title: 'Produktu portfeļa izveide',
@@ -4532,22 +4532,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Produktu portfeļa plānošana un pielāgošana Brazīlijas tirgum',
               detail:
-                'Pedro 2025. gada janvārī kopā ar sava produkta direktoru un industriālo dizaineru piecu dienu sadarbības darbnīcas ietvaros apmeklēja Afarer ražotni Shenzhen. Viņi izvēlējās 10 SUP modeļus: 4 universālos, 3 tūrisma, 2 makšķerēšanas un 1 jogas platformu. Afarer inženieri pielāgoja katru produktu Brazīlijas apstākļiem, tostarp UV noturīgu PVC tropiskai saulei, pastiprinātas korpusa daļas akmeņainajām upju gultnēm Minas Gerais reģionā un krāsu paletes, ko iedvesmoja Brazīlijas karogs un Amazones lietusmeža motīvi. Pedro izsniedza sākotnējo pasūtījumu R$3.2M par 4,500 vienībām, ar 30% priekšapmaksu un atlikuma samaksu pret konosamentu.',
+                'Pedro 2025. gada janvārī kopā ar sava produkta direktoru un industriālo dizaineru piecu dienu sadarbības darbnīcas ietvaros apmeklēja OLagoon ražotni Shenzhen. Viņi izvēlējās 10 SUP modeļus: 4 universālos, 3 tūrisma, 2 makšķerēšanas un 1 jogas platformu. OLagoon inženieri pielāgoja katru produktu Brazīlijas apstākļiem, tostarp UV noturīgu PVC tropiskai saulei, pastiprinātas korpusa daļas akmeņainajām upju gultnēm Minas Gerais reģionā un krāsu paletes, ko iedvesmoja Brazīlijas karogs un Amazones lietusmeža motīvi. Pedro izsniedza sākotnējo pasūtījumu R$3.2M par 4,500 vienībām, ar 30% priekšapmaksu un atlikuma samaksu pret konosamentu.',
             },
             {
               title: 'Zīmola integrācija, portugāļu lokalizācija un atbilstība',
               detail:
-                "Afarer dizaina komanda izveidoja pilnībā 'ÁguaVita Adventure' vizuālo identitāti, tostarp logotipus, krāsu shēmas, iepakojumu un pārdošanas vietu materiālus Brazīlijas portugāļu valodā. Atbilstības komanda pārvaldīja INMETRO sertifikāciju visiem 10 produktiem (obligātu sporta aprīkojumam Brazīlijā) un izstrādāja portugāļu valodas instrukcijas ar ilustrētiem montāžas ceļvežiem Brazīlijas mazāk lasītpratīgajām auditorijām. Afarer izgatavoja 200 priekšražošanas vienības, kas 2025. gada martā tika nosūtītas ar gaisa kravu, lai Pedro 50 labākie dīleri varētu tās novērtēt — 46 no 50 izsniedza sākotnējos pasūtījumus ar vidēji R$48K katrā.",
+                "OLagoon dizaina komanda izveidoja pilnībā 'ÁguaVita Adventure' vizuālo identitāti, tostarp logotipus, krāsu shēmas, iepakojumu un pārdošanas vietu materiālus Brazīlijas portugāļu valodā. Atbilstības komanda pārvaldīja INMETRO sertifikāciju visiem 10 produktiem (obligātu sporta aprīkojumam Brazīlijā) un izstrādāja portugāļu valodas instrukcijas ar ilustrētiem montāžas ceļvežiem Brazīlijas mazāk lasītpratīgajām auditorijām. OLagoon izgatavoja 200 priekšražošanas vienības, kas 2025. gada martā tika nosūtītas ar gaisa kravu, lai Pedro 50 labākie dīleri varētu tās novērtēt — 46 no 50 izsniedza sākotnējos pasūtījumus ar vidēji R$48K katrā.",
             },
             {
               title: 'Dīleru palaišana un izplatīšana visā valstī',
               detail:
-                'Galvenā okeāna sūtījuma krava ar 4,300 vienībām ieradās Santos ostā 2025. gada 15. maijā un izgāja cauri muitai piecu dienu laikā. Afarer loģistikas komanda koordinēja darbu ar ÁguaVita 5 reģionālajiem izplatīšanas centriem São Paulo, Rio de Janeiro, Belo Horizonte, Recife un Porto Alegre. Pedro sešu cilvēku pārdošanas komanda palaida līniju 2025. gada São Paulo Outdoor Sports Expo izstādē (12.–15. jūnijs) ar dzīvām airēšanas demonstrācijām baseinā, kurās piedalījās olimpiskā kanoe airētāja Isabella Santos. Četru dienu laikā ÁguaVita noslēdza 340 jaunus dīleru līgumus īpaši Adventure līnijai un pārdeva 800 vienības tieši izstāžu zālē.',
+                'Galvenā okeāna sūtījuma krava ar 4,300 vienībām ieradās Santos ostā 2025. gada 15. maijā un izgāja cauri muitai piecu dienu laikā. OLagoon loģistikas komanda koordinēja darbu ar ÁguaVita 5 reģionālajiem izplatīšanas centriem São Paulo, Rio de Janeiro, Belo Horizonte, Recife un Porto Alegre. Pedro sešu cilvēku pārdošanas komanda palaida līniju 2025. gada São Paulo Outdoor Sports Expo izstādē (12.–15. jūnijs) ar dzīvām airēšanas demonstrācijām baseinā, kurās piedalījās olimpiskā kanoe airētāja Isabella Santos. Četru dienu laikā ÁguaVita noslēdza 340 jaunus dīleru līgumus īpaši Adventure līnijai un pārdeva 800 vienības tieši izstāžu zālē.',
             },
             {
               title: 'Kategorijas paplašināšana un tirgus līderība',
               detail:
-                "Līdz 2025. gada novembrim 'ÁguaVita Adventure' bija pārdevis 6,200 vienības visos 10 SKU, radot R$16.2M apgrozījumu (par 35% virs R$12M mērķa). Piepūšamais SUP modelis 'Ipanema 10'6\"' bija vislabāk pārdodamais vienīgais produkts starp visām ÁguaVita kategorijām, tostarp iepriekšējo niršanas aprīkojumu. Pedro piedēvēja panākumus Afarer kvalitātes konsekvencei — tikai 0.8% defektu līmenis pret 4.2% pie viņa iepriekšējiem niršanas aprīkojuma piegādātājiem. Viņš izsniedza R$8.5M pasūtījumu 2026. gadam, tostarp 4 jaunus makšķerēšanas SUP modeļus un stāvpozīcijas pedāļdēli, pozicionējot ÁguaVita kā Brazīlijas lielāko airu sporta uzņēmumu.",
+                "Līdz 2025. gada novembrim 'ÁguaVita Adventure' bija pārdevis 6,200 vienības visos 10 SKU, radot R$16.2M apgrozījumu (par 35% virs R$12M mērķa). Piepūšamais SUP modelis 'Ipanema 10'6\"' bija vislabāk pārdodamais vienīgais produkts starp visām ÁguaVita kategorijām, tostarp iepriekšējo niršanas aprīkojumu. Pedro piedēvēja panākumus OLagoon kvalitātes konsekvencei — tikai 0.8% defektu līmenis pret 4.2% pie viņa iepriekšējiem niršanas aprīkojuma piegādātājiem. Viņš izsniedza R$8.5M pasūtījumu 2026. gadam, tostarp 4 jaunus makšķerēšanas SUP modeļus un stāvpozīcijas pedāļdēli, pozicionējot ÁguaVita kā Brazīlijas lielāko airu sporta uzņēmumu.",
             },
           ],
           results: [
@@ -4569,17 +4569,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Flotes sastāva analīze un komerciālā līmeņa specifikāciju izskatīšana',
               detail:
-                '2024. gada augustā Kai un viņa dēls Mako (viesmīlības vadības absolvents) kopā ar Afarer Komerciālās flotes nodaļu izstrādāja ideālo nomas floti. Pēc 3 gadu vietējo tūrisma datu analīzes viņi izvēlējās 60 SUP (30 universālos 10\'6", 15 tūrisma 11\'6", 8 jogas dēļus, 7 makšķerēšanas dēļus). Afarer nodrošināja komerciāla līmeņa konstrukciju ar pastiprinātu drop-stitch, divslāņu PVC sāniem, nerūsējošā tērauda D-gredzeniem (nevis plastmasas) un komerciāla līmeņa vārstiem, kas sertificēti 100,000+ piepūšanas cikliem. Flote kopā ar piegādi izmaksāja $48,000 (pret $78,000 par salīdzināmiem Havaju ražojuma dēļiem), un Kai izsniedza pasūtījumu ar 50% priekšapmaksu 2024. gada 1. septembrī.',
+                '2024. gada augustā Kai un viņa dēls Mako (viesmīlības vadības absolvents) kopā ar OLagoon Komerciālās flotes nodaļu izstrādāja ideālo nomas floti. Pēc 3 gadu vietējo tūrisma datu analīzes viņi izvēlējās 60 SUP (30 universālos 10\'6", 15 tūrisma 11\'6", 8 jogas dēļus, 7 makšķerēšanas dēļus). OLagoon nodrošināja komerciāla līmeņa konstrukciju ar pastiprinātu drop-stitch, divslāņu PVC sāniem, nerūsējošā tērauda D-gredzeniem (nevis plastmasas) un komerciāla līmeņa vārstiem, kas sertificēti 100,000+ piepūšanas cikliem. Flote kopā ar piegādi izmaksāja $48,000 (pret $78,000 par salīdzināmiem Havaju ražojuma dēļiem), un Kai izsniedza pasūtījumu ar 50% priekšapmaksu 2024. gada 1. septembrī.',
             },
             {
               title: 'Nomas operāciju apmācība un loģistikas iekārtošana',
               detail:
-                'Afarer nomas operāciju speciālists 2024. gada oktobrī pavadīja 4 dienas Kai veikalā, optimizējot nomas darba plūsmu. Tika ieviesta flotes pārvaldības sistēma ar QR kodos marķētiem dēļiem un mobilo lietotni reģistrācijai un izsniegšanai, bojājumu izsekošanai un profilaktiskās apkopes grafikiem. Afarer piegādāja 10 smagās klases akumulatora sūkņus vienas dienas flotes aprites nodrošināšanai un pielāgotu glabāšanas statņu sistēmu, kas maksimizēja 600 kv. pēdu noliktavu. Apmācībās tika iekļauti piepūšanas protokoli (katrs dēlis piepūsts līdz 12–15 PSI mazāk nekā 4 minūtēs, izmantojot akumulatora sūkņus), inspekcijas kontrolsaraksti, remonta procedūras un standartizētas klientu drošības instruktāžas visiem nomas darbiniekiem.',
+                'OLagoon nomas operāciju speciālists 2024. gada oktobrī pavadīja 4 dienas Kai veikalā, optimizējot nomas darba plūsmu. Tika ieviesta flotes pārvaldības sistēma ar QR kodos marķētiem dēļiem un mobilo lietotni reģistrācijai un izsniegšanai, bojājumu izsekošanai un profilaktiskās apkopes grafikiem. OLagoon piegādāja 10 smagās klases akumulatora sūkņus vienas dienas flotes aprites nodrošināšanai un pielāgotu glabāšanas statņu sistēmu, kas maksimizēja 600 kv. pēdu noliktavu. Apmācībās tika iekļauti piepūšanas protokoli (katrs dēlis piepūsts līdz 12–15 PSI mazāk nekā 4 minūtēs, izmantojot akumulatora sūkņus), inspekcijas kontrolsaraksti, remonta procedūras un standartizētas klientu drošības instruktāžas visiem nomas darbiniekiem.',
             },
             {
               title: 'Cenu stratēģija, palaišana un tiešsaistes rezervāciju integrācija',
               detail:
-                'Kai flotu palaida 2024. gada 1. decembrī ar pakāpjveida cenu noteikšanu: $35/stundā par SUP, $89 par pusdienu, $129 par pilnu dienu un nedēļas likmēm. Afarer palīdzēja Kai integrēties FareHarbor un Peek Pro rezervāciju platformās, izveidoja profesionālu produktu fotogrāfiju un izstrādāja Google My Business profila optimizāciju, kas sešu nedēļu laikā pārcēla Kai uzņēmumu no 4. lapas uz vietējo meklēšanas rezultātu top 3. Līdz 31. decembrim flote sasniedza 42% noslodzi, pārdodot 780 nomas dienas arī nelabvēlīgā sezonā, radot $62K ieņēmumus vien decembrī.',
+                'Kai flotu palaida 2024. gada 1. decembrī ar pakāpjveida cenu noteikšanu: $35/stundā par SUP, $89 par pusdienu, $129 par pilnu dienu un nedēļas likmēm. OLagoon palīdzēja Kai integrēties FareHarbor un Peek Pro rezervāciju platformās, izveidoja profesionālu produktu fotogrāfiju un izstrādāja Google My Business profila optimizāciju, kas sešu nedēļu laikā pārcēla Kai uzņēmumu no 4. lapas uz vietējo meklēšanas rezultātu top 3. Līdz 31. decembrim flote sasniedza 42% noslodzi, pārdodot 780 nomas dienas arī nelabvēlīgā sezonā, radot $62K ieņēmumus vien decembrī.',
             },
             {
               title: 'Augstas sezonas kāpums un paplašināšanas plānošana',
@@ -4588,7 +4588,7 @@ const lv: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            '$764K kopējo ieņēmumu pirmajā gadā (par 12% virs $680K mērķa) ar $487K tīrajiem nomas ieņēmumiem no Afarer flotes',
+            '$764K kopējo ieņēmumu pirmajā gadā (par 12% virs $680K mērķa) ar $487K tīrajiem nomas ieņēmumiem no OLagoon flotes',
             '78% flotes noslodze vasaras pikas mēnešos visiem 60 SUP, apkalpojot līdz 180 klientu dienā',
             '$48K flotes ieguldījums atmaksājās tikai 3.5 mēnešos (no 2024. gada decembra līdz 2025. gada marta vidum)',
             'Uzņēmuma vērtība 12 mēnešu laikā pieauga no $420K līdz $1.8M, ļaujot iegādāties otro pludmales vietu Kona krastā',
@@ -4596,8 +4596,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc ūdens sporta zīmoli izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc ūdens sporta zīmoli izvēlas OLagoon',
       items: [
         {
           title: 'Ūdens sporta tirgi',
@@ -4633,7 +4633,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kā kajaku vai kanoe zīmols var pievienot piepūšamos SUP produktus, neceļot rūpnīcu?',
         answer:
-          'Afarer OEM/ODM partnerības modelis ļauj izveidotiem ūdens sporta zīmoliem pievienot piepūšamos SUP produktus, izmantojot mūsu esošo ražošanas infrastruktūru. Zīmoli izmanto savu klientu bāzi un izplatīšanas kanālus, savukārt Afarer nodrošina Drop Stitch inženieriju, PVC ražošanu, kvalitātes kontroli un piegādes ķēdes pārvaldību.',
+          'OLagoon OEM/ODM partnerības modelis ļauj izveidotiem ūdens sporta zīmoliem pievienot piepūšamos SUP produktus, izmantojot mūsu esošo ražošanas infrastruktūru. Zīmoli izmanto savu klientu bāzi un izplatīšanas kanālus, savukārt OLagoon nodrošina Drop Stitch inženieriju, PVC ražošanu, kvalitātes kontroli un piegādes ķēdes pārvaldību.',
       },
       {
         question: 'Kas ir Drop Stitch tehnoloģija un kāpēc tā ir svarīga SUP ražošanā?',
@@ -4643,26 +4643,26 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai esošos zīmola dizainus un krāsas var piemērot SUP produktiem?',
         answer:
-          'Jā, Afarer atbalsta pilnīgu zīmola integrāciju, tostarp pielāgotu grafiku, Pantone krāsu atbilstību, logotipu piemērošanu un iepakojuma dizainu. Mēs sadarbojamies ar zīmolu vadītājiem, lai nodrošinātu, ka SUP produkti saskan ar esošo produktu dizaina valodu un tirgus pozicionējumu.',
+          'Jā, OLagoon atbalsta pilnīgu zīmola integrāciju, tostarp pielāgotu grafiku, Pantone krāsu atbilstību, logotipu piemērošanu un iepakojuma dizainu. Mēs sadarbojamies ar zīmolu vadītājiem, lai nodrošinātu, ka SUP produkti saskan ar esošo produktu dizaina valodu un tirgus pozicionējumu.',
       },
       {
         question: 'Kāds ir tipiskais laiks no koncepta līdz tirgum jaunai SUP produktu līnijai?',
         answer:
-          'Izmantojot Afarer esošās produktu platformas un ātrās prototipu izstrādes procesu, zīmoli parasti var nonākt no koncepta līdz tirgū gataviem produktiem 8–12 nedēļu laikā. Tas ietver produktu izvēli, dizaina pielāgošanu, prototipa apstiprināšanu, ražošanu un piegādi.',
+          'Izmantojot OLagoon esošās produktu platformas un ātrās prototipu izstrādes procesu, zīmoli parasti var nonākt no koncepta līdz tirgū gataviem produktiem 8–12 nedēļu laikā. Tas ietver produktu izvēli, dizaina pielāgošanu, prototipa apstiprināšanu, ražošanu un piegādi.',
       },
       {
         question: 'Kādi minimālie pasūtījuma daudzumi ir nepieciešami OEM/ODM SUP ražošanai?',
         answer:
-          'Afarer atbalsta dažādus apjomus — no 500 vienībām sākotnējai tirgus testēšanai līdz 10,000+ vienībām gadā izveidotām programmām. Mēs sadarbojamies ar zīmoliem, lai plānotu ražošanas apjomus, kas atbilst viņu izplatīšanas mērogam un sezonas pieprasījumam.',
+          'OLagoon atbalsta dažādus apjomus — no 500 vienībām sākotnējai tirgus testēšanai līdz 10,000+ vienībām gadā izveidotām programmām. Mēs sadarbojamies ar zīmoliem, lai plānotu ražošanas apjomus, kas atbilst viņu izplatīšanas mērogam un sezonas pieprasījumam.',
       },
       {
-        question: 'Vai Afarer piedāvā piepūšamo SUP ražošanu blakus esošajām kajaku produktu līnijām?',
+        question: 'Vai OLagoon piedāvā piepūšamo SUP ražošanu blakus esošajām kajaku produktu līnijām?',
         answer:
-          'Jā, Afarer ražo piepūšamos SUP dēļus, izmantojot Drop Stitch un PVC metināšanas tehnoloģiju. Tas ļauj ūdens sporta zīmoliem pievienot pilnīgu piepūšamo SUP kategoriju, sadarbojoties ar vienu ražošanas partneri, nemainot esošos produktus.',
+          'Jā, OLagoon ražo piepūšamos SUP dēļus, izmantojot Drop Stitch un PVC metināšanas tehnoloģiju. Tas ļauj ūdens sporta zīmoliem pievienot pilnīgu piepūšamo SUP kategoriju, sadarbojoties ar vienu ražošanas partneri, nemainot esošos produktus.',
       },
     ],
     cta: {
-      title: 'Paplašiniet savu ūdens sporta zīmolu kopā ar Afarer',
+      title: 'Paplašiniet savu ūdens sporta zīmolu kopā ar OLagoon',
       subtitle: 'Jums jau ir klienti. Jums jau ir tirgus. Tagad pievienojiet produktus, ko viņi vēlas.',
       primaryAction: {
         text: 'Sāciet savu SUP paplašināšanas projektu jau šodien',
@@ -4677,7 +4677,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Mājdzīvniekiem draudzīgu SUP dēļu ražotājs | Suņu SUP OEM piegādātājs | {SITE}',
       description:
-        'Afarer izveido pielāgotus mājdzīvniekiem draudzīgus SUP dēļus suņu piedzīvojumu zīmoliem un mājdzīvnieku āra aktivitāšu uzņēmumiem. Izturīgi, pret skrāpējumiem aizsargāti SUP dizaini, platas un stabilas platformas, OEM ražošana un private label risinājumi.',
+        'OLagoon izveido pielāgotus mājdzīvniekiem draudzīgus SUP dēļus suņu piedzīvojumu zīmoliem un mājdzīvnieku āra aktivitāšu uzņēmumiem. Izturīgi, pret skrāpējumiem aizsargāti SUP dizaini, platas un stabilas platformas, OEM ražošana un private label risinājumi.',
     },
     hero: {
       tagline: 'Mājdzīvniekiem draudzīgu SUP dēļu programma™',
@@ -4719,7 +4719,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Mājdzīvniekiem optimizēts SUP dizains',
           description:
-            'Afarer izstrādā SUP konstrukcijas īpaši mājdzīvnieku lietošanai ar ultrastabilas platas platformas dizainu, kas ietver palielinātu dēļa platumu, lielāku stāvēšanas zonu un garu pilna klājuma aktivitāšu zonu suņiem visos izmēros.',
+            'OLagoon izstrādā SUP konstrukcijas īpaši mājdzīvnieku lietošanai ar ultrastabilas platas platformas dizainu, kas ietver palielinātu dēļa platumu, lielāku stāvēšanas zonu un garu pilna klājuma aktivitāšu zonu suņiem visos izmēros.',
           features: [
             'Ultrastabilas platas platformas dizains',
             'Gara pilna klājuma aktivitāšu zona',
@@ -4729,7 +4729,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pret skrāpējumiem izturīga un mājdzīvniekiem droša materiālu struktūra',
           description:
-            'Afarer piedāvā pastiprinātu PVC konstrukciju izturībai pret skrāpējumiem, augstas noturības pilna seguma EVA klājuma paklājus ar uzlabotu saķeri un pret caurduršanu aizsargājošu struktūru, kas aizsargā no nagu spiediena.',
+            'OLagoon piedāvā pastiprinātu PVC konstrukciju izturībai pret skrāpējumiem, augstas noturības pilna seguma EVA klājuma paklājus ar uzlabotu saķeri un pret caurduršanu aizsargājošu struktūru, kas aizsargā no nagu spiediena.',
           features: [
             'Pastiprināta PVC konstrukcija',
             'Augstas noturības EVA klājuma paklājs',
@@ -4739,7 +4739,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Mājdzīvniekiem draudzīga produktu konfigurācija',
           description:
-            'Afarer piedāvā pilnīgus produktu risinājumus, tostarp standarta mājdzīvnieku SUP komplektus ar dēļiem un piederumiem, premium suņu piedzīvojumu komplektus ar drošības piederumiem un ceļojumu mājdzīvnieku komplektus auto ceļojumiem un kempingam.',
+            'OLagoon piedāvā pilnīgus produktu risinājumus, tostarp standarta mājdzīvnieku SUP komplektus ar dēļiem un piederumiem, premium suņu piedzīvojumu komplektus ar drošības piederumiem un ceļojumu mājdzīvnieku komplektus auto ceļojumiem un kempingam.',
           features: [
             'Standarta mājdzīvnieku SUP komplekts',
             'Premium suņu piedzīvojumu komplekts',
@@ -4749,13 +4749,13 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pielāgota privātā zīmola mājdzīvnieku SUP izstrāde',
           description:
-            'Afarer palīdz mājdzīvnieku zīmoliem izveidot pielāgotus zīmola produktus ar logotīku izvietojumu, krāsām un grafisko dizainu, dzīvesveida orientētu dizainu premium pozicionēšanai un ierobežota izdevuma kolekcijas influenceriem.',
+            'OLagoon palīdz mājdzīvnieku zīmoliem izveidot pielāgotus zīmola produktus ar logotīku izvietojumu, krāsām un grafisko dizainu, dzīvesveida orientētu dizainu premium pozicionēšanai un ierobežota izdevuma kolekcijas influenceriem.',
           features: ['Zīmola pielāgošana', 'Dzīvesveida orientēts dizains', 'Ierobežota izdevuma kolekcijas'],
         },
         {
           title: 'Mājdzīvnieku zīmolu tirgus pozicionēšanas atbalsts',
           description:
-            'Afarer izstrādā produktus, kas atbilst dažādām zīmolu pozīcijām — no premium mājdzīvnieku dzīvesveida zīmoliem ar akcentu uz greznu izskatu līdz piedzīvojumu suņu zīmoliem ar akcentu uz izturību un ģimenes mājdzīvnieku zīmoliem ar akcentu uz drošību.',
+            'OLagoon izstrādā produktus, kas atbilst dažādām zīmolu pozīcijām — no premium mājdzīvnieku dzīvesveida zīmoliem ar akcentu uz greznu izskatu līdz piedzīvojumu suņu zīmoliem ar akcentu uz izturību un ģimenes mājdzīvnieku zīmoliem ar akcentu uz drošību.',
           features: [
             'Premium mājdzīvnieku dzīvesveida zīmoli',
             'Piedzīvojumu suņu zīmoli',
@@ -4765,19 +4765,19 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'OEM atbalsts mājdzīvnieku produktu uzņēmējiem',
           description:
-            'Daudziem mājdzīvnieku zīmoliem ir klientu kopienas un mārketinga spējas, taču trūkst ražošanas zināšanu. Afarer nodrošina produktu izstrādi, prototipu veidošanu, ražošanu, kvalitātes kontroli un eksporta atbalstu.',
+            'Daudziem mājdzīvnieku zīmoliem ir klientu kopienas un mārketinga spējas, taču trūkst ražošanas zināšanu. OLagoon nodrošina produktu izstrādi, prototipu veidošanu, ražošanu, kvalitātes kontroli un eksporta atbalstu.',
           features: ['Produktu izstrāde', 'Prototipu veidošana', 'Ražošanas atbalsts'],
         },
         {
           title: 'Saturam draudzīgs produktu dizains',
           description:
-            'Afarer piedāvā sociālajiem medijiem optimizētus dizainus ar pievilcīgu grafiku un dzīvesveida izskatu, veicinot klientu fotogrāfijas un videoklipus, kas rada dalāmu pieredzi un kopienas iesaisti.',
+            'OLagoon piedāvā sociālajiem medijiem optimizētus dizainus ar pievilcīgu grafiku un dzīvesveida izskatu, veicinot klientu fotogrāfijas un videoklipus, kas rada dalāmu pieredzi un kopienas iesaisti.',
           features: ['Redzamība sociālajos medijos', 'Klientu fotogrāfijas un videoklipi', 'Zīmola atpazīstamība'],
         },
         {
           title: 'Kvalitātes kontrole mājdzīvnieku drošībai',
           description:
-            'Afarer koncentrējas uz materiālu drošību, pārbaudot virsmas izturību, uz produktu veiktspēju, testējot piepūšanu un stabilitāti, kā arī uz izskata, piederumu un iepakojuma gala inspekciju.',
+            'OLagoon koncentrējas uz materiālu drošību, pārbaudot virsmas izturību, uz produktu veiktspēju, testējot piepūšanu un stabilitāti, kā arī uz izskata, piederumu un iepakojuma gala inspekciju.',
           features: ['Materiālu drošība', 'Produkta veiktspēja', 'Gala inspekcija'],
         },
       ],
@@ -4794,7 +4794,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Produktu izstrāde',
           detail:
-            'Afarer izstrādāja mājdzīvniekiem paredzētu SUP konstrukciju, tostarp platāku dēļa formu, lielāku klājuma laukumu un pastiprinātu virsmu, lai suņi justos droši un ērti.',
+            'OLagoon izstrādāja mājdzīvniekiem paredzētu SUP konstrukciju, tostarp platāku dēļa formu, lielāku klājuma laukumu un pastiprinātu virsmu, lai suņi justos droši un ērti.',
         },
         {
           title: 'Materiālu optimizācija',
@@ -4832,22 +4832,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Suņiem paredzēta produktu izpēte un drošības inženierija',
               detail:
-                "2025. gada janvārī Emma un viņas produktu komanda pavadīja nedēļu Afarer inovāciju laboratorijā kopā ar Afarer materiālu inženieriem un veterinārmedicīnas konsultantu. Tika izstrādātas 3 suņiem paredzētas inovācijas: (1) divējāda blīvuma klājuma paklājs ar papildu saķeres zonām suņu ķepām ar 3x augstāku berzes koeficientu nekā standarta paklājiem, (2) pastiprināta centrālā daļa ar slodzes testētu ietilpību 50kg (testēta ar Labradoras retrīvera un Zelta retrīvera svara simulācijām) un (3) D-gredzenu enkura sistēma, kas saderīga ar suņu glābšanas vestēm. Afarer izgatavoja 6 prototipu variantus, un Emmas komanda 8 nedēļas veica testēšanu ar 50 suņu īpašniekiem visā Apvienotajā Karalistē, precizējot dizainu, balstoties uz 347 aptaujas atbildēm. Galīgajā dizainā bija ķepu nospiedumu reljefs, 'mud-resistant' materiāls un izkārnījumu maisiņu turētājs, kas integrēts klājuma paklājā.",
+                "2025. gada janvārī Emma un viņas produktu komanda pavadīja nedēļu OLagoon inovāciju laboratorijā kopā ar OLagoon materiālu inženieriem un veterinārmedicīnas konsultantu. Tika izstrādātas 3 suņiem paredzētas inovācijas: (1) divējāda blīvuma klājuma paklājs ar papildu saķeres zonām suņu ķepām ar 3x augstāku berzes koeficientu nekā standarta paklājiem, (2) pastiprināta centrālā daļa ar slodzes testētu ietilpību 50kg (testēta ar Labradoras retrīvera un Zelta retrīvera svara simulācijām) un (3) D-gredzenu enkura sistēma, kas saderīga ar suņu glābšanas vestēm. OLagoon izgatavoja 6 prototipu variantus, un Emmas komanda 8 nedēļas veica testēšanu ar 50 suņu īpašniekiem visā Apvienotajā Karalistē, precizējot dizainu, balstoties uz 347 aptaujas atbildēm. Galīgajā dizainā bija ķepu nospiedumu reljefs, 'mud-resistant' materiāls un izkārnījumu maisiņu turētājs, kas integrēts klājuma paklājā.",
             },
             {
               title: 'Zīmola attīstība, iepakojums un mājdzīvnieku mazumtirdzniecības atbilstība',
               detail:
-                "Afarer dizaina komanda izveidoja 'Paws & Paddle Adventure' vizuālo identitāti, tostarp iepakojumu ar suņu fotogrāfijām, plauktu reklāmas karodziņiem un QR kodiem, kas ved uz 'Dog SUP Safety' video ceļvedi. Tika laisti klajā 3 modeļi: 'The Spaniel' (10' universāls maziem un vidējiem suņiem), 'The Labrador' (11'6\" utilitārs vidējiem un lieliem suņiem) un 'The Retriever' (12'6\" tūrisma lieliem suņiem un garākiem braucieniem). Afarer nodrošināja UKCA sertifikāciju un CE marķējumu un izstrādāja Pet Industry Federation atbilstības paketi, tostarp drošības brīdinājumus, suņu svara ierobežojumus un atbildības dokumentāciju. Emma, izmantojot savu esošo mājdzīvnieku mazumtirdzniecības tīklu, jau pirms ražošanas sākuma bija pārdevusi 1,800 vienības.",
+                "OLagoon dizaina komanda izveidoja 'Paws & Paddle Adventure' vizuālo identitāti, tostarp iepakojumu ar suņu fotogrāfijām, plauktu reklāmas karodziņiem un QR kodiem, kas ved uz 'Dog SUP Safety' video ceļvedi. Tika laisti klajā 3 modeļi: 'The Spaniel' (10' universāls maziem un vidējiem suņiem), 'The Labrador' (11'6\" utilitārs vidējiem un lieliem suņiem) un 'The Retriever' (12'6\" tūrisma lieliem suņiem un garākiem braucieniem). OLagoon nodrošināja UKCA sertifikāciju un CE marķējumu un izstrādāja Pet Industry Federation atbilstības paketi, tostarp drošības brīdinājumus, suņu svara ierobežojumus un atbildības dokumentāciju. Emma, izmantojot savu esošo mājdzīvnieku mazumtirdzniecības tīklu, jau pirms ražošanas sākuma bija pārdevusi 1,800 vienības.",
             },
             {
               title: 'Influenceru palaišanas kampaņa un mazumtirdzniecības apmācība',
               detail:
-                "Kolekcija tika laista klajā 2025. gada martā ar saskaņotu kampaņu, kurā piedalījās 12 Apvienotās Karalistes suņu influenceri, tostarp @myadventureswithoscar (2.1M sekotāju) un @the_hiking_husky (890K sekotāju). Afarer nodrošināja 50 demonstrāciju vienības influenceru saturam un mājdzīvnieku veikalu pasākumiem. Afarer apmācību komanda izveidoja 20 minūšu garu 'Retail Pro' moduli, kas aptver suņu SUP drošību, piemērotību dažādām šķirnēm, kā arī suņu glābšanas vestu un ķepu aizsargzābaciņu šķērspārdošanu. Paws & Paddle 340 mazumtirdzniecības partneri organizēja demonstrāciju dienas veikalos, kur klienti varēja izmēģināt dēļus ar saviem suņiem piepūšamos baseinos — 78% demonstrāciju dalībnieku veica pirkumu.",
+                "Kolekcija tika laista klajā 2025. gada martā ar saskaņotu kampaņu, kurā piedalījās 12 Apvienotās Karalistes suņu influenceri, tostarp @myadventureswithoscar (2.1M sekotāju) un @the_hiking_husky (890K sekotāju). OLagoon nodrošināja 50 demonstrāciju vienības influenceru saturam un mājdzīvnieku veikalu pasākumiem. OLagoon apmācību komanda izveidoja 20 minūšu garu 'Retail Pro' moduli, kas aptver suņu SUP drošību, piemērotību dažādām šķirnēm, kā arī suņu glābšanas vestu un ķepu aizsargzābaciņu šķērspārdošanu. Paws & Paddle 340 mazumtirdzniecības partneri organizēja demonstrāciju dienas veikalos, kur klienti varēja izmēģināt dēļus ar saviem suņiem piepūšamos baseinos — 78% demonstrāciju dalībnieku veica pirkumu.",
             },
             {
               title: 'Kategorijas paplašināšana un veterinārmedicīnas partnerības programma',
               detail:
-                "Līdz 2025. gada septembrim suņiem draudzīgā SUP līnija bija pārdevusi 4,200 vienības 340 mazumtirdzniecības vietās, radot £2.1M vairumtirdzniecības ieņēmumus (40% virs £1.5M mērķa). Modelis 'Labrador' veidoja 52% pārdošanas apjoma. Emma uzsāka pionieru partnerību ar British Veterinary Association, veicinot suņu drošību ūdenī, un Afarer izdeva 5,000 'Dog SUP Safety' bukletus, ko izplatīja veterinārārsti. Atkārtots pasūtījums uz 3,000 vienībām ietvēra jaunu 'The Terrier' modeli (8'6\" maziem suņiem) un atbilstošu suņu glābšanas vestu līniju. Kolekcija 2025. gada UK Pet Show tika atzīta par 'Pet Product of the Year'.",
+                "Līdz 2025. gada septembrim suņiem draudzīgā SUP līnija bija pārdevusi 4,200 vienības 340 mazumtirdzniecības vietās, radot £2.1M vairumtirdzniecības ieņēmumus (40% virs £1.5M mērķa). Modelis 'Labrador' veidoja 52% pārdošanas apjoma. Emma uzsāka pionieru partnerību ar British Veterinary Association, veicinot suņu drošību ūdenī, un OLagoon izdeva 5,000 'Dog SUP Safety' bukletus, ko izplatīja veterinārārsti. Atkārtots pasūtījums uz 3,000 vienībām ietvēra jaunu 'The Terrier' modeli (8'6\" maziem suņiem) un atbilstošu suņu glābšanas vestu līniju. Kolekcija 2025. gada UK Pet Show tika atzīta par 'Pet Product of the Year'.",
             },
           ],
           results: [
@@ -4864,28 +4864,28 @@ const lv: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Australia',
             background:
               "Blue Heeler Expeditions 2018. gadā dibināja bijušais Austrālijas armijas suņu vadītājs, kļuvis par suņu uzvedības speciālistu, Lachlan 'Locky' Murphy. Locky specializējās augstas enerģijas šķirņu dresūrā (kelpies, heelers, border collies) un bija izveidojis kulta sekotāju pulku, pateicoties savam YouTube kanālam (480K abonentu) un izpārdotajiem semināriem. Viņam piederēja 12,000 kvadrātpēdu (sq ft) liels objekts pie Noosa River, taču viņš vēlējās izveidot pilnīgi jaunu kategoriju: strukturētu suņu SUP treniņu un sertifikācijas programmu. Suņu turēšana Austrālijā sasniedza rekordlīmeni (5.1M suņu), un #dogpaddle kļuva par tendenci Austrālijas sociālajos medijos, taču neviens nepiedāvāja profesionālu suņu SUP apmācību vai ekipējumu, kas paredzēts Austrālijas klimatam.",
-            goal: "Izstrādāt visaptverošu 'Canine SUP Certification' programmu ar pielāgotiem Afarer dēļiem, apmācīt un sertificēt 80 instruktorus visā Austrālijā 18 mēnešu laikā un radīt AU$1.2M programmas ieņēmumus, apvienojot dēļu pārdošanu, sertifikācijas maksas un preces.",
+            goal: "Izstrādāt visaptverošu 'Canine SUP Certification' programmu ar pielāgotiem OLagoon dēļiem, apmācīt un sertificēt 80 instruktorus visā Austrālijā 18 mēnešu laikā un radīt AU$1.2M programmas ieņēmumus, apvienojot dēļu pārdošanu, sertifikācijas maksas un preces.",
           },
           steps: [
             {
               title: 'Suņu uzvedības analīze un SUP treniņu protokola izstrāde',
               detail:
-                "No 2024. gada oktobra līdz decembrim Locky trīs mēnešus strādāja kopā ar Afarer produktu komandu un University of Queensland dzīvnieku biomehānikas pētnieku, lai izstrādātu dēli, kas optimizēts suņu līdzsvara treniņiem. Tika izveidota 12' x 34'' plata platforma ar īpaši mīkstu EVA klājuma polsterējumu (8mm pret standarta 4mm), zemiem bortiem ērtai suņu uzkāpšanai uz dēļa un pretslīdes teksturētu virsmu, kas testēta ar 14 suņu šķirnēm. Locky testēja 30 suņus ar 6 prototipu iterācijām un izstrādāja 5 posmu suņu SUP treniņu protokolu: 1. posms (dēļa iepazīšana uz sauszemes), 2. posms (statiska peldēšana), 3. posms (airēšana sēžot), 4. posms (airēšana stāvus ar sēdošu suni), 5. posms (pilna airēšana ar stāvošu suni). Afarer izgatavoja 200 instruktoru klases dēļus ar pielāgotu 'Blue Heeler' grafiku, kurā attēlots Austrālijas ganu suņa siluets.",
+                "No 2024. gada oktobra līdz decembrim Locky trīs mēnešus strādāja kopā ar OLagoon produktu komandu un University of Queensland dzīvnieku biomehānikas pētnieku, lai izstrādātu dēli, kas optimizēts suņu līdzsvara treniņiem. Tika izveidota 12' x 34'' plata platforma ar īpaši mīkstu EVA klājuma polsterējumu (8mm pret standarta 4mm), zemiem bortiem ērtai suņu uzkāpšanai uz dēļa un pretslīdes teksturētu virsmu, kas testēta ar 14 suņu šķirnēm. Locky testēja 30 suņus ar 6 prototipu iterācijām un izstrādāja 5 posmu suņu SUP treniņu protokolu: 1. posms (dēļa iepazīšana uz sauszemes), 2. posms (statiska peldēšana), 3. posms (airēšana sēžot), 4. posms (airēšana stāvus ar sēdošu suni), 5. posms (pilna airēšana ar stāvošu suni). OLagoon izgatavoja 200 instruktoru klases dēļus ar pielāgotu 'Blue Heeler' grafiku, kurā attēlots Austrālijas ganu suņa siluets.",
             },
             {
               title: 'Instruktoru sertifikācijas programma un regulatīvais ietvars',
               detail:
-                'Locky un Afarer kopīgi izstrādāja 3 līmeņu suņu SUP instruktoru sertifikāciju: 1. līmenis (40 stundu tiešsaistes apmācība + nedēļas nogales praktiskā daļa), 2. līmenis (10 dienu padziļinātā apmācība ar ūdens glābšanu), 3. līmenis (14 dienu meistara instruktora apmācība). Mācību programma aptvēra suņu uzvedību ūdenī, suņu pirmo palīdzību, šķirnei pielāgotas dresūras pieejas, Austrālijas ūdens drošības noteikumus, apdrošināšanas prasības un uzņēmuma izveidi. Afarer finansēja 25 stundu HD video satura izveidi, kas uzfilmēts Noosa River, un izveidoja 200 lappušu instruktoru rokasgrāmatu. Locky sertifikācijas programmu palaida 2025. gada februārī ar sākotnējo 24 kandidātu grupu — visi 24 nokārtoja 1. līmeni, un 18 turpināja ar 2. līmeni.',
+                'Locky un OLagoon kopīgi izstrādāja 3 līmeņu suņu SUP instruktoru sertifikāciju: 1. līmenis (40 stundu tiešsaistes apmācība + nedēļas nogales praktiskā daļa), 2. līmenis (10 dienu padziļinātā apmācība ar ūdens glābšanu), 3. līmenis (14 dienu meistara instruktora apmācība). Mācību programma aptvēra suņu uzvedību ūdenī, suņu pirmo palīdzību, šķirnei pielāgotas dresūras pieejas, Austrālijas ūdens drošības noteikumus, apdrošināšanas prasības un uzņēmuma izveidi. OLagoon finansēja 25 stundu HD video satura izveidi, kas uzfilmēts Noosa River, un izveidoja 200 lappušu instruktoru rokasgrāmatu. Locky sertifikācijas programmu palaida 2025. gada februārī ar sākotnējo 24 kandidātu grupu — visi 24 nokārtoja 1. līmeni, un 18 turpināja ar 2. līmeni.',
             },
             {
               title: 'Ekipējuma klāsts, mazumtirdzniecības izplatīšana un YouTube palaišana',
               detail:
-                "Locky zīmols 'Blue Heeler Expeditions' palaida 4 mazumtirdzniecības produktus: 'Blue' (12' instruktoru dēlis par AU$899), 'Heeler' (10'6\" rekreācijas suņu dēlis par AU$649), suņiem paredzēta glābšanas veste (AU$89) un treniņu piesaistes sistēma (AU$39). Afarer izgatavoja 1,000 vienības sākotnējam mazumtirdzniecības un instruktoru piegāžu plūsmam. Locky izdeva 6 sēriju YouTube seriālu 'Paddle Paws', kas dokumentē treniņu protokolu, — pirmā sērija divās nedēļās ieguva 2.1M skatījumu. 30 dienu laikā Locky tīmekļa vietne saņēma 47,000 pasūtījumu pieprasījumu, un 340 austrālieši pieteicās instruktoru sertifikācijas gaidīšanas sarakstam.",
+                "Locky zīmols 'Blue Heeler Expeditions' palaida 4 mazumtirdzniecības produktus: 'Blue' (12' instruktoru dēlis par AU$899), 'Heeler' (10'6\" rekreācijas suņu dēlis par AU$649), suņiem paredzēta glābšanas veste (AU$89) un treniņu piesaistes sistēma (AU$39). OLagoon izgatavoja 1,000 vienības sākotnējam mazumtirdzniecības un instruktoru piegāžu plūsmam. Locky izdeva 6 sēriju YouTube seriālu 'Paddle Paws', kas dokumentē treniņu protokolu, — pirmā sērija divās nedēļās ieguva 2.1M skatījumu. 30 dienu laikā Locky tīmekļa vietne saņēma 47,000 pasūtījumu pieprasījumu, un 340 austrālieši pieteicās instruktoru sertifikācijas gaidīšanas sarakstam.",
             },
             {
               title: 'Programmas mērogs, nacionāla paplašināšana un starptautiskie pieprasījumi',
               detail:
-                'Līdz 2025. gada augustam Blue Heeler Expeditions bija 85 sertificēti instruktori visos Austrālijas štatos (5 virs 18 mēnešu mērķa, sasniegts 6 mēnešos). Instruktori maksāja AU$2,500 par 1. līmeņa sertifikāciju + AU$899 par dēli, radot AU$296K sertifikācijas ieņēmumus. Locky pārdeva 1,400 mazumtirdzniecības dēļus mājdzīvnieku īpašniekiem, 200 instruktoru klases dēļus sertificētiem treneriem un 3,400 suņu glābšanas vestes. Kopējie programmas ieņēmumi 8 mēnešos sasniedza AU$1.85M (54% virs AU$1.2M 18 mēnešu mērķa). Locky saņēma pieprasījumus no 14 valstīm un noslēdza licences darījumu ar ASV partneri Ziemeļamerikas versijai. Afarer apņēmās ekskluzīvu 3 gadu globālu partnerību suņu SUP produktu līnijai.',
+                'Līdz 2025. gada augustam Blue Heeler Expeditions bija 85 sertificēti instruktori visos Austrālijas štatos (5 virs 18 mēnešu mērķa, sasniegts 6 mēnešos). Instruktori maksāja AU$2,500 par 1. līmeņa sertifikāciju + AU$899 par dēli, radot AU$296K sertifikācijas ieņēmumus. Locky pārdeva 1,400 mazumtirdzniecības dēļus mājdzīvnieku īpašniekiem, 200 instruktoru klases dēļus sertificētiem treneriem un 3,400 suņu glābšanas vestes. Kopējie programmas ieņēmumi 8 mēnešos sasniedza AU$1.85M (54% virs AU$1.2M 18 mēnešu mērķa). Locky saņēma pieprasījumus no 14 valstīm un noslēdza licences darījumu ar ASV partneri Ziemeļamerikas versijai. OLagoon apņēmās ekskluzīvu 3 gadu globālu partnerību suņu SUP produktu līnijai.',
             },
           ],
           results: [
@@ -4897,8 +4897,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc mājdzīvnieku piedzīvojumu zīmoli izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc mājdzīvnieku piedzīvojumu zīmoli izvēlas OLagoon',
       items: [
         {
           title: 'Mājdzīvnieku drošība',
@@ -4944,26 +4944,26 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai mājdzīvnieku zīmoli var pielāgot SUP dēļus ar savu logotipu un krāsām?',
         answer:
-          'Protams. Afarer piedāvā pilnu zīmola pielāgošanu, tostarp logotīku izvietojumu, pielāgotu krāsu saskaņošanu, grafisko dizainu un zīmolotu iepakojumu. Mēs arī atbalstām ierobežota izdevuma kolekcijas mājdzīvnieku influenceriem un sezonas produktu palaišanu.',
+          'Protams. OLagoon piedāvā pilnu zīmola pielāgošanu, tostarp logotīku izvietojumu, pielāgotu krāsu saskaņošanu, grafisko dizainu un zīmolotu iepakojumu. Mēs arī atbalstām ierobežota izdevuma kolekcijas mājdzīvnieku influenceriem un sezonas produktu palaišanu.',
       },
       {
         question: 'Kāds dēļa izmērs ir ieteicams airēšanai ar suni?',
         answer:
-          'Airēšanai ar suņiem ir ieteicami platāki dēļi ar lielāku klājuma laukumu. Afarer mājdzīvniekiem draudzīgajos dizainos ir palielināts dēļa platums un garas pilna klājuma aktivitāšu zonas, kas ērti uzņem mazus, vidējus un lielus suņus, saglabājot stabilitāti.',
+          'Airēšanai ar suņiem ir ieteicami platāki dēļi ar lielāku klājuma laukumu. OLagoon mājdzīvniekiem draudzīgajos dizainos ir palielināts dēļa platums un garas pilna klājuma aktivitāšu zonas, kas ērti uzņem mazus, vidējus un lielus suņus, saglabājot stabilitāti.',
       },
       {
         question: 'Vai jūs piedāvājat pilnus mājdzīvnieku SUP komplektus ar piederumiem?',
         answer:
-          'Jā, Afarer piedāvā standarta mājdzīvnieku SUP komplektus, tostarp dēli, airi, sūkni, leash, pārnēsāšanas somu un remonta komplektu, kā arī premium suņu piedzīvojumu komplektus ar mājdzīvnieku drošības piederumiem un ceļojumu mājdzīvnieku komplektus, kas optimizēti auto ceļojumiem un kempingam.',
+          'Jā, OLagoon piedāvā standarta mājdzīvnieku SUP komplektus, tostarp dēli, airi, sūkni, leash, pārnēsāšanas somu un remonta komplektu, kā arī premium suņu piedzīvojumu komplektus ar mājdzīvnieku drošības piederumiem un ceļojumu mājdzīvnieku komplektus, kas optimizēti auto ceļojumiem un kempingam.',
       },
       {
         question: 'Kāds ir minimālais pasūtījuma daudzums pielāgotiem mājdzīvniekiem draudzīgiem SUP dēļiem?',
         answer:
-          'Afarer sadarbojas ar mājdzīvnieku zīmoliem visos izmēros. Minimālos pasūtījuma daudzumus var strukturēt atbilstoši zīmola attīstības posmam — no mazu partiju ierobežota izdevuma palaišanas mājdzīvnieku influenceriem līdz pilna mēroga ražošanas partijām izveidotiem mājdzīvnieku āra aktivitāšu zīmoliem.',
+          'OLagoon sadarbojas ar mājdzīvnieku zīmoliem visos izmēros. Minimālos pasūtījuma daudzumus var strukturēt atbilstoši zīmola attīstības posmam — no mazu partiju ierobežota izdevuma palaišanas mājdzīvnieku influenceriem līdz pilna mēroga ražošanas partijām izveidotiem mājdzīvnieku āra aktivitāšu zīmoliem.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu mājdzīvnieku piedzīvojumu SUP zīmolu kopā ar Afarer',
+      title: 'Izveidojiet savu mājdzīvnieku piedzīvojumu SUP zīmolu kopā ar OLagoon',
       subtitle: 'Mājdzīvnieku produktu nākotne nav tikai iekštelpās. Tā ir ārā.',
       primaryAction: {
         text: 'Sāciet savu mājdzīvniekiem draudzīgo SUP projektu jau šodien',
@@ -4978,7 +4978,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Komerciālais SUP aprīkojuma piegādātājs | Pludmales nomas flotes risinājumi | {SITE}',
       description:
-        'Afarer piedāvā komerciālo SUP flotes risinājumus pludmales atpūtas uzņēmumiem un ūdens sporta centriem. Izturīgi nomas SUP dēļi, pilnīgi aprīkojuma komplekti, rezerves daļu atbalsts un OEM pielāgošana.',
+        'OLagoon piedāvā komerciālo SUP flotes risinājumus pludmales atpūtas uzņēmumiem un ūdens sporta centriem. Izturīgi nomas SUP dēļi, pilnīgi aprīkojuma komplekti, rezerves daļu atbalsts un OEM pielāgošana.',
     },
     hero: {
       tagline: 'Kompleksi pludmales aktivitāšu aprīkojuma risinājumi™',
@@ -5019,7 +5019,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Komerciālās klases SUP flotes dizains',
           description:
-            'Afarer izstrādā SUP produktus īpaši komerciālai videi ar pastiprinātu PVC konstrukciju, izturīgu šuvju tehnoloģiju, smagai slodzei paredzētām EVA klāja sistēmām un komerciālās klases piederumiem, tostarp izturīgiem airiem un sūkņiem.',
+            'OLagoon izstrādā SUP produktus īpaši komerciālai videi ar pastiprinātu PVC konstrukciju, izturīgu šuvju tehnoloģiju, smagai slodzei paredzētām EVA klāja sistēmām un komerciālās klases piederumiem, tostarp izturīgiem airiem un sūkņiem.',
           features: [
             'Pastiprināta konstrukcija',
             'Smagai slodzei paredzēta EVA klāja sistēma',
@@ -5029,43 +5029,43 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Pilnīga nomas flotes plānošana',
           description:
-            'Afarer palīdz izvēlēties pareizo aprīkojuma kombināciju pludmales nomas flotēm ar stabiliem universāliem SUP, ūdens sporta centru flotēm ar dažādiem izmēriem un instruktoru dēļiem, kā arī kūrortu aktivitāšu flotēm ar zīmolotu premium aprīkojumu.',
+            'OLagoon palīdz izvēlēties pareizo aprīkojuma kombināciju pludmales nomas flotēm ar stabiliem universāliem SUP, ūdens sporta centru flotēm ar dažādiem izmēriem un instruktoru dēļiem, kā arī kūrortu aktivitāšu flotēm ar zīmolotu premium aprīkojumu.',
           features: ['Pludmales nomas flote', 'Ūdens sporta centra flote', 'Kūrorta aktivitāšu flote'],
         },
         {
           title: 'Augstas izturības nomas SUP konfigurācija',
           description:
-            'Afarer optimizē produktus izturībai pret skrāpējumiem no pludmales smiltīm un biežas lietošanas, vieglam remontam ar remonta komplektiem un standartizētām detaļām, kā arī ilgam kalpošanas laikam, maksimizējot aprīkojuma ROI.',
+            'OLagoon optimizē produktus izturībai pret skrāpējumiem no pludmales smiltīm un biežas lietošanas, vieglam remontam ar remonta komplektiem un standartizētām detaļām, kā arī ilgam kalpošanas laikam, maksimizējot aprīkojuma ROI.',
           features: ['Izturība pret skrāpējumiem', 'Viegls remonts', 'Ilgs kalpošanas laiks'],
         },
         {
           title: 'Standartizēta rezerves daļu sistēma',
           description:
-            'Afarer atbalsta komerciālos operatorus ar nomaiņas piederumiem, tostarp vārstiem, drošības saitēm, airiem, sūkņiem un remonta materiāliem, kā arī flotes uzturēšanas plānošanu ikdienas pārbaudēm un sezonas uzturēšanai.',
+            'OLagoon atbalsta komerciālos operatorus ar nomaiņas piederumiem, tostarp vārstiem, drošības saitēm, airiem, sūkņiem un remonta materiāliem, kā arī flotes uzturēšanas plānošanu ikdienas pārbaudēm un sezonas uzturēšanai.',
           features: ['Nomaiņas piederumi', 'Flotes uzturēšanas plānošana', 'Ātra atjaunošana'],
         },
         {
           title: 'Pilnīgi pludmales aktivitāšu komplekti',
           description:
-            'Afarer piedāvā SUP nomas komplektus ar komerciāliem dēļiem un piederumiem, ģimenes ūdens aktivitāšu komplektus kūrortiem un tūrisma vietām, kā arī grupu pasākumu komplektus korporatīvām un skolu aktivitātēm.',
+            'OLagoon piedāvā SUP nomas komplektus ar komerciāliem dēļiem un piederumiem, ģimenes ūdens aktivitāšu komplektus kūrortiem un tūrisma vietām, kā arī grupu pasākumu komplektus korporatīvām un skolu aktivitātēm.',
           features: ['SUP nomas komplekts', 'Ģimenes ūdens aktivitāšu komplekts', 'Grupu pasākumu komplekts'],
         },
         {
           title: 'Zīmolrade un biznesa pielāgošana',
           description:
-            'Afarer atbalsta operatora pielāgotu zīmolradi ar logotipu druku un krāsām, tūrisma pieredzes dizainu, veidojot zīmolotas aktivitātes un foto iespējas, kā arī kūrortu un pludmaļu integrāciju atbilstoši galamērķa identitātei.',
+            'OLagoon atbalsta operatora pielāgotu zīmolradi ar logotipu druku un krāsām, tūrisma pieredzes dizainu, veidojot zīmolotas aktivitātes un foto iespējas, kā arī kūrortu un pludmaļu integrāciju atbilstoši galamērķa identitātei.',
           features: ['Pielāgota operatora zīmolrade', 'Tūrisma pieredzes dizains', 'Kūrortu un pludmaļu integrācija'],
         },
         {
           title: 'Drošības un iesācējiem draudzīgs dizains',
           description:
-            'Afarer pievērš uzmanību stabilitātes dizainam ar platākām dēļu formām tūristiem un ģimenēm, kā arī vieglai vadāmībai, kas palīdz pirmo reizi airētājiem ātri, pārliecināti un droši izbaudīt pieredzi.',
+            'OLagoon pievērš uzmanību stabilitātes dizainam ar platākām dēļu formām tūristiem un ģimenēm, kā arī vieglai vadāmībai, kas palīdz pirmo reizi airētājiem ātri, pārliecināti un droši izbaudīt pieredzi.',
           features: ['Stabilitātes dizains', 'Viegla vadāmība', 'Iesācējiem draudzīga veiktspēja'],
         },
         {
           title: 'Piegādes atbalsts sezonāliem uzņēmumiem',
           description:
-            'Afarer palīdz operatoriem pārvaldīt pirmssezonas plānošanu flotes izvēlei un ražošanas grafikiem, sezonas nomaiņu papildu aprīkojumam un rezerves daļām, kā arī ilgtermiņa flotes izaugsmi no mazām darbībām līdz lieliem centriem.',
+            'OLagoon palīdz operatoriem pārvaldīt pirmssezonas plānošanu flotes izvēlei un ražošanas grafikiem, sezonas nomaiņu papildu aprīkojumam un rezerves daļām, kā arī ilgtermiņa flotes izaugsmi no mazām darbībām līdz lieliem centriem.',
           features: ['Pirmssezonas plānošana', 'Sezonas nomaiņa', 'Ilgtermiņa flotes izaugsme'],
         },
       ],
@@ -5082,7 +5082,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Flotes plānošana',
           detail:
-            'Afarer izstrādāja komerciālā SUP aprīkojuma komplektu ar stabiliem universāliem dēļiem, smagai slodzei paredzētiem piederumiem un rezerves daļām, kas pielāgoti operatora pludmales videi.',
+            'OLagoon izstrādāja komerciālā SUP aprīkojuma komplektu ar stabiliem universāliem dēļiem, smagai slodzei paredzētiem piederumiem un rezerves daļām, kas pielāgoti operatora pludmales videi.',
         },
         {
           title: 'Produktu pielāgošana',
@@ -5119,27 +5119,27 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Vispusīgs kūrortu novērtējums un aprīkojuma specifikācija',
               detail:
-                '2024. gada septembrī Carlos un Afarer viesmīlības risinājumu komanda veica 5 dienu vietējo auditu visos 3 objektos. Viņi analizēja viesu demogrāfiju, maksimālās noslodzes modeļus, glabāšanas ierobežojumus, personāla skaitu un sālsūdens iedarbības apstākļus. Audits atklāja, ka dīkstāves dēļ gadā tiek zaudētas 60+ viesu dienas un ka esošie dēļi kalpoja tikai 8-12 mēnešus, pirms sāka degradēties Caribbean saulē un sālsūdenī. Afarer piedāvāja 140 vienību floti: 100 SUP (10\'6" universālie), 20 caurspīdīgā dibena SUP dēļus rifu vērošanai, 20 pedāļu dēļus un 10 tandēma makšķerēšanas SUP. Katram dēlim bija UV stabilizēts jūras klases PVC ar 5 gadu komerciālu garantiju, nerūsējošā tērauda furnitūra un Hyatt Ziva zīmola grafika zīmolam raksturīgajā tirkīzzilajā un baltajā krāsā.',
+                '2024. gada septembrī Carlos un OLagoon viesmīlības risinājumu komanda veica 5 dienu vietējo auditu visos 3 objektos. Viņi analizēja viesu demogrāfiju, maksimālās noslodzes modeļus, glabāšanas ierobežojumus, personāla skaitu un sālsūdens iedarbības apstākļus. Audits atklāja, ka dīkstāves dēļ gadā tiek zaudētas 60+ viesu dienas un ka esošie dēļi kalpoja tikai 8-12 mēnešus, pirms sāka degradēties Caribbean saulē un sālsūdenī. OLagoon piedāvāja 140 vienību floti: 100 SUP (10\'6" universālie), 20 caurspīdīgā dibena SUP dēļus rifu vērošanai, 20 pedāļu dēļus un 10 tandēma makšķerēšanas SUP. Katram dēlim bija UV stabilizēts jūras klases PVC ar 5 gadu komerciālu garantiju, nerūsējošā tērauda furnitūra un Hyatt Ziva zīmola grafika zīmolam raksturīgajā tirkīzzilajā un baltajā krāsā.',
             },
             {
               title: 'Pludmales operāciju infrastruktūra un glabāšanas risinājumi',
               detail:
-                'Afarer komanda izstrādāja pilnīgu pludmales operāciju centru katram kūrortam, tostarp 40 pēdu slēdzamu kravas konteineru, kas pārveidots par drošu aprīkojuma telpu ar saules ventilāciju, 10 smagai slodzei paredzētām elektriskām piepūšanas stacijām ar digitāliem spiediena mērītājiem, mobīlu statņu sistēmu 50 dēļiem ar noteces funkciju, kā arī remonta un uzturēšanas staciju ar rezerves vārstiem, lāpstu komplektiem un tīrīšanas līdzekļiem. Puerto Morelos objekts saņēma atsevišķu pludmales kiosku ar reģistrācijas leti, glābšanas vestu sienu un digitālu grafika ekrānu. Afarer uzstādīšanas komanda katrā objektā pavadīja 2 nedēļas, pielāgojot esošās glabātavas un apmācot uzturēšanas personālu pareizās kopšanas rutīnās, tostarp saldūdens skalošanas protokolā pēc katras lietošanas.',
+                'OLagoon komanda izstrādāja pilnīgu pludmales operāciju centru katram kūrortam, tostarp 40 pēdu slēdzamu kravas konteineru, kas pārveidots par drošu aprīkojuma telpu ar saules ventilāciju, 10 smagai slodzei paredzētām elektriskām piepūšanas stacijām ar digitāliem spiediena mērītājiem, mobīlu statņu sistēmu 50 dēļiem ar noteces funkciju, kā arī remonta un uzturēšanas staciju ar rezerves vārstiem, lāpstu komplektiem un tīrīšanas līdzekļiem. Puerto Morelos objekts saņēma atsevišķu pludmales kiosku ar reģistrācijas leti, glābšanas vestu sienu un digitālu grafika ekrānu. OLagoon uzstādīšanas komanda katrā objektā pavadīja 2 nedēļas, pielāgojot esošās glabātavas un apmācot uzturēšanas personālu pareizās kopšanas rutīnās, tostarp saldūdens skalošanas protokolā pēc katras lietošanas.',
             },
             {
               title: 'Aktivitāšu programmēšana, personāla apmācība un viesu pieredzes dizains',
               detail:
-                'Afarer izstrādāja daudzpakāpju aktivitāšu programmu katram kūrortam: bezmaksas (SUP noma 1 stundas intervālos), vadītas (rīta SUP joga par $45/pp, saulrieta rifu tūres par $55/pp) un premium (privātas SUP piknika ekskursijas par $120/pp). Afarer treneri 3 kūrortos pavadīja 12 dienas, apmācot 24 atpūtas darbiniekus aprīkojuma lietošanā, viesu instruktāžā, drošības protokolos un pamata remontā. Apmācībā ietilpa sertifikācijas programma, ko atzīst Mexican Association of Water Sports Operators. Carlos komanda uzsāka QR koda rezervācijas sistēmu, kas integrēta ar Hyatt viesu lietotni un ļauj viesiem rezervēt aprīkojumu 48 stundas iepriekš.',
+                'OLagoon izstrādāja daudzpakāpju aktivitāšu programmu katram kūrortam: bezmaksas (SUP noma 1 stundas intervālos), vadītas (rīta SUP joga par $45/pp, saulrieta rifu tūres par $55/pp) un premium (privātas SUP piknika ekskursijas par $120/pp). OLagoon treneri 3 kūrortos pavadīja 12 dienas, apmācot 24 atpūtas darbiniekus aprīkojuma lietošanā, viesu instruktāžā, drošības protokolos un pamata remontā. Apmācībā ietilpa sertifikācijas programma, ko atzīst Mexican Association of Water Sports Operators. Carlos komanda uzsāka QR koda rezervācijas sistēmu, kas integrēta ar Hyatt viesu lietotni un ļauj viesiem rezervēt aprīkojumu 48 stundas iepriekš.',
             },
             {
               title: 'Sezonas darbība, veiktspējas izsekošana un ROI analīze',
               detail:
-                'Pilnā programma tika uzsākta 2025. gada 15. janvārī, un līdz 2025. gada jūnijam tā nodrošināja 14,200 viesu pieredzes ar 0 drošības incidentiem. Viesu apmierinātība ar ūdens sporta aktivitātēm vidēji sasniedza 4.7/5, un visaugstākos vērtējumus (4.9/5) saņēma caurspīdīgā dibena SUP dēļi. Aprīkojuma uzturēšanas izmaksas samazinājās par 42% salīdzinājumā ar iepriekšējā gada daudzu piegādātāju programmu — no $34K līdz $19.7K visos 3 objektos. Premium vadītās programmas pirmajos 6 mēnešos ģenerēja $112K papildu ieņēmumu. Carlos komanda ziņoja par 22% pieaugumu viesu skaitā, kuri pagarināja uzturēšanos par 1+ naktīm tieši ūdens sporta dēļ. Hyatt Inclusive Collection apstiprināja $240K budžetu 2026. gadam, lai uzstādītu Afarer aprīkojumu vēl 2 objektos Dominican Republic un Jamaica.',
+                'Pilnā programma tika uzsākta 2025. gada 15. janvārī, un līdz 2025. gada jūnijam tā nodrošināja 14,200 viesu pieredzes ar 0 drošības incidentiem. Viesu apmierinātība ar ūdens sporta aktivitātēm vidēji sasniedza 4.7/5, un visaugstākos vērtējumus (4.9/5) saņēma caurspīdīgā dibena SUP dēļi. Aprīkojuma uzturēšanas izmaksas samazinājās par 42% salīdzinājumā ar iepriekšējā gada daudzu piegādātāju programmu — no $34K līdz $19.7K visos 3 objektos. Premium vadītās programmas pirmajos 6 mēnešos ģenerēja $112K papildu ieņēmumu. Carlos komanda ziņoja par 22% pieaugumu viesu skaitā, kuri pagarināja uzturēšanos par 1+ naktīm tieši ūdens sporta dēļ. Hyatt Inclusive Collection apstiprināja $240K budžetu 2026. gadam, lai uzstādītu OLagoon aprīkojumu vēl 2 objektos Dominican Republic un Jamaica.',
             },
           ],
           results: [
             '14,200+ viesu pieredzes pirmajos 6 mēnešos ar 0 drošības incidentiem un 4.7/5 viesu apmierinātību ūdens sporta aktivitātēs',
-            'Aprīkojuma uzturēšanas izmaksas samazinātas par 42% — no $34K līdz $19.7K gadā — pateicoties Afarer komerciālās klases konstrukcijai un UV stabilizētajiem materiāliem',
+            'Aprīkojuma uzturēšanas izmaksas samazinātas par 42% — no $34K līdz $19.7K gadā — pateicoties OLagoon komerciālās klases konstrukcijai un UV stabilizētajiem materiāliem',
             'Premium vadītās programmas 6 mēnešos ģenerēja $112K papildu ieņēmumu, un labākos rezultātus deva SUP joga un saulrieta rifu tūres',
             '22% pieaugums viesu skaitā, kuri pagarināja uzturēšanos par 1+ naktīm, minot ūdens sportu kā svarīgu faktoru, kas nodrošināja aptuveni $340K papildu numuru ieņēmumu',
           ],
@@ -5156,22 +5156,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: 'Vairāku objektu vajadzību analīze un pielāgota flotes inženierija',
               detail:
-                '2024. gada oktobrī Afarer viesmīlības komanda 10 dienu ceļojuma laikā pa Cyclades salām veica individuālus novērtējumus katrā BlueWave vietā. Katram klubam bija atšķirīgi apstākļi: Mykonos (pārpildīti līči, augsta līmeņa klientūra, vēja iedarbība), Santorini (vulkāniskās smiltis, mierīgāki ūdeņi, saulrieta tūrisms), Naxos (ģimenēm orientēta vide, sekli ūdeņi, garāka pludmales josla), Paros (vindsērfinga pāreja, sportiska klientūra) un Crete (lielāki viļņi, jaukta demogrāfija). Afarer izstrādāja 200 vienību floti ar katram novietojumam pielāgotām konfigurācijām: 110 SUP (tostarp 20 SUP jogas platformas ar pagarinātu garumu un 20 caurspīdīgā dibena dēļus), 30 pedāļu dēļus premium viesiem, 30 windSUP hibrīdus Mykonos un Paros, kā arī 30 jauniešu dēļus Naxos ģimenes programmām. Visām vienībām bija BlueWave raksturīgā tumši zilā un baltā krāsu shēma ar zelta akcentu logotipiem.',
+                '2024. gada oktobrī OLagoon viesmīlības komanda 10 dienu ceļojuma laikā pa Cyclades salām veica individuālus novērtējumus katrā BlueWave vietā. Katram klubam bija atšķirīgi apstākļi: Mykonos (pārpildīti līči, augsta līmeņa klientūra, vēja iedarbība), Santorini (vulkāniskās smiltis, mierīgāki ūdeņi, saulrieta tūrisms), Naxos (ģimenēm orientēta vide, sekli ūdeņi, garāka pludmales josla), Paros (vindsērfinga pāreja, sportiska klientūra) un Crete (lielāki viļņi, jaukta demogrāfija). OLagoon izstrādāja 200 vienību floti ar katram novietojumam pielāgotām konfigurācijām: 110 SUP (tostarp 20 SUP jogas platformas ar pagarinātu garumu un 20 caurspīdīgā dibena dēļus), 30 pedāļu dēļus premium viesiem, 30 windSUP hibrīdus Mykonos un Paros, kā arī 30 jauniešu dēļus Naxos ģimenes programmām. Visām vienībām bija BlueWave raksturīgā tumši zilā un baltā krāsu shēma ar zelta akcentu logotipiem.',
             },
             {
               title: 'Vietām pielāgota infrastruktūra un loģistikas ieviešana',
               detail:
-                'Afarer operāciju komanda īstenoja loģistikas plānu, nosūtot 40 konteinerus uz 5 salām un koordinējoties ar BlueWave vietējiem loģistikas partneriem par pārvedumiem starp salām. Katra vieta saņēma pielāgotu glabāšanas risinājumu: Mykonos ieguva kontrolēta klimata pludmales noliktavu ar UV aizsargātiem statņiem, Santorini ieguva klints malas trīšu sistēmu dēļu transportam no noliktavas uz pludmali, Naxos saņēma ģimenēm draudzīgu nomas kiosku ar bērnu aprīkojuma ekspozīciju, bet Paros un Crete saņēma divējāda lietojuma glabātavas, ko var pārvērst par vēja aizsargbarjerām. Afarer uzstādīja kopīgu digitālo rezervācijas sistēmu visos 5 objektos un 2025. gada aprīlī apmācīja 35 BlueWave darbiniekus 2 nedēļu intensīvā programmā Mykonos galvenajā objektā.',
+                'OLagoon operāciju komanda īstenoja loģistikas plānu, nosūtot 40 konteinerus uz 5 salām un koordinējoties ar BlueWave vietējiem loģistikas partneriem par pārvedumiem starp salām. Katra vieta saņēma pielāgotu glabāšanas risinājumu: Mykonos ieguva kontrolēta klimata pludmales noliktavu ar UV aizsargātiem statņiem, Santorini ieguva klints malas trīšu sistēmu dēļu transportam no noliktavas uz pludmali, Naxos saņēma ģimenēm draudzīgu nomas kiosku ar bērnu aprīkojuma ekspozīciju, bet Paros un Crete saņēma divējāda lietojuma glabātavas, ko var pārvērst par vēja aizsargbarjerām. OLagoon uzstādīja kopīgu digitālo rezervācijas sistēmu visos 5 objektos un 2025. gada aprīlī apmācīja 35 BlueWave darbiniekus 2 nedēļu intensīvā programmā Mykonos galvenajā objektā.',
             },
             {
               title: 'Aktivitāšu programmas standartizācija un premium līmeņa izveide',
               detail:
-                "Dimitri komanda uzsāka BlueWave standartizēto ūdens sporta programmu 'Aegean Blue Experiences' ar 3 pakāpēm: bezmaksas (30 minūšu SUP sesijas kluba viesiem), premium (vadīts SUP uz nomaļām pludmalēm par €65-€95) un ultra-premium (privātas airēšanas ekskursijas ar jahtas transfēru par €250/pp, tostarp šampanieša pikniku pludmalē). Afarer programmēšanas komanda izveidoja 12 vadītu tūru maršrutus 5 salās ar GPS izsekotiem maršrutiem, interesanto objektu marķieriem un fotogrāfa atbalstu. Mykonos objekts uzsāka arī 'Sunset SUP at Little Venice' — 2 stundu garu vadītu vakara airēšanas izbraucienu, kurš izpārdeva visas sesijas par €85/pp ar 95% noslodzi vasaras sezonā.",
+                "Dimitri komanda uzsāka BlueWave standartizēto ūdens sporta programmu 'Aegean Blue Experiences' ar 3 pakāpēm: bezmaksas (30 minūšu SUP sesijas kluba viesiem), premium (vadīts SUP uz nomaļām pludmalēm par €65-€95) un ultra-premium (privātas airēšanas ekskursijas ar jahtas transfēru par €250/pp, tostarp šampanieša pikniku pludmalē). OLagoon programmēšanas komanda izveidoja 12 vadītu tūru maršrutus 5 salās ar GPS izsekotiem maršrutiem, interesanto objektu marķieriem un fotogrāfa atbalstu. Mykonos objekts uzsāka arī 'Sunset SUP at Little Venice' — 2 stundu garu vadītu vakara airēšanas izbraucienu, kurš izpārdeva visas sesijas par €85/pp ar 95% noslodzi vasaras sezonā.",
             },
             {
               title: 'Sezonas veiktspējas pārskats un programmas ilgtspēja',
               detail:
-                '2025. gada maija-septembra sezonā BlueWave vienotā flote nodrošināja 52,000 viesu nomas 5 vietās (4% virs 50,000 mērķa). Kopējās aprīkojuma izmaksas sastādīja $198K, amortizējot tās 5 gadu Afarer garantijas periodā, salīdzinājumā ar iepriekšējiem $165K gadā par aprīkojumu, ko mainīja ik pēc 18 mēnešiem — tas ir 52% gadējais izmaksu samazinājums. Viesu apmierinātība ar ūdens sportu uzlabojās no 3.8/5 (dažādi piegādātāji, pirms 2025. gada) līdz 4.6/5 visās vietās. Dimitri ziņoja par €340K ieņēmumiem no premium programmas (SUP joga, vadītas tūres, saulrieta airēšana), kas vienā sezonā nozīmēja 4.7x atdevi no aprīkojuma ieguldījuma. BlueWave noslēdza 3 gadu līguma pagarinājumu ar Afarer, paplašinoties uz 2 papildu vietām Rhodes un Corfu 2026. gadam un pievienojot vēl 80 dēļus.',
+                '2025. gada maija-septembra sezonā BlueWave vienotā flote nodrošināja 52,000 viesu nomas 5 vietās (4% virs 50,000 mērķa). Kopējās aprīkojuma izmaksas sastādīja $198K, amortizējot tās 5 gadu OLagoon garantijas periodā, salīdzinājumā ar iepriekšējiem $165K gadā par aprīkojumu, ko mainīja ik pēc 18 mēnešiem — tas ir 52% gadējais izmaksu samazinājums. Viesu apmierinātība ar ūdens sportu uzlabojās no 3.8/5 (dažādi piegādātāji, pirms 2025. gada) līdz 4.6/5 visās vietās. Dimitri ziņoja par €340K ieņēmumiem no premium programmas (SUP joga, vadītas tūres, saulrieta airēšana), kas vienā sezonā nozīmēja 4.7x atdevi no aprīkojuma ieguldījuma. BlueWave noslēdza 3 gadu līguma pagarinājumu ar OLagoon, paplašinoties uz 2 papildu vietām Rhodes un Corfu 2026. gadam un pievienojot vēl 80 dēļus.',
             },
           ],
           results: [
@@ -5183,8 +5183,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc pludmales operatori izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc pludmales operatori izvēlas OLagoon',
       items: [
         {
           title: 'Izturība',
@@ -5223,22 +5223,22 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Ar cik SUP dēļiem jums vajadzētu sākt pludmales nomas biznesu?',
         answer:
-          'Afarer iesaka mazām pludmales darbībām sākt ar 10-20 dēļiem, izveidotiem nomas biznesiem palielināt skaitu līdz 30-50, bet lieliem ūdens sporta centriem izmantot 50+. Flotes plānošana ietver dažādu dēļu izmēru un konfigurāciju kombināciju, lai apkalpotu dažādus klientu tipus — no iesācējiem līdz pieredzējušiem airētājiem.',
+          'OLagoon iesaka mazām pludmales darbībām sākt ar 10-20 dēļiem, izveidotiem nomas biznesiem palielināt skaitu līdz 30-50, bet lieliem ūdens sporta centriem izmantot 50+. Flotes plānošana ietver dažādu dēļu izmēru un konfigurāciju kombināciju, lai apkalpotu dažādus klientu tipus — no iesācējiem līdz pieredzējušiem airētājiem.',
       },
       {
-        question: 'Kādas rezerves daļas un uzturēšanas atbalstu Afarer nodrošina nomas flotēm?',
+        question: 'Kādas rezerves daļas un uzturēšanas atbalstu OLagoon nodrošina nomas flotēm?',
         answer:
-          'Afarer nodrošina standartizētu rezerves daļu sistēmu, tostarp vārstus, drošības saites, airus, sūkņus un remonta materiālus. Mēs piedāvājam arī flotes uzturēšanas plānošanas ceļvežus ikdienas pārbaudēm, sezonas uzturēšanai un ātras atjaunošanas procedūrām, lai samazinātu aprīkojuma dīkstāvi.',
+          'OLagoon nodrošina standartizētu rezerves daļu sistēmu, tostarp vārstus, drošības saites, airus, sūkņus un remonta materiālus. Mēs piedāvājam arī flotes uzturēšanas plānošanas ceļvežus ikdienas pārbaudēm, sezonas uzturēšanai un ātras atjaunošanas procedūrām, lai samazinātu aprīkojuma dīkstāvi.',
       },
       {
         question: 'Vai SUP dēļus var pielāgot ar jūsu biznesa logotipu un zīmolradi?',
         answer:
-          'Jā, Afarer atbalsta pilnu biznesa zīmolradi, tostarp logotipu druku, pielāgotas krāsas un nomas identifikācijas grafiku. Tas pārvērš jūsu floti mārketinga līdzeklī un rada foto iespējas, kas palielina jūsu biznesa redzamību sociālajos tīklos.',
+          'Jā, OLagoon atbalsta pilnu biznesa zīmolradi, tostarp logotipu druku, pielāgotas krāsas un nomas identifikācijas grafiku. Tas pārvērš jūsu floti mārketinga līdzeklī un rada foto iespējas, kas palielina jūsu biznesa redzamību sociālajos tīklos.',
       },
       {
-        question: 'Cik izturīgi ir Afarer komerciālie SUP dēļi ikdienas nomas lietošanai?',
+        question: 'Cik izturīgi ir OLagoon komerciālie SUP dēļi ikdienas nomas lietošanai?',
         answer:
-          'Afarer komerciālie SUP dēļi ir izstrādāti augstas frekvences nomas darbībai ar pastiprinātu PVC, izturīgu šuvju tehnoloģiju un aizsargājošiem ārējiem slāņiem. Ar pareizu uzturēšanu tie komerciālā vidē ievērojami pārsniedz patērētāju klases dēļu kalpošanas laiku, samazinot kopējās īpašumtiesību izmaksas.',
+          'OLagoon komerciālie SUP dēļi ir izstrādāti augstas frekvences nomas darbībai ar pastiprinātu PVC, izturīgu šuvju tehnoloģiju un aizsargājošiem ārējiem slāņiem. Ar pareizu uzturēšanu tie komerciālā vidē ievērojami pārsniedz patērētāju klases dēļu kalpošanas laiku, samazinot kopējās īpašumtiesību izmaksas.',
       },
       {
         question: 'Kāda ir tipiskā ieguldījuma atdeva (ROI) SUP nomas flotei?',
@@ -5247,7 +5247,7 @@ const lv: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Izveidojiet savu pludmales ūdens aktivitāšu biznesu kopā ar Afarer',
+      title: 'Izveidojiet savu pludmales ūdens aktivitāšu biznesu kopā ar OLagoon',
       subtitle: 'Izveidojiet vairāk nekā tikai nomas pakalpojumu. Izveidojiet neaizmirstamas ūdens pieredzes.',
       primaryAction: {
         text: 'Sāciet savu komerciālo SUP flotes projektu jau šodien',
@@ -5262,7 +5262,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Komerciālo ūdens parku SUP flotes piegādātājs | {SITE}',
       description:
-        'Afarer piedāvā komerciālo SUP flotes risinājumus ūdens parkiem un tematiskajiem parkiem. Augstas izturības SUP dēļi, iesācējiem draudzīgi dizaini, uz drošību vērsta konstrukcija un liela apjoma OEM piegādes.',
+        'OLagoon piedāvā komerciālo SUP flotes risinājumus ūdens parkiem un tematiskajiem parkiem. Augstas izturības SUP dēļi, iesācējiem draudzīgi dizaini, uz drošību vērsta konstrukcija un liela apjoma OEM piegādes.',
     },
     hero: {
       tagline: 'Lielas caurlaidspējas SUP risinājumi ūdens parkiem, tematiskajiem parkiem un lielām izklaides iestādēm',
@@ -5308,12 +5308,12 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Uz drošību orientēta konstrukcija',
           description:
-            'Afarer atbalsta uz drošību vērstu produktu izstrādi. Aizsargājošs malu dizains ar pastiprinātu sānu aizsardzību un mīkstākām trieciena zonām mazina sadursmes ietekmi. Pilns EVA drošības klājums nodrošina pretslīdes virsmu un ērtu stāvēšanas zonu. Noapaļotas, iesācējiem draudzīgas formas mazina asās malas un atvieglo vadīšanu.',
+            'OLagoon atbalsta uz drošību vērstu produktu izstrādi. Aizsargājošs malu dizains ar pastiprinātu sānu aizsardzību un mīkstākām trieciena zonām mazina sadursmes ietekmi. Pilns EVA drošības klājums nodrošina pretslīdes virsmu un ērtu stāvēšanas zonu. Noapaļotas, iesācējiem draudzīgas formas mazina asās malas un atvieglo vadīšanu.',
         },
         {
           title: 'Lielas caurlaidspējas flotes plānošana',
           description:
-            'Afarer palīdz parkiem izvēlēties piemērotu flotes lielumu. Mazas aktivitātes zonas (100-300 dēļi) kūrortu ūdens zonām, vidēja izmēra izklaides parki (300-600 dēļi) reģionāliem ūdens parkiem un lielas tematisko parku operācijas (600-1000+ dēļi) lielām izklaides grupām un daudzzonu atrakcijām.',
+            'OLagoon palīdz parkiem izvēlēties piemērotu flotes lielumu. Mazas aktivitātes zonas (100-300 dēļi) kūrortu ūdens zonām, vidēja izmēra izklaides parki (300-600 dēļi) reģionāliem ūdens parkiem un lielas tematisko parku operācijas (600-1000+ dēļi) lielām izklaides grupām un daudzzonu atrakcijām.',
         },
         {
           title: 'Pilns ūdens parka iekārtu komplekts',
@@ -5354,7 +5354,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Komerciālās flotes plānošana',
           detail:
-            'Afarer izstrādāja ūdens parka SUP aktivitāšu sistēmu, tostarp stabilus iesācēju dēļus, komerciālos aksesuārus un rezerves daļas.',
+            'OLagoon izstrādāja ūdens parka SUP aktivitāšu sistēmu, tostarp stabilus iesācēju dēļus, komerciālos aksesuārus un rezerves daļas.',
         },
         {
           title: 'Drošības pielāgošana',
@@ -5392,17 +5392,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. posms: SUP izvēle no nulles un modulārs šķēršļu dizains',
               detail:
-                '2025. gada janvārī Delgado izvērtēja 7 piepūšamo SUP piegādātājus. 4 tika noraidīti 6+ minūšu atkārtotas piepūšanas ciklu dēļ, un vēl 2 — delaminācijas dēļ UV testos. Viņš izvēlējās Afarer Explorer 11\'6" X (34" platums, 6" biezums, 320L tilpums) tā 15-PSI maksimālās stingrības un 5 minūšu cikla no pilnas gaisa izlaišanas līdz uzglabāšanai dēļ. Kopā ar Afarer OEM komandu viņš katram dēlim pievienoja 4 integrētus D-gredzenu stiprinājuma punktus ātri pievienojamiem šķēršļu moduļiem — līdzsvara sijām, peldošām barjerām un pārrāpošanas arkiem —, izmantojot pielāgotu sliedu stiprinājuma sistēmu, kas testēta ar 220 lbs sānu spēku.',
+                '2025. gada janvārī Delgado izvērtēja 7 piepūšamo SUP piegādātājus. 4 tika noraidīti 6+ minūšu atkārtotas piepūšanas ciklu dēļ, un vēl 2 — delaminācijas dēļ UV testos. Viņš izvēlējās OLagoon Explorer 11\'6" X (34" platums, 6" biezums, 320L tilpums) tā 15-PSI maksimālās stingrības un 5 minūšu cikla no pilnas gaisa izlaišanas līdz uzglabāšanai dēļ. Kopā ar OLagoon OEM komandu viņš katram dēlim pievienoja 4 integrētus D-gredzenu stiprinājuma punktus ātri pievienojamiem šķēršļu moduļiem — līdzsvara sijām, peldošām barjerām un pārrāpošanas arkiem —, izmantojot pielāgotu sliedu stiprinājuma sistēmu, kas testēta ar 220 lbs sānu spēku.',
             },
             {
               title: '2. posms: Šķēršļu trases izkārtojums un ūdens dziļuma atbilstība',
               detail:
-                'Sešu nedēļu laikā Delgado kopā ar galveno ūdens atrakciju inženieri Sarah Kim izstrādāja 3 trases konfigurācijas dažādiem baseina dziļumiem (no 3.5 ft līdz 5.5 ft). Izmantojot Afarer CAD failus, viņi modelēja dēļu izvietojumu 8 ft intervālos, izveidojot 150 ft serpentīna trases. Katrai trasei bija nepieciešami 16 dēļi plus 4 rezerves dēļi katram parkam. Kim ieguva TDLR izklaides iekārtu sertifikātu, integrējot šķeltes tapu atvienojamos savienotājus visos šķēršļu stiprinājumos un nodrošinot, ka neviena sastāvdaļa nepārsniedz 15 lbs atvienošanas spēku.',
+                'Sešu nedēļu laikā Delgado kopā ar galveno ūdens atrakciju inženieri Sarah Kim izstrādāja 3 trases konfigurācijas dažādiem baseina dziļumiem (no 3.5 ft līdz 5.5 ft). Izmantojot OLagoon CAD failus, viņi modelēja dēļu izvietojumu 8 ft intervālos, izveidojot 150 ft serpentīna trases. Katrai trasei bija nepieciešami 16 dēļi plus 4 rezerves dēļi katram parkam. Kim ieguva TDLR izklaides iekārtu sertifikātu, integrējot šķeltes tapu atvienojamos savienotājus visos šķēršļu stiprinājumos un nodrošinot, ka neviena sastāvdaļa nepārsniedz 15 lbs atvienošanas spēku.',
             },
             {
               title: '3. posms: Glābēju SUP sertifikācija un ātras reaģēšanas mācības',
               detail:
-                '2025. gada martā Afarer apmācību komanda Red Oak flagmaņa parkā veica 3 dienu klātienes sertifikāciju 24 glābējiem. Apmācības ietvēra uz SUP balstītas glābšanas metodes, ārkārtas izkāpšanas un apmeklētāju plūsmas pārvaldību. Delgado ieviesa 15 minūšu rotācijas sistēmu: 12 minūšu SUP sesija + 3 minūšu dēļu maiņa. Katrs parks izveidoja 40 ft īpašu sagatavošanas zonu ar 50 pie sienas stiprinātiem dēļu statņiem, ko izgatavoja Paddletek. Glābēju sertifikācijas pabeigšanas līmenis sasniedza 100% ar rakstiskā eksāmena vidējo vērtējumu 94%.',
+                '2025. gada martā OLagoon apmācību komanda Red Oak flagmaņa parkā veica 3 dienu klātienes sertifikāciju 24 glābējiem. Apmācības ietvēra uz SUP balstītas glābšanas metodes, ārkārtas izkāpšanas un apmeklētāju plūsmas pārvaldību. Delgado ieviesa 15 minūšu rotācijas sistēmu: 12 minūšu SUP sesija + 3 minūšu dēļu maiņa. Katrs parks izveidoja 40 ft īpašu sagatavošanas zonu ar 50 pie sienas stiprinātiem dēļu statņiem, ko izgatavoja Paddletek. Glābēju sertifikācijas pabeigšanas līmenis sasniedza 100% ar rakstiskā eksāmena vidējo vērtējumu 94%.',
             },
             {
               title: '4. posms: Atklāšana Memorial Day brīvdienās un sezonas rezultāti',
@@ -5430,7 +5430,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: SUP izvēle kautrībai, stabilitātei un karstumizturībai',
               detail:
-                '2024. gada novembrī Al Falasi testēja 9 SUP modeļus no 5 zīmoliem. Tikai Afarer Explorer 10\'8" X (33" x 6" x 320L) izturēja 48 stundu ilgu 50 grādu C siltuma kameras testu bez materiāla degradācijas. Viņa pasūtīja 120 dēļus divās krāsu versijās (smilšu kāpas bēža un okeāna tirkīza), lai atbilstu La Mer estētikai. Katrs dēlis tika aprīkots ar pielāgotu noņemamu nojumes ēnojuma sistēmu — oglekļa šķiedras arku ar UPF 50+ audumu —, ko Afarer inženieru komanda izstrādāja trīs prototipu iterāciju laikā. Nojumes pievienoja 1.2 kg, saglabājot stabilitāti 0.5 grādu slīpuma robežās.',
+                '2024. gada novembrī Al Falasi testēja 9 SUP modeļus no 5 zīmoliem. Tikai OLagoon Explorer 10\'8" X (33" x 6" x 320L) izturēja 48 stundu ilgu 50 grādu C siltuma kameras testu bez materiāla degradācijas. Viņa pasūtīja 120 dēļus divās krāsu versijās (smilšu kāpas bēža un okeāna tirkīza), lai atbilstu La Mer estētikai. Katrs dēlis tika aprīkots ar pielāgotu noņemamu nojumes ēnojuma sistēmu — oglekļa šķiedras arku ar UPF 50+ audumu —, ko OLagoon inženieru komanda izstrādāja trīs prototipu iterāciju laikā. Nojumes pievienoja 1.2 kg, saglabājot stabilitāti 0.5 grādu slīpuma robežās.',
             },
             {
               title: '2. solis: Lagūnas zonēšana, privātums un pēc dzimuma atdalīts grafiks',
@@ -5440,7 +5440,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '3. solis: Sieviešu SUP instruktoru atlase un kultūras apmācība',
               detail:
-                '2025. gada janvārī AquaFun uzsāka mērķētu personāla atlases kampaņu, nolīgstot 12 sieviešu SUP instruktores (8 emirātietes, 4 ārvalstnieces) un 6 vīriešu instruktorus. Afarer sniedza pielāgotu 5 dienu SUP gida sertifikāciju, piemērotu kultūras jutīgumam — aptverot arābu terminoloģiju airu komandām, kautrībai atbilstošas glābšanas metodes (dēļu vilkšana no dēļa uz dēli bez fiziska kontakta) un ģimeņu grupu tempa stratēģijas. Visi 18 instruktori līdz 20. februārim izturēja ar IRF Level 1 ekvivalentu vērtēšanu. Apmācības izmaksas sasniedza $28K, un tās līdzfinansēja Dubai Tourism produktu inovāciju grants.',
+                '2025. gada janvārī AquaFun uzsāka mērķētu personāla atlases kampaņu, nolīgstot 12 sieviešu SUP instruktores (8 emirātietes, 4 ārvalstnieces) un 6 vīriešu instruktorus. OLagoon sniedza pielāgotu 5 dienu SUP gida sertifikāciju, piemērotu kultūras jutīgumam — aptverot arābu terminoloģiju airu komandām, kautrībai atbilstošas glābšanas metodes (dēļu vilkšana no dēļa uz dēli bez fiziska kontakta) un ģimeņu grupu tempa stratēģijas. Visi 18 instruktori līdz 20. februārim izturēja ar IRF Level 1 ekvivalentu vērtēšanu. Apmācības izmaksas sasniedza $28K, un tās līdzfinansēja Dubai Tourism produktu inovāciju grants.',
             },
             {
               title: '4. solis: Ar ramadānu saskaņots maigais starts un pastāvīga darbība',
@@ -5457,28 +5457,28 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc ūdens parki izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc ūdens parki izvēlas OLagoon',
       items: [
         {
           title: 'Darbība ar lielu apmeklētāju plūsmu',
           description:
-            'Iekārtām jāiztur ikdienas komerciālā lietošana. Afarer izstrādā risinājumus nepārtrauktai darbībai ar lielu apjomu, izmantojot izturīgu konstrukciju.',
+            'Iekārtām jāiztur ikdienas komerciālā lietošana. OLagoon izstrādā risinājumus nepārtrauktai darbībai ar lielu apjomu, izmantojot izturīgu konstrukciju.',
         },
         {
           title: 'Drošības prasības',
           description:
-            'Viesiem nepieciešama pašpaļāvība un aizsardzība. Afarer ikvienā produkta dizainā dod priekšroku drošībai, ietverot iesācējiem draudzīgas funkcijas.',
+            'Viesiem nepieciešama pašpaļāvība un aizsardzība. OLagoon ikvienā produkta dizainā dod priekšroku drošībai, ietverot iesācējiem draudzīgas funkcijas.',
         },
         {
           title: 'Flotes pārvaldība',
           description:
-            'Lielie projekti prasa pilnīgas sistēmas. Afarer nodrošina flotes plānošanu no sākuma līdz beigām, daudzumu ieteikumus un atbalstu.',
+            'Lielie projekti prasa pilnīgas sistēmas. OLagoon nodrošina flotes plānošanu no sākuma līdz beigām, daudzumu ieteikumus un atbalstu.',
         },
         {
           title: 'Ilgtermiņa uzticamība',
           description:
-            'Atrakcijas ir atkarīgas no stabīlas darbības. Afarer nodrošina izturīgus produktus un uzticamu piegādi daudzu gadu nepārtrauktai lietošanai.',
+            'Atrakcijas ir atkarīgas no stabīlas darbības. OLagoon nodrošina izturīgus produktus un uzticamu piegādi daudzu gadu nepārtrauktai lietošanai.',
         },
       ],
     },
@@ -5486,36 +5486,36 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kāds flotes lielums ir ieteicams ūdens parka SUP atrakcijai?',
         answer:
-          'Afarer iesaka 100-300 dēļus mazām aktivitāšu zonām un kūrortu ūdens zonām, 300-600 dēļus reģionāliem ūdens parkiem un tūrisma galamērķiem, kā arī 600-1000+ dēļus lieliem tematiskajiem parkiem un daudzzonu atrakcijām.',
+          'OLagoon iesaka 100-300 dēļus mazām aktivitāšu zonām un kūrortu ūdens zonām, 300-600 dēļus reģionāliem ūdens parkiem un tūrisma galamērķiem, kā arī 600-1000+ dēļus lieliem tematiskajiem parkiem un daudzzonu atrakcijām.',
       },
       {
         question: 'Cik izturīgi ir komerciālie SUP dēļi ikdienas lietošanai ūdens parkā?',
         answer:
-          'Afarer komerciālie SUP dēļi ir izstrādāti darbībai ar lielu apmeklētāju plūsmu, ar pastiprinātu PVC konstrukciju, izturīgām šuvēm un komerciāla līmeņa aksesuāriem. Tie iztur nepārtrauktu ikdienas lietošanu, biežas iesācēju kļūdas un atkārtotus triecienus, kas sabojātu patērētāju līmeņa produktus.',
+          'OLagoon komerciālie SUP dēļi ir izstrādāti darbībai ar lielu apmeklētāju plūsmu, ar pastiprinātu PVC konstrukciju, izturīgām šuvēm un komerciāla līmeņa aksesuāriem. Tie iztur nepārtrauktu ikdienas lietošanu, biežas iesācēju kļūdas un atkārtotus triecienus, kas sabojātu patērētāju līmeņa produktus.',
       },
       {
         question: 'Vai SUP dēļus var pielāgot ar mana ūdens parka zīmolradi?',
         answer:
-          'Jā, Afarer atbalsta pilnīgu pielāgošanu, tostarp parka logotipus, tēlu grafiku, pielāgotas krāsas un atrakcijas tēmu integrāciju. Pielāgota zīmolrade pārvērš SUP ekipējumu fotogēniskās atrakcijās, kas rada sociālo mediju atpazīstamību.',
+          'Jā, OLagoon atbalsta pilnīgu pielāgošanu, tostarp parka logotipus, tēlu grafiku, pielāgotas krāsas un atrakcijas tēmu integrāciju. Pielāgota zīmolrade pārvērš SUP ekipējumu fotogēniskās atrakcijās, kas rada sociālo mediju atpazīstamību.',
       },
       {
-        question: 'Kādas drošības funkcijas ietver Afarer komerciālie SUP dēļi?',
+        question: 'Kādas drošības funkcijas ietver OLagoon komerciālie SUP dēļi?',
         answer:
-          'Afarer dēļiem ir aizsargājošs malu dizains, pilns EVA pretslīdes drošības klājums, augstas peldspējas konstrukcija, noapaļotas iesācējiem draudzīgas formas un pastiprināta sānu aizsardzība. Šīs funkcijas minimizē sadursmes ietekmi un nodrošina drošu lietošanu pirmreizējiem lietotājiem.',
+          'OLagoon dēļiem ir aizsargājošs malu dizains, pilns EVA pretslīdes drošības klājums, augstas peldspējas konstrukcija, noapaļotas iesācējiem draudzīgas formas un pastiprināta sānu aizsardzība. Šīs funkcijas minimizē sadursmes ietekmi un nodrošina drošu lietošanu pirmreizējiem lietotājiem.',
       },
       {
-        question: 'Kā Afarer atbalsta apkopi un nomaiņu lielām flotēm?',
+        question: 'Kā OLagoon atbalsta apkopi un nomaiņu lielām flotēm?',
         answer:
-          'Afarer nodrošina standartizētas sastāvdaļas vieglākai nomaiņai, remonta materiālus un norādījumus, flotes pārbaudes sistēmas ikdienas kontrolēm un rezerves daļu pieejamību. Mēs piedāvājam arī ikgadējas piegādes programmas sezonālai nomaiņai un flotes modernizācijai.',
+          'OLagoon nodrošina standartizētas sastāvdaļas vieglākai nomaiņai, remonta materiālus un norādījumus, flotes pārbaudes sistēmas ikdienas kontrolēm un rezerves daļu pieejamību. Mēs piedāvājam arī ikgadējas piegādes programmas sezonālai nomaiņai un flotes modernizācijai.',
       },
       {
         question: 'Kāds ir tipiskais izpildes laiks liela mēroga SUP flotes pasūtījumam?',
         answer:
-          'Izpildes laiki atšķiras atkarībā no pasūtījuma apjoma un pielāgošanas prasībām. Afarer cieši sadarbojas ar katru klientu, lai izveidotu ražošanas grafikus — no pilota projektiem ar 100-500 komplektiem līdz pilna mēroga instalācijām ar 500-1000+ komplektiem —, nodrošinot savlaicīgu piegādi sezonas atklāšanai.',
+          'Izpildes laiki atšķiras atkarībā no pasūtījuma apjoma un pielāgošanas prasībām. OLagoon cieši sadarbojas ar katru klientu, lai izveidotu ražošanas grafikus — no pilota projektiem ar 100-500 komplektiem līdz pilna mēroga instalācijām ar 500-1000+ komplektiem —, nodrošinot savlaicīgu piegādi sezonas atklāšanai.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu ūdens parka SUP atrakciju kopā ar Afarer',
+      title: 'Izveidojiet savu ūdens parka SUP atrakciju kopā ar OLagoon',
       subtitle:
         'Radiet vairāk nekā tikai ūdens aktivitāti. Radiet neaizmirstamu viesu pieredzi, kas liek apmeklētājiem atgriezties.',
       primaryAction: {
@@ -5531,7 +5531,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Luksusa SUP ražotājs pēc pasūtījuma | {SITE}',
       description:
-        'Afarer izveido premium SUP kolekcijas pēc pasūtījuma privātām salām, jahtu klubiem, luksusa kūrortiem un elites dzīvesveida zīmoliem. Ekskluzīvi dizaini, luksusa materiāli, VIP personalizācija un butiku OEM ražošana.',
+        'OLagoon izveido premium SUP kolekcijas pēc pasūtījuma privātām salām, jahtu klubiem, luksusa kūrortiem un elites dzīvesveida zīmoliem. Ekskluzīvi dizaini, luksusa materiāli, VIP personalizācija un butiku OEM ražošana.',
     },
     hero: {
       tagline: 'Ekskluzīvi luksusa SUP risinājumi privātām salām, jahtu klubiem un elites dzīvesveida galamērķiem',
@@ -5572,7 +5572,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Ekskluzīvs luksusa SUP dizains',
           description:
-            'Afarer nodrošina pilnīgu estētisko personalizāciju ar pielāgotu krāsu izstrādi, zīmolam atbilstošiem toņiem un ar kūrortiem saderīgiem dizainiem. Stili ietver Ocean Luxury ar tumši zilu un pērļbalto, Tropical Island ar dabīgiem toņiem un Modern Yacht ar minimālistisku krāsu paleti un premium apdari.',
+            'OLagoon nodrošina pilnīgu estētisko personalizāciju ar pielāgotu krāsu izstrādi, zīmolam atbilstošiem toņiem un ar kūrortiem saderīgiem dizainiem. Stili ietver Ocean Luxury ar tumši zilu un pērļbalto, Tropical Island ar dabīgiem toņiem un Modern Yacht ar minimālistisku krāsu paleti un premium apdari.',
         },
         {
           title: 'Premium materiālu un apdares izvēle',
@@ -5659,17 +5659,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Individuāla dizaina sadarbība un materiālu izvēle',
               detail:
-                "2024. gada augustā Voss vērsās pie Afarer individuālo risinājumu nodaļas ar detalizētu uzdevumu: dēļiem jāatbilst kūrorta 'Ocean Sand' krāsu paletei (silts bēšs, antracīts, pūderrozā un tirkīzs) ar stucco tekstūras klāja paklājiņu, kas saderīgs ar villu grīdas segumu. Afarer dizaina komanda 6 nedēļu laikā izstrādāja 14 krāsu prototipus, izvēloties 5 slāņu fūzijas drop-stitch kodolu ar UV stabilizētu matētu PVC ārējo slāni. Katrs dēlis ieguva ar roku gleznotu zelta lapu logotipu--Coco zīmola palmzaru emblēmu--, ko uzklāja Bali amatnieks, patērējot 4 stundas uz dēli. 30 dēļu pasūtījums (25 Explorer 11'6\" X, 5 12'6\" tūringa) kopā veidoja $87,000.",
+                "2024. gada augustā Voss vērsās pie OLagoon individuālo risinājumu nodaļas ar detalizētu uzdevumu: dēļiem jāatbilst kūrorta 'Ocean Sand' krāsu paletei (silts bēšs, antracīts, pūderrozā un tirkīzs) ar stucco tekstūras klāja paklājiņu, kas saderīgs ar villu grīdas segumu. OLagoon dizaina komanda 6 nedēļu laikā izstrādāja 14 krāsu prototipus, izvēloties 5 slāņu fūzijas drop-stitch kodolu ar UV stabilizētu matētu PVC ārējo slāni. Katrs dēlis ieguva ar roku gleznotu zelta lapu logotipu--Coco zīmola palmzaru emblēmu--, ko uzklāja Bali amatnieks, patērējot 4 stundas uz dēli. 30 dēļu pasūtījums (25 Explorer 11'6\" X, 5 12'6\" tūringa) kopā veidoja $87,000.",
             },
             {
               title: '2. solis: Peldošās piestātnes integrācija un uzglabāšanas arhitektūra',
               detail:
-                'Voss sadarbojās ar Afarer jūras arhitektiem, lai izveidotu divlīmeņu peldošu dēļu servisa sistēmu. Apakšējā līmenī atradās 15 dēļi ar degalu uz āru ātrai viesu piekļuvei; augšējā līmenī glabājās 15 dēļi pielāgotos neopēna turētajos, lai novērstu UV noārdīšanos. Piestātne, kas uzbūvēta Phuket un piegādāta modulāros segmentos, izmaksāja $42K, tostarp uzstādīšanu. Katrs dēlis tika NFC marķēts ar ūdensizturīgu čipu, kas savienots ar kūrorta RMS automātiskai ierakstīšanai/izrakstīšanai, samazinot personāla darbu par 3.2 stundām dienā salīdzinājumā ar iepriekšējo papīra dokumentu sistēmu.',
+                'Voss sadarbojās ar OLagoon jūras arhitektiem, lai izveidotu divlīmeņu peldošu dēļu servisa sistēmu. Apakšējā līmenī atradās 15 dēļi ar degalu uz āru ātrai viesu piekļuvei; augšējā līmenī glabājās 15 dēļi pielāgotos neopēna turētajos, lai novērstu UV noārdīšanos. Piestātne, kas uzbūvēta Phuket un piegādāta modulāros segmentos, izmaksāja $42K, tostarp uzstādīšanu. Katrs dēlis tika NFC marķēts ar ūdensizturīgu čipu, kas savienots ar kūrorta RMS automātiskai ierakstīšanai/izrakstīšanai, samazinot personāla darbu par 3.2 stundām dienā salīdzinājumā ar iepriekšējo papīra dokumentu sistēmu.',
             },
             {
               title: '3. solis: Batleru SUP apmācība un konserža pakalpojuma integrācija',
               detail:
-                '2024. gada novembrī Afarer apmācību komanda Coco Private Island īstenoja 4 dienu intensīvu programmu 8 kūrorta batleriem un 4 niršanas centra darbiniekiem. Apmācība ietvēra SUP etiķeti ārkārtīgi turīgiem viesiem (klusā ielaide ūdenī, augļu serviss pie dēļa, GoPro stiprinājuma punkti). Katrs batlers pabeidza 15 viesu sesijas uzraudzībā. Voss integrēja SUP rezervēšanu villas pirmsierašanas konserža lietotnē, ļaujot viesiem jau iepriekš izvēlēties dēļa krāsu un plānot saullēkta, lagūnas un rifa maršrutus. Lietojuma līmenis pirmajos 2 mēnešos sasniedza 28%.',
+                '2024. gada novembrī OLagoon apmācību komanda Coco Private Island īstenoja 4 dienu intensīvu programmu 8 kūrorta batleriem un 4 niršanas centra darbiniekiem. Apmācība ietvēra SUP etiķeti ārkārtīgi turīgiem viesiem (klusā ielaide ūdenī, augļu serviss pie dēļa, GoPro stiprinājuma punkti). Katrs batlers pabeidza 15 viesu sesijas uzraudzībā. Voss integrēja SUP rezervēšanu villas pirmsierašanas konserža lietotnē, ļaujot viesiem jau iepriekš izvēlēties dēļa krāsu un plānot saullēkta, lagūnas un rifa maršrutus. Lietojuma līmenis pirmajos 2 mēnešos sasniedza 28%.',
             },
             {
               title: '4. solis: Influenceru palaišana un sociālā kapitāla ROI izmērīšana',
@@ -5696,22 +5696,22 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Mākslinieciskā raksta pārnesums un materiālu inovācija',
               detail:
-                "Sākot ar 2025. gada februāri, Afarer R&D komanda un Verlaine darbnīca 10 nedēļas izstrādāja tiešas uz PVC sublimācijas procesu, kas spēj reproducēt Verlaine 14 krāsu 'Geometrica' rakstu 1,200 DPI izšķirtspējā bez krāsu izplūšanas vai stiepes deformācijas. Pēc 18 neveiksmīgiem paraugiem (raksts vilkās ap dēļa malas līkumu) Afarer inženieri izveidoja 7 paneļu izgriezuma veidni, kas ļāva iepriekš drukāt uz plakanām PVC loksnēm pirms fūzijas laminācijas. Katram dēlim bija nepieciešamas 11.5 stundas ražošanas laika (pret 3 stundām standarta dēļiem). Noslēguma virsma ieguva matētu pretslīdes pārklājumu, kas izstrādāts ekskluzīvi Verlaine.",
+                "Sākot ar 2025. gada februāri, OLagoon R&D komanda un Verlaine darbnīca 10 nedēļas izstrādāja tiešas uz PVC sublimācijas procesu, kas spēj reproducēt Verlaine 14 krāsu 'Geometrica' rakstu 1,200 DPI izšķirtspējā bez krāsu izplūšanas vai stiepes deformācijas. Pēc 18 neveiksmīgiem paraugiem (raksts vilkās ap dēļa malas līkumu) OLagoon inženieri izveidoja 7 paneļu izgriezuma veidni, kas ļāva iepriekš drukāt uz plakanām PVC loksnēm pirms fūzijas laminācijas. Katram dēlim bija nepieciešamas 11.5 stundas ražošanas laika (pret 3 stundām standarta dēļiem). Noslēguma virsma ieguva matētu pretslīdes pārklājumu, kas izstrādāts ekskluzīvi Verlaine.",
             },
             {
               title: '2. solis: Iepakojuma, atvēršanas un mazumtirdzniecības prezentācijas stratēģija',
               detail:
-                'Rinaldi pieprasīja flagmaņa veikala līmeņa iepakojuma atvēršanas pieredzi. Afarer sadarbojās ar Verlaine iepakojuma dizaineriem, lai izveidotu stingru ceļojumu koferi, apšūtu ar Verlaine raksturīgo ecru kanvasu un ādas stūru aizsargiem (tos izgatavoja pašas Verlaine ādas izstrādājumu darbnīca Tuscany). Koferī ietilpa SUP, oglekļa šķiedras 3 daļu airis ar Verlaine monogrammu, pielāgots sūknis ar manometru, uz kura iegravēts Geometrica motīvs, un numurēts autentiskuma sertifikāts folijas apspiestā aploksnē. Kopējās iepakojuma izmaksas uz vienību sastādīja EUR 340. Pilns komplekts svēra 26 kg--pietiekami viegls pirmās klases lidojuma bagāžas nodošanai.',
+                'Rinaldi pieprasīja flagmaņa veikala līmeņa iepakojuma atvēršanas pieredzi. OLagoon sadarbojās ar Verlaine iepakojuma dizaineriem, lai izveidotu stingru ceļojumu koferi, apšūtu ar Verlaine raksturīgo ecru kanvasu un ādas stūru aizsargiem (tos izgatavoja pašas Verlaine ādas izstrādājumu darbnīca Tuscany). Koferī ietilpa SUP, oglekļa šķiedras 3 daļu airis ar Verlaine monogrammu, pielāgots sūknis ar manometru, uz kura iegravēts Geometrica motīvs, un numurēts autentiskuma sertifikāts folijas apspiestā aploksnē. Kopējās iepakojuma izmaksas uz vienību sastādīja EUR 340. Pilns komplekts svēra 26 kg--pietiekami viegls pirmās klases lidojuma bagāžas nodošanai.',
             },
             {
               title: '3. solis: VIP klientu priekšskatījums un pārdošana tikai ar iepriekšēju pierakstu',
               detail:
-                'Kolekcija tika palaista 2025. gada 8. maijā Milan Design Week laikā ar privātu priekšskatījumu tikai ar pierakstu Verlaine flagmaņa veikalā Via Monte Napoleone. Ielūgumus ar reljefa apdruku saņēma tikai 200 klienti. Katra 45 minūšu tikšanās ietvēra dzīvu SUP demonstrāciju 40,000 litru speciāli būvētā baseinā, kas uzstādīts veikala pagalmā, un Afarer zīmola vēstnieks demonstrēja dēļa stingumu (piepūsts līdz 18 PSI ar Verlaine zīmola sūkni). Milan Design Week laikā tika iepriekš pasūtītas 127 vienības, radot EUR 1.62M avansa depozītu. Rinaldi ierobežoja sociālo mediju reklāmu tikai līdz Verlaine privāto klientu WhatsApp kanāliem.',
+                'Kolekcija tika palaista 2025. gada 8. maijā Milan Design Week laikā ar privātu priekšskatījumu tikai ar pierakstu Verlaine flagmaņa veikalā Via Monte Napoleone. Ielūgumus ar reljefa apdruku saņēma tikai 200 klienti. Katra 45 minūšu tikšanās ietvēra dzīvu SUP demonstrāciju 40,000 litru speciāli būvētā baseinā, kas uzstādīts veikala pagalmā, un OLagoon zīmola vēstnieks demonstrēja dēļa stingumu (piepūsts līdz 18 PSI ar Verlaine zīmola sūkni). Milan Design Week laikā tika iepriekš pasūtītas 127 vienības, radot EUR 1.62M avansa depozītu. Rinaldi ierobežoja sociālo mediju reklāmu tikai līdz Verlaine privāto klientu WhatsApp kanāliem.',
             },
             {
               title: '4. solis: Globālā izpilde, konserža piegāde un pilnīgas izpārdošanas rezultāti',
               detail:
-                'Pasūtījumu nosūtīšana sākās 2025. gada jūnijā ar white-glove piegādi uz 34 valstīm. Katra piegāde ietvēra 90 minūšu virtuālu sesiju ar Afarer instruktoru, kurš klientam tika personīgi iepazīstināts, izmantojot WhatsApp video. Līdz 2025. gada novembrim bija pārdotas 468 no 500 vienībām (93.6% realizācija), radot EUR 5.85M ieņēmumu pilnā mazumtirdzniecības cenā bez atlaidēm. Atlikušās 32 vienības tika paturētas Verlaine Archives kolekcijai. Rinaldi ziņoja, ka 41% pircēju Verlaine bija jauni klienti--ieguvti ar SUP kolekcijas starpniecību--ar vidējiem papildu tēriņiem EUR 3,200 par gatavo apģērbu pirkuma tikšanās laikā.',
+                'Pasūtījumu nosūtīšana sākās 2025. gada jūnijā ar white-glove piegādi uz 34 valstīm. Katra piegāde ietvēra 90 minūšu virtuālu sesiju ar OLagoon instruktoru, kurš klientam tika personīgi iepazīstināts, izmantojot WhatsApp video. Līdz 2025. gada novembrim bija pārdotas 468 no 500 vienībām (93.6% realizācija), radot EUR 5.85M ieņēmumu pilnā mazumtirdzniecības cenā bez atlaidēm. Atlikušās 32 vienības tika paturētas Verlaine Archives kolekcijai. Rinaldi ziņoja, ka 41% pircēju Verlaine bija jauni klienti--ieguvti ar SUP kolekcijas starpniecību--ar vidējiem papildu tēriņiem EUR 3,200 par gatavo apģērbu pirkuma tikšanās laikā.',
             },
           ],
           results: [
@@ -5723,8 +5723,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc luksusa klienti izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc luksusa klienti izvēlas OLagoon',
       items: [
         {
           title: 'Dizaina izpratne',
@@ -5752,38 +5752,38 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kādas personalizācijas iespējas ir pieejamas luksusa SUP kolekcijām?',
         answer:
-          'Afarer piedāvā pilnu personalizāciju, tostarp pielāgotu krāsu izstrādi, zīmolam atbilstošus toņus, elegantus rakstus, zīmola simbolus, autoru mākslu, premium PVC konstrukciju, pielāgotas EVA klāja tekstūras, smalku furnitūru un personalizētu iepakojumu.',
+          'OLagoon piedāvā pilnu personalizāciju, tostarp pielāgotu krāsu izstrādi, zīmolam atbilstošus toņus, elegantus rakstus, zīmola simbolus, autoru mākslu, premium PVC konstrukciju, pielāgotas EVA klāja tekstūras, smalku furnitūru un personalizētu iepakojumu.',
       },
       {
         question: 'Kāds ir minimālais pasūtījuma daudzums premium SUP ražošanai pēc pasūtījuma?',
         answer:
-          'Afarer specializējas mazapjoma luksusa ražošanā ar tipiskiem projektiem no 10 līdz 50 komplektiem. Tas ir ideāli piemērots privāto salu īpašniekiem, jahtu klubiem, luksusa kūrortiem un ekskluzīviem dzīvesveida zīmoliem.',
+          'OLagoon specializējas mazapjoma luksusa ražošanā ar tipiskiem projektiem no 10 līdz 50 komplektiem. Tas ir ideāli piemērots privāto salu īpašniekiem, jahtu klubiem, luksusa kūrortiem un ekskluzīviem dzīvesveida zīmoliem.',
       },
       {
         question: 'Cik ilgs laiks nepieciešams pielāgotas SUP kolekcijas dizaina un ražošanas procesam?',
         answer:
-          'Termiņi ir atkarīgi no sarežģītības un personalizācijas līmeņa. Afarer cieši sadarbojas ar katru klientu no koncepta izstrādes līdz ražošanai, parasti pabeidzot luksusa kolekcijas termiņos, kas atbilst projekta prasībām un sezonālajām vajadzībām.',
+          'Termiņi ir atkarīgi no sarežģītības un personalizācijas līmeņa. OLagoon cieši sadarbojas ar katru klientu no koncepta izstrādes līdz ražošanai, parasti pabeidzot luksusa kolekcijas termiņos, kas atbilst projekta prasībām un sezonālajām vajadzībām.',
       },
       {
         question: 'Vai SUP dēļus var noformēt tā, lai tie atbilstu esošajam īpašuma zīmolingam un estētikai?',
         answer:
-          'Jā, Afarer specializējas kolekciju izveidē, kas netraucēti integrējas īpašuma estētikā. Mēs varam saderināt esošās zīmola krāsas, arhitektūras tēmas un interjera dizaina elementus, lai radītu vienotu luksusa vidi.',
+          'Jā, OLagoon specializējas kolekciju izveidē, kas netraucēti integrējas īpašuma estētikā. Mēs varam saderināt esošās zīmola krāsas, arhitektūras tēmas un interjera dizaina elementus, lai radītu vienotu luksusa vidi.',
       },
       {
         question: 'Kādi materiāli tiek izmantoti luksusa klases SUP dēļiem?',
         answer:
-          'Afarer izmanto premium PVC konstrukciju elegantam izskatam un izturībai, augstas klases EVA klāja materiālus ar pielāgotām tekstūrām un krāsām, kā arī smalkus premium metāla komponentus furnitūrai — visi atlasīti pēc to estētiskās kvalitātes un jūras klases veiktspējas.',
+          'OLagoon izmanto premium PVC konstrukciju elegantam izskatam un izturībai, augstas klases EVA klāja materiālus ar pielāgotām tekstūrām un krāsām, kā arī smalkus premium metāla komponentus furnitūrai — visi atlasīti pēc to estētiskās kvalitātes un jūras klases veiktspējas.',
       },
       {
         question: 'Vai jūs piedāvājat pielāgotu iepakojumu VIP SUP kolekcijām?',
         answer:
-          'Jā, Afarer nodrošina VIP pielāgotu iepakojumu, tostarp zīmola prezentācijas kastes, luksusa uzglabāšanas somas, personalizētas etiķetes un ierobežota izdevuma prezentāciju. Iepakojuma atvēršanas pieredze ir veidota tā, lai atbilstu paša produkta ekskluzivitātei.',
+          'Jā, OLagoon nodrošina VIP pielāgotu iepakojumu, tostarp zīmola prezentācijas kastes, luksusa uzglabāšanas somas, personalizētas etiķetes un ierobežota izdevuma prezentāciju. Iepakojuma atvēršanas pieredze ir veidota tā, lai atbilstu paša produkta ekskluzivitātei.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu ekskluzīvo ūdens dzīvesveida kolekciju kopā ar Afarer',
+      title: 'Izveidojiet savu ekskluzīvo ūdens dzīvesveida kolekciju kopā ar OLagoon',
       subtitle:
-        'Jūsu īpašums ir unikāls. Arī jūsu aprīkojumam jābūt unikālam. Ļaujiet Afarer palīdzēt jums izveidot īpašu, atpazīstamu SUP kolekciju.',
+        'Jūsu īpašums ir unikāls. Arī jūsu aprīkojumam jābūt unikālam. Ļaujiet OLagoon palīdzēt jums izveidot īpašu, atpazīstamu SUP kolekciju.',
       primaryAction: {
         text: 'Sāciet savu projektu',
       },
@@ -5797,7 +5797,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Galamērķu ūdens sporta iekārtu piegādātājs | {SITE}',
       description:
-        'Afarer piedāvā galamērķu ūdens sporta risinājumus tūrisma padomēm, publiskajiem parkiem un piekrastes projektiem. Komerciālas SUP flotes, videi draudzīgas iekārtas, valsts projektu atbalsts un liela mēroga OEM piegādes.',
+        'OLagoon piedāvā galamērķu ūdens sporta risinājumus tūrisma padomēm, publiskajiem parkiem un piekrastes projektiem. Komerciālas SUP flotes, videi draudzīgas iekārtas, valsts projektu atbalsts un liela mēroga OEM piegādes.',
     },
     hero: {
       tagline: 'Ilgtspējīgi ūdens pieredzes risinājumi tūrisma padomēm, publiskajiem parkiem un galamērķu projektiem',
@@ -5889,7 +5889,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Galamērķa plānošana',
           detail:
-            'Afarer izstrādāja pilnīgu ūdens aktivitāšu sistēmu, tostarp flotes daudzuma plānošanu, aktivitāšu zonas un iekārtu konfigurāciju.',
+            'OLagoon izstrādāja pilnīgu ūdens aktivitāšu sistēmu, tostarp flotes daudzuma plānošanu, aktivitāšu zonas un iekārtu konfigurāciju.',
         },
         {
           title: 'Komerciālo iekārtu piegāde',
@@ -5927,17 +5927,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Klusās flotes specifikācija un bioloģiski noārdāmo materiālu prasības',
               detail:
-                '2024. gada septembrī Kovacic izsludināja pieprasījumu iesniegt piedāvājumus ar prasībām (1) pilnībā atteikties no vienreiz lietojamām plastmasām dēļu konstrukcijā, (2) nodrošināt pilnīgu pārstrādājamību pēc lietošanas beigām un (3) iegūt klusas darbības sertifikāciju zem 25 dB no 5 m attāluma. Afarer uzvarēja ar EcoTouring 12\'6" X, kas izgatavots no bioloģiskas izcelsmes drop-stitch diegiem (uz ricīna eļļas balstīts polimērs, 42% atjaunojama satura) un dabīga korķa klājiem (FSC sertificēts Portugāles korķis). Katrs dēlis ietvēra noslēgtu bambusa stringeru stingrībai bez uz naftas balstītām sastāvdaļām. LBTB pasūtīja 200 dēļus (kopā EUR 246K) un 12 elektriskas piepūšanas stacijas, kuras darbina pie ezera uzstādīti saules uzlādes kioski.',
+                '2024. gada septembrī Kovacic izsludināja pieprasījumu iesniegt piedāvājumus ar prasībām (1) pilnībā atteikties no vienreiz lietojamām plastmasām dēļu konstrukcijā, (2) nodrošināt pilnīgu pārstrādājamību pēc lietošanas beigām un (3) iegūt klusas darbības sertifikāciju zem 25 dB no 5 m attāluma. OLagoon uzvarēja ar EcoTouring 12\'6" X, kas izgatavots no bioloģiskas izcelsmes drop-stitch diegiem (uz ricīna eļļas balstīts polimērs, 42% atjaunojama satura) un dabīga korķa klājiem (FSC sertificēts Portugāles korķis). Katrs dēlis ietvēra noslēgtu bambusa stringeru stingrībai bez uz naftas balstītām sastāvdaļām. LBTB pasūtīja 200 dēļus (kopā EUR 246K) un 12 elektriskas piepūšanas stacijas, kuras darbina pie ezera uzstādīti saules uzlādes kioski.',
             },
             {
               title: '2. solis: 6 km garš GPS vadīts ekomaršruts ar 12 informatīvajiem pieturas punktiem',
               detail:
-                '2024./2025. gada ziemā LBTB kartēja 6,2 km garu perimetra maršrutu ar 12 informatīviem pieturas punktiem (Bled pils ģeotermālais avots, Sv. Marijas baznīcas zvanu skanēšanas mehānisms, salas sedimentācijas zonas). Afarer integrēja ūdensnecaurlaidīgu GPS audio gida ierīci (izturīgs IP68 planšetdators klāja stiprinājuma turētājā), kas katrā ceļa punktā nodrošina 90 sekunžu garus stāstītus fragmentus 7 valodās. Maršruts tika izveidots tā, lai izvairītos no jutīgajām putnu ligzdošanas vietām (cekulainā dūkura ligzdošanas vietas, slēgts no novembra līdz martam). LBTB uzstādīja 12 bambusa marķieru bojas par EUR 18K, aizstājot 32 esošās motorlaivu bojas.',
+                '2024./2025. gada ziemā LBTB kartēja 6,2 km garu perimetra maršrutu ar 12 informatīviem pieturas punktiem (Bled pils ģeotermālais avots, Sv. Marijas baznīcas zvanu skanēšanas mehānisms, salas sedimentācijas zonas). OLagoon integrēja ūdensnecaurlaidīgu GPS audio gida ierīci (izturīgs IP68 planšetdators klāja stiprinājuma turētājā), kas katrā ceļa punktā nodrošina 90 sekunžu garus stāstītus fragmentus 7 valodās. Maršruts tika izveidots tā, lai izvairītos no jutīgajām putnu ligzdošanas vietām (cekulainā dūkura ligzdošanas vietas, slēgts no novembra līdz martam). LBTB uzstādīja 12 bambusa marķieru bojas par EUR 18K, aizstājot 32 esošās motorlaivu bojas.',
             },
             {
               title: '3. solis: Nomas operatoru pārejas programma un sertifikācija',
               detail:
-                '2025. gada janvārī un martā, ārpus sezonas, LBTB īstenoja obligātu pārejas programmu visiem 14 licencētajiem laivu nomas operatoriem. Afarer nodrošināja 4 dienu SUP gida sertifikāciju 36 operatoriem un personālam, aptverot maršrutu zināšanas, rīcību ārkārtas situācijās un vides interpretācijas sniegšanu. LBTB piedāvāja EUR 4,000 subsīdiju katram operatoram par pāreju no motorlaivām uz SUP nomu, finansējot to no Slovēnijas Tūrisma ministrijas Zaļās pārejas granta (kopā EUR 280K). Līdz 1. aprīlim 11 no 14 operatoriem bija pilnībā pārgājuši; atlikušie 3 apņēmās hibrīda darbību ar pakāpenisku iziešanu līdz 2026. gadam.',
+                '2025. gada janvārī un martā, ārpus sezonas, LBTB īstenoja obligātu pārejas programmu visiem 14 licencētajiem laivu nomas operatoriem. OLagoon nodrošināja 4 dienu SUP gida sertifikāciju 36 operatoriem un personālam, aptverot maršrutu zināšanas, rīcību ārkārtas situācijās un vides interpretācijas sniegšanu. LBTB piedāvāja EUR 4,000 subsīdiju katram operatoram par pāreju no motorlaivām uz SUP nomu, finansējot to no Slovēnijas Tūrisma ministrijas Zaļās pārejas granta (kopā EUR 280K). Līdz 1. aprīlim 11 no 14 operatoriem bija pilnībā pārgājuši; atlikušie 3 apņēmās hibrīda darbību ar pakāpenisku iziešanu līdz 2026. gadam.',
             },
             {
               title: '4. solis: Atklāšana Zemes dienā, sezonas rezultāti un UNESCO atbilstība',
@@ -5965,17 +5965,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Maršrutu kartēšana, risku novērtējums un jūras zonēšanas atbilstība',
               detail:
-                "No 2024. gada novembra līdz 2025. gada februārim Delacroix komanda sadarbojās ar Afarer maršrutu speciālistiem un Francijas Bioloģiskās daudzveidības pārvaldi (OFB), lai apsekotu un klasificētu 50 km piekrastes. Tika identificēti 5 maršruti: (1) no Cap d'Antibes uz Baie des Milliardaires (4,2 km, vidējs līmenis), (2) Ile Sainte-Marguerite aplidošana apkārt (7,1 km, pieredzējušiem), (3) Calanque de Maubois (2,8 km, iesācējiem), (4) Villefranche-sur-Mer jūras rezervāts (3,5 km, tikai ar gida pavadību) un (5) saulrieta airēšana no Mentonas uz Cap Martin (5,5 km, vidējs līmenis). Katrs maršruts tika GPS kartēts ar 12-15 ceļa punktiem, tostarp obligātām atpūtas pieturām iepriekš apstiprinātos privātajos pludmales klubos, kuri maksā EUR 2,500 lielu gada partnerības maksu.",
+                "No 2024. gada novembra līdz 2025. gada februārim Delacroix komanda sadarbojās ar OLagoon maršrutu speciālistiem un Francijas Bioloģiskās daudzveidības pārvaldi (OFB), lai apsekotu un klasificētu 50 km piekrastes. Tika identificēti 5 maršruti: (1) no Cap d'Antibes uz Baie des Milliardaires (4,2 km, vidējs līmenis), (2) Ile Sainte-Marguerite aplidošana apkārt (7,1 km, pieredzējušiem), (3) Calanque de Maubois (2,8 km, iesācējiem), (4) Villefranche-sur-Mer jūras rezervāts (3,5 km, tikai ar gida pavadību) un (5) saulrieta airēšana no Mentonas uz Cap Martin (5,5 km, vidējs līmenis). Katrs maršruts tika GPS kartēts ar 12-15 ceļa punktiem, tostarp obligātām atpūtas pieturām iepriekš apstiprinātos privātajos pludmales klubos, kuri maksā EUR 2,500 lielu gada partnerības maksu.",
             },
             {
               title: '2. solis: Premium flotes specifikācijas un viesnīcu konkjeržu integrācija',
               detail:
-                'FRTCB pasūtīja 350 Afarer Explorer 11\'6" X dēļus pielāgotā "Vidusjūras brīzes" krāsu paletē (terakota, olīvu, krēmkrāsa) ar integrētu GoPro turētāju, rievu ūdensnecaurlaidīgai telefona vāciņa ievietošanai un šampanieša pudeles turētāju (pielāgota D-gredzena tīkliņa kabata priekšpusē pretī klājim). Katram dēlim pievienojās oglekļa šķiedras airis no 4 daļām Peli-case ceļojumu iepakojumā. Afarer programmatūras komanda izveidoja white-label mobilās tīmekļa lietotni, kas ļauj viesnīcu konkjeržiem rezervēt dēļus, pārbaudīt maršrutu apstākļus reāllaikā, izmantojot 6 savienotās laika apstākļu bojas, un aktivizēt ārkārtas brīdinājumus. Kopējais pasūtījums sasniedza EUR 429K.',
+                'FRTCB pasūtīja 350 OLagoon Explorer 11\'6" X dēļus pielāgotā "Vidusjūras brīzes" krāsu paletē (terakota, olīvu, krēmkrāsa) ar integrētu GoPro turētāju, rievu ūdensnecaurlaidīgai telefona vāciņa ievietošanai un šampanieša pudeles turētāju (pielāgota D-gredzena tīkliņa kabata priekšpusē pretī klājim). Katram dēlim pievienojās oglekļa šķiedras airis no 4 daļām Peli-case ceļojumu iepakojumā. OLagoon programmatūras komanda izveidoja white-label mobilās tīmekļa lietotni, kas ļauj viesnīcu konkjeržiem rezervēt dēļus, pārbaudīt maršrutu apstākļus reāllaikā, izmantojot 6 savienotās laika apstākļu bojas, un aktivizēt ārkārtas brīdinājumus. Kopējais pasūtījums sasniedza EUR 429K.',
             },
             {
               title: '3. solis: Gidu sertifikācija, drošības protokols un partneru pludmales klubu tīkls',
               detail:
-                '2025. gada martā Afarer Nicas jahtklubā veica 5 reģionālas apmācības, sertificējot 62 gidus (23 viesnīcu aktivitāšu darbinieki, 39 neatkarīgi ūdens sporta operatori). Sertifikācija ietvēra FRTCB specifisku saturu: Vidusjūras vēju modeļu atpazīšana (Mistral/Libeccio scenāriji), medūzu pirmā palīdzība un luksusa viesu komunikācijas standarti. Delacroix izveidoja drošības protokolu, kas pieprasa obligātas glābšanas vestes visiem viesiem (RFD NRS Orion vestes ar svilpi un nazi), sakarus starp dēļiem, izmantojot ūdensnecaurlaidīgas VHF rācijas, un maksimālo grupas lielumu 12 viesi uz 2 gidiem.',
+                '2025. gada martā OLagoon Nicas jahtklubā veica 5 reģionālas apmācības, sertificējot 62 gidus (23 viesnīcu aktivitāšu darbinieki, 39 neatkarīgi ūdens sporta operatori). Sertifikācija ietvēra FRTCB specifisku saturu: Vidusjūras vēju modeļu atpazīšana (Mistral/Libeccio scenāriji), medūzu pirmā palīdzība un luksusa viesu komunikācijas standarti. Delacroix izveidoja drošības protokolu, kas pieprasa obligātas glābšanas vestes visiem viesiem (RFD NRS Orion vestes ar svilpi un nazi), sakarus starp dēļiem, izmantojot ūdensnecaurlaidīgas VHF rācijas, un maksimālo grupas lielumu 12 viesi uz 2 gidiem.',
             },
             {
               title: '4. solis: Atklāšana Kannu kinofestivālā un paātrināta sezonas izaugsme',
@@ -5992,13 +5992,13 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc tūrisma projekti izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc tūrisma projekti izvēlas OLagoon',
       items: [
         {
           title: 'Drošība',
           description:
-            'Izstrādāts ikvienam. Afarer nodrošina, ka iekārtas atbilst augstākajiem drošības standartiem dažādiem publiskajiem lietotājiem.',
+            'Izstrādāts ikvienam. OLagoon nodrošina, ka iekārtas atbilst augstākajiem drošības standartiem dažādiem publiskajiem lietotājiem.',
         },
         {
           title: 'Ilgtspēja',
@@ -6021,7 +6021,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kādi drošības sertifikāti ir būtiski publiskās SUP flotes iekārtām?',
         answer:
-          'Afarer sniedz produktu specifikācijas, veiktspējas informāciju un atbilstības dokumentāciju, kas piemērota valsts iepirkumam. Mēs atbalstām publiskos projektus ar materiālu informāciju un kvalitātes sertifikātiem, kas nepieciešami konkursos procesos.',
+          'OLagoon sniedz produktu specifikācijas, veiktspējas informāciju un atbilstības dokumentāciju, kas piemērota valsts iepirkumam. Mēs atbalstām publiskos projektus ar materiālu informāciju un kvalitātes sertifikātiem, kas nepieciešami konkursos procesos.',
       },
       {
         question: 'Cik daudz SUP dēļu nepieciešams publiskai ūdens atpūtas programmai?',
@@ -6031,28 +6031,28 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Vai SUP dēļus var pielāgot ar pilsētas vai galamērķa zīmolradi?',
         answer:
-          'Jā, Afarer atbalsta galamērķu zīmolrades pielāgošanu, tostarp pilsētu logotipus, tūrisma identitātes grafiku, vietējos dizaina elementus un tēmām atbilstošu noformējumu. Tas palīdz izveidot vietām raksturīgu ūdens pieredzi, kas stiprina galamērķa identitāti.',
+          'Jā, OLagoon atbalsta galamērķu zīmolrades pielāgošanu, tostarp pilsētu logotipus, tūrisma identitātes grafiku, vietējos dizaina elementus un tēmām atbilstošu noformējumu. Tas palīdz izveidot vietām raksturīgu ūdens pieredzi, kas stiprina galamērķa identitāti.',
       },
       {
-        question: 'Kādas videi draudzīgas iezīmes piedāvā Afarer SUP dēļi?',
+        question: 'Kādas videi draudzīgas iezīmes piedāvā OLagoon SUP dēļi?',
         answer:
-          'Afarer pievēršas izturīgiem materiāliem, kas pagarina produktu kalpošanas laiku un samazina nomaiņas biežumu, mazinot resursu patēriņu un atkritumu apjomu. Mēs arī sniedzam vides dokumentāciju un atbilstības informāciju, lai atbalstītu ilgtspējīga tūrisma iniciatīvas.',
+          'OLagoon pievēršas izturīgiem materiāliem, kas pagarina produktu kalpošanas laiku un samazina nomaiņas biežumu, mazinot resursu patēriņu un atkritumu apjomu. Mēs arī sniedzam vides dokumentāciju un atbilstības informāciju, lai atbalstītu ilgtspējīga tūrisma iniciatīvas.',
       },
       {
-        question: 'Kā Afarer atbalsta valsts iepirkumu un konkursu procesos?',
+        question: 'Kā OLagoon atbalsta valsts iepirkumu un konkursu procesos?',
         answer:
-          'Afarer sniedz visaptverošu atbalstu, tostarp tehnisko specifikāciju sagatavošanu, produktu veiktspējas dokumentāciju, konfigurācijas opcijas, projekta priekšlikumu palīdzību, flotes ieteikumus, ieviešanas grafikus un lielu pasūtījumu koordināciju ražošanai un piegādei.',
+          'OLagoon sniedz visaptverošu atbalstu, tostarp tehnisko specifikāciju sagatavošanu, produktu veiktspējas dokumentāciju, konfigurācijas opcijas, projekta priekšlikumu palīdzību, flotes ieteikumus, ieviešanas grafikus un lielu pasūtījumu koordināciju ražošanai un piegādei.',
       },
       {
         question: 'Kāda uzturēšana ir nepieciešama publiskajām SUP flotēm pašvaldību apstākļos?',
         answer:
-          'Afarer nodrošina pilnīgu operatīvo atbalstu, tostarp uzturēšanas vadlīnijas, pārbaudes procesus, detaļu nomaiņas procedūras, rezerves daļu pieejamību un flotes pārvaldības plānošanu. Tas nodrošina ilgtermiņa uzticamību publiskajām atpūtas programmām.',
+          'OLagoon nodrošina pilnīgu operatīvo atbalstu, tostarp uzturēšanas vadlīnijas, pārbaudes procesus, detaļu nomaiņas procedūras, rezerves daļu pieejamību un flotes pārvaldības plānošanu. Tas nodrošina ilgtermiņa uzticamību publiskajām atpūtas programmām.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu galamērķa ūdens pieredzi kopā ar Afarer',
+      title: 'Izveidojiet savu galamērķa ūdens pieredzi kopā ar OLagoon',
       subtitle:
-        'Jūsu ūdens resursiem piemīt tūrisma potenciāls. Afarer palīdz pārvērst ezerus, upes, krastmalas un publiskos parkus neaizmirstamās āra atpūtas galamērķos.',
+        'Jūsu ūdens resursiem piemīt tūrisma potenciāls. OLagoon palīdz pārvērst ezerus, upes, krastmalas un publiskos parkus neaizmirstamās āra atpūtas galamērķos.',
       primaryAction: {
         text: 'Sāciet savu projektu',
       },
@@ -6066,7 +6066,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Bērnu SUP ražotājs | {SITE}',
       description:
-        'Afarer piedāvā drošus bērnu SUP risinājumus vasaras nometnēm, skolām un jauniešu piedzīvojumu programmām. Bērnu SUP dēļi, Giant SUP aprīkojums, komerciālās flotes un pielāgoti OEM risinājumi.',
+        'OLagoon piedāvā drošus bērnu SUP risinājumus vasaras nometnēm, skolām un jauniešu piedzīvojumu programmām. Bērnu SUP dēļi, Giant SUP aprīkojums, komerciālās flotes un pielāgoti OEM risinājumi.',
     },
     hero: {
       tagline: 'Droši un jautri SUP risinājumi bērnu piedzīvojumu nometnēm, skolām un jauniešu āra programmām',
@@ -6158,7 +6158,7 @@ const lv: Record<string, SolutionOverride> = {
         {
           title: 'Jauniešu produktu izvēle',
           detail:
-            'Afarer ieteica bērnu SUP modeļus, stabilus iesācēju dēļus un instruktoru aprīkojumu, kas pielāgots nometnes vecuma grupām.',
+            'OLagoon ieteica bērnu SUP modeļus, stabilus iesācēju dēļus un instruktoru aprīkojumu, kas pielāgots nometnes vecuma grupām.',
         },
         {
           title: 'Drošības pielāgošana',
@@ -6195,17 +6195,17 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Bērniem paredzēts SUP dizains (Junior Explorer 9\'6" X)',
               detail:
-                '2024. gada jūlijā Connolly sadarbojās ar Afarer produktu komandu, lai izstrādātu īpaši bērniem paredzētu SUP. Pēc trīs prototipa iterācijām tika pabeigts Junior Explorer 9\'6" X (28" platums, 4" biezums, 180L tilpums) — par 25% šaurāks un par 40% vieglāks nekā standarta dēļi. Galvenās iezīmes: iegultais klāja spilvens (1.5" pazeminājums), kas pazemina smaguma centru par 22%; svara diapazona indikators (krāsu kodētas svītras 18-55 kg); un divas drošības satveršanas cilpas katrā sānā. Connolly pasūtīja 120 dēļus ar skolas zīmola klāja grafiku (6 skolu krāsu varianti, pa 20 katram). Prototipēšana un testēšana izmaksāja $14K; ražošanas pasūtījums bija $96K.',
+                '2024. gada jūlijā Connolly sadarbojās ar OLagoon produktu komandu, lai izstrādātu īpaši bērniem paredzētu SUP. Pēc trīs prototipa iterācijām tika pabeigts Junior Explorer 9\'6" X (28" platums, 4" biezums, 180L tilpums) — par 25% šaurāks un par 40% vieglāks nekā standarta dēļi. Galvenās iezīmes: iegultais klāja spilvens (1.5" pazeminājums), kas pazemina smaguma centru par 22%; svara diapazona indikators (krāsu kodētas svītras 18-55 kg); un divas drošības satveršanas cilpas katrā sānā. Connolly pasūtīja 120 dēļus ar skolas zīmola klāja grafiku (6 skolu krāsu varianti, pa 20 katram). Prototipēšana un testēšana izmaksāja $14K; ražošanas pasūtījums bija $96K.',
             },
             {
               title: '2. solis: Mācību programmas izstrāde atbilstībai ACARA',
               detail:
-                "Connolly sadarbojās ar Afarer izglītības konsultantiem un Queensland mācību programmu iestādi, lai izveidotu 'Paddle & Discover' — 14 nodarbību SUP izpētes programmu, kas atbilst Australian Curriculum v9.0 (Science, HPE, Geography). Nodarbības ietvēra ūdens kukaiņu paraugu ņemšanu (ar klājā piestiprināmu paraugu paplāti), izšķīdušā skābekļa mērīšanu (pārnēsājams mērītājs, piespraužams pie D-gredzeniem), peldspējas un izspiešanas eksperimentus, kā arī Everglades ekosistēmu kartēšanu. Programmai bija 3 grūtības pakāpes: Eels (sagatavošanas gads-1. klase, baseins/mierīgs ūdens), Turtles (2.-3. klase, aizsargāts līcis) un Stingrays (4.-6. klase, atklātās Everglades). Afarer izdrukāja laikapstākļiem izturīgas pamācību kartītes katrai pakāpei.",
+                "Connolly sadarbojās ar OLagoon izglītības konsultantiem un Queensland mācību programmu iestādi, lai izveidotu 'Paddle & Discover' — 14 nodarbību SUP izpētes programmu, kas atbilst Australian Curriculum v9.0 (Science, HPE, Geography). Nodarbības ietvēra ūdens kukaiņu paraugu ņemšanu (ar klājā piestiprināmu paraugu paplāti), izšķīdušā skābekļa mērīšanu (pārnēsājams mērītājs, piespraužams pie D-gredzeniem), peldspējas un izspiešanas eksperimentus, kā arī Everglades ekosistēmu kartēšanu. Programmai bija 3 grūtības pakāpes: Eels (sagatavošanas gads-1. klase, baseins/mierīgs ūdens), Turtles (2.-3. klase, aizsargāts līcis) un Stingrays (4.-6. klase, atklātās Everglades). OLagoon izdrukāja laikapstākļiem izturīgas pamācību kartītes katrai pakāpei.",
             },
             {
               title: '3. solis: Skolotāju sertifikācija, riska novērtējums un saules drošības integrācija',
               detail:
-                "Trīs nedēļas nogalēs 2024. gada septembrī Afarer apmācību komanda sertificēja 14 skolotājus (bez iepriekšējas SUP pieredzes) ar modificētu IRF 1. līmeņa kursu, uzsverot bērniem specifisku drošību: grupas pārvaldību ar svilpes signāliem (3 pīpieni = apstāties, 5 = ārkārtas situācija), 'koala dismount' (bērns krīt uz dēļa no sēdus pozīcijas) un apgāšanās atgūšanu bērniem līdz 30 kg. Queensland Izglītības departaments apstiprināja SUP programmu saskaņā ar štata āra aktivitāšu riska novērtējuma sistēmu, pieprasot 1:6 instruktora un skolēnu attiecību mierīgā ūdenī (<0.3 m viļņi, <12 mezglu vējš). Saules drošība (sērfinga krekli, SPF 50+, kakla aizsargi) tika integrēta kā 0. nodarbības prasība.",
+                "Trīs nedēļas nogalēs 2024. gada septembrī OLagoon apmācību komanda sertificēja 14 skolotājus (bez iepriekšējas SUP pieredzes) ar modificētu IRF 1. līmeņa kursu, uzsverot bērniem specifisku drošību: grupas pārvaldību ar svilpes signāliem (3 pīpieni = apstāties, 5 = ārkārtas situācija), 'koala dismount' (bērns krīt uz dēļa no sēdus pozīcijas) un apgāšanās atgūšanu bērniem līdz 30 kg. Queensland Izglītības departaments apstiprināja SUP programmu saskaņā ar štata āra aktivitāšu riska novērtējuma sistēmu, pieprasot 1:6 instruktora un skolēnu attiecību mierīgā ūdenī (<0.3 m viļņi, <12 mezglu vējš). Saules drošība (sērfinga krekli, SPF 50+, kakla aizsargi) tika integrēta kā 0. nodarbības prasība.",
             },
             {
               title: '4. solis: 2025. gada 1. semestra ieviešana un izmērāmi skolēnu rezultāti',
@@ -6233,7 +6233,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Flotes iegāde un vecumam atbilstoši dēļu izmēri',
               detail:
-                '2025. gada janvārī Whitfield izvēlējās Afarer Junior Explorer 9\'6" X nometnes dalībniekiem vecumā 8-11 gadi (40 dēļi) un Explorer 10\'8" X vecumam 12-15 gadi (30 dēļi), kopā par $58K. Viņa katram dēlim noteica divus priekšgalā piestiprināmus D-gredzenus GoPro un paraugu paplātes stiprināšanai, kā arī klāja elastīgo saišu sistēmu ūdensnecaurlaidīgam dabas žurnālam (Rite in the Rain, ar spirāles iesējumu). Katrs dēlis tika ar lāzeru iegravēts ar dalībnieka ID numuru un Camp Keowee jenota logotipu.',
+                '2025. gada janvārī Whitfield izvēlējās OLagoon Junior Explorer 9\'6" X nometnes dalībniekiem vecumā 8-11 gadi (40 dēļi) un Explorer 10\'8" X vecumam 12-15 gadi (30 dēļi), kopā par $58K. Viņa katram dēlim noteica divus priekšgalā piestiprināmus D-gredzenus GoPro un paraugu paplātes stiprināšanai, kā arī klāja elastīgo saišu sistēmu ūdensnecaurlaidīgam dabas žurnālam (Rite in the Rain, ar spirāles iesējumu). Katrs dēlis tika ar lāzeru iegravēts ar dalībnieka ID numuru un Camp Keowee jenota logotipu.',
             },
             {
               title: '2. solis: 4 līmeņu SUP izpētes nozīmīšu mācību programmas izstrāde',
@@ -6243,7 +6243,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '3. solis: Konsultantu sertifikācija un Lake Jocassee drošības zonējuma kartēšana',
               detail:
-                '2025. gada maijā (pirms nometnes personāla apmācības) Afarer sertificēja 22 ūdens zonu konsultantus (vecumā 19-24 gadi) ar trīsdienu IRF balstītu SUP gida kursu, kas koncentrēts uz jauniešu grupu pārvaldību. Whitfield kartēja 6 drošības zonas ar krāsu kodētām marķierbojām: peldēšanas zona (sarkana), iesācēju airēšanas zona (dzeltena, līdz 200 m no piestātnes), vidējā zona (zaļa, līdz 1 km gar rietumu krastu), pieredzējušo zona (zila, viss ezers ar radio pieteikšanos) un aizliegtās zonas (violetas, ap aizsprosta ūdens ņēmēju un Bald Rock klintīm). Katram konsultantam bija ūdensnecaurlaidīgs VHF radiouztvērējs ar 15. kanālu, kas veltīts SUP operācijām. Duke Power ezera pārvaldes iestāde apstiprināja plānu pēc kopīga drošības pārskata 12. maijā.',
+                '2025. gada maijā (pirms nometnes personāla apmācības) OLagoon sertificēja 22 ūdens zonu konsultantus (vecumā 19-24 gadi) ar trīsdienu IRF balstītu SUP gida kursu, kas koncentrēts uz jauniešu grupu pārvaldību. Whitfield kartēja 6 drošības zonas ar krāsu kodētām marķierbojām: peldēšanas zona (sarkana), iesācēju airēšanas zona (dzeltena, līdz 200 m no piestātnes), vidējā zona (zaļa, līdz 1 km gar rietumu krastu), pieredzējušo zona (zila, viss ezers ar radio pieteikšanos) un aizliegtās zonas (violetas, ap aizsprosta ūdens ņēmēju un Bald Rock klintīm). Katram konsultantam bija ūdensnecaurlaidīgs VHF radiouztvērējs ar 15. kanālu, kas veltīts SUP operācijām. Duke Power ezera pārvaldes iestāde apstiprināja plānu pēc kopīga drošības pārskata 12. maijā.',
             },
             {
               title: '4. solis: 2025. gada vasaras sezonas rezultāti un nozīmīšu iegūšanas rādītāji',
@@ -6260,8 +6260,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc jauniešu programmas izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc jauniešu programmas izvēlas OLagoon',
       items: [
         {
           title: 'Bērnu drošība',
@@ -6289,7 +6289,7 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kāda izmēra SUP dēlis ir piemērots dažāda vecuma bērniem?',
         answer:
-          'Afarer piedāvā mazākus, īpaši jauniešiem paredzētus SUP izmērus, kas izstrādāti bērniem un pusaudžiem. Šiem dēļiem, salīdzinājumā ar pieaugušo modeļiem, ir mazāks tilpums, šaurāks platums un mazāks svars, kas jaunajiem lietotājiem atvieglo lietošanu, kontroli un mācīšanos.',
+          'OLagoon piedāvā mazākus, īpaši jauniešiem paredzētus SUP izmērus, kas izstrādāti bērniem un pusaudžiem. Šiem dēļiem, salīdzinājumā ar pieaugušo modeļiem, ir mazāks tilpums, šaurāks platums un mazāks svars, kas jaunajiem lietotājiem atvieglo lietošanu, kontroli un mācīšanos.',
       },
       {
         question: 'Kā Giant SUP darbojas komandas veidošanas aktivitātēs?',
@@ -6299,26 +6299,26 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kādas drošības funkcijas ir iekļautas bērnu SUP dēļos?',
         answer:
-          'Afarer jauniešu dēļiem ir daudzrokturu drošības dizains (sānu, priekšējie un pārnešanas rokturi), pilns EVA pretslīdes klājums drošai stāvēšanai, noapaļotas drošības formas bez asām malām, augstas peldspējas struktūra stabilai peldēšanai un viegla atgūšanās pēc krišanas.',
+          'OLagoon jauniešu dēļiem ir daudzrokturu drošības dizains (sānu, priekšējie un pārnešanas rokturi), pilns EVA pretslīdes klājums drošai stāvēšanai, noapaļotas drošības formas bez asām malām, augstas peldspējas struktūra stabilai peldēšanai un viegla atgūšanās pēc krišanas.',
       },
       {
         question: 'Vai SUP dēļus var pielāgot ar mūsu nometnes logotipu un krāsām?',
         answer:
-          'Jā, Afarer atbalsta pilnīgu pielāgošanu, tostarp nometņu logotipus, programmu krāsas, zīmolības elementus un tematisko grafiku. Pielāgota zīmolēšana palīdz izveidot unikālu nometnes identitāti un padara aprīkojumu viegli atpazīstamu.',
+          'Jā, OLagoon atbalsta pilnīgu pielāgošanu, tostarp nometņu logotipus, programmu krāsas, zīmolības elementus un tematisko grafiku. Pielāgota zīmolēšana palīdz izveidot unikālu nometnes identitāti un padara aprīkojumu viegli atpazīstamu.',
       },
       {
         question: 'Cik dēļu nepieciešams, lai uzsāktu jauniešu SUP programmu?',
         answer:
-          'Afarer iesaka iesācēja komplektu, kas ietver bērnu dēļus, instruktoru dēļus, airus, sūkņus, drošības saites un pārnēsājamās somas. Flotes izmērs ir atkarīgs no grupas ietilpības — tipiska nometne varētu sākt ar 10-20 jauniešu dēļiem un instruktoru aprīkojumu, ar iespējām sezonāli paplašināties.',
+          'OLagoon iesaka iesācēja komplektu, kas ietver bērnu dēļus, instruktoru dēļus, airus, sūkņus, drošības saites un pārnēsājamās somas. Flotes izmērs ir atkarīgs no grupas ietilpības — tipiska nometne varētu sākt ar 10-20 jauniešu dēļiem un instruktoru aprīkojumu, ar iespējām sezonāli paplašināties.',
       },
       {
         question: 'Kāds instruktoru aprīkojums ir ieteicams nometņu SUP programmām?',
         answer:
-          'Afarer iesaka īpaši instruktoriem paredzētus dēļus ar uzlabotu stabilitāti un kontroles funkcijām, kā arī drošības piederumus, tostarp drošības saites, sūkņus, remonta komplektus un komunikācijas aprīkojumu. Nometnes flotes pakete var ietvert atsevišķus instruktoru dēļus un rezerves komponentes.',
+          'OLagoon iesaka īpaši instruktoriem paredzētus dēļus ar uzlabotu stabilitāti un kontroles funkcijām, kā arī drošības piederumus, tostarp drošības saites, sūkņus, remonta komplektus un komunikācijas aprīkojumu. Nometnes flotes pakete var ietvert atsevišķus instruktoru dēļus un rezerves komponentes.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu bērnu ūdens piedzīvojumu programmu ar Afarer',
+      title: 'Izveidojiet savu bērnu ūdens piedzīvojumu programmu ar OLagoon',
       subtitle:
         'Palīdziet bērniem atklāt pašpaļāvību, komandas darbu, dabu un piedzīvojumu ar profesionāli izstrādātām SUP izpētes programmām.',
       primaryAction: {
@@ -6334,7 +6334,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Ūdens glābšanas SUP ražotājs | {SITE}',
       description:
-        'Afarer piedāvā profesionālas ūdens glābšanas SUP sistēmas plavu glābējiem, avārijas komandām un drošības organizācijām. Augstas ietilpības glābšanas dēļi, vairāku rokturu dizains, vilkšanas sistēmas un pielāgoti OEM risinājumi.',
+        'OLagoon piedāvā profesionālas ūdens glābšanas SUP sistēmas plavu glābējiem, avārijas komandām un drošības organizācijām. Augstas ietilpības glābšanas dēļi, vairāku rokturu dizains, vilkšanas sistēmas un pielāgoti OEM risinājumi.',
     },
     hero: {
       tagline:
@@ -6466,7 +6466,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Glābšanai paredzēts SUP dizains un medicīniskā integrācija',
               detail:
-                'No 2025. gada janvāra līdz aprīlim Tran sadarbojās ar Afarer jūras rūpniecisko nodaļu, lai izstrādātu RescuePro 12\'6" XR. Dēlim ir 34" platums stabilitātei zemos ātrumos, 6" biezs militārās kvalitātes PVC (1 200 denjēru, pārbaudīts līdz 25 PSI) un plakana klāja bez rokera vienmērīgai aprīkojuma stiprināšanai. Afarer integrēja 12 nerūsējošā tērauda D-gredzenus priekšas/aizmugures konfigurācijā medicīniskajiem moduļiem ar rāvējslēdzēju stiprinājumu (pirmā palīdzība, AED, skābeklis). Dēlis ietver neonzeltenu redzamības svītru ar SOLAS pakāpes atstarojošo lenti un priekšgalā uzstādītu vilkšanas kniedi, pārbaudītu ar 400 kg virves vilkspēku. Pēc 14 dienām viļņu baseina testēšanā University of Queensland galīgais dizains tika apstiprināts ar 7,5 mezglu maksimālo ātrumu ar slodzi (110 kg airētājs + 30 kg aprīkojums).',
+                'No 2025. gada janvāra līdz aprīlim Tran sadarbojās ar OLagoon jūras rūpniecisko nodaļu, lai izstrādātu RescuePro 12\'6" XR. Dēlim ir 34" platums stabilitātei zemos ātrumos, 6" biezs militārās kvalitātes PVC (1 200 denjēru, pārbaudīts līdz 25 PSI) un plakana klāja bez rokera vienmērīgai aprīkojuma stiprināšanai. OLagoon integrēja 12 nerūsējošā tērauda D-gredzenus priekšas/aizmugures konfigurācijā medicīniskajiem moduļiem ar rāvējslēdzēju stiprinājumu (pirmā palīdzība, AED, skābeklis). Dēlis ietver neonzeltenu redzamības svītru ar SOLAS pakāpes atstarojošo lenti un priekšgalā uzstādītu vilkšanas kniedi, pārbaudītu ar 400 kg virves vilkspēku. Pēc 14 dienām viļņu baseina testēšanā University of Queensland galīgais dizains tika apstiprināts ar 7,5 mezglu maksimālo ātrumu ar slodzi (110 kg airētājs + 30 kg aprīkojums).',
             },
             {
               title: '2. solis: Klubu sadale, uzglabāšanas statņi un ātras izvietošanas sistēma',
@@ -6476,12 +6476,12 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '3. solis: Plavu glābēju SUP glābšanas sertifikācija un sērfinga kompetences pārbaude',
               detail:
-                '2025. gada augustā (pirmsvasaras apmācību periods) Afarer glābšanas apmācības nodaļa 82 vecākajiem plavu glābējiem 5 reģionālajos centros piešķīra 40 stundu ilgu SUP glābšanas operatora sertifikāciju. Kursā tika iekļauta: airēšanas vilkšana bezsamaņā nonākušiem cietušajiem (100 m vilkšana mazāk nekā 3 min), sērfinga zonas ieejas un izejas paņēmieni ar aprīkojumu, AED izmantošana uz nestabilas platformas un mugurkaula imobilizācija uz dēļa (ortopēdiskās kakla siksnas uzlikšana, saglabājot dēļa stabilitāti). Katram kandidātam bija jānokārto praktiskais eksāmens: 200 m airējums līdz cietušajam, simulēta bezsamaņas glābšana ar aprīkojuma atgūšanu un atgriešanās krastā -- viss 7 minūšu laikā. Nokārtošanas rādītājs: 89% (73 no 82). Nekārtojušie kandidāti tika pārcelti uz sekundārajiem amatiem.',
+                '2025. gada augustā (pirmsvasaras apmācību periods) OLagoon glābšanas apmācības nodaļa 82 vecākajiem plavu glābējiem 5 reģionālajos centros piešķīra 40 stundu ilgu SUP glābšanas operatora sertifikāciju. Kursā tika iekļauta: airēšanas vilkšana bezsamaņā nonākušiem cietušajiem (100 m vilkšana mazāk nekā 3 min), sērfinga zonas ieejas un izejas paņēmieni ar aprīkojumu, AED izmantošana uz nestabilas platformas un mugurkaula imobilizācija uz dēļa (ortopēdiskās kakla siksnas uzlikšana, saglabājot dēļa stabilitāti). Katram kandidātam bija jānokārto praktiskais eksāmens: 200 m airējums līdz cietušajam, simulēta bezsamaņas glābšana ar aprīkojuma atgūšanu un atgriešanās krastā -- viss 7 minūšu laikā. Nokārtošanas rādītājs: 89% (73 no 82). Nekārtojušie kandidāti tika pārcelti uz sekundārajiem amatiem.',
             },
             {
               title: '4. solis: Vasaras sezonas izvietošana un glābšanas veiktspējas dati',
               detail:
-                'SUP glābšanas flote tika aktivizēta 2025. gada 1. oktobrī visos 11 klubos Austrālijas vasaras sezonai. Līdz 2026. gada 31. martam (6 mēnešu sezona) SLSQ reģistrēja 347 ar SUP veiktas glābšanas operācijas pret 512 IRB glābšanām, kas veido 40,4% no visām glābšanām ūdenī. Vidējais SUP izvietošanas laiks bija 47 sekundes (pret 4 min 20 s IRB). Ātrākā glābšana ilga 22 sekundes: 9 gadus vecs bērns, ko piekrastes straume aiznesa 80 m no krasta Surfers Paradise. SUP glābšanas veiksmes rādītājs sasniedza 99,1% (344 veiksmīgas glābšanas, 3 cietušajiem bija nepieciešams papildu IRB atbalsts). Tran ziņoja par 0 traumām no dzenskrūves, 0 dēļu bojājumiem un 2 dēļu remontiem (delaminējušies spuru korpusi, abus 48 stundu laikā salaboja Afarer ātrā remonta serviss). SLSQ pasūtīja vēl 18 RescuePro dēļus 2026.-27. gada sezonas izvietošanai North Queensland klubos.',
+                'SUP glābšanas flote tika aktivizēta 2025. gada 1. oktobrī visos 11 klubos Austrālijas vasaras sezonai. Līdz 2026. gada 31. martam (6 mēnešu sezona) SLSQ reģistrēja 347 ar SUP veiktas glābšanas operācijas pret 512 IRB glābšanām, kas veido 40,4% no visām glābšanām ūdenī. Vidējais SUP izvietošanas laiks bija 47 sekundes (pret 4 min 20 s IRB). Ātrākā glābšana ilga 22 sekundes: 9 gadus vecs bērns, ko piekrastes straume aiznesa 80 m no krasta Surfers Paradise. SUP glābšanas veiksmes rādītājs sasniedza 99,1% (344 veiksmīgas glābšanas, 3 cietušajiem bija nepieciešams papildu IRB atbalsts). Tran ziņoja par 0 traumām no dzenskrūves, 0 dēļu bojājumiem un 2 dēļu remontiem (delaminējušies spuru korpusi, abus 48 stundu laikā salaboja OLagoon ātrā remonta serviss). SLSQ pasūtīja vēl 18 RescuePro dēļus 2026.-27. gada sezonas izvietošanai North Queensland klubos.',
             },
           ],
           results: [
@@ -6504,7 +6504,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Krasta viļņiem pielāgots SUP dizains un traumatoloģijas aprīkojuma integrācija',
               detail:
-                'No 2025. gada marta līdz jūnijam Rodriguez sadarbojās ar Afarer glābšanas nodaļu, lai pielāgotu RescuePro 12\'6" XR West Coast krasta viļņu apstākļiem. Modifikācijas ietvēra: paceltu degunu (2,5" pacēlums) spējai izurbties cauri dobumainiem 1-3 pēdu viļņiem; četru spuru korpusu konfigurāciju manevrēšanai šaurā sērfinga zonā; un priekšgalā uzstādītu vilkšanas siksnas gredzenu glābēja peldētāja piestiprināšanai. Medicīniskais modulis tika aprīkots ar North American Rescue M9 traumatoloģijas komplektu (žņaugs, krūšu oklūzīvais pārsējs, hemostatiskais marlis), Phillips HeartStart FRx AED un Ferno KED mugurkaula imobilizācijas ierīci. NBFD jūras nodaļa testēja 4 prototipus 12 apmācību sesijās The Wedge, pirms apstiprināja galīgo dizainu.',
+                'No 2025. gada marta līdz jūnijam Rodriguez sadarbojās ar OLagoon glābšanas nodaļu, lai pielāgotu RescuePro 12\'6" XR West Coast krasta viļņu apstākļiem. Modifikācijas ietvēra: paceltu degunu (2,5" pacēlums) spējai izurbties cauri dobumainiem 1-3 pēdu viļņiem; četru spuru korpusu konfigurāciju manevrēšanai šaurā sērfinga zonā; un priekšgalā uzstādītu vilkšanas siksnas gredzenu glābēja peldētāja piestiprināšanai. Medicīniskais modulis tika aprīkots ar North American Rescue M9 traumatoloģijas komplektu (žņaugs, krūšu oklūzīvais pārsējs, hemostatiskais marlis), Phillips HeartStart FRx AED un Ferno KED mugurkaula imobilizācijas ierīci. NBFD jūras nodaļa testēja 4 prototipus 12 apmācību sesijās The Wedge, pirms apstiprināja galīgo dizainu.',
             },
             {
               title: '2. solis: Izvietošana posteņos, uzglabāšana un ātras reaģēšanas protokoli',
@@ -6514,7 +6514,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '3. solis: NBFD specifiska SUP glābšanas sertifikācija un reālistiskas mācības',
               detail:
-                'Piecu dienu laikā 2025. gada jūlijā Afarer vecākais glābšanas instruktors pludmalē sertificēja 18 NBFD jūras drošības virsnieku. Kurss tika pielāgots West Coast apstākļiem: niršana zem viļņa ar SUP, glābšanas izvešana ar startu no pludmales (cietušā ievilkšana uz dēļa lauzto viļņu zonā) un scenāriju koordinācija kopā ar NBFD Bell 412 helikopteru. Rodriguez pieprasīja, lai visi 18 virsnieki nokārto gala scenāriju: atrast simulētu cietušo (80 kg manekenu) 150 m no The Wedge 2-3 pēdu viļņos, veikt mugurkaula imobilizāciju ūdenī un atgriezties pludmalē -- viss 8 minūšu laikā. Nokārtošanas rādītājs: 100% ar vidējo izpildes laiku 6 minūtes 12 sekundes.',
+                'Piecu dienu laikā 2025. gada jūlijā OLagoon vecākais glābšanas instruktors pludmalē sertificēja 18 NBFD jūras drošības virsnieku. Kurss tika pielāgots West Coast apstākļiem: niršana zem viļņa ar SUP, glābšanas izvešana ar startu no pludmales (cietušā ievilkšana uz dēļa lauzto viļņu zonā) un scenāriju koordinācija kopā ar NBFD Bell 412 helikopteru. Rodriguez pieprasīja, lai visi 18 virsnieki nokārto gala scenāriju: atrast simulētu cietušo (80 kg manekenu) 150 m no The Wedge 2-3 pēdu viļņos, veikt mugurkaula imobilizāciju ūdenī un atgriezties pludmalē -- viss 8 minūšu laikā. Nokārtošanas rādītājs: 100% ar vidējo izpildes laiku 6 minūtes 12 sekundes.',
             },
             {
               title: '4. solis: Aktivizēšana 2025. gada Darba dienā un avārijas atbildes statistika',
@@ -6531,8 +6531,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc glābšanas organizācijas izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc glābšanas organizācijas izvēlas OLagoon',
       items: [
         {
           title: 'Drošība pirmajā vietā',
@@ -6558,24 +6558,24 @@ const lv: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Kādu nestspēju nodrošina Afarer glābšanas SUP dēļi?',
+        question: 'Kādu nestspēju nodrošina OLagoon glābšanas SUP dēļi?',
         answer:
-          'Afarer glābšanas SUP dēļiem ir ļoti augsta nestspēja, kas izstrādāta, lai vienlaikus pārvadātu glābēju, cietušo, glābšanas aprīkojumu un medicīniskos līdzekļus. Īpaši platā glābšanas platforma nodrošina paaugstinātu stabilitāti un lielāku darba zonu drošai palīdzībai pacientam.',
+          'OLagoon glābšanas SUP dēļiem ir ļoti augsta nestspēja, kas izstrādāta, lai vienlaikus pārvadātu glābēju, cietušo, glābšanas aprīkojumu un medicīniskos līdzekļus. Īpaši platā glābšanas platforma nodrošina paaugstinātu stabilitāti un lielāku darba zonu drošai palīdzībai pacientam.',
       },
       {
-        question: 'Kas Afarer glābšanas SUP dēļus atšķir no atpūtas SUP dēļiem?',
+        question: 'Kas OLagoon glābšanas SUP dēļus atšķir no atpūtas SUP dēļiem?',
         answer:
-          'Afarer glābšanas dēļi ir izstrādāti īpaši avārijas operācijām ar augstas ietilpības platformām, vairākiem glābšanas rokturiem, pastiprinātām D-gredzenu vilkšanas sistēmām, augstas redzamības krāsām, atstarojošiem elementiem, pret abrāziju izturīgiem materiāliem un smagai kalpošanai paredzētu šuvju konstrukciju -- iezīmes, kas nav atrodamas atpūtas produktos.',
+          'OLagoon glābšanas dēļi ir izstrādāti īpaši avārijas operācijām ar augstas ietilpības platformām, vairākiem glābšanas rokturiem, pastiprinātām D-gredzenu vilkšanas sistēmām, augstas redzamības krāsām, atstarojošiem elementiem, pret abrāziju izturīgiem materiāliem un smagai kalpošanai paredzētu šuvju konstrukciju -- iezīmes, kas nav atrodamas atpūtas produktos.',
       },
       {
         question: 'Kādas krāsu iespējas ir pieejamas glābšanas SUP dēļiem?',
         answer:
-          'Afarer piedāvā profesionālas glābšanas krāsas, tostarp glābšanas dzelteno, drošības oranžo un avārijas sarkano. Visas iespējas var apvienot ar atstarojošajiem drošības elementiem redzamībai vājā apgaismojumā un naktī, kā arī ar komandu logotipiem un iestāžu marķējumu.',
+          'OLagoon piedāvā profesionālas glābšanas krāsas, tostarp glābšanas dzelteno, drošības oranžo un avārijas sarkano. Visas iespējas var apvienot ar atstarojošajiem drošības elementiem redzamībai vājā apgaismojumā un naktī, kā arī ar komandu logotipiem un iestāžu marķējumu.',
       },
       {
         question: 'Vai glābšanas SUP dēļus var pielāgot ar mūsu komandas logotipu un marķējumu?',
         answer:
-          'Jā, Afarer atbalsta pilnu glābšanas organizācijas zīmolu noformējumu, tostarp komandu logotipus, iestādes identitāti, drošības marķējumu un pielāgotas krāsu shēmas. Tas palīdz uzturēt profesionālu izskatu un identificēt aprīkojumu vairāku iestāžu operāciju laikā.',
+          'Jā, OLagoon atbalsta pilnu glābšanas organizācijas zīmolu noformējumu, tostarp komandu logotipus, iestādes identitāti, drošības marķējumu un pielāgotas krāsu shēmas. Tas palīdz uzturēt profesionālu izskatu un identificēt aprīkojumu vairāku iestāžu operāciju laikā.',
       },
       {
         question: 'Kādi piederumi ir iekļauti profesionālajā glābšanas SUP komplektā?',
@@ -6585,13 +6585,13 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kā glābšanas SUP dēļi tiek apkopoti un uzglabāti?',
         answer:
-          'Afarer glābšanas dēļi ir izstrādāti vienkāršai apkopei ar izturīgiem materiāliem, kas iztur biežu izmantošanu un uzglabāšanu ārpus telpām. Tā kā tie ir piepūšami, tos transportēšanai un uzglabāšanai saliek kompaktni. Mēs nodrošinām apkopes norādes, pārbaudes procedūras un rezerves komponentes ilgtermiņa uzticamībai.',
+          'OLagoon glābšanas dēļi ir izstrādāti vienkāršai apkopei ar izturīgiem materiāliem, kas iztur biežu izmantošanu un uzglabāšanu ārpus telpām. Tā kā tie ir piepūšami, tos transportēšanai un uzglabāšanai saliek kompaktni. Mēs nodrošinām apkopes norādes, pārbaudes procedūras un rezerves komponentes ilgtermiņa uzticamībai.',
       },
     ],
     cta: {
-      title: 'Izveidojiet savu profesionālo ūdens glābšanas sistēmu kopā ar Afarer',
+      title: 'Izveidojiet savu profesionālo ūdens glābšanas sistēmu kopā ar OLagoon',
       subtitle:
-        'Katrai glābšanas misijai nepieciešama pašpaļāvība. Afarer palīdz plavu glābēju komandām, glābšanas organizācijām, apmācību iestādēm un avārijas dienestiem izveidot uzticamas ūdens drošības aprīkojuma sistēmas.',
+        'Katrai glābšanas misijai nepieciešama pašpaļāvība. OLagoon palīdz plavu glābēju komandām, glābšanas organizācijām, apmācību iestādēm un avārijas dienestiem izveidot uzticamas ūdens drošības aprīkojuma sistēmas.',
       primaryAction: {
         text: 'Sāciet savu projektu',
       },
@@ -6605,7 +6605,7 @@ const lv: Record<string, SolutionOverride> = {
     meta: {
       title: 'Eco Research & Monitoring SUP Platformas ražotājs | {SITE}',
       description:
-        'Afarer piedāvā videi draudzīgas SUP pētniecības platformas jūras aizsardzības NGO, universitātēm un vides monitoringa organizācijām. Stabilas peldošas platformas, iekārtu stiprinājuma sistēmas un pielāgoti OEM risinājumi.',
+        'OLagoon piedāvā videi draudzīgas SUP pētniecības platformas jūras aizsardzības NGO, universitātēm un vides monitoringa organizācijām. Stabilas peldošas platformas, iekārtu stiprinājuma sistēmas un pielāgoti OEM risinājumi.',
     },
     hero: {
       tagline:
@@ -6737,7 +6737,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: Zema trokšņa SUP konfigurācija un sensoru platformas integrācija',
               detail:
-                '2024. gada septembrī Huaman sadarbojās ar Afarer vides pētniecības nodaļu, lai pielāgotu EcoTouring 12\'6" X zinātniskās kravas izvietošanai. Modifikācijas ietvēra: pastiprinātu klāja stiprinājuma plāksni (nerūsējošais tērauds, 4 skrūvju shēma) Garmin echoMAP Plus 74cv zivju meklētājam/sonaras pārveidotājam; integrētu RAM-mount sistēmu GoPro HERO12 Black kamerai zemūdens korpusā; ūdensnecaururlaidīgu iekārtu sauso nodalījumu (7 L tilpums, skrūvju hermētiķis) dēļa kodolā datu reģistratoriem un GPS ierīcēm; kā arī zema profila ķīļa aizsargu, kas ļauj izkāpt krastā dūņainos upes krastos. Trīs prototipa dēļi tika pārbaudīti Ucayali upē 2024. gada oktobrī, mērot zemūdens trokšņa līmeni 18 dB (salīdzinājumā ar 52 dB 25 ZS Tohatsu dzinējam 5 m attālumā). ARA pasūtīja 18 dēļus par $212K, finansējumu sniedza Gordon and Betty Moore Foundation.',
+                '2024. gada septembrī Huaman sadarbojās ar OLagoon vides pētniecības nodaļu, lai pielāgotu EcoTouring 12\'6" X zinātniskās kravas izvietošanai. Modifikācijas ietvēra: pastiprinātu klāja stiprinājuma plāksni (nerūsējošais tērauds, 4 skrūvju shēma) Garmin echoMAP Plus 74cv zivju meklētājam/sonaras pārveidotājam; integrētu RAM-mount sistēmu GoPro HERO12 Black kamerai zemūdens korpusā; ūdensnecaururlaidīgu iekārtu sauso nodalījumu (7 L tilpums, skrūvju hermētiķis) dēļa kodolā datu reģistratoriem un GPS ierīcēm; kā arī zema profila ķīļa aizsargu, kas ļauj izkāpt krastā dūņainos upes krastos. Trīs prototipa dēļi tika pārbaudīti Ucayali upē 2024. gada oktobrī, mērot zemūdens trokšņa līmeni 18 dB (salīdzinājumā ar 52 dB 25 ZS Tohatsu dzinējam 5 m attālumā). ARA pasūtīja 18 dēļus par $212K, finansējumu sniedza Gordon and Betty Moore Foundation.',
             },
             {
               title: '2. solis: Pētniecības protokola pielāgošana un klusās novērošanas metodes izstrāde',
@@ -6747,7 +6747,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '3. solis: Pētnieku SUP sertifikācija un attālināto staciju loģistika',
               detail:
-                '2024. gada novembrī Afarer veica 12 dienu lauka apmācību programmu 3 ARA stacijās, sertificējot 12 pētniekus (5 doktorantus, 4 lauka tehniķus, 3 vietējos upju gidi). Apmācības ietvēra: upes straumes (Ucayali plūst līdz 4 mezgliem), izvairīšanos no baļķiem un atkritumiem, nakts airēšanas tehnikas nakts sugu apsekojumiem un startēšanas procedūras džungļos (nesot piepūstos dēļus 400 m caur primāro mežu uz oxbow ezeriem). Katrs pētnieks pabeidza 40 uzraudzības apsekojuma airēšanas stundas un noslēguma eksāmenu, kas prasīja: 6 km transektu ātrāk nekā 2 stundās ar vienlaicīgu datu reģistrēšanu. Sertifikācijas izturēšanas rādītājs: 92% (11 no 12). Atlikušais pētnieks kalpoja kā rotācijas atbalsts.',
+                '2024. gada novembrī OLagoon veica 12 dienu lauka apmācību programmu 3 ARA stacijās, sertificējot 12 pētniekus (5 doktorantus, 4 lauka tehniķus, 3 vietējos upju gidi). Apmācības ietvēra: upes straumes (Ucayali plūst līdz 4 mezgliem), izvairīšanos no baļķiem un atkritumiem, nakts airēšanas tehnikas nakts sugu apsekojumiem un startēšanas procedūras džungļos (nesot piepūstos dēļus 400 m caur primāro mežu uz oxbow ezeriem). Katrs pētnieks pabeidza 40 uzraudzības apsekojuma airēšanas stundas un noslēguma eksāmenu, kas prasīja: 6 km transektu ātrāk nekā 2 stundās ar vienlaicīgu datu reģistrēšanu. Sertifikācijas izturēšanas rādītājs: 92% (11 no 12). Atlikušais pētnieks kalpoja kā rotācijas atbalsts.',
             },
             {
               title: '4. solis: 2025. gada lauka sezonas rezultāti un aizsardzības ietekme',
@@ -6775,7 +6775,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '1. solis: SUP sensoru integrācija un pētniecības platformas dizains',
               detail:
-                '2024. gada decembrī Torres sadarbojās ar Afarer vides pētniecības un izstrādes komandu, lai konfigurētu EcoTouring 12\'6" X piekrastes monitoringam. Afarer integrēja stiprinājuma plāksni YSI EXO2 zondei (iestiprināta pielāgotā caur korpusu izvedetā montāžas akā, kas iet cauri dēļa kodolam un ļauj nepārtrauktu ūdens plūsmu bez vilkmes pretestības, ko radītu vilkta zonde). Dēlis ieguva priekšgalā stiprinātu davin mehānismu (oglekļa šķiedra, 1.5 kg, 50 lb slodze) zemūdens video masīva nolaišanai un pacelšanai (GoPro HERO12 Black atstarojošu daļiņu korpusā ar sarkanajiem filtriem). Aizmugurē stiprinātā datu reģistrātora kaste (Pelican 1040) ietvēra GNSS uztvērēju un mobilo sakaru modemu reāllaika datu augšupielādei, izmantojot Mote mākoņplatformu. Trīs prototipi tika izvietoti 2025. gada janvārī 30 dienu validācijas pētījumam, apstiprinot zondes rādījumus 2% robežās no laivu rādījumiem pāru stacijās. Mote pasūtīja 15 dēļus par $186K, finansējumu sniedza SBEP un Gulf Research Program.',
+                '2024. gada decembrī Torres sadarbojās ar OLagoon vides pētniecības un izstrādes komandu, lai konfigurētu EcoTouring 12\'6" X piekrastes monitoringam. OLagoon integrēja stiprinājuma plāksni YSI EXO2 zondei (iestiprināta pielāgotā caur korpusu izvedetā montāžas akā, kas iet cauri dēļa kodolam un ļauj nepārtrauktu ūdens plūsmu bez vilkmes pretestības, ko radītu vilkta zonde). Dēlis ieguva priekšgalā stiprinātu davin mehānismu (oglekļa šķiedra, 1.5 kg, 50 lb slodze) zemūdens video masīva nolaišanai un pacelšanai (GoPro HERO12 Black atstarojošu daļiņu korpusā ar sarkanajiem filtriem). Aizmugurē stiprinātā datu reģistrātora kaste (Pelican 1040) ietvēra GNSS uztvērēju un mobilo sakaru modemu reāllaika datu augšupielādei, izmantojot Mote mākoņplatformu. Trīs prototipi tika izvietoti 2025. gada janvārī 30 dienu validācijas pētījumam, apstiprinot zondes rādījumus 2% robežās no laivu rādījumiem pāru stacijās. Mote pasūtīja 15 dēļus par $186K, finansējumu sniedza SBEP un Gulf Research Program.',
             },
             {
               title: '2. solis: Monitoringa staciju tīkls un plūdmaiņu paraugu ņemšanas protokols',
@@ -6785,7 +6785,7 @@ const lv: Record<string, SolutionOverride> = {
             {
               title: '3. solis: Pētnieku asociāciju SUP sertifikācija un navigācijas apmācība seklajos ūdeņos',
               detail:
-                '2025. gada februārī Afarer pētniecības nodaļa sertificēja 8 Mote pētnieku asociācijas (4 doktora līmeņa zinātniekus, 4 lauka tehniķus) 5 dienu seklā ūdens SUP pētniecības operatora kursā. Apmācības ietvēra: navigāciju jūraszāļu gultnēs (izvairoties no dzenskrūves rētu analoga — spuru radītās vilkmes), lamantīnu pieejas protokolus (minimālais pieejas attālums 50 m, klusa dreifēšana pēc pamanīšanas, uzvedības novērošana bez dzinēja trokšņa), plūdmaiņu straumju pārvaldību (maksimāli 1.5 mezglu straude paraugu ņemšanai, 2.5 mezgli pārvietošanai) un iekārtu izvietošanu un atgūšanu vējainos apstākļos. Torres arī pieprasīja, lai visi asociācijas dalībnieki pabeidz Florida FWC lamantīnu tikšanās apmācību (2 stundas tiešsaistē + lauka daļa). Sertifikācija tika vērtēta ar modelētu paraugu ņemšanas dienu: 4 stacijas 3 stundās ar 100% datu pilnīgumu. Visi 8 izturēja pirmajā mēģinājumā ar vidēji 38 minūšu stacijas pabeigšanas laiku (pret 68 minūtēm motorlaivu protokolam).',
+                '2025. gada februārī OLagoon pētniecības nodaļa sertificēja 8 Mote pētnieku asociācijas (4 doktora līmeņa zinātniekus, 4 lauka tehniķus) 5 dienu seklā ūdens SUP pētniecības operatora kursā. Apmācības ietvēra: navigāciju jūraszāļu gultnēs (izvairoties no dzenskrūves rētu analoga — spuru radītās vilkmes), lamantīnu pieejas protokolus (minimālais pieejas attālums 50 m, klusa dreifēšana pēc pamanīšanas, uzvedības novērošana bez dzinēja trokšņa), plūdmaiņu straumju pārvaldību (maksimāli 1.5 mezglu straude paraugu ņemšanai, 2.5 mezgli pārvietošanai) un iekārtu izvietošanu un atgūšanu vējainos apstākļos. Torres arī pieprasīja, lai visi asociācijas dalībnieki pabeidz Florida FWC lamantīnu tikšanās apmācību (2 stundas tiešsaistē + lauka daļa). Sertifikācija tika vērtēta ar modelētu paraugu ņemšanas dienu: 4 stacijas 3 stundās ar 100% datu pilnīgumu. Visi 8 izturēja pirmajā mēģinājumā ar vidēji 38 minūšu stacijas pabeigšanas laiku (pret 68 minūtēm motorlaivu protokolam).',
             },
             {
               title: '4. solis: 2025. gada marta-novembra monitoringa sezona un izmērāmie ekoloģiskie rezultāti',
@@ -6802,8 +6802,8 @@ const lv: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Kāpēc pētniecības organizācijas izvēlas Afarer',
+    whyOLagoon: {
+      title: 'Kāpēc pētniecības organizācijas izvēlas OLagoon',
       items: [
         {
           title: 'Stabilitāte',
@@ -6829,24 +6829,24 @@ const lv: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Kādas zinātniskās iekārtas var stiprināt uz Afarer pētniecības SUP platformas?',
+        question: 'Kādas zinātniskās iekārtas var stiprināt uz OLagoon pētniecības SUP platformas?',
         answer:
-          'Afarer pētniecības platformas atbalsta plašu iekārtu klāstu, tostarp ūdens kvalitātes sensorus, kameras un GPS ierīces, paraugu ņemšanas traukus, mērījumu instrumentus un datu vākšanas ierīces. Modulāro stiprinājuma sistēmu var pielāgot specifiskām pētniecības konfigurācijām.',
+          'OLagoon pētniecības platformas atbalsta plašu iekārtu klāstu, tostarp ūdens kvalitātes sensorus, kameras un GPS ierīces, paraugu ņemšanas traukus, mērījumu instrumentus un datu vākšanas ierīces. Modulāro stiprinājuma sistēmu var pielāgot specifiskām pētniecības konfigurācijām.',
       },
       {
         question: 'Cik stabila ir SUP platforma ūdens paraugu ņemšanai un monitoringa darbībām?',
         answer:
-          'Afarer pētniecības platformām ir īpaši plats dizains, palielināta stāvvieta, uzlabots līdzsvars un augstas peldspējas struktūra, kas īpaši izstrādāta zinātniskajām operācijām laukā. Stabilitāte ļauj pētniekiem droši darboties ar iekārtām, vākt paraugus un veikt mērījumus.',
+          'OLagoon pētniecības platformām ir īpaši plats dizains, palielināta stāvvieta, uzlabots līdzsvars un augstas peldspējas struktūra, kas īpaši izstrādāta zinātniskajām operācijām laukā. Stabilitāte ļauj pētniekiem droši darboties ar iekārtām, vākt paraugus un veikt mērījumus.',
       },
       {
-        question: 'Kādi videi draudzīgi materiāli tiek izmantoti Afarer pētniecības SUP dēļos?',
+        question: 'Kādi videi draudzīgi materiāli tiek izmantoti OLagoon pētniecības SUP dēļos?',
         answer:
-          'Afarer koncentrējas uz ilgmūžīgu un izturīgu konstrukciju, kas samazina nomaiņas biežumu un resursu patēriņu. Piedāvājam ilgtspējīgas materiālu iespējas, tostarp pārstrādājamas izvēles un mazākas ietekmes ražošanas pieejas, kas saderīgas ar vides aizsardzības misijām.',
+          'OLagoon koncentrējas uz ilgmūžīgu un izturīgu konstrukciju, kas samazina nomaiņas biežumu un resursu patēriņu. Piedāvājam ilgtspējīgas materiālu iespējas, tostarp pārstrādājamas izvēles un mazākas ietekmes ražošanas pieejas, kas saderīgas ar vides aizsardzības misijām.',
       },
       {
         question: 'Vai SUP platformas var pielāgot specifisku pētniecības projektu prasībām?',
         answer:
-          'Jā, Afarer atbalsta pilnīgu pielāgošanu, tostarp pielāgotus dēļu izmērus (papildu platums, papildu garums), palielinātu kravnesību, iekārtu stiprinājuma interfeisus, uzglabāšanas risinājumus, organizāciju logotipus un projekta specifiskus aksesuārus.',
+          'Jā, OLagoon atbalsta pilnīgu pielāgošanu, tostarp pielāgotus dēļu izmērus (papildu platums, papildu garums), palielinātu kravnesību, iekārtu stiprinājuma interfeisus, uzglabāšanas risinājumus, organizāciju logotipus un projekta specifiskus aksesuārus.',
       },
       {
         question: 'Kā SUP salīdzinājumā ar tradicionālajām pētniecības laivām piemērots vides monitoringam?',
@@ -6856,13 +6856,13 @@ const lv: Record<string, SolutionOverride> = {
       {
         question: 'Kāds ir tipiskais izpildes laiks pielāgotai pētniecības SUP platformai?',
         answer:
-          'Izpildes laiki atšķiras atkarībā no pielāgošanas sarežģītības un pasūtījuma apjoma. Afarer atbalsta prototipu izstrādi jauniem pētniecības konceptiem un sērijveida ražošanu institūciju pasūtījumiem. Mēs cieši sadarbojamies ar pētniecības komandām, lai ievērotu projektu termiņus un lauka sezonas prasības.',
+          'Izpildes laiki atšķiras atkarībā no pielāgošanas sarežģītības un pasūtījuma apjoma. OLagoon atbalsta prototipu izstrādi jauniem pētniecības konceptiem un sērijveida ražošanu institūciju pasūtījumiem. Mēs cieši sadarbojamies ar pētniecības komandām, lai ievērotu projektu termiņus un lauka sezonas prasības.',
       },
     ],
     cta: {
-      title: 'Veidojiet savu ekopētniecības ūdens platformu kopā ar Afarer',
+      title: 'Veidojiet savu ekopētniecības ūdens platformu kopā ar OLagoon',
       subtitle:
-        'Ūdens pētījumu nākotne prasa elastīgus un ilgtspējīgus risinājumus. Afarer palīdz jūras NGO, universitātēm, pētniecības institūcijām un vides organizācijām izveidot profesionālas mobilās ūdens pētniecības platformas.',
+        'Ūdens pētījumu nākotne prasa elastīgus un ilgtspējīgus risinājumus. OLagoon palīdz jūras NGO, universitātēm, pētniecības institūcijām un vides organizācijām izveidot profesionālas mobilās ūdens pētniecības platformas.',
       primaryAction: {
         text: 'Sāciet savu projektu',
       },

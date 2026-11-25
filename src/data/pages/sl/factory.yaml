@@ -1,6 +1,6 @@
 meta:
   title: 'Tovarna in proizvodnja — napihljivi SUP OEM | {SITE}'
-  description: 'Ogled tovarne afarer: obrat s 12,000 m² z rezanjem, RF varjenjem, tiskanjem, sestavljanjem in laboratorijem kakovosti za proizvodnjo napihljivih SUP desk OEM/ODM.'
+  description: 'Ogled tovarne olagoon: obrat s 12,000 m² z rezanjem, RF varjenjem, tiskanjem, sestavljanjem in laboratorijem kakovosti za proizvodnjo napihljivih SUP desk OEM/ODM.'
   keywords:
     - 'sup tovarna kitajska'
     - 'tovarna napihljivih veslaških desk'
@@ -12,7 +12,7 @@ hero:
   subtitle: '12,000 m² povezane proizvodnje — od surovega materiala do končne deske'
 
 intro:
-  - 'Kot proizvodni krak **Aquafarer LLC (ZDA)** operativna ekipa afarer v Qingdaou nadzoruje vsako stopnjo proizvodnje — od prihoda surovih materialov PVC in steklenih vlaken do končnega pregleda pred odpošiljanjem. Naša proizvodna naprava v gospodarski razvojni coni Qingdao obsega 12,000 kvadratnih metrov in zajema namenske delavnice za rezanje PVC, toplotno spajanje tub, izdelavo FRP kalupov, digitalni tisk SUP, končno sestavljanje in preskušanje kakovosti.'
+  - 'Kot proizvodni krak **Olagoon LLC (ZDA)** operativna ekipa olagoon v Qingdaou nadzoruje vsako stopnjo proizvodnje — od prihoda surovih materialov PVC in steklenih vlaken do končnega pregleda pred odpošiljanjem. Naša proizvodna naprava v gospodarski razvojni coni Qingdao obsega 12,000 kvadratnih metrov in zajema namenske delavnice za rezanje PVC, toplotno spajanje tub, izdelavo FRP kalupov, digitalni tisk SUP, končno sestavljanje in preskušanje kakovosti.'
   - 'Z združitvijo oblikovanja, inženiringa, izdelave prototipov, proizvodnje in preskušanja pod eno streho odpravljamo neučinkovitost pogodbene proizvodnje in ohranjamo neposreden nadzor nad kakovostjo izdelave, izbiro materialov in roki dobav. Vsako desko, ki zapusti našo delavnico, izdelajo naši ljudje — na naši opremi in po naših standardih.'
 
 stats:
@@ -69,22 +69,22 @@ workshops_section:
   workshops:
     - title: 'Rezanje PVC in priprava materiala'
       description: 'Samodejni CNC rezalni stroji obdelujejo tkanini PVC in drop-stitch s natančnostjo pod milimetrom. Računalniško optimizirana razporeditev delov zmanjšuje odpadke materiala in zagotavlja, da vsak panel pred varjenjem ustreza dimenzijskim specifikacijam.'
-      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     - title: 'Varjenje tub in toplotno spajanje'
       description: 'Namenska varilna delavnica s stroji za toplotno spajanje in RF dielektričnimi presami. Toplotni spajalniki z vročim zrakom spajajo in zlivajo komore PVC tub, RF varjeni šivi pa ustvarjajo zrakotesne šive visoke trdnosti, ki presegajo zahteve standarda EN ISO 25649.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
     - title: 'FRP kalupi in izdelava kompozitov'
       description: 'Kalupi iz FRP po meri za komponente SUP, izdelani z ročnim polaganjem steklenih vlaken in poliestrskimi ter vinilestrskimi sistemi smol. Vsak sloj se ročno pritisne in vakuumsko stisne za dosledno kakovost. Kabina za nanos gelcoata zagotavlja visokosijajen, UV-odporen morski zaključek.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Tiskanje in dekoriranje SUP'
       description: 'SUP deske se okrašujejo z digitalnim tiskom za večbarvno grafiko in s sitotiskom za logotipe ter ponavljajoče se vzorce. Digitalni tiskalniki ustvarjajo fotorealistične motive palub, sitotisk pa prinaša trajne in živahne blagovne zmote.'
-      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+      image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
     - title: 'Končno sestavljanje in opremljanje'
       description: 'Montažna linija, kjer se drop-stitch jedra zaključijo z robovi, pritrdijo EVA palube ter vgradijo plavuti, ventili in dodatki. Vsaka deska sledi 100-točkovnemu kontrolnemu seznamu sestavljanja, ki ga potrdi vodja ekipe.'
-      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+      image: https://assets.olagoon.com/images/olagoon/hero/factory-gate.webp
     - title: 'Preskušanje kakovosti in pregled'
       description: 'Vsaka končana deska pred odpošiljanjem opravi obvezno preskušanje zadrževanja zraka, preverjanje luščenja šivov in popoln pregled sistemov. Naš laboratorij kakovosti deluje neodvisno od proizvodnje in poroča neposredno vodstvu.'
-      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+      image: https://assets.olagoon.com/images/olagoon/factory/olagoon-pressure-testing.webp
 
 equipment_section:
   tagline: 'Oprema'
@@ -141,7 +141,7 @@ faq_section:
   questions:
     - q: 'Kolikšna je minimalna količina naročila (MOQ) za napihljive SUP deske OEM?'
       a: 'MOQ se začne pri 5–10 kosih za standardne modele OEM. Kalupi po meri in projekti zasebnih znamk zahtevajo najmanj 200 kosov, odvisno od zapletenosti. Poskusna naročila in vzorčne serije so na voljo za nove blagovne znamke.'
-    - q: 'Ali ima afarer certifikat BSCI?'
+    - q: 'Ali ima olagoon certifikat BSCI?'
       a: 'Da. Naša tovarna ohranja veljavno certifikacijo socialne skladnosti BSCI (revizijsko poročilo je na voljo na zahtevo). Imamo tudi ISO 9001 za upravljanje kakovosti, vsi izdelki pa nosijo certifikat CE. Dokumentacija o skladnosti s REACH in RoHS je priložena vsaki pošiljki OEM.'
     - q: 'Kakšen je običajni rok dobave za naročilo OEM?'
       a: 'Standardni rok dobave je 30–45 dni od potrjene naročilnice in akontacije za serijsko proizvodnjo OEM. Razvoj kalupa po meri doda 15–20 dni za izdelavo orodja. Pospešena proizvodnja je na voljo za nujna naročila in sezonske vrhove. Prototipni vzorci se običajno odpošljejo v 15–20 dneh.'

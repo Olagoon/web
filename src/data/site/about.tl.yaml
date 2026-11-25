@@ -4,12 +4,12 @@ origin:
     Itinayo sa tubig,<br />
     <span class="text-sky-600">ginagabayan ng layunin</span>
   paragraphs:
-    - 'Nagsimula ang afarer sa isang workshop sa tabing-dagat na may iisang board at isang matibay na paniniwala: dapat idisenyo ang mga produktong pandagat na para bang mahalaga ang mga ito — dahil mahalaga nga sila.'
-    - Ang aming mga tagapagtatag, na dalawang marine engineer, ay nakakita ng industriya kung saan kinakaltasan ng proseso, binababa ang kalidad ng mga materyales, at itinuturing na simpleng checklist lamang ang kaligtasan. Hindi para sa kita ginawa ang unang hull ng afarer, kundi upang patunayan na ang abot-kayang kagamitang pandagat ay maaari ring tunay na maaasahan.
+    - 'Nagsimula ang olagoon sa isang workshop sa tabing-dagat na may iisang board at isang matibay na paniniwala: dapat idisenyo ang mga produktong pandagat na para bang mahalaga ang mga ito — dahil mahalaga nga sila.'
+    - Ang aming mga tagapagtatag, na dalawang marine engineer, ay nakakita ng industriya kung saan kinakaltasan ng proseso, binababa ang kalidad ng mga materyales, at itinuturing na simpleng checklist lamang ang kaligtasan. Hindi para sa kita ginawa ang unang hull ng olagoon, kundi upang patunayan na ang abot-kayang kagamitang pandagat ay maaari ring tunay na maaasahan.
     - Ang unang hull na iyon ay nananatiling ginagamit hanggang ngayon. Hindi kailanman nagbago ang prinsipyong iyon.
     - Hindi kami ang pinakamalaking manufacturer. Hindi kami gumagawa ng pinakamurang mga produkto. Ngunit ang bawat hull na lumalabas sa aming workshop ay dumadaan sa parehong mga kamay na nagtatag ng kumpanya — at tumutugon sa parehong pamantayang itinakda ng unang hull.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  image_alt: workshop ng afarer sa tabing-dagat
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  image_alt: workshop ng olagoon sa tabing-dagat
 philosophy:
   tagline: Aming Pilosopiya
   heading: Nakaugat sa karagatan
@@ -30,11 +30,11 @@ design:
     Iningineero para sa sukdulan<br />
     <span class="text-sky-600">ng mga kondisyon</span>
   paragraphs:
-    - 'Ang bawat produkto ng afarer ay nagsisimula sa isang tanong: <em>ano ang pinakamahirap na kondisyong haharapin nito?</em> Nagdidisenyo kami mula sa gilid papaloob, hindi mula sa gitna palabas.'
+    - 'Ang bawat produkto ng olagoon ay nagsisimula sa isang tanong: <em>ano ang pinakamahirap na kondisyong haharapin nito?</em> Nagdidisenyo kami mula sa gilid papaloob, hindi mula sa gitna palabas.'
     - 'Ang aming mga drop-stitch core ay may rating na 15 PSI — hindi dahil kulang ang 12 PSI para sa isang lawa, kundi dahil kayang harapin ng isang 15 PSI board ang biglaang alon nang hindi lumalambot. Ang aming mga tela ng deck ay tinukoy para sa komersyal na grado ng UV resistance — hindi dahil nagpa-paddle lahat ng customer sa tropiko, kundi dahil ang UV degradation ang #1 na sanhi ng maagang pagkasira.'
     - Hindi kami nagdidisenyo ayon sa target na presyo. Nagdidisenyo kami ayon sa punto ng pagkabigo — pagkatapos ay gumagawa nang higit na mataas rito.
-  image: https://assets.afarer.com/images/afarer/hero/hero-4.webp
-  image_alt: disenyo at inhenyeriya ng afarer
+  image: https://assets.olagoon.com/images/olagoon/hero/hero-4.webp
+  image_alt: disenyo at inhenyeriya ng olagoon
   stats:
     - value: '15'
       label: rating ng<br />PSI core

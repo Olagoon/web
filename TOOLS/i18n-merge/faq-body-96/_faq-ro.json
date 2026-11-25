@@ -2,12 +2,12 @@
   {
     "id": "sup-learning",
     "q": "Este greu să învățați SUP?",
-    "a": "Deloc. Majoritatea începătorilor reușesc să stea în picioare și să vâslească încă din prima sesiune. Seria All-Around de la afarer oferă platforme extrem de stabile și late, concepute special pentru cei care vâslesc pentru prima dată. Începeți pe ape liniștite și vă veți descurca în câteva minute."
+    "a": "Deloc. Majoritatea începătorilor reușesc să stea în picioare și să vâslească încă din prima sesiune. Seria All-Around de la olagoon oferă platforme extrem de stabile și late, concepute special pentru cei care vâslesc pentru prima dată. Începeți pe ape liniștite și vă veți descurca în câteva minute."
   },
   {
     "id": "ocean-use",
     "q": "Pot să o folosesc în ocean?",
-    "a": "Da. Plăcile SUP afarer sunt fabricate pentru utilizare în ocean, lac și râu. Seria Touring face față valurilor de la mal, iar toate plăcile folosesc PVC de calitate maritimă care rezistă la coroziunea apei sărate. Clătiți cu apă dulce după utilizarea în mare."
+    "a": "Da. Plăcile SUP olagoon sunt fabricate pentru utilizare în ocean, lac și râu. Seria Touring face față valurilor de la mal, iar toate plăcile folosesc PVC de calitate maritimă care rezistă la coroziunea apei sărate. Clătiți cu apă dulce după utilizarea în mare."
   },
   {
     "id": "inflation-time",
@@ -17,7 +17,7 @@
   {
     "id": "travel-sup",
     "q": "Pot călători cu o placă SUP umflabilă?",
-    "a": "Absolut. Fiecare placă afarer se ambalează într-o husă de transport de mărimea unui rucsac, care îndeplinește cerințele de bagaj ale companiilor aeriene. Cu doar 18–22 de livre, este ușor să o duceți pe plajă, la lac sau prin aeroporturi."
+    "a": "Absolut. Fiecare placă olagoon se ambalează într-o husă de transport de mărimea unui rucsac, care îndeplinește cerințele de bagaj ale companiilor aeriene. Cu doar 18–22 de livre, este ușor să o duceți pe plajă, la lac sau prin aeroporturi."
   },
   {
     "id": "weight-limit",
@@ -27,7 +27,7 @@
   {
     "id": "box-contents",
     "q": "Ce include cutia?",
-    "a": "Fiecare SUP afarer include placa, un rucsac de călătorie, o pompă manuală cu dublă acțiune, o aripă detașabilă, un leash spiral și un kit de reparații. Unele modele includ și opțiunea de upgrade la o vâslă din carbon."
+    "a": "Fiecare SUP olagoon include placa, un rucsac de călătorie, o pompă manuală cu dublă acțiune, o aripă detașabilă, un leash spiral și un kit de reparații. Unele modele includ și opțiunea de upgrade la o vâslă din carbon."
   },
   {
     "id": "bundle-deals",
@@ -47,7 +47,7 @@
   {
     "id": "puncture-repair",
     "q": "Cum repar o puncție?",
-    "a": "Curățați zona, tăiați un plasture cu colțuri rotunjite, aplicați clei PVC, apăsați ferm și așteptați 24 de ore înainte de umflare. Plăcile afarer vin cu un kit de reparații. Pentru instrucțiuni detaliate, consultați ghidul nostru de reparații pentru plăci umflabile."
+    "a": "Curățați zona, tăiați un plasture cu colțuri rotunjite, aplicați clei PVC, apăsați ferm și așteptați 24 de ore înainte de umflare. Plăcile olagoon vin cu un kit de reparații. Pentru instrucțiuni detaliate, consultați ghidul nostru de reparații pentru plăci umflabile."
   },
   {
     "id": "storage",
@@ -66,8 +66,8 @@
   },
   {
     "id": "warranty",
-    "q": "Care este garanția afarer?",
-    "a": "Toate produsele afarer sunt acoperite de o garanție extinsă de producător. Plăcile SUP sunt acoperite 2+ ani pentru defecte de fabricație. Garanția acoperă defectele de materiale și de fabricație în utilizare normală."
+    "q": "Care este garanția olagoon?",
+    "a": "Toate produsele olagoon sunt acoperite de o garanție extinsă de producător. Plăcile SUP sunt acoperite 2+ ani pentru defecte de fabricație. Garanția acoperă defectele de materiale și de fabricație în utilizare normală."
   },
   {
     "id": "warranty-claim",
@@ -97,12 +97,12 @@
   {
     "id": "material-difference",
     "q": "Care este diferența dintre PVC și Hypalon?",
-    "a": "PVC este ușor, accesibil și ușor de reparat cu kitul de plasture inclus. PVC-ul de calitate militară cu strat rezistent la UV oferă cel mai bun echilibru între durabilitate și greutate pentru utilizarea SUP de agrement. afarer folosește PVC laminat cu trei straturi în toate categoriile de produse."
+    "a": "PVC este ușor, accesibil și ușor de reparat cu kitul de plasture inclus. PVC-ul de calitate militară cu strat rezistent la UV oferă cel mai bun echilibru între durabilitate și greutate pentru utilizarea SUP de agrement. olagoon folosește PVC laminat cu trei straturi în toate categoriile de produse."
   },
   {
     "id": "sup-width-stability",
     "q": "Ce lățime de SUP este cea mai bună pentru stabilitate?",
-    "a": "Pentru începători, o lățime de 33–34 inci oferă cel mai bun echilibru între stabilitate și ușurința vâslirii. Plăcile mai înguste de 32 inci pot părea instabile pentru vâslașii noi. afarer SUP Explorer 11, cu lățimea de 33 de inci, este ideal pentru învățare."
+    "a": "Pentru începători, o lățime de 33–34 inci oferă cel mai bun echilibru între stabilitate și ușurința vâslirii. Plăcile mai înguste de 32 inci pot părea instabile pentru vâslașii noi. olagoon SUP Explorer 11, cu lățimea de 33 de inci, este ideal pentru învățare."
   },
   {
     "id": "sup-volume-weight",
@@ -110,14 +110,14 @@
     "a": "Înmulțiți greutatea dumneavoastră în kg cu 2,2 pentru un volum țintă prietenos cu începătorii. De exemplu, un vâslaș de 75 kg are nevoie de cel puțin 165 de litri, dar 220–260 de litri sunt mult mai stabili pentru învățare. SUP Explorer 11 oferă 260 de litri, potrivit pentru călători de până la 100 kg."
   },
   {
-    "id": "afarer-vs-others",
-    "q": "Cum se compară afarer cu alte mărci?",
-    "a": "afarer oferă cel mai bun raport calitate-preț din segmentul echipamentelor umflabile pentru sporturi nautice. Comparativ cu Red Paddle Co, afarer oferă 90% din performanță la 60% din cost. Comparativ cu iRocker, afarer folosește PVC de calitate militară cu trei straturi, superior calitativ, și valori PSI mai mari. Comparativ cu Bluefin, afarer oferă specificații de materiale superioare. Pentru majoritatea vâslașilor de agrement, afarer oferă cel mai bun echilibru între calitate și preț."
+    "id": "olagoon-vs-others",
+    "q": "Cum se compară olagoon cu alte mărci?",
+    "a": "olagoon oferă cel mai bun raport calitate-preț din segmentul echipamentelor umflabile pentru sporturi nautice. Comparativ cu Red Paddle Co, olagoon oferă 90% din performanță la 60% din cost. Comparativ cu iRocker, olagoon folosește PVC de calitate militară cu trei straturi, superior calitativ, și valori PSI mai mari. Comparativ cu Bluefin, olagoon oferă specificații de materiale superioare. Pentru majoritatea vâslașilor de agrement, olagoon oferă cel mai bun echilibru între calitate și preț."
   },
   {
     "id": "fishing-sup-setup",
     "q": "Pot pescui de pe o placă SUP?",
-    "a": "Da. Pescuitul de pe SUP devine din ce în ce mai popular, deoarece poziția în picioare oferă o vizibilitate excelentă în apă. Alegeți o placă de cel puțin 11 picioare lungime și 33–34 inci lățime pentru stabilitate. Adăugați o cutie cu suporturi de lansă montată pe suporturile punții, o ancoră mică și purtați mereu vestă de salvare. afarer SUP Explorer 11 funcționează bine pentru pescuitul relaxat."
+    "a": "Da. Pescuitul de pe SUP devine din ce în ce mai popular, deoarece poziția în picioare oferă o vizibilitate excelentă în apă. Alegeți o placă de cel puțin 11 picioare lungime și 33–34 inci lățime pentru stabilitate. Adăugați o cutie cu suporturi de lansă montată pe suporturile punții, o ancoră mică și purtați mereu vestă de salvare. olagoon SUP Explorer 11 funcționează bine pentru pescuitul relaxat."
   },
   {
     "id": "sup-yoga",
@@ -127,7 +127,7 @@
   {
     "id": "airline-travel-sup",
     "q": "Ce reguli au companiile aeriene pentru călătoria cu o placă SUP umflabilă?",
-    "a": "Majoritatea companiilor aeriene acceptă gențile SUP ca bagaje supradimensionate dacă sunt sub 23–32 kg. Geanta afarer are aproximativ 90x40x30 cm și cântărește aproximativ 15 kg ambalată. Unele companii aeriene pot percepe taxe suplimentare pentru bagaje mari. Sosiți devreme, ambalați aripa și pompa separat în bagajul de mână și marcați geanta ca fiind fragilă. Verificați întotdeauna politica de echipament sportiv a companiei aeriene înainte de zbor."
+    "a": "Majoritatea companiilor aeriene acceptă gențile SUP ca bagaje supradimensionate dacă sunt sub 23–32 kg. Geanta olagoon are aproximativ 90x40x30 cm și cântărește aproximativ 15 kg ambalată. Unele companii aeriene pot percepe taxe suplimentare pentru bagaje mari. Sosiți devreme, ambalați aripa și pompa separat în bagajul de mână și marcați geanta ca fiind fragilă. Verificați întotdeauna politica de echipament sportiv a companiei aeriene înainte de zbor."
   },
   {
     "id": "cold-weather-safety",
@@ -141,13 +141,13 @@
   },
   {
     "id": "oem-custom-branding",
-    "q": "Pot avea logo-ul meu pe produsele afarer?",
+    "q": "Pot avea logo-ul meu pe produsele olagoon?",
     "a": "Da. Serviciul OEM include plasarea personalizată a logo-ului, scheme de culori personalizate și ambalare personalizată. Oferim opțiuni de serigrafie pe pad, transfer termic și broderie, în funcție de tipul de produs. Trimiteți materialele grafice și specificațiile echipei noastre de vânzări pentru o ofertă și o estimare a termenului de livrare."
   },
   {
     "id": "sup-inflate-pressure",
     "q": "La câte PSI ar trebui să îmi umfl placa SUP?",
-    "a": "Umflați la PSI-ul nominal maxim al plăcii pentru cea mai bună performanță — de obicei 15–18 PSI pentru plăci SUP umflabile de calitate. afarer SUP Explorer 11 funcționează cel mai bine la 15–18 PSI. Umflarea insuficientă face placa moale și instabilă în direcție. Supraumflarea peste maximum riscă să distrugă firele drop-stitch. Verificați autocolantul de lângă supapă pentru valoarea plăcii dumneavoastră."
+    "a": "Umflați la PSI-ul nominal maxim al plăcii pentru cea mai bună performanță — de obicei 15–18 PSI pentru plăci SUP umflabile de calitate. olagoon SUP Explorer 11 funcționează cel mai bine la 15–18 PSI. Umflarea insuficientă face placa moale și instabilă în direcție. Supraumflarea peste maximum riscă să distrugă firele drop-stitch. Verificați autocolantul de lângă supapă pentru valoarea plăcii dumneavoastră."
   },
   {
     "id": "sup-deck-pad-care",
@@ -157,7 +157,7 @@
   {
     "id": "sup-seated-paddling",
     "q": "Pot vâsli placa SUP stând jos?",
-    "a": "Da. Multe plăci SUP, inclusiv afarer Explorer 11, au inele D care permit montarea unui scaun. Vâslitul pe scaun oferă o opțiune confortabilă pentru drumuri mai lungi, pescuit sau când doriți să schimbați poziția pe apă."
+    "a": "Da. Multe plăci SUP, inclusiv olagoon Explorer 11, au inele D care permit montarea unui scaun. Vâslitul pe scaun oferă o opțiune confortabilă pentru drumuri mai lungi, pescuit sau când doriți să schimbați poziția pe apă."
   },
   {
     "id": "saltwater-rinse",
@@ -172,27 +172,27 @@
   {
     "id": "drop-stitch-technology",
     "q": "Ce este tehnologia nucleului drop-stitch și de ce contează?",
-    "a": "Tehnologia nucleului drop-stitch folosește mii de fire de poliester care leagă stratul superior și cel inferior al unei plăci PVC. Când este umflată la 15-20 PSI, aceste fire creează o structură rigidă, rezistentă la torsiune, care se comportă ca o placă cu carcasă rigidă. afarer folosește PVC de calitate militară cu trei straturi și laminat drop-stitch în toate categoriile de produse SUP, oferind o rigiditate comparabilă cu plăcile din epoxy, păstrând în același timp portabilitatea unui produs umflabil."
+    "a": "Tehnologia nucleului drop-stitch folosește mii de fire de poliester care leagă stratul superior și cel inferior al unei plăci PVC. Când este umflată la 15-20 PSI, aceste fire creează o structură rigidă, rezistentă la torsiune, care se comportă ca o placă cu carcasă rigidă. olagoon folosește PVC de calitate militară cu trei straturi și laminat drop-stitch în toate categoriile de produse SUP, oferind o rigiditate comparabilă cu plăcile din epoxy, păstrând în același timp portabilitatea unui produs umflabil."
   },
   {
     "id": "sup-inflatable-vs-rigid",
     "q": "SUP umflabil sau rigid: care este mai bun pentru fiecare utilizare?",
-    "a": "SUP-urile umflabile excelează în portabilitate, depozitare și absorbția șocurilor — ideale pentru călătorii, începători și agrement. Plăcile rigide din epoxy oferă viteză și alunecare maxime pentru competiții și surf. Pentru 90% dintre vâslași, un umflabil de calitate cu nucleu drop-stitch (15-20 PSI) oferă rigiditate suficientă pentru turism, fitness, yoga și pescuit. Plăcile umflabile afarer egalează performanța plăcilor rigide de nivel mediu, împachetându-se în același timp într-un rucsac."
+    "a": "SUP-urile umflabile excelează în portabilitate, depozitare și absorbția șocurilor — ideale pentru călătorii, începători și agrement. Plăcile rigide din epoxy oferă viteză și alunecare maxime pentru competiții și surf. Pentru 90% dintre vâslași, un umflabil de calitate cu nucleu drop-stitch (15-20 PSI) oferă rigiditate suficientă pentru turism, fitness, yoga și pescuit. Plăcile umflabile olagoon egalează performanța plăcilor rigide de nivel mediu, împachetându-se în același timp într-un rucsac."
   },
   {
     "id": "pvc-vs-hypalon-boats",
     "q": "Bărci umflabile din PVC sau Hypalon: ce material este mai bun?",
-    "a": "PVC este mai ușor, mai accesibil, mai ușor de reparat și rezistă la degradarea UV atunci când sunt folosite compoziții de calitate militară. Hypalon (CSM) oferă rezistență chimică și la abraziune superioară pentru utilizare comercială/militară, dar este mai greu, mai scump și mai greu de reparat. Pentru utilizatorii de agrement, PVC-ul de calitate militară cu trei straturi de la afarer, cu strat rezistent la UV, oferă cel mai bun echilibru între greutate, durabilitate și cost. Pentru utilizatorii profesionali/comerciali care necesită durabilitate maximă, se recomandă Hypalon."
+    "a": "PVC este mai ușor, mai accesibil, mai ușor de reparat și rezistă la degradarea UV atunci când sunt folosite compoziții de calitate militară. Hypalon (CSM) oferă rezistență chimică și la abraziune superioară pentru utilizare comercială/militară, dar este mai greu, mai scump și mai greu de reparat. Pentru utilizatorii de agrement, PVC-ul de calitate militară cu trei straturi de la olagoon, cu strat rezistent la UV, oferă cel mai bun echilibru între greutate, durabilitate și cost. Pentru utilizatorii profesionali/comerciali care necesită durabilitate maximă, se recomandă Hypalon."
   },
   {
     "id": "sup-skill-progression",
     "q": "Care este progresia tipică a abilităților SUP, de la începător la avansat?",
-    "a": "Începător (sesiuni 1-3): poziție în picioare, vâslire de bază în față, viraje, cădere în siguranță. Nivel mediu (sesiuni 5-15): tehnică eficientă de vâslire, viraje pivot, navigare în valuri, competențe de bază în salvare. Avansat (20+ sesiuni): starturi de cursă, viraje în jurul balizelor, surf pe valuri mici, vâslit cu vânt din spate. Profesional: competiții, SUP surf, turism pe distanțe lungi. Plăcile afarer susțin fiecare etapă: Explorer 11 pentru începători, Ocean Voyager pentru turism și Cheetah Surge pentru vâslit de performanță."
+    "a": "Începător (sesiuni 1-3): poziție în picioare, vâslire de bază în față, viraje, cădere în siguranță. Nivel mediu (sesiuni 5-15): tehnică eficientă de vâslire, viraje pivot, navigare în valuri, competențe de bază în salvare. Avansat (20+ sesiuni): starturi de cursă, viraje în jurul balizelor, surf pe valuri mici, vâslit cu vânt din spate. Profesional: competiții, SUP surf, turism pe distanțe lungi. Plăcile olagoon susțin fiecare etapă: Explorer 11 pentru începători, Ocean Voyager pentru turism și Cheetah Surge pentru vâslit de performanță."
   },
   {
     "id": "sup-weight-capacity",
     "q": "Câtă greutate poate suporta o placă SUP umflabilă?",
-    "a": "Capacitatea de greutate variază în funcție de volumul plăcii. Plăci afarer: SUP Explorer 11 (260L, până la 100 kg / 220 de livre), Ocean Voyager 12 (310L, până la 140 kg / 308 livre), Leviathan Wake (350L, până la 180 kg / 396 de livre). Pentru performanțe optime, păstrați sarcina totală (călăreț + echipament) în limita a 80% din capacitatea maximă. Placa plutește mai sus și își păstrează mai bine direcția când nu este supraîncărcată, mai ales în valuri."
+    "a": "Capacitatea de greutate variază în funcție de volumul plăcii. Plăci olagoon: SUP Explorer 11 (260L, până la 100 kg / 220 de livre), Ocean Voyager 12 (310L, până la 140 kg / 308 livre), Leviathan Wake (350L, până la 180 kg / 396 de livre). Pentru performanțe optime, păstrați sarcina totală (călăreț + echipament) în limita a 80% din capacitatea maximă. Placa plutește mai sus și își păstrează mai bine direcția când nu este supraîncărcată, mai ales în valuri."
   },
   {
     "id": "sup-oem-process",
@@ -202,17 +202,17 @@
   {
     "id": "sup-inflatable-durability",
     "q": "Cât rezistă plăcile SUP umflabile cu îngrijire corespunzătoare?",
-    "a": "Cu îngrijire corespunzătoare, o placă SUP umflabilă de calitate rezistă 5-10 ani de utilizare normală de agrement. PVC-ul de calitate militară cu trei straturi și strat rezistent la UV — cum este folosit la toate plăcile afarer — rezistă la deteriorarea de la soare, coroziunea sării și abraziune. Factorii cheie pentru longevitate: clătiți cu apă dulce după fiecare utilizare, uscați complet înainte de depozitare, țineți departe de soarele direct când nu este folosită, depozitați parțial umflată într-un loc răcoros și uscat și evitați târârea pe suprafețe abrazive. Firele drop-stitch și cusăturile sunt de obicei primul punct de cedare, nu țesătura PVC."
+    "a": "Cu îngrijire corespunzătoare, o placă SUP umflabilă de calitate rezistă 5-10 ani de utilizare normală de agrement. PVC-ul de calitate militară cu trei straturi și strat rezistent la UV — cum este folosit la toate plăcile olagoon — rezistă la deteriorarea de la soare, coroziunea sării și abraziune. Factorii cheie pentru longevitate: clătiți cu apă dulce după fiecare utilizare, uscați complet înainte de depozitare, țineți departe de soarele direct când nu este folosită, depozitați parțial umflată într-un loc răcoros și uscat și evitați târârea pe suprafețe abrazive. Firele drop-stitch și cusăturile sunt de obicei primul punct de cedare, nu țesătura PVC."
   },
   {
     "id": "sup-choppy-water",
     "q": "Cum vâslesc pe SUP în apă cu valuri sau vânt?",
-    "a": "În valuri: îndoiți genunchii, folosiți o poziție mai lată, scurtați vâslirea și activați trunchiul pentru echilibru. Contra vântului: folosiți un unghi mai jos al vâslei, faceți curse mai scurte și aplecați-vă în față. Vânt lateral: vâsliți pe partea dinspre care bate vântul pentru a corecta derivarea. Cu vânt din spate: faceți surf pe valuri pentru viteză. Începătorii ar trebui să evite vânturile peste 10 mph și să aleagă plăci mai late și mai lungi pentru stabilitate. SUP-ul de turism afarer Ocean Voyager este proiectat să facă față la valuri și vânt moderate."
+    "a": "În valuri: îndoiți genunchii, folosiți o poziție mai lată, scurtați vâslirea și activați trunchiul pentru echilibru. Contra vântului: folosiți un unghi mai jos al vâslei, faceți curse mai scurte și aplecați-vă în față. Vânt lateral: vâsliți pe partea dinspre care bate vântul pentru a corecta derivarea. Cu vânt din spate: faceți surf pe valuri pentru viteză. Începătorii ar trebui să evite vânturile peste 10 mph și să aleagă plăci mai late și mai lungi pentru stabilitate. SUP-ul de turism olagoon Ocean Voyager este proiectat să facă față la valuri și vânt moderate."
   },
   {
     "id": "sup-sustainability",
     "q": "Sunt plăcile SUP umflabile sustenabile pentru mediu?",
-    "a": "SUP-urile umflabile au o amprentă de mediu mai mică decât plăcile rigide în mai multe privințe: folosesc mai puține materii prime în producție, greutatea redusă scade emisiile de transport, iar durabilitatea lor înseamnă mai puține înlocuiri în timp. PVC-ul din plăcile afarer este fără plumb și conform REACH. Practici cheie de sustenabilitate: cumpărați o placă de calitate care rezistă 5-10 ani, reparați puncțiile în loc să înlocuiți, reciclați placa la sfârșitul ciclului de viață prin programe specializate de reciclare a PVC-ului și evitați ambalajele de unică folosință alegând mărci cu genți de transport reutilizabile."
+    "a": "SUP-urile umflabile au o amprentă de mediu mai mică decât plăcile rigide în mai multe privințe: folosesc mai puține materii prime în producție, greutatea redusă scade emisiile de transport, iar durabilitatea lor înseamnă mai puține înlocuiri în timp. PVC-ul din plăcile olagoon este fără plumb și conform REACH. Practici cheie de sustenabilitate: cumpărați o placă de calitate care rezistă 5-10 ani, reparați puncțiile în loc să înlocuiți, reciclați placa la sfârșitul ciclului de viață prin programe specializate de reciclare a PVC-ului și evitați ambalajele de unică folosință alegând mărci cu genți de transport reutilizabile."
   },
   {
     "id": "b2b-moq",
@@ -226,8 +226,8 @@
   },
   {
     "id": "b2b-certification",
-    "q": "Ce certificări poartă produsele OEM afarer?",
-    "a": "Toate produsele OEM/ODM afarer poartă: declarație de conformitate CE (piața UE), UKCA (piața Regatului Unit), sistem de management al calității ISO 9001:2015, audit de conformitate socială BSCI, conformitate a materialelor REACH și RoHS, clasificare EN ISO 25649 pentru bărci umflabile. Certificări suplimentare la cerere: documentație de conformitate US Coast Guard, teste după standarde militare (MIL-STD-810) și asistență pentru certificarea de import în țara de destinație."
+    "q": "Ce certificări poartă produsele OEM olagoon?",
+    "a": "Toate produsele OEM/ODM olagoon poartă: declarație de conformitate CE (piața UE), UKCA (piața Regatului Unit), sistem de management al calității ISO 9001:2015, audit de conformitate socială BSCI, conformitate a materialelor REACH și RoHS, clasificare EN ISO 25649 pentru bărci umflabile. Certificări suplimentare la cerere: documentație de conformitate US Coast Guard, teste după standarde militare (MIL-STD-810) și asistență pentru certificarea de import în țara de destinație."
   },
   {
     "id": "b2b-samples",
@@ -241,7 +241,7 @@
   },
   {
     "id": "b2b-ip-protection",
-    "q": "Cum îmi protejează afarer proprietatea intelectuală și designurile?",
+    "q": "Cum îmi protejează olagoon proprietatea intelectuală și designurile?",
     "a": "Protecția IP este o parte esențială a serviciului nostru OEM. Semnăm un NDA înainte de orice discuție de design. Fișierele de design sunt gestionate pe stații de lucru izolate, cu jurnal de acces. Toate sculele și matrițele rămân proprietatea dumneavoastră exclusivă (platite de dumneavoastră). Nu vom reutiliza matrițele sau designurile dumneavoastră pentru alți clienți. Depozitarea și întreținerea matrițelor sunt incluse pentru conturile active. La încheierea contractului, matrițele fie vă sunt trimise, fie sunt distruse cu documentare video. Respectăm toate drepturile de marcă și brevetele."
   },
   {

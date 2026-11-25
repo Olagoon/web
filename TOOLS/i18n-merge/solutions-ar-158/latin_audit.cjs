@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const dir = path.join(__dirname, 'parts');
 const allow = new Set([
-  'Afarer',
-  'afarer',
+  'OLagoon',
+  'olagoon',
   'SUP',
   'SUPs',
   'iSUP',

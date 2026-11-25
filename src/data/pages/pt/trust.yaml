@@ -1,6 +1,6 @@
 meta:
   title: 'Confiança — Qualidade, Normas e Reputação | {SITE}'
-  description: 'Por que confiar na afarer: certificações CE e ISO, fábrica integrada, referências globais e garantia. Um fabricante profissional de SUP inflável.'
+  description: 'Por que confiar na olagoon: certificações CE e ISO, fábrica integrada, referências globais e garantia. Um fabricante profissional de SUP inflável.'
   keywords:
     - 'fabricante de SUP confiável'
     - 'fábrica de paddle board certificada'
@@ -8,15 +8,15 @@ meta:
     - 'fábrica de SUP certificada'
 hero:
   tagline: Construído para padrões que importam
-  title: Confie na afarer
+  title: Confie na olagoon
   subtitle: |
     Cada produto que construímos é certificado CE — testado para segurança,<br />
     durabilidade e desempenho. Sem atalhos. Sem exceções.
   taglineSection: Certificado. Testado. Comprovado.
-  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
-  imageAlt: Produto afarer passando por teste de qualidade
+  image: https://assets.olagoon.com/images/olagoon/hero/tech-meeting-small.webp
+  imageAlt: Produto olagoon passando por teste de qualidade
 stats:
-  title: afarer em números
+  title: olagoon em números
   stats:
     - title: Certificado CE
       description: Todos os produtos recreativos atendem às normas de segurança da UE
@@ -25,7 +25,7 @@ stats:
     - title: BSCI e REACH
       description: Fabricação ética e conformidade de materiais
     - title: Garantia de 3 Anos
-      description: Em cada produto afarer — sem perguntas
+      description: Em cada produto olagoon — sem perguntas
 features3_certifications:
   title: Certificações e Conformidade
   subtitle: Cada produto é testado e certificado de forma independente de acordo com os padrões internacionais.
@@ -33,7 +33,7 @@ features3_certifications:
   isBeforeContent: true
   items:
     - title: Certificação CE
-      description: Todos os SUPs afarer atendem ao padrão europeu de segurança CE para uso recreativo. Cada produto passa por testes de pressão, flutuabilidade e carga antes de sair da fábrica.
+      description: Todos os SUPs olagoon atendem ao padrão europeu de segurança CE para uso recreativo. Cada produto passa por testes de pressão, flutuabilidade e carga antes de sair da fábrica.
       icon: tabler:certificate
     - title: ISO 9001
       description: Nossa instalação de 12.000 m² em Qingdao opera sob um sistema de gestão da qualidade ISO 9001. Cada lote de produção é rastreável, documentado e inspecionado.
@@ -48,20 +48,20 @@ features3_certifications:
       description: O laboratório de materiais interno testa resistência à tração, resistência UV, integridade de juntas e abrasão para cada lote de tecido antes da produção.
       icon: tabler:microscope
     - title: Garantia de 3 Anos
-      description: Cada produto afarer vem com garantia de três anos contra defeitos de fabricação. Apoiamos o que construímos.
+      description: Cada produto olagoon vem com garantia de três anos contra defeitos de fabricação. Apoiamos o que construímos.
       icon: tabler:shield-check
 testimonials:
   tagline: Confiança do Cliente
   title: O que nossos clientes dizem
-  subtitle: De remadores iniciantes a operadores de frota profissionais — veja por que eles confiam na afarer.
+  subtitle: De remadores iniciantes a operadores de frota profissionais — veja por que eles confiam na olagoon.
   items:
-    - content: Equipamos toda a nossa frota de aluguel com SUPs afarer. Duas temporadas, zero falhas. A certificação CE tornou a aprovação do seguro simples.
+    - content: Equipamos toda a nossa frota de aluguel com SUPs olagoon. Duas temporadas, zero falhas. A certificação CE tornou a aprovação do seguro simples.
       name: Marco V.
       title: Operador turístico, Croácia
     - content: Como comprador de primeira viagem, estava nervoso com a qualidade. A documentação ISO e os relatórios de teste que compartilharam me deram total confiança.
       name: James T.
       title: Proprietário do SUP Explorer 11, Canadá
-    - content: Trabalhamos com a afarer para nossas unidades de patrulha costeira. O processo de controle de qualidade deles é consistente em todos os lotes — essa confiabilidade é importante em operações críticas de missão.
+    - content: Trabalhamos com a olagoon para nossas unidades de patrulha costeira. O processo de controle de qualidade deles é consistente em todos os lotes — essa confiabilidade é importante em operações críticas de missão.
       name: Tenente-Cmdr. Andres
       title: Aquisição governamental, Filipinas
 steps2_manufacturing:
@@ -109,7 +109,7 @@ warranty_section:
   subtitle: Nós apoiamos cada produto com termos de garantia claros, processamento rápido de reivindicações e peças de reposição genuínas.
   items:
     - title: Garantia do Produto de 3 Anos
-      desc: Todos os produtos Afarer possuem garantia de 3 anos contra defeitos de fabricação — falha de costura, defeitos na válvula e delaminação do material sob uso normal.
+      desc: Todos os produtos OLagoon possuem garantia de 3 anos contra defeitos de fabricação — falha de costura, defeitos na válvula e delaminação do material sob uso normal.
     - title: Suporte de Peças Vitalício
       desc: Peças de reposição genuínas — válvulas, kits de reparo, aletas, anéis em D — disponíveis para todos os modelos. Mantemos moldes e ferramentas por no mínimo 5 anos após o término da produção.
     - title: Resposta à Reivindicação em 48 Horas
@@ -149,25 +149,25 @@ faqs_sup:
     - title: Vocês oferecem pacotes completos de SUP?
       description: Sim. Cada prancha SUP é enviada com um pacote completo incluindo remo de alumínio de 3 peças, bomba manual de alta pressão, leash de coil, mochila de viagem e kit de reparo. Alguns modelos também incluem um conjunto de barbatanas removível.
     - title: Qual é a garantia das pranchas SUP?
-      description: Todas as pranchas SUP afarer têm garantia de três anos contra defeitos de fabricação, incluindo falha de junta, defeitos de válvula e delaminação de material sob uso normal.
+      description: Todas as pranchas SUP olagoon têm garantia de três anos contra defeitos de fabricação, incluindo falha de junta, defeitos de válvula e delaminação de material sob uso normal.
     - title: Quanto tempo leva para inflar uma prancha SUP?
-      description: Usando a bomba manual incluída, uma inflagem completa a 15 PSI leva aproximadamente 8 a 12 minutos. Para inflagem mais rápida, recomendamos nossa bomba elétrica afarer 12V, que infla uma prancha em menos de 4 minutos.
+      description: Usando a bomba manual incluída, uma inflagem completa a 15 PSI leva aproximadamente 8 a 12 minutos. Para inflagem mais rápida, recomendamos nossa bomba elétrica olagoon 12V, que infla uma prancha em menos de 4 minutos.
 faqs_materials:
   title: FAQs sobre Material e Cuidados com SUP
   subtitle: Perguntas comuns sobre os materiais, cuidados e armazenamento do nosso SUP inflável.
   columns: 2
   items:
-    - title: Quais materiais são usados nos SUPs infláveis afarer?
+    - title: Quais materiais são usados nos SUPs infláveis olagoon?
       description: Usamos PVC de grau militar (1100 denier) com construção resistente à abrasão e estabilizada contra UV, conforme os regulamentos REACH e RoHS da UE.
     - title: Quanto tempo duram os SUPs infláveis?
       description: Com os cuidados adequados, um SUP inflável de PVC de qualidade dura de 5 a 10 anos. Limpeza regular, proteção contra UV e armazenamento adequado aumentam significativamente a vida útil.
     - title: Qual manutenção é necessária para um SUP inflável?
       description: A manutenção básica inclui enxaguar com água doce após cada uso (especialmente em água salgada), secar antes de guardar, verificar as vedações das válvulas anualmente e evitar a exposição prolongada ao sol quando não estiver em uso.
     - title: Os SUPs infláveis podem ser usados em água salgada?
-      description: Sim. Todos os SUPs infláveis da afarer são projetados para uso em água doce e salgada. Recomendamos enxaguar com água doce e secar completamente após a exposição à água salgada.
+      description: Sim. Todos os SUPs infláveis da olagoon são projetados para uso em água doce e salgada. Recomendamos enxaguar com água doce e secar completamente após a exposição à água salgada.
     - title: Como eu guardo um SUP inflável?
       description: Desflaute, limpe e seque completamente a prancha antes de guardá-la. Enrole de forma frouxa (evite dobras apertadas), armazene em um local fresco e seco, longe da luz solar direta, e mantenha longe de pisos de concreto para evitar a absorção de umidade.
-    - title: Qual é a capacidade de peso dos SUPs infláveis da Afarer?
+    - title: Qual é a capacidade de peso dos SUPs infláveis da OLagoon?
       description: As capacidades de peso variam de 100 kg para nossos modelos menores a mais de 200 kg para os modelos maiores. Cada página de produto lista a classificação de carga máxima para o seu modelo específico.
 cta:
   title: Quer ver as certificações pessoalmente?

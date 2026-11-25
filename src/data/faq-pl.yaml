@@ -8,7 +8,7 @@
     - beginner-guide
 - id: ocean-use
   question: 'Czy mogę go używać w morzu?'
-  answer: 'Tak. Deski SUP afarer są zaprojektowane do użytku w morzu, jeziorach i rzekach. Nasza seria Touring radzi sobie z przybrzeżnymi falami, a wszystkie deski wykorzystują PVC klasy morskiej odporne na korozję słoną wodą. Po użyciu w morzu spłucz deskę słodką wodą.'
+  answer: 'Tak. Deski SUP olagoon są zaprojektowane do użytku w morzu, jeziorach i rzekach. Nasza seria Touring radzi sobie z przybrzeżnymi falami, a wszystkie deski wykorzystują PVC klasy morskiej odporne na korozję słoną wodą. Po użyciu w morzu spłucz deskę słodką wodą.'
   category: general
   relatedProducts: []
   relatedGuides:
@@ -22,7 +22,7 @@
     - sup-maintenance
 - id: travel-sup
   question: 'Czy mogę podróżować z dmuchaną deską SUP?'
-  answer: 'Zdecydowanie. Każda deska afarer mieści się w pokrowcu rozmiaru plecaka spełniającym wymogi bagażowe linii lotniczych. Przy zaledwie 18–22 funtach łatwo zabrać ją na plażę, jezioro czy przez terminale lotnicze.'
+  answer: 'Zdecydowanie. Każda deska olagoon mieści się w pokrowcu rozmiaru plecaka spełniającym wymogi bagażowe linii lotniczych. Przy zaledwie 18–22 funtach łatwo zabrać ją na plażę, jezioro czy przez terminale lotnicze.'
   category: general
   relatedProducts: []
   relatedGuides: []
@@ -35,7 +35,7 @@
     - understanding-specs
 - id: box-contents
   question: 'Co jest w pudełku?'
-  answer: 'Każdy SUP afarer zawiera deskę, plecak podróżny, pompę ręczną dwustronnego działania, wymienną płetwę, smycz spiralną i zestaw naprawczy. Niektóre modele oferują również opcjonalne wiosło z karbonu.'
+  answer: 'Każdy SUP olagoon zawiera deskę, plecak podróżny, pompę ręczną dwustronnego działania, wymienną płetwę, smycz spiralną i zestaw naprawczy. Niektóre modele oferują również opcjonalne wiosło z karbonu.'
   category: product
   relatedProducts: []
   relatedGuides: []
@@ -62,7 +62,7 @@
   relatedGuides: []
 - id: puncture-repair
   question: 'Jak naprawić przebicie?'
-  answer: 'Oczyść obszar, wytnij łatkę z zaokrąglonymi rogami, nałóż klej PVC, mocno dociśnij i odczekaj 24 godziny przed napompowaniem deski. Deski afarer są dostarczane z zestawem naprawczym. Szczegółowe instrukcje znajdziesz w naszym przewodniku naprawy desek dmuchanych.'
+  answer: 'Oczyść obszar, wytnij łatkę z zaokrąglonymi rogami, nałóż klej PVC, mocno dociśnij i odczekaj 24 godziny przed napompowaniem deski. Deski olagoon są dostarczane z zestawem naprawczym. Szczegółowe instrukcje znajdziesz w naszym przewodniku naprawy desek dmuchanych.'
   category: maintenance
   relatedProducts: []
   relatedGuides:
@@ -92,8 +92,8 @@
     - weather-conditions
     - safety-tips
 - id: warranty
-  question: 'Jaka jest gwarancja afarer?'
-  answer: 'Wszystkie produkty afarer są objęte kompleksową gwarancją producenta. Deski SUP mają gwarancję 2 lata lub dłuższą na wady produkcyjne. Gwarancja obejmuje wady materiałowe i wykonania przy normalnym użytkowaniu.'
+  question: 'Jaka jest gwarancja olagoon?'
+  answer: 'Wszystkie produkty olagoon są objęte kompleksową gwarancją producenta. Deski SUP mają gwarancję 2 lata lub dłuższą na wady produkcyjne. Gwarancja obejmuje wady materiałowe i wykonania przy normalnym użytkowaniu.'
   category: warranty
   relatedProducts: []
   relatedGuides: []
@@ -130,13 +130,13 @@
     - choosing-paddle
 - id: material-difference
   question: 'Czym różni się jednowarstwowe PVC od wielowarstwowego w SUP?'
-  answer: 'PVC jest lekkie, przystępne cenowo i łatwe w naprawie za pomocą dołączonego zestawu łatek. PVC klasy wojskowej z powłoką odporną na UV zapewnia najlepszy balans między trwałością a wagą dla rekreacyjnego SUP. afarer stosuje trójwarstwowe laminowane PVC we wszystkich liniach produktów.'
+  answer: 'PVC jest lekkie, przystępne cenowo i łatwe w naprawie za pomocą dołączonego zestawu łatek. PVC klasy wojskowej z powłoką odporną na UV zapewnia najlepszy balans między trwałością a wagą dla rekreacyjnego SUP. olagoon stosuje trójwarstwowe laminowane PVC we wszystkich liniach produktów.'
   category: product
   relatedProducts: []
   relatedGuides: []
 - id: sup-width-stability
   question: 'Jaka szerokość SUP jest najlepsza dla stabilności?'
-  answer: 'Dla początkujących szerokość 33–34 cale zapewnia najlepszy balans między stabilnością a komfortem wiosłowania. Deski węższe niż 32 cale wydają się niestabilne dla nowych użytkowników. afarer SUP Explorer 11 o szerokości 33 cali jest idealny do nauki.'
+  answer: 'Dla początkujących szerokość 33–34 cale zapewnia najlepszy balans między stabilnością a komfortem wiosłowania. Deski węższe niż 32 cale wydają się niestabilne dla nowych użytkowników. olagoon SUP Explorer 11 o szerokości 33 cali jest idealny do nauki.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -152,21 +152,21 @@
   relatedGuides:
     - sup-size-guide
     - paddle-board-size-guide
-- id: afarer-vs-others
-  question: 'Jak afarer wypada na tle innych marek?'
-  answer: 'afarer oferuje najlepszy stosunek jakości do ceny w dmuchanym sprzęcie wodnym. W porównaniu z Red Paddle Co afarer zapewnia 90% osiągów za 60% kosztów. W porównaniu z iRocker afarer stosuje wyższej jakości trójwarstwowe wojskowe PVC i wyższe wartości PSI. W porównaniu z Bluefin afarer oferuje lepsze specyfikacje materiałowe. Dla większości rekreacyjnych użytkowników SUP afarer zapewnia najlepszy balans między jakością a ceną.'
+- id: olagoon-vs-others
+  question: 'Jak olagoon wypada na tle innych marek?'
+  answer: 'olagoon oferuje najlepszy stosunek jakości do ceny w dmuchanym sprzęcie wodnym. W porównaniu z Red Paddle Co olagoon zapewnia 90% osiągów za 60% kosztów. W porównaniu z iRocker olagoon stosuje wyższej jakości trójwarstwowe wojskowe PVC i wyższe wartości PSI. W porównaniu z Bluefin olagoon oferuje lepsze specyfikacje materiałowe. Dla większości rekreacyjnych użytkowników SUP olagoon zapewnia najlepszy balans między jakością a ceną.'
   category: general
   relatedProducts:
     - sup-explorer-11
     - sup-touring-cruiser
   relatedGuides:
     - best-surf-gear-brands-compared
-    - afarer-vs-red-paddle
-    - afarer-vs-irocker
-    - afarer-vs-bluefin
+    - olagoon-vs-red-paddle
+    - olagoon-vs-irocker
+    - olagoon-vs-bluefin
 - id: fishing-sup-setup
   question: 'Czy mogę łowić z deski SUP?'
-  answer: 'Tak. Wędkarstwo z SUP jest coraz popularniejsze, ponieważ pozycja stojąca zapewnia doskonałą widoczność w wodzie. Wybierz deskę o długości co najmniej 11 stóp i szerokości 33–34 cali dla stabilności. Dodaj skrzynkę na mleko z uchwytami na wędki przymocowaną do gum bungee na pokładzie, małą kotwicę i zawsze noś kamizelkę ratunkową. afarer SUP Explorer 11 świetnie sprawdza się w spokojnym wędkarstwie.'
+  answer: 'Tak. Wędkarstwo z SUP jest coraz popularniejsze, ponieważ pozycja stojąca zapewnia doskonałą widoczność w wodzie. Wybierz deskę o długości co najmniej 11 stóp i szerokości 33–34 cali dla stabilności. Dodaj skrzynkę na mleko z uchwytami na wędki przymocowaną do gum bungee na pokładzie, małą kotwicę i zawsze noś kamizelkę ratunkową. olagoon SUP Explorer 11 świetnie sprawdza się w spokojnym wędkarstwie.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -183,7 +183,7 @@
     - yoga-sup-guide
 - id: airline-travel-sup
   question: 'Jakie są zasady linii lotniczych dotyczące podróżowania z dmuchaną deską SUP?'
-  answer: 'Większość linii lotniczych akceptuje plecaki SUP jako bagaż rejestrowany, jeśli ważą mniej niż 23–32 kg. Plecak afarer ma wymiary około 90x40x30 cm i waży zapakowany około 15 kg. Niektóre linie mogą naliczać opłaty za bagaż ponadgabarytowy. Przyjdź wcześnie, spakuj płetwy i pompę osobno do bagażu podręcznego i oznacz plecak jako delikatny. Zawsze sprawdź wcześniej politykę sprzętu sportowego swojej linii lotniczej.'
+  answer: 'Większość linii lotniczych akceptuje plecaki SUP jako bagaż rejestrowany, jeśli ważą mniej niż 23–32 kg. Plecak olagoon ma wymiary około 90x40x30 cm i waży zapakowany około 15 kg. Niektóre linie mogą naliczać opłaty za bagaż ponadgabarytowy. Przyjdź wcześnie, spakuj płetwy i pompę osobno do bagażu podręcznego i oznacz plecak jako delikatny. Zawsze sprawdź wcześniej politykę sprzętu sportowego swojej linii lotniczej.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -204,14 +204,14 @@
   relatedProducts: []
   relatedGuides: []
 - id: oem-custom-branding
-  question: 'Czy mogę umieścić własne logo na produktach afarer?'
+  question: 'Czy mogę umieścić własne logo na produktach olagoon?'
   answer: 'Tak. Nasza usługa OEM obejmuje niestandardowe rozmieszczenie logo, niestandardowe schematy kolorów i niestandardowe opakowania. Oferujemy tampografię, termotransfer i haft, w zależności od typu produktu. Prześlij swoje projekty graficzne i specyfikacje do naszego zespołu sprzedaży, aby otrzymać wycenę i szacowany czas realizacji.'
   category: ordering
   relatedProducts: []
   relatedGuides: []
 - id: sup-inflate-pressure
   question: 'Do ilu PSI powinienem napompować moją deskę SUP?'
-  answer: 'Napompuj deskę do jej maksymalnej wartości PSI, aby uzyskać najlepsze osiągi — zazwyczaj 15–18 PSI dla desek SUP wysokiej jakości. afarer SUP Explorer 11 osiąga najlepsze wyniki przy 15–18 PSI. Zbyt mało powietrza sprawia, że deska jest miękka i źle się steruje. Przepompowanie powyżej maksymalnej wartości może uszkodzić nici drop-stitch. Sprawdź naklejkę przy zaworze, aby poznać konkretną wartość dla Twojej deski.'
+  answer: 'Napompuj deskę do jej maksymalnej wartości PSI, aby uzyskać najlepsze osiągi — zazwyczaj 15–18 PSI dla desek SUP wysokiej jakości. olagoon SUP Explorer 11 osiąga najlepsze wyniki przy 15–18 PSI. Zbyt mało powietrza sprawia, że deska jest miękka i źle się steruje. Przepompowanie powyżej maksymalnej wartości może uszkodzić nici drop-stitch. Sprawdź naklejkę przy zaworze, aby poznać konkretną wartość dla Twojej deski.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -229,7 +229,7 @@
     - inflatable-sup-maintenance
 - id: sup-seated-paddling
   question: 'Czy mogę wiosłować na mojej desce SUP na siedząco?'
-  answer: 'Tak. Wiele desek SUP, w tym afarer Explorer 11, ma uchwyty D-ring umożliwiające montaż siedziska. Wiosłowanie na siedząco to komfortowa opcja na dłuższe wycieczki, wędkarstwo lub gdy chcesz zmienić pozycję na wodzie.'
+  answer: 'Tak. Wiele desek SUP, w tym olagoon Explorer 11, ma uchwyty D-ring umożliwiające montaż siedziska. Wiosłowanie na siedząco to komfortowa opcja na dłuższe wycieczki, wędkarstwo lub gdy chcesz zmienić pozycję na wodzie.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -252,7 +252,7 @@
     - sup-leash-guide
 - id: drop-stitch-technology
   question: 'Czym jest technologia rdzenia drop-stitch i dlaczego ma znaczenie?'
-  answer: 'Technologia rdzenia drop-stitch wykorzystuje tysiące nici poliestrowych łączących górną i dolną warstwę deski PVC. Po napompowaniu do 15-20 PSI nici tworzą sztywną, odporną na skręcanie strukturę, która zachowuje się jak deska z twardym kadłubem. afarer stosuje trójwarstwowe wojskowe PVC z laminowaniem drop-stitch we wszystkich liniach produktów SUP, osiągając sztywność porównywalną z deskami epoxy, przy zachowaniu łatwego transportu.'
+  answer: 'Technologia rdzenia drop-stitch wykorzystuje tysiące nici poliestrowych łączących górną i dolną warstwę deski PVC. Po napompowaniu do 15-20 PSI nici tworzą sztywną, odporną na skręcanie strukturę, która zachowuje się jak deska z twardym kadłubem. olagoon stosuje trójwarstwowe wojskowe PVC z laminowaniem drop-stitch we wszystkich liniach produktów SUP, osiągając sztywność porównywalną z deskami epoxy, przy zachowaniu łatwego transportu.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -262,7 +262,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-inflatable-vs-rigid
   question: 'Dmuchany czy sztywny SUP: co jest najlepsze do różnych celów?'
-  answer: 'Dmuchane deski SUP wyróżniają się przenośnością, łatwym przechowywaniem i amortyzacją — idealne do podróży, dla początkujących i użytku rekreacyjnego. Sztywne deski epoxy zapewniają maksymalną prędkość i ślizg do wyścigów i surfingu. Dla 90% użytkowników SUP deska wysokiej jakości z rdzeniem drop-stitch (15-20 PSI) zapewnia wystarczającą sztywność do turystyki, treningu, jogi i wędkarstwa. Deski afarer dorównują osiągami twardym deskom ze średniej półki, a mimo to mieszczą się w plecaku.'
+  answer: 'Dmuchane deski SUP wyróżniają się przenośnością, łatwym przechowywaniem i amortyzacją — idealne do podróży, dla początkujących i użytku rekreacyjnego. Sztywne deski epoxy zapewniają maksymalną prędkość i ślizg do wyścigów i surfingu. Dla 90% użytkowników SUP deska wysokiej jakości z rdzeniem drop-stitch (15-20 PSI) zapewnia wystarczającą sztywność do turystyki, treningu, jogi i wędkarstwa. Deski olagoon dorównują osiągami twardym deskom ze średniej półki, a mimo to mieszczą się w plecaku.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -272,7 +272,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-skill-progression
   question: 'Jak wygląda typowy postęp w SUP od początkującego do zaawansowanego?'
-  answer: 'Początkujący (sesje 1-3): wstawanie, podstawowe pociągnięcia do przodu, skręty, bezpieczne upadki. Średniozaawansowany (sesje 5-15): efektywna technika wiosłowania, skręty pivot, nawigacja w falach, podstawowe umiejętności ratownicze. Zaawansowany (20+ sesji): starty wyścigowe, skręty wokół boi, surfowanie na małych falach, wiosłowanie z wiatrem. Profesjonalny: wyścigi, surf-SUP, turystyka długodystansowa. Deski afarer wspierają każdy etap: Explorer 11 dla początkujących, Ocean Voyager do turystyki i Cheetah Surge do wiosłowania wyczynowego.'
+  answer: 'Początkujący (sesje 1-3): wstawanie, podstawowe pociągnięcia do przodu, skręty, bezpieczne upadki. Średniozaawansowany (sesje 5-15): efektywna technika wiosłowania, skręty pivot, nawigacja w falach, podstawowe umiejętności ratownicze. Zaawansowany (20+ sesji): starty wyścigowe, skręty wokół boi, surfowanie na małych falach, wiosłowanie z wiatrem. Profesjonalny: wyścigi, surf-SUP, turystyka długodystansowa. Deski olagoon wspierają każdy etap: Explorer 11 dla początkujących, Ocean Voyager do turystyki i Cheetah Surge do wiosłowania wyczynowego.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -284,7 +284,7 @@
     - sup-paddle-guide
 - id: sup-weight-capacity
   question: 'Ile wagi może utrzymać dmuchana deska SUP?'
-  answer: 'Nośność różni się w zależności od objętości deski. Deski afarer: SUP Explorer 11 (260 l, do 100 kg / 220 funtów), Ocean Voyager 12 (310 l, do 140 kg / 308 funtów), Leviathan Wake (350 l, do 180 kg / 396 funtów). Dla optymalnych osiągów utrzymuj całkowite obciążenie (użytkownik + sprzęt) poniżej 80% maksymalnej nośności. Deska pływa wyżej na wodzie i lepiej się steruje bez przeciążenia, szczególnie na falującej wodzie.'
+  answer: 'Nośność różni się w zależności od objętości deski. Deski olagoon: SUP Explorer 11 (260 l, do 100 kg / 220 funtów), Ocean Voyager 12 (310 l, do 140 kg / 308 funtów), Leviathan Wake (350 l, do 180 kg / 396 funtów). Dla optymalnych osiągów utrzymuj całkowite obciążenie (użytkownik + sprzęt) poniżej 80% maksymalnej nośności. Deska pływa wyżej na wodzie i lepiej się steruje bez przeciążenia, szczególnie na falującej wodzie.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -301,7 +301,7 @@
   relatedGuides: []
 - id: sup-inflatable-durability
   question: 'Jak długo wytrzymują dmuchane deski SUP przy odpowiedniej pielęgnacji?'
-  answer: 'Przy odpowiedniej pielęgnacji deska SUP wysokiej jakości wytrzymuje 5-10 lat przy regularnym użytkowaniu rekreacyjnym. Trójwarstwowe wojskowe PVC z powłoką odporną na UV — stosowane we wszystkich deskach afarer — opiera się uszkodzeniom słonecznym, korozji słonej wody i ścieraniu. Kluczowe czynniki żywotności: spłukuj słodką wodą po każdym użyciu, dokładnie susz przed przechowywaniem, trzymaj z dala od bezpośredniego UV, gdy nie jest używana, przechowuj częściowo napompowaną w chłodnym, suchym miejscu i nie ciągnij deski po chropowatych powierzchniach. Nitki drop-stitch i szwy są zazwyczaj pierwszym słabym punktem — nie sama tkanina PVC.'
+  answer: 'Przy odpowiedniej pielęgnacji deska SUP wysokiej jakości wytrzymuje 5-10 lat przy regularnym użytkowaniu rekreacyjnym. Trójwarstwowe wojskowe PVC z powłoką odporną na UV — stosowane we wszystkich deskach olagoon — opiera się uszkodzeniom słonecznym, korozji słonej wody i ścieraniu. Kluczowe czynniki żywotności: spłukuj słodką wodą po każdym użyciu, dokładnie susz przed przechowywaniem, trzymaj z dala od bezpośredniego UV, gdy nie jest używana, przechowuj częściowo napompowaną w chłodnym, suchym miejscu i nie ciągnij deski po chropowatych powierzchniach. Nitki drop-stitch i szwy są zazwyczaj pierwszym słabym punktem — nie sama tkanina PVC.'
   category: maintenance
   relatedProducts:
     - sup-explorer-11
@@ -312,7 +312,7 @@
     - inflatable-sup-repair
 - id: sup-choppy-water
   question: 'Jak wiosłować na SUP w falującej wodzie lub przy wietrze?'
-  answer: 'Na falach: ugnij kolana, stań szerzej, skróć pociągnięcie wiosłem i aktywuj tułów dla równowagi. Pod wiatr: użyj niższego kąta wiosła, wykonuj krótsze pociągnięcia i pochyl się do przodu. Przy wietrze bocznym: wiosłuj po nawietrznej stronie, aby korygować dryf. Z wiatrem: surfuj na falach dla prędkości. Początkujący powinni unikać wiatru powyżej 10 mph i wybierać szersze, dłuższe deski dla stabilności. afarer Ocean Voyager, turystyczna deska SUP, jest zaprojektowana do radzenia sobie z umiarkowanymi falami i warunkami wiatrowymi.'
+  answer: 'Na falach: ugnij kolana, stań szerzej, skróć pociągnięcie wiosłem i aktywuj tułów dla równowagi. Pod wiatr: użyj niższego kąta wiosła, wykonuj krótsze pociągnięcia i pochyl się do przodu. Przy wietrze bocznym: wiosłuj po nawietrznej stronie, aby korygować dryf. Z wiatrem: surfuj na falach dla prędkości. Początkujący powinni unikać wiatru powyżej 10 mph i wybierać szersze, dłuższe deski dla stabilności. olagoon Ocean Voyager, turystyczna deska SUP, jest zaprojektowana do radzenia sobie z umiarkowanymi falami i warunkami wiatrowymi.'
   category: safety
   relatedProducts:
     - sup-ocean-voyager
@@ -323,7 +323,7 @@
     - wind-conditions-sup
 - id: sup-sustainability
   question: 'Czy dmuchane deski SUP są przyjazne dla środowiska?'
-  answer: 'Dmuchane deski SUP mają mniejszy ślad środowiskowy niż deski twarde na kilka sposobów: wykorzystują mniej surowców w produkcji, ich niższa waga zmniejsza emisje transportowe, a ich trwałość oznacza mniej wymian w czasie. PVC w deskach afarer jest wolne od ołowiu i spełnia REACH. Kluczowe praktyki zrównoważone: kup deskę wysokiej jakości, która wytrzyma 5-10 lat, naprawiaj przebicia zamiast wymieniać, oddaj deskę do recyklingu pod koniec jej życia przez specjalistyczne programy recyklingu PVC i unikaj opakowań jednorazowych, wybierając marki stosujące wielorazowe pokrowce.'
+  answer: 'Dmuchane deski SUP mają mniejszy ślad środowiskowy niż deski twarde na kilka sposobów: wykorzystują mniej surowców w produkcji, ich niższa waga zmniejsza emisje transportowe, a ich trwałość oznacza mniej wymian w czasie. PVC w deskach olagoon jest wolne od ołowiu i spełnia REACH. Kluczowe praktyki zrównoważone: kup deskę wysokiej jakości, która wytrzyma 5-10 lat, naprawiaj przebicia zamiast wymieniać, oddaj deskę do recyklingu pod koniec jej życia przez specjalistyczne programy recyklingu PVC i unikaj opakowań jednorazowych, wybierając marki stosujące wielorazowe pokrowce.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -341,8 +341,8 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-certification
-  question: 'Jakie certyfikaty mają produkty OEM afarer?'
-  answer: 'Wszystkie produkty OEM/ODM afarer obejmują: deklarację zgodności CE (rynek UE), UKCA (rynek brytyjski), system zarządzania jakością ISO 9001:2015, audyt odpowiedzialności społecznej BSCI, zgodność materiałową REACH i RoHS, klasyfikację EN ISO 25649 dla dmuchanych boardów SUP. Dodatkowe certyfikaty na życzenie: dokumentacja zgodności z US Coast Guard, testowanie według normy wojskowej (MIL-STD-810) i wsparcie certyfikacji importowej w kraju docelowym.'
+  question: 'Jakie certyfikaty mają produkty OEM olagoon?'
+  answer: 'Wszystkie produkty OEM/ODM olagoon obejmują: deklarację zgodności CE (rynek UE), UKCA (rynek brytyjski), system zarządzania jakością ISO 9001:2015, audyt odpowiedzialności społecznej BSCI, zgodność materiałową REACH i RoHS, klasyfikację EN ISO 25649 dla dmuchanych boardów SUP. Dodatkowe certyfikaty na życzenie: dokumentacja zgodności z US Coast Guard, testowanie według normy wojskowej (MIL-STD-810) i wsparcie certyfikacji importowej w kraju docelowym.'
   category: b2b
   relatedProducts: []
   relatedGuides: []
@@ -359,7 +359,7 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-ip-protection
-  question: 'Jak afarer chroni moją własność intelektualną i projekty?'
+  question: 'Jak olagoon chroni moją własność intelektualną i projekty?'
   answer: 'Ochrona własności intelektualnej to kluczowy element naszej usługi OEM. Podpisujemy umowy NDA przed każdą dyskusją projektową. Pliki projektowe są przetwarzane na izolowanych stacjach roboczych z rejestracją dostępu. Wszystkie narzędzia i formy pozostają Twoją wyłączną własnością (opłacone przez Ciebie). Nie wykorzystujemy ponownie Twoich form ani projektów dla innych klientów. Przechowywanie i konserwacja form są wliczone dla aktywnych kont. Po zakończeniu umowy formy są wysyłane do Ciebie lub niszczone z dokumentacją wideo. Szanujemy wszystkie prawa znaków towarowych i patentów.'
   category: b2b
   relatedProducts: []

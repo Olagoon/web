@@ -1,16 +1,16 @@
 meta:
   title: B2B-kundeløsningsmatrise | {SITE}
-  description: Fullstendig Afarer B2B-kundeløsningsmatrise som dekker 24 kundetyper — fra friluftsstartups til marine bevaringsinstitusjoner.
+  description: Fullstendig OLagoon B2B-kundeløsningsmatrise som dekker 24 kundetyper — fra friluftsstartups til marine bevaringsinstitusjoner.
 hero:
   tagline: B2B-kundeløsninger
   title: 24 B2B-løsninger<br />Tilpasset din virksomhet
-  subtitle: Fra gründere til globale distributører — finn den nøyaktige Afarer-løsningen designet for din forretningsmodell, bransje og mål.
+  subtitle: Fra gründere til globale distributører — finn den nøyaktige OLagoon-løsningen designet for din forretningsmodell, bransje og mål.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
-    alt: Afarer-fabrikk og produksjonsanlegg
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
+    alt: OLagoon-fabrikk og produksjonsanlegg
 solutions:
   title: Kundeløsningsmatrix
-  subtitle: Enhver kundetype, deres kjernebehov, og Afarer-løsningssiden utviklet for dem.
+  subtitle: Enhver kundetype, deres kjernebehov, og OLagoon-løsningssiden utviklet for dem.
   items:
     - clientType: Grunnlegger av friluftsbedrift
       need: Merkevareutvikling

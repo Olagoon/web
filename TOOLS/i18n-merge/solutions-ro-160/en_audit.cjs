@@ -9,8 +9,8 @@ const WORK = 'C:/Users/Helleo/AppData/Local/Temp/deveco/ro_sol_work/parts';
 // tokens allowed to appear verbatim (brands/acronyms/loanwords legit in Romanian)
 const ALLOWED = new Set([
   // brand/product/company/org names (kept Latin per ro convention)
-  'Afarer',
-  'Afarer.',
+  'OLagoon',
+  'OLagoon.',
   'GoPro',
   'HERO12',
   'Black',

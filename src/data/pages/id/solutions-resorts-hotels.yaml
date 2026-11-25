@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Resor & Hotel'
   title: 'Ubah Tepi Air Anda Menjadi Pusat Pendapatan<br />Dengan Armada SUP Premium'
-  subtitle: 'Afarer melengkapi resor di seluruh dunia dengan armada SUP tiup kelas komersial — dari paket pemula 20 papan hingga program flagship 100+ papan. Identitas merek kustom, pelatihan staf, dan suku cadang pengganti disertakan.'
+  subtitle: 'OLagoon melengkapi resor di seluruh dunia dengan armada SUP tiup kelas komersial — dari paket pemula 20 papan hingga program flagship 100+ papan. Identitas merek kustom, pelatihan staf, dan suku cadang pengganti disertakan.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Tamu resor menikmati SUP boarding di pantai yang masih alami'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Kembalikan seluruh investasi armada dalam satu musim'
     - metric: '40%'
       label: 'Kenaikan Pendapatan'
-      detail: 'Rata-rata peningkatan setelah beralih ke armada Afarer'
+      detail: 'Rata-rata peningkatan setelah beralih ke armada OLagoon'
     - metric: '500+'
       label: 'Siklus Sewa Per Papan'
       detail: 'Daya tahan kelas komersial untuk penggunaan harian'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Dapatkan Paket Flagship'
 
 case_study:
-  quote: 'Sejak beralih ke Afarer, pendapatan sewa SUP kami meningkat 40%. Biaya penggantian papan turun 60%. Kami mengembalikan seluruh investasi armada dalam 4 bulan.'
+  quote: 'Sejak beralih ke OLagoon, pendapatan sewa SUP kami meningkat 40%. Biaya penggantian papan turun 60%. Kami mengembalikan seluruh investasi armada dalam 4 bulan.'
   author: 'Manajer Aktivitas Air'
   location: 'Resor bintang 5, Maladewa'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 Bulan'
 
 features:
-  title: 'Mengapa Resor Memilih Afarer'
+  title: 'Mengapa Resor Memilih OLagoon'
   subtitle: 'Daya tahan kelas komersial, logistik global, dan mitra yang memahami perhotelan.'
   items:
     - title: '500+ Siklus Sewa'

@@ -1,6 +1,6 @@
 meta:
-  title: Deski Paddle Afarer | Płyń dalej. Mocniej.
-  description: Odkryj dmuchane deski paddle Afarer do uniwersalnego pływania, turystyki, jogi, wędkarstwa i przygód na świeżym powietrzu. Znajdź idealny SUP i odkrywaj więcej na wodzie.
+  title: Deski Paddle OLagoon | Płyń dalej. Mocniej.
+  description: Odkryj dmuchane deski paddle OLagoon do uniwersalnego pływania, turystyki, jogi, wędkarstwa i przygód na świeżym powietrzu. Znajdź idealny SUP i odkrywaj więcej na wodzie.
   keywords:
     - dmuchana deska paddle
     - dmuchany sup
@@ -14,7 +14,7 @@ hero:
   tagline: Dmuchane Deski Paddle
   title: Dmuchane Deski Paddle na Każdą Przygodę
   slogan: Płyń dalej. Mocniej.
-  subtitle: Odkryj wolność paddleboardingu z Afarer. Poznaj przemyślane dmuchane deski SUP na relaksujące dni nad jeziorem, przybrzeżne przygody, fitness i wszystko pomiędzy.
+  subtitle: Odkryj wolność paddleboardingu z OLagoon. Poznaj przemyślane dmuchane deski SUP na relaksujące dni nad jeziorem, przybrzeżne przygody, fitness i wszystko pomiędzy.
   taglineSection: Zbudowane dla pewności. Zaprojektowane, by wyróżniać się.
   actions:
     - variant: primary
@@ -24,16 +24,16 @@ hero:
     - text: Odkryj deski SUP
       href: /inflatable-sup/
       icon: tabler:waves
-    - text: Dlaczego Afarer
-      href: /afarer-story/
+    - text: Dlaczego OLagoon
+      href: /olagoon-story/
       icon: tabler:heart
   image:
     src: ~/assets/images/hero-image.webp
-    alt: Dmuchane deski paddle Afarer sunące po spokojnej wodzie o wschodzie słońca — zbudowane na każdą przygodę
+    alt: Dmuchane deski paddle OLagoon sunące po spokojnej wodzie o wschodzie słońca — zbudowane na każdą przygodę
 who_we_serve:
   tagline: Płyń Razem z Nami
   title: Znajdź Swoją Drogę po Wodzie
-  subtitle: Każdy paddler ma inną wizję przygody. Odkryj deskę SUP Afarer zaprojektowaną pod Twój styl pływania.
+  subtitle: Każdy paddler ma inną wizję przygody. Odkryj deskę SUP OLagoon zaprojektowaną pod Twój styl pływania.
   items:
     - title: Początkujący i Rekreacyjni Paddleboardziści
       keywords: dmuchany sup dla początkujących, uniwersalna deska paddle, stabilny sup

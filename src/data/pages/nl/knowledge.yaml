@@ -1,6 +1,6 @@
 meta:
   title: 'Kennis — SUP-gidsen | {SITE}'
-  description: 'afarer kennisbank: gidsen over opblaasbare SUPs, paddle board materialen, boardkeuze en inzichten uit de sector voor merken en professionals.'
+  description: 'olagoon kennisbank: gidsen over opblaasbare SUPs, paddle board materialen, boardkeuze en inzichten uit de sector voor merken en professionals.'
   keywords:
     - 'SUP kennis'
     - 'opblaasbare SUP gids'
@@ -16,7 +16,7 @@ hero:
 clusters:
   tagline: Kennisclusters
   title: Verken op onderwerp
-  subtitle: Diepgaande duiken in de technologie, veiligheid en vaardigheden achter elk afarer product.
+  subtitle: Diepgaande duiken in de technologie, veiligheid en vaardigheden achter elk olagoon product.
   items:
     - title: SUP Kennis
       description: Van het kiezen van je eerste board tot geavanceerde touringtechnieken — alles over stand-up paddle boarding.
@@ -47,7 +47,7 @@ clusters:
         - Reparatietechnieken voor opblaasproducten
         - Weer- en waterconditiebewustzijn
     - title: Technologie
-      description: De techniek achter afarer producten — materialen, constructiemethoden en kwaliteitstesten.
+      description: De techniek achter olagoon producten — materialen, constructiemethoden en kwaliteitstesten.
       icon: tabler:microscope
       topics:
         - Marine-grade PVC technologie

@@ -1,9 +1,9 @@
 // Pass 2: bare-filename check for the 262 pass-1 orphan candidates, scanning src/ + public/ only
 const fs = require('fs');
 const path = require('path');
-const IMG_DIR = 'E:/github/afarer/public/images';
-const SRC = 'E:/github/afarer/src';
-const PUB = 'E:/github/afarer/public';
+const IMG_DIR = 'E:/github/olagoon/public/images';
+const SRC = 'E:/github/olagoon/src';
+const PUB = 'E:/github/olagoon/public';
 
 function walkFiles(dir, exts, out) {
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {

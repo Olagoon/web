@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer/src/data';
+const ROOT = 'E:/github/olagoon/src/data';
 const issues = [];
 const frag = [];
 const stats = { files: 0, values: 0, skipped: { fullUrl: 0, mailto: 0, anchor: 0, rel: 0 }, clean: 0 };
@@ -53,7 +53,7 @@ function check(v, loc) {
 }
 
 function scanFile(fp) {
-  const rel = path.relative('E:/github/afarer/src', fp).replace(/\\/g, '/');
+  const rel = path.relative('E:/github/olagoon/src', fp).replace(/\\/g, '/');
   const text = fs.readFileSync(fp, 'utf8');
   const lines = text.split(/\r?\n/);
   lines.forEach((ln, i) => {

@@ -19,8 +19,8 @@ module.exports = [
   },
   {
     f: 'src/data/site/i18n-config.json',
-    find: '    "home.gallery.sup.desc": "Padlere udforsker søer, floder og kyster på afarer nafukovací SUP.",',
-    rep: '    "home.gallery.sup.desc": "Padlere udforsker søer, floder og kyster på afarer oppustelige SUP.",',
+    find: '    "home.gallery.sup.desc": "Padlere udforsker søer, floder og kyster på olagoon nafukovací SUP.",',
+    rep: '    "home.gallery.sup.desc": "Padlere udforsker søer, floder og kyster på olagoon oppustelige SUP.",',
   },
   {
     f: 'src/data/site/i18n-config.json',

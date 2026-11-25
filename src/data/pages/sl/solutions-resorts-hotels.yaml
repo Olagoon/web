@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Letovišča in hoteli'
   title: 'Spremenite svojo obalo v center prihodkov<br />s premijskimi flotami SUP'
-  subtitle: 'Afarer opremlja letovišča po vsem svetu s komercialnimi flotami napihljivih SUP desk — od začetnih paketov z 20 deskami do vodilnih programov s 100+ deskami. Vključno z označevanjem po meri, usposabljanjem osebja in rezervnimi deli.'
+  subtitle: 'OLagoon opremlja letovišča po vsem svetu s komercialnimi flotami napihljivih SUP desk — od začetnih paketov z 20 deskami do vodilnih programov s 100+ deskami. Vključno z označevanjem po meri, usposabljanjem osebja in rezervnimi deli.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Gosti letovišča uživajo v SUP deskanju na nedotaknjeni plaži'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Povračilo celotne naložbe v floto v eni sezoni'
     - metric: '40%'
       label: 'Povečanje prihodkov'
-      detail: 'Povprečno povečanje po prehodu na flote Afarer'
+      detail: 'Povprečno povečanje po prehodu na flote OLagoon'
     - metric: '500+'
       label: 'Ciklov najema na desko'
       detail: 'Komercialna trajnost za vsakodnevno uporabo'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Pridobite vodilni paket'
 
 case_study:
-  quote: 'Od prehoda na Afarer se je naš prihodek iz najema SUP povečal za 40 %. Stroški zamenjave desk so se zmanjšali za 60 %. Celotno naložbo v floto smo povrnili v 4 mesecih.'
+  quote: 'Od prehoda na OLagoon se je naš prihodek iz najema SUP povečal za 40 %. Stroški zamenjave desk so se zmanjšali za 60 %. Celotno naložbo v floto smo povrnili v 4 mesecih.'
   author: 'Vodja vodnih dejavnosti'
   location: 'petzvezdično letovišče, Maldivi'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 meseci'
 
 features:
-  title: 'Zakaj letovišča izbirajo Afarer'
+  title: 'Zakaj letovišča izbirajo OLagoon'
   subtitle: 'Komercialna trajnost, globalna logistika in partner, ki razume gostinstvo.'
   items:
     - title: '500+ ciklov najema'

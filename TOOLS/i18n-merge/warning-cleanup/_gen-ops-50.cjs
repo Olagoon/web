@@ -32,8 +32,8 @@
 // Output: _ops-data-50.cjs (57 ops = 19x3 block ops). See TECH.md L40.
 const fs = require('fs');
 
-const REPO = 'E:/github/afarer';
-const DIR = 'E:/github/afarer/TOOLS/i18n-merge/warning-cleanup';
+const REPO = 'E:/github/olagoon';
+const DIR = 'E:/github/olagoon/TOOLS/i18n-merge/warning-cleanup';
 const yaml = require(REPO + '/node_modules/js-yaml');
 const prettier = require(REPO + '/node_modules/prettier');
 

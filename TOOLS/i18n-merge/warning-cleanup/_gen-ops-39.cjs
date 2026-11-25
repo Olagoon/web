@@ -19,7 +19,7 @@
 // ④ ISO 9001 变体: da/es/pl/tr 均为合法翻译/连字符复合词, 无损坏
 // ⑥ da/fi "tsm" 千分位: 该页不存在 (da/fi 无 sup-manufacturer.yaml); da/fi SEP 千分位为全文件族
 //    问题 (~33 行/语言) → 专项 shard (按 L25⑧ 全 key 配对扫描计划)
-// ⑩ Vatrad vs Aquafarer: EN 根 SSOT 自身并存 (业务决定), locale 与 EN 一致 → 不动
+// ⑩ Vatrad vs Olagoon: EN 根 SSOT 自身并存 (业务决定), locale 与 EN 一致 → 不动
 //
 // 安全规则: 非 ASCII find/rep 一律运行时从磁盘提取 + ASCII/unicode-escape 变换 (L26③ 教训)
 const fs = require('fs');
@@ -155,7 +155,7 @@ for (const lc of ['cs', 'da', 'fr', 'ro', 'th', 'el']) {
   const SQ = '\u33A1'; // ㎡
   const MS = 'm\u00B2'; // m²
   for (const f of [
-    'afarer-story',
+    'olagoon-story',
     'factory-capacity',
     'factory',
     'media',

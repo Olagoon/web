@@ -1,5 +1,5 @@
 const fs = require('fs');
-const path = 'E:/github/afarer/src/data/biz-solutions/index.ts';
+const path = 'E:/github/olagoon/src/data/biz-solutions/index.ts';
 const s = fs.readFileSync(path, 'utf8');
 const start = s.indexOf('const solutions: BizSolution[] = ');
 const literal = s.slice(s.indexOf('=', start) + 1, s.indexOf('\nexport default'));
@@ -13,7 +13,7 @@ for (const sol of solutions) {
     challenge: sol.challenge,
     solutions: sol.solutions,
     caseStudy: sol.caseStudy,
-    whyAfarer: sol.whyAfarer,
+    whyOLagoon: sol.whyOLagoon,
     faqs: sol.faqs,
     cta: sol.cta,
   };
@@ -25,7 +25,7 @@ for (const sol of solutions) {
     'faqs:' + sol.faqs.length,
     'items:' + sol.solutions.items.length,
     'problems:' + sol.challenge.problems.length,
-    'why:' + sol.whyAfarer.items.length,
+    'why:' + sol.whyOLagoon.items.length,
     'moreCS:' + (sol.caseStudy.moreCaseStudies ? sol.caseStudy.moreCaseStudies.length : 0)
   );
 }

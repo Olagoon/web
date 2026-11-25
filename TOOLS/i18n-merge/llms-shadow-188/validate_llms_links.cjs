@@ -1,12 +1,12 @@
 // Validate all markdown-link URLs in public llms.txt (root + per-locale) against route-manifest
 const fs = require('fs');
 const path = require('path');
-const PUBLIC = 'E:/github/afarer/public';
+const PUBLIC = 'E:/github/olagoon/public';
 const manifest = new Set(
-  JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/route-manifest.json', 'utf8'))
+  JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/route-manifest.json', 'utf8'))
 );
 const ok = (u) => {
-  const p = u.replace(/^https:\/\/afarer\.com/, '').replace(/\/+$/, '') || '/';
+  const p = u.replace(/^https:\/\/olagoon\.com/, '').replace(/\/+$/, '') || '/';
   return manifest.has(p) || manifest.has('/en' + p) || p === '/';
 };
 
@@ -23,7 +23,7 @@ for (const e of fs.readdirSync(PUBLIC, { withFileTypes: true })) {
 const badList = [];
 for (const f of files) {
   const c = fs.readFileSync(f, 'utf8');
-  const links = [...c.matchAll(/\]\((https:\/\/afarer\.com\/[^\s)]+)\)/g)].map((m) => m[1]);
+  const links = [...c.matchAll(/\]\((https:\/\/olagoon\.com\/[^\s)]+)\)/g)].map((m) => m[1]);
   for (const u of links) {
     total++;
     if (!ok(u)) {

@@ -1,9 +1,9 @@
 const fs = require('fs');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
-const langs = yaml.load(fs.readFileSync('E:/github/afarer/src/data/site/languages.yaml', 'utf8'));
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
+const langs = yaml.load(fs.readFileSync('E:/github/olagoon/src/data/site/languages.yaml', 'utf8'));
 const hr = langs.find((l) => l.locale === 'hr');
 console.log('hr in languages.yaml:', JSON.stringify(hr));
-const pc = JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/page-content.json', 'utf8'));
+const pc = JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/page-content.json', 'utf8'));
 const keys = [
   'hr/site-use-cases',
   'hr/site-tech-cards',

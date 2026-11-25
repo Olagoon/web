@@ -2,11 +2,11 @@ const fs = require('fs');
 const path = require('path');
 
 const dir = __dirname;
-const dist = 'E:/github/afarer/dist';
+const dist = 'E:/github/olagoon/dist';
 const NEW_LOCALES = ['ar', 'el', 'fi', 'ro', 'th', 'tr'];
 const BASELINE94 = ['es', 'it', 'ja', 'ko', 'pt', 'ru'];
 const BASELINE95 = ['cs', 'da', 'nl', 'no', 'pl', 'sv'];
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const decode = (s) =>
   s
@@ -54,7 +54,7 @@ for (const loc of NEW_LOCALES) {
 
 // 2) baseline 94 + 95 locales: yaml q+a still rendered (regression check)
 for (const loc of BASELINE94.concat(BASELINE95)) {
-  const data = yaml.load(fs.readFileSync(`E:/github/afarer/src/data/faq-${loc}.yaml`, 'utf8'));
+  const data = yaml.load(fs.readFileSync(`E:/github/olagoon/src/data/faq-${loc}.yaml`, 'utf8'));
   const html = readPage(path.join(loc, 'faq', 'index.html'));
   if (!html) {
     fail++;
@@ -73,7 +73,7 @@ for (const loc of BASELINE94.concat(BASELINE95)) {
 
 // 3) baseline de/fr: yaml q+a still rendered
 for (const loc of ['de', 'fr']) {
-  const data = yaml.load(fs.readFileSync(`E:/github/afarer/src/data/faq-${loc}.yaml`, 'utf8'));
+  const data = yaml.load(fs.readFileSync(`E:/github/olagoon/src/data/faq-${loc}.yaml`, 'utf8'));
   const html = readPage(path.join(loc, 'faq', 'index.html'));
   if (!html) {
     fail++;
@@ -121,7 +121,7 @@ for (const p of [path.join('en', 'faq', 'index.html'), path.join('faq', 'index.h
   } else {
     pass++;
   }
-  const rm = JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/route-manifest.json', 'utf8'));
+  const rm = JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/route-manifest.json', 'utf8'));
   const rmCount = Array.isArray(rm) ? rm.length : Object.keys(rm).length;
   console.log(`route-manifest.json count: ${rmCount}`);
   if (rmCount !== 13858) {

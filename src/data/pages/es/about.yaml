@@ -1,6 +1,6 @@
 meta:
-  title: 'Acerca de Afarer — Marca de SUP Hinchables y Deportes Acuáticos | {SITE}'
-  description: 'Afarer es una marca global de SUP hinchables y deportes acuáticos, gestionada por Aquafarer LLC (EE. UU.) y construida por nuestro equipo de operaciones en Qingdao. Descubra nuestra historia, ingeniería, calidad certificada y programas de socios por país.'
+  title: 'Acerca de OLagoon — Marca de SUP Hinchables y Deportes Acuáticos | {SITE}'
+  description: 'OLagoon es una marca global de SUP hinchables y deportes acuáticos, gestionada por Olagoon LLC (EE. UU.) y construida por nuestro equipo de operaciones en Qingdao. Descubra nuestra historia, ingeniería, calidad certificada y programas de socios por país.'
   keywords:
     - 'marca de SUP hinchable'
     - 'marca de deportes acuáticos'
@@ -10,11 +10,11 @@ meta:
 hero:
   tagline: Sobre nosotros
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: Taller afarer
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: Taller olagoon
   title: |
     Ingeniería marina, <br />
-    hecha a la manera <span class="text-accent dark:text-white">afarer</span>
+    hecha a la manera <span class="text-accent dark:text-white">olagoon</span>
   subtitle: 'Empezamos en un taller costero con una sola tabla y una convicción firme: los productos marinos deben diseñarse como si importaran, porque importan. Hoy enviamos a más de 40 países, pero cada casco sigue pasando por las mismas manos que fundaron la empresa.'
 stats:
   title: En cifras
@@ -57,7 +57,7 @@ features3_more:
       description: Diseño proyecto por proyecto para clientes comerciales, científicos y militares.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Diseño e ingeniería de tablas
 steps2_values:
   title: Nuestros valores
@@ -74,7 +74,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Hitos
-  subtitle: Una versión breve de la historia de afarer.
+  subtitle: Una versión breve de la historia de olagoon.
   isReversed: true
   items:
     - title: Fundado en un taller costero
@@ -109,7 +109,7 @@ brand_hub_cards:
     desc: Envíos a más de 50 países desde nuestra instalación en Qingdao con socios de servicio autorizados en Europa, Asia-Pacífico y América.
     link: /brand-global-presence/
     link_label: Más información →
-  - title: Por qué afarer
+  - title: Por qué olagoon
     desc: Una marca construida sobre calidad verificada — doble certificación (ISO 9001 + BSCI), cumplimiento CE y colaboraciones exclusivas por país con colecciones co-branded limitadas para empresas de deportes acuáticos.
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Más información →

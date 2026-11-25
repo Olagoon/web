@@ -90,7 +90,7 @@ for (const loc of LOCALES) {
     if (!m || !m.title || !m.description) {
       issues.push(`${loc}/${slug}: meta draft missing title/description for reuse`);
       locFail++;
-    } else if (!m.title.includes(' \u2014 ') || !m.title.endsWith(' | Afarer')) {
+    } else if (!m.title.includes(' \u2014 ') || !m.title.endsWith(' | OLagoon')) {
       issues.push(`${loc}/${slug}: meta title malformed for client/product split: [${m.title}]`);
       locFail++;
     }

@@ -17,7 +17,7 @@ module.exports = {
       'afar Academy: gidsen voor opblaasbare paddle boards, stand up paddle-technieken, nautische veiligheid en kennis van materialen voor beginners en professionals.',
     keywords: ['stand up paddle leren', 'SUP beginnersgids', 'paddle board basis', 'SUP-techniek', 'SUP-lessen'],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Ons Verhaal — Fabrikant van Opblaasbare SUPs & Boten | {SITE}',
     description:
       'Van een kustwerkplaats tot een wereldwijde maritieme fabrikant: het afaar-verhaal van techniek en vrijheid op het water met een gecertificeerde fabriek van 12.000 m².',
@@ -51,7 +51,7 @@ module.exports = {
       'afar werd in 2012 in Qingdao opgericht door maritieme ingenieurs, materiaalwetenschappers en watersportliefhebbers. Leer het team achter de fabriek kennen.',
     keywords: ['afar team', 'maritieme ingenieurs', 'fabrikant opblaasbare SUP', 'SUP-fabrieksteam'],
   },
-  'brand-why-afarer': {
+  'brand-why-olagoon': {
     title: 'Waarom afar — 7 Redenen Waarom Wereldwijde Merken Ons Kiezen | {SITE}',
     description:
       'Waarom wereldwijde merken afar kiezen: CE- en ISO-certificeringen, flexibele MOQ, aangepaste mallen en levertijden van 30 dagen vanuit een professionele SUP-fabriek.',

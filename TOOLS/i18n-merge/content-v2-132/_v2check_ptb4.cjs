@@ -1,19 +1,19 @@
 const fs = require('fs');
 const path = require('path');
 const { createRequire } = require('module');
-const req = createRequire('E:\\github\\afarer\\node_modules\\js-yaml\\package.json');
+const req = createRequire('E:\\github\\olagoon\\node_modules\\js-yaml\\package.json');
 const yaml = req('js-yaml');
 
 const TMP = 'C:\\Users\\Helleo\\AppData\\Local\\Temp\\deveco';
 const SLUGS = [
-  'afarer-airdeck-360-review',
-  'afarer-airdeck-270-review',
-  'afarer-rib-330-review',
-  'afarer-rib-450-patrol-review',
-  'afarer-life-vest-classic-review',
-  'afarer-life-vest-pro-review',
-  'afarer-oars-pump-set-review',
-  'afarer-zb-mt350-review',
+  'olagoon-airdeck-360-review',
+  'olagoon-airdeck-270-review',
+  'olagoon-rib-330-review',
+  'olagoon-rib-450-patrol-review',
+  'olagoon-life-vest-classic-review',
+  'olagoon-life-vest-pro-review',
+  'olagoon-oars-pump-set-review',
+  'olagoon-zb-mt350-review',
   'sup-vs-surfboard',
   'kayak-vs-sup',
   'sup-fitness-workout',
@@ -102,8 +102,8 @@ function checkLang(lang, parts, expected) {
   if (hits.length) bad(lang + ' possible EN residue in ' + hits.length + ' fields, e.g.: ' + hits[0].slice(0, 80));
   else ok(lang + ' no obvious EN residue');
   const lower = joined.toLowerCase();
-  if (lower.includes('afarer ')) ok(lang + ' brand afarer present');
-  else bad(lang + ' brand afarer missing');
+  if (lower.includes('olagoon ')) ok(lang + ' brand olagoon present');
+  else bad(lang + ' brand olagoon missing');
 }
 
 checkLang(

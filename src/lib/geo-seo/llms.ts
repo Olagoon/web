@@ -7,7 +7,7 @@ export interface LlmsSection {
 
 export function buildLlmsTxt(sections: LlmsSection[], extra: { description: string; summary: string }): string {
   const lines: string[] = [];
-  lines.push('# afarer — AI Site Overview');
+  lines.push('# olagoon — AI Site Overview');
   lines.push(`> Site: ${SITE_URL}`);
   lines.push('> Languages: EN, FR, DE, ES, PT, IT, JA, KO, RU, PL, ZH, AR (13 languages)');
   lines.push('');
@@ -35,11 +35,11 @@ export function buildLlmsFullTxt(
   extra: { about: string; facts: string[]; summary: string }
 ): string {
   const lines: string[] = [];
-  lines.push('# afarer — Complete Site Knowledge (LLMs-Full)');
+  lines.push('# olagoon — Complete Site Knowledge (LLMs-Full)');
   lines.push(`> Site: ${SITE_URL}`);
   lines.push('> Last updated: 2026-07');
   lines.push('');
-  lines.push('## About afarer');
+  lines.push('## About olagoon');
   lines.push(extra.about);
   lines.push('');
 

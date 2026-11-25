@@ -1,13 +1,13 @@
 meta:
   title: 'Dobavljač opreme za iznajmljivanje SUP-a i rješenja za flote | {SITE}'
-  description: 'Dobavljač opreme za iznajmljivanje SUP-a za operatere iznajmljivanja. Komercijalne SUP daske za veliku rotaciju, konstruirane za svakodnevnu upotrebu — PVC otporan na UV zrake, ojačani šavovi, materijali koji se brzo suše. Povećajte svoj posao iznajmljivanja s Afarerom.'
+  description: 'Dobavljač opreme za iznajmljivanje SUP-a za operatere iznajmljivanja. Komercijalne SUP daske za veliku rotaciju, konstruirane za svakodnevnu upotrebu — PVC otporan na UV zrake, ojačani šavovi, materijali koji se brzo suše. Povećajte svoj posao iznajmljivanja s OLagoonom.'
 
 hero:
   tagline: 'Operateri iznajmljivanja'
   title: 'Povećajte svoj posao iznajmljivanja<br />sa samopouzdanjem'
   subtitle: 'Dobavljač opreme za iznajmljivanje SUP-a za operatere iznajmljivanja. SUP daske za veliku rotaciju, konstruirane za svakodnevno iznajmljivanje, 365 dana u godini. Vaši prihodi nikad ne uzimaju slobodan dan.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Prometna pozornica za iznajmljivanje s SUP daskama spremnim za goste'
 
 features:

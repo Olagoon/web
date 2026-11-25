@@ -7,8 +7,8 @@ hero:
   tagline: Laboratorio 06
   title: Laatu- ja tarkastuslaboratorio
   subtitle: Riippumaton vahvistus — jokainen koe on läpäisty ennen toimitusta
-  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
-  image_alt: Afarerin laadunvalvontalaboratorion UV-testaus
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
+  image_alt: OLagoonin laadunvalvontalaboratorion UV-testaus
 intro: >-
   Jokainen lauta, joka lähtee verstaastamme, sisältää sertifikaatin, että se on läpäissyt määritellyn joukon laaduntarkastuksia ja materiaalitestejä. Laatu- ja tarkastuslaboratoriomme on riippumaton toiminto organisaatiossa — se raportoi suoraan toimitusjohtajalle, ei tuotannolle — mikä varmistaa,
   että mikään kaupallinen paine ei voi horjuttaa tarkastusporttia. Jos materiaalierä tai valmis lauta ei täytä julkistettua määritystä, laboratoriolta on oikeus keskeyttää lähetys, kunnes poikkeama on korjattu.
@@ -128,7 +128,7 @@ content_html: >
 
   <h2>Sitoumuksesi sinulle</h2>
 
-  <p>Kun saat Afarer-laudan, saat myös sen laatudossierin — kokoelman testituloksia, jotka koskevat juuri sinun lautaasi. Kangas-erätodistus, hitsausirtonaisuustestit, kammi-ilmatestin lokit ja toimituksen ennakkotarkastuslista. Jokainen numero on jäljitettävissä. Jokainen tarkastaja on
+  <p>Kun saat OLagoon-laudan, saat myös sen laatudossierin — kokoelman testituloksia, jotka koskevat juuri sinun lautaasi. Kangas-erätodistus, hitsausirtonaisuustestit, kammi-ilmatestin lokit ja toimituksen ennakkotarkastuslista. Jokainen numero on jäljitettävissä. Jokainen tarkastaja on
   tunnistettu. Tämä ei ole pelkkää paperityötä — se on lupaus siitä, että toimittamamme oli se, minkä määritimme.</p>
 
   <p>Jos sinulla koskaan on laatuhuoleni, voit ottaa yhteyttä laboratorioon suoraan — yhteystiedot ovat tulostettu vaatimustenmukaisuustodistuksellesi. Otamme jokaisen kysymyksen vakavasti ja sitoudumme muodolliseen tutkintaan 48 tunnin sisään.</p>

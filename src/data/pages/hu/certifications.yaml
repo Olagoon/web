@@ -1,6 +1,6 @@
 meta:
   title: 'Tanúsítványok — CE, ISO 9001 és megfelelőség | {SITE}'
-  description: 'afarer minőségi tanúsítványok: CE (EN ISO 25649), ISO 9001:2015, BSCI. Megfelelőség és biztonság egy felfújható SUP gyártónál.'
+  description: 'olagoon minőségi tanúsítványok: CE (EN ISO 25649), ISO 9001:2015, BSCI. Megfelelőség és biztonság egy felfújható SUP gyártónál.'
   keywords:
     - 'ce tanúsítás sup'
     - 'iso 9001 sup'
@@ -9,17 +9,17 @@ meta:
 hero:
   tagline: 'Tanúsítványok és szabványok'
   title: 'Minőségi tanúsítványok<br />és megfelelőségi szabványok'
-  subtitle: 'Az afarer SUP gyártás nemzetközi tengeri biztonsági szabványok, minőségirányítási rendszerek és környezetvédelmi előírások szerint tanúsított — CE, ISO 9001, UKCA, BSCI és REACH.'
+  subtitle: 'Az olagoon SUP gyártás nemzetközi tengeri biztonsági szabványok, minőségirányítási rendszerek és környezetvédelmi előírások szerint tanúsított — CE, ISO 9001, UKCA, BSCI és REACH.'
   image:
-    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
-    alt: 'afarer minőségi tanúsítványok és megfelelőségi dokumentáció'
+    src: https://assets.olagoon.com/images/olagoon/certifications/certifications-hero.webp
+    alt: 'olagoon minőségi tanúsítványok és megfelelőségi dokumentáció'
 content_certifications:
   tagline: 'Tanúsítványaink'
   title: 'Tanúsított minőség,<br />világszerte elismert'
-  subtitle: 'Minden afarer terméket olyan tanúsítványok támasztanak alá, amelyek a minőség, a biztonság és a környezetvédelmi felelősség iránti elkötelezettségünket igazolják.'
+  subtitle: 'Minden olagoon terméket olyan tanúsítványok támasztanak alá, amelyek a minőség, a biztonság és a környezetvédelmi felelősség iránti elkötelezettségünket igazolják.'
   items:
     - title: 'CE tanúsított'
-      description: 'Minden afarer termék megfelel az európai CE jelölési követelményeknek szabadidő vízijárművekre, biztosítva a biztonsági, egészségügyi és környezetvédelmi szabványok teljesülését.'
+      description: 'Minden olagoon termék megfelel az európai CE jelölési követelményeknek szabadidő vízijárművekre, biztosítva a biztonsági, egészségügyi és környezetvédelmi szabványok teljesülését.'
       icon: tabler:certificate
     - title: 'ISO 9001:2015'
       description: 'Minőségirányítási rendszerünk ISO 9001:2015 tanúsítással rendelkezik, amely a felfújható vízijárművek és vízi felszerelések tervezését, gyártását és disztribúcióját fedi le.'
@@ -28,10 +28,10 @@ content_certifications:
       description: 'Az Egyesült Királyság piacán értékesített termékek UKCA jelöléssel rendelkeznek, megerősítve a brit vízi felszerelésekre és személyes vízijárművekre vonatkozó előírásoknak való megfelelést.'
       icon: tabler:shield
     - title: 'BSCI megfelelő'
-      description: 'Az afarer BSCI (Business Social Compliance Initiative) auditon esett át, igazolva az etikus gyártási gyakorlatokat, a méltányos munkakörülményeket és az ellátási lánc felelősségét.'
+      description: 'Az olagoon BSCI (Business Social Compliance Initiative) auditon esett át, igazolva az etikus gyártási gyakorlatokat, a méltányos munkakörülményeket és az ellátási lánc felelősségét.'
       icon: tabler:heart-handshake
     - title: 'REACH megfelelő'
-      description: 'Az afarer termékekben használt minden anyag megfelel az EU REACH vegyszerbiztonsági előírásainak, biztosítva, hogy PVC-ben, EVA-ban vagy alkatrészekben ne legyenek korlátozott anyagok.'
+      description: 'Az olagoon termékekben használt minden anyag megfelel az EU REACH vegyszerbiztonsági előírásainak, biztosítva, hogy PVC-ben, EVA-ban vagy alkatrészekben ne legyenek korlátozott anyagok.'
       icon: tabler:flask
     - title: 'Anyagtesztelés'
       description: 'A szöveteket húzószilárdságra, szakítószilárdságra, UV-romlásra és hidegrepedési teljesítményre tesztelik. Minden gyártási tétel mintavételes ellenőrzésen esik át.'
@@ -49,7 +49,7 @@ content_factory:
 content_safety:
   tagline: 'Tengeri biztonsági szabványok'
   title: 'A biztonság először<br />— megbízható üzemelésre tervezve'
-  subtitle: 'Az afarer termékek nemzetközi tengeri biztonsági szabványoknak megfelelően vannak tervezve és tesztelve kereskedelmi és szabadidő használatra.'
+  subtitle: 'Az olagoon termékek nemzetközi tengeri biztonsági szabványoknak megfelelően vannak tervezve és tesztelve kereskedelmi és szabadidő használatra.'
   items:
     - title: 'EN ISO 25649'
       description: 'A felfújható SUP-ok megfelelnek az EN ISO 25649 szabványoknak a szerkezetre, stabilitásra, felhajtóerőre és terhelési kapacitásra vonatkozóan.'

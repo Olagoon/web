@@ -1,22 +1,22 @@
 const fs = require('fs');
 const path = require('path');
 
-const dist = 'E:/github/afarer/dist';
+const dist = 'E:/github/olagoon/dist';
 const read = (p) => fs.readFileSync(path.join(dist, p), 'utf8');
 
 // --- 1. sitemap URLs ---
 const sitemapXml = read('sitemap-0.xml');
 const urls = [...sitemapXml.matchAll(/<loc>(.*?)<\/loc>/g)].map((m) => m[1]);
-const slashed = urls.filter((u) => u.endsWith('/') || u === 'https://afarer.com/');
+const slashed = urls.filter((u) => u.endsWith('/') || u === 'https://olagoon.com/');
 const slashless = urls.filter((u) => !u.endsWith('/'));
-const enRoot = urls.filter((u) => /\/en\/?$/.test(u.replace('https://afarer.com', '')));
-const hasRoot = urls.includes('https://afarer.com/');
+const enRoot = urls.filter((u) => /\/en\/?$/.test(u.replace('https://olagoon.com', '')));
+const hasRoot = urls.includes('https://olagoon.com/');
 console.log('=== SITEMAP ===');
 console.log('total URLs:', urls.length);
 console.log('slashed (200-form):', slashed.length);
 console.log('slashless (308-form):', slashless.length, slashless.slice(0, 5));
 console.log('/en or /en/ still present:', enRoot);
-console.log('root https://afarer.com/ present:', hasRoot);
+console.log('root https://olagoon.com/ present:', hasRoot);
 
 // --- 2. EN homepage canonical / og:url / hreflang ---
 const enHome = read('en/index.html');
@@ -76,7 +76,7 @@ console.log('hreflang sample:', aboutHreflangs.slice(0, 4), '... count:', aboutH
 
 // --- 6. RSS ---
 const rss = read('rss.xml');
-const rssLinks = [...rss.matchAll(/<link>(.*?)<\/link>/g)].map((m) => m[1]).filter((l) => l.includes('afarer.com'));
+const rssLinks = [...rss.matchAll(/<link>(.*?)<\/link>/g)].map((m) => m[1]).filter((l) => l.includes('olagoon.com'));
 console.log('\n=== RSS ===');
 console.log('item link count:', rssLinks.length);
 console.log('sample:', rssLinks.slice(0, 3));

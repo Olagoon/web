@@ -1,6 +1,6 @@
 meta:
   title: 'Námořní odbornost — technika v každém trupu | {SITE}'
-  description: 'Desítky let námořní techniky v každém trupu. afarer ovládá konstrukci drop stitch, námořní PVC a profesionální návrh nafukovacích SUP prken.'
+  description: 'Desítky let námořní techniky v každém trupu. olagoon ovládá konstrukci drop stitch, námořní PVC a profesionální návrh nafukovacích SUP prken.'
   keywords:
     - 'námořní technika'
     - 'výrobce nafukovacích SUP prken'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: Námořní odbornost
   title: Desetiletí námořního inženýrství<br />v každém trupu
-  subtitle: afarer kombinuje hlubokou materiálovou vědu, precizní výrobu a testování v reálných podmínkách k výrobě plavidel, která fungují, když na tom záleží.
+  subtitle: olagoon kombinuje hlubokou materiálovou vědu, precizní výrobu a testování v reálných podmínkách k výrobě plavidel, která fungují, když na tom záleží.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: Tým námořního inženýrství a výzkumu a vývoje společnosti afarer při práci
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: Tým námořního inženýrství a výzkumu a vývoje společnosti olagoon při práci
 expertise_materials:
   tagline: Věda o materiálech
   title: Výběr správného materiálu<br />pro každou aplikaci

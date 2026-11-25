@@ -1,10 +1,10 @@
 const targets = [
-  'https://afarer.com/ar/geo-report/',
-  'https://afarer.com/ar/search/',
-  'https://afarer.com/keystatic/',
-  'https://afarer.com/internal/',
-  'https://afarer.com/admin/',
-  'https://afarer.com/login/',
+  'https://olagoon.com/ar/geo-report/',
+  'https://olagoon.com/ar/search/',
+  'https://olagoon.com/keystatic/',
+  'https://olagoon.com/internal/',
+  'https://olagoon.com/admin/',
+  'https://olagoon.com/login/',
 ];
 (async () => {
   for (const t of targets) {

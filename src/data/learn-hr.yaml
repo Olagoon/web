@@ -1,10 +1,10 @@
 misc:
   readGuide: Pročitajte vodič →
   techDesc: Pomorsko sigurnosno inženjerstvo i ispitivanje materijala
-  productsDesc: Istražite cjeloviti Afarer katalog proizvoda
+  productsDesc: Istražite cjeloviti OLagoon katalog proizvoda
   trustDesc: Sukladnost s CE, ISO i BSCI
 sup:
-  title: SUP znanje — Vodiči i resursi za napuhive SUP daske | Afarer
+  title: SUP znanje — Vodiči i resursi za napuhive SUP daske | OLagoon
   description: Cjelovito središte SUP znanja koje obuhvaća vodiče za početnike, veličine daski, tutoriale tehnike, savjete za sigurnost i tehnologiju napuhivih SUP daski.
   articles:
     - title: Osnove SUP-a — Vodič za početnike
@@ -26,7 +26,7 @@ sup:
       desc: Osnovno znanje o sigurnosti uključujući čitanje vremenskih prilika, odabir PFD-a, samospašavanje i grupno veslanje.
       href: /learn/water-safety/
 water-safety:
-  title: Znanje o sigurnosti na vodi — Vodiči za sigurno veslanje | Afarer
+  title: Znanje o sigurnosti na vodi — Vodiči za sigurno veslanje | OLagoon
   description: Sveobuhvatni resursi o sigurnosti na vodi za SUP, kajakaštvo i čamce. Saznajte više o odabiru PFD-a, čitanju vremenskih prilika, samospašavanju, sigurnosti u hladnoj vodi i CE certifikaciji.
   articles:
     - title: Vodič za sigurnost na vodi
@@ -49,7 +49,7 @@ water-safety:
       href: /trust/
 sup-basics:
   title: Osnove SUP-a — Vodič za početnike u stand-up paddle boardingu
-  description: Sve što trebate znati da biste počeli sa stand-up paddle boardingom. Vodiči za opremu, savjeti o veličinama, savjeti za sigurnost i tehnike za početnike iz Afarerova centra znanja.
+  description: Sve što trebate znati da biste počeli sa stand-up paddle boardingom. Vodiči za opremu, savjeti o veličinama, savjeti za sigurnost i tehnike za početnike iz OLagoonova centra znanja.
   articles: []
 drop-stitch-core:
   title: Tehnologija drop-stitch jezgre — Kako napuhivi SUP-ovi postižu krutost

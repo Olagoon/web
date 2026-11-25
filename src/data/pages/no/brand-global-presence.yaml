@@ -1,6 +1,6 @@
 meta:
   title: 'Global Tilstedeværelse — SUP-produsent som betjener 50+ land | {SITE}'
-  description: 'afarer eksporterer oppblåsbare SUPer til over 50 land på alle kontinenter. Profesjonell produsent og leverandør for merker, distributører og flåter.'
+  description: 'olagoon eksporterer oppblåsbare SUPer til over 50 land på alle kontinenter. Profesjonell produsent og leverandør for merker, distributører og flåter.'
   keywords:
     - 'global SUP-produsent'
     - 'paddle board eksportør'
@@ -9,10 +9,10 @@ meta:
 hero:
   tagline: Global tilstedeværelse
   title: Betjener 50+ land<br />over alle kontinenter
-  subtitle: Fra europeiske kystpatruljeoperatører til australske vannsportsdistributører til redningsteam i Midtøsten — afarer-brett er på vannet over hele verden.
+  subtitle: Fra europeiske kystpatruljeoperatører til australske vannsportsdistributører til redningsteam i Midtøsten — olagoon-brett er på vannet over hele verden.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer global maritim produksjon og distribusjon
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon global maritim produksjon og distribusjon
 stats:
   title: Global rekkevidde
   stats:
@@ -70,7 +70,7 @@ steps2_logistics:
       description: 'Lager i Montclair, CA for rask levering over hele Nord-Amerika. Vestkysten: 2-3 dager, Sentralt: 3-4 dager, Østkysten: 4-5 dager.'
       icon: tabler:building-warehouse
     - title: Reservedeler
-      description: Ekte afarer-reservedeler og forbruksvarer på lager året rundt. Vanlige deler sendes innen 24 timer.
+      description: Ekte olagoon-reservedeler og forbruksvarer på lager året rundt. Vanlige deler sendes innen 24 timer.
       icon: tabler:package
     - title: Teknisk support
       description: Direktlinje til ingeniørteamet vårt for tekniske spørsmål, reparasjonsråd og støtte på reservedeler. Vi støtter brett vi bygget for 20 år siden.

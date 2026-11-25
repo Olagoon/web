@@ -19,7 +19,7 @@ for (const f of fs
       inMeta = false;
     }
     if (inMeta) return ln;
-    const n = ln.replace(/\{SITE\}/g, 'Afarer');
+    const n = ln.replace(/\{SITE\}/g, 'OLagoon');
     count += n !== ln ? 1 : 0;
     return n;
   });

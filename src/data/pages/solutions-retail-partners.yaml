@@ -5,10 +5,10 @@ meta:
 hero:
   tagline: Retail Partners
   title: 'Sell Premium Inflatable SUPs<br />With Margins That Work'
-  subtitle: 'Become an Afarer retail partner — carry the fastest-growing SUP brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
+  subtitle: 'Become an OLagoon retail partner — carry the fastest-growing SUP brand in your market with full wholesale pricing, dropshipping, professional marketing materials, and dedicated support.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Afarer SUP boards displayed in a retail store
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: OLagoon SUP boards displayed in a retail store
 
 margin_section:
   title: 'Retail Margins & MOQ'
@@ -92,7 +92,7 @@ support:
     - 'Net 30 payment terms'
 
 cta:
-  title: 'Ready to become an Afarer retail partner?'
+  title: 'Ready to become an OLagoon retail partner?'
   subtitle: 'Apply for partnership or download our retail catalog to get started.'
   actions:
     - text: 'Apply for Partnership'

@@ -11,8 +11,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/factory.yaml',
-    find: "  - Operated by **Aquafarer LLC (USA)**, afarer's Qingdao Operation Team controls every stage of inflatable SUP manufacturing — from the arrival of raw PVC materials to the final pre-delivery inspection of the finished paddle board. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, drop-stitch core bonding, SUP digital printing, final assembly, and quality testing.\n",
-    rep: "  - As the production arm of **Aquafarer LLC (USA)**, afarer's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished boat. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, SUP digital printing, final assembly, and quality testing.\n",
+    find: "  - Operated by **Olagoon LLC (USA)**, olagoon's Qingdao Operation Team controls every stage of inflatable SUP manufacturing — from the arrival of raw PVC materials to the final pre-delivery inspection of the finished paddle board. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, drop-stitch core bonding, SUP digital printing, final assembly, and quality testing.\n",
+    rep: "  - As the production arm of **Olagoon LLC (USA)**, olagoon's Qingdao Operation Team controls every stage of production — from the arrival of raw PVC and fiberglass materials to the final pre-delivery inspection of the finished boat. Our manufacturing facility in the Qingdao Economic Development Zone spans 12,000 square metres and houses dedicated workshops for PVC cutting, tube heat sealing, FRP mould fabrication, SUP digital printing, final assembly, and quality testing.\n",
   },
   {
     f: 'src/data/pages/factory.yaml',
@@ -106,8 +106,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/factory-process.yaml',
-    find: '  desc: Explore the industrial-grade equipment behind every afarer SUP board.\n',
-    rep: '  desc: Explore the industrial-grade equipment behind every afarer boat.\n',
+    find: '  desc: Explore the industrial-grade equipment behind every olagoon SUP board.\n',
+    rep: '  desc: Explore the industrial-grade equipment behind every olagoon boat.\n',
   },
   {
     f: 'src/data/pages/factory-oem-capability.yaml',

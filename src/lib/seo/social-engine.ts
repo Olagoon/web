@@ -117,7 +117,7 @@ export function generateSocialPosts(slug: string, _count = 5): SocialPost[] {
   const url = `/guides/${slug}`;
   const hooks = pickHooks(slug, 3);
   const baseHashtags = [
-    '#afarer',
+    '#olagoon',
     '#surfing',
     '#ocean',
     ...getSlugKeywords(slug)
@@ -128,7 +128,7 @@ export function generateSocialPosts(slug: string, _count = 5): SocialPost[] {
   const postTemplates: Array<(h: string, i: number) => SocialPost> = [
     (h, _i) => ({
       platform: 'instagram',
-      content: `${h}\n\nFull guide: afarer.com${url}\n\n${title} — everything you need to know.`,
+      content: `${h}\n\nFull guide: olagoon.com${url}\n\n${title} — everything you need to know.`,
       caption: `${title} — your complete guide. Tap the link in bio to read more.`,
       hashtags: baseHashtags,
       link: url,
@@ -136,28 +136,28 @@ export function generateSocialPosts(slug: string, _count = 5): SocialPost[] {
     }),
     (h, _i) => ({
       platform: 'tiktok',
-      content: `${h} 🔗 Full guide at afarer.com${url} #afarer #surftips #oceansports`,
+      content: `${h} 🔗 Full guide at olagoon.com${url} #olagoon #surftips #oceansports`,
       hashtags: baseHashtags.slice(0, 3),
       link: url,
       cta: 'Full guide in bio',
     }),
     (h, _i) => ({
       platform: 'twitter',
-      content: `${h}\n\n${title}\n\nRead the full guide — afarer.com${url}\n\n${baseHashtags.slice(0, 3).join(' ')}`,
+      content: `${h}\n\n${title}\n\nRead the full guide — olagoon.com${url}\n\n${baseHashtags.slice(0, 3).join(' ')}`,
       hashtags: baseHashtags,
       link: url,
       cta: 'Read full guide',
     }),
     (h, _i) => ({
       platform: 'pinterest',
-      content: `${title} — Complete Guide\n\n${h.replace('...', '.')} Pin this for your next surf session.\n\nafarer.com${url}`,
+      content: `${title} — Complete Guide\n\n${h.replace('...', '.')} Pin this for your next surf session.\n\nolagoon.com${url}`,
       hashtags: baseHashtags,
       link: url,
       cta: 'Save for later',
     }),
     (h, _i) => ({
       platform: 'reddit',
-      content: `**${title}**\n\nI've been testing different ${getSlugKeywords(slug).slice(0, 3).join(', ')} in real ocean conditions and here's what I found:\n\n${h.replace(':', '.')}\n\nFull breakdown with everything I learned:\n[${title}](https://afarer.com${url})\n\nHappy to answer questions in the comments.`,
+      content: `**${title}**\n\nI've been testing different ${getSlugKeywords(slug).slice(0, 3).join(', ')} in real ocean conditions and here's what I found:\n\n${h.replace(':', '.')}\n\nFull breakdown with everything I learned:\n[${title}](https://olagoon.com${url})\n\nHappy to answer questions in the comments.`,
       hashtags: [],
       link: url,
       cta: 'Full breakdown',

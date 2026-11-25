@@ -151,7 +151,7 @@ const expandWidths = (raw?: number[]): number[] | undefined => {
 const heightFromWidth = (variantWidth: number): number | undefined =>
   aspectRatio ? Math.round(variantWidth / aspectRatio) : undefined;
 
-const isR2Url = typeof resolved === 'string' && /^https:\/\/assets\.afarer\.com\/images\//.test(resolved);
+const isR2Url = typeof resolved === 'string' && /^https:\/\/assets\.olagoon\.com\/images\//.test(resolved);
 const r2Src = isR2Url ? responsiveImageSrc(resolved, w) : undefined;
 const r2SrcSet = isR2Url ? responsiveImageSrcset(resolved, widths) : undefined;
 const cdnSrc = isCdnUrl ? buildCdnUrl(w, h) : undefined;

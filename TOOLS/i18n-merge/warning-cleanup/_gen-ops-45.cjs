@@ -105,12 +105,12 @@ function countOccurrences(hay, needle) {
   }
   if (
     parsedBefore.es['useCase.hubDesc'] !==
-    'From first-time paddlers to professional operators \\u2014 afarer equips every water adventure.'
+    'From first-time paddlers to professional operators \\u2014 olagoon equips every water adventure.'
   ) {
     console.error('FATAL: expected literal \\u2014 stale value for useCase.hubDesc');
     bad++;
   }
-  if (parsedBefore.es['oem.why'] !== 'Hvorfor samarbeide med afarer for OEM/ODM?') {
+  if (parsedBefore.es['oem.why'] !== 'Hvorfor samarbeide med olagoon for OEM/ODM?') {
     console.error('FATAL: expected Norwegian contamination for oem.why: ' + JSON.stringify(parsedBefore.es['oem.why']));
     bad++;
   }

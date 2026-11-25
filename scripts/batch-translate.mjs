@@ -101,22 +101,22 @@ function generateSiteSettingsBlock(code) {
   const isRtl = code === 'ar';
   const siteName =
     code === 'zh'
-      ? 'afarer'
+      ? 'olagoon'
       : code === 'ar'
-        ? 'afarer \u2014 القوارب المطاطية'
+        ? 'olagoon \u2014 القوارب المطاطية'
         : code === 'ru'
-          ? 'afarer \u2014 Надувные лодки'
+          ? 'olagoon \u2014 Надувные лодки'
           : code === 'pl'
-            ? 'afarer'
+            ? 'olagoon'
             : code === 'it'
-              ? 'afarer'
+              ? 'olagoon'
               : code === 'pt'
-                ? 'afarer'
+                ? 'olagoon'
                 : code === 'es'
-                  ? 'afarer'
+                  ? 'olagoon'
                   : code === 'de'
-                    ? 'afarer'
-                    : 'afarer';
+                    ? 'olagoon'
+                    : 'olagoon';
 
   return `
 # --- Per-language site settings ---
@@ -127,20 +127,20 @@ siteSettings:
   organization:
     name: '${siteName}'
     logo: ''
-    contactEmail: info@afarer.com
+    contactEmail: info@olagoon.com
     contactPhone: '+1 (213) 557-7888'
     address: '5067 Saddleback St, Montclair, CA 91763, USA'  # TODO: translate address to ${label} if localized address exists
   i18n:
     language: ${code}${isRtl ? '\n    textDirection: rtl' : ''}
   socialLinks:
     - platform: youtube
-      url: 'https://www.youtube.com/@afarer'
+      url: 'https://www.youtube.com/@TheOlagoon'
     - platform: x
-      url: 'https://x.com/afarer'
+      url: 'https://x.com/olagoon'
     - platform: instagram
-      url: 'https://www.instagram.com/afarer'
+      url: 'https://www.instagram.com/olagoon'
     - platform: facebook
-      url: 'https://www.facebook.com/afarer'
+      url: 'https://www.facebook.com/TheOlagoon'
     - platform: rss
       url: /rss.xml
 `;

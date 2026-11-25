@@ -5,8 +5,8 @@ module.exports = {
         'برنامج شراكة الجملة لألواح SUP للمتاجر التجزئة ومتاجر مستلزمات الرياضة. خط إنتاج كامل، خيارات دروبشيبينغ، هوامش جملة تنافسية بين 20 و35%، وحد أدنى منخفض لكمية الطلب (MOQ) للبدء.',
       heroTitle: 'قم ببيع ألواح SUP القابلة للنفخ الفاخرة<br />بهوامش ربح مجدية',
       heroSubtitle:
-        'كن شريك تجزئة لـ afarer — قدّم العلامة الأسرع نمواً في مجال ألواح SUP في سوقك مع أسعار جملة كاملة، وخيارات دروبشيبينغ، ومواد تسويقية احترافية، ودعم مخصص.',
-      ctaTitle: 'هل أنت مستعد لتصبح شريك تجزئة لـ afarer؟',
+        'كن شريك تجزئة لـ olagoon — قدّم العلامة الأسرع نمواً في مجال ألواح SUP في سوقك مع أسعار جملة كاملة، وخيارات دروبشيبينغ، ومواد تسويقية احترافية، ودعم مخصص.',
+      ctaTitle: 'هل أنت مستعد لتصبح شريك تجزئة لـ olagoon؟',
       ctaSubtitle: 'قدّم طلب شراكة أو حمّل كتالوج التجزئة الخاص بنا للبدء.',
     },
     cs: {
@@ -14,8 +14,8 @@ module.exports = {
         'Velkoobchodní partnerský program SUP pro maloobchodníky a obchody se sportovními potřebami. Kompletní produktová řada, možnosti dropshippingu, konkurenceschopné velkoobchodní marže 20–35 % a nízká MOQ pro začátek.',
       heroTitle: 'Prodávejte prémiová nafukovací SUP prkna<br />s maržemi, které fungují',
       heroSubtitle:
-        'Staňte se maloobchodním partnerem Afarer – vezměte do sortimentu nejrychleji rostoucí značku SUP na vašem trhu s kompletními velkoobchodními cenami, dropshippingem, profesionálními marketingovými materiály a vyhrazenou podporou.',
-      ctaTitle: 'Připraveni stát se maloobchodním partnerem Afarer?',
+        'Staňte se maloobchodním partnerem OLagoon – vezměte do sortimentu nejrychleji rostoucí značku SUP na vašem trhu s kompletními velkoobchodními cenami, dropshippingem, profesionálními marketingovými materiály a vyhrazenou podporou.',
+      ctaTitle: 'Připraveni stát se maloobchodním partnerem OLagoon?',
       ctaSubtitle: 'Přihlaste se k partnerství nebo si stáhněte náš maloobchodní katalog a začněte.',
     },
     da: {
@@ -23,8 +23,8 @@ module.exports = {
         'SUP-engrospartnerprogram til detailhandlere og sportsbutikker. Komplet produktserie, dropshipping-muligheder, konkurrencedygtige engrosmargener på 20–35 % og lav MOQ til at starte.',
       heroTitle: 'Sælg premium oppustelige SUPs<br />med margener, der virker',
       heroSubtitle:
-        'Bliv detailpartner hos Afarer — før den hurtigst voksende SUP-brand på dit marked med fulde engrospriser, dropshipping, professionelt markedsføringsmateriale og dedikeret support.',
-      ctaTitle: 'Klar til at blive Afarer-detailpartner?',
+        'Bliv detailpartner hos OLagoon — før den hurtigst voksende SUP-brand på dit marked med fulde engrospriser, dropshipping, professionelt markedsføringsmateriale og dedikeret support.',
+      ctaTitle: 'Klar til at blive OLagoon-detailpartner?',
       ctaSubtitle: 'Ansøg om partnerskab eller download vores detailkatalog for at komme i gang.',
     },
     de: {
@@ -32,8 +32,8 @@ module.exports = {
         'SUP-Großhandels-Partnerprogramm für Einzelhändler und Sportgeschäfte. Vollständige Produktpalette, Dropshipping-Optionen, wettbewerbsfähige Großhandelsmargen von 20–35 % und niedrige Mindestbestellmenge zum Start.',
       heroTitle: 'Verkaufen Sie aufblasbare Premium-SUP-Boards<br />mit Margen, die sich rechnen',
       heroSubtitle:
-        'Werden Sie Einzelhandelspartner von Afarer — führen Sie die am schnellsten wachsende SUP-Marke in Ihrem Markt mit vollständigen Großhandelspreisen, Dropshipping, professionellem Marketingmaterial und dediziertem Support.',
-      ctaTitle: 'Bereit, Afarer-Einzelhandelspartner zu werden?',
+        'Werden Sie Einzelhandelspartner von OLagoon — führen Sie die am schnellsten wachsende SUP-Marke in Ihrem Markt mit vollständigen Großhandelspreisen, Dropshipping, professionellem Marketingmaterial und dediziertem Support.',
+      ctaTitle: 'Bereit, OLagoon-Einzelhandelspartner zu werden?',
       ctaSubtitle:
         'Bewerben Sie sich für eine Partnerschaft oder laden Sie unseren Einzelhandelskatalog herunter, um loszulegen.',
     },
@@ -42,8 +42,8 @@ module.exports = {
         'Πρόγραμμα χονδρικής συνεργασίας SUP για καταστήματα λιανικής και καταστήματα αθλητικών ειδών. Πλήρης γραμμή προϊόντων, επιλογές dropshipping, ανταγωνιστικά περιθώρια χονδρικής 20–35% και χαμηλό MOQ για να ξεκινήσετε.',
       heroTitle: 'Πουλήστε Φουσκωτά SUP Premium<br />με Περιθώρια Κέρδους που Αποδίδουν',
       heroSubtitle:
-        'Γίνετε συνεργάτης λιανικής της Afarer — φέρτε την ταχύτερα αναπτυσσόμενη μάρκα SUP στην αγορά σας με πλήρεις τιμές χονδρικής, dropshipping, επαγγελματικό διαφημιστικό υλικό και αποκλειστική υποστήριξη.',
-      ctaTitle: 'Έτοιμοι να γίνετε συνεργάτης λιανικής της Afarer;',
+        'Γίνετε συνεργάτης λιανικής της OLagoon — φέρτε την ταχύτερα αναπτυσσόμενη μάρκα SUP στην αγορά σας με πλήρεις τιμές χονδρικής, dropshipping, επαγγελματικό διαφημιστικό υλικό και αποκλειστική υποστήριξη.',
+      ctaTitle: 'Έτοιμοι να γίνετε συνεργάτης λιανικής της OLagoon;',
       ctaSubtitle: 'Υποβάλετε αίτηση συνεργασίας ή κατεβάστε τον κατάλογο λιανικής μας για να ξεκινήσετε.',
     },
     es: {
@@ -51,8 +51,8 @@ module.exports = {
         'Programa de socios de mayoreo SUP para minoristas y tiendas de artículos deportivos. Línea completa de productos, opciones de dropshipping, márgenes mayoristas competitivos del 20–35% y MOQ bajo para comenzar.',
       heroTitle: 'Vende tablas SUP inflables premium<br />con márgenes que funcionan',
       heroSubtitle:
-        'Conviértase en socio minorista de Afarer — lleve la marca SUP de mayor crecimiento en su mercado con precios de mayoreo completos, dropshipping, materiales de marketing profesionales y soporte dedicado.',
-      ctaTitle: '¿Listo para convertirse en socio minorista de Afarer?',
+        'Conviértase en socio minorista de OLagoon — lleve la marca SUP de mayor crecimiento en su mercado con precios de mayoreo completos, dropshipping, materiales de marketing profesionales y soporte dedicado.',
+      ctaTitle: '¿Listo para convertirse en socio minorista de OLagoon?',
       ctaSubtitle: 'Solicite la asociación o descargue nuestro catálogo minorista para comenzar.',
     },
     fi: {
@@ -60,8 +60,8 @@ module.exports = {
         'SUP-tukkukumppanuusohjelma vähittäismyyjille ja urheilukaupoille. Kattava tuotevalikoima, dropshipping-vaihtoehdot, kilpailukykyiset tukkukatteet 20–35 % ja matala MOQ aloitukseen.',
       heroTitle: 'Myy premium-ilmatäytettäviä SUP-lautoja<br />katteilla, jotka toimivat',
       heroSubtitle:
-        'Ryhdy Afarerin vähittäismyyjäkumppaniksi — tarjoa markkinoidesi nopeimmin kasvava SUP-brändi kattavilla tukkuhinnoilla, dropshippingillä, ammattimaisella markkinointimateriaalilla ja omistautuneella tuella.',
-      ctaTitle: 'Valmiina ryhtymään Afarerin vähittäismyyjäkumppaniksi?',
+        'Ryhdy OLagoonin vähittäismyyjäkumppaniksi — tarjoa markkinoidesi nopeimmin kasvava SUP-brändi kattavilla tukkuhinnoilla, dropshippingillä, ammattimaisella markkinointimateriaalilla ja omistautuneella tuella.',
+      ctaTitle: 'Valmiina ryhtymään OLagoonin vähittäismyyjäkumppaniksi?',
       ctaSubtitle: 'Hae kumppanuutta tai lataa jälleenmyyntiluettelomme aloittaaksesi.',
     },
     it: {
@@ -69,8 +69,8 @@ module.exports = {
         "Programma di partnership all'ingrosso SUP per rivenditori e negozi di articoli sportivi. Gamma completa di prodotti, opzioni di dropshipping, margini all'ingrosso competitivi dal 20–35% e MOQ basso per iniziare.",
       heroTitle: 'Vendi SUP gonfiabili premium<br />con margini che funzionano',
       heroSubtitle:
-        "Diventa partner al dettaglio di Afarer — porta il marchio SUP in più rapida crescita nel tuo mercato con prezzi all'ingrosso completi, dropshipping, materiali di marketing professionali e supporto dedicato.",
-      ctaTitle: 'Pronto a diventare partner al dettaglio di Afarer?',
+        "Diventa partner al dettaglio di OLagoon — porta il marchio SUP in più rapida crescita nel tuo mercato con prezzi all'ingrosso completi, dropshipping, materiali di marketing professionali e supporto dedicato.",
+      ctaTitle: 'Pronto a diventare partner al dettaglio di OLagoon?',
       ctaSubtitle: 'Candidati per la collaborazione o scarica il nostro catalogo al dettaglio per iniziare.',
     },
     ja: {
@@ -78,8 +78,8 @@ module.exports = {
         '小売店・スポーツ用品店向けSUP卸売パートナープログラム。フル製品ラインナップ、ドロップシッピングオプション、20〜35%の競争力ある卸売マージン、低MOQで始められます。',
       heroTitle: '利幅がとれる<br />プレミアムインフレータブルSUPを販売',
       heroSubtitle:
-        'Afarerの小売パートナーになりましょう ― 包括的な卸売価格、ドロップシッピング、プロフェッショナルなマーケティング資材、専任サポートとともに、あなたの市場で最も急成長しているSUPブランドを取り扱えます。',
-      ctaTitle: 'Afarerの小売パートナーになる準備はできましたか？',
+        'OLagoonの小売パートナーになりましょう ― 包括的な卸売価格、ドロップシッピング、プロフェッショナルなマーケティング資材、専任サポートとともに、あなたの市場で最も急成長しているSUPブランドを取り扱えます。',
+      ctaTitle: 'OLagoonの小売パートナーになる準備はできましたか？',
       ctaSubtitle: 'パートナーシップを申し込むか、小売カタログをダウンロードして始めましょう。',
     },
     ko: {
@@ -96,8 +96,8 @@ module.exports = {
         'SUP-groothandelspartnerprogramma voor detailhandelaren en sportwinkels. Volledig productassortiment, dropshipping-opties, concurrerende groothandelsmarges van 20–35% en lage MOQ om te starten.',
       heroTitle: "Verkoop premium opblaasbare SUP's<br />met marges die werken",
       heroSubtitle:
-        'Word detailhandelpartner van Afarer — voer het snelst groeiende SUP-merk in uw markt met volledige groothandelsprijzen, dropshipping, professionele marketingmaterialen en toegewijde ondersteuning.',
-      ctaTitle: 'Klaar om Afarer-detailhandelpartner te worden?',
+        'Word detailhandelpartner van OLagoon — voer het snelst groeiende SUP-merk in uw markt met volledige groothandelsprijzen, dropshipping, professionele marketingmaterialen en toegewijde ondersteuning.',
+      ctaTitle: 'Klaar om OLagoon-detailhandelpartner te worden?',
       ctaSubtitle: 'Meld u aan voor een partnerschap of download onze detailhandelcatalogus om te beginnen.',
     },
     no: {
@@ -105,8 +105,8 @@ module.exports = {
         'SUP-grossistpartnerprogram for detaljhandlere og sportsbutikker. Komplett produktlinje, dropshipping-alternativer, konkurransedyktige grossistmarginer på 20–35 % og lav MOQ for å komme i gang.',
       heroTitle: 'Selg premium oppblåsbare SUP-er<br />med marginer som fungerer',
       heroSubtitle:
-        'Bli detaljhandelspartner hos Afarer — før det raskest voksende SUP-merket i ditt marked med fulle grossistpriser, dropshipping, profesjonelt markedsføringsmateriell og dedikert support.',
-      ctaTitle: 'Klar til å bli Afarer-detaljhandelspartner?',
+        'Bli detaljhandelspartner hos OLagoon — før det raskest voksende SUP-merket i ditt marked med fulle grossistpriser, dropshipping, profesjonelt markedsføringsmateriell og dedikert support.',
+      ctaTitle: 'Klar til å bli OLagoon-detaljhandelspartner?',
       ctaSubtitle: 'Søk om partnerskap eller last ned vår detaljhandelskatalog for å komme i gang.',
     },
     pl: {
@@ -114,8 +114,8 @@ module.exports = {
         'Hurtowy program partnerski SUP dla detalistów i sklepów sportowych. Pełna linia produktów, opcje dropshippingu, konkurencyjne marże hurtowe 20–35% i niskie MOQ na start.',
       heroTitle: 'Sprzedawaj pompowane SUP-y premium<br />z marżami, które się opłacają',
       heroSubtitle:
-        'Zostań partnerem detalicznym Afarer — wprowadź na swój rynek najszybciej rosnącą markę SUP z pełnym cennikiem hurtowym, dropshippingiem, profesjonalnymi materiałami marketingowymi i dedykowanym wsparciem.',
-      ctaTitle: 'Gotowy, aby zostać partnerem detalicznym Afarer?',
+        'Zostań partnerem detalicznym OLagoon — wprowadź na swój rynek najszybciej rosnącą markę SUP z pełnym cennikiem hurtowym, dropshippingiem, profesjonalnymi materiałami marketingowymi i dedykowanym wsparciem.',
+      ctaTitle: 'Gotowy, aby zostać partnerem detalicznym OLagoon?',
       ctaSubtitle: 'Złóż wniosek o partnerstwo lub pobierz nasz katalog detaliczny, aby zacząć.',
     },
     pt: {
@@ -123,8 +123,8 @@ module.exports = {
         'Programa de parceria de atacado SUP para varejistas e lojas de artigos esportivos. Linha completa de produtos, opções de dropshipping, margens de atacado competitivas de 20–35% e MOQ baixo para começar.',
       heroTitle: 'Venda SUPs infláveis premium<br />com margens que funcionam',
       heroSubtitle:
-        'Torne-se parceiro de varejo da Afarer — leve a marca SUP de crescimento mais rápido do seu mercado com preços de atacado completos, dropshipping, materiais de marketing profissionais e suporte dedicado.',
-      ctaTitle: 'Pronto para se tornar parceiro de varejo da Afarer?',
+        'Torne-se parceiro de varejo da OLagoon — leve a marca SUP de crescimento mais rápido do seu mercado com preços de atacado completos, dropshipping, materiais de marketing profissionais e suporte dedicado.',
+      ctaTitle: 'Pronto para se tornar parceiro de varejo da OLagoon?',
       ctaSubtitle: 'Candidate-se à parceria ou baixe nosso catálogo de varejo para começar.',
     },
     ro: {
@@ -132,8 +132,8 @@ module.exports = {
         'Program de parteneriat en-gros SUP pentru retaileri și magazine de articole sportive. Gamă completă de produse, opțiuni de dropshipping, marje en-gros competitive de 20–35% și MOQ redus pentru început.',
       heroTitle: 'Vindeți SUP gonflabile premium<br />cu marje care funcționează',
       heroSubtitle:
-        'Deveniți partener de retail Afarer — aduceți în piața dumneavoastră cel mai rapid crescător brand SUP, cu prețuri en-gros complete, dropshipping, materiale de marketing profesionale și suport dedicat.',
-      ctaTitle: 'Sunteți pregătit să deveniți partener de retail Afarer?',
+        'Deveniți partener de retail OLagoon — aduceți în piața dumneavoastră cel mai rapid crescător brand SUP, cu prețuri en-gros complete, dropshipping, materiale de marketing profesionale și suport dedicat.',
+      ctaTitle: 'Sunteți pregătit să deveniți partener de retail OLagoon?',
       ctaSubtitle: 'Aplicați pentru parteneriat sau descărcați catalogul nostru de retail pentru a începe.',
     },
     ru: {
@@ -141,8 +141,8 @@ module.exports = {
         'Оптовая партнерская программа SUP для розничных продавцов и спортивных магазинов. Полная линейка продуктов, варианты дропшиппинга, конкурентоспособные оптовые маржи 20–35% и низкий MOQ для старта.',
       heroTitle: 'Продавайте премиальные надувные SUP<br />с маржой, которая работает',
       heroSubtitle:
-        'Станьте розничным партнером Afarer — предлагайте самый быстрорастущий бренд SUP на вашем рынке с полными оптовыми ценами, дропшиппингом, профессиональными маркетинговыми материалами и выделенной поддержкой.',
-      ctaTitle: 'Готовы стать розничным партнером Afarer?',
+        'Станьте розничным партнером OLagoon — предлагайте самый быстрорастущий бренд SUP на вашем рынке с полными оптовыми ценами, дропшиппингом, профессиональными маркетинговыми материалами и выделенной поддержкой.',
+      ctaTitle: 'Готовы стать розничным партнером OLagoon?',
       ctaSubtitle: 'Подайте заявку на партнерство или скачайте наш розничный каталог, чтобы начать.',
     },
     sv: {
@@ -150,8 +150,8 @@ module.exports = {
         'SUP-grossistpartnerprogram för detaljhandlare och sportbutiker. Komplett produktsortiment, dropshipping-alternativ, konkurrenskraftiga grossistmarginaler på 20–35 % och låg MOQ för att komma igång.',
       heroTitle: 'Sälj premium uppblåsbara SUP:ar<br />med marginaler som fungerar',
       heroSubtitle:
-        'Bli Afarer-detaljhandelspartner – för den snabbast växande SUP-varumärket på din marknad med fullständiga grossistpriser, dropshipping, professionellt marknadsföringsmaterial och dedikerat stöd.',
-      ctaTitle: 'Redo att bli Afarer-detaljhandelspartner?',
+        'Bli OLagoon-detaljhandelspartner – för den snabbast växande SUP-varumärket på din marknad med fullständiga grossistpriser, dropshipping, professionellt marknadsföringsmaterial och dedikerat stöd.',
+      ctaTitle: 'Redo att bli OLagoon-detaljhandelspartner?',
       ctaSubtitle: 'Ansök om partnerskap eller ladda ned vår detaljkatalog för att komma igång.',
     },
     th: {
@@ -159,8 +159,8 @@ module.exports = {
         'โปรแกรมพันธมิตรค้าส่ง SUP สำหรับร้านค้าปลีกและร้านขายอุปกรณ์กีฬา สายผลิตภัณฑ์ครบวงจร ตัวเลือกดรอปชิปปิ้ง อัตรากำไรค้าส่งที่แข่งขันได้ 20–35% และ MOQ ต่ำเพื่อเริ่มต้น',
       heroTitle: 'ขายบอร์ด SUP แบบเป่าลมพรีเมียม<br />กับอัตรากำไรที่คุ้มค่า',
       heroSubtitle:
-        'เป็นพันธมิตรค้าปลีกของ Afarer — จำหน่ายแบรนด์ SUP ที่เติบโตเร็วที่สุดในตลาดของคุณ พร้อมราคาค้าส่งครบวงจร ดรอปชิปปิ้ง สื่อการตลาดระดับมืออาชีพ และการสนับสนุนโดยเฉพาะ',
-      ctaTitle: 'พร้อมที่จะเป็นพันธมิตรค้าปลีกของ Afarer หรือยัง',
+        'เป็นพันธมิตรค้าปลีกของ OLagoon — จำหน่ายแบรนด์ SUP ที่เติบโตเร็วที่สุดในตลาดของคุณ พร้อมราคาค้าส่งครบวงจร ดรอปชิปปิ้ง สื่อการตลาดระดับมืออาชีพ และการสนับสนุนโดยเฉพาะ',
+      ctaTitle: 'พร้อมที่จะเป็นพันธมิตรค้าปลีกของ OLagoon หรือยัง',
       ctaSubtitle: 'สมัครเป็นพันธมิตรหรือดาวน์โหลดแคตตาล็อกค้าปลีกของเราเพื่อเริ่มต้น',
     },
     tr: {
@@ -168,8 +168,8 @@ module.exports = {
         'Perakendeciler ve spor malzemeleri mağazaları için SUP toptan satış ortaklık programı. Tam ürün yelpazesi, dropshipping seçenekleri, %20–35 rekabetçi toptan satış marjları ve başlamak için düşük MOQ.',
       heroTitle: "İşe yarayan marjlarla<br />premium şişme SUP'ler satın",
       heroSubtitle:
-        'Afarer perakende ortağı olun — pazarınızın en hızlı büyüyen SUP markasını tam toptan satış fiyatları, dropshipping, profesyonel pazarlama materyalleri ve özel destekle satın.',
-      ctaTitle: 'Afarer perakende ortağı olmaya hazır mısınız?',
+        'OLagoon perakende ortağı olun — pazarınızın en hızlı büyüyen SUP markasını tam toptan satış fiyatları, dropshipping, profesyonel pazarlama materyalleri ve özel destekle satın.',
+      ctaTitle: 'OLagoon perakende ortağı olmaya hazır mısınız?',
       ctaSubtitle: 'Ortaklık için başvurun veya başlamak için perakende kataloğumuzu indirin.',
     },
   },

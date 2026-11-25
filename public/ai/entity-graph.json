@@ -177,7 +177,7 @@
       "label": "portable"
     },
     {
-      "id": "afarer-supply-chain-2025",
+      "id": "olagoon-supply-chain-2025",
       "type": "article",
       "label": "Expand Your Business Horizons — Become a Dealer for Hifond's Leading Brands",
       "category": "Corporation News"
@@ -198,9 +198,9 @@
       "label": "partnership"
     },
     {
-      "id": "afarer-rd-center-innovation",
+      "id": "olagoon-rd-center-innovation",
       "type": "article",
-      "label": "afarer R&D Center — Forging the Future of Inflatable Water Sports",
+      "label": "olagoon R&D Center — Forging the Future of Inflatable Water Sports",
       "category": "Company"
     },
     {
@@ -221,7 +221,7 @@
     {
       "id": "sup-tour-12-launch",
       "type": "article",
-      "label": "afarer Launches SUP Tour 12 — A New Standard for Touring Inflatable SUPs",
+      "label": "olagoon Launches SUP Tour 12 — A New Standard for Touring Inflatable SUPs",
       "category": "Product News"
     },
     {
@@ -256,9 +256,9 @@
       "label": "spring"
     },
     {
-      "id": "seeking-dealers-for-afarer",
+      "id": "seeking-dealers-for-olagoon",
       "type": "article",
-      "label": "We Are Seeking Dealers for afarer",
+      "label": "We Are Seeking Dealers for olagoon",
       "category": "Corporation News"
     },
     {
@@ -274,7 +274,7 @@
     {
       "id": "recycled-pvc-initiative",
       "type": "article",
-      "label": "afarer Launches Recycled PVC Initiative for Sustainable Inflatable Manufacturing",
+      "label": "olagoon Launches Recycled PVC Initiative for Sustainable Inflatable Manufacturing",
       "category": "Company"
     },
     {
@@ -311,7 +311,7 @@
     {
       "id": "miami-boat-show-2026",
       "type": "article",
-      "label": "afarer to Exhibit at Miami International Boat Show 2026",
+      "label": "olagoon to Exhibit at Miami International Boat Show 2026",
       "category": "Events"
     },
     {
@@ -348,7 +348,7 @@
     {
       "id": "lake-tahoe-paddle-club",
       "type": "article",
-      "label": "Lake Tahoe Paddle Club Chooses afarer for Fleet Program",
+      "label": "Lake Tahoe Paddle Club Chooses olagoon for Fleet Program",
       "category": "Customer Stories"
     },
     {
@@ -369,7 +369,7 @@
     {
       "id": "iso-14001-certification",
       "type": "article",
-      "label": "afarer Manufacturing Facility Achieves ISO 14001 Environmental Management Certification",
+      "label": "olagoon Manufacturing Facility Achieves ISO 14001 Environmental Management Certification",
       "category": "Company"
     },
     {
@@ -385,7 +385,7 @@
     {
       "id": "great-lake-sup-challenge",
       "type": "article",
-      "label": "afarer Sponsors Great Lake SUP Challenge 2026 — Lake Michigan Crossing",
+      "label": "olagoon Sponsors Great Lake SUP Challenge 2026 — Lake Michigan Crossing",
       "category": "Community"
     },
     {
@@ -689,32 +689,32 @@
       "relation": "tagged"
     },
     {
-      "from": "afarer-supply-chain-2025",
+      "from": "olagoon-supply-chain-2025",
       "to": "tag:dealership",
       "relation": "tagged"
     },
     {
-      "from": "afarer-supply-chain-2025",
+      "from": "olagoon-supply-chain-2025",
       "to": "tag:hifond",
       "relation": "tagged"
     },
     {
-      "from": "afarer-supply-chain-2025",
+      "from": "olagoon-supply-chain-2025",
       "to": "tag:partnership",
       "relation": "tagged"
     },
     {
-      "from": "afarer-rd-center-innovation",
+      "from": "olagoon-rd-center-innovation",
       "to": "tag:innovation",
       "relation": "tagged"
     },
     {
-      "from": "afarer-rd-center-innovation",
+      "from": "olagoon-rd-center-innovation",
       "to": "tag:R&D",
       "relation": "tagged"
     },
     {
-      "from": "afarer-rd-center-innovation",
+      "from": "olagoon-rd-center-innovation",
       "to": "tag:quality",
       "relation": "tagged"
     },
@@ -749,17 +749,17 @@
       "relation": "tagged"
     },
     {
-      "from": "seeking-dealers-for-afarer",
+      "from": "seeking-dealers-for-olagoon",
       "to": "tag:dealership",
       "relation": "tagged"
     },
     {
-      "from": "seeking-dealers-for-afarer",
+      "from": "seeking-dealers-for-olagoon",
       "to": "tag:partners",
       "relation": "tagged"
     },
     {
-      "from": "seeking-dealers-for-afarer",
+      "from": "seeking-dealers-for-olagoon",
       "to": "tag:USA",
       "relation": "tagged"
     },

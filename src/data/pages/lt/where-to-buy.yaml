@@ -1,18 +1,18 @@
 meta:
-  title: Kur įsigyti Afarer pripučiamas irklentes | Afarer
-  description: Sužinokite, kaip įsigyti Afarer pripučiamą irklentę — per oficialų platintoją savo šalyje arba tiesiai iš Afarer komandos. Pasakykite, kur irkluojate, ir mes nukreipsime jus pas artimiausią prekiautoją.
+  title: Kur įsigyti OLagoon pripučiamas irklentes | OLagoon
+  description: Sužinokite, kaip įsigyti OLagoon pripučiamą irklentę — per oficialų platintoją savo šalyje arba tiesiai iš OLagoon komandos. Pasakykite, kur irkluojate, ir mes nukreipsime jus pas artimiausią prekiautoją.
 hero:
   tagline: Kur įsigyti
-  title: Išleiskite savo Afarer SUP į vandenį
-  subtitle: Afarer lentas naudoja irkluotojai daugiau nei 50 šalių. Atraskite paprasčiausią būdą įsigyti savąją — per netoliese esantį oficialų platintoją arba tiesiai iš Afarer komandos.
+  title: Išleiskite savo OLagoon SUP į vandenį
+  subtitle: OLagoon lentas naudoja irkluotojai daugiau nei 50 šalių. Atraskite paprasčiausią būdą įsigyti savąją — per netoliese esantį oficialų platintoją arba tiesiai iš OLagoon komandos.
 channels:
   items:
     - title: Oficialūs šalių platintojai
-      description: Afarer bendradarbiauja su išskirtiniais platintojais daugelyje šalių. Pasakykite, kur irkluojate, ir mes jus susieksime su vietiniu prekiautoju, kainomis ir pasiūla.
+      description: OLagoon bendradarbiauja su išskirtiniais platintojais daugelyje šalių. Pasakykite, kur irkluojate, ir mes jus susieksime su vietiniu prekiautoju, kainomis ir pasiūla.
       cta: Raskite savo vietos prekiautoją
       href: /contact/?subject=Where to Buy
-    - title: Užsisakykite tiesiai iš Afarer
-      description: Jūsų šalyje dar nėra platintojo? Afarer komanda gali sutvarkyti tiesioginius užsakymus ir pristatymą, kad galėtumėte išplaukti į vandenį, kad ir kur gyventumėte.
+    - title: Užsisakykite tiesiai iš OLagoon
+      description: Jūsų šalyje dar nėra platintojo? OLagoon komanda gali sutvarkyti tiesioginius užsakymus ir pristatymą, kad galėtumėte išplaukti į vandenį, kad ir kur gyventumėte.
       cta: Užklausti pasiūlos
       href: /contact/?subject=Where to Buy
 form_intro:

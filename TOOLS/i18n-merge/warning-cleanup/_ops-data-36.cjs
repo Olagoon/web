@@ -50,8 +50,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/cs/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer provozuje jednu z největší specializovaných továren na výrobu nafukovacích člunů v čínském Qingdao. Naše továrna o rozloze 12 000 m² je rozdělena do šesti specializovaných dílen pracujících paralelně, což nám dává kapacitu vyrábět ročně přes 15 000 člunů v produktových řadách SUP, kajaků, loďek, RIB a bezpečnostního vybavení.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon provozuje jednu z největší specializovaných továren na výrobu nafukovacích člunů v čínském Qingdao. Naše továrna o rozloze 12 000 m² je rozdělena do šesti specializovaných dílen pracujících paralelně, což nám dává kapacitu vyrábět ročně přes 15 000 člunů v produktových řadách SUP, kajaků, loďek, RIB a bezpečnostního vybavení.\n',
   },
   {
     f: 'src/data/pages/cs/factory-capacity.yaml',
@@ -120,8 +120,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/da/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer driver et af de største dedikerede produktionsanlæg til oppustelige både i Qingdao i Kina. Vores fabrik på 12.000 m² er organiseret i seks specialiserede værksteder, der kører parallelt, hvilket giver os kapaciteten til at producere over 15.000 både årligt på tværs af linjerne for SUP, kajakker, joller, RIB og sikkerhedsudstyr.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon driver et af de største dedikerede produktionsanlæg til oppustelige både i Qingdao i Kina. Vores fabrik på 12.000 m² er organiseret i seks specialiserede værksteder, der kører parallelt, hvilket giver os kapaciteten til at producere over 15.000 både årligt på tværs af linjerne for SUP, kajakker, joller, RIB og sikkerhedsudstyr.\n',
   },
   {
     f: 'src/data/pages/da/factory-capacity.yaml',
@@ -185,8 +185,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/de/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer betreibt eine der größten spezialisierten Fabriken für aufblasbare Boote in Qingdao, China. Unsere 12.000 m² große Fabrik ist in sechs spezialisierte Werkstätten gegliedert, die parallel arbeiten, was uns die Kapazität gibt, über die Produktlinien SUP, Kajak, Dinghy, RIB und Sicherheitsausrüstung mehr als 15.000 Boote jährlich zu produzieren.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon betreibt eine der größten spezialisierten Fabriken für aufblasbare Boote in Qingdao, China. Unsere 12.000 m² große Fabrik ist in sechs spezialisierte Werkstätten gegliedert, die parallel arbeiten, was uns die Kapazität gibt, über die Produktlinien SUP, Kajak, Dinghy, RIB und Sicherheitsausrüstung mehr als 15.000 Boote jährlich zu produzieren.\n',
   },
   {
     f: 'src/data/pages/de/factory-capacity.yaml',
@@ -260,8 +260,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/el/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  Η afarer διαχειρίζεται μία από τις μεγαλύτερες ειδικές εγκαταστάσεις κατασκευής φουσκωτών σκαφών στο Qingdao της Κίνας. Το εργοστάσιο των 12.000 m² είναι οργανωμένο σε έξι εξειδικευμένα εργαστήρια που λειτουργούν παράλληλα, προσφέροντάς μας την ικανότητα να παράγουμε πάνω από 15.000 σκάφη ετησίως στις γραμμές SUP, καγιάκ, βοηθητικών σκαφών, RIB και εξοπλισμού ασφαλείας.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  Η olagoon διαχειρίζεται μία από τις μεγαλύτερες ειδικές εγκαταστάσεις κατασκευής φουσκωτών σκαφών στο Qingdao της Κίνας. Το εργοστάσιο των 12.000 m² είναι οργανωμένο σε έξι εξειδικευμένα εργαστήρια που λειτουργούν παράλληλα, προσφέροντάς μας την ικανότητα να παράγουμε πάνω από 15.000 σκάφη ετησίως στις γραμμές SUP, καγιάκ, βοηθητικών σκαφών, RIB και εξοπλισμού ασφαλείας.\n',
   },
   {
     f: 'src/data/pages/el/factory-capacity.yaml',
@@ -320,8 +320,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/es/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer opera una de las mayores instalaciones dedicadas a la fabricación de barcos inflables en Qingdao, China. Nuestra fábrica de 12.000 m² está organizada en seis talleres especializados que operan en paralelo, lo que nos da capacidad para producir más de 15.000 barcos al año en las líneas de SUP, kayaks, botes auxiliares, RIB y equipo de seguridad.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon opera una de las mayores instalaciones dedicadas a la fabricación de barcos inflables en Qingdao, China. Nuestra fábrica de 12.000 m² está organizada en seis talleres especializados que operan en paralelo, lo que nos da capacidad para producir más de 15.000 barcos al año en las líneas de SUP, kayaks, botes auxiliares, RIB y equipo de seguridad.\n',
   },
   {
     f: 'src/data/pages/es/factory-capacity.yaml',
@@ -395,8 +395,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/fi/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer ylläpitää yhtä Kiinan Qingdaon suurimmista ilmatäytettäviin veneisiin erikoistuneista tuotantolaitoksista. 12 000 m²:n tehtaamme on jaettu kuuteen erikoistuneeseen verstaaseen, jotka toimivat rinnakkain, mikä antaa meille kapasiteetin valmistaa yli 15 000 venettä vuodessa SUP-, kajakki-, jolla-, RIB- ja turvallisuusvarustelinjoilla.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon ylläpitää yhtä Kiinan Qingdaon suurimmista ilmatäytettäviin veneisiin erikoistuneista tuotantolaitoksista. 12 000 m²:n tehtaamme on jaettu kuuteen erikoistuneeseen verstaaseen, jotka toimivat rinnakkain, mikä antaa meille kapasiteetin valmistaa yli 15 000 venettä vuodessa SUP-, kajakki-, jolla-, RIB- ja turvallisuusvarustelinjoilla.\n',
   },
   {
     f: 'src/data/pages/fi/factory-capacity.yaml',
@@ -460,8 +460,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/fr/factory-capacity.yaml',
-    find: "intro: afarer exploite l'une des plus grandes installations de fabrication de SUP gonflables dédiées à Qingdao, en Chine. Notre usine de 12 000 m² est organisée en six ateliers spécialisés opérant en parallèle, nous donnant la capacité de produire plus de 15 000 planches par an sur les lignes SUP et équipements de sécurité.\n",
-    rep: "intro: afarer exploite l'une des plus grandes installations dédiées à la fabrication de bateaux gonflables à Qingdao, en Chine. Notre usine de 12 000 m² est organisée en six ateliers spécialisés opérant en parallèle, nous donnant la capacité de produire plus de 15 000 bateaux par an sur les lignes SUP, kayak, dériveurs, RIB et équipements de sécurité.\n",
+    find: "intro: olagoon exploite l'une des plus grandes installations de fabrication de SUP gonflables dédiées à Qingdao, en Chine. Notre usine de 12 000 m² est organisée en six ateliers spécialisés opérant en parallèle, nous donnant la capacité de produire plus de 15 000 planches par an sur les lignes SUP et équipements de sécurité.\n",
+    rep: "intro: olagoon exploite l'une des plus grandes installations dédiées à la fabrication de bateaux gonflables à Qingdao, en Chine. Notre usine de 12 000 m² est organisée en six ateliers spécialisés opérant en parallèle, nous donnant la capacité de produire plus de 15 000 bateaux par an sur les lignes SUP, kayak, dériveurs, RIB et équipements de sécurité.\n",
   },
   {
     f: 'src/data/pages/fr/factory-capacity.yaml',
@@ -500,8 +500,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/it/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: "intro: >-\n  afarer gestisce una delle più grandi strutture dedicate alla produzione di gommoni a Qingdao, in Cina. La nostra fabbrica di 12.000 m² è organizzata in sei officine specializzate che operano in parallelo, dandoci la capacità di produrre oltre 15.000 barche all'anno nelle linee SUP, kayak, tender, RIB e attrezzature di sicurezza.\n",
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: "intro: >-\n  olagoon gestisce una delle più grandi strutture dedicate alla produzione di gommoni a Qingdao, in Cina. La nostra fabbrica di 12.000 m² è organizzata in sei officine specializzate che operano in parallelo, dandoci la capacità di produrre oltre 15.000 barche all'anno nelle linee SUP, kayak, tender, RIB e attrezzature di sicurezza.\n",
   },
   {
     f: 'src/data/pages/it/factory-capacity.yaml',
@@ -655,8 +655,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/nl/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer beheert een van de grootste specifieke productiefaciliteiten voor opblaasbare boten in Qingdao, China. Onze fabriek van 12.000 m² is georganiseerd in zes gespecialiseerde werkplaatsen die parallel werken, wat ons de capaciteit geeft om jaarlijks meer dan 15.000 boten te produceren op de lijnen voor SUP, kajaks, bijboten, RIB en veiligheidsuitrusting.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon beheert een van de grootste specifieke productiefaciliteiten voor opblaasbare boten in Qingdao, China. Onze fabriek van 12.000 m² is georganiseerd in zes gespecialiseerde werkplaatsen die parallel werken, wat ons de capaciteit geeft om jaarlijks meer dan 15.000 boten te produceren op de lijnen voor SUP, kajaks, bijboten, RIB en veiligheidsuitrusting.\n',
   },
   {
     f: 'src/data/pages/nl/factory-capacity.yaml',
@@ -715,8 +715,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/no/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer driver et av de største dedikerte produksjonsanleggene for oppblåsbare båter i Qingdao i Kina. Fabrikken vår på 12 000 m² er organisert i seks spesialiserte verksteder som opererer parallelt, noe som gir oss kapasitet til å produsere over 15 000 båter årlig på tvers av linjene for SUP, kajakk, joller, RIB og sikkerhetsutstyr.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon driver et av de største dedikerte produksjonsanleggene for oppblåsbare båter i Qingdao i Kina. Fabrikken vår på 12 000 m² er organisert i seks spesialiserte verksteder som opererer parallelt, noe som gir oss kapasitet til å produsere over 15 000 båter årlig på tvers av linjene for SUP, kajakk, joller, RIB og sikkerhetsutstyr.\n',
   },
   {
     f: 'src/data/pages/no/factory-capacity.yaml',
@@ -760,8 +760,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/pl/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer prowadzi jedną z największych wyspecjalizowanych fabryk łodzi nadmuchiwanych w Qingdao w Chinach. Nasza fabryka o powierzchni 12 000 m² jest zorganizowana w sześć wyspecjalizowanych warsztatów działających równolegle, co daje nam możliwość produkcji ponad 15 000 łodzi rocznie w liniach SUP, kajaków, łodzi pomocniczych, RIB i sprzętu bezpieczeństwa.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon prowadzi jedną z największych wyspecjalizowanych fabryk łodzi nadmuchiwanych w Qingdao w Chinach. Nasza fabryka o powierzchni 12 000 m² jest zorganizowana w sześć wyspecjalizowanych warsztatów działających równolegle, co daje nam możliwość produkcji ponad 15 000 łodzi rocznie w liniach SUP, kajaków, łodzi pomocniczych, RIB i sprzętu bezpieczeństwa.\n',
   },
   {
     f: 'src/data/pages/pl/factory-capacity.yaml',
@@ -825,8 +825,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/pt/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  A afarer opera uma das maiores instalações dedicadas à fabricação de barcos infláveis em Qingdao, na China. A nossa fábrica de 12.000 m² está organizada em seis oficinas especializadas que operam em paralelo, o que nos dá capacidade para produzir mais de 15.000 barcos por ano nas linhas de SUP, caiaques, dingues, RIB e equipamentos de segurança.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  A olagoon opera uma das maiores instalações dedicadas à fabricação de barcos infláveis em Qingdao, na China. A nossa fábrica de 12.000 m² está organizada em seis oficinas especializadas que operam em paralelo, o que nos dá capacidade para produzir mais de 15.000 barcos por ano nas linhas de SUP, caiaques, dingues, RIB e equipamentos de segurança.\n',
   },
   {
     f: 'src/data/pages/pt/factory-capacity.yaml',
@@ -895,8 +895,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/ro/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer operează una dintre cele mai mari fabrici dedicate producției de bărci gonflabile din Qingdao, China. Fabrica noastră de 12.000 m² este organizată în șase ateliere specializate care funcționează în paralel, oferindu-ne capacitatea de a produce peste 15.000 de bărci anual pe liniile SUP, caiace, bărci auxiliare, RIB și echipamente de siguranță.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon operează una dintre cele mai mari fabrici dedicate producției de bărci gonflabile din Qingdao, China. Fabrica noastră de 12.000 m² este organizată în șase ateliere specializate care funcționează în paralel, oferindu-ne capacitatea de a produce peste 15.000 de bărci anual pe liniile SUP, caiace, bărci auxiliare, RIB și echipamente de siguranță.\n',
   },
   {
     f: 'src/data/pages/ro/factory-capacity.yaml',
@@ -960,8 +960,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/ru/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer управляет одним из крупнейших специализированных производств надувных лодок в Циндао, Китай. Наша фабрика площадью 12 000 м² разделена на шесть специализированных цехов, работающих параллельно, что даёт нам возможность выпускать более 15 000 лодок в год по направлениям SUP, байдарки, шлюпки, RIB и средства безопасности.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon управляет одним из крупнейших специализированных производств надувных лодок в Циндао, Китай. Наша фабрика площадью 12 000 м² разделена на шесть специализированных цехов, работающих параллельно, что даёт нам возможность выпускать более 15 000 лодок в год по направлениям SUP, байдарки, шлюпки, RIB и средства безопасности.\n',
   },
   {
     f: 'src/data/pages/ru/factory-capacity.yaml',
@@ -1020,8 +1020,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/sv/factory-capacity.yaml',
-    find: 'intro: >-\n  afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
-    rep: 'intro: >-\n  afarer driver ett av de största dedikerade produksionsanläggningarna för uppblåsbara båtar i Qingdao i Kina. Vår fabrik på 12 000 m² är organiserad i sex specialiserade verkstäder som arbetar parallellt, vilket ger oss kapacitet att producera över 15 000 båtar årligt inom linjerna för SUP, kajaker, jollar, RIB och säkerhetsutrustning.\n',
+    find: 'intro: >-\n  olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, SUP, SUP, SUP, and safety\n  equipment lines.\n',
+    rep: 'intro: >-\n  olagoon driver ett av de största dedikerade produksionsanläggningarna för uppblåsbara båtar i Qingdao i Kina. Vår fabrik på 12 000 m² är organiserad i sex specialiserade verkstäder som arbetar parallellt, vilket ger oss kapacitet att producera över 15 000 båtar årligt inom linjerna för SUP, kajaker, jollar, RIB och säkerhetsutrustning.\n',
   },
   {
     f: 'src/data/pages/sv/factory-capacity.yaml',
@@ -1150,8 +1150,8 @@ module.exports = [
   },
   {
     f: 'src/data/pages/factory-capacity.yaml',
-    find: 'intro: afarer operates one of the largest dedicated inflatable SUP manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boards annually across SUP and safety equipment lines.\n',
-    rep: 'intro: afarer operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, kayak, dinghy, RIB, and safety equipment lines.\n',
+    find: 'intro: olagoon operates one of the largest dedicated inflatable SUP manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boards annually across SUP and safety equipment lines.\n',
+    rep: 'intro: olagoon operates one of the largest dedicated inflatable boat manufacturing facilities in Qingdao, China. Our 12,000 m² factory is organized into six specialized workshops operating in parallel, giving us the capacity to produce over 15,000 boats annually across SUP, kayak, dinghy, RIB, and safety equipment lines.\n',
   },
   {
     f: 'src/data/pages/factory-capacity.yaml',

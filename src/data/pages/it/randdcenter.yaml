@@ -7,7 +7,7 @@ hero:
   subtitle: Concentrato sul progresso
 intro:
   - >-
-    Il Centro di Ricerca e Sviluppo (R&S) di Afarer's è la forza trainante dietro la nostra missione di rivoluzionare l'attrezzatura per sport acquatici. Offriamo agli appassionati di sport acquatici di tutto il mondo prodotti più sicuri, confortevoli e divertenti attraverso un'innovazione
+    Il Centro di Ricerca e Sviluppo (R&S) di OLagoon's è la forza trainante dietro la nostra missione di rivoluzionare l'attrezzatura per sport acquatici. Offriamo agli appassionati di sport acquatici di tutto il mondo prodotti più sicuri, confortevoli e divertenti attraverso un'innovazione
     incessante nelle tavole paddle gonfiabili (SUP). Il nostro team dedicato di ingegneri, designer ed esperti appassionati di sport acquatici sta plasmando il futuro del settore, alzando costantemente gli standard di qualità, prestazioni e sostenibilità.
   - >-
     Il nostro centro di R&S riunisce sotto un unico tetto scienziati dei materiali, ingegneri navali e ingegneri di produzione. Dalla formulazione dei materiali e dalla simulazione dello scafo allo sviluppo dei processi di saldatura e alle prove in mare a grandezza naturale, ogni fase dello
@@ -95,33 +95,33 @@ vision:
   tagline: La nostra visione
   title: Plasmare il futuro degli sport acquatici
   body: >-
-    afarer si sforza di guidare l'industria dei SUP gonfiabili attraverso un'innovazione continua, una qualità incrollabile e un impegno costante per la sicurezza e la sostenibilità — arricchendo in ultima analisi le esperienze degli appassionati di sport acquatici in tutto il mondo.
-    Il Centro R&S di afarer è il luogo dove la passione incontra l'innovazione, stabilendo nuovi standard per l'industria degli sport acquatici.
+    olagoon si sforza di guidare l'industria dei SUP gonfiabili attraverso un'innovazione continua, una qualità incrollabile e un impegno costante per la sicurezza e la sostenibilità — arricchendo in ultima analisi le esperienze degli appassionati di sport acquatici in tutto il mondo.
+    Il Centro R&S di olagoon è il luogo dove la passione incontra l'innovazione, stabilendo nuovi standard per l'industria degli sport acquatici.
 labs_section:
   tagline: Laboratori
   title: I nostri laboratori
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: Laboratorio di Tessuti in PVC
       description: Ricerca e test continui di tessuti in PVC per il ponte per resistenza alla trazione, resistenza ai raggi UV, abrasione e flessibilità a basse temperature per garantire affidabilità a lungo termine negli ambienti marini.
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Studio di Ingegneria Hull
       description: Progettazione basata su CAD e analisi agli elementi finiti di scafi in HDPE, alluminio e fibra di vetro. Ogni scafo viene simulato digitalmente per la distribuzione dello stress e la resistenza agli urti prima che venga costruito il primo prototipo.
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Centro di Saldatura RF
       description: Struttura dedicata alla saldatura a radiofrequenza con controllo preciso della temperatura e della pressione, producendo giunzioni ad alta resistenza e a tenuta stagna che soddisfano gli standard dell'industria nautica per i mezzi gonfiabili.
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Vasca di prova idrodinamica
       description: Prove su modelli in scala nel nostro bacino di prova interno per ottimizzare la forma dello scafo, le prestazioni in planata, la stabilità e l'efficienza del carburante in una gamma di condizioni di carico e di mare.
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Officina di Prototipi
       description: Struttura completa per prototipazione e attrezzaggio dove vengono costruiti, montati e collaudati in mare nuovi modelli. Ogni prototipo viene sottoposto a un programma di prova in acqua della durata minima di 20 ore prima dell'approvazione alla produzione.
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: Laboratorio di Qualità e Ispezione
       description: Laboratorio di controllo qualità dedicato che esegue test di trazione, cicli di ritenzione dell'aria, test di sbucciatura delle cuciture e certificazione dei materiali per garantire che ogni tavola che lascia l'officina soddisfi le nostre specifiche pubblicate.
       href: /randdcenter/quality-inspection-lab/

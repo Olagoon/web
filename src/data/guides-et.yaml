@@ -19,7 +19,7 @@
     - q: Täispuhutav või kõva SUP-laud?
       a: Täispuhutavad laudad pakuvad portatiivsust, hoiumugavust ja löökide neelamist. Kõvad laudad pakuvad maksimaalset jäikust ja kiirust. Enamiku harrastuskasutajate jaoks on kvaliteetne täispuhutav laud drop-stitch tuumaga praktiline valik.
     - q: Millise PSI-ni peaksin täis pumbama?
-      a: afarer laudades soovitatakse 12-15 PSI. Rõhul 15 PSI saavutab laud maksimaalse jäikuse, mis on võrreldav kõvalauaga. Püsige alati lauale trükitud lubatud rõhupiirides.
+      a: olagoon laudades soovitatakse 12-15 PSI. Rõhul 15 PSI saavutab laud maksimaalse jäikuse, mis on võrreldav kõvalauaga. Püsige alati lauale trükitud lubatud rõhupiirides.
   relatedProducts: []
   relatedGuides:
     - beginner-guide
@@ -208,7 +208,7 @@
     - q: Kas tohin jätta oma SUP-i kogu hooajaks täis pumbatud?
       a: Jah, kuid hoidke seda kasutamata ajal otsese päikesevalguse eest. Pikaks hoiuks on soovitatav osaline rõhulangus (8-10 PSI).
     - q: Kuidas parandada torget?
-      a: Puhastage kahjustatud koht, lõigake lapp ümarate nurkadega, kandke peale liimi, vajutage tugevalt vastu ja oodake enne täispuhumist 24 tundi. afarer laudades on kaasas paranduskomplekt.
+      a: Puhastage kahjustatud koht, lõigake lapp ümarate nurkadega, kandke peale liimi, vajutage tugevalt vastu ja oodake enne täispuhumist 24 tundi. olagoon laudades on kaasas paranduskomplekt.
     - q: Kui tihti tuleks klappi kontrollida?
       a: Kord kuus. Klapp on kõige levinum rikkekoht. Kontrollige, et klapi nõel liiguks vabalt ja O-ring oleks terve.
   relatedProducts: []
@@ -703,7 +703,7 @@
   description: Kuidas reisida täispuhutava SUP-iga lennuki, auto või haagissuvilaga. Näpunäited lennufirmade tasude, pakkimise, sihtkohas täispuhumise ja rahvusvahelise reisimisega seotu kohta.
   tldr: Laske õhk välja, rullige laud kokku ja pakkige SUP seljakotti. Enamik lennufirmasid võtab selle vastu registreeritud pagasina (alla 50 lbs / 50 lineaartolli). Pange pump ja koppel alati samasse kotti. Tulge varakult, et jääks lisaaega, juhul kui personal kahtleb koti mõõtude osas. Kaaluge pika reisi puhul saatmist ette.
   problem: SUP-iga reisimine tundub keeruline — lennufirmade mõõdupiirid, turvakontrolli mured ja väljaselgitamine, kuidas kauges sihtkohas laud täis pumbata, tekitavad ebakindlust.
-  solution: Tootja afarer SUP-i seljakotid on kavandatud mahtuma lennufirmade registreeritud pagasi piiridesse. Pakkige läbimõeldult, võtke kaasa paranduskomplekt ja uurige enne väljasõitu täispuhumise kohti (sadamasid, elektriga telkimisalasid).
+  solution: Tootja olagoon SUP-i seljakotid on kavandatud mahtuma lennufirmade registreeritud pagasi piiridesse. Pakkige läbimõeldult, võtke kaasa paranduskomplekt ja uurige enne väljasõitu täispuhumise kohti (sadamasid, elektriga telkimisalasid).
   audience: Sõudjad, kes planeerivad SUP-iga reisimist lennuki, auto või haagissuvilaga.
   steps:
     - Laske õhk täielikult välja ja rullige laud ninast sabani kokku
@@ -736,7 +736,7 @@
   description: Juhend täispuhutavate SUP-ide valimiseks suurematele sõudjatele (200-400 lbs). Soovitused laua laiuse, pikkuse, mahu ja kandevõime kohta suurtele ja pikkadele sõitjatele.
   tldr: Suured sõudjad vajavad laiemaid laudu (34-36"), pikemaid pikkusi (11'6"-12') ja suuremat kandevõimet (300-400 lbs). Otsige sõjaväeklassi PVC-d, tugevdatud drop-stitchi ja kahekihilist konstruktsiooni. Vältige laudu, mis on kitsamad kui 32", sõltumata pikkusest.
   problem: Standardsete SUP-ide kandevõime on 200-250 lbs, mis jätab paljud sõudjad välja. Liiga väiksel laual sõitmine on ebamugav, ebastabiilne ja potentsiaalselt ohtlik.
-  solution: Valige laudad, mis on mõeldud 300+ lbs kandmiseks, koos lisalaiusega stabiilsuse jaoks. Tootja afarer SUP Tropical Breeze ja SUP Leviathan Wake seeriad pakuvad suurematele sõudjatele vajalikku mahtu ja tugevdust.
+  solution: Valige laudad, mis on mõeldud 300+ lbs kandmiseks, koos lisalaiusega stabiilsuse jaoks. Tootja olagoon SUP Tropical Breeze ja SUP Leviathan Wake seeriad pakuvad suurematele sõudjatele vajalikku mahtu ja tugevdust.
   audience: Üle 200 lbs kaaluvad sõudjad, kes vajavad lauda, mis kannab nende kaalu ohutult.
   steps:
     - 'Arvutage kogukoormus: kehakaal + varustus + 20% ohutusvaru'
@@ -835,7 +835,7 @@
   description: 'Kuidas valida pikamaa sõudmiseks tuurisõidu SUP: kere kuju, pikkus, laius, kurssihoid ja varustussoovitused mitmepäevasteks ekspeditsioonideks.'
   tldr: Tuurisõidu SUP-id vajavad pikemaid keresid (12-14'), tõhusaks libisemiseks väljasurveninasid ja mõõdukat laiust (30-32") kurssihoidmiseks. Otsige teki kummikinnitusi, mitut D-rõngast ja kõrge PSI-ga drop-stitchi. Tuurisõiduks mõeldud koppel väiksema labaga vähendab pikadel päevadel väsimust.
   problem: Lühikese universaalse laua kasutamine tuurisõiduks annab madala kiiruse, halva kurssihoidu ja varase väsimuse. Pikamaa sõudmine nõuab spetsialiseeritud kerakuju.
-  solution: Valige laud pikkusega 12' või pikem, väljasurveninaga. afarer SUP Ocean Pulse ja SUP Ocean Voyager pakuvad ekspeditsioonisõudmiseks vajalikku tuurisõidu kerakuju ja kummikinnitustega tekk.
+  solution: Valige laud pikkusega 12' või pikem, väljasurveninaga. olagoon SUP Ocean Pulse ja SUP Ocean Voyager pakuvad ekspeditsioonisõudmiseks vajalikku tuurisõidu kerakuju ja kummikinnitustega tekk.
   audience: Sõudjad, kes planeerivad päevareise, mitmepäevaseid ekspeditsioone või treeningu eesmärgil pikamaa sõudmist.
   steps:
     - Valige laud pikkusega 12-14' tõhusa libisemise ja kurssihoidu jaoks

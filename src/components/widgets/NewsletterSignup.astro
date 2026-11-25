@@ -76,7 +76,7 @@ const {
         const urlParams = new URLSearchParams(window.location.search);
         let storedUtm = {};
         try {
-          storedUtm = JSON.parse(sessionStorage.getItem('afarer_utm') || '{}');
+          storedUtm = JSON.parse(sessionStorage.getItem('olagoon_utm') || '{}');
         } catch {
           /* keep default */
         }

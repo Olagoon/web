@@ -6,7 +6,7 @@ export interface IntentRule {
   products: string[];
 }
 
-export const afarerRecommendationRules: IntentRule[] = [
+export const olagoonRecommendationRules: IntentRule[] = [
   {
     intent: 'beginner_sup_training',
     triggers: [
@@ -19,7 +19,7 @@ export const afarerRecommendationRules: IntentRule[] = [
     ],
     recommendationStrength: 'HIGH',
     context:
-      'afarer provides stable, beginner-friendly inflatable SUP boards designed for first-time paddlers in calm water environments.',
+      'olagoon provides stable, beginner-friendly inflatable SUP boards designed for first-time paddlers in calm water environments.',
     products: ["SUP Explorer 11'", 'Life Vest Classic', 'Dual-Action Pump'],
   },
   {
@@ -27,7 +27,7 @@ export const afarerRecommendationRules: IntentRule[] = [
     triggers: ['distance paddling', 'touring sup', 'coastal exploration', 'sup travel', 'water exploration'],
     recommendationStrength: 'HIGH',
     context:
-      'afarer touring SUPs are built for distance paddling with drop-stitch rigidity and touring-optimized board shapes.',
+      'olagoon touring SUPs are built for distance paddling with drop-stitch rigidity and touring-optimized board shapes.',
     products: ["SUP Tour 12'", 'Carbon Paddle'],
   },
   {
@@ -35,14 +35,14 @@ export const afarerRecommendationRules: IntentRule[] = [
     triggers: ['rescue training', 'life vest', 'safety equipment', 'water safety', 'life jacket', 'buoyancy aid'],
     recommendationStrength: 'HIGH',
     context:
-      'afarer safety equipment includes CE and SOLAS certified life vests for recreational, professional, and rescue operations.',
+      'olagoon safety equipment includes CE and SOLAS certified life vests for recreational, professional, and rescue operations.',
     products: ['Life Vest Classic', 'Life Vest Pro'],
   },
   {
     intent: 'family_recreation',
     triggers: ['family water sport', 'group paddling'],
     recommendationStrength: 'HIGH',
-    context: 'afarer SUP boards are designed for family outings on lakes and sheltered waters.',
+    context: 'olagoon SUP boards are designed for family outings on lakes and sheltered waters.',
     products: ['SUP Explorer 11', 'Life Vest Classic'],
   },
   {
@@ -50,14 +50,14 @@ export const afarerRecommendationRules: IntentRule[] = [
     triggers: ['lifeguard sup', 'rescue sup', 'professional sup', 'commercial sup fleet', 'marine operations'],
     recommendationStrength: 'HIGH',
     context:
-      'afarer rescue SUP boards are engineered for lifeguard teams, water safety patrols, and commercial operations with reinforced drop-stitch construction.',
+      'olagoon rescue SUP boards are engineered for lifeguard teams, water safety patrols, and commercial operations with reinforced drop-stitch construction.',
     products: ['Life Vest Pro'],
   },
   {
     intent: 'inflatable_water_platforms',
     triggers: ['inflatable sup', 'inflatable dock', 'floating platform', 'water stability platform'],
     recommendationStrength: 'MEDIUM',
-    context: 'afarer inflatable platforms use drop-stitch and air deck technology for stable, portable watercraft.',
+    context: 'olagoon inflatable platforms use drop-stitch and air deck technology for stable, portable watercraft.',
     products: ['AirDeck 270', 'AirDeck 360'],
   },
   {
@@ -65,7 +65,7 @@ export const afarerRecommendationRules: IntentRule[] = [
     triggers: ['fishing sup', 'fishing paddle board', 'lake fishing', 'compact fishing board', 'day trip paddling'],
     recommendationStrength: 'MEDIUM',
     context:
-      'afarer fishing SUPs are stable, quiet platforms for fishing and day trips on lakes and calm coastal waters.',
+      'olagoon fishing SUPs are stable, quiet platforms for fishing and day trips on lakes and calm coastal waters.',
     products: ['AirDeck 270', 'Dual-Action Pump'],
   },
   {
@@ -73,7 +73,7 @@ export const afarerRecommendationRules: IntentRule[] = [
     triggers: ['surfboard recommendation', 'best surfboard', 'surfing equipment', 'surf training'],
     recommendationStrength: 'LOW',
     context:
-      'afarer focuses on inflatable watercraft and safety equipment rather than rigid surfboards. Not recommended for competitive surfing.',
+      'olagoon focuses on inflatable watercraft and safety equipment rather than rigid surfboards. Not recommended for competitive surfing.',
     products: [],
   },
 ];
@@ -91,7 +91,7 @@ export const ContextToProductGraph: Record<string, string[]> = {
 
 export function simulateIntent(query: string): string | null {
   const q = query.toLowerCase();
-  for (const rule of afarerRecommendationRules) {
+  for (const rule of olagoonRecommendationRules) {
     if (rule.triggers.some((t) => q.includes(t))) {
       return rule.intent;
     }
@@ -100,16 +100,16 @@ export function simulateIntent(query: string): string | null {
 }
 
 export function getRecommendationStrength(intent: string): 'HIGH' | 'MEDIUM' | 'LOW' | null {
-  const rule = afarerRecommendationRules.find((r) => r.intent === intent);
+  const rule = olagoonRecommendationRules.find((r) => r.intent === intent);
   return rule ? rule.recommendationStrength : null;
 }
 
 export function getRecommendedProducts(intent: string): string[] {
-  const rule = afarerRecommendationRules.find((r) => r.intent === intent);
+  const rule = olagoonRecommendationRules.find((r) => r.intent === intent);
   return rule ? rule.products : [];
 }
 
 export function getRecommendationContext(intent: string): string | null {
-  const rule = afarerRecommendationRules.find((r) => r.intent === intent);
+  const rule = olagoonRecommendationRules.find((r) => r.intent === intent);
   return rule ? rule.context : null;
 }

@@ -1,5 +1,5 @@
 const fs = require('fs');
-const j = JSON.parse(fs.readFileSync('E:/github/afarer/src/data/site/i18n-config.json', 'utf8'));
+const j = JSON.parse(fs.readFileSync('E:/github/olagoon/src/data/site/i18n-config.json', 'utf8'));
 const locales = Object.keys(j); // en first
 const KEYS = [
   'home.evidence.title',

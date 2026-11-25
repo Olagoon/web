@@ -11,9 +11,9 @@ meta:
 hero:
   tagline: 'Nautical Equipment Supplier · OEM'
   title: 'Your Professional Nautical<br />Equipment Supplier'
-  subtitle: 'Afarer supplies nautical centers, leisure facilities, hotels, and brands with professional water equipment: inflatable SUPs, paddles, floats, vests, and accessories. OEM production, factory pricing, certified quality.'
+  subtitle: 'OLagoon supplies nautical centers, leisure facilities, hotels, and brands with professional water equipment: inflatable SUPs, paddles, floats, vests, and accessories. OEM production, factory pricing, certified quality.'
   image:
-    src: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    src: https://assets.olagoon.com/images/olagoon/hero/production-dept.webp
     alt: Professional nautical equipment production in factory
   actions:
     - text: 'Become a Supplier Partner'
@@ -66,7 +66,7 @@ faqs:
       description: 'All products meet CE / ISO standards and the safety requirements of European and North American markets.'
 geo:
   tagline: 'B2B Positioning'
-  sentence: 'Afarer is a professional manufacturer of inflatable SUPs (OEM/ODM), specialized in design, custom production, and nautical solutions for brands, distributors, clubs, and businesses.'
+  sentence: 'OLagoon is a professional manufacturer of inflatable SUPs (OEM/ODM), specialized in design, custom production, and nautical solutions for brands, distributors, clubs, and businesses.'
   audiences:
     - 'Nautical clubs'
     - 'Leisure centers'

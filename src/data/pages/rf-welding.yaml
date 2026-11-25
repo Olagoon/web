@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 03'
   title: 'RF Welding Center'
   subtitle: 'Dielectric bonding technology for welds that hold under pressure'
-  image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp'
-  image_alt: 'Afarer RF welding dielectric bonding process'
+  image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp'
+  image_alt: 'OLagoon RF welding dielectric bonding process'
 
-intro: 'An inflatable SUP is only as reliable as its seams. A single weak weld can compromise an entire chamber — and at sea, a chamber failure is not an inconvenience; it is a safety hazard. At Afarer, we have invested in a dedicated Radio-Frequency (RF) Welding Center that combines industrial-grade dielectric welding presses with rigorous process control and post-weld testing. Every seam we produce is documented, traceable, and certified to meet or exceed the requirements of EN ISO 25649 — the European standard for inflatable leisure equipment.'
+intro: 'An inflatable SUP is only as reliable as its seams. A single weak weld can compromise an entire chamber — and at sea, a chamber failure is not an inconvenience; it is a safety hazard. At OLagoon, we have invested in a dedicated Radio-Frequency (RF) Welding Center that combines industrial-grade dielectric welding presses with rigorous process control and post-weld testing. Every seam we produce is documented, traceable, and certified to meet or exceed the requirements of EN ISO 25649 — the European standard for inflatable leisure equipment.'
 
 content_html: |
   <h2>The science behind the seam</h2>
@@ -80,7 +80,7 @@ content_html: |
 
   <h2>Our commitment to you</h2>
   <p>Every board we deliver carries our weld-quality guarantee: if any seam fails in normal service within the warranty period, we repair or replace the affected chamber at no cost, and a root-cause investigation is performed to prevent recurrence. This is not simply a warranty — it is a commitment to continuous improvement driven by real-world operational data.</p>
-  <p>When you choose Afarer, you are choosing seams that are engineered, tested, and documented — not just welded. That is the difference between a board that floats and a board that performs.</p>
+  <p>When you choose OLagoon, you are choosing seams that are engineered, tested, and documented — not just welded. That is the difference between a board that floats and a board that performs.</p>
 
 cta:
   title: 'Discuss your welding requirements'

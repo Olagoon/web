@@ -1,6 +1,6 @@
 meta:
   title: 'Partneri — distribúcia a veľkoobchod | {SITE}'
-  description: 'Staňte sa partnerom afarer: distribučné siete, veľkoobchodné ceny, programy OEM/private label a podpora pre podniky s paddle boardmi po celom svete.'
+  description: 'Staňte sa partnerom olagoon: distribučné siete, veľkoobchodné ceny, programy OEM/private label a podpora pre podniky s paddle boardmi po celom svete.'
   keywords:
     - 'distribučný partner sup'
     - 'veľkoobchod s paddle boardmi'
@@ -8,15 +8,15 @@ meta:
     - 'partnerstvo sup'
 hero:
   tagline: 'Partneri a distribúcia'
-  title: 'Staňte sa partnerom afarer<br />— globálna distribučná sieť'
-  subtitle: 'Pripojte sa ku globálnej partnerskej sieti afarer. Spolupracujeme s morskými distribútormi, predajcami pádlarských športov, predajcami vybavenia a značkovými partnermi vo viac než 50 krajinách.'
+  title: 'Staňte sa partnerom olagoon<br />— globálna distribučná sieť'
+  subtitle: 'Pripojte sa ku globálnej partnerskej sieti olagoon. Spolupracujeme s morskými distribútormi, predajcami pádlarských športov, predajcami vybavenia a značkovými partnermi vo viac než 50 krajinách.'
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: 'globálna partnerská a distribučná sieť afarer'
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: 'globálna partnerská a distribučná sieť olagoon'
 content_programs:
   tagline: 'Partnerské programy'
   title: 'Partnerské programy<br />postavené na raste'
-  subtitle: 'Či už ste distribútor, predajca alebo značkový partner, afarer ponúka programy navrhnuté na podporu vášho podniku.'
+  subtitle: 'Či už ste distribútor, predajca alebo značkový partner, olagoon ponúka programy navrhnuté na podporu vášho podniku.'
   columns: 3
   items:
     - title: 'Distribučný program'
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: 'Prečo spolupracovať s nami'
-  title: 'Prečo si partneri vyberajú afarer'
+  title: 'Prečo si partneri vyberajú olagoon'
   subtitle: 'Naši partneri profitujú zo skutočných výrobných schopností, konzistentnej kvality a odozbovej podpory.'
   list:
     - 'Priamy prístup k výrobe: Spolupracujte priamo s naším výrobným tímom — bez sprostredkovateľov. Získajte rýchlejšie odpovede, lepšie ceny a plný prehľad o výrobe.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: 'Ako sa stať partnerom'
   title: 'Jednoduchý proces partnerstva'
-  subtitle: 'Náš proces partnerstva je priamočiary — navrhnutý tak, aby ste mohli rýchlo predávať produkty afarer.'
+  subtitle: 'Náš proces partnerstva je priamočiary — navrhnutý tak, aby ste mohli rýchlo predávať produkty olagoon.'
   items:
     - title: 'Krok 1: Podanie žiadosti'
       description: 'Vyplňte náš formulár partnerskej žiadosti s profilom vašej spoločnosti, cieľovým trhom a záujmom o produkty.'
@@ -62,7 +62,7 @@ content_process:
     - title: 'Krok 4: Školenie a spustenie'
       description: 'Poskytneme produktové školenia, predajnú podporu a marketingové materiály. Ste pripravení začať predávať.'
 cta:
-  title: 'Pripravení stať sa partnerom afarer?'
+  title: 'Pripravení stať sa partnerom olagoon?'
   subtitle: 'Požiadajte o partnerstvo a náš tím odpovie do 3 pracovných dní.'
   actions:
     - variant: primary

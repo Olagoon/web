@@ -1,10 +1,10 @@
 const fs = require('fs');
 const files = [
-  '[lang]/afarer-story.astro',
+  '[lang]/olagoon-story.astro',
   '[lang]/brand/team.astro',
   '[lang]/brand-global-presence.astro',
   '[lang]/brand-marine-expertise.astro',
-  '[lang]/brand-why-afarer.astro',
+  '[lang]/brand-why-olagoon.astro',
   '[lang]/cases/index.astro',
   '[lang]/certifications.astro',
   '[lang]/partners.astro',
@@ -19,7 +19,7 @@ const files = [
   '[lang]/solutions/retail-partners.astro',
   '[lang]/solutions/[slug].astro',
 ];
-const ROOT = 'E:/github/afarer/src/pages/';
+const ROOT = 'E:/github/olagoon/src/pages/';
 
 const BROKEN_PLAIN = 'const lh = (h: string) => (h ? withTrailingSlash() : h);';
 const FIXED_PLAIN = 'const lh = (h: string) => (h ? withTrailingSlash(`/${lang}${h}`) : h);';

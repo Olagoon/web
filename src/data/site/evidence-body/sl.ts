@@ -323,7 +323,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     product: 'Celotna produktova linija — SUP deske in dodatki',
     industry: 'Distribucija / Pomorstvo',
     challenge:
-      'Distributer s sedežem v Svetu za sodelovanje v Perzijskem zalivu (GCC) je želel ekskluzivne pravice za zastopanje celotne afarer produktne linije v 6 državah Zaliva, z embalažo v arabščini po meri, specifikacijami materialov, odpornih na vročino, in garancijskimi pogoji v skladu s šarijo.',
+      'Distributer s sedežem v Svetu za sodelovanje v Perzijskem zalivu (GCC) je želel ekskluzivne pravice za zastopanje celotne olagoon produktne linije v 6 državah Zaliva, z embalažo v arabščini po meri, specifikacijami materialov, odpornih na vročino, in garancijskimi pogoji v skladu s šarijo.',
     solution:
       'Sklenili smo ekskluzivno distribucijsko pogodbo. Razvili smo arabsko embalažo in tržno gradivo. Potrdili smo specifikacije materialov pri okoljski temperaturi 50°C. Prilagodili smo garancijske pogoje za regionalno skladnost.',
     result:
@@ -400,7 +400,7 @@ export const bodyOverrides: EvidenceBodyMap = {
     challenge:
       'Tehnološko podjetje s seznama Fortune 500 je želelo uvesti vodni program dobrega počutja za zaposlene na 4 globalnih kampusih ob jezerih, s 60 SUP deskami s korporativnim označevanjem, rešitvami za shranjevanje in usposabljanjem inštruktorjev.',
     solution:
-      'Dobavili smo floto stabilnih vsestranskih SUP desk z grafiko krovov s korporativnim logotipom. Oblikovali smo vremensko odporne stojala za shranjevanje na lokaciji. Potrdili smo 12 internih inštruktorjev prek afarer programa usposabljanja.',
+      'Dobavili smo floto stabilnih vsestranskih SUP desk z grafiko krovov s korporativnim logotipom. Oblikovali smo vremensko odporne stojala za shranjevanje na lokaciji. Potrdili smo 12 internih inštruktorjev prek olagoon programa usposabljanja.',
     result:
       'Program je bil uveden na 4 kampusih. Več kot 2,400 sodelovanj zaposlenih v prvem letu. 94-odstotna ocena zadovoljstva zaposlenih. Predstavljeno v poročilu podjetja o trajnostnosti.',
     outcomeMetrics: [

@@ -19,7 +19,7 @@
     - q: Şişme mi, sert SUP tahtası mı?
       a: Şişme tahtalar taşınabilirlik, depolama kolaylığı ve darbe emilimi sunar. Sert tahtalar maksimum sertlik ve hız sunar. Çoğu rekreasyon kullanıcısı için drop-stitch çekirdekli kaliteli bir şişme tahta pratik seçimdir.
     - q: Hangi PSI değerine şişirmeliyim?
-      a: afarer tahtaları 12-15 PSI önerir. 15 PSI'da tahta, sert bir tahtayla karşılaştırılabilir maksimum sertliğe ulaşır. Her zaman tahtanın üzerinde yazılı nominal basınç aralığı içinde kalın.
+      a: olagoon tahtaları 12-15 PSI önerir. 15 PSI'da tahta, sert bir tahtayla karşılaştırılabilir maksimum sertliğe ulaşır. Her zaman tahtanın üzerinde yazılı nominal basınç aralığı içinde kalın.
   relatedProducts: []
   relatedGuides:
     - beginner-guide
@@ -208,7 +208,7 @@
     - q: SUP tahtamı bütün sezon şişik bırakabilir miyim?
       a: Evet, ancak kullanmadığınızda doğrudan güneş ışığından uzak tutun. Uzun süreli depolama için kısmi söndürme (8-10 PSI) önerilir.
     - q: Bir deliği nasıl tamir ederim?
-      a: Bölgeyi temizleyin, köşeleri yuvarlatılmış bir yama kesin, PVC yapıştırıcı sürün, sıkıca bastırın ve şiirmeden önce 24 saat bekleyin. afarer tahtaları tamir kitiyle gelir.
+      a: Bölgeyi temizleyin, köşeleri yuvarlatılmış bir yama kesin, PVC yapıştırıcı sürün, sıkıca bastırın ve şiirmeden önce 24 saat bekleyin. olagoon tahtaları tamir kitiyle gelir.
     - q: Valfi ne sıklıkla kontrol etmeliyim?
       a: Aylık. Valf en yaygın arıza noktasıdır. Valf iğnesinin serbestçe hareket ettiğini ve O-ringin sağlam olduğunu kontrol edin.
   relatedProducts: []
@@ -703,7 +703,7 @@
   description: Şişme bir SUP ile uçakla, arabayla veya karavanla seyahat etme. Havayolu ücretleri, paketleme, varış noktasında şiirme ve uluslararası seyahat konularında ipuçları.
   tldr: SUP'unuzu söndürün, sarın ve sırt çantasına paketleyin. Çoğu havayolu onu kayıtlı bagaj olarak kabul eder (50 pound / 50 lineer inç altında). Pompa ve küreği her zaman aynı çantaya koyun. Görevli çanta boyutunu sorgularsa ek süre için erken gelin. Uzun geziler için önceden kargo göndermeyi düşünün.
   problem: SUP ile seyahat karmaşık görünür — havayolu boyut limitleri, güvenlik kontrolleri ve uzak bir varış noktasında nasıl şiirileceği belirsizlik yaratır.
-  solution: afarer SUP sırt çantası, havayolu kayıtlı bagaj limitlerini karşılayacak şekilde tasarlanmıştır. Stratejik paketleyin, bir tamir kiti taşıyın ve yola çıkmadan önce şiirme noktalarını (marinalar, elektrikli kamp alanları) araştırın.
+  solution: olagoon SUP sırt çantası, havayolu kayıtlı bagaj limitlerini karşılayacak şekilde tasarlanmıştır. Stratejik paketleyin, bir tamir kiti taşıyın ve yola çıkmadan önce şiirme noktalarını (marinalar, elektrikli kamp alanları) araştırın.
   audience: Havayoluyla, arabayla veya karavanla SUP seyahati planlayan kürekçiler.
   steps:
     - Tahtayı tamamen söndürün ve burundan kuyruğa doğru sarın
@@ -736,7 +736,7 @@
   description: Daha büyük kürekçiler (200-400 pound) için şişme SUP seçme rehberi. Büyük ve uzun sürücüler için tahta genişliği, uzunluğu, hacmi ve ağırlık kapasitesi önerileri.
   tldr: Büyük kürekçiler daha geniş tahtalara (34-36"), daha uzun boylara (11'6"-12') ve daha yüksek ağırlık kapasitesine (300-400 pound) ihtiyaç duyar. Askeri sınıf PVC, takviyeli drop-stitch ve çift katmanlı yapı arayın. Uzunluğuna bakılmaksızın 32" altı dar tahtalardan kaçının.
   problem: Standart SUP'ların ağırlık kapasitesi 200-250 pounddur ve bu birçok kürekçiyi dışlar. Küçük bir tahtada sürüş rahatsız, kararsız ve potansiyel olarak tehlikelidir.
-  solution: Stabilite için ekstra genişlikli, 300+ pound dereceli tahtalar seçin. afarer'in Tropical Breeze ve Leviathan Wake serileri, büyük kürekçilerin ihtiyaç duyduğu hacmi ve takviyeyi sunar.
+  solution: Stabilite için ekstra genişlikli, 300+ pound dereceli tahtalar seçin. olagoon'in Tropical Breeze ve Leviathan Wake serileri, büyük kürekçilerin ihtiyaç duyduğu hacmi ve takviyeyi sunar.
   audience: Kilosunu güvenle taşıyan bir tahtaya ihtiyaç duyan 200 pound üzeri kürekçiler.
   steps:
     - Toplam yükü hesaplayın — vücut ağırlığı + ekipman + %20 güvenlik marjı
@@ -835,7 +835,7 @@
   description: Uzun mesafe kürek çekme için turizm SUP'u seçme — gövde tasarımı, uzunluk, genişlik, rota tutuşu ve çok günlük seferler için ekipman önerileri.
   tldr: Turizm SUP'ları daha uzun gövdeler (12-14'), verimli kayma için deplasman burnu ve rota için orta genişlik (30-32") ister. Lastik güverte bağcıkları, çoklu D-ring ve yüksek PSI drop-stitch arayın. Uzun günlerde yorgunluğu azaltan küçük palli bir turizm küreği seçin.
   problem: Turizm için kısa bir all-around tahta kullanmak, yavaş hıza, kötü rota tutuşuna ve erken yorgunluğa yol açar. Mesafe küreği, özel gövde tasarımı gerektirir.
-  solution: Deplasman burnulu 12' veya daha uzun bir tahta seçin. afarer'in Ocean Pulse ve Ocean Voyager'ı, sefer küreği için gereken turizme özel gövde şeklini ve lastik bağcıkları sunar.
+  solution: Deplasman burnulu 12' veya daha uzun bir tahta seçin. olagoon'in Ocean Pulse ve Ocean Voyager'ı, sefer küreği için gereken turizme özel gövde şeklini ve lastik bağcıkları sunar.
   audience: Günlük geziler, çok günlük seferler veya fitness mesafe küreği planlayan kürekçiler.
   steps:
     - Verimli kayma ve rota için 12-14' uzun bir tahta seçin

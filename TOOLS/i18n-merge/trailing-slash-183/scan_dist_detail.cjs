@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const FULL = process.argv[2] === 'full';
 
 function walkHtml(dir, out = []) {

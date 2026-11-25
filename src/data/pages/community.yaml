@@ -1,6 +1,6 @@
 meta:
   title: 'Community — SUP Adventures & Paddle Sports | {SITE}'
-  description: 'The afarer community: paddle clubs, SUP events, nautical adventures, and stories from inflatable stand up paddle enthusiasts.'
+  description: 'The olagoon community: paddle clubs, SUP events, nautical adventures, and stories from inflatable stand up paddle enthusiasts.'
   keywords:
     - 'paddle community'
     - 'sup club'
@@ -8,68 +8,68 @@ meta:
     - 'sup adventures'
 hero:
   tagline: 'Community'
-  title: 'The afarer Community'
+  title: 'The olagoon Community'
   subtitle: |
     Real people, real water, real adventures. From weekend paddlers to<br />
     professional operators — discover how our community explores the world on water.
-  image: 'https://assets.afarer.com/images/afarer/team/afarer-paddle-girls-team.webp'
-  imageAlt: 'afarer community paddling on calm waters'
+  image: 'https://assets.olagoon.com/images/olagoon/team/olagoon-paddle-girls-team.webp'
+  imageAlt: 'olagoon community paddling on calm waters'
 
 stats:
   title: 'Community by the numbers'
   stats:
     - title: '40+'
-      description: 'Countries with afarer customers'
+      description: 'Countries with olagoon customers'
     - title: '12+'
       description: 'Years of community adventures'
     - title: '10,000+'
       description: 'Happy paddlers worldwide'
     - title: '98%'
-      description: 'Would recommend afarer'
+      description: 'Would recommend olagoon'
 
 stories:
   tagline: 'Explorer Stories'
   title: 'Real adventures from real people'
-  subtitle: 'Hear from paddlers, families, and professionals who use afarer gear on the water.'
+  subtitle: 'Hear from paddlers, families, and professionals who use olagoon gear on the water.'
   items:
     - name: 'Sarah & Mike'
       title: 'SUP Explorer 11 owners, Canada'
       content: 'We took our Explorer 11s on a week-long trip through Algonquin Park. They handled portages and lake crossings beautifully. The drop-stitch construction meant we could inflate to 15 PSI and get hard-board performance from a packable board.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp'
       location: 'Algonquin Park, Canada'
     - name: 'Carlos R.'
       title: 'Cheetah Surge rider, Spain'
       content: 'The Cheetah Surge is my go-to for coastal cruising. The vibrant design turns heads on the beach, and the stability gives me confidence in light chop. It handles beautifully whether I am touring or just enjoying the sunset.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp'
       location: 'Costa Brava, Spain'
     - name: 'Lina & family'
       title: 'Flowing Lotus paddlers, Sweden'
       content: 'Weekend family adventures on the archipelago. The Flowing Lotus is stable enough for my daughter to stand on while I paddle. Inflates in about 10 minutes — no trailer needed, just pure family fun on the water.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-flowing-lotus-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp'
       location: 'Stockholm Archipelago, Sweden'
     - name: 'Lt. Cmdr. Andres'
       title: 'Ocean Voyager explorer, Philippines'
       content: 'I use my Ocean Voyager for long-distance coastal tours around Palawan. After months of daily use in tropical conditions, the board still performs like new. The touring shape cuts through chop that would stop lesser boards.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp'
       location: 'Palawan, Philippines'
     - name: 'Emma T.'
       title: 'Tropical Breeze first-timer, Australia'
       content: 'I had never been on a SUP before. The Tropical Breeze is so stable I felt confident on my first try. Now I paddle every weekend. The learning curve is basically zero — and the board looks amazing on the water.'
-      image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp'
+      image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp'
       location: 'Gold Coast, Australia'
 
 adventures_cta:
   tagline: 'Share Your Adventure'
   title: 'Your story could be here'
-  subtitle: 'Tag @afarer_watersports on Instagram or use #afarerAdventure for a chance to be featured.'
+  subtitle: 'Tag @olagoon_watersports on Instagram or use #olagoonAdventure for a chance to be featured.'
   instagram: 'Follow on Instagram'
   youtube: 'Subscribe on YouTube'
   facebook: 'Join on Facebook'
 
 locations:
   tagline: 'Global Community'
-  title: 'Where afarer travels'
-  subtitle: 'Tag @afarer_watersports on Instagram or use #afarerAdventure for a chance to be featured.'
+  title: 'Where olagoon travels'
+  subtitle: 'Tag @olagoon_watersports on Instagram or use #olagoonAdventure for a chance to be featured.'
   regions:
     - title: 'Europe'
       description: 'Lake Como · Stockholm Archipelago · Costa Brava · Croatian Coast · Scottish Lochs'
@@ -82,7 +82,7 @@ locations:
 
 cta:
   title: 'Ready to join the community?'
-  subtitle: 'Every afarer product is CE certified, backed by warranty, and designed for real adventures. Find yours today.'
+  subtitle: 'Every olagoon product is CE certified, backed by warranty, and designed for real adventures. Find yours today.'
   actions:
     - variant: primary
       text: 'Explore products'

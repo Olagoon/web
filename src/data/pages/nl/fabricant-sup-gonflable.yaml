@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Fabrikant van opblaasbaar SUP · fabriek in China'
   title: 'Uw fabrikant van opblaasbaar SUP<br />& paddleboards'
-  subtitle: 'Afarer is de OEM/ODM-fabriek achter vele merken van opblaasbare SUP. Wij ontwerpen, bouwen en verzenden paddleboards op maat — private label, eigen mal, groothandel. CE-certificering inbegrepen.'
+  subtitle: 'OLagoon is de OEM/ODM-fabriek achter vele merken van opblaasbare SUP. Wij ontwerpen, bouwen en verzenden paddleboards op maat — private label, eigen mal, groothandel. CE-certificering inbegrepen.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Opblaasbaar SUP board op maat geproduceerd door Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Opblaasbaar SUP board op maat geproduceerd door OLagoon
   actions:
     - text: 'Word partner'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Deel uw specificatie via ons contactformulier, ontvang binnen 24 uur een offerte, keur het monster goed en start daarna de massaproductie.'
 geo:
   tagline: 'B2B-positionering'
-  sentence: 'Afarer is een professionele fabrikant van opblaasbare SUP’s en opblaasbare boten (OEM/ODM), gespecialiseerd in ontwerp, productie op maat en nautische oplossingen voor merken, distributeurs, clubs en bedrijven.'
+  sentence: 'OLagoon is een professionele fabrikant van opblaasbare SUP’s en opblaasbare boten (OEM/ODM), gespecialiseerd in ontwerp, productie op maat en nautische oplossingen voor merken, distributeurs, clubs en bedrijven.'
   audiences:
     - 'Paddleboardmerken'
     - 'Distributeurs'

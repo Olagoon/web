@@ -1,6 +1,6 @@
 meta:
   title: 'Rakan Kongsi — Pengedaran & Borong | {SITE}'
-  description: 'Jadi rakan kongsi afarer: rangkaian pengedaran, harga borong, program OEM/label persendirian dan sokongan bagi perniagaan papan dayung di seluruh dunia.'
+  description: 'Jadi rakan kongsi olagoon: rangkaian pengedaran, harga borong, program OEM/label persendirian dan sokongan bagi perniagaan papan dayung di seluruh dunia.'
   keywords:
     - 'rakan kongsi pengedaran sup'
     - 'borong papan dayung'
@@ -8,15 +8,15 @@ meta:
     - 'perkongsian sup'
 hero:
   tagline: 'Rakan Kongsi & Pengedaran'
-  title: 'Jadi Rakan Kongsi afarer<br />— Rangkaian Pengedaran Global'
-  subtitle: 'Sertai rangkaian rakan kongsi global afarer. Kami bekerjasama dengan pengedar marin, peniaga sukan dayung, peruncit kelengkapan dan rakan kongsi jenama di 50+ negara.'
+  title: 'Jadi Rakan Kongsi olagoon<br />— Rangkaian Pengedaran Global'
+  subtitle: 'Sertai rangkaian rakan kongsi global olagoon. Kami bekerjasama dengan pengedar marin, peniaga sukan dayung, peruncit kelengkapan dan rakan kongsi jenama di 50+ negara.'
   image:
-    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
-    alt: 'rangkaian rakan kongsi dan pengedar global afarer'
+    src: https://assets.olagoon.com/images/olagoon/partners/partners-hero.webp
+    alt: 'rangkaian rakan kongsi dan pengedar global olagoon'
 content_programs:
   tagline: 'Program Rakan Kongsi'
   title: 'Program Rakan Kongsi<br />Dibina untuk Pertumbuhan'
-  subtitle: 'Sama ada anda pengedar, peniaga atau rakan kongsi jenama, afarer menawarkan program yang direka untuk menyokong perniagaan anda.'
+  subtitle: 'Sama ada anda pengedar, peniaga atau rakan kongsi jenama, olagoon menawarkan program yang direka untuk menyokong perniagaan anda.'
   columns: 3
   items:
     - title: 'Program Pengedar'
@@ -39,7 +39,7 @@ content_programs:
       icon: tabler:sun
 content_benefits:
   tagline: 'Mengapa Berkongsi Dengan Kami'
-  title: 'Mengapa Rakan Kongsi Memilih afarer'
+  title: 'Mengapa Rakan Kongsi Memilih olagoon'
   subtitle: 'Rakan kongsi kami mendapat manfaat daripada keupayaan pembuatan sebenar, kualiti konsisten dan sokongan responsif.'
   list:
     - 'Akses Terus ke Kilang: Bekerja secara terus dengan pasukan pembuatan kami — tiada orang tengah. Dapatkan respons lebih pantas, harga lebih baik dan keterlihatan penuh ke dalam pengeluaran.'
@@ -51,7 +51,7 @@ content_benefits:
 content_process:
   tagline: 'Cara Menjadi Rakan Kongsi'
   title: 'Proses Perkongsian Mudah'
-  subtitle: 'Proses perkongsian kami adalah mudah — direka untuk anda mula menjual produk afarer dengan pantas.'
+  subtitle: 'Proses perkongsian kami adalah mudah — direka untuk anda mula menjual produk olagoon dengan pantas.'
   items:
     - title: 'Langkah 1: Hantar Permohonan'
       description: 'Lengkapkan borang permohonan rakan kongsi kami dengan profil syarikat, pasaran sasaran dan minat produk anda.'
@@ -62,7 +62,7 @@ content_process:
     - title: 'Langkah 4: Latihan & Pelancaran'
       description: 'Latihan produk, sokongan jualan dan bahan pemasaran disediakan. Anda sedia untuk mula menjual.'
 cta:
-  title: 'Sedia untuk menjadi rakan kongsi afarer?'
+  title: 'Sedia untuk menjadi rakan kongsi olagoon?'
   subtitle: 'Mohon perkongsian dan pasukan kami akan membalas dalam masa 3 hari bekerja.'
   actions:
     - variant: primary

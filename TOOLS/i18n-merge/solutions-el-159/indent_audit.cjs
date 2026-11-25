@@ -1,7 +1,7 @@
 // Over-indent detector: inside a folded block scalar, any content line
 // indented MORE than the block's base indent renders a literal newline.
 const fs = require('fs');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 const file = process.argv[2];
 const lines = fs.readFileSync(file, 'utf8').split(/\r?\n/);
 let issues = 0;

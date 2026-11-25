@@ -6,15 +6,15 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Bangun Merek SUP Anda | Produsen SUP Tiup OEM | {SITE}',
       description:
-        'Afarer membantu startup luar ruangan membangun merek SUP kustom dengan manufaktur OEM, papan dayung private label, produksi MOQ rendah, desain produk, kontrol kualitas, dan dukungan rantai pasokan global.',
+        'OLagoon membantu startup luar ruangan membangun merek SUP kustom dengan manufaktur OEM, papan dayung private label, produksi MOQ rendah, desain produk, kontrol kualitas, dan dukungan rantai pasokan global.',
     },
     hero: {
       tagline: 'Bangun Merek SUP Anda™',
       title: 'Manufaktur SUP Kustom untuk Pendiri Startup Luar Ruangan',
       subtitle:
-        'Afarer membantu startup luar ruangan membangun merek SUP kustom dengan manufaktur OEM, papan dayung private label, produksi MOQ rendah, desain produk, kontrol kualitas, dan dukungan rantai pasokan global.',
+        'OLagoon membantu startup luar ruangan membangun merek SUP kustom dengan manufaktur OEM, papan dayung private label, produksi MOQ rendah, desain produk, kontrol kualitas, dan dukungan rantai pasokan global.',
       image: {
-        alt: 'Deskripsi papan SUP kustom Afarer',
+        alt: 'Deskripsi papan SUP kustom OLagoon',
       },
     },
     challenge: {
@@ -128,7 +128,7 @@ const id: Record<string, SolutionOverride> = {
       customer:
         'Pendiri Merek Startup Luar Ruangan dari Amerika Serikat. Mantan manajer ritel luar ruangan, penggemar selancar dan kayak, serta pengusaha Shopify yang ingin menciptakan merek SUP tiup premium.',
       steps: [
-        'Afarer membantu menentukan arah merek sebagai Merek SUP Gaya Hidup Luar Ruangan Premium yang menyasar konsumen luar ruangan berusia 25-45 tahun. Melakukan analisis posisi pasar dan riset kompetitif.',
+        'OLagoon membantu menentukan arah merek sebagai Merek SUP Gaya Hidup Luar Ruangan Premium yang menyasar konsumen luar ruangan berusia 25-45 tahun. Melakukan analisis posisi pasar dan riset kompetitif.',
         "Mengembangkan produk pertama: SUP Tiup Premium 10'6 dengan konstruksi Drop Stitch yang tahan lama, struktur PVC premium, desain EVA modern, dayung karbon, dan aksesori berkualitas tinggi.",
         'Menciptakan grafis papan kustom, sistem warna merek, desain kemasan, dan paket produk lengkap siap ritel yang selaras dengan identitas merek.',
         'Meluncurkan dengan 300 unit untuk toko Shopify, kampanye pemasaran influencer, dan pengujian pelanggan untuk memvalidasi permintaan pasar.',
@@ -153,22 +153,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Identitas Merek dan Pencarian Pemasok di Tiga Benua',
               detail:
-                'James menghabiskan Januari-Maret 2023 mengunjungi 5 pabrik di Tiongkok, Vietnam, dan Thailand bersama tim pencarian pemasok Afarer. Afarer memperkenalkannya ke fasilitas laminasi PVC kelas militer khusus di Qingdao yang sebelumnya hanya memproduksi papan putih-label untuk distributor Eropa. Bersama-sama, mereka menegosiasikan pengurangan jumlah pesanan minimum dari 1.000 unit menjadi 500 unit dengan menerima klausul eksklusivitas 6 bulan. Tim kontrol kualitas Afarer melakukan 3 putaran pengujian sampel, menolak dua batch pertama karena pengelasan sisi rail yang tidak konsisten sebelum menyetujui yang ketiga.',
+                'James menghabiskan Januari-Maret 2023 mengunjungi 5 pabrik di Tiongkok, Vietnam, dan Thailand bersama tim pencarian pemasok OLagoon. OLagoon memperkenalkannya ke fasilitas laminasi PVC kelas militer khusus di Qingdao yang sebelumnya hanya memproduksi papan putih-label untuk distributor Eropa. Bersama-sama, mereka menegosiasikan pengurangan jumlah pesanan minimum dari 1.000 unit menjadi 500 unit dengan menerima klausul eksklusivitas 6 bulan. Tim kontrol kualitas OLagoon melakukan 3 putaran pengujian sampel, menolak dua batch pertama karena pengelasan sisi rail yang tidak konsisten sebelum menyetujui yang ketiga.',
             },
             {
               title: 'Langkah 2 - Infrastruktur Kampanye Pendanaan Massal dan Perencanaan Pemenuhan Pesanan',
               detail:
-                'Tim logistik Afarer membantu James menjalin kemitraan 3PL dengan pusat pemenuhan pesanan di Gloucester yang mampu menangani 2.000 paket per hari. Mereka membuat tingkatan hadiah Kickstarter yang terperinci: £399 early bird (50 unit), £449 standar (300 unit), dan £549 paket premium dengan dayung dan pompa (150 unit). Afarer memproduksi 12 render produk resolusi tinggi, video kampanye 4 menit yang difilmkan di Symonds Yat di Sungai Wye, dan lembar spesifikasi lengkap yang menyoroti ketebalan 6 inci, inti drop-stitch 32-PSI, dan opsi dayung karbon-fiber. Kampanye diluncurkan pada 1 Mei 2023 dengan target £150.000.',
+                'Tim logistik OLagoon membantu James menjalin kemitraan 3PL dengan pusat pemenuhan pesanan di Gloucester yang mampu menangani 2.000 paket per hari. Mereka membuat tingkatan hadiah Kickstarter yang terperinci: £399 early bird (50 unit), £449 standar (300 unit), dan £549 paket premium dengan dayung dan pompa (150 unit). OLagoon memproduksi 12 render produk resolusi tinggi, video kampanye 4 menit yang difilmkan di Symonds Yat di Sungai Wye, dan lembar spesifikasi lengkap yang menyoroti ketebalan 6 inci, inti drop-stitch 32-PSI, dan opsi dayung karbon-fiber. Kampanye diluncurkan pada 1 Mei 2023 dengan target £150.000.',
             },
             {
               title: 'Langkah 3 - Manajemen Krisis di Tengah Kampanye dan Eksekusi Tujuan Tambahan',
               detail:
-                'Ketika kampanye mencapai £85.000 dalam 72 jam pertama tetapi tersendat di £110.000 pada hari ke-14, ahli strategi pemasaran Afarer mengerahkan kampanye iklan Facebook dan Instagram tertarget yang berfokus pada grup Facebook selancar dayung Inggris dengan total 500.000+ anggota. Mereka membuat 8 varian iklan uji A/B yang menampilkan testimoni YouTube James. Pada hari ke-30, 212 pendukung tambahan mendorong total ke £162.000. Afarer mengoordinasikan tujuan tambahan — menambahkan tas kering gratis senilai £45 untuk semua dukungan di atas £449 — yang memicu lonjakan akhir 88 pendukung dalam 48 jam terakhir, ditutup pada £198.740 dari 487 pendukung.',
+                'Ketika kampanye mencapai £85.000 dalam 72 jam pertama tetapi tersendat di £110.000 pada hari ke-14, ahli strategi pemasaran OLagoon mengerahkan kampanye iklan Facebook dan Instagram tertarget yang berfokus pada grup Facebook selancar dayung Inggris dengan total 500.000+ anggota. Mereka membuat 8 varian iklan uji A/B yang menampilkan testimoni YouTube James. Pada hari ke-30, 212 pendukung tambahan mendorong total ke £162.000. OLagoon mengoordinasikan tujuan tambahan — menambahkan tas kering gratis senilai £45 untuk semua dukungan di atas £449 — yang memicu lonjakan akhir 88 pendukung dalam 48 jam terakhir, ditutup pada £198.740 dari 487 pendukung.',
             },
             {
               title: 'Langkah 4 - Produksi, Jaminan Kualitas, dan Pemenuhan Pasca-Kampanye',
               detail:
-                'Produksi dimulai pada Agustus 2023 di fasilitas Qingdao, dengan Afarer menempatkan inspektur QC penuh waktu di lokasi selama 6 minggu. Setiap papan menjalani uji tiup 24 jam pada 18 PSI dan uji kekuatan kupas sambungan melebihi 150 N/cm. 200 unit pertama dikirim melalui laut pada 15 September, melewati bea cukai Inggris dalam 4 hari berkat dokumentasi pra-beres Afarer. Semua 487 pendukung menerima papan mereka pada 25 Oktober 2023 — 9 hari lebih cepat dari tanggal pengiriman yang dijanjikan. James melaporkan skor ulasan rata-rata 4,7/5 dari 150 formulir umpan balik pelanggan pertama.',
+                'Produksi dimulai pada Agustus 2023 di fasilitas Qingdao, dengan OLagoon menempatkan inspektur QC penuh waktu di lokasi selama 6 minggu. Setiap papan menjalani uji tiup 24 jam pada 18 PSI dan uji kekuatan kupas sambungan melebihi 150 N/cm. 200 unit pertama dikirim melalui laut pada 15 September, melewati bea cukai Inggris dalam 4 hari berkat dokumentasi pra-beres OLagoon. Semua 487 pendukung menerima papan mereka pada 25 Oktober 2023 — 9 hari lebih cepat dari tanggal pengiriman yang dijanjikan. James melaporkan skor ulasan rata-rata 4,7/5 dari 150 formulir umpan balik pelanggan pertama.',
             },
           ],
           results: [
@@ -190,22 +190,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Audit Lingkungan Tropis dan Spesifikasi Material',
               detail:
-                'Insinyur produk Afarer menghabiskan 2 minggu di Cairns pada Mei 2023 menguji armada Mara yang ada. Mereka mendokumentasikan 8 titik kegagalan spesifik: PVC terdegradasi UV (terlihat pada 22 papan), cincin-D baja tahan karat berkorosi (terjadi dalam 6 bulan), dan kegagalan sambungan pada pegangan haluan (3 papan). Tim laboratorium Afarer memformulasi ulang lapisan atas PVC untuk menyertakan aditif penstabil UV (UV-531 pada konsentrasi 0,6%) dan menetapkan baja tahan karat marine kelas 304 untuk semua perangkat keras. Mereka merancang pegangan haluan yang diperkuat dengan sandwich webbing 3 lapis berperingkat kekuatan putus 400 kg.',
+                'Insinyur produk OLagoon menghabiskan 2 minggu di Cairns pada Mei 2023 menguji armada Mara yang ada. Mereka mendokumentasikan 8 titik kegagalan spesifik: PVC terdegradasi UV (terlihat pada 22 papan), cincin-D baja tahan karat berkorosi (terjadi dalam 6 bulan), dan kegagalan sambungan pada pegangan haluan (3 papan). Tim laboratorium OLagoon memformulasi ulang lapisan atas PVC untuk menyertakan aditif penstabil UV (UV-531 pada konsentrasi 0,6%) dan menetapkan baja tahan karat marine kelas 304 untuk semua perangkat keras. Mereka merancang pegangan haluan yang diperkuat dengan sandwich webbing 3 lapis berperingkat kekuatan putus 400 kg.',
             },
             {
               title: 'Langkah 2 - Produksi Prototipe dan Uji Lapangan di Tiga Rute Tur',
               detail:
-                'Afarer memproduksi 10 papan prototipe pada Juli 2023 di pabrik Guangzhou mereka, masing-masing dengan skema warna unik (biru karang, hijau bakau, oranye terumbu) untuk identifikasi armada yang mudah. Mara menjalankan uji coba lapangan 60 hari di tiga rute tur utamanya: Fitzroy Island (air laut, 6 jam sinar matahari langsung), tur pagi Sungai Mulgrave (air tawar, terlindung), dan tur matahari terbenam di Trinity Inlet (kondisi campuran). Setiap papan tercatat 300+ jam penggunaan. Dua prototipe menunjukkan kebocoran valve setelah 250 jam dan dikirim kembali ke Afarer untuk desain ulang batang valve — beralih dari valve kuningan ke valve komposit yang diperkuat nilon.',
+                'OLagoon memproduksi 10 papan prototipe pada Juli 2023 di pabrik Guangzhou mereka, masing-masing dengan skema warna unik (biru karang, hijau bakau, oranye terumbu) untuk identifikasi armada yang mudah. Mara menjalankan uji coba lapangan 60 hari di tiga rute tur utamanya: Fitzroy Island (air laut, 6 jam sinar matahari langsung), tur pagi Sungai Mulgrave (air tawar, terlindung), dan tur matahari terbenam di Trinity Inlet (kondisi campuran). Setiap papan tercatat 300+ jam penggunaan. Dua prototipe menunjukkan kebocoran valve setelah 250 jam dan dikirim kembali ke OLagoon untuk desain ulang batang valve — beralih dari valve kuningan ke valve komposit yang diperkuat nilon.',
             },
             {
               title: 'Langkah 3 - Peningkatan Produksi, Pencitraan Merek Kustom, dan Desain Kemasan',
               detail:
-                'Setelah lolos uji lapangan, Mara menempatkan PO untuk 200 papan Reef Runner pada September 2023. Tim desain Afarer menciptakan grafis heat-transfer kustom yang menampilkan logo Reef & River di dek pad dan nomor manajemen armada berseri di rail. Setiap papan dilengkapi tas jinjing nilon 1000-denier tenun kustom dengan jahitan yang diperkuat (diuji hingga beban 80 kg). Afarer mengatur pengiriman laut melalui Pelabuhan Townsville dengan waktu tempuh 28 hari, termasuk sertifikasi fumigasi untuk kepatuhan biosekuritas Australia. Pengiriman lolos bea cukai pada 5 November 2023.',
+                'Setelah lolos uji lapangan, Mara menempatkan PO untuk 200 papan Reef Runner pada September 2023. Tim desain OLagoon menciptakan grafis heat-transfer kustom yang menampilkan logo Reef & River di dek pad dan nomor manajemen armada berseri di rail. Setiap papan dilengkapi tas jinjing nilon 1000-denier tenun kustom dengan jahitan yang diperkuat (diuji hingga beban 80 kg). OLagoon mengatur pengiriman laut melalui Pelabuhan Townsville dengan waktu tempuh 28 hari, termasuk sertifikasi fumigasi untuk kepatuhan biosekuritas Australia. Pengiriman lolos bea cukai pada 5 November 2023.',
             },
             {
               title: 'Langkah 4 - Program Pelatihan Staf dan Dokumentasi Protokol Pemeliharaan',
               detail:
-                'Tim kesuksesan pelanggan Afarer terbang ke Cairns pada November 2023 untuk mengadakan lokakarya pelatihan 2 hari bagi 12 pemandu dan 3 staf pemeliharaan Mara. Pelatihan mencakup: daftar periksa inspeksi harian, prosedur tiup/kempis yang benar, protokol pembilasan air laut, dan kit perbaikan berisi 6 patch PVC dan 2 valve pengganti. Afarer menyediakan panduan referensi cepat berlaminasi dalam bahasa Inggris dan Mandarin. Mara menerapkan log armada digital menggunakan Google Sheets, melacak jam penggunaan per papan. Pesanan penambahan kuartalan pertama sebanyak 65 papan ditempatkan pada Februari 2024.',
+                'Tim kesuksesan pelanggan OLagoon terbang ke Cairns pada November 2023 untuk mengadakan lokakarya pelatihan 2 hari bagi 12 pemandu dan 3 staf pemeliharaan Mara. Pelatihan mencakup: daftar periksa inspeksi harian, prosedur tiup/kempis yang benar, protokol pembilasan air laut, dan kit perbaikan berisi 6 patch PVC dan 2 valve pengganti. OLagoon menyediakan panduan referensi cepat berlaminasi dalam bahasa Inggris dan Mandarin. Mara menerapkan log armada digital menggunakan Google Sheets, melacak jam penggunaan per papan. Pesanan penambahan kuartalan pertama sebanyak 65 papan ditempatkan pada Februari 2024.',
             },
           ],
           results: [
@@ -217,8 +217,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Afarer',
+    whyOLagoon: {
+      title: 'Mengapa OLagoon',
       items: [
         {
           title: 'Keahlian Produk',
@@ -245,12 +245,12 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Berapa jumlah pesanan minimum untuk papan SUP kustom?',
         answer:
-          'Afarer menawarkan MOQ fleksibel mulai dari 100-500 unit untuk pengujian pasar, memungkinkan startup memvalidasi produk mereka dan mengumpulkan umpan balik pelanggan sebelum meningkatkan skala produksi.',
+          'OLagoon menawarkan MOQ fleksibel mulai dari 100-500 unit untuk pengujian pasar, memungkinkan startup memvalidasi produk mereka dan mengumpulkan umpan balik pelanggan sebelum meningkatkan skala produksi.',
       },
       {
         question: 'Bisakah saya membuat merek SUP sendiri tanpa memiliki pabrik?',
         answer:
-          'Ya. Afarer menyediakan layanan manufaktur private label lengkap, memungkinkan Anda membangun merek SUP sendiri dengan pencitraan merek kustom, desain papan, kemasan, dan aksesori tanpa investasi pabrik apa pun.',
+          'Ya. OLagoon menyediakan layanan manufaktur private label lengkap, memungkinkan Anda membangun merek SUP sendiri dengan pencitraan merek kustom, desain papan, kemasan, dan aksesori tanpa investasi pabrik apa pun.',
       },
       {
         question: 'Berapa lama waktu yang dibutuhkan untuk mengembangkan produk SUP kustom?',
@@ -260,17 +260,17 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Apakah Anda membantu desain produk dan strategi pasar?',
         answer:
-          'Ya. Afarer menyediakan konsultasi strategi merek dan produk untuk membantu Anda menentukan pasar sasaran, posisi produk, strategi harga, dan diferensiasi sebelum produksi dimulai.',
+          'Ya. OLagoon menyediakan konsultasi strategi merek dan produk untuk membantu Anda menentukan pasar sasaran, posisi produk, strategi harga, dan diferensiasi sebelum produksi dimulai.',
       },
       {
         question: 'Langkah-langkah kontrol kualitas apa yang Anda miliki?',
         answer:
-          'Afarer memiliki sistem kontrol kualitas komprehensif yang mencakup inspeksi material, pemantauan dalam produksi, pengujian tekanan udara, dan inspeksi produk akhir sebelum pengiriman.',
+          'OLagoon memiliki sistem kontrol kualitas komprehensif yang mencakup inspeksi material, pemantauan dalam produksi, pengujian tekanan udara, dan inspeksi produk akhir sebelum pengiriman.',
       },
       {
         question: 'Bisakah Anda mengirim ke negara saya?',
         answer:
-          'Ya. Afarer mengirim ke Amerika Serikat, Kanada, Australia, Inggris, Jerman, Prancis, Belanda, dan pasar global lainnya dengan dukungan logistik yang andal.',
+          'Ya. OLagoon mengirim ke Amerika Serikat, Kanada, Australia, Inggris, Jerman, Prancis, Belanda, dan pasar global lainnya dengan dukungan logistik yang andal.',
       },
     ],
     cta: {
@@ -287,15 +287,15 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Perluas Merek Luar Ruangan Anda ke Olahraga Air | Produsen SUP OEM | {SITE}',
       description:
-        'Afarer membantu merek luar ruangan yang sudah mapan memperluas ke olahraga air dengan manufaktur SUP kustom, teknologi Drop Stitch, keahlian PVC, papan dayung private label, dan solusi pengembangan produk lengkap.',
+        'OLagoon membantu merek luar ruangan yang sudah mapan memperluas ke olahraga air dengan manufaktur SUP kustom, teknologi Drop Stitch, keahlian PVC, papan dayung private label, dan solusi pengembangan produk lengkap.',
     },
     hero: {
       tagline: 'Perluas Merek Luar Ruangan Anda ke Olahraga Air™',
       title: 'Ekspansi Produk Olahraga Air untuk Merek Luar Ruangan yang Sudah Mapan',
       subtitle:
-        'Afarer membantu merek luar ruangan yang sudah mapan memperluas ke olahraga air dengan manufaktur SUP kustom, teknologi Drop Stitch, keahlian PVC, papan dayung private label, dan solusi pengembangan produk lengkap.',
+        'OLagoon membantu merek luar ruangan yang sudah mapan memperluas ke olahraga air dengan manufaktur SUP kustom, teknologi Drop Stitch, keahlian PVC, papan dayung private label, dan solusi pengembangan produk lengkap.',
       image: {
-        alt: 'Deskripsi papan SUP kustom Afarer',
+        alt: 'Deskripsi papan SUP kustom OLagoon',
       },
     },
     challenge: {
@@ -399,7 +399,7 @@ const id: Record<string, SolutionOverride> = {
       customer:
         'Merek Gaya Hidup Luar Ruangan Eropa yang semula berfokus pada peralatan berkemah, aksesori luar ruangan, dan produk gaya hidup petualangan dengan jaringan ritel yang kuat dan basis pelanggan yang setia.',
       steps: [
-        "Afarer menganalisis posisi merek dan merekomendasikan strategi Koleksi SUP Luar Ruangan Premium termasuk SUP all-round, SUP touring, dan aksesori dengan tema 'Petualangan luar ruangan dari darat ke air'.",
+        "OLagoon menganalisis posisi merek dan merekomendasikan strategi Koleksi SUP Luar Ruangan Premium termasuk SUP all-round, SUP touring, dan aksesori dengan tema 'Petualangan luar ruangan dari darat ke air'.",
         "Mengembangkan SUP All-Round 10'6 dengan stabilitas tinggi, konstruksi premium, dan desain gaya hidup luar ruangan, ditambah SUP Touring 12'6 dengan kinerja petualangan dan kemampuan jarak jauh.",
         'Menciptakan grafis kustom, warna merek, kemasan, dan sistem aksesori yang sangat cocok dengan identitas merek luar ruangan yang sudah ada.',
         'Meluncurkan dengan pesanan awal 1.000 pcs yang didistribusikan melalui dealer yang ada, saluran e-commerce, dan pengecer luar ruangan.',
@@ -424,22 +424,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Analisis Pasar dan Perencanaan Arsitektur Produk',
               detail:
-                "Pada Maret 2023, tim intelijen pasar Afarer menganalisis 18 bulan data penjualan SUP dari 120 pengecer AS dan Kanada. Mereka mengidentifikasi sub-segmen yang tumbuh tercepat: SUP all-around antara 10'6\" dan 11'6\" dengan harga $749-$999 CAD, yang tumbuh 34% YoY. Afarer mengusulkan susunan 4-SKU: papan all-around 'Discovery' 10'6\" (harga target $799 CAD), papan touring 'Expedition' 11'6\" ($949 CAD), SUP yoga dan kebugaran 'Crossover' 10'2\" ($699 CAD), dan SUP memancing 'Angler' dengan sistem pemasangan krat yang dapat dilepas ($1.049 CAD). Henrik menerima proposal itu pada April dengan tanggal peluncuran target Februari 2024 untuk musim pembelian ritel musim semi.",
+                "Pada Maret 2023, tim intelijen pasar OLagoon menganalisis 18 bulan data penjualan SUP dari 120 pengecer AS dan Kanada. Mereka mengidentifikasi sub-segmen yang tumbuh tercepat: SUP all-around antara 10'6\" dan 11'6\" dengan harga $749-$999 CAD, yang tumbuh 34% YoY. OLagoon mengusulkan susunan 4-SKU: papan all-around 'Discovery' 10'6\" (harga target $799 CAD), papan touring 'Expedition' 11'6\" ($949 CAD), SUP yoga dan kebugaran 'Crossover' 10'2\" ($699 CAD), dan SUP memancing 'Angler' dengan sistem pemasangan krat yang dapat dilepas ($1.049 CAD). Henrik menerima proposal itu pada April dengan tanggal peluncuran target Februari 2024 untuk musim pembelian ritel musim semi.",
             },
             {
               title: 'Langkah 2 - Integrasi Desain Ko-Merek dan Kepatuhan Ritel',
               detail:
-                'Desainer industri Afarer berkolaborasi dengan tim kreatif North Ridge yang berbasis di Vancouver selama 8 minggu untuk mengembangkan identitas visual yang menjembatani estetika pegunungan merek dengan olahraga air. Desain akhir menggunakan skema warna khas charcoal-and-ember North Ridge dengan pola garis topografis di dek pad. Afarer memastikan semua papan memenuhi persyaratan vendor REI: kemasan karton bersertifikat FSC, tas jinjing dari PET daur ulang, dan kepatuhan terhadap California Proposition 65 untuk ftalat dan logam berat. Lembar spesifikasi Product Information Management (PIM) 14 halaman diserahkan ke portal vendor REI pada 1 Oktober 2023.',
+                'Desainer industri OLagoon berkolaborasi dengan tim kreatif North Ridge yang berbasis di Vancouver selama 8 minggu untuk mengembangkan identitas visual yang menjembatani estetika pegunungan merek dengan olahraga air. Desain akhir menggunakan skema warna khas charcoal-and-ember North Ridge dengan pola garis topografis di dek pad. OLagoon memastikan semua papan memenuhi persyaratan vendor REI: kemasan karton bersertifikat FSC, tas jinjing dari PET daur ulang, dan kepatuhan terhadap California Proposition 65 untuk ftalat dan logam berat. Lembar spesifikasi Product Information Management (PIM) 14 halaman diserahkan ke portal vendor REI pada 1 Oktober 2023.',
             },
             {
               title: 'Langkah 3 - Fotografi, Penulisan Naskah, dan Presentasi Pembeli Ritel Pra-Peluncuran',
               detail:
-                'Afarer memproduksi 230 aset untuk koleksi ini: foto produk studio di latar putih, citra gaya hidup yang diambil di Garibaldi Lake (ketinggian 1.500 m di British Columbia), dan fotografi putaran 360 derajat. Mereka menulis naskah produk terlokalisasi dalam bahasa Inggris dan Prancis-Kanada untuk pengecer Quebec. Tim penjualan Afarer membuat dek sell-in pengecer 22 halaman dengan analisis kompetitif terhadap merek seperti BOTE dan Isle, proyeksi margin yang menunjukkan margin kotor 48% untuk pengecer, dan data sell-through dari pasar uji. Henrik dan kepala penjualan Afarer mempresentasikan kepada pembeli nasional REI pada 15 November 2023, mengamankan komitmen dari 34 toko REI.',
+                'OLagoon memproduksi 230 aset untuk koleksi ini: foto produk studio di latar putih, citra gaya hidup yang diambil di Garibaldi Lake (ketinggian 1.500 m di British Columbia), dan fotografi putaran 360 derajat. Mereka menulis naskah produk terlokalisasi dalam bahasa Inggris dan Prancis-Kanada untuk pengecer Quebec. Tim penjualan OLagoon membuat dek sell-in pengecer 22 halaman dengan analisis kompetitif terhadap merek seperti BOTE dan Isle, proyeksi margin yang menunjukkan margin kotor 48% untuk pengecer, dan data sell-through dari pasar uji. Henrik dan kepala penjualan OLagoon mempresentasikan kepada pembeli nasional REI pada 15 November 2023, mengamankan komitmen dari 34 toko REI.',
             },
             {
               title: 'Langkah 4 - Produksi Pertama, Pergudangan, dan Kinerja Sell-Through',
               detail:
-                'Produksi 2.800 unit di 4 SKU dimulai pada Desember 2023 di fasilitas Dongguan Afarer. Afarer mengatur pengiriman laut ke Vancouver dengan tanggal kedatangan 22 Januari 2024. 800 unit pertama di-cross-dock ke pusat pemenuhan pesanan North Ridge di Mississauga untuk distribusi Kanada bagian timur. Pada 1 Maret 2024, koleksi ini tayang di 34 rak REI, 18 lokasi MEC, dan NorthRidgeGear.com. Papan Discovery terjual 340 unit hanya pada bulan Maret — 136% dari perkiraan. Pada Juni 2024, total pendapatan koleksi mencapai $678.000 CAD, dengan SUP memancing Angler mengalami backorder hingga Agustus.',
+                'Produksi 2.800 unit di 4 SKU dimulai pada Desember 2023 di fasilitas Dongguan OLagoon. OLagoon mengatur pengiriman laut ke Vancouver dengan tanggal kedatangan 22 Januari 2024. 800 unit pertama di-cross-dock ke pusat pemenuhan pesanan North Ridge di Mississauga untuk distribusi Kanada bagian timur. Pada 1 Maret 2024, koleksi ini tayang di 34 rak REI, 18 lokasi MEC, dan NorthRidgeGear.com. Papan Discovery terjual 340 unit hanya pada bulan Maret — 136% dari perkiraan. Pada Juni 2024, total pendapatan koleksi mencapai $678.000 CAD, dengan SUP memancing Angler mengalami backorder hingga Agustus.',
             },
           ],
           results: [
@@ -461,22 +461,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Inovasi Material untuk Kepatuhan Standar Eropa',
               detail:
-                "Tim R&D Afarer di Guangzhou menghabiskan 10 minggu mengembangkan laminat PVC 5 lapis eksklusif yang melampaui standar keamanan kimia REACH Uni Eropa dan persyaratan sertifikasi keamanan GS Jerman. Mereka mendatangkan benang drop-stitch kelas tekstil dari pemasok Jerman (Karl Mayer Technische Textilien) untuk memenuhi sudut pemasaran 'Made with German Technology' milik AlpenWerk. Empat papan prototipe diproduksi pada Juli 2023 dan dikirim ke TÜV Rheinland untuk pengujian. Dua gagal sertifikasi GS awal karena ketahanan abrasi yang tidak memadai di tail pad, sehingga membutuhkan peningkatan ketebalan lapisan permukaan PVC sebesar 12% dari 0,8 mm menjadi 0,9 mm.",
+                "Tim R&D OLagoon di Guangzhou menghabiskan 10 minggu mengembangkan laminat PVC 5 lapis eksklusif yang melampaui standar keamanan kimia REACH Uni Eropa dan persyaratan sertifikasi keamanan GS Jerman. Mereka mendatangkan benang drop-stitch kelas tekstil dari pemasok Jerman (Karl Mayer Technische Textilien) untuk memenuhi sudut pemasaran 'Made with German Technology' milik AlpenWerk. Empat papan prototipe diproduksi pada Juli 2023 dan dikirim ke TÜV Rheinland untuk pengujian. Dua gagal sertifikasi GS awal karena ketahanan abrasi yang tidak memadai di tail pad, sehingga membutuhkan peningkatan ketebalan lapisan permukaan PVC sebesar 12% dari 0,8 mm menjadi 0,9 mm.",
             },
             {
               title: 'Langkah 2 - Negosiasi Pembeli Ritel dan Kemasan Siap Rak',
               detail:
-                'Lena dan direktur penjualan Eropa Afarer mempresentasikan koleksi tersebut di pameran dagang ISPO Munich pada November 2023. Mereka mengamankan pre-order dari 38 lokasi Intersport, 12 toko Globetrotter, dan Bergfreunde.de. Afarer merancang kemasan ritel siap rak yang memenuhi hukum kemasan Jerman (VerpackG): kotak karton 100% dapat didaur ulang dengan pencetakan tinta berbasis kedelai, tanpa plastik shrink wrap, dan kode QR yang tertaut ke video perakitan 3 menit dalam bahasa Jerman. Kemasan itu berbiaya €4,20 per unit tetapi menghilangkan kerusakan di toko yang sebelumnya mencapai 2,3% untuk merek pesaing yang menggunakan kantong plastik.',
+                'Lena dan direktur penjualan Eropa OLagoon mempresentasikan koleksi tersebut di pameran dagang ISPO Munich pada November 2023. Mereka mengamankan pre-order dari 38 lokasi Intersport, 12 toko Globetrotter, dan Bergfreunde.de. OLagoon merancang kemasan ritel siap rak yang memenuhi hukum kemasan Jerman (VerpackG): kotak karton 100% dapat didaur ulang dengan pencetakan tinta berbasis kedelai, tanpa plastik shrink wrap, dan kode QR yang tertaut ke video perakitan 3 menit dalam bahasa Jerman. Kemasan itu berbiaya €4,20 per unit tetapi menghilangkan kerusakan di toko yang sebelumnya mencapai 2,3% untuk merek pesaing yang menggunakan kantong plastik.',
             },
             {
               title: 'Langkah 3 - Pergudangan Eropa dan Penyiapan Distribusi Mil Terakhir',
               detail:
-                'Afarer membantu AlpenWerk membangun pusat distribusi di gudang 3PL di Dortmund dengan kapasitas 3.000 unit. Mereka menegosiasikan ketentuan pengiriman DDP dengan penerus kiriman berbasis Ningbo, termasuk izin bea cukai di pelabuhan Hamburg dan pengangkutan truk ke Dortmund dalam 5 hari kerja setelah kedatangan kapal. Stok gudang dikonfigurasi dengan sistem Kanban: ketika persediaan turun di bawah 400 unit, pemesanan ulang otomatis dipicu ke pabrik Afarer dengan waktu tunggu 45 hari. Kontainer pertama 1.500 unit tiba pada 15 Februari 2024, dengan kontainer kedua 1.200 unit tiba pada 10 April.',
+                'OLagoon membantu AlpenWerk membangun pusat distribusi di gudang 3PL di Dortmund dengan kapasitas 3.000 unit. Mereka menegosiasikan ketentuan pengiriman DDP dengan penerus kiriman berbasis Ningbo, termasuk izin bea cukai di pelabuhan Hamburg dan pengangkutan truk ke Dortmund dalam 5 hari kerja setelah kedatangan kapal. Stok gudang dikonfigurasi dengan sistem Kanban: ketika persediaan turun di bawah 400 unit, pemesanan ulang otomatis dipicu ke pabrik OLagoon dengan waktu tunggu 45 hari. Kontainer pertama 1.500 unit tiba pada 15 Februari 2024, dengan kontainer kedua 1.200 unit tiba pada 10 April.',
             },
             {
               title: 'Langkah 4 - Kampanye Peluncuran, Kemitraan Influencer, dan Kecepatan Pemesanan Ulang',
               detail:
-                "AlpenWerk meluncurkan model touring 'SeeWolf' 10'8\", 'Flussläufer' 11'6\", dan 'Gipfelstürmer' 12'0\" pada 1 Maret 2024 di semua saluran ritel dan alpenwerk.de. Tim konten Afarer memproduksi 18 aset media sosial yang menampilkan influencer SUP Jerman seperti 'SUP_mit_Michi' (43.000 pengikut) dan 'PaddelPia' (28.000 pengikut). Pada 31 Mei 2024, 1.870 unit telah terjual — 87% dari sell-in awal. Intersport menempatkan pemesanan ulang untuk 450 unit pada 15 Juni. Saluran web langsung-ke-konsumen Lena menyumbang €320.000 pendapatan dengan margin kotor 54%, melampaui margin 40% yang awalnya diproyeksikan.",
+                "AlpenWerk meluncurkan model touring 'SeeWolf' 10'8\", 'Flussläufer' 11'6\", dan 'Gipfelstürmer' 12'0\" pada 1 Maret 2024 di semua saluran ritel dan alpenwerk.de. Tim konten OLagoon memproduksi 18 aset media sosial yang menampilkan influencer SUP Jerman seperti 'SUP_mit_Michi' (43.000 pengikut) dan 'PaddelPia' (28.000 pengikut). Pada 31 Mei 2024, 1.870 unit telah terjual — 87% dari sell-in awal. Intersport menempatkan pemesanan ulang untuk 450 unit pada 15 Juni. Saluran web langsung-ke-konsumen Lena menyumbang €320.000 pendapatan dengan margin kotor 54%, melampaui margin 40% yang awalnya diproyeksikan.",
             },
           ],
           results: [
@@ -488,8 +488,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Afarer',
+    whyOLagoon: {
+      title: 'Mengapa OLagoon',
       items: [
         {
           title: 'Keahlian Teknis',
@@ -522,7 +522,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bagaimana merek luar ruangan saya bisa berekspansi ke olahraga air tanpa keahlian SUP?',
         answer:
-          'Afarer menyediakan keahlian manufaktur lengkap termasuk teknologi Drop Stitch, rekayasa PVC, dan desain produk. Merek Anda membawa pengetahuan pelanggan sementara kami menangani produksi teknis.',
+          'OLagoon menyediakan keahlian manufaktur lengkap termasuk teknologi Drop Stitch, rekayasa PVC, dan desain produk. Merek Anda membawa pengetahuan pelanggan sementara kami menangani produksi teknis.',
       },
       {
         question: 'Jenis produk olahraga air apa saja yang dapat Anda produksi?',
@@ -532,7 +532,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah Anda menyamai standar kualitas merek saya yang sudah ada?',
         answer:
-          'Ya. Afarer mengembangkan produk sesuai dengan bahasa desain, standar kualitas, dan posisi pasar Anda dengan kontrol kualitas yang ketat sepanjang produksi.',
+          'Ya. OLagoon mengembangkan produk sesuai dengan bahasa desain, standar kualitas, dan posisi pasar Anda dengan kontrol kualitas yang ketat sepanjang produksi.',
       },
       {
         question: 'Berapa volume pesanan tipikal untuk merek yang sudah mapan?',
@@ -564,15 +564,15 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Solusi SUP Tiup untuk Toko Selancar | Produsen Private Label | {SITE}',
       description:
-        'Afarer membantu toko selancar dan merek gaya hidup air berekspansi dengan SUP tiup private label dan produk olahraga air kustom. Kurangi biaya pengiriman, penyimpanan, dan persediaan dengan teknologi tiup tingkat lanjut.',
+        'OLagoon membantu toko selancar dan merek gaya hidup air berekspansi dengan SUP tiup private label dan produk olahraga air kustom. Kurangi biaya pengiriman, penyimpanan, dan persediaan dengan teknologi tiup tingkat lanjut.',
     },
     hero: {
       tagline: 'Bawa Teknologi Tiup ke Bisnis Selancar™',
       title: 'Solusi SUP Tiup untuk Toko Selancar dan Bisnis Pesisir',
       subtitle:
-        'Afarer membantu toko selancar dan merek gaya hidup air berekspansi dengan SUP tiup private label dan produk olahraga air kustom. Kurangi biaya pengiriman, penyimpanan, dan persediaan dengan teknologi tiup tingkat lanjut.',
+        'OLagoon membantu toko selancar dan merek gaya hidup air berekspansi dengan SUP tiup private label dan produk olahraga air kustom. Kurangi biaya pengiriman, penyimpanan, dan persediaan dengan teknologi tiup tingkat lanjut.',
       image: {
-        alt: 'Deskripsi papan SUP kustom Afarer',
+        alt: 'Deskripsi papan SUP kustom OLagoon',
       },
     },
     challenge: {
@@ -686,7 +686,7 @@ const id: Record<string, SolutionOverride> = {
       customer:
         'Merek Toko Selancar Pesisir Eropa yang berlokasi di Pantai Atlantik Eropa. Semula berfokus pada papan selancar, aksesori selancar, dan produk gaya hidup pantai dengan komunitas pelanggan lokal yang kuat.',
       steps: [
-        "Afarer merekomendasikan koleksi SUP tiup termasuk SUP All-round 10'6, SUP Touring 12'6, dan paket keluarga yang disesuaikan dengan lokasi tepi pantai toko dan basis pelanggannya.",
+        "OLagoon merekomendasikan koleksi SUP tiup termasuk SUP All-round 10'6, SUP Touring 12'6, dan paket keluarga yang disesuaikan dengan lokasi tepi pantai toko dan basis pelanggannya.",
         'Menciptakan grafis papan kustom, warna merek, dan kemasan ritel yang cocok dengan identitas merek toko selancar yang sudah ada dan posisi gaya hidup pantainya.',
         'Mengubah model bisnis dari ritel selancar tradisional menjadi bisnis gaya hidup air lengkap dengan menambahkan penjualan SUP, paket sewa, dan les pemula.',
         'Meluncurkan lini produk tiup untuk melengkapi penawaran papan keras yang ada tanpa meningkatkan tekanan penyimpanan.',
@@ -711,17 +711,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Benchmarking Kinerja dan Pemilihan Material',
               detail:
-                'Insinyur produk Afarer mengunjungi Gold Coast pada Februari 2023 dan melakukan uji buta dengan 12 instruktur Brendan. Setiap instruktur menguji 6 papan tiup prototipe melawan papan soft-top epoksi standar 9\'0" mereka di 4 metrik: stabilitas saat berdiri (peringkat 1-10), glide dayungan (detik untuk menempuh 50 m), responsivitas belok rail-ke-rail, dan peringkat kepercayaan pelajar. Prototipe pemenang — ditetapkan M9-IS — menggunakan inti drop-stitch 3 lapis dengan dek pad EVA 0,5 mm sepanjang penuh dan stringer bambu yang diperkuat. Instruktur menilainya 8,7/10 keseluruhan versus 7,4/10 untuk papan epoksi. Brendan memesan 60 unit pada Maret 2023.',
+                'Insinyur produk OLagoon mengunjungi Gold Coast pada Februari 2023 dan melakukan uji buta dengan 12 instruktur Brendan. Setiap instruktur menguji 6 papan tiup prototipe melawan papan soft-top epoksi standar 9\'0" mereka di 4 metrik: stabilitas saat berdiri (peringkat 1-10), glide dayungan (detik untuk menempuh 50 m), responsivitas belok rail-ke-rail, dan peringkat kepercayaan pelajar. Prototipe pemenang — ditetapkan M9-IS — menggunakan inti drop-stitch 3 lapis dengan dek pad EVA 0,5 mm sepanjang penuh dan stringer bambu yang diperkuat. Instruktur menilainya 8,7/10 keseluruhan versus 7,4/10 untuk papan epoksi. Brendan memesan 60 unit pada Maret 2023.',
             },
             {
               title: 'Langkah 2 - Pengujian Ketahanan Komersial dalam Kondisi Sekolah',
               detail:
-                'Brendan dan Afarer sepakat untuk program percontohan 4 bulan di lokasi Surfers Paradise menggunakan 20 papan prototipe yang menjalani masing-masing 1.200 siklus sewa. Setiap papan digunakan rata-rata 14 kali per minggu oleh pelajar pemula (rentang 60-90 kg). Tim Afarer melacak 6 metrik kegagalan: integritas sambungan, kebocoran valve, adhesi dek pad, perubahan warna UV, abrasi rail, dan integritas fin-box. Pada bulan ke-3, 3 papan mengalami pengelupasan dek pad di titik kontak hidung — Afarer memformulasi ulang perekat menggunakan film poliuretan aktif panas dan mengganti papan yang terdampak. Pada Juni 2023, percontohan mencatat nol kegagalan struktural dan tingkat ketersediaan 97,3%.',
+                'Brendan dan OLagoon sepakat untuk program percontohan 4 bulan di lokasi Surfers Paradise menggunakan 20 papan prototipe yang menjalani masing-masing 1.200 siklus sewa. Setiap papan digunakan rata-rata 14 kali per minggu oleh pelajar pemula (rentang 60-90 kg). Tim OLagoon melacak 6 metrik kegagalan: integritas sambungan, kebocoran valve, adhesi dek pad, perubahan warna UV, abrasi rail, dan integritas fin-box. Pada bulan ke-3, 3 papan mengalami pengelupasan dek pad di titik kontak hidung — OLagoon memformulasi ulang perekat menggunakan film poliuretan aktif panas dan mengganti papan yang terdampak. Pada Juni 2023, percontohan mencatat nol kegagalan struktural dan tingkat ketersediaan 97,3%.',
             },
             {
               title: 'Langkah 3 - Peluncuran Armada Penuh, Pelatihan, dan Infrastruktur Penyimpanan',
               detail:
-                'Brendan menempatkan PO kedua untuk 50 papan M9-IS tambahan pada Juli 2023, membawa armada tiupnya menjadi 70 unit (58% dari total). Tim logistik Afarer mengirim papan dalam tas ransel lipat 32-L yang mengurangi volume penyimpanan 80% dibandingkan papan keras — keunggulan kritis mengingat gudang penyimpanan Brendan seluas 65 m² di Burleigh Heads. Afarer membuat video pelatihan 14 menit untuk 22 instruktur Brendan yang mencakup tekanan tiup yang tepat (15 PSI untuk berselancar, 18 PSI untuk air tenang), protokol pembilasan air laut, dan daftar periksa inspeksi 5 titik sebelum les. Seluruh armada dikerahkan pada 1 September 2023, awal musim semi Australia.',
+                'Brendan menempatkan PO kedua untuk 50 papan M9-IS tambahan pada Juli 2023, membawa armada tiupnya menjadi 70 unit (58% dari total). Tim logistik OLagoon mengirim papan dalam tas ransel lipat 32-L yang mengurangi volume penyimpanan 80% dibandingkan papan keras — keunggulan kritis mengingat gudang penyimpanan Brendan seluas 65 m² di Burleigh Heads. OLagoon membuat video pelatihan 14 menit untuk 22 instruktur Brendan yang mencakup tekanan tiup yang tepat (15 PSI untuk berselancar, 18 PSI untuk air tenang), protokol pembilasan air laut, dan daftar periksa inspeksi 5 titik sebelum les. Seluruh armada dikerahkan pada 1 September 2023, awal musim semi Australia.',
             },
             {
               title: 'Langkah 4 - Pengukuran Dampak Operasional dan Analisis Biaya-Manfaat',
@@ -748,17 +748,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Pencarian Sumber dengan Lindung Nilai Mata Uang dan Pemodelan Biaya',
               detail:
-                'Tim keuangan Afarer bekerja dengan Thabo selama Oktober-Desember 2022 menyusun perjanjian pembelian dalam Rand Afrika Selatan (ZAR) dengan klausul nilai tukar tetap 6 bulan di R17,80/USD, melindunginya dari volatilitas ZAR yang sempat mencapai 19,20/USD pada Juli 2022. Afarer mengidentifikasi pabrik di Shenzhen yang dapat memproduksi papan Fusion PVC dua lapis dengan garansi UV 5 tahun pada biaya landed R3.100 per unit (termasuk bea impor 22%, logistik, dan perantara bea cukai). Harga ritel Thabo R7.200 memberinya margin kotor 56,9% — jauh di atas rata-rata 22% untuk papan bermerek.',
+                'Tim keuangan OLagoon bekerja dengan Thabo selama Oktober-Desember 2022 menyusun perjanjian pembelian dalam Rand Afrika Selatan (ZAR) dengan klausul nilai tukar tetap 6 bulan di R17,80/USD, melindunginya dari volatilitas ZAR yang sempat mencapai 19,20/USD pada Juli 2022. OLagoon mengidentifikasi pabrik di Shenzhen yang dapat memproduksi papan Fusion PVC dua lapis dengan garansi UV 5 tahun pada biaya landed R3.100 per unit (termasuk bea impor 22%, logistik, dan perantara bea cukai). Harga ritel Thabo R7.200 memberinya margin kotor 56,9% — jauh di atas rata-rata 22% untuk papan bermerek.',
             },
             {
               title: 'Langkah 2 - Desain Terinspirasi Cape Town dan Pencitraan Merek Budaya',
               detail:
-                "Desainer grafis Afarer berkolaborasi dengan ilustrator lokal Cape Town, Mbali Dlamini, untuk menciptakan 3 desain dek kustom: 'Seal Island' (menampilkan anjing laut bulu Cape), 'Chapman's Peak' (siluet pegunungan), dan 'Boulder's Beach' (penguin Afrika). Setiap desain menggunakan pencetakan heat-transfer 6 warna dengan tinta tahan UV yang diuji lebih dari 500 jam paparan matahari. Papan-papan itu menyertakan fitur unik untuk pasar Afrika Selatan: sistem tie-down yang diperkuat di hidung untuk tas kering (populer untuk pendayungan berhari-hari sepanjang Skeleton Coast hingga Durban). Thabo meluncurkan situs web (kalkbaysurfco.co.za) di Shopify dengan fotografi produk Afarer yang diambil di Muizenberg Beach.",
+                "Desainer grafis OLagoon berkolaborasi dengan ilustrator lokal Cape Town, Mbali Dlamini, untuk menciptakan 3 desain dek kustom: 'Seal Island' (menampilkan anjing laut bulu Cape), 'Chapman's Peak' (siluet pegunungan), dan 'Boulder's Beach' (penguin Afrika). Setiap desain menggunakan pencetakan heat-transfer 6 warna dengan tinta tahan UV yang diuji lebih dari 500 jam paparan matahari. Papan-papan itu menyertakan fitur unik untuk pasar Afrika Selatan: sistem tie-down yang diperkuat di hidung untuk tas kering (populer untuk pendayungan berhari-hari sepanjang Skeleton Coast hingga Durban). Thabo meluncurkan situs web (kalkbaysurfco.co.za) di Shopify dengan fotografi produk OLagoon yang diambil di Muizenberg Beach.",
             },
             {
               title: 'Langkah 3 - Produksi Sampel, Pengujian Kualitas, dan Sertifikasi',
               detail:
-                'Afarer memproduksi 6 sampel per SKU pada Januari 2023. Thabo dan dua pembentuk papan selancar lokal (dengan pengalaman gabungan 50+ tahun) melakukan pengujian destruktif: setiap papan ditiup hingga 25 PSI (125% dari tekanan nominal) dan ditahan selama 72 jam — semua sampel lolos dengan kehilangan kurang dari 0,5 PSI. Mereka menguji kekuatan sambungan menggunakan alat tarik digital, mensyaratkan minimum 120 N/cm (sampel rata-rata 138 N/cm). Thabo membawa 3 papan pada pendayungan berpemandu 5 hari dari Arniston ke Struisbaai (120 km) pada Februari 2023, mensimulasikan kondisi tur penggunaan berat. Fin box satu papan melonggar setelah 80 km — Afarer mengganti fin box nilon dengan versi yang diperkuat baja tahan karat.',
+                'OLagoon memproduksi 6 sampel per SKU pada Januari 2023. Thabo dan dua pembentuk papan selancar lokal (dengan pengalaman gabungan 50+ tahun) melakukan pengujian destruktif: setiap papan ditiup hingga 25 PSI (125% dari tekanan nominal) dan ditahan selama 72 jam — semua sampel lolos dengan kehilangan kurang dari 0,5 PSI. Mereka menguji kekuatan sambungan menggunakan alat tarik digital, mensyaratkan minimum 120 N/cm (sampel rata-rata 138 N/cm). Thabo membawa 3 papan pada pendayungan berpemandu 5 hari dari Arniston ke Struisbaai (120 km) pada Februari 2023, mensimulasikan kondisi tur penggunaan berat. Fin box satu papan melonggar setelah 80 km — OLagoon mengganti fin box nilon dengan versi yang diperkuat baja tahan karat.',
             },
             {
               title: 'Langkah 4 - Peluncuran Ritel, Kemitraan Operator Tur, dan Pemesanan Ulang',
@@ -775,8 +775,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Afarer',
+    whyOLagoon: {
+      title: 'Mengapa OLagoon',
       items: [
         {
           title: 'Pemahaman Pasar Selancar',
@@ -824,7 +824,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah saya membuat lini SUP tiup bermerek sendiri?',
         answer:
-          'Ya. Afarer menyediakan solusi private label lengkap termasuk desain papan kustom, grafis, warna, kemasan, dan aksesori di bawah nama merek selancar Anda.',
+          'Ya. OLagoon menyediakan solusi private label lengkap termasuk desain papan kustom, grafis, warna, kemasan, dan aksesori di bawah nama merek selancar Anda.',
       },
       {
         question: 'Berapa banyak yang bisa saya hemat pada pengiriman dengan papan tiup?',
@@ -834,7 +834,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Apakah Anda menawarkan produk kelas sewa untuk sekolah selancar?',
         answer:
-          'Ya. Afarer mengembangkan produk tahan lama yang dirancang untuk penggunaan sewa sering dengan perawatan mudah, aksesori andal, dan harga armada yang hemat biaya.',
+          'Ya. OLagoon mengembangkan produk tahan lama yang dirancang untuk penggunaan sewa sering dengan perawatan mudah, aksesori andal, dan harga armada yang hemat biaya.',
       },
       {
         question: 'Bisakah saya mengombinasikan papan keras dan produk tiup di toko saya?',
@@ -856,15 +856,15 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pemasok Merek SUP Amazon | Produsen SUP Tiup Kustom | {SITE}',
       description:
-        'Afarer membantu penjual Amazon, Walmart, dan Shopify membangun merek SUP terdiferensiasi dengan papan dayung tiup kustom, manufaktur private label, grafis unik, rantai pasokan cepat, dan dukungan produk e-commerce.',
+        'OLagoon membantu penjual Amazon, Walmart, dan Shopify membangun merek SUP terdiferensiasi dengan papan dayung tiup kustom, manufaktur private label, grafis unik, rantai pasokan cepat, dan dukungan produk e-commerce.',
     },
     hero: {
       tagline: 'Diferensiasi Produk & Pasokan Cepat™',
       title: 'Produk SUP Terdiferensiasi untuk Penjual Marketplace E-commerce',
       subtitle:
-        'Afarer membantu penjual Amazon, Walmart, dan Shopify membangun merek SUP terdiferensiasi dengan papan dayung tiup kustom, manufaktur private label, grafis unik, rantai pasokan cepat, dan dukungan produk e-commerce.',
+        'OLagoon membantu penjual Amazon, Walmart, dan Shopify membangun merek SUP terdiferensiasi dengan papan dayung tiup kustom, manufaktur private label, grafis unik, rantai pasokan cepat, dan dukungan produk e-commerce.',
       image: {
-        alt: 'Deskripsi papan SUP kustom Afarer',
+        alt: 'Deskripsi papan SUP kustom OLagoon',
       },
     },
     challenge: {
@@ -978,7 +978,7 @@ const id: Record<string, SolutionOverride> = {
       customer:
         'Penjual Luar Ruangan Amazon AS yang sebelumnya menjual aksesori berkemah, produk luar ruangan, dan peralatan kebugaran melalui saluran Amazon dan Shopify.',
       steps: [
-        'Afarer membantu menentukan pelanggan sasaran sebagai konsumen gaya hidup luar ruangan muda dan memosisikan produk sebagai SUP terjangkau dengan tampilan premium dan identitas visual unik.',
+        'OLagoon membantu menentukan pelanggan sasaran sebagai konsumen gaya hidup luar ruangan muda dan memosisikan produk sebagai SUP terjangkau dengan tampilan premium dan identitas visual unik.',
         "Menciptakan SUP Tiup 10'6 kustom dengan grafis papan unik, sistem warna premium, paket aksesori yang ditingkatkan, dan kemasan yang berfokus pada merek.",
         'Menyiapkan strategi konten e-commerce meliputi struktur gambar produk, penyajian fitur, dan arah visual gaya hidup untuk listing marketplace.',
         'Meluncurkan dengan 500 unit untuk peluncuran Amazon, pengujian iklan, dan pengumpulan umpan balik pelanggan.',
@@ -1003,22 +1003,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Analisis Kategori Amazon dan Arsitektur SKU',
               detail:
-                "Pada Januari 2023, tim strategi e-commerce Afarer melakukan analisis mendalam kategori SUP Amazon Inggris menggunakan alat Helium 10 dan Jungle Scout. Mereka mengidentifikasi bahwa 78% pembeli pertama kali mencari 'paket lengkap' (papan + dayung + pompa + tas + tali + sirip), tetapi hanya 4 merek menawarkan kit all-in-one sejati dengan aksesori premium. Afarer mengusulkan susunan 3-SKU: 'AquaStart 10'6\" Complete Kit' (harga target £449), 'AquaStart 11'0\" Touring Kit' (£549), dan 'AquaStart Duo' (£699, paket keluarga 2 papan). Setiap kit menyertakan pompa tangan dengan pengukur tekanan, dayung karbon-fiber 3 bagian, tali melingkar, sirip US lepas-pasang 5\", dan kantong ponsel tahan air — membedakan dari pesaing yang menjual sebagian besar aksesori secara terpisah.",
+                "Pada Januari 2023, tim strategi e-commerce OLagoon melakukan analisis mendalam kategori SUP Amazon Inggris menggunakan alat Helium 10 dan Jungle Scout. Mereka mengidentifikasi bahwa 78% pembeli pertama kali mencari 'paket lengkap' (papan + dayung + pompa + tas + tali + sirip), tetapi hanya 4 merek menawarkan kit all-in-one sejati dengan aksesori premium. OLagoon mengusulkan susunan 3-SKU: 'AquaStart 10'6\" Complete Kit' (harga target £449), 'AquaStart 11'0\" Touring Kit' (£549), dan 'AquaStart Duo' (£699, paket keluarga 2 papan). Setiap kit menyertakan pompa tangan dengan pengukur tekanan, dayung karbon-fiber 3 bagian, tali melingkar, sirip US lepas-pasang 5\", dan kantong ponsel tahan air — membedakan dari pesaing yang menjual sebagian besar aksesori secara terpisah.",
             },
             {
               title: 'Langkah 2 - Desain Kemasan untuk Kepatuhan E-commerce dan FBA',
               detail:
-                'Afarer merancang kemasan siap ritel yang sesuai batas dimensi FBA Amazon: kotak papan 10\'6" berukuran 34" × 18" × 14" dan berat 14,2 kg — di bawah ambang 15 kg Amazon untuk menghindari biaya heavy-bulky. Kotak itu menyertakan pegangan die-cut di kedua sisi untuk staf gudang. Di dalamnya, papan dikemas vakum dalam kantong PE 0,1-mm, ditata bersama aksesori dalam sisipan busa EVA potong kustom. Setiap aksesori dikantongi poly secara individual dengan pencitraan AquaStart. Paket itu menyertakan \'Quick Start Guide\' (kode QR tertaut ke video unboxing 6 menit). Insinyur kemasan Afarer mengurangi volume kotak keseluruhan 22% dibandingkan desain awal, menghemat £1,80 per unit biaya pemenuhan FBA Priya.',
+                'OLagoon merancang kemasan siap ritel yang sesuai batas dimensi FBA Amazon: kotak papan 10\'6" berukuran 34" × 18" × 14" dan berat 14,2 kg — di bawah ambang 15 kg Amazon untuk menghindari biaya heavy-bulky. Kotak itu menyertakan pegangan die-cut di kedua sisi untuk staf gudang. Di dalamnya, papan dikemas vakum dalam kantong PE 0,1-mm, ditata bersama aksesori dalam sisipan busa EVA potong kustom. Setiap aksesori dikantongi poly secara individual dengan pencitraan AquaStart. Paket itu menyertakan \'Quick Start Guide\' (kode QR tertaut ke video unboxing 6 menit). Insinyur kemasan OLagoon mengurangi volume kotak keseluruhan 22% dibandingkan desain awal, menghemat £1,80 per unit biaya pemenuhan FBA Priya.',
             },
             {
               title: 'Langkah 3 - Optimalisasi Listing Amazon, Konten A+, dan Strategi Peluncuran',
               detail:
-                "Studio konten Afarer memproduksi 14 gambar modul A+, 6 foto gaya hidup yang diambil di Lake Windermere, video kisah merek 90 detik, dan penampil produk 360 derajat. Mereka menulis poin-poin bullet teroptimasi kata kunci yang menyasar 237 kata kunci ekor panjang yang diidentifikasi dari laporan istilah pencarian Amazon. Strategi peluncuran mengerahkan program 'Vine' 21 hari (30 unit dengan diskon 50%) untuk membangun kecepatan ulasan awal, diikuti kampanye Amazon PPC £2.000 (Sponsored Products + Sponsored Brand) dengan anggaran harian terbagi di 3 SKU. Kampanye diluncurkan pada 15 April 2023. Pada hari ke-45, AquaStart memiliki 24 ulasan dengan rata-rata 4,6 bintang, dan kit 10'6\" mencapai peringkat #17 di kategori SUP.",
+                "Studio konten OLagoon memproduksi 14 gambar modul A+, 6 foto gaya hidup yang diambil di Lake Windermere, video kisah merek 90 detik, dan penampil produk 360 derajat. Mereka menulis poin-poin bullet teroptimasi kata kunci yang menyasar 237 kata kunci ekor panjang yang diidentifikasi dari laporan istilah pencarian Amazon. Strategi peluncuran mengerahkan program 'Vine' 21 hari (30 unit dengan diskon 50%) untuk membangun kecepatan ulasan awal, diikuti kampanye Amazon PPC £2.000 (Sponsored Products + Sponsored Brand) dengan anggaran harian terbagi di 3 SKU. Kampanye diluncurkan pada 15 April 2023. Pada hari ke-45, AquaStart memiliki 24 ulasan dengan rata-rata 4,6 bintang, dan kit 10'6\" mencapai peringkat #17 di kategori SUP.",
             },
             {
               title: 'Langkah 4 - Manajemen Persediaan, Peramalan Permintaan, dan Produksi Kedua',
               detail:
-                'Tim perencanaan permintaan Afarer membangun model peramalan 6 bulan menggunakan data historis Amazon, Google Trends (volume pencarian paddleboarding Inggris), dan faktor musiman. Model memprediksi sell-through 410 unit pada September 2023. Produksi pertama Priya 500 unit (300 × 10\'6", 120 × 11\'0", 80 × Duo), dikirim ke pusat FBA Amazon di Manchester dan Doncaster. Sell-through aktual pada 30 September adalah 386 unit — dalam 6% dari peramalan. Produksi kedua 700 unit dipesan pada Oktober 2023 dengan 2 modifikasi penting: pegangan tas jinjing yang diperkuat (9 laporan kerusakan dari batch pertama) dan cincin-D baja tahan karat yang ditingkatkan (setelah 4 keluhan korosi). Pada Desember 2023, pendapatan AquaStart Inggris mencapai £298.000, dengan kit 10\'6" memegang peringkat #12 di Amazon Inggris.',
+                'Tim perencanaan permintaan OLagoon membangun model peramalan 6 bulan menggunakan data historis Amazon, Google Trends (volume pencarian paddleboarding Inggris), dan faktor musiman. Model memprediksi sell-through 410 unit pada September 2023. Produksi pertama Priya 500 unit (300 × 10\'6", 120 × 11\'0", 80 × Duo), dikirim ke pusat FBA Amazon di Manchester dan Doncaster. Sell-through aktual pada 30 September adalah 386 unit — dalam 6% dari peramalan. Produksi kedua 700 unit dipesan pada Oktober 2023 dengan 2 modifikasi penting: pegangan tas jinjing yang diperkuat (9 laporan kerusakan dari batch pertama) dan cincin-D baja tahan karat yang ditingkatkan (setelah 4 keluhan korosi). Pada Desember 2023, pendapatan AquaStart Inggris mencapai £298.000, dengan kit 10\'6" memegang peringkat #12 di Amazon Inggris.',
             },
           ],
           results: [
@@ -1040,22 +1040,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Pencarian Sumber Material Daur Ulang dan Sertifikasi Rantai Pasokan',
               detail:
-                "Afarer menghabiskan 14 minggu antara Januari dan April 2023 mengembangkan laminat PVC daur ulang menggunakan limbah kain pasca-industri dari lantai pabrik mereka sendiri. Material itu — diberi merek 'EcoShell RPVC' — mengandung 63% konten daur ulang berdasarkan berat dan mencapai kekuatan tarik 3.200 N/5 cm (versus 3.500 N untuk PVC murni). Afarer mengamankan sertifikasi GRS (Global Recycled Standard) untuk material itu dan mengatur penilaian siklus hidup pihak ketiga yang menunjukkan pengurangan 37% CO₂e per papan dibandingkan papan PVC murni. Tim Felix mendatangkan 50.000 botol PET daur ulang dari koperasi daur ulang berbasis Berlin untuk memproduksi kain tas jinjing dan EVA dek pad (30% konten daur ulang). Premium material berkelanjutan totalnya €18 per papan, yang diserap Afarer ke dalam margin mereka untuk membantu UrbanPulse mencapai harga ritel target.",
+                "OLagoon menghabiskan 14 minggu antara Januari dan April 2023 mengembangkan laminat PVC daur ulang menggunakan limbah kain pasca-industri dari lantai pabrik mereka sendiri. Material itu — diberi merek 'EcoShell RPVC' — mengandung 63% konten daur ulang berdasarkan berat dan mencapai kekuatan tarik 3.200 N/5 cm (versus 3.500 N untuk PVC murni). OLagoon mengamankan sertifikasi GRS (Global Recycled Standard) untuk material itu dan mengatur penilaian siklus hidup pihak ketiga yang menunjukkan pengurangan 37% CO₂e per papan dibandingkan papan PVC murni. Tim Felix mendatangkan 50.000 botol PET daur ulang dari koperasi daur ulang berbasis Berlin untuk memproduksi kain tas jinjing dan EVA dek pad (30% konten daur ulang). Premium material berkelanjutan totalnya €18 per papan, yang diserap OLagoon ke dalam margin mereka untuk membantu UrbanPulse mencapai harga ritel target.",
             },
             {
               title: 'Langkah 2 - Pemenuhan Netral Karbon dan Arsitektur Logistik DTC',
               detail:
-                'Tim logistik Afarer bermitra dengan DHL GoGreen Climate Neutral untuk akun UrbanPulse, mengimbangi 1,8 kg CO₂ per papan yang dikirim (mencakup kargo laut dari Tiongkok ke Hamburg dan pengiriman mil terakhir). Mereka menyiapkan zona pemenuhan khusus 200 m² di gudang UrbanPulse di Cologne dengan rak kustom untuk kotak SUP tiup. Setiap pengiriman menyertakan label pengembalian prabayar untuk kotak karton (dicetak pada karton FSC bersertifikat 100% daur ulang dengan tinta berbasis kedelai). Desain kemasan Afarer menghilangkan semua plastik sekali pakai: papan dibungkus film PBAT/PLA yang dapat dikomposkan, aksesori diamankan dengan selotip kertas, dan buku panduan pengguna dicetak pada kertas benih (tanam setelah membaca).',
+                'Tim logistik OLagoon bermitra dengan DHL GoGreen Climate Neutral untuk akun UrbanPulse, mengimbangi 1,8 kg CO₂ per papan yang dikirim (mencakup kargo laut dari Tiongkok ke Hamburg dan pengiriman mil terakhir). Mereka menyiapkan zona pemenuhan khusus 200 m² di gudang UrbanPulse di Cologne dengan rak kustom untuk kotak SUP tiup. Setiap pengiriman menyertakan label pengembalian prabayar untuk kotak karton (dicetak pada karton FSC bersertifikat 100% daur ulang dengan tinta berbasis kedelai). Desain kemasan OLagoon menghilangkan semua plastik sekali pakai: papan dibungkus film PBAT/PLA yang dapat dikomposkan, aksesori diamankan dengan selotip kertas, dan buku panduan pengguna dicetak pada kertas benih (tanam setelah membaca).',
             },
             {
               title: 'Langkah 3 - Integrasi Shopify, Konten Pra-Peluncuran, dan Strategi Influencer',
               detail:
-                "Tim e-commerce Afarer mengintegrasikan toko Shopify UrbanPulse dengan konfigurator produk kustom yang memungkinkan pelanggan memilih warna papan (3 opsi), warna dayung (2 opsi), dan menambahkan 'lencana keberlanjutan' dengan nomor seri papan dan jumlah pasti konten daur ulang (dalam gram). Afarer memproduksi 6 aset video pendek (15-45 detik) yang menampilkan influencer SUP berbasis Berlin 'GreenPaddle' dan 'ElisePaddlesBerlin' (total pengikut 72.000). Konten menekankan 'pendayungan perkotaan' di kanal dan danau Berlin, memosisikan SUP sebagai aktivitas akhir pekan penghuni kota. Kampanye email pra-peluncuran (dikirim ke 12.000 pelanggan UrbanPulse) mencapai tingkat buka 34% dan 2.100 klik ke halaman produk.",
+                "Tim e-commerce OLagoon mengintegrasikan toko Shopify UrbanPulse dengan konfigurator produk kustom yang memungkinkan pelanggan memilih warna papan (3 opsi), warna dayung (2 opsi), dan menambahkan 'lencana keberlanjutan' dengan nomor seri papan dan jumlah pasti konten daur ulang (dalam gram). OLagoon memproduksi 6 aset video pendek (15-45 detik) yang menampilkan influencer SUP berbasis Berlin 'GreenPaddle' dan 'ElisePaddlesBerlin' (total pengikut 72.000). Konten menekankan 'pendayungan perkotaan' di kanal dan danau Berlin, memosisikan SUP sebagai aktivitas akhir pekan penghuni kota. Kampanye email pra-peluncuran (dikirim ke 12.000 pelanggan UrbanPulse) mencapai tingkat buka 34% dan 2.100 klik ke halaman produk.",
             },
             {
               title: 'Langkah 4 - Peluncuran, Perluasan Saluran, dan Keputusan Pemesanan Ulang',
               detail:
-                "Koleksi SUP UrbanPulse diluncurkan pada 1 Juni 2023 dengan 500 unit (350 all-around, 150 touring). Sell-through minggu pertama 112 unit (22,4%). Perencana permintaan Afarer menyesuaikan strategi PPC di Google Shopping dan Meta, menggeser anggaran ke kata kunci niat tinggi seperti 'nachhaltiges SUP kaufen' (beli SUP berkelanjutan). Pada minggu ke-8, papan all-around menjadi SUP terlaris #2 di pasar DTC Shopify Jerman (di belakang penjualan langsung Fanatic). Pada Agustus 2023, Felix mengamankan kemitraan dengan SportScheck, menempatkan 80 papan di 8 toko dengan endcap 'Sustainable Sports' khusus. Pada Desember 2023, total pendapatan mencapai €487.000, dengan papan all-around menyumbang 71% penjualan. Produksi kedua 800 unit dipesan untuk Februari 2024.",
+                "Koleksi SUP UrbanPulse diluncurkan pada 1 Juni 2023 dengan 500 unit (350 all-around, 150 touring). Sell-through minggu pertama 112 unit (22,4%). Perencana permintaan OLagoon menyesuaikan strategi PPC di Google Shopping dan Meta, menggeser anggaran ke kata kunci niat tinggi seperti 'nachhaltiges SUP kaufen' (beli SUP berkelanjutan). Pada minggu ke-8, papan all-around menjadi SUP terlaris #2 di pasar DTC Shopify Jerman (di belakang penjualan langsung Fanatic). Pada Agustus 2023, Felix mengamankan kemitraan dengan SportScheck, menempatkan 80 papan di 8 toko dengan endcap 'Sustainable Sports' khusus. Pada Desember 2023, total pendapatan mencapai €487.000, dengan papan all-around menyumbang 71% penjualan. Produksi kedua 800 unit dipesan untuk Februari 2024.",
             },
           ],
           results: [
@@ -1067,8 +1067,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Afarer',
+    whyOLagoon: {
+      title: 'Mengapa OLagoon',
       items: [
         {
           title: 'Diferensiasi Produk',
@@ -1101,7 +1101,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bagaimana cara membedakan produk SUP saya di Amazon?',
         answer:
-          'Afarer membantu menciptakan grafis papan unik, sistem warna kustom, paket aksesori yang ditingkatkan, dan kemasan berfokus merek yang membuat produk Anda menonjol dari listing pesaing yang identik.',
+          'OLagoon membantu menciptakan grafis papan unik, sistem warna kustom, paket aksesori yang ditingkatkan, dan kemasan berfokus merek yang membuat produk Anda menonjol dari listing pesaing yang identik.',
       },
       {
         question: 'Berapa jumlah pesanan minimum untuk penjual marketplace?',
@@ -1111,7 +1111,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah Anda membantu konten dan gambar listing Amazon?',
         answer:
-          'Ya. Afarer menyediakan dukungan visual e-commerce meliputi konsep gambar hero, gambar fitur, arah fotografi gaya hidup, dan pengorganisasian informasi produk.',
+          'Ya. OLagoon menyediakan dukungan visual e-commerce meliputi konsep gambar hero, gambar fitur, arah fotografi gaya hidup, dan pengorganisasian informasi produk.',
       },
       {
         question: 'Seberapa cepat Anda dapat memproduksi dan mengirim pesanan SUP kustom saya?',
@@ -1126,7 +1126,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah Anda membantu saya berekspansi melampaui satu produk SUP menjadi merek penuh?',
         answer:
-          'Ya. Afarer mendukung pengembangan portofolio produk lengkap meliputi beberapa model SUP dan aksesori luar ruangan untuk perluasan merek.',
+          'Ya. OLagoon mendukung pengembangan portofolio produk lengkap meliputi beberapa model SUP dan aksesori luar ruangan untuk perluasan merek.',
       },
     ],
     cta: {
@@ -1143,15 +1143,15 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsen SUP Memancing | Papan Dayung Tiup Memancing Kustom | {SITE}',
       description:
-        'Afarer membantu merek perlengkapan memancing menciptakan produk SUP Memancing kustom dengan desain stabilitas tinggi, sistem pemegang joran, dudukan cooler, aksesori cincin-D, dan solusi manufaktur private label.',
+        'OLagoon membantu merek perlengkapan memancing menciptakan produk SUP Memancing kustom dengan desain stabilitas tinggi, sistem pemegang joran, dudukan cooler, aksesori cincin-D, dan solusi manufaktur private label.',
     },
     hero: {
       tagline: 'Ciptakan Merek SUP Memancing Anda™',
       title: 'Manufaktur SUP Memancing Kustom untuk Merek Perlengkapan Memancing',
       subtitle:
-        'Afarer membantu merek perlengkapan memancing menciptakan produk SUP Memancing kustom dengan desain stabilitas tinggi, sistem pemegang joran, dudukan cooler, aksesori cincin-D, dan solusi manufaktur private label.',
+        'OLagoon membantu merek perlengkapan memancing menciptakan produk SUP Memancing kustom dengan desain stabilitas tinggi, sistem pemegang joran, dudukan cooler, aksesori cincin-D, dan solusi manufaktur private label.',
       image: {
-        alt: 'Deskripsi papan SUP kustom Afarer',
+        alt: 'Deskripsi papan SUP kustom OLagoon',
       },
     },
     challenge: {
@@ -1254,7 +1254,7 @@ const id: Record<string, SolutionOverride> = {
       customer:
         'Merek Perlengkapan Memancing Amerika Utara yang semula menjual joran memancing, kotak umpan, dan aksesori memancing luar ruangan kepada komunitas pemancing berpengalaman yang setia.',
       steps: [
-        "Afarer menganalisis pengguna sasaran dan menetapkan posisi produk sebagai 'Platform Memancing Tiup Profesional Untuk Pemancing Serius' yang selaras dengan reputasi merek.",
+        "OLagoon menganalisis pengguna sasaran dan menetapkan posisi produk sebagai 'Platform Memancing Tiup Profesional Untuk Pemancing Serius' yang selaras dengan reputasi merek.",
         "Menciptakan Model SUP Memancing 11' dengan platform berdiri ekstra lebar, kapasitas beban tinggi, struktur Drop Stitch yang diperkuat, beberapa sistem cincin-D, dan kompatibilitas pemegang joran.",
         'Mengembangkan grafis berfokus memancing, sistem warna luar ruangan, dan kemasan profesional yang menarik bagi pemancing berpengalaman.',
         'Meluncurkan dengan 500 unit yang didistribusikan melalui pelanggan memancing yang ada, toko e-commerce, dan jaringan dealer luar ruangan.',
@@ -1279,22 +1279,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Ko-Desain dengan Pemancing Profesional dan Analisis Ergonomi',
               detail:
-                'Afarer mengirim tim pengembangan produk 3 orang ke Gothenburg pada Maret 2023 untuk lokakarya ko-desain 10 hari. Mereka bekerja dengan 8 pemancing profesional dan semi-profesional (termasuk juara memancing olahraga Swedia Lars Nilsson) yang masing-masing memiliki 15+ tahun pengalaman SUP memancing. Tim melakukan analisis motion-capture gerakan melempar dan menggulung di papan prototipe untuk mengidentifikasi posisi berdiri optimal. Temuan kunci: sudut pemegang joran ideal adalah 22 derajat dari vertikal (versus 15 derajat pada produk pesaing), area penyimpanan umpan harus berada dalam 40 cm dari jangkauan alami pendayung, dan papan membutuhkan lebar minimum 34" untuk berdiri stabil dalam kondisi angin 30 km/jam. Lokakarya menghasilkan 47 persyaratan desain spesifik, di mana 42 dimasukkan ke desain akhir.',
+                'OLagoon mengirim tim pengembangan produk 3 orang ke Gothenburg pada Maret 2023 untuk lokakarya ko-desain 10 hari. Mereka bekerja dengan 8 pemancing profesional dan semi-profesional (termasuk juara memancing olahraga Swedia Lars Nilsson) yang masing-masing memiliki 15+ tahun pengalaman SUP memancing. Tim melakukan analisis motion-capture gerakan melempar dan menggulung di papan prototipe untuk mengidentifikasi posisi berdiri optimal. Temuan kunci: sudut pemegang joran ideal adalah 22 derajat dari vertikal (versus 15 derajat pada produk pesaing), area penyimpanan umpan harus berada dalam 40 cm dari jangkauan alami pendayung, dan papan membutuhkan lebar minimum 34" untuk berdiri stabil dalam kondisi angin 30 km/jam. Lokakarya menghasilkan 47 persyaratan desain spesifik, di mana 42 dimasukkan ke desain akhir.',
             },
             {
               title: 'Langkah 2 - Rekayasa Sistem Memancing Terintegrasi dan Pengujian Prototipe',
               detail:
-                "Desainer industri Afarer mengembangkan sistem 'Fishing Deck' modular: sistem rel aluminium lepas-pasang (panjang 1,2 m) yang dipasang melalui 12 sisipan baja tahan karat yang dicetak ke dalam inti drop-stitch papan. Rel tersebut menerima 4 pemegang joran (sudut dapat disesuaikan, quick-release), krat umpan besar (32 L, peringkat tahan air IP67, lepas-pasang), holster jaring, dan pemegang gelas untuk termos (persyaratan pasar Nordik). Tiga papan prototipe diproduksi pada Mei 2023 dan diuji selama 4 minggu di 6 danau Swedia (Vänern, Vättern, Mälaren, dan 3 danau kecil di Småland). Program pengujian mencatat 340 jam waktu memancing aktif. Satu prototipe mengalami sedikit lengkung setelah 3 hari paparan matahari terus-menerus pada cuaca 26°C — Afarer menambah ketebalan PVC dek dari 0,9 mm menjadi 1,2 mm untuk semua unit produksi.",
+                "Desainer industri OLagoon mengembangkan sistem 'Fishing Deck' modular: sistem rel aluminium lepas-pasang (panjang 1,2 m) yang dipasang melalui 12 sisipan baja tahan karat yang dicetak ke dalam inti drop-stitch papan. Rel tersebut menerima 4 pemegang joran (sudut dapat disesuaikan, quick-release), krat umpan besar (32 L, peringkat tahan air IP67, lepas-pasang), holster jaring, dan pemegang gelas untuk termos (persyaratan pasar Nordik). Tiga papan prototipe diproduksi pada Mei 2023 dan diuji selama 4 minggu di 6 danau Swedia (Vänern, Vättern, Mälaren, dan 3 danau kecil di Småland). Program pengujian mencatat 340 jam waktu memancing aktif. Satu prototipe mengalami sedikit lengkung setelah 3 hari paparan matahari terus-menerus pada cuaca 26°C — OLagoon menambah ketebalan PVC dek dari 0,9 mm menjadi 1,2 mm untuk semua unit produksi.",
             },
             {
               title: 'Langkah 3 - Kemasan Ritel Nordik, Integrasi Katalog, dan Pre-Sell',
               detail:
-                "Afarer merancang kemasan tangguh dengan pelabelan dwibahasa (Swedia/Finlandia) dan tata letak interior 'Fishing SUP Starter Kit': papan, rel memancing dengan 4 pemegang joran, krat umpan, dayung 3 bagian, pompa aksi ganda, tas ransel, dan panduan 'Memancing dari SUP' 32 halaman dalam bahasa Swedia, Norwegia, dan Finlandia. Nordic Angler meluncurkan pre-sell di Swedish Sports Fishing Trade Fair di Stockholm (Agustus 2023), mengamankan pesanan pasti dari 34 pengecer untuk 860 unit. Erik menegosiasikan kesepakatan distribusi Nordik eksklusif 12 bulan dengan Afarer, memastikan tidak ada SUP memancing private label pesaing yang akan dijual ke pesaing Nordic Angler selama periode tersebut.",
+                "OLagoon merancang kemasan tangguh dengan pelabelan dwibahasa (Swedia/Finlandia) dan tata letak interior 'Fishing SUP Starter Kit': papan, rel memancing dengan 4 pemegang joran, krat umpan, dayung 3 bagian, pompa aksi ganda, tas ransel, dan panduan 'Memancing dari SUP' 32 halaman dalam bahasa Swedia, Norwegia, dan Finlandia. Nordic Angler meluncurkan pre-sell di Swedish Sports Fishing Trade Fair di Stockholm (Agustus 2023), mengamankan pesanan pasti dari 34 pengecer untuk 860 unit. Erik menegosiasikan kesepakatan distribusi Nordik eksklusif 12 bulan dengan OLagoon, memastikan tidak ada SUP memancing private label pesaing yang akan dijual ke pesaing Nordic Angler selama periode tersebut.",
             },
             {
               title: 'Langkah 4 - Produksi, Waktu Musiman, dan Sell-Through Tahun Pertama',
               detail:
-                'Produksi 1.200 unit (700 Lake Angler, 500 Expedition Angler) berjalan dari September hingga November 2023 di fasilitas Afarer di Zhongshan. Pengiriman berangkat dari Ningbo pada 18 November 2023 dan tiba di Pelabuhan Gothenburg pada 18 Desember 2023 — waktu ideal untuk pembelian musim semi pengecer. Nordic Angler mendistribusikan 760 unit ke rak ritel pada 1 Maret 2024, dengan 440 unit tersisa di gudang mereka sendiri untuk pemenuhan langsung. Pada 31 Mei 2024, 980 unit telah terjual (81,7% dari batch awal). Papan Lake Angler menjadi SUP memancing terlaris #1 di XXL Swedia dalam 90 hari. Erik menempatkan pemesanan ulang 1.800 unit pada Juni 2024 dengan 3 peningkatan desain: tas jinjing lebih berbantalan, kenop penyesuaian rel tanpa alat, dan kantong pemasangan GPS-tracker.',
+                'Produksi 1.200 unit (700 Lake Angler, 500 Expedition Angler) berjalan dari September hingga November 2023 di fasilitas OLagoon di Zhongshan. Pengiriman berangkat dari Ningbo pada 18 November 2023 dan tiba di Pelabuhan Gothenburg pada 18 Desember 2023 — waktu ideal untuk pembelian musim semi pengecer. Nordic Angler mendistribusikan 760 unit ke rak ritel pada 1 Maret 2024, dengan 440 unit tersisa di gudang mereka sendiri untuk pemenuhan langsung. Pada 31 Mei 2024, 980 unit telah terjual (81,7% dari batch awal). Papan Lake Angler menjadi SUP memancing terlaris #1 di XXL Swedia dalam 90 hari. Erik menempatkan pemesanan ulang 1.800 unit pada Juni 2024 dengan 3 peningkatan desain: tas jinjing lebih berbantalan, kenop penyesuaian rel tanpa alat, dan kantong pemasangan GPS-tracker.',
             },
           ],
           results: [
@@ -1316,22 +1316,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Spesifikasi Produk Berpusat Pemandu dan Analisis Umpan Balik Klien',
               detail:
-                'Tim produk Afarer mewawancarai 14 pemandu memancing berbasis AS pada Maret 2023 (dari Texas, Florida, Michigan, dan Oregon) untuk membuat spesifikasi terkonsolidasi. 3 fitur yang paling diminta adalah: (1) platform lempar yang ditinggikan di hidung (kenaikan 8") untuk visibilitas lebih baik dan ruang back-casting, (2) sistem pemasangan senyap untuk pemasangan motor trolling (dorongan minimum 55-lb, pemasangan transom), dan (3) sistem gear track kompatibel \'yak-attack\'. Dwayne juga bersikeras pada kapasitas beban maksimum 450 lbs untuk membawa dua pemancing (pemandu dan klien). Lembar spesifikasi hasilnya 18 halaman, termasuk laporan Analisis Elemen Hingga (FEA) struktural dari tim rekayasa Afarer yang menunjukkan papan dapat menopang beban titik 250-lb di tengah bentang dengan defleksi kurang dari 1,5".',
+                'Tim produk OLagoon mewawancarai 14 pemandu memancing berbasis AS pada Maret 2023 (dari Texas, Florida, Michigan, dan Oregon) untuk membuat spesifikasi terkonsolidasi. 3 fitur yang paling diminta adalah: (1) platform lempar yang ditinggikan di hidung (kenaikan 8") untuk visibilitas lebih baik dan ruang back-casting, (2) sistem pemasangan senyap untuk pemasangan motor trolling (dorongan minimum 55-lb, pemasangan transom), dan (3) sistem gear track kompatibel \'yak-attack\'. Dwayne juga bersikeras pada kapasitas beban maksimum 450 lbs untuk membawa dua pemancing (pemandu dan klien). Lembar spesifikasi hasilnya 18 halaman, termasuk laporan Analisis Elemen Hingga (FEA) struktural dari tim rekayasa OLagoon yang menunjukkan papan dapat menopang beban titik 250-lb di tengah bentang dengan defleksi kurang dari 1,5".',
             },
             {
               title: 'Langkah 2 - Prototipe, Pengujian Armada Pemandu, dan Siklus Iterasi',
               detail:
-                "Afarer memproduksi 4 papan prototipe Guide Pro pada Mei 2023. Dwayne menggunakannya secara eksklusif pada 22 tur berpemandu selama 6 minggu (Juni-Juli 2023), melibatkan 54 klien. Setiap tur didokumentasikan dengan umpan balik klien tertulis dan rekaman video. Temuan kunci: platform lempar yang ditinggikan diterima dengan baik (dinilai 4,8/5), tetapi klien menemukan penempatan gear track awal terlalu ke depan — Afarer memindahkannya 6\" ke belakang. Dudukan motor trolling senyap berfungsi tetapi beratnya (9 lbs) menggeser keseimbangan papan — Afarer mendesain ulang menjadi braket aluminium 2 bagian dengan berat 5,2 lbs. Komentar klien paling umum: 'Saya merasa cukup stabil untuk berdiri dan melempar pada percobaan pertama saya.' Setelah 54 tur klien, nol papan menunjukkan masalah struktural. Dwayne memberikan persetujuan akhir pada Agustus 2023.",
+                "OLagoon memproduksi 4 papan prototipe Guide Pro pada Mei 2023. Dwayne menggunakannya secara eksklusif pada 22 tur berpemandu selama 6 minggu (Juni-Juli 2023), melibatkan 54 klien. Setiap tur didokumentasikan dengan umpan balik klien tertulis dan rekaman video. Temuan kunci: platform lempar yang ditinggikan diterima dengan baik (dinilai 4,8/5), tetapi klien menemukan penempatan gear track awal terlalu ke depan — OLagoon memindahkannya 6\" ke belakang. Dudukan motor trolling senyap berfungsi tetapi beratnya (9 lbs) menggeser keseimbangan papan — OLagoon mendesain ulang menjadi braket aluminium 2 bagian dengan berat 5,2 lbs. Komentar klien paling umum: 'Saya merasa cukup stabil untuk berdiri dan melempar pada percobaan pertama saya.' Setelah 54 tur klien, nol papan menunjukkan masalah struktural. Dwayne memberikan persetujuan akhir pada Agustus 2023.",
             },
             {
               title: 'Langkah 3 - Peluncuran Merek, Situs Web DTC, dan Program Afiliasi Pemandu',
               detail:
-                "Texas Tailwaters diluncurkan pada 1 November 2023 dengan situs DTC Shopify yang dibangun oleh tim e-commerce Afarer. Situs itu menampilkan 8 video produk, 34 gambar gaya hidup yang diambil di Lake Travis (termasuk rekaman drone), dan 'Guide Notes' terperinci (tips pribadi Dwayne untuk setiap papan). Afarer menerapkan program afiliasi pemandu berjenjang: pemandu menerima komisi 15% dari rujukan langsung, papan demo gratis setelah merujuk 10 penjualan, dan akses eksklusif ke grup Facebook privat (42 anggota pemandu pada Maret 2024). Kampanye peluncuran mencakup strategi Google Ads yang menyasar 'fishing SUP', 'SUP fishing', dan 'guide paddleboard' dengan anggaran bulanan $3.500. Konten Instagram Dwayne sendiri mendorong lalu lintas signifikan — Reels 'Day on the Water' miliknya rata-rata 12.000 tayangan.",
+                "Texas Tailwaters diluncurkan pada 1 November 2023 dengan situs DTC Shopify yang dibangun oleh tim e-commerce OLagoon. Situs itu menampilkan 8 video produk, 34 gambar gaya hidup yang diambil di Lake Travis (termasuk rekaman drone), dan 'Guide Notes' terperinci (tips pribadi Dwayne untuk setiap papan). OLagoon menerapkan program afiliasi pemandu berjenjang: pemandu menerima komisi 15% dari rujukan langsung, papan demo gratis setelah merujuk 10 penjualan, dan akses eksklusif ke grup Facebook privat (42 anggota pemandu pada Maret 2024). Kampanye peluncuran mencakup strategi Google Ads yang menyasar 'fishing SUP', 'SUP fishing', dan 'guide paddleboard' dengan anggaran bulanan $3.500. Konten Instagram Dwayne sendiri mendorong lalu lintas signifikan — Reels 'Day on the Water' miliknya rata-rata 12.000 tayangan.",
             },
             {
               title: 'Langkah 4 - Pemenuhan Produksi, Dukungan Pelanggan, dan Penskalaan Tahun Kedua',
               detail:
-                'Produksi pertama 450 unit (300 Guide Pro, 150 Expedition Elite) dikirim dari pabrik Afarer pada 15 Oktober 2023 dan tiba di mitra 3PL Dwayne di Houston (fasilitas ShipBob) pada 22 November 2023. Dwayne menjual 87 unit sebelum peluncuran melalui jaringan pemandunya. Pada 31 Maret 2024, 334 unit telah terjual (74,2% dari stok). Tim dukungan pelanggan Afarer menangani semua pertanyaan garansi (6 masalah yang dilaporkan: 3 kebocoran inti valve, 2 fin box melonggar, 1 lepuh dek pad) — semua diselesaikan dalam 48 jam. Dwayne merekrut koordinator layanan pelanggan paruh waktu pada April 2024 seiring volume bertambah. Produksi kedua 800 unit dipesan pada Mei 2024 dengan ekspansi ke dua pengecer baru: Austin Kayak dan Fishing Tackle Unlimited (keduanya di Texas).',
+                'Produksi pertama 450 unit (300 Guide Pro, 150 Expedition Elite) dikirim dari pabrik OLagoon pada 15 Oktober 2023 dan tiba di mitra 3PL Dwayne di Houston (fasilitas ShipBob) pada 22 November 2023. Dwayne menjual 87 unit sebelum peluncuran melalui jaringan pemandunya. Pada 31 Maret 2024, 334 unit telah terjual (74,2% dari stok). Tim dukungan pelanggan OLagoon menangani semua pertanyaan garansi (6 masalah yang dilaporkan: 3 kebocoran inti valve, 2 fin box melonggar, 1 lepuh dek pad) — semua diselesaikan dalam 48 jam. Dwayne merekrut koordinator layanan pelanggan paruh waktu pada April 2024 seiring volume bertambah. Produksi kedua 800 unit dipesan pada Mei 2024 dengan ekspansi ke dua pengecer baru: Austin Kayak dan Fishing Tackle Unlimited (keduanya di Texas).',
             },
           ],
           results: [
@@ -1343,8 +1343,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Afarer',
+    whyOLagoon: {
+      title: 'Mengapa OLagoon',
       items: [
         {
           title: 'Kebutuhan Pengguna Memancing',
@@ -1380,7 +1380,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah saya menambahkan pemegang joran dan dudukan cooler ke SUP?',
         answer:
-          'Ya. Afarer mengintegrasikan sistem aksesori khusus memancing termasuk pemegang joran, area pemasangan cooler, dudukan kamera, dan titik pemasangan cincin-D langsung ke dalam desain papan.',
+          'Ya. OLagoon mengintegrasikan sistem aksesori khusus memancing termasuk pemegang joran, area pemasangan cooler, dudukan kamera, dan titik pemasangan cincin-D langsung ke dalam desain papan.',
       },
       {
         question: 'Berapa kapasitas beban SUP memancing?',
@@ -1390,7 +1390,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Apakah Anda menawarkan pencitraan merek kustom untuk perusahaan perlengkapan memancing?',
         answer:
-          'Ya. Afarer menyediakan manufaktur private label lengkap dengan grafis papan kustom, warna merek, penempatan logo, desain dek EVA, dan kemasan untuk merek memancing.',
+          'Ya. OLagoon menyediakan manufaktur private label lengkap dengan grafis papan kustom, warna merek, penempatan logo, desain dek EVA, dan kemasan untuk merek memancing.',
       },
       {
         question: 'Bisakah SUP memancing digunakan di air tawar dan air laut?',
@@ -1417,15 +1417,15 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsen Perlengkapan SUP Yoga | Papan Dayung Yoga Kustom | {SITE}',
       description:
-        'Afarer menyediakan solusi perlengkapan SUP Yoga kustom untuk studio yoga, retret kebugaran, dan merek kebugaran. Ciptakan papan SUP yoga tiup premium dengan desain stabilitas lebar, dek EVA penuh, dan manufaktur private label.',
+        'OLagoon menyediakan solusi perlengkapan SUP Yoga kustom untuk studio yoga, retret kebugaran, dan merek kebugaran. Ciptakan papan SUP yoga tiup premium dengan desain stabilitas lebar, dek EVA penuh, dan manufaktur private label.',
     },
     hero: {
       tagline: 'Solusi Perlengkapan SUP Yoga™',
       title: 'Perlengkapan SUP Yoga Premium untuk Merek Kebugaran dan Retret',
       subtitle:
-        'Afarer menyediakan solusi perlengkapan SUP Yoga kustom untuk studio yoga, retret kebugaran, dan merek kebugaran. Ciptakan papan SUP yoga tiup premium dengan desain stabilitas lebar, dek EVA penuh, dan manufaktur private label.',
+        'OLagoon menyediakan solusi perlengkapan SUP Yoga kustom untuk studio yoga, retret kebugaran, dan merek kebugaran. Ciptakan papan SUP yoga tiup premium dengan desain stabilitas lebar, dek EVA penuh, dan manufaktur private label.',
       image: {
-        alt: 'Deskripsi papan SUP kustom Afarer',
+        alt: 'Deskripsi papan SUP kustom OLagoon',
       },
     },
     challenge: {
@@ -1550,7 +1550,7 @@ const id: Record<string, SolutionOverride> = {
       customer:
         'Merek Retret Kebugaran Eropa yang mengoperasikan retret yoga, program meditasi, dan pengalaman kebugaran luar ruangan bagi wisatawan kebugaran premium.',
       steps: [
-        "Afarer menetapkan konsep produk sebagai 'Pengalaman Yoga Mengapung Mewah' yang menyasar wisatawan kebugaran, pelanggan kebugaran wanita, dan tamu retret premium.",
+        "OLagoon menetapkan konsep produk sebagai 'Pengalaman Yoga Mengapung Mewah' yang menyasar wisatawan kebugaran, pelanggan kebugaran wanita, dan tamu retret premium.",
         'Menciptakan SUP Yoga Lebar Premium dengan platform stabil ekstra lebar, dek yoga EVA penuh, permukaan nyaman tanpa alas kaki, dan kinerja mengapung seimbang.',
         'Mengembangkan palet warna alami lembut, grafis minimalis, dan kemasan premium yang sangat cocok dengan identitas menenangkan merek kebugaran tersebut.',
         'Meluncurkan dengan program retret, kelas yoga, dan pengalaman pelanggan premium sebagai aplikasi awal.',
@@ -1575,17 +1575,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Desain Papan Khusus Yoga dan Estetis Sanskerta',
               detail:
-                "Tim desain Afarer menghabiskan 3 minggu pada Maret 2023 mempelajari persyaratan Simone. Hasilnya: papan SUP yoga 'Serenity' — lebar 34\" (versus standar 32\"), panjang 11'6\", dengan inti drop-stitch 7 lapis untuk stabilitas kaku. Deknya memiliki pad EVA closed-cell setebal 6 mm dengan tekstur pola berlian (koefisien gesek teruji: 0,85 kering, 0,72 basah) yang menutupi 85% permukaan dek. Afarer menyertakan simbol Sanskerta 'Om' dalam heat-transfer reflektif perak di hidung dan pola teratai di sekitar pegangan jinjing tengah. Papan tersedia dalam 4 warna (karang, turquoise, oranye senja, biru laguna) yang sesuai dengan 4 palet warna Azure Resort. Setiap papan memiliki 8 cincin-D baja tahan karat — 4 untuk sistem tali bungee mengamankan matras yoga, dan 4 untuk tali jangkar opsional untuk latihan stasioner di arus.",
+                "Tim desain OLagoon menghabiskan 3 minggu pada Maret 2023 mempelajari persyaratan Simone. Hasilnya: papan SUP yoga 'Serenity' — lebar 34\" (versus standar 32\"), panjang 11'6\", dengan inti drop-stitch 7 lapis untuk stabilitas kaku. Deknya memiliki pad EVA closed-cell setebal 6 mm dengan tekstur pola berlian (koefisien gesek teruji: 0,85 kering, 0,72 basah) yang menutupi 85% permukaan dek. OLagoon menyertakan simbol Sanskerta 'Om' dalam heat-transfer reflektif perak di hidung dan pola teratai di sekitar pegangan jinjing tengah. Papan tersedia dalam 4 warna (karang, turquoise, oranye senja, biru laguna) yang sesuai dengan 4 palet warna Azure Resort. Setiap papan memiliki 8 cincin-D baja tahan karat — 4 untuk sistem tali bungee mengamankan matras yoga, dan 4 untuk tali jangkar opsional untuk latihan stasioner di arus.",
             },
             {
               title: 'Langkah 2 - Program Percontohan di Azure North dengan Pelatihan Instruktur Yoga',
               detail:
-                "Afarer memproduksi 15 papan prototipe dan mengirimnya melalui kargo udara ekspres (Singapore Airlines Cargo) untuk percontohan 6 minggu di Azure North mulai 1 Juni 2023. Simone dan 4 instruktur yoga residen menyelesaikan program Sertifikasi Instruktur SUP Yoga 40 jam yang dikembangkan bersama oleh konsultan kebugaran Afarer dan profesional Yoga Alliance. Sertifikasi itu mencakup: penyiapan papan dan tiupan untuk yoga (12 PSI untuk stabilitas maksimal), pengurutan kelas untuk kondisi air, protokol keselamatan untuk angin dan arus, dan 15 pose SUP yoga unik yang diadaptasi untuk lingkungan papan. Percontohan menjalankan 42 kelas selama 6 minggu dengan 186 peserta tamu. Survei pra dan pasca percontohan menunjukkan kepercayaan diri tamu meningkat 58%, dan peringkat kelas rata-rata 4,8/5. Umpan balik tamu menyoroti dua modifikasi: permintaan pemegang dayung di tepi papan (agar dayung tidak hanyut selama latihan) dan preferensi papan dengan radius hidung 'lunak' untuk pose berpasangan.",
+                "OLagoon memproduksi 15 papan prototipe dan mengirimnya melalui kargo udara ekspres (Singapore Airlines Cargo) untuk percontohan 6 minggu di Azure North mulai 1 Juni 2023. Simone dan 4 instruktur yoga residen menyelesaikan program Sertifikasi Instruktur SUP Yoga 40 jam yang dikembangkan bersama oleh konsultan kebugaran OLagoon dan profesional Yoga Alliance. Sertifikasi itu mencakup: penyiapan papan dan tiupan untuk yoga (12 PSI untuk stabilitas maksimal), pengurutan kelas untuk kondisi air, protokol keselamatan untuk angin dan arus, dan 15 pose SUP yoga unik yang diadaptasi untuk lingkungan papan. Percontohan menjalankan 42 kelas selama 6 minggu dengan 186 peserta tamu. Survei pra dan pasca percontohan menunjukkan kepercayaan diri tamu meningkat 58%, dan peringkat kelas rata-rata 4,8/5. Umpan balik tamu menyoroti dua modifikasi: permintaan pemegang dayung di tepi papan (agar dayung tidak hanyut selama latihan) dan preferensi papan dengan radius hidung 'lunak' untuk pose berpasangan.",
             },
             {
               title: 'Langkah 3 - Peluncuran Multi-Resor, Infrastruktur, dan Pemrograman',
               detail:
-                'Berdasarkan keberhasilan percontohan, Azure menempatkan PO untuk 40 papan Serenity (10 per resor) pada Agustus 2023. Afarer menambahkan dua modifikasi desain berdasarkan umpan balik percontohan: tali pengaman dayung silikon di rail sisi kanan dan radius hidung 15 cm lebih lebar (dari radius 45 cm menjadi 60 cm) untuk ruang pose berpasangan. Afarer mengirim melalui kargo laut dengan kontainer 20 kaki khusus, termasuk 40 pompa tiup kustom dengan pengukur tekanan yang dikalibrasi ke PSI alih-alih bar. Pengiriman tiba di Malé pada 1 November 2023. Simone melatih 12 instruktur tambahan di 4 resor (3 per properti) menggunakan kurikulum sertifikasi, dengan dua instruktur utama berpartisipasi dalam program train-the-trainer 2 minggu di Bali (dikoordinasikan oleh mitra kebugaran Afarer). Setiap resor membangun titik peluncuran SUP yoga khusus dengan dok mengapung, penyimpanan peralatan, dan area relaksasi beratap.',
+                'Berdasarkan keberhasilan percontohan, Azure menempatkan PO untuk 40 papan Serenity (10 per resor) pada Agustus 2023. OLagoon menambahkan dua modifikasi desain berdasarkan umpan balik percontohan: tali pengaman dayung silikon di rail sisi kanan dan radius hidung 15 cm lebih lebar (dari radius 45 cm menjadi 60 cm) untuk ruang pose berpasangan. OLagoon mengirim melalui kargo laut dengan kontainer 20 kaki khusus, termasuk 40 pompa tiup kustom dengan pengukur tekanan yang dikalibrasi ke PSI alih-alih bar. Pengiriman tiba di Malé pada 1 November 2023. Simone melatih 12 instruktur tambahan di 4 resor (3 per properti) menggunakan kurikulum sertifikasi, dengan dua instruktur utama berpartisipasi dalam program train-the-trainer 2 minggu di Bali (dikoordinasikan oleh mitra kebugaran OLagoon). Setiap resor membangun titik peluncuran SUP yoga khusus dengan dok mengapung, penyimpanan peralatan, dan area relaksasi beratap.',
             },
             {
               title: 'Langkah 4 - Kinerja Pendapatan, Retensi Tamu, dan Perluasan Program',
@@ -1612,22 +1612,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1 - Visi Desain Instruktur Yoga dan Papan Studio Ergonomis',
               detail:
-                "Desainer produk Afarer terbang ke Santa Monica pada Februari 2023 untuk mengamati 4 kelas Kai dan memahami gaya mengajarnya. Kai mengajarkan campuran Vinyasa flow, yin restoratif, dan acro-yoga berpasangan di papan — membutuhkan ruang dek lebih besar dari yang ditawarkan SUP standar. Afarer merancang 3 SKU: (1) 'Drift 10'6\"' — papan SUP yoga standar (lebar 34\", pad dek 6 mm), (2) 'Studio 12'0\"' — papan ekstra lebar 38\" dengan dek berbantalan 8 mm (dirancang untuk pose acro dan berpasangan, beban maksimum 450 lbs), dan (3) 'Mini 9'0\"' — papan ramah anak (lebar 30\", dek 5 mm, opsi warna cerah). Papan Studio menampilkan 'penanda keselarasan garis tengah' unik — garis cetakan halus di tengah dek untuk membantu siswa menyelaraskan matras mereka secara konsisten. Semua papan menggunakan teknologi drop-stitch Fusion-Lite Afarer, berbobot 3 lbs lebih ringan dari papan standar untuk penanganan lebih mudah.",
+                "Desainer produk OLagoon terbang ke Santa Monica pada Februari 2023 untuk mengamati 4 kelas Kai dan memahami gaya mengajarnya. Kai mengajarkan campuran Vinyasa flow, yin restoratif, dan acro-yoga berpasangan di papan — membutuhkan ruang dek lebih besar dari yang ditawarkan SUP standar. OLagoon merancang 3 SKU: (1) 'Drift 10'6\"' — papan SUP yoga standar (lebar 34\", pad dek 6 mm), (2) 'Studio 12'0\"' — papan ekstra lebar 38\" dengan dek berbantalan 8 mm (dirancang untuk pose acro dan berpasangan, beban maksimum 450 lbs), dan (3) 'Mini 9'0\"' — papan ramah anak (lebar 30\", dek 5 mm, opsi warna cerah). Papan Studio menampilkan 'penanda keselarasan garis tengah' unik — garis cetakan halus di tengah dek untuk membantu siswa menyelaraskan matras mereka secara konsisten. Semua papan menggunakan teknologi drop-stitch Fusion-Lite OLagoon, berbobot 3 lbs lebih ringan dari papan standar untuk penanganan lebih mudah.",
             },
             {
               title: 'Langkah 2 - Identitas Merek, Produksi Konten, dan Strategi Pre-Sale',
               detail:
-                'Tim kreatif Afarer mengembangkan identitas visual Drift & Downward Dog: logo minimalis dengan hibrida teratai/mandala-gaya bergelombang, palet warna hijau sage, pasir, dan biru samudra, serta pasangan font kustom (judul Lora, isi Nunito). Mereka memproduksi pemotretan 6 hari pada Maret 2023 di 5 lokasi Santa Monica Bay (Santa Monica Pier, Point Dume Malibu, Venice Beach, Marina del Rey, dan Paradise Cove), menghasilkan 480 gambar final dan 8 jam rekaman video 4K. Kai meluncurkan presale 30 hari pada 1 Mei 2023 melalui kampanye Kickstarter dengan target $35.000. Kampanye menampilkan 3 tingkatan hadiah: papan Drift early-bird ($599, 40 unit), paket papan Studio dengan matras dan tali ($949, 25 unit), dan papan Mini ($449, 20 unit). Kampanye mencapai targetnya dalam 11 jam dan ditutup pada $74.200 dari 118 pendukung.',
+                'Tim kreatif OLagoon mengembangkan identitas visual Drift & Downward Dog: logo minimalis dengan hibrida teratai/mandala-gaya bergelombang, palet warna hijau sage, pasir, dan biru samudra, serta pasangan font kustom (judul Lora, isi Nunito). Mereka memproduksi pemotretan 6 hari pada Maret 2023 di 5 lokasi Santa Monica Bay (Santa Monica Pier, Point Dume Malibu, Venice Beach, Marina del Rey, dan Paradise Cove), menghasilkan 480 gambar final dan 8 jam rekaman video 4K. Kai meluncurkan presale 30 hari pada 1 Mei 2023 melalui kampanye Kickstarter dengan target $35.000. Kampanye menampilkan 3 tingkatan hadiah: papan Drift early-bird ($599, 40 unit), paket papan Studio dengan matras dan tali ($949, 25 unit), dan papan Mini ($449, 20 unit). Kampanye mencapai targetnya dalam 11 jam dan ditutup pada $74.200 dari 118 pendukung.',
             },
             {
               title: 'Langkah 3 - Produksi, Logistik Pemenuhan, dan Integrasi Kelas',
               detail:
-                "Produksi 180 papan (80 Drift, 50 Studio, 50 Mini) berjalan Juni-Juli 2023 di fasilitas Vietnam Afarer. Pada 1 Agustus 2023, semua pesanan Kickstarter dipenuhi dari gudang 3PL di Long Beach (15 mil dari studio Santa Monica Kai). Kai meluncurkan platform pemesanan kelasnya di Shopify dengan aplikasi penjadwalan kustom yang terintegrasi dengan Acuity Scheduling. Ia menawarkan 4 tipe kelas: 'Sunrise Flow' (pemula, papan Drift), 'Full Moon Studio' (lanjutan/berpasangan, papan Studio), 'Family Paddle' (anak-anak + orang tua, Mini + Drift), dan 'Restorative Yin & Float' (kombinasi pose yin dan meditasi terpandu). Ia merekrut 3 instruktur SUP yoga bersertifikat tambahan untuk menangani jadwal yang diperluas. Pada September 2023, Kai menjalankan 22 kelas per minggu dengan rata-rata 14 siswa per kelas.",
+                "Produksi 180 papan (80 Drift, 50 Studio, 50 Mini) berjalan Juni-Juli 2023 di fasilitas Vietnam OLagoon. Pada 1 Agustus 2023, semua pesanan Kickstarter dipenuhi dari gudang 3PL di Long Beach (15 mil dari studio Santa Monica Kai). Kai meluncurkan platform pemesanan kelasnya di Shopify dengan aplikasi penjadwalan kustom yang terintegrasi dengan Acuity Scheduling. Ia menawarkan 4 tipe kelas: 'Sunrise Flow' (pemula, papan Drift), 'Full Moon Studio' (lanjutan/berpasangan, papan Studio), 'Family Paddle' (anak-anak + orang tua, Mini + Drift), dan 'Restorative Yin & Float' (kombinasi pose yin dan meditasi terpandu). Ia merekrut 3 instruktur SUP yoga bersertifikat tambahan untuk menangani jadwal yang diperluas. Pada September 2023, Kai menjalankan 22 kelas per minggu dengan rata-rata 14 siswa per kelas.",
             },
             {
               title: 'Langkah 4 - Perluasan Saluran Ritel, Kebugaran Korporat, dan Pertumbuhan Tahun 2',
               detail:
-                'Pada Oktober 2023, Kai didekati oleh pembeli regional Southern California REI yang telah menghadiri salah satu kelasnya. REI menempatkan pesanan uji untuk 30 papan Drift dan 15 papan Mini untuk 5 toko area Santa Monica. Afarer mengadaptasi kemasan untuk menyertakan hang tag sesuai aturan REI dan registrasi produk kode QR. Pada Desember 2023, tingkat sell-through REI mencapai 82% di 5 toko tersebut, REI menempatkan pesanan lanjutan 100 papan di 20 lokasi Southern California. Kai juga meluncurkan program kebugaran korporat — berkontrak dengan 4 perusahaan teknologi (Google Venice, Hulu Santa Monica, dan dua lainnya) untuk menyediakan kelas SUP yoga on-site mingguan sebagai manfaat karyawan. Program korporat menghasilkan $4.200/bulan pendapatan berulang. Pada akhir Tahun 1 (Maret 2024), Drift & Downward Dog telah menghasilkan pendapatan gabungan $342.000 (penjualan produk: $218.000, pendapatan kelas: $94.000, kebugaran korporat: $30.000).',
+                'Pada Oktober 2023, Kai didekati oleh pembeli regional Southern California REI yang telah menghadiri salah satu kelasnya. REI menempatkan pesanan uji untuk 30 papan Drift dan 15 papan Mini untuk 5 toko area Santa Monica. OLagoon mengadaptasi kemasan untuk menyertakan hang tag sesuai aturan REI dan registrasi produk kode QR. Pada Desember 2023, tingkat sell-through REI mencapai 82% di 5 toko tersebut, REI menempatkan pesanan lanjutan 100 papan di 20 lokasi Southern California. Kai juga meluncurkan program kebugaran korporat — berkontrak dengan 4 perusahaan teknologi (Google Venice, Hulu Santa Monica, dan dua lainnya) untuk menyediakan kelas SUP yoga on-site mingguan sebagai manfaat karyawan. Program korporat menghasilkan $4.200/bulan pendapatan berulang. Pada akhir Tahun 1 (Maret 2024), Drift & Downward Dog telah menghasilkan pendapatan gabungan $342.000 (penjualan produk: $218.000, pendapatan kelas: $94.000, kebugaran korporat: $30.000).',
             },
           ],
           results: [
@@ -1639,8 +1639,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Afarer',
+    whyOLagoon: {
+      title: 'Mengapa OLagoon',
       items: [
         {
           title: 'Pemahaman Pengalaman Kebugaran',
@@ -1681,7 +1681,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah saya membuat lini produk SUP Yoga bermerek sendiri?',
         answer:
-          'Ya. Afarer menyediakan manufaktur private label lengkap dengan warna, grafis, kemasan, dan aksesori kustom yang dirancang khusus untuk merek yoga dan kebugaran.',
+          'Ya. OLagoon menyediakan manufaktur private label lengkap dengan warna, grafis, kemasan, dan aksesori kustom yang dirancang khusus untuk merek yoga dan kebugaran.',
       },
       {
         question: 'Apakah papan SUP Yoga Anda cocok untuk penggunaan studio profesional?',
@@ -1721,12 +1721,12 @@ const id: Record<string, SolutionOverride> = {
         '{SITE} membantu kreator YouTube, TikTok, Instagram, dan merek Kickstarter meluncurkan produk SUP kustom dengan prototipe cepat, manufaktur MOQ rendah, desain edisi terbatas, dan solusi private label.',
     },
     hero: {
-      tagline: 'Ubah Audiens Anda Menjadi Merek Olahraga Air Bersama Afarer',
+      tagline: 'Ubah Audiens Anda Menjadi Merek Olahraga Air Bersama OLagoon',
       title: 'Solusi Manufaktur SUP Kustom Untuk Kreator YouTube, TikTok, Instagram & Merek Kickstarter',
       subtitle:
-        'Afarer membantu kreator meluncurkan merek SUP mereka sendiri melalui pengembangan prototipe cepat, produksi MOQ kecil, grafis kustom, desain edisi terbatas, kemasan merek, dan solusi manufaktur fleksibel.',
+        'OLagoon membantu kreator meluncurkan merek SUP mereka sendiri melalui pengembangan prototipe cepat, produksi MOQ kecil, grafis kustom, desain edisi terbatas, kemasan merek, dan solusi manufaktur fleksibel.',
       image: {
-        alt: 'Papan SUP kustom Afarer untuk merek kreator dan influencer',
+        alt: 'Papan SUP kustom OLagoon untuk merek kreator dan influencer',
       },
     },
     challenge: {
@@ -1760,7 +1760,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengembangan Prototipe SUP Cepat',
           description:
-            'Afarer membantu mengubah ide menjadi prototipe fisik dengan cepat. Dari pengembangan konsep dan sampel papan hingga pengujian grafis dan penyesuaian konfigurasi, kreator dapat beriterasi cepat berdasarkan umpan balik komunitas.',
+            'OLagoon membantu mengubah ide menjadi prototipe fisik dengan cepat. Dari pengembangan konsep dan sampel papan hingga pengujian grafis dan penyesuaian konfigurasi, kreator dapat beriterasi cepat berdasarkan umpan balik komunitas.',
           features: [
             'Pengembangan konsep produk',
             'Pembuatan prototipe',
@@ -1771,7 +1771,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Produksi MOQ Rendah untuk Merek Kreator',
           description:
-            'Kreator perlu memvalidasi permintaan sebelum penskalaan. Afarer mendukung kuantitas startup fleksibel dari 100-300 unit untuk pengujian komunitas dan peluncuran terbatas, meningkat ke 500-2000 untuk pertumbuhan dan 3000+ untuk operasi merek penuh.',
+            'Kreator perlu memvalidasi permintaan sebelum penskalaan. OLagoon mendukung kuantitas startup fleksibel dari 100-300 unit untuk pengujian komunitas dan peluncuran terbatas, meningkat ke 500-2000 untuk pertumbuhan dan 3000+ untuk operasi merek penuh.',
           features: [
             'Tahap peluncuran kreator: 100-300 pcs',
             'Tahap pertumbuhan: 500-2000 pcs',
@@ -1782,7 +1782,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Desain SUP Kreator Edisi Terbatas',
           description:
-            'Merek kreator sukses melalui keunikan. Afarer membantu mengembangkan edisi eksklusif dengan grafis kustom, karya seni khas, edisi warna spesial, dan elemen desain terinspirasi komunitas yang benar-benar diinginkan penggemar.',
+            'Merek kreator sukses melalui keunikan. OLagoon membantu mengembangkan edisi eksklusif dengan grafis kustom, karya seni khas, edisi warna spesial, dan elemen desain terinspirasi komunitas yang benar-benar diinginkan penggemar.',
           features: [
             'Grafis dan karya seni kustom',
             'Edisi tanda tangan dan komunitas',
@@ -1793,12 +1793,12 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kemasan Premium untuk Peluncuran Kreator',
           description:
-            'Bagi kreator, unboxing adalah bagian dari pengalaman merek. Afarer mendukung kemasan kustom dengan kotak bermerek, kartu produk, pesan terima kasih, dan kode QR yang tertaut ke konten kreator yang mengubah pelanggan menjadi pengikut jangka panjang.',
+            'Bagi kreator, unboxing adalah bagian dari pengalaman merek. OLagoon mendukung kemasan kustom dengan kotak bermerek, kartu produk, pesan terima kasih, dan kode QR yang tertaut ke konten kreator yang mengubah pelanggan menjadi pengikut jangka panjang.',
         },
         {
           title: 'Dukungan Produk Kickstarter & Pendanaan Massal',
           description:
-            'Banyak kreator menggunakan pendanaan massal untuk memvalidasi permintaan. Afarer mendukung pengembangan prototipe pra-peluncuran, perencanaan produksi kampanye, dan pemenuhan batch pasca-kampanye sehingga kreator dapat menepati janji mereka.',
+            'Banyak kreator menggunakan pendanaan massal untuk memvalidasi permintaan. OLagoon mendukung pengembangan prototipe pra-peluncuran, perencanaan produksi kampanye, dan pemenuhan batch pasca-kampanye sehingga kreator dapat menepati janji mereka.',
           features: [
             'Pengembangan pra-peluncuran',
             'Perencanaan produksi kampanye',
@@ -1809,7 +1809,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perluasan Produk Merek Kreator',
           description:
-            'Merek kreator yang sukses dapat berekspansi menjadi ekosistem luar ruangan lengkap. Afarer mendukung lini produk SUP, aksesori air, dan koleksi musiman yang tumbuh bersama komunitas.',
+            'Merek kreator yang sukses dapat berekspansi menjadi ekosistem luar ruangan lengkap. OLagoon mendukung lini produk SUP, aksesori air, dan koleksi musiman yang tumbuh bersama komunitas.',
           features: [
             'Lini papan SUP khas',
             'Aksesori air',
@@ -1820,7 +1820,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengembangan Produk Ramah Konten',
           description:
-            'Kreator membutuhkan produk yang secara alami mendukung penceritaan. Afarer membantu mengembangkan produk yang cocok untuk video unboxing, konten petualangan, ulasan produk, dan tantangan komunitas yang menghasilkan keterlibatan organik.',
+            'Kreator membutuhkan produk yang secara alami mendukung penceritaan. OLagoon membantu mengembangkan produk yang cocok untuk video unboxing, konten petualangan, ulasan produk, dan tantangan komunitas yang menghasilkan keterlibatan organik.',
           features: [
             'Desain pengalaman unboxing',
             'Produk siap petualangan',
@@ -1831,7 +1831,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kontrol Kualitas untuk Reputasi Kreator',
           description:
-            'Kepercayaan adalah aset paling berharga kreator. Kontrol kualitas Afarer mencakup pengujian stabilitas tekanan udara, verifikasi daya tahan papan, pemeriksaan konsistensi grafis dan warna, serta inspeksi aksesori lengkap untuk melindungi hubungan komunitas.',
+            'Kepercayaan adalah aset paling berharga kreator. Kontrol kualitas OLagoon mencakup pengujian stabilitas tekanan udara, verifikasi daya tahan papan, pemeriksaan konsistensi grafis dan warna, serta inspeksi aksesori lengkap untuk melindungi hubungan komunitas.',
         },
       ],
     },
@@ -1850,7 +1850,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengembangan Prototipe',
           detail:
-            'Afarer menciptakan desain papan kustom dengan grafis khas dan sampel produk. Kreator menguji kinerja, tampilan, dan mengumpulkan umpan balik audiens sebelum berkomitmen pada produksi.',
+            'OLagoon menciptakan desain papan kustom dengan grafis khas dan sampel produk. Kreator menguji kinerja, tampilan, dan mengumpulkan umpan balik audiens sebelum berkomitmen pada produksi.',
         },
         {
           title: 'Peluncuran Edisi Terbatas',
@@ -1875,29 +1875,29 @@ const id: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brasil',
             background:
-              "Carlos Mendes, 34 tahun, adalah fotografer petualangan yang pernah tampil di National Geographic dan pilot drone dengan 890.000 pengikut Instagram. Setelah mendokumentasikan ekspedisi sungai Amazon terpencil selama 7 tahun, ia melihat audiensnya semakin sering bertanya tentang SUP tiup yang ia gunakan untuk mengakses lokasi syuting. Tanpa latar belakang pendayungan, ia membutuhkan Afarer untuk merekayasa papan kustom yang dapat berfungsi sebagai platform kamera sekaligus kapal ekspedisi, sambil meluncurkan merek merchandise di sekitar seri 'Rios do Brasil' miliknya.",
+              "Carlos Mendes, 34 tahun, adalah fotografer petualangan yang pernah tampil di National Geographic dan pilot drone dengan 890.000 pengikut Instagram. Setelah mendokumentasikan ekspedisi sungai Amazon terpencil selama 7 tahun, ia melihat audiensnya semakin sering bertanya tentang SUP tiup yang ia gunakan untuk mengakses lokasi syuting. Tanpa latar belakang pendayungan, ia membutuhkan OLagoon untuk merekayasa papan kustom yang dapat berfungsi sebagai platform kamera sekaligus kapal ekspedisi, sambil meluncurkan merek merchandise di sekitar seri 'Rios do Brasil' miliknya.",
             goal: 'Meluncurkan SUP khas ko-merek pada Mei 2025 yang menangkap 5 biome air utama Brasil (Amazon, Pantanal, São Francisco, Paraná, dan pesisir Rio), dengan pre-penjualan 500 unit seharga R$4.990 masing-masing sebelum produksi.',
           },
           steps: [
             {
-              title: 'Ekspedisi R&D Khusus Biome dengan Insinyur Afarer',
+              title: 'Ekspedisi R&D Khusus Biome dengan Insinyur OLagoon',
               detail:
-                'Pada Agustus 2024, Afarer mengirim insinyur marine senior Li Wei dan desainer produk Henrik Larsson ke Manaus selama 10 hari. Mereka mendayung 180 km Rio Negro bersama Carlos, mengukur suhu air (28-32°C), muatan sedimen, dan beban tipikal (perlengkapan kamera 40 kg ditambah perlengkapan berkemah 25 kg). Mereka menemukan bahwa papan drop-stitch standar mengalami delaminasi di bawah kombinasi indeks UV ekuatorial 12+ dan masukan pasir abrasif saat portase. Carlos bersikeras papan harus dapat dikempiskan agar muat di dalam tas kering 65-liter untuk perjalanan pesawat perintis.',
+                'Pada Agustus 2024, OLagoon mengirim insinyur marine senior Li Wei dan desainer produk Henrik Larsson ke Manaus selama 10 hari. Mereka mendayung 180 km Rio Negro bersama Carlos, mengukur suhu air (28-32°C), muatan sedimen, dan beban tipikal (perlengkapan kamera 40 kg ditambah perlengkapan berkemah 25 kg). Mereka menemukan bahwa papan drop-stitch standar mengalami delaminasi di bawah kombinasi indeks UV ekuatorial 12+ dan masukan pasir abrasif saat portase. Carlos bersikeras papan harus dapat dikempiskan agar muat di dalam tas kering 65-liter untuk perjalanan pesawat perintis.',
             },
             {
               title: 'Konstruksi Fusion Tiga Lapis dan Sistem Rigging Modular',
               detail:
-                "Pusat R&D Afarer di Xiamen memproduksi 7 prototipe antara September dan November 2024. Desain akhir menggunakan sandwich PVC-Dropstitch-PVC 3 lapis dengan lapisan atas reflektif-UV tambahan, diuji pada 1.200 jam paparan UV dipercepat. Sistem penahan 'Rails-to-Rail' eksklusif menambah kekakuan lateral tanpa bobot ekstra. Carlos dan Afarer ko-mendesain sistem rel dudukan kamera modular yang dibaut melalui pad yang diperkuat — tanpa suction cup — diuji menahan 28 kg pada kecepatan derek 30 km/jam. Setiap papan hanya berbobot 11,8 kg tetapi menopang beban 220 kg.",
+                "Pusat R&D OLagoon di Xiamen memproduksi 7 prototipe antara September dan November 2024. Desain akhir menggunakan sandwich PVC-Dropstitch-PVC 3 lapis dengan lapisan atas reflektif-UV tambahan, diuji pada 1.200 jam paparan UV dipercepat. Sistem penahan 'Rails-to-Rail' eksklusif menambah kekakuan lateral tanpa bobot ekstra. Carlos dan OLagoon ko-mendesain sistem rel dudukan kamera modular yang dibaut melalui pad yang diperkuat — tanpa suction cup — diuji menahan 28 kg pada kecepatan derek 30 km/jam. Setiap papan hanya berbobot 11,8 kg tetapi menopang beban 220 kg.",
             },
             {
               title: 'Kampanye Pra-Peluncuran Berbasis Konten dan Edisi Biome Terbatas',
               detail:
-                "Sejak Desember 2024, Carlos merilis 5 mini-dokumenter (rata-rata 4,2 juta tayangan masing-masing) yang menampilkan pengujian prototipe di setiap biome. Afarer menyiapkan toko Shopify D2C khusus dengan hub logistik regional di Manaus, São Paulo, dan Brasília. Mereka memproduksi 5 skema warna khusus biome (air gelap Rio Negro, senja Pantanal, merah ngarai São Francisco, hijau hutan Paraná, emas Costa Dourada), masing-masing terbatas 100 unit. Pelanggan dapat 'mengadopsi' biome mereka dan menerima donasi terlacak GPS ke dana reforestasi Amazon milik Carlos.",
+                "Sejak Desember 2024, Carlos merilis 5 mini-dokumenter (rata-rata 4,2 juta tayangan masing-masing) yang menampilkan pengujian prototipe di setiap biome. OLagoon menyiapkan toko Shopify D2C khusus dengan hub logistik regional di Manaus, São Paulo, dan Brasília. Mereka memproduksi 5 skema warna khusus biome (air gelap Rio Negro, senja Pantanal, merah ngarai São Francisco, hijau hutan Paraná, emas Costa Dourada), masing-masing terbatas 100 unit. Pelanggan dapat 'mengadopsi' biome mereka dan menerima donasi terlacak GPS ke dana reforestasi Amazon milik Carlos.",
             },
             {
               title: 'Peluncuran April 2025 dan Jaringan Distribusi Brasil',
               detail:
-                "Pada 5 April 2025, 'Rios do Brasil Explorer 12.6' diluncurkan di Taman Ibirapuera, São Paulo dengan 350 influencer dan media. Semua 500 unit terjual pra-pemesanan dalam 11 jam — pendapatan R$2,495 juta. Afarer mengirim 200 unit via udara untuk mengalahkan musim kemarau Amazon, sementara 300 via laut. Program donasi biome Carlos mengumpulkan R$187.000 pada bulan pertama. Afarer dan Carlos menandatangani kesepakatan eksklusivitas 3 tahun untuk Amerika Latin dengan minimum 2.000 unit per tahun dan model kedua ('Expedition Tandem') sudah dalam pengembangan untuk 2026.",
+                "Pada 5 April 2025, 'Rios do Brasil Explorer 12.6' diluncurkan di Taman Ibirapuera, São Paulo dengan 350 influencer dan media. Semua 500 unit terjual pra-pemesanan dalam 11 jam — pendapatan R$2,495 juta. OLagoon mengirim 200 unit via udara untuk mengalahkan musim kemarau Amazon, sementara 300 via laut. Program donasi biome Carlos mengumpulkan R$187.000 pada bulan pertama. OLagoon dan Carlos menandatangani kesepakatan eksklusivitas 3 tahun untuk Amerika Latin dengan minimum 2.000 unit per tahun dan model kedua ('Expedition Tandem') sudah dalam pengembangan untuk 2026.",
             },
           ],
           results: [
@@ -1912,29 +1912,29 @@ const id: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norwegia',
             background:
-              "Tor Haugen, 29 tahun, adalah mantan pemain ski lintas alam timnas Norwegia yang menjadi semifinalis CrossFit Games dengan 620.000 pelanggan YouTube dan 410.000 pengikut TikTok. Kanal kebugaran 'Nordic Strength' miliknya menampilkan latihan luar ruangan dengan peralatan tidak konvensional. Setelah video viral (8,7 juta tayangan) dirinya melakukan burpee di SUP murah di Oslo Fjord, komunitasnya menuntut papan yang dibangun untuk kebugaran intensitas tinggi. Tor tidak punya pengalaman desain produk dan membutuhkan Afarer untuk merekayasa platform stabil yang mampu menahan lompatan, penurunan beban, dan cuaca Nordik yang ekstrem.",
+              "Tor Haugen, 29 tahun, adalah mantan pemain ski lintas alam timnas Norwegia yang menjadi semifinalis CrossFit Games dengan 620.000 pelanggan YouTube dan 410.000 pengikut TikTok. Kanal kebugaran 'Nordic Strength' miliknya menampilkan latihan luar ruangan dengan peralatan tidak konvensional. Setelah video viral (8,7 juta tayangan) dirinya melakukan burpee di SUP murah di Oslo Fjord, komunitasnya menuntut papan yang dibangun untuk kebugaran intensitas tinggi. Tor tidak punya pengalaman desain produk dan membutuhkan OLagoon untuk merekayasa platform stabil yang mampu menahan lompatan, penurunan beban, dan cuaca Nordik yang ekstrem.",
             goal: "Menciptakan 'SUP kebugaran fungsional' pertama yang tersertifikasi untuk latihan gaya CrossFit, diluncurkan Oktober 2024 seharga 3.990 NOK ($370 USD) dengan pre-penjualan 1.000 unit dan tur Eropa 20 kota serentak.",
           },
           steps: [
             {
               title: 'Uji Coba Prototipe Oslo Fjord dengan Pengujian Load Cell',
               detail:
-                "Tim produk Afarer, dipimpin insinyur struktural Marta Johansson, menghabiskan seminggu pada Maret 2024 di Kongshavn Marina, Oslo. Mereka memasang instrumen pada 6 papan pesaing dengan 14 strain gauge dan akselerometer sementara Tor melakukan burpee (tempo 120 bpm), barbell overhead hold (60 kg), dan box jump (kotak 50 cm). Hasil menunjukkan papan SUP standar mengalami beban dinamis 3,7 kali lipat dari pendayungan rekreasi. Defleksi dek melebihi 22 mm — berbahaya untuk stabilitas pergelangan kaki. Tim Marta menghitung mereka membutuhkan torsion box 200% lebih kaku dengan platform berdiri 'drop-through' unik.",
+                "Tim produk OLagoon, dipimpin insinyur struktural Marta Johansson, menghabiskan seminggu pada Maret 2024 di Kongshavn Marina, Oslo. Mereka memasang instrumen pada 6 papan pesaing dengan 14 strain gauge dan akselerometer sementara Tor melakukan burpee (tempo 120 bpm), barbell overhead hold (60 kg), dan box jump (kotak 50 cm). Hasil menunjukkan papan SUP standar mengalami beban dinamis 3,7 kali lipat dari pendayungan rekreasi. Defleksi dek melebihi 22 mm — berbahaya untuk stabilitas pergelangan kaki. Tim Marta menghitung mereka membutuhkan torsion box 200% lebih kaku dengan platform berdiri 'drop-through' unik.",
             },
             {
               title: 'Platform Stringer Komposit dan Teknologi Dek Anti-Slip',
               detail:
-                'Selama 4 bulan, Afarer membangun 9 prototipe dengan kekakuan yang meningkat. Terobosan datang dari stringer aluminium kelas marine 2,5 mm yang diselipkan di antara dua lapisan drop-stitch, menghasilkan papan dengan defleksi 0,8 mm di bawah beban dinamis 100 kg. Dek menggunakan busa EVA closed-cell dengan pola berlian timbul 6 mm — Tor mengujinya basah, bergaram, dan berlumpur, menemukan cengkeraman melebihi grip tape papan luncur. Afarer menambahkan tie-down cincin-D di 22 titik sekeliling papan untuk resistance band dan pelat beban. Setiap papan memiliki jangkar tali keselamatan clip-in berperingkat beban statis 500 kg.',
+                'Selama 4 bulan, OLagoon membangun 9 prototipe dengan kekakuan yang meningkat. Terobosan datang dari stringer aluminium kelas marine 2,5 mm yang diselipkan di antara dua lapisan drop-stitch, menghasilkan papan dengan defleksi 0,8 mm di bawah beban dinamis 100 kg. Dek menggunakan busa EVA closed-cell dengan pola berlian timbul 6 mm — Tor mengujinya basah, bergaram, dan berlumpur, menemukan cengkeraman melebihi grip tape papan luncur. OLagoon menambahkan tie-down cincin-D di 22 titik sekeliling papan untuk resistance band dan pelat beban. Setiap papan memiliki jangkar tali keselamatan clip-in berperingkat beban statis 500 kg.',
             },
             {
               title: 'Ko-Pencitraan Nordic Strength dan Proses Sertifikasi',
               detail:
-                "Tor dan Afarer menciptakan pencitraan 'Nordic Strength Trainer 11.0', dengan skema warna biru-putih khas Tor yang cocok dengan seni kanalnya. Afarer membantu Tor melalui sertifikasi CE Uni Eropa untuk peralatan kebugaran (proses terpisah dari sertifikasi SUP standar), yang mensyaratkan 200 jam pengujian fatigue mekanis. Kemasan menyertakan kode QR yang tertaut ke program latihan 'Fjord Fitness' 12 minggu milik Tor yang difilmkan bekerja sama dengan klinik kedokteran olahraga Norwegia. Afarer menyiapkan hub distribusi Eropa di Rotterdam untuk melayani 20 negara.",
+                "Tor dan OLagoon menciptakan pencitraan 'Nordic Strength Trainer 11.0', dengan skema warna biru-putih khas Tor yang cocok dengan seni kanalnya. OLagoon membantu Tor melalui sertifikasi CE Uni Eropa untuk peralatan kebugaran (proses terpisah dari sertifikasi SUP standar), yang mensyaratkan 200 jam pengujian fatigue mekanis. Kemasan menyertakan kode QR yang tertaut ke program latihan 'Fjord Fitness' 12 minggu milik Tor yang difilmkan bekerja sama dengan klinik kedokteran olahraga Norwegia. OLagoon menyiapkan hub distribusi Eropa di Rotterdam untuk melayani 20 negara.",
             },
             {
               title: 'Peluncuran Oktober 2024 di 20 Kota Eropa',
               detail:
-                "Tur 'Fjord to Peak' milik Tor diluncurkan 12 Oktober 2024 di area pemandian Sørenga, Oslo dengan 1.200 peserta melakukan latihan SUP kelompok. Selama 5 minggu, Tor mengunjungi Copenhagen, Hamburg, Amsterdam, Berlin, Warsawa, Praha, Munich, Zurich, Milan, Barcelona, Madrid, Paris, London, Dublin, Edinburgh, Stockholm, Helsinki, Tallinn, dan Riga. Setiap acara menggabungkan kelas kebugaran SUP 45 menit dan sesi perkenalan. Semua 1.000 unit peluncuran terjual dalam pre-sale sebelum acara pertama; Afarer berusaha keras mengirim 500 unit tambahan via udara di tengah tur. Total penjualan 2024 mencapai 2.300 unit di 18 negara Eropa.",
+                "Tur 'Fjord to Peak' milik Tor diluncurkan 12 Oktober 2024 di area pemandian Sørenga, Oslo dengan 1.200 peserta melakukan latihan SUP kelompok. Selama 5 minggu, Tor mengunjungi Copenhagen, Hamburg, Amsterdam, Berlin, Warsawa, Praha, Munich, Zurich, Milan, Barcelona, Madrid, Paris, London, Dublin, Edinburgh, Stockholm, Helsinki, Tallinn, dan Riga. Setiap acara menggabungkan kelas kebugaran SUP 45 menit dan sesi perkenalan. Semua 1.000 unit peluncuran terjual dalam pre-sale sebelum acara pertama; OLagoon berusaha keras mengirim 500 unit tambahan via udara di tengah tur. Total penjualan 2024 mencapai 2.300 unit di 18 negara Eropa.",
             },
           ],
           results: [
@@ -1946,8 +1946,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Kreator Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Kreator Memilih OLagoon',
       items: [
         {
           title: 'Keahlian Produk',
@@ -1975,38 +1975,38 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Berapa jumlah pesanan minimum untuk produk SUP bermerek kreator?',
         answer:
-          'Afarer mendukung produksi MOQ rendah mulai dari 100-300 unit untuk tahap peluncuran kreator, memungkinkan Anda memvalidasi permintaan tanpa investasi persediaan besar. Seiring merek Anda tumbuh, kami dapat meningkatkan produksi ke 500-2000 unit dan seterusnya.',
+          'OLagoon mendukung produksi MOQ rendah mulai dari 100-300 unit untuk tahap peluncuran kreator, memungkinkan Anda memvalidasi permintaan tanpa investasi persediaan besar. Seiring merek Anda tumbuh, kami dapat meningkatkan produksi ke 500-2000 unit dan seterusnya.',
       },
       {
-        question: 'Bisakah Afarer membantu desain dan prototyping papan SUP kustom saya?',
+        question: 'Bisakah OLagoon membantu desain dan prototyping papan SUP kustom saya?',
         answer:
-          'Ya, Afarer menyediakan pengembangan konsep produk penuh, pembuatan prototipe, pengujian warna dan grafis, serta penyesuaian konfigurasi. Kami bekerja erat dengan kreator untuk mewujudkan visi mereka dengan desain papan kustom, grafis khas, dan sampel produk.',
+          'Ya, OLagoon menyediakan pengembangan konsep produk penuh, pembuatan prototipe, pengujian warna dan grafis, serta penyesuaian konfigurasi. Kami bekerja erat dengan kreator untuk mewujudkan visi mereka dengan desain papan kustom, grafis khas, dan sampel produk.',
       },
       {
         question: 'Berapa lama waktu yang dibutuhkan untuk mengembangkan prototipe dan memulai produksi?',
         answer:
-          'Afarer memprioritaskan kecepatan untuk proyek kreator. Pengembangan prototipe biasanya membutuhkan beberapa minggu, dan linimasa produksi fleksibel untuk menyesuaikan jadwal kampanye, waktu musiman, dan momentum audiens.',
+          'OLagoon memprioritaskan kecepatan untuk proyek kreator. Pengembangan prototipe biasanya membutuhkan beberapa minggu, dan linimasa produksi fleksibel untuk menyesuaikan jadwal kampanye, waktu musiman, dan momentum audiens.',
       },
       {
         question: 'Bisakah Anda mendukung kampanye Kickstarter dengan manufaktur dan pemenuhan?',
         answer:
-          'Ya, Afarer mendukung persiapan prototipe pra-peluncuran, perencanaan produksi kampanye, pengembangan estimasi linimasa, dan pemenuhan batch pasca-kampanye termasuk persiapan kemasan dan pengiriman.',
+          'Ya, OLagoon mendukung persiapan prototipe pra-peluncuran, perencanaan produksi kampanye, pengembangan estimasi linimasa, dan pemenuhan batch pasca-kampanye termasuk persiapan kemasan dan pengiriman.',
       },
       {
         question: 'Opsi kustomisasi apa saja yang tersedia untuk papan SUP edisi terbatas?',
         answer:
-          'Afarer menawarkan grafis kustom, karya seni khas, logo kreator, simbol komunitas, pola unik, edisi warna spesial, penomoran terbatas, dan kemasan premium dengan kotak bermerek dan materi kisah.',
+          'OLagoon menawarkan grafis kustom, karya seni khas, logo kreator, simbol komunitas, pola unik, edisi warna spesial, penomoran terbatas, dan kemasan premium dengan kotak bermerek dan materi kisah.',
       },
       {
-        question: 'Bagaimana Afarer memastikan kontrol kualitas untuk produk bermerek kreator?',
+        question: 'Bagaimana OLagoon memastikan kontrol kualitas untuk produk bermerek kreator?',
         answer:
-          'Afarer melakukan pengujian stabilitas tekanan udara, verifikasi daya tahan papan, inspeksi kualitas material, pemeriksaan konsistensi grafis dan warna, tinjauan kualitas kemasan, dan inspeksi aksesori lengkap untuk melindungi kepercayaan komunitas Anda.',
+          'OLagoon melakukan pengujian stabilitas tekanan udara, verifikasi daya tahan papan, inspeksi kualitas material, pemeriksaan konsistensi grafis dan warna, tinjauan kualitas kemasan, dan inspeksi aksesori lengkap untuk melindungi kepercayaan komunitas Anda.',
       },
     ],
     cta: {
-      title: 'Bangun Merek SUP Edisi Kreator Anda Bersama Afarer',
+      title: 'Bangun Merek SUP Edisi Kreator Anda Bersama OLagoon',
       subtitle:
-        'Audiens Anda sudah mengikuti perjalanan Anda. Sekarang ciptakan sesuatu yang dapat mereka alami. Afarer membantu kreator meluncurkan produk SUP kustom, papan edisi terbatas, dan perlengkapan luar ruangan private label.',
+        'Audiens Anda sudah mengikuti perjalanan Anda. Sekarang ciptakan sesuatu yang dapat mereka alami. OLagoon membantu kreator meluncurkan produk SUP kustom, papan edisi terbatas, dan perlengkapan luar ruangan private label.',
       primaryAction: {
         text: 'Mulai Proyek SUP Kreator Anda Hari Ini',
       },
@@ -2026,9 +2026,9 @@ const id: Record<string, SolutionOverride> = {
       tagline: 'Armada SUP Komersial™',
       title: 'Solusi Perlengkapan SUP Profesional Untuk Klub Dayung, Operator Sewa & Sekolah Olahraga Air',
       subtitle:
-        'Afarer menyediakan Solusi Armada SUP Komersial yang dirancang khusus untuk operator profesional. Kami membantu sekolah SUP, klub dayung, perusahaan sewa, resor, operator petualangan, dan penyelenggara acara membangun armada perlengkapan yang andal dengan konstruksi kelas komersial dan dukungan jangka panjang.',
+        'OLagoon menyediakan Solusi Armada SUP Komersial yang dirancang khusus untuk operator profesional. Kami membantu sekolah SUP, klub dayung, perusahaan sewa, resor, operator petualangan, dan penyelenggara acara membangun armada perlengkapan yang andal dengan konstruksi kelas komersial dan dukungan jangka panjang.',
       image: {
-        alt: 'Armada SUP komersial Afarer untuk klub dayung dan sekolah olahraga air',
+        alt: 'Armada SUP komersial OLagoon untuk klub dayung dan sekolah olahraga air',
       },
     },
     challenge: {
@@ -2062,7 +2062,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Konstruksi SUP Tiup Kelas Komersial',
           description:
-            'Produk SUP komersial Afarer menonjolkan sistem material PVC diperkuat dengan ketahanan abrasi lebih tinggi, penguatan rail multi-lapis untuk ketahanan benturan, struktur drop stitch kepadatan tinggi untuk kekakuan, dan sistem valve heavy-duty yang dirancang untuk siklus tiup sering.',
+            'Produk SUP komersial OLagoon menonjolkan sistem material PVC diperkuat dengan ketahanan abrasi lebih tinggi, penguatan rail multi-lapis untuk ketahanan benturan, struktur drop stitch kepadatan tinggi untuk kekakuan, dan sistem valve heavy-duty yang dirancang untuk siklus tiup sering.',
           features: [
             'Sistem material PVC diperkuat',
             'Penguatan rail multi-lapis',
@@ -2073,7 +2073,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Desain Produk SUP Teroptimasi Armada',
           description:
-            'Afarer mengembangkan perlengkapan SUP berdasarkan kebutuhan operasional dengan armada pelatihan khusus untuk pemula, armada sewa untuk pengguna rutin, dan armada acara untuk aktivitas kelompok. Setiap konfigurasi berfokus pada stabilitas, daya tahan, dan kemudahan perawatan.',
+            'OLagoon mengembangkan perlengkapan SUP berdasarkan kebutuhan operasional dengan armada pelatihan khusus untuk pemula, armada sewa untuk pengguna rutin, dan armada acara untuk aktivitas kelompok. Setiap konfigurasi berfokus pada stabilitas, daya tahan, dan kemudahan perawatan.',
           features: [
             'Armada pelatihan SUP untuk les',
             'Armada sewa untuk pengguna rutin',
@@ -2084,12 +2084,12 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Konfigurasi Paket Komersial Lengkap',
           description:
-            'Afarer membantu membuat paket armada lengkap termasuk papan SUP tiup, dayung profesional, pompa tekanan tinggi, tali tahan lama, tas ransel heavy-duty, dan kit perbaikan, dengan opsi tambahan seperti valve cadangan, sirip ekstra, dan pegangan pengganti.',
+            'OLagoon membantu membuat paket armada lengkap termasuk papan SUP tiup, dayung profesional, pompa tekanan tinggi, tali tahan lama, tas ransel heavy-duty, dan kit perbaikan, dengan opsi tambahan seperti valve cadangan, sirip ekstra, dan pegangan pengganti.',
         },
         {
           title: 'Kustomisasi Armada Untuk Bisnis Air',
           description:
-            'Operator komersial membutuhkan identitas visual kuat. Afarer mendukung kustomisasi logo, kustomisasi warna yang cocok dengan pencitraan klub atau lingkungan resor, dan sistem identifikasi armada dengan pencetakan nomor dan identifikasi model untuk mengelola armada besar secara efisien.',
+            'Operator komersial membutuhkan identitas visual kuat. OLagoon mendukung kustomisasi logo, kustomisasi warna yang cocok dengan pencitraan klub atau lingkungan resor, dan sistem identifikasi armada dengan pencetakan nomor dan identifikasi model untuk mengelola armada besar secara efisien.',
           features: [
             'Kustomisasi logo',
             'Kustomisasi warna',
@@ -2100,27 +2100,27 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kurangi Biaya Operasional Jangka Panjang',
           description:
-            'Papan termurah tidak selalu paling menguntungkan. Solusi Afarer meningkatkan umur peralatan melalui material lebih kuat, efisiensi perawatan melalui komponen terstandarisasi, dan profitabilitas bisnis melalui lebih sedikit waktu henti dan utilisasi lebih tinggi.',
+            'Papan termurah tidak selalu paling menguntungkan. Solusi OLagoon meningkatkan umur peralatan melalui material lebih kuat, efisiensi perawatan melalui komponen terstandarisasi, dan profitabilitas bisnis melalui lebih sedikit waktu henti dan utilisasi lebih tinggi.',
         },
         {
           title: 'Dukungan Untuk Bisnis Sewa SUP',
           description:
-            'Operator sewa membutuhkan peralatan yang mudah bagi pelanggan, mudah bagi staf, dan mudah dirawat. Afarer menyediakan desain ramah pemula dengan stabilitas tinggi, pengoperasian cepat untuk perputaran pelanggan lebih cepat, dan aksesori tahan lama termasuk dayung kuat dan pompa andal.',
+            'Operator sewa membutuhkan peralatan yang mudah bagi pelanggan, mudah bagi staf, dan mudah dirawat. OLagoon menyediakan desain ramah pemula dengan stabilitas tinggi, pengoperasian cepat untuk perputaran pelanggan lebih cepat, dan aksesori tahan lama termasuk dayung kuat dan pompa andal.',
         },
         {
           title: 'Solusi Perlengkapan Sekolah SUP',
           description:
-            'Instruktur SUP membutuhkan peralatan yang mendukung pembelajaran. Produk Afarer dapat dioptimalkan untuk kursus pemula, program pemuda, pelatihan kelompok, dan demonstrasi instruktur dengan fitur yang meningkatkan pengalaman mengajar.',
+            'Instruktur SUP membutuhkan peralatan yang mendukung pembelajaran. Produk OLagoon dapat dioptimalkan untuk kursus pemula, program pemuda, pelatihan kelompok, dan demonstrasi instruktur dengan fitur yang meningkatkan pengalaman mengajar.',
         },
         {
           title: 'Solusi Aktivitas Air Acara & Resor',
           description:
-            'Hotel, resor, dan perusahaan acara semakin menawarkan aktivitas pantai, team building, dan pengalaman luar ruangan. Afarer mendukung perencanaan armada, kustomisasi produk, dan produksi batch untuk aplikasi perhotelan ini.',
+            'Hotel, resor, dan perusahaan acara semakin menawarkan aktivitas pantai, team building, dan pengalaman luar ruangan. OLagoon mendukung perencanaan armada, kustomisasi produk, dan produksi batch untuk aplikasi perhotelan ini.',
         },
         {
           title: 'Dukungan Pemeliharaan & Purnajual',
           description:
-            'Operator profesional membutuhkan dukungan setelah pengiriman. Afarer menyediakan perencanaan suku cadang dengan material perbaikan dan aksesori pengganti, panduan pemeliharaan untuk penyimpanan dan pembersihan, serta dukungan perluasan armada untuk menambah papan dan model baru.',
+            'Operator profesional membutuhkan dukungan setelah pengiriman. OLagoon menyediakan perencanaan suku cadang dengan material perbaikan dan aksesori pengganti, panduan pemeliharaan untuk penyimpanan dan pembersihan, serta dukungan perluasan armada untuk menambah papan dan model baru.',
           features: [
             'Perencanaan suku cadang',
             'Panduan pemeliharaan',
@@ -2142,7 +2142,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perencanaan Armada Komersial',
           detail:
-            'Afarer menganalisis pola penggunaan harian, tingkat keterampilan pelanggan, dan kondisi lingkungan air, lalu merekomendasikan konfigurasi armada SUP tiup komersial yang disesuaikan dengan kebutuhan operasional klub.',
+            'OLagoon menganalisis pola penggunaan harian, tingkat keterampilan pelanggan, dan kondisi lingkungan air, lalu merekomendasikan konfigurasi armada SUP tiup komersial yang disesuaikan dengan kebutuhan operasional klub.',
         },
         {
           title: 'Pengembangan Produk',
@@ -2173,35 +2173,35 @@ const id: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubai, Uni Emirat Arab',
             background:
-              "Ahmed Al-Rashid, 41 tahun, mendirikan 'Dubai Paddle Club' pada 2020 dengan 8 SUP entry-level yang disewakan dari kontainer pengiriman dekat Dubai Marina. Pada 2023, operasinya tumbuh organik menjadi 45 papan di dua lokasi tetapi menderita kerugian persediaan tahunan 60% dari delaminasi, kerusakan UV, dan korosi air laut. Umur rata-rata papan hanya 7 bulan. 12 staf Ahmed menghabiskan 22 jam per minggu untuk perbaikan alih-alih melayani pelanggan. Ia menghubungi Afarer setelah pesaing merekomendasikan iSUP mereka yang bertahan 3+ tahun dalam kondisi Timur Tengah.",
+              "Ahmed Al-Rashid, 41 tahun, mendirikan 'Dubai Paddle Club' pada 2020 dengan 8 SUP entry-level yang disewakan dari kontainer pengiriman dekat Dubai Marina. Pada 2023, operasinya tumbuh organik menjadi 45 papan di dua lokasi tetapi menderita kerugian persediaan tahunan 60% dari delaminasi, kerusakan UV, dan korosi air laut. Umur rata-rata papan hanya 7 bulan. 12 staf Ahmed menghabiskan 22 jam per minggu untuk perbaikan alih-alih melayani pelanggan. Ia menghubungi OLagoon setelah pesaing merekomendasikan iSUP mereka yang bertahan 3+ tahun dalam kondisi Timur Tengah.",
             goal: 'Menstandarisasi satu armada tahan lama berisi 200 papan yang melayani 3 lokasi (Dubai Marina, Abu Dhabi Corniche, dan Fujairah Beach) dengan tingkat penggantian tahunan ≤15% dan utilisasi bulanan per papan 40% lebih tinggi.',
           },
           steps: [
             {
               title: 'Uji Stres 14 Papan di Seluruh Kondisi Musim Panas UAE',
               detail:
-                'Pada Mei 2024, Afarer mengirim direktur penjualan regional Karim Nasr dan insinyur produk Sophie Chen ke Dubai untuk uji lapangan 6 minggu. Mereka mengerahkan 14 iSUP pesaing dan 6 prototipe Afarer di ketiga lokasi selama puncak musim panas (suhu lingkungan 48°C, air 35°C, indeks UV 11). Staf Ahmed mencatat 1.100+ jam sewa dengan data retensi tiupan, kegagalan valve, abrasi, dan kepuasan pelanggan. Papan XHD 15,0 mm Afarer hanya kehilangan 0,3 PSI selama 8 jam, versus rata-rata 2,1 PSI untuk pesaing. Papan Afarer menunjukkan nol kegagalan valve — pesaing rata-rata 1 kegagalan per 120 jam sewa.',
+                'Pada Mei 2024, OLagoon mengirim direktur penjualan regional Karim Nasr dan insinyur produk Sophie Chen ke Dubai untuk uji lapangan 6 minggu. Mereka mengerahkan 14 iSUP pesaing dan 6 prototipe OLagoon di ketiga lokasi selama puncak musim panas (suhu lingkungan 48°C, air 35°C, indeks UV 11). Staf Ahmed mencatat 1.100+ jam sewa dengan data retensi tiupan, kegagalan valve, abrasi, dan kepuasan pelanggan. Papan XHD 15,0 mm OLagoon hanya kehilangan 0,3 PSI selama 8 jam, versus rata-rata 2,1 PSI untuk pesaing. Papan OLagoon menunjukkan nol kegagalan valve — pesaing rata-rata 1 kegagalan per 120 jam sewa.',
             },
             {
               title: 'Konfigurasi Armada Kustom dengan Pelacakan RFID dan Pengodean Warna',
               detail:
-                "Berdasarkan data lapangan, Afarer merekomendasikan campuran armada 3 papan: 120 'Marina Pro 11.6' (all-around), 50 'Expedition 12.6' (touring untuk garis pantai Fujairah), dan 30 'Yoga XL 10.8' (untuk kelas matahari terbit yang dipimpin wanita). Afarer menanamkan tag RFID di fin box setiap papan untuk sistem persediaan kustom Ahmed menggunakan pembaca genggam. Papan diberi kode warna per lokasi: Dubai Marina teal, Abu Dhabi pasir, Fujairah biru samudra. Ahmed menambahkan premium $5/jam untuk papan Afarer dibanding armada generiknya yang tersisa — dan melihat 92% pelanggan memilih Afarer.",
+                "Berdasarkan data lapangan, OLagoon merekomendasikan campuran armada 3 papan: 120 'Marina Pro 11.6' (all-around), 50 'Expedition 12.6' (touring untuk garis pantai Fujairah), dan 30 'Yoga XL 10.8' (untuk kelas matahari terbit yang dipimpin wanita). OLagoon menanamkan tag RFID di fin box setiap papan untuk sistem persediaan kustom Ahmed menggunakan pembaca genggam. Papan diberi kode warna per lokasi: Dubai Marina teal, Abu Dhabi pasir, Fujairah biru samudra. Ahmed menambahkan premium $5/jam untuk papan OLagoon dibanding armada generiknya yang tersisa — dan melihat 92% pelanggan memilih OLagoon.",
             },
             {
               title: 'Pelatihan Staf dan Protokol Pemeliharaan Terstandarisasi',
               detail:
-                'Pada Juli 2024, Afarer mengadakan pelatihan intensif 3 hari untuk 15 staf Ahmed di Dubai Marina. Pelatihan mencakup: teknik tiup/kempis yang benar untuk mencegah keausan ulir valve, protokol pembilasan air tawar (diukur 90 detik per papan), aplikasi pelindung UV setiap 30 jam sewa, dan prosedur penumpukan penyimpanan untuk mencegah kerutan. Afarer menyediakan kit pemeliharaan kustom dengan pengukur tekanan terkalibrasi, pelumas silikon, dan strip uji UV. Ahmed menerapkan daftar periksa digital harian dengan foto; kepatuhan dilacak dan rata-rata 94% selama 6 bulan pertama.',
+                'Pada Juli 2024, OLagoon mengadakan pelatihan intensif 3 hari untuk 15 staf Ahmed di Dubai Marina. Pelatihan mencakup: teknik tiup/kempis yang benar untuk mencegah keausan ulir valve, protokol pembilasan air tawar (diukur 90 detik per papan), aplikasi pelindung UV setiap 30 jam sewa, dan prosedur penumpukan penyimpanan untuk mencegah kerutan. OLagoon menyediakan kit pemeliharaan kustom dengan pengukur tekanan terkalibrasi, pelumas silikon, dan strip uji UV. Ahmed menerapkan daftar periksa digital harian dengan foto; kepatuhan dilacak dan rata-rata 94% selama 6 bulan pertama.',
             },
             {
               title: 'Peluncuran Agustus 2024 dan Hasil Musim Pertama',
               detail:
-                'Armada 200 papan tiba melalui Pelabuhan Jebel Ali Dubai pada 1 Agustus 2024, dengan pelatihan tim Ahmed lengkap. Pendapatan bulan pertama mencapai AED 487.000 ($132.600), naik 210% dari bulan yang sama tahun sebelumnya. Lokasi Fujairah menambahkan tur SUP snorkeling seharga AED 220/orang, rata-rata 40 peserta harian. Pada Desember 2024, utilisasi total armada 73% di semua lokasi — rata-rata industri 45%. Hanya 3 papan mengalami kerusakan (semua penyalahgunaan pelanggan), diperbaiki di bawah garansi komersial Afarer dalam 5 hari kerja masing-masing.',
+                'Armada 200 papan tiba melalui Pelabuhan Jebel Ali Dubai pada 1 Agustus 2024, dengan pelatihan tim Ahmed lengkap. Pendapatan bulan pertama mencapai AED 487.000 ($132.600), naik 210% dari bulan yang sama tahun sebelumnya. Lokasi Fujairah menambahkan tur SUP snorkeling seharga AED 220/orang, rata-rata 40 peserta harian. Pada Desember 2024, utilisasi total armada 73% di semua lokasi — rata-rata industri 45%. Hanya 3 papan mengalami kerusakan (semua penyalahgunaan pelanggan), diperbaiki di bawah garansi komersial OLagoon dalam 5 hari kerja masing-masing.',
             },
           ],
           results: [
             'Pendapatan armada bulanan tumbuh dari AED 157.000 menjadi AED 487.000 ($132.600) — peningkatan 210% dalam 6 bulan',
             'Tingkat penggantian papan tahunan turun dari 60% menjadi 4,5%, menghemat sekitar AED 312.000 per tahun',
-            'Skor kepuasan pelanggan naik dari 3,8/5 (armada generik) menjadi 4,7/5 (armada Afarer); Google Reviews meningkat dari 187 menjadi 1.420',
+            'Skor kepuasan pelanggan naik dari 3,8/5 (armada generik) menjadi 4,7/5 (armada OLagoon); Google Reviews meningkat dari 187 menjadi 1.420',
             'Ahmed berekspansi ke lokasi ke-4 (Ras Al Khaimah) pada Februari 2025, memesan 80 papan tambahan',
           ],
         },
@@ -2217,26 +2217,26 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Penilaian Pulau-demi-Pulau dan Kustomisasi Produk',
               detail:
-                "Direktur akun EMEA Afarer Stefan Berger mengunjungi kelima pulau pada April 2024 bersama Dimitri. Setiap lokasi memiliki kondisi berbeda: pasir vulkanik Santorini (abrasif, pH 8,2), pantai terekspos angin Mykonos (angin Meltemi konsisten 20-25 knot), titik masuk berbatu dangkal Naxos yang membutuhkan hidung diperkuat, jalur pesisir jarak jauh Paros (8-12 km), dan teluk tenang ramah keluarga Kreta. Afarer mengembangkan 3 model yang disesuaikan: 'Med RockShield 11.0' dengan pelindung hidung 50% lebih tebal (diuji 2.000 seretan di batu pasir), 'Meltemi Pro 10.6' dengan dek low-profile untuk stabilitas angin, dan 'Family Cruiser 11.6' dengan kapasitas 275 kg untuk penggunaan orang tua-anak.",
+                "Direktur akun EMEA OLagoon Stefan Berger mengunjungi kelima pulau pada April 2024 bersama Dimitri. Setiap lokasi memiliki kondisi berbeda: pasir vulkanik Santorini (abrasif, pH 8,2), pantai terekspos angin Mykonos (angin Meltemi konsisten 20-25 knot), titik masuk berbatu dangkal Naxos yang membutuhkan hidung diperkuat, jalur pesisir jarak jauh Paros (8-12 km), dan teluk tenang ramah keluarga Kreta. OLagoon mengembangkan 3 model yang disesuaikan: 'Med RockShield 11.0' dengan pelindung hidung 50% lebih tebal (diuji 2.000 seretan di batu pasir), 'Meltemi Pro 10.6' dengan dek low-profile untuk stabilitas angin, dan 'Family Cruiser 11.6' dengan kapasitas 275 kg untuk penggunaan orang tua-anak.",
             },
             {
               title: 'Konstruksi Kelas Komersial dan Rel Aksesori Modular',
               detail:
-                "Pabrik Xiamen Afarer memproduksi papan dengan PVC 1.200 denier (vs. standar 1.000D), sambungan las ganda diuji pada tekanan pecah 14 PSI (standar industri 10 PSI), dan cincin-D baja tahan karat alih-alih las-plastik. Setiap papan menyertakan sistem 'QuickRail' baru Afarer — profil aluminium ekstrusi yang dibond ke dalam rail — memungkinkan Dimitri mengaitkan dudukan GoPro, pemegang botol air, dan pemegang joran. Ini meningkatkan pendapatan sewa aksesori €12 per papan per hari. Afarer menambahkan logo reflektif untuk visibilitas: krusial saat patroli pelabuhan Mykonos mengatur perahu setelah matahari terbenam.",
+                "Pabrik Xiamen OLagoon memproduksi papan dengan PVC 1.200 denier (vs. standar 1.000D), sambungan las ganda diuji pada tekanan pecah 14 PSI (standar industri 10 PSI), dan cincin-D baja tahan karat alih-alih las-plastik. Setiap papan menyertakan sistem 'QuickRail' baru OLagoon — profil aluminium ekstrusi yang dibond ke dalam rail — memungkinkan Dimitri mengaitkan dudukan GoPro, pemegang botol air, dan pemegang joran. Ini meningkatkan pendapatan sewa aksesori €12 per papan per hari. OLagoon menambahkan logo reflektif untuk visibilitas: krusial saat patroli pelabuhan Mykonos mengatur perahu setelah matahari terbenam.",
             },
             {
               title: 'Sertifikasi Staf Pra-Musim dan Sistem Manajemen Armada',
               detail:
-                'Pada Mei 2024, Afarer melatih 22 staf Dimitri di semua pulau dalam lokakarya 2 hari di Santorini. Pelatihan mencakup: teknik pendaratan berbatu untuk meminimalkan abrasi, tiupan yang benar hingga 14-16 PSI dengan penyesuaian suhu air (variasi musiman 18-26°C), perbaikan lapangan darurat dengan patch PVC (pelatih menguji setiap siswa menyelesaikan perbaikan dalam kurang dari 6 menit), dan protokol penyesuaian pelanggan untuk memastikan pemilihan papan sesuai berat. Afarer menyediakan dasbor armada digital yang menunjukkan jam sewa setiap papan, riwayat pemeliharaan, dan lokasi berbasis GPS. Pada akhir musim, 97% perbaikan lapangan ditangani staf tanpa menelepon Afarer.',
+                'Pada Mei 2024, OLagoon melatih 22 staf Dimitri di semua pulau dalam lokakarya 2 hari di Santorini. Pelatihan mencakup: teknik pendaratan berbatu untuk meminimalkan abrasi, tiupan yang benar hingga 14-16 PSI dengan penyesuaian suhu air (variasi musiman 18-26°C), perbaikan lapangan darurat dengan patch PVC (pelatih menguji setiap siswa menyelesaikan perbaikan dalam kurang dari 6 menit), dan protokol penyesuaian pelanggan untuk memastikan pemilihan papan sesuai berat. OLagoon menyediakan dasbor armada digital yang menunjukkan jam sewa setiap papan, riwayat pemeliharaan, dan lokasi berbasis GPS. Pada akhir musim, 97% perbaikan lapangan ditangani staf tanpa menelepon OLagoon.',
             },
             {
               title: 'Musim Juni-Oktober 2024: Peluncuran, Ekskursi, dan ROI',
               detail:
-                'Dimitri meluncurkan armada baru pada 1 Juni 2024, di semua pulau secara serentak. Produk ekskursi SUP berpemandu (€55/orang untuk eksplorasi pesisir 3 jam dengan pemberhentian snorkel) diluncurkan 15 Juni, menjalankan 4 perjalanan harian dari Red Beach Santorini dan Agios Prokopios Naxos. Pada Agustus, pemesanan ekskursi mencapai 2.100 per minggu di semua pulau. Total pendapatan musiman (Juni-Oktober) €2,85 juta, naik 137% dari €1,2 juta pada 2023. Biaya perbaikan papan turun dari €22.000 menjadi €2.800. Hanya 4 papan dihapusbukukan (semua akibat pelanggan, tak dapat diperbaiki). Pada akhir musim, Dimitri memesan 100 papan tambahan untuk musim 2025 dan meminta Afarer mengembangkan kit konversi SUP pedal-drive.',
+                'Dimitri meluncurkan armada baru pada 1 Juni 2024, di semua pulau secara serentak. Produk ekskursi SUP berpemandu (€55/orang untuk eksplorasi pesisir 3 jam dengan pemberhentian snorkel) diluncurkan 15 Juni, menjalankan 4 perjalanan harian dari Red Beach Santorini dan Agios Prokopios Naxos. Pada Agustus, pemesanan ekskursi mencapai 2.100 per minggu di semua pulau. Total pendapatan musiman (Juni-Oktober) €2,85 juta, naik 137% dari €1,2 juta pada 2023. Biaya perbaikan papan turun dari €22.000 menjadi €2.800. Hanya 4 papan dihapusbukukan (semua akibat pelanggan, tak dapat diperbaiki). Pada akhir musim, Dimitri memesan 100 papan tambahan untuk musim 2025 dan meminta OLagoon mengembangkan kit konversi SUP pedal-drive.',
             },
           ],
           results: [
-            'Pendapatan musiman tumbuh 137% dari €1,2 juta menjadi €2,85 juta pada tahun pertama pengerahan Afarer',
+            'Pendapatan musiman tumbuh 137% dari €1,2 juta menjadi €2,85 juta pada tahun pertama pengerahan OLagoon',
             'Biaya perbaikan papan turun dari €22.000 menjadi €2.800 — pengurangan 87% menghemat €19.200',
             'Hanya 4 dari 200 papan dihapusbukukan (kerugian tahunan 2% vs. 35% dengan armada sebelumnya); proyeksi umur 4-5 musim',
             'Produk ekskursi berpemandu menghasilkan €843.000 pada musim pertama dengan margin laba 87%; peringkat TripAdvisor 4,9/5',
@@ -2244,8 +2244,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Klub Dayung Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Klub Dayung Memilih OLagoon',
       items: [
         {
           title: 'Operasi Bisnis',
@@ -2255,7 +2255,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Daya Tahan Komersial',
           description:
-            'Produk Afarer dirancang untuk penggunaan profesional harian dengan konstruksi diperkuat, material lebih kuat, dan pengujian ketat.',
+            'Produk OLagoon dirancang untuk penggunaan profesional harian dengan konstruksi diperkuat, material lebih kuat, dan pengujian ketat.',
         },
         {
           title: 'Manajemen Armada',
@@ -2265,15 +2265,15 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kemitraan Jangka Panjang',
           description:
-            'Afarer mendukung pertumbuhan bisnis Anda dengan suku cadang, panduan pemeliharaan, dan perencanaan perluasan melampaui pembelian awal.',
+            'OLagoon mendukung pertumbuhan bisnis Anda dengan suku cadang, panduan pemeliharaan, dan perencanaan perluasan melampaui pembelian awal.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Apa yang membuat papan SUP Afarer cocok untuk klub dayung komersial?',
+        question: 'Apa yang membuat papan SUP OLagoon cocok untuk klub dayung komersial?',
         answer:
-          'Papan SUP komersial Afarer menonjolkan konstruksi PVC diperkuat, penguatan rail multi-lapis, struktur drop stitch kepadatan tinggi, dan sistem valve heavy-duty yang dirancang khusus untuk penggunaan frekuensi tinggi harian di lingkungan sewa dan pelatihan.',
+          'Papan SUP komersial OLagoon menonjolkan konstruksi PVC diperkuat, penguatan rail multi-lapis, struktur drop stitch kepadatan tinggi, dan sistem valve heavy-duty yang dirancang khusus untuk penggunaan frekuensi tinggi harian di lingkungan sewa dan pelatihan.',
       },
       {
         question: 'Apa perbedaan antara perlengkapan SUP kelas konsumen dan kelas komersial?',
@@ -2281,30 +2281,30 @@ const id: Record<string, SolutionOverride> = {
           'Papan SUP kelas komersial menggunakan material lebih kuat, konstruksi diperkuat, dan komponen lebih tahan lama untuk menahan penggunaan harian oleh banyak pengguna. Papan konsumen dirancang untuk penggunaan rekreasi sesekali dan akan cepat aus dalam kondisi komersial.',
       },
       {
-        question: 'Bisakah Afarer mengkustomisasi papan SUP dengan logo dan warna klub saya?',
+        question: 'Bisakah OLagoon mengkustomisasi papan SUP dengan logo dan warna klub saya?',
         answer:
-          'Ya, Afarer menawarkan kustomisasi armada penuh termasuk penempatan logo, warna merek, sistem penomoran papan, identifikasi model, dan penandaan papan instruktur untuk menciptakan identitas armada konsisten dan profesional.',
+          'Ya, OLagoon menawarkan kustomisasi armada penuh termasuk penempatan logo, warna merek, sistem penomoran papan, identifikasi model, dan penandaan papan instruktur untuk menciptakan identitas armada konsisten dan profesional.',
       },
       {
-        question: 'Berapa umur tipikal papan SUP komersial dari Afarer?',
+        question: 'Berapa umur tipikal papan SUP komersial dari OLagoon?',
         answer:
-          'Dengan pemeliharaan yang tepat, papan SUP komersial Afarer jauh lebih tahan lama daripada produk kelas konsumen, mengurangi frekuensi penggantian dan total biaya kepemilikan. Umur pasti tergantung intensitas penggunaan dan praktik pemeliharaan.',
+          'Dengan pemeliharaan yang tepat, papan SUP komersial OLagoon jauh lebih tahan lama daripada produk kelas konsumen, mengurangi frekuensi penggantian dan total biaya kepemilikan. Umur pasti tergantung intensitas penggunaan dan praktik pemeliharaan.',
       },
       {
         question: 'Apakah Anda menawarkan suku cadang dan dukungan pemeliharaan untuk operator armada?',
         answer:
-          'Ya, Afarer menyediakan dukungan purnajual komprehensif termasuk perencanaan suku cadang, material perbaikan, aksesori pengganti, panduan pemeliharaan, rekomendasi penyimpanan, dan instruksi pembersihan.',
+          'Ya, OLagoon menyediakan dukungan purnajual komprehensif termasuk perencanaan suku cadang, material perbaikan, aksesori pengganti, panduan pemeliharaan, rekomendasi penyimpanan, dan instruksi pembersihan.',
       },
       {
-        question: 'Ukuran armada apa yang dapat didukung Afarer untuk klub dayung?',
+        question: 'Ukuran armada apa yang dapat didukung OLagoon untuk klub dayung?',
         answer:
-          'Afarer mendukung armada semua ukuran dari klub kecil dengan 10-30 papan hingga operasi besar dengan 100+ papan. Kami menyediakan solusi pembelian massal, kualitas produk konsisten, dan dukungan perluasan seiring pertumbuhan bisnis Anda.',
+          'OLagoon mendukung armada semua ukuran dari klub kecil dengan 10-30 papan hingga operasi besar dengan 100+ papan. Kami menyediakan solusi pembelian massal, kualitas produk konsisten, dan dukungan perluasan seiring pertumbuhan bisnis Anda.',
       },
     ],
     cta: {
-      title: 'Bangun Armada SUP Komersial Anda Bersama Afarer',
+      title: 'Bangun Armada SUP Komersial Anda Bersama OLagoon',
       subtitle:
-        'Peralatan Anda adalah fondasi bisnis Anda. Pilih produk yang dirancang untuk tampil setiap hari. Afarer membantu klub dayung, sekolah SUP, operator sewa, dan resor menciptakan armada SUP profesional dengan dukungan manufaktur yang andal.',
+        'Peralatan Anda adalah fondasi bisnis Anda. Pilih produk yang dirancang untuk tampil setiap hari. OLagoon membantu klub dayung, sekolah SUP, operator sewa, dan resor menciptakan armada SUP profesional dengan dukungan manufaktur yang andal.',
       primaryAction: {
         text: 'Mulai Proyek SUP Komersial Anda Hari Ini',
       },
@@ -2324,9 +2324,9 @@ const id: Record<string, SolutionOverride> = {
       tagline: 'Solusi Armada Sewa Tahan Lama™',
       title: 'Solusi Perlengkapan SUP Komersial Untuk Bisnis Sewa, Pantai & Destinasi Wisata',
       subtitle:
-        'Afarer menyediakan Solusi Armada Sewa Tahan Lama yang dirancang khusus untuk bisnis sewa komersial. Kami membantu perusahaan sewa pantai, operator aktivitas danau, pusat air resor, dan bisnis wisata petualangan membangun armada SUP menguntungkan dengan konstruksi tahan lama dan perawatan mudah.',
+        'OLagoon menyediakan Solusi Armada Sewa Tahan Lama yang dirancang khusus untuk bisnis sewa komersial. Kami membantu perusahaan sewa pantai, operator aktivitas danau, pusat air resor, dan bisnis wisata petualangan membangun armada SUP menguntungkan dengan konstruksi tahan lama dan perawatan mudah.',
       image: {
-        alt: 'Armada SUP sewa tahan lama Afarer untuk operator pantai dan olahraga air',
+        alt: 'Armada SUP sewa tahan lama OLagoon untuk operator pantai dan olahraga air',
       },
     },
     challenge: {
@@ -2360,7 +2360,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Konstruksi SUP Tiup Kelas Sewa',
           description:
-            'Produk SUP sewa Afarer berfokus pada daya tahan praktis dengan material PVC tahan abrasi, konstruksi rail diperkuat untuk benturan sering, struktur drop stitch tahan lama untuk kinerja stabil, dan sistem valve daya-tahan-tinggi yang dirancang untuk operasional harian.',
+            'Produk SUP sewa OLagoon berfokus pada daya tahan praktis dengan material PVC tahan abrasi, konstruksi rail diperkuat untuk benturan sering, struktur drop stitch tahan lama untuk kinerja stabil, dan sistem valve daya-tahan-tinggi yang dirancang untuk operasional harian.',
           features: [
             'Material PVC tahan abrasi',
             'Konstruksi rail diperkuat',
@@ -2371,7 +2371,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Desain SUP Sewa Teroptimasi Biaya',
           description:
-            'Pelanggan sewa tidak membutuhkan kinerja tingkat kompetisi. Mereka membutuhkan stabilitas, keselamatan, pengoperasian mudah, dan keandalan. Afarer mengonfigurasi produk dengan bentuk all-round stabil, aksesori terstandarisasi, dan kemasan praktis untuk pengelolaan perlengkapan lebih cepat.',
+            'Pelanggan sewa tidak membutuhkan kinerja tingkat kompetisi. Mereka membutuhkan stabilitas, keselamatan, pengoperasian mudah, dan keandalan. OLagoon mengonfigurasi produk dengan bentuk all-round stabil, aksesori terstandarisasi, dan kemasan praktis untuk pengelolaan perlengkapan lebih cepat.',
           features: [
             'Bentuk all-round stabil untuk pemula',
             'Aksesori terstandarisasi',
@@ -2382,17 +2382,17 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Paket Armada Sewa Lengkap',
           description:
-            'Afarer membuat paket sewa siap pakai termasuk papan SUP tiup tahan lama, dayung dapat disesuaikan, pompa, tali, tas ransel jinjing, dan kit perbaikan, dengan opsi tambahan komersial seperti sirip cadangan, dayung ekstra, valve pengganti, dan solusi penyimpanan.',
+            'OLagoon membuat paket sewa siap pakai termasuk papan SUP tiup tahan lama, dayung dapat disesuaikan, pompa, tali, tas ransel jinjing, dan kit perbaikan, dengan opsi tambahan komersial seperti sirip cadangan, dayung ekstra, valve pengganti, dan solusi penyimpanan.',
         },
         {
           title: 'Solusi Pembelian Armada Massal',
           description:
-            'Afarer mendukung operator yang membeli armada 50, 100, 300, atau 500+ papan dengan dukungan perluasan armada dari operasi sewa kecil hingga bisnis multi-lokasi, memastikan kualitas perlengkapan konsisten dan efisiensi pembelian lebih baik.',
+            'OLagoon mendukung operator yang membeli armada 50, 100, 300, atau 500+ papan dengan dukungan perluasan armada dari operasi sewa kecil hingga bisnis multi-lokasi, memastikan kualitas perlengkapan konsisten dan efisiensi pembelian lebih baik.',
         },
         {
           title: 'Sistem Perawatan & Perbaikan Mudah',
           description:
-            'Bisnis sewa tidak mampu menanggung waktu henti perlengkapan lama. Afarer menyediakan desain produk ramah perbaikan dengan komponen dapat diganti, panduan pemeliharaan untuk pembersihan dan penyimpanan, serta dukungan perbaikan darurat dengan kit dan panduan penyelesaian masalah.',
+            'Bisnis sewa tidak mampu menanggung waktu henti perlengkapan lama. OLagoon menyediakan desain produk ramah perbaikan dengan komponen dapat diganti, panduan pemeliharaan untuk pembersihan dan penyimpanan, serta dukungan perbaikan darurat dengan kit dan panduan penyelesaian masalah.',
           features: [
             'Komponen dapat diganti',
             'Aksesori standar',
@@ -2403,23 +2403,23 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Optimalisasi Bisnis Sewa Musiman',
           description:
-            'Banyak bisnis sewa beroperasi secara musiman. Afarer membantu merencanakan persediaan sesuai permintaan dengan produk yang cocok untuk operasi pantai musim panas, paket SUP keluarga, aktivitas resor, dan wisata petualangan dengan model gaya touring.',
+            'Banyak bisnis sewa beroperasi secara musiman. OLagoon membantu merencanakan persediaan sesuai permintaan dengan produk yang cocok untuk operasi pantai musim panas, paket SUP keluarga, aktivitas resor, dan wisata petualangan dengan model gaya touring.',
         },
         {
           title: 'Pencitraan Merek Kustom Untuk Operator Sewa',
           description:
-            'Perlengkapan sewa terlihat oleh ratusan pelanggan. Afarer mendukung pencitraan logo, kustomisasi warna yang cocok dengan suasana pantai atau gaya resor, dan identifikasi armada dengan penomoran papan dan label model yang mengubah perlengkapan menjadi alat pemasaran.',
+            'Perlengkapan sewa terlihat oleh ratusan pelanggan. OLagoon mendukung pencitraan logo, kustomisasi warna yang cocok dengan suasana pantai atau gaya resor, dan identifikasi armada dengan penomoran papan dan label model yang mengubah perlengkapan menjadi alat pemasaran.',
           features: ['Pencitraan logo', 'Kustomisasi warna', 'Penomoran papan', 'Label model dan operasi'],
         },
         {
           title: 'Dukungan Untuk Destinasi Wisata & Resor',
           description:
-            'Banyak bisnis pariwisata menggunakan SUP sebagai produk pengalaman. Afarer mendukung hotel, resor, lokasi berkemah, dan taman petualangan dengan perencanaan armada, kustomisasi produk, dan produksi batch untuk pengalaman aktivitas air lengkap.',
+            'Banyak bisnis pariwisata menggunakan SUP sebagai produk pengalaman. OLagoon mendukung hotel, resor, lokasi berkemah, dan taman petualangan dengan perencanaan armada, kustomisasi produk, dan produksi batch untuk pengalaman aktivitas air lengkap.',
         },
         {
           title: 'Tingkatkan ROI Bisnis Sewa',
           description:
-            'Afarer membantu operator meningkatkan profitabilitas melalui umur produk lebih panjang yang mengurangi frekuensi penggantian, biaya pemeliharaan lebih rendah yang mengurangi waktu perbaikan, dan ketersediaan lebih tinggi yang meningkatkan kapasitas sewa harian dan kepuasan pelanggan.',
+            'OLagoon membantu operator meningkatkan profitabilitas melalui umur produk lebih panjang yang mengurangi frekuensi penggantian, biaya pemeliharaan lebih rendah yang mengurangi waktu perbaikan, dan ketersediaan lebih tinggi yang meningkatkan kapasitas sewa harian dan kepuasan pelanggan.',
         },
       ],
     },
@@ -2435,7 +2435,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Analisis Armada Sewa',
           detail:
-            'Afarer mengevaluasi frekuensi penggunaan, profil pelanggan, dan lingkungan operasional, lalu merekomendasikan konfigurasi SUP sewa komersial yang dioptimalkan untuk lingkungan pantai Mediterania.',
+            'OLagoon mengevaluasi frekuensi penggunaan, profil pelanggan, dan lingkungan operasional, lalu merekomendasikan konfigurasi SUP sewa komersial yang dioptimalkan untuk lingkungan pantai Mediterania.',
         },
         {
           title: 'Pengembangan Produk',
@@ -2471,19 +2471,19 @@ const id: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Pengujian Simulasi Penyimpanan Musim Dingin di Fasilitas Ruang Dingin Afarer',
+              title: 'Pengujian Simulasi Penyimpanan Musim Dingin di Fasilitas Ruang Dingin OLagoon',
               detail:
-                "Pada Januari 2024, Sarah mengirim 8 papan pesaing dan 6 prototipe Afarer ke fasilitas Xiamen Afarer untuk pengujian dingin ekstrem 4 minggu. Ruang uji bersiklus antara -35°C dan +25°C setiap hari (mensimulasikan beku-cair Maret Kanada). Papan disimpan dalam kondisi rak ter simulasi di bawah beban salju 200 kg. Material XHD-Plus Afarer — laminat 4 lapis dengan membran TPU dalam — menunjukkan nol keretakan mikro setelah 28 siklus, sementara 5 dari 8 papan pesaing mengalami retakan terlihat. Lapisan TPU mencegah masuknya kelembapan bahkan ketika permukaan papan tergores. Sarah juga meminta uji 'lipat-dingin': papan dilipat untuk transportasi pada -20°C; papan Afarer bertahan 500 lipatan tanpa kegagalan garis lipatan.",
+                "Pada Januari 2024, Sarah mengirim 8 papan pesaing dan 6 prototipe OLagoon ke fasilitas Xiamen OLagoon untuk pengujian dingin ekstrem 4 minggu. Ruang uji bersiklus antara -35°C dan +25°C setiap hari (mensimulasikan beku-cair Maret Kanada). Papan disimpan dalam kondisi rak ter simulasi di bawah beban salju 200 kg. Material XHD-Plus OLagoon — laminat 4 lapis dengan membran TPU dalam — menunjukkan nol keretakan mikro setelah 28 siklus, sementara 5 dari 8 papan pesaing mengalami retakan terlihat. Lapisan TPU mencegah masuknya kelembapan bahkan ketika permukaan papan tergores. Sarah juga meminta uji 'lipat-dingin': papan dilipat untuk transportasi pada -20°C; papan OLagoon bertahan 500 lipatan tanpa kegagalan garis lipatan.",
             },
             {
               title: "Paket 'Canadian Shield' Kustom dengan Selimut Penyimpanan Berinsulasi",
               detail:
-                "Berdasarkan hasil uji, Afarer mengembangkan spesifikasi 'Canadian Shield': konstruksi PVC/TPU 4 lapis, valve baja tahan karat berperingkat -40°C (valve kuningan standar mengeras oleh es), dan pegangan jinjing diperkuat berperingkat 2x berat papan untuk pengangkutan salju. Afarer merancang selimut penyimpanan berinsulasi berlapis fleece ('Winter Jacket') yang mempertahankan suhu internal 12°C di atas sekitar. Sarah menguji selimut itu pada Maret 2024 di Danau Muskoka: papan yang disimpan pada -22°C semalaman di dalam selimut berada pada -8°C di pagi hari dan dapat ditiup 3 menit lebih cepat. Afarer memproduksi 150 selimut sebagai bagian dari pesanan.",
+                "Berdasarkan hasil uji, OLagoon mengembangkan spesifikasi 'Canadian Shield': konstruksi PVC/TPU 4 lapis, valve baja tahan karat berperingkat -40°C (valve kuningan standar mengeras oleh es), dan pegangan jinjing diperkuat berperingkat 2x berat papan untuk pengangkutan salju. OLagoon merancang selimut penyimpanan berinsulasi berlapis fleece ('Winter Jacket') yang mempertahankan suhu internal 12°C di atas sekitar. Sarah menguji selimut itu pada Maret 2024 di Danau Muskoka: papan yang disimpan pada -22°C semalaman di dalam selimut berada pada -8°C di pagi hari dan dapat ditiup 3 menit lebih cepat. OLagoon memproduksi 150 selimut sebagai bagian dari pesanan.",
             },
             {
               title: 'Bootcamp Pra-Musim untuk Staf Resor di 3 Properti',
               detail:
-                "Pada Mei 2024, manajer layanan Amerika Utara Afarer Jake Patterson menghabiskan 5 hari melatih 28 staf di 3 resor. Protokol khusus Kanada mencakup: commissioning musim semi (daftar periksa inspeksi terperinci untuk kerusakan penyimpanan dingin), tiupan yang benar hingga 13-15 PSI (disesuaikan untuk air dingin — Danau Muskoka rata-rata 14°C pada Juni), prosedur winterisasi untuk papan yang disimpan di boathouse tak berpemanas, dan sistem WhatsApp 'laporan-kerusakan-dalam-15-menit'. Jake juga mengajari staf mengidentifikasi kerusakan kunyahan berang-berang Kanada yang umum (masalah nyata: 2 papan hilang karena berang-berang pada 2023) dan cara memperbaikinya dengan patch PVC heavy-duty.",
+                "Pada Mei 2024, manajer layanan Amerika Utara OLagoon Jake Patterson menghabiskan 5 hari melatih 28 staf di 3 resor. Protokol khusus Kanada mencakup: commissioning musim semi (daftar periksa inspeksi terperinci untuk kerusakan penyimpanan dingin), tiupan yang benar hingga 13-15 PSI (disesuaikan untuk air dingin — Danau Muskoka rata-rata 14°C pada Juni), prosedur winterisasi untuk papan yang disimpan di boathouse tak berpemanas, dan sistem WhatsApp 'laporan-kerusakan-dalam-15-menit'. Jake juga mengajari staf mengidentifikasi kerusakan kunyahan berang-berang Kanada yang umum (masalah nyata: 2 papan hilang karena berang-berang pada 2023) dan cara memperbaikinya dengan patch PVC heavy-duty.",
             },
             {
               title: 'Peluncuran Musim Panas 2024 dan Kinerja Musim Gugur',
@@ -2511,17 +2511,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Studi Stres Panas Juli 2023 di Playa de la Fontanilla Marbella',
               detail:
-                'Pada Juli 2023, pemimpin teknis Mediterania Afarer Pedro Sánchez menjalankan studi 3 minggu di pantai andalan Miguel. Mereka memasang instrumen pada 10 papan pesaing dan 5 prototipe Afarer dengan sensor tekanan Bluetooth yang mencatat setiap 5 menit. Hasil menunjukkan papan pesaing kehilangan 2,8-4,1 PSI selama 8 jam (mulai 15 PSI, turun ke 10,9-12,2 PSI pada jam 4 sore). Papan XHD-Thermal Afarer — menggunakan lapisan luar perak reflektif panas dan isian gas nitrogen — hanya kehilangan 0,7 PSI. Pedro menemukan masalah kuncinya: udara standar mengembang dalam panas, meningkatkan tekanan internal, yang memicu pelepasan valve keselamatan; isian nitrogen Afarer (molekul lebih besar, difusi lebih lambat) mengurangi efek ini. Suhu permukaan papan di pasir pada jam 3 sore mencapai 67°C — lapisan perak Afarer memantulkan 34% radiasi inframerah.',
+                'Pada Juli 2023, pemimpin teknis Mediterania OLagoon Pedro Sánchez menjalankan studi 3 minggu di pantai andalan Miguel. Mereka memasang instrumen pada 10 papan pesaing dan 5 prototipe OLagoon dengan sensor tekanan Bluetooth yang mencatat setiap 5 menit. Hasil menunjukkan papan pesaing kehilangan 2,8-4,1 PSI selama 8 jam (mulai 15 PSI, turun ke 10,9-12,2 PSI pada jam 4 sore). Papan XHD-Thermal OLagoon — menggunakan lapisan luar perak reflektif panas dan isian gas nitrogen — hanya kehilangan 0,7 PSI. Pedro menemukan masalah kuncinya: udara standar mengembang dalam panas, meningkatkan tekanan internal, yang memicu pelepasan valve keselamatan; isian nitrogen OLagoon (molekul lebih besar, difusi lebih lambat) mengurangi efek ini. Suhu permukaan papan di pasir pada jam 3 sore mencapai 67°C — lapisan perak OLagoon memantulkan 34% radiasi inframerah.',
             },
             {
               title: "'Edisi Costa del Sol' dengan Dek Pelepas Panas dan Jangkar Anti-Pencurian",
               detail:
-                "Afarer menciptakan spesifikasi kustom untuk Miguel: 'Costasol Edition 11.0' dengan dek gabus (tetap 8°C lebih dingin daripada busa EVA di bawah matahari puncak, diverifikasi dengan kamera termal), valve baja tahan karat tahan panas dengan O-ring silikon (vs. karet standar yang terdegradasi dalam 400+ jam matahari Spanyol), dan sistem sirip distabilkan-UV berperingkat 2.000 jam paparan UV. Miguel meminta fitur pencegah pencurian: Afarer mengintegrasikan loop kabel baja tahan karat ke hidung papan yang dapat dimasuki gembok kombinasi oleh staf — mengurangi pencurian papan dari 12/tahun menjadi 0. Setiap papan memiliki logo klub pantai Miguel yang di-heat-emboss (tanpa stiker yang mengelupas) dengan kode QR tertaut ke pelepasan tanggung jawab dan perjanjian sewa.",
+                "OLagoon menciptakan spesifikasi kustom untuk Miguel: 'Costasol Edition 11.0' dengan dek gabus (tetap 8°C lebih dingin daripada busa EVA di bawah matahari puncak, diverifikasi dengan kamera termal), valve baja tahan karat tahan panas dengan O-ring silikon (vs. karet standar yang terdegradasi dalam 400+ jam matahari Spanyol), dan sistem sirip distabilkan-UV berperingkat 2.000 jam paparan UV. Miguel meminta fitur pencegah pencurian: OLagoon mengintegrasikan loop kabel baja tahan karat ke hidung papan yang dapat dimasuki gembok kombinasi oleh staf — mengurangi pencurian papan dari 12/tahun menjadi 0. Setiap papan memiliki logo klub pantai Miguel yang di-heat-emboss (tanpa stiker yang mengelupas) dengan kode QR tertaut ke pelepasan tanggung jawab dan perjanjian sewa.",
             },
             {
               title: 'Logistik Sewa Volume Tinggi dan Pelatihan Tim',
               detail:
-                "Konsultan operasi Afarer Ana Martínez menghabiskan 2 minggu pada Februari 2024 mengoptimalkan alur kerja sewa Miguel. Model 'ambil-dan-pergi': 50 papan tetap ditiup setiap saat di rak bergulir kustom (dibangun oleh tim aksesori Afarer), mengurangi waktu checkout dari 8 menit menjadi 90 detik. Ana melatih 22 staf musiman tentang: pemeriksaan tiup 1 menit menggunakan pengukur terkalibrasi, pembersihan dek gabus yang benar (sabun ringan, tanpa mesin cuci bertekanan), protokol penambahan tekanan sore (pemeriksaan 30 detik pada jam 2 sore), dan pembilasan akhir hari dengan sistem semprot air tawar (dipasang oleh Afarer, €80/stasiun). Alur kerja baru memungkinkan 2 staf mengelola 200 papan alih-alih 5 staf untuk 85.",
+                "Konsultan operasi OLagoon Ana Martínez menghabiskan 2 minggu pada Februari 2024 mengoptimalkan alur kerja sewa Miguel. Model 'ambil-dan-pergi': 50 papan tetap ditiup setiap saat di rak bergulir kustom (dibangun oleh tim aksesori OLagoon), mengurangi waktu checkout dari 8 menit menjadi 90 detik. Ana melatih 22 staf musiman tentang: pemeriksaan tiup 1 menit menggunakan pengukur terkalibrasi, pembersihan dek gabus yang benar (sabun ringan, tanpa mesin cuci bertekanan), protokol penambahan tekanan sore (pemeriksaan 30 detik pada jam 2 sore), dan pembilasan akhir hari dengan sistem semprot air tawar (dipasang oleh OLagoon, €80/stasiun). Alur kerja baru memungkinkan 2 staf mengelola 200 papan alih-alih 5 staf untuk 85.",
             },
             {
               title: 'Musim Panas 2024: Juli Terpanas dalam Sejarah Spanyol',
@@ -2538,8 +2538,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Bisnis Sewa Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Bisnis Sewa Memilih OLagoon',
       items: [
         {
           title: 'Penggunaan Komersial',
@@ -2567,38 +2567,38 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Jenis papan SUP apa yang terbaik untuk bisnis sewa?',
         answer:
-          'Bisnis sewa membutuhkan papan SUP all-round tahan lama dan stabil dengan konstruksi diperkuat, bentuk ramah pemula, aksesori terstandarisasi, dan fitur perawatan mudah. Papan sewa Afarer dirancang khusus untuk menahan penggunaan sering oleh pelanggan dari semua tingkat keterampilan.',
+          'Bisnis sewa membutuhkan papan SUP all-round tahan lama dan stabil dengan konstruksi diperkuat, bentuk ramah pemula, aksesori terstandarisasi, dan fitur perawatan mudah. Papan sewa OLagoon dirancang khusus untuk menahan penggunaan sering oleh pelanggan dari semua tingkat keterampilan.',
       },
       {
         question: 'Bagaimana cara mengurangi biaya pemeliharaan armada SUP sewa saya?',
         answer:
-          'Afarer membantu mengurangi biaya pemeliharaan melalui konstruksi tahan lama yang tahan kerusakan, komponen terstandarisasi yang menyederhanakan perbaikan, suku cadang dapat diganti yang menghilangkan penggantian papan penuh, dan panduan pemeliharaan yang membantu tim Anda menangani perawatan dasar secara efisien.',
+          'OLagoon membantu mengurangi biaya pemeliharaan melalui konstruksi tahan lama yang tahan kerusakan, komponen terstandarisasi yang menyederhanakan perbaikan, suku cadang dapat diganti yang menghilangkan penggantian papan penuh, dan panduan pemeliharaan yang membantu tim Anda menangani perawatan dasar secara efisien.',
       },
       {
         question: 'Berapa jumlah pesanan minimum untuk armada SUP sewa?',
         answer:
-          'Afarer mendukung ukuran armada fleksibel dari operasi kecil yang dimulai dengan 50 papan hingga armada skala besar 500+ papan. Kami menyediakan solusi pembelian massal dengan kualitas konsisten di semua kuantitas pesanan.',
+          'OLagoon mendukung ukuran armada fleksibel dari operasi kecil yang dimulai dengan 50 papan hingga armada skala besar 500+ papan. Kami menyediakan solusi pembelian massal dengan kualitas konsisten di semua kuantitas pesanan.',
       },
       {
         question: 'Apakah Anda menawarkan harga massal untuk operator sewa?',
         answer:
-          'Ya, Afarer menawarkan harga massal kompetitif untuk operator sewa yang membeli armada 50, 100, 300, atau 500+ papan, dengan kualitas perlengkapan konsisten dan linimasa produksi efisien untuk pesanan besar.',
+          'Ya, OLagoon menawarkan harga massal kompetitif untuk operator sewa yang membeli armada 50, 100, 300, atau 500+ papan, dengan kualitas perlengkapan konsisten dan linimasa produksi efisien untuk pesanan besar.',
       },
       {
-        question: 'Bagaimana papan SUP Afarer menangani air laut dan lingkungan pantai?',
+        question: 'Bagaimana papan SUP OLagoon menangani air laut dan lingkungan pantai?',
         answer:
-          'Papan sewa Afarer menonjolkan material PVC tahan abrasi, konstruksi tahan UV, rail diperkuat untuk kontak pantai, dan perangkat keras tahan korosi yang menahan paparan air laut, abrasi pasir, dan kondisi penyimpanan luar ruangan.',
+          'Papan sewa OLagoon menonjolkan material PVC tahan abrasi, konstruksi tahan UV, rail diperkuat untuk kontak pantai, dan perangkat keras tahan korosi yang menahan paparan air laut, abrasi pasir, dan kondisi penyimpanan luar ruangan.',
       },
       {
         question: 'Bisakah saya memasang logo bisnis saya pada papan SUP sewa saya?',
         answer:
-          'Ya, Afarer mendukung kustomisasi penuh termasuk pencitraan logo, pencocokan warna, penomoran papan, dan label model yang mengubah perlengkapan sewa Anda menjadi alat pemasaran yang terlihat di seluruh lokasi pantai atau resor Anda.',
+          'Ya, OLagoon mendukung kustomisasi penuh termasuk pencitraan logo, pencocokan warna, penomoran papan, dan label model yang mengubah perlengkapan sewa Anda menjadi alat pemasaran yang terlihat di seluruh lokasi pantai atau resor Anda.',
       },
     ],
     cta: {
-      title: 'Bangun Armada Sewa SUP Tahan Lama Anda Bersama Afarer',
+      title: 'Bangun Armada Sewa SUP Tahan Lama Anda Bersama OLagoon',
       subtitle:
-        'Peralatan Anda menentukan profitabilitas bisnis Anda. Pilih produk SUP yang dirancang untuk bekerja lebih keras dan bertahan lebih lama. Afarer membantu operator sewa membangun armada SUP pantai, perlengkapan aktivitas air resor, dan sistem petualangan wisata dengan dukungan manufaktur OEM yang andal.',
+        'Peralatan Anda menentukan profitabilitas bisnis Anda. Pilih produk SUP yang dirancang untuk bekerja lebih keras dan bertahan lebih lama. OLagoon membantu operator sewa membangun armada SUP pantai, perlengkapan aktivitas air resor, dan sistem petualangan wisata dengan dukungan manufaktur OEM yang andal.',
       primaryAction: {
         text: 'Mulai Proyek Armada Sewa Anda Hari Ini',
       },
@@ -2618,9 +2618,9 @@ const id: Record<string, SolutionOverride> = {
       tagline: 'Paket Aktivitas Air Resor™',
       title: 'Solusi SUP & Olahraga Air Premium Untuk Hotel Mewah, Resor & Merek Perhotelan',
       subtitle:
-        'Afarer menyediakan Paket Aktivitas Air Resor lengkap yang dirancang khusus untuk bisnis perhotelan. Kami membantu resor mewah, hotel pantai, destinasi pulau, resor ekologis, dan retret kebugaran menciptakan pengalaman air bermerek melalui armada SUP kustom, sistem penyimpanan, dan pelatihan staf.',
+        'OLagoon menyediakan Paket Aktivitas Air Resor lengkap yang dirancang khusus untuk bisnis perhotelan. Kami membantu resor mewah, hotel pantai, destinasi pulau, resor ekologis, dan retret kebugaran menciptakan pengalaman air bermerek melalui armada SUP kustom, sistem penyimpanan, dan pelatihan staf.',
       image: {
-        alt: 'Paket aktivitas air resor Afarer dengan papan SUP bermerek kustom',
+        alt: 'Paket aktivitas air resor OLagoon dengan papan SUP bermerek kustom',
       },
     },
     challenge: {
@@ -2654,7 +2654,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengembangan Armada SUP Resor Kustom',
           description:
-            'Afarer membantu resor mengembangkan armada perlengkapan khusus berdasarkan lokasi, profil tamu, lingkungan air, dan program aktivitas. Paket berkisar dari konfigurasi resor keluarga dengan papan all-round stabil hingga paket pulau mewah dengan desain premium dan paket retret kebugaran dengan papan SUP yoga lebar.',
+            'OLagoon membantu resor mengembangkan armada perlengkapan khusus berdasarkan lokasi, profil tamu, lingkungan air, dan program aktivitas. Paket berkisar dari konfigurasi resor keluarga dengan papan all-round stabil hingga paket pulau mewah dengan desain premium dan paket retret kebugaran dengan papan SUP yoga lebar.',
           features: [
             'Paket resor keluarga',
             'Paket resor pulau mewah',
@@ -2665,33 +2665,33 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kustomisasi Pencitraan Merek Resor',
           description:
-            'Perlengkapan air Anda menjadi bagian dari perjalanan tamu. Afarer mendukung integrasi logo kustom, desain warna kustom yang cocok dengan arsitektur resor dan warna merek, serta kemasan premium dengan aksesori bermerek dan materi instruksi tamu.',
+            'Perlengkapan air Anda menjadi bagian dari perjalanan tamu. OLagoon mendukung integrasi logo kustom, desain warna kustom yang cocok dengan arsitektur resor dan warna merek, serta kemasan premium dengan aksesori bermerek dan materi instruksi tamu.',
           features: ['Pencetakan logo kustom', 'Desain warna sesuai merek', 'Kemasan premium', 'Materi instruksi tamu'],
         },
         {
           title: 'Sistem Penyimpanan & Manajemen Perlengkapan Resor',
           description:
-            'Afarer membantu resor merencanakan penyimpanan perlengkapan dengan rak SUP, sistem pengorganisasian, dan solusi perlindungan cuaca dengan mempertimbangkan paparan matahari, kelembapan, dan lingkungan pesisir. Staf dapat mengelola penyiapan perlengkapan harian, check-out tamu, dan inspeksi pemeliharaan secara efisien.',
+            'OLagoon membantu resor merencanakan penyimpanan perlengkapan dengan rak SUP, sistem pengorganisasian, dan solusi perlindungan cuaca dengan mempertimbangkan paparan matahari, kelembapan, dan lingkungan pesisir. Staf dapat mengelola penyiapan perlengkapan harian, check-out tamu, dan inspeksi pemeliharaan secara efisien.',
         },
         {
           title: 'Dukungan Pelatihan Keselamatan & Operasi Staf',
           description:
-            'Afarer menyediakan panduan operasional termasuk prosedur penanganan perlengkapan, instruksi tiupan, metode pembersihan, panduan penyimpanan, prosedur keselamatan tamu, dan daftar periksa operasi harian yang mencakup inspeksi sebelum penggunaan dan pembersihan setelah penggunaan.',
+            'OLagoon menyediakan panduan operasional termasuk prosedur penanganan perlengkapan, instruksi tiupan, metode pembersihan, panduan penyimpanan, prosedur keselamatan tamu, dan daftar periksa operasi harian yang mencakup inspeksi sebelum penggunaan dan pembersihan setelah penggunaan.',
         },
         {
           title: 'Paket Aktivitas Air Resor Lengkap',
           description:
-            'Paket contoh termasuk papan SUP bermerek kustom, dayung dapat disesuaikan, pompa, tali keselamatan, rak penyimpanan, kit perbaikan, dan panduan operasi staf. Afarer juga dapat mendukung perluasan ke produk kebugaran air dan perlengkapan air keluarga.',
+            'Paket contoh termasuk papan SUP bermerek kustom, dayung dapat disesuaikan, pompa, tali keselamatan, rak penyimpanan, kit perbaikan, dan panduan operasi staf. OLagoon juga dapat mendukung perluasan ke produk kebugaran air dan perlengkapan air keluarga.',
         },
         {
           title: 'Perlengkapan Komersial Perawatan-Rendah',
           description:
-            'Perlengkapan resor harus menyeimbangkan pengalaman tamu, daya tahan, dan efisiensi pemeliharaan. Afarer berfokus pada konstruksi tahan lama dengan PVC diperkuat dan komponen kelas komersial, perawatan mudah dengan aksesori standar, dan nilai jangka panjang yang mengurangi frekuensi penggantian.',
+            'Perlengkapan resor harus menyeimbangkan pengalaman tamu, daya tahan, dan efisiensi pemeliharaan. OLagoon berfokus pada konstruksi tahan lama dengan PVC diperkuat dan komponen kelas komersial, perawatan mudah dengan aksesori standar, dan nilai jangka panjang yang mengurangi frekuensi penggantian.',
         },
         {
           title: 'Dukungan Desain Pengalaman Resor',
           description:
-            'Afarer membantu mengubah perlengkapan menjadi aktivitas tamu khas termasuk pengalaman SUP matahari terbenam untuk pasangan, petualangan laut keluarga, program kebugaran mengapung untuk retret yoga, dan aktivitas eksplorasi ekologis untuk resor alam dan destinasi laut.',
+            'OLagoon membantu mengubah perlengkapan menjadi aktivitas tamu khas termasuk pengalaman SUP matahari terbenam untuk pasangan, petualangan laut keluarga, program kebugaran mengapung untuk retret yoga, dan aktivitas eksplorasi ekologis untuk resor alam dan destinasi laut.',
         },
       ],
     },
@@ -2707,7 +2707,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perencanaan Aktivitas Resor',
           detail:
-            'Afarer menganalisis demografi tamu, kondisi pantai, dan tujuan aktivitas, lalu merekomendasikan Armada SUP Resor kustom yang disesuaikan dengan posisi mewah resor dan ekspektasi tamu.',
+            'OLagoon menganalisis demografi tamu, kondisi pantai, dan tujuan aktivitas, lalu merekomendasikan Armada SUP Resor kustom yang disesuaikan dengan posisi mewah resor dan ekspektasi tamu.',
         },
         {
           title: 'Kustomisasi Produk',
@@ -2738,29 +2738,29 @@ const id: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Meksiko',
             background:
-              "Ana Sofía Villanueva, 36 tahun, adalah Direktur Pengalaman Tamu di 'Casa del Pacífico', eco-resor mewah 62-suite di pesisir Pasifik Punta Mita (tarif kamar $1.800-$8.000/malam). Area resor seluas 12 hektar mencakup 3 pantai privat, 2 kolam laguna, dan muara bakau yang mengarah ke cenote tersembunyi. Pada 2023, survei tamu menunjukkan 'pengalaman air unik' sebagai permintaan yang belum terpenuhi #1 (78% tamu menginginkannya). Ana menghubungi Afarer setelah resor pesaing di Tulum meluncurkan program SUP — ia membutuhkan sesuatu yang lebih eksklusif. Tantangannya: satu paket yang berfungsi di ombak samudra, bakau tenang, dan cenote air tawar dengan tingkat cahaya, arus, dan kepekaan ekologis yang berubah-ubah.",
+              "Ana Sofía Villanueva, 36 tahun, adalah Direktur Pengalaman Tamu di 'Casa del Pacífico', eco-resor mewah 62-suite di pesisir Pasifik Punta Mita (tarif kamar $1.800-$8.000/malam). Area resor seluas 12 hektar mencakup 3 pantai privat, 2 kolam laguna, dan muara bakau yang mengarah ke cenote tersembunyi. Pada 2023, survei tamu menunjukkan 'pengalaman air unik' sebagai permintaan yang belum terpenuhi #1 (78% tamu menginginkannya). Ana menghubungi OLagoon setelah resor pesaing di Tulum meluncurkan program SUP — ia membutuhkan sesuatu yang lebih eksklusif. Tantangannya: satu paket yang berfungsi di ombak samudra, bakau tenang, dan cenote air tawar dengan tingkat cahaya, arus, dan kepekaan ekologis yang berubah-ubah.",
             goal: "Mengembangkan paket 'Pengalaman SUP Cenote-ke-Samudra Khas' (tur berpemandu 3 jam, fotografi profesional, dan menu degustasi Meksiko) seharga $450/orang dengan margin laba minimum 40% dan peringkat kepuasan tamu 4,8+.",
           },
           steps: [
             {
               title: 'Survei Lokasi Maret 2024 dan Penilaian Dampak Lingkungan',
               detail:
-                'Direktur bisnis Amerika Latin Afarer Felipe Ortíz dan biolog laut Dr. Camila Reyes menghabiskan 10 hari memetakan perairan Casa del Pacífico. Mereka mengidentifikasi 4 lingkungan SUP berbeda: peluncuran pantai Pasifik (pecahan ombak konsisten 2-3 kaki), terowongan bakau (kanal sempit 2 meter dengan akar menjuntai), cenote tersembunyi (air tawar sedalam 18 meter, suhu konstan 24°C, lapisan mikroba rapuh di dinding), dan kolam laguna (untuk tamu pemula). Dr. Reyes melakukan pengambilan sampel sedimen dan survei burung bersarang untuk menentukan daya dukung: maksimum 8 tamu per tur, peluncuran pukul 07.30 sebelum jam makan burung laut. Penilaian menyimpulkan bahwa papan SUP standar dengan pigmen zinc-phosphate akan larut ke cenote — Afarer beralih ke pigmen berbasis keramik.',
+                'Direktur bisnis Amerika Latin OLagoon Felipe Ortíz dan biolog laut Dr. Camila Reyes menghabiskan 10 hari memetakan perairan Casa del Pacífico. Mereka mengidentifikasi 4 lingkungan SUP berbeda: peluncuran pantai Pasifik (pecahan ombak konsisten 2-3 kaki), terowongan bakau (kanal sempit 2 meter dengan akar menjuntai), cenote tersembunyi (air tawar sedalam 18 meter, suhu konstan 24°C, lapisan mikroba rapuh di dinding), dan kolam laguna (untuk tamu pemula). Dr. Reyes melakukan pengambilan sampel sedimen dan survei burung bersarang untuk menentukan daya dukung: maksimum 8 tamu per tur, peluncuran pukul 07.30 sebelum jam makan burung laut. Penilaian menyimpulkan bahwa papan SUP standar dengan pigmen zinc-phosphate akan larut ke cenote — OLagoon beralih ke pigmen berbasis keramik.',
             },
             {
               title: "Papan 'Explora México' Kustom dengan Sistem Fotografi Terintegrasi",
               detail:
-                "Afarer merancang 'Explora México 10.8' dengan konstruksi 4 lapis, bagian bawah antifouling ramah terumbu (lapisan silikon tanpa biokida, diuji 200 jam di air Pasifik 28°C), dan dek matte zaitun anti-silau. Ana meminta fotografi profesional sebagai bagian dari pengalaman — Afarer mengintegrasikan landasan peluncuran drone tahan air ke hidung papan (platform karbon fiber 25x25 cm yang diperkuat dengan lapisan anti-slip, diuji menahan DJI Mini 4 Pro saat peluncuran/pemulihan manual). Setiap papan juga memiliki titik pemasangan untuk tiang kamera bawah air. Papan diproduksi dalam pencitraan 'Casa del Pacífico' terbatas dengan pola geometris terinspirasi Maya — diemboss, bukan dicat, untuk menghindari limpasan beracun.",
+                "OLagoon merancang 'Explora México 10.8' dengan konstruksi 4 lapis, bagian bawah antifouling ramah terumbu (lapisan silikon tanpa biokida, diuji 200 jam di air Pasifik 28°C), dan dek matte zaitun anti-silau. Ana meminta fotografi profesional sebagai bagian dari pengalaman — OLagoon mengintegrasikan landasan peluncuran drone tahan air ke hidung papan (platform karbon fiber 25x25 cm yang diperkuat dengan lapisan anti-slip, diuji menahan DJI Mini 4 Pro saat peluncuran/pemulihan manual). Setiap papan juga memiliki titik pemasangan untuk tiang kamera bawah air. Papan diproduksi dalam pencitraan 'Casa del Pacífico' terbatas dengan pola geometris terinspirasi Maya — diemboss, bukan dicat, untuk menghindari limpasan beracun.",
             },
             {
               title: 'Program Sertifikasi Pemandu dan Integrasi Logistik',
               detail:
-                "Pada Mei 2024, pelatih pemandu senior Afarer Diego Castillo menjalankan program intensif 2 minggu mensertifikasi 8 pemandu aktivitas Casa del Pacífico. Kurikulum mencakup: teknik peluncuran/pemulihan zona ombak untuk pecahan pantai Pasifik, navigasi bakau dengan pasang-surut (pemandu harus mengetahui jendela pasang 3 jam untuk menghindari terdampar lumpur surut), etiket cenote (tanpa tabir surya, tanpa menyentuh dinding — Dr. Reyes kembali untuk sesi kepekaan setengah hari), protokol darurat (termasuk pertemuan puma — bakau itu menjadi rumah seekor jantan), dan pemanduan dwibahasa Spanyol/Inggris. Afarer juga mengintegrasikan persediaan SUP ke sistem Oracle Opera PMS resor sehingga reservasi SUP muncul otomatis di folio tamu. Alur kerja fotografi: pemandu menggunakan GoPro Hero12 Black dengan profil warna 'Cenote' preset, foto ditransfer ke tamu melalui kartu NFC dalam 30 menit.",
+                "Pada Mei 2024, pelatih pemandu senior OLagoon Diego Castillo menjalankan program intensif 2 minggu mensertifikasi 8 pemandu aktivitas Casa del Pacífico. Kurikulum mencakup: teknik peluncuran/pemulihan zona ombak untuk pecahan pantai Pasifik, navigasi bakau dengan pasang-surut (pemandu harus mengetahui jendela pasang 3 jam untuk menghindari terdampar lumpur surut), etiket cenote (tanpa tabir surya, tanpa menyentuh dinding — Dr. Reyes kembali untuk sesi kepekaan setengah hari), protokol darurat (termasuk pertemuan puma — bakau itu menjadi rumah seekor jantan), dan pemanduan dwibahasa Spanyol/Inggris. OLagoon juga mengintegrasikan persediaan SUP ke sistem Oracle Opera PMS resor sehingga reservasi SUP muncul otomatis di folio tamu. Alur kerja fotografi: pemandu menggunakan GoPro Hero12 Black dengan profil warna 'Cenote' preset, foto ditransfer ke tamu melalui kartu NFC dalam 30 menit.",
             },
             {
               title: 'Peluncuran Musim Puncak November 2024 dan Liputan Media',
               detail:
-                "Pengalaman 'Cenote-to-Ocean' diluncurkan 15 November 2024 (awal musim puncak Punta Mita). 30 hari pertama: 112 tur terjual seharga $450/orang = pendapatan $50.400. Seorang jurnalis Condé Nast Traveler adalah tamu #47; artikelnya 'Eco-Thrill Terbaru Meksiko: Mendayung Cenote ke Pasifik' yang terbit Januari 2025 mendorong 800+ pemesanan hingga Maret. Kepuasan tamu rata-rata 4,94/5 dari 340 tur. Resor menambahkan add-on 'Golden Hour' $150 (sesi matahari terbenam dengan pilot drone profesional, sampanye, dan tiram) — 94% tamu membelinya. Pada April 2025, program menghasilkan pendapatan langsung $1,12 juta dengan margin laba 52%. Casa del Pacífico memesan 20 papan tambahan untuk 2026 dan mengontrak Afarer untuk mengembangkan paket 'SUP Melihat Paus' (migrasi paus bungkuk Desember-Maret).",
+                "Pengalaman 'Cenote-to-Ocean' diluncurkan 15 November 2024 (awal musim puncak Punta Mita). 30 hari pertama: 112 tur terjual seharga $450/orang = pendapatan $50.400. Seorang jurnalis Condé Nast Traveler adalah tamu #47; artikelnya 'Eco-Thrill Terbaru Meksiko: Mendayung Cenote ke Pasifik' yang terbit Januari 2025 mendorong 800+ pemesanan hingga Maret. Kepuasan tamu rata-rata 4,94/5 dari 340 tur. Resor menambahkan add-on 'Golden Hour' $150 (sesi matahari terbenam dengan pilot drone profesional, sampanye, dan tiram) — 94% tamu membelinya. Pada April 2025, program menghasilkan pendapatan langsung $1,12 juta dengan margin laba 52%. Casa del Pacífico memesan 20 papan tambahan untuk 2026 dan mengontrak OLagoon untuk mengembangkan paket 'SUP Melihat Paus' (migrasi paus bungkuk Desember-Maret).",
             },
           ],
           results: [
@@ -2775,19 +2775,19 @@ const id: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Thailand',
             background:
-              "Pimchanok 'Mint' Suwannarat, 32 tahun, adalah Direktur Pengalaman untuk 'Veranda Samui', resor 5 bintang dengan pemandangan Chaweng Noi Beach dengan 98 vila dan rata-rata menginap 6,4 malam. Mint melihat bahwa 73% tamu memesan setidaknya satu 'ekskursi pulau' (biasanya tur speedboat ke Taman Laut Ang Thong seharga 3.500 THB/orang) tetapi survei pasca-menginap mengeluh tentang 'tur yang terlalu padat' dan 'terlalu banyak pemberhentian, kurang mendayung'. Ia membayangkan ekspedisi SUP berhari-hari di mana tamu mendayung antara Koh Samui dan pulau-pulau terdekat, menginap di eco-lodge dan kamp pantai. Tidak ada resor di Thailand yang menawarkan ini. Ia membutuhkan Afarer untuk merancang perlengkapan kelas ekspedisi yang dapat mendukung perjalanan mandiri berhari-hari dengan perlengkapan berkemah dan persediaan sesuai standar kemewahan Barat.",
+              "Pimchanok 'Mint' Suwannarat, 32 tahun, adalah Direktur Pengalaman untuk 'Veranda Samui', resor 5 bintang dengan pemandangan Chaweng Noi Beach dengan 98 vila dan rata-rata menginap 6,4 malam. Mint melihat bahwa 73% tamu memesan setidaknya satu 'ekskursi pulau' (biasanya tur speedboat ke Taman Laut Ang Thong seharga 3.500 THB/orang) tetapi survei pasca-menginap mengeluh tentang 'tur yang terlalu padat' dan 'terlalu banyak pemberhentian, kurang mendayung'. Ia membayangkan ekspedisi SUP berhari-hari di mana tamu mendayung antara Koh Samui dan pulau-pulau terdekat, menginap di eco-lodge dan kamp pantai. Tidak ada resor di Thailand yang menawarkan ini. Ia membutuhkan OLagoon untuk merancang perlengkapan kelas ekspedisi yang dapat mendukung perjalanan mandiri berhari-hari dengan perlengkapan berkemah dan persediaan sesuai standar kemewahan Barat.",
             goal: "Meluncurkan 'The Samui Archipelago Paddle' — ekspedisi SUP berpemandu 5 hari 4 malam yang mencakup 4 pulau (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → kembali) seharga 89.000 THB ($2.500 USD)/orang, minimum 12 keberangkatan per tahun dengan okupansi 100%.",
           },
           steps: [
             {
               title: 'Pemetaan Rute dan Survei Logistik di Seluruh Kepulauan Samui',
               detail:
-                'Pada Oktober 2023, spesialis ekspedisi Asia-Pasifik Afarer Tomo Kato dan ekolog laut Thailand Dr. Narong Chaiyasit menghabiskan 14 hari berkayak dan mendukung dengan perahu motor pada rute yang diusulkan. Mereka mengidentifikasi 7 faktor kritis: pola angin monsun (Monsun Timur Laut November-Januari membuat penyeberangan Koh Samui-Koh Phangan berbahaya; Februari-Oktober aman), lokasi berkemah di Koh Tao (hanya 2 titik tepi pantai dengan izin tenda — masing-masing terbatas 10 orang), pasokan ulang air tawar (tidak ada di Koh Nang Yuan — tamu membawa 4L per orang per hari), dan koridor navigasi terumbu (terumbu di Shark Bay Koh Tao membutuhkan papan dengan jarak beban 40+ cm pada surut). Rute akhir 68 km selama 5 hari dengan jarak dayungan harian 8-18 km. Tomo menguji 14 jenis jangkar untuk berkemah pantai (gaya Danforth paling kuat di dasar berpasir Samui).',
+                'Pada Oktober 2023, spesialis ekspedisi Asia-Pasifik OLagoon Tomo Kato dan ekolog laut Thailand Dr. Narong Chaiyasit menghabiskan 14 hari berkayak dan mendukung dengan perahu motor pada rute yang diusulkan. Mereka mengidentifikasi 7 faktor kritis: pola angin monsun (Monsun Timur Laut November-Januari membuat penyeberangan Koh Samui-Koh Phangan berbahaya; Februari-Oktober aman), lokasi berkemah di Koh Tao (hanya 2 titik tepi pantai dengan izin tenda — masing-masing terbatas 10 orang), pasokan ulang air tawar (tidak ada di Koh Nang Yuan — tamu membawa 4L per orang per hari), dan koridor navigasi terumbu (terumbu di Shark Bay Koh Tao membutuhkan papan dengan jarak beban 40+ cm pada surut). Rute akhir 68 km selama 5 hari dengan jarak dayungan harian 8-18 km. Tomo menguji 14 jenis jangkar untuk berkemah pantai (gaya Danforth paling kuat di dasar berpasir Samui).',
             },
             {
               title: "'Papan Archipelago Expedition' dengan Fitur Bertahan Hidup dan Kenyamanan",
               detail:
-                "Afarer merancang 'Veranda Explorer 13.0' dengan volume 400L — cukup untuk membawa 35 kg perlengkapan berkemah ditambah 20 kg barang pribadi tamu. Fitur termasuk: palka kargo haluan tahan air dengan segelan tutup-ulir (diuji pada perendaman 1 meter selama 30 menit), 6 titik pemasangan daisy-chain untuk tas kering, sistem bungee dek dengan quick-release untuk akses kamera, dan skeg kemudi lepas-pasang untuk pelacakan samudra (etape Koh Phangan-Koh Tao memiliki arus silang 2 knot). Mint bersikeras pada kenyamanan: setiap papan memiliki sandaran punggung tiup ('LoungePak') dengan pemegang gelas, dan kanopi 'ShadowDeck' eksklusif (tiang karbon fiber bertegangan dengan kain UPF 50+, diuji dalam panas 35°C). Afarer memproduksi 24 papan: 12 untuk tamu, 6 untuk pemandu, 6 cadangan.",
+                "OLagoon merancang 'Veranda Explorer 13.0' dengan volume 400L — cukup untuk membawa 35 kg perlengkapan berkemah ditambah 20 kg barang pribadi tamu. Fitur termasuk: palka kargo haluan tahan air dengan segelan tutup-ulir (diuji pada perendaman 1 meter selama 30 menit), 6 titik pemasangan daisy-chain untuk tas kering, sistem bungee dek dengan quick-release untuk akses kamera, dan skeg kemudi lepas-pasang untuk pelacakan samudra (etape Koh Phangan-Koh Tao memiliki arus silang 2 knot). Mint bersikeras pada kenyamanan: setiap papan memiliki sandaran punggung tiup ('LoungePak') dengan pemegang gelas, dan kanopi 'ShadowDeck' eksklusif (tiang karbon fiber bertegangan dengan kain UPF 50+, diuji dalam panas 35°C). OLagoon memproduksi 24 papan: 12 untuk tamu, 6 untuk pemandu, 6 cadangan.",
             },
             {
               title: 'Rekrutmen Tim Pemandu dan Sertifikasi Keselamatan',
@@ -2797,7 +2797,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Ekspedisi Perdana Januari 2025 dan Alur Pemesanan 12 Bulan',
               detail:
-                "Pelayaran perdana berangkat 15 Januari 2025 dengan 6 tamu (3 pasangan, semua Australia, berusia 34-52 tahun). Tim Mint memfilmkan ekspedisi untuk konten. Penyeberangan hari ke-2 ke Koh Phangan menghadapi badai tak terduga (angin 30 knot selama 45 menit) — papan Afarer menghadapinya tanpa ada yang terbalik; protokol pemandu mengerahkan formasi 'rakit keselamatan' (papan diikat bersama dalam pola bintang). Pada Maret 2025, 11 dari 12 keberangkatan terjadwal 2025 telah penuh dipesan (daftar tunggu 40 tamu). Proyeksi pendapatan 2025: 12 × 6 tamu × 89.000 THB = 6,41 juta THB ($178.000 USD). CEO Veranda menyetujui pembangunan 'Expedition Pavilion' khusus di tepi pantai untuk briefing pra-keberangkatan. Mint kini mengembangkan rute 'Family Explorer' 3 hari (jarak lebih pendek, berkemah berbasis resor) untuk 2026.",
+                "Pelayaran perdana berangkat 15 Januari 2025 dengan 6 tamu (3 pasangan, semua Australia, berusia 34-52 tahun). Tim Mint memfilmkan ekspedisi untuk konten. Penyeberangan hari ke-2 ke Koh Phangan menghadapi badai tak terduga (angin 30 knot selama 45 menit) — papan OLagoon menghadapinya tanpa ada yang terbalik; protokol pemandu mengerahkan formasi 'rakit keselamatan' (papan diikat bersama dalam pola bintang). Pada Maret 2025, 11 dari 12 keberangkatan terjadwal 2025 telah penuh dipesan (daftar tunggu 40 tamu). Proyeksi pendapatan 2025: 12 × 6 tamu × 89.000 THB = 6,41 juta THB ($178.000 USD). CEO Veranda menyetujui pembangunan 'Expedition Pavilion' khusus di tepi pantai untuk briefing pra-keberangkatan. Mint kini mengembangkan rute 'Family Explorer' 3 hari (jarak lebih pendek, berkemah berbasis resor) untuk 2026.",
             },
           ],
           results: [
@@ -2809,8 +2809,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Resor Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Resor Memilih OLagoon',
       items: [
         {
           title: 'Pengalaman Tamu',
@@ -2838,38 +2838,38 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Papan SUP apa yang terbaik untuk aktivitas air resor?',
         answer:
-          'Resor membutuhkan papan SUP stabil dan ramah pemula yang cocok untuk tamu dari semua tingkat keterampilan. Afarer menawarkan paket resor keluarga dengan papan all-round, paket pulau mewah dengan desain premium, dan paket retret kebugaran dengan papan yoga lebar, semuanya dapat dikustomisasi dengan pencitraan resor.',
+          'Resor membutuhkan papan SUP stabil dan ramah pemula yang cocok untuk tamu dari semua tingkat keterampilan. OLagoon menawarkan paket resor keluarga dengan papan all-round, paket pulau mewah dengan desain premium, dan paket retret kebugaran dengan papan yoga lebar, semuanya dapat dikustomisasi dengan pencitraan resor.',
       },
       {
-        question: 'Bisakah Afarer mengkustomisasi papan SUP dengan logo dan warna merek resor saya?',
+        question: 'Bisakah OLagoon mengkustomisasi papan SUP dengan logo dan warna merek resor saya?',
         answer:
-          'Ya, Afarer menyediakan kustomisasi penuh termasuk integrasi logo, desain warna yang cocok dengan arsitektur dan identitas merek resor Anda, serta kemasan premium dengan aksesori bermerek dan materi instruksi tamu.',
+          'Ya, OLagoon menyediakan kustomisasi penuh termasuk integrasi logo, desain warna yang cocok dengan arsitektur dan identitas merek resor Anda, serta kemasan premium dengan aksesori bermerek dan materi instruksi tamu.',
       },
       {
         question: 'Apakah Anda menyediakan solusi penyimpanan untuk perlengkapan SUP resor?',
         answer:
-          'Ya, Afarer membantu merencanakan penyimpanan perlengkapan dengan rak SUP, sistem pengorganisasian, dan solusi perlindungan cuaca dengan mempertimbangkan paparan matahari, kelembapan, dan lingkungan pesisir untuk melindungi investasi Anda dan menjaga tampilan resor.',
+          'Ya, OLagoon membantu merencanakan penyimpanan perlengkapan dengan rak SUP, sistem pengorganisasian, dan solusi perlindungan cuaca dengan mempertimbangkan paparan matahari, kelembapan, dan lingkungan pesisir untuk melindungi investasi Anda dan menjaga tampilan resor.',
       },
       {
         question: 'Pelatihan apa yang dibutuhkan staf resor untuk mengoperasikan program SUP?',
         answer:
-          'Afarer menyediakan panduan operasional termasuk prosedur penanganan perlengkapan, instruksi tiupan, metode pembersihan, panduan penyimpanan, prosedur keselamatan tamu, dan daftar periksa operasi harian sehingga setiap anggota staf dapat mengelola program secara profesional.',
+          'OLagoon menyediakan panduan operasional termasuk prosedur penanganan perlengkapan, instruksi tiupan, metode pembersihan, panduan penyimpanan, prosedur keselamatan tamu, dan daftar periksa operasi harian sehingga setiap anggota staf dapat mengelola program secara profesional.',
       },
       {
-        question: 'Seberapa tahan lama papan SUP Afarer untuk penggunaan resor harian?',
+        question: 'Seberapa tahan lama papan SUP OLagoon untuk penggunaan resor harian?',
         answer:
-          'Papan SUP resor Afarer menonjolkan konstruksi PVC diperkuat, komponen kelas komersial, dan struktur drop stitch tahan lama yang dirancang untuk menahan penggunaan harian oleh tamu sambil mempertahankan tampilan dan kinerja premium.',
+          'Papan SUP resor OLagoon menonjolkan konstruksi PVC diperkuat, komponen kelas komersial, dan struktur drop stitch tahan lama yang dirancang untuk menahan penggunaan harian oleh tamu sambil mempertahankan tampilan dan kinerja premium.',
       },
       {
         question: 'Bisakah kami menawarkan SUP bersama aktivitas air lainnya?',
         answer:
-          'Ya, Afarer dapat mendukung perluasan ke produk kebugaran air, perlengkapan air keluarga, dan produk rekreasi luar ruangan lainnya untuk menciptakan portofolio aktivitas air resor lengkap.',
+          'Ya, OLagoon dapat mendukung perluasan ke produk kebugaran air, perlengkapan air keluarga, dan produk rekreasi luar ruangan lainnya untuk menciptakan portofolio aktivitas air resor lengkap.',
       },
     ],
     cta: {
-      title: 'Ciptakan Pengalaman Air Resor Anda Bersama Afarer',
+      title: 'Ciptakan Pengalaman Air Resor Anda Bersama OLagoon',
       subtitle:
-        'Destinasi Anda sudah memiliki samudra. Sekarang ciptakan momen tak terlupakan di atasnya. Afarer membantu hotel mewah, resor pulau, dan destinasi kebugaran membangun armada SUP kustom, aktivitas air bermerek, dan solusi perlengkapan resor lengkap.',
+        'Destinasi Anda sudah memiliki samudra. Sekarang ciptakan momen tak terlupakan di atasnya. OLagoon membantu hotel mewah, resor pulau, dan destinasi kebugaran membangun armada SUP kustom, aktivitas air bermerek, dan solusi perlengkapan resor lengkap.',
       primaryAction: {
         text: 'Mulai Proyek Aktivitas Air Resor Anda Hari Ini',
       },
@@ -2890,9 +2890,9 @@ const id: Record<string, SolutionOverride> = {
       title:
         'Solusi Perlengkapan SUP Profesional Untuk Sekolah Olahraga Air, Program Pemuda & Organisasi Pendidikan Luar Ruangan',
       subtitle:
-        'Afarer menyediakan Program Perlengkapan Akademi SUP, solusi perlengkapan lengkap yang dikembangkan untuk lingkungan pengajaran profesional. Kami membantu sekolah SUP, pusat pelatihan pemuda, kamp musim panas, dan perusahaan pendidikan luar ruangan membangun armada pelatihan yang andal dengan papan ramah pemula, model anak, dan perlengkapan instruktur.',
+        'OLagoon menyediakan Program Perlengkapan Akademi SUP, solusi perlengkapan lengkap yang dikembangkan untuk lingkungan pengajaran profesional. Kami membantu sekolah SUP, pusat pelatihan pemuda, kamp musim panas, dan perusahaan pendidikan luar ruangan membangun armada pelatihan yang andal dengan papan ramah pemula, model anak, dan perlengkapan instruktur.',
       image: {
-        alt: 'Perlengkapan akademi SUP Afarer untuk sekolah pelatihan dan program pemuda',
+        alt: 'Perlengkapan akademi SUP OLagoon untuk sekolah pelatihan dan program pemuda',
       },
     },
     challenge: {
@@ -2926,7 +2926,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Papan SUP Latihan Pemula',
           description:
-            'Afarer mengembangkan papan SUP stabil khusus untuk lingkungan pembelajaran dengan desain platform stabil-tinggi untuk keseimbangan lebih mudah, konstruksi daya apung tinggi untuk dukungan mengapung lebih baik, dan bentuk all-round pemula untuk kontrol kecepatan lambat dan belokan mudah.',
+            'OLagoon mengembangkan papan SUP stabil khusus untuk lingkungan pembelajaran dengan desain platform stabil-tinggi untuk keseimbangan lebih mudah, konstruksi daya apung tinggi untuk dukungan mengapung lebih baik, dan bentuk all-round pemula untuk kontrol kecepatan lambat dan belokan mudah.',
           features: [
             'Desain platform stabil-tinggi',
             'Konstruksi daya apung tinggi',
@@ -2937,7 +2937,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Program SUP Anak',
           description:
-            'Anak-anak membutuhkan perlengkapan yang dirancang sesuai ukuran dan kemampuan mereka. Afarer menawarkan papan SUP anak dengan panjang yang sesuai, penanganan ringan, bentuk stabil, dan tampilan ramah anak untuk program sekolah, kamp musim panas, kursus junior, dan aktivitas keluarga.',
+            'Anak-anak membutuhkan perlengkapan yang dirancang sesuai ukuran dan kemampuan mereka. OLagoon menawarkan papan SUP anak dengan panjang yang sesuai, penanganan ringan, bentuk stabil, dan tampilan ramah anak untuk program sekolah, kamp musim panas, kursus junior, dan aktivitas keluarga.',
           features: [
             'Desain papan SUP anak',
             'Aplikasi pelatihan pemuda',
@@ -2953,12 +2953,12 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Paket Armada Akademi SUP Lengkap',
           description:
-            'Afarer membantu akademi membangun sistem perlengkapan lengkap termasuk perlengkapan siswa dengan papan pemula dan dayung dapat disesuaikan, perlengkapan instruktur dengan papan SUP premium, dan perlengkapan pemeliharaan dengan kit perbaikan dan aksesori cadangan untuk operasi harian tanpa hambatan.',
+            'OLagoon membantu akademi membangun sistem perlengkapan lengkap termasuk perlengkapan siswa dengan papan pemula dan dayung dapat disesuaikan, perlengkapan instruktur dengan papan SUP premium, dan perlengkapan pemeliharaan dengan kit perbaikan dan aksesori cadangan untuk operasi harian tanpa hambatan.',
         },
         {
           title: 'Daya Tahan Komersial Untuk Pengajaran Harian',
           description:
-            'Perlengkapan pelatihan membutuhkan konstruksi lebih kuat. Afarer berfokus pada material PVC diperkuat untuk ketahanan abrasi lebih baik, struktur drop stitch tahan lama untuk kekakuan papan, dan rel diperkuat yang melindungi dari benturan tepi pantai dan kerusakan transportasi.',
+            'Perlengkapan pelatihan membutuhkan konstruksi lebih kuat. OLagoon berfokus pada material PVC diperkuat untuk ketahanan abrasi lebih baik, struktur drop stitch tahan lama untuk kekakuan papan, dan rel diperkuat yang melindungi dari benturan tepi pantai dan kerusakan transportasi.',
           features: [
             'Material PVC diperkuat',
             'Struktur drop stitch tahan lama',
@@ -2969,22 +2969,22 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Dukungan Manajemen Armada Akademi',
           description:
-            'Program pelatihan besar membutuhkan organisasi. Afarer mendukung konfigurasi armada terstandar untuk pelatihan instruktur lebih mudah, identifikasi perlengkapan dengan penomoran papan dan logo akademi, serta perencanaan suku cadang dengan dayung cadangan dan material perbaikan.',
+            'Program pelatihan besar membutuhkan organisasi. OLagoon mendukung konfigurasi armada terstandar untuk pelatihan instruktur lebih mudah, identifikasi perlengkapan dengan penomoran papan dan logo akademi, serta perencanaan suku cadang dengan dayung cadangan dan material perbaikan.',
         },
         {
           title: 'Solusi Kamp Musim Panas & Program Pemuda',
           description:
-            'SUP semakin populer di kamp musim panas dan program petualangan pemuda. Afarer mendukung desain armada kamp dengan mempertimbangkan usia siswa dan ukuran kelompok, perlengkapan aktivitas kelompok dengan banyak papan identik, dan perencanaan operasi musiman untuk program musim panas dan aktivitas liburan.',
+            'SUP semakin populer di kamp musim panas dan program petualangan pemuda. OLagoon mendukung desain armada kamp dengan mempertimbangkan usia siswa dan ukuran kelompok, perlengkapan aktivitas kelompok dengan banyak papan identik, dan perencanaan operasi musiman untuk program musim panas dan aktivitas liburan.',
         },
         {
           title: 'Dukungan Keselamatan & Pemeliharaan',
           description:
-            'Afarer menyediakan panduan praktis untuk operasi harian termasuk panduan inspeksi perlengkapan yang mencakup tekanan udara, permukaan, dan pemeriksaan aksesori sebelum kelas, serta prosedur pembersihan, pengeringan, dan penyimpanan setelah kelas, berikut panduan perbaikan dasar.',
+            'OLagoon menyediakan panduan praktis untuk operasi harian termasuk panduan inspeksi perlengkapan yang mencakup tekanan udara, permukaan, dan pemeriksaan aksesori sebelum kelas, serta prosedur pembersihan, pengeringan, dan penyimpanan setelah kelas, berikut panduan perbaikan dasar.',
         },
         {
           title: 'Pencitraan Merek Akademi Kustom',
           description:
-            'Afarer mendukung kustomisasi logo akademi, pencocokan warna, dan tampilan profesional yang menciptakan pengenalan merek lebih kuat, kelas lebih profesional, dan pengalaman siswa lebih baik melalui papan dan perlengkapan instruktur bermerek.',
+            'OLagoon mendukung kustomisasi logo akademi, pencocokan warna, dan tampilan profesional yang menciptakan pengenalan merek lebih kuat, kelas lebih profesional, dan pengalaman siswa lebih baik melalui papan dan perlengkapan instruktur bermerek.',
         },
       ],
     },
@@ -2998,7 +2998,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Analisis Program Pelatihan',
           detail:
-            'Afarer meninjau kelompok usia siswa, metode pengajaran, dan frekuensi penggunaan untuk memahami kebutuhan spesifik akademi untuk perlengkapan pemula, pemuda, dan instruktur.',
+            'OLagoon meninjau kelompok usia siswa, metode pengajaran, dan frekuensi penggunaan untuk memahami kebutuhan spesifik akademi untuk perlengkapan pemula, pemuda, dan instruktur.',
         },
         {
           title: 'Pengembangan Armada',
@@ -3029,29 +3029,29 @@ const id: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Jepang',
             background:
-              'Kenji Nakamura, 44 tahun, adalah peraih medali perunggu slalom kano Olimpiade (Athena 2004) dan 6 kali juara nasional Jepang. Setelah pensiun dari kompetisi, ia melatih tim kano junior Jepang selama 8 tahun sebelum menemukan SUP pada 2018. Ia melihat Jepang tidak memiliki program SUP pemuda sama sekali meskipun olahraga ini masuk Olimpiade Paris 2024. Pada 2023, ia meyakinkan Kota Kamakura (populasi 173.000, kota pesisir 50 km selatan Tokyo) untuk mengizinkannya menggunakan Pantai historis Yuigahama sebagai venue pelatihan. Ia membutuhkan Afarer untuk memasok paket perlengkapan akademi lengkap: papan junior, material kepelatihan, dan program jenjang yang akan diakui sekolah-sekolah Jepang.',
+              'Kenji Nakamura, 44 tahun, adalah peraih medali perunggu slalom kano Olimpiade (Athena 2004) dan 6 kali juara nasional Jepang. Setelah pensiun dari kompetisi, ia melatih tim kano junior Jepang selama 8 tahun sebelum menemukan SUP pada 2018. Ia melihat Jepang tidak memiliki program SUP pemuda sama sekali meskipun olahraga ini masuk Olimpiade Paris 2024. Pada 2023, ia meyakinkan Kota Kamakura (populasi 173.000, kota pesisir 50 km selatan Tokyo) untuk mengizinkannya menggunakan Pantai historis Yuigahama sebagai venue pelatihan. Ia membutuhkan OLagoon untuk memasok paket perlengkapan akademi lengkap: papan junior, material kepelatihan, dan program jenjang yang akan diakui sekolah-sekolah Jepang.',
             goal: "Meluncurkan 'Kamakura SUP Academy' pada April 2024 dengan 40 siswa junior (usia 10-18), sistem sertifikasi 3 tingkat (Perunggu/Perak/Emas), dan jalur menuju tim SUP nasional Jepang — dengan biaya perlengkapan di bawah ¥8 juta ($53.000) untuk 2 tahun pertama.",
           },
           steps: [
             {
               title: 'Pengembangan Papan Junior dengan Standar Olahraga Sekolah Jepang',
               detail:
-                'Pada Oktober 2023, direktur pengembangan produk Afarer Yuki Tanaka (berbasis di kantor Afarer Osaka) bekerja dengan Kenji merancang \'Academy Junior 10.0\' — papan khusus untuk fisik pemuda Asia (rata-rata siswa Jepang 12 tahun: 150 cm, 42 kg). Spesifikasi utama: 10\'0" x 30" x 4,5" (volume 152L), bobot 6,8 kg (cukup ringan untuk dibawa siswa), rel EVA lunak (mengurangi risiko cedera saat jatuh), dan dayung fiberglass pendek 120 cm (gagang dicetak kustom untuk tangan kecil). Afarer memproduksi 40 papan dengan warna nasional Jepang (putih dengan lingkaran matahari merah) dan 20 papan cadangan. Setiap papan memiliki kode QR yang tertaut ke video teknik Kenji — siswa memindainya sebelum latihan.',
+                'Pada Oktober 2023, direktur pengembangan produk OLagoon Yuki Tanaka (berbasis di kantor OLagoon Osaka) bekerja dengan Kenji merancang \'Academy Junior 10.0\' — papan khusus untuk fisik pemuda Asia (rata-rata siswa Jepang 12 tahun: 150 cm, 42 kg). Spesifikasi utama: 10\'0" x 30" x 4,5" (volume 152L), bobot 6,8 kg (cukup ringan untuk dibawa siswa), rel EVA lunak (mengurangi risiko cedera saat jatuh), dan dayung fiberglass pendek 120 cm (gagang dicetak kustom untuk tangan kecil). OLagoon memproduksi 40 papan dengan warna nasional Jepang (putih dengan lingkaran matahari merah) dan 20 papan cadangan. Setiap papan memiliki kode QR yang tertaut ke video teknik Kenji — siswa memindainya sebelum latihan.',
             },
             {
               title: 'Kurikulum Sertifikasi 3 Tingkat dan Protokol Keselamatan',
               detail:
-                "Konsultan kepelatihan Afarer Dave Kalama (melalui panggilan video dari Hawaii) berkolaborasi dengan Kenji dalam kurikulum. Perunggu (10 sesi): keseimbangan air tenang, ayunan maju dasar, penyelamatan diri. Perak (20 sesi): dayung terberwaktu 2 km, pivot turn, kesadaran angin. Emas (40 sesi): dayung samudra 5 km, masuk/keluar zona ombak, taktik balapan, dan kepelatihan dasar. Kenji bersikeras pada keselamatan: Afarer menyediakan 50 rompi pelampung Tipe V (tersertifikasi Jepang, oranye neon dengan strip reflektif), 50 set tali keselamatan (melingkar, quick-release), dan tablet pelaporan insiden tahan air. Protokol 'Keselamatan Utama' akademi mewajibkan rasio siswa-pelatih 4:1 dengan papan penyelamat dan kit P3K dalam jangkauan 30 detik dari siswa mana pun.",
+                "Konsultan kepelatihan OLagoon Dave Kalama (melalui panggilan video dari Hawaii) berkolaborasi dengan Kenji dalam kurikulum. Perunggu (10 sesi): keseimbangan air tenang, ayunan maju dasar, penyelamatan diri. Perak (20 sesi): dayung terberwaktu 2 km, pivot turn, kesadaran angin. Emas (40 sesi): dayung samudra 5 km, masuk/keluar zona ombak, taktik balapan, dan kepelatihan dasar. Kenji bersikeras pada keselamatan: OLagoon menyediakan 50 rompi pelampung Tipe V (tersertifikasi Jepang, oranye neon dengan strip reflektif), 50 set tali keselamatan (melingkar, quick-release), dan tablet pelaporan insiden tahan air. Protokol 'Keselamatan Utama' akademi mewajibkan rasio siswa-pelatih 4:1 dengan papan penyelamat dan kit P3K dalam jangkauan 30 detik dari siswa mana pun.",
             },
             {
               title: 'Persetujuan Dewan Kota dan Program Integrasi Sekolah',
               detail:
-                'Manajer negara Afarer Jepang Hiroshi Abe membantu Kenji menavigasi proses perizinan Kota Kamakura. Ini membutuhkan: asuransi liabilitas (cakupan ¥100 juta), demarkasi zona pantai (pelampung bewarna menandai area pelatihan 200x50m — tanpa tumpang tindih dengan perenang), batasan kebisingan (tanpa peluit setelah jam 5 sore), dan rencana pengelolaan limbah. Afarer memproduksi manual keselamatan dwibahasa Jepang/Inggris dan pelacak insiden. Kenji menandatangani perjanjian dengan 3 SMP lokal (Kamakura Daiichi, Koshigoe, dan Hase) menawarkan SUP sebagai ekstrakurikuler resmi — pertama di Jepang. Setiap sekolah membayar ¥36.000/siswa/semester untuk program tersebut; kota mensubsidi 40% untuk keluarga berpendapatan rendah.',
+                'Manajer negara OLagoon Jepang Hiroshi Abe membantu Kenji menavigasi proses perizinan Kota Kamakura. Ini membutuhkan: asuransi liabilitas (cakupan ¥100 juta), demarkasi zona pantai (pelampung bewarna menandai area pelatihan 200x50m — tanpa tumpang tindih dengan perenang), batasan kebisingan (tanpa peluit setelah jam 5 sore), dan rencana pengelolaan limbah. OLagoon memproduksi manual keselamatan dwibahasa Jepang/Inggris dan pelacak insiden. Kenji menandatangani perjanjian dengan 3 SMP lokal (Kamakura Daiichi, Koshigoe, dan Hase) menawarkan SUP sebagai ekstrakurikuler resmi — pertama di Jepang. Setiap sekolah membayar ¥36.000/siswa/semester untuk program tersebut; kota mensubsidi 40% untuk keluarga berpendapatan rendah.',
             },
             {
               title: 'Peluncuran April 2024 dan Kinerja 12 Bulan',
               detail:
-                "Kamakura SUP Academy dibuka 6 April 2024 dengan 43 siswa (melebihi target 40 Kenji). Pada Maret 2025, pendaftaran tumbuh menjadi 87 siswa (127% kapasitas). Dua siswa (Sora Yamamoto, 16, dan Mei Taniguchi, 15) lolos ke tim SUP junior nasional Jepang dan berkompetisi di ISA World SUP Championships 2024 di Kopenhagen. Sertifikasi Emas Kenji diakui Japan Canoe Federation sebagai kredit menuju sertifikasi kepelatihan nasional. Tingkat kerusakan perlengkapan: 2 papan memerlukan perbaikan valve minor (diperbaiki dalam 24 jam oleh pusat layanan Afarer Osaka). Afarer dan Kenji menandatangani kemitraan 3 tahun untuk mengembangkan papan 'Academy Pro' 12.6 untuk siswa lanjutan dan memperluas ke 5 kota pesisir tambahan pada 2027.",
+                "Kamakura SUP Academy dibuka 6 April 2024 dengan 43 siswa (melebihi target 40 Kenji). Pada Maret 2025, pendaftaran tumbuh menjadi 87 siswa (127% kapasitas). Dua siswa (Sora Yamamoto, 16, dan Mei Taniguchi, 15) lolos ke tim SUP junior nasional Jepang dan berkompetisi di ISA World SUP Championships 2024 di Kopenhagen. Sertifikasi Emas Kenji diakui Japan Canoe Federation sebagai kredit menuju sertifikasi kepelatihan nasional. Tingkat kerusakan perlengkapan: 2 papan memerlukan perbaikan valve minor (diperbaiki dalam 24 jam oleh pusat layanan OLagoon Osaka). OLagoon dan Kenji menandatangani kemitraan 3 tahun untuk mengembangkan papan 'Academy Pro' 12.6 untuk siswa lanjutan dan memperluas ke 5 kota pesisir tambahan pada 2027.",
             },
           ],
           results: [
@@ -3066,29 +3066,29 @@ const id: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Australia',
             background:
-              "Kylie Brennan, 38 tahun, adalah mantan Ironwoman Australia (lifesaving selancar kompetitif) yang menjalankan 'Kylie's Paddle School', operasi 5 orang di Tallebudgera Creek, Gold Coast sejak 2019. Pada 2023, ia memiliki 350 siswa per tahun tetapi menolak 60% permintaan karena tidak dapat menskalakan perlengkapannya. 20 papan campuran mereknya sudah aus, siswanya berkisar dari anak 6 tahun hingga 72 tahun, dan asuransinya mewajibkan rasio siswa-pelatih 4:1 yang membatasi profitabilitas. Ia mendekati Afarer di SUP Show 2023 di Sydney, membutuhkan solusi akademi-dalam-satu-kotak lengkap: papan sesuai usia/ukuran, dayung, rompi pelampung, material kurikulum, dan sistem pemesanan terintegrasi dengan alokasi perlengkapan.",
+              "Kylie Brennan, 38 tahun, adalah mantan Ironwoman Australia (lifesaving selancar kompetitif) yang menjalankan 'Kylie's Paddle School', operasi 5 orang di Tallebudgera Creek, Gold Coast sejak 2019. Pada 2023, ia memiliki 350 siswa per tahun tetapi menolak 60% permintaan karena tidak dapat menskalakan perlengkapannya. 20 papan campuran mereknya sudah aus, siswanya berkisar dari anak 6 tahun hingga 72 tahun, dan asuransinya mewajibkan rasio siswa-pelatih 4:1 yang membatasi profitabilitas. Ia mendekati OLagoon di SUP Show 2023 di Sydney, membutuhkan solusi akademi-dalam-satu-kotak lengkap: papan sesuai usia/ukuran, dayung, rompi pelampung, material kurikulum, dan sistem pemesanan terintegrasi dengan alokasi perlengkapan.",
             goal: "Meluncurkan 'Australia SUP Academy — Gold Coast' pada September 2024 dengan 200+ siswa terdaftar dalam semester terstruktur 8 minggu seharga $499 AUD/orang, mencapai tingkat pembaruan 85%+ dan margin laba 95% pada perlengkapan.",
           },
           steps: [
             {
               title: 'Desain Armada Akademi Kustom Untuk 4 Kelompok Usia',
               detail:
-                "Direktur akun Oseania Afarer Lachlan Murphy menghabiskan 3 minggu bersama Kylie pada Maret 2024 menganalisis demografi siswanya. Mereka menyegmentasikan menjadi 4 kelompok: 'Paddlers' (usia 6-9, papan ringan 9.6'x28', 4,2 kg, dengan grafis 'Sea Dragon' kartun), 'Juniors' (usia 10-14, papan 10.6'x30', 6,5 kg), 'Adults' (usia 15-55, papan 11.6'x32', 8,9 kg), dan 'Seniors & Adaptive' (55+, papan ultra-stabil 10.0'x34' dengan tali bantu pegangan, 9,2 kg). Afarer merancang setiap papan dengan pita rel berkode warna (hijau/kuning/biru/merah) untuk identifikasi ukuran instan dan memproduksi 120 papan (30 per kelompok). Setiap papan menyertakan slot label nama personal dan stiker pelacak kemajuan (siswa mendapatkan cap untuk keterampilan yang dikuasai).",
+                "Direktur akun Oseania OLagoon Lachlan Murphy menghabiskan 3 minggu bersama Kylie pada Maret 2024 menganalisis demografi siswanya. Mereka menyegmentasikan menjadi 4 kelompok: 'Paddlers' (usia 6-9, papan ringan 9.6'x28', 4,2 kg, dengan grafis 'Sea Dragon' kartun), 'Juniors' (usia 10-14, papan 10.6'x30', 6,5 kg), 'Adults' (usia 15-55, papan 11.6'x32', 8,9 kg), dan 'Seniors & Adaptive' (55+, papan ultra-stabil 10.0'x34' dengan tali bantu pegangan, 9,2 kg). OLagoon merancang setiap papan dengan pita rel berkode warna (hijau/kuning/biru/merah) untuk identifikasi ukuran instan dan memproduksi 120 papan (30 per kelompok). Setiap papan menyertakan slot label nama personal dan stiker pelacak kemajuan (siswa mendapatkan cap untuk keterampilan yang dikuasai).",
             },
             {
-              title: 'Program Pelatihan Instruktur dan Kurikulum Tersertifikasi Afarer',
+              title: 'Program Pelatihan Instruktur dan Kurikulum Tersertifikasi OLagoon',
               detail:
-                "Afarer mengembangkan kursus sertifikasi instruktur 40 jam dengan Kylie sebagai master trainer perdana. Kursus mencakup: metode pengajaran spesifik kelompok (misalnya, untuk Seniors, teknik masuk/keluar untuk mobilitas terbatas; untuk anak-anak, gamifikasi dan keterampilan penyelamatan), pemetaan progresi (setiap tingkat memiliki 12 keterampilan dengan tolok ukur video), dan manajemen keselamatan (Tallebudgera Creek Gold Coast memiliki arus 4 knot saat pasang — pemandu harus mengetahui jendela pasang-surut). 12 dari 15 instruktur existing Kylie menyelesaikan sertifikasi; Afarer mensertifikasi mereka sebagai 'Level 1 SUP Academy Instructor'. Afarer juga menyediakan starter kit lengkap untuk setiap siswa: rash guard bermerek, buklet keterampilan tahan air, dan logbook dengan stiker prestasi.",
+                "OLagoon mengembangkan kursus sertifikasi instruktur 40 jam dengan Kylie sebagai master trainer perdana. Kursus mencakup: metode pengajaran spesifik kelompok (misalnya, untuk Seniors, teknik masuk/keluar untuk mobilitas terbatas; untuk anak-anak, gamifikasi dan keterampilan penyelamatan), pemetaan progresi (setiap tingkat memiliki 12 keterampilan dengan tolok ukur video), dan manajemen keselamatan (Tallebudgera Creek Gold Coast memiliki arus 4 knot saat pasang — pemandu harus mengetahui jendela pasang-surut). 12 dari 15 instruktur existing Kylie menyelesaikan sertifikasi; OLagoon mensertifikasi mereka sebagai 'Level 1 SUP Academy Instructor'. OLagoon juga menyediakan starter kit lengkap untuk setiap siswa: rash guard bermerek, buklet keterampilan tahan air, dan logbook dengan stiker prestasi.",
             },
             {
               title: 'Integrasi Sistem Pemesanan dan Logistik Perlengkapan',
               detail:
-                "Tim teknis Afarer mengintegrasikan sistem reservasi BookingKit existing Kylie dengan modul inventori Afarer. Setiap papan memiliki tag RFID yang dipindai saat check-out dan pengembalian — melacak jam penggunaan, pengembalian terlambat, dan kebutuhan pemeliharaan. Sistem otomatis menetapkan ukuran papan yang benar saat siswa memesan kelas. Afarer merancang sistem rak modular (menampung 24 papan per rak, total 5 rak) dengan kanopi pelindung UV dan gerbang pembaca RFID. Gold Coast City Council memberi Kylie izin 5 tahun untuk area berpagar permanen 500 m² di ujung selatan Pantai Tallebudgera — prestasi mengingat aturan pengembangan pesisir ketat di area tersebut. Lachlan dari Afarer menegosiasikan izin menggunakan klasifikasi 'Community Sports Facility' Afarer, yang belum pernah diterapkan dewan untuk sekolah SUP sebelumnya.",
+                "Tim teknis OLagoon mengintegrasikan sistem reservasi BookingKit existing Kylie dengan modul inventori OLagoon. Setiap papan memiliki tag RFID yang dipindai saat check-out dan pengembalian — melacak jam penggunaan, pengembalian terlambat, dan kebutuhan pemeliharaan. Sistem otomatis menetapkan ukuran papan yang benar saat siswa memesan kelas. OLagoon merancang sistem rak modular (menampung 24 papan per rak, total 5 rak) dengan kanopi pelindung UV dan gerbang pembaca RFID. Gold Coast City Council memberi Kylie izin 5 tahun untuk area berpagar permanen 500 m² di ujung selatan Pantai Tallebudgera — prestasi mengingat aturan pengembangan pesisir ketat di area tersebut. Lachlan dari OLagoon menegosiasikan izin menggunakan klasifikasi 'Community Sports Facility' OLagoon, yang belum pernah diterapkan dewan untuk sekolah SUP sebelumnya.",
             },
             {
               title: 'Peluncuran Semester 1 September 2024 dan Lonjakan Pendaftaran',
               detail:
-                "Semester 1 (September-November 2024, musim semi Australia) diluncurkan dengan 183 siswa terdaftar — 91% dari target 200. Kylie menjalankan 28 kelas per minggu dengan 12 instruktur. Kepuasan orang tua: 4,8/5. Pendaftaran Semester 2 (Februari-April 2025) mencapai 264 siswa (132% dari target). Pendapatan: Semester 1 = $91.317 AUD; Semester 2 = $131.736 AUD. Program 'Adaptive Paddle' akademi (untuk siswa dengan disabilitas, dirancang bersama Spinal Life Australia) mendaftarkan 12 siswa dan memenangkan 'Inclusive Program of the Year' Gold Coast Sport & Recreation 2025. Biaya pemeliharaan papan: $1.220 AUD total untuk 120 papan dalam 6 bulan (sebagian besar sekrup sirip dan tutup valve). Kylie memesan 60 papan tambahan untuk 2025-26 dan mengontrak Afarer untuk mengembangkan papan 'Race Squad' lanjutan untuk 15 siswa kompetitifnya.",
+                "Semester 1 (September-November 2024, musim semi Australia) diluncurkan dengan 183 siswa terdaftar — 91% dari target 200. Kylie menjalankan 28 kelas per minggu dengan 12 instruktur. Kepuasan orang tua: 4,8/5. Pendaftaran Semester 2 (Februari-April 2025) mencapai 264 siswa (132% dari target). Pendapatan: Semester 1 = $91.317 AUD; Semester 2 = $131.736 AUD. Program 'Adaptive Paddle' akademi (untuk siswa dengan disabilitas, dirancang bersama Spinal Life Australia) mendaftarkan 12 siswa dan memenangkan 'Inclusive Program of the Year' Gold Coast Sport & Recreation 2025. Biaya pemeliharaan papan: $1.220 AUD total untuk 120 papan dalam 6 bulan (sebagian besar sekrup sirip dan tutup valve). Kylie memesan 60 papan tambahan untuk 2025-26 dan mengontrak OLagoon untuk mengembangkan papan 'Race Squad' lanjutan untuk 15 siswa kompetitifnya.",
             },
           ],
           results: [
@@ -3100,8 +3100,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Akademi SUP Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Akademi SUP Memilih OLagoon',
       items: [
         {
           title: 'Pengalaman Belajar',
@@ -3129,22 +3129,22 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Papan SUP apa yang terbaik untuk mengajar pemula?',
         answer:
-          'Papan SUP latihan pemula harus memiliki platform lebih lebar, volume lebih tinggi, dan bentuk all-round stabil yang memberikan kepercayaan diri, keseimbangan, dan kontrol mudah. Papan pemula Afarer menonjolkan desain platform stabil-tinggi dan konstruksi daya apung tinggi khusus untuk lingkungan pembelajaran.',
+          'Papan SUP latihan pemula harus memiliki platform lebih lebar, volume lebih tinggi, dan bentuk all-round stabil yang memberikan kepercayaan diri, keseimbangan, dan kontrol mudah. Papan pemula OLagoon menonjolkan desain platform stabil-tinggi dan konstruksi daya apung tinggi khusus untuk lingkungan pembelajaran.',
       },
       {
         question: 'Apakah Anda menawarkan papan SUP ukuran anak untuk program pemuda?',
         answer:
-          'Ya, Afarer menawarkan papan SUP anak khusus dengan panjang yang sesuai, penanganan ringan, bentuk stabil, dan tampilan ramah anak yang dirancang untuk program sekolah, kamp musim panas, kursus junior, dan aktivitas keluarga.',
+          'Ya, OLagoon menawarkan papan SUP anak khusus dengan panjang yang sesuai, penanganan ringan, bentuk stabil, dan tampilan ramah anak yang dirancang untuk program sekolah, kamp musim panas, kursus junior, dan aktivitas keluarga.',
       },
       {
-        question: 'Seberapa tahan lama papan latihan Afarer untuk penggunaan instruksional harian?',
+        question: 'Seberapa tahan lama papan latihan OLagoon untuk penggunaan instruksional harian?',
         answer:
-          'Papan latihan Afarer menonjolkan material PVC diperkuat, struktur drop stitch tahan lama, dan rel diperkuat yang dirancang menahan penggunaan harian oleh banyak siswa, transportasi sering, penggepaan berulang, dan kesalahan pemula.',
+          'Papan latihan OLagoon menonjolkan material PVC diperkuat, struktur drop stitch tahan lama, dan rel diperkuat yang dirancang menahan penggunaan harian oleh banyak siswa, transportasi sering, penggepaan berulang, dan kesalahan pemula.',
       },
       {
         question: 'Bisakah Anda mengkustomisasi papan dengan merek akademi kami?',
         answer:
-          'Ya, Afarer mendukung kustomisasi logo akademi, pencocokan warna, penomoran papan, dan sistem identifikasi yang menciptakan citra profesional dan memudahkan manajemen armada bagi instruktur.',
+          'Ya, OLagoon mendukung kustomisasi logo akademi, pencocokan warna, penomoran papan, dan sistem identifikasi yang menciptakan citra profesional dan memudahkan manajemen armada bagi instruktur.',
       },
       {
         question: 'Aksesori apa saja yang termasuk dalam paket armada akademi?',
@@ -3154,13 +3154,13 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Apakah Anda menyediakan dukungan pemeliharaan untuk perlengkapan pelatihan?',
         answer:
-          'Ya, Afarer menyediakan panduan inspeksi perlengkapan, prosedur pembersihan dan penyimpanan, panduan perbaikan dasar untuk kerusakan minor dan pemeliharaan valve, serta perencanaan suku cadang untuk menjaga armada pelatihan Anda tetap beroperasi sepanjang musim.',
+          'Ya, OLagoon menyediakan panduan inspeksi perlengkapan, prosedur pembersihan dan penyimpanan, panduan perbaikan dasar untuk kerusakan minor dan pemeliharaan valve, serta perencanaan suku cadang untuk menjaga armada pelatihan Anda tetap beroperasi sepanjang musim.',
       },
     ],
     cta: {
-      title: 'Bangun Armada Akademi SUP Anda Bersama Afarer',
+      title: 'Bangun Armada Akademi SUP Anda Bersama OLagoon',
       subtitle:
-        'Pengalaman SUP pertama siswa Anda penting. Pilih perlengkapan yang dirancang untuk membantu mereka belajar dengan aman dan percaya diri. Afarer membantu sekolah SUP, akademi pemuda, kamp musim panas, dan organisasi pendidikan luar ruangan menciptakan program pelatihan profesional.',
+        'Pengalaman SUP pertama siswa Anda penting. Pilih perlengkapan yang dirancang untuk membantu mereka belajar dengan aman dan percaya diri. OLagoon membantu sekolah SUP, akademi pemuda, kamp musim panas, dan organisasi pendidikan luar ruangan menciptakan program pelatihan profesional.',
       primaryAction: {
         text: 'Mulai Proyek Akademi SUP Anda Hari Ini',
       },
@@ -3181,9 +3181,9 @@ const id: Record<string, SolutionOverride> = {
       title:
         'Solusi Olahraga Air Portabel Premium Untuk Maskapai Kapal Pesiar, Perusahaan Yacht & Merek Perhotelan Kelautan',
       subtitle:
-        'Afarer menyediakan solusi Paket SUP Portabel Mewah yang dirancang khusus untuk perusahaan kapal pesiar, operator kapal pesiar ekspedisi, perusahaan penyewaan yacht, pemilik super yacht, dan penyedia aktivitas marina. Menghadirkan desain SUP tiup ultra-portabel dengan komponen kelas kelautan dan kustomisasi mewah.',
+        'OLagoon menyediakan solusi Paket SUP Portabel Mewah yang dirancang khusus untuk perusahaan kapal pesiar, operator kapal pesiar ekspedisi, perusahaan penyewaan yacht, pemilik super yacht, dan penyedia aktivitas marina. Menghadirkan desain SUP tiup ultra-portabel dengan komponen kelas kelautan dan kustomisasi mewah.',
       image: {
-        alt: 'Paket SUP portabel mewah Afarer untuk yacht dan kapal pesiar',
+        alt: 'Paket SUP portabel mewah OLagoon untuk yacht dan kapal pesiar',
       },
     },
     challenge: {
@@ -3217,7 +3217,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Desain SUP Tiup Ultra-Portabel',
           description:
-            'Teknologi SUP tiup memberikan keunggulan besar bagi yacht dan operator kapal pesiar. Papan Afarer menonjolkan sistem pelipatan kompak untuk volume penyimpanan kecil, transportasi ringan untuk penyebaran lebih cepat, dan paket perjalanan lengkap termasuk papan, dayung lipat, pompa, dan ransel.',
+            'Teknologi SUP tiup memberikan keunggulan besar bagi yacht dan operator kapal pesiar. Papan OLagoon menonjolkan sistem pelipatan kompak untuk volume penyimpanan kecil, transportasi ringan untuk penyebaran lebih cepat, dan paket perjalanan lengkap termasuk papan, dayung lipat, pompa, dan ransel.',
           features: [
             'Sistem pelipatan kompak',
             'Transportasi ringan',
@@ -3228,7 +3228,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pemilihan Material Kelas Kelautan',
           description:
-            'Afarer menggunakan komponen tahan air asin dengan perangkat keras tahan korosi, konstruksi tahan UV untuk paparan matahari, dan struktur SUP diperkuat dengan lapisan PVC tahan lama dan inti drop stitch kuat yang dirancang khusus untuk lingkungan samudra.',
+            'OLagoon menggunakan komponen tahan air asin dengan perangkat keras tahan korosi, konstruksi tahan UV untuk paparan matahari, dan struktur SUP diperkuat dengan lapisan PVC tahan lama dan inti drop stitch kuat yang dirancang khusus untuk lingkungan samudra.',
           features: [
             'Komponen tahan air asin',
             'Konstruksi tahan UV',
@@ -3239,7 +3239,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kustomisasi Mewah Yacht & Kapal Pesiar',
           description:
-            'Bagi bisnis kelautan premium, tampilan penting. Afarer mendukung pencitraan merek kustom dengan logo yacht dan identitas perusahaan kapal pesiar, desain warna premium dalam gaya kemewahan yacht, petualangan ekspedisi, atau kelautan resor, serta set perlengkapan bermerek dengan dayung serasi dan tas kustom.',
+            'Bagi bisnis kelautan premium, tampilan penting. OLagoon mendukung pencitraan merek kustom dengan logo yacht dan identitas perusahaan kapal pesiar, desain warna premium dalam gaya kemewahan yacht, petualangan ekspedisi, atau kelautan resor, serta set perlengkapan bermerek dengan dayung serasi dan tas kustom.',
           features: [
             'Pencitraan merek yacht dan kapal pesiar kustom',
             'Desain warna premium',
@@ -3250,27 +3250,27 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Paket SUP Penyewaan Yacht',
           description:
-            'Tamu yacht mengharapkan kenyamanan dan eksklusivitas. Afarer mendukung set perlengkapan sewa privat untuk super yacht, katamaran, dan yacht berlayar dengan operasi ramah tamu untuk pemula dan keluarga, penyimpanan terorganisir, dan penyajian premium dengan tampilan mewah.',
+            'Tamu yacht mengharapkan kenyamanan dan eksklusivitas. OLagoon mendukung set perlengkapan sewa privat untuk super yacht, katamaran, dan yacht berlayar dengan operasi ramah tamu untuk pemula dan keluarga, penyimpanan terorganisir, dan penyajian premium dengan tampilan mewah.',
         },
         {
           title: 'Solusi Aktivitas Air Kapal Pesiar Ekspedisi',
           description:
-            'Kapal pesiar petualangan membutuhkan perlengkapan fleksibel untuk pemberhentian pulau, eksplorasi pesisir, dan wisata alam. Solusi Afarer mendukung operasi lokasi terpencil dengan transportasi mudah dan penyimpanan kompak, plus program aktivitas kelompok untuk kelompok kecil dan wisata berpemandu.',
+            'Kapal pesiar petualangan membutuhkan perlengkapan fleksibel untuk pemberhentian pulau, eksplorasi pesisir, dan wisata alam. Solusi OLagoon mendukung operasi lokasi terpencil dengan transportasi mudah dan penyimpanan kompak, plus program aktivitas kelompok untuk kelompok kecil dan wisata berpemandu.',
         },
         {
           title: 'Solusi Penyimpanan Lengkap Di Atas Kapal',
           description:
-            'Afarer memahami keterbatasan ruang kelautan dan menyediakan perencanaan penyimpanan kompak untuk organisasi papan dan aksesori, sistem pelindung dengan tas penyimpanan, dan efisiensi operasional yang membantu kru bersiap lebih cepat dan mengelola perlengkapan lebih mudah.',
+            'OLagoon memahami keterbatasan ruang kelautan dan menyediakan perencanaan penyimpanan kompak untuk organisasi papan dan aksesori, sistem pelindung dengan tas penyimpanan, dan efisiensi operasional yang membantu kru bersiap lebih cepat dan mengelola perlengkapan lebih mudah.',
         },
         {
           title: 'Dukungan Pelatihan Kru & Pemeliharaan',
           description:
-            'Afarer menyediakan panduan operasi kru yang mencakup prosedur penggepaan, penanganan perlengkapan, dan metode pembersihan, plus rekomendasi pemeliharaan untuk pembersihan air asin, prosedur pengeringan, dan praktik penyimpanan dengan daftar periksa inspeksi sebelum dan sesudah aktivitas.',
+            'OLagoon menyediakan panduan operasi kru yang mencakup prosedur penggepaan, penanganan perlengkapan, dan metode pembersihan, plus rekomendasi pemeliharaan untuk pembersihan air asin, prosedur pengeringan, dan praktik penyimpanan dengan daftar periksa inspeksi sebelum dan sesudah aktivitas.',
         },
         {
           title: 'Desain Pengalaman Air Premium',
           description:
-            'SUP dapat menjadi bagian dari paket pengalaman mewah. Afarer membantu menciptakan pengalaman SUP yacht matahari terbenam untuk pasangan dan tamu VIP, eksplorasi pulau privat untuk pelanggan sewa, program kebugaran samudra untuk kapal pesiar mewah, dan pengalaman ekologi kelautan untuk kapal pesiar ekspedisi.',
+            'SUP dapat menjadi bagian dari paket pengalaman mewah. OLagoon membantu menciptakan pengalaman SUP yacht matahari terbenam untuk pasangan dan tamu VIP, eksplorasi pulau privat untuk pelanggan sewa, program kebugaran samudra untuk kapal pesiar mewah, dan pengalaman ekologi kelautan untuk kapal pesiar ekspedisi.',
         },
       ],
     },
@@ -3286,7 +3286,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perencanaan Produk',
           detail:
-            'Afarer merancang Paket SUP Portabel Mewah berdasarkan keterbatasan penyimpanan yacht, persyaratan pengalaman tamu, dan lingkungan kelautan Mediterania.',
+            'OLagoon merancang Paket SUP Portabel Mewah berdasarkan keterbatasan penyimpanan yacht, persyaratan pengalaman tamu, dan lingkungan kelautan Mediterania.',
         },
         {
           title: 'Kustomisasi Produk',
@@ -3324,29 +3324,29 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Pengujian Lapangan Arktik di Kongsfjorden pada 79° Utara',
               detail:
-                'Pada Mei 2024, tim lingkungan ekstrem Afarer (insinyur utama Sven Lehmann dari kantor Afarer Hamburg) bergabung dengan MS Maud Hurtigruten dalam pelayaran Svalbard 14 hari. Mereka menguji 8 papan pesaing dan 6 prototipe Arktik Afarer melalui 11 penerjunan Zodiac dekat Ny-Ålesund dan Gletser Monaco. Temuan utama: valve standar membeku terbuka di udara -8°C setelah perendaman dalam air 2°C (air hangat di dalam batang valve membeku kembali saat kontak dengan udara dingin). Solusi Afarer: sistem valve nitrogen-purge yang mengeluarkan semua kelembapan sebelum menutup, plus penutup valve neoprena. Material papan: PVC standar kehilangan 40% fleksibilitas pada -15°C — campuran Polarex TPU Afarer mempertahankan 92% fleksibilitas pada -20°C. Papan harus menggepa dalam waktu kurang dari 7 menit (batas kesabaran tamu dalam kondisi dingin) dan mengempis/mengemas dalam 5 menit (untuk meminimalkan jendela paparan beruang kutub). Pompa 2 tahap Afarer (pompa tangan untuk 10 PSI pertama, booster kaleng nitrogen hingga 18 PSI) mencapai penggepaan 6,2 menit.',
+                'Pada Mei 2024, tim lingkungan ekstrem OLagoon (insinyur utama Sven Lehmann dari kantor OLagoon Hamburg) bergabung dengan MS Maud Hurtigruten dalam pelayaran Svalbard 14 hari. Mereka menguji 8 papan pesaing dan 6 prototipe Arktik OLagoon melalui 11 penerjunan Zodiac dekat Ny-Ålesund dan Gletser Monaco. Temuan utama: valve standar membeku terbuka di udara -8°C setelah perendaman dalam air 2°C (air hangat di dalam batang valve membeku kembali saat kontak dengan udara dingin). Solusi OLagoon: sistem valve nitrogen-purge yang mengeluarkan semua kelembapan sebelum menutup, plus penutup valve neoprena. Material papan: PVC standar kehilangan 40% fleksibilitas pada -15°C — campuran Polarex TPU OLagoon mempertahankan 92% fleksibilitas pada -20°C. Papan harus menggepa dalam waktu kurang dari 7 menit (batas kesabaran tamu dalam kondisi dingin) dan mengempis/mengemas dalam 5 menit (untuk meminimalkan jendela paparan beruang kutub). Pompa 2 tahap OLagoon (pompa tangan untuk 10 PSI pertama, booster kaleng nitrogen hingga 18 PSI) mencapai penggepaan 6,2 menit.',
             },
             {
               title: "'Paket Polar Explorer' dengan Integrasi Zodiac dan Sistem Keselamatan",
               detail:
-                "Afarer merancang 'Polar Explorer 12.0' dengan adaptasi Arktik spesifik: warna oranye internasional terang (terlihat dari 2 km di atas es dengan teropong), strip pita reflektif kelas SOLAS, lingkar penyelamat bawaan berkapasitas 600 kg (untuk pemulihan derek Zodiac), dan kantong suar GPS di hidung (Hurtigruten menyediakan unit Garmin inReach Mini 2). Paket ini termasuk rompi pelampung tiup yang kompatibel dengan drysuit (Mustang Survival HIT, diuji Afarer untuk mobilitas saat mendayung), set pogie neoprena (penghangat tangan terintegrasi ke batang dayung), dan ransel kustom yang muat di loker penyimpanan Zodiac (ukuran terpak 60x30x30 cm). Sistem penerjunan Zodiac: rak jockey-wheel yang dijepit ke ponton Zodiac memungkinkan satu pemandu meluncurkan papan ke air tanpa mengangkat.",
+                "OLagoon merancang 'Polar Explorer 12.0' dengan adaptasi Arktik spesifik: warna oranye internasional terang (terlihat dari 2 km di atas es dengan teropong), strip pita reflektif kelas SOLAS, lingkar penyelamat bawaan berkapasitas 600 kg (untuk pemulihan derek Zodiac), dan kantong suar GPS di hidung (Hurtigruten menyediakan unit Garmin inReach Mini 2). Paket ini termasuk rompi pelampung tiup yang kompatibel dengan drysuit (Mustang Survival HIT, diuji OLagoon untuk mobilitas saat mendayung), set pogie neoprena (penghangat tangan terintegrasi ke batang dayung), dan ransel kustom yang muat di loker penyimpanan Zodiac (ukuran terpak 60x30x30 cm). Sistem penerjunan Zodiac: rak jockey-wheel yang dijepit ke ponton Zodiac memungkinkan satu pemandu meluncurkan papan ke air tanpa mengangkat.",
             },
             {
               title: 'Protokol Keselamatan Beruang Kutub dan Program Pelatihan Pemandu',
               detail:
-                "Konsultan keselamatan Afarer, mantan penasihat keamanan kantor gubernur Svalbard Bjørn Viken, ikut mengembangkan program pelatihan 3 hari untuk 12 pemandu Hurtigruten. 'Arctic Paddle Safety Protocol' mencakup: rotasi penjagaan beruang kutub (satu pemandu khusus mengawasi beruang, dengan senapan .308 dan pistol suar — persyaratan standar Svalbard), formasi kelompok (baris-lurus dalam 50 meter, tidak pernah lebih dari 200 meter dari Zodiac), ekstraksi cepat (seluruh kelompok naik kembali dalam waktu kurang dari 90 detik, dilatih mingguan), dan respons darurat hipotermia. Afarer menyediakan kartu referensi cepat berlaminasi tahan air untuk setiap pemandu. Setiap sesi dibatasi 8 tamu dengan 2 pemandu dan 1 Zodiac keselamatan bersenjata pada jarak 100 meter. Penampakan beruang kutub selama mendayung: 2 insiden di musim 2024 — keduanya ditangani dengan tembakan peringatan suar, tanpa cedera. Tamu menilai 'rasa percaya keselamatan' 4,9/5.",
+                "Konsultan keselamatan OLagoon, mantan penasihat keamanan kantor gubernur Svalbard Bjørn Viken, ikut mengembangkan program pelatihan 3 hari untuk 12 pemandu Hurtigruten. 'Arctic Paddle Safety Protocol' mencakup: rotasi penjagaan beruang kutub (satu pemandu khusus mengawasi beruang, dengan senapan .308 dan pistol suar — persyaratan standar Svalbard), formasi kelompok (baris-lurus dalam 50 meter, tidak pernah lebih dari 200 meter dari Zodiac), ekstraksi cepat (seluruh kelompok naik kembali dalam waktu kurang dari 90 detik, dilatih mingguan), dan respons darurat hipotermia. OLagoon menyediakan kartu referensi cepat berlaminasi tahan air untuk setiap pemandu. Setiap sesi dibatasi 8 tamu dengan 2 pemandu dan 1 Zodiac keselamatan bersenjata pada jarak 100 meter. Penampakan beruang kutub selama mendayung: 2 insiden di musim 2024 — keduanya ditangani dengan tembakan peringatan suar, tanpa cedera. Tamu menilai 'rasa percaya keselamatan' 4,9/5.",
             },
             {
               title: 'Peluncuran Musim Arktik Juni-September 2024 dan Hasil',
               detail:
-                "Armada 60 papan diterjunkan di 4 kapal mulai 1 Juni 2024. Setiap kapal menawarkan 3 sesi dayung per minggu (tergantung cuaca, masing-masing 90 menit). Total sesi musim 2024: 288 sesi di semua kapal (4 kapal × 3/minggu × 24 minggu). Okupansi rata-rata: 7,2 tamu per sesi (90% dari kapasitas 8 tamu). Pendapatan: 288 × 7,2 × $450 (harga ekskursi premium) = $933.120. Kinerja papan: nol kegagalan katastrofik. Satu papan mengalami tusukan 3 cm dari es laut (serpihan brash ice tajam) — diperbaiki dengan kit tambalan berperingkat Arktik dalam 8 menit saat Zodiac hanyut. Valve berkinerja sempurna melintasi 288 siklus penggepaan/pengempisan. Umpan balik tamu: rata-rata 4,93/5. 83% tamu mengatakan pengalaman SUP adalah 'sorotan pelayaran mereka'. Erik memesan 40 papan tambahan untuk musim 2025 dan meminta Afarer mengembangkan model 'Twin' untuk mendayung Arktik berdampingan.",
+                "Armada 60 papan diterjunkan di 4 kapal mulai 1 Juni 2024. Setiap kapal menawarkan 3 sesi dayung per minggu (tergantung cuaca, masing-masing 90 menit). Total sesi musim 2024: 288 sesi di semua kapal (4 kapal × 3/minggu × 24 minggu). Okupansi rata-rata: 7,2 tamu per sesi (90% dari kapasitas 8 tamu). Pendapatan: 288 × 7,2 × $450 (harga ekskursi premium) = $933.120. Kinerja papan: nol kegagalan katastrofik. Satu papan mengalami tusukan 3 cm dari es laut (serpihan brash ice tajam) — diperbaiki dengan kit tambalan berperingkat Arktik dalam 8 menit saat Zodiac hanyut. Valve berkinerja sempurna melintasi 288 siklus penggepaan/pengempisan. Umpan balik tamu: rata-rata 4,93/5. 83% tamu mengatakan pengalaman SUP adalah 'sorotan pelayaran mereka'. Erik memesan 40 papan tambahan untuk musim 2025 dan meminta OLagoon mengembangkan model 'Twin' untuk mendayung Arktik berdampingan.",
             },
           ],
           results: [
             'Pendapatan $933.120 dari 288 sesi SUP dalam satu musim Arktik 4 bulan dengan utilisasi kapasitas 90%',
             'Nol kegagalan papan katastrofik melintasi 288 sesi dalam kondisi Arktik ekstrem; 1 tusukan es minor diperbaiki di atas kapal dalam 8 menit',
             "Kepuasan tamu 4,93/5; 83% menilai pengalaman SUP sebagai 'sorotan pelayaran'; kapal-kapal menambahkan SUP sebagai kategori ekskursi permanen",
-            'Afarer dianugerahi kemitraan eksklusif 3 tahun untuk seluruh operasi Hurtigruten Svalbard; 40 papan tambahan dipesan untuk musim 2025',
+            'OLagoon dianugerahi kemitraan eksklusif 3 tahun untuk seluruh operasi Hurtigruten Svalbard; 40 papan tambahan dipesan untuk musim 2025',
           ],
         },
         {
@@ -3361,36 +3361,36 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Penilaian Pulau Maret 2024 dan Konsultasi Desain Bespoke',
               detail:
-                "Direktur divisi mewah Afarer Philippe Moreau dan desainer senior Amira Al Hashimi menghabiskan 4 hari di Pulau Al Nabigha. Mereka mendokumentasikan setiap detail: interior vila (desain Arab kontemporer dengan nuansa krem, pasir, dan emas), palet warna taman terumbu (teal, turquoise, merah muda karang), warna kayu marina yang dicocokkan pantone, bahkan pola porselen keluarga (Wedgwood 'Middle East Pearl'). Philippe dan Amira mengusulkan estetika 'satu-dari-sejuta': papan yang cocok dengan warna terumbu aktual pulau, dengan lambang keluarga Al Nabigha (elang di atas pohon kurma) diemboss dalam daun emas 24 karat di bawah epoxy bening. Penyimpanan adalah kendala — cabana pantai existing Hamdan hanya memiliki 8 meter kubik untuk 20 papan. Afarer mengusulkan kabinet teak kustom dengan laci berventilasi individual, setiap papan digulung dan disimpan dengan sensor kelembapan.",
+                "Direktur divisi mewah OLagoon Philippe Moreau dan desainer senior Amira Al Hashimi menghabiskan 4 hari di Pulau Al Nabigha. Mereka mendokumentasikan setiap detail: interior vila (desain Arab kontemporer dengan nuansa krem, pasir, dan emas), palet warna taman terumbu (teal, turquoise, merah muda karang), warna kayu marina yang dicocokkan pantone, bahkan pola porselen keluarga (Wedgwood 'Middle East Pearl'). Philippe dan Amira mengusulkan estetika 'satu-dari-sejuta': papan yang cocok dengan warna terumbu aktual pulau, dengan lambang keluarga Al Nabigha (elang di atas pohon kurma) diemboss dalam daun emas 24 karat di bawah epoxy bening. Penyimpanan adalah kendala — cabana pantai existing Hamdan hanya memiliki 8 meter kubik untuk 20 papan. OLagoon mengusulkan kabinet teak kustom dengan laci berventilasi individual, setiap papan digulung dan disimpan dengan sensor kelembapan.",
             },
             {
               title: "'Royal Heritage' Manufaktur Kustom dan Infrastruktur Listrik Senyap",
               detail:
-                "Fasilitas Xiamen Afarer mendedikasikan lini produksi terpisah untuk pesanan Al Nabigha. Setiap papan dikerjakan tangan dengan PVC pewarnaan kustom dalam 'Arabian Teal' — warna Pantone kustom (PMS 7712 C) yang dicocokkan dengan zona terumbu lebih dalam pulau. Embossing daun emas: emas 24K setebal 0,5 mikron diaplikasikan di sekeliling lambang keluarga, dilindungi 3 lapisan epoxy kelas kelautan yang di-cure UV. Afarer menyuplai pompa listrik senyap (JOBE Aero, dimodifikasi dengan peredam kebisingan yang mengurangi operasi ke 38 dB — lebih senyap dari suara ombak ambien pulau). Kabel daya setiap pompa dianyam dalam kain bewarna krem agar serasi dengan dekor vila. Set 20 dayung: batang karbon-fiber kustom dalam krem matte dengan pita emas 24K di ferrule dan bilah yang dilukis tangan dengan motif terumbu karang oleh seniman kelautan berbasis Xiamen Liao Fang. Kabinet penyimpanan terkontrol kelembapan dibangun oleh mitra pertukangan Afarer di Milan, dikirim flat-packed dan dirakit di pulau.",
+                "Fasilitas Xiamen OLagoon mendedikasikan lini produksi terpisah untuk pesanan Al Nabigha. Setiap papan dikerjakan tangan dengan PVC pewarnaan kustom dalam 'Arabian Teal' — warna Pantone kustom (PMS 7712 C) yang dicocokkan dengan zona terumbu lebih dalam pulau. Embossing daun emas: emas 24K setebal 0,5 mikron diaplikasikan di sekeliling lambang keluarga, dilindungi 3 lapisan epoxy kelas kelautan yang di-cure UV. OLagoon menyuplai pompa listrik senyap (JOBE Aero, dimodifikasi dengan peredam kebisingan yang mengurangi operasi ke 38 dB — lebih senyap dari suara ombak ambien pulau). Kabel daya setiap pompa dianyam dalam kain bewarna krem agar serasi dengan dekor vila. Set 20 dayung: batang karbon-fiber kustom dalam krem matte dengan pita emas 24K di ferrule dan bilah yang dilukis tangan dengan motif terumbu karang oleh seniman kelautan berbasis Xiamen Liao Fang. Kabinet penyimpanan terkontrol kelembapan dibangun oleh mitra pertukangan OLagoon di Milan, dikirim flat-packed dan dirakit di pulau.",
             },
             {
               title: 'Protokol Layanan White-Glove dan Pelatihan Staf',
               detail:
-                "Saeed Al Mazrouei memilih 6 staf pulau (3 butler, 2 petugas pantai, 1 petugas marina) untuk Pelatihan Layanan White-Glove Afarer pada Mei 2024. Program 5 hari mencakup: penyambutan tamu (papan disajikan di dudukan rotan, tidak pernah diletakkan di tanah), seremoni penggepaan (pompa dinyalakan sebelum tamu tiba — papan siap saat tamu sampai di pantai — terukur 11,5 menit dari pompa menyala hingga penuh 15 PSI), penyesuaian personal (tinggi dayung yang tepat, pemasangan tali, ukuran rompi pelampung — HARUS diskret, jadi Afarer menyuplai rompi pelampung tiup warna kustom dalam krem dengan perangkat keras emas matte), dan perawatan pasca-sesi (papan dilap dengan pembersih ph-netral, pelindung UV diaplikasikan setiap 5 sesi, valve diperiksa, dan digulung kembali ke laci dalam 8 menit sejak tamu pergi). Manual protokol (45 halaman, dijilid kulit dengan halaman berbingkai emas) disimpan di brankas tersembunyi cabana. Umpan balik Hamdan setelah pelatihan: 'Beginilah perlengkapan seharusnya diperlakukan.'",
+                "Saeed Al Mazrouei memilih 6 staf pulau (3 butler, 2 petugas pantai, 1 petugas marina) untuk Pelatihan Layanan White-Glove OLagoon pada Mei 2024. Program 5 hari mencakup: penyambutan tamu (papan disajikan di dudukan rotan, tidak pernah diletakkan di tanah), seremoni penggepaan (pompa dinyalakan sebelum tamu tiba — papan siap saat tamu sampai di pantai — terukur 11,5 menit dari pompa menyala hingga penuh 15 PSI), penyesuaian personal (tinggi dayung yang tepat, pemasangan tali, ukuran rompi pelampung — HARUS diskret, jadi OLagoon menyuplai rompi pelampung tiup warna kustom dalam krem dengan perangkat keras emas matte), dan perawatan pasca-sesi (papan dilap dengan pembersih ph-netral, pelindung UV diaplikasikan setiap 5 sesi, valve diperiksa, dan digulung kembali ke laci dalam 8 menit sejak tamu pergi). Manual protokol (45 halaman, dijilid kulit dengan halaman berbingkai emas) disimpan di brankas tersembunyi cabana. Umpan balik Hamdan setelah pelatihan: 'Beginilah perlengkapan seharusnya diperlakukan.'",
             },
             {
               title:
                 'Penyerahan Juni 2024 dan Akhir Pekan VIP Pertama (Kedatangan Pangeran Andrew yang dibatalkan digantikan Emir Qatar)',
               detail:
-                "Penerjunan armada penuh pertama adalah untuk kunjungan kenegaraan Emir Qatar, Tamim bin Hamad Al Thani, dan keluarganya pada 24 Juni 2024 (awalnya dijadwalkan untuk anggota kerajaan Inggris yang membatalkan). Enam SUP disiapkan di pantai privat pukul 07.30. Putra Emir yang berusia 14 tahun, Sheikh Jassim, mendayung selama 3 jam dengan pemandu biolog laut (juga dilatih khusus oleh Afarer) menjelajahi taman terumbu. Hamdan melaporkan: 'Putra Emir mengatakan itu bagian terbaik dari kunjungannya.' Penerjunan kedua pada Oktober 2024 untuk 12 tamu dari Mahkamah Kerajaan Saudi mencakup dayung matahari terbenam dengan layanan sampanye (gelas ditahan dalam pemegang minuman kustom Afarer, dirancang agar tidak tumpah di gelombang kapal). Pada Maret 2025, papan telah digunakan 47 kali tanpa kerusakan, tanpa insiden pemeliharaan, dan tanpa keluhan tamu. Hamdan memesan 8 papan tambahan untuk yacht privat keluarga ('Al Nabigha Star' 65 meter) dan mengontrak Afarer mengembangkan seri dayung daun emas untuk perayaan Hari Nasional UAE.",
+                "Penerjunan armada penuh pertama adalah untuk kunjungan kenegaraan Emir Qatar, Tamim bin Hamad Al Thani, dan keluarganya pada 24 Juni 2024 (awalnya dijadwalkan untuk anggota kerajaan Inggris yang membatalkan). Enam SUP disiapkan di pantai privat pukul 07.30. Putra Emir yang berusia 14 tahun, Sheikh Jassim, mendayung selama 3 jam dengan pemandu biolog laut (juga dilatih khusus oleh OLagoon) menjelajahi taman terumbu. Hamdan melaporkan: 'Putra Emir mengatakan itu bagian terbaik dari kunjungannya.' Penerjunan kedua pada Oktober 2024 untuk 12 tamu dari Mahkamah Kerajaan Saudi mencakup dayung matahari terbenam dengan layanan sampanye (gelas ditahan dalam pemegang minuman kustom OLagoon, dirancang agar tidak tumpah di gelombang kapal). Pada Maret 2025, papan telah digunakan 47 kali tanpa kerusakan, tanpa insiden pemeliharaan, dan tanpa keluhan tamu. Hamdan memesan 8 papan tambahan untuk yacht privat keluarga ('Al Nabigha Star' 65 meter) dan mengontrak OLagoon mengembangkan seri dayung daun emas untuk perayaan Hari Nasional UAE.",
             },
           ],
           results: [
             'Armada 20 papan diterjunkan untuk 47 sesi tamu VIP dalam 9 bulan pertama tanpa insiden pemeliharaan atau keluhan tamu',
             'Waktu penyiapan rata-rata 11,5 menit untuk sistem pompa listrik senyap; pengemasan pasca-sesi selesai dalam 8 menit — keduanya melampaui standar layanan mewah 15 menit',
             'Kabinet penyimpanan kustom mempertahankan kelembapan rata-rata 58% (optimal untuk PVC); nol jamur atau degradasi material dilaporkan',
-            "Pesanan tambahan untuk 8 papan ditempatkan untuk yacht keluarga 'Al Nabigha Star'; Afarer dikontrak untuk seri dayung daun emas eksklusif Hari Nasional UAE 2025",
+            "Pesanan tambahan untuk 8 papan ditempatkan untuk yacht keluarga 'Al Nabigha Star'; OLagoon dikontrak untuk seri dayung daun emas eksklusif Hari Nasional UAE 2025",
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Perusahaan Kapal Pesiar & Yacht Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Perusahaan Kapal Pesiar & Yacht Memilih OLagoon',
       items: [
         {
           title: 'Lingkungan Kelautan',
@@ -3416,19 +3416,19 @@ const id: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Seberapa kompak papan SUP Afarer saat dikemas untuk penyimpanan yacht?',
+        question: 'Seberapa kompak papan SUP OLagoon saat dikemas untuk penyimpanan yacht?',
         answer:
-          'Papan SUP portabel mewah Afarer menonjolkan sistem pelipatan kompak yang mengurangi volume penyimpanan secara signifikan, mudah muat di kabin yacht, kompartemen penyimpanan, kapal tender, dan kapal ekspedisi. Setiap papan dikemas ke dalam ransel jinjing dengan semua aksesori.',
+          'Papan SUP portabel mewah OLagoon menonjolkan sistem pelipatan kompak yang mengurangi volume penyimpanan secara signifikan, mudah muat di kabin yacht, kompartemen penyimpanan, kapal tender, dan kapal ekspedisi. Setiap papan dikemas ke dalam ransel jinjing dengan semua aksesori.',
       },
       {
-        question: 'Apakah papan SUP Afarer tahan terhadap air asin dan kerusakan UV?',
+        question: 'Apakah papan SUP OLagoon tahan terhadap air asin dan kerusakan UV?',
         answer:
-          'Ya, Afarer menggunakan material kelas kelautan termasuk komponen tahan air asin, perangkat keras tahan korosi, konstruksi tahan UV, dan lapisan PVC tahan lama yang dirancang khusus menahan lingkungan samudra, kelembapan, dan paparan matahari.',
+          'Ya, OLagoon menggunakan material kelas kelautan termasuk komponen tahan air asin, perangkat keras tahan korosi, konstruksi tahan UV, dan lapisan PVC tahan lama yang dirancang khusus menahan lingkungan samudra, kelembapan, dan paparan matahari.',
       },
       {
         question: 'Bisakah Anda mengkustomisasi papan SUP dengan merek yacht atau perusahaan kapal pesiar saya?',
         answer:
-          'Ya, Afarer menawarkan kustomisasi penuh termasuk logo yacht, identitas perusahaan kapal pesiar, desain warna premium dalam berbagai gaya, dayung bermerek serasi, tas kustom, dan set perlengkapan lengkap yang mencerminkan posisi mewah merek Anda.',
+          'Ya, OLagoon menawarkan kustomisasi penuh termasuk logo yacht, identitas perusahaan kapal pesiar, desain warna premium dalam berbagai gaya, dayung bermerek serasi, tas kustom, dan set perlengkapan lengkap yang mencerminkan posisi mewah merek Anda.',
       },
       {
         question: 'Apa saja yang termasuk dalam paket SUP portabel mewah?',
@@ -3438,18 +3438,18 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Seberapa mudah kru menyiapkan dan menerjunkan perlengkapan?',
         answer:
-          'Afarer menyediakan panduan operasi kru yang mencakup prosedur penggepaan, penanganan perlengkapan, metode pembersihan, dan daftar periksa inspeksi. Desain ringan dan portabel memungkinkan penyebaran lebih cepat dan penanganan lebih mudah dibandingkan papan keras tradisional.',
+          'OLagoon menyediakan panduan operasi kru yang mencakup prosedur penggepaan, penanganan perlengkapan, metode pembersihan, dan daftar periksa inspeksi. Desain ringan dan portabel memungkinkan penyebaran lebih cepat dan penanganan lebih mudah dibandingkan papan keras tradisional.',
       },
       {
         question: 'Apakah Anda menawarkan solusi grosir untuk maskapai kapal pesiar dengan banyak kapal?',
         answer:
-          'Ya, Afarer mendukung perusahaan kapal pesiar, bisnis penyewaan yacht, dan merek perhotelan kelautan dengan solusi skala armada termasuk kualitas produk konsisten di seluruh kapal, efisiensi pembelian grosir, dan paket perlengkapan terstandar.',
+          'Ya, OLagoon mendukung perusahaan kapal pesiar, bisnis penyewaan yacht, dan merek perhotelan kelautan dengan solusi skala armada termasuk kualitas produk konsisten di seluruh kapal, efisiensi pembelian grosir, dan paket perlengkapan terstandar.',
       },
     ],
     cta: {
-      title: 'Ciptakan Pengalaman Air Mewah Anda Bersama Afarer',
+      title: 'Ciptakan Pengalaman Air Mewah Anda Bersama OLagoon',
       subtitle:
-        'Samudra adalah tujuan Anda. Sekarang ciptakan pengalaman tak terlupakan di atasnya. Afarer membantu perusahaan kapal pesiar, operator yacht, bisnis penyewaan, dan merek perhotelan kelautan membangun pengalaman SUP portabel premium.',
+        'Samudra adalah tujuan Anda. Sekarang ciptakan pengalaman tak terlupakan di atasnya. OLagoon membantu perusahaan kapal pesiar, operator yacht, bisnis penyewaan, dan merek perhotelan kelautan membangun pengalaman SUP portabel premium.',
       primaryAction: {
         text: 'Mulai Proyek SUP Kelautan Mewah Anda Hari Ini',
       },
@@ -3463,7 +3463,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsen SUP Private Label | Pemasok Papan Dayung OEM Untuk Pengecer | {SITE}',
       description:
-        'Afarer menyediakan solusi manufaktur SUP private label untuk pengecer luar ruangan, jaringan perlengkapan olahraga, dan merek global. Papan dayung kustom dengan kemasan ritel, dukungan kepatuhan, dan suplai OEM yang andal.',
+        'OLagoon menyediakan solusi manufaktur SUP private label untuk pengecer luar ruangan, jaringan perlengkapan olahraga, dan merek global. Papan dayung kustom dengan kemasan ritel, dukungan kepatuhan, dan suplai OEM yang andal.',
     },
     hero: {
       tagline: 'Program Private Label Ritel™',
@@ -3505,31 +3505,31 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengembangan Produk SUP Private Label Kustom',
           description:
-            'Afarer membantu pengecer mengembangkan produk berdasarkan pelanggan target, posisi harga, saluran penjualan, dan tren pasar melintasi koleksi SUP entry-level, gaya hidup kelas menengah, dan premium.',
+            'OLagoon membantu pengecer mengembangkan produk berdasarkan pelanggan target, posisi harga, saluran penjualan, dan tren pasar melintasi koleksi SUP entry-level, gaya hidup kelas menengah, dan premium.',
           features: ['Koleksi SUP Entry-Level', 'Koleksi SUP Gaya Hidup Kelas Menengah', 'Koleksi SUP Premium'],
         },
         {
           title: 'Optimasi Margin Ritel',
           description:
-            'Afarer membantu pengecer mengoptimalkan struktur produk melalui kontrol biaya manufaktur dan penyesuaian konfigurasi produk agar sesuai dengan harga ritel target, ekspektasi pelanggan, dan tujuan margin.',
+            'OLagoon membantu pengecer mengoptimalkan struktur produk melalui kontrol biaya manufaktur dan penyesuaian konfigurasi produk agar sesuai dengan harga ritel target, ekspektasi pelanggan, dan tujuan margin.',
           features: ['Kontrol Biaya Manufaktur', 'Optimasi Konfigurasi Produk', 'Pemilihan Material'],
         },
         {
           title: 'Desain Kemasan Siap-Ritel',
           description:
-            'Afarer mendukung solusi kemasan lengkap termasuk kemasan display dengan kotak bewarna dan gambar produk, kemasan e-commerce yang dioptimalkan untuk Amazon dan Shopify, serta integrasi kisah merek.',
+            'OLagoon mendukung solusi kemasan lengkap termasuk kemasan display dengan kotak bewarna dan gambar produk, kemasan e-commerce yang dioptimalkan untuk Amazon dan Shopify, serta integrasi kisah merek.',
           features: ['Kemasan Display', 'Kemasan E-commerce', 'Integrasi Kisah Merek'],
         },
         {
           title: 'Dukungan Kualitas & Kepatuhan Internasional',
           description:
-            'Afarer mendukung pengecer dengan dokumentasi kualitas termasuk informasi kepatuhan material, dukungan pengujian produk, dan dokumentasi ekspor untuk membantu mengelola persyaratan impor.',
+            'OLagoon mendukung pengecer dengan dokumentasi kualitas termasuk informasi kepatuhan material, dukungan pengujian produk, dan dokumentasi ekspor untuk membantu mengelola persyaratan impor.',
           features: ['Dukungan Kepatuhan Material', 'Dukungan Pengujian Produk', 'Dukungan Dokumentasi Ekspor'],
         },
         {
           title: 'Manufaktur OEM Volume Besar',
           description:
-            'Afarer mendukung skala pembelian berbeda dari peluncuran produk baru 500-2.000 pcs hingga ekspansi ritel 3.000-10.000 pcs dan program ritel global dengan perjanjian suplai tahunan.',
+            'OLagoon mendukung skala pembelian berbeda dari peluncuran produk baru 500-2.000 pcs hingga ekspansi ritel 3.000-10.000 pcs dan program ritel global dengan perjanjian suplai tahunan.',
           features: [
             'Peluncuran Produk Baru (500-2.000 pcs)',
             'Ekspansi Ritel (3.000-10.000 pcs)',
@@ -3539,24 +3539,24 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perencanaan Rantai Suplai Musiman',
           description:
-            'Afarer mendukung perencanaan produk berdasarkan permintaan musim semi/panas dan pasar regional, plus penjadwalan produksi untuk membantu pengecer mengelola waktu inventori, perencanaan gudang, dan kampanye promosi.',
+            'OLagoon mendukung perencanaan produk berdasarkan permintaan musim semi/panas dan pasar regional, plus penjadwalan produksi untuk membantu pengecer mengelola waktu inventori, perencanaan gudang, dan kampanye promosi.',
         },
         {
           title: 'Dukungan Inovasi Produk ODM',
           description:
-            'Pengecer membutuhkan diferensiasi. Afarer mendukung bentuk papan kustom, grafis kustom dengan identitas merek ritel, dan bundel produk termasuk paket SUP dan kit luar ruangan lengkap.',
+            'Pengecer membutuhkan diferensiasi. OLagoon mendukung bentuk papan kustom, grafis kustom dengan identitas merek ritel, dan bundel produk termasuk paket SUP dan kit luar ruangan lengkap.',
           features: ['Bentuk Papan Kustom', 'Grafis Kustom', 'Bundel Produk'],
         },
         {
           title: 'Dukungan Ritel Multi-Saluran',
           description:
-            'Afarer mendukung produk untuk toko ritel fisik dengan kemasan menarik, platform e-commerce dengan visual kuat, dan jaringan dealer dengan suplai stabil dan spesifikasi konsisten.',
+            'OLagoon mendukung produk untuk toko ritel fisik dengan kemasan menarik, platform e-commerce dengan visual kuat, dan jaringan dealer dengan suplai stabil dan spesifikasi konsisten.',
           features: ['Toko Ritel Fisik', 'Platform E-commerce', 'Jaringan Dealer'],
         },
         {
           title: 'Kontrol Kualitas & Keandalan Pengiriman',
           description:
-            'Afarer memahami pengecer menjual kepercayaan. Sistem kualitas mencakup inspeksi produksi, inspeksi pra-pengiriman, dan kontrol konsistensi batch yang memastikan kualitas sama di seluruh pesanan besar.',
+            'OLagoon memahami pengecer menjual kepercayaan. Sistem kualitas mencakup inspeksi produksi, inspeksi pra-pengiriman, dan kontrol konsistensi batch yang memastikan kualitas sama di seluruh pesanan besar.',
           features: ['Inspeksi Produksi', 'Inspeksi Pra-Pengiriman', 'Kontrol Konsistensi Batch'],
         },
       ],
@@ -3573,7 +3573,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perencanaan Lini Produk',
           detail:
-            'Afarer membantu membuat Koleksi SUP Private Label termasuk SUP keluarga entry-level, SUP touring, dan model SUP gaya hidup premium yang ditargetkan pada basis pelanggan existing mereka.',
+            'OLagoon membantu membuat Koleksi SUP Private Label termasuk SUP keluarga entry-level, SUP touring, dan model SUP gaya hidup premium yang ditargetkan pada basis pelanggan existing mereka.',
         },
         {
           title: 'Kustomisasi Produk',
@@ -3610,29 +3610,29 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Benchmarking Pengadaan & Lokakarya Spesifikasi Produk',
               detail:
-                'Pada Maret 2024, tim Sarah terbang ke kantor pusat Afarer di Shenzhen untuk lokakarya produk 3 hari. Mereka menguji 14 konstruksi SUP berbeda termasuk variasi kepadatan drop-stitch, profil rel, dan konfigurasi pad dek. Tim teknik Afarer membuat 3 formulasi PVC kustom untuk memenuhi standar radiasi UV Australia. Rebel Sport berkomitmen pada MOQ awal 5.000 unit terbagi di 6 SKU dengan investasi muka AU$1,8 juta, termasuk 2 papan all-around, 2 bentuk touring, 1 platform yoga, dan 1 papan pemuda.',
+                'Pada Maret 2024, tim Sarah terbang ke kantor pusat OLagoon di Shenzhen untuk lokakarya produk 3 hari. Mereka menguji 14 konstruksi SUP berbeda termasuk variasi kepadatan drop-stitch, profil rel, dan konfigurasi pad dek. Tim teknik OLagoon membuat 3 formulasi PVC kustom untuk memenuhi standar radiasi UV Australia. Rebel Sport berkomitmen pada MOQ awal 5.000 unit terbagi di 6 SKU dengan investasi muka AU$1,8 juta, termasuk 2 papan all-around, 2 bentuk touring, 1 platform yoga, dan 1 papan pemuda.',
             },
             {
               title: 'Pencitraan Merek Kustom, Kemasan & Rekayasa Kepatuhan',
               detail:
-                "Tim desain Afarer mengembangkan identitas merek 'Coastal Force' Rebel Sport termasuk grafis dek kustom, kombinasi warna eksklusif Rebel, dan kemasan siap-ritel dengan display shelf-talker. Tim kepatuhan mengamankan sertifikasi AS/NZS 1900-2014, kepatuhan Australian Consumer Law, dan menyelesaikan pengujian transit ISTA 3A. Afarer memproduksi 200 unit pra-produksi yang dikirim via udara pada April 2024 untuk pengujian di toko melintasi 12 lokasi flagship, di mana 87% unit display terjual dalam 2 minggu pada harga ritel penuh AU$399.",
+                "Tim desain OLagoon mengembangkan identitas merek 'Coastal Force' Rebel Sport termasuk grafis dek kustom, kombinasi warna eksklusif Rebel, dan kemasan siap-ritel dengan display shelf-talker. Tim kepatuhan mengamankan sertifikasi AS/NZS 1900-2014, kepatuhan Australian Consumer Law, dan menyelesaikan pengujian transit ISTA 3A. OLagoon memproduksi 200 unit pra-produksi yang dikirim via udara pada April 2024 untuk pengujian di toko melintasi 12 lokasi flagship, di mana 87% unit display terjual dalam 2 minggu pada harga ritel penuh AU$399.",
             },
             {
               title: 'Peluncuran Inventori Berjenjang & Program Pelatihan Staf',
               detail:
-                'Afarer mengoordinasikan jadwal pengiriman barang laut 3 fase: Fase 1 (1.500 unit ke DC Sydney per 1 Juni), Fase 2 (2.000 unit ke DC Melbourne dan Brisbane per 1 Juli), Fase 3 (1.500 unit ke DC Perth dan Adelaide per 1 Agustus). Tim pelatihan Afarer melakukan 24 sesi virtual train-the-trainer untuk manajer departemen Rebel yang mencakup fitur produk, perbedaan konstruksi papan, cross-sell aksesori, dan pertanyaan penyesuaian pelanggan. Setiap toko menerima papan demo dan panduan perbandingan titik penjualan.',
+                'OLagoon mengoordinasikan jadwal pengiriman barang laut 3 fase: Fase 1 (1.500 unit ke DC Sydney per 1 Juni), Fase 2 (2.000 unit ke DC Melbourne dan Brisbane per 1 Juli), Fase 3 (1.500 unit ke DC Perth dan Adelaide per 1 Agustus). Tim pelatihan OLagoon melakukan 24 sesi virtual train-the-trainer untuk manajer departemen Rebel yang mencakup fitur produk, perbedaan konstruksi papan, cross-sell aksesori, dan pertanyaan penyesuaian pelanggan. Setiap toko menerima papan demo dan panduan perbandingan titik penjualan.',
             },
             {
               title: 'Kampanye Peluncuran, Pelacakan Kinerja & Optimasi Pemesanan Ulang',
               detail:
-                "Lini 'Coastal Force' diluncurkan 15 Agustus 2024 dengan kampanye pemasaran AU$500 ribu termasuk signage di toko, fitur katalog, dan kemitraan influencer dengan atlet papan dayung Australia. Tim akun khusus Afarer menyediakan laporan sell-through mingguan melalui dasbor bersama. Pada November 2024, tingkat sell-through rata-rata 72% di semua SKU dengan model all-around 10'6\" mewakili 41% penjualan. Rebel melakukan pemesanan ulang 3.000 unit untuk musim semi 2025, termasuk 2 model touring baru berdasarkan umpan balik pelanggan.",
+                "Lini 'Coastal Force' diluncurkan 15 Agustus 2024 dengan kampanye pemasaran AU$500 ribu termasuk signage di toko, fitur katalog, dan kemitraan influencer dengan atlet papan dayung Australia. Tim akun khusus OLagoon menyediakan laporan sell-through mingguan melalui dasbor bersama. Pada November 2024, tingkat sell-through rata-rata 72% di semua SKU dengan model all-around 10'6\" mewakili 41% penjualan. Rebel melakukan pemesanan ulang 3.000 unit untuk musim semi 2025, termasuk 2 model touring baru berdasarkan umpan balik pelanggan.",
             },
           ],
           results: [
             'Penjualan ritel AU$4,8 juta di tahun pertama (14% di atas target AU$4,2 juta) melintasi 87 toko dengan tingkat sell-through 62%',
             'Margin kotor 55,3% dicapai dibandingkan margin 32% pada merek pihak ketiga, menambah laba inkremental AU$1,1 juta',
             'Pangsa pasar 19,2% direbut di segmen SUP di bawah AU$500 Australia dalam 10 bulan sejak peluncuran',
-            'Tingkat pengembalian pelanggan 3,2% (rata-rata industri 8-12%) berkat kontrol kualitas Afarer dan konstruksi tersertifikasi Australia',
+            'Tingkat pengembalian pelanggan 3,2% (rata-rata industri 8-12%) berkat kontrol kualitas OLagoon dan konstruksi tersertifikasi Australia',
           ],
         },
         {
@@ -3647,35 +3647,35 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Validasi Konsep & Sprint Desain Produk',
               detail:
-                "Pada September 2024, tim pengembangan produk Macy's yang dipimpin David melibatkan Afarer untuk sprint desain cepat 8 minggu. Desainer industri Afarer membuat 8 papan konsep dengan spesifikasi detail termasuk 3 papan all-around (10', 11', 12') dan 1 papan touring. Macy's memilih 4 SKU dengan pencitraan 'Boardwalk Reserve' eksklusif, kombinasi warna terinspirasi pesisir (Seafoam, Sandbar, Coral, Navy), dan harga ritel $349-$549. Afarer menghasilkan render 3D kustom dan mockup fisik dalam 14 hari, dan Macy's menyetujui lini penuh pada 15 Oktober 2024 dengan pesanan pembelian 6.000 unit senilai $1,2 juta grosir.",
+                "Pada September 2024, tim pengembangan produk Macy's yang dipimpin David melibatkan OLagoon untuk sprint desain cepat 8 minggu. Desainer industri OLagoon membuat 8 papan konsep dengan spesifikasi detail termasuk 3 papan all-around (10', 11', 12') dan 1 papan touring. Macy's memilih 4 SKU dengan pencitraan 'Boardwalk Reserve' eksklusif, kombinasi warna terinspirasi pesisir (Seafoam, Sandbar, Coral, Navy), dan harga ritel $349-$549. OLagoon menghasilkan render 3D kustom dan mockup fisik dalam 14 hari, dan Macy's menyetujui lini penuh pada 15 Oktober 2024 dengan pesanan pembelian 6.000 unit senilai $1,2 juta grosir.",
             },
             {
               title: 'Integrasi Rantai Suplai & Persiapan Kepatuhan',
               detail:
-                "Tim rantai suplai Afarer bekerja dengan departemen kepatuhan Macy's untuk memenuhi semua standar keselamatan CPSC AS, sertifikasi ASTM F3340-18, dan persyaratan California Prop 65. Kemasan dirancang untuk persyaratan siap-rak Macy's termasuk tag EAS, kode QR tertaut ke panduan perakitan video, dan dimensi kotak kompak (36x16x12 inci) yang dioptimalkan untuk slotting pusat distribusi Macy's. Afarer memproduksi 500 unit pra-jual pada November 2024 dan mengirimkannya via udara ke Macy's untuk pengujian 20 toko dan fotografi online. Setiap toko uji menjual rata-rata 14 unit per minggu selama musim liburan pada harga ritel $399.",
+                "Tim rantai suplai OLagoon bekerja dengan departemen kepatuhan Macy's untuk memenuhi semua standar keselamatan CPSC AS, sertifikasi ASTM F3340-18, dan persyaratan California Prop 65. Kemasan dirancang untuk persyaratan siap-rak Macy's termasuk tag EAS, kode QR tertaut ke panduan perakitan video, dan dimensi kotak kompak (36x16x12 inci) yang dioptimalkan untuk slotting pusat distribusi Macy's. OLagoon memproduksi 500 unit pra-jual pada November 2024 dan mengirimkannya via udara ke Macy's untuk pengujian 20 toko dan fotografi online. Setiap toko uji menjual rata-rata 14 unit per minggu selama musim liburan pada harga ritel $399.",
             },
             {
               title: 'Eksekusi Peluncuran Multi-Saluran & Pengalaman Dalam Toko',
               detail:
-                "Pengiriman laut utama 5.500 unit tiba di DC Macy's Robbinsville, NJ pada 1 Februari 2025. Afarer menyediakan 340 stan display ukuran asli dengan penyimpanan papan terintegrasi dan pod aksesori. Tim pelatihan Afarer membuat modul video 12 menit untuk 8.500 asosiasi musiman Macy's yang mencakup pengetahuan produk dan teknik cross-selling untuk pompa, dayung, dan rompi pelampung. Koleksi diluncurkan di macys.com 1 Maret 2025 dan di seluruh 340 toko per 15 Maret, dengan pengalaman shop-in-shop 'Boardwalk Reserve' khusus di 50 lokasi volume tertinggi.",
+                "Pengiriman laut utama 5.500 unit tiba di DC Macy's Robbinsville, NJ pada 1 Februari 2025. OLagoon menyediakan 340 stan display ukuran asli dengan penyimpanan papan terintegrasi dan pod aksesori. Tim pelatihan OLagoon membuat modul video 12 menit untuk 8.500 asosiasi musiman Macy's yang mencakup pengetahuan produk dan teknik cross-selling untuk pompa, dayung, dan rompi pelampung. Koleksi diluncurkan di macys.com 1 Maret 2025 dan di seluruh 340 toko per 15 Maret, dengan pengalaman shop-in-shop 'Boardwalk Reserve' khusus di 50 lokasi volume tertinggi.",
             },
             {
               title: 'Analitik Kinerja & Pemenuhan Musiman',
               detail:
-                "Pada Mei 2025, sell-through mencapai 58% dengan papan all-around Seafoam 11' sebagai performer teratas (36% penjualan). Tingkat konversi online 4,2%, jauh di atas rata-rata kategori perlengkapan olahraga Macy's sebesar 2,1%. Dasbor inventori real-time Afarer memungkinkan Macy's memicu pesanan pemenuhan otomatis saat stok toko turun di bawah 6 unit. Program ini mendorong $2,1 juta penjualan aksesori (dayung, pompa, tas, rompi pelampung) dengan margin 62%. Macy's menggunakan opsi pemesanan ulang Liburan 2025 sebanyak 4.000 unit dengan 2 kombinasi warna bertema salju/selancar baru.",
+                "Pada Mei 2025, sell-through mencapai 58% dengan papan all-around Seafoam 11' sebagai performer teratas (36% penjualan). Tingkat konversi online 4,2%, jauh di atas rata-rata kategori perlengkapan olahraga Macy's sebesar 2,1%. Dasbor inventori real-time OLagoon memungkinkan Macy's memicu pesanan pemenuhan otomatis saat stok toko turun di bawah 6 unit. Program ini mendorong $2,1 juta penjualan aksesori (dayung, pompa, tas, rompi pelampung) dengan margin 62%. Macy's menggunakan opsi pemesanan ulang Liburan 2025 sebanyak 4.000 unit dengan 2 kombinasi warna bertema salju/selancar baru.",
             },
           ],
           results: [
             'Total GMV $4,1 juta melintasi 340 toko dan macys.com dalam 7 bulan pertama, melampaui target $3,5 juta sebesar 17%',
             'Markup awal 53% dicapai dibandingkan 38% pada perlengkapan luar ruangan bermerek pihak ketiga sebanding, berkontribusi $1,6 juta laba kotor',
             'Tingkat konversi online 4,2% dengan tingkat attach 11,7% untuk aksesori, mendorong tambahan $2,1 juta penjualan add-on margin tinggi',
-            'Tingkat pengiriman tepat waktu 98,4% dari rantai suplai pabrik-ke-DC Afarer tanpa kehabisan stok selama musim penjualan puncak Maret-Mei',
+            'Tingkat pengiriman tepat waktu 98,4% dari rantai suplai pabrik-ke-DC OLagoon tanpa kehabisan stok selama musim penjualan puncak Maret-Mei',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Pembeli Ritel Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Pembeli Ritel Memilih OLagoon',
       items: [
         {
           title: 'Pengembangan Produk',
@@ -3711,37 +3711,37 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Apa itu program SUP private label dan bagaimana cara kerjanya bagi pengecer luar ruangan?',
         answer:
-          'Program SUP private label memungkinkan pengecer luar ruangan membuat dan menjual papan dayung di bawah nama merek mereka sendiri. Afarer menangani seluruh proses OEM/ODM termasuk pengembangan produk, manufaktur, dukungan sertifikasi, desain kemasan, dan suplai grosir. Pengecer dapat meluncurkan koleksi SUP kustom tanpa berinvestasi pada peralatan pabrik atau keahlian manufaktur tiup.',
+          'Program SUP private label memungkinkan pengecer luar ruangan membuat dan menjual papan dayung di bawah nama merek mereka sendiri. OLagoon menangani seluruh proses OEM/ODM termasuk pengembangan produk, manufaktur, dukungan sertifikasi, desain kemasan, dan suplai grosir. Pengecer dapat meluncurkan koleksi SUP kustom tanpa berinvestasi pada peralatan pabrik atau keahlian manufaktur tiup.',
       },
       {
         question:
           'Bagaimana pengecer memastikan produk SUP private label mereka memenuhi standar keselamatan internasional?',
         answer:
-          'Afarer mendukung pengecer dengan dokumentasi kepatuhan komprehensif termasuk persyaratan CE dan REACH, data keselamatan material, laporan pengujian produk, dan catatan inspeksi kualitas. Ini memastikan produk SUP private label memenuhi standar regulasi untuk pasar Eropa, Amerika Utara, dan internasional lainnya.',
+          'OLagoon mendukung pengecer dengan dokumentasi kepatuhan komprehensif termasuk persyaratan CE dan REACH, data keselamatan material, laporan pengujian produk, dan catatan inspeksi kualitas. Ini memastikan produk SUP private label memenuhi standar regulasi untuk pasar Eropa, Amerika Utara, dan internasional lainnya.',
       },
       {
         question: 'Berapa kuantitas pesanan minimum yang biasanya diperlukan untuk manufaktur SUP kustom?',
         answer:
-          'Afarer mengakomodasi skala berbeda. Peluncuran produk baru dan pengujian pasar biasanya dimulai dari 500-2.000 unit. Pesanan ekspansi ritel berkisar 3.000-10.000 unit. Program ritel global besar dengan perjanjian suplai tahunan dapat menskalakan hingga puluhan ribu unit melintasi beberapa model.',
+          'OLagoon mengakomodasi skala berbeda. Peluncuran produk baru dan pengujian pasar biasanya dimulai dari 500-2.000 unit. Pesanan ekspansi ritel berkisar 3.000-10.000 unit. Program ritel global besar dengan perjanjian suplai tahunan dapat menskalakan hingga puluhan ribu unit melintasi beberapa model.',
       },
       {
         question: 'Berapa lama waktu untuk mengembangkan dan meluncurkan lini produk SUP private label?',
         answer:
-          'Linimasa tergantung pada kompleksitas kustomisasi. Proses ramping Afarer dari konsep produk hingga penyerahan siap-rak biasanya membutuhkan 8-16 minggu, termasuk perencanaan produk, persetujuan desain, pengembangan prototipe, dukungan sertifikasi, produksi, dan pengiriman. Perencanaan musiman direkomendasikan agar selaras dengan siklus permintaan musim semi/panas.',
+          'Linimasa tergantung pada kompleksitas kustomisasi. Proses ramping OLagoon dari konsep produk hingga penyerahan siap-rak biasanya membutuhkan 8-16 minggu, termasuk perencanaan produk, persetujuan desain, pengembangan prototipe, dukungan sertifikasi, produksi, dan pengiriman. Perencanaan musiman direkomendasikan agar selaras dengan siklus permintaan musim semi/panas.',
       },
       {
         question: 'Bisakah pengecer mengkustomisasi kemasan SUP agar sesuai identitas merek mereka?',
         answer:
-          'Ya, Afarer mendukung kustomisasi kemasan lengkap termasuk kotak bewarna bermerek, citra produk, sorotan fitur, dan pesan merek. Opsi kemasan tersedia untuk rak ritel fisik maupun platform e-commerce seperti Amazon dan Shopify, dengan panduan fotografi produk dan struktur informasi.',
+          'Ya, OLagoon mendukung kustomisasi kemasan lengkap termasuk kotak bewarna bermerek, citra produk, sorotan fitur, dan pesan merek. Opsi kemasan tersedia untuk rak ritel fisik maupun platform e-commerce seperti Amazon dan Shopify, dengan panduan fotografi produk dan struktur informasi.',
       },
       {
-        question: 'Dukungan apa yang Afarer berikan untuk perencanaan permintaan musiman?',
+        question: 'Dukungan apa yang OLagoon berikan untuk perencanaan permintaan musiman?',
         answer:
-          'Afarer membantu pengecer mengelola permintaan produk luar ruangan musiman melalui penjadwalan produksi terkoordinasi, waktu inventori, perencanaan gudang, dan penyelarasan kampanye promosi. Perjanjian suplai tahunan memungkinkan lead time dapat diprediksi dan kapasitas produksi terjamin selama musim puncak.',
+          'OLagoon membantu pengecer mengelola permintaan produk luar ruangan musiman melalui penjadwalan produksi terkoordinasi, waktu inventori, perencanaan gudang, dan penyelarasan kampanye promosi. Perjanjian suplai tahunan memungkinkan lead time dapat diprediksi dan kapasitas produksi terjamin selama musim puncak.',
       },
     ],
     cta: {
-      title: 'Bangun Koleksi SUP Private Label Anda Bersama Afarer',
+      title: 'Bangun Koleksi SUP Private Label Anda Bersama OLagoon',
       subtitle:
         'Pelanggan Anda sudah membeli produk luar ruangan. Sekarang ciptakan kategori olahraga air Anda sendiri.',
       primaryAction: {
@@ -3757,7 +3757,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pemasok Distributor SUP | Produsen Papan Dayung OEM Grosir | {SITE}',
       description:
-        'Afarer bermitra dengan distributor dan importir SUP global melalui manufaktur OEM grosir, solusi private label, dukungan pasar regional, dan manajemen rantai suplai yang andal.',
+        'OLagoon bermitra dengan distributor dan importir SUP global melalui manufaktur OEM grosir, solusi private label, dukungan pasar regional, dan manajemen rantai suplai yang andal.',
     },
     hero: {
       tagline: 'Mitra OEM & Rantai Suplai Regional™',
@@ -3798,49 +3798,49 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kapasitas Produksi OEM Skala Besar',
           description:
-            'Afarer mendukung pesanan volume menengah, pengiriman kontainer, dan perjanjian suplai tahunan melintasi tiga tahap kerja sama: pengujian pasar (1.000-3.000 pcs), ekspansi regional (5.000-10.000 pcs), dan skala distributor besar (10.000-20.000+ pcs).',
+            'OLagoon mendukung pesanan volume menengah, pengiriman kontainer, dan perjanjian suplai tahunan melintasi tiga tahap kerja sama: pengujian pasar (1.000-3.000 pcs), ekspansi regional (5.000-10.000 pcs), dan skala distributor besar (10.000-20.000+ pcs).',
           features: ['Tahap Pengujian Pasar', 'Tahap Ekspansi Regional', 'Tahap Distributor Besar'],
         },
         {
           title: 'Pengembangan Merek OEM Eksklusif',
           description:
-            'Afarer mendukung distributor yang ingin melampaui sekadar mengimpor dengan menciptakan merek private label dengan positioning kustom, pemilihan produk, desain grafis, kemasan, dan koleksi produk eksklusif.',
+            'OLagoon mendukung distributor yang ingin melampaui sekadar mengimpor dengan menciptakan merek private label dengan positioning kustom, pemilihan produk, desain grafis, kemasan, dan koleksi produk eksklusif.',
           features: ['Pengembangan Private Label', 'Koleksi Produk Eksklusif', 'Diferensiasi Kompetitif'],
         },
         {
           title: 'Program Perlindungan Pasar Regional',
           description:
-            'Bagi mitra yang memenuhi syarat, Afarer menawarkan kerja sama wilayah berdasarkan ukuran pasar dan komitmen, diferensiasi produk melalui grafis dan konfigurasi eksklusif, serta dukungan jaringan dealer.',
+            'Bagi mitra yang memenuhi syarat, OLagoon menawarkan kerja sama wilayah berdasarkan ukuran pasar dan komitmen, diferensiasi produk melalui grafis dan konfigurasi eksklusif, serta dukungan jaringan dealer.',
           features: ['Kerja Same Wilayah', 'Diferensiasi Produk', 'Dukungan Jaringan Dealer'],
         },
         {
           title: 'Perencanaan Portofolio Produk Lengkap',
           description:
-            'Afarer membantu distributor membangun kategori olahraga air penuh termasuk SUP all-round, SUP touring, SUP anak, SUP memancing, SUP yoga, aksesori, dan perlengkapan rekreasi air.',
+            'OLagoon membantu distributor membangun kategori olahraga air penuh termasuk SUP all-round, SUP touring, SUP anak, SUP memancing, SUP yoga, aksesori, dan perlengkapan rekreasi air.',
           features: ['Kategori Produk SUP', 'Ekspansi Produk Tambahan', 'Aksesori'],
         },
         {
           title: 'Dukungan Optimasi Logistik',
           description:
-            'Afarer mendukung optimasi muatan kontainer untuk memaksimalkan efisiensi pengiriman dan ekonomi impor, perencanaan campuran produk yang menggabungkan model laris dengan item premium, dan koordinasi dokumentasi ekspor.',
+            'OLagoon mendukung optimasi muatan kontainer untuk memaksimalkan efisiensi pengiriman dan ekonomi impor, perencanaan campuran produk yang menggabungkan model laris dengan item premium, dan koordinasi dokumentasi ekspor.',
           features: ['Optimasi Muatan Kontainer', 'Perencanaan Campuran Produk', 'Dukungan Dokumentasi Ekspor'],
         },
         {
           title: 'Kontrol Kualitas Untuk Pasar Internasional',
           description:
-            'Manajemen kualitas Afarer mencakup inspeksi material PVC dan material drop stitch, pemantauan produksi atas proses manufaktur, dan inspeksi pengiriman akhir atas tampilan, aksesori, kemasan, dan kuantitas.',
+            'Manajemen kualitas OLagoon mencakup inspeksi material PVC dan material drop stitch, pemantauan produksi atas proses manufaktur, dan inspeksi pengiriman akhir atas tampilan, aksesori, kemasan, dan kuantitas.',
           features: ['Inspeksi Material', 'Pemantauan Produksi', 'Inspeksi Pengiriman Akhir'],
         },
         {
           title: 'Dukungan Penjualan Distributor',
           description:
-            'Afarer mendukung mitra dengan spesifikasi produk dan informasi teknis, material pemasaran termasuk visual produk dan gaya hidup, serta pelatihan produk tentang keunggulan, aplikasi, dan positioning penjualan.',
+            'OLagoon mendukung mitra dengan spesifikasi produk dan informasi teknis, material pemasaran termasuk visual produk dan gaya hidup, serta pelatihan produk tentang keunggulan, aplikasi, dan positioning penjualan.',
           features: ['Informasi Produk', 'Material Pemasaran', 'Pelatihan Produk'],
         },
         {
           title: 'Kemitraan Suplai Jangka Panjang',
           description:
-            'Afarer berfokus pada hubungan melampaui pesanan tunggal, menawarkan basis manufaktur stabil, pengembangan produk berkelanjutan, dan dukungan pertumbuhan bisnis dari importir menjadi distributor hingga pemilik merek regional.',
+            'OLagoon berfokus pada hubungan melampaui pesanan tunggal, menawarkan basis manufaktur stabil, pengembangan produk berkelanjutan, dan dukungan pertumbuhan bisnis dari importir menjadi distributor hingga pemilik merek regional.',
           features: ['Basis Manufaktur Stabil', 'Pengembangan Produk Berkelanjutan', 'Dukungan Pertumbuhan Bisnis'],
         },
       ],
@@ -3857,7 +3857,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Analisis Pasar Regional',
           detail:
-            'Afarer membantu mengidentifikasi permintaan SUP pemula, peluang pasar rekreasi keluarga, dan aplikasi pariwisata khusus untuk kawasan Timur Tengah.',
+            'OLagoon membantu mengidentifikasi permintaan SUP pemula, peluang pasar rekreasi keluarga, dan aplikasi pariwisata khusus untuk kawasan Timur Tengah.',
         },
         {
           title: 'Pengembangan Portofolio Produk',
@@ -3888,28 +3888,28 @@ const id: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Australia',
             background:
               'PaddleHub Australia adalah importir kecil yang dijalankan pendiri James Whitfield, mantan peselancar kompetitif yang telah mendistribusikan papan SUP generik Tiongkok ke 45 toko selancar lokal selama 3 tahun dengan pendapatan tahunan sekitar AU$1,8 juta. Ia menghadapi margin yang tergerus saat pesaing menekan harga dan pemasok menolak menawarkan eksklusivitas. James menyadari ia membutuhkan merek propietari unik dengan perlindungan teritorial untuk membangun nilai jangka panjang. Ia memiliki modal AU$350 ribu dan gudang di Burleigh Heads tetapi membutuhkan mitra manufaktur yang dapat menghadirkan papan berkualitas OEM dengan fitur desain khusus Australia dan eksklusivitas regional untuk Oseania.',
-            goal: 'Menciptakan merek SUP propietari dengan 12 model unik, menandatangani 200+ akun dealer Australia dan NZ dalam 18 bulan, mencapai pendapatan grosir tahunan AU$6 juta, dan mengamankan hak distribusi eksklusif Oseania dari Afarer.',
+            goal: 'Menciptakan merek SUP propietari dengan 12 model unik, menandatangani 200+ akun dealer Australia dan NZ dalam 18 bulan, mencapai pendapatan grosir tahunan AU$6 juta, dan mengamankan hak distribusi eksklusif Oseania dari OLagoon.',
           },
           steps: [
             {
               title: 'Negosiasi Kemitraan Strategis & Perjanjian Wilayah Eksklusif',
               detail:
-                "Pada Februari 2024, James mempresentasikan kasus bisnisnya kepada VP Kemitraan Global Afarer dalam pertemuan 3 hari di fasilitas Afarer di Shenzhen. Afarer melakukan studi kelayakan pasar yang menunjukkan Australia memiliki 340+ toko selancar, 180+ pengecer olahraga air, dan 60+ dealer kelautan yang dapat menjual SUP tetapi hanya 23% yang saat ini menawarkan kategori tersebut. Afarer memberikan PaddleHub hak distribusi eksklusif Oseania untuk keluarga platform 'WaveGlide' dan 'Expedition', dengan syarat pembelian tahunan minimum AU$2,5 juta. James berkomitmen pada MOQ awal AU$800 ribu dan menyetujui milestone pengembangan wilayah Afarer termasuk target jumlah dealer eksklusif.",
+                "Pada Februari 2024, James mempresentasikan kasus bisnisnya kepada VP Kemitraan Global OLagoon dalam pertemuan 3 hari di fasilitas OLagoon di Shenzhen. OLagoon melakukan studi kelayakan pasar yang menunjukkan Australia memiliki 340+ toko selancar, 180+ pengecer olahraga air, dan 60+ dealer kelautan yang dapat menjual SUP tetapi hanya 23% yang saat ini menawarkan kategori tersebut. OLagoon memberikan PaddleHub hak distribusi eksklusif Oseania untuk keluarga platform 'WaveGlide' dan 'Expedition', dengan syarat pembelian tahunan minimum AU$2,5 juta. James berkomitmen pada MOQ awal AU$800 ribu dan menyetujui milestone pengembangan wilayah OLagoon termasuk target jumlah dealer eksklusif.",
             },
             {
               title: 'Pengembangan Platform Produk Kustom & Adaptasi Australia',
               detail:
-                'Tim R&D Afarer menghabiskan 6 minggu mengembangkan lini 12 model PaddleHub termasuk 5 papan all-around, 3 papan touring, 2 papan balap, 1 papan memancing, dan 1 papan pemuda. Setiap model menonjolkan modifikasi khusus Australia: PVC distabilkan-UV untuk matahari intens Queensland, rel diperkuat untuk peluncuran berbatu Great Barrier Reef, dan paket grafis kustom dengan pola terinspirasi dot-art Aborigin. Afarer memproduksi 300 unit pra-produksi di seluruh 12 model yang didistribusikan James ke 50 penguji beta termasuk pemilik toko selancar, instruktur dayung, dan pemandu memancing yang memberikan umpan balik detail yang menghasilkan 23 penyempurnaan desain.',
+                'Tim R&D OLagoon menghabiskan 6 minggu mengembangkan lini 12 model PaddleHub termasuk 5 papan all-around, 3 papan touring, 2 papan balap, 1 papan memancing, dan 1 papan pemuda. Setiap model menonjolkan modifikasi khusus Australia: PVC distabilkan-UV untuk matahari intens Queensland, rel diperkuat untuk peluncuran berbatu Great Barrier Reef, dan paket grafis kustom dengan pola terinspirasi dot-art Aborigin. OLagoon memproduksi 300 unit pra-produksi di seluruh 12 model yang didistribusikan James ke 50 penguji beta termasuk pemilik toko selancar, instruktur dayung, dan pemandu memancing yang memberikan umpan balik detail yang menghasilkan 23 penyempurnaan desain.',
             },
             {
               title: 'Rekrutmen Jaringan Dealer & Pengembangan Saluran',
               detail:
-                "James dan tim penjualan 3 orangnya meluncurkan program 'Dealer Pro' yang menawarkan harga berjenjang, tenor 60 hari 0% untuk akun baru, stan display gratis, dan pelatihan staf. Afarer menyediakan sistem CRM bersama, katalog produk, panduan perbandingan, dan situs web pelacak dealer. Dengan menghadiri Sydney International Boat Show dan 7 expo memancing/luar ruangan regional, James menandatangani 97 dealer dalam 6 bulan pertama termasuk akun besar seperti Anaconda (42 toko), BCF (35 toko), dan 20 toko selancar independen. Tim logistik Afarer membangun gudang konsolidasi berbasis Sydney dengan jaminan pengiriman 14 hari.",
+                "James dan tim penjualan 3 orangnya meluncurkan program 'Dealer Pro' yang menawarkan harga berjenjang, tenor 60 hari 0% untuk akun baru, stan display gratis, dan pelatihan staf. OLagoon menyediakan sistem CRM bersama, katalog produk, panduan perbandingan, dan situs web pelacak dealer. Dengan menghadiri Sydney International Boat Show dan 7 expo memancing/luar ruangan regional, James menandatangani 97 dealer dalam 6 bulan pertama termasuk akun besar seperti Anaconda (42 toko), BCF (35 toko), dan 20 toko selancar independen. Tim logistik OLagoon membangun gudang konsolidasi berbasis Sydney dengan jaminan pengiriman 14 hari.",
             },
             {
               title: 'Peluncuran Merek, Dukungan Pemasaran & Akselerasi Pertumbuhan',
               detail:
-                'PaddleHub resmi diluncurkan dengan kampanye AU$250 ribu yang menampilkan mantan juara SUP Australia Jessica Krieger sebagai duta merek. Afarer berkontribusi dana pemasaran co-op setara 4% dari pembelian grosir dan memproduksi 24 video produk, fotografi produk 360 derajat, dan aset media sosial. Pada Agustus 2025, PaddleHub memiliki 215 akun dealer aktif, pendapatan grosir AU$5,8 juta dalam 12 bulan terakhir, dan telah melakukan 3 pesanan produksi tambahan dengan total AU$3,2 juta. James memperluas timnya menjadi 12 karyawan termasuk manajer produk penuh waktu, dan PaddleHub menjadi merek SUP terbesar kedua di pasar Australia berdasarkan jumlah pintu.',
+                'PaddleHub resmi diluncurkan dengan kampanye AU$250 ribu yang menampilkan mantan juara SUP Australia Jessica Krieger sebagai duta merek. OLagoon berkontribusi dana pemasaran co-op setara 4% dari pembelian grosir dan memproduksi 24 video produk, fotografi produk 360 derajat, dan aset media sosial. Pada Agustus 2025, PaddleHub memiliki 215 akun dealer aktif, pendapatan grosir AU$5,8 juta dalam 12 bulan terakhir, dan telah melakukan 3 pesanan produksi tambahan dengan total AU$3,2 juta. James memperluas timnya menjadi 12 karyawan termasuk manajer produk penuh waktu, dan PaddleHub menjadi merek SUP terbesar kedua di pasar Australia berdasarkan jumlah pintu.',
             },
           ],
           results: [
@@ -3925,41 +3925,41 @@ const id: Record<string, SolutionOverride> = {
             location: 'Dubai, UAE',
             background:
               'Dune Sports DMCC, yang dipimpin wirausahawan Emirati Rashid Al Maktoum, adalah distributor olahraga air berbasis Dubai dengan pendapatan tahunan $2,3 juta yang memasok jet ski dan kayak ke dealer kelautan di seluruh GCC. Rashid mengidentifikasi SUP sebagai peluang yang belum digarap di Timur Tengah di mana pariwisata pantai, resor mewah, dan olahraga air sedang berkembang pesat. Kawasan itu tidak memiliki merek SUP dominan dan sebagian besar produk adalah impor berkualitas rendah yang dijual di Amazon tanpa layanan atau garansi. Rashid ingin menjadi mitra OEM regional eksklusif untuk merek SUP premium yang dapat mendominasi pasar Timur Tengah dengan investasi awal $1,2 juta.',
-            goal: 'Mengamankan hak distribusi eksklusif Timur Tengah dan Afrika Utara dari Afarer, meluncurkan merek regional premium di 8 negara, mencapai pendapatan grosir $5 juta dalam 24 bulan, dan merebut pangsa pasar 60%+ di segmen SUP premium GCC.',
+            goal: 'Mengamankan hak distribusi eksklusif Timur Tengah dan Afrika Utara dari OLagoon, meluncurkan merek regional premium di 8 negara, mencapai pendapatan grosir $5 juta dalam 24 bulan, dan merebut pangsa pasar 60%+ di segmen SUP premium GCC.',
           },
           steps: [
             {
               title: 'Analisis Pasar Regional & Perjanjian Kerangka Eksklusivitas',
               detail:
-                'Rashid memesan studi pasar 6 minggu di UAE, Arab Saudi, Qatar, Kuwait, Oman, Bahrain, Mesir, dan Yordania. Studi mengidentifikasi 280+ dealer potensial termasuk pengecer kelautan, departemen pengadaan hotel, dan toko olahraga khusus, dengan total pasar yang dapat digarap $18 juta per tahun. Pada April 2024, Rashid menandatangani perjanjian OEM eksklusif 5 tahun dengan Afarer yang mencakup 15 negara di MENA, berkomitmen pada pembelian tahunan minimum $3 juta dengan eskalasi 15% per tahun. Afarer setuju ikut berinvestasi $150 ribu dalam material pemasaran berbahasa Arab, kehadiran pameran dagang regional, dan gudang suku cadang berbasis Dubai.',
+                'Rashid memesan studi pasar 6 minggu di UAE, Arab Saudi, Qatar, Kuwait, Oman, Bahrain, Mesir, dan Yordania. Studi mengidentifikasi 280+ dealer potensial termasuk pengecer kelautan, departemen pengadaan hotel, dan toko olahraga khusus, dengan total pasar yang dapat digarap $18 juta per tahun. Pada April 2024, Rashid menandatangani perjanjian OEM eksklusif 5 tahun dengan OLagoon yang mencakup 15 negara di MENA, berkomitmen pada pembelian tahunan minimum $3 juta dengan eskalasi 15% per tahun. OLagoon setuju ikut berinvestasi $150 ribu dalam material pemasaran berbahasa Arab, kehadiran pameran dagang regional, dan gudang suku cadang berbasis Dubai.',
             },
             {
               title: 'Strategi Lini Produk & Rekayasa Teradaptasi-Gurun',
               detail:
-                "Insinyur Afarer mengembangkan merek 'Oryx' untuk Dune Sports dengan 8 model yang dioptimalkan untuk kondisi Timur Tengah: PVC tahan suhu tinggi (diuji hingga suhu permukaan 75°C), pigmen stabil-UV yang tidak memudar di bawah matahari Arab, dan sistem sirip tahan pasir dengan mekanisme quick-release. Afarer memproduksi 500 unit pra-peluncuran termasuk edisi khusus 'Royal Edition' dengan aksen emas dan pegangan kulit untuk segmen resor mewah. Tim Rashid menguji papan di Teluk Arab, Laut Merah, dan kolam ombak dalam ruangan, mencapai skor kualitas rata-rata 4,7/5 dari 200 penguji.",
+                "Insinyur OLagoon mengembangkan merek 'Oryx' untuk Dune Sports dengan 8 model yang dioptimalkan untuk kondisi Timur Tengah: PVC tahan suhu tinggi (diuji hingga suhu permukaan 75°C), pigmen stabil-UV yang tidak memudar di bawah matahari Arab, dan sistem sirip tahan pasir dengan mekanisme quick-release. OLagoon memproduksi 500 unit pra-peluncuran termasuk edisi khusus 'Royal Edition' dengan aksen emas dan pegangan kulit untuk segmen resor mewah. Tim Rashid menguji papan di Teluk Arab, Laut Merah, dan kolam ombak dalam ruangan, mencapai skor kualitas rata-rata 4,7/5 dari 200 penguji.",
             },
             {
               title: 'Pengembangan Saluran & Kemitraan Hotel/Resor',
               detail:
-                "Rashid membangun tim penjualan regional 5 orang yang berbasis di Dubai, Riyadh, dan Kairo. Tim pengembangan saluran Afarer menyediakan naskah rekrutmen dealer, dek presentasi, dan program dealer 3 tingkat (Platinum, Gold, Silver). Dune Sports mengamankan perjanjian distribusi eksklusif dengan 65 dealer kelautan dan kontrak pengadaan langsung dengan 22 jaringan hotel mewah termasuk Jumeirah, Four Seasons, dan St. Regis. Merek 'Oryx' ditetapkan sebagai perlengkapan standar untuk pengembangan resor Rixos dan Anantara baru di Ras Al Khaimah, Red Sea Project, dan Maladewa.",
+                "Rashid membangun tim penjualan regional 5 orang yang berbasis di Dubai, Riyadh, dan Kairo. Tim pengembangan saluran OLagoon menyediakan naskah rekrutmen dealer, dek presentasi, dan program dealer 3 tingkat (Platinum, Gold, Silver). Dune Sports mengamankan perjanjian distribusi eksklusif dengan 65 dealer kelautan dan kontrak pengadaan langsung dengan 22 jaringan hotel mewah termasuk Jumeirah, Four Seasons, dan St. Regis. Merek 'Oryx' ditetapkan sebagai perlengkapan standar untuk pengembangan resor Rixos dan Anantara baru di Ras Al Khaimah, Red Sea Project, dan Maladewa.",
             },
             {
               title: 'Peluncuran Regional, Kampanye Ramadan & Dominasi Pasar',
               detail:
-                "Merek 'Oryx' diluncurkan di seluruh 8 pasar pada Oktober 2024 dengan acara serentak di Dubai Marina Mall, Red Sea Mall Arab Saudi, dan Doha Festival City Qatar. Afarer mendukung dengan kampanye pemasaran $200 ribu termasuk iklan televisi Arab, kemitraan influencer dengan 15 petualang luar ruangan Timur Tengah, dan sponsor Dubai SUP Festival. Pada Maret 2025, Dune Sports telah menjual 8.400 unit, mencapai pendapatan grosir $4,7 juta, dan merebut 58% pasar SUP premium GCC. Rashid menggunakan opsi perpanjangan tahun pertamanya dengan Afarer untuk pembelian tahunan $4,5 juta.",
+                "Merek 'Oryx' diluncurkan di seluruh 8 pasar pada Oktober 2024 dengan acara serentak di Dubai Marina Mall, Red Sea Mall Arab Saudi, dan Doha Festival City Qatar. OLagoon mendukung dengan kampanye pemasaran $200 ribu termasuk iklan televisi Arab, kemitraan influencer dengan 15 petualang luar ruangan Timur Tengah, dan sponsor Dubai SUP Festival. Pada Maret 2025, Dune Sports telah menjual 8.400 unit, mencapai pendapatan grosir $4,7 juta, dan merebut 58% pasar SUP premium GCC. Rashid menggunakan opsi perpanjangan tahun pertamanya dengan OLagoon untuk pembelian tahunan $4,5 juta.",
             },
           ],
           results: [
             'Pendapatan grosir $4,7 juta dalam 12 bulan pertama di 8 negara, mencapai 94% target 24 bulan dalam separuh waktu',
             'Pangsa pasar 58% direbut di segmen SUP premium GCC (ritel $349-$799), mendominasi merek pesaing yang terfragmentasi',
             '22 kontrak pengadaan hotel/resor eksklusif diamankan, mewakili 3.100 unit terjual ke sektor perhotelan dengan tingkat pemesanan ulang 72%',
-            'Valuasi perusahaan Dune Sports tumbuh dari $2,3 juta menjadi $12 juta dalam 14 bulan, dengan Rashid berekspansi ke kategori olahraga air adjacent melalui platform OEM Afarer',
+            'Valuasi perusahaan Dune Sports tumbuh dari $2,3 juta menjadi $12 juta dalam 14 bulan, dengan Rashid berekspansi ke kategori olahraga air adjacent melalui platform OEM OLagoon',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Distributor Global Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Distributor Global Memilih OLagoon',
       items: [
         {
           title: 'Skala Manufaktur',
@@ -3995,38 +3995,38 @@ const id: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Apa yang membedakan Afarer dari produsen OEM SUP lainnya bagi distributor?',
+        question: 'Apa yang membedakan OLagoon dari produsen OEM SUP lainnya bagi distributor?',
         answer:
-          'Afarer menyediakan model kemitraan lengkap melampaui manufaktur, termasuk program perlindungan pasar regional, dukungan pengembangan merek eksklusif, optimasi logistik, dan pelatihan penjualan distributor. Kami berfokus pada hubungan jangka panjang yang membantu mitra tumbuh dari importir menjadi pemilik merek regional.',
+          'OLagoon menyediakan model kemitraan lengkap melampaui manufaktur, termasuk program perlindungan pasar regional, dukungan pengembangan merek eksklusif, optimasi logistik, dan pelatihan penjualan distributor. Kami berfokus pada hubungan jangka panjang yang membantu mitra tumbuh dari importir menjadi pemilik merek regional.',
       },
       {
         question: 'Bagaimana program perlindungan pasar regional bekerja untuk distributor eksklusif?',
         answer:
-          'Bagi mitra yang memenuhi syarat, Afarer menawarkan perjanjian kerja sama berbasis wilayah, diferensiasi produk melalui grafis dan konfigurasi eksklusif, serta dukungan jaringan dealer. Ini memastikan distributor dapat berinvestasi dalam pengembangan pasar dengan kepercayaan bahwa posisi regional mereka dilindungi.',
+          'Bagi mitra yang memenuhi syarat, OLagoon menawarkan perjanjian kerja sama berbasis wilayah, diferensiasi produk melalui grafis dan konfigurasi eksklusif, serta dukungan jaringan dealer. Ini memastikan distributor dapat berinvestasi dalam pengembangan pasar dengan kepercayaan bahwa posisi regional mereka dilindungi.',
       },
       {
         question: 'Berapa kuantitas pesanan tipikal untuk pengiriman SUP level kontainer?',
         answer:
-          'Afarer mendukung tiga tahap kerja sama: pengujian pasar (1.000-3.000 pcs), ekspansi regional (5.000-10.000 pcs), dan skala distributor besar (10.000-20.000+ pcs). Optimasi muatan kontainer membantu memaksimalkan efisiensi pengiriman dan mengurangi biaya impor per unit.',
+          'OLagoon mendukung tiga tahap kerja sama: pengujian pasar (1.000-3.000 pcs), ekspansi regional (5.000-10.000 pcs), dan skala distributor besar (10.000-20.000+ pcs). Optimasi muatan kontainer membantu memaksimalkan efisiensi pengiriman dan mengurangi biaya impor per unit.',
       },
       {
-        question: 'Bisakah distributor membuat merek SUP private label mereka sendiri dengan Afarer?',
+        question: 'Bisakah distributor membuat merek SUP private label mereka sendiri dengan OLagoon?',
         answer:
-          'Ya, Afarer mendukung pengembangan private label lengkap termasuk positioning merek, pemilihan produk, desain grafis kustom, kustomisasi kemasan, dan koleksi produk eksklusif. Ini memungkinkan distributor membangun merek regional daripada bersaing semata pada harga.',
+          'Ya, OLagoon mendukung pengembangan private label lengkap termasuk positioning merek, pemilihan produk, desain grafis kustom, kustomisasi kemasan, dan koleksi produk eksklusif. Ini memungkinkan distributor membangun merek regional daripada bersaing semata pada harga.',
       },
       {
-        question: 'Bagaimana Afarer membantu optimasi logistik dan pengurangan biaya impor?',
+        question: 'Bagaimana OLagoon membantu optimasi logistik dan pengurangan biaya impor?',
         answer:
-          'Afarer menyediakan optimasi muatan kontainer untuk memaksimalkan efisiensi pengiriman, perencanaan campuran produk yang menggabungkan model laris dengan item premium, dan dukungan dokumentasi ekspor komprehensif untuk memperlancar bea cukai dan mengurangi keterlambatan.',
+          'OLagoon menyediakan optimasi muatan kontainer untuk memaksimalkan efisiensi pengiriman, perencanaan campuran produk yang menggabungkan model laris dengan item premium, dan dukungan dokumentasi ekspor komprehensif untuk memperlancar bea cukai dan mengurangi keterlambatan.',
       },
       {
         question: 'Proses kontrol kualitas apa yang ada untuk pengiriman internasional?',
         answer:
-          'Afarer menerapkan manajemen kualitas tiga tahap: inspeksi material komponen PVC dan drop stitch, pemantauan produksi dalam proses, dan inspeksi pra-pengiriman akhir yang mencakup tampilan, aksesori, kemasan, dan akurasi kuantitas.',
+          'OLagoon menerapkan manajemen kualitas tiga tahap: inspeksi material komponen PVC dan drop stitch, pemantauan produksi dalam proses, dan inspeksi pra-pengiriman akhir yang mencakup tampilan, aksesori, kemasan, dan akurasi kuantitas.',
       },
     ],
     cta: {
-      title: 'Jadi Mitra Regional Afarer',
+      title: 'Jadi Mitra Regional OLagoon',
       subtitle: 'Pasar Anda berhak mendapatkan mitra suplai olahraga air yang andal.',
       primaryAction: {
         text: 'Mulai Kemitraan OEM Regional Anda Hari Ini',
@@ -4041,7 +4041,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Papan SUP Bermerek Kustom Untuk Acara Korporat | Solusi Acara OEM | {SITE}',
       description:
-        'Afarer menciptakan papan SUP bermerek kustom untuk acara korporat, aktivitas team building, dan kampanye pemasaran. Kustomisasi logo penuh, pencocokan warna korporat, prototyping cepat, dan produksi OEM grosir.',
+        'OLagoon menciptakan papan SUP bermerek kustom untuk acara korporat, aktivitas team building, dan kampanye pemasaran. Kustomisasi logo penuh, pencocokan warna korporat, prototyping cepat, dan produksi OEM grosir.',
     },
     hero: {
       tagline: 'Paket Acara SUP Korporat™',
@@ -4082,25 +4082,25 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kustomisasi Pencitraan Merek Korporat Penuh',
           description:
-            'Afarer mendukung pencetakan logo area besar, pencitraan merek pada permukaan papan, kustomisasi dayung, dan pencitraan merek aksesori dengan pencocokan warna korporat menggunakan referensi Pantone dan persyaratan identitas visual.',
+            'OLagoon mendukung pencetakan logo area besar, pencitraan merek pada permukaan papan, kustomisasi dayung, dan pencitraan merek aksesori dengan pencocokan warna korporat menggunakan referensi Pantone dan persyaratan identitas visual.',
           features: ['Aplikasi Logo Korporat', 'Pencocokan Warna Korporat', 'Desain Grafis Kustom'],
         },
         {
           title: 'Pengembangan Produk SUP Spesifik-Acara',
           description:
-            'Acara berbeda membutuhkan solusi berbeda. Afarer menawarkan paket team building untuk kelompok karyawan besar, paket aktivasi merek untuk kampanye pemasaran, dan paket pengalaman VIP untuk acara pelanggan mewah.',
+            'Acara berbeda membutuhkan solusi berbeda. OLagoon menawarkan paket team building untuk kelompok karyawan besar, paket aktivasi merek untuk kampanye pemasaran, dan paket pengalaman VIP untuk acara pelanggan mewah.',
           features: ['Paket Team Building', 'Paket Aktivasi Merek', 'Paket Pengalaman VIP'],
         },
         {
           title: 'Proses Prototipe & Persetujuan Cepat',
           description:
-            'Afarer mendukung konfirmasi desain cepat dengan peninjauan artwork dan penyesuaian grafis, pengembangan prototipe untuk konfirmasi warna dan penempatan logo, serta penjadwalan produksi selaras dengan tenggat acara.',
+            'OLagoon mendukung konfirmasi desain cepat dengan peninjauan artwork dan penyesuaian grafis, pengembangan prototipe untuk konfirmasi warna dan penempatan logo, serta penjadwalan produksi selaras dengan tenggat acara.',
           features: ['Konfirmasi Desain Cepat', 'Pengembangan Prototipe', 'Penjadwalan Produksi'],
         },
         {
           title: 'Kapasitas Produksi Kustom Grosir',
           description:
-            'Afarer mendukung pesanan korporat dari acara kecil 50-100 pcs untuk aktivitas internal, proyek pemasaran menengah 100-500 pcs untuk aktivasi merek, dan kampanye korporat besar 500-1.000+ pcs untuk acara nasional.',
+            'OLagoon mendukung pesanan korporat dari acara kecil 50-100 pcs untuk aktivitas internal, proyek pemasaran menengah 100-500 pcs untuk aktivasi merek, dan kampanye korporat besar 500-1.000+ pcs untuk acara nasional.',
           features: [
             'Acara Korporat Kecil (50-100 pcs)',
             'Proyek Pemasaran Menengah (100-500 pcs)',
@@ -4110,7 +4110,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Paket Perlengkapan Acara Lengkap',
           description:
-            'Afarer menyediakan solusi acara lengkap termasuk papan SUP kustom, dayung dapat disesuaikan, pompa, tali keselamatan, tas jinjing, kit perbaikan, serta dayung bermerek opsional, aksesori acara, dan material display.',
+            'OLagoon menyediakan solusi acara lengkap termasuk papan SUP kustom, dayung dapat disesuaikan, pompa, tali keselamatan, tas jinjing, kit perbaikan, serta dayung bermerek opsional, aksesori acara, dan material display.',
           features: ['Paket Standar Termasuk', 'Kustomisasi Opsional', 'Perlengkapan Staf'],
         },
         {
@@ -4122,13 +4122,13 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Kontrol Kualitas Untuk Proyek Merek',
           description:
-            'Afarer menyediakan inspeksi kualitas produksi untuk material dan pencetakan, kontrol akurasi pencitraan merek untuk posisi logo dan konsistensi warna, serta inspeksi pengiriman untuk kuantitas, kemasan, dan aksesori.',
+            'OLagoon menyediakan inspeksi kualitas produksi untuk material dan pencetakan, kontrol akurasi pencitraan merek untuk posisi logo dan konsistensi warna, serta inspeksi pengiriman untuk kuantitas, kemasan, dan aksesori.',
           features: ['Inspeksi Kualitas Produksi', 'Kontrol Akurasi Pencitraan Merek', 'Inspeksi Pengiriman'],
         },
         {
           title: 'Dukungan Pengiriman Acara Global',
           description:
-            'Bagi perusahaan multinasional, Afarer mendukung proyek multi-negara, acara regional, dan kampanye global dengan produksi terkoordinasi, kemasan, dan persiapan pengiriman melintasi lokasi.',
+            'Bagi perusahaan multinasional, OLagoon mendukung proyek multi-negara, acara regional, dan kampanye global dengan produksi terkoordinasi, kemasan, dan persiapan pengiriman melintasi lokasi.',
           features: ['Proyek Multi-Negara', 'Acara Regional', 'Kampanye Global'],
         },
       ],
@@ -4146,7 +4146,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Integrasi Desain Merek',
           detail:
-            'Afarer mengembangkan grafis papan kustom dengan pencocokan warna merek yang presisi dan penempatan logo besar untuk memaksimalkan dampak visual di air.',
+            'OLagoon mengembangkan grafis papan kustom dengan pencocokan warna merek yang presisi dan penempatan logo besar untuk memaksimalkan dampak visual di air.',
         },
         {
           title: 'Persetujuan Prototipe',
@@ -4183,17 +4183,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Konsep Program & Rekayasa Produk Kustom',
               detail:
-                "Pada November 2024, tim Klaus bertemu dengan divisi Acara Korporat Afarer di pameran kapal boot Düsseldorf untuk meninjau konsep. Afarer mengusulkan papan touring 11'6'' kustom dengan warna i-series BMW (Blue Ridge Mountain Metallic, Frozen Pure Grey) dan aksen serat karbon tenunan yang cocok dengan trim interior i7. Insinyur Afarer membuat 3 papan prototipe dengan dudukan GoPro terintegrasi untuk fotografi aksi, pad dek anti-slip dengan jahitan terinspirasi BMW M, dan tutup valve kustom dengan roundel BMW. BMW menyetujui 120 unit seharga €895 per papan dengan sistem penyimpanan dan transportasi khusus menggunakan gerobak beroda kustom.",
+                "Pada November 2024, tim Klaus bertemu dengan divisi Acara Korporat OLagoon di pameran kapal boot Düsseldorf untuk meninjau konsep. OLagoon mengusulkan papan touring 11'6'' kustom dengan warna i-series BMW (Blue Ridge Mountain Metallic, Frozen Pure Grey) dan aksen serat karbon tenunan yang cocok dengan trim interior i7. Insinyur OLagoon membuat 3 papan prototipe dengan dudukan GoPro terintegrasi untuk fotografi aksi, pad dek anti-slip dengan jahitan terinspirasi BMW M, dan tutup valve kustom dengan roundel BMW. BMW menyetujui 120 unit seharga €895 per papan dengan sistem penyimpanan dan transportasi khusus menggunakan gerobak beroda kustom.",
             },
             {
               title: 'Integrasi Merek & Perencanaan Logistik Acara',
               detail:
-                'Tim grafis Afarer mengembangkan decal full-wrap stabil-UV dengan pencitraan merek BMW i, kode QR tertaut ke konfigurator BMW i, dan grafis instruksi keselamatan dalam 8 bahasa. Tim logistik merancang sistem rotasi yang mengirim 40 papan ke masing-masing dari 3 kawasan (Eropa Selatan, Eropa Tengah, Nordik/Baltik) dengan stasiun pompa mobile, penggepa bertenaga baterai, dan ruang ganti tahan air. Tim acara BMW memilih 18 venue termasuk Danau Como (Italia), St. Tropez (Prancis), Danau Lucerne (Swiss), Danau Garda (Italia), dan kepulauan dekat Stockholm (Swedia), masing-masing menjadi tuan rumah 300-600 tamu selama program 2-3 hari.',
+                'Tim grafis OLagoon mengembangkan decal full-wrap stabil-UV dengan pencitraan merek BMW i, kode QR tertaut ke konfigurator BMW i, dan grafis instruksi keselamatan dalam 8 bahasa. Tim logistik merancang sistem rotasi yang mengirim 40 papan ke masing-masing dari 3 kawasan (Eropa Selatan, Eropa Tengah, Nordik/Baltik) dengan stasiun pompa mobile, penggepa bertenaga baterai, dan ruang ganti tahan air. Tim acara BMW memilih 18 venue termasuk Danau Como (Italia), St. Tropez (Prancis), Danau Lucerne (Swiss), Danau Garda (Italia), dan kepulauan dekat Stockholm (Swedia), masing-masing menjadi tuan rumah 300-600 tamu selama program 2-3 hari.',
             },
             {
               title: 'Aktivasi Di Lokasi & Desain Pengalaman Tamu',
               detail:
-                "Setiap acara menampilkan 'BMW i Paddle Experience' dengan 40 papan tersedia dalam sesi berpemandu 90 menit yang dipimpin instruktur terlatih Afarer. Tamu menerima rash guard bermerek BMW i personal dan pouch ponsel tahan air. Fotografer profesional mengambil gambar setiap tamu saat mendayung dengan dudukan kamera terintegrasi papan; gambar diedit dan diserahkan dalam 2 jam melalui microsite bermerek. Aktivasi dipasangkan dengan test drive BMW i7 di jalan pesisir pemandangan indah, menciptakan imersi merek darat-dan-air. Selama 10 acara pertama, kepuasan tamu mencapai 4,8/5 dan BMW melaporkan 23% peserta meminta test drive lanjutan di dealer.",
+                "Setiap acara menampilkan 'BMW i Paddle Experience' dengan 40 papan tersedia dalam sesi berpemandu 90 menit yang dipimpin instruktur terlatih OLagoon. Tamu menerima rash guard bermerek BMW i personal dan pouch ponsel tahan air. Fotografer profesional mengambil gambar setiap tamu saat mendayung dengan dudukan kamera terintegrasi papan; gambar diedit dan diserahkan dalam 2 jam melalui microsite bermerek. Aktivasi dipasangkan dengan test drive BMW i7 di jalan pesisir pemandangan indah, menciptakan imersi merek darat-dan-air. Selama 10 acara pertama, kepuasan tamu mencapai 4,8/5 dan BMW melaporkan 23% peserta meminta test drive lanjutan di dealer.",
             },
             {
               title: 'Tinjauan Kinerja & Ekspansi Program',
@@ -4220,17 +4220,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Desain Program & Perencanaan Logistik Multi-Lokasi',
               detail:
-                "Tim Dr. Sharma melibatkan Afarer pada Februari 2025 untuk program korporat kustom. Afarer mengusulkan tema 'Paddle into Production' di mana tim berisi 8-10 insinyur menavigasi kursus SUP yang merepresentasikan tahap pipeline deployment Google Cloud. Afarer mengkustomisasi 80 papan dengan pencitraan merek Google Cloud, pengkodean warna tim, dan dek teknis tahan air untuk memegang perangkat mobile. Rencana logistik mencakup 6 lokasi: HQ Sunnyvale, Seattle, New York, Austin, Chicago, dan Boulder, dengan acara selang 2 minggu dari Juni hingga Agustus 2025. Afarer berkomitmen €320 ribu untuk 80 papan, 24 instruktur, logistik penuh, dan perlengkapan bermerek untuk 1.200 peserta.",
+                "Tim Dr. Sharma melibatkan OLagoon pada Februari 2025 untuk program korporat kustom. OLagoon mengusulkan tema 'Paddle into Production' di mana tim berisi 8-10 insinyur menavigasi kursus SUP yang merepresentasikan tahap pipeline deployment Google Cloud. OLagoon mengkustomisasi 80 papan dengan pencitraan merek Google Cloud, pengkodean warna tim, dan dek teknis tahan air untuk memegang perangkat mobile. Rencana logistik mencakup 6 lokasi: HQ Sunnyvale, Seattle, New York, Austin, Chicago, dan Boulder, dengan acara selang 2 minggu dari Juni hingga Agustus 2025. OLagoon berkomitmen €320 ribu untuk 80 papan, 24 instruktur, logistik penuh, dan perlengkapan bermerek untuk 1.200 peserta.",
             },
             {
               title: 'Pengembangan Aktivitas Inklusif & Kerangka Keselamatan',
               detail:
-                "Tim pemrograman Afarer membuat 3 jalur keterampilan: 'Beginner Buoy' (dayung dasar dan permainan stabilitas), 'Production Racer' (balap estafet tim), dan 'Cloud Cluster' (tantangan formasi kelompok yang membutuhkan koordinasi). Setiap jalur mencakup tantangan bertema Google Cloud seperti 'deploy a container' (menyeimbangkan bola di atas papan sambil mendayung) dan 'scale to zero' (semua orang harus duduk secara serentak). Afarer merekrut 24 instruktur SUP tersertifikasi di semua lokasi dan mengembangkan protokol keselamatan komprehensif termasuk rompi pelampung wajib, sistem buddy, tes berenang, dan pengintai di air dengan papan penyelamat.",
+                "Tim pemrograman OLagoon membuat 3 jalur keterampilan: 'Beginner Buoy' (dayung dasar dan permainan stabilitas), 'Production Racer' (balap estafet tim), dan 'Cloud Cluster' (tantangan formasi kelompok yang membutuhkan koordinasi). Setiap jalur mencakup tantangan bertema Google Cloud seperti 'deploy a container' (menyeimbangkan bola di atas papan sambil mendayung) dan 'scale to zero' (semua orang harus duduk secara serentak). OLagoon merekrut 24 instruktur SUP tersertifikasi di semua lokasi dan mengembangkan protokol keselamatan komprehensif termasuk rompi pelampung wajib, sistem buddy, tes berenang, dan pengintai di air dengan papan penyelamat.",
             },
             {
               title: 'Onboarding, Swag Bermerek & Eksekusi Acara',
               detail:
-                "Setiap peserta menerima kit sambutan bermerek termasuk rash guard Google Cloud x Afarer, lip balm SPF, dry bag, dan buklet acara. Sesi 2 jam mencakup 30 menit instruksi di darat, 75 menit aktivitas di air, dan 15 menit pendinginan dengan foto tim menggunakan drone. Tim acara Afarer menangani semua penyiapan, pembongkaran, dan pembersihan di setiap venue — karyawan Google hanya perlu hadir. Acara pertama di Shoreline Lake, Mountain View pada 12 Juni 2025 mencapai kehadiran 97% dengan tim bersaing memperebutkan penghargaan 'Highest Availability' berdasarkan koordinasi dan kecepatan.",
+                "Setiap peserta menerima kit sambutan bermerek termasuk rash guard Google Cloud x OLagoon, lip balm SPF, dry bag, dan buklet acara. Sesi 2 jam mencakup 30 menit instruksi di darat, 75 menit aktivitas di air, dan 15 menit pendinginan dengan foto tim menggunakan drone. Tim acara OLagoon menangani semua penyiapan, pembongkaran, dan pembersihan di setiap venue — karyawan Google hanya perlu hadir. Acara pertama di Shoreline Lake, Mountain View pada 12 Juni 2025 mencapai kehadiran 97% dengan tim bersaing memperebutkan penghargaan 'Highest Availability' berdasarkan koordinasi dan kecepatan.",
             },
             {
               title: 'Analisis Hasil & Ekspansi Tahun Kedua',
@@ -4247,8 +4247,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Perusahaan Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Perusahaan Memilih OLagoon',
       items: [
         {
           title: 'Penyajian Merek',
@@ -4258,7 +4258,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Eksekusi Proyek Cepat',
           description:
-            'Tenggat penting. Proses ramping Afarer bergerak dari konsep hingga penyerahan dalam jadwal acara yang ketat.',
+            'Tenggat penting. Proses ramping OLagoon bergerak dari konsep hingga penyerahan dalam jadwal acara yang ketat.',
         },
         {
           title: 'Manufaktur Kustom',
@@ -4268,7 +4268,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengiriman Andal',
           description:
-            'Acara tidak bisa menunggu. Afarer menjamin penjadwalan produksi dan koordinasi pengiriman untuk memenuhi tanggal acara tetap.',
+            'Acara tidak bisa menunggu. OLagoon menjamin penjadwalan produksi dan koordinasi pengiriman untuk memenuhi tanggal acara tetap.',
         },
         {
           title: 'Dampak Visual',
@@ -4286,36 +4286,36 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah Anda mencocokkan warna merek korporat persis (Pantone) pada papan SUP?',
         answer:
-          'Ya, Afarer mendukung pencocokan warna Pantone dan persyaratan identitas visual korporat dengan reproduksi warna presisi. Kami menyediakan sampel prototipe untuk persetujuan warna sebelum produksi massal untuk memastikan produk akhir cocok dengan standar merek Anda secara persis.',
+          'Ya, OLagoon mendukung pencocokan warna Pantone dan persyaratan identitas visual korporat dengan reproduksi warna presisi. Kami menyediakan sampel prototipe untuk persetujuan warna sebelum produksi massal untuk memastikan produk akhir cocok dengan standar merek Anda secara persis.',
       },
       {
         question: 'Berapa kuantitas pesanan minimum untuk papan SUP bermerek kustom?',
         answer:
-          'Afarer mengakomodasi skala proyek berbeda. Acara korporat kecil dan aktivitas internal dimulai dari 50-100 unit. Kampanye pemasaran menengah berkisar 100-500 unit, dan acara nasional besar atau multi-lokasi dapat menskalakan hingga 500-1.000+ unit.',
+          'OLagoon mengakomodasi skala proyek berbeda. Acara korporat kecil dan aktivitas internal dimulai dari 50-100 unit. Kampanye pemasaran menengah berkisar 100-500 unit, dan acara nasional besar atau multi-lokasi dapat menskalakan hingga 500-1.000+ unit.',
       },
       {
         question: 'Berapa lama proses prototyping dan persetujuan?',
         answer:
-          'Proses prototyping dirancang untuk kecepatan. Afarer menyediakan konfirmasi desain cepat, peninjauan artwork, dan pengembangan prototipe biasanya dalam 1-2 minggu. Ini memberikan waktu cukup untuk persetujuan dan produksi massal sebelum tenggat acara.',
+          'Proses prototyping dirancang untuk kecepatan. OLagoon menyediakan konfirmasi desain cepat, peninjauan artwork, dan pengembangan prototipe biasanya dalam 1-2 minggu. Ini memberikan waktu cukup untuk persetujuan dan produksi massal sebelum tenggat acara.',
       },
       {
         question: 'Bisakah Anda mengirim ke beberapa lokasi untuk acara kampanye global?',
         answer:
-          'Ya, Afarer mendukung kampanye acara multi-negara dan multi-lokasi. Kami mengoordinasikan produksi, kemasan, dan persiapan pengiriman untuk memastikan penyerahan konsisten di semua lokasi acara regional atau global.',
+          'Ya, OLagoon mendukung kampanye acara multi-negara dan multi-lokasi. Kami mengoordinasikan produksi, kemasan, dan persiapan pengiriman untuk memastikan penyerahan konsisten di semua lokasi acara regional atau global.',
       },
       {
         question: 'Opsi kustomisasi apa yang tersedia selain pencetakan logo?',
         answer:
-          'Selain pencetakan logo, Afarer menawarkan pencitraan merek permukaan papan penuh, kustomisasi dayung, pencocokan warna korporat dengan referensi Pantone, desain grafis bertema acara, artwork edisi terbatas, dan aksesori bermerek termasuk dayung, pompa, dan tas.',
+          'Selain pencetakan logo, OLagoon menawarkan pencitraan merek permukaan papan penuh, kustomisasi dayung, pencocokan warna korporat dengan referensi Pantone, desain grafis bertema acara, artwork edisi terbatas, dan aksesori bermerek termasuk dayung, pompa, dan tas.',
       },
       {
         question: 'Apakah Anda menawarkan paket acara lengkap termasuk aksesori dan dayung?',
         answer:
-          'Ya, Afarer menyediakan paket perlengkapan acara lengkap termasuk papan SUP kustom, dayung dapat disesuaikan, pompa, tali keselamatan, tas jinjing, dan kit perbaikan. Tambahan opsional termasuk dayung bermerek, aksesori acara, material display, dan perlengkapan staf.',
+          'Ya, OLagoon menyediakan paket perlengkapan acara lengkap termasuk papan SUP kustom, dayung dapat disesuaikan, pompa, tali keselamatan, tas jinjing, dan kit perbaikan. Tambahan opsional termasuk dayung bermerek, aksesori acara, material display, dan perlengkapan staf.',
       },
     ],
     cta: {
-      title: 'Ciptakan Pengalaman Air Korporat Anda Bersama Afarer',
+      title: 'Ciptakan Pengalaman Air Korporat Anda Bersama OLagoon',
       subtitle: 'Merek Anda berhak untuk diingat.',
       primaryAction: {
         text: 'Mulai Proyek SUP Korporat Anda Hari Ini',
@@ -4330,7 +4330,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsen OEM SUP Tiup Untuk Merek Olahraga Air | {SITE}',
       description:
-        'Afarer membantu merek kayak, kano, berlayar, dan selam skuba berekspansi ke produk SUP tiup dengan teknologi Drop Stitch profesional, manufaktur OEM, dan solusi produk olahraga air lengkap.',
+        'OLagoon membantu merek kayak, kano, berlayar, dan selam skuba berekspansi ke produk SUP tiup dengan teknologi Drop Stitch profesional, manufaktur OEM, dan solusi produk olahraga air lengkap.',
     },
     hero: {
       tagline: 'Perluas Portofolio Olahraga Air Anda™',
@@ -4371,49 +4371,49 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Teknologi Manufaktur SUP Tiup Matang',
           description:
-            'Afarer menyediakan teknologi Drop Stitch profesional untuk struktur tiup bertekanan tinggi dengan kinerja papan kaku, konstruksi PVC multi-lapis untuk daya tahan, dan teknologi pengelasan profesional untuk jahitan kuat.',
+            'OLagoon menyediakan teknologi Drop Stitch profesional untuk struktur tiup bertekanan tinggi dengan kinerja papan kaku, konstruksi PVC multi-lapis untuk daya tahan, dan teknologi pengelasan profesional untuk jahitan kuat.',
           features: ['Teknologi Drop Stitch', 'Konstruksi PVC Multi-Lapis', 'Teknologi Pengelasan Profesional'],
         },
         {
           title: 'Pengembangan Portofolio Produk SUP Lengkap',
           description:
-            'Afarer menyediakan platform produk teruji termasuk SUP all-round untuk pemula dan keluarga, SUP touring untuk pengguna petualangan, SUP memancing dengan sistem pemasangan, SUP yoga untuk pasar kebugaran, dan SUP anak.',
+            'OLagoon menyediakan platform produk teruji termasuk SUP all-round untuk pemula dan keluarga, SUP touring untuk pengguna petualangan, SUP memancing dengan sistem pemasangan, SUP yoga untuk pasar kebugaran, dan SUP anak.',
           features: ['Seri SUP All-Round', 'Seri SUP Touring', 'Seri SUP Memancing', 'Seri SUP Yoga', 'Seri SUP Anak'],
         },
         {
           title: 'Pengembangan Produk OEM & ODM',
           description:
-            'Afarer mendukung manufaktur private label dengan logo dan kemasan merek, modifikasi produk untuk dimensi dan fitur, serta koleksi eksklusif untuk model khas merek dan produk musiman.',
+            'OLagoon mendukung manufaktur private label dengan logo dan kemasan merek, modifikasi produk untuk dimensi dan fitur, serta koleksi eksklusif untuk model khas merek dan produk musiman.',
           features: ['Manufaktur Private Label', 'Modifikasi Produk', 'Koleksi Eksklusif'],
         },
         {
           title: 'Program Masuk Pasar Cepat',
           description:
-            'Afarer membantu mengurangi waktu pengembangan melalui platform produk existing dengan bentuk papan teruji dan konstruksi teruji, prototyping cepat dari diskusi hingga produksi, dan peluncuran komersial lebih cepat untuk menangkap peluang musiman.',
+            'OLagoon membantu mengurangi waktu pengembangan melalui platform produk existing dengan bentuk papan teruji dan konstruksi teruji, prototyping cepat dari diskusi hingga produksi, dan peluncuran komersial lebih cepat untuk menangkap peluang musiman.',
           features: ['Platform Produk Existing', 'Prototyping Cepat', 'Peluncuran Komersial Lebih Cepat'],
         },
         {
           title: 'Integrasi Produk Kompatibel-Merek',
           description:
-            'Afarer bekerja dengan manajer merek untuk menyelaraskan bahasa desain produk termasuk warna, grafis, dan material dengan identitas merek existing melintasi positioning petualangan, keluarga, dan kelautan premium.',
+            'OLagoon bekerja dengan manajer merek untuk menyelaraskan bahasa desain produk termasuk warna, grafis, dan material dengan identitas merek existing melintasi positioning petualangan, keluarga, dan kelautan premium.',
           features: ['Bahasa Desain Produk', 'Positioning Pelanggan', 'Penyelarasan Merek'],
         },
         {
           title: 'Aksesori & Pengembangan Paket Lengkap',
           description:
-            'Afarer mendukung aksesori SUP termasuk dayung, pompa, tali keselamatan, tas, dan kit perbaikan, plus bundel produk seperti paket pemula, paket petualangan, dan paket keluarga.',
+            'OLagoon mendukung aksesori SUP termasuk dayung, pompa, tali keselamatan, tas, dan kit perbaikan, plus bundel produk seperti paket pemula, paket petualangan, dan paket keluarga.',
           features: ['Aksesori SUP', 'Bundel Produk', 'Pengembangan Paket'],
         },
         {
           title: 'Integrasi Rantai Suplai',
           description:
-            'Bagi merek yang sudah mapan, Afarer menyediakan kapasitas produksi stabil 500-10.000 set/tahun, perencanaan tahunan untuk roadmap produk dan produksi musiman, serta konsistensi kualitas di semua spesifikasi.',
+            'Bagi merek yang sudah mapan, OLagoon menyediakan kapasitas produksi stabil 500-10.000 set/tahun, perencanaan tahunan untuk roadmap produk dan produksi musiman, serta konsistensi kualitas di semua spesifikasi.',
           features: ['Kapasitas Produksi Stabil', 'Perencanaan Tahunan', 'Konsistensi Kualitas'],
         },
         {
           title: 'Dukungan Kontrol Kualitas',
           description:
-            'Proses kualitas Afarer mencakup inspeksi material PVC dan kain Drop Stitch, pemantauan produksi atas pengelasan dan perakitan, serta inspeksi akhir atas kinerja produk, aksesori, dan kemasan.',
+            'Proses kualitas OLagoon mencakup inspeksi material PVC dan kain Drop Stitch, pemantauan produksi atas pengelasan dan perakitan, serta inspeksi akhir atas kinerja produk, aksesori, dan kemasan.',
           features: ['Inspeksi Material', 'Pemantauan Produksi', 'Inspeksi Akhir'],
         },
       ],
@@ -4430,7 +4430,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengembangan Strategi Produk',
           detail:
-            'Afarer menganalisis basis pelanggan existing merek, positioning pasar, dan segmen harga untuk merekomendasikan ekspansi keluarga produk SUP yang selaras dengan merek mereka.',
+            'OLagoon menganalisis basis pelanggan existing merek, positioning pasar, dan segmen harga untuk merekomendasikan ekspansi keluarga produk SUP yang selaras dengan merek mereka.',
         },
         {
           title: 'Penciptaan Portofolio Produk',
@@ -4467,22 +4467,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Perencanaan Portofolio Produk & Adaptasi Pasar Brasil',
               detail:
-                'Pedro mengunjungi fasilitas Afarer di Shenzhen pada Januari 2025 dengan direktur produk dan desainer industrinya untuk lokakarya kolaboratif 5 hari. Mereka memilih 10 model SUP: 4 all-around, 3 touring, 2 memancing, dan 1 platform yoga. Insinyur Afarer memodifikasi setiap produk untuk kondisi Brasil termasuk PVC tahan UV untuk matahari tropis, lambung diperkuat untuk dasar sungai berbatu di Minas Gerais, dan kombinasi warna terinspirasi bendera nasional Brasil dan motif hutan hujan Amazon. Pedro melakukan pesanan awal R$3,2 juta untuk 4.500 unit, dengan deposito 30% dan pelunasan saat bill of lading.',
+                'Pedro mengunjungi fasilitas OLagoon di Shenzhen pada Januari 2025 dengan direktur produk dan desainer industrinya untuk lokakarya kolaboratif 5 hari. Mereka memilih 10 model SUP: 4 all-around, 3 touring, 2 memancing, dan 1 platform yoga. Insinyur OLagoon memodifikasi setiap produk untuk kondisi Brasil termasuk PVC tahan UV untuk matahari tropis, lambung diperkuat untuk dasar sungai berbatu di Minas Gerais, dan kombinasi warna terinspirasi bendera nasional Brasil dan motif hutan hujan Amazon. Pedro melakukan pesanan awal R$3,2 juta untuk 4.500 unit, dengan deposito 30% dan pelunasan saat bill of lading.',
             },
             {
               title: 'Integrasi Merek, Lokalisasi Portugis & Kepatuhan',
               detail:
-                "Tim desain Afarer menciptakan identitas visual 'ÁguaVita Adventure' lengkap termasuk logo, skema warna, kemasan, dan material titik penjualan dalam bahasa Portugis Brasil. Tim kepatuhan mengelola sertifikasi INMETRO untuk semua 10 produk (wajib untuk perlengkapan olahraga di Brasil) dan mengembangkan manual instruksi berbahasa Portugis dengan panduan perakitan berilustrasi untuk demografi Brasil dengan literasi lebih rendah. Afarer memproduksi 200 unit pra-produksi yang dikirim via udara pada Maret 2025 untuk dievaluasi 50 dealer teratas Pedro — 46 dari 50 melakukan pesanan awal dengan rata-rata R$48 ribu per dealer.",
+                "Tim desain OLagoon menciptakan identitas visual 'ÁguaVita Adventure' lengkap termasuk logo, skema warna, kemasan, dan material titik penjualan dalam bahasa Portugis Brasil. Tim kepatuhan mengelola sertifikasi INMETRO untuk semua 10 produk (wajib untuk perlengkapan olahraga di Brasil) dan mengembangkan manual instruksi berbahasa Portugis dengan panduan perakitan berilustrasi untuk demografi Brasil dengan literasi lebih rendah. OLagoon memproduksi 200 unit pra-produksi yang dikirim via udara pada Maret 2025 untuk dievaluasi 50 dealer teratas Pedro — 46 dari 50 melakukan pesanan awal dengan rata-rata R$48 ribu per dealer.",
             },
             {
               title: 'Peluncuran Dealer & Distribusi Nasional',
               detail:
-                'Pengiriman laut utama 4.300 unit tiba di Pelabuhan Santos pada 15 Mei 2025 dan selesai bea cukai dalam 5 hari. Tim logistik Afarer berkoordinasi dengan 5 pusat distribusi regional ÁguaVita di São Paulo, Rio de Janeiro, Belo Horizonte, Recife, dan Porto Alegre. Tim penjualan 6 orang Pedro meluncurkan lini tersebut di São Paulo Outdoor Sports Expo 2025 (12-15 Juni) dengan demonstrasi kolam dayung langsung featuring pendayung kano Olimpiade Isabella Santos. Selama 4 hari, ÁguaVita menandatangani 340 akun dealer baru khusus untuk lini Adventure dan menjual 800 unit langsung dari lantai expo.',
+                'Pengiriman laut utama 4.300 unit tiba di Pelabuhan Santos pada 15 Mei 2025 dan selesai bea cukai dalam 5 hari. Tim logistik OLagoon berkoordinasi dengan 5 pusat distribusi regional ÁguaVita di São Paulo, Rio de Janeiro, Belo Horizonte, Recife, dan Porto Alegre. Tim penjualan 6 orang Pedro meluncurkan lini tersebut di São Paulo Outdoor Sports Expo 2025 (12-15 Juni) dengan demonstrasi kolam dayung langsung featuring pendayung kano Olimpiade Isabella Santos. Selama 4 hari, ÁguaVita menandatangani 340 akun dealer baru khusus untuk lini Adventure dan menjual 800 unit langsung dari lantai expo.',
             },
             {
               title: 'Ekspansi Kategori & Kepemimpinan Pasar',
               detail:
-                "Pada November 2025, 'ÁguaVita Adventure' telah menjual 6.200 unit di seluruh 10 SKU menghasilkan pendapatan R$16,2 juta (35% di atas target R$12 juta). Model SUP tiup 'Ipanema 10'6\"' menjadi produk terlaris tunggal di seluruh kategori ÁguaVita termasuk perlengkapan selam skuba lama. Pedro mengaitkan keberhasilan ini pada konsistensi kualitas Afarer — hanya 0,8% tingkat cacat dibandingkan 4,2% pada pemasok perlengkapan selam skuba sebelumnya. Ia melakukan pesanan R$8,5 juta untuk 2026 termasuk 4 model SUP memancing baru dan papan pedal berdiri, memposisikan ÁguaVita sebagai perusahaan olahraga dayung terbesar Brasil.",
+                "Pada November 2025, 'ÁguaVita Adventure' telah menjual 6.200 unit di seluruh 10 SKU menghasilkan pendapatan R$16,2 juta (35% di atas target R$12 juta). Model SUP tiup 'Ipanema 10'6\"' menjadi produk terlaris tunggal di seluruh kategori ÁguaVita termasuk perlengkapan selam skuba lama. Pedro mengaitkan keberhasilan ini pada konsistensi kualitas OLagoon — hanya 0,8% tingkat cacat dibandingkan 4,2% pada pemasok perlengkapan selam skuba sebelumnya. Ia melakukan pesanan R$8,5 juta untuk 2026 termasuk 4 model SUP memancing baru dan papan pedal berdiri, memposisikan ÁguaVita sebagai perusahaan olahraga dayung terbesar Brasil.",
             },
           ],
           results: [
@@ -4504,17 +4504,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Analisis Komposisi Armada & Tinjauan Spesifikasi Kelas Komersial',
               detail:
-                'Pada Agustus 2024, Kai dan putranya Mako (lulusan manajemen perhotelan) bekerja dengan divisi Armada Komersial Afarer merancang armada sewa ideal. Setelah menganalisis data pariwisata lokal 3 tahun, mereka memutuskan 60 SUP (30 all-around 10\'6", 15 touring 11\'6", 8 papan yoga, 7 papan memancing). Afarer menyediakan konstruksi kelas komersial dengan drop-stitch diperkuat, rel PVC berlapis ganda, D-ring baja tahan karat (vs plastik), dan valve kelas komersial berperingkat untuk 100.000+ siklus penggepaan. Total armada $48.000 hingga terkirim (vs $78.000 untuk papan buatan Hawaii sebanding), dan Kai melakukan pesanan dengan deposito 50% pada 1 September 2024.',
+                'Pada Agustus 2024, Kai dan putranya Mako (lulusan manajemen perhotelan) bekerja dengan divisi Armada Komersial OLagoon merancang armada sewa ideal. Setelah menganalisis data pariwisata lokal 3 tahun, mereka memutuskan 60 SUP (30 all-around 10\'6", 15 touring 11\'6", 8 papan yoga, 7 papan memancing). OLagoon menyediakan konstruksi kelas komersial dengan drop-stitch diperkuat, rel PVC berlapis ganda, D-ring baja tahan karat (vs plastik), dan valve kelas komersial berperingkat untuk 100.000+ siklus penggepaan. Total armada $48.000 hingga terkirim (vs $78.000 untuk papan buatan Hawaii sebanding), dan Kai melakukan pesanan dengan deposito 50% pada 1 September 2024.',
             },
             {
               title: 'Pelatihan Operasi Sewa & Penyiapan Logistik',
               detail:
-                'Spesialis operasi sewa Afarer menghabiskan 4 hari di toko Kai pada Oktober 2024 mengoptimalkan alur kerja sewa. Mereka menerapkan sistem manajemen armada menggunakan papan berkode QR dengan aplikasi mobile untuk check-in/out, pelacakan kerusakan, dan jadwal pemeliharaan preventif. Afarer menyediakan 10 pompa baterai heavy-duty untuk perputaran armada hari-yang-sama dan sistem rak penyimpanan kustom yang memaksimalkan gudang 600 kaki persegi. Pelatihan mencakup protokol penggepaan (setiap papan digepa hingga 12-15 PSI dalam waktu kurang dari 4 menit menggunakan pompa baterai), daftar periksa inspeksi, prosedur perbaikan, dan briefing keselamatan pelanggan yang terstandar untuk semua staf sewa.',
+                'Spesialis operasi sewa OLagoon menghabiskan 4 hari di toko Kai pada Oktober 2024 mengoptimalkan alur kerja sewa. Mereka menerapkan sistem manajemen armada menggunakan papan berkode QR dengan aplikasi mobile untuk check-in/out, pelacakan kerusakan, dan jadwal pemeliharaan preventif. OLagoon menyediakan 10 pompa baterai heavy-duty untuk perputaran armada hari-yang-sama dan sistem rak penyimpanan kustom yang memaksimalkan gudang 600 kaki persegi. Pelatihan mencakup protokol penggepaan (setiap papan digepa hingga 12-15 PSI dalam waktu kurang dari 4 menit menggunakan pompa baterai), daftar periksa inspeksi, prosedur perbaikan, dan briefing keselamatan pelanggan yang terstandar untuk semua staf sewa.',
             },
             {
               title: 'Strategi Harga, Peluncuran & Integrasi Pemesanan Online',
               detail:
-                "Kai meluncurkan armada pada 1 Desember 2024 dengan harga berjenjang: $35/jam untuk SUP, $89/setengah hari, $129/sehari penuh, dan tarif mingguan. Afarer membantu Kai berintegrasi dengan platform pemesanan FareHarbor dan Peek Pro, membuat fotografi produk profesional, dan mengembangkan optimasi listing Google My Business yang memindahkan Kai's dari halaman 4 ke 3 besar hasil pencarian lokal dalam 6 minggu. Per 31 Desember, armada mencapai utilisasi 42% menjual 790 hari sewa meskipun masih musim sepi, menghasilkan $62 ribu hanya pada Desember.",
+                "Kai meluncurkan armada pada 1 Desember 2024 dengan harga berjenjang: $35/jam untuk SUP, $89/setengah hari, $129/sehari penuh, dan tarif mingguan. OLagoon membantu Kai berintegrasi dengan platform pemesanan FareHarbor dan Peek Pro, membuat fotografi produk profesional, dan mengembangkan optimasi listing Google My Business yang memindahkan Kai's dari halaman 4 ke 3 besar hasil pencarian lokal dalam 6 minggu. Per 31 Desember, armada mencapai utilisasi 42% menjual 790 hari sewa meskipun masih musim sepi, menghasilkan $62 ribu hanya pada Desember.",
             },
             {
               title: 'Ramp Musim Puncak & Perencanaan Ekspansi',
@@ -4523,7 +4523,7 @@ const id: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            'Total pendapatan $764 ribu di tahun pertama (12% di atas target $680 ribu) dengan pendapatan sewa bersih $487 ribu dari armada Afarer',
+            'Total pendapatan $764 ribu di tahun pertama (12% di atas target $680 ribu) dengan pendapatan sewa bersih $487 ribu dari armada OLagoon',
             'Utilisasi armada 78% selama bulan puncak musim panas di seluruh 60 SUP, melayani hingga 180 pelanggan harian',
             'Break-even atas investasi armada $48 ribu dicapai hanya dalam 3,5 bulan (Desember 2024 hingga pertengahan Maret 2025)',
             'Valuasi bisnis meningkat dari $420 ribu menjadi $1,8 juta dalam 12 bulan, memungkinkan akuisisi lokasi tepi pantai Kona kedua',
@@ -4531,8 +4531,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Merek Olahraga Air Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Merek Olahraga Air Memilih OLagoon',
       items: [
         {
           title: 'Pasar Olahraga Air',
@@ -4566,7 +4566,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bagaimana merek kayak atau kano dapat menambahkan produk SUP tiup tanpa membangun pabrik?',
         answer:
-          'Model kemitraan OEM/ODM Afarer memungkinkan merek olahraga air mapan menambahkan produk SUP tiup menggunakan infrastruktur manufaktur existing kami. Merek memanfaatkan basis pelanggan dan saluran distribusi mereka sementara Afarer menangani rekayasa Drop Stitch, manufaktur PVC, kontrol kualitas, dan manajemen rantai suplai.',
+          'Model kemitraan OEM/ODM OLagoon memungkinkan merek olahraga air mapan menambahkan produk SUP tiup menggunakan infrastruktur manufaktur existing kami. Merek memanfaatkan basis pelanggan dan saluran distribusi mereka sementara OLagoon menangani rekayasa Drop Stitch, manufaktur PVC, kontrol kualitas, dan manajemen rantai suplai.',
       },
       {
         question: 'Apa itu teknologi Drop Stitch dan mengapa penting untuk manufaktur SUP?',
@@ -4576,26 +4576,26 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah desain dan warna merek yang sudah ada diterapkan pada produk SUP?',
         answer:
-          'Ya, Afarer mendukung integrasi merek lengkap termasuk grafis kustom, pencocokan warna Pantone, aplikasi logo, dan desain kemasan. Kami bekerja dengan manajer merek untuk memastikan produk SUP selaras dengan bahasa desain produk dan positioning pasar existing.',
+          'Ya, OLagoon mendukung integrasi merek lengkap termasuk grafis kustom, pencocokan warna Pantone, aplikasi logo, dan desain kemasan. Kami bekerja dengan manajer merek untuk memastikan produk SUP selaras dengan bahasa desain produk dan positioning pasar existing.',
       },
       {
         question: 'Berapa linimasa tipikal dari konsep ke pasar untuk lini produk SUP baru?',
         answer:
-          'Menggunakan platform produk existing dan proses prototyping cepat Afarer, merek biasanya dapat bergerak dari konsep ke produk siap pasar dalam 8-12 minggu. Ini mencakup pemilihan produk, kustomisasi desain, persetujuan prototipe, produksi, dan pengiriman.',
+          'Menggunakan platform produk existing dan proses prototyping cepat OLagoon, merek biasanya dapat bergerak dari konsep ke produk siap pasar dalam 8-12 minggu. Ini mencakup pemilihan produk, kustomisasi desain, persetujuan prototipe, produksi, dan pengiriman.',
       },
       {
         question: 'Berapa kuantitas pesanan minimum yang diperlukan untuk produksi SUP OEM/ODM?',
         answer:
-          'Afarer mendukung rentang volume dari 500 unit untuk pengujian pasar awal hingga 10.000+ unit per tahun untuk program mapan. Kami bekerja dengan merek merencanakan volume produksi yang sesuai skala distribusi dan permintaan musiman mereka.',
+          'OLagoon mendukung rentang volume dari 500 unit untuk pengujian pasar awal hingga 10.000+ unit per tahun untuk program mapan. Kami bekerja dengan merek merencanakan volume produksi yang sesuai skala distribusi dan permintaan musiman mereka.',
       },
       {
-        question: 'Apakah Afarer menawarkan manufaktur SUP tiup di samping lini produk kayak existing?',
+        question: 'Apakah OLagoon menawarkan manufaktur SUP tiup di samping lini produk kayak existing?',
         answer:
-          'Ya, Afarer memproduksi papan SUP tiup menggunakan teknologi Drop Stitch dan pengelasan PVC. Ini memungkinkan merek olahraga air menambahkan kategori SUP tiup lengkap melalui satu mitra manufaktur sambil tetap mempertahankan produk existing mereka tanpa perubahan.',
+          'Ya, OLagoon memproduksi papan SUP tiup menggunakan teknologi Drop Stitch dan pengelasan PVC. Ini memungkinkan merek olahraga air menambahkan kategori SUP tiup lengkap melalui satu mitra manufaktur sambil tetap mempertahankan produk existing mereka tanpa perubahan.',
       },
     ],
     cta: {
-      title: 'Perluas Merek Olahraga Air Anda Bersama Afarer',
+      title: 'Perluas Merek Olahraga Air Anda Bersama OLagoon',
       subtitle:
         'Anda sudah memiliki pelanggan. Anda sudah memiliki pasarnya. Sekarang tambahkan produk yang mereka inginkan.',
       primaryAction: {
@@ -4611,7 +4611,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsen Papan Dayung Ramah Hewan Peliharaan | Pemasok OEM SUP Anjing | {SITE}',
       description:
-        'Afarer menciptakan papan dayung ramah hewan peliharaan kustom untuk merek petualangan anjing dan perusahaan luar ruangan hewan peliharaan. Desain SUP anti-gores tahan lama, platform lebar stabil, manufaktur OEM, dan solusi private label.',
+        'OLagoon menciptakan papan dayung ramah hewan peliharaan kustom untuk merek petualangan anjing dan perusahaan luar ruangan hewan peliharaan. Desain SUP anti-gores tahan lama, platform lebar stabil, manufaktur OEM, dan solusi private label.',
     },
     hero: {
       tagline: 'Program Papan Dayung Ramah Hewan Peliharaan™',
@@ -4653,7 +4653,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Desain SUP Teroptimasi-Hewan Peliharaan',
           description:
-            'Afarer mengembangkan struktur SUP khusus untuk penggunaan hewan peliharaan dengan desain platform lebar ultra-stabil yang menonjolkan lebar papan meningkat, area berdiri lebih besar, dan area aktivitas full-dek panjang untuk anjing segala ukuran.',
+            'OLagoon mengembangkan struktur SUP khusus untuk penggunaan hewan peliharaan dengan desain platform lebar ultra-stabil yang menonjolkan lebar papan meningkat, area berdiri lebih besar, dan area aktivitas full-dek panjang untuk anjing segala ukuran.',
           features: [
             'Desain Platform Lebar Ultra-Stabil',
             'Area Aktivitas Full-Dek Panjang',
@@ -4663,13 +4663,13 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Struktur Material Anti-Gores & Tahan-Hewan',
           description:
-            'Afarer mendukung konstruksi PVC diperkuat untuk ketahanan gores, pad dek EVA full coverage heavy-duty dengan traksi ditingkatkan, dan struktur anti-tusuk untuk melindungi dari tekanan cakar.',
+            'OLagoon mendukung konstruksi PVC diperkuat untuk ketahanan gores, pad dek EVA full coverage heavy-duty dengan traksi ditingkatkan, dan struktur anti-tusuk untuk melindungi dari tekanan cakar.',
           features: ['Konstruksi PVC Diperkuat', 'Pad Dek EVA Heavy-Duty', 'Struktur Anti-Tusuk'],
         },
         {
           title: 'Konfigurasi Produk Ramah-Hewan Peliharaan',
           description:
-            'Afarer mendukung solusi produk lengkap termasuk paket SUP hewan peliharaan standar dengan papan dan aksesori, paket petualangan anjing premium dengan aksesori keselamatan, dan paket hewan peliharaan perjalanan untuk perjalanan darat dan berkemah.',
+            'OLagoon mendukung solusi produk lengkap termasuk paket SUP hewan peliharaan standar dengan papan dan aksesori, paket petualangan anjing premium dengan aksesori keselamatan, dan paket hewan peliharaan perjalanan untuk perjalanan darat dan berkemah.',
           features: [
             'Paket SUP Hewan Peliharaan Standar',
             'Paket Petualangan Anjing Premium',
@@ -4679,31 +4679,31 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengembangan SUP Hewan Peliharaan Private Label Kustom',
           description:
-            'Afarer membantu merek hewan peliharaan menciptakan produk bermerek kustom dengan penempatan logo, warna, dan desain grafis, desain berorientasi gaya hidup untuk positioning premium, dan koleksi edisi terbatas untuk influencer.',
+            'OLagoon membantu merek hewan peliharaan menciptakan produk bermerek kustom dengan penempatan logo, warna, dan desain grafis, desain berorientasi gaya hidup untuk positioning premium, dan koleksi edisi terbatas untuk influencer.',
           features: ['Kustomisasi Merek', 'Desain Berorientasi Gaya Hidup', 'Koleksi Edisi Terbatas'],
         },
         {
           title: 'Dukungan Positioning Pasar Merek Hewan Peliharaan',
           description:
-            'Afarer mengembangkan produk yang sesuai dengan posisi merek berbeda, dari merek gaya hidup hewan premium yang berfokus pada tampilan mewah hingga merek anjing petualangan yang berfokus pada daya tahan dan merek hewan keluarga yang berfokus pada keselamatan.',
+            'OLagoon mengembangkan produk yang sesuai dengan posisi merek berbeda, dari merek gaya hidup hewan premium yang berfokus pada tampilan mewah hingga merek anjing petualangan yang berfokus pada daya tahan dan merek hewan keluarga yang berfokus pada keselamatan.',
           features: ['Merek Gaya Hidup Hewan Premium', 'Merek Anjing Petualangan', 'Merek Hewan Keluarga'],
         },
         {
           title: 'Dukungan OEM Untuk Wirausahawan Produk Hewan Peliharaan',
           description:
-            'Banyak merek hewan peliharaan memiliki komunitas pelanggan dan kemampuan pemasaran tetapi kekurangan pengetahuan manufaktur. Afarer menyediakan pengembangan produk, pembuatan prototipe, manufaktur, kontrol kualitas, dan dukungan ekspor.',
+            'Banyak merek hewan peliharaan memiliki komunitas pelanggan dan kemampuan pemasaran tetapi kekurangan pengetahuan manufaktur. OLagoon menyediakan pengembangan produk, pembuatan prototipe, manufaktur, kontrol kualitas, dan dukungan ekspor.',
           features: ['Pengembangan Produk', 'Pembuatan Prototipe', 'Dukungan Manufaktur'],
         },
         {
           title: 'Desain Produk Ramah-Konten',
           description:
-            'Afarer mendukung desain yang dioptimalkan untuk visibilitas media sosial dengan grafis menarik dan tampilan gaya hidup, mendorong foto dan video pelanggan yang menciptakan pengalaman dapat-dibagikan dan keterlibatan komunitas.',
+            'OLagoon mendukung desain yang dioptimalkan untuk visibilitas media sosial dengan grafis menarik dan tampilan gaya hidup, mendorong foto dan video pelanggan yang menciptakan pengalaman dapat-dibagikan dan keterlibatan komunitas.',
           features: ['Visibilitas Media Sosial', 'Foto & Video Pelanggan', 'Kesadaran Merek'],
         },
         {
           title: 'Kontrol Kualitas Untuk Keselamatan Hewan Peliharaan',
           description:
-            'Afarer berfokus pada pemeriksaan keselamatan material atas daya tahan permukaan, pengujian kinerja produk atas penggepaan dan stabilitas, serta inspeksi akhir atas tampilan, aksesori, dan kemasan.',
+            'OLagoon berfokus pada pemeriksaan keselamatan material atas daya tahan permukaan, pengujian kinerja produk atas penggepaan dan stabilitas, serta inspeksi akhir atas tampilan, aksesori, dan kemasan.',
           features: ['Keselamatan Material', 'Kinerja Produk', 'Inspeksi Akhir'],
         },
       ],
@@ -4720,7 +4720,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pengembangan Produk',
           detail:
-            'Afarer merancang struktur SUP khusus hewan peliharaan termasuk bentuk papan lebih lebar, area dek lebih besar, dan permukaan diperkuat untuk mengakomodasi anjing dengan aman dan nyaman.',
+            'OLagoon merancang struktur SUP khusus hewan peliharaan termasuk bentuk papan lebih lebar, area dek lebih besar, dan permukaan diperkuat untuk mengakomodasi anjing dengan aman dan nyaman.',
         },
         {
           title: 'Optimasi Material',
@@ -4758,22 +4758,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'R&D Produk Khusus-Anjing & Rekayasa Keselamatan',
               detail:
-                "Pada Januari 2025, Emma dan tim produknya menghabiskan seminggu di lab inovasi Afarer bersama insinyur material Afarer dan konsultan dokter hewan. Mereka mengembangkan 3 inovasi khusus anjing: (1) pad dek dual-density dengan zona cengkeram ekstra untuk cakar anjing dengan koefisien gesek 3 kali lebih tinggi daripada pad standar, (2) bagian tengah diperkuat dengan kapasitas teruji beban 50 kg (diuji dengan simulasi bobot Labrador dan Golden Retriever), dan (3) sistem jangkar D-ring yang kompatibel dengan rompi pelampung anjing. Afarer memproduksi 6 variasi prototipe, dan tim Emma melakukan 8 minggu pengujian dengan 50 pemilik anjing di seluruh Inggris, menyempurnakan desain berdasarkan 347 respons survei. Desain akhir menonjolkan embossing jejak cakar, material 'tahan-lumpur', dan pemegang kantong kotoran yang terintegrasi ke pad dek.",
+                "Pada Januari 2025, Emma dan tim produknya menghabiskan seminggu di lab inovasi OLagoon bersama insinyur material OLagoon dan konsultan dokter hewan. Mereka mengembangkan 3 inovasi khusus anjing: (1) pad dek dual-density dengan zona cengkeram ekstra untuk cakar anjing dengan koefisien gesek 3 kali lebih tinggi daripada pad standar, (2) bagian tengah diperkuat dengan kapasitas teruji beban 50 kg (diuji dengan simulasi bobot Labrador dan Golden Retriever), dan (3) sistem jangkar D-ring yang kompatibel dengan rompi pelampung anjing. OLagoon memproduksi 6 variasi prototipe, dan tim Emma melakukan 8 minggu pengujian dengan 50 pemilik anjing di seluruh Inggris, menyempurnakan desain berdasarkan 347 respons survei. Desain akhir menonjolkan embossing jejak cakar, material 'tahan-lumpur', dan pemegang kantong kotoran yang terintegrasi ke pad dek.",
             },
             {
               title: 'Pengembangan Merek, Kemasan & Kepatuhan Ritel Hewan Peliharaan',
               detail:
-                "Tim desain Afarer menciptakan identitas visual 'Paws & Paddle Adventure' termasuk kemasan dengan fotografi anjing, shelf wobbler, dan kode QR tertaut ke panduan video 'Keselamatan SUP Anjing'. Tiga model diluncurkan: 'The Spaniel' (10' all-around untuk anjing kecil-sedang), 'The Labrador' (11'6\" utilitas untuk anjing sedang-besar), dan 'The Retriever' (12'6\" touring untuk anjing besar dan perjalanan lebih jauh). Afarer mengelola sertifikasi UKCA dan penandaan CE, serta mengembangkan paket kepatuhan Pet Industry Federation termasuk peringatan keselamatan, batas bobot anjing, dan dokumentasi liabilitas. Emma melakukan pre-sell 1.800 unit melalui jaringan ritel hewan peliharaan existingnya bahkan sebelum produksi dimulai.",
+                "Tim desain OLagoon menciptakan identitas visual 'Paws & Paddle Adventure' termasuk kemasan dengan fotografi anjing, shelf wobbler, dan kode QR tertaut ke panduan video 'Keselamatan SUP Anjing'. Tiga model diluncurkan: 'The Spaniel' (10' all-around untuk anjing kecil-sedang), 'The Labrador' (11'6\" utilitas untuk anjing sedang-besar), dan 'The Retriever' (12'6\" touring untuk anjing besar dan perjalanan lebih jauh). OLagoon mengelola sertifikasi UKCA dan penandaan CE, serta mengembangkan paket kepatuhan Pet Industry Federation termasuk peringatan keselamatan, batas bobot anjing, dan dokumentasi liabilitas. Emma melakukan pre-sell 1.800 unit melalui jaringan ritel hewan peliharaan existingnya bahkan sebelum produksi dimulai.",
             },
             {
               title: 'Kampanye Peluncuran Influencer & Pelatihan Ritel',
               detail:
-                "Koleksi diluncurkan Maret 2025 dengan kampanye terkoordinasi featuring 12 influencer anjing Inggris termasuk @myadventureswithoscar (2,1 juta pengikut) dan @the_hiking_husky (890 ribu pengikut). Afarer menyediakan 50 unit demo untuk konten influencer dan acara toko hewan peliharaan. Tim pelatihan Afarer membuat modul 'Retail Pro' 20 menit yang mencakup keselamatan SUP anjing, penyesuaian untuk ras berbeda, dan cross-selling rompi pelampung anjing dan sepatu pelindung cakar. Sebanyak 340 mitra ritel Paws & Paddle mengadakan hari demo di toko di mana pelanggan dapat mencoba papan dengan anjing mereka di kolam tiup — 78% peserta demo berkonversi menjadi pembelian.",
+                "Koleksi diluncurkan Maret 2025 dengan kampanye terkoordinasi featuring 12 influencer anjing Inggris termasuk @myadventureswithoscar (2,1 juta pengikut) dan @the_hiking_husky (890 ribu pengikut). OLagoon menyediakan 50 unit demo untuk konten influencer dan acara toko hewan peliharaan. Tim pelatihan OLagoon membuat modul 'Retail Pro' 20 menit yang mencakup keselamatan SUP anjing, penyesuaian untuk ras berbeda, dan cross-selling rompi pelampung anjing dan sepatu pelindung cakar. Sebanyak 340 mitra ritel Paws & Paddle mengadakan hari demo di toko di mana pelanggan dapat mencoba papan dengan anjing mereka di kolam tiup — 78% peserta demo berkonversi menjadi pembelian.",
             },
             {
               title: 'Ekspansi Kategori & Program Kemitraan Dokter Hewan',
               detail:
-                "Pada September 2025, lini SUP ramah-anjing telah menjual 4.200 unit di 340 lokasi ritel menghasilkan pendapatan grosir £2,1 juta (40% di atas target £1,5 juta). Model 'Labrador' menyumbang 52% penjualan. Emma meluncurkan kemitraan perintis dengan British Veterinary Association yang mempromosikan keselamatan air anjing, dan Afarer memproduksi 5.000 buklet 'Keselamatan SUP Anjing' yang didistribusikan melalui dokter hewan. Pemesanan ulang 3.000 unit termasuk model baru 'The Terrier' (8'6\" untuk anjing kecil) dan lini rompi pelampung anjing yang serasi. Koleksi tersebut dinobatkan sebagai 'Produk Hewan Peliharaan of the Year' di UK Pet Show 2025.",
+                "Pada September 2025, lini SUP ramah-anjing telah menjual 4.200 unit di 340 lokasi ritel menghasilkan pendapatan grosir £2,1 juta (40% di atas target £1,5 juta). Model 'Labrador' menyumbang 52% penjualan. Emma meluncurkan kemitraan perintis dengan British Veterinary Association yang mempromosikan keselamatan air anjing, dan OLagoon memproduksi 5.000 buklet 'Keselamatan SUP Anjing' yang didistribusikan melalui dokter hewan. Pemesanan ulang 3.000 unit termasuk model baru 'The Terrier' (8'6\" untuk anjing kecil) dan lini rompi pelampung anjing yang serasi. Koleksi tersebut dinobatkan sebagai 'Produk Hewan Peliharaan of the Year' di UK Pet Show 2025.",
             },
           ],
           results: [
@@ -4790,28 +4790,28 @@ const id: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Australia',
             background:
               "Blue Heeler Expeditions didirikan oleh mantan penangan anjing Angkatan Darat Australia yang menjadi perilaku anjing, Lachlan 'Locky' Murphy pada 2018. Locky berspesialisasi dalam pelatihan ras berenergi tinggi (kelpie, heeler, border collie) dan telah membangun pengikut fanatik melalui kanal YouTube-nya (480 ribu pelanggan) dan lokakarya yang selalu penuh. Ia memiliki fasilitas 12.000 kaki persegi dekat Noosa River tetapi ingin menciptakan kategori yang benar-benar baru: program pelatihan dan sertifikasi SUP anjing terstruktur. Kepemilikan anjing di Australia berada di rekor tertinggi (5,1 juta anjing) dan #dogpaddle sedang tren di media sosial Australia, tetapi tidak ada yang menawarkan pelatihan SUP anjing profesional atau perlengkapan yang dirancang untuk iklim Australia.",
-            goal: "Mengembangkan program 'Sertifikasi SUP Anjing' komprehensif dengan papan Afarer kustom, melatih dan mensertifikasi 80 instruktur di seluruh Australia dalam 18 bulan, dan menghasilkan pendapatan program AU$1,2 juta dengan menggabungkan penjualan papan, biaya sertifikasi, dan merchandise.",
+            goal: "Mengembangkan program 'Sertifikasi SUP Anjing' komprehensif dengan papan OLagoon kustom, melatih dan mensertifikasi 80 instruktur di seluruh Australia dalam 18 bulan, dan menghasilkan pendapatan program AU$1,2 juta dengan menggabungkan penjualan papan, biaya sertifikasi, dan merchandise.",
           },
           steps: [
             {
               title: 'Analisis Perilaku Anjing & Pengembangan Protokol Pelatihan SUP',
               detail:
-                "Locky menghabiskan 3 bulan dari Oktober hingga Desember 2024 bekerja dengan tim produk Afarer dan peneliti biomekanik hewan dari University of Queensland merancang papan yang dioptimalkan untuk pelatihan keseimbangan anjing. Mereka menciptakan platform lebar 12' x 34'' dengan padding dek EVA ultra-lunak (8mm vs standar 4mm), rel berprofil rendah untuk memudahkan anjing naik, dan permukaan bertekstur anti-slip yang diuji di 14 ras anjing. Locky menguji 30 anjing pada 6 iterasi prototipe dan mengembangkan protokol pelatihan SUP anjing 5 tahap: Tahap 1 (familiarisasi papan di darat), Tahap 2 (mengapung statis), Tahap 3 (dayung duduk), Tahap 4 (dayung berdiri dengan anjing duduk), Tahap 5 (dayung penuh dengan anjing berdiri). Afarer memproduksi 200 papan kelas instruktur dengan grafis 'Blue Heeler' kustom featuring siluet anjing gembala Australia.",
+                "Locky menghabiskan 3 bulan dari Oktober hingga Desember 2024 bekerja dengan tim produk OLagoon dan peneliti biomekanik hewan dari University of Queensland merancang papan yang dioptimalkan untuk pelatihan keseimbangan anjing. Mereka menciptakan platform lebar 12' x 34'' dengan padding dek EVA ultra-lunak (8mm vs standar 4mm), rel berprofil rendah untuk memudahkan anjing naik, dan permukaan bertekstur anti-slip yang diuji di 14 ras anjing. Locky menguji 30 anjing pada 6 iterasi prototipe dan mengembangkan protokol pelatihan SUP anjing 5 tahap: Tahap 1 (familiarisasi papan di darat), Tahap 2 (mengapung statis), Tahap 3 (dayung duduk), Tahap 4 (dayung berdiri dengan anjing duduk), Tahap 5 (dayung penuh dengan anjing berdiri). OLagoon memproduksi 200 papan kelas instruktur dengan grafis 'Blue Heeler' kustom featuring siluet anjing gembala Australia.",
             },
             {
               title: 'Program Sertifikasi Instruktur & Kerangka Regulasi',
               detail:
-                'Locky dan Afarer ikut mengembangkan Sertifikasi Instruktur SUP Anjing 3 tingkat: Tingkat 1 (40 jam online + praktik akhir pekan), Tingkat 2 (10 hari lanjutan dengan penyelamatan air), Tingkat 3 (14 hari master instructor). Kurikulum mencakup perilaku anjing di air, P3K anjing, pendekatan pelatihan spesifik-ras, regulasi keselamatan air Australia, persyaratan asuransi, dan penyiapan bisnis. Afarer mendanai pembuatan 25 jam konten video HD yang difilmkan di Noosa River dan memproduksi manual instruktur 200 halaman. Locky meluncurkan program sertifikasi pada Februari 2025 dengan kohort awal 24 kandidat — semua 24 lulus Tingkat 1 dan 18 melanjutkan ke Tingkat 2.',
+                'Locky dan OLagoon ikut mengembangkan Sertifikasi Instruktur SUP Anjing 3 tingkat: Tingkat 1 (40 jam online + praktik akhir pekan), Tingkat 2 (10 hari lanjutan dengan penyelamatan air), Tingkat 3 (14 hari master instructor). Kurikulum mencakup perilaku anjing di air, P3K anjing, pendekatan pelatihan spesifik-ras, regulasi keselamatan air Australia, persyaratan asuransi, dan penyiapan bisnis. OLagoon mendanai pembuatan 25 jam konten video HD yang difilmkan di Noosa River dan memproduksi manual instruktur 200 halaman. Locky meluncurkan program sertifikasi pada Februari 2025 dengan kohort awal 24 kandidat — semua 24 lulus Tingkat 1 dan 18 melanjutkan ke Tingkat 2.',
             },
             {
               title: 'Rentang Perlengkapan, Distribusi Ritel & Peluncuran YouTube',
               detail:
-                "Merek 'Blue Heeler Expeditions' Locky meluncurkan 4 produk ritel: 'Blue' (papan instruktur 12' seharga AU$899), 'Heeler' (papan anjing rekreasi 10'6\" seharga AU$649), rompi pelampung khusus anjing (AU$89), dan sistem tali pelatihan (AU$39). Afarer memproduksi 1.000 unit untuk jalur ritel dan instruktur awal. Locky merilis seri YouTube 6 bagian 'Paddle Paws' yang mendokumentasikan protokol pelatihan — episode pertama meraih 2,1 juta penayangan dalam 2 minggu. Dalam 30 hari, situs web Locky menerima 47.000 pertanyaan pesanan dan 340 orang Australia mendaftar dalam daftar tunggu untuk sertifikasi instruktur.",
+                "Merek 'Blue Heeler Expeditions' Locky meluncurkan 4 produk ritel: 'Blue' (papan instruktur 12' seharga AU$899), 'Heeler' (papan anjing rekreasi 10'6\" seharga AU$649), rompi pelampung khusus anjing (AU$89), dan sistem tali pelatihan (AU$39). OLagoon memproduksi 1.000 unit untuk jalur ritel dan instruktur awal. Locky merilis seri YouTube 6 bagian 'Paddle Paws' yang mendokumentasikan protokol pelatihan — episode pertama meraih 2,1 juta penayangan dalam 2 minggu. Dalam 30 hari, situs web Locky menerima 47.000 pertanyaan pesanan dan 340 orang Australia mendaftar dalam daftar tunggu untuk sertifikasi instruktur.",
             },
             {
               title: 'Skala Program, Ekspansi Nasional & Pertanyaan Internasional',
               detail:
-                'Pada Agustus 2025, Blue Heeler Expeditions memiliki 85 instruktur tersertifikasi di seluruh negara bagian Australia (5 di atas target 18 bulan yang dicapai dalam 6 bulan). Instruktur membayar AU$2.500 untuk sertifikasi Tingkat 1 + papan AU$899, menghasilkan pendapatan sertifikasi AU$296 ribu. Locky menjual 1.400 papan ritel ke pemilik hewan peliharaan, 200 papan kelas instruktur ke pelatih tersertifikasi, dan 3.400 rompi pelampung anjing. Total pendapatan program mencapai AU$1,85 juta dalam 8 bulan (54% di atas target 18 bulan AU$1,2 juta). Locky menerima pertanyaan dari 14 negara dan menandatangani kesepakatan lisensi dengan mitra AS untuk versi Amerika Utara. Afarer berkomitmen pada kemitraan global eksklusif 3 tahun untuk lini produk SUP Anjing.',
+                'Pada Agustus 2025, Blue Heeler Expeditions memiliki 85 instruktur tersertifikasi di seluruh negara bagian Australia (5 di atas target 18 bulan yang dicapai dalam 6 bulan). Instruktur membayar AU$2.500 untuk sertifikasi Tingkat 1 + papan AU$899, menghasilkan pendapatan sertifikasi AU$296 ribu. Locky menjual 1.400 papan ritel ke pemilik hewan peliharaan, 200 papan kelas instruktur ke pelatih tersertifikasi, dan 3.400 rompi pelampung anjing. Total pendapatan program mencapai AU$1,85 juta dalam 8 bulan (54% di atas target 18 bulan AU$1,2 juta). Locky menerima pertanyaan dari 14 negara dan menandatangani kesepakatan lisensi dengan mitra AS untuk versi Amerika Utara. OLagoon berkomitmen pada kemitraan global eksklusif 3 tahun untuk lini produk SUP Anjing.',
             },
           ],
           results: [
@@ -4823,8 +4823,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Merek Petualangan Hewan Peliharaan Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Merek Petualangan Hewan Peliharaan Memilih OLagoon',
       items: [
         {
           title: 'Keselamatan Hewan Peliharaan',
@@ -4871,26 +4871,26 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah merek hewan peliharaan mengkustomisasi papan SUP dengan logo dan warna mereka sendiri?',
         answer:
-          'Tentu saja. Afarer menawarkan kustomisasi merek penuh termasuk penempatan logo, pencocokan warna kustom, desain grafis, dan kemasan bermerek. Kami juga mendukung koleksi edisi terbatas untuk influencer hewan peliharaan dan peluncuran produk musiman.',
+          'Tentu saja. OLagoon menawarkan kustomisasi merek penuh termasuk penempatan logo, pencocokan warna kustom, desain grafis, dan kemasan bermerek. Kami juga mendukung koleksi edisi terbatas untuk influencer hewan peliharaan dan peluncuran produk musiman.',
       },
       {
         question: 'Berapa ukuran papan yang direkomendasikan untuk mendayung dengan anjing?',
         answer:
-          'Untuk mendayung dengan anjing, papan lebih lebar dengan area dek lebih besar direkomendasikan. Desain ramah hewan peliharaan Afarer menonjolkan lebar papan meningkat dan area aktivitas full-dek panjang yang mengakomodasi anjing kecil, sedang, dan besar dengan nyaman sambil mempertahankan stabilitas.',
+          'Untuk mendayung dengan anjing, papan lebih lebar dengan area dek lebih besar direkomendasikan. Desain ramah hewan peliharaan OLagoon menonjolkan lebar papan meningkat dan area aktivitas full-dek panjang yang mengakomodasi anjing kecil, sedang, dan besar dengan nyaman sambil mempertahankan stabilitas.',
       },
       {
         question: 'Apakah Anda menawarkan paket SUP hewan peliharaan lengkap dengan aksesori?',
         answer:
-          'Ya, Afarer menawarkan paket SUP hewan peliharaan standar termasuk papan, dayung, pompa, tali keselamatan, tas jinjing, dan kit perbaikan, serta paket petualangan anjing premium dengan aksesori keselamatan hewan peliharaan dan paket hewan peliharaan perjalanan yang dioptimalkan untuk perjalanan darat dan berkemah.',
+          'Ya, OLagoon menawarkan paket SUP hewan peliharaan standar termasuk papan, dayung, pompa, tali keselamatan, tas jinjing, dan kit perbaikan, serta paket petualangan anjing premium dengan aksesori keselamatan hewan peliharaan dan paket hewan peliharaan perjalanan yang dioptimalkan untuk perjalanan darat dan berkemah.',
       },
       {
         question: 'Berapa kuantitas pesanan minimum untuk papan SUP ramah hewan peliharaan kustom?',
         answer:
-          'Afarer bekerja dengan merek hewan peliharaan segala ukuran. Kuantitas pesanan minimum dapat disusun agar sesuai tahap merek, dari peluncuran edisi terbatas batch-kecil untuk influencer hewan peliharaan hingga run produksi skala penuh untuk merek luar ruangan hewan peliharaan mapan.',
+          'OLagoon bekerja dengan merek hewan peliharaan segala ukuran. Kuantitas pesanan minimum dapat disusun agar sesuai tahap merek, dari peluncuran edisi terbatas batch-kecil untuk influencer hewan peliharaan hingga run produksi skala penuh untuk merek luar ruangan hewan peliharaan mapan.',
       },
     ],
     cta: {
-      title: 'Ciptakan Merek SUP Petualangan Hewan Peliharaan Anda Bersama Afarer',
+      title: 'Ciptakan Merek SUP Petualangan Hewan Peliharaan Anda Bersama OLagoon',
       subtitle: 'Masa depan produk hewan peliharaan tidak hanya di dalam ruangan. Ia ada di luar ruangan.',
       primaryAction: {
         text: 'Mulai Proyek SUP Ramah Hewan Peliharaan Anda Hari Ini',
@@ -4905,7 +4905,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pemasok Perlengkapan SUP Komersial | Solusi Armada Sewa Pantai | {SITE}',
       description:
-        'Afarer menyediakan solusi armada SUP komersial untuk bisnis rekreasi pantai dan pusat olahraga air. Papan dayung sewa tahan lama, paket perlengkapan lengkap, dukungan suku cadang, dan kustomisasi OEM.',
+        'OLagoon menyediakan solusi armada SUP komersial untuk bisnis rekreasi pantai dan pusat olahraga air. Papan dayung sewa tahan lama, paket perlengkapan lengkap, dukungan suku cadang, dan kustomisasi OEM.',
     },
     hero: {
       tagline: 'Solusi Perlengkapan Aktivitas Pantai Lengkap™',
@@ -4946,49 +4946,49 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Desain Armada SUP Kelas-Komersial',
           description:
-            'Afarer mengembangkan produk SUP khusus untuk lingkungan komersial dengan konstruksi PVC diperkuat, teknologi jahitan kuat, sistem dek EVA heavy-duty, dan aksesori kelas komersial termasuk dayung dan pompa tahan lama.',
+            'OLagoon mengembangkan produk SUP khusus untuk lingkungan komersial dengan konstruksi PVC diperkuat, teknologi jahitan kuat, sistem dek EVA heavy-duty, dan aksesori kelas komersial termasuk dayung dan pompa tahan lama.',
           features: ['Konstruksi Diperkuat', 'Sistem Dek EVA Heavy-Duty', 'Aksesori Komersial'],
         },
         {
           title: 'Perencanaan Armada Sewa Lengkap',
           description:
-            'Afarer membantu memilih campuran perlengkapan yang tepat untuk armada sewa pantai dengan SUP all-round stabil, armada pusat olahraga air dengan berbagai ukuran dan papan instruktur, serta armada aktivitas resor dengan perlengkapan premium bermerek.',
+            'OLagoon membantu memilih campuran perlengkapan yang tepat untuk armada sewa pantai dengan SUP all-round stabil, armada pusat olahraga air dengan berbagai ukuran dan papan instruktur, serta armada aktivitas resor dengan perlengkapan premium bermerek.',
           features: ['Armada Sewa Pantai', 'Armada Pusat Olahraga Air', 'Armada Aktivitas Resor'],
         },
         {
           title: 'Konfigurasi SUP Sewa Daya-Tahan-Tinggi',
           description:
-            'Afarer mengoptimalkan produk untuk ketahanan gores terhadap pasir pantai dan penanganan sering, perbaikan mudah dengan kit perbaikan dan komponen terstandar, serta umur layan panjang yang memaksimalkan ROI perlengkapan.',
+            'OLagoon mengoptimalkan produk untuk ketahanan gores terhadap pasir pantai dan penanganan sering, perbaikan mudah dengan kit perbaikan dan komponen terstandar, serta umur layan panjang yang memaksimalkan ROI perlengkapan.',
           features: ['Ketahanan Gores', 'Perbaikan Mudah', 'Umur Layan Panjang'],
         },
         {
           title: 'Sistem Suku Cadang Terstandar',
           description:
-            'Afarer mendukung operator komersial dengan aksesori pengganti termasuk valve, tali keselamatan, dayung, pompa, dan material perbaikan, plus perencanaan pemeliharaan armada untuk inspeksi harian dan pemeliharaan musiman.',
+            'OLagoon mendukung operator komersial dengan aksesori pengganti termasuk valve, tali keselamatan, dayung, pompa, dan material perbaikan, plus perencanaan pemeliharaan armada untuk inspeksi harian dan pemeliharaan musiman.',
           features: ['Aksesori Pengganti', 'Perencanaan Pemeliharaan Armada', 'Pemulihan Cepat'],
         },
         {
           title: 'Paket Aktivitas Pantai Lengkap',
           description:
-            'Afarer menyediakan paket sewa SUP dengan papan komersial dan aksesori, paket aktivitas air keluarga untuk resor dan kawasan wisata, dan paket acara kelompok untuk aktivitas korporat dan sekolah.',
+            'OLagoon menyediakan paket sewa SUP dengan papan komersial dan aksesori, paket aktivitas air keluarga untuk resor dan kawasan wisata, dan paket acara kelompok untuk aktivitas korporat dan sekolah.',
           features: ['Paket Sewa SUP', 'Paket Aktivitas Air Keluarga', 'Paket Acara Kelompok'],
         },
         {
           title: 'Pencitraan Merek & Kustomisasi Bisnis',
           description:
-            'Afarer mendukung pencitraan merek operator kustom dengan pencetakan logo dan warna, desain pengalaman wisata yang menciptakan aktivitas bermerek dan peluang foto, serta integrasi resor dan pantai yang sesuai identitas destinasi.',
+            'OLagoon mendukung pencitraan merek operator kustom dengan pencetakan logo dan warna, desain pengalaman wisata yang menciptakan aktivitas bermerek dan peluang foto, serta integrasi resor dan pantai yang sesuai identitas destinasi.',
           features: ['Pencitraan Merek Operator Kustom', 'Desain Pengalaman Wisata', 'Integrasi Resor & Pantai'],
         },
         {
           title: 'Desain Keselamatan & Ramah-Pemula',
           description:
-            'Afarer berfokus pada desain stabilitas dengan bentuk papan lebih lebar untuk wisatawan dan keluarga, serta operasi mudah yang membantu pendayung pertama kali cepat menikmati pengalaman dengan percaya diri dan aman.',
+            'OLagoon berfokus pada desain stabilitas dengan bentuk papan lebih lebar untuk wisatawan dan keluarga, serta operasi mudah yang membantu pendayung pertama kali cepat menikmati pengalaman dengan percaya diri dan aman.',
           features: ['Desain Stabilitas', 'Operasi Mudah', 'Kinerja Ramah-Pemula'],
         },
         {
           title: 'Dukungan Suplai Untuk Bisnis Musiman',
           description:
-            'Afarer membantu operator mengelola perencanaan pra-musim untuk pemilihan armada dan penjadwalan produksi, penggantian musiman untuk perlengkapan dan suku cadang tambahan, serta pertumbuhan armada jangka panjang dari operasi kecil ke pusat besar.',
+            'OLagoon membantu operator mengelola perencanaan pra-musim untuk pemilihan armada dan penjadwalan produksi, penggantian musiman untuk perlengkapan dan suku cadang tambahan, serta pertumbuhan armada jangka panjang dari operasi kecil ke pusat besar.',
           features: ['Perencanaan Pra-Musim', 'Penggantian Musiman', 'Pertumbuhan Armada Jangka Panjang'],
         },
       ],
@@ -5005,7 +5005,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perencanaan Armada',
           detail:
-            'Afarer merancang paket perlengkapan SUP komersial termasuk papan all-round stabil, aksesori heavy-duty, dan suku cadang yang disesuaikan dengan lingkungan pantai operator tersebut.',
+            'OLagoon merancang paket perlengkapan SUP komersial termasuk papan all-round stabil, aksesori heavy-duty, dan suku cadang yang disesuaikan dengan lingkungan pantai operator tersebut.',
         },
         {
           title: 'Kustomisasi Produk',
@@ -5042,27 +5042,27 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Penilaian Resor Komprehensif & Spesifikasi Perlengkapan',
               detail:
-                'Pada September 2024, Carlos dan tim Solusi Perhotelan Afarer melakukan audit lokasi 5 hari di seluruh 3 properti. Mereka menganalisis demografi tamu, pola penggunaan puncak, keterbatasan penyimpanan, tingkat kepegawaian, dan kondisi paparan air asin. Audit mengungkapkan bahwa 60+ hari tamu per tahun hilang karena waktu henti perlengkapan dan papan existing hanya bertahan 8-12 bulan sebelum terdegradasi di bawah matahari dan garam Karibia. Afarer mengusulkan armada 140 unit: 100 SUP (10\'6" all-around), 20 papan dayung dasar-bening untuk melihat terumbu, 20 papan pedal, dan 10 SUP memancing tandem. Setiap papan menonjolkan PVC kelas kelautan distabilkan-UV dengan garansi komersial 5 tahun, perangkat keras baja tahan karat, dan grafis bermerek Hyatt Ziva dalam turquoise dan putih khas merek tersebut.',
+                'Pada September 2024, Carlos dan tim Solusi Perhotelan OLagoon melakukan audit lokasi 5 hari di seluruh 3 properti. Mereka menganalisis demografi tamu, pola penggunaan puncak, keterbatasan penyimpanan, tingkat kepegawaian, dan kondisi paparan air asin. Audit mengungkapkan bahwa 60+ hari tamu per tahun hilang karena waktu henti perlengkapan dan papan existing hanya bertahan 8-12 bulan sebelum terdegradasi di bawah matahari dan garam Karibia. OLagoon mengusulkan armada 140 unit: 100 SUP (10\'6" all-around), 20 papan dayung dasar-bening untuk melihat terumbu, 20 papan pedal, dan 10 SUP memancing tandem. Setiap papan menonjolkan PVC kelas kelautan distabilkan-UV dengan garansi komersial 5 tahun, perangkat keras baja tahan karat, dan grafis bermerek Hyatt Ziva dalam turquoise dan putih khas merek tersebut.',
             },
             {
               title: 'Infrastruktur Operasi Pantai & Solusi Penyimpanan',
               detail:
-                'Tim Afarer merancang pusat operasi pantai lengkap untuk setiap resor termasuk: kontainer pengiriman 40 kaki berkunci yang diubah menjadi ruang perlengkapan aman dengan ventilasi bertenaga surya, 10 stasiun penggepaan listrik heavy-duty dengan pengukur tekanan digital, sistem rak mobile yang menampung 50 papan dengan drainase tetas-kering, dan stasiun perbaikan/pemeliharaan dengan valve cadangan, kit tambalan, dan perlengkapan pembersihan. Properti Puerto Morelos menerima kios tepi pantai khusus dengan konter check-in, dinding rompi pelampung, dan layar penjadwalan digital. Tim instalasi Afarer menghabiskan 2 minggu di setiap properti memodifikasi area penyimpanan existing dan melatih staf pemeliharaan tentang rutinitas perawatan yang tepat termasuk protokol bilasan air tawar setelah setiap penggunaan.',
+                'Tim OLagoon merancang pusat operasi pantai lengkap untuk setiap resor termasuk: kontainer pengiriman 40 kaki berkunci yang diubah menjadi ruang perlengkapan aman dengan ventilasi bertenaga surya, 10 stasiun penggepaan listrik heavy-duty dengan pengukur tekanan digital, sistem rak mobile yang menampung 50 papan dengan drainase tetas-kering, dan stasiun perbaikan/pemeliharaan dengan valve cadangan, kit tambalan, dan perlengkapan pembersihan. Properti Puerto Morelos menerima kios tepi pantai khusus dengan konter check-in, dinding rompi pelampung, dan layar penjadwalan digital. Tim instalasi OLagoon menghabiskan 2 minggu di setiap properti memodifikasi area penyimpanan existing dan melatih staf pemeliharaan tentang rutinitas perawatan yang tepat termasuk protokol bilasan air tawar setelah setiap penggunaan.',
             },
             {
               title: 'Pemrograman Aktivitas, Pelatihan Staf & Desain Pengalaman Tamu',
               detail:
-                'Afarer mengembangkan program aktivitas berjenjang untuk setiap resor: gratis (sewa SUP untuk slot 1 jam), berpemandu (SUP yoga pagi $45/orang, tur terumbu matahari terbenam $55/orang), dan premium (ekskursi piknik dayung privat $120/orang). Pelatih Afarer menghabiskan 12 hari di 3 resor melatih 24 staf rekreasi yang mencakup penanganan perlengkapan, instruksi tamu, protokol keselamatan, dan perbaikan dasar. Pelatihan termasuk program sertifikasi yang diakui oleh Mexican Association of Water Sports Operators. Tim Carlos meluncurkan sistem pemesanan kode QR terintegrasi dengan aplikasi tamu Hyatt, memungkinkan tamu memesan perlengkapan 48 jam sebelumnya.',
+                'OLagoon mengembangkan program aktivitas berjenjang untuk setiap resor: gratis (sewa SUP untuk slot 1 jam), berpemandu (SUP yoga pagi $45/orang, tur terumbu matahari terbenam $55/orang), dan premium (ekskursi piknik dayung privat $120/orang). Pelatih OLagoon menghabiskan 12 hari di 3 resor melatih 24 staf rekreasi yang mencakup penanganan perlengkapan, instruksi tamu, protokol keselamatan, dan perbaikan dasar. Pelatihan termasuk program sertifikasi yang diakui oleh Mexican Association of Water Sports Operators. Tim Carlos meluncurkan sistem pemesanan kode QR terintegrasi dengan aplikasi tamu Hyatt, memungkinkan tamu memesan perlengkapan 48 jam sebelumnya.',
             },
             {
               title: 'Operasi Musiman, Pelacakan Kinerja & Analisis ROI',
               detail:
-                'Program penuh diluncurkan 15 Januari 2025 dan per Juni 2025 telah mendukung 14.200 pengalaman tamu dengan 0 insiden keselamatan. Kepuasan tamu untuk aktivitas olahraga air rata-rata 4,7/5 dengan papan dayung dasar-benen menerima rating tertinggi (4,9/5). Biaya pemeliharaan perlengkapan turun 42% dibandingkan program vendor-campuran tahun sebelumnya — dari $34 ribu menjadi $19,7 ribu di 3 properti. Program premium berpemandu menghasilkan $112 ribu pendapatan inkremental dalam 6 bulan pertama. Tim Carlos melaporkan peningkatan 22% tamu memperpanjang menginap 1+ malam secara spesifik untuk olahraga air. Inclusive Collection Hyatt menyetujui anggaran $240 ribu untuk 2026 guna menambah perlengkapan Afarer di 2 properti tambahan di Republik Dominika dan Jamaika.',
+                'Program penuh diluncurkan 15 Januari 2025 dan per Juni 2025 telah mendukung 14.200 pengalaman tamu dengan 0 insiden keselamatan. Kepuasan tamu untuk aktivitas olahraga air rata-rata 4,7/5 dengan papan dayung dasar-benen menerima rating tertinggi (4,9/5). Biaya pemeliharaan perlengkapan turun 42% dibandingkan program vendor-campuran tahun sebelumnya — dari $34 ribu menjadi $19,7 ribu di 3 properti. Program premium berpemandu menghasilkan $112 ribu pendapatan inkremental dalam 6 bulan pertama. Tim Carlos melaporkan peningkatan 22% tamu memperpanjang menginap 1+ malam secara spesifik untuk olahraga air. Inclusive Collection Hyatt menyetujui anggaran $240 ribu untuk 2026 guna menambah perlengkapan OLagoon di 2 properti tambahan di Republik Dominika dan Jamaika.',
             },
           ],
           results: [
             '14.200+ pengalaman tamu dalam 6 bulan pertama dengan 0 insiden keselamatan dan kepuasan tamu 4,7/5 untuk aktivitas olahraga air',
-            'Biaya pemeliharaan perlengkapan berkurang 42% dari $34 ribu menjadi $19,7 ribu per tahun berkat konstruksi kelas komersial dan material distabilkan-UV Afarer',
+            'Biaya pemeliharaan perlengkapan berkurang 42% dari $34 ribu menjadi $19,7 ribu per tahun berkat konstruksi kelas komersial dan material distabilkan-UV OLagoon',
             'Program premium berpemandu menghasilkan pendapatan inkremental $112 ribu dalam 6 bulan, dengan SUP yoga dan tur terumbu matahari terbenam sebagai performer teratas',
             'Peningkatan 22% tamu memperpanjang menginap 1+ malam dengan olahraga air sebagai faktor kunci, berkontribusi estimasi $340 ribu pendapatan kamar tambahan',
           ],
@@ -5079,22 +5079,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Analisis Kebutuhan Multi-Properti & Rekayasa Armada Kustom',
               detail:
-                'Pada Oktober 2024, tim Perhotelan Afarer melakukan penilaian individual di setiap lokasi BlueWave selama tur Cyclades 10 hari. Setiap klub memiliki kondisi berbeda: Mykonos (teluk padat, pelanggan kelas atas, paparan angin), Santorini (pasir vulkanik, air lebih tenang, wisata matahari terbenam), Naxos (berorientasi keluarga, air dangkal, pesisir lebih panjang), Paros (persilangan windsurfing, pelanggan sporty), dan Kreta (ombak lebih besar, demografi campuran). Afarer merancang armada 200 unit dengan konfigurasi spesifik-lokasi: 110 SUP (termasuk 20 platform SUP yoga dengan panjang diperpanjang dan 20 papan dasar-bening), 30 papan pedal untuk tamu premium, 30 hibrida windSUP untuk Mykonos dan Paros, dan 30 papan pemuda untuk program keluarga Naxos. Semua unit menonjolkan skema warna khas biru-laut dan putih BlueWave dengan logo aksen emas.',
+                'Pada Oktober 2024, tim Perhotelan OLagoon melakukan penilaian individual di setiap lokasi BlueWave selama tur Cyclades 10 hari. Setiap klub memiliki kondisi berbeda: Mykonos (teluk padat, pelanggan kelas atas, paparan angin), Santorini (pasir vulkanik, air lebih tenang, wisata matahari terbenam), Naxos (berorientasi keluarga, air dangkal, pesisir lebih panjang), Paros (persilangan windsurfing, pelanggan sporty), dan Kreta (ombak lebih besar, demografi campuran). OLagoon merancang armada 200 unit dengan konfigurasi spesifik-lokasi: 110 SUP (termasuk 20 platform SUP yoga dengan panjang diperpanjang dan 20 papan dasar-bening), 30 papan pedal untuk tamu premium, 30 hibrida windSUP untuk Mykonos dan Paros, dan 30 papan pemuda untuk program keluarga Naxos. Semua unit menonjolkan skema warna khas biru-laut dan putih BlueWave dengan logo aksen emas.',
             },
             {
               title: 'Infrastruktur Spesifik-Lokasi & Implementasi Logistik',
               detail:
-                'Tim operasi Afarer menerjunkan rencana logistik yang mengirim 40 kontainer ke 5 pulau, berkoordinasi dengan mitra logistik lokal BlueWave untuk transfer antar-pulau. Setiap lokasi menerima solusi penyimpanan kustom: Mykonos mendapatkan gudang tepi pantai terkontrol iklim dengan racking pelindung-UV, Santorini memiliki sistem katrol tepi tebing untuk transportasi papan dari penyimpanan ke pantai, Naxos menerima kios sewa ramah-keluarga dengan display perlengkapan anak, dan Paros serta Kreta menerima penyimpanan serbaguna yang dapat diubah menjadi penghalang pelindung angin. Afarer menginstal sistem pemesanan digital bersama di semua 5 properti dan melatih 35 staf BlueWave selama program intensif 2 minggu di lokasi flagship Mykonos pada April 2025.',
+                'Tim operasi OLagoon menerjunkan rencana logistik yang mengirim 40 kontainer ke 5 pulau, berkoordinasi dengan mitra logistik lokal BlueWave untuk transfer antar-pulau. Setiap lokasi menerima solusi penyimpanan kustom: Mykonos mendapatkan gudang tepi pantai terkontrol iklim dengan racking pelindung-UV, Santorini memiliki sistem katrol tepi tebing untuk transportasi papan dari penyimpanan ke pantai, Naxos menerima kios sewa ramah-keluarga dengan display perlengkapan anak, dan Paros serta Kreta menerima penyimpanan serbaguna yang dapat diubah menjadi penghalang pelindung angin. OLagoon menginstal sistem pemesanan digital bersama di semua 5 properti dan melatih 35 staf BlueWave selama program intensif 2 minggu di lokasi flagship Mykonos pada April 2025.',
             },
             {
               title: 'Standardisasi Program Aktivitas & Penciptaan Tingkat Premium',
               detail:
-                "Tim Dimitri meluncurkan program olahraga air terstandar BlueWave 'Aegean Blue Experiences' dengan 3 tingkat: gratis (sesi SUP 30 menit untuk tamu klub), premium (SUP berpemandu ke pantai tersembunyi €65-€95), dan ultra-premium (ekskursi dayung dengan transfer yacht privat €250/orang termasuk piknik pantai sampanye). Tim pemrograman Afarer membuat 12 rute tur berpemandu di 5 pulau dengan rute terlacak-GPS, penanda titik minat, dan dukungan fotografer. Properti Mykonos juga meluncurkan 'Sunset SUP at Little Venice' — dayung malam berpemandu 2 jam yang penuh di setiap sesi seharga €85/orang dengan tingkat kapasitas 95% sepanjang musim panas.",
+                "Tim Dimitri meluncurkan program olahraga air terstandar BlueWave 'Aegean Blue Experiences' dengan 3 tingkat: gratis (sesi SUP 30 menit untuk tamu klub), premium (SUP berpemandu ke pantai tersembunyi €65-€95), dan ultra-premium (ekskursi dayung dengan transfer yacht privat €250/orang termasuk piknik pantai sampanye). Tim pemrograman OLagoon membuat 12 rute tur berpemandu di 5 pulau dengan rute terlacak-GPS, penanda titik minat, dan dukungan fotografer. Properti Mykonos juga meluncurkan 'Sunset SUP at Little Venice' — dayung malam berpemandu 2 jam yang penuh di setiap sesi seharga €85/orang dengan tingkat kapasitas 95% sepanjang musim panas.",
             },
             {
               title: 'Tinjauan Kinerja Musim & Keberlanjutan Program',
               detail:
-                'Selama musim Mei-September 2025, armada terpadu BlueWave mendukung 52.000 sewa tamu di 5 lokasi (4% di atas target 50 ribu). Total biaya perlengkapan $198 ribu diamortisasi selama periode garansi Afarer 5 tahun vs pengeluaran tahunan $165 ribu sebelumnya untuk perlengkapan yang diganti setiap 18 bulan — reduksi biaya tahunan 52%. Kepuasan tamu untuk olahraga air meningkat dari 3,8/5 (vendor campuran, pra-2025) menjadi 4,6/5 di semua lokasi. Dimitri melaporkan €340 ribu pendapatan program premium (SUP yoga, tur berpemandu, dayung matahari terbenam) yang mewakili pengembalian 4,7 kali atas investasi perlengkapan dalam satu musim. BlueWave menandatangani pembaruan 3 tahun dengan Afarer dengan ekspansi ke 2 lokasi tambahan di Rhodes dan Corfu untuk 2026, menambah 80 papan lagi.',
+                'Selama musim Mei-September 2025, armada terpadu BlueWave mendukung 52.000 sewa tamu di 5 lokasi (4% di atas target 50 ribu). Total biaya perlengkapan $198 ribu diamortisasi selama periode garansi OLagoon 5 tahun vs pengeluaran tahunan $165 ribu sebelumnya untuk perlengkapan yang diganti setiap 18 bulan — reduksi biaya tahunan 52%. Kepuasan tamu untuk olahraga air meningkat dari 3,8/5 (vendor campuran, pra-2025) menjadi 4,6/5 di semua lokasi. Dimitri melaporkan €340 ribu pendapatan program premium (SUP yoga, tur berpemandu, dayung matahari terbenam) yang mewakili pengembalian 4,7 kali atas investasi perlengkapan dalam satu musim. BlueWave menandatangani pembaruan 3 tahun dengan OLagoon dengan ekspansi ke 2 lokasi tambahan di Rhodes dan Corfu untuk 2026, menambah 80 papan lagi.',
             },
           ],
           results: [
@@ -5106,8 +5106,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Operator Pantai Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Operator Pantai Memilih OLagoon',
       items: [
         {
           title: 'Daya Tahan',
@@ -5146,22 +5146,22 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Berapa banyak papan SUP yang sebaiknya saya mulai untuk bisnis sewa pantai?',
         answer:
-          'Afarer merekomendasikan memulai dengan 10-20 papan untuk operasi pantai kecil, menskalakan ke 30-50 untuk bisnis sewa mapan, dan 50+ untuk pusat olahraga air besar. Perencanaan armada mencakup campuran ukuran dan konfigurasi papan untuk melayani tipe pelanggan berbeda dari pemula hingga pendayung berpengalaman.',
+          'OLagoon merekomendasikan memulai dengan 10-20 papan untuk operasi pantai kecil, menskalakan ke 30-50 untuk bisnis sewa mapan, dan 50+ untuk pusat olahraga air besar. Perencanaan armada mencakup campuran ukuran dan konfigurasi papan untuk melayani tipe pelanggan berbeda dari pemula hingga pendayung berpengalaman.',
       },
       {
-        question: 'Suku cadang dan dukungan pemeliharaan apa yang Afarer berikan untuk armada sewa?',
+        question: 'Suku cadang dan dukungan pemeliharaan apa yang OLagoon berikan untuk armada sewa?',
         answer:
-          'Afarer menyediakan sistem suku cadang terstandar termasuk valve, tali keselamatan, dayung, pompa, dan material perbaikan. Kami juga menawarkan panduan perencanaan pemeliharaan armada untuk inspeksi harian, pemeliharaan musiman, dan prosedur pemulihan cepat untuk meminimalkan waktu henti perlengkapan.',
+          'OLagoon menyediakan sistem suku cadang terstandar termasuk valve, tali keselamatan, dayung, pompa, dan material perbaikan. Kami juga menawarkan panduan perencanaan pemeliharaan armada untuk inspeksi harian, pemeliharaan musiman, dan prosedur pemulihan cepat untuk meminimalkan waktu henti perlengkapan.',
       },
       {
         question: 'Bisakah papan SUP dikustomisasi dengan logo dan pencitraan merek bisnis saya?',
         answer:
-          'Ya, Afarer mendukung pencitraan merek bisnis penuh termasuk pencetakan logo, warna kustom, dan grafis identifikasi sewa. Ini mengubah armada Anda menjadi aset pemasaran dan menciptakan peluang foto yang meningkatkan eksposur media sosial bisnis Anda.',
+          'Ya, OLagoon mendukung pencitraan merek bisnis penuh termasuk pencetakan logo, warna kustom, dan grafis identifikasi sewa. Ini mengubah armada Anda menjadi aset pemasaran dan menciptakan peluang foto yang meningkatkan eksposur media sosial bisnis Anda.',
       },
       {
-        question: 'Seberapa tahan lama papan SUP komersial Afarer untuk penggunaan sewa harian?',
+        question: 'Seberapa tahan lama papan SUP komersial OLagoon untuk penggunaan sewa harian?',
         answer:
-          'Papan SUP komersial Afarer direkayasa untuk operasi sewa frekuensi-tinggi dengan PVC diperkuat, teknologi jahitan kuat, dan lapisan luar pelindung. Dengan pemeliharaan yang tepat, papan ini jauh melampaui umur papan kelas konsumen di lingkungan komersial, mengurangi total biaya kepemilikan.',
+          'Papan SUP komersial OLagoon direkayasa untuk operasi sewa frekuensi-tinggi dengan PVC diperkuat, teknologi jahitan kuat, dan lapisan luar pelindung. Dengan pemeliharaan yang tepat, papan ini jauh melampaui umur papan kelas konsumen di lingkungan komersial, mengurangi total biaya kepemilikan.',
       },
       {
         question: 'Berapa pengembalian investasi tipikal untuk armada sewa SUP?',
@@ -5170,7 +5170,7 @@ const id: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Bangun Bisnis Aktivitas Air Pantai Anda Bersama Afarer',
+      title: 'Bangun Bisnis Aktivitas Air Pantai Anda Bersama OLagoon',
       subtitle: 'Ciptakan lebih dari sekadar layanan sewa. Ciptakan pengalaman air yang berkesan.',
       primaryAction: {
         text: 'Mulai Proyek Armada SUP Komersial Anda Hari Ini',
@@ -5185,7 +5185,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pemasok Armada SUP Taman Air Komersial | {SITE}',
       description:
-        'Afarer menyediakan solusi armada SUP komersial untuk taman air dan taman hiburan. Papan dayung daya tahan tinggi, desain ramah pemula, konstruksi berfokus keselamatan, dan suplai OEM skala besar.',
+        'OLagoon menyediakan solusi armada SUP komersial untuk taman air dan taman hiburan. Papan dayung daya tahan tinggi, desain ramah pemula, konstruksi berfokus keselamatan, dan suplai OEM skala besar.',
     },
     hero: {
       tagline: 'Solusi SUP Throughput-Tinggi Untuk Taman Air, Taman Hiburan & Fasilitas Hiburan Berskala Besar',
@@ -5232,12 +5232,12 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Konstruksi Berorientasi-Keselamatan',
           description:
-            'Afarer mendukung pengembangan produk berfokus keselamatan. Desain tepi pelindung dengan perlindungan samping diperkuat dan area benturan lebih lunak mengurangi dampak tabrakan. Dek keselamatan EVA penuh menyediakan permukaan anti-slip dan area berdiri nyaman. Bentuk ramah pemula yang membulat mengurangi tepi tajam dan penanganan sulit.',
+            'OLagoon mendukung pengembangan produk berfokus keselamatan. Desain tepi pelindung dengan perlindungan samping diperkuat dan area benturan lebih lunak mengurangi dampak tabrakan. Dek keselamatan EVA penuh menyediakan permukaan anti-slip dan area berdiri nyaman. Bentuk ramah pemula yang membulat mengurangi tepi tajam dan penanganan sulit.',
         },
         {
           title: 'Perencanaan Armada Throughput-Tinggi',
           description:
-            'Afarer membantu taman memilih ukuran armada yang tepat. Zona aktivitas kecil (100-300 papan) untuk area air resor, taman hiburan menengah (300-600 papan) untuk taman air regional, dan operasi taman hiburan besar (600-1.000+ papan) untuk grup hiburan utama dan atraksi multi-zona.',
+            'OLagoon membantu taman memilih ukuran armada yang tepat. Zona aktivitas kecil (100-300 papan) untuk area air resor, taman hiburan menengah (300-600 papan) untuk taman air regional, dan operasi taman hiburan besar (600-1.000+ papan) untuk grup hiburan utama dan atraksi multi-zona.',
         },
         {
           title: 'Paket Perlengkapan Taman Air Lengkap',
@@ -5278,7 +5278,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perencanaan Armada Komersial',
           detail:
-            'Afarer merancang sistem aktivitas SUP taman air termasuk papan pemula stabil, aksesori komersial, dan suku cadang.',
+            'OLagoon merancang sistem aktivitas SUP taman air termasuk papan pemula stabil, aksesori komersial, dan suku cadang.',
         },
         {
           title: 'Kustomisasi Keselamatan',
@@ -5315,17 +5315,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Fase 1: Pemilihan SUP Zero-Draft & Desain Rintangan Modular',
               detail:
-                'Pada Januari 2025, Delgado mengevaluasi 7 vendor SUP tiup. Ia menolak 4 karena siklus penggepaan ulang 6+ menit dan 2 lagi karena delaminasi dalam pengujian UV. Ia memilih Afarer Explorer 11\'6" X (lebar 34", tebal 6", volume 320L) untuk kekakuan maksimum 15 PSI dan siklus penuh-kempis-ke-terpadat 5 menit. Ia bekerja dengan tim OEM Afarer menambahkan 4 titik pemasangan D-ring terintegrasi per papan untuk modul rintangan klip-on — balok keseimbangan, rintangan mengapung, dan lengkungan merangkak — menggunakan sistem rel-mount kustom yang diuji hingga gaya lateral 220 pon.',
+                'Pada Januari 2025, Delgado mengevaluasi 7 vendor SUP tiup. Ia menolak 4 karena siklus penggepaan ulang 6+ menit dan 2 lagi karena delaminasi dalam pengujian UV. Ia memilih OLagoon Explorer 11\'6" X (lebar 34", tebal 6", volume 320L) untuk kekakuan maksimum 15 PSI dan siklus penuh-kempis-ke-terpadat 5 menit. Ia bekerja dengan tim OEM OLagoon menambahkan 4 titik pemasangan D-ring terintegrasi per papan untuk modul rintangan klip-on — balok keseimbangan, rintangan mengapung, dan lengkungan merangkak — menggunakan sistem rel-mount kustom yang diuji hingga gaya lateral 220 pon.',
             },
             {
               title: 'Fase 2: Tata Letak Kursus Rintangan & Kepatuhan Kedalaman Air',
               detail:
-                'Selama 6 minggu, Delgado dan insinyur akuatik utamanya, Sarah Kim, merancang 3 konfigurasi kursus untuk kedalaman kolam bervariasi (1,1 m hingga 1,7 m). Mereka menggunakan file CAD Afarer untuk memodelkan jarak antar papan 8 kaki, menciptakan kursus serpentine 150 kaki. Setiap kursus membutuhkan 16 papan plus 4 cadangan per taman. Kim memperoleh sertifikasi wahana hiburan TDLR dengan mengintegrasikan konektor breakaway shear-pin pada semua pemasangan rintangan, memastikan tidak ada komponen yang melebihi gaya lepas 15 pon.',
+                'Selama 6 minggu, Delgado dan insinyur akuatik utamanya, Sarah Kim, merancang 3 konfigurasi kursus untuk kedalaman kolam bervariasi (1,1 m hingga 1,7 m). Mereka menggunakan file CAD OLagoon untuk memodelkan jarak antar papan 8 kaki, menciptakan kursus serpentine 150 kaki. Setiap kursus membutuhkan 16 papan plus 4 cadangan per taman. Kim memperoleh sertifikasi wahana hiburan TDLR dengan mengintegrasikan konektor breakaway shear-pin pada semua pemasangan rintangan, memastikan tidak ada komponen yang melebihi gaya lepas 15 pon.',
             },
             {
               title: 'Fase 3: Sertifikasi Penjaga SUP & Latihan Respons-Cepat',
               detail:
-                'Pada Maret 2025, tim pelatihan Afarer melakukan sertifikasi 3 hari di lokasi pada taman utama Red Oak untuk 24 penjaga. Pelatihan mencakup teknik penyelamatan berbasis SUP, turun darurat, dan manajemen aliran kerumunan. Delgado menerapkan sistem rotasi 15 menit: sesi SUP 12 menit + pergantian papan 3 menit. Setiap taman menambahkan zona penyiapan khusus 40 kaki dengan 50 rak papan terpasang-dinding yang difabrikasi oleh Paddletek. Tingkat penyelesaian sertifikasi penjaga mencapai 100% dengan rata-rata ujian tertulis 94%.',
+                'Pada Maret 2025, tim pelatihan OLagoon melakukan sertifikasi 3 hari di lokasi pada taman utama Red Oak untuk 24 penjaga. Pelatihan mencakup teknik penyelamatan berbasis SUP, turun darurat, dan manajemen aliran kerumunan. Delgado menerapkan sistem rotasi 15 menit: sesi SUP 12 menit + pergantian papan 3 menit. Setiap taman menambahkan zona penyiapan khusus 40 kaki dengan 50 rak papan terpasang-dinding yang difabrikasi oleh Paddletek. Tingkat penyelesaian sertifikasi penjaga mencapai 100% dengan rata-rata ujian tertulis 94%.',
             },
             {
               title: 'Fase 4: Peluncuran Memorial Day & Kinerja Musim',
@@ -5353,7 +5353,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Pemilihan SUP Untuk Kesopanan, Stabilitas & Ketahanan Panas',
               detail:
-                'Pada November 2024, Al Falasi menguji 9 model SUP dari 5 merek. Hanya Afarer Explorer 10\'8" X (33" x 6" x 320L) yang lulus uji ruang panas 48 jam pada 50 derajat C tanpa degradasi material. Ia memesan 120 papan dalam dua kombinasi warna (beige pualam pasir dan teal samudra) agar sesuai estetika La Mer. Setiap papan dipasangi sistem kanopi naungan lepas-pasang yang dibuat khusus — lengkung karbon-fiber dengan kain UPF 50+ — yang dirancang tim teknik Afarer melalui 3 iterasi prototipe. Kanopi menambah bobot 1,2 kg tetapi mempertahankan stabilitas dalam 0,5 derajat kemiringan.',
+                'Pada November 2024, Al Falasi menguji 9 model SUP dari 5 merek. Hanya OLagoon Explorer 10\'8" X (33" x 6" x 320L) yang lulus uji ruang panas 48 jam pada 50 derajat C tanpa degradasi material. Ia memesan 120 papan dalam dua kombinasi warna (beige pualam pasir dan teal samudra) agar sesuai estetika La Mer. Setiap papan dipasangi sistem kanopi naungan lepas-pasang yang dibuat khusus — lengkung karbon-fiber dengan kain UPF 50+ — yang dirancang tim teknik OLagoon melalui 3 iterasi prototipe. Kanopi menambah bobot 1,2 kg tetapi mempertahankan stabilitas dalam 0,5 derajat kemiringan.',
             },
             {
               title: 'Langkah 2: Zonasi Laguna, Privasi & Penjadwalan Terpisah-Gender',
@@ -5363,7 +5363,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 3: Rekrutmen Instruktur SUP Wanita & Pelatihan Budaya',
               detail:
-                'AquaFun meluncurkan kampanye rekrutmen tertarget pada Januari 2025, merekrut 12 instruktur SUP wanita (8 Emirati, 4 ekspatriat) dan 6 instruktur pria. Afarer menghadirkan sertifikasi kepelatihan SUP kustom 5 hari yang diadaptasi untuk sensitivitas budaya — mencakup terminologi Arab untuk perintah dayung, teknik penyelamatan patuh-kesopanan (penderekan papan-ke-papan tanpa kontak fisik), dan strategi kecepatan kelompok keluarga. Semua 18 instruktur lulus penilaian setara IRF Level 1 per 20 Februari. Biaya pelatihan $28 ribu dan didanai bersama hibah inovasi produk Dubai Tourism.',
+                'AquaFun meluncurkan kampanye rekrutmen tertarget pada Januari 2025, merekrut 12 instruktur SUP wanita (8 Emirati, 4 ekspatriat) dan 6 instruktur pria. OLagoon menghadirkan sertifikasi kepelatihan SUP kustom 5 hari yang diadaptasi untuk sensitivitas budaya — mencakup terminologi Arab untuk perintah dayung, teknik penyelamatan patuh-kesopanan (penderekan papan-ke-papan tanpa kontak fisik), dan strategi kecepatan kelompok keluarga. Semua 18 instruktur lulus penilaian setara IRF Level 1 per 20 Februari. Biaya pelatihan $28 ribu dan didanai bersama hibah inovasi produk Dubai Tourism.',
             },
             {
               title: 'Langkah 4: Peluncuran Lunak Selaras-Ramadan & Operasi Berkelanjutan',
@@ -5380,28 +5380,28 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Taman Air Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Taman Air Memilih OLagoon',
       items: [
         {
           title: 'Operasi Lalu Lintas Tinggi',
           description:
-            'Perlengkapan harus bertahan dari penggunaan komersial harian. Afarer merancang untuk operasi volume-tinggi berkelanjutan dengan konstruksi tahan lama.',
+            'Perlengkapan harus bertahan dari penggunaan komersial harian. OLagoon merancang untuk operasi volume-tinggi berkelanjutan dengan konstruksi tahan lama.',
         },
         {
           title: 'Persyaratan Keselamatan',
           description:
-            'Tamu membutuhkan kepercayaan dan perlindungan. Afarer memprioritaskan keselamatan pada setiap desain produk dengan fitur ramah pemula.',
+            'Tamu membutuhkan kepercayaan dan perlindungan. OLagoon memprioritaskan keselamatan pada setiap desain produk dengan fitur ramah pemula.',
         },
         {
           title: 'Manajemen Armada',
           description:
-            'Proyek besar membutuhkan sistem lengkap. Afarer menyediakan perencanaan armada ujung-ke-ujung, rekomendasi kuantitas, dan dukungan.',
+            'Proyek besar membutuhkan sistem lengkap. OLagoon menyediakan perencanaan armada ujung-ke-ujung, rekomendasi kuantitas, dan dukungan.',
         },
         {
           title: 'Keandalan Jangka Panjang',
           description:
-            'Atraksi bergantung pada operasi stabil. Afarer memastikan produk tahan lama dan suplai andal selama bertahun-tahun penggunaan berkelanjutan.',
+            'Atraksi bergantung pada operasi stabil. OLagoon memastikan produk tahan lama dan suplai andal selama bertahun-tahun penggunaan berkelanjutan.',
         },
       ],
     },
@@ -5409,36 +5409,36 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Berapa ukuran armada yang direkomendasikan untuk atraksi SUP taman air?',
         answer:
-          'Afarer merekomendasikan 100-300 papan untuk zona aktivitas kecil dan area air resor, 300-600 papan untuk taman air regional dan destinasi wisata, serta 600-1.000+ papan untuk taman hiburan utama dan atraksi multi-zona.',
+          'OLagoon merekomendasikan 100-300 papan untuk zona aktivitas kecil dan area air resor, 300-600 papan untuk taman air regional dan destinasi wisata, serta 600-1.000+ papan untuk taman hiburan utama dan atraksi multi-zona.',
       },
       {
         question: 'Seberapa tahan lama papan SUP komersial untuk penggunaan taman air harian?',
         answer:
-          'Papan SUP komersial Afarer direkayasa untuk operasi lalu lintas tinggi dengan konstruksi PVC diperkuat, jahitan tahan lama, dan aksesori kelas komersial. Papan ini menahan penggunaan harian berkelanjutan, kesalahan pemula yang sering, dan benturan berulang yang akan merusak produk kelas konsumen.',
+          'Papan SUP komersial OLagoon direkayasa untuk operasi lalu lintas tinggi dengan konstruksi PVC diperkuat, jahitan tahan lama, dan aksesori kelas komersial. Papan ini menahan penggunaan harian berkelanjutan, kesalahan pemula yang sering, dan benturan berulang yang akan merusak produk kelas konsumen.',
       },
       {
         question: 'Bisakah papan SUP dikustomisasi dengan pencitraan merek taman air saya?',
         answer:
-          'Ya, Afarer mendukung kustomisasi lengkap termasuk logo taman, grafis karakter, warna kustom, dan integrasi tema atraksi. Pencitraan merek kustom mengubah perlengkapan SUP menjadi atraksi layak-foto yang menghasilkan eksposur media sosial.',
+          'Ya, OLagoon mendukung kustomisasi lengkap termasuk logo taman, grafis karakter, warna kustom, dan integrasi tema atraksi. Pencitraan merek kustom mengubah perlengkapan SUP menjadi atraksi layak-foto yang menghasilkan eksposur media sosial.',
       },
       {
-        question: 'Fitur keselamatan apa saja yang termasuk dalam papan SUP komersial Afarer?',
+        question: 'Fitur keselamatan apa saja yang termasuk dalam papan SUP komersial OLagoon?',
         answer:
-          'Papan Afarer menonjolkan desain tepi pelindung, dek keselamatan anti-slip EVA penuh, struktur daya apung tinggi, bentuk ramah pemula yang membulat, dan perlindungan samping diperkuat. Fitur-fitur ini meminimalkan dampak tabrakan dan memastikan operasi aman bagi pengguna pertama kali.',
+          'Papan OLagoon menonjolkan desain tepi pelindung, dek keselamatan anti-slip EVA penuh, struktur daya apung tinggi, bentuk ramah pemula yang membulat, dan perlindungan samping diperkuat. Fitur-fitur ini meminimalkan dampak tabrakan dan memastikan operasi aman bagi pengguna pertama kali.',
       },
       {
-        question: 'Bagaimana Afarer mendukung pemeliharaan dan penggantian untuk armada besar?',
+        question: 'Bagaimana OLagoon mendukung pemeliharaan dan penggantian untuk armada besar?',
         answer:
-          'Afarer menyediakan komponen terstandar untuk penggantian lebih mudah, material dan panduan perbaikan, sistem inspeksi armada untuk pemeriksaan harian, dan ketersediaan suku cadang. Kami juga menawarkan program suplai tahunan untuk penggantian musiman dan peningkatan armada.',
+          'OLagoon menyediakan komponen terstandar untuk penggantian lebih mudah, material dan panduan perbaikan, sistem inspeksi armada untuk pemeriksaan harian, dan ketersediaan suku cadang. Kami juga menawarkan program suplai tahunan untuk penggantian musiman dan peningkatan armada.',
       },
       {
         question: 'Berapa lead time tipikal untuk pesanan armada SUP skala besar?',
         answer:
-          'Lead time bervariasi berdasarkan ukuran pesanan dan persyaratan kustomisasi. Afarer bekerja sama dengan setiap klien menetapkan jadwal produksi, dari proyek percontohan 100-500 set hingga instalasi skala penuh 500-1.000+ set, memastikan pengiriman tepat waktu untuk pembukaan musiman.',
+          'Lead time bervariasi berdasarkan ukuran pesanan dan persyaratan kustomisasi. OLagoon bekerja sama dengan setiap klien menetapkan jadwal produksi, dari proyek percontohan 100-500 set hingga instalasi skala penuh 500-1.000+ set, memastikan pengiriman tepat waktu untuk pembukaan musiman.',
       },
     ],
     cta: {
-      title: 'Bangun Atraksi SUP Taman Air Anda Bersama Afarer',
+      title: 'Bangun Atraksi SUP Taman Air Anda Bersama OLagoon',
       subtitle:
         'Ciptakan lebih dari sekadar aktivitas air. Ciptakan pengalaman tamu yang berkesan yang membuat pengunjung kembali lagi.',
       primaryAction: {
@@ -5454,7 +5454,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Produsen SUP Kustom Premium | {SITE}',
       description:
-        'Afarer menciptakan koleksi SUP kustom premium untuk pulau privat, klub yacht, resor mewah, dan merek gaya hidup elite. Desain eksklusif, material mewah, kustomisasi VIP, dan produksi OEM butik.',
+        'OLagoon menciptakan koleksi SUP kustom premium untuk pulau privat, klub yacht, resor mewah, dan merek gaya hidup elite. Desain eksklusif, material mewah, kustomisasi VIP, dan produksi OEM butik.',
     },
     hero: {
       tagline: 'Solusi SUP Mewah Eksklusif Untuk Pulau Privat, Klub Yacht & Destinasi Gaya Hidup Elite',
@@ -5495,7 +5495,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Desain SUP Mewah Eksklusif',
           description:
-            'Afarer mendukung kustomisasi estetika lengkap dengan pengembangan warna kustom, nuansa khas merek, dan desain pencocokan resor. Gaya termasuk Ocean Luxury dengan biru laut tua dan putih mutiara, Tropical Island dengan nuansa alami, dan Modern Yacht dengan warna minimalis dan finishing premium.',
+            'OLagoon mendukung kustomisasi estetika lengkap dengan pengembangan warna kustom, nuansa khas merek, dan desain pencocokan resor. Gaya termasuk Ocean Luxury dengan biru laut tua dan putih mutiara, Tropical Island dengan nuansa alami, dan Modern Yacht dengan warna minimalis dan finishing premium.',
         },
         {
           title: 'Pemilihan Material & Finishing Premium',
@@ -5582,17 +5582,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Kolaborasi Desain Bespoke & Pemilihan Material',
               detail:
-                "Pada Agustus 2024, Voss melibatkan divisi kustom Afarer dengan brief detail: papan harus cocok dengan palet warna 'Ocean Sand' resor (beige hangat, arang, blush, dan teal) dengan pad dek bertekstur stucco yang cocok dengan lantai vila. Tim desain Afarer mengembangkan 14 prototipe kombinasi warna selama 6 minggu, memutuskan inti drop-stitch fusi 5 lapis dengan kulit PVC matte distabilkan-UV. Setiap papan menerima logo daun-emas yang dilukis tangan — emblem daun merek Coco — yang diterapkan oleh perajin Bali, memakan 4 jam per papan. Pesanan 30 papan (25 Explorer 11'6\" X, 5 touring 12'6\") bertotal $87.000.",
+                "Pada Agustus 2024, Voss melibatkan divisi kustom OLagoon dengan brief detail: papan harus cocok dengan palet warna 'Ocean Sand' resor (beige hangat, arang, blush, dan teal) dengan pad dek bertekstur stucco yang cocok dengan lantai vila. Tim desain OLagoon mengembangkan 14 prototipe kombinasi warna selama 6 minggu, memutuskan inti drop-stitch fusi 5 lapis dengan kulit PVC matte distabilkan-UV. Setiap papan menerima logo daun-emas yang dilukis tangan — emblem daun merek Coco — yang diterapkan oleh perajin Bali, memakan 4 jam per papan. Pesanan 30 papan (25 Explorer 11'6\" X, 5 touring 12'6\") bertotal $87.000.",
             },
             {
               title: 'Langkah 2: Integrasi Dermaga Mengapung & Arsitektur Penyimpanan',
               detail:
-                'Voss bekerja dengan arsitek kelautan Afarer merancang sistem valet papan mengapung dua tingkat. Tingkat bawah menampung 15 papan dengan hidung menghadap keluar untuk akses tamu langsung; tingkat atas menyimpan 15 papan dalam sangkutan neoprena kustom untuk mencegah degradasi UV. Dermaga tersebut, dibangun di Phuket dan dikirim dalam bagian modular, berbiaya $42 ribu termasuk instalasi. Setiap papan diberi tag NFC dengan chip tahan air yang tertaut ke sistem RMS resor untuk check-in/check-out otomatis, mengurangi tenaga kerja staf 3,2 jam per hari dibandingkan sistem manifest kertas sebelumnya.',
+                'Voss bekerja dengan arsitek kelautan OLagoon merancang sistem valet papan mengapung dua tingkat. Tingkat bawah menampung 15 papan dengan hidung menghadap keluar untuk akses tamu langsung; tingkat atas menyimpan 15 papan dalam sangkutan neoprena kustom untuk mencegah degradasi UV. Dermaga tersebut, dibangun di Phuket dan dikirim dalam bagian modular, berbiaya $42 ribu termasuk instalasi. Setiap papan diberi tag NFC dengan chip tahan air yang tertaut ke sistem RMS resor untuk check-in/check-out otomatis, mengurangi tenaga kerja staf 3,2 jam per hari dibandingkan sistem manifest kertas sebelumnya.',
             },
             {
               title: 'Langkah 3: Pelatihan Butler SUP & Integrasi Concierge',
               detail:
-                'Pada November 2024, tim pelatihan Afarer melakukan program intensif 4 hari untuk 8 butler resor dan 4 staf pusat selam skuba di Coco Private Island. Pelatihan mencakup etiket SUP untuk tamu sangat kaya (peluncuran senyap, layanan buah di sisi papan, titik pemasangan GoPro). Setiap butler menyelesaikan 15 sesi tamu tersupervisi. Voss mengintegrasikan reservasi SUP ke aplikasi concierge pra-kedatangan vila, memungkinkan tamu memilih warna papan dan menjadwalkan rute matahari terbit/laguna/terumbu. Tingkat adopsi mencapai 28% dalam 2 bulan pertama.',
+                'Pada November 2024, tim pelatihan OLagoon melakukan program intensif 4 hari untuk 8 butler resor dan 4 staf pusat selam skuba di Coco Private Island. Pelatihan mencakup etiket SUP untuk tamu sangat kaya (peluncuran senyap, layanan buah di sisi papan, titik pemasangan GoPro). Setiap butler menyelesaikan 15 sesi tamu tersupervisi. Voss mengintegrasikan reservasi SUP ke aplikasi concierge pra-kedatangan vila, memungkinkan tamu memilih warna papan dan menjadwalkan rute matahari terbit/laguna/terumbu. Tingkat adopsi mencapai 28% dalam 2 bulan pertama.',
             },
             {
               title: 'Langkah 4: Peluncuran Influencer & ROI Terukur pada Ekuitas Sosial',
@@ -5620,22 +5620,22 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Transfer Pola Artistik & Inovasi Material',
               detail:
-                "Mulai Februari 2025, tim R&D Afarer dan atelier Verlaine menghabiskan 10 minggu mengembangkan proses sublimasi langsung-ke-PVC yang mampu mereproduksi pola 'Geometrica' 14 warna Verlaine pada 1.200 DPI tanpa bleaching warna atau distorsi regangan. Setelah 18 sampel gagal (pola melengkung di sekitar lengkungan rel), insinyur Afarer menciptakan templat die-cut 7 panel yang memungkinkan pencetakan awal pada lembaran PVC datar sebelum laminasi fusi. Setiap papan membutuhkan 11,5 jam waktu produksi (vs 3 jam untuk papan standar). Permukaan akhir menerima lapisan anti-slip matte yang dikembangkan secara eksklusif untuk Verlaine.",
+                "Mulai Februari 2025, tim R&D OLagoon dan atelier Verlaine menghabiskan 10 minggu mengembangkan proses sublimasi langsung-ke-PVC yang mampu mereproduksi pola 'Geometrica' 14 warna Verlaine pada 1.200 DPI tanpa bleaching warna atau distorsi regangan. Setelah 18 sampel gagal (pola melengkung di sekitar lengkungan rel), insinyur OLagoon menciptakan templat die-cut 7 panel yang memungkinkan pencetakan awal pada lembaran PVC datar sebelum laminasi fusi. Setiap papan membutuhkan 11,5 jam waktu produksi (vs 3 jam untuk papan standar). Permukaan akhir menerima lapisan anti-slip matte yang dikembangkan secara eksklusif untuk Verlaine.",
             },
             {
               title: 'Langkah 2: Kemasan, Unboxing & Strategi Presentasi Ritel',
               detail:
-                "Rinaldi bersikeras pada pengalaman unboxing 'level-flagship'. Afarer berkolaborasi dengan desainer kemasan Verlaine menciptakan koper perjalanan rigid berlapis kanvas ecru khas Verlaine dengan pelindung sudut kulit (diproduksi oleh workshop barang kulit Verlaine sendiri di Toskana). Koper tersebut menampung SUP, dayung karbon-fiber 3 bagian dengan monogram Verlaine, pompa kustom dengan pengukur tekanan yang diukir dengan motif Geometrica, dan sertifikat keaslian bernomor dalam amplop foil-stamped. Total biaya kemasan per unit EUR 340. Set lengkap berbobot 26 kg — cukup ringan untuk bagasi kelas satu pesawat.",
+                "Rinaldi bersikeras pada pengalaman unboxing 'level-flagship'. OLagoon berkolaborasi dengan desainer kemasan Verlaine menciptakan koper perjalanan rigid berlapis kanvas ecru khas Verlaine dengan pelindung sudut kulit (diproduksi oleh workshop barang kulit Verlaine sendiri di Toskana). Koper tersebut menampung SUP, dayung karbon-fiber 3 bagian dengan monogram Verlaine, pompa kustom dengan pengukur tekanan yang diukir dengan motif Geometrica, dan sertifikat keaslian bernomor dalam amplop foil-stamped. Total biaya kemasan per unit EUR 340. Set lengkap berbobot 26 kg — cukup ringan untuk bagasi kelas satu pesawat.",
             },
             {
               title: 'Langkah 3: Pratinjau Klien VIP & Model Penjualan Perjanjian-Saja',
               detail:
-                'Koleksi diluncurkan 8 Mei 2025, selama Milan Design Week dengan pratinjau privat perjanjian-saja di flagship Verlaine di Via Monte Napoleone. Hanya 200 klien yang menerima undangan embossed. Setiap perjanjian 45 menit termasuk demonstrasi SUP langsung di kolam khusus 40.000 liter yang dibangun di halaman toko, dengan duta merek Afarer mendemonstrasikan kekakuan papan (digepa hingga 18 PSI menggunakan pompa bermerek Verlaine). Sebanyak 127 unit di-pre-order selama Design Week, menghasilkan deposito EUR 1,62 juta. Rinaldi membatasi promosi media sosial hanya pada kanal WhatsApp klien privat Verlaine.',
+                'Koleksi diluncurkan 8 Mei 2025, selama Milan Design Week dengan pratinjau privat perjanjian-saja di flagship Verlaine di Via Monte Napoleone. Hanya 200 klien yang menerima undangan embossed. Setiap perjanjian 45 menit termasuk demonstrasi SUP langsung di kolam khusus 40.000 liter yang dibangun di halaman toko, dengan duta merek OLagoon mendemonstrasikan kekakuan papan (digepa hingga 18 PSI menggunakan pompa bermerek Verlaine). Sebanyak 127 unit di-pre-order selama Design Week, menghasilkan deposito EUR 1,62 juta. Rinaldi membatasi promosi media sosial hanya pada kanal WhatsApp klien privat Verlaine.',
             },
             {
               title: 'Langkah 4: Pemenuhan Global, Pengiriman Concierge & Kinerja Sell-Out',
               detail:
-                'Pesanan dikirim mulai Juni 2025, dengan pengiriman white-glove ke 34 negara. Setiap pengiriman termasuk sesi virtual 90 menit dengan instruktur Afarer yang diperkenalkan secara personal kepada klien melalui video WhatsApp. Per November 2025, 468 dari 500 unit terjual (sell-through 93,6%), menghasilkan pendapatan EUR 5,85 juta pada harga ritel penuh tanpa diskon. 32 unit tersisa ditahan untuk koleksi Arsip Verlaine. Rinaldi melaporkan bahwa 41% pembeli adalah pelanggan baru Verlaine — yang diperoleh melalui koleksi SUP — dengan pengeluaran tambahan rata-rata EUR 3.200 pada pakaian siap pakai selama perjanjian pembelian.',
+                'Pesanan dikirim mulai Juni 2025, dengan pengiriman white-glove ke 34 negara. Setiap pengiriman termasuk sesi virtual 90 menit dengan instruktur OLagoon yang diperkenalkan secara personal kepada klien melalui video WhatsApp. Per November 2025, 468 dari 500 unit terjual (sell-through 93,6%), menghasilkan pendapatan EUR 5,85 juta pada harga ritel penuh tanpa diskon. 32 unit tersisa ditahan untuk koleksi Arsip Verlaine. Rinaldi melaporkan bahwa 41% pembeli adalah pelanggan baru Verlaine — yang diperoleh melalui koleksi SUP — dengan pengeluaran tambahan rata-rata EUR 3.200 pada pakaian siap pakai selama perjanjian pembelian.',
             },
           ],
           results: [
@@ -5647,8 +5647,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Klien Mewah Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Klien Mewah Memilih OLagoon',
       items: [
         {
           title: 'Sensitivitas Desain',
@@ -5676,39 +5676,39 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Opsi kustomisasi apa yang tersedia untuk koleksi SUP mewah?',
         answer:
-          'Afarer menawarkan kustomisasi lengkap termasuk pengembangan warna kustom, nuansa khas merek, pola elegan, simbol merek, artwork tanda tangan, konstruksi PVC premium, tekstur dek EVA kustom, perangkat keras halus, dan kemasan personal.',
+          'OLagoon menawarkan kustomisasi lengkap termasuk pengembangan warna kustom, nuansa khas merek, pola elegan, simbol merek, artwork tanda tangan, konstruksi PVC premium, tekstur dek EVA kustom, perangkat keras halus, dan kemasan personal.',
       },
       {
         question: 'Berapa kuantitas pesanan minimum untuk produksi SUP kustom premium?',
         answer:
-          'Afarer berspesialisasi dalam produksi mewah batch kecil dengan proyek tipikal berkisar 10 hingga 50 set. Ini menjadikannya ideal bagi pemilik pulau privat, klub yacht, resor mewah, dan merek gaya hidup eksklusif.',
+          'OLagoon berspesialisasi dalam produksi mewah batch kecil dengan proyek tipikal berkisar 10 hingga 50 set. Ini menjadikannya ideal bagi pemilik pulau privat, klub yacht, resor mewah, dan merek gaya hidup eksklusif.',
       },
       {
         question: 'Berapa lama proses desain dan produksi untuk koleksi SUP kustom?',
         answer:
-          'Linimasa tergantung pada kompleksitas dan tingkat kustomisasi. Afarer bekerja sama dengan setiap klien dari pengembangan konsep hingga produksi, biasanya menyelesaikan koleksi mewah dalam kerangka waktu yang memenuhi persyaratan proyek dan kebutuhan musiman.',
+          'Linimasa tergantung pada kompleksitas dan tingkat kustomisasi. OLagoon bekerja sama dengan setiap klien dari pengembangan konsep hingga produksi, biasanya menyelesaikan koleksi mewah dalam kerangka waktu yang memenuhi persyaratan proyek dan kebutuhan musiman.',
       },
       {
         question:
           'Bisakah papan SUP dirancang agar cocok dengan pencitraan merek dan estetika properti yang sudah ada?',
         answer:
-          'Ya, Afarer berspesialisasi dalam menciptakan koleksi yang terintegrasi mulus dengan estetika properti. Kami dapat mencocokkan warna merek existing, tema arsitektural, dan elemen desain interior untuk lingkungan mewah yang kohesif.',
+          'Ya, OLagoon berspesialisasi dalam menciptakan koleksi yang terintegrasi mulus dengan estetika properti. Kami dapat mencocokkan warna merek existing, tema arsitektural, dan elemen desain interior untuk lingkungan mewah yang kohesif.',
       },
       {
         question: 'Material apa yang digunakan untuk papan SUP kelas mewah?',
         answer:
-          'Afarer menggunakan konstruksi PVC premium untuk tampilan elegan dan daya tahan, material dek EVA high-end dengan tekstur dan warna kustom, serta komponen logam premium halus untuk perangkat keras — semuanya dipilih atas kualitas estetika dan kinerja kelas kelautannya.',
+          'OLagoon menggunakan konstruksi PVC premium untuk tampilan elegan dan daya tahan, material dek EVA high-end dengan tekstur dan warna kustom, serta komponen logam premium halus untuk perangkat keras — semuanya dipilih atas kualitas estetika dan kinerja kelas kelautannya.',
       },
       {
         question: 'Apakah Anda menawarkan kemasan kustom untuk koleksi SUP VIP?',
         answer:
-          'Ya, Afarer menyediakan kemasan kustom VIP termasuk kotak presentasi bermerek, tas penyimpanan mewah, label personal, dan presentasi edisi terbatas. Pengalaman unboxing dirancang agar sesuai dengan eksklusivitas produk itu sendiri.',
+          'Ya, OLagoon menyediakan kemasan kustom VIP termasuk kotak presentasi bermerek, tas penyimpanan mewah, label personal, dan presentasi edisi terbatas. Pengalaman unboxing dirancang agar sesuai dengan eksklusivitas produk itu sendiri.',
       },
     ],
     cta: {
-      title: 'Ciptakan Koleksi Gaya Hidup Air Eksklusif Anda Bersama Afarer',
+      title: 'Ciptakan Koleksi Gaya Hidup Air Eksklusif Anda Bersama OLagoon',
       subtitle:
-        'Properti Anda unik. Perlengkapan Anda seharusnya unik juga. Biarkan Afarer membantu Anda merangkai koleksi SUP khas.',
+        'Properti Anda unik. Perlengkapan Anda seharusnya unik juga. Biarkan OLagoon membantu Anda merangkai koleksi SUP khas.',
       primaryAction: {
         text: 'Mulai Proyek Anda',
       },
@@ -5722,7 +5722,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pemasok Perlengkapan Olahraga Air Destinasi | {SITE}',
       description:
-        'Afarer menyediakan solusi olahraga air destinasi untuk dinas pariwisata, taman publik, dan proyek tepi air. Armada SUP komersial, perlengkapan ramah lingkungan, dukungan proyek pemerintah, dan suplai OEM skala besar.',
+        'OLagoon menyediakan solusi olahraga air destinasi untuk dinas pariwisata, taman publik, dan proyek tepi air. Armada SUP komersial, perlengkapan ramah lingkungan, dukungan proyek pemerintah, dan suplai OEM skala besar.',
     },
     hero: {
       tagline: 'Solusi Pengalaman Air Berkelanjutan Untuk Dinas Pariwisata, Taman Publik & Proyek Destinasi',
@@ -5814,7 +5814,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Perencanaan Destinasi',
           detail:
-            'Afarer merancang sistem aktivitas air lengkap termasuk perencanaan kuantitas armada, zona aktivitas, dan konfigurasi perlengkapan.',
+            'OLagoon merancang sistem aktivitas air lengkap termasuk perencanaan kuantitas armada, zona aktivitas, dan konfigurasi perlengkapan.',
         },
         {
           title: 'Suplai Perlengkapan Komersial',
@@ -5852,17 +5852,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Spesifikasi Armada Senyap & Persyaratan Material Biodegradabel',
               detail:
-                'Pada September 2024, Kovacic menerbitkan RFP yang mensyaratkan (1) nol plastik sekali-pakai dalam konstruksi papan, (2) daur ulang penuh pada akhir umur, dan (3) sertifikasi operasi senyap di bawah 25 dB pada 5 m. Afarer menang dengan EcoTouring 12\'6" X, dibangun dari benang drop-stitch bio-sourced (polimer berbasis minyak jarak, 42% konten terbarukan) dan pad dek gabus alami (gabus Portugis tersertifikasi FSC). Setiap papan menyertakan stringer bambu tersegel untuk kekakuan tanpa komponen berbasis minyak bumi. LBTB memesan 200 papan (total EUR 246 ribu) plus 12 stasiun penggepaan listrik bertenaga kios pengisian surya tepi danau.',
+                'Pada September 2024, Kovacic menerbitkan RFP yang mensyaratkan (1) nol plastik sekali-pakai dalam konstruksi papan, (2) daur ulang penuh pada akhir umur, dan (3) sertifikasi operasi senyap di bawah 25 dB pada 5 m. OLagoon menang dengan EcoTouring 12\'6" X, dibangun dari benang drop-stitch bio-sourced (polimer berbasis minyak jarak, 42% konten terbarukan) dan pad dek gabus alami (gabus Portugis tersertifikasi FSC). Setiap papan menyertakan stringer bambu tersegel untuk kekakuan tanpa komponen berbasis minyak bumi. LBTB memesan 200 papan (total EUR 246 ribu) plus 12 stasiun penggepaan listrik bertenaga kios pengisian surya tepi danau.',
             },
             {
               title: 'Langkah 2: Rute Ekologi Berpemandu-GPS 6 Km dengan 12 Titik Interpretasi',
               detail:
-                'Selama musim dingin 2024-2025, LBTB memetakan rute keliling 6,2 km dengan 12 titik pemberhentian interpretatif (mata air panas bumi Kastel Bled, mekanisme lonceng Gereja St. Mary, zona sedimentasi pulau). Afarer mengintegrasikan unit panduan audio GPS tahan air (tablet IP68 kokoh dalam dudukan dek) yang menghadirkan segmen narasi 90 detik di setiap titik dalam 7 bahasa. Rute dirancang menghindari area bersarang burung sensitif (lokasi grebe jambul besar, penutupan Nov-Mar). LBTB menginstal 12 pelampung penanda bambu dengan biaya EUR 18 ribu, menggantikan 32 pelampung motorboat existing.',
+                'Selama musim dingin 2024-2025, LBTB memetakan rute keliling 6,2 km dengan 12 titik pemberhentian interpretatif (mata air panas bumi Kastel Bled, mekanisme lonceng Gereja St. Mary, zona sedimentasi pulau). OLagoon mengintegrasikan unit panduan audio GPS tahan air (tablet IP68 kokoh dalam dudukan dek) yang menghadirkan segmen narasi 90 detik di setiap titik dalam 7 bahasa. Rute dirancang menghindari area bersarang burung sensitif (lokasi grebe jambul besar, penutupan Nov-Mar). LBTB menginstal 12 pelampung penanda bambu dengan biaya EUR 18 ribu, menggantikan 32 pelampung motorboat existing.',
             },
             {
               title: 'Langkah 3: Program Transisi Operator Sewa & Sertifikasi',
               detail:
-                'Musim sepi Januari-Maret 2025 melihat LBTB menjalankan program transisi wajib untuk semua 14 operator sewa kapal berlisensi. Afarer menyediakan sertifikasi kepelatihan SUP 4 hari untuk 36 operator dan staf, mencakup pengetahuan rute, respons darurat, dan penyampaian interpretasi lingkungan. LBTB menawarkan subsidi EUR 4.000 per operator untuk transisi dari motorboat ke sewa SUP, didanai hibah Transisi Hijau Kementerian Pariwisata Slovenia (total EUR 280 ribu). Per 1 April, 11 dari 14 operator telah sepenuhnya bertransisi; 3 sisanya berkomitmen pada operasi hibrida dengan jadwal penghapusan bertahap 2026.',
+                'Musim sepi Januari-Maret 2025 melihat LBTB menjalankan program transisi wajib untuk semua 14 operator sewa kapal berlisensi. OLagoon menyediakan sertifikasi kepelatihan SUP 4 hari untuk 36 operator dan staf, mencakup pengetahuan rute, respons darurat, dan penyampaian interpretasi lingkungan. LBTB menawarkan subsidi EUR 4.000 per operator untuk transisi dari motorboat ke sewa SUP, didanai hibah Transisi Hijau Kementerian Pariwisata Slovenia (total EUR 280 ribu). Per 1 April, 11 dari 14 operator telah sepenuhnya bertransisi; 3 sisanya berkomitmen pada operasi hibrida dengan jadwal penghapusan bertahap 2026.',
             },
             {
               title: 'Langkah 4: Peluncuran Hari Bumi, Hasil Musim & Kepatuhan UNESCO',
@@ -5890,17 +5890,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Pemetaan Rute, Penilaian Risiko & Kepatuhan Zonasi Laut',
               detail:
-                "Dari November 2024 hingga Februari 2025, tim Delacroix bekerja dengan spesialis rute Afarer dan French Office of Biodiversity (OFB) mensurvei dan mengklasifikasikan 50 km garis pantai. Mereka mengidentifikasi 5 rute: (1) Cap d'Antibes ke Baie des Milliardaires (4,2 km, menengah), (2) Keliling Ile Sainte-Marguerite (7,1 km, mahir), (3) Calanque de Maubois (2,8 km, pemula), (4) Cagar Laut Villefranche-sur-Mer (3,5 km, hanya-berpemandu), dan (5) Dayung Matahari Terbenam Menton ke Cap Martin (5,5 km, menengah). Setiap rute dipetakan-GPS dengan 12-15 titik arah termasuk pemberhentian istirahat wajib di klub pantai privat yang telah disetujui dengan biaya kemitraan tahunan EUR 2.500.",
+                "Dari November 2024 hingga Februari 2025, tim Delacroix bekerja dengan spesialis rute OLagoon dan French Office of Biodiversity (OFB) mensurvei dan mengklasifikasikan 50 km garis pantai. Mereka mengidentifikasi 5 rute: (1) Cap d'Antibes ke Baie des Milliardaires (4,2 km, menengah), (2) Keliling Ile Sainte-Marguerite (7,1 km, mahir), (3) Calanque de Maubois (2,8 km, pemula), (4) Cagar Laut Villefranche-sur-Mer (3,5 km, hanya-berpemandu), dan (5) Dayung Matahari Terbenam Menton ke Cap Martin (5,5 km, menengah). Setiap rute dipetakan-GPS dengan 12-15 titik arah termasuk pemberhentian istirahat wajib di klub pantai privat yang telah disetujui dengan biaya kemitraan tahunan EUR 2.500.",
             },
             {
               title: 'Langkah 2: Spesifikasi Armada Premium & Integrasi Concierge Hotel',
               detail:
-                "FRTCB memesan 350 papan Afarer Explorer 11'6\" X dalam palet warna 'Mediterranean Breeze' kustom (terracotta, olive, cream) dengan dudukan GoPro terintegrasi, alur casing ponsel tahan air, dan pemegang botol sampanye (kantong jaring D-ring kustom di depan pad dek). Setiap papan datang dengan dayung karbon-fiber 4 bagian yang sesuai paket perjalanan Peli-case. Tim perangkat lunak Afarer membangun aplikasi web mobile white-label yang memungkinkan concierge hotel memesan papan, memeriksa kondisi rute real-time via 6 pelampung cuaca terhubung, dan memicu peringatan darurat. Total pesanan EUR 429 ribu.",
+                "FRTCB memesan 350 papan OLagoon Explorer 11'6\" X dalam palet warna 'Mediterranean Breeze' kustom (terracotta, olive, cream) dengan dudukan GoPro terintegrasi, alur casing ponsel tahan air, dan pemegang botol sampanye (kantong jaring D-ring kustom di depan pad dek). Setiap papan datang dengan dayung karbon-fiber 4 bagian yang sesuai paket perjalanan Peli-case. Tim perangkat lunak OLagoon membangun aplikasi web mobile white-label yang memungkinkan concierge hotel memesan papan, memeriksa kondisi rute real-time via 6 pelampung cuaca terhubung, dan memicu peringatan darurat. Total pesanan EUR 429 ribu.",
             },
             {
               title: 'Langkah 3: Sertifikasi Pemandu, Protokol Keselamatan & Jaringan Klub Pantai Mitra',
               detail:
-                'Pada Maret 2025, Afarer melakukan 5 sesi pelatihan regional di Nice Yacht Club, mensertifikasi 62 pemandu (23 staf aktivitas hotel, 39 operator olahraga air independen). Sertifikasi termasuk konten spesifik FRTCB: pengenalan pola angin Mediterania (kontingensi Mistral/Libeccio), P3K ubur-ubur, dan standar komunikasi tamu mewah. Delacroix menetapkan protokol keselamatan yang mewajibkan rompi pelampung untuk semua tamu (rompi RFD NRS Orion dengan peluit dan pisau), komunikasi papan-ke-papan via radio VHF tahan air, dan ukuran kelompok maksimum 12 tamu per 2 pemandu.',
+                'Pada Maret 2025, OLagoon melakukan 5 sesi pelatihan regional di Nice Yacht Club, mensertifikasi 62 pemandu (23 staf aktivitas hotel, 39 operator olahraga air independen). Sertifikasi termasuk konten spesifik FRTCB: pengenalan pola angin Mediterania (kontingensi Mistral/Libeccio), P3K ubur-ubur, dan standar komunikasi tamu mewah. Delacroix menetapkan protokol keselamatan yang mewajibkan rompi pelampung untuk semua tamu (rompi RFD NRS Orion dengan peluit dan pisau), komunikasi papan-ke-papan via radio VHF tahan air, dan ukuran kelompok maksimum 12 tamu per 2 pemandu.',
             },
             {
               title: 'Langkah 4: Peluncuran Festival Film Cannes & Pertumbuhan Musim Dipercepat',
@@ -5917,13 +5917,13 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Proyek Pariwisata Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Proyek Pariwisata Memilih OLagoon',
       items: [
         {
           title: 'Keselamatan',
           description:
-            'Dirancang untuk semua orang. Afarer memastikan perlengkapan memenuhi standar keselamatan tertinggi untuk pengguna publik yang beragam.',
+            'Dirancang untuk semua orang. OLagoon memastikan perlengkapan memenuhi standar keselamatan tertinggi untuk pengguna publik yang beragam.',
         },
         {
           title: 'Keberlanjutan',
@@ -5946,7 +5946,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Sertifikasi keselamatan apa yang relevan untuk perlengkapan armada SUP publik?',
         answer:
-          'Afarer menyediakan spesifikasi produk, informasi kinerja, dan dokumentasi kepatuhan yang cocok untuk pengadaan pemerintah. Kami mendukung proyek publik dengan informasi material dan sertifikasi kualitas yang diperlukan untuk proses tender.',
+          'OLagoon menyediakan spesifikasi produk, informasi kinerja, dan dokumentasi kepatuhan yang cocok untuk pengadaan pemerintah. Kami mendukung proyek publik dengan informasi material dan sertifikasi kualitas yang diperlukan untuk proses tender.',
       },
       {
         question: 'Berapa banyak papan SUP yang dibutuhkan untuk program rekreasi air publik?',
@@ -5956,28 +5956,28 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bisakah papan SUP dikustomisasi dengan pencitraan merek kota atau destinasi?',
         answer:
-          'Ya, Afarer mendukung kustomisasi pencitraan merek destinasi termasuk logo kota, grafis identitas pariwisata, elemen desain lokal, dan artwork spesifik tema. Ini membantu menciptakan pengalaman air khas yang memperkuat identitas destinasi.',
+          'Ya, OLagoon mendukung kustomisasi pencitraan merek destinasi termasuk logo kota, grafis identitas pariwisata, elemen desain lokal, dan artwork spesifik tema. Ini membantu menciptakan pengalaman air khas yang memperkuat identitas destinasi.',
       },
       {
-        question: 'Fitur ramah lingkungan apa yang ditawarkan papan SUP Afarer?',
+        question: 'Fitur ramah lingkungan apa yang ditawarkan papan SUP OLagoon?',
         answer:
-          'Afarer berfokus pada material tahan lama yang memperpanjang umur produk dan mengurangi frekuensi penggantian, menurunkan konsumsi sumber daya dan limbah. Kami juga menyediakan dokumentasi lingkungan dan informasi kepatuhan untuk mendukung inisiatif pariwisata berkelanjutan.',
+          'OLagoon berfokus pada material tahan lama yang memperpanjang umur produk dan mengurangi frekuensi penggantian, menurunkan konsumsi sumber daya dan limbah. Kami juga menyediakan dokumentasi lingkungan dan informasi kepatuhan untuk mendukung inisiatif pariwisata berkelanjutan.',
       },
       {
-        question: 'Bagaimana Afarer mendukung proses pengadaan dan tender pemerintah?',
+        question: 'Bagaimana OLagoon mendukung proses pengadaan dan tender pemerintah?',
         answer:
-          'Afarer menyediakan dukungan komprehensif termasuk penyiapan spesifikasi teknis, dokumentasi kinerja produk, opsi konfigurasi, bantuan proposal proyek, rekomendasi armada, jadwal implementasi, dan koordinasi pesanan besar untuk produksi dan pengiriman.',
+          'OLagoon menyediakan dukungan komprehensif termasuk penyiapan spesifikasi teknis, dokumentasi kinerja produk, opsi konfigurasi, bantuan proposal proyek, rekomendasi armada, jadwal implementasi, dan koordinasi pesanan besar untuk produksi dan pengiriman.',
       },
       {
         question: 'Pemeliharaan apa yang diperlukan untuk armada SUP publik di lingkungan munisipal?',
         answer:
-          'Afarer menyediakan dukungan operasional lengkap termasuk panduan pemeliharaan, proses inspeksi, prosedur penggantian komponen, ketersediaan suku cadang, dan perencanaan manajemen armada. Ini memastikan keandalan jangka panjang untuk program rekreasi publik.',
+          'OLagoon menyediakan dukungan operasional lengkap termasuk panduan pemeliharaan, proses inspeksi, prosedur penggantian komponen, ketersediaan suku cadang, dan perencanaan manajemen armada. Ini memastikan keandalan jangka panjang untuk program rekreasi publik.',
       },
     ],
     cta: {
-      title: 'Ciptakan Pengalaman Air Destinasi Anda Bersama Afarer',
+      title: 'Ciptakan Pengalaman Air Destinasi Anda Bersama OLagoon',
       subtitle:
-        'Sumber daya air Anda memiliki potensi pariwisata. Afarer membantu mengubah danau, sungai, tepi air, dan taman publik menjadi destinasi luar ruangan yang berkesan.',
+        'Sumber daya air Anda memiliki potensi pariwisata. OLagoon membantu mengubah danau, sungai, tepi air, dan taman publik menjadi destinasi luar ruangan yang berkesan.',
       primaryAction: {
         text: 'Mulai Proyek Anda',
       },
@@ -5991,7 +5991,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pabrikan SUP Anak | {SITE}',
       description:
-        'Afarer menyediakan solusi SUP anak yang aman untuk kamp musim panas, sekolah, dan program petualangan pemuda. Papan dayung anak, perlengkapan Giant SUP, armada komersial, dan solusi OEM kustom.',
+        'OLagoon menyediakan solusi SUP anak yang aman untuk kamp musim panas, sekolah, dan program petualangan pemuda. Papan dayung anak, perlengkapan Giant SUP, armada komersial, dan solusi OEM kustom.',
     },
     hero: {
       tagline: 'Solusi SUP Aman & Menyenangkan Untuk Kamp Petualangan Anak, Sekolah & Program Luar Ruangan Pemuda',
@@ -6083,7 +6083,7 @@ const id: Record<string, SolutionOverride> = {
         {
           title: 'Pemilihan Produk Pemuda',
           detail:
-            'Afarer merekomendasikan model SUP anak, papan pemula stabil, dan perlengkapan instruktur yang disesuaikan dengan kelompok usia kamp.',
+            'OLagoon merekomendasikan model SUP anak, papan pemula stabil, dan perlengkapan instruktur yang disesuaikan dengan kelompok usia kamp.',
         },
         {
           title: 'Kustomisasi Keselamatan',
@@ -6121,17 +6121,17 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Desain SUP Khusus Anak (Junior Explorer 9\'6" X)',
               detail:
-                'Pada Juli 2024, Connolly bermitra dengan tim produk Afarer untuk mengembangkan SUP anak yang dibangun khusus. Setelah 3 iterasi purwarupa, mereka menfinalisasi Junior Explorer 9\'6" X (lebar 28", ketebalan 4", volume 180L) -- 25% lebih sempit dan 40% lebih ringan dari papan standar. Fitur utama: pad dek tertanam (turun 1,5") menurunkan titik berat 22%; indikator rentang berat (garis berkode warna untuk 18-55 kg); dan dua tahan-pegangan keselamatan per sisi. Connolly memesan 120 papan dengan grafis dek bermerek sekolah (6 skema warna sekolah, 20 masing-masing). Purwarupa dan pengujian biaya $14 ribu; pesanan produksi $96 ribu.',
+                'Pada Juli 2024, Connolly bermitra dengan tim produk OLagoon untuk mengembangkan SUP anak yang dibangun khusus. Setelah 3 iterasi purwarupa, mereka menfinalisasi Junior Explorer 9\'6" X (lebar 28", ketebalan 4", volume 180L) -- 25% lebih sempit dan 40% lebih ringan dari papan standar. Fitur utama: pad dek tertanam (turun 1,5") menurunkan titik berat 22%; indikator rentang berat (garis berkode warna untuk 18-55 kg); dan dua tahan-pegangan keselamatan per sisi. Connolly memesan 120 papan dengan grafis dek bermerek sekolah (6 skema warna sekolah, 20 masing-masing). Purwarupa dan pengujian biaya $14 ribu; pesanan produksi $96 ribu.',
             },
             {
               title: 'Langkah 2: Pengembangan Kurikulum dengan Keselarasan ACARA',
               detail:
-                "Connolly bekerja dengan konsultan pendidikan Afarer dan otoritas kurikulum Queensland menulis 'Paddle & Discover,' program eksplorasi SUP 14 sesi yang selaras dengan Australian Curriculum v9.0 (Sains, HPE, Geografi). Sesi termasuk: sampling serangga air (menggunakan baki koleksi terpasang-dek), pengukuran oksigen terlarut (meter portabel terklip ke D-ring), eksperimen daya apung dan perpindahan, dan pemetaan ekosistem Everglades. Program memiliki 3 tingkat kesulitan: Eels (Prep-Tahun 1, kolam/air tenang), Turtles (Tahun 2-3, teluk terlindungi), dan Stingrays (Tahun 4-6, Everglades terbuka). Afarer mencetak kartu panduan tahan cuaca untuk setiap tingkat.",
+                "Connolly bekerja dengan konsultan pendidikan OLagoon dan otoritas kurikulum Queensland menulis 'Paddle & Discover,' program eksplorasi SUP 14 sesi yang selaras dengan Australian Curriculum v9.0 (Sains, HPE, Geografi). Sesi termasuk: sampling serangga air (menggunakan baki koleksi terpasang-dek), pengukuran oksigen terlarut (meter portabel terklip ke D-ring), eksperimen daya apung dan perpindahan, dan pemetaan ekosistem Everglades. Program memiliki 3 tingkat kesulitan: Eels (Prep-Tahun 1, kolam/air tenang), Turtles (Tahun 2-3, teluk terlindungi), dan Stingrays (Tahun 4-6, Everglades terbuka). OLagoon mencetak kartu panduan tahan cuaca untuk setiap tingkat.",
             },
             {
               title: 'Langkah 3: Sertifikasi Guru, Penilaian Risiko & Integrasi Keselamatan Matahari',
               detail:
-                "Selama 3 akhir pekan pada September 2024, tim pelatihan Afarer mensertifikasi 14 guru sekolah (tanpa pengalaman SUP sebelumnya) melalui kursus IRF Level 1 modifikasi yang menekankan keselamatan spesifik anak: manajemen kelompok menggunakan sinyal peluit (3 tiupan = diam, 5 = darurat), 'koala dismount' (anak jatuh ke papan dari posisi duduk), dan pemulihan oleng anak di bawah 30 kg. Departemen Pendidikan Queensland menyetujui program SUP di bawah kerangka Outdoor Activity Risk Assessment negara bagian, mewajibkan rasio instruktur-ke-siswa 1:6 di air tenang (gelombang <0,3 m, angin <12 knot). Keselamatan matahari (rash vest, SPF 50+, pelindung leher) diintegrasikan sebagai persyaratan sesi-0.",
+                "Selama 3 akhir pekan pada September 2024, tim pelatihan OLagoon mensertifikasi 14 guru sekolah (tanpa pengalaman SUP sebelumnya) melalui kursus IRF Level 1 modifikasi yang menekankan keselamatan spesifik anak: manajemen kelompok menggunakan sinyal peluit (3 tiupan = diam, 5 = darurat), 'koala dismount' (anak jatuh ke papan dari posisi duduk), dan pemulihan oleng anak di bawah 30 kg. Departemen Pendidikan Queensland menyetujui program SUP di bawah kerangka Outdoor Activity Risk Assessment negara bagian, mewajibkan rasio instruktur-ke-siswa 1:6 di air tenang (gelombang <0,3 m, angin <12 knot). Keselamatan matahari (rash vest, SPF 50+, pelindung leher) diintegrasikan sebagai persyaratan sesi-0.",
             },
             {
               title: 'Langkah 4: Peluncuran Semester 1 2025 & Hasil Siswa Terukur',
@@ -6159,7 +6159,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Akuisisi Armada & Penentuan Ukuran Papan Sesuai Usia',
               detail:
-                'Pada Januari 2025, Whitfield memilih Afarer Junior Explorer 9\'6" X untuk camper berusia 8-11 tahun (40 papan) dan Explorer 10\'8" X untuk usia 12-15 tahun (30 papan), total $58 ribu. Ia menspesifikasikan setiap papan dengan dua D-ring terpasang haluan untuk lampiran GoPro/baki koleksi dan bungee dek untuk jurnal alam tahan air (Rite in the Rain, spiral). Setiap papan diukir laser dengan nomor ID camper dan logo rakun Camp Keowee.',
+                'Pada Januari 2025, Whitfield memilih OLagoon Junior Explorer 9\'6" X untuk camper berusia 8-11 tahun (40 papan) dan Explorer 10\'8" X untuk usia 12-15 tahun (30 papan), total $58 ribu. Ia menspesifikasikan setiap papan dengan dua D-ring terpasang haluan untuk lampiran GoPro/baki koleksi dan bungee dek untuk jurnal alam tahan air (Rite in the Rain, spiral). Setiap papan diukir laser dengan nomor ID camper dan logo rakun Camp Keowee.',
             },
             {
               title: 'Langkah 2: Desain Kurikulum Lencana Eksplorasi SUP 4 Tingkat',
@@ -6169,7 +6169,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 3: Sertifikasi Konselor & Pemetaan Zona Keselamatan Lake Jocassee',
               detail:
-                'Pada Mei 2025 (pelatihan staf pra-kamp), Afarer mensertifikasi 22 konselor tepi air (usia 19-24 tahun) melalui kursus pemandu SUP berbasis IRF 3 hari yang berfokus pada manajemen kelompok pemuda. Whitfield memetakan 6 zona keselamatan dengan pelampung penanda berkode warna: zona berenang (merah), zona dayung pemula (kuning, dalam 200 m dari dermaga), zona menengah (hijau, hingga 1 km sepanjang tepi barat), zona mahir (biru, seluruh danau dengan check-in radio), dan zona terlarang (ungu, sekitar intake bendungan dan tebing Bald Rock). Setiap konselor membawa radio VHF tahan air dengan kanal 15 didedikasikan untuk operasi SUP. Otoritas pengelolaan danau Duke Power menyetujui rencana setelah tinjauan keselamatan bersama pada 12 Mei.',
+                'Pada Mei 2025 (pelatihan staf pra-kamp), OLagoon mensertifikasi 22 konselor tepi air (usia 19-24 tahun) melalui kursus pemandu SUP berbasis IRF 3 hari yang berfokus pada manajemen kelompok pemuda. Whitfield memetakan 6 zona keselamatan dengan pelampung penanda berkode warna: zona berenang (merah), zona dayung pemula (kuning, dalam 200 m dari dermaga), zona menengah (hijau, hingga 1 km sepanjang tepi barat), zona mahir (biru, seluruh danau dengan check-in radio), dan zona terlarang (ungu, sekitar intake bendungan dan tebing Bald Rock). Setiap konselor membawa radio VHF tahan air dengan kanal 15 didedikasikan untuk operasi SUP. Otoritas pengelolaan danau Duke Power menyetujui rencana setelah tinjauan keselamatan bersama pada 12 Mei.',
             },
             {
               title: 'Langkah 4: Hasil Musim Panas 2025 & Tingkat Pencapaian Lencana',
@@ -6186,8 +6186,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Program Pemuda Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Program Pemuda Memilih OLagoon',
       items: [
         {
           title: 'Keselamatan Anak',
@@ -6215,7 +6215,7 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Ukuran papan SUP apa yang sesuai untuk anak dengan usia berbeda?',
         answer:
-          'Afarer menawarkan ukuran SUP khusus pemuda yang lebih kecil, dirancang untuk anak dan remaja. Papan ini memiliki volume lebih rendah, lebar lebih sempit, dan bobot lebih ringan dibanding model dewasa, membuatnya lebih mudah ditangani, dikendalikan, dan dipelajari oleh pengguna muda.',
+          'OLagoon menawarkan ukuran SUP khusus pemuda yang lebih kecil, dirancang untuk anak dan remaja. Papan ini memiliki volume lebih rendah, lebar lebih sempit, dan bobot lebih ringan dibanding model dewasa, membuatnya lebih mudah ditangani, dikendalikan, dan dipelajari oleh pengguna muda.',
       },
       {
         question: 'Bagaimana Giant SUP bekerja untuk aktivitas pembangunan tim?',
@@ -6225,26 +6225,26 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Fitur keselamatan apa yang disertakan pada papan SUP anak?',
         answer:
-          'Papan pemuda Afarer dilengkapi desain keselamatan multi-pegangan (pegangan samping, depan, dan bawa), pad dek EVA anti-slip penuh untuk pijakan aman, bentuk keselamatan membulat tanpa tepi tajam, struktur daya apung tinggi untuk mengapung stabil, dan desain pemulihan mudah setelah jatuh.',
+          'Papan pemuda OLagoon dilengkapi desain keselamatan multi-pegangan (pegangan samping, depan, dan bawa), pad dek EVA anti-slip penuh untuk pijakan aman, bentuk keselamatan membulat tanpa tepi tajam, struktur daya apung tinggi untuk mengapung stabil, dan desain pemulihan mudah setelah jatuh.',
       },
       {
         question: 'Bisakah papan SUP dikustomisasi dengan logo dan warna kamp kami?',
         answer:
-          'Ya, Afarer mendukung kustomisasi lengkap termasuk logo kamp, warna program, elemen merek, dan grafis bertema. Pencitraan merek kustom membantu menciptakan identitas kamp unik dan membuat perlengkapan mudah dikenali.',
+          'Ya, OLagoon mendukung kustomisasi lengkap termasuk logo kamp, warna program, elemen merek, dan grafis bertema. Pencitraan merek kustom membantu menciptakan identitas kamp unik dan membuat perlengkapan mudah dikenali.',
       },
       {
         question: 'Berapa banyak papan yang dibutuhkan untuk memulai program SUP pemuda?',
         answer:
-          'Afarer merekomendasikan paket pemula termasuk papan anak, papan instruktur, dayung, pompa, tali, dan tas bawa. Ukuran armada bergantung pada kapasitas kelompok — kamp tipikal mungkin memulai dengan 10-20 papan pemuda plus perlengkapan instruktur, dengan opsi ekspansi musiman.',
+          'OLagoon merekomendasikan paket pemula termasuk papan anak, papan instruktur, dayung, pompa, tali, dan tas bawa. Ukuran armada bergantung pada kapasitas kelompok — kamp tipikal mungkin memulai dengan 10-20 papan pemuda plus perlengkapan instruktur, dengan opsi ekspansi musiman.',
       },
       {
         question: 'Perlengkapan instruktur apa yang direkomendasikan untuk program SUP kamp?',
         answer:
-          'Afarer merekomendasikan papan khusus instruktur dengan stabilitas dan fitur kontrol ditingkatkan, plus aksesori keselamatan termasuk tali, pompa, kit perbaikan, dan perlengkapan komunikasi. Paket Armada Kamp dapat menyertakan papan instruktur khusus dan komponen cadangan.',
+          'OLagoon merekomendasikan papan khusus instruktur dengan stabilitas dan fitur kontrol ditingkatkan, plus aksesori keselamatan termasuk tali, pompa, kit perbaikan, dan perlengkapan komunikasi. Paket Armada Kamp dapat menyertakan papan instruktur khusus dan komponen cadangan.',
       },
     ],
     cta: {
-      title: 'Bangun Program Petualangan Air Anak Anda Bersama Afarer',
+      title: 'Bangun Program Petualangan Air Anak Anda Bersama OLagoon',
       subtitle:
         'Bantu anak menemukan kepercayaan diri, kerja tim, alam, dan petualangan melalui program eksplorasi SUP yang dirancang secara profesional.',
       primaryAction: {
@@ -6260,7 +6260,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pabrikan SUP Penyelamatan Air | {SITE}',
       description:
-        'Afarer menyediakan sistem SUP penyelamatan air profesional untuk penjaga pantai, tim darurat, dan organisasi keselamatan. Papan penyelamatan berkapasitas tinggi, desain multi-pegangan, sistem derek, dan solusi OEM kustom.',
+        'OLagoon menyediakan sistem SUP penyelamatan air profesional untuk penjaga pantai, tim darurat, dan organisasi keselamatan. Papan penyelamatan berkapasitas tinggi, desain multi-pegangan, sistem derek, dan solusi OEM kustom.',
     },
     hero: {
       tagline:
@@ -6392,7 +6392,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Desain SUP Khusus Penyelamatan & Integrasi Medis',
               detail:
-                'Dari Januari hingga April 2025, Tran bekerja dengan divisi industri kelautan Afarer merancang RescuePro 12\'6" XR. Papan ini memiliki lebar 34" untuk stabilitas kecepatan-rendah, PVC kelas militer setebal 6" (1.200 denier, diuji hingga 25 PSI), dan dek datar tanpa rocker untuk pemasangan perlengkapan seragam. Afarer mengintegrasikan 12 D-ring stainless steel dalam konfigurasi depan/belakang untuk pod medis terikat-bungee (P3K, AED, oksigen). Papan menyertakan garis visibilitas kuning-neon dengan pita reflektif kelas SOLAS dan bollard derek terpasang haluan yang diuji hingga tarikan tali 400 kg. Setelah 14 hari pengujian tangki gelombang di University of Queensland, desain final disetujui dengan kecepatan puncak berbeban 7,5 knot (pendayung 110 kg + perlengkapan 30 kg).',
+                'Dari Januari hingga April 2025, Tran bekerja dengan divisi industri kelautan OLagoon merancang RescuePro 12\'6" XR. Papan ini memiliki lebar 34" untuk stabilitas kecepatan-rendah, PVC kelas militer setebal 6" (1.200 denier, diuji hingga 25 PSI), dan dek datar tanpa rocker untuk pemasangan perlengkapan seragam. OLagoon mengintegrasikan 12 D-ring stainless steel dalam konfigurasi depan/belakang untuk pod medis terikat-bungee (P3K, AED, oksigen). Papan menyertakan garis visibilitas kuning-neon dengan pita reflektif kelas SOLAS dan bollard derek terpasang haluan yang diuji hingga tarikan tali 400 kg. Setelah 14 hari pengujian tangki gelombang di University of Queensland, desain final disetujui dengan kecepatan puncak berbeban 7,5 knot (pendayung 110 kg + perlengkapan 30 kg).',
             },
             {
               title: 'Langkah 2: Alokasi Klub, Rak Penyimpanan & Sistem Penempatan-Cepat',
@@ -6402,12 +6402,12 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 3: Sertifikasi Penyelamatan SUP Penjaga Pantai & Pengujian Kompetensi Selancar',
               detail:
-                'Pada Agustus 2025 (periode pelatihan pra-musim panas), divisi pelatihan penyelamatan Afarer menyampaikan sertifikasi SUP Rescue Operator 40 jam kepada 82 penjaga pantai senior di 5 hub regional. Kursus mencakup: derek berbasis dayung korban tak sadar (derek 100 m dalam waktu kurang dari 3 menit), teknik masuk/keluar zona selancar dengan perlengkapan, penempatan AED di platform tidak stabil, dan imobilisasi spinal berbasis papan (kaler ortopedi dipasang sambil mempertahankan stabilitas papan). Setiap kandidat lulus ujian praktik yang mensyaratkan: dayung 200 m ke korban, penyelamatan tak sadar tersimulasi dengan pengambilan perlengkapan, dan kembali ke pantai -- semua dalam 7 menit. Tingkat kelulusan: 89% (73 dari 82). Kandidat yang gagal dialihkan ke peran sekunder.',
+                'Pada Agustus 2025 (periode pelatihan pra-musim panas), divisi pelatihan penyelamatan OLagoon menyampaikan sertifikasi SUP Rescue Operator 40 jam kepada 82 penjaga pantai senior di 5 hub regional. Kursus mencakup: derek berbasis dayung korban tak sadar (derek 100 m dalam waktu kurang dari 3 menit), teknik masuk/keluar zona selancar dengan perlengkapan, penempatan AED di platform tidak stabil, dan imobilisasi spinal berbasis papan (kaler ortopedi dipasang sambil mempertahankan stabilitas papan). Setiap kandidat lulus ujian praktik yang mensyaratkan: dayung 200 m ke korban, penyelamatan tak sadar tersimulasi dengan pengambilan perlengkapan, dan kembali ke pantai -- semua dalam 7 menit. Tingkat kelulusan: 89% (73 dari 82). Kandidat yang gagal dialihkan ke peran sekunder.',
             },
             {
               title: 'Langkah 4: Penempatan Musim Panas & Data Kinerja Penyelamatan',
               detail:
-                'Armada Penyelamatan SUP diaktifkan 1 Oktober 2025 di seluruh 11 klub untuk musim panas Australia. Per 31 Maret 2026 (musim 6 bulan), SLSQ mencatat 347 penyelamatan dibantu-SUP vs 512 penyelamatan IRB, mewakili 40,4% dari semua penyelamatan di air. Rata-rata waktu penempatan SUP 47 detik (vs 4 menit 20 detik untuk IRB). Penyelamatan tercepat 22 detik: anak 9 tahun tersangkut arus rip 80 m dari pantai di Surfers Paradise. Tingkat keberhasilan penyelamatan SUP 99,1% (344 berhasil, 3 korban membutuhkan cadangan IRB tambahan). Tran melaporkan 0 cedera baling-baling, 0 kegagalan papan, dan 2 perbaikan papan (kotak sirip delaminasi, keduanya diperbaiki dalam 48 jam oleh layanan perbaikan-cepat Afarer). SLSQ memesan 18 papan RescuePro tambahan untuk penempatan musim 2026-27 ke klub-klub North Queensland.',
+                'Armada Penyelamatan SUP diaktifkan 1 Oktober 2025 di seluruh 11 klub untuk musim panas Australia. Per 31 Maret 2026 (musim 6 bulan), SLSQ mencatat 347 penyelamatan dibantu-SUP vs 512 penyelamatan IRB, mewakili 40,4% dari semua penyelamatan di air. Rata-rata waktu penempatan SUP 47 detik (vs 4 menit 20 detik untuk IRB). Penyelamatan tercepat 22 detik: anak 9 tahun tersangkut arus rip 80 m dari pantai di Surfers Paradise. Tingkat keberhasilan penyelamatan SUP 99,1% (344 berhasil, 3 korban membutuhkan cadangan IRB tambahan). Tran melaporkan 0 cedera baling-baling, 0 kegagalan papan, dan 2 perbaikan papan (kotak sirip delaminasi, keduanya diperbaiki dalam 48 jam oleh layanan perbaikan-cepat OLagoon). SLSQ memesan 18 papan RescuePro tambahan untuk penempatan musim 2026-27 ke klub-klub North Queensland.',
             },
           ],
           results: [
@@ -6430,7 +6430,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Desain SUP Khusus Shorebreak & Integrasi Perlengkapan Trauma',
               detail:
-                'Dari Maret hingga Juni 2025, Rodriguez bekerja dengan divisi penyelamatan Afarer mengadaptasi RescuePro 12\'6" XR untuk kondisi shorebreak Pantai Barat. Modifikasi termasuk: hidung ber-rocker (naik 2,5") untuk kapabilitas tembus-punch di ombak berongga 1-3 kaki; konfigurasi kotak quad-fin untuk bermanuver di selancar sempit; dan cincin tow-bridle terpasang haluan untuk lampiran perenang penyelamat. Pod medis dilengkapi kit trauma North American Rescue M9 (tourniquet, chest seal, kasa hemostatik), AED Phillips HeartStart FRx, dan perangkat imobilisasi tulang belakang Ferno KED. Divisi laut NBFD menguji 4 purwarupa dalam 12 sesi pelatihan di the Wedge sebelum menyetujui desain final.',
+                'Dari Maret hingga Juni 2025, Rodriguez bekerja dengan divisi penyelamatan OLagoon mengadaptasi RescuePro 12\'6" XR untuk kondisi shorebreak Pantai Barat. Modifikasi termasuk: hidung ber-rocker (naik 2,5") untuk kapabilitas tembus-punch di ombak berongga 1-3 kaki; konfigurasi kotak quad-fin untuk bermanuver di selancar sempit; dan cincin tow-bridle terpasang haluan untuk lampiran perenang penyelamat. Pod medis dilengkapi kit trauma North American Rescue M9 (tourniquet, chest seal, kasa hemostatik), AED Phillips HeartStart FRx, dan perangkat imobilisasi tulang belakang Ferno KED. Divisi laut NBFD menguji 4 purwarupa dalam 12 sesi pelatihan di the Wedge sebelum menyetujui desain final.',
             },
             {
               title: 'Langkah 2: Penempatan Stasiun, Penyimpanan & Protokol Respons-Cepat',
@@ -6440,7 +6440,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 3: Sertifikasi Penyelamatan SUP Khusus NBFD & Latihan Live-Fire',
               detail:
-                'Selama 5 hari pada Juli 2025, pelatih utama penyelamatan Afarer melakukan sertifikasi di pantai untuk 18 perwira keselamatan laut NBFD. Kursus dimodifikasi untuk kondisi Pantai Barat: duck-diving menembus shorebreak dengan SUP, ekstraksi penyelamatan beach-start (menyeret korban ke papan di ombak pecah), dan koordinasi skenario helicopter-tended dengan helikopter Bell 412 NBFD. Rodriguez mewajibkan semua 18 perwira lulus skenario final: menemukan korban tersimulasi (manekin 80 kg) 150 m dari the Wedge di selancar 2-3 kaki, melakukan imobilisasi spinal di air, dan kembali ke pantai -- semua dalam 8 menit. Tingkat kelulusan: 100% dengan waktu penyelesaian median 6 menit 12 detik.',
+                'Selama 5 hari pada Juli 2025, pelatih utama penyelamatan OLagoon melakukan sertifikasi di pantai untuk 18 perwira keselamatan laut NBFD. Kursus dimodifikasi untuk kondisi Pantai Barat: duck-diving menembus shorebreak dengan SUP, ekstraksi penyelamatan beach-start (menyeret korban ke papan di ombak pecah), dan koordinasi skenario helicopter-tended dengan helikopter Bell 412 NBFD. Rodriguez mewajibkan semua 18 perwira lulus skenario final: menemukan korban tersimulasi (manekin 80 kg) 150 m dari the Wedge di selancar 2-3 kaki, melakukan imobilisasi spinal di air, dan kembali ke pantai -- semua dalam 8 menit. Tingkat kelulusan: 100% dengan waktu penyelesaian median 6 menit 12 detik.',
             },
             {
               title: 'Langkah 4: Aktivasi Labor Day 2025 & Statistik Respons Darurat',
@@ -6457,8 +6457,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Organisasi Penyelamatan Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Organisasi Penyelamatan Memilih OLagoon',
       items: [
         {
           title: 'Keselamatan Utama',
@@ -6484,24 +6484,24 @@ const id: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Berapa kapasitas beban yang didukung papan SUP penyelamatan Afarer?',
+        question: 'Berapa kapasitas beban yang didukung papan SUP penyelamatan OLagoon?',
         answer:
-          'Papan SUP penyelamatan Afarer memiliki kapasitas beban ultra-tinggi yang dirancang untuk membawa penyelamat, korban, perlengkapan penyelamatan, dan pasokan medis secara bersamaan. Platform penyelamatan ekstra-lebar memberikan stabilitas meningkat dan area kerja lebih besar untuk bantuan pasien yang aman.',
+          'Papan SUP penyelamatan OLagoon memiliki kapasitas beban ultra-tinggi yang dirancang untuk membawa penyelamat, korban, perlengkapan penyelamatan, dan pasokan medis secara bersamaan. Platform penyelamatan ekstra-lebar memberikan stabilitas meningkat dan area kerja lebih besar untuk bantuan pasien yang aman.',
       },
       {
-        question: 'Apa yang membuat papan SUP penyelamatan Afarer berbeda dari papan dayung rekreasi?',
+        question: 'Apa yang membuat papan SUP penyelamatan OLagoon berbeda dari papan dayung rekreasi?',
         answer:
-          'Papan penyelamatan Afarer direkayasa khusus untuk operasi darurat dengan platform berkapasitas tinggi, banyak pegangan penyelamatan, sistem derek D-ring diperkuat, warna visibilitas tinggi, elemen reflektif, material resisten-abrasi, dan konstruksi jahitan heavy-duty — fitur yang tidak ditemukan pada produk rekreasi.',
+          'Papan penyelamatan OLagoon direkayasa khusus untuk operasi darurat dengan platform berkapasitas tinggi, banyak pegangan penyelamatan, sistem derek D-ring diperkuat, warna visibilitas tinggi, elemen reflektif, material resisten-abrasi, dan konstruksi jahitan heavy-duty — fitur yang tidak ditemukan pada produk rekreasi.',
       },
       {
         question: 'Opsi warna apa yang tersedia untuk papan SUP penyelamatan?',
         answer:
-          'Afarer menawarkan warna penyelamatan profesional termasuk kuning penyelamatan, oranye keselamatan, dan merah darurat. Semua opsi dapat dikombinasikan dengan elemen keselamatan reflektif untuk visibilitas cahaya-rendah dan malam, plus logo tim dan penandaan agensi.',
+          'OLagoon menawarkan warna penyelamatan profesional termasuk kuning penyelamatan, oranye keselamatan, dan merah darurat. Semua opsi dapat dikombinasikan dengan elemen keselamatan reflektif untuk visibilitas cahaya-rendah dan malam, plus logo tim dan penandaan agensi.',
       },
       {
         question: 'Bisakah papan SUP penyelamatan dikustomisasi dengan logo dan penandaan tim kami?',
         answer:
-          'Ya, Afarer mendukung pencitraan merek organisasi penyelamatan penuh termasuk logo tim, identitas agensi, penandaan keselamatan, dan skema warna kustom. Ini membantu tampilan profesional dan identifikasi perlengkapan selama operasi multi-agensi.',
+          'Ya, OLagoon mendukung pencitraan merek organisasi penyelamatan penuh termasuk logo tim, identitas agensi, penandaan keselamatan, dan skema warna kustom. Ini membantu tampilan profesional dan identifikasi perlengkapan selama operasi multi-agensi.',
       },
       {
         question: 'Aksesori apa yang disertakan dalam paket SUP penyelamatan profesional?',
@@ -6511,13 +6511,13 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Bagaimana papan SUP penyelamatan dipelihara dan disimpan?',
         answer:
-          'Papan penyelamatan Afarer dirancang untuk pemeliharaan mudah dengan material tahan lama yang menahan penempatan sering dan penyimpanan luar ruangan. Sebagai papan tiup, papan terkemas kompak untuk transportasi dan penyimpanan. Kami menyediakan panduan pemeliharaan, prosedur inspeksi, dan komponen cadangan untuk keandalan jangka panjang.',
+          'Papan penyelamatan OLagoon dirancang untuk pemeliharaan mudah dengan material tahan lama yang menahan penempatan sering dan penyimpanan luar ruangan. Sebagai papan tiup, papan terkemas kompak untuk transportasi dan penyimpanan. Kami menyediakan panduan pemeliharaan, prosedur inspeksi, dan komponen cadangan untuk keandalan jangka panjang.',
       },
     ],
     cta: {
-      title: 'Bangun Sistem Penyelamatan Air Profesional Anda Bersama Afarer',
+      title: 'Bangun Sistem Penyelamatan Air Profesional Anda Bersama OLagoon',
       subtitle:
-        'Setiap misi penyelamatan membutuhkan kepercayaan. Afarer membantu tim penjaga pantai, organisasi penyelamatan, institusi pelatihan, dan agensi darurat membangun sistem perlengkapan keselamatan air yang andal.',
+        'Setiap misi penyelamatan membutuhkan kepercayaan. OLagoon membantu tim penjaga pantai, organisasi penyelamatan, institusi pelatihan, dan agensi darurat membangun sistem perlengkapan keselamatan air yang andal.',
       primaryAction: {
         text: 'Mulai Proyek Anda',
       },
@@ -6531,7 +6531,7 @@ const id: Record<string, SolutionOverride> = {
     meta: {
       title: 'Pabrikan Platform Riset SUP Ekologis | {SITE}',
       description:
-        'Afarer menyediakan platform riset SUP ramah lingkungan untuk NGO konservasi kelautan, universitas, dan organisasi pemantauan lingkungan. Platform mengapung stabil, sistem pemasangan perlengkapan, dan solusi OEM kustom.',
+        'OLagoon menyediakan platform riset SUP ramah lingkungan untuk NGO konservasi kelautan, universitas, dan organisasi pemantauan lingkungan. Platform mengapung stabil, sistem pemasangan perlengkapan, dan solusi OEM kustom.',
     },
     hero: {
       tagline: 'Solusi Riset Air Berkelanjutan Untuk Konservasi Kelautan, Pemantauan Lingkungan & Eksplorasi Ilmiah',
@@ -6662,7 +6662,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Konfigurasi SUP Kebisingan-Rendah & Integrasi Platform Sensor',
               detail:
-                'Pada September 2024, Huaman bermitra dengan divisi riset lingkungan Afarer mengadaptasi EcoTouring 12\'6" X untuk penempatan muatan ilmiah. Modifikasi termasuk: pelat pemasangan dek diperkuat (stainless steel, pola 4-baut) untuk transduser fishfinder/sonar Garmin echoMAP Plus 74cv; sistem RAM-mount terintegrasi untuk GoPro HERO12 Black dalam rumah bawah air; sumur kering perlengkapan kedap-air (volume 7 L, segel-ulir) di dalam inti papan untuk data logger dan pelacak GPS; dan pelindung lunas low-profile yang memungkinkan pendamparan di tepian sungai berlumpur. Tiga papan purwarupa diuji di Ucayali pada Oktober 2024, mengukur output kebisingan bawah air 18 dB (vs 52 dB untuk mesin tempel Tohatsu 25 hp pada 5 m). ARA memesan 18 papan seharga $212 ribu, didanai oleh Gordon and Betty Moore Foundation.',
+                'Pada September 2024, Huaman bermitra dengan divisi riset lingkungan OLagoon mengadaptasi EcoTouring 12\'6" X untuk penempatan muatan ilmiah. Modifikasi termasuk: pelat pemasangan dek diperkuat (stainless steel, pola 4-baut) untuk transduser fishfinder/sonar Garmin echoMAP Plus 74cv; sistem RAM-mount terintegrasi untuk GoPro HERO12 Black dalam rumah bawah air; sumur kering perlengkapan kedap-air (volume 7 L, segel-ulir) di dalam inti papan untuk data logger dan pelacak GPS; dan pelindung lunas low-profile yang memungkinkan pendamparan di tepian sungai berlumpur. Tiga papan purwarupa diuji di Ucayali pada Oktober 2024, mengukur output kebisingan bawah air 18 dB (vs 52 dB untuk mesin tempel Tohatsu 25 hp pada 5 m). ARA memesan 18 papan seharga $212 ribu, didanai oleh Gordon and Betty Moore Foundation.',
             },
             {
               title: 'Langkah 2: Adaptasi Protokol Riset & Pengembangan Metode Observasi Senyap',
@@ -6672,7 +6672,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 3: Sertifikasi SUP Peneliti & Logistik Stasiun Terpencil',
               detail:
-                'Pada November 2024, Afarer melakukan program pelatihan lapangan 12 hari di 3 stasiun ARA, mensertifikasi 12 peneliti (5 kandidat PhD, 4 teknisi lapangan, 3 pemandu sungai lokal). Pelatihan mencakup: arus sungai (Ucayali mengalir hingga 4 knot), penghindaran kayu/puing, teknik dayung-malam untuk survei spesies nokturnal, dan prosedur peluncuran hutan (membawa papan tergepa 400 m menembus hutan primer ke danau oxbow). Setiap peneliti menyelesaikan 40 jam dayung survei tersupervisi dan ujian final yang mensyaratkan: transek 6 km dalam waktu kurang dari 2 jam dengan pencatatan data simultan. Tingkat kelulusan sertifikasi: 92% (11 dari 12). Peneliti yang tersisa menjadi dukungan rotator.',
+                'Pada November 2024, OLagoon melakukan program pelatihan lapangan 12 hari di 3 stasiun ARA, mensertifikasi 12 peneliti (5 kandidat PhD, 4 teknisi lapangan, 3 pemandu sungai lokal). Pelatihan mencakup: arus sungai (Ucayali mengalir hingga 4 knot), penghindaran kayu/puing, teknik dayung-malam untuk survei spesies nokturnal, dan prosedur peluncuran hutan (membawa papan tergepa 400 m menembus hutan primer ke danau oxbow). Setiap peneliti menyelesaikan 40 jam dayung survei tersupervisi dan ujian final yang mensyaratkan: transek 6 km dalam waktu kurang dari 2 jam dengan pencatatan data simultan. Tingkat kelulusan sertifikasi: 92% (11 dari 12). Peneliti yang tersisa menjadi dukungan rotator.',
             },
             {
               title: 'Langkah 4: Hasil Musim Lapangan 2025 & Dampak Konservasi',
@@ -6700,7 +6700,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 1: Integrasi Sensor SUP & Desain Platform Riset',
               detail:
-                'Pada Desember 2024, Torres bekerja dengan tim R&D lingkungan Afarer mengonfigurasi EcoTouring 12\'6" X untuk pemantauan pesisir. Afarer mengintegrasikan pelat pemasangan untuk sonde YSI EXO2 (dipasang ke sumur pemasangan thru-hull kustom yang menembus inti papan, memungkinkan aliran air kontinu tanpa hambatan dari sonde yang ditarik). Papan menerima lengan davit terpasang haluan (karbon-fiber, 1,5 kg, rating 50 lb) untuk menurunkan dan mengambil array video bawah air (GoPro HERO12 Black dalam rumah backscatter dengan filter merah). Kotak data logger terpasang buritan (Pelican 1040) menampung penerima GNSS dan modem seluler untuk unggah data real-time via platform cloud Mote. Tiga purwarupa ditempatkan pada Januari 2025 untuk studi validasi 30 hari, mengonfirmasi pembacaan sonde dalam 2% dari pembacaan berbasis perahu di stasiun berpasangan. Mote memesan 15 papan seharga $186 ribu, didanai oleh SBEP dan Gulf Research Program.',
+                'Pada Desember 2024, Torres bekerja dengan tim R&D lingkungan OLagoon mengonfigurasi EcoTouring 12\'6" X untuk pemantauan pesisir. OLagoon mengintegrasikan pelat pemasangan untuk sonde YSI EXO2 (dipasang ke sumur pemasangan thru-hull kustom yang menembus inti papan, memungkinkan aliran air kontinu tanpa hambatan dari sonde yang ditarik). Papan menerima lengan davit terpasang haluan (karbon-fiber, 1,5 kg, rating 50 lb) untuk menurunkan dan mengambil array video bawah air (GoPro HERO12 Black dalam rumah backscatter dengan filter merah). Kotak data logger terpasang buritan (Pelican 1040) menampung penerima GNSS dan modem seluler untuk unggah data real-time via platform cloud Mote. Tiga purwarupa ditempatkan pada Januari 2025 untuk studi validasi 30 hari, mengonfirmasi pembacaan sonde dalam 2% dari pembacaan berbasis perahu di stasiun berpasangan. Mote memesan 15 papan seharga $186 ribu, didanai oleh SBEP dan Gulf Research Program.',
             },
             {
               title: 'Langkah 2: Jaringan Stasiun Pemantauan & Protokol Sampling Pasang-Surut',
@@ -6710,7 +6710,7 @@ const id: Record<string, SolutionOverride> = {
             {
               title: 'Langkah 3: Sertifikasi SUP Rekan Riset & Pelatihan Navigasi Air Dangkal',
               detail:
-                'Pada Februari 2025, divisi riset Afarer mensertifikasi 8 rekan riset Mote (4 ilmuwan level-PhD, 4 teknisi lapangan) melalui kursus operator riset SUP air dangkal 5 hari. Pelatihan mencakup: navigasi padang lamun (menghindari analog bekas-baling -- hambatan sirip), protokol pendekatan manate (jarak pendekatan minimum 50 m, drift senyap saat melihat, observasi perilaku tanpa kebisingan mesin), manajemen arus pasang-surut (arus maksimum 1,5 knot untuk sampling, 2,5 knot untuk transit), dan penempatan/pemulihan perlengkapan dalam kondisi berangin. Torres juga mewajibkan semua rekan menyelesaikan pelatihan pertemuan manate FWC Florida (2 jam online + komponen lapangan). Sertifikasi dinilai via hari sampling simulasi: 4 stasiun dalam 3 jam dengan kelengkapan data 100%. Kelima-8nya lulus pada percobaan pertama, dengan waktu penyelesaian stasiun rata-rata 38 menit (vs 68 menit untuk protokol perahu bermotor).',
+                'Pada Februari 2025, divisi riset OLagoon mensertifikasi 8 rekan riset Mote (4 ilmuwan level-PhD, 4 teknisi lapangan) melalui kursus operator riset SUP air dangkal 5 hari. Pelatihan mencakup: navigasi padang lamun (menghindari analog bekas-baling -- hambatan sirip), protokol pendekatan manate (jarak pendekatan minimum 50 m, drift senyap saat melihat, observasi perilaku tanpa kebisingan mesin), manajemen arus pasang-surut (arus maksimum 1,5 knot untuk sampling, 2,5 knot untuk transit), dan penempatan/pemulihan perlengkapan dalam kondisi berangin. Torres juga mewajibkan semua rekan menyelesaikan pelatihan pertemuan manate FWC Florida (2 jam online + komponen lapangan). Sertifikasi dinilai via hari sampling simulasi: 4 stasiun dalam 3 jam dengan kelengkapan data 100%. Kelima-8nya lulus pada percobaan pertama, dengan waktu penyelesaian stasiun rata-rata 38 menit (vs 68 menit untuk protokol perahu bermotor).',
             },
             {
               title: 'Langkah 4: Musim Pemantauan Maret-November 2025 & Hasil Ekologis Terukur',
@@ -6727,8 +6727,8 @@ const id: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Mengapa Organisasi Riset Memilih Afarer',
+    whyOLagoon: {
+      title: 'Mengapa Organisasi Riset Memilih OLagoon',
       items: [
         {
           title: 'Stabilitas',
@@ -6754,24 +6754,24 @@ const id: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Perlengkapan ilmiah apa yang dapat dipasang pada platform riset SUP Afarer?',
+        question: 'Perlengkapan ilmiah apa yang dapat dipasang pada platform riset SUP OLagoon?',
         answer:
-          'Platform riset Afarer mendukung berbagai perlengkapan termasuk sensor kualitas air, kamera dan unit GPS, wadah sampling, alat pengukuran, dan perangkat pengumpulan data. Sistem pemasangan modular dapat dikustomisasi untuk konfigurasi riset spesifik.',
+          'Platform riset OLagoon mendukung berbagai perlengkapan termasuk sensor kualitas air, kamera dan unit GPS, wadah sampling, alat pengukuran, dan perangkat pengumpulan data. Sistem pemasangan modular dapat dikustomisasi untuk konfigurasi riset spesifik.',
       },
       {
         question: 'Seberapa stabil platform SUP untuk aktivitas sampling dan pemantauan air?',
         answer:
-          'Platform riset Afarer memiliki desain ekstra-lebar, area berdiri meningkat, keseimbangan ditingkatkan, dan struktur daya apung tinggi yang direkayasa khusus untuk operasi lapangan ilmiah. Stabilitas memungkinkan peneliti mengoperasikan perlengkapan, mengumpulkan sampel, dan melakukan pengukuran dengan aman.',
+          'Platform riset OLagoon memiliki desain ekstra-lebar, area berdiri meningkat, keseimbangan ditingkatkan, dan struktur daya apung tinggi yang direkayasa khusus untuk operasi lapangan ilmiah. Stabilitas memungkinkan peneliti mengoperasikan perlengkapan, mengumpulkan sampel, dan melakukan pengukuran dengan aman.',
       },
       {
-        question: 'Material ramah lingkungan apa yang digunakan dalam papan SUP riset Afarer?',
+        question: 'Material ramah lingkungan apa yang digunakan dalam papan SUP riset OLagoon?',
         answer:
-          'Afarer berfokus pada konstruksi tahan lama berumur-panjang yang mengurangi frekuensi penggantian dan konsumsi sumber daya. Kami menawarkan opsi material berkelanjutan termasuk pilihan dapat-daur-ulang dan pendekatan manufaktur berdampak lebih rendah, selaras dengan misi konservasi lingkungan.',
+          'OLagoon berfokus pada konstruksi tahan lama berumur-panjang yang mengurangi frekuensi penggantian dan konsumsi sumber daya. Kami menawarkan opsi material berkelanjutan termasuk pilihan dapat-daur-ulang dan pendekatan manufaktur berdampak lebih rendah, selaras dengan misi konservasi lingkungan.',
       },
       {
         question: 'Bisakah platform SUP dikustomisasi untuk persyaratan proyek riset spesifik?',
         answer:
-          'Ya, Afarer mendukung kustomisasi lengkap termasuk dimensi papan kustom (lebar ekstra, panjang tambahan), kapasitas muatan meningkat, antarmuka pemasangan perlengkapan, solusi penyimpanan, logo organisasi, dan aksesori spesifik-proyek.',
+          'Ya, OLagoon mendukung kustomisasi lengkap termasuk dimensi papan kustom (lebar ekstra, panjang tambahan), kapasitas muatan meningkat, antarmuka pemasangan perlengkapan, solusi penyimpanan, logo organisasi, dan aksesori spesifik-proyek.',
       },
       {
         question: 'Bagaimana SUP dibandingkan dengan perahu riset tradisional untuk pemantauan lingkungan?',
@@ -6781,13 +6781,13 @@ const id: Record<string, SolutionOverride> = {
       {
         question: 'Berapa waktu tunggu tipikal untuk platform riset SUP kustom?',
         answer:
-          'Waktu tunggu bervariasi berdasarkan kompleksitas kustomisasi dan kuantitas pesanan. Afarer mendukung pengembangan purwarupa untuk konsep riset baru hingga manufaktur batch untuk pesanan institusional. Kami bekerja erat dengan tim riset untuk memenuhi linimasa proyek dan persyaratan musim lapangan.',
+          'Waktu tunggu bervariasi berdasarkan kompleksitas kustomisasi dan kuantitas pesanan. OLagoon mendukung pengembangan purwarupa untuk konsep riset baru hingga manufaktur batch untuk pesanan institusional. Kami bekerja erat dengan tim riset untuk memenuhi linimasa proyek dan persyaratan musim lapangan.',
       },
     ],
     cta: {
-      title: 'Bangun Platform Riset Air Ekologis Anda Bersama Afarer',
+      title: 'Bangun Platform Riset Air Ekologis Anda Bersama OLagoon',
       subtitle:
-        'Masa depan riset air membutuhkan solusi fleksibel dan berkelanjutan. Afarer membantu NGO kelautan, universitas, institusi riset, dan organisasi lingkungan menciptakan platform riset air mobile profesional.',
+        'Masa depan riset air membutuhkan solusi fleksibel dan berkelanjutan. OLagoon membantu NGO kelautan, universitas, institusi riset, dan organisasi lingkungan menciptakan platform riset air mobile profesional.',
       primaryAction: {
         text: 'Mulai Proyek Anda',
       },

@@ -1,6 +1,6 @@
 meta:
   title: 'Бизнес решения — SUP за всеки бизнес | {SITE}'
-  description: 'Бизнес решения на afarer: флотилии SUP за курорти, клубове, наемане, дистрибуция и частни етикети. Професионален доставчик на морско оборудване за B2B.'
+  description: 'Бизнес решения на olagoon: флотилии SUP за курорти, клубове, наемане, дистрибуция и частни етикети. Професионален доставчик на морско оборудване за B2B.'
   keywords:
     - 'бизнес решения за sup'
     - 'доставчик на надуваеми дъски за гребане'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: 'Бизнес решения'
   title: 'SUP решения<br />за всеки бизнес'
-  subtitle: 'От курорти до търговия, от оператори на наемане до глобални дистрибутори — Afarer предоставя пълни SUP решения, съобразени с вашия бизнес модел.'
+  subtitle: 'От курорти до търговия, от оператори на наемане до глобални дистрибутори — OLagoon предоставя пълни SUP решения, съобразени с вашия бизнес модел.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'SUP дъски Afarer за бизнес и професионални приложения'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'SUP дъски OLagoon за бизнес и професионални приложения'
 stats:
-  title: 'Afarer с един поглед'
+  title: 'OLagoon с един поглед'
   stats:
     - title: 'Години опит'
       amount: 'От 2012 г.'
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: 'Изградете своя собствена марка'
-      description: 'Пълнообхватно OEM/ODM производство на SUP — дизайн, прототипи, серийно производство и логистика. Стартирайте вашата марка с Afarer.'
+      description: 'Пълнообхватно OEM/ODM производство на SUP — дизайн, прототипи, серийно производство и логистика. Стартирайте вашата марка с OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

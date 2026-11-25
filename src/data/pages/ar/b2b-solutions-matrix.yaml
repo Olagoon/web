@@ -1,16 +1,16 @@
 meta:
   title: مصفوفة حلول العملاء B2B | {SITE}
-  description: أكمل مصفوفة حلول عملاء Afarer B2B التي تغطي 24 نوعًا من العملاء — من الشركات الناشئة في الهواء الطلق إلى مؤسسات الحفاظ على البيئة البحرية.
+  description: أكمل مصفوفة حلول عملاء OLagoon B2B التي تغطي 24 نوعًا من العملاء — من الشركات الناشئة في الهواء الطلق إلى مؤسسات الحفاظ على البيئة البحرية.
 hero:
   tagline: حلول العملاء B2B
   title: 24 حل B2B<br />متطابق مع عملك
-  subtitle: من مؤسسي الشركات الناشئة إلى الموزعين العالميين — ابحث عن حل Afarer الدقيق المصمم لنموذج عملك وصناعتك وأهدافك.
+  subtitle: من مؤسسي الشركات الناشئة إلى الموزعين العالميين — ابحث عن حل OLagoon الدقيق المصمم لنموذج عملك وصناعتك وأهدافك.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-aerial-1.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-aerial-1.webp
     alt: مصنع ومنشأة تصنيع عفار
 solutions:
   title: مصفوفة حلول العملاء
-  subtitle: كل نوع من أنواع العملاء، واحتياجاتهم الأساسية، وصفحة حل Afarer المصممة لهم.
+  subtitle: كل نوع من أنواع العملاء، واحتياجاتهم الأساسية، وصفحة حل OLagoon المصممة لهم.
   items:
     - clientType: مؤسس شركة ناشئة في الهواء الطلق
       need: إنشاء العلامة التجارية

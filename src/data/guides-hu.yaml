@@ -19,7 +19,7 @@
     - q: Felfújható vagy kemény SUP deszka?
       a: A felfújható deszkák hordozhatóságot, kényelmes tárolhatóságot és ütéselnyelést kínálnak. A kemény deszkák maximális merevséget és sebességet nyújtanak. A legtöbb szabadidős felhasználó számára a drop-stitch maggal készült, jó minőségű felfújható deszka a gyakorlati választás.
     - q: Hány PSI-ra fújja fel a deszkát?
-      a: Az afareres deszkáknál 12-15 PSI a javasolt. 15 PSI-n a deszka eléri a kemény deszkáéval összemérhető maximális merevséget. Mindig maradjon a deszkára nyomtatott engedélyezett nyomástartományon belül.
+      a: Az olagoones deszkáknál 12-15 PSI a javasolt. 15 PSI-n a deszka eléri a kemény deszkáéval összemérhető maximális merevséget. Mindig maradjon a deszkára nyomtatott engedélyezett nyomástartományon belül.
   relatedProducts: []
   relatedGuides:
     - beginner-guide
@@ -208,7 +208,7 @@
     - q: Hagyhatja a SUP deszkáját felfújva a teljes szezonon át?
       a: Igen, de ha nem használja, tartsa közvetlen napfénytől védve. Hosszabb tároláshoz a részleges leeresztés (8-10 PSI) ajánlott.
     - q: Hogyan javíthat ki egy szúrást?
-      a: Tisztítsa meg a felületet, vágjon ki egy lekerekített sarkú foltot, vigyen fel ragasztót, nyomja rá erősen, és várjon 24 órát a felfújás előtt. Az afareres deszkákhoz javítókészlet tartozik.
+      a: Tisztítsa meg a felületet, vágjon ki egy lekerekített sarkú foltot, vigyen fel ragasztót, nyomja rá erősen, és várjon 24 órát a felfújás előtt. Az olagoones deszkákhoz javítókészlet tartozik.
     - q: Milyen gyakran kell ellenőrizni a szelepet?
       a: Havonta. A szelep a leggyakoribb meghibásodási pont. Ellenőrizze, hogy a szeleptű szabadon mozog-e, és az O-gumigyűrű sértetlen-e.
   relatedProducts: []
@@ -703,7 +703,7 @@
   description: Hogyan utazzon felfújható SUP-pal repülővel, autóval vagy lakóautóval. Tippek a légitársasági díjakhoz, a csomagoláshoz, a felfújáshoz az úti célon, valamint a nemzetközi utazással kapcsolatos szempontokhoz.
   tldr: Engedje ki a levegőt, tekerje fel a SUP-ot, és csomagolja a hátizsákjába. A legtöbb légitársaság feladott poggyászként elfogadja (50 lbs / 50 linear inches alatt). A pumpát és az evezőt mindig ugyanabba a táskába csomagolja. Érkezzen korán, hogy legyen plusz ideje, ha a légitársaság munkatársa megkérdőjelezi a táska méretét. Hosszú utak esetén fontolja meg a csomag előzetes feladását.
   problem: A SUP-pal való utazás bonyolultnak tűnik — a légitársaságok méretkorlátai, a TSA-val kapcsolatos aggályok és annak kiderítése, hogy egy távoli úti célon hogyan fújhatja fel, bizonytalanságot okoz.
-  solution: Az afarer SUP hátizsákok a légitársaságok feladott poggyászra vonatkozó korlátainak megfelelően lettek kialakítva. Csomagoljon átgondoltan, vigyen magával javítókészletet, és indulás előtt nézzen utána a felfújási lehetőségeknek (kikötők, árammal rendelkező kempingek).
+  solution: Az olagoon SUP hátizsákok a légitársaságok feladott poggyászra vonatkozó korlátainak megfelelően lettek kialakítva. Csomagoljon átgondoltan, vigyen magával javítókészletet, és indulás előtt nézzen utána a felfújási lehetőségeknek (kikötők, árammal rendelkező kempingek).
   audience: Evezők, akik repülővel, autóval vagy lakóautóval terveznek SUP-pal utazni.
   steps:
     - Engedje ki a levegőt teljesen, és tekerje fel a deszkát az orrtól a farokig
@@ -736,7 +736,7 @@
   description: Útmutató felfújható SUP-ok kiválasztásához nagyobb testű evezőknek (200-400 lbs). Deszka-szélességre, -hosszra, -térfogatra és -teherbírásra vonatkozó javaslatok nagyobb és magasabb testalkatú evezőknek.
   tldr: A nagytestű evezőknek szélesebb deszkákra (34-36"), nagyobb hosszúságra (11'6"-12') és magasabb teherbírásra (300-400 lbs) van szükségük. Keressen katonai minőségű PVC-t, megerősített drop-stitch magot és kétrétegű szerkezetet. Kerülje a 32"-nél keskenyebb deszkákat, a hosszra való tekintet nélkül.
   problem: A standard SUP-ok teherbírása 200-250 lbs, ami sok evezőt kizár. Egy túl kicsi deszkán evezni kényelmetlen, instabil és potenciálisan veszélyes.
-  solution: Válasszon 300+ lbs teherbírású, extra szélességű deszkát a stabilitás érdekében. Az afarertől a Tropical Breeze és a Leviathan Wake sorozat kínálja azt a térfogatot és megerősítést, amelyre a nagytestű evezőknek szükségük van.
+  solution: Válasszon 300+ lbs teherbírású, extra szélességű deszkát a stabilitás érdekében. Az olagoontől a Tropical Breeze és a Leviathan Wake sorozat kínálja azt a térfogatot és megerősítést, amelyre a nagytestű evezőknek szükségük van.
   audience: 200 lbs feletti evezők, akiknek olyan deszkára van szükségük, amely biztonságosan hordozza a testsúlyukat.
   steps:
     - 'Számítsa ki a teljes terhelést: testsúly + felszerelés + 20% biztonsági ráhagyás'
@@ -835,7 +835,7 @@
   description: 'Hogyan válasszon túra SUP-ot hosszú távú evezéshez: hajótest-forma, hossz, szélesség, egyenesvonaltartás és felszerelés-javaslatok többnapos expedíciókhoz.'
   tldr: A túra SUP-ok hosszabb hajótestet (12-14'), a hatékony sikláshoz kiszorításos orrot és az egyenesvonaltartáshoz mérsékelt szélességet (30-32") igényelnek. Keressen gumihálós fedélzeti rögzítést, több D-gyűrűt és nagy PSI-értékű drop-stitch magot. A túraspecifikus evező kisebb lapáttal csökkenti a fáradtságot a hosszú napokon.
   problem: A rövid univerzális deszka túrázáshoz való használata lassú tempót, rossz egyenesvonaltartást és korai fáradást eredményez. A távolsági evezés specializált hajótestformát igényel.
-  solution: Válasszon 12' vagy hosszabb deszkát kiszorításos orral. Az afarertől az Ocean Pulse és az Ocean Voyager kínálja az expedíciós evezéshez szükséges túraspecifikus hajótestformát és gumihálós rögzítést.
+  solution: Válasszon 12' vagy hosszabb deszkát kiszorításos orral. Az olagoontől az Ocean Pulse és az Ocean Voyager kínálja az expedíciós evezéshez szükséges túraspecifikus hajótestformát és gumihálós rögzítést.
   audience: Evezők, akik egynapos kirándulásokat, többnapos expedíciókat vagy fitnesz-távolsági evezést terveznek.
   steps:
     - Válasszon 12-14' hosszú deszkát a hatékony sikláshoz és egyenesvonaltartáshoz

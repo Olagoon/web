@@ -6,11 +6,11 @@ hero:
   title: Lanza, gestiona y haz crecer tu club de paddle<br />con flotas SUP de calidad comercial
   subtitle: Proveedor de equipamiento SUP para clubes de paddle y escuelas de SUP en todo el mundo — tablas comerciales duraderas, precios de club por volumen, personalización de marca y piezas de repuesto rápidas, para que puedas centrarte en hacer crecer tu comunidad.
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
-    alt: Miembros del club de paddle en tablas Afarer SUP a juego
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
+    alt: Miembros del club de paddle en tablas OLagoon SUP a juego
 benefits:
   title: Beneficios de la flota del club
-  subtitle: Por qué los clubes de remo en más de 50 países eligen a Afarer como su socio de equipo.
+  subtitle: Por qué los clubes de remo en más de 50 países eligen a OLagoon como su socio de equipo.
   items:
     - metric: 40%+
       label: Ahorro de costos de la flota
@@ -81,7 +81,7 @@ training:
         - Plan de estudios de formación y apoyo para la certificación
         - Equipo certificado CE
 features:
-  title: Por Qué Los Clubes Eligen Afarer
+  title: Por Qué Los Clubes Eligen OLagoon
   subtitle: Calidad consistente, piezas rápidas y precios al por mayor diseñados para clubes en crecimiento.
   items:
     - title: 500 Ciclos de Alquiler

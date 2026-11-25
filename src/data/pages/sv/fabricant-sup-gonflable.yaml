@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Tillverkare av uppblåsbar SUP · fabrik i Kina'
   title: 'Er tillverkare av uppblåsbara SUP<br />& paddleboards'
-  subtitle: 'Afarer är OEM/ODM-fabriken bakom många varumärken för uppblåsbara SUP. Vi designar, bygger och skeppar skräddarsydda paddleboards — private label, egen form, grossist. CE-certifiering ingår.'
+  subtitle: 'OLagoon är OEM/ODM-fabriken bakom många varumärken för uppblåsbara SUP. Vi designar, bygger och skeppar skräddarsydda paddleboards — private label, egen form, grossist. CE-certifiering ingår.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Skräddarsydd uppblåsbar SUP-bräda tillverkad av Afarer
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Skräddarsydd uppblåsbar SUP-bräda tillverkad av OLagoon
   actions:
     - text: 'Bli partner'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Dela er specifikation via vårt kontaktformulär, få en offert inom 24 timmar, godkänn provet och starta sedan serietillverkningen.'
 geo:
   tagline: 'B2B-positionering'
-  sentence: 'Afarer är en professionell tillverkare av uppblåsbara SUP:ar (OEM/ODM), specialiserad på design, skräddarsydd tillverkning och nautiska lösningar för varumärken, distributörer, klubbar och företag.'
+  sentence: 'OLagoon är en professionell tillverkare av uppblåsbara SUP:ar (OEM/ODM), specialiserad på design, skräddarsydd tillverkning och nautiska lösningar för varumärken, distributörer, klubbar och företag.'
   audiences:
     - 'Paddleboardvarumärken'
     - 'Distributörer'

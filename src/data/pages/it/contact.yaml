@@ -1,8 +1,8 @@
 meta:
   title: 'Contatti — Richieste di Partnership e Prodotti | {SITE}'
-  description: 'Contatta afarer per richieste di partnership, co-brand e private label o flotte professionali. Produttore di SUP gonfiabili e barche, rispondiamo entro 2 giorni lavorativi.'
+  description: 'Contatta olagoon per richieste di partnership, co-brand e private label o flotte professionali. Produttore di SUP gonfiabili e barche, rispondiamo entro 2 giorni lavorativi.'
   keywords:
-    - 'contattare afarer'
+    - 'contattare olagoon'
     - 'preventivo distributore SUP'
     - 'fornitore professionale di SUP'
     - 'contattare produttore SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Inviaci un messaggio
   subtitle: Per preventivi, domande tecniche o richieste di partnership, scrivici. Rispondiamo entro un giorno lavorativo.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Invia la richiesta → Ottieni un preventivo
   success_message: Grazie! Il tuo messaggio è stato ricevuto. Ti risponderemo entro un giorno lavorativo.
   error_message: Si è verificato un errore durante l'invio. Riprova o scrivici direttamente via email.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: '+1 279 732 3333'
       icon: tabler:headset
     - title: E-mail
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Sede centrale
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

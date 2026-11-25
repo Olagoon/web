@@ -37,13 +37,13 @@ const localizedProducts = getLocalizedProducts(lang!);
 const filteredProducts = localizedProducts.filter((p) => p.category.toLowerCase() === activeCategory);
 
 const defaultVisuals: Record<string, string> = {
-  'sup-explorer-11': 'https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp',
-  'airdeck-360': 'https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp',
-  'life-vest-classic': 'https://assets.afarer.com/images/afarer/products/afarer-life-vest-classic.webp',
+  'sup-explorer-11': 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp',
+  'airdeck-360': 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp',
+  'life-vest-classic': 'https://assets.olagoon.com/images/olagoon/products/olagoon-life-vest-classic.webp',
   'life-vest-pro':
-    'https://assets.afarer.com/images/afarer/products/life-jacket-afarer-inflatable-boat-afarer-factory-exterior.webp',
-  'oars-pump-set': 'https://assets.afarer.com/images/afarer/products/afarer-electric-pump.webp',
-  'zb-mt350': 'https://assets.afarer.com/images/afarer/products/afarer-zb-mt350-inflatable-afarer-dinghy-category.webp',
+    'https://assets.olagoon.com/images/olagoon/products/life-jacket-olagoon-inflatable-boat-olagoon-factory-exterior.webp',
+  'oars-pump-set': 'https://assets.olagoon.com/images/olagoon/products/olagoon-electric-pump.webp',
+  'zb-mt350': 'https://assets.olagoon.com/images/olagoon/products/olagoon-zb-mt350-inflatable-olagoon-dinghy-category.webp',
 };
 const rawVisuals = ((
   pageContentData[`${lang}/site-product-visuals`] ||

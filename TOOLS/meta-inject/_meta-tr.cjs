@@ -2,7 +2,7 @@ module.exports = {
   about: {
     title: 'Hakkımızda — Şişme SUP tahtaları ve tekne üreticisi | {SITE}',
     description:
-      'afarer, kendi fabrikası, deniz mühendisliği ve OEM/ODM üretimi ile profesyonel bir şişme SUP tahtası ve tekne üreticisidir. Sertifikalı fabrikamızı ve markalar ile şirketler için denizcilik çözümlerimizi keşfedin.',
+      'olagoon, kendi fabrikası, deniz mühendisliği ve OEM/ODM üretimi ile profesyonel bir şişme SUP tahtası ve tekne üreticisidir. Sertifikalı fabrikamızı ve markalar ile şirketler için denizcilik çözümlerimizi keşfedin.',
     keywords: [
       'şişme SUP tahtası üreticisi',
       'şişme tekne üreticisi',
@@ -14,7 +14,7 @@ module.exports = {
   academy: {
     title: 'Akademi — SUP rehberleri ve kürek eğitimi | {SITE}',
     description:
-      'afarer Akademisi: şişme paddle board rehberleri, stand up paddle teknikleri, deniz güvenliği ve yeni başlayanlar ile profesyoneller için malzeme bilgisi.',
+      'olagoon Akademisi: şişme paddle board rehberleri, stand up paddle teknikleri, deniz güvenliği ve yeni başlayanlar ile profesyoneller için malzeme bilgisi.',
     keywords: [
       'stand up paddle öğrenme',
       'yeni başlayanlar için SUP rehberi',
@@ -23,16 +23,16 @@ module.exports = {
       'SUP dersleri',
     ],
   },
-  'afarer-story': {
+  'olagoon-story': {
     title: 'Hikayemiz — Şişme SUP tahtaları ve tekne üreticisi | {SITE}',
     description:
       'Kıyı atölyesinden küresel bir tekne üreticisine: 12.000 m² sertifikalı fabrika ile afarın mühendislik ve su üzerinde özgürlük hikayesi.',
-    keywords: ['afarer tarihi', 'afarer markası', 'şişme SUP tahtası üreticisi', 'şişme tekne üreticisi'],
+    keywords: ['olagoon tarihi', 'olagoon markası', 'şişme SUP tahtası üreticisi', 'şişme tekne üreticisi'],
   },
   'brand-global-presence': {
     title: 'Küresel Varlık — 50+ ülkede SUP üreticisi | {SITE}',
     description:
-      "afarer, şişme SUP tahtalarını ve teknelerini tüm kıtalarda 50'den fazla ülkeye ihraç eder. Markalar, distribütörler ve filolar için profesyonel üretici ve tedarikçi.",
+      "olagoon, şişme SUP tahtalarını ve teknelerini tüm kıtalarda 50'den fazla ülkeye ihraç eder. Markalar, distribütörler ve filolar için profesyonel üretici ve tedarikçi.",
     keywords: ['küresel SUP üreticisi', 'paddle board ihracatçısı', 'SUP fabrikası Çin', 'profesyonel SUP tedarikçisi'],
   },
   'brand-marine-expertise': {
@@ -50,9 +50,9 @@ module.exports = {
     title: 'Ekibimiz — Deniz mühendisleri ve yapımcılar | {SITE}',
     description:
       "2012 yılında Qingdao'da kurulan afar, deniz mühendisleri, malzeme uzmanları ve su sporu tutkunları tarafından inşa edildi. Fabrikanın arkasındaki ekiple tanışın.",
-    keywords: ['afarer ekibi', 'deniz mühendisleri', 'şişme SUP tahtası üreticisi', 'SUP fabrikası ekibi'],
+    keywords: ['olagoon ekibi', 'deniz mühendisleri', 'şişme SUP tahtası üreticisi', 'SUP fabrikası ekibi'],
   },
-  'brand-why-afarer': {
+  'brand-why-olagoon': {
     title: 'Neden afar — Küresel markaların bizi seçmesi için 7 neden | {SITE}',
     description:
       "Küresel markalar afar'ı neden seçiyor: CE ve ISO sertifikaları, esnek MOQ, özel kalıplar ve profesyonel bir SUP fabrikasından 30 gün teslimat süresi.",
@@ -100,14 +100,14 @@ module.exports = {
   community: {
     title: 'Topluluk — SUP maceraları ve kürek sporu | {SITE}',
     description:
-      'afarer topluluğu: paddle kulüpleri, SUP etkinlikleri, deniz maceraları ve şişme stand up paddle tahtaları tutkunlarının hikayeleri.',
+      'olagoon topluluğu: paddle kulüpleri, SUP etkinlikleri, deniz maceraları ve şişme stand up paddle tahtaları tutkunlarının hikayeleri.',
     keywords: ['paddle topluluğu', 'SUP kulübü', 'paddle etkinlikleri', 'SUP maceraları'],
   },
   contact: {
     title: 'İletişim — OEM teklifleri ve SUP üreticisi | {SITE}',
     description:
       'OEM/ODM teklifleri, özel etiket projeleri veya profesyonel filolar için afar ile iletişime geçin. Şişme SUP tahtası ve tekne üreticisi, 2 iş günü içinde yanıt veriyoruz.',
-    keywords: ['afarer iletişim', 'OEM paddle board teklifi', 'profesyonel SUP tedarikçisi', 'SUP üreticisi iletişim'],
+    keywords: ['olagoon iletişim', 'OEM paddle board teklifi', 'profesyonel SUP tedarikçisi', 'SUP üreticisi iletişim'],
   },
   custom: {
     title: "Custom Lab — Özel şişme paddle board'lar | {SITE}",

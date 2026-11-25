@@ -1,6 +1,6 @@
 meta:
   title: 'Ražošanas process — no izejvielas līdz SUP | {SITE}'
-  description: 'No izejvielas līdz jūras gatavībai: katrs afarer ražošanas procesa solis zem mūsu kontroles, no griešanas un metināšanas līdz testēšanai.'
+  description: 'No izejvielas līdz jūras gatavībai: katrs olagoon ražošanas procesa solis zem mūsu kontroles, no griešanas un metināšanas līdz testēšanai.'
   keywords:
     - 'sup ražošanas process'
     - 'piepūšamo sup rūpnīca'
@@ -13,7 +13,7 @@ hero:
   back_label: 'Atpakaļ uz Rūpnīcu'
   back_link: /factory/
 
-intro: 'Atšķirībā no zīmoliem, kas ražošanu uztic trešo pušu rūpnīcām, afarer pieder un tiek pārvaldīta visa tā ražošanas ķēde. Šāda vertikālā integrācija ļauj mums uzturēt stingru kvalitātes kontroli katrā posmā, ātri reaģēt uz pielāgotām prasībām un nodrošināt konsekventu produktu kvalitāti partiju pēc partijas. Tātad — kā mūsu ražotnē tiek būvēts dēlis.'
+intro: 'Atšķirībā no zīmoliem, kas ražošanu uztic trešo pušu rūpnīcām, olagoon pieder un tiek pārvaldīta visa tā ražošanas ķēde. Šāda vertikālā integrācija ļauj mums uzturēt stingru kvalitātes kontroli katrā posmā, ātri reaģēt uz pielāgotām prasībām un nodrošināt konsekventu produktu kvalitāti partiju pēc partijas. Tātad — kā mūsu ražotnē tiek būvēts dēlis.'
 
 steps:
   - step: '01'
@@ -47,6 +47,6 @@ steps:
 
 cta:
   title: 'Apskatiet mūsu aprīkojumu un mašīnas'
-  desc: 'Iepazīstiet rūpnieciskā līmeņa aprīkojumu, kas atrodas aiz katra afarer dēļa.'
+  desc: 'Iepazīstiet rūpnieciskā līmeņa aprīkojumu, kas atrodas aiz katra olagoon dēļa.'
   label: 'Apskatīt aprīkojumu →'
   link: /factory/equipment/

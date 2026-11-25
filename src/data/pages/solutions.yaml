@@ -1,6 +1,6 @@
 meta:
   title: 'Business Solutions — SUP for Every Business | {SITE}'
-  description: 'afarer business solutions: SUP fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
+  description: 'olagoon business solutions: SUP fleets for resorts, clubs, rentals, distribution, and private labels. Professional nautical equipment supplier for B2B.'
   keywords:
     - 'sup business solutions'
     - 'inflatable paddle board supplier'
@@ -9,12 +9,12 @@ meta:
 hero:
   tagline: Business Solutions
   title: 'SUP Solutions<br />For Every Business'
-  subtitle: 'From resorts to retail, rental operators to global distributors — Afarer provides complete SUP solutions tailored to your business model.'
+  subtitle: 'From resorts to retail, rental operators to global distributors — OLagoon provides complete SUP solutions tailored to your business model.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Afarer SUP boards for business and professional applications
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: OLagoon SUP boards for business and professional applications
 stats:
-  title: Afarer at a Glance
+  title: OLagoon at a Glance
   stats:
     - title: Years Experience
       amount: Since 2012
@@ -51,7 +51,7 @@ features3_solutions:
       icon: tabler:world
       link: /solutions/distributors/
     - title: Build Your Own Brand
-      description: 'End-to-end OEM/ODM SUP manufacturing — design, prototyping, mass production, and logistics. Launch your brand with Afarer.'
+      description: 'End-to-end OEM/ODM SUP manufacturing — design, prototyping, mass production, and logistics. Launch your brand with OLagoon.'
       icon: tabler:package
       link: /solutions/build-your-own-brand/
 cta:

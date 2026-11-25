@@ -1,6 +1,6 @@
 meta:
-  title: 'O značke Afarer — nafukovacie SUP a vodné športy | {SITE}'
-  description: 'Afarer je globálna značka nafukovacích dosiek SUP a vodných športov, ktorú prevádzkuje spoločnosť Aquafarer LLC a buduje náš operačný tím v Qingdao. Objavte náš príbeh, inžinierstvo, certifikovanú kvalitu a programy krajinských partnerstiev.'
+  title: 'O značke OLagoon — nafukovacie SUP a vodné športy | {SITE}'
+  description: 'OLagoon je globálna značka nafukovacích dosiek SUP a vodných športov, ktorú prevádzkuje spoločnosť Olagoon LLC a buduje náš operačný tím v Qingdao. Objavte náš príbeh, inžinierstvo, certifikovanú kvalitu a programy krajinských partnerstiev.'
   keywords:
     - 'značka nafukovacích SUP'
     - 'značka vodných športov'
@@ -9,11 +9,11 @@ meta:
 hero:
   tagline: 'O nás'
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: 'továreň a dielňa afarer'
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: 'továreň a dielňa olagoon'
   title: |
     Morské inžinierstvo, <br />
-    postavené po <span class="text-accent dark:text-white">afarer</span> spôsobe
+    postavené po <span class="text-accent dark:text-white">olagoon</span> spôsobe
   subtitle: 'Začali sme v pobrežnej dielni s jednou doskou a tvrdohlavým presvedčením: morské produkty by mali byť skonštruované tak, akoby na nich záležalo, pretože záleží. Dnes expedujeme do viac než 40 krajín, ale každý trup stále prechádza cez rovnaké ruky, ktoré spoločnosť založili.'
 
 stats:
@@ -59,7 +59,7 @@ features3_more:
       description: 'Dizajn projekt za projektom pre komerčných, vedeckých a vojenských zákazníkov.'
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: 'Diskusia o dizajne a konštrukcii dosiek'
 
 steps2_values:
@@ -78,7 +78,7 @@ steps2_values:
 
 steps2_milestones:
   title: 'Míľniky'
-  subtitle: 'Skrátená verzia príbehu afarer.'
+  subtitle: 'Skrátená verzia príbehu olagoon.'
   isReversed: true
   items:
     - title: 'Založené v pobrežnej dielni'
@@ -116,7 +116,7 @@ brand_hub_cards:
     desc: 'Expedícia do viac než 50 krajín z nášho zariadenia v Qingdao s autorizovanými servisnými partnermi v Európe, Ázijsko-tichomorskom regióne a Amerike.'
     link: /brand-global-presence/
     link_label: 'Dozvedieť sa viac →'
-  - title: 'Prečo afarer'
+  - title: 'Prečo olagoon'
     desc: 'Značka postavená na overenej kvalite — dvojitá certifikácia (ISO 9001 + BSCI), súlad s CE a exkluzívne krajinské partnerstvá s obmedzenými co-branded kolekciami pre vodno-športové podniky.'
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: 'Dozvedieť sa viac →'

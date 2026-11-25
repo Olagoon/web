@@ -238,7 +238,7 @@ function checkPages() {
       const translatedText = new Set(collectText(translated.data));
       function shouldTranslate(text) {
         if (/^https?:|^data:|^\//.test(text)) return false;
-        if (/assets\.afarer\.com/.test(text)) return false;
+        if (/assets\.olagoon\.com/.test(text)) return false;
         if (/^tabler:/.test(text)) return false;
         if (/^(from-|bg-|to-|text-|gap-)/.test(text)) return false;
         if (/\.[a-z0-9]+$/.test(text) && !/\s/.test(text) && !/[\u00e0-\u017f]{2}/.test(text)) return false;

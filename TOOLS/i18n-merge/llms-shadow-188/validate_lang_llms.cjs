@@ -1,9 +1,9 @@
 // Validate per-locale dist llms.txt URL lists (knowledge-graph variant) against route-manifest
 const fs = require('fs');
 const path = require('path');
-const DIST = 'E:/github/afarer/dist';
+const DIST = 'E:/github/olagoon/dist';
 const manifest = new Set(
-  JSON.parse(fs.readFileSync('E:/github/afarer/src/i18n/generated/route-manifest.json', 'utf8'))
+  JSON.parse(fs.readFileSync('E:/github/olagoon/src/i18n/generated/route-manifest.json', 'utf8'))
 );
 
 const locales = fs

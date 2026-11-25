@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const base = path.join('E:', 'github', 'afarer', 'dist', 'hu', 'solutions');
+const base = path.join('E:', 'github', 'olagoon', 'dist', 'hu', 'solutions');
 const slugs = [
   'sup-brand-startup',
   'expand-outdoor-brand-water-sports',

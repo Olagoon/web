@@ -5,9 +5,9 @@ meta:
 hero:
   tagline: 'Kuurordid ja hotellid'
   title: 'Muutke oma veepiirkond tuluallikaks<br />premium SUP-laevastikega'
-  subtitle: 'Afarer varustab kuurorte kogu maailmas kommertsklassi täispuhutavate SUP-laevastikega — 20-lauelistest stardipakettidest 100+ lauani lipulaevaprogrammideni. Kohandatud bränding, personali koolitus ja varuosad kuuluvad paketti.'
+  subtitle: 'OLagoon varustab kuurorte kogu maailmas kommertsklassi täispuhutavate SUP-laevastikega — 20-lauelistest stardipakettidest 100+ lauani lipulaevaprogrammideni. Kohandatud bränding, personali koolitus ja varuosad kuuluvad paketti.'
   image:
-    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    src: https://assets.olagoon.com/images/olagoon/lifestyle/olagoon-lifestyle-1.webp
     alt: 'Kuurorti külalised nautimas SUP-sõitu puhtal rannal'
 
 roi_section:
@@ -22,7 +22,7 @@ roi_section:
       detail: 'Kogu laevastiku investeering tagasi ühe hooajaga'
     - metric: '40%'
       label: 'Tulu kasv'
-      detail: 'Keskmine tõus pärast Afarer laevastikele üleminekut'
+      detail: 'Keskmine tõus pärast OLagoon laevastikele üleminekut'
     - metric: '500+'
       label: 'Renditsükleid laua kohta'
       detail: 'Kommertsklassi vastupidavus igapäevaseks kasutuseks'
@@ -71,7 +71,7 @@ packages:
       cta_text: 'Hangi lipulaevapakett'
 
 case_study:
-  quote: 'Pärast Afarerile üleminekut kasvas meie SUP-i renditulu 40%. Laudade asendamise kulud langesid 60%. Me saime kogu laevastiku investeeringu tagasi 4 kuuga.'
+  quote: 'Pärast OLagoonile üleminekut kasvas meie SUP-i renditulu 40%. Laudade asendamise kulud langesid 60%. Me saime kogu laevastiku investeeringu tagasi 4 kuuga.'
   author: 'Veetegevuste haldur'
   location: '5-tärni kuurort, Maldiivid'
   results:
@@ -83,7 +83,7 @@ case_study:
       value: '4 kuud'
 
 features:
-  title: 'Miks kuurordid valivad Afareri'
+  title: 'Miks kuurordid valivad OLagooni'
   subtitle: 'Kommertsklassi vastupidavus, globaalne logistika ja partner, kes mõistab külalislahkust.'
   items:
     - title: '500+ renditsüklit'

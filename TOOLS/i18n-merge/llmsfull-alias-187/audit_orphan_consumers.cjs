@@ -1,7 +1,7 @@
 // For each of the 28 content-only slugs, find getPageContent consumers in src/pages + src/components
 const fs = require('fs');
 const path = require('path');
-const SRC = 'E:/github/afarer/src';
+const SRC = 'E:/github/olagoon/src';
 const SLUGS = [
   'brand-team',
   'factory-capacity',

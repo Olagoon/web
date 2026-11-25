@@ -1,8 +1,8 @@
 meta:
-  title: 'Mediakeskus — lehdistö ja afarerin materiaalit | {SITE}'
-  description: 'afarerin mediakeskus: lehdistötiedotteet, brändimateriaalit ja resurssit yrityksestämme, joka valmistaa täytettäviä SUP-lautoja.'
+  title: 'Mediakeskus — lehdistö ja olagoonin materiaalit | {SITE}'
+  description: 'olagoonin mediakeskus: lehdistötiedotteet, brändimateriaalit ja resurssit yrityksestämme, joka valmistaa täytettäviä SUP-lautoja.'
   keywords:
-    - 'afarerin lehdistö'
+    - 'olagoonin lehdistö'
     - 'SUP-valmistajan media'
     - 'paddle board -lehdistöpaketti'
     - 'merialan yritysuutiset'
@@ -21,7 +21,7 @@ sections:
       - Tarvikkeet ja turvavarusteet
   - id: logo-brand-kit
     title: Logo ja brändipaketti
-    desc: Viralliset afarer-logotiedostot, väripaletti, typografia ja brändiohjeet.
+    desc: Viralliset olagoon-logotiedostot, väripaletti, typografia ja brändiohjeet.
     items:
       - Ensisijainen logo (PNG/SVG/EPS)
       - Kuvake
@@ -55,7 +55,7 @@ cta:
       desc: Tutustu 12 000 neliömetrin tuotantolaitokseemme
     - label: Brändiohjeet
       href: /brand/
-      desc: Tutustu afarer-brändiin
+      desc: Tutustu olagoon-brändiin
     - label: Kumppanuus kanssamme
       href: /contact/
       desc: OEM-, ODM- ja jakelukyselyt

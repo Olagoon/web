@@ -7,8 +7,8 @@ hero:
   tagline: Laboratorium 06
   title: Kvalitets- og inspektionslaboratorium
   subtitle: Uafhængig verifikation – alle test bestået før levering
-  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
-  image_alt: UV-testning i Afarers kvalitetsinspektionslaboratorium
+  image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
+  image_alt: UV-testning i OLagoons kvalitetsinspektionslaboratorium
 intro: >-
   Ethvert board, der forlader vores værksted, er certificeret til at have bestået et fast defineret sæt kvalitetsinspektioner og materialetest. Vores Quality & Inspection Lab er en uafhængig funktion i organisationen — det refererer direkte til administrerende direktør, ikke til produktionen — hvilket
   sikrer, at intet kommercielt pres kan kompromittere inspektionsporten. Hvis et materialeparti eller et færdigt board ikke lever op til den offentliggjorte specifikation, har laboratoriet bemyndigelse til at standse forsendelsen, indtil afvigelsen er løst.
@@ -128,7 +128,7 @@ content_html: >
 
   <h2>Vores løfte til dig</h2>
 
-  <p>Når du modtager et Afarer-board, modtager du også dets kvalitetsdossier — en samlet registrering af de testresultater, der gælder for netop dit board. Stofbatchcertifikat, peel-tests af svejsninger, lufttestlogfiler for kamre og kontroltjekliste før levering. Alle tal kan spores. Alle
+  <p>Når du modtager et OLagoon-board, modtager du også dets kvalitetsdossier — en samlet registrering af de testresultater, der gælder for netop dit board. Stofbatchcertifikat, peel-tests af svejsninger, lufttestlogfiler for kamre og kontroltjekliste før levering. Alle tal kan spores. Alle
   inspektører er identificeret. Det er ikke kun papirarbejde — det er vores løfte om, at det, vi leverer, er det, vi har specificeret.</p>
 
   <p>Hvis du nogensinde har en bekymring om kvaliteten, kan du kontakte laboratoriet direkte — kontaktoplysningerne er trykt på din overensstemmelsesattest. Vi tager enhver henvendelse alvorligt og forpligter os til en formel undersøgelse inden for 48 timer.</p>

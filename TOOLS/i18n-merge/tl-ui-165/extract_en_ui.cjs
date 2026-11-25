@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT = 'E:/github/afarer';
+const ROOT = 'E:/github/olagoon';
 const WORK = __dirname;
 const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/data/site/i18n-config.json'), 'utf8'));
 const en = cfg.en;

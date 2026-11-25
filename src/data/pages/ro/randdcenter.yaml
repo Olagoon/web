@@ -7,7 +7,7 @@ hero:
   subtitle: Concentrați pe progres
 intro:
   - >-
-    Centrul de Cercetare și Dezvoltare (R&D) afarer este forța motrice din spatele misiunii noastre de a revoluționa echipamentele de sporturi acvatice. Oferim entuziaștilor de sporturi acvatice din întreaga lume produse mai sigure, mai confortabile și mai plăcute, prin inovație neîncetată în
+    Centrul de Cercetare și Dezvoltare (R&D) olagoon este forța motrice din spatele misiunii noastre de a revoluționa echipamentele de sporturi acvatice. Oferim entuziaștilor de sporturi acvatice din întreaga lume produse mai sigure, mai confortabile și mai plăcute, prin inovație neîncetată în
     plăcile gonflabile de stand-up paddle (SUP). Echipa noastră dedicată de ingineri, designeri și experți pasionați în sporturi acvatice modelează viitorul industriei, ridicând constant ștacheta calității, performanței și sustenabilității.
   - >-
     Centrul nostru de cercetare și dezvoltare reunește sub același acoperiș specialiști în materiale, ingineri marini și ingineri de producție. De la formularea materialelor și simularea carenei până la dezvoltarea proceselor de sudare și testele pe mare la scară reală, fiecare etapă a dezvoltării
@@ -95,33 +95,33 @@ vision:
   tagline: Viziunea noastră
   title: Conturăm viitorul sporturilor acvatice
   body: >-
-    afarer își propune să conducă industria SUP-urilor gonflabile prin inovare continuă, calitate neclintită și un angajament ferm față de siguranță și sustenabilitate — îmbogățind, în cele din urmă, experiențele pasionaților de sporturi nautice din întreaga lume. Centrul R&D afarer
+    olagoon își propune să conducă industria SUP-urilor gonflabile prin inovare continuă, calitate neclintită și un angajament ferm față de siguranță și sustenabilitate — îmbogățind, în cele din urmă, experiențele pasionaților de sporturi nautice din întreaga lume. Centrul R&D olagoon
     este locul unde pasiunea întâlnește inovația, stabilind noi standarde pentru industria sporturilor nautice.
 labs_section:
   tagline: Laboratoare
   title: Laboratoarele noastre
   labs:
-    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+    - image: https://assets.olagoon.com/images/olagoon/randd/olagoon-pvc-material-lab.webp
       title: Laborator de țesături PVC
       description: Cercetare și testare continuă a țesăturilor din PVC pentru punte, pentru rezistență la tracțiune, rezistență UV, abraziune și flexibilitate la temperaturi scăzute, pentru a asigura fiabilitatea pe termen lung în medii marine.
       href: /randdcenter/pvc-fabric-lab/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Studioul de Inginerie a Carenelor
       description: Design bazat pe CAD și analiză cu elemente finite pentru carene din HDPE, aluminiu și fibră de sticlă. Fiecare carenă este simulată digital pentru distribuția tensiunilor și rezistența la impact înainte de realizarea primului prototip.
       href: /randdcenter/hull-engineering/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Centru de sudare RF
       description: Unități dedicate de sudare prin radiofrecvență, cu control de precizie al temperaturii și presiunii, care produc cusături rezistente și etanșe, conforme standardelor industriei maritime pentru plăcile gonflabile.
       href: /randdcenter/rf-welding/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Bazin de testare hidrodinamică
       description: Testarea modelelor la scară în bazinul nostru de testare propriu pentru a optimiza forma carenei, performanța de planare, stabilitatea și eficiența consumului de combustibil într-o gamă largă de condiții de încărcare și de mare.
       href: /randdcenter/hydrodynamic-test-tank/
-    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Atelier de prototipuri
       description: Instalație de prototipare și echipare la scară reală, unde modelele noi sunt construite, dotate și testate pe mare. Fiecare prototip parcurge un program de testare în apă de minimum 20 de ore înainte de aprobarea producției.
       href: /randdcenter/prototype-workshop/
-    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+    - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-uv-resistance-testing.webp
       title: Laborator de calitate și inspecție
       description: Laborator dedicat de asigurare a calității, care efectuează testări de tracțiune, cicluri de retenție a aerului, teste de decojire a cusăturilor și certificarea materialelor, pentru a ne asigura că fiecare placă care părăsește atelierul respectă specificațiile noastre publicate.
       href: /randdcenter/quality-inspection-lab/

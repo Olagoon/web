@@ -1,8 +1,8 @@
 meta:
   title: 'Kontakt — dotazy na partnerství a produkty | {SITE}'
-  description: 'Kontaktujte afarera s dotazy na partnerství, co-brand a privátní značky nebo ohledně profesionálních flotil. Nafukovací značka SUP, odpovídáme do 2 pracovních dnů.'
+  description: 'Kontaktujte olagoona s dotazy na partnerství, co-brand a privátní značky nebo ohledně profesionálních flotil. Nafukovací značka SUP, odpovídáme do 2 pracovních dnů.'
   keywords:
-    - 'kontakt afarer'
+    - 'kontakt olagoon'
     - 'nabídka pro distributora SUP'
     - 'profesionální dodavatel SUP'
     - 'kontakt výrobce SUP'
@@ -13,7 +13,7 @@ contact_form:
   id: form
   title: Pošlete nám zprávu
   subtitle: Pro poptávky, technické dotazy nebo partnerské dotazy nám napište. Odpovíme do jednoho pracovního dne.
-  email_to: info@afarer.com
+  email_to: info@olagoon.com
   submit_button: Odeslat poptávku → Získat nabídku
   success_message: Děkujeme! Vaše zpráva dorazila do naší schránky. Odpovíme do jednoho pracovního dne.
   error_message: Při odesílání zprávy došlo k chybě. Zkuste to znovu nebo nám napište přímo e-mail.
@@ -133,7 +133,7 @@ features2_other_ways:
       description: +1 279 732 3333
       icon: tabler:headset
     - title: E-mail
-      description: info@afarer.com
+      description: info@olagoon.com
       icon: tabler:mail
     - title: Sídlo společnosti
       description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA

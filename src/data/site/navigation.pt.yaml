@@ -37,17 +37,17 @@ header:
           href: /use-cases/tourism-recreation/
         - text: Todos os casos de uso
           href: /use-cases/
-    - text: Explore Afarer
+    - text: Explore OLagoon
       links:
-        - text: Why Afarer
-          href: /afarer-story/
+        - text: Why OLagoon
+          href: /olagoon-story/
         - text: Technology & Materials
           href: /technology/
         - text: Quality & Safety
           href: /quality/
         - text: Stories & Guides
           href: /journal/
-        - text: About Afarer
+        - text: About OLagoon
           href: /about/
     - text: Support
       links:
@@ -85,17 +85,17 @@ footer:
           href: /ultra-stable-sup/
         - text: Accessories
           href: /sup-accessories/
-    - title: Explore Afarer
+    - title: Explore OLagoon
       links:
-        - text: Why Afarer
-          href: /afarer-story/
+        - text: Why OLagoon
+          href: /olagoon-story/
         - text: Technology & Materials
           href: /technology/
         - text: Quality & Safety
           href: /quality/
         - text: Stories & Guides
           href: /journal/
-        - text: About Afarer
+        - text: About OLagoon
           href: /about/
     - title: Support
       links:
@@ -111,7 +111,7 @@ footer:
           href: /contact/
     - title: For Business Partners
       links:
-        - text: Co-Brand With Afarer
+        - text: Co-Brand With OLagoon
           href: /co-brand/
         - text: For Clubs & Resorts
           href: /solutions/resorts-hotels/
@@ -130,12 +130,8 @@ footer:
       href: /disclaimer/
   socialLinks:
     - text: YouTube
-      href: https://www.youtube.com/@afarer
-    - text: X
-      href: https://x.com/afarer
-    - text: Instagram
-      href: https://www.instagram.com/afarer_watersports/
+      href: https://www.youtube.com/@TheOlagoon
     - text: Facebook
-      href: https://www.facebook.com/profile.php?id=61572404318679
+      href: https://www.facebook.com/TheOlagoon
     - text: RSS
       href: /rss.xml

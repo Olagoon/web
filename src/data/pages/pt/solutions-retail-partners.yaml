@@ -4,10 +4,10 @@ meta:
 hero:
   tagline: Parceiros de Varejo
   title: Venda SUPs infláveis premium<br />com margens que funcionam
-  subtitle: Torne-se parceiro de varejo da Afarer — leve a marca SUP de crescimento mais rápido do seu mercado com preços de atacado completos, dropshipping, materiais de marketing profissionais e suporte dedicado.
+  subtitle: Torne-se parceiro de varejo da OLagoon — leve a marca SUP de crescimento mais rápido do seu mercado com preços de atacado completos, dropshipping, materiais de marketing profissionais e suporte dedicado.
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: Pranchas Afarer SUP exibidas em uma loja de varejo
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Pranchas OLagoon SUP exibidas em uma loja de varejo
 margin_section:
   title: Margens de Varejo e MOQ
   subtitle: Camadas de preços por atacado projetadas para a lucratividade no varejo.
@@ -86,7 +86,7 @@ support:
     - Opção de dropshipping disponível — sem risco de estoque
     - Condições de pagamento Net 30
 cta:
-  title: Pronto para se tornar parceiro de varejo da Afarer?
+  title: Pronto para se tornar parceiro de varejo da OLagoon?
   subtitle: Candidate-se à parceria ou baixe nosso catálogo de varejo para começar.
   actions:
     - text: Candidatar-se à Parceria

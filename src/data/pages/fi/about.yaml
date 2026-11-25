@@ -1,6 +1,6 @@
 meta:
-  title: 'Tietoa afarerista — täytettävien SUP-lautojen ja vesiurheilun brändi | {SITE}'
-  description: 'Afarer on maailmanlaajuinen täytettävien SUP-lautojen ja vesiurheilun brändi, jota pyörittää Aquafarer LLC. Tutustu tarinaamme, suunnitteluun, sertifioituun laatuun ja maakohtaisiin kumppaniohjelmiin.'
+  title: 'Tietoa olagoonista — täytettävien SUP-lautojen ja vesiurheilun brändi | {SITE}'
+  description: 'OLagoon on maailmanlaajuinen täytettävien SUP-lautojen ja vesiurheilun brändi, jota pyörittää Olagoon LLC. Tutustu tarinaamme, suunnitteluun, sertifioituun laatuun ja maakohtaisiin kumppaniohjelmiin.'
   keywords:
     - 'täytettävien SUP-lautojen merkki'
     - 'vesiurheilun brändi'
@@ -10,11 +10,11 @@ meta:
 hero:
   tagline: Meistä
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
-    alt: afarer-tehdas ja työpaja
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-factory-building.webp
+    alt: olagoon-tehdas ja työpaja
   title: |
     Meritekniikkaa, <br />
-    rakennettu <span class="text-accent dark:text-white">afarer</span>-tavalla
+    rakennettu <span class="text-accent dark:text-white">olagoon</span>-tavalla
   subtitle: 'Aloitimme rannikkopajassa yhdellä laudalla ja itsepäisellä uskomuksella: merituotteiden tulee olla suunniteltuja huolella, koska ne ovat tärkeitä. Nykyään toimitamme yli 40 maahan, mutta jokainen runko kulkee edelleen samojen käsien läpi, jotka perustivat yrityksen.'
 stats:
   title: Lukuina
@@ -57,7 +57,7 @@ features3_more:
       description: Projektikohtainen suunnittelu kaupallisille, tieteellisille ja sotilaallisille asiakkaille.
       icon: tabler:hammer
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
     alt: Laudan suunnittelu- ja insinöörityökeskustelu
 steps2_values:
   title: Arvomme
@@ -74,7 +74,7 @@ steps2_values:
       icon: tabler:headset
 steps2_milestones:
   title: Virstanpylväät
-  subtitle: Lyhyt versio afarerin tarinasta.
+  subtitle: Lyhyt versio olagoonin tarinasta.
   isReversed: true
   items:
     - title: Perustettu rannikkopajassa
@@ -109,7 +109,7 @@ brand_hub_cards:
     desc: Toimitus 50+ maahan Qingdao-laitoksestamme valtuutettujen kumppanien kautta Euroopassa, Aasiassa ja Amerikoissa.
     link: /brand-global-presence/
     link_label: Lue lisää →
-  - title: Miksi afarer
+  - title: Miksi olagoon
     desc: Brändi, joka on rakennettu varmistetulle laadulle — kaksoissertifikaatio (ISO 9001 + BSCI), CE-vaatimustenmukaisuus sekä eksklusiiviset maakohtaiset kumppanuudet ja rajoitetut co-branded-kokoelmat vesiurheiluyrityksille.
-    link: /brand-why-afarer/
+    link: /brand-why-olagoon/
     link_label: Lue lisää →

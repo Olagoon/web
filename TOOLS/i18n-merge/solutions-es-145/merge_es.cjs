@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
-const yaml = require('E:/github/afarer/node_modules/js-yaml');
+const yaml = require('E:/github/olagoon/node_modules/js-yaml');
 
 const WORK = 'C:/Users/Helleo/AppData/Local/Temp/deveco/es_sol_work';
-const TS = 'E:/github/afarer/src/data/biz-solutions/translations/es.ts';
+const TS = 'E:/github/olagoon/src/data/biz-solutions/translations/es.ts';
 
 // 1. eval-extract existing meta overrides from es.ts
 //    (es.ts currently carries a redundant local `export type SolutionOverride` block; nothing imports
@@ -44,7 +44,7 @@ if (missing.length || extra.length) {
 }
 
 // 3. merge: meta from existing es.ts + body fields from part, fixed key order
-const ORDER = ['clientType', 'meta', 'hero', 'challenge', 'solutions', 'caseStudy', 'whyAfarer', 'faqs', 'cta'];
+const ORDER = ['clientType', 'meta', 'hero', 'challenge', 'solutions', 'caseStudy', 'whyOLagoon', 'faqs', 'cta'];
 const merged = {};
 for (const slug of existingSlugs.slice().sort()) {
   const body = bodies[slug];

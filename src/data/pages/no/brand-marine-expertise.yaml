@@ -1,6 +1,6 @@
 meta:
   title: 'Marin Ekspertise — Teknikk i hvert skrog | {SITE}'
-  description: 'Tiår med marin teknikk i hvert skrog. afarer mestrer drop stitch, marin PVC og profesjonell design av oppblåsbare SUPer.'
+  description: 'Tiår med marin teknikk i hvert skrog. olagoon mestrer drop stitch, marin PVC og profesjonell design av oppblåsbare SUPer.'
   keywords:
     - 'marin teknikk'
     - 'produsent av oppblåsbare SUP'
@@ -8,10 +8,10 @@ meta:
 hero:
   tagline: Marin ekspertise
   title: Tiår med marinteknikk<br />i hvert skrog
-  subtitle: afarer kombinerer dyp materialvitenskap, presisjonsproduksjon og virkelighetstesting for å produsere farkoster som yter når det teller.
+  subtitle: olagoon kombinerer dyp materialvitenskap, presisjonsproduksjon og virkelighetstesting for å produsere farkoster som yter når det teller.
   image:
-    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
-    alt: afarers maritime ingeniør- og FoU-team i arbeid
+    src: https://assets.olagoon.com/images/olagoon/factory/olagoon-production-department.webp
+    alt: olagoons maritime ingeniør- og FoU-team i arbeid
 expertise_materials:
   tagline: Materialvitenskap
   title: Velg riktig material<br />for hver applikasjon

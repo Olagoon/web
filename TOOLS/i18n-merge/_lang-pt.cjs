@@ -6,31 +6,31 @@ module.exports = {
   'academy.learningCenterDesc':
     'Guias e tutoriais passo a passo organizados por nível de habilidade — do básico de SUP a técnicas avançadas de resgate.',
   'academy.metaDesc':
-    'Guias e tutoriais para todos os níveis — do básico de SUP a técnicas avançadas de resgate. Aprenda no seu ritmo com a Afarer Academy.',
-  'academy.metaTitle': 'Centro de Aprendizagem — Afarer Academy',
+    'Guias e tutoriais para todos os níveis — do básico de SUP a técnicas avançadas de resgate. Aprenda no seu ritmo com a OLagoon Academy.',
+  'academy.metaTitle': 'Centro de Aprendizagem — OLagoon Academy',
   'academy.skillPaths': 'Trilhas de Habilidades',
   'ai.definition':
-    'A Afarer projeta e fabrica SUPs infláveis, acessórios e equipamentos de segurança para esportes aquáticos recreativos e de performance.',
+    'A OLagoon projeta e fabrica SUPs infláveis, acessórios e equipamentos de segurança para esportes aquáticos recreativos e de performance.',
   'ai.entity':
-    'A Afarer é uma marca de esportes aquáticos orientada ao desempenho, criando SUPs infláveis distintos para quem vai mais longe, anda mais forte e vê mais da água.',
+    'A OLagoon é uma marca de esportes aquáticos orientada ao desempenho, criando SUPs infláveis distintos para quem vai mais longe, anda mais forte e vê mais da água.',
   'ai.process':
-    'As pranchas Afarer são construídas em torno de um núcleo drop-stitch de alta densidade com bordas reforçadas e costuras de fusão laminada. Cada prancha é testada sob pressão e inspecionada visualmente antes do empacotamento. A parceria de design vai do conceito, design 3D e prototipagem à produção inspecionada e logística global.',
+    'As pranchas OLagoon são construídas em torno de um núcleo drop-stitch de alta densidade com bordas reforçadas e costuras de fusão laminada. Cada prancha é testada sob pressão e inspecionada visualmente antes do empacotamento. A parceria de design vai do conceito, design 3D e prototipagem à produção inspecionada e logística global.',
   'answerCenter.subtitle':
-    'Respostas instantâneas sobre nossos produtos, tecnologia e esportes aquáticos — com base na base de conhecimento da afarer.',
+    'Respostas instantâneas sobre nossos produtos, tecnologia e esportes aquáticos — com base na base de conhecimento da olagoon.',
   'b2bSolutionsMatrix.metaDesc':
-    'Matriz completa de soluções B2B da Afarer cobrindo 24 tipos de clientes — encontre a solução para o seu negócio.',
+    'Matriz completa de soluções B2B da OLagoon cobrindo 24 tipos de clientes — encontre a solução para o seu negócio.',
   'buyerCenter.ribs': 'Botes Rígidos Infláveis (RIBs)',
   'buyerCenter.sizeGuideDesc':
     'Encontre seu tamanho com nosso guia de dimensões, volumes e faixas de peso do praticante.',
   'compare.backToAll': 'Todas as Comparações',
   'compare.category': 'Categoria',
   'compare.desc':
-    'Compare todos os produtos Afarer lado a lado. Encontre a prancha, o barco ou o acessório certo para suas necessidades.',
+    'Compare todos os produtos OLagoon lado a lado. Encontre a prancha, o barco ou o acessório certo para suas necessidades.',
   'compare.length': 'Comprimento',
   'compare.material': 'Material',
   'compare.maxLoad': 'Carga Máxima',
   'compare.singleVsMulti.aiBlock':
-    'Comparação entre pranchas de SUP infláveis de câmara única e multicâmara em 11 fatores-chave: segurança, número de câmaras, redundância de flutuação, peso, tamanho embalado, tempo de montagem, rigidez, custo, durabilidade, facilidade de reparo e melhores casos de uso. Pranchas multicâmara (3–5 câmaras independentes) oferecem redundância crítica de flutuação. Todas as pranchas SUP da afarer usam construção drop-stitch multicâmara.',
+    'Comparação entre pranchas de SUP infláveis de câmara única e multicâmara em 11 fatores-chave: segurança, número de câmaras, redundância de flutuação, peso, tamanho embalado, tempo de montagem, rigidez, custo, durabilidade, facilidade de reparo e melhores casos de uso. Pranchas multicâmara (3–5 câmaras independentes) oferecem redundância crítica de flutuação. Todas as pranchas SUP da olagoon usam construção drop-stitch multicâmara.',
   'compare.singleVsMulti.col1Title': 'Câmara Única',
   'compare.singleVsMulti.col2Title': 'Multicâmara (3+)',
   'compare.singleVsMulti.cta': 'Ver SUPs Multicâmara',
@@ -77,7 +77,7 @@ module.exports = {
   'compare.singleVsMulti.r9b':
     'Superior. Câmaras redundantes garantem operação à prova de falhas em condições exigentes.',
   'compare.singleVsMulti.recDesc':
-    'Para qualquer pessoa remando além da profundidade de pé — e especialmente para operadores comerciais — um <strong>SUP multicâmara</strong> é a única escolha responsável. Todas as pranchas SUP da afarer usam construção drop-stitch multicâmara com 3+ câmaras independentes para máxima segurança e rigidez estrutural. Sempre acompanhe sua prancha com um colete salva-vidas certificado CE para proteção completa.',
+    'Para qualquer pessoa remando além da profundidade de pé — e especialmente para operadores comerciais — um <strong>SUP multicâmara</strong> é a única escolha responsável. Todas as pranchas SUP da olagoon usam construção drop-stitch multicâmara com 3+ câmaras independentes para máxima segurança e rigidez estrutural. Sempre acompanhe sua prancha com um colete salva-vidas certificado CE para proteção completa.',
   'compare.singleVsMulti.recTitle': 'Conclusão',
   'compare.singleVsMulti.safetyCta': 'Guia de Segurança',
   'compare.singleVsMulti.short': 'Câmara Única vs Multicâmara',
@@ -93,15 +93,15 @@ module.exports = {
     'Para operadores de aluguel, resorts e clubes de remo, pranchas multicâmara reduzem responsabilidade e tempo de inatividade do equipamento. Um pequeno furo não significa mais uma falha total da prancha — ela permanece utilizável até o reparo no fim do dia.',
   'compare.singleVsMulti.whyMattersTitle': 'Por Que o Número de Câmaras Importa',
   'compare.specification': 'Especificação',
-  'compare.title': 'Comparação de Produtos — Afarer',
+  'compare.title': 'Comparação de Produtos — OLagoon',
   'compare.weight': 'Peso',
   'compare.width': 'Largura',
   'engineeringPerfection.desc':
-    'A filosofia de engenharia da Afarer: fabricação de precisão, seleção de materiais premium, controle de qualidade rigoroso e design específico por segmento para pranchas infláveis de touring, pesca, yoga e recreação.',
+    'A filosofia de engenharia da OLagoon: fabricação de precisão, seleção de materiais premium, controle de qualidade rigoroso e design específico por segmento para pranchas infláveis de touring, pesca, yoga e recreação.',
   'engineeringPerfection.s3': 'Botes e Tenders',
-  'engineeringTeam.about': 'Sobre a Afarer',
+  'engineeringTeam.about': 'Sobre a OLagoon',
   'engineeringTeam.desc':
-    'Os mais de 25 engenheiros de P&D e especialistas de produção da Afarer. Especialização em tecnologia de núcleo drop-stitch, fabricação em PVC/Hypalon, design de casco de SUP e engenharia de conformidade CE. Baseados em Qingdao, China.',
+    'Os mais de 25 engenheiros de P&D e especialistas de produção da OLagoon. Especialização em tecnologia de núcleo drop-stitch, fabricação em PVC/Hypalon, design de casco de SUP e engenharia de conformidade CE. Baseados em Qingdao, China.',
   'engineeringTeam.join': 'Junte-se à Equipe de Engenharia',
   'engineeringTeam.joinDesc':
     'Estamos sempre em busca de engenheiros talentosos em ciência dos materiais, design de produto e engenharia de qualidade.',
@@ -158,7 +158,7 @@ module.exports = {
   'factory.testingEquipment': 'Equipamentos de Teste',
   'factory.tradeTerms': 'Termos de Fabricação & Comércio',
   'factory.tradeTermsDesc':
-    'A Afarer é uma marca operada pela Aquafarer LLC (EUA) — certificada ISO e CE, com mais de 10 anos de experiência em exportação.',
+    'A OLagoon é uma marca operada pela Olagoon LLC (EUA) — certificada ISO e CE, com mais de 10 anos de experiência em exportação.',
   'factory.whatWeOffer': 'O Que Oferecemos',
   'faq.searchPlaceholder': 'Pesquisar no FAQ...',
   'guides.audience': 'Público',
@@ -170,7 +170,7 @@ module.exports = {
   'home.brand.certified': 'CE, ISO',
   'home.brand.certified.label': 'Padrões de Segurança & Qualidade Verificáveis',
   'home.brand.desc':
-    'Cada prancha Afarer começa com a água — suas correntes, condições e as pessoas que a praticam. Núcleos drop-stitch de alta densidade, bordas reforçadas e formas ajustadas para estabilidade e deslize, depois testadas sob pressão prancha por prancha.',
+    'Cada prancha OLagoon começa com a água — suas correntes, condições e as pessoas que a praticam. Núcleos drop-stitch de alta densidade, bordas reforçadas e formas ajustadas para estabilidade e deslize, depois testadas sob pressão prancha por prancha.',
   'home.brand.facility': '12–15 PSI',
   'home.brand.facility.label': 'Rigidez do Núcleo Drop-Stitch',
   'home.brand.feature1': 'Deck',
@@ -181,8 +181,8 @@ module.exports = {
   'home.brand.feature3.desc': 'Tecnologia Drop-Stitch',
   'home.brand.feature4': 'Borda',
   'home.brand.feature4.desc': 'Camada de Fusão Reforçada',
-  'home.brand.tagline': 'O Diferencial Afarer',
-  'home.brand.title': 'Por Que a Afarer<br />Anda Diferente',
+  'home.brand.tagline': 'O Diferencial OLagoon',
+  'home.brand.title': 'Por Que a OLagoon<br />Anda Diferente',
   'home.brand.workers': '100%',
   'home.brand.workers.label': 'Testada sob Pressão Prancha por Prancha',
   'home.brand.years': '10+',
@@ -191,9 +191,9 @@ module.exports = {
   'home.community.gallery': 'Galeria',
   'home.community.gallery.boats': 'Botes Infláveis',
   'home.community.gallery.boats.desc':
-    'Famílias e exploradores desfrutando de botes infláveis Afarer em lagos e águas costeiras.',
+    'Famílias e exploradores desfrutando de botes infláveis OLagoon em lagos e águas costeiras.',
   'home.community.gallery.sup': 'Pranchas de SUP',
-  'home.community.gallery.sup.desc': 'Praticantes explorando lagos, rios e litorais em SUPs infláveis Afarer.',
+  'home.community.gallery.sup.desc': 'Praticantes explorando lagos, rios e litorais em SUPs infláveis OLagoon.',
   'home.community.gallery.title': 'Aventuras de Clientes',
   'home.community.gallery.viewAll': 'Ver Galeria Completa',
   'home.engineering.design': 'Design de Produto',
@@ -270,26 +270,26 @@ module.exports = {
   'home.socialProof.title': 'Usado e confiável em água real',
   'home.socialProof.years': 'Anos de Experiência',
   'home.tldr.summary':
-    'a afarer projeta e fabrica pranchas de SUP infláveis premium, botes e acessórios — certificados CE e testados sob pressão um a um.',
-  'home.why.afarer.contact': 'Fale Conosco →',
-  'home.why.afarer.point1':
+    'a olagoon projeta e fabrica pranchas de SUP infláveis premium, botes e acessórios — certificados CE e testados sob pressão um a um.',
+  'home.why.olagoon.contact': 'Fale Conosco →',
+  'home.why.olagoon.point1':
     'Rígida quando importa — núcleo drop-stitch de alta densidade e bordas reforçadas que permanecem firmes sob pressão.',
-  'home.why.afarer.point2':
+  'home.why.olagoon.point2':
     'Construção de precisão — costuras de fusão laminada e integridade hermética, testadas sob pressão prancha por prancha.',
-  'home.why.afarer.point3': 'Validada na água — ajustada em água real para estabilidade, deslize e controle.',
-  'home.why.afarer.quality': 'Qualidade em Que Você Pode Confiar',
-  'home.why.afarer.subtitle': 'Construída com precisão. Testada sem trégua. Coberta por garantia.',
-  'home.why.afarer.tagline': 'Por que a afarer',
-  'home.why.afarer.title': 'Qualidade em Que Você Pode Confiar',
-  'home.why.afarer.viewMore': 'Ver Mais →',
-  'home.why.afarer.warranty': 'Garantia & Suporte',
-  'home.why.afarer.warranty.point1': 'Termos de garantia claros em cada prancha, com suporte pós-venda responsivo.',
-  'home.why.afarer.warranty.point2': 'Equipe de pós-venda dedicada com resposta rápida.',
-  'home.why.afarer.warranty.point3':
+  'home.why.olagoon.point3': 'Validada na água — ajustada em água real para estabilidade, deslize e controle.',
+  'home.why.olagoon.quality': 'Qualidade em Que Você Pode Confiar',
+  'home.why.olagoon.subtitle': 'Construída com precisão. Testada sem trégua. Coberta por garantia.',
+  'home.why.olagoon.tagline': 'Por que a olagoon',
+  'home.why.olagoon.title': 'Qualidade em Que Você Pode Confiar',
+  'home.why.olagoon.viewMore': 'Ver Mais →',
+  'home.why.olagoon.warranty': 'Garantia & Suporte',
+  'home.why.olagoon.warranty.point1': 'Termos de garantia claros em cada prancha, com suporte pós-venda responsivo.',
+  'home.why.olagoon.warranty.point2': 'Equipe de pós-venda dedicada com resposta rápida.',
+  'home.why.olagoon.warranty.point3':
     'Transparência total da cadeia de suprimentos para clubes, varejistas e parceiros de marca.',
   'nav.home': 'Início',
   'oem.desc':
-    'Afarer — fabricante OEM/ODM líder de pranchas de SUP infláveis. Certificação CE. Molde personalizado, private label, atacado. Da ideia ao mercado em 16 semanas.',
+    'OLagoon — fabricante OEM/ODM líder de pranchas de SUP infláveis. Certificação CE. Molde personalizado, private label, atacado. Da ideia ao mercado em 16 semanas.',
   'oem.estimate.countries': 'Países com histórico de entregas',
   'oem.estimate.cta': 'Solicitar Orçamento',
   'oem.estimate.leadWeeks': 'Semanas do briefing ao embarque',
@@ -300,7 +300,7 @@ module.exports = {
   'oem.faq.guide': 'Leia o Guia de Compras OEM',
   'oem.faq.subtitle': 'Nossa equipe OEM está pronta para ajudar você a começar.',
   'oem.faq.title': 'Ainda Tem Dúvidas?',
-  'oem.heading': 'Sua Marca de SUP.<br />Construída Pela Afarer.',
+  'oem.heading': 'Sua Marca de SUP.<br />Construída Pela OLagoon.',
   'oem.moq': 'MOQ de 50 unidades para modelos padrão. Molde personalizado: 200+ unidades. FOB Qingdao.',
   'oem.packages.cta': 'Solicitar Orçamento',
   'oem.packages.leadtime': 'Prazo de Entrega',
@@ -365,8 +365,8 @@ module.exports = {
   'oem.why.support': 'Gestão de Conta Dedicada',
   'oem.why.support.desc':
     'Um ponto de contato do briefing à entrega. Atualizações regulares de produção, fotos e comunicação transparente do início ao fim.',
-  'oem.why.tagline': 'Por Que a Afarer',
-  'oem.why.title': 'Por Que Parceirizar com a Afarer?',
+  'oem.why.tagline': 'Por Que a OLagoon',
+  'oem.why.title': 'Por Que Parceirizar com a OLagoon?',
   'packages.popular': 'Mais Popular',
   'product.bestFor': 'Ideal Para',
   'product.commercialScenarios': 'Cenários Comerciais',
@@ -379,11 +379,11 @@ module.exports = {
   'product.related': 'Produtos em Destaque',
   'product.view': 'Ver Produto',
   'resort.caseStudy': 'Resultados Reais',
-  'resort.caseStudy.sub': 'O que operadores de resort dizem sobre parceirizar com a Afarer.',
+  'resort.caseStudy.sub': 'O que operadores de resort dizem sobre parceirizar com a OLagoon.',
   'retail.discount': 'Desconto de Atacado',
   'retail.download': 'Baixar',
   'solutionsByIndustry.aiBlock':
-    'Soluções por setor para equipamentos de esportes aquáticos Afarer. Seis verticais: Busca & Resgate, Ajuda Humanitária e Socorro em Desastres, Operações Marítimas Comerciais, Defesa & Governo, Hospitalidade & Turismo, Pesca & Aquicultura. Todas as soluções certificadas CE e fabricadas sob ISO.',
+    'Soluções por setor para equipamentos de esportes aquáticos OLagoon. Seis verticais: Busca & Resgate, Ajuda Humanitária e Socorro em Desastres, Operações Marítimas Comerciais, Defesa & Governo, Hospitalidade & Turismo, Pesca & Aquicultura. Todas as soluções certificadas CE e fabricadas sob ISO.',
   'solutionsByIndustry.commercial.cert1': 'Embarcação comercial CE',
   'solutionsByIndustry.commercial.craft1': 'Pranchas de SUP comerciais',
   'solutionsByIndustry.commercial.craft2': 'Pranchas de apoio a mergulho',
@@ -407,7 +407,7 @@ module.exports = {
     'Equipamentos aquáticos de grau militar para reconhecimento, transporte de tropas, patrulha costeira e operações especiais.',
   'solutionsByIndustry.defense.name': 'Defesa & Governo',
   'solutionsByIndustry.desc':
-    'Encontre a solução certa de esportes aquáticos para o seu setor. Governo, comercial, recreativo, industrial — a Afarer fabrica equipamentos certificados CE para cada setor.',
+    'Encontre a solução certa de esportes aquáticos para o seu setor. Governo, comercial, recreativo, industrial — a OLagoon fabrica equipamentos certificados CE para cada setor.',
   'solutionsByIndustry.disaster.cert1': 'Certificado CE',
   'solutionsByIndustry.disaster.cert2': 'Testado contra UV/ambientes agressivos',
   'solutionsByIndustry.disaster.craft1': 'Pranchas infláveis robustas',
@@ -416,7 +416,7 @@ module.exports = {
   'solutionsByIndustry.disaster.desc':
     'Equipamentos aquáticos duráveis para resposta a emergências, evacuação médica, transporte de suprimentos e balsas de ponte temporárias em zonas de desastre.',
   'solutionsByIndustry.disaster.name': 'Socorro em Desastres & Ajuda Humanitária',
-  'solutionsByIndustry.expSub': 'Exemplos reais de como os equipamentos Afarer performam em diferentes setores.',
+  'solutionsByIndustry.expSub': 'Exemplos reais de como os equipamentos OLagoon performam em diferentes setores.',
   'solutionsByIndustry.expTitle': 'Soluções Setoriais em Ação',
   'solutionsByIndustry.fishing.cert1': 'CE recreativo',
   'solutionsByIndustry.fishing.cert2': 'Opções de materiais seguros para alimentos',
@@ -437,7 +437,7 @@ module.exports = {
   'solutionsByIndustry.learnMore': 'Saiba mais',
   'solutionsByIndustry.recommendedCraft': 'Embarcações Recomendadas',
   'solutionsByIndustry.rel1': 'Soluções por Caso de Uso',
-  'solutionsByIndustry.rel1desc': 'Combine seu caso de uso específico com a solução Afarer certa.',
+  'solutionsByIndustry.rel1desc': 'Combine seu caso de uso específico com a solução OLagoon certa.',
   'solutionsByIndustry.rel1label': 'Ferramenta de Decisão',
   'solutionsByIndustry.rel2': 'Botes de Trabalho Comerciais',
   'solutionsByIndustry.rel2desc': 'Equipamentos duráveis para operações marítimas comerciais diárias.',
@@ -461,19 +461,19 @@ module.exports = {
   'solutionsByIndustry.sar.name': 'Busca & Resgate',
   'solutionsByIndustry.story1.context': 'Resgate em enchente costeira, Sudeste Asiático, 2024',
   'solutionsByIndustry.story1.narrative':
-    'Durante um grave evento de enchente costeira, uma equipe municipal de SAR implantou SUPs de resgate Afarer para operações de evacuação. O calado raso das pranchas permitiu acesso a bairros inundados inalcançáveis por embarcações maiores. Apesar de detritos e 14 horas de operação contínua, o tecido não mostrou sinais de desgaste.',
+    'Durante um grave evento de enchente costeira, uma equipe municipal de SAR implantou SUPs de resgate OLagoon para operações de evacuação. O calado raso das pranchas permitiu acesso a bairros inundados inalcançáveis por embarcações maiores. Apesar de detritos e 14 horas de operação contínua, o tecido não mostrou sinais de desgaste.',
   'solutionsByIndustry.story1.quote':
-    'Implantamos dois SUPs de resgate Afarer durante a enchente costeira — foram as únicas pranchas que conseguiam navegar nas águas cheias de detritos na maré baixa.',
+    'Implantamos dois SUPs de resgate OLagoon durante a enchente costeira — foram as únicas pranchas que conseguiam navegar nas águas cheias de detritos na maré baixa.',
   'solutionsByIndustry.story1.source': 'Líder de Equipe SAR Municipal',
   'solutionsByIndustry.story2.context': 'Operações de mergulho charter, Maldivas, 2022–2025',
   'solutionsByIndustry.story2.narrative':
-    'Uma operação de mergulho charter nas Maldivas usa equipamentos Afarer para apoio diário a mergulhos. Após mais de 600 dias de operação, as pranchas não apresentam degradação significativa de UV nem separação de costuras.',
+    'Uma operação de mergulho charter nas Maldivas usa equipamentos OLagoon para apoio diário a mergulhos. Após mais de 600 dias de operação, as pranchas não apresentam degradação significativa de UV nem separação de costuras.',
   'solutionsByIndustry.story2.quote':
     'Nosso barco de mergulho opera 6 dias por semana, 50 semanas por ano. Depois de dois anos, o tecido Hypalon ainda parece novo.',
   'solutionsByIndustry.story2.source': 'Proprietário de Empresa de Charter',
   'solutionsByIndustry.title': 'Soluções por Setor — Equipamentos de Esportes Aquáticos para Cada Segmento',
   'solutionsByUseCase.aiBlock':
-    'Soluções por caso de uso para equipamentos de esportes aquáticos afarer. Oito cenários: resgate aquático, frotas de aluguel, branding personalizado, patrulha, ajuda humanitária, apoio a mergulho, fabricação de pranchas e uso pessoal. Todas as soluções certificadas CE e fabricadas sob ISO.',
+    'Soluções por caso de uso para equipamentos de esportes aquáticos olagoon. Oito cenários: resgate aquático, frotas de aluguel, branding personalizado, patrulha, ajuda humanitária, apoio a mergulho, fabricação de pranchas e uso pessoal. Todas as soluções certificadas CE e fabricadas sob ISO.',
   'solutionsByUseCase.answer1':
     'Pranchas e botes infláveis robustos de resgate projetados para resgate aquático e resposta a emergências. Implantação rápida, plataformas estáveis e certificação CE para equipes profissionais.',
   'solutionsByUseCase.answer2':
@@ -486,23 +486,23 @@ module.exports = {
     'Botes de trabalho comerciais para operações marítimas diárias — apoio a mergulho, transporte de equipamentos e funções de tripulação. Construção durável com opções de 2 a 12 pessoas.',
   'solutionsByUseCase.rel2desc': 'Equipamentos duráveis para operações marítimas comerciais diárias.',
   'solutionsByUseCase.story1.narrative':
-    'Durante um grave evento de enchente costeira, uma equipe municipal de SAR implantou SUPs de resgate afarer para operações de evacuação. O calado raso das pranchas permitiu acesso a bairros inundados inalcançáveis por embarcações maiores, e as equipes não relataram desgaste significativo após dias de uso contínuo.',
+    'Durante um grave evento de enchente costeira, uma equipe municipal de SAR implantou SUPs de resgate olagoon para operações de evacuação. O calado raso das pranchas permitiu acesso a bairros inundados inalcançáveis por embarcações maiores, e as equipes não relataram desgaste significativo após dias de uso contínuo.',
   'solutionsByUseCase.story1.quote':
-    'Implantamos dois SUPs de resgate afarer durante a enchente costeira — foram as únicas pranchas que conseguiram alcançar os moradores nos bairros inundados.',
+    'Implantamos dois SUPs de resgate olagoon durante a enchente costeira — foram as únicas pranchas que conseguiram alcançar os moradores nos bairros inundados.',
   'solutionsByUseCase.story2.narrative':
-    'Uma fazenda de peixes norueguesa opera um bote de trabalho afarer para inspeções, transporte de equipamentos e segurança de equipes de mergulho desde 2023. Dois anos de operação contínua durante todo o ano em condições frias de fiorde sem reparos estruturais.',
+    'Uma fazenda de peixes norueguesa opera um bote de trabalho olagoon para inspeções, transporte de equipamentos e segurança de equipes de mergulho desde 2023. Dois anos de operação contínua durante todo o ano em condições frias de fiorde sem reparos estruturais.',
   'useCase.fishing.desc':
     'SUPs e acessórios de pesca com suportes de vara, decks largos e estáveis e pontos de ancoragem para pescadores em lagos, rios e águas costeiras.',
   'useCase.searchAndRescue.desc':
     'Equipamentos infláveis de resgate de implantação rápida para resgate aquático, resposta a enchentes e patrulha costeira.',
   'useCase.tourismRecreation.desc':
     'Pranchas e botes de grau de frota reforçados para operadores de turismo, resorts e centros de esportes aquáticos.',
-  'nav.exploreAfarer': 'Explorar Afarer',
+  'nav.exploreOLagoon': 'Explorar OLagoon',
   'nav.technologyMaterials': 'Tecnologia & Materiais',
   'nav.qualitySafety': 'Qualidade & Segurança',
   'nav.storiesGuides': 'Histórias & Guias',
   'nav.coBrand': 'Co-Brand',
-  'nav.coBrandWithAfarer': 'Co-Brand com a Afarer',
+  'nav.coBrandWithOLagoon': 'Co-Brand com a OLagoon',
   'nav.countryPartners': 'Parceiros Nacionais',
   'nav.findDistributor': 'Encontrar um Distribuidor',
   'nav.becomeCountryPartner': 'Torne-se um Parceiro Nacional',

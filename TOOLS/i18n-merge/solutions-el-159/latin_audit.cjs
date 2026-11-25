@@ -44,7 +44,7 @@ const EXTRA = [
   'location',
   'background',
   'goal',
-  'whyAfarer',
+  'whyOLagoon',
   'faqs',
   'question',
   'answer',
@@ -54,7 +54,7 @@ const EXTRA = [
   'text',
   'title',
   'description',
-  'Afarer.',
+  'OLagoon.',
   'SUP.',
   'YouTube.',
   'kg.',
@@ -702,8 +702,8 @@ const path = require('path');
 const dir = path.join(__dirname, 'parts');
 const allow = new Set([
   ...EXTRA,
-  'Afarer',
-  'afarer',
+  'OLagoon',
+  'olagoon',
   'SUP',
   'SUPs',
   'iSUP',

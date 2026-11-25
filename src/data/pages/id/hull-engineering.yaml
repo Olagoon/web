@@ -8,10 +8,10 @@ hero:
   tagline: 'Lab 02'
   title: 'Studio Rekayasa Lambung'
   subtitle: 'Simulasi digital, kecerdasan struktural, desain lambung kustom'
-  image: 'https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp'
-  image_alt: 'Stasiun kerja desain CAD rekayasa lambung Afarer'
+  image: 'https://assets.olagoon.com/images/olagoon/factory/design discussolagoon-inflatable-boat-olagoon-factory-exterior.webp'
+  image_alt: 'Stasiun kerja desain CAD rekayasa lambung OLagoon'
 
-intro: 'Lambung adalah tulang punggung setiap SUP tiup. Lambung harus cukup ringan untuk meluncur efisien, cukup kuat untuk menghadapi garis pantai berbatu, dan cukup kaku untuk mengubah setiap dayungan menjadi gerak maju. Di Afarer, Studio Rekayasa Lambung kami memadukan pemodelan CAD canggih, analisis elemen hingga (FEA), dan pengalaman desain papan praktis selama puluhan tahun untuk menghadirkan lambung yang dioptimalkan untuk disiplin yang dituju — bukan bentuk generik yang diadaptasi dari katalog.'
+intro: 'Lambung adalah tulang punggung setiap SUP tiup. Lambung harus cukup ringan untuk meluncur efisien, cukup kuat untuk menghadapi garis pantai berbatu, dan cukup kaku untuk mengubah setiap dayungan menjadi gerak maju. Di OLagoon, Studio Rekayasa Lambung kami memadukan pemodelan CAD canggih, analisis elemen hingga (FEA), dan pengalaman desain papan praktis selama puluhan tahun untuk menghadirkan lambung yang dioptimalkan untuk disiplin yang dituju — bukan bentuk generik yang diadaptasi dari katalog.'
 
 content_html: |
   <h2>Tempat kekuatan bertemu hidrodinamika</h2>

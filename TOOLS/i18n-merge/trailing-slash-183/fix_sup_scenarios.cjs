@@ -1,5 +1,5 @@
 const fs = require('fs');
-const fp = 'E:/github/afarer/src/data/sup-scenarios.ts';
+const fp = 'E:/github/olagoon/src/data/sup-scenarios.ts';
 let s = fs.readFileSync(fp, 'utf8');
 const re = /href: '(\/[^'?]*)'/g;
 let n = 0;

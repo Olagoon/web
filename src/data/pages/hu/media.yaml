@@ -1,8 +1,8 @@
 meta:
-  title: 'Médiaközpont — Sajtó és afarer anyagok | {SITE}'
-  description: 'Az afarer médiaközpont: sajtóközlemények, márkaanyagok és források a felfújható SUP gyártó vállalatunktól.'
+  title: 'Médiaközpont — Sajtó és olagoon anyagok | {SITE}'
+  description: 'Az olagoon médiaközpont: sajtóközlemények, márkaanyagok és források a felfújható SUP gyártó vállalatunktól.'
   keywords:
-    - 'afarer sajtó'
+    - 'olagoon sajtó'
     - 'sup gyártó média'
     - 'paddle board sajtócsomag'
     - 'vízi vállalat hírek'
@@ -22,7 +22,7 @@ sections:
       - 'Tartozékok és biztonsági felszerelés'
   - id: logo-brand-kit
     title: 'Logó és márka csomag'
-    desc: 'Hivatalos afarer logófájlok, színpaletta, tipográfia és márka útmutatók.'
+    desc: 'Hivatalos olagoon logófájlok, színpaletta, tipográfia és márka útmutatók.'
     items:
       - 'Elsődleges logó (PNG/SVG/EPS)'
       - 'Ikonjel'
@@ -58,7 +58,7 @@ cta:
       desc: 'Tekintse meg 12 000 m²-es gyártó létesítményünket'
     - label: 'Márka útmutatók'
       href: /brand/
-      desc: 'Ismerje meg az afarer márkát'
+      desc: 'Ismerje meg az olagoon márkát'
     - label: 'Legyen a partnerünk'
       href: /contact/
       desc: 'OEM, ODM és disztribúciós megkeresések'

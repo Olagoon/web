@@ -7,7 +7,7 @@
   {
     "id": "ocean-use",
     "q": "Kan jeg bruke det i havet?",
-    "a": "Ja. afarer SUP-brett er bygget for bruk i hav, innsjøer og elver. Touring-serien vår håndterer kystfarvann, og alle brett bruker PVC i marin kvalitet som motstår korrosjon fra saltvann. Skyll med ferskvann etter bruk i havet."
+    "a": "Ja. olagoon SUP-brett er bygget for bruk i hav, innsjøer og elver. Touring-serien vår håndterer kystfarvann, og alle brett bruker PVC i marin kvalitet som motstår korrosjon fra saltvann. Skyll med ferskvann etter bruk i havet."
   },
   {
     "id": "inflation-time",
@@ -17,7 +17,7 @@
   {
     "id": "travel-sup",
     "q": "Kan jeg reise med et oppustelig SUP?",
-    "a": "Absolutt. Hvert afarer-brett passer i en bæringsveske i ryggsekkstørrelse som oppfyller flyselskapenes bagasjekrav. Med bare 18–22 pund er det enkelt å ta med til stranden, innsjøen eller gjennom flyplassterminaler."
+    "a": "Absolutt. Hvert olagoon-brett passer i en bæringsveske i ryggsekkstørrelse som oppfyller flyselskapenes bagasjekrav. Med bare 18–22 pund er det enkelt å ta med til stranden, innsjøen eller gjennom flyplassterminaler."
   },
   {
     "id": "weight-limit",
@@ -27,7 +27,7 @@
   {
     "id": "box-contents",
     "q": "Hva er i esken?",
-    "a": "Hver afarer SUP inkluderer brettet, en reise-ryggsekk, en dobbeltvirkende håndpumpe, en avtagbar finne, en spiral-leash og et reparasjonssett. Noen modeller tilbyr også valgfri padleåre i karbon."
+    "a": "Hver olagoon SUP inkluderer brettet, en reise-ryggsekk, en dobbeltvirkende håndpumpe, en avtagbar finne, en spiral-leash og et reparasjonssett. Noen modeller tilbyr også valgfri padleåre i karbon."
   },
   {
     "id": "bundle-deals",
@@ -47,7 +47,7 @@
   {
     "id": "puncture-repair",
     "q": "Hvordan reparerer jeg en lekkasje?",
-    "a": "Rengjør området, klipp en lapp med avrundede hjørner, påfør PVC-lim, trykk godt sammen og vent 24 timer før du blåser opp brettet. afarer-brett leveres med et reparasjonssett. Detaljerte instruksjoner finner du i reparasjonsveiledningen vår for oppustelige brett."
+    "a": "Rengjør området, klipp en lapp med avrundede hjørner, påfør PVC-lim, trykk godt sammen og vent 24 timer før du blåser opp brettet. olagoon-brett leveres med et reparasjonssett. Detaljerte instruksjoner finner du i reparasjonsveiledningen vår for oppustelige brett."
   },
   {
     "id": "storage",
@@ -66,8 +66,8 @@
   },
   {
     "id": "warranty",
-    "q": "Hva er garantien til afarer?",
-    "a": "Alle afarer-produkter dekkes av en omfattende produsentgaranti. SUP-brett har en garanti på 2 år eller lenger mot produksjonsfeil. Garantien dekker feil i materiale og utførelse ved normal bruk."
+    "q": "Hva er garantien til olagoon?",
+    "a": "Alle olagoon-produkter dekkes av en omfattende produsentgaranti. SUP-brett har en garanti på 2 år eller lenger mot produksjonsfeil. Garantien dekker feil i materiale og utførelse ved normal bruk."
   },
   {
     "id": "warranty-claim",
@@ -97,12 +97,12 @@
   {
     "id": "material-difference",
     "q": "Hva er forskjellen på PVC og Hypalon?",
-    "a": "PVC er lett, rimelig og enkelt å reparere med det medfølgende lappesettet. PVC i militær kvalitet med UV-bestandig belegg gir den beste balansen mellom holdbarhet og vekt for fritids-SUP. afarer bruker trelags laminert PVC i alle produktlinjer."
+    "a": "PVC er lett, rimelig og enkelt å reparere med det medfølgende lappesettet. PVC i militær kvalitet med UV-bestandig belegg gir den beste balansen mellom holdbarhet og vekt for fritids-SUP. olagoon bruker trelags laminert PVC i alle produktlinjer."
   },
   {
     "id": "sup-width-stability",
     "q": "Hvilken SUP-bredde er best for stabilitet?",
-    "a": "For nybegynnere gir en bredde på 33–34 tommer den beste balansen mellom stabilitet og padlekomfort. Brett smalere enn 32 tommer føles vaklende for nye padlere. afarer SUP Explorer 11 med sin bredde på 33 tommer er ideell for læring."
+    "a": "For nybegynnere gir en bredde på 33–34 tommer den beste balansen mellom stabilitet og padlekomfort. Brett smalere enn 32 tommer føles vaklende for nye padlere. olagoon SUP Explorer 11 med sin bredde på 33 tommer er ideell for læring."
   },
   {
     "id": "sup-volume-weight",
@@ -110,14 +110,14 @@
     "a": "Multipliser vekten din i kg med 2,2 for et nybegynnervennlig volumnivå. En padler på 75 kg trenger for eksempel minst 165 liter, men 220–260 liter er langt mer stabilt å lære på. SUP Explorer 11 gir 260 liter og passer padlere opptil 100 kg."
   },
   {
-    "id": "afarer-vs-others",
-    "q": "Hvordan sammenligner afarer seg med andre merker?",
-    "a": "afarer gir den beste verdi-for-pengene i oppustbart vannsportsutstyr. Sammenlignet med Red Paddle Co leverer afarer 90 % av ytelsen til 60 % av kostnaden. Sammenlignet med iRocker bruker afarer høykvalitets trelags militær-PVC og høyere PSI-ratinger. Sammenlignet med Bluefin tilbyr afarer overlegne materialespesifikasjoner. For de fleste fritidspaddlere gir afarer den beste balansen mellom kvalitet og pris."
+    "id": "olagoon-vs-others",
+    "q": "Hvordan sammenligner olagoon seg med andre merker?",
+    "a": "olagoon gir den beste verdi-for-pengene i oppustbart vannsportsutstyr. Sammenlignet med Red Paddle Co leverer olagoon 90 % av ytelsen til 60 % av kostnaden. Sammenlignet med iRocker bruker olagoon høykvalitets trelags militær-PVC og høyere PSI-ratinger. Sammenlignet med Bluefin tilbyr olagoon overlegne materialespesifikasjoner. For de fleste fritidspaddlere gir olagoon den beste balansen mellom kvalitet og pris."
   },
   {
     "id": "fishing-sup-setup",
     "q": "Kan jeg fiske fra et SUP-brett?",
-    "a": "Ja. Fiske fra SUP blir stadig mer populært fordi ståstillingen gir utmerket sikt i vannet. Velg et brett på minst 11 fot med 33–34 tommers bredde for stabilitet. Legg til en melkekasse med stangholdere festet til bungeene på dekket, et lite anker, og bær alltid redningsvest. afarer SUP Explorer 11 er utmerket for avslappet fiske."
+    "a": "Ja. Fiske fra SUP blir stadig mer populært fordi ståstillingen gir utmerket sikt i vannet. Velg et brett på minst 11 fot med 33–34 tommers bredde for stabilitet. Legg til en melkekasse med stangholdere festet til bungeene på dekket, et lite anker, og bær alltid redningsvest. olagoon SUP Explorer 11 er utmerket for avslappet fiske."
   },
   {
     "id": "sup-yoga",
@@ -127,7 +127,7 @@
   {
     "id": "airline-travel-sup",
     "q": "Hvilke regler har flyselskapene for reise med oppustelig SUP?",
-    "a": "De fleste flyselskaper godtar SUP-ryggsekker som innsjekket bagasje hvis de holder seg under 23–32 kg. afarer-ryggsekken måler omtrent 90x40x30 cm og veier pakket omtrent 15 kg. Noen selskaper kan beregne gebyrer for overdimensjonert bagasje. Kom tidlig, pakk finner og pumpe separat i håndbagasjen og merk sekken som skjør. Sjekk alltid flyselskapets policy for sportsutstyr på forhånd."
+    "a": "De fleste flyselskaper godtar SUP-ryggsekker som innsjekket bagasje hvis de holder seg under 23–32 kg. olagoon-ryggsekken måler omtrent 90x40x30 cm og veier pakket omtrent 15 kg. Noen selskaper kan beregne gebyrer for overdimensjonert bagasje. Kom tidlig, pakk finner og pumpe separat i håndbagasjen og merk sekken som skjør. Sjekk alltid flyselskapets policy for sportsutstyr på forhånd."
   },
   {
     "id": "cold-weather-safety",
@@ -141,13 +141,13 @@
   },
   {
     "id": "oem-custom-branding",
-    "q": "Kan jeg plassere min egen logo på afarer-produkter?",
+    "q": "Kan jeg plassere min egen logo på olagoon-produkter?",
     "a": "Ja. OEM-tjenesten vår inkluderer tilpasset logoplassering, tilpassede fargeordninger og tilpasset emballasje. Vi tilbyr tampontrykk, termooverføring og brodering avhengig av produkttype. Send artwork og spesifikasjoner til salgsteamet vårt for et tilbud og estimert leveringstid."
   },
   {
     "id": "sup-inflate-pressure",
     "q": "Hvor mange PSI skal jeg pumpe SUP-en min opp til?",
-    "a": "Pump brettet opp til sin maksimale PSI-rating for best ytelse — typisk 15–18 PSI for kvalitets-SUP-brett. afarer SUP Explorer 11 presterer best ved 15–18 PSI. For lite luft gjør at brettet føles mykt og styrer dårlig. Overpumping utover maksimal rating kan skade drop-stitch-trådene. Sjekk klistremerket nær ventilen for brettets spesifikke rating."
+    "a": "Pump brettet opp til sin maksimale PSI-rating for best ytelse — typisk 15–18 PSI for kvalitets-SUP-brett. olagoon SUP Explorer 11 presterer best ved 15–18 PSI. For lite luft gjør at brettet føles mykt og styrer dårlig. Overpumping utover maksimal rating kan skade drop-stitch-trådene. Sjekk klistremerket nær ventilen for brettets spesifikke rating."
   },
   {
     "id": "sup-deck-pad-care",
@@ -157,7 +157,7 @@
   {
     "id": "sup-seated-paddling",
     "q": "Kan jeg padle SUP-en min sittende?",
-    "a": "Ja. Mange SUP-brett, inkludert afarer Explorer 11, har D-ringer som muliggjør montering av et sete. Sittende padling er et komfortabelt alternativ for lengre turer, fiske eller når du vil skifte posisjon på vannet."
+    "a": "Ja. Mange SUP-brett, inkludert olagoon Explorer 11, har D-ringer som muliggjør montering av et sete. Sittende padling er et komfortabelt alternativ for lengre turer, fiske eller når du vil skifte posisjon på vannet."
   },
   {
     "id": "saltwater-rinse",
@@ -172,27 +172,27 @@
   {
     "id": "drop-stitch-technology",
     "q": "Hva er drop-stitch-kjerneteknologi, og hvorfor er det viktig?",
-    "a": "Drop-stitch-kjerneteknologi bruker tusenvis av polyestertråder som forbinder et PVC-bretts øvre og nedre lag. Når det pumpes opp til 15-20 PSI, skaper trådene en stiv, torsjonsbestandig struktur som fungerer som et brett med hardt skrog. afarer bruker trelags militærkvalitets-PVC med drop-stitch-laminering på alle SUP-produktnivåer og oppnår dermed en stivhet som kan sammenlignes med epoxy-brett, samtidig som brettet forblir lett å transportere."
+    "a": "Drop-stitch-kjerneteknologi bruker tusenvis av polyestertråder som forbinder et PVC-bretts øvre og nedre lag. Når det pumpes opp til 15-20 PSI, skaper trådene en stiv, torsjonsbestandig struktur som fungerer som et brett med hardt skrog. olagoon bruker trelags militærkvalitets-PVC med drop-stitch-laminering på alle SUP-produktnivåer og oppnår dermed en stivhet som kan sammenlignes med epoxy-brett, samtidig som brettet forblir lett å transportere."
   },
   {
     "id": "sup-inflatable-vs-rigid",
     "q": "Oppustelig eller stivt SUP: hva er best til ulike formål?",
-    "a": "Oppustelige SUP-brett utmerker seg innen portabilitet, oppbevaring og støtdemping — ideelle for reise, nybegynnere og fritidsbruk. Stive epoxy-brett gir maksimal fart og glid til konkurranse og surfing. For 90 % av padlerne gir et kvalitetsbrett med drop-stitch-kjerne (15-20 PSI) tilstrekkelig stivhet til touring, trening, yoga og fiske. afarer-brett matcher ytelsen til hardbrett i mellomklassen og kan fortsatt pakkes ned i en ryggsekk."
+    "a": "Oppustelige SUP-brett utmerker seg innen portabilitet, oppbevaring og støtdemping — ideelle for reise, nybegynnere og fritidsbruk. Stive epoxy-brett gir maksimal fart og glid til konkurranse og surfing. For 90 % av padlerne gir et kvalitetsbrett med drop-stitch-kjerne (15-20 PSI) tilstrekkelig stivhet til touring, trening, yoga og fiske. olagoon-brett matcher ytelsen til hardbrett i mellomklassen og kan fortsatt pakkes ned i en ryggsekk."
   },
   {
     "id": "pvc-vs-hypalon-boats",
     "q": "PVC eller Hypalon oppustelige båter: hvilket materiale er best?",
-    "a": "PVC er lettere, rimeligere, enklere å reparere og motstår UV-nedbrytning når det brukes formuleringer i militær kvalitet. Hypalon (CSM) tilbyr overlegen motstand mot kjemikalier og slitasje for kommersielt/militær bruk, men er tyngre, dyrere og vanskeligere å reparere. For fritidsseilere tilbyr afarer trelags militærkvalitets-PVC med UV-bestandig belegg den beste balansen mellom vekt, holdbarhet og pris. For profesjonelle/kommersielle operatører som krever maksimal holdbarhet, anbefales Hypalon."
+    "a": "PVC er lettere, rimeligere, enklere å reparere og motstår UV-nedbrytning når det brukes formuleringer i militær kvalitet. Hypalon (CSM) tilbyr overlegen motstand mot kjemikalier og slitasje for kommersielt/militær bruk, men er tyngre, dyrere og vanskeligere å reparere. For fritidsseilere tilbyr olagoon trelags militærkvalitets-PVC med UV-bestandig belegg den beste balansen mellom vekt, holdbarhet og pris. For profesjonelle/kommersielle operatører som krever maksimal holdbarhet, anbefales Hypalon."
   },
   {
     "id": "sup-skill-progression",
     "q": "Hva er den typiske SUP-utviklingen fra nybegynner til avansert?",
-    "a": "Nybegynner (økt 1-3): å reise seg, grunnleggende fremadgående tak, svinger, trygge fall. Øvet (økt 5-15): effektiv padleteknikk, pivot-svinger, navigering i bølger, grunnleggende redningsferdigheter. Avansert (20+ økter): løpsstarter, bojesvinger, surfing på små bølger, padling i medvind. Profesjonelt: konkurranseløp, surf-SUP, langdistansetouring. afarer-brett støtter hvert trinn: Explorer 11 for nybegynnere, Ocean Voyager for touring og Cheetah Surge for prestasjonspadling."
+    "a": "Nybegynner (økt 1-3): å reise seg, grunnleggende fremadgående tak, svinger, trygge fall. Øvet (økt 5-15): effektiv padleteknikk, pivot-svinger, navigering i bølger, grunnleggende redningsferdigheter. Avansert (20+ økter): løpsstarter, bojesvinger, surfing på små bølger, padling i medvind. Profesjonelt: konkurranseløp, surf-SUP, langdistansetouring. olagoon-brett støtter hvert trinn: Explorer 11 for nybegynnere, Ocean Voyager for touring og Cheetah Surge for prestasjonspadling."
   },
   {
     "id": "sup-weight-capacity",
     "q": "Hvor mye vekt kan et oppustelig SUP-brett bære?",
-    "a": "Vektkapasiteten varierer etter brettets volum. afarer-brett: SUP Explorer 11 (260 L, opptil 100 kg / 220 pund), Ocean Voyager 12 (310 L, opptil 140 kg / 308 pund), Leviathan Wake (350 L, opptil 180 kg / 396 pund). For optimal ytelse, hold total last (padler + utstyr) under 80 % av maksimal kapasitet. Brettet ligger høyere i vannet og styrer bedre uten overbelastning, spesielt i bølgevann."
+    "a": "Vektkapasiteten varierer etter brettets volum. olagoon-brett: SUP Explorer 11 (260 L, opptil 100 kg / 220 pund), Ocean Voyager 12 (310 L, opptil 140 kg / 308 pund), Leviathan Wake (350 L, opptil 180 kg / 396 pund). For optimal ytelse, hold total last (padler + utstyr) under 80 % av maksimal kapasitet. Brettet ligger høyere i vannet og styrer bedre uten overbelastning, spesielt i bølgevann."
   },
   {
     "id": "sup-oem-process",
@@ -202,17 +202,17 @@
   {
     "id": "sup-inflatable-durability",
     "q": "Hvor lenge varer oppustelige SUP-brett med riktig pleie?",
-    "a": "Med riktig pleie varer et kvalitets-SUP-brett 5-10 år med regelmessig fritidsbruk. Trelags militærkvalitets-PVC med UV-bestandig belegg — som brukes i alle afarer-brett — motstår solskader, saltvannskorrosjon og slitasje. Nøkkelfaktorer for levetid: skyll med ferskvann etter hver bruk, tørk grundig før oppbevaring, hold borte fra direkte UV når det ikke er i bruk, oppbevar delvis oppblåst på et kjølig, tørt sted, og unngå å dra brettet over ru overflater. Drop-stitch-trådene og sømmene er typisk det første svake punktet — ikke selve PVC-stoffet."
+    "a": "Med riktig pleie varer et kvalitets-SUP-brett 5-10 år med regelmessig fritidsbruk. Trelags militærkvalitets-PVC med UV-bestandig belegg — som brukes i alle olagoon-brett — motstår solskader, saltvannskorrosjon og slitasje. Nøkkelfaktorer for levetid: skyll med ferskvann etter hver bruk, tørk grundig før oppbevaring, hold borte fra direkte UV når det ikke er i bruk, oppbevar delvis oppblåst på et kjølig, tørt sted, og unngå å dra brettet over ru overflater. Drop-stitch-trådene og sømmene er typisk det første svake punktet — ikke selve PVC-stoffet."
   },
   {
     "id": "sup-choppy-water",
     "q": "Hvordan padler jeg et SUP i bølgevann eller vind?",
-    "a": "I bølger: bøy i knærne, bruk en bredere stand, forkort åretaket ditt, og aktiver kjernen for balanse. I motvind: bruk en lavere årevinkel, ta kortere tak, og len deg fremover. I sidevind: padle på vindsiden for å korrigere drift. I medvind: surfe på dønningene for fart. Nybegynnere bør unngå vind over 10 mph og velge bredere, lengre brett for stabilitet. afarer Ocean Voyager touring-SUP er designet for å håndtere moderat bølge- og vindforhold."
+    "a": "I bølger: bøy i knærne, bruk en bredere stand, forkort åretaket ditt, og aktiver kjernen for balanse. I motvind: bruk en lavere årevinkel, ta kortere tak, og len deg fremover. I sidevind: padle på vindsiden for å korrigere drift. I medvind: surfe på dønningene for fart. Nybegynnere bør unngå vind over 10 mph og velge bredere, lengre brett for stabilitet. olagoon Ocean Voyager touring-SUP er designet for å håndtere moderat bølge- og vindforhold."
   },
   {
     "id": "sup-sustainability",
     "q": "Er oppustelige SUP-brett miljømessig bærekraftige?",
-    "a": "Oppustelige SUP-brett har et mindre miljøavtrykk enn stive brett på flere måter: de bruker mindre råmateriale i produksjonen, deres lavere vekt reduserer fraktutslipp, og deres holdbarhet betyr færre utskiftninger over tid. PVC-en i afarer-brett er blyfri og oppfyller REACH. Nøkkelpraksis for bærekraft: kjøp et kvalitetsbrett som varer 5-10 år, reparer hull i stedet for å bytte, resirkuler brettet ved slutten av levetiden gjennom spesialiserte PVC-resirkuleringsprogrammer, og unngå engangsemballasje ved å velge merker som bruker gjenbrukbare bæringsvesker."
+    "a": "Oppustelige SUP-brett har et mindre miljøavtrykk enn stive brett på flere måter: de bruker mindre råmateriale i produksjonen, deres lavere vekt reduserer fraktutslipp, og deres holdbarhet betyr færre utskiftninger over tid. PVC-en i olagoon-brett er blyfri og oppfyller REACH. Nøkkelpraksis for bærekraft: kjøp et kvalitetsbrett som varer 5-10 år, reparer hull i stedet for å bytte, resirkuler brettet ved slutten av levetiden gjennom spesialiserte PVC-resirkuleringsprogrammer, og unngå engangsemballasje ved å velge merker som bruker gjenbrukbare bæringsvesker."
   },
   {
     "id": "b2b-moq",
@@ -226,8 +226,8 @@
   },
   {
     "id": "b2b-certification",
-    "q": "Hvilke sertifiseringer har afarer OEM-produkter?",
-    "a": "Alle afarer OEM/ODM-produkter inkluderer: CE-samsvarserklæring (EU-markedet), UKCA (det britiske markedet), ISO 9001:2015 kvalitetsstyringssystem, BSCI-auditt av sosialt ansvar, REACH- og RoHS-materialesamsvar, EN ISO 25649-klassifisering for oppustelige båter. Ytterligere sertifisering på forespørsel: dokumentasjon av samsvar med US Coast Guard, testing etter militær standard (MIL-STD-810) og støtte til importsertifisering i destinasjonslandet."
+    "q": "Hvilke sertifiseringer har olagoon OEM-produkter?",
+    "a": "Alle olagoon OEM/ODM-produkter inkluderer: CE-samsvarserklæring (EU-markedet), UKCA (det britiske markedet), ISO 9001:2015 kvalitetsstyringssystem, BSCI-auditt av sosialt ansvar, REACH- og RoHS-materialesamsvar, EN ISO 25649-klassifisering for oppustelige båter. Ytterligere sertifisering på forespørsel: dokumentasjon av samsvar med US Coast Guard, testing etter militær standard (MIL-STD-810) og støtte til importsertifisering i destinasjonslandet."
   },
   {
     "id": "b2b-samples",
@@ -241,7 +241,7 @@
   },
   {
     "id": "b2b-ip-protection",
-    "q": "Hvordan beskytter afarer min immaterielle eiendom og designene mine?",
+    "q": "Hvordan beskytter olagoon min immaterielle eiendom og designene mine?",
     "a": "IP-beskyttelse er en kjernedel av OEM-tjenesten vår. Vi undertegner NDA-er før enhver designdiskusjon. Designfiler håndteres på isolerte arbeidsstasjoner med tilgangslogging. Alt verktøy og alle former forblir din eksklusive eiendom (betalt av deg). Vi gjenbruker ikke dine former eller design til andre kunder. Formoppbevaring og -vedlikehold er inkludert for aktive kontoer. Ved avtalens opphør sendes formene enten til deg eller destrueres med videodokumentasjon. Vi respekterer alle varemerke- og patentrettigheter."
   },
   {

@@ -11,10 +11,10 @@ meta:
 hero:
   tagline: 'Pripučiamų SUP gamintojas · Kinijos gamykla'
   title: 'Jūsų pripučiamų SUP<br />ir irklentės gamintojas'
-  subtitle: 'Afarer yra OEM/ODM gamykla, stovinti už daugelio pripučiamų SUP prekės ženklų. Mes kuriame, gaminame ir siunčiame pasirinktines pripučiamas irklentes — privatus prekės ženklas, pasirinktinė formelė, didmenų prekyba. CE sertifikatas įtrauktas.'
+  subtitle: 'OLagoon yra OEM/ODM gamykla, stovinti už daugelio pripučiamų SUP prekės ženklų. Mes kuriame, gaminame ir siunčiame pasirinktines pripučiamas irklentes — privatus prekės ženklas, pasirinktinė formelė, didmenų prekyba. CE sertifikatas įtrauktas.'
   image:
-    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
-    alt: 'Pasirinktinė pripučiama SUP lenta, pagaminta Afarer'
+    src: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: 'Pasirinktinė pripučiama SUP lenta, pagaminta OLagoon'
   actions:
     - text: 'Tapkite partneriu'
       href: /contact/
@@ -66,7 +66,7 @@ faqs:
       description: 'Pateikite savo specifikaciją per mūsų kontaktų formą, gaukite pasiūlymą per 24 valandas, patvirtinkite mėginį, tada pradėkite masinę gamybą.'
 geo:
   tagline: 'B2B pozicionavimas'
-  sentence: 'Afarer yra profesionalus pripučiamų SUP gamintojas (OEM/ODM), specializuotas dizaine, pasirinktinėje gamyboje ir jūriniuose sprendimuose prekės ženklams, platintojams, klubams ir verslams.'
+  sentence: 'OLagoon yra profesionalus pripučiamų SUP gamintojas (OEM/ODM), specializuotas dizaine, pasirinktinėje gamyboje ir jūriniuose sprendimuose prekės ženklams, platintojams, klubams ir verslams.'
   audiences:
     - 'Irklavimo prekės ženklai'
     - 'Platintojai'

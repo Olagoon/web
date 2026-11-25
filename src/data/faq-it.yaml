@@ -8,7 +8,7 @@
     - beginner-guide
 - id: ocean-use
   question: 'Posso usarlo in mare?'
-  answer: "Sì. Le tavole SUP di afarer sono progettate per l'uso in mare, nei laghi e nei fiumi. La nostra serie Touring gestisce bene il mare mosso costiero, e tutte le tavole utilizzano PVC di grado marino resistente alla corrosione dell'acqua salata. Risciacqua con acqua dolce dopo l'uso in mare."
+  answer: "Sì. Le tavole SUP di olagoon sono progettate per l'uso in mare, nei laghi e nei fiumi. La nostra serie Touring gestisce bene il mare mosso costiero, e tutte le tavole utilizzano PVC di grado marino resistente alla corrosione dell'acqua salata. Risciacqua con acqua dolce dopo l'uso in mare."
   category: general
   relatedProducts: []
   relatedGuides:
@@ -22,7 +22,7 @@
     - sup-maintenance
 - id: travel-sup
   question: 'Posso viaggiare con un SUP gonfiabile?'
-  answer: "Assolutamente sì. Ogni tavola afarer si ripone in una custodia trasportabile dalle dimensioni di uno zaino che rispetta i requisiti di bagaglio delle compagnie aeree. Con soli 18–22 libbre, è facile da portare in spiaggia, al lago o attraverso i terminal dell'aeroporto."
+  answer: "Assolutamente sì. Ogni tavola olagoon si ripone in una custodia trasportabile dalle dimensioni di uno zaino che rispetta i requisiti di bagaglio delle compagnie aeree. Con soli 18–22 libbre, è facile da portare in spiaggia, al lago o attraverso i terminal dell'aeroporto."
   category: general
   relatedProducts: []
   relatedGuides: []
@@ -35,7 +35,7 @@
     - understanding-specs
 - id: box-contents
   question: 'Cosa contiene la confezione?'
-  answer: "Ogni SUP afarer include la tavola, uno zaino da viaggio, una pompa manuale a doppia azione, una pinna rimovibile, un leash a spirale e un kit di riparazione. Alcuni modelli offrono anche l'opzione di upgrade con pagaia in carbonio."
+  answer: "Ogni SUP olagoon include la tavola, uno zaino da viaggio, una pompa manuale a doppia azione, una pinna rimovibile, un leash a spirale e un kit di riparazione. Alcuni modelli offrono anche l'opzione di upgrade con pagaia in carbonio."
   category: product
   relatedProducts: []
   relatedGuides: []
@@ -62,7 +62,7 @@
   relatedGuides: []
 - id: puncture-repair
   question: 'Come riparo una foratura?'
-  answer: "Pulisci la zona, ritaglia una toppa con angoli arrotondati, applica l'adesivo per PVC, premi con decisione e attendi 24 ore prima di gonfiare. Le tavole afarer includono un kit di riparazione. Per istruzioni dettagliate, consulta la nostra guida alla riparazione dei gonfiabili."
+  answer: "Pulisci la zona, ritaglia una toppa con angoli arrotondati, applica l'adesivo per PVC, premi con decisione e attendi 24 ore prima di gonfiare. Le tavole olagoon includono un kit di riparazione. Per istruzioni dettagliate, consulta la nostra guida alla riparazione dei gonfiabili."
   category: maintenance
   relatedProducts: []
   relatedGuides:
@@ -92,8 +92,8 @@
     - weather-conditions
     - safety-tips
 - id: warranty
-  question: 'Qual è la garanzia afarer?'
-  answer: "Tutti i prodotti afarer sono coperti da una completa garanzia del produttore. Le tavole SUP sono coperte per oltre 2 anni contro i difetti di fabbricazione. La garanzia copre i difetti di materiali e di lavorazione nell'uso normale."
+  question: 'Qual è la garanzia olagoon?'
+  answer: "Tutti i prodotti olagoon sono coperti da una completa garanzia del produttore. Le tavole SUP sono coperte per oltre 2 anni contro i difetti di fabbricazione. La garanzia copre i difetti di materiali e di lavorazione nell'uso normale."
   category: warranty
   relatedProducts: []
   relatedGuides: []
@@ -130,13 +130,13 @@
     - choosing-paddle
 - id: material-difference
   question: 'Qual è la differenza tra SUP in PVC monolayer e multistrato?'
-  answer: "Il PVC è leggero, economico e facile da riparare con il kit di toppe incluso. Il PVC di grado militare con rivestimento resistente ai raggi UV offre il miglior equilibrio tra durabilità e peso per l'uso ricreativo del SUP. afarer utilizza PVC laminato a tripla strato in tutte le fasce di prodotto."
+  answer: "Il PVC è leggero, economico e facile da riparare con il kit di toppe incluso. Il PVC di grado militare con rivestimento resistente ai raggi UV offre il miglior equilibrio tra durabilità e peso per l'uso ricreativo del SUP. olagoon utilizza PVC laminato a tripla strato in tutte le fasce di prodotto."
   category: product
   relatedProducts: []
   relatedGuides: []
 - id: sup-width-stability
   question: 'Quale larghezza SUP è migliore per la stabilità?'
-  answer: 'Per i principianti, una larghezza di 33–34 pollici offre il miglior equilibrio tra stabilità e facilità di pagaiata. Le tavole più strette di 32 pollici risultano instabili per i neopagaiatori. La afarer SUP Explorer 11, con i suoi 33 pollici, è ideale per imparare.'
+  answer: 'Per i principianti, una larghezza di 33–34 pollici offre il miglior equilibrio tra stabilità e facilità di pagaiata. Le tavole più strette di 32 pollici risultano instabili per i neopagaiatori. La olagoon SUP Explorer 11, con i suoi 33 pollici, è ideale per imparare.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -152,21 +152,21 @@
   relatedGuides:
     - sup-size-guide
     - paddle-board-size-guide
-- id: afarer-vs-others
-  question: 'Come si compara afarer ad altri marchi?'
-  answer: "afarer offre il miglior rapporto qualità-prezzo nell'attrezzatura gonfiabile per sport acquatici. Rispetto a Red Paddle Co, afarer offre il 90% delle prestazioni al 60% del costo. Rispetto a iRocker, afarer utilizza PVC di grado militare a tripla strato di qualità superiore e valori PSI più alti. Rispetto a Bluefin, afarer offre specifiche dei materiali superiori. Per la maggior parte dei pagaiatori ricreativi, afarer offre il miglior equilibrio tra qualità e prezzo."
+- id: olagoon-vs-others
+  question: 'Come si compara olagoon ad altri marchi?'
+  answer: "olagoon offre il miglior rapporto qualità-prezzo nell'attrezzatura gonfiabile per sport acquatici. Rispetto a Red Paddle Co, olagoon offre il 90% delle prestazioni al 60% del costo. Rispetto a iRocker, olagoon utilizza PVC di grado militare a tripla strato di qualità superiore e valori PSI più alti. Rispetto a Bluefin, olagoon offre specifiche dei materiali superiori. Per la maggior parte dei pagaiatori ricreativi, olagoon offre il miglior equilibrio tra qualità e prezzo."
   category: general
   relatedProducts:
     - sup-explorer-11
     - sup-touring-cruiser
   relatedGuides:
     - best-surf-gear-brands-compared
-    - afarer-vs-red-paddle
-    - afarer-vs-irocker
-    - afarer-vs-bluefin
+    - olagoon-vs-red-paddle
+    - olagoon-vs-irocker
+    - olagoon-vs-bluefin
 - id: fishing-sup-setup
   question: 'Posso pescare da una tavola SUP?'
-  answer: "Sì. La pesca da SUP è sempre più popolare perché la posizione in piedi offre un'ottima visibilità nell'acqua. Scegli una tavola di almeno 11 piedi di lunghezza e 33–34 pollici di larghezza per la stabilità. Aggiungi una cassetta portacanne fissata agli elastici del ponte, una piccola ancora e indossa sempre un PFD. La afarer SUP Explorer 11 funziona molto bene per la pesca occasionale."
+  answer: "Sì. La pesca da SUP è sempre più popolare perché la posizione in piedi offre un'ottima visibilità nell'acqua. Scegli una tavola di almeno 11 piedi di lunghezza e 33–34 pollici di larghezza per la stabilità. Aggiungi una cassetta portacanne fissata agli elastici del ponte, una piccola ancora e indossa sempre un PFD. La olagoon SUP Explorer 11 funziona molto bene per la pesca occasionale."
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -183,7 +183,7 @@
     - yoga-sup-guide
 - id: airline-travel-sup
   question: 'Quali sono le regole delle compagnie aeree per viaggiare con un SUP gonfiabile?'
-  answer: "La maggior parte delle compagnie aeree accetta gli zaini SUP come bagaglio da stiva se sotto i 23–32 kg. Lo zaino afarer misura circa 90x40x30 cm e pesa circa 15 kg imballato. Alcune compagnie potrebbero applicare supplementi per bagaglio oversize. Arriva in anticipo, avvolgi pinne e pompa separatamente nel bagaglio a mano e etichetta la borsa come fragile. Verifica sempre la politica per l'attrezzatura sportiva della tua compagnia prima di volare."
+  answer: "La maggior parte delle compagnie aeree accetta gli zaini SUP come bagaglio da stiva se sotto i 23–32 kg. Lo zaino olagoon misura circa 90x40x30 cm e pesa circa 15 kg imballato. Alcune compagnie potrebbero applicare supplementi per bagaglio oversize. Arriva in anticipo, avvolgi pinne e pompa separatamente nel bagaglio a mano e etichetta la borsa come fragile. Verifica sempre la politica per l'attrezzatura sportiva della tua compagnia prima di volare."
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -204,14 +204,14 @@
   relatedProducts: []
   relatedGuides: []
 - id: oem-custom-branding
-  question: 'Posso mettere il mio logo sui prodotti afarer?'
+  question: 'Posso mettere il mio logo sui prodotti olagoon?'
   answer: 'Sì. Il nostro servizio OEM include la posizione personalizzata del logo, schemi colore personalizzati e imballaggi personalizzati. Offriamo tampografia, trasferimento termico e ricamo a seconda del tipo di prodotto. Invia i tuoi file grafici e le specifiche al nostro team di vendita per un preventivo e una stima dei tempi.'
   category: ordering
   relatedProducts: []
   relatedGuides: []
 - id: sup-inflate-pressure
   question: 'A quale PSI devo gonfiare il mio SUP?'
-  answer: "Gonfia fino al PSI massimo di targa della tavola per le migliori prestazioni — in genere 15–18 PSI per i SUP gonfiabili di qualità. La afarer SUP Explorer 11 rende al meglio a 15–18 PSI. Il gonfiaggio insufficiente rende la tavola morbida e poco direzionale. Il sovragonfiaggio oltre il massimo di targa rischia di danneggiare i fili drop-stitch. Controlla l'adesivo vicino alla valvola per la pressione specifica della tua tavola."
+  answer: "Gonfia fino al PSI massimo di targa della tavola per le migliori prestazioni — in genere 15–18 PSI per i SUP gonfiabili di qualità. La olagoon SUP Explorer 11 rende al meglio a 15–18 PSI. Il gonfiaggio insufficiente rende la tavola morbida e poco direzionale. Il sovragonfiaggio oltre il massimo di targa rischia di danneggiare i fili drop-stitch. Controlla l'adesivo vicino alla valvola per la pressione specifica della tua tavola."
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -229,7 +229,7 @@
     - inflatable-sup-maintenance
 - id: sup-seated-paddling
   question: 'Posso pagaiare il mio SUP da seduto?'
-  answer: "Sì. Molte tavole SUP, tra cui la afarer Explorer 11, hanno anelli a D che consentono il fissaggio di un sedile. Pagaiare da seduto è un'opzione comoda per i viaggi più lunghi, per la pesca o quando vuoi cambiare posizione in acqua."
+  answer: "Sì. Molte tavole SUP, tra cui la olagoon Explorer 11, hanno anelli a D che consentono il fissaggio di un sedile. Pagaiare da seduto è un'opzione comoda per i viaggi più lunghi, per la pesca o quando vuoi cambiare posizione in acqua."
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -252,7 +252,7 @@
     - sup-leash-guide
 - id: drop-stitch-technology
   question: "Cos'è la tecnologia a nucleo drop-stitch e perché è importante?"
-  answer: 'La tecnologia a nucleo drop-stitch utilizza migliaia di fili di poliestere che collegano gli strati superiore e inferiore di una tavola in PVC. Gonfiata a 15-20 PSI, questi fili creano una struttura rigida e resistente alla torsione che si comporta come una tavola a scafo rigido. afarer utilizza PVC di grado militare a tripla strato con laminazione drop-stitch in tutte le fasce di prodotto SUP, garantendo una rigidità paragonabile alle tavole epoxy mantenendo la portabilità di un gonfiabile.'
+  answer: 'La tecnologia a nucleo drop-stitch utilizza migliaia di fili di poliestere che collegano gli strati superiore e inferiore di una tavola in PVC. Gonfiata a 15-20 PSI, questi fili creano una struttura rigida e resistente alla torsione che si comporta come una tavola a scafo rigido. olagoon utilizza PVC di grado militare a tripla strato con laminazione drop-stitch in tutte le fasce di prodotto SUP, garantendo una rigidità paragonabile alle tavole epoxy mantenendo la portabilità di un gonfiabile.'
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -262,7 +262,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-inflatable-vs-rigid
   question: 'SUP gonfiabile o rigido: quale è migliore per i diversi utilizzi?'
-  answer: "I SUP gonfiabili eccellono in portabilità, stoccaggio e assorbimento degli urti — ideali per viaggiare, per i principianti e per l'uso ricreativo. Le tavole rigide in epoxy offrono velocità e planata massime per le gare e il surf. Per il 90% dei pagaiatori, un gonfiabile di qualità con nucleo drop-stitch (15-20 PSI) offre rigidità sufficiente per touring, fitness, yoga e pesca. Le tavole gonfiabili afarer eguagliano le prestazioni delle tavole rigide di fascia media riponendosi poi in uno zaino."
+  answer: "I SUP gonfiabili eccellono in portabilità, stoccaggio e assorbimento degli urti — ideali per viaggiare, per i principianti e per l'uso ricreativo. Le tavole rigide in epoxy offrono velocità e planata massime per le gare e il surf. Per il 90% dei pagaiatori, un gonfiabile di qualità con nucleo drop-stitch (15-20 PSI) offre rigidità sufficiente per touring, fitness, yoga e pesca. Le tavole gonfiabili olagoon eguagliano le prestazioni delle tavole rigide di fascia media riponendosi poi in uno zaino."
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -272,7 +272,7 @@
     - how-to-choose-inflatable-sup
 - id: sup-skill-progression
   question: 'Qual è la tipica progressione nelle abilità SUP da principiante ad avanzato?'
-  answer: 'Principiante (sessioni 1-3): alzarsi in piedi, pagaiata base in avanti, virate e cadute in sicurezza. Intermedio (sessioni 5-15): tecnica di pagaiata efficiente, virate pivot, navigazione nel mare mosso, competenze base di salvataggio. Avanzato (oltre 20 sessioni): partenze da regata, girate alle boe, surf su onde piccole, pagaiata downwind. Professionista: regate competitive, surf SUP, touring a lunga distanza. Le tavole afarer accompagnano ogni fase: la Explorer 11 per i principianti, la Ocean Voyager per il touring e la Cheetah Surge per la pagaiata ad alte prestazioni.'
+  answer: 'Principiante (sessioni 1-3): alzarsi in piedi, pagaiata base in avanti, virate e cadute in sicurezza. Intermedio (sessioni 5-15): tecnica di pagaiata efficiente, virate pivot, navigazione nel mare mosso, competenze base di salvataggio. Avanzato (oltre 20 sessioni): partenze da regata, girate alle boe, surf su onde piccole, pagaiata downwind. Professionista: regate competitive, surf SUP, touring a lunga distanza. Le tavole olagoon accompagnano ogni fase: la Explorer 11 per i principianti, la Ocean Voyager per il touring e la Cheetah Surge per la pagaiata ad alte prestazioni.'
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -284,7 +284,7 @@
     - sup-paddle-guide
 - id: sup-weight-capacity
   question: 'Quanto peso può sostenere una tavola SUP gonfiabile?'
-  answer: "La capacità di peso varia in base al volume della tavola. Tavole afarer: SUP Explorer 11 (260 L, fino a 100 kg / 220 libbre), Ocean Voyager 12 (310 L, fino a 140 kg / 308 libbre), Leviathan Wake (350 L, fino a 180 kg / 396 libbre). Per prestazioni ottimali, mantieni il carico totale (rider + attrezzatura) entro l'80% della capacità massima. La tavola galleggia più alta e tiene meglio la rotta senza sovraccarico, soprattutto in condizioni mosse."
+  answer: "La capacità di peso varia in base al volume della tavola. Tavole olagoon: SUP Explorer 11 (260 L, fino a 100 kg / 220 libbre), Ocean Voyager 12 (310 L, fino a 140 kg / 308 libbre), Leviathan Wake (350 L, fino a 180 kg / 396 libbre). Per prestazioni ottimali, mantieni il carico totale (rider + attrezzatura) entro l'80% della capacità massima. La tavola galleggia più alta e tiene meglio la rotta senza sovraccarico, soprattutto in condizioni mosse."
   category: product
   relatedProducts:
     - sup-explorer-11
@@ -301,7 +301,7 @@
   relatedGuides: []
 - id: sup-inflatable-durability
   question: 'Quanto durano le tavole SUP gonfiabili con le dovute cure?'
-  answer: "Con le dovute cure, una tavola SUP gonfiabile di qualità dura 5-10 anni di uso ricreativo regolare. Il PVC di grado militare a tripla strato con rivestimento resistente ai raggi UV — come quello usato in tutte le tavole afarer — resiste ai danni del sole, alla corrosione dell'acqua salata e all'abrasione. Fattori chiave di longevità: risciacquare con acqua dolce dopo ogni uso, asciugare bene prima dello stoccaggio, tenere lontano dai raggi UV diretti quando non si usa, conservare parzialmente gonfia in un luogo fresco e asciutto ed evitare di trascinarla su superfici ruvide. I fili drop-stitch e le cuciture sono in genere il primo punto di rottura, non il tessuto PVC stesso."
+  answer: "Con le dovute cure, una tavola SUP gonfiabile di qualità dura 5-10 anni di uso ricreativo regolare. Il PVC di grado militare a tripla strato con rivestimento resistente ai raggi UV — come quello usato in tutte le tavole olagoon — resiste ai danni del sole, alla corrosione dell'acqua salata e all'abrasione. Fattori chiave di longevità: risciacquare con acqua dolce dopo ogni uso, asciugare bene prima dello stoccaggio, tenere lontano dai raggi UV diretti quando non si usa, conservare parzialmente gonfia in un luogo fresco e asciutto ed evitare di trascinarla su superfici ruvide. I fili drop-stitch e le cuciture sono in genere il primo punto di rottura, non il tessuto PVC stesso."
   category: maintenance
   relatedProducts:
     - sup-explorer-11
@@ -312,7 +312,7 @@
     - inflatable-sup-repair
 - id: sup-choppy-water
   question: 'Come si pagaiia un SUP in acqua mossa o con vento?'
-  answer: "Nel mare mosso: piega le ginocchia, usa un'appoggio più largo, accorcia la pagaiata e attiva il core per l'equilibrio. Con vento contrario: usa un angolo di pagaia più basso, pagaiate più corte e inclinati in avanti. Con vento laterale: pagaiia sul lato sopravvento per correggere la deriva. Con vento in poppa: surfa le onde per guadagnare velocità. I principianti dovrebbero evitare venti superiori a 10 mph e scegliere tavole più larghe e lunghe per la stabilità. Il SUP da touring afarer Ocean Voyager è progettato per gestire mare mosso e vento moderati."
+  answer: "Nel mare mosso: piega le ginocchia, usa un'appoggio più largo, accorcia la pagaiata e attiva il core per l'equilibrio. Con vento contrario: usa un angolo di pagaia più basso, pagaiate più corte e inclinati in avanti. Con vento laterale: pagaiia sul lato sopravvento per correggere la deriva. Con vento in poppa: surfa le onde per guadagnare velocità. I principianti dovrebbero evitare venti superiori a 10 mph e scegliere tavole più larghe e lunghe per la stabilità. Il SUP da touring olagoon Ocean Voyager è progettato per gestire mare mosso e vento moderati."
   category: safety
   relatedProducts:
     - sup-ocean-voyager
@@ -323,7 +323,7 @@
     - wind-conditions-sup
 - id: sup-sustainability
   question: "Le tavole SUP gonfiabili sono sostenibili per l'ambiente?"
-  answer: "I SUP gonfiabili hanno un'impronta ambientale più bassa rispetto alle tavole rigide sotto diversi aspetti: usano meno materia prima in produzione, il loro peso inferiore riduce le emissioni di trasporto e la loro durata significa meno sostituzioni nel tempo. Il PVC usato nelle tavole afarer è senza piombo e conforme a REACH. Pratiche chiave di sostenibilità: acquista una tavola di qualità che duri 5-10 anni, ripara le forature invece di sostituire, ricicla la tavola a fine vita tramite programmi specializzati di riciclo del PVC ed evita gli imballaggi monouso scegliendo marchi che usano borse riutilizzabili."
+  answer: "I SUP gonfiabili hanno un'impronta ambientale più bassa rispetto alle tavole rigide sotto diversi aspetti: usano meno materia prima in produzione, il loro peso inferiore riduce le emissioni di trasporto e la loro durata significa meno sostituzioni nel tempo. Il PVC usato nelle tavole olagoon è senza piombo e conforme a REACH. Pratiche chiave di sostenibilità: acquista una tavola di qualità che duri 5-10 anni, ripara le forature invece di sostituire, ricicla la tavola a fine vita tramite programmi specializzati di riciclo del PVC ed evita gli imballaggi monouso scegliendo marchi che usano borse riutilizzabili."
   category: general
   relatedProducts:
     - sup-explorer-11
@@ -341,8 +341,8 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-certification
-  question: 'Quali certificazioni hanno i prodotti OEM di afarer?'
-  answer: 'Tutti i prodotti OEM/ODM di afarer hanno: dichiarazione di conformità CE (mercato UE), UKCA (mercato UK), sistema di gestione qualità ISO 9001:2015, audit di conformità sociale BSCI, conformità materiali REACH e RoHS, classificazione EN ISO 25649 per le tavole paddle gonfiabili. Certificazioni aggiuntive su richiesta: documentazione di conformità US Coast Guard, prove secondo standard militari (MIL-STD-810) e supporto alla certificazione di importazione nei paesi di destinazione.'
+  question: 'Quali certificazioni hanno i prodotti OEM di olagoon?'
+  answer: 'Tutti i prodotti OEM/ODM di olagoon hanno: dichiarazione di conformità CE (mercato UE), UKCA (mercato UK), sistema di gestione qualità ISO 9001:2015, audit di conformità sociale BSCI, conformità materiali REACH e RoHS, classificazione EN ISO 25649 per le tavole paddle gonfiabili. Certificazioni aggiuntive su richiesta: documentazione di conformità US Coast Guard, prove secondo standard militari (MIL-STD-810) e supporto alla certificazione di importazione nei paesi di destinazione.'
   category: b2b
   relatedProducts: []
   relatedGuides: []
@@ -359,7 +359,7 @@
   relatedProducts: []
   relatedGuides: []
 - id: b2b-ip-protection
-  question: 'In che modo afarer protegge la mia proprietà intellettuale e i miei design?'
+  question: 'In che modo olagoon protegge la mia proprietà intellettuale e i miei design?'
   answer: "La protezione della PI è una parte fondamentale del nostro servizio OEM. Firmiamo NDA prima di qualsiasi discussione di design. I file di design sono gestiti su workstation isolate con registro degli accessi. Tutti gli stampi e le attrezzature restano di tua esclusiva proprietà (pagati da te). Non riutilizzeremo i tuoi stampi o design per altri clienti. Lo stoccaggio e la manutenzione degli stampi sono inclusi per i conti attivi. Alla risoluzione dell'accordo, gli stampi vengono spediti a te o distrutti con documentazione video. Rispettiamo tutti i diritti di marchio e di brevetto."
   category: b2b
   relatedProducts: []

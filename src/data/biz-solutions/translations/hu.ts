@@ -28,7 +28,7 @@ export type SolutionOverride = {
       results: string[];
     }[];
   };
-  whyAfarer?: {
+  whyOLagoon?: {
     title?: string;
     items?: { title: string; description: string }[];
   };
@@ -47,15 +47,15 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Építse fel saját SUP márkáját | OEM felfújható SUP gyártó | {SITE}',
       description:
-        'Az Afarer segít a kültéri startupoknak egyedi SUP márkákat építeni OEM gyártással, private label paddle boardokkal, alacsony MOQ gyártással, terméktervezéssel, minőség-ellenőrzéssel és globális ellátási lánc támogatással.',
+        'Az OLagoon segít a kültéri startupoknak egyedi SUP márkákat építeni OEM gyártással, private label paddle boardokkal, alacsony MOQ gyártással, terméktervezéssel, minőség-ellenőrzéssel és globális ellátási lánc támogatással.',
     },
     hero: {
       tagline: 'Építse fel saját SUP márkáját™',
       title: 'Egyedi SUP gyártás kültéri startup alapítóknak',
       subtitle:
-        'Az Afarer segít a kültéri startupoknak egyedi SUP márkákat építeni OEM gyártással, private label paddle boardokkal, alacsony MOQ gyártással, terméktervezéssel, minőség-ellenőrzéssel és globális ellátási lánc támogatással.',
+        'Az OLagoon segít a kültéri startupoknak egyedi SUP márkákat építeni OEM gyártással, private label paddle boardokkal, alacsony MOQ gyártással, terméktervezéssel, minőség-ellenőrzéssel és globális ellátási lánc támogatással.',
       image: {
-        alt: 'Afarer egyedi SUP deszkák bemutatása',
+        alt: 'OLagoon egyedi SUP deszkák bemutatása',
       },
     },
     challenge: {
@@ -169,7 +169,7 @@ const hu: Record<string, SolutionOverride> = {
       customer:
         'Egyesült Államokbeli kültéri startup márkaalapító. Korábbi kültéri kiskereskedelmi vezető, szörf- és kajakrajongó, valamint Shopify-vállalkozó, aki prémium felfújható SUP márkát kíván létrehozni.',
       steps: [
-        'Az Afarer segített a márka irányának meghatározásában prémium kültéri életmód SUP márkaként, 25-45 éves kültéri fogyasztókat megcélozva. Piaci pozicionálási elemzést és versenytárskutatást végzett.',
+        'Az OLagoon segített a márka irányának meghatározásában prémium kültéri életmód SUP márkaként, 25-45 éves kültéri fogyasztókat megcélozva. Piaci pozicionálási elemzést és versenytárskutatást végzett.',
         "Kifejlesztette az első terméket: 10'6 prémium felfújható SUP tartós Drop Stitch konstrukcióval, prémium PVC szerkezettel, modern EVA dizájnnal, szénszálas evezővel és magas minőségű kiegészítőkkel.",
         'Egyedi deszkagrafikákat, márkaszínrendszert, csomagolástervet és teljes, kiskereskedésre kész termékcsomagot hozott létre a márkaidentitáshoz igazítva.',
         '300 darabbal indított a Shopify boltban, influencer marketing kampányokkal és vásárlói teszteléssel a piaci kereslet validálására.',
@@ -194,22 +194,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Márkaidentitás és beszállítókeresés három kontinensen',
               detail:
-                'James 2023 januárja és márciusa között 5 gyárat látogatott meg Kínában, Vietnamban és Thaiföldön az Afarer beszerzési csapatával együtt. Az Afarer bemutatta neki a qingdaói specializált, katonai minőségű PVC lamináló üzemet, amely korábban kizárólag fehér címkés deszkákat gyártott európai disztribútoroknak. Együtt tárgyaltak a minimális rendelési mennyiség 1 000 darabról 500 darabra való csökkentéséről egy 6 hónapos kizárólagossági klauzula elfogadásáért cserébe. Az Afarer minőség-ellenőrzési csapata 3 körös mintatesztelést végzett, és elutasította az első két tételt a következetlen rail-varrathegesztés miatt, mielőtt jóváhagyta a harmadikat.',
+                'James 2023 januárja és márciusa között 5 gyárat látogatott meg Kínában, Vietnamban és Thaiföldön az OLagoon beszerzési csapatával együtt. Az OLagoon bemutatta neki a qingdaói specializált, katonai minőségű PVC lamináló üzemet, amely korábban kizárólag fehér címkés deszkákat gyártott európai disztribútoroknak. Együtt tárgyaltak a minimális rendelési mennyiség 1 000 darabról 500 darabra való csökkentéséről egy 6 hónapos kizárólagossági klauzula elfogadásáért cserébe. Az OLagoon minőség-ellenőrzési csapata 3 körös mintatesztelést végzett, és elutasította az első két tételt a következetlen rail-varrathegesztés miatt, mielőtt jóváhagyta a harmadikat.',
             },
             {
               title: '2. lépés – Közösségi finanszírozási kampányinfrastruktúra és teljesítéstervezés',
               detail:
-                'Az Afarer logisztikai csapata segített Jamesnek 3PL partnerséget kialakítani egy gloucesteri teljesítési központtal, amely napi 2 000 csomag kezelésére képes. Részletes Kickstarter jutalomszinteket hoztak létre: 399 fontos korai foglalás (50 darab), 449 fontos standard (300 darab) és 549 fontos prémium csomag evezővel és pumpával (150 darab). Az Afarer 12 nagy felbontású termék-látványtervet, a Wye folyónál, Symonds Yatnál forgatott 4 perces kampányvideót és teljes műszaki adatlapot készített, kiemelve a 6 hüvelykes vastagságot, a 32 PSI drop-stitch magot és a szénszálas evező opciót. A kampány 2023. május 1-jén indult 150 000 fontos céllal.',
+                'Az OLagoon logisztikai csapata segített Jamesnek 3PL partnerséget kialakítani egy gloucesteri teljesítési központtal, amely napi 2 000 csomag kezelésére képes. Részletes Kickstarter jutalomszinteket hoztak létre: 399 fontos korai foglalás (50 darab), 449 fontos standard (300 darab) és 549 fontos prémium csomag evezővel és pumpával (150 darab). Az OLagoon 12 nagy felbontású termék-látványtervet, a Wye folyónál, Symonds Yatnál forgatott 4 perces kampányvideót és teljes műszaki adatlapot készített, kiemelve a 6 hüvelykes vastagságot, a 32 PSI drop-stitch magot és a szénszálas evező opciót. A kampány 2023. május 1-jén indult 150 000 fontos céllal.',
             },
             {
               title: '3. lépés – Kampány közepi kríziskezelés és stretch goal kivitelezése',
               detail:
-                'Amikor a kampány az első 72 órában elérte a 85 000 fontot, de a 14. napra 110 000 fontnál megakadt, az Afarer marketingstratégái célzott Facebook- és Instagram-hirdetési kampányt indítottak az együttesen 500 000+ tagú brit paddleboardos Facebook-csoportokban. 8 A/B tesztelt hirdetési variánst készítettek James YouTube-ajánlásaival. A 30. napig további 212 támogató emelte az összeget 162 000 fontra. Az Afarer koordinált egy stretch goalt — ingyenes, 45 font értékű száraz zsák hozzáadásával minden 449 font feletti támogatáshoz —, amely a záró 48 órában 88 támogató utolsó hullámát váltotta ki, és a kampány 198 740 fonttal zárult 487 támogatótól.',
+                'Amikor a kampány az első 72 órában elérte a 85 000 fontot, de a 14. napra 110 000 fontnál megakadt, az OLagoon marketingstratégái célzott Facebook- és Instagram-hirdetési kampányt indítottak az együttesen 500 000+ tagú brit paddleboardos Facebook-csoportokban. 8 A/B tesztelt hirdetési variánst készítettek James YouTube-ajánlásaival. A 30. napig további 212 támogató emelte az összeget 162 000 fontra. Az OLagoon koordinált egy stretch goalt — ingyenes, 45 font értékű száraz zsák hozzáadásával minden 449 font feletti támogatáshoz —, amely a záró 48 órában 88 támogató utolsó hullámát váltotta ki, és a kampány 198 740 fonttal zárult 487 támogatótól.',
             },
             {
               title: '4. lépés – Gyártás, minőségbiztosítás és kampány utáni teljesítés',
               detail:
-                'A gyártás 2023 augusztusában kezdődött a qingdaói üzemben, és az Afarer 6 hétre teljes munkaidős minőség-ellenőrt állomásoztatott a helyszínen. Minden deszka 24 órás felfújási teszten esett át 18 PSI-on, és a varrat hámozószilárdság-tesztje meghaladta a 150 N/cm-t. Az első 200 darab tengeri szállítással indult szeptember 15-én, és az Afarer előre elkészített dokumentumaival 4 napon belül átesett a brit vámvizsgálaton. Mind a 487 támogató megkapta a deszkáját 2023. október 25-ig — 9 nappal a megadott szállítási dátum előtt. James 4,7/5 átlagos értékelési pontszámot jelentett az első 150 vásárlói visszajelzési űrlap alapján.',
+                'A gyártás 2023 augusztusában kezdődött a qingdaói üzemben, és az OLagoon 6 hétre teljes munkaidős minőség-ellenőrt állomásoztatott a helyszínen. Minden deszka 24 órás felfújási teszten esett át 18 PSI-on, és a varrat hámozószilárdság-tesztje meghaladta a 150 N/cm-t. Az első 200 darab tengeri szállítással indult szeptember 15-én, és az OLagoon előre elkészített dokumentumaival 4 napon belül átesett a brit vámvizsgálaton. Mind a 487 támogató megkapta a deszkáját 2023. október 25-ig — 9 nappal a megadott szállítási dátum előtt. James 4,7/5 átlagos értékelési pontszámot jelentett az első 150 vásárlói visszajelzési űrlap alapján.',
             },
           ],
           results: [
@@ -231,22 +231,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Trópusi környezeti audit és anyagspecifikáció',
               detail:
-                'Az Afarer termékmérnökei 2 hetet töltöttek Cairnsban 2023 májusában, Mara meglévő flottájának tesztelésével. 8 konkrét hibapontot dokumentáltak: UV-degradálódott PVC (22 deszkán látható), korrodált rozsdamentes acél D-gyűrűk (6 hónapon belül jelentkeztek) és varrathiba az orr fogantyúnál (3 deszka). Az Afarer laborcsapata újraformázta a PVC felső réteget UV-stabilizátor adalékkal (UV-531, 0,6%-os koncentrációban), és minden hardverhez 304-es tengeri minőségű rozsdamentes acélt írt elő. Megerősített orr fogantyút terveztek 3 rétegű hordszíj-szendviccsel, 400 kg-os szakítószilárdságra minősítve.',
+                'Az OLagoon termékmérnökei 2 hetet töltöttek Cairnsban 2023 májusában, Mara meglévő flottájának tesztelésével. 8 konkrét hibapontot dokumentáltak: UV-degradálódott PVC (22 deszkán látható), korrodált rozsdamentes acél D-gyűrűk (6 hónapon belül jelentkeztek) és varrathiba az orr fogantyúnál (3 deszka). Az OLagoon laborcsapata újraformázta a PVC felső réteget UV-stabilizátor adalékkal (UV-531, 0,6%-os koncentrációban), és minden hardverhez 304-es tengeri minőségű rozsdamentes acélt írt elő. Megerősített orr fogantyút terveztek 3 rétegű hordszíj-szendviccsel, 400 kg-os szakítószilárdságra minősítve.',
             },
             {
               title: '2. lépés – Prototípusgyártás és tereptesztelés három túraútvonalon',
               detail:
-                'Az Afarer 2023 júliusában 10 prototípus deszkát gyártott guangzhou-i gyárában, mindegyiket egyedi színösszeállítással (korallkék, mangrovezöld, zátonynarancs) a flotta könnyű azonosításához. Mara 60 napos terepkipróbálást futtatott három fő túraútvonalán: Fitzroy-sziget (sós víz, 6 óra közvetlen napsütés), Mulgrave folyó reggeli túrák (édesvíz, árnyékban) és naplementés túrák a Trinity Inletnél (vegyes viszonyok). Minden deszka 300+ használati órát gyűjtött. Két prototípus 250 óra után szelekszivárgást mutatott, és visszaküldték az Afarernek szeleptörzs-újratervezésre — a sárgarézről nylon-megerősített kompozit szelepre váltottak.',
+                'Az OLagoon 2023 júliusában 10 prototípus deszkát gyártott guangzhou-i gyárában, mindegyiket egyedi színösszeállítással (korallkék, mangrovezöld, zátonynarancs) a flotta könnyű azonosításához. Mara 60 napos terepkipróbálást futtatott három fő túraútvonalán: Fitzroy-sziget (sós víz, 6 óra közvetlen napsütés), Mulgrave folyó reggeli túrák (édesvíz, árnyékban) és naplementés túrák a Trinity Inletnél (vegyes viszonyok). Minden deszka 300+ használati órát gyűjtött. Két prototípus 250 óra után szelekszivárgást mutatott, és visszaküldték az OLagoonnek szeleptörzs-újratervezésre — a sárgarézről nylon-megerősített kompozit szelepre váltottak.',
             },
             {
               title: '3. lépés – Termelésfelskálázás, egyedi márkázás és csomagolástervezés',
               detail:
-                'A tereptesztek sikere után Mara 2023 szeptemberében 200 Reef Runner deszkára adott le megrendelést. Az Afarer tervezőcsapata egyedi hőátviteli grafikákat készített a Reef & River logóval a fedélzeti párnán és soros flottakezelési számmal a railen. Minden deszkához egyedi szövésű, 1000 denier nylon hordozótáska járt megerősített varrással (80 kg-os terhelésre tesztelve). Az Afarer tengeri szállítást szervezett a Townsville-i kikötőn át, 28 napos átfutási idővel, az ausztrál biobiztonsági megfelelőséghez szükséges fertőtlenítési tanúsítvánnyal. A szállítmány 2023. november 5-én átesett a vámvizsgálaton.',
+                'A tereptesztek sikere után Mara 2023 szeptemberében 200 Reef Runner deszkára adott le megrendelést. Az OLagoon tervezőcsapata egyedi hőátviteli grafikákat készített a Reef & River logóval a fedélzeti párnán és soros flottakezelési számmal a railen. Minden deszkához egyedi szövésű, 1000 denier nylon hordozótáska járt megerősített varrással (80 kg-os terhelésre tesztelve). Az OLagoon tengeri szállítást szervezett a Townsville-i kikötőn át, 28 napos átfutási idővel, az ausztrál biobiztonsági megfelelőséghez szükséges fertőtlenítési tanúsítvánnyal. A szállítmány 2023. november 5-én átesett a vámvizsgálaton.',
             },
             {
               title: '4. lépés – Munkatársképzési program és karbantartási protokoll dokumentációja',
               detail:
-                'Az Afarer vásárlósiker-csapata 2023 novemberében Cairnsba repült, hogy 2 napos képzési műhelyt tartson Mara 12 túravezetője és 3 karbantartója számára. A képzés a következőket fedte le: napi ellenőrzőlisták, helyes felfújási/leengedési eljárások, sós vizes öblítési protokollok és 6 PVC folttal, 2 cserveszeleppel felszerelt javítókészlet. Az Afarer laminált gyorsreferencia-útmutatót adott át angolul és mandarinul. Mara digitális flottanaplót vezetett be Google Táblázatokkal, a deszkánkénti használati órák nyomon követésére. Az első negyedéves utánpótlási rendelés 65 deszkára 2024 februárjában történt.',
+                'Az OLagoon vásárlósiker-csapata 2023 novemberében Cairnsba repült, hogy 2 napos képzési műhelyt tartson Mara 12 túravezetője és 3 karbantartója számára. A képzés a következőket fedte le: napi ellenőrzőlisták, helyes felfújási/leengedési eljárások, sós vizes öblítési protokollok és 6 PVC folttal, 2 cserveszeleppel felszerelt javítókészlet. Az OLagoon laminált gyorsreferencia-útmutatót adott át angolul és mandarinul. Mara digitális flottanaplót vezetett be Google Táblázatokkal, a deszkánkénti használati órák nyomon követésére. Az első negyedéves utánpótlási rendelés 65 deszkára 2024 februárjában történt.',
             },
           ],
           results: [
@@ -258,8 +258,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért az Afarer',
+    whyOLagoon: {
+      title: 'Miért az OLagoon',
       items: [
         {
           title: 'Termékszakértelem',
@@ -287,12 +287,12 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Mekkora a minimális rendelési mennyiség egyedi SUP deszkákhoz?',
         answer:
-          'Az Afarer rugalmas MOQ-t kínál 100-500 darabtól kezdődően piaci teszteléshez, lehetővé téve a startupok számára termékeik validálását és vásárlói visszajelzések gyűjtését a termelés felskálázása előtt.',
+          'Az OLagoon rugalmas MOQ-t kínál 100-500 darabtól kezdődően piaci teszteléshez, lehetővé téve a startupok számára termékeik validálását és vásárlói visszajelzések gyűjtését a termelés felskálázása előtt.',
       },
       {
         question: 'Létrehozhatom a saját SUP márkámat gyár tulajdonlása nélkül?',
         answer:
-          'Igen. Az Afarer teljes körű private label gyártási szolgáltatásokat nyújt, lehetővé téve saját SUP márkája felépítését egyedi márkázással, deszkatervezéssel, csomagolással és kiegészítőkkel, bármilyen gyári befektetés nélkül.',
+          'Igen. Az OLagoon teljes körű private label gyártási szolgáltatásokat nyújt, lehetővé téve saját SUP márkája felépítését egyedi márkázással, deszkatervezéssel, csomagolással és kiegészítőkkel, bármilyen gyári befektetés nélkül.',
       },
       {
         question: 'Mennyi ideig tart egy egyedi SUP termék kifejlesztése?',
@@ -302,17 +302,17 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Segítenek a terméktervezésben és a piaci stratégiában?',
         answer:
-          'Igen. Az Afarer márka- és termékstratégiai konzultációt nyújt, hogy segítse a célpiac, a termékpozicionálás, az árstratégia és a megkülönböztetés meghatározásában a gyártás megkezdése előtt.',
+          'Igen. Az OLagoon márka- és termékstratégiai konzultációt nyújt, hogy segítse a célpiac, a termékpozicionálás, az árstratégia és a megkülönböztetés meghatározásában a gyártás megkezdése előtt.',
       },
       {
         question: 'Milyen minőség-ellenőrzési intézkedésekkel rendelkeznek?',
         answer:
-          'Az Afarer átfogó minőség-ellenőrzési rendszerrel rendelkezik, amely anyagvizsgálatot, a gyártás közbeni figyelést, légnyomás-tesztelést és végtermék-vizsgálatot foglal magában a szállítás előtt.',
+          'Az OLagoon átfogó minőség-ellenőrzési rendszerrel rendelkezik, amely anyagvizsgálatot, a gyártás közbeni figyelést, légnyomás-tesztelést és végtermék-vizsgálatot foglal magában a szállítás előtt.',
       },
       {
         question: 'Szállítanak az országomba?',
         answer:
-          'Igen. Az Afarer szállít az Egyesült Államokba, Kanadába, Ausztráliába, az Egyesült Királyságba, Németországba, Franciaországba, Hollandiába és más globális piacokra, megbízható logisztikai támogatással.',
+          'Igen. Az OLagoon szállít az Egyesült Államokba, Kanadába, Ausztráliába, az Egyesült Királyságba, Németországba, Franciaországba, Hollandiába és más globális piacokra, megbízható logisztikai támogatással.',
       },
     ],
     cta: {
@@ -329,15 +329,15 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Terjessze ki kültéri márkáját a vízi sportokra | SUP OEM gyártó | {SITE}',
       description:
-        'Az Afarer segít a bevált kültéri márkáknak a vízi sportokra való terjeszkedésben egyedi SUP gyártással, Drop Stitch technológiával, PVC szakértelemmel, private label paddle boardokkal és teljes körű termékfejlesztési megoldásokkal.',
+        'Az OLagoon segít a bevált kültéri márkáknak a vízi sportokra való terjeszkedésben egyedi SUP gyártással, Drop Stitch technológiával, PVC szakértelemmel, private label paddle boardokkal és teljes körű termékfejlesztési megoldásokkal.',
     },
     hero: {
       tagline: 'Terjessze ki kültéri márkáját a vízi sportokra™',
       title: 'Vízi sport termékterjeszkedés bevált kültéri márkáknak',
       subtitle:
-        'Az Afarer segít a bevált kültéri márkáknak a vízi sportokra való terjeszkedésben egyedi SUP gyártással, Drop Stitch technológiával, PVC szakértelemmel, private label paddle boardokkal és teljes körű termékfejlesztési megoldásokkal.',
+        'Az OLagoon segít a bevált kültéri márkáknak a vízi sportokra való terjeszkedésben egyedi SUP gyártással, Drop Stitch technológiával, PVC szakértelemmel, private label paddle boardokkal és teljes körű termékfejlesztési megoldásokkal.',
       image: {
-        alt: 'Afarer egyedi SUP deszkák bemutatása',
+        alt: 'OLagoon egyedi SUP deszkák bemutatása',
       },
     },
     challenge: {
@@ -440,7 +440,7 @@ const hu: Record<string, SolutionOverride> = {
       customer:
         'Európai kültéri életmód márka, amely eredetileg kempingfelszerelésre, kültéri kiegészítőkre és kaland-életmód termékekre összpontosított erős kiskereskedelmi hálózattal és hűséges vásárlói bázissal.',
       steps: [
-        "Az Afarer elemezte a márka pozicionálását, és prémium kültéri SUP kollekció stratégiát javasolt all-round SUP-ból, touring SUP-ból és kiegészítőkből a 'Szárazföldről a vízre' kültéri kaland témával.",
+        "Az OLagoon elemezte a márka pozicionálását, és prémium kültéri SUP kollekció stratégiát javasolt all-round SUP-ból, touring SUP-ból és kiegészítőkből a 'Szárazföldről a vízre' kültéri kaland témával.",
         "Kifejlesztett egy 10'6 All-Round SUP-ot magas stabilitással, prémium konstrukcióval és kültéri életmód dizájnnal, valamint egy 12'6 Touring SUP-ot kalandteljesítménnyel és hosszú távú képességekkel.",
         'Egyedi grafikákat, márkaszíneket, csomagolást és kiegészítőrendszert hozott létre, amely tökéletesen illeszkedett a meglévő kültéri márkaidentitáshoz.',
         '1000 darabos kezdeti megrendeléssel indított, a meglévő viszonteladókon, e-commerce csatornákon és kültéri kiskereskedőkön keresztül elosztva.',
@@ -465,22 +465,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Piaci elemzés és termékarchitektúra-tervezés',
               detail:
-                "2023 márciusában az Afarer piaci kutatócsapata elemezte a SUP értékesítési adatok 18 hónapját 120 amerikai és kanadai kiskereskedőtől. Azonosították a leggyorsabban növekvő alszegmenst: a 10'6\" és 11'6\" közötti all-around SUP-okat 749-999 kanadai dolláros áron, amelyek 34%-kal nőttek évente. Az Afarer 4 SKU-ból álló kínálatot javasolt: a 'Discovery' 10'6\" all-around deszka (célár 799 kanadai dollár), az 'Expedition' 11'6\" touring deszka (949 kanadai dollár), a 'Crossover' 10'2\" jóga- és fitnesz SUP (699 kanadai dollár) és az 'Angler' horgász SUP eltávolítható ládatartó rendszerrel (1049 kanadai dollár). Henrik áprilisban elfogadta a javaslatot, 2024. februári indítási céldátummal a tavaszi kiskereskedelmi beszerzési szezonra.",
+                "2023 márciusában az OLagoon piaci kutatócsapata elemezte a SUP értékesítési adatok 18 hónapját 120 amerikai és kanadai kiskereskedőtől. Azonosították a leggyorsabban növekvő alszegmenst: a 10'6\" és 11'6\" közötti all-around SUP-okat 749-999 kanadai dolláros áron, amelyek 34%-kal nőttek évente. Az OLagoon 4 SKU-ból álló kínálatot javasolt: a 'Discovery' 10'6\" all-around deszka (célár 799 kanadai dollár), az 'Expedition' 11'6\" touring deszka (949 kanadai dollár), a 'Crossover' 10'2\" jóga- és fitnesz SUP (699 kanadai dollár) és az 'Angler' horgász SUP eltávolítható ládatartó rendszerrel (1049 kanadai dollár). Henrik áprilisban elfogadta a javaslatot, 2024. februári indítási céldátummal a tavaszi kiskereskedelmi beszerzési szezonra.",
             },
             {
               title: '2. lépés – Kómárkás tervezésintegráció és kiskereskedelmi megfelelőség',
               detail:
-                'Az Afarer ipari tervezői 8 héten keresztül együttműködtek a North Ridge vancouveri kreatív csapatával egy olyan vizuális identitás kidolgozásában, amely hidat képez a márka hegyi esztétikája és a vízi sportok között. A végleges dizájn a North Ridge jellegzetes faszenes-eparancs színösszeállítását használta topografikus vonalmintákkal a fedélzeti párnán. Az Afarer biztosította, hogy minden deszka megfeleljen az REI beszállítói követelményeinek: FSC-tanúsított kartoncsomagolás, újrahasznosított PET hordozótáskák és a kaliforniai 65-ös javaslatnak való megfelelés ftalátokra és nehézfémekre. A 14 oldalas termékinformáció-kezelési (PIM) specifikációs lapot 2023. október 1-jén nyújtották be az REI beszállítói portáljára.',
+                'Az OLagoon ipari tervezői 8 héten keresztül együttműködtek a North Ridge vancouveri kreatív csapatával egy olyan vizuális identitás kidolgozásában, amely hidat képez a márka hegyi esztétikája és a vízi sportok között. A végleges dizájn a North Ridge jellegzetes faszenes-eparancs színösszeállítását használta topografikus vonalmintákkal a fedélzeti párnán. Az OLagoon biztosította, hogy minden deszka megfeleljen az REI beszállítói követelményeinek: FSC-tanúsított kartoncsomagolás, újrahasznosított PET hordozótáskák és a kaliforniai 65-ös javaslatnak való megfelelés ftalátokra és nehézfémekre. A 14 oldalas termékinformáció-kezelési (PIM) specifikációs lapot 2023. október 1-jén nyújtották be az REI beszállítói portáljára.',
             },
             {
               title: '3. lépés – Fotózás, szövegírás és indítás előtti kiskereskedelmi vásárlói bemutatók',
               detail:
-                'Az Afarer 230 eszközt készített a kollekcióhoz: stúdió termékfotók fehér alapon, életmódfotók a Garibaldi-tónál (1500 m tengerszint feletti magasságban Brit Columbiában) és 360 fokos forgó fotózás. Angol és kanadai francia honosított termékszöveget írtak a québeci kiskereskedőknek. Az Afarer értékesítés-támogatási csapata 22 oldalas kiskereskedelmi értékesítési prezentációt készített versenytárs-elemzéssel olyan márkákkal szemben, mint a BOTE és az Isle, árrésprojekciókkal, amelyek 48%-os bruttó árrést mutattak a kiskereskedőknek, és tesztpiaci értékesítési adatokkal. Henrik és az Afarer értékesítési vezetője 2023. november 15-én bemutatta a kollekciót az REI országos vásárlójának, 34 REI üzlet elköteleződését biztosítva.',
+                'Az OLagoon 230 eszközt készített a kollekcióhoz: stúdió termékfotók fehér alapon, életmódfotók a Garibaldi-tónál (1500 m tengerszint feletti magasságban Brit Columbiában) és 360 fokos forgó fotózás. Angol és kanadai francia honosított termékszöveget írtak a québeci kiskereskedőknek. Az OLagoon értékesítés-támogatási csapata 22 oldalas kiskereskedelmi értékesítési prezentációt készített versenytárs-elemzéssel olyan márkákkal szemben, mint a BOTE és az Isle, árrésprojekciókkal, amelyek 48%-os bruttó árrést mutattak a kiskereskedőknek, és tesztpiaci értékesítési adatokkal. Henrik és az OLagoon értékesítési vezetője 2023. november 15-én bemutatta a kollekciót az REI országos vásárlójának, 34 REI üzlet elköteleződését biztosítva.',
             },
             {
               title: '4. lépés – Első gyártási sor, raktározás és értékesítési teljesítmény',
               detail:
-                'A 4 SKU-ból álló, 2800 darabos gyártás 2023 decemberében kezdődött az Afarer dongguani üzemében. Az Afarer tengeri szállítást szervezett Vancouverbe, 2024. január 22-i érkezéssel. Az első 800 darabot átrakodták a North Ridge mississaugai teljesítési központjába a kelet-kanadai disztribúcióhoz. 2024. március 1-jére a kollekció 34 REI polcon, 18 MEC helyszínen és a NorthRidgeGear.com oldalon volt elérhető. A Discovery deszkából márciusban 340 darab kelt el — az előrejelzés 136%-a. 2024 júniusára a kollekció teljes bevétele elérte a 678 000 kanadai dollárt, az Angler horgász SUP pedig augusztusig előrendelésen volt.',
+                'A 4 SKU-ból álló, 2800 darabos gyártás 2023 decemberében kezdődött az OLagoon dongguani üzemében. Az OLagoon tengeri szállítást szervezett Vancouverbe, 2024. január 22-i érkezéssel. Az első 800 darabot átrakodták a North Ridge mississaugai teljesítési központjába a kelet-kanadai disztribúcióhoz. 2024. március 1-jére a kollekció 34 REI polcon, 18 MEC helyszínen és a NorthRidgeGear.com oldalon volt elérhető. A Discovery deszkából márciusban 340 darab kelt el — az előrejelzés 136%-a. 2024 júniusára a kollekció teljes bevétele elérte a 678 000 kanadai dollárt, az Angler horgász SUP pedig augusztusig előrendelésen volt.',
             },
           ],
           results: [
@@ -502,22 +502,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Anyaginnováció az európai szabványoknak való megfeleléshez',
               detail:
-                "Az Afarer guangzhou-i K+F csapata 10 hetet töltött egy saját fejlesztésű, 5 rétegű PVC laminátum kifejlesztésével, amely meghaladta az EU REACH kémiai biztonsági szabványait és a német GS biztonsági tanúsítási követelményeit. Német beszállítótól (Karl Mayer Technische Textilien) származó textilminőségű drop-stitch fonalat vásároltak az AlpenWerk 'Német technológiával készült' marketing szögpontjának kielégítésére. Négy prototípus deszkát gyártottak 2023 júliusában, és a TÜV Rheinlandhoz küldtek tesztelésre. Kettő megbukott a kezdeti GS tanúsításban a farokpárnánál tapasztalható elégtelen kopásállóság miatt, ami 12%-os PVC felületi rétegvastagság-növelést igényelt 0,8 mm-ről 0,9 mm-re.",
+                "Az OLagoon guangzhou-i K+F csapata 10 hetet töltött egy saját fejlesztésű, 5 rétegű PVC laminátum kifejlesztésével, amely meghaladta az EU REACH kémiai biztonsági szabványait és a német GS biztonsági tanúsítási követelményeit. Német beszállítótól (Karl Mayer Technische Textilien) származó textilminőségű drop-stitch fonalat vásároltak az AlpenWerk 'Német technológiával készült' marketing szögpontjának kielégítésére. Négy prototípus deszkát gyártottak 2023 júliusában, és a TÜV Rheinlandhoz küldtek tesztelésre. Kettő megbukott a kezdeti GS tanúsításban a farokpárnánál tapasztalható elégtelen kopásállóság miatt, ami 12%-os PVC felületi rétegvastagság-növelést igényelt 0,8 mm-ről 0,9 mm-re.",
             },
             {
               title: '2. lépés – Kiskereskedelmi vásárlói tárgyalások és polcra kész csomagolás',
               detail:
-                'Lena és az Afarer európai értékesítési igazgatója 2023 novemberében bemutatta a kollekciót az ISPO müncheni szakvásáron. Előrendeléseket biztosítottak 38 Intersport üzlettől, 12 Globetrotter boltból és a Bergfreunde.de-től. Az Afarer polcra kész kiskereskedelmi csomagolást tervezett, amely megfelelt a német csomagolási törvénynek (VerpackG): 100%-ban újrahasznosítható kartondoboz szójabázisú festéknyomtatással, műanyag hőzsugorfólia nélkül, és egy QR-kóddal, amely egy 3 perces, német nyelvű összeszerelési videóra mutat. A csomagolás darabonként 4,20 euróba került, de megszüntette az üzleten belüli sérüléseket, amelyek a műanyag tasakokat használó versenytárs márkáknál 2,3%-on álltak.',
+                'Lena és az OLagoon európai értékesítési igazgatója 2023 novemberében bemutatta a kollekciót az ISPO müncheni szakvásáron. Előrendeléseket biztosítottak 38 Intersport üzlettől, 12 Globetrotter boltból és a Bergfreunde.de-től. Az OLagoon polcra kész kiskereskedelmi csomagolást tervezett, amely megfelelt a német csomagolási törvénynek (VerpackG): 100%-ban újrahasznosítható kartondoboz szójabázisú festéknyomtatással, műanyag hőzsugorfólia nélkül, és egy QR-kóddal, amely egy 3 perces, német nyelvű összeszerelési videóra mutat. A csomagolás darabonként 4,20 euróba került, de megszüntette az üzleten belüli sérüléseket, amelyek a műanyag tasakokat használó versenytárs márkáknál 2,3%-on álltak.',
             },
             {
               title: '3. lépés – Európai raktározás és utolsó mérföld disztribúció beállítása',
               detail:
-                'Az Afarer segített az AlpenWerknek disztribúciós központot létrehozni egy dortmundi 3PL raktárban, 3000 darabos kapacitással. DDP szállítási feltételeket tárgyaltak egy ningboi freight forwarderrel, beleértve a hamburgi kikötőben történő vámkezelést és a dortmundi szállítást a hajó érkezésétől számított 5 munkanapon belül. A raktárkészlet Kanban-rendszerrel volt konfigurálva: amikor a készlet 400 darab alá csökkent, automatikus utántöltési rendelést váltottak ki az Afarer gyárába 45 napos átfutási idővel. Az első, 1500 darabos konténer 2024. február 15-én érkezett, a második, 1200 darabos konténer április 10-én.',
+                'Az OLagoon segített az AlpenWerknek disztribúciós központot létrehozni egy dortmundi 3PL raktárban, 3000 darabos kapacitással. DDP szállítási feltételeket tárgyaltak egy ningboi freight forwarderrel, beleértve a hamburgi kikötőben történő vámkezelést és a dortmundi szállítást a hajó érkezésétől számított 5 munkanapon belül. A raktárkészlet Kanban-rendszerrel volt konfigurálva: amikor a készlet 400 darab alá csökkent, automatikus utántöltési rendelést váltottak ki az OLagoon gyárába 45 napos átfutási idővel. Az első, 1500 darabos konténer 2024. február 15-én érkezett, a második, 1200 darabos konténer április 10-én.',
             },
             {
               title: '4. lépés – Indítási kampány, influencer partnerségek és utántöltési sebesség',
               detail:
-                "Az AlpenWerk 2024. március 1-jén indította a 'SeeWolf' 10'8\", a 'Flussläufer' 11'6\" és a 'Gipfelstürmer' 12'0\" touring modelleket minden kiskereskedelmi csatornán és az alpenwerk.de oldalon. Az Afarer tartalomcsapata 18 közösségimédia-eszközt készített német SUP influencerekkel, mint a 'SUP_mit_Michi' (43 000 követő) és a 'PaddelPia' (28 000 követő). 2024. május 31-ére 1870 darab kelt el — a kezdeti beszállítás 87%-a. Az Intersport 450 darabos utántöltési rendelést adott le június 15-én. Lena közvetlen vásárlói webcsatornája 320 000 eurós bevételt termelt 54%-os bruttó árréssel, felülírva a kezdetben becsült 40%-os árrést.",
+                "Az AlpenWerk 2024. március 1-jén indította a 'SeeWolf' 10'8\", a 'Flussläufer' 11'6\" és a 'Gipfelstürmer' 12'0\" touring modelleket minden kiskereskedelmi csatornán és az alpenwerk.de oldalon. Az OLagoon tartalomcsapata 18 közösségimédia-eszközt készített német SUP influencerekkel, mint a 'SUP_mit_Michi' (43 000 követő) és a 'PaddelPia' (28 000 követő). 2024. május 31-ére 1870 darab kelt el — a kezdeti beszállítás 87%-a. Az Intersport 450 darabos utántöltési rendelést adott le június 15-én. Lena közvetlen vásárlói webcsatornája 320 000 eurós bevételt termelt 54%-os bruttó árréssel, felülírva a kezdetben becsült 40%-os árrést.",
             },
           ],
           results: [
@@ -529,8 +529,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért az Afarer',
+    whyOLagoon: {
+      title: 'Miért az OLagoon',
       items: [
         {
           title: 'Technikai szakértelem',
@@ -563,7 +563,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Hogyan terjeszkedhet a kültéri márkám vízi sportokra SUP szakértelem nélkül?',
         answer:
-          'Az Afarer teljes körű gyártási szakértelemmel rendelkezik, beleértve a Drop Stitch technológiát, a PVC mérnöki munkát és a terméktervezést. Az Ön márkája hozza a vásárlói ismereteket, miközben mi kezeljük a technikai termelést.',
+          'Az OLagoon teljes körű gyártási szakértelemmel rendelkezik, beleértve a Drop Stitch technológiát, a PVC mérnöki munkát és a terméktervezést. Az Ön márkája hozza a vásárlói ismereteket, miközben mi kezeljük a technikai termelést.',
       },
       {
         question: 'Milyen típusú vízi sporttermékeket tudnak gyártani?',
@@ -573,7 +573,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Illeszkednek a meglévő márka minőségi szabványaimhoz?',
         answer:
-          'Igen. Az Afarer az Ön tervezési nyelvének, minőségi szabványainak és piaci pozicionálásának megfelelően fejleszt termékeket, szigorú minőség-ellenőrzéssel a teljes gyártás során.',
+          'Igen. Az OLagoon az Ön tervezési nyelvének, minőségi szabványainak és piaci pozicionálásának megfelelően fejleszt termékeket, szigorú minőség-ellenőrzéssel a teljes gyártás során.',
       },
       {
         question: 'Mekkora a tipikus rendelési mennyiség bevált márkáknak?',
@@ -605,15 +605,15 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Felfújható SUP megoldások szörfboltoknak | Private label gyártó | {SITE}',
       description:
-        'Az Afarer segít a szörfboltoknak és vízi életmód márkáknak a terjeszkedésben private label felfújható SUP-pal és egyedi vízi sport termékekkel. Csökkentse a szállítási, tárolási és készletköltségeket fejlett felfújható technológiával.',
+        'Az OLagoon segít a szörfboltoknak és vízi életmód márkáknak a terjeszkedésben private label felfújható SUP-pal és egyedi vízi sport termékekkel. Csökkentse a szállítási, tárolási és készletköltségeket fejlett felfújható technológiával.',
     },
     hero: {
       tagline: 'Hozza a felfújható technológiát a szörfüzletbe™',
       title: 'Felfújható SUP megoldások szörfboltoknak és part menti vállalkozásoknak',
       subtitle:
-        'Az Afarer segít a szörfboltoknak és vízi életmód márkáknak a terjeszkedésben private label felfújható SUP-pal és egyedi vízi sport termékekkel. Csökkentse a szállítási, tárolási és készletköltségeket fejlett felfújható technológiával.',
+        'Az OLagoon segít a szörfboltoknak és vízi életmód márkáknak a terjeszkedésben private label felfújható SUP-pal és egyedi vízi sport termékekkel. Csökkentse a szállítási, tárolási és készletköltségeket fejlett felfújható technológiával.',
       image: {
-        alt: 'Afarer egyedi SUP deszkák bemutatása',
+        alt: 'OLagoon egyedi SUP deszkák bemutatása',
       },
     },
     challenge: {
@@ -727,7 +727,7 @@ const hu: Record<string, SolutionOverride> = {
       customer:
         'Európai part menti szörfbolt márka, amely Európa atlanti-óceáni partján található. Eredetileg szörfdeszkákra, szörfkiegészítőkre és strandéletmód termékekre összpontosított erős helyi vásárlói közösséggel.',
       steps: [
-        "Az Afarer felfújható SUP kollekciót javasolt 10'6 All-round SUP-ból, 12'6 Touring SUP-ból és családi csomagokból, a bolt strandparti elhelyezkedéséhez és vásárlói bázisához igazítva.",
+        "Az OLagoon felfújható SUP kollekciót javasolt 10'6 All-round SUP-ból, 12'6 Touring SUP-ból és családi csomagokból, a bolt strandparti elhelyezkedéséhez és vásárlói bázisához igazítva.",
         'Egyedi deszkagrafikákat, márkaszíneket és kiskereskedelmi csomagolást hozott létre, amely illeszkedett a szörfbolt meglévő márkaidentitásához és strandéletmód pozicionálásához.',
         'Átalakította az üzleti modellt a hagyományos szörfkiskereskedelemből teljes vízi életmód üzletté SUP-értékesítés, bérlési csomagok és kezdő leckék hozzáadásával.',
         'A felfújható termékvonalat a meglévő kemény deszka kínálat kiegészítésére indította, a tárolási nyomás növelése nélkül.',
@@ -752,17 +752,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Teljesítmény-összehasonlítás és anyagválasztás',
               detail:
-                'Az Afarer termékmérnökei 2023 februárjában felkeresték a Gold Coastot, és vakteszteket végeztek Brendan 12 oktatójával. Minden oktató 6 prototípus felfújható deszkát tesztelt a standard 9\'0" epoxi puha fedelű deszkájukkal szemben 4 mutatóban: stabilitás állva (1-10 pontozás), evezősiklás (másodperc 50 m megtételéhez), rail-to-rail fordulási reakciókészség és diák önbizalom pontszám. A nyertes prototípus — M9-IS jelöléssel — 3 rétegű drop-stitch magot használt teljes hosszúságú, 0,5 mm-es EVA fedélzeti párnával és megerősített bambusz hossztartóval. Az oktatók átfogóan 8,7/10-re értékelték az epoxi deszkák 7,4/10-es pontszámával szemben. Brendan 2023 márciusában 60 darabot rendelt.',
+                'Az OLagoon termékmérnökei 2023 februárjában felkeresték a Gold Coastot, és vakteszteket végeztek Brendan 12 oktatójával. Minden oktató 6 prototípus felfújható deszkát tesztelt a standard 9\'0" epoxi puha fedelű deszkájukkal szemben 4 mutatóban: stabilitás állva (1-10 pontozás), evezősiklás (másodperc 50 m megtételéhez), rail-to-rail fordulási reakciókészség és diák önbizalom pontszám. A nyertes prototípus — M9-IS jelöléssel — 3 rétegű drop-stitch magot használt teljes hosszúságú, 0,5 mm-es EVA fedélzeti párnával és megerősített bambusz hossztartóval. Az oktatók átfogóan 8,7/10-re értékelték az epoxi deszkák 7,4/10-es pontszámával szemben. Brendan 2023 márciusában 60 darabot rendelt.',
             },
             {
               title: '2. lépés – Kereskedelmi tartóssági tesztelés iskolai körülmények között',
               detail:
-                'Brendan és az Afarer 4 hónapos pilotprogramban egyezett meg a Surfers Paradise helyszínen, 20 prototípus deszkával, amelyek mindegyikét 1200 bérlési ciklusnak vetették alá. Minden deszkát heti átlagban 14-szer használtak kezdő diákok (60-90 kg tartomány). Az Afarer csapata 6 hibamutatót követett: varratsértetlenség, szelekszivárgás, fedélzeti párnatapadás, UV-elszineződés, railkopás és uszonydobox-sértetlenség. A 3. hónapban 3 deszkán fedélzeti párnahámlás jelentkezett az orr érintkezési pontján — az Afarer újraformázta a ragasztót hőaktivált poliuretán fóliával, és kicserélte az érintett deszkákat. 2023 júniusára a pilotprogram nulla szerkezeti hibát és 97,3%-os elérhetőségi arányt mutatott.',
+                'Brendan és az OLagoon 4 hónapos pilotprogramban egyezett meg a Surfers Paradise helyszínen, 20 prototípus deszkával, amelyek mindegyikét 1200 bérlési ciklusnak vetették alá. Minden deszkát heti átlagban 14-szer használtak kezdő diákok (60-90 kg tartomány). Az OLagoon csapata 6 hibamutatót követett: varratsértetlenség, szelekszivárgás, fedélzeti párnatapadás, UV-elszineződés, railkopás és uszonydobox-sértetlenség. A 3. hónapban 3 deszkán fedélzeti párnahámlás jelentkezett az orr érintkezési pontján — az OLagoon újraformázta a ragasztót hőaktivált poliuretán fóliával, és kicserélte az érintett deszkákat. 2023 júniusára a pilotprogram nulla szerkezeti hibát és 97,3%-os elérhetőségi arányt mutatott.',
             },
             {
               title: '3. lépés – Teljes flottabevezetés, képzés és tárolási infrastruktúra',
               detail:
-                'Brendan 2023 júliusában második megrendelést adott le további 50 M9-IS deszkára, ezzel felfújható flottáját 70 darabra bővítve (az összes 58%-a). Az Afarer logisztikai csapata összecsukható, 32 literes hátizsákokban szállította a deszkákat, amelyek 80%-kal csökkentették a tárolási térfogatot a kemény deszkákhoz képest — kritikus előny Brendan burleigh headsi 65 m²-es tárolója mellett. Az Afarer 14 perces képzési videót készített Brendan 22 oktatója számára, amely a helyes felfújási nyomást (15 PSI szörfözéshez, 18 PSI lapos vízhez), a sós vizes öblítési protokollt és az 5 pontos lecke előtti ellenőrzőlistát tartalmazta. A teljes flotta 2023. szeptember 1-jére állt szolgálatba, az ausztrál tavaszi szezon kezdetén.',
+                'Brendan 2023 júliusában második megrendelést adott le további 50 M9-IS deszkára, ezzel felfújható flottáját 70 darabra bővítve (az összes 58%-a). Az OLagoon logisztikai csapata összecsukható, 32 literes hátizsákokban szállította a deszkákat, amelyek 80%-kal csökkentették a tárolási térfogatot a kemény deszkákhoz képest — kritikus előny Brendan burleigh headsi 65 m²-es tárolója mellett. Az OLagoon 14 perces képzési videót készített Brendan 22 oktatója számára, amely a helyes felfújási nyomást (15 PSI szörfözéshez, 18 PSI lapos vízhez), a sós vizes öblítési protokollt és az 5 pontos lecke előtti ellenőrzőlistát tartalmazta. A teljes flotta 2023. szeptember 1-jére állt szolgálatba, az ausztrál tavaszi szezon kezdetén.',
             },
             {
               title: '4. lépés – Működési hatásmérés és költség-haszon elemzés',
@@ -789,17 +789,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Valutabiztosított beszerzés és költségmodellezés',
               detail:
-                'Az Afarer pénzügyi csapata 2022 októbere és decembere között dolgozott Thabóval egy dél-afrikai randban (ZAR) denominált beszerzési megállapodás felépítésén, 6 hónapos fix árfolyam klauzulával 17,80 ZAR/USD-nál, megvédve őt a ZAR volatilitástól, amely 2022 júliusában 19,20/USD-t ért el. Az Afarer azonosított egy shenzheni gyárat, amely kétfétegű Fusion PVC deszkát tudott gyártani 5 éves UV garanciával, 3100 randos leszállított önköltséggel darabonként (beleértve a 22%-os importvámokat, logisztikát és vámügynökséget). Thabo 7200 randos kiskereskedelmi ára 56,9%-os bruttó árrést adott — jelentősen a márkás deszkákra vonatkozó 22%-os átlaga felett.',
+                'Az OLagoon pénzügyi csapata 2022 októbere és decembere között dolgozott Thabóval egy dél-afrikai randban (ZAR) denominált beszerzési megállapodás felépítésén, 6 hónapos fix árfolyam klauzulával 17,80 ZAR/USD-nál, megvédve őt a ZAR volatilitástól, amely 2022 júliusában 19,20/USD-t ért el. Az OLagoon azonosított egy shenzheni gyárat, amely kétfétegű Fusion PVC deszkát tudott gyártani 5 éves UV garanciával, 3100 randos leszállított önköltséggel darabonként (beleértve a 22%-os importvámokat, logisztikát és vámügynökséget). Thabo 7200 randos kiskereskedelmi ára 56,9%-os bruttó árrést adott — jelentősen a márkás deszkákra vonatkozó 22%-os átlaga felett.',
             },
             {
               title: '2. lépés – Fokváros inspirálta tervezés és kulturális márkázás',
               detail:
-                "Az Afarer grafikai tervezői együttműködtek egy helyi fokvárosi illusztrátorral, Mbali Dlaminivel, hogy 3 egyedi fedélzeti dizájnt készítsenek: 'Seal Island' (fokföldi medvefókákkal), 'Chapman's Peak' (hegysiluettel) és 'Boulder's Beach' (afrikai pingvinekkel). Minden dizájn 6 színű hőátviteli nyomtatást használt UV-álló festékekkel, 500+ órás napon tartózkodásra tesztelve. A deszkák egyedi funkciót kaptak a dél-afrikai piacra: megerősített rögzítőrendszert az orron száraz zsákokhoz (népszerű a többnapos evezésekhez a Skeleton Coast mentén Durbanig). Thabo weboldalt indított (kalkbaysurfco.co.za) Shopifyon az Afarer muizenbergi strandon készített termékfotózásával.",
+                "Az OLagoon grafikai tervezői együttműködtek egy helyi fokvárosi illusztrátorral, Mbali Dlaminivel, hogy 3 egyedi fedélzeti dizájnt készítsenek: 'Seal Island' (fokföldi medvefókákkal), 'Chapman's Peak' (hegysiluettel) és 'Boulder's Beach' (afrikai pingvinekkel). Minden dizájn 6 színű hőátviteli nyomtatást használt UV-álló festékekkel, 500+ órás napon tartózkodásra tesztelve. A deszkák egyedi funkciót kaptak a dél-afrikai piacra: megerősített rögzítőrendszert az orron száraz zsákokhoz (népszerű a többnapos evezésekhez a Skeleton Coast mentén Durbanig). Thabo weboldalt indított (kalkbaysurfco.co.za) Shopifyon az OLagoon muizenbergi strandon készített termékfotózásával.",
             },
             {
               title: '3. lépés – Mintagyártás, minőségi tesztelés és tanúsítás',
               detail:
-                'Az Afarer 2023 januárjában SKU-nként 6 mintát gyártott. Thabo és két helyi szörfdeszka-formázó (összesen 50+ év tapasztalattal) destruktív tesztelést végzett: minden deszkát 25 PSI-ra (a névleges nyomás 125%-ára) fújtak fel és 72 órán át tartottak — minden minta 0,5 PSI-nél kisebb veszteséggel átment. Varratszilárdságot digitális húzmérővel teszteltek, minimum 120 N/cm elvárással (a minták átlaga 138 N/cm volt). Thabo 3 deszkát vitt egy 5 napos, vezetett evezésre Arnistonból Struisbaaiba (120 km) 2023 februárjában, szimulálva a nagy igénybevételű túrakörülményeket. Egy deszka uszonydoboxa 80 km után meglazult — az Afarer a nylon uszonydoboxot rozsdamentes acéllal megerősített változatra cserélte.',
+                'Az OLagoon 2023 januárjában SKU-nként 6 mintát gyártott. Thabo és két helyi szörfdeszka-formázó (összesen 50+ év tapasztalattal) destruktív tesztelést végzett: minden deszkát 25 PSI-ra (a névleges nyomás 125%-ára) fújtak fel és 72 órán át tartottak — minden minta 0,5 PSI-nél kisebb veszteséggel átment. Varratszilárdságot digitális húzmérővel teszteltek, minimum 120 N/cm elvárással (a minták átlaga 138 N/cm volt). Thabo 3 deszkát vitt egy 5 napos, vezetett evezésre Arnistonból Struisbaaiba (120 km) 2023 februárjában, szimulálva a nagy igénybevételű túrakörülményeket. Egy deszka uszonydoboxa 80 km után meglazult — az OLagoon a nylon uszonydoboxot rozsdamentes acéllal megerősített változatra cserélte.',
             },
             {
               title: '4. lépés – Kiskereskedelmi indulás, túraüzemeltetői partnerségek és utántöltés',
@@ -816,8 +816,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért az Afarer',
+    whyOLagoon: {
+      title: 'Miért az OLagoon',
       items: [
         {
           title: 'Szörfpiaci ismeret',
@@ -863,7 +863,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Létrehozhatom a saját márkás felfújható SUP vonalamat?',
         answer:
-          'Igen. Az Afarer teljes körű private label megoldásokat nyújt, beleértve az egyedi deszkatervezést, grafikákat, színeket, csomagolást és kiegészítőket az Ön szörfmárkája neve alatt.',
+          'Igen. Az OLagoon teljes körű private label megoldásokat nyújt, beleértve az egyedi deszkatervezést, grafikákat, színeket, csomagolást és kiegészítőket az Ön szörfmárkája neve alatt.',
       },
       {
         question: 'Mennyit spórolhatok a szállításon felfújható deszkákkal?',
@@ -873,7 +873,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Kínálnak bérlési minőségű termékeket szörfiskoláknak?',
         answer:
-          'Igen. Az Afarer tartós termékeket fejleszt gyakori bérlési használatra, egyszerű karbantartással, megbízható kiegészítőkkel és költséghatékony flottaárazással.',
+          'Igen. Az OLagoon tartós termékeket fejleszt gyakori bérlési használatra, egyszerű karbantartással, megbízható kiegészítőkkel és költséghatékony flottaárazással.',
       },
       {
         question: 'Kombinálhatom a kemény deszka és felfújható termékeket a boltomban?',
@@ -895,15 +895,15 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Amazon SUP márka beszállító | Egyedi felfújható SUP gyártó | {SITE}',
       description:
-        'Az Afarer segít az Amazon, Walmart és Shopify eladóknak megkülönböztetett SUP márkákat építeni egyedi felfújható paddle boardokkal, private label gyártással, egyedi grafikákkal, gyors ellátási lánccal és e-commerce terméktámogatással.',
+        'Az OLagoon segít az Amazon, Walmart és Shopify eladóknak megkülönböztetett SUP márkákat építeni egyedi felfújható paddle boardokkal, private label gyártással, egyedi grafikákkal, gyors ellátási lánccal és e-commerce terméktámogatással.',
     },
     hero: {
       tagline: 'Termékmegkülönböztetés és gyors ellátás™',
       title: 'Megkülönböztetett SUP termékek e-commerce piactéri eladóknak',
       subtitle:
-        'Az Afarer segít az Amazon, Walmart és Shopify eladóknak megkülönböztetett SUP márkákat építeni egyedi felfújható paddle boardokkal, private label gyártással, egyedi grafikákkal, gyors ellátási lánccal és e-commerce terméktámogatással.',
+        'Az OLagoon segít az Amazon, Walmart és Shopify eladóknak megkülönböztetett SUP márkákat építeni egyedi felfújható paddle boardokkal, private label gyártással, egyedi grafikákkal, gyors ellátási lánccal és e-commerce terméktámogatással.',
       image: {
-        alt: 'Afarer egyedi SUP deszkák bemutatása',
+        alt: 'OLagoon egyedi SUP deszkák bemutatása',
       },
     },
     challenge: {
@@ -1017,7 +1017,7 @@ const hu: Record<string, SolutionOverride> = {
       customer:
         'Amerikai Amazon kültéri eladó, aki korábban kempingkiegészítőket, kültéri termékeket és fitneszfelszerelést árult Amazon és Shopify csatornákon keresztül.',
       steps: [
-        'Az Afarer segített a célvasználó fiatal kültéri életmód fogyasztóként való meghatározásában, és a terméket prémium megjelenésű, megfizethető SUP-ként pozicionálta egyedi vizuális identitással.',
+        'Az OLagoon segített a célvasználó fiatal kültéri életmód fogyasztóként való meghatározásában, és a terméket prémium megjelenésű, megfizethető SUP-ként pozicionálta egyedi vizuális identitással.',
         "Egyedi 10'6 felfújható SUP-ot hozott létre egyedi deszkagrafikával, prémium színrendszerrel, javított kiegészítőcsomaggal és márkaközpontú csomagolással.",
         'E-commerce tartalomstratégiát készített, beleértve a termékép-struktúrát, funkcióbemutatást és életmód vizuális irányt a piactéri listázásokhoz.',
         '500 darabbal indított az Amazonos induláshoz, hirdetési teszteléshez és vásárlói visszajelzés-gyűjtéshez.',
@@ -1042,22 +1042,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Amazon kategóriaelemzés és SKU-architektúra',
               detail:
-                "2023 januárjában az Afarer e-commerce stratégiai csapata mélyreható elemzést végzett az Amazon UK SUP kategóriáról Helium 10 és Jungle Scout eszközökkel. Azonosították, hogy az első alkalmas vásárlók 78%-a 'teljes csomagokat' keresett (deszka + evező + pumpa + táska + kötélzet + uszony), de csak 4 márka kínált valódi all-in-one készletet prémium kiegészítőkkel. Az Afarer 3 SKU-ból álló kínálatot javasolt: 'AquaStart 10'6\" Complete Kit' (449 fontos célár), 'AquaStart 11'0\" Touring Kit' (549 font) és 'AquaStart Duo' (699 font, 2 deszkás családi csomag). Minden készlet tartalmazott kézi pumpát nyomásmérővel, 3 részes szénszálas evezőt, spirál kötélzetet, 5\" eltávolítható US uszonyt és vízálló telefon tokot — megkülönböztetve azoktól a versenytársaktól, akik a legtöbb kiegészítőt külön árulták.",
+                "2023 januárjában az OLagoon e-commerce stratégiai csapata mélyreható elemzést végzett az Amazon UK SUP kategóriáról Helium 10 és Jungle Scout eszközökkel. Azonosították, hogy az első alkalmas vásárlók 78%-a 'teljes csomagokat' keresett (deszka + evező + pumpa + táska + kötélzet + uszony), de csak 4 márka kínált valódi all-in-one készletet prémium kiegészítőkkel. Az OLagoon 3 SKU-ból álló kínálatot javasolt: 'AquaStart 10'6\" Complete Kit' (449 fontos célár), 'AquaStart 11'0\" Touring Kit' (549 font) és 'AquaStart Duo' (699 font, 2 deszkás családi csomag). Minden készlet tartalmazott kézi pumpát nyomásmérővel, 3 részes szénszálas evezőt, spirál kötélzetet, 5\" eltávolítható US uszonyt és vízálló telefon tokot — megkülönböztetve azoktól a versenytársaktól, akik a legtöbb kiegészítőt külön árulták.",
             },
             {
               title: '2. lépés – Csomagolástervezés e-commerce és FBA megfelelőséghez',
               detail:
-                'Az Afarer kiskereskedésre kész csomagolást tervezett, amely beilleszkedett az Amazon FBA méretkorlátaiba: a 10\'6" deszka doboza 34" × 18" × 14" volt és 14,2 kg-ot nyomott — az Amazon 15 kg-os küszöbe alatt a nehéz-óra díjak elkerülésére. A doboz két oldalán kivágott fogantyút kapott a raktári munkatársaknak. Belül a deszka vákuumtömörítve volt 0,1 mm-es PE zsákban, a kiegészítőkkel egyedi vágású EVA hab betétekben elrendezve. Minden kiegésző egyenként poli-zacskóban volt AquaStart márkázással. A csomag \'Gyors kezdési útmutatót\' tartalmazott (QR-kód egy 6 perces kicsomagolási videóra mutatva). Az Afarer csomagolásmérnöke 22%-kal csökkentette a teljes doboztérfogatot a kezdeti tervezéshez képest, megtakarítva Priyának darabonként 1,80 fontot az FBA teljesítési díjakban.',
+                'Az OLagoon kiskereskedésre kész csomagolást tervezett, amely beilleszkedett az Amazon FBA méretkorlátaiba: a 10\'6" deszka doboza 34" × 18" × 14" volt és 14,2 kg-ot nyomott — az Amazon 15 kg-os küszöbe alatt a nehéz-óra díjak elkerülésére. A doboz két oldalán kivágott fogantyút kapott a raktári munkatársaknak. Belül a deszka vákuumtömörítve volt 0,1 mm-es PE zsákban, a kiegészítőkkel egyedi vágású EVA hab betétekben elrendezve. Minden kiegésző egyenként poli-zacskóban volt AquaStart márkázással. A csomag \'Gyors kezdési útmutatót\' tartalmazott (QR-kód egy 6 perces kicsomagolási videóra mutatva). Az OLagoon csomagolásmérnöke 22%-kal csökkentette a teljes doboztérfogatot a kezdeti tervezéshez képest, megtakarítva Priyának darabonként 1,80 fontot az FBA teljesítési díjakban.',
             },
             {
               title: '3. lépés – Amazon listázás-optimalizálás, A+ tartalom és indítási stratégia',
               detail:
-                "Az Afarer tartalomstúdiója 14 A+ modulképet, 6 életmódfotót a Windermere-tónál, 90 másodperces márkatörténet-videót és 360 fokos termékmegjelenítőt készített. Kulcsszóra optimalizált felsoroláspontokat írtak 237 hosszú farkú kulcsszóra, amelyeket az Amazon keresési kifejezés jelentéséből azonosítottak. Az indítási stratégia 21 napos 'Vine' programot alkalmazott (30 darab 50% kedvezménnyel) a kezdeti értékelési sebesség felépítésére, majd 2000 fontos Amazon PPC kampány (Sponsored Products + Sponsored Brand) következett napi költségvetéssel 3 SKU-ra osztva. A kampány 2023. április 15-én indult. A 45. napra az AquaStart 24 értékeléssel rendelkezett 4,6 csillagos átlagban, és a 10'6\" készlet a SUP kategória 17. helyére ért el.",
+                "Az OLagoon tartalomstúdiója 14 A+ modulképet, 6 életmódfotót a Windermere-tónál, 90 másodperces márkatörténet-videót és 360 fokos termékmegjelenítőt készített. Kulcsszóra optimalizált felsoroláspontokat írtak 237 hosszú farkú kulcsszóra, amelyeket az Amazon keresési kifejezés jelentéséből azonosítottak. Az indítási stratégia 21 napos 'Vine' programot alkalmazott (30 darab 50% kedvezménnyel) a kezdeti értékelési sebesség felépítésére, majd 2000 fontos Amazon PPC kampány (Sponsored Products + Sponsored Brand) következett napi költségvetéssel 3 SKU-ra osztva. A kampány 2023. április 15-én indult. A 45. napra az AquaStart 24 értékeléssel rendelkezett 4,6 csillagos átlagban, és a 10'6\" készlet a SUP kategória 17. helyére ért el.",
             },
             {
               title: '4. lépés – Készletgazdálkodás, kereslet-előrejelzés és második gyártási sor',
               detail:
-                'Az Afarer kereslettervező csapata 6 hónapos előrejelzési modellt épített Amazon történelmi adatokból, Google Trends-ből (paddleboardozás UK keresési volumenje) és szezonális tényezőkből. A modell 410 darabos értékesítést jósolt 2023 szeptemberéig. Priya első gyártási sora 500 darab volt (300 × 10\'6", 120 × 11\'0", 80 × Duo), a manchesteri és doncasteri Amazon FBA központokba szállítva. A tényleges értékesítés szeptember 30-ig 386 darab volt — az előrejelzés 6%-án belül. Második, 700 darabos gyártási sort rendeltek 2023 októberében 2 fontos módosítással: megerősített hordozótáska fogantyúk (9 törésjelentés az első sorból) és frissített rozsdamentes acél D-gyűrűk (4 korróziós panasz után). 2023 decemberére az AquaStart UK bevétel elérte a 298 000 fontot, a 10\'6" készlet az Amazon UK 12. helyezését tartva.',
+                'Az OLagoon kereslettervező csapata 6 hónapos előrejelzési modellt épített Amazon történelmi adatokból, Google Trends-ből (paddleboardozás UK keresési volumenje) és szezonális tényezőkből. A modell 410 darabos értékesítést jósolt 2023 szeptemberéig. Priya első gyártási sora 500 darab volt (300 × 10\'6", 120 × 11\'0", 80 × Duo), a manchesteri és doncasteri Amazon FBA központokba szállítva. A tényleges értékesítés szeptember 30-ig 386 darab volt — az előrejelzés 6%-án belül. Második, 700 darabos gyártási sort rendeltek 2023 októberében 2 fontos módosítással: megerősített hordozótáska fogantyúk (9 törésjelentés az első sorból) és frissített rozsdamentes acél D-gyűrűk (4 korróziós panasz után). 2023 decemberére az AquaStart UK bevétel elérte a 298 000 fontot, a 10\'6" készlet az Amazon UK 12. helyezését tartva.',
             },
           ],
           results: [
@@ -1079,22 +1079,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Újrahasznosított anyagbeszerzés és ellátási lánc tanúsítás',
               detail:
-                "Az Afarer 14 hetet töltött 2023 januárja és áprilisa között újrahasznosított PVC laminátum kifejlesztésével a saját gyárpadjukról származó ipari utóanyagból. Az anyag — 'EcoShell RPVC' márkaneven — súly szerint 63% újrahasznosított tartalmat tartalmazott és 3200 N/5 cm húzószilárdságot ért el (a szűz PVC 3500 N-jával szemben). Az Afarer GRS (Global Recycled Standard) tanúsítást szerzett az anyagra, és harmadik fél életciklus-értékelést szervezett, amely deszkánként 37%-os CO₂e-csökkenést mutatott a szűz PVC deszkákhoz képest. Felix csapata 50 000 újrahasznosított PET palackot szerzett be egy berlini újrahasznosítási szövetkezetből a hordozótáska szövet és a fedélzeti EVA párna (30% újrahasznosított tartalom) előállításához. A teljes fenntartható anyagprémium deszkánként 18 euró volt, amelyet az Afarer beépített a saját árrésébe, hogy segítsen az UrbanPulse-nak elérni a cél kiskereskedelmi árat.",
+                "Az OLagoon 14 hetet töltött 2023 januárja és áprilisa között újrahasznosított PVC laminátum kifejlesztésével a saját gyárpadjukról származó ipari utóanyagból. Az anyag — 'EcoShell RPVC' márkaneven — súly szerint 63% újrahasznosított tartalmat tartalmazott és 3200 N/5 cm húzószilárdságot ért el (a szűz PVC 3500 N-jával szemben). Az OLagoon GRS (Global Recycled Standard) tanúsítást szerzett az anyagra, és harmadik fél életciklus-értékelést szervezett, amely deszkánként 37%-os CO₂e-csökkenést mutatott a szűz PVC deszkákhoz képest. Felix csapata 50 000 újrahasznosított PET palackot szerzett be egy berlini újrahasznosítási szövetkezetből a hordozótáska szövet és a fedélzeti EVA párna (30% újrahasznosított tartalom) előállításához. A teljes fenntartható anyagprémium deszkánként 18 euró volt, amelyet az OLagoon beépített a saját árrésébe, hogy segítsen az UrbanPulse-nak elérni a cél kiskereskedelmi árat.",
             },
             {
               title: '2. lépés – Szén-dioxid-semleges teljesítés és DTC logisztikai architektúra',
               detail:
-                'Az Afarer logisztikai csapata a DHL GoGreen Climate Neutral programmal partnerkedett az UrbanPulse fiókhoz, deszkánként 1,8 kg CO₂ kompenzálásával (a Kínából Hamburgba történő tengeri szállítást és az utolsó mérföld kézbesítést lefedve). Dedikált 200 m²-es teljesítési zónát alakítottak ki az UrbanPulse kölni raktárában egyedi állványozással a felfújható SUP dobozokhoz. Minden szállítmány előre kifizetett visszaküldési címkét tartalmazott a kartondobozhoz (100%-ban újrahasznosított FSC-tanúsított kartonra nyomtatva szójabázisú festékekkel). Az Afarer csomagolástervezése megszüntette az egyszer használatos műanyagokat: a deszka komposztálható PBAT/PLA fóliába volt csomagolva, a kiegészítők papírszalaggal voltak rögzítve, és a használati kézikönyvet magvetőpapírra nyomtatták (olvasás után ültethető).',
+                'Az OLagoon logisztikai csapata a DHL GoGreen Climate Neutral programmal partnerkedett az UrbanPulse fiókhoz, deszkánként 1,8 kg CO₂ kompenzálásával (a Kínából Hamburgba történő tengeri szállítást és az utolsó mérföld kézbesítést lefedve). Dedikált 200 m²-es teljesítési zónát alakítottak ki az UrbanPulse kölni raktárában egyedi állványozással a felfújható SUP dobozokhoz. Minden szállítmány előre kifizetett visszaküldési címkét tartalmazott a kartondobozhoz (100%-ban újrahasznosított FSC-tanúsított kartonra nyomtatva szójabázisú festékekkel). Az OLagoon csomagolástervezése megszüntette az egyszer használatos műanyagokat: a deszka komposztálható PBAT/PLA fóliába volt csomagolva, a kiegészítők papírszalaggal voltak rögzítve, és a használati kézikönyvet magvetőpapírra nyomtatták (olvasás után ültethető).',
             },
             {
               title: '3. lépés – Shopify integráció, indítás előtti tartalom és influencer stratégia',
               detail:
-                "Az Afarer e-commerce csapata integrálta az UrbanPulse Shopify boltját egy egyedi termékkonfigurátorral, amely lehetővé teszi a vásárlóknak a deszkaszín (3 opció), evezőszín (2 opció) kiválasztását és 'fenntarthatósági jelvény' hozzáadását a deszka sorozatszámával és a pontos újrahasznosított tartalommal (grammban). Az Afarer 6 rövid videóeszközt készített (15-45 másodperc) berlini SUP influencerekkel, a 'GreenPaddle'-del és az 'ElisePaddlesBerlin'-nel (összesen 72 000 követő). A tartalom a berlini csatornákon és tavakon történő 'városi paddleboardozást' hangsúlyozta, a SUP-ot a városi lakók hétvégi tevékenységeként pozicionálva. Az indítás előtti e-mail kampány (12 000 UrbanPulse feliratkozónak elküldve) 34%-os megnyitási arányt ért el 2100 kattintással a termékoldalra.",
+                "Az OLagoon e-commerce csapata integrálta az UrbanPulse Shopify boltját egy egyedi termékkonfigurátorral, amely lehetővé teszi a vásárlóknak a deszkaszín (3 opció), evezőszín (2 opció) kiválasztását és 'fenntarthatósági jelvény' hozzáadását a deszka sorozatszámával és a pontos újrahasznosított tartalommal (grammban). Az OLagoon 6 rövid videóeszközt készített (15-45 másodperc) berlini SUP influencerekkel, a 'GreenPaddle'-del és az 'ElisePaddlesBerlin'-nel (összesen 72 000 követő). A tartalom a berlini csatornákon és tavakon történő 'városi paddleboardozást' hangsúlyozta, a SUP-ot a városi lakók hétvégi tevékenységeként pozicionálva. Az indítás előtti e-mail kampány (12 000 UrbanPulse feliratkozónak elküldve) 34%-os megnyitási arányt ért el 2100 kattintással a termékoldalra.",
             },
             {
               title: '4. lépés – Indítás, csatornabővítés és utántöltési döntés',
               detail:
-                "Az UrbanPulse SUP kollekció 2023. június 1-jén indult 500 darabbal (350 all-around, 150 touring). Az első heti értékesítés 112 darab volt (22,4%). Az Afarer kereslettervezői módosították a PPC stratégiát a Google Shoppingon és a Metán, a költségvetést nagy szándékú kulcsszavakra irányítva, mint a 'nachhaltiges SUP kaufen'. A 8. hétre az all-around deszka a 2. legkelendőbb SUP volt a német Shopify DTC piacon (a Fanatic közvetlen értékesítése mögött). 2023 augusztusában Felix partnerséget kötött a SportScheckkel, 80 deszkát elhelyezve 8 üzletben dedikált 'Fenntartható sportok' végpolcokkal. 2023 decemberére a teljes bevétel elérte a 487 000 eurót, az all-around deszka az értékesítés 71%-át adva. Második, 800 darabos gyártási sort rendeltek 2024 februárjára.",
+                "Az UrbanPulse SUP kollekció 2023. június 1-jén indult 500 darabbal (350 all-around, 150 touring). Az első heti értékesítés 112 darab volt (22,4%). Az OLagoon kereslettervezői módosították a PPC stratégiát a Google Shoppingon és a Metán, a költségvetést nagy szándékú kulcsszavakra irányítva, mint a 'nachhaltiges SUP kaufen'. A 8. hétre az all-around deszka a 2. legkelendőbb SUP volt a német Shopify DTC piacon (a Fanatic közvetlen értékesítése mögött). 2023 augusztusában Felix partnerséget kötött a SportScheckkel, 80 deszkát elhelyezve 8 üzletben dedikált 'Fenntartható sportok' végpolcokkal. 2023 decemberére a teljes bevétel elérte a 487 000 eurót, az all-around deszka az értékesítés 71%-át adva. Második, 800 darabos gyártási sort rendeltek 2024 februárjára.",
             },
           ],
           results: [
@@ -1106,8 +1106,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért az Afarer',
+    whyOLagoon: {
+      title: 'Miért az OLagoon',
       items: [
         {
           title: 'Termékmegkülönböztetés',
@@ -1138,7 +1138,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Hogyan különböztethetem meg a SUP termékemet az Amazonon?',
         answer:
-          'Az Afarer segít egyedi deszkagrafikák, saját színrendszerek, javított kiegészítőcsomagok és márkaközpontú csomagolás létrehozásában, amely kitűn a versenytársak azonos listázásai közül.',
+          'Az OLagoon segít egyedi deszkagrafikák, saját színrendszerek, javított kiegészítőcsomagok és márkaközpontú csomagolás létrehozásában, amely kitűn a versenytársak azonos listázásai közül.',
       },
       {
         question: 'Mekkora a minimális rendelési mennyiség piactéri eladóknak?',
@@ -1148,7 +1148,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Segítenek az Amazon listázási tartalomban és képekben?',
         answer:
-          'Igen. Az Afarer e-commerce vizuális támogatást nyújt, beleértve a fő kép koncepciókat, funkcióképeket, életmódfotó-iránymutatást és termékinformáció-rendszerezést.',
+          'Igen. Az OLagoon e-commerce vizuális támogatást nyújt, beleértve a fő kép koncepciókat, funkcióképeket, életmódfotó-iránymutatást és termékinformáció-rendszerezést.',
       },
       {
         question: 'Milyen gyorsan tudják legyártani és leszállítani az egyedi SUP rendelésemet?',
@@ -1163,7 +1163,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Segíthetnek, hogy egy SUP termékből teljes márkát építsek?',
         answer:
-          'Igen. Az Afarer támogatja a teljes termékportfólió-fejlesztést, beleértve több SUP modellt és kültéri kiegészítőket a márkabővítéshez.',
+          'Igen. Az OLagoon támogatja a teljes termékportfólió-fejlesztést, beleértve több SUP modellt és kültéri kiegészítőket a márkabővítéshez.',
       },
     ],
     cta: {
@@ -1180,15 +1180,15 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Horgász SUP gyártó | Egyedi felfújható horgász paddle boardok | {SITE}',
       description:
-        'Az Afarer segít a horgászfelszerelés márkáknak egyedi horgász SUP termékeket létrehozni magas stabilitású tervezéssel, bottartó rendszerekkel, hűtőtartó rögzítésekkel, D-gyűrűs kiegészítőkkel és private label gyártási megoldásokkal.',
+        'Az OLagoon segít a horgászfelszerelés márkáknak egyedi horgász SUP termékeket létrehozni magas stabilitású tervezéssel, bottartó rendszerekkel, hűtőtartó rögzítésekkel, D-gyűrűs kiegészítőkkel és private label gyártási megoldásokkal.',
     },
     hero: {
       tagline: 'Hozza létre horgász SUP márkáját™',
       title: 'Egyedi horgász SUP gyártás horgászfelszerelés márkáknak',
       subtitle:
-        'Az Afarer segít a horgászfelszerelés márkáknak egyedi horgász SUP termékeket létrehozni magas stabilitású tervezéssel, bottartó rendszerekkel, hűtőtartó rögzítésekkel, D-gyűrűs kiegészítőkkel és private label gyártási megoldásokkal.',
+        'Az OLagoon segít a horgászfelszerelés márkáknak egyedi horgász SUP termékeket létrehozni magas stabilitású tervezéssel, bottartó rendszerekkel, hűtőtartó rögzítésekkel, D-gyűrűs kiegészítőkkel és private label gyártási megoldásokkal.',
       image: {
-        alt: 'Afarer egyedi SUP deszkák bemutatása',
+        alt: 'OLagoon egyedi SUP deszkák bemutatása',
       },
     },
     challenge: {
@@ -1291,7 +1291,7 @@ const hu: Record<string, SolutionOverride> = {
       customer:
         'Észak-amerikai horgászfelszerelés márka, amely eredetileg horgászbotokat, felszereléses dobozokat és kültéri horgászkiegészítőket árult tapasztalt horgászok hűséges közösségének.',
       steps: [
-        "Az Afarer elemezte a cél felhasználókat, és a termékpozicionálást 'Professzionális felfújható horgászplatform komoly horgászoknak'ként határozta meg, a márka hírnevéhez igazítva.",
+        "Az OLagoon elemezte a cél felhasználókat, és a termékpozicionálást 'Professzionális felfújható horgászplatform komoly horgászoknak'ként határozta meg, a márka hírnevéhez igazítva.",
         '11 láb horgász SUP modellt hozott létre extra széles állóplatformmal, nagy teherbírással, megerősített Drop Stitch szerkezettel, több D-gyűrűs rendszerrel és bottartó kompatibilitással.',
         'Horgászközpontú grafikákat, kültéri színrendszert és professzionális csomagolást fejlesztett, amely vonzotta a tapasztalt horgászokat.',
         '500 darabbal indított, a meglévő horgászvásárlókon, e-commerce bolton és kültéri viszonteladói hálózaton keresztül elosztva.',
@@ -1316,22 +1316,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Közös tervezés professzionális horgászokkal és ergonómiai elemzés',
               detail:
-                'Az Afarer 3 fős termékfejlesztési csapatot küldött Göteborgba 2023 márciusában egy 10 napos közös tervezési műhelyre. Együtt dolgoztak 8 professzionális és félprofesszionális horgásszal (beleértve a svéd sporthorgász-bajnok Lars Nilsont), akiknek mindegyike 15+ év horgász SUP tapasztalattal rendelkezett. A csapat mozgásrögzítő elemzést végzett a vetési és tekercselési mozdulatokról prototípus deszkákon az optimális állási pozíciók azonosításához. Kulcsfontosságú megállapítások: az ideális bottartó szög 22 fok volt a függőlegestől (a versenytársi termékek 15 fokával szemben), a felszerelés-tárolónak az evező természetes elérési távolságán belül, 40 cm-en belül kellett lennie, és a deszkának legalább 34" szélesnek kellett lennie a stabil álláshoz 30 km/h-s szélviszonyokban. A műhely 47 konkrét tervezési követelményt eredményezett, amelyből 42 beépült a végleges dizájnba.',
+                'Az OLagoon 3 fős termékfejlesztési csapatot küldött Göteborgba 2023 márciusában egy 10 napos közös tervezési műhelyre. Együtt dolgoztak 8 professzionális és félprofesszionális horgásszal (beleértve a svéd sporthorgász-bajnok Lars Nilsont), akiknek mindegyike 15+ év horgász SUP tapasztalattal rendelkezett. A csapat mozgásrögzítő elemzést végzett a vetési és tekercselési mozdulatokról prototípus deszkákon az optimális állási pozíciók azonosításához. Kulcsfontosságú megállapítások: az ideális bottartó szög 22 fok volt a függőlegestől (a versenytársi termékek 15 fokával szemben), a felszerelés-tárolónak az evező természetes elérési távolságán belül, 40 cm-en belül kellett lennie, és a deszkának legalább 34" szélesnek kellett lennie a stabil álláshoz 30 km/h-s szélviszonyokban. A műhely 47 konkrét tervezési követelményt eredményezett, amelyből 42 beépült a végleges dizájnba.',
             },
             {
               title: '2. lépés – Integrált horgászrendszer-mérnöki munka és prototípus tesztelés',
               detail:
-                "Az Afarer ipari tervezői moduláris 'Horgászfedélzet' rendszert fejlesztettek: eltávolítható alumínium sínrendszer (1,2 m hossz), amelyet a deszka drop-stitch magába öntött 12 rozsdamentes acél betéten keresztül szereltek fel. A sín 4 bottartót (állítható szög, gyorskioldó), nagy felszereléses ládát (32 L, IP67 vízálló minősítés, eltávolítható), szák-tokot és termosztartót fogadott (északi piaci követelmény). Három prototípus deszkát gyártottak 2023 májusában, és 4 héten keresztül teszteltek 6 svéd tavon (Vänern, Vättern, Mälaren és 3 kisebb tó Smålandban). A tesztprogram 340 óra aktív horgászati időt rögzített. Egy prototípus enyhe hajlást mutatott 3 nap folyamatos napsütés után 26 fokos időben — az Afarer a fedélzeti PVC vastagságát 0,9 mm-ről 1,2 mm-re növelte az összes gyártási darabnál.",
+                "Az OLagoon ipari tervezői moduláris 'Horgászfedélzet' rendszert fejlesztettek: eltávolítható alumínium sínrendszer (1,2 m hossz), amelyet a deszka drop-stitch magába öntött 12 rozsdamentes acél betéten keresztül szereltek fel. A sín 4 bottartót (állítható szög, gyorskioldó), nagy felszereléses ládát (32 L, IP67 vízálló minősítés, eltávolítható), szák-tokot és termosztartót fogadott (északi piaci követelmény). Három prototípus deszkát gyártottak 2023 májusában, és 4 héten keresztül teszteltek 6 svéd tavon (Vänern, Vättern, Mälaren és 3 kisebb tó Smålandban). A tesztprogram 340 óra aktív horgászati időt rögzített. Egy prototípus enyhe hajlást mutatott 3 nap folyamatos napsütés után 26 fokos időben — az OLagoon a fedélzeti PVC vastagságát 0,9 mm-ről 1,2 mm-re növelte az összes gyártási darabnál.",
             },
             {
               title: '3. lépés – Északi kiskereskedelmi csomagolás, katalógusintegráció és előértékesítés',
               detail:
-                "Az Afarer robusztus csomagolást tervezett kétnyelvű (svéd/finn) címkézéssel és 'Horgász SUP kezdőkészlet' belső elrendezéssel: deszka, horgász sín 4 bottartóval, felszereléses láda, 3 részes evező, kézi pumpa, hátizsák és egy 32 oldalas 'Horgászat SUP-ról' útmutató svédül, norvégul és finnül. A Nordic Angler előértékesítést indított a stockholmi Svéd Sporthorgász Szakvásáron (2023 augusztus), 34 kiskereskedőtől 860 darabra vonatkozó határozott megrendelést biztosítva. Erik kizárólagos 12 hónapos északi disztribúciós megállapodást kötött az Afarerrel, biztosítva, hogy a periódus alatt nem kerülnek versenyző private label horgász SUP-ok értékesítésre a Nordic Angler versenytársainak.",
+                "Az OLagoon robusztus csomagolást tervezett kétnyelvű (svéd/finn) címkézéssel és 'Horgász SUP kezdőkészlet' belső elrendezéssel: deszka, horgász sín 4 bottartóval, felszereléses láda, 3 részes evező, kézi pumpa, hátizsák és egy 32 oldalas 'Horgászat SUP-ról' útmutató svédül, norvégul és finnül. A Nordic Angler előértékesítést indított a stockholmi Svéd Sporthorgász Szakvásáron (2023 augusztus), 34 kiskereskedőtől 860 darabra vonatkozó határozott megrendelést biztosítva. Erik kizárólagos 12 hónapos északi disztribúciós megállapodást kötött az OLagoonrel, biztosítva, hogy a periódus alatt nem kerülnek versenyző private label horgász SUP-ok értékesítésre a Nordic Angler versenytársainak.",
             },
             {
               title: '4. lépés – Termelés, szezonális időzítés és első éves értékesítés',
               detail:
-                'Az 1200 darabos (700 Lake Angler, 500 Expedition Angler) termelés 2023 szeptemberétől novemberéig futott az Afarer zhongshani üzemében. A szállítmány 2023. november 18-án indult Ningbóból és 2023. december 18-án érkezett a göteborgi kikötőbe — ideálisan időzítve a kiskereskedők tavaszi beszerzéséhez. A Nordic Angler 2024. március 1-jéig 760 darabot juttatott a kiskereskedelmi polcokra, a maradék 440 darabot saját raktárában tartotta közvetlen teljesítéshez. 2024. május 31-ig 980 darab kelt el (a kezdeti sor 81,7%-a). A Lake Angler deszka a 1. legkelendőbb horgász SUP lett az XXL Svédországnál 90 napon belül. Erik 2024 júniusában 1800 darabos utántöltési rendelést adott le 3 tervezési fejlesztéssel: párnázottabb hordozótáska, szerszám nélküli sínállító gombok és GPS-követő zseb.',
+                'Az 1200 darabos (700 Lake Angler, 500 Expedition Angler) termelés 2023 szeptemberétől novemberéig futott az OLagoon zhongshani üzemében. A szállítmány 2023. november 18-án indult Ningbóból és 2023. december 18-án érkezett a göteborgi kikötőbe — ideálisan időzítve a kiskereskedők tavaszi beszerzéséhez. A Nordic Angler 2024. március 1-jéig 760 darabot juttatott a kiskereskedelmi polcokra, a maradék 440 darabot saját raktárában tartotta közvetlen teljesítéshez. 2024. május 31-ig 980 darab kelt el (a kezdeti sor 81,7%-a). A Lake Angler deszka a 1. legkelendőbb horgász SUP lett az XXL Svédországnál 90 napon belül. Erik 2024 júniusában 1800 darabos utántöltési rendelést adott le 3 tervezési fejlesztéssel: párnázottabb hordozótáska, szerszám nélküli sínállító gombok és GPS-követő zseb.',
             },
           ],
           results: [
@@ -1353,22 +1353,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Túravezető-központú termékspecifikáció és ügyfélvisszajelzés-elemzés',
               detail:
-                'Az Afarer termékcsapata 14 amerikai horgász túravezetőt interjúvolt meg 2023 márciusában (Texasból, Floridából, Michiganből és Oregónból) egy konszolidált specifikáció létrehozásához. A 3 legtöbbet kért funkció: (1) emelt vetőplatform az orron (8" emelkedés) a jobb láthatóságért és hátravetés-tiszta térért, (2) csendes rögzítőrendszer trollmotorhoz (minimum 55 font tolóerő, tükörrögzítés), és (3) \'yak-attack\' kompatibilis felszereléssín-rendszer. Dwayne ragaszkodott a 450 fontos maximális teherbíráshoz két horgász (túravezető és ügyfél) szállításához. A végeredmény 18 oldalas specifikációs lap lett, beleértve az Afarer mérnöki csapatának szerkezeti véges elemzéses (FEA) jelentését, amely szerint a deszka 250 fontos pontterhelést támogathat a fesztáv közepén 1,5"-nél kisebb hajlással.',
+                'Az OLagoon termékcsapata 14 amerikai horgász túravezetőt interjúvolt meg 2023 márciusában (Texasból, Floridából, Michiganből és Oregónból) egy konszolidált specifikáció létrehozásához. A 3 legtöbbet kért funkció: (1) emelt vetőplatform az orron (8" emelkedés) a jobb láthatóságért és hátravetés-tiszta térért, (2) csendes rögzítőrendszer trollmotorhoz (minimum 55 font tolóerő, tükörrögzítés), és (3) \'yak-attack\' kompatibilis felszereléssín-rendszer. Dwayne ragaszkodott a 450 fontos maximális teherbíráshoz két horgász (túravezető és ügyfél) szállításához. A végeredmény 18 oldalas specifikációs lap lett, beleértve az OLagoon mérnöki csapatának szerkezeti véges elemzéses (FEA) jelentését, amely szerint a deszka 250 fontos pontterhelést támogathat a fesztáv közepén 1,5"-nél kisebb hajlással.',
             },
             {
               title: '2. lépés – Prototípusgyártás, túravezetői flottatesztelés és iterációs ciklus',
               detail:
-                "Az Afarer 4 prototípus Guide Pro deszkát gyártott 2023 májusában. Dwayne kizárólag ezeket használta 22 vezetett horgászaton 6 héten keresztül (2023 június-július), 54 ügyfél bevonásával. Minden horgászatot írásos ügyfélvisszajelzéssel és videófelvételekkel dokumentáltak. Kulcsmegállapítások: az emelt vetőplatform jól fogadtatott (4,8/5 pontszám), de az ügyfelek a kezdeti felszereléssín-elhelyezést túl előre lévőnek találták — az Afarer 6\"-kal hátrébb helyezte. A csendes trollmotor-tartó működött, de a súlya (9 font) elmozdította a deszka egyensúlyát — az Afarer 2 darabos, 5,2 fontos alumínium konzolként tervezte újra. A leggyakoribb ügyfélmegjegyzés: 'Elég stabilnak éreztem magam ahhoz, hogy első próbálkozásra álljak és vessek.' 54 ügyfélhorgászat után egyetlen deszka sem mutatott szerkezeti problémát. Dwayne 2023 augusztusában adta ki a végleges jóváhagyást.",
+                "Az OLagoon 4 prototípus Guide Pro deszkát gyártott 2023 májusában. Dwayne kizárólag ezeket használta 22 vezetett horgászaton 6 héten keresztül (2023 június-július), 54 ügyfél bevonásával. Minden horgászatot írásos ügyfélvisszajelzéssel és videófelvételekkel dokumentáltak. Kulcsmegállapítások: az emelt vetőplatform jól fogadtatott (4,8/5 pontszám), de az ügyfelek a kezdeti felszereléssín-elhelyezést túl előre lévőnek találták — az OLagoon 6\"-kal hátrébb helyezte. A csendes trollmotor-tartó működött, de a súlya (9 font) elmozdította a deszka egyensúlyát — az OLagoon 2 darabos, 5,2 fontos alumínium konzolként tervezte újra. A leggyakoribb ügyfélmegjegyzés: 'Elég stabilnak éreztem magam ahhoz, hogy első próbálkozásra álljak és vessek.' 54 ügyfélhorgászat után egyetlen deszka sem mutatott szerkezeti problémát. Dwayne 2023 augusztusában adta ki a végleges jóváhagyást.",
             },
             {
               title: '3. lépés – Márkaindítás, DTC weboldal és túravezetői affiliate program',
               detail:
-                "A Texas Tailwaters 2023. november 1-jén indult az Afarer e-commerce csapata által épített Shopify DTC oldallal. Az oldal 8 termékvideót, 34, a Lake Travisnél készült életmódképet (drókfelvételekkel) és részletes 'Túravezetői jegyzeteket' (Dwayne személyes tippjei minden deszkához) tartalmazott. Az Afarer szintű túravezetői affiliate programot vezetett be: a túravezetők 15% jutalékot kaptak a közvetlen ajánlásokra, ingyenes bemutatódeszkát 10 ajánlott értékesítés után, és kizárólagos hozzáférést egy privát Facebook-csoporthoz (42 túravezető tag 2024 márciusáig). Az indítási kampány Google Ads stratégiát tartalmazott a 'fishing SUP', 'SUP fishing' és 'guide paddleboard' kulcsszavakra 3500 dolláros havi költségvetéssel. Dwayne saját Instagram tartalma jelentős forgalmat hozott — a 'Nap a vízen' videói átlagosan 12 000 megtekintést értek el.",
+                "A Texas Tailwaters 2023. november 1-jén indult az OLagoon e-commerce csapata által épített Shopify DTC oldallal. Az oldal 8 termékvideót, 34, a Lake Travisnél készült életmódképet (drókfelvételekkel) és részletes 'Túravezetői jegyzeteket' (Dwayne személyes tippjei minden deszkához) tartalmazott. Az OLagoon szintű túravezetői affiliate programot vezetett be: a túravezetők 15% jutalékot kaptak a közvetlen ajánlásokra, ingyenes bemutatódeszkát 10 ajánlott értékesítés után, és kizárólagos hozzáférést egy privát Facebook-csoporthoz (42 túravezető tag 2024 márciusáig). Az indítási kampány Google Ads stratégiát tartalmazott a 'fishing SUP', 'SUP fishing' és 'guide paddleboard' kulcsszavakra 3500 dolláros havi költségvetéssel. Dwayne saját Instagram tartalma jelentős forgalmat hozott — a 'Nap a vízen' videói átlagosan 12 000 megtekintést értek el.",
             },
             {
               title: '4. lépés – Termelési teljesítés, vásárlótámogatás és második éves skálázás',
               detail:
-                'Az első, 450 darabos gyártási sor (300 Guide Pro, 150 Expedition Elite) 2023. október 15-én indult az Afarer gyárából, és 2023. november 22-én érkezett Dwayne houstoni 3PL partneréhez (ShipBob létesítmény). Dwayne 87 darabot előértékesített az indítás előtt a túravezetői hálózatán keresztül. 2024. március 31-ig 334 darab kelt el (a készlet 74,2%-a). Az Afarer vásárlótámogatási csapata kezelte az összes garanciális megkeresést (6 jelentett probléma: 3 szelekmag-szivárgás, 2 uszonydobox-lazulás, 1 fedélzeti párnahólyag) — mind 48 órán belül megoldva. Dwayne részmunkaidős vásárlószolgálati koordinátort vett fel 2024 áprilisában a növekvő volumenhez. Második, 800 darabos gyártási sor rendelésére 2024 májusában került sor, két új kiskereskedőbe való terjeszkedéssel: Austin Kayak és Fishing Tackle Unlimited (mindkettő Texasban).',
+                'Az első, 450 darabos gyártási sor (300 Guide Pro, 150 Expedition Elite) 2023. október 15-én indult az OLagoon gyárából, és 2023. november 22-én érkezett Dwayne houstoni 3PL partneréhez (ShipBob létesítmény). Dwayne 87 darabot előértékesített az indítás előtt a túravezetői hálózatán keresztül. 2024. március 31-ig 334 darab kelt el (a készlet 74,2%-a). Az OLagoon vásárlótámogatási csapata kezelte az összes garanciális megkeresést (6 jelentett probléma: 3 szelekmag-szivárgás, 2 uszonydobox-lazulás, 1 fedélzeti párnahólyag) — mind 48 órán belül megoldva. Dwayne részmunkaidős vásárlószolgálati koordinátort vett fel 2024 áprilisában a növekvő volumenhez. Második, 800 darabos gyártási sor rendelésére 2024 májusában került sor, két új kiskereskedőbe való terjeszkedéssel: Austin Kayak és Fishing Tackle Unlimited (mindkettő Texasban).',
             },
           ],
           results: [
@@ -1380,8 +1380,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért az Afarer',
+    whyOLagoon: {
+      title: 'Miért az OLagoon',
       items: [
         {
           title: 'Horgász felhasználói igények',
@@ -1418,7 +1418,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Hozzáadhatok bottartókat és hűtőrögzítéseket a SUP-hoz?',
         answer:
-          'Igen. Az Afarer horgász-specifikus kiegészítőrendszereket integrál, beleértve a bottartókat, hűtőrögzítési területeket, kameratartókat és D-gyűrűs rögzítési pontokat közvetlenül a deszkatervbe.',
+          'Igen. Az OLagoon horgász-specifikus kiegészítőrendszereket integrál, beleértve a bottartókat, hűtőrögzítési területeket, kameratartókat és D-gyűrűs rögzítési pontokat közvetlenül a deszkatervbe.',
       },
       {
         question: 'Mekkora a horgász SUP teherbírása?',
@@ -1428,7 +1428,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Kínálnak egyedi márkázást horgászfelszerelés vállalatoknak?',
         answer:
-          'Igen. Az Afarer teljes körű private label gyártást nyújt egyedi deszkagrafikákkal, márkaszínekkel, logóelhelyezéssel, EVA fedélzetdizájnnal és csomagolással horgászmárkáknak.',
+          'Igen. Az OLagoon teljes körű private label gyártást nyújt egyedi deszkagrafikákkal, márkaszínekkel, logóelhelyezéssel, EVA fedélzetdizájnnal és csomagolással horgászmárkáknak.',
       },
       {
         question: 'Használható a horgász SUP édesvízben és sós vízben is?',
@@ -1455,15 +1455,15 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP Yoga gyártó | Egyedi jóga paddle boardok | {SITE}',
       description:
-        'Az Afarer egyedi SUP Yoga felszerelési megoldásokat nyújt jógastúdióknak, wellness retreateknek és fitneszmárkáknak. Hozzon létre prémium felfújható jóga SUP deszkákat széles stabilitású tervezéssel, teljes EVA fedélzettel és private label gyártással.',
+        'Az OLagoon egyedi SUP Yoga felszerelési megoldásokat nyújt jógastúdióknak, wellness retreateknek és fitneszmárkáknak. Hozzon létre prémium felfújható jóga SUP deszkákat széles stabilitású tervezéssel, teljes EVA fedélzettel és private label gyártással.',
     },
     hero: {
       tagline: 'SUP Yoga felszerelési megoldások™',
       title: 'Prémium SUP Yoga felszerelés wellness márkáknak és retreateknek',
       subtitle:
-        'Az Afarer egyedi SUP Yoga felszerelési megoldásokat nyújt jógastúdióknak, wellness retreateknek és fitneszmárkáknak. Hozzon létre prémium felfújható jóga SUP deszkákat széles stabilitású tervezéssel, teljes EVA fedélzettel és private label gyártással.',
+        'Az OLagoon egyedi SUP Yoga felszerelési megoldásokat nyújt jógastúdióknak, wellness retreateknek és fitneszmárkáknak. Hozzon létre prémium felfújható jóga SUP deszkákat széles stabilitású tervezéssel, teljes EVA fedélzettel és private label gyártással.',
       image: {
-        alt: 'Afarer egyedi SUP deszkák bemutatása',
+        alt: 'OLagoon egyedi SUP deszkák bemutatása',
       },
     },
     challenge: {
@@ -1588,7 +1588,7 @@ const hu: Record<string, SolutionOverride> = {
       customer:
         'Európai wellness retreat márka, amely prémium wellness utazók számára jógaretreateket, meditációs programokat és kültéri wellness élményeket működtet.',
       steps: [
-        "Az Afarer a termék koncepcióját 'Luxus lebegő jóga élmény'ként határozta meg, wellness utazókat, női fitnesz vásárlókat és prémium retreat vendégeket megcélozva.",
+        "Az OLagoon a termék koncepcióját 'Luxus lebegő jóga élmény'ként határozta meg, wellness utazókat, női fitnesz vásárlókat és prémium retreat vendégeket megcélozva.",
         'Prémium széles jóga SUP-ot hozott létre extra széles stabil platformmal, teljes EVA jóga fedélzettel, kényelmes mezítlábas felülettel és kiegyensúlyozott úszási teljesítménnyel.',
         'Puha természetes színpalettát, minimális grafikákat és prémium csomagolást fejlesztett, amely tökéletesen illeszkedett a wellness márka nyugodt identitásához.',
         'Retreat programokkal, jóga órákkal és prémium vásárlói élményekkel indított, mint kezdeti alkalmazás.',
@@ -1613,17 +1613,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – Jóga-specifikus deszaktervezés és szanszkrit esztétika',
               detail:
-                "Az Afarer tervezőcsapata 3 hetet töltött 2023 márciusában Simone követelményeinek tanulmányozásával. Az eredmény: 'Serenity' SUP yoga deszka — 34\" széles (a standard 32\" helyett), 11'6\" hosszú, 7 rétegű drop-stitch maggal a merev stabilitáshoz. A fedélzet 6 mm vastag zárt cellás EVA párnát kapott gyémántmintás textúrával (tesztelt súrlódási együttható: 0,85 szárazon, 0,72 nedvesen), amely a fedélzetfelület 85%-át lefedte. Az Afarer szanszkrit 'Om' szimbólumot helyezett el ezüst reflektív hőátviteli nyomattal az orron, és lótusz mintát a középső hordozófogantyú köré. A deszkák 4 színben érkeztek (korall, türkiz, naplemente-narancs, lagúna kék), megfelelve a 4 Azure üdülő színpalettájának. Minden deszkán 8 rozsdamentes acél D-gyűrű volt — 4 a gumikötél-rendszerhez a jógamatracok rögzítéséhez és 4 az opcionális horgonyzsinórokhoz az áramlásban történő álló gyakorláshoz.",
+                "Az OLagoon tervezőcsapata 3 hetet töltött 2023 márciusában Simone követelményeinek tanulmányozásával. Az eredmény: 'Serenity' SUP yoga deszka — 34\" széles (a standard 32\" helyett), 11'6\" hosszú, 7 rétegű drop-stitch maggal a merev stabilitáshoz. A fedélzet 6 mm vastag zárt cellás EVA párnát kapott gyémántmintás textúrával (tesztelt súrlódási együttható: 0,85 szárazon, 0,72 nedvesen), amely a fedélzetfelület 85%-át lefedte. Az OLagoon szanszkrit 'Om' szimbólumot helyezett el ezüst reflektív hőátviteli nyomattal az orron, és lótusz mintát a középső hordozófogantyú köré. A deszkák 4 színben érkeztek (korall, türkiz, naplemente-narancs, lagúna kék), megfelelve a 4 Azure üdülő színpalettájának. Minden deszkán 8 rozsdamentes acél D-gyűrű volt — 4 a gumikötél-rendszerhez a jógamatracok rögzítéséhez és 4 az opcionális horgonyzsinórokhoz az áramlásban történő álló gyakorláshoz.",
             },
             {
               title: '2. lépés – Pilot program az Azure Northban jógainstruktor-képzéssel',
               detail:
-                "Az Afarer 15 prototípus deszkát gyártott, és expressz légi teherszállítással (Singapore Airlines Cargo) szállította őket egy 6 hetes pilot programhoz az Azure Northban, amely 2023. június 1-jén kezdődött. Simone és 4 rezidens jógainstruktor elvégezte a 40 órás SUP Yoga Instruktor Tanúsítási programot, amelyet az Afarer wellness tanácsadói és a Yoga Alliance szakemberei közösen fejlesztettek ki. A tanúsítás a következőket fedte le: deszka felállítása és felfújása jógához (12 PSI a maximális stabilitáshoz), órasorrend a vízviszonyokhoz, biztonsági protokollok szélre és áramlásra, valamint 15 egyedi SUP yoga póz, amelyet a deszkakörnyezethez adaptáltak. A pilot program 6 hét alatt 42 órát futott 186 vendégrésztvevővel. A pilot előtti és utáni felmérések a vendégi önbizalom 58%-os javulását mutatták, és az átlagos óraértékelés 4,8/5 volt. A vendégvisszajelzés két módosítást emelt ki: evezőtartó kérés a deszka szélére (hogy az evezők ne ússzanak el a gyakorlás alatt) és a 'puha' orr-rádiuszú deszkák preferálása a partner pózokhoz.",
+                "Az OLagoon 15 prototípus deszkát gyártott, és expressz légi teherszállítással (Singapore Airlines Cargo) szállította őket egy 6 hetes pilot programhoz az Azure Northban, amely 2023. június 1-jén kezdődött. Simone és 4 rezidens jógainstruktor elvégezte a 40 órás SUP Yoga Instruktor Tanúsítási programot, amelyet az OLagoon wellness tanácsadói és a Yoga Alliance szakemberei közösen fejlesztettek ki. A tanúsítás a következőket fedte le: deszka felállítása és felfújása jógához (12 PSI a maximális stabilitáshoz), órasorrend a vízviszonyokhoz, biztonsági protokollok szélre és áramlásra, valamint 15 egyedi SUP yoga póz, amelyet a deszkakörnyezethez adaptáltak. A pilot program 6 hét alatt 42 órát futott 186 vendégrésztvevővel. A pilot előtti és utáni felmérések a vendégi önbizalom 58%-os javulását mutatták, és az átlagos óraértékelés 4,8/5 volt. A vendégvisszajelzés két módosítást emelt ki: evezőtartó kérés a deszka szélére (hogy az evezők ne ússzanak el a gyakorlás alatt) és a 'puha' orr-rádiuszú deszkák preferálása a partner pózokhoz.",
             },
             {
               title: '3. lépés – Több üdülős bevezetés, infrastruktúra és programozás',
               detail:
-                'A sikeres pilot program alapján az Azure 2023 augusztusában 40 Serenity deszkára adott megrendelést (üdülőnként 10 darab). Az Afarer két tervezési módosítást adott hozzá a pilot visszajelzések alapján: szilikon evező rögzítőszíj a jobb oldali korlátra és 15 cm-mel szélesebb orr-rádiusz (45 cm-ről 60 cm-re) a partner pózok szabad teréhez. Az Afarer tengeri teherszállítással, dedikált 20 lábos konténerrel szállított, beleértve 40 egyedi felfújó pumpát, PSI-ra kalibrált nyomásmérővel (bar helyett). A szállítmány 2023. november 1-jén érkezett Maléba. Simone további 12 instruktort képzett ki a 4 üdülőben (ingatlanonként 3-at) a tanúsítási tananyaggal, és két vezető instruktor részt vett egy 2 hetes kiképző-tréner programon Balin (az Afarer wellness partnere szervezésében). Minden üdüló dedikált SUP yoga indulási pontot hozott létre lebegő mólóval, felszereléstárolóval és árnyékolható pihenőterülettel.',
+                'A sikeres pilot program alapján az Azure 2023 augusztusában 40 Serenity deszkára adott megrendelést (üdülőnként 10 darab). Az OLagoon két tervezési módosítást adott hozzá a pilot visszajelzések alapján: szilikon evező rögzítőszíj a jobb oldali korlátra és 15 cm-mel szélesebb orr-rádiusz (45 cm-ről 60 cm-re) a partner pózok szabad teréhez. Az OLagoon tengeri teherszállítással, dedikált 20 lábos konténerrel szállított, beleértve 40 egyedi felfújó pumpát, PSI-ra kalibrált nyomásmérővel (bar helyett). A szállítmány 2023. november 1-jén érkezett Maléba. Simone további 12 instruktort képzett ki a 4 üdülőben (ingatlanonként 3-at) a tanúsítási tananyaggal, és két vezető instruktor részt vett egy 2 hetes kiképző-tréner programon Balin (az OLagoon wellness partnere szervezésében). Minden üdüló dedikált SUP yoga indulási pontot hozott létre lebegő mólóval, felszereléstárolóval és árnyékolható pihenőterülettel.',
             },
             {
               title: '4. lépés – Bevételi teljesítmény, vendégtartás és programbővítés',
@@ -1650,22 +1650,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés – A jógainstruktor tervezési víziója és az ergonómikus Studio deszka',
               detail:
-                "Az Afarer terméktervezői 2023 februárjában Santa Monicába repültek, hogy megfigyeljék Kai 4 óráját és megértsék oktatási stílusát. Kai Vinyasa flow, restoratív yin és partner akro-jóga keverékét tanította deszkákon — ami több fedélzetterületet igényelt, mint amit a standard SUP-ok kínáltak. Az Afarer 3 SKU-t tervezett: (1) 'Drift 10'6\"' — standard SUP yoga deszka (34\" széles, 6 mm fedélzeti párna), (2) 'Studio 12'0\"' — extra széles deszka 38\" szélességgel és 8 mm párnázott fedélzettel (akro és partner pózokra tervezve, maximális teherbírás 450 lbs), és (3) 'Mini 9'0\"' — gyerekbarát deszka (30\" széles, 5 mm fedélzet, élénk színopciók). A Studio deszka egyedülálló 'középvonal-igazítási jelöléssel' rendelkezett — egy diszkrét nyomtatott vonal a fedélzet közepén, amely segíti a tanulókat a matracok következetes igazításában. Minden deszka az Afarer Fusion-Lite drop-stitch technológiáját használta, 3 lbs-mal könnyebb volt a standard deszkáknál a könnyebb kezelhetőségért.",
+                "Az OLagoon terméktervezői 2023 februárjában Santa Monicába repültek, hogy megfigyeljék Kai 4 óráját és megértsék oktatási stílusát. Kai Vinyasa flow, restoratív yin és partner akro-jóga keverékét tanította deszkákon — ami több fedélzetterületet igényelt, mint amit a standard SUP-ok kínáltak. Az OLagoon 3 SKU-t tervezett: (1) 'Drift 10'6\"' — standard SUP yoga deszka (34\" széles, 6 mm fedélzeti párna), (2) 'Studio 12'0\"' — extra széles deszka 38\" szélességgel és 8 mm párnázott fedélzettel (akro és partner pózokra tervezve, maximális teherbírás 450 lbs), és (3) 'Mini 9'0\"' — gyerekbarát deszka (30\" széles, 5 mm fedélzet, élénk színopciók). A Studio deszka egyedülálló 'középvonal-igazítási jelöléssel' rendelkezett — egy diszkrét nyomtatott vonal a fedélzet közepén, amely segíti a tanulókat a matracok következetes igazításában. Minden deszka az OLagoon Fusion-Lite drop-stitch technológiáját használta, 3 lbs-mal könnyebb volt a standard deszkáknál a könnyebb kezelhetőségért.",
             },
             {
               title: '2. lépés – Márkaidentitás, tartalomgyártás és előértékesítési stratégia',
               detail:
-                'Az Afarer kreatív csapata kifejlesztette a Drift & Downward Dog vizuális identitását: minimalista logó stilizált lótusz/mandala-hullám hibriddel, zsálya zöld, homok és óceánkék színpaletta, valamint egyedi betűpáros (Lora címsorokhoz, Nunito szövegtörzshöz). 2023 márciusában 6 napos fotózást készítettek 5 Santa Monica-öböli helyszínen (Santa Monica Pier, Malibu Point Dume, Venice Beach, Marina del Rey és Paradise Cove), amely 480 végleges képet és 8 óra 4K videóanyagot eredményezett. Kai 30 napos előértékesítést indított 2023. május 1-jén Kickstarter kampányon keresztül $35 000-os céllal. A kampány 3 jutalom szintet tartalmazott: korai madár Drift deszka ($599, 40 darab), Studio deszka csomag matraccal és szíjjal ($949, 25 darab) és Mini deszka ($449, 20 darab). A kampány 11 óra alatt elérte a célt, és $74 200-nál zárt 118 támogatótól.',
+                'Az OLagoon kreatív csapata kifejlesztette a Drift & Downward Dog vizuális identitását: minimalista logó stilizált lótusz/mandala-hullám hibriddel, zsálya zöld, homok és óceánkék színpaletta, valamint egyedi betűpáros (Lora címsorokhoz, Nunito szövegtörzshöz). 2023 márciusában 6 napos fotózást készítettek 5 Santa Monica-öböli helyszínen (Santa Monica Pier, Malibu Point Dume, Venice Beach, Marina del Rey és Paradise Cove), amely 480 végleges képet és 8 óra 4K videóanyagot eredményezett. Kai 30 napos előértékesítést indított 2023. május 1-jén Kickstarter kampányon keresztül $35 000-os céllal. A kampány 3 jutalom szintet tartalmazott: korai madár Drift deszka ($599, 40 darab), Studio deszka csomag matraccal és szíjjal ($949, 25 darab) és Mini deszka ($449, 20 darab). A kampány 11 óra alatt elérte a célt, és $74 200-nál zárt 118 támogatótól.',
             },
             {
               title: '3. lépés – Termelés, teljesítési logisztika és óraintegráció',
               detail:
-                "A 180 deszkás termelés (80 Drift, 50 Studio, 50 Mini) 2023 június–júliusában futott az Afarer vietnami üzemében. 2023. augusztus 1-jére minden Kickstarter rendelést teljesítettek a Long Beach-i 3PL raktárból (15 mérföldre Kai santa monicai stúdiójától). Kai elindította az órafoglalási platformját Shopify-n egyedi ütemező alkalmazással, amely az Acuity Schedulinggel volt integrálva. 4 órátípust kínált: 'Sunrise Flow' (kezdő, Drift deszka), 'Full Moon Studio' (haladó/partner, Studio deszka), 'Family Paddle' (gyerekek + szülők, Mini + Drift) és 'Restorative Yin & Float' (yin pózok és vezetett meditáció kombinációja). 3 további tanúsított SUP yoga instruktort vett fel a bővített menetrend kezeléséhez. 2023 szeptemberére Kai heti 22 órát tartott, óránként átlagosan 14 tanulóval.",
+                "A 180 deszkás termelés (80 Drift, 50 Studio, 50 Mini) 2023 június–júliusában futott az OLagoon vietnami üzemében. 2023. augusztus 1-jére minden Kickstarter rendelést teljesítettek a Long Beach-i 3PL raktárból (15 mérföldre Kai santa monicai stúdiójától). Kai elindította az órafoglalási platformját Shopify-n egyedi ütemező alkalmazással, amely az Acuity Schedulinggel volt integrálva. 4 órátípust kínált: 'Sunrise Flow' (kezdő, Drift deszka), 'Full Moon Studio' (haladó/partner, Studio deszka), 'Family Paddle' (gyerekek + szülők, Mini + Drift) és 'Restorative Yin & Float' (yin pózok és vezetett meditáció kombinációja). 3 további tanúsított SUP yoga instruktort vett fel a bővített menetrend kezeléséhez. 2023 szeptemberére Kai heti 22 órát tartott, óránként átlagosan 14 tanulóval.",
             },
             {
               title: '4. lépés – Kiskereskedelmi csatornabővítés, vállalati wellness és a 2. év növekedése',
               detail:
-                '2023 októberében felkereste Kai-t az REI dél-kaliforniai regionális vásárlója, aki részt vett az egyik óráján. Az REI próbamegrendelést adott 30 Drift és 15 Mini deszkára 5 Santa Monica környéki üzlet számára. Az Afarer alkalmazkodott a csomagolással, hogy REI-kompatibilis akasztócímkéket és QR-kódos termékregisztrációt tartalmazzon. 2023 decemberére az REI eladási arány 82%-ot ért el az 5 üzletben, az REI 100 darabos utánrendelést adott le 20 dél-kaliforniai helyszínre. Kai vállalati wellness programot is indított — 4 technológiai vállalattal (Google Venice, Hulu Santa Monica és két további) kötött szerződést heti helyszíni SUP yoga órák biztosítására munkavállalói juttatásként. A vállalati program havi $4 200 ismétlődő bevételt generált. Az 1. év végére (2024 március) a Drift & Downward Dog $342 000 együttes bevételt generált (termékértékesítés: $218 000, óarbevétel: $94 000, vállalati wellness: $30 000).',
+                '2023 októberében felkereste Kai-t az REI dél-kaliforniai regionális vásárlója, aki részt vett az egyik óráján. Az REI próbamegrendelést adott 30 Drift és 15 Mini deszkára 5 Santa Monica környéki üzlet számára. Az OLagoon alkalmazkodott a csomagolással, hogy REI-kompatibilis akasztócímkéket és QR-kódos termékregisztrációt tartalmazzon. 2023 decemberére az REI eladási arány 82%-ot ért el az 5 üzletben, az REI 100 darabos utánrendelést adott le 20 dél-kaliforniai helyszínre. Kai vállalati wellness programot is indított — 4 technológiai vállalattal (Google Venice, Hulu Santa Monica és két további) kötött szerződést heti helyszíni SUP yoga órák biztosítására munkavállalói juttatásként. A vállalati program havi $4 200 ismétlődő bevételt generált. Az 1. év végére (2024 március) a Drift & Downward Dog $342 000 együttes bevételt generált (termékértékesítés: $218 000, óarbevétel: $94 000, vállalati wellness: $30 000).',
             },
           ],
           results: [
@@ -1677,8 +1677,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért az Afarer',
+    whyOLagoon: {
+      title: 'Miért az OLagoon',
       items: [
         {
           title: 'Wellness élmény megértése',
@@ -1720,7 +1720,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Létrehozhatom saját márkás SUP Yoga termékcsaládomat?',
         answer:
-          'Igen. Az Afarer teljes körű private label gyártást nyújt egyedi színekkel, grafikákkal, csomagolással és kiegészítőkkel, amelyeket kifejezetten jóga és wellness márkákra terveztek.',
+          'Igen. Az OLagoon teljes körű private label gyártást nyújt egyedi színekkel, grafikákkal, csomagolással és kiegészítőkkel, amelyeket kifejezetten jóga és wellness márkákra terveztek.',
       },
       {
         question: 'A SUP Yoga deszkáik alkalmasak professzionális stúdióhasználatra?',
@@ -1760,12 +1760,12 @@ const hu: Record<string, SolutionOverride> = {
         'A(z) {SITE} segít a YouTube, TikTok, Instagram alkotóknak és Kickstarter márkáknak egyedi SUP termékeket indítani gyors prototípusokkal, alacsony MOQ gyártással, limitált kiadású dizájnokkal és private label megoldásokkal.',
     },
     hero: {
-      tagline: 'Alakítsa közönségét vízisport márkává az Afarerrel',
+      tagline: 'Alakítsa közönségét vízisport márkává az OLagoonrel',
       title: 'Egyedi SUP gyártási megoldások YouTube, TikTok, Instagram alkotók és Kickstarter márkák számára',
       subtitle:
-        'Az Afarer segít az alkotóknak saját SUP márkájukat elindítani gyors prototípus-fejlesztésen, kis MOQ termelésen, egyedi grafikákon, limitált kiadású dizájnon, márkás csomagoláson és rugalmas gyártási megoldásokon keresztül.',
+        'Az OLagoon segít az alkotóknak saját SUP márkájukat elindítani gyors prototípus-fejlesztésen, kis MOQ termelésen, egyedi grafikákon, limitált kiadású dizájnon, márkás csomagoláson és rugalmas gyártási megoldásokon keresztül.',
       image: {
-        alt: 'Afarer egyedi SUP deszkák alkotói és influencer márkák számára',
+        alt: 'OLagoon egyedi SUP deszkák alkotói és influencer márkák számára',
       },
     },
     challenge: {
@@ -1799,7 +1799,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Gyors SUP prototípus-fejlesztés',
           description:
-            'Az Afarer segít az ötleteket gyorsan fizikai prototípusokká alakítani. A koncepciófejlesztéstől és a deszkamintáktól a grafikai tesztelésig és a konfiguráció-igazításig az alkotók gyorsan iterálhatnak a közösségi visszajelzések alapján.',
+            'Az OLagoon segít az ötleteket gyorsan fizikai prototípusokká alakítani. A koncepciófejlesztéstől és a deszkamintáktól a grafikai tesztelésig és a konfiguráció-igazításig az alkotók gyorsan iterálhatnak a közösségi visszajelzések alapján.',
           features: [
             'Termékkoncepció-fejlesztés',
             'Prototípus-készítés',
@@ -1810,7 +1810,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Alacsony MOQ termelés alkotói márkák számára',
           description:
-            'Az alkotóknak a skálázás előtt kell validálniuk a keresletet. Az Afarer rugalmas induló mennyiségeket támogat 100-300 darabtól közösségi teszteléshez és limitált indításokhoz, 500-2000 darabig bővítve a növekedéshez és 3000+ darabig a teljes márkaüzemeltetéshez.',
+            'Az alkotóknak a skálázás előtt kell validálniuk a keresletet. Az OLagoon rugalmas induló mennyiségeket támogat 100-300 darabtól közösségi teszteléshez és limitált indításokhoz, 500-2000 darabig bővítve a növekedéshez és 3000+ darabig a teljes márkaüzemeltetéshez.',
           features: [
             'Alkotói indítási szakasz: 100-300 darab',
             'Növekedési szakasz: 500-2000 darab',
@@ -1821,7 +1821,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Limitált kiadású alkotói SUP dizájn',
           description:
-            'Az alkotói márkák az egyediség révén sikeresek. Az Afarer segít exkluzív kiadások fejlesztésében egyedi grafikákkal, védjegy művészettel, különleges színkiadásokkal és közösséginspirálta dizájnelemekkel, amelyeket a rajongók valóban akarnak.',
+            'Az alkotói márkák az egyediség révén sikeresek. Az OLagoon segít exkluzív kiadások fejlesztésében egyedi grafikákkal, védjegy művészettel, különleges színkiadásokkal és közösséginspirálta dizájnelemekkel, amelyeket a rajongók valóban akarnak.',
           features: [
             'Egyedi grafikák és művészet',
             'Védjegy és közösségi kiadások',
@@ -1832,12 +1832,12 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Prémium csomagolás alkotói indításokhoz',
           description:
-            'Az alkotók számára a kicsomagolás a márkaélmény része. Az Afarer egyedi csomagolást támogat márkás dobozokkal, termékkártyákkal, köszönőüzenetekkel és QR-kódokkal, amelyek az alkotói tartalomra mutatnak, és a vásárlókat hosszú távú követőkké alakítják.',
+            'Az alkotók számára a kicsomagolás a márkaélmény része. Az OLagoon egyedi csomagolást támogat márkás dobozokkal, termékkártyákkal, köszönőüzenetekkel és QR-kódokkal, amelyek az alkotói tartalomra mutatnak, és a vásárlókat hosszú távú követőkké alakítják.',
         },
         {
           title: 'Kickstarter és crowdfunding terméktámogatás',
           description:
-            'Sok alkotó használ crowdfundingot a kereslet validálásához. Az Afarer támogatja az indítás előtti prototípus-fejlesztést, a kampánygyártási tervezést és a kampány utáni tételes teljesítést, hogy az alkotók betarthassák ígéreteiket.',
+            'Sok alkotó használ crowdfundingot a kereslet validálásához. Az OLagoon támogatja az indítás előtti prototípus-fejlesztést, a kampánygyártási tervezést és a kampány utáni tételes teljesítést, hogy az alkotók betarthassák ígéreteiket.',
           features: [
             'Indítás előtti fejlesztés',
             'Kampánygyártási tervezés',
@@ -1848,7 +1848,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Alkotói márka termékexpanzió',
           description:
-            'Egy sikeres alkotói márka teljes kültéri ökoszisztémává bővülhet. Az Afarer támogatja a SUP termékcsaládokat, a vízi kiegészítőket és a szezonális kollekciókat, amelyek a közösséggel együtt nőnek.',
+            'Egy sikeres alkotói márka teljes kültéri ökoszisztémává bővülhet. Az OLagoon támogatja a SUP termékcsaládokat, a vízi kiegészítőket és a szezonális kollekciókat, amelyek a közösséggel együtt nőnek.',
           features: [
             'Védjegy SUP deszka vonal',
             'Vízi kiegészítők',
@@ -1859,7 +1859,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Tartalombarát termékfejlesztés',
           description:
-            'Az alkotóknak olyan termékek kellenek, amelyek természetesen támogatják a történetmesélést. Az Afarer segít olyan termékek fejlesztésében, amelyek alkalmasak kicsomagoló videókhoz, kalandtartalomhoz, termékvéleményekhez és közösségi kihívásokhoz, amelyek organikus elköteleződést generálnak.',
+            'Az alkotóknak olyan termékek kellenek, amelyek természetesen támogatják a történetmesélést. Az OLagoon segít olyan termékek fejlesztésében, amelyek alkalmasak kicsomagoló videókhoz, kalandtartalomhoz, termékvéleményekhez és közösségi kihívásokhoz, amelyek organikus elköteleződést generálnak.',
           features: [
             'Kicsomagolási élmény tervezése',
             'Kalandra kész termékek',
@@ -1870,7 +1870,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Minőségellenőrzés az alkotói hírnévéért',
           description:
-            'A bizalom az alkotó legértékesebb vagyona. Az Afarer minőségellenőrzése légnomastabilitás-tesztelést, deszka tartóssági ellenőrzését, grafikai és színkonzisztencia-ellenőrzést és teljes kiegészítő-ellenőrzést tartalmaz a közösségi kapcsolatok védelme érdekében.',
+            'A bizalom az alkotó legértékesebb vagyona. Az OLagoon minőségellenőrzése légnomastabilitás-tesztelést, deszka tartóssági ellenőrzését, grafikai és színkonzisztencia-ellenőrzést és teljes kiegészítő-ellenőrzést tartalmaz a közösségi kapcsolatok védelme érdekében.',
         },
       ],
     },
@@ -1889,7 +1889,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Prototípus-fejlesztés',
           detail:
-            'Az Afarer egyedi deszaktervet készített védjegy grafikával és termékmintákkal. Az alkotó tesztelte a teljesítményt, a megjelenést, és közönségi visszajelzést gyűjtött, mielőtt elkötelezte volna magát a gyártás mellett.',
+            'Az OLagoon egyedi deszaktervet készített védjegy grafikával és termékmintákkal. Az alkotó tesztelte a teljesítményt, a megjelenést, és közönségi visszajelzést gyűjtött, mielőtt elkötelezte volna magát a gyártás mellett.',
         },
         {
           title: 'Limitált kiadású indítás',
@@ -1914,29 +1914,29 @@ const hu: Record<string, SolutionOverride> = {
           customer: {
             location: 'Manaus, Brazília',
             background:
-              "A 34 éves Carlos Mendes a National Geographicben szerepelt kalandfotós és drónpilóta, 890 000 Instagram-követővel. 7 év távoli Amazonas-folyami expedícióinak dokumentálása után észrevette, hogy közönsége egyre gyakrabban kérdez a felfújható SUP-okról, amelyeket a forgatási helyszínek eléréséhez használt. Evezési háttér nélkül szüksége volt az Afarerre, hogy megtervezzen egy egyedi deszkát, amely egyszerre szolgál kameraplatformként és expedíciós járműként, miközben márkát indít a 'Rios do Brasil' sorozata köré.",
+              "A 34 éves Carlos Mendes a National Geographicben szerepelt kalandfotós és drónpilóta, 890 000 Instagram-követővel. 7 év távoli Amazonas-folyami expedícióinak dokumentálása után észrevette, hogy közönsége egyre gyakrabban kérdez a felfújható SUP-okról, amelyeket a forgatási helyszínek eléréséhez használt. Evezési háttér nélkül szüksége volt az OLagoonre, hogy megtervezzen egy egyedi deszkát, amely egyszerre szolgál kameraplatformként és expedíciós járműként, miközben márkát indít a 'Rios do Brasil' sorozata köré.",
             goal: 'Közösen márkázott védjegy SUP indítása 2025 májusáig, amely Brazília 5 nagy vízi biomját ragadja meg (Amazonas, Pantanal, São Francisco, Paraná és a parti Rio), 500 darab előrevételével darabonként R$4 990-ért a gyártás előtt.',
           },
           steps: [
             {
-              title: 'Biom-specifikus K+F expedíció Afarer-mérnökökkel',
+              title: 'Biom-specifikus K+F expedíció OLagoon-mérnökökkel',
               detail:
-                '2024 augusztusában az Afarer Li Wei vezető tengeri mérnököt és Henrik Larsson terméktervezőt küldte Manauba 10 napra. Carlos-szal együtt 180 km-t eveztek a Rio Negrón, mérve a vízhőmérsékletet (28–32 °C), az üledékterhelést és a jellemző terhelést (40 kg kamerfelszerelés plusz 25 kg kempingfelszerelés). Azt találták, hogy a standard drop-stitch deszkák delaminálódtak az egyenlítői 12+ UV-index és a portage közbeni csiszoló homokbekeveredés kombinációja alatt. Carlos ragaszkodott hozzá, hogy a deszka levegő kiengedése után egy 65 literes száraz zsákba férjen be a repülős utazáshoz.',
+                '2024 augusztusában az OLagoon Li Wei vezető tengeri mérnököt és Henrik Larsson terméktervezőt küldte Manauba 10 napra. Carlos-szal együtt 180 km-t eveztek a Rio Negrón, mérve a vízhőmérsékletet (28–32 °C), az üledékterhelést és a jellemző terhelést (40 kg kamerfelszerelés plusz 25 kg kempingfelszerelés). Azt találták, hogy a standard drop-stitch deszkák delaminálódtak az egyenlítői 12+ UV-index és a portage közbeni csiszoló homokbekeveredés kombinációja alatt. Carlos ragaszkodott hozzá, hogy a deszka levegő kiengedése után egy 65 literes száraz zsákba férjen be a repülős utazáshoz.',
             },
             {
               title: 'Háromrétegű Fusion konstrukció és moduláris rögzítőrendszer',
               detail:
-                "Az Afarer hsziameni K+F központja 7 prototípust készített 2024 szeptembere és novembere között. A végleges terv 3 rétegű PVC-Dropstitch-PVC szendvicset használt további UV-reflektív felső bevonattal, amelyet 1 200 órás gyorsított UV-expozícióval teszteltek. Egy szabadalmaztatott 'Rails-to-Rail' merevítőrendszer oldalirányú merevséget adott extra súly nélkül. Carlos és az Afarer közösen tervezett egy moduláris kameratartó sínt, amely megerősített párnákon át csavarozott — szívókorongok nélkül —, és 28 kg terhelés bírására tesztelték 30 km/h vontatási sebességnél. Minden deszka mindössze 11,8 kg-ot nyomott, de 220 kg terhelést támogatott.",
+                "Az OLagoon hsziameni K+F központja 7 prototípust készített 2024 szeptembere és novembere között. A végleges terv 3 rétegű PVC-Dropstitch-PVC szendvicset használt további UV-reflektív felső bevonattal, amelyet 1 200 órás gyorsított UV-expozícióval teszteltek. Egy szabadalmaztatott 'Rails-to-Rail' merevítőrendszer oldalirányú merevséget adott extra súly nélkül. Carlos és az OLagoon közösen tervezett egy moduláris kameratartó sínt, amely megerősített párnákon át csavarozott — szívókorongok nélkül —, és 28 kg terhelés bírására tesztelték 30 km/h vontatási sebességnél. Minden deszka mindössze 11,8 kg-ot nyomott, de 220 kg terhelést támogatott.",
             },
             {
               title: 'Tartalomvezérelt előindítási kampány és limitált biomkiadások',
               detail:
-                "2024 decemberétől Carlos 5 mini-dokumentumfilmet adott ki (átlagosan 4,2 millió megtekintés darabonként), amelyek a prototípus-tesztelést mutatták be az egyes biomokban. Az Afarer dedikált Shopify D2C üzletet állított fel regionális logisztikai központokkal Manauban, São Paulóban és Brazíliavárosban. 5 biom-specifikus színváltozatot gyártottak (Rio Negro sötétvíz, Pantanal naplemente, São Francisco kanyonvörös, Paraná erdőzöld, Costa Dourada arany), mindegyik 100 darabra limitálva. A vásárlók 'örökbe fogadhatták' a biomjukat, és GPS-követett adományt kaptak Carlos Amazonas-újraerdősítési alapjába.",
+                "2024 decemberétől Carlos 5 mini-dokumentumfilmet adott ki (átlagosan 4,2 millió megtekintés darabonként), amelyek a prototípus-tesztelést mutatták be az egyes biomokban. Az OLagoon dedikált Shopify D2C üzletet állított fel regionális logisztikai központokkal Manauban, São Paulóban és Brazíliavárosban. 5 biom-specifikus színváltozatot gyártottak (Rio Negro sötétvíz, Pantanal naplemente, São Francisco kanyonvörös, Paraná erdőzöld, Costa Dourada arany), mindegyik 100 darabra limitálva. A vásárlók 'örökbe fogadhatták' a biomjukat, és GPS-követett adományt kaptak Carlos Amazonas-újraerdősítési alapjába.",
             },
             {
               title: '2025 áprilisi indítás és a brazil disztribúciós hálózat',
               detail:
-                "2025. április 5-én a 'Rios do Brasil Explorer 12.6' indult a São Pauló-i Ibirapuera Parkban 350 influencer és médiaszemélyiség jelenlétében. Mind az 500 darab 11 órán belül elkelt előrevételre — R$2,495 millió bevétel. Az Afarer 200 darabot légi szállítással juttatott ki, hogy megelőzzék az Amazonas száraz évszakát, míg 300 darab tengeri szállítással ment. Carlos biom-adományprogramja R$187 000-et gyűjtött az első hónapban. Az Afarer és Carlos 3 éves kizárólagossági megállapodást írt alá Latin-Amerikára, évi minimum 2 000 darabbal, és egy második modell (az 'Expedition Tandem') már fejlesztés alatt áll 2026-ra.",
+                "2025. április 5-én a 'Rios do Brasil Explorer 12.6' indult a São Pauló-i Ibirapuera Parkban 350 influencer és médiaszemélyiség jelenlétében. Mind az 500 darab 11 órán belül elkelt előrevételre — R$2,495 millió bevétel. Az OLagoon 200 darabot légi szállítással juttatott ki, hogy megelőzzék az Amazonas száraz évszakát, míg 300 darab tengeri szállítással ment. Carlos biom-adományprogramja R$187 000-et gyűjtött az első hónapban. Az OLagoon és Carlos 3 éves kizárólagossági megállapodást írt alá Latin-Amerikára, évi minimum 2 000 darabbal, és egy második modell (az 'Expedition Tandem') már fejlesztés alatt áll 2026-ra.",
             },
           ],
           results: [
@@ -1951,29 +1951,29 @@ const hu: Record<string, SolutionOverride> = {
           customer: {
             location: 'Oslo, Norvégia',
             background:
-              "A 29 éves Tor Haugen volt norvég válogatott sífutó, a CrossFit Games elődöntőse, 620 000 YouTube-feliratkozóval és 410 000 TikTok-követővel. 'Nordic Strength' fitneszcsatornája szabadban végzett edzéseket mutat be szokatlan felszerelésekkel. Egy vírusvideó (8,7 millió megtekintés) után, amelyen burpee-zik egy olcsó SUP-on az Osló-fjordban, a közössége olyan deszkát követelt, amelyet nagy intenzitású fitneszre építettek. Tornak nem volt terméktervezési tapasztalata, és szüksége volt az Afarerre, hogy stabil platformot tervezzen, amely ellenáll az ugrálásnak, súlyledobásnak és a skandináv szélsőséges időjárásnak.",
+              "A 29 éves Tor Haugen volt norvég válogatott sífutó, a CrossFit Games elődöntőse, 620 000 YouTube-feliratkozóval és 410 000 TikTok-követővel. 'Nordic Strength' fitneszcsatornája szabadban végzett edzéseket mutat be szokatlan felszerelésekkel. Egy vírusvideó (8,7 millió megtekintés) után, amelyen burpee-zik egy olcsó SUP-on az Osló-fjordban, a közössége olyan deszkát követelt, amelyet nagy intenzitású fitneszre építettek. Tornak nem volt terméktervezési tapasztalata, és szüksége volt az OLagoonre, hogy stabil platformot tervezzen, amely ellenáll az ugrálásnak, súlyledobásnak és a skandináv szélsőséges időjárásnak.",
             goal: "Az első CrossFit-stílusú edzésre tanúsított 'funkcionális fitnesz SUP' létrehozása, 2024 októberi indítással 3 990 NOK ($370 USD) áron, 1 000 darabos előrevétellel és egyidejű 20 városos európai turnéval.",
           },
           steps: [
             {
               title: 'Osló-fjordi prototípus-próbák terhelésmérő-cellás teszteléssel',
               detail:
-                "Az Afarer termékcsapata Marta Johansson szerkezeti mérnök vezetésével egy hetet töltött 2024 márciusában a oslói Kongshavn Marinában. 6 versenytárs deszkát szereltek fel 14 feszültségmérővel és gyorsulásmérővel, miközben Tor burpee-kat végzett (120 bpm tempó), rudat tartott fej felett (60 kg) és dobozugrásokat (50 cm-es doboz). Az eredmények azt mutatták, hogy a standard SUP deszkák a szabadidős evezés dinamikus terhelésének 3,7-szeresét élték meg. A fedélzet hajlása meghaladta a 22 mm-t — ami boka-stabilitás szempontjából veszélyes. Marta csapata kiszámította, hogy 200%-kal merevebb torziós dobozra van szükség egy egyedi 'drop-through' állóplatformmal.",
+                "Az OLagoon termékcsapata Marta Johansson szerkezeti mérnök vezetésével egy hetet töltött 2024 márciusában a oslói Kongshavn Marinában. 6 versenytárs deszkát szereltek fel 14 feszültségmérővel és gyorsulásmérővel, miközben Tor burpee-kat végzett (120 bpm tempó), rudat tartott fej felett (60 kg) és dobozugrásokat (50 cm-es doboz). Az eredmények azt mutatták, hogy a standard SUP deszkák a szabadidős evezés dinamikus terhelésének 3,7-szeresét élték meg. A fedélzet hajlása meghaladta a 22 mm-t — ami boka-stabilitás szempontjából veszélyes. Marta csapata kiszámította, hogy 200%-kal merevebb torziós dobozra van szükség egy egyedi 'drop-through' állóplatformmal.",
             },
             {
               title: 'Kompozit hossztartó platform és csúszásgátló fedélzettechnológia',
               detail:
-                '4 hónap alatt az Afarer 9 prototípust épített növekvő merevséggel. Az áttörés egy 2,5 mm-es tengeri minőségű alumínium hossztartó szendvicsből jött, amelyet két drop-stitch réteg közé ágyaztak, és olyan deszkát eredményezett, amely 0,8 mm-nél hajlik 100 kg dinamikus terhelés alatt. A fedélzet zárt cellás EVA habot használt 6 mm-es kiemelt gyémántmintával — Tor nedvesen, sózva és sárosan tesztelte, és azt találta, hogy a tapadása meghaladja a gördeszka tapadószalagját. Az Afarer D-gyűrűs rögzítéseket adott hozzá 22 ponton a deszka kerülete mentén ellenállási gumikötelekhez és súlytárcsákhoz. Minden deszkán bekapcsolható biztonsági kötélhorgony volt, amely 500 kg statikus terhelésre minősítve.',
+                '4 hónap alatt az OLagoon 9 prototípust épített növekvő merevséggel. Az áttörés egy 2,5 mm-es tengeri minőségű alumínium hossztartó szendvicsből jött, amelyet két drop-stitch réteg közé ágyaztak, és olyan deszkát eredményezett, amely 0,8 mm-nél hajlik 100 kg dinamikus terhelés alatt. A fedélzet zárt cellás EVA habot használt 6 mm-es kiemelt gyémántmintával — Tor nedvesen, sózva és sárosan tesztelte, és azt találta, hogy a tapadása meghaladja a gördeszka tapadószalagját. Az OLagoon D-gyűrűs rögzítéseket adott hozzá 22 ponton a deszka kerülete mentén ellenállási gumikötelekhez és súlytárcsákhoz. Minden deszkán bekapcsolható biztonsági kötélhorgony volt, amely 500 kg statikus terhelésre minősítve.',
             },
             {
               title: 'Nordic Strength közös márkázás és tanúsítási folyamat',
               detail:
-                "Tor és az Afarer létrehozta a 'Nordic Strength Trainer 11.0' márkázást, Tor védjegy kék-fehér színsémájával, amely illeszkedett a csatornaművészetéhez. Az Afarer segített Tornak az EU CE tanúsításban fitneszfelszerelékként (a standard SUP tanúsítástól külön folyamattal), amely 200 óra mechanikai fáradtsági tesztelést igényelt. A csomagolás QR-kódokat tartalmazott, amelyek Tor 12 hetes 'Fjord Fitness' edzőprogramjára mutattak, amelyet egy norvég sportorvosi klinikával partnerségben forgattak. Az Afarer európai disztribúciós központot állított fel Rotterdamban 20 ország kiszolgálására.",
+                "Tor és az OLagoon létrehozta a 'Nordic Strength Trainer 11.0' márkázást, Tor védjegy kék-fehér színsémájával, amely illeszkedett a csatornaművészetéhez. Az OLagoon segített Tornak az EU CE tanúsításban fitneszfelszerelékként (a standard SUP tanúsítástól külön folyamattal), amely 200 óra mechanikai fáradtsági tesztelést igényelt. A csomagolás QR-kódokat tartalmazott, amelyek Tor 12 hetes 'Fjord Fitness' edzőprogramjára mutattak, amelyet egy norvég sportorvosi klinikával partnerségben forgattak. Az OLagoon európai disztribúciós központot állított fel Rotterdamban 20 ország kiszolgálására.",
             },
             {
               title: '2024 októberi indítás 20 európai városban',
               detail:
-                "Tor 'Fjord to Peak' turnéja 2024. október 12-én indult az oslói Sørenga fürdőterületén 1 200 résztvevővel, akik csoportos SUP-edzést végeztek. 5 hét alatt Tor felkereste Koppenhágát, Hamburgot, Amszterdamot, Berlint, Varsót, Prágát, Münchent, Zürichet, Milánót, Barcelonát, Madridot, Párizst, Londont, Dublint, Edinburgot, Stockholmot, Helsinkit, Tallinnt és Rigát. Minden esemény 45 perces SUP fitneszórából és találkozóból állt. Mind az 1 000 indítási darab elkelt előrevételre az első esemény előtt; az Afarernek a turné közben kellett 500 további darabot légi szállítással értékesítenie. A 2024-es teljes értékesítés 2 300 darabot ért el 18 európai országban.",
+                "Tor 'Fjord to Peak' turnéja 2024. október 12-én indult az oslói Sørenga fürdőterületén 1 200 résztvevővel, akik csoportos SUP-edzést végeztek. 5 hét alatt Tor felkereste Koppenhágát, Hamburgot, Amszterdamot, Berlint, Varsót, Prágát, Münchent, Zürichet, Milánót, Barcelonát, Madridot, Párizst, Londont, Dublint, Edinburgot, Stockholmot, Helsinkit, Tallinnt és Rigát. Minden esemény 45 perces SUP fitneszórából és találkozóból állt. Mind az 1 000 indítási darab elkelt előrevételre az első esemény előtt; az OLagoonnek a turné közben kellett 500 további darabot légi szállítással értékesítenie. A 2024-es teljes értékesítés 2 300 darabot ért el 18 európai országban.",
             },
           ],
           results: [
@@ -1985,8 +1985,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják az alkotók az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják az alkotók az OLagoont',
       items: [
         {
           title: 'Termékszakértelem',
@@ -2014,38 +2014,38 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Mekkora a minimális rendelési mennyiség alkotói márkás SUP termékekhez?',
         answer:
-          'Az Afarer alacsony MOQ termelést támogat 100-300 darabtól kezdve az alkotói indítási szakaszokhoz, lehetővé téve a kereslet validálását hatalmas készletbefektetés nélkül. Ahogy a márkája nő, a termelést 500-2000 darabra és tovább skálázhatjuk.',
+          'Az OLagoon alacsony MOQ termelést támogat 100-300 darabtól kezdve az alkotói indítási szakaszokhoz, lehetővé téve a kereslet validálását hatalmas készletbefektetés nélkül. Ahogy a márkája nő, a termelést 500-2000 darabra és tovább skálázhatjuk.',
       },
       {
-        question: 'Segíthet az Afarer az egyedi SUP deszkám tervezésében és prototípus-készítésében?',
+        question: 'Segíthet az OLagoon az egyedi SUP deszkám tervezésében és prototípus-készítésében?',
         answer:
-          'Igen, az Afarer teljes körű termékkoncepció-fejlesztést, prototípus-készítést, szín- és grafikai tesztelést valamint konfiguráció-igazítást nyújt. Szorosan együtt dolgozunk az alkotókkal, hogy életre keltsük a víziójukat egyedi deszaktervekkel, védjegy grafikákkal és termékmintákkal.',
+          'Igen, az OLagoon teljes körű termékkoncepció-fejlesztést, prototípus-készítést, szín- és grafikai tesztelést valamint konfiguráció-igazítást nyújt. Szorosan együtt dolgozunk az alkotókkal, hogy életre keltsük a víziójukat egyedi deszaktervekkel, védjegy grafikákkal és termékmintákkal.',
       },
       {
         question: 'Mennyi ideig tart egy prototípus fejlesztése és a termelés megkezdése?',
         answer:
-          'Az Afarer a sebessést helyezi előtérbe az alkotói projektekben. A prototípus-fejlesztés jellemzően néhány hetet vesz igénybe, és a gyártási ütemtervek rugalmasak, hogy illeszkedjenek a kampányütemtervekhez, a szezonális időzítéshez és a közönségi lendülethez.',
+          'Az OLagoon a sebessést helyezi előtérbe az alkotói projektekben. A prototípus-fejlesztés jellemzően néhány hetet vesz igénybe, és a gyártási ütemtervek rugalmasak, hogy illeszkedjenek a kampányütemtervekhez, a szezonális időzítéshez és a közönségi lendülethez.',
       },
       {
         question: 'Tudják támogatni a Kickstarter kampányokat gyártással és teljesítéssel?',
         answer:
-          'Igen, az Afarer támogatja az indítás előtti prototípus-előkészítést, a kampánygyártási tervezést, a becsült ütemterv-fejlesztést és a kampány utáni tételes teljesítést, beleértve a csomagolási és szállítási előkészítést.',
+          'Igen, az OLagoon támogatja az indítás előtti prototípus-előkészítést, a kampánygyártási tervezést, a becsült ütemterv-fejlesztést és a kampány utáni tételes teljesítést, beleértve a csomagolási és szállítási előkészítést.',
       },
       {
         question: 'Milyen testreszabási lehetőségek érhetők el a limitált kiadású SUP deszkákhoz?',
         answer:
-          'Az Afarer egyedi grafikákat, védjegy művészetet, alkotói logókat, közösségi szimbólumokat, egyedi mintákat, különleges színkiadásokat, limitált sorszámozást és prémium csomagolást kínál márkás dobozokkal és történetanyagokkal.',
+          'Az OLagoon egyedi grafikákat, védjegy művészetet, alkotói logókat, közösségi szimbólumokat, egyedi mintákat, különleges színkiadásokat, limitált sorszámozást és prémium csomagolást kínál márkás dobozokkal és történetanyagokkal.',
       },
       {
-        question: 'Hogyan biztosítja az Afarer a minőségellenőrzést az alkotói márkás termékeknél?',
+        question: 'Hogyan biztosítja az OLagoon a minőségellenőrzést az alkotói márkás termékeknél?',
         answer:
-          'Az Afarer légnomastabilitás-tesztelést, deszka tartóssági ellenőrzését, anyagminőség-ellenőrzést, grafikai és színkonzisztencia-ellenőrzést, csomagolásminőség-áttekintést és teljes kiegészítő-ellenőrzést végez a közönsége bizalmának védelme érdekében.',
+          'Az OLagoon légnomastabilitás-tesztelést, deszka tartóssági ellenőrzését, anyagminőség-ellenőrzést, grafikai és színkonzisztencia-ellenőrzést, csomagolásminőség-áttekintést és teljes kiegészítő-ellenőrzést végez a közönsége bizalmának védelme érdekében.',
       },
     ],
     cta: {
-      title: 'Építse fel alkotói kiadású SUP márkáját az Afarerrel',
+      title: 'Építse fel alkotói kiadású SUP márkáját az OLagoonrel',
       subtitle:
-        'Közönsége már követi az útját. Most hozzon létre valamit, amit átélhetnek. Az Afarer segít az alkotóknak egyedi SUP termékeket, limitált kiadású deszkákat és private label kültéri felszerelést indítani.',
+        'Közönsége már követi az útját. Most hozzon létre valamit, amit átélhetnek. Az OLagoon segít az alkotóknak egyedi SUP termékeket, limitált kiadású deszkákat és private label kültéri felszerelést indítani.',
       primaryAction: {
         text: 'Indítsa el alkotói SUP projektjét még ma',
       },
@@ -2066,9 +2066,9 @@ const hu: Record<string, SolutionOverride> = {
       title:
         'Professzionális SUP felszerelési megoldások evezősklubok, kölcsönző üzemeltetők és vízisport iskolák számára',
       subtitle:
-        'Az Afarer kereskedelmi SUP flotta megoldásokat nyújt, amelyeket kifejezetten professzionális üzemeltetőknek terveztek. Segítünk a SUP iskoláknak, evezőskluboknak, kölcsönző cégeknek, üdülőknek, kalandüzemeltetőknek és rendezvényszervezőknek megbízható felszerelésflottákat építeni kereskedelmi minőségű konstrukcióval és hosszú távú támogatással.',
+        'Az OLagoon kereskedelmi SUP flotta megoldásokat nyújt, amelyeket kifejezetten professzionális üzemeltetőknek terveztek. Segítünk a SUP iskoláknak, evezőskluboknak, kölcsönző cégeknek, üdülőknek, kalandüzemeltetőknek és rendezvényszervezőknek megbízható felszerelésflottákat építeni kereskedelmi minőségű konstrukcióval és hosszú távú támogatással.',
       image: {
-        alt: 'Afarer kereskedelmi SUP flotta evezőskluboknak és vízisport iskoláknak',
+        alt: 'OLagoon kereskedelmi SUP flotta evezőskluboknak és vízisport iskoláknak',
       },
     },
     challenge: {
@@ -2102,7 +2102,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kereskedelmi minőségű felfújható SUP konstrukció',
           description:
-            'Az Afarer kereskedelmi SUP termékei megerősített PVC anyagrendszerekkel rendelkeznek magasabb kopásállósággal, többrétegű korláta-megerősítéssel ütésállóságért, nagy sűrűségű drop stitch szerkezettel merevségért és nehezék-szeleprendszerekkel, amelyeket gyakori felfújási ciklusokra terveztek.',
+            'Az OLagoon kereskedelmi SUP termékei megerősített PVC anyagrendszerekkel rendelkeznek magasabb kopásállósággal, többrétegű korláta-megerősítéssel ütésállóságért, nagy sűrűségű drop stitch szerkezettel merevségért és nehezék-szeleprendszerekkel, amelyeket gyakori felfújási ciklusokra terveztek.',
           features: [
             'Megerősített PVC anyagrendszer',
             'Többrétegű korláta-megerősítés',
@@ -2113,7 +2113,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Flottaoptimalizált SUP terméktervezés',
           description:
-            'Az Afarer üzemeltetési igények alapján fejleszt SUP felszerelést, dedikált oktatási flottákkal kezdőknek, kölcsönzési flottákkal gyakori felhasználóknak és rendezvényflottákkal csoportos tevékenységekhez. Minden konfiguráció a stabilitásra, a tartósságra és a könnyű karbantartásra összpontosít.',
+            'Az OLagoon üzemeltetési igények alapján fejleszt SUP felszerelést, dedikált oktatási flottákkal kezdőknek, kölcsönzési flottákkal gyakori felhasználóknak és rendezvényflottákkal csoportos tevékenységekhez. Minden konfiguráció a stabilitásra, a tartósságra és a könnyű karbantartásra összpontosít.',
           features: [
             'SUP oktatási flotta órákhoz',
             'Kölcsönzési flotta gyakori felhasználóknak',
@@ -2124,12 +2124,12 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Teljes kereskedelmi csomagkonfiguráció',
           description:
-            'Az Afarer segít teljes flottacsomagok összeállításában, beleértve a felfújható SUP deszkákat, professzionális evezőket, nagynyomású pumpákat, tartós köteleket, nehezék hátizsákokat és javítószettet, további opciókkal, mint tartalék szelepek, extra uszonyok és csere fogantyúk.',
+            'Az OLagoon segít teljes flottacsomagok összeállításában, beleértve a felfújható SUP deszkákat, professzionális evezőket, nagynyomású pumpákat, tartós köteleket, nehezék hátizsákokat és javítószettet, további opciókkal, mint tartalék szelepek, extra uszonyok és csere fogantyúk.',
         },
         {
           title: 'Flottatestreszabás vízivállalkozásoknak',
           description:
-            'A kereskedelmi üzemeltetőknek erős vizuális identitás kell. Az Afarer támogatja a logótestreszabást, a klubmárkázáshoz vagy üdülői környezethez illeszkedő színtestreszabást és a flottaazonosítási rendszereket számozott nyomással és modelfelismeréssel a nagy flották hatékony kezeléséhez.',
+            'A kereskedelmi üzemeltetőknek erős vizuális identitás kell. Az OLagoon támogatja a logótestreszabást, a klubmárkázáshoz vagy üdülői környezethez illeszkedő színtestreszabást és a flottaazonosítási rendszereket számozott nyomással és modelfelismeréssel a nagy flották hatékony kezeléséhez.',
           features: [
             'Logótestreszabás',
             'Színtestreszabás',
@@ -2140,27 +2140,27 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Hosszú távú üzemeltetési költségek csökkentése',
           description:
-            'A legolcsóbb deszka nem mindig a legjövedelmezőbb. Az Afarer megoldásai javítják a felszerelés élettartamát erősebb anyagokkal, a karbantartási hatékonyságot szabványosított alkatrészekkel és az üzleti jövedelmezőséget kevesebb állásidővel és magasabb kihasználtsággal.',
+            'A legolcsóbb deszka nem mindig a legjövedelmezőbb. Az OLagoon megoldásai javítják a felszerelés élettartamát erősebb anyagokkal, a karbantartási hatékonyságot szabványosított alkatrészekkel és az üzleti jövedelmezőséget kevesebb állásidővel és magasabb kihasználtsággal.',
         },
         {
           title: 'Támogatás SUP kölcsönző vállalkozásoknak',
           description:
-            'A kölcsönző üzemeltetőknek olyan felszerelés kell, amely könnyű a vásárlóknak, könnyű a személyzetnek és könnyen karbantartható. Az Afarer kezdőbarát terveket nyújt magas stabilitással, gyors működést a gyorsabb vásárlói forgalomhoz és tartós kiegészítőket, beleértve az erős evezőket és megbízható pumpákat.',
+            'A kölcsönző üzemeltetőknek olyan felszerelés kell, amely könnyű a vásárlóknak, könnyű a személyzetnek és könnyen karbantartható. Az OLagoon kezdőbarát terveket nyújt magas stabilitással, gyors működést a gyorsabb vásárlói forgalomhoz és tartós kiegészítőket, beleértve az erős evezőket és megbízható pumpákat.',
         },
         {
           title: 'SUP iskolai felszerelési megoldások',
           description:
-            'A SUP oktatóknak olyan felszerelés kell, amely támogatja a tanulást. Az Afarer termékek optimalizálhatók kezdő tanfolyamokra, ifjúsági programokra, csoportos oktatásra és oktatói bemutatókra olyan funkciókkal, amelyek javítják az oktatási élményt.',
+            'A SUP oktatóknak olyan felszerelés kell, amely támogatja a tanulást. Az OLagoon termékek optimalizálhatók kezdő tanfolyamokra, ifjúsági programokra, csoportos oktatásra és oktatói bemutatókra olyan funkciókkal, amelyek javítják az oktatási élményt.',
         },
         {
           title: 'Rendezvény- és üdülői vízi tevékenységi megoldások',
           description:
-            'A szállodák, üdülők és rendezvénycégek egyre gyakrabban kínálnak tengerparti tevékenységeket, csapatépítést és kültéri élményeket. Az Afarer támogatja a flottatervezést, a terméktestreszabást és a tételgyártást ezekhez a vendéglátó alkalmazásokhoz.',
+            'A szállodák, üdülők és rendezvénycégek egyre gyakrabban kínálnak tengerparti tevékenységeket, csapatépítést és kültéri élményeket. Az OLagoon támogatja a flottatervezést, a terméktestreszabást és a tételgyártást ezekhez a vendéglátó alkalmazásokhoz.',
         },
         {
           title: 'Karbantartási és értékesítés utáni támogatás',
           description:
-            'A professzionális üzemeltetőknek a leszállítás után is támogatás kell. Az Afarer tartalék alkatrész-tervezést nyújt javítóanyagokkal és csere kiegészítőkkel, karbantartási útmutatást a tároláshoz és tisztításhoz, valamint flottabővítési támogatást új deszkák és modellek hozzáadásához.',
+            'A professzionális üzemeltetőknek a leszállítás után is támogatás kell. Az OLagoon tartalék alkatrész-tervezést nyújt javítóanyagokkal és csere kiegészítőkkel, karbantartási útmutatást a tároláshoz és tisztításhoz, valamint flottabővítési támogatást új deszkák és modellek hozzáadásához.',
           features: [
             'Tartalék alkatrész-tervezés',
             'Karbantartási útmutatás',
@@ -2182,7 +2182,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kereskedelmi flottatervezés',
           detail:
-            'Az Afarer elemezte a napi használati mintákat, a vásárlói képzettségi szinteket és a vízi környezeti feltételeket, majd kereskedelmi felfújható SUP flotta-konfigurációt javasolt, amelyet a klub üzemeltetési igényeihez szabtak.',
+            'Az OLagoon elemezte a napi használati mintákat, a vásárlói képzettségi szinteket és a vízi környezeti feltételeket, majd kereskedelmi felfújható SUP flotta-konfigurációt javasolt, amelyet a klub üzemeltetési igényeihez szabtak.',
         },
         {
           title: 'Termékfejlesztés',
@@ -2214,35 +2214,35 @@ const hu: Record<string, SolutionOverride> = {
           customer: {
             location: 'Dubaj, Egyesült Arab Emírségek',
             background:
-              "A 41 éves Ahmad Al-Rashid 2020-ban alapította a 'Dubai Paddle Club'ot 8 belépő szintű SUP-pal, amelyeket a Dubai Marina közelében egy szállítótárolóból kölcsönzött. 2023-ra a működése organikusan 45 deszkára nőtt két telephelyen, de éves szinten 60%-os készletveszteséget szenvedett elaminálásból, UV-károsodásból és sós víz okozta korrózióból. Az átlagos deszka-élettartam mindössze 7 hónap volt. Ahmad 12 fős személyzete heti 22 órát töltött javítással ahelyett, hogy vásárlókat szolgáltak volna ki. Az Afarerhez fordult, miután egy versenytársa ajánlotta, hogy az iSUP-jaik 3+ évig bírják a közel-keleti körülményeket.",
+              "A 41 éves Ahmad Al-Rashid 2020-ban alapította a 'Dubai Paddle Club'ot 8 belépő szintű SUP-pal, amelyeket a Dubai Marina közelében egy szállítótárolóból kölcsönzött. 2023-ra a működése organikusan 45 deszkára nőtt két telephelyen, de éves szinten 60%-os készletveszteséget szenvedett elaminálásból, UV-károsodásból és sós víz okozta korrózióból. Az átlagos deszka-élettartam mindössze 7 hónap volt. Ahmad 12 fős személyzete heti 22 órát töltött javítással ahelyett, hogy vásárlókat szolgáltak volna ki. Az OLagoonhez fordult, miután egy versenytársa ajánlotta, hogy az iSUP-jaik 3+ évig bírják a közel-keleti körülményeket.",
             goal: 'Standardizálás egyetlen tartós, 200 deszkából álló flottára, amely 3 telephelyet szolgál ki (Dubai Marina, Abu Dhabi Corniche és Fujairah Beach), évi ≤15%-os cserearányal és deszkánként 40%-kal magasabb havi kihasználtsággal.',
           },
           steps: [
             {
               title: '14 deszka stressztesztje az EAE nyári körülményei között',
               detail:
-                '2024 májusában az Afarer Karim Nasr regionális értékesítési igazgatót és Sophie Chen termékmérnököt küldte Dubajba egy 6 hetes tereptesztre. 14 versenytárs iSUP-ot és 6 Afarer prototípust telepítettek mind a 3 telephelyen a nyári csúcsidőszakban (48 °C léghőmérséklet, 35 °C víz, 11 UV-index). Ahmad személyzete 1 100+ kölcsönzési órát naplózott adatokkal a felfújás-tartásról, szelepmeghibásodásról, kopásról és vásárlói elégedettségről. Az Afarer XHD 15,0 mm-es deszkái mindössze 0,3 PSI-t veszítettek 8 óra alatt a versenytársak átlagosan 2,1 PSI-jával szemben. Az Afarer deszkáknál nulla szelepmeghibásodást mutattak — a versenytársaknál 120 kölcsönzési óránként átlagosan 1 meghibásodás.',
+                '2024 májusában az OLagoon Karim Nasr regionális értékesítési igazgatót és Sophie Chen termékmérnököt küldte Dubajba egy 6 hetes tereptesztre. 14 versenytárs iSUP-ot és 6 OLagoon prototípust telepítettek mind a 3 telephelyen a nyári csúcsidőszakban (48 °C léghőmérséklet, 35 °C víz, 11 UV-index). Ahmad személyzete 1 100+ kölcsönzési órát naplózott adatokkal a felfújás-tartásról, szelepmeghibásodásról, kopásról és vásárlói elégedettségről. Az OLagoon XHD 15,0 mm-es deszkái mindössze 0,3 PSI-t veszítettek 8 óra alatt a versenytársak átlagosan 2,1 PSI-jával szemben. Az OLagoon deszkáknál nulla szelepmeghibásodást mutattak — a versenytársaknál 120 kölcsönzési óránként átlagosan 1 meghibásodás.',
             },
             {
               title: 'Egyedi flottakonfiguráció RFID-követéssel és színkódolással',
               detail:
-                "A terepadatok alapján az Afarer 3 deszkás flottakeveréket javasolt: 120 'Marina Pro 11.6' (all-around), 50 'Expedition 12.6' ( túra, Fujairah partvonalához) és 30 'Yoga XL 10.8' (nők vezette napfelkelte órákhoz). Az Afarer RFID-címkéket épített minden deszka uszonydoboxába az Ahmad egyedi készletkezelő rendszeréhez kézi olvasókkal. A deszkákat telephely szerint színkódolták: Dubai Marina türkiz, Abu Dhabi homok, Fujairah óceánkék. Ahmad $5/órás felárat adott az Afarer deszkákhoz a megmaradt általános flottájához képest — és a vásárlók 92%-a az Afarert választotta.",
+                "A terepadatok alapján az OLagoon 3 deszkás flottakeveréket javasolt: 120 'Marina Pro 11.6' (all-around), 50 'Expedition 12.6' ( túra, Fujairah partvonalához) és 30 'Yoga XL 10.8' (nők vezette napfelkelte órákhoz). Az OLagoon RFID-címkéket épített minden deszka uszonydoboxába az Ahmad egyedi készletkezelő rendszeréhez kézi olvasókkal. A deszkákat telephely szerint színkódolták: Dubai Marina türkiz, Abu Dhabi homok, Fujairah óceánkék. Ahmad $5/órás felárat adott az OLagoon deszkákhoz a megmaradt általános flottájához képest — és a vásárlók 92%-a az OLagoont választotta.",
             },
             {
               title: 'Személyzetképzés és szabványosított karbantartási protokoll',
               detail:
-                '2024 júliusában az Afarer 3 napos intenzív képzést tartott Ahmad 15 fős személyzetének a Dubai Marinában. A képzés a következőket fedte le: megfelelő felfújási/leeresztési technika a szelepmenet-kopás megelőzéséhez, édesvízes öblítési protokollok (deszkánként 90 másodpercre időzítve), UV-védő alkalmazása 30 kölcsönzési óránként és tárolási egymásra helyezési eljárások a gyűrődés megelőzéséhez. Az Afarer egyedi karbantartási szettet szállított kalibrált nyomásmérőkkel, szilikon kenőanyaggal és UV-tesztcsíkokkal. Ahmad napi digitális ellenőrzőlistát vezetett be fotókkal; a megfelelés nyomon követve átlagosan 94% volt az első 6 hónapban.',
+                '2024 júliusában az OLagoon 3 napos intenzív képzést tartott Ahmad 15 fős személyzetének a Dubai Marinában. A képzés a következőket fedte le: megfelelő felfújási/leeresztési technika a szelepmenet-kopás megelőzéséhez, édesvízes öblítési protokollok (deszkánként 90 másodpercre időzítve), UV-védő alkalmazása 30 kölcsönzési óránként és tárolási egymásra helyezési eljárások a gyűrődés megelőzéséhez. Az OLagoon egyedi karbantartási szettet szállított kalibrált nyomásmérőkkel, szilikon kenőanyaggal és UV-tesztcsíkokkal. Ahmad napi digitális ellenőrzőlistát vezetett be fotókkal; a megfelelés nyomon követve átlagosan 94% volt az első 6 hónapban.',
             },
             {
               title: '2024 augusztusi indítás és az első szezon eredményei',
               detail:
-                'A 200 deszkából álló flotta 2024. augusztus 1-jén érkezett a dubaji Jebel Ali kikötőn keresztül, Ahmad csapatának képzésével együtt. Az első havi bevétel AED 487 000 ($132 600) volt, 210%-kal több az előző év azonos hónapjához képest. A Fujairah telephely búvár-SUP túrákat adott hozzá AED 220/fő áron, napi átlagosan 40 lovassal. 2024 decemberére a teljes flottakihasználtság 73% volt az összes telephelyen — az iparági átlag 45%. Csak 3 deszka sérült (mind vásárlói visszaélés), amelyeket az Afarer kereskedelmi garanciája alatt javítottak, mindegyiket 5 munkanapon belül.',
+                'A 200 deszkából álló flotta 2024. augusztus 1-jén érkezett a dubaji Jebel Ali kikötőn keresztül, Ahmad csapatának képzésével együtt. Az első havi bevétel AED 487 000 ($132 600) volt, 210%-kal több az előző év azonos hónapjához képest. A Fujairah telephely búvár-SUP túrákat adott hozzá AED 220/fő áron, napi átlagosan 40 lovassal. 2024 decemberére a teljes flottakihasználtság 73% volt az összes telephelyen — az iparági átlag 45%. Csak 3 deszka sérült (mind vásárlói visszaélés), amelyeket az OLagoon kereskedelmi garanciája alatt javítottak, mindegyiket 5 munkanapon belül.',
             },
           ],
           results: [
             'A havi flottabevétel AED 157 000-ról AED 487 000-re ($132 600) nőtt — 210%-os növekedés 6 hónap alatt',
             'Az éves deszka-cserearány 60%-ról 4,5%-ra esett, évente megközelítőleg AED 312 000 megtakarítással',
-            'A vásárlói elégedettségi pontszámok 3,8/5-ról (általános flotta) 4,7/5-re nőttek (Afarer flotta); a Google Reviews 187-ről 1 420-ra nőtt',
+            'A vásárlói elégedettségi pontszámok 3,8/5-ról (általános flotta) 4,7/5-re nőttek (OLagoon flotta); a Google Reviews 187-ről 1 420-ra nőtt',
             'Ahmad 2025 februárjában 4. telephellyel bővült (Ras Al Khaimah), 80 további deszka megrendelésével',
           ],
         },
@@ -2258,26 +2258,26 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Szigetről szigetre felmérés és terméktestreszabás',
               detail:
-                "Az Afarer EMEA ügyfélkapcsolati igazgatója, Stefan Berger 2024 áprilisában meglátogatta mind az 5 szigetet Dimitrivel. Minden telephelyen más körülmények voltak: Szantorini vulkanikus homokja (csiszoló, 8,2 pH), Mükónosz szélnek kitett strandjai ( következetes 20–25 csomós Meltemi szél), Naxosz sekély sziklás belépési pontjai, amelyek megerősített orrot igényeltek, Parosz hosszú parti ösvényei (8–12 km) és Kréta családbarát nyugodt öblei. Az Afarer 3 szabott modellt fejlesztett: a 'Med RockShield 11.0'-t 50%-kal vastagabb orrvédővel (2 000 homokkő feletti vonszolásra tesztelve), a 'Meltemi Pro 10.6'-ot alacsony profilú fedélzettel a szélstabilitáshoz és a 'Family Cruiser 11.6'-ot 275 kg teherbírással szülő-gyerek használatra.",
+                "Az OLagoon EMEA ügyfélkapcsolati igazgatója, Stefan Berger 2024 áprilisában meglátogatta mind az 5 szigetet Dimitrivel. Minden telephelyen más körülmények voltak: Szantorini vulkanikus homokja (csiszoló, 8,2 pH), Mükónosz szélnek kitett strandjai ( következetes 20–25 csomós Meltemi szél), Naxosz sekély sziklás belépési pontjai, amelyek megerősített orrot igényeltek, Parosz hosszú parti ösvényei (8–12 km) és Kréta családbarát nyugodt öblei. Az OLagoon 3 szabott modellt fejlesztett: a 'Med RockShield 11.0'-t 50%-kal vastagabb orrvédővel (2 000 homokkő feletti vonszolásra tesztelve), a 'Meltemi Pro 10.6'-ot alacsony profilú fedélzettel a szélstabilitáshoz és a 'Family Cruiser 11.6'-ot 275 kg teherbírással szülő-gyerek használatra.",
             },
             {
               title: 'Kereskedelmi minőségű konstrukció és moduláris kiegészítő-sín',
               detail:
-                "Az Afarer hsziameni gyára 1 200 denier PVC-ből készült deszkákat gyártott (a standard 1 000D helyett), dupla hegesztett varratokkal, amelyeket 14 PSI repedéstartalomra teszteltek (ipari standard 10 PSI), és rozsdamentes acél D-gyűrűkkel műanyag-hegesztett helyett. Minden deszka tartalmazta az Afarer új 'QuickRail' rendszerét — egy extrudált alumínium profilt, amelyet a korlátba ragasztottak —, amely lehetővé tette Dimitri számára, hogy GoPro tartókat, vizespalack-tartókat és horgászbot-tartókat csippentsen rá. Ez deszkánként napi €12-vel növelte a kiegészítő-kölcsönzési bevételt. Az Afarer reflektáló logókat adott hozzá a láthatóságért: kulcsfontosságú, amikor a mükónoszi kikötői őrség a naplemente után szabályozza a vízi járműveket.",
+                "Az OLagoon hsziameni gyára 1 200 denier PVC-ből készült deszkákat gyártott (a standard 1 000D helyett), dupla hegesztett varratokkal, amelyeket 14 PSI repedéstartalomra teszteltek (ipari standard 10 PSI), és rozsdamentes acél D-gyűrűkkel műanyag-hegesztett helyett. Minden deszka tartalmazta az OLagoon új 'QuickRail' rendszerét — egy extrudált alumínium profilt, amelyet a korlátba ragasztottak —, amely lehetővé tette Dimitri számára, hogy GoPro tartókat, vizespalack-tartókat és horgászbot-tartókat csippentsen rá. Ez deszkánként napi €12-vel növelte a kiegészítő-kölcsönzési bevételt. Az OLagoon reflektáló logókat adott hozzá a láthatóságért: kulcsfontosságú, amikor a mükónoszi kikötői őrség a naplemente után szabályozza a vízi járműveket.",
             },
             {
               title: 'Szezont megelőző személyzet-tanúsítás és flottakezelő rendszer',
               detail:
-                '2024 májusában az Afarer képezte Dimitri 22 fős személyzetét az összes szigeten egy 2 napos műhelymunka keretében Szantorinin. A képzés a következőket tartalmazta: sziklás kikötési technika a csiszolódás minimalizálásához, megfelelő felfújás 14–16 PSI hangolással a vízhőmérséklethez (18–26 °C szezonális ingadozás), sürgősségi terepjavítás PVC foltokkal ( az oktató minden hallgatót tesztelt, hogy 6 perc alatt befejezzen egy javítást), és vásárlói felszerelési protokollok a súlynak megfelelő deszkaválasztás biztosításához. Az Afarer digitális flotta-irányítópultot biztosított, amely minden deszka kölcsönzési óráit, karbantartási előzményeit és GPS-alapú helyzetét mutatta. A szezon végére a terepjavítások 97%-át a személyzet kezelte az Afarer hívása nélkül.',
+                '2024 májusában az OLagoon képezte Dimitri 22 fős személyzetét az összes szigeten egy 2 napos műhelymunka keretében Szantorinin. A képzés a következőket tartalmazta: sziklás kikötési technika a csiszolódás minimalizálásához, megfelelő felfújás 14–16 PSI hangolással a vízhőmérséklethez (18–26 °C szezonális ingadozás), sürgősségi terepjavítás PVC foltokkal ( az oktató minden hallgatót tesztelt, hogy 6 perc alatt befejezzen egy javítást), és vásárlói felszerelési protokollok a súlynak megfelelő deszkaválasztás biztosításához. Az OLagoon digitális flotta-irányítópultot biztosított, amely minden deszka kölcsönzési óráit, karbantartási előzményeit és GPS-alapú helyzetét mutatta. A szezon végére a terepjavítások 97%-át a személyzet kezelte az OLagoon hívása nélkül.',
             },
             {
               title: '2024. június–októberi szezon: Indítás, kirándulások és megtérülés',
               detail:
-                'Dimitri 2024. június 1-jén indította az új flottát az összes szigeten egyidejűleg. A vezetett SUP kirándulási termék (€55/fő a 3 órás parti felfedezéshez búvármegállóval) június 15-én indult, napi 4 túrával Szantorini Vörös strandjáról és Naxosz Agios Prokopioszából. Augusztusra a kirándulás-foglalások elérték a heti 2 100-at az összes szigeten. A teljes szezonális bevétel (június–október) €2,85 millió volt, 137%-kal több mint a 2023-as €1,2 millió. A deszkajavítási költségek €22 000-ről €2 800-ra estek. Csak 4 deszkát töröltek le (mind vásárlói okból, javíthatatlanul). A szezon végén Dimitri 100 további deszkát rendelt a 2025-ös szezonra, és kérte az Afarert, hogy fejlesszen pedálmeghajtású SUP átalakító szettet.',
+                'Dimitri 2024. június 1-jén indította az új flottát az összes szigeten egyidejűleg. A vezetett SUP kirándulási termék (€55/fő a 3 órás parti felfedezéshez búvármegállóval) június 15-én indult, napi 4 túrával Szantorini Vörös strandjáról és Naxosz Agios Prokopioszából. Augusztusra a kirándulás-foglalások elérték a heti 2 100-at az összes szigeten. A teljes szezonális bevétel (június–október) €2,85 millió volt, 137%-kal több mint a 2023-as €1,2 millió. A deszkajavítási költségek €22 000-ről €2 800-ra estek. Csak 4 deszkát töröltek le (mind vásárlói okból, javíthatatlanul). A szezon végén Dimitri 100 további deszkát rendelt a 2025-ös szezonra, és kérte az OLagoont, hogy fejlesszen pedálmeghajtású SUP átalakító szettet.',
             },
           ],
           results: [
-            'A szezonális bevétel 137%-kal nőtt €1,2 millióról €2,85 millióra az Afarer telepítésének első évében',
+            'A szezonális bevétel 137%-kal nőtt €1,2 millióról €2,85 millióra az OLagoon telepítésének első évében',
             'A deszkajavítási költségek €22 000-ről €2 800-ra estek — 87%-os csökkenés, €19 200 megtakarítás',
             'Csak 4 a 200 deszkából lett leírva (2% éves veszteség a korábbi flotta 35%-ával szemben); becsült 4–5 szezonos élettartam',
             'A vezetett kirándulási termék €843 000-et generált az első szezonban 87%-os profitaránnyal; 4,9/5 TripAdvisor értékelés',
@@ -2285,8 +2285,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják az evezősklubok az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják az evezősklubok az OLagoont',
       items: [
         {
           title: 'Üzleti működés',
@@ -2296,7 +2296,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kereskedelmi tartósság',
           description:
-            'Az Afarer termékek napi professzionális használatra készülnek megerősített konstrukcióval, erősebb anyagokkal és szigorú teszteléssel.',
+            'Az OLagoon termékek napi professzionális használatra készülnek megerősített konstrukcióval, erősebb anyagokkal és szigorú teszteléssel.',
         },
         {
           title: 'Flottakezelés',
@@ -2306,15 +2306,15 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Hosszú távú partnerség',
           description:
-            'Az Afarer támogatja az Ön üzleti növekedését tartalék alkatrészekkel, karbantartási útmutatással és bővítési tervezéssel a kezdeti vásárláson túl.',
+            'Az OLagoon támogatja az Ön üzleti növekedését tartalék alkatrészekkel, karbantartási útmutatással és bővítési tervezéssel a kezdeti vásárláson túl.',
         },
       ],
     },
     faqs: [
       {
-        question: 'Mi teszi az Afarer SUP deszkákat alkalmassá kereskedelmi evezősklubok számára?',
+        question: 'Mi teszi az OLagoon SUP deszkákat alkalmassá kereskedelmi evezősklubok számára?',
         answer:
-          'Az Afarer kereskedelmi SUP deszkái megerősített PVC konstrukcióval, többrétegű korláta-megerősítéssel, nagy sűrűségű drop stitch szerkezettel és nehezék szeleprendszerekkel rendelkeznek, amelyeket kifejezetten a kölcsönzési és oktatási környezetben történő napi nagy frekvenciájú használatra terveztek.',
+          'Az OLagoon kereskedelmi SUP deszkái megerősített PVC konstrukcióval, többrétegű korláta-megerősítéssel, nagy sűrűségű drop stitch szerkezettel és nehezék szeleprendszerekkel rendelkeznek, amelyeket kifejezetten a kölcsönzési és oktatási környezetben történő napi nagy frekvenciájú használatra terveztek.',
       },
       {
         question: 'Mi a különbség a fogyasztói és a kereskedelmi minőségű SUP felszerelés között?',
@@ -2322,30 +2322,30 @@ const hu: Record<string, SolutionOverride> = {
           'A kereskedelmi minőségű SUP deszkák erősebb anyagokat, megerősített konstrukciót és tartósabb alkatrészeket használnak, hogy ellenálljanak a több felhasználó általi napi használatnak. A fogyasztói deszkákat alkalmankénti szabadidős használatra tervezték, és kereskedelmi körülmények között gyorsan elhasználódnak.',
       },
       {
-        question: 'Testreszabhatja az Afarer a SUP deszkákat a klubom logójával és színeivel?',
+        question: 'Testreszabhatja az OLagoon a SUP deszkákat a klubom logójával és színeivel?',
         answer:
-          'Igen, az Afarer teljes flottatestreszabást kínál, beleértve a logóelhelyezést, márkaszíneket, deszka-számozási rendszereket, modellfelismerést és oktatói deszkajelöléseket a következetes és professzionális flottaidentitás létrehozásához.',
+          'Igen, az OLagoon teljes flottatestreszabást kínál, beleértve a logóelhelyezést, márkaszíneket, deszka-számozási rendszereket, modellfelismerést és oktatói deszkajelöléseket a következetes és professzionális flottaidentitás létrehozásához.',
       },
       {
-        question: 'Mennyi az Afarer kereskedelmi SUP deszkájának jellemző élettartama?',
+        question: 'Mennyi az OLagoon kereskedelmi SUP deszkájának jellemző élettartama?',
         answer:
-          'Megfelelő karbantartással az Afarer kereskedelmi SUP deszkái jelentősen túlélik a fogyasztói minőségű termékeket, csökkentve a cserék gyakoriságát és a teljes tulajdonlási költséget. A pontos élettartam a használat intenzitásától és a karbantartási gyakorlattól függ.',
+          'Megfelelő karbantartással az OLagoon kereskedelmi SUP deszkái jelentősen túlélik a fogyasztói minőségű termékeket, csökkentve a cserék gyakoriságát és a teljes tulajdonlási költséget. A pontos élettartam a használat intenzitásától és a karbantartási gyakorlattól függ.',
       },
       {
         question: 'Kínálnak tartalék alkatrészeket és karbantartási támogatást flottaüzemeltetőknek?',
         answer:
-          'Igen, az Afarer átfogó értékesítés utáni támogatást nyújt, beleértve a tartalék alkatrész-tervezést, javítóanyagokat, csere kiegészítőket, karbantartási útmutatást, tárolási ajánlásokat és tisztítási utasításokat.',
+          'Igen, az OLagoon átfogó értékesítés utáni támogatást nyújt, beleértve a tartalék alkatrész-tervezést, javítóanyagokat, csere kiegészítőket, karbantartási útmutatást, tárolási ajánlásokat és tisztítási utasításokat.',
       },
       {
-        question: 'Milyen flottaméreteket tud az Afarer támogatni az evezőskluboknak?',
+        question: 'Milyen flottaméreteket tud az OLagoon támogatni az evezőskluboknak?',
         answer:
-          'Az Afarer minden méretű flottát támogat a kis kluboktól (10–30 deszka) a nagy üzemeltetésig (100+ deszka). Tömeges beszerzési megoldásokat, következetes termékminőséget és bővítési támogatást nyújtunk, ahogy az üzlete növekszik.',
+          'Az OLagoon minden méretű flottát támogat a kis kluboktól (10–30 deszka) a nagy üzemeltetésig (100+ deszka). Tömeges beszerzési megoldásokat, következetes termékminőséget és bővítési támogatást nyújtunk, ahogy az üzlete növekszik.',
       },
     ],
     cta: {
-      title: 'Építse meg kereskedelmi SUP flottáját az Afarerrel',
+      title: 'Építse meg kereskedelmi SUP flottáját az OLagoonrel',
       subtitle:
-        'A felszerelése az üzlete alapja. Válasszon olyan termékeket, amelyeket a mindennapi teljesítményre terveztek. Az Afarer segít az evezőskluboknak, SUP iskoláknak, kölcsönző üzemeltetőknek és üdülőknek professzionális SUP flották kialakításában megbízható gyártási támogatással.',
+        'A felszerelése az üzlete alapja. Válasszon olyan termékeket, amelyeket a mindennapi teljesítményre terveztek. Az OLagoon segít az evezőskluboknak, SUP iskoláknak, kölcsönző üzemeltetőknek és üdülőknek professzionális SUP flották kialakításában megbízható gyártási támogatással.',
       primaryAction: {
         text: 'Indítsa el kereskedelmi SUP projektjét még ma',
       },
@@ -2366,9 +2366,9 @@ const hu: Record<string, SolutionOverride> = {
       title:
         'Kereskedelmi SUP felszerelési megoldások kölcsönző vállalkozások, strandok és turisztikai célállomások számára',
       subtitle:
-        'Az Afarer tartós kölcsönzési flotta megoldásokat nyújt, amelyeket kifejezetten kereskedelmi kölcsönző vállalkozásoknak terveztek. Segítünk a strandkölcsönző cégeknek, tavi tevékenységüzemeltetőknek, üdülői víziközpontoknak és kalandturisztikai vállalkozásoknak jövedelmező SUP flottákat építeni tartós konstrukcióval és könnyű karbantartással.',
+        'Az OLagoon tartós kölcsönzési flotta megoldásokat nyújt, amelyeket kifejezetten kereskedelmi kölcsönző vállalkozásoknak terveztek. Segítünk a strandkölcsönző cégeknek, tavi tevékenységüzemeltetőknek, üdülői víziközpontoknak és kalandturisztikai vállalkozásoknak jövedelmező SUP flottákat építeni tartós konstrukcióval és könnyű karbantartással.',
       image: {
-        alt: 'Afarer tartós kölcsönző SUP flotta strand- és vízisport üzemeltetőknek',
+        alt: 'OLagoon tartós kölcsönző SUP flotta strand- és vízisport üzemeltetőknek',
       },
     },
     challenge: {
@@ -2402,7 +2402,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kölcsönzési minőségű felfújható SUP konstrukció',
           description:
-            'Az Afarer kölcsönző SUP termékei a gyakorlati tartósságra összpontosítanak kopásálló PVC anyaggal, megerősített korlát-konstrukcióval a gyakori ütésekhez, tartós drop stitch szerkezettel stabil teljesítményhez és nagy tartósságú szeleprendszerekkel, amelyeket napi működésre terveztek.',
+            'Az OLagoon kölcsönző SUP termékei a gyakorlati tartósságra összpontosítanak kopásálló PVC anyaggal, megerősített korlát-konstrukcióval a gyakori ütésekhez, tartós drop stitch szerkezettel stabil teljesítményhez és nagy tartósságú szeleprendszerekkel, amelyeket napi működésre terveztek.',
           features: [
             'Kopásálló PVC anyag',
             'Megerősített korlát-konstrukció',
@@ -2413,7 +2413,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Költségoptimalizált kölcsönző SUP dizájn',
           description:
-            'A kölcsönző vásárlóknak nincs szükségük versenyszintű teljesítményre. Stabilitásra, biztonságra, egyszerű használatra és megbízhatóságra van szükségük. Az Afarer stabil all-around formákkal, szabványosított kiegészítőkkel és gyakorlati csomagolással konfigurálja a termékeket a gyorsabb felszereléskezeléshez.',
+            'A kölcsönző vásárlóknak nincs szükségük versenyszintű teljesítményre. Stabilitásra, biztonságra, egyszerű használatra és megbízhatóságra van szükségük. Az OLagoon stabil all-around formákkal, szabványosított kiegészítőkkel és gyakorlati csomagolással konfigurálja a termékeket a gyorsabb felszereléskezeléshez.',
           features: [
             'Stabil all-around forma kezdőknek',
             'Szabványosított kiegészítők',
@@ -2424,17 +2424,17 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Teljes kölcsönzési flottacsomag',
           description:
-            'Az Afarer használatra kész kölcsönzési csomagokat hoz létre, beleértve a tartós felfújható SUP deszkákat, állítható evezőket, pumpákat, köteleket, hordozó hátizsákokat és javítószetteket, kereskedelmi kiegészítő opciókkal, mint tartalék uszonyok, extra evezők, csere szelepek és tárolási megoldások.',
+            'Az OLagoon használatra kész kölcsönzési csomagokat hoz létre, beleértve a tartós felfújható SUP deszkákat, állítható evezőket, pumpákat, köteleket, hordozó hátizsákokat és javítószetteket, kereskedelmi kiegészítő opciókkal, mint tartalék uszonyok, extra evezők, csere szelepek és tárolási megoldások.',
         },
         {
           title: 'Tömeges flottabeszerzési megoldások',
           description:
-            'Az Afarer támogatja az üzemeltetőket, akik 50, 100, 300 vagy 500+ deszkás flottákat vásárolnak, flottabővítési támogatással a kis kölcsönzési működésektől a több telephelyes vállalkozásokig, biztosítva a következetes felszerelésminőséget és a jobb beszerzési hatékonyságot.',
+            'Az OLagoon támogatja az üzemeltetőket, akik 50, 100, 300 vagy 500+ deszkás flottákat vásárolnak, flottabővítési támogatással a kis kölcsönzési működésektől a több telephelyes vállalkozásokig, biztosítva a következetes felszerelésminőséget és a jobb beszerzési hatékonyságot.',
         },
         {
           title: 'Könnyű karbantartási és javítási rendszer',
           description:
-            'A kölcsönző vállalkozások nem engedhetik meg maguknak a hosszú felszerelés-állásidőt. Az Afarer javításbarát terméktervezést nyújt cserélhető alkatrészekkel, karbantartási útmutatással a tisztításhoz és tároláshoz, valamint sürgősségi javítási támogatással szettekkel és hibaelhárítási útmutatással.',
+            'A kölcsönző vállalkozások nem engedhetik meg maguknak a hosszú felszerelés-állásidőt. Az OLagoon javításbarát terméktervezést nyújt cserélhető alkatrészekkel, karbantartási útmutatással a tisztításhoz és tároláshoz, valamint sürgősségi javítási támogatással szettekkel és hibaelhárítási útmutatással.',
           features: [
             'Cserélhető alkatrészek',
             'Szabványos kiegészítők',
@@ -2445,23 +2445,23 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Szezonális kölcsönzési üzlet optimalizálása',
           description:
-            'Sok kölcsönző vállalkozás szezonálisan működik. Az Afarer segít a készlet tervezésében a kereslet szerint megfelelő termékekkel a nyári strandüzemeltetéshez, családi SUP csomagokhoz, üdülői tevékenységekhez és kalandturisztikához túrastílusú modellekkel.',
+            'Sok kölcsönző vállalkozás szezonálisan működik. Az OLagoon segít a készlet tervezésében a kereslet szerint megfelelő termékekkel a nyári strandüzemeltetéshez, családi SUP csomagokhoz, üdülői tevékenységekhez és kalandturisztikához túrastílusú modellekkel.',
         },
         {
           title: 'Egyedi márkázás kölcsönző üzemeltetőknek',
           description:
-            'A kölcsönzési felszerelés százával látható vásárlók számára. Az Afarer támogatja a logómárkázást, a strandhangulathoz vagy üdülői stílushoz illeszkedő színtestreszabást és a flottaazonosítást deszka-számozással és modellcímkékkel, amelyek a felszerelést marketingeszközzé alakítják.',
+            'A kölcsönzési felszerelés százával látható vásárlók számára. Az OLagoon támogatja a logómárkázást, a strandhangulathoz vagy üdülői stílushoz illeszkedő színtestreszabást és a flottaazonosítást deszka-számozással és modellcímkékkel, amelyek a felszerelést marketingeszközzé alakítják.',
           features: ['Logómárkázás', 'Színtestreszabás', 'Deszka-számozás', 'Modell- és üzemeltetési címkék'],
         },
         {
           title: 'Támogatás turisztikai célállomásoknak és üdülőknek',
           description:
-            'Sok turisztikai vállalkozás használja a SUP-ot élménytermékként. Az Afarer támogatja a szállodákat, üdülőket, kempingeket és kalandparkokat flottatervezéssel, terméktestreszabással és tételgyártással a teljes vízi tevékenységi élményekhez.',
+            'Sok turisztikai vállalkozás használja a SUP-ot élménytermékként. Az OLagoon támogatja a szállodákat, üdülőket, kempingeket és kalandparkokat flottatervezéssel, terméktestreszabással és tételgyártással a teljes vízi tevékenységi élményekhez.',
         },
         {
           title: 'A kölcsönzési üzlet megtérülésének javítása',
           description:
-            'Az Afarer segít az üzemeltetőknek javítani a jövedelmezőséget hosszabb termék-élettartammal, amely csökkenti a cserék gyakoriságát, alacsonyabb karbantartási költséggel, amely csökkenti a javítási időt, és magasabb elérhetőséggel, amely növeli a napi kölcsönzési kapacitást és a vásárlói elégedettséget.',
+            'Az OLagoon segít az üzemeltetőknek javítani a jövedelmezőséget hosszabb termék-élettartammal, amely csökkenti a cserék gyakoriságát, alacsonyabb karbantartási költséggel, amely csökkenti a javítási időt, és magasabb elérhetőséggel, amely növeli a napi kölcsönzési kapacitást és a vásárlói elégedettséget.',
         },
       ],
     },
@@ -2477,7 +2477,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kölcsönzési flottaelemzés',
           detail:
-            'Az Afarer értékelte a használati gyakoriságot, a vásárlói profilt és az üzemeltetési környezetet, majd kereskedelmi kölcsönző SUP konfigurációt javasolt, amelyet a földközi-tengeri strandkörnyezetre optimalizáltak.',
+            'Az OLagoon értékelte a használati gyakoriságot, a vásárlói profilt és az üzemeltetési környezetet, majd kereskedelmi kölcsönző SUP konfigurációt javasolt, amelyet a földközi-tengeri strandkörnyezetre optimalizáltak.',
         },
         {
           title: 'Termékfejlesztés',
@@ -2513,19 +2513,19 @@ const hu: Record<string, SolutionOverride> = {
           },
           steps: [
             {
-              title: 'Téli tárolás-szimulációs tesztelés az Afarer hidegkamra-létesítményében',
+              title: 'Téli tárolás-szimulációs tesztelés az OLagoon hidegkamra-létesítményében',
               detail:
-                "2024 januárjában Sarah 8 versenytárs deszkát és 6 Afarer prototípust szállított az Afarer hsziameni létesítményébe 4 hetes szélsőséges hidegtesztelésre. A tesztkamra naponta -35 °C és +25 °C közötti ciklusban működött (a kanadai márciusi fagy-olvadás szimulálásával). A deszkákat szimulált állványkörülmények között tárolták 200 kg hóterhelés alatt. Az Afarer XHD-Plus anyaga — egy 4 rétegű laminátum belső TPU membránnal — 28 ciklus után nulla mikrotöredezést mutatott, míg a 8 versenytárs deszkából 5 látható repedéseket fejlesztett. A TPU réteg megakadályozta a nedvesség beszivárgását még akkor is, amikor a deszka felülete megkarcolódott. Sarah 'hideghajtás'-tesztet is kért: deszkák szállításhoz -20 °C-on hajtva; az Afarer deszkái 500 hajtást éltek túl gyűrődésvonal-meghibásodás nélkül.",
+                "2024 januárjában Sarah 8 versenytárs deszkát és 6 OLagoon prototípust szállított az OLagoon hsziameni létesítményébe 4 hetes szélsőséges hidegtesztelésre. A tesztkamra naponta -35 °C és +25 °C közötti ciklusban működött (a kanadai márciusi fagy-olvadás szimulálásával). A deszkákat szimulált állványkörülmények között tárolták 200 kg hóterhelés alatt. Az OLagoon XHD-Plus anyaga — egy 4 rétegű laminátum belső TPU membránnal — 28 ciklus után nulla mikrotöredezést mutatott, míg a 8 versenytárs deszkából 5 látható repedéseket fejlesztett. A TPU réteg megakadályozta a nedvesség beszivárgását még akkor is, amikor a deszka felülete megkarcolódott. Sarah 'hideghajtás'-tesztet is kért: deszkák szállításhoz -20 °C-on hajtva; az OLagoon deszkái 500 hajtást éltek túl gyűrődésvonal-meghibásodás nélkül.",
             },
             {
               title: "Egyedi 'Canadian Shield' csomag szigetelt tárolási huzatokkal",
               detail:
-                "A teszteredmények alapján az Afarer kifejlesztette a 'Canadian Shield' specifikációt: 4 rétegű PVC/TPU konstrukció, -40 °C-ig minősített rozsdamentes acél szelepek (a standard sárgaréz szelepek jéggé dermednek) és kétszeres deszkasúlyra minősített megerősített hordozófogantyúk hóhordozáshoz. Az Afarer bolyhos bélésű szigetelt tárolási huzatot tervezett (a 'Winter Jacket'), amely 12 °C-kal a környezeti hőmérséklet felett tartotta a belső hőmérsékletet. Sarah 2024 márciusában tesztelte a huzatokat a Muskoka-tónál: a huzatokban éjszaka -22 °C-on tárolt deszkák reggel -8 °C-on voltak, és 3 perccel gyorsabban fújták fel őket. Az Afarer 150 huzatot gyártott a megrendelés részeként.",
+                "A teszteredmények alapján az OLagoon kifejlesztette a 'Canadian Shield' specifikációt: 4 rétegű PVC/TPU konstrukció, -40 °C-ig minősített rozsdamentes acél szelepek (a standard sárgaréz szelepek jéggé dermednek) és kétszeres deszkasúlyra minősített megerősített hordozófogantyúk hóhordozáshoz. Az OLagoon bolyhos bélésű szigetelt tárolási huzatot tervezett (a 'Winter Jacket'), amely 12 °C-kal a környezeti hőmérséklet felett tartotta a belső hőmérsékletet. Sarah 2024 márciusában tesztelte a huzatokat a Muskoka-tónál: a huzatokban éjszaka -22 °C-on tárolt deszkák reggel -8 °C-on voltak, és 3 perccel gyorsabban fújták fel őket. Az OLagoon 150 huzatot gyártott a megrendelés részeként.",
             },
             {
               title: 'Szezont megelőző edzőtábor az üdülői személyzetnek 3 ingatlanban',
               detail:
-                "2024 májusában az Afarer észak-amerikai szolgáltatásvezetője, Jake Patterson 5 napot töltött 28 fős személyzet képzésével a 3 üdülőben. Kanada-specifikus protokollok: tavaszi üzembe helyezés (részletes ellenőrzőlista a hidegtárolási károsodásokhoz), megfelelő felfújás 13–15 PSI-ra (a hideg vízhez igazítva — a Muskoka-tó átlagosan 14 °C júniusban), téliesítési eljárás a fűtetlen csónakházakban tárolt deszkákhoz és egy '15 perces károsodásjelentő' WhatsApp-rendszer. Jake megtanította a személyzetnek a gyakori kanadai hódkárosodás felismerését is (valódi probléma: 2 deszka veszett el hódok miatt 2023-ban) és a nehezék PVC foltokkal történő javítást.",
+                "2024 májusában az OLagoon észak-amerikai szolgáltatásvezetője, Jake Patterson 5 napot töltött 28 fős személyzet képzésével a 3 üdülőben. Kanada-specifikus protokollok: tavaszi üzembe helyezés (részletes ellenőrzőlista a hidegtárolási károsodásokhoz), megfelelő felfújás 13–15 PSI-ra (a hideg vízhez igazítva — a Muskoka-tó átlagosan 14 °C júniusban), téliesítési eljárás a fűtetlen csónakházakban tárolt deszkákhoz és egy '15 perces károsodásjelentő' WhatsApp-rendszer. Jake megtanította a személyzetnek a gyakori kanadai hódkárosodás felismerését is (valódi probléma: 2 deszka veszett el hódok miatt 2023-ban) és a nehezék PVC foltokkal történő javítást.",
             },
             {
               title: '2024 nyári indítás és a lombszezon teljesítménye',
@@ -2553,17 +2553,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '2023 júliusi hőstressz-vizsgálat a marbellai Playa de la Fontanillán',
               detail:
-                '2023 júliusában az Afarer földközi-tengeri technikai vezetője, Pedro Sánchez 3 hetes vizsgálatot végzett Miguel zászlóshajó strandján. 10 versenytárs deszkát és 5 Afarer prototípust szereltek fel Bluetooth-nyomásérzékelőkkel, amelyek 5 percenként naplóztak. Az eredmények azt mutatták, hogy a versenytárs deszkák 2,8–4,1 PSI-t vesztettek 8 óra alatt (15 PSI-ről indulva, 16:00-ra 10,9–12,2 PSI-ra csökkenve). Az Afarer XHD-Thermal deszkái — hővisszaverő ezüst külső réteggel és nitrogéntöltéssel — mindössze 0,7 PSI-t vesztettek. Pedro felfedezte a kulcsproblémát: a standard levegő hőben tágul, növelve a belső nyomást, ami biztonsági szelep-kiengedést vált ki; az Afarer nitrogéntöltése (nagyobb molekulák, lassabb diffúzió) csökkentette ezt a hatást. A homokon lévő deszka felületi hőmérséklete 15:00-kor elérte a 67 °C-ot — az Afarer ezüst rétege az infravörös sugárzás 34%-át vereste vissza.',
+                '2023 júliusában az OLagoon földközi-tengeri technikai vezetője, Pedro Sánchez 3 hetes vizsgálatot végzett Miguel zászlóshajó strandján. 10 versenytárs deszkát és 5 OLagoon prototípust szereltek fel Bluetooth-nyomásérzékelőkkel, amelyek 5 percenként naplóztak. Az eredmények azt mutatták, hogy a versenytárs deszkák 2,8–4,1 PSI-t vesztettek 8 óra alatt (15 PSI-ről indulva, 16:00-ra 10,9–12,2 PSI-ra csökkenve). Az OLagoon XHD-Thermal deszkái — hővisszaverő ezüst külső réteggel és nitrogéntöltéssel — mindössze 0,7 PSI-t vesztettek. Pedro felfedezte a kulcsproblémát: a standard levegő hőben tágul, növelve a belső nyomást, ami biztonsági szelep-kiengedést vált ki; az OLagoon nitrogéntöltése (nagyobb molekulák, lassabb diffúzió) csökkentette ezt a hatást. A homokon lévő deszka felületi hőmérséklete 15:00-kor elérte a 67 °C-ot — az OLagoon ezüst rétege az infravörös sugárzás 34%-át vereste vissza.',
             },
             {
               title: "'Costa del Sol Edition' hőelnyelő fedélzettel és lopásgátló horgonnyal",
               detail:
-                "Az Afarer egyedi specifikációt készített Miguel számára: 'Costasol Edition 11.0' parafedélzettel (a csúcson 8 °C-kal hűvösebb az EVA habnál, hőkamerával ellenőrizve), hőálló rozsdamentes acél szelepekkel szilikon O-gyűrűkkel (a standard gumi helyett, amely 400+ óra spanyol nap után lebomlik), és UV-stabilizált uszonyrendszerrel, amely 2 000 óra UV-expozícióra van minősítve. Miguel lopásgátló funkciót kért: az Afarer rozsdamentes acél kábelhurkot integrált a deszka orrába, amelyen a személyzet kombinált zárat fűzhetett át — ez a deszkalopást évi 12-ről 0-ra csökkentette. Minden deszkán Miguel beach club logója volt hőbélyegezve (nincs lehámló matrica) QR-kóddal, amely a felelősségi nyilatkozatra és a kölcsönzési megállapodásra mutatott.",
+                "Az OLagoon egyedi specifikációt készített Miguel számára: 'Costasol Edition 11.0' parafedélzettel (a csúcson 8 °C-kal hűvösebb az EVA habnál, hőkamerával ellenőrizve), hőálló rozsdamentes acél szelepekkel szilikon O-gyűrűkkel (a standard gumi helyett, amely 400+ óra spanyol nap után lebomlik), és UV-stabilizált uszonyrendszerrel, amely 2 000 óra UV-expozícióra van minősítve. Miguel lopásgátló funkciót kért: az OLagoon rozsdamentes acél kábelhurkot integrált a deszka orrába, amelyen a személyzet kombinált zárat fűzhetett át — ez a deszkalopást évi 12-ről 0-ra csökkentette. Minden deszkán Miguel beach club logója volt hőbélyegezve (nincs lehámló matrica) QR-kóddal, amely a felelősségi nyilatkozatra és a kölcsönzési megállapodásra mutatott.",
             },
             {
               title: 'Nagy volumenű kölcsönzési logisztika és csapatképzés',
               detail:
-                "Az Afarer működési tanácsadója, Ana Martínez 2 hetet töltött 2024 februárjában Miguel kölcsönzési munkafolyamatának optimalizálásával. A 'fogd és vidd' modell: 50 deszka folyamatosan felfújva tartva egy egyedi gördülő állványon (az Afarer kiegészítőcsapata építette), ami a kivételi időt 8 percről 90 másodpercre csökkentette. Ana 22 szezonális személyzetet képzett ki: 1 perces felfújás-ellenőrzés kalibrált mérővel, megfelelő parafedélzet-tisztítás (enyhe szappan, nyomástisztító nélkül), délutáni nyomás-utántöltési protokoll (30 másodperces ellenőrzés 14:00-kor) és napi záró édesvízes öblítés öntözőrendszerrel (az Afarer telepítette, €80/állomás). Az új munkafolyamat lehetővé tette 2 személynek, hogy 200 deszkát kezeljen 5 személy helyett, akik korábban 85-öt kezeltek.",
+                "Az OLagoon működési tanácsadója, Ana Martínez 2 hetet töltött 2024 februárjában Miguel kölcsönzési munkafolyamatának optimalizálásával. A 'fogd és vidd' modell: 50 deszka folyamatosan felfújva tartva egy egyedi gördülő állványon (az OLagoon kiegészítőcsapata építette), ami a kivételi időt 8 percről 90 másodpercre csökkentette. Ana 22 szezonális személyzetet képzett ki: 1 perces felfújás-ellenőrzés kalibrált mérővel, megfelelő parafedélzet-tisztítás (enyhe szappan, nyomástisztító nélkül), délutáni nyomás-utántöltési protokoll (30 másodperces ellenőrzés 14:00-kor) és napi záró édesvízes öblítés öntözőrendszerrel (az OLagoon telepítette, €80/állomás). Az új munkafolyamat lehetővé tette 2 személynek, hogy 200 deszkát kezeljen 5 személy helyett, akik korábban 85-öt kezeltek.",
             },
             {
               title: '2024 nyara: a legmelegebb feljegyzett július Spanyolországban',
@@ -2580,8 +2580,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a kölcsönző vállalkozások az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a kölcsönző vállalkozások az OLagoont',
       items: [
         {
           title: 'Kereskedelmi használat',
@@ -2609,38 +2609,38 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Milyen típusú SUP deszkák a legjobbak kölcsönző vállalkozásoknak?',
         answer:
-          'A kölcsönző vállalkozásoknak tartós, stabil all-around SUP deszkák kellenek megerősített konstrukcióval, kezdőbarát formákkal, szabványosított kiegészítőkkel és könnyű karbantartási funkciókkal. Az Afarer kölcsönző deszkáit kifejezetten arra tervezték, hogy ellenálljanak a minden képzettségi szintű vásárlók gyakori használatának.',
+          'A kölcsönző vállalkozásoknak tartós, stabil all-around SUP deszkák kellenek megerősített konstrukcióval, kezdőbarát formákkal, szabványosított kiegészítőkkel és könnyű karbantartási funkciókkal. Az OLagoon kölcsönző deszkáit kifejezetten arra tervezték, hogy ellenálljanak a minden képzettségi szintű vásárlók gyakori használatának.',
       },
       {
         question: 'Hogyan csökkenthetem a kölcsönzési SUP flottám karbantartási költségeit?',
         answer:
-          'Az Afarer segít csökkenteni a karbantartási költségeket tartós konstrukcióval, amely ellenáll a károsodásnak, szabványosított alkatrészekkel, amelyek egyszerűsítik a javításokat, cserélhető alkatrészekkel, amelyek kizárják a teljes deszka-cserét, és karbantartási útmutatással, amely segít a csapatának az alapvető gondozás hatékony kezelésében.',
+          'Az OLagoon segít csökkenteni a karbantartási költségeket tartós konstrukcióval, amely ellenáll a károsodásnak, szabványosított alkatrészekkel, amelyek egyszerűsítik a javításokat, cserélhető alkatrészekkel, amelyek kizárják a teljes deszka-cserét, és karbantartási útmutatással, amely segít a csapatának az alapvető gondozás hatékony kezelésében.',
       },
       {
         question: 'Mekkora a minimális rendelési mennyiség kölcsönzési SUP flottákhoz?',
         answer:
-          'Az Afarer rugalmas flottaméreteket támogat az 50 deszkával induló kis működésektől a 500+ deszkás nagy flottákig. Tömeges beszerzési megoldásokat nyújtunk következetes minőséggel minden rendelési mennyiségben.',
+          'Az OLagoon rugalmas flottaméreteket támogat az 50 deszkával induló kis működésektől a 500+ deszkás nagy flottákig. Tömeges beszerzési megoldásokat nyújtunk következetes minőséggel minden rendelési mennyiségben.',
       },
       {
         question: 'Kínálnak tömeges árazást kölcsönző üzemeltetőknek?',
         answer:
-          'Igen, az Afarer versenyképes tömeges árazást kínál azoknak a kölcsönző üzemeltetőknek, akik 50, 100, 300 vagy 500+ deszkás flottákat vásárolnak, következetes felszerelésminőséggel és hatékony gyártási ütemtervekkel a nagy megrendelésekhez.',
+          'Igen, az OLagoon versenyképes tömeges árazást kínál azoknak a kölcsönző üzemeltetőknek, akik 50, 100, 300 vagy 500+ deszkás flottákat vásárolnak, következetes felszerelésminőséggel és hatékony gyártási ütemtervekkel a nagy megrendelésekhez.',
       },
       {
-        question: 'Hogyan bírják az Afarer SUP deszkák a sós vizet és a strandkörnyezetet?',
+        question: 'Hogyan bírják az OLagoon SUP deszkák a sós vizet és a strandkörnyezetet?',
         answer:
-          'Az Afarer kölcsönző deszkái kopásálló PVC anyaggal, UV-álló konstrukcióval, megerősített korlátokkal a strandérintkezéshez és korrózióálló vasalattal rendelkeznek, amely ellenáll a sós víznek, a homokcsiszolásnak és a kültéri tárolási körülményeknek.',
+          'Az OLagoon kölcsönző deszkái kopásálló PVC anyaggal, UV-álló konstrukcióval, megerősített korlátokkal a strandérintkezéshez és korrózióálló vasalattal rendelkeznek, amely ellenáll a sós víznek, a homokcsiszolásnak és a kültéri tárolási körülményeknek.',
       },
       {
         question: 'Elláthatom a kölcsönzési SUP deszkáimat az üzletem logójával?',
         answer:
-          'Igen, az Afarer teljes testreszabást támogat, beleértve a logómárkázást, színillesztést, deszka-számozást és modellcímkéket, amelyek a kölcsönzési felszerelését látható marketingeszközökké alakítják a strand vagy üdülő telephelyén.',
+          'Igen, az OLagoon teljes testreszabást támogat, beleértve a logómárkázást, színillesztést, deszka-számozást és modellcímkéket, amelyek a kölcsönzési felszerelését látható marketingeszközökké alakítják a strand vagy üdülő telephelyén.',
       },
     ],
     cta: {
-      title: 'Építse meg tartós SUP kölcsönzési flottáját az Afarerrel',
+      title: 'Építse meg tartós SUP kölcsönzési flottáját az OLagoonrel',
       subtitle:
-        'A felszerelése határozza meg az üzlete jövedelmezőségét. Válasszon olyan SUP termékeket, amelyeket keményebb munkára és hosszabb élettartamra terveztek. Az Afarer segít a kölcsönző üzemeltetőknek strand SUP flottákat, üdülői vízi tevékenység felszerelést és turisztikai kalandrendszereket építeni megbízható OEM gyártási támogatással.',
+        'A felszerelése határozza meg az üzlete jövedelmezőségét. Válasszon olyan SUP termékeket, amelyeket keményebb munkára és hosszabb élettartamra terveztek. Az OLagoon segít a kölcsönző üzemeltetőknek strand SUP flottákat, üdülői vízi tevékenység felszerelést és turisztikai kalandrendszereket építeni megbízható OEM gyártási támogatással.',
       primaryAction: {
         text: 'Indítsa el kölcsönzési flotta projektjét még ma',
       },
@@ -2660,9 +2660,9 @@ const hu: Record<string, SolutionOverride> = {
       tagline: 'Üdülői vízi tevékenység csomag™',
       title: 'Prémium SUP és vízisport megoldások luxusszállodák, üdülők és vendéglátó márkák számára',
       subtitle:
-        'Az Afarer teljes üdülői vízi tevékenység csomagokat nyújt, amelyeket kifejezetten vendéglátó vállalkozásoknak terveztek. Segítünk a luxusüdülőknek, strandhotelszámára, szigeti célállomásoknak, öko-üdülőknek és wellness retreateknek márkázott vízi élményeket teremteni egyedi SUP flottákon, tárolási rendszereken és személyzetképzésen keresztül.',
+        'Az OLagoon teljes üdülői vízi tevékenység csomagokat nyújt, amelyeket kifejezetten vendéglátó vállalkozásoknak terveztek. Segítünk a luxusüdülőknek, strandhotelszámára, szigeti célállomásoknak, öko-üdülőknek és wellness retreateknek márkázott vízi élményeket teremteni egyedi SUP flottákon, tárolási rendszereken és személyzetképzésen keresztül.',
       image: {
-        alt: 'Afarer üdülői vízi tevékenység csomag egyedi márkázású SUP deszkákkal',
+        alt: 'OLagoon üdülői vízi tevékenység csomag egyedi márkázású SUP deszkákkal',
       },
     },
     challenge: {
@@ -2696,7 +2696,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Egyedi üdülői SUP flottafejlesztés',
           description:
-            'Az Afarer segít az üdülőknek dedikált felszerelésflottákat fejleszteni a helyszín, a vendégprofil, a vízi környezet és a tevékenységprogramok alapján. A csomagok a stabil all-around deszkás családi üdülői konfigurációktól a prémium dizájnos luxus szigeti csomagokig és a széles jóga SUP deszkás wellness retreat csomagokig terjednek.',
+            'Az OLagoon segít az üdülőknek dedikált felszerelésflottákat fejleszteni a helyszín, a vendégprofil, a vízi környezet és a tevékenységprogramok alapján. A csomagok a stabil all-around deszkás családi üdülői konfigurációktól a prémium dizájnos luxus szigeti csomagokig és a széles jóga SUP deszkás wellness retreat csomagokig terjednek.',
           features: [
             'Családi üdülői csomag',
             'Luxus szigeti üdülői csomag',
@@ -2707,7 +2707,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Üdülői márkázási testreszabás',
           description:
-            'A vízi felszerelése a vendégút részévé válik. Az Afarer támogatja az egyedi logóintegrációt, az üdülői építészethez és márkaszínekhez illeszkedő egyedi színtervezést és a prémium csomagolást márkázott kiegészítőkkel és vendégtájékoztató anyagokkal.',
+            'A vízi felszerelése a vendégút részévé válik. Az OLagoon támogatja az egyedi logóintegrációt, az üdülői építészethez és márkaszínekhez illeszkedő egyedi színtervezést és a prémium csomagolást márkázott kiegészítőkkel és vendégtájékoztató anyagokkal.',
           features: [
             'Egyedi logónyomtatás',
             'Márkához illeszkedő színtervezés',
@@ -2718,27 +2718,27 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Üdülői tárolási és felszereléskezelő rendszer',
           description:
-            'Az Afarer segít az üdülőknek megtervezni a felszereléstárolást SUP állványokkal, rendezési rendszerekkel és időjárásvédelmi megoldásokkal, figyelembe véve a napsütést, a páratartalmat és a partvidéki környezetet. A személyzet hatékonyan kezelheti a napi felszerelés-előkészítést, a vendégkiadást és a karbantartási ellenőrzést.',
+            'Az OLagoon segít az üdülőknek megtervezni a felszereléstárolást SUP állványokkal, rendezési rendszerekkel és időjárásvédelmi megoldásokkal, figyelembe véve a napsütést, a páratartalmat és a partvidéki környezetet. A személyzet hatékonyan kezelheti a napi felszerelés-előkészítést, a vendégkiadást és a karbantartási ellenőrzést.',
         },
         {
           title: 'Személyzeti biztonsági és üzemeltetési képzési támogatás',
           description:
-            'Az Afarer üzemeltetési útmutatást nyújt, beleértve a felszereléskezelési eljárásokat, felfújási utasításokat, tisztítási módszereket, tárolási irányelveket, vendégbiztonsági eljárásokat és napi üzemeltetési ellenőrzőlistákat, amelyek a használat előtti ellenőrzést és a használat utáni tisztítást fedik le.',
+            'Az OLagoon üzemeltetési útmutatást nyújt, beleértve a felszereléskezelési eljárásokat, felfújási utasításokat, tisztítási módszereket, tárolási irányelveket, vendégbiztonsági eljárásokat és napi üzemeltetési ellenőrzőlistákat, amelyek a használat előtti ellenőrzést és a használat utáni tisztítást fedik le.',
         },
         {
           title: 'Teljes üdülői vízi tevékenység csomag',
           description:
-            'A példacsomagok egyedi márkázású SUP deszkákat, állítható evezőket, pumpákat, biztonsági köteleket, tároló állványokat, javítószetteket és személyzeti üzemeltetési útmutatókat tartalmaznak. Az Afarer támogathatja a bővítést vízi fitnesztermékekre és családi vízi felszerelésekre is.',
+            'A példacsomagok egyedi márkázású SUP deszkákat, állítható evezőket, pumpákat, biztonsági köteleket, tároló állványokat, javítószetteket és személyzeti üzemeltetési útmutatókat tartalmaznak. Az OLagoon támogathatja a bővítést vízi fitnesztermékekre és családi vízi felszerelésekre is.',
         },
         {
           title: 'Alacsony karbantartású kereskedelmi felszerelés',
           description:
-            'Az üdülői felszerelésnek egyensúlyt kell találnia a vendégélmény, a tartósság és a karbantartási hatékonyság között. Az Afarer a tartós konstrukcióra összpontosít megerősített PVC-vel és kereskedelmi minőségű alkatrészekkel, a könnyű karbantartásra szabványos kiegészítőkkel és a hosszú távú értékre, amely csökkenti a cserék gyakoriságát.',
+            'Az üdülői felszerelésnek egyensúlyt kell találnia a vendégélmény, a tartósság és a karbantartási hatékonyság között. Az OLagoon a tartós konstrukcióra összpontosít megerősített PVC-vel és kereskedelmi minőségű alkatrészekkel, a könnyű karbantartásra szabványos kiegészítőkkel és a hosszú távú értékre, amely csökkenti a cserék gyakoriságát.',
         },
         {
           title: 'Üdülői élménytervezési támogatás',
           description:
-            'Az Afarer segít a felszerelést védjegy vendégtevékenységekké alakítani, beleértve a naplementés SUP élményeket pároknak, családi óceánkalandokat, lebegő wellness programokat jógaretreatnek és ökofelfedező tevékenységeket természetüdülőknek és tengeri célállomásoknak.',
+            'Az OLagoon segít a felszerelést védjegy vendégtevékenységekké alakítani, beleértve a naplementés SUP élményeket pároknak, családi óceánkalandokat, lebegő wellness programokat jógaretreatnek és ökofelfedező tevékenységeket természetüdülőknek és tengeri célállomásoknak.',
         },
       ],
     },
@@ -2754,7 +2754,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Üdülői tevékenységtervezés',
           detail:
-            'Az Afarer elemezte a vendégdemográfiát, a strandkörülményeket és a tevékenységi célokat, majd egyedi üdülői SUP flottát javasolt, amelyet az üdülő luxuspozicionálásához és a vendégelvárásokhoz szabtak.',
+            'Az OLagoon elemezte a vendégdemográfiát, a strandkörülményeket és a tevékenységi célokat, majd egyedi üdülői SUP flottát javasolt, amelyet az üdülő luxuspozicionálásához és a vendégelvárásokhoz szabtak.',
         },
         {
           title: 'Terméktestreszabás',
@@ -2784,29 +2784,29 @@ const hu: Record<string, SolutionOverride> = {
           customer: {
             location: 'Punta Mita, Nayarit, Mexikó',
             background:
-              "A 36 éves Ana Sofía Villanueva a 'Casa del Pacífico' vendégélmény-igazgatója, egy 62 lakosztályos luxus öko-üdülő a Punta Mita-i Csendes-óceáni parton ($1 800–$8 000/éj szobaárakkal). Az üdülő 12 acre-es területe 3 privát strandot, 2 lagúnamedencét és a rejtett cenotékhoz vezető mangrovemocsarat tartalmaz. 2023-ban a vendégfelmérések az 'egyedi vízi élményeket' a #1 kiaknázatlan keresletként mutatták ki (a vendégek 78%-a szerette volna). Ana az Afarerhez fordult, miután egy tulumi versenytárs üdülő SUP programot indított — neki valami exkluzívabbra volt szüksége. A kihívás: egyetlen csomag, amely működik az óceáni hullámtörésben, a nyugodt mangrovékban és az édes cenotékban változó fényviszonyokkal, áramlásokkal és ökológiai érzékenységekkel.",
+              "A 36 éves Ana Sofía Villanueva a 'Casa del Pacífico' vendégélmény-igazgatója, egy 62 lakosztályos luxus öko-üdülő a Punta Mita-i Csendes-óceáni parton ($1 800–$8 000/éj szobaárakkal). Az üdülő 12 acre-es területe 3 privát strandot, 2 lagúnamedencét és a rejtett cenotékhoz vezető mangrovemocsarat tartalmaz. 2023-ban a vendégfelmérések az 'egyedi vízi élményeket' a #1 kiaknázatlan keresletként mutatták ki (a vendégek 78%-a szerette volna). Ana az OLagoonhez fordult, miután egy tulumi versenytárs üdülő SUP programot indított — neki valami exkluzívabbra volt szüksége. A kihívás: egyetlen csomag, amely működik az óceáni hullámtörésben, a nyugodt mangrovékban és az édes cenotékban változó fényviszonyokkal, áramlásokkal és ökológiai érzékenységekkel.",
             goal: "A 'Védjegy cenote-óceán SUP élmény' csomag kifejlesztése (3 órás vezetett túra, professzionális fotográfia és mexikói kóstolómenü) $450/fő áron, minimum 40%-os profitárréssel és 4,8+ vendég-elégedettségi értékeléssel.",
           },
           steps: [
             {
               title: '2024 márciusi helyszíni felmérés és környezeti hatásvizsgálat',
               detail:
-                'Az Afarer latin-amerikai üzleti igazgatója, Felipe Ortíz és Camila Reyes tengerbiológus doktor 10 napot töltöttek a Casa del Pacífico vizeinek feltérképezésével. 4 különálló SUP környezetet azonosítottak: a Csendes-óceáni strandi indítás (következetes 2–3 láb hullámtörés), a mangrove-alagút (szűk 2 méteres csatornák lógó gyökerekkel), a rejtett cenote (18 méter mély édesvíz, 24 °C állandó hőmérséklet, kényes mikrobiális bevonatok a falakon) és a lagúnamedence (kezdő vendégeknek). Dr. Reyes üledékmintavételt és fészkelőmadár-felmérést végzett a teherbírási kapacitás meghatározásához: túránként maximum 8 vendég, indítás 7:30-kor a tengeri madarak etetése előtt. A vizsgálat megállapította, hogy a cink-foszfát pigmenteket tartalmazó standard SUP deszkák a cenoteba szivárognának — az Afarer kerámiaalapú pigmentekre váltott.',
+                'Az OLagoon latin-amerikai üzleti igazgatója, Felipe Ortíz és Camila Reyes tengerbiológus doktor 10 napot töltöttek a Casa del Pacífico vizeinek feltérképezésével. 4 különálló SUP környezetet azonosítottak: a Csendes-óceáni strandi indítás (következetes 2–3 láb hullámtörés), a mangrove-alagút (szűk 2 méteres csatornák lógó gyökerekkel), a rejtett cenote (18 méter mély édesvíz, 24 °C állandó hőmérséklet, kényes mikrobiális bevonatok a falakon) és a lagúnamedence (kezdő vendégeknek). Dr. Reyes üledékmintavételt és fészkelőmadár-felmérést végzett a teherbírási kapacitás meghatározásához: túránként maximum 8 vendég, indítás 7:30-kor a tengeri madarak etetése előtt. A vizsgálat megállapította, hogy a cink-foszfát pigmenteket tartalmazó standard SUP deszkák a cenoteba szivárognának — az OLagoon kerámiaalapú pigmentekre váltott.',
             },
             {
               title: "Egyedi 'Explora México' deszta integrált fotográfiai rendszerrel",
               detail:
-                "Az Afarer megtervezte az 'Explora México 10.8'-at 4 rétegű konstrukcióval, zátonybarát biofelületvédelemmel (biocid-mentes szilikon bevonat, 200 órán át tesztelve 28 °C-os Csendes-óceáni vízben) és tükröződésmentes matt olajzöld fedélzettel. Ana professzionális fotográfiát kért az élmény részeként — az Afarer vízálló drón-indítóplatformot integrált a deszka orrába (erősített 25×25 cm szénszálas platform csúszásgátló bevonattal, DJI Mini  Pro tartásra tesztelve kézi indítás/visszanyerés alatt). Minden deszkán volt felszerelési pont víz alatti kamerarúdhoz is. A deszkákat korlátozott 'Casa del Pacífico' márkázással gyártották maja-inspirálta geometriai mintákkal — domborítva, nem festve, a mérgező kifolyás elkerüléséhez.",
+                "Az OLagoon megtervezte az 'Explora México 10.8'-at 4 rétegű konstrukcióval, zátonybarát biofelületvédelemmel (biocid-mentes szilikon bevonat, 200 órán át tesztelve 28 °C-os Csendes-óceáni vízben) és tükröződésmentes matt olajzöld fedélzettel. Ana professzionális fotográfiát kért az élmény részeként — az OLagoon vízálló drón-indítóplatformot integrált a deszka orrába (erősített 25×25 cm szénszálas platform csúszásgátló bevonattal, DJI Mini  Pro tartásra tesztelve kézi indítás/visszanyerés alatt). Minden deszkán volt felszerelési pont víz alatti kamerarúdhoz is. A deszkákat korlátozott 'Casa del Pacífico' márkázással gyártották maja-inspirálta geometriai mintákkal — domborítva, nem festve, a mérgező kifolyás elkerüléséhez.",
             },
             {
               title: 'Vezetői tanúsítási program és logisztikai integráció',
               detail:
-                "2024 májusában az Afarer vezető oktatója, Diego Castillo 2 hetes intenzív programot vezetett, amely a Casa del Pacífico 8 tevékenységvezetőjét tanúsította. A tananyag a következőket fedte le: hullámzónás indítási/visszanyerési technika a Csendes-óceáni parttörésekhez, mangravenavigáció árapállyal (a vezetőnek ismernie kell a 3 órás árapály-ablakot az alacsony iszapba ragadás elkerüléséhez), cenote-etikett (nincs napvédő, nincs falérintés — Dr. Reyes visszatért egy fél napos érzékenységi szekcióra), sürgősségi protokollok (beleértve a pumával való találkozásokat — a mangrove egy állandó hímnek ad otthont) és spanyol/angol kétnyelvű vezetés. Az Afarer a SUP készletet is integrálta az üdülő Oracle Opera PMS rendszerébe, hogy a SUP foglalások automatikusan megjelenjenek a vendégszámlákon. A fotográfiai munkafolyamat: a vezetők GoPro Hero12 Black-et használnak előre beállított 'Cenote' színprofillal, a fotók NFC-kártyán keresztül jutnak el a vendégekhez 30 percen belül.",
+                "2024 májusában az OLagoon vezető oktatója, Diego Castillo 2 hetes intenzív programot vezetett, amely a Casa del Pacífico 8 tevékenységvezetőjét tanúsította. A tananyag a következőket fedte le: hullámzónás indítási/visszanyerési technika a Csendes-óceáni parttörésekhez, mangravenavigáció árapállyal (a vezetőnek ismernie kell a 3 órás árapály-ablakot az alacsony iszapba ragadás elkerüléséhez), cenote-etikett (nincs napvédő, nincs falérintés — Dr. Reyes visszatért egy fél napos érzékenységi szekcióra), sürgősségi protokollok (beleértve a pumával való találkozásokat — a mangrove egy állandó hímnek ad otthont) és spanyol/angol kétnyelvű vezetés. Az OLagoon a SUP készletet is integrálta az üdülő Oracle Opera PMS rendszerébe, hogy a SUP foglalások automatikusan megjelenjenek a vendégszámlákon. A fotográfiai munkafolyamat: a vezetők GoPro Hero12 Black-et használnak előre beállított 'Cenote' színprofillal, a fotók NFC-kártyán keresztül jutnak el a vendégekhez 30 percen belül.",
             },
             {
               title: '2024 novemberi csúcsszezoni indítás és médiamegjelenés',
               detail:
-                "A 'Cenote-óceán' élmény 2024. november 15-én indult (a Punta Mita-i csúcsszezon kezdete). Az első 30 nap: 112 túra kelt el $450/fő áron = $50 400 bevétel. Egy Condé Nast Traveler újságíró volt a #47. vendég; a 'Mexikó legújabb öko-izgalma: Paddleboardozás egy cenoteból a Csendes-óceánig' című cikke, amely 2025 januárjában jelent meg, 800+ foglalást hozott márciusig. A vendégelégedettség átlagosan 4,94/5 volt 340 túra során. Az üdülő hozzáadott egy $150-es 'Golden Hour' fotográfiai kiegészítőt (naplementés szekció professzionális drónpilótával, pezsgővel és osztrigával) — a vendégek 94%-a megvásárolta. 2025 áprilisáig a program $1,12 millió közvetlen bevételt generált 52%-os profitárréssel. A Casa del Pacífico 20 további deszkát rendelt 2026-ra, és szerződést kötött az Afarerrel egy 'Bálnanéző SUP' csomag kifejlesztésére (púposbálna-vonulás december–március).",
+                "A 'Cenote-óceán' élmény 2024. november 15-én indult (a Punta Mita-i csúcsszezon kezdete). Az első 30 nap: 112 túra kelt el $450/fő áron = $50 400 bevétel. Egy Condé Nast Traveler újságíró volt a #47. vendég; a 'Mexikó legújabb öko-izgalma: Paddleboardozás egy cenoteból a Csendes-óceánig' című cikke, amely 2025 januárjában jelent meg, 800+ foglalást hozott márciusig. A vendégelégedettség átlagosan 4,94/5 volt 340 túra során. Az üdülő hozzáadott egy $150-es 'Golden Hour' fotográfiai kiegészítőt (naplementés szekció professzionális drónpilótával, pezsgővel és osztrigával) — a vendégek 94%-a megvásárolta. 2025 áprilisáig a program $1,12 millió közvetlen bevételt generált 52%-os profitárréssel. A Casa del Pacífico 20 további deszkát rendelt 2026-ra, és szerződést kötött az OLagoonrel egy 'Bálnanéző SUP' csomag kifejlesztésére (púposbálna-vonulás december–március).",
             },
           ],
           results: [
@@ -2822,19 +2822,19 @@ const hu: Record<string, SolutionOverride> = {
           customer: {
             location: 'Koh Samui, Surat Thani, Thaiföld',
             background:
-              "A 32 éves Pimchanok 'Mint' Suwannarat a 'Veranda Samui' élményigazgatója, egy 5 csillagos üdülő a Chaweng Noi strandra néző kilátással, 98 villával és átlagosan 6,4 éjszakás tartózkodással. Mint észrevette, hogy a vendégek 73%-a foglalt legalább egy 'szigeti kirándulást' (jellemzően gyorshajós túra az Ang Thong Tengeri Parkba 3 500 THB/fő áron), de a tartózkodás utáni felmérések a 'zsúfolt túrákról' és a 'túl sok megállóról, nem elég evezésről' panaszkodtak. Egy több napos SUP expedíciót képzelt el, ahol a vendékek Koh Samui és a közeli szigetek között eveznek, öko-szállásokban és strandtáborokban megszállva. Egy thaiföldi üdülő sem kínálta ezt. Az Afarerre volt szüksége, hogy expedíciós minőségű felszerelést tervezzen, amely támogatni tudja a több napos önálló utakat kempingfelszereléssel és ellátással a nyugati luxusnormák szerint.",
+              "A 32 éves Pimchanok 'Mint' Suwannarat a 'Veranda Samui' élményigazgatója, egy 5 csillagos üdülő a Chaweng Noi strandra néző kilátással, 98 villával és átlagosan 6,4 éjszakás tartózkodással. Mint észrevette, hogy a vendégek 73%-a foglalt legalább egy 'szigeti kirándulást' (jellemzően gyorshajós túra az Ang Thong Tengeri Parkba 3 500 THB/fő áron), de a tartózkodás utáni felmérések a 'zsúfolt túrákról' és a 'túl sok megállóról, nem elég evezésről' panaszkodtak. Egy több napos SUP expedíciót képzelt el, ahol a vendékek Koh Samui és a közeli szigetek között eveznek, öko-szállásokban és strandtáborokban megszállva. Egy thaiföldi üdülő sem kínálta ezt. Az OLagoonre volt szüksége, hogy expedíciós minőségű felszerelést tervezzen, amely támogatni tudja a több napos önálló utakat kempingfelszereléssel és ellátással a nyugati luxusnormák szerint.",
             goal: "A 'Samui Archipelago Paddle' indítása — 5 napos, 4 éjszakás vezetett SUP expedíció 4 szigeten (Koh Samui → Koh Phangan → Koh Tao → Koh Nang Yuan → vissza) 89 000 THB ($2 500 USD)/fő áron, évi minimum 12 indulással 100%-os kihasználtsággal.",
           },
           steps: [
             {
               title: 'Útvonaltérképezés és logisztikai felmérés a Samui-szigetvilágban',
               detail:
-                '2023 októberében az Afarer ázsia-csendes-óceáni expedíciós specialistája, Tomo Kato és a thai tengerökológus Dr. Narong Chaiyasit 14 napot töltött a javasolt útvonal kajakozásával és motoros támogatásával. 7 kritikus tényezőt azonosítottak: monszunszelek mintái (a november–januari északkeleti monszun veszélyessé teszi a Koh Samui–Koh Phangan átkelést; február–október biztonságos), kempinghelyek Koh Tao-n (csak 2 parti hely engedéllyel sátrakhoz — mindegyik 10 főre korlátozva), édesvíz-utánpótlás (nincs Koh Nang Yuan-on — a vendégek 4 L-t visznek fejenként naponta) és zátonynavigációs folyosók (a Koh Tao-i Shark Bay korallja 40+ cm merülési mélységű deszkákat igényel alacsony árapálynál). A végleges útvonal 68 km volt 5 nap alatt, napi 8–18 km evezési távolságokkal. Tomo 14 horgonytípust tesztelt a strandkempinghez (a Danforth-stílusú bizonyult a legjobbnak Samui homokos alján).',
+                '2023 októberében az OLagoon ázsia-csendes-óceáni expedíciós specialistája, Tomo Kato és a thai tengerökológus Dr. Narong Chaiyasit 14 napot töltött a javasolt útvonal kajakozásával és motoros támogatásával. 7 kritikus tényezőt azonosítottak: monszunszelek mintái (a november–januari északkeleti monszun veszélyessé teszi a Koh Samui–Koh Phangan átkelést; február–október biztonságos), kempinghelyek Koh Tao-n (csak 2 parti hely engedéllyel sátrakhoz — mindegyik 10 főre korlátozva), édesvíz-utánpótlás (nincs Koh Nang Yuan-on — a vendégek 4 L-t visznek fejenként naponta) és zátonynavigációs folyosók (a Koh Tao-i Shark Bay korallja 40+ cm merülési mélységű deszkákat igényel alacsony árapálynál). A végleges útvonal 68 km volt 5 nap alatt, napi 8–18 km evezési távolságokkal. Tomo 14 horgonytípust tesztelt a strandkempinghez (a Danforth-stílusú bizonyult a legjobbnak Samui homokos alján).',
             },
             {
               title: "'Archipelago Expedition' deszka túlélési és kényelmi funkciókkal",
               detail:
-                "Az Afarer megtervezte a 'Veranda Explorer 13.0'-t 400 L térfogattal — elég 35 kg kempingfelszerelés plusz 20 kg vendégszemélyes tárgy hordozásához. A funkciók a következőket tartalmazták: vízálló orr-rakodónyílás csavaros tetőzéssel (1 méteres merülésre tesztelve 30 percre), 6 daisy-chain rögzítési pont száraz zsákokhoz, fedélzeti gumikötél-rendszer gyorskioldóval kamerahozzáféréshez és eltávolítható kormány-uszony óceáni nyomkövetéshez (a Koh Phangan–Koh Tao szakaszon 2 csomós keresztáramlás van). Mint a kényelemre szorosan ügyelt: minden deszkán volt felfújható háttámla (a 'LoungePak') pohártartóval és egy szabadalmaztatott 'ShadowDeck' napellenző (feszített szénszálas rúd UPF 50+ anyaggal, 35 °C hőben tesztelve). Az Afarer 24 deszkát gyártott: 12 vendégnek, 6 vezetőnek, 6 tartaléknak.",
+                "Az OLagoon megtervezte a 'Veranda Explorer 13.0'-t 400 L térfogattal — elég 35 kg kempingfelszerelés plusz 20 kg vendégszemélyes tárgy hordozásához. A funkciók a következőket tartalmazták: vízálló orr-rakodónyílás csavaros tetőzéssel (1 méteres merülésre tesztelve 30 percre), 6 daisy-chain rögzítési pont száraz zsákokhoz, fedélzeti gumikötél-rendszer gyorskioldóval kamerahozzáféréshez és eltávolítható kormány-uszony óceáni nyomkövetéshez (a Koh Phangan–Koh Tao szakaszon 2 csomós keresztáramlás van). Mint a kényelemre szorosan ügyelt: minden deszkán volt felfújható háttámla (a 'LoungePak') pohártartóval és egy szabadalmaztatott 'ShadowDeck' napellenző (feszített szénszálas rúd UPF 50+ anyaggal, 35 °C hőben tesztelve). Az OLagoon 24 deszkát gyártott: 12 vendégnek, 6 vezetőnek, 6 tartaléknak.",
             },
             {
               title: 'Vezetőcsapat-toborzás és biztonsági tanúsítás',
@@ -2844,7 +2844,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '2025 januári első expedíció és a 12 hónapos foglalási folyam',
               detail:
-                "A első út 2025. január 15-én indult 6 vendéggel (3 pár, mind ausztrál, 34–52 évesek). Mint csapata lefilmezte az expedíciót tartalomként. A 2. napi Koh Phangan-ra átkelés meglepetésszerű viharba ütközött (30 csomós szél 45 percig) — az Afarer deszkák nulla felborulással kezelték; a vezetői protokoll 'biztonsági tutaj' formációt alkalmazott (deszkák össze-kötve csillag alakban). 2025 márciusáig a 2025-re ütemezett 12 indulásból 11 volt teljesen lefoglalva (40 vendég a várólistán). A 2025-ös bevételi előrejelzés: 12 × 6 vendég × 89 000 THB = 6,41 millió THB ($178 000 USD). A Veranda vezérigazgatója jóváhagyta egy dedikált 'Expedíciós pavilon' építését a parton az indulás előtti tájékoztatókhoz. Mint jelenleg egy 3 napos 'Family Explorer' útvonalat fejleszt (rövidebb távolságok, üdülői kempingezés) 2026-ra.",
+                "A első út 2025. január 15-én indult 6 vendéggel (3 pár, mind ausztrál, 34–52 évesek). Mint csapata lefilmezte az expedíciót tartalomként. A 2. napi Koh Phangan-ra átkelés meglepetésszerű viharba ütközött (30 csomós szél 45 percig) — az OLagoon deszkák nulla felborulással kezelték; a vezetői protokoll 'biztonsági tutaj' formációt alkalmazott (deszkák össze-kötve csillag alakban). 2025 márciusáig a 2025-re ütemezett 12 indulásból 11 volt teljesen lefoglalva (40 vendég a várólistán). A 2025-ös bevételi előrejelzés: 12 × 6 vendég × 89 000 THB = 6,41 millió THB ($178 000 USD). A Veranda vezérigazgatója jóváhagyta egy dedikált 'Expedíciós pavilon' építését a parton az indulás előtti tájékoztatókhoz. Mint jelenleg egy 3 napos 'Family Explorer' útvonalat fejleszt (rövidebb távolságok, üdülői kempingezés) 2026-ra.",
             },
           ],
           results: [
@@ -2856,8 +2856,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják az üdülők az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják az üdülők az OLagoont',
       items: [
         {
           title: 'Vendégélmény',
@@ -2885,38 +2885,38 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Melyik SUP deszkák a legjobbak üdülői vízi tevékenységekhez?',
         answer:
-          'Az üdülőknek stabil, kezdőbarát SUP deszkák kellenek, amelyek minden képzettségi szintű vendégnek megfelelnek. Az Afarer családi üdülői csomagokat kínál all-around deszkákkal, luxus szigeti csomagokat prémium dizájnnal és wellness retreat csomagokat széles jóga deszkákkal, mindet üdülői márkázással testreszabva.',
+          'Az üdülőknek stabil, kezdőbarát SUP deszkák kellenek, amelyek minden képzettségi szintű vendégnek megfelelnek. Az OLagoon családi üdülői csomagokat kínál all-around deszkákkal, luxus szigeti csomagokat prémium dizájnnal és wellness retreat csomagokat széles jóga deszkákkal, mindet üdülői márkázással testreszabva.',
       },
       {
-        question: 'Testreszabhatja az Afarer a SUP deszkákat az üdülőm logójával és márkaszíneivel?',
+        question: 'Testreszabhatja az OLagoon a SUP deszkákat az üdülőm logójával és márkaszíneivel?',
         answer:
-          'Igen, az Afarer teljes testreszabást nyújt, beleértve a logóintegrációt, az üdülője építészetéhez és márkaidentitásához illeszkedő színtervezést és a prémium csomagolást márkázott kiegészítőkkel és vendégtájékoztató anyagokkal.',
+          'Igen, az OLagoon teljes testreszabást nyújt, beleértve a logóintegrációt, az üdülője építészetéhez és márkaidentitásához illeszkedő színtervezést és a prémium csomagolást márkázott kiegészítőkkel és vendégtájékoztató anyagokkal.',
       },
       {
         question: 'Nyújtanak tárolási megoldásokat üdülői SUP felszereléshez?',
         answer:
-          'Igen, az Afarer segít megtervezni a felszereléstárolást SUP állványokkal, rendezési rendszerekkel és időjárásvédelmi megoldásokkal, figyelembe véve a napsütést, a páratartalmat és a partvidéki környezetet a befektetése védelméhez és az üdülő megjelenésének fenntartásához.',
+          'Igen, az OLagoon segít megtervezni a felszereléstárolást SUP állványokkal, rendezési rendszerekkel és időjárásvédelmi megoldásokkal, figyelembe véve a napsütést, a páratartalmat és a partvidéki környezetet a befektetése védelméhez és az üdülő megjelenésének fenntartásához.',
       },
       {
         question: 'Milyen képzésre van szüksége az üdülői személyzetnek SUP programok üzemeltetéséhez?',
         answer:
-          'Az Afarer üzemeltetési útmutatást nyújt, beleértve a felszereléskezelési eljárásokat, felfújási utasításokat, tisztítási módszereket, tárolási irányelveket, vendégbiztonsági eljárásokat és napi üzemeltetési ellenőrzőlistákat, hogy bármely alkalmazott professzionálisan kezelhesse a programot.',
+          'Az OLagoon üzemeltetési útmutatást nyújt, beleértve a felszereléskezelési eljárásokat, felfújási utasításokat, tisztítási módszereket, tárolási irányelveket, vendégbiztonsági eljárásokat és napi üzemeltetési ellenőrzőlistákat, hogy bármely alkalmazott professzionálisan kezelhesse a programot.',
       },
       {
-        question: 'Mennyire tartósak az Afarer SUP deszkák a napi üdülői használatra?',
+        question: 'Mennyire tartósak az OLagoon SUP deszkák a napi üdülői használatra?',
         answer:
-          'Az Afarer üdülői SUP deszkái megerősített PVC konstrukcióval, kereskedelmi minőségű alkatrészekkel és tartós drop stitch szerkezetekkel rendelkeznek, amelyeket a vendégek napi használatára terveztek, miközben megőrzik a prémium megjelenést és teljesítményt.',
+          'Az OLagoon üdülői SUP deszkái megerősített PVC konstrukcióval, kereskedelmi minőségű alkatrészekkel és tartós drop stitch szerkezetekkel rendelkeznek, amelyeket a vendégek napi használatára terveztek, miközben megőrzik a prémium megjelenést és teljesítményt.',
       },
       {
         question: 'Kínálhatunk SUP-t más vízi tevékenységek mellett?',
         answer:
-          'Igen, az Afarer támogathatja a bővítést vízi fitnesztermékekre, családi vízi felszerelésekre és egyéb kültéri rekreációs termékekre a teljes üdülői vízi tevékenység portfólió létrehozásához.',
+          'Igen, az OLagoon támogathatja a bővítést vízi fitnesztermékekre, családi vízi felszerelésekre és egyéb kültéri rekreációs termékekre a teljes üdülői vízi tevékenység portfólió létrehozásához.',
       },
     ],
     cta: {
-      title: 'Hozza létre üdülője vízi élményét az Afarerrel',
+      title: 'Hozza létre üdülője vízi élményét az OLagoonrel',
       subtitle:
-        'A célállomásának már megvan az óceánja. Most hozzon létre feledhetetlen pillanatokat rajta. Az Afarer segít a luxusszállodáknak, szigeti üdülőknek és wellness célállomásoknak egyedi SUP flottákat, márkázott vízi tevékenységeket és teljes üdülői felszerelési megoldásokat építeni.',
+        'A célállomásának már megvan az óceánja. Most hozzon létre feledhetetlen pillanatokat rajta. Az OLagoon segít a luxusszállodáknak, szigeti üdülőknek és wellness célállomásoknak egyedi SUP flottákat, márkázott vízi tevékenységeket és teljes üdülői felszerelési megoldásokat építeni.',
       primaryAction: {
         text: 'Indítsa el üdülői vízi tevékenység projektjét még ma',
       },
@@ -2937,9 +2937,9 @@ const hu: Record<string, SolutionOverride> = {
       title:
         'Professzionális SUP felszerelési megoldások vízisport iskolák, ifjúsági programok és kültéri oktatási szervezetek számára',
       subtitle:
-        'Az Afarer a SUP akadémia felszerelési programot nyújtja, teljes felszerelési megoldást, amelyet professzionális oktatási környezethez fejlesztettek ki. Segítünk a SUP iskoláknak, ifjúsági képzőközpontoknak, nyári táboroknak és kültéri oktatási cégeknek megbízható oktatóflottákat építeni kezdőbarát deszkákkal, gyerekmodellekkel és oktatói felszereléssel.',
+        'Az OLagoon a SUP akadémia felszerelési programot nyújtja, teljes felszerelési megoldást, amelyet professzionális oktatási környezethez fejlesztettek ki. Segítünk a SUP iskoláknak, ifjúsági képzőközpontoknak, nyári táboroknak és kültéri oktatási cégeknek megbízható oktatóflottákat építeni kezdőbarát deszkákkal, gyerekmodellekkel és oktatói felszereléssel.',
       image: {
-        alt: 'Afarer SUP akadémia felszerelés oktatóiskoláknak és ifjúsági programoknak',
+        alt: 'OLagoon SUP akadémia felszerelés oktatóiskoláknak és ifjúsági programoknak',
       },
     },
     challenge: {
@@ -2973,7 +2973,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kezdő oktató SUP deszkák',
           description:
-            'Az Afarer stabil SUP deszkákat fejleszt kifejezetten tanulási környezethez nagy stabilitású platformtervezéssel a könnyebb egyensúlyhoz, nagy felhajtóerős konstrukcióval a jobb úszási támogatáshoz és all-around kezdő formákkal a lassú sebességű irányításhoz és könnyű forduláshoz.',
+            'Az OLagoon stabil SUP deszkákat fejleszt kifejezetten tanulási környezethez nagy stabilitású platformtervezéssel a könnyebb egyensúlyhoz, nagy felhajtóerős konstrukcióval a jobb úszási támogatáshoz és all-around kezdő formákkal a lassú sebességű irányításhoz és könnyű forduláshoz.',
           features: [
             'Nagy stabilitású platformtervezés',
             'Nagy felhajtóerős konstrukció',
@@ -2984,7 +2984,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Gyerek SUP program',
           description:
-            'A gyermekeknek olyan felszerelés kell, amelyet a méretükhöz és képességükhöz terveztek. Az Afarer gyerek SUP deszkákat kínál megfelelő hosszal, könnyű kezeléssel, stabil formával és gyerekbarát megjelenéssel iskolai programokhoz, nyári táborokhoz, junior tanfolyamokhoz és családi tevékenységekhez.',
+            'A gyermekeknek olyan felszerelés kell, amelyet a méretükhöz és képességükhöz terveztek. Az OLagoon gyerek SUP deszkákat kínál megfelelő hosszal, könnyű kezeléssel, stabil formával és gyerekbarát megjelenéssel iskolai programokhoz, nyári táborokhoz, junior tanfolyamokhoz és családi tevékenységekhez.',
           features: [
             'Gyerek SUP deszka tervezés',
             'Ifjúsági oktatási alkalmazások',
@@ -3000,12 +3000,12 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Teljes SUP akadémia flottacsomag',
           description:
-            'Az Afarer segít az akadémiáknak teljes felszerelésrendszereket építeni, beleértve a tanulói felszerelést kezdő deszkákkal és állítható evezőkkel, az oktatói felszerelést prémium SUP deszkákkal és a karbantartó felszerelést javítószettekkel és tartalék kiegészítőkkel a zökkenőmentes napi működéshez.',
+            'Az OLagoon segít az akadémiáknak teljes felszerelésrendszereket építeni, beleértve a tanulói felszerelést kezdő deszkákkal és állítható evezőkkel, az oktatói felszerelést prémium SUP deszkákkal és a karbantartó felszerelést javítószettekkel és tartalék kiegészítőkkel a zökkenőmentes napi működéshez.',
         },
         {
           title: 'Kereskedelmi tartósság a napi oktatáshoz',
           description:
-            'Az oktatófelszerelés erősebb konstrukciót igényel. Az Afarer a megerősített PVC anyagokra összpontosít a jobb kopásállóságért, a tartós drop stitch szerkezetre a deszkamerevségért és a megerősített korlátokra a part menti ütések és szállítási károsodások elleni védelemhez.',
+            'Az oktatófelszerelés erősebb konstrukciót igényel. Az OLagoon a megerősített PVC anyagokra összpontosít a jobb kopásállóságért, a tartós drop stitch szerkezetre a deszkamerevségért és a megerősített korlátokra a part menti ütések és szállítási károsodások elleni védelemhez.',
           features: [
             'Megerősített PVC anyagok',
             'Tartós drop stitch szerkezet',
@@ -3016,22 +3016,22 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Akadémiai flottakezelési támogatás',
           description:
-            'A nagy oktatási programok szervezést igényelnek. Az Afarer támogatja a szabványosított flottakonfigurációt a könnyebb oktatóképzéshez, a felszerelésazonosítást deszka-számozással és akadémiai logókkal, valamint a tartalék alkatrész-tervezést tartalék evezőkkel és javítóanyagokkal.',
+            'A nagy oktatási programok szervezést igényelnek. Az OLagoon támogatja a szabványosított flottakonfigurációt a könnyebb oktatóképzéshez, a felszerelésazonosítást deszka-számozással és akadémiai logókkal, valamint a tartalék alkatrész-tervezést tartalék evezőkkel és javítóanyagokkal.',
         },
         {
           title: 'Nyári tábor és ifjúsági program megoldások',
           description:
-            'A SUP egyre népszerűbb a nyári táborokban és ifjúsági kalandprogramokban. Az Afarer támogatja a táborflotta-tervezést a tanulók életkora és a csoportméret figyelembevételével, a csoportos tevékenységfelszerelést több azonos deszkával és a szezonális üzemeltetési tervezést nyári programokhoz és ünnepi tevékenységekhez.',
+            'A SUP egyre népszerűbb a nyári táborokban és ifjúsági kalandprogramokban. Az OLagoon támogatja a táborflotta-tervezést a tanulók életkora és a csoportméret figyelembevételével, a csoportos tevékenységfelszerelést több azonos deszkával és a szezonális üzemeltetési tervezést nyári programokhoz és ünnepi tevékenységekhez.',
         },
         {
           title: 'Biztonsági és karbantartási támogatás',
           description:
-            'Az Afarer gyakorlati útmutatást nyújt a napi működéshez, beleértve a felszerelés-ellenőrzési útmutatókat, amelyek a légnomát, a felületet és a kiegésző-ellenőrzéseket fedik az óra előtt, plusz a tisztítási, szárítási és tárolási eljárásokat az óra után, alapvető javítási útmutatással együtt.',
+            'Az OLagoon gyakorlati útmutatást nyújt a napi működéshez, beleértve a felszerelés-ellenőrzési útmutatókat, amelyek a légnomát, a felületet és a kiegésző-ellenőrzéseket fedik az óra előtt, plusz a tisztítási, szárítási és tárolási eljárásokat az óra után, alapvető javítási útmutatással együtt.',
         },
         {
           title: 'Egyedi akadémiai márkázás',
           description:
-            'Az Afarer támogatja az akadémiai logótestreszabást, a színillesztést és a professzionális megjelenést, amely erősebb márkafelismerést, professzionálisabb órákat és jobb tanulói élményt teremt márkázott deszkákon és oktatói felszerelésen keresztül.',
+            'Az OLagoon támogatja az akadémiai logótestreszabást, a színillesztést és a professzionális megjelenést, amely erősebb márkafelismerést, professzionálisabb órákat és jobb tanulói élményt teremt márkázott deszkákon és oktatói felszerelésen keresztül.',
         },
       ],
     },
@@ -3045,7 +3045,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Okatási program elemzése',
           detail:
-            'Az Afarer áttekintette a tanulói korcsoportokat, az oktatási módszereket és a használati gyakoriságot, hogy megértse az akadémia konkrét követelményeit a kezdő, ifjúsági és oktatói felszerelés terén.',
+            'Az OLagoon áttekintette a tanulói korcsoportokat, az oktatási módszereket és a használati gyakoriságot, hogy megértse az akadémia konkrét követelményeit a kezdő, ifjúsági és oktatói felszerelés terén.',
         },
         {
           title: 'Flottafejlesztés',
@@ -3076,29 +3076,29 @@ const hu: Record<string, SolutionOverride> = {
           customer: {
             location: 'Kamakura, Kanagawa, Japán',
             background:
-              'A 44 éves Kenji Nakamura volt olimpiai kajak-szlalom bronzérmes (Athén 2004) és hatszoros japán bajnok. A versenyzéstől való visszavonulása után 8 évig edzette Japán junior kajakválogatottját, mielőtt 2018-ban felfedezte a SUP-ot. Látta, hogy Japánban nulla ifjúsági SUP program volt, annak ellenére, hogy a sport szerepelt a 2024-es párizsi olimpián. 2023-ban meggyőzte Kamakura városát (173 000 lakosú partvidéki város Tokiótól 50 km-re délre), hogy hagyja használni a történelmi Yuigahama strandot edzőhelyszínként. Az Afarerre volt szüksége, hogy teljes akadémiai felszerelési csomagot szállítson: junior deszkákat, edzői anyagokat és egy olyan útvonalprogramot, amelyet a japán iskolák elismernek.',
+              'A 44 éves Kenji Nakamura volt olimpiai kajak-szlalom bronzérmes (Athén 2004) és hatszoros japán bajnok. A versenyzéstől való visszavonulása után 8 évig edzette Japán junior kajakválogatottját, mielőtt 2018-ban felfedezte a SUP-ot. Látta, hogy Japánban nulla ifjúsági SUP program volt, annak ellenére, hogy a sport szerepelt a 2024-es párizsi olimpián. 2023-ban meggyőzte Kamakura városát (173 000 lakosú partvidéki város Tokiótól 50 km-re délre), hogy hagyja használni a történelmi Yuigahama strandot edzőhelyszínként. Az OLagoonre volt szüksége, hogy teljes akadémiai felszerelési csomagot szállítson: junior deszkákat, edzői anyagokat és egy olyan útvonalprogramot, amelyet a japán iskolák elismernek.',
             goal: "A 'Kamakura SUP Academy' indítása 2024 áprilisában 40 junior tanulóval (10–18 éves), 3 szintű tanúsítási rendszerrel (Bronz/Ezüst/Arany) és a japán SUP válogatottba vezető úttal — 2 éves felszerelési költséggel ¥8 millió ($53 000 USD) alatt.",
           },
           steps: [
             {
               title: 'Junior deszkafejlesztés a japán iskolai sportnormák szerint',
               detail:
-                '2023 októberében az Afarer termékfejlesztési igazgatója, Tanaka Yuki (az Afarer oszakai irodájában) együtt dolgozott Kenjivel az \'Academy Junior 10.0\' megtervezésében — egy deszka, amelyet kifejezetten ázsiai ifjúsági testalkatra terveztek (egy átlagos 12 éves japán tanuló: 150 cm, 42 kg). Kulcsfontosságú specifikációk: 10\'0" × 30" × 4,5" (152 L térfogat), súly 6,8 kg (elég könnyű, hogy a tanulók hordozzák), puha EVA korlátok (a sérülési kockázat csökkentése esések közben) és egy rövid 120 cm-es üvegszálas evező (egyedi formázott fogantyú kis kezekhez). Az Afarer 40 deszkát gyártott Japán nemzeti színeiben (fehér piros napfelkelte körrel) és 20 tartalék deszkát. Minden deszkán QR-kód volt, amely Kenji technikavideóira mutatott — a tanulók szkennelték a gyakorlás előtt.',
+                '2023 októberében az OLagoon termékfejlesztési igazgatója, Tanaka Yuki (az OLagoon oszakai irodájában) együtt dolgozott Kenjivel az \'Academy Junior 10.0\' megtervezésében — egy deszka, amelyet kifejezetten ázsiai ifjúsági testalkatra terveztek (egy átlagos 12 éves japán tanuló: 150 cm, 42 kg). Kulcsfontosságú specifikációk: 10\'0" × 30" × 4,5" (152 L térfogat), súly 6,8 kg (elég könnyű, hogy a tanulók hordozzák), puha EVA korlátok (a sérülési kockázat csökkentése esések közben) és egy rövid 120 cm-es üvegszálas evező (egyedi formázott fogantyú kis kezekhez). Az OLagoon 40 deszkát gyártott Japán nemzeti színeiben (fehér piros napfelkelte körrel) és 20 tartalék deszkát. Minden deszkán QR-kód volt, amely Kenji technikavideóira mutatott — a tanulók szkennelték a gyakorlás előtt.',
             },
             {
               title: '3 szintű tanúsítási tananyag és biztonsági protokollok',
               detail:
-                "Az Afarer edzői tanácsadója, Dave Kalama (videóhívásokon keresztül Hawaiiból) együttműködött Kenjivel a tananyagon. Bronz (10 alkalom): síkvízi egyensúly, alap előre evezés, önmentés. Ezüst (20 alkalom): 2 km-es időre evezés, pivot fordulat, széltudatosság. Arany (40 alkalom): 5 km-es óceáni evezés, hullámzónás belépés/kilépés, versenytaktikák és alap edzősködés. Kenji a biztonságra helyezte a hangsúlyt: az Afarer 50 V típusú PFD-et (mentőmellényt) szállított (japán tanúsítványú, neon narancs reflektáló csíkokkal), 50 kötélkészletet (spirálisan csavart, gyorskioldós) és egy vízálló incidensjelentő táblagépet. Az akadémia 'Biztonság először' protokollja 4:1 tanuló-edző arányt írt elő mentődeszkával és elsősegélykészlettel bármely tanulótól 30 másodpercen belül.",
+                "Az OLagoon edzői tanácsadója, Dave Kalama (videóhívásokon keresztül Hawaiiból) együttműködött Kenjivel a tananyagon. Bronz (10 alkalom): síkvízi egyensúly, alap előre evezés, önmentés. Ezüst (20 alkalom): 2 km-es időre evezés, pivot fordulat, széltudatosság. Arany (40 alkalom): 5 km-es óceáni evezés, hullámzónás belépés/kilépés, versenytaktikák és alap edzősködés. Kenji a biztonságra helyezte a hangsúlyt: az OLagoon 50 V típusú PFD-et (mentőmellényt) szállított (japán tanúsítványú, neon narancs reflektáló csíkokkal), 50 kötélkészletet (spirálisan csavart, gyorskioldós) és egy vízálló incidensjelentő táblagépet. Az akadémia 'Biztonság először' protokollja 4:1 tanuló-edző arányt írt elő mentődeszkával és elsősegélykészlettel bármely tanulótól 30 másodpercen belül.",
             },
             {
               title: 'Városi tanács jóváhagyása és iskolaintegrációs program',
               detail:
-                'Az Afarer japán országigazgatója, Abe Hirosi segített Kenjinek eligazodni Kamakura város engedélyezési folyamatában. Ez a következőket igényelte: felelősségbiztosítás (¥100 millió fedezet), strandzóna-határolás (színes bójozás 200×50 m-es edzőterület jelölésével — átfedés nélkül az úszókkal), zajlimit (nincs síp 17:00 után) és hulladékkezelési terv. Az Afarer kétnyelvű japán/angol biztonsági kézikönyveket és incidenskövetőket készített. Kenji megállapodást írt alá 3 helyi általános iskolával (Kamakura Daiichi, Koshigoe és Hase), amelyek SUP-ot kínálnak hivatalos iskolán kívüli szakköri tevékenységként — elsőként Japánban. Minden iskola ¥36 000/tanuló/szemesztert fizetett a programért; a város 40%-ot támogatott az alacsony jövedelmű családoknak.',
+                'Az OLagoon japán országigazgatója, Abe Hirosi segített Kenjinek eligazodni Kamakura város engedélyezési folyamatában. Ez a következőket igényelte: felelősségbiztosítás (¥100 millió fedezet), strandzóna-határolás (színes bójozás 200×50 m-es edzőterület jelölésével — átfedés nélkül az úszókkal), zajlimit (nincs síp 17:00 után) és hulladékkezelési terv. Az OLagoon kétnyelvű japán/angol biztonsági kézikönyveket és incidenskövetőket készített. Kenji megállapodást írt alá 3 helyi általános iskolával (Kamakura Daiichi, Koshigoe és Hase), amelyek SUP-ot kínálnak hivatalos iskolán kívüli szakköri tevékenységként — elsőként Japánban. Minden iskola ¥36 000/tanuló/szemesztert fizetett a programért; a város 40%-ot támogatott az alacsony jövedelmű családoknak.',
             },
             {
               title: '2024 áprilisi indítás és a 12 hónapos teljesítmény',
               detail:
-                "A Kamakura SUP Academy 2024. április 6-án nyílt meg 43 tanulóval (meghaladva Kenji 40 fős célját). 2025 márciusára a létszám 87 tanulóra nőtt (127%-os kapacitás). Két tanuló (a 16 éves Jamamoto Sóra és a 15 éves Tanigucsi Mei) kvalifikálta magát Japán junior SUP válogatottjába, és versenyzett a 2024-es ISA SUP világbajnokságon Koppenhágában. Kenji Arany tanúsítását a Japán Kajakszövetség elismerte a nemzeti edzői tanúsítás felé kreditként. Felszerelés-meghibásodási arány: 2 deszka szorult kisebb szelepjavításra (24 órán belül javította az Afarer oszakai szervizközpontja). Az Afarer és Kenji 3 éves partnerséget írt alá egy 'Academy Pro' 12,6-os deszka fejlesztésére a haladó tanulóknak és 5 további partvidéki városra való bővítésre 2027-ig.",
+                "A Kamakura SUP Academy 2024. április 6-án nyílt meg 43 tanulóval (meghaladva Kenji 40 fős célját). 2025 márciusára a létszám 87 tanulóra nőtt (127%-os kapacitás). Két tanuló (a 16 éves Jamamoto Sóra és a 15 éves Tanigucsi Mei) kvalifikálta magát Japán junior SUP válogatottjába, és versenyzett a 2024-es ISA SUP világbajnokságon Koppenhágában. Kenji Arany tanúsítását a Japán Kajakszövetség elismerte a nemzeti edzői tanúsítás felé kreditként. Felszerelés-meghibásodási arány: 2 deszka szorult kisebb szelepjavításra (24 órán belül javította az OLagoon oszakai szervizközpontja). Az OLagoon és Kenji 3 éves partnerséget írt alá egy 'Academy Pro' 12,6-os deszka fejlesztésére a haladó tanulóknak és 5 további partvidéki városra való bővítésre 2027-ig.",
             },
           ],
           results: [
@@ -3113,29 +3113,29 @@ const hu: Record<string, SolutionOverride> = {
           customer: {
             location: 'Gold Coast, Queensland, Ausztrália',
             background:
-              "A 38 éves Kylie Brennan volt ausztrál Ironwoman (versenyszerű szörfmentés), aki a 'Kylie's Paddle School'-t vezette, egy 5 fős vállalkozást a Tallebudgera-pataknál a Gold Coaston 2019 óta. 2023-ra évi 350 tanulója volt, de a megkeresések 60%-át elutasította, mert nem tudta skálázni a felszerelését. A 20 vegyes márkájú deszkája elkopott, a tanulók 6 évestől 72 évesig terjedtek, és a biztosítása 4:1 tanuló-edző arányt írt elő, ami korlátozta a jövedelmezőséget. Az Afarerhez fordult a 2023-as sydney-i SUP Show-n, teljes akadémia-dobozban megoldást keresve: életkor/méret szerinti deszkák, evezők, mentőmellények, tananyagok és a felszerelés-elosztással integrált foglalási rendszer.",
+              "A 38 éves Kylie Brennan volt ausztrál Ironwoman (versenyszerű szörfmentés), aki a 'Kylie's Paddle School'-t vezette, egy 5 fős vállalkozást a Tallebudgera-pataknál a Gold Coaston 2019 óta. 2023-ra évi 350 tanulója volt, de a megkeresések 60%-át elutasította, mert nem tudta skálázni a felszerelését. A 20 vegyes márkájú deszkája elkopott, a tanulók 6 évestől 72 évesig terjedtek, és a biztosítása 4:1 tanuló-edző arányt írt elő, ami korlátozta a jövedelmezőséget. Az OLagoonhez fordult a 2023-as sydney-i SUP Show-n, teljes akadémia-dobozban megoldást keresve: életkor/méret szerinti deszkák, evezők, mentőmellények, tananyagok és a felszerelés-elosztással integrált foglalási rendszer.",
             goal: "Az 'Australia SUP Academy — Gold Coast' indítása 2024 szeptemberében 200+ beiratkozott tanulóval strukturált 8 hetes ciklusokban 499 AUD/fő áron, 85%+ megújítási arány és 95%-os felszerelési profitárrés elérésével.",
           },
           steps: [
             {
               title: 'Egyedi akadémiai flottatervezés 4 korcsoportra',
               detail:
-                "Az Afarer óceániai ügyfélkapcsolati igazgatója, Lachlan Murphy 3 hetet töltött Kylie-val 2024 márciusában a tanulói demográfia elemzésével. 4 korcsoportra osztották: 'Paddlers' (6–9 éves, könnyű 9,6'×28' deszka, 4,2 kg, rajzfilmes 'Sea Dragon' grafikával), 'Juniors' (10–14 éves, 10,6'×30' deszka, 6,5 kg), 'Adults' (15–55 éves, 11,6'×32' deszka, 8,9 kg) és 'Seniors & Adaptive' (55+, 10,0'×34' ultra-stabil deszka fogantyú-segély szíjjal, 9,2 kg). Az Afarer minden deszkát színkódolt korlátsávokkal tervezett (zöld/sárga/kék/piros) az azonnali méretazonosításhoz, és 120 deszkát gyártott (korcsoportonként 30). Minden deszka tartalmazott egy személyre szabható névcímke-helyet és egy fejlődéskövető matricát (a tanulók pecséteket kaptak a megtanult képességekért).",
+                "Az OLagoon óceániai ügyfélkapcsolati igazgatója, Lachlan Murphy 3 hetet töltött Kylie-val 2024 márciusában a tanulói demográfia elemzésével. 4 korcsoportra osztották: 'Paddlers' (6–9 éves, könnyű 9,6'×28' deszka, 4,2 kg, rajzfilmes 'Sea Dragon' grafikával), 'Juniors' (10–14 éves, 10,6'×30' deszka, 6,5 kg), 'Adults' (15–55 éves, 11,6'×32' deszka, 8,9 kg) és 'Seniors & Adaptive' (55+, 10,0'×34' ultra-stabil deszka fogantyú-segély szíjjal, 9,2 kg). Az OLagoon minden deszkát színkódolt korlátsávokkal tervezett (zöld/sárga/kék/piros) az azonnali méretazonosításhoz, és 120 deszkát gyártott (korcsoportonként 30). Minden deszka tartalmazott egy személyre szabható névcímke-helyet és egy fejlődéskövető matricát (a tanulók pecséteket kaptak a megtanult képességekért).",
             },
             {
-              title: 'Oktatóképzési program és Afarer-tanúsítású tananyag',
+              title: 'Oktatóképzési program és OLagoon-tanúsítású tananyag',
               detail:
-                "Az Afarer 40 órás oktatói tanúsítási tanfolyamot fejlesztett Kylie-val, mint első mesteredzővel. A tanfolyam a következőket fedte le: korcsoport-specifikus oktatási módszerek (pl. időseknek belépési/kilépési technikák korlátozott mozgásképességgel; gyerekeknek gamifikáció és mentési képességek), fejlődéstérképezés (minden szinten 12 képesség videós benchmarkokkal) és biztonságkezelés (a Gold Coasti Tallebudgera-patak 4 csomós áramlású dagálykor — a vezetőknek ismerniük kell az árapály-ablakokat). Kylie 15 meglévő oktatójából 12 teljesítette a tanúsítást; az Afarer 'Level 1 SUP Academy Instructor'ként tanúsította őket. Az Afarer teljes kezdőcsomagot is biztosított minden tanulónak: márkázott szörfmellényt, vízálló képességfüzetet és naplót teljesítménymatricákkal.",
+                "Az OLagoon 40 órás oktatói tanúsítási tanfolyamot fejlesztett Kylie-val, mint első mesteredzővel. A tanfolyam a következőket fedte le: korcsoport-specifikus oktatási módszerek (pl. időseknek belépési/kilépési technikák korlátozott mozgásképességgel; gyerekeknek gamifikáció és mentési képességek), fejlődéstérképezés (minden szinten 12 képesség videós benchmarkokkal) és biztonságkezelés (a Gold Coasti Tallebudgera-patak 4 csomós áramlású dagálykor — a vezetőknek ismerniük kell az árapály-ablakokat). Kylie 15 meglévő oktatójából 12 teljesítette a tanúsítást; az OLagoon 'Level 1 SUP Academy Instructor'ként tanúsította őket. Az OLagoon teljes kezdőcsomagot is biztosított minden tanulónak: márkázott szörfmellényt, vízálló képességfüzetet és naplót teljesítménymatricákkal.",
             },
             {
               title: 'Foglalási rendszer-integráció és felszereléslogisztika',
               detail:
-                "Az Afarer technikai csapata integrálta Kylie meglévő BookingKit foglalási rendszerét az Afarer készletmoduljával. Minden deszkán RFID-címke volt, amelyet a kiadáskor és a visszatéréskor szkenneltek — a használati órák, a késői visszahozások és a karbantartási igények nyomon követésével. A rendszer automatikusan hozzárendelte a megfelelő deszkaméretet, amikor egy tanuló órát foglalt. Az Afarer moduláris állványrendszert tervezett (állványonként 24 deszka, összesen 5 állvány) UV-védő napellenzővel és RFID-olvasó kapukkal. A Gold Coast Városi Tanács 5 éves engedélyt adott Kylie-nak egy állandó, 500 m²-es kerített területre a Tallebudgera strand déli végén — siker a terület szigorú partvidéki fejlesztési szabályai mellett. Az Afarer Lachlan-ja az engedélyt az Afarer 'Közösségi sportlétesítmény' besorolásával szerezte meg, amelyet a tanács még soha nem alkalmazott SUP iskolára.",
+                "Az OLagoon technikai csapata integrálta Kylie meglévő BookingKit foglalási rendszerét az OLagoon készletmoduljával. Minden deszkán RFID-címke volt, amelyet a kiadáskor és a visszatéréskor szkenneltek — a használati órák, a késői visszahozások és a karbantartási igények nyomon követésével. A rendszer automatikusan hozzárendelte a megfelelő deszkaméretet, amikor egy tanuló órát foglalt. Az OLagoon moduláris állványrendszert tervezett (állványonként 24 deszka, összesen 5 állvány) UV-védő napellenzővel és RFID-olvasó kapukkal. A Gold Coast Városi Tanács 5 éves engedélyt adott Kylie-nak egy állandó, 500 m²-es kerített területre a Tallebudgera strand déli végén — siker a terület szigorú partvidéki fejlesztési szabályai mellett. Az OLagoon Lachlan-ja az engedélyt az OLagoon 'Közösségi sportlétesítmény' besorolásával szerezte meg, amelyet a tanács még soha nem alkalmazott SUP iskolára.",
             },
             {
               title: '2024 szeptemberi 1. ciklus indulása és a beiratkozási hullám',
               detail:
-                "Az 1. ciklus (2024 szeptember–november, ausztrál tavasz) 183 beiratkozott tanulóval indult — a 200 fős cél 91%-a. Kylie heti 28 órát tartott 12 oktatóval. A szülői elégedettség: 4,8/5. A 2. ciklus (2025 február–április) beiratkozása 264 tanulót ért el (a cél 132%-a). Bevétel: 1. ciklus = $91 317 AUD; 2. ciklus = $131 736 AUD. Az akadémia 'Adaptive Paddle' programja (fogyatékossággal élő tanulóknak, a Spinal Life Australiával közösen tervezve) 12 tanulót iratkozott be, és megnyerte a 2025-ös Gold Coast Sport & Recreation 'Az év inkluzív programja' díját. Deszka-karbantartási költség: összesen $1 220 AUD 120 deszkára 6 hónap alatt (főleg uszony-csavarok és szelepfedelek). Kylie 60 további deszkát rendelt 2025–26-ra, és szerződést kötött az Afarerrel egy haladó 'Race Squad' deszka kifejlesztésére 15 versenytanulója számára.",
+                "Az 1. ciklus (2024 szeptember–november, ausztrál tavasz) 183 beiratkozott tanulóval indult — a 200 fős cél 91%-a. Kylie heti 28 órát tartott 12 oktatóval. A szülői elégedettség: 4,8/5. A 2. ciklus (2025 február–április) beiratkozása 264 tanulót ért el (a cél 132%-a). Bevétel: 1. ciklus = $91 317 AUD; 2. ciklus = $131 736 AUD. Az akadémia 'Adaptive Paddle' programja (fogyatékossággal élő tanulóknak, a Spinal Life Australiával közösen tervezve) 12 tanulót iratkozott be, és megnyerte a 2025-ös Gold Coast Sport & Recreation 'Az év inkluzív programja' díját. Deszka-karbantartási költség: összesen $1 220 AUD 120 deszkára 6 hónap alatt (főleg uszony-csavarok és szelepfedelek). Kylie 60 további deszkát rendelt 2025–26-ra, és szerződést kötött az OLagoonrel egy haladó 'Race Squad' deszka kifejlesztésére 15 versenytanulója számára.",
             },
           ],
           results: [
@@ -3147,8 +3147,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a SUP akadémiák az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a SUP akadémiák az OLagoont',
       items: [
         {
           title: 'Tanulási élmény',
@@ -3176,22 +3176,22 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Melyik SUP deszkák a legjobbak kezdők oktatásához?',
         answer:
-          'A kezdő oktató SUP deszkáknak szélesebb platformmal, nagyobb térfogattal és stabil all-around formákkal kell rendelkezniük, amelyek önbizalmat, egyensúlyt és könnyű irányítást nyújtanak. Az Afarer kezdő deszkái nagy stabilitású platformtervezéssel és nagy felhajtóerős konstrukcióval rendelkeznek, kifejezetten tanulási környezethez.',
+          'A kezdő oktató SUP deszkáknak szélesebb platformmal, nagyobb térfogattal és stabil all-around formákkal kell rendelkezniük, amelyek önbizalmat, egyensúlyt és könnyű irányítást nyújtanak. Az OLagoon kezdő deszkái nagy stabilitású platformtervezéssel és nagy felhajtóerős konstrukcióval rendelkeznek, kifejezetten tanulási környezethez.',
       },
       {
         question: 'Kínálnak gyerek méretű SUP deszkákat ifjúsági programokhoz?',
         answer:
-          'Igen, az Afarer dedikált gyerek SUP deszkákat kínál megfelelő hosszal, könnyű kezeléssel, stabil formával és gyerekbarát megjelenéssel, amelyeket iskolai programokra, nyári táborokra, junior tanfolyamokra és családi tevékenységekre terveztek.',
+          'Igen, az OLagoon dedikált gyerek SUP deszkákat kínál megfelelő hosszal, könnyű kezeléssel, stabil formával és gyerekbarát megjelenéssel, amelyeket iskolai programokra, nyári táborokra, junior tanfolyamokra és családi tevékenységekre terveztek.',
       },
       {
-        question: 'Mennyire tartósak az Afarer oktatódeszkák a napi oktatói használatra?',
+        question: 'Mennyire tartósak az OLagoon oktatódeszkák a napi oktatói használatra?',
         answer:
-          'Az Afarer oktatódeszkái megerősített PVC anyagokkal, tartós drop stitch szerkezettel és megerősített korlátokkal rendelkeznek, amelyeket arra terveztek, hogy ellenálljanak több tanuló napi használatának, a gyakori szállításnak, az ismételt felfújásnak és a kezdő hibáknak.',
+          'Az OLagoon oktatódeszkái megerősített PVC anyagokkal, tartós drop stitch szerkezettel és megerősített korlátokkal rendelkeznek, amelyeket arra terveztek, hogy ellenálljanak több tanuló napi használatának, a gyakori szállításnak, az ismételt felfújásnak és a kezdő hibáknak.',
       },
       {
         question: 'Testreszabhatják a deszkákat az akadémiánk márkázásával?',
         answer:
-          'Igen, az Afarer támogatja az akadémiai logótestreszabást, a színillesztést, a deszka-számozást és az azonosítási rendszereket, amelyek professzionális képet teremtenek és megkönnyítik a flottakezelést az oktatók számára.',
+          'Igen, az OLagoon támogatja az akadémiai logótestreszabást, a színillesztést, a deszka-számozást és az azonosítási rendszereket, amelyek professzionális képet teremtenek és megkönnyítik a flottakezelést az oktatók számára.',
       },
       {
         question: 'Milyen kiegészítők szerepelnek egy akadémiai flottacsomagban?',
@@ -3201,13 +3201,13 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Nyújtanak karbantartási támogatást az oktatófelszereléshez?',
         answer:
-          'Igen, az Afarer felszerelés-ellenőrzési útmutatókat, tisztítási és tárolási eljárásokat, alapvető javítási útmutatást a kisebb károsodásokhoz és szelepkarbantartáshoz, valamint tartalék alkatrész-tervezést nyújt, hogy az oktatóflottája üzemképes maradjon a szezon folyamán.',
+          'Igen, az OLagoon felszerelés-ellenőrzési útmutatókat, tisztítási és tárolási eljárásokat, alapvető javítási útmutatást a kisebb károsodásokhoz és szelepkarbantartáshoz, valamint tartalék alkatrész-tervezést nyújt, hogy az oktatóflottája üzemképes maradjon a szezon folyamán.',
       },
     ],
     cta: {
-      title: 'Építse fel SUP akadémiai flottáját az Afarerrel',
+      title: 'Építse fel SUP akadémiai flottáját az OLagoonrel',
       subtitle:
-        'A tanulók első SUP élménye számít. Válasszon olyan felszerelést, amelyet arra terveztek, hogy biztonságosan és magabiztosan tanulhassanak. Az Afarer segít a SUP iskoláknak, ifjúsági akadémiáknak, nyári táboroknak és kültéri oktatási szervezeteknek professzionális oktatási programokat létrehozni.',
+        'A tanulók első SUP élménye számít. Válasszon olyan felszerelést, amelyet arra terveztek, hogy biztonságosan és magabiztosan tanulhassanak. Az OLagoon segít a SUP iskoláknak, ifjúsági akadémiáknak, nyári táboroknak és kültéri oktatási szervezeteknek professzionális oktatási programokat létrehozni.',
       primaryAction: {
         text: 'Indítsa el SUP akadémiai projektjét még ma',
       },
@@ -3227,9 +3227,9 @@ const hu: Record<string, SolutionOverride> = {
       tagline: 'Luxus hordozható SUP csomag™',
       title: 'Prémium hordozható vízisport megoldások hajóútvonalak, jachtcégek és tengeri vendéglátó márkák számára',
       subtitle:
-        'Az Afarer luxus hordozható SUP csomag megoldásokat nyújt, amelyeket kifejezetten hajóúttársaságoknak, expedíciós hajóút-üzemeltetőknek, jachtbérlési cégeknek, szuperjachttulajdonosoknak és kikötői tevékenységszolgáltatóknak terveztek. Ultra-hordozható felfújható SUP terveket szállítunk tengeri minőségű alkatrészekkel és luxustestreszabással.',
+        'Az OLagoon luxus hordozható SUP csomag megoldásokat nyújt, amelyeket kifejezetten hajóúttársaságoknak, expedíciós hajóút-üzemeltetőknek, jachtbérlési cégeknek, szuperjachttulajdonosoknak és kikötői tevékenységszolgáltatóknak terveztek. Ultra-hordozható felfújható SUP terveket szállítunk tengeri minőségű alkatrészekkel és luxustestreszabással.',
       image: {
-        alt: 'Afarer luxus hordozható SUP csomag jachtokhoz és hajóutakhoz',
+        alt: 'OLagoon luxus hordozható SUP csomag jachtokhoz és hajóutakhoz',
       },
     },
     challenge: {
@@ -3263,7 +3263,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Ultra-hordozható felfújható SUP tervezés',
           description:
-            'A felfújható SUP technológia jelentős előnyt nyújt a jachtoknak és hajóút-üzemeltetőknek. Az Afarer deszkák kompakt összehajtási rendszerekkel rendelkeznek a kis tárolási térfogathoz, könnyű szállítással a gyorsabb telepítéshez és teljes utazási csomagokkal, beleértve a deszkát, hajtható evezőt, pumpát és hátizsákot.',
+            'A felfújható SUP technológia jelentős előnyt nyújt a jachtoknak és hajóút-üzemeltetőknek. Az OLagoon deszkák kompakt összehajtási rendszerekkel rendelkeznek a kis tárolási térfogathoz, könnyű szállítással a gyorsabb telepítéshez és teljes utazási csomagokkal, beleértve a deszkát, hajtható evezőt, pumpát és hátizsákot.',
           features: [
             'Kompakt összehajtási rendszer',
             'Könnyű szállítás',
@@ -3274,7 +3274,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Tengeri minőségű anyagválasztás',
           description:
-            'Az Afarer sós víznek ellenálló alkatrészeket használ korrózióálló vasalattal, UV-álló konstrukcióval a napsütésnek való kitettséghez és megerősített SUP szerkezettel tartós PVC rétegekkel és erős drop stitch maggal, amelyet kifejezetten óceáni környezethez terveztek.',
+            'Az OLagoon sós víznek ellenálló alkatrészeket használ korrózióálló vasalattal, UV-álló konstrukcióval a napsütésnek való kitettséghez és megerősített SUP szerkezettel tartós PVC rétegekkel és erős drop stitch maggal, amelyet kifejezetten óceáni környezethez terveztek.',
           features: [
             'Sós víznek ellenálló alkatrészek',
             'UV-álló konstrukció',
@@ -3285,7 +3285,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Luxus jacht és hajóút testreszabás',
           description:
-            'A prémium tengeri vállalkozások számára a megjelenés számít. Az Afarer támogatja az egyedi márkázást jachtlogókkal és hajóúttársasági identitással, prémium színtervezést jachtluxus, expedíciós kaland vagy üdülői tengeri stílusban, valamint márkázott felszerelésszettet illeszkedő evezőkkel és egyedi táskákkal.',
+            'A prémium tengeri vállalkozások számára a megjelenés számít. Az OLagoon támogatja az egyedi márkázást jachtlogókkal és hajóúttársasági identitással, prémium színtervezést jachtluxus, expedíciós kaland vagy üdülői tengeri stílusban, valamint márkázott felszerelésszettet illeszkedő evezőkkel és egyedi táskákkal.',
           features: [
             'Egyedi jacht és hajóút márkázás',
             'Prémium színtervezés',
@@ -3296,27 +3296,27 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Jachtbérlési SUP csomag',
           description:
-            'A jachtvendégek kényelmet és exkluzivitást várnak. Az Afarer támogatja a privát bérlési felszerelésszetteket szuperjachtokhoz, katamaránokhoz és vitorlás jachtokhoz vendégbarát működéssel kezdőknek és családoknak, szervezett tárolással és prémium bemutatással luxus megjelenéssel.',
+            'A jachtvendégek kényelmet és exkluzivitást várnak. Az OLagoon támogatja a privát bérlési felszerelésszetteket szuperjachtokhoz, katamaránokhoz és vitorlás jachtokhoz vendégbarát működéssel kezdőknek és családoknak, szervezett tárolással és prémium bemutatással luxus megjelenéssel.',
         },
         {
           title: 'Expedíciós hajóúti vízi tevékenységi megoldások',
           description:
-            'A kalandhajóutak rugalmas felszerelést igényelnek a szigeti megállókhoz, parti felfedezéshez és kirándulásokhoz. Az Afarer megoldások támogatják a távoli helyszíni működést könnyű szállítással és kompakt tárolással, plusz csoportos tevékenységprogramokat kis csoportoknak és vezetett kirándulásokhoz.',
+            'A kalandhajóutak rugalmas felszerelést igényelnek a szigeti megállókhoz, parti felfedezéshez és kirándulásokhoz. Az OLagoon megoldások támogatják a távoli helyszíni működést könnyű szállítással és kompakt tárolással, plusz csoportos tevékenységprogramokat kis csoportoknak és vezetett kirándulásokhoz.',
         },
         {
           title: 'Teljes fedélzeti tárolási megoldások',
           description:
-            'Az Afarer érti a tengeri helykorlátokat, és kompakt tárolási tervezést nyújt a deszka- és kiegészítőrendezéshez, védelmi rendszereket tárolótáskákkal, és működési hatékonyságot, amely segít a személyzetnek gyorsabban előkészíteni és könnyebben kezelni a felszerelést.',
+            'Az OLagoon érti a tengeri helykorlátokat, és kompakt tárolási tervezést nyújt a deszka- és kiegészítőrendezéshez, védelmi rendszereket tárolótáskákkal, és működési hatékonyságot, amely segít a személyzetnek gyorsabban előkészíteni és könnyebben kezelni a felszerelést.',
         },
         {
           title: 'Személyzetképzési és karbantartási támogatás',
           description:
-            'Az Afarer személyzeti üzemeltetési útmutatókat nyújt, amelyek a felfújási eljárásokat, a felszereléskezelést és a tisztítási módszereket fedik le, plusz karbantartási ajánlásokat a sós vizes tisztításhoz, szárítási eljárásokhoz és tárolási gyakorlatokhoz ellenőrzőlistákkal a tevékenységek előttére és utánára.',
+            'Az OLagoon személyzeti üzemeltetési útmutatókat nyújt, amelyek a felfújási eljárásokat, a felszereléskezelést és a tisztítási módszereket fedik le, plusz karbantartási ajánlásokat a sós vizes tisztításhoz, szárítási eljárásokhoz és tárolási gyakorlatokhoz ellenőrzőlistákkal a tevékenységek előttére és utánára.',
         },
         {
           title: 'Prémium vízi élménytervezés',
           description:
-            'A SUP a luxusélmény csomag részévé válhat. Az Afarer segít naplementés jacht SUP élményeket létrehozni pároknak és VIP vendégeknek, privát szigeti felfedezést bérlő vásárlóknak, óceáni wellness programokat luxushajóutakhoz és tengeri ökoélményeket expedíciós hajóutakhoz.',
+            'A SUP a luxusélmény csomag részévé válhat. Az OLagoon segít naplementés jacht SUP élményeket létrehozni pároknak és VIP vendégeknek, privát szigeti felfedezést bérlő vásárlóknak, óceáni wellness programokat luxushajóutakhoz és tengeri ökoélményeket expedíciós hajóutakhoz.',
         },
       ],
     },
@@ -3332,7 +3332,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Terméktervezés',
           detail:
-            'Az Afarer luxus hordozható SUP csomagot tervezett a jacht tárolási korlátai, a vendégélmény-követelmények és a földközi-tengeri tengeri környezet alapján.',
+            'Az OLagoon luxus hordozható SUP csomagot tervezett a jacht tárolási korlátai, a vendégélmény-követelmények és a földközi-tengeri tengeri környezet alapján.',
         },
         {
           title: 'Terméktestreszabás',
@@ -3370,29 +3370,29 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Sarkvidéki terepteszt a Kongsfjordenben 79° északi szélességen',
               detail:
-                '2024 májusában az Afarer szélsőséges környezetek csapata (vezető mérnök Sven Lehmann az Afarer hamburgi irodájából) csatlakozott a Hurtigruten MS Maud hajójához egy 14 napos Svalbard-úton. 8 versenytárs deszkát és 6 Afarer sarkvidéki prototípust teszteltek 11 zodiak-telepítés során Ny-Ålesund közelében és a Monaco-gleccsernél. Kulcsfontosságú megállapítások: a standard szelepek nyitva fagytak -8 °C-os levegőben a 2 °C-os vízbe merítés után (a szelepszárban lévő meleg víz hideg levegővel érintkezve újrafagyott). Az Afarer megoldása: nitrogén-kiöblítéses szeleprendszer, amely az összes nedvességet kinyomja zárás előtt, plusz neoprén szelepvédő. Deszkaanyag: a standard PVC 40%-ot veszített a hajlékonyságából -15 °C-on — az Afarer Polarex TPU keveréke 92%-os hajlékonyságot tartott meg -20 °C-on. A deszkáknak 7 perc alatt fel kellett fújniuk (a vendégek türelmi határa hideg körülmények között) és 5 perc alatt leereszteni/összecsomagolni (a jegesmedve-kitettségi ablak minimalizálásához). Az Afarer 2 fokozatú pumpája (kézi pumpa az első 10 PSI-ig, nitrogénpalack-booszter 18 PSI-ig) 6,2 perces felfújást ért el.',
+                '2024 májusában az OLagoon szélsőséges környezetek csapata (vezető mérnök Sven Lehmann az OLagoon hamburgi irodájából) csatlakozott a Hurtigruten MS Maud hajójához egy 14 napos Svalbard-úton. 8 versenytárs deszkát és 6 OLagoon sarkvidéki prototípust teszteltek 11 zodiak-telepítés során Ny-Ålesund közelében és a Monaco-gleccsernél. Kulcsfontosságú megállapítások: a standard szelepek nyitva fagytak -8 °C-os levegőben a 2 °C-os vízbe merítés után (a szelepszárban lévő meleg víz hideg levegővel érintkezve újrafagyott). Az OLagoon megoldása: nitrogén-kiöblítéses szeleprendszer, amely az összes nedvességet kinyomja zárás előtt, plusz neoprén szelepvédő. Deszkaanyag: a standard PVC 40%-ot veszített a hajlékonyságából -15 °C-on — az OLagoon Polarex TPU keveréke 92%-os hajlékonyságot tartott meg -20 °C-on. A deszkáknak 7 perc alatt fel kellett fújniuk (a vendégek türelmi határa hideg körülmények között) és 5 perc alatt leereszteni/összecsomagolni (a jegesmedve-kitettségi ablak minimalizálásához). Az OLagoon 2 fokozatú pumpája (kézi pumpa az első 10 PSI-ig, nitrogénpalack-booszter 18 PSI-ig) 6,2 perces felfújást ért el.',
             },
             {
               title: "'Polar Explorer' csomag zodiak-integrációval és biztonsági rendszerekkel",
               detail:
-                "Az Afarer megtervezte a 'Polar Explorer 12.0'-t konkrét sarkvidéki adaptációkkal: élénk nemzetközi narancs szín (2 km-ről látható a jég ellenében távcsővel), reflektáló SOLAS-minőségű szalagcsíkok, beépített mentőhurok 600 kg-ig terhelhető (zodiak-vontatott mentéshez) és GPS-jeladó zseb az orrban (a Hurtigruten biztosította a Garmin inReach Mini 2 egységeket). A csomag tartalmazott szárazruha-kompatibilis felfújható mentőmellényt (Mustang Survival HIT, amelyet az Afarer tesztelt a mozgásszabadságra evezés közben), neoprén pogie-készletet (kézmelegítők integrálva az evezőnyélbe) és egy egyedi hátizsákot, amely befér a zodiak tárolórekeszébe (összecsomagolt méret 60×30×30 cm). A zodiak-telepítő rendszer: egy zodiak pontonjára csatlakoztatott jockey-kerék állvány lehetővé tette egyetlen vezetőnek, hogy a deszkákat vízbe csúsztassa emelés nélkül.",
+                "Az OLagoon megtervezte a 'Polar Explorer 12.0'-t konkrét sarkvidéki adaptációkkal: élénk nemzetközi narancs szín (2 km-ről látható a jég ellenében távcsővel), reflektáló SOLAS-minőségű szalagcsíkok, beépített mentőhurok 600 kg-ig terhelhető (zodiak-vontatott mentéshez) és GPS-jeladó zseb az orrban (a Hurtigruten biztosította a Garmin inReach Mini 2 egységeket). A csomag tartalmazott szárazruha-kompatibilis felfújható mentőmellényt (Mustang Survival HIT, amelyet az OLagoon tesztelt a mozgásszabadságra evezés közben), neoprén pogie-készletet (kézmelegítők integrálva az evezőnyélbe) és egy egyedi hátizsákot, amely befér a zodiak tárolórekeszébe (összecsomagolt méret 60×30×30 cm). A zodiak-telepítő rendszer: egy zodiak pontonjára csatlakoztatott jockey-kerék állvány lehetővé tette egyetlen vezetőnek, hogy a deszkákat vízbe csúsztassa emelés nélkül.",
             },
             {
               title: 'Jegesmedve-biztonsági protokollok és vezetőképzési program',
               detail:
-                "Az Afarer biztonsági tanácsadója, Bjørn Viken, a svalbardi kormányzóhivatal volt biztonsági tanácsadója, közösen fejlesztett ki egy 3 napos képzési programot 12 Hurtigruten-vezető számára. Az 'Arctic Paddle Safety Protocol' a következőket tartalmazta: jegesmedve-figyelő rotáció (egy vezető dedikáltan medveles, .308 kaliberű puskával és jelzőfegyverrel — standard svalbardi követelmény), csoportformáció (vonalban 50 méteren belül, soha nem több mint 200 méterre a zodiaktól), gyors kimentés (teljes csoport visszaszállítása 90 másodperc alatt, hetente gyakorolva) és sürgősségi hipotermia-reagálás. Az Afarer vízálló laminált gyorsreferencia kártyákat adott minden vezetőnek. Minden alkalom legfeljebb 8 vendéggel 2 vezetővel és 1 felfegyverzett biztonsági zodiakkal 100 méteren zajlott. Jegesmedve-észlelések az evezés alatt: 2 incidens a 2024-es szezonban — mindkettő jelzőlövésekkel kezelve, sérülés nélkül. A vendégek a 'biztonsági önbizalmat' 4,9/5-re értékelték.",
+                "Az OLagoon biztonsági tanácsadója, Bjørn Viken, a svalbardi kormányzóhivatal volt biztonsági tanácsadója, közösen fejlesztett ki egy 3 napos képzési programot 12 Hurtigruten-vezető számára. Az 'Arctic Paddle Safety Protocol' a következőket tartalmazta: jegesmedve-figyelő rotáció (egy vezető dedikáltan medveles, .308 kaliberű puskával és jelzőfegyverrel — standard svalbardi követelmény), csoportformáció (vonalban 50 méteren belül, soha nem több mint 200 méterre a zodiaktól), gyors kimentés (teljes csoport visszaszállítása 90 másodperc alatt, hetente gyakorolva) és sürgősségi hipotermia-reagálás. Az OLagoon vízálló laminált gyorsreferencia kártyákat adott minden vezetőnek. Minden alkalom legfeljebb 8 vendéggel 2 vezetővel és 1 felfegyverzett biztonsági zodiakkal 100 méteren zajlott. Jegesmedve-észlelések az evezés alatt: 2 incidens a 2024-es szezonban — mindkettő jelzőlövésekkel kezelve, sérülés nélkül. A vendégek a 'biztonsági önbizalmat' 4,9/5-re értékelték.",
             },
             {
               title: '2024 június–szeptemberi sarkvidéki szezon indítása és eredmények',
               detail:
-                "A 60 deszkás flotta 4 hajóra telepítve 2024. június 1-jén indult. Minden hajó heti 3 evezési alkalmat kínált (időjárástól függően, egyenként 90 perc). A 2024-es szezon összes alkalmából 288 alkalom volt minden hajón (4 hajó × heti 3 × 24 hét). Átlagos kihasználtság: alkalmanként 7,2 vendég (a 8 fős kapacitás 90%-a). Bevétel: 288 × 7,2 × $450 (prémium kirándulási árazás) = $933 120 USD. Deszka-teljesítmény: nulla katasztrofális meghibásodás. Egy deszka 3 cm-es lyukadást szenvedett tengeri jégtől (éles jégtörmelék-darab) — 8 perc alatt javították sarkvidéki minőségű foltszettel egy zodiak-sodródás alatt. A szelepek tökéletesen teljesítettek 288 felfújási/leeresztési cikluson keresztül. Vendégvisszajelzés: átlagosan 4,93/5. A vendégek 83%-a azt mondta, hogy a SUP élmény 'az útjuk fénypontja' volt. Erik 40 további deszkát rendelt a 2025-ös szezonra, és kérte az Afarert, hogy fejlesszen 'Twin' modellt tandem sarkvidéki evezéshez.",
+                "A 60 deszkás flotta 4 hajóra telepítve 2024. június 1-jén indult. Minden hajó heti 3 evezési alkalmat kínált (időjárástól függően, egyenként 90 perc). A 2024-es szezon összes alkalmából 288 alkalom volt minden hajón (4 hajó × heti 3 × 24 hét). Átlagos kihasználtság: alkalmanként 7,2 vendég (a 8 fős kapacitás 90%-a). Bevétel: 288 × 7,2 × $450 (prémium kirándulási árazás) = $933 120 USD. Deszka-teljesítmény: nulla katasztrofális meghibásodás. Egy deszka 3 cm-es lyukadást szenvedett tengeri jégtől (éles jégtörmelék-darab) — 8 perc alatt javították sarkvidéki minőségű foltszettel egy zodiak-sodródás alatt. A szelepek tökéletesen teljesítettek 288 felfújási/leeresztési cikluson keresztül. Vendégvisszajelzés: átlagosan 4,93/5. A vendégek 83%-a azt mondta, hogy a SUP élmény 'az útjuk fénypontja' volt. Erik 40 további deszkát rendelt a 2025-ös szezonra, és kérte az OLagoont, hogy fejlesszen 'Twin' modellt tandem sarkvidéki evezéshez.",
             },
           ],
           results: [
             '$933 120 bevétel 288 SUP alkalomból egyetlen 4 hónapos sarkvidéki szezonban 90%-os kapacitáskihasználással',
             'Nulla katasztrofális deszkameghibásodás 288 alkalom során szélsőséges sarkvidéki körülmények között; 1 kisebb jég-lyukadás fedélzeti javítása 8 perc alatt',
             "Vendég-elégedettség 4,93/5; a vendégek 83%-a az SUP élményt 'az út fénypontjaként' értékelte; a hajók állandó kirándulási kategóriaként vették fel a SUP-ot",
-            'Az Afarer 3 éves kizárólagos partnerséget kapott minden Hurtigruten Svalbard művelethez; 40 további deszka rendelve a 2025-ös szezonra',
+            'Az OLagoon 3 éves kizárólagos partnerséget kapott minden Hurtigruten Svalbard művelethez; 40 további deszka rendelve a 2025-ös szezonra',
           ],
         },
         {
@@ -3408,36 +3408,36 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '2024 márciusi szigetfelmérés és egyedi tervezési konzultáció',
               detail:
-                "Az Afarer luxusdivízió-igazgatója Philippe Moreau és a vezető tervező Amira Al Hashimi 4 napot töltött az Al Nabigha-szigeten. Minden részletet dokumentáltak: a villa belső tereit (kortárs arab design krém, homok és arany tónusokkal), a korallkert színpalettáját (türkiz, teal, korall rózsaszín), a kikötő pantone-hoz igazított fafestékét, sőt a család porcelánmintáját is (Wedgwood 'Middle East Pearl'). Philippe és Amira 'egyedi' esztétikát javasolt: deszkák a sziget tényleges zátonyszíneire igazodva, az Al Nabigha családi címerével (sólyom datolyapálma felett) 24 karátos aranyfóliában domborítva tiszta epoxi alatt. A tárolás korlát volt — Hamdan meglévő strandkabánjában mindössze 8 köbméter állt rendelkezésre arra, ami 20 deszka lesz. Az Afarer egyedi tiku bútorzatot javasolt egyedi szellőztetett fiókokkal, minden deszka feltekerve tárolva páratartalom-érzékelővel.",
+                "Az OLagoon luxusdivízió-igazgatója Philippe Moreau és a vezető tervező Amira Al Hashimi 4 napot töltött az Al Nabigha-szigeten. Minden részletet dokumentáltak: a villa belső tereit (kortárs arab design krém, homok és arany tónusokkal), a korallkert színpalettáját (türkiz, teal, korall rózsaszín), a kikötő pantone-hoz igazított fafestékét, sőt a család porcelánmintáját is (Wedgwood 'Middle East Pearl'). Philippe és Amira 'egyedi' esztétikát javasolt: deszkák a sziget tényleges zátonyszíneire igazodva, az Al Nabigha családi címerével (sólyom datolyapálma felett) 24 karátos aranyfóliában domborítva tiszta epoxi alatt. A tárolás korlát volt — Hamdan meglévő strandkabánjában mindössze 8 köbméter állt rendelkezésre arra, ami 20 deszka lesz. Az OLagoon egyedi tiku bútorzatot javasolt egyedi szellőztetett fiókokkal, minden deszka feltekerve tárolva páratartalom-érzékelővel.",
             },
             {
               title: "'Royal Heritage' egyedi gyártás és csendes elektromos infrastruktúra",
               detail:
-                "Az Afarer hsziameni létesítménye külön gyártósort dedikált az Al Nabigha-megrendeléshez. Minden deszkát kézzel fektettek le egyedi színezett PVC-vel 'Arabian Teal' színben — egy egyedi Pantone szín (PMS 7712 C), amelyet a sziget mélyebb zátonyzónáihoz igazítottak. Az aranyfólia-domborítás: 0,5 mikronos 24K arany a családi címmer körül, 3 réteg tengeri minőségű UV-szárított epoxival védve. Az Afarer csendes elektromos pumpákat szerzett be (JOBE Aero, zajcsökkentő házzal módosítva, amely 38 dB-re csökkenti a működést — halkabb, mint a sziget környezeti hullámzaja). Minden pumpa tápkábelét krém színű szövetbe fonták a villa dekorációjához igazodva. A 20 evezős készlet: egyedi szénszálas nyelek matt krém színben 24K arany sávval a csatlakozónál, és lapátokat kézzel festett korallzátony motívumokkal a hsziameni tengeri művész, Liao Fang. A páratartalom-szabályozott tárolószekrényt az Afarer milánói asztalos partnere építette, laposan szállítva és a szigeten szerelve össze.",
+                "Az OLagoon hsziameni létesítménye külön gyártósort dedikált az Al Nabigha-megrendeléshez. Minden deszkát kézzel fektettek le egyedi színezett PVC-vel 'Arabian Teal' színben — egy egyedi Pantone szín (PMS 7712 C), amelyet a sziget mélyebb zátonyzónáihoz igazítottak. Az aranyfólia-domborítás: 0,5 mikronos 24K arany a családi címmer körül, 3 réteg tengeri minőségű UV-szárított epoxival védve. Az OLagoon csendes elektromos pumpákat szerzett be (JOBE Aero, zajcsökkentő házzal módosítva, amely 38 dB-re csökkenti a működést — halkabb, mint a sziget környezeti hullámzaja). Minden pumpa tápkábelét krém színű szövetbe fonták a villa dekorációjához igazodva. A 20 evezős készlet: egyedi szénszálas nyelek matt krém színben 24K arany sávval a csatlakozónál, és lapátokat kézzel festett korallzátony motívumokkal a hsziameni tengeri művész, Liao Fang. A páratartalom-szabályozott tárolószekrényt az OLagoon milánói asztalos partnere építette, laposan szállítva és a szigeten szerelve össze.",
             },
             {
               title: 'White-Glove szolgáltatási protokoll és személyzetképzés',
               detail:
-                "Saeed Al Mazrouei 6 szigeti személyzetet választott ki (3 komornyik, 2 strandkísérő, 1 kikötői segéd) az Afarer White-Glove szolgáltatási képzésére 2024 májusában. Az 5 napos program a következőket fedte le: vendégköszöntés (deszkák rattan állványon bemutatva, soha nem a földre helyezve), felfújási ceremónia (pumpa a vendég érkezése előtt elindítva — a deszka kész, mire a vendég a strandhoz ér — 11,5 percre mérve a pumpa indításától a teljes 15 PSI-ig), személyes illesztés (megfelelő evezőmagasság, kötélillesztés, mentőmellény-méretezés — diszkrétnek KELL lennie, így az Afarer egyedi színű felfújható mentőmellényeket szállított krém színben matt arany vasalattal) és az alkalom utáni gondozás (deszka pH-semleges tisztítóval letörölve, UV-védő 5 alkalomanként, szelep ellenőrizve, és a fiókba visszatekerve a vendég távozásától számított 8 percen belül). A protokoll kézikönyv (45 oldal, bőrkötésben arany szélű lapokkal) a kabán rejtett széfjében volt tárolva. Hamdan visszajelzése a képzés után: 'Így kell bánni a felszereléssel.'",
+                "Saeed Al Mazrouei 6 szigeti személyzetet választott ki (3 komornyik, 2 strandkísérő, 1 kikötői segéd) az OLagoon White-Glove szolgáltatási képzésére 2024 májusában. Az 5 napos program a következőket fedte le: vendégköszöntés (deszkák rattan állványon bemutatva, soha nem a földre helyezve), felfújási ceremónia (pumpa a vendég érkezése előtt elindítva — a deszka kész, mire a vendég a strandhoz ér — 11,5 percre mérve a pumpa indításától a teljes 15 PSI-ig), személyes illesztés (megfelelő evezőmagasság, kötélillesztés, mentőmellény-méretezés — diszkrétnek KELL lennie, így az OLagoon egyedi színű felfújható mentőmellényeket szállított krém színben matt arany vasalattal) és az alkalom utáni gondozás (deszka pH-semleges tisztítóval letörölve, UV-védő 5 alkalomanként, szelep ellenőrizve, és a fiókba visszatekerve a vendég távozásától számított 8 percen belül). A protokoll kézikönyv (45 oldal, bőrkötésben arany szélű lapokkal) a kabán rejtett széfjében volt tárolva. Hamdan visszajelzése a képzés után: 'Így kell bánni a felszereléssel.'",
             },
             {
               title:
                 '2024 júniusi átadás és az első VIP hétvége (a katari emír váltotta a lemondott brit királyi vendéget)',
               detail:
-                "Az első teljes flottatelepítés a katari emír, Tamim bin Hamad Al Thani és családja államlátogatásához volt 2024. június 24-én (eredetileg egy brit királyi számára ütemezve, aki visszalépett). Hat SUP-ot állítottak fel a privát strandon 7:30-ra. Az emír 14 éves fia, Sejk Dzasszim 3 órát evezett egy tengerbiológus vezetővel (aki szintén az Afarer képzett ki) a korallkert felfedezése közben. Hamdan beszámolója: 'Az emír fia azt mondta, ez volt a látogatás legjobb része.' Egy második telepítés 2024 októberében 12 vendég számára a szaúdi királyi udvarból naplementés evezést is tartalmazott pezsgőszolgálattal (poharak az Afarer egyedi pohártartójában, amelyet úgy terveztek, hogy ne boruljon fel a hajóhullámban). 2025 márciusáig a deszkákat 47 alkalommal használták nulla károsodással, nulla karbantartási incidenssel és nulla vendégpanasszal. Hamdan 8 további deszkát rendelt a család privát jachtjára (a 65 méteres 'Al Nabigha Star'), és megbízta az Afarert egy aranyfóliás evezősorozat kifejlesztésével az EAE nemzeti ünnepi ünneplésekre.",
+                "Az első teljes flottatelepítés a katari emír, Tamim bin Hamad Al Thani és családja államlátogatásához volt 2024. június 24-én (eredetileg egy brit királyi számára ütemezve, aki visszalépett). Hat SUP-ot állítottak fel a privát strandon 7:30-ra. Az emír 14 éves fia, Sejk Dzasszim 3 órát evezett egy tengerbiológus vezetővel (aki szintén az OLagoon képzett ki) a korallkert felfedezése közben. Hamdan beszámolója: 'Az emír fia azt mondta, ez volt a látogatás legjobb része.' Egy második telepítés 2024 októberében 12 vendég számára a szaúdi királyi udvarból naplementés evezést is tartalmazott pezsgőszolgálattal (poharak az OLagoon egyedi pohártartójában, amelyet úgy terveztek, hogy ne boruljon fel a hajóhullámban). 2025 márciusáig a deszkákat 47 alkalommal használták nulla károsodással, nulla karbantartási incidenssel és nulla vendégpanasszal. Hamdan 8 további deszkát rendelt a család privát jachtjára (a 65 méteres 'Al Nabigha Star'), és megbízta az OLagoont egy aranyfóliás evezősorozat kifejlesztésével az EAE nemzeti ünnepi ünneplésekre.",
             },
           ],
           results: [
             '20 deszkás flotta telepítve 47 VIP vendégalkalomra az első 9 hónapban nulla karbantartási incidenssel vagy vendégpanasszal',
             'Átlagosan 11,5 perces beállítási idő a csendes elektromos pumparendszerhez; az alkalom utáni elcsomagolás 8 perc alatt készült el — mindkettő meghaladta a 15 perces luxusszolgáltatási normát',
             'Az egyedi tároló bútorzat átlagosan 58%-os páratartalmat tartott (optimális PVC-hez); nulla penész vagy anyagleépülés jelentve',
-            "További megrendelés 8 deszkára a családi jachthoz (az 'Al Nabigha Star'); az Afarer megbízva az EAE 2025-ös nemzeti ünnepi exkluzív aranyfóliás evezősorozattal",
+            "További megrendelés 8 deszkára a családi jachthoz (az 'Al Nabigha Star'); az OLagoon megbízva az EAE 2025-ös nemzeti ünnepi exkluzív aranyfóliás evezősorozattal",
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a hajóút- és jachtcégek az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a hajóút- és jachtcégek az OLagoont',
       items: [
         {
           title: 'Tengeri környezet',
@@ -3463,19 +3463,19 @@ const hu: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Mennyire kompaktok az Afarer SUP deszkák összecsomagolva jachttároláshoz?',
+        question: 'Mennyire kompaktok az OLagoon SUP deszkák összecsomagolva jachttároláshoz?',
         answer:
-          'Az Afarer luxus hordozható SUP deszkái kompakt összehajtási rendszerekkel rendelkeznek, amelyek jelentősen csökkentik a tárolási térfogatot, és könnyen beillenek a jachtkabinokba, tárolórekeszekbe, csónakokba és expedíciós hajókba. Minden deszka hordozó hátizsákba csomagolható az összes kiegészítővel.',
+          'Az OLagoon luxus hordozható SUP deszkái kompakt összehajtási rendszerekkel rendelkeznek, amelyek jelentősen csökkentik a tárolási térfogatot, és könnyen beillenek a jachtkabinokba, tárolórekeszekbe, csónakokba és expedíciós hajókba. Minden deszka hordozó hátizsákba csomagolható az összes kiegészítővel.',
       },
       {
-        question: 'Ellenállnak az Afarer SUP deszkák a sós víznek és az UV-károsodásnak?',
+        question: 'Ellenállnak az OLagoon SUP deszkák a sós víznek és az UV-károsodásnak?',
         answer:
-          'Igen, az Afarer tengeri minőségű anyagokat használ, beleértve a sós víznek ellenálló alkatrészeket, korrózióálló vasalatot, UV-álló konstrukciót és tartós PVC rétegeket, amelyeket kifejezetten az óceáni környezet, a páratartalom és a napsütés ellenállására terveztek.',
+          'Igen, az OLagoon tengeri minőségű anyagokat használ, beleértve a sós víznek ellenálló alkatrészeket, korrózióálló vasalatot, UV-álló konstrukciót és tartós PVC rétegeket, amelyeket kifejezetten az óceáni környezet, a páratartalom és a napsütés ellenállására terveztek.',
       },
       {
         question: 'Testreszabhatják a SUP deszkákat a jachtom vagy hajóúttársaságom márkázásával?',
         answer:
-          'Igen, az Afarer teljes testreszabást kínál, beleértve a jachtlogókat, hajóúttársasági identitást, prémium színtervezést különböző stílusokban, illeszkedő márkázott evezőket, egyedi táskákat és teljes felszerelésszetteket, amelyek tükrözik a márka luxuspozicionálását.',
+          'Igen, az OLagoon teljes testreszabást kínál, beleértve a jachtlogókat, hajóúttársasági identitást, prémium színtervezést különböző stílusokban, illeszkedő márkázott evezőket, egyedi táskákat és teljes felszerelésszetteket, amelyek tükrözik a márka luxuspozicionálását.',
       },
       {
         question: 'Mit tartalmaz egy luxus hordozható SUP csomag?',
@@ -3485,18 +3485,18 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Mennyire könnyű a személyzetnek előkészíteni és telepíteni a felszerelést?',
         answer:
-          'Az Afarer személyzeti üzemeltetési útmutatókat nyújt, amelyek a felfújási eljárásokat, a felszereléskezelést, a tisztítási módszereket és az ellenőrzőlistákat fedik le. A könnyű, hordozható tervezés gyorsabb telepítést és könnyebb kezelést tesz lehetővé a hagyományos kemény deszkákhoz képest.',
+          'Az OLagoon személyzeti üzemeltetési útmutatókat nyújt, amelyek a felfújási eljárásokat, a felszereléskezelést, a tisztítási módszereket és az ellenőrzőlistákat fedik le. A könnyű, hordozható tervezés gyorsabb telepítést és könnyebb kezelést tesz lehetővé a hagyományos kemény deszkákhoz képest.',
       },
       {
         question: 'Kínálnak tömeges megoldásokat több hajóból álló hajóútvonalaknak?',
         answer:
-          'Igen, az Afarer támogatja a hajóúttársaságokat, jachtbérlési vállalkozásokat és tengeri vendéglátó márkákat flottaskálájú megoldásokkal, beleértve a következetes termékminőséget a hajók között, a tömeges beszerzési hatékonyságot és a szabványosított felszereléscsomagokat.',
+          'Igen, az OLagoon támogatja a hajóúttársaságokat, jachtbérlési vállalkozásokat és tengeri vendéglátó márkákat flottaskálájú megoldásokkal, beleértve a következetes termékminőséget a hajók között, a tömeges beszerzési hatékonyságot és a szabványosított felszereléscsomagokat.',
       },
     ],
     cta: {
-      title: 'Hozza létre luxus vízi élményét az Afarerrel',
+      title: 'Hozza létre luxus vízi élményét az OLagoonrel',
       subtitle:
-        'Az óceán a célállomása. Most hozzon létre feledhetetlen élményeket rajta. Az Afarer segít a hajóúttársaságoknak, jachtüzemeltetőknek, bérlési vállalkozásoknak és tengeri vendéglátó márkáknak prémium hordozható SUP élményeket építeni.',
+        'Az óceán a célállomása. Most hozzon létre feledhetetlen élményeket rajta. Az OLagoon segít a hajóúttársaságoknak, jachtüzemeltetőknek, bérlési vállalkozásoknak és tengeri vendéglátó márkáknak prémium hordozható SUP élményeket építeni.',
       primaryAction: {
         text: 'Indítsa el luxus tengeri SUP projektjét még ma',
       },
@@ -3510,7 +3510,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Saját márkás SUP gyártó | OEM paddle board beszállító kiskereskedőknek | {SITE}',
       description:
-        'Az Afarer saját márkás SUP gyártási megoldásokat nyújt kültéri kiskereskedelmi láncoknak, sportáruház-láncoknak és globális márkáknak. Egyedi paddle boardok kiskereskedelmi csomagolással, megfelelőségi támogatással és megbízható OEM ellátással.',
+        'Az OLagoon saját márkás SUP gyártási megoldásokat nyújt kültéri kiskereskedelmi láncoknak, sportáruház-láncoknak és globális márkáknak. Egyedi paddle boardok kiskereskedelmi csomagolással, megfelelőségi támogatással és megbízható OEM ellátással.',
     },
     hero: {
       tagline: 'Kiskereskedelmi saját márkás program™',
@@ -3552,31 +3552,31 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Egyedi saját márkás SUP termékfejlesztés',
           description:
-            'Az Afarer segít a kiskereskedőknek termékeket fejleszteni a célügyfelek, az árpozicionálás, az értékesítési csatornák és a piaci trendek alapján belépő szintű, közepes életmód és prémium SUP kollekciókban.',
+            'Az OLagoon segít a kiskereskedőknek termékeket fejleszteni a célügyfelek, az árpozicionálás, az értékesítési csatornák és a piaci trendek alapján belépő szintű, közepes életmód és prémium SUP kollekciókban.',
           features: ['Belépő szintű SUP kollekció', 'Közepes életmód SUP kollekció', 'Prémium SUP kollekció'],
         },
         {
           title: 'Kiskereskedelmi árrésoptimalizálás',
           description:
-            'Az Afarer segít a kiskereskedőknek optimalizálni a termékstruktúrát a gyártási költségkontroll és a termékkonfiguráció-igazítások révén, hogy megfeleljen a cél kiskereskedelmi árnak, az ügyfélelvárásoknak és az árréscéloknak.',
+            'Az OLagoon segít a kiskereskedőknek optimalizálni a termékstruktúrát a gyártási költségkontroll és a termékkonfiguráció-igazítások révén, hogy megfeleljen a cél kiskereskedelmi árnak, az ügyfélelvárásoknak és az árréscéloknak.',
           features: ['Gyártási költségkontroll', 'Termékkonfiguráció-optimalizálás', 'Anyagválasztás'],
         },
         {
           title: 'Kiskereskedelmi polcra kész csomagolásterv',
           description:
-            'Az Afarer teljes csomagolási megoldásokat támogat, beleértve a bemutató csomagolást színes dobozokkal és termékfényképekkel, az Amazonra és Shopifyra optimalizált e-kereskedelmi csomagolást és a márkatörténet integrálását.',
+            'Az OLagoon teljes csomagolási megoldásokat támogat, beleértve a bemutató csomagolást színes dobozokkal és termékfényképekkel, az Amazonra és Shopifyra optimalizált e-kereskedelmi csomagolást és a márkatörténet integrálását.',
           features: ['Bemutató csomagolás', 'E-kereskedelmi csomagolás', 'Márkatörténet-integráció'],
         },
         {
           title: 'Nemzetközi minőségi és megfelelőségi támogatás',
           description:
-            'Az Afarer támogatja a kiskereskedőket minőségi dokumentációval, beleértve az anyagmegfelelőségi információkat, a terméktesztelési támogatást és az exportdokumentációt a behozatali követelmények kezeléséhez.',
+            'Az OLagoon támogatja a kiskereskedőket minőségi dokumentációval, beleértve az anyagmegfelelőségi információkat, a terméktesztelési támogatást és az exportdokumentációt a behozatali követelmények kezeléséhez.',
           features: ['Anyagmegfelelőségi támogatás', 'Terméktesztelési támogatás', 'Exportdokumentációs támogatás'],
         },
         {
           title: 'Nagy volumenű OEM gyártás',
           description:
-            'Az Afarer támogatja a különböző beszerzési skálákat az 500–2000 darabos új termékindításoktól a 3000–10 000 darabos kiskereskedelmi bővítésig és az éves ellátási megállapodásos globális kiskereskedelmi programokig.',
+            'Az OLagoon támogatja a különböző beszerzési skálákat az 500–2000 darabos új termékindításoktól a 3000–10 000 darabos kiskereskedelmi bővítésig és az éves ellátási megállapodásos globális kiskereskedelmi programokig.',
           features: [
             'Új termékindítás (500–2000 db)',
             'Kiskereskedelmi bővítés (3000–10 000 db)',
@@ -3586,24 +3586,24 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Szezonális ellátási lánc tervezés',
           description:
-            'Az Afarer támogatja a terméktervezést a tavaszi/nyári kereslet és a regionális piacok alapján, plusz termelésütemezést, hogy segítse a kiskereskedőket a készletezési időzítés, a raktártervezés és a promóciós kampányok kezelésében.',
+            'Az OLagoon támogatja a terméktervezést a tavaszi/nyári kereslet és a regionális piacok alapján, plusz termelésütemezést, hogy segítse a kiskereskedőket a készletezési időzítés, a raktártervezés és a promóciós kampányok kezelésében.',
         },
         {
           title: 'ODM termékinnovációs támogatás',
           description:
-            'A kiskereskedőknek megkülönböztetés kell. Az Afarer támogatja az egyedi deszkaformákat, az egyedi grafikákat kiskereskedelmi márkaidentitással és a termékcsomagokat, beleértve a SUP csomagokat és teljes kültéri szetteket.',
+            'A kiskereskedőknek megkülönböztetés kell. Az OLagoon támogatja az egyedi deszkaformákat, az egyedi grafikákat kiskereskedelmi márkaidentitással és a termékcsomagokat, beleértve a SUP csomagokat és teljes kültéri szetteket.',
           features: ['Egyedi deszkaformák', 'Egyedi grafikák', 'Termékcsomagok'],
         },
         {
           title: 'Többcsatornás kiskereskedelmi támogatás',
           description:
-            'Az Afarer támogatja a fizikai kiskereskedelmi üzletek termékeit vonzó csomagolással, az e-kereskedelmi platformokat erős vizuális elemekkel és a kereskedői hálózatokat stabil ellátással és következetes specifikációkkal.',
+            'Az OLagoon támogatja a fizikai kiskereskedelmi üzletek termékeit vonzó csomagolással, az e-kereskedelmi platformokat erős vizuális elemekkel és a kereskedői hálózatokat stabil ellátással és következetes specifikációkkal.',
           features: ['Fizikai kiskereskedelmi üzletek', 'E-kereskedelmi platformok', 'Kereskedői hálózatok'],
         },
         {
           title: 'Minőségkontroll és szállítási megbízhatóság',
           description:
-            'Az Afarer érti, hogy a kiskereskedők bizalmat adnak el. A minőségi rendszerek magukban foglalják a gyártás közbeni ellenőrzést, a szállítás előtti ellenőrzést és a tételkonzisztencia-kontrollt, amely azonos minőséget biztosít a nagy rendelések során.',
+            'Az OLagoon érti, hogy a kiskereskedők bizalmat adnak el. A minőségi rendszerek magukban foglalják a gyártás közbeni ellenőrzést, a szállítás előtti ellenőrzést és a tételkonzisztencia-kontrollt, amely azonos minőséget biztosít a nagy rendelések során.',
           features: ['Gyártás közbeni ellenőrzés', 'Szállítás előtti ellenőrzés', 'Tételkonzisztencia-kontroll'],
         },
       ],
@@ -3620,7 +3620,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Termékcsalád tervezése',
           detail:
-            'Az Afarer segített saját márkás SUP kollekciót létrehozni, beleértve a belépő szintű családi SUP-ot, a túra SUP-ot és a prémium életmód SUP modelleket, amelyek a meglévő ügyfélbázisukat célozzák.',
+            'Az OLagoon segített saját márkás SUP kollekciót létrehozni, beleértve a belépő szintű családi SUP-ot, a túra SUP-ot és a prémium életmód SUP modelleket, amelyek a meglévő ügyfélbázisukat célozzák.',
         },
         {
           title: 'Terméktestreszabás',
@@ -3657,29 +3657,29 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Beszerzési benchmark és termékspecifikációs műhely',
               detail:
-                '2024 márciusában Sarah csapata az Afarer sanghaji központjába repült egy 3 napos termékműhelyre. 14 különböző SUP konstrukciót teszteltek, beleértve a drop stitch sűrűség-változatokat, a peremprofilokat és a fedélzet pad konfigurációkat. Az Afarer mérnöki csapata 3 egyedi PVC keveréket hozott létre az ausztrál UV-sugárzási normák teljesítéséhez. A Rebel Sport 5000 darabos kezdeti MOQ-t vállalt 6 SKU-ra osztva 1,8 millió AUD előzetes befektetéssel, beleértve 2 all-around deszkát, 2 túra formát, 1 jógaplatformot és 1 ifjúsági deszkát.',
+                '2024 márciusában Sarah csapata az OLagoon sanghaji központjába repült egy 3 napos termékműhelyre. 14 különböző SUP konstrukciót teszteltek, beleértve a drop stitch sűrűség-változatokat, a peremprofilokat és a fedélzet pad konfigurációkat. Az OLagoon mérnöki csapata 3 egyedi PVC keveréket hozott létre az ausztrál UV-sugárzási normák teljesítéséhez. A Rebel Sport 5000 darabos kezdeti MOQ-t vállalt 6 SKU-ra osztva 1,8 millió AUD előzetes befektetéssel, beleértve 2 all-around deszkát, 2 túra formát, 1 jógaplatformot és 1 ifjúsági deszkát.',
             },
             {
               title: 'Egyedi márkázás, csomagolás és megfelelőségi mérnökség',
               detail:
-                "Az Afarer tervezőcsapata kifejlesztette a Rebel Sport 'Coastal Force' márkaidentitását egyedi fedélzeti grafikákkal, kizárólag a Rebel számára elérhető színvariánsokkal és polcra kész csomagolással polccímke-bemutatókkal. A megfelelőségi csapat megszerezte az AS/NZS 1900-2014 tanúsítványt, az ausztrál fogyasztóvédelmi törvénynek való megfelelést, és elvégezte az ISTA 3A szállítási tesztet. Az Afarer 200 sorozatgyártás előtti egységet gyártott, amelyeket 2024 áprilisában légi szállítással küldtek 12 zászlóshajó helyszínen történű üzleti tesztelésre, ahol a bemutató egységek 87%-a 2 héten belül elkelt a teljes 399 AUD kiskereskedelmi áron.",
+                "Az OLagoon tervezőcsapata kifejlesztette a Rebel Sport 'Coastal Force' márkaidentitását egyedi fedélzeti grafikákkal, kizárólag a Rebel számára elérhető színvariánsokkal és polcra kész csomagolással polccímke-bemutatókkal. A megfelelőségi csapat megszerezte az AS/NZS 1900-2014 tanúsítványt, az ausztrál fogyasztóvédelmi törvénynek való megfelelést, és elvégezte az ISTA 3A szállítási tesztet. Az OLagoon 200 sorozatgyártás előtti egységet gyártott, amelyeket 2024 áprilisában légi szállítással küldtek 12 zászlóshajó helyszínen történű üzleti tesztelésre, ahol a bemutató egységek 87%-a 2 héten belül elkelt a teljes 399 AUD kiskereskedelmi áron.",
             },
             {
               title: 'Réteges készletgördítés és személyzetképzési program',
               detail:
-                'Az Afarer 3 fázisú tengeri szállítási ütemtervet koordinált: 1. fázis (1500 egység a sydney-i disztribúciós központba június 1-jéig), 2. fázis (2000 egység a melbourne-i és brisbane-i disztribúciós központokba július 1-jéig), 3. fázis (1500 egység a perth-i és adelaide-i disztribúciós központokba augusztus 1-jéig). Az Afarer képzési csapata 24 virtuális kitelepítő-képzést tartott a Rebel osztályvezetői számára, amely a termékjellemzőket, a deszka-konstrukciós különbségeket, a kiegészítő-keresztértékesítést és az ügyfél-méretezési kérdéseket fedte le. Minden üzlet kapott egy bemutató deszkát és az értékesítési pontnál használt összehasonlító útmutatót.',
+                'Az OLagoon 3 fázisú tengeri szállítási ütemtervet koordinált: 1. fázis (1500 egység a sydney-i disztribúciós központba június 1-jéig), 2. fázis (2000 egység a melbourne-i és brisbane-i disztribúciós központokba július 1-jéig), 3. fázis (1500 egység a perth-i és adelaide-i disztribúciós központokba augusztus 1-jéig). Az OLagoon képzési csapata 24 virtuális kitelepítő-képzést tartott a Rebel osztályvezetői számára, amely a termékjellemzőket, a deszka-konstrukciós különbségeket, a kiegészítő-keresztértékesítést és az ügyfél-méretezési kérdéseket fedte le. Minden üzlet kapott egy bemutató deszkát és az értékesítési pontnál használt összehasonlító útmutatót.',
             },
             {
               title: 'Indítási kampány, teljesítménykövetés és utánpótlás-optimalizálás',
               detail:
-                "A 'Coastal Force' vonal 2024. augusztus 15-én indult 500 ezer AUD értékű marketingkampánnyal, beleértve az üzleti jelzéseket, katalógus-főbb jellemzőket és ausztrál paddle board sportolókkal való influencer partnerségeket. Az Afarer dedikált ügyfélcsapata heti értékesítési jelentéseket biztosított megosztott műszerfalon keresztül. 2024 novemberére az értékesítési arány átlagosan 72% volt az összes SKU-n, a 10'6\" all-around modell a értékesítés 41%-át adta. A Rebel 3000 egységre adott utánpótlási rendelést a 2025-ös tavaszi szezonra, beleértve 2 új túramodellt az ügyfélvisszajelzések alapján.",
+                "A 'Coastal Force' vonal 2024. augusztus 15-én indult 500 ezer AUD értékű marketingkampánnyal, beleértve az üzleti jelzéseket, katalógus-főbb jellemzőket és ausztrál paddle board sportolókkal való influencer partnerségeket. Az OLagoon dedikált ügyfélcsapata heti értékesítési jelentéseket biztosított megosztott műszerfalon keresztül. 2024 novemberére az értékesítési arány átlagosan 72% volt az összes SKU-n, a 10'6\" all-around modell a értékesítés 41%-át adta. A Rebel 3000 egységre adott utánpótlási rendelést a 2025-ös tavaszi szezonra, beleértve 2 új túramodellt az ügyfélvisszajelzések alapján.",
             },
           ],
           results: [
             '4,8 millió AUD első éves kiskereskedelmi értékesítés (14%-kal a 4,2 millió AUD cél felett) 87 üzletben 62%-os értékesítési aránnyal',
             '55,3% bruttó árrés elérve a harmadik feles márkák 32%-os árréséhez képest, ami 1,1 millió AUD többletprofitot adott',
             '19,2%-os piaci részesedés az ausztrál 500 AUD alatti SUP szegmensben az indítástól számított 10 hónapon belül',
-            '3,2%-os ügyfél-visszáruarány (az iparági átlag 8–12%) az Afarer minőségkontrolljának és ausztrál tanúsított konstrukciójának köszönhetően',
+            '3,2%-os ügyfél-visszáruarány (az iparági átlag 8–12%) az OLagoon minőségkontrolljának és ausztrál tanúsított konstrukciójának köszönhetően',
           ],
         },
         {
@@ -3694,35 +3694,35 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Koncepcióvalidáció és terméktervezési sprint',
               detail:
-                "2024 szeptemberében a Macy's David vezette termékfejlesztési csapata felkereste az Afarert egy 8 hetes gyors tervezési sprinthez. Az Afarer ipari tervezői 8 koncepciódeszkát készítettek részletes specifikációkkal, beleértve 3 all-around deszkát (10', 11', 12') és 1 túradeszkát. A Macy's 4 SKU-t választott exkluzív 'Boardwalk Reserve' márkázással, tengerpart inspirálta színvariánsokkal (Seafoam, Sandbar, Coral, Navy) és 349–549 USD kiskereskedelmi árazással. Az Afarer 14 napon belül egyedi 3D rendereléseket és fizikai maketteket készített, és a Macy's 2024. október 15-én jóváhagyta a teljes vonalat 6000 egységes, 1,2 millió USD nagykereskedelmi értékű vásárlási megbízással.",
+                "2024 szeptemberében a Macy's David vezette termékfejlesztési csapata felkereste az OLagoont egy 8 hetes gyors tervezési sprinthez. Az OLagoon ipari tervezői 8 koncepciódeszkát készítettek részletes specifikációkkal, beleértve 3 all-around deszkát (10', 11', 12') és 1 túradeszkát. A Macy's 4 SKU-t választott exkluzív 'Boardwalk Reserve' márkázással, tengerpart inspirálta színvariánsokkal (Seafoam, Sandbar, Coral, Navy) és 349–549 USD kiskereskedelmi árazással. Az OLagoon 14 napon belül egyedi 3D rendereléseket és fizikai maketteket készített, és a Macy's 2024. október 15-én jóváhagyta a teljes vonalat 6000 egységes, 1,2 millió USD nagykereskedelmi értékű vásárlási megbízással.",
             },
             {
               title: 'Ellátási lánc integráció és megfelelőségi előkészítés',
               detail:
-                "Az Afarer ellátási lánc csapata együtt dolgozott a Macy's megfelelőségi osztályával, hogy teljesítse az összes amerikai CPSC biztonsági normát, az ASTM F3340-18 tanúsítást és a kaliforniai Prop 65 követelményeket. A csomagolást a Macy's polcra kész követelményeire tervezték, beleértve az EAS címkéket, a videós összeszerelési útmutatókra mutató QR-kódokat és a kompakt dobozméreteket (36×16×12 hüvelyk), amelyek a Macy's disztribúciós központi tárolására optimalizáltak. Az Afarer 500 előértékesítési egységet gyártott 2024 novemberében, és légi úton a Macy'snek szállította 20 üzleti teszthez és online fotózáshoz. Minden tesztüzlet átlagosan heti 14 egységet adott el a ünnyi szezonban 399 USD kiskereskedelmi áron.",
+                "Az OLagoon ellátási lánc csapata együtt dolgozott a Macy's megfelelőségi osztályával, hogy teljesítse az összes amerikai CPSC biztonsági normát, az ASTM F3340-18 tanúsítást és a kaliforniai Prop 65 követelményeket. A csomagolást a Macy's polcra kész követelményeire tervezték, beleértve az EAS címkéket, a videós összeszerelési útmutatókra mutató QR-kódokat és a kompakt dobozméreteket (36×16×12 hüvelyk), amelyek a Macy's disztribúciós központi tárolására optimalizáltak. Az OLagoon 500 előértékesítési egységet gyártott 2024 novemberében, és légi úton a Macy'snek szállította 20 üzleti teszthez és online fotózáshoz. Minden tesztüzlet átlagosan heti 14 egységet adott el a ünnyi szezonban 399 USD kiskereskedelmi áron.",
             },
             {
               title: 'Többcsatornás indítási végrehajtás és üzleti élmény',
               detail:
-                "Az 5500 egységes fő tengeri szállítmány 2025. február 1-jén érkezett a Macy's new jersey-i Robbinsville-i disztribúciós központjába. Az Afarer 340 életnagyságú bemutató állványt szállított integrált deszkatárolással és kiegészítő-modulokkal. Az Afarer képzési csapata 12 perces videomodult készített a Macy's 8500 szezonális munkatársa számára, amely a termékismereteket és a pumpák, evezők és mentőmellények keresztértékesítési technikáit fedte le. A kollekció 2025. március 1-jén indult a macys.com-on és március 15-ére mind a 340 üzletben, dedikált 'Boardwalk Reserve' bolt-a-boltban élménnyel az 50 legnagyobb forgalmú helyszínen.",
+                "Az 5500 egységes fő tengeri szállítmány 2025. február 1-jén érkezett a Macy's new jersey-i Robbinsville-i disztribúciós központjába. Az OLagoon 340 életnagyságú bemutató állványt szállított integrált deszkatárolással és kiegészítő-modulokkal. Az OLagoon képzési csapata 12 perces videomodult készített a Macy's 8500 szezonális munkatársa számára, amely a termékismereteket és a pumpák, evezők és mentőmellények keresztértékesítési technikáit fedte le. A kollekció 2025. március 1-jén indult a macys.com-on és március 15-ére mind a 340 üzletben, dedikált 'Boardwalk Reserve' bolt-a-boltban élménnyel az 50 legnagyobb forgalmú helyszínen.",
             },
             {
               title: 'Teljesítményelemzés és szezonális utánpótlás',
               detail:
-                "2025 májusáig az értékesítési arány 58%-ra ért el, a Seafoam 11' all-around deszka volt a legjobb teljesítő (az értékesítés 36%-a). Az online konverziós arány 4,2% volt, jelentősen a Macy's sportáru kategória 2,1%-os átlaga felett. Az Afarer valós idejű készlet-műszerfala lehetővé tette a Macy's számára az utánpótlási rendelések automatikus kezdeményezését, amikor az üzleti készlet 6 egység alá csökkent. A program 2,1 millió USD kiegészítő-értékesítést generált (evezők, pumpák, táskák, mentőmellények) 62%-os árréssel. A Macy's élt a 2025-ös ünnyi szezonra szóló 4000 egységes utánpótlási opciójával 2 új hó/surf témájú színvariánssal.",
+                "2025 májusáig az értékesítési arány 58%-ra ért el, a Seafoam 11' all-around deszka volt a legjobb teljesítő (az értékesítés 36%-a). Az online konverziós arány 4,2% volt, jelentősen a Macy's sportáru kategória 2,1%-os átlaga felett. Az OLagoon valós idejű készlet-műszerfala lehetővé tette a Macy's számára az utánpótlási rendelések automatikus kezdeményezését, amikor az üzleti készlet 6 egység alá csökkent. A program 2,1 millió USD kiegészítő-értékesítést generált (evezők, pumpák, táskák, mentőmellények) 62%-os árréssel. A Macy's élt a 2025-ös ünnyi szezonra szóló 4000 egységes utánpótlási opciójával 2 új hó/surf témájú színvariánssal.",
             },
           ],
           results: [
             '4,1 millió USD teljes GMV 340 üzletben és a macys.com-on az első 7 hónapban, 17%-kal meghaladva a 3,5 millió USD célt',
             '53% kezdeti árrés elérve a hasonló harmadik feles márkás kültéri felszerelés 38%-ához képest, ami 1,6 millió USD bruttó profitot eredményezett',
             '4,2%-os online konverziós arány 11,7%-os kiegészző-csatlakoztatási aránnyal, ami további 2,1 millió USD magas árrésű kiegészítő-értékesítést generált',
-            '98,4%-os időben szállítási arány az Afarer gyártóból disztribúciós központba vezető ellátási láncával, nulla készlethiánnyal a csúcs március–májusi értékesítési szezonban',
+            '98,4%-os időben szállítási arány az OLagoon gyártóból disztribúciós központba vezető ellátási láncával, nulla készlethiánnyal a csúcs március–májusi értékesítési szezonban',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a kiskereskedelmi vásárlók az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a kiskereskedelmi vásárlók az OLagoont',
       items: [
         {
           title: 'Termékfejlesztés',
@@ -3759,37 +3759,37 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Mi a saját márkás SUP program és hogyan működik a kültéri kiskereskedők számára?',
         answer:
-          'A saját márkás SUP program lehetővé teszi a kültéri kiskereskedőknek, hogy saját márkanevük alatt hozzanak létre és adjanak el paddle boardokat. Az Afarer kezeli a teljes OEM/ODM folyamatot, beleértve a termékfejlesztést, a gyártást, a tanúsítási támogatást, a csomagolástervezést és a tömeges ellátást. A kiskereskedők egyedi SUP kollekciókat indíthatnak gyári berendezésekbe vagy felfújható gyártási szakértelembe való befektetés nélkül.',
+          'A saját márkás SUP program lehetővé teszi a kültéri kiskereskedőknek, hogy saját márkanevük alatt hozzanak létre és adjanak el paddle boardokat. Az OLagoon kezeli a teljes OEM/ODM folyamatot, beleértve a termékfejlesztést, a gyártást, a tanúsítási támogatást, a csomagolástervezést és a tömeges ellátást. A kiskereskedők egyedi SUP kollekciókat indíthatnak gyári berendezésekbe vagy felfújható gyártási szakértelembe való befektetés nélkül.',
       },
       {
         question:
           'Hogyan biztosíthatják a kiskereskedők, hogy saját márkás SUP termékeik megfeleljenek a nemzetközi biztonsági normáknak?',
         answer:
-          'Az Afarer átfogó megfelelőségi dokumentációval támogatja a kiskereskedőket, beleértve a CE- és REACH-követelményeket, az anyagbiztonsági adatokat, a terméktesztelési jelentéseket és a minőségellenőrzési feljegyzéseket. Ez biztosítja, hogy a saját márkás SUP termékek megfeleljenek az európai, észak-amerikai és más nemzetközi piacok szabályozási normáinak.',
+          'Az OLagoon átfogó megfelelőségi dokumentációval támogatja a kiskereskedőket, beleértve a CE- és REACH-követelményeket, az anyagbiztonsági adatokat, a terméktesztelési jelentéseket és a minőségellenőrzési feljegyzéseket. Ez biztosítja, hogy a saját márkás SUP termékek megfeleljenek az európai, észak-amerikai és más nemzetközi piacok szabályozási normáinak.',
       },
       {
         question: 'Milyen minimális rendelési mennyiségek szükségesek jellemzően az egyedi SUP gyártáshoz?',
         answer:
-          'Az Afarer különböző skálákat támogat. Az új termékindítások és piactesztek jellemzően 500–2000 egységnél kezdődnek. A kiskereskedelmi bővítési rendelések 3000–10 000 egység között mozognak. Az éves ellátási megállapodásos nagy globális kiskereskedelmi programok több tíz ezer egységre skálázódhatnak több modellben.',
+          'Az OLagoon különböző skálákat támogat. Az új termékindítások és piactesztek jellemzően 500–2000 egységnél kezdődnek. A kiskereskedelmi bővítési rendelések 3000–10 000 egység között mozognak. Az éves ellátási megállapodásos nagy globális kiskereskedelmi programok több tíz ezer egységre skálázódhatnak több modellben.',
       },
       {
         question: 'Mennyi időbe telik egy saját márkás SUP termékcsalád kifejlesztése és indítása?',
         answer:
-          'Az időbecsülés a testreszabási összetettségtől függ. Az Afarer egyszerűsített folyamata a termék-koncepciótól a polcra kész leszállításig jellemzően 8–16 hetet vesz igénybe, beleértve a terméktervezést, a tervezési jóváhagyást, a prototípus-fejlesztést, a tanúsítási támogatást, a gyártást és a szállítást. Szezonális tervezés ajánlott a tavaszi/nyári keresleti ciklusokhoz való igazításhoz.',
+          'Az időbecsülés a testreszabási összetettségtől függ. Az OLagoon egyszerűsített folyamata a termék-koncepciótól a polcra kész leszállításig jellemzően 8–16 hetet vesz igénybe, beleértve a terméktervezést, a tervezési jóváhagyást, a prototípus-fejlesztést, a tanúsítási támogatást, a gyártást és a szállítást. Szezonális tervezés ajánlott a tavaszi/nyári keresleti ciklusokhoz való igazításhoz.',
       },
       {
         question: 'Testreszabhatják a kiskereskedők a SUP csomagolást, hogy illeszkedjen a márkaidentitásukhoz?',
         answer:
-          'Igen, az Afarer támogatja a teljes csomagolás-testreszabást, beleértve a márkázott színes dobozokat, a termékfotókat, a főbb jellemzők kiemelését és a márkaüzeneteket. Csomagolási lehetőségek állnak rendelkezésre mind a fizikai kiskereskedelmi polcokhoz, mind az Amazon és Shopifyhoz hasonló e-kereskedelmi platformokhoz, útmutatással a termékfotózáshoz és az információstruktúrához.',
+          'Igen, az OLagoon támogatja a teljes csomagolás-testreszabást, beleértve a márkázott színes dobozokat, a termékfotókat, a főbb jellemzők kiemelését és a márkaüzeneteket. Csomagolási lehetőségek állnak rendelkezésre mind a fizikai kiskereskedelmi polcokhoz, mind az Amazon és Shopifyhoz hasonló e-kereskedelmi platformokhoz, útmutatással a termékfotózáshoz és az információstruktúrához.',
       },
       {
-        question: 'Milyen támogatást nyújt az Afarer a szezonális kereslettervezéshez?',
+        question: 'Milyen támogatást nyújt az OLagoon a szezonális kereslettervezéshez?',
         answer:
-          'Az Afarer segít a kiskereskedőknek a szezonális kültéri termékkereslet kezelésében koordinált termelésütemezéssel, készletezési időzítéssel, raktártervezéssel és promóciós kampány-igazítással. Az éves ellátási megállapodások kiszámítható átfutási időket és garantált gyártási kapacitást tesznek lehetővé a csúcsszezonokban.',
+          'Az OLagoon segít a kiskereskedőknek a szezonális kültéri termékkereslet kezelésében koordinált termelésütemezéssel, készletezési időzítéssel, raktártervezéssel és promóciós kampány-igazítással. Az éves ellátási megállapodások kiszámítható átfutási időket és garantált gyártási kapacitást tesznek lehetővé a csúcsszezonokban.',
       },
     ],
     cta: {
-      title: 'Építse fel saját márkás SUP kollekcióját az Afarerrel',
+      title: 'Építse fel saját márkás SUP kollekcióját az OLagoonrel',
       subtitle: 'Az ügyfelei már vásrolnak kültéri termékeket. Most hozza létre saját vízisport kategóriáját.',
       primaryAction: {
         text: 'Indítsa el kiskereskedelmi saját márkás projektjét még ma',
@@ -3804,7 +3804,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'SUP disztribútor beszállító | Ömlesztett OEM paddle board gyártó | {SITE}',
       description:
-        'Az Afarer partnerséget köt globális SUP disztribútorokkal és importőrökkel ömlesztett OEM gyártással, saját márkás megoldásokkal, regionális piaci támogatással és megbízható ellátási lánc menedzsmenttel.',
+        'Az OLagoon partnerséget köt globális SUP disztribútorokkal és importőrökkel ömlesztett OEM gyártással, saját márkás megoldásokkal, regionális piaci támogatással és megbízható ellátási lánc menedzsmenttel.',
     },
     hero: {
       tagline: 'Regionális OEM és ellátási lánc partner™',
@@ -3845,31 +3845,31 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Nagy léptékű OEM gyártási kapacitás',
           description:
-            'Az Afarer támogatja a közepes volumenű rendeléseket, konténerszállítmányokat és éves ellátási megállapodásokat három együttműködési szakaszban: piactesztelés (1000–3000 db), regionális bővítés (5000–10 000 db) és nagy disztribútori skála (10 000–20 000+ db).',
+            'Az OLagoon támogatja a közepes volumenű rendeléseket, konténerszállítmányokat és éves ellátási megállapodásokat három együttműködési szakaszban: piactesztelés (1000–3000 db), regionális bővítés (5000–10 000 db) és nagy disztribútori skála (10 000–20 000+ db).',
           features: ['Piactesztelési szakasz', 'Regionális bővítési szakasz', 'Nagy disztribútori szakasz'],
         },
         {
           title: 'Exkluzív OEM márkafejlesztés',
           description:
-            'Az Afarer támogatja azokat a disztribútorokat, akik túljutni akarnak az importáláson saját márkás márkák létrehozásával egyedi pozicionálással, termékválasztással, grafikai tervezéssel, csomagolással és exkluzív termékkellekciókkal.',
+            'Az OLagoon támogatja azokat a disztribútorokat, akik túljutni akarnak az importáláson saját márkás márkák létrehozásával egyedi pozicionálással, termékválasztással, grafikai tervezéssel, csomagolással és exkluzív termékkellekciókkal.',
           features: ['Saját márka-fejlesztés', 'Exkluzív termékkellekciók', 'Versenyképes megkülönböztetés'],
         },
         {
           title: 'Regionális piacvédelmi program',
           description:
-            'Képesített partnerek számára az Afarer területi együttműködést kínál a piacméret és az elköteleződés alapján, termék-megkülönböztetést exkluzív grafikákkal és konfigurációkkal, valamint kereskedői hálózati támogatást.',
+            'Képesített partnerek számára az OLagoon területi együttműködést kínál a piacméret és az elköteleződés alapján, termék-megkülönböztetést exkluzív grafikákkal és konfigurációkkal, valamint kereskedői hálózati támogatást.',
           features: ['Területi együttműködés', 'Termék-megkülönböztetés', 'Kereskedői hálózati támogatás'],
         },
         {
           title: 'Teljes termékportfólió-tervezés',
           description:
-            'Az Afarer segít a disztribútoroknak teljes vízisport-kategóriákat építeni, beleértve az all-round SUP-ot, túra SUP-ot, gyerek SUP-ot, horgász SUP-ot, jógá SUP-ot, kiegészítőket és vízi rekreációs felszerelést.',
+            'Az OLagoon segít a disztribútoroknak teljes vízisport-kategóriákat építeni, beleértve az all-round SUP-ot, túra SUP-ot, gyerek SUP-ot, horgász SUP-ot, jógá SUP-ot, kiegészítőket és vízi rekreációs felszerelést.',
           features: ['SUP termék-kategóriák', 'További termék-bővítés', 'Kiegészítők'],
         },
         {
           title: 'Logisztikai optimalizációs támogatás',
           description:
-            'Az Afarer támogatja a konténerterhelés-optimalizálást a szállítási hatékonyság és az importgazdaságtan maximalizálásához, a termék-összeállítás tervezését a gyorsan fogyó modellek prémium tételekkel való kombinálásához és az exportdokumentáció koordinálását.',
+            'Az OLagoon támogatja a konténerterhelés-optimalizálást a szállítási hatékonyság és az importgazdaságtan maximalizálásához, a termék-összeállítás tervezését a gyorsan fogyó modellek prémium tételekkel való kombinálásához és az exportdokumentáció koordinálását.',
           features: [
             'Konténerterhelés-optimalizálás',
             'Termék-összeállítás tervezése',
@@ -3879,19 +3879,19 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Minőségkontroll nemzetközi piacokhoz',
           description:
-            'Az Afarer minőségirányítása magában foglalja a PVC és drop stitch anyagok anyagellenőrzését, a gyártási folyamatok termelés-követését és a végső szállítási ellenőrzést a megjelenés, a kiegészítők, a csomagolás és a mennyiség tekintetében.',
+            'Az OLagoon minőségirányítása magában foglalja a PVC és drop stitch anyagok anyagellenőrzését, a gyártási folyamatok termelés-követését és a végső szállítási ellenőrzést a megjelenés, a kiegészítők, a csomagolás és a mennyiség tekintetében.',
           features: ['Anyagellenőrzés', 'Termelés-követés', 'Végső szállítási ellenőrzés'],
         },
         {
           title: 'Disztribútori értékesítési támogatás',
           description:
-            'Az Afarer támogatja a partnereket termékspecifikációkkal és műszaki információkkal, marketinganyagokkal termék- és életmód-vizuális elemekkel, valamint termékképzéssel az előnyökről, az alkalmazásokról és az értékesítési pozicionálásról.',
+            'Az OLagoon támogatja a partnereket termékspecifikációkkal és műszaki információkkal, marketinganyagokkal termék- és életmód-vizuális elemekkel, valamint termékképzéssel az előnyökről, az alkalmazásokról és az értékesítési pozicionálásról.',
           features: ['Termékinformációk', 'Marketinganyagok', 'Termékképzés'],
         },
         {
           title: 'Hosszú távú ellátási partnerség',
           description:
-            'Az Afarer az egyszeri rendeléseken túli kapcsolatokra összpontosít, stabil gyártási bázist, folyamatos termékfejlesztést és üzletnövekedési támogatást kínálva az importőrtől a disztribútorig, majd a regionális márkatulajdonosig.',
+            'Az OLagoon az egyszeri rendeléseken túli kapcsolatokra összpontosít, stabil gyártási bázist, folyamatos termékfejlesztést és üzletnövekedési támogatást kínálva az importőrtől a disztribútorig, majd a regionális márkatulajdonosig.',
           features: ['Stabil gyártási bázis', 'Folyamatos termékfejlesztés', 'Üzletnövekedési támogatás'],
         },
       ],
@@ -3908,7 +3908,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Regionális piacelemzés',
           detail:
-            'Az Afarer segített azonosítani a kezdő SUP keresletet, a családi rekreációs piaci lehetőségeket és a Közel-Kelet régióra jellemző turisztikai alkalmazásokat.',
+            'Az OLagoon segített azonosítani a kezdő SUP keresletet, a családi rekreációs piaci lehetőségeket és a Közel-Kelet régióra jellemző turisztikai alkalmazásokat.',
         },
         {
           title: 'Termékportfólió-fejlesztés',
@@ -3939,28 +3939,28 @@ const hu: Record<string, SolutionOverride> = {
             location: 'Gold Coast, Ausztrália',
             background:
               'A PaddleHub Australia egy kis importőr volt, amelyet James Whitfield alapító vezetett, egy egykori versenyszerfdeszka, aki 3 éven át terjesztett általános kínai SUP deszkákat 45 helyi szörfüzletnek, évi körülbelül 1,8 millió AUD bevétellel. Az árrése erodálódott, ahogy a versenytársak alullicitálták az árakat, és a beszállítók megtagadták az exkluzivitást. James rájött, hogy egyedi saját márkás márkára van szüksége területi védelemmel a tartós értéképítéshez. 350 ezer AUD rendelkezésre álló tőkéje és egy raktára volt Burleigh Heads-ben, de olyan gyártási partnerre volt szüksége, aki OEM-minőségű deszkákat szállít ausztrál-specifikus tervezési jellemzőkkel és regionális exkluzivitással Óceániára.',
-            goal: 'Saját márkás SUP márka létrehozása 12 egyedi modellel, 200+ ausztrál és új-zélandi kereskedői fiók aláírása 18 hónapon belül, évi 6 millió AUD nagykereskedelmi bevétel elérése és kizárólagos óceániai disztribúciós jogok megszerzése az Afarertől.',
+            goal: 'Saját márkás SUP márka létrehozása 12 egyedi modellel, 200+ ausztrál és új-zélandi kereskedői fiók aláírása 18 hónapon belül, évi 6 millió AUD nagykereskedelmi bevétel elérése és kizárólagos óceániai disztribúciós jogok megszerzése az OLagoontől.',
           },
           steps: [
             {
               title: 'Stratégiai partnerségi tárgyalás és kizárólagos területi megállapodás',
               detail:
-                "2024 februárjában James bemutatta üzleti tervét az Afarer globális partnerségi alelnökének egy 3 napos megbeszélésen az Afarer sanghaji létesítményében. Az Afarer piaci megvalósíthatósági tanulmányt végzett, amely kimutatta, hogy Ausztráliában 340+ szörfüzlet, 180+ vízisport-kiskereskedő és 60+ tengeri kereskedő van, amelyek SUP-ot árhatnának, de csak 23%-uk kínálja jelenleg a kategóriát. Az Afarer kizárólagos óceániai disztribúciós jogot adott a PaddleHubnak a 'WaveGlide' és 'Expedition' platformcsaládokra, évi minimum 2,5 millió AUD beszerzést előírva. James 800 ezer AUD kezdeti MOQ-t vállalt, és elfogadta az Afarer területfejlesztési mérföldköveit, beleértve a kizárólagos kereskedői számcélokat.",
+                "2024 februárjában James bemutatta üzleti tervét az OLagoon globális partnerségi alelnökének egy 3 napos megbeszélésen az OLagoon sanghaji létesítményében. Az OLagoon piaci megvalósíthatósági tanulmányt végzett, amely kimutatta, hogy Ausztráliában 340+ szörfüzlet, 180+ vízisport-kiskereskedő és 60+ tengeri kereskedő van, amelyek SUP-ot árhatnának, de csak 23%-uk kínálja jelenleg a kategóriát. Az OLagoon kizárólagos óceániai disztribúciós jogot adott a PaddleHubnak a 'WaveGlide' és 'Expedition' platformcsaládokra, évi minimum 2,5 millió AUD beszerzést előírva. James 800 ezer AUD kezdeti MOQ-t vállalt, és elfogadta az OLagoon területfejlesztési mérföldköveit, beleértve a kizárólagos kereskedői számcélokat.",
             },
             {
               title: 'Egyedi termékplatform-fejlesztés és ausztrál adaptáció',
               detail:
-                'Az Afarer K+F csapata 6 hetet töltött a PaddleHub 12 modellből álló választékának kifejlesztésével, beleértve 5 all-around deszkát, 3 túradeszkát, 2 versenydeszkát, 1 horgászdeszkát és 1 ifjúsági deszkát. Minden modell ausztrál-specifikus módosításokat tartalmazott: UV-stabilizált PVC Queensland intenzív napjára, megerősített peremek a Nagy Korallgát sziklás vízrebocsátásaihoz, és egyedi grafikai csomagok ausztrál őslakos pont-művészeti ihletésű mintákkal. Az Afarer 300 sorozatgyártás előtti egységet gyártott mind a 12 modellben, amelyet James 50 bétatesztelőnek osztott szét, beleértve szörfüzlet-tulajdonosokat, paddle-oktatókat és horgászvezetőket, akik részletes visszajelzést adtak, ami 23 tervezési finomításhoz vezetett.',
+                'Az OLagoon K+F csapata 6 hetet töltött a PaddleHub 12 modellből álló választékának kifejlesztésével, beleértve 5 all-around deszkát, 3 túradeszkát, 2 versenydeszkát, 1 horgászdeszkát és 1 ifjúsági deszkát. Minden modell ausztrál-specifikus módosításokat tartalmazott: UV-stabilizált PVC Queensland intenzív napjára, megerősített peremek a Nagy Korallgát sziklás vízrebocsátásaihoz, és egyedi grafikai csomagok ausztrál őslakos pont-művészeti ihletésű mintákkal. Az OLagoon 300 sorozatgyártás előtti egységet gyártott mind a 12 modellben, amelyet James 50 bétatesztelőnek osztott szét, beleértve szörfüzlet-tulajdonosokat, paddle-oktatókat és horgászvezetőket, akik részletes visszajelzést adtak, ami 23 tervezési finomításhoz vezetett.',
             },
             {
               title: 'Kereskedői hálózat-toborzás és csatornafejlesztés',
               detail:
-                "James és 3 fős értékesítési csapata 'Dealer Pro' programot indított réteges árazással, 0%-os 60 napos fizetési feltételekkel új fiókokhoz, ingyenes bemutató állványokkal és személyzetképzéssel. Az Afarer közös CRM-rendszert, termékkatalógusokat, összehasonlító útmutatókat és kereskedőkereső webhelyet biztosított. A Sydney-i Nemzetközi Hajókiállításon és 7 regionális horgász-/kültéri expón való részvétellel James 97 kereskedőt írt alá az első 6 hónapban, beleértve olyan nagy fiókokat, mint az Anaconda (42 üzlet), a BCF (35 üzlet) és 20 független szörfüzlet. Az Afarer logisztikai csapata sydney-i konszolidációs raktárt hozott létre 14 napos szállítási garanciával.",
+                "James és 3 fős értékesítési csapata 'Dealer Pro' programot indított réteges árazással, 0%-os 60 napos fizetési feltételekkel új fiókokhoz, ingyenes bemutató állványokkal és személyzetképzéssel. Az OLagoon közös CRM-rendszert, termékkatalógusokat, összehasonlító útmutatókat és kereskedőkereső webhelyet biztosított. A Sydney-i Nemzetközi Hajókiállításon és 7 regionális horgász-/kültéri expón való részvétellel James 97 kereskedőt írt alá az első 6 hónapban, beleértve olyan nagy fiókokat, mint az Anaconda (42 üzlet), a BCF (35 üzlet) és 20 független szörfüzlet. Az OLagoon logisztikai csapata sydney-i konszolidációs raktárt hozott létre 14 napos szállítási garanciával.",
             },
             {
               title: 'Márkaindítás, marketingtámogatás és növekedési gyorsítás',
               detail:
-                'A PaddleHub hivatalosan 250 ezer AUD értékű kampánnyal indult, amelynek márkakövete Jessica Krieger egykori ausztrál SUP-bajnok volt. Az Afarer a nagykereskedelmi vásárlások 4%-ának megfelelő kooperatív marketingalapot adott, és 24 termékvideót, 360 fokos termékfotózást és közösségi média-elemeket készített. 2025 augusztusára a PaddleHubnak 215 aktív kereskedői fiókja, 5,8 millió AUD utolsó 12 havi nagykereskedelmi bevétele volt, és 3 további gyártási rendelést adott le összesen 3,2 millió AUD értékben. James 12 fősra bővítette csapatát, beleértve egy teljes munkaidős termékmenedzsert, és a PaddleHub a második legnagyobb SUP márkává vált az ausztrál piacon üzletszám szerint.',
+                'A PaddleHub hivatalosan 250 ezer AUD értékű kampánnyal indult, amelynek márkakövete Jessica Krieger egykori ausztrál SUP-bajnok volt. Az OLagoon a nagykereskedelmi vásárlások 4%-ának megfelelő kooperatív marketingalapot adott, és 24 termékvideót, 360 fokos termékfotózást és közösségi média-elemeket készített. 2025 augusztusára a PaddleHubnak 215 aktív kereskedői fiókja, 5,8 millió AUD utolsó 12 havi nagykereskedelmi bevétele volt, és 3 további gyártási rendelést adott le összesen 3,2 millió AUD értékben. James 12 fősra bővítette csapatát, beleértve egy teljes munkaidős termékmenedzsert, és a PaddleHub a második legnagyobb SUP márkává vált az ausztrál piacon üzletszám szerint.',
             },
           ],
           results: [
@@ -3976,41 +3976,41 @@ const hu: Record<string, SolutionOverride> = {
             location: 'Dubaj, Egyesült Arab Emírségek',
             background:
               'A Dune Sports DMCC, amelyet Rasid Al Maktum emírségi vállalkozó vezet, dubaji székhelyű vízisport-disztribútor volt 2,3 millió USD évi bevétellel, amely jet skit és kajakot szállított tengeri kereskedőknek a GCC országaiban. Rasid a SUP-ot a Közel-Kelet kiaknázatlan lehetőségének ismerte fel, ahol a tengerparti turizmus, a luxusüdülők és a vízisportok virágoztak. A régiónak nem volt domináns SUP márkája, és a termékek többsége alacsony minőségű import volt, amelyet az Amazonon adtak el szolgáltatás vagy garancia nélkül. Rasid a prémium SUP márka exkluzív regionális OEM partnerévé akart válni, amely a közel-keleti piacon dominálhat 1,2 millió USD kezdeti befektetéssel.',
-            goal: 'Kizárólagos közel-keleti és észak-afrikai disztribúciós jogok megszerzése az Afarertől, prémium regionális márka indítása 8 országban, 5 millió USD nagykereskedelmi bevétel elérése 24 hónapon belül és 60%+ piaci részesedés megszerzése a GCC prémium SUP szegmensben.',
+            goal: 'Kizárólagos közel-keleti és észak-afrikai disztribúciós jogok megszerzése az OLagoontől, prémium regionális márka indítása 8 országban, 5 millió USD nagykereskedelmi bevétel elérése 24 hónapon belül és 60%+ piaci részesedés megszerzése a GCC prémium SUP szegmensben.',
           },
           steps: [
             {
               title: 'Regionális piacelemzés és kizárólagossági keretmegállapodás',
               detail:
-                'Rasid 6 hetes piactanulmányt rendelt meg az EAE-ben, Szaúd-Arábiában, Katarban, Kuvaitban, Ománban, Bahreinben, Egyiptomban és Jordániában. A tanulmány 280+ potenciális kereskedőt azonosított, beleértve tengeri kiskereskedőket, szállodai beszerzési osztályokat és speciális sportüzleteket, évi 18 millió USD teljes elérhető piaccal. 2024 áprilisában Rasid 5 éves kizárólagos OEM megállapodást írt alá az Afarerrel, amely 15 országot fed le a MENA régióban, évi minimum 3 millió USD beszerzést vállalva évi 15%-os emelkedéssel. Az Afarer beleegyezett 150 ezer USD társbefektetésbe arab nyelvű marketinganyagokba, regionális szakkiállítási jelenlétbe és dubaji alkatrészraktárba.',
+                'Rasid 6 hetes piactanulmányt rendelt meg az EAE-ben, Szaúd-Arábiában, Katarban, Kuvaitban, Ománban, Bahreinben, Egyiptomban és Jordániában. A tanulmány 280+ potenciális kereskedőt azonosított, beleértve tengeri kiskereskedőket, szállodai beszerzési osztályokat és speciális sportüzleteket, évi 18 millió USD teljes elérhető piaccal. 2024 áprilisában Rasid 5 éves kizárólagos OEM megállapodást írt alá az OLagoonrel, amely 15 országot fed le a MENA régióban, évi minimum 3 millió USD beszerzést vállalva évi 15%-os emelkedéssel. Az OLagoon beleegyezett 150 ezer USD társbefektetésbe arab nyelvű marketinganyagokba, regionális szakkiállítási jelenlétbe és dubaji alkatrészraktárba.',
             },
             {
               title: 'Termékcsalád-stratégia és sivatagra adaptált mérnökség',
               detail:
-                "Az Afarer mérnökei kifejlesztették az 'Oryx' márkát a Dune Sports számára 8 modellel, amelyek a közel-keleti körülményekre optimalizáltak: magas hőmérséklet-álló PVC (75 °C-os felületi hőmérsékletre tesztelve), UV-stabil pigmentek, amelyek nem fakulnak ki az arab napon, és homokálló uszonyrendszerek gyorskioldós mechanizmusokkal. Az Afarer 500 indítás előtti egységet gyártott, beleértve egy különleges 'Royal Edition' kiadást arany kiemelésekkel és bőr fogantyúkkal a luxusüdülő-szegmenshez. Rasid csapata deszkákat tesztelt az Arab-öbölben, a Vörös-tengeren és beltéri hullámedencékben, átlagosan 4,7/5 minőségi pontszámot elérve 200 tesztelőtől.",
+                "Az OLagoon mérnökei kifejlesztették az 'Oryx' márkát a Dune Sports számára 8 modellel, amelyek a közel-keleti körülményekre optimalizáltak: magas hőmérséklet-álló PVC (75 °C-os felületi hőmérsékletre tesztelve), UV-stabil pigmentek, amelyek nem fakulnak ki az arab napon, és homokálló uszonyrendszerek gyorskioldós mechanizmusokkal. Az OLagoon 500 indítás előtti egységet gyártott, beleértve egy különleges 'Royal Edition' kiadást arany kiemelésekkel és bőr fogantyúkkal a luxusüdülő-szegmenshez. Rasid csapata deszkákat tesztelt az Arab-öbölben, a Vörös-tengeren és beltéri hullámedencékben, átlagosan 4,7/5 minőségi pontszámot elérve 200 tesztelőtől.",
             },
             {
               title: 'Csatornafejlesztés és szálloda-/üdülő-partnerségek',
               detail:
-                "Rasid 5 fős regionális értékesítési csapatot épített dubaji, riyadi és kairói bázissal. Az Afarer csatornafejlesztési csapata kereskedő-toborzási forgatókönyveket, bemutató anyagokat és 3 szintű kereskedői programot (Platina, Arany, Ezüst) biztosított. A Dune Sports kizárólagos disztribúciós megállapodásokat kötött 65 tengeri kereskedővel és közvetlen beszerzési szerződéseket 22 luxusszálloda-lánccal, beleértve a Jumeirah-t, a Four Seasonst és a St. Regist. Az 'Oryx' márkát standard felszerelésként specifikálták az új rász al-khaimai Rixos és Anantara üdülőfejlesztésekhez, a Vörös-tenger Projekthez és a Maldív-szigetekhez.",
+                "Rasid 5 fős regionális értékesítési csapatot épített dubaji, riyadi és kairói bázissal. Az OLagoon csatornafejlesztési csapata kereskedő-toborzási forgatókönyveket, bemutató anyagokat és 3 szintű kereskedői programot (Platina, Arany, Ezüst) biztosított. A Dune Sports kizárólagos disztribúciós megállapodásokat kötött 65 tengeri kereskedővel és közvetlen beszerzési szerződéseket 22 luxusszálloda-lánccal, beleértve a Jumeirah-t, a Four Seasonst és a St. Regist. Az 'Oryx' márkát standard felszerelésként specifikálták az új rász al-khaimai Rixos és Anantara üdülőfejlesztésekhez, a Vörös-tenger Projekthez és a Maldív-szigetekhez.",
             },
             {
               title: 'Regionális indítás, ramadáni kampány és piaci dominancia',
               detail:
-                "Az 'Oryx' márka 2024 októberében indult mind a 8 piacon egyidejű eseményekkel a Dubai Marina Mallban, Szaúd-Arábia Red Sea Malljában és Katar Doha Festival Cityjében. Az Afarer 200 ezer USD értékű marketingkampánnyal támogatta, beleértve arab tévéreklámokat, influencer-partnerségeket 15 közel-keleti kültéri kalandorral és a Dubai SUP Fesztivál szponzorálását. 2025 márciusáig a Dune Sports 8400 egységet adott el, 4,7 millió USD nagykereskedelmi bevételt ért el, és a GCC prémium SUP piac 58%-át szerezte meg. Rasid élt első opciós évének megújításával az Afarerrel 4,5 millió USD éves beszerzésre.",
+                "Az 'Oryx' márka 2024 októberében indult mind a 8 piacon egyidejű eseményekkel a Dubai Marina Mallban, Szaúd-Arábia Red Sea Malljában és Katar Doha Festival Cityjében. Az OLagoon 200 ezer USD értékű marketingkampánnyal támogatta, beleértve arab tévéreklámokat, influencer-partnerségeket 15 közel-keleti kültéri kalandorral és a Dubai SUP Fesztivál szponzorálását. 2025 márciusáig a Dune Sports 8400 egységet adott el, 4,7 millió USD nagykereskedelmi bevételt ért el, és a GCC prémium SUP piac 58%-át szerezte meg. Rasid élt első opciós évének megújításával az OLagoonrel 4,5 millió USD éves beszerzésre.",
             },
           ],
           results: [
             '4,7 millió USD nagykereskedelmi bevétel az első 12 hónapban 8 országban, elérve a 24 hónapos cél 94%-át a felében idő alatt',
             '58% piaci részesedés a GCC prémium SUP szegmensben (349–799 USD kiskereskedelmi ár), dominálva a széttagolt versenytársi márkák felett',
             '22 kizárólagos szálloda-/üdülő-beszerzési szerződés megszerezve, ami 3100, a vendéglátó szektorba eladott egységet jelent 72%-os ismételt rendelési aránnyal',
-            'A Dune Sports vállalatértéke 2,3 millió USD-ról 12 millió USD-ra nőtt 14 hónapon belül, és Rasid a szomszédos vízisport-kategóriákba terjeszkedett az Afarer OEM platformján keresztül',
+            'A Dune Sports vállalatértéke 2,3 millió USD-ról 12 millió USD-ra nőtt 14 hónapon belül, és Rasid a szomszédos vízisport-kategóriákba terjeszkedett az OLagoon OEM platformján keresztül',
           ],
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a globális disztribútorok az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a globális disztribútorok az OLagoont',
       items: [
         {
           title: 'Gyártási lépték',
@@ -4044,38 +4044,38 @@ const hu: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Mi teszi az Afarert más SUP OEM gyártóktól eltérővé a disztribútorok számára?',
+        question: 'Mi teszi az OLagoont más SUP OEM gyártóktól eltérővé a disztribútorok számára?',
         answer:
-          'Az Afarer a gyártáson túl teljes partnerségi modellt nyújt, beleértve a regionális piacvédelmi programokat, az exkluzív márkafejlesztési támogatást, a logisztikai optimalizálást és a disztribútori értékesítési képzést. A hosszú távú kapcsolatokra összpontosítunk, amelyek segítenek a partnereknek az importőrből regionális márkatulajdonossá növekedni.',
+          'Az OLagoon a gyártáson túl teljes partnerségi modellt nyújt, beleértve a regionális piacvédelmi programokat, az exkluzív márkafejlesztési támogatást, a logisztikai optimalizálást és a disztribútori értékesítési képzést. A hosszú távú kapcsolatokra összpontosítunk, amelyek segítenek a partnereknek az importőrből regionális márkatulajdonossá növekedni.',
       },
       {
         question: 'Hogyan működik a regionális piacvédelmi program a kizárólagos disztribútorok számára?',
         answer:
-          'Képesített partnerek számára az Afarer terület alapú együttműködési megállapodásokat, termék-megkülönböztetést exkluzív grafikákkal és konfigurációkkal, valamint kereskedői hálózati támogatást kínál. Ez biztosítja, hogy a disztribútorok bizalommal fektethessenek a piacfejlesztésbe, tudva, hogy regionális pozíciójuk védett.',
+          'Képesített partnerek számára az OLagoon terület alapú együttműködési megállapodásokat, termék-megkülönböztetést exkluzív grafikákkal és konfigurációkkal, valamint kereskedői hálózati támogatást kínál. Ez biztosítja, hogy a disztribútorok bizalommal fektethessenek a piacfejlesztésbe, tudva, hogy regionális pozíciójuk védett.',
       },
       {
         question: 'Milyen jellemző rendelési mennyiségek tartoznak a konténer-szintű SUP szállítmányokhoz?',
         answer:
-          'Az Afarer három együttműködési szakaszt támogat: piactesztelés (1000–3000 db), regionális bővítés (5000–10 000 db) és nagy disztribútori skála (10 000–20 000+ db). A konténerterhelés-optimalizálás segít maximalizálni a szállítási hatékonyságot és csökkenteni az egységenkénti importköltségeket.',
+          'Az OLagoon három együttműködési szakaszt támogat: piactesztelés (1000–3000 db), regionális bővítés (5000–10 000 db) és nagy disztribútori skála (10 000–20 000+ db). A konténerterhelés-optimalizálás segít maximalizálni a szállítási hatékonyságot és csökkenteni az egységenkénti importköltségeket.',
       },
       {
-        question: 'Létrehozhatnak a disztribútorok saját márkás SUP márkákat az Afarerrel?',
+        question: 'Létrehozhatnak a disztribútorok saját márkás SUP márkákat az OLagoonrel?',
         answer:
-          'Igen, az Afarer támogatja a teljes saját márka-fejlesztést, beleértve a márkapozicionálást, a termékválasztást, az egyedi grafikai tervezést, a csomagolás-testreszabást és az exkluzív termékkellekciókat. Ez lehetővé teszi a disztribútorok számára, hogy regionális márkákat építsenek ahelyett, hogy kizárólag áron versenyeznének.',
+          'Igen, az OLagoon támogatja a teljes saját márka-fejlesztést, beleértve a márkapozicionálást, a termékválasztást, az egyedi grafikai tervezést, a csomagolás-testreszabást és az exkluzív termékkellekciókat. Ez lehetővé teszi a disztribútorok számára, hogy regionális márkákat építsenek ahelyett, hogy kizárólag áron versenyeznének.',
       },
       {
-        question: 'Hogyan segít az Afarer a logisztikai optimalizálásban és az importköltség-csökkentésben?',
+        question: 'Hogyan segít az OLagoon a logisztikai optimalizálásban és az importköltség-csökkentésben?',
         answer:
-          'Az Afarer konténerterhelés-optimalizálást nyújt a szállítási hatékonyság maximalizálásához, termék-összeállítás tervezést, amely a gyorsan fogyó modelleket prémium tételekkel kombinálja, és átfogó exportdokumentációs támogatást a vámeljárás egyszerűsítéséhez és a késedelmek csökkentéséhez.',
+          'Az OLagoon konténerterhelés-optimalizálást nyújt a szállítási hatékonyság maximalizálásához, termék-összeállítás tervezést, amely a gyorsan fogyó modelleket prémium tételekkel kombinálja, és átfogó exportdokumentációs támogatást a vámeljárás egyszerűsítéséhez és a késedelmek csökkentéséhez.',
       },
       {
         question: 'Milyen minőségkontroll-folyamatok vannak érvényben a nemzetközi szállítmányokhoz?',
         answer:
-          'Az Afarer háromlépcsős minőségirányítást valósít meg: a PVC és drop stitch alkatrészek anyagellenőrzése, a folyamat közbeni termelés-követés és a szállítás előtti végső ellenőrzés, amely a megjelenést, a kiegészítőket, a csomagolást és a mennyiségi pontosságot fedi le.',
+          'Az OLagoon háromlépcsős minőségirányítást valósít meg: a PVC és drop stitch alkatrészek anyagellenőrzése, a folyamat közbeni termelés-követés és a szállítás előtti végső ellenőrzés, amely a megjelenést, a kiegészítőket, a csomagolást és a mennyiségi pontosságot fedi le.',
       },
     ],
     cta: {
-      title: 'Legyen az Afarer regionális partnere',
+      title: 'Legyen az OLagoon regionális partnere',
       subtitle: 'Az Ön piaca megérdemel egy megbízható vízisport-ellátási partnert.',
       primaryAction: {
         text: 'Indítsa el regionális OEM partnerségét még ma',
@@ -4090,7 +4090,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Egyedi márkázott SUP deszkák vállalati rendezvényekhez | OEM rendezvényi megoldások | {SITE}',
       description:
-        'Az Afarer egyedi márkázott SUP deszkákat készít vállalati rendezvényekhez, csapatépítő tevékenységekhez és marketingkampányokhoz. Teljes logó-testreszabás, vállalati színillesztés, gyors prototípusgyártás és ömlesztett OEM gyártás.',
+        'Az OLagoon egyedi márkázott SUP deszkákat készít vállalati rendezvényekhez, csapatépítő tevékenységekhez és marketingkampányokhoz. Teljes logó-testreszabás, vállalati színillesztés, gyors prototípusgyártás és ömlesztett OEM gyártás.',
     },
     hero: {
       tagline: 'Vállalati SUP rendezvénycsomag™',
@@ -4132,25 +4132,25 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Teljes vállalati márkázási testreszabás',
           description:
-            'Az Afarer támogatja a nagyszervi logónyomást, a deszkafelület márkázását, az evező-testreszabást és a kiegészítő-márkázást vállalati színillesztéssel Pantone referenciákkal és vizuális identitási követelményekkel.',
+            'Az OLagoon támogatja a nagyszervi logónyomást, a deszkafelület márkázását, az evező-testreszabást és a kiegészítő-márkázást vállalati színillesztéssel Pantone referenciákkal és vizuális identitási követelményekkel.',
           features: ['Vállalati logó-felvitel', 'Vállalati színillesztés', 'Egyedi grafikai tervezés'],
         },
         {
           title: 'Rendezvény-specifikus SUP termékfejlesztés',
           description:
-            'Különböző rendezvények különböző megoldásokat igényelnek. Az Afarer csapatépítő csomagokat kínál nagy létszámú munkavállalói csoportoknak, márkaaktivációs csomagokat marketingkampányokhoz és VIP élménycsomagokat luxus-ügyfélrendezvényekhez.',
+            'Különböző rendezvények különböző megoldásokat igényelnek. Az OLagoon csapatépítő csomagokat kínál nagy létszámú munkavállalói csoportoknak, márkaaktivációs csomagokat marketingkampányokhoz és VIP élménycsomagokat luxus-ügyfélrendezvényekhez.',
           features: ['Csapatépítő csomag', 'Márkaaktivációs csomag', 'VIP élménycsomag'],
         },
         {
           title: 'Gyors prototípus- és jóváhagyási folyamat',
           description:
-            'Az Afarer támogatja a gyors tervezési megerősítést grafikai áttekintéssel és grafika-igazítással, a prototípus-fejlesztést a szín- és logóelhelyezés megerősítéséhez, és a rendezvényi határidőkhöz igazított gyártásütemezést.',
+            'Az OLagoon támogatja a gyors tervezési megerősítést grafikai áttekintéssel és grafika-igazítással, a prototípus-fejlesztést a szín- és logóelhelyezés megerősítéséhez, és a rendezvényi határidőkhöz igazított gyártásütemezést.',
           features: ['Gyors tervezési megerősítés', 'Prototípus-fejlesztés', 'Gyártásütemezés'],
         },
         {
           title: 'Ömlesztett egyedi gyártási kapacitás',
           description:
-            'Az Afarer támogatja a vállalati rendeléseket a belső tevékenységekhez tartozó 50–100 darabos kis rendezvényektől a márkaaktivációkhoz tartozó 100–500 darabos közepes marketingprojekteken át a nemzeti rendezvényekhez tartozó 500–1000+ darabos nagy vállalati kampányokig.',
+            'Az OLagoon támogatja a vállalati rendeléseket a belső tevékenységekhez tartozó 50–100 darabos kis rendezvényektől a márkaaktivációkhoz tartozó 100–500 darabos közepes marketingprojekteken át a nemzeti rendezvényekhez tartozó 500–1000+ darabos nagy vállalati kampányokig.',
           features: [
             'Kis vállalati rendezvények (50–100 db)',
             'Közepes marketingprojektek (100–500 db)',
@@ -4160,7 +4160,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Teljes rendezvényi felszereléscsomagok',
           description:
-            'Az Afarer teljes rendezvényi megoldásokat nyújt, beleértve az egyedi SUP deszkákat, állítható evezőket, pumpákat, köteleket, hordozótáskákat, javítószetteket és opcionális márkázott evezőket, rendezvényi kiegészítőket és bemutató anyagokat.',
+            'Az OLagoon teljes rendezvényi megoldásokat nyújt, beleértve az egyedi SUP deszkákat, állítható evezőket, pumpákat, köteleket, hordozótáskákat, javítószetteket és opcionális márkázott evezőket, rendezvényi kiegészítőket és bemutató anyagokat.',
           features: ['A standard csomag tartalmazza', 'Opcionális testreszabás', 'Személyzeti felszerelés'],
         },
         {
@@ -4176,13 +4176,13 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Minőségkontroll márkaprojektekhez',
           description:
-            'Az Afarer gyártási minőségellenőrzést nyújt az anyagokhoz és a nyomdai elemekhez, márkázási pontosság-kontrollt a logópozícióhoz és a színkonzisztenciához, valamint szállítási ellenőrzést a mennyiség, a csomagolás és a kiegészítők tekintetében.',
+            'Az OLagoon gyártási minőségellenőrzést nyújt az anyagokhoz és a nyomdai elemekhez, márkázási pontosság-kontrollt a logópozícióhoz és a színkonzisztenciához, valamint szállítási ellenőrzést a mennyiség, a csomagolás és a kiegészítők tekintetében.',
           features: ['Gyártási minőségellenőrzés', 'Márkázási pontosság-kontroll', 'Szállítási ellenőrzés'],
         },
         {
           title: 'Globális rendezvényi szállítási támogatás',
           description:
-            'Multinacionális vállalatok számára az Afarer támogatja a több országra kiterjedő projekteket, regionális rendezvényeket és globális kampányokat koordinált gyártással, csomagolással és szállítási előkészítéssel a helyszínek között.',
+            'Multinacionális vállalatok számára az OLagoon támogatja a több országra kiterjedő projekteket, regionális rendezvényeket és globális kampányokat koordinált gyártással, csomagolással és szállítási előkészítéssel a helyszínek között.',
           features: ['Több országra kiterjedő projektek', 'Regionális rendezvények', 'Globális kampányok'],
         },
       ],
@@ -4199,7 +4199,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Márkatervezés-integráció',
           detail:
-            'Az Afarer egyedi deszkagrafikákat fejlesztett pontos márka-színillesztéssel és nagy logó-elhelyezéssel a vizuális hatás maximalizálásához a vízen.',
+            'Az OLagoon egyedi deszkagrafikákat fejlesztett pontos márka-színillesztéssel és nagy logó-elhelyezéssel a vizuális hatás maximalizálásához a vízen.',
         },
         {
           title: 'Prototípus-jóváhagyás',
@@ -4236,17 +4236,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Program-koncepció és egyedi termék-mérnökség',
               detail:
-                '2024 novemberében Klaus csapata találkozott az Afarer Vállalati Rendezvények divíziójával a boot Düsseldorf hajókiállításon a koncepció áttekintéséhez. Az Afarer egyedi 11\'6" túradeszkát javasolt a BMW i-sorozat színeiben (Blue Ridge Mountain Metallic, Frozen Pure Grey) szőtt szénszálas kiemelésekkel, amelyek az i7 belső kiegészítőihez illeszkednek. Az Afarer mérnökei 3 prototípus deszkát készítettek integrált GoPro-tartókkal akciófotózáshoz, csúszásmentes fedélzeti padokkal BMW M-inspirálta öltéssel és egyedi szelepvédőkkel a BMW körrel. A BMW 120 egységet hagyott jóvá deszkánként 895 €-ért dedikált tároló- és szállítási rendszerrel egyedi görgős kocsikkal.',
+                '2024 novemberében Klaus csapata találkozott az OLagoon Vállalati Rendezvények divíziójával a boot Düsseldorf hajókiállításon a koncepció áttekintéséhez. Az OLagoon egyedi 11\'6" túradeszkát javasolt a BMW i-sorozat színeiben (Blue Ridge Mountain Metallic, Frozen Pure Grey) szőtt szénszálas kiemelésekkel, amelyek az i7 belső kiegészítőihez illeszkednek. Az OLagoon mérnökei 3 prototípus deszkát készítettek integrált GoPro-tartókkal akciófotózáshoz, csúszásmentes fedélzeti padokkal BMW M-inspirálta öltéssel és egyedi szelepvédőkkel a BMW körrel. A BMW 120 egységet hagyott jóvá deszkánként 895 €-ért dedikált tároló- és szállítási rendszerrel egyedi görgős kocsikkal.',
             },
             {
               title: 'Márka-integráció és rendezvényi logisztikai tervezés',
               detail:
-                'Az Afarer grafikai csapata teljes felületű UV-stabil matricákat fejlesztett BMW i-márkázással, a BMW i konfigurátorra mutató QR-kódokkal és biztonsági utasítás-grafikákkal 8 nyelven. A logisztikai csapat rotációs rendszert tervezett, amely 40 deszkát szállított 3 régió mindegyikébe (Dél-Európa, Közép-Európa, skandináv/balti) mobil pumpaállomásokkal, akkumulátoros fúvókkal és vízálló öltözőkkel. A BMW rendezvényi csapata 18 helyszínt választott, beleértve a Comói-tavat (Olaszország), St. Tropez-t (Franciaország), a Lucerne-tavi régiót (Svájc), a Garda-tavat (Olaszország) és a stockholmi szigetvilágot (Svédország), amelyek mindegyike 300–600 vendéget fogadott 2–3 napos programok során.',
+                'Az OLagoon grafikai csapata teljes felületű UV-stabil matricákat fejlesztett BMW i-márkázással, a BMW i konfigurátorra mutató QR-kódokkal és biztonsági utasítás-grafikákkal 8 nyelven. A logisztikai csapat rotációs rendszert tervezett, amely 40 deszkát szállított 3 régió mindegyikébe (Dél-Európa, Közép-Európa, skandináv/balti) mobil pumpaállomásokkal, akkumulátoros fúvókkal és vízálló öltözőkkel. A BMW rendezvényi csapata 18 helyszínt választott, beleértve a Comói-tavat (Olaszország), St. Tropez-t (Franciaország), a Lucerne-tavi régiót (Svájc), a Garda-tavat (Olaszország) és a stockholmi szigetvilágot (Svédország), amelyek mindegyike 300–600 vendéget fogadott 2–3 napos programok során.',
             },
             {
               title: 'Helyszíni aktiváció és vendégélmény-tervezés',
               detail:
-                "Minden rendezvény 'BMW i Paddle Experience'-et tartalmazott 40 deszkával 90 perces vezetett foglalkozásokokban, amelyeket Afarer-képzett oktatók vezettek. A vendégek személyre szabott BMW i-márkázott rash guardt és vízálló telefonzsebet kaptak. Professzionális fotósok rögzítették minden vendég evezését a deszkák integrált kameratartóival; a képeket 2 órán belül szerkesztve kézbesítették márkázott mikrooldalon keresztül. Az aktivációt BMW i7 tesztvezetésekkel párosították festői tengerparti utakon, szárazföldi és vízi márka-elmélyülést hozva létre. Az első 10 rendezvényen a vendég-elégedettség 4,8/5 pontot ért el, és a BMW arról számolt be, hogy a résztvevők 23%-a kért kereskedői utólagos tesztvezetést.",
+                "Minden rendezvény 'BMW i Paddle Experience'-et tartalmazott 40 deszkával 90 perces vezetett foglalkozásokokban, amelyeket OLagoon-képzett oktatók vezettek. A vendégek személyre szabott BMW i-márkázott rash guardt és vízálló telefonzsebet kaptak. Professzionális fotósok rögzítették minden vendég evezését a deszkák integrált kameratartóival; a képeket 2 órán belül szerkesztve kézbesítették márkázott mikrooldalon keresztül. Az aktivációt BMW i7 tesztvezetésekkel párosították festői tengerparti utakon, szárazföldi és vízi márka-elmélyülést hozva létre. Az első 10 rendezvényen a vendég-elégedettség 4,8/5 pontot ért el, és a BMW arról számolt be, hogy a résztvevők 23%-a kért kereskedői utólagos tesztvezetést.",
             },
             {
               title: 'Teljesítmény-áttekintés és program-bővítés',
@@ -4273,17 +4273,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Programtervezés és több helyszínes logisztikai tervezés',
               detail:
-                "Dr. Sharma csapata 2025 februárjában kereste fel az Afarert egyedi vállalati programért. Az Afarer 'Paddle into Production' témát javasolt, amelyben 8–10 mérnökből álló csapatok SUP pályákon navigálnak, amelyek a Google Cloud üzembe helyezési folyamatának szakaszait reprezentálják. Az Afarer 80 deszkát testreszabott Google Cloud márkázással, csapat-színkódolással és vízálló technikai fedélzetekkel mobileszközök tartásához. A logisztikai terv 6 helyszínt fedett le: a Sunnyvale központot, Seattle-t, New Yorkot, Austint, Chicagót és Bouldert, és a rendezvények 2 hetente követték egymást 2025 júniusától augusztusig. Az Afarer 320 ezer €-t vállalt 80 deszkáért, 24 oktatóért, teljes logisztikáért és márkázott felszerelésért 1200 résztvevőnek.",
+                "Dr. Sharma csapata 2025 februárjában kereste fel az OLagoont egyedi vállalati programért. Az OLagoon 'Paddle into Production' témát javasolt, amelyben 8–10 mérnökből álló csapatok SUP pályákon navigálnak, amelyek a Google Cloud üzembe helyezési folyamatának szakaszait reprezentálják. Az OLagoon 80 deszkát testreszabott Google Cloud márkázással, csapat-színkódolással és vízálló technikai fedélzetekkel mobileszközök tartásához. A logisztikai terv 6 helyszínt fedett le: a Sunnyvale központot, Seattle-t, New Yorkot, Austint, Chicagót és Bouldert, és a rendezvények 2 hetente követték egymást 2025 júniusától augusztusig. Az OLagoon 320 ezer €-t vállalt 80 deszkáért, 24 oktatóért, teljes logisztikáért és márkázott felszerelésért 1200 résztvevőnek.",
             },
             {
               title: 'Befogadó tevékenységfejlesztés és biztonsági keretrendszer',
               detail:
-                "Az Afarer programozási csapata 3 képességi szintet hozott létre: 'Beginner Buoy' (alap evezés és stabilitási játékok), 'Production Racer' (csapatváltóversenyek) és 'Cloud Cluster' (csoportos formációs kihívások koordinációt igényelve). Minden szint Google Cloud-témájú kihívásokat tartalmazott, mint a 'konténer üzembe helyezése' (labda egyensúlyoztatása a deszkán evezés közben) és a 'skálázás nullára' (mindenkinek egyszerre kell leülnie). Az Afarer 24 tanúsított SUP oktatót fogadott minden helyszínre, és átfogó biztonsági protokollt fejlesztett, beleértve kötelező mentőmellényt, párrendszerst, úszásteszteket és vízen lévő figyelőket mentődeszkákkal.",
+                "Az OLagoon programozási csapata 3 képességi szintet hozott létre: 'Beginner Buoy' (alap evezés és stabilitási játékok), 'Production Racer' (csapatváltóversenyek) és 'Cloud Cluster' (csoportos formációs kihívások koordinációt igényelve). Minden szint Google Cloud-témájú kihívásokat tartalmazott, mint a 'konténer üzembe helyezése' (labda egyensúlyoztatása a deszkán evezés közben) és a 'skálázás nullára' (mindenkinek egyszerre kell leülnie). Az OLagoon 24 tanúsított SUP oktatót fogadott minden helyszínre, és átfogó biztonsági protokollt fejlesztett, beleértve kötelező mentőmellényt, párrendszerst, úszásteszteket és vízen lévő figyelőket mentődeszkákkal.",
             },
             {
               title: 'Bevezetés, márkázott ajándékok és rendezvényi végrehajtás',
               detail:
-                "Minden résztvevő márkázott üdvözlőcsomagot kapott, beleértve Google Cloud x Afarer rash guardt, SPF ajakbalzsamot, száraz táskát és rendezvényi füzetet. A 2 órás foglalkozások 30 perc szárazföldi oktatást, 75 perc vízi tevékenységet és 15 perc levezetést tartalmaztak csapatfotóval drónnal. Az Afarer rendezvényi csapata kezelte az összes felállítást, lebontást és takarítást minden helyszínen — a Google alkalmazottainak csak meg kellett jelenniük. Az első rendezvény a Shoreline-tavon Mountain View-ban 2025. június 12-én 97%-os részvételt ért el, a csapatok a 'Legmagasabb rendelkezésre állás' díjért versengtek koordináció és sebesség alapján.",
+                "Minden résztvevő márkázott üdvözlőcsomagot kapott, beleértve Google Cloud x OLagoon rash guardt, SPF ajakbalzsamot, száraz táskát és rendezvényi füzetet. A 2 órás foglalkozások 30 perc szárazföldi oktatást, 75 perc vízi tevékenységet és 15 perc levezetést tartalmaztak csapatfotóval drónnal. Az OLagoon rendezvényi csapata kezelte az összes felállítást, lebontást és takarítást minden helyszínen — a Google alkalmazottainak csak meg kellett jelenniük. Az első rendezvény a Shoreline-tavon Mountain View-ban 2025. június 12-én 97%-os részvételt ért el, a csapatok a 'Legmagasabb rendelkezésre állás' díjért versengtek koordináció és sebesség alapján.",
             },
             {
               title: 'Eredményelemzés és másodéves bővítés',
@@ -4300,8 +4300,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a vállalatok az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a vállalatok az OLagoont',
       items: [
         {
           title: 'Márka-bemutató',
@@ -4311,7 +4311,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Gyors projekt-végrehajtás',
           description:
-            'A határidők számítanak. Az Afarer egyszerűsített folyamata a koncepciótól a szállításig mozog szoros rendezvényi ütemtervekben.',
+            'A határidők számítanak. Az OLagoon egyszerűsített folyamata a koncepciótól a szállításig mozog szoros rendezvényi ütemtervekben.',
         },
         {
           title: 'Egyedi gyártás',
@@ -4321,7 +4321,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Megbízható szállítás',
           description:
-            'A rendezvények nem várhatnak. Az Afarer garanciát vállal a gyártásütemezésre és a szállítási koordinációra a rögzített rendezvényi dátumok teljesítéséhez.',
+            'A rendezvények nem várhatnak. Az OLagoon garanciát vállal a gyártásütemezésre és a szállítási koordinációra a rögzített rendezvényi dátumok teljesítéséhez.',
         },
         {
           title: 'Vizuális hatás',
@@ -4339,36 +4339,36 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Illeszthetők a pontos vállalati márkaszínek (Pantone) a SUP deszkákon?',
         answer:
-          'Igen, az Afarer támogatja a Pantone színillesztést és a vállalati vizuális identitási követelményeket precíz színreprodukcióval. Prototípus-mintákat biztosítunk a szín-jóváhagyáshoz a sorozatgyártás előtt, hogy a végtermék pontosan megfeleljen az Ön márka-normáinak.',
+          'Igen, az OLagoon támogatja a Pantone színillesztést és a vállalati vizuális identitási követelményeket precíz színreprodukcióval. Prototípus-mintákat biztosítunk a szín-jóváhagyáshoz a sorozatgyártás előtt, hogy a végtermék pontosan megfeleljen az Ön márka-normáinak.',
       },
       {
         question: 'Milyen a minimális rendelési mennyiség az egyedi márkázott SUP deszkákhoz?',
         answer:
-          'Az Afarer különböző projekt-skálákat támogat. A kis vállalati rendezvények és belső tevékenységek 50–100 egységnél kezdődnek. A közepes marketingkampányok 100–500 egység között mozognak, a nagy nemzeti vagy több helyszínes rendezvények pedig 500–1000+ egységre skálázódhatnak.',
+          'Az OLagoon különböző projekt-skálákat támogat. A kis vállalati rendezvények és belső tevékenységek 50–100 egységnél kezdődnek. A közepes marketingkampányok 100–500 egység között mozognak, a nagy nemzeti vagy több helyszínes rendezvények pedig 500–1000+ egységre skálázódhatnak.',
       },
       {
         question: 'Mennyi ideig tart a prototípus- és jóváhagyási folyamat?',
         answer:
-          'A prototípus-folyamat a sebességre lett tervezve. Az Afarer gyors tervezési megerősítést, grafikai áttekintést és prototípus-fejlesztést biztosít jellemzően 1–2 héten belül. Ez elegendő időt hagy a jóváhagyásra és a sorozatgyártásra a rendezvényi határidők előtt.',
+          'A prototípus-folyamat a sebességre lett tervezve. Az OLagoon gyors tervezési megerősítést, grafikai áttekintést és prototípus-fejlesztést biztosít jellemzően 1–2 héten belül. Ez elegendő időt hagy a jóváhagyásra és a sorozatgyártásra a rendezvényi határidők előtt.',
       },
       {
         question: 'Szállíthatnak több helyszínre globális kampányrendezvényekhez?',
         answer:
-          'Igen, az Afarer támogatja a több országra és több helyszínre kiterjedő rendezvényi kampányokat. Koordináljuk a gyártást, a csomagolást és a szállítási előkészítést, hogy következetes szállítást biztosítsunk minden regionális vagy globális rendezvényi helyszínre.',
+          'Igen, az OLagoon támogatja a több országra és több helyszínre kiterjedő rendezvényi kampányokat. Koordináljuk a gyártást, a csomagolást és a szállítási előkészítést, hogy következetes szállítást biztosítsunk minden regionális vagy globális rendezvényi helyszínre.',
       },
       {
         question: 'Milyen testreszabási lehetőségek állnak rendelkezésre a logónyomáson túl?',
         answer:
-          'A logónyomáson túl az Afarer teljes deszkafelület-márkázást, evező-testreszabást, vállalati színillesztést Pantone referenciákkal, rendezvény-témájú grafikai terveket, limitált kiadású művészi terveket és márkázott kiegészítőket kínál, beleértve evezőket, pumpákat és táskákat.',
+          'A logónyomáson túl az OLagoon teljes deszkafelület-márkázást, evező-testreszabást, vállalati színillesztést Pantone referenciákkal, rendezvény-témájú grafikai terveket, limitált kiadású művészi terveket és márkázott kiegészítőket kínál, beleértve evezőket, pumpákat és táskákat.',
       },
       {
         question: 'Kínálnak teljes rendezvénycsomagokat kiegészítőkkel és evezőkkel?',
         answer:
-          'Igen, az Afarer teljes rendezvényi felszereléscsomagokat nyújt, beleértve az egyedi SUP deszkákat, állítható evezőket, pumpákat, köteleket, hordozótáskákat és javítószetteket. Opcionális kiegészítők: márkázott evezők, rendezvényi kiegészítők, bemutató anyagok és személyzeti felszerelés.',
+          'Igen, az OLagoon teljes rendezvényi felszereléscsomagokat nyújt, beleértve az egyedi SUP deszkákat, állítható evezőket, pumpákat, köteleket, hordozótáskákat és javítószetteket. Opcionális kiegészítők: márkázott evezők, rendezvényi kiegészítők, bemutató anyagok és személyzeti felszerelés.',
       },
     ],
     cta: {
-      title: 'Hozza létre vállalati vízi élményét az Afarerrel',
+      title: 'Hozza létre vállalati vízi élményét az OLagoonrel',
       subtitle: 'Az Ön márkája megérdemli, hogy emlékezzenek rá.',
       primaryAction: {
         text: 'Indítsa el vállalati SUP projektjét még ma',
@@ -4383,7 +4383,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Felfújható SUP OEM gyártó vízisport-márkáknak | {SITE}',
       description:
-        'Az Afarer segít a kajak, kenu, vitorlás és búvár márkáknak felfújható SUP termékekbe terjeszkedni professzionális Drop Stitch technológiával, OEM gyártással és teljes vízisport-termékmegoldásokkal.',
+        'Az OLagoon segít a kajak, kenu, vitorlás és búvár márkáknak felfújható SUP termékekbe terjeszkedni professzionális Drop Stitch technológiával, OEM gyártással és teljes vízisport-termékmegoldásokkal.',
     },
     hero: {
       tagline: 'Bővítse vízisport-portfólióját™',
@@ -4424,7 +4424,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Érett felfújható SUP gyártási technológia',
           description:
-            'Az Afarer professzionális Drop Stitch technológiát nyújt nagy nyomású felfújható szerkezetekhez merev deszka-teljesítménnyel, több rétegű PVC konstrukciót a tartóssághoz és professzionális hegesztési technológiát az erős varratokhoz.',
+            'Az OLagoon professzionális Drop Stitch technológiát nyújt nagy nyomású felfújható szerkezetekhez merev deszka-teljesítménnyel, több rétegű PVC konstrukciót a tartóssághoz és professzionális hegesztési technológiát az erős varratokhoz.',
           features: [
             'Drop Stitch technológia',
             'Több rétegű PVC konstrukció',
@@ -4434,7 +4434,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Teljes SUP termékportfólió-fejlesztés',
           description:
-            'Az Afarer bevált termékplatformokat nyújt, beleértve az all-round SUP-ot kezdőknek és családoknak, a túra SUP-ot kaland-felhasználóknak, a rögzítőrendszeres horgász SUP-ot, a jógá SUP-ot a wellness-piacokhoz és a gyerek SUP-ot.',
+            'Az OLagoon bevált termékplatformokat nyújt, beleértve az all-round SUP-ot kezdőknek és családoknak, a túra SUP-ot kaland-felhasználóknak, a rögzítőrendszeres horgász SUP-ot, a jógá SUP-ot a wellness-piacokhoz és a gyerek SUP-ot.',
           features: [
             'All-round SUP sorozat',
             'Túra SUP sorozat',
@@ -4446,37 +4446,37 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'OEM és ODM termékfejlesztés',
           description:
-            'Az Afarer támogatja a saját márkás gyártást márka-logóval és csomagolással, a termék-módosítást méretekre és jellemzőkre, valamint az exkluzív kollekciókat márka-specifikus modellekhez és szezonális termékekhez.',
+            'Az OLagoon támogatja a saját márkás gyártást márka-logóval és csomagolással, a termék-módosítást méretekre és jellemzőkre, valamint az exkluzív kollekciókat márka-specifikus modellekhez és szezonális termékekhez.',
           features: ['Saját márkás gyártás', 'Termék-módosítás', 'Exkluzív kollekciók'],
         },
         {
           title: 'Gyors piacra lépési program',
           description:
-            'Az Afarer segít csökkenteni a fejlesztési időt meglévő termékplatformokkal bevált deszkaformákkal és tesztelt konstrukciókkal, gyors prototípus-gyártással a megbeszéléstől a gyártásig, és gyorsabb kereskedelmi indítással a szezonális lehetőségek megragadásához.',
+            'Az OLagoon segít csökkenteni a fejlesztési időt meglévő termékplatformokkal bevált deszkaformákkal és tesztelt konstrukciókkal, gyors prototípus-gyártással a megbeszéléstől a gyártásig, és gyorsabb kereskedelmi indítással a szezonális lehetőségek megragadásához.',
           features: ['Meglévő termékplatformok', 'Gyors prototípus-gyártás', 'Gyorsabb kereskedelmi indítás'],
         },
         {
           title: 'Márka-kompatibilis termék-integráció',
           description:
-            'Az Afarer együtt dolgozik a márka-menedzserekkel a terméktervezési nyelv összehangolásán, beleértve a színeket, grafikákat és anyagokat a meglévő márkaidentitással, kaland-, családi és prémium tengeri pozicionálásban.',
+            'Az OLagoon együtt dolgozik a márka-menedzserekkel a terméktervezési nyelv összehangolásán, beleértve a színeket, grafikákat és anyagokat a meglévő márkaidentitással, kaland-, családi és prémium tengeri pozicionálásban.',
           features: ['Terméktervezési nyelv', 'Ügyfél-pozicionálás', 'Márka-összehangolás'],
         },
         {
           title: 'Kiegészítők és teljes csomagfejlesztés',
           description:
-            'Az Afarer támogatja a SUP kiegészítőket, beleértve evezőket, pumpákat, köteleket, táskákat és javítószetteket, plusz termékcsomagokat, mint kezdő csomagok, kalandcsomagok és családi csomagok.',
+            'Az OLagoon támogatja a SUP kiegészítőket, beleértve evezőket, pumpákat, köteleket, táskákat és javítószetteket, plusz termékcsomagokat, mint kezdő csomagok, kalandcsomagok és családi csomagok.',
           features: ['SUP kiegészítők', 'Termékcsomagok', 'Csomagfejlesztés'],
         },
         {
           title: 'Ellátási lánc integráció',
           description:
-            'Bevált márkák számára az Afarer stabil gyártási kapacitást nyújt évi 500–10 000 szett, éves tervezést termék-útitervhez és szezonális gyártáshoz, valamint minőségkonzisztenciát minden specifikációban.',
+            'Bevált márkák számára az OLagoon stabil gyártási kapacitást nyújt évi 500–10 000 szett, éves tervezést termék-útitervhez és szezonális gyártáshoz, valamint minőségkonzisztenciát minden specifikációban.',
           features: ['Stabil gyártási kapacitás', 'Éves tervezés', 'Minőségkonzisztencia'],
         },
         {
           title: 'Minőségkontroll-támogatás',
           description:
-            'Az Afarer minőségi folyamatai magukban foglalják a PVC és Drop Stitch szövet anyagellenőrzését, a hegesztés és összeszerelés termelés-követését, valamint a termék-teljesítmény, kiegészítők és csomagolás végső ellenőrzését.',
+            'Az OLagoon minőségi folyamatai magukban foglalják a PVC és Drop Stitch szövet anyagellenőrzését, a hegesztés és összeszerelés termelés-követését, valamint a termék-teljesítmény, kiegészítők és csomagolás végső ellenőrzését.',
           features: ['Anyagellenőrzés', 'Termelés-követés', 'Végső ellenőrzés'],
         },
       ],
@@ -4493,7 +4493,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Termékstratégia-fejlesztés',
           detail:
-            'Az Afarer elemezte a márka meglévő ügyfélbázisát, piaci pozicionálását és ár-szegmensét, hogy a márkájához igazodó SUP termékcsalád-bővítést javasoljon.',
+            'Az OLagoon elemezte a márka meglévő ügyfélbázisát, piaci pozicionálását és ár-szegmensét, hogy a márkájához igazodó SUP termékcsalád-bővítést javasoljon.',
         },
         {
           title: 'Termékportfólió létrehozása',
@@ -4530,22 +4530,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Termékportfólió-tervezés és brazil piaci adaptáció',
               detail:
-                'Pedro 2025 januárjában felkereste az Afarer sanghaji létesítményét termékigazgatójával és ipari tervezőjével egy 5 napos együttműködési műhelyre. 10 SUP modellt választottak: 4 all-around, 3 túra, 2 horgász és 1 jógaplatform. Az Afarer mérnökei minden terméket módosítottak a brazil körülményekhez, beleértve UV-álló PVC-t a trópusi naphoz, megerősített testet a Minas Gerais-i sziklás folyómedrekhez és színvariánsokat Brazília nemzeti zászlója és az Amazonas-esőerdő motívumai inspirálta. Pedro 3,2 millió R$ kezdeti rendelést adott 4500 egységre 30% előleggel és egyenleggel a raklevélhez.',
+                'Pedro 2025 januárjában felkereste az OLagoon sanghaji létesítményét termékigazgatójával és ipari tervezőjével egy 5 napos együttműködési műhelyre. 10 SUP modellt választottak: 4 all-around, 3 túra, 2 horgász és 1 jógaplatform. Az OLagoon mérnökei minden terméket módosítottak a brazil körülményekhez, beleértve UV-álló PVC-t a trópusi naphoz, megerősített testet a Minas Gerais-i sziklás folyómedrekhez és színvariánsokat Brazília nemzeti zászlója és az Amazonas-esőerdő motívumai inspirálta. Pedro 3,2 millió R$ kezdeti rendelést adott 4500 egységre 30% előleggel és egyenleggel a raklevélhez.',
             },
             {
               title: 'Márka-integráció, portugál lokalizáció és megfelelőség',
               detail:
-                "Az Afarer tervezőcsapata létrehozta a teljes 'ÁguaVita Adventure' vizuális identitást logókkal, színsémákkal, csomagolással és értékesítési pont-anyagokkal brazil portugál nyelven. A megfelelőségi csapat kezelte az INMETRO tanúsítványt mind a 10 termékhez (kötelező a sportfelszerelésekhez Brazíliában), és portugál nyelvű használati utasításokat fejlesztett illusztrált összeszerelési útmutatókkal Brazília alacsonyabb írástudású demográfiáihoz. Az Afarer 200 sorozatgyártás előtti egységet gyártott, amelyeket 2025 márciusában légi szállítással küldtek Pedro 50 legjobb kereskedőjének értékelésre — 50 közül 46 adott kezdeti rendelést, átlagosan 48 ezer R$ értékben.",
+                "Az OLagoon tervezőcsapata létrehozta a teljes 'ÁguaVita Adventure' vizuális identitást logókkal, színsémákkal, csomagolással és értékesítési pont-anyagokkal brazil portugál nyelven. A megfelelőségi csapat kezelte az INMETRO tanúsítványt mind a 10 termékhez (kötelező a sportfelszerelésekhez Brazíliában), és portugál nyelvű használati utasításokat fejlesztett illusztrált összeszerelési útmutatókkal Brazília alacsonyabb írástudású demográfiáihoz. Az OLagoon 200 sorozatgyártás előtti egységet gyártott, amelyeket 2025 márciusában légi szállítással küldtek Pedro 50 legjobb kereskedőjének értékelésre — 50 közül 46 adott kezdeti rendelést, átlagosan 48 ezer R$ értékben.",
             },
             {
               title: 'Kereskedői indítás és országos disztribúció',
               detail:
-                'A 4300 egységes fő tengeri szállítmány 2025. május 15-én érkezett a Santos kikötőbe, és 5 napon belül vámkezelték. Az Afarer logisztikai csapata koordinált az ÁguaVita 5 regionális disztribúciós központjával São Paulóban, Rio de Janeiróban, Belo Horizontéban, Recifében és Porto Alegre-ben. Pedro 6 fős értékesítési csapata indította a vonalat a 2025-ös São Paulo-i Kültéri Sport Kiállításon (június 12–15.) élő paddle medence-bemutatókkal Isabella Santos olimpiai kenus közreműködésével. 4 nap alatt az ÁguaVita 340 új kereskedői fiókot írt alá kifejezetten az Adventure vonalhoz, és 800 egységet adott el közvetlenül a kiállítás padlójáról.',
+                'A 4300 egységes fő tengeri szállítmány 2025. május 15-én érkezett a Santos kikötőbe, és 5 napon belül vámkezelték. Az OLagoon logisztikai csapata koordinált az ÁguaVita 5 regionális disztribúciós központjával São Paulóban, Rio de Janeiróban, Belo Horizontéban, Recifében és Porto Alegre-ben. Pedro 6 fős értékesítési csapata indította a vonalat a 2025-ös São Paulo-i Kültéri Sport Kiállításon (június 12–15.) élő paddle medence-bemutatókkal Isabella Santos olimpiai kenus közreműködésével. 4 nap alatt az ÁguaVita 340 új kereskedői fiókot írt alá kifejezetten az Adventure vonalhoz, és 800 egységet adott el közvetlenül a kiállítás padlójáról.',
             },
             {
               title: 'Kategóriabővítés és piaci vezetés',
               detail:
-                "2025 novemberéig az 'ÁguaVita Adventure' 6200 egységet adott el mind a 10 SKU-ban, 16,2 millió R$ bevételt generálva (35%-kal a 12 millió R$ cél felett). A 'Ipanema 10'6\"' felfújható SUP modell volt az egyetlen legkelendőbb termék az ÁguaVita összes kategóriájában, beleértve az örökölt búvár-felszerelést is. Pedro a sikert az Afarer minőségkonzisztenciájának tulajdonította — mindössze 0,8%-os hibaarány a korábbi búvár-felszerelés beszállítói 4,2%-ához képest. 8,5 millió R$ rendelést adott 2026-ra, beleértve 4 új horgász SUP modellt és egy állva pedálozható deszkát, az ÁguaVitát Brazília legnagyobb paddle sport cégévé pozicionálva.",
+                "2025 novemberéig az 'ÁguaVita Adventure' 6200 egységet adott el mind a 10 SKU-ban, 16,2 millió R$ bevételt generálva (35%-kal a 12 millió R$ cél felett). A 'Ipanema 10'6\"' felfújható SUP modell volt az egyetlen legkelendőbb termék az ÁguaVita összes kategóriájában, beleértve az örökölt búvár-felszerelést is. Pedro a sikert az OLagoon minőségkonzisztenciájának tulajdonította — mindössze 0,8%-os hibaarány a korábbi búvár-felszerelés beszállítói 4,2%-ához képest. 8,5 millió R$ rendelést adott 2026-ra, beleértve 4 új horgász SUP modellt és egy állva pedálozható deszkát, az ÁguaVitát Brazília legnagyobb paddle sport cégévé pozicionálva.",
             },
           ],
           results: [
@@ -4568,17 +4568,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Flotta-összetétel elemzése és kereskedelmi minőségű specifikáció-áttekintés',
               detail:
-                '2024 augusztusában Kai és fia, Mako (vendéglátás-menedzsment diplomás) az Afarer Kereskedelmi Flotta divíziójával dolgozott az ideális bérlési flotta megtervezésén. 3 éves helyi turisztikai adat elemzése után 60 SUP-ban egyeztek meg (30 all-around 10\'6", 15 túra 11\'6", 8 jógadeszka, 7 horgászdeszka). Az Afarer kereskedelmi minőségű konstrukciót biztosított megerősített drop stitch-csel, kétrétegű PVC peremekkel, rozsdamentes acél D-gyűrűkkel (műanyag helyett) és kereskedelmi minőségű szelepekkel, amelyeket 100 000+ felfújási ciklusra minősítettek. A flotta összesen 48 000 USD-be került leszállítva (a hasonló hawaii gyártmányú deszkák 78 000 USD-jéhez képest), és Kai 50% előleggel leadta a rendelést 2024. szeptember 1-jén.',
+                '2024 augusztusában Kai és fia, Mako (vendéglátás-menedzsment diplomás) az OLagoon Kereskedelmi Flotta divíziójával dolgozott az ideális bérlési flotta megtervezésén. 3 éves helyi turisztikai adat elemzése után 60 SUP-ban egyeztek meg (30 all-around 10\'6", 15 túra 11\'6", 8 jógadeszka, 7 horgászdeszka). Az OLagoon kereskedelmi minőségű konstrukciót biztosított megerősített drop stitch-csel, kétrétegű PVC peremekkel, rozsdamentes acél D-gyűrűkkel (műanyag helyett) és kereskedelmi minőségű szelepekkel, amelyeket 100 000+ felfújási ciklusra minősítettek. A flotta összesen 48 000 USD-be került leszállítva (a hasonló hawaii gyártmányú deszkák 78 000 USD-jéhez képest), és Kai 50% előleggel leadta a rendelést 2024. szeptember 1-jén.',
             },
             {
               title: 'Bérlési üzemeltetési képzés és logisztikai beállítás',
               detail:
-                'Az Afarer bérlési üzemeltetési szakembere 4 napot töltött Kai üzletében 2024 októberében a bérlési munkafolyamat optimalizálásával. Flotta-menedzsment rendszert vezettek be QR-kódolt deszkákkal mobil alkalmazással a be-/kijelentkezéshez, károsodás-követéshez és megelőző karbantartási ütemtervekhez. Az Afarer 10 nagy terhelésű akkumulátoros pumpát biztosított az aznapi flotta-cseréhez és egyedi tárolóállvány-rendszert, amely maximalizálja a 600 négyzetlábas raktárt. A képzés a felfújási protokollokat fedte le (minden deszka 12–15 PSI-re felfújva 4 percen belül az akkumulátoros pumpákkal), ellenőrzőlistákat, javítási eljárásokat és szabványosított ügyfél-biztonsági tájékoztatásokat minden bérlési személyzetnek.',
+                'Az OLagoon bérlési üzemeltetési szakembere 4 napot töltött Kai üzletében 2024 októberében a bérlési munkafolyamat optimalizálásával. Flotta-menedzsment rendszert vezettek be QR-kódolt deszkákkal mobil alkalmazással a be-/kijelentkezéshez, károsodás-követéshez és megelőző karbantartási ütemtervekhez. Az OLagoon 10 nagy terhelésű akkumulátoros pumpát biztosított az aznapi flotta-cseréhez és egyedi tárolóállvány-rendszert, amely maximalizálja a 600 négyzetlábas raktárt. A képzés a felfújási protokollokat fedte le (minden deszka 12–15 PSI-re felfújva 4 percen belül az akkumulátoros pumpákkal), ellenőrzőlistákat, javítási eljárásokat és szabványosított ügyfél-biztonsági tájékoztatásokat minden bérlési személyzetnek.',
             },
             {
               title: 'Árazási stratégia, indítás és online foglalási integráció',
               detail:
-                "Kai 2024. december 1-jén indította a flottát réteges árazással: 35 USD/óra SUP-okért, 89 USD/fél nap, 129 USD/egész nap és heti díjak. Az Afarer segített Kai-nak a FareHarbor és Peek Pro foglalási platformokkal való integrációban, professzionális termékfotózást készített, és Google My Business lista-optimalizálást fejlesztett, amely a Kai's-t 6 héten belül a 4. oldalról a helyi keresési eredmények top 3-jába juttatta. December 31-ére a flotta 42%-os kihasználtságot ért el 780 bérlési nap eladásával annak ellenére, hogy alacsony szezon volt, egyedül decemberben 62 ezer USD-t generálva.",
+                "Kai 2024. december 1-jén indította a flottát réteges árazással: 35 USD/óra SUP-okért, 89 USD/fél nap, 129 USD/egész nap és heti díjak. Az OLagoon segített Kai-nak a FareHarbor és Peek Pro foglalási platformokkal való integrációban, professzionális termékfotózást készített, és Google My Business lista-optimalizálást fejlesztett, amely a Kai's-t 6 héten belül a 4. oldalról a helyi keresési eredmények top 3-jába juttatta. December 31-ére a flotta 42%-os kihasználtságot ért el 780 bérlési nap eladásával annak ellenére, hogy alacsony szezon volt, egyedül decemberben 62 ezer USD-t generálva.",
             },
             {
               title: 'Csúcsszezon-felfutás és bővítési tervezés',
@@ -4587,7 +4587,7 @@ const hu: Record<string, SolutionOverride> = {
             },
           ],
           results: [
-            '764 ezer USD első éves teljes bevétel (12%-kal a 680 ezer USD cél felett), 487 ezer USD nettó bérlési jövedelemmel az Afarer flottából',
+            '764 ezer USD első éves teljes bevétel (12%-kal a 680 ezer USD cél felett), 487 ezer USD nettó bérlési jövedelemmel az OLagoon flottából',
             '78%-os flotta-kihasználtság a csúcs nyári hónapokban mind a 60 SUP-pal, napi legfeljebb 180 ügyflet kiszolgálva',
             'A 48 ezer USD flotta-befektetés megtérülése mindössze 3,5 hónap alatt (2024 decemberétől 2025 március közepéig)',
             'A vállalkozás értéke 420 ezer USD-ról 1,8 millió USD-ra nőtt 12 hónapon belül, lehetővé téve egy második Kona tengerparti helyszín megszerzését',
@@ -4595,8 +4595,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a vízisport-márkák az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a vízisport-márkák az OLagoont',
       items: [
         {
           title: 'Vízisport-piacok',
@@ -4631,7 +4631,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Hogyan adhat egy kajak- vagy kenumárka felfújható SUP termékeket gyár építése nélkül?',
         answer:
-          'Az Afarer OEM/ODM partnerségi modellje lehetővé teszi a bevált vízisport-márkák számára, hogy felfújható SUP termékeket adjanak hozzá a meglévő gyártási infrastruktúránk használatával. A márkák kihasználják ügyfélbázisukat és disztribúciós csatornáikat, miközben az Afarer kezeli a Drop Stitch mérnöki munkát, a PVC-gyártást, a minőségkontrollt és az ellátási lánc menedzsmentjét.',
+          'Az OLagoon OEM/ODM partnerségi modellje lehetővé teszi a bevált vízisport-márkák számára, hogy felfújható SUP termékeket adjanak hozzá a meglévő gyártási infrastruktúránk használatával. A márkák kihasználják ügyfélbázisukat és disztribúciós csatornáikat, miközben az OLagoon kezeli a Drop Stitch mérnöki munkát, a PVC-gyártást, a minőségkontrollt és az ellátási lánc menedzsmentjét.',
       },
       {
         question: 'Mi a Drop Stitch technológia és miért fontos a SUP gyártáshoz?',
@@ -4641,26 +4641,26 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Alkalmazhatók a meglévő márka-tervek és színek a SUP termékeken?',
         answer:
-          'Igen, az Afarer támogatja a teljes márka-integrációt, beleértve az egyedi grafikákat, Pantone színillesztést, logó-felvitelt és csomagolástervezést. Együtt dolgozunk a márka-menedzserekkel, hogy a SUP termékek összhangban legyenek a meglévő terméktervezési nyelvvel és piaci pozicionálással.',
+          'Igen, az OLagoon támogatja a teljes márka-integrációt, beleértve az egyedi grafikákat, Pantone színillesztést, logó-felvitelt és csomagolástervezést. Együtt dolgozunk a márka-menedzserekkel, hogy a SUP termékek összhangban legyenek a meglévő terméktervezési nyelvvel és piaci pozicionálással.',
       },
       {
         question: 'Mennyi a jellemző időbeosztás a koncepciótól a piacig egy új SUP termékcsaládnál?',
         answer:
-          'Az Afarer meglévő termékplatformjai és gyors prototípus-folyamata segítségével a márkák jellemzően 8–12 hét alatt juthatnak a koncepciótól a piackész termékekig. Ez magában foglalja a termékválasztást, a tervezési testreszabást, a prototípus-jóváhagyást, a gyártást és a szállítást.',
+          'Az OLagoon meglévő termékplatformjai és gyors prototípus-folyamata segítségével a márkák jellemzően 8–12 hét alatt juthatnak a koncepciótól a piackész termékekig. Ez magában foglalja a termékválasztást, a tervezési testreszabást, a prototípus-jóváhagyást, a gyártást és a szállítást.',
       },
       {
         question: 'Milyen minimális rendelési mennyiségek szükségesek az OEM/ODM SUP gyártáshoz?',
         answer:
-          'Az Afarer támogatja a volumen-tartományt a kezdeti piacteszteléshez tartozó 500 egységtől a bevált programokhoz tartozó évi 10 000+ egységig. Együtt dolgozunk a márkákkal a termelési volumenek megtervezésében, hogy megfeleljenek a disztribúciós skálájuknak és a szezonális keresletnek.',
+          'Az OLagoon támogatja a volumen-tartományt a kezdeti piacteszteléshez tartozó 500 egységtől a bevált programokhoz tartozó évi 10 000+ egységig. Együtt dolgozunk a márkákkal a termelési volumenek megtervezésében, hogy megfeleljenek a disztribúciós skálájuknak és a szezonális keresletnek.',
       },
       {
-        question: 'Kínál az Afarer felfújható SUP gyártást a meglévő kajak termékcsaládok mellett?',
+        question: 'Kínál az OLagoon felfújható SUP gyártást a meglévő kajak termékcsaládok mellett?',
         answer:
-          'Igen, az Afarer felfújható SUP deszkákat gyárt Drop Stitch és PVC hegesztési technológiával. Ez lehetővé teszi a vízisport-márkák számára, hogy teljes felfújható SUP kategóriát adjanak hozzá egyetlen gyártási partneren keresztül, miközben meglévő termékeik változatlanok maradnak.',
+          'Igen, az OLagoon felfújható SUP deszkákat gyárt Drop Stitch és PVC hegesztési technológiával. Ez lehetővé teszi a vízisport-márkák számára, hogy teljes felfújható SUP kategóriát adjanak hozzá egyetlen gyártási partneren keresztül, miközben meglévő termékeik változatlanok maradnak.',
       },
     ],
     cta: {
-      title: 'Bővítse vízisport-márkáját az Afarerrel',
+      title: 'Bővítse vízisport-márkáját az OLagoonrel',
       subtitle: 'Már vannak ügyfelei. Már van piaca. Most adja hozzá a termékeket, amelyeket akarnak.',
       primaryAction: {
         text: 'Indítsa el SUP bővítési projektjét még ma',
@@ -4675,7 +4675,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Kisállatbarát paddle board gyártó | Kutya SUP OEM beszállító | {SITE}',
       description:
-        'Az Afarer egyedi kisállatbarát paddle boardokat készít kutyakaland-márkáknak és kisállat-kültéri cégeknek. Tartós karcálló SUP tervek, széles stabil platformok, OEM gyártás és saját márkás megoldások.',
+        'Az OLagoon egyedi kisállatbarát paddle boardokat készít kutyakaland-márkáknak és kisállat-kültéri cégeknek. Tartós karcálló SUP tervek, széles stabil platformok, OEM gyártás és saját márkás megoldások.',
     },
     hero: {
       tagline: 'Kisállatbarát paddle board program™',
@@ -4716,7 +4716,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kisállatra optimalizált SUP tervezés',
           description:
-            'Az Afarer kifejezetten kisállat-használatra fejleszt SUP szerkezeteket ultra-stabil széles platformtervezéssel, amely megnövelt deszka-szélességet, nagyobb állóterületet és hosszú teljes fedélzeti tevékenységi területet tartalmaz minden méretű kutyáknak.',
+            'Az OLagoon kifejezetten kisállat-használatra fejleszt SUP szerkezeteket ultra-stabil széles platformtervezéssel, amely megnövelt deszka-szélességet, nagyobb állóterületet és hosszú teljes fedélzeti tevékenységi területet tartalmaz minden méretű kutyáknak.',
           features: [
             'Ultra-stabil széles platformtervezés',
             'Hosszú teljes fedélzeti tevékenységi terület',
@@ -4726,43 +4726,43 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Karcálló és kisállat-biztos anyagszerkezet',
           description:
-            'Az Afarer támogatja a megerősített PVC konstrukciót a karcállósághoz, a nagy terhelésű teljes fedést biztosító EVA fedélzeti padokat fokozott tapadással és a szúrásálló szerkezetet a karomnyomás elleni védelemhez.',
+            'Az OLagoon támogatja a megerősített PVC konstrukciót a karcállósághoz, a nagy terhelésű teljes fedést biztosító EVA fedélzeti padokat fokozott tapadással és a szúrásálló szerkezetet a karomnyomás elleni védelemhez.',
           features: ['Megerősített PVC konstrukció', 'Nagy terhelésű EVA fedélzeti pad', 'Szúrásálló szerkezet'],
         },
         {
           title: 'Kisállatbarát termék-konfiguráció',
           description:
-            'Az Afarer támogatja a teljes termékmegoldásokat, beleértve a standard kisállat SUP csomagokat deszkákkal és kiegészítőkkel, a prémium kutyakaland csomagokat biztonsági kiegészítőkkel és az utazó kisállat csomagokat közúti utazásokhoz és kempingezéshez.',
+            'Az OLagoon támogatja a teljes termékmegoldásokat, beleértve a standard kisállat SUP csomagokat deszkákkal és kiegészítőkkel, a prémium kutyakaland csomagokat biztonsági kiegészítőkkel és az utazó kisállat csomagokat közúti utazásokhoz és kempingezéshez.',
           features: ['Standard kisállat SUP csomag', 'Prémium kutyakaland csomag', 'Utazó kisállat csomag'],
         },
         {
           title: 'Egyedi saját márkás kisállat SUP fejlesztés',
           description:
-            'Az Afarer segít a kisállat-márkáknak egyedi márkázott termékeket létrehozni logó-elhelyezéssel, színekkel és grafikai tervezéssel, életmód-orientált tervezéssel a prémium pozicionáláshoz és limitált kiadású kollekciókkal influencereknek.',
+            'Az OLagoon segít a kisállat-márkáknak egyedi márkázott termékeket létrehozni logó-elhelyezéssel, színekkel és grafikai tervezéssel, életmód-orientált tervezéssel a prémium pozicionáláshoz és limitált kiadású kollekciókkal influencereknek.',
           features: ['Márka-testreszabás', 'Életmód-orientált tervezés', 'Limitált kiadású kollekciók'],
         },
         {
           title: 'Kisállat-márka piaci pozicionálási támogatás',
           description:
-            'Az Afarer különböző márka-pozíciókhoz illeszkedő termékeket fejleszt, a luxus megjelenésre összpontosító prémium kisállat-életmód márkáktól a tartósságra összpontosító kalandkutya márkákon át a biztonságra összpontosító családi kisállat márkákig.',
+            'Az OLagoon különböző márka-pozíciókhoz illeszkedő termékeket fejleszt, a luxus megjelenésre összpontosító prémium kisállat-életmód márkáktól a tartósságra összpontosító kalandkutya márkákon át a biztonságra összpontosító családi kisállat márkákig.',
           features: ['Prémium kisállat-életmód márkák', 'Kalandkutya márkák', 'Családi kisállat márkák'],
         },
         {
           title: 'OEM támogatás kisállat-termék vállalkozóknak',
           description:
-            'Sok kisállat-márkának ügyfél-közösségei és marketingképessége van, de hiányzik a gyártási tudása. Az Afarer termékfejlesztést, prototípus-készítést, gyártást, minőségkontrollt és exporttámogatást nyújt.',
+            'Sok kisállat-márkának ügyfél-közösségei és marketingképessége van, de hiányzik a gyártási tudása. Az OLagoon termékfejlesztést, prototípus-készítést, gyártást, minőségkontrollt és exporttámogatást nyújt.',
           features: ['Termékfejlesztés', 'Prototípus-készítés', 'Gyártási támogatás'],
         },
         {
           title: 'Tartalombarát terméktervezés',
           description:
-            'Az Afarer támogatja a közösségi média-láthatóságra optimalizált terveket vonzó grafikákkal és életmód-megjelenéssel, ösztönözve az ügyfél-fotókat és videókat, amelyek megosztható élményeket és közösségi elköteleződést hoznak létre.',
+            'Az OLagoon támogatja a közösségi média-láthatóságra optimalizált terveket vonzó grafikákkal és életmód-megjelenéssel, ösztönözve az ügyfél-fotókat és videókat, amelyek megosztható élményeket és közösségi elköteleződést hoznak létre.',
           features: ['Közösségi média-láthatóság', 'Ügyfél-fotók és videók', 'Márka-ismeret'],
         },
         {
           title: 'Minőségkontroll a kisállat-biztonsághoz',
           description:
-            'Az Afarer az anyagbiztonságra összpontosít a felületi tartósság ellenőrzésével, a termék-teljesítmény tesztelésével a felfújásra és stabilitásra, valamint a megjelenés, a kiegészítők és a csomagolás végső ellenőrzésével.',
+            'Az OLagoon az anyagbiztonságra összpontosít a felületi tartósság ellenőrzésével, a termék-teljesítmény tesztelésével a felfújásra és stabilitásra, valamint a megjelenés, a kiegészítők és a csomagolás végső ellenőrzésével.',
           features: ['Anyagbiztonság', 'Termék-teljesítmény', 'Végső ellenőrzés'],
         },
       ],
@@ -4779,7 +4779,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Termékfejlesztés',
           detail:
-            'Az Afarer kisállat-specifikus SUP szerkezetet tervezett, beleértve szélesebb deszkaformát, nagyobb fedélzeti területet és megerősített felületet, hogy a kutyák biztonságosan és kényelmesen elférjenek.',
+            'Az OLagoon kisállat-specifikus SUP szerkezetet tervezett, beleértve szélesebb deszkaformát, nagyobb fedélzeti területet és megerősített felületet, hogy a kutyák biztonságosan és kényelmesen elférjenek.',
         },
         {
           title: 'Anyagoptimalizálás',
@@ -4816,22 +4816,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Kutyaspecifikus termék-K+F és biztonsági mérnökség',
               detail:
-                "2025 januárjában Emma és termékcsapata egy hetet töltött az Afarer innovációs laborjában az Afarer anyagmérnökeivel és állatorvosi tanácsadóval. 3 kutyaspecifikus innovációt fejlesztettek: (1) kettős sűrűségű fedélzeti pad extra tapadású zónákkal a kutya mancsainak, amely 3-szor nagyobb súrlódási együtthatóval rendelkezik, mint a standard padok, (2) megerősített középső szakasz 50 kg terhelés-tesztelt kapacitással (labrador és golden retriever súly-szimulációkkal tesztelve) és (3) D-gyűrűs horgonyrendszer, amely kompatibilis a kutya mentőmellényekkel. Az Afarer 6 prototípus-változatot gyártott, és Emma csapata 8 hetes tesztelést végzett 50 kutyatulajdonossal az Egyesült Királyságban, a terveket 347 kérdőív-válasz alapján finomítva. A végleges tervezés mancslenyomat-domborművet, 'sárálló' anyagot és a fedélzeti padba integrált ürülékzsák-tartót tartalmazott.",
+                "2025 januárjában Emma és termékcsapata egy hetet töltött az OLagoon innovációs laborjában az OLagoon anyagmérnökeivel és állatorvosi tanácsadóval. 3 kutyaspecifikus innovációt fejlesztettek: (1) kettős sűrűségű fedélzeti pad extra tapadású zónákkal a kutya mancsainak, amely 3-szor nagyobb súrlódási együtthatóval rendelkezik, mint a standard padok, (2) megerősített középső szakasz 50 kg terhelés-tesztelt kapacitással (labrador és golden retriever súly-szimulációkkal tesztelve) és (3) D-gyűrűs horgonyrendszer, amely kompatibilis a kutya mentőmellényekkel. Az OLagoon 6 prototípus-változatot gyártott, és Emma csapata 8 hetes tesztelést végzett 50 kutyatulajdonossal az Egyesült Királyságban, a terveket 347 kérdőív-válasz alapján finomítva. A végleges tervezés mancslenyomat-domborművet, 'sárálló' anyagot és a fedélzeti padba integrált ürülékzsák-tartót tartalmazott.",
             },
             {
               title: 'Márkafejlesztés, csomagolás és kisállat-kiskereskedelmi megfelelőség',
               detail:
-                "Az Afarer tervezőcsapata létrehozta a 'Paws & Paddle Adventure' vizuális identitást, beleértve a csomagolást kutyafotókkal, polc-ingadozókat és QR-kódokat, amelyek a 'Kutya SUP biztonság' videós útmutatóra mutatnak. A 3 modell indult: 'The Spaniel' (10' all-around kis-közepes kutyáknak), 'The Labrador' (11'6\" használati közepes-nagy kutyáknak) és 'The Retriever' (12'6\" túra nagy kutyáknak és hosszabb utakhoz). Az Afarer kezelte az UKCA tanúsítást és a CE jelölést, és kisállat-ipari szövetségi megfelelőségi csomagot fejlesztett biztonsági figyelmeztetésekkel, kutya súlyhatárokkal és felelősségi dokumentációval. Emma 1800 egységet adott előre a meglévő kisállat-kiskereskedelmi hálózatán keresztül még a gyártás megkezdése előtt.",
+                "Az OLagoon tervezőcsapata létrehozta a 'Paws & Paddle Adventure' vizuális identitást, beleértve a csomagolást kutyafotókkal, polc-ingadozókat és QR-kódokat, amelyek a 'Kutya SUP biztonság' videós útmutatóra mutatnak. A 3 modell indult: 'The Spaniel' (10' all-around kis-közepes kutyáknak), 'The Labrador' (11'6\" használati közepes-nagy kutyáknak) és 'The Retriever' (12'6\" túra nagy kutyáknak és hosszabb utakhoz). Az OLagoon kezelte az UKCA tanúsítást és a CE jelölést, és kisállat-ipari szövetségi megfelelőségi csomagot fejlesztett biztonsági figyelmeztetésekkel, kutya súlyhatárokkal és felelősségi dokumentációval. Emma 1800 egységet adott előre a meglévő kisállat-kiskereskedelmi hálózatán keresztül még a gyártás megkezdése előtt.",
             },
             {
               title: 'Influencer indítási kampány és kiskereskedelmi képzés',
               detail:
-                "A kollekció 2025 márciusában indult koordinált kampánnyal, amelyben 12 brit kutya-influencer vett részt, beleértve a @myadventureswithoscar-t (2,1 millió követő) és a @the_hiking_husky-t (890 ezer követő). Az Afarer 50 bemutató egységet biztosított influencer-tartalomhoz és kisállatüzlet-rendezvényekhez. Az Afarer képzési csapata 20 perces 'Retail Pro' modult készített, amely a kutya SUP biztonságot, a különböző fajtákra való illesztést és a kutya mentőmellények és mancsvédő bootek keresztértékesítését fedte le. A Paws & Paddle 340 kiskereskedelmi partnere üzleti bemutató napokat tartott, ahol az ügyfelek kutyáikkal próbálhatták ki a deszkákat felfújható medencékben — a bemutató résztvevőinek 78%-a vásárlássá alakult.",
+                "A kollekció 2025 márciusában indult koordinált kampánnyal, amelyben 12 brit kutya-influencer vett részt, beleértve a @myadventureswithoscar-t (2,1 millió követő) és a @the_hiking_husky-t (890 ezer követő). Az OLagoon 50 bemutató egységet biztosított influencer-tartalomhoz és kisállatüzlet-rendezvényekhez. Az OLagoon képzési csapata 20 perces 'Retail Pro' modult készített, amely a kutya SUP biztonságot, a különböző fajtákra való illesztést és a kutya mentőmellények és mancsvédő bootek keresztértékesítését fedte le. A Paws & Paddle 340 kiskereskedelmi partnere üzleti bemutató napokat tartott, ahol az ügyfelek kutyáikkal próbálhatták ki a deszkákat felfújható medencékben — a bemutató résztvevőinek 78%-a vásárlássá alakult.",
             },
             {
               title: 'Kategóriabővítés és állatorvosi partnerségi program',
               detail:
-                "2025 szeptemberéig a kutyabarát SUP vonal 4200 egységet adott el 340 kiskereskedelmi helyszínen, 2,1 millió £ nagykereskedelmi bevételt generálva (40%-kal az 1,5 millió £ cél felett). A 'Labrador' modell az értékesítés 52%-át adta. Emma úttörő partnerséget indított a Brit Állatorvosi Szövetséggel a kutya vízbiztonság népszerűsítésére, és az Afarer 5000 'Kutya SUP biztonság' füzetet gyártott, amelyeket állatorvosokon keresztül terjesztettek. Egy 3000 egységes utánpótlási rendelés tartalmazta az új 'The Terrier' modellt (8'6\" kis kutyáknak) és egy illeszkedő kutya mentőmellény vonalat. A kollekciót 'Az év kisállat-termékének' nevezték a 2025-ös UK Pet Show-n.",
+                "2025 szeptemberéig a kutyabarát SUP vonal 4200 egységet adott el 340 kiskereskedelmi helyszínen, 2,1 millió £ nagykereskedelmi bevételt generálva (40%-kal az 1,5 millió £ cél felett). A 'Labrador' modell az értékesítés 52%-át adta. Emma úttörő partnerséget indított a Brit Állatorvosi Szövetséggel a kutya vízbiztonság népszerűsítésére, és az OLagoon 5000 'Kutya SUP biztonság' füzetet gyártott, amelyeket állatorvosokon keresztül terjesztettek. Egy 3000 egységes utánpótlási rendelés tartalmazta az új 'The Terrier' modellt (8'6\" kis kutyáknak) és egy illeszkedő kutya mentőmellény vonalat. A kollekciót 'Az év kisállat-termékének' nevezték a 2025-ös UK Pet Show-n.",
             },
           ],
           results: [
@@ -4848,28 +4848,28 @@ const hu: Record<string, SolutionOverride> = {
             location: 'Noosa, Queensland, Ausztrália',
             background:
               "A Blue Heeler Expeditions-t Lachlan 'Locky' Murphy alapította 2018-ban, egykori ausztrál hadseregeli kutyakezelőből lett kutyaviselkedés-szakértő. Locky nagyenergiájú fajták kiképzésére specializálódott (kelpiek, heelerek, border colliek) és kultusz-követést épített ki YouTube-csatornáján (480 ezer feliratkozó) és telt házas műhelyein. 12 000 négyzetlábas létesítménye volt a Noosa folyó közelében, de teljesen új kategóriát akart létrehozni: strukturált kutya SUP képzési és tanúsítási program. A kutyatartás Ausztráliában rekordszinten volt (5,1 millió kutya), és a #dogpaddle trend volt az ausztrál közösségi médiában, de senki sem kínált professzionális kutya SUP képzést vagy az ausztrál éghajlatra tervezett felszerelést.",
-            goal: "Átfogó 'Kutya SUP tanúsítás' program kifejlesztése egyedi Afarer deszkákkal, 80 oktató képzése és tanúsítása Ausztráliában 18 hónapon belül és 1,2 millió AUD programbevétel generálása deszka-értékesítés, tanúsítási díjak és árucikkek kombinálásával.",
+            goal: "Átfogó 'Kutya SUP tanúsítás' program kifejlesztése egyedi OLagoon deszkákkal, 80 oktató képzése és tanúsítása Ausztráliában 18 hónapon belül és 1,2 millió AUD programbevétel generálása deszka-értékesítés, tanúsítási díjak és árucikkek kombinálásával.",
           },
           steps: [
             {
               title: 'Kutya-viselkedés elemzés és SUP képzési protokoll fejlesztése',
               detail:
-                "Locky 3 hónapot töltött 2024 októberétől decemberéig az Afarer termékcsapatával és egy Queenslandi Egyetemi állat-biomechanikai kutatóval egy deszka tervezésén, amely a kutya egyensúly-képzésre optimalizált. 12' × 34' széles platformot hoztak létre ultra-puha EVA fedélzeti párnázással (8 mm a standard 4 mm helyett), alacsony profilú peremekkel a könnyű kutyadeszkázáshoz és csúszásmentes texturált felülettel, amelyet 14 kutyafajtán teszteltek. Locky 30 kutyát tesztelt 6 prototípus-iteráción, és 5 szakaszos kutya SUP képzési protokollt fejlesztett: 1. szakasz (deszka-megismerkedés a szárazföldön), 2. szakasz (statikus lebegés), 3. szakasz (ülve evezés), 4. szakasz (állva evezés ülő kutyával), 5. szakasz (teljes evezés álló kutyával). Az Afarer 200 oktatói minőségű deszkát gyártott egyedi 'Blue Heeler' grafikákkal, amelyek ausztrál marhakutya sziluettet ábrázolnak.",
+                "Locky 3 hónapot töltött 2024 októberétől decemberéig az OLagoon termékcsapatával és egy Queenslandi Egyetemi állat-biomechanikai kutatóval egy deszka tervezésén, amely a kutya egyensúly-képzésre optimalizált. 12' × 34' széles platformot hoztak létre ultra-puha EVA fedélzeti párnázással (8 mm a standard 4 mm helyett), alacsony profilú peremekkel a könnyű kutyadeszkázáshoz és csúszásmentes texturált felülettel, amelyet 14 kutyafajtán teszteltek. Locky 30 kutyát tesztelt 6 prototípus-iteráción, és 5 szakaszos kutya SUP képzési protokollt fejlesztett: 1. szakasz (deszka-megismerkedés a szárazföldön), 2. szakasz (statikus lebegés), 3. szakasz (ülve evezés), 4. szakasz (állva evezés ülő kutyával), 5. szakasz (teljes evezés álló kutyával). Az OLagoon 200 oktatói minőségű deszkát gyártott egyedi 'Blue Heeler' grafikákkal, amelyek ausztrál marhakutya sziluettet ábrázolnak.",
             },
             {
               title: 'Oktatói tanúsítási program és szabályozási keretrendszer',
               detail:
-                'Locky és az Afarer közösen fejlesztették ki a 3 szintű Kutya SUP Oktatói Tanúsítást: 1. szint (40 órás online + hétvégi gyakorlati), 2. szint (10 napos haladó vízi mentéssel), 3. szint (14 napos mesteroktató). A tananyag a kutyák vízi viselkedését, kutya-elsősegélyt, fajta-specifikus képzési megközelítéseket, ausztrál vízbiztonsági szabályozást, biztosítási követelményeket és üzleti beállítást fedte le. Az Afarer finanszírozta a 25 órás HD videotartalom létrehozását, amelyet a Noosa folyónál forgattak, és 200 oldalas oktatói kézikönyvet készített. Locky 2025 februárjában indította a tanúsítási programot 24 jelölt kezdeti csoportjával — mind a 24 átment az 1. szinten, és 18 folytatta a 2. szintre.',
+                'Locky és az OLagoon közösen fejlesztették ki a 3 szintű Kutya SUP Oktatói Tanúsítást: 1. szint (40 órás online + hétvégi gyakorlati), 2. szint (10 napos haladó vízi mentéssel), 3. szint (14 napos mesteroktató). A tananyag a kutyák vízi viselkedését, kutya-elsősegélyt, fajta-specifikus képzési megközelítéseket, ausztrál vízbiztonsági szabályozást, biztosítási követelményeket és üzleti beállítást fedte le. Az OLagoon finanszírozta a 25 órás HD videotartalom létrehozását, amelyet a Noosa folyónál forgattak, és 200 oldalas oktatói kézikönyvet készített. Locky 2025 februárjában indította a tanúsítási programot 24 jelölt kezdeti csoportjával — mind a 24 átment az 1. szinten, és 18 folytatta a 2. szintre.',
             },
             {
               title: 'Felszerelés-választék, kiskereskedelmi disztribúció és YouTube-indítás',
               detail:
-                "Locky 'Blue Heeler Expeditions' márkája 4 kiskereskedelmi terméket indított: a 'Blue'-t (12' oktatói deszka 899 AUD-ért), a 'Heeler'-t (10'6\" rekreációs kutya deszka 649 AUD-ért), kutya-specifikus mentőmellényt (89 AUD) és képzési összekötő rendszert (39 AUD). Az Afarer 1000 egységet gyártott a kezdeti kiskereskedelmi és oktatói folyamathoz. Locky 6 részes YouTube-sorozatot adott ki 'Paddle Paws' címmel, amely a képzési protokollt dokumentálja — az első epizód 2,1 millió megtekintést ért el 2 hét alatt. 30 napon belül Locky webhelye 47 000 megrendelés-érdeklődést kapott, és 340 ausztrál iratkozott fel az oktatói tanúsítás várólistájára.",
+                "Locky 'Blue Heeler Expeditions' márkája 4 kiskereskedelmi terméket indított: a 'Blue'-t (12' oktatói deszka 899 AUD-ért), a 'Heeler'-t (10'6\" rekreációs kutya deszka 649 AUD-ért), kutya-specifikus mentőmellényt (89 AUD) és képzési összekötő rendszert (39 AUD). Az OLagoon 1000 egységet gyártott a kezdeti kiskereskedelmi és oktatói folyamathoz. Locky 6 részes YouTube-sorozatot adott ki 'Paddle Paws' címmel, amely a képzési protokollt dokumentálja — az első epizód 2,1 millió megtekintést ért el 2 hét alatt. 30 napon belül Locky webhelye 47 000 megrendelés-érdeklődést kapott, és 340 ausztrál iratkozott fel az oktatói tanúsítás várólistájára.",
             },
             {
               title: 'Program-skála, országos bővítés és nemzetközi érdeklődések',
               detail:
-                '2025 augusztusáig a Blue Heeler Expeditions 85 tanúsított oktatóval rendelkezett minden ausztrál államban (5-tel a 18 hónapos cél felett, 6 hónap alatt elérve). Az oktatók 2500 AUD-t fizettek az 1. szintű tanúsításért + 899 AUD-ot a deszkáért, 296 ezer AUD tanúsítási bevételt generálva. Locky 1400 kiskereskedelmi deszkát adott el kisállattulajdonosoknak, 200 oktatói minőségű deszkát tanúsított trénereknek és 3400 kutya mentőmellényt. A teljes programbevétel 1,85 millió AUD-t ért el 8 hónap alatt (54%-kal az 1,2 millió AUD 18 hónapos cél felett). Locky 14 országból kapott érdeklődést, és licencmegállapodást írt alá egy amerikai partnerrel egy észak-amerikai verzióhoz. Az Afarer 3 éves kizárólagos globális partnerséget vállalt a Kutya SUP termékcsaládra.',
+                '2025 augusztusáig a Blue Heeler Expeditions 85 tanúsított oktatóval rendelkezett minden ausztrál államban (5-tel a 18 hónapos cél felett, 6 hónap alatt elérve). Az oktatók 2500 AUD-t fizettek az 1. szintű tanúsításért + 899 AUD-ot a deszkáért, 296 ezer AUD tanúsítási bevételt generálva. Locky 1400 kiskereskedelmi deszkát adott el kisállattulajdonosoknak, 200 oktatói minőségű deszkát tanúsított trénereknek és 3400 kutya mentőmellényt. A teljes programbevétel 1,85 millió AUD-t ért el 8 hónap alatt (54%-kal az 1,2 millió AUD 18 hónapos cél felett). Locky 14 országból kapott érdeklődést, és licencmegállapodást írt alá egy amerikai partnerrel egy észak-amerikai verzióhoz. Az OLagoon 3 éves kizárólagos globális partnerséget vállalt a Kutya SUP termékcsaládra.',
             },
           ],
           results: [
@@ -4881,8 +4881,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a kisállat-kaland márkák az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a kisállat-kaland márkák az OLagoont',
       items: [
         {
           title: 'Kisállat-biztonság',
@@ -4929,26 +4929,26 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Testreszabhatják a kisállat-márkák a SUP deszkákat saját logójukkal és színeikkel?',
         answer:
-          'Abszolút. Az Afarer teljes márka-testreszabást kínál, beleértve a logó-elhelyezést, az egyedi színillesztést, a grafikai tervezést és a márkázott csomagolást. Támogatjuk a limitált kiadású kollekciókat kisállat-influencereknek és szezonális termékindításokhoz is.',
+          'Abszolút. Az OLagoon teljes márka-testreszabást kínál, beleértve a logó-elhelyezést, az egyedi színillesztést, a grafikai tervezést és a márkázott csomagolást. Támogatjuk a limitált kiadású kollekciókat kisállat-influencereknek és szezonális termékindításokhoz is.',
       },
       {
         question: 'Milyen deszkaméret ajánlott kutyával való evezéshez?',
         answer:
-          'Kutyával való evezéshez szélesebb deszkák ajánlottak nagyobb fedélzeti területekkel. Az Afarer kisállatbarát tervei megnövelt deszka-szélességet és hosszú teljes fedélzeti tevékenységi területeket tartalmaznak, amelyek kényelmesen befogadják a kis, közepes és nagy kutyákat a stabilitás fenntartása mellett.',
+          'Kutyával való evezéshez szélesebb deszkák ajánlottak nagyobb fedélzeti területekkel. Az OLagoon kisállatbarát tervei megnövelt deszka-szélességet és hosszú teljes fedélzeti tevékenységi területeket tartalmaznak, amelyek kényelmesen befogadják a kis, közepes és nagy kutyákat a stabilitás fenntartása mellett.',
       },
       {
         question: 'Kínálnak teljes kisállat SUP csomagokat kiegészítőkkel?',
         answer:
-          'Igen, az Afarer standard kisállat SUP csomagokat kínál, beleértve deszkát, evezőt, pumpát, kötelet, hordozótáskát és javítószettet, valamint prémium kutyakaland csomagokat kisállat-biztonsági kiegészítőkkel és utazó kisállat csomagokat, amelyek közúti utazásokra és kempingezésre optimalizáltak.',
+          'Igen, az OLagoon standard kisállat SUP csomagokat kínál, beleértve deszkát, evezőt, pumpát, kötelet, hordozótáskát és javítószettet, valamint prémium kutyakaland csomagokat kisállat-biztonsági kiegészítőkkel és utazó kisállat csomagokat, amelyek közúti utazásokra és kempingezésre optimalizáltak.',
       },
       {
         question: 'Milyen a minimális rendelési mennyiség az egyedi kisállatbarát SUP deszkákhoz?',
         answer:
-          'Az Afarer minden méretű kisállat-márkával dolgozik. A minimális rendelési mennyiségek a márka szakaszához igazíthatók, a kisállat-influencereknek szánt kis tételű limitált kiadású indításoktól a bevált kisállat-kültéri márkák teljes léptékű gyártási soraiig.',
+          'Az OLagoon minden méretű kisállat-márkával dolgozik. A minimális rendelési mennyiségek a márka szakaszához igazíthatók, a kisállat-influencereknek szánt kis tételű limitált kiadású indításoktól a bevált kisállat-kültéri márkák teljes léptékű gyártási soraiig.',
       },
     ],
     cta: {
-      title: 'Hozza létre kisállat-kaland SUP márkáját az Afarerrel',
+      title: 'Hozza létre kisállat-kaland SUP márkáját az OLagoonrel',
       subtitle: 'A kisállat-termékek jövője nem csak a beltérben van. A kültérben van.',
       primaryAction: {
         text: 'Indítsa el kisállatbarát SUP projektjét még ma',
@@ -4963,7 +4963,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Kereskedelmi SUP felszerelés beszállító | Tengerparti bérlési flotta megoldások | {SITE}',
       description:
-        'Az Afarer kereskedelmi SUP flotta megoldásokat nyújt tengerparti rekreációs vállalkozásoknak és vízisport-központoknak. Tartós bérelhető paddle boardok, teljes felszereléscsomagok, alkatrész-támogatás és OEM testreszabás.',
+        'Az OLagoon kereskedelmi SUP flotta megoldásokat nyújt tengerparti rekreációs vállalkozásoknak és vízisport-központoknak. Tartós bérelhető paddle boardok, teljes felszereléscsomagok, alkatrész-támogatás és OEM testreszabás.',
     },
     hero: {
       tagline: 'Teljes tengerparti tevékenység-felszerelési megoldások™',
@@ -5004,49 +5004,49 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kereskedelmi minőségű SUP flotta tervezés',
           description:
-            'Az Afarer kifejezetten kereskedelmi környezetre fejleszt SUP termékeket megerősített PVC konstrukcióval, erős varrattechnológiával, nagy terhelésű EVA fedélzeti rendszerekkel és kereskedelmi minőségű kiegészítőkkel, beleértve tartós evezőket és pumpákat.',
+            'Az OLagoon kifejezetten kereskedelmi környezetre fejleszt SUP termékeket megerősített PVC konstrukcióval, erős varrattechnológiával, nagy terhelésű EVA fedélzeti rendszerekkel és kereskedelmi minőségű kiegészítőkkel, beleértve tartós evezőket és pumpákat.',
           features: ['Megerősített konstrukció', 'Nagy terhelésű EVA fedélzeti rendszer', 'Kereskedelmi kiegészítők'],
         },
         {
           title: 'Teljes bérlési flotta tervezés',
           description:
-            'Az Afarer segít a megfelelő felszerelés-összeállítás kiválasztásában tengerparti bérlési flottákhoz stabil all-round SUP-pal, vízisport-központ flottákhoz több méretben és oktatói deszkákkal, valamint üdülői tevékenységflottákhoz márkázott prémium felszereléssel.',
+            'Az OLagoon segít a megfelelő felszerelés-összeállítás kiválasztásában tengerparti bérlési flottákhoz stabil all-round SUP-pal, vízisport-központ flottákhoz több méretben és oktatói deszkákkal, valamint üdülői tevékenységflottákhoz márkázott prémium felszereléssel.',
           features: ['Tengerparti bérlési flotta', 'Vízisport-központ flotta', 'Üdülői tevékenységflotta'],
         },
         {
           title: 'Nagy tartósságú bérelhető SUP konfiguráció',
           description:
-            'Az Afarer optimalizálja a termékeket a karcállóságra a tengerparti homokkal és gyakori kezeléssel szemben, a könnyű javításra javítószettekkel és szabványosított alkatrészekkel, valamint a hosszú élettartamra, amely maximalizálja a felszerelés megtérülését.',
+            'Az OLagoon optimalizálja a termékeket a karcállóságra a tengerparti homokkal és gyakori kezeléssel szemben, a könnyű javításra javítószettekkel és szabványosított alkatrészekkel, valamint a hosszú élettartamra, amely maximalizálja a felszerelés megtérülését.',
           features: ['Karcállóság', 'Könnyű javítás', 'Hosszú élettartam'],
         },
         {
           title: 'Szabványosított alkatrészrendszer',
           description:
-            'Az Afarer támogatja a kereskedelmi üzemeltetőket cserekiegészítőkkel, beleértve szelepeket, köteleket, evezőket, pumpákat és javítóanyagokat, plusz flotta-karbantartási tervezéssel a napi ellenőrzéshez és a szezonális karbantartáshoz.',
+            'Az OLagoon támogatja a kereskedelmi üzemeltetőket cserekiegészítőkkel, beleértve szelepeket, köteleket, evezőket, pumpákat és javítóanyagokat, plusz flotta-karbantartási tervezéssel a napi ellenőrzéshez és a szezonális karbantartáshoz.',
           features: ['Cserekiegészítők', 'Flotta-karbantartási tervezés', 'Gyors helyreállítás'],
         },
         {
           title: 'Teljes tengerparti tevékenységcsomagok',
           description:
-            'Az Afarer SUP bérlési csomagokat nyújt kereskedelmi deszkákkal és kiegészítőkkel, családi vízi tevékenységcsomagokat üdülőknek és turisztikai területeknek, valamint csoportos rendezvénycsomagokat vállalati és iskolai tevékenységekhez.',
+            'Az OLagoon SUP bérlési csomagokat nyújt kereskedelmi deszkákkal és kiegészítőkkel, családi vízi tevékenységcsomagokat üdülőknek és turisztikai területeknek, valamint csoportos rendezvénycsomagokat vállalati és iskolai tevékenységekhez.',
           features: ['SUP bérlési csomag', 'Családi vízi tevékenységcsomag', 'Csoportos rendezvénycsomag'],
         },
         {
           title: 'Márkázás és üzleti testreszabás',
           description:
-            'Az Afarer támogatja az egyedi üzemeltetői márkázást logónyomással és színekkel, a turisztikai élménytervezést márkázott tevékenységekkel és fotózási lehetőségekkel, valamint az üdülő- és tengerparti integrációt az úti cél identitásához illeszkedve.',
+            'Az OLagoon támogatja az egyedi üzemeltetői márkázást logónyomással és színekkel, a turisztikai élménytervezést márkázott tevékenységekkel és fotózási lehetőségekkel, valamint az üdülő- és tengerparti integrációt az úti cél identitásához illeszkedve.',
           features: ['Egyedi üzemeltetői márkázás', 'Turisztikai élménytervezés', 'Üdülő- és tengerparti integráció'],
         },
         {
           title: 'Biztonságos és kezdőbarát tervezés',
           description:
-            'Az Afarer a stabilitási tervezésre összpontosít szélesebb deszkaformákkal turistáknak és családoknak, valamint a könnyű kezelhetőségre, amely segít az első alkalommal evezőknek gyorsan magabiztosan és biztonságosan élvezni az élményt.',
+            'Az OLagoon a stabilitási tervezésre összpontosít szélesebb deszkaformákkal turistáknak és családoknak, valamint a könnyű kezelhetőségre, amely segít az első alkalommal evezőknek gyorsan magabiztosan és biztonságosan élvezni az élményt.',
           features: ['Stabilitási tervezés', 'Könnyű kezelhetőség', 'Kezdőbarát teljesítmény'],
         },
         {
           title: 'Ellátási támogatás szezonális vállalkozásoknak',
           description:
-            'Az Afarer segít az üzemeltetőknek a szezon előtti tervezésben a flottaválasztáshoz és gyártásütemezéshez, a szezonális cserében további felszerelésekhez és alkatrészekhez, valamint a hosszú távú flottanövekedésben kis üzemektől nagy központokig.',
+            'Az OLagoon segít az üzemeltetőknek a szezon előtti tervezésben a flottaválasztáshoz és gyártásütemezéshez, a szezonális cserében további felszerelésekhez és alkatrészekhez, valamint a hosszú távú flottanövekedésben kis üzemektől nagy központokig.',
           features: ['Szezon előtti tervezés', 'Szezonális csere', 'Hosszú távú flottanövekedés'],
         },
       ],
@@ -5063,7 +5063,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Flotta-tervezés',
           detail:
-            'Az Afarer kereskedelmi SUP felszereléscsomagot tervezett, beleértve stabil all-round deszkákat, nagy terhelésű kiegészítőket és alkatrészeket az üzemeltető tengerparti környezetére szabva.',
+            'Az OLagoon kereskedelmi SUP felszereléscsomagot tervezett, beleértve stabil all-round deszkákat, nagy terhelésű kiegészítőket és alkatrészeket az üzemeltető tengerparti környezetére szabva.',
         },
         {
           title: 'Termék-testreszabás',
@@ -5100,27 +5100,27 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Átfogó üdülő-felmérés és felszerelés-specifikáció',
               detail:
-                '2024 szeptemberében Carlos és az Afarer Vendéglátási Megoldások csapata 5 napos helyszíni auditot végzett mind a 3 ingatlanban. Elemezték a vendég-demográfiát, a csúcs-használati mintákat, a tárolási korlátokat, a személyzeti szinteket és a sós vízi kitettségi körülményeket. Az audit kimutatta, hogy évi 60+ vendégnap elveszett a felszerelés-állásidő miatt, és a meglévő deszkák mindössze 8–12 hónapig tartottak, mielőtt degradálódtak a karibi napon és sóban. Az Afarer 140 egységes flottát javasolt: 100 SUP (10\'6" all-around), 20 átlátszó aljú paddle board zátony-nézéshez, 20 pedáldeszka és 10 tandem horgász SUP. Minden deszka UV-stabilizált tengeri minőségű PVC-vel rendelkezett 5 éves kereskedelmi garanciával, rozsdamentes acél vasalattal és Hyatt Ziva márkázott grafikákkal a márka jellegzetes türkiz és fehér színeiben.',
+                '2024 szeptemberében Carlos és az OLagoon Vendéglátási Megoldások csapata 5 napos helyszíni auditot végzett mind a 3 ingatlanban. Elemezték a vendég-demográfiát, a csúcs-használati mintákat, a tárolási korlátokat, a személyzeti szinteket és a sós vízi kitettségi körülményeket. Az audit kimutatta, hogy évi 60+ vendégnap elveszett a felszerelés-állásidő miatt, és a meglévő deszkák mindössze 8–12 hónapig tartottak, mielőtt degradálódtak a karibi napon és sóban. Az OLagoon 140 egységes flottát javasolt: 100 SUP (10\'6" all-around), 20 átlátszó aljú paddle board zátony-nézéshez, 20 pedáldeszka és 10 tandem horgász SUP. Minden deszka UV-stabilizált tengeri minőségű PVC-vel rendelkezett 5 éves kereskedelmi garanciával, rozsdamentes acél vasalattal és Hyatt Ziva márkázott grafikákkal a márka jellegzetes türkiz és fehér színeiben.',
             },
             {
               title: 'Tengerparti üzemeltetési infrastruktúra és tárolási megoldások',
               detail:
-                'Az Afarer csapata teljes tengerparti üzemeltetési központot tervezett minden üdülőnek, beleértve: egy 40 lábos zárható szállítótárolót, amely biztonságos felszerelés-teremmé lett alakítva napelemes szellőztetéssel, 10 nagy terhelésű elektromos felfújási állomást digitális nyomásmérőkkel, mobil állványrendszert, amely 50 deszkát tart cseppszáras lecsapolással, valamint javítási/karbantartási állomást tartalék szelepekkel, foltszettekkel és tisztítószerekkel. A Puerto Morelos ingatlan dedikált tengerparti kioszket kapott bejelentkezési pulttal, mentőmellény-fallal és digitális ütemező képernyővel. Az Afarer telepítőcsapata 2 hetet töltött minden ingatlanban a meglévő tárolóterületek átalakításával és a karbantartási személyzet képzésével a megfelelő ápolási rutinokra, beleértve az édesvízes öblítési protokollt minden használat után.',
+                'Az OLagoon csapata teljes tengerparti üzemeltetési központot tervezett minden üdülőnek, beleértve: egy 40 lábos zárható szállítótárolót, amely biztonságos felszerelés-teremmé lett alakítva napelemes szellőztetéssel, 10 nagy terhelésű elektromos felfújási állomást digitális nyomásmérőkkel, mobil állványrendszert, amely 50 deszkát tart cseppszáras lecsapolással, valamint javítási/karbantartási állomást tartalék szelepekkel, foltszettekkel és tisztítószerekkel. A Puerto Morelos ingatlan dedikált tengerparti kioszket kapott bejelentkezési pulttal, mentőmellény-fallal és digitális ütemező képernyővel. Az OLagoon telepítőcsapata 2 hetet töltött minden ingatlanban a meglévő tárolóterületek átalakításával és a karbantartási személyzet képzésével a megfelelő ápolási rutinokra, beleértve az édesvízes öblítési protokollt minden használat után.',
             },
             {
               title: 'Tevékenység-programozás, személyzetképzés és vendégélmény-tervezés',
               detail:
-                'Az Afarer réteges tevékenységprogramot fejlesztett minden üdülőnek: ingyenes (SUP bérlés 1 órás időkeretekben), vezetett (reggeli SUP jóga 45 USD/fő, naplementés zátony-túrák 55 USD/fő) és prémium (privát paddle piknik kirándulások 120 USD/fő). Az Afarer trénerei 12 napot töltöttek a 3 üdülőben 24 rekreációs személyzet tagjának képzésével, amely a felszerelés-kezelést, a vendég-oktatást, a biztonsági protokollokat és az alapjavítást fedte le. A képzés tartalmazott egy tanúsítási programot, amelyet a Mexikói Vízisport-üzemeltetők Szövetsége elismer. Carlos csapata QR-kódos foglalási rendszert indított, amely a Hyatt vendégalkalmazásával integrált, lehetővé téve a vendégeknek a felszerelés 48 órával előre történő lefoglalását.',
+                'Az OLagoon réteges tevékenységprogramot fejlesztett minden üdülőnek: ingyenes (SUP bérlés 1 órás időkeretekben), vezetett (reggeli SUP jóga 45 USD/fő, naplementés zátony-túrák 55 USD/fő) és prémium (privát paddle piknik kirándulások 120 USD/fő). Az OLagoon trénerei 12 napot töltöttek a 3 üdülőben 24 rekreációs személyzet tagjának képzésével, amely a felszerelés-kezelést, a vendég-oktatást, a biztonsági protokollokat és az alapjavítást fedte le. A képzés tartalmazott egy tanúsítási programot, amelyet a Mexikói Vízisport-üzemeltetők Szövetsége elismer. Carlos csapata QR-kódos foglalási rendszert indított, amely a Hyatt vendégalkalmazásával integrált, lehetővé téve a vendégeknek a felszerelés 48 órával előre történő lefoglalását.',
             },
             {
               title: 'Szezonális üzemeltetés, teljesítmény-követés és megtérülési elemzés',
               detail:
-                'A teljes program 2025. január 15-én indult, és 2025 júniusáig 14 200 vendégélményt támogatott 0 biztonsági incidenssel. A vízisport-tevékenységek vendég-elégedettsége átlagosan 4,7/5 volt, az átlátszó aljú paddle boardok kapták a legmagasabb értékeléseket (4,9/5). A felszerelés-karbantartási költségek 42%-kal csökkentek az előző évi vegyes beszállítós programhoz képest — 34 ezer USD-ről 19,7 ezer USD-re a 3 ingatlanban. A prémium vezetett programok 112 ezer USD többletbevételt generáltak az első 6 hónapban. Carlos csapata 22%-os növekedést jelentett a 1+ éjszakával meghosszabbító vendégekben, kifejezetten a vízisportok miatt. A Hyatt Inclusive Collection 240 ezer USD költségvetést hagyott jóvá 2026-ra Afarer felszerelés hozzáadásához 2 további ingatlanban a Dominikai Köztársaságban és Jamaicán.',
+                'A teljes program 2025. január 15-én indult, és 2025 júniusáig 14 200 vendégélményt támogatott 0 biztonsági incidenssel. A vízisport-tevékenységek vendég-elégedettsége átlagosan 4,7/5 volt, az átlátszó aljú paddle boardok kapták a legmagasabb értékeléseket (4,9/5). A felszerelés-karbantartási költségek 42%-kal csökkentek az előző évi vegyes beszállítós programhoz képest — 34 ezer USD-ről 19,7 ezer USD-re a 3 ingatlanban. A prémium vezetett programok 112 ezer USD többletbevételt generáltak az első 6 hónapban. Carlos csapata 22%-os növekedést jelentett a 1+ éjszakával meghosszabbító vendégekben, kifejezetten a vízisportok miatt. A Hyatt Inclusive Collection 240 ezer USD költségvetést hagyott jóvá 2026-ra OLagoon felszerelés hozzáadásához 2 további ingatlanban a Dominikai Köztársaságban és Jamaicán.',
             },
           ],
           results: [
             '14 200+ vendégélmény az első 6 hónapban 0 biztonsági incidenssel és 4,7/5 vendég-elégedettséggel a vízisport-tevékenységeknél',
-            'A felszerelés-karbantartási költségek 42%-kal csökkentek, évi 34 ezer USD-ről 19,7 ezer USD-re az Afarer kereskedelmi minőségű konstrukciójának és UV-stabilizált anyagainak köszönhetően',
+            'A felszerelés-karbantartási költségek 42%-kal csökkentek, évi 34 ezer USD-ről 19,7 ezer USD-re az OLagoon kereskedelmi minőségű konstrukciójának és UV-stabilizált anyagainak köszönhetően',
             'A prémium vezetett programok 112 ezer USD többletbevételt generáltak 6 hónap alatt, a SUP jóga és a naplementés zátony-túrák voltak a legjobban teljesítők',
             '22%-os növekedés a 1+ éjszakával meghosszabbító vendégekben, akik a vízisportokat említették kulcsfontosságú tényezőként, ami becsült 340 ezer USD további szobabevételt eredményezett',
           ],
@@ -5138,22 +5138,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: 'Több ingatlanos igényelemzés és egyedi flotta-mérnökség',
               detail:
-                '2024 októberében az Afarer Vendéglátási csapata egyedi értékeléseket végzett minden BlueWave helyszínen egy 10 napos Kükládok-körúton. Minden klub más körülményekkel rendelkezett: Mükónosz (zsúfolt öblök, magas szintű vendégkör, szél-kitettség), Szantorini (vulkáni homok, nyugodtabb vizek, naplementés turizmus), Naxosz (család-orientált, sekély vizek, hosszabb tengerpart), Parosz (szörf-keresztezés, sportos vendégkör) és Kréta (nagyobb hullámok, vegyes demográfia). Az Afarer 200 egységes flottát tervezett helyszín-specifikus konfigurációkkal: 110 SUP (beleértve 20 SUP jóga platformot megnövelt hosszal és 20 átlátszó aljú deszkát), 30 pedáldeszka prémium vendégeknek, 30 windSUP hibrid Mükónoszra és Paroszra, valamint 30 ifjúsági deszka a Naxosz-i családi programokhoz. Minden egység a BlueWave jellegzetes tengerkék-fehér színsémáját viselte arany kiemelésű logókkal.',
+                '2024 októberében az OLagoon Vendéglátási csapata egyedi értékeléseket végzett minden BlueWave helyszínen egy 10 napos Kükládok-körúton. Minden klub más körülményekkel rendelkezett: Mükónosz (zsúfolt öblök, magas szintű vendégkör, szél-kitettség), Szantorini (vulkáni homok, nyugodtabb vizek, naplementés turizmus), Naxosz (család-orientált, sekély vizek, hosszabb tengerpart), Parosz (szörf-keresztezés, sportos vendégkör) és Kréta (nagyobb hullámok, vegyes demográfia). Az OLagoon 200 egységes flottát tervezett helyszín-specifikus konfigurációkkal: 110 SUP (beleértve 20 SUP jóga platformot megnövelt hosszal és 20 átlátszó aljú deszkát), 30 pedáldeszka prémium vendégeknek, 30 windSUP hibrid Mükónoszra és Paroszra, valamint 30 ifjúsági deszka a Naxosz-i családi programokhoz. Minden egység a BlueWave jellegzetes tengerkék-fehér színsémáját viselte arany kiemelésű logókkal.',
             },
             {
               title: 'Helyszín-specifikus infrastruktúra és logisztikai megvalósítás',
               detail:
-                'Az Afarer üzemeltetési csapata logisztikai tervet telepített, amely 40 konténert szállított 5 szigetre, koordinálva a BlueWave helyi logisztikai partnereivel a szigetek közötti átvitelekhez. Minden helyszín egyedi tárolási megoldást kapott: Mükónosz éghajlat-szabályozott tengerparti raktárat kapott UV-védett állványozással, Szantorini sziklafal-pulley rendszert kapott a deszkák tárolóból a tengerpartra szállításához, Naxosz család-barát bérlési kioszket kapott gyerek-felszerelés bemutatóval, Parosz és Kréta pedig kettős célú tárolást kapott, amely szélvédelmi akadállyá alakítható. Az Afarer közös digitális foglalási rendszert telepített mind az 5 ingatlanra, és 35 BlueWave személyzeti tagot képzett egy 2 hetes intenzív program keretében a Mükónosz-i zászlóshajó helyszínen 2025 áprilisában.',
+                'Az OLagoon üzemeltetési csapata logisztikai tervet telepített, amely 40 konténert szállított 5 szigetre, koordinálva a BlueWave helyi logisztikai partnereivel a szigetek közötti átvitelekhez. Minden helyszín egyedi tárolási megoldást kapott: Mükónosz éghajlat-szabályozott tengerparti raktárat kapott UV-védett állványozással, Szantorini sziklafal-pulley rendszert kapott a deszkák tárolóból a tengerpartra szállításához, Naxosz család-barát bérlési kioszket kapott gyerek-felszerelés bemutatóval, Parosz és Kréta pedig kettős célú tárolást kapott, amely szélvédelmi akadállyá alakítható. Az OLagoon közös digitális foglalási rendszert telepített mind az 5 ingatlanra, és 35 BlueWave személyzeti tagot képzett egy 2 hetes intenzív program keretében a Mükónosz-i zászlóshajó helyszínen 2025 áprilisában.',
             },
             {
               title: 'Tevékenységprogram-szabványosítás és prémium szint létrehozása',
               detail:
-                "Dimitri csapata elindította a BlueWave szabványosított vízisport-programját 'Aegean Blue Experiences' néven 3 szinttel: ingyenes (30 perces SUP foglalkozások klubvendégeknek), prémium (vezetett SUP elzárt tengerpartokra 65–95 €) és ultra-prémium (privát játtranszferes paddle kirándulások 250 €/fő, pezsgős tengerparti piknikkel). Az Afarer programozási csapata 12 vezetett túraútvonalat hozott létre az 5 szigeten GPS-követett útvonalakkal, látnivaló-jelölőkkel és fotós-támogatással. A Mükónosz-i ingatlan szintén elindította a 'Sunset SUP at Little Venice' programot — egy 2 órás vezetett esti evezést, amely minden foglalkozását eladta 85 €/fő áron 95%-os kapacitási aránnyal a nyár során.",
+                "Dimitri csapata elindította a BlueWave szabványosított vízisport-programját 'Aegean Blue Experiences' néven 3 szinttel: ingyenes (30 perces SUP foglalkozások klubvendégeknek), prémium (vezetett SUP elzárt tengerpartokra 65–95 €) és ultra-prémium (privát játtranszferes paddle kirándulások 250 €/fő, pezsgős tengerparti piknikkel). Az OLagoon programozási csapata 12 vezetett túraútvonalat hozott létre az 5 szigeten GPS-követett útvonalakkal, látnivaló-jelölőkkel és fotós-támogatással. A Mükónosz-i ingatlan szintén elindította a 'Sunset SUP at Little Venice' programot — egy 2 órás vezetett esti evezést, amely minden foglalkozását eladta 85 €/fő áron 95%-os kapacitási aránnyal a nyár során.",
             },
             {
               title: 'Teljesítmény-szezonzáró értékelés és program-fenntarthatóság',
               detail:
-                'A 2025-ös május–szeptemberi szezon során a BlueWave egységes flottája 52 000 vendégbérlést támogatott 5 helyszínen (4%-kal az 50 000 cél felett). A teljes felszerelési költség 198 ezer USD volt az 5 éves Afarer garanciaidőszakra amortizálva a korábbi évi 165 ezer USD-vel szemben, amelyet 18 havonta cserélt felszerelésre költöttek — 52%-os éves költségcsökkenés. A vízisportok vendég-elégedettsége 3,8/5-ről (vegyes beszállítók, 2025 előtt) 4,6/5-re javult minden helyszínen. Dimitri 340 ezer € prémium programbevételt jelentett (SUP jóga, vezetett túrák, naplementés evezések), amely a felszerelés-befektetés 4,7-szeres megtérülését jelentette egyetlen szezonban. A BlueWave 3 éves megújítást írt alá az Afarerrel, 2 további helyszínre bővítve Rodoszon és Korfun 2026-ra, 80 további deszkával.',
+                'A 2025-ös május–szeptemberi szezon során a BlueWave egységes flottája 52 000 vendégbérlést támogatott 5 helyszínen (4%-kal az 50 000 cél felett). A teljes felszerelési költség 198 ezer USD volt az 5 éves OLagoon garanciaidőszakra amortizálva a korábbi évi 165 ezer USD-vel szemben, amelyet 18 havonta cserélt felszerelésre költöttek — 52%-os éves költségcsökkenés. A vízisportok vendég-elégedettsége 3,8/5-ről (vegyes beszállítók, 2025 előtt) 4,6/5-re javult minden helyszínen. Dimitri 340 ezer € prémium programbevételt jelentett (SUP jóga, vezetett túrák, naplementés evezések), amely a felszerelés-befektetés 4,7-szeres megtérülését jelentette egyetlen szezonban. A BlueWave 3 éves megújítást írt alá az OLagoonrel, 2 további helyszínre bővítve Rodoszon és Korfun 2026-ra, 80 további deszkával.',
             },
           ],
           results: [
@@ -5165,8 +5165,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a tengerparti üzemeltetők az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a tengerparti üzemeltetők az OLagoont',
       items: [
         {
           title: 'Tartósság',
@@ -5205,22 +5205,22 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Hány SUP deszkával érdemes kezdeni egy tengerparti bérlési vállalkozáshoz?',
         answer:
-          'Az Afarer 10–20 deszkával való kezdést javasol kis tengerparti üzemeltetésekhez, skálázva 30–50-re bevált bérlési vállalkozásokhoz és 50+ ra nagy vízisport-központokhoz. A flotta-tervezés deszka-méretek és konfigurációk keverékét tartalmazza, hogy különböző ügyféltípusokat szolgáljon ki a kezdőktől a tapasztalt evezőkig.',
+          'Az OLagoon 10–20 deszkával való kezdést javasol kis tengerparti üzemeltetésekhez, skálázva 30–50-re bevált bérlési vállalkozásokhoz és 50+ ra nagy vízisport-központokhoz. A flotta-tervezés deszka-méretek és konfigurációk keverékét tartalmazza, hogy különböző ügyféltípusokat szolgáljon ki a kezdőktől a tapasztalt evezőkig.',
       },
       {
-        question: 'Milyen alkatrészeket és karbantartási támogatást nyújt az Afarer bérlési flottákhoz?',
+        question: 'Milyen alkatrészeket és karbantartási támogatást nyújt az OLagoon bérlési flottákhoz?',
         answer:
-          'Az Afarer szabványosított alkatrészrendszert nyújt, beleértve szelepeket, köteleket, evezőket, pumpákat és javítóanyagokat. Flotta-karbantartási tervezési útmutatókat is kínálunk a napi ellenőrzéshez, szezonális karbantartáshoz és gyors helyreállítási eljárásokhoz a felszerelés-állásidő minimalizálásához.',
+          'Az OLagoon szabványosított alkatrészrendszert nyújt, beleértve szelepeket, köteleket, evezőket, pumpákat és javítóanyagokat. Flotta-karbantartási tervezési útmutatókat is kínálunk a napi ellenőrzéshez, szezonális karbantartáshoz és gyors helyreállítási eljárásokhoz a felszerelés-állásidő minimalizálásához.',
       },
       {
         question: 'Testreszabhatók a SUP deszkák az üzleti logómmal és márkázással?',
         answer:
-          'Igen, az Afarer támogatja a teljes üzleti márkázást, beleértve a logónyomást, az egyedi színeket és a bérlési azonosító grafikákat. Ez marketing-vagyonelemmé alakítja a flottáját, és fotózási lehetőségeket hoz létre, amelyek növelik az üzlet közösségi média-jelenlétét.',
+          'Igen, az OLagoon támogatja a teljes üzleti márkázást, beleértve a logónyomást, az egyedi színeket és a bérlési azonosító grafikákat. Ez marketing-vagyonelemmé alakítja a flottáját, és fotózási lehetőségeket hoz létre, amelyek növelik az üzlet közösségi média-jelenlétét.',
       },
       {
-        question: 'Mennyire tartósak az Afarer kereskedelmi SUP deszkái napi bérlési használathoz?',
+        question: 'Mennyire tartósak az OLagoon kereskedelmi SUP deszkái napi bérlési használathoz?',
         answer:
-          'Az Afarer kereskedelmi SUP deszkáit nagyfrekvenciás bérlési üzemeltetésre tervezték megerősített PVC-vel, erős varrattechnológiával és védő külső rétegekkel. Megfelelő karbantartással jelentősen túlélik a fogyasztói minőségű deszkákat kereskedelmi környezetben, csökkentve a teljes tulajdonosi költséget.',
+          'Az OLagoon kereskedelmi SUP deszkáit nagyfrekvenciás bérlési üzemeltetésre tervezték megerősített PVC-vel, erős varrattechnológiával és védő külső rétegekkel. Megfelelő karbantartással jelentősen túlélik a fogyasztói minőségű deszkákat kereskedelmi környezetben, csökkentve a teljes tulajdonosi költséget.',
       },
       {
         question: 'Milyen a jellemző megtérülése egy SUP bérlési flottának?',
@@ -5229,7 +5229,7 @@ const hu: Record<string, SolutionOverride> = {
       },
     ],
     cta: {
-      title: 'Építse fel tengerparti vízi tevékenység vállalkozását az Afarerrel',
+      title: 'Építse fel tengerparti vízi tevékenység vállalkozását az OLagoonrel',
       subtitle: 'Hozzon létre többet, mint bérlési szolgáltatás. Hozzon létre emlékezetes vízi élményeket.',
       primaryAction: {
         text: 'Indítsa el kereskedelmi SUP flotta projektjét még ma',
@@ -5244,7 +5244,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Kereskedelmi vízipark SUP flotta beszállító | {SITE}',
       description:
-        'Az Afarer kereskedelmi SUP flotta megoldásokat nyújt víziparkoknak és vidámparkoknak. Nagy tartósságú paddle boardok, kezdőbarát tervek, biztonságközpontú konstrukció és nagy léptékű OEM ellátás.',
+        'Az OLagoon kereskedelmi SUP flotta megoldásokat nyújt víziparkoknak és vidámparkoknak. Nagy tartósságú paddle boardok, kezdőbarát tervek, biztonságközpontú konstrukció és nagy léptékű OEM ellátás.',
     },
     hero: {
       tagline:
@@ -5292,12 +5292,12 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Biztonság-orientált konstrukció',
           description:
-            'Az Afarer támogatja a biztonságközpontú termékfejlesztést. A védő peremtervezés megerősített oldalvédéssel és puhább ütközési területekkel csökkenti az ütközési hatást. A teljes EVA biztonsági fedélzet csúszásmentes felületet és kényelmes állóterületet biztosít. A kerekített kezdőbarát formák csökkentik az éles éleket és a nehéz kezelést.',
+            'Az OLagoon támogatja a biztonságközpontú termékfejlesztést. A védő peremtervezés megerősített oldalvédéssel és puhább ütközési területekkel csökkenti az ütközési hatást. A teljes EVA biztonsági fedélzet csúszásmentes felületet és kényelmes állóterületet biztosít. A kerekített kezdőbarát formák csökkentik az éles éleket és a nehéz kezelést.',
         },
         {
           title: 'Nagy átbocsátóképességű flotta-tervezés',
           description:
-            'Az Afarer segít a parkoknak a megfelelő flotta-méret kiválasztásában. Kis tevékenységi zónák (100–300 deszka) üdülői vízterületekhez, közepes szórakoztató parkok (300–600 deszka) regionális víziparkokhoz és nagy vidámparki üzemeltetések (600–1000+ deszka) nagy szórakoztató csoportokhoz és többzónás látványosságokhoz.',
+            'Az OLagoon segít a parkoknak a megfelelő flotta-méret kiválasztásában. Kis tevékenységi zónák (100–300 deszka) üdülői vízterületekhez, közepes szórakoztató parkok (300–600 deszka) regionális víziparkokhoz és nagy vidámparki üzemeltetések (600–1000+ deszka) nagy szórakoztató csoportokhoz és többzónás látványosságokhoz.',
         },
         {
           title: 'Teljes víziparki felszereléscsomag',
@@ -5338,7 +5338,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Kereskedelmi flotta-tervezés',
           detail:
-            'Az Afarer víziparki SUP tevékenységrendszert tervezett, beleértve stabil kezdő deszkákat, kereskedelmi kiegészítőket és alkatrészeket.',
+            'Az OLagoon víziparki SUP tevékenységrendszert tervezett, beleértve stabil kezdő deszkákat, kereskedelmi kiegészítőket és alkatrészeket.',
         },
         {
           title: 'Biztonsági testreszabás',
@@ -5376,17 +5376,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. fázis: Zero-draft SUP kiválasztás és moduláris akadálytervezés',
               detail:
-                '2025 januárjában Delgado 7 felfújható SUP beszállítót értékelt. 4-et elutasított a 6+ perces újrafelfújási ciklusok miatt, és 2 továbbit a rétegválás miatt UV-tesztelésben. Kiválasztotta az Afarer Explorer 11\'6" X-et (34" szélesség, 6" vastagság, 320 L térfogat) a 15 PSI maximális merevsége és az 5 perces teljes-leeresztéstől-tárolt ciklusa miatt. Együtt dolgozott az Afarer OEM csapatával, hogy deszkánként 4 integrált D-gyűrűs rögzítőpontot adjon hozzá csippel rögzíthető akadály-modulokhoz — egyensúlygerendák, lebegő gátkapuk és mászó-ívek — egyedi síntartó rendszerrel, amelyet 220 lbs oldalirányú erőre teszteltek.',
+                '2025 januárjában Delgado 7 felfújható SUP beszállítót értékelt. 4-et elutasított a 6+ perces újrafelfújási ciklusok miatt, és 2 továbbit a rétegválás miatt UV-tesztelésben. Kiválasztotta az OLagoon Explorer 11\'6" X-et (34" szélesség, 6" vastagság, 320 L térfogat) a 15 PSI maximális merevsége és az 5 perces teljes-leeresztéstől-tárolt ciklusa miatt. Együtt dolgozott az OLagoon OEM csapatával, hogy deszkánként 4 integrált D-gyűrűs rögzítőpontot adjon hozzá csippel rögzíthető akadály-modulokhoz — egyensúlygerendák, lebegő gátkapuk és mászó-ívek — egyedi síntartó rendszerrel, amelyet 220 lbs oldalirányú erőre teszteltek.',
             },
             {
               title: '2. fázis: Akadálypálya-elrendezés és vízmélység-megfelelőség',
               detail:
-                '6 hét alatt Delgado és vezető vízi mérnöke, Sarah Kim 3 pálya-konfigurációt tervezett különböző medencemélységekhez (3,5 lábtól 5,5 lábig). Az Afarer CAD-fájljait használták a deszka-távolságok modellezéséhez 8 lábas időközökben, 150 lábas kígyózó pályákat hozva létre. Minden pálya 16 deszkát igényelt plusz 4 tartalékot parkonként. Kim megszerezte a TDLR vidámparki eszköz tanúsítványt a nyírócsap-kiszabadítható csatlakozók integrálásával minden akadály-rögzítésen, biztosítva, hogy egyetlen alkatrész se haladja meg a 15 lbs leválási erőt.',
+                '6 hét alatt Delgado és vezető vízi mérnöke, Sarah Kim 3 pálya-konfigurációt tervezett különböző medencemélységekhez (3,5 lábtól 5,5 lábig). Az OLagoon CAD-fájljait használták a deszka-távolságok modellezéséhez 8 lábas időközökben, 150 lábas kígyózó pályákat hozva létre. Minden pálya 16 deszkát igényelt plusz 4 tartalékot parkonként. Kim megszerezte a TDLR vidámparki eszköz tanúsítványt a nyírócsap-kiszabadítható csatlakozók integrálásával minden akadály-rögzítésen, biztosítva, hogy egyetlen alkatrész se haladja meg a 15 lbs leválási erőt.',
             },
             {
               title: '3. fázis: Mentő SUP tanúsítás és gyorsreagálási gyakorlatok',
               detail:
-                '2025 márciusában az Afarer képzési csapata 3 napos helyszíni tanúsítást végzett a Red Oak zászlóshajó parkban 24 mentőnek. A képzés a SUP-alapú mentési technikákat, a vészelhelyzeti leszállásokat és a tömegáramlás-menedzsmentet fedte le. Delgado 15 perces rotációs rendszert vezetett be: 12 perces SUP foglalkozás + 3 perces deszka-csere. Minden park hozzáadott egy 40 lábas dedikált előkészítő zónát 50 falra szerelt deszkaállvánnyal, amelyet a Paddletek gyártott. A mentő-tanúsítás befejezési aránya 100% volt 94%-os írásbeli vizsga-átlaggal.',
+                '2025 márciusában az OLagoon képzési csapata 3 napos helyszíni tanúsítást végzett a Red Oak zászlóshajó parkban 24 mentőnek. A képzés a SUP-alapú mentési technikákat, a vészelhelyzeti leszállásokat és a tömegáramlás-menedzsmentet fedte le. Delgado 15 perces rotációs rendszert vezetett be: 12 perces SUP foglalkozás + 3 perces deszka-csere. Minden park hozzáadott egy 40 lábas dedikált előkészítő zónát 50 falra szerelt deszkaállvánnyal, amelyet a Paddletek gyártott. A mentő-tanúsítás befejezési aránya 100% volt 94%-os írásbeli vizsga-átlaggal.',
             },
             {
               title: '4. fázis: Memorial Day-i indítás és szezon-teljesítmény',
@@ -5414,7 +5414,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: SUP kiválasztás szerénységhez, stabilitáshoz és hőállósághoz',
               detail:
-                '2024 novemberében Al Falasi 9 SUP modellt tesztelt 5 márkától. Csak az Afarer Explorer 10\'8" X (33" × 6" × 320 L) ment át az 48 órás 50 fokos hőkamra-teszten anyag-degradáció nélkül. 120 deszkát rendelt két színvariánsban (dűnebézs és óceán-türkiz) a La Mer esztétikájához illeszkedve. Minden deszkát egyedi készítésű eltávolítható napellenző-rendszerrel szereltek fel — szénszálas ívvel UPF 50+ szövettel —, amelyet az Afarer mérnöki csapata tervezett 3 prototípus-iteráción keresztül. A napellenzők 1,2 kg-ot adtak hozzá, de 0,5 fokon belül tartották a stabilitást.',
+                '2024 novemberében Al Falasi 9 SUP modellt tesztelt 5 márkától. Csak az OLagoon Explorer 10\'8" X (33" × 6" × 320 L) ment át az 48 órás 50 fokos hőkamra-teszten anyag-degradáció nélkül. 120 deszkát rendelt két színvariánsban (dűnebézs és óceán-türkiz) a La Mer esztétikájához illeszkedve. Minden deszkát egyedi készítésű eltávolítható napellenző-rendszerrel szereltek fel — szénszálas ívvel UPF 50+ szövettel —, amelyet az OLagoon mérnöki csapata tervezett 3 prototípus-iteráción keresztül. A napellenzők 1,2 kg-ot adtak hozzá, de 0,5 fokon belül tartották a stabilitást.',
             },
             {
               title: '2. lépés: Lagúna-zónázás, magánélet és nemek szerint elkülönített ütemezés',
@@ -5424,7 +5424,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '3. lépés: Női SUP oktató toborzás és kulturális képzés',
               detail:
-                'Az AquaFun célzott toborzási kampányt indított 2025 januárjában, 12 női SUP oktatót (8 emírségi, 4 külföldi) és 6 férfi oktatót alkalmazva. Az Afarer testreszabott 5 napos SUP vezetési tanúsítást nyújtott, amelyet kulturális érzékenységre adaptáltak — arab terminológiát az evezési parancsokhoz, szerénység-megfelelő mentési technikákat (deszkáról-deszkára vontatás fizikai érintkezés elkerülésével) és családi csoportos tempózási stratégiákat fedve le. Mind a 18 oktató átment az IRF 1. szintű megfelelő értékelésén február 20-ig. A képzés 28 ezer USD-be került és a Dubaji Turizmus termékinnovációs támogatása társfinanszírozta.',
+                'Az AquaFun célzott toborzási kampányt indított 2025 januárjában, 12 női SUP oktatót (8 emírségi, 4 külföldi) és 6 férfi oktatót alkalmazva. Az OLagoon testreszabott 5 napos SUP vezetési tanúsítást nyújtott, amelyet kulturális érzékenységre adaptáltak — arab terminológiát az evezési parancsokhoz, szerénység-megfelelő mentési technikákat (deszkáról-deszkára vontatás fizikai érintkezés elkerülésével) és családi csoportos tempózási stratégiákat fedve le. Mind a 18 oktató átment az IRF 1. szintű megfelelő értékelésén február 20-ig. A képzés 28 ezer USD-be került és a Dubaji Turizmus termékinnovációs támogatása társfinanszírozta.',
             },
             {
               title: '4. lépés: Ramadánhoz igazított puha indítás és folyamatos üzemeltetés',
@@ -5441,28 +5441,28 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a víziparkok az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a víziparkok az OLagoont',
       items: [
         {
           title: 'Nagy forgalmú üzemeltetés',
           description:
-            'A felszerelésnek túl kell élnie a napi kereskedelmi használatot. Az Afarer folyamatos nagy volumenű üzemeltetésre tervez tartós konstrukcióval.',
+            'A felszerelésnek túl kell élnie a napi kereskedelmi használatot. Az OLagoon folyamatos nagy volumenű üzemeltetésre tervez tartós konstrukcióval.',
         },
         {
           title: 'Biztonsági követelmények',
           description:
-            'A vendégeknek önbizalomra és védelemre van szükségük. Az Afarer a biztonságot helyezi előtérbe minden terméktervezésben kezdőbarát jellemzőkkel.',
+            'A vendégeknek önbizalomra és védelemre van szükségük. Az OLagoon a biztonságot helyezi előtérbe minden terméktervezésben kezdőbarát jellemzőkkel.',
         },
         {
           title: 'Flotta-menedzsment',
           description:
-            'A nagy projektek teljes rendszereket igényelnek. Az Afarer végpontok közötti flotta-tervezést, mennyiségi ajánlásokat és támogatást nyújt.',
+            'A nagy projektek teljes rendszereket igényelnek. Az OLagoon végpontok közötti flotta-tervezést, mennyiségi ajánlásokat és támogatást nyújt.',
         },
         {
           title: 'Hosszú távú megbízhatóság',
           description:
-            'A látványosságok stabil üzemeltetéstől függenek. Az Afarer tartós termékeket és megbízható ellátást biztosít az évekig tartó folyamatos használatra.',
+            'A látványosságok stabil üzemeltetéstől függenek. Az OLagoon tartós termékeket és megbízható ellátást biztosít az évekig tartó folyamatos használatra.',
         },
       ],
     },
@@ -5470,36 +5470,36 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Milyen flotta-méret ajánlott egy víziparki SUP látványossághoz?',
         answer:
-          'Az Afarer 100–300 deszkát javasol kis tevékenységi zónákhoz és üdülői vízterületekhez, 300–600 deszkát regionális víziparkokhoz és turisztikai úti célokhoz, valamint 600–1000+ deszkát nagy vidámparkokhoz és többzónás látványosságokhoz.',
+          'Az OLagoon 100–300 deszkát javasol kis tevékenységi zónákhoz és üdülői vízterületekhez, 300–600 deszkát regionális víziparkokhoz és turisztikai úti célokhoz, valamint 600–1000+ deszkát nagy vidámparkokhoz és többzónás látványosságokhoz.',
       },
       {
         question: 'Mennyire tartósak a kereskedelmi SUP deszkák napi víziparki használatra?',
         answer:
-          'Az Afarer kereskedelmi SUP deszkáit nagyforgalmú üzemeltetésre tervezték megerősített PVC konstrukcióval, tartós varratokkal és kereskedelmi minőségű kiegészítőkkel. Ellenállnak a folyamatos napi használatnak, a gyakori kezdő hibáknak és az ismétlődő ütéseknek, amelyek a fogyasztói minőségű termékeket károsítanák.',
+          'Az OLagoon kereskedelmi SUP deszkáit nagyforgalmú üzemeltetésre tervezték megerősített PVC konstrukcióval, tartós varratokkal és kereskedelmi minőségű kiegészítőkkel. Ellenállnak a folyamatos napi használatnak, a gyakori kezdő hibáknak és az ismétlődő ütéseknek, amelyek a fogyasztói minőségű termékeket károsítanák.',
       },
       {
         question: 'Testreszabhatók a SUP deszkák a víziparkom márkázásával?',
         answer:
-          'Igen, az Afarer támogatja a teljes testreszabást, beleértve a park-logókat, karaktergrafikákat, egyedi színeket és látványosság-téma integrációt. Az egyedi márkázás fotós látványossággá alakítja a SUP felszerelést, amely közösségi média-jelenlétet generál.',
+          'Igen, az OLagoon támogatja a teljes testreszabást, beleértve a park-logókat, karaktergrafikákat, egyedi színeket és látványosság-téma integrációt. Az egyedi márkázás fotós látványossággá alakítja a SUP felszerelést, amely közösségi média-jelenlétet generál.',
       },
       {
-        question: 'Milyen biztonsági jellemzőkkel rendelkeznek az Afarer kereskedelmi SUP deszkái?',
+        question: 'Milyen biztonsági jellemzőkkel rendelkeznek az OLagoon kereskedelmi SUP deszkái?',
         answer:
-          'Az Afarer deszkák védő peremtervezéssel, teljes EVA csúszásmentes biztonsági fedélzettel, nagy felhajtóerő-szerkezettel, kerekített kezdőbarát formákkal és megerősített oldalvédéssel rendelkeznek. Ezek a jellemzők minimalizálják az ütközési hatást és biztonságos üzemeltetést biztosítanak az első alkalommal használóknak.',
+          'Az OLagoon deszkák védő peremtervezéssel, teljes EVA csúszásmentes biztonsági fedélzettel, nagy felhajtóerő-szerkezettel, kerekített kezdőbarát formákkal és megerősített oldalvédéssel rendelkeznek. Ezek a jellemzők minimalizálják az ütközési hatást és biztonságos üzemeltetést biztosítanak az első alkalommal használóknak.',
       },
       {
-        question: 'Hogyan támogatja az Afarer a karbantartást és a cserét nagy flottákhoz?',
+        question: 'Hogyan támogatja az OLagoon a karbantartást és a cserét nagy flottákhoz?',
         answer:
-          'Az Afarer szabványosított alkatrészeket nyújt a könnyebb cseréhez, javítóanyagokat és útmutatást, flotta-ellenőrző rendszereket a napi ellenőrzésekhez és alkatrész-elérhetőséget. Éves ellátási programokat is kínálunk a szezonális cseréhez és a flotta-frissítésekhez.',
+          'Az OLagoon szabványosított alkatrészeket nyújt a könnyebb cseréhez, javítóanyagokat és útmutatást, flotta-ellenőrző rendszereket a napi ellenőrzésekhez és alkatrész-elérhetőséget. Éves ellátási programokat is kínálunk a szezonális cseréhez és a flotta-frissítésekhez.',
       },
       {
         question: 'Mennyi a jellemző átfutási idő egy nagy léptékű SUP flotta rendeléshez?',
         answer:
-          'Az átfutási idők a rendelés méretétől és a testreszabási követelményektől függenek. Az Afarer szorosan együttműködik minden ügyféllel a gyártási ütemtervek kialakításában, a 100–500 szettes pilot projektektől a 500–1000+ szettes teljes léptékű telepítésekig, biztosítva az időben történő szállítást a szezonális nyitásokhoz.',
+          'Az átfutási idők a rendelés méretétől és a testreszabási követelményektől függenek. Az OLagoon szorosan együttműködik minden ügyféllel a gyártási ütemtervek kialakításában, a 100–500 szettes pilot projektektől a 500–1000+ szettes teljes léptékű telepítésekig, biztosítva az időben történő szállítást a szezonális nyitásokhoz.',
       },
     ],
     cta: {
-      title: 'Építse fel víziparki SUP látványosságát az Afarerrel',
+      title: 'Építse fel víziparki SUP látványosságát az OLagoonrel',
       subtitle:
         'Hozzon létre többet, mint vízi tevékenységet. Hozzon létre emlékezetes vendégélményt, amely visszahozza a látogatókat.',
       primaryAction: {
@@ -5515,7 +5515,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Luxus egyedi SUP gyártó | {SITE}',
       description:
-        'Az Afarer prémium egyedi SUP kollekciókat készít privát szigeteknek, jachtkluboknak, luxusüdülőknek és elit életmódmárkáknak. Exkluzív tervek, luxusanyagok, VIP testreszabás és boutique OEM gyártás.',
+        'Az OLagoon prémium egyedi SUP kollekciókat készít privát szigeteknek, jachtkluboknak, luxusüdülőknek és elit életmódmárkáknak. Exkluzív tervek, luxusanyagok, VIP testreszabás és boutique OEM gyártás.',
     },
     hero: {
       tagline: 'Exkluzív luxus SUP megoldások privát szigetekhez, jachtklubokhoz és elit életmódúti célokhoz',
@@ -5556,7 +5556,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Exkluzív luxus SUP formatervezés',
           description:
-            'Az Afarer teljes esztétikai testreszabást támogat egyedi színfejlesztéssel, márkaspecifikus árnyalatokkal és az üdülőhöz illeszkedő tervekkel. Stílusok: Óceáni luxus mély tengerészkékkel és gyöngyfehérrel, Trópusi sziget természetes árnyalatokkal, valamint Modern jacht minimalista színekkel és prémium felületekkel.',
+            'Az OLagoon teljes esztétikai testreszabást támogat egyedi színfejlesztéssel, márkaspecifikus árnyalatokkal és az üdülőhöz illeszkedő tervekkel. Stílusok: Óceáni luxus mély tengerészkékkel és gyöngyfehérrel, Trópusi sziget természetes árnyalatokkal, valamint Modern jacht minimalista színekkel és prémium felületekkel.',
         },
         {
           title: 'Prémium anyag- és kidolgozásválaszték',
@@ -5643,17 +5643,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Egyedi tervezési együttműködés és anyagválasztás',
               detail:
-                "2024 augusztusában Voss részletes brief mellett bevonta az Afarer egyedi osztályát: a deszkáknak illeszkedniük kell az üdülő 'Ocean Sand' színpalettájához (meleg bézs, faszenes szürke, pirított rózsaszín és kékeszöld), a villa padlójához illő stukkó-textúrájú fedélzeti paddal. Az Afarer tervezőcsapata 6 hét alatt 14 színvariációs prototípust fejlesztett, és egy 5 rétegű fúziós drop-stitch magra UV-stabilizált matt PVC borítással együtt döntött. Minden deszka kézzel festett aranyfólia logót kapott — a Coco márka pálmaágból álló emblémáját —, amelyet egy balinéz mesterember vitt fel, deszkánként 4 órát igénybe véve. A 30 deszkás rendelés (25 Explorer 11'6\" X, 5 12'6\" túra) összesen 87 000 USD-t tett ki.",
+                "2024 augusztusában Voss részletes brief mellett bevonta az OLagoon egyedi osztályát: a deszkáknak illeszkedniük kell az üdülő 'Ocean Sand' színpalettájához (meleg bézs, faszenes szürke, pirított rózsaszín és kékeszöld), a villa padlójához illő stukkó-textúrájú fedélzeti paddal. Az OLagoon tervezőcsapata 6 hét alatt 14 színvariációs prototípust fejlesztett, és egy 5 rétegű fúziós drop-stitch magra UV-stabilizált matt PVC borítással együtt döntött. Minden deszka kézzel festett aranyfólia logót kapott — a Coco márka pálmaágból álló emblémáját —, amelyet egy balinéz mesterember vitt fel, deszkánként 4 órát igénybe véve. A 30 deszkás rendelés (25 Explorer 11'6\" X, 5 12'6\" túra) összesen 87 000 USD-t tett ki.",
             },
             {
               title: '2. lépés: Úszó dokk integráció és tárolási architektúra',
               detail:
-                'Voss az Afarer tengerépítészeivel kétszintű úszó deszka-kezelő rendszert tervezett. Az alsó szint 15 deszkát tartott orral kifelé a azonnali vendégi hozzáféréshez; a felső szint 15 deszkát tárolt egyedi neoprén felfüggesztésekben az UV-degradáció megelőzésére. A Phuketben épített, moduláris szekciókban szállított dokk telepítéssel együtt 42 ezer USD-be került. Minden deszkát NFC-chipjel láttak el, amely vízálló chip az üdülő RMS-rendszeréhez kapcsolódott az automatizált beadás/ visszavétel érdekében, naponta 3,2 órával csökkentve a személyzeti munkát a korábbi papír-alapú nyilvántartási rendszerhez képest.',
+                'Voss az OLagoon tengerépítészeivel kétszintű úszó deszka-kezelő rendszert tervezett. Az alsó szint 15 deszkát tartott orral kifelé a azonnali vendégi hozzáféréshez; a felső szint 15 deszkát tárolt egyedi neoprén felfüggesztésekben az UV-degradáció megelőzésére. A Phuketben épített, moduláris szekciókban szállított dokk telepítéssel együtt 42 ezer USD-be került. Minden deszkát NFC-chipjel láttak el, amely vízálló chip az üdülő RMS-rendszeréhez kapcsolódott az automatizált beadás/ visszavétel érdekében, naponta 3,2 órával csökkentve a személyzeti munkát a korábbi papír-alapú nyilvántartási rendszerhez képest.',
             },
             {
               title: '3. lépés: Butler SUP képzés és concierge integráció',
               detail:
-                '2024 novemberében az Afarer képzési csapata 4 napos intenzív programot tartott a Coco Private Islanden 8 üdülőbutler és 4 búvárközponti munkatárs számára. A képzés az ultra-gazdag vendégek SUP etikettjét fedte le (csendes vízre engedés, deszkánál gyümölcs-szerviz, GoPro rögzítési pontok). Minden butler 15 felügyelt vendégfoglalkozást teljesített. Voss integrálta a SUP foglalást a villa érkezés előtti concierge alkalmazásába, lehetővé téve a vendégeknek a deszka színének előzetes kiválasztását és a hajnali/ lagúna/ zátony útvonalak ütemezését. A bevezetési arány elérte a 28%-ot az első 2 hónapban.',
+                '2024 novemberében az OLagoon képzési csapata 4 napos intenzív programot tartott a Coco Private Islanden 8 üdülőbutler és 4 búvárközponti munkatárs számára. A képzés az ultra-gazdag vendégek SUP etikettjét fedte le (csendes vízre engedés, deszkánál gyümölcs-szerviz, GoPro rögzítési pontok). Minden butler 15 felügyelt vendégfoglalkozást teljesített. Voss integrálta a SUP foglalást a villa érkezés előtti concierge alkalmazásába, lehetővé téve a vendégeknek a deszka színének előzetes kiválasztását és a hajnali/ lagúna/ zátony útvonalak ütemezését. A bevezetési arány elérte a 28%-ot az első 2 hónapban.',
             },
             {
               title: '4. lépés: Influencer indítás és mért ROI a közösségi tőkén',
@@ -5681,22 +5681,22 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Művészeti mintaátvitel és anyaginnováció',
               detail:
-                "2025 februárjától kezdve az Afarer K+F csapata és a Verlaine szalonja 10 hetet töltött egy közvetlen-PVC szublimációs eljárás kifejlesztésével, amely képes a Verlaine 14 színű 'Geometrica' mintáját 1200 DPI felbontásban reprodukálni szín-átvérzés vagy nyújtási torzítás nélkül. 18 sikertelen minta után (a minta hullámosodása a peremgörbe mentén) az Afarer mérnökei 7 panelből álló, die-cut sablont hoztak létre, amely a sík PVC lapokon történő előnyomást tette lehetővé a fúziós laminálás előtt. Minden deszka 11,5 óra gyártási időt igényelt (a standard deszkák 3 órájához képest). A végső felület kizárólag a Verlaine számára kifejlesztett matt csúszásmentes bevonatot kapott.",
+                "2025 februárjától kezdve az OLagoon K+F csapata és a Verlaine szalonja 10 hetet töltött egy közvetlen-PVC szublimációs eljárás kifejlesztésével, amely képes a Verlaine 14 színű 'Geometrica' mintáját 1200 DPI felbontásban reprodukálni szín-átvérzés vagy nyújtási torzítás nélkül. 18 sikertelen minta után (a minta hullámosodása a peremgörbe mentén) az OLagoon mérnökei 7 panelből álló, die-cut sablont hoztak létre, amely a sík PVC lapokon történő előnyomást tette lehetővé a fúziós laminálás előtt. Minden deszka 11,5 óra gyártási időt igényelt (a standard deszkák 3 órájához képest). A végső felület kizárólag a Verlaine számára kifejlesztett matt csúszásmentes bevonatot kapott.",
             },
             {
               title: '2. lépés: Csomagolási, kicsomagolási és kiskereskedelmi bemutatási stratégia',
               detail:
-                "Rinaldi a 'zászlóshajó szintű' kicsomagolási élményen tartott igényt. Az Afarer együttműködött a Verlaine csomagolótervezőivel egy merev utazótok létrehozásában, amelyet a Verlaine jellegzetes elefántcsontszínű vászna borít, bőrsarok-védőkkel (a Verlaine saját toszkán bőráru műhelyében készítve). A tok tartalmazta a SUP-ot, egy szénszálas 3 részes evezőt Verlaine monogrammal, egy egyedi pumpát nyomásmérővel, amelyre a Geometrica motívumot gravírozták, valamint egy számozott hitelességi bizonyítványt fóliabélyegzős borítékban. Az egységenkénti teljes csomagolási költség 340 EUR volt. A teljes szett 26 kg-ot nyomott — elég könnyű az első osztályú légitársasági feladott poggyászhoz.",
+                "Rinaldi a 'zászlóshajó szintű' kicsomagolási élményen tartott igényt. Az OLagoon együttműködött a Verlaine csomagolótervezőivel egy merev utazótok létrehozásában, amelyet a Verlaine jellegzetes elefántcsontszínű vászna borít, bőrsarok-védőkkel (a Verlaine saját toszkán bőráru műhelyében készítve). A tok tartalmazta a SUP-ot, egy szénszálas 3 részes evezőt Verlaine monogrammal, egy egyedi pumpát nyomásmérővel, amelyre a Geometrica motívumot gravírozták, valamint egy számozott hitelességi bizonyítványt fóliabélyegzős borítékban. Az egységenkénti teljes csomagolási költség 340 EUR volt. A teljes szett 26 kg-ot nyomott — elég könnyű az első osztályú légitársasági feladott poggyászhoz.",
             },
             {
               title: '3. lépés: VIP ügyfél előzetes és kizárólag időpontra történő értékesítési modell',
               detail:
-                'A kollekció 2025. május 8-án indult a Milánói Design Week alatt, privát, kizárólag időpontra szóló előbemutatóval a Verlaine Via Monte Napoleone zászlóshajó üzletében. Csak 200 ügyfél kapott dombornyomott meghívót. Minden 45 perces időpont élő SUP bemutatót tartalmazott az üzlet udvarára telepített, egyedi készítésű, 40 000 literes medencében, ahol az Afarer márkanagykövete demonstrálta a deszka merevségét (18 PSI-re felfújva Verlaine-márkázású pumpával). 127 egységet rendeltek előre a Design Week alatt, 1,62 millió EUR befizetésként. Rinaldi a közösségi média promóciót kizárólag a Verlaine privát ügyfél WhatsApp csatornáira korlátozta.',
+                'A kollekció 2025. május 8-án indult a Milánói Design Week alatt, privát, kizárólag időpontra szóló előbemutatóval a Verlaine Via Monte Napoleone zászlóshajó üzletében. Csak 200 ügyfél kapott dombornyomott meghívót. Minden 45 perces időpont élő SUP bemutatót tartalmazott az üzlet udvarára telepített, egyedi készítésű, 40 000 literes medencében, ahol az OLagoon márkanagykövete demonstrálta a deszka merevségét (18 PSI-re felfújva Verlaine-márkázású pumpával). 127 egységet rendeltek előre a Design Week alatt, 1,62 millió EUR befizetésként. Rinaldi a közösségi média promóciót kizárólag a Verlaine privát ügyfél WhatsApp csatornáira korlátozta.',
             },
             {
               title: '4. lépés: Globális teljesítés, concierge szállítás és eladási teljesítmény',
               detail:
-                'A rendelések 2025 júniusától kerültek kiszállításra, fehérkesztyűs szolgáltatással 34 országba. Minden szállítás tartalmazott egy 90 perces virtuális foglalkozást egy Afarer oktatóval, akit személyesen mutattak be az ügyfélnek WhatsApp videón keresztül. 2025 novemberére az 500 egységből 468 kelt el (93,6%-os értékesítési arány), 5,85 millió EUR bevételt generálva teljes kiskereskedelmi áron, nulla engedménnyel. A maradék 32 egységet a Verlaine Archívum kollekciója számára tartották vissza. Rinaldi beszámolt arról, hogy a vásárlók 41%-a új volt a Verlaine számára — a SUP kollekción keresztül megszerezve —, átlagosan 3200 EUR további költéssel konfekcióra a vásárlási időpont alatt.',
+                'A rendelések 2025 júniusától kerültek kiszállításra, fehérkesztyűs szolgáltatással 34 országba. Minden szállítás tartalmazott egy 90 perces virtuális foglalkozást egy OLagoon oktatóval, akit személyesen mutattak be az ügyfélnek WhatsApp videón keresztül. 2025 novemberére az 500 egységből 468 kelt el (93,6%-os értékesítési arány), 5,85 millió EUR bevételt generálva teljes kiskereskedelmi áron, nulla engedménnyel. A maradék 32 egységet a Verlaine Archívum kollekciója számára tartották vissza. Rinaldi beszámolt arról, hogy a vásárlók 41%-a új volt a Verlaine számára — a SUP kollekción keresztül megszerezve —, átlagosan 3200 EUR további költéssel konfekcióra a vásárlási időpont alatt.',
             },
           ],
           results: [
@@ -5708,8 +5708,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a luxusügyfelek az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a luxusügyfelek az OLagoont',
       items: [
         {
           title: 'Formatervezési érzék',
@@ -5737,39 +5737,39 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Milyen testreszabási lehetőségek érhetők el luxus SUP kollekciókhoz?',
         answer:
-          'Az Afarer teljes testreszabást kínál, beleértve az egyedi színfejlesztést, márkaspecifikus árnyalatokat, elegáns mintákat, márkajeleket, aláírt grafikákat, prémium PVC konstrukciót, egyedi EVA fedélzeti textúrákat, változatos hardvert és személyre szabott csomagolást.',
+          'Az OLagoon teljes testreszabást kínál, beleértve az egyedi színfejlesztést, márkaspecifikus árnyalatokat, elegáns mintákat, márkajeleket, aláírt grafikákat, prémium PVC konstrukciót, egyedi EVA fedélzeti textúrákat, változatos hardvert és személyre szabott csomagolást.',
       },
       {
         question: 'Mi a minimális rendelési mennyiség a prémium egyedi SUP gyártáshoz?',
         answer:
-          'Az Afarer a kis szériás luxusgyártásra specializálódott, a tipikus projektek 10–50 szett között mozognak. Ez ideálissá teszi privát sziget tulajdonosoknak, jachtkluboknak, luxusüdülőknek és exkluzív életmódmárkáknak.',
+          'Az OLagoon a kis szériás luxusgyártásra specializálódott, a tipikus projektek 10–50 szett között mozognak. Ez ideálissá teszi privát sziget tulajdonosoknak, jachtkluboknak, luxusüdülőknek és exkluzív életmódmárkáknak.',
       },
       {
         question: 'Mennyi ideig tart az egyedi SUP kollekció tervezési és gyártási folyamata?',
         answer:
-          'Az ütemterv a komplexitástól és a testreszabási szinttől függ. Az Afarer szorosan együttműködik minden ügyféllel a koncepciófejlesztéstől a gyártásig, jellemzően a luxuskollekciókat a projekt követelményeinek és a szezonális igényeknek megfelelő időkereten belül fejezi be.',
+          'Az ütemterv a komplexitástól és a testreszabási szinttől függ. Az OLagoon szorosan együttműködik minden ügyféllel a koncepciófejlesztéstől a gyártásig, jellemzően a luxuskollekciókat a projekt követelményeinek és a szezonális igényeknek megfelelő időkereten belül fejezi be.',
       },
       {
         question:
           'A SUP deszkák tervezhetők úgy, hogy illeszkedjenek a meglévő ingatlan márkázásához és esztétikájához?',
         answer:
-          'Igen, az Afarer olyan kollekciók készítésére specializálódott, amelyek zökkenőmentesen integrálódnak az ingatlan esztétikájába. Illeszkedhetünk a meglévő márkaszínekhez, építészeti témákhoz és belsőépítészeti elemekhez a harmonikus luxuskörnyezet érdekében.',
+          'Igen, az OLagoon olyan kollekciók készítésére specializálódott, amelyek zökkenőmentesen integrálódnak az ingatlan esztétikájába. Illeszkedhetünk a meglévő márkaszínekhez, építészeti témákhoz és belsőépítészeti elemekhez a harmonikus luxuskörnyezet érdekében.',
       },
       {
         question: 'Milyen anyagokat használnak a luxus szintű SUP deszkákhoz?',
         answer:
-          'Az Afarer prémium PVC konstrukciót használ az elegáns megjelenéshez és tartóssághoz, magas szintű EVA fedélzeti anyagokat egyedi textúrákkal és színekkel, valamint változatos prémium fémelemeket a hardverhez — mindegyiket esztétikai minőségük és tengeri minőségi teljesítményük alapján válogatva.',
+          'Az OLagoon prémium PVC konstrukciót használ az elegáns megjelenéshez és tartóssághoz, magas szintű EVA fedélzeti anyagokat egyedi textúrákkal és színekkel, valamint változatos prémium fémelemeket a hardverhez — mindegyiket esztétikai minőségük és tengeri minőségi teljesítményük alapján válogatva.',
       },
       {
         question: 'Kínálnak egyedi csomagolást VIP SUP kollekciókhoz?',
         answer:
-          'Igen, az Afarer VIP egyedi csomagolást biztosít, beleértve márkázott bemutató dobozokat, luxus tárolótáskákat, személyre szabott címkéket és limitált kiadású bemutatást. A kicsomagolási élményt úgy tervezték, hogy megfeleljen a termék saját kizárólagosságának.',
+          'Igen, az OLagoon VIP egyedi csomagolást biztosít, beleértve márkázott bemutató dobozokat, luxus tárolótáskákat, személyre szabott címkéket és limitált kiadású bemutatást. A kicsomagolási élményt úgy tervezték, hogy megfeleljen a termék saját kizárólagosságának.',
       },
     ],
     cta: {
-      title: 'Hozza létre exkluzív vízi életmód kollekcióját az Afarerrel',
+      title: 'Hozza létre exkluzív vízi életmód kollekcióját az OLagoonrel',
       subtitle:
-        'Az Ön ingatlana egyedi. A felszerelésének is egyedinek kell lennie. Hagyja, hogy az Afarer segítsen védjegyszerű SUP kollekciót alkotnia.',
+        'Az Ön ingatlana egyedi. A felszerelésének is egyedinek kell lennie. Hagyja, hogy az OLagoon segítsen védjegyszerű SUP kollekciót alkotnia.',
       primaryAction: {
         text: 'Indítsa el projektjét',
       },
@@ -5783,7 +5783,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Úti cél vízisport felszerelés beszállító | {SITE}',
       description:
-        'Az Afarer úti cél vízisport megoldásokat nyújt turisztikai hivataloknak, közparkoknak és parti projekteknek. Kereskedelmi SUP flották, környezetbarát felszerelés, kormányzati projekttámogatás és nagy léptékű OEM ellátás.',
+        'Az OLagoon úti cél vízisport megoldásokat nyújt turisztikai hivataloknak, közparkoknak és parti projekteknek. Kereskedelmi SUP flották, környezetbarát felszerelés, kormányzati projekttámogatás és nagy léptékű OEM ellátás.',
     },
     hero: {
       tagline: 'Fenntartható vízi élmény megoldások turisztikai hivataloknak, közparkoknak és úti cél projektekhez',
@@ -5875,7 +5875,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Úti cél tervezés',
           detail:
-            'Az Afarer teljes vízi tevékenységrendszert tervezett, beleértve a flotta-mennyiség tervezését, a tevékenységi zónákat és a felszerelés-konfigurációt.',
+            'Az OLagoon teljes vízi tevékenységrendszert tervezett, beleértve a flotta-mennyiség tervezését, a tevékenységi zónákat és a felszerelés-konfigurációt.',
         },
         {
           title: 'Kereskedelmi felszerelés-ellátás',
@@ -5913,17 +5913,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Csendes flotta specifikáció és biológiailag lebomló anyagkövetelmények',
               detail:
-                '2024 szeptemberében Kovavic kiadott egy ajánlatkérést (RFP), amely a következőket követelte meg: (1) nulla egyszer használatos műanyag a deszka-konstrukcióban, (2) teljes újrahasznosíthatóság az élettartam végén, és (3) csendes üzemeltetési tanúsítás 25 dB alatt 5 m-ről. Az Afarer nyert az EcoTouring 12\'6" X-szel, amelyet bio-alapú drop-stitch fonalból (ricinusolaj-alapú polimer, 42%-ban megújuló tartalom) és természetes parafa fedélzeti padból (FSC-tanúsított portugál parafa) építettek. Minden deszka tartalmazott egy lezárt bambusz merevítőt a merevséghez kőolaj-alapú komponensek nélkül. Az LBTB 200 deszkát rendelt (összesen 246 ezer EUR) plusz 12 elektromos felfújó állomást a tóparti napelemes töltő kioszkokról működtetve.',
+                '2024 szeptemberében Kovavic kiadott egy ajánlatkérést (RFP), amely a következőket követelte meg: (1) nulla egyszer használatos műanyag a deszka-konstrukcióban, (2) teljes újrahasznosíthatóság az élettartam végén, és (3) csendes üzemeltetési tanúsítás 25 dB alatt 5 m-ről. Az OLagoon nyert az EcoTouring 12\'6" X-szel, amelyet bio-alapú drop-stitch fonalból (ricinusolaj-alapú polimer, 42%-ban megújuló tartalom) és természetes parafa fedélzeti padból (FSC-tanúsított portugál parafa) építettek. Minden deszka tartalmazott egy lezárt bambusz merevítőt a merevséghez kőolaj-alapú komponensek nélkül. Az LBTB 200 deszkát rendelt (összesen 246 ezer EUR) plusz 12 elektromos felfújó állomást a tóparti napelemes töltő kioszkokról működtetve.',
             },
             {
               title: '2. lépés: 6 km-es GPS-vezérelt ökoútvonal 12 interpretációs ponttal',
               detail:
-                'A 2024–2025-ös tél folyamán az LBTB egy 6,2 km-es kerületi útvonalat térképezett fel 12 interpretációs megállóval (Bledi vár geotermális forrás, Szent Mária-templom harangszó mechanizmusa, szigeti üledékezónák). Az Afarer integrált egy vízálló, GPS-képes audio útmutató egységet (robusztus IP68 tablet a fedélzeti tartóban), amely minden útponton 90 másodperces narrált szegmenteket szolgáltatott 7 nyelven. Az útvonalat úgy tervezték, hogy elkerülje az érzékeny madárfészkelő területeket (bóbitás vízirigó helyszínek, novembertől márciususig zárva). Az LBTB 12 bambusz-jelölő bóját telepített 18 ezer EUR költséggel, felváltva 32 meglévő motorcsónak-bóját.',
+                'A 2024–2025-ös tél folyamán az LBTB egy 6,2 km-es kerületi útvonalat térképezett fel 12 interpretációs megállóval (Bledi vár geotermális forrás, Szent Mária-templom harangszó mechanizmusa, szigeti üledékezónák). Az OLagoon integrált egy vízálló, GPS-képes audio útmutató egységet (robusztus IP68 tablet a fedélzeti tartóban), amely minden útponton 90 másodperces narrált szegmenteket szolgáltatott 7 nyelven. Az útvonalat úgy tervezték, hogy elkerülje az érzékeny madárfészkelő területeket (bóbitás vízirigó helyszínek, novembertől márciususig zárva). Az LBTB 12 bambusz-jelölő bóját telepített 18 ezer EUR költséggel, felváltva 32 meglévő motorcsónak-bóját.',
             },
             {
               title: '3. lépés: Bérlő üzemeltetői átalakítási program és tanúsítás',
               detail:
-                'A 2025 január–márciusi szezonon kívüli időszakban az LBTB kötelező átalakítási programot futtatott mind a 14 engedéllyel rendelkező csónakbérlő üzemeltetőnek. Az Afarer 4 napos SUP vezetési tanúsítást nyújtott 36 üzemeltetőnek és munkatársnak, amely az útvonal-ismeretet, a vészhelyzeti reagálást és a környezeti interpretáció átadását fedte le. Az LBTB üzemeltetőnként 4000 EUR támogatást kínált a motorcsónakról SUP bérlésre való áttéréshez, amelyet a Szlovén Turisztikai Minisztérium Zöld Átalakulás támogatása finanszírozott (összesen 280 ezer EUR). Április 1-jére a 14 üzemeltetőből 11 teljesen áttért; a maradék 3 hibrid üzemeltetésre kötelezte el magát 2026-os kivezetési ütemtervvel.',
+                'A 2025 január–márciusi szezonon kívüli időszakban az LBTB kötelező átalakítási programot futtatott mind a 14 engedéllyel rendelkező csónakbérlő üzemeltetőnek. Az OLagoon 4 napos SUP vezetési tanúsítást nyújtott 36 üzemeltetőnek és munkatársnak, amely az útvonal-ismeretet, a vészhelyzeti reagálást és a környezeti interpretáció átadását fedte le. Az LBTB üzemeltetőnként 4000 EUR támogatást kínált a motorcsónakról SUP bérlésre való áttéréshez, amelyet a Szlovén Turisztikai Minisztérium Zöld Átalakulás támogatása finanszírozott (összesen 280 ezer EUR). Április 1-jére a 14 üzemeltetőből 11 teljesen áttért; a maradék 3 hibrid üzemeltetésre kötelezte el magát 2026-os kivezetési ütemtervvel.',
             },
             {
               title: '4. lépés: Föld napja indítás, szezon-eredmények és UNESCO-megfelelőség',
@@ -5951,17 +5951,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Útvonal-térképezés, kockázatértékelés és tengeri zónázási megfelelőség',
               detail:
-                "2024 novemberétől 2025 februáráig Delacroix csapata az Afarer útvonal-szakértőivel és a Francia Biodiverzitási Hivatallal (OFB) együttműködve felmérte és osztályozta a 50 km-es partvonalat. 5 útvonalat azonosítottak: (1) Cap d'Antibestől a Baie des Milliardaires-ig (4,2 km, középhaladó), (2) Ile Sainte-Marguerite körbehajózás (7,1 km, haladó), (3) Calanque de Maubois (2,8 km, kezdő), (4) Villefranche-sur-Mer tengeri rezervátum (3,5 km, csak vezetve), és (5) Menton–Cap Martin naplemente evezés (5,5 km, középhaladó). Minden útvonalt GPS-szel térképeztek 12–15 útponttal, beleértve a kötelező pihenőmegállókat az előre jóváhagyott privát strandkluboknál, amelyek évi 2500 EUR partnerségi díjat fizettek.",
+                "2024 novemberétől 2025 februáráig Delacroix csapata az OLagoon útvonal-szakértőivel és a Francia Biodiverzitási Hivatallal (OFB) együttműködve felmérte és osztályozta a 50 km-es partvonalat. 5 útvonalat azonosítottak: (1) Cap d'Antibestől a Baie des Milliardaires-ig (4,2 km, középhaladó), (2) Ile Sainte-Marguerite körbehajózás (7,1 km, haladó), (3) Calanque de Maubois (2,8 km, kezdő), (4) Villefranche-sur-Mer tengeri rezervátum (3,5 km, csak vezetve), és (5) Menton–Cap Martin naplemente evezés (5,5 km, középhaladó). Minden útvonalt GPS-szel térképeztek 12–15 útponttal, beleértve a kötelező pihenőmegállókat az előre jóváhagyott privát strandkluboknál, amelyek évi 2500 EUR partnerségi díjat fizettek.",
             },
             {
               title: '2. lépés: Prémium flotta specifikációk és hotel concierge integráció',
               detail:
-                "Az FRTCB 350 Afarer Explorer 11'6\" X deszkát rendelt egyedi 'Mediterrán szellő' színpalettában (terracotta, olív, krém), integrált GoPro rögzítővel, vízálló telefonháztartó vájatval és pezsgősüveg-tartóval (egyedi D-gyűrűs háló zseb a fedélzeti pad előtt). Minden deszkához szénszálas 4 részes evező tartozott Peli-tokos utazási csomagban. Az Afarer szoftvercsapata white-label mobil webalkalmazást épített, amely lehetővé teszi a hotel concierge-eknek a deszkák foglalását, a valós idejű útvonal-viszonyok ellenőrzését 6 csatlakoztatott időjárási bóján keresztül és a vészriasztások aktiválását. A teljes rendelés 429 ezer EUR volt.",
+                "Az FRTCB 350 OLagoon Explorer 11'6\" X deszkát rendelt egyedi 'Mediterrán szellő' színpalettában (terracotta, olív, krém), integrált GoPro rögzítővel, vízálló telefonháztartó vájatval és pezsgősüveg-tartóval (egyedi D-gyűrűs háló zseb a fedélzeti pad előtt). Minden deszkához szénszálas 4 részes evező tartozott Peli-tokos utazási csomagban. Az OLagoon szoftvercsapata white-label mobil webalkalmazást épített, amely lehetővé teszi a hotel concierge-eknek a deszkák foglalását, a valós idejű útvonal-viszonyok ellenőrzését 6 csatlakoztatott időjárási bóján keresztül és a vészriasztások aktiválását. A teljes rendelés 429 ezer EUR volt.",
             },
             {
               title: '3. lépés: Vezetői tanúsítás, biztonsági protokoll és partner strandklub hálózat',
               detail:
-                '2025 márciusában az Afarer 5 regionális képzést tartott a Nizzai Jachtklubban, 62 vezetőt tanúsítva (23 hoteli tevékenység személyzet, 39 független vízisport üzemeltető). A tanúsítás FRTCB-specifikus tartalmat tartalmazott: mediterrán szélminta-felismerés (Mistral/Libeccio kontingenciák), medúza elsősegély és luxusvendég kommunikációs szabványok. Delacroix biztonsági protokollt állított fel, amely minden vendég számára kötelező mentőmellényt ír elő (RFD NRS Orion mellény síppal és késsel), deszkáról-deszkára kommunikációt vízálló VHF rádiókkal, és vendégenként max 12 fős csoportméretet 2 vezetőre.',
+                '2025 márciusában az OLagoon 5 regionális képzést tartott a Nizzai Jachtklubban, 62 vezetőt tanúsítva (23 hoteli tevékenység személyzet, 39 független vízisport üzemeltető). A tanúsítás FRTCB-specifikus tartalmat tartalmazott: mediterrán szélminta-felismerés (Mistral/Libeccio kontingenciák), medúza elsősegély és luxusvendég kommunikációs szabványok. Delacroix biztonsági protokollt állított fel, amely minden vendég számára kötelező mentőmellényt ír elő (RFD NRS Orion mellény síppal és késsel), deszkáról-deszkára kommunikációt vízálló VHF rádiókkal, és vendégenként max 12 fős csoportméretet 2 vezetőre.',
             },
             {
               title: '4. lépés: Cannes-i Filmfesztivál indítás és gyorsult szezonnövekedés',
@@ -5978,13 +5978,13 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a turisztikai projektek az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a turisztikai projektek az OLagoont',
       items: [
         {
           title: 'Biztonság',
           description:
-            'Mindenki számára tervezve. Az Afarer biztosítja, hogy a felszerelés megfeleljen a legmagasabb biztonsági szabványoknak a sokféle köz felhasználó számára.',
+            'Mindenki számára tervezve. Az OLagoon biztosítja, hogy a felszerelés megfeleljen a legmagasabb biztonsági szabványoknak a sokféle köz felhasználó számára.',
         },
         {
           title: 'Fenntarthatóság',
@@ -6007,7 +6007,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Milyen biztonsági tanúsítások relevánsak a köz SUP flotta felszereléshez?',
         answer:
-          'Az Afarer termékspecifikációkat, teljesítményinformációkat és megfelelőségi dokumentációt biztosít, amelyek alkalmasak a kormányzati beszerzéshez. Támogatjuk a köz projekteket anyaginformációkkal és minőségi tanúsításokkal, amelyek a tenderfolyamatokhoz szükségesek.',
+          'Az OLagoon termékspecifikációkat, teljesítményinformációkat és megfelelőségi dokumentációt biztosít, amelyek alkalmasak a kormányzati beszerzéshez. Támogatjuk a köz projekteket anyaginformációkkal és minőségi tanúsításokkal, amelyek a tenderfolyamatokhoz szükségesek.',
       },
       {
         question: 'Hány SUP deszka szükséges egy köz vízi rekreációs programhoz?',
@@ -6017,28 +6017,28 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Testreszabhatók a SUP deszkák városi vagy úti cél márkázással?',
         answer:
-          'Igen, az Afarer támogatja az úti cél márkázási testreszabást, beleértve városi logókat, turisztikai identitás-grafikákat, helyi designelemeket és témaspecifikus grafikákat. Ez segít védjegyszerű vízi élményt teremteni, amely erősíti az úti cél identitását.',
+          'Igen, az OLagoon támogatja az úti cél márkázási testreszabást, beleértve városi logókat, turisztikai identitás-grafikákat, helyi designelemeket és témaspecifikus grafikákat. Ez segít védjegyszerű vízi élményt teremteni, amely erősíti az úti cél identitását.',
       },
       {
-        question: 'Milyen környezetbarát jellemzőkkel rendelkeznek az Afarer SUP deszkák?',
+        question: 'Milyen környezetbarát jellemzőkkel rendelkeznek az OLagoon SUP deszkák?',
         answer:
-          'Az Afarer tartós anyagokra összpontosít, amelyek meghosszabbítják a termék élettartamát és csökkentik a cseregyakoriságot, ezáltal csökkentve az erőforrás-felhasználást és a hulladékot. Környezeti dokumentációt és megfelelőségi információkat is biztosítunk a fenntartható turisztikai kezdeményezések támogatásához.',
+          'Az OLagoon tartós anyagokra összpontosít, amelyek meghosszabbítják a termék élettartamát és csökkentik a cseregyakoriságot, ezáltal csökkentve az erőforrás-felhasználást és a hulladékot. Környezeti dokumentációt és megfelelőségi információkat is biztosítunk a fenntartható turisztikai kezdeményezések támogatásához.',
       },
       {
-        question: 'Hogyan támogatja az Afarer a kormányzati beszerzési és tenderfolyamatokat?',
+        question: 'Hogyan támogatja az OLagoon a kormányzati beszerzési és tenderfolyamatokat?',
         answer:
-          'Az Afarer átfogó támogatást nyújt, beleértve a műszaki specifikáció előkészítését, a termék teljesítménydokumentációját, a konfigurációs lehetőségeket, a projektjavaslat-segítséget, a flotta-ajánlásokat, a megvalósítási ütemterveket és a nagy rendelés koordinációját a gyártáshoz és szállításhoz.',
+          'Az OLagoon átfogó támogatást nyújt, beleértve a műszaki specifikáció előkészítését, a termék teljesítménydokumentációját, a konfigurációs lehetőségeket, a projektjavaslat-segítséget, a flotta-ajánlásokat, a megvalósítási ütemterveket és a nagy rendelés koordinációját a gyártáshoz és szállításhoz.',
       },
       {
         question: 'Milyen karbantartás szükséges a köz SUP flottákhoz önkormányzati környezetben?',
         answer:
-          'Az Afarer teljes üzemeltetési támogatást biztosít, beleértve karbantartási útmutatást, ellenőrzési folyamatokat, alkatrész-csere eljárásokat, alkatrész-elérhetőséget és flotta-menedzsment tervezést. Ez biztosítja a hosszú távú megbízhatóságot a köz rekreációs programokhoz.',
+          'Az OLagoon teljes üzemeltetési támogatást biztosít, beleértve karbantartási útmutatást, ellenőrzési folyamatokat, alkatrész-csere eljárásokat, alkatrész-elérhetőséget és flotta-menedzsment tervezést. Ez biztosítja a hosszú távú megbízhatóságot a köz rekreációs programokhoz.',
       },
     ],
     cta: {
-      title: 'Hozza létre úti cél vízi élményét az Afarerrel',
+      title: 'Hozza létre úti cél vízi élményét az OLagoonrel',
       subtitle:
-        'Az Ön vízi erőforrásai turisztikai potenciállal rendelkeznek. Az Afarer segít a tavakat, folyókat, parti területeket és közparkokat emlékezetes szabadtéri úti célokká alakítani.',
+        'Az Ön vízi erőforrásai turisztikai potenciállal rendelkeznek. Az OLagoon segít a tavakat, folyókat, parti területeket és közparkokat emlékezetes szabadtéri úti célokká alakítani.',
       primaryAction: {
         text: 'Indítsa el projektjét',
       },
@@ -6052,7 +6052,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Gyerek SUP gyártó | {SITE}',
       description:
-        'Az Afarer biztonságos gyerek SUP megoldásokat nyújt nyári táboroknak, iskoláknak és ifjúsági kalandprogramoknak. Gyerek paddleboardok, Giant SUP felszerelés, kereskedelmi flották és egyedi OEM megoldások.',
+        'Az OLagoon biztonságos gyerek SUP megoldásokat nyújt nyári táboroknak, iskoláknak és ifjúsági kalandprogramoknak. Gyerek paddleboardok, Giant SUP felszerelés, kereskedelmi flották és egyedi OEM megoldások.',
     },
     hero: {
       tagline:
@@ -6145,7 +6145,7 @@ const hu: Record<string, SolutionOverride> = {
         {
           title: 'Ifjúsági termék kiválasztás',
           detail:
-            'Az Afarer gyerek SUP modelleket, stabil kezdő deszkákat és oktatói felszerelést ajánlott a tábor korcsoportjaihoz igazítva.',
+            'Az OLagoon gyerek SUP modelleket, stabil kezdő deszkákat és oktatói felszerelést ajánlott a tábor korcsoportjaihoz igazítva.',
         },
         {
           title: 'Biztonsági testreszabás',
@@ -6183,17 +6183,17 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Gyerekspecifikus SUP tervezés (Junior Explorer 9\'6" X)',
               detail:
-                '2024 júliusában Connolly az Afarer termékcsapatával partnerként célra épített gyerek SUP-ot fejlesztett. 3 prototípus-iteráció után véglegesítették a Junior Explorer 9\'6" X-et (28" szélesség, 4" vastagság, 180 L térfogat) — 25%-kal keskenyebb és 40%-kal könnyebb, mint a standard deszkák. Fő jellemzők: süllyesztett fedélzeti pad (1,5" süllyedés), amely 22%-kal csökkenti a súlypontot; testsúly-tartományjelző (színkódolt csíkok 18–55 kg-hoz); és két biztonsági fogantyú oldaltanként. Connolly 120 deszkát rendelt iskolai márkázású fedélzeti grafikával (6 iskolai színvariáns, egyenként 20 db). A prototípus-készítés és tesztelés 14 ezer AUD-be került; a gyártási rendelés 96 ezer AUD volt.',
+                '2024 júliusában Connolly az OLagoon termékcsapatával partnerként célra épített gyerek SUP-ot fejlesztett. 3 prototípus-iteráció után véglegesítették a Junior Explorer 9\'6" X-et (28" szélesség, 4" vastagság, 180 L térfogat) — 25%-kal keskenyebb és 40%-kal könnyebb, mint a standard deszkák. Fő jellemzők: süllyesztett fedélzeti pad (1,5" süllyedés), amely 22%-kal csökkenti a súlypontot; testsúly-tartományjelző (színkódolt csíkok 18–55 kg-hoz); és két biztonsági fogantyú oldaltanként. Connolly 120 deszkát rendelt iskolai márkázású fedélzeti grafikával (6 iskolai színvariáns, egyenként 20 db). A prototípus-készítés és tesztelés 14 ezer AUD-be került; a gyártási rendelés 96 ezer AUD volt.',
             },
             {
               title: '2. lépés: Tananyagfejlesztés ACARA-igazítással',
               detail:
-                "Connolly az Afarer oktatási tanácsadóival és Queensland tananyaghatóságával együtt írta meg a 'Paddle & Discover' (Evezz és fedezz fel) programot, egy 14 foglalkozásos SUP felfedező programot, amely az ausztrál tananyag 9.0-s verziójához igazodik (természettudomány, HPE, földrajz). A foglalkozások tartalmaztak vízirovar-mintavételt (fedélzetre szerelt gyűjtőtálcával), oldott oxigén-mérést (hordozható mérő, D-gyűrűkre csatlakoztatva), felhajtóerő- és kiszorítási kísérleteket és Everglades ökoszisztéma-térképezést. A program 3 nehézségi szintet tartalmazott: Angolnák (előkészítő–1. évfolyam, medence/nyugodt víz), Teknősök (2–3. évfolyam, védett öböl) és Süllők (4–6. évfolyam, nyílt Everglades). Az Afarer időjárásálló kártyákat nyomtatott minden szinthez.",
+                "Connolly az OLagoon oktatási tanácsadóival és Queensland tananyaghatóságával együtt írta meg a 'Paddle & Discover' (Evezz és fedezz fel) programot, egy 14 foglalkozásos SUP felfedező programot, amely az ausztrál tananyag 9.0-s verziójához igazodik (természettudomány, HPE, földrajz). A foglalkozások tartalmaztak vízirovar-mintavételt (fedélzetre szerelt gyűjtőtálcával), oldott oxigén-mérést (hordozható mérő, D-gyűrűkre csatlakoztatva), felhajtóerő- és kiszorítási kísérleteket és Everglades ökoszisztéma-térképezést. A program 3 nehézségi szintet tartalmazott: Angolnák (előkészítő–1. évfolyam, medence/nyugodt víz), Teknősök (2–3. évfolyam, védett öböl) és Süllők (4–6. évfolyam, nyílt Everglades). Az OLagoon időjárásálló kártyákat nyomtatott minden szinthez.",
             },
             {
               title: '3. lépés: Tanári tanúsítás, kockázatértékelés és napsugár-biztonság integráció',
               detail:
-                "2024 szeptemberében 3 hétvége alatt az Afarer képzési csapata 14 iskolai tanárt tanúsított (előzetes SUP tapasztalat nélkül) egy módosított IRF 1. szintű tanfolyamon, amely a gyerekspecifikus biztonságot hangsúlyozta: csoportkezelés sípjelzésekkel (3 fújás = megállás, 5 = vészhelyzet), a 'koala leszállás' (a gyerek ülő helyzetből a deszkára esik), és a 30 kg alatti gyerekek felborulás utáni mentése. Queensland Oktatási Minisztériuma jóváhagyta a SUP programot az állam szabadtéri tevékenység kockázatértékelési keretrendszere alatt, amely nyugodt vízben 1:6 oktató-diák arányt írt elő (0,3 m alatti hullám, 12 csomó alatti szél). A napsugár-biztonság (rash pólók, SPF 50+, nyakvédők) 0. foglalkozási követelményként integrálódott.",
+                "2024 szeptemberében 3 hétvége alatt az OLagoon képzési csapata 14 iskolai tanárt tanúsított (előzetes SUP tapasztalat nélkül) egy módosított IRF 1. szintű tanfolyamon, amely a gyerekspecifikus biztonságot hangsúlyozta: csoportkezelés sípjelzésekkel (3 fújás = megállás, 5 = vészhelyzet), a 'koala leszállás' (a gyerek ülő helyzetből a deszkára esik), és a 30 kg alatti gyerekek felborulás utáni mentése. Queensland Oktatási Minisztériuma jóváhagyta a SUP programot az állam szabadtéri tevékenység kockázatértékelési keretrendszere alatt, amely nyugodt vízben 1:6 oktató-diák arányt írt elő (0,3 m alatti hullám, 12 csomó alatti szél). A napsugár-biztonság (rash pólók, SPF 50+, nyakvédők) 0. foglalkozási követelményként integrálódott.",
             },
             {
               title: '4. lépés: 2025-ös 1. félévi bevezetés és mérhető diákeredmények',
@@ -6221,7 +6221,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Flotta-beszerzés és életkornak megfelelő deszka-méretezés',
               detail:
-                '2025 januárjában Whitfield az Afarer Junior Explorer 9\'6" X-et választotta a 8–11 éves tábortozóknak (40 deszka) és az Explorer 10\'8" X-et a 12–15 éveseknek (30 deszka), összesen 58 ezer USD-ért. Minden deszkát két orr-oldali D-gyűrűvel specifikált GoPro/gyűjtőtálca rögzítéshez és fedélzeti bungee-zsinórral vízálló természetnaplóhoz (Rite in the Rain, spirálkötéses). Minden deszkát lézergravírozással láttak el tábortozói azonosítószámmal és a Camp Keowee mosómedve logójával.',
+                '2025 januárjában Whitfield az OLagoon Junior Explorer 9\'6" X-et választotta a 8–11 éves tábortozóknak (40 deszka) és az Explorer 10\'8" X-et a 12–15 éveseknek (30 deszka), összesen 58 ezer USD-ért. Minden deszkát két orr-oldali D-gyűrűvel specifikált GoPro/gyűjtőtálca rögzítéshez és fedélzeti bungee-zsinórral vízálló természetnaplóhoz (Rite in the Rain, spirálkötéses). Minden deszkát lézergravírozással láttak el tábortozói azonosítószámmal és a Camp Keowee mosómedve logójával.',
             },
             {
               title: '2. lépés: 4 szintű SUP felfedező jelvény tananyag tervezés',
@@ -6231,7 +6231,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '3. lépés: Tanácsadói tanúsítás és Lake Jocassee biztonsági zóna térképezés',
               detail:
-                '2025 májusában (tábor előtti személyzeti képzés) az Afarer 22 parti tanácsadót (19–24 éves) tanúsított egy 3 napos, IRF-alapú SUP vezetői tanfolyamon, amely az ifjúsági csoportkezelésre összpontosított. Whitfield 6 biztonsági zónát térképezett fel színkódolt jelzőbójákkal: úszózóna (piros), kezdő evezőzóna (sárga, a mólótól 200 m-en belül), középhaladó zóna (zöld, a nyugati part mentén 1 km-ig), haladó zóna (kék, teljes tó rádiós bejelentkezéssel) és tiltott zónák (lila, a duzzasztó beömlése és a Bald Rock sziklák körül). Minden tanácsadó vízálló VHF rádiót hordott, a 15. csatorna a SUP műveleteknek fenntartva. A Duke Power tókezelő hatósága jóváhagyta a tervet egy közös biztonsági felülvizsgálat után május 12-én.',
+                '2025 májusában (tábor előtti személyzeti képzés) az OLagoon 22 parti tanácsadót (19–24 éves) tanúsított egy 3 napos, IRF-alapú SUP vezetői tanfolyamon, amely az ifjúsági csoportkezelésre összpontosított. Whitfield 6 biztonsági zónát térképezett fel színkódolt jelzőbójákkal: úszózóna (piros), kezdő evezőzóna (sárga, a mólótól 200 m-en belül), középhaladó zóna (zöld, a nyugati part mentén 1 km-ig), haladó zóna (kék, teljes tó rádiós bejelentkezéssel) és tiltott zónák (lila, a duzzasztó beömlése és a Bald Rock sziklák körül). Minden tanácsadó vízálló VHF rádiót hordott, a 15. csatorna a SUP műveleteknek fenntartva. A Duke Power tókezelő hatósága jóváhagyta a tervet egy közös biztonsági felülvizsgálat után május 12-én.',
             },
             {
               title: '4. lépés: 2025-ös nyári szezon eredményei és jelvényszerzési arányok',
@@ -6248,8 +6248,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják az ifjúsági programok az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják az ifjúsági programok az OLagoont',
       items: [
         {
           title: 'Gyerekbiztonság',
@@ -6277,7 +6277,7 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Mekkora SUP deszka mérete megfelelő a különböző korú gyerekeknek?',
         answer:
-          'Az Afarer kisebb, ifjúságspecifikus SUP méreteket kínál, amelyeket gyerekeknek és tinédzsereknek terveztek. Ezek a deszkák alacsonyabb térfogatot, keskenyebb szélességet és könnyebb súlyt képviselnek a felnőtt modellekhez képest, ami megkönnyíti a fiatal felhasználók számára a kezelést, kontrollt és tanulást.',
+          'Az OLagoon kisebb, ifjúságspecifikus SUP méreteket kínál, amelyeket gyerekeknek és tinédzsereknek terveztek. Ezek a deszkák alacsonyabb térfogatot, keskenyebb szélességet és könnyebb súlyt képviselnek a felnőtt modellekhez képest, ami megkönnyíti a fiatal felhasználók számára a kezelést, kontrollt és tanulást.',
       },
       {
         question: 'Hogyan működik a Giant SUP a csapatépítő tevékenységekhez?',
@@ -6287,26 +6287,26 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Milyen biztonsági jellemzőkkel rendelkeznek a gyerek SUP deszkák?',
         answer:
-          'Az Afarer ifjúsági deszkák többfogantyús biztonsági tervezéssel (oldalsó, elülső és hordozó fogantyúk), teljes EVA csúszásmentes fedélzettel a biztonságos álláshoz, kerekített biztonsági formákkal éles élek nélkül, nagy felhajtóerő-szerkezettel a stabil úszáshoz és egyszerű felállási tervezéssel esés után rendelkeznek.',
+          'Az OLagoon ifjúsági deszkák többfogantyús biztonsági tervezéssel (oldalsó, elülső és hordozó fogantyúk), teljes EVA csúszásmentes fedélzettel a biztonságos álláshoz, kerekített biztonsági formákkal éles élek nélkül, nagy felhajtóerő-szerkezettel a stabil úszáshoz és egyszerű felállási tervezéssel esés után rendelkeznek.',
       },
       {
         question: 'Testreszabhatók a SUP deszkák a táborunk logójával és színeivel?',
         answer:
-          'Igen, az Afarer teljes testreszabást támogat, beleértve táborlogókat, programszíneket, márkázási elemeket és témás grafikákat. Az egyedi márkázás segít egyedi tábor-identitást teremteni és könnyen felismerhetővé teszi a felszerelést.',
+          'Igen, az OLagoon teljes testreszabást támogat, beleértve táborlogókat, programszíneket, márkázási elemeket és témás grafikákat. Az egyedi márkázás segít egyedi tábor-identitást teremteni és könnyen felismerhetővé teszi a felszerelést.',
       },
       {
         question: 'Hány deszka szükséges egy ifjúsági SUP program indításához?',
         answer:
-          'Az Afarer kezdő csomagot ajánl, amely gyerekdeszkákat, oktatói deszkákat, evezőket, pumpákat, köteleket és hordozótáskákat tartalmaz. A flottaméret a csoportkapacitástól függ — egy tipikus tábor 10–20 gyerekdeszkával kezdhet plusz oktatói felszereléssel, szezonális bővítési lehetőségekkel.',
+          'Az OLagoon kezdő csomagot ajánl, amely gyerekdeszkákat, oktatói deszkákat, evezőket, pumpákat, köteleket és hordozótáskákat tartalmaz. A flottaméret a csoportkapacitástól függ — egy tipikus tábor 10–20 gyerekdeszkával kezdhet plusz oktatói felszereléssel, szezonális bővítési lehetőségekkel.',
       },
       {
         question: 'Milyen oktatói felszerelés ajánlott tábori SUP programokhoz?',
         answer:
-          'Az Afarer oktatóspecifikus deszkákat ajánl fokozott stabilitási és kontrolljellemzőkkel, plusz biztonsági kiegészítőket, beleértve köteleket, pumpákat, javítószetteket és kommunikációs felszerelést. A tábor flotta csomag tartalmazhat dedikált oktatói deszkákat és tartalék komponenseket.',
+          'Az OLagoon oktatóspecifikus deszkákat ajánl fokozott stabilitási és kontrolljellemzőkkel, plusz biztonsági kiegészítőket, beleértve köteleket, pumpákat, javítószetteket és kommunikációs felszerelést. A tábor flotta csomag tartalmazhat dedikált oktatói deszkákat és tartalék komponenseket.',
       },
     ],
     cta: {
-      title: 'Építse fel gyerek vízi kalandprogramját az Afarerrel',
+      title: 'Építse fel gyerek vízi kalandprogramját az OLagoonrel',
       subtitle:
         'Segítsen a gyerekeknek önbizalmat, csapatmunkát, természetet és kalandot felfedezni professzionálisan tervezett SUP felfedező programokon keresztül.',
       primaryAction: {
@@ -6322,7 +6322,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Vízi mentő SUP gyártó | {SITE}',
       description:
-        'Az Afarer professzionális vízi mentő SUP rendszereket nyújt strandőröknek, mentőcsapatoknak és biztonsági szervezeteknek. Nagy teherbírású mentődeszkák, többfogantyús tervezés, vontatórendszerek és egyedi OEM megoldások.',
+        'Az OLagoon professzionális vízi mentő SUP rendszereket nyújt strandőröknek, mentőcsapatoknak és biztonsági szervezeteknek. Nagy teherbírású mentődeszkák, többfogantyús tervezés, vontatórendszerek és egyedi OEM megoldások.',
     },
     hero: {
       tagline: 'Fejlett mentő paddleboard megoldások strandőröknek, mentőcsapatoknak és vízbiztonsági szervezeteknek',
@@ -6453,7 +6453,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Mentésspecifikus SUP tervezés és orvosi integráció',
               detail:
-                '2025 januárjától áprilisáig Tran az Afarer tengeripari ipari osztályával együtt tervezte a RescuePro 12\'6" XR-et. A deszka 34" szélességgel rendelkezik az alacsony sebességű stabilitáshoz, 6" vastag katonai minőségű PVC-vel (1200 denier, 25 PSI-ra tesztelve) és rocker nélküli lapos fedélzettel az egységes felszerelés-rögzítéshez. Az Afarer 12 rozsdamentes D-gyűrűt integrált elöl/hátul konfigurációban a bungee-rögzítésű orvosi kapszulákhoz (elsősegély, AED, oxigén). A deszka neon-sárga láthatósági csíkot tartalmaz SOLAS-minőségű fényvisszaverő szalaggal és orr-oldali vontatóklepet, amelyet 400 kg-os kötelhúzásra teszteltek. 14 napos hullámtank-tesztelés után a Queenslandi Egyetemen a végleges tervezést jóváhagyták 7,5 csomós csúcssebességgel terhelt állapotban (110 kg evezős + 30 kg felszerelés).',
+                '2025 januárjától áprilisáig Tran az OLagoon tengeripari ipari osztályával együtt tervezte a RescuePro 12\'6" XR-et. A deszka 34" szélességgel rendelkezik az alacsony sebességű stabilitáshoz, 6" vastag katonai minőségű PVC-vel (1200 denier, 25 PSI-ra tesztelve) és rocker nélküli lapos fedélzettel az egységes felszerelés-rögzítéshez. Az OLagoon 12 rozsdamentes D-gyűrűt integrált elöl/hátul konfigurációban a bungee-rögzítésű orvosi kapszulákhoz (elsősegély, AED, oxigén). A deszka neon-sárga láthatósági csíkot tartalmaz SOLAS-minőségű fényvisszaverő szalaggal és orr-oldali vontatóklepet, amelyet 400 kg-os kötelhúzásra teszteltek. 14 napos hullámtank-tesztelés után a Queenslandi Egyetemen a végleges tervezést jóváhagyták 7,5 csomós csúcssebességgel terhelt állapotban (110 kg evezős + 30 kg felszerelés).',
             },
             {
               title: '2. lépés: Klub-allokáció, tárolóállványok és gyorstelepítési rendszer',
@@ -6463,12 +6463,12 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '3. lépés: Strandőri SUP mentési tanúsítás és szörfkompetencia-tesztelés',
               detail:
-                '2025 augusztusában (nyár előtti képzési időszak) az Afarer mentéskiképzési osztálya 40 órás SUP Mentési Operátor tanúsítást adott 82 senior strandőrnek 5 regionális központban. A tanfolyam a következőket fedte le: evező-alapú vontatás eszméletlen sérülteknek (100 m vontatás 3 perc alatt), szörfzóna belépés/kilépés technikák felszereléssel, AED telepítés instabil platformon és deszka-alapú gerincrögzítés (ortopéd gallérok felhelyezése a deszka stabilitásának fenntartása mellett). Minden jelölt gyakorlati vizsgát tett, amely a következőket követelte meg: 200 m evezés a sérülthöz, szimulált eszméletlen mentés felszerelés-visszanyeréssel és visszatérés a partra — mindezt 7 percen belül. Átmeneti arány: 89% (82-ből 73). A sikertelen jelöltek másodlagos szerepekbe kerültek.',
+                '2025 augusztusában (nyár előtti képzési időszak) az OLagoon mentéskiképzési osztálya 40 órás SUP Mentési Operátor tanúsítást adott 82 senior strandőrnek 5 regionális központban. A tanfolyam a következőket fedte le: evező-alapú vontatás eszméletlen sérülteknek (100 m vontatás 3 perc alatt), szörfzóna belépés/kilépés technikák felszereléssel, AED telepítés instabil platformon és deszka-alapú gerincrögzítés (ortopéd gallérok felhelyezése a deszka stabilitásának fenntartása mellett). Minden jelölt gyakorlati vizsgát tett, amely a következőket követelte meg: 200 m evezés a sérülthöz, szimulált eszméletlen mentés felszerelés-visszanyeréssel és visszatérés a partra — mindezt 7 percen belül. Átmeneti arány: 89% (82-ből 73). A sikertelen jelöltek másodlagos szerepekbe kerültek.',
             },
             {
               title: '4. lépés: Nyári szezon telepítés és mentési teljesítményadatok',
               detail:
-                'A SUP mentőflotta 2025. október 1-jén aktiválódott mind a 11 klubban az ausztrál nyárra. 2026. március 31-ig (6 hónapos szezon) az SLSQ 347 SUP-asszisztált mentést regisztrált 512 IRB mentéssel szemben, ami a vízi mentések 40,4%-át jelenti. Az átlagos SUP telepítési idő 47 másodperc volt (az IRB 4 perc 20 másodpercével szemben). A leggyorsabb mentés 22 másodperc volt: egy 9 éves gyerek, akit a Surfers Paradise-nál a parttól 80 m-re egy partszakadó áramlás ragadott magával. A SUP mentési sikerarány 99,1% volt (344 sikeres, 3 sérült igényelt további IRB támogatást). Tran nulla propeller-sérülést, nulla deszka-meghibásodást és 2 deszkajavítást jelentett (leváló uszonydobotok, mindkettőt 48 órán belül megjavította az Afarer gyorsjavító szolgálata). Az SLSQ további 18 RescuePro deszkát rendelt a 2026–27-es szezonra Észak-Queensland klubokba.',
+                'A SUP mentőflotta 2025. október 1-jén aktiválódott mind a 11 klubban az ausztrál nyárra. 2026. március 31-ig (6 hónapos szezon) az SLSQ 347 SUP-asszisztált mentést regisztrált 512 IRB mentéssel szemben, ami a vízi mentések 40,4%-át jelenti. Az átlagos SUP telepítési idő 47 másodperc volt (az IRB 4 perc 20 másodpercével szemben). A leggyorsabb mentés 22 másodperc volt: egy 9 éves gyerek, akit a Surfers Paradise-nál a parttól 80 m-re egy partszakadó áramlás ragadott magával. A SUP mentési sikerarány 99,1% volt (344 sikeres, 3 sérült igényelt további IRB támogatást). Tran nulla propeller-sérülést, nulla deszka-meghibásodást és 2 deszkajavítást jelentett (leváló uszonydobotok, mindkettőt 48 órán belül megjavította az OLagoon gyorsjavító szolgálata). Az SLSQ további 18 RescuePro deszkát rendelt a 2026–27-es szezonra Észak-Queensland klubokba.',
             },
           ],
           results: [
@@ -6491,7 +6491,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Shorebreak-specifikus SUP tervezés és trauma-felszerelés integráció',
               detail:
-                '2025 márciusától júniusáig Rodriguez az Afarer mentőosztályával dolgozott a RescuePro 12\'6" XR nyugati parti shorebreak viszonyokhoz történő adaptálásán. A módosítások a következők voltak: rockerrel rendelkező orr (2,5" emelkedés) az üreges 1–3 lábos hullámokon való áthatoláshoz; quad-uszony doboz konfiguráció a szűk szörfben való manőverezéshez; és orr-oldali vontató-bron gyűrű mentőúszó rögzítéshez. Az orvosi kapszulát North American Rescue M9 trauma készlettel (érzéstelenítő mandzsetta, mellkaszellőztető, hemostatikus géz), Phillips HeartStart FRx AED-del és Ferno KED gerincrögzítő eszközzel szerelték fel. Az NBFD tengeri osztálya 4 prototípust tesztelt 12 képzési foglalkozásban a Wedge-nél a végleges tervezés jóváhagyása előtt.',
+                '2025 márciusától júniusáig Rodriguez az OLagoon mentőosztályával dolgozott a RescuePro 12\'6" XR nyugati parti shorebreak viszonyokhoz történő adaptálásán. A módosítások a következők voltak: rockerrel rendelkező orr (2,5" emelkedés) az üreges 1–3 lábos hullámokon való áthatoláshoz; quad-uszony doboz konfiguráció a szűk szörfben való manőverezéshez; és orr-oldali vontató-bron gyűrű mentőúszó rögzítéshez. Az orvosi kapszulát North American Rescue M9 trauma készlettel (érzéstelenítő mandzsetta, mellkaszellőztető, hemostatikus géz), Phillips HeartStart FRx AED-del és Ferno KED gerincrögzítő eszközzel szerelték fel. Az NBFD tengeri osztálya 4 prototípust tesztelt 12 képzési foglalkozásban a Wedge-nél a végleges tervezés jóváhagyása előtt.',
             },
             {
               title: '2. lépés: Állomás-telepítés, tárolás és gyorsreagálási protokollok',
@@ -6501,7 +6501,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '3. lépés: NBFD-specifikus SUP mentési tanúsítás és éles gyakorlatok',
               detail:
-                '2025 júliusában 5 nap alatt az Afarer fő mentőképzője on-beach tanúsítást végzett 18 NBFD tengeri biztonsági tisztnek. A tanfolyam a nyugati parti viszonyokra módosult: shorebreak-en való kacsalás SUP-on, strand-start mentő kihúzás (sérült deszkára húzása törő hullámokban) és helikopterrel összehangolt helyzetkoordináció az NBFD Bell 412 helikopterével. Rodriguez minden 18 tiszttől megkövetelte egy végső szituáció teljesítését: szimulált sérült (80 kg-os bábu) megtalálása a Wedge-től 150 m-re 2–3 lábos szörfben, vízben történő gerincrögzítés és visszatérés a strandra — mindezt 8 percen belül. Átmeneti arány: 100% 6 perc 12 másodperces medián teljesítési idővel.',
+                '2025 júliusában 5 nap alatt az OLagoon fő mentőképzője on-beach tanúsítást végzett 18 NBFD tengeri biztonsági tisztnek. A tanfolyam a nyugati parti viszonyokra módosult: shorebreak-en való kacsalás SUP-on, strand-start mentő kihúzás (sérült deszkára húzása törő hullámokban) és helikopterrel összehangolt helyzetkoordináció az NBFD Bell 412 helikopterével. Rodriguez minden 18 tiszttől megkövetelte egy végső szituáció teljesítését: szimulált sérült (80 kg-os bábu) megtalálása a Wedge-től 150 m-re 2–3 lábos szörfben, vízben történő gerincrögzítés és visszatérés a strandra — mindezt 8 percen belül. Átmeneti arány: 100% 6 perc 12 másodperces medián teljesítési idővel.',
             },
             {
               title: '4. lépés: 2025-ös Labor Day aktiválás és vészhelyzeti reagálási statisztikák',
@@ -6518,8 +6518,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a mentőszervezetek az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a mentőszervezetek az OLagoont',
       items: [
         {
           title: 'Biztonság először',
@@ -6545,24 +6545,24 @@ const hu: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Mekkora teherbírásúak az Afarer mentő SUP deszkák?',
+        question: 'Mekkora teherbírásúak az OLagoon mentő SUP deszkák?',
         answer:
-          'Az Afarer mentő SUP deszkák ultra-nagy teherbírással rendelkeznek, amelyet arra terveztek, hogy egyszerre szállítsanak mentőt, sérültet, mentőfelszerelést és orvosi ellátmányt. Az extra széles mentőplatform fokozott stabilitást és nagyobb munkaterületet biztosít a biztonságos sérültsegítéshez.',
+          'Az OLagoon mentő SUP deszkák ultra-nagy teherbírással rendelkeznek, amelyet arra terveztek, hogy egyszerre szállítsanak mentőt, sérültet, mentőfelszerelést és orvosi ellátmányt. Az extra széles mentőplatform fokozott stabilitást és nagyobb munkaterületet biztosít a biztonságos sérültsegítéshez.',
       },
       {
-        question: 'Mi teszi különbözővé az Afarer mentő SUP deszkákat a szabadidő paddleboardoktól?',
+        question: 'Mi teszi különbözővé az OLagoon mentő SUP deszkákat a szabadidő paddleboardoktól?',
         answer:
-          'Az Afarer mentődeszkákat kifejezetten vészhelyzeti műveletekre tervezték nagy teherbírású platformokkal, több mentőfogantyúval, megerősített D-gyűrűs vontatórendszerekkel, nagy láthatóságú színekkel, fényvisszaverő elemekkel, kopásálló anyagokkal és nagy terhelésű varratkonstrukcióval — olyan jellemzőkkel, amelyek a szabadidő termékeken nem találhatók meg.',
+          'Az OLagoon mentődeszkákat kifejezetten vészhelyzeti műveletekre tervezték nagy teherbírású platformokkal, több mentőfogantyúval, megerősített D-gyűrűs vontatórendszerekkel, nagy láthatóságú színekkel, fényvisszaverő elemekkel, kopásálló anyagokkal és nagy terhelésű varratkonstrukcióval — olyan jellemzőkkel, amelyek a szabadidő termékeken nem találhatók meg.',
       },
       {
         question: 'Milyen színopciók érhetők el a mentő SUP deszkákhoz?',
         answer:
-          'Az Afarer professzionális mentőszíneket kínál, beleértve mentősárgát, biztonsági narancsot és vörös vészhelyzeti színt. Minden opció kombinálható fényvisszaverő biztonsági elemekkel gyenge fényviszonyok és éjszakai láthatóság érdekében, plusz csapatlogókkal és szervezeti jelölésekkel.',
+          'Az OLagoon professzionális mentőszíneket kínál, beleértve mentősárgát, biztonsági narancsot és vörös vészhelyzeti színt. Minden opció kombinálható fényvisszaverő biztonsági elemekkel gyenge fényviszonyok és éjszakai láthatóság érdekében, plusz csapatlogókkal és szervezeti jelölésekkel.',
       },
       {
         question: 'Testreszabhatók a mentő SUP deszkák a csapatunk logójával és jelöléseivel?',
         answer:
-          'Igen, az Afarer teljes mentőszervezeti márkázást támogat, beleértve csapatlogókat, szervezeti identitást, biztonsági jelöléseket és egyedi színsémákat. Ez segít a professzionális megjelenésben és a felszerelés azonosításában több szervezetet érintő műveletek során.',
+          'Igen, az OLagoon teljes mentőszervezeti márkázást támogat, beleértve csapatlogókat, szervezeti identitást, biztonsági jelöléseket és egyedi színsémákat. Ez segít a professzionális megjelenésben és a felszerelés azonosításában több szervezetet érintő műveletek során.',
       },
       {
         question: 'Milyen kiegészítők tartoznak a professzionális mentő SUP csomaghoz?',
@@ -6572,13 +6572,13 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Hogyan karbantartják és tárolják a mentő SUP deszkákat?',
         answer:
-          'Az Afarer mentődeszkákat egyszerű karbantartásra tervezték tartós anyagokkal, amelyek ellenállnak a gyakori bevetésnek és a szabadtéri tárolásnak. Felfújható volta miatt kompaktan csomagolhatók szállításhoz és tároláshoz. Karbantartási útmutatást, ellenőrzési eljárásokat és tartalék komponenseket biztosítunk a hosszú távú megbízhatósághoz.',
+          'Az OLagoon mentődeszkákat egyszerű karbantartásra tervezték tartós anyagokkal, amelyek ellenállnak a gyakori bevetésnek és a szabadtéri tárolásnak. Felfújható volta miatt kompaktan csomagolhatók szállításhoz és tároláshoz. Karbantartási útmutatást, ellenőrzési eljárásokat és tartalék komponenseket biztosítunk a hosszú távú megbízhatósághoz.',
       },
     ],
     cta: {
-      title: 'Építse fel professzionális vízi mentő rendszerét az Afarerrel',
+      title: 'Építse fel professzionális vízi mentő rendszerét az OLagoonrel',
       subtitle:
-        'Minden mentési küldetés önbizalmat igényel. Az Afarer segít a strandőri csapatoknak, mentőszervezeteknek, képzőintézményeknek és vészhelyzeti ügynökségeknek megbízható vízbiztonsági felszerelési rendszereket építeni.',
+        'Minden mentési küldetés önbizalmat igényel. Az OLagoon segít a strandőri csapatoknak, mentőszervezeteknek, képzőintézményeknek és vészhelyzeti ügynökségeknek megbízható vízbiztonsági felszerelési rendszereket építeni.',
       primaryAction: {
         text: 'Indítsa el projektjét',
       },
@@ -6592,7 +6592,7 @@ const hu: Record<string, SolutionOverride> = {
     meta: {
       title: 'Ökokutatási SUP platform gyártó | {SITE}',
       description:
-        'Az Afarer környezetbarát SUP kutatóplatformokat nyújt tengeri természetvédelmi szervezeteknek, egyetemeknek és környezetfigyelő szervezeteknek. Stabil úszóplatformok, felszerelés-rögzítő rendszerek és egyedi OEM megoldások.',
+        'Az OLagoon környezetbarát SUP kutatóplatformokat nyújt tengeri természetvédelmi szervezeteknek, egyetemeknek és környezetfigyelő szervezeteknek. Stabil úszóplatformok, felszerelés-rögzítő rendszerek és egyedi OEM megoldások.',
     },
     hero: {
       tagline:
@@ -6724,7 +6724,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: Alacsony zajú SUP konfiguráció és érzékelőplatform-integráció',
               detail:
-                '2024 szeptemberében Huaman az Afarer környezetkutatási osztályával partnerként adaptálta az EcoTouring 12\'6" X-et tudományos teher telepítéséhez. A módosítások a következők voltak: megerősített fedélzeti rögzítőlemez (rozsdamentes acél, 4 csavaros minta) Garmin echoMAP Plus 74cv halradár/szonda átalakítóhoz; integrált RAM-rögzítő rendszer GoPro HERO12 Blackhez víz alatti házban; vízmentes felszerelés-akna (7 L térfogat, csavaros tömítés) a deszka magjában adatrögzítőknek és GPS-követőknek; és alacsony profilú tallérvédő, amely lehetővé teszi a partra futást iszapos folyópartokon. Három prototípus deszkát teszteltek az Ucayalin 2024 októberében, a víz alatti zajkibocsátást 18 dB-en mérve (a 25 lóerős Tohatsu külmotor 52 dB-ével szemben 5 m-ről). Az ARA 18 deszkát rendelt 212 ezer USD-ért, amelyet a Gordon and Betty Moore Foundation finanszírozott.',
+                '2024 szeptemberében Huaman az OLagoon környezetkutatási osztályával partnerként adaptálta az EcoTouring 12\'6" X-et tudományos teher telepítéséhez. A módosítások a következők voltak: megerősített fedélzeti rögzítőlemez (rozsdamentes acél, 4 csavaros minta) Garmin echoMAP Plus 74cv halradár/szonda átalakítóhoz; integrált RAM-rögzítő rendszer GoPro HERO12 Blackhez víz alatti házban; vízmentes felszerelés-akna (7 L térfogat, csavaros tömítés) a deszka magjában adatrögzítőknek és GPS-követőknek; és alacsony profilú tallérvédő, amely lehetővé teszi a partra futást iszapos folyópartokon. Három prototípus deszkát teszteltek az Ucayalin 2024 októberében, a víz alatti zajkibocsátást 18 dB-en mérve (a 25 lóerős Tohatsu külmotor 52 dB-ével szemben 5 m-ről). Az ARA 18 deszkát rendelt 212 ezer USD-ért, amelyet a Gordon and Betty Moore Foundation finanszírozott.',
             },
             {
               title: '2. lépés: Kutatási protokoll adaptáció és csendes megfigyelési módszer fejlesztés',
@@ -6734,7 +6734,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '3. lépés: Kutatói SUP tanúsítás és távoli állomás-logisztika',
               detail:
-                '2024 novemberében az Afarer 12 napos terepképzési programot tartott 3 ARA állomáson, 12 kutatót tanúsítva (5 PhD-jelölt, 4 tereptechnikus, 3 helyi folyóvezető). A képzés a következőket fedte le: folyami áramlások (az Ucayali akár 4 csomós sebességgel folyik), rönk/hulladék elkerülés, éjszakai evezési technikák éjszakai fajfelmérésekhez és dzsungel-indítási eljárások (felfújt deszkák 400 m-en keresztül való hordozása elsődleges erdőn át holtágakig). Minden kutató 40 óra felügyelt felmérési evezést és egy záróvizsgát teljesített, amely a következőket követelte meg: 6 km-es transzekt 2 óra alatt egyidejű adatrögzítéssel. Tanúsítási átmeneti arány: 92% (12-ből 11). A maradék kutató rotációs támogatóként szolgált.',
+                '2024 novemberében az OLagoon 12 napos terepképzési programot tartott 3 ARA állomáson, 12 kutatót tanúsítva (5 PhD-jelölt, 4 tereptechnikus, 3 helyi folyóvezető). A képzés a következőket fedte le: folyami áramlások (az Ucayali akár 4 csomós sebességgel folyik), rönk/hulladék elkerülés, éjszakai evezési technikák éjszakai fajfelmérésekhez és dzsungel-indítási eljárások (felfújt deszkák 400 m-en keresztül való hordozása elsődleges erdőn át holtágakig). Minden kutató 40 óra felügyelt felmérési evezést és egy záróvizsgát teljesített, amely a következőket követelte meg: 6 km-es transzekt 2 óra alatt egyidejű adatrögzítéssel. Tanúsítási átmeneti arány: 92% (12-ből 11). A maradék kutató rotációs támogatóként szolgált.',
             },
             {
               title: '4. lépés: 2025-ös terepi szezon eredményei és természetvédelmi hatás',
@@ -6762,7 +6762,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '1. lépés: SUP érzékelő-integráció és kutatóplatform tervezés',
               detail:
-                '2024 decemberében Torres az Afarer környezeti K+F csapatával dolgozott az EcoTouring 12\'6" X parti megfigyelésre történő konfigurálásán. Az Afarer rögzítőlemezt integrált az YSI EXO2 szondához (egyedi átterelő rögzítő-aknába illesztve, amely a deszka magján halad át, lehetővé téve a folyamatos vízáramlást vontatott szonda ellenállása nélkül). A deszka orr-oldali davit kart kapott (szénszálas, 1,5 kg, 50 font teherbírású) egy víz alatti videoegyüttes leengedéséhez és felhúzásához (GoPro HERO12 Black visszaszórás-védő házban vörösszűrőkkel). A tatra szerelt adatrögzítő doboz (Pelican 1040) GNSS-vevőt és mobilmodemet tartalmazott valós idejű adatfeltöltéshez a Mote felhőplatformjára. Három prototípust telepítettek 2025 januárjában egy 30 napos validációs tanulmányhoz, amely megerősítette a szonda-értékek 2%-on belüli pontosságát a csónak-alapú értékekhez képest párosított állomásokon. A Mote 15 deszkát rendelt 186 ezer USD-ért, amelyet az SBEP és a Gulf Research Program finanszírozott.',
+                '2024 decemberében Torres az OLagoon környezeti K+F csapatával dolgozott az EcoTouring 12\'6" X parti megfigyelésre történő konfigurálásán. Az OLagoon rögzítőlemezt integrált az YSI EXO2 szondához (egyedi átterelő rögzítő-aknába illesztve, amely a deszka magján halad át, lehetővé téve a folyamatos vízáramlást vontatott szonda ellenállása nélkül). A deszka orr-oldali davit kart kapott (szénszálas, 1,5 kg, 50 font teherbírású) egy víz alatti videoegyüttes leengedéséhez és felhúzásához (GoPro HERO12 Black visszaszórás-védő házban vörösszűrőkkel). A tatra szerelt adatrögzítő doboz (Pelican 1040) GNSS-vevőt és mobilmodemet tartalmazott valós idejű adatfeltöltéshez a Mote felhőplatformjára. Három prototípust telepítettek 2025 januárjában egy 30 napos validációs tanulmányhoz, amely megerősítette a szonda-értékek 2%-on belüli pontosságát a csónak-alapú értékekhez képest párosított állomásokon. A Mote 15 deszkát rendelt 186 ezer USD-ért, amelyet az SBEP és a Gulf Research Program finanszírozott.',
             },
             {
               title: '2. lépés: Megfigyelő állomáshálózat és árapály-mintavételi protokoll',
@@ -6772,7 +6772,7 @@ const hu: Record<string, SolutionOverride> = {
             {
               title: '3. lépés: Kutatótársi SUP tanúsítás és sekélyvízi navigációs képzés',
               detail:
-                '2025 februárjában az Afarer kutatási osztálya 8 Mote kutatótársat (4 PhD-szintű tudós, 4 tereptechnikus) tanúsított egy 5 napos sekélyvízi SUP kutató-operátor tanfolyamon. A képzés a következőket fedte le: tengerifű-ágy navigáció (propeller-hegesedés analógjának elkerülése — uszony-ellenállás), manátusz-közeledési protokollok (minimum 50 m megközelítési távolság, csendes sodródás észleléskor, motorzaj-mentes viselkedési megfigyelés), árapály-áramlás kezelés (maximum 1,5 csomós áramlás mintavételhez, 2,5 csomós átkeléshez) és felszerelés-telepítés/visszanyerés szeles körülmények között. Torres azt is megkövetelte, hogy minden társ teljesítse a Florida FWC manátusz-találkozási képzést (2 órás online + terepi komponens). A tanúsítást szimulált mintavételi napon értékelték: 4 állomás 3 óra alatt 100%-os adatteljességgel. Mind a 8 első próbálkozásra átesett, átlagosan 38 perces állomás-teljesítési idővel (a motorcsónak protokoll 68 percéhez képest).',
+                '2025 februárjában az OLagoon kutatási osztálya 8 Mote kutatótársat (4 PhD-szintű tudós, 4 tereptechnikus) tanúsított egy 5 napos sekélyvízi SUP kutató-operátor tanfolyamon. A képzés a következőket fedte le: tengerifű-ágy navigáció (propeller-hegesedés analógjának elkerülése — uszony-ellenállás), manátusz-közeledési protokollok (minimum 50 m megközelítési távolság, csendes sodródás észleléskor, motorzaj-mentes viselkedési megfigyelés), árapály-áramlás kezelés (maximum 1,5 csomós áramlás mintavételhez, 2,5 csomós átkeléshez) és felszerelés-telepítés/visszanyerés szeles körülmények között. Torres azt is megkövetelte, hogy minden társ teljesítse a Florida FWC manátusz-találkozási képzést (2 órás online + terepi komponens). A tanúsítást szimulált mintavételi napon értékelték: 4 állomás 3 óra alatt 100%-os adatteljességgel. Mind a 8 első próbálkozásra átesett, átlagosan 38 perces állomás-teljesítési idővel (a motorcsónak protokoll 68 percéhez képest).',
             },
             {
               title: '4. lépés: 2025. március–novemberi megfigyelési szezon és mérhető ökológiai eredmények',
@@ -6789,8 +6789,8 @@ const hu: Record<string, SolutionOverride> = {
         },
       ],
     },
-    whyAfarer: {
-      title: 'Miért választják a kutatószervezetek az Afarert',
+    whyOLagoon: {
+      title: 'Miért választják a kutatószervezetek az OLagoont',
       items: [
         {
           title: 'Stabilitás',
@@ -6816,24 +6816,24 @@ const hu: Record<string, SolutionOverride> = {
     },
     faqs: [
       {
-        question: 'Milyen tudományos felszerelés rögzíthető az Afarer kutató SUP platformra?',
+        question: 'Milyen tudományos felszerelés rögzíthető az OLagoon kutató SUP platformra?',
         answer:
-          'Az Afarer kutatóplatformok széles felszereléskört támogatnak, beleértve vízminőség-érzékelőket, kamerákat és GPS-egységeket, mintavételi edényeket, mérőeszközöket és adatgyűjtő készülékeket. A moduláris rögzítőrendszer testreszabható konkrét kutatási konfigurációkhoz.',
+          'Az OLagoon kutatóplatformok széles felszereléskört támogatnak, beleértve vízminőség-érzékelőket, kamerákat és GPS-egységeket, mintavételi edényeket, mérőeszközöket és adatgyűjtő készülékeket. A moduláris rögzítőrendszer testreszabható konkrét kutatási konfigurációkhoz.',
       },
       {
         question: 'Mennyire stabil a SUP platform vízmintavételi és megfigyelési tevékenységekhez?',
         answer:
-          'Az Afarer kutatóplatformok extra széles tervezéssel, megnövelt állóterülettel, fokozott egyensúllyal és nagy felhajtóerő-szerkezettel rendelkeznek, amelyeket kifejezetten tudományos terepműveletekre terveztek. A stabilitás lehetővé teszi a kutatóknak a biztonságos felszerelés-kezelést, mintavételt és méréseket.',
+          'Az OLagoon kutatóplatformok extra széles tervezéssel, megnövelt állóterülettel, fokozott egyensúllyal és nagy felhajtóerő-szerkezettel rendelkeznek, amelyeket kifejezetten tudományos terepműveletekre terveztek. A stabilitás lehetővé teszi a kutatóknak a biztonságos felszerelés-kezelést, mintavételt és méréseket.',
       },
       {
-        question: 'Milyen környezetbarát anyagokat használnak az Afarer kutató SUP deszkákhoz?',
+        question: 'Milyen környezetbarát anyagokat használnak az OLagoon kutató SUP deszkákhoz?',
         answer:
-          'Az Afarer a hosszú élettartamú tartós konstrukciókra összpontosít, amelyek csökkentik a cseregyakoriságot és az erőforrás-felhasználást. Fenntartható anyagopciókat kínálunk, beleértve újrahasznosítható választékokat és alacsonyabb hatású gyártási megközelítéseket, összhangban a környezetvédelmi küldetésekkel.',
+          'Az OLagoon a hosszú élettartamú tartós konstrukciókra összpontosít, amelyek csökkentik a cseregyakoriságot és az erőforrás-felhasználást. Fenntartható anyagopciókat kínálunk, beleértve újrahasznosítható választékokat és alacsonyabb hatású gyártási megközelítéseket, összhangban a környezetvédelmi küldetésekkel.',
       },
       {
         question: 'Testreszabhatók a SUP platformok konkrét kutatási projekt-követelményekhez?',
         answer:
-          'Igen, az Afarer teljes testreszabást támogat, beleértve egyedi deszkaméreteket (extra szélesség, további hossz), megnövelt teherbírást, felszerelés-rögzítő csatlakozókat, tárolási megoldásokat, szervezeti logókat és projektspecifikus kiegészítőket.',
+          'Igen, az OLagoon teljes testreszabást támogat, beleértve egyedi deszkaméreteket (extra szélesség, további hossz), megnövelt teherbírást, felszerelés-rögzítő csatlakozókat, tárolási megoldásokat, szervezeti logókat és projektspecifikus kiegészítőket.',
       },
       {
         question: 'Hogyan hasonlítható össze a SUP a hagyományos kutatócsónakokkal környezetfigyelés terén?',
@@ -6843,13 +6843,13 @@ const hu: Record<string, SolutionOverride> = {
       {
         question: 'Mennyi a jellemző átfutási idő egy egyedi kutató SUP platformhoz?',
         answer:
-          'Az átfutási idők a testreszabási komplexitástól és a rendelési mennyiségtől függenek. Az Afarer támogatja a prototípus-fejlesztést az új kutatási koncepcióktól az intézményi rendelések sorozatgyártásáig. Szorosan együttműködünk a kutatócsapatokkal a projektütemtervek és a terepi szezon követelményeinek teljesítéséhez.',
+          'Az átfutási idők a testreszabási komplexitástól és a rendelési mennyiségtől függenek. Az OLagoon támogatja a prototípus-fejlesztést az új kutatási koncepcióktól az intézményi rendelések sorozatgyártásáig. Szorosan együttműködünk a kutatócsapatokkal a projektütemtervek és a terepi szezon követelményeinek teljesítéséhez.',
       },
     ],
     cta: {
-      title: 'Építse fel ökokutatási vízi platformját az Afarerrel',
+      title: 'Építse fel ökokutatási vízi platformját az OLagoonrel',
       subtitle:
-        'A vízikutatás jövője rugalmas és fenntartható megoldásokat igényel. Az Afarer segít a tengeri NGO-knak, egyetemeknek, kutatóintézményeknek és környezetvédelmi szervezeteknek professzionális mobil vízikutatási platformokat létrehozni.',
+        'A vízikutatás jövője rugalmas és fenntartható megoldásokat igényel. Az OLagoon segít a tengeri NGO-knak, egyetemeknek, kutatóintézményeknek és környezetvédelmi szervezeteknek professzionális mobil vízikutatási platformokat létrehozni.',
       primaryAction: {
         text: 'Indítsa el projektjét',
       },
