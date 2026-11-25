@@ -8,17 +8,15 @@ site:
 
 metadata:
   title:
-    default: OLagoon — Soluzioni moderne per gommoni e prodotti tecnici
+    default: 'OLagoon — Piscine gonfiabili ad alta pressione in drop-stitch'
     template: '%s — OLagoon'
-  description: 'OLagoon is a premium global water adventure equipment brand designing commercial-grade SUPs and marine safety accessories. CE-certified since 2012.'
+  description: 'OLagoon produce piscine gonfiabili ad alta pressione in drop-stitch che si montano in pochi minuti e restano rigide tutta la stagione. Modelli family e plunge con filtro di sabbia e 2 anni di garanzia strutturale.'
   keywords:
-    - OLagoon
-    - SUP
-    - paddleboard
-    - inflatable SUP
-    - stand up paddle board
-    - drop stitch SUP
-    - water adventure accessories
+    - 'OLagoon'
+    - 'piscina gonfiabile'
+    - 'piscina drop-stitch'
+    - 'piscina plunge'
+    - 'piscina familiare'
   author: OLagoon
   robots:
     index: true
@@ -32,8 +30,8 @@ metadata:
     type: website
     locale: it_IT
   twitter:
-$1''
-$1''
+
+
     cardType: summary_large_image
 
 i18n:
@@ -102,19 +100,19 @@ ui:
 # --- Per-language site settings ---
 siteSettings:
   siteName: 'OLagoon'
-  siteTagline: 'OLagoon — Gommoni premium, SUP e attrezzature per sport acquatici'
-  siteDescription: 'OLagoon progetta e produce gommoni premium, tavole stand-up paddle e attrezzature per sport acquatici.'
+  siteTagline: 'Piscine gonfiabili drop-stitch — Modelli family e plunge'
+  siteDescription: 'OLagoon progetta piscine gonfiabili ad alta pressione in drop-stitch: piscine familiari, piscine plunge, sistemi a filtro di sabbia e accessori. Spedizione gratuita negli USA e 2 anni di garanzia strutturale.'
   organization:
     name: 'OLagoon'
-    logo: '/android-chrome-512x512.png'
+    logo: '/olagoon-logo.png'
     contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
 
 branding:
   site_name: 'OLagoon'
-  logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'OLagoon_Logo'
+  logo_image: '/olagoon-logo.png'
+  logo_alt: 'OLagoon logo'
   copyright: '© {year} {site_name} · Tutti i diritti riservati.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'

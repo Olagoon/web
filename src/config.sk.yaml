@@ -9,17 +9,15 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: OLagoon — Prémiové SUP dosky a príslušenstvo pre vodné dobrodružstvá
+    default: 'OLagoon — Drop-stitch bazény pod vysokým tlakom'
     template: '%s — OLagoon'
-  description: 'Premium SUPs, paddle boards, and water adventure accessories. Commercial-grade inflatable SUP boards, life vests, pumps, and paddles for every adventure.'
+  description: 'OLagoon vyrába nafukovacie drop-stitch bazény odolné vysokému tlaku, ktoré postavíte za pár minút a ktoré celú sezónu držia tvar. Modely family a plunge s pieskovými filtrami a 2-ročnou zárukou na konštrukciu.'
   keywords:
-    - OLagoon
-    - SUP
-    - paddleboard
-    - inflatable SUP
-    - drop stitch SUP
-    - stand up paddle board
-    - marine accessories
+    - 'OLagoon'
+    - 'nafukovací bazén'
+    - 'drop-stitch bazén'
+    - 'plunge bazén'
+    - 'rodinný bazén'
   author: OLagoon
   robots:
     index: true
@@ -33,8 +31,8 @@ metadata:
     type: website
     locale: sk_SK
   twitter:
-$1''
-$1''
+
+
     cardType: summary_large_image
 
 i18n:
@@ -99,11 +97,11 @@ analytics:
 
 siteSettings:
   siteName: OLagoon
-  siteTagline: 'Značka vybavenia pre vodné dobrodružstvá — nafukovacie SUP, člny a námorná výstroj'
-  siteDescription: 'OLagoon je globálna značka vybavenia pre vodné dobrodružstvá, ktorá navrhuje spoľahlivé nafukovacie SUP dosky, člny a vybavenie pre bezpečnosť na vode. S certifikáciou CE a dôverou dobrodruhov na celom svete.'
+  siteTagline: 'Drop-stitch bazény — modely family a plunge'
+  siteDescription: 'OLagoon navrhuje nafukovacie drop-stitch bazény pod vysokým tlakom: rodinné bazény, plunge bazény, pieskové filtre a príslušenstvo. Doprava zdarma v USA a 2-ročná záruka na konštrukciu.'
   organization:
     name: OLagoon
-    logo: '/android-chrome-512x512.png'
+    logo: '/olagoon-logo.png'
     contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
@@ -122,8 +120,8 @@ ui:
 
 branding:
   site_name: 'OLagoon'
-  logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'OLagoon_Logo'
+  logo_image: '/olagoon-logo.png'
+  logo_alt: 'OLagoon logo'
   copyright: '© {year} {site_name} · Všetky práva vyhradené.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'

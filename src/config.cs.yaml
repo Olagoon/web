@@ -6,17 +6,15 @@ site:
   googleSiteVerificationId: ''
 metadata:
   title:
-    default: OLagoon — Moderní nafukovací čluny a technická řešení
+    default: 'OLagoon — Drop-stitch bazény pod vysokým tlakem'
     template: '%s — OLagoon'
-  description: 'OLagoon is a premium global water adventure equipment brand designing commercial-grade SUPs and marine safety accessories. CE-certified since 2012.'
+  description: 'OLagoon vyrábí nafukovací drop-stitch bazény odolné vysokému tlaku, které postavíte během několika minut a které celou sezónu drží tvar. Modely family a plunge s pískovými filtry a 2letou zárukou na konstrukci.'
   keywords:
-    - OLagoon
-    - SUP
-    - paddleboard
-    - inflatable SUP
-    - stand up paddle board
-    - drop stitch SUP
-    - water adventure accessories
+    - 'OLagoon'
+    - 'nafukovací bazén'
+    - 'drop-stitch bazén'
+    - 'plunge bazén'
+    - 'rodinný bazén'
   author: OLagoon
   robots:
     index: true
@@ -30,8 +28,8 @@ metadata:
     type: website
     locale: cs_CZ
   twitter:
-$1''
-$1''
+
+
     cardType: summary_large_image
 i18n:
   textDirection: ltr
@@ -89,19 +87,19 @@ ui:
 
 siteSettings:
   siteName: 'OLagoon'
-  siteTagline: 'OLagoon — Prémiové nafukovací čluny, SUP prkna a vodní sporty'
-  siteDescription: 'OLagoon navrhuje a vyrábí prémiové nafukovací čluny, SUP prkna a vybavení pro vodní sporty.'
+  siteTagline: 'Drop-stitch bazény — modely family a plunge'
+  siteDescription: 'OLagoon navrhuje nafukovací drop-stitch bazény pod vysokým tlakem: rodinné bazény, plunge bazény, pískové filtry a příslušenství. Doprava zdarma v USA a 2letá záruka na konstrukci.'
   organization:
     name: 'OLagoon'
-    logo: '/android-chrome-512x512.png'
+    logo: '/olagoon-logo.png'
     contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
 
 branding:
   site_name: 'OLagoon'
-  logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'OLagoon_Logo'
+  logo_image: '/olagoon-logo.png'
+  logo_alt: 'OLagoon logo'
   copyright: '© {year} {site_name} · Všechna práva vyhrazena.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'

@@ -6,17 +6,15 @@ site:
   googleSiteVerificationId: ''
 metadata:
   title:
-    default: 'OLagoon | Thai site'
+    default: 'OLagoon — สระน้ำเป่าลม drop-stitch แรงดันสูง'
     template: '%s — OLagoon'
-  description: "OLagoon is a global water adventure equipment brand designing reliable inflatable SUPs, boats, and marine safety gear. CE-certified for beginners, families, explorers and professionals since 2012.'"
+  description: 'OLagoon ผลิตสระน้ำเป่าลมแบบ drop-stitch ที่ทนแรงดันสูง ติดตั้งได้ในไม่กี่นาทีและคงรูปทรงตลอดทั้งฤดูกาล รุ่น family และ plunge พร้อมระบบกรองทรายและรับประกันโครงสร้าง 2 ปี'
   keywords:
-    - OLagoon
-    - SUP
-    - paddleboard
-    - inflatable SUP
-    - stand up paddle board
-    - drop stitch SUP
-    - water adventure accessories
+    - 'OLagoon'
+    - 'สระน้ำเป่าลม'
+    - 'สระ drop-stitch'
+    - 'สระ plunge'
+    - 'สระครอบครัว'
   author: OLagoon
   robots:
     index: true
@@ -30,8 +28,8 @@ metadata:
     type: website
     locale: th_TH
   twitter:
-$1''
-$1''
+
+
     cardType: summary_large_image
 i18n:
   textDirection: ltr
@@ -89,19 +87,19 @@ ui:
 
 siteSettings:
   siteName: 'OLagoon'
-  siteTagline: 'OLagoon — เรือยางลมพรีเมียม บอร์ด SUP และอุปกรณ์กีฬาทางน้ำ'
-  siteDescription: 'OLagoon ออกแบบและผลิตเรือยางลมพรีเมียม บอร์ด SUP และอุปกรณ์กีฬาทางน้ำ'
+  siteTagline: 'สระน้ำเป่าลม drop-stitch — รุ่น family และ plunge'
+  siteDescription: 'OLagoon ออกแบบสระน้ำเป่าลม drop-stitch แรงดันสูง: สระสำหรับครอบครัว สระ plunge ระบบกรองทรายและอุปกรณ์เสริม จัดส่งฟรีในสหรัฐอเมริกาและรับประกันโครงสร้าง 2 ปี'
   organization:
     name: 'OLagoon'
-    logo: '/android-chrome-512x512.png'
+    logo: '/olagoon-logo.png'
     contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
 
 branding:
   site_name: 'OLagoon'
-  logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'OLagoon_Logo'
+  logo_image: '/olagoon-logo.png'
+  logo_alt: 'OLagoon logo'
   copyright: '© {year} {site_name} · All rights reserved.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'

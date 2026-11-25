@@ -9,19 +9,19 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: OLagoon | Premium Inflatable SUP Boards & Water Sports
+    default: OLagoon | High-Pressure Drop-Stitch Inflatable Pools
     template: '%s — OLagoon'
-  description: 'Discover OLagoon premium inflatable SUP boards designed for adventure, touring and family paddling — a global water sports brand with exclusive country partnerships, limited co-branded collections, and certified quality.'
+  description: 'OLagoon builds high-pressure drop-stitch inflatable pools that set up in minutes and stay rigid all season. Family-size and plunge models with sand-filter systems, thermal covers and a 2-year structural warranty.'
   keywords:
     - OLagoon
-    - SUP brand
-    - water adventure equipment
-    - water sports brand
-    - SUP boards for beginners
-    - marine safety gear
-    - drop stitch SUP
-    - commercial SUP
-    - CE certified watercraft
+    - inflatable pool
+    - drop-stitch pool
+    - family inflatable pool
+    - inflatable plunge pool
+    - above-ground pool
+    - portable pool
+    - sand filter pool system
+    - OLagoon pools
   author: OLagoon
   robots:
     index: true
@@ -35,8 +35,8 @@ metadata:
     type: website
     locale: en_US
   twitter:
-$1''
-$1''
+
+
     cardType: summary_large_image
 
 i18n:
@@ -101,11 +101,11 @@ analytics:
 
 siteSettings:
   siteName: OLagoon
-  siteTagline: 'Water Adventure Equipment Brand — Inflatable SUP, Boats & Marine Gear'
-  siteDescription: 'OLagoon is a global water adventure equipment brand designing reliable inflatable SUPs, boats, and marine safety gear. CE-certified and trusted by beginners, families, explorers and professionals in 40+ countries since 2012.'
+  siteTagline: 'Drop-Stitch Inflatable Pools — Family & Plunge Models'
+  siteDescription: 'OLagoon designs high-pressure drop-stitch inflatable pools that inflate in minutes and hold their shape all season. From compact plunge pools to full family models with sand-filter systems — shipped free across the US with a 2-year structural warranty.'
   organization:
     name: OLagoon
-    logo: '/android-chrome-512x512.png'
+    logo: '/olagoon-logo.png'
     contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
@@ -127,8 +127,8 @@ ui:
 
 branding:
   site_name: 'OLagoon'
-  logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'OLagoon_Logo'
+  logo_image: '/olagoon-logo.png'
+  logo_alt: 'OLagoon logo'
   copyright: '© {year} {site_name}. Operated by Olagoon LLC. All Rights Reserved.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'

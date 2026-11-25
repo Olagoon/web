@@ -6,17 +6,15 @@ site:
   googleSiteVerificationId: ''
 metadata:
   title:
-    default: OLagoon — Σύγχρονες λύσεις για φουσκωτές βάρκες και τεχνικά προϊόντα
+    default: 'OLagoon — Φουσκωτές πισίνες drop-stitch υψηλής πίεσης'
     template: '%s — OLagoon'
-  description: 'OLagoon is a premium global water adventure equipment brand designing commercial-grade SUPs and marine safety accessories. CE-certified since 2012.'
+  description: 'Η OLagoon κατασκευάζει φουσκωτές πισίνες drop-stitch που αντέχουν υψηλή πίεση, στήνονται σε λίγα λεπτά και διατηρούν την ακαμψία όλη τη σεζόν. Μοντέλα family και plunge με φίλτρα άμμου και εγγύηση δομής 2 ετών.'
   keywords:
-    - OLagoon
-    - SUP
-    - paddleboard
-    - inflatable SUP
-    - stand up paddle board
-    - drop stitch SUP
-    - water adventure accessories
+    - 'OLagoon'
+    - 'φουσκωτή πισίνα'
+    - 'πισίνα drop-stitch'
+    - 'πισίνα plunge'
+    - 'οικογενειακή πισίνα'
   author: OLagoon
   robots:
     index: true
@@ -30,8 +28,8 @@ metadata:
     type: website
     locale: el_GR
   twitter:
-$1''
-$1''
+
+
     cardType: summary_large_image
 i18n:
   textDirection: ltr
@@ -90,19 +88,19 @@ ui:
 # ----- Per-language site settings -----
 siteSettings:
   siteName: 'OLagoon'
-  siteTagline: 'OLagoon — Premium φουσκωτές βάρκες, SUP & εξοπλισμός θαλάσσιων σπορ'
-  siteDescription: 'Η OLagoon σχεδιάζει και κατασκευάζει premium φουσκωτές βάρκες, SUP και εξοπλισμό θαλάσσιων σπορ.'
+  siteTagline: 'Φουσκωτές πισίνες drop-stitch — μοντέλα family και plunge'
+  siteDescription: 'Η OLagoon σχεδιάζει φουσκωτές πισίνες drop-stitch υψηλής πίεσης: οικογενειακές πισίνες, πισίνες plunge, συστήματα φίλτρων άμμου και αξεσουάρ. Δωρεάν αποστολή στις ΗΠΑ και εγγύηση δομής 2 ετών.'
   organization:
     name: 'OLagoon'
-    logo: '/android-chrome-512x512.png'
+    logo: '/olagoon-logo.png'
     contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
 
 branding:
   site_name: 'OLagoon'
-  logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'OLagoon_Logo'
+  logo_image: '/olagoon-logo.png'
+  logo_alt: 'OLagoon logo'
   copyright: '© {year} {site_name} · Με επιφύλαξη παντός δικαιώματος.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'

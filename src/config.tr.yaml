@@ -6,17 +6,15 @@ site:
   googleSiteVerificationId: ''
 metadata:
   title:
-    default: OLagoon — Modern şişme bot ve teknik ürün çözümleri
+    default: 'OLagoon — Yüksek basınçlı drop-stitch şişme havuzlar'
     template: '%s — OLagoon'
-  description: "OLagoon yüksek kaliteli şişme SUP'ler ve teknik ürünler tasarlar ve üretir. Kataloğu, teknik özellikleri ve kaynakları keşfedin."
+  description: 'OLagoon, dakikalar içinde kurulan ve tüm sezon boyunca dayanıklılığını koruyan yüksek basınçlı drop-stitch şişme havuzlar üretir. Kum filtreli family ve plunge modelleri ve 2 yıl yapısal garanti.'
   keywords:
-    - OLagoon
-    - SUP
-    - paddleboard
-    - inflatable SUP
-    - stand up paddle board
-    - drop stitch SUP
-    - water adventure accessories
+    - 'OLagoon'
+    - 'şişme havuz'
+    - 'drop-stitch havuz'
+    - 'plunge havuz'
+    - 'aile havuzu'
   author: OLagoon
   robots:
     index: true
@@ -30,8 +28,8 @@ metadata:
     type: website
     locale: tr_TR
   twitter:
-$1''
-$1''
+
+
     cardType: summary_large_image
 i18n:
   textDirection: ltr
@@ -89,19 +87,19 @@ ui:
 
 siteSettings:
   siteName: 'OLagoon'
-  siteTagline: "OLagoon — Premium şişme botlar, SUP'lar ve su sporları ekipmanları"
-  siteDescription: "OLagoon premium şişme botlar, SUP'lar ve su sporları ekipmanları tasarlar ve üretir."
+  siteTagline: 'Drop-stitch şişme havuzlar — family ve plunge modelleri'
+  siteDescription: 'OLagoon, yüksek basınçlı drop-stitch şişme havuzlar tasarlar: aile havuzları, plunge havuzları, kum filtresi sistemleri ve aksesuarlar. ABD içinde ücretsiz kargo ve 2 yıl yapısal garanti.'
   organization:
     name: 'OLagoon'
-    logo: '/android-chrome-512x512.png'
+    logo: '/olagoon-logo.png'
     contactEmail: info@olagoon.com
     contactPhone: '+1 (279) 732-3333'
     address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
 
 branding:
   site_name: 'OLagoon'
-  logo_image: '/android-chrome-192x192.png'
-  logo_alt: 'OLagoon_Logo'
+  logo_image: '/olagoon-logo.png'
+  logo_alt: 'OLagoon logo'
   copyright: '© {year} {site_name} · Tüm hakları saklıdır.'
   phone: '+1 279 732 3333'
   address: '1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA'
