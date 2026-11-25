@@ -1,61 +1,60 @@
 meta:
-  title: คู่มือขนาดและสเปค — ซัพเป่าลม | {SITE}
-  description: ขนาด ความจุ และการใช้งานที่แนะนำสำหรับทุกผลิตภัณฑ์ของ olagoon ค้นหาขนาดซัพเป่าลมที่เหมาะสมกับความต้องการของคุณ
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - คู่มือขนาด SUP
-    - ขนาดพายบอร์ด
-    - สเปคซัพเป่าลม
-    - ตารางขนาด SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: คู่มือขนาดและข้อมูลจำเพาะ
-  subtitle: ขนาด ความจุ และการใช้งานแนะนำสำหรับสินค้า olagoon แต่ละชิ้น
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: ซัพเป่าลมที่ออกแบบเพื่อความสะดวกในการพกพาโดยไม่ลดทอนประสิทธิภาพ เลือกขนาดที่เหมาะกับน้ำหนักและสไตล์การพายของคุณ
-  sup: บอร์ดยืนพายสำหรับการทัวร์ โยคะ ออกกำลังกาย และการพายเล่นทั่วไป เลือกตามความยาวและน้ำหนักของผู้ใช้
-  accessory: อุปกรณ์เสริมและอุปกรณ์ความปลอดภัยเพื่อเติมเต็มบอร์ด SUP ของคุณ ขนาดใช้ได้ทั่วไปพร้อมหลายตัวเลือก
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: สินค้า
-    length: ความยาว
-    width: ความกว้าง
-    weight: น้ำหนัก
-    max_load: น้ำหนักสูงสุด
-    best_for: เหมาะที่สุดสำหรับ
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: วิธีเลือกขนาดที่เหมาะสม
+  title: How to Choose the Right Size
   cards:
-    - title: บอร์ด SUP
-      description: เลือกความยาวตามน้ำหนักของคุณและการใช้งานที่ตั้งใจ บอร์ดที่กว้างขึ้น (32"+) ให้ความมั่นคงมากขึ้น บอร์ดที่ยาวขึ้น (11-12 ฟุต) รักษาทิศทางได้ดีกว่าสำหรับการทัวร์ นักพายที่หนักกว่าต้องการบอร์ดที่มีปริมาตรสูงกว่า
-    - title: ซัพทัวริ่ง
-      description: บอร์ดที่ยาวกว่า (11–12 ฟุต) เหมาะที่สุดสำหรับการพายระยะไกลและการทัวร์ บอร์ดที่กว้างกว่า (32"+) ให้ความมั่นคงมากขึ้น ตรวจสอบความจุน้ำหนักรวมสัมภาระทั้งหมด
-    - title: ซัพอเนกประสงค์
-      description: เลือกความยาวตามน้ำหนักของผู้ใช้และการใช้งานที่ตั้งใจ บอร์ดอเนกประสงค์ใช้ได้ทั้งพักผ่อน ออกกำลังกาย และโยคะ บอร์ดขนาดเล็กควบคุมทิศทางได้คล่องตัวกว่า
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: หาบอร์ดที่ใช่สำหรับคุณ
-  subtitle: ตอบคำถามสั้น ๆ 3 ข้อ แล้วเราจะแนะนำบอร์ดที่เหมาะกับคุณ
-  q_experience: ประสบการณ์พาย SUP ของคุณ
-  exp_beginner: มือใหม่
-  exp_beginner_hint: เพิ่งเริ่มพาย SUP
-  exp_intermediate: ระดับกลาง
-  exp_intermediate_hint: คุ้นเคยกับการพายบนน้ำ
-  exp_advanced: ระดับสูง
-  exp_advanced_hint: นักพายที่มีประสบการณ์
-  q_use: คุณจะใช้บอร์ดทำอะไร?
-  use_allaround: อเนกประสงค์และพักผ่อน
-  use_touring: ท่องเที่ยวและระยะไกล
-  use_yoga: โยคะและฟิตเนส
-  use_fishing: ตกปลา
-  use_performance: เซียร์ฟ แข่งขัน และน้ำเชี่ยว
-  use_family: ครอบครัวและหลายคน
-  use_kids: เด็กและวัยรุ่น
-  q_weight: น้ำหนักผู้พาย
-  w_lt140: ต่ำกว่า 140 ปอนด์ (64 กก.)
-  w_140_180: 140-180 ปอนด์ (64-82 กก.)
-  w_180_230: 180-230 ปอนด์ (82-104 กก.)
-  w_gt230: มากกว่า 230 ปอนด์ (104 กก.)
-  results_title: บอร์ดที่เหมาะกับคุณ
-  results_hint: เลือกประสบการณ์ การใช้งานที่วางแผนไว้ และน้ำหนัก เพื่อดูบอร์ดที่เหมาะสม
-  badge_best: เหมาะที่สุด
-  view_details: ดูรายละเอียด
-  start_over: เริ่มใหม่
-  compare_all: เปรียบเทียบบอร์ดทั้งหมด
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

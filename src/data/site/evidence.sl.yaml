@@ -437,7 +437,7 @@ test_results:
     detail: Ventili, D-obročki, šivi, plovnost
 spec_sheets:
   - name: Serija SUP
-    href: /supboard/
+    href: /pools/
   - name: Rešilni jopiči in dodatki
     href: /accessory/
 deployment_photos:

@@ -1,7 +1,7 @@
 export interface ProductRecord {
   id: string;
   name: string;
-  category: 'SUP' | 'ACCESSORY';
+  category: 'POOL' | 'ACCESSORY';
   region: string[];
   skill: 'beginner' | 'intermediate' | 'advanced' | 'professional';
   environment: string[];
@@ -22,922 +22,324 @@ export interface ProductRecord {
 
 export const products: ProductRecord[] = [
   {
-    id: 'life-vest-classic',
-    name: 'Life Vest Classic',
-    category: 'ACCESSORY',
-    region: ['GLOBAL'],
+    id: 'compact-plunge',
+    name: 'The Compact Plunge',
+    category: 'POOL',
+    region: ['US', 'EU', 'GLOBAL'],
     skill: 'beginner',
-    environment: ['all'],
-    water_condition: ['all'],
-    safety_level: 'high',
-    use_case: ['recreation', 'training', 'supervision'],
-    safety_rules: ['CE certified', 'inspect before each use', 'replace if damaged'],
-    desc: 'Universal buoyancy aid for recreational water sports. CE certified.',
-    definition: 'A CE certified universal buoyancy aid for recreational water sports across all water environments.',
-    problem:
-      'Water sports participants of all skill levels need a reliable, comfortable life vest that meets international safety standards without restricting movement.',
-    howItWorks:
-      'The Life Vest Classic uses foam-filled buoyancy chambers with adjustable chest and side straps for secure fit. It is available in multiple sizes and includes a whistle, reflective strips, and a rescue handle.',
-    audience:
-      'Recreational paddlers, boaters, anglers, and water sports beginners who need CE-certified flotation for lakes, rivers, and coastal waters.',
-    ai_use_cases: ['Recreational water sports safety', 'Training and supervision flotation', 'Family water activities'],
-    ai_specs: {
-      certification: 'CE',
-      type: 'Foam-filled buoyancy aid',
-      sizes: 'Multiple (child to adult XL)',
-      features: 'Whistle, reflective strips, rescue handle',
-    },
-    ai_comparison:
-      'Compared to automatic inflatable life vests, the Life Vest Classic provides constant buoyancy without requiring deployment. It is bulkier but more reliable for recreational users who may not maintain automatic mechanisms.',
-    ai_faq: [
-      {
-        q: 'Is this life vest suitable for children?',
-        a: 'Yes, child sizes are available. CE certified for the specified weight ranges.',
-      },
-      {
-        q: 'Does it require any maintenance?',
-        a: 'Minimal maintenance. Rinse with fresh water after use. Inspect chambers and straps before each use. Replace if damaged.',
-      },
-    ],
-  },
-  {
-    id: 'life-vest-pro',
-    name: 'Life Vest Pro',
-    category: 'ACCESSORY',
-    region: ['EU', 'US'],
-    skill: 'advanced',
-    environment: ['all'],
-    water_condition: ['all'],
-    safety_level: 'high',
-    use_case: ['offshore', 'rescue', 'commercial'],
-    safety_rules: ['CE certified', 'SOLAS compliant', 'automatic inflation check'],
-    desc: 'Professional-grade life vest with SOLAS reflectors for offshore and rescue operations.',
+    environment: ['backyard', 'patio', 'deck', 'garden'],
+    water_condition: ['freshwater'],
+    safety_level: 'medium',
+    use_case: ['cold plunge', 'recovery', 'relaxation', 'two-person soaking'],
+    safety_rules: ['adult supervision required', 'secure level ground before setup', 'keep filtration running'],
+    desc: 'Compact 2 m × 1.5 m drop-stitch plunge pool with 20 cm rigid walls — big enough for two, small enough for any patio.',
     definition:
-      'A professional-grade SOLAS-compliant life vest with automatic inflation for offshore, rescue, and commercial marine use.',
+      'A 2 m × 1.5 m high-pressure drop-stitch inflatable plunge pool with 20 cm sit-on walls, engineered for cold-water recovery, hot-day soaking, and small patios or decks.',
     problem:
-      'Professional mariners and rescue personnel need a life vest that provides automatic inflation, high buoyancy, and SOLAS-compliant visibility for offshore operations.',
+      'Adults want a real plunge pool for ice baths and recovery, but rigid plunge pools cost thousands, need plumbing, and do not fit small outdoor spaces.',
     howItWorks:
-      'The Life Vest Pro uses an automatic hydrostatic inflation mechanism with a backup manual inflation tube. It includes SOLAS-grade reflective tape, a spray hood, a whistle, a waterproof light, and a lifting harness attachment point.',
+      'The Compact Plunge uses a high-density drop-stitch core inflated to 10–15 PSI, the same pressure class as yacht tenders. Thousands of polyester threads lock the top and bottom PVC layers together, so the 20 cm walls stay ruler-straight — rigid enough to sit on the edge with a drink. Setup is unroll, inflate with the electric pump (about 15 minutes), connect the sand-filter system, and fill.',
     audience:
-      'Commercial mariners, rescue professionals, offshore workers, and advanced boaters who need SOLAS-compliant automatic life vests.',
+      'Athletes and wellness enthusiasts using cold-plunge therapy, couples who want a compact soaking pool, and renters or small-home owners with patios, balconies, or modest gardens.',
     ai_use_cases: [
-      'Offshore marine operations safety',
-      'Professional rescue and emergency response',
-      'Commercial maritime compliance',
+      'Daily cold-plunge and ice-bath recovery',
+      'Two-person hot-day soaking on small patios',
+      'Seasonal plunge pool for rental homes and apartments',
     ],
     ai_specs: {
-      certification: 'CE, SOLAS',
-      inflation: 'Automatic hydrostatic',
-      buoyancy: 'SOLAS-grade',
-      features: 'Spray hood, waterproof light, lifting harness',
+      length: '6\'7" (2.0 m)',
+      width: '4\'11" (1.5 m)',
+      height: '25" (64 cm)',
+      wall_thickness: '8" (20 cm)',
+      max_pressure: '15 PSI',
+      weight: '48 lbs (22 kg)',
+      capacity: '2 adults / 530 gal (2,000 L)',
+      warranty: '2-year structural warranty',
     },
     ai_comparison:
-      'Compared to foam-filled life vests, the Life Vest Pro auto-inflates for minimal bulk during normal wear. It requires annual servicing of the hydrostatic mechanism and battery replacement.',
+      'Compared to rigid plunge tubs, the Compact Plunge needs no plumbing, no crane, and no permits — and it folds into a storage bag for winter. Compared to cheap ring pools, its drop-stitch walls hold pressure all season without bulging or leaking.',
     ai_faq: [
       {
-        q: 'How does the automatic inflation work?',
-        a: 'A hydrostatic trigger activates on immersion in water at 0.5-1.0 meters depth. A backup manual inflation tube is also provided.',
+        q: 'Can I use it as a cold plunge?',
+        a: 'Yes. The Compact Plunge is sized for ice-bath recovery. Add ice or connect a chiller — the durable PVC liner handles water temperatures down to near freezing.',
       },
       {
-        q: 'How often does it need servicing?',
-        a: 'Annual service of the hydrostatic mechanism is recommended. The CO2 cylinder should be checked and replaced per manufacturer schedule.',
+        q: 'Will it fit on my deck?',
+        a: 'At 2 m × 1.5 m it fits most decks and patios. Filled weight is about 2 tonnes, so confirm your deck is rated for a hot tub of similar volume.',
       },
     ],
   },
   {
-    id: 'oars-pump-set',
-    name: 'Oars & Pump Set',
-    category: 'ACCESSORY',
-    region: ['GLOBAL'],
+    id: 'family-oasis',
+    name: 'The Family Oasis',
+    category: 'POOL',
+    region: ['US', 'EU', 'GLOBAL'],
     skill: 'beginner',
-    environment: ['all'],
-    water_condition: ['all'],
+    environment: ['backyard', 'lawn', 'garden'],
+    water_condition: ['freshwater'],
+    safety_level: 'medium',
+    use_case: ['family swimming', 'kids play', 'recreation', 'lounging'],
+    safety_rules: ['adult supervision required', 'secure level ground before setup', 'keep filtration running'],
+    desc: 'Best-selling 3 m × 2 m family drop-stitch pool with sit-on walls, sand-filter compatibility, and a 15-minute setup.',
+    definition:
+      'A 3 m × 2 m high-pressure drop-stitch inflatable family pool with 20 cm rigid sit-on walls, a sand-filter pump port, and full-season UV-resistant fabric.',
+    problem:
+      'Families want a real swimming pool for the backyard, but in-ground pools cost $50,000+, and cheap inflatable pools sag, leak, and die within a season.',
+    howItWorks:
+      'The Family Oasis pairs a high-density drop-stitch core with military-grade UV-resistant PVC. Inflated to 10–15 PSI, the 20 cm walls become stiff benches adults can sit on while kids play. The integrated plumbing port accepts the OLagoon sand-filter pump for clear, circulating water all summer. No digging, no permits, no tools — unroll, inflate in 15 minutes, and fill with a garden hose.',
+    audience:
+      'Families with children who want a full-size backyard pool without construction, and homeowners who need a seasonal pool they can fold away in winter.',
+    ai_use_cases: [
+      'Full-size family swimming on a lawn or patio',
+      'Kids summer play pool with clean filtered water',
+      'Weekend gathering and lounging spot for 4-6 people',
+    ],
+    ai_specs: {
+      length: "9'10\" (3.0 m)",
+      width: "6'7\" (2.0 m)",
+      height: '25" (64 cm)',
+      wall_thickness: '8" (20 cm)',
+      max_pressure: '15 PSI',
+      weight: '62 lbs (28 kg)',
+      capacity: '4-6 people / 1,190 gal (4,500 L)',
+      warranty: '2-year structural warranty',
+    },
+    ai_comparison:
+      'Compared to steel-frame or ring pools, the Family Oasis has no frame parts to rust and no sagging ring — its drop-stitch walls stay straight and sit-on rigid. Compared to in-ground pools, it installs in an afternoon for under $1,500.',
+    ai_faq: [
+      {
+        q: 'How long does setup really take?',
+        a: 'About 15 minutes to inflate with the included electric pump, then 1-3 hours to fill depending on water pressure. No tools or professional installation needed.',
+      },
+      {
+        q: 'Can adults sit on the edge?',
+        a: 'Yes. The 20 cm drop-stitch walls are rated to hold seated adults — the same technology used in inflatable yacht tenders at 15 PSI.',
+      },
+    ],
+  },
+  {
+    id: 'grand-lagoon',
+    name: 'The Grand Lagoon',
+    category: 'POOL',
+    region: ['US', 'EU', 'GLOBAL'],
+    skill: 'beginner',
+    environment: ['large backyard', 'lawn', 'commercial outdoor space'],
+    water_condition: ['freshwater'],
+    safety_level: 'medium',
+    use_case: ['pool parties', 'group swimming', 'entertaining', 'lounging'],
+    safety_rules: ['adult supervision required', 'secure level ground before setup', 'keep filtration running'],
+    desc: 'Flagship 5 m × 2.5 m drop-stitch party pool with extra-thick walls, wooden-step compatibility, and space for the whole crew.',
+    definition:
+      'A 5 m × 2.5 m flagship high-pressure drop-stitch inflatable pool with reinforced 20 cm walls, dual filter ports, and accessory compatibility for wooden steps, canopies, and poolside furniture.',
+    problem:
+      'Homeowners with larger yards want a genuine party pool for entertaining, but permanent pools are a five-figure construction project and portable pools are too small or too flimsy for a crowd.',
+    howItWorks:
+      'The Grand Lagoon scales OLagoon drop-stitch engineering to flagship size: 5 m × 2.5 m of straight-walled swimming space driven by the same 10–15 PSI core. Reinforced seams and dual plumbing ports keep 10,000+ liters circulating through the sand-filter system. The flat, rigid walls accept the inflatable entry steps and wooden deck accessories, turning the pool into a complete backyard resort.',
+    audience:
+      'Homeowners with large backyards, entertainers and party hosts, and boutique hospitality venues like glamping sites and vacation rentals.',
+    ai_use_cases: [
+      'Backyard pool parties for 8-10 swimmers',
+      'Summer entertaining with steps, canopy, and poolside seating',
+      'Commercial plunge-and-play pool for glamping and rentals',
+    ],
+    ai_specs: {
+      length: "16'5\" (5.0 m)",
+      width: "8'2\" (2.5 m)",
+      height: '25" (64 cm)',
+      wall_thickness: '8" (20 cm)',
+      max_pressure: '15 PSI',
+      weight: '88 lbs (40 kg)',
+      capacity: '8-10 people / 3,170 gal (12,000 L)',
+      warranty: '2-year structural warranty',
+    },
+    ai_comparison:
+      'Compared to every portable pool in its class, the Grand Lagoon is the only one with true sit-on rigid walls at 5 m length. Compared to in-ground construction, it delivers a party-size pool for about 4% of the cost, installed in an afternoon.',
+    ai_faq: [
+      {
+        q: 'What ground do I need?',
+        a: 'Any firm, level surface — lawn, pavers, or a concrete pad. The included ground mat protects the base; just remove sharp objects first.',
+      },
+      {
+        q: 'Can it run a bigger filter?',
+        a: 'Yes. The dual plumbing ports accept the OLagoon sand-filter pump, and the Grand Lagoon is rated for upgrade circulation pumps for heavier party use.',
+      },
+    ],
+  },
+  {
+    id: 'sand-filter-pump',
+    name: 'Sand Filter Pump System',
+    category: 'ACCESSORY',
+    region: ['US', 'EU', 'GLOBAL'],
+    skill: 'beginner',
+    environment: ['backyard', 'patio', 'garden'],
+    water_condition: ['freshwater'],
     safety_level: 'low',
-    use_case: ['inflation', 'propulsion', 'maintenance'],
-    safety_rules: ['ensure pump is properly connected before use'],
-    desc: 'Pair of 1.6m aluminum oars and 5L high-flow foot pump for inflatable water sports.',
+    use_case: ['water filtration', 'circulation', 'maintenance'],
+    safety_rules: ['read manual before use', 'disconnect power before servicing'],
+    desc: 'High-flow sand-filter pump kit that keeps OLagoon pool water clear all season with 6-way valve and hose fittings.',
     definition:
-      'A complete accessory set including a pair of 1.6m aluminum paddles and a 5-liter high-flow foot pump with pressure gauge for inflatable SUP boards.',
+      'A complete sand-filter circulation system for OLagoon drop-stitch pools, including a 6-way control valve, strainer basket, and matched hose fittings.',
     problem:
-      'SUP owners need replacement or spare paddles and a high-volume pump for inflation, all compatible with standard inflatable SUPs.',
+      'Standing pool water turns green within days. Ring pools have no filtration option, so families end up emptying and refilling thousands of liters every week.',
     howItWorks:
-      'The paddles feature aluminum shafts with plastic blades for lightweight propulsion. The foot pump delivers 5 liters of air per stroke with a built-in pressure gauge for accurate inflation.',
-    audience: 'Owners of inflatable SUPs who need spare or replacement paddles and a high-flow inflation pump.',
+      'The pump circulates pool water through a silica-sand bed that traps particles down to 20-40 microns, then returns clean water via the matched fittings. The 6-way valve switches between filter, backwash, rinse, and drain modes, so maintenance is a knob turn — no cartridge refills to buy, sand lasts about 5 seasons.',
+    audience:
+      'Every OLagoon pool owner who wants clear water without weekly draining, and anyone replacing a cartridge-filter system with lower-maintenance sand filtration.',
     ai_use_cases: [
-      'Replacement paddles for inflatable SUPs',
-      'High-volume inflation at the launch site',
-      'Backup propulsion and inflation equipment',
+      'Season-long clear water for family pools',
+      'Low-maintenance filtration without cartridge refills',
+      'Quick water changes via the built-in drain mode',
     ],
     ai_specs: {
-      oar_length: '1.6 m',
-      oar_material: 'Aluminum shaft, plastic blade',
-      pump_volume: '5 L per stroke',
-      pump_type: 'High-flow foot pump with gauge',
+      flow_rate: '2,400 L/h (634 GPH)',
+      filter_media: 'Silica sand #20 (about 17.5 kg)',
+      valve: '6-way multi-port',
+      power: '110-120V / 220-240V, 50 Hz',
+      warranty: '1-year warranty',
     },
     ai_comparison:
-      'Compared to the Dual-Action Pump, this foot pump offers higher volume per stroke but requires more effort. The oars provide a basic propulsion option for inflatable boards that may not have or want to use a motor.',
+      'Compared to cartridge filters, sand filtration catches finer particles, needs no replacement cartridges, and lasts multiple seasons — one bag of sand versus a summer of cartridge purchases.',
     ai_faq: [
       {
-        q: 'Are the oars compatible with all inflatable boards?',
-        a: 'The oars fit standard oar locks found on most inflatable SUP boards. The 1.6m length is suitable for boards and small craft.',
+        q: 'How often do I backwash?',
+        a: 'About once a week under normal use, or when the pressure gauge reads 20% above the clean baseline. The 6-way valve makes it a 2-minute job.',
       },
       {
-        q: 'What pressure can the foot pump achieve?',
-        a: 'The foot pump can achieve up to 12-15 PSI, suitable for most inflatable SUPs and water sports equipment. It may not be sufficient for high-pressure SUP boards requiring 18+ PSI.',
+        q: 'Does it fit all OLagoon pools?',
+        a: 'Yes — the hose fittings match the integrated plumbing ports on the Compact Plunge, Family Oasis, and Grand Lagoon.',
       },
     ],
   },
   {
-    id: 'sup-explorer-11',
-    name: "SUP Explorer 11'",
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
+    id: 'thermal-cover',
+    name: 'Thermal Pool Cover',
+    category: 'ACCESSORY',
+    region: ['US', 'EU', 'GLOBAL'],
     skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Versatile all-around inflatable SUP board with wide-body stability for beginners and intermediate paddlers.',
+    environment: ['backyard', 'patio', 'garden'],
+    water_condition: ['freshwater'],
+    safety_level: 'low',
+    use_case: ['heat retention', 'debris protection', 'energy saving'],
+    safety_rules: ['remove completely before swimming'],
+    desc: 'Custom-fit thermal cover that locks in heat overnight and keeps leaves and debris out of your OLagoon pool.',
     definition:
-      'An 11-foot all-around inflatable stand-up paddle board designed for stability, portability, and recreational use across lakes, rivers, and sheltered coastal waters.',
+      'A made-to-measure insulating thermal cover for OLagoon drop-stitch pools, cut to each model footprint with edge weights for a wind-resistant seal.',
     problem:
-      'First-time and recreational paddlers need a stable, portable SUP board that is easy to inflate, easy to balance on, and forgiving to learn on.',
+      'Open pools lose most of their solar-heated warmth overnight and collect leaves, pollen, and insects — meaning more heating energy and more skimming every morning.',
     howItWorks:
-      "The SUP Explorer 11' uses drop-stitch core technology to achieve 15 PSI rigidity with a wide 32-inch deck for lateral stability. The board includes a removable center fin, coiled leash, and a dual-action hand pump for quick inflation at the launch site.",
-    audience:
-      'First-time paddlers, recreational users, families, and fitness enthusiasts who want a portable, stable SUP board for lakes, rivers, and sheltered coastal waters.',
+      'The cover floats on the water surface with a bubble-insulation layer that cuts evaporative and convective heat loss overnight, keeping morning water noticeably warmer. The top layer is UV-stabilized and debris-shedding; perimeter weights keep it seated in wind. Custom cuts match each OLagoon pool footprint exactly.',
+    audience: 'OLagoon pool owners in cooler climates, anyone heating their pool, and owners under trees where debris is a daily battle.',
     ai_use_cases: [
-      'Beginner SUP training and learning',
-      'Recreational lake and river paddling',
-      'Fitness and yoga on the water',
+      'Overnight heat retention for morning swims',
+      'Debris and leaf protection between swims',
+      'Reduced water and chemical evaporation',
     ],
     ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '19 lbs',
-      max_load: '220 lbs',
+      material: '350-micron bubble thermal insulation',
+      fit: 'Custom-cut per OLagoon model',
+      uv_rating: 'UV-stabilized, full-season exposure',
+      features: 'Perimeter weights, carry bag',
+      warranty: '1-year warranty',
     },
     ai_comparison:
-      "Compared to hard epoxy boards, the SUP Explorer 11' offers superior portability and storage convenience with the rigidity of drop-stitch construction. It is heavier than a hard board when dry but packs into a backpack for travel.",
+      'Compared to generic tarp covers, the thermal version insulates instead of just blocking — water stays warmer, and the custom cut means no folding, sagging, or wind flapping.',
     ai_faq: [
       {
-        q: 'What is the ideal pressure?',
-        a: '12-15 PSI is recommended. The board performs best at 15 PSI for maximum rigidity.',
+        q: 'How much warmer will my pool stay?',
+        a: 'A thermal cover typically retains several degrees of overnight warmth versus an open pool, meaning morning swims are comfortable and heated pools use far less energy.',
       },
-      { q: 'Does it come with a paddle?', a: 'An adjustable aluminum paddle is included in the complete package.' },
+      {
+        q: 'Is it safe for kids?',
+        a: 'The cover is not a safety cover and must be fully removed before anyone enters the pool. Always store it away from the water when swimming.',
+      },
     ],
   },
   {
-    id: 'sup-cheetah-surge',
-    name: 'Cheetah Surge Edition',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
+    id: 'ground-mat',
+    name: 'Protective Ground Mat',
+    category: 'ACCESSORY',
+    region: ['US', 'EU', 'GLOBAL'],
     skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring', 'social media'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Wild-inspired all-around SUP board with premium multi-color EVA block piecing featuring a cheetah motif in pastel pink, teal, and coral.',
+    environment: ['backyard', 'lawn', 'patio', 'deck'],
+    water_condition: ['freshwater'],
+    safety_level: 'low',
+    use_case: ['base protection', 'puncture prevention', 'insulation'],
+    safety_rules: ['inspect base for sharp objects before laying out'],
+    desc: 'Puncture-resistant ground cloth sized to each OLagoon pool, protecting the base from stones, roots, and rough surfaces.',
     definition:
-      'An 11-foot all-around inflatable SUP board with wild cheetah-themed artwork using multi-color EVA block piecing and UV digital printing, designed for recreational paddling on lakes, rivers, and sheltered coastal waters.',
+      'A heavy-duty woven ground cloth cut to fit under each OLagoon pool model, providing puncture protection, thermal base insulation, and a clean surface for setup and pack-down.',
     problem:
-      'Paddlers who want a board that stands out visually need premium artwork that will not fade, peel, or scratch under saltwater and UV exposure. Traditional printing methods fail under these conditions.',
+      'A pool base is only as reliable as what is underneath it — one sharp stone, root, or deck screw can end the season, and most inflatables ship with no real base protection.',
     howItWorks:
-      'The Cheetah Surge Edition uses drop-stitch PVC core technology achieving 15 PSI rigidity with a 32-inch wide deck. The traction pad artwork is created through multi-color EVA block piecing \u2014 different colored EVA sheets are die-cut and seamlessly puzzle-assembled rather than printed, guaranteeing zero fade or peeling.',
-    audience:
-      'Trend-conscious paddlers, outdoor lifestyle enthusiasts, boutique travelers, and social media content creators who want a visually striking, durable SUP board.',
+      'The mat uses layered woven polyethylene rated for puncture resistance far above standard tarps, sized larger than the pool footprint so the walls never contact bare ground. It also insulates the pool base from cold ground and gives you a clean folding surface at pack-down time.',
+    audience: 'Every OLagoon pool owner, essential for lawns with stones or roots, wooden decks with screw heads, and gravel or paver surfaces.',
     ai_use_cases: [
-      'Social media content creation on the water',
-      'Recreational lake and river paddling',
-      'Boutique travel and adventure tourism',
+      'Season-long base protection on lawns and decks',
+      'Clean fold-up surface at summer end',
+      'Ground temperature insulation under the pool floor',
     ],
     ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'Multi-color EVA block piecing',
+      material: 'Woven polyethylene, multi-layer',
+      puncture_rating: 'Heavy-duty',
+      sizes: 'Custom-fit per OLagoon model',
+      features: 'Eyelet corners, carry strap',
+      warranty: '1-year warranty',
     },
     ai_comparison:
-      'Compared to standard printed SUP boards, the Cheetah Surge Edition uses die-cut EVA block piecing that will never fade or peel. The artwork is structurally part of the EVA material rather than a surface ink layer.',
+      'Compared to hardware-store tarps, the mat is purpose-cut for each pool, far more puncture-resistant, and will not shred or wad up under the pool floor over a season.',
     ai_faq: [
       {
-        q: 'How is the artwork applied?',
-        a: 'The artwork uses multi-color EVA block piecing \u2014 different colored EVA foam sheets are precisely die-cut and seamlessly assembled like a puzzle. There is no printed ink on the standing surface.',
+        q: 'Do I still need to clear the ground?',
+        a: 'Yes. Remove stones, sticks, and sharp objects first — the mat protects against residual hazards and abrasion, but a clean base is always step one.',
       },
       {
-        q: 'Does the artwork fade in saltwater?',
-        a: 'No. Because the colors are inherent to the EVA material rather than a surface ink layer, the artwork will never fade, peel, or scratch under saltwater, UV, or foot traffic.',
+        q: 'Does it work on concrete?',
+        a: 'Yes. On concrete or pavers the mat is essential — it prevents abrasion wear on the pool floor over the season.',
       },
     ],
   },
   {
-    id: 'sup-leviathan-wake',
-    name: 'Leviathan Wake Series (The Whale Edition)',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
+    id: 'entry-steps',
+    name: 'Inflatable Entry Steps',
+    category: 'ACCESSORY',
+    region: ['US', 'EU', 'GLOBAL'],
     skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring', 'social media'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Ocean-inspired all-around SUP board featuring a majestic blue whale totem with geometric and tribal patterns, paired with black-white swell lines.',
+    environment: ['backyard', 'patio', 'garden'],
+    water_condition: ['freshwater'],
+    safety_level: 'low',
+    use_case: ['safe entry', 'safe exit', 'poolside seating', 'handrails'],
+    safety_rules: ['ensure steps are fully inflated and seated before use'],
+    desc: 'Drop-stitch inflatable steps that lock against the pool wall — a stable staircase for kids and a poolside seat for adults.',
     definition:
-      'An 11-foot all-around inflatable SUP board with a breathtaking blue whale totem design using UV digital printing and mechanically embossed traction pad.',
+      'A drop-stitch inflatable entry-step system that docks against OLagoon pool walls, providing a rigid staircase with handrail loops for safe entry, plus a flat top that doubles as poolside seating.',
     problem:
-      'Paddlers seeking artistic SUP boards need artwork that remains vibrant under high-pressure inflation and repeated folding for storage. Standard inks crack and peel.',
+      'Climbing over a 64 cm pool wall is hard for children and grandparents, and wet PVC walls are slippery — most portable pools simply have no safe way in or out.',
     howItWorks:
-      'The Leviathan Wake uses drop-stitch PVC core at 15 PSI with a 32-inch deck. The nose artwork uses high-precision UV digital printing while the bottom logo uses high-elasticity screen printing with specialized stretchable PVC inks. The traction pad uses mechanical heat-embossing for durable wave patterns.',
+      'The steps use the same 10-15 PSI drop-stitch construction as the pools, forming a rigid two-tier staircase. The base anchors against the pool wall with snap-on connectors, handrail loops give swimmers a firm grip, and the flat top deck doubles as a poolside bench for adults.',
     audience:
-      'Ocean and marine life enthusiasts, artistic paddlers, and those who want a visually distinctive SUP board with high-quality durable artwork.',
+      'Families with young children or older swimmers, and anyone who wants comfortable poolside seating that matches the pool finish.',
     ai_use_cases: [
-      'Marine life themed water adventures',
-      'Recreational lake and coastal paddling',
-      'Artistic and lifestyle paddleboarding',
+      'Safe independent entry and exit for kids',
+      'Accessible steps for older swimmers',
+      'Extra poolside bench seating',
     ],
     ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'UV digital printing + mechanical embossing',
+      material: 'Drop-stitch PVC, 15 PSI rated',
+      height: 'Two-tier, 64 cm top deck',
+      features: 'Handrail loops, snap-on wall connectors',
+      load_rating: 'Static seating for 2 adults',
+      warranty: '2-year structural warranty',
     },
     ai_comparison:
-      'Compared to standard SUP boards, the Leviathan Wake features totemic whale artwork with dual printing technologies optimized for durability. The mechanically embossed traction pad provides better longevity than printed pads.',
+      'Compared to plastic outside ladders, inflatable steps have no metal parts to rust or scratch the pool, sit stable without ballast, and double as seating — matching the pool aesthetically.',
     ai_faq: [
       {
-        q: 'Is the bottom logo durable?',
-        a: 'Yes. The bottom logo uses high-elasticity screen printing with specialized stretchable PVC inks rated for 15 PSI inflation and repeated folding.',
+        q: 'Do the steps float away?',
+        a: 'No. Snap-on connectors lock the steps to the pool wall, and the water-displaced base keeps them seated firmly in place.',
       },
       {
-        q: 'What makes the traction pad special?',
-        a: 'The wave patterns are mechanically heat-embossed into dual-layer composite EVA, ensuring uniform depth, excellent water drainage, and long-lasting non-slip performance.',
-      },
-    ],
-  },
-  {
-    id: 'sup-medusa-glow',
-    name: 'Medusa Glow Series (The Jellyfish Edition)',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'yoga', 'social media'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Dreamy jellyfish-inspired all-around SUP with premium multi-color EVA block piecing, sea stars, and coral reef artwork in refreshing mint green.',
-    definition:
-      'An 11-foot all-around inflatable SUP board with jellyfish and coral reef themed artwork using multi-color EVA block piecing and anti-delamination engineering.',
-    problem:
-      'Paddlers who love marine-inspired art need a board with premium graphics that withstand harsh marine environments without fading, peeling, or delaminating at attachment points.',
-    howItWorks:
-      'The Medusa Glow uses drop-stitch PVC core at 15 PSI with a 32-inch deck. The nose artwork is UV digital printed while the EVA pad uses multi-color block piecing for zero-fade sea stars and seashells. D-ring areas are masked for raw PVC-to-PVC bonding preventing delamination.',
-    audience:
-      'Female paddlers, lifestyle enthusiasts, boutique travelers, and anyone who wants a healing ocean-inspired aesthetic on the water.',
-    ai_use_cases: [
-      'Yoga and fitness paddleboarding',
-      'Social media content creation',
-      'Tropical and coastal paddling adventures',
-    ],
-    ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'Multi-color EVA block piecing + UV printing',
-    },
-    ai_comparison:
-      'Compared to standard printed SUP boards, the Medusa Glow uses EVA block piecing for the standing surface graphics \u2014 the colors are structural to the EVA material, not printed ink, so they never fade.',
-    ai_faq: [
-      {
-        q: 'What is the color scheme?',
-        a: 'Refreshing mint green base with deep teal EVA pad featuring white sea star and seashell die-cut blocks with vibrant coral orange accents.',
-      },
-      {
-        q: 'How is the handle attached?',
-        a: 'The center neoprene handle webbing is anchored directly through the EVA pad onto the core PVC hull substrate, ensuring lifting loads are borne by the rigid hull.',
-      },
-    ],
-  },
-  {
-    id: 'sup-ocean-pulse',
-    name: 'Ocean Pulse Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring', 'social media'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Topographic wave-inspired all-around SUP board with Tiffany Blue contours, high-precision mechanical embossing, and unified aesthetic accessory kit.',
-    definition:
-      'An 11-foot all-around inflatable SUP board with topographic wave pattern artwork using UV digital printing and mechanically embossed traction pad, with color-coordinated accessories.',
-    problem:
-      'Style-conscious paddlers want a complete visual experience \u2014 not just a beautiful board but coordinated accessories that maintain the aesthetic from storage to water.',
-    howItWorks:
-      'The Ocean Pulse uses drop-stitch PVC core at 15 PSI. Wave contours are applied via high-precision UV printing. The EVA pad uses mechanical heat-embossing for wave textures. All accessories \u2014 backpack, pump, leash \u2014 undergo unified color customization matching the board design.',
-    audience:
-      'Female paddlers, trendy lifestyle enthusiasts, boutique campers, and paddlers who value coordinated aesthetics across their entire gear set.',
-    ai_use_cases: [
-      'Instagram and social media paddleboarding',
-      'Boutique travel and camping',
-      'Recreational lake and coastal paddling',
-    ],
-    ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'UV printing + mechanical embossing + coordinated accessories',
-    },
-    ai_comparison:
-      'Compared to standard SUP boards, the Ocean Pulse offers a complete coordinated visual identity across the board and all accessories, with mechanically embossed EVA for superior durability over printed traction pads.',
-    ai_faq: [
-      {
-        q: 'What accessories are color-matched?',
-        a: 'The wheeled travel backpack, dual-action high-pressure pump, safety leash, and waterproof phone pouches all undergo unified color-matching and branding customization.',
-      },
-      {
-        q: 'How is the traction pad pattern made?',
-        a: 'The wave patterns are formed through high-precision mechanical heat-embossing on dual-layer composite EVA, ensuring uniform depth and excellent water drainage.',
-      },
-    ],
-  },
-  {
-    id: 'sup-ocean-voyager',
-    name: 'Ocean Voyager Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring', 'social media'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Sea turtle-inspired all-around SUP board with premium multi-color EVA block piecing in deep teal, turquoise, and coral orange.',
-    definition:
-      'An 11-foot all-around inflatable SUP board with geometric sea turtle artwork using multi-color EVA block piecing and UV digital printing, with end-to-end visual identity across accessories.',
-    problem:
-      'Ocean-conscious paddlers want a board that celebrates marine life with premium artwork that stays vibrant through years of use without fading or peeling from saltwater exposure.',
-    howItWorks:
-      'The Ocean Voyager uses drop-stitch PVC core at 15 PSI with a 32-inch deck. The nose geometric sea turtle illustration uses UV digital printing while the EVA pad uses multi-color block piecing for the turtle silhouette and coral shapes. All accessories are color-coordinated.',
-    audience:
-      'Ocean lovers, sea turtle enthusiasts, trend-conscious paddlers, and boutique travelers who want a premium coordinated lifestyle SUP package.',
-    ai_use_cases: [
-      'Marine conservation-themed paddleboarding',
-      'Social media content creation',
-      'Long-distance touring and exploration',
-    ],
-    ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'Multi-color EVA block piecing + UV printing + coordinated accessories',
-    },
-    ai_comparison:
-      'Compared to standard printed SUP boards, the Ocean Voyager uses multi-color EVA block piecing that will never scratch, peel, or fade. The die-cut precision ensures perfectly flush surfaces underfoot.',
-    ai_faq: [
-      {
-        q: 'What is the naming inspiration?',
-        a: 'The sea turtle is natures ultimate ocean wanderer, navigating thousands of miles with effortless grace. Ocean Voyager encapsulates the spirit of long-distance exploration and harmony with marine life.',
-      },
-      {
-        q: 'Does the artwork fade?',
-        a: 'No. The EVA pad graphics use multi-color block piecing \u2014 colors are inherent to the EVA material, not printed ink. The graphics will never scratch, peel, or fade even under heavy use.',
-      },
-    ],
-  },
-  {
-    id: 'sup-dolphin-wave',
-    name: 'Dolphin Wave Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring', 'social media'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Dolphin-inspired all-around SUP board with medieval blue waves, high-precision EVA color-block splicing, and 360-degree marine rail aesthetics.',
-    definition:
-      'An 11-foot all-around inflatable SUP board with dolphin seascape artwork using CNC-cut EVA color-block splicing and screen-printed continuous rail waves.',
-    problem:
-      'Art-conscious paddlers need SUP artwork that survives high-pressure inflation (15 PSI) and tight roll-up storage without cracking, creasing, or color bleeding.',
-    howItWorks:
-      'The Dolphin Wave uses drop-stitch PVC core at 15 PSI. The standing zone uses CNC puzzle-cut EVA color-block splicing where colors are inherent to the material. The rail band uses continuous screen printing to extend wave motifs around the sides. UV inks have 150% elongation for crack resistance.',
-    audience:
-      'Marine wildlife enthusiasts, paddlers who appreciate detailed artwork, and those who want a board with 360-degree visual continuity.',
-    ai_use_cases: [
-      'Marine wildlife themed paddleboarding',
-      'Recreational lake and coastal paddling',
-      'Social media and lifestyle content',
-    ],
-    ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'CNC-cut EVA color-block splicing + screen-printed rails',
-    },
-    ai_comparison:
-      'Compared to standard printed SUP boards, the Dolphin Wave uses physical EVA color-block splicing for the standing zone and screen-printed rail waves for 360-degree visual continuity. The 150% flexible UV ink prevents cracking.',
-    ai_faq: [
-      {
-        q: 'What colors are used?',
-        a: 'Medieval Blue for deep waves, Serenity for tranquil hues, with white foam details. The color palette follows PANTONE TPG standards for precise manufacturing.',
-      },
-      {
-        q: 'How are the rail waves applied?',
-        a: 'The rail band uses a continuous screen printing process on solid mint green double-layered PVC, cost-effectively extending the wave motif around the board sides.',
-      },
-    ],
-  },
-  {
-    id: 'sup-flowing-lotus',
-    name: 'Flowing Lotus Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'yoga', 'meditation'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Eastern art-inspired all-around SUP board with lotus, koi, and dragonfly motifs, featuring laser-engraved traction pad and gradient water-flow artwork.',
-    definition:
-      'An 11-foot all-around inflatable SUP board with traditional Eastern brushwork aesthetics using dual-layer laser-engraved EVA traction pad and UV digital printed gradient artwork.',
-    problem:
-      'Paddlers seeking artistic and cultural expression on the water need premium artwork that withstands heavy foot traffic and saltwater without wearing out or fading.',
-    howItWorks:
-      'The Flowing Lotus uses drop-stitch PVC core at 15 PSI. The EVA traction pad uses dual-layer composite laser-engraving \u2014 laser etches away the top colored layer to reveal the bottom color, creating permanent patterns. The nose gradient uses flexible UV inks with high elongation for crack resistance.',
-    audience:
-      'Yoga practitioners, meditation enthusiasts, Eastern art lovers, and paddlers who appreciate cultural aesthetics and premium craftsmanship.',
-    ai_use_cases: [
-      'Yoga and meditation paddleboarding',
-      'Cultural and artistic water experiences',
-      'Recreational lake and river paddling',
-    ],
-    ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'Dual-layer laser-engraved EVA + UV digital printing',
-    },
-    ai_comparison:
-      'Compared to standard printed SUP boards, the Flowing Lotus uses laser-engraving technology that etches patterns permanently into the EVA material \u2014 the artwork cannot wear out or fade because it is structurally part of the pad.',
-    ai_faq: [
-      {
-        q: 'How does the laser engraving work?',
-        a: 'A dual-layer composite EVA pad (teal base with mint green surface) is laser-etched \u2014 the laser removes the top layer to reveal the bottom color, creating permanent 3D textured patterns.',
-      },
-      {
-        q: 'What makes this board good for yoga?',
-        a: 'The laser-engraved patterns provide excellent slip resistance without being abrasive, while the gradient design creates a calming aesthetic perfect for water-based meditation and yoga.',
-      },
-    ],
-  },
-  {
-    id: 'sup-jungle-mandala',
-    name: 'Jungle Mandala Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring', 'social media'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Tropical rainforest and mandala-inspired all-around SUP board with hibiscus, hummingbirds, and symmetrical geometric totems in Tiffany Blue and Coral Orange.',
-    definition:
-      'An 11-foot all-around inflatable SUP board with tropical mandala artwork using dual-layer laser-engraved EVA, anti-distortion geometry, and screen-printed continuous rails.',
-    problem:
-      'Paddlers want geometrically complex artwork that remains perfectly symmetrical and undistorted even when the board is inflated to high pressure, without pattern misalignment during manufacturing.',
-    howItWorks:
-      'The Jungle Mandala uses drop-stitch PVC core at 15 PSI. The mandala geometry undergoes structural line-thickening to counter PVC surface dimples. The EVA pad uses dual-layer laser-engraving. Rail motifs use a scattered non-rigid pattern that accommodates manual assembly stretching tolerances.',
-    audience:
-      'Spiritual and artistic paddlers, tropical adventurers, yoga practitioners, and those drawn to geometric and mandala aesthetics.',
-    ai_use_cases: [
-      'Spiritual and meditative paddleboarding',
-      'Tropical coastal adventures',
-      'Social media content creation',
-    ],
-    ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'Dual-layer laser-engraved EVA + UV printing + screen-printed rails',
-    },
-    ai_comparison:
-      'Compared to standard SUP boards, the Jungle Mandala features anti-distortion mandala geometry engineered to remain perfectly symmetrical at 15 PSI inflation, with cost-efficient screen-printed rail motifs.',
-    ai_faq: [
-      {
-        q: 'Does the mandala pattern distort when inflated?',
-        a: 'No. The geometric lines have undergone structural thickening specifically to counter PVC surface dimples and remain perfectly symmetrical at full inflation pressure.',
-      },
-      {
-        q: 'How is the rail artwork applied?',
-        a: 'The hummingbird and butterfly motifs on the rails use a continuous screen printing process with a scattered, non-rigid pattern that accommodates manual stretching tolerances during assembly.',
-      },
-    ],
-  },
-  {
-    id: 'sup-tropical-breeze',
-    name: 'Tropical Breeze Island Escape Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring', 'social media'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Island paradise-inspired all-around SUP board featuring a complete island vacation canvas with sunshine, coconut groves, and beach scenes.',
-    definition:
-      'An 11-foot all-around inflatable SUP board with micro-landscape illustration and abstract EVA color-blocking that seamlessly integrates an island vacation scene into the board design.',
-    problem:
-      'Paddlers want a board that creates a complete immersive experience \u2014 transforming water sports equipment into a canvas that transports them to a tropical paradise.',
-    howItWorks:
-      'The Tropical Breeze uses drop-stitch PVC core at 15 PSI with a 32-inch deck. The nose features a digital-printed micro-landscape illustration. The EVA standing zone uses die-cut abstract color-blocking that extends the visual narrative of waves, beach, and palms across the full board.',
-    audience:
-      'Vacation travelers, tropical lifestyle enthusiasts, social media content creators, and paddlers who want a board that captures the spirit of island escape.',
-    ai_use_cases: [
-      'Tropical vacation paddleboarding',
-      'Social media content creation',
-      'Recreational lake and coastal getaways',
-    ],
-    ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      artwork: 'UV digital printing + die-cut EVA patchwork',
-    },
-    ai_comparison:
-      'Compared to standard SUP boards, the Tropical Breeze uniquely integrates a complete landscape scene across the entire board surface, with a perfect division of labor between digital printing for detail and EVA patchwork for durability.',
-    ai_faq: [
-      {
-        q: 'What scene is depicted on the board?',
-        a: 'A dreamlike island paradise with sunshine, coconut groves, beach, and palms \u2014 a micro-landscape illustration on the nose that transitions into abstract EVA color-blocking toward the tail.',
-      },
-      {
-        q: 'How does the artwork transition from nose to tail?',
-        a: 'The nose uses detailed digital printing for the landscape illustration, while the tail uses die-cut EVA color-blocking that abstracts the waves, sand, and palms \u2014 creating a seamless visual journey.',
-      },
-    ],
-  },
-  {
-    id: 'sup-horizon-lines',
-    name: 'Horizon Lines Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'fitness', 'touring'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Premium all-around 11-foot inflatable SUP with fusion laminate construction, a reptile-skin traction pad, and triple removable click fins for any water condition.',
-    definition:
-      'An 11-foot premium all-around inflatable SUP board with lightweight fusion laminate reinforcement, a contoured reptile-skin traction pad with arch support, and a triple click fin setup for lakes, rivers, and sheltered coastal waters.',
-    problem:
-      'Versatile paddlers want a single board that handles everything from flatwater cruising to choppy coastal conditions, while staying light enough for travel and rigid enough for a hard-shell feel.',
-    howItWorks:
-      'The Horizon Lines Series pairs specialized fusion laminate reinforcement layers with drop-stitch PVC construction rated to 15 PSI. Three fully removable click fins with an optimized toe-in angle allow the rider to tune tracking and maneuverability, and a double-action or optional 12VDC electric pump reaches full pressure quickly.',
-    audience:
-      'First-time buyers, flatwater cruisers, advanced maneuver enthusiasts, and travelers who want one portable all-around inflatable SUP board with an optional full package.',
-    ai_use_cases: [
-      'All-around flatwater and coastal paddling',
-      'Advanced maneuver practice and touring',
-      'Travel-ready compact SUP adventures',
-    ],
-    ai_specs: {
-      length: '11\'0"',
-      width: '32"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '20 lbs',
-      max_load: '220 lbs',
-      fins: 'Triple removable click fins with optimized toe-in',
-    },
-    ai_comparison:
-      'Compared to standard all-around SUP boards, the Horizon Lines features fusion laminate reinforcement and a triple fin system that lets riders customize tracking versus maneuverability for anything from calm lakes to choppy coastal water.',
-    ai_faq: [
-      {
-        q: 'Can the fins be customized for conditions?',
-        a: 'Yes. All three click fins are fully removable with an optimized toe-in angle, so you can tune the setup for flatwater tracking, river currents, or choppy coastal conditions.',
-      },
-      {
-        q: 'What inflation options are included?',
-        a: 'A double-action high-pressure/high-volume pump inflates on both strokes, and the board is compatible with an optional 12VDC 20PSI electric pump that reaches 15 PSI in about 9 minutes.',
-      },
-    ],
-  },
-  {
-    id: 'sup-rheo',
-    name: 'RHEO Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'professional',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop', 'wind chop'],
-    safety_level: 'medium',
-    use_case: ['racing', 'fitness', 'sprint training'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Professional 14-foot race inflatable SUP with carbon hybrid construction, a wave-piercing displacement nose, and elite tracking for sprints and long-distance racing.',
-    definition:
-      'A 14-foot professional race inflatable SUP board with a carbon hybrid matrix for zero flex, a wave-piercing displacement nose, and a 26-inch narrow deck built for sprint races, time trials, and high-cadence training.',
-    problem:
-      'Competitive racers need hardboard-like rigidity and straight-line tracking from an inflatable board, without the flex, drag, or dull industrial aesthetic of traditional race SUP boards.',
-    howItWorks:
-      'The RHEO Series uses a carbon hybrid inflatable construction that eliminates flex for a rock-solid platform. Its wave-piercing displacement nose slices through chop with minimal drag, while the 26-inch width reduces wetted surface friction and the 2+1 fin setup holds tracking at speed and aids fast sweeping turns.',
-    audience:
-      'Competitive racers chasing personal bests, speed enthusiasts, and advanced paddlers who want rigid race performance with inflatable portability.',
-    ai_use_cases: [
-      'Competitive SUP racing and sprint training',
-      'High-speed fitness and interval paddling',
-      'Technical course and tight-waterway racing',
-    ],
-    ai_specs: {
-      length: '14\'0"',
-      width: '26"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '26 lbs',
-      max_load: '286 lbs',
-      fins: '2+1 fin setup',
-    },
-    ai_comparison:
-      'Compared to traditional race SUP boards, the RHEO delivers a carbon hybrid inflatable construction with zero flex and a wave-piercing nose for exceptional penetration in head chop, in a board that still packs down for travel.',
-    ai_faq: [
-      {
-        q: 'Is the RHEO stable enough for beginners?',
-        a: 'It is designed for competitive and advanced paddlers; the 26-inch width prioritizes speed and efficiency, so beginners should start on a wider all-around board.',
-      },
-      {
-        q: 'What is the 2+1 fin setup for?',
-        a: 'The central fin maintains excellent straight-line tracking at high speeds, while the side fins provide lateral stability during fast, sweeping buoy turns.',
-      },
-    ],
-  },
-  {
-    id: 'sup-fishing',
-    name: 'Inflatable Fishing SUP',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['fishing', 'recreation', 'touring'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Stable catamaran-style inflatable fishing SUP with double-sided air chambers, rod holder mounts, and an on-deck fish ruler for stand-up casting and reeling.',
-    definition:
-      'An 11.5-foot inflatable fishing SUP with double-sided air chambers for catamaran-level secondary stability, rod holder mounts, an on-deck fish ruler, and a kayak-inspired hull for stand-up casting, reeling, and touring.',
-    problem:
-      'Anglers need a stable stand-up casting platform that will not wobble or capsize when reeling in a catch or navigating choppy water, while staying portable enough to travel to remote fishing spots.',
-    howItWorks:
-      'The Inflatable Fishing SUP uses thick double-sided air chambers that deliver exceptional secondary stability similar to a catamaran or outrigger. A pointed nose and tail retain deck width with kayak-like tracking, and the drop-stitch PVC core is rated to 15 PSI for a rigid, dependable platform.',
-    audience:
-      'Lure and bass anglers, fly and kayak fishermen, and excursion paddlers who carry coolers, camp seats, and landing nets.',
-    ai_use_cases: [
-      'Stand-up lure and bass fishing',
-      'Fly and kayak fishing from an inflatable platform',
-      'Multi-day fishing excursions with cargo',
-    ],
-    ai_specs: {
-      length: '11\'6"',
-      width: '34"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '27 lbs',
-      max_load: '352 lbs',
-      features: 'Double-sided air chambers, rod mounts, on-deck fish ruler',
-    },
-    ai_comparison:
-      'Compared to standard paddle boards, this fishing SUP adds double-sided catamaran-style air chambers that dramatically increase lateral stability while standing, casting, and reeling, with rod mounts and an integrated fish ruler built in.',
-    ai_faq: [
-      {
-        q: 'Will the board stay stable while fighting a fish?',
-        a: 'Yes. The double-sided air chambers provide catamaran-like secondary stability that prevents wobbling and capsizing while standing, casting, or reeling in a catch.',
-      },
-      {
-        q: 'Is there a place to mount a fish finder?',
-        a: 'Yes. Two professional-grade black plastic mounts ahead of the traction pad can secure rod holders, fish finders, or essential fishing gear.',
-      },
-    ],
-  },
-  {
-    id: 'sup-mini',
-    name: 'Mini SUP Series',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm'],
-    safety_level: 'medium',
-    use_case: ['recreation', 'kids', 'surf', 'pets'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Ultra-versatile mini inflatable SUP that works as a compact paddle board, inflatable surfboard, and bodyboard for kids, adults, and pets.',
-    definition:
-      'A 7-foot ultra-versatile mini inflatable SUP that hybridizes a compact paddle board, inflatable surfboard, and bodyboard, with a short, wide, stable profile for kids, adults, and pets on waves, lakes, pools, and calm bays.',
-    problem:
-      'Families and versatile riders need one compact, portable inflatable platform that works as a kids paddle board, an adult surf or bodyboard, and a pet-friendly floating deck.',
-    howItWorks:
-      'The Mini SUP Series uses a short, wide, highly stable profile with an optimized volume-to-length ratio for maximum buoyancy. Its responsive rocker line and rail profile catch small waves, and a durable puncture-resistant deck withstands dog paws while staying light and quick to inflate.',
-    audience:
-      'Parents introducing kids to paddle sports, adults who want a portable surf or bodyboard hybrid, and pet owners who bring their dogs on the water.',
-    ai_use_cases: [
-      'Kids SUP and surf progression',
-      'Adult bodyboarding and shorebreak surfing',
-      'Pet-friendly lake, pool, and calm bay play',
-    ],
-    ai_specs: {
-      length: '7\'0"',
-      width: '30"',
-      thickness: '4"',
-      max_pressure: '15 PSI',
-      weight: '13 lbs',
-      max_load: '176 lbs',
-      features: 'Multi-colorway options, pet-friendly deck',
-    },
-    ai_comparison:
-      'Compared to standard SUP boards, the Mini SUP is a true multi-purpose hybrid \u2014 paddle board, inflatable surfboard, and bodyboard in one ultra-portable footprint \u2014 with a puncture-resistant, pet-friendly deck.',
-    ai_faq: [
-      {
-        q: 'Can adults ride the Mini SUP?',
-        a: 'Yes. The optimized volume-to-length ratio supports everyone from children to fully-grown adults, whether stand-up paddling, prone bodyboarding, or catching small waves.',
-      },
-      {
-        q: 'Is the deck safe for dogs?',
-        a: 'Yes. The deck uses heavy-duty, puncture-resistant materials engineered to withstand the claws and paws of dogs.',
-      },
-    ],
-  },
-  {
-    id: 'sup-giant',
-    name: 'Multi-Person Giant SUP',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['group recreation', 'family fun', 'group games'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Giant 16.5-foot multi-person inflatable SUP rated for 650 kg with dual-valve inflation, 8-inch hull, multiple handles, and multi-fin tracking.',
-    definition:
-      'A 16.5-foot multi-person giant inflatable SUP with an 8-inch hull, dual-valve inflation, multi-handle configuration, multi-fin tracking, and double cargo bungee systems for group paddling and lake days.',
-    problem:
-      'Groups, families, and friends need a single giant inflatable board that carries multiple riders safely and stays rigid under concentrated loads.',
-    howItWorks:
-      'The Multi-Person Giant SUP uses heavy-duty drop-stitch PVC rated to 15 PSI with a dual-valve system so two people can inflate the large air volume at once. Eight to twelve heavy-duty handles along both rails plus nose and tail handles make carrying and re-boarding easy, while a 4+1 or tri-fin setup keeps the wide board tracking straight.',
-    audience: 'Large families, group adventurers, and friends who want a floating party platform for lake days.',
-    ai_use_cases: [
-      'Group games and challenges on the water',
-      'Group floats and club paddles',
-      'Large family and multi-rider lake outings',
-    ],
-    ai_specs: {
-      length: '16\'6"',
-      width: '59"',
-      thickness: '8"',
-      max_pressure: '15 PSI',
-      weight: '55 lbs',
-      max_load: '1433 lbs',
-      features: 'Dual-valve inflation, multi-handle, multi-fin system',
-    },
-    ai_comparison:
-      'Compared to standard SUP boards, the Giant SUP carries up to 650 kg with an 8-inch hull and dual-valve inflation, using a multi-handle, multi-fin design so whole crews can paddle, carry, and re-board safely.',
-    ai_faq: [
-      {
-        q: 'How many people can ride it?',
-        a: 'The 59-inch-wide platform is rated for a massive 1433 lb load (about 650 kg), comfortably supporting multiple riders, coolers, and safety gear.',
-      },
-      {
-        q: 'How do you inflate such a large board?',
-        a: 'A dual-valve system lets two people inflate the massive internal air volume at the same time, reaching an 11-15 PSI operating range.',
-      },
-    ],
-  },
-  {
-    id: 'sup-lure-skiff',
-    name: 'Utility & Lure Skiff SUP',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'beginner',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['fishing', 'recreation', 'hauling'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Pontoon-wide 47-inch utility SUP with an 880 lb load rating, central viewing window, and dual-thruster mounting for lure fishing and trolling motor setups.',
-    definition:
-      'A 11.5-foot pontoon-wide utility and lure skiff SUP with a 47-inch profile, an 880 lb load rating, a central viewing window, action mounts, and a swallowtail stern with dual-thruster mounting for lure fishing, hauling, and utility use.',
-    problem:
-      'Lure anglers and utility users need a nearly flip-proof inflatable platform with enormous load capacity for the angler, coolers, batteries, and even an electric trolling motor.',
-    howItWorks:
-      'The Utility & Lure Skiff SUP uses a stubby, pontoon-like 47-inch outline that is virtually impossible to flip while casting or fighting large fish. Its heavy-duty reinforced drop-stitch construction is rated for 880 lbs, and the swallowtail stern provides pre-configured mounting space for power propulsion systems.',
-    audience:
-      'Lure and fly anglers, spearfishers, shallow-water observers, and anglers running trolling motors from an inflatable platform.',
-    ai_use_cases: [
-      'Lure and fly angling from a standing or seated platform',
-      'Underwater reconnaissance and spearfishing',
-      'Heavy-duty hauling and stable utility use',
-    ],
-    ai_specs: {
-      length: '11\'6"',
-      width: '47"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '44 lbs',
-      max_load: '880 lbs',
-      features: 'Central viewing window, dual-thruster mounting, action mounts',
-    },
-    ai_comparison:
-      'Compared to standard fishing SUP boards, the Lure Skiff is a pontoon-wide utility platform rated for 880 lbs with a central viewing window, pre-configured dual-thruster mounting, and walkable stability for lure and fly angling.',
-    ai_faq: [
-      {
-        q: 'Can it support a trolling motor?',
-        a: 'Yes. The swallowtail stern includes pre-configured mounting space for power propulsion systems, and the board carries the motor plus batteries within its 880 lb capacity.',
-      },
-      {
-        q: 'What is the central viewing window for?',
-        a: 'The window lets you glass the shallows for structure and bait movement \u2014 ideal for spearfishing and shallow-water observation.',
-      },
-    ],
-  },
-  {
-    id: 'sup-touring-cruiser',
-    name: 'Touring Cruiser SUP',
-    category: 'SUP',
-    region: ['EU', 'US', 'ASIA', 'GLOBAL'],
-    skill: 'intermediate',
-    environment: ['lake', 'river', 'coastal'],
-    water_condition: ['calm', 'light chop'],
-    safety_level: 'medium',
-    use_case: ['touring', 'fitness', 'recreation'],
-    safety_rules: ['life vest recommended', 'leash required', 'check weather before paddling'],
-    desc: 'Long-distance 12.5-foot touring inflatable SUP with a low-profile US fin box, premium 9-inch touring fin, and drop-stitch core for efficient cruising.',
-    definition:
-      'A 12.5-foot touring inflatable SUP board with a low-profile US fin box, a premium 9-inch racing/touring fin, and rigid drop-stitch construction for long-distance cruising, flat-water exploration, and tunable performance paddling.',
-    problem:
-      'Touring paddlers covering long distances need a board with rigid rails that prevent sagging, predictable straight-line tracking, and a fin system they can tune for different water conditions.',
-    howItWorks:
-      'The Touring Cruiser combines a drop-stitch PVC core rated to 15 PSI with rail rigidity to prevent sagging mid-span. A low-profile US fin box accepts the included 9-inch racing/touring fin or aftermarket fins, letting paddlers tune tracking and speed for specific conditions.',
-    audience:
-      'Touring paddlers covering long distances, flat-water explorers, endurance cruisers, and paddlers who want tunable performance.',
-    ai_use_cases: [
-      'Long-distance touring and coastal cruising',
-      'Flat-water exploration and endurance paddling',
-      'Custom performance paddling with US fin upgrades',
-    ],
-    ai_specs: {
-      length: '12\'6"',
-      width: '31"',
-      thickness: '6"',
-      max_pressure: '15 PSI',
-      weight: '24 lbs',
-      max_load: '275 lbs',
-      fins: 'Low-profile US fin box + 9-inch touring fin',
-    },
-    ai_comparison:
-      'Compared to standard all-around boards, the Touring Cruiser adds a 12.5-foot hull with rigid rails and a US fin box system, keeping you locked on course over long distances with less yaw and effort.',
-    ai_faq: [
-      {
-        q: 'Can I use my own fins?',
-        a: 'Yes. The low-profile US fin box is aftermarket ready, so you can swap in your favorite flat-water or racing fins to tune performance.',
-      },
-      {
-        q: 'How do I reach full pressure?',
-        a: 'The included dual-cylinder hand pump moves high volume quickly and reaches higher pressures with less effort, and the board is compatible with the optional olagoon 12VDC electric pump.',
+        q: 'Can adults sit on them?',
+        a: 'Yes. The drop-stitch top deck is rated as static seating for two adults — it works as a poolside bench.',
       },
     ],
   },

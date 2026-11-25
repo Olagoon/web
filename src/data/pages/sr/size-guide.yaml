@@ -1,61 +1,60 @@
 meta:
-  title: Водич за величине и спецификације — Надувни SUP даске | {SITE}
-  description: Димензије, носивости и препоручене примене за сваки olagoon производ. Пронађите одговарајућу величину надувне SUP даске за ваше потребе.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - водич за величине sup дасака
-    - димензије дасака за веслање
-    - спецификације надувних sup дасака
-    - табела величина sup дасака
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Водич за величине и спецификације
-  subtitle: Димензије, носивости и препоручене примене за сваки olagoon производ.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Надувне SUP даске дизајниране за преносивост без жртвовања перформанси. Подесите одговарајућу величину својој тежини и стилу веслања.
-  sup: Даске за веслање у стојећем ставу за туре, јогу, фитнес и рекреативно веслање. Изаберите по дужини и тежини возача.
-  accessory: Опрема и сигуроносна опрема која надопуњује вашу SUP даску. Универзалне величине са више опција.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Производ
-    length: Дужина
-    width: Ширина
-    weight: Тежина
-    max_load: Максимална носивост
-    best_for: Најбоље за
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Како изабрати одговарајућу величину
+  title: How to Choose the Right Size
   cards:
-    - title: SUP даске
-      description: Изаберите дужину на основу своје тежине и намењене употребе. Шире даске (32"+) пружају више стабилности. Дуже даске (11-12 ft) боље држе правац за туре. Тежи веслачи требају даске веће запремине.
-    - title: Туринг SUP даске
-      description: Дуже даске (11–12 ft) најбоље су за преваљивање дистанце и туре. Шире даске (32"+) пружају више стабилности. Проверите носивост за укупно оптерећење укључујући опрему.
-    - title: All-around SUP даске
-      description: Изаберите дужину према тежини возача и намењеној употреби. All-around даске служе за рекреацију, фитнес и јогу. Мање даске су покретљивије.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Пронађите своју даску
-  subtitle: Одговорите на три кратка питања и препоручићемо вам одговарајућу даску.
-  q_experience: Ваше искуство у падлбордингу
-  exp_beginner: Почетник
-  exp_beginner_hint: Нов у падлбордингу
-  exp_intermediate: Средњи ниво
-  exp_intermediate_hint: Сигуран на води
-  exp_advanced: Напредан
-  exp_advanced_hint: Искусан веслач
-  q_use: Како ћете користити даску?
-  use_allaround: Универзална & Рекреација
-  use_touring: Туринг & Дистанце
-  use_yoga: Јога & Фитнес
-  use_fishing: Риболов
-  use_performance: Сурф, Трке & Дивља вода
-  use_family: Породична & Вишеместна
-  use_kids: Деца & Тинејџери
-  q_weight: Тежина веслача
-  w_lt140: Испод 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Изнад 230 lbs (104 kg)
-  results_title: Ваша подударања
-  results_hint: Изаберите искуство, планирану употребу и тежину да видите одговарајуће даске.
-  badge_best: Најбоље подударање
-  view_details: Види детаље
-  start_over: Почни поново
-  compare_all: Упореди све даске
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

@@ -1,61 +1,60 @@
 meta:
-  title: Maat- & Specificatiegids — Opblaasbare SUP's | {SITE}
-  description: Afmetingen, capaciteiten en aanbevolen gebruik voor elk olagoon-product. Vind de juiste maat opblaasbare SUP voor jouw behoeften.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - SUP maatgids
-    - paddle board afmetingen
-    - opblaasbare SUP specificaties
-    - SUP maattabel
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Maat- en specificatiegids
-  subtitle: Afmetingen, capaciteiten en aanbevolen toepassingen voor elk olagoon-product.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Opblaasbare SUP's ontworpen voor draagbaarheid zonder prestatieverlies. Vind de juiste maat voor jouw gewicht en paddlestijl.
-  sup: Stand-up paddleboards voor toertochten, yoga, fitness en recreatief peddelen. Kies op lengte en gewicht van de rijder.
-  accessory: Accessoires en veiligheidsuitrusting om je watersportuitrusting compleet te maken. Universele maten met meerdere opties.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
     product: Product
-    length: Lengte
-    width: Breedte
-    weight: Gewicht
-    max_load: Max. belading
-    best_for: Beste voor
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Hoe kies je de juiste maat
+  title: How to Choose the Right Size
   cards:
-    - title: SUP-boards
-      description: Kies de lengte op basis van je gewicht en beoogd gebruik. Bredere boards (32"+) bieden meer stabiliteit. Langere boards (11-12 voet) houden beter koers tijdens toeren. Zwaardere peddelaars hebben boards met meer volume nodig.
-    - title: Touring SUP's
-      description: Langere boards (11–12 ft) zijn het beste voor afstand en touring. Breedere boards (32"+) bieden meer stabiliteit. Controleer het gewichtsvermogen voor de totale lading inclusief uitrusting.
-    - title: All-round SUP's
-      description: Kies de lengte op basis van het gewicht van de rijder en het beoogde gebruik. All-round boards zijn geschikt voor recreatie, fitness en yoga. Kleinere boards zijn wendbaarder.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Vind jouw board
-  subtitle: Beantwoord drie korte vragen en wij vinden het juiste board voor jou.
-  q_experience: Jouw paddle-ervaring
-  exp_beginner: Beginner
-  exp_beginner_hint: Nieuw met paddleboarden
-  exp_intermediate: Gevorderd
-  exp_intermediate_hint: Comfortabel op het water
-  exp_advanced: Expert
-  exp_advanced_hint: Ervaren paddler
-  q_use: Hoe ga je jouw board gebruiken?
-  use_allaround: Allround & Recreatie
-  use_touring: Touring & Afstand
-  use_yoga: Yoga & Fitness
-  use_fishing: Vissen
-  use_performance: Surf, Race & Wildwater
-  use_family: Familie & Multi-persoon
-  use_kids: Kinderen & Tieners
-  q_weight: Gewicht van de rijder
-  w_lt140: Onder 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Boven 230 lbs (104 kg)
-  results_title: Jouw matches
-  results_hint: Kies je ervaring, gepland gebruik en gewicht om passende boards te zien.
-  badge_best: Beste match
-  view_details: Bekijk details
-  start_over: Opnieuw beginnen
-  compare_all: Alle boards vergelijken
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

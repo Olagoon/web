@@ -394,7 +394,7 @@ test_results:
 
 spec_sheets:
   - name: 'SUP-Serie'
-    href: /supboard/
+    href: /pools/
   - name: 'Rettungswesten und Zubehör'
     href: /accessory/
 

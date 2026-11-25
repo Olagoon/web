@@ -1,61 +1,60 @@
 meta:
-  title: Panduan Ukuran & Spesifikasi — SUP Tiup | {SITE}
-  description: Dimensi, kapasitas, dan penggunaan yang direkomendasikan untuk setiap produk olagoon. Temukan ukuran SUP tiup yang tepat sesuai kebutuhan Anda.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - panduan ukuran sup
-    - dimensi papan dayung
-    - spesifikasi sup tiup
-    - tabel ukuran SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Panduan Ukuran & Spesifikasi
-  subtitle: Dimensi, kapasitas, dan penggunaan yang direkomendasikan untuk setiap produk olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: SUP tiup yang dirancang untuk portabilitas tanpa mengorbankan performa. Cocokkan ukuran yang tepat dengan berat dan gaya dayungan Anda.
-  sup: Papan dayung berdiri untuk touring, yoga, kebugaran, dan pendayungan rekreasi. Pilih berdasarkan panjang dan berat pengendara.
-  accessory: Aksesori dan peralatan keselamatan untuk melengkapi papan SUP Anda. Ukuran universal dengan berbagai pilihan.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Produk
-    length: Panjang
-    width: Lebar
-    weight: Berat
-    max_load: Beban Maks
-    best_for: Terbaik Untuk
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Cara Memilih Ukuran yang Tepat
+  title: How to Choose the Right Size
   cards:
-    - title: Papan SUP
-      description: Pilih panjang berdasarkan berat dan penggunaan yang Anda tuju. Papan lebih lebar (32"+) menawarkan stabilitas lebih besar. Papan lebih panjang (11-12 ft) melacak lebih baik untuk touring. Pendayung lebih berat membutuhkan papan bervolume lebih tinggi.
-    - title: SUP Touring
-      description: Papan lebih panjang (11–12 ft) terbaik untuk menempuh jarak dan touring. Papan lebih lebar (32"+) menawarkan stabilitas lebih besar. Periksa kapasitas beban untuk total muatan termasuk perlengkapan.
-    - title: SUP All-Around
-      description: Pilih panjang berdasarkan berat pengendara dan penggunaan yang dituju. Papan all-around cocok untuk rekreasi, kebugaran, dan yoga. Papan lebih kecil lebih lincah.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Temukan Papan Anda
-  subtitle: Jawab tiga pertanyaan singkat dan kami akan merekomendasikan papan yang tepat untuk Anda.
-  q_experience: Pengalaman paddleboarding Anda
-  exp_beginner: Pemula
-  exp_beginner_hint: Baru mulai paddleboarding
-  exp_intermediate: Menengah
-  exp_intermediate_hint: Nyaman di air
-  exp_advanced: Mahir
-  exp_advanced_hint: Paddler berpengalaman
-  q_use: Bagaimana Anda akan menggunakan papan ini?
-  use_allaround: Serbaguna & Rekreasi
-  use_touring: Touring & Jarak Jauh
-  use_yoga: Yoga & Kebugaran
-  use_fishing: Memancing
-  use_performance: Surf, Balap & Arus Deras
-  use_family: Keluarga & Multipenumpang
-  use_kids: Anak & Remaja
-  q_weight: Berat pengguna
-  w_lt140: Di bawah 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Di atas 230 lbs (104 kg)
-  results_title: Cocok untuk Anda
-  results_hint: Pilih pengalaman, rencana penggunaan, dan berat badan Anda untuk melihat papan yang cocok.
-  badge_best: Paling Cocok
-  view_details: Lihat detail
-  start_over: Mulai ulang
-  compare_all: Bandingkan semua papan
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

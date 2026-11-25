@@ -1,61 +1,60 @@
 meta:
-  title: Vodnik po velikostih in specifikacijah — napihljive deske SUP | {SITE}
-  description: Dimenzije, nosilnosti in priporočene uporabe za vsak izdelek olagoon. Poiščite pravo velikost napihljive deske SUP za svoje potrebe.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - vodnik po velikostih sup
-    - dimenzije deske za veslanje
-    - specifikacije napihljivih sup
-    - tabela velikosti SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Vodnik po velikostih in specifikacijah
-  subtitle: Dimenzije, nosilnosti in priporočene uporabe za vsak izdelek olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Napihljive deske SUP, zasnovane za prenosljivost brez žrtvovanja zmogljivosti. Primerjajte pravo velikost z svojo maso in stilom veslanja.
-  sup: Deske za stoječe veslanje za turizem, jogo, fitnes in rekreacijsko veslanje. Izberite glede na dolžino in maso voznika.
-  accessory: Dodatki in varnostna oprema kot dopolnilo k vaši deski SUP. Univerzalne velikosti z več možnostmi.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Izdelek
-    length: Dolžina
-    width: Širina
-    weight: Masa
-    max_load: Največja obremenitev
-    best_for: Najboljše za
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Kako izbrati pravo velikost
+  title: How to Choose the Right Size
   cards:
-    - title: Deske SUP
-      description: Izberite dolžino glede na svojo maso in predvideno uporabo. Širše deske (32"+) ponujajo več stabilnosti. Daljše deske (11–12 ft) se bolje držijo smeri za turizem. Težji veslači potrebujejo deske z večjim volumnom.
-    - title: Turistične deske SUP
-      description: Daljše deske (11–12 ft) so najboljše za premoščanje razdalj in turizem. Širše deske (32"+) ponujajo več stabilnosti. Preverite nosilnost za skupno obremenitev skupaj z opremo.
-    - title: Vsestranske deske SUP
-      description: Izberite dolžino glede na maso voznika in predvideno uporabo. Vsestranske deske so primerne za rekreacijo, fitnes in jogo. Manjše deske so bolj vodljive.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Poiščite svojo desko
-  subtitle: Odgovorite na tri hitra vprašanja in priporočili vam bomo pravo desko.
-  q_experience: Vaše izkušnje s paddleboardingom
-  exp_beginner: Začetnik
-  exp_beginner_hint: Nov v paddleboarding
-  exp_intermediate: Srednje napreden
-  exp_intermediate_hint: Samozavesten na vodi
-  exp_advanced: Napreden
-  exp_advanced_hint: Izkušen veslač
-  q_use: Kako boste uporabljali desko?
-  use_allaround: Vsestranska & Rekreacija
-  use_touring: Touring & Razdalje
-  use_yoga: Joga & Fitness
-  use_fishing: Ribolov
-  use_performance: Surf, Tekme & Divje vode
-  use_family: Družinska & Večosebna
-  use_kids: Otroci & Najstniki
-  q_weight: Teža veslača
-  w_lt140: Pod 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Nad 230 lbs (104 kg)
-  results_title: Vaši zadetki
-  results_hint: Izberite izkušnje, načrtovano uporabo in težo, da vidite ustrezne deske.
-  badge_best: Najboljši zadetek
-  view_details: Poglej podrobnosti
-  start_over: Začni znova
-  compare_all: Primerjaj vse deske
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

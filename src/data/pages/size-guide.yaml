@@ -1,61 +1,60 @@
 meta:
-  title: Size & Specs Guide — Inflatable SUPs | {SITE}
-  description: Dimensions, capacities, and recommended uses for every olagoon product. Find the right inflatable SUP size for your needs.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - sup size guide
-    - paddle board dimensions
-    - inflatable sup specs
-    - SUP size chart
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
   title: Size & Specs Guide
-  subtitle: Dimensions, capacities, and recommended uses for every olagoon product.
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Inflatable SUPs designed for portability without sacrificing performance. Match the right size to your weight and paddling style.
-  sup: Stand-up paddleboards for touring, yoga, fitness, and recreational paddling. Choose by length and rider weight.
-  accessory: Accessories and safety equipment to complement your SUP board. Universal sizing with multiple options.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
     product: Product
     length: Length
     width: Width
     weight: Weight
-    max_load: Max Load
+    max_load: Capacity
     best_for: Best For
 how_to_choose:
   title: How to Choose the Right Size
   cards:
-    - title: SUP Boards
-      description: Choose length based on your weight and intended use. Wider boards (32"+) offer more stability. Longer boards (11-12 ft) track better for touring. Heavier paddlers need higher volume boards.
-    - title: Touring SUPs
-      description: Longer boards (11–12 ft) are best for covering distance and touring. Wider boards (32"+) offer more stability. Check weight capacity for total load including gear.
-    - title: All-Around SUPs
-      description: Choose length by rider weight and intended use. All-around boards work for recreation, fitness, and yoga. Smaller boards are more maneuverable.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Find Your Board
-  subtitle: Answer three quick questions and we will match you with the right board.
-  q_experience: Your paddling experience
-  exp_beginner: Beginner
-  exp_beginner_hint: New to paddleboarding
-  exp_intermediate: Intermediate
-  exp_intermediate_hint: Comfortable on the water
-  exp_advanced: Advanced
-  exp_advanced_hint: Experienced paddler
-  q_use: How will you use your board?
-  use_allaround: All-Around & Recreation
-  use_touring: Touring & Distance
-  use_yoga: Yoga & Fitness
-  use_fishing: Fishing
-  use_performance: Surf, Race & Whitewater
-  use_family: Family & Multi-Person
-  use_kids: Kids & Teens
-  q_weight: Rider weight
-  w_lt140: Under 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Over 230 lbs (104 kg)
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
   results_title: Your matches
-  results_hint: Select your experience, planned use, and rider weight to see your board matches.
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
   badge_best: Best Match
   view_details: View details
   start_over: Start over
-  compare_all: Compare all boards
+  compare_all: Compare all pools

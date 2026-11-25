@@ -5,22 +5,14 @@ import { APP_PRODUCTS } from 'astrowind:config';
 import { cleanSlug, PRODUCT_PERMALINK_PATTERN } from './permalinks';
 
 const PRODUCT_CATEGORY_LABELS: Record<ProductCategory, string> = {
-  sup: 'SUP Paddle Boards',
+  pool: 'Inflatable Pools',
   accessory: 'Accessories',
 };
 
 const PRODUCT_SERIES_LABELS: Record<ProductSeries, string> = {
-  'all-around': 'All-Around',
-  fishing: 'Fishing SUP',
-  'kids-teens': 'Kids & Teens',
-  mini: 'Mini SUP',
-  'multi-person': 'Multi-Person / Giant',
-  'multi-purpose': 'Utility / Lure Skiff',
-  race: 'Race',
-  surf: 'Surf',
-  touring: 'Touring',
-  whitewater: 'Whitewater',
-  yoga: 'Yoga',
+  plunge: 'Plunge Pools',
+  family: 'Family Pools',
+  grand: 'Grand Pools',
 };
 
 export const productCategoryLabels = PRODUCT_CATEGORY_LABELS;
@@ -213,19 +205,7 @@ export const getProductSeries = async (): Promise<Array<{ slug: ProductSeries; t
       map.set(p.series, (map.get(p.series) ?? 0) + 1);
     }
   });
-  const order: ProductSeries[] = [
-    'all-around',
-    'surf',
-    'touring',
-    'race',
-    'whitewater',
-    'yoga',
-    'fishing',
-    'mini',
-    'kids-teens',
-    'multi-person',
-    'multi-purpose',
-  ];
+  const order: ProductSeries[] = ['plunge', 'family', 'grand'];
   return Array.from(map.entries())
     .sort((a, b) => order.indexOf(a[0]) - order.indexOf(b[0]))
     .map(([slug, count]) => ({
@@ -236,7 +216,7 @@ export const getProductSeries = async (): Promise<Array<{ slug: ProductSeries; t
 };
 
 export const CATEGORY_SLUG_TO_URL: Record<ProductCategory, string> = {
-  sup: 'supboard',
+  pool: 'pools',
   accessory: 'accessory',
 };
 

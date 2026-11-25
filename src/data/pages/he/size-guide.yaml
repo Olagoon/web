@@ -1,61 +1,60 @@
 meta:
-  title: מדריך מידות ומפרטים — לוחות SUP ניפחים | {SITE}
-  description: ממדים, קיבולות ושימושים מומלצים לכל מוצר של olagoon. מצאו את מידת לוח ה-SUP הניפח המתאימה לצרכים שלכם.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - מדריך מידות sup
-    - ממדי לוח חתירה
-    - מפרט sup ניפחים
-    - טבלת מידות sup
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: מדריך מידות ומפרטים
-  subtitle: ממדים, קיבולות ושימושים מומלצים לכל מוצר של olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: לוחות SUP ניפחים שתוכננו לניידות מבלי להתפשר על ביצועים. התאימו את המידה הנכונה למשקל שלכם ולסגנון החתירה שלכם.
-  sup: לוחות חתירה בעמידה לטיולים, יוגה, כושר וחתירת פנאי. בחרו לפי אורך ומשקל הרוכב.
-  accessory: אביזרים וציוד בטיחות המשלימים את לוח ה-SUP שלכם. מידות אוניברסליות עם מספר אפשרויות.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: מוצר
-    length: אורך
-    width: רוחב
-    weight: משקל
-    max_load: עומס מרבי
-    best_for: הטוב ביותר עבור
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: כיצד לבחור את המידה הנכונה
+  title: How to Choose the Right Size
   cards:
-    - title: לוחות SUP
-      description: בחרו אורך בהתאם למשקל שלכם ולשימוש המיועד. לוחות רחבים יותר (32 אינץ׳ ומעלה) מציעים יותר יציבות. לוחות ארוכים יותר (11-12 רגל) שומרים טוב יותר על מסלול בטיולים. חותרים כבדים יותר זקוקים ללוחות בנפח גבוה יותר.
-    - title: לוחות SUP לטיולים
-      description: לוחות ארוכים יותר (11–12 רגל) הם הטובים ביותר לכיסוי מרחקים ולטיולים. לוחות רחבים יותר (32 אינץ׳ ומעלה) מציעים יותר יציבות. בדקו את קיבולת המשקל לעומס הכולל כולל ציוד.
-    - title: לוחות SUP כלליים
-      description: בחרו אורך לפי משקל הרוכב והשימוש המיועד. לוחות כלליים מתאימים לפנאי, לכושר וליוגה. לוחות קטנים יותר זריזים יותר.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: מצאו את לוח ה-SUP שלכם
-  subtitle: ענו על שלוש שאלות קצרות ונמצא לכם את הלוח המתאים.
-  q_experience: ניסיון החתירה שלכם
-  exp_beginner: מתחילים
-  exp_beginner_hint: חדשים ב-SUP
-  exp_intermediate: בינוני
-  exp_intermediate_hint: נוח על המים
-  exp_advanced: מתקדם
-  exp_advanced_hint: חותר מנוסה
-  q_use: איך תשתמשו בלוח?
-  use_allaround: רב-תכליתי ופנאי
-  use_touring: טיולים ומרחקים
-  use_yoga: יוגה וכושר
-  use_fishing: דיג
-  use_performance: גלישה, תחרויות ומים לבנים
-  use_family: משפחתי ורב-משתתפים
-  use_kids: ילדים ובני נוער
-  q_weight: משקל הרוכב
-  w_lt140: עד 140 ליברות (64 ק"ג)
-  w_140_180: 140-180 ליברות (64-82 ק"ג)
-  w_180_230: 180-230 ליברות (82-104 ק"ג)
-  w_gt230: מעל 230 ליברות (104 ק"ג)
-  results_title: ההתאמות שלכם
-  results_hint: בחרו ניסיון, שימוש מתוכנן ומשקל כדי לראות לוחות מתאימים.
-  badge_best: ההתאמה הטובה ביותר
-  view_details: לפרטים
-  start_over: התחלה מחדש
-  compare_all: השוו את כל הלוחות
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

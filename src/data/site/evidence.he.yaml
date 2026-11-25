@@ -437,7 +437,7 @@ test_results:
     detail: שסתומים, טבעות D, תפרים, כושר ציפה
 spec_sheets:
   - name: סדרת SUP
-    href: /supboard/
+    href: /pools/
   - name: אפודות הצלה ואביזרים
     href: /accessory/
 deployment_photos:

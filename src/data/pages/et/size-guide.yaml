@@ -1,61 +1,60 @@
 meta:
-  title: Suuruse ja spetsifikatsioonide juhend — täispuhutavad SUP-id | {SITE}
-  description: Mõõtmed, mahtuvused ja soovitatud kasutused igale olagoon tootele. Leia oma vajadustele sobiv täispuhutava SUP-i suurus.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - supi suuruse juhend
-    - supilaua mõõtmed
-    - täispuhutava supi spetsifikatsioonid
-    - SUP-i suurustabel
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Suuruse ja spetsifikatsioonide juhend
-  subtitle: Mõõtmed, mahtuvused ja soovitatud kasutused igale olagoon tootele.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Täispuhutavad SUP-id on disainitud portatiivsuseks ilma jõudlust ohverdamata. Vali oma kaalule ja sõudestiilile sobiv suurus.
-  sup: Staabilsõudelauad tuurimiseks, joogaks, fitnessiks ja vabaajasõitmiseks. Vali pikkuse ja sõitja kaalu järgi.
-  accessory: Tarvikud ja ohutusvarustus sinu SUP-i täiendamiseks. Universaalsed suurused koos mitme valikuga.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Toode
-    length: Pikkus
-    width: Laius
-    weight: Kaal
-    max_load: Maks. koormus
-    best_for: Parim kasutus
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Kuidas valida õige suurus
+  title: How to Choose the Right Size
   cards:
-    - title: SUP-lauad
-      description: Vali pikkus oma kaalu ja kasutuseesmärgi järgi. Laiemad laudad (32"+) pakuvad rohkem stabiilsust. Pikemad laudad (11-12 ft) hoiavad tuurimisel paremini kurssi. Raskemad sõudjad vajavad suurema mahutavusega laudu.
-    - title: Tuurimise SUP-id
-      description: Pikemad laudad (11–12 ft) on parimad vahemaa läbimiseks ja tuurimiseks. Laiemad laudad (32"+) pakuvad rohkem stabiilsust. Kontrolli kaalumahtuvust kogu koormuse jaoks, sealhulgas varustuse jaoks.
-    - title: Universaalsed SUP-id
-      description: Vali pikkus sõitja kaalu ja kasutuseesmärgi järgi. Universaalsed laudad sobivad vabaajaks, fitnessiks ja joogaks. Väiksemad laudad on manööverdatavamad.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Leia oma laud
-  subtitle: Vasta kolmele kiirele küsimusele ja soovitame sulle sobiva lau.
-  q_experience: Sinu kogemus süstalauaga
-  exp_beginner: Algaja
-  exp_beginner_hint: Süstaga alles alustanud
-  exp_intermediate: Keskmine
-  exp_intermediate_hint: Vees kindel
-  exp_advanced: Edasijõudnud
-  exp_advanced_hint: Kogenud sõudja
-  q_use: Kuidas sa oma lauda kasutad?
-  use_allaround: Universaalne & Vaba aeg
-  use_touring: Retked & Vahemaad
-  use_yoga: Jooga & Fitness
-  use_fishing: Kalastus
-  use_performance: Surf, Võistlus & Kiirvesi
-  use_family: Pere & Mitmekohaline
-  use_kids: Lapsed & Teismelised
-  q_weight: Sõitja kaal
-  w_lt140: Alla 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Üle 230 lbs (104 kg)
-  results_title: Sinu vasted
-  results_hint: Vali kogemus, plaanitud kasutus ja kaal, et näha sobivaid laudu.
-  badge_best: Parim sobivus
-  view_details: Vaata detaile
-  start_over: Alusta uuesti
-  compare_all: Võrdle kõiki laudu
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

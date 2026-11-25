@@ -437,7 +437,7 @@ test_results:
     detail: Katup, D-ring, sambungan, daya apung
 spec_sheets:
   - name: Seri SUP
-    href: /supboard/
+    href: /pools/
   - name: Rompi Pelampung & Aksesori
     href: /accessory/
 deployment_photos:

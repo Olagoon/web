@@ -437,7 +437,7 @@ test_results:
     detail: Ventili, D-prstenovi, šavovi, plovnost
 spec_sheets:
   - name: SUP serija
-    href: /supboard/
+    href: /pools/
   - name: Prsluci za spašavanje i dodaci
     href: /accessory/
 deployment_photos:

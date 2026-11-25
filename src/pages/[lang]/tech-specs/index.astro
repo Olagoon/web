@@ -23,7 +23,7 @@ const metadata = {
 };
 
 const categories: { key: ProductRecord['category']; label: string; desc: string }[] = [
-  { key: 'SUP', label: t('techspecs.sup'), desc: t('techspecs.supDesc') },
+  { key: 'POOL', label: t('techspecs.pool'), desc: t('techspecs.poolDesc') },
   { key: 'ACCESSORY', label: t('techspecs.accessories'), desc: t('techspecs.accessoriesDesc') },
 ];
 
@@ -66,7 +66,7 @@ const catProducts = categories.map((cat) => ({
                     <th class="px-4 py-3 font-semibold whitespace-nowrap">{t('techspecs.paramWeight')}</th>
                     <th class="px-4 py-3 font-semibold whitespace-nowrap">{t('techspecs.paramMaxLoad')}</th>
                     <th class="px-4 py-3 font-semibold whitespace-nowrap">{t('techspecs.paramCapacity')}</th>
-                    {cat.key !== 'SUP' && (
+                    {cat.key !== 'POOL' && (
                       <th class="px-4 py-3 font-semibold whitespace-nowrap">{t('techspecs.paramMaxEngine')}</th>
                     )}
                     <th class="px-4 py-3 font-semibold whitespace-nowrap">{t('techspecs.paramMaterial')}</th>
@@ -85,7 +85,7 @@ const catProducts = categories.map((cat) => ({
                       <td class="px-4 py-3 text-gray-500 dark:text-slate-400">{p.ai_specs.weight || '—'}</td>
                       <td class="px-4 py-3 text-gray-500 dark:text-slate-400">{p.ai_specs.max_load || '—'}</td>
                       <td class="px-4 py-3 text-gray-500 dark:text-slate-400">{p.ai_specs.capacity || '—'}</td>
-                      {cat.key !== 'SUP' && (
+                      {cat.key !== 'POOL' && (
                         <td class="px-4 py-3 text-gray-500 dark:text-slate-400">{p.ai_specs.max_engine || '—'}</td>
                       )}
                       <td class="px-4 py-3 text-gray-500 dark:text-slate-400">

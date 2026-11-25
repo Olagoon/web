@@ -1,61 +1,60 @@
 meta:
-  title: Méret- és specifikációs útmutató — Felfújható SUP-ok | {SITE}
-  description: Méretek, teherbírások és ajánlott felhasználások minden afarar termékhez. Találja meg a megfelelő felfújható SUP méretet az igényeihez.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - sup méret útmutató
-    - paddle lap méretek
-    - felfújható sup specifikációk
-    - SUP mérettáblázat
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Méret- és specifikációs útmutató
-  subtitle: Méretek, teherbírások és ajánlott felhasználások minden afarar termékhez.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Felfújható SUP-ok, amelyek hordozhatóságra lettek tervezve a teljesítmény feláldozása nélkül. Válassza a megfelelő méretet a súlyához és evezési stílusához.
-  sup: Stand-up paddle lapok túrázáshoz, jógához, fitneszhez és szabadidős evezéshez. Válasszon hossz és evező súly szerint.
-  accessory: Kiegészítők és biztonsági felszerelések a SUP lapjához. Univerzális méretezés több opcióval.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Termék
-    length: Hossz
-    width: Szélesség
-    weight: Súly
-    max_load: Maximális terhelés
-    best_for: Legjobb
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Hogyan válassza ki a megfelelő méretet
+  title: How to Choose the Right Size
   cards:
-    - title: SUP lapok
-      description: Válasszon hosszat a súlya és a tervezett használat alapján. A szélesebb lapok (32"+) több stabilitást nyújtanak. A hosszabb lapok (11-12 láb) jobban tartják az irányt túrázáshoz. A nehezebb evezőknek nagyobb térfogatú lapokra van szükségük.
-    - title: Túra SUP-ok
-      description: A hosszabb lapok (11–12 láb) a legjobbak távolságok megtételéhez és túrázáshoz. A szélesebb lapok (32"+) több stabilitást nyújtanak. Ellenőrizze a teherbírást a teljes terhelésre beleértve a felszerelést.
-    - title: All-around SUP-ok
-      description: Válasszon hosszat evező súlya és a tervezett használat szerint. Az all-around lapok megfelelőek szabadidőre, fitneszre és jógához. A kisebb lapok mozgékonyabbak.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Találd meg a táblád
-  subtitle: Válaszolj három rövid kérdésre, és megtaláljuk a megfelelő táblát.
-  q_experience: A SUP-os tapasztalatod
-  exp_beginner: Kezdő
-  exp_beginner_hint: Új a paddleboardozásban
-  exp_intermediate: Középhaladó
-  exp_intermediate_hint: Magabiztos a vízen
-  exp_advanced: Haladó
-  exp_advanced_hint: Tapasztalt evezős
-  q_use: Hogyan fogod használni a táblát?
-  use_allaround: Univerzális & Szabadidő
-  use_touring: Túra & Távolság
-  use_yoga: Jóga & Fitness
-  use_fishing: Horgászat
-  use_performance: Szörf, Verseny & Vadvíz
-  use_family: Családi & Több személyes
-  use_kids: Gyerekek & Tini
-  q_weight: Testsúly
-  w_lt140: 140 lbs (64 kg) alatt
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: 230 lbs (104 kg) felett
-  results_title: Találataid
-  results_hint: Válaszd ki a tapasztalatot, a tervezett használatot és a testsúlyt, hogy lásd a megfelelő táblákat.
-  badge_best: Legjobb találat
-  view_details: Részletek
-  start_over: Újrakezdés
-  compare_all: Összes tábla összehasonlítása
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

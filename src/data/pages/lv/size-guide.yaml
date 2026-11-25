@@ -1,61 +1,60 @@
 meta:
-  title: Izmēru un specifikāciju ceļvedis — piepūšamie SUP | {SITE}
-  description: Izmēri, kravnesība un ieteicamie lietojumi katram olagoon produktam. Atrodiet pareizo piepūšamā SUP izmēru savām vajadzībām.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - sup izmēru ceļvedis
-    - airu dēļu izmēri
-    - piepūšamo sup specifikācijas
-    - SUP izmēru tabula
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Izmēru un specifikāciju ceļvedis
-  subtitle: Izmēri, kravnesība un ieteicamie lietojumi katram olagoon produktam.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Piepūšamie SUP, radīti pārvadājamībai, neupurojoties veiktspējai. Izvēlieties pareizo izmēru atbilstoši savam svaram un airēšanas stilam.
-  sup: Airu dēļi stāvus airēšanai tūrismam, jogai, fitnesam un atpūtas airēšanai. Izvēlieties pēc garuma un braucēja svara.
-  accessory: Aksesuāri un drošības aprīkojums, kas papildina jūsu SUP dēli. Universāli izmēri ar vairākām opcijām.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Produkts
-    length: Garums
-    width: Platums
-    weight: Svars
-    max_load: Maks. kravnesība
-    best_for: Vistam piemērotākais
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Kā izvēlēties pareizo izmēru
+  title: How to Choose the Right Size
   cards:
-    - title: SUP dēļi
-      description: Izvēlieties garumu, pamatojoties uz savu svaru un paredzēto lietojumu. Platāki dēļi (32"+) piedāvā vairāk stabilitātes. Garāki dēļi (11-12 pēdas) labāk notur virzienu tūrismam. Smagākiem airētājiem vajadzīgi lielāka tilpuma dēļi.
-    - title: Tūrisma SUP
-      description: Garāki dēļi (11–12 pēdas) ir vislabākie attālumu veikšanai un tūrismam. Platāki dēļi (32"+) piedāvā vairāk stabilitātes. Pārbaudiet kravnesību kopējai slodzei, ieskaitot aprīkojumu.
-    - title: Universālie SUP
-      description: Izvēlieties garumu pēc braucēja svara un paredzētā lietojuma. Universālie dēļi der atpūtai, fitnesam un jogai. Mazāki dēļi ir manevrēt spējīgāki.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Atrodiet savu dēli
-  subtitle: Atbildiet uz trim īsiem jautājumiem, un mēs ieteiksim jums piemērotu dēli.
-  q_experience: Jūsu SUP pieredze
-  exp_beginner: Iesācējs
-  exp_beginner_hint: Tikko sācis ar SUP
-  exp_intermediate: Vidējs
-  exp_intermediate_hint: Pārliecināti uz ūdens
-  exp_advanced: Pieredzējis
-  exp_advanced_hint: Pieredzējis airētājs
-  q_use: Kā jūs izmantosiet dēli?
-  use_allaround: Universāls & Atpūta
-  use_touring: Tūres & Distances
-  use_yoga: Joga & Fitness
-  use_fishing: Makšķerēšana
-  use_performance: Sērfošana, Sacīkstes & Baltais ūdens
-  use_family: Ģimenes & Daudzvietīgs
-  use_kids: Bērni & Pusaudži
-  q_weight: Braucēja svars
-  w_lt140: Zem 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Virs 230 lbs (104 kg)
-  results_title: Jūsu atbilstības
-  results_hint: Izvēlieties pieredzi, plānoto lietojumu un svaru, lai redzētu piemērotos dēļus.
-  badge_best: Labākā atbilstība
-  view_details: Skatīt detaļas
-  start_over: Sākt no jauna
-  compare_all: Salīdzināt visus dēļus
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

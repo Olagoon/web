@@ -1,61 +1,60 @@
 meta:
-  title: Руководство по размерам и спецификациям — надувные SUP-доски | {SITE}
-  description: Размеры, вместимость и рекомендуемое применение каждого продукта olagoona. Найдите надувную SUP-доску нужного размера для ваших задач.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - гид по размерам SUP
-    - размеры paddle board
-    - спецификации надувных SUP
-    - таблица размеров SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Руководство по размерам и спецификациям
-  subtitle: Размеры, вместимость и рекомендуемые применения для каждого продукта olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Надувные SUP-доски, созданные для портативности без ущерба для производительности. Подберите размер под свой вес и стиль гребли.
-  sup: Сапборды для туринга, йоги, фитнеса и развлекательного катания. Выбирайте по длине и весу райдера.
-  accessory: Аксессуары и средства безопасности для дополнения вашей SUP-доски. Универсальные размеры с несколькими вариантами.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Продукт
-    length: Длина
-    width: Ширина
-    weight: Вес
-    max_load: Макс. нагрузка
-    best_for: Лучше всего для
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Как выбрать правильный размер
+  title: How to Choose the Right Size
   cards:
-    - title: SUP-доски
-      description: Выбирайте длину в зависимости от вашего веса и предполагаемого использования. Более широкие доски (32"+) обеспечивают большую устойчивость. Более длинные доски (11-12 футов) лучше держат курс для туринга. Более тяжелым гребцам нужны доски большего объема.
-    - title: Туринговые SUP-доски
-      description: Более длинные доски (11–12 футов) лучше всего подходят для преодоления дистанций и туринга. Более широкие доски (32"+) обеспечивают большую устойчивость. Проверьте грузоподъемность для общей нагрузки включая снаряжение.
-    - title: Универсальные SUP-доски
-      description: Выбирайте длину по весу райдера и предполагаемому использованию. Универсальные доски подходят для отдыха, фитнеса и йоги. Доски меньшего размера более маневренные.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Подберите свой борд
-  subtitle: Ответьте на три коротких вопроса, и мы подберём вам подходящий борд.
-  q_experience: Ваш опыт в сапсёрфинге
-  exp_beginner: Новичок
-  exp_beginner_hint: Впервые на сапборде
-  exp_intermediate: Средний уровень
-  exp_intermediate_hint: Уверенно держусь на воде
-  exp_advanced: Продвинутый
-  exp_advanced_hint: Опытный паддлер
-  q_use: Как вы будете использовать борд?
-  use_allaround: Универсальный & Отдых
-  use_touring: Туризм & Дистанции
-  use_yoga: Йога & Фитнес
-  use_fishing: Рыбалка
-  use_performance: Сёрф, Гонки & Дикая вода
-  use_family: Семейный & Многоместный
-  use_kids: Дети & Подростки
-  q_weight: Вес райдера
-  w_lt140: До 140 lbs (64 кг)
-  w_140_180: 140-180 lbs (64-82 кг)
-  w_180_230: 180-230 lbs (82-104 кг)
-  w_gt230: Свыше 230 lbs (104 кг)
-  results_title: Ваши совпадения
-  results_hint: Выберите опыт, планируемое использование и вес, чтобы увидеть подходящие борды.
-  badge_best: Лучший выбор
-  view_details: Подробнее
-  start_over: Начать заново
-  compare_all: Сравнить все борды
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

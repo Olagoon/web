@@ -1,61 +1,60 @@
 meta:
-  title: Gabay sa Laki at Specs — Mga Inflatable SUP | {SITE}
-  description: Mga dimensyon, kapasidad, at inirerekomendang paggamit para sa bawat produkto ng olagoon. Hanapin ang tamang laki ng inflatable SUP para sa iyong mga pangangailangan.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - gabay sa laki ng sup
-    - dimensyon ng paddle board
-    - specs ng inflatable sup
-    - Tsart ng laki ng SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Gabay sa Laki at Specs
-  subtitle: Mga dimensyon, kapasidad, at inirerekomendang paggamit para sa bawat produkto ng olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Mga Inflatable SUP na dinisenyo para sa portability nang hindi isinasakripisyo ang pagganap. Iugnay ang tamang laki sa iyong timbang at istilo ng pagkakayak.
-  sup: Mga stand-up paddleboard para sa touring, yoga, fitness, at recreational na pagkakayak. Pumili ayon sa haba at timbang ng rider.
-  accessory: Mga accessory at kagamitang pangkaligtasan upang dumugtong sa iyong SUP board. Pangkalahatang laki na may maraming opsyon.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Produkto
-    length: Haba
-    width: Lapad
-    weight: Timbang
-    max_load: Pinakamataas na Karga
-    best_for: Pinakamahusay Para Sa
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Paano Pumili ng Tamang Laki
+  title: How to Choose the Right Size
   cards:
-    - title: Mga SUP Board
-      description: Pumili ng haba batay sa iyong timbang at inaasahang paggamit. Ang mas malawak na board (32"+) ay nag-aalok ng mas maraming stability. Ang mas mahabang board (11-12 ft) ay mas mahusay mag-track para sa touring. Ang mas mabibigat na paddler ay nangangailangan ng mas mataas na volume na board.
-    - title: Mga Touring SUP
-      description: Ang mas mahabang board (11–12 ft) ang pinakamahusay para sa paglalakbay ng malayo at touring. Ang mas malawak na board (32"+) ay nag-aalok ng mas maraming stability. Tingnan ang kapasidad ng timbang para sa kabuuang karga kabilang ang gamit.
-    - title: Mga All-Around SUP
-      description: Pumili ng haba ayon sa timbang ng rider at inaasahang paggamit. Gumagana ang mga all-around board para sa recreation, fitness, at yoga. Ang mas maliliit na board ay mas madaling maniobrahin.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Tuklasin ang Tamang Board para sa Iyo
-  subtitle: Sagutin ang tatlong mabilis na tanong at irekomenda namin ang tamang board para sa iyo.
-  q_experience: Experience mo sa paddleboarding
-  exp_beginner: Baguhan
-  exp_beginner_hint: Bago sa paddleboarding
-  exp_intermediate: Katamtaman
-  exp_intermediate_hint: Komportable sa tubig
-  exp_advanced: Advanced
-  exp_advanced_hint: Sanay na paddler
-  q_use: Paano mo gagamitin ang board?
-  use_allaround: All-around & Rilibasyon
-  use_touring: Touring & Malayong Biyahe
-  use_yoga: Yoga & Fitness
-  use_fishing: Pangingisda
-  use_performance: Surf, Karera & Whitewater
-  use_family: Pampamilya & Maraming Sakay
-  use_kids: Mga Bata & Kabataan
-  q_weight: Timbang ng rider
-  w_lt140: Mas mababa sa 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Higit sa 230 lbs (104 kg)
-  results_title: Mga Match Mo
-  results_hint: Piliin ang experience, balak na gamit, at timbang para makita ang mga angkop na board.
-  badge_best: Pinakaangkop
-  view_details: Tingnan ang detalye
-  start_over: Muling magsimula
-  compare_all: Ihambing ang lahat ng board
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

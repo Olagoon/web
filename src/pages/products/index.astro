@@ -22,21 +22,9 @@ import type { MetaData } from '~/types';
 const products = await getProducts();
 const categories = await getProductCategories();
 const seriesArr = await getProductSeries();
-const rawCategory = (Astro.url?.searchParams?.get('category') ?? '') as 'accessory' | 'sup' | '';
-const activeCategory = rawCategory === 'accessory' || rawCategory === 'sup' ? rawCategory : null;
-const rawSeries = (Astro.url?.searchParams?.get('series') ?? '') as
-  | 'all-around'
-  | 'fishing'
-  | 'kids-teens'
-  | 'mini'
-  | 'multi-person'
-  | 'multi-purpose'
-  | 'race'
-  | 'surf'
-  | 'touring'
-  | 'whitewater'
-  | 'yoga'
-  | '';
+const rawCategory = (Astro.url?.searchParams?.get('category') ?? '') as 'accessory' | 'pool' | '';
+const activeCategory = rawCategory === 'accessory' || rawCategory === 'pool' ? rawCategory : null;
+const rawSeries = (Astro.url?.searchParams?.get('series') ?? '') as 'plunge' | 'family' | 'grand' | '';
 const activeSeries = seriesArr.some((s) => s.slug === rawSeries) ? rawSeries : null;
 const filteredByCategory = activeCategory ? products.filter((p) => p.category === activeCategory) : products;
 const filteredProducts = activeSeries

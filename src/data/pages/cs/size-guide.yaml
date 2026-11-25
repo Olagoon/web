@@ -1,61 +1,60 @@
 meta:
-  title: Průvodce velikostmi — nafukovací SUP prkna | {SITE}
-  description: Rozměry, kapacity a doporučené použití každého produktu olagoona. Najděte správnou velikost nafukovacího SUP prkna pro své potřeby.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - průvodce velikostí SUP
-    - rozměry paddleboardů
-    - specifikace nafukovacích SUP
-    - tabulka velikostí SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Průvodce velikostmi a specifikacemi
-  subtitle: Rozměry, kapacity a doporučené použití pro každý produkt olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Nafukovací SUP desky navržené pro přenosnost bez obětování výkonu. Vyberte správnou velikost podle své váhy a stylu pádlování.
-  sup: Paddleboardy pro túry, jógu, fitness i rekreační pádlování. Vybírejte podle délky a hmotnosti jezdce.
-  accessory: Příslušenství a bezpečnostní vybavení doplňující vaše plavidlo. Univerzální velikosti s více možnostmi.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Produkt
-    length: Délka
-    width: Šířka
-    weight: Hmotnost
-    max_load: Max. zatížení
-    best_for: Nejlepší pro
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Jak vybrat správnou velikost
+  title: How to Choose the Right Size
   cards:
-    - title: SUP prkna
-      description: Zvolte délku podle své hmotnosti a zamýšleného použití. Širší prkna (32"+) nabízejí větší stabilitu. Delší prkna (11-12 stop) lépe kloužou pro výlety. Těžší pádlaři potřebují prkna s vyšším objemem.
-    - title: Touring SUP desky
-      description: Delší desky (11–12 stop) jsou nejlepší pro zdolávání vzdáleností a touring. Širší desky (32"+) nabízejí větší stabilitu. Zkontrolujte nosnost pro celkovou zátěž včetně vybavení.
-    - title: SUP a SUP
-      description: Zvolte délku SUP podle počtu cestujících a zamýšleného použití. Větší SUP (4,5 m+) jsou vhodné pro moře a záchranu. Menší SUP (2,7 m) slouží jako tendry a rybářské platformy.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Najděte svou desku
-  subtitle: Odpovězte na tři rychlé otázky a my vám doporučíme správnou desku.
-  q_experience: Vaše zkušenost s paddleboardingem
-  exp_beginner: Začátečník
-  exp_beginner_hint: Nový na paddleboardu
-  exp_intermediate: Středně pokročilý
-  exp_intermediate_hint: Jistota na vodě
-  exp_advanced: Pokročilý
-  exp_advanced_hint: Zkušený pádlovač
-  q_use: Jak budete desku používat?
-  use_allaround: Univerzální & Rekreace
-  use_touring: Touring & Vzdálenosti
-  use_yoga: Jóga & Fitness
-  use_fishing: Rybaření
-  use_performance: Surf, Závody & Divoká voda
-  use_family: Rodinná & Víceosobní
-  use_kids: Děti & Teenageři
-  q_weight: Váha jezdce
-  w_lt140: Pod 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Nad 230 lbs (104 kg)
-  results_title: Vaše shody
-  results_hint: Vyberte svou zkušenost, plánované použití a váhu a uvidíte vhodné desky.
-  badge_best: Nejlepší shoda
-  view_details: Zobrazit detaily
-  start_over: Začít znovu
-  compare_all: Porovnat všechny desky
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

@@ -437,7 +437,7 @@ test_results:
     detail: Vožtuvai, D žiedai, siūlės, plūdumas
 spec_sheets:
   - name: SUP serija
-    href: /supboard/
+    href: /pools/
   - name: Gelbėjimo liemenės ir priedai
     href: /accessory/
 deployment_photos:

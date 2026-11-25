@@ -43,20 +43,9 @@ export interface Taxonomy {
   title: string;
 }
 
-export type ProductCategory = 'sup' | 'accessory';
+export type ProductCategory = 'pool' | 'accessory';
 
-export type ProductSeries =
-  | 'all-around'
-  | 'fishing'
-  | 'kids-teens'
-  | 'mini'
-  | 'multi-person'
-  | 'multi-purpose'
-  | 'race'
-  | 'surf'
-  | 'touring'
-  | 'whitewater'
-  | 'yoga';
+export type ProductSeries = 'plunge' | 'family' | 'grand';
 
 export interface ProductSpec {
   label: string;

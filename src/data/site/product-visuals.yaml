@@ -1,27 +1,15 @@
 visuals:
-  - id: life-vest-classic
-    image: https://assets.olagoon.com/images/olagoon/products/olagoon-life-vest-classic.webp
-  - id: life-vest-pro
-    image: https://assets.olagoon.com/images/olagoon/products/life-jacket-olagoon-inflatable-boat-olagoon-factory-exterior.webp
-  - id: sup-explorer-11
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
-  - id: sup-cheetah-surge
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-cheetah-surge-1-1200w.webp
-  - id: sup-leviathan-wake
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-leviathan-wake-1-1200w.webp
-  - id: sup-medusa-glow
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-medusa-glow-1-1200w.webp
-  - id: sup-ocean-pulse
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-pulse-1-1200w.webp
-  - id: sup-ocean-voyager
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  - id: sup-dolphin-wave
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-dolphin-wave-1-1200w.webp
-  - id: sup-flowing-lotus
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp
-  - id: sup-jungle-mandala
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-1-1200w.webp
-  - id: sup-tropical-breeze
-    image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp
-  - id: oars-pump-set
-    image: https://assets.olagoon.com/images/olagoon/products/accessories/oar-pump-1.webp
+  - id: compact-plunge
+    image: /images/olagoon/products/compact-plunge.webp
+  - id: family-oasis
+    image: /images/olagoon/products/family-oasis.webp
+  - id: grand-lagoon
+    image: /images/olagoon/products/grand-lagoon.webp
+  - id: sand-filter-pump
+    image: /images/olagoon/products/sand-filter-pump.webp
+  - id: thermal-cover
+    image: /images/olagoon/products/thermal-cover.webp
+  - id: ground-mat
+    image: /images/olagoon/products/ground-mat.webp
+  - id: entry-steps
+    image: /images/olagoon/products/entry-steps.webp

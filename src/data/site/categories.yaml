@@ -1,8 +1,8 @@
-SUP:
-  name: SUP Paddle Boards
-  image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
-  gradient: from-sky-400 to-blue-500
+POOL:
+  name: Inflatable Pools
+  image: /images/olagoon/products/family-oasis.webp
+  gradient: from-teal-400 to-cyan-600
 ACCESSORY:
   name: Accessories
-  image: https://assets.olagoon.com/images/olagoon/categories/olagoon-accessories-category.webp
-  gradient: from-violet-400 to-purple-500
+  image: /images/olagoon/products/entry-steps.webp
+  gradient: from-slate-400 to-slate-600

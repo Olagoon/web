@@ -1,61 +1,60 @@
 meta:
-  title: Ghid de dimensiuni și specificații — plăci de SUP gonflabile | {SITE}
-  description: Dimensiuni, capacități și utilizări recomandate pentru fiecare produs olagoon. Găsiți dimensiunea potrivită de placă de SUP gonflabilă pentru nevoile voastre.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - ghid de dimensiuni SUP
-    - dimensiuni paddle board
-    - specificații SUP gonflabil
-    - tabel de dimensiuni SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Ghid de dimensiuni și specificații
-  subtitle: Dimensiuni, capacități și utilizare recomandată pentru fiecare produs olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: Plăci SUP gonflabile proiectate pentru portabilitate fără a compromite performanța. Alege dimensiunea potrivită greutății și stilului tău de canotaj.
-  sup: Plăci de stand-up paddle pentru touring, yoga, fitness și canotaj recreativ. Alege în funcție de lungime și de greutatea practicantului.
-  accessory: Accesorii și echipamente de siguranță pentru a completa placa ta de SUP. Dimensiuni universale cu mai multe opțiuni.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Produs
-    length: Lungime
-    width: Lățime
-    weight: Greutate
-    max_load: Sarcină max.
-    best_for: Cel mai bun pentru
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Cum să alegi dimensiunea potrivită
+  title: How to Choose the Right Size
   cards:
-    - title: Plăci SUP
-      description: Alege lungimea în funcție de greutatea ta și utilizarea dorită. Plăcile mai late (32"+) oferă mai multă stabilitate. Plăcile mai lungi (11-12 ft) mențin direcția mai bine pentru touring. Practicanții mai grei au nevoie de plăci cu volum mai mare.
-    - title: Plăci SUP de touring
-      description: Plăcile mai lungi (11–12 ft) sunt cele mai bune pentru distanțe lungi și touring. Plăcile mai late (32"+) oferă mai multă stabilitate. Verifică capacitatea de greutate pentru încărcătura totală inclusiv echipamentul.
-    - title: Plăci SUP all-around
-      description: Alege lungimea în funcție de greutatea practicantului și utilizarea dorită. Plăcile all-around sunt potrivite pentru recreere, fitness și yoga. Plăcile mai mici sunt mai manevrabile.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Găsește-ți placa
-  subtitle: Răspunde la trei întrebări rapide și îți recomandăm placa potrivită.
-  q_experience: Experiența ta la paddle
-  exp_beginner: Începător
-  exp_beginner_hint: Nou în paddleboarding
-  exp_intermediate: Intermediar
-  exp_intermediate_hint: Confortabil pe apă
-  exp_advanced: Avansat
-  exp_advanced_hint: Paddler experimentat
-  q_use: Cum vei folosi placa?
-  use_allaround: All-around & Recreere
-  use_touring: Touring & Distanțe
-  use_yoga: Yoga & Fitness
-  use_fishing: Pescuit
-  use_performance: Surf, Curse & Ape repezi
-  use_family: Familie & Multi-persoane
-  use_kids: Copii & Adoleanți
-  q_weight: Greutatea paddlerului
-  w_lt140: Sub 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Peste 230 lbs (104 kg)
-  results_title: Rezultatele tale
-  results_hint: Alege experiența, utilizarea planificată și greutatea pentru a vedea plăcile potrivite.
-  badge_best: Cea mai bună potrivire
-  view_details: Vezi detaliile
-  start_over: Începe din nou
-  compare_all: Compară toate plăcile
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

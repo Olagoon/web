@@ -1,61 +1,60 @@
 meta:
-  title: Guía de Tallas y Especificaciones — SUP Inflables | {SITE}
-  description: Dimensiones, capacidades y usos recomendados para cada producto olagoon. Encuentre el tamaño correcto de SUP inflable para sus necesidades.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - guía de tallas de SUP
-    - dimensiones de paddle surf
-    - especificaciones de SUP hinchable
-    - tabla de tamaños de SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Guía de tallas y especificaciones
-  subtitle: Dimensiones, capacidades y usos recomendados para cada producto olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: SUP inflables diseñados para portabilidad sin sacrificar rendimiento. Elija la talla adecuada según su peso y estilo de remado.
-  sup: Tablas de paddle surf para excursiones, yoga, fitness y remo recreativo. Elige según la longitud y el peso del usuario.
-  accessory: Accesorios y equipos de seguridad para complementar su tabla SUP. Tallas universales con múltiples opciones.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Producto
-    length: Longitud
-    width: Ancho
-    weight: Peso
-    max_load: Carga máxima
-    best_for: Mejor para
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Cómo elegir la talla correcta
+  title: How to Choose the Right Size
   cards:
-    - title: Tablas SUP
-      description: Elija la longitud según su peso y uso previsto. Las tablas más anchas (32"+) ofrecen más estabilidad. Las tablas más largas (11-12 pies) trackean mejor para touring. Los remeros más pesados necesitan tablas de mayor volumen.
-    - title: SUPs de Travesía
-      description: Las tablas más largas (11–12 pies) son las mejores para cubrir distancia y travesías. Las tablas más anchas (32"+) ofrecen más estabilidad. Verifique la capacidad de peso para la carga total incluyendo equipo.
-    - title: SUPs All-Around
-      description: Elija la longitud según el peso del rider y el uso previsto. Las tablas all-around sirven para recreación, fitness y yoga. Las tablas más pequeñas son más maniobrables.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Encuentra tu tabla
-  subtitle: Responde tres preguntas rápidas y te recomendaremos la tabla adecuada.
-  q_experience: Tu experiencia con el paddle
-  exp_beginner: Principiante
-  exp_beginner_hint: Nuevo en el paddle surf
-  exp_intermediate: Intermedio
-  exp_intermediate_hint: Cómodo en el agua
-  exp_advanced: Avanzado
-  exp_advanced_hint: Paddler experimentado
-  q_use: ¿Cómo usarás tu tabla?
-  use_allaround: Polivalente & Recreo
-  use_touring: Travesías & Distancia
-  use_yoga: Yoga & Fitness
-  use_fishing: Pesca
-  use_performance: Surf, Competición & Aguas bravas
-  use_family: Familiar & Multiplaza
-  use_kids: Niños & Adolescentes
-  q_weight: Peso del rider
-  w_lt140: Menos de 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Más de 230 lbs (104 kg)
-  results_title: Tus coincidencias
-  results_hint: Selecciona tu experiencia, el uso previsto y tu peso para ver las tablas adecuadas.
-  badge_best: Mejor opción
-  view_details: Ver detalles
-  start_over: Empezar de nuevo
-  compare_all: Comparar todas las tablas
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

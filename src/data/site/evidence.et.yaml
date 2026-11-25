@@ -437,7 +437,7 @@ test_results:
     detail: Klapid, D-rõngad, õmblused, ujuvus
 spec_sheets:
   - name: SUP-seeria
-    href: /supboard/
+    href: /pools/
   - name: Päästevestid ja tarvikud
     href: /accessory/
 deployment_photos:

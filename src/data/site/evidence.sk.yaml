@@ -437,7 +437,7 @@ test_results:
     detail: Ventily, D-krúžky, švy, vztlak
 spec_sheets:
   - name: Séria SUP
-    href: /supboard/
+    href: /pools/
   - name: Záchranné vesty a príslušenstvo
     href: /accessory/
 deployment_photos:

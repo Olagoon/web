@@ -437,7 +437,7 @@ test_results:
     detail: Вентили, D-пръстени, шевове, плавателност
 spec_sheets:
   - name: Серия SUP
-    href: /supboard/
+    href: /pools/
   - name: Спасителни жилетки и аксесоари
     href: /accessory/
 deployment_photos:

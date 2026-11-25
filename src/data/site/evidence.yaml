@@ -391,7 +391,7 @@ test_results:
 
 spec_sheets:
   - name: SUP Series
-    href: /supboard/
+    href: /pools/
   - name: Life Vests & Accessories
     href: /accessory/
 

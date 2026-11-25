@@ -437,7 +437,7 @@ test_results:
     detail: Injap, D-ring, jahitan, keapungan
 spec_sheets:
   - name: Siri SUP
-    href: /supboard/
+    href: /pools/
   - name: Jaket Keselamatan & Aksesori
     href: /accessory/
 deployment_photos:

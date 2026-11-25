@@ -1,61 +1,60 @@
 meta:
-  title: Guia de Tamanhos e Especificações — SUPs Infláveis | {SITE}
-  description: Dimensões, capacidades e usos recomendados para cada produto olagoon. Encontre o tamanho certo de SUP inflável para as suas necessidades.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - guia de tamanhos de SUP
-    - dimensões de paddle board
-    - especificações de SUP inflável
-    - tabela de tamanhos de SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: Guia de tamanhos e especificações
-  subtitle: Dimensões, capacidades e usos recomendados para cada produto olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: SUPs infláveis projetados para portabilidade sem sacrificar o desempenho. Escolha o tamanho certo para o seu peso e estilo de remar.
-  sup: Pranchas de stand-up paddle para passeios, yoga, fitness e remadas recreativas. Escolha pelo comprimento e peso do praticante.
-  accessory: Acessórios e equipamentos de segurança para complementar a sua prancha de SUP. Tamanhos universais com múltiplas opções.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: Produto
-    length: Comprimento
-    width: Largura
-    weight: Peso
-    max_load: Carga máx.
-    best_for: Melhor para
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: Como escolher o tamanho certo
+  title: How to Choose the Right Size
   cards:
-    - title: Pranchas SUP
-      description: Escolha o comprimento com base no seu peso e uso pretendido. Pranchas mais largas (32"+) oferecem mais estabilidade. Pranchas mais longas (11-12 pés) trackeiam melhor para touring. Remadores mais pesados precisam de pranchas de maior volume.
-    - title: SUPs de Touring
-      description: Pranchas mais longas (11–12 pés) são as melhores para percorrer distâncias e touring. Pranchas mais largas (32"+) oferecem mais estabilidade. Verifique a capacidade de peso para a carga total incluindo o equipamento.
-    - title: SUPs Versáteis
-      description: Escolha o comprimento pelo peso do praticante e uso pretendido. Pranchas versáteis servem para recreação, fitness e yoga. Pranchas menores são mais manobráveis.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: Encontre a sua prancha
-  subtitle: Responda a três perguntas rápidas e encontramos a prancha certa para você.
-  q_experience: A sua experiência de paddle
-  exp_beginner: Iniciante
-  exp_beginner_hint: Novo no paddle
-  exp_intermediate: Intermédio
-  exp_intermediate_hint: À vontade na água
-  exp_advanced: Avançado
-  exp_advanced_hint: Paddler experiente
-  q_use: Como vai usar a sua prancha?
-  use_allaround: Multifuncional & Lazer
-  use_touring: Touring & Distância
-  use_yoga: Yoga & Fitness
-  use_fishing: Pesca
-  use_performance: Surf, Competição & Águas bravas
-  use_family: Família & Multi-pessoas
-  use_kids: Crianças & Adolescentes
-  q_weight: Peso do praticante
-  w_lt140: Menos de 140 lbs (64 kg)
-  w_140_180: 140-180 lbs (64-82 kg)
-  w_180_230: 180-230 lbs (82-104 kg)
-  w_gt230: Mais de 230 lbs (104 kg)
-  results_title: As suas correspondências
-  results_hint: Selecione a sua experiência, a utilização prevista e o seu peso para ver as pranchas adequadas.
-  badge_best: Melhor opção
-  view_details: Ver detalhes
-  start_over: Recomeçar
-  compare_all: Comparar todas as pranchas
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

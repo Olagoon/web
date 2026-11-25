@@ -17,10 +17,10 @@ const isDefault = locale === 'en';
 const file = siteFileForLocale('src/data/site/categories.yaml', locale);
 
 const defaultData: Record<string, { name: string; image: string; gradient: string }> = {
-  SUP: {
-    name: 'SUP Paddle Boards',
-    image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp',
-    gradient: 'from-sky-400 to-blue-500',
+  POOL: {
+    name: 'Inflatable Pools',
+    image: '/images/olagoon/products/family-oasis.webp',
+    gradient: 'from-teal-400 to-cyan-600',
   },
   ACCESSORY: {
     name: 'Accessories',
@@ -216,7 +216,7 @@ const keys = Object.keys(defaultData);
         saveBtn.textContent = 'Saving...';
         publishBtn.disabled = true;
         const fd = new FormData(form);
-        const keys = ['SUP', 'ACCESSORY'];
+        const keys = ['POOL', 'ACCESSORY'];
         const data = {};
         for (const key of keys) {
           data[key] = {

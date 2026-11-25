@@ -437,7 +437,7 @@ test_results:
     detail: Mga balbula, D-ring, tahi, at kakayahang lumutang
 spec_sheets:
   - name: Serye ng SUP
-    href: /supboard/
+    href: /pools/
   - name: Mga Life Vest at Aksesorya
     href: /accessory/
 deployment_photos:

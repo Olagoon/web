@@ -437,7 +437,7 @@ test_results:
     detail: Szelepek, D-gyűrűk, varratok, úszóképesség
 spec_sheets:
   - name: SUP-széria
-    href: /supboard/
+    href: /pools/
   - name: Mentőmellények és kiegészítők
     href: /accessory/
 deployment_photos:

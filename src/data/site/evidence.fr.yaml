@@ -391,7 +391,7 @@ test_results:
 
 spec_sheets:
   - name: 'Gamme paddle'
-    href: /supboard/
+    href: /pools/
   - name: 'Gilets de sauvetage et accessoires'
     href: /accessory/
 

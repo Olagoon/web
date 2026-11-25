@@ -1,61 +1,60 @@
 meta:
-  title: دليل المقاسات والمواصفات — ألواح SUP القابلة للنفخ | {SITE}
-  description: الأبعاد، والسعات، والاستخدامات الموصى بها لكل منتج من olagoon. ابحث عن المقاس المناسب للوح SUP القابل للنفخ لاحتياجاتك.
+  title: Size & Specs Guide — Drop-Stitch Inflatable Pools | {SITE}
+  description: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory. Find the right inflatable pool size for your backyard.
   keywords:
-    - دليل مقاسات SUP
-    - أبعاد ألواح التجديف
-    - مواصفات SUP القابلة للنفخ
-    - جدول مقاسات SUP
+    - inflatable pool size guide
+    - drop-stitch pool dimensions
+    - inflatable pool specs
+    - pool size chart
 hero:
-  title: دليل المقاسات والمواصفات
-  subtitle: الأبعاد والسعات والاستخدامات الموصى بها لكل منتج olagoon.
+  title: Size & Specs Guide
+  subtitle: Dimensions, capacities, and recommended uses for every OLagoon pool and accessory.
 categories:
-  inflatable: ألواح SUP قابلة للنفخ مصممة لقابلية النقل دون التضحية بالأداء. اختر المقاس المناسب لوزنك وأسلوب تجديفك.
-  sup: ألواح التجديف الدائمة (SUP) للتجديف السياحي واليوجا واللياقة البدنية والترفيه. اختر حسب الطول ووزن المستخدم.
-  accessory: إكسسوارات ومعدات سلامة لتكملة مركبتك المائية. مقاسات عالمية مع خيارات متعددة.
+  pool: Drop-stitch inflatable pools with rigid 20 cm sit-on walls. Choose by backyard size, household, and how many people will swim.
+  accessory: Accessories and maintenance equipment to complement your OLagoon pool. Universal fit across all three pool models.
 table:
   headers:
-    product: المنتج
-    length: الطول
-    width: العرض
-    weight: الوزن
-    max_load: الحمولة القصوى
-    best_for: الأفضل لـ
+    product: Product
+    length: Length
+    width: Width
+    weight: Weight
+    max_load: Capacity
+    best_for: Best For
 how_to_choose:
-  title: كيفية اختيار المقاس المناسب
+  title: How to Choose the Right Size
   cards:
-    - title: ألواح SUP
-      description: اختر الطول بناءً على وزنك والاستخدام المقصود. الألواح الأعرض (32 بوصة+) توفر ثباتاً أكبر. الألواح الأطول (11-12 قدماً) تتبع بشكل أفضل للجولات. المجدفون الأثقل يحتاجون ألواحاً بحجم أكبر.
-    - title: ألواح SUP للجولات
-      description: الألواح الأطول (11–12 قدمًا) هي الأفضل لقطع المسافات والجولات. الألواح الأعرض (32"+) توفر ثباتًا أكبر. تحقق من سعة الوزن للحمل الإجمالي بما في ذلك المعدات.
-    - title: ألواح SUP متعددة الأغراض
-      description: اختر الطول حسب وزن الراكب والاستخدام المقصود. تعمل الألواح متعددة الأغراض للترفيه واللياقة واليوغا. الألواح الأصغر أكثر قابلية للمناورة.
+    - title: Measure Your Space
+      description: Allow at least 60 cm of clear walkway around the pool. The Compact Plunge fits most patios and decks; the Family Oasis needs a small lawn; the Grand Lagoon suits a large backyard.
+    - title: Count Your Swimmers
+      description: Two adults? The Compact Plunge. A family of four to six? The Family Oasis. Regular pool parties of eight or more? The Grand Lagoon.
+    - title: Check Your Ground
+      description: Any firm, level surface works — lawn, pavers, or a concrete pad. Lay the protective ground mat first and confirm decks are rated for a filled pool.
 finder:
-  title: اعثر على لوحك
-  subtitle: أجب عن ثلاثة أسئلة سريعة وسنرشح لك اللوح المناسب.
-  q_experience: خبرتك في التجديف
-  exp_beginner: مبتدئ
-  exp_beginner_hint: جديد على ركوب الأمواج بالتجديف
-  exp_intermediate: متوسط
-  exp_intermediate_hint: مرتاح على الماء
-  exp_advanced: متقدم
-  exp_advanced_hint: مجدّف خبير
-  q_use: كيف ستستخدم لوحك؟
-  use_allaround: متعدد الاستخدامات والترفيه
-  use_touring: الجولات والمسافات
-  use_yoga: اليوغا واللياقة
-  use_fishing: الصيد
-  use_performance: ركوب الأمواج والسباقات والمياه البيضاء
-  use_family: العائلي ومتعدد الأشخاص
-  use_kids: الأطفال والمراهقون
-  q_weight: وزن الراكب
-  w_lt140: أقل من 140 رطلاً (64 كجم)
-  w_140_180: 140-180 رطلاً (64-82 كجم)
-  w_180_230: 180-230 رطلاً (82-104 كجم)
-  w_gt230: أكثر من 230 رطلاً (104 كجم)
-  results_title: النتائج المطابقة
-  results_hint: اختر خبرتك والاستخدام المخطط ووزنك لرؤية الألواح المناسبة.
-  badge_best: أفضل تطابق
-  view_details: عرض التفاصيل
-  start_over: ابدأ من جديد
-  compare_all: قارن جميع الألواح
+  title: Find Your Pool
+  subtitle: Answer three quick questions and we will match you with the right pool.
+  q_experience: Who will use it?
+  exp_beginner: Adults only
+  exp_beginner_hint: Plunge, soak, and recovery
+  exp_intermediate: Family with kids
+  exp_intermediate_hint: Play and swim together
+  exp_advanced: Entertaining crowds
+  exp_advanced_hint: Parties and gatherings
+  q_use: How will you use your pool?
+  use_allaround: Cold plunge & recovery
+  use_touring: Family fun & kids play
+  use_yoga: Soaking & relaxation
+  use_fishing: Pool parties
+  use_performance: Fitness & exercise
+  use_family: Family & multi-person
+  use_kids: Kids & teens
+  q_weight: Backyard size
+  w_lt140: Small patio or deck
+  w_140_180: Small to mid lawn
+  w_180_230: Mid to large lawn
+  w_gt230: Large backyard
+  results_title: Your matches
+  results_hint: Select your swimmers, planned use, and backyard size to see your pool matches.
+  badge_best: Best Match
+  view_details: View details
+  start_over: Start over
+  compare_all: Compare all pools

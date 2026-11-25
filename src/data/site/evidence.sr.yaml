@@ -437,7 +437,7 @@ test_results:
     detail: Вентили, Д-прстенови, шавови, пловност
 spec_sheets:
   - name: SUP серија
-    href: /supboard/
+    href: /pools/
   - name: Спасилачки прслуци и додатна опрема
     href: /accessory/
 deployment_photos:

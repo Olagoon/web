@@ -1,4 +1,4 @@
-// One-off: replace legacy Afarer blue tokens with OLagoon teal/slate palette.
+// One-off: replace legacy OLagoon blue tokens with OLagoon teal/slate palette.
 import fs from 'node:fs';
 import path from 'node:path';
 

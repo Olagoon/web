@@ -437,7 +437,7 @@ test_results:
     detail: Vārsti, D-gredzeni, šuves, peldspēja
 spec_sheets:
   - name: SUP sērija
-    href: /supboard/
+    href: /pools/
   - name: Glābšanas vestes un piederumi
     href: /accessory/
 deployment_photos:
