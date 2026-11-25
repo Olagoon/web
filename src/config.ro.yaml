@@ -28,8 +28,8 @@ metadata:
     type: website
     locale: ro_RO
   twitter:
-
-
+    handle: ''
+    site: ''
     cardType: summary_large_image
 i18n:
   textDirection: ltr

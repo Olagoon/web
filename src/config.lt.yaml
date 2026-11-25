@@ -31,8 +31,8 @@ metadata:
     type: website
     locale: lt_LT
   twitter:
-
-
+    handle: ''
+    site: ''
     cardType: summary_large_image
 
 i18n:

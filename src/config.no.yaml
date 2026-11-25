@@ -28,8 +28,8 @@ metadata:
     type: website
     locale: nb_NO
   twitter:
-
-
+    handle: ''
+    site: ''
     cardType: summary_large_image
 i18n:
   textDirection: ltr

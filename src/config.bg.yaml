@@ -31,8 +31,8 @@ metadata:
     type: website
     locale: bg_BG
   twitter:
-
-
+    handle: ''
+    site: ''
     cardType: summary_large_image
 
 i18n:

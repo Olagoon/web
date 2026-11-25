@@ -31,8 +31,8 @@ metadata:
     type: website
     locale: sk_SK
   twitter:
-
-
+    handle: ''
+    site: ''
     cardType: summary_large_image
 
 i18n:

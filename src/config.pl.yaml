@@ -28,8 +28,8 @@ metadata:
     type: website
     locale: pl_PL
   twitter:
-
-
+    handle: ''
+    site: ''
     cardType: summary_large_image
 i18n:
   textDirection: ltr

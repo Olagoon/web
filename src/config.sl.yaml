@@ -31,8 +31,8 @@ metadata:
     type: website
     locale: sl_SI
   twitter:
-
-
+    handle: ''
+    site: ''
     cardType: summary_large_image
 
 i18n:
