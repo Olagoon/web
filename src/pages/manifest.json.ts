@@ -6,19 +6,19 @@ export const prerender = true;
 export const GET: APIRoute = async () => {
   const siteUrl = String(SITE.site).replace(/\/+$/, '');
   const manifest = {
-    name: 'olagoon',
-    short_name: 'olagoon',
+    name: 'OLagoon',
+    short_name: 'OLagoon',
     description:
-      'Professional inflatable SUPs and water sports equipment. Manufacturer-direct pricing with global shipping.',
+      'OLagoon high-pressure drop-stitch inflatable pools. Family and plunge pools with sand-filter systems, manufacturer-direct pricing and fast shipping.',
     start_url: '/',
     display: 'standalone',
     background_color: '#ffffff',
-    theme_color: '#0284c7',
+    theme_color: '#008294',
     icons: [
       { src: '/android-chrome-192x192.png', sizes: '192x192', type: 'image/png' },
       { src: '/android-chrome-512x512.png', sizes: '512x512', type: 'image/png' },
     ],
-    categories: ['sports', 'outdoor', 'marine', 'shopping'],
+    categories: ['lifestyle', 'outdoor', 'home', 'shopping'],
     lang: 'en',
     scope: '/',
     id: siteUrl,
