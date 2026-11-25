@@ -1,137 +1,117 @@
 header:
-  topBar: []
+  topBar:
+    - text: 'Free shipping in the contiguous US on every OLagoon pool'
+      href: /products/
   links:
-    - text: Produkti
+    - text: Pools
       links:
-        - text: SUP dēļi
+        - text: The Compact Plunge
+          href: /products/compact-plunge/
+        - text: The Family Oasis
+          href: /products/family-oasis/
+        - text: The Grand Lagoon
+          href: /products/grand-lagoon/
+        - text: Compare All Pools
+          href: /products/compare/
+        - text: Size Guide
+          href: /size-guide/
+        - text: Accessories
           href: /products/
-        - text: Universālie SUP
-          href: /products/
-        - text: Tūrisma SUP
-          href: /products/
-        - text: Jogas SUP
-          href: /products/
-        - text: SUP bērniem
-          href: /products/
-        - text: Zvejniecības SUP
-          href: /products/
-        - text: SUP kalnu upēm
-          href: /products/
-        - text: Īpaši stabili SUP
-          href: /products/
-        - text: Piederumi
-          href: /products/
-    - text: Pēc lietojuma
+    - text: Learn
       links:
-        - text: Iesācējiem
-          href: /use-cases/beginner/
-        - text: Tūre & distances
-          href: /use-cases/touring/
-        - text: Makšķerēšana no SUP
-          href: /products/
-        - text: Ģimenes atpūta
-          href: /use-cases/family-recreation/
-        - text: Upju tūres
-          href: /use-cases/river-touring/
-        - text: Tūrisms & atpūta
-          href: /use-cases/tourism-recreation/
-        - text: Visi lietojumi
-          href: /use-cases/
-    - text: Atklājiet OLagoon
-      links:
-        - text: Kāpēc OLagoon
-          href: /olagoon-story/
-        - text: Tehnoloģijas un materiāli
+        - text: Water Safety
+          href: /learn/water-safety/
+        - text: Guides & Tips
+          href: /guides/
+        - text: Technology
           href: /technology/
-        - text: Kvalitāte un drošība
+        - text: Quality & Safety
           href: /quality/
-        - text: Stāsti un ceļveži
-          href: /journal/
-        - text: Par OLagoon
-          href: /about/
-    - text: Atbalsts
+        - text: Use Cases
+          href: /use-cases/
+    - text: Explore OLagoon
       links:
-        - text: Garantija un pretenzijas
+        - text: Why OLagoon
+          href: /olagoon-story/
+        - text: About OLagoon
+          href: /about/
+        - text: News
+          href: /news/
+        - text: Gallery
+          href: /gallery/
+        - text: Where to Buy
+          href: /where-to-buy/
+    - text: Support
+      links:
+        - text: Warranty & Claims
           href: /warranty/
         - text: FAQ
           href: /faq/
-        - text: Lejupielādes un instrukcijas
+        - text: Downloads & Manuals
           href: /resources/download-catalog/
-        - text: Sazinieties ar atbalstu
+        - text: Contact Support
           href: /contact/
   actions:
-    - text: Kur iegādāties
-      href: /where-to-buy/
+    - text: Shop the Pools
+      href: /products/
       variant: primary
 footer:
   links:
-    - title: Produkti
+    - title: Products
       links:
-        - text: SUP dēļi
+        - text: The Compact Plunge
+          href: /products/compact-plunge/
+        - text: The Family Oasis
+          href: /products/family-oasis/
+        - text: The Grand Lagoon
+          href: /products/grand-lagoon/
+        - text: Compare All Pools
+          href: /products/compare/
+        - text: Size Guide
+          href: /size-guide/
+        - text: Accessories
           href: /products/
-        - text: Universālie SUP
-          href: /products/
-        - text: Tūrisma SUP
-          href: /products/
-        - text: Jogas SUP
-          href: /products/
-        - text: SUP bērniem
-          href: /products/
-        - text: Zvejniecības SUP
-          href: /products/
-        - text: SUP kalnu upēm
-          href: /products/
-        - text: Īpaši stabili SUP
-          href: /products/
-        - text: Piederumi
-          href: /products/
-    - title: Atklājiet OLagoon
+    - title: Learn & Support
       links:
-        - text: Kāpēc OLagoon
-          href: /olagoon-story/
-        - text: Tehnoloģijas un materiāli
-          href: /technology/
-        - text: Kvalitāte un drošība
-          href: /quality/
-        - text: Stāsti un ceļveži
-          href: /journal/
-        - text: Par OLagoon
-          href: /about/
-    - title: Atbalsts
-      links:
-        - text: Kur iegādāties
-          href: /where-to-buy/
-        - text: Garantija un pretenzijas
+        - text: Water Safety
+          href: /learn/water-safety/
+        - text: Guides & Tips
+          href: /guides/
+        - text: Warranty & Claims
           href: /warranty/
         - text: FAQ
           href: /faq/
-        - text: Lejupielādes un instrukcijas
+        - text: Downloads & Manuals
           href: /resources/download-catalog/
-        - text: Sazinieties ar atbalstu
-          href: /contact/
-    - title: Biznesa partneriem
+    - title: Company
       links:
-        - text: Kopīgs zīmols ar OLagoon
+        - text: Why OLagoon
+          href: /olagoon-story/
+        - text: About OLagoon
+          href: /about/
+        - text: News
+          href: /news/
+        - text: Gallery
+          href: /gallery/
+        - text: Where to Buy
+          href: /where-to-buy/
+        - text: Contact
+          href: /contact/
+    - title: For Business Partners
+      links:
+        - text: Co-Brand With OLagoon
           href: /co-brand/
-        - text: Klubiem un kūrortiem
+        - text: For Clubs & Resorts
           href: /solutions/resorts-hotels/
-        - text: Mazumtirdzniecības partneriem
+        - text: For Retail Partners
           href: /solutions/retail-partners/
-        - text: Atrodiet izplatītāju
-          href: /distributor-program/
-        - text: Izplatītājiem
+        - text: For Distributors
           href: /solutions/distributors/
   secondaryLinks:
-    - text: Noteikumi
+    - text: Terms
       href: /terms/
-    - text: Privātuma politika
+    - text: Privacy Policy
       href: /privacy/
-    - text: Medicīniskās atbildības ierobežojums
+    - text: Medical Disclaimer
       href: /disclaimer/
-  socialLinks:
-    - text: YouTube
-      href: https://www.youtube.com/@TheOlagoon
-    - text: Facebook
-      href: https://www.facebook.com/TheOlagoon
-    - text: RSS
-      href: /rss.xml
+  socialLinks: []

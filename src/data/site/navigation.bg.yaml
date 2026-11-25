@@ -1,137 +1,117 @@
 header:
-  topBar: []
+  topBar:
+    - text: 'Free shipping in the contiguous US on every OLagoon pool'
+      href: /products/
   links:
-    - text: Продукти
+    - text: Pools
       links:
-        - text: SUP дъски
+        - text: The Compact Plunge
+          href: /products/compact-plunge/
+        - text: The Family Oasis
+          href: /products/family-oasis/
+        - text: The Grand Lagoon
+          href: /products/grand-lagoon/
+        - text: Compare All Pools
+          href: /products/compare/
+        - text: Size Guide
+          href: /size-guide/
+        - text: Accessories
           href: /products/
-        - text: Универсални SUP
-          href: /products/
-        - text: Туристически SUP
-          href: /products/
-        - text: Йога SUP
-          href: /products/
-        - text: Детски SUP
-          href: /products/
-        - text: Риболовни SUP
-          href: /products/
-        - text: SUP за бързи води
-          href: /products/
-        - text: Свръхстабилни SUP
-          href: /products/
-        - text: Аксесоари
-          href: /products/
-    - text: По предназначение
+    - text: Learn
       links:
-        - text: За начинаещи
-          href: /use-cases/beginner/
-        - text: Туринг & дълги разстояния
-          href: /use-cases/touring/
-        - text: Риболов на SUP
-          href: /products/
-        - text: Семейна почивка
-          href: /use-cases/family-recreation/
-        - text: Речни турове
-          href: /use-cases/river-touring/
-        - text: Туризъм & отдих
-          href: /use-cases/tourism-recreation/
-        - text: Всички предназначения
-          href: /use-cases/
-    - text: Разгледайте OLagoon
-      links:
-        - text: Защо OLagoon
-          href: /olagoon-story/
-        - text: Технологии и материали
+        - text: Water Safety
+          href: /learn/water-safety/
+        - text: Guides & Tips
+          href: /guides/
+        - text: Technology
           href: /technology/
-        - text: Качество и безопасност
+        - text: Quality & Safety
           href: /quality/
-        - text: Истории и ръководства
-          href: /journal/
-        - text: За OLagoon
-          href: /about/
-    - text: Поддръжка
+        - text: Use Cases
+          href: /use-cases/
+    - text: Explore OLagoon
       links:
-        - text: Гаранция и рекламации
+        - text: Why OLagoon
+          href: /olagoon-story/
+        - text: About OLagoon
+          href: /about/
+        - text: News
+          href: /news/
+        - text: Gallery
+          href: /gallery/
+        - text: Where to Buy
+          href: /where-to-buy/
+    - text: Support
+      links:
+        - text: Warranty & Claims
           href: /warranty/
-        - text: ЧЗВ
+        - text: FAQ
           href: /faq/
-        - text: Изтегляния и ръководства
+        - text: Downloads & Manuals
           href: /resources/download-catalog/
-        - text: Свържете се с поддръжката
+        - text: Contact Support
           href: /contact/
   actions:
-    - text: Где да купя
-      href: /where-to-buy/
+    - text: Shop the Pools
+      href: /products/
       variant: primary
 footer:
   links:
-    - title: Продукти
+    - title: Products
       links:
-        - text: SUP дъски
+        - text: The Compact Plunge
+          href: /products/compact-plunge/
+        - text: The Family Oasis
+          href: /products/family-oasis/
+        - text: The Grand Lagoon
+          href: /products/grand-lagoon/
+        - text: Compare All Pools
+          href: /products/compare/
+        - text: Size Guide
+          href: /size-guide/
+        - text: Accessories
           href: /products/
-        - text: Универсални SUP
-          href: /products/
-        - text: Туристически SUP
-          href: /products/
-        - text: Йога SUP
-          href: /products/
-        - text: Детски SUP
-          href: /products/
-        - text: Риболовни SUP
-          href: /products/
-        - text: SUP за бързи води
-          href: /products/
-        - text: Свръхстабилни SUP
-          href: /products/
-        - text: Аксесоари
-          href: /products/
-    - title: Разгледайте OLagoon
+    - title: Learn & Support
       links:
-        - text: Защо OLagoon
-          href: /olagoon-story/
-        - text: Технологии и материали
-          href: /technology/
-        - text: Качество и безопасност
-          href: /quality/
-        - text: Истории и ръководства
-          href: /journal/
-        - text: За OLagoon
-          href: /about/
-    - title: Поддръжка
-      links:
-        - text: Где да купя
-          href: /where-to-buy/
-        - text: Гаранция и рекламации
+        - text: Water Safety
+          href: /learn/water-safety/
+        - text: Guides & Tips
+          href: /guides/
+        - text: Warranty & Claims
           href: /warranty/
-        - text: ЧЗВ
+        - text: FAQ
           href: /faq/
-        - text: Изтегляния и ръководства
+        - text: Downloads & Manuals
           href: /resources/download-catalog/
-        - text: Свържете се с поддръжката
-          href: /contact/
-    - title: За бизнес партньори
+    - title: Company
       links:
-        - text: Съвместна марка с OLagoon
+        - text: Why OLagoon
+          href: /olagoon-story/
+        - text: About OLagoon
+          href: /about/
+        - text: News
+          href: /news/
+        - text: Gallery
+          href: /gallery/
+        - text: Where to Buy
+          href: /where-to-buy/
+        - text: Contact
+          href: /contact/
+    - title: For Business Partners
+      links:
+        - text: Co-Brand With OLagoon
           href: /co-brand/
-        - text: За клубове и курорти
+        - text: For Clubs & Resorts
           href: /solutions/resorts-hotels/
-        - text: за търговски партньори
+        - text: For Retail Partners
           href: /solutions/retail-partners/
-        - text: Намерете дистрибутор
-          href: /distributor-program/
-        - text: За дистрибутори
+        - text: For Distributors
           href: /solutions/distributors/
   secondaryLinks:
-    - text: Условия
+    - text: Terms
       href: /terms/
-    - text: Политика за поверителност
+    - text: Privacy Policy
       href: /privacy/
-    - text: Медицинска декларация
+    - text: Medical Disclaimer
       href: /disclaimer/
-  socialLinks:
-    - text: YouTube
-      href: https://www.youtube.com/@TheOlagoon
-    - text: Facebook
-      href: https://www.facebook.com/TheOlagoon
-    - text: RSS
-      href: /rss.xml
+  socialLinks: []

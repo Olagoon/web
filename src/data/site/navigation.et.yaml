@@ -1,137 +1,117 @@
 header:
-  topBar: []
+  topBar:
+    - text: 'Free shipping in the contiguous US on every OLagoon pool'
+      href: /products/
   links:
-    - text: Tooted
+    - text: Pools
       links:
-        - text: SUP lauad
+        - text: The Compact Plunge
+          href: /products/compact-plunge/
+        - text: The Family Oasis
+          href: /products/family-oasis/
+        - text: The Grand Lagoon
+          href: /products/grand-lagoon/
+        - text: Compare All Pools
+          href: /products/compare/
+        - text: Size Guide
+          href: /size-guide/
+        - text: Accessories
           href: /products/
-        - text: Universaalsed SUP-id
-          href: /products/
-        - text: Tuurimise SUP-id
-          href: /products/
-        - text: Jooga SUP-id
-          href: /products/
-        - text: SUP-id lastele
-          href: /products/
-        - text: Kalastamise SUP-id
-          href: /products/
-        - text: SUP-id mägijõgedele
-          href: /products/
-        - text: Eriti stabiilsed SUP-id
-          href: /products/
-        - text: Tarvikud
-          href: /products/
-    - text: Kasutuse järgi
+    - text: Learn
       links:
-        - text: Algajale
-          href: /use-cases/beginner/
-        - text: Matkasõit & vahemaad
-          href: /use-cases/touring/
-        - text: 'Kalapüük SUP-il'
-          href: /products/
-        - text: Perepuhkus
-          href: /use-cases/family-recreation/
-        - text: Jõematkad
-          href: /use-cases/river-touring/
-        - text: Turism & vaba aeg
-          href: /use-cases/tourism-recreation/
-        - text: Kõik kasutused
-          href: /use-cases/
-    - text: Avastage OLagoon
-      links:
-        - text: Miks OLagoon
-          href: /olagoon-story/
-        - text: Tehnoloogiad ja materjalid
+        - text: Water Safety
+          href: /learn/water-safety/
+        - text: Guides & Tips
+          href: /guides/
+        - text: Technology
           href: /technology/
-        - text: Kvaliteet ja ohutus
+        - text: Quality & Safety
           href: /quality/
-        - text: Lood ja juhendid
-          href: /journal/
-        - text: OLagoonist
-          href: /about/
-    - text: Tugi
+        - text: Use Cases
+          href: /use-cases/
+    - text: Explore OLagoon
       links:
-        - text: Garantii ja kaebused
+        - text: Why OLagoon
+          href: /olagoon-story/
+        - text: About OLagoon
+          href: /about/
+        - text: News
+          href: /news/
+        - text: Gallery
+          href: /gallery/
+        - text: Where to Buy
+          href: /where-to-buy/
+    - text: Support
+      links:
+        - text: Warranty & Claims
           href: /warranty/
-        - text: KKK
+        - text: FAQ
           href: /faq/
-        - text: Allalaadimised ja juhendid
+        - text: Downloads & Manuals
           href: /resources/download-catalog/
-        - text: Võtke toega ühendust
+        - text: Contact Support
           href: /contact/
   actions:
-    - text: Kust osta
-      href: /where-to-buy/
+    - text: Shop the Pools
+      href: /products/
       variant: primary
 footer:
   links:
-    - title: Tooted
+    - title: Products
       links:
-        - text: SUP lauad
+        - text: The Compact Plunge
+          href: /products/compact-plunge/
+        - text: The Family Oasis
+          href: /products/family-oasis/
+        - text: The Grand Lagoon
+          href: /products/grand-lagoon/
+        - text: Compare All Pools
+          href: /products/compare/
+        - text: Size Guide
+          href: /size-guide/
+        - text: Accessories
           href: /products/
-        - text: Universaalsed SUP-id
-          href: /products/
-        - text: Tuurimise SUP-id
-          href: /products/
-        - text: Jooga SUP-id
-          href: /products/
-        - text: SUP-id lastele
-          href: /products/
-        - text: Kalastamise SUP-id
-          href: /products/
-        - text: SUP-id mägijõgedele
-          href: /products/
-        - text: Eriti stabiilsed SUP-id
-          href: /products/
-        - text: Tarvikud
-          href: /products/
-    - title: Avastage OLagoon
+    - title: Learn & Support
       links:
-        - text: Miks OLagoon
-          href: /olagoon-story/
-        - text: Tehnoloogiad ja materjalid
-          href: /technology/
-        - text: Kvaliteet ja ohutus
-          href: /quality/
-        - text: Lood ja juhendid
-          href: /journal/
-        - text: OLagoonist
-          href: /about/
-    - title: Tugi
-      links:
-        - text: Kust osta
-          href: /where-to-buy/
-        - text: Garantii ja kaebused
+        - text: Water Safety
+          href: /learn/water-safety/
+        - text: Guides & Tips
+          href: /guides/
+        - text: Warranty & Claims
           href: /warranty/
-        - text: KKK
+        - text: FAQ
           href: /faq/
-        - text: Allalaadimised ja juhendid
+        - text: Downloads & Manuals
           href: /resources/download-catalog/
-        - text: Võtke toega ühendust
-          href: /contact/
-    - title: Äripartneritele
+    - title: Company
       links:
-        - text: Ühine bränd OLagooniga
+        - text: Why OLagoon
+          href: /olagoon-story/
+        - text: About OLagoon
+          href: /about/
+        - text: News
+          href: /news/
+        - text: Gallery
+          href: /gallery/
+        - text: Where to Buy
+          href: /where-to-buy/
+        - text: Contact
+          href: /contact/
+    - title: For Business Partners
+      links:
+        - text: Co-Brand With OLagoon
           href: /co-brand/
-        - text: Klubidele ja kuurortidele
+        - text: For Clubs & Resorts
           href: /solutions/resorts-hotels/
-        - text: Jaekaubanduspartneritele
+        - text: For Retail Partners
           href: /solutions/retail-partners/
-        - text: Leidke edasimüüja
-          href: /distributor-program/
-        - text: Edasimüüjatele
+        - text: For Distributors
           href: /solutions/distributors/
   secondaryLinks:
-    - text: Tingimused
+    - text: Terms
       href: /terms/
-    - text: Privaatsuspoliitika
+    - text: Privacy Policy
       href: /privacy/
-    - text: Meditsiinilise vastutuse piirang
+    - text: Medical Disclaimer
       href: /disclaimer/
-  socialLinks:
-    - text: YouTube
-      href: https://www.youtube.com/@TheOlagoon
-    - text: Facebook
-      href: https://www.facebook.com/TheOlagoon
-    - text: RSS
-      href: /rss.xml
+  socialLinks: []

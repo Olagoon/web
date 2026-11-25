@@ -1,113 +1,101 @@
 header:
-  topBar: []
+  topBar:
+    - text: 'Free shipping in the contiguous US on every OLagoon pool'
+      href: /products/
   links:
-    - text: Produits
+    - text: Pools
       links:
-        - text: Planches SUP
+        - text: The Compact Plunge
+          href: /products/compact-plunge/
+        - text: The Family Oasis
+          href: /products/family-oasis/
+        - text: The Grand Lagoon
+          href: /products/grand-lagoon/
+        - text: Compare All Pools
+          href: /products/compare/
+        - text: Size Guide
+          href: /size-guide/
+        - text: Accessories
           href: /products/
-        - text: SUP polyvalent
-          href: /products/
-        - text: SUP de randonnée
-          href: /products/
-        - text: SUP yoga
-          href: /products/
-        - text: SUP pour enfants
-          href: /products/
-        - text: SUP de pêche
-          href: /products/
-        - text: SUP eau vive
-          href: /products/
-        - text: SUP ultra-stable
-          href: /products/
-        - text: Accessoires
-          href: /products/
-    - text: Par cas d’usage
+    - text: Learn
       links:
-        - text: Débutants
-          href: /use-cases/beginner/
-        - text: Randonnée & distance
-          href: /use-cases/touring/
-        - text: Pêche en SUP
-          href: /products/
-        - text: Loisirs en famille
-          href: /use-cases/family-recreation/
-        - text: Randonnée fluviale
-          href: /use-cases/river-touring/
-        - text: Tourisme & loisirs
-          href: /use-cases/tourism-recreation/
-        - text: Tous les cas d’usage
-          href: /use-cases/
-    - text: Explorer olagoon
-      links:
-        - text: Pourquoi olagoon
-          href: /olagoon-story/
-        - text: Technologie & matériaux
+        - text: Water Safety
+          href: /learn/water-safety/
+        - text: Guides & Tips
+          href: /guides/
+        - text: Technology
           href: /technology/
-        - text: Qualité & sécurité
+        - text: Quality & Safety
           href: /quality/
-        - text: Articles & guides
-          href: /journal/
-        - text: À propos d’olagoon
-          href: /about/
-    - text: Assistance
+        - text: Use Cases
+          href: /use-cases/
+    - text: Explore OLagoon
       links:
-        - text: Garantie & réclamations
+        - text: Why OLagoon
+          href: /olagoon-story/
+        - text: About OLagoon
+          href: /about/
+        - text: News
+          href: /news/
+        - text: Gallery
+          href: /gallery/
+        - text: Where to Buy
+          href: /where-to-buy/
+    - text: Support
+      links:
+        - text: Warranty & Claims
           href: /warranty/
         - text: FAQ
           href: /faq/
-        - text: Téléchargements & manuels
+        - text: Downloads & Manuals
           href: /resources/download-catalog/
-        - text: Contacter l’assistance
+        - text: Contact Support
           href: /contact/
   actions:
-    - text: Where to Buy
-      href: /where-to-buy/
+    - text: Shop the Pools
+      href: /products/
       variant: primary
 footer:
   links:
-    - title: Produits
+    - title: Products
       links:
-        - text: Planches SUP
+        - text: The Compact Plunge
+          href: /products/compact-plunge/
+        - text: The Family Oasis
+          href: /products/family-oasis/
+        - text: The Grand Lagoon
+          href: /products/grand-lagoon/
+        - text: Compare All Pools
+          href: /products/compare/
+        - text: Size Guide
+          href: /size-guide/
+        - text: Accessories
           href: /products/
-        - text: SUP polyvalent
-          href: /products/
-        - text: SUP de randonnée
-          href: /products/
-        - text: SUP yoga
-          href: /products/
-        - text: SUP pour enfants
-          href: /products/
-        - text: SUP de pêche
-          href: /products/
-        - text: SUP eau vive
-          href: /products/
-        - text: SUP ultra-stable
-          href: /products/
-        - text: Accessoires
-          href: /products/
-    - title: Explorer olagoon
+    - title: Learn & Support
       links:
-        - text: Pourquoi olagoon
-          href: /olagoon-story/
-        - text: Technologie & matériaux
-          href: /technology/
-        - text: Qualité & sécurité
-          href: /quality/
-        - text: Articles & guides
-          href: /journal/
-        - text: À propos d’olagoon
-          href: /about/
-    - title: Assistance
-      links:
-        - text: Where to Buy
-          href: /where-to-buy/
-        - text: Garantie & réclamations
+        - text: Water Safety
+          href: /learn/water-safety/
+        - text: Guides & Tips
+          href: /guides/
+        - text: Warranty & Claims
           href: /warranty/
         - text: FAQ
           href: /faq/
-        - text: Téléchargements & manuels
+        - text: Downloads & Manuals
           href: /resources/download-catalog/
-        - text: Contacter l’assistance
+    - title: Company
+      links:
+        - text: Why OLagoon
+          href: /olagoon-story/
+        - text: About OLagoon
+          href: /about/
+        - text: News
+          href: /news/
+        - text: Gallery
+          href: /gallery/
+        - text: Where to Buy
+          href: /where-to-buy/
+        - text: Contact
           href: /contact/
     - title: For Business Partners
       links:
@@ -117,21 +105,13 @@ footer:
           href: /solutions/resorts-hotels/
         - text: For Retail Partners
           href: /solutions/retail-partners/
-        - text: Find a Distributor
-          href: /distributor-program/
         - text: For Distributors
           href: /solutions/distributors/
   secondaryLinks:
-    - text: Conditions
+    - text: Terms
       href: /terms/
-    - text: Politique de confidentialité
+    - text: Privacy Policy
       href: /privacy/
-    - text: Avis de non-responsabilité médicale
+    - text: Medical Disclaimer
       href: /disclaimer/
-  socialLinks:
-    - text: YouTube
-      href: https://www.youtube.com/@TheOlagoon
-    - text: Facebook
-      href: https://www.facebook.com/TheOlagoon
-    - text: RSS
-      href: /rss.xml
+  socialLinks: []

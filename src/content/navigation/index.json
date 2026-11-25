@@ -1,147 +1,242 @@
 {
   "header": {
-    "topBar": [],
+    "topBar": [
+      {
+        "text": "Free shipping in the contiguous US on every OLagoon pool",
+        "href": "/products/"
+      }
+    ],
     "links": [
       {
-        "text": "Products",
+        "text": "Pools",
         "links": [
-          { "text": "SUP Boards", "href": "/inflatable-sup" },
-          { "text": "Accessories", "href": "/sup-accessories" },
-          { "text": "Compare", "href": "/products/compare" },
-          { "text": "Inflatable vs Hardboard", "href": "/compare/inflatable-vs-hardboard" }
-        ]
-      },
-      {
-        "text": "Technology & Innovation",
-        "links": [
-          { "text": "Technology Overview", "href": "/technology" },
-          { "text": "R&D Center", "href": "/randdcenter" },
-          { "text": "Design & Innovation", "href": "/design-powerhouse" },
-          { "text": "Engineering Excellence", "href": "/engineering-perfection" },
-          { "text": "Materials Science", "href": "/learn/materials" }
+          {
+            "text": "The Compact Plunge",
+            "href": "/products/compact-plunge/"
+          },
+          {
+            "text": "The Family Oasis",
+            "href": "/products/family-oasis/"
+          },
+          {
+            "text": "The Grand Lagoon",
+            "href": "/products/grand-lagoon/"
+          },
+          {
+            "text": "Compare All Pools",
+            "href": "/products/compare/"
+          },
+          {
+            "text": "Size Guide",
+            "href": "/size-guide/"
+          },
+          {
+            "text": "Accessories",
+            "href": "/products/"
+          }
         ]
       },
       {
         "text": "Learn",
         "links": [
-          { "text": "Knowledge Graph", "href": "/knowledge" },
-          { "text": "Academy", "href": "/academy" },
-          { "text": "SUP Knowledge", "href": "/learn/sup" },
-          { "text": "Water Safety", "href": "/learn/water-safety" },
-          { "text": "Size Guide", "href": "/size-guide" }
+          {
+            "text": "Water Safety",
+            "href": "/learn/water-safety/"
+          },
+          {
+            "text": "Guides & Tips",
+            "href": "/guides/"
+          },
+          {
+            "text": "Technology",
+            "href": "/technology/"
+          },
+          {
+            "text": "Quality & Safety",
+            "href": "/quality/"
+          },
+          {
+            "text": "Use Cases",
+            "href": "/use-cases/"
+          }
         ]
       },
       {
-        "text": "Solutions",
+        "text": "Explore OLagoon",
         "links": [
-          { "text": "By Industry", "href": "/solutions/by-industry" },
-          { "text": "By Use Case", "href": "/solutions/by-use-case" },
-          { "text": "OEM/ODM Manufacturing", "href": "/oem-odm-manufacturer" },
-          { "text": "Custom Lab", "href": "/custom" }
-        ]
-      },
-      {
-        "text": "Company",
-        "links": [
-          { "text": "About", "href": "/about" },
-          { "text": "Brand", "href": "/brand" },
-          { "text": "Factory", "href": "/factory" },
-          { "text": "Quality & Testing", "href": "/quality" },
-          { "text": "Safety", "href": "/safety" },
-          { "text": "Warranty", "href": "/warranty" },
-          { "text": "Community", "href": "/community" },
-          { "text": "Gallery", "href": "/gallery" },
-          { "text": "Lifestyle", "href": "/lifestyle" },
-          { "text": "News", "href": "/news" },
-          { "text": "Trust", "href": "/trust" }
+          {
+            "text": "Why OLagoon",
+            "href": "/olagoon-story/"
+          },
+          {
+            "text": "About OLagoon",
+            "href": "/about/"
+          },
+          {
+            "text": "News",
+            "href": "/news/"
+          },
+          {
+            "text": "Gallery",
+            "href": "/gallery/"
+          },
+          {
+            "text": "Where to Buy",
+            "href": "/where-to-buy/"
+          }
         ]
       },
       {
         "text": "Support",
         "links": [
-          { "text": "Contact", "href": "/contact" },
-          { "text": "Media Center", "href": "/media" },
-          { "text": "FAQ", "href": "/faq" },
-          { "text": "Login", "href": "/login" }
+          {
+            "text": "Warranty & Claims",
+            "href": "/warranty/"
+          },
+          {
+            "text": "FAQ",
+            "href": "/faq/"
+          },
+          {
+            "text": "Downloads & Manuals",
+            "href": "/resources/download-catalog/"
+          },
+          {
+            "text": "Contact Support",
+            "href": "/contact/"
+          }
         ]
       }
     ],
-    "actions": [{ "text": "Request a Quote", "href": "/contact", "variant": "primary" }]
+    "actions": [
+      {
+        "text": "Shop the Pools",
+        "href": "/products/",
+        "variant": "primary"
+      }
+    ]
   },
   "footer": {
     "links": [
       {
         "title": "Products",
         "links": [
-          { "text": "SUP Boards", "href": "/inflatable-sup" },
-          { "text": "Accessories", "href": "/sup-accessories" },
-          { "text": "Compare", "href": "/products/compare" }
+          {
+            "text": "The Compact Plunge",
+            "href": "/products/compact-plunge/"
+          },
+          {
+            "text": "The Family Oasis",
+            "href": "/products/family-oasis/"
+          },
+          {
+            "text": "The Grand Lagoon",
+            "href": "/products/grand-lagoon/"
+          },
+          {
+            "text": "Compare All Pools",
+            "href": "/products/compare/"
+          },
+          {
+            "text": "Size Guide",
+            "href": "/size-guide/"
+          },
+          {
+            "text": "Accessories",
+            "href": "/products/"
+          }
         ]
       },
       {
-        "title": "Technology & Innovation",
+        "title": "Learn & Support",
         "links": [
-          { "text": "Technology Overview", "href": "/technology" },
-          { "text": "R&D Center", "href": "/randdcenter" },
-          { "text": "Design & Innovation", "href": "/design-powerhouse" },
-          { "text": "Engineering Excellence", "href": "/engineering-perfection" },
-          { "text": "Materials Science", "href": "/learn/materials" }
-        ]
-      },
-      {
-        "title": "Learn",
-        "links": [
-          { "text": "Knowledge Graph", "href": "/knowledge" },
-          { "text": "Academy", "href": "/academy" },
-          { "text": "SUP Knowledge", "href": "/learn/sup" },
-          { "text": "Water Safety", "href": "/learn/water-safety" },
-          { "text": "Size Guide", "href": "/size-guide" }
-        ]
-      },
-      {
-        "title": "Solutions",
-        "links": [
-          { "text": "By Industry", "href": "/solutions/by-industry" },
-          { "text": "By Use Case", "href": "/solutions/by-use-case" },
-          { "text": "OEM/ODM Manufacturing", "href": "/oem-odm-manufacturer" },
-          { "text": "Custom Lab", "href": "/custom" }
+          {
+            "text": "Water Safety",
+            "href": "/learn/water-safety/"
+          },
+          {
+            "text": "Guides & Tips",
+            "href": "/guides/"
+          },
+          {
+            "text": "Warranty & Claims",
+            "href": "/warranty/"
+          },
+          {
+            "text": "FAQ",
+            "href": "/faq/"
+          },
+          {
+            "text": "Downloads & Manuals",
+            "href": "/resources/download-catalog/"
+          }
         ]
       },
       {
         "title": "Company",
         "links": [
-          { "text": "About", "href": "/about" },
-          { "text": "Brand", "href": "/brand" },
-          { "text": "Factory", "href": "/factory" },
-          { "text": "Quality & Testing", "href": "/quality" },
-          { "text": "Safety", "href": "/safety" },
-          { "text": "Warranty", "href": "/warranty" },
-          { "text": "Community", "href": "/community" },
-          { "text": "Gallery", "href": "/gallery" },
-          { "text": "Lifestyle", "href": "/lifestyle" },
-          { "text": "News", "href": "/news" },
-          { "text": "Trust", "href": "/trust" }
+          {
+            "text": "Why OLagoon",
+            "href": "/olagoon-story/"
+          },
+          {
+            "text": "About OLagoon",
+            "href": "/about/"
+          },
+          {
+            "text": "News",
+            "href": "/news/"
+          },
+          {
+            "text": "Gallery",
+            "href": "/gallery/"
+          },
+          {
+            "text": "Where to Buy",
+            "href": "/where-to-buy/"
+          },
+          {
+            "text": "Contact",
+            "href": "/contact/"
+          }
         ]
       },
       {
-        "title": "Support",
+        "title": "For Business Partners",
         "links": [
-          { "text": "Contact", "href": "/contact" },
-          { "text": "Media Center", "href": "/media" },
-          { "text": "FAQ", "href": "/faq" },
-          { "text": "Login", "href": "/login" }
+          {
+            "text": "Co-Brand With OLagoon",
+            "href": "/co-brand/"
+          },
+          {
+            "text": "For Clubs & Resorts",
+            "href": "/solutions/resorts-hotels/"
+          },
+          {
+            "text": "For Retail Partners",
+            "href": "/solutions/retail-partners/"
+          },
+          {
+            "text": "For Distributors",
+            "href": "/solutions/distributors/"
+          }
         ]
       }
     ],
     "secondaryLinks": [
-      { "text": "Terms", "href": "/terms" },
-      { "text": "Privacy Policy", "href": "/privacy" }
+      {
+        "text": "Terms",
+        "href": "/terms/"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "/privacy/"
+      },
+      {
+        "text": "Medical Disclaimer",
+        "href": "/disclaimer/"
+      }
     ],
-    "socialLinks": [
-      { "icon": "tabler--brand-youtube", "href": "https://www.youtube.com/@TheOlagoon" },
-      { "icon": "tabler--brand-x", "href": "https://x.com/OLagoon" },
-      { "icon": "tabler--brand-instagram", "href": "https://www.instagram.com/olagoon_watersports/" },
-      { "icon": "tabler--brand-facebook", "href": "https://www.facebook.com/TheOlagoon" }
-    ]
+    "socialLinks": []
   }
 }
