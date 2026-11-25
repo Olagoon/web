@@ -4,23 +4,23 @@ header:
     - text: Produkti
       links:
         - text: SUP dēļi
-          href: /inflatable-sup/
+          href: /products/
         - text: Universālie SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Tūrisma SUP
-          href: /touring-sup/
+          href: /products/
         - text: Jogas SUP
-          href: /yoga-sup/
+          href: /products/
         - text: SUP bērniem
-          href: /kids-sup/
+          href: /products/
         - text: Zvejniecības SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP kalnu upēm
-          href: /whitewater-sup/
+          href: /products/
         - text: Īpaši stabili SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Piederumi
-          href: /sup-accessories/
+          href: /products/
     - text: Pēc lietojuma
       links:
         - text: Iesācējiem
@@ -28,7 +28,7 @@ header:
         - text: Tūre & distances
           href: /use-cases/touring/
         - text: Makšķerēšana no SUP
-          href: /use-cases/fishing/
+          href: /products/
         - text: Ģimenes atpūta
           href: /use-cases/family-recreation/
         - text: Upju tūres
@@ -68,23 +68,23 @@ footer:
     - title: Produkti
       links:
         - text: SUP dēļi
-          href: /inflatable-sup/
+          href: /products/
         - text: Universālie SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Tūrisma SUP
-          href: /touring-sup/
+          href: /products/
         - text: Jogas SUP
-          href: /yoga-sup/
+          href: /products/
         - text: SUP bērniem
-          href: /kids-sup/
+          href: /products/
         - text: Zvejniecības SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP kalnu upēm
-          href: /whitewater-sup/
+          href: /products/
         - text: Īpaši stabili SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Piederumi
-          href: /sup-accessories/
+          href: /products/
     - title: Atklājiet OLagoon
       links:
         - text: Kāpēc OLagoon

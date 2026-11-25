@@ -78,9 +78,9 @@ featured_guides:
   title: Самые популярные ресурсы знаний
   items:
     - title: Основы SUP
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Надувной vs Жесткая доска
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Руководство по безопасности на воде
       href: /learn/water-safety/
     - title: Справочник материалов
@@ -92,11 +92,11 @@ featured_guides:
     - title: Технический центр SUP
       href: /research/
     - title: Техническое обслуживание SUP
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Туристический гид
       href: /guides/sup-for-touring/
     - title: Техники работы с веслом
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Начать исследование
   subtitle: Погрузитесь в нашу базу знаний и получите информацию, необходимую для вашего следующего водного приключения.

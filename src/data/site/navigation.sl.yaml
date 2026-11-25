@@ -4,23 +4,23 @@ header:
     - text: Izdelki
       links:
         - text: SUP deske
-          href: /inflatable-sup/
+          href: /products/
         - text: Vsestranske SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Touring SUP
-          href: /touring-sup/
+          href: /products/
         - text: Joga SUP
-          href: /yoga-sup/
+          href: /products/
         - text: Otroške SUP
-          href: /kids-sup/
+          href: /products/
         - text: Ribiške SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP za divje vode
-          href: /whitewater-sup/
+          href: /products/
         - text: Ultra stabilne SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Dodatki
-          href: /sup-accessories/
+          href: /products/
     - text: Po namenu uporabe
       links:
         - text: Za začetnike
@@ -28,7 +28,7 @@ header:
         - text: Touring & razdalje
           href: /use-cases/touring/
         - text: 'Ribolov na SUP-u'
-          href: /use-cases/fishing/
+          href: /products/
         - text: Družinsko razvedrilo
           href: /use-cases/family-recreation/
         - text: Rečni spusti
@@ -68,23 +68,23 @@ footer:
     - title: Izdelki
       links:
         - text: SUP deske
-          href: /inflatable-sup/
+          href: /products/
         - text: Vsestranske SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Touring SUP
-          href: /touring-sup/
+          href: /products/
         - text: Joga SUP
-          href: /yoga-sup/
+          href: /products/
         - text: Otroške SUP
-          href: /kids-sup/
+          href: /products/
         - text: Ribiške SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP za divje vode
-          href: /whitewater-sup/
+          href: /products/
         - text: Ultra stabilne SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Dodatki
-          href: /sup-accessories/
+          href: /products/
     - title: Raziščite OLagoon
       links:
         - text: Zakaj OLagoon

@@ -106,7 +106,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: สตูดิโอวิศวกรรมตัวเรือ
       description: การออกแบบด้วย CAD และการวิเคราะห์ไฟไนต์เอลิเมนต์ของตัวเรือ HDPE อะลูมิเนียม และไฟเบอร์กลาส ตัวเรือทุกลำถูกจำลองแบบดิจิทัลเพื่อวิเคราะห์การกระจายความเค้นและความทนทานต่อแรงกระแทกก่อนสร้างต้นแบบชิ้นแรก
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: ศูนย์เชื่อม RF
       description: โรงงานเชื่อมคลื่นความถี่วิทยุ (RF) เฉพาะทางพร้อมการควบคุมอุณหภูมิและแรงดันอย่างแม่นยำ ผลิตตะเข็บที่แข็งแรงและกันอากาศได้ตามมาตรฐานอุตสาหกรรมทางทะเลสำหรับยานน้ำเป่าลม
@@ -114,7 +114,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: ถังทดสอบอุทกพลศาสตร์
       description: การทดสอบโมเดลย่อส่วนในถังทดสอบของเรา เพื่อปรับปรุงรูปทรงตัวเรือ สมรรถนะการไถลน้ำ ความมั่นคง และประสิทธิภาพการใช้เชื้อเพลิงภายใต้สภาพน้ำหนักบรรทุกและสภาพทะเลที่หลากหลาย
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: โรงงานผลิตต้นแบบ
       description: สถานที่ผลิตต้นแบบขนาดจริงและประกอบอุปกรณ์ครบชุด สำหรับการสร้าง ติดตั้ง และทดสอบทางทะเลของรุ่นใหม่ ๆ ต้นแบบทุกลำต้องผ่านโปรแกรมทดสอบในน้ำอย่างน้อย 20 ชั่วโมงก่อนได้รับอนุมัติให้ผลิต

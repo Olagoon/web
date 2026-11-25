@@ -108,7 +108,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Hull Ingenieurstudio
       description: CAD-gesteuertes Design und Finite-Elemente-Analyse von Rümpfen aus HDPE, Aluminium und Fiberglas. Jeder Rumpf wird digital auf Spannungsverteilung und Aufprallresistenz simuliert, bevor der erste Prototyp gebaut wird.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: RF-Schweißzentrum
       description: Speziell eingerichtete Hochfrequenz-Schweißanlage mit präziser Temperatur- und Druckregelung, die hochfeste, luftdichte Nähte produziert, die den Standards der Meeresindustrie für aufblasbare Geräte entsprechen.
@@ -116,7 +116,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Hydrodynamischer Testtank
       description: Modellversuche in unserem hauseigenen Testtank zur Optimierung der Rumpfform, des Gleitverhaltens, der Stabilität und der Kraftstoffeffizienz unter verschiedenen Lade- und Seebedingungen.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Prototyp-Werkstatt
       description: Vollständig ausgestattete Prototypen- und Rigg-Einrichtung, in der neue Modelle gebaut, eingerichtet und zur Seetüchtigkeitsprüfung erprobt werden. Jeder Prototyp durchläuft ein mindestens 20-stündiges Wasser-Testprogramm, bevor die Produktionsfreigabe erfolgt.

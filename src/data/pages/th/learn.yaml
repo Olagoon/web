@@ -21,11 +21,11 @@ featured:
     - title: พื้นฐาน SUP
       description: ทุกสิ่งที่ผู้เริ่มต้นจำเป็นต้องรู้ — ประเภทกระดาน ขนาดพาย ท่ายืน และเคล็ดลับวันแรก
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: กระดานเป่าลม vs กระดานแข็ง
       description: อันไหนเหมาะกับคุณ? เราเปรียบเทียบความพกพา ประสิทธิภาพ ความทนทาน และราคาเคียงข้างกัน
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: ความปลอดภัยทางน้ำ
       description: ความรู้ด้านความปลอดภัยที่จำเป็นที่นักพายทุกคนควรมี — สภาพอากาศ เสื้อชูชีพ การช่วยเหลือตนเอง และอื่นๆ
       icon: tabler:shield

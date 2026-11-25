@@ -18,7 +18,7 @@ import { getPageContent, setPageContentData } from '~/i18n/page-content';
 import __pageData from '~/i18n/generated/pages/home.ts';
 import productVisualsData from '~/data/site/product-visuals.yaml';
 import { pageContentData } from '~/i18n/generated/data';
-import { supScenarios } from '~/data/sup-scenarios';
+const supScenarios: { href: string; title: string; short: string; photos: { src: string; alt: string }[] }[] = [];
 import { localizeHref } from '~/i18n/routing';
 
 export async function getStaticPaths() {
@@ -961,7 +961,7 @@ const localizedProducts = products.map((p) => localizeProduct(p, lang || default
           },
         ].map((board) => (
           <a
-            href={lh('/inflatable-sup/')}
+            href={lh('/products/')}
             class="group relative rounded-2xl overflow-hidden bg-white border border-gray-200 hover:shadow-xl transition-all duration-300"
           >
             <div class="aspect-[4/3] overflow-hidden">

@@ -78,9 +78,9 @@ featured_guides:
   title: Nejoblíbenější znalostní zdroje
   items:
     - title: Základy SUP
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Nafukovací vs pevné prkno
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Bezpečnostní průvodce na vodě
       href: /learn/water-safety/
     - title: Materiálová reference
@@ -92,11 +92,11 @@ featured_guides:
     - title: SUP technické centrum
       href: /research/
     - title: Údržba SUP
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Průvodce touringem
       href: /guides/sup-for-touring/
     - title: Techniky pádlování
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Začněte objevovat
   subtitle: Ponořte se do naší znalostní báze a získejte informace, které potřebujete pro své další vodní dobrodružství.

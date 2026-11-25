@@ -78,25 +78,25 @@ featured_guides:
   title: Mest populära kunskapsresurser
   items:
     - title: SUP-grunderna
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Uppblåsbart vs hårt bräde
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Vattensäkerhetsguide
       href: /learn/water-safety/
     - title: Materialreferens
       href: /learn/materials/
     - title: SUP-köpguide
-      href: /guides/how-to-choose-your-sup/
+      href: /technology/
     - title: SUP-storleksguide
       href: /guides/sup-size-guide/
     - title: SUP Tech Center
       href: /research/
     - title: SUP-underhåll
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Turguide
       href: /guides/sup-for-touring/
     - title: Paddletekniker
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Börja utforska
   subtitle: Dyk in i vår kunskapsbas och få informationen du behöver för ditt nästa vattenäventyr.

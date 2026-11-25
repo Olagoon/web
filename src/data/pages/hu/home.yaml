@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: SUP-ok Felfedezése
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Miért OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Széles, stabil all-around táblák, amelyektől az első evezőcsapás természetes érzés, és veled együtt fejlődnek.
       icon: tabler:users
       cta: Találd Meg az Első Tábládat
-      link: /all-around-sup/
+      link: /products/
     - title: Túrázás és Kaland
       keywords: túra sup, hosszú távú paddleboard, expedíciós sup
       description: Hosszabb, keskenyebb táblák, amelyek egyenesen tartanak, messzebb siklanak és felszerelést visznek többnapos útvonalakra.
       icon: tabler:building
       cta: Túra SUP-ok Felfedezése
-      link: /touring-sup/
+      link: /products/
     - title: Jóga és Fitnesz
       keywords: jóga sup, fitnesz paddleboard, széles stabil sup
       description: Széles, stabil platformok mozgástérrel — napkeltés gyakorlatsorokhoz, edzésekhez és egyensúlyhoz nyugodt vízen.
       icon: tabler:heart
       cta: Jóga SUP Felfedezése
-      link: /yoga-sup/
+      link: /products/
     - title: Horgászat és Család
       keywords: horgász sup, családi paddleboard, stabil horgászplatform
       description: Stabil, gyakorlatias platformok horgászathoz, gyerekekkel való evezéshez és hosszú, nyugodt napokhoz a vízen.
       icon: tabler:users
       cta: Horgász SUP Felfedezése
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: A szalonon túl is tesztelve
   subtitle: Dizájn, teljesítmény és minőség, amelyet ellenőrizhet — a vízen és a számokban.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Kollekció Felfedezése
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Katalógus Kérése
       href: /resources/download-catalog/

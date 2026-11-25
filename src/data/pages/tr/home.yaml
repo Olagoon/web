@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: SUP’ları Keşfet
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Neden OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: İlk kürek çekişinizi doğal hissettiren ve gelişirken yanınızda olan geniş, stabil all-around boardlar.
       icon: tabler:users
       cta: İlk Boardını Bul
-      link: /all-around-sup/
+      link: /products/
     - title: Tur ve Macera
       keywords: tur supı, uzun mesafe paddleboard, seyahat supı
       description: Daha uzun, daha dar, düz giden, daha uzağa gliden ve çok günlü rotalar için ekipman taşıyan boardlar.
       icon: tabler:building
       cta: Tur SUP’larını Keşfet
-      link: /touring-sup/
+      link: /products/
     - title: Yoga ve Fitness
       keywords: yoga supı, fitness paddleboard, geniş stabil sup
       description: Hareket alanı sunan geniş, stabil platformlar — gün doğumu akışları, antrenmanlar ve sakin suda denge için.
       icon: tabler:heart
       cta: Yoga SUP’larını Keşfet
-      link: /yoga-sup/
+      link: /products/
     - title: Balıkçılık ve Aile
       keywords: balıkçılık supı, aile paddleboard, stabil balıkçılık platformu
       description: Olta atmak, çocuklarla kürek çekmek ve suda uzun huzurlu günler için stabil, pratik platformlar.
       icon: tabler:users
       cta: Balıkçılık SUP’larını Keşfet
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Showroom ötesinde test edildi
   subtitle: Tasarım, performans ve kaliteyi doğrulayabilirsiniz — suda ve rakamlarda.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Koleksiyonu Keşfet
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Katalog İsteyin
       href: /resources/download-catalog/

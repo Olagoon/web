@@ -21,11 +21,11 @@ featured:
     - title: Fundamentos de SUP
       description: Tudo que um iniciante precisa saber — tipos de prancha, dimensionamento de remo, postura e dicas para o primeiro dia.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Inflável vs Prancha Rígida
       description: Qual é a ideal para você? Comparamos portabilidade, desempenho, durabilidade e custo lado a lado.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Segurança Aquática
       description: Conhecimento essencial de segurança que todo remador deve ter — clima, coletes salva-vidas, auto-resgate e muito mais.
       icon: tabler:shield

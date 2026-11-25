@@ -21,11 +21,11 @@ featured:
     - title: أساسيات SUP
       description: كل ما يحتاج المبتدئ معرفته — أنواع الألواح، حجم المجداف، الوقوف، ونصائح اليوم الأول.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: قابل للنفخ مقابل اللوح الصلب
       description: أيهما مناسب لك؟ نقارن بين قابلية النقل والأداء والمتانة والتكلفة جنباً إلى جنب.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: السلامة المائية
       description: معرفة سلامة أساسية يجب أن يمتلكها كل مجداف — الطقس، سترات النجاة، الإنقاذ الذاتي، والمزيد.
       icon: tabler:shield

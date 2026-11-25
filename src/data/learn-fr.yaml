@@ -4,13 +4,13 @@ sup:
   articles:
     - title: 'Les bases du paddle — Guide du débutant'
       desc: "Tout ce qu'un débutant doit savoir : types de planches, taille de la pagaie, position sur la planche et conseils pour la première sortie."
-      href: '/learn/sup/'
+      href: '/learn/water-safety/'
     - title: 'Guide des tailles de paddle'
       desc: 'Trouvez la bonne longueur, largeur et volume de planche selon votre poids, votre niveau et votre style de pagaie.'
       href: '/size-guide/'
     - title: 'Paddle gonflable ou rigide'
       desc: 'Lequel est fait pour vous ? Comparatif de la portabilité, des performances, de la durabilité et du prix.'
-      href: '/compare/inflatable-vs-hardboard/'
+      href: '/compare/technology/'
     - title: 'Techniques intermédiaires'
       desc: 'Passez au niveau supérieur avec des coups de pagaie avancés, des techniques de virage et la gestion des eaux agitées.'
       href: '/learn/intermediate-techniques/'

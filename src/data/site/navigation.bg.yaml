@@ -4,23 +4,23 @@ header:
     - text: Продукти
       links:
         - text: SUP дъски
-          href: /inflatable-sup/
+          href: /products/
         - text: Универсални SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Туристически SUP
-          href: /touring-sup/
+          href: /products/
         - text: Йога SUP
-          href: /yoga-sup/
+          href: /products/
         - text: Детски SUP
-          href: /kids-sup/
+          href: /products/
         - text: Риболовни SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP за бързи води
-          href: /whitewater-sup/
+          href: /products/
         - text: Свръхстабилни SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Аксесоари
-          href: /sup-accessories/
+          href: /products/
     - text: По предназначение
       links:
         - text: За начинаещи
@@ -28,7 +28,7 @@ header:
         - text: Туринг & дълги разстояния
           href: /use-cases/touring/
         - text: Риболов на SUP
-          href: /use-cases/fishing/
+          href: /products/
         - text: Семейна почивка
           href: /use-cases/family-recreation/
         - text: Речни турове
@@ -68,23 +68,23 @@ footer:
     - title: Продукти
       links:
         - text: SUP дъски
-          href: /inflatable-sup/
+          href: /products/
         - text: Универсални SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Туристически SUP
-          href: /touring-sup/
+          href: /products/
         - text: Йога SUP
-          href: /yoga-sup/
+          href: /products/
         - text: Детски SUP
-          href: /kids-sup/
+          href: /products/
         - text: Риболовни SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP за бързи води
-          href: /whitewater-sup/
+          href: /products/
         - text: Свръхстабилни SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Аксесоари
-          href: /sup-accessories/
+          href: /products/
     - title: Разгледайте OLagoon
       links:
         - text: Защо OLagoon

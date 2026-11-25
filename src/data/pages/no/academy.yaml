@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Hvordan velge riktig SUP-brett
         desc: Komplett guide til å velge SUP — størrelse, volum, materiale, form og tiltenkt bruk.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Oppblåsbar vs hard SUP
         desc: Oppblåsbar SUP vs hardt epoksbord — sammenligning av bærbarhet, holdbarhet, ytelse og verdi.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: Allround vs touring vs yoga-SUP
         desc: Ulike SUP-bordtyper — byggestandarder, former, størrelser og anbefalte bruksområder.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch vs. tradisjonell konstruksjon
         desc: Sammenlign drop-stitch og tradisjonell konstruksjon for SUP-brett med hensyn til vekt, kostnad, holdbarhet og stivhet.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: SUP-bretttyper
         desc: Allround, touring, yoga, sport og barne-SUP-er – lær forskjellene og velg riktig.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-stitch-teknologi
         desc: Hvordan tusenvis av indre tråder skaper stive, høytrykksoppblåsbare konstruksjoner.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: SUP-kjøpsguide
         desc: Sammenlign ulike SUP-bretttyper for ulike bruksområder og ferdighetsnivåer.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: SUP-kunnskap
     tagline: Guider for stand-up-padlebrett
     desc: Alt om SUP-brett — oppblåsbare vs. stive, brettdimensjoner, materialteknologi og eksperttips for alle ferdighetsnivåer.
     guides:
       - title: Oppblåsbar vs hard SUP
         desc: Sammenlign iSUPs og harde epoxy-brett med hensyn til bærbarhet, holdbarhet, ytelse og verdi.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Guide for SUP-brett dimensjoner
         desc: Hvordan lengde, bredde og tykkelse påvirker stabilitet, hastighet og manøvrerbarhet.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP-vedlikehold og pleie
         desc: Rengjøring, lagring, UV-beskyttelse og reparasjonstips for oppblåsbare SUP-brett.
         href: /v2/inflatable-sup-maintenance/
       - title: Velg ditt første SUP-brett
         desc: Nybegynnerguide til å velge riktig padlebrett for din vekt, ferdighetsnivå og tiltenkte bruk.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Veiledning for utleiedrift
     tagline: Flåtestyring for utleievirksomheter
     desc: Veiledninger for å bygge og administrere SUP-utleief louter for strandkiosker, vannsportsentre og overnattingsbedrifter.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP vs andre vannaktiviteter
         desc: Sammenlign SUP-programmer med andre vannsporter for gjesteopplevelse og operasjonell effektivitet.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Varehandel- og distribusjonsveiledning
     tagline: SUP-forretningssamarbeid
     desc: Veiledninger for å bli SUP-forhandler eller distributør — lagerplanlegging, markedsposisjonering og vekststrategier.

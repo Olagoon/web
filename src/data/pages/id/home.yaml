@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Jelajahi SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Mengapa OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Papan all-around yang lebar dan stabil membuat kayuhan pertama terasa alami dan terus menemani seiring kemajuan Anda.
       icon: tabler:users
       cta: Temukan Papan Pertama Anda
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Petualangan
       keywords: sup touring, papan paddle jarak jauh, sup ekspedisi
       description: Papan yang lebih panjang dan sempit yang menjaga arah, meluncur lebih jauh, dan membawa perlengkapan untuk rute beberapa hari.
       icon: tabler:building
       cta: Jelajahi SUP Touring
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Kebugaran
       keywords: sup yoga, papan paddle kebugaran, sup lebar dan stabil
       description: Platform lebar dan stabil dengan ruang untuk bergerak — untuk aliran matahari terbit, latihan, dan keseimbangan di air tenang.
       icon: tabler:heart
       cta: Jelajahi SUP Yoga
-      link: /yoga-sup/
+      link: /products/
     - title: Memancing & Keluarga
       keywords: sup mancing, papan paddle keluarga, platform memancing stabil
       description: Platform stabil dan praktis untuk memancing, berayuh bersama anak-anak, dan hari-hari santai yang panjang di air.
       icon: tabler:users
       cta: Jelajahi SUP Mancing
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Teruji Melampaui Ruang Pamer
   subtitle: Desain, performa, dan kualitas yang dapat Anda verifikasi — di air dan dalam angka.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Jelajahi Koleksi
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Minta Katalog
       href: /resources/download-catalog/

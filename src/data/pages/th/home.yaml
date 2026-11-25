@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: สำรวจบอร์ด SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: ทำไมต้อง OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: บอร์ดออลอาราวน์แบบกว้างและนิ่ง ที่ทำให้จังหวะพายครั้งแรกเป็นธรรมชาติ และอยู่คู่กับคุณเมื่อฝีมือพัฒนาขึ้น
       icon: tabler:users
       cta: หาบอร์ดแรกของคุณ
-      link: /all-around-sup/
+      link: /products/
     - title: ทัวริ่งและผจญภัย
       keywords: sup ทัวริ่ง, บอร์ดพาเดิลไกล, sup สำรวจ
       description: บอร์ดที่ยาวและแคบกว่า ออกแบบให้รักษาทิศทาง แล่นไกลกว่า และบรรทุกสัมภาระสำหรับเส้นทางหลายวัน
       icon: tabler:building
       cta: สำรวจบอร์ดทัวริ่ง
-      link: /touring-sup/
+      link: /products/
     - title: โยคะและฟิตเนส
       keywords: sup โยคะ, บอร์ดพาเดิลฟิตเนส, sup กว้างนิ่ง
       description: แพลตฟอร์มกว้างนิ่งที่มีพื้นที่ให้เคลื่อนไหว — สำหรับโฟลว์ยามเช้า การออกกำลังกาย และการทรงตัวบนน้ำนิ่ง
       icon: tabler:heart
       cta: สำรวจ SUP โยคะ
-      link: /yoga-sup/
+      link: /products/
     - title: ตกปลาและครอบครัว
       keywords: sup ตกปลา, บอร์ดพาเดิลครอบครัว, แพลตฟอร์มตกปลานิ่ง
       description: แพลตฟอร์มนิ่งและใช้งานจริง สำหรับตกปลา พายเล่นกับลูก ๆ และวันพักผ่อนยาว ๆ บนน้ำ
       icon: tabler:users
       cta: สำรวจ SUP ตกปลา
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: ทดสอบเกินระดับโชว์รูม
   subtitle: ดีไซน์ สมรรถนะ และคุณภาพที่พิสูจน์ได้ — บนน้ำและในตัวเลข
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: สำรวจคอลเลกชัน
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: ขอแคตตาล็อก
       href: /resources/download-catalog/

@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Explorează SUP-uri
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: De Ce OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Plăci all-around late și stabile care fac prima ta lovitură de vâslă să pară naturală și care țin pasul cu tine pe măsură ce progresezi.
       icon: tabler:users
       cta: Găsește Prima Ta Placă
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Aventură
       keywords: sup de touring, placă de paddle pentru distanțe lungi, sup de expediție
       description: Plăci mai lungi și mai înguste, construite să țină direcția, să alunece mai departe și să care echipament pentru trasee de mai multe zile.
       icon: tabler:building
       cta: Explorează SUP-urile de Touring
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Fitness
       keywords: sup de yoga, placă de paddle fitness, sup lat și stabil
       description: Platforme late și stabile cu spațiu de mișcare — pentru fluxurile de la răsărit, antrenamente și echilibru pe apă liniștită.
       icon: tabler:heart
       cta: Explorează SUP-ul de Yoga
-      link: /yoga-sup/
+      link: /products/
     - title: Pescuit & Familie
       keywords: sup de pescuit, placă de paddle de familie, platformă de pescuit stabilă
       description: Platforme stabile și practice pentru pescuit, plimbări cu copiii și zile lungi și relaxante pe apă.
       icon: tabler:users
       cta: Explorează SUP-ul de Pescuit
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Testat dincolo de showroom
   subtitle: Design, performanță și calitate pe care le puteți verifica — pe apă și în cifre.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Explorează Colecția
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Cere Catalogul
       href: /resources/download-catalog/

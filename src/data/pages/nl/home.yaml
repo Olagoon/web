@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Ontdek SUPs
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Waarom OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Brede, stabiele allround boards die je eerste slag natuurlijk laten voelen en met je meegroeien.
       icon: tabler:users
       cta: Vind Je Eerste Board
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Avontuur
       keywords: touring sup, paddleboard lange afstand, expeditie sup
       description: Langere, smalle boards die rechtuit lopen, verder glijden en bagage meenemen voor meerdaagse routes.
       icon: tabler:building
       cta: Ontdek Touring SUPs
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Fitness
       keywords: yoga sup, fitness paddleboard, brede stabiele sup
       description: Brede, stabiele platforms met ruimte om te bewegen — voor zonsopgangflows, workouts en balans op rustig water.
       icon: tabler:heart
       cta: Ontdek Yoga SUPs
-      link: /yoga-sup/
+      link: /products/
     - title: Vissen & Familie
       keywords: vis sup, familie paddleboard, stabiel visplatform
       description: Stabiele, praktische platforms om te vissen, te varen met de kids en lange ontspannen dagen op het water.
       icon: tabler:users
       cta: Ontdek Vis SUPs
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Getest, verder dan de showroom
   subtitle: Ontwerp, prestaties en kwaliteit die u kunt verifiëren — op het water en in de cijfers.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Ontdek de Collectie
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Catalogus Aanvragen
       href: /resources/download-catalog/

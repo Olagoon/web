@@ -4,23 +4,23 @@ header:
     - text: Produits
       links:
         - text: Planches SUP
-          href: /inflatable-sup/
+          href: /products/
         - text: SUP polyvalent
-          href: /all-around-sup/
+          href: /products/
         - text: SUP de randonnée
-          href: /touring-sup/
+          href: /products/
         - text: SUP yoga
-          href: /yoga-sup/
+          href: /products/
         - text: SUP pour enfants
-          href: /kids-sup/
+          href: /products/
         - text: SUP de pêche
-          href: /fishing-sup/
+          href: /products/
         - text: SUP eau vive
-          href: /whitewater-sup/
+          href: /products/
         - text: SUP ultra-stable
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Accessoires
-          href: /sup-accessories/
+          href: /products/
     - text: Par cas d’usage
       links:
         - text: Débutants
@@ -28,7 +28,7 @@ header:
         - text: Randonnée & distance
           href: /use-cases/touring/
         - text: Pêche en SUP
-          href: /use-cases/fishing/
+          href: /products/
         - text: Loisirs en famille
           href: /use-cases/family-recreation/
         - text: Randonnée fluviale
@@ -68,23 +68,23 @@ footer:
     - title: Produits
       links:
         - text: Planches SUP
-          href: /inflatable-sup/
+          href: /products/
         - text: SUP polyvalent
-          href: /all-around-sup/
+          href: /products/
         - text: SUP de randonnée
-          href: /touring-sup/
+          href: /products/
         - text: SUP yoga
-          href: /yoga-sup/
+          href: /products/
         - text: SUP pour enfants
-          href: /kids-sup/
+          href: /products/
         - text: SUP de pêche
-          href: /fishing-sup/
+          href: /products/
         - text: SUP eau vive
-          href: /whitewater-sup/
+          href: /products/
         - text: SUP ultra-stable
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Accessoires
-          href: /sup-accessories/
+          href: /products/
     - title: Explorer olagoon
       links:
         - text: Pourquoi olagoon

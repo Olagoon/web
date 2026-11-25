@@ -77,25 +77,25 @@ featured_guides:
   title: Ressources de connaissances les plus populaires
   items:
     - title: Bases du SUP
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Gonflable vs Planche Rigide
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Guide de Sécurité Aquatique
       href: /learn/water-safety/
     - title: Référence des Matériaux
       href: /learn/materials/
     - title: Guide d'achat SUP
-      href: /guides/how-to-choose-your-sup/
+      href: /technology/
     - title: Guide des tailles SUP
       href: /guides/sup-size-guide/
     - title: Centre technique SUP
       href: /research/
     - title: Entretien SUP
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Guide de touring
       href: /guides/sup-for-touring/
     - title: Techniques de pagaie
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Commencer l'exploration
   subtitle: Plongez dans notre base de connaissances et obtenez les informations dont vous avez besoin pour votre prochaine aventure aquatique.

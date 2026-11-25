@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Wie man das richtige SUP-Board auswählt
         desc: Vollständiger Leitfaden zur Auswahl eines SUP — Größe, Volumen, Material, Form und beabsichtigte Verwendung.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Aufblasbares vs Hartes SUP
         desc: Aufblasbares SUP vs. hartes Epoxidboard — Vergleich von Tragbarkeit, Haltbarkeit, Leistung und Wert.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: Allround- vs. Touring- vs. Yoga-SUP
         desc: Verschiedene SUP-Board-Typen — Konstruktionsstandards, Formen, Größen und empfohlene Verwendungen.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch vs traditionelle Konstruktion
         desc: Vergleichen Sie Drop-Stitch- und traditionelle Bauweise bei SUP-Boards in Bezug auf Gewicht, Kosten, Haltbarkeit und Steifigkeit.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: SUP-Board-Typen
         desc: Allround-, Touring-, Yoga-, Sport- und Kinder-SUPs – lernen Sie die Unterschiede kennen und wählen Sie das richtige aus.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch-Technologie
         desc: Wie Tausende von inneren Fäden starre, hochdruckfähige aufblasbare Strukturen erzeugen.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: SUP-Kaufbericht
         desc: Vergleichen Sie verschiedene SUP-Board-Typen für unterschiedliche Anwendungsfälle und Fähigkeitsstufen.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: SUP-Wissen
     tagline: Stand-Up-Paddleboard-Guides
     desc: Alles über SUP-Boards — aufblasbar vs. starr, Board-Abmessungen, Materialtechnologie und Expertenrat für alle Könnensstufen.
     guides:
       - title: Aufblasbares vs Hartes SUP
         desc: Vergleichen Sie iSUPs und harte Epoxidbretter hinsichtlich Tragbarkeit, Haltbarkeit, Leistung und Wert.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP-Board Größenleitfaden
         desc: Wie Länge, Breite und Dicke Stabilität, Geschwindigkeit und Manövrierfähigkeit beeinflussen.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP Wartung & Pflege
         desc: Reinigungs-, Aufbewahrungs-, UV-Schutz- und Reparaturtipps für aufblasbare SUP-Boards.
         href: /v2/inflatable-sup-maintenance/
       - title: Die Wahl Ihres ersten SUP
         desc: Anfängerguide zur Auswahl des richtigen Stand-up-Paddleboards für dein Gewicht, dein Können und den beabsichtigten Gebrauch.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Leitfaden für Mietbetrieb
     tagline: Flottenmanagement für Mietunternehmen
     desc: Anleitungen zum Aufbau und zur Verwaltung von SUP-Verleihflotten für Strandkioske, Wassersportzentren und Beherbergungsbetriebe.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP vs andere Wasseraktivitäten
         desc: Vergleichen Sie SUP-Programme mit anderen Wassersportarten hinsichtlich Gästeerlebnis und Betriebseffizienz.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Einzelhandels- und Vertriebsleitfaden
     tagline: SUP-Geschäftspartnerschaften
     desc: Anleitungen zum Werden eines SUP-Einzelhandelspartners oder -distributors – Bestandsplanung, Marktpositionierung und Wachstumsstrategien.

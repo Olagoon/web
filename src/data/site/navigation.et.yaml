@@ -4,23 +4,23 @@ header:
     - text: Tooted
       links:
         - text: SUP lauad
-          href: /inflatable-sup/
+          href: /products/
         - text: Universaalsed SUP-id
-          href: /all-around-sup/
+          href: /products/
         - text: Tuurimise SUP-id
-          href: /touring-sup/
+          href: /products/
         - text: Jooga SUP-id
-          href: /yoga-sup/
+          href: /products/
         - text: SUP-id lastele
-          href: /kids-sup/
+          href: /products/
         - text: Kalastamise SUP-id
-          href: /fishing-sup/
+          href: /products/
         - text: SUP-id mägijõgedele
-          href: /whitewater-sup/
+          href: /products/
         - text: Eriti stabiilsed SUP-id
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Tarvikud
-          href: /sup-accessories/
+          href: /products/
     - text: Kasutuse järgi
       links:
         - text: Algajale
@@ -28,7 +28,7 @@ header:
         - text: Matkasõit & vahemaad
           href: /use-cases/touring/
         - text: 'Kalapüük SUP-il'
-          href: /use-cases/fishing/
+          href: /products/
         - text: Perepuhkus
           href: /use-cases/family-recreation/
         - text: Jõematkad
@@ -68,23 +68,23 @@ footer:
     - title: Tooted
       links:
         - text: SUP lauad
-          href: /inflatable-sup/
+          href: /products/
         - text: Universaalsed SUP-id
-          href: /all-around-sup/
+          href: /products/
         - text: Tuurimise SUP-id
-          href: /touring-sup/
+          href: /products/
         - text: Jooga SUP-id
-          href: /yoga-sup/
+          href: /products/
         - text: SUP-id lastele
-          href: /kids-sup/
+          href: /products/
         - text: Kalastamise SUP-id
-          href: /fishing-sup/
+          href: /products/
         - text: SUP-id mägijõgedele
-          href: /whitewater-sup/
+          href: /products/
         - text: Eriti stabiilsed SUP-id
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Tarvikud
-          href: /sup-accessories/
+          href: /products/
     - title: Avastage OLagoon
       links:
         - text: Miks OLagoon

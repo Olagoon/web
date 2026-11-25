@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Raziskujte SUPe
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Zakaj OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Široke, stabilne vsestranske deske, pri katerih je prvi zavesljaj naraven in ki rastejo skupaj z vami.
       icon: tabler:users
       cta: Poiščite Svojo Prvo Desko
-      link: /all-around-sup/
+      link: /products/
     - title: Turizem in Pustolovščina
       keywords: turistični sup, paddleboard za dolge razdalje, ekspedicijski sup
       description: Daljše, ožje deske, ki držijo smer, drsijo dlje in nosijo opremo za večdnevne poti.
       icon: tabler:building
       cta: Raziskujte Turistične SUPe
-      link: /touring-sup/
+      link: /products/
     - title: Joga in Fitnes
       keywords: sup za jogo, fitnes paddleboard, širok stabilen sup
       description: Široke, stabilne platforme s prostorom za gibanje — za jutranje tokove, treninge in ravnotežje na mirni vodi.
       icon: tabler:heart
       cta: Raziskujte SUP za Jogo
-      link: /yoga-sup/
+      link: /products/
     - title: Ribolov in Družina
       keywords: sup za ribolov, družinski paddleboard, stabilna ribiška platforma
       description: Stabilne, praktične platforme za ribolov, vožnjo z otroki in dolge sproščene dneve na vodi.
       icon: tabler:users
       cta: Raziskujte SUP za Ribolov
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Preizkušeno onstran razstavnega prostora
   subtitle: Oblikovanje, zmogljivost in kakovost, ki jih lahko preverite — na vodi in v številkah.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Raziskujte Kolekcijo
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Zahtevajte Katalog
       href: /resources/download-catalog/

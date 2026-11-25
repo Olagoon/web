@@ -21,11 +21,11 @@ featured:
     - title: SUP-grunnleggende
       description: Alt en nybegynner trenger å vite — bretttyper, padlestørrelse, holdning og tips for første dag.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Oppblåsbart vs hardt brett
       description: Hvilket er riktig for deg? Vi sammenligner bærbarhet, ytelse, holdbarhet og pris side om side.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Vannsikkerhet
       description: Viktig sikkerhetskunnskap enhver padler bør ha — vær, redningsvester, selvevakuering og mer.
       icon: tabler:shield

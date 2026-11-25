@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Terokai SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Mengapa OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Papan serbaguna yang lebar dan stabil menjadikan kayuhan pertama terasa semula jadi dan terus menemani anda berkembang.
       icon: tabler:users
       cta: Cari Papan Pertama Anda
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Pengembaraan
       keywords: sup touring, papan paddle jarak jauh, sup ekspedisi
       description: Papan yang lebih panjang dan sempit yang mengekalkan arah, meluncur lebih jauh dan membawa kelengkapan untuk laluan beberapa hari.
       icon: tabler:building
       cta: Terokai SUP Touring
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Kecergasan
       keywords: sup yoga, papan paddle kecergasan, sup lebar dan stabil
       description: Platform lebar dan stabil dengan ruang untuk bergerak — untuk aliran waktu matahari terbit, latihan dan keseimbangan di air tenang.
       icon: tabler:heart
       cta: Terokai SUP Yoga
-      link: /yoga-sup/
+      link: /products/
     - title: Memancing & Keluarga
       keywords: sup memancing, papan paddle keluarga, platform memancing stabil
       description: Platform stabil dan praktikal untuk memancing, berkayuh bersama anak-anak dan hari santai yang panjang di air.
       icon: tabler:users
       cta: Terokai SUP Memancing
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Diuji Melebihi Bilik Pameran
   subtitle: Reka bentuk, prestasi dan kualiti yang boleh anda sahkan — di atas air dan dalam angka.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Terokai Koleksi
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Minta Katalog
       href: /resources/download-catalog/

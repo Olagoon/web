@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: SUPs entdecken
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Warum OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Breite, stabile Allround-Boards, die Ihren ersten Paddelschlag natürlich machen und mit Ihnen wachsen.
       icon: tabler:users
       cta: Finden Sie Ihr erstes Board
-      link: /all-around-sup/
+      link: /products/
     - title: Touren- & Abenteuerpaddler
       keywords: Touring-SUP, Langstrecken-Paddleboard, Expeditions-SUP
       description: Längere, schmalere Boards, die geradeaus laufen, weiter gleiten und Gepäck für Mehrtagestouren tragen.
       icon: tabler:building
       cta: Touring-SUPs entdecken
-      link: /touring-sup/
+      link: /products/
     - title: Yoga- & Fitnesspaddler
       keywords: Yoga-SUP, Fitness-Paddleboard, breites stabiles SUP
       description: Breite, stabile Plattformen mit Raum zum Bewegen — für Sonnenaufgangs-Flows, Workouts und Gleichgewicht auf ruhigem Wasser.
       icon: tabler:heart
       cta: Yoga-SUP entdecken
-      link: /yoga-sup/
+      link: /products/
     - title: Angel- & Familienpaddler
       keywords: Angel-SUP, Familien-Paddleboard, stabile Angelplattform
       description: Stabile, ausrüstungsfreundliche Plattformen zum Angeln, für Ausflüge mit den Kindern und lange entspannte Tage auf dem Wasser.
       icon: tabler:users
       cta: Angel-SUP entdecken
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Getestet jenseits des Showrooms
   subtitle: Design, Performance und Qualität, die sich überprüfen lassen — auf dem Wasser und in den Zahlen.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Kollektion entdecken
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Katalog anfordern
       href: /resources/download-catalog/

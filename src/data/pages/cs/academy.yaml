@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Jak vybrat správné SUP prkno
         desc: Kompletní průvodce výběrem SUP — velikost, objem, materiál, tvar a zamýšlené použití.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Nafukovací vs. pevné SUP
         desc: Nafukovací SUP vs. tvrdé epoxidové prkno – srovnání přenosnosti, odolnosti, výkonu a hodnoty.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: All-Around vs. Touring vs. Yoga SUP
         desc: Různé typy SUP prken — výrobní standardy, tvary, rozměry a doporučené použití.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-stitch vs. tradiční konstrukce
         desc: Porovnejte konstrukci drop-stitch a tradiční konstrukci SUP prken z hlediska hmotnosti, ceny, odolnosti a tuhosti.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: Typy SUP prken
         desc: Univerzální, touringové, jógové, sportovní a dětské SUP — poznejte rozdíly a vyberte si to pravé.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Technologie Drop-Stitch
         desc: Jak tisíce vnitřních vláken vytvářejí tuhé nafukovací konstrukce pro vysoký tlak.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: Průvodce nákupem prken SUP
         desc: Porovnejte různé typy SUP prken pro různé způsoby použití a úrovně dovedností.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Vědomosti o SUP
     tagline: Průvodci paddleboardingem
     desc: Vše o SUP prknech — nafukovací vs. pevné, rozměry prken, materiálové technologie a odborné rady pro všechny úrovně dovedností.
     guides:
       - title: Nafukovací vs. pevné SUP
         desc: Porovnejte nafukovací SUP a tvrdá epoxidová prkna z hlediska přenosnosti, odolnosti, výkonu a hodnoty.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Průvodce rozměry SUP desek
         desc: Jak délka, šířka a tloušťka ovlivňují stabilitu, rychlost a ovladatelnost.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Údržba a péče o SUP
         desc: Tipy pro čištění, skladování, ochranu proti UV záření a opravy nafukovacích SUP prken.
         href: /v2/inflatable-sup-maintenance/
       - title: Jak vybrat své první SUP
         desc: Průvodce pro začátečníky výběrem správného paddleboardu podle vaší váhy, úrovně dovedností a zamýšleného použití.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Průvodce provozem půjčovny
     tagline: Správa flotil pro půjčovny
     desc: Průvodci budováním a správou flotil SUP k pronájmu pro plážové kiosky, vodní sportovní centra a pohostinská zařízení.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP a jiné vodní aktivity
         desc: Srovnání SUP programů s jinými vodními sporty z hlediska zážitku hostů a provozní efektivity.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Průvodce prodejem a distribucí
     tagline: Obchodní partnerství v oblasti SUP
     desc: Průvodci pro zájemce o roli maloobchodního partnera nebo distributora SUP — plánování zásob, pozicování na trhu a strategie růstu.

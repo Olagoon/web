@@ -78,9 +78,9 @@ featured_guides:
   title: Suosituimmat tietolähteet
   items:
     - title: SUP-perusteet
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Kumilauta vs kova lauta
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Vesiturvallisuusopas
       href: /learn/water-safety/
     - title: Materiaaliviite
@@ -92,11 +92,11 @@ featured_guides:
     - title: SUP-tekniikkakeskus
       href: /research/
     - title: SUP-lautojen huolto
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Matkaopas
       href: /guides/sup-for-touring/
     - title: Soututekniikat
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Aloita tutkiminen
   subtitle: Sukella tietopohjaamme ja hanki tarvitsemasi tiedot seuraavaa vesi seikkailuasi varten.

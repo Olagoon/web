@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Miten valita oikean SUP-lautan
         desc: Täydellinen opas SUP:n valintaan — koko, tilavuus, materiaali, muoto ja käyttötarkoitus.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: PehmeliSUP vs. jäykänrakenteinen SUP
         desc: Laukeava SUP vs kova epoksilevy – helppokuljetus, kestävyys, suorituskyky ja arvoon verrattuna.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: Monikäyttö vs Matka vs Yoga SUP
         desc: Erilaiset SUP-lautatyypit — rakennusstandardit, muodot, koot ja suositellut käyttökohteet.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch vs perinteinen rakenne
         desc: Vertaa drop-stitch- ja perinteistä SUP-lautojen rakennetta painon, kustannusten, kestävyyden ja jäykkyyden osalta.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: SUP-lautatyypit
         desc: All-around-, touring-, jooga-, urheilu- ja lasten SUP-laudat — opi erot ja valitse oikea sinulle.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch-teknologia
         desc: Kuinka tuhannet sisäiset langat luovat jäkkiä, korkeapaineisia laukeavia rakenteita.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: SUP-ostopolku
         desc: Vertaa erilaisia SUP-lautoja eri käyttökohteisiin ja taitotasoihin.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: SUP-tietopankki
     tagline: SUP-lautaoppaat
     desc: Kaikki SUP-lauguista — ilmatäytettävät vs. jäykät, lautakoot, materiaaliteknologia ja asiantuntevat neuvo kaikille taitotasoille.
     guides:
       - title: PehmeliSUP vs. jäykänrakenteinen SUP
         desc: Vertaa iSUP-lautoja ja kovia epoxylautoja kannettavuuden, kestävyyden, suorituskykyjen ja arvon osalta.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP-lautojen mittojen opas
         desc: Miten pituus, leveys ja paksuus vaikuttavat vakavuuteen, nopeuteen ja ohjattavuuteen.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP-laudan huolto ja hoito
         desc: Vinkkejä puhdistukseen, säilytykseen, UV-suojaukseen ja korjaukseen täytettäville SUP-laudoille.
         href: /v2/inflatable-sup-maintenance/
       - title: Ensimmäisen SUP-lautan valinta
         desc: Aloittelijan opas oikean stand-up paddleboardin valintaan painon, taitotason ja käyttötarkoituksen mukaan.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Vuokraustoiminnan opas
     tagline: Laivaston hallinto vuokratustoiminnoille
     desc: Ohjeet SUP-vuokrausten rakentamiseen ja hallintaan rantakioskeille, vesiurheilukeskuksille ja majoitusyrityksille.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP vs. muut vesiaktiviteetit
         desc: Vertaa SUP-ohjelmia muihin vesilajeihin vieraiden kokemuksen ja toiminnallisen tehokkuuden kannalta.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Vähittäiskauppa- ja jakeluopas
     tagline: SUP-yrityskumppanuudet
     desc: Opas SUP-vähittäis- tai jakelukumppaniksi — varastosuunnittelu, markkina-asemointi ja kasvustrategiat.

@@ -108,7 +108,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Rungon suunnittelustudio
       description: CAD-ohjaussuunnittelu ja rajattomeen elementtimenetelmään perustuva HDPE-, alumiini- ja lasikuiturunkojen analyysi. Jokainen runko digitaalisimuloidaan jännitysjakauman ja iskunkestävyyden osalta ennen ensimmäisen prototyyppin rakentamista.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: RF-hitsauskeskus
       description: Oma radiotaajuushitsauslaitos tarkalla lämpötila- ja paineensäädöllä, joka tuottaa korkealujuuisia, tiiviitä liitoksia, jotka täyttävät ilmatäytteisiä vesikulkuneuvoja koskevat meriteollisuuden standardit.
@@ -116,7 +116,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Dynaaminen testiallas
       description: Mittakaavamallien testaus sisäisessä testialtaassamme runkomuodon, suorituskyvyn, vakauden ja polttoainetehokkuuden optimoimiseksi eri kuormitus- ja merioloissa.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Prototyyppipaja
       description: Täysmittakaavan prototyyppi- ja varustuslaitos, jossa uudet mallit rakennetaan, asennetaan ja meritestataan. Jokainen prototyyppi suorittaa vähintään 20 tunnin vesitestiohjelman ennen tuotantohyväksyntää.

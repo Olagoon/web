@@ -78,9 +78,9 @@ featured_guides:
   title: Recursos de conhecimento mais populares
   items:
     - title: Fundamentos de SUP
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Inflável vs Prancha Rígida
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Guia de Segurança Aquática
       href: /learn/water-safety/
     - title: Referência de Materiais
@@ -92,11 +92,11 @@ featured_guides:
     - title: Centro de Tecnologia SUP
       href: /research/
     - title: Manutenção de SUP
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Guia de Turismo
       href: /guides/sup-for-touring/
     - title: Técnicas de Remo
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Comece a explorar
   subtitle: Mergulhe em nossa base de conhecimento e obtenha as informações necessárias para sua próxima aventura aquática.

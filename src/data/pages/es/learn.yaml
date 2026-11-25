@@ -21,11 +21,11 @@ featured:
     - title: Conceptos Básicos de SUP
       description: Todo lo que un principiante necesita saber — tipos de tablas, tamaño del remo, postura y consejos para el primer día.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Tabla Inflable vs Rígida
       description: ¿Cuál es la adecuada para ti? Comparamos portabilidad, rendimiento, durabilidad y costo lado a lado.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Seguridad Acuática
       description: Conocimientos esenciales de seguridad que todo remero debería tener — clima, PFD, autorrescate y más.
       icon: tabler:shield

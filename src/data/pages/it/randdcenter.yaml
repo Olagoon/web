@@ -108,7 +108,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Studio di Ingegneria Hull
       description: Progettazione basata su CAD e analisi agli elementi finiti di scafi in HDPE, alluminio e fibra di vetro. Ogni scafo viene simulato digitalmente per la distribuzione dello stress e la resistenza agli urti prima che venga costruito il primo prototipo.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Centro di Saldatura RF
       description: Struttura dedicata alla saldatura a radiofrequenza con controllo preciso della temperatura e della pressione, producendo giunzioni ad alta resistenza e a tenuta stagna che soddisfano gli standard dell'industria nautica per i mezzi gonfiabili.
@@ -116,7 +116,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Vasca di prova idrodinamica
       description: Prove su modelli in scala nel nostro bacino di prova interno per ottimizzare la forma dello scafo, le prestazioni in planata, la stabilità e l'efficienza del carburante in una gamma di condizioni di carico e di mare.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Officina di Prototipi
       description: Struttura completa per prototipazione e attrezzaggio dove vengono costruiti, montati e collaudati in mare nuovi modelli. Ogni prototipo viene sottoposto a un programma di prova in acqua della durata minima di 20 ore prima dell'approvazione alla produzione.

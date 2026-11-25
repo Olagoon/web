@@ -24,15 +24,11 @@ import { withTrailingSlash } from '~/i18n/routing';
 
 export function getStaticPaths() {
   const slugs = [
-    'sup',
     'water-safety',
-    'sup-basics',
     'drop-stitch-core',
     'inflatable-technology',
-    'intermediate-techniques',
     'materials',
     'safety-in-water-sports',
-    'sup-size-guide',
   ];
   const paths: Array<{ params: { lang: string; slug: string } }> = [];
   for (const lang of Object.keys(languages)) {
@@ -95,43 +91,6 @@ const LEARN_PAGES: Record<
   string,
   { title: string; description: string; articles: Array<{ title: string; desc: string; href: string }> }
 > = {
-  sup: {
-    title: 'SUP Knowledge — Inflatable SUP Guides & Resources | OLagoon',
-    description:
-      'Complete SUP knowledge hub covering beginner guides, board sizing, technique tutorials, safety tips, and inflatable SUP technology.',
-    articles: [
-      {
-        title: "SUP Basics — Beginner's Guide",
-        desc: 'Everything a beginner needs to know — board types, paddle sizing, stance, and first-day tips.',
-        href: '/learn/sup',
-      },
-      {
-        title: 'SUP Size Guide',
-        desc: 'Find the right board length, width, and volume for your weight, skill, and paddling style.',
-        href: '/size-guide',
-      },
-      {
-        title: 'Inflatable vs Hard Board',
-        desc: 'Which is right for you? Portability, performance, durability, and cost compared.',
-        href: '/compare/inflatable-vs-hardboard',
-      },
-      {
-        title: 'Intermediate Techniques',
-        desc: 'Step up your paddling with advanced strokes, turning techniques, and rough-water handling.',
-        href: '/learn/intermediate-techniques',
-      },
-      {
-        title: 'How to Choose an Inflatable SUP',
-        desc: 'Navigate the key factors — construction, thickness, fin setup, and included accessories.',
-        href: '/v2/how-to-choose-inflatable-sup',
-      },
-      {
-        title: 'Water Safety',
-        desc: 'Essential safety knowledge including weather reading, PFD selection, self-rescue, and group paddling.',
-        href: '/learn/water-safety',
-      },
-    ],
-  },
   'water-safety': {
     title: 'Water Safety Knowledge — Safe Paddling Guides | OLagoon',
     description:
@@ -169,12 +128,6 @@ const LEARN_PAGES: Record<
       },
     ],
   },
-  'sup-basics': {
-    title: "SUP Basics — Beginner's Guide to Stand-Up Paddle Boarding",
-    description:
-      "Everything you need to know to start stand-up paddle boarding. Gear guides, sizing advice, safety tips, and beginner techniques from OLagoon's knowledge center.",
-    articles: [],
-  },
   'drop-stitch-core': {
     title: 'Drop-Stitch Core Technology — How Inflatable SUPs Achieve Rigidity',
     description:
@@ -187,12 +140,6 @@ const LEARN_PAGES: Record<
       'How inflatable SUP boards are built — material layup, drop-stitch cores, valve systems, RF welding, and quality testing. Understand what makes a durable, high-performance inflatable.',
     articles: [],
   },
-  'intermediate-techniques': {
-    title: 'Intermediate SUP & Kayak Techniques — Beyond the Basics',
-    description:
-      'Level up your paddling skills with advanced paddle strokes, rough water handling, wind management, self-rescue techniques, and group paddling etiquette. For paddlers ready to move beyond beginner skills.',
-    articles: [],
-  },
   materials: {
     title: 'Inflatable SUP Materials — PVC, EVA & Drop-Stitch Fabric',
     description:
@@ -203,12 +150,6 @@ const LEARN_PAGES: Record<
     title: 'Water Sports Safety — Essential Knowledge for Paddlers',
     description:
       'Essential safety knowledge for every paddler — weather reading, PFD selection, self-rescue, and group paddling protocols.',
-    articles: [],
-  },
-  'sup-size-guide': {
-    title: 'SUP Size Guide — How to Choose the Right Board Length, Width & Volume',
-    description:
-      'Comprehensive SUP sizing guide covering board length, width, thickness, volume (liters), and rider weight matching. Find the right inflatable SUP size for your weight, skill level, and paddling activity.',
     articles: [],
   },
 };

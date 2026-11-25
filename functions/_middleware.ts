@@ -176,7 +176,7 @@ const LEGACY_REDIRECTS: Record<string, string> = {
   '/oem-process': '/oem-odm-manufacturer/',
   '/oem-odm': '/oem-odm-manufacturer/',
   '/quality-testing': '/quality/',
-  '/use-cases/fishing-from-inflatable-craft': '/use-cases/fishing/',
+  '/use-cases/fishing-from-inflatable-craft': '/products/',
   '/use-cases/touring-distance-paddling': '/use-cases/touring/',
   '/solutions/diving-center-boats': '/solutions/rental-operators/',
   '/solutions/fishing-boat-solutions': '/solutions/',

@@ -8,7 +8,7 @@
  *   node TOOLS/verify/verify-jsonld.cjs adventure-sup/index.html@Article,BreadcrumbList,FAQPage \
  *     solutions/index.html@ItemList about/index.html@FAQPage \
  *     guides/beginner-guide/index.html@Article index.html@Organization,WebSite
- *   node TOOLS/verify/verify-jsonld.cjs de/all-around-sup/index.html   # 不带 @ 则仅列出该页出现的 @type
+ *   node TOOLS/verify/verify-jsonld.cjs de/products/index.html   # 不带 @ 则仅列出该页出现的 @type
  *
  * 语法：<dist相对路径>[@类型1,类型2,...]；@type 缺失或 JSON 解析失败均计 FAIL，exit 1。
  */

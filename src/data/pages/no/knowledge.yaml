@@ -78,9 +78,9 @@ featured_guides:
   title: Mest populære kunnskapsressurser
   items:
     - title: SUP-grunnleggende
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Oppblåsbart vs hardt brett
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Vannsikkerhetsguide
       href: /learn/water-safety/
     - title: Materialreferanse
@@ -92,11 +92,11 @@ featured_guides:
     - title: SUP-teknisk senter
       href: /research/
     - title: SUP-vedlikehold
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Turguide
       href: /guides/sup-for-touring/
     - title: Padleteknikker
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Begynn å utforske
   subtitle: Dykk inn i kunnskapsbasen vår og få informasjonen du trenger for ditt neste vanneventyr.

@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Истражи СУП Даске
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Зашто Афарер
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Широке, стабилне свестране даске које први замах чине природним и расту са вама.
       icon: tabler:users
       cta: Пронађите Своју Прву Даску
-      link: /all-around-sup/
+      link: /products/
     - title: Туринг и Авантура
       keywords: туринг суп, суп даска за велике удаљености, експедициони суп
       description: Дуже, уже даске које држе правац, клизу даље и носе опрему за вишедневне руте.
       icon: tabler:building
       cta: Истражите Туринг СУП
-      link: /touring-sup/
+      link: /products/
     - title: Јога и Фитнес
       keywords: суп за јогу, фитнес суп даска, широк стабилан суп
       description: Широке, стабилне платформе са простором за кретање — за јутарње токове, тренинге и равнотежу на мирној води.
       icon: tabler:heart
       cta: Истражите СУП за Јогу
-      link: /yoga-sup/
+      link: /products/
     - title: Риболов и Породица
       keywords: суп за риболов, породична суп даска, стабилна риболовна платформа
       description: Стабилне, практичне платформе за риболов, вожњу са децом и дуге опуштене дане на води.
       icon: tabler:users
       cta: Истражите СУП за Риболов
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Тестирано изван излога
   subtitle: Дизајн, перформансе и квалитет који можете да верификујете — на води и у бројкама.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Истражите Колекцију
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Затражите Каталог
       href: /resources/download-catalog/

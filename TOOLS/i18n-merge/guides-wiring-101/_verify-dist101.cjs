@@ -136,7 +136,7 @@ for (const loc of LOCALES) {
     if (!has(idx, expected)) bad('EN index regression: missing "' + expected + '"');
     else ok();
   }
-  const slugHtml = fs.readFileSync(DIST + '/en/guides/how-to-choose-your-sup/index.html', 'utf8');
+  const slugHtml = fs.readFileSync(DIST + '/technology/index.html', 'utf8');
   for (const expected of ['Buying Guides', 'Beginner', 'The problem', 'The solution']) {
     if (!has(slugHtml, expected)) bad('EN slug regression: missing "' + expected + '"');
     else ok();

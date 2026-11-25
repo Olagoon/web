@@ -21,11 +21,11 @@ featured:
     - title: SUP-grundlæggende
       description: Alt en begynder har brug for at vide — brættyper, pagajstørrelse, holdning og tips til første dag.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Oppustelig vs hård plade
       description: Hvilken er rigtig for dig? Vi sammenligner bærbarhed, ydeevne, holdbarhed og pris side om side.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Vandsikkerhed
       description: Væsentlig sikkerhedsviden enhver padler bør have — vejr, PFD'er, selvbjergning og mere.
       icon: tabler:shield

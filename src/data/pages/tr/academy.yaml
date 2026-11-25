@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Doğru SUP Board Nasıl Seçilir
         desc: SUP seçimi için kapsamlı kılavuz — boyut, hacim, malzeme, şekil ve kullanım amacı.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Şişme SUP ile Sert SUP Karşılaştırması
         desc: Şişirilebilir SUP vs sert epoksi tahta — taşınabilirlik, dayanıklılık, performans ve değer karşılaştırması.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: Çok Amaçlı vs Tur vs Yoga SUP
         desc: Farklı SUP tahta türleri — inşaat standartları, şekiller, boyutlar ve önerilen kullanımlar.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch ve Geleneksel Yapım
         desc: SUP boardları için drop-stitch ve geleneksel üretimi ağırlık, maliyet, dayanıklılık ve sertlik açısından karşılaştırın.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: SUP Tahta Türleri
         desc: Çok amaçlı, tur, yoga, spor ve çocuk SUP'ları — farkları öğrenin ve doğru olanı seçin.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch Teknolojisi
         desc: Binlerce iç ipliğin nasıl rijit, yüksek basınçlı Şişilebilir yapılar oluşturduğu.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: SUP Satın Alma Kılavuzu
         desc: Farklı kullanım alanları ve beceri seviyeleri için farklı SUP panellerini karşılaştırın.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: SUP Bilgisi
     tagline: Ayakta Kürek Çekme Tahtası Rehberleri
     desc: SUP panoları hakkında her şey — şişirilebilir ve rijit, pano boyutları, malzeme teknolojisi ve tüm beceri seviyeleri için uzman tavsiyeleri.
     guides:
       - title: Şişme SUP ile Sert SUP Karşılaştırması
         desc: iSUP'leri ve sert epoksi boardları taşınabilirlik, dayanıklılık, performans ve değer açısından karşılaştırın.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP Tahta Boyutları Rehberi
         desc: Uzunluk, genişlik ve kalınlığın denge, hız ve manevra kabiliyetini nasıl etkilediği.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP Bakımı ve Bakım İpuçları
         desc: Şişirilebilir SUP panoları için temizleme, depolama, UV koruma ve onarım ipuçları.
         href: /v2/inflatable-sup-maintenance/
       - title: İlk SUP'unuzu Seçin
         desc: Kilonuz, beceri düzeyiniz ve kullanım amacınıza uygun stand-up paddleboard seçimi için başlangıç kılavuzu.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Kiralama Operasyonları Kılavuzu
     tagline: Kiralama İşletmeleri İçin Filo Yönetimi
     desc: Plaj kioskları, su sporları merkezleri ve konaklama tesisleri için SUP kiralama filolarının oluşturulması ve yönetilmesine yönelik kılavuzlar.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP ve Diğer Su Aktiviteleri
         desc: Misafir deneyimi ve operasyonel verimlilik için SUP programlarını diğer su sporlarıyla karşılaştırın.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Perakende ve Dağıtım Kılavuzu
     tagline: SUP İş Ortaklıkları
     desc: SUP perakende iş ortağı veya distribütörü olma rehberleri — envanter planlaması, pazar konumlandırması ve büyüme stratejileri.

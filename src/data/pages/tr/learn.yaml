@@ -21,11 +21,11 @@ featured:
     - title: SUP Temelleri
       description: Bir başlangıç seviyesinin bilmesi gereken her şey — board türleri, pala boyutlandırması, duruş ve ilk gün ipuçları.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Şişme vs Sert Board
       description: Hangisi size uygun? Taşınabilirlik, performans, dayanıklılık ve maliyeti yan yana karşılaştırıyoruz.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Su Güvenliği
       description: Her kürekçinin sahip olması gereken temel güvenlik bilgisi — hava durumu, can yelekleri, kendi kendine kurtarma ve daha fazlası.
       icon: tabler:shield

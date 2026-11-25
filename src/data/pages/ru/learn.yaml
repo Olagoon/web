@@ -21,11 +21,11 @@ featured:
     - title: Основы SUP
       description: Всё, что нужно знать новичку — типы досок, размер весла, стойка и советы для первого дня.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Надувной vs Жесткая доска
       description: Что подходит вам? Сравниваем портативность, производительность, долговечность и стоимость.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Безопасность на воде
       description: Основные знания по безопасности для каждого гребца — погода, PFD, самоспасение и многое другое.
       icon: tabler:shield

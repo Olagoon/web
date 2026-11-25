@@ -2,13 +2,13 @@ tagline: Leer
 title: 'Nieuw bij SUP?'
 subtitle: Alles wat je moet weten voordat je het water op gaat.
 cards:
-  - href: '/guides/how-to-choose-your-sup/'
+  - href: '/technology/'
     image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-flowing-lotus-1-1200w.webp'
     title: Zo kies je je SUP
-  - href: '/guides/beginner-guide/'
+  - href: '/technology/'
     image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-jungle-mandala-app-1-1200w.webp'
     title: Peddelhandleiding voor beginners
-  - href: '/guides/inflatable-vs-hard/'
+  - href: '/technology/'
     image: 'https://assets.olagoon.com/images/olagoon/products/sup-series/sup-tropical-breeze-1-1200w.webp'
     title: Opblaasbaar of hard
   - href: '/guides/safety-tips/'

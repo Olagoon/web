@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Hur du väljer rätt SUP-bräda
         desc: Komplett guide till val av SUP — storlek, volym, material, form och avsedd användning.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Luftfyllbart vs. fast SUP
         desc: Luftfyllbart SUP jämfört med hardt epoxibräde — bärbarhet, hållbarprestanda och värde jämfört.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: Allround vs Touring vs Yoga SUP
         desc: Olika SUP-brädtyper — konstruktionsstandard, former, storlekar och rekommenderade användningsområden.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch mot traditionell konstruktion
         desc: Jämför drop-stitch och traditionell konstruktion för SUP-brädor avseende vikt, kostnad, hållbarhet och styvhet.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: SUP-brädetyper
         desc: Allround, touring, yoga, sport och barn-SUP-brädor – lär dig skillnaderna och välj rätt.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-stitch-teknik
         desc: Hur tusentals inre trådar skapar styva, högtrycksuppblåsbara konstruktioner.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: SUP-köpguide
         desc: Jämför olika SUP-brädtyper för olika användningsområden och kunskapsnivåer.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: SUP-kunskap
     tagline: Guider för SUP-brädor
     desc: Allt om SUP-brädor — uppblåsbara mot styva, brädans mått, materialteknik och expertrekommendationer för alla nivåer.
     guides:
       - title: Luftfyllbart vs. fast SUP
         desc: Jämför iSUPs och hårda epoxibrädor avseende portabilitet, hållbarhet, prestanda och värde.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Guide för SUP-bräddimensioner
         desc: Hur längd, bredd och tjocklek påverkar stabilitet, hastighet och manövrerbarhet.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Underhåll och skötsel av SUP
         desc: Råd om rengöring, förvaring, UV-skydd och reparation av uppblåsbara SUP-brädor.
         href: /v2/inflatable-sup-maintenance/
       - title: Välj din första SUP
         desc: Nybörjarguide till val av rätt SUP-bräda för din vikt, färdighetsnivå och avsedda användning.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Handbok för uthyrningsverksamhet
     tagline: Flottförvaltning för uthyrningsföretag
     desc: Guider för att bygga och hantera SUP-uthyrningsflottor för strandkiosker, vattensportcenter och hotellfastigheter.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP och andra vattenaktiviteter
         desc: Jämför SUP-program med andra vattensporter för gästupplevelse och operativ effektivitet.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Handels- och distributörsguide
     tagline: SUP-företagssamarbeten
     desc: Guider för att bli SUP-detaljhandelspartner eller distributör — lagerplanering, marknadspositionering och tillväxtstrategier.

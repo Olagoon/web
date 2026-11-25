@@ -37,7 +37,7 @@ features3_solutions:
     - title: 'Sõudeklubid'
       description: 'Usaldusväärsed SUP-laevastikud sõudeklubidele, õppeprogrammidele ja liikmelisuse haldamisele — äriklassi laudad koos klubihindadega.'
       icon: tabler:users
-      link: /solutions/paddle-clubs/
+      link: /solutions/resorts-hotels/
     - title: 'Rendioperaatorid'
       description: 'Kõrge pöördega supilauad, mis on inseneeritud igapäevaseks rendikasutuseks. UV-kindlad, kiiresti kuivuvad, stackitavad — disainitud rendi koormuseks.'
       icon: tabler:currency-dollar

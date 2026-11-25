@@ -106,7 +106,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Gövde Mühendislik Stüdyosu
       description: HDPE, alüminyum ve fiberglas gövdelerin CAD tabanlı tasarımı ve sonlu eleman analizi. Her gövde, ilk prototip inşa edilmeden önce gerilme dağılımı ve darbe dayanımı için dijital olarak simüle edilir.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: RF Kaynak Merkezi
       description: Hassas sıcaklık ve basınç kontrolüne sahip özel radyo frekansı kaynak tesisi, şişirilebilir su taşıtları için denizcilik endüstrisi standartlarını karşılayan yüksek mukavemetli, hava geçirmez dikişler üretir.
@@ -114,7 +114,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Hidrodinamik Test Tankı
       description: Kendi iç test tankımızda gövde formu, planing performansı, stabilite ve yakıt verimliliğini çeşitli yük ve deniz koşullarında optimize etmek için ölçekli model testi.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Prototip Atölyesi
       description: Tam ölçekli prototip ve donatım tesisinde yeni modeller inşa edilir, donatılır ve deniz testlerine tabi tutulur. Üretim onayı öncesi her prototip en az 20 saatlik su içi test programından geçer.

@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Cómo elegir la tabla de SUP adecuada
         desc: 'Guía completa para seleccionar un SUP: tamaño, volumen, material, forma y uso previsto.'
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP inflable vs rígido
         desc: 'SUP inflable vs tabla dura de epoxi: comparación de portabilidad, durabilidad, rendimiento y valor.'
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: SUP All-Around vs Touring vs Yoga
         desc: 'Diferentes tipos de tablas de SUP: estándares de construcción, formas, tamaños y usos recomendados.'
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Confección Drop-Stitch vs Tradicional
         desc: Compara la construcción drop-stitch y la tradicional para tablas SUP en cuanto a peso, costo, durabilidad y rigidez.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: Tipos de tablas de SUP
         desc: 'SUPs para todo uso, de travesía, yoga, deporte y para niños: aprende las diferencias y elige el adecuado.'
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Tecnología de punto caído
         desc: Cómo miles de hilos internos crean estructuras inflables rígidas de alta presión.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: Guía de compra de SUP
         desc: Compara diferentes tipos de tablas de SUP para distintos casos de uso y niveles de habilidad.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Conocimiento de SUP
     tagline: Guías de Paddleboard de Pie
     desc: 'Todo sobre las tablas de SUP: inflables vs rígidas, dimensiones de la tabla, tecnología de materiales y consejos de expertos para todos los niveles de habilidad.'
     guides:
       - title: SUP inflable vs rígido
         desc: Compara los iSUP y las tablas duras de epoxi en cuanto a portabilidad, durabilidad, rendimiento y valor.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Guía de Dimensiones de Tablas SUP
         desc: Cómo la longitud, el ancho y el grosor afectan la estabilidad, la velocidad y la maniobrabilidad.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Mantenimiento y cuidado del SUP
         desc: Consejos para la limpieza, almacenamiento, protección UV y reparación de tablas de SUP inflables.
         href: /v2/inflatable-sup-maintenance/
       - title: Elegir tu primer SUP
         desc: Guía para principiantes para seleccionar la tabla de paddle surf adecuada según tu peso, nivel de habilidad y uso previsto.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Guía de Operaciones de Alquiler
     tagline: Gestión de flotas para negocios de alquiler
     desc: Guías sobre la construcción y gestión de flotas de alquiler de SUP para quioscos de playa, centros de deportes acuáticos y propiedades hoteleras.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP frente a otras actividades acuáticas
         desc: Compare los programas de SUP con otros deportes acuáticos en cuanto a la experiencia del huésped y la eficiencia operativa.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Guía de Venta y Distribución
     tagline: Asociaciones Comerciales SUP
     desc: 'Guías sobre cómo convertirse en un socio minorista o distribuidor de SUP: planificación de inventario, posicionamiento en el mercado y estrategias de crecimiento.'

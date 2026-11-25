@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Explorer les SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Pourquoi OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Des planches polyvalentes larges et stables qui rendent votre premier coup de pagaie naturel et vous suivent dans votre progression.
       icon: tabler:users
       cta: Trouvez Votre Première Planche
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Aventure
       keywords: SUP touring, paddleboard longue distance, SUP expédition
       description: Des planches plus longues et plus étroites conçues pour garder le cap, glisser plus loin et embarquer du matériel sur plusieurs jours.
       icon: tabler:building
       cta: Explorer les SUP de Touring
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Fitness
       keywords: SUP yoga, paddleboard fitness, SUP large et stable
       description: Des plateformes larges et stables avec de l’espace pour bouger — pour vos flows au lever du soleil, vos entraînements et votre équilibre en eau calme.
       icon: tabler:heart
       cta: Explorer le SUP Yoga
-      link: /yoga-sup/
+      link: /products/
     - title: Pêche & Famille
       keywords: SUP pêche, paddleboard familial, plateforme de pêche stable
       description: Des plateformes stables et pratiques pour pêcher, naviguer en famille et profiter de longues journées détente sur l’eau.
       icon: tabler:users
       cta: Explorer le SUP Pêche
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Testé au-delà du showroom
   subtitle: Design, performance et qualité vérifiables — sur l’eau comme dans les chiffres.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Explorer la Collection
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Demander le Catalogue
       href: /resources/download-catalog/

@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Tyrinėkite SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Kodėl OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Platos, stabilios universalios lentos, su kuriomis pirmas irklo mostas jaučiasi natūraliai ir kurios auga kartu su jumis.
       icon: tabler:users
       cta: Raskite Savo Pirmą Lentą
-      link: /all-around-sup/
+      link: /products/
     - title: Turizmas ir Nuotykiai
       keywords: turizinis sup, tolimų atstumų padelbordas, ekspedicinis sup
       description: Ilgesnės, siauresnės lentos, kurios laiko kryptį, slysta toliau ir gabena įrangą kelių dienų maršrutams.
       icon: tabler:building
       cta: Tyrinėkite Turizmo SUP
-      link: /touring-sup/
+      link: /products/
     - title: Joga ir Sportas
       keywords: jogos sup, sporto padelbordas, platus stabilus sup
       description: Platos, stabilios platformos su erdve judėti — saulėtekio srovėms, treniruotėms ir pusiausvyrai ramiame vandenyje.
       icon: tabler:heart
       cta: Tyrinėkite Jogos SUP
-      link: /yoga-sup/
+      link: /products/
     - title: Žvejyba ir Šeima
       keywords: žvejybos sup, šeimos padelbordas, stabili žvejybos platforma
       description: Stabilios, praktiškos platformos žvejybai, irklavimui su vaikais ir ilgoms ramiai dienoms vandenyje.
       icon: tabler:users
       cta: Tyrinėkite Žvejybos SUP
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Išbandyta daugiau nei salonuose
   subtitle: Dizainas, našumas ir kokybė, kuriuos galite patikrinti — vandenyje ir skaičiuose.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Tyrinėkite Kolekciją
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Užsisakykite Katalogą
       href: /resources/download-catalog/

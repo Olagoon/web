@@ -106,7 +106,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Skrogteknisk studio
       description: CAD-drevet design og endelig elementanalyse av HDPE-, aluminiums- og glassfiberskrog. Hvert skrog simuleres digitalt for spenningsfordeling og støtmotstand før den første prototypen bygges.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: RF-sveisesenter
       description: Dedikert sveiseanlegg for radiofrekvenssveising med presis temperatur- og trykkontroll, som produserer høyfester tetteste sommer som oppfyller marineindustriens standarder for oppblåsbare farkoster.
@@ -114,7 +114,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Hydrodynamisk testtank
       description: Modelltesting i vår interne testtank for å optimalisere skrogform, planeytelse, stabilitet og drivstoffeffektivitet under ulike last- og sjøforhold.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Prototypverksted
       description: Fullskala prototyping og utrustning der nye modeller bygges, utrustes og prøvekjøres. Hver prototype gjennomgår minimum 20 timers vanntest før produksjonsgodkjenning.

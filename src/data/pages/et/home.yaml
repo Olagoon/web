@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Avasta SUP-e
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Miks OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Laiad, stabiilsed mitmekülgsed lauad, millega esimene sõudetõuge tundub loomulik ja mis kasvavad koos sinuga.
       icon: tabler:users
       cta: Leia Oma Esimene Laud
-      link: /all-around-sup/
+      link: /products/
     - title: Matkamine ja Seiklus
       keywords: matka-sup, pika vahemaa paddle’i laud, ekspeditsiooni sup
       description: Pikemad, kitsamad lauad, mis hoiavad kurssi, libisevad kaugemale ja kannavad varustust mitmepäevasteks marsruutideks.
       icon: tabler:building
       cta: Avasta Matka-SUP-e
-      link: /touring-sup/
+      link: /products/
     - title: Jooga ja Fitness
       keywords: joogasup, fitnessi paddle’i laud, lai stabiilne sup
       description: Laiad, stabiilsed platvormid liigutamise ruumiga — päikesetõusu voogudeks, trennideks ja tasakaaluks rahulikus vees.
       icon: tabler:heart
       cta: Avasta Jooga-SUP-e
-      link: /yoga-sup/
+      link: /products/
     - title: Kalapüük ja Pere
       keywords: kalastamise sup, pere paddle’i laud, stabiilne kalapüügi platvorm
       description: Stabiilsed, praktilised platvormid kalapüügiks, lastega sõudmiseks ja pikkadeks lõõgastavateks päevadeks vees.
       icon: tabler:users
       cta: Avasta Kalastamis-SUP-e
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Testitud rohkem kui näitusesaalis
   subtitle: Disain, jõudlus ja kvaliteet, mida saad kontrollida — vees ja arvudes.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Avasta Kollektsioon
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Küsi Kataloogi
       href: /resources/download-catalog/

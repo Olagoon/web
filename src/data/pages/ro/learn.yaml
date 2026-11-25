@@ -21,11 +21,11 @@ featured:
     - title: Bazele SUP
       description: Tot ce trebuie să știe un începător — tipuri de plăci, dimensiunea padelei, poziția și sfaturi pentru prima zi.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Placă gonflabilă vs placă rigidă
       description: Care este potrivită pentru tine? Comparam portabilitatea, performanța, durabilitatea și costul una lângă alta.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Siguranța pe apă
       description: Cunoștințe esențiale de siguranță pe care fiecare vâslaș ar trebui să le aibă — vreme, PFD-uri, auto-salvare și multe altele.
       icon: tabler:shield

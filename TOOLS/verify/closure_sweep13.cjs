@@ -6,8 +6,8 @@ const ROUTES = [
   '/solutions/', // solutions 索引
   '/solutions/sup-brand-startup/', // solution 详情
   '/guides/', // guides 索引
-  '/guides/beginner-guide/', // guide 详情
-  '/yoga-sup/', // landing-i18n 页
+  '/technology/', // guide 详情
+  '/products/', // landing-i18n 页
   '/privacy/', // 法律 landing 页
 ];
 // 脚本字符集与最低阈值(语言切换器/导航/页脚本地化 UI 保证底线)

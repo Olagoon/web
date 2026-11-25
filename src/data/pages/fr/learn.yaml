@@ -21,11 +21,11 @@ featured:
     - title: Bases du SUP
       description: Tout ce qu'un débutant doit savoir — types de planches, taille de pagaie, position et conseils pour le premier jour.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Gonflable vs Planche Rigide
       description: Quel est le bon choix pour vous ? Nous comparons portabilité, performance, durabilité et coût côte à côte.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Sécurité Aquatique
       description: Connaissances de sécurité essentielles pour chaque pagayeur — météo, gilets de sauvetage, auto-sauvetage et plus.
       icon: tabler:shield

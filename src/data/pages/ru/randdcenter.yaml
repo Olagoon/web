@@ -108,7 +108,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Инженерная студия Hull
       description: Проектирование с использованием САПР и конечно-элементный анализ корпусов из ПНД, алюминия и стеклопластика. Каждый корпус цифрово моделируется для распределения напряжений и устойчивости к ударам до того, как будет построен первый прототип.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Центр сварки РФ
       description: Специализированное предприятие по радиочастотной сварке с точным контролем температуры и давления, производящее высокопрочные, герметичные швы, соответствующие стандартам морской промышленности для надувных судов.
@@ -116,7 +116,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Гидродинамическая испытательная камера
       description: Испытания масштабной модели в нашем внутреннем испытательном бассейне для оптимизации формы корпуса, планирующих характеристик, устойчивости и топливной эффективности при различных нагрузках и условиях моря.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Мастерская прототипов
       description: Полноценное подразделение по прототипированию и оснащению, где создаются новые модели, их устанавливают и проводят морские испытания. Каждый прототип проходит минимум 20 часов испытаний на воде перед утверждением к производству.

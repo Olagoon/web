@@ -78,9 +78,9 @@ featured_guides:
   title: Beliebteste Wissensressourcen
   items:
     - title: SUP-Grundlagen
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Aufblasbar vs. Hartschale
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Wassersicherheitsleitfaden
       href: /learn/water-safety/
     - title: Material-Referenz
@@ -92,11 +92,11 @@ featured_guides:
     - title: SUP Tech Zentrum
       href: /research/
     - title: SUP-Wartung
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Reiseführer
       href: /guides/sup-for-touring/
     - title: Paddeltechniken
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Entdecken Sie jetzt
   subtitle: Tauchen Sie in unsere Wissensdatenbank ein und erhalten Sie die Informationen, die Sie für Ihr nächstes Wasserabenteuer benötigen.

@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Comment choisir la bonne planche SUP ?
         desc: Guide complet pour choisir un SUP — taille, volume, matériau, forme et usage prévu.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP gonflable vs rigide
         desc: SUP gonflable vs planche époxy rigide — portabilité, durabilité, performance et rapport qualité-prix.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: SUP polyvalent vs touring vs yoga
         desc: Différents types de planches SUP — normes de construction, formes, tailles et usages recommandés.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch vs construction traditionnelle
         desc: Comparez la construction drop-stitch et traditionnelle pour les planches SUP en termes de poids, coût, durabilité et rigidité.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: Types de planches SUP
         desc: SUP tout-terrain, touring, yoga, sport et enfants — apprenez les différences et choisissez le bon.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Technologie Drop-Stitch
         desc: Comment des milliers de fils internes créent des structures gonflables rigides à haute pression.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: Guide d'achat SUP
         desc: Comparez différents types de planches SUP pour différents cas d'usage et niveaux de compétence.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Connaissances SUP
     tagline: Guides de planches à pagaie
     desc: Tout sur les planches SUP — gonflable vs rigide, dimensions, technologie des matériaux et conseils d'experts.
     guides:
       - title: SUP gonflable vs rigide
         desc: Comparez les iSUP et les planches epoxy dures en termes de portabilité, durabilité, performance et valeur.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Guide des Dimensions de Planches SUP
         desc: Comment la longueur, la largeur et l'épaisseur affectent la stabilité, la vitesse et la maniabilité.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Entretien et Soin des SUP
         desc: Conseils de nettoyage, stockage, protection UV et réparation pour planches SUP gonflables.
         href: /v2/inflatable-sup-maintenance/
       - title: Choisir Votre Premier SUP
         desc: Guide du débutant pour choisir la planche de paddle adaptée à votre poids, niveau et usage.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Guide des Opérations de Location
     tagline: Gestion de flotte pour locations
     desc: Guides pour constituer et gérer des flottes SUP de location pour kiosques de plage, centres nautiques et hôtellerie.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP vs Autres Activités Nautiques
         desc: Comparez les programmes SUP avec d'autres sports nautiques pour l'expérience client et l'efficacité opérationnelle.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Guide de Vente au Détail et Distribution
     tagline: Partenariats commerciaux SUP
     desc: Guides pour devenir partenaire de vente au détail ou distributeur SUP — planification des stocks, positionnement et stratégies de croissance.

@@ -108,7 +108,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Estudio de Ingeniería Hull
       description: Diseño impulsado por CAD y análisis de elementos finitos de cascos de HDPE, aluminio y fibra de vidrio. Cada casco se simula digitalmente para la distribución de tensiones y la resistencia a impactos antes de construir el primer prototipo.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Centro de Soldadura RF
       description: Instalación dedicada a la soldadura por radiofrecuencia con control preciso de temperatura y presión, que produce costuras de alta resistencia e impermeables que cumplen con los estándares de la industria marina para equipos inflables.
@@ -116,7 +116,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Tanque de prueba hidrodinámico
       description: Pruebas con modelos a escala en nuestro tanque de pruebas interno para optimizar la forma del casco, el rendimiento de planeo, la estabilidad y la eficiencia de combustible en una variedad de condiciones de carga y mar.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Taller de Prototipos
       description: Instalación de prototipado y aparejo a gran escala donde se construyen, ajustan y prueban en el mar los nuevos modelos. Cada prototipo pasa por un programa de pruebas en agua de mínimo 20 horas antes de la aprobación de producción.

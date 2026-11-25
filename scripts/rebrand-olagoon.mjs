@@ -256,6 +256,9 @@ const REMAP = [
   [new RegExp(`/${LANG}randdcenter/(?:hull-engineering|hydrodynamic-test-tank)/`, 'g'), '/technology/'],
   [new RegExp(`/${LANG}research/(?:sup-thickness-guide|sup-paddle-technology|board-hull-design|fin-systems-guide|eva-foam-technology)/`, 'g'), '/technology/'],
   [new RegExp(`/${LANG}guides/(?:how-to-choose-your-sup|choosing-paddle|paddling-techniques|kayak-techniques|multi-day-trip|inflatable-vs-hard|beginner-guide|sup-fishing|sup-yoga|sup-fitness|sup-maintenance|sup-with-kids|what-is-sup|understanding-specs|weather-conditions)/`, 'g'), '/technology/'],
+  [new RegExp(`/${LANG}research/sup-valve-types/`, 'g'), '/technology/'],
+  [new RegExp(`/${LANG}research/sup-manufacturing-process/`, 'g'), '/technology/'],
+  [new RegExp(`/${LANG}learn/sup/`, 'g'), '/learn/water-safety/'],
 ];
 
 /* ---------------- main ---------------- */

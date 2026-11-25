@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Utforska SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Varför OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Breda, stabila allround-brädor som får ditt första paddeltag att kännas naturligt och följer med dig när du utvecklas.
       icon: tabler:users
       cta: Hitta Din Första Bräda
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Äventyr
       keywords: touring sup, långfärdspaddleboard, expeditionssup
       description: Längre, smalare brädor byggda för att hålla kursen, glida längre och bära packning för flerdagarsturer.
       icon: tabler:building
       cta: Utforska Touring SUP
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Träning
       keywords: yoga sup, träningspaddleboard, bred stabil sup
       description: Breda, stabila plattformar med utrymme att röra sig — för soluppgångsflöden, pass och balans på lugnt vatten.
       icon: tabler:heart
       cta: Utforska Yoga SUP
-      link: /yoga-sup/
+      link: /products/
     - title: Fiske & Familj
       keywords: fiskesup, familjepaddleboard, stabil fiskeplattform
       description: Stabila, praktiska plattformar för mete, utflykter med barnen och långa avslappnade dagar på vattnet.
       icon: tabler:users
       cta: Utforska Fiske SUP
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Testat bortom showroomet
   subtitle: Design, prestanda och kvalitet du kan verifiera — på vattnet och i siffrorna.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Utforska Kollektionen
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Begär Katalogen
       href: /resources/download-catalog/

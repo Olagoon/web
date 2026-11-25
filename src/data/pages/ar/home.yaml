@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: استكشف ألواح SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: لماذا OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: ألواح متعددة الاستخدامات عريضة وثابتة تجعل ضربتك الأولى طبيعية وترافقك أثناء تقدمك.
       icon: tabler:users
       cta: اعثر على لوحك الأول
-      link: /all-around-sup/
+      link: /products/
     - title: الرحلات والمغامرات
       keywords: ساب للرحلات, لوح تجديف للمسافات الطويلة, ساب للبعثات
       description: ألواح أطول وأضيق تحافظ على المسار وتنزلق أبعد وتحمل العتاد لمسارات تمتد أياماً.
       icon: tabler:building
       cta: استكشف ألواح الرحلات
-      link: /touring-sup/
+      link: /products/
     - title: اليوغا واللياقة
       keywords: ساب لليوغا, لوح تجديف للياقة, ساب عريض وثابت
       description: منصات عريضة وثابتة بمساحة للحركة — لتمارين الشروق واللياقة والتوازن على المياه الهادئة.
       icon: tabler:heart
       cta: استكشف ساب اليوغا
-      link: /yoga-sup/
+      link: /products/
     - title: صيد السمك والعائلة
       keywords: ساب لصيد السمك, لوح تجديف عائلي, منصة صيد ثابتة
       description: منصات ثابتة وعملية لصيد السمك والتجديف مع الأطفال وأيام طويلة من الاسترخاء على الماء.
       icon: tabler:users
       cta: استكشف ساب الصيد
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: مُختبرة بما يتجاوز حدود صالة العرض
   subtitle: تصميم وأداء وجودة يمكنك التحقق منها — على الماء وفي الأرقام.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: استكشف المجموعة
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: اطلب الكتالوج
       href: /resources/download-catalog/

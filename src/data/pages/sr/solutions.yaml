@@ -37,7 +37,7 @@ features3_solutions:
     - title: 'Веслачки клубови'
       description: 'Поуздане SUP флоте за веслачке клубове, програме обуке и чланске операције — комерцијалне даске са клубским ценама.'
       icon: tabler:users
-      link: /solutions/paddle-clubs/
+      link: /solutions/resorts-hotels/
     - title: 'Оператери изнајмљивања'
       description: 'SUP даске велике ротације конструисане за свакодневну употребу у изнајмљивању. UV отпорне, брзо се суше, слажу се — дизајниране за изнајмљивачки ритам.'
       icon: tabler:currency-dollar

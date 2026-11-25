@@ -21,11 +21,11 @@ featured:
     - title: SUP-perusteet
       description: Kaikki mitä aloittelijan tarvitsee tietää — lautatyypit, melakoko, asento ja vinkit ensimmäiselle päivälle.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Kumilauta vs kova lauta
       description: Kumpi sopii sinulle? Vertaamme kannettavuutta, suorituskykyä, kestävyyttä ja hintaa rinnakkain.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Vesiturvallisuus
       description: Olennaista turvallisuustietoa, joka jokaisen melojan tulisi hallita — sää, pelastusliivit, itsensä pelastaminen ja paljon muuta.
       icon: tabler:shield

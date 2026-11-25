@@ -21,11 +21,11 @@ featured:
     - title: Basi del SUP
       description: Tutto ciò che un principiante deve sapere — tipi di tavole, dimensioni della pagaia, postura e consigli per il primo giorno.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Gonfiabile vs Tavola Rigida
       description: Qual è quella giusta per te? Confrontiamo portabilità, prestazioni, durata e costo.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Sicurezza in Acqua
       description: Conoscenze essenziali di sicurezza per ogni pagaiatore — meteo, giubbotti, autorescue e altro.
       icon: tabler:shield

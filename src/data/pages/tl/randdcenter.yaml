@@ -111,7 +111,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Hull Engineering Studio'
       description: 'Disenyong hinihimok ng CAD at finite element analysis ng mga hull na HDPE, aluminum, at fiberglass. Ang bawat hull ay digitally sinusuon para sa distribusyon ng stress at paglaban sa impact bago gawin ang unang prototype.'
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'RF Welding Center'
       description: 'Nakalaang pasilidad ng radio-frequency welding na may tumpak na kontrol sa temperatura at presyon, na lumilikha ng malakas at hindi tumatablan ng hangin na seam na tumutugon sa mga pamantayan ng industriyang pandagat para sa inflatable craft.'
@@ -119,7 +119,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Hydrodynamic Test Tank'
       description: "Pagsubok sa scale-model sa aming in-house na test tank upang i-optimize ang hull form, planing performance, katatagan, at kahusayan sa konsumo sa iba't ibang karga at kundisyon ng dagat."
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Prototype Workshop'
       description: 'Pasilidad para sa full-scale na prototyping at rigging kung saan ginagawa, isinasaayos, at sinusubok sa dagat ang mga bagong model. Ang bawat prototype ay dumadaan sa pinakamababang 20-oras na test programme sa tubig bago aprubahin para sa produksyon.'

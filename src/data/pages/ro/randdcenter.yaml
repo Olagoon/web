@@ -108,7 +108,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Studioul de Inginerie a Carenelor
       description: Design bazat pe CAD și analiză cu elemente finite pentru carene din HDPE, aluminiu și fibră de sticlă. Fiecare carenă este simulată digital pentru distribuția tensiunilor și rezistența la impact înainte de realizarea primului prototip.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Centru de sudare RF
       description: Unități dedicate de sudare prin radiofrecvență, cu control de precizie al temperaturii și presiunii, care produc cusături rezistente și etanșe, conforme standardelor industriei maritime pentru plăcile gonflabile.
@@ -116,7 +116,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Bazin de testare hidrodinamică
       description: Testarea modelelor la scară în bazinul nostru de testare propriu pentru a optimiza forma carenei, performanța de planare, stabilitatea și eficiența consumului de combustibil într-o gamă largă de condiții de încărcare și de mare.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Atelier de prototipuri
       description: Instalație de prototipare și echipare la scară reală, unde modelele noi sunt construite, dotate și testate pe mare. Fiecare prototip parcurge un program de testare în apă de minimum 20 de ore înainte de aprobarea producției.

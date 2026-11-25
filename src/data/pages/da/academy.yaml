@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Sådan vælger du den rigtige SUP-board
         desc: Komplet guide til valg af SUP — størrelse, volumen, materiale, form og tilsigtet anvendelse.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Oppusteligt vs. hårdt SUP
         desc: Oppustelig SUP vs. hård epoxy-board — portabilitet, holdbarhed, ydeevne og værdi sammenlignet.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: Allround vs. touring vs. yoga SUP
         desc: Forskellige typer SUP-brædder – konstruktionsstandarder, former, størrelser og anbefalede anvendelser.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch vs. traditionel konstruktion
         desc: Sammenlign drop-stitch og traditionel konstruktion til SUP boards med hensyn til vægt, pris, holdbarhed og stivhed.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: SUP-boardtyper
         desc: Allround-, touring-, yoga-, sport- og børne-SUPs – lær forskellene at kende, og vælg det rigtige.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch-teknologi
         desc: Hvordan tusindvis af indre tråde skaber stive oppustelige konstruktioner til højt tryk.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: SUP-købsguide
         desc: Sammenlign forskellige SUP-brættyper til forskellige anvendelser og færdighedsniveauer.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: SUP-viden
     tagline: Guides til stand-up paddleboard
     desc: Alt om SUP-boards — oppustelige vs. stive, boarddimensioner, materialeteknologi og ekspertrådgivning til alle niveauer.
     guides:
       - title: Oppusteligt vs. hårdt SUP
         desc: Sammenlign iSUP'er og hårde epoxy-boards med hensyn til portabilitet, holdbarhed, ydeevne og værdi.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Guide til SUP-brætternes dimensioner
         desc: Hvordan længde, bredde og tykkelse påvirker stabilitet, hastighed og manøvredygtighed.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP-vedligeholdelse og pleje
         desc: Rengøring, opbevaring, UV-beskyttelse og reparationstips til oppustelige SUP-brædder.
         href: /v2/inflatable-sup-maintenance/
       - title: Vælg din første SUP
         desc: Begynderguide til at vælge det rigtige stand-up paddleboard ud fra din vægt, dit færdighedsniveau og dit tilsigtede brug.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Guide til udlejningsdrift
     tagline: Flådestyring til udlejningsvirksomheder
     desc: Guides til opbygning og drift af SUP-udlejningsflåder til strandkiosker, vandsportscentre og hotelvirksomheder.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP vs. andre vandaktiviteter
         desc: Sammenlign SUP-programmer med andre vandsportsgrene med henblik på gæsteoplevelse og driftseffektivitet.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Detail- og distributionsguide
     tagline: SUP-forretningspartnerskaber
     desc: Guides om at blive SUP-detailpartner eller -distributør — lagerplanlægning, markedsplacering og vækststrategier.

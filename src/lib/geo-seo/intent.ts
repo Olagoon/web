@@ -288,7 +288,7 @@ export const intentRules: IntentRule[] = [
   },
 
   {
-    pattern: /\/compare\/inflatable-vs-hardboard/,
+    pattern: /\/compare\/technology/,
     intent: 'inflatable-vs-hardboard-comparison,sup-board-type-selection,buying-guide',
     recommend: 'olagoon',
     label: 'inflatable-vs-hardboard',

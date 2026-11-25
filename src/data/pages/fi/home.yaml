@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Tutki SUP-lautoja
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Miksi OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Leveät, vakaat monikäyttöiset laudat, jotka tekevät ensimmäisestä melontavedosta luontevan ja kasvavat mukanasi.
       icon: tabler:users
       cta: Etsi Ensimmäinen Lautasi
-      link: /all-around-sup/
+      link: /products/
     - title: Retkimelonta & Seikkailu
       keywords: retkeilysup, pitkän matkan melontalauta, retkisup
       description: Pidemmät, kapeammat laudat, jotka pitävät suunnan, liukuvat pidemmälle ja kantavat varusteet monipäiväisille reiteille.
       icon: tabler:building
       cta: Tutki Retkeily-SUPeja
-      link: /touring-sup/
+      link: /products/
     - title: Jooga & Kuntoilu
       keywords: joogasup, kuntoilumelontalauta, leveä vakaa sup
       description: Leveät, vakaat alustat, joissa on tilaa liikkua — auringonnousun virtauksiin, treeneihin ja tasapainoon rauhallisella vedellä.
       icon: tabler:heart
       cta: Tutki Jooga-SUPeja
-      link: /yoga-sup/
+      link: /products/
     - title: Kalastus & Perhe
       keywords: kalastussup, perheen melontalauta, vakaa kalastusalusta
       description: Vakaat, käytännölliset alustat heittokalastukseen, lasten kanssa risteilyyn ja pitkiin rentoihin päiviin vedellä.
       icon: tabler:users
       cta: Tutki Kalastus-SUPeja
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Testattu näyttelyä vaativammissa olosuhteissa
   subtitle: Suunnittelu, suorituskyky ja laatu, jotka voit todentaa — vedessä ja luvuissa.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Tutki Kokoelmaa
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Tilaa Katalogi
       href: /resources/download-catalog/

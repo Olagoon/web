@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Como Escolher a Prancha de SUP Certa
         desc: Guia completo para escolher um SUP — tamanho, volume, material, formato e uso pretendido.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP Inflável vs Rígido
         desc: SUP inflável vs prancha dura de epóxi — portabilidade, durabilidade, desempenho e valor comparados.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: SUP All-Around vs Touring vs Yoga
         desc: Diferentes tipos de prancha de SUP — padrões de construção, formatos, tamanhos e usos recomendados.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Construção Drop-Stitch vs Tradicional
         desc: Compare a construção drop-stitch e a construção tradicional para pranchas de SUP em termos de peso, custo, durabilidade e rigidez.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: Tipos de Pranchas de SUP
         desc: SUPs para todas as finalidades, passeios, yoga, esportes e crianças — aprenda as diferenças e escolha o certo.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Tecnologia Drop-Stitch
         desc: Como milhares de fios internos criam estruturas infláveis rígidas e de alta pressão.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: Guia de Compra de SUP
         desc: Compare diferentes tipos de pranchas de SUP para diferentes usos e níveis de habilidade.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Conhecimento de SUP
     tagline: Guias de Stand-Up Paddle
     desc: Tudo sobre pranchas de SUP — infláveis vs rígidas, dimensões da prancha, tecnologia dos materiais e conselhos de especialistas para todos os níveis de habilidade.
     guides:
       - title: SUP Inflável vs Rígido
         desc: Compare iSUPs e pranchas rígidas de epóxi em termos de portabilidade, durabilidade, desempenho e custo-benefício.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Guia de Dimensões de Prancha de SUP
         desc: Como comprimento, largura e espessura afetam a estabilidade, velocidade e manobrabilidade.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Manutenção e Cuidados com SUP
         desc: Dicas de limpeza, armazenamento, proteção contra UV e reparo para pranchas infláveis de SUP.
         href: /v2/inflatable-sup-maintenance/
       - title: Escolhendo Seu Primeiro SUP
         desc: Guia para iniciantes sobre como escolher a prancha de stand-up paddle certa para o seu peso, nível de habilidade e uso pretendido.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Guia de Operações de Aluguel
     tagline: Gestão de Frotas para Negócios de Aluguel
     desc: Guias sobre como construir e gerenciar frotas de aluguel de SUP para quiosques de praia, centros de esportes aquáticos e propriedades de hospitalidade.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP vs Outras Atividades Aquáticas
         desc: Compare os programas de SUP com outros esportes aquáticos em termos de experiência do hóspede e eficiência operacional.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Guia de Varejo e Distribuição
     tagline: Parcerias de Negócios SUP
     desc: Guias sobre como se tornar um parceiro de varejo ou distribuidor de SUP — planejamento de estoque, posicionamento no mercado e estratégias de crescimento.

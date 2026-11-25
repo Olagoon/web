@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Udforsk SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Hvorfor OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Brede, stabile allround-boards der får dit første pagajslag til at føles naturligt og følger dig, efterhånden som du bliver bedre.
       icon: tabler:users
       cta: Find dit første Board
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Eventyr
       keywords: touring sup, langturspaddleboard, ekspeditionssup
       description: Længere, smallere boards bygget til at holde kursen, glide længere og bære udstyr til ture over flere dage.
       icon: tabler:building
       cta: Udforsk Touring SUP
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Fitness
       keywords: yoga sup, fitness paddleboard, bred og stabil sup
       description: Brede, stabile platformer med plads til bevægelse — til solopgangsflows, træning og balance på stille vand.
       icon: tabler:heart
       cta: Udforsk Yoga SUP
-      link: /yoga-sup/
+      link: /products/
     - title: Fiskeri & Familie
       keywords: fiskerisup, familie paddleboard, stabil fiskeplatform
       description: Stabile, praktiske platformer til fiskeri, ture med børnene og lange, afslappede dage på vandet.
       icon: tabler:users
       cta: Udforsk Fiskerisup
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Testet ud over showroomet
   subtitle: Design, ydeevne og kvalitet, du kan verificere — på vandet og i tallene.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Udforsk Kollektionen
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Bestil Kataloget
       href: /resources/download-catalog/

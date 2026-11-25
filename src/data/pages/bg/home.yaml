@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Разгледай SUP Дъските
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Защо OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Широки, стабилни универсални дъски, с които първото загребване се усеща естествено и които растат с теб.
       icon: tabler:users
       cta: Намери Първата Си Дъска
-      link: /all-around-sup/
+      link: /products/
     - title: Туринг и Приключения
       keywords: туринг sup, sup дъска за дълги разстояния, експедиционно sup
       description: По-дълги и по-тесни дъски, които държат курса, пързалат по-далеч и носят екипировка за многодневни маршрути.
       icon: tabler:building
       cta: Разгледай Туринг SUP
-      link: /touring-sup/
+      link: /products/
     - title: Йога и Фитнес
       keywords: sup за йога, фитнес sup дъска, широко стабилно sup
       description: Широки, стабилни платформи с пространство за движение — за утринни практики, тренировки и баланс на спокойна вода.
       icon: tabler:heart
       cta: Разгледай SUP за Йога
-      link: /yoga-sup/
+      link: /products/
     - title: Риболов и Семейство
       keywords: sup за риболов, семейна sup дъска, стабилна риболовна платформа
       description: Стабилни, практични платформи за риболов, разходки с децата и дълги спокойни дни на водата.
       icon: tabler:users
       cta: Разгледай SUP за Риболов
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Изпитани отвъд шоурума
   subtitle: Дизайн, производителност и качество, които можете да проверите — на водата и в цифрите.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Разгледай Колекцията
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Заяви Каталог
       href: /resources/download-catalog/

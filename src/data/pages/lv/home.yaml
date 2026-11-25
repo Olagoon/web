@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Izpēti SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Kāpēc OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Plati, stabili daudzpusīgie bordi, ar kuriem pirmais airējiena vēziens šķiet dabisks un kas izaug līdzi ar tevi.
       icon: tabler:users
       cta: Atrodi Savu Pirmo Bordu
-      link: /all-around-sup/
+      link: /products/
     - title: Tūrisms un Piedzīvojumi
       keywords: tūrisma sup, garās distances pādelbords, ekspedīcijas sup
       description: Garāki, šaurāki bordi, kas notur kursu, slīd tālāk un pārvadā ekipējumu vairāku dienu maršrutiem.
       icon: tabler:building
       cta: Izpēti Tūrisma SUP
-      link: /touring-sup/
+      link: /products/
     - title: Joga un Fitness
       keywords: jogas sup, fitness pādelbords, plats stabils sup
       description: Platas, stabilas platformas ar kustības telpu — saullēkta plūsmām, treniņiem un līdzsvaram mierīgā ūdenī.
       icon: tabler:heart
       cta: Izpēti Jogas SUP
-      link: /yoga-sup/
+      link: /products/
     - title: Makšķerēšana un Ģimene
       keywords: makšķerēšanas sup, ģimenes pādelbords, stabila makšķerēšanas platforma
       description: Stabilas, praktiskas platformas makšķerēšanai, airēšanai ar bērniem un garām, relaksējošām dienām uz ūdens.
       icon: tabler:users
       cta: Izpēti Makšķerēšanas SUP
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Pārbaudīts vairāk nekā izstāžu zālē
   subtitle: Dizains, veiktspēja un kvalitāte, ko varat pārbaudīt — uz ūdens un skaitļos.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Izpēti Kolekciju
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Pieprasi Katalogu
       href: /resources/download-catalog/

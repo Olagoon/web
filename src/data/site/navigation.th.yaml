@@ -4,23 +4,23 @@ header:
     - text: Products
       links:
         - text: SUP Boards
-          href: /inflatable-sup/
+          href: /products/
         - text: All-Around SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Touring SUP
-          href: /touring-sup/
+          href: /products/
         - text: Yoga SUP
-          href: /yoga-sup/
+          href: /products/
         - text: Kids SUP
-          href: /kids-sup/
+          href: /products/
         - text: Fishing SUP
-          href: /fishing-sup/
+          href: /products/
         - text: Whitewater SUP
-          href: /whitewater-sup/
+          href: /products/
         - text: Ultra-Stable SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Accessories
-          href: /sup-accessories/
+          href: /products/
     - text: ตามการใช้งาน
       links:
         - text: สำหรับมือใหม่
@@ -28,7 +28,7 @@ header:
         - text: ทัวร์ริ่งและระยะไกล
           href: /use-cases/touring/
         - text: ตกปลาบน SUP
-          href: /use-cases/fishing/
+          href: /products/
         - text: กิจกรรมครอบครัว
           href: /use-cases/family-recreation/
         - text: ล่องแม่น้ำ
@@ -68,23 +68,23 @@ footer:
     - title: Products
       links:
         - text: SUP Boards
-          href: /inflatable-sup/
+          href: /products/
         - text: All-Around SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Touring SUP
-          href: /touring-sup/
+          href: /products/
         - text: Yoga SUP
-          href: /yoga-sup/
+          href: /products/
         - text: Kids SUP
-          href: /kids-sup/
+          href: /products/
         - text: Fishing SUP
-          href: /fishing-sup/
+          href: /products/
         - text: Whitewater SUP
-          href: /whitewater-sup/
+          href: /products/
         - text: Ultra-Stable SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Accessories
-          href: /sup-accessories/
+          href: /products/
     - title: Explore OLagoon
       links:
         - text: Why OLagoon

@@ -21,11 +21,11 @@ featured:
     - title: Βασικά SUP
       description: Όλα όσα πρέπει να γνωρίζει ένας αρχάριος — τύποι σανίδων, μέγεθος κουπιού, στάση και συμβουλές.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Φουσκωτό vs Σκληρή Σανίδα
       description: Ποιο είναι κατάλληλο για εσάς; Συγκρίνουμε φορητότητα, απόδοση και ανθεκτικότητα.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Ασφάλεια Νερού
       description: Βασική γνώση ασφαλείας — καιρός, PFD, αυτοδιάσωση και άλλα.
       icon: tabler:shield

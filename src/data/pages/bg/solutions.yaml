@@ -37,7 +37,7 @@ features3_solutions:
     - title: 'Клубове по гребане'
       description: 'Надеждни SUP флотилии за клубове по гребане, обучителни програми и членски операции — дъски с търговски клас и клубни цени.'
       icon: tabler:users
-      link: /solutions/paddle-clubs/
+      link: /solutions/resorts-hotels/
     - title: 'Оператори на наемане'
       description: 'SUP дъски с висока ротация, проектирани за ежедневно наемане. UV-устойчиви, бързо съхнещи, подредени — създадени за натоварването на наемането.'
       icon: tabler:currency-dollar

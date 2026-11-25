@@ -106,7 +106,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: استوديو هندسة الهياكل
       description: تصميم قائم على CAD وتحليل العناصر المحدودة لهياكل HDPE والألمنيوم والألياف الزجاجية. يتم محاكاة كل هيكل رقميًا للتحقق من توزيع الإجهاد ومقاومة الصدمات قبل بناء النموذج الأولي.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: مركز اللحام بالترددات الراديوية (RF)
       description: منشأة لحام مخصصة بالترددات الراديوية مع تحكم دقيق في درجة الحرارة والضغط، تنتج لحامات عالية القوة ومحكمة الإغلاق تلبي معايير الصناعة البحرية للمركبات المائية القابلة للنفخ.
@@ -114,7 +114,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: خزان الاختبار الهيدروديناميكي
       description: اختبار النماذج المصغّرة في حوض الاختبار الداخلي لدينا لتحسين شكل الهيكل وأداء الانزلاق والثبات وكفاءة استهلاك الوقود عبر مجموعة من الأحمال والظروف البحرية.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: ورشة النماذج الأولية
       description: منشأة للنماذج الأولية والتجهيز بالحجم الكامل تُبنى فيها النماذج الجديدة وتُجهَّز وتُخضع للتجارب البحرية. يخضع كل نموذج أولي لبرنامج اختبارات مائية لا يقل عن 20 ساعة قبل الموافقة على الإنتاج.

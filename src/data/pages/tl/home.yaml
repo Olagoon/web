@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Galugarin ang mga SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Bakit OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Mga malapad at matatag na all-around board na nagpaparamdam ng natural sa unang stroke at sumasabay habang nag-iimprove ka.
       icon: tabler:users
       cta: Hanapin ang Unang Board Mo
-      link: /all-around-sup/
+      link: /products/
     - title: Touring at Adventure
       keywords: touring sup, long distance paddle board, expedition sup
       description: Mga mas mahaba at makitid na board na tumatahak nang tuwid, dumadausdos nang mas malayo, at nagdadala ng gamit para sa multi-day na ruta.
       icon: tabler:building
       cta: Galugarin ang mga Touring Board
-      link: /touring-sup/
+      link: /products/
     - title: Yoga at Fitness
       keywords: yoga sup, fitness paddle board, malapad na matatag na sup
       description: Mga malapad at matatag na platform na may espasyo para gumalaw — para sa sunrise flows, workout, at balanse sa kalmadong tubig.
       icon: tabler:heart
       cta: Galugarin ang mga Yoga SUP
-      link: /yoga-sup/
+      link: /products/
     - title: Pangingisda at Pamilya
       keywords: fishing sup, family paddle board, matatag na fishing platform
       description: Mga matatag at praktikal na platform para sa pangingisda, pag-paddle kasama ang mga bata, at mahahabang relaxing na araw sa tubig.
       icon: tabler:users
       cta: Galugarin ang mga Fishing SUP
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Sinubukan Higit Pa sa Showroom
   subtitle: Disenyo, pagganap, at kalidad na mabeberipika mo — sa tubig at sa mga numero.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Galugarin ang Koleksyon
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Humiling ng Katalogo
       href: /resources/download-catalog/

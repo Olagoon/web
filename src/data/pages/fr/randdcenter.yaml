@@ -107,7 +107,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Studio d'ingénierie de coque
       description: Conception assistée par CAO et analyse par éléments finis des coques en HDPE, en aluminium et en fibres de verre. Chaque coque fait l'objet d'une simulation numérique de la distribution des contraintes et de la résistance aux impacts avant la construction du premier prototype.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: Centre de Soudure RF
       description: Installation de soudure radiofréquence dédiée avec contrôle précis de la température et de la pression, produisant des joints étanches à haute résistance qui répondent aux normes de l’industrie maritime pour les embarcations gonflables.
@@ -115,7 +115,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Bassin d'Essais Hydrodynamiques
       description: Tests sur modèles réduits dans notre bassin d’essais interne pour optimiser la forme de coque, les performances de déjaugeage, la stabilité et l’efficacité énergétique dans une gamme de conditions de charge et de mer.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Atelier de Prototypage
       description: Installation de prototypage et de gréement grandeur nature où les nouveaux modèles sont construits, équipés et testés en mer. Chaque prototype subit un programme de test en eau d’au moins 20 heures avant l’approbation de production.

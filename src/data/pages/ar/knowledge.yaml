@@ -78,9 +78,9 @@ featured_guides:
   title: أكثر موارد المعرفة شعبية
   items:
     - title: أساسيات SUP
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: قابل للنفخ مقابل اللوح الصلب
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: دليل السلامة المائية
       href: /learn/water-safety/
     - title: مرجع المواد
@@ -92,11 +92,11 @@ featured_guides:
     - title: مركز تقنيات SUP
       href: /research/
     - title: الصيانة الفرعية
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: دليل الجولات
       href: /guides/sup-for-touring/
     - title: تقنيات التجديف
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: ابدأ الاستكشاف
   subtitle: اغص في قاعدة معارفنا واحصل على المعلومات التي تحتاجها لمغامرتك المائية القادمة.

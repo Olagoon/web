@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: גלו מגשי SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: למה OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: מגשים רחבים ויציבים שהופכים את החתירה הראשונה לטבעית ומלווים אתכם כשאתם מתקדמים.
       icon: tabler:users
       cta: מצאו את המגש הראשון שלכם
-      link: /all-around-sup/
+      link: /products/
     - title: טיולים והרפתקאות
       keywords: sup טיולים, מגש פאדל למרחקים ארוכים, sup מסע
       description: מגשים ארוכים וצרים יותר ששומרים על כיוון, מחליקים רחוק יותר ונושאים ציוד למסלולים של כמה ימים.
       icon: tabler:building
       cta: גלו מגשי טיולים
-      link: /touring-sup/
+      link: /products/
     - title: יוגה וכושר
       keywords: sup יוגה, מגש פאדל כושר, sup רחב ויציב
       description: פלטפורמות רחבות ויציבות עם מרחב לתנועה — לזרימות בזריחה, אימונים ושיווי משקל על מים שקטים.
       icon: tabler:heart
       cta: גלו SUP יוגה
-      link: /yoga-sup/
+      link: /products/
     - title: דיג ומשפחה
       keywords: sup דיג, מגש פאדל משפחתי, פלטפורמת דיג יציבה
       description: פלטפורמות יציבות ומעשיות לדיג, חתירה עם הילדים וימים ארוכים ורגועים על המים.
       icon: tabler:users
       cta: גלו SUP דיג
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: נבדק מעבר לחדר התצוגה
   subtitle: עיצוב, ביצועים ואיכות שאפשר לאמת — במים ובמספרים.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: גלו את האוסף
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: בקשו קטלוג
       href: /resources/download-catalog/

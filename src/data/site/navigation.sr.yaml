@@ -4,23 +4,23 @@ header:
     - text: Производи
       links:
         - text: SUP даске
-          href: /inflatable-sup/
+          href: /products/
         - text: Вишенаменске SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Туринг SUP
-          href: /touring-sup/
+          href: /products/
         - text: Јога SUP
-          href: /yoga-sup/
+          href: /products/
         - text: Дечје SUP
-          href: /kids-sup/
+          href: /products/
         - text: Риболовне SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP за дивље воде
-          href: /whitewater-sup/
+          href: /products/
         - text: Ултра стабилне SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Опрема
-          href: /sup-accessories/
+          href: /products/
     - text: Према намени
       links:
         - text: За почетнике
@@ -28,7 +28,7 @@ header:
         - text: Туринг & даљине
           href: /use-cases/touring/
         - text: 'Риболов на SUP-у'
-          href: /use-cases/fishing/
+          href: /products/
         - text: Породична рекреација
           href: /use-cases/family-recreation/
         - text: Речни спустови
@@ -68,23 +68,23 @@ footer:
     - title: Производи
       links:
         - text: SUP даске
-          href: /inflatable-sup/
+          href: /products/
         - text: Вишенаменске SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Туринг SUP
-          href: /touring-sup/
+          href: /products/
         - text: Јога SUP
-          href: /yoga-sup/
+          href: /products/
         - text: Дечје SUP
-          href: /kids-sup/
+          href: /products/
         - text: Риболовне SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP за дивље воде
-          href: /whitewater-sup/
+          href: /products/
         - text: Ултра стабилне SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Опрема
-          href: /sup-accessories/
+          href: /products/
     - title: Откријте OLagoon
       links:
         - text: Зашто OLagoon

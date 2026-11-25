@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Πώς να επιλέξετε τη σωστή σανίδα SUP
         desc: Πλήρης οδηγός επιλογής SUP — μέγεθος, όγκος, υλικό, σχήμα και προβλεπόμενη χρήση.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Φουσκωτό SUP έναντι Σκληρού SUP
         desc: Στεγανό SUP έναντι σκληρής επόξειας πλάκας — ευκολία μεταφοράς, ανθεκτικότητα, απόδοση και αξία σε σύγκριση.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: SUP All-Around έναντι Touring έναντι Yoga
         desc: Διαφορετικά τύποι πλεούσων SUP — πρότυπα κατασκευής, σχήματα, μεγέθη και προτεινόμενες χρήσεις.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Drop-Stitch έναντι Παραδοσιακής Κατασκευής
         desc: Συγκρίνετε την κατασκευή drop-stitch με την παραδοσιακή κατασκευή για σανίδες SUP, βάσει βάρους, κόστους, ανθεκτικότητας και ακαμψίας.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: Τύποι Σανίδων SUP
         desc: All-around, touring, yoga, sport και SUP για παιδιά — μάθετε τις διαφορές και επιλέξτε το κατάλληλο.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Τεχνολογία Drop-Stitch
         desc: Πώς χιλιάδες εσωτερικά νήματα δημιουργούν άκαμπτες φουσκωτές κατασκευές υψηλής πίεσης.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: Οδηγός Αγοράς SUP
         desc: Συγκρίνετε διαφορετικούς τύπους σανίδων SUP για διαφορετικές χρήσεις και επίπεδα δεξιοτήτων.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Γνώσεις SUP
     tagline: Οδηγοί Stand-Up Paddleboard
     desc: Τα πάντα για τις σανίδες SUP — φουσκωτές έναντι άκαμπτων, διαστάσεις σανίδας, τεχνολογία υλικών και συμβουλές ειδικών για όλα τα επίπεδα δεξιοτήτων.
     guides:
       - title: Φουσκωτό SUP έναντι Σκληρού SUP
         desc: Συγκρίνετε τα iSUP με τις σκληρές εποξικές σανίδες βάσει φορητότητας, ανθεκτικότητας, επιδόσεων και αξίας.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Οδηγός Διαστάσεων Σανίδων SUP
         desc: Πώς το μήκος, το πλάτος και το πάχος επηρεάζουν την ευστάθεια, την ταχύτητα και την ευελιξία.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Συντήρηση & Φροντίδα SUP
         desc: Συμβουλές καθαρισμού, αποθήκευσης, προστασίας από την UV ακτινοβολία και επισκευής για φουσκωτές σανίδες SUP.
         href: /v2/inflatable-sup-maintenance/
       - title: Επιλέγοντας την πρώτη σας σανίδα SUP
         desc: Οδηγός αρχαρίων για την επιλογή της σωστής σανίδας stand-up paddle ανάλογα με το βάρος, το επίπεδο δεξιοτήτων και τη χρήση που προβλέπεται.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Οδηγός Λειτουργίας Ενοικιάσεων
     tagline: Διαχείριση Στόλου για Ενοικιαζόμενες Επιχειρήσεις
     desc: Οδηγοί για τη δημιουργία και τη διαχείριση στόλων ενοικίασης SUP για beach kiosks, κέντρα θαλάσσιων σπορ και ξενοδοχειακές μονάδες.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP έναντι Άλλων Θαλάσσιων Δραστηριοτήτων
         desc: Συγκρίνετε προγράμματα SUP με άλλα αθλήματα στο νερό για εμπειρία επισκεπτών και λειτουργική αποτελεσματικότητα.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Οδηγός Λιανικής & Διανομής
     tagline: Επαγγελματικές Συνεργασίες SUP
     desc: Οδηγοί για να γίνετε λιανικός συνεργάτης ή διανομέας SUP — σχεδιασμός αποθέματος, τοποθέτηση στην αγορά και στρατηγικές ανάπτυξης.

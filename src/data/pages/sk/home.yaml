@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Preskúmať SUPy
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Prečo OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Široké, stabilné všestranné dosky, pri ktorých sa prvý záber pádlom cíti prirodzene a ktoré rastú s vami.
       icon: tabler:users
       cta: Nájdite Svoju Prvú Dosku
-      link: /all-around-sup/
+      link: /products/
     - title: Touring a Dobrodružstvo
       keywords: touring sup, paddleboard na dlhé trate, expedičný sup
       description: Dlhšie, užšie dosky, ktoré držia smer, kĺžu ďalej a vezú vybavenie na viacdňové trasy.
       icon: tabler:building
       cta: Preskúmať Touring SUPy
-      link: /touring-sup/
+      link: /products/
     - title: Joga a Fitness
       keywords: sup na jogu, fitness paddleboard, široký stabilný sup
       description: Široké, stabilné plošiny s priestorom na pohyb — pre ranné flow, tréningy a rovnováhu na pokojnej vode.
       icon: tabler:heart
       cta: Preskúmať SUP na Jogu
-      link: /yoga-sup/
+      link: /products/
     - title: Rybolov a Rodina
       keywords: rybársky sup, rodinný paddleboard, stabilná rybárska plošina
       description: Stabilné, praktické plošiny na rybolov, jazdenie s deťmi a dlhé pokojné dni na vode.
       icon: tabler:users
       cta: Preskúmať Rybárske SUPy
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Otestované nad rámec showroomu
   subtitle: Dizajn, výkon a kvalita, ktoré viete overiť — na vode a v číslach.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Preskúmať Kolekciu
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Vyžiadať Katalóg
       href: /resources/download-catalog/

@@ -21,11 +21,11 @@ featured:
     - title: Základy SUP
       description: Vše, co začátečník potřebuje vědět — typy prken, velikost pádel, postoj a tipy na první den.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Nafukovací vs pevné prkno
       description: Které je pro vás to pravé? Srovnáváme přenosnost, výkon, odolnost a cenu vedle sebe.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Bezpečnost na vodě
       description: Základní bezpečnostní znalosti, které by měl mít každý pádlující — počasí, PFD, sebezáchrana a více.
       icon: tabler:shield

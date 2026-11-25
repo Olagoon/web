@@ -77,9 +77,9 @@ featured_guides:
   title: Recursos de conocimiento más populares
   items:
     - title: Conceptos Básicos de SUP
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Tabla Inflable vs Rígida
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Guía de Seguridad Acuática
       href: /learn/water-safety/
     - title: Referencia de Materiales
@@ -91,11 +91,11 @@ featured_guides:
     - title: Centro Tecnológico SUP
       href: /research/
     - title: Mantenimiento de SUP
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Guía Turística
       href: /guides/sup-for-touring/
     - title: Técnicas de remo
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Comienza a explorar
   subtitle: Sumérgete en nuestra base de conocimiento y obtén la información que necesitas para tu próxima aventura acuática.

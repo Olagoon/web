@@ -37,7 +37,7 @@ features3_solutions:
     - title: Clubes de paddle
       description: 'Flotas confiables de SUP para clubes de paddle, programas de clases y operaciones de membresía: tablas de grado comercial con precios para clubes.'
       icon: tabler:users
-      link: /solutions/paddle-clubs/
+      link: /solutions/resorts-hotels/
     - title: Operadores de alquiler
       description: 'Tablas de SUP de alta rotación diseñadas para uso diario en alquiler. Resistentes a los rayos UV, de secado rápido, apilables: diseñadas para el trabajo intenso de alquiler.'
       icon: tabler:currency-dollar

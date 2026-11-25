@@ -4,23 +4,23 @@ header:
     - text: Produktai
       links:
         - text: SUP lentos
-          href: /inflatable-sup/
+          href: /products/
         - text: Universalios SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Turizmo SUP
-          href: /touring-sup/
+          href: /products/
         - text: Jogos SUP
-          href: /yoga-sup/
+          href: /products/
         - text: SUP vaikams
-          href: /kids-sup/
+          href: /products/
         - text: Žvejybos SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP kalnų upėms
-          href: /whitewater-sup/
+          href: /products/
         - text: Itin stabilios SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Priedai
-          href: /sup-accessories/
+          href: /products/
     - text: Pagal paskirtį
       links:
         - text: Pradedantiesiems
@@ -28,7 +28,7 @@ header:
         - text: Turai & atstumai
           href: /use-cases/touring/
         - text: Žvejyba ant SUP
-          href: /use-cases/fishing/
+          href: /products/
         - text: Šeimos poilsis
           href: /use-cases/family-recreation/
         - text: Turai upėmis
@@ -68,23 +68,23 @@ footer:
     - title: Produktai
       links:
         - text: SUP lentos
-          href: /inflatable-sup/
+          href: /products/
         - text: Universalios SUP
-          href: /all-around-sup/
+          href: /products/
         - text: Turizmo SUP
-          href: /touring-sup/
+          href: /products/
         - text: Jogos SUP
-          href: /yoga-sup/
+          href: /products/
         - text: SUP vaikams
-          href: /kids-sup/
+          href: /products/
         - text: Žvejybos SUP
-          href: /fishing-sup/
+          href: /products/
         - text: SUP kalnų upėms
-          href: /whitewater-sup/
+          href: /products/
         - text: Itin stabilios SUP
-          href: /ultra-stable-sup/
+          href: /products/
         - text: Priedai
-          href: /sup-accessories/
+          href: /products/
     - title: Atraskite OLagoon
       links:
         - text: Kodėl OLagoon

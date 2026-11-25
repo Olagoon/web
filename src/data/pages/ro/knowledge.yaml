@@ -78,9 +78,9 @@ featured_guides:
   title: Cele mai populare resurse de cunoștințe
   items:
     - title: Bazele SUP
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Placă gonflabilă vs placă rigidă
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Ghid de siguranță pe apă
       href: /learn/water-safety/
     - title: Referință materiale
@@ -92,11 +92,11 @@ featured_guides:
     - title: Centru Tehnologic SUP
       href: /research/
     - title: Întreținerea plăcilor SUP
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Ghid de Touring
       href: /guides/sup-for-touring/
     - title: Tehnici de vâslit
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Începe să explorezi
   subtitle: Scufundă-te în baza noastră de cunoștințe și obține informațiile de care ai nevoie pentru următoarea ta aventură pe apă.

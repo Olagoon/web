@@ -78,9 +78,9 @@ featured_guides:
   title: Mest populære vidensressourcer
   items:
     - title: SUP-grundlæggende
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Oppustelig vs hård plade
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Vandsikkerhedsguide
       href: /learn/water-safety/
     - title: Materialereference
@@ -92,11 +92,11 @@ featured_guides:
     - title: SUP-teknologicenter
       href: /research/
     - title: Vedligeholdelse af SUP-board
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Touring-guide
       href: /guides/sup-for-touring/
     - title: Padleteknikker
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Begynd at udforske
   subtitle: Dyk ned i vores vidensbase og få de oplysninger, du har brug for til dit næste vandeventyr.

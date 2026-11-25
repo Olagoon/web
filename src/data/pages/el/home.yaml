@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Εξερεύνησε SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Γιατί OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Φαρδιά, σταθερά all-around boards που κάνουν την πρώτη κουπιά να νιώθει φυσική και σε συνοδεύουν καθώς βελτιώνεσαι.
       icon: tabler:users
       cta: Βρες το Πρώτο σου Board
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Περιπέτεια
       keywords: touring sup, paddleboard μεγάλων αποστάσεων, sup εκδρομών
       description: Μακριά, στενά boards που κρατούν πορεία, γλιστρούν πιο μακριά και μεταφέρουν εξοπλισμό για πολυήμερα ταξίδια.
       icon: tabler:building
       cta: Εξερεύνησε Touring SUP
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Fitness
       keywords: sup yoga, fitness paddleboard, φαρδύ σταθερό sup
       description: Φαρδιές, σταθερές πλατφόρμες με χώρο για κίνηση — για flows στην ανατολή, προπονήσεις και ισορροπία σε ήρεμα νερά.
       icon: tabler:heart
       cta: Εξερεύνησε SUP Yoga
-      link: /yoga-sup/
+      link: /products/
     - title: Ψάρεμα & Οικογένεια
       keywords: sup ψαρέματος, οικογενειακό paddleboard, σταθερή πλατφόρμα ψαρέματος
       description: Σταθερές, πρακτικές πλατφόρμες για ψάρεμα, βόλτες με τα παιδιά και μεγάλες χαλαρές μέρες στο νερό.
       icon: tabler:users
       cta: Εξερεύνησε SUP Ψαρέματος
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Δοκιμασμένο πέρα από το showroom
   subtitle: Σχεδιασμός, απόδοση και ποιότητα που μπορείτε να επαληθεύσετε — στο νερό και στους αριθμούς.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Εξερεύνησε τη Συλλογή
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Ζήτησε τον Κατάλογο
       href: /resources/download-catalog/

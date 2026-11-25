@@ -111,7 +111,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: 'Štúdio inžinierstva trupov'
       description: 'Dizajn riadený CAD a analýza metódou konečných prvkov trupov z HDPE, hliníka a sklolaminátu. Každý trup sa digitálne simuluje na rozdelenie napätia a odolnosť proti nárazom ešte pred výrobu prvého prototypu.'
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: 'Centrum RF zvárania'
       description: 'Vyhradené zváracie zariadenie s rádiofrekvenčným ohrevom s presnou reguláciou teploty a tlaku, ktoré vyrába vysokopevnostné vzduchotesné švy spĺňajúce štandardy námorného priemyslu pre nafukovacie plavidlá.'
@@ -119,7 +119,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: 'Hydrodynamický skúšobný bazén'
       description: 'Testovanie modelov v meradle v našom internom skúšobnom bazéne na optimalizáciu tvaru trupu, glisovacieho výkonu, stability a účinnosti v rozsahu zaťažení a morských podmienok.'
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: 'Prototypová dielňa'
       description: 'Zariadenie na prototypovanie a vystrojenie v plnom meradle, kde sa nové modely stavajú, vybavujú a skúšajú na mori. Každý prototyp absolvuje minimálne 20-hodinový vodný testovací program pred schválením do výroby.'

@@ -22,7 +22,7 @@ hero:
       href: /size-guide/
       icon: tabler:compass
     - text: Esplora i SUP
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:waves
     - text: Perché OLagoon
       href: /olagoon-story/
@@ -40,25 +40,25 @@ who_we_serve:
       description: Tavole all-around larghe e stabili che rendono naturale la tua prima palata e ti accompagnano mentre progredisci.
       icon: tabler:users
       cta: Trova la Tua Prima Tavola
-      link: /all-around-sup/
+      link: /products/
     - title: Touring & Avventura
       keywords: SUP da touring, tavola paddle lunga distanza, SUP da spedizione
       description: Tavole più lunghe e strette costruite per mantenere la rotta, planare più lontano e trasportare attrezzatura per itinerari di più giorni.
       icon: tabler:building
       cta: Esplora i SUP da Touring
-      link: /touring-sup/
+      link: /products/
     - title: Yoga & Fitness
       keywords: SUP yoga, tavola paddle fitness, SUP largo e stabile
       description: Piattaforme larghe e stabili con spazio per muoversi — per i tuoi flow all’alba, gli allenamenti e l’equilibrio in acque calme.
       icon: tabler:heart
       cta: Esplora il SUP Yoga
-      link: /yoga-sup/
+      link: /products/
     - title: Pesca & Famiglia
       keywords: SUP da pesca, tavola paddle famiglia, piattaforma di pesca stabile
       description: Piattaforme stabili e pratiche per lanciare la lenza, fare gite con i bambini e godersi lunghe giornate rilassanti sull’acqua.
       icon: tabler:users
       cta: Esplora il SUP da Pesca
-      link: /fishing-sup/
+      link: /products/
 proof_points:
   title: Testato oltre lo showroom
   subtitle: Design, prestazioni e qualità verificabili — sull'acqua e nei numeri.
@@ -98,7 +98,7 @@ cta:
   actions:
     - variant: primary
       text: Esplora la Collezione
-      href: /inflatable-sup/
+      href: /products/
       icon: tabler:send
     - text: Richiedi il Catalogo
       href: /resources/download-catalog/

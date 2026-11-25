@@ -106,7 +106,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-2.webp
       title: Engineeringstudio voor de romp
       description: CAD-gestuurde ontwerp- en eindige-elementenanalyse van HDPE-, aluminium- en glasvezelhullen. Elke romp wordt digitaal gesimuleerd op spanningsverdeling en slagvastheid voordat het eerste prototype wordt gebouwd.
-      href: /randdcenter/hull-engineering/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-sup-manufacturing-3.webp
       title: RF Lascentrum
       description: Toegewijde radiofrequentielasfaciliteit met nauwkeurige temperatuur- en drukregeling, die sterke, luchtdichte naden produceert die voldoen aan de normen van de maritieme industrie voor opblaasbare vaartuigen.
@@ -114,7 +114,7 @@ labs_section:
     - image: https://assets.olagoon.com/images/olagoon/factory/olagoon-design-discussion-original.webp
       title: Hydrodynamische testtank
       description: Schaalmodeltests in onze interne testtank om de rompvorm, het glijvermogen, de stabiliteit en de brandstofefficiëntie te optimaliseren over een reeks laad- en zeecondities.
-      href: /randdcenter/hydrodynamic-test-tank/
+      href: /technology/
     - image: https://assets.olagoon.com/images/olagoon/products/sup-series/sup-ocean-voyager-1-1200w.webp
       title: Prototype Werkplaats
       description: Volledige prototyping- en tuigagefaciliteit waar nieuwe modellen worden gebouwd, gemonteerd en getest op zee. Elk prototype ondergaat een testprogramma van minimaal 20 uur in het water voordat goedkeuring voor productie wordt gegeven.

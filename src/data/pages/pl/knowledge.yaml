@@ -78,9 +78,9 @@ featured_guides:
   title: Najpopularniejsze zasoby wiedzy
   items:
     - title: Podstawy SUP
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Nadmuchiwany vs sztywny SUP
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Przewodnik bezpieczeństwa wodnego
       href: /learn/water-safety/
     - title: Referencje materiałowe
@@ -92,11 +92,11 @@ featured_guides:
     - title: Centrum Technologii SUP
       href: /research/
     - title: Konserwacja SUP
-      href: /guides/sup-maintenance/
+      href: /technology/
     - title: Przewodnik turystyczny
       href: /guides/sup-for-touring/
     - title: Techniki wiosłowania
-      href: /guides/paddling-techniques/
+      href: /technology/
 cta:
   title: Rozpocznij odkrywanie
   subtitle: Zanurz się w naszej bazie wiedzy i zdobądź informacje potrzebne do następnej wodnej przygody.

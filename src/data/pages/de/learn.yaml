@@ -21,11 +21,11 @@ featured:
     - title: SUP-Grundlagen
       description: Alles, was ein Anfänger wissen muss — Boardtypen, Paddelgröße, Haltung und Tipps für den ersten Tag.
       icon: tabler:lifebuoy
-      href: /learn/sup/
+      href: /learn/water-safety/
     - title: Aufblasbar vs. Hartboard
       description: Was ist das Richtige für dich? Wir vergleichen Tragbarkeit, Leistung, Haltbarkeit und Kosten im Detail.
       icon: tabler:arrows-left-right
-      href: /compare/inflatable-vs-hardboard/
+      href: /compare/technology/
     - title: Sicherheit auf dem Wasser
       description: Wichtige Sicherheitskenntnisse für jeden Paddler — Wetter, Schwimmwesten, Selbstrettung und mehr.
       icon: tabler:shield

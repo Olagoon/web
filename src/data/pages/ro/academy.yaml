@@ -80,13 +80,13 @@ knowledge_sections:
     guides:
       - title: Cum să alegi placa SUP potrivită
         desc: Ghid complet pentru selectarea unui SUP — dimensiune, volum, material, formă și utilizare prevăzută.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: SUP gonflabil vs. SUP rigid
         desc: SUP gonflabil vs. placă rigidă din epoxy — portabilitate, durabilitate, performanță și valoare, comparate.
-        href: /compare/inflatable-vs-hardboard/
+        href: /compare/technology/
       - title: SUP All-Around vs. Touring vs. Yoga
         desc: Diferite tipuri de plăci SUP — standarde de construcție, forme, dimensiuni și utilizări recomandate.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Construcție Drop-Stitch vs. construcție tradițională
         desc: Comparați construcția drop-stitch cu cea tradițională pentru plăcile SUP în ceea ce privește greutatea, costul, durabilitatea și rigiditatea.
         href: /learn/drop-stitch-core/
@@ -112,7 +112,7 @@ knowledge_sections:
     guides:
       - title: Tipuri de plăci SUP
         desc: SUP-uri all-around, de turism, pentru yoga, sport și copii — aflați diferențele și alegeți modelul potrivit.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Tehnologia Drop-Stitch
         desc: Cum mii de fibre interne creează structuri gonflabile rigide, de înaltă presiune.
         href: /learn/drop-stitch-core/
@@ -121,23 +121,23 @@ knowledge_sections:
         href: /learn/materials/
       - title: Ghid de achiziție SUP
         desc: Comparați diferite tipuri de plăci SUP pentru diferite utilizări și niveluri de experiență.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Cunoștințe despre SUP
     tagline: Ghiduri pentru stand-up paddleboard
     desc: Totul despre plăcile SUP — gonflabile vs rigide, dimensiunile plăcilor, tehnologia materialelor și sfaturi de specialitate pentru toate nivelurile de experiență.
     guides:
       - title: SUP gonflabil vs. SUP rigid
         desc: Comparați plăcile iSUP cu plăcile rigide din epoxy în privința portabilității, durabilității, performanței și a raportului calitate-preț.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Ghidul dimensiunilor plăcilor SUP
         desc: Cum influențează lungimea, lățimea și grosimea stabilitatea, viteza și manevrabilitatea.
-        href: /learn/sup/
+        href: /learn/water-safety/
       - title: Întreținerea și îngrijirea SUP
         desc: Curățare, depozitare, protecție UV și sfaturi de reparații pentru plăcile SUP gonflabile.
         href: /v2/inflatable-sup-maintenance/
       - title: Alegerea primului tău SUP
         desc: Ghid pentru începători privind alegerea paddleboard-ului potrivit în funcție de greutatea dumneavoastră, nivelul de îndemânare și utilizarea prevăzută.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Ghid pentru operațiunile de închiriere
     tagline: Gestionarea flotei pentru afacerile de închiriere
     desc: Ghiduri pentru construirea și gestionarea flotelor de închiriere SUP pentru chioșcuri de plajă, centre de sporturi acvatice și unități hoteliere.
@@ -157,7 +157,7 @@ knowledge_sections:
         href: /solutions/resorts-hotels/
       - title: SUP vs. alte activități acvatice
         desc: Compară programele SUP cu alte sporturi acvatice pentru experiența oaspeților și eficiența operațională.
-        href: /learn/sup/
+        href: /learn/water-safety/
   - title: Ghid de retail și distribuție
     tagline: Parteneriate de afaceri SUP
     desc: Ghiduri despre cum să deveniți partener retail sau distribuitor SUP — planificarea stocurilor, poziționarea pe piață și strategii de creștere.
