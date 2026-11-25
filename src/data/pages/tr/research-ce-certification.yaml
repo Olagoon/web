@@ -1,0 +1,72 @@
+meta:
+  title: Şişirilebilir Su Araçlarında CE Sertifikasyonu Nasıl Çalışır | {SITE}
+  description: Şişirilebilir SUP'lar ve kanolar için CE sertifikasyonuna ilişkin kapsamlı rehber. Uygulanabilir direktifler (2013/53/EU RCD, PPE 2016/425), test protokolleri, yetkili kuruluşlar, teknik dosya gereksinimleri ve üretici yükümlülükleri.
+back_text: Araştırmaya Dön
+hero:
+  tagline: Uyumluluk
+  title: Şişme Su Araçları için CE Sertifikasyonu Nasıl Çalışır
+  subtitle: 7 dakika okuma süresi
+content_html: >
+  <h2>CE Sertifikasyonu Nedir?</h2>
+
+  <p>CE işareti (Conformité Européenne), bir ürünün AB sağlık, güvenlik ve çevre gereksinimlerini karşıladığını gösterir. Şişirilebilir su araçları için ilgili düzenleyici çerçeve, ürün kategorisine bağlıdır.</p>
+
+
+  <h2>Uygulanabilir Direktifler</h2>
+
+
+  <h3>Rekreasyonel Su Aracı Direktifi (2013/53/EU)</h3>
+
+  <p>AB'de rekreasyonel su araçları için birincil direktiftir. 2,4 m altındaki şişirilebilir SUP'lar kapsam dışındadır ve bunun yerine EN ISO 25649 kapsamında sertifikalandırılır.</p>
+
+
+  <h3>Kişisel Koruyucu Ekipman Yönetmeliği (2016/425)</h3>
+
+  <p>Su araçlarıyla birlikte verilen can yelekleri, yüzdürme yardımı ve güvenlik ekipmanları, yetkili kuruluş tarafından tip muayenesi (Modül B) ve üretim kalite güvencesi (Modül D veya E) dahil olmak üzere KKK Yönetmeliği gereksinimlerini karşılamalıdır.</p>
+
+
+  <h2>Sertifikasyon Süreci</h2>
+
+  <ol>
+    <li>Ürün sınıflandırması: Su aracı tasarım kategorisini belirleyin (ISO 8666’ya göre A – D)</li>
+    <li>Uygulanabilir standartlar: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (üretici plakası)</li>
+    <li>Teknik dosya hazırlama: Tasarım çizimleri, malzeme listesi, malzeme sertifikaları, risk değerlendirmesi</li>
+    <li>Tip testi: Yüzdürme, kararlılık, yük kapasitesi, malzeme testi, dikiş mukavemeti, hava tutma</li>
+    <li>Fabrika üretim kontrolü: Üretim süreçlerinin yetkili kuruluş denetimi</li>
+    <li>Uygunluk beyanı: Üretici Uygunluk Beyanını imzalar, CE işaretini ekler</li>
+  </ol>
+
+
+  <h2>Şişirilebilir Su Araçları İçin Yetkili Kuruluşlar</h2>
+
+  <p>Yaygın olarak kullanılan yetkili kuruluşlar: Bureau Veritas (Fransa), DNV GL (Almanya), RINA (İtalya), TÜV Rheinland / TÜV SÜD (Almanya).</p>
+
+
+  <h2>Zaman Çizelgesi ve Maliyetler</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Faz</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Süre</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Tipik Maliyet (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Teknik dosya hazırlama</td><td class="p-3 border">2 – 4 hafta</td><td class="p-3 border">2.000 – 5.000</td></tr>
+      <tr><td class="p-3 border">Tip testi</td><td class="p-3 border">4 – 8 hafta</td><td class="p-3 border">8.000 – 20.000</td></tr>
+      <tr><td class="p-3 border">Fabrika denetimi</td><td class="p-3 border">1 – 2 gün (yerinde)</td><td class="p-3 border">3.000 – 6.000</td></tr>
+      <tr><td class="p-3 border">Toplam (ilk ürün)</td><td class="p-3 border">8 – 14 hafta</td><td class="p-3 border">13.000 – 31.000</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Alıcılar İçin Ne Anlama Geliyor</h2>
+
+  <p>CE sertifikalı şişirilebilir SUP satın alırken, CE işaretinin üretici plakasında olduğundan, geçerli bir Uygunluk Beyanı bulunduğundan, Yetkili Kuruluş numarasının listelendiğinden ve kullanım kılavuzunun yerel dilinizde güvenlik talimatları içerdiğinden emin olun. Tüm Afarer ürünleri,
+  yetkili kuruluş denetim raporlarına kadar tam izlenebilirliğe sahip CE sertifikası taşır.</p>
+cta:
+  title: CE sertifikasyon desteği mi gerekiyor?
+  subtitle: Dünya genelindeki OEM ortaklarımız için sertifikasyon süreçlerini yönetiyoruz.
+  button_text: Sertifikasyon sürecini başlatın
+  button_link: /contact/

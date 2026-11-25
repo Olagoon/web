@@ -1,0 +1,110 @@
+meta:
+  title: 'Asiakastarinat — kumppanuus- & co-brand-projektit | {SITE}'
+  description: 'Aitoja projekteja, aitoja tuloksia: SUP-kalustoja lomakohteisiin, omiin brändeihin, jakeluun ja pelastustoimintaan. Katso, miten afarer tukee kumppaneitaan.'
+  keywords:
+    - 'SUP-asiakastarinat'
+    - 'paddle board -kumppanuusprojektit'
+    - 'SUP-valmistajan referenssit'
+    - 'merellisiä projektiesimerkkejä'
+hero:
+  tagline: Tapaustutkimukset
+  title: Oikeita projekteja, oikeita tuloksia<br />— afarer toiminnassa
+  subtitle: Katso, kuinka afarer tekee yhteistyötä jakelijoiden, brändien ja toimijoiden kanssa maailmanlaajuisesti toimittaakseen räätälöityjä merenkulun ratkaisuja jokaiseen sovellukseen.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarer tapaustutkimukset — räätälöityjä merenkulun valmistusprojekteja
+features3_cases:
+  tagline: Valitut tapaukset
+  title: Räätälöityjä ratkaisuja<br />todellisiin haasteisiin
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Eurooppalainen sukelluskeskuslaivasto
+      customer: BlueMed Diving Centers
+      country: Kreikka
+      industry: Sukellus ja merenkulun matkailu
+      challenge: >-
+        Tarvittiin 12 sukellusmuotoiltua SUP-lautaa monen kreikkalaisen saaren sukelluskeskuksille. Jokaisessa laudassa oli oltava räätälöity varusteistoliitos, tilaa kahdeksan säiliölle ja vakaa alusta avo mereen sukeltajien maahantuloa varten. Laivaston piti saapua 60 päivän kuluessa
+        matkailukauden alkua varten.
+      solution: Valmistimme 12 SUP Voyager Dive -mallia, joissa on integroitu varustehäkkejä, vakaa alusta ja erityisen laaja drop-stitch -rakenne nousuvakautta varten. Jokainen lauta oli maalattu asiakkaan laivastoväriin. Kaikki 12 lautaa läpäisivät painekokeen ja lähetettiin Qingdaosta 55 päivän kuluessa.
+      product: SUP Voyager Dive
+      results: Kaikki 12 laudat toimitettu ajoissa matkailukautta varten. Laivasto on ollut päivittäisessä käytössä yli 18 kuukautta ilman materiaalivikoja. Asiakas tilasi 6 lisäyksikköä toisena vuonna.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: SUP Voyager Dive on ollut päivittäisten sukellusoperaatioidemme selkäranka. Vakaus on erinomainen, ja laitteiden säilytysjärjestely pitää kannen puhtaana ja turvallisena vieraille.
+      icon: tabler:lifebuoy
+    - title: Australialaisen jakelijan co-brand-ohjelma
+      customer: Pacific Watersports Pty Ltd
+      country: Australia
+      industry: Co-brand & kumppanuusohjelma
+      challenge: >-
+        Australialainen jakelija tarvitsi yksityismerkkinä myytävän SUP-lautasarjan kilpailukykyiseen hintaan pärjätäkseen kiinalaisille suoramyyntibrändeille. Vaadittiin 8 ainutlaatuista mallia aloittelijoista edistyneisiin, räätälöidyin grafiikoin, omine pakkauksineen ja suoratoimituksina
+        vähittäismyymälöihin.
+      solution: >-
+        Kehitettiin 8 SUP-mallia (All-Around, Touring, Yoga, Kids, Sport, Ultra-Compact, Ultra-Stable, Whitewater) yksilöllisen australialaisen grafiikkapaketin kera. Mukautettu vähittäismyyntipakkaus QR-koodeilla, jotka linkittävät asennusvideoihin. Drop-ship-logistiikka muotoutettiin Qingdaosta
+        suoraan Australian vähittäismyyntikauppoihin.
+      product: Räätälöity SUP-sarja (8 mallia)
+      results: Konseptista ensimmäiseen toimitukseen 90 päivässä. Vähittäismyyntimenekki 85 % ensimmäisellä kaudella. Jakelaja laajensi kumppanuutta sisällyttämällä lisäsup-mallit toisena vuonna.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: afarer toimitti täydellisen SUP-linjan 90 päivässä – alusta suunnittelusta kauppahyllyyn. Laatu vastaa brändeitä, jotka myyvät kaksi kertaa kalliimmalla.
+      icon: tabler:currency-dollar
+    - title: Pelastusvarustetoimitus Lähi-itään
+      customer: Kansallinen pelastusviranomainen
+      country: Yhdistyneet arabiemiirikunnat
+      industry: Etsintä ja pelastus
+      challenge: Pelastuslaitos tarvitsi 20 vartiointiin valmis SUP-lautaa rannikko‑, satama- ja tulvahälytystehtäviin. Vaatimuksina olivat erittäin näkyvät laudat, täydelliset turvalaitteet ja paikallisten merenkulkumääräysten noudattaminen.
+      solution: >-
+        Toimitimme 20 SUP Patrol -mallia, joissa on erittäin näkyvä oranssi drop-stitch-rakenne, täydelliset turvavarusteet, SOLAS-heijastinauha ja vahvistettu rakenne. Jokainen lauta oli CE-sertifioitu ja testattu sovellettavien standardien mukaisesti. Dokumentaatiopaketti sisälsi
+        vaatimustenmukaisuustodistukset paikallista rekisteröintiä varten.
+      product: SUP Patrol
+      results: Laivasto käytössä viidellä rannikkoasemalla. Laudat ovat toimineet äärimmäisessä kuumuudessa (45°C+) ilman laadun heikkenemistä. Suorituskyky ja kestävyys ylittivät spesifikaatiot.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: SUP Patrol ylitti toiminnalliset vaatimuksemme. Äärimmäisessä helteessä laudoissa ei ole merkkejä UV-hajoamisesta 24 kuukauden päivittäisen käytön jälkeen.
+      icon: tabler:alert-triangle
+    - title: Eurooppalainen co-brand-kumppanuus
+      customer: North Sea Marine Equipment BV
+      country: Alankomaat
+      industry: Co-brand & kumppanuusohjelma
+      challenge: Vakiintunut eurooppalainen merenkulkumerkki halusi laajentua SUP-markkinoille investoimatta tuotantolaitokseen. Tarvitsi white-label-kumppanin, joka pystyy tuottamaan 5 SUP-mallia (9 ft–12 ft) yksityisellä brändäyksellä, CE-sertifioinnilla ja yksinoikeudella EU-jakeluun.
+      solution: >-
+        Valkoisen merkin valmistussopimus 5 SUP-mallille. Jokainen malli brändätty asiakas-logolla ja värimallilla. CE-sertifiointidokumentaatio valmisteltu jokaista mallia varten. Exklusivit EU-jakeluoikeudet myönnetty minimi-tilausvelvoitteineen. Tekniset dokumentit toimitettu paikalliselle
+        palveluverkostolle.
+      product: Mukautettu SUP-sarja (5 mallia)
+      results: Monivuotinen sopimus allekirjoitettu. Ensimmäinen 50 yksikön erä toimitettu 75 päivän sisään. Brändi lanseerattu suurella messuilla, jälleenmyyjien vastaanotto oli positiivinen.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Yhteistyö afarerin kanssa mahdollisti pääsyn SUP-markkinoille ilman tehtaan rakentamista — he toimittivat täydellisen valmisavainratkaisun CE-sertifioinnilla ja jälleenmyyjätukeen kuuluvalla dokumentaatiolla.
+      icon: tabler:building
+    - title: Karibian lomakeskuslaivasto
+      customer: Paradise Island Resorts Ltd
+      country: Bahama
+      industry: Merimatkailu ja vieraanvaraisuus
+      challenge: >-
+        Luksuslomakeskus tarvitsi täydellisen vesiliikuntavarustelaivaston vierastoimintaan: 40 SUP-lautaa opastetuille kierroksille, 20 lisä-SUP-lautaa laguunitutkimuksiin, 10 SUP-lautaa vierasretkille sekä lisävarusteita. Kaikki varusteet vaativat räätälöityä lomakeskusbrändäystä, ja ne oli
+        toimitettava ennen matkailusesonkia.
+      solution: >-
+        Valmistimme täydellisen SUP-paketin: 40 SUP Voyager -lautaa (All-Around-malli), 20 SUP Explorer -lautaa, 10 SUP Touring -lautaa sekä pelastusliivit, melat, pumput ja korjaussarjat. Kaikki varusteet painettiin lomakohteen logolla ja trooppisella värimaailmalla. Konttitoimitus täydellisen
+        rahtiluettelon kera.
+      product: Täysi SUP-paketti (70+ kpl)
+      results: Laivasto saapui 6 viikkoa ennen huippukautta. Vesiharrastusten vieraan tyytyväisyysaste kasvoi 40 % vuodesta toiseen. Laitteet ovat kestäneet 3 kautta vain rutiinihuollolla.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Kattava pakettiratkaisu tarkoitti, että saimme kaiken tarvitsemme yhdellä toimituksella — lautaset ja tarvikkeet kaikki brändättyjä ja valmiina vieraiden käyttöön. Vieraamme rakastavat laitteiden laatua.
+      icon: tabler:beach
+    - title: Yhdysvaltain rannikkovartioston sopimus
+      customer: Atlantic Coastal Security Agency
+      country: Yhdysvallat
+      industry: Meriturvallisuus ja lainvalvonta
+      challenge: Yhdysvaltain rannikkoviranomaiset vaativat raskaita partio-SUP-lautoja avomerikäyttöön. Tarvittiin suorituskykyisiä lautoja sotilasstandardien mukaisilla laitteilla ja US Coast Guard -sääntelyn mukaisuudella.
+      solution: Suunniteltu SUP Patrol vahvitetulla drop-stitch-rakenteella, erittäin näkyvillä värimaisemilla, salatuilla viestintälaitteiden kiinnityksillä ja integroiduilla laitekiinnityspisteillä. Lauudat vahvistettu raskaisiin tehtäviin. USCG-noudattavuusasiakirjat sisällytetty.
+      product: SUP Patrol
+      results: Toimisto raportoi 95 %:n tehtävävalmiusasteen ensimmäisten 12 kuukauden aikana. Lisätilaus tehtiin 8 yksiköstä.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: SUP Patrol antaa miehistöillemme avovesitoiminnan edellyttämän suorituskyvyn. Vahvistettu rakenne tarjoaa ratkaisevaa kestävyyttä käsiteltävyydestä tinkimättä.
+      icon: tabler:shield
+cta:
+  title: Onko sinulla projekti, josta haluat keskustella?
+  subtitle: Jokainen afarer-kumppanuus alkaa keskustelulla. Kerro meille vaatimuksistasi ja kehitämme ratkaisun.
+  actions:
+    - variant: primary
+      text: Aloita projektisi
+      href: /contact/
+    - text: Katso valmiuksiamme
+      href: /brand-marine-expertise/

@@ -1,0 +1,51 @@
+meta:
+  title: 'Produksjonsprosess — Fra råmateriale til SUP | {SITE}'
+  description: 'Fra råmateriale til sjøklar SUP: hvert steg i afars produksjonsprosess under vår kontroll, fra skjæring og sveising til testing.'
+  keywords:
+    - 'SUP produksjonsprosess'
+    - 'oppblåsbar SUP-fabrikk'
+    - 'paddle board produksjonstrinn'
+    - 'PVC-sveising SUP'
+hero:
+  tagline: Prosess
+  title: Produksjonsprosess
+  subtitle: Fra råvare til vannklart brett — hvert steg under vår kontroll
+  back_label: Tilbake til fabrikken
+  back_link: /factory/
+intro: >-
+  I motsetning til merker som setter bort produksjonen til tredjepartsfabrikker, eier og driver afarer hele sin produksjonskjede. Denne vertikale integrasjonen lar oss opprettholde streng kvalitetskontroll på hvert trinn, raskt respondere på tilpassede krav og levere jevn produktkvalitet batch etter
+  batch. Slik bygges et brett i vårt anlegg.
+steps:
+  - step: '01'
+    title: Materialmottak og inspeksjon
+    description: Hvert innkommende parti PVC-stoff, glassfibermatte, harpiks og beslag inspiseres mot spesifikasjon. Stoffprøver testes for strekkstyrke, tykkelsesjevnhet og UV-bestandighet før godkjenning for produksjon. Ikke-samsvarende materialer settes i karantene og returneres.
+    duration: 1–2 dager
+  - step: '02'
+    title: Automatisk PVC-skjæring
+    description: Godkjente stoffer legges på automatisk CNC-skjæremaskin og skjæres med submillimeterpresisjon. Datamaskinoptimalisert opplegg plasserer paneler for å minimere avfall — typisk under 5%. Kuttede paneler merkes med brettmodell og kammer, deretter pakkes for overføring til sveiseverkstedet.
+    duration: 2–4 timer per brettsett
+  - step: '03'
+    title: Rørsveising og sammenføyning
+    description: Panelene heftes og sammenføyes med varmluftssveisemaskiner ved kontrollerte temperaturer 200–300 °C. Hovedsømmer forsterkes med dielektrisk RF-sveising for lufttette, høyfaste skjøter. Ferdige kamre pumpes til 1,5× driftstrykk for 30-minutters trykktest.
+    duration: 1–2 dager per brett
+  - step: '04'
+    title: SUP-trykking og dekorasjon
+    description: SUP-brettets dekkgrafikk påføres via digitaltrykk for fullfarge, fotografiske design og silketrykk for holdbare logoer og repeterende mønstre. Trykkene herdes og forsegles for UV- og slitestyrke.
+    duration: 1–2 dager
+  - step: '05'
+    title: Sluttmontering og utrustning
+    description: Brettene rigges på monteringslinjen med finner, ventiler, EVA-dekk og tilbehør. Hver enhet følger en 100-punkts monteringssjekkliste med obligatorisk godkjenning på hvert trinn.
+    duration: 2–4 dager
+  - step: '06'
+    title: Kvalitetstesting og inspeksjon
+    description: 'Hvert ferdig brett gjennomgår en obligatorisk kvalitetsport: trykkholdtest av kamre, funksjonell kontroll av beslag, momentverifisering av festeelementer og kosmetisk inspeksjon. Tilpassede og prototypebygg får også prøver i vann som omfatter stabilitet og håndtering.'
+    duration: 1–2 dager
+  - step: '07'
+    title: Pakking og forsendelse
+    description: Brettene tømmes for luft, brettes etter prosedyre, pakkes i slitesterke vevde bager eller kryssfinerkasser og lastes for forsendelse. Hver pakke merkes med modell, serienummer og destinasjon. Vi koordinerer med speditører for FCL- og LCL-forsendelser over hele verden.
+    duration: 1 dag
+cta:
+  title: Se vårt utstyr og maskiner
+  desc: Oppdag industriutstyret bak hvert afarer-brett.
+  label: Se utstyr →
+  link: /factory/equipment/

@@ -1,0 +1,97 @@
+meta:
+  title: Program de parteneriat retail SUP | {SITE}
+  description: Program de parteneriat en-gros SUP pentru retaileri și magazine de articole sportive. Gamă completă de produse, opțiuni de dropshipping, marje en-gros competitive de 20–35% și MOQ redus pentru început.
+hero:
+  tagline: Parteneri de retail
+  title: Vindeți SUP gonflabile premium<br />cu marje care funcționează
+  subtitle: Deveniți partener de retail Afarer — aduceți în piața dumneavoastră cel mai rapid crescător brand SUP, cu prețuri en-gros complete, dropshipping, materiale de marketing profesionale și suport dedicat.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Plăci SUP afarer expuse într-un magazin de retail
+margin_section:
+  title: Marje de retail și MOQ
+  subtitle: Niveluri de preț en-gros concepute pentru profitabilitatea în retail.
+  items:
+    - tier: Partener de bază
+      discount: 20%
+      moq: 500 de unități/an
+      margin_note: ~$150–250 profit per placă
+      features:
+        - Acces la întreaga gamă de produse
+        - Pachet de materiale de marketing
+        - Suport prin e-mail
+        - Acces la catalogul de produse
+    - tier: Partener Premium
+      discount: 30%
+      moq: 2.000+ unități/an
+      margin_note: Profit de ~$250–400 per placă
+      features:
+        - Manager de cont dedicat
+        - Protecția teritoriilor exclusive
+        - Suport de marketing personalizat
+        - Acces prioritar la produse noi
+        - Sesiuni de instruire a personalului
+    - tier: Partener principal
+      discount: 35%+
+      moq: 5.000+ unități/an
+      margin_note: Profit de ~$350–500+ per placă
+      features:
+        - Campanii de marketing în co-branding
+        - Suport pentru prezentarea în magazin
+        - Instruirea personalului la fața locului
+        - Promoții comune pe rețelele sociale
+        - Alocare prioritară în producție
+product_line:
+  title: Gamă completă de produse
+  subtitle: O placă SUP pentru fiecare client care îți trece pragul.
+  items:
+    - name: All-Round Series
+      description: Best seller — se potrivește pentru 80% dintre clienți
+    - name: Touring Series
+      description: Practicanți avansați — marjă mai mare
+    - name: Yoga Series
+      description: Piață de nișă — prețuri premium
+    - name: Kids Series
+      description: Clienți de familie — cumpărători recurenți
+    - name: Racing Series
+      description: Piața entuziaștilor — efect de halo pentru brand
+    - name: Accessories
+      description: Accesorii cu marjă mare (vâsle, veste, pompe, genți)
+catalog:
+  title: Resurse pentru partenerii retail
+  subtitle: Descărcați kitul nostru complet pentru parteneri de retail.
+  items:
+    - name: 2026 Product Catalog
+      desc: Gama completă cu specificații, prețuri și informații de comandă
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Calculator de marjă, sfaturi de merchandising și bune practici
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Fotografii de produs de înaltă rezoluție, imagini lifestyle și materiale POS
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Suport pentru partenerii de retail
+  subtitle: Tot ce ai nevoie pentru a vinde cu încredere.
+  items:
+    - Imagini de produs de înaltă rezoluție (fotografie profesională)
+    - Fotografii lifestyle pentru social media, site web și catalog
+    - Materiale de marketing — postere, expozanți de raft, bannere
+    - Videoclipuri de instruire despre produse pentru educarea personalului
+    - Pachet de conținut pentru social media (postări săptămânale)
+    - Descrieri de produs optimizate SEO
+    - Opțiune de dropshipping disponibilă — fără risc de stocuri
+    - Condiții de plată net 30
+cta:
+  title: Sunteți pregătit să deveniți partener de retail Afarer?
+  subtitle: Aplicați pentru parteneriat sau descărcați catalogul nostru de retail pentru a începe.
+  actions:
+    - text: Aplicați pentru parteneriat
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Descărcați catalogul de retail
+      href: /resources/download-catalog/
+      variant: secondary

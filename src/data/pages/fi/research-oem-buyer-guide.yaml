@@ -1,0 +1,111 @@
+meta:
+  title: OEM-ostajan opas – Puhallettavien vesikulkuneuvojen hankinta Aasiasta | {SITE}
+  description: 'Kattava opas täytettävien SUP-lautojen ja kajakkien hankintaan aasialaisilta valmistajilta: tehdasarvioinnin tarkistuslista, laadunvalvontaprotokollat, vaatimustenmukaisuuden varmistus, MOQ-neuvottelu, toimitusehdot ja yleiset sudenkuopat.'
+back_text: Tutkimukseen
+hero:
+  tagline: Hankinta
+  title: OEM-ostajan opas — täytettävien vesikulkuneuvojen hankinta Aasiasta
+  subtitle: 12 minuutin lukeminen
+content_html: >-
+  <h2>1. Esikarsinta: Mitä tehtaassa kannattaa tarkistaa</h2>
+
+
+  <h3>Vaatimustenmukaisuustodistukset</h3>
+
+  <ul>
+    <li><strong>ISO 9001:2015</strong> – Laadunhallintajärjestelmä</li>
+    <li><strong>CE-sertifiointi</strong> – Tarkista ilmoitetun laitoksen numero</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Sosiaalisen vastuun auditoinnit</li>
+    <li><strong>REACH / RoHS</strong> – Materiaalien vaatimustenmukaisuusvakuutukset</li>
+  </ul>
+
+
+  <h3>Valmistusosaaminen</h3>
+
+  <ul>
+    <li>Drop-stitch-sydämen kudonta omassa tehtaassa vs. ulkoistettuna</li>
+    <li>PVC-pinnoitus- / laminoimislinja</li>
+    <li>RF-hitsaus- ja kuumailmahitsauslaitteet</li>
+    <li>Oma muottivalmistus (CNC-työstö)</li>
+    <li>Testilaboratorio (paineentestaus, UV-ikääntyminen, vetolujuustestit)</li>
+  </ul>
+
+
+  <h3>Kokemuksen todentaminen</h3>
+
+  <ul>
+    <li>Vuodet puhallettavien vesikulkuneuvojen valmistuksessa (vähintään 5 vuotta)</li>
+    <li>Insinöörien määrä henkilöstössä</li>
+    <li>Nykyiset OEM/ODM-asiakkaat (pyydä referenssejä)</li>
+    <li>Vientikohteet – toimittavatko he jo kohdemarkkinoillesi?</li>
+  </ul>
+
+
+  <h2>2. Laadunvalvontaprotokollat</h2>
+
+  <p>Materiaalin vastaanottotarkastus: vetolujuus (ASTM D751 tai ISO 1421), repäisylujuus (ASTM D2261 tai ISO 4674), tartuntalujuus, UV-ikääntymisen pistokokeet.</p>
+
+  <p>Tuotannon aikainen QC: saumanlujuuden seuranta 50 kappaleen välein, venttiilien kiristysmomentin tarkistus, drop-stitch-langan tiheyden tarkistukset, mittatarkistukset CAD-piirustuksia vasten.</p>
+
+  <p>Lopputarkastus: 100 %:n paineenpitotesti (24 tuntia, enintään 5 %:n lasku), silmämääräinen tarkastus, venttiilien toimintatesti, satunnaisotantatestit (AQL 2.5 tai 4.0 ISO 2859:n mukaan).</p>
+
+
+  <h2>3. Vaatimustenmukaisuusdokumentaation tarkistuslista</h2>
+
+  <ul>
+    <li>Vaatimustenmukaisuusvakuutus (DoC), jossa viitataan oikeaan EU-direktiiviin</li>
+    <li>CE-sertifikaatti ilmoitetulta laitokselta</li>
+    <li>Akreditoidun laboratorion testiraportti</li>
+    <li>Käyttöturvallisuustiedotteet (MSDS)</li>
+    <li>REACH-vaatimustenmukaisuusvakuutus</li>
+    <li>Materiaaliluettelo (BOM) toimittajan jäljitettävyydellä</li>
+    <li>Tehdastarkastusraportti</li>
+  </ul>
+
+
+  <h2>4. MOQ-neuvottelu</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Tuotetyyppi</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Vakio-MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Neuvoteltavissa oleva vaihteluväli</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">SUP-laudat</td><td class="p-3 border">50 – 100 kappaletta</td><td class="p-3 border">5 – 10 kappaletta (koeerä)</td></tr>
+      <tr><td class="p-3 border">Kajakit</td><td class="p-3 border">50 – 100 kappaletta</td><td class="p-3 border">5 – 10 kappaletta (koeerä)</td></tr>
+      <tr><td class="p-3 border">Täytettävät SUP-laudat</td><td class="p-3 border">50 – 100 kappaletta</td><td class="p-3 border">2 – 5 kappaletta (koeerä)</td></tr>
+      <tr><td class="p-3 border">Turvavarusteet / Tarvikkeet</td><td class="p-3 border">200 – 500 kappaletta</td><td class="p-3 border">50 – 100 kappaletta (koeerä)</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>5. Logistiikka ja toimitukset</h2>
+
+  <p>Yleiset Incoterms-toimituslausekkeet: <strong>FOB</strong> (valmistaja toimittaa lähtösatamaan – yleisin), <strong>EXW</strong> (ostaja hoitaa kaikki kuljetukset tehtaalta alkaen), <strong>CIF</strong> (valmistaja maksaa rahdin ja vakuutuksen määräsatamaan saakka).</p>
+
+  <p>Puhallettavat tuotteet ovat kevyitä mutta tilaa vieviä – tilavuuspaino (DIM) määrää usein toimituskustannukset. Pyydä tyhjiöpakattua pakkausta tilavuuden pienentämiseksi 50–60 %. Merirahti Kiinasta EU:hun: 25–35 päivää; Yhdysvaltojen länsirannikolle: 15–20 päivää.</p>
+
+
+  <h2>6. Yleiset sudenkuopat</h2>
+
+  <ul>
+    <li><strong>Ei tehdasauditointia:</strong> Teetä tai hanki aina kolmannen osapuolen auditointi (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Vain suulliset tekniset tiedot:</strong> Yksityiskohtainen tekninen määrittelydokumentti molempien osapuolten allekirjoittamana</li>
+    <li><strong>Näytehyväksynnän ohittaminen:</strong> Kirjallinen hyväksyntä näytteille ennen sarjatuotantoa</li>
+    <li><strong>Ei laadunvalvontaa tuotannon aikana:</strong> Kolmannen osapuolen tarkastus tuotannon aikana (DUPRO) ja ennen lähetystä (PSI)</li>
+    <li><strong>Vaatimustenmukaisuuden huomiotta jättäminen:</strong> Varmista CE/UKCA-sertifiointi ennen tuotantoa</li>
+  </ul>
+
+
+  <h2>7. Miksi afarer</h2>
+
+  <p>afarer on valmistanut OEM/ODM-puhallettavia vesikulkuneuvoja vuodesta 2012. 12 000 m&sup2; ISO 9001 -sertifioidussa tilassa, yli 25 insinööriä ja CE-sertifiointi kaikissa tuotelinjoissa — täytämme jokaisen tämän oppaan kriteerin. Tarjoamme koetuotannon MOQ:ita uusille kumppaneille ja
+  täydelliset vaatimustenmukaisuusdokumentaatiopaketit.</p>
+cta:
+  title: Oletko valmis aloittamaan hankinnan?
+  subtitle: Ota yhteyttä OEM- tiimiin keskustellaksesi projektiesi vaatimuksista.
+  button_text: Pyydä tarjous
+  button_link: /contact/

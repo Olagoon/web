@@ -1,0 +1,80 @@
+meta:
+  title: 'Equipamentos de Fábrica — Corte, Soldagem RF e Impressão | {SITE}'
+  description: 'Equipamentos de fabricação industrial da afarer: corte de PVC, soldagem RF, impressão digital, montagem e testes para SUPs infláveis.'
+  keywords:
+    - 'equipamentos de fabricação de SUP'
+    - 'fábrica de SUP inflável'
+    - 'soldagem RF de PVC'
+    - 'produção de paddle board'
+hero:
+  tagline: Equipamento
+  title: Equipamentos e Maquinaria de Fabrico
+  subtitle: Equipamento de grau industrial para corte, soldadura, impressão e montagem
+  back_label: Voltar à Fábrica
+  back_link: /factory/
+categories:
+  - title: Corte e Preparação de Materiais
+    items:
+      - name: Máquina de Corte Automática de PVC
+        spec: Controlada por CNC, 6.5 m × 2.5 m, precisão 0.1 mm
+        desc: Máquina de corte automática controlada por computador para tecidos PVC e drop-stitch. O software de aninhamento optimiza a utilização de material para menos de 5% de desperdício.
+      - name: Espalhador de Tecido
+        spec: Largura máx. 3 m, alimentação de tensão controlada
+        desc: Coloca o tecido em camadas simples ou múltiplas com tensão controlada para evitar distorção antes do corte.
+  - title: Soldadura e União de Tubos
+    items:
+      - name: Máquina de Selagem Térmica
+        spec: Soldadura de ar quente, variável 200–600 °C, 0.5–5 m/min
+        desc: Máquina de selagem térmica por ar quente para unir e soldar costuras de PVC e das bordas. Usada para fixação, selagem e fusão de câmaras e juntas de flutuação.
+      - name: Prensa RF Dielétrica
+        spec: 15 kW, placa 2000 × 600 mm
+        desc: Prensa de soldadura de alta frequência para costuras longitudinais principais, juntas casco-tubo e fabrico de grandes câmaras.
+      - name: Soldadora RF Controlada por CNC
+        spec: 8 kW, mesa XY 2500 × 1200 mm
+        desc: Soldadura programável de costuras curvas para geometrias complexas, gravação de logótipos e remendos de precisão.
+  - title: Fabrico de Casco SUP
+    items:
+      - name: Prensa de Laminação de Núcleos Drop-Stitch
+        spec: Prensa de grande formato para núcleos de tábuas de até 14 pés de comprimento total
+        desc: Laminação precisa de núcleos drop-stitch aos laminados externos de PVC. Cada camada é unida sob pressão para qualidade e resistência consistentes.
+      - name: CNC Router (5-axis)
+        spec: Envelope de 3 m × 2 m × 1 m, fuso refrigerado a água
+        desc: Usinagem de caixas de quilha, recortes de alça e componentes personalizados de prancha.
+  - title: Impressão e Decoração SUP
+    items:
+      - name: Impressora Digital
+        spec: Jacto de tinta de alta resolução, largura de impressão até 2 m
+        desc: Impressão digital direta no tecido para gráficos de convés SUP a cores completas. Imprime padrões personalizados, gradientes e imagens de qualidade fotográfica com tintas à base de água resistentes aos UV.
+      - name: Máquina de Serigrafia
+        spec: Manual e semiautomática, registo multicolor
+        desc: Serigrafia para logótipos de pranchas SUP, marcas e padrões repetitivos. Oferece impressões duráveis, opacas com saturação de cor vibrante.
+  - title: Montagem e Armamento
+    items:
+      - name: Board Assembly Station
+        spec: Layout modular ajustável, multiestação
+        desc: Montagem de caixas de quilha, alças, argolas em D, válvulas e pads de deck em pranchas de SUP.
+      - name: Prensa de instalação de válvulas
+        spec: Pneumático, pressão ajustável
+        desc: Instalação e vedação precisas de válvulas Halkey-Roberts e Leafield.
+      - name: Deck Pad Laminator
+        spec: 3 m × 1,5 m, controlado por temperatura
+        desc: Laminação a quente de almofadas de EVA para decks sobre pranchas de SUP com resistência de adesão consistente.
+  - title: Testes e Controlo de Qualidade
+    items:
+      - name: Tesour Universal de Tração
+        spec: 50 kN, ASTM D751
+        desc: Ensaio de força de rotura, alongamento na rotura e propagação de rasgão para lotes de tecido.
+      - name: Banco de Teste de Retenção de Ar
+        spec: Programável, retenção de pressão 30 min
+        desc: Teste automatizado de retenção de pressão para cada câmara de tubo antes da montagem.
+      - name: Testador de Descolagem de Costuras
+        spec: Descolagem motorizada 180° a 100 mm/min
+        desc: Ensaio de resistência à descolagem de costuras soldadas e coladas segundo a EN ISO 25649.
+      - name: Câmara de Envelhecimento por Arco de Xénon
+        spec: 2000 h exposição
+        desc: Ensaio de resistência aos UV para alteração de cor e retenção de resistência.
+cta:
+  title: Interessado numa visita à fábrica?
+  desc: Recebemos visitantes nas nossas instalações em Qingdao. Veja o nosso equipamento e processos pessoalmente.
+  label: Agendar uma visita →
+  link: /contact/

@@ -1,0 +1,72 @@
+meta:
+  title: 'Marin Ekspertise — Teknikk i hvert skrog | {SITE}'
+  description: 'Tiår med marin teknikk i hvert skrog. afarer mestrer drop stitch, marin PVC og profesjonell design av oppblåsbare SUPer.'
+  keywords:
+    - 'marin teknikk'
+    - 'produsent av oppblåsbare SUP'
+    - 'paddle board produksjon'
+hero:
+  tagline: Marin ekspertise
+  title: Tiår med marinteknikk<br />i hvert skrog
+  subtitle: afarer kombinerer dyp materialvitenskap, presisjonsproduksjon og virkelighetstesting for å produsere farkoster som yter når det teller.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: afarers maritime ingeniør- og FoU-team i arbeid
+expertise_materials:
+  tagline: Materialvitenskap
+  title: Velg riktig material<br />for hver applikasjon
+  subtitle: Vi jobber med to kjernematerialer — hver valgt for spesifikke bruksområder og ytelseskrav.
+  columns: 3
+  items:
+    - title: Marin-grade PVC
+      description: 1100 denier PVC-stoff — vårt mest allsidige materiale. UV-stabilisert, slitesterkt og i samsvar med REACH. Ideelt for SUP-brett der vekt og kostnadseffektivitet er viktig.
+      icon: tabler:droplet
+    - title: Glassfiber og polyetylen
+      description: Glasfiberlaminerte SUP-er for premium stivhet og glid. Roterende støpt polyetylen for krevende utleie- og redningsbruk som krever maksimal støtmotstand.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Produksjonsevner
+  title: Presisjonsproduksjon<br />på hvert trinn
+  subtitle: 12.000 m²-anlegget vårt er utstyrt med spesialisert maskineri for hvert produksjonstrinn.
+  columns: 2
+  items:
+    - title: CNC-kutting
+      description: Datastyrt kutting sikrer presise, repeterbare stoffpaneler med minimalt avfall. Hver bit passer nøyaktig som designet.
+      icon: tabler:cpu
+    - title: Høyfrekvens-sveising
+      description: Industriell HF-sveising skaper sømmer sterkere enn basismaterialet. Konsekvent temperatur- og trykkkontroll sikrer lufttette forseglinger på tvers av hver produksjonskjøring.
+      icon: tabler:bolt
+    - title: Drop-stitch-kjerne – montering
+      description: Tusenvis av polyestertråder forbinder øvre og nedre stofflag, noe som muliggjør høytrykksoppblåsing (15-20 PSI) for stive, stabile SUP-brett.
+      icon: tabler:building-arch
+    - title: Trykktesting
+      description: Hvert oppblåsbart produkt trykktestes før forsendelse. Brett testes ved 1,25x nominelt trykk — hvis det holder der, vil det prestere på vannet.
+      icon: tabler:wind
+    - title: Styrketesting av sømmer
+      description: Tilfeldige prøver fra hver produksjonsbatch gjennomgår destruktiv sømstyrketesting. Resultater logges og er sporbare til spesifikke produksjonskjøringer.
+      icon: tabler:files
+    - title: Vanntesting
+      description: Hver SUP-modell gjennomgår sjøprøver før sertifisering. Virkelighetstesting i kystforhold validerer ytelse, håndtering og stabilitet.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Design og ingeniørfag
+  title: Konstruert for reelle forhold
+  subtitle: Designfilosofien vår starter med hvordan brettet skal brukes — deretter bygger vi konstruksjonen rundt det bruksområdet.
+  items:
+    - title: Ytelsesorientert skrogdesign
+      description: Hver skrogform er avstemt etter bruksområdet — fortrinnsneser for touring-glid, ekstra rocker for surf-bevegelighet, flate stabile profiler for fiske og yoga.
+    - title: Drop-stitch-sikkerhet
+      description: Hvert brett har en stiv drop-stitch-kjerne med forsterkede lister. Hvis en seksjon skades, holder den høyfastne drop-stitch-strukturen brettet operativt.
+    - title: Ergonomisk dekkoppsett
+      description: Sonering av dekkplate, bærehåndtaksplassering og festepunkter er designet rundt rytterkomfort under lengre bruk — enten touring, fiske eller patruljering.
+    - title: Tilpasset konfigurasjon
+      description: Listfarger, dekkplatekonfigurasjon, tilbehørsfester, utstyrskapasitet — hver modell kan tilpasses for å matche spesifikke operasjonelle krav.
+cta:
+  title: Har du en spesifikk applikasjon i tankene?
+  subtitle: Ingeniørteamet vårt kan gi råd om materialvalg, design og produksjon for prosjektet ditt.
+  actions:
+    - variant: primary
+      text: Spør våre ingeniører
+      href: /contact/
+    - text: Se produktsortiment
+      href: /products/

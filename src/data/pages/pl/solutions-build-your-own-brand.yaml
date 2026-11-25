@@ -1,0 +1,110 @@
+meta:
+  title: Produkcja SUP na prywatną markę | {SITE}
+  description: Uruchom swoją własną markę SUP z Afarer. Od pomysłu do rynku — pełna obsługa OEM/ODM, w tym projektowanie, prototypowanie, produkcja i globalna logistyka.
+hero:
+  tagline: Zbuduj swoją własną markę
+  title: Uruchom Własną<br />Markę SUP
+  subtitle: Masz wizję. My mamy fabrykę, wiedzę fachową i łańcuch dostaw. Razem stworzymy markę, która się wyróżnia.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Deska SUP z własnym logo na wodzie
+process:
+  title: Twoja podróż marki
+  subtitle: Od pomysłu do rynku w 5 fazach.
+  steps:
+    - phase: Faza 1
+      title: Pomysł
+      period: Tydzień 1-2
+      items:
+        - Badania rynku i analiza konkurencji
+        - Definicja docelowego klienta
+        - Warsztat pozycjonowania marki
+        - Strategia linii produktów
+    - phase: Faza 2
+      title: Projekt
+      period: Tydzień 3-6
+      items:
+        - Kształt deski i projekt graficzny
+        - Dobór kolorów i materiałów
+        - Specyfikacja akcesorium
+        - Projekt opakowań i etykiet
+    - phase: Faza 3
+      title: Prototyp
+      period: Tydzień 7-10
+      items:
+        - Próbna produkcja
+        - Testy jakości (ciśnienie, wyporność, UV)
+        - Dostosowania projektu
+        - Ostateczna akceptacja
+    - phase: Faza 4
+      title: Produkcja
+      period: Tydzień 11-14
+      items:
+        - Produkcja masowa
+        - Kontrola jakości (za jednostkę)
+        - Transport morski / transport lotniczy
+        - Dokumenty odprawy celnej
+    - phase: Faza 5
+      title: Uruchom
+      period: Tydzień 15-16
+      items:
+        - Fotografia produktowa
+        - Kanał produktów witryny
+        - Materiały marketingowe
+        - Wsparcie uruchomienia
+packages:
+  title: Pakiety startowe
+  subtitle: Pakiety zaprojektowane dla każdego etapu rozwoju marki.
+  items:
+    - name: Starter Brand
+      tagline: 50-100 jednostek · 2 modele płyty
+      features:
+        - Podstawowy druk logo
+        - Standardowe opakowanie
+        - Wsparcie e-mail
+    - name: Growing Brand
+      tagline: 300-1 000 jednostek · 3-5 modeli płyty
+      features:
+        - Logo w niestandardowym kolorze
+        - Opakowanie niestandardowe
+        - Zdjęcia produktów
+        - Oddany menedżer
+    - name: Established Brand
+      tagline: 1 000 jednostek · Pełna linia produktów
+      features:
+        - Pełna personalizacja
+        - Opakowanie premium
+        - Materiały marketingowe
+        - Produkcja priorytetowa
+features:
+  title: Dlaczego marki wybierają Afarer
+  subtitle: 10 lat doświadczenia w OEM, pełna certyfikacja i najniższe MOQ w branży.
+  items:
+    - title: 10 lat doświadczenia jako OEM
+      description: 2 400 kadłubów dostarczono markom na całym świecie.
+      icon: tabler:clock
+    - title: Pełna certyfikacja
+      description: CE / ISO / UKCA / BSCI / REACH — wszystkie certyfikowane.
+      icon: tabler:certificate
+    - title: 30-dniowy czas realizacji
+      description: Szybciej niż średnia w branży od zamówienia do wysyłki.
+      icon: tabler:truck-delivery
+    - title: Niska minimalna ilość zamówienia
+      description: Od 50 jednostek — najniższe w branży.
+      icon: tabler:package
+    - title: Projektowanie wewnętrzne
+      description: Pełne wsparcie projektowe od koncepcji do finalnej grafiki.
+      icon: tabler:palette
+    - title: Globalna logistyka
+      description: Transport morski, transport lotniczy i wsparcie w odprawie celnej.
+      icon: tabler:world
+cta:
+  title: Gotowy, aby uruchomić swoją markę?
+  subtitle: Rozpocznij swoją podróż z marką lub pobierz nasz przewodnik OEM.
+  actions:
+    - text: Rozpocznij swoją podróż z marką
+      href: /contact/?package=oem
+      variant: primary
+    - text: Pobierz przewodnik OEM
+      href: /resources/download-catalog/
+      variant: secondary

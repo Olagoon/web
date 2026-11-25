@@ -1,0 +1,180 @@
+meta:
+  title: 'Vertrauen — Qualität, Standards & Ruf | {SITE}'
+  description: 'Warum Sie afarer vertrauen können: CE- und ISO-Zertifizierungen, integrierte Fabrik, globale Referenzen und Garantie. Ein professioneller Hersteller aufblasbarer SUPs.'
+  keywords:
+    - 'vertrauenswürdiger SUP-Hersteller'
+    - 'zertifizierte Paddleboard-Fabrik'
+    - 'zuverlässiger SUP-Lieferant'
+    - 'zertifizierte SUP-Fabrik'
+hero:
+  tagline: Nach Standards gebaut, die zählen
+  title: Vertraue auf afarer
+  subtitle: |
+    Jedes unserer Produkte ist CE-zertifiziert — geprüft auf Sicherheit,<br />
+    Haltbarkeit und Leistung. Keine Kompromisse. Keine Ausnahmen.
+  taglineSection: Zertifiziert. Getestet. Bewährt.
+  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+  imageAlt: afarer-Produkt bei der Qualitätsprüfung
+stats:
+  title: afarer in Zahlen
+  stats:
+    - title: CE-zertifiziert
+      description: Alle Freizeitprodukte erfüllen die EU-Sicherheitsstandards
+    - title: ISO 9001
+      description: Qualitätsmanagementsystem seit 2012
+    - title: BSCI & REACH
+      description: Ethische Fertigung und Materialkonformität
+    - title: 3 Jahre Garantie
+      description: Auf jedes afarer-Produkt — ohne Wenn und Aber
+features3_certifications:
+  title: Zertifizierungen & Konformität
+  subtitle: Jedes Produkt wird unabhängig geprüft und nach internationalen Standards zertifiziert.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: CE-Zertifizierung
+      description: Alle afarer SUPs erfüllen die europäischen CE-Sicherheitsstandards für Freizeitwasserfahrzeuge. Jedes Produkt wird vor Verlassen des Werks Druck-, Auftriebs- und Lasttests unterzogen.
+      icon: tabler:certificate
+    - title: ISO 9001
+      description: Unsere 12.000 m² große Anlage in Qingdao arbeitet nach einem Qualitätsmanagementsystem gemäß ISO 9001. Jede Produktionscharge ist rückverfolgbar, dokumentiert und geprüft.
+      icon: tabler:clipboard-check
+    - title: BSCI Soziale Compliance
+      description: Wir sind BSCI-zertifiziert und gewährleisten ethische Arbeitspraktiken, sichere Arbeitsbedingungen und Umweltverantwortung in unserer gesamten Lieferkette.
+      icon: tabler:users
+    - title: REACH & RoHS
+      description: Alle Materialien — PVC, EVA-Schaum, Klebstoffe — entsprechen den EU-REACH- und RoHS-Verordnungen. Keine verbotenen Substanzen, keine Kompromisse.
+      icon: tabler:flask
+    - title: Materialprüflabor
+      description: Unser internes Labor testet Zugfestigkeit, UV-Beständigkeit, Nahtintegrität und Abriebfestigkeit jeder Stoffcharge vor der Produktion.
+      icon: tabler:microscope
+    - title: 3 Jahre Garantie
+      description: Jedes afarer-Produkt wird mit einer dreijährigen Garantie gegen Herstellungsfehler geliefert. Wir stehen zu dem, was wir bauen.
+      icon: tabler:shield-check
+testimonials:
+  tagline: Kundenvertrauen
+  title: Was unsere Kunden sagen
+  subtitle: Vom Anfänger bis zum professionellen Flottenbetreiber — sehen Sie, warum sie afarer vertrauen.
+  items:
+    - content: Wir haben unsere gesamte Verleihflotte mit afarer SUPs ausgestattet. Zwei Saisons lang, kein einziger Ausfall. Die CE-Zertifizierung machte die Versicherungsgenehmigung reibungslos.
+      name: Marco V.
+      title: Touristikunternehmer, Kroatien
+    - content: Als Erstkäufer war ich besorgt über die Qualität. Die ISO-Dokumentation und Prüfberichte, die sie teilten, gaben mir volles Vertrauen.
+      name: James T.
+      title: SUP Explorer 11 Besitzer, Kanada
+    - content: Wir arbeiten mit afarer für unsere Küstenpatrouilleneinheiten. Ihr QS-Prozess ist über alle Chargen hinweg konsistent — diese Zuverlässigkeit zählt bei missionkritischen Einsätzen.
+      name: Lt. Cmdr. Andres
+      title: Marinebeschaffung, Philippinen
+steps2_manufacturing:
+  title: So gewährleisten wir Qualität
+  subtitle: Von der Rohmaterialprüfung bis zum abschließenden Drucktest — jedes Produkt durchläuft eine strenge Qualitätskette.
+  items:
+    - title: Rohmaterialprüfung
+      description: Jede Rolle PVC-Gewebe wird vor der Produktion auf Dicke, Zugfestigkeit und UV-Beständigkeit geprüft.
+      icon: tabler:search
+    - title: Prozess-QC
+      description: Schweißnähte, Ventilinstallationen und Kammerverbindungen werden an jeder Station während der Montage geprüft.
+      icon: tabler:eye
+    - title: Druckprüfung
+      description: Jedes aufblasbare Produkt wird auf das 1,25-fache des Nenndrucks aufgepumpt und 24–48 Stunden lang gehalten, um Luftdichtheit und Nahtintegrität zu überprüfen.
+      icon: tabler:wind
+    - title: Endkontrolle
+      description: Jedes Gerät wird vor der Versandfreigabe auf Oberfläche, Beschläge und Verpackung geprüft. Chargenproben gehen zur zerstörenden Prüfung ins Labor.
+      icon: tabler:clipboard-check
+factory_audit:
+  title: Werksprüfung & Soziale Verantwortung
+  subtitle: Unsere 12.000 m² große Einrichtung in Qingdao ist für Prüfungen durch Dritte geöffnet. Wir verfügen über die BSCI-Zertifizierung für soziale Verantwortung und begrüßen Kundeninspektionen.
+  stats:
+    - value: 12.000 m²
+      label: Produktionsstätte
+    - value: '200+'
+      label: Facharbeiter
+    - value: '15.000+'
+      label: Jährliche Kapazität pro Einheit
+    - value: BSCI
+      label: Soziale Verantwortung
+  highlights:
+    - title: BSCI-zertifiziert
+      desc: amfori BSCI Sozialverträglichkeitszertifizierung — ethische Arbeitsbedingungen, sichere Arbeitsumgebungen, ökologische Verantwortung.
+      link: /certifications/
+    - title: Zur Besichtigung geöffnet
+      desc: Wir begrüßen Kundenwerksprüfungen. Vereinbaren Sie einen Besuch oder eine virtuelle Tour unserer Produktionslinien in Qingdao.
+      link: /factory/
+    - title: Volle Rückverfolgbarkeit
+      desc: Jede Produktionscharge wird dokumentiert und ist rückverfolgbar – von den Losnummern der Rohmaterialien bis zur endgültigen Qualitätskontrollfreigabe.
+    - title: ISO 9001:2015
+      desc: Qualitätsmanagementsystem von SGS zertifiziert. Unsere Prozesse entsprechen den internationalen Fertigungsstandards.
+      link: /certifications/
+warranty_section:
+  title: Garantie & Kundendienst
+  subtitle: Wir stehen hinter jedem Produkt mit klaren Garantiebedingungen, schneller Schadensbearbeitung und echten Ersatzteilen.
+  items:
+    - title: 3 Jahre Produktgarantie
+      desc: Alle afarer-Produkte haben eine 3-jährige Garantie gegen Herstellungsfehler — Nahtversagen, Ventilfehler und Materialdelamination unter normaler Nutzung.
+    - title: Lebenslange Ersatzteilunterstützung
+      desc: Echte Ersatzteile — Ventile, Reparaturkits, Finnen, D-Ringe — für alle Modelle erhältlich. Wir erhalten Formen und Werkzeuge mindestens 5 Jahre nach Produktionsende.
+    - title: 48-Stunden-Antragsantwort
+      desc: Garantieansprüche werden innerhalb von 48 Stunden anerkannt. Ersatz-Boards werden innerhalb von 10 Werktagen für genehmigte Ansprüche versandt.
+    - title: Globales Reparaturnetzwerk
+      desc: Autorisierte Reparaturzentren in 15 Ländern. Vor-Ort-Reparaturkits für Einsätze in abgelegenen Gebieten verfügbar. Anleitungen zur Selbstreparatur bei kleineren Schäden.
+    - title: OEM-Kundensupport
+      desc: Dedizierte Account-Manager für B2B-Partner. Vierteljährliche Geschäftsüberprüfungen, Bestandsplanung und Co-Branding-Marketingunterstützung.
+    - title: Zertifizierungspaket
+      desc: Vollständige Konformitätsdokumentation wird mit jeder Lieferung bereitgestellt — CE-Erklärung, Prüfberichte, Sicherheitsdatenblätter für Materialien.
+      link: /contact/
+trust_resources:
+  title: Vertrauensressourcen
+  subtitle: Laden Sie unser Zertifizierungsportfolio, unsere QC-Berichte und unsere Konformitätsdokumentation herunter.
+  items:
+    - title: Zertifizierungsportfolio
+      desc: CE-, ISO-9001-, BSCI-, REACH-, RoHS- und AS-1799-Zertifikate in einem Paket.
+    - title: QC-Testbericht über Standards
+      desc: 24–48-Stunden-Druckhalteprüfungen, UV-Alterung gemäß ISO, Validierung der Zugfestigkeit — vollständige Methodik.
+    - title: Betriebsprofil & Auditbericht
+      desc: Übersicht über eine 12.000 m² große Einrichtung mit Fotos der Produktionslinie und Zusammenfassung der Drittparteiaudit.
+    - title: Garantiebedingungen-Dokument
+      desc: Vollständige Garantiebedingungen, Anspruchsverfahren und Preise für Ersatzteile.
+  cta_text: Treuhandressourcen anfordern
+  cta_link: /contact/
+faqs_sup:
+  title: SUP-Board FAQ
+  subtitle: Häufige Fragen zu unseren Stand-Up-Paddle-Boards.
+  columns: 2
+  items:
+    - title: Welche SUP-Boardgrößen sind erhältlich?
+      description: Wir bieten SUP-Boards von 9 ft bis 12 ft, darunter Allround-, Touren-, Yoga- und Spezialdesigns. Unsere meistverkauften Modelle sind das Tropical Breeze (10 ft) und das Ocean Voyager (11 ft).
+    - title: Was ist Drop-Stitch-Konstruktion?
+      description: Die Drop-Stitch-Konstruktion verwendet tausende Polyesterfäden, die die obere und untere Schicht des Boards verbinden, sodass es hohen Luftdruck (15–20 PSI) halten kann und eine starre, stabile Plattform bietet. Dies ist der Industriestandard für hochwertige aufblasbare SUPs.
+    - title: Wie hoch ist das Gewichtslimit für SUP-Boards?
+      description: Unsere SUP-Boards unterstützen je nach Modell und Volumen bis zu 150 kg. Das Leviathan Wake Board ist unser Modell mit der höchsten Kapazität, entwickelt für schwerere Fahrer und den Einsatz beim Yoga.
+    - title: Bieten Sie komplette SUP-Pakete an?
+      description: Ja. Jedes SUP-Board wird mit einem Komplettpaket geliefert, das ein 3-teiliges Aluminiumpaddel, eine Hochdruck-Handpumpe, eine Spiralleine, einen Reiserucksack und ein Reparaturset enthält. Einige Modelle enthalten auch einen abnehmbaren Finnen-Satz.
+    - title: Welche Garantie gilt für SUP-Boards?
+      description: Alle afarer SUP-Boards haben eine dreijährige Garantie gegen Herstellungsfehler, einschließlich Nahtversagen, Ventildefekte und Materialdelamination bei normalem Gebrauch.
+    - title: Wie lange dauert es, ein SUP-Board aufzupumpen?
+      description: Mit der mitgelieferten Handpumpe dauert eine vollständige Befüllung auf 15 PSI etwa 8–12 Minuten. Für schnelleres Aufpumpen empfehlen wir unsere afarer 12V-Elektropumpe, die ein Board in unter 4 Minuten aufpumpt.
+faqs_materials:
+  title: SUP Material & Pflege FAQs
+  subtitle: Häufige Fragen zu unseren aufblasbaren SUP-Materialien, deren Pflege und Lagerung.
+  columns: 2
+  items:
+    - title: Welche Materialien werden in Afarer aufblasbaren SUPs verwendet?
+      description: Wir verwenden militärischen PVC-Qualität (1100 Denier) mit UV-stabilisierter, verschleißfester Konstruktion, die den EU-REACH- und RoHS-Vorschriften entspricht.
+    - title: Wie lange halten aufblasbare SUPs?
+      description: Bei richtiger Pflege hält ein hochwertiges PVC-aufblasbares SUP 5–10 Jahre. Regelmäßige Reinigung, UV-Schutz und sachgemäße Lagerung verlängern die Lebensdauer erheblich.
+    - title: Welche Wartung ist für ein aufblasbares SUP erforderlich?
+      description: Grundlegende Wartung umfasst das Abspülen mit Süßwasser nach jedem Gebrauch (insbesondere in Salzwasser), das Trocknen vor der Lagerung, die jährliche Überprüfung der Ventildichtungen und das Vermeiden von längerer Sonneneinstrahlung, wenn es nicht in Gebrauch ist.
+    - title: Können aufblasbare SUPs in Salzwasser verwendet werden?
+      description: Ja. Alle aufblasbaren SUPs von Afarer sind sowohl für den Gebrauch in Süßwasser als auch in Salzwasser konzipiert. Wir empfehlen, nach dem Einsatz im Salzwasser mit Süßwasser zu spülen und gründlich zu trocknen.
+    - title: Wie lagere ich ein aufblasbares SUP?
+      description: Entlüften, reinigen und das Brett vor der Lagerung vollständig trocknen. Locker aufrollen (enge Falten vermeiden), an einem kühlen, trockenen Ort ohne direkte Sonneneinstrahlung lagern und von Betonböden fernhalten, um das Aufsaugen von Feuchtigkeit zu verhindern.
+    - title: Wie hoch ist die Gewichtskapazität von afarer aufblasbaren SUPs?
+      description: Die Tragfähigkeiten reichen von 100 kg für unsere kleinsten Modelle bis über 200 kg für größere Boards. Jede Produktseite gibt die maximale Traglast für Ihr spezifisches Modell an.
+cta:
+  title: Möchten Sie die Zertifikate selbst sehen?
+  subtitle: Fordern Sie unser Zertifizierungsportfolio, Werksauditberichte oder Materialkonformitätsdokumentation an. Keine NDV erforderlich.
+  actions:
+    - variant: primary
+      text: Zertifizierungsdokumente anfordern
+      href: /contact/
+    - text: Zur Fabrikseite
+      href: /factory/

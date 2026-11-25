@@ -1,0 +1,97 @@
+meta:
+  title: Programma Partner Retail SUP | {SITE}
+  description: "Programma di partnership all'ingrosso SUP per rivenditori e negozi di articoli sportivi. Gamma completa di prodotti, opzioni di dropshipping, margini all'ingrosso competitivi dal 20–35% e MOQ basso per iniziare."
+hero:
+  tagline: Partner al dettaglio
+  title: Vendi SUP gonfiabili premium<br />con margini che funzionano
+  subtitle: "Diventa partner al dettaglio di Afarer — porta il marchio SUP in più rapida crescita nel tuo mercato con prezzi all'ingrosso completi, dropshipping, materiali di marketing professionali e supporto dedicato."
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Tavole SUP Afarer esposte in un negozio al dettaglio
+margin_section:
+  title: Margini al dettaglio e MOQ
+  subtitle: Livelli di prezzo all'ingrosso progettati per la redditività al dettaglio.
+  items:
+    - tier: Partner Base
+      discount: 20%
+      moq: 500 unità/anno
+      margin_note: ~$150–250 di profitto per tavola
+      features:
+        - Accesso all'intera gamma di prodotti
+        - Pacchetto di materiali di marketing
+        - Supporto via email
+        - Accesso al catalogo dei prodotti
+    - tier: Partner Premium
+      discount: 30%
+      moq: 2.000 unità/anno
+      margin_note: ~$250–400 di profitto per tavola
+      features:
+        - Responsabile account dedicato
+        - Protezione del territorio esclusivo
+        - Supporto marketing personalizzato
+        - Primo accesso ai nuovi prodotti
+        - Sessioni di formazione del personale
+    - tier: Partner di punta
+      discount: 35%
+      moq: 5.000 unità/anno
+      margin_note: ~$350–500 di profitto per scheda
+      features:
+        - Campagne di marketing co-branded
+        - Supporto per esposizione in negozio
+        - Formazione del personale in loco
+        - Promozioni congiunte sui social media
+        - Allocazione della produzione prioritaria
+product_line:
+  title: Linea di prodotti completa
+  subtitle: Una tavola SUP per ogni cliente che entra dalla tua porta.
+  items:
+    - name: All-Round Series
+      description: Più venduto — adatto all'80% dei clienti
+    - name: Touring Series
+      description: Pagaia per prestazioni — margine più alto
+    - name: Yoga Series
+      description: Mercato di nicchia — prezzi premium
+    - name: Kids Series
+      description: Clienti familiari — acquirente abituale
+    - name: Racing Series
+      description: Mercato degli appassionati — alone del marchio
+    - name: Accessories
+      description: Componenti aggiuntivi ad alto margine (pale, giubbotti, pompe, borse)
+catalog:
+  title: Risorse per Partner Retail
+  subtitle: Scarica il nostro completo kit per partner retail.
+  items:
+    - name: 2026 Product Catalog
+      desc: Gamma completa con specifiche, prezzi e informazioni per l'ordine
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Calcolatore di margini, consigli di merchandising e migliori pratiche
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Foto di prodotti ad alta risoluzione, immagini di lifestyle e materiali per il punto vendita
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Supporto ai Partner Retail
+  subtitle: Tutto ciò di cui hai bisogno per vendere con sicurezza.
+  items:
+    - Immagini del prodotto ad alta risoluzione (fotografia professionale)
+    - Foto di lifestyle per social media, sito web e catalogo
+    - Materiali di marketing — poster, espositori da scaffale, striscioni
+    - Video di formazione sui prodotti per l'educazione del personale
+    - Pacchetto di contenuti per social media (post settimanali)
+    - Descrizioni di prodotti ottimizzate per la SEO
+    - Opzione dropshipping disponibile — nessun rischio di inventario
+    - Termini di pagamento a 30 giorni
+cta:
+  title: Pronto a diventare partner al dettaglio di Afarer?
+  subtitle: Candidati per la collaborazione o scarica il nostro catalogo al dettaglio per iniziare.
+  actions:
+    - text: Candidati per la collaborazione
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Scarica il catalogo al dettaglio
+      href: /resources/download-catalog/
+      variant: secondary

@@ -1,0 +1,114 @@
+meta:
+  title: 'Om afarer — Oppustelig SUP- & vandsportsbrand | {SITE}'
+  description: 'afarer er et globalt oppusteligt SUP- og vandsportsbrand, drevet af Aquafarer LLC og opbygget af vores Qingdao-operationsteam. Opdag vores historie, teknik, certificerede kvalitet og landepartnerprogrammer.'
+  keywords:
+    - 'oppusteligt sup brand'
+    - 'vandsportsbrand'
+    - 'lande-sup-distributør'
+    - 'co-branded sup kollektioner'
+hero:
+  tagline: Om os
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarers fabrik og værksted
+  title: |
+    Marinteknik, <br />
+    bygget på <span class="text-accent dark:text-white">afarer</span>-måden
+  subtitle: 'Vi startede i et kystnært værksted med ét board og en urokkelig overbevisning: marineprodukter skal konstrueres, som om de betyder noget – for det gør de. I dag leverer vi til over 40 lande, men hvert skrog passerer stadig gennem de samme hænder, der startede virksomheden.'
+stats:
+  title: I tal
+  columns: 4
+  stats:
+    - title: Leverede skrog
+      amount: 2.400+
+    - title: Lande, vi leverer til
+      amount: '40'
+    - title: Års samlet erfaring
+      amount: '60'
+    - title: Gennemsnitlig reaktionstid på garantien (timer)
+      amount: '24'
+features3_what_we_build:
+  title: Det, vi bygger
+  subtitle: 'Vi startede i et kystnært værksted med ét bræt og en urokkelig overbevisning: marineprodukter skal konstrueres, som om de betyder noget – for det gør de. I dag leverer vi til over 40 lande, men hvert skrog passerer stadig gennem de samme hænder, der startede virksomheden.'
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: SUP-brætter
+      description: Opslåelige SUP-boards fra 9 ft til 12 ft. Designet til touring, yoga, fiskeri og familiebrug.
+      icon: tabler:ship
+    - title: Oppustelige SUPs
+      description: PVC-oppustelige SUP-brædder fra 9 ft til 12 ft. Lette, robuste og nemme at opbevare.
+      icon: tabler:rowing
+    - title: Premium SUP-pakker
+      description: Kompakte, højspecifikke SUPs specialbygget til at matche dit brands eller din flådes krav.
+      icon: tabler:crown
+features3_more:
+  columns: 3
+  isAfterContent: true
+  items:
+    - title: Tilbehør
+      description: Padler, pumper, betræk, tørtasker og elektronik. Alt sammen afstemt med vores boards.
+      icon: tabler:package
+    - title: Reparation & service
+      description: Intern boardreparation, udskiftning af dækpuder og opgradering af tilbehør.
+      icon: tabler:tool
+    - title: Skræddersyede konstruktioner
+      description: Projektbaseret design for kommercielle, videnskabelige og militære kunder.
+      icon: tabler:hammer
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    alt: Boarddesign og teknisk udvikling
+steps2_values:
+  title: Vores værdier
+  subtitle: Tre principper, der har præget ethvert produkt lige fra starten.
+  items:
+    - title: Bygget som om det bærer din familie
+      description: Hvert skrog, hver svejsning og hvert beslag behandles, som om vores egne familier skal bruge dem.
+      icon: tabler:heart
+    - title: Vi konstruerer, før vi sælger
+      description: Opslåelige SUP-boards fra 9 ft til 12 ft. Designet til touring, yoga, fiskeri og familiebrug.
+      icon: tabler:settings
+    - title: Support, der holder længere end garantien
+      description: Tyve år gamle skrog ringer stadig til os for reservedele – og vi tager stadig telefonen.
+      icon: tabler:headset
+steps2_milestones:
+  title: Milepæle
+  subtitle: En kort version af afarer-historien.
+  isReversed: true
+  items:
+    - title: Grundlagt i et kystværksted
+      description: Startet af to marineingeniører med en CNC-fræser og en stædig idé.
+      icon: tabler:building-factory
+    - title: Første 1.000 skrog leveret
+      description: Vi er nu nået til vores syvende år, hovedsageligt gennem mund-til-mund-anbefalinger og tilbagevendende kunder.
+      icon: tabler:circle-check
+    - title: Internationalt eksportprogram
+      description: Nu sender vi til 40+ lande med lokale supportpartnere på fem kontinenter.
+      icon: tabler:world
+features2_locations:
+  title: Vores lokationer
+  tagline: Find os
+  columns: 3
+  items:
+    - title: Hovedkvarter & værksted
+      description: Opslåelige SUP-boards fra 9 ft til 12 ft. Designet til touring, yoga, fiskeri og familiebrug.
+    - title: Servicecenter i EU
+      description: Opslåelige SUP-boards fra 9 ft til 12 ft. Designet til touring, yoga, fiskeri og familiebrug.
+    - title: APAC-partnernetværk
+      description: Autoriserede servicepartnere i Australien, Japan, Singapore og Hongkong.
+brand_hub_tagline: Mærke
+brand_hub_title: Udforsk vores brand
+brand_hub_subtitle: Dyk dybere ned i vores SUP-tekniske ekspertise, globale tilstedeværelse og de principper, der driver os.
+brand_hub_cards:
+  - title: Marin ekspertise
+    desc: Årtiers materialevidenskab, præcisionsproduktion og test i den virkelige verden — fra PVC-fremstilling til deep-V-skrogdesign og drop-stitch-teknologi.
+    link: /brand-marine-expertise/
+    link_label: Lær mere →
+  - title: Global tilstedeværelse
+    desc: Vi sender til 50+ lande fra vores facilitet i Qingdao med autoriserede servicepartnere i Europa, Asien-Stillehavsregionen og Amerika.
+    link: /brand-global-presence/
+    link_label: Lær mere →
+  - title: Hvorfor afarer
+    desc: Et brand bygget på verificeret kvalitet — dobbelt certificering (ISO 9001 + BSCI), CE-overholdelse og eksklusive landepartnerskaber med begrænsede co-branded kollektioner for vandsportsvirksomheder.
+    link: /brand-why-afarer/
+    link_label: Lær mere →

@@ -1,0 +1,63 @@
+meta:
+  title: 'Soluções Empresariais — SUP para Cada Negócio | {SITE}'
+  description: 'Soluções empresariais afarer: frotas de SUP para resorts, clubes, aluguéis, distribuição e marcas próprias. Fornecedor profissional de equipamentos náuticos B2B.'
+  keywords:
+    - 'soluções empresariais de SUP'
+    - 'fornecedor de paddle board inflável'
+    - 'equipamento náutico B2B'
+    - 'fabricante de SUP inflável'
+hero:
+  tagline: Soluções Empresariais
+  title: Soluções SUP<br />Para Todo Negócio
+  subtitle: De resorts a varejo, de operadores de aluguel a distribuidores globais — a Afarer oferece soluções completas de SUP adaptadas ao seu modelo de negócios.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Pranchas Afarer SUP para aplicações comerciais e profissionais
+stats:
+  title: Afarer em um Relance
+  stats:
+    - title: Anos de Experiência
+      amount: Desde 2012
+    - title: Soluções Personalizadas
+      amount: '100+'
+    - title: Mercados Atendidos
+      amount: '50+'
+    - title: Tábuas Entregues
+      amount: '15.000+'
+features3_solutions:
+  tagline: Soluções Por Tipo de Negócio
+  title: SUPs Projetados<br />Para o Seu Negócio
+  isBeforeContent: false
+  columns: 2
+  items:
+    - title: Resorts e Hotéis
+      description: Programas completos de frota de SUP para propriedades de hospitalidade — pranchas duráveis, branding personalizado e suporte para treinamento de equipe.
+      icon: tabler:building
+      link: /solutions/resorts-hotels/
+    - title: Clubes de Paddle
+      description: Frotas de SUP confiáveis para clubes de remo, programas de aula e operações de associação — pranchas de nível comercial com preços para clubes.
+      icon: tabler:users
+      link: /solutions/paddle-clubs/
+    - title: Operadores de Aluguel
+      description: Pranchas de SUP de alta rotatividade projetadas para uso diário em aluguel. Resistentes aos raios UV, de secagem rápida, empilháveis — feitas para o ritmo do aluguel.
+      icon: tabler:currency-dollar
+      link: /solutions/rental-operators/
+    - title: Parceiros de Varejo
+      description: Venda a marca de SUP que mais cresce no seu mercado. Linha completa de produtos, materiais de marketing, dropshipping e margens competitivas.
+      icon: tabler:shopping-cart
+      link: /solutions/retail-partners/
+    - title: Distribuidores
+      description: Territórios exclusivos, portfólio completo de produtos, gestão de contas dedicada. Junte-se à nossa rede global de distribuição em mais de 50 países.
+      icon: tabler:world
+      link: /solutions/distributors/
+    - title: Construa Sua Própria Marca
+      description: Fabricação SUP OEM/ODM de ponta a ponta — design, prototipagem, produção em massa e logística. Lance sua marca com a Afarer.
+      icon: tabler:package
+      link: /solutions/build-your-own-brand/
+cta:
+  title: Não tem certeza de qual solução atende às suas necessidades?
+  subtitle: Descreva sua aplicação para nossa equipe e nós recomendaremos a configuração certa.
+  actions:
+    - variant: primary
+      text: Obter uma recomendação
+      href: /contact/

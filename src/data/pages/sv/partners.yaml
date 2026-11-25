@@ -1,0 +1,72 @@
+meta:
+  title: 'Partner — distribution & partihandel | {SITE}'
+  description: 'Bli en afarer-partner: distributionsnätverk, partipriser, OEM/privatlabel-program och stöd för paddle board-företag över hela världen.'
+  keywords:
+    - 'SUP distributionspartner'
+    - 'paddle board partihandel'
+    - 'uppblåsbar SUP distributör'
+    - 'SUP partnerskap'
+hero:
+  tagline: Partners och distribution
+  title: Bli en afarer-partner<br />— Globalt distributionsnätverk
+  subtitle: Gå med i Afarers globala partnernätverk. Vi samarbetar med marina distributörer, paddelsportsåterförsäljare, utrustningsåterförsäljare och varumärkespartners i 50+ länder.
+  image:
+    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
+    alt: afarers globala partner- och distributörnätverk
+content_programs:
+  tagline: Partnerskapsprogram
+  title: Partnerprogram<br />byggda för tillväxt
+  subtitle: Oavsett om du är distributör, återförsäljare eller varumärkespartner erbjuder afarer program utformade för att stödja din verksamhet.
+  columns: 3
+  items:
+    - title: Distributörsprogram
+      description: Exklusiv territoriedistribution med volymprissättning, marknadsföringsstöd och direkt fabrikstillgång. Minimikrav baserat på territoriestorlek.
+      icon: tabler:world
+    - title: Återförsäljarprogram
+      description: Direkt återförsäljarprissättning, produktutbildning, marknadsföringsmaterial och garantistöd för butiker och onlinebutiker.
+      icon: tabler:building-store
+    - title: OEM/ODM-partnerskap
+      description: Fullservice OEM- och ODM-tillverkning med anpassad branding, förpackning och produktspecifikationer. Från koncept till container.
+      icon: tabler:certificate
+    - title: Varumärkes-samarbete
+      description: Co-branding, private label och exklusiva modellprogram för etablerade varumärken inom marin- och friluftsrekreation.
+      icon: tabler:stars
+    - title: Offentlig och institutionell
+      description: Föredragna leverantörsprogram för myndigheter, kustbevakning, militär och humanitära organisationer. Anbudsklar dokumentation.
+      icon: tabler:building-community
+    - title: Resort- och uthyrningspartner
+      description: Flottprissättning, konsekvent kvalitet och anpassad branding för resorter, dykcenter och uthyrningsverksamhet över hela världen.
+      icon: tabler:sun
+content_benefits:
+  tagline: Varför samarbeta med oss
+  title: Varför partners väljer afarer
+  subtitle: Våra partners drar nytta av verklig tillverkningskapacitet, konsekvent kvalitet och lyhörd support.
+  list:
+    - 'Direkt fabrikstillgång: Arbeta direkt med vårt tillverkningsteam — inga mellanhänder. Snabbare svar, bättre priser och full insyn i produktionen.'
+    - 'Anpassningsklar: Varumärke dina produkter med anpassade färger, logotyper, förpackningar och specifikationer. Minsta orderkvantiteter anpassade efter din marknad.'
+    - 'Kvalitet garanterad: ISO 9001-certifierad produktion med CE-, UKCA- och BSCI-efterlevnad. Varje produkt testas innan leverans.'
+    - 'Global logistik: Frakt från Qingdao, Kina med FOB-, CIF- och DDP-alternativ. Lager i Montclair, Kalifornien för nordamerikansk distribution.'
+    - 'Marknadsföringsstöd: Produktkataloger, foto, teknisk dokumentation och digitala resurser som stöder er försäljning.'
+    - 'Utbildning och support: Produktutbildning för ditt säljteam, teknisk support för dina kunder och garantiservicekoordinering.'
+content_process:
+  tagline: Så blir du partner
+  title: Enkel partnerskapsprocess
+  subtitle: Vår partnerskapsprocess är okomplicerad — utformad för att få dig att sälja afarer-produkter snabbt.
+  items:
+    - title: 'Steg 1: Skicka in ansökan'
+      description: Fyll i vår partneransökningsblankett med din företagsprofil, målmarknad och produktintressen.
+    - title: 'Steg 2: Kvalificeringsgranskning'
+      description: Vårt partnerskapsteam granskar din ansökan och kontaktar dig inom 3 arbetsdagar för att diskutera möjligheter.
+    - title: 'Steg 3: Avtal och installation'
+      description: Skriv ett partnerskapsavtal, skapa ditt konto och få partnerpriser, marknadsföringsmaterial och produktprover.
+    - title: 'Steg 4: Utbildning och lansering'
+      description: Produktutbildning, säljstöd och marknadsföringsmaterial tillhandahålls. Du är redo att börja sälja.
+cta:
+  title: Redo att bli en afarer-partner?
+  subtitle: Ansök om partnerskap och vårt team svarar inom 3 arbetsdagar.
+  actions:
+    - variant: primary
+      text: Ansök om partnerskap
+      href: /contact/
+    - text: Visa våra produkter
+      href: /products/

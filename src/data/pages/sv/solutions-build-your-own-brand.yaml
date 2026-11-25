@@ -1,0 +1,110 @@
+meta:
+  title: Privatmärkt SUP-tillverkning | {SITE}
+  description: Lansera ditt eget SUP-varumärke med Afarer. Från idé till marknad — komplett OEM/ODM-tjänst inklusive design, prototytillverkning, produktion och global logistik.
+hero:
+  tagline: Bygg ditt eget varumärke
+  title: Lansera ditt eget<br />SUP-varumärke
+  subtitle: Du har visionen. Vi har fabriken, expertisen och leveranskedjan. Tillsammans bygger vi ett varumärke som sticker ut.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Anpassad SUP-bräda med eget varumärke på vatten
+process:
+  title: Din varumärkesresa
+  subtitle: Från idé till marknad i 5 faser.
+  steps:
+    - phase: Fas 1
+      title: Idé
+      period: Vecka 1–2
+      items:
+        - Marknadsanalys och konkurrentanalys
+        - Målkunddefinition
+        - Varumärkespositioneringsworkshop
+        - Produktlinjestrategi
+    - phase: Fas 2
+      title: Design
+      period: Vecka 3-6
+      items:
+        - Brädehyda och grafisk design
+        - Färgmatchning och materialval
+        - Tillbehörsspecifikation
+        - Förpacknings- och etikettformgivning
+    - phase: Fas 3
+      title: Prototyp
+      period: Vecka 7–10
+      items:
+        - Provtilverkning
+        - Kvalitetstester (tryck, flytkraft, UV)
+        - Designjusteringar
+        - Slutgodkännande
+    - phase: Fas 4
+      title: Produktion
+      period: Vecka 11-14
+      items:
+        - Storskalig tillverkning
+        - QC-inspektion (per enhet)
+        - Sjöfrakt / luftfrakt
+        - Tullklareringsdokument
+    - phase: Fas 5
+      title: Lansering
+      period: Vecka 15–16
+      items:
+        - Produktfotografering
+        - Webbplatsens produktflöde
+        - Marknadsföringsmaterial
+        - Lanseringsstöd
+packages:
+  title: Startpaket
+  subtitle: Paket utformade för varje steg i varumärkets tillväxt.
+  items:
+    - name: Starter Brand
+      tagline: 50–100 enheter · 2 brämodeller
+      features:
+        - Grundläggande logotryck
+        - Standardförpackning
+        - E-postsupport
+    - name: Growing Brand
+      tagline: 300–1 000 enheter · 3–5 brädmodeller
+      features:
+        - Anpassad färg + logotyp
+        - Anpassad förpackning
+        - Produktbilder
+        - Dedikerad kontoansvarig
+    - name: Established Brand
+      tagline: 1 000+ enheter · Fullständig produktsortiment
+      features:
+        - Fullständig anpassning
+        - Premiumförpackning
+        - Marknadsföringsmaterial
+        - Prioriterad produktion
+features:
+  title: Varför varumärken väljer Afarer
+  subtitle: 10+ års OEM-erfarenhet, fullständig certifiering och lägsta MOQ i branschen.
+  items:
+    - title: 10+ års OEM-erfarenhet
+      description: 2 400+ skrov levererade till varumärken världen över.
+      icon: tabler:clock
+    - title: Fullständig certifiering
+      description: CE / ISO / UKCA / BSCI / REACH — allt certifierat.
+      icon: tabler:certificate
+    - title: 30 dagars ledtid
+      description: Snabbare än medelvärdet i branschen från order till leverans.
+      icon: tabler:truck-delivery
+    - title: Låg MOQ
+      description: Från 50 enheter — lägst i branschen.
+      icon: tabler:package
+    - title: In-house design
+      description: Fullständigt designstöd från koncept till slutgiltig grafisk design.
+      icon: tabler:palette
+    - title: Global logistik
+      description: Sjöfrakt, luftfrakt och tullklareringsstöd.
+      icon: tabler:world
+cta:
+  title: Redo att lansera ditt varumärke?
+  subtitle: Starta din varumärkesresa eller ladda ner vår OEM-guide.
+  actions:
+    - text: Börja din varumäressatsning
+      href: /contact/?package=oem
+      variant: primary
+    - text: Ladda ner OEM-guide
+      href: /resources/download-catalog/
+      variant: secondary

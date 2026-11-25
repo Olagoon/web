@@ -1,0 +1,63 @@
+meta:
+  title: 'Affärslösningar — SUP för varje verksamhet | {SITE}'
+  description: 'afars affärslösningar: SUP-flottor för resorts, klubbar, uthyrning, distribution och privatlabel. Professionell leverantör av nautisk utrustning för B2B.'
+  keywords:
+    - 'SUP affärslösningar'
+    - 'leverantör av uppblåsbara paddle boards'
+    - 'nautisk utrustning B2B'
+    - 'tillverkare av uppblåsbara SUP'
+hero:
+  tagline: Företagslösningar
+  title: SUP-lösningar<br /> för varje företag
+  subtitle: Från resorter till detaljhandel, uthyrningsoperatörer till globala distributörer – Afarer erbjuder kompletta SUP-lösningar anpassade efter din affärsmodell.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Afarer SUP-brädor för affärs- och proffsanvändning
+stats:
+  title: afarer i korthet
+  stats:
+    - title: År av erfarenhet
+      amount: Sedan 2012
+    - title: Anpassade lösningar
+      amount: 100+
+    - title: Betjänade marknader
+      amount: 50+
+    - title: Brädor levererade
+      amount: 15 000+
+features3_solutions:
+  tagline: Lösningar efter verksamhetstyp
+  title: Skräddarsydda SUP-brädor<br />för ditt företag
+  isBeforeContent: false
+  columns: 2
+  items:
+    - title: Resorts och hotell
+      description: Komplett SUP-flottprogram för hotell och resorter — hållbara brädor, anpassad branding och stöd för personalutbildning.
+      icon: tabler:building
+      link: /solutions/resorts-hotels/
+    - title: Paddelklubbar
+      description: Pålitliga SUP-flottor för paddelklubber, lektionprogram och medlemsverksamhet — kommersiella brädor med klubbrabatt.
+      icon: tabler:users
+      link: /solutions/paddle-clubs/
+    - title: Uthyrningsoperatörer
+      description: Högrotationssup-brädor konstruerade för daglig uthyrning. UV-beständiga, snabbtorkande, staplingsbara — designade för uthyrningens slit.
+      icon: tabler:currency-dollar
+      link: /solutions/rental-operators/
+    - title: Handelspartners
+      description: Sälj det snabbast växande SUP-varumärket på din marknad. Fullständig produktlinje, marknadsföringsmaterial, dropshipping och konkurrerande marginaler.
+      icon: tabler:shopping-cart
+      link: /solutions/retail-partners/
+    - title: Distributörer
+      description: Exklusiva territorier, komplett produktportfölj, dedikerad kontoansvarig. Gå med i vårt globala distributionsnätverk i 50+ länder.
+      icon: tabler:world
+      link: /solutions/distributors/
+    - title: Bygg ditt eget varumärke
+      description: Helhetslösning inom OEM/ODM SUP-tillverkning — design, prototypering, storskalig produktion och logistik. Lansera ert varumärke med Afarer.
+      icon: tabler:package
+      link: /solutions/build-your-own-brand/
+cta:
+  title: Osäker på vilken lösning som passar dina behov?
+  subtitle: Beskriv din applikation för vårt team så rekommenderar vi rätt konfiguration.
+  actions:
+    - variant: primary
+      text: Få en rekommendation
+      href: /contact/

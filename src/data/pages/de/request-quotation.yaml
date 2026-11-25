@@ -1,0 +1,99 @@
+meta:
+  title: 'Angebot anfordern — OEM-SUP-Fertigung | {SITE}'
+  description: 'Fordern Sie ein detailliertes Angebot für Ihr aufblasbares SUP-Projekt an. OEM/ODM-Fertigung, Eigenmarken oder kundenspezifische Flotten — Antwort in 2 Werktagen.'
+  keywords:
+    - 'SUP-Angebot anfordern'
+    - 'OEM-Paddleboard-Angebot'
+    - 'SUP-Fabrik Angebot'
+    - 'Preis aufblasbares SUP'
+hero_text:
+  tagline: Ein Angebot einholen
+  title: Angebot anfordern<br />für Ihr Projekt
+  subtitle: Teilen Sie uns Ihre Anforderungen mit. Wir antworten mit einem detaillierten Angebot innerhalb von 2 Werktagen.
+steps2_process:
+  title: Wie es funktioniert
+  subtitle: Vier einfache Schritte von der Anfrage bis zum Angebot.
+  items:
+    - title: 'Schritt 1: Anforderungen senden'
+      description: Formular mit Produkttyp, Menge und Spezifikationen ausfüllen. Je detaillierter, desto genauer das Angebot.
+      icon: tabler:file-text
+    - title: 'Schritt 2: Wir prüfen & beraten'
+      description: Unser Engineering-Team prüft Ihre Anforderungen und gibt Empfehlungen zu Produktkonfiguration.
+      icon: tabler:users
+    - title: 'Schritt 3: Angebot erhalten'
+      description: Sie erhalten ein detailliertes Angebot mit Preisen, MOQ, Lieferzeit, Zahlungsbedingungen und Versandoptionen. In der Regel innerhalb von 48 Stunden.
+      icon: tabler:currency-dollar
+    - title: 'Schritt 4: Muster & Produktion'
+      description: Nach Angebotsannahme erfolgt die Musterproduktion (falls zutreffend) oder direkt die Massen
+      icon: tabler:building-factory
+content_form:
+  tagline: Angebotsformular
+  title: Erzählen Sie uns von Ihrem Projekt
+  subtitle: Alle mit * gekennzeichneten Felder sind Pflichtfelder.
+  contact_fields:
+    firstName: Vorname
+    lastName: Nachname
+    companyName: Unternehmen
+    email: E-Mail
+  fields:
+    - name: Produktkategorie
+      type: select
+      options:
+        - SUP-Board
+        - Aufblasbares SUP
+        - Aufblasbares SUP-Board
+        - Schwimmweste
+        - Marine-Zubehör
+        - Individuelles OEM/ODM
+    - name: Anwendung
+      type: select
+      options:
+        - Tauchzentrum
+        - Angeln
+        - Marine Tourismus / Resort
+        - Suche & Rettung
+        - Regierung / Militär
+        - OEM / Eigenmarke
+        - Persönlich / Freizeit
+        - Andere
+    - name: Stückzahl
+      type: text
+      placeholder: z. B. 50 Stück
+    - name: Zielmarkt
+      type: text
+      placeholder: z. B. Europa, Nordamerika, Naher Osten
+    - name: Lieferland
+      type: text
+      placeholder: z. B. Italien, VAE, USA, Australien
+    - name: Bevorzugtes Material
+      type: select
+      options:
+        - Keine Präferenz
+        - Marine-PVC (1100 dtex)
+        - GFK-Rumpf
+        - Aluminium-Rumpf
+    - name: Motoranforderung
+      type: text
+      placeholder: z. B. Standard-Paddel-Ausrüstung, elektrische Pumpe, individuelle Farben
+    - name: Erforderliche Anpassungen
+      type: text
+      placeholder: z. B. individuelle Farben, Marken-/Logoanpassung, Verpackung, spezielle Armaturen
+    - name: Zeitplan
+      type: text
+      placeholder: z. B. Lieferung innerhalb von 90 Tagen
+    - name: Zusätzliche Anforderungen
+      type: textarea
+      placeholder: Beschreiben Sie Ihre Anwendung, technische Spezifikationen oder besondere Anforderungen – fügen Sie, falls verfügbar, Referenzzeichnungen, Spezifikationen oder Links bei
+    - name: Spezifikation hochladen
+      type: file
+      placeholder: Laden Sie Ihr Datenblatt, Ihre Zeichnung oder Ihr Referenzdokument (PDF, DWG, DXF) hoch
+    - name: Logo / Artwork hochladen
+      type: file
+      placeholder: Laden Sie Ihr Logo oder Artwork für individuelles Branding hoch (AI, EPS, PNG)
+cta:
+  title: Lieber per E-Mail besprechen?
+  subtitle: Senden Sie Ihre Anfrage direkt an unser Verkaufsteam. Wir antworten innerhalb von 24 Stunden.
+  actions:
+    - variant: primary
+      text: Senden Sie uns direkt eine E-Mail
+      href: /contact/

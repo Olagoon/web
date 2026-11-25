@@ -1,0 +1,30 @@
+meta:
+  title: 'Bezpečnost — normy a certifikace | {SITE}'
+  description: 'Bezpečnost produktů afarera: nafukovací SUP prkna s certifikací CE, důkladné testy a soulad s mezinárodními nautickými bezpečnostními normami.'
+  keywords:
+    - 'bezpečnostní normy SUP'
+    - 'paddleboard s certifikací CE'
+    - 'bezpečnost nafukovacích SUP'
+    - 'shoda námořní bezpečnosti'
+hero:
+  tagline: Bezpečnost
+  title: Bezpečnostní normy a certifikace
+  subtitle: Každý produkt afarer prochází přísným testováním a splňuje mezinárodní bezpečnostní normy pro rekreační i profesionální použití.
+certifications:
+  - title: CE certifikace
+    description: Veškeré bezpečnostní vybavení afarer splňuje požadavky na označení CE podle evropského nařízení o osobních ochranných prostředcích (EU) 2016/425.
+  - title: Certifikace ISO 12402
+    description: Záchranné vesty splňují normy vztlaku ISO 12402. Vesta Life Vest Classic poskytuje vztlak 50N+; vesta Life Vest Pro díky automatickému nafukování splňuje požadavky SOLAS.
+  - title: Soulad s SOLAS
+    description: Vesta Life Vest Pro splňuje předpisy SOLAS (Safety of Life at Sea) pro offshore a komerční námořní operace.
+related:
+  title: Související
+  links:
+    - text: Průvodce bezpečnostními tipy
+      url: /guides/safety-tips
+    - text: Technologie
+      url: /technology
+    - text: Všechny produkty
+      url: /products
+    - text: Průvodci
+      url: /guides

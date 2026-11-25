@@ -1,0 +1,66 @@
+meta:
+  title: 'Qualitätslabor — Prüfung & Qualitätssicherung | {SITE}'
+  description: 'Unabhängiges Qualitätslabor mit ISO-9001-Prozessen bei afarer: jedes Gerät wird vor dem Versand geprüft, um die Qualität aufblasbarer SUPs zu garantieren.'
+  keywords:
+    - 'SUP-Qualitätskontrolle'
+    - 'Paddleboard-Prüflabor'
+    - 'ISO 9001 SUP-Fabrik'
+    - 'Qualität aufblasbarer SUPs'
+hero:
+  tagline: Qualitätskontrolllabor
+  title: Prüflabor und Qualitätssicherung
+  subtitle: Unabhängiges Qualitätslabor mit ISO-9001-Prozessen — jede Einheit vor dem Versand getestet
+intro: >-
+  Afarer betreibt ein eigenes Qualitätskontrolllabor, das unabhängig von der Produktion arbeitet. Jede Charge Rohmaterial und jedes fertige Board durchläuft vor der Freigabe dokumentierte Inspektionsprotokolle. Unser QC-Team berichtet direkt an das Management, um unparteiische Qualitätsentscheidungen
+  zu gewährleisten.
+highlights:
+  - value: 100%
+    label: Einheiten druckgeprüft
+    detail: Jede Kammer, jedes Board
+  - value: 24–48 Std.
+    label: Dauer des Luftdichtigkeitstests
+    detail: Bei 1,25× Nenndruck
+  - value: <5%
+    label: Maximal zulässiger Druckabfall
+    detail: Haltefrist von 24–48 Stunden
+  - value: AQL 2,5
+    label: Schwelle für wesentliche Mängel
+    detail: Nach ISO 2859 Stichproben
+test_procedures:
+  - title: Rohstoffprüfung
+    description: Jede eingehende Charge von PVC, Drop-Stitch-Gewebe und Beschlägen wird vor der Annahme getestet. Zugfestigkeit (ASTM D751), Reißfestigkeit (ISO 4674) und UV-Beständigkeit werden überprüft. Nicht konforme Materialien werden unter Quarantäne gestellt und zurückgegeben.
+    standards:
+      - ASTM D751 (Zugfestigkeit)
+      - ISO 4674 (reißen)
+      - ISO 4892 (UV)
+  - title: In-Prozess-QC-Punkte
+    description: Produktionsmitarbeiter führen an jeder Stufe eine Selbstkontrolle durch. QC-Prüfer führen stichprobenartige Kontrollen während der gesamten Schicht durch. Schweißabziehprüfungen werden alle 50 Einheiten durchgeführt. Maßkontrollen erfolgen bei jedem 20. Paneel.
+    standards:
+      - ASTM D751 (Abziehen)
+      - Interne 100-Punkte-Checkliste
+      - ISO 2859 Stichprobenprüfung
+  - title: 24–48-Stunden-Luftdichtigkeitstest
+    description: Jede Röhrenkammer wird auf 125 % des Nennluftdrucks aufgeblasen und für 24–48 Stunden gehalten. Drucksensoren protokollieren kontinuierlich mit Temperaturkompensation. Jede Kammer, die einen Druckabfall von mehr als 5 % aufweist, löst eine automatische Nachprüfung des gesamten Loses aus.
+    standards:
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Last- und Balancetests
+    description: Fertige Boards werden bei maximaler Nennkapazität auf Stabilität und Steifigkeit getestet. Jedes Board durchläuft vor der endgültigen Inspektionsfreigabe eine Wassertestung.
+    standards:
+      - ISO 12217
+      - CE 2013/53/EU
+equipment:
+  - name: Universal-Prüfmaschine (Zug)
+    spec: 5 kN, ASTM D751 konform
+  - name: Pressure Decay Tester
+    spec: Mehrkanalig, 0–50 psi, Datenprotokollierung
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1.000 h Zyklen
+  - name: Dickenmessgerät (digital)
+    spec: 0,01 mm Auflösung
+  - name: Peel Tester (weld)
+    spec: Motorisiert, 50 N Kapazität
+  - name: Temperature Chamber
+    spec: '-40 °C bis 100 °C'
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, beleuchtet

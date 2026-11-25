@@ -1,0 +1,35 @@
+meta:
+  title: 'Η μάρκα afarer — ναυτική μηχανική & συνεργασίες | {SITE}'
+  description: 'Η afarer: μηχανικός συνεργάτης για μάρκες θαλάσσιων σπορ, διανομείς, ναυτικούς ομίλους και επιχειρήσεις — co-brand collections, private label και προγράμματα διανομής ανά χώρα.'
+  keywords:
+    - 'μάρκα afarer'
+    - 'κατασκευαστής φουσκωτών σανίδων SUP'
+    - 'Κινέζος κατασκευαστής SUP'
+    - 'συνεργασίες SUP'
+hero:
+  tagline: Επωνυμία
+  title: '{BRAND}'
+  subtitle: Ocean Performance για Κάθε Σέρφερ
+  cta: Γνωρίστε τον εξοπλισμό →
+  cta_link: /products/
+  secondary_cta: Μάθετε σέρφινγκ
+  secondary_cta_link: /guides/
+position:
+  tagline: Θέση
+  subtitle: Ocean Performance για Κάθε Σέρφερ
+products_section:
+  tagline: Προϊόντα
+  cta: Όλα τα προϊόντα →
+  cta_link: /products/
+global_section:
+  tagline: Παγκόσμια
+  title: Διαθέσιμο σε {count} περιοχές
+social_section:
+  tagline: Social media
+  title: Τι διαβάζουν οι σέρφερ
+  read_guide: Διαβάστε τον οδηγό →
+cta_section:
+  title: Ξεκινήστε την ωκεάνια περιπέτειά σας
+  subtitle: Κάθε προϊόν πιστοποιημένο CE. Υπό εγγύηση. Σχεδιασμένο για πραγματικό σέρφινγκ.
+  cta_suffix: →
+  secondary_cta: Σχετικά με {BRAND}

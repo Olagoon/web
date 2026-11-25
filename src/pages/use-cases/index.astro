@@ -1,0 +1,231 @@
+﻿---
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
+import Layout from '~/layouts/PageLayout.astro';
+import JsonLd from '~/components/common/JsonLd.astro';
+import { SITE } from 'astrowind:config';
+import useCasesData from '~/data/site/use-cases.yaml';
+
+interface UseCaseEntry {
+  id: string;
+  title: string;
+  desc: string;
+  image: string;
+}
+
+const d = useCasesData as any;
+const caseSlugMap: Record<string, string> = { family: 'family-recreation', outdoor: 'river-touring' };
+const useCases: UseCaseEntry[] = (d.cases ?? []).map((c: any) => ({
+  id: c.id,
+  title: c.title,
+  desc: c.desc,
+  image: c.image,
+}));
+
+const staticUseCases = [
+  {
+    id: 'touring',
+    title: 'Touring & Distance Paddling',
+    desc: 'Efficient, gear-carrying inflatable SUPs for lakes, coastlines, and multi-day expeditions.',
+    image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp',
+  },
+  {
+    id: 'tourism-recreation',
+    title: 'Tourism & Recreation',
+    desc: 'Stable, easy-to-pack SUPs for holidays, lake days, travel, and paddling with family and friends.',
+    image: 'https://assets.afarer.com/images/afarer/use-cases/afarer-professional-use-case.webp',
+  },
+  {
+    id: 'fishing',
+    title: 'Fishing',
+    desc: 'Stable inflatable SUP boards for recreational and sport fishing in lakes, rivers, and coastal waters.',
+    image: 'https://assets.afarer.com/images/afarer/products/sup-series/sup-tropical-breeze-1-1200w.webp',
+  },
+  {
+    id: 'rescue',
+    title: 'Search & Rescue',
+    desc: 'High-buoyancy, rapid-deployment rescue platforms for professional teams.',
+    image: 'https://assets.afarer.com/images/afarer/use-cases/afarer-professional-use-case.webp',
+  },
+];
+
+const allUseCases = [...useCases, ...staticUseCases];
+
+const metadata = {
+  title: `Use Cases & Applications | ${SITE.name}`,
+  description: `Explore afarer inflatable SUP boards for touring, fishing, family fun, river paddling, and beginner-friendly adventures.`,
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <JsonLd
+    type="BreadcrumbList"
+    data={{
+      itemListElement: [
+        { position: 1, name: 'Home', item: 'https://afarer.com/' },
+        { position: 2, name: 'Use Cases', item: 'https://afarer.com/use-cases/' },
+      ],
+    }}
+  />
+  <JsonLd
+    data={{
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      headline: 'Use Cases & Applications',
+      description: metadata.description,
+      author: { '@type': 'Organization', name: SITE.name },
+    }}
+  />
+  <JsonLd
+    type="FAQPage"
+    data={{
+      mainEntity: [
+        {
+          '@type': 'Question',
+          name: 'Which SUP is best for beginners?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Wide, stable all-around boards are the best starting point. Most beginners are standing and paddling confidently within their first session.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'Can I use one board for touring and fishing?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Yes. Stable touring platforms with gear mounts handle both, though dedicated fishing SUPs add rod holders, extra deck space, and higher weight capacity.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'Are inflatable SUPs good for families?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Absolutely. Modern drop-stitch boards are rigid and durable, and they pack into a backpack — easy to store at home and bring along on weekend trips.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'What should I look for in a river-touring board?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Choose reinforced construction and a shorter all-around shape that maneuvers well in currents, and always wear a leash and buoyancy aid.',
+          },
+        },
+      ],
+    }}
+  />
+
+  <div class="max-w-6xl mx-auto px-6 py-16">
+    <nav class="text-sm text-gray-500 mb-8">
+      <a href="/" class="hover:text-sky-600">{SITE.name}</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900">Use Cases</span>
+    </nav>
+
+    <div class="text-center max-w-3xl mx-auto mb-16">
+      <span class="text-sm font-medium text-sky-600 tracking-wide uppercase">Use Cases</span>
+      <h1 class="mt-4 text-4xl font-bold text-gray-900">Applications & Use Cases</h1>
+      <p class="mt-4 text-lg text-gray-500">
+        From first-time fun to multi-day expeditions — find the right board for how you paddle.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {
+        allUseCases.map((uc) => (
+          <a
+            href={`/use-cases/${caseSlugMap[uc.id] || uc.id}`}
+            class="group bg-white border border-gray-200 rounded-2xl overflow-hidden hover:shadow-lg transition-all hover:-translate-y-0.5 flex flex-col"
+          >
+            <div class="h-44 bg-gray-100 overflow-hidden">
+              <img
+                src={uc.image}
+                alt={uc.title}
+                class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                loading="lazy"
+              />
+            </div>
+            <div class="p-6 flex flex-col flex-1">
+              <h2 class="text-lg font-semibold text-gray-900 group-hover:text-sky-700 transition-colors mb-2">
+                {uc.title}
+              </h2>
+              <p class="text-sm text-gray-500 line-clamp-3 flex-1">{uc.desc}</p>
+              <span class="mt-4 inline-flex items-center gap-1 text-sm font-medium text-sky-600 group-hover:text-sky-700">
+                View use case &rarr;
+              </span>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+
+    <!-- FAQ Section -->
+    <section class="mt-20">
+      <div class="text-center mb-10">
+        <span class="text-sm font-medium text-sky-600 tracking-wide uppercase">FAQs</span>
+        <h2 class="mt-4 text-3xl font-bold text-gray-900">Use Case FAQ</h2>
+        <p class="mt-3 text-gray-500">Common questions about choosing a board for how you paddle.</p>
+      </div>
+      <div class="space-y-4 max-w-3xl mx-auto">
+        <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
+          <summary
+            class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
+          >
+            <span>Which SUP is best for beginners?</span>
+            <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
+          </summary>
+          <div class="px-6 pb-4">
+            <p class="text-gray-600 leading-relaxed">
+              Wide, stable all-around boards are the best starting point. Most beginners are standing and paddling
+              confidently within their first session.
+            </p>
+          </div>
+        </details>
+        <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
+          <summary
+            class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
+          >
+            <span>Can I use one board for touring and fishing?</span>
+            <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
+          </summary>
+          <div class="px-6 pb-4">
+            <p class="text-gray-600 leading-relaxed">
+              Yes. Stable touring platforms with gear mounts handle both, though dedicated fishing SUPs add rod holders,
+              extra deck space, and higher weight capacity.
+            </p>
+          </div>
+        </details>
+        <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
+          <summary
+            class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
+          >
+            <span>Are inflatable SUPs good for families?</span>
+            <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
+          </summary>
+          <div class="px-6 pb-4">
+            <p class="text-gray-600 leading-relaxed">
+              Absolutely. Modern drop-stitch boards are rigid and durable, and they pack into a backpack — easy to store
+              at home and bring along on weekend trips.
+            </p>
+          </div>
+        </details>
+        <details class="bg-white border border-gray-200 rounded-xl overflow-hidden group">
+          <summary
+            class="px-6 py-4 font-semibold text-gray-900 cursor-pointer hover:bg-gray-50 transition-colors list-none flex items-center justify-between"
+          >
+            <span>What should I look for in a river-touring board?</span>
+            <span class="text-gray-400 group-open:rotate-180 transition-transform shrink-0">▼</span>
+          </summary>
+          <div class="px-6 pb-4">
+            <p class="text-gray-600 leading-relaxed">
+              Choose reinforced construction and a shorter all-around shape that maneuvers well in currents, and always
+              wear a leash and buoyancy aid.
+            </p>
+          </div>
+        </details>
+      </div>
+    </section>
+  </div>
+</Layout>

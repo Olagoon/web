@@ -1,0 +1,42 @@
+meta:
+  title: 'Technologia — drop stitch i morski PVC | {SITE}'
+  description: 'Technologie afarera: konstrukcja drop stitch, morski PVC, konstrukcje dwuwarstwowe i wysokie ciśnienie. Innowacje od profesjonalnego producenta nadmuchiwanych desek SUP.'
+  keywords:
+    - 'technologia SUP'
+    - 'konstrukcja drop stitch'
+    - 'SUP wysokociśnieniowy'
+    - 'materiały nadmuchiwanych SUP'
+hero:
+  tagline: Technologia
+  title: Nasza technologia
+  subtitle: Produkty afarer są zaprojektowane z zaawansowanych materiałów i innowacyjnej inżynierii, aby zapewnić wyjątkową wydajność, trwałość i przenośność.
+sections:
+  - title: Rdzeń Drop-Stitch
+    description: Tysiące wewnętrznych nici poliestrowych łączą górną i dolną warstwę, tworząc sztywną strukturę przy 12-15 PSI. To ta sama technologia, która jest używana w profesjonalnych deskach typu paddle oraz dmuchanych wyścigowych SUP-ach.
+    imageAlt: Diagram rdzenia DS
+  - title: PVC klasy morskiej
+    description: Wielowarstwowa laminowana tkanina PVC oceniana do zastosowań morskich. Każda warstwa jest zgrzewana termicznie, a nie klejona, co eliminuje ryzyko rozwarstwienia. Testowana pod kątem odporności na promieniowanie UV, korozję wodą morską i ścieranie.
+    imageAlt: Warstwa PVC
+  - title: PVC klasy wojskowej
+    description: Stosowany we wszystkich modelach SUP, wysokiej jakości PCW zapewnia doskonałą odporność na promieniowanie UV i chemikalia. Zachowuje elastyczność w ekstremalnych temperaturach i opiera się degradacji.
+    imageAlt: PCV
+  - title: Podłoga pokładu powietrznego
+    description: Wysokociśnieniowa konstrukcja dmuchana typu drop-stitch zapewniająca wyjątkową sztywność do stania, wędkowania i jogi. Skraca czas rozkładania, zmniejsza całkowitą wagę i objętość przechowywania.
+    imageAlt: Pokład powietrzny
+related:
+  title: Powiązany
+  links:
+    - text: Centrum Badań i Rozwoju
+      url: /randdcenter
+    - text: Testowanie jakości
+      url: /quality
+    - text: Normy bezpieczeństwa
+      url: /safety
+    - text: Gwarancja
+      url: /warranty
+    - text: Turystyka i rekreacja
+      url: /use-cases/tourism-recreation
+    - text: Przewodniki
+      url: /guides
+    - text: Produkty
+      url: /products

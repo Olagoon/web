@@ -1,0 +1,99 @@
+meta:
+  title: 'Pyydä tarjous — OEM-SUP-valmistus | {SITE}'
+  description: 'Pyydä yksityiskohtainen tarjous täytettävästä SUP-projektistasi. OEM/ODM-valmistus, omamerkki tai räätälöidyt kalustot — vastaamme 2 arkipäivässä.'
+  keywords:
+    - 'pyydä SUP-tarjous'
+    - 'OEM paddle board -tarjous'
+    - 'SUP-tehtaan tarjous'
+    - 'täytettävän SUP:n hinta'
+hero_text:
+  tagline: Pyydä tarjous
+  title: Pyydä tarjous<br />projektiisi
+  subtitle: Kerro meille vaatimuksistasi, niin tiimimme vastaa yksityiskohtaisella tarjouksella 2 työpäivän kuluessa.
+steps2_process:
+  title: Näin se toimii
+  subtitle: Neljä yksinkertaista vaihetta tiedustelusta tarjoukseen.
+  items:
+    - title: 'Vaihe 1: Lähetä vaatimuksesi'
+      description: Täytä alla oleva lomake tuotetyypillä, määrällä ja teknisillä tiedoilla. Mitä enemmän yksityiskohtia annat, sitä tarkempi tarjouksesi on.
+      icon: tabler:file-text
+    - title: 'Vaihe 2: Arvioimme ja neuvomme'
+      description: Insinööritiimimme tarkastelee vaatimuksiasi ja voi ottaa sinuun yhteyttä selvennystä varten. Annamme suosituksia tuotteen kokoonpanosta ja vaihtoehdoista.
+      icon: tabler:users
+    - title: 'Vaihe 3: Saada tarjous'
+      description: Saat yksityiskohtaisen tarjouksen, joka sisältää yksikköhinnan, MOQ:n, toimitusajan, maksuehdot ja toimitusvaihtoehdot. Tyypillisesti 48 tunnin kuluessa.
+      icon: tabler:currency-dollar
+    - title: 'Vaihe 4: Otos ja tuotanto'
+      description: Tarjouksen hyväksymisen jälkeen siirrymme näytevalmistukseen (jos sovellettavissa) tai suoraan massatuotantoon. Säännöllisiä päivityksiä koko prosessin ajan.
+      icon: tabler:building-factory
+content_form:
+  tagline: Tarjouslomake
+  title: Kerro meille projektistasi
+  subtitle: Kaikki *-merkityt kentät ovat pakollisia.
+  contact_fields:
+    firstName: Etunimi
+    lastName: Sukunimi
+    companyName: Yrityksen nimi
+    email: Sähköposti
+  fields:
+    - name: Tuotekategoria
+      type: select
+      options:
+        - SUP-lauta
+        - Ilmatäytteinen SUP
+        - Ilmatäytteinen SUP-lauta
+        - Pelastusliivi
+        - Meritarvike
+        - Räätälöity OEM/ODM
+    - name: Käyttötarkoitus
+      type: select
+      options:
+        - Sukelluskeskus
+        - Kalastus
+        - Merimatkailu / lomakohteet
+        - Etsintä ja pelastus
+        - Julkinen hallinto / Puolustusvoimat
+        - OEM / Omamerkki
+        - Henkilökohtainen / virkistyskäyttö
+        - Muu
+    - name: Määrä
+      type: text
+      placeholder: esim. 50 kpl
+    - name: Kohdemarkkina
+      type: text
+      placeholder: esim. Eurooppa, Pohjois-Amerikka, Lähi-itä
+    - name: Toimitusmaa
+      type: text
+      placeholder: esim. Italia, UAE, USA, Australia
+    - name: Materiaalitoive
+      type: select
+      options:
+        - Ei suositusta
+        - Meriluokan PVC (1100 dtex)
+        - Lasikuidurunko
+        - Alumiinirunko
+    - name: Moottorivaatimus
+      type: text
+      placeholder: esim. perusmelasarja, sähköpumppu, mukautetut värit
+    - name: Vaadittu räätälöinti
+      type: text
+      placeholder: esim. mukautetut värit, brändäys/logo, pakkaus, erikoisvarusteet
+    - name: Toimitusaika
+      type: text
+      placeholder: esim. toimitus 90 päivän sisällä
+    - name: Lisävaatimukset
+      type: textarea
+      placeholder: Kuvaile käyttötarkoituksesi, tekniset vaatimukset tai erityisvaatimukset — liitä mukaan viitepiirustukset, erittelyt tai linkit, jos saatavilla
+    - name: Lataa tekniset tiedot
+      type: file
+      placeholder: Lataa tekniset tiedot, piirustus tai referenssidokumentti (PDF, DWG, DXF)
+    - name: Lataa logo / kuva-aineisto
+      type: file
+      placeholder: Lataa logosi tai kuva-aineistosi räätälöityä brändäystä varten (AI, EPS, PNG)
+cta:
+  title: Haluatko mieluummin keskustella sähköpostitse?
+  subtitle: Lähetä kysely suoraan myyntitiimimme, ja vastaamme 24 tunnin kuluessa.
+  actions:
+    - variant: primary
+      text: Lähetä meille suoraan sähköpostia
+      href: /contact/

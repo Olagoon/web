@@ -1,0 +1,104 @@
+meta:
+  title: Paddleboards Gonflables Afarer | Allez plus loin. Ridez plus fort.
+  description: Découvrez les paddleboards gonflables Afarer pour le paddle polyvalent, le touring, le yoga, la pêche et les aventures en plein air. Trouvez le SUP parfait et explorez davantage sur l’eau.
+  keywords:
+    - paddleboard gonflable
+    - sup gonflable
+    - sup polyvalent
+    - sup touring
+    - sup yoga
+    - sup pêche
+    - paddleboard familial
+    - paddleboard portable
+hero:
+  tagline: Paddleboards Gonflables
+  title: Des Paddleboards Gonflables pour Chaque Aventure
+  slogan: Allez plus loin. Ridez plus fort.
+  subtitle: Découvrez la liberté du paddle avec Afarer. Explorez des SUP gonflables pensés dans les moindres détails pour des journées détente au lac, des aventures côtières, le fitness et bien plus encore.
+  taglineSection: Conçu pour inspirer confiance. Pensé pour se distinguer.
+  actions:
+    - variant: primary
+      text: Trouvez Votre Planche
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Explorer les SUP
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Pourquoi Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Paddleboards gonflables Afarer glissant sur une eau calme au lever du soleil — conçus pour chaque aventure
+who_we_serve:
+  tagline: Roulez Avec Nous
+  title: Trouvez Votre Voie sur l’Eau
+  subtitle: Chaque paddleur a sa propre idée de l’aventure. Découvrez un SUP Afarer conçu pour votre façon de rider.
+  items:
+    - title: Débutants & Paddleurs de Loisir
+      keywords: SUP gonflable débutant, paddleboard polyvalent, SUP stable
+      description: Des planches polyvalentes larges et stables qui rendent votre premier coup de pagaie naturel et vous suivent dans votre progression.
+      icon: tabler:users
+      cta: Trouvez Votre Première Planche
+      link: /all-around-sup/
+    - title: Touring & Aventure
+      keywords: SUP touring, paddleboard longue distance, SUP expédition
+      description: Des planches plus longues et plus étroites conçues pour garder le cap, glisser plus loin et embarquer du matériel sur plusieurs jours.
+      icon: tabler:building
+      cta: Explorer les SUP de Touring
+      link: /touring-sup/
+    - title: Yoga & Fitness
+      keywords: SUP yoga, paddleboard fitness, SUP large et stable
+      description: Des plateformes larges et stables avec de l’espace pour bouger — pour vos flows au lever du soleil, vos entraînements et votre équilibre en eau calme.
+      icon: tabler:heart
+      cta: Explorer le SUP Yoga
+      link: /yoga-sup/
+    - title: Pêche & Famille
+      keywords: SUP pêche, paddleboard familial, plateforme de pêche stable
+      description: Des plateformes stables et pratiques pour pêcher, naviguer en famille et profiter de longues journées détente sur l’eau.
+      icon: tabler:users
+      cta: Explorer le SUP Pêche
+      link: /fishing-sup/
+proof_points:
+  title: Testé au-delà du showroom
+  subtitle: Design, performance et qualité vérifiables — sur l’eau comme dans les chiffres.
+  items:
+    - metric: 10+
+      label: Années de conception pour l’eau
+      detail: Depuis 2012, affiné planche par planche
+    - metric: 50+
+      label: Pays sur l’eau
+      detail: Paddleurs et partenaires du monde entier
+    - metric: 12–15
+      label: Noyau drop-stitch en PSI
+      detail: Rigide là où il faut, facile à ranger
+    - metric: 100%
+      label: Testé en pression, planche par planche
+      detail: Contrôlé avant expédition
+business_solutions:
+  tagline: Pourquoi Ça Ride Différemment
+  title: Des Performances Ressenties dès le Premier Coup de Pagaie
+  subtitle: Quatre piliers façonnés par l’eau réelle — performance, design, construction et qualité.
+  items:
+    - title: Performance sur l’Eau
+      description: Des formes ajustées pour la stabilité, la glisse et la confiance dans le clapot — chaque coup de pagaie reste connecté à l’eau.
+      icon: tabler:shield-check
+    - title: Design Expressif
+      description: Des collections inspirées des marées, de la faune et de l’énergie du rivage — des planches que l’on veut montrer.
+      icon: tabler:package
+    - title: Construction Éprouvée
+      description: Noyaux drop-stitch haute densité, rails renforcés et coutures laminées par fusion, conçus pour un usage répété.
+      icon: tabler:headset
+    - title: Qualité Vérifiée
+      description: Testées en pression, inspectées visuellement et couvertes par une garantie claire et un service après-vente réactif.
+      icon: tabler:truck-delivery
+cta:
+  title: Trouvez votre prochaine planche.
+  subtitle: Que vous donniez votre premier coup de pagaie ou que vous visiez votre plus longue distance — nous vous mettrons sur l’eau.
+  actions:
+    - variant: primary
+      text: Explorer la Collection
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Demander le Catalogue
+      href: /resources/download-catalog/

@@ -1,0 +1,42 @@
+meta:
+  title: 'Technologie — Drop-Stitch & Marine-PVC | {SITE}'
+  description: 'afarer-Technologien: Drop-Stitch-Konstruktion, Marine-PVC, Doppellagen-Builds und hoher Druck. Innovation eines professionellen Herstellers aufblasbarer SUPs.'
+  keywords:
+    - 'SUP-Technologie'
+    - 'Drop-Stitch-Konstruktion'
+    - 'Hochdruck-SUP'
+    - 'Materialien aufblasbarer SUPs'
+hero:
+  tagline: Technologie
+  title: Unsere Technologie
+  subtitle: afarer-Produkte werden mit fortschrittlichen Materialien und innovativer Technik entwickelt, um außergewöhnliche Leistung, Haltbarkeit und Tragbarkeit zu bieten.
+sections:
+  - title: Drop-Stitch-Kern
+    description: Tausende von internen Polyesterfäden verbinden die oberen und unteren Schichten und schaffen bei 12-15 PSI eine starre Struktur. Dies ist die gleiche Technologie, die bei professionellen Paddleboards und aufblasbaren Renn-SUPs verwendet wird.
+    imageAlt: DS-Kerndiagramm
+  - title: Marine-PVC
+    description: Mehrschichtiges, laminiertes PVC-Gewebe, bewertet für marine Umgebungen. Jede Schicht ist verschweißt statt verklebt, wodurch Delaminationsrisiken ausgeschlossen werden. Auf UV-Beständigkeit, Salzwasserkorrosion und Abrieb getestet.
+    imageAlt: PVC-Schicht
+  - title: Militärisches PVC
+    description: Auf allen SUP-Modellen verwendet, bietet hochwertiges PVC überlegenen UV- und Chemikalienwiderstand. Es behält seine Flexibilität bei extremen Temperaturen und widersteht der Zersetzung.
+    imageAlt: PVC
+  - title: Luftdeckboden
+    description: Hochdruck-Innenschlauch-Drop-Stitch-Konstruktion, die außergewöhnliche Steifigkeit für Stehen, Angeln und Yoga bietet. Reduziert die Aufbauzeit, das Gesamtgewicht und das Lagerungsvolumen.
+    imageAlt: Luftdeck
+related:
+  title: Verwandt
+  links:
+    - text: Forschungs- und Entwicklungszentrum
+      url: /randdcenter
+    - text: Qualitätstest
+      url: /quality
+    - text: Sicherheitsstandards
+      url: /safety
+    - text: Garantie
+      url: /warranty
+    - text: Tourismus & Freizeit
+      url: /use-cases/tourism-recreation
+    - text: Anleitungen
+      url: /guides
+    - text: Produkte
+      url: /products

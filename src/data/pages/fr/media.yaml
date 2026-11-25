@@ -1,0 +1,61 @@
+meta:
+  title: 'Centre Média — Presse & Ressources afarer | {SITE}'
+  description: 'Centre média afarer : communiqués, photos de presse, logos et ressources pour journalistes de notre entreprise de fabrication de SUP gonflables.'
+  keywords:
+    - 'centre média afarer'
+    - 'presse paddle'
+    - 'communiqués SUP'
+    - 'photos paddle gonflable'
+hero:
+  tagline: Ressources
+  title: Centre Média
+  subtitle: Télécharger les actifs de marque, images produits, catalogues et vidéos
+sections:
+  - id: product-images
+    title: Images Produits
+    desc: Photos produit haute résolution pour le web, l'impression et la vente au détail.
+    items:
+      - Galerie de Planches SUP
+      - Galerie SUP Drop-Stitch
+      - Galerie des SUP Gonflables
+      - Accessoires et Équipements de Sécurité
+  - id: logo-brand-kit
+    title: Kit Logo et Marque
+    desc: Fichiers logo afarer officiels, palette de couleurs, typographie et charte graphique.
+    items:
+      - Logo Principal (PNG/SVG/EPS)
+      - Icon Mark
+      - Palette de Couleurs
+      - Spécifications Typographiques
+      - PDF des Directives de Marque
+  - id: catalogs
+    title: Catalogues PDF
+    desc: Catalogues produits, fiches techniques et documentation technique à télécharger.
+    items:
+      - Catalogue Produits 2026
+      - Fiche de Capacité OEM/ODM
+      - Brochure Série SUP
+      - Spécifications techniques
+  - id: videos
+    title: Vidéos
+    desc: Démos produits, visites d’usine, films de marque et témoignages clients.
+    items:
+      - Démo Produits
+      - Visite de l'Usine
+      - Brand Film
+      - Histoires de Clients
+      - Guides Pratiques
+request_access: Demander l'accès →
+cta:
+  title: Besoin d'aide pour trouver des ressources ?
+  desc: Contactez notre équipe marque pour les demandes d'actifs, partenariats médias ou presse.
+  links:
+    - label: Visit our factory
+      href: /factory/
+      desc: Voir notre installation de fabrication de 12 000 m²
+    - label: Brand guidelines
+      href: /brand/
+      desc: Découvrir la marque afarer
+    - label: Partner with us
+      href: /contact/
+      desc: Demandes OEM, ODM et distribution

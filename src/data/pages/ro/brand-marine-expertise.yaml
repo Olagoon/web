@@ -1,0 +1,72 @@
+meta:
+  title: 'Expertiză maritimă — inginerie în fiecare cocă | {SITE}'
+  description: 'Decenii de inginerie marină în fiecare cocă. afarer stăpânește construcția drop stitch, PVC-ul de calitate marină și proiectarea profesională a plăcilor SUP gonflabile.'
+  keywords:
+    - 'inginerie marină'
+    - 'producător plăci de SUP gonflabile'
+    - 'producție paddle board'
+hero:
+  tagline: Expertiză maritimă
+  title: Decenii de inginerie marină<br />în fiecare carenă
+  subtitle: afarer combină știința avansată a materialelor, producția de precizie și testarea în condiții reale pentru a produce plăci care performează atunci când contează.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: Echipa afarer de inginerie marină și R&D la lucru
+expertise_materials:
+  tagline: Știința Materialelor
+  title: Alegerea materialului potrivit<br />pentru fiecare aplicație
+  subtitle: Lucrăm cu două materiale de bază — fiecare selectat pentru cazuri de utilizare specifice și cerințe de performanță.
+  columns: 3
+  items:
+    - title: PVC de calitate marină
+      description: Pânză PVC 1100 denier — materialul nostru cel mai versatil. Stabilizat UV, rezistent la abraziune și conform REACH. Ideal pentru plăci SUP unde contează greutatea și eficiența costurilor.
+      icon: tabler:droplet
+    - title: Fibră de sticlă și polietilenă
+      description: SUP-uri laminate cu fibră de sticlă pentru rigiditate și alunecare premium. Polietilenă rotomuldată pentru utilizare intensivă de închiriere și salvare, care necesită rezistență maximă la impact.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Capabilități de producție
+  title: Producție de precizie<br />la fiecare pas
+  subtitle: Instalația noastră de 12.000 m² este echipată cu utilaje specializate pentru fiecare etapă de producție.
+  columns: 2
+  items:
+    - title: Tăiere CNC
+      description: Tăierea controlată de calculator asigură panouri de țesătură precise, repetabile, cu deșeuri minime. Fiecare piesă se potrivește exact cum a fost proiectată.
+      icon: tabler:cpu
+    - title: Sudarea de înaltă frecvență
+      description: Sudarea industrială HF creează cusături mai rezistente decât materialul de bază. Controlul constant al temperaturii și presiunii asigură etanșeizare ermetică în fiecare serie de producție.
+      icon: tabler:bolt
+    - title: Ansamblul miezului drop-stitch
+      description: Mii de fire de poliester conectează straturile superioare și inferioare de țesătură, permițând umflarea la presiune înaltă (15-20 PSI) pentru plăci SUP rigide și stabile.
+      icon: tabler:building-arch
+    - title: Testare sub presiune
+      description: Fiecare produs inflabil este testat la presiune înainte de expediere. Plăcile sunt testate la 1,25x presiunea nominală — dacă rezistă acolo, va performa pe apă.
+      icon: tabler:wind
+    - title: Testarea rezistenței cusăturilor
+      description: Probele aleatorii din fiecare lot de producție sunt supuse testării distructive a rezistenței cusăturilor. Rezultatele sunt înregistrate și trasabile la serii specifice de producție.
+      icon: tabler:files
+    - title: Testare pe apă
+      description: Fiecare model SUP este supus probelor pe mare înainte de certificare. Testarea în condiții reale de coastă validează performanța, manevrabilitatea și stabilitatea.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Design și inginerie
+  title: Proiectat pentru condiții reale
+  subtitle: Filosofia noastră de proiectare începe cu modul în care placa va fi utilizată — apoi construiește ingineria în jurul acestui caz de utilizare.
+  items:
+    - title: Proiectarea cocii pentru performanță
+      description: Fiecare formă de cocă este reglată pentru cazul său de utilizare — nose-uri de deplasare pentru alunecare în touring, rocker accentuat pentru agilitate în surf, profiluri plate și stabile pentru pescuit și yoga.
+    - title: Siguranță drop-stitch
+      description: Fiecare placă are un miez rigid drop-stitch cu borduri ranforsate. Dacă o secțiune este avariată, structura drop-stitch de înaltă rezistență la tracțiune menține placa funcțională.
+    - title: Amplasare ergonomică a punții
+      description: Zonarea pad-ului punții, poziția mânerului de transport și punctele de montaj sunt concepute în jurul confortului riderului în utilizare prelungită — fie în touring, pescuit sau patrulare.
+    - title: Configurație personalizată
+      description: Culorile bordurilor, configurația pad-ului punții, suporturile pentru accesorii, capacitatea de echipament — fiecare model poate fi personalizat pentru a răspunde cerințelor operaționale specifice.
+cta:
+  title: Aveți în vedere o aplicație specifică?
+  subtitle: Echipa noastră de inginerie vă poate consilia cu privire la selecția materialelor, proiectare și fabricație pentru proiectul dvs.
+  actions:
+    - variant: primary
+      text: Întrebați-i pe inginerii noștri
+      href: /contact/
+    - text: Vedeți gama de produse
+      href: /products/

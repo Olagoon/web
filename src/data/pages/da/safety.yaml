@@ -1,0 +1,30 @@
+meta:
+  title: 'Sikkerhed — standarder & certificeringer | {SITE}'
+  description: 'afarers produktsikkerhed: CE-certificerede oppustelige SUP-brædder, grundige tests og overholdelse af internationale nautiske sikkerhedsstandarder.'
+  keywords:
+    - 'SUP sikkerhedsstandarder'
+    - 'CE-certificeret paddle board'
+    - 'oppustelig SUP sikkerhed'
+    - 'nautisk sikkerhedsoverholdelse'
+hero:
+  tagline: Sikkerhed
+  title: Sikkerhedsstandarder og certificering
+  subtitle: Alle afarer produkter gennemgår streng testning og opfylder internationale sikkerhedsstandarder til fritids- og professionelt brug.
+certifications:
+  - title: CE-certificering
+    description: Alt afarer sikkerhedsudstyr overholder CE-mærkningskravene under EU-forordningen om personlige værnemidler (EU) 2016/425.
+  - title: ISO 12402-certificering
+    description: Redningsveste opfylder ISO 12402 flydestandarder. Life Vest Classic giver 50N+ opdrift; Life Vest Pro opfylder SOLAS-krav med automatisk oppustning.
+  - title: SOLAS-overholdelse
+    description: Life Vest Pro overholder SOLAS-regler for offshore og kommerciel maritim drift.
+related:
+  title: Relateret
+  links:
+    - text: Sikkerhedstips guide
+      url: /guides/safety-tips
+    - text: Teknologi
+      url: /technology
+    - text: Alle produkter
+      url: /products
+    - text: Guides
+      url: /guides

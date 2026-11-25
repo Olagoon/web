@@ -1,0 +1,180 @@
+meta:
+  title: 'Güven — Kalite, standartlar ve itibar | {SITE}'
+  description: "Neden afarer'a güvenmelisiniz: CE ve ISO sertifikaları, entegre fabrika, küresel referanslar ve garanti. Profesyonel bir şişme SUP tahtası üreticisi."
+  keywords:
+    - 'güvenilir SUP üreticisi'
+    - 'sertifikalı paddle board fabrikası'
+    - 'güvenilir SUP tedarikçisi'
+    - 'sertifikalı SUP fabrikası'
+hero:
+  tagline: Önemli standartlara göre üretilmiştir
+  title: afarer'a Güvenin
+  subtitle: |
+    Ürettiğimiz her ürün CE sertifikalıdır — güvenlik, dayanıklılık<br />
+    ve performans açısından test edilmiştir. Kısayol yok. İstisna yok.
+  taglineSection: Sertifikalı. Test edilmiş. Kanıtlanmış.
+  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+  imageAlt: afarer ürünü kalite testinden geçiyor
+stats:
+  title: afarer rakamlarla
+  stats:
+    - title: CE Sertifikalı
+      description: Tüm rekreasyonel ürünler AB güvenlik standartlarını karşılar
+    - title: ISO 9001:2015
+      description: 2012'den beri kalite yönetim sistemi
+    - title: BSCI ve REACH
+      description: Etik üretim ve malzeme uyumluluğu
+    - title: 3 Yıl Garanti
+      description: Her afarer ürününde — soru sorulmaz
+features3_certifications:
+  title: Sertifikalar ve Uyumluluk
+  subtitle: Her ürün bağımsız olarak test edilir ve uluslararası standartlara göre sertifikalandırılır.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: CE Sertifikası
+      description: Tüm afarer SUPlar, rekreasyonel kullanım için Avrupa CE güvenlik standardını karşılar. Her ürün, fabrikadan çıkmadan önce basınç, yüzdürme ve yük testinden geçer.
+      icon: tabler:certificate
+    - title: ISO 9001:2015
+      description: 12.000 m²'lik Qingdao tesisimiz bir ISO 9001 kalite yönetim sistemi altında çalışır. Her üretim partisi izlenebilir, belgelenmiş ve denetlenmiştir.
+      icon: tabler:clipboard-check
+    - title: BSCI Sosyal Uyum
+      description: BSCI sertifikalıyız, etik iş uygulamaları, güvenli çalışma koşulları ve tedarik zincirimiz genelinde çevresel sorumluluk sağlarız.
+      icon: tabler:users
+    - title: REACH ve RoHS
+      description: Tüm malzemeler — PVC, EVA köpük, yapıştırıcılar — AB REACH ve RoHS düzenlemelerine uygundur. Kısıtlı madde yok, taviz yok.
+      icon: tabler:flask
+    - title: Malzeme Test Laboratuvarı
+      description: Dahili malzeme laboratuvarı, üretimden önce her kumaş partisi için çekme mukavemeti, UV direnci, dikiş bütünlüğü ve aşınma testi yapar.
+      icon: tabler:microscope
+    - title: 3 Yıl Garanti
+      description: Her afarer ürünü, üretim kusurlarına karşı üç yıl garantilidir. Ürettiğimizin arkasında duruyoruz.
+      icon: tabler:shield-check
+testimonials:
+  tagline: Müşteri Güveni
+  title: Müşterilerimiz ne diyor
+  subtitle: İlk kez kürek çekenlerden profesyonel filo operatörlerine — neden afarer'a güvendiklerini görün.
+  items:
+    - content: Tüm kiralama filomuzu afarer SUP'leri ile donattık. İki sezon, sıfır arıza. CE sertifikası sigorta onayını sorunsuz hale getirdi.
+      name: Marco V.
+      title: Tur operatörü, Hırvatistan
+    - content: İlk kez alıcı olarak kalite konusunda endişeliydim. Paylaştıkları ISO belgeleri ve test raporları bana tam güven verdi.
+      name: James T.
+      title: SUP Explorer 11 sahibi, Kanada
+    - content: Kıyı devriye birimlerimiz için afarer ile çalışıyoruz. Kalite kontrol süreçleri her partide tutarlı — bu güvenilirlik kritik görev operasyonlarında önemlidir.
+      name: Binbaşı Andres
+      title: Donanma tedarik, Filipinler
+steps2_manufacturing:
+  title: Kaliteyi nasıl sağlıyoruz
+  subtitle: Hammadde denetiminden son basınç testine kadar — her ürün titiz bir kalite zincirinden geçer.
+  items:
+    - title: Hammadde Denetimi
+      description: Her PVC kumaş rulosu, üretime girmeden önce kalınlık, çekme mukavemeti ve UV direnci açısından test edilir.
+      icon: tabler:search
+    - title: Süreç İçi KK
+      description: Kaynak dikişleri, valf montajları ve oda bağlantıları, montaj sırasında her istasyonda denetlenir.
+      icon: tabler:eye
+    - title: Basınç Testi
+      description: Her şişme ürün, nominal PSI'nin 1,25 katına şişirilir ve hava tutma ve dikiş bütünlüğünü doğrulamak için 24–48 saat bekletilir.
+      icon: tabler:wind
+    - title: Son Denetim
+      description: Her birim, sevkiyata onaylanmadan önce kaplama, donanım ve paketleme açısından denetlenir. Parti numuneleri, tahribatlı test için laboratuvarımıza gider.
+      icon: tabler:clipboard-check
+factory_audit:
+  title: Fabrika Denetimi ve Sosyal Uyumluluk
+  subtitle: 12.000 m² Qingdao tesisimiz üçüncü taraf denetimlerine açıktır. BSCI sosyal uyumluluk sertifikamızı koruyoruz ve müşteri denetimlerine açığız.
+  stats:
+    - value: 12.000 m²
+      label: Üretim Tesisi
+    - value: 200+
+      label: Nitelikli İşçiler
+    - value: 15.000+
+      label: Yıllık Ünite Kapasitesi
+    - value: BSCI
+      label: Sosyal Uyumluluk
+  highlights:
+    - title: BSCI Sertifikalı
+      desc: amfori BSCI sosyal uyumluluk sertifikası — etik çalışma, güvenli koşullar, çevresel sorumluluk.
+      link: /certifications/
+    - title: Muayeneye Açık
+      desc: Müşteri fabrika denetimlerine açığız. Qingdao üretim hatlarımızı ziyaret etmek veya sanal tur ayarlamak için bizimle iletişime geçin.
+      link: /factory/
+    - title: Tam İzlenebilirlik
+      desc: Her üretim partisi belgelenir ve izlenebilir — ham mal parti numaralarından son QC onayına kadar.
+    - title: ISO 9001:2015
+      desc: SGS tarafından sertifikalı kalite yönetim sistemi. Süreçlerimiz uluslararası üretim standartlarını karşılamaktadır.
+      link: /certifications/
+warranty_section:
+  title: Garanti ve Satış Sonrası Destek
+  subtitle: Her ürünün arkasında net garanti koşulları, hızlı talep işleme ve orijinal yedek parçalarla duruyoruz.
+  items:
+    - title: 3 Yıl Ürün Garantisi
+      desc: Tüm afarer ürünleri üretim hatalarına karşı 3 yıl garantiye sahiptir — dikiş hataları, vana kusurları ve normal kullanım altında malzeme tabaklanmaları.
+    - title: Ömür Boyu Yedek Parça Desteği
+      desc: Tüm modeller için mevcut orijinal yedek parçalar — valfler, onarım kitleri, yüzgeçler, D-halkaları — Üretim sona erdikten sonra kalıpları ve aparatları minimum 5 yıl boyunca muhafaza ediyoruz.
+    - title: 48 Saatlik Talep Yanıtı
+      desc: Garanti talepleri 48 saat içinde kabul edilir. Onaylanan talepler için yedek tahtalar 10 iş günü içinde sevk edilir.
+    - title: Küresel Onarım Ağı
+      desc: 15+ ülkede yetkili servis merkezleri. Uzak operasyonlar için saha tamir kitleri mevcut. Küçük hasarlar için kendi kendine tamir rehberleri.
+    - title: OEM Müşteri Desteği
+      desc: B2B partnerler için özel hesap yöneticileri. Üç aylık iş değerlendirmeleri, envanter planlama ve ortak markalı pazarlama desteği.
+    - title: Sertifikasyon Paketi
+      desc: Her sevkiyat ile birlikte tam uyumluluk belgeleri sunulmaktadır — CE Beyanı, test raporları, malzeme güvenlik bilgi formu.
+      link: /contact/
+trust_resources:
+  title: Güvenilir Kaynaklar
+  subtitle: Sertifikasyon portföyümüzü, QC raporlarımızı ve uyumluluk belgelerimizi indirin.
+  items:
+    - title: Sertifikasyon Portföyü
+      desc: CE, ISO 9001, BSCI, REACH, RoHS, AS 1799 sertifikaları tek pakette.
+    - title: Kalite Kontrol Test Standartları Raporu
+      desc: 24–48 saatlik basınç tutma testleri, ISO'ya göre UV yaşlandırma, çekme gücü doğrulama — tam metodoloji.
+    - title: Fabrika Profili ve Denetim Raporu
+      desc: 12.000 m² tesisin genel bağlışı, üretim hatı fotoğrafları ve üçüncü taraf denetim özeti.
+    - title: Garanti Politikası Belgesi
+      desc: Tam garanti koşulları, talep süreci ve yedek parça fiyatlandırması.
+  cta_text: Güven Kaynaklarını İsteyin
+  cta_link: /contact/
+faqs_sup:
+  title: SUP Board SSS
+  subtitle: Stand-up paddle boardlarımız hakkında sık sorulan sorular.
+  columns: 2
+  items:
+    - title: Hangi SUP board boyutları mevcuttur?
+      description: 9 ft'ten 12 ft'ye kadar SUP boardları sunuyoruz; çok yönlü, tur, yoga ve özel tasarımlar dahil. En çok satan modellerimiz Tropical Breeze (10 ft) ve Ocean Voyager'dır (11 ft).
+    - title: Drop-stitch yapısı nedir?
+      description: Drop-stitch yapısı, board'un üst ve alt katmanlarını birbirine bağlayan binlerce polyester iplik kullanır ve yüksek hava basıncını (15–20 PSI) tutmasını ve sert, stabil bir platform elde etmesini sağlar. Bu, premium şişme SUPlar için endüstri standardıdır.
+    - title: SUP boardlar için ağırlık sınırı nedir?
+      description: SUP boardlarımız, modele ve hacme bağlı olarak 150 kg'a kadar destekler. Leviathan Wake board'umuz, daha büyük sürücüler ve yoga kullanımı için tasarlanmış en yüksek kapasiteli modelimizdir.
+    - title: Komple SUP paketleri sunuyor musunuz?
+      description: Evet. Her SUP board, 3 parçalı alüminyum pala, yüksek basınçlı el pompası, bobin tasma, seyahat sırt çantası ve onarım kiti dahil komple bir paketle gönderilir. Bazı modeller ayrıca çıkarılabilir bir kanat seti içerir.
+    - title: SUP boardlarda garanti nedir?
+      description: Tüm afarer SUP boardları, normal kullanım altında dikiş hatası, valf kusurları ve malzeme delaminasyonu dahil olmak üzere üretim kusurlarına karşı üç yıllık garantiye sahiptir.
+    - title: Bir SUP board'u şişirmek ne kadar sürer?
+      description: Verilen el pompasını kullanarak, 15 PSI'a tam şişirme yaklaşık 8–12 dakika sürer. Daha hızlı şişirme için, bir board'u 4 dakikadan kısa sürede şişiren afarer 12V elektrikli pompamızı öneririz.
+faqs_materials:
+  title: SUP Malzeme ve Bakım SSS
+  subtitle: Şişilebilir SUP malzemelerimiz, bakımı ve depolaması hakkında sıkça sorulan sorular.
+  columns: 2
+  items:
+    - title: afarer şişirilebilir SUP'larında hangi malzemeler kullanılmaktadır?
+      description: AB REACH ve RoHS düzenlemelerine uygun, UV dayanımlı, aşınmaya karşı dayanıklı askeri sınıf PVC (1100 denier) kullanıyoruz.
+    - title: Şişirilebilir SUP'lar ne kadar dayanır?
+      description: Düzgün bakıldığında, kaliteli bir PVC şişirilebilir SUP 5–10 yıl dayanır. Düzenli temizleme, UV koruması ve uygun depolama ömrü önemli ölçüde uzatır.
+    - title: Bir şişirilebilir SUP için hangi bakım gereklidir?
+      description: Temel bakım, her kullanımdan sonra tatlı su ile durulamayı (özellikle tuzlu suda), depolamadan önce kurutmayı, valf contalarını yıllık olarak kontrol etmeyi ve kullanılmadığında uzun süreli güneş maruziyetinden kaçınmayı içerir.
+    - title: Şişirilebilir SUP'ler tuzlu suda kullanılabilir mi?
+      description: Evet. Tüm afarer şişirilebilir SUP'ları hem tatlı hem de tuzlu su kullanımı için tasarlanmıştır. Tuzlu suya maruz kaldıktan sonra tatlı su ile durulamanızı ve tamamen kurutmanızı öneririz.
+    - title: Bir şişirilebilir SUP nasıl saklanır?
+      description: Depolamadan önce tahtayı tam olarak havalandırın, temizleyin ve kurulayın. gevşekçe sarın (sık kıvrımlardan kaçının), serin ve kuru bir yerde doğrudan güneş ışığından uzakta saklayın ve nem emilimini önlemek için beton zeminlerden uzak tutun.
+    - title: afarer şişirilebilir SUP'ların ağırlık kapasitesi nedir?
+      description: Kapasiteler en küçük modellerimiz için 100 kg'dan daha büyük boardlar için 200 kg'ın üzerine kadar değişmektedir. Her ürün sayfası belirli modeliniz için maksimum yük değerini listeler.
+cta:
+  title: Sertifikaları kendiniz görmek ister misiniz?
+  subtitle: Sertifika portföyümüzü, fabrika denetim raporlarımızı veya malzeme uyumluluk belgelerimizi talep edin. Gizlilik sözleşmesi gerekmez.
+  actions:
+    - variant: primary
+      text: Sertifika belgelerini talep edin
+      href: /contact/
+    - text: Fabrika sayfamızı ziyaret edin
+      href: /factory/

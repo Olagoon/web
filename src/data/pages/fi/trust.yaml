@@ -1,0 +1,180 @@
+meta:
+  title: 'Luottamus — laatu, standardit ja maine | {SITE}'
+  description: 'Miksi afareriin voi luottaa: CE- ja ISO-sertifioinnit, integroitu tehdas, globaalit referenssit ja takuu. Ammattimainen täytettävien SUP-lautojen valmistaja.'
+  keywords:
+    - 'luotettava SUP-valmistaja'
+    - 'sertifioitu paddle board -tehdas'
+    - 'luotettava SUP-toimittaja'
+    - 'sertifioitu SUP-tehdas'
+hero:
+  tagline: Rakennettu standardeihin, joilla on merkitystä
+  title: Luota afareriin
+  subtitle: |
+    Jokainen rakentamamme tuote on CE-sertifioitu — testattu turvallisuuden,<br />
+    kestävyyden ja suorituskyvyn suhteen. Ei oikoteitä. Ei poikkeuksia.
+  taglineSection: Sertifioitu. Testattu. Todistettu.
+  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+  imageAlt: afarer-tuote läpikäymässä laadun testausta
+stats:
+  title: afarer numeroina
+  stats:
+    - title: CE-sertifioitu
+      description: Kaikki vapaa-ajan tuotteet täyttävät EU:n turvallisuusstandardit
+    - title: ISO 9001
+      description: Laadunhallintajärjestelmä vuodesta 2012
+    - title: BSCI & REACH
+      description: Eettinen valmistus ja materiaalien vaatimustenmukaisuus
+    - title: 3 vuoden takuu
+      description: Jokaiselle afarer-tuotteelle — ilman kysymyksiä
+features3_certifications:
+  title: Sertifioinnit ja vaatimustenmukaisuus
+  subtitle: Jokainen tuote on itsenäisesti testattu ja sertifioitu kansainvälisten standardien mukaan.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: CE-sertifiointi
+      description: Kaikki afarer SUP-laudat täyttävät Euroopan CE-turvallisuusstandardin vapaa-ajan vesikulkuneuvoille. Jokainen tuote käy läpi paine-, kelluvuus- ja kuormitustestauksen ennen tehtaalta lähtöä.
+      icon: tabler:certificate
+    - title: ISO 9001
+      description: 12 000 m² Qingdaon laitoksemme toimii ISO 9001 -laadunhallintajärjestelmän alla. Jokainen tuotantoerä on jäljitettävissä, dokumentoitu ja tarkastettu.
+      icon: tabler:clipboard-check
+    - title: BSCI-sosiaalinen vaatimustenmukaisuus
+      description: Olemme BSCI-sertifioituja, mikä takaa eettiset työkäytännöt, turvalliset työolosuhteet ja ympäristövastuun koko toimitusketjussamme.
+      icon: tabler:users
+    - title: REACH & RoHS
+      description: Kaikki materiaalit — PVC, EVA-vaahto, liimat — täyttävät EU:n REACH- ja RoHS-määräykset. Ei kiellettyjä aineita, ei kompromisseja.
+      icon: tabler:flask
+    - title: Materiaalitestilaboratorio
+      description: Sisäinen materiaalilaboratorio testaa vetolujuuden, UV-kestävyyden, saumojen eheyden ja kulutuskestävyyden jokaiselle kangaserälle ennen tuotantoa.
+      icon: tabler:microscope
+    - title: 3 vuoden takuu
+      description: Jokainen afarer-tuote toimitetaan kolmen vuoden takuulla valmistusvirheitä vastaan. Seisomme rakentamiemme tuotteiden takana.
+      icon: tabler:shield-check
+testimonials:
+  tagline: Asiakkaiden luottamus
+  title: Mitä asiakkaamme sanovat
+  subtitle: Ensikertalaisista melojista ammattimaisiin laivasto-operaattoreihin — katso miksi he luottavat afareriin.
+  items:
+    - content: Varustimme koko vuokrauslaivastomme afarer SUP-lautoilla. Kaksi kautta takana, nolla vikaa. CE-sertifiointi teki vakuutushyväksynnästä saumatonta.
+      name: Marco V.
+      title: Matkanjärjestäjä, Kroatia
+    - content: Ensikertalaisena ostajana olin hermostunut laadusta. ISO-dokumentaatio ja testiraportit, jotka he jakoivat, antoivat minulle täyden luottamuksen.
+      name: James T.
+      title: SUP Explorer 11 -omistaja, Kanada
+    - content: Teemme yhteistyötä afarerin kanssa rannikkopartioyksiköidemme osalta. Heidän QC-prosessinsa on johdonmukainen jokaisessa erässä — tällä luotettavuudella on merkitystä kriittisissä operaatioissa.
+      name: Lt. Cmdr. Andres
+      title: Laivaston hankinta, Filippiinit
+steps2_manufacturing:
+  title: Kuinka varmistamme laadun
+  subtitle: Raaka-ainetarkastuksesta lopulliseen painetestaukseen — jokainen tuote käy läpi tiukan laatuketjun.
+  items:
+    - title: Raaka-ainetarkastus
+      description: Jokainen PVC-kangasrulla testataan paksuuden, vetolujuuden ja UV-kestävyyden suhteen ennen tuotantoon tuloa.
+      icon: tabler:search
+    - title: Keskeneräinen QC
+      description: Hitsaussaumat, venttiiliasennukset ja kammioliitokset tarkastetaan jokaisella asemalla kokoonpanon aikana.
+      icon: tabler:eye
+    - title: Painetestaus
+      description: Jokainen kumituote täytetään 1,25-kertaiseen nimellis-PSI:hen ja pidetään 24–48 tuntia ilmanpysyvyyden ja saumojen eheyden varmistamiseksi.
+      icon: tabler:wind
+    - title: Lopputarkastus
+      description: Jokainen yksikkö tarkastetaan viimeistelyn, laitteiston ja pakkauksen suhteen ennen lähetykseen hyväksymistä. Erien näytteet menevät laboratorioomme tuhoavaa testausta varten.
+      icon: tabler:clipboard-check
+factory_audit:
+  title: Tehtaan tarkastus ja sosiaalinen vastuu
+  subtitle: 12 000 m² Qingdao-toimipisteemme on avoinna kolmannen osapuolen tarkastuksille. Ylläpidämme BSCI-sosiaalisen vastuullisuuden sertifikaatiota ja toivottameet asiakastarkastukset tervetulleiksi.
+  stats:
+    - value: 12 000 m²
+      label: Tuotantolaitos
+    - value: 200+
+      label: Ammattitaitoiset työntekijät
+    - value: 15 000+
+      label: Vuosittainen kappalekapasiteetti
+    - value: BSCI
+      label: Sosiaalinen vastuu
+  highlights:
+    - title: BSCI-sertifioitu
+      desc: amfori BSCI sosiaalisen vastuun sertifiointi — eettinen työ, turvalliset olosuhteet, ympäristövastuu.
+      link: /certifications/
+    - title: Tarkastettavissa
+      desc: Asiakkaiden tehdastarkastukset ovat tervetulleita. Suunnittele vierailu tai virtuaalikierros Qingdaon tuotantolinjoillamme.
+      link: /factory/
+    - title: Täydellinen jäljitettävyys
+      desc: Jokainen tuotantoerä on dokumentoitu ja jäljitettävissä — raaka-aineeränumeroista lopulliseen laatuvalvontavahvistukseen.
+    - title: ISO 9001:2015
+      desc: Laatujohtajärjestelmä sertifioitu SGS:n toimesta. Prosessimme täyttävät kansainväliset tuotantostandardit.
+      link: /certifications/
+warranty_section:
+  title: Takuu ja jälkimarkkinointituki
+  subtitle: Seisomme jokaisen tuotteen takana selkein takuuehdoin, nopealla reklamaatioiden käsittelyllä ja aidoilla varaosilla.
+  items:
+    - title: 3 vuoden tuotetakuu
+      desc: Kaikkiin afarer-tuotteisiin sisältyy 3 vuoden takuu valmistusvirheitä vastaan — saumapettäminen, venttiilivirheet ja materiaalin delaminaatio normaalikäytössä.
+    - title: Elinkaari varaosatuki
+      desc: Alkuperäiset vaihdeosat — venttiilit, korjauspakkaus, kilvet, D-ringit — saatavilla kaikille malleille. Ylläpidämme muotteja ja työkaluja vähintään 5 vuotta tuotannon päätyttyä.
+    - title: 48 tunnin reklamaatiovastaus
+      desc: Takuita koskevat hakemukset vastaanotetaan 48 tunnin kuluessa. Korvauslautat lähetetään 10 arkipäivän kuluessa hyväksyttyjen hakemusten osalta.
+    - title: Maailmanlaajuinen korjausverkosto
+      desc: Valtuutetut korjaamot yli 15 maassa. Kenttäkorjaussarjat saatavilla etäisille alueille. Oma-oppaiset korjausohjeet pienemmille vaurioille.
+    - title: OEM-asiakastuki
+      desc: Omistettilähtöiset asiakaspäälliköt B2B-kumppaneille. Neljännesvuosittaiset liiketoiminta-arvioinnot, varastosuunnittelu ja yhteisbrändäys-markkinointituki.
+    - title: Sertifiointipaketti
+      desc: Täydellinen vaatimustenmukaisuusdokumentaatio toimitetaan jokaisen lähetyksen mukana — CE-vakuutus, testiraportit ja käyttöturvallisuustiedotteet.
+      link: /contact/
+trust_resources:
+  title: Luotettavuusmateriaalit
+  subtitle: Lataa sertifikaattiportfoliomme, laadunvalvontaraporttimme ja vaatimustenmukaisuusasiakirjamme.
+  items:
+    - title: Sertifikaattiportfoliosta
+      desc: CE, ISO 9001, BSCI, REACH, RoHS, AS 1799 sertifikaatit yhdessä paketissa.
+    - title: QC-testausstandardiraportti
+      desc: 24–48-tuntiset painepitoisuustestit, UV-vanhennus ISO:n mukaan, vetovoimavahvistus – täydellinen metodologia.
+    - title: Tehdasprofiili ja tarkastusraportti
+      desc: 12 000 m²:n tilan yleiskatsaus, tuotantolinjojen valokuvat ja kolmannen osapuolen tarkastusyhteenveto.
+    - title: Takuupolitiikka-asiakirja
+      desc: Täydelliset takuuehdot, vahinkoprosessi ja varaosien hinnoittelu.
+  cta_text: Pyydä luotettavuusmateriaaleja
+  cta_link: /contact/
+faqs_sup:
+  title: SUP-lautojen UKK
+  subtitle: Yleisiä kysymyksiä seisomamelontalautailulaudoistamme.
+  columns: 2
+  items:
+    - title: Mitä SUP-lautakokoja on saatavilla?
+      description: Tarjoamme SUP-lautoja 9 jalasta 12 jalkaan, mukaan lukien yleiskäyttöiset, retkeily-, jooga- ja erikoismallit. Eniten myyviä mallejamme ovat Tropical Breeze (10 jalkaa) ja Ocean Voyager (11 jalkaa).
+    - title: Mikä on drop-stitch -rakenne?
+      description: Drop-stitch -rakenne käyttää tuhansia polyesterilankoja, jotka yhdistävät laudan ylä- ja alakerroksen, mahdollistaen korkean ilmanpaineen (15–20 PSI) ja jäykän, vakaan alustan. Tämä on alan standardi premium-kumilauta-SUP-laudoille.
+    - title: Mikä on SUP-lautojen painoraja?
+      description: SUP-lautamme tukevat jopa 150 kg mallista ja tilavuudesta riippuen. Leviathan Wake on suuritehoisin mallimme, suunniteltu suuremmille käyttäjille ja joogakäyttöön.
+    - title: Tarjoatteko täydellisiä SUP-paketteja?
+      description: Kyllä. Jokainen SUP-lauta toimitetaan täydellisenä pakettina, mukaan lukien 3-osainen alumiinimela, korkeapaineinen käsipumppu, kierrehihna, matkareppu ja korjaussarja. Jotkut mallit sisältävät myös irrotettavan eväsarjan.
+    - title: Mikä on SUP-lautojen takuu?
+      description: Kaikilla afarer SUP-laudoilla on kolmen vuoden takuu valmistusvirheitä vastaan, mukaan lukien saumojen pettäminen, venttiiliviat ja materiaalin delaminaatio normaalikäytössä.
+    - title: Kuinka kauan SUP-laudan täyttäminen kestää?
+      description: Mukana tulevalla käsipumpulla täysi täyttö 15 PSI:hen kestää noin 8–12 minuuttia. Nopeampaa täyttöä varten suosittelemme afarer 12V sähköpumppuamme, joka täyttää laudan alle 4 minuutissa.
+faqs_materials:
+  title: 'SUP-materiaalit ja -huolto: UKK'
+  subtitle: Usein kysytyt kysymykset täytettävien SUP-lautojen materiaaleista, hoidosta ja säilytyksestä.
+  columns: 2
+  items:
+    - title: Mitä materiaaleja afarerin täytettävissä SUP-laudoissa käytetään?
+      description: Käytämme sotilasluokan PVC:tä (1100 denieriä) UV-stabiloidulla, hankauskestävällä rakenteella, EU:n REACH- ja RoHS-määrästen mukaisena.
+    - title: Kauanko tiedostamatonta SUP-lautaa kestää?
+      description: Oikealla hoidolla laadukas PVC-kumilastu SUP kestää 5–10 vuotta. Säännöllinen puhdistus, UV-suojus ja oikea varastointi pidentävät huomattavasti käyttöikää.
+    - title: Mitä huoltoa laukeavalle SUP:lle tarvitaan?
+      description: Perushuolto sisältää huuhtomisen puhtaalla vedellä jokaisen käytön jälkeen (erityisesti suolaisessa vedessä), kuivattamisen ennen säilytystä, venttiilien tiivisteiden vuositarkistuksen ja auringon altistuksen välttämisen kun laitetta ei käytetä.
+    - title: Voiko täytettäviä SUP-lautoja käyttää suolaisessa vedessä?
+      description: Kyllä. Kaikki afarerin ilmatäytettävät SUP-laudat on suunniteltu sekä makeaan että suolaiseen veteen. Suosittelemme huuhtomista makealla vedellä ja kuivaamista perusteellisesti suolaisen veden jälkeen.
+    - title: Kuinka säilytän puhallettavan SUP-laudan?
+      description: Tyhjennä, puhdista ja kuivaa lauta kokonaan ennen varastointia. Rullaa löyhästi (vältä tiukkoja taitoksia), säilytä viileässä ja kuivassa paikassa suojassa suoralta auringonvalolta ja pidä erossa betonilattiasta kosteuden imeytymisen estämiseksi.
+    - title: Mikä on afarerin puhallettavien SUP-lautojen kantavuus?
+      description: Kantavuudet vaihtelevat 100 kg:sta pienimmillä malleilla yli 200 kg:aan suuremmilla laudoilla. Jokainen tuotesivu ilmoittaa mallisi maksimikuorman.
+cta:
+  title: Haluatko nähdä sertifioinnit itse?
+  subtitle: Pyydä sertifiointisalkkumme, tehdastarkastusraporttimme tai materiaalien vaatimustenmukaisuusasiakirjoja. NDA:ta ei vaadita.
+  actions:
+    - variant: primary
+      text: Pyydä sertifiointiasiakirjoja
+      href: /contact/
+    - text: Vieraile tehdassivullamme
+      href: /factory/

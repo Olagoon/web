@@ -1,0 +1,112 @@
+meta:
+  title: 'Case Studies — Partnerskabs- & Co-brandprojekter | {SITE}'
+  description: 'Virkelige projekter, virkelige resultater: SUP-flåder til resorts, private labels, distribution og redning. Se hvordan afarer støtter sine partnere.'
+  keywords:
+    - 'SUP case studies'
+    - 'paddle board partnerskabsprojekter'
+    - 'SUP-producent referencer'
+    - 'nautiske projekteksempler'
+hero:
+  tagline: Casestudier
+  title: Virkelige projekter, virkelige resultater<br />— afarer i aktion
+  subtitle: Se hvordan afarer samarbejder med distributører, mærker og operatører verden over for at levere skræddersyede marine løsninger til enhver applikation.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarer casestudier — skræddersyede marine produktionsprojekter
+features3_cases:
+  tagline: Udvalgte cases
+  title: Skræddersyede løsninger<br />til virkelige udfordringer
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Europæisk dykkercenterflåde
+      customer: BlueMed Diving Centers
+      country: Grækenland
+      industry: Dykning og maritim turisme
+      challenge: >-
+        Vi skulle bruge 12 dykkerkonfigurerede SUPs til en kæde af dykkercentre på flere græske øer. Hvert bræt skulle have specialtilpasset udstyrsmontering, opbevaring til 8 flasker og en stabil platform til dykkere, der stiger i vandet fra åbent vand. Flåden skulle ankomme inden for 60 dage, så
+        den var klar til turistsæsonens start.
+      solution: Producerede 12 SUP Voyager Dive-modeller med integrerede udstyrsstativer, stabile platforme og ekstra bred drop-stitch-konstruktion for stabilitet ved ombordstigning. Hvert bræt fik kundens flådedesign. Alle 12 brædder blev tryktestet og afsendt fra Qingdao inden for 55 dage.
+      product: SUP Voyager Dive
+      results: Alle 12 boards blev leveret til tiden til turistsæsonen. Flåden har været i daglig drift i 18+ måneder uden en eneste materialefejl. Kunden bestilte 6 ekstra enheder i år to.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: SUP Voyager Dive har været rygraden i vores daglige dykkeroperationer. Stabiliteten er fremragende, og udstyrsopbevaringens indretning holder dækket rent og sikkert for vores gæster.
+      icon: tabler:lifebuoy
+    - title: Australsk distributør-co-brand-program
+      customer: Pacific Watersports Pty Ltd
+      country: Australien
+      industry: Co-brand- & partnerskabsprogram
+      challenge: >-
+        En australsk distributør havde brug for en private-label-serie af SUP-boards til konkurrencedygtige priser for at konkurrere med kinesiske direkte-til-forbruger-brand. Der var behov for 8 unikke modeller fra begynder- til avanceret niveau, med specialtilpasset grafik, specialtilpasset
+        emballage og drop-shipping til detailforhandlere.
+      solution: >-
+        Udviklede 8 SUP-modeller (All-Around, Touring, Yoga, Kids, Sport, Ultra-Compact, Ultra-Stable, Whitewater) med eksklusiv australsk grafikpakke. Skræddersyet detailemballage med QR-koder, der linker til opsætningsvideoer. Drop-ship-logistik konfigureret fra Qingdao direkte til australske
+        detailbutikker.
+      product: Tilpasset SUP-serie (8 modeller)
+      results: Fra koncept til første forsendelse på 90 dage. Detailgennemsalg på 85 % i første sæson. Distributøren udvidede partnerskabet til at omfatte yderligere SUP-modeller i år to.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: afarer leverede en komplet SUP-serie på 90 dage — fra det første design til butikshylden. Kvaliteten matcher mærker, der sælger til dobbelt så høj en pris.
+      icon: tabler:currency-dollar
+    - title: Redningsudstyrlevering Mellemøsten
+      customer: National civilforsvarsmyndighed
+      country: Forenede Arabiske Emirater
+      industry: Eftersøgning og redning
+      challenge: En civilforsvarsorganisation havde brug for 20 patruljeklare SUP-boards til kystnær søredning, havnesikkerhed og oversvømmelsesindsats. Der var krav om meget synlige boards, fuldt sikkerhedsudstyr og overholdelse af de lokale maritime regler.
+      solution: >-
+        Vi leverede 20 SUP Patrol-modeller med stærkt synlig orange drop-stitch-konstruktion, komplette sikkerhedspakker, SOLAS-refleksbånd og forstærket konstruktion. Hvert bræt var CE-certificeret og testet i henhold til gældende standarder. Dokumentationspakken indeholdt
+        overensstemmelsescertifikater til lokal registrering.
+      product: SUP Patrol
+      results: Flåde udplaceret på 5 kyststationer. Boardene har været i drift i ekstrem varme (45°C+) uden nedbrydning. Ydeevne og holdbarhed overgik specifikationerne.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: SUP Patrol oversteg vores driftskrav. Under ekstreme varmeforhold viser boardsene ingen tegn på UV-nedbrydning efter 24 måneders daglig brug.
+      icon: tabler:alert-triangle
+    - title: Europæisk co-brand-partnerskab
+      customer: North Sea Marine Equipment BV
+      country: Holland
+      industry: Co-brand- & partnerskabsprogram
+      challenge: >-
+        Et etableret europæisk marinebrand ønskede at ekspandere ind på SUP-markedet uden at investere i produktionsfaciliteter. De havde brug for en white-label-partner, der kunne producere 5 SUP-modeller (9 ft til 12 ft) med privat branding, CE-certificering og eksklusive distributionsrettigheder
+        i EU.
+      solution: >-
+        Etableret white-label-produktionsaftale for 5 SUP-modeller. Hver model brandet med kundens logoer og farveskema. CE-certificeringsdokumentation udarbejdet for hver model. Eksklusive EU-distributionsrettigheder tildelt med minimumsordrekrav. Teknisk dokumentation leveret til det lokale
+        servicenetværk.
+      product: Skræddersyet SUP-serie (5 modeller)
+      results: Flerårig aftale underskrevet. Første produktionsserie på 50 enheder afsendt inden for 75 dage. Brandet lanceret på en stor messe med positiv modtagelse blandt forhandlerne.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Samarbejdet med afarer gjorde det muligt for os at komme ind på SUP-markedet uden at bygge en fabrik — de leverede en komplet turnkey-løsning med CE-certificering og forhandlerstøttedokumentation.
+      icon: tabler:building
+    - title: Caribisk resortflåde
+      customer: Paradise Island Resorts Ltd
+      country: Bahamas
+      industry: Marin turisme og gæstfrihed
+      challenge: >-
+        Et luksusresort havde brug for en komplet flåde af vandsportsudstyr til gæsternes aktiviteter: 40 SUP-boards til guidede ture, 20 ekstra SUP-boards til laguneekspeditioner, 10 SUP-boards til gæsteudflugter samt tilbehør. Alt udstyret skulle have resortets egen branding og leveres inden
+        højsæsonen.
+      solution: "Producerede en komplet SUP-pakke: 40 SUP Voyager-brætter (All-Around-model), 20 SUP Explorer-brætter, 10 SUP Touring-brætter samt PFD'er, pagajer, pumper og reparationssæt. Alt udstyr blev trykt med resortets logo og tropisk farvepalet. Containerforsendelse med fuld inventarliste."
+      product: Fuld SUP-pakke (70+ enheder)
+      results: Flåden ankom 6 uger før højsæsonen. Gæsternes tilfredshed med vandsportsaktiviteterne steg 40 % år-for-år. Udstyret har holdt i 3 sæsoner med kun rutinemæssig vedligeholdelse.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Den komplette pakkeløsning betød, at vi modtog alt, hvad vi havde brug for, i én sending — brædder og tilbehør, alt brandet og klar til gæsternes brug. Vores gæster elsker udstyrets kvalitet.
+      icon: tabler:beach
+    - title: US-kystpatruljekontrakt
+      customer: Atlantic Coastal Security Agency
+      country: USA
+      industry: Maritim sikkerhed og retshåndhævelse
+      challenge: Et amerikansk kystvagtagentur krævede kraftige patrulje-SUP-boards til operationer på åbent hav. Der var behov for højtydende boards med udstyr efter militær specifikation samt overholdelse af US Coast Guard-regulativet.
+      solution: >-
+        SUP Patrol er konstrueret med forstærket drop-stitch-opbygning, farvesammensætninger med høj synlighed, monteringspunkter til krypteret kommunikationsudstyr og integrerede fastgørelsespunkter til udstyr. Brættene er forstærket til krævende operationer. USCG-overensstemmelsesdokumentation
+        medfølger.
+      product: SUP Patrol
+      results: Agenturet rapporterede en missionsklarhed på 95% over de første 12 måneder. Der blev afgivet en ekstraordre på 8 enheder.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: SUP Patrol giver vores besætninger den ydeevne, der kræves til operationer på åbent vand. Den forstærkede konstruktion giver afgørende holdbarhed uden at gå på kompromis med håndteringen.
+      icon: tabler:shield
+cta:
+  title: Har du et projekt, du gerne vil diskutere?
+  subtitle: Ethvert partnerskab med afarer starter med en samtale. Fortæl os dine krav, og vi vil udvikle en løsning.
+  actions:
+    - variant: primary
+      text: Start dit projekt
+      href: /contact/
+    - text: Se vores kapaciteter
+      href: /brand-marine-expertise/

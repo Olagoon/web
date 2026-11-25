@@ -1,0 +1,111 @@
+meta:
+  title: OEM Satın Alma Kılavuzu — Asya'dan Şişirilebilir Su Araçları Temini | {SITE}
+  description: "Asyalı üreticilerden şişirilebilir SUP'lar ve kanolar tedarik etmek için kapsamlı kılavuz: fabrika değerlendirme kontrol listesi, kalite kontrol protokolleri, uyumluluk doğrulama, minimum sipariş miktarı müzakeresi, nakliye koşulları ve yaygın tuzaklar."
+back_text: Araştırmaya Dön
+hero:
+  tagline: Tedarik
+  title: OEM Alıcı Rehberi — Asya'dan Şişirilebilir Su Araçları Temini
+  subtitle: 12 dk okuma
+content_html: >
+  <h2>1. Ön Nitelikendirme: Fabrikada Nelere Bakılmalı</h2>
+
+
+  <h3>Uyumluluk Sertifikaları</h3>
+
+  <ul>
+    <li><strong>ISO 9001:2015</strong> – Kalite yönetim sistemi</li>
+    <li><strong>CE sertifikası</strong> – Onaylanmış Kuruluş numarasını doğrulayın</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Sosyal uyumluluk denetimleri</li>
+    <li><strong>REACH / RoHS</strong> – Malzeme uyumluluk beyanları</li>
+  </ul>
+
+
+  <h3>Üretim Yetenekleri</h3>
+
+  <ul>
+    <li>Drop-stitch çekirdek dokuma: kendi bünyesinde mi dışarıdan mı</li>
+    <li>PVC kaplama / laminasyon hattı</li>
+    <li>RF kaynak ve sıcak hava kaynak ekipmanları</li>
+    <li>Kendi bünyesinde kalıp üretimi (CNC işlenmiş)</li>
+    <li>Test laboratuvarı (basınç testi, UV yaşlandırma, çekme testi)</li>
+  </ul>
+
+
+  <h3>Deneyim Doğrulaması</h3>
+
+  <ul>
+    <li>Şişirilebilir su aracı üretiminde geçen yıllar (minimum 5+ yıl)</li>
+    <li>Mühendis sayısı</li>
+    <li>Mevcut OEM/ODM müşterileri (referans isteyin)</li>
+    <li>İhracat destinasyonları – zaten hedef pazarınıza sevkiyat yapıyorlar mı?</li>
+  </ul>
+
+
+  <h2>2. Kalite Kontrol Protokolleri</h2>
+
+  <p>Gelen malzeme kalite kontrolü: çekme dayanımı (ASTM D751 veya ISO 1421), yırtılma direnci (ASTM D2261 veya ISO 4674), yapışma dayanımı, UV yaşlandırma nokta kontrolleri.</p>
+
+  <p>Üretim süreci kalite kontrolü: her 50 birimde dikiş dayanımı izleme, valf tork doğrulaması, drop-stitch iplik yoğunluk kontrolleri, CAD çizimlerine göre boyutsal kontroller.</p>
+
+  <p>Son denetim: %100 şişirme testi (24 saat, maksimum %5 düşüş), görsel denetim, valf işlevi testi, rastgele örneklem testi (ISO 2859'a göre AQL 2,5 veya 4,0).</p>
+
+
+  <h2>3. Uyumluluk Dokümantasyon Kontrol Listesi</h2>
+
+  <ul>
+    <li>Uygunluk Beyanı (DoC) – doğru EU direktifine atıfta bulunarak</li>
+    <li>Onaylanmış kuruluştan CE sertifikası</li>
+    <li>Akredite laboratuvardan test raporu</li>
+    <li>Malzeme güvenlik bilgi formu (MSDS)</li>
+    <li>REACH uyumluluk beyanı</li>
+    <li>Tedarikçi izlenebilirliği ile malzeme listesi</li>
+    <li>Fabrika denetim raporu</li>
+  </ul>
+
+
+  <h2>4. MOQ Müzakeresi</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Ürün Türü</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Standart MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Müzakere Edilebilir Aralık</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">SUP Tahtaları</td><td class="p-3 border">50 – 100 adet</td><td class="p-3 border">5 – 10 adet (deneme)</td></tr>
+      <tr><td class="p-3 border">Kano</td><td class="p-3 border">50 – 100 adet</td><td class="p-3 border">5 – 10 adet (deneme)</td></tr>
+      <tr><td class="p-3 border">Şişirilebilir SUP'lar</td><td class="p-3 border">50 – 100 adet</td><td class="p-3 border">2 – 5 adet (deneme)</td></tr>
+      <tr><td class="p-3 border">Güvenlik / Aksesuarlar</td><td class="p-3 border">200 – 500 adet</td><td class="p-3 border">50 – 100 adet (deneme)</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>5. Lojistik ve Nakliye</h2>
+
+  <p>Yaygın Kullanılan Incoterms: <strong>FOB</strong> (Fabrika kalkış limanına teslim – en yaygın), <strong>EXW</strong> (Alıcı tüm nakliyeyi fabrika kapısından Arrange eder), <strong>CIF</strong> (Fabrika varış limanına navlun ve sigorta öder).</p>
+
+  <p>Şişirilebilir ürünler düşük ağırlık, yüksek hacimlidir – hacimsel ağırlık (DIM) genellikle nakliye maliyetini belirler. Hacmi %50–60 azaltmak için vakumlu paketleme talep edin. Çin'den AB'ye deniz yolu nakliyesi: 25–35 gün; ABD Batı Kıyısı'na: 15–20 gün.</p>
+
+
+  <h2>6. Yaygın Hatalar</h2>
+
+  <ul>
+    <li><strong>Fabrika denetimi yok:</strong> Her zaman üçüncü taraf bir denetim yaptırın veya görevlendirin (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Yalnızca sözlü özellikler:</strong> Her iki tarafça imzalanmış detaylı teknik özellik formu</li>
+    <li><strong>Numune onayı atlama:</strong> Toplu üretimden önce numuneler için yazılı onay</li>
+    <li><strong>Üretim sırasında kalite kontrol yok:</strong> Üretim sırasında (DUPRO) ve sevkiyat öncesi (PSI) üçüncü taraf denetimi</li>
+    <li><strong>Uyumluluğu göz ardı etme:</strong> Üretimden önce CE/UKCA sertifikasını doğrulayın</li>
+  </ul>
+
+
+  <h2>7. Neden Afarer</h2>
+
+  <p>Afarer, 2012'den bu yana OEM/ODM şişirilebilir su araçları üretmektedir. 12.000 m&sup2; ISO 9001 sertifikalı tesis, 25+ mühendis ve tüm ürün çizgilerinde CE sertifikası ile bu rehberdeki her kriteri karşılıyoruz. Yeni partnerler için deneme MOQ'ları ve eksik uyumluluk dokümantasyon paketleri
+  sunuyoruz.</p>
+cta:
+  title: Tedarik etmeye başlamaya hazır mısınız?
+  subtitle: Proje gereksinimlerinizi tartışmak için OEM ekibimizle iletişime geçin.
+  button_text: Teklif isteyin
+  button_link: /contact/

@@ -1,0 +1,72 @@
+meta:
+  title: 'Por Que a afarer — 7 Motivos pelos Quais Marcas Globais Nos Escolhem | {SITE}'
+  description: 'Por que marcas globais escolhem a afarer: certificações CE e ISO, MOQ flexível, moldes personalizados e prazos de 30 dias de uma fábrica profissional de SUP.'
+  keywords:
+    - 'por que escolher a afarer'
+    - 'fabricante de SUP inflável'
+    - 'fábrica de SUP na China'
+    - 'fornecedor de paddle board inflável'
+hero:
+  tagline: Por que um viajante
+  title: Sete Razões para Marcas Globais<br />Escolherem afarer
+  subtitle: Nem todos os fabricantes são iguais. Descubra por que afarer é o parceiro preferido.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: qualidade e experiência na fabricação afastada
+stats:
+  title: Confie nos Números
+  stats:
+    - title: Anos no Mercado
+      amount: Desde 2012
+    - title: Pranchas Construídas
+      amount: '15.000'
+    - title: Clientes recorrentes
+      amount: 85%
+    - title: Reclamações de Garantia
+      amount: <2%
+features3_reasons:
+  tagline: Por que escolher a afarer
+  title: Sete Razões para Fazer Parceria
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: 1. Fabricação Real, Não Comércio
+      description: Possuímos uma fábrica de 12.000 m². Trabalhe diretamente com os projetistas – sem intermediários.
+      icon: tabler:building-factory
+    - title: 2. Abordagem Liderada pela Engenharia
+      description: Nosso design começa com o caso de uso, não com a categoria.
+      icon: tabler:engine
+    - title: 3. Qualidade Certificada
+      description: CE, ISO, BSCI, REACH, USCG. Cada produto atende padrões internacionais.
+      icon: tabler:certificate
+    - title: 4. Co-branding Flexível
+      description: Cores, layout, marca, embalagem – personalizamos conforme suas especificações.
+      icon: tabler:adjustments
+    - title: 5. Logística Global
+      description: Armazém na Califórnia, envio direto de Qingdao, frete aéreo para urgências.
+      icon: tabler:truck-delivery
+    - title: 6. Suporte Vitalício
+      description: Apoiamos pranchas construídas há 20 anos. Peças originais, conselhos.
+      icon: tabler:lifebuoy
+    - title: 7. Especificações Honestas
+      description: Capacidades reais, dimensões reais, peso real. Sem inflação de marketing.
+      icon: tabler:ruler-measure
+testimonials:
+  tagline: Confiado por marcas em todo o mundo
+  title: O Que Nossos Parceiros Dizem
+  items:
+    - content: Trabalhamos com vários fabricantes na China, mas a afarer se destaca pela engenharia
+      name: — Parceiro Co-Brand, marca europeia de esportes aquáticos
+    - content: Suas pranchas SUP estão em serviço em nossa frota há mais de 5 anos. Manutenção mínima, excelente resistência UV. A garantia de 5 anos nos dá confiança.
+      name: — Operador de frota, grupo hoteleiro do Oriente Médio
+    - content: A equipe afarer nos ajudou a desenvolver um design de prancha SUP personalizado do conceito à produção em
+      name: — Distribuidor, esportes aquáticos australianos
+cta:
+  title: Pronto para experimentar a diferença?
+  subtitle: Contate-nos para seu projeto. Sem compromisso – apenas conselhos honestos.
+  actions:
+    - variant: primary
+      text: Fale com nossa equipe
+      href: /contact/
+    - text: Baixar catálogo de produtos
+      href: /resources/download-catalog/

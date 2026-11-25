@@ -1,0 +1,114 @@
+meta:
+  title: SUP ekipmanları ve kürek kulüpleri için filo çözümleri | {SITE}
+  description: Kürek kulüpleri ve okulları için eksiksiz SUP filo programları. Başlangıç paketleri, profesyonel filolar, yarış tahtaları, eğitim merkezi setleri ve yedek parça desteği.
+hero:
+  tagline: Kürek Kulüpleri ve Okulları
+  title: Kürek kulübünüzü başlatın, yönetin ve büyütün<br />ticari kalitede SUP filolarıyla
+  subtitle: Dünya genelinde kürek kulüpleri ve SUP okulları için SUP ekipmanları tedarikçisi — dayanıklı ticari tahtalar, kulüpler için toplu fiyatlar, marka özelleştirmesi ve hızlı yedek parçalar, böylece topluluğunuzun büyümesine odaklanabilirsiniz.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Eş Afarer SUP boardlarında kürek kulübü üyeleri
+benefits:
+  title: Klüp Filo Avantajları
+  subtitle: 50'den fazla ülkedeki kürek kulüpleri neden Afarer'i ekipman ortağı olarak seçiyor.
+  items:
+    - metric: '%40+'
+      label: Filo Maliyet Tasarrufu
+      detail: Toplu kulüp indirimleriyle perakende fiyatlandırma karşılaştırması
+    - metric: 48h
+      label: Parça Değiştirme
+      detail: Kiralama filonuz için minimum duruş süresi
+    - metric: 500+
+      label: Kiralama Döngüleri
+      detail: Board başına ticari dayanıklılık
+    - metric: 5+ Yıl
+      label: Fil Ömrü
+      detail: Doğru bakım ve özen ile
+packages:
+  title: Kulüp Filo Programları
+  subtitle: Kulübünüzün boyutu ve hedeflerine uygun filo programını seçin.
+  items:
+    - name: Başlangıç Paketi
+      tagline: Yeni kulüpler için, 30 üyeye kadar
+      features:
+        - 10 SUP tahtası (all-round + touring karışımı)
+        - 10 kürek + 10 can yeleği
+        - 2 çift etkili pompa + tamir kiti
+        - Tahtalarda kulüp markası (logo baskısı)
+        - Lansman rehberi + güvenlik kontrol listesi
+        - CE sertifikalı — tüm ekipmanlar
+      cta_text: Kulübünüzü Başlatın
+    - name: Profesyonel Filo
+      tagline: Kurulu kulüpler için, 50-100 üye
+      features:
+        - 30 SUP tahtası (3 boyut seçeneği)
+        - 30 kürek + 30 can yeleği
+        - 5 pompa + 2 tamir kiti + saklama rafı
+        - Özel kulüp renkleri + tahtalarda logo
+        - Yedek parça programı (%15 indirim)
+        - Personel eğitimi oturumu (çevrimiçi)
+        - CE sertifikalı — tüm ekipmanlar
+      popular: true
+      cta_text: Filonuzu Kurun
+    - name: Yarış Filosu
+      tagline: Yarış kulüpleri, etkinlikler, müsabakalar için
+      features:
+        - 50+ yarış / performans tahtası
+        - Eksiksiz aksesuar seti (kürekler, yelekler, pompalar)
+        - Etkinlik destek kiti (start şamandıraları, işaretler)
+        - Öncelikli parçalar (24 saat sevkiyat)
+        - Özel hesap yöneticisi
+        - Özel takım üniforması seçeneği
+        - CE sertifikalı — tüm ekipmanlar
+      cta_text: Yarış Filosu Edinin
+training:
+  title: Eğitim Merkezi Paketleri
+  subtitle: Bir SUP okulunun profesyonel sertifikasyon kursları yürütmesi için gereken her şey.
+  items:
+    - name: Eğitmen Başlangıç Seti
+      features:
+        - 5 premium SUP panosu (eğitmen sınıfı)
+        - Demolar için 5 karbon kürek
+        - 5 can yeleği (eğitmen bedeni)
+        - Eğitim müfredatı rehberi
+        - CE sertifikalı ekipman
+    - name: Okullar İçin Eksiksiz Set
+      features:
+        - 20 SUP tahtası (öğrenci + eğitmen karışımı)
+        - 20 kürek + 20 can yeleği (çeşitli bedenler)
+        - Başlangıç seviyesi için 10 yüzdürme yardımcısı
+        - 4 pompa + onarım kitleri
+        - Eğitim müfredatı ve sertifikasyon desteği
+        - CE sertifikalı ekipman
+features:
+  title: Kulüpler Neden Afarer'i Seçiyor
+  subtitle: Büyüken kulüpler için tutarlı kalite, hızlı yedek parça ve toplu fiyatlandırma.
+  items:
+    - title: 500+ Kiralama Döngüsü
+      description: Ticari sınıf boardlar, mevsimler boyunca günlük kullanıma dayanır.
+      icon: tabler:shield-check
+    - title: Özel Renkler
+      description: Özel tahta renkleri ve logosuyla kulüp kimliğinizi eşleştirin.
+      icon: tabler:palette
+    - title: Toplu Fiyatlandırma
+      description: 10+ tahtalık filo siparişleri için toplu alım indirimleri.
+      icon: tabler:discount
+    - title: Hızlı Yedek Parça
+      description: Yedek parçalar 48 saat içinde sevk edilir.
+      icon: tabler:truck-delivery
+    - title: Kulüp Büyüme Desteği
+      description: Üyelik programları, fiyatlandırma ve etkinlik düzenleme hakkında tavsiyeler.
+      icon: tabler:trending-up
+    - title: CE Sertifikalı
+      description: Tüm ekipmanlar uluslararası güvenlik standartlarına uygundur.
+      icon: tabler:certificate
+cta:
+  title: Kürek kulübünüzü kurmaya hazır mısınız?
+  subtitle: Kulüp filo teklifinizi alın veya kulüp başlangıç rehberimizi indirin.
+  actions:
+    - text: Kulüp Filosu İçin Başvurun
+      href: /contact/?package=club
+      variant: primary
+    - text: Kulüp Rehberini İndirin
+      href: /resources/download-catalog/
+      variant: secondary

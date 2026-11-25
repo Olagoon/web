@@ -1,0 +1,104 @@
+meta:
+  title: Afarer täispuhitavad paddle’i lauad | Sõida kaugemale. Sõuda tugevamini.
+  description: Avasta Afareri täispuhitavad paddle’i lauad mitmekülgseks sõudmiseks, matkadeks, joogaks, kalapüügiks ja väliseiklusteks. Leia oma täiuslik SUP ja avasta veel rohkem.
+  keywords:
+    - täispuhitav paddle’i laud
+    - täispuhitav sup
+    - mitmekülgne sup
+    - matka-sup
+    - joogasup
+    - kalastamise sup
+    - pere paddle’i laud
+    - kaasaskantav paddle’i laud
+hero:
+  tagline: Täispuhitavad Paddle’i Lauad
+  title: Täispuhitavad Paddle’i Lauad Iga Seikluse Jaoks
+  slogan: Sõida kaugemale. Sõuda tugevamini.
+  subtitle: Avasta sõudmise vabadus Afareriga. Tutvu läbimõeldud täispuhitavate SUP-idega lõõgastavateks järvepäevadeks, rannikuseiklusteks, fitnessiks ja kõigeks vahepealseks.
+  taglineSection: Ehitatud enesekindluseks. Disainitud silmapaistma jääma.
+  actions:
+    - variant: primary
+      text: Leia Oma Laud
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Avasta SUP-e
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Miks Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Afareri täispuhitavad SUP-id libisevad päikesetõusul rahulikus vees — ehitatud iga seikluse jaoks
+who_we_serve:
+  tagline: Sõuda Meiega
+  title: Leia Oma Tee Veel
+  subtitle: Igal sõujal on oma ettekujutus seiklusest. Avasta Afareri SUP, mis on kujundatud sinu sõudmisstiili järgi.
+  items:
+    - title: Algajad ja Hobisõujad
+      keywords: täispuhitav sup algajatele, mitmekülgne paddle’i laud, stabiilne sup
+      description: Laiad, stabiilsed mitmekülgsed lauad, millega esimene sõudetõuge tundub loomulik ja mis kasvavad koos sinuga.
+      icon: tabler:users
+      cta: Leia Oma Esimene Laud
+      link: /all-around-sup/
+    - title: Matkamine ja Seiklus
+      keywords: matka-sup, pika vahemaa paddle’i laud, ekspeditsiooni sup
+      description: Pikemad, kitsamad lauad, mis hoiavad kurssi, libisevad kaugemale ja kannavad varustust mitmepäevasteks marsruutideks.
+      icon: tabler:building
+      cta: Avasta Matka-SUP-e
+      link: /touring-sup/
+    - title: Jooga ja Fitness
+      keywords: joogasup, fitnessi paddle’i laud, lai stabiilne sup
+      description: Laiad, stabiilsed platvormid liigutamise ruumiga — päikesetõusu voogudeks, trennideks ja tasakaaluks rahulikus vees.
+      icon: tabler:heart
+      cta: Avasta Jooga-SUP-e
+      link: /yoga-sup/
+    - title: Kalapüük ja Pere
+      keywords: kalastamise sup, pere paddle’i laud, stabiilne kalapüügi platvorm
+      description: Stabiilsed, praktilised platvormid kalapüügiks, lastega sõudmiseks ja pikkadeks lõõgastavateks päevadeks vees.
+      icon: tabler:users
+      cta: Avasta Kalastamis-SUP-e
+      link: /fishing-sup/
+proof_points:
+  title: Testitud rohkem kui näitusesaalis
+  subtitle: Disain, jõudlus ja kvaliteet, mida saad kontrollida — vees ja arvudes.
+  items:
+    - metric: 10+
+      label: Aastaid veeks disainimist
+      detail: Alates 2012. aastast, täiustatud laud laualt
+    - metric: 50+
+      label: Riike vees
+      detail: Sõudjad ja partnerid üle kogu maailma
+    - metric: 12–15
+      label: PSI Drop-Stitch tuum
+      detail: Jäik seal, kus oluline, lihtne pakkida
+    - metric: 100%
+      label: Rõhutestitud laud laualt
+      detail: Kontrollitud enne saatmist
+business_solutions:
+  tagline: Miks See Sõidab Teisiti
+  title: Jõudlus, mille Tunnetad Esimesest Tõuk
+  subtitle: Neli sammast, mida on kujundanud tõeline vesi — jõudlus, disain, konstruktsioon ja kvaliteet.
+  items:
+    - title: Jõudlus Veel
+      description: Vormid, mis on häälestatud stabiilsuseks, libisemiseks ja enesekindluseks laines — iga tõuge jääb veega ühendusse.
+      icon: tabler:shield-check
+    - title: Ekspressiivne Disain
+      description: Kollektsioonid, mis ammutavad veevalust, metsloomadest ja ranna energiast — lauad, millega tahad nähtud olla.
+      icon: tabler:package
+    - title: Tõestatud Konstruktsioon
+      description: Suure tihedusega drop-stitch tuumad, tugevdatud küljed ja sulamislaminaadiga õmblused korduvkasutuseks.
+      icon: tabler:headset
+    - title: Kontrollitud Kvaliteet
+      description: Rõhutestitud, visuaalselt üle vaadatud ja kaetud selge garantiiga ning reageeriva müügijärgse toega.
+      icon: tabler:truck-delivery
+cta:
+  title: Leia oma järgmine laud.
+  subtitle: Olenemata, kas tegemist on sinu esimese tõuke või pikima marsruudiga — viime sind veele.
+  actions:
+    - variant: primary
+      text: Avasta Kollektsioon
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Küsi Kataloogi
+      href: /resources/download-catalog/

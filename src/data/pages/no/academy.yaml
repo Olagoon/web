@@ -1,0 +1,176 @@
+meta:
+  title: 'Akademiet — SUP-guider & padletrening | {SITE}'
+  description: 'afarer Akademiet: guider for oppblåsbare paddle boards, stand up paddle-teknikker, nautisk sikkerhet og materialkunnskap for nybegynnere og proffer.'
+  keywords:
+    - 'lære stand up paddle'
+    - 'SUP nybegynnerguide'
+    - 'paddle board grunnleggende'
+    - 'SUP-teknikk'
+    - 'SUP-leksjoner'
+hero:
+  tagline: afarer Akademi
+  title: Kunnskapssenter
+  subtitle: Veiledninger og opplæringsprogrammer på alle ferdighetsnivåer — fra SUP-grunnleggende til avanserte redningsteknikker
+categories:
+  - level: Nybegynner
+    color: from-green-500 to-emerald-600
+    badge: bg-green-100 text-green-700
+    guides:
+      - title: SUP-grunnleggende
+        desc: Lær det grunnleggende om stående padling — holdning, padleteknikk og balanse.
+        slug: beginner-sup-guide
+      - title: Padleteknikker
+        desc: Fremoverpadling, sveipende padling, dragpadling og lav støtte — mestr de grunnleggende paddelbevegelsene.
+        slug: sup-paddle-guide
+      - title: Sikkerhet først
+        desc: Grunnleggende sikkerhetspraksis, inkludert værsjekk, bruk av PFD, regler for leash og selvredning.
+        slug: sup-safety-guide
+  - level: Middels
+    color: from-blue-500 to-indigo-600
+    badge: bg-blue-100 text-blue-700
+    guides:
+      - title: Grunnleggende turpadling
+        desc: Planlegging av flertimers turer — navigasjon, væskeinntak, tempo og tolking av vindvarsler.
+        slug: touring-sup-guide
+      - title: Værtolking
+        desc: Tolk maritime værmeldinger, gjenkjenn skymønstre og forstå vindens påvirkning på vannet.
+        slug: weather-planning-water-sports
+      - title: Navigasjonsgrunnleggende
+        desc: Kartlesing, kompassbruk, GPS-punkter og ruteplanlegging for kystpadling.
+        slug: sup-navigation-guide
+      - title: Tidevannsbevissthet
+        desc: Forstå tidevannssykluser, strømmer og deres påvirkning på starttidspunkt og rute.
+        slug: understanding-tides
+  - level: Avansert
+    color: from-purple-500 to-violet-600
+    badge: bg-purple-100 text-purple-700
+    guides:
+      - title: Planlegging av flerdagers turer
+        desc: Ekspedisjonslogistikk — utstyrvalg, måltidsplanlegging, sikkerhetsprotokoller og nødkontakter.
+        slug: sup-travel-guide
+      - title: Redningsteknikker
+        desc: Selvredning, T-redning og taueprotokoller på åpent vann.
+        slug: sup-self-rescue
+      - title: Nattpadling
+        desc: Navigasjon i mørket — belysningskrav, ruteminne, gruppekommunikasjon og risikobevissthet.
+        slug: ocean-safety-basics
+  - level: Vedlikehold
+    color: from-amber-500 to-orange-600
+    badge: bg-amber-100 text-amber-700
+    guides:
+      - title: Rengjøring og stell
+        desc: Skylling med ferskvann, UV-beskyttelse, muggforebygging og riktige tørketeknikker etter hver økt.
+        slug: inflatable-sup-maintenance
+      - title: Oppbevaring
+        desc: Beste praksis for oppbevaring av oppblåsbare SUP-brett — tømming, folding, temperaturkontroll og holdbarhet.
+        slug: inflatable-sup-storage
+      - title: Reparasjonsgrunnleggende
+        desc: Reparasjon av små punkteringer, utette sømmer og ventilproblemer med PVC-reparasjonssett og lappeteknikker.
+        slug: inflatable-sup-repair
+      - title: Ventilvedlikehold
+        desc: Identifisering av ventiltyper (Halkey-Roberts, Boston, Leafield), rengjøring av smuss og utskifting av defekte ventiler.
+        slug: sup-pump-guide
+knowledge_center_tagline: Kunnskapssenter
+knowledge_center_title: Marinutstyr og bransjeguider
+knowledge_center_subtitle: Ekspertkunnskap og kjøpsguider for maritimt personell, flåteoperatører og vannsportsentusiaster.
+knowledge_sections:
+  - title: Kunnskap om SUP-brett
+    tagline: Guider for stand-up-padlebrett
+    desc: Alt om SUP-brett — brettdesign, materialer, størrelsesvalg, vedlikehold og kjøpsveiledning for fritids- og kommersiell bruk.
+    guides:
+      - title: Hvordan velge riktig SUP-brett
+        desc: Komplett guide til å velge SUP — størrelse, volum, materiale, form og tiltenkt bruk.
+        href: /learn/sup/
+      - title: Oppblåsbar vs hard SUP
+        desc: Oppblåsbar SUP vs hardt epoksbord — sammenligning av bærbarhet, holdbarhet, ytelse og verdi.
+        href: /compare/inflatable-vs-hardboard/
+      - title: Allround vs touring vs yoga-SUP
+        desc: Ulike SUP-bordtyper — byggestandarder, former, størrelser og anbefalte bruksområder.
+        href: /learn/sup/
+      - title: Drop-Stitch vs. tradisjonell konstruksjon
+        desc: Sammenlign drop-stitch og tradisjonell konstruksjon for SUP-brett med hensyn til vekt, kostnad, holdbarhet og stivhet.
+        href: /learn/drop-stitch-core/
+  - title: Guide for oppblåsbare SUP-brett
+    tagline: Kunnskap om oppblåsbare SUP-brett
+    desc: Omfattende guider for oppblåsbare SUP-er – PVC-materialer, drop-stitch-konstruksjon, sikkerhetsstandarder og beste praksis for vedlikehold.
+    guides:
+      - title: PVC-materialguide
+        desc: Endelig guide til PVC-materialer som brukes i konstruksjon av oppblåsbare SUP-brett.
+        href: /learn/materials/
+      - title: Hvordan oppblåsbare SUP-er produseres
+        desc: Produksjonsprosess — materiellskjæring, binding av drop-stitch-kjerne, sømkonstruksjon, trykktesting og kvalitetskontroll.
+        href: /learn/inflatable-technology/
+      - title: SUP-sikkerhetsguide
+        desc: Sikkerhetsstandarder, lastekapasitet, riktig oppblåsing, pre-departure-kontroller og nødprosedyrer.
+        href: /learn/water-safety/
+      - title: SUP-vedlikehold
+        desc: Rengjøring, lagring, UV-beskyttelse og reparasjon av oppblåsbare SUP-brett.
+        href: /v2/inflatable-sup-maintenance/
+  - title: Kunnskap om SUP-brett
+    tagline: SUP-brettsenter
+    desc: Tekniske guider som dekker SUP-bretttyper, materialer, konstruksjonsmetoder, vedlikehold og sikkerhet.
+    guides:
+      - title: SUP-bretttyper
+        desc: Allround, touring, yoga, sport og barne-SUP-er – lær forskjellene og velg riktig.
+        href: /learn/sup/
+      - title: Drop-stitch-teknologi
+        desc: Hvordan tusenvis av indre tråder skaper stive, høytrykksoppblåsbare konstruksjoner.
+        href: /learn/drop-stitch-core/
+      - title: Materialreferanse
+        desc: Forklaring av PVC denierrating, stoffvekter, UV-motstand og marinematerialer.
+        href: /learn/materials/
+      - title: SUP-kjøpsguide
+        desc: Sammenlign ulike SUP-bretttyper for ulike bruksområder og ferdighetsnivåer.
+        href: /learn/sup/
+  - title: SUP-kunnskap
+    tagline: Guider for stand-up-padlebrett
+    desc: Alt om SUP-brett — oppblåsbare vs. stive, brettdimensjoner, materialteknologi og eksperttips for alle ferdighetsnivåer.
+    guides:
+      - title: Oppblåsbar vs hard SUP
+        desc: Sammenlign iSUPs og harde epoxy-brett med hensyn til bærbarhet, holdbarhet, ytelse og verdi.
+        href: /learn/sup/
+      - title: Guide for SUP-brett dimensjoner
+        desc: Hvordan lengde, bredde og tykkelse påvirker stabilitet, hastighet og manøvrerbarhet.
+        href: /learn/sup/
+      - title: SUP-vedlikehold og pleie
+        desc: Rengjøring, lagring, UV-beskyttelse og reparasjonstips for oppblåsbare SUP-brett.
+        href: /v2/inflatable-sup-maintenance/
+      - title: Velg ditt første SUP-brett
+        desc: Nybegynnerguide til å velge riktig padlebrett for din vekt, ferdighetsnivå og tiltenkte bruk.
+        href: /learn/sup/
+  - title: Veiledning for utleiedrift
+    tagline: Flåtestyring for utleievirksomheter
+    desc: Veiledninger for å bygge og administrere SUP-utleief louter for strandkiosker, vannsportsentre og overnattingsbedrifter.
+    guides:
+      - title: Bygg din utleieflåte
+        desc: Hvordan velge riktig SUP-brett for din utleievirksomhet — holdbarhet, størrelse og avkastning på investeringen.
+        href: /solutions/rental-operators/
+      - title: Flåtevedlikeholdsguide
+        desc: Grunnleggende vedlikeholds rutiner for å maksimere brettets levetid og minimere nedetid for utleiefåter.
+        href: /solutions/rental-operators/
+  - title: Guide for resorter og hotell
+    tagline: Vannaktiviteter for hotell- og opplevelsesnæringen
+    desc: Veiledninger for å starte og administrere SUP-programmer for resorts, hoteller og vannkant-destinasjoner.
+    guides:
+      - title: Start et SUP-program for resorter
+        desc: Faktorer å vurdere ved oppstart av gjest-aktiviteter med SUP — flådestørrelse, bemanning og inntektsmodellering.
+        href: /solutions/resorts-hotels/
+      - title: SUP vs andre vannaktiviteter
+        desc: Sammenlign SUP-programmer med andre vannsporter for gjesteopplevelse og operasjonell effektivitet.
+        href: /learn/sup/
+  - title: Varehandel- og distribusjonsveiledning
+    tagline: SUP-forretningssamarbeid
+    desc: Veiledninger for å bli SUP-forhandler eller distributør — lagerplanlegging, markedsposisjonering og vekststrategier.
+    guides:
+      - title: Bli SUP-forhandler
+        desc: Hvordan velge produktlinjer, håndtere lagerbeholdning og markedsføre SUP-brett i din butikk.
+        href: /solutions/retail-partners/
+      - title: SUP for kommersiell virksomhet
+        desc: Hvorfor oppblåsbare SUP-er er et allsidig produkt for kommersielle flåter, utleievirksomheter og profesjonelle operatører.
+        href: /solutions/rental-operators/
+read_guide: Les veiledningen →
+cta:
+  title: Vet du ikke hvor du skal begynne?
+  desc: Ta ferdighetsvurderingsquizen vår for å finne de riktige veiledningene og utstyret for ditt nivå.
+  label: Kontakt oss →
+  link: /contact/

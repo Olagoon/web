@@ -1,0 +1,104 @@
+meta:
+  title: Hull Engineering Studio — CAD, FEA & Maßgeschneidertes Rumpfdesign | {SITE}
+  description: Erkunden Sie unser Hull Engineering Studio für CAD-Design, Finite-Elemente-Analyse (FEA) und die Entwicklung individueller Hochleistungs-SUP-Rümpfe. Kontaktieren Sie unser Ingenieurteam, um Ihr nächstes Board-Projekt zu starten.
+back_text: Zurück zum F&E-Zentrum
+home_label: Zuhause
+hero:
+  tagline: Labor 02
+  title: Hull Ingenieurstudio
+  subtitle: Digitale Simulation, strukturelle Intelligenz, maßgeschneidertes Rumpfdesign
+  image: https://assets.afarer.com/images/afarer/factory/design discussafarer-inflatable-boat-afarer-factory-exterior.webp
+  image_alt: Afarer Hüllentechnik CAD-Design-Arbeitsstation
+intro: >-
+  Der Rumpf ist das Rückgrat jedes aufblasbaren SUPs. Er muss leicht genug sein, um effizient zu gleiten, stark genug, um felsige Ufer zu meistern, und steif genug, um jeden Paddelschlag in Vortrieb umzuwandeln. Bei Afarer kombiniert unser Hull Engineering Studio fortschrittliche
+  CAD-Modellierung, Finite-Elemente-Analyse (FEA) und jahrzehntelange praktische Board-Design-Erfahrung, um Rümpfe zu liefern, die für ihren Einsatzzweck optimiert sind – nicht generische Formen, die aus einem Katalog angepasst wurden.
+content_html: >
+  <h2>Wo Stärke auf Hydrodynamik trifft</h2>
+
+  <p>Wir arbeiten mit drei primären Konstruktionsplattformen — verstärkten Drop-Stitch-PVC-Kernen, handgelegten Glasfaser-Laminaten und rotationsgeformtem Polyethylen — und verfügen über die ingenieurtechnische Fähigkeit, jede davon in-house zu konstruieren, zu simulieren und zu
+  validieren.</p>
+
+
+  <h2>Konstruktionswerkzeuge und Normen</h2>
+
+  <p>Unsere digitale Ingenieurmgebung umfasst:</p>
+
+  <table>
+    <thead><tr><th>Fähigkeit</th><th>Software / Werkzeug</th><th>Anwendung</th></tr></thead>
+    <tbody>
+      <tr><td>3D-parametrische Modellierung</td><td>SolidWorks Professional</td><td>Rumpfoberfläche, Rail- und Stringerverstärkung, Deckslayout, Ausrüstungsmontagepunkte</td></tr>
+      <tr><td>Finite-Elemente-Analyse</td><td>ANSYS Mechanical &amp; LS-DYNA</td><td>Spannungsverteilung, Modalanalyse, Aufprall-/Kollisions-Simulation</td></tr>
+      <tr><td>Numerische Strömungsmechanik</td><td>Ansys Fluent / Star-CCM+</td><td>Vorhersage des hydrodynamischen Widerstands, Trimmoptimierung</td></tr>
+      <tr><td>Laminatkonstruktion</td><td>ESAComp / CADEC</td><td>Glasfaser-Schichtstapelung, Kernmaterialauswahl, Gewichtsschätzung</td></tr>
+      <tr><td>Spritzguss-Simulation</td><td>Moldex3D</td><td>Vorhersage der Wandstärke beim Rotationsgießen</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Unser ingenieurtechnischer Workflow</h2>
+
+  <p>Jede Rumpfkonstruktion, ob Standardmodell oder vollständiges Individualprojekt, durchläuft einen strengen fünfstufigen Prozess:</p>
+
+  <ol>
+    <li><strong>Konzept &amp; Anforderungserfassung</strong> — Wir treffen uns mit Ihnen, um Fahrergewicht und Nutzlast, Geschwindigkeitsbereich, Verhalten bei verschiedenen Wasserzuständen, Transportanforderungen und jede besondere Missionsausrüstung (Deckmontagen, Zurrpunkt-Positionen, Zubehörintegration) zu definieren.</li>
+    <li><strong>3D-Modellierung &amp; hydrostatische Berechnung</strong> — Die Rumpfform wird in SolidWorks modelliert und auf hydrostatische Stabilität (GM, Aufrichtungsarm) mit integrierten Analysewerkzeugen geprüft.</li>
+    <li><strong>Strukturelle FEA</strong> — Lastfälle werden definiert: statisch (Fahrer + Ausrüstung), dynamisch (Wellenlandungsaufprall bei 5g) und Grundberührung (Aufprall auf ein felsiges Ufer mit 3 m/s). Spannungskonturen werden überprüft; ein Sicherheitsfaktor ≥ 2,5 ist zwingend vorgeschrieben.</li>
+    <li><strong>CFD-Widerstandsoptimierung</strong> — Der Rumpf wird bei drei Beladungszuständen und fünf Geschwindigkeiten simuliert. Benetzungsfläche, Trimhwinkel und Restwiderstand werden iterativ reduziert.</li>
+    <li><strong>Konstruktionsprüfung &amp; Freigabe</strong> — Das vollständige Ingenieurpaket (3D-Modell, FEA-Bericht, CFD-Bericht, Gewichtsschätzung, Stapelbuch) wird von unserem Senior-Ingenieur geprüft, bevor es an die Prototypenwerkstatt freigegeben wird.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">FEA Spannungsverteilung — Touring-SUP-Rumpf (verstärktes Drop-Stitch)</p>
+    <div class="grid grid-cols-2 gap-4 text-sm">
+      <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-950">
+        <span class="block text-2xl font-bold text-blue-600">2,8 : 1</span>
+        <span class="text-gray-500">Sicherheitsfaktor bei max. Nutzlast</span>
+      </div>
+      <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-950">
+        <span class="block text-2xl font-bold text-blue-600">15,2 %</span>
+        <span class="text-gray-500">Widerstandsreduktion gegenüber Vorgängergeneration</span>
+      </div>
+      <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-950">
+        <span class="block text-2xl font-bold text-blue-600">87 kN/m²</span>
+        <span class="text-gray-500">Spitzen-Schlagdruck (Begrenzungswert)</span>
+      </div>
+      <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-950">
+        <span class="block text-2xl font-bold text-blue-600">18 000 h</span>
+        <span class="text-gray-500">Kumulierte FEA-Laufzeit im Jahr 2025</span>
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Individualisierung: Ihr Rumpf, Ihre Regeln</h2>
+
+  <p>Keine zwei Paddler haben identische Anforderungen. Ein Angel-SUP benötigt einen breiten, stabilen Gleitrumpf; ein Touring-Board einen Verdrängungsrumpf, der das Gleiten maximiert; ein Surf-SUP braucht reagierende Rails und abgestimmten Rocker. Wir zwingen Ihre Anwendung nicht in eine
+  vorgefertigte Rumpfform. Wir gestalten ausgehend von Ihrer Spezifikation nach oben.</p>
+
+  <p>Beispiele aktueller individueller Rumpfprojekte:</p>
+
+  <ul>
+    <li>Ein Touring-SUP mit verlängerter Länge für einen karibischen Ökotour-Anbieter, mit verstärktem Bug für Strandlandungen (+15 % Railstärke).</li>
+    <li>Ein hochsichtbares Patrouillen-SUP für eine Hafenbehörde, mit integrierten Ausrüstungsmontagen und taktischen Rails.</li>
+    <li>Ein Expeditionstouring-SUP für eine Verleihflotte, mit verstärkten Rails und zusätzlichen Zurrpunkten.</li>
+  </ul>
+
+
+  <h2>Unsere Ingenieure</h2>
+
+  <p>Das Studio wird von einem Senior-Ingenieur mit 14 Jahren Erfahrung im Design Hochleistungs-Boards geleitet, unterstützt von zwei Maschinenbauingenieuren mit Spezialisierung auf FEA und CFD. Alle drei verfügen über einen weiterführenden Abschluss in Meerestechnik oder Maschinenbau von
+  international anerkannten Universitäten. Das Team veröffentlicht regelmäßig in Fachzeitschriften und präsentiert auf internationalen Konferenzen zum Engineering im Hochleistungs-Paddelsport.</p>
+
+
+  <h2>Partnerschaft mit uns für Ihren nächsten Rumpf</h2>
+
+  <p>Vom ersten Konzeptentwurf bis zum finalen Spannungsbericht ist unser Hull Engineering Studio Ihr Partner bei der Schaffung eines Boards, das nicht nur gebaut — sondern konstruiert ist. Wir investieren die Simulationsstunden im Voraus, damit jede Schweißnaht, jede Laminatschicht und jede Kurve
+  des Rumpfs einen Grund hat.</p>
+
+  <p>Ob Sie eine geringfügige Änderung an einem bestehenden Modell oder ein völlig neues Konzept benötigen — wir sind bereit, Ihre Anforderungen zu besprechen.</p>
+cta:
+  title: Beginnen Sie Ihre Rumpfdesign-Beratung
+  subtitle: Erzählen Sie uns von Ihrem Missionsprofil und wir werden einen technischen Weg vorschlagen.
+  button_text: Kontaktieren Sie unser Ingenieurteam
+  button_link: /contact/

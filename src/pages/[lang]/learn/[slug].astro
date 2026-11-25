@@ -1,0 +1,303 @@
+---
+export const prerender = true;
+
+import Layout from '~/layouts/PageLayout.astro';
+import JsonLd from '~/components/common/JsonLd.astro';
+import { languages, defaultLang } from '~/i18n/config';
+import { getUiForLang } from '~/i18n/generated/ui-all';
+import learnFrData from '~/data/learn-fr.yaml';
+import learnDeData from '~/data/learn-de.yaml';
+import learnHrData from '~/data/learn-hr.yaml';
+import learnHuData from '~/data/learn-hu.yaml';
+import learnSkData from '~/data/learn-sk.yaml';
+import learnBgData from '~/data/learn-bg.yaml';
+import learnSlData from '~/data/learn-sl.yaml';
+import learnSrData from '~/data/learn-sr.yaml';
+import learnIdData from '~/data/learn-id.yaml';
+import learnHeData from '~/data/learn-he.yaml';
+import learnMsData from '~/data/learn-ms.yaml';
+import learnLtData from '~/data/learn-lt.yaml';
+import learnLvData from '~/data/learn-lv.yaml';
+import learnEtData from '~/data/learn-et.yaml';
+import learnTlData from '~/data/learn-tl.yaml';
+import { withTrailingSlash } from '~/i18n/routing';
+
+export function getStaticPaths() {
+  const slugs = [
+    'sup',
+    'water-safety',
+    'sup-basics',
+    'drop-stitch-core',
+    'inflatable-technology',
+    'intermediate-techniques',
+    'materials',
+    'safety-in-water-sports',
+    'sup-size-guide',
+  ];
+  const paths: Array<{ params: { lang: string; slug: string } }> = [];
+  for (const lang of Object.keys(languages)) {
+    for (const slug of slugs) {
+      paths.push({ params: { lang, slug } });
+    }
+  }
+  return paths;
+}
+
+const { lang, slug } = Astro.params;
+const t = (key: string) => getUiForLang(lang || defaultLang)?.[key] || '';
+
+interface LearnMisc {
+  readGuide: string;
+  techDesc: string;
+  productsDesc: string;
+  trustDesc: string;
+}
+interface LearnEntry {
+  title: string;
+  description: string;
+  articles: Array<{ title: string; desc: string; href: string }>;
+}
+const LOCALE_LEARN: Record<string, { misc?: LearnMisc } & Record<string, LearnEntry>> = {
+  fr: learnFrData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  de: learnDeData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  hr: learnHrData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  hu: learnHuData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  sk: learnSkData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  bg: learnBgData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  sl: learnSlData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  sr: learnSrData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  id: learnIdData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  he: learnHeData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  ms: learnMsData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  lt: learnLtData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  lv: learnLvData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  et: learnEtData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+  tl: learnTlData as { misc?: LearnMisc } & Record<string, LearnEntry>,
+};
+const localeLearn = LOCALE_LEARN[lang || 'en'];
+const DEFAULT_MISC: Record<string, LearnMisc> = {
+  en: {
+    readGuide: 'Read guide →',
+    techDesc: 'Marine safety engineering and material testing',
+    productsDesc: 'Explore the full Afarer product catalog',
+    trustDesc: 'CE, ISO and BSCI compliance',
+  },
+  fr: {
+    readGuide: 'Lire le guide →',
+    techDesc: 'Ingénierie de sécurité marine et tests de matériaux',
+    productsDesc: 'Explorez le catalogue complet de produits afarer',
+    trustDesc: 'Conformité CE, ISO et BSCI',
+  },
+};
+const misc: LearnMisc = localeLearn?.misc ?? DEFAULT_MISC[lang === 'fr' ? 'fr' : 'en'];
+
+const LEARN_PAGES: Record<
+  string,
+  { title: string; description: string; articles: Array<{ title: string; desc: string; href: string }> }
+> = {
+  sup: {
+    title: 'SUP Knowledge — Inflatable SUP Guides & Resources | Afarer',
+    description:
+      'Complete SUP knowledge hub covering beginner guides, board sizing, technique tutorials, safety tips, and inflatable SUP technology.',
+    articles: [
+      {
+        title: "SUP Basics — Beginner's Guide",
+        desc: 'Everything a beginner needs to know — board types, paddle sizing, stance, and first-day tips.',
+        href: '/learn/sup',
+      },
+      {
+        title: 'SUP Size Guide',
+        desc: 'Find the right board length, width, and volume for your weight, skill, and paddling style.',
+        href: '/size-guide',
+      },
+      {
+        title: 'Inflatable vs Hard Board',
+        desc: 'Which is right for you? Portability, performance, durability, and cost compared.',
+        href: '/compare/inflatable-vs-hardboard',
+      },
+      {
+        title: 'Intermediate Techniques',
+        desc: 'Step up your paddling with advanced strokes, turning techniques, and rough-water handling.',
+        href: '/learn/intermediate-techniques',
+      },
+      {
+        title: 'How to Choose an Inflatable SUP',
+        desc: 'Navigate the key factors — construction, thickness, fin setup, and included accessories.',
+        href: '/v2/how-to-choose-inflatable-sup',
+      },
+      {
+        title: 'Water Safety',
+        desc: 'Essential safety knowledge including weather reading, PFD selection, self-rescue, and group paddling.',
+        href: '/learn/water-safety',
+      },
+    ],
+  },
+  'water-safety': {
+    title: 'Water Safety Knowledge — Safe Paddling Guides | Afarer',
+    description:
+      'Comprehensive water safety resources for SUP, kayaking, and boating. Learn about PFD selection, weather reading, self-rescue, cold water safety, and CE certification.',
+    articles: [
+      {
+        title: 'Water Safety Guide',
+        desc: 'Essential safety knowledge for every paddler — weather, PFDs, self-rescue, and group paddling protocols.',
+        href: '/learn/water-safety',
+      },
+      {
+        title: 'Life Jacket & PFD Guide',
+        desc: 'How to choose the right personal flotation device for SUP, kayaking, boating, and professional use.',
+        href: '/v2/life-jacket-buying-guide',
+      },
+      {
+        title: 'SUP Safety Checklist',
+        desc: 'Pre-launch safety checklist every stand-up paddle boarder should follow before hitting the water.',
+        href: '/v2/sup-safety-guide',
+      },
+      {
+        title: 'Cold Water Paddling Safety',
+        desc: 'Essential precautions, gear, and techniques for paddling in cold water conditions.',
+        href: '/v2/cold-water-safety-guide',
+      },
+      {
+        title: 'Beginner Paddling Mistakes',
+        desc: 'Common mistakes first-time paddlers make and how to avoid them for a safer, more enjoyable experience.',
+        href: '/v2/beginner-sup-guide',
+      },
+      {
+        title: 'CE Certification Explained',
+        desc: 'What CE certification means for inflatable SUP boards — the standards, testing, and why it matters for safety.',
+        href: '/trust',
+      },
+    ],
+  },
+  'sup-basics': {
+    title: "SUP Basics — Beginner's Guide to Stand-Up Paddle Boarding",
+    description:
+      "Everything you need to know to start stand-up paddle boarding. Gear guides, sizing advice, safety tips, and beginner techniques from Afarer's knowledge center.",
+    articles: [],
+  },
+  'drop-stitch-core': {
+    title: 'Drop-Stitch Core Technology — How Inflatable SUPs Achieve Rigidity',
+    description:
+      'Deep dive into drop-stitch construction technology: how thousands of polyester threads create rigid inflatable platforms at 15-25 PSI. Thread density, fabric integration, manufacturing process, and performance comparisons.',
+    articles: [],
+  },
+  'inflatable-technology': {
+    title: 'Inflatable SUP Technology — Materials, Construction & Engineering',
+    description:
+      'How inflatable SUP boards are built — material layup, drop-stitch cores, valve systems, RF welding, and quality testing. Understand what makes a durable, high-performance inflatable.',
+    articles: [],
+  },
+  'intermediate-techniques': {
+    title: 'Intermediate SUP & Kayak Techniques — Beyond the Basics',
+    description:
+      'Level up your paddling skills with advanced paddle strokes, rough water handling, wind management, self-rescue techniques, and group paddling etiquette. For paddlers ready to move beyond beginner skills.',
+    articles: [],
+  },
+  materials: {
+    title: 'Inflatable SUP Materials — PVC, EVA & Drop-Stitch Fabric',
+    description:
+      'Comprehensive guide to materials used in inflatable SUP manufacturing: military-grade PVC, EVA foam decking, drop-stitch fabric, carbon fiber, and aluminum alloys. Specifications, applications, and selection criteria.',
+    articles: [],
+  },
+  'safety-in-water-sports': {
+    title: 'Water Sports Safety — Essential Knowledge for Paddlers',
+    description:
+      'Essential safety knowledge for every paddler — weather reading, PFD selection, self-rescue, and group paddling protocols.',
+    articles: [],
+  },
+  'sup-size-guide': {
+    title: 'SUP Size Guide — How to Choose the Right Board Length, Width & Volume',
+    description:
+      'Comprehensive SUP sizing guide covering board length, width, thickness, volume (liters), and rider weight matching. Find the right inflatable SUP size for your weight, skill level, and paddling activity.',
+    articles: [],
+  },
+};
+
+const PAGES: Record<string, LearnEntry> = localeLearn ? { ...LEARN_PAGES, ...localeLearn } : LEARN_PAGES;
+const page = PAGES[slug];
+const pageTitle = t('learn.' + slug + '.title') || page.title;
+const pageDesc = t('learn.' + slug + '.description') || page.description;
+const lArticles = (page.articles || []).map((a) => ({
+  ...a,
+  href: a.href.startsWith('/guides/')
+    ? withTrailingSlash(`/${lang}${a.href}`)
+    : a.href.startsWith('/learn/')
+      ? withTrailingSlash(`/${lang}${a.href}`)
+      : a.href.startsWith('/') && !a.href.startsWith('//')
+        ? withTrailingSlash(`/${lang}${a.href}`)
+        : a.href,
+}));
+
+const metadata = {
+  title: pageTitle,
+  description: pageDesc,
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <JsonLd
+    type="BreadcrumbList"
+    breadcrumbs={[
+      { name: t('breadcrumb.home') || 'Home', href: withTrailingSlash(`/${lang}`) },
+      { name: t('nav.learn') || 'Learn', href: withTrailingSlash(`/${lang}/knowledge`) },
+      { name: pageTitle },
+    ]}
+  />
+
+  <section class="max-w-5xl mx-auto px-6 pt-24 pb-4" data-ai-block="definition">
+    <h1 class="text-4xl font-semibold text-gray-900 dark:text-slate-100">{pageTitle}</h1>
+    <p class="mt-4 text-lg text-gray-500 dark:text-slate-400 max-w-3xl">{pageDesc}</p>
+
+    {
+      lArticles.length > 0 && (
+        <div class="mt-16 grid md:grid-cols-2 gap-6">
+          {lArticles.map((a) => (
+            <a
+              href={a.href}
+              class="group block p-6 rounded-2xl border border-gray-200 dark:border-slate-700 hover:shadow-lg hover:border-sky-300 dark:hover:border-sky-600 transition-all"
+            >
+              <h2 class="font-semibold text-gray-900 dark:text-slate-100 group-hover:text-sky-600 transition-colors">
+                {a.title}
+              </h2>
+              <p class="mt-2 text-sm text-gray-500 dark:text-slate-400 leading-relaxed">{a.desc}</p>
+              <span class="mt-3 inline-block text-sm font-medium text-sky-600">{misc.readGuide}</span>
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </section>
+
+  <section class="max-w-5xl mx-auto px-6 pb-16">
+    <div class="grid md:grid-cols-3 gap-4 text-sm">
+      <a
+        href={withTrailingSlash(`/${lang}/technology`)}
+        class="block p-4 rounded-xl border border-gray-200 dark:border-slate-700 hover:border-sky-300 dark:hover:border-sky-600 transition"
+      >
+        <span class="font-medium text-sky-600">{t('nav.technology') || 'Technology'}</span>
+        <p class="mt-1 text-gray-500 dark:text-slate-400">
+          {misc.techDesc}
+        </p>
+      </a>
+      <a
+        href={withTrailingSlash(`/${lang}/products`)}
+        class="block p-4 rounded-xl border border-gray-200 dark:border-slate-700 hover:border-sky-300 dark:hover:border-sky-600 transition"
+      >
+        <span class="font-medium text-sky-600">{t('product.pageTitle') || 'Products'}</span>
+        <p class="mt-1 text-gray-500 dark:text-slate-400">
+          {misc.productsDesc}
+        </p>
+      </a>
+      <a
+        href={withTrailingSlash(`/${lang}/trust`)}
+        class="block p-4 rounded-xl border border-gray-200 dark:border-slate-700 hover:border-sky-300 dark:hover:border-sky-600 transition"
+      >
+        <span class="font-medium text-sky-600">{t('nav.trust') || 'Trust'}</span>
+        <p class="mt-1 text-gray-500 dark:text-slate-400">
+          {misc.trustDesc}
+        </p>
+      </a>
+    </div>
+  </section>
+</Layout>

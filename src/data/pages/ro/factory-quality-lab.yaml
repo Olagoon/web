@@ -1,0 +1,66 @@
+meta:
+  title: 'Laborator de calitate — testare și control de calitate | {SITE}'
+  description: 'Laborator independent de calitate, cu procese ISO 9001 la afarer: fiecare unitate este testată înainte de expediere pentru a garanta calitatea plăcilor de SUP gonflabile.'
+  keywords:
+    - 'control de calitate SUP'
+    - 'laborator de testare paddle board'
+    - 'fabrica SUP ISO 9001'
+    - 'calitate SUP gonflabil'
+hero:
+  tagline: Laborator de control al calității
+  title: Laborator de testare și asigurarea calității
+  subtitle: Laborator de calitate independent, cu procese ISO 9001 — fiecare unitate testată înainte de expediere
+intro: >-
+  afarer operează un laborator dedicat de control al calității, independent de producție. Fiecare lot de materie primă și fiecare placă finită trece prin protocoale documentate de inspecție înainte de eliberare. Echipa noastră de control al calității raportează direct conducerii, asigurând
+  decizii imparțiale privind calitatea.
+highlights:
+  - value: 100%
+    label: Unități testate sub presiune
+    detail: Fiecare cameră, fiecare placă
+  - value: 24–48 h
+    label: Durata testului de menținere a aerului
+    detail: La 1.25× presiunea nominală
+  - value: '&lt;5%'
+    label: Scăderea maximă admisă a presiunii
+    detail: Perioadă de menținere de 24–48 de ore
+  - value: AQL 2.5
+    label: Prag de defect major
+    detail: Eșantionare conform ISO 2859
+test_procedures:
+  - title: Inspecția Materiilor Prime
+    description: Fiecare lot de PVC, țesătură drop-stitch și feronerie este testat înainte de acceptare. Se verifică rezistența la tracțiune (ASTM D751), rezistența la rupere (ISO 4674) și rezistența la UV. Materialele neconforme sunt izolate și returnate.
+    standards:
+      - ASTM D751 (tracțiune)
+      - ISO 4674 (rezistență la rupere)
+      - ISO 4892 (UV)
+  - title: Puncte de control al calității în proces
+    description: Operatorii de producție efectuează autoinspecția la fiecare etapă. Auditorii de control al calității realizează eșantionări aleatorii pe parcursul schimbului. Testele de delaminare a sudurilor sunt efectuate la fiecare 50 de unități. Verificările dimensionale au loc la fiecare al 20-lea panou.
+    standards:
+      - ASTM D751 (peel)
+      - Listă de verificare internă cu 100 de puncte
+      - Eșantionare conform ISO 2859
+  - title: Test de retenție a aerului pe 24–48 de ore
+    description: Fiecare cameră a tubului este umflată la 125% din presiunea nominală și menținută timp de 24–48 de ore. Senzorii de presiune înregistrează continuu, cu compensare a temperaturii. Orice cameră cu o scădere a presiunii de peste 5% declanșează re-inspecția automată a lotului.
+    standards:
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Testarea sarcinii și a echilibrului
+    description: Plăcile finalizate sunt testate la capacitatea maximă nominală pentru stabilitate și rigiditate. Fiecare placă este testată pe apă înainte de aprobarea inspecției finale.
+    standards:
+      - ISO 12217
+      - CE 2013/53/EU
+equipment:
+  - name: Mașină universală de încercare (tracțiune)
+    spec: 5 kN, conform ASTM D751
+  - name: Pressure Decay Tester
+    spec: Multi-canal, 0–50 psi, înregistrare de date
+  - name: UV Weathering Chamber
+    spec: Cicluri ISO 4892, 1,000 h
+  - name: Indicator de grosime (digital)
+    spec: Rezoluție de 0,01 mm
+  - name: Peel Tester (weld)
+    spec: Motorizat, capacitate de 50 N
+  - name: Temperature Chamber
+    spec: De la -40 °C până la +100 °C
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, iluminat

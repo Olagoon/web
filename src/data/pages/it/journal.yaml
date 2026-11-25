@@ -1,0 +1,22 @@
+meta:
+  title: 'Journal — Articoli e Guide Nautiche | {SITE}'
+  description: 'Il journal afarer: articoli e guide su SUP gonfiabili, paddle boarding, barche e industria nautica.'
+  keywords:
+    - 'journal SUP'
+    - 'articoli paddle board'
+    - 'blog SUP gonfiabile'
+    - 'guide nautiche'
+hero:
+  title: Il diario afarer
+  subtitle: Ultime notizie, avventure nautiche e storie di prodotti dal team afarer.
+latest:
+  tagline: Ultimo
+  title: Guide e Confronti
+  browse_all: Sfoglia tutti e 20 →
+  read: Leggi →
+social_section:
+  tagline: Contenuto × Sociale
+  title: Ogni guida diventa 5 post sui social
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — da ogni articolo.
+  pipeline_cta: Pipeline Sociale →
+  guides_cta: Sfoglia le guide

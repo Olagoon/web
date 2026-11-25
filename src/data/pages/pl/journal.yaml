@@ -1,0 +1,22 @@
+meta:
+  title: 'Dziennik — artykuły i poradniki morskie | {SITE}'
+  description: 'Dziennik afarera: artykuły i poradniki o nadmuchiwanych deskach SUP, paddleboardingu i przemyśle morskim.'
+  keywords:
+    - 'dziennik SUP'
+    - 'artykuły o paddle boardach'
+    - 'blog nadmuchiwanych SUP'
+    - 'poradniki morskie'
+hero:
+  title: Dziennik afarer
+  subtitle: Najnowsze wiadomości, przygody żeglarskie i historie produktów od zespołu afarer.
+latest:
+  tagline: Najnowszy
+  title: Przewodniki i porównania
+  browse_all: Przeglądaj wszystkie 20 →
+  read: Czytaj →
+social_section:
+  tagline: Treść × Społeczności
+  title: Każdy przewodnik staje się 5 postami w mediach społecznościowych
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — z każdego artykułu.
+  pipeline_cta: Kanał społeczny →
+  guides_cta: Przeglądaj poradniki

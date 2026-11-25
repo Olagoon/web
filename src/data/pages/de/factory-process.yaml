@@ -1,0 +1,59 @@
+meta:
+  title: 'Fertigungsprozess — Vom Rohmaterial zum SUP | {SITE}'
+  description: 'Vom Rohmaterial zum seetauglichen SUP: jeder Schritt des Fertigungsprozesses von afarer unter unserer Kontrolle — vom Zuschnitt und Schweißen bis zur Prüfung.'
+  keywords:
+    - 'SUP-Fertigungsprozess'
+    - 'aufblasbare SUP-Fabrik'
+    - 'Paddleboard-Produktionsschritte'
+    - 'PVC-Schweißen SUP'
+hero:
+  tagline: Prozess
+  title: Fertigungsprozess
+  subtitle: Vom Rohmaterial zum wasserfertigen Board — jeder Schritt unter unserer Kontrolle
+  back_label: Zurück zur Fabrik
+  back_link: /factory/
+intro: >-
+  Anders als Marken, die ihre Produktion an Drittfabriken auslagern, besitzt und betreibt afarer seine gesamte Fertigungskette. Diese vertikale Integration ermöglicht es uns, strenge Qualitätskontrollen in jeder Phase aufrechtzuerhalten, schnell auf kundenspezifische Anforderungen zu reagieren und
+  Charge für Charge gleichbleibende Produktqualität zu liefern. So wird ein Board in unserer Anlage gebaut.
+steps:
+  - step: '01'
+    title: Materialeingang & Prüfung
+    description: Jede eingehende Charge von PVC-Gewebe, Glasfasermatte, Harz und Hardware wird spezifikationsgemäß geprüft. Gewebeproben werden vor der Freigabe zur Produktion auf Zugfestigkeit, Dickengleichmäßigkeit und UV-Beständigkeit getestet. Nicht konforme Materialien werden gesperrt und zurückgesandt.
+    duration: 1–2 Tage
+  - step: '02'
+    title: Automatisches PVC-Schneiden
+    description: >-
+      Zugelassene Gewebe werden auf die automatische CNC-Schneidemaschine gelegt und mit submillimetergenauer Präzision geschnitten. Computergestützte optimierte Verschachtelung ordnet die Bahnen so an, dass der Abfall typischerweise unter 5 % bleibt. Die geschnittenen Bahnen werden       nach Boardmodell
+      und Kammer beschriftet und gebündelt an die Schweißwerkstatt übergeben.
+    duration: 2–4 Stunden pro Board-Bausatz
+  - step: '03'
+    title: Schlauch-Heißsiegeln & Schweißen
+    description: >-
+      Die Bahnen werden mit Heißsiegelmaschinen  durch Heißluftschweißen bei kontrollierten Temperaturen von 200–300 °C geheftet und verbunden. Hauptnähte werden mittels HF-Dielektrikumsschweißen für luftdichte, hochfeste Verbindungen verstärkt. Fertige Kammern werden für 30 Minuten auf 1,5-fachen
+      Arbeitsdruck zur Luftdichtigkeitsvalidierung aufgeblasen.
+    duration: 1–2 Tage pro Board
+  - step: '04'
+    title: SUP-Druck & Dekoration
+    description: SUP-Brett-Deckgrafiken werden mittels Digitaldruck für vollfarbige fotorealistische Designs und Siebdruck für haltbare Logos und sich wiederholende Muster aufgebracht. Die Drucke werden für UV- und Abriebbeständigkeit ausgehärtet und versiegelt.
+    duration: 1–2 Tage
+  - step: '05'
+    title: Endmontage & Rigging
+    description: >-
+      Boards werden auf der Montagelinie mit Finnen, Ventilen, EVA-Decks und Zubehör ausgerüstet. Jede Einheit durchläuft eine
+      100-Punkte-Montage-Checkliste mit obligatorischer Freigabe in jeder Phase.
+    duration: 2–4 Tage
+  - step: '06'
+    title: Qualitätsprüfung & Inspektion
+    description: >-
+      Jedes fertige Board durchläuft eine obligatorische Qualitätskontrolle: Kammer-Luftdichtheitstest, Funktionsprüfung der Hardware, Drehmomentprüfung der Befestigungselemente und kosmetische Inspektion. Kundenspezifische und Prototypenbauten erhalten zusätzlich Wassererprobungen zu Stabilität
+      und Handhabung.
+    duration: 1–2 Tage
+  - step: '07'
+    title: Verpackung & Versand
+    description: Die Boards werden entlüftet, verfahrensgemäß gefaltet, in robuste Textiltaschen oder Sperrholzkisten verpackt und für den Versand verladen. Jede Verpackung ist mit Modell, Seriennummer und Zielort gekennzeichnet. Wir koordinieren mit Spediteuren für FCL- und LCL-Containerlieferungen weltweit.
+    duration: 1 Tag
+cta:
+  title: Sehen Sie unsere Ausrüstung und Maschinen
+  desc: Entdecken Sie die industriellen Maschinen hinter jedem afarer-Board.
+  label: Ausrüstung anzeigen →
+  link: /factory/equipment/

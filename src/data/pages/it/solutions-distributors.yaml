@@ -1,0 +1,50 @@
+meta:
+  title: Programma Partner di Distribuzione SUP | {SITE}
+  description: Unisciti alla rete di distribuzione globale di Afarer. Territori esclusivi, portafoglio prodotti completo, prezzi all'ingrosso competitivi e gestione account dedicata.
+hero:
+  tagline: Distributori
+  title: Unisciti alla nostra rete di distribuzione globale
+  subtitle: Territori esclusivi. Portafoglio prodotti completo. Supporto di livello mondiale. Afarer spedisce in oltre 50 paesi e stiamo cercando distributori affermati di articoli per il mare e sport acquatici.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Distribuzione globale Afarer e operazioni di spedizione
+benefits:
+  title: Cosa ottengono i distributori
+  subtitle: Tutto ciò di cui hai bisogno per avere successo nel tuo mercato.
+  items:
+    - Diritti esclusivi sul territorio
+    - Catalogo completo dei prodotti (SUP, accessori, pezzi di ricambio)
+    - Prezzi all'ingrosso competitivi
+    - Materiali di marketing e vendite (tradotti)
+    - Programma di formazione (prodotto, vendite, manutenzione)
+    - Supporto per fiere commerciali
+    - Programma di esempio
+    - Capacità di dropshipping
+    - Responsabile account distributore dedicato
+    - Termini di pagamento da 45 a 60 giorni
+coverage:
+  title: Distribuzione Attuale
+  subtitle: Afarer attualmente serve direttamente questi mercati.
+  regions:
+    - name: Europa
+      countries: Francia, Germania, Regno Unito, Spagna, Italia, Paesi Bassi, Svezia, Norvegia, Polonia, Grecia
+    - name: Asia
+      countries: Giappone, Corea del Sud, Cina, Thailandia, Singapore
+    - name: Medio Oriente
+      countries: EAU, Arabia Saudita
+    - name: Americhe
+      countries: USA, Canada, Brasile, Messico
+    - name: Oceania
+      countries: Australia, Nuova Zelanda
+    - name: Africa
+      countries: Sudafrica, Marocco
+cta:
+  title: Pronto a diventare un distributore?
+  subtitle: Candidati al nostro programma per distributori o scarica il nostro kit informativo per distributori.
+  actions:
+    - text: Candidati al Programma Distributori
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Scarica il Kit del Distributore
+      href: /resources/download-catalog/
+      variant: secondary

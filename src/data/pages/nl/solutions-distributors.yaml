@@ -1,0 +1,50 @@
+meta:
+  title: SUP Distributie Partnerprogramma | {SITE}
+  description: Word lid van Afarer's wereldwijde distributienetwerk. Exclusieve gebieden, compleet productportfolio, concurrerende groothandelsprijzen en toegewijd accountbeheer.
+hero:
+  tagline: Distributeurs
+  title: Word lid van ons wereldwijde<br />distributienetwerk
+  subtitle: Exclusieve territoria. Volledig productportfolio. Wereldklasse ondersteuning. Afarer verzendt naar meer dan 50 landen en we zijn op zoek naar gevestigde marine- en watersportdistributeurs.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Afarer wereldwijde distributie- en verzendingsactiviteiten
+benefits:
+  title: Wat distributeurs krijgen
+  subtitle: Alles wat je nodig hebt om succesvol te zijn in jouw markt.
+  items:
+    - Exclusieve territoriumrechten
+    - Volledige productcatalogus (SUP, accessoires, onderdelen)
+    - Concurrerende groothandelsprijzen
+    - Marketing- en verkoopmaterialen (vertaald)
+    - Opleidingsprogramma (product, verkoop, onderhoud)
+    - Beurs ondersteuning
+    - Voorbeeldprogramma
+    - Drop-shipping mogelijkheid
+    - Toegewijde accountmanager voor distributeurs
+    - Betalingsvoorwaarden van 45-60 dagen
+coverage:
+  title: Huidige distributie
+  subtitle: Afarer bedient momenteel deze markten rechtstreeks.
+  regions:
+    - name: Europa
+      countries: Frankrijk, Duitsland, VK, Spanje, Italië, Nederland, Zweden, Noorwegen, Polen, Griekenland
+    - name: Azië
+      countries: Japan, Zuid-Korea, China, Thailand, Singapore
+    - name: Midden-Oosten
+      countries: VAE, Saoedi-Arabië
+    - name: Amerika
+      countries: VS, Canada, Brazilië, Mexico
+    - name: Oceanië
+      countries: Australië, Nieuw-Zeeland
+    - name: Afrika
+      countries: Zuid-Afrika, Marokko
+cta:
+  title: Klaar om distributeur te worden?
+  subtitle: Meld u aan voor ons distributeursprogramma of download ons informatiepakket voor distributeurs.
+  actions:
+    - text: Aanmelden voor het distributeursprogramma
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Download distributeurskit
+      href: /resources/download-catalog/
+      variant: secondary

@@ -1,0 +1,97 @@
+meta:
+  title: Programa de Socios Minoristas SUP | {SITE}
+  description: Programa de socios de mayoreo SUP para minoristas y tiendas de artículos deportivos. Línea completa de productos, opciones de dropshipping, márgenes mayoristas competitivos del 20–35% y MOQ bajo para comenzar.
+hero:
+  tagline: Socios minoristas
+  title: Vende tablas SUP inflables premium<br />con márgenes que funcionan
+  subtitle: Conviértase en socio minorista de Afarer — lleve la marca SUP de mayor crecimiento en su mercado con precios de mayoreo completos, dropshipping, materiales de marketing profesionales y soporte dedicado.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Tablas SUP de Afarer exhibidas en una tienda minorista
+margin_section:
+  title: Márgenes Minoristas y MOQ
+  subtitle: Niveles de precios al por mayor diseñados para la rentabilidad minorista.
+  items:
+    - tier: Socio Básico
+      discount: 20%
+      moq: 500 unidades/año
+      margin_note: ~$150–250 de ganancia por tablero
+      features:
+        - Acceso a la línea completa de productos
+        - Paquete de materiales de marketing
+        - Soporte por correo electrónico
+        - Acceso al catálogo de productos
+    - tier: Socio Premium
+      discount: 30%
+      moq: 2,000 unidades/año
+      margin_note: ~$250–400 de ganancia por tablero
+      features:
+        - Gerente de cuenta dedicado
+        - Protección de territorio exclusivo
+        - Soporte de marketing personalizado
+        - Primer acceso a nuevos productos
+        - Sesiones de capacitación del personal
+    - tier: Socio Principal
+      discount: 35%
+      moq: 5,000 unidades/año
+      margin_note: ~$350–500 de ganancia por tabla
+      features:
+        - Campañas de marketing co-marcadas
+        - Soporte para exhibición en tienda
+        - Capacitación del personal en el lugar
+        - Promociones conjuntas en redes sociales
+        - Asignación de producción prioritaria
+product_line:
+  title: Línea de productos completa
+  subtitle: Una tabla de SUP para cada cliente que entre por tu puerta.
+  items:
+    - name: All-Round Series
+      description: Más vendido — se adapta al 80% de los clientes
+    - name: Touring Series
+      description: Palistas de alto rendimiento — mayor margen
+    - name: Yoga Series
+      description: Mercado nicho — precios premium
+    - name: Kids Series
+      description: 'Clientes familiares: comprador recurrente'
+    - name: Racing Series
+      description: Mercado entusiasta — halo de la marca
+    - name: Accessories
+      description: Complementos de alto margen (paletas, chalecos, bombas, bolsas)
+catalog:
+  title: Recursos para Socios Minoristas
+  subtitle: Descargue nuestro completo kit para socios minoristas.
+  items:
+    - name: 2026 Product Catalog
+      desc: Gama completa con especificaciones, precios e información para pedidos
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Calculadora de márgenes, consejos de comercialización y mejores prácticas
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Fotos de productos en alta resolución, imágenes de estilo de vida y materiales de punto de venta
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Soporte para Socios Minoristas
+  subtitle: Todo lo que necesitas para vender con confianza.
+  items:
+    - Imágenes de producto de alta resolución (fotografía profesional)
+    - Fotos de estilo de vida para redes sociales, sitio web y catálogo
+    - Materiales de marketing — carteles, indicadores de estantería, pancartas
+    - Videos de capacitación de productos para la educación del personal
+    - Paquete de contenido para redes sociales (publicaciones semanales)
+    - Descripciones de productos optimizadas para SEO
+    - Opción de dropshipping disponible — sin riesgo de inventario
+    - Términos de pago a 30 días netos
+cta:
+  title: ¿Listo para convertirse en socio minorista de Afarer?
+  subtitle: Solicite la asociación o descargue nuestro catálogo minorista para comenzar.
+  actions:
+    - text: Solicitar asociación
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Descargar catálogo minorista
+      href: /resources/download-catalog/
+      variant: secondary

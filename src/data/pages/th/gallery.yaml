@@ -1,0 +1,31 @@
+meta:
+  title: 'แกลเลอรี — ซัพเป่าลม | {SITE}'
+  description: 'สำรวจแกลเลอรีของ afarer: บอร์ด SUP เป่าลม โรงงาน และภาพการผลิตจากโรงงานพายบอร์ดมืออาชีพของเรา'
+  keywords:
+    - 'ภาพ SUP'
+    - 'แกลเลอรีซัพเป่าลม'
+    - 'ภาพพายบอร์ด'
+    - 'ภาพซัพเป่าลม'
+hero:
+  tagline: แกลเลอรี
+  title: แกลเลอรี
+  subtitle: ภาพผลิตภัณฑ์ สายการผลิตโรงงาน และการผจญภัยบนผืนน้ำ
+albums:
+  - title: บอร์ด SUP
+    desc: บอร์ด SUP เป่าลมแบบ drop-stitch สำหรับการพายท่องเที่ยว เล่นเซิร์ฟ โยคะ และตกปลา
+    images:
+      - https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+      - https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp
+  - title: โรงงานและเวิร์กช็อป
+    desc: โรงงานผลิตขนาด 12,000 ตร.ม. ของเราที่เมืองชิงเต่า ประเทศจีน
+    images:
+      - https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+cta:
+  title: อยากดูเพิ่มเติมหรือไม่?
+  desc: ติดตามเราบนโซเชียลมีเดียสำหรับข่าวผลิตภัณฑ์ใหม่ล่าสุด ความเคลื่อนไหวจากโรงงาน และเรื่องราวการผจญภัยของลูกค้า
+  instagram: Instagram
+  youtube: YouTube

@@ -1,0 +1,63 @@
+meta:
+  title: 'حلول الأعمال — SUP لكل شركة | {SITE}'
+  description: 'حلول أعمال afarer: أساطيل SUP للمنتجعات، والأندية، والتأجير، والتوزيع، والعلامات الخاصة. مورّد محترف للمعدات البحرية B2B.'
+  keywords:
+    - 'حلول أعمال SUP'
+    - 'مورّد ألواح التجديف القابلة للنفخ'
+    - 'معدات بحرية B2B'
+    - 'مصنّع ألواح SUP القابلة للنفخ'
+hero:
+  tagline: حلول الأعمال
+  title: حلول SUP<br />لكل الأعمال
+  subtitle: من المنتجعات إلى التجزئة، ومن مشغلي الإيجار إلى الموزعين العالميين — تقدم afarer حلول SUP كاملة مصممة خصيصًا لنموذج عملك.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: ألواح SUP من Afarer للتطبيقات التجارية والمهنية
+stats:
+  title: afarer في لمحة
+  stats:
+    - title: سنوات من الخبرة
+      amount: منذ عام 2012
+    - title: حلول مخصصة
+      amount: 100+
+    - title: الأسواق المخدومة
+      amount: أكثر من 50
+    - title: الألواح المسلّمة
+      amount: '15,000+'
+features3_solutions:
+  tagline: حلول حسب نوع النشاط
+  title: ألواح SUP مصممة خصيصًا<br />لعملك
+  isBeforeContent: false
+  columns: 2
+  items:
+    - title: المنتجعات والفنادق
+      description: برامج أساطيل SUP كاملة للمنشآت الفندقية — ألواح متينة، وهوية بصرية مخصصة، ودعم تدريب الموظفين.
+      icon: tabler:building
+      link: /solutions/resorts-hotels/
+    - title: أندية التجديف
+      description: أساطيل ألواح SUP موثوقة لأندية التجديف وبرامج الدروس وعمليات العضويات — ألواح بجودة تجارية وأسعار مخصصة للأندية.
+      icon: tabler:users
+      link: /solutions/paddle-clubs/
+    - title: مشغلو التأجير
+      description: ألواح SUP عالية الاستخدام مصممة هندسيًا للاستخدام اليومي في التأجير. مقاومة للأشعة فوق البنفسجية، سريعة الجفاف، وقابلة للتكديس — صُممت لتتحمل ضغط عمليات التأجير.
+      icon: tabler:currency-dollar
+      link: /solutions/rental-operators/
+    - title: شركاء التجزئة
+      description: 'بِع أسرع علامات SUP نمواً في سوقك: خط منتجات كامل، مواد تسويقية، شحن مباشر (Dropshipping)، وهوامش ربح تنافسية.'
+      icon: tabler:shopping-cart
+      link: /solutions/retail-partners/
+    - title: الموزعون
+      description: مناطق حصرية، ومجموعة منتجات كاملة، وإدارة حسابات مخصصة. انضم إلى شبكتنا التوزيعية العالمية في أكثر من 50 دولة.
+      icon: tabler:world
+      link: /solutions/distributors/
+    - title: ابنِ علامتك التجارية الخاصة
+      description: تصنيع ألواح SUP بالكامل وفق معايير OEM/ODM من البداية إلى النهاية — التصميم، والنماذج الأولية، والإنتاج الضخم، والخدمات اللوجستية. أطلق علامتك التجارية مع Afarer.
+      icon: tabler:package
+      link: /solutions/build-your-own-brand/
+cta:
+  title: لست متأكدًا من الحل الذي يناسب احتياجاتك؟
+  subtitle: صف لنا طريقة استخدامك وسنوصي بالتهيئة الأنسب.
+  actions:
+    - variant: primary
+      text: احصل على توصية
+      href: /contact/

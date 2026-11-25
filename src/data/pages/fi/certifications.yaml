@@ -1,0 +1,68 @@
+meta:
+  title: 'Sertifioinnit — CE, ISO 9001 ja vaatimustenmukaisuus | {SITE}'
+  description: 'afarerin laatusertifioinnit: CE (EN ISO 25649), ISO 9001:2015, BSCI. Vaatimustenmukaisuus ja turvallisuus täytettävien SUP-lautojen valmistajalle.'
+  keywords:
+    - 'CE-sertifiointi paddle board'
+    - 'ISO 9001 paddle board'
+    - 'merellinen vaatimustenmukaisuus'
+    - 'paddle board -sertifiointi'
+hero:
+  tagline: Sertifikaatit ja standardit
+  title: Laatusertifioinnit<br />& Vaatimustenmukaisuusstandardit
+  subtitle: afarer tuotteet valmistetaan kansainvälisten meriturvallisuusstandardien, laadunhallintajärjestelmien ja ympäristömääräysten mukaisesti.
+  image:
+    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
+    alt: afarerin laatutodistukset ja vaatimustenmukaisuusasiakirjat
+content_certifications:
+  tagline: Sertifikaattimme
+  title: Sertifioitu laatu,<br />maailmanlaajuisesti tunnustettu
+  subtitle: Jokaista afarer-tuotetta tukevat sertifioinnit, jotka osoittavat sitoutumisemme laatuun, turvallisuuteen ja ympäristövastuuseen.
+  items:
+    - title: CE-sertifioitu
+      description: Kaikki afarer-tuotteet täyttävät eurooppalaiset CE-merkintävaatimukset vapaa-ajan vesikulkuneuvoille varmistaen turvallisuus-, terveys- ja ympäristönsuojelustandardien täyttymisen.
+      icon: tabler:certificate
+    - title: ISO 9001:2015
+      description: Laadunhallintajärjestelmämme on ISO 9001:2015 -sertifioitu ja kattaa täytettävien vesialusten ja merivarusteiden suunnittelun, valmistuksen ja jakelun.
+      icon: tabler:clipboard-check
+    - title: UKCA-merkitt
+      description: Ison-Britannian markkinoilla myytävät tuotteet kantavat UKCA-merkinnän, joka vahvistaa Ison-Britannian merivarusteita ja henkilökohtaisia vesikulkuneuvoja koskevien määräysten noudattamisen.
+      icon: tabler:shield
+    - title: BSCI-vaatimukset täyttävä
+      description: afarer on BSCI (Business Social Compliance Initiative) -auditoitu, mikä osoittaa eettisiä valmistuskäytäntöjä, oikeudenmukaisia työoloja ja toimitusketjun vastuullisuutta.
+      icon: tabler:heart-handshake
+    - title: REACH-määräysten mukainen
+      description: Kaikki afarer-tuotteissa käytetyt materiaalit täyttävät EU:n REACH-asetuksen kemikaaliturvallisuusvaatimukset, mikä varmistaa, että PVC:ssämme, EVA:ssamme tai komponenteissamme ei ole rajoitettuja aineita.
+      icon: tabler:flask
+    - title: Materiaalitestaus
+      description: Kankaat testataan vetolujuuden, repäisylujuuden, UV-hajoamisen ja kylmämurtumisen suhteen. Jokainen tuotantoerä näytteistetään ja varmennetaan.
+      icon: tabler:test-pipe
+content_factory:
+  tagline: Tehdasstandardit
+  title: Valmistuksen erinomaisuus<br />— rakennettu määritysten mukaan
+  subtitle: 12 000 m² laitoksemme toimii tiukkojen laadunvalvontaprotokollien alla jokaisessa tuotantovaiheessa.
+  list:
+    - 'Tulevan materiaalin tarkastus: Kaikki raaka-aineet — PVC-kangas, EVA-vaahto, liimat, metallitarvikkeet — testataan vaatimusten mukaisesti ennen tuotantoon siirtymistä.'
+    - 'Tuotannon aikainen laadunvalvonta: Jokaisessa tuotantovaiheessa on dokumentoidut laadunvalvontapisteet. Hitsauslujuus, saumojen kohdistus, venttiilien asennus ja kiinnitysten kiristysmomentit tarkistetaan linjassa.'
+    - 'Paineentestaus: Jokainen täytettävä kammio testataan 1.25× nimellispaineella 24–48 tunnin ajan. Hyväksytyn tuloksen edellytyksenä on alle 5 %:n paineen lasku.'
+    - 'Lopputarkastus: Valmiit tuotteet tarkastetaan mittatarkkuuden, pintakäsittelyn, lisävarusteiden täydellisyyden ja pakkauksen eheyden osalta ennen toimitusta.'
+    - 'Eräjorjettavuus: Jokaisella tuotteella on sarjanumero, joka on linkitetty tuotantosarjatietueisiin, mikä mahdollistaa täyden jäljitettävyyden raaka-aineen valmiiksi tuotettuun tavaraan.'
+content_safety:
+  tagline: Meriturvallisuusstandardit
+  title: Turvallisuus ensin<br />— suunniteltu luotettavaan käyttöön
+  subtitle: afarer-tuotteet on suunniteltu ja testattu täyttämään kansainväliset meriturvallisuusstandardit kaupalliseen ja virkistyskäyttöön.
+  items:
+    - title: EN ISO 25649
+      description: Täytettävät SUP-laudat täyttävät EN ISO 25649 -standardit rakenteen, vakauden, kelluvuuden ja kantavuuden osalta.
+      icon: tabler:sailboat
+    - title: SOLAS-vaatimukset täyttävä
+      description: Turvallisuusvarusteet ja pelastusvälineet täyttävät SOLAS-vaatimukset (Safety of Life at Sea) soveltuvin osin.
+      icon: tabler:lifebuoy
+cta:
+  title: Tarvitsetko sertifioituja tuotteita projektiisi?
+  subtitle: Ota yhteyttä tiimiimme keskustellaksesi sertifiointivaatimuksista, dokumentaatiosta ja vaatimustenmukaisuudesta markkinoillasi.
+  actions:
+    - variant: primary
+      text: Pyydä sertifikaatit
+      href: /contact/
+    - text: Katso laatukkomme sivu
+      href: /quality/

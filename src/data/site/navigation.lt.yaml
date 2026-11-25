@@ -1,0 +1,141 @@
+header:
+  topBar: []
+  links:
+    - text: Produktai
+      links:
+        - text: SUP lentos
+          href: /inflatable-sup/
+        - text: Universalios SUP
+          href: /all-around-sup/
+        - text: Turizmo SUP
+          href: /touring-sup/
+        - text: Jogos SUP
+          href: /yoga-sup/
+        - text: SUP vaikams
+          href: /kids-sup/
+        - text: Žvejybos SUP
+          href: /fishing-sup/
+        - text: SUP kalnų upėms
+          href: /whitewater-sup/
+        - text: Itin stabilios SUP
+          href: /ultra-stable-sup/
+        - text: Priedai
+          href: /sup-accessories/
+    - text: Pagal paskirtį
+      links:
+        - text: Pradedantiesiems
+          href: /use-cases/beginner/
+        - text: Turai & atstumai
+          href: /use-cases/touring/
+        - text: Žvejyba ant SUP
+          href: /use-cases/fishing/
+        - text: Šeimos poilsis
+          href: /use-cases/family-recreation/
+        - text: Turai upėmis
+          href: /use-cases/river-touring/
+        - text: Turizmas & poilsis
+          href: /use-cases/tourism-recreation/
+        - text: Visos paskirtys
+          href: /use-cases/
+    - text: Atraskite Afarer
+      links:
+        - text: Kodėl Afarer
+          href: /afarer-story/
+        - text: Technologijos ir medžiagos
+          href: /technology/
+        - text: Kokybė ir saugumas
+          href: /quality/
+        - text: Istorijos ir vadovai
+          href: /journal/
+        - text: Apie Afarer
+          href: /about/
+    - text: Pagalba
+      links:
+        - text: Garantija ir pretenzijos
+          href: /warranty/
+        - text: FAQ
+          href: /faq/
+        - text: Atsisiuntimai ir instrukcijos
+          href: /resources/download-catalog/
+        - text: Susisiekite su pagalba
+          href: /contact/
+  actions:
+    - text: Kur pirkti
+      href: /where-to-buy/
+      variant: primary
+footer:
+  links:
+    - title: Produktai
+      links:
+        - text: SUP lentos
+          href: /inflatable-sup/
+        - text: Universalios SUP
+          href: /all-around-sup/
+        - text: Turizmo SUP
+          href: /touring-sup/
+        - text: Jogos SUP
+          href: /yoga-sup/
+        - text: SUP vaikams
+          href: /kids-sup/
+        - text: Žvejybos SUP
+          href: /fishing-sup/
+        - text: SUP kalnų upėms
+          href: /whitewater-sup/
+        - text: Itin stabilios SUP
+          href: /ultra-stable-sup/
+        - text: Priedai
+          href: /sup-accessories/
+    - title: Atraskite Afarer
+      links:
+        - text: Kodėl Afarer
+          href: /afarer-story/
+        - text: Technologijos ir medžiagos
+          href: /technology/
+        - text: Kokybė ir saugumas
+          href: /quality/
+        - text: Istorijos ir vadovai
+          href: /journal/
+        - text: Apie Afarer
+          href: /about/
+    - title: Pagalba
+      links:
+        - text: Kur pirkti
+          href: /where-to-buy/
+        - text: Garantija ir pretenzijos
+          href: /warranty/
+        - text: FAQ
+          href: /faq/
+        - text: Atsisiuntimai ir instrukcijos
+          href: /resources/download-catalog/
+        - text: Susisiekite su pagalba
+          href: /contact/
+    - title: Verslo partneriams
+      links:
+        - text: Bendras prekės ženklas su Afarer
+          href: /co-brand/
+        - text: Klubams ir kurortams
+          href: /solutions/resorts-hotels/
+        - text: Mažmeninės prekybos partneriams
+          href: /solutions/retail-partners/
+        - text: Raskite platintoją
+          href: /distributor-program/
+        - text: Platintojams
+          href: /solutions/distributors/
+  secondaryLinks:
+    - text: Sąlygos
+      href: /terms/
+    - text: Privatumo politika
+      href: /privacy/
+    - text: Medicinis atsakomybės apribojimas
+      href: /disclaimer/
+  socialLinks:
+    - text: YouTube
+      href: https://www.youtube.com/@afarer
+    - text: X
+      href: https://x.com/afarer
+    - text: Instagram
+      href: https://www.instagram.com/afarer_watersports/
+    - text: Facebook
+      href: https://www.facebook.com/profile.php?id=61572404318679
+    - text: RSS
+      href: /rss.xml

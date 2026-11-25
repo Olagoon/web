@@ -1,0 +1,66 @@
+meta:
+  title: Soluções de Frota de Aluguel de SUP | {SITE}
+  description: Pranchas de SUP de alta rotação projetadas para uso diário em aluguel. PVC resistente aos raios UV, costuras reforçadas, materiais de secagem rápida. Expanda seu negócio de aluguel com a Afarer.
+hero:
+  tagline: Operadores de Aluguel
+  title: Escale Seu Negócio de Aluguel<br />Com Confiança
+  subtitle: Pranchas de SUP de alta rotação projetadas para uso diário em aluguel, 365 dias por ano. Sua receita nunca tira um dia de folga.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Quiosque de aluguel movimentado com pranchas de SUP prontas para os hóspedes
+features:
+  title: Construído para a rotina de locação
+  subtitle: Cada prancha é projetada para 500 ciclos de aluguel com manutenção mínima.
+  items:
+    - title: 500 Ciclos de Aluguel
+      description: Testado para sobreviver ao uso diário em água salgada, sol e areia.
+      icon: tabler:shield-check
+    - title: Tecido Resistente aos Raios UV
+      description: Sem desbotamento ou degradação após 1 ano de armazenamento ao ar livre.
+      icon: tabler:sun
+    - title: Costuras Reforçadas
+      description: 3 vezes mais resistente que a construção padrão de prancha inflável.
+      icon: tabler:layers-intersect
+    - title: Materiais de Secagem Rápida
+      description: Pranchas prontas para o próximo aluguel em menos de 30 minutos.
+      icon: tabler:droplet
+    - title: Armazenamento Empilhável
+      description: Design que economiza espaço — armazene 40% mais pranchas na mesma área.
+      icon: tabler:stack
+    - title: Tamanhos Codificados por Cor
+      description: A equipe pega o quadro correto instantaneamente com tamanho codificado por cores.
+      icon: tabler:color-swatch
+stats:
+  title: Métricas de Operações
+  stats:
+    - title: Rotatividade do Conselho
+      amount: < 5 min
+    - title: Manutenção Anual
+      amount: ~15 min/tábua
+    - title: Despacho de Peças
+      amount: 48h
+    - title: Taxa de Defeito
+      amount: < 0,5%
+fleet_guide:
+  title: Guia de Dimensionamento de Frota
+  subtitle: Estime o tamanho da frota e o potencial de receita para sua operação de aluguel.
+  tiers:
+    - label: Pequeno Quiosque
+      boards: 15-20
+      revenue: R$XX.XXX/ano
+    - label: Operação de Médio Porte
+      boards: 30-50
+      revenue: R$XX.XXX/ano
+    - label: Grande Aluguel de Praia
+      boards: 50-100
+      revenue: R$XXX.XXX/ano
+cta:
+  title: Pronto para expandir seu negócio de aluguel?
+  subtitle: Obtenha preços de aluguel ou compare modelos de prancha para a sua operação.
+  actions:
+    - text: Obter Preço de Aluguel
+      href: /contact/?package=rental
+      variant: primary
+    - text: Comparar Modelos de Placas
+      href: /compare/
+      variant: secondary

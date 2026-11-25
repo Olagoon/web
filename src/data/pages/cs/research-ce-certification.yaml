@@ -1,0 +1,72 @@
+meta:
+  title: Jak funguje certifikace CE pro nafukovací plavidla | {SITE}
+  description: Kompletní průvodce certifikací CE pro nafukovací SUP a kajaky. Příslušné směrnice (2013/53/EU RCD, PPE 2016/425), zkušební protokoly, notifikované osoby, požadavky na technickou dokumentaci a povinnosti výrobce.
+back_text: Zpět na výzkum
+hero:
+  tagline: Shoda s předpisy
+  title: Jak funguje certifikace CE pro nafukovací plavidla
+  subtitle: 7 minut čtení
+content_html: >-
+  <h2>Co je certifikace CE?</h2>
+
+  <p>Označení CE (Conformit&eacute; Europ&eacute;enne) znamená, že výrobek splňuje požadavky EU na zdraví, bezpečnost a ochranu životního prostředí. U nafukovacích plavidel závisí příslušný regulační rámec na kategorii výrobku.</p>
+
+
+  <h2>Použitelné směrnice</h2>
+
+
+  <h3>Směrnice o rekreačních plavidlech (2013/53/EU)</h3>
+
+  <p>Hlavní směrnice pro rekreační plavidla v EU. Nafukovací SUP prkna do 2,4 m spadají mimo její rozsah a jsou místo toho certifikována podle EN ISO 25649.</p>
+
+
+  <h3>Nařízení o osobních ochranných prostředcích (2016/425)</h3>
+
+  <p>Záchranné vesty, nadnášecí pomůcky a bezpečnostní vybavení dodávané k plavidlům musí splňovat požadavky nařízení o osobních ochranných prostředcích (PPE), včetně přezkoušení typu (modul B) notifikovaným subjektem a zajištění kvality výroby (modul D nebo E).</p>
+
+
+  <h2>Proces certifikace</h2>
+
+  <ol>
+    <li>Klasifikace výrobku: Určete konstrukční kategorii plavidla (A – D dle ISO 8666)</li>
+    <li>Použitelné normy: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (výrobní štítek)</li>
+    <li>Příprava technické dokumentace: konstrukční výkresy, kusovník materiálů, materiálové certifikáty, posouzení rizik</li>
+    <li>Zkoušky typu: vztlak, stabilita, nosnost, zkoušky materiálů, pevnost svarů, udržení vzduchu</li>
+    <li>Kontrola výroby v závodě: audit výrobních procesů notifikovaným subjektem</li>
+    <li>Prohlášení o shodě: výrobce podepíše prohlášení o shodě (DoC) a opatří výrobek označením CE</li>
+  </ol>
+
+
+  <h2>Notifikované subjekty pro nafukovací plavidla</h2>
+
+  <p>Mezi běžné notifikované subjekty patří Bureau Veritas (Francie), DNV GL (Německo), RINA (Itálie), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Německo).</p>
+
+
+  <h2>Časový plán a náklady</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Fáze</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Doba trvání</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typické náklady (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Příprava technické dokumentace</td><td class="p-3 border">2 – 4 týdny</td><td class="p-3 border">2,000 – 5,000</td></tr>
+      <tr><td class="p-3 border">Zkoušky typu</td><td class="p-3 border">4 – 8 týdnů</td><td class="p-3 border">8,000 – 20,000</td></tr>
+      <tr><td class="p-3 border">Audit továrny</td><td class="p-3 border">1 – 2 dny (na místě)</td><td class="p-3 border">3,000 – 6,000</td></tr>
+      <tr><td class="p-3 border">Celkem (první výrobek)</td><td class="p-3 border">8 – 14 týdnů</td><td class="p-3 border">13,000 – 31,000</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Co to znamená pro kupující</h2>
+
+  <p>Při nákupu nafukovacích SUP prken s certifikací CE vždy ověřte, že se označení CE nachází na výrobním štítku, že existuje platné prohlášení o shodě (DoC), že je uvedeno číslo notifikovaného subjektu a že uživatelská příručka obsahuje bezpečnostní pokyny ve vašem jazyce. Všechny výrobky afarer nesou
+  certifikaci CE s plnou sledovatelností až k protokolům z auditů notifikovaných subjektů.</p>
+cta:
+  title: Potřebujete podporu s certifikací CE?
+  subtitle: Certifikaci za naše partnery OEM vyřizujeme po celém světě.
+  button_text: Zahájit proces certifikace
+  button_link: /contact/

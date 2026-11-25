@@ -1,0 +1,99 @@
+meta:
+  title: 'Vyžádejte si nabídku — OEM výroba SUP | {SITE}'
+  description: 'Vyžádejte si podrobnou nabídku pro váš projekt nafukovacího SUP prkna. Výroba OEM/ODM, privátní značka nebo flotily na míru — odpovídáme do 2 pracovních dnů.'
+  keywords:
+    - 'vyžádání nabídky SUP'
+    - 'nabídka OEM paddleboardy'
+    - 'nabídka SUP továrny'
+    - 'cena nafukovacího SUP'
+hero_text:
+  tagline: Vyžádat cenovou nabídku
+  title: Požádat o cenovou nabídku<br />pro váš projekt
+  subtitle: Sdělte nám své požadavky a náš tým vám odpoví podrobnou cenovou nabídkou do 2 pracovních dnů.
+steps2_process:
+  title: Jak to funguje
+  subtitle: Čtyři jednoduché kroky od poptávky k cenové nabídce.
+  items:
+    - title: 'Krok 1: Zašlete své požadavky'
+      description: Vyplňte formulář níže s typem produktu, množstvím a specifikacemi. Čím více podrobností poskytnete, tím přesnější bude vaše cenová nabídka.
+      icon: tabler:file-text
+    - title: 'Krok 2: Posoudíme a poradíme'
+      description: Náš inženýrský tým zkontroluje vaše požadavky a může vás kontaktovat pro upřesnění. Poskytujeme doporučení ohledně konfigurace produktu a možností.
+      icon: tabler:users
+    - title: 'Krok 3: Obdržíte svou nabídku'
+      description: Obdržíte podrobnou cenovou nabídku včetně jednotkových cen, MOQ, dodacích lhůt, platebních podmínek a možností dopravy. Obvykle do 48 hodin.
+      icon: tabler:currency-dollar
+    - title: 'Krok 4: Vzorek a výroba'
+      description: Po přijetí cenové nabídky přejdeme k výrobě vzorků (je-li to relevantní) nebo přímo k sériové výrobě. Pravidelné aktualizace v průběhu celého procesu.
+      icon: tabler:building-factory
+content_form:
+  tagline: Formulář pro poptávku
+  title: Řekněte nám o svém projektu
+  subtitle: Všechna pole označená * jsou povinná.
+  contact_fields:
+    firstName: Jméno
+    lastName: Příjmení
+    companyName: Název společnosti
+    email: E-mail
+  fields:
+    - name: Kategorie produktu
+      type: select
+      options:
+        - SUP prkno
+        - Nafukovací SUP
+        - Nafukovací SUP prkno
+        - Záchranná vesta
+        - Námořní příslušenství
+        - OEM/ODM na zakázku
+    - name: Použití
+      type: select
+      options:
+        - Potápěčské centrum
+        - Rybaření
+        - Námořní turistika / Resort
+        - Pátrání a záchrana
+        - Státní sektor / armáda
+        - OEM / privátní značka
+        - Osobní / rekreační
+        - Jiné
+    - name: Množství
+      type: text
+      placeholder: např. 50 kusů
+    - name: Cílový trh
+      type: text
+      placeholder: např. Evropa, Severní Amerika, Střední východ
+    - name: Země dodání
+      type: text
+      placeholder: např. Itálie, SAE, USA, Austrálie
+    - name: Preferovaný materiál
+      type: select
+      options:
+        - Bez preference
+        - PVC námořní kvality (1100 dtex)
+        - Trup ze sklolaminátu
+        - Hliníkový trup
+    - name: Požadavek na motor
+      type: text
+      placeholder: např. standardní pádlová sestava, elektrická pumpa, vlastní barvy
+    - name: Požadované přizpůsobení
+      type: text
+      placeholder: např. vlastní barvy, branding/logo, balení, speciální kování
+    - name: Termín dodání
+      type: text
+      placeholder: např. dodání do 90 dnů
+    - name: Další požadavky
+      type: textarea
+      placeholder: Popište své použití, technické specifikace nebo případné zvláštní požadavky — pokud máte k dispozici referenční výkresy, specifikace nebo odkazy, přiložte je
+    - name: Nahrát specifikaci
+      type: file
+      placeholder: Nahrajte svůj technický list, výkres nebo referenční dokument (PDF, DWG, DXF)
+    - name: Nahrát logo / grafiku
+      type: file
+      placeholder: Nahrajte své logo nebo grafiku pro vlastní branding (AI, EPS, PNG)
+cta:
+  title: Dáváte přednost e-mailové komunikaci?
+  subtitle: Pošlete svůj dotaz přímo našemu obchodnímu týmu a odpovíme do 24 hodin.
+  actions:
+    - variant: primary
+      text: Napište nám e-mail přímo
+      href: /contact/

@@ -1,0 +1,127 @@
+meta:
+  title: Centrul de Cercetare și Dezvoltare | {SITE}
+  description: Cercetare & Dezvoltare — testarea țesăturilor PVC, inginerie a carenei, sudare RF, testare hidrodinamică și controlul calității. Sunt disponibile servicii personalizate de R&D.
+hero:
+  tagline: Centrul R&D
+  title: Centru de R & D
+  subtitle: Concentrați pe progres
+intro:
+  - >-
+    Centrul de Cercetare și Dezvoltare (R&D) afarer este forța motrice din spatele misiunii noastre de a revoluționa echipamentele de sporturi acvatice. Oferim entuziaștilor de sporturi acvatice din întreaga lume produse mai sigure, mai confortabile și mai plăcute, prin inovație neîncetată în
+    plăcile gonflabile de stand-up paddle (SUP). Echipa noastră dedicată de ingineri, designeri și experți pasionați în sporturi acvatice modelează viitorul industriei, ridicând constant ștacheta calității, performanței și sustenabilității.
+  - >-
+    Centrul nostru de cercetare și dezvoltare reunește sub același acoperiș specialiști în materiale, ingineri marini și ingineri de producție. De la formularea materialelor și simularea carenei până la dezvoltarea proceselor de sudare și testele pe mare la scară reală, fiecare etapă a dezvoltării
+    produsului este bazată pe date și validată prin testare.
+mission:
+  tagline: Misiunea noastră
+  title: Inovăm viitorul sporturilor acvatice
+  pillars:
+    - icon: lightning
+      title: Progres tehnologic
+      desc: Inovăm în materii prime, designuri și procese de fabricație pentru o performanță superioară și o durată de viață mai lungă a produselor.
+    - icon: design
+      title: Design Centrat pe Utilizator
+      desc: Înțelegerea profundă și depășirea nevoilor utilizatorilor printr-un design de produs ergonomic și intuitiv.
+    - icon: globe
+      title: Practici sustenabile
+      desc: Ne minimizăm amprenta asupra mediului prin utilizarea de materiale și procese ecologice.
+    - icon: shield
+      title: Siguranță fără compromisuri
+      desc: Asigurăm cele mai înalte standarde de siguranță prin testare riguroasă și certificare.
+pillars:
+  - title: Progres tehnologic
+    desc: Deschidem noi drumuri în materiale, designuri și procese de fabricație pentru a oferi performanțe superioare și o durată de viață îndelungată a produselor.
+    icon: tech
+  - title: Materiale avansate
+    desc: Investigăm PVC de ultimă generație, compozite și alternative sustenabile pentru caracteristici îmbunătățite ale produselor.
+    icon: materials
+  - title: Sustenabilitate
+    desc: 'Un angajament fundamental: suntem dedicați protejării mediului prin producție sustenabilă și materiale reciclabile.'
+    icon: sustainability
+capabilities:
+  tagline: Capabilități
+  title: Capabilități de cercetare și dezvoltare
+  subtitle: Patru discipline de bază care ne oferă control complet asupra dezvoltării produsului — de la cercetarea materiilor prime până la certificarea finală.
+  groups:
+    - title: Știința materialelor și tehnologia țesăturilor
+      items:
+        - Analiza și optimizarea formulărilor de PVC
+        - Stabilizare UV, ignifugare și dezvoltare de aditivi antimicrobieni
+        - Laminare multi-strat a țesăturilor și inginerie de aderență
+        - Testare accelerată de îmbătrânire (UV, termică, umiditate, ceață sărată)
+    - title: Inginerie a carenei & hidrodinamică
+      items:
+        - Proiectare parametrică 3D a carenei și optimizare CFD
+        - Analiză cu elemente finite pentru sarcini structurale și de impact
+        - Testare la scară în bazinul de remorcare și validarea performanței
+        - Dezvoltarea de carene personalizate pentru profiluri de misiune speciale
+    - title: Tehnologie de sudare și îmbinare
+      items:
+        - Dezvoltarea și optimizarea procesului de sudare dielectrică RF
+        - Metode de sudare cu aer cald, pană fierbinte și ultrasunete
+        - Calificarea îmbinării adezive și a benzilor de cusătură
+        - Modelarea rezistenței sudurilor și predicția duratei de viață
+    - title: Testare, certificare și conformitate
+      items:
+        - Managementul calității și testarea conformității CE
+        - Suport pentru testare și certificare independentă de terți
+        - Dezvoltarea de protocoale de testare personalizate pentru calificarea aprovizionării
+        - Analiza defecțiunilor în exploatare și investigarea cauzelor fundamentale
+rd_numbers:
+  tagline: Inovație
+  title: Cercetare și Dezvoltare în Cifre
+  stats:
+    - value: '14'
+      label: Ingineri și oameni de știință R&D
+    - value: '8'
+      label: Brevete active și cereri de brevet
+    - value: '6'
+      label: Laboratoare specializate
+    - value: 12 ani
+      label: Experiența medie a echipei
+rd_services:
+  tagline: Cercetare și dezvoltare personalizată
+  title: Servicii de cercetare și dezvoltare pentru parteneri
+  services:
+    - title: Dezvoltare personalizată de materiale
+      desc: Dezvoltăm formulări de țesături personalizate, structuri laminate și sisteme adezive adaptate mediului dumneavoastră de operare și obiectivelor de performanță.
+    - title: Inginerie de produs OEM / ODM
+      desc: Dezvoltăm formulări de țesături personalizate, structuri laminate și sisteme adezive adaptate mediului dumneavoastră de operare și obiectivelor de performanță.
+    - title: Testare și certificare de către terți
+      desc: Folosește facilitățile noastre de testare conforme ISO pentru testarea independentă a materialelor, validarea produselor și suport de certificare.
+  cta: Discutați cerințele dumneavoastră de R&D →
+  cta_link: /contact/
+vision:
+  tagline: Viziunea noastră
+  title: Conturăm viitorul sporturilor acvatice
+  body: >-
+    afarer își propune să conducă industria SUP-urilor gonflabile prin inovare continuă, calitate neclintită și un angajament ferm față de siguranță și sustenabilitate — îmbogățind, în cele din urmă, experiențele pasionaților de sporturi nautice din întreaga lume. Centrul R&D afarer
+    este locul unde pasiunea întâlnește inovația, stabilind noi standarde pentru industria sporturilor nautice.
+labs_section:
+  tagline: Laboratoare
+  title: Laboratoarele noastre
+  labs:
+    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+      title: Laborator de țesături PVC
+      description: Cercetare și testare continuă a țesăturilor din PVC pentru punte, pentru rezistență la tracțiune, rezistență UV, abraziune și flexibilitate la temperaturi scăzute, pentru a asigura fiabilitatea pe termen lung în medii marine.
+      href: /randdcenter/pvc-fabric-lab/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+      title: Studioul de Inginerie a Carenelor
+      description: Design bazat pe CAD și analiză cu elemente finite pentru carene din HDPE, aluminiu și fibră de sticlă. Fiecare carenă este simulată digital pentru distribuția tensiunilor și rezistența la impact înainte de realizarea primului prototip.
+      href: /randdcenter/hull-engineering/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+      title: Centru de sudare RF
+      description: Unități dedicate de sudare prin radiofrecvență, cu control de precizie al temperaturii și presiunii, care produc cusături rezistente și etanșe, conforme standardelor industriei maritime pentru plăcile gonflabile.
+      href: /randdcenter/rf-welding/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+      title: Bazin de testare hidrodinamică
+      description: Testarea modelelor la scară în bazinul nostru de testare propriu pentru a optimiza forma carenei, performanța de planare, stabilitatea și eficiența consumului de combustibil într-o gamă largă de condiții de încărcare și de mare.
+      href: /randdcenter/hydrodynamic-test-tank/
+    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      title: Atelier de prototipuri
+      description: Instalație de prototipare și echipare la scară reală, unde modelele noi sunt construite, dotate și testate pe mare. Fiecare prototip parcurge un program de testare în apă de minimum 20 de ore înainte de aprobarea producției.
+      href: /randdcenter/prototype-workshop/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+      title: Laborator de calitate și inspecție
+      description: Laborator dedicat de asigurare a calității, care efectuează testări de tracțiune, cicluri de retenție a aerului, teste de decojire a cusăturilor și certificarea materialelor, pentru a ne asigura că fiecare placă care părăsește atelierul respectă specificațiile noastre publicate.
+      href: /randdcenter/quality-inspection-lab/

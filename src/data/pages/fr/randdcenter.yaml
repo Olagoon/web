@@ -1,0 +1,126 @@
+meta:
+  title: 'Centre R&D — Innovation Nautique | {SITE}'
+  description: 'Recherche et développement afarer : tests de tissu PVC, ingénierie de coque, soudure RF, essais hydrodynamiques et contrôle qualité. Services R&D personnalisés disponibles.'
+  keywords:
+    - 'centre R&D SUP'
+    - 'ingénierie nautique'
+    - 'innovation paddle gonflable'
+    - 'tests matériaux SUP'
+hero:
+  tagline: Centre R&D
+  title: Centre R & D
+  subtitle: Axé sur le Progrès
+intro:
+  - "Le Centre de Recherche et Développement (R&D) d'afarer est le moteur de notre mission : révolutionner les équipements de sports nautiques grâce à la science des matériaux, l'ingénierie structurelle et la recherche hydrodynamique."
+  - Notre installation R&D rassemble des scientifiques des matériaux, des architectes navals et des ingénieurs de production sous un même toit. De la formulation des tissus et de la simulation de coque au développement des processus de soudure et aux essais en mer grandeur nature, chaque étape du développement de produit est guidée par les données et validée par des tests.
+mission:
+  tagline: Notre Mission
+  title: Innover l'Avenir des Sports Nautiques
+  pillars:
+    - icon: lightning
+      title: Avancée Technologique
+      desc: Pionnier des nouveaux matériaux, designs et fabrications pour des performances et une longévité supérieures.
+    - icon: design
+      title: Conception Centrée sur l'Utilisateur
+      desc: Comprendre et dépasser les besoins des utilisateurs par un design ergonomique et intuitif.
+    - icon: globe
+      title: Pratiques Durables
+      desc: Minimiser notre empreinte environnementale en utilisant des matériaux et procédés écologiques.
+    - icon: shield
+      title: Sécurité Sans Compromis
+      desc: Assurer les plus hauts standards de sécurité grâce à des tests rigoureux et une certification.
+pillars:
+  - title: Avancée Technologique
+    desc: Pionnier des matériaux, designs et procédés de fabrication pour des performances supérieures.
+    icon: tech
+  - title: Matériaux Avancés
+    desc: Recherche sur le PVC de pointe, les composites et les alternatives durables pour des caractéristiques produit améliorées.
+    icon: Matériaux
+  - title: Durabilité
+    desc: 'Un engagement central : nous sommes dédiés à la gestion environnementale par une fabrication durable.'
+    icon: sustainability
+capabilities:
+  tagline: Capacités
+  title: Capacités R&D
+  subtitle: Quatre disciplines principales qui nous donnent un contrôle de bout en bout sur le développement des produits — de la recherche sur les matières premières à la certification finale.
+  groups:
+    - title: Science des Matériaux et Technologie des Tissus
+      items:
+        - Analyse et optimisation des formulations PVC
+        - Stabilisation UV, ignifugation et développement d’additifs antimicrobiens
+        - Ingénierie de laminage et d’adhésion de tissus multicouches
+        - Test de vieillissement accéléré (UV, thermique, humidité, brouillard salin)
+    - title: Ingénierie de Coque et Hydrodynamique
+      items:
+        - Conception paramétrique 3D de coque et optimisation CFD
+        - Analyse par éléments finis pour les charges structurelles et d'impact
+        - Essais de remorquage sur modèle réduit et validation des performances
+        - Développement de coque personnalisé pour missions spéciales
+    - title: Technologie de Soudure et Assemblage
+      items:
+        - Développement et optimisation du processus de soudure diélectrique RF
+        - Méthodes de soudure à air chaud, à coin chaud et par ultrasons
+        - Qualification des collages et des bandes de joint
+        - Modélisation de la résistance de la soudure et prévision de la durée de vie
+    - title: Tests, Certification et Conformité
+      items:
+        - Gestion de la qualité et tests de conformité CE
+        - Support de tests et certification par tiers indépendant
+        - Développement de protocole de test personnalisé pour qualification d'achat
+        - Analyse de défaillance en service et investigation des causes profondes
+rd_numbers:
+  tagline: Innovation
+  title: R&D en Chiffres
+  stats:
+    - value: '14'
+      label: Ingénieurs et scientifiques R&D
+    - value: '8'
+      label: Brevets et dépôts actifs
+    - value: '6'
+      label: Laboratoires spécialisés
+    - value: 12 yr
+      label: Expérience moyenne de l'équipe
+rd_services:
+  tagline: R&D Personnalisée
+  title: Services R&D pour Partenaires
+  services:
+    - title: Développement de Matériaux Personnalisés
+      desc: Nous développons des formulations de tissu personnalisées, des empilements de stratifiés et des systèmes adhésifs adaptés à votre environnement d’exploitation et à vos objectifs de performance.
+    - title: Ingénierie Produit OEM/ODM
+      desc: Nous développons des formulations de tissu personnalisées, des empilements de stratifiés et des systèmes adhésifs adaptés à votre environnement d’exploitation et à vos objectifs de performance.
+    - title: Tests et Certification Tiers
+      desc: Utilisez nos installations de test conformes ISO pour des tests de matériaux indépendants, la validation de produits et le support de certification.
+  cta: Discuter de vos besoins R&D →
+  cta_link: /contact/
+vision:
+  tagline: Notre Vision
+  title: Façonner l'Avenir des Sports Nautiques
+  body: afarer s'efforce de mener l'industrie du SUP gonflable grâce à une innovation continue, une qualité inébranlable et un engagement ferme envers la sécurité et la durabilité — enrichissant finalement les expériences des passionnés de sports nautiques dans le monde entier. Le Centre R&D afarer est là où la passion rencontre l'innovation, établissant de nouvelles normes pour l'industrie des sports nautiques.
+labs_section:
+  tagline: Labs
+  title: Nos Laboratoires
+  labs:
+    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+      title: Laboratoire Tissu PVC
+      description: Recherche et tests continus des tissus de pont PVC pour la résistance à la traction, la résistance UV, l’abrasion et la flexibilité à basse température pour garantir une fiabilité à long terme dans les environnements marins.
+      href: /randdcenter/pvc-fabric-lab/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+      title: Studio d'ingénierie de coque
+      description: Conception assistée par CAO et analyse par éléments finis des coques en HDPE, en aluminium et en fibres de verre. Chaque coque fait l'objet d'une simulation numérique de la distribution des contraintes et de la résistance aux impacts avant la construction du premier prototype.
+      href: /randdcenter/hull-engineering/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+      title: Centre de Soudure RF
+      description: Installation de soudure radiofréquence dédiée avec contrôle précis de la température et de la pression, produisant des joints étanches à haute résistance qui répondent aux normes de l’industrie maritime pour les embarcations gonflables.
+      href: /randdcenter/rf-welding/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+      title: Bassin d'Essais Hydrodynamiques
+      description: Tests sur modèles réduits dans notre bassin d’essais interne pour optimiser la forme de coque, les performances de déjaugeage, la stabilité et l’efficacité énergétique dans une gamme de conditions de charge et de mer.
+      href: /randdcenter/hydrodynamic-test-tank/
+    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      title: Atelier de Prototypage
+      description: Installation de prototypage et de gréement grandeur nature où les nouveaux modèles sont construits, équipés et testés en mer. Chaque prototype subit un programme de test en eau d’au moins 20 heures avant l’approbation de production.
+      href: /randdcenter/prototype-workshop/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+      title: Laboratoire Qualité et Inspection
+      description: Laboratoire d’assurance qualité dédié effectuant des tests de traction, des cycles de rétention d’air, des tests de pelage des joints et la certification des matériaux pour garantir que chaque planche quittant l’atelier répond à nos spécifications publiées.
+      href: /randdcenter/quality-inspection-lab/

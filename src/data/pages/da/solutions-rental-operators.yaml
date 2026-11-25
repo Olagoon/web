@@ -1,0 +1,66 @@
+meta:
+  title: SUP-udlejningsflådeløsninger | {SITE}
+  description: SUP-brætter til høj omsætning, konstrueret til daglig udlejning. UV-bestandig PVC, forstærkede sømme og hurtigttørrende materialer. Skaler din udlejningsvirksomhed med Afarer.
+hero:
+  tagline: Udlejningsoperatører
+  title: Skaler din udlejningsforretning<br />med tillid
+  subtitle: SUP-brædder med høj udlejningsfrekvens, konstrueret til daglig udlejning 365 dage om året. Din omsætning får aldrig en fridag.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Travl udlejningskiosk med SUP-brædder klar til gæsterne
+features:
+  title: Bygget til udlejningens slid
+  subtitle: Hvert board er konstrueret til 500+ udlejningscyklusser med minimal vedligeholdelse.
+  items:
+    - title: 500+ udlejninger
+      description: Testet til at klare daglig brug i saltvand, sol og sand.
+      icon: tabler:shield-check
+    - title: UV-resistent stof
+      description: Ingen falming eller nedbrydning efter 1 års udendørs opbevaring.
+      icon: tabler:sun
+    - title: Forstærkede sømme
+      description: 3x stærkere end standard konstruktion af oppustelige boards.
+      icon: tabler:layers-intersect
+    - title: Hurtigtørrende materialer
+      description: Brætter klar til næste udlejning på under 30 minutter.
+      icon: tabler:droplet
+    - title: Stablbar opbevaring
+      description: Pladsbesparende design — opbevar 40 % flere boards på samme plads.
+      icon: tabler:stack
+    - title: Farvekodede størrelser
+      description: Personalet finder straks det rigtige board med farvekodet størrelsesmærkning.
+      icon: tabler:color-swatch
+stats:
+  title: Driftsmålinger
+  stats:
+    - title: Board-omsætning
+      amount: < 5 min
+    - title: Årlig vedligeholdelse
+      amount: ~15 min/board
+    - title: Forsendelse af reservedele
+      amount: 48h
+    - title: Fejlrate
+      amount: < 0.5%
+fleet_guide:
+  title: Guide til fastlæggelse af flådestørrelsen
+  subtitle: Vurder flådens størrelse og indtjeningspotentiale for din udlejningsvirksomhed.
+  tiers:
+    - label: Lille kiosk
+      boards: 15-20
+      revenue: $XX,XXX/år
+    - label: Mellemstor drift
+      boards: 30-50
+      revenue: $XX,XXX/år
+    - label: Stor strandudlejning
+      boards: 50-100
+      revenue: $XXX,XXX/år
+cta:
+  title: Klar til at udvide din udlejningsforretning?
+  subtitle: Få udlejningspriser eller sammenlign brætmodeller til din virksomhed.
+  actions:
+    - text: Få priser på udlejning
+      href: /contact/?package=rental
+      variant: primary
+    - text: Sammenlign board-modeller
+      href: /compare/
+      variant: secondary

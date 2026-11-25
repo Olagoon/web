@@ -1,0 +1,55 @@
+meta:
+  title: 'Produkcja OEM i private label | {SITE}'
+  description: 'Od koncepcji do kontenera: dostosuj każdy szczegół swojej nadmuchiwanej linii SUP. Pełna usługa OEM/ODM dla marek paddle boardów private label.'
+  keywords:
+    - 'produkcja SUP OEM'
+    - 'paddle board pod własną marką'
+    - 'nadmuchiwany SUP OEM'
+    - 'fabryka SUP na zamówienie'
+hero:
+  tagline: Produkcja OEM/ODM
+  title: Produkcja OEM i marek własnych
+  subtitle: Od koncepcji do kontenera — dostosuj każdy szczegół swojej nadmuchiwanej linii SUP
+intro: >-
+  Afarer oferuje kompleksowe usługi OEM i ODM dla marek, dystrybutorów i agencji rządowych na całym świecie. Dzięki 10-letniemu doświadczeniu w eksporcie oraz fabryce o powierzchni 12 000 m² posiadającej certyfikaty ISO 9001 i BSCI, zajmujemy się wszystkim, od projektowania produktów i opracowywania
+  form, po pełną produkcję, pakowanie i logistykę.
+highlight:
+  - value: '10+'
+    label: Lata doświadczenia w OEM
+    detail: Od 2012
+  - value: '50+'
+    label: Kraje eksportujące
+    detail: Globalny zasięg
+  - value: '200+'
+    label: Dostarczone projekty niestandardowe
+    detail: We wszystkich liniach produktów
+  - value: 30–45
+    label: Standardowy czas realizacji (dni)
+    detail: Od PO do FOB
+services:
+  - title: Projektowanie i inżynieria produktu
+    description: Nasz wewnętrzny zespół badawczo-rozwojowy pracuje na podstawie Twojego konceptu lub specyfikacji, aby opracować rysunki CAD, modele 3D i prototypy. Oferujemy projektowanie form, optymalizację kształtu kadłuba oraz doradztwo w zakresie wyboru materiałów.
+  - title: Niestandardowe brandowanie i grafika
+    description: Druk cyfrowy w pełnym kolorze, sitodruk, tłoczenie i opcje etykiet. Tworzymy grafiki na karty dostosowane do marki, branding tub oraz opakowania gotowe do sprzedaży detalicznej.
+  - title: Dostosowanie materiału i specyfikacji
+    description: Wybierz spośród PVC (standardowego, przyjaznego dla środowiska, ognioodpornego), drop-stitch i konstrukcji hybrydowych. Niestandardowe kolory rurki, gramatura tkaniny i opcje wzmocnień.
+  - title: Pakowanie i logistyka
+    description: Opakowania detaliczne na zamówienie, pudełka z własną marką, pakowanie próżniowe, paletyzacja i załadunek kontenerów. Dostępne warunki wysyłki FOB Qingdao, CIF lub DDP.
+moq_table:
+  - product: Dmuchane deski SUP
+    standard_moq: 5–10 jednostek
+    custom_moq: 200 jednostek
+    lead_time: 30–45 dni
+  - product: Kamizelki ratunkowe i bezpieczeństwo
+    standard_moq: 100–200 jednostek
+    custom_moq: 1 000 jednostek
+    lead_time: 20–30 dni
+why_us:
+  - title: Integracja pionowa
+    description: Posiadamy naszą fabrykę, formy i łańcuch dostaw — bez pośredników, bez podwykonawców. Daje nam to kontrolę nad jakością, kosztami i terminami dostaw.
+  - title: Podwójna certyfikacja
+    description: Certyfikacja zarządzania jakością ISO 9001 i zgodności społecznej BSCI. Raporty z audytów fabryk dostępne na życzenie.
+  - title: Zgodność z CE
+    description: Wszystkie standardowe modele posiadają certyfikację CE 2013/53/UE. Modele niestandardowe mogą uzyskać certyfikat CE poprzez nasz ustalony proces.
+  - title: Niska minimalna ilość zamówienia
+    description: Zacznij od zaledwie 5 jednostek w przypadku standardowych modeli. Pomagamy rozwijającym się markom wystartować bez nadmiernego zobowiązania się do zapasów.

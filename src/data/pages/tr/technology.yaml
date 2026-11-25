@@ -1,0 +1,42 @@
+meta:
+  title: "Teknoloji — Drop stitch ve deniz PVC'si | {SITE}"
+  description: "afarer teknolojileri: drop stitch yapısı, deniz PVC'si, çift katmanlı yapılar ve yüksek basınç. Profesyonel bir şişme SUP tahtası üreticisinden yenilik."
+  keywords:
+    - 'SUP teknolojisi'
+    - 'drop stitch yapısı'
+    - 'yüksek basınç SUP'
+    - 'şişme SUP malzemeleri'
+hero:
+  tagline: Teknoloji
+  title: Teknolojimiz
+  subtitle: afarer ürünleri, üstün performans, dayanıklılık ve taşınabilirlik sağlamak için gelişmiş malzemeler ve yenilikçi mühendislikle tasarlanmıştır.
+sections:
+  - title: Drop-Stitch Çekirdek
+    description: Binlerce iç polyester iplik üst ve alt katmanları birbirine bağlayarak 12-15 PSI'da rijit bir yapı oluşturur. Bu, profesyonel paddle board'larda ve şişirilebilir yarış SUP'larında kullanılan aynı teknolojidir.
+    imageAlt: DS Çekirdek Diyagramı
+  - title: Deniz Sınıfı PVC
+    description: Deniz ortamları için derecelendirilmiş çok katmanlı lamine PVC kumaş. Her katman yapıştırma yerine eritme kaynağı ile birleştirilerek soyulma riskleri ortadan kaldırılır. UV direnci, tuzlu su korozyonu ve aşınmaya karşı test edilmiştir.
+    imageAlt: PVC Katman
+  - title: Askeri Sınıf PVC
+    description: Tüm SUP modellerinde kullanılan premium PVC, üstün UV ve kimyasal direnç sağlar. Aşırı sıcaklıklarda esnekliğini korur ve bozulmaya karşı direnir.
+    imageAlt: PVC
+  - title: Hava Güvertesi Zemin
+    description: Ayakta durma, balıkçılık ve yoga için olağanüstü sağlamlık sağlayan yüksek basınçlı şişirilebilir drop-stitch yapısı. Kurulum süresini, toplam ağırlığı ve depolama hacmini azaltır.
+    imageAlt: Air Deck
+related:
+  title: İlgili
+  links:
+    - text: Ar-Ge Merkezi
+      url: /randdcenter
+    - text: Kalite Testi
+      url: /quality
+    - text: Güvenlik Standartları
+      url: /safety
+    - text: Garanti
+      url: /warranty
+    - text: Turizm ve Eğlence
+      url: /use-cases/tourism-recreation
+    - text: Rehberler
+      url: /guides
+    - text: Ürünler
+      url: /products

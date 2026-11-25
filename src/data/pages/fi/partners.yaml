@@ -1,0 +1,72 @@
+meta:
+  title: 'Kumppanit — jakelu ja tukku | {SITE}'
+  description: 'Ryhdy afarerin kumppaniksi: jakeluverkostot, tukkuhinnat, OEM/omamerkki-ohjelmat ja tuki paddle board -yrityksille maailmanlaajuisesti.'
+  keywords:
+    - 'SUP-jakelukumppani'
+    - 'paddle board -tukku'
+    - 'täytettävien SUP-lautojen jakelija'
+    - 'SUP-kumppanuus'
+hero:
+  tagline: Kumppanit ja jakelu
+  title: Tule afarer-kumppaniksi<br />— Maailmanlaajuinen jakeluverkosto
+  subtitle: Liity afarerin maailmanlaajuiseen kumppaniverkostoon. Teemme yhteistyötä merenkulkualan jakelijoiden, melontaurheilun jälleenmyyjien, varustejälleenmyyjien ja brändikumppanien kanssa yli 50 maassa.
+  image:
+    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
+    alt: afarerin maailmanlaajuinen kumppani- ja jakeluverkosto
+content_programs:
+  tagline: Kumppaniohjelmat
+  title: Kumppaniohjelmat<br />rakennettu kasvua varten
+  subtitle: Oletpa sitten jakelija, jälleenmyyjä tai brändikumppani, afarer tarjoaa ohjelmia, jotka on suunniteltu tukemaan liiketoimintaasi.
+  columns: 3
+  items:
+    - title: Jakelijaohjelma
+      description: Yksinomainen aluejakelu volyymihinnoittelulla, markkinointituella ja suoralla tehdasyhteydellä. Vähimmäissitoumus alueen koon mukaan.
+      icon: tabler:world
+    - title: Dileriohjelma
+      description: Suorat jälleenmyyjähinnat, tuotekoulutus, markkinointimateriaalit ja takuutuki vähittäismyymälöille ja verkkokaupoille.
+      icon: tabler:building-store
+    - title: OEM/ODM-kumppanuus
+      description: Täyden palvelun OEM- ja ODM-valmistus mukautetulla brändäyksellä, pakkauksella ja tuotetiedoilla. Konseptista konttiin.
+      icon: tabler:certificate
+    - title: Brändikumppanuus
+      description: Yhteisbrändäys, private label ja yksinoikeudelliset malliohjelmat vakiintuneille brändeille meri- ja ulkoiluvirkistyksen alalla.
+      icon: tabler:stars
+    - title: Julkinen ja institutionaalinen sektori
+      description: Ensisijaiset toimittajaohjelmat valtion virastoille, rannikkovartiostoille, sotilas- ja humanitaarisille järjestöille. Tarjousvalmis dokumentaatio.
+      icon: tabler:building-community
+    - title: Lomakeskus ja vuokrakumppani
+      description: Laivastohinnoittelu, tasainen laatu ja mukautettu brändäys lomakohteille, sukelluskeskuksille ja vuokraustoiminnalle maailmanlaajuisesti.
+      icon: tabler:sun
+content_benefits:
+  tagline: Miksi tehdä yhteistyötä kanssamme
+  title: Miksi kumppanit valitsevat afarerin
+  subtitle: Kumppanimme hyötyvät todellisesta valmistuskapasiteetista, tasaisesta laadusta ja reagoivasta tuesta.
+  list:
+    - 'Suora tehdasväylä: Tee yhteistyötä suoraan valmistusjoukkueemme kanssa — ei välittäjiä. Saat nopeammat vastaukset, paremmat hinnat ja täydellisen näkyvyyden tuotantoon.'
+    - 'Mukautusvalmis: Brändää tuotteesi mukautetuilla väreillä, logoilla, pakkauksilla ja erittelyillä. Tilauksen vähimmäismäärät mukautetaan markkinasi mukaan.'
+    - 'Laatu taattu: ISO 9001 -sertifioitu tuotanto CE-, UKCA- ja BSCI-noudattavuudella. Jokainen tuote testattu ennen lähettämistä.'
+    - 'Maailmanlaajuinen logistiikka: Toimitukset Qingdaosta, Kiinasta FOB-, CIF- ja DDP-vaihtoehdoilla. Yhdysvaltojen varasto Montclairissa, Kaliforniassa Pohjois-Amerikan jakelua varten.'
+    - 'Markkinointituki: Tuoteluettelot, valokuvat, tekniset dokumentit ja digitaaliset materiaalit myynnin tueksi.'
+    - 'Koulutus ja tuki: tuotekoulutusta myyntitiimillesi, teknistä tukea asiakkaille ja takuupalvelun koordinointia.'
+content_process:
+  tagline: Näin ryhdyt kumppaniksi
+  title: Yksinkertainen kumppanuusprosessi
+  subtitle: Kumppanuusprosessimme on suoraviivainen — suunniteltu saamaan sinut myymään afarer-tuotteita nopeasti.
+  items:
+    - title: 'Vaihe 1: Jätä hakemus'
+      description: Täytä kumppanihakemuslomakkeemme yritysprofiilillasi, kohdemarkkinallasi ja tuotekiinnostuksillasi.
+    - title: 'Vaihe 2: Kelpoisuuden tarkastus'
+      description: Kumppanuustiimimme tarkastelee hakemustasi ja ottaa sinuun yhteyttä 3 työpäivän kuluessa keskustellakseen mahdollisuuksista.
+    - title: 'Vaihe 3: Sopimus ja käyttöönotto'
+      description: Allekirjoita kumppanuussopimus, perusta tilisi ja saat kumppanihinnat, markkinointimateriaalit ja tuotenäytteet.
+    - title: 'Vaihe 4: Koulutus ja käynnistys'
+      description: Tuotekoulutus, myyntituki ja markkinointimateriaalit toimitetaan. Olet valmis aloittamaan myynnin.
+cta:
+  title: Valmis tulemaan afarer-kumppaniksi?
+  subtitle: Hae kumppanuutta, niin tiimimme vastaa 3 työpäivän kuluessa.
+  actions:
+    - variant: primary
+      text: Hae kumppanuutta
+      href: /contact/
+    - text: Katso tuotteemme
+      href: /products/

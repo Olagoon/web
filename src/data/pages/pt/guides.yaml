@@ -1,0 +1,25 @@
+meta:
+  title: 'Guias de SUP — Comprar, Escolher, Praticar | {SITE}'
+  description: 'Guias de SUP da afarer: como comprar, escolher e praticar paddle boarding. Tamanhos, materiais e dicas de especialistas para iniciantes e profissionais.'
+  keywords:
+    - 'guia de compra de SUP'
+    - 'como escolher SUP'
+    - 'guia de tamanhos de SUP'
+    - 'dicas de paddle board inflável'
+hero:
+  tagline: Guias
+  title: Novo no SUP?
+  subtitle: Guias práticos para ajudá-lo a escolher, usar e aproveitar pranchas infláveis de SUP.
+size_guide:
+  tagline: Tamanho e Especificações
+  title: Encontre o Tamanho Certo para Suas Necessidades
+  desc: Compare as dimensões da prancha SUP, capacidades de peso e usos recomendados. Quer você precise de um SUP para passeios, uma prancha de yoga ou um SUP versátil — nosso guia de tamanhos ajuda você a escolher o tamanho certo.
+  link_label: Guia de tamanho completo com especificações do produto →
+  link: /size-guide/
+  cards:
+    - title: Pranchas de SUP
+      desc: Escolha o comprimento com base no seu peso e uso pretendido. Tábuas mais largas (32") oferecem mais estabilidade. Pranchas mais longas (11–12 pés) são melhores para touring.
+    - title: SUPs de Turismo
+      desc: Pranchas mais longas (11–12 pés) para cobrir distância e permanecer em linha reta. Estável o suficiente para passeios com equipamento. Sempre verifique a capacidade de peso.
+    - title: SUPs Versáteis
+      desc: Escolha o comprimento pelo peso do cavaleiro e o uso. Tábuas mais largas (32") para estabilidade. Versátil para lazer e fitness.

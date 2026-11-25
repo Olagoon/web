@@ -1,0 +1,72 @@
+meta:
+  title: "Expertise Marine — L'Ingénierie dans Chaque Coque | {SITE}"
+  description: "Des décennies d'ingénierie marine dans chaque coque. afarer maîtrise le drop stitch, le PVC marine et la conception de SUP gonflables professionnels."
+  keywords:
+    - 'ingénierie marine'
+    - 'fabricant SUP gonflable'
+    - 'fabrication paddle gonflable'
+hero:
+  tagline: Expertise marine
+  title: Des Décennies d'Ingénierie Marine<br />dans Chaque Coque
+  subtitle: afarer combine une science des matériaux approfondie, une fabrication de précision et des tests en conditions réelles pour produire des embarcations performantes au moment décisif.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: Équipe d'ingénierie marine et R&D d'afarer au travail
+expertise_materials:
+  tagline: Science des Matériaux
+  title: Choisir le Bon Matériau<br />pour Chaque Application
+  subtitle: Nous travaillons avec deux matériaux principaux — chacun sélectionné pour des cas d'usage spécifiques et des exigences de performance.
+  columns: 3
+  items:
+    - title: PVC qualité marine
+      description: Tissu PVC 1100 deniers — notre matériau le plus polyvalent. Stabilisé UV, résistant à l'abrasion et conforme REACH. Idéal pour les SUP où le poids et le rapport qualité-prix comptent.
+      icon: tabler:droplet
+    - title: Fibre de Verre et Polyéthylène
+      description: SUP stratifiés fibre de verre pour une rigidité et un glissement premium. Polyéthylène moulé par rotation pour un usage intensif de location et de sauvetage exigeant une résistance maximale aux chocs.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Capacités de Fabrication
+  title: Fabrication de Précision<br />à Chaque Étape
+  subtitle: Notre installation de 12 000 m² est équipée de machines spécialisées pour chaque étape.
+  columns: 2
+  items:
+    - title: Découpe CNC
+      description: La découpe commandée par ordinateur garantit des panneaux de tissu précis et reproductibles avec un minimum de déchets. Chaque pièce s’adapte exactement comme conçu.
+      icon: tabler:cpu
+    - title: Soudure Haute Fréquence
+      description: La soudure HF industrielle crée des joints plus résistants que le matériau de base. Un contrôle constant de la température et de la pression garantit des joints étanches sur chaque lot de production.
+      icon: tabler:bolt
+    - title: Assemblage du Cœur Drop-Stitch
+      description: Des milliers de fils de polyester relient les couches de tissu supérieure et inférieure, permettant un gonflage haute pression (15-20 PSI) pour des planches SUP rigides et stables.
+      icon: tabler:building-arch
+    - title: Test de Pression
+      description: Chaque produit gonflable est testé sous pression avant expédition. Les planches sont testées à 1,25 fois la pression nominale — si elles tiennent à cette pression, elles performeront sur l'eau.
+      icon: tabler:wind
+    - title: Test de Résistance des Joints
+      description: Des échantillons aléatoires de chaque lot de production subissent des tests destructifs de résistance des joints. Les résultats sont enregistrés et traçables jusqu’aux séries de production spécifiques.
+      icon: tabler:files
+    - title: Tests Nautiques
+      description: Chaque modèle subit des essais en mer avant certification. Des tests en conditions côtières réelles valident la performance, la maniabilité et la stabilité.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Conception & ingénierie
+  title: Conçu pour des Conditions Réelles
+  subtitle: Notre philosophie de conception commence par la manière dont la planche sera utilisée — puis construit l'ingénierie autour de ce cas d'usage.
+  items:
+    - title: Conception de Coque Performante
+      description: Chaque forme de coque est ajustée à son usage — prouées à déplacement pour le glissement en touring, rocker accentué pour l'agilité dans les vagues, profils plats et stables pour la pêche et le yoga.
+    - title: Sécurité Drop-Stitch
+      description: Chaque planche intègre un cœur drop-stitch rigide avec des rails renforcés. Si une section est endommagée, la structure drop-stitch à haute résistance maintient la planche opérationnelle.
+    - title: Disposition Ergonomique du Pont
+      description: Le zonage du tapis de pont, la position de la poignée de transport et les points de fixation sont conçus pour le confort du rider lors d'une utilisation prolongée — que ce soit pour le touring, la pêche ou la patrouille.
+    - title: Configuration Personnalisée
+      description: Couleurs des rails, configuration du tapis de pont, supports d'accessoires, capacité d'équipement — chaque modèle peut être personnalisé pour répondre à des exigences opérationnelles spécifiques.
+cta:
+  title: Vous avez une application spécifique en tête ?
+  subtitle: Notre équipe d'ingénierie peut vous conseiller sur la sélection des matériaux, la conception et la fabrication.
+  actions:
+    - variant: primary
+      text: Demandez à nos ingénieurs
+      href: /contact/
+    - text: Voir la gamme de produits
+      href: /products/

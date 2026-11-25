@@ -1,0 +1,108 @@
+meta:
+  title: 'Kennis — SUP-gidsen | {SITE}'
+  description: 'afarer kennisbank: gidsen over opblaasbare SUPs, paddle board materialen, boardkeuze en inzichten uit de sector voor merken en professionals.'
+  keywords:
+    - 'SUP kennis'
+    - 'opblaasbare SUP gids'
+    - 'paddle board materialen'
+    - 'SUP sectorinzichten'
+hero:
+  tagline: Kennisgraaf
+  title: Waterverkenning Kennis
+  subtitle: |
+    Een gestructureerde kennisbank over opblaasbare SUP-technologie,<br />
+    waterveiligheid, boardtechniek en avonturenplanning.
+  taglineSection: Verken. Leer. Ga met vertrouwen.
+clusters:
+  tagline: Kennisclusters
+  title: Verken op onderwerp
+  subtitle: Diepgaande duiken in de technologie, veiligheid en vaardigheden achter elk afarer product.
+  items:
+    - title: SUP Kennis
+      description: Van het kiezen van je eerste board tot geavanceerde touringtechnieken — alles over stand-up paddle boarding.
+      icon: tabler:lifebuoy
+      topics:
+        - Hoe kies je je eerste opblaasbare SUP
+        - Beste SUP maat voor beginners
+        - Hoe moeilijk is paddle boarding?
+        - Opblaasbaar vs hardboard vergelijking
+        - SUP veiligheidschecklist
+    - title: SUP-techniek & technologie
+      description: Technische gidsen over opblaasbare SUP-boards — materialen, constructiemethoden en productieprocessen.
+      icon: tabler:microscope
+      topics:
+        - Diepgaande blik op drop-stitch technologie
+        - PVC-specificaties van militaire kwaliteit
+        - Fusielaminering vs. verlijming
+        - EVA-schuimtechnologie en artworkmethoden
+        - SUP-ventieltypen en vinsystemen
+
+    - title: Veiligheid Kennis
+      description: Essentiële veiligheidskennis voor elke peddelaar — van PFD-keuze tot weerslezen tot zelfreddingstechnieken.
+      icon: tabler:shield
+      topics:
+        - SUP veiligheidschecklist
+        - Heb je een zwemvest nodig?
+        - Oceaan peddelen veiligheidsgids
+        - Reparatietechnieken voor opblaasproducten
+        - Weer- en waterconditiebewustzijn
+    - title: Technologie
+      description: De techniek achter afarer producten — materialen, constructiemethoden en kwaliteitstesten.
+      icon: tabler:microscope
+      topics:
+        - Marine-grade PVC technologie
+        - Drop-stitch kern uitgelegd
+        - Waarom PSI belangrijk is voor opblaasbare SUPs
+        - RF-lassen vs adhesieve verbinding
+        - Kwaliteitstesten en certificering
+    - title: SUP Lifestyle & Speciale Gebruiken
+      description: Gespecialiseerde SUP-activiteiten — yoga, vissen, honden, gezinnen en reistips.
+      icon: tabler:heart
+      topics:
+        - SUP yoga en meditatie op het water
+        - Vissen vanaf een opblaasbare SUP
+        - Suppen met honden en kinderen
+        - Reizen met je SUP per vliegtuig en auto
+        - SUP-accessoires en uitrustingsbenodigdheden
+    - title: SUP Vergelijkingen & Referenties
+      description: Vergelijkingen naast elkaar om u te helpen weloverwogen beslissingen te nemen.
+      icon: tabler:chart-bar
+      topics:
+        - SUP vs kajak — welke is geschikt voor jou?
+        - PVC-materiaalklassen uitgelegd
+        - Enkelvoudige kamer vs meerkamerveiligheid
+        - SUP-boardmaterialen uitgelegd
+        - UV-printen versus EVA-blokkunst
+featured_guides:
+  tagline: Aanbevolen Gidsen
+  title: Meest populaire kennisbronnen
+  items:
+    - title: SUP Basis
+      href: /learn/sup/
+    - title: Opblaasbaar vs Hardboard
+      href: /compare/inflatable-vs-hardboard/
+    - title: Waterveiligheidsgids
+      href: /learn/water-safety/
+    - title: Materialen Referentie
+      href: /learn/materials/
+    - title: SUP Maatgids
+      href: /size-guide/
+    - title: SUP-maatgids
+      href: /guides/sup-size-guide/
+    - title: SUP Tech Centrum
+      href: /research/
+    - title: SUP Onderhoud
+      href: /guides/sup-maintenance/
+    - title: Gids
+      href: /guides/sup-for-touring/
+    - title: Peddeltechnieken
+      href: /guides/paddling-techniques/
+cta:
+  title: Begin met verkennen
+  subtitle: Duik in onze kennisbank en krijg de informatie die je nodig hebt voor je volgende wateravontuur.
+  actions:
+    - variant: primary
+      text: Bekijk alle gidsen
+      href: /academy/
+    - text: Verken Kennisgraaf
+      href: /knowledge/

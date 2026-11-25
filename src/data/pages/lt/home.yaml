@@ -1,0 +1,104 @@
+meta:
+  title: Afarer pripučiami padelbordai | Plauk toliau. Irkluok stipriau.
+  description: Atraskite Afarer pripučiamus padelbordus universaliai irklavimui, turizmui, jogai, žvejybai ir lauko nuotykiams. Raskite savo tobulą SUP ir atraskite daugiau vandenyje.
+  keywords:
+    - pripučiamas padelbordas
+    - pripučiamas sup
+    - universalus sup
+    - turizinis sup
+    - jogos sup
+    - žvejybos sup
+    - šeimos padelbordas
+    - nešiojamas padelbordas
+hero:
+  tagline: Pripučiami Padelbordai
+  title: Pripučiami Padelbordai Kiekvienam Nuotykiui
+  slogan: Plauk toliau. Irkluok stipriau.
+  subtitle: Atraskite irklavimo laisvę su Afarer. Tyrinėkite kruopščiai sukurtus pripučiamus SUP ramioms dienoms ežere, pakrančių nuotykiams, sportui ir viskam, kas tarp jų.
+  taglineSection: Sukurta pasitikėjimui. Sukurta išsiskirti.
+  actions:
+    - variant: primary
+      text: Raskite Savo Lentą
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Tyrinėkite SUP
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Kodėl Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Afarer pripučiami SUP slysta ramiu vandeniu saulėtekio metu — sukurti kiekvienam nuotykiui
+who_we_serve:
+  tagline: Irkluokite Su Mumis
+  title: Raskite Savo Kelią Vandenyje
+  subtitle: Kiekvienas irkluotojas turi kitokį nuotykio vaizdinį. Atraskite Afarer SUP, sukurtą pagal jūsų irklavimo stilių.
+  items:
+    - title: Pradedantys ir Mėgėjų Irkluotojai
+      keywords: pripučiamas sup pradedantiesiems, universalus padelbordas, stabilus sup
+      description: Platos, stabilios universalios lentos, su kuriomis pirmas irklo mostas jaučiasi natūraliai ir kurios auga kartu su jumis.
+      icon: tabler:users
+      cta: Raskite Savo Pirmą Lentą
+      link: /all-around-sup/
+    - title: Turizmas ir Nuotykiai
+      keywords: turizinis sup, tolimų atstumų padelbordas, ekspedicinis sup
+      description: Ilgesnės, siauresnės lentos, kurios laiko kryptį, slysta toliau ir gabena įrangą kelių dienų maršrutams.
+      icon: tabler:building
+      cta: Tyrinėkite Turizmo SUP
+      link: /touring-sup/
+    - title: Joga ir Sportas
+      keywords: jogos sup, sporto padelbordas, platus stabilus sup
+      description: Platos, stabilios platformos su erdve judėti — saulėtekio srovėms, treniruotėms ir pusiausvyrai ramiame vandenyje.
+      icon: tabler:heart
+      cta: Tyrinėkite Jogos SUP
+      link: /yoga-sup/
+    - title: Žvejyba ir Šeima
+      keywords: žvejybos sup, šeimos padelbordas, stabili žvejybos platforma
+      description: Stabilios, praktiškos platformos žvejybai, irklavimui su vaikais ir ilgoms ramiai dienoms vandenyje.
+      icon: tabler:users
+      cta: Tyrinėkite Žvejybos SUP
+      link: /fishing-sup/
+proof_points:
+  title: Išbandyta daugiau nei salonuose
+  subtitle: Dizainas, našumas ir kokybė, kuriuos galite patikrinti — vandenyje ir skaičiuose.
+  items:
+    - metric: 10+
+      label: Metų, kuriant vandeniui
+      detail: Nuo 2012 m., tobulinta lentą po lentos
+    - metric: 50+
+      label: Šalių vandenyje
+      detail: Irkluotojai ir partneriai visame pasaulyje
+    - metric: 12–15
+      label: PSI „Drop-Stitch“ branduolys
+      detail: Standus ten, kur reikia, lengvai sulankstomas
+    - metric: 100%
+      label: Slėgiu išbandyta kiekviena lenta
+      detail: Patikrinta prieš siunčiant
+business_solutions:
+  tagline: Kodėl Plaukia Kitaip
+  title: Našumas, kurį Jaučiate nuo Pirmo Mosto
+  subtitle: Keturi stulpai, suformuoti tikro vandens — našumas, dizainas, konstrukcija ir kokybė.
+  items:
+    - title: Našumas Vandenyje
+      description: Formos, suderintos stabilumui, slydimui ir pasitikėjimui bangose — kiekvienas mostas išlieka susietas su vandeniu.
+      icon: tabler:shield-check
+    - title: Išraiškingas Dizainas
+      description: Kolekcijos, įkvėptos potvynių, laukinės gamtos ir pakrantės energijos — lentos, su kuriomis norite būti matomi.
+      icon: tabler:package
+    - title: Patikrinta Konstrukcija
+      description: Didelio tankio drop-stitch branduoliai, sutvirtinti bortai ir lydytinio laminavimo siūlės pakartotiniam naudojimui.
+      icon: tabler:headset
+    - title: Patvirtinta Kokybė
+      description: Išbandyti slėgiu, vizualiai patikrinti ir padengti aiškia garantija bei operatyvia pagalba po pardavimo.
+      icon: tabler:truck-delivery
+cta:
+  title: Raskite savo kitą lentą.
+  subtitle: Ar tai jūsų pirmas mostas, ar ilgiausias maršrutas — iškeliam jus į vandenį.
+  actions:
+    - variant: primary
+      text: Tyrinėkite Kolekciją
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Užsisakykite Katalogą
+      href: /resources/download-catalog/

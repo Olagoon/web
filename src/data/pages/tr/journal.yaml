@@ -1,0 +1,22 @@
+meta:
+  title: 'Dergi — Denizcilik makaleleri ve rehberleri | {SITE}'
+  description: 'afarer dergisi: şişme SUP tahtaları, paddleboarding ve denizcilik endüstrisi hakkında makaleler ve rehberler.'
+  keywords:
+    - 'SUP dergisi'
+    - 'paddle board makaleleri'
+    - 'şişme SUP blogu'
+    - 'denizcilik rehberleri'
+hero:
+  title: afarer Günlüğü
+  subtitle: afarer ekibinden en son haberler, deniz maceraları ve ürün hikayeleri.
+latest:
+  tagline: En Son
+  title: Rehberler ve Karşılaştırmalar
+  browse_all: Tüm 20'yi görüntüle —
+  read: Oku →
+social_section:
+  tagline: İçerik × Sosyal
+  title: Her rehber 5 sosyal medya yayınına dönüşür
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — her makaleden.
+  pipeline_cta: Sosyal Medya Hattı →
+  guides_cta: Rehberlere Göz Atın

@@ -1,0 +1,107 @@
+meta:
+  title: RF-svejsecenter — dielektrisk binding til lufttætte sømme | {SITE}
+  description: Radiofrekvenssvejseteknologi, der leverer kompatible, lufttætte sømme. Afrivningstest (peel test), validering af luftretention og specifikationer for tilpassede sømme.
+back_text: Tilbage til R&D-center
+home_label: Forside
+hero:
+  tagline: Laboratorium 03
+  title: RF-svejsecenter
+  subtitle: Dielektrisk svejseteknologi til svejsninger, der holder under tryk
+  image: https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp
+  image_alt: Afarer RF-svejseproces med dielektrisk sammenføjning
+intro: >-
+  En oppustelig SUP er kun så pålidelig som sine sømme. En enkelt svag svejsning kan kompromittere et helt kammer – og på havet er et kammersvigt ikke en ulejlighed; det er en sikkerhedsrisiko. Hos Afarer har vi investeret i et dedikeret RF-svejsecenter (Radio-Frequency), der kombinerer
+  industrielle dielektriske svejsepresser med streng proceskontrol og test efter svejsning. Hver søm, vi producerer, er dokumenteret, sporbar og certificeret til at opfylde eller overstige kravene i EN ISO 25649 – den europæiske standard for oppusteligt fritidsudstyr.
+content_html: >
+  <h2>Videnskaben bag svejsningen</h2>
+
+  <p>RF-svejsning bruger højfrekvent elektromagnetisk energi (typisk 27,12 MHz) til at excitere de polære molekyler i PVC-belagt stof, hvilket genererer varme præcist ved materialets grænseflade. I modsætning til varmluft- eller varmkilesvejsning skaber RF-svejsning en ægte molekylær
+  binding — de to stoflag smelter sammen til ét homogent materiale i svejsezonen og danner en samling, der er lige så stærk som selve grundmaterialet.</p>
+
+
+  <h2>Svejseudstyr og proceskontrol</h2>
+
+  <p>Vores svejsecenter er udstyret med:</p>
+
+  <table>
+    <thead><tr><th>Maskine</th><th>Effekt / kapacitet</th><th>Anvendelse</th></tr></thead>
+    <tbody>
+      <tr><td>Dielektrisk RF-presse 1</td><td>15 kW, plade 2000 × 600 mm</td><td>Hovedlangsgående sømme, rail-til-skrog-samlinger</td></tr>
+      <tr><td>Dielektrisk RF-presse 2</td><td>10 kW, plade 1500 × 500 mm</td><td>Skotsvejsninger, rail-lukkesamlinger, ventilpatches</td></tr>
+      <tr><td>CNC-styret RF-svejsemaskine</td><td>8 kW, XY-bord 2500 × 1200 mm</td><td>Kurvede sømme, logo-/panelprægning, præcisionspatcharbejde</td></tr>
+      <tr><td>Automatisk varmkilesvejsemaskine</td><td>Variabel temperatur, maks. 1,2 m/min</td><td>Backupmetode til kraftigt PVC-railstof og reparationsarbejde</td></tr>
+    </tbody>
+  </table>
+
+  <p>Hver RF-presse er udstyret med lukket sløjfe-overvågning af temperatur og tryk. Svejseparametrene — effekt, pressetid, køletid, elektrodetryk — programmeres pr. materialetype og registreres i vores Manufacturing Execution System (MES) for fuld sporbarhed.</p>
+
+
+  <h2>Svejsekvalitetstests — hver søm, hvert bræt</h2>
+
+  <p>Svejsningens integritet verificeres gennem en obligatorisk protokol med fire tests:</p>
+
+  <ol>
+    <li><strong>Visuel inspektion</strong> — 100 % af sømmene inspiceres visuelt for gennembrænding, fejljustering, forurening eller ufuldstændig sammensmeltning. Afvisningsgrænse: 0,5 % af løbemeterne.</li>
+    <li><strong>Peeltest</strong> — En 25 mm bred strimmel skæres fra et testemne svejset i hver produktionsbatch. Minimum peelkraft: 120 N/25 mm for PVC 1100 dtex.</li>
+    <li><strong>Lufttæthedstest</strong> — Hvert færdigt kammer tryksættes til 1,5 × arbejdstryk og holdes i 30 minutter. Trykfaldet må ikke overstige 2 %.</li>
+    <li><strong>Termocyklingstest</strong> — Testemner cykler fra -20 °C til +60 °C i 50 cyklusser og peeltestes derefter igen. Acceptabelt styrketab: &lt; 10 %.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Sammenligning af peelstyrke — RF vs. varmluftssvejsning (PVC 1100 dtex)</p>
+    <div class="space-y-3">
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">RF-svejsning</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">184 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Varmluft</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">130 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Min.</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-green-500 rounded" style="width:48%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">96 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">RF-svejsning opnår konsekvent 90-95 % af grundmaterialets styrke — et godt stykke over minimumskravet.</p>
+  </div>
+
+
+  <h2>Professionel ekspertise</h2>
+
+  <p>Vores svejseteam ledes af en senior procesingeniør med 11 års erfaring med dielektrisk svejsning af coatede tekstiler. Hver operatør gennemfører et 6-måneders internt certificeringsprogram, før vedkommende må arbejde på produktionssømme. Recertificering kræves årligt, herunder en praktisk
+  svejsetest vurderet mod vores interne Grade-A-standard (peelstyrke ≥ 160 N/25 mm).</p>
+
+
+  <h2>Skræddersyede svejseløsninger til særlige krav</h2>
+
+  <p>Vi ved, at én svejsespecifikation ikke passer til alle anvendelser. Vores RF Welding Center udvikler løbende skræddersyede sømskonfigurationer til kunder med særlige krav:</p>
+
+  <ul>
+    <li><strong>Flerlags forstærkningspatches</strong> — til stærkt belastede områder som næse- og halerails udvikler vi flergangs-RF-svejsninger, der integrerer et slidbestandigt ydre lag uden at gå på kompromis med fleksibiliteten.</li>
+    <li><strong>Ledende eller RF-tætte sømme</strong> — til militære eller overvågningsanvendelser, der kræver elektromagnetisk afskærmning, svejser vi ledende netlag ind i sømmens opbygning.</li>
+    <li><strong>Svejsning af tofarvede paneler</strong> — tofarvede stoflag (f.eks. orange skrog + grå overkant) svejses med en skjult overlapning, så brandets æstetik bevares uden en synlig samling.</li>
+  </ul>
+
+
+  <h2>Vores løfte til dig</h2>
+
+  <p>Hvert bræt, vi leverer, er omfattet af vores svejsekvalitetsgaranti: hvis en søm svigter under normal brug inden for garantiperioden, reparerer eller udskifter vi det berørte kammer uden beregning, og der gennemføres en rodårsagsanalyse for at forhindre gentagelse. Dette er ikke blot en garanti —
+  det er et løfte om løbende forbedringer drevet af reelle driftsdata.</p>
+
+  <p>Når du vælger Afarer, vælger du sømme, der er konstrueret, testet og dokumenteret — ikke bare svejset. Det er forskellen mellem et bræt, der flyder, og et bræt, der performer.</p>
+cta:
+  title: Drøft dine svejsebehov
+  subtitle: Specialtilpassede sømspecifikationer, materialekompatibilitet eller procesvalidering.
+  button_text: Kontakt vores svejseteam
+  button_link: /contact/

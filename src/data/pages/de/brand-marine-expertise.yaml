@@ -1,0 +1,72 @@
+meta:
+  title: 'Marine-Kompetenz — Ingenieurskunst in jedem Rumpf | {SITE}'
+  description: 'Jahrzehntelange Marinetechnik-Kompetenz in jedem Rumpf. afarer beherrscht Drop-Stitch, Marine-PVC und professionelles Design aufblasbarer SUPs.'
+  keywords:
+    - 'Marinetechnik'
+    - 'Hersteller aufblasbarer SUPs'
+    - 'Paddleboard-Fertigung'
+hero:
+  tagline: Maritime Kompetenz
+  title: Jahrzehnte Marinetechnik<br />in jedem Rumpf
+  subtitle: afarer vereint Materialwissenschaft, Präzisionsfertigung und Praxisprüfung für Wasserfahrzeuge, die leisten, wenn es darauf ankommt.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: Ein Fernerfahrer-Maschinenbau- und F&E-Team bei der Arbeit
+expertise_materials:
+  tagline: Materialwissenschaft
+  title: Das richtige Material wählen<br />für jede Anwendung
+  subtitle: Wir arbeiten mit zwei Kernmaterialien – jedes ausgewählt für spezifische Anwendungsfälle und Leistungsanforderungen.
+  columns: 3
+  items:
+    - title: Marine-PVC
+      description: 1100-Denier-PVC-Gewebe — unser vielseitigstes Material. UV-stabilisiert, abriebfest und REACH-konform. Ideal für SUP-Boards, bei denen Gewicht und Kosteneffizienz zählen.
+      icon: tabler:droplet
+    - title: Glasfaser & Polyethylen
+      description: Glasfaser-laminierte SUPs für Premium-Steifigkeit und Gleitleistung. Rotationsgeformtes Polyethylen für robuste Verleih- und Rettungsnutzung mit maximaler Schlagfestigkeit.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Fertigungskapazitäten
+  title: Präzisionsfertigung<br />in jedem Schritt
+  subtitle: Unsere 12.000 m² Anlage ist mit Spezialmaschinen für jede Produktionsstufe ausgestattet.
+  columns: 2
+  items:
+    - title: CNC-Schneiden
+      description: Computergesteuerter Zuschnitt für präzise, wiederholbare Stoffbahnen mit minimalem Abfall.
+      icon: tabler:cpu
+    - title: Hochfrequenzschweißen
+      description: Industrielles HF-Schweißen erzeugt stärkere Nähte als das Basismaterial. Gleichmäßige Temperatur- und Druckkontrolle.
+      icon: tabler:bolt
+    - title: Drop-Stitch-Kernmontage
+      description: Tausende Polyesterfäden verbinden obere und untere Schichten für Hochdruckaufblasung (15-20 PSI).
+      icon: tabler:building-arch
+    - title: Druckprüfung
+      description: Jedes aufblasbare Produkt wird vor Versand druckgeprüft. Boards werden mit 1,25-fachem Nenndruck getestet — was das aushält, besteht auch auf dem Wasser.
+      icon: tabler:wind
+    - title: Nahtfestigkeitstest
+      description: Zufallsstichproben jeder Charge werden zerstörenden Nahtfestigkeitsprüfungen unterzogen.
+      icon: tabler:files
+    - title: Wasserprüfung
+      description: Jedes SUP-Modell durchläuft vor der Zertifizierung Seeerprobungen unter Küstenbedingungen.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Design & Technik
+  title: Für reale Bedingungen entwickelt
+  subtitle: Unsere Designphilosophie beginnt mit der Nutzung des Boards – dann entwickeln wir die Technik darum herum.
+  items:
+    - title: Performance-Rumpfdesign
+      description: Jede Rumpfform ist auf ihren Anwendungsfall abgestimmt — Verdrängungs-Bug für Touring-Gleiten, zusätzlicher Rocker für Wendigkeit im Surf, flache stabile Profile für Angeln und Yoga.
+    - title: Drop-Stitch-Sicherheit
+      description: Jedes Board verfügt über einen steifen Drop-Stitch-Kern mit verstärkten Rails. Wird ein Bereich beschädigt, hält die zugfeste Drop-Stitch-Struktur das Board einsatzbereit.
+    - title: Ergonomisches Decklayout
+      description: Deckpad-Zonierung, Position des Tragegriffs und Montagepunkte sind auf den Fahrerkomfort bei längerer Nutzung ausgelegt – ob Touring, Angeln oder Patrouille.
+    - title: Benutzerdefinierte Konfiguration
+      description: Rail-Farben, Deckpad-Konfiguration, Zubehörhalterungen, Gepäckkapazität – jedes Modell kann an spezifische betriebliche Anforderungen angepasst werden.
+cta:
+  title: Haben Sie eine bestimmte Anwendung im Sinn?
+  subtitle: Unser Engineering-Team berät zu Materialauswahl, Design und Fertigung.
+  actions:
+    - variant: primary
+      text: Fragen Sie unsere Ingenieure
+      href: /contact/
+    - text: Produktpalette ansehen
+      href: /products/

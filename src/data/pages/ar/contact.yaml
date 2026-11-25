@@ -1,0 +1,145 @@
+meta:
+  title: 'اتصل بنا — استفسارات الشراكة والمنتجات | {SITE}'
+  description: 'تواصل مع afarer للحصول على استفسارات الشراكة والعلامة المشتركة والعلامات الخاصة، أو الأساطيل الاحترافية. علامة ألواح SUP القابلة للنفخ، نرد خلال يومي عمل.'
+  keywords:
+    - 'اتصل بـ afarer'
+    - 'عرض SUP للموزعين'
+    - 'مورّد SUP محترف'
+    - 'التواصل مع مصنّع SUP'
+hero_text:
+  tagline: اتصل بنا
+  title: تواصل معنا
+contact_form:
+  id: form
+  title: أرسل لنا رسالة
+  subtitle: للاستفسار عن الأسعار أو الأسئلة الفنية أو استفسارات الشراكة، أرسل لنا رسالة. نرد خلال يوم عمل واحد.
+  email_to: info@afarer.com
+  submit_button: أرسل الاستفسار → احصل على عرض سعر
+  success_message: شكراً! رسالتك قد وصلت إلى صندوق الوارد لدينا. سنرد خلال يوم عمل واحد.
+  error_message: حدث خطأ أثناء إرسال رسالتك. يرجى المحاولة مرة أخرى أو مراسلتنا مباشرة عبر البريد الإلكتروني.
+  default_country_code: '+1'
+  captcha:
+    label: 'مكافحة البريد المزعج: يرجى حل ما يلي'
+  fields:
+    - name: country
+      label: الدولة
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: حجم الطلب التقديري
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: اختر حجمك التقديري...
+        - value: sample
+          label: عينات / نماذج أولية فقط
+        - value: '5-10'
+          label: 5–10 وحدات (الحد الأدنى للطلب القياسي MOQ)
+        - value: '100-500'
+          label: 100–500 وحدة
+        - value: '500-plus'
+          label: أكثر من 500 وحدة (تسعير حسب الكمية)
+      step: 1
+    - name: customization
+      label: هل تحتاج إلى تخصيص؟
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: اختر نوع التخصيص...
+        - value: none
+          label: منتج قياسي (بدون تخصيص)
+        - value: logo
+          label: شعار مخصص / علامة تجارية فقط
+        - value: full
+          label: علامة مشتركة كاملة (الحجم، اللون، التصاميم، التغليف)
+        - value: consultation
+          label: غير متأكد — أحتاج إلى استشارة
+      step: 1
+    - name: productInterest
+      label: فئات المنتجات المهمة
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: اختر فئة المنتج...
+        - value: all
+          label: جميع المنتجات / الكتالوج الكامل
+        - value: sup
+          label: ألواح SUP / ألواح التجديف
+        - value: safety
+          label: معدات السلامة / سترات النجاة
+        - value: accessory
+          label: الملحقات (المضخات، المجاديف، الحقائب)
+      step: 1
+    - name: firstName
+      label: الاسم الأول
+      row: 1
+      step: 2
+    - name: lastName
+      label: اسم العائلة
+      row: 1
+      step: 2
+    - name: companyName
+      label: اسم الشركة
+      row: 2
+      step: 2
+    - name: email
+      label: البريد الإلكتروني
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: الهاتف
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: العنوان
+      row: 4
+      step: 2
+    - name: zip
+      label: الرمز البريدي
+      row: 5
+      step: 2
+    - name: subject
+      label: الموضوع
+      row: 1
+      step: 3
+    - name: message
+      label: الرسالة
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: طرق أخرى للتواصل معنا
+  columns: 3
+  items:
+    - title: استفسارات المبيعات
+      description: عروض الأسعار، التهيئة، طلبات الوكالة والطلبات بالجملة.
+      icon: tabler:shopping-bag
+    - title: الدعم الفني
+      description: الضمان، الإصلاحات، قطع الغيار وأسئلة التشغيل.
+      icon: tabler:tool
+    - title: الإعلام والشراكات
+      description: الحزم الإعلامية، الرعاية والتعاون الصناعي.
+      icon: tabler:news
+    - title: الهاتف
+      description: +1 279 732 3333
+      icon: tabler:headset
+    - title: البريد الإلكتروني
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: المقر الرئيسي
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: موقعنا
+  subtitle: زرنا في مقرنا الرئيسي
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

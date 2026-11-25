@@ -1,0 +1,66 @@
+meta:
+  title: 'Kvalitetslaboratorium — Testing & kvalitetssikring | {SITE}'
+  description: 'Uavhengig kvalitetslabb med ISO 9001-prosesser hos afarer: hver enhet testes før forsendelse for å garantere kvaliteten på oppblåsbare SUPer.'
+  keywords:
+    - 'SUP kvalitetskontroll'
+    - 'paddle board testlabb'
+    - 'ISO 9001 SUP-fabrikk'
+    - 'kvalitet oppblåsbar SUP'
+hero:
+  tagline: Kvalitetskontrollaboratorium
+  title: Testing laboratorium og kvalitetssikring
+  subtitle: Uavhengig kvalitetslab med ISO 9001-prosesser — hver enhet testes før forsendelse
+intro: >-
+  afarer driver et dedikert kvalitetskontrollaboratorium som opererer uavhengig av produksjonen. Hvert råvarebatch og hvert ferdig brett gjennomgår dokumenterte inspeksjonsprotokoller før frigivelse. Vårt kvalitetskontrollteam rapporterer direkte til ledelsen, noe som sikrer upartiske
+  kvalitetsbeslutninger.
+highlights:
+  - value: 100%
+    label: Enheter trykktestet
+    detail: Hvert kammer, hvert brett
+  - value: 24–48 h
+    label: Varighet av luftretensjonstest
+    detail: Ved 1,25× nominelt trykk
+  - value: '&lt;5%'
+    label: Maks tillatt trykkfall
+    detail: Holdperiode på 24–48 timer
+  - value: AQL 2,5
+    label: Terskel for alvorlige feil
+    detail: I henhold til ISO 2859-utvalg
+test_procedures:
+  - title: Råvareinspeksjon
+    description: Hvert innkommende batch av PVC, drop-stitch-stoff og maskinvare testes før godkjenning. Strekkfasthet (ASTM D751), rivemotstand (ISO 4674) og UV-motstand verifiseres. Avvikende materialer settes i karantene og returneres.
+    standards:
+      - ASTM D751 (trekkfasthet)
+      - ISO 4674 (rivestyrke)
+      - ISO 4892 (UV)
+  - title: Kontrollpunkter under produksjon
+    description: Produksjonsoperatørene utfører selvkontroll på hvert trinn. KI-revisorene foretar tilfeldig prøvetaking gjennom hele skiftet. Sveiseskallstester utføres hver 50. enhet. Dimensjonskontroller skjer hvert 20. panel.
+    standards:
+      - ASTM D751 (skalløsning)
+      - Intern 100-punkts sjekkliste
+      - ISO 2859-utvalg
+  - title: 24–48-timers luftlekkasjetest
+    description: Hvert rørkammer blåses opp til 125 % av nominelt trykk og holdes i 24–48 timer. Trykksensorer logger kontinuerlig med temperaturkompensasjon. Ethvert kammer som overskrider 5 % trykkfall utløser automatisk batchrevisjon.
+    standards:
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Last- og balansetesting
+    description: Ferdige brett testes ved maksimal nominell kapasitet for stabilitet og stivhet. Hvert brett gjennomgår vanntesting før endelig inspeksjonsgodkjenning.
+    standards:
+      - ISO 12217
+      - CE 2013/53/EU
+equipment:
+  - name: Universal testmaskin (strekk)
+    spec: 5 kN, ASTM D751-kompatibel
+  - name: Pressure Decay Tester
+    spec: Flerkanals, 0–50 psi, datalogging
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1 000 timers sykluser
+  - name: Tykkelsesmåler (digital)
+    spec: 0,01 mm oppløsning
+  - name: Peel Tester (weld)
+    spec: Motorisert, 50 N kapasitet
+  - name: Temperature Chamber
+    spec: '-40 °C til +100 °C'
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, opplyst

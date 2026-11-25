@@ -1,0 +1,42 @@
+meta:
+  title: 'Technologie — Drop Stitch & PVC Marine | {SITE}'
+  description: "Technologies afarer : drop stitch, PVC marine, construction double couche et haute pression. L'innovation d'un fabricant professionnel de SUP gonflables."
+  keywords:
+    - 'technologie SUP'
+    - 'drop stitch technologie'
+    - 'SUP haute pression'
+    - 'matériaux SUP gonflable'
+hero:
+  tagline: Technologie
+  title: Conçu pour la Performance
+  subtitle: Chaque planche afarer est conçue avec des matériaux de précision et des méthodes de construction éprouvées pour les environnements marins.
+sections:
+  - title: Noyau Drop-Stitch
+    description: Des milliers de fils de polyester internes relient les couches supérieure et inférieure, créant une structure rigide à 12-15 PSI. C'est la même technologie utilisée dans les planches à pagaie professionnelles et les SUP de course gonflables.
+    imageAlt: Diagramme du Noyau DS
+  - title: PVC qualité marine
+    description: Tissu PVC stratifié multicouche conçu pour les environnements marins. Chaque couche est soudée par fusion plutôt que collée, éliminant les risques de délaminage. Testé pour la résistance UV, la corrosion en eau salée et l’abrasion.
+    imageAlt: Couche PVC
+  - title: PVC de qualité militaire
+    description: Utilisé sur tous les modèles SUP, le PVC premium offre une résistance UV et chimique supérieure. Maintient sa flexibilité dans les températures extrêmes et résiste à la dégradation.
+    imageAlt: PVC
+  - title: Plancher Air Deck
+    description: Construction drop-stitch gonflable haute pression offrant une rigidité exceptionnelle pour la station debout, la pêche et le yoga. Réduit le temps d’installation, le poids total et le volume de stockage.
+    imageAlt: Air Deck
+related:
+  title: Connexes
+  links:
+    - text: Centre R&D
+      url: /randdcenter
+    - text: Tests de Qualité
+      url: /quality
+    - text: Normes de Sécurité
+      url: /safety
+    - text: Garantie
+      url: /warranty
+    - text: Tourisme et Loisirs
+      url: /use-cases/tourism-recreation
+    - text: Guides
+      url: /guides
+    - text: Produits
+      url: /products

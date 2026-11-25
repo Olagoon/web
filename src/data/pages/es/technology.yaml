@@ -1,0 +1,42 @@
+meta:
+  title: 'Tecnología — Drop Stitch y PVC Marino | {SITE}'
+  description: 'Tecnologías afarer: construcción drop stitch, PVC marino, construcciones de doble capa y alta presión. Innovación de un fabricante profesional de SUP hinchables.'
+  keywords:
+    - 'tecnología de SUP'
+    - 'construcción drop stitch'
+    - 'SUP de alta presión'
+    - 'materiales de SUP hinchable'
+hero:
+  tagline: Tecnología
+  title: Nuestra tecnología
+  subtitle: Los productos afarer están diseñados con materiales avanzados e ingeniería innovadora para ofrecer un rendimiento, durabilidad y portabilidad excepcionales.
+sections:
+  - title: Núcleo de Puntada Abajo
+    description: Miles de hilos internos de poliéster conectan las capas superior e inferior, creando una estructura rígida a 12-15 PSI. Esta es la misma tecnología utilizada en tablas de paddle profesionales y SUPs inflables de carreras.
+    imageAlt: Diagrama Principal de DS
+  - title: PVC de grado marino
+    description: Tela de PVC laminada de varias capas, clasificada para entornos marinos. Cada capa está soldada por fusión en lugar de pegada, eliminando los riesgos de delaminación. Probada para resistencia a los rayos UV, corrosión por agua salada y abrasión.
+    imageAlt: Capa de PVC
+  - title: PVC de grado militar
+    description: Usado en todos los modelos de SUP, el PVC premium proporciona una resistencia superior a los rayos UV y a los productos químicos. Mantiene la flexibilidad en temperaturas extremas y resiste la degradación.
+    imageAlt: PVC
+  - title: Suelo de la cubierta aérea
+    description: Construcción inflable de alta presión con costura en caída que proporciona una rigidez excepcional para estar de pie, pescar y hacer yoga. Reduce el tiempo de montaje, el peso total y el volumen de almacenamiento.
+    imageAlt: Cubierta de aire
+related:
+  title: Relacionado
+  links:
+    - text: Centro de I+D
+      url: /randdcenter
+    - text: Pruebas de Calidad
+      url: /quality
+    - text: Normas de seguridad
+      url: /safety
+    - text: Garantía
+      url: /warranty
+    - text: Turismo y Recreación
+      url: /use-cases/tourism-recreation
+    - text: Guías
+      url: /guides
+    - text: Productos
+      url: /products

@@ -1,0 +1,176 @@
+meta:
+  title: 'Akademie — SUP průvodci a výcvik pádlování | {SITE}'
+  description: 'Akademie afarera: průvodci nafukovacími paddleboardy, techniky stand up paddle, námořní bezpečnost a znalost materiálů pro začátečníky i profesionály.'
+  keywords:
+    - 'učení stand up paddle'
+    - 'SUP průvodce pro začátečníky'
+    - 'základy paddleboardingu'
+    - 'SUP techniky'
+    - 'SUP lekce'
+hero:
+  tagline: afarer Academy
+  title: Vzdělávací centrum
+  subtitle: Průvodci a návody pro každou úroveň dovedností – od základů SUP až po pokročilé techniky záchrany
+categories:
+  - level: Začátečník
+    color: from-green-500 to-emerald-600
+    badge: bg-green-100 text-green-700
+    guides:
+      - title: Základy SUP
+        desc: Naučte se základy stand-up paddleboardingu — postoj, techniku záběru a rovnováhu.
+        slug: beginner-sup-guide
+      - title: Techniky pádlování
+        desc: Záběr vpřed, obloukový záběr, přitahovací záběr a nízká podpěra — zvládněte základní pádlařské dovednosti.
+        slug: sup-paddle-guide
+      - title: Bezpečnost na prvním místě
+        desc: Základní bezpečnostní postupy včetně kontroly počasí, používání PFD, pravidel pro vodítko a sebezáchrany.
+        slug: sup-safety-guide
+  - level: Středně pokročilí
+    color: from-blue-500 to-indigo-600
+    badge: bg-blue-100 text-blue-700
+    guides:
+      - title: Základy touringu
+        desc: Plánování vícehodinových pádlování — navigace, hydratace, rozložení tempa a čtení předpovědi větru.
+        slug: touring-sup-guide
+      - title: Čtení počasí
+        desc: Interpretujte námořní předpovědi, rozpoznávejte typy oblačnosti a porozumějte vlivu větru na vodní hladinu.
+        slug: weather-planning-water-sports
+      - title: Základy navigace
+        desc: Čtení námořních map, práce s kompasem, GPS waypointy a plánování tras pro pádlování podél pobřeží.
+        slug: sup-navigation-guide
+      - title: Základy přílivu a odlivu
+        desc: Pochopení cyklů přílivu a odlivu, mořských proudů a jejich vlivu na načasování spouštění na vodu a plánování trasy.
+        slug: understanding-tides
+  - level: Pokročilé
+    color: from-purple-500 to-violet-600
+    badge: bg-purple-100 text-purple-700
+    guides:
+      - title: Plánování vícedenních výprav
+        desc: Logistika expedice — výběr vybavení, plánování stravy, bezpečnostní protokoly a nouzové kontakty.
+        slug: sup-travel-guide
+      - title: Záchranné techniky
+        desc: Protokoly sebezáchrany, T-rescue a vlečení pro otevřenou vodu.
+        slug: sup-self-rescue
+      - title: Noční pádlování
+        desc: Navigace po setmění — požadavky na osvětlení, zapamatování trasy, komunikace ve skupině a povědomí o rizicích.
+        slug: ocean-safety-basics
+  - level: Údržba
+    color: from-amber-500 to-orange-600
+    badge: bg-amber-100 text-amber-700
+    guides:
+      - title: Čištění a údržba
+        desc: Oplach sladkou vodou, ochrana před UV zářením, prevence plísní a správné sušení po každém použití.
+        slug: inflatable-sup-maintenance
+      - title: Průvodce skladováním
+        desc: Osvědčené postupy skladování nafukovacích SUP prken – vypuštění, skládání, kontrola teploty a životnost.
+        slug: inflatable-sup-storage
+      - title: Základy oprav
+        desc: Opravte drobné proražení, netěsnosti švů a problémy s ventily pomocí PVC opravných sad a technik záplatování.
+        slug: inflatable-sup-repair
+      - title: Údržba ventilů
+        desc: Rozpoznejte typy ventilů (Halkey-Roberts, Boston, Leafield), odstraňte nečistoty a vyměňte vadná vřetena.
+        slug: sup-pump-guide
+knowledge_center_tagline: Znalostní centrum
+knowledge_center_title: Námořní vybavení a průmyslové příručky
+knowledge_center_subtitle: Odborné znalosti a nákupní průvodce pro námořní profesionály, provozovatele flotil a nadšence vodních sportů.
+knowledge_sections:
+  - title: Průvodce SUP prkny
+    tagline: Průvodci paddleboardingem
+    desc: Vše o prknech SUP — konstrukce prkna, materiály, výběr velikosti, údržba a rady při nákupu pro rekreační i komerční využití.
+    guides:
+      - title: Jak vybrat správné SUP prkno
+        desc: Kompletní průvodce výběrem SUP — velikost, objem, materiál, tvar a zamýšlené použití.
+        href: /learn/sup/
+      - title: Nafukovací vs. pevné SUP
+        desc: Nafukovací SUP vs. tvrdé epoxidové prkno – srovnání přenosnosti, odolnosti, výkonu a hodnoty.
+        href: /compare/inflatable-vs-hardboard/
+      - title: All-Around vs. Touring vs. Yoga SUP
+        desc: Různé typy SUP prken — výrobní standardy, tvary, rozměry a doporučené použití.
+        href: /learn/sup/
+      - title: Drop-stitch vs. tradiční konstrukce
+        desc: Porovnejte konstrukci drop-stitch a tradiční konstrukci SUP prken z hlediska hmotnosti, ceny, odolnosti a tuhosti.
+        href: /learn/drop-stitch-core/
+  - title: Průvodce nafukovacími SUP
+    tagline: Znalosti o nafukovacích SUP prknech
+    desc: Komplexní průvodce nafukovacími SUP prkny — PVC materiály, konstrukce drop-stitch, bezpečnostní normy a osvědčené postupy údržby.
+    guides:
+      - title: Průvodce materiálem PVC
+        desc: Definitivní průvodce materiály PVC používanými při výrobě nafukovacích SUP prken.
+        href: /learn/materials/
+      - title: Jak se vyrábějí nafukovací prkna SUP
+        desc: Výrobní proces — řezání materiálu, spojování jádra drop-stitch, konstrukce švů, tlakové testy a kontrola kvality.
+        href: /learn/inflatable-technology/
+      - title: Průvodce bezpečností na SUP
+        desc: Bezpečnostní normy, nosnost, správné nahuštění, kontrola před vyplutím a nouzové postupy.
+        href: /learn/water-safety/
+      - title: Údržba SUP
+        desc: Čištění, skladování, UV ochrana a opravy nafukovacích SUP desek.
+        href: /v2/inflatable-sup-maintenance/
+  - title: Průvodce SUP prkny
+    tagline: Rozcestník SUP prken
+    desc: Technické příručky pokrývající typy SUP prken, materiály, metody výroby, údržbu a bezpečnost.
+    guides:
+      - title: Typy SUP prken
+        desc: Univerzální, touringové, jógové, sportovní a dětské SUP — poznejte rozdíly a vyberte si to pravé.
+        href: /learn/sup/
+      - title: Technologie Drop-Stitch
+        desc: Jak tisíce vnitřních vláken vytvářejí tuhé nafukovací konstrukce pro vysoký tlak.
+        href: /learn/drop-stitch-core/
+      - title: Přehled materiálů
+        desc: Vysvětlení denierových hodnot PVC, gramáží tkanin, odolnosti vůči UV záření a materiálů námořní kvality.
+        href: /learn/materials/
+      - title: Průvodce nákupem prken SUP
+        desc: Porovnejte různé typy SUP prken pro různé způsoby použití a úrovně dovedností.
+        href: /learn/sup/
+  - title: Vědomosti o SUP
+    tagline: Průvodci paddleboardingem
+    desc: Vše o SUP prknech — nafukovací vs. pevné, rozměry prken, materiálové technologie a odborné rady pro všechny úrovně dovedností.
+    guides:
+      - title: Nafukovací vs. pevné SUP
+        desc: Porovnejte nafukovací SUP a tvrdá epoxidová prkna z hlediska přenosnosti, odolnosti, výkonu a hodnoty.
+        href: /learn/sup/
+      - title: Průvodce rozměry SUP desek
+        desc: Jak délka, šířka a tloušťka ovlivňují stabilitu, rychlost a ovladatelnost.
+        href: /learn/sup/
+      - title: Údržba a péče o SUP
+        desc: Tipy pro čištění, skladování, ochranu proti UV záření a opravy nafukovacích SUP prken.
+        href: /v2/inflatable-sup-maintenance/
+      - title: Jak vybrat své první SUP
+        desc: Průvodce pro začátečníky výběrem správného paddleboardu podle vaší váhy, úrovně dovedností a zamýšleného použití.
+        href: /learn/sup/
+  - title: Průvodce provozem půjčovny
+    tagline: Správa flotil pro půjčovny
+    desc: Průvodci budováním a správou flotil SUP k pronájmu pro plážové kiosky, vodní sportovní centra a pohostinská zařízení.
+    guides:
+      - title: Vybudování vaší půjčovny
+        desc: Jak vybrat správná SUP prkna pro vaši půjčovnu — odolnost, velikosti a návratnost investice.
+        href: /solutions/rental-operators/
+      - title: Průvodce údržbou flotily
+        desc: Základní postupy údržby, které maximalizují životnost prken a minimalizují prostoje flotil půjčoven.
+        href: /solutions/rental-operators/
+  - title: Průvodce pro resorty a hotely
+    tagline: Vodní aktivity pro hotely a resorty
+    desc: Příručky ke spuštění a provozu SUP programů pro resorty, hotely a přímořské destinace.
+    guides:
+      - title: Založení SUP programu v resortu
+        desc: Faktory, které je třeba zvážit při spuštění SUP aktivit pro hosty – velikost flotily, personální zajištění a modelování výnosů.
+        href: /solutions/resorts-hotels/
+      - title: SUP a jiné vodní aktivity
+        desc: Srovnání SUP programů s jinými vodními sporty z hlediska zážitku hostů a provozní efektivity.
+        href: /learn/sup/
+  - title: Průvodce prodejem a distribucí
+    tagline: Obchodní partnerství v oblasti SUP
+    desc: Průvodci pro zájemce o roli maloobchodního partnera nebo distributora SUP — plánování zásob, pozicování na trhu a strategie růstu.
+    guides:
+      - title: Jak se stát prodejcem prken SUP
+        desc: Jak vybrat produktové řady, řídit zásoby a prodávat SUP prkna ve vaší prodejně.
+        href: /solutions/retail-partners/
+      - title: SUP pro komerční provoz
+        desc: Proč jsou nafukovací SUP univerzálním produktem pro komerční flotily, půjčovny a profesionální provozovatele.
+        href: /solutions/rental-operators/
+read_guide: Přečtěte si průvodce →
+cta:
+  title: Nejste si jistí, kde začít?
+  desc: Vyplňte náš kvíz pro zhodnocení dovedností a najděte správné příručky a vybavení pro vaši úroveň.
+  label: Kontaktujte nás →
+  link: /contact/

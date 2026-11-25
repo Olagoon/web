@@ -1,0 +1,50 @@
+meta:
+  title: SUP-jakelukumppaniohjelma | {SITE}
+  description: Liity Afarerin maailmanlaajuiseen jakeluverkostoon. Yksinoikeudelliset alueet, kattava tuotevalikoima, kilpailukykyiset tukkuhinnat ja omistettu asiakaspalvelu.
+hero:
+  tagline: Jakelijat
+  title: Liity maailmanlaajuiseen<br />jakeluverkostoomme
+  subtitle: Yksinoikeusalueet. Täydellinen tuotevalikoima. Maailmanluokan tuki. Afarer toimittaa yli 50 maahan ja etsii vakiintuneita meri- ja vesiurheilun jakelijoita.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Afarerin maailmanlaajuinen jakelu- ja toimitustoiminta
+benefits:
+  title: Mitä jakelijat saavat
+  subtitle: Kaikki tarvitsemasi menestyäksesi markkinoillasi.
+  items:
+    - Yksinoikeudet alueellisesti
+    - Kattava tuoteluettelo (SUP, varusteet, varaosat)
+    - Kilpailukykyiset tukkuhinnat
+    - Markkinointi- ja myyntimateriaalit (käännettyinä)
+    - Koulutusohjelma (tuote, myynti, huolto)
+    - Messuetuki
+    - Näyteohjelma
+    - Drop-ship-toiminta
+    - Oma jakelija-asiakaspäällikkö
+    - 45–60 päivän maksuehdot
+coverage:
+  title: Nykyinen jakelu
+  subtitle: Afarer palvelee näitä markkinoita suoraan.
+  regions:
+    - name: Eurooppa
+      countries: Ranska, Saksa, Iso-Britannia, Espanja, Italia, Alankomaat, Ruotsi, Norja, Puola, Kreikka
+    - name: Aasia
+      countries: Japani, Etelä-Korea, Kiina, Thaimaa, Singapore
+    - name: Lähi-itä
+      countries: UAE, Saudi-Arabia
+    - name: Amerikka
+      countries: USA, Kanada, Brasilia, Meksiko
+    - name: Oseania
+      countries: Australia, Uusi-Seelanti
+    - name: Afrikka
+      countries: Etelä-Afrikka, Marokko
+cta:
+  title: Valmis jakelijaksi?
+  subtitle: Lähetä hakemus jakeluohjelmaamme tai lataa jakeluaineistopakettimme.
+  actions:
+    - text: Hae jakelijaohjelmaan
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Lataa jakelijapaketti
+      href: /resources/download-catalog/
+      variant: secondary

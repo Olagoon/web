@@ -1,0 +1,145 @@
+meta:
+  title: 'Επικοινωνία — ερωτήματα συνεργασίας και προϊόντων SUP | {SITE}'
+  description: 'Επικοινωνήστε με την afarer για ερωτήματα συνεργασίας, co-brand και private label ή επαγγελματικούς στόλους. Μάρκα φουσκωτών σανίδων SUP, απαντάμε εντός 2 εργάσιμων ημερών.'
+  keywords:
+    - 'επικοινωνία afarer'
+    - 'ερώτημα διανομέα SUP'
+    - 'επαγγελματίας προμηθευτής SUP'
+    - 'επικοινωνία κατασκευαστή SUP'
+hero_text:
+  tagline: Επικοινωνία
+  title: ΕΠΙΚΟΙΝΩΝΗΣΤΕ ΜΑΖΙ ΜΑΣ
+contact_form:
+  id: form
+  title: Στείλτε μήνυμα
+  subtitle: Για προσφορά, τεχνικές ερωτήσεις ή συνεργασία — γράψτε μας. Απαντάμε εντός μίας εργάσιμης ημέρας.
+  email_to: info@afarer.com
+  submit_button: Αποστολή ερωτήματος → Λήψη προσφοράς
+  success_message: Ευχαριστούμε! Το μήνυμά σας ελήφθη. Θα απαντήσουμε εντός μίας εργάσιμης ημέρας.
+  error_message: Παρουσιάστηκε σφάλμα κατά την αποστολή. Δοκιμάστε ξανά ή γράψτε απευθείας στο email.
+  default_country_code: '+1'
+  captcha:
+    label: 'Antispam: λύστε την παρακάτω άσκηση'
+  fields:
+    - name: country
+      label: Χώρα
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: Εκτιμώμενος όγκος παραγγελίας
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: Επιλέξτε τον εκτιμώμενο όγκο σας...
+        - value: sample
+          label: Μόνο δείγματα / πρωτότυπα
+        - value: '5-10'
+          label: 5–10 μονάδες (Τυπικό MOQ)
+        - value: '100-500'
+          label: 100–500 μονάδες
+        - value: '500-plus'
+          label: 500+ μονάδες (Τιμή όγκου)
+      step: 1
+    - name: customization
+      label: Χρειάζεστε προσαρμογή;
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: Επιλέξτε τύπο προσαρμογής...
+        - value: none
+          label: Τυποποιημένο προϊόν (χωρίς προσαρμογή)
+        - value: logo
+          label: Μόνο Προσαρμοσμένο Λογότυπο / Σήμα
+        - value: full
+          label: Πλήρες Co-Brand (μέγεθος, χρώμα, γραφικά, συσκευασία)
+        - value: consultation
+          label: Δεν είμαι σίγουρος — χρειάζομαι συμβουλή
+      step: 1
+    - name: productInterest
+      label: Κατηγορίες προϊόντων ενδιαφέροντος
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: Επιλέξτε κατηγορία προϊόντος...
+        - value: all
+          label: Όλα τα προϊόντα / Πλήρης κατάλογος
+        - value: sup
+          label: Σανίδες SUP / Paddleboards
+        - value: safety
+          label: Εξοπλισμός Ασφαλείας / Σωσίβια
+        - value: accessory
+          label: Αξεσουάρ (αντλίες, κουπιά, τσάντες)
+      step: 1
+    - name: firstName
+      label: Όνομα
+      row: 1
+      step: 2
+    - name: lastName
+      label: Επώνυμο
+      row: 1
+      step: 2
+    - name: companyName
+      label: Εταιρεία
+      row: 2
+      step: 2
+    - name: email
+      label: Email
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: Τηλέφωνο
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: Διεύθυνση
+      row: 4
+      step: 2
+    - name: zip
+      label: Ταχ. Κώδικας
+      row: 5
+      step: 2
+    - name: subject
+      label: Θέμα
+      row: 1
+      step: 3
+    - name: message
+      label: Μήνυμα
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: Άλλοι τρόποι επικοινωνίας
+  columns: 3
+  items:
+    - title: Εμπορικά ερωτήματα
+      description: Προσφορές, διαμορφώσεις, αιτήματα αντιπροσώπων και χονδρικές παραγγελίες.
+      icon: tabler:shopping-bag
+    - title: Τεχνική υποστήριξη
+      description: Εγγύηση, επισκευές, ανταλλακτικά και ερωτήσεις λειτουργίας.
+      icon: tabler:tool
+    - title: Τύπος και συνεργασίες
+      description: Πακέτα μέσων, χορηγίες και βιομηχανικές συνεργασίες.
+      icon: tabler:news
+    - title: Τηλέφωνο
+      description: +1 279 732 3333
+      icon: tabler:headset
+    - title: Email
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: Έδρα
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: Η τοποθεσία μας
+  subtitle: Επισκεφθείτε μας
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

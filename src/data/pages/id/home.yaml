@@ -1,0 +1,104 @@
+meta:
+  title: Papan Paddle Angin Afarer | Melaju Lebih Jauh. Mengayuh Lebih Kuat.
+  description: Temukan papan paddle angin Afarer untuk kayuh all-around, touring, yoga, memancing, dan petualangan luar ruangan. Temukan SUP yang sempurna dan jelajahi lebih banyak di air.
+  keywords:
+    - papan paddle angin
+    - sup angin
+    - sup all-around
+    - sup touring
+    - sup yoga
+    - sup mancing
+    - papan paddle keluarga
+    - papan paddle portabel
+hero:
+  tagline: Papan Paddle Angin
+  title: Papan Paddle Angin untuk Setiap Petualangan
+  slogan: Melaju Lebih Jauh. Mengayuh Lebih Kuat.
+  subtitle: Temukan kebebasan berayuh bersama Afarer. Jelajahi SUP angin yang dirancang dengan cermat untuk hari santai di danau, petualangan pesisir, kebugaran, dan semua di antaranya.
+  taglineSection: Dibangun untuk kepercayaan. Dirancang untuk menonjol.
+  actions:
+    - variant: primary
+      text: Temukan Papan Anda
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Jelajahi SUP
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Mengapa Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Papan paddle angin Afarer meluncur di air tenang saat matahari terbit — dibangun untuk setiap petualangan
+who_we_serve:
+  tagline: Ayuh Bersama Kami
+  title: Temukan Jalan Anda di Air
+  subtitle: Setiap pemadu punya ide petualangan yang berbeda. Temukan SUP Afarer yang dirancang sesuai gaya kayuh Anda.
+  items:
+    - title: Pemula & Pemadu Rekreasi
+      keywords: sup angin untuk pemula, papan paddle all-around, sup stabil
+      description: Papan all-around yang lebar dan stabil membuat kayuhan pertama terasa alami dan terus menemani seiring kemajuan Anda.
+      icon: tabler:users
+      cta: Temukan Papan Pertama Anda
+      link: /all-around-sup/
+    - title: Touring & Petualangan
+      keywords: sup touring, papan paddle jarak jauh, sup ekspedisi
+      description: Papan yang lebih panjang dan sempit yang menjaga arah, meluncur lebih jauh, dan membawa perlengkapan untuk rute beberapa hari.
+      icon: tabler:building
+      cta: Jelajahi SUP Touring
+      link: /touring-sup/
+    - title: Yoga & Kebugaran
+      keywords: sup yoga, papan paddle kebugaran, sup lebar dan stabil
+      description: Platform lebar dan stabil dengan ruang untuk bergerak — untuk aliran matahari terbit, latihan, dan keseimbangan di air tenang.
+      icon: tabler:heart
+      cta: Jelajahi SUP Yoga
+      link: /yoga-sup/
+    - title: Memancing & Keluarga
+      keywords: sup mancing, papan paddle keluarga, platform memancing stabil
+      description: Platform stabil dan praktis untuk memancing, berayuh bersama anak-anak, dan hari-hari santai yang panjang di air.
+      icon: tabler:users
+      cta: Jelajahi SUP Mancing
+      link: /fishing-sup/
+proof_points:
+  title: Teruji Melampaui Ruang Pamer
+  subtitle: Desain, performa, dan kualitas yang dapat Anda verifikasi — di air dan dalam angka.
+  items:
+    - metric: 10+
+      label: Tahun Merancang untuk Air
+      detail: Sejak 2012, disempurnakan papan demi papan
+    - metric: 50+
+      label: Negara di Air
+      detail: Pendayung dan mitra di seluruh dunia
+    - metric: 12–15
+      label: PSI Inti Drop-Stitch
+      detail: Kaku saat dibutuhkan, mudah dikemas
+    - metric: 100%
+      label: Uji Tekanan Papan demi Papan
+      detail: Diperiksa sebelum dikirim
+business_solutions:
+  tagline: Mengapa Rasanya Berbeda
+  title: Performa yang Terasa dari Kayuhan Pertama
+  subtitle: Empat pilar yang dibentuk oleh air sungguhan — performa, desain, konstruksi, dan kualitas.
+  items:
+    - title: Performa di Air
+      description: Bentuk yang disetel untuk stabilitas, luncuran, dan percaya diri di air berombak — setiap kayuhan tetap terhubung dengan air.
+      icon: tabler:shield-check
+    - title: Desain Ekspresif
+      description: Koleksi yang terinspirasi pasang surut, satwa liar, dan energi pesisir — papan yang ingin Anda perlihatkan.
+      icon: tabler:package
+    - title: Konstruksi Terbukti
+      description: Inti drop-stitch berkepadatan tinggi, rel yang diperkuat, dan sambungan laminasi fusi untuk pemakaian berulang.
+      icon: tabler:headset
+    - title: Kualitas Terverifikasi
+      description: Diuji tekanan, diperiksa visual, dan didukung garansi yang jelas serta layanan purnajual yang responsif.
+      icon: tabler:truck-delivery
+cta:
+  title: Temukan papan Anda berikutnya.
+  subtitle: Entah kayuhan pertama atau rute terjauh Anda — kami akan membawa Anda ke air.
+  actions:
+    - variant: primary
+      text: Jelajahi Koleksi
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Minta Katalog
+      href: /resources/download-catalog/

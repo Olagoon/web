@@ -1,0 +1,42 @@
+meta:
+  title: 'Technologie — Drop Stitch & Maritiem PVC | {SITE}'
+  description: 'afarer-technologieën: drop stitch-constructie, maritiem PVC, dubbellaagse constructies en hoge druk. Innovatie van een professionele fabrikant van opblaasbare SUPs.'
+  keywords:
+    - 'SUP-technologie'
+    - 'drop stitch constructie'
+    - 'hogedruk SUP'
+    - 'opblaasbare SUP materialen'
+hero:
+  tagline: Technologie
+  title: Onze technologie
+  subtitle: afarer-producten zijn ontworpen met geavanceerde materialen en innovatieve techniek om uitzonderlijke prestaties, duurzaamheid en draagbaarheid te leveren.
+sections:
+  - title: Drop-Stitch Kern
+    description: Duizenden interne polyesterdraadjes verbinden de boven- en onderlagen, waardoor een starre structuur ontstaat bij 12-15 PSI. Dit is dezelfde technologie die wordt gebruikt in professionele paddleboards en opblaasbare race-SUP's.
+    imageAlt: DS Core-diagram
+  - title: Marinekwaliteit PVC
+    description: Meerlaagse gelamineerde PVC-stof, geschikt voor maritieme omgevingen. Elke laag is gefuseerd in plaats van gelijmd, waardoor het risico op delaminatie wordt geëlimineerd. Getest op UV-bestendigheid, zoutwatercorrosie en slijtage.
+    imageAlt: PVC-laag
+  - title: Militair PVC
+    description: Gebruikt op alle SUP-modellen, biedt premium PVC superieure UV- en chemische bestendigheid. Behoudt flexibiliteit bij extreme temperaturen en weerstaat degradatie.
+    imageAlt: PVC
+  - title: Luchtdekvloer
+    description: Hoogdruk opblaasbare drop-stitch constructie die uitzonderlijke stijfheid biedt voor staan, vissen en yoga. Vermindert de opzetijd, het totale gewicht en het opslagvolume.
+    imageAlt: Luchtdak
+related:
+  title: Gerelateerd
+  links:
+    - text: R&D Centrum
+      url: /randdcenter
+    - text: Kwaliteitstesten
+      url: /quality
+    - text: Veiligheidsnormen
+      url: /safety
+    - text: Garantie
+      url: /warranty
+    - text: Toerisme & Recreatie
+      url: /use-cases/tourism-recreation
+    - text: Gidsen
+      url: /guides
+    - text: Producten
+      url: /products

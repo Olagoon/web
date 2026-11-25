@@ -1,0 +1,104 @@
+meta:
+  title: Afarer Oppblåsbare Paddleboards | Gå lenger. Kjør hardere.
+  description: Oppdag Afarer oppblåsbare paddleboards for allround-paddling, touring, yoga, fiske og friluftseventyr. Finn din perfekte SUP og utforsk mer på vannet.
+  keywords:
+    - oppblåsbar paddleboard
+    - oppblåsbar sup
+    - allround sup
+    - touring sup
+    - yoga sup
+    - fiskesup
+    - familie paddleboard
+    - portabel paddleboard
+hero:
+  tagline: Oppblåsbare Paddleboards
+  title: Oppblåsbare Paddleboards for hvert Eventyr
+  slogan: Gå lenger. Kjør hardere.
+  subtitle: Oppdag friheten i padling med Afarer. Utforsk gjennomtenkte oppblåsbare SUP-er for avslappede dager ved innsjøen, kysteventyr, trening og alt imellom.
+  taglineSection: Bygget for trygghet. Designet for å skille seg ut.
+  actions:
+    - variant: primary
+      text: Finn ditt Brett
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Utforsk SUP
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Hvorfor Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Afarer oppblåsbare paddleboards som glir over stille vann i soloppgang — bygget for hvert eventyr
+who_we_serve:
+  tagline: Kjør Med Oss
+  title: Finn din Vei på Vannet
+  subtitle: Hver padler har sin egen ide om eventyr. Oppdag en Afarer SUP designet for måten du padler på.
+  items:
+    - title: Nybegynnere & Fritidspadlere
+      keywords: oppblåsbar sup for nybegynnere, allround paddleboard, stabil sup
+      description: Brede, stabile allround-brett som får ditt første padletak til å føles naturlig og følger deg videre.
+      icon: tabler:users
+      cta: Finn ditt første Brett
+      link: /all-around-sup/
+    - title: Touring & Eventyr
+      keywords: touring sup, langdistanse paddleboard, ekspedisjonssup
+      description: Lengre, smalere brett bygget for å holde kursen, gli lenger og bære utstyr for turer over flere dager.
+      icon: tabler:building
+      cta: Utforsk Touring SUP
+      link: /touring-sup/
+    - title: Yoga & Trening
+      keywords: yoga sup, treningspaddleboard, bred og stabil sup
+      description: Brede, stabile plattformer med rom for bevegelse — for soloppgangsflow, økter og balanse i stille vann.
+      icon: tabler:heart
+      cta: Utforsk Yoga SUP
+      link: /yoga-sup/
+    - title: Fiske & Familie
+      keywords: fiskesup, familie paddleboard, stabil fiskeplattform
+      description: Stabile, praktiske plattformer for fiske, turer med ungene og lange, avslappede dager på vannet.
+      icon: tabler:users
+      cta: Utforsk Fiskesup
+      link: /fishing-sup/
+proof_points:
+  title: Testet utover showroomet
+  subtitle: Design, ytelse og kvalitet du kan verifisere — på vannet og i tallene.
+  items:
+    - metric: 10+
+      label: Års design for vannet
+      detail: Siden 2012, finpusset bord for bord
+    - metric: 50+
+      label: Land på vannet
+      detail: Padlere og partnere over hele verden
+    - metric: 12–15
+      label: PSI drop-stitch-kjerne
+      detail: Stivt der det gjelder, lett å pakke
+    - metric: 100%
+      label: Trykktestet, bord for bord
+      detail: Inspisert før utsendelse
+business_solutions:
+  tagline: Derfor Kjører Annerledes
+  title: Ytelse du Kjenner ved første Padletak
+  subtitle: Fire søyler formet av ekte vann — ytelse, design, konstruksjon og kvalitet.
+  items:
+    - title: Ytelse på Vannet
+      description: Former justert for stabilitet, glid og trygghet i sjøgang — hvert padletak føles forbundet med vannet.
+      icon: tabler:shield-check
+    - title: Uttrykksfull Design
+      description: Kolleksjoner inspirert av tidevann, dyreliv og kystens energi — brett du vil ses med.
+      icon: tabler:package
+    - title: Beprøvd Konstruksjon
+      description: Drop-stitch-kjerner med høy tetthet, forsterkede relinger og fusjonslaminerte sømmer for gjentatt bruk.
+      icon: tabler:headset
+    - title: Verifisert Kvalitet
+      description: Trykktestet, visuelt inspisert og støttet av en tydelig garanti og responsiv kundestøtte.
+      icon: tabler:truck-delivery
+cta:
+  title: Finn ditt neste brett.
+  subtitle: Enten det er ditt første padletak eller din lengste rute — vi får deg ut på vannet.
+  actions:
+    - variant: primary
+      text: Utforsk Kolleksjonen
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Be om Katalogen
+      href: /resources/download-catalog/

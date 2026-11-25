@@ -1,0 +1,68 @@
+meta:
+  title: 'Certificeringen — CE, ISO 9001 & Conformiteit | {SITE}'
+  description: 'Kwaliteitscertificeringen van afarer: CE (Richtlijn 2013/53/EU), ISO 9001:2015, BSCI. Conformiteit en veiligheid voor een fabrikant van opblaasbare SUPs.'
+  keywords:
+    - 'CE-certificering paddle board'
+    - 'ISO 9001 paddle board'
+    - 'nautische conformiteit'
+    - 'paddle board certificering'
+hero:
+  tagline: Certificeringen & Normen
+  title: Kwaliteitscertificeringen<br />& Nalevingsnormen
+  subtitle: afarer-producten worden vervaardigd in overeenstemming met internationale maritieme veiligheidsnormen, kwaliteitsmanagementsystemen en milieuvoorschriften.
+  image:
+    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
+    alt: afarer kwaliteitscertificeringen en nalevingsdocumentatie
+content_certifications:
+  tagline: Onze certificeringen
+  title: Gecertificeerde Kwaliteit,<br />Wereldwijd Erkend
+  subtitle: Elk afarer-product wordt ondersteund door certificeringen die onze toewijding aan kwaliteit, veiligheid en milieuverantwoordelijkheid aantonen.
+  items:
+    - title: CE-gecertificeerd
+      description: Alle afarer-producten voldoen aan de Europese CE-markeringseisen voor recreatievaartuigen, waardoor aan veiligheids-, gezondheids- en milieubeschermingsnormen wordt voldaan.
+      icon: tabler:certificate
+    - title: ISO 9001:2015
+      description: Ons kwaliteitsmanagementsysteem is ISO 9001:2015 gecertificeerd en dekt ontwerp, productie en distributie van opblaasbare vaartuigen en maritieme uitrusting.
+      icon: tabler:clipboard-check
+    - title: UKCA-gemarkeerd
+      description: Producten die op de Britse markt worden verkocht, dragen de UKCA-markering, wat naleving van Britse regelgeving voor maritieme uitrusting en persoonlijke vaartuigen bevestigt.
+      icon: tabler:shield
+    - title: BSCI-conform
+      description: afarer is BSCI (Business Social Compliance Initiative) geaudit, wat ethische productiepraktijken, eerlijke arbeidsomstandigheden en verantwoordelijkheid in de toeleveringsketen aantoont.
+      icon: tabler:heart-handshake
+    - title: REACH-conform
+      description: Alle materialen gebruikt in afarer-producten voldoen aan EU REACH-voorschriften voor chemische veiligheid, waardoor er geen beperkte stoffen in ons PVC, EVA of componenten zitten.
+      icon: tabler:flask
+    - title: Materiaaltesten
+      description: Stoffen worden getest op treksterkte, scheurbestendigheid, UV-afbraak en koudscheurgedrag. Elke productiebatch wordt bemonsterd en geverifieerd.
+      icon: tabler:test-pipe
+content_factory:
+  tagline: Fabrieksstandaarden
+  title: Productie-uitmuntendheid<br />— Gebouwd volgens Specificatie
+  subtitle: Onze 12.000 m² faciliteit werkt onder strikte kwaliteitscontroleprotocollen in elke productiefase.
+  list:
+    - 'Inkomende Materiaalinspectie: Alle grondstoffen — PVC-stof, EVA-schuim, lijmen, hardware — worden getest tegen specificaties voordat ze in productie gaan.'
+    - 'Kwaliteitscontrole Tijdens Productie: Elke productiefase heeft gedocumenteerde QC-controlepunten. Lassterkte, naaduitlijning, klepinstallatie en montagekoppel worden inline geverifieerd.'
+    - 'Druktest: Elke opblaasbare kamer wordt gedruktest bij 1,25× nominale druk gedurende 24–48 uur. De drukdaling moet onder 5% blijven voor een voldoende.'
+    - 'Eindinspectie: Voltooide producten worden geïnspecteerd op maatnauwkeurigheid, cosmetische afwerking, volledigheid accessoires en verpakkingsintegriteit vóór verzending.'
+    - 'Batch Traceerbaarheid: Elk product heeft een serienummer gekoppeld aan productiebatchrecords, wat volledige traceerbaarheid van grondstof tot eindproduct mogelijk maakt.'
+content_safety:
+  tagline: Maritieme veiligheidsnormen
+  title: Veiligheid Voorop<br />— Ontworpen voor Betrouwbare Werking
+  subtitle: afarer-producten zijn ontworpen en getest om te voldoen aan internationale maritieme veiligheidsnormen voor commercieel en recreatief gebruik.
+  items:
+    - title: EN ISO 25649
+      description: Opblaasbare SUP's voldoen aan de EN ISO 25649-normen voor constructie, stabiliteit, drijfvermogen en draagvermogen.
+      icon: tabler:sailboat
+    - title: SOLAS-naleving
+      description: Veiligheidsuitrusting en reddingsmiddelen voldoen aan SOLAS (Safety of Life at Sea) vereisten waar van toepassing.
+      icon: tabler:lifebuoy
+cta:
+  title: Heeft u gecertificeerde producten nodig voor uw project?
+  subtitle: Neem contact op met ons team om certificeringseisen, documentatie en naleving voor uw markt te bespreken.
+  actions:
+    - variant: primary
+      text: Certificeringsdocumenten aanvragen
+      href: /contact/
+    - text: Bekijk onze kwaliteitspagina
+      href: /quality/

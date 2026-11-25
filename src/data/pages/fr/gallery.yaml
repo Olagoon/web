@@ -1,0 +1,31 @@
+meta:
+  title: 'Galerie — SUP Gonflables | {SITE}'
+  description: 'Galerie photo afarer : planches SUP gonflables, usine et production. Découvrez les photos de notre usine professionnelle de planches de paddle.'
+  keywords:
+    - 'galerie paddle'
+    - 'photos SUP gonflable'
+    - 'images planche paddle'
+    - 'galerie SUP'
+hero:
+  tagline: Galerie
+  title: Galerie
+  subtitle: Photos produits, atelier de fabrication et aventures sur l’eau
+albums:
+  - title: Planches SUP
+    desc: Planches SUP gonflables drop-stitch pour touring, surf, yoga et pêche.
+    images:
+      - https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+      - https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp
+  - title: Usine et Atelier
+    desc: Notre installation de fabrication de 12 000 m² à Qingdao, Chine.
+    images:
+      - https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+cta:
+  title: Vous voulez voir plus ?
+  desc: Suivez-nous sur les réseaux sociaux pour les dernières nouveautés.
+  instagram: Instagram
+  youtube: YouTube

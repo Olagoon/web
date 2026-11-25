@@ -1,0 +1,259 @@
+meta:
+  title: 'Továrna a výroba — nafukovací SUP OEM | {SITE}'
+  description: 'Navštivte továrnu afarera: areál o rozloze 12 000 m² s řezáním, HF svařováním, tiskem, montáží a laboratoří kvality pro výrobu OEM/ODM nafukovacích SUP prken.'
+  keywords:
+    - 'SUP továrna Čína'
+    - 'továrna na nafukovací paddleboardy'
+    - 'výrobce SUP OEM'
+    - 'výroba nafukovacích SUP'
+hero:
+  tagline: Továrna
+  title: Naše továrna
+  subtitle: 12 000 m² moderního výrobního zařízení v Qingdao, Čína.
+intro:
+  - Naše továrna v Qingdao je srdcem výroby afarer. S rozlohou 12 000 m² a více než 200 kvalifikovanými zaměstnanci máme kapacitu a odbornost vyrábět vysoce kvalitní nafukovací SUP prkna a vybavení pro vodní sporty v měřítku.
+  - Naše zařízení je vybaveno nejmodernějšími stroji, včetně automatických CNC řezacích strojů, RF dielektrických svářeček, horkovzdušných těsnicích zařízení a digitálních tiskáren.
+stats:
+  - value: 12 000 m²
+    label: m² celková plocha
+  - value: 200+
+    label: Kvalifikovaných zaměstnanců
+  - value: 15 000+
+    label: Vyrobeno SUP desek ročně
+  - value: ISO 9001
+    label: Certifikace
+intelligence_tagline: Chytrá továrna
+intelligence_title: Prozkoumejte naše výrobní možnosti
+intelligence_cards:
+  - title: Výrobní kapacita
+    icon: C
+    icon_bg: blue
+    desc: Závod o rozloze 12 000 m² vyrábějící 15 000+ SUP ročně na linkách SUP prken a bezpečnostního vybavení. 200+ pracovníků, 2 směny.
+    metrics:
+      - label: MOQ
+        value: 'SUP: 5–10'
+      - label: Dodací lhůta
+        value: 30–45 dní
+    link: /factory/capacity/
+    link_label: Kompletní údaje o kapacitě →
+  - title: Laboratoř kvality a testování
+    icon: Q
+    icon_bg: green
+    desc: 'Nezávislá laboratoř kontroly kvality se 4 fázemi testování: kontrola vstupních materiálů (pevnost v tahu, pevnost v trhu, UV), 24–48hodinová tlaková zkouška při 1.25x jmenovitého tlaku, testy odlupování švů a ověření nosnosti a vyvážení u každého prkna.'
+    metrics:
+      - label: Laboratorní vybavení
+        value: Trhací zařízení, teplotní komora, nádrž pro zkoušky těsnosti
+      - label: Normy
+        value: ISO 9001, CE, AS 1799
+    link: /factory/quality-lab/
+    link_label: Laboratorní postupy a vybavení →
+  - title: Možnosti OEM/ODM
+    icon: O
+    icon_bg: purple
+    desc: 'Služby OEM/ODM od začátku do konce: návrh vlastních forem, obaly private label, vlastní barvy prken, grafika paluby (digitální tisk a sítotisk) a drop-ship logistika.'
+    metrics:
+      - label: Certifikace
+        value: ISO 9001, BSCI, CE, REACH
+      - label: Doprava
+        value: FOB, CIF, DDP do 50+ zemí
+    link: /factory/oem-capability/
+    link_label: Kompletní služby OEM →
+workshops_section:
+  tagline: Workshopy
+  title: Výrobní dílny
+  workshops:
+    - title: Řezání PVC a příprava materiálu
+      description: Automatické CNC řezací stroje zpracovávají tkaniny PVC a drop-stitch s přesností pod jeden milimetr. Počítačově optimalizované rozmístění dílů minimalizuje odpad materiálu a zajišťuje, že každý panel splňuje rozměrovou specifikaci ještě před svařováním.
+      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    - title: Svařování nafukovacích komor a tepelné svařování
+      description: Samostatná svařovací dílna se stroji pro tepelné svařování a RF dielektrickými lisy. Horkovzdušné svářečky spojují a natavují PVC komory, zatímco RF svary vytvářejí vysoce pevné vzduchotěsné švy, které překračují požadavky EN ISO 25649.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    - title: Spojení drop-stitch jádra
+      description: Drop-stitch jádra SUP prken jsou k vnějším PVC laminátům spojena tepelnou laminací. Tisíce vnitřních polyesterových vláken spojují horní a spodní vrstvu a vytvářejí tuhou strukturu při tlaku 12–15 PSI. Okrajové pásy jsou pro pevnost hran spojeny třívrstvým svařováním (fusion).
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+    - title: Potisk a dekorace SUP
+      description: SUP prkna jsou zdobena digitálním tiskem pro vícebarevnou grafiku a sítotiskem pro loga a opakující se vzory. Digitální tiskárny vytvářejí designy paluby v kvalitě fotografií, zatímco sítotisk zajišťuje odolné a výrazné prvky značky.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+    - title: Finální montáž a osazení
+      description: Montážní linka, kde se na každé SUP prkno instalují ventily, kroužky D, madla, krabice pro ploutve a podlážky. Každé prkno prochází 100bodovým montážním kontrolním seznamem, který potvrzuje vedoucí týmu.
+      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+    - title: Testování a kontrola kvality
+      description: Každé hotové prkno před expedicí prochází povinnou zkouškou zadržení vzduchu, ověřením pevnosti švů a kompletní kontrolou systémů. Naše laboratoř kvality pracuje nezávisle na výrobě a odpovídá přímo vedení.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+equipment_section:
+  tagline: Vybavení
+  title: Klíčové výrobní zařízení
+  view_full: Zobrazit kompletní seznam vybavení →
+  view_full_link: /factory/equipment/
+  items:
+    - name: Automatický stroj na řezání PVC
+      spec: CNC řízené, přesnost 0.1 mm
+    - name: Stroj na tepelné svařování
+      spec: Horkovzdušné, 200–300 °C, pro spojování komor
+    - name: RF dielektrický svářecí lis
+      spec: 15 kW, vzduchotěsné svařování švů
+    - name: Sklolaminátové formy pro ruční laminování
+      spec: Formy desek SUP až do délky 14 stop
+    - name: Digitální tiskárna
+      spec: Barevná grafika paluby SUP
+    - name: Sítotiskový stroj
+      spec: Potisk loga ve více barvách
+qc_section:
+  tagline: Kontrola kvality
+  title: Proces testování a řízení kvality
+  subtitle: Každé prkno před odesláním prochází povinným testováním. Naše zkušební laboratoř funguje nezávisle na výrobě a hlásí přímo vedení.
+  steps:
+    - step: '1'
+      title: Kontrola vstupních materiálů
+      desc: Tkaniny PVC a drop-stitch procházejí zkouškou pevnosti v tahu (ASTM D751), šířením trhliny a ověřením odolnosti proti UV záření, než jakákoliv šarže vstoupí do výroby.
+    - step: '2'
+      title: 24–48hodinový test udržení vzduchu
+      desc: Každá nafukovací komora je nafouknuta na 125 % jmenovitého tlaku a udržována po dobu 24–48 hodin. Pokles tlaku nad 5 % automaticky vede k vyřazení kusu a opětovné kontrole švů.
+    - step: '3'
+      title: Testování zátěže a vyvážení
+      desc: Hotová prkna se zatíží na maximální jmenovitou kapacitu a testují se na stabilitu a tuhost. Každé prkno se před finální kontrolou testuje na vodě.
+oem_section:
+  tagline: OEM projekty
+  title: Případové studie značkových a OEM partnerství
+  subtitle: Od konceptu po kontejner — jak pomáháme globálním značkám uvádět a rozvíjet jejich řady nafukovacích SUP.
+  cases:
+    - challenge: Evropský outdoorový prodejce potřeboval řadu SUP pod vlastní značkou s unikátním designem paluby, ekologickým PVC a balením připraveným pro maloobchod — vše dodané do 60 dnů.
+      solution: Vyvinuli jsme vlastní digitální tiskové soubory, zajistili PVC v souladu s REACH a zkrátili vzorkování ze 3 kol na 1 díky umístění designérského týmu přímo v naší továrně v Qingdao.
+      result: 55 dní od podepsané objednávky k dodání FOB. 2 400 kusů ve 4 SKU. Opakovaná objednávka podána dříve, než dorazil první kontejner.
+    - challenge: Americký startup v oblasti vodních sportů potřeboval vysoce výkonnou drop-stitch SUP desku s vlastním tvarem, společným značením balení a certifikací BSCI pro umístění v maloobchodě.
+      solution: Upravili jsme stávající SUP formu s pozměněným obrysem, vyvinuli grafiku co-brandingového balení a poskytli kompletní dokumentaci z auditu BSCI.
+      result: Úspěšně jsme se dostali do sortimentu 3 velkých amerických outdoorových řetězců. Více než 5 000 kusů v prvním roce při 98% míře prodejnosti.
+    - challenge: Australský distributor požadoval řadu SUP prken s certifikací CE, vlastními barvami a souladem s australskými normami.
+      solution: Vyrobili jsme předvýrobní vzorky ve 4 barevných variantách a koordinovali testování shody s předpisy u třetí strany.
+      result: Řada SUP prken o 3 modelech byla uvedena na trh AU/NZ. Následně jsme zvítězili ve vládním tendru na 12 hlídkových SUP prken.
+faq_section:
+  tagline: FAQ
+  title: Časté dotazy B2B a OEM
+  questions:
+    - q: Jaké je minimální objednací množství (MOQ) pro OEM nafukovací SUP prkna?
+      a: MOQ začíná na 5–10 kusech u standardních modelů OEM. Vlastní formy a projekty privátních značek vyžadují minimálně 200 kusů podle náročnosti. Pro uvedení nových značek nabízíme zkušební a vzorové zakázky.
+    - q: Má afarer certifikaci BSCI?
+      a: Ano. Naše továrna udržuje platnou certifikaci sociální shody BSCI (protokol z auditu je k dispozici na vyžádání). Držíme také ISO 9001 pro řízení kvality a všechny produkty nesou certifikaci CE. Dokumentace o souladu s REACH a RoHS je přiložena ke každé zásilce OEM.
+    - q: Jaká je typická dodací lhůta objednávky OEM?
+      a: Standardní dodací lhůta je 30–45 dnů od potvrzené objednávky a zálohy u hromadné výroby OEM. Vývoj vlastních forem přidává 15–20 dnů na výrobu nástrojů. Urychlená výroba je k dispozici pro naléhavé zakázky a sezónní špičky. Prototypové vzorky se obvykle odesílají do 15–20 dnů.
+    - q: Můžete dodat za podmínek FOB Qingdao nebo CIF do našeho přístavu?
+      a: Ano. Dodáváme za podmínek FOB Qingdao, CIF do hlavních světových přístavů a DDP pro kvalifikované partnery. Náš logistický tým zajišťuje rezervaci kontejnerů, exportní dokumentaci a celní odbavení. Dodáváme do více než 50 zemí na trzích EU, USA, Austrálie a Asie.
+b2b_moq: 'Standardní MOQ: 5–10 jednotek na model. Zkušební objednávky vítány pro nová partnerství.'
+production_flow:
+  tagline: Průběh výroby
+  title: Od materiálu k hotovému prknu
+  subtitle: Každé prkno prochází 6 výrobními fázemi s kontrolními body QC na každém kroku. Žádné zkratky, žádné vynechané kontroly.
+  stages:
+    - stage: '01'
+      title: Příjem materiálu a vstupní kontrola kvality
+      description: Všechny příchozí materiály se v našem ERP systému evidují podle čísla šarže. Role PVC tkanin, jádra drop-stitch, ventily, lepidla a kování zůstávají v karanténě, dokud kontrola kvality neschválí jejich uvolnění.
+      qc_check: Pevnost v tahu (ASTM D751), odolnost proti protržení (ISO 4674), měřič tloušťky, viskozita lepidla, vizuální kontrola vad
+      qc_threshold: Testuje se 100 % šarží. Vyřadit, pokud je pevnost v tahu < 90 % specifikace, pevnost v trhu < specifikační minimum, nebo při jakékoli vizuální vadě
+      responsibility: Tým vstupní kontroly kvality (3 inspektoři)
+    - stage: '02'
+      title: CNC řezání a příprava materiálu
+      description: Počítačově optimalizované sesazování panelů na PVC pás minimalizuje odpad. Automatické CNC řezací stroje udržují přesnost polohy 0.1 mm.
+      qc_check: Rozměrová kontrola podle souborů CAD DXF, kontrola kvality hran, ověření počtu panelů
+      qc_threshold: Měří se každý 20. panel. Tolerance ±0.5 mm. Šarže se zamítne, pokud >2 % překročí toleranci
+      responsibility: Vedoucí řezárny
+    - stage: '03'
+      title: Svařování a spojování drop-stitch
+      description: Drop-stitch jádra jsou k vnějším PVC laminátům spojena tepelnou laminací. Komory trubek jsou svařovány metodou RF nebo horkým vzduchem. Okrajové pásy jsou spojeny třívrstvým svařováním (fusion).
+      qc_check: Peel test každých 50 kusů (ASTM D751), měření šířky svaru, kontrola záznamů teploty horkovzdušného svařování, vizuální kontrola švů při prosvícení
+      qc_threshold: Pevnost ve slupech min. 8 N/cm. Tolerance šířky svaru ±1 mm. Jakékoli viditelné kanálkování = odmítnout
+      responsibility: Kontrola kvality svařování (2 inspektoři na směnu)
+    - stage: '04'
+      title: Montáž a osazení
+      description: 'Prkna postupují do finální montáže, kde se spojí všechny komponenty: bočnice slepené a svařené, instalace ventilů, D-kroužky, madla, krabice pro ploutve a uložení přepravní tašky. Každý kus prochází montážním kontrolním seznamem o 100 bodech.'
+      qc_check: 100bodový kontrolní seznam u každého kusu, test funkce ventilu (10 cyklů otevření/zavření), kontrola utahovacího momentu kování, vizuální kontrola
+      qc_threshold: 'Politika nulových vad u prvků kritických pro bezpečnost (ventily, D-kroužky, madla). Drobné kosmetické vady: AQL 2.5 (ISO 2859)'
+      responsibility: Vedoucí montážního týmu + kontrola kvality na lince
+    - stage: '05'
+      title: Tlakové testy a kontrola kvality
+      description: Každá komora je nafouknuta na 1.25× jmenovitý tlak (obvykle 20–25 PSI) a udržována po dobu 24–48 hodin. Tlakové senzory nepřetržitě zaznamenávají hodnoty. Komory s poklesem tlaku nad 5 % jsou vyřazeny a odeslány k nové kontrole svarů.
+      qc_check: 24–48hodinový záznam držení tlaku, denně ověřovaná kalibrace senzorů, údaj o tlaku kompenzovaný podle teploty, opakovaný test švů po opravě
+      qc_threshold: Maximální pokles tlaku 5 % za 24–48 h při stabilní teplotě. Komora, která tento limit překročí = 100% opakovaný test celé výrobní šarže
+      responsibility: Laboratoř kvality (nezávislá na výrobě, podléhá vedení)
+    - stage: '06'
+      title: Finální kontrola a balení
+      description: Finální vizuální a funkční kontrola. Vady povrchu, konzistence barev, ověření štítků/BIN, neporušenost balení a kompletnost příslušenství. Kusy jsou vakuově baleny, ukládány do krabic a na palety pro nakládku do kontejneru.
+      qc_check: Kompletní vizuální kontrola, kontrolní seznam příslušenství podle SKU, pádový test balení (1 m, náhodný vzorek), ověření skenem štítku/čárového kódu
+      qc_threshold: AQL 2.5 pro závažné vady, AQL 4.0 pro drobné vady. Nulová tolerance u bezpečnostních vad. 100 % kusů vizuálně zkontrolováno
+      responsibility: Tým finální kontroly kvality (4 inspektoři) + vedoucí balicího týmu
+workforce:
+  tagline: Náš tým
+  title: Pracovní síla a odbornost
+  engineers: 25+
+  engineers_detail: Inženýři v oblasti výzkumu a vývoje, návrhu forem, materiálové laboratoře a výrobního inženýrství. V průměru více než 7 let zkušeností s výrobou nafukovacích produktů.
+  shift_pattern: 2 směny denně (07:00–15:30, 15:30–00:00). Pro urgentní objednávky je možná noční směna.
+  training: Měsíční školení QC, čtvrtletní bezpečnostní cvičení, roční hodnocení dovedností. Noví zaměstnanci absolvují 40hodinové vstupní školení, než začnou pracovat na výrobní lince.
+  departments:
+    - name: R&D & Engineering
+      count: 25+
+      role: Návrh produktu, konstrukce forem, materiálová laboratoř
+    - name: Cutting & Material Prep
+      count: 15
+      role: CNC řezání, příprava panelů, manipulace s materiálem
+    - name: Welding & Lamination
+      count: 40
+      role: RF svařování, svařování horkým vzduchem, spojování drop-stitch
+    - name: SUP Core Bonding
+      count: 30
+      role: Drop-stitch laminace, tepelné spojování, svařování okrajových pásů (fusion)
+    - name: Assembly & Rigging
+      count: 35
+      role: Finální montáž, instalace armatur, kontrola systémů
+    - name: Quality Control
+      count: 12
+      role: Vstupní QC, průběžná kontrola QC, konečná kontrola, laboratorní testy
+    - name: Logistics & Packing
+      count: 20
+      role: Balení, nakládka kontejnerů, exportní dokumentace
+    - name: Management & Admin
+      count: 15
+      role: Prodej, nákup, HR, finance, compliance
+material_traceability:
+  tagline: Vysledovatelnost
+  title: Sledování materiálů a kontrola šarží
+  description: Každé šarži suroviny je v našem systému ERP přiděleno jedinečné číslo šarže. Od příjmu přes výrobu až po hotový výrobek odkazuje kusovník každého prkna zpět na původní šarži dodavatele. To umožňuje plnou zpětnou vysledovatelnost pro jakékoli šetření ohledně kvality nebo souladu s předpisy.
+  system: Vlastní ERP (interní systém Qingdao Vatrad Group) + fyzické štítky šarží na každé pracovní zakázce
+  coverage: 100 % výrobních materiálů — PVC, tkanina drop-stitch, lepidla, ventily, kování, balení
+  records_retained: 10 let (podle požadavku CE 2013/53/EU)
+  suppliers:
+    - material: PVC námořní kvality
+      source: Čínští a korejští dodavatelé
+      certified: ISO 9001, REACH, RoHS
+    - material: Drop-stitch tkanina
+      source: Vlastní tkalcovna + externí partner
+      certified: Interní QC + ISO 9001 dodavatelů
+    - material: Ventily a kování
+      source: Čínští OEM dodavatelé
+      certified: ISO 9001, certifikáty materiálů ke každé šarži
+qc_dashboard:
+  tagline: Kontrola kvality v číslech
+  title: Metriky kontroly kvality
+  subtitle: Skutečná data o splnění/nesplnění z naší výrobní linky. Naše laboratoř kvality funguje nezávisle na výrobě a reportuje přímo vedení.
+  stats:
+    - value: 100%
+      label: Tlakově otestované kusy
+      detail: Každé prkno, každá komora, každá šarže
+    - value: <5%
+      label: Maximální přípustný pokles tlaku
+      detail: Přes 24–48 hodin při 1,25× jmenovitém tlaku
+    - value: AQL 2.5
+      label: Hranice závažné vady
+      detail: Podle normy pro výběr vzorků ISO 2859
+    - value: 24–48h
+      label: Doba udržení tlaku
+      detail: V závislosti na kategorii produktu
+    - value: 1.25×
+      label: Testovací tlak vs. jmenovitý tlak
+      detail: Bezpečnostní rezerva u každé komory
+    - value: 0%
+      label: Tolerance k bezpečnostním vadám
+      detail: Ventily, D-kroužky, švy, vztlak
+process_cta:
+  title: Podívejte se na náš výrobní proces
+  desc: Sledujte SUP na každém stupni výroby — od surového materiálu po prkno připravené na vodu.
+  label: Zobrazit výrobní proces →
+  link: /factory/process/

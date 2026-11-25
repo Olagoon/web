@@ -1,0 +1,139 @@
+meta:
+  title: Laatu- ja tarkastuslaboratorio — ISO-vaatimusten mukainen SUP-testaus ja sertifiointi | {SITE}
+  description: Riippumaton laadunvarmistus täytettävissä SUP-laudoissa. Vetokokeet, paineensäilyttämiskiertokokeet, nahtien repimiskokeet ja materiaalsertifiointi. Ota yhteyttä laadunvarmistuslaboratorioomme kolmansien osapuolten testausta varten.
+back_text: Takaisin tutkimus- ja kehityskeskukseen
+home_label: Koti
+hero:
+  tagline: Laboratorio 06
+  title: Laatu- ja tarkastuslaboratorio
+  subtitle: Riippumaton vahvistus — jokainen koe on läpäisty ennen toimitusta
+  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+  image_alt: Afarerin laadunvalvontalaboratorion UV-testaus
+intro: >-
+  Jokainen lauta, joka lähtee verstaastamme, sisältää sertifikaatin, että se on läpäissyt määritellyn joukon laaduntarkastuksia ja materiaalitestejä. Laatu- ja tarkastuslaboratoriomme on riippumaton toiminto organisaatiossa — se raportoi suoraan toimitusjohtajalle, ei tuotannolle — mikä varmistaa,
+  että mikään kaupallinen paine ei voi horjuttaa tarkastusporttia. Jos materiaalierä tai valmis lauta ei täytä julkistettua määritystä, laboratoriolta on oikeus keskeyttää lähetys, kunnes poikkeama on korjattu.
+content_html: >
+  <h2>Luota, mutta tarkista</h2>
+
+  <p>Laboratorio toimii laatuhallintajärjestelmässä, joka on linjattu periaatteiden kanssa, ja testausmenetelmämme perustuvat ISO-, ASTM- ja EN-standardeihin soveltuvin osin. Pidämme yksityiskohtaiset kirjat jokaisesta suoritetusta testistä, luoden täydellisen jäljitettävyysketjun raaka-aineiden
+  vastaanotosta viimeiseen laudan toimitukseen.</p>
+
+
+  <h2>Testauslaitteet ja -kyvyt</h2>
+
+  <table>
+    <thead><tr><th>Laite</th><th>Suoritetut testit</th><th>Standardi / Menetelmä</th></tr></thead>
+    <tbody>
+      <tr><td>Universaalinen testauskone (50 kN)</td><td>Vetolujuus (kangas), irtonaisuusvastus (saumat), repeämisen eteneminen</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Ilmanpidätteston laitteisto (ohjelmoitava)</td><td>1 000 syklin täyttö- ja tyhjennyyskestävyys, 30 min painehpidättesti</td><td>EN ISO 25649 (sisäinen)</td></tr>
+      <tr><td>Sauman irtonaisuusjig (moottoroitu 180° irtonaisuus)</td><td>Hitsattujen ja liimattujen saumojen irtonaisuuslujuus 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostaattinen painetesteri</td><td>Kankaan veden läpäisyvastus (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digitaalinen paksuusmittari &amp; mikrometri</td><td>Kankaan paksuus, reunan seinämän paksuus, liimafilmin paksuus</td><td>ISO 2286-3</td></tr>
+      <tr><td>Ympäristökammi</td><td>Lämpötilanvahvistus (-40 °C:sta +80 °C:een) kylmärikkaisuus- ja lämpövanhemmisen testaukseen</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Värispektrofotometri</td><td>Delta-E värimittaus UV-altistuksen jälkeen</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Tarkastusportit — raaka-aineesta toimitukseen</h2>
+
+  <p>Jokainen lauta seuraa määriteltyä laatusuunnitelmaa pakollisilla tarkastuspisteillä. Yksikään lauta ei voi ohittaa porttia; jokaisen portin on saanut laatutarkastajan hyväksynnän ennen seuraavaa tuotantoaskelta.</p>
+
+
+  <div class="not-prose my-8">
+    <div class="relative">
+      <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
+      <div class="space-y-6 relative">
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Portti 1</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Saapuvan materiaalin tarkastus</p>
+            <p class="text-xs text-gray-500 mt-1">Kangas-erä, liima-erä, laitteisto — kaikki tarkastetaan saapuvaa spesifikaatiota vastaan ennen tuotantoon hyväksymistä.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Portti 2</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Tuotannon aikainen hitsaustarkastus</p>
+            <p class="text-xs text-gray-500 mt-1">Ensimmäinen hitsausnäyte testataan (irtonaisuus + visuaalinen) jokaisen tuotantovuoron alussa.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Portti 3</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Kammi-ilmatesti</p>
+            <p class="text-xs text-gray-500 mt-1">Jokainen kammio paineistetaan 1,5 × käyttöpaineeseen, pidetään 30 minuuttia. Tiedot kirjataan sarjanumeron mukaan.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Portti 4</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Toimituksen ennakkotarkastus</p>
+            <p class="text-xs text-gray-500 mt-1">Täydellinen lauta tarkastetaan: kaikki kiinnikkeet kiristetty, järjestelmät toimivat, ei kosmeettisia vikoja. 100 kohdan tarkastuslista.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Portti 5</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Lopullinen sertifikaatio</p>
+            <p class="text-xs text-gray-500 mt-1">Testiraportit koottu, tarkastuskirjat tarkistettu, vaatimustenmukaisuustodistus annettu.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Keskeiset laatumittarit (2025 liukuva keskiarvo)</h2>
+
+  <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">99,7 %</span>
+      <span class="text-xs text-gray-500">Ensisijainen läpäisy (kangas-erä)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">&lt; 0,2 %</span>
+      <span class="text-xs text-gray-500">Hitsauksen hylkäysprosentti (lineaarinen metri)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">100 %</span>
+      <span class="text-xs text-gray-500">Kammiot ilmatestattu ennen kokoonpanoa</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
+      <span class="text-xs text-gray-500">Suunnitteluluokan mukaisuus</span>
+    </div>
+  </div>
+
+
+  <h2>Laatujoukkumme</h2>
+
+  <p>Laboratoriossa on laatupäällikkö (10 vuoden kokemus merilaadunvalvonnasta, ASQ Certified Quality Engineer), kaksi laatutarkastajaa (kumpikin tason 2 NDT-sertifikaatiolla visuaalisessa testauksessa) ja materiaalitekniikko, joka vastaa kaikista fyysisistä testeistä. Joukkue suorittaa vuosittain
+  pätevyystestit riippumattoman kolmannen osapuolen kautta varmistaaksemme, että testituloksemme pysyvät tarkkoina ja toistettavina.</p>
+
+
+  <h2>Riippumaton testaus asiakkaille</h2>
+
+  <p>Laatu- ja tarkastuslaboratoriomme on saatavilla riippumattomiin testauspalveluihin. Jos tarvitset kankaan spesifikaation vahvistamista, uuden liimajärjestelmän validointia tai kolmannen osapuolen testiraporttia hankintapätevyyteen, voimme suorittaa testit sovellettavan standardin mukaisesti ja
+  antaa sertifoidun testiraportin.</p>
+
+  <p>Esimerkkejä viimeaikaisesta kolmannen osapuolen testaus työstä:</p>
+
+  <ul>
+    <li>Viiden kilpailullisen liimafilmituotteen irtonaisuuslujuuden vertailu eurooppalaiseen sotilashankintaohjelmaan.</li>
+    <li>Nopeutetun vanhemmisen tutkimus (UV + lämpökierto) uudelle oranssivärjätylle PVC-sekoitukselle, säännöllisillä välituloksilla 500 tunnin välein.</li>
+    <li>50 prototyyppisen esteventtiilin ilmanpidätteston validointi uudelle korkeapaineputkimallille.</li>
+  </ul>
+
+
+  <h2>Sitoumuksesi sinulle</h2>
+
+  <p>Kun saat Afarer-laudan, saat myös sen laatudossierin — kokoelman testituloksia, jotka koskevat juuri sinun lautaasi. Kangas-erätodistus, hitsausirtonaisuustestit, kammi-ilmatestin lokit ja toimituksen ennakkotarkastuslista. Jokainen numero on jäljitettävissä. Jokainen tarkastaja on
+  tunnistettu. Tämä ei ole pelkkää paperityötä — se on lupaus siitä, että toimittamamme oli se, minkä määritimme.</p>
+
+  <p>Jos sinulla koskaan on laatuhuoleni, voit ottaa yhteyttä laboratorioon suoraan — yhteystiedot ovat tulostettu vaatimustenmukaisuustodistuksellesi. Otamme jokaisen kysymyksen vakavasti ja sitoudumme muodolliseen tutkintaan 48 tunnin sisään.</p>
+cta:
+  title: Tarvitsetko riippumatonta testausta tai laadunvahvistusta?
+  subtitle: Laboratoriomme hyväksyy kolmannen osapuolen testauspyynnöt – ota yhteyttä vaatimuksiasi.
+  button_text: Ota yhteyttä laatulaboratorioon
+  button_link: /contact/

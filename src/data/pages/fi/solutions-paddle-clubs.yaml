@@ -1,0 +1,114 @@
+meta:
+  title: SUP-varusteet ja kalustoratkaisut melontakerhoille | {SITE}
+  description: Kattavat SUP-kalusto-ohjelmat melonta- ja paddelkerhoille ja -kouluille. Aloituspackaget, ammattilaiskalusto, kilpalaudat, koulutuskeskussetit ja varaosatuki.
+hero:
+  tagline: Melonta- ja Paddelkerhot ja -koulut
+  title: Käynnistä, aja ja kasvata melontakerhoasi<br />kaupallisen laatuisilla SUP-kalustoilla
+  subtitle: SUP-varusteiden toimittaja melonta- ja paddelkerhoille ja SUP-kouluille ympäri maailmaa — kestävät kaupalliset laudat, kerhojen volyymihinnat, räätälöity brändäys ja nopeat varaosat, jotta voit keskittyä yhteisösi kasvattamiseen.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Melontakerhon jäsenet yhtenäisillä Afarer SUP -laudoilla
+benefits:
+  title: Klubilaivaston edut
+  subtitle: Miksi melontaseurat yli 50 maassa valitsevat Afarerin varustekumppanikseen.
+  items:
+    - metric: 40%+
+      label: Laivaston kustannussäästöt
+      detail: Vrt. vähittäishintaan — määräalennukset klubeille
+    - metric: 48h
+      label: Varaaosien korvaus
+      detail: Minimivaiheiston keskeytyksiä vuokralaivastolle
+    - metric: 500+
+      label: Vuokrakierrot
+      detail: Kauppatason kestävyys joka laudalla
+    - metric: Yli 5 vuotta
+      label: Laivaston käyttöikä
+      detail: Asianmukaisella huololla ja hoidolla
+packages:
+  title: Seurakalustojen ohjelmat
+  subtitle: Valitse kalusto-ohjelma, joka vastaa seurasi kokoa ja tavoitteita.
+  items:
+    - name: Aloituspaketti
+      tagline: Uusille kerhoille, enintään 30 jäsentä
+      features:
+        - 10 SUP-lautaa (all-round- ja touring-mix)
+        - 10 melaa + 10 pelastusliivit
+        - 2 kaksitoimista pumppua + korjaussetti
+        - Kerhon brändäys laudoilla (logotulostus)
+        - Käynnistysopas + turvallisuustarkistuslista
+        - CE-sertifioitu — kaikki varusteet
+      cta_text: Aloita seurasi
+    - name: Ammattilaiskalusto
+      tagline: Vakiintuneille kerhoille, 50-100 jäsentä
+      features:
+        - 30 SUP-lautaa (3 kokovaihtoehtoa)
+        - 30 melaa + 30 pelastusliivit
+        - 5 pumppua + 2 korjaussettiä + säilytysteline
+        - Kerhon omat värit + logo laudoilla
+        - Varaosien vaihto-ohjelma (15 % alennus)
+        - Henkilöstökoulutusistunto (verkossa)
+        - CE-sertifioitu — kaikki varusteet
+      popular: true
+      cta_text: Rakenna laivastosi
+    - name: Kilpailukalusto
+      tagline: Kilpakerhoille, tapahtumille, kisoille
+      features:
+        - 50+ kilpailu- ja suorituskykylauttaa
+        - Täydellinen lisävarustesarja (melat, liivit, pumput)
+        - Tapahtumatukisetti (lähtöpoijut, merkkilaitteet)
+        - Ensisijaiset varaosat (24 h lähetys)
+        - Omistettu asiakaspäällikkö
+        - Mukautetun joukkueen pukuvaihtoehto
+        - CE-sertifioitu — kaikki varusteet
+      cta_text: Hanki kilpailulaivasto
+training:
+  title: Koulutuskeskuspaketit
+  subtitle: Kaikki, mitä SUP-koulu tarvitsee ammattimaisten sertifiointikurssien järjestämiseen.
+  items:
+    - name: Ohjaajan aloitussarja
+      features:
+        - 5 premium-SUP-lautaa (ohjaajalaatu)
+        - 5 hiilimelaa demoja varten
+        - 5 pelastusliivää (opettajan koko)
+        - Koulutusohjelman opas
+        - CE-sertifioituja laitteita
+    - name: Täydellinen setti kouluille
+      features:
+        - 20 SUP-lautaa (oppilaiden ja opettajien sekoitus)
+        - 20 meloa + 20 pelastusliiviä (eri kokoisia)
+        - 10 kelluvuusavustetta aloittelijoille
+        - 4 pumppua + korjausvalineet
+        - Koulutusopetussuunnitelma ja sertifikaatiotuki
+        - CE-sertifioituja laitteita
+features:
+  title: Miksi seurat valitsevat Afarerin
+  subtitle: Tasaista laatua, nopea varaosien toimitus ja määräalennushinnoittelu kasvaville seuroille.
+  items:
+    - title: 500+ vuokrakertaa
+      description: Kaupallisen luokan laudat kestävät kausien päivittäistä käyttöä.
+      icon: tabler:shield-check
+    - title: Muutetut värit
+      description: Tasaa kerhosi identiteetti räätälöidyillä laudaväreillä ja logolla.
+      icon: tabler:palette
+    - title: Tukkuhinnat
+      description: Eräalennukset 10+ lautan laivastotilauksille.
+      icon: tabler:discount
+    - title: Nopea varaosapalvelu
+      description: Varaosat toimitetaan 48 tunnin sisään.
+      icon: tabler:truck-delivery
+    - title: Seuran kasvutuki
+      description: Neuvontaa jäsenyysohjelmista, hinnoittelusta ja tapahtumien järjestämisestä.
+      icon: tabler:trending-up
+    - title: CE-sertifioitu
+      description: Kaikki varusteet täyttävät kansainväliset turvallisuusstandardit.
+      icon: tabler:certificate
+cta:
+  title: Valmiina perustamaan oma melontaseura?
+  subtitle: Pyydä tarjous kerhosi laivastolle tai lataa kerhon aloitusopas.
+  actions:
+    - text: Hae klubilaivastoon
+      href: /contact/?package=club
+      variant: primary
+    - text: Lataa kerhon opas
+      href: /resources/download-catalog/
+      variant: secondary

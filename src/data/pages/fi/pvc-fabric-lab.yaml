@@ -1,0 +1,121 @@
+meta:
+  title: PVC-kankaslaboratorio – Materiaalitestaus täytettäville SUP-lautoille | {SITE}
+  description: Tieteellinen materiaalitestaus kuidusta valmiiseen lautaan. Vetolujuus, UV-säänkestävyys, kylmän lämpötilan joustavuus ja kulumiskestävyys PVC-kankaille. Ota yhteyttä laboratoriotiimiimme saadaksesi kankaan mukautetun eritelmän.
+back_text: Takaisin tutkimus- ja kehityskeskukseen
+home_label: Koti
+hero:
+  tagline: Laboratorio 01
+  title: PVC-kangaslaboratorio
+  subtitle: Tieteellinen materiaalitestaus – kuituvaiheesta valmiiseen lautaan
+  image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+  image_alt: Afarerin PVC-kangasmateriaalien testauslaboratorio
+intro: >-
+  Kansi- ja reunakangas on kriittisin yksittäinen materiaali täytettävässä SUP-laudassa. Sen täytyy kestää jatkuvaa UV-säteilyä, toistuvia puhallusjaksia, hankautumista laitureihin ja roskaan sekä äärimmäisiä lämpötilanvaihteluja — kaiken sen aikaa säilyttäen rakenteellinen eheytensä vuosikausia. Afarer:ssä
+  PVC-kankaslaboratoriomme on omistettu yksinomaan käyttämiemme kankaiden karakterisoinnille, validoinnille ja jatkuvan parantamisen.
+content_html: >
+  <h2>Jokaisen täytettävän SUP-laudan perusta</h2>
+
+  <p>Emme luota pelkästään toimittajien tiedotusarkistoihin. Jokainen PVC-kankaan erä, joka saapuu verstaaseemme, testataan itsenäisesti omassa talossa. Tämä takaa, että julkaisemamme materiaalivarianssi on se materiaalituotto, jonka saat – erä toisensa jälkeen, vuosi toisensa jälkeen.</p>
+
+
+  <h2>Standardoitu testausvälineistö</h2>
+
+  <p>Kankaslaboratoriomme on varustettu teollisuusluokan laitteilla, jotka vastaavat ISO-, ASTM- ja EN-testimenetelmiä:</p>
+
+  <table>
+    <thead><tr><th>Välineistö</th><th>Mitattavat parametrit</th><th>Standardi</th></tr></thead>
+    <tbody>
+      <tr><td>Universaalinen vetokokeilija (50 kN)</td><td>Rekisteröintivoima, kulkeuma rikkoa, repimatonaisuuden levintä</td><td>ISO 1421 / ASTM D751</td></tr>
+      <tr><td>Ksenon-arkin säänkestävyyskammio</td><td>UV-sietokyky (värinmuutos, keston säilyminen 2000 t:n jälkeen)</td><td>ISO 4892 / ASTM G155</td></tr>
+      <tr><td>Matalan lämpötilan kierrekokeilija</td><td>Rikkomuspiste -30 °C:sta -50 °C:hen</td><td>ISO 4675 / ASTM D2136</td></tr>
+      <tr><td>Taber-kulutuskokeilija</td><td>Painomenetys 1000 kierroksen jälkeen (CS-10 -pyörä)</td><td>ASTM D3389 / ISO 5470-1</td></tr>
+      <tr><td>Paksuuden mittauslaite (digitaalinen, 0,001 mm tarkkuus)</td><td>Yhtenäisyys rolimitan leviosassa</td><td>ISO 2286-3</td></tr>
+      <tr><td>Vedenpaineen kokeilija</td><td>Veden läpäisykestävyys</td><td>ISO 811</td></tr>
+    </tbody>
+  </table>
+
+  <p class="text-sm text-gray-500">* Kaikki laitteet kalibroidaan vuosittain kolmansien tahojen akreditoiduissa laboratoriossa.</p>
+
+
+  <h2>Tiedosta päätökseen: tyypillinen testausprosessi</h2>
+
+  <p>Kun uusi kangas on saapunut, se käy läpi standardoidun seitmentaiheen pätevyysprosessin:</p>
+
+  <ol>
+    <li><strong>Vastaanottotarkastus</strong> – visuaalinen tarkastus pinnallisia vikoja, pohjia ja mittavuuden mukaan.</li>
+    <li><strong>Paksuuden kartoitus</strong> – 20 mittaa rolimitan läpi; CV &lt; 3 % on edellytys hyväksynnälle.</li>
+    <li><strong>Vetokokeet</strong> – 5 näytettä kudonnuksen ja kehän suunnassa. Vähintään 3500 N/50 mm 1100 dtex PVC:lle.</li>
+    <li><strong>UV-ehdolla</strong> – 1000 t:n altistus xenon-arkikammiossa; vähintään 80 % keston säilyminen edellytetään.</li>
+    <li><strong>Kylmäritku</strong> – 4 t:ä -35 °C:ssa, sitten 180° taittaminen 25 mm:n paikuun. Ei näkyviä rakeita.</li>
+    <li><strong>Kulutuskestävyys</strong> – 1000 kiertoa, painomenetys ≤ 0,05 g.</li>
+    <li><strong>Hyväksyntä allekirjoitus</strong> – vasta kaikkien seitsemän portin läpäistyä kangas vapautetaan tuotannossa.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Typillinen PVC 1100 dtex – Vetovoiman säilyminen UV-altistuksen jälkeen</p>
+    <div class="flex items-end gap-3 h-40">
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-600 rounded-t" style="height:100%"></div>
+        <span class="text-xs mt-1">0 h<br />100%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-500 rounded-t" style="height:95%"></div>
+        <span class="text-xs mt-1">500 h<br />95%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-400 rounded-t" style="height:88%"></div>
+        <span class="text-xs mt-1">1000 h<br />88%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-300 rounded-t" style="height:82%"></div>
+        <span class="text-xs mt-1">2000 h<br />82%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-gray-300 rounded-t" style="height:65%"></div>
+        <span class="text-xs mt-1">Kilpailija<br />~65%</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">PVC 1100 dtex-kankas säilyttää &gt; 80 % vetovoimaa 2000 t xenon-arki-altistuksen jälkeen, kun taas tyypilliset teollisuusluokat laskevat 70 %:n alle.</p>
+  </div>
+
+
+  <h2>Professionaalitamme tiimi</h2>
+
+  <p>Laboratorion työntekijöinä on kaksi kokopäiväistä materiaali-insinööriä, joista jokaisella on polymeritieteen tai tekstiili-insinöörin tutkinto vähintään kuuden vuoden teollisuuskokemuksella. Heitä avustavat kolme teknikkoa, jotka hoitavat jokapäiväisen testauksen ja tietojen rekisteröinnin.
+  Tiimi osallistuu säännöllisesti kansainvälisen standardo-organisaation (ISO) järjestämiin laboratorioiden välisiin kilpailutesteihin testimenetelmien tarkkuuden validointia varten.</p>
+
+
+  <h2>Vaikeimpien materiaalivaikeuksien ratkaiseminen</h2>
+
+  <p>Jokainen meriympäristö on erilainen. Trooppisen auringon alla toimiva vuokra-SUP kohtaa täysin erilaisia UV- ja lämpötilakuormia kuin pohjoisten leveysasteiden järkilauta. Kankaslaboratoriomme auttaa sinua valitsemaan – tai kehittämään – kangasvarann, joka on optimoitu toimintaprofiilisi mukaan.</p>
+
+  <p>Viimeaikaisia räätälöityjä ratkaisuja ovat olleet:</p>
+
+  <ul>
+    <li>Korkean kulumiskestävyyden PVC-seos sotilasasiakkaalle, jonka laudat lasketaan vesille säännöllisesti koralli- ja kalliorannoilta (+40 % kulumiskestävyys).</li>
+    <li>Matalan lämpötilan PVC-koostumus arktiselle retkelle, testattu -50 °C:seen ilman haurastumista.</li>
+    <li>Väristabilisoitu oranssi kangas ranta- ja pelastuslautalaivastolle, joka säilyttää näkyvyyden kolmen vuoden trooppisen auringon jälkeen.</li>
+  </ul>
+
+  <p>Emme myy "hyllyltä" kangoja ja toivo, että ne toimivat. Testaamme, validoittelemme ja suosittelemme – tai luomme – räätälöidyn ratkaisun tarkoitukseesi. Se on Afarer -erinomainen tekijä.</p>
+
+
+  <h2>Miten palvelemme sinua</h2>
+
+  <p>Kun tuot materiaalivaikeuden meille, tässä on mitä voit odottaa:</p>
+
+  <ol>
+    <li><strong>Konsultaatio</strong> – käsittelemme toimintaympäristöä, suorituskykytavoitteita ja budjettia.</li>
+    <li><strong>Ehdotus</strong> – laaditaan testisuunnitelma selkeillä läpäisy/hylkäyskriteereillä ja aikataululla.</li>
+    <li><strong>Toteutus</strong> – laboratoriomme ajaa testit ja tuottaa yksityiskohtaisen raportin raaka-aineineen ja vertailuanalyysirahkeineen.</li>
+    <li><strong>Suositus</strong> – esitämme kangasvarann, vaihtoehtoiset vaihtoehdot mukaan lukien, jos useat materiaalit täyttävä vaatimukset.</li>
+    <li><strong>Seuranta</strong> – toimituksen jälkeen olemme saatavilla tukemaan kaikkia materiaaleja koskevia käyttöaiheisia kysymyksiä.</li>
+  </ol>
+
+  <p>Meidän tavoitteemme ei ole pelkästään myydä sinulle lautaa. Se on varmistaa, että lauta, jonka vastaanotat, toimii luotettavasti olosuhteissa, joissa melot – ja se alkaa kankaasta.</p>
+cta:
+  title: Tarvitsetko räätälöidyn kangasmäärittelyn?
+  subtitle: Ota yhteyttä materiaalitekniikan tiimiimme keskustellaksesi vaatimuksistasi.
+  button_text: Ota yhteyttä laboratoriotiimiimme
+  button_link: /contact/

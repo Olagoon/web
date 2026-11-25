@@ -1,0 +1,107 @@
+meta:
+  title: 'Conoscenza — Guide SUP | {SITE}'
+  description: 'Base di conoscenza afarer: guide su SUP gonfiabili, materiali per paddle board, scelta delle tavole e insight di settore per marchi e professionisti.'
+  keywords:
+    - 'conoscenza sup'
+    - 'guida SUP gonfiabile'
+    - 'materiali paddle board'
+    - 'insight settore SUP'
+hero:
+  tagline: Grafico della Conoscenza
+  title: Conoscenza dell'Esplorazione Acquatica
+  subtitle: |
+    Una base di conoscenza strutturata che copre la tecnologia SUP gonfiabile,<br />
+    la sicurezza in acqua, l''ingegneria delle tavole e la pianificazione di avventure.
+  taglineSection: Esplora. Impara. Vai con fiducia.
+clusters:
+  tagline: Cluster di Conoscenza
+  title: Esplora per argomento
+  subtitle: Approfondimenti sulla tecnologia, sicurezza e competenze dietro ogni prodotto afarer.
+  items:
+    - title: Guide all'Acquisto di SUP
+      description: Dalla scelta della tua prima tavola alle tecniche di touring avanzate — tutto sullo stand-up paddle.
+      icon: tabler:lifebuoy
+      topics:
+        - Come scegliere il tuo primo SUP gonfiabile
+        - Guida a misure e capacità di carico dei SUP
+        - Migliori SUP per principianti, touring, yoga e racing
+        - Errori comuni nell'acquisto di SUP da evitare
+        - Confronto gonfiabile vs tavola rigida
+    - title: Ingegneria e Tecnologia SUP
+      description: Guide tecniche sulle tavole SUP gonfiabili — materiali, metodi di costruzione e processi di produzione.
+      icon: tabler:microscope
+      topics:
+        - Approfondimento sulla tecnologia drop-stitch
+        - Specifiche del PVC di grado militare
+        - Laminazione fusion vs incollaggio adesivo
+        - Tecnologia della schiuma EVA e metodi grafici
+        - Tipi di valvole SUP e sistemi di pinne
+    - title: Sicurezza e Manutenzione SUP
+      description: Conoscenze essenziali di sicurezza per ogni pagaiatore — dalla scelta del giubbotto di salvataggio alla lettura del meteo, fino alla cura e riparazione delle tavole.
+      icon: tabler:shield
+      topics:
+        - Lista di controllo sicurezza SUP e requisiti dei giubbotti di salvataggio
+        - Sicurezza multi-camera per acque remote
+        - Guida al PSI di gonfiaggio dei SUP
+        - Stoccaggio delle tavole e cura invernale
+        - Tecniche di riparazione dei gonfiabili
+    - title: Abilità e Tecniche SUP
+      description: Tecniche di pagaiata, abilità di touring e allenamento fitness per tutti i livelli.
+      icon: tabler:sailboat
+      topics:
+        - Tecniche di pagaiata per principianti
+        - Padronanza della palata a livello intermedio
+        - Pianificazione di touring e spedizioni
+        - Fitness SUP e allenamento per gare
+        - Abilità per acque bianche e discesa fluviale
+    - title: Stile di vita SUP e usi speciali
+      description: Attività SUP specializzate — yoga, pesca, cani, famiglie e consigli di viaggio.
+      icon: tabler:heart
+      topics:
+        - Yoga e meditazione su SUP in acqua
+        - Pesca da un SUP gonfiabile
+        - Fare paddle boarding con cani e bambini
+        - Viaggiare con il tuo SUP in aereo e in auto
+        - Accessori e attrezzature essenziali per SUP
+    - title: Confronti e Riferimenti SUP
+      description: Confronti fianco a fianco per aiutarti a prendere decisioni informate.
+      icon: tabler:chart-bar
+      topics:
+        - SUP contro kayak — quale fa per te?
+        - Gradi del materiale PVC spiegati
+        - Sicurezza a camera singola vs multi-camera
+        - Materiali delle tavole SUP spiegati
+        - Stampa UV vs opere d'arte su blocco EVA
+featured_guides:
+  tagline: Guide in Evidenza
+  title: Risorse di conoscenza più popolari
+  items:
+    - title: Basi del SUP
+      href: /learn/sup/
+    - title: Gonfiabile vs Tavola Rigida
+      href: /compare/inflatable-vs-hardboard/
+    - title: Guida alla Sicurezza in Acqua
+      href: /learn/water-safety/
+    - title: Riferimento Materiali
+      href: /learn/materials/
+    - title: Guida all'Acquisto di SUP
+      href: /guides/how-to-choose-your-sup/
+    - title: Guida alle Misure SUP
+      href: /guides/sup-size-guide/
+    - title: Centro Tecnologico SUP
+      href: /research/
+    - title: Manutenzione SUP
+      href: /guides/sup-maintenance/
+    - title: Guida Turistica
+      href: /guides/sup-for-touring/
+    - title: Tecniche di pagaiata
+      href: /guides/paddling-techniques/
+cta:
+  title: Inizia a esplorare
+  subtitle: Immergiti nella nostra base di conoscenza e ottieni le informazioni necessarie per la tua prossima avventura in acqua.
+  actions:
+    - variant: primary
+      text: Sfoglia tutte le guide
+      href: /academy/
+    - text: Esplora il Grafico della Conoscenza
+      href: /knowledge/

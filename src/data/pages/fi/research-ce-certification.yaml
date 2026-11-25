@@ -1,0 +1,72 @@
+meta:
+  title: Miten CE-sertifointi toimii täytettäville vesialuksille | {SITE}
+  description: Kattava opas CE-sertifiointiin täytettäville SUP-lautoille ja kajakeille. Sovellettavat direktiivit (2013/53/EU RCD, PPE 2016/425), testiprotokollat, ilmoitetut elimet, tekniset tiedostovaatimukset ja valmistajan velvoitteet.
+back_text: Tutkimukseen
+hero:
+  tagline: Määräystenmukaisuus
+  title: Miten CE-sertifiointi toimii ilmatäytettäville vesikulkuneuvoille
+  subtitle: 7 min lukuaika
+content_html: >
+  <h2>Mikä on CE-sertifikaatti?</h2>
+
+  <p>CE-merkintä (Conformité Européenne) osoittaa, että tuote täyttää EU:n terveys-, turvallisuus- ja ympäristövaatimukset. Puhallettavien vesikulkuneuvojen osalta relevantti sääntelykehykse riippuu tuoteluokasta.</p>
+
+
+  <h2>Sovellettavat direktiivit</h2>
+
+
+  <h3>Virkistysaluksen direktiivi (2013/53/EU)</h3>
+
+  <p>Päädirektiivi EU:n virkistysaluksille. Alle 2,4 m:n täytettävät SUP-laudat jäävät sen soveltamisalan ulkopuolelle ja sertifioidaan sen sijaan EN ISO 25649 -standardin mukaan.</p>
+
+
+  <h3>Suositteluväline-asetus (2016/425)</h3>
+
+  <p>Suosituksen, nostovoima-avun ja turvalaitteet, jotka toimitetaan vesikulkuneuvojen kanssa, täyttävät PPE-asetuksen vaatimukset, mukaan lukien tyyppitutkimus (Moduuli B) ilmoitetun elimen toimesta ja tuotannon laadunvarmistus (Moduuli D tai E).</p>
+
+
+  <h2>Sertifikaattiprosessi</h2>
+
+  <ol>
+    <li>Tuoteluokittelu: Määritä aluksen suunnitteluluokka (A – D ISO 8666:n mukaan)</li>
+    <li>Sovellettavat standardit: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (valmistajan kilpi)</li>
+    <li>Teknisen tiedoston valmistelu: Suunnittelupiirustukset, BOM-materiaaliluettelo, materiaalisertifikaatit, riskiarviointi</li>
+    <li>Tyyppitestaus: Nostovoima, vakaus, kuormituskyky, materiaalitestaus, saumojen lujuus, ilmanpidätys</li>
+    <li>Tehdasvalvonnan valvonta: Ilmoitetun elimen tarkastus valmistusprosesseista</li>
+    <li>Noudattavuusvakuutus: Valmistaja allekirjoittaa DoC:n, kiinnittää CE-merkinnän</li>
+  </ol>
+
+
+  <h2>Ilmoitetut elimet puhallettaville vesikulkuneuvoille</h2>
+
+  <p>Yleiset elimet ovat Bureau Veritas (Ranska), DNV GL (Saksa), RINA (Italia), TÜV Rheinland / TÜV SÜD (Saksa).</p>
+
+
+  <h2>Aikataulu ja kustannukset</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Vaihe</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Kesto</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Tyypillinen kustannus (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Teknisen tiedoston valmistelu</td><td class="p-3 border">2–4 viikkoa</td><td class="p-3 border">2 000–5 000</td></tr>
+      <tr><td class="p-3 border">Tyyppitestaus</td><td class="p-3 border">4–8 viikkoa</td><td class="p-3 border">8 000–20 000</td></tr>
+      <tr><td class="p-3 border">Tehastarkastus</td><td class="p-3 border">1–2 päivää (paikan päällä)</td><td class="p-3 border">3 000–6 000</td></tr>
+      <tr><td class="p-3 border">Yhteensä (ensimmäinen tuote)</td><td class="p-3 border">8–14 viikkoa</td><td class="p-3 border">13 000–31 000</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Mitä tämä tarkoittaa ostajille</h2>
+
+  <p>Hankittaessa CE-sertifioituja täytettäviä SUP-lautoja, tarkista aina CE-merkinnän olevan valmistajan kilvessä, voimassa oleva DoC on olemassa, ilmoitettu elinnumero on listattu ja omistajan käsikirja sisältää turvaohjeet paikallisella kielellä. Kaikki Afarer-tuotteet täyttävät CE-sertifikaatin
+  täydellisellä jäljitettävyydellä ilmoitetun elimen tarkastusraportteihin.</p>
+cta:
+  title: Tarvitsetko CE-sertifiointitukea?
+  subtitle: Hoidamme sertifioinnit OEM-kumppaneillemme maailmanlaajuisesti.
+  button_text: Aloita sertifiointiprosessi
+  button_link: /contact/

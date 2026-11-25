@@ -1,0 +1,262 @@
+﻿---
+import type { ImageMetadata } from 'astro';
+import Layout from '~/layouts/PageLayout.astro';
+import Image from '~/components/common/Image.astro';
+import { getProducts } from '~/utils/products';
+import { products as productRecords } from '~/data/products';
+import { findImage } from '~/utils/images';
+import { SITE } from 'astrowind:config';
+import Stars from '~/components/common/Stars.astro';
+import { getRatingStats } from '~/data/reviews';
+
+const metadata = {
+  title: `Product Comparison — ${SITE.name}`,
+  description:
+    'Compare afarer inflatable SUPs and accessories side by side. Length, width, weight, capacity, and more.',
+};
+
+const products = await getProducts();
+
+const recFor = (slug: string) => productRecords.find((p) => p.id === slug);
+
+const SKILL_LABELS: Record<string, string> = {
+  beginner: 'Beginner',
+  intermediate: 'Intermediate',
+  advanced: 'Advanced',
+  professional: 'Professional',
+};
+
+interface ComparisonRow {
+  label: string;
+  value: (p: (typeof products)[number]) => string;
+  rating?: boolean;
+}
+
+const specGetter = (needle: string, fallback = '-') => {
+  return (p: (typeof products)[number]) => {
+    const s = p.specs?.find((spec) => spec.label.toLowerCase().includes(needle));
+    return s?.value || fallback;
+  };
+};
+
+const bestFor = (p: (typeof products)[number]) => recFor(p.slug)?.audience || '-';
+const skillLevel = (p: (typeof products)[number]) => {
+  const skill = recFor(p.slug)?.skill;
+  return skill ? SKILL_LABELS[skill] || '-' : '-';
+};
+
+const boardRows: ComparisonRow[] = [
+  { label: 'Best For', value: bestFor },
+  { label: 'Skill Level', value: skillLevel },
+  { label: 'Rating', value: () => '-', rating: true },
+  { label: 'Length', value: specGetter('length') },
+  { label: 'Width', value: specGetter('width') },
+  { label: 'Weight', value: specGetter('weight') },
+  {
+    label: 'Max Load',
+    value: (p: (typeof products)[number]) => {
+      const s = p.specs?.find(
+        (spec) => spec.label.toLowerCase().includes('load') || spec.label.toLowerCase().includes('capacity')
+      );
+      return s?.value || '-';
+    },
+  },
+  { label: 'Material', value: specGetter('material', 'PVC') },
+];
+
+const accessoryRows: ComparisonRow[] = [
+  { label: 'Best For', value: bestFor },
+  { label: 'Skill Level', value: skillLevel },
+  { label: 'Rating', value: () => '-', rating: true },
+];
+
+const boardProducts = products.filter((p) => p.category === 'sup');
+const accessoryProducts = products.filter((p) => p.category === 'accessory');
+
+const images = new Map<string, ImageMetadata | string | undefined>();
+for (const p of products) {
+  images.set(p.slug, (await findImage(p.image)) as ImageMetadata | string | undefined);
+}
+---
+
+<Layout metadata={metadata}>
+  <section class="max-w-6xl mx-auto py-24 px-6">
+    <a href="/products" class="text-sm text-sky-600 hover:text-sky-700">&larr; Products</a>
+    <h1 class="mt-4 text-4xl font-semibold text-gray-900">Product Comparison</h1>
+    <p class="mt-4 text-lg text-gray-500">
+      Compare all afarer products side by side. Find the right board or accessory for your needs.
+    </p>
+
+    <h2 id="paddle-boards" class="mt-14 text-2xl font-semibold text-gray-900">Paddle Boards</h2>
+    <div class="mt-6 overflow-x-auto">
+      <table class="w-full text-sm border-collapse">
+        <thead>
+          <tr>
+            <th
+              class="sticky left-0 bg-white z-10 px-4 py-3 text-left font-semibold text-gray-900 border-b-2 border-gray-200 min-w-[140px]"
+              >Specification</th
+            >
+            {
+              boardProducts.map((p) => (
+                <th class="px-4 py-3 text-center font-semibold text-gray-900 border-b-2 border-gray-200 min-w-[160px] align-top">
+                  <a href={`/products/${p.slug}`} class="group inline-block">
+                    {images.get(p.slug) ? (
+                      <Image
+                        src={images.get(p.slug) as ImageMetadata | string}
+                        alt={p.title}
+                        class="w-16 h-16 mx-auto rounded-lg object-cover"
+                        widths={[96, 192]}
+                        width={96}
+                        height={96}
+                        format="webp"
+                        loading="lazy"
+                        decoding="async"
+                      />
+                    ) : (
+                      <div class="w-16 h-16 mx-auto rounded-lg bg-gray-100" />
+                    )}
+                    <div class="mt-2 text-xs uppercase tracking-wider text-gray-500 mb-1">
+                      {p.seriesLabel || p.categoryLabel}
+                    </div>
+                    <span class="group-hover:text-sky-600 transition-colors">{p.title}</span>
+                  </a>
+                </th>
+              ))
+            }
+          </tr>
+        </thead>
+        <tbody>
+          {
+            boardRows.map((row, i) => (
+              <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
+                <td
+                  class="sticky left-0 px-4 py-3 font-medium text-gray-700 border-b border-gray-200"
+                  style={i % 2 === 0 ? 'background:#f9fafb' : 'background:white'}
+                >
+                  {row.label}
+                </td>
+                {boardProducts.map((p) => {
+                  if (row.rating) {
+                    const st = getRatingStats(p.slug);
+                    return st ? (
+                      <td class="px-4 py-3 text-center border-b border-gray-200">
+                        <span class="inline-flex items-center justify-center gap-1.5">
+                          <Stars rating={st.avg} size="sm" showValue />
+                          <span class="text-xs text-gray-400">({st.count})</span>
+                        </span>
+                      </td>
+                    ) : (
+                      <td class="px-4 py-3 text-center text-gray-400 border-b border-gray-200">-</td>
+                    );
+                  }
+                  return <td class="px-4 py-3 text-center text-gray-600 border-b border-gray-200">{row.value(p)}</td>;
+                })}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+
+    <h2 id="accessories" class="mt-14 text-2xl font-semibold text-gray-900">Accessories</h2>
+    <div class="mt-6 overflow-x-auto">
+      <table class="w-full text-sm border-collapse">
+        <thead>
+          <tr>
+            <th
+              class="sticky left-0 bg-white z-10 px-4 py-3 text-left font-semibold text-gray-900 border-b-2 border-gray-200 min-w-[140px]"
+              >Specification</th
+            >
+            {
+              accessoryProducts.map((p) => (
+                <th class="px-4 py-3 text-center font-semibold text-gray-900 border-b-2 border-gray-200 min-w-[160px] align-top">
+                  <a href={`/products/${p.slug}`} class="group inline-block">
+                    {images.get(p.slug) ? (
+                      <Image
+                        src={images.get(p.slug) as ImageMetadata | string}
+                        alt={p.title}
+                        class="w-16 h-16 mx-auto rounded-lg object-cover"
+                        widths={[96, 192]}
+                        width={96}
+                        height={96}
+                        format="webp"
+                        loading="lazy"
+                        decoding="async"
+                      />
+                    ) : (
+                      <div class="w-16 h-16 mx-auto rounded-lg bg-gray-100" />
+                    )}
+                    <div class="mt-2 text-xs uppercase tracking-wider text-gray-500 mb-1">
+                      {p.seriesLabel || p.categoryLabel}
+                    </div>
+                    <span class="group-hover:text-sky-600 transition-colors">{p.title}</span>
+                  </a>
+                </th>
+              ))
+            }
+          </tr>
+        </thead>
+        <tbody>
+          {
+            accessoryRows.map((row, i) => (
+              <tr class={i % 2 === 0 ? 'bg-gray-50' : 'bg-white'}>
+                <td
+                  class="sticky left-0 px-4 py-3 font-medium text-gray-700 border-b border-gray-200"
+                  style={i % 2 === 0 ? 'background:#f9fafb' : 'background:white'}
+                >
+                  {row.label}
+                </td>
+                {accessoryProducts.map((p) => {
+                  if (row.rating) {
+                    const st = getRatingStats(p.slug);
+                    return st ? (
+                      <td class="px-4 py-3 text-center border-b border-gray-200">
+                        <span class="inline-flex items-center justify-center gap-1.5">
+                          <Stars rating={st.avg} size="sm" showValue />
+                          <span class="text-xs text-gray-400">({st.count})</span>
+                        </span>
+                      </td>
+                    ) : (
+                      <td class="px-4 py-3 text-center text-gray-400 border-b border-gray-200">-</td>
+                    );
+                  }
+                  return <td class="px-4 py-3 text-center text-gray-600 border-b border-gray-200">{row.value(p)}</td>;
+                })}
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+
+    <div class="mt-14 rounded-2xl bg-sky-50 border border-sky-100 px-6 py-10 text-center">
+      <h2 class="text-2xl font-semibold text-gray-900">Not sure which board is right for you?</h2>
+      <p class="mt-3 text-gray-600 max-w-2xl mx-auto">
+        Use our size guide to find the right board in under a minute — or ask our team, we are happy to help.
+      </p>
+      <div class="mt-6 flex flex-wrap justify-center gap-3">
+        <a
+          href="/size-guide/"
+          class="px-6 py-3 bg-sky-600 text-white text-sm font-semibold rounded-lg hover:bg-sky-700 transition-colors"
+        >
+          Find Your Board
+        </a>
+        <a
+          href="/contact/"
+          class="px-6 py-3 border border-sky-600 text-sky-700 text-sm font-semibold rounded-lg hover:bg-sky-100 transition-colors"
+        >
+          Ask a Question
+        </a>
+      </div>
+    </div>
+
+    <section class="sr-only" data-ai-block="definition" aria-hidden="true">
+      <p>
+        afarer product comparison tables covering {products.length} products: {boardProducts.length} paddle boards and {
+          accessoryProducts.length
+        } accessories. Compare best-for audience, skill level, length, width, weight, max load, and material. Includes a size
+        guide call-to-action for board selection help.
+      </p>
+    </section>
+  </section>
+</Layout>

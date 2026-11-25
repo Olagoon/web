@@ -1,0 +1,99 @@
+meta:
+  title: 'Solicitați o ofertă — producție SUP OEM | {SITE}'
+  description: 'Solicitați o ofertă detaliată pentru proiectul vostru de SUP gonflabil. Producție OEM/ODM, marcă proprie sau flote personalizate — răspundem în 2 zile lucrătoare.'
+  keywords:
+    - 'solicitare ofertă SUP'
+    - 'ofertă OEM paddle board'
+    - 'ofertă fabrica SUP'
+    - 'preț SUP gonflabil'
+hero_text:
+  tagline: Solicitați o ofertă
+  title: Solicitați o ofertă<br />pentru proiectul dvs.
+  subtitle: Spuneți-ne cerințele dvs. și echipa noastră va răspunde cu o ofertă detaliată în termen de 2 zile lucrătoare.
+steps2_process:
+  title: Cum funcționează
+  subtitle: Patru pași simpli de la întrebare la ofertă.
+  items:
+    - title: 'Pasul 1: Trimiteți cerințele dumneavoastră'
+      description: Completați formularul de mai jos cu tipul de produs, cantitatea și specificațiile. Cu cât oferiți mai multe detalii, cu atât oferta va fi mai precisă.
+      icon: tabler:file-text
+    - title: 'Pasul 2: Analizăm și consiliem'
+      description: Echipa noastră de ingineri analizează cerințele dvs. și vă poate contacta pentru clarificări. Oferim recomandări privind configurarea produsului și opțiunile.
+      icon: tabler:users
+    - title: 'Pasul 3: Primiți oferta dumneavoastră'
+      description: Primiți o ofertă detaliată, inclusiv prețuri unitare, MOQ, termen de livrare, condiții de plată și opțiuni de expediere. De obicei, în termen de 48 de ore.
+      icon: tabler:currency-dollar
+    - title: 'Pasul 4: Probă și producție'
+      description: După acceptarea ofertei, trecem la producția de mostre (dacă este cazul) sau direct la producția de masă. Actualizări regulate pe tot parcursul procesului.
+      icon: tabler:building-factory
+content_form:
+  tagline: Formular de ofertă
+  title: Spuneți-ne despre proiectul dvs.
+  subtitle: Toate câmpurile cu * sunt obligatorii.
+  contact_fields:
+    firstName: Prenume
+    lastName: Nume
+    companyName: Numele companiei
+    email: E-mail
+  fields:
+    - name: Categorie de produs
+      type: select
+      options:
+        - Placă SUP
+        - SUP gonflabil
+        - Placă SUP gonflabilă
+        - Vestă de salvare
+        - Accesoriu marin
+        - OEM/ODM personalizat
+    - name: Aplicație
+      type: select
+      options:
+        - Centru de scufundări
+        - Pescuit
+        - Turism marin / Resort
+        - Căutare și salvare
+        - Guvern / Militar
+        - OEM / Marcă proprie
+        - Personal / Recreațional
+        - Altele
+    - name: Cantitate
+      type: text
+      placeholder: 'ex.: 50 de unități'
+    - name: Piață țintă
+      type: text
+      placeholder: 'ex.: Europa, America de Nord, Orientul Mijlociu'
+    - name: Țara de livrare
+      type: text
+      placeholder: 'ex.: Italia, EAU, SUA, Australia'
+    - name: Preferință de material
+      type: select
+      options:
+        - Fără preferință
+        - PVC de calitate marină (1100 dtex)
+        - Cocă din fibră de sticlă
+        - Cocă din aluminiu
+    - name: Cerință motor
+      type: text
+      placeholder: ex. configurație standard de vâslire, pompă electrică, culori personalizate
+    - name: Personalizare necesară
+      type: text
+      placeholder: ex. culori personalizate, branding/logo, ambalaj, accesorii speciale
+    - name: Termen de livrare
+      type: text
+      placeholder: de ex. livrare în termen de 90 de zile
+    - name: Cerințe suplimentare
+      type: textarea
+      placeholder: Descrie aplicația ta, specificațiile tehnice sau orice cerințe speciale — include desene de referință, specificații sau linkuri, dacă sunt disponibile.
+    - name: Încărcați specificația
+      type: file
+      placeholder: Încărcați fișa tehnică, desenul sau documentul de referință (PDF, DWG, DXF)
+    - name: Încărcați logo / materiale grafice
+      type: file
+      placeholder: Încărcați logo-ul sau materialele grafice pentru branding personalizat (AI, EPS, PNG)
+cta:
+  title: Preferați să discutăm pe e-mail?
+  subtitle: Trimiteți solicitarea dumneavoastră direct echipei noastre de vânzări și vă vom răspunde în termen de 24 de ore.
+  actions:
+    - variant: primary
+      text: Scrieți-ne direct pe e-mail
+      href: /contact/

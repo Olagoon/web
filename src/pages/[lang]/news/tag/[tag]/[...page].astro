@@ -1,0 +1,95 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Headline from '~/components/blog/Headline.astro';
+import Pagination from '~/components/blog/Pagination.astro';
+import Timeline from '~/components/blog/Timeline.astro';
+
+import { fetchPosts, fetchPostsForLang, blogPostsPerPage, blogTagRobots } from '~/utils/blog';
+import { getUiForLang } from '~/i18n/generated/ui-all';
+import type { Post } from '~/types';
+import { languages } from '~/i18n/config';
+import { withTrailingSlash } from '~/i18n/routing';
+
+export const prerender = true;
+
+export const getStaticPaths = async () => {
+  const posts = await fetchPosts();
+  const pageSize = blogPostsPerPage;
+  const paths: {
+    params: { lang: string; tag: string; page: string[] | undefined };
+    props: { paginatedPosts: Post[]; currentPage: number; totalPages: number; tagTitle: string };
+  }[] = [];
+  for (const lang of Object.keys(languages)) {
+    const tags = new Map<string, { slug: string; title: string; posts: Post[] }>();
+    for (const post of posts) {
+      for (const tag of post.tags || []) {
+        if (!tags.has(tag.slug)) {
+          tags.set(tag.slug, { slug: tag.slug, title: tag.title, posts: [] });
+        }
+        tags.get(tag.slug)!.posts.push(post);
+      }
+    }
+    for (const { slug, title, posts: tagPosts } of tags.values()) {
+      const totalPages = Math.ceil(tagPosts.length / pageSize);
+      for (let i = 0; i < totalPages; i++) {
+        const n = i + 1;
+        paths.push({
+          params: { lang, tag: slug, page: n > 1 ? [String(n)] : undefined },
+          props: {
+            paginatedPosts: tagPosts.slice(i * pageSize, (i + 1) * pageSize),
+            currentPage: n,
+            totalPages,
+            tagTitle: title,
+          },
+        });
+      }
+    }
+  }
+  return paths;
+};
+
+const { lang, tag: tagSlug } = Astro.params;
+const t = (k: string) => getUiForLang(lang)?.[k] || getUiForLang('en')?.[k] || '';
+const { currentPage, tagTitle } = Astro.props;
+
+// Locale entries under content/news/<lang>/ win; EN fallback for untranslated locales.
+const localizedPosts = (await fetchPostsForLang(lang)).filter((p) => p.tags?.some((tag) => tag.slug === tagSlug));
+const pageSize = blogPostsPerPage;
+const totalPages = Math.ceil(localizedPosts.length / pageSize);
+const paginatedPosts = localizedPosts.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+
+const prevUrl =
+  currentPage > 1
+    ? currentPage === 2
+      ? `/${lang}/news/tag/${tagSlug}/`
+      : `/${lang}/news/tag/${tagSlug}/${currentPage - 1}/`
+    : undefined;
+const nextUrl = currentPage < totalPages ? `/${lang}/news/tag/${tagSlug}/${currentPage + 1}/` : undefined;
+
+const metadata = {
+  title: `${t('blog.tag')}: '${tagTitle}'${currentPage > 1 ? ` — ${t('blog.page')} ${currentPage}` : ''}`,
+  robots: {
+    index: blogTagRobots?.index,
+    follow: blogTagRobots?.follow,
+  },
+};
+---
+
+<Layout
+  metadata={metadata}
+  breadcrumbs={[
+    { name: t('nav.home'), href: `/${lang}/` },
+    { name: t('nav.news'), href: withTrailingSlash(`/${lang}/news`) },
+    { name: `${t('blog.tag')}: ${tagTitle}` },
+  ]}
+>
+  <section class="section-premium mx-auto max-w-4xl px-6">
+    <Headline>{t('blog.tag')}: {tagTitle}</Headline>
+    <div class="mt-16">
+      <Timeline posts={paginatedPosts} />
+    </div>
+    <div class="mt-16 text-center">
+      <Pagination prevUrl={prevUrl} nextUrl={nextUrl} />
+    </div>
+  </section>
+</Layout>

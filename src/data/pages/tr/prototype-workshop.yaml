@@ -1,0 +1,110 @@
+meta:
+  title: Prototip Atölyesi — Tam Ölçekli SUP Prototipleme ve Deniz Denemeleri | {SITE}
+  description: CAD'den denize hazır tahtaya 8-12 hafta içinde. Prototip Atölyemiz özel şişme SUP'lar inşa eder, donar ve deniz denemelerini yapar. Prototip projenize bugün başlayın.
+back_text: Ar-Ge Merkezine Dön
+home_label: Ana Sayfa
+hero:
+  tagline: Laboratuvar 05
+  title: Prototip Atölyesi
+  subtitle: CAD modelinden denize hazır tahtaya — inşa edilmiş, donatılmış ve kanıtlanmış
+  image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+  image_alt: Afarer prototip atölyesi tahta üretimi
+intro: >-
+  Bir CAD modeli, ne kadar detaylı olursa olsun, bir tahtanın suyla buluşana kadar gerçekte nasıl davranacağını ortaya koyamaz. Bu nedenle Prototip Atölyemiz, mühendislik verilerini mümkün olan en hızlı ve en doğru şekilde fiziksel, denize hazır bir tahtaya dönüştürmek için tasarlanmıştır. Her
+  yeni Afarer modeli — ve her önemli özel üretim — üretim kalıplarına geçilmeden önce bu atölyeden geçer.
+content_html: >
+  <h2>Tasarımın gerçeğe dönüştüğü yer</h2>
+
+  <p>Atölye, gövde, kenarlar ve teçhizatın eş zamanlı üretimi için tam donanımlıdır. Bu paralel iş akışı yaklaşımı, prototip sürelerini mühendislik onayından itibaren endüstri standardı olan 16-20 haftaya kıyasla 8-12 haftaya düşürür. Uygulamanız özel bir çözüm gerektirdiğinde, konseptten su
+  üzerindeki doğrulamaya üç aydan kısa sürede ulaşabiliriz.</p>
+
+
+  <h2>Atölye olanakları</h2>
+
+  <table>
+    <thead><tr><th>İstasyon</th><th>Ekipman</th><th>Amaç</th></tr></thead>
+    <tbody>
+      <tr><td>Gövde üretimi</td><td>CNC kumaş kesici, ısı laminasyon presi, drop-stitch çekirdek hazırlama istasyonu</td><td>Üç yapı türünde de tam ölçekli gövde üretimi</td></tr>
+      <tr><td>Kenar &amp; odacık montajı</td><td>RF kaynak presi, sıcak hava fikstür istasyonu, şişirme test tezgahı</td><td>Tüm bölmeler ve vanalarla birlikte tam boy kenar ve odacık gruplarının üretimi</td></tr>
+      <tr><td>Teçhizat &amp; donanım</td><td>Yüzgeç kutusu freleme fikstürü, yük montaj ve tutamak kaynak fikstürleri, güverte pedi kesme istasyonu</td><td>Komple donanım: yüzgeçler, yük montaj noktaları, tasma tapaları, tutamaklar, güverte pedleri, vanalar</td></tr>
+      <tr><td>Enstrüman bölmesi</td><td>GPS hız sensörü, basınç transdüserleri, ivme ölçerler, termokuple dizisi, veri kaydedici</td><td>Deniz denemesi enstrümanlarının kurulumu ve kalibrasyonu</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Prototip yolculuğu — adım adım</h2>
+
+  <ol>
+    <li><strong>Mühendislik devri</strong> — Tasarım paketi (3D model, FEA raporu, malzeme listesi, laminasyon programı) atölye sorumlusu ve proje mühendisi tarafından resmi olarak incelenir. Üretime ilişkin endişeler kesim başlamadan önce tespit edilir ve çözülür.</li>
+    <li><strong>Gövde üretimi</strong> — Gövde mühendislik şartnamesine göre üretilir. Tek katmanlı yapı için: drop-stitch çekirdeği belirtilen PVC dış kabukla laminalanır. Çift katmanlı yapı için: ek dış kabuk, kalıp kesilmeden önce baz laminatın üzerine uygulanır. Füzyon yapı için: laminasyon parametreleri onaylı süreç sayfasından yüklenir ve ilk numune üzerinde doğrulanır.</li>
+    <li><strong>Kenar üretimi</strong> — Kumaş CNC kalıp şablonları kullanılarak kesilir, ardından RF ile tam boy kenarlara ve odacıklara kaynatılır. Her odacık test basıncına şişirilir ve ilk stabilizasyon için 24 saat bırakılır.</li>
+    <li><strong>Birleştirme &amp; teçhizat</strong> — Gövde ve kenarlar birleştirilir. Yüzgeç kutuları ve yük montaj noktaları yerleştirilir, tasma tapaları ve taşıma tutamakları takılır, şişirme vanası sıkılarak monte edilir ve güverte pedi uygulanıp hizalanır.</li>
+    <li><strong>Statik testler</strong> — Tahta suya girmeden önce şunlardan geçer: yüzdürme kontrolü (tam yük + %30 yedek), odacık basınç tutma testi, vanta sızıntı testi, tutamak ve montaj noktası çekme testi.</li>
+    <li><strong>Deniz denemesi programı</strong> — Aşağıda ayrıntıları verilen 20 saatlik su içi test.</li>
+    <li><strong>Prototip incelemesi</strong> — Mühendislik, üretim ve kalite ekipleriyle resmi bir kabul toplantısı yapılır. Gerekli tasarım değişiklikleri belgelenir ve üretim sürümüne dahil edilir.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">20 Saatlik Deniz Denemesi Programı — Test Takvimi</p>
+    <div class="space-y-2 text-sm">
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">2 s</span>
+        <span class="flex-1">Durgun su tanışma — düşük hızda rota tutma, dönüş, duruş ve trim kontrolü</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">4 s</span>
+        <span class="flex-1">Hız denemesi — GPS ile doğrulanmış maksimum hız, seyir hızı, 3 kürek temposunda sürekli hız</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">3 s</span>
+        <span class="flex-1">Dönüş testi — pivot dönüş ve süpürme dönüşü yarıçapı, tahta tepkisi, iskele ve sancak</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">3 s</span>
+        <span class="flex-1">Çırpıntı testi — 0,5–1,0 m çırpıntıdan tekrarlı geçişler; binici duruş pozisyonunda ivme ölçer</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">3 s</span>
+        <span class="flex-1">Stabilite testi — farklı ağırlıklarda 4 biniciyle statik eğim açısı, sancak tarafa kaydırılmış yük</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">3 s</span>
+        <span class="flex-1">Dayanıklılık koşusu — seyir temposunda 3 saat kesintisiz; odacık basıncı, kenar sıcaklığı ve binici yorgunluğu izlemesi</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">2 s</span>
+        <span class="flex-1">Son denetim — deneme sonrası tüm bileşenlerin denetimi, tüm bağlantı elemanlarının sıkılması/kontrolü, bulguların belgelenmesi</span>
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Benzersiz uygulamalar için özel prototipleme</h2>
+
+  <p>Prototip Atölyesi, standart üretim tahtalarının karşılayamadığı ihtiyaçları çözdüğümüz yerdir. Son örnekler şunları içermektedir:</p>
+
+  <ul>
+    <li>Bir arama-kurtarma kuruluşu için yüksek görünürlüklü kurtarma SUP'ı; entegre tutamaklar, kurtarma ekipmanı için yük montaj noktaları ve kazazedeyi sudan çıkarmak için yüksek yüzdürmeli gövde gerektiriyordu — tamamı tesisimizde prototiplendi, donatıldı ve test edildi.</li>
+    <li>Bir hidrografik ölçüm yüklenicisi için sefer tur SUP'ı; çıkarılabilir enstrüman direği, sızdırmaz ekipman portları ve sürüklemeyi en aza indirecek şekilde tasarlanmış alçak profilli transdüser montajı ile.</li>
+    <li>Bir tatil köyü filosu için kompakt balıkçılık SUP'ı; prototip, müşteri dört tahtalık bir filo taahhüt etmeden önce stabilite, ekipman donanımı ve günlük kiralama kullanımı altındaki dayanıklılığı doğrulamak için kullanıldı.</li>
+  </ul>
+
+
+  <h2>Prototipleme ekibimiz</h2>
+
+  <p>Atölyede, her biri üç temel disiplinden (gövde, kenar, teçhizat) en az ikisinde çapraz eğitim almış sekiz çok yetenekli deniz teknisyeni görev yapmaktadır. Ekip lideri, özel tek parça üretimlerden seri üretime uzanan 16 yıllık deneyime sahip bir usta üreticidir. Her prototipe, yapım ve deneme
+  süreci boyunca müşteri için tek temas noktası olarak görev yapan özel bir proje mühendisi atanır.</p>
+
+
+  <h2>Müşteri katılımı</h2>
+
+  <p>Müşterilerimizi prototip yapımı sırasında önemli dönüm noktalarına — özellikle ilk donanım incelemesine ve deniz denemesine — katılmaya aktif olarak teşvik ediyoruz. Bu aşamalardaki operasyonel geri bildirimleriniz, tahtanın üretime girmeden önce ince ayar yapılması için paha biçilmezdir.
+  Biz boşlukta değil, sizinle ortaklık içinde üretiyoruz.</p>
+
+  <p>20 saatlik deniz denemesi ayrıca ekibinizin tahtanın kullanımına, güverte düzenine ve bakım gereksinimlerine aşina olması için bir fırsat sunar; üretim tahtaları teslim edildiğinde hizmete sorunsuz bir geçiş sağlar.</p>
+cta:
+  title: Prototip projenizi başlatın
+  subtitle: İhtiyacınız olan tahta hakkında bize bilgi verin, bir prototip geliştirme planı önereceğiz.
+  button_text: Prototipleme ekibimizle iletişime geçin
+  button_link: /contact/

@@ -1,0 +1,72 @@
+meta:
+  title: 'Denizcilik Uzmanlığı — Her gövdede mühendislik | {SITE}'
+  description: "Her gövdede onlarca yıllık deniz mühendisliği. afarer, drop stitch, deniz PVC'si ve profesyonel şişme SUP tasarımında uzmandır."
+  keywords:
+    - 'denizcilik mühendisliği'
+    - 'şişme SUP tahtası üreticisi'
+    - 'paddle board üretimi'
+hero:
+  tagline: Denizcilik Uzmanlığı
+  title: Her Gövdede Onlarca Yıllık Deniz Mühendisliği<br />
+  subtitle: afarer, önemli olduğunda performans gösteren deniz taşıtları üretmek için derin malzeme bilimini, hassas üretimi ve gerçek dünya testlerini birleştirir.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: afarer deniz mühendisliği ve Ar-Ge ekibi çalışmalarında
+expertise_materials:
+  tagline: Malzeme Bilimi
+  title: Her Uygulama İçin<br />Doğru Malzemeyi Seçmek
+  subtitle: Her biri özel kullanım durumları ve performans gereksinimlerine göre seçilen iki temel malzemeyle çalışıyoruz.
+  columns: 3
+  items:
+    - title: Deniz Sınıfı PVC
+      description: 1100 denier PVC kumaş — en çok yönlü malzememiz. UV stabilize, aşınmaya dayanıklı ve REACH uyumlu. Ağırlık ve maliyet verimliliğinin önemli olduğu SUP panoları için idealdir.
+      icon: tabler:droplet
+    - title: Fiberglas ve Polietilen
+      description: Premium sertlik ve kayma performansı için fiberglas laminalı SUP'lar. Maksimum darbe direnci gerektiren ağır hizmet kiralama ve kurtarma kullanımları için döner kalıplı polietilen.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Üretim Yetenekleri
+  title: Her Adımda Hassas Üretim<br />
+  subtitle: 12.000 m²'lik tesisimiz üretimin her aşamasına yönelik özel makinelerle donatılmıştır.
+  columns: 2
+  items:
+    - title: CNC Kesim
+      description: Bilgisayar kontrollü kesim, minimum atıkla hassas, tekrarlanabilir kumaş paneller sağlar. Her parça tam olarak tasarlandığı gibi uyuyor.
+      icon: tabler:cpu
+    - title: Yüksek Frekanslı Kaynak
+      description: Endüstriyel HF kaynağı, ana malzemeden daha güçlü dikişler oluşturur. Tutarlı sıcaklık ve basınç kontrolü, her üretim sürecinde hava geçirmez contalar sağlar.
+      icon: tabler:bolt
+    - title: Drop Stitch Çekirdek Montajı
+      description: Binlerce polyester iplik, üst ve alt kumaş katmanlarını birbirine bağlayarak sert, stabil SUP tahtaları için yüksek basınçlı şişirmeye (15-20 PSI) olanak tanır.
+      icon: tabler:building-arch
+    - title: Basınç Testi
+      description: Her şişirilebilir ürün, nakliyeden önce basınç testine tabi tutulur. Tahtalar 1,25x nominal basınçta test edilir — orada tutuyorsa suda performans gösterecektir.
+      icon: tabler:wind
+    - title: Dikiş Gücü Testi
+      description: Her üretim partisinden rastgele numuneler yıkıcı dikiş mukavemeti testine tabi tutulur. Sonuçlar günlüğe kaydedilir ve belirli üretim işlemlerine göre izlenebilir.
+      icon: tabler:files
+    - title: Su Testi
+      description: Her SUP modeli sertifikasyondan önce deniz denemelerine tabi tutulur. Kıyı koşullarındaki gerçek dünya testleri performansı, kullanımı ve stabiliteyi doğrular.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Tasarım ve Mühendislik
+  title: Gerçek Koşullar için Tasarlandı
+  subtitle: Tasarım felsefemiz tahtanın nasıl kullanılacağıyla başlar ve ardından mühendisliği bu kullanım senaryosu etrafında inşa eder.
+  items:
+    - title: Performans Gövde Tasarımı
+      description: Her gövde şekli kullanım amacına göre ayarlanır — tur kayışı için deplasman burunları, sörf çevikliği için ekstra rocker, balıkçılık ve yoga için düz stabil profiller.
+    - title: Drop-Stitch Güvenliği
+      description: Her tahta, güçlendirilmiş raylı rijit bir drop-stitch çekirdeğe sahiptir. Bir bölüm hasar görürse, yüksek çekme dayanımlı drop-stitch yapısı tahtayı çalışır halde tutar.
+    - title: Ergonomik Deste Düzeni
+      description: Deste pedi bölgelendirmesi, taşıma kulbu konumu ve montaj noktaları, uzun süreli kullanımda sürücü konforu göz önünde bulundurularak tasarlanmıştır — ister tur, ister balıkçılık, ister devriye.
+    - title: Özel Konfigürasyon
+      description: Ray renkleri, deste pedi konfigürasyonu, aksesuar bağlantıları, ekipman kapasitesi — her model, belirli operasyonel gereksinimleri karşılayacak şekilde özelleştirilebilir.
+cta:
+  title: Belirli bir uygulama mı düşünüyorsunuz?
+  subtitle: Mühendislik ekibimiz projeniz için malzeme seçimi, tasarımı ve üretimi konusunda tavsiyelerde bulunabilir.
+  actions:
+    - variant: primary
+      text: Mühendislerimize sorun
+      href: /contact/
+    - text: Ürün yelpazesini görüntüle
+      href: /products/

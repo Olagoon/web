@@ -1,0 +1,42 @@
+meta:
+  title: 'Teknologia — drop stitch ja meri-PVC | {SITE}'
+  description: 'afarerin teknologiat: drop stitch -rakenne, meri-PVC, kaksikerroksiset rakenteet ja korkea paine. Innovaatiota ammattimaisesta täytettävien SUP-lautojen valmistajalta.'
+  keywords:
+    - 'SUP-teknologia'
+    - 'drop stitch -rakenne'
+    - 'korkeapaineinen SUP'
+    - 'täytettävien SUP-lautojen materiaalit'
+hero:
+  tagline: Teknologia
+  title: Rakennettu suorituskyvylle
+  subtitle: Jokainen afarer-lauta on suunniteltu tarkoilla materiaaleilla ja valmistusmenetelmillä, jotka on testattu meriympäristöissä.
+sections:
+  - title: Tikattu ydin
+    description: Tuhannet sisäiset polyesterilangat yhdistävät ylä- ja alakerrokset luoden jäykän rakenteen 12-15 PSI:n paineessa. Tämä on sama tekniikka, jota käytetään ammattimaisissa melontalaudoissa ja täytettävissä kilpa-SUP-lautoissa.
+    imageAlt: DS-ydin kaavio
+  - title: Meriluokan PVC
+    description: Monikerroksinen laminoitu PVC-kangas, joka on luokiteltu meriympäristöihin. Jokainen kerros on fuusiohitsattu eikä liimattu, eliminoiden delaminaatioriskit. Testattu UV-kestävyydelle, suolavesikorroosiolle ja hankaukselle.
+    imageAlt: PVC-kerros
+  - title: Sotilasluokan PVC
+    description: Kaikissa SUP-malleissa käytetty premium-PVC tarjoaa ylivoimaisen UV- ja kemikaalikestävyyden. Säilyttää joustavuutensa äärimmäisissä lämpötiloissa ja kestää heikkenemistä.
+    imageAlt: PVC
+  - title: Ilmakanvilattia
+    description: Korkeapaineinen ilmatäytettävä drop-stitch-rakenne tarjoaa poikkeuksellisen jäykkyyden seisomiseen, kalastukseen ja joogaan. Vähentää kokoamisaikaa, kokonaispainoa ja säilytystilaa.
+    imageAlt: Ilmakansi
+related:
+  title: Aiheeseen liittyvää
+  links:
+    - text: T&K-keskus
+      url: /randdcenter
+    - text: Laatutestaus
+      url: /quality
+    - text: Turvallisuusstandardit
+      url: /safety
+    - text: Takuu
+      url: /warranty
+    - text: Matkailu ja virkistys
+      url: /use-cases/tourism-recreation
+    - text: Oppaat
+      url: /guides
+    - text: Tuotteet
+      url: /products

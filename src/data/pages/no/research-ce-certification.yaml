@@ -1,0 +1,72 @@
+meta:
+  title: Hvordan CE-sertifisering fungerer for oppblåsbare vannfartøy | {SITE}
+  description: Fullstendig guide til CE-sertifisering for oppblåsbare SUP-er og kajakker. Gjeldende direktiver (2013/53/EU RCD, PPE 2016/425), testprotokoller, notifiserte organer, tekniske filkrav og produsentforpliktelser.
+back_text: Tilbake til forskning
+hero:
+  tagline: Samsvar
+  title: Hvordan CE-sertifisering fungerer for oppblåsbare vannfartøy
+  subtitle: 7 min lesing
+content_html: >
+  <h2>Hva er CE-sertifisering?</h2>
+
+  <p>CE-merking (Conformité Européenne) indikerer at et produkt oppfyller EUs helse-, sikkerhets- og miljøkrav. For oppblåsbare vannfartøy avhenger det relevante regelverket av produktkategorien.</p>
+
+
+  <h2>Gjeldende direktiver</h2>
+
+
+  <h3>Fritidsbåtdirektivet (2013/53/EU)</h3>
+
+  <p>Det primære direktivet for fritidsfartøy i EU. Oppblåsbare SUP-er under 2,4 m faller utenfor dets virkeområde og sertifiseres i stedet etter EN ISO 25649.</p>
+
+
+  <h3>Personlig verneutstyrsforordningen (2016/425)</h3>
+
+  <p>Redningsvester, flytehjelpemidler og sikkerhetsutstyr som leveres med vannfartøy, må oppfylle kravene i PPE-forordningen, inkludert typeprøving (Modul B) av et notifisert organ og produksjonskvalitetssikring (Modul D eller E).</p>
+
+
+  <h2>Sertifiseringsprosessen</h2>
+
+  <ol>
+    <li>Produktklassifisering: Bestem fartøyets designkategori (A – D i henhold til ISO 8666)</li>
+    <li>Gjeldende standarder: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (byggeplate)</li>
+    <li>Teknisk filforberedelse: Tegninger, materialliste, materialsertifikater, risikovurdering</li>
+    <li>Typeprøving: Flyteevne, stabilitet, lastekapasitet, materialtesting, sømstyrke, lufttetthet</li>
+    <li>Fabrikproduksjonskontroll: Revisjon av produksjonsprosesser fra notifisert organ</li>
+    <li>Serklæring om samsvar: Produsenten signerer DoC og påfører CE-merking</li>
+  </ol>
+
+
+  <h2>Notifiserte organer for oppblåsbare vannfartøy</h2>
+
+  <p>Vanlige notifiserte organer inkluderer Bureau Veritas (Frankrike), DNV GL (Tyskland), RINA (Italia), TÜV Rheinland / TÜV SÜD (Tyskland).</p>
+
+
+  <h2>Tidslinje og kostnader</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Fase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Varighet</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typisk kostnad (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Forberedelse av teknisk fil</td><td class="p-3 border">2 – 4 uker</td><td class="p-3 border">2 000 – 5 000</td></tr>
+      <tr><td class="p-3 border">Typeprøving</td><td class="p-3 border">4 – 8 uker</td><td class="p-3 border">8 000 – 20 000</td></tr>
+      <tr><td class="p-3 border">Fabrikkaudit</td><td class="p-3 border">1 – 2 dager (på stedet)</td><td class="p-3 border">3 000 – 6 000</td></tr>
+      <tr><td class="p-3 border">Totalt (første produkt)</td><td class="p-3 border">8 – 14 uker</td><td class="p-3 border">13 000 – 31 000</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Hva dette betyr for kjøpere</h2>
+
+  <p>Ved kjøp av CE-sertifiserte oppblåsbare SUP-er bør du alltid kontrollere at CE-merkingen finnes på byggeplaten, at en gyldig DoC eksisterer, at nummeret til det notifiserte organet er oppført, og at eierhåndboken inkluderer sikkerhetsinstruksjoner på ditt lokale språk. Alle Afarer-produkter har
+  CE-sertifisering med full sporbarhet til revisjonsrapporter fra notifiserte organer.</p>
+cta:
+  title: Trenger du CE-sertifiseringsstøtte?
+  subtitle: Vi håndterer sertifisering for OEM-partnere over hele verden.
+  button_text: Start sertifiseringsprosessen
+  button_link: /contact/

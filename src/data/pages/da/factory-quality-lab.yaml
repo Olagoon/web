@@ -1,0 +1,66 @@
+meta:
+  title: 'Kvalitetslaboratorium — Testning & kvalitetssikring | {SITE}'
+  description: 'Uafhængigt kvalitetslaboratorium med ISO 9001-processer hos afarer: hver enhed testes inden forsendelse for at garantere kvaliteten af oppustelige SUP-brædder.'
+  keywords:
+    - 'SUP kvalitetskontrol'
+    - 'paddle board testlaboratorium'
+    - 'ISO 9001 SUP-fabrik'
+    - 'kvalitet oppustelig SUP'
+hero:
+  tagline: Laboratorium for kvalitetskontrol
+  title: Testlaboratorium og kvalitetssikring
+  subtitle: Uafhængigt kvalitetslaboratorium med ISO 9001-processer — alle enheder testes inden afsendelse
+intro: >-
+  afarer driver et dedikeret kvalitetskontrollaboratorium, der arbejder uafhængigt af produktionen. Hver batch råmateriale og hvert færdigt board gennemgår dokumenterede inspektionsprotokoller, før den frigives. Vores QC-team rapporterer direkte til ledelsen, hvilket sikrer uvildige
+  kvalitetsbeslutninger.
+highlights:
+  - value: 100%
+    label: Enheder tryktestet
+    detail: Hvert kammer, hvert board
+  - value: 24–48 h
+    label: Varighed af luftretentionstest
+    detail: Ved 1,25× nominelt tryk
+  - value: '&lt;5%'
+    label: Maksimalt tilladt trykfald
+    detail: Holdperiode på 24–48 timer
+  - value: AQL 2,5
+    label: Tærskel for væsentlige fejl
+    detail: Pr. stikprøveudtagning i henhold til ISO 2859
+test_procedures:
+  - title: Inspektion af råmaterialer
+    description: Hvert modtaget parti af PVC, drop-stitch-stof og beslag testes, før det godkendes. Trækstyrke (ASTM D751), rivestyrke (ISO 4674) og UV-bestandighed verificeres. Materialer, der ikke lever op til kravene, sættes i karantæne og returneres.
+    standards:
+      - ASTM D751 (trækstyrke)
+      - ISO 4674 (rivning)
+      - ISO 4892 (UV)
+  - title: Kvalitetskontrolpunkter under produktion
+    description: Produktionsoperatørerne udfører egenkontrol på hvert trin. QC-revisorer foretager stikprøver gennem hele vagten. Afrivningstests af svejsninger udføres for hver 50. enhed. Dimensionskontrol udføres for hvert 20. panel.
+    standards:
+      - ASTM D751 (peeltest)
+      - Intern tjekliste med 100 punkter
+      - ISO 2859-stikprøvekontrol
+  - title: Lufttæthedstest i 24–48 timer
+    description: Hvert luftkammer pumpes op til 125% af det nominelle tryk og holdes i 24–48 timer. Tryksensorer logger kontinuerligt med temperaturkompensation. Ethvert kammer med et trykfald på over 5% udløser automatisk ny inspektion af hele batchen.
+    standards:
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Belastnings- & balancetest
+    description: Færdige boards testes ved maksimal nominel kapacitet for stabilitet og stivhed. Hvert board gennemgår vandtest, før det godkendes ved den endelige inspektion.
+    standards:
+      - ISO 12217
+      - CE 2013/53/EU
+equipment:
+  - name: Universel testmaskine (træk)
+    spec: 5 kN, i overensstemmelse med ASTM D751
+  - name: Pressure Decay Tester
+    spec: Multikanal, 0–50 psi, datalogning
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1.000 timers cyklusser
+  - name: Tykkelsesmåler (digital)
+    spec: Opløsning på 0.01 mm
+  - name: Peel Tester (weld)
+    spec: Motoriseret, 50 N kapacitet
+  - name: Temperature Chamber
+    spec: '-40 °C til +100 °C'
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, oplyst

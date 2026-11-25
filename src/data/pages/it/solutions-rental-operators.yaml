@@ -1,0 +1,66 @@
+meta:
+  title: Soluzioni per il Noleggio di Flotte SUP | {SITE}
+  description: SUP ad alta rotazione progettati per l'uso quotidiano a noleggio. PVC resistente ai raggi UV, cuciture rinforzate, materiali a rapida asciugatura. Espandi il tuo business di noleggio con Afarer.
+hero:
+  tagline: Operatori di noleggio
+  title: Espandi il tuo business di noleggio<br />con fiducia
+  subtitle: SUP ad alta rotazione progettati per l'uso in noleggio quotidiano, 365 giorni all'anno. I tuoi ricavi non si fermano mai.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Chiosco di noleggio occupato con tavole SUP pronte per gli ospiti
+features:
+  title: Costruito per il lavoro negli affitti
+  subtitle: Ogni tavola è progettata per 500 cicli di noleggio con una manutenzione minima.
+  items:
+    - title: 500 cicli di noleggio
+      description: Testato per resistere all'uso quotidiano in acqua salata, sole e sabbia.
+      icon: tabler:shield-check
+    - title: Tessuto resistente ai raggi UV
+      description: Nessun sbiadimento o degrado dopo 1 anno di conservazione all'aperto.
+      icon: tabler:sun
+    - title: Cuciture Rinforzate
+      description: 3 volte più resistente della costruzione standard delle tavole gonfiabili.
+      icon: tabler:layers-intersect
+    - title: Materiali ad asciugatura rapida
+      description: Tavole pronte per il prossimo noleggio in meno di 30 minuti.
+      icon: tabler:droplet
+    - title: Stoccaggio Impilabile
+      description: Design salvaspazio — conserva il 40% in più di tavole nella stessa area.
+      icon: tabler:stack
+    - title: Taglie Codificate per Colore
+      description: Il personale afferra immediatamente la tavola giusta grazie alla dimensione codificata a colori.
+      icon: tabler:color-swatch
+stats:
+  title: Metriche operative
+  stats:
+    - title: Turnover del Consiglio
+      amount: < 5 min
+    - title: Manutenzione annuale
+      amount: ~15 min/tavola
+    - title: Spedizione Parti
+      amount: 48h
+    - title: Tasso di difetto
+      amount: < 0,5%
+fleet_guide:
+  title: Guida alla Dimensione della Flotta
+  subtitle: Stima la dimensione della flotta e il potenziale di ricavo della tua attività di noleggio.
+  tiers:
+    - label: Piccolo chiosco
+      boards: 15-20
+      revenue: $XX.XXX/anno
+    - label: Operazione di medie dimensioni
+      boards: 30-50
+      revenue: $XX.XXX/anno
+    - label: Grande Affitto sulla Spiaggia
+      boards: 50-100
+      revenue: $XXX.XXX/anno
+cta:
+  title: Pronto a far crescere la tua attività di noleggio?
+  subtitle: Ottieni i prezzi di noleggio o confronta i modelli di tavole per la tua attività.
+  actions:
+    - text: Ottieni i prezzi di noleggio
+      href: /contact/?package=rental
+      variant: primary
+    - text: Confronta i modelli di schede
+      href: /compare/
+      variant: secondary

@@ -1,0 +1,85 @@
+meta:
+  title: 'Vårt Team — Mariningenjörer & byggare | {SITE}'
+  description: 'Grundat 2012 i Qingdao byggdes afarer av mariningenjörer, materialspecialister och vattensportentusiaster. Möt teamet bakom fabriken.'
+  keywords:
+    - 'afarer team'
+    - 'mariningenjörer'
+    - 'tillverkare av uppblåsbara SUP'
+    - 'SUP-fabriksteam'
+hero:
+  tagline: Vårt team
+  title: Människorna bakom afarer<br />— Konstruktionsfrihet på vattnet
+  subtitle: Grundat 2012 i Qingdao, Kina, byggdes afarer av mariningenjörer, materialvetare och vattensportentusiaster som trodde på att göra professionella uppblåsbara vattenfarkoster tillgängliga över hela världen.
+  image:
+    src: /images/team-all.webp
+    alt: afarer helteamfoto — teknik, produktion och ledning
+founding:
+  tagline: Vår grundande
+  title: Från en kustverkstad<br />till en 12 000 m² anläggning
+  subtitle: afarer grundades av ett team mariningenjörer med årtionden av kombinerad erfarenhet inom design av uppblåsbara SUP:ar, PVC-tillverkning och global marin utrustningstillverkning.
+  items:
+    - title: 'Grundat: 2012'
+      description: Grundat i Qingdao, Kina — en stor maritim knutpunkt med ett djupt skeppsbyggnadsarv.
+      icon: tabler:calendar
+    - title: 200+ anställda
+      description: Inklusive 50+ FoU-ingenjörer, kvalitetskontrollspecialister och produktionstekniker.
+      icon: tabler:users
+    - title: 12 000 m² anläggning
+      description: Dedikerad tillverkningsanläggning med 6 produktionslinjer för uppblåsbara SUP-brädor.
+      icon: tabler:building-factory
+    - title: 50+ länder betjänade
+      description: Exporterar till Europa, Amerika, Mellanöstern, Asien-Stillahavsregionen och Afrika.
+      icon: tabler:globe
+leadership:
+  tagline: Ledarskap
+  title: Ledning & Ingenjörsledarskap
+  subtitle: Vårt ledningsteam sammanför djup expertis inom marinteknik, internationell handel och kvalitetsledning.
+  columns: 3
+  items:
+    - title: Grundare och VD
+      name: Toby Liu
+      description: Över 15 år inom marintillverkning. Tidigare ledde forskning och utveckling vid en stor kinesisk paddelsportstillverkare. Innehaver flera patent inom design av uppblåsbara SUP:ar.
+      icon: tabler:crown
+      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+    - title: Chefingenjör
+      name: Zhang Wei
+      description: 20+ års erfarenhet av PVC-tillverkning och drop-stitch-design. Tidigare teknisk direktör vid ett europeiskt paddelsportsvarumärke.
+      icon: tabler:engine
+      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
+    - title: Forskning och utveckling, chef
+      name: Chen Ming
+      description: PhD i materialvetenskap. Specialiserad på drop-stitch-teknik och högfrekvenssvetsprocesser. 10+ år inom textilkompositer.
+      icon: tabler:flask
+      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
+    - title: Produktionsdirektör
+      name: Liu Qiang
+      description: Över 18 års erfarenhet av lean-tillverkning och produktionslinjeoptimering. Six Sigma Black Belt. Implementerade ISO 9001-kvalitetssystem.
+      icon: tabler:settings
+      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
+    - title: Kvalitetsansvarig
+      name: Wang Fang
+      description: 12+ års erfarenhet av marinkvalitetskontroll. Certifierad CE- och ISO-revisor. Övervakar provning för varje produktionsparti.
+      icon: tabler:shield-check
+      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
+    - title: Försäljnings- och driftchef
+      name: Helen Lee
+      description: 15+ år i internationell B2B-handel. Hanterat co-brand- och distributionspartnerskap i över 30 länder. Flytande i 4 språk.
+      icon: tabler:briefcase
+      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+philosophy:
+  tagline: Designfilosofi
+  title: Ingenjörs-ledd design<br />— varje detalj räknas
+  subtitle: Vår ingenjörsfilosofi centreras kring tre principer som vägleder varje produkt vi bygger.
+  list:
+    - 'Pålitlighet först: Varje afarer-produkt testas för att klara verklighetsförhållanden — från kallvattenräddningsoperationer till tropiska resortuthyrningar. Vi överkonstruerar där det är viktigast.'
+    - 'Tillverkningsprecision: Våra anläggningar använder CNC-skärning, högfrekvenssvetsning och automatiserad tryckprovning. Varje söm, varje ventil, varje koppling uppfyller dokumenterade specifikationer.'
+    - 'Kontinuerlig innovation: Vårt FoU-team utvärderar kontinuerligt nya material, produktionsmetoder och designförbättringar. Vi väntar inte på problem — vi förebygger dem.'
+cta:
+  title: Vill du diskutera ett projekt med vårt team?
+  subtitle: Våra ingenjörer är redo att ge råd om produktval, anpassning och co-branded kollektioner.
+  actions:
+    - variant: primary
+      text: Kontakta vårt team
+      href: /contact/
+    - text: Visa våra produkter
+      href: /products/

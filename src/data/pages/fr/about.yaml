@@ -1,0 +1,115 @@
+meta:
+  title: 'À propos d’Afarer — Marque de SUP Gonflables & Sports Nautiques | {SITE}'
+  description: 'Afarer est une marque mondiale de SUP gonflables et de sports nautiques, opérée par Aquafarer LLC et construite par notre Qingdao Operation Team. Découvrez notre histoire, notre ingénierie, notre qualité certifiée et nos programmes de partenaires pays.'
+  keywords:
+    - 'marque de SUP gonflable'
+    - 'marque de sports nautiques'
+    - 'distributeur SUP par pays'
+    - 'collections de SUP co-brandées'
+    - 'SUP gonflable'
+hero:
+  tagline: À propos de nous
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Usine et atelier afarer
+  title: |-
+    Ingénierie marine, <br />
+    faite à la manière <span class="text-accent dark:text-white">afarer</span>
+  subtitle: 'Nous avons commencé dans un atelier côtier avec une planche et une conviction inébranlable : les produits marins doivent être conçus comme s’ils comptaient, parce qu’ils comptent. Aujourd’hui, nous expédions dans plus de 40 pays, mais chaque coque passe encore entre les mêmes mains qui ont fondé l’entreprise.'
+stats:
+  title: En chiffres
+  columns: 4
+  stats:
+    - title: Coques livrées
+      amount: 2 400+
+    - title: Pays d'expédition
+      amount: '40'
+    - title: Années d'expérience cumulée
+      amount: '60'
+    - title: Délai moyen de réponse garantie (heures)
+      amount: '24'
+features3_what_we_build:
+  title: Ce que nous construisons
+  subtitle: 'Nous avons commencé dans un atelier côtier avec une planche et une conviction inébranlable : les produits marins doivent être conçus comme s’ils comptaient, parce qu’ils comptent. Aujourd’hui, nous expédions dans plus de 40 pays, mais chaque coque passe encore entre les mêmes mains qui ont fondé l’entreprise.'
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: Planches SUP
+      description: Planches SUP gonflables de 9 à 12 pieds. Conçues pour le touring, le yoga, la pêche et un usage familial.
+      icon: tabler:ship
+    - title: SUP Gonflables
+      description: Planches SUP gonflables PVC de 9 à 12 pieds. Légères, résistantes et faciles à ranger.
+      icon: tabler:rowing
+    - title: Packs SUP premium
+      description: SUP compacts et haut de gamme construits sur mesure pour votre marque ou votre flotte.
+      icon: tabler:crown
+features3_more:
+  columns: 3
+  isAfterContent: true
+  items:
+    - title: Accessoires
+      description: Pagaies, pompes, housses, sacs étanches et électronique. Tout assorti à nos planches.
+      icon: tabler:package
+    - title: Rénovation et réparation
+      description: Réparation de planches en interne, remplacement de pads et mises à niveau d'accessoires.
+      icon: tabler:tool
+    - title: Constructions sur mesure
+      description: Conception projet par projet pour clients commerciaux, scientifiques et militaires.
+      icon: tabler:hammer
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    alt: Discussion conception et ingénierie nautique
+steps2_values:
+  title: Nos valeurs
+  subtitle: Trois principes qui ont façonné chaque produit depuis le premier jour.
+  items:
+    - title: Construisez comme pour votre famille
+      description: Chaque coque, soudure et fixation est traitée comme si notre propre famille allait l'utiliser.
+      icon: tabler:heart
+    - title: Concevoir avant de vendre
+      description: Planches SUP gonflables de 9 à 12 pieds. Conçues pour le touring, le yoga, la pêche et un usage familial.
+      icon: tabler:settings
+    - title: Un support qui dépasse la garantie
+      description: Des coques de vingt ans nous appellent encore pour des pièces détachées, et nous répondons toujours.
+      icon: tabler:headset
+steps2_milestones:
+  title: Étapes clés
+  subtitle: Une version courte de l'histoire d'afarer.
+  isReversed: true
+  items:
+    - title: Fondé dans un atelier côtier
+      description: Commencé par deux architectes navals avec une fraiseuse CNC et une idée tenace.
+      icon: tabler:building-factory
+    - title: Premières 1 000 coques livrées
+      description: Atteint lors de notre septième année, surtout par le bouche-à-oreille et les clients fidèles.
+      icon: tabler:circle-check
+    - title: Programme d'exportation international
+      description: Maintenant expédié dans 40+ pays avec des partenaires de support localisés sur cinq continents.
+      icon: tabler:world
+features2_locations:
+  title: Nos sites
+  tagline: Nous trouver
+  columns: 3
+  items:
+    - title: Siège social et atelier
+      description: Planches SUP gonflables de 9 à 12 pieds. Conçues pour le touring, le yoga, la pêche et un usage familial.
+    - title: Centre de service UE
+      description: Planches SUP gonflables de 9 à 12 pieds. Conçues pour le touring, le yoga, la pêche et un usage familial.
+    - title: Réseau de partenaires APAC
+      description: Partenaires de service agréés en Australie, Japon, Singapour et Hong Kong.
+brand_hub_tagline: Marque
+brand_hub_title: Découvrir notre marque
+brand_hub_subtitle: Plongez dans notre expertise technique SUP, notre présence mondiale et les principes qui nous animent.
+brand_hub_cards:
+  - title: Expertise marine
+    desc: Des décennies de science des matériaux, de fabrication de précision et de tests réels — de la fabrication PVC à la conception de coque en V profond et la technologie drop-stitch.
+    link: /brand-marine-expertise/
+    link_label: En savoir plus →
+  - title: Présence mondiale
+    desc: Expédition dans plus de 50 pays depuis notre installation de Qingdao avec des partenaires de service agréés en Europe, Asie-Pacifique et Amériques.
+    link: /brand-global-presence/
+    link_label: En savoir plus →
+  - title: Pourquoi afarer
+    desc: Une marque fondée sur une qualité vérifiée — double certification (ISO 9001 + BSCI), conformité CE, et des partenariats pays exclusifs avec des collections co-brandées limitées pour les entreprises nautiques.
+    link: /brand-why-afarer/
+    link_label: En savoir plus →

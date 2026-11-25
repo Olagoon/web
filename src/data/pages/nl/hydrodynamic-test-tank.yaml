@@ -1,0 +1,128 @@
+meta:
+  title: Hydrodynamische Testtank — Scale-Model Slepen & Rompopimalisatie | {SITE}
+  description: Valideer de prestaties van uw romp met onze hydrodynamische testtank. Slepen van schaalmodellen, planingsanalyse en glij-efficiëntietests. Boek vandaag nog een tanksessietest.
+back_text: Terug naar R&D Centrum
+home_label: Home
+hero:
+  tagline: Lab 04
+  title: Hydrodynamische testtank
+  subtitle: Prestaties valideren voordat het eerste volwaardige prototype wordt gemaakt
+  image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+  image_alt: Afarer hydrodynamische testtankprestatie test
+intro: >-
+  Het is een veelvoorkomend misverstand dat hydrodynamisch testen is voorbehouden aan zeegaande schepen. In werkelijkheid is de prestatie van een klein glijhuls — zoals een opblaasbare SUP — net zo afhankelijk van zijn onderwatervorm als een tanker van zijn bolle boeg. Trimhoek, bevochtigd oppervlak,
+  spuitvorming en ventilatie hebben allemaal een dramatisch effect op glijvermogen, snelheid en rijcomfort. Bij Afarer beschikken we over een speciaal hydrodynamisch testbassin waarmee we deze effecten op modelschaal kunnen kwantificeren — voordat we stof en gereedschap inzetten
+  voor een prototype op ware grootte.
+content_html: >
+  <h2>Waarom een paddle board in een sleeptank testen?</h2>
+
+  <p>Testen op modelschaal (doorgaans 1:3 tot 1:5) stelt ons in staat om rompvormen snel en kosteneffectief te optimaliseren. Een week in de tank levert dezelfde prestatiegegevens op die anders maanden van trial-and-error op ware grootte zouden vereisen — en voor een fractie van de kosten.</p>
+
+
+  <h2>Specificaties van de faciliteit</h2>
+
+  <table>
+    <thead><tr><th>Parameter</th><th>Specificatie</th></tr></thead>
+    <tbody>
+      <tr><td>Afmetingen tank</td><td>35 m (L) × 3.5 m (W) × 1.8 m (D)</td></tr>
+      <tr><td>Sleeptoestel</td><td>Elektrisch servogestuurd, max. snelheid 12 m/s (23 kn), nauwkeurigheid ± 0.5 %</td></tr>
+      <tr><td>Golfgenerator</td><td>Kleptype, programmeerbare regelmatige &amp; onregelmatige zeegangen, Hs tot 0.3 m op modelschaal</td></tr>
+      <tr><td>Instrumentatie</td><td>6-componenten-dynamometer (weerstand, dwarskracht, gierkoppel), versnellingsopnemers, hellingmeters, golfsondes</td></tr>
+      <tr><td>Dataregistratie</td><td>Bemonstering op 1000 Hz per kanaal, realtime weergave + nabewerkingssuite</td></tr>
+      <tr><td>Modelproductie</td><td>Interne CNC-frezing en 3D-printen voor modelrompen tot 1.8 m LOA</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Ons testprogramma</h2>
+
+  <p>Een standaard rompontwikkelingsprogramma in onze tank verloopt als volgt:</p>
+
+  <ol>
+    <li><strong>Modelbouw</strong> — Een 1:3.5-schaalmodel wordt met CNC gefreesd uit hogedichtheidsschuim en gelamineerd voor stijfheid. Gewicht en zwaartepunt worden aangepast aan de Froude-geschaalde volbeladingsconditie.</li>
+    <li><strong>Weerstandsproeven</strong> — Het model wordt gesleept met 8-10 snelheden over het volledige bedrijfsbereik. De totale weerstand wordt gemeten en gesplitst in wrijvings- en restweerstandscomponenten volgens de ITTC-1957-methode.</li>
+    <li><strong>Meting van trim en inzinking</strong> — Trim en inzinking in bedrijf worden bij elke snelheid geregistreerd. Een optimale trimhoek van 4-6° voor planerende rompen is het streefdoel.</li>
+    <li><strong>Kielzogonderzoek</strong> — Dwarse golfprofielen worden bij twee snelheden gemeten om de golfmakende weerstand te beoordelen en dwarse golfinteracties op te sporen die hekinterferentie kunnen veroorzaken.</li>
+    <li><strong>Zeegang (optioneel)</strong> — Proeven in kop- en hekgolven in regelmatige golven om meerweerstand, verticale versnelling en de kans op stampen (slamming) te meten.</li>
+    <li><strong>Gegevensanalyse &amp; aanbevelingen</strong> — Er wordt een volledig rapport opgeleverd met vergelijkende grafieken, snelheids-/vermogenscurven en concrete ontwerpaanbevelingen voor de romp op ware grootte.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Typische sleeptankresultaten — Weerstand vs. snelheid (touring-SUP-romp, schaal 1:3.5)</p>
+    <div class="space-y-2">
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">5 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:18%"></div>
+        </div>
+        <span class="w-16 text-right">42 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">10 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:35%"></div>
+        </div>
+        <span class="w-16 text-right">81 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">15 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:52%"></div>
+        </div>
+        <span class="w-16 text-right">121 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">20 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:68%"></div>
+        </div>
+        <span class="w-16 text-right">158 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">25 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:85%"></div>
+        </div>
+        <span class="w-16 text-right">197 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">30 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:100%"></div>
+        </div>
+        <span class="w-16 text-right">232 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Weerstand op modelschaal (N) bij Froude-geschaalde snelheden. Weerstandsvoorspelling op ware grootte volgt de ITTC-1978-prestatievoorspellingsmethode.</p>
+  </div>
+
+
+  <h2>Expertteam</h2>
+
+  <p>Onze tank wordt bediend door een hydrodynamicus met een PhD in fluiddynamica en 8 jaar sleeptankervaring bij een toonaangevend Europees maritiem onderzoeksinstituut. Hij wordt ondersteund door een technicus die alle modellen en instrumentatie voorbereidt. Het team volgt de aanbevolen
+  procedures van de ITTC (International Towing Tank Conference) om te garanderen dat elke test reproduceerbaar, traceerbaar en internationaal verdedigbaar is.</p>
+
+
+  <h2>Sleeptanktesten voor de ontwikkeling van maatwerkrompen</h2>
+
+  <p>Onze tank wordt niet alleen gebruikt voor rompen van eigen ontwerp — we voeren regelmatig testprogramma's uit voor klanten die een aangepaste rompvorm willen valideren of een prestatieprobleem willen onderzoeken:</p>
+
+  <ul>
+    <li><strong>Vergelijking van rompvormen</strong> — Twee of meer kandidaat-rompvormen worden onder identieke omstandigheden getest, wat een objectieve weerstands-/snelheids-/stabiliteitsvergelijking oplevert ter onderbouwing van uw ontwerpkeuze.</li>
+    <li><strong>Optimalisatie van appendages</strong> — Vinconfiguraties, railprofielen en rockervarianten kunnen in verschillende combinaties worden getest om hun individuele bijdrage aan weerstandsvermindering te kwantificeren.</li>
+    <li><strong>Glij-efficiëntiestudie</strong> — Weerstandsgegevens worden omgezet in een glij-efficiëntiecurve, zodat u rompvolume, rocker en stijfheid in balans kunt brengen voor uw beoogde peddelsnelheid en laadvermogen.</li>
+  </ul>
+
+
+  <h2>Waarom bij ons testen?</h2>
+
+  <p>Wij geven u niet zomaar een set ruwe cijfers. Onze rapporten vertalen tankgegevens naar bruikbare technische aanbevelingen: "Voeg 8 mm neusrocker toe om het natte oppervlak bij kruistempo te verkleinen", "Verminder de hekrocker met 3° om de waterlijn bij touringtempo te verlengen",
+  of "Verplaats het breedste punt 150 mm naar achteren voor betere koersstabiliteit". U vertrekt met een duidelijk beeld van wat u moet aanpassen en waarom.</p>
+
+  <p>Onze tank is ook beschikbaar voor onafhankelijk testwerk door derden op betaalbasis. Als u een romp ontwikkelt en een objectieve, professioneel uitgevoerde hydrodynamische beoordeling wilt, dan verwelkomen wij uw aanvraag.</p>
+cta:
+  title: Boek een tanktestsessie
+  subtitle: Of u nu een volledig ontwikkelingsprogramma nodig heeft of een enkele vergelijkende test, wij kunnen ons aanpassen aan uw schema.
+  button_text: Neem contact op met ons hydrodynamica-team
+  button_link: /contact/

@@ -1,0 +1,99 @@
+meta:
+  title: 'Begär en offert — OEM-SUP-tillverkning | {SITE}'
+  description: 'Begär en detaljerad offert för ditt uppblåsbara SUP-projekt. OEM/ODM-tillverkning, privatlabel eller anpassade flottor — vi svarar inom 2 arbetsdagar.'
+  keywords:
+    - 'begär SUP-offert'
+    - 'OEM paddle board offert'
+    - 'SUP-fabrik offert'
+    - 'pris uppblåsbar SUP'
+hero_text:
+  tagline: Begär offert
+  title: Begär en offert<br />för ditt projekt
+  subtitle: Berätta om dina krav så svarar vårt team med en detaljerad offert inom 2 arbetsdagar.
+steps2_process:
+  title: Så fungerar det
+  subtitle: Fyra enkla steg från förfrågan till offert.
+  items:
+    - title: 'Steg 1: Skicka dina krav'
+      description: Fyll i formuläret nedan med din produkttyp, kvantitet och specifikationer. Ju mer detaljer du anger, desto mer exakt blir din offert.
+      icon: tabler:file-text
+    - title: 'Steg 2: Vi granskar och rådgör'
+      description: Vårt ingenjörsteam granskar dina krav och kan kontakta dig för klargöring. Vi ger rekommendationer om produktkonfiguration och alternativ.
+      icon: tabler:users
+    - title: 'Steg 3: Ta emot din offert'
+      description: Du får en detaljerad offert inklusive enhetspris, MOQ, ledtid, betalningsvillkor och fraktalternativ. Vanligtvis inom 48 timmar.
+      icon: tabler:currency-dollar
+    - title: 'Steg 4: Prov och produktion'
+      description: Efter offertgodkännande går vi vidare till sampelproduktion (om tillämpligt) eller direkt till massproduktion. Regelbundna uppdateringar under hela processen.
+      icon: tabler:building-factory
+content_form:
+  tagline: Offertformulär
+  title: Berätta om ditt projekt
+  subtitle: Alla fält med * är obligatoriska.
+  contact_fields:
+    firstName: Förnamn
+    lastName: Efternamn
+    companyName: Företag
+    email: E-post
+  fields:
+    - name: Produktkategori
+      type: select
+      options:
+        - SUP-bräda
+        - Uppblåsbar SUP
+        - Uppblåsbar SUP-bräda
+        - Flytväst
+        - Marint tillbehör
+        - Skräddarsydd OEM/ODM
+    - name: Tillämpning
+      type: select
+      options:
+        - Dykcenter
+        - Fiske
+        - Marin turism / resort
+        - Sökning och räddning
+        - Offentlig sektor / Försvar
+        - OEM / Privatmärke
+        - Personlig / Fritid
+        - Övrigt
+    - name: Antal
+      type: text
+      placeholder: t.ex. 50 enheter
+    - name: Målmarknad
+      type: text
+      placeholder: t.ex. Europa, Nordamerika, Mellanöstern
+    - name: Leveransland
+      type: text
+      placeholder: t.ex. Italien, Förenade Arabemiraten, USA, Australien
+    - name: Materialpreferens
+      type: select
+      options:
+        - Ingen preferens
+        - Marinklass PVC (1100 dtex)
+        - Glasfiberskrov
+        - Aluminiumskrov
+    - name: Motorbehov
+      type: text
+      placeholder: t.ex. standardpaddeluppsättning, elektrisk pump, anpassade färger
+    - name: Önskad anpassning
+      type: text
+      placeholder: t.ex. anpassade färger, varumärke/logotyp, förpackning, specialutrustning
+    - name: Leveranstid
+      type: text
+      placeholder: t.ex. leverans inom 90 dagar
+    - name: Ytterligare krav
+      type: textarea
+      placeholder: Beskriv er tillämpning, tekniska specifikationer eller särskilda krav — bifoga ritningar, specifikationer eller länkar om tillgängliga
+    - name: Ladda upp specifikation
+      type: file
+      placeholder: Ladda upp din specifikation, ritning eller referensdokument (PDF, DWG, DXF)
+    - name: Ladda upp logotyp / grafik
+      type: file
+      placeholder: Ladda upp din logotyp eller grafik för anpassat varumärke (AI, EPS, PNG)
+cta:
+  title: Föredra att diskutera via e-post?
+  subtitle: Skicka din förfrågan direkt till vårt säljteam så svarar vi inom 24 timmar.
+  actions:
+    - variant: primary
+      text: E-posta oss direkt
+      href: /contact/

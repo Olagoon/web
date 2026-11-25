@@ -1,0 +1,22 @@
+meta:
+  title: 'Journal — Nautiska artiklar & guider | {SITE}'
+  description: 'afars journal: artiklar och guider om uppblåsbara SUP:ar, paddle boarding och den nautiska industrin.'
+  keywords:
+    - 'SUP journal'
+    - 'paddle board artiklar'
+    - 'uppblåsbar SUP blogg'
+    - 'nautiska guider'
+hero:
+  title: Journal
+  subtitle: Surfguider, utrustningsjämförelser och oceanberättelser — skrivna för verkliga förhållanden.
+latest:
+  tagline: Senaste
+  title: Guider och jämförelser
+  browse_all: Visa alla 20 →
+  read: Läs →
+social_section:
+  tagline: Innehåll och sociala medier
+  title: Varje guide blir 5 sociala inlägg
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — från varje artikel.
+  pipeline_cta: Social rörledning →
+  guides_cta: Bläddra guider

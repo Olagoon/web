@@ -1,0 +1,109 @@
+meta:
+  title: Centru de Sudare RF — Legătură Dielectrică pentru Cusături Etanșe | {SITE}
+  description: Tehnologie de sudare prin radiofrecvență care asigură cusături etanșe conforme. Testarea decojirii, validarea retenției de aer și specificații personalizate pentru cusături.
+back_text: Înapoi la Centrul R&D
+home_label: Acasă
+hero:
+  tagline: Laborator 03
+  title: Centru de sudare RF
+  subtitle: Tehnologie de sudare dielectrică pentru cusături care rezistă sub presiune
+  image: https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp
+  image_alt: Procesul de sudare dielectrică RF al afarer
+intro: >-
+  O placă SUP gonflabilă este doar atât de fiabilă pe cât sunt îmbinările sale. O singură sudură slabă poate compromite o întreagă cameră — iar pe mare, defectarea unei camere nu este un simplu inconvenient; este un pericol pentru siguranță. La Afarer, am investit într-un Centru de Sudare în
+  Frecvență Radio (RF) dedicat, care combină prese dielectrice de sudare de calitate industrială cu un control riguros al procesului și teste post-sudare. Fiecare îmbinare pe care o producem este documentată, trasabilă și certificată pentru a îndeplini sau depăși cerințele EN ISO 25649 — standardului
+  european pentru echipamente de agrement gonflabile.
+content_html: >
+  <h2>Știința din spatele cusăturii</h2>
+
+  <p>Sudarea RF folosește energie electromagnetică de înaltă frecvență (de obicei 27.12 MHz) pentru a excita moleculele polare din țesătura acoperită cu PVC, generând căldură precis la interfața materialelor. Spre deosebire de sudarea cu aer cald sau cu pană caldă, sudarea RF creează o
+  legătură moleculară reală — cele două straturi de țesătură fuzionează într-un singur material omogen în zona de sudură, producând o îmbinare la fel de rezistentă ca materialul de bază.</p>
+
+
+  <h2>Echipamente de sudare și controlul procesului</h2>
+
+  <p>Centrul nostru de sudare este echipat cu:</p>
+
+  <table>
+    <thead><tr><th>Mașină</th><th>Putere / Capacitate</th><th>Aplicație</th></tr></thead>
+    <tbody>
+      <tr><td>Presă RF dielectrică 1</td><td>15 kW, placă 2000 × 600 mm</td><td>Cusături longitudinale principale, îmbinări borduri-carenă</td></tr>
+      <tr><td>Presă RF dielectrică 2</td><td>10 kW, placă 1500 × 500 mm</td><td>Suduri pentru deflectoare, îmbinări de închidere a bordurilor, petice pentru valve</td></tr>
+      <tr><td>Sudor RF controlat CNC</td><td>8 kW, masă XY 2500 × 1200 mm</td><td>Cusături curbe, gofrare logo/panouri, petice de precizie</td></tr>
+      <tr><td>Sudor automat cu pană caldă</td><td>Temperatură variabilă, max. 1.2 m/min</td><td>Metodă de rezervă pentru țesătura PVC groasă a bordurilor și lucrări de reparații</td></tr>
+    </tbody>
+  </table>
+
+  <p>Fiecare presă RF este echipată cu monitorizare în buclă închisă a temperaturii și presiunii. Parametrii de sudare — putere, timp de presare, timp de răcire, presiunea electrozilor — sunt programați în funcție de tipul de material și înregistrați în Sistemul nostru de Execuție a Producției (MES)
+  pentru trasabilitate completă.</p>
+
+
+  <h2>Teste de calitate a sudurii — fiecare cusătură, fiecare placă</h2>
+
+  <p>Integritatea sudurii este verificată printr-un protocol obligatoriu cu patru teste:</p>
+
+  <ol>
+    <li><strong>Inspecție vizuală</strong> —100 % dintre cusături sunt inspectate vizual pentru perforații, alinieri greșite, contaminare sau fuziune incompletă. Pragul de respingere: 0.5 % din metrii liniari.</li>
+    <li><strong>Test de desprindere</strong> — O fâșie de 25 mm lățime este tăiată dintr-un eșantion de test sudat odată cu fiecare lot de producție. Forța minimă de desprindere: 120 N/25 mm pentru PVC 1100 dtex.</li>
+    <li><strong>Test de reținere a aerului</strong> — Fiecare cameră finalizată este presurizată la 1.5 × presiunea de lucru și menținută timp de 30 de minute. Căderea de presiune nu trebuie să depășească 2 %.</li>
+    <li><strong>Test de ciclare termică</strong> — Eșantioanele sunt ciclate de la -20 °C la +60 °C timp de 50 de cicluri, apoi sunt testate din nou la desprindere. Pierderea acceptabilă de rezistență: &lt; 10 %.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Compararea rezistenței la desprindere — sudare RF vs. aer cald (PVC 1100 dtex)</p>
+    <div class="space-y-3">
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Sudură RF</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">184 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Aer cald</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">130 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Min.</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-green-500 rounded" style="width:48%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">96 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Sudarea RF atinge constant 90-95 % din rezistența materialului de bază, mult peste minimul cerut.</p>
+  </div>
+
+
+  <h2>Expertiză profesională</h2>
+
+  <p>Echipa noastră de sudare este condusă de un inginer de proces principal cu 11 ani de experiență în sudarea dielectrică a textilelor acoperite. Fiecare operator parcurge un program intern de certificare de 6 luni înainte de a fi autorizat să lucreze pe cusăturile de producție. Recertificarea
+  este obligatorie anual, incluzând un test practic de sudare evaluat conform standardului nostru intern Grade-A (rezistență la desprindere —160 N/25 mm).</p>
+
+
+  <h2>Soluții personalizate de sudare pentru cerințe unice</h2>
+
+  <p>Înțelegem că o singură specificație de sudare nu se potrivește fiecărei aplicații. Centrul nostru RF de Sudare dezvoltă în mod curent configurații personalizate de cusături pentru clienții cu cerințe speciale:</p>
+
+  <ul>
+    <li><strong>Petice de întărire multistrat</strong> — pentru zonele cu uzură ridicată, precum bordurile de la nas și de la coadă, dezvoltăm suduri RF în mai multe treceri care integrează un strat exterior rezistent la uzură, fără a compromite flexibilitatea.</li>
+    <li><strong>Cusături conductoare sau opace la RF</strong> — pentru aplicații militare sau de supraveghere care necesită ecranare electromagnetică, sudăm straturi de plasă conductoare în interiorul ansamblului de cusătură.</li>
+    <li><strong>Sudarea panourilor cu schimbare de culoare</strong> — panouri de țesătură bicolore (de ex. carenă portocalie + punte gri) sudate cu o suprapunere ascunsă, pentru a păstra estetica brandului fără o linie de îmbinare vizibilă.</li>
+  </ul>
+
+
+  <h2>Angajamentul nostru față de dumneavoastră</h2>
+
+  <p>Fiecare placă livrată beneficiază de garanția noastră de calitate a sudurii: dacă o cusătură cedează în utilizare normală în perioada de garanție, reparăm sau înlocuim camera afectată fără costuri, iar o analiză a cauzelor este efectuată pentru a preveni repetarea problemei. Aceasta nu este
+  doar o garanție — este un angajament față de îmbunătățirea continuă, bazat pe date operaționale reale.</p>
+
+  <p>Când alegeți Afarer, alegeți cusături care sunt proiectate, testate și documentate — nu doar sudate. Aceasta este diferența dintre o placă care plutește și o placă care performează.</p>
+cta:
+  title: Discutați cerințele dumneavoastră de sudare
+  subtitle: Specificații personalizate pentru cusături, compatibilitatea materialelor sau validarea proceselor.
+  button_text: Contactați echipa noastră de sudare
+  button_link: /contact/

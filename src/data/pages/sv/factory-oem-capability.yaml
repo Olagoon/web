@@ -1,0 +1,55 @@
+meta:
+  title: 'OEM- & privatlabel-tillverkning | {SITE}'
+  description: 'Från koncept till container: anpassa varje detalj i din uppblåsbara SUP-serie. Komplett OEM/ODM-tjänst för privatlabel paddle board-varumärken.'
+  keywords:
+    - 'OEM SUP-tillverkning'
+    - 'privatlabel paddle board'
+    - 'OEM uppblåsbar SUP'
+    - 'anpassad SUP-fabrik'
+hero:
+  tagline: OEM/ODM-tillverkning
+  title: OEM- och privatmärkestillverkning
+  subtitle: Från koncept till container — anpassa varje detalj i din uppblåsbara SUP-serie
+intro: >-
+  afarer erbjuder omfattande OEM- och ODM-tjänster för varumärken, distributörer och statliga myndigheter världen över. Med över 10 års exporterfarenhet och en 12 000 m² stor ISO 9001- och BSCI-certifierad fabrik hanterar vi allt från produktdesign och formutveckling till fullskalig tillverkning,
+  förpackning och logistik.
+highlight:
+  - value: 10+
+    label: År med OEM-erfarenhet
+    detail: Sedan 2012
+  - value: 50+
+    label: Exportländer
+    detail: Global räckvidd
+  - value: 200+
+    label: Anpassade projekt levererade
+    detail: Över alla produktlinjer
+  - value: 30–45
+    label: Standard ledtid (dagar)
+    detail: Från PO till FOB
+services:
+  - title: Produktdesign och teknik
+    description: Vårt interna FoU-team arbetar med din koncept eller specifikation för att utveckla CAD-ritningar, 3D-modeller och prototyper. Vi erbjuder formgivning, skroptimering och vägledning vid materialval.
+  - title: Anpassat varumärke och grafik
+    description: Fullfärgbild digitaltryck, screening, pregning och etikettalternativ. Vi utvecklar varumärkesspecifika däckgrafik, tubmärkning och butiksklar förpackning.
+  - title: Anpassning av material och specifikationer
+    description: Välj mellan PVC (standard, miljövänlig, brandhämmande), drop-stitch och hybriddesign. Anpassade rörfärger, tyngder och förstärkningsalternativ.
+  - title: Förpackning och logistik
+    description: Anpassad detaljhandelsförpackning, varumärkesanpassade lådor, vakuumförpackning, pallning och containertilladdning. FOB Qingdao, CIF eller DDP-villkor tillgängliga.
+moq_table:
+  - product: Luftfyllbara SUP-bräder
+    standard_moq: 5–10 enheter
+    custom_moq: 200+ enheter
+    lead_time: 30–45 dagar
+  - product: Räddningsvästar och säkerhet
+    standard_moq: 100–200 units
+    custom_moq: 1 000+ enheter
+    lead_time: 20–30 dagar
+why_us:
+  - title: Vertikal integration
+    description: Vi äger vår fabrik, formar och leveranskedja — inga mellanhänder, inga underleverantörer. Detta ger oss kontroll över kvalitet, kostnad och leverans.
+  - title: Dubbel certifiering
+    description: ISO 9001 kvalitetshantering och BSCI-certifiering för social efterlevnad. Fabriksrevisionsrapporter tillgängliga på begäran.
+  - title: CE-overensstämmelse
+    description: Alla standardmodeller har CE 2013/53/EU-certifiering. Anpassade modeller kan CE-certifieras genom vår etablerade process.
+  - title: Låg MOQ
+    description: Börja med så få som 5 enheter för standardmodeller. Vi hjälper nya varumärken att lansera utan att binda för stora lager.

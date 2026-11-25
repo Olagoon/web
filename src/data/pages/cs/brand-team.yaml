@@ -1,0 +1,85 @@
+meta:
+  title: 'Náš tým — námořní inženýři a stavitelé | {SITE}'
+  description: 'Založen v roce 2012 v Čching-tao, afarera postavili námořní inženýři, materiáloví specialisté a nadšenci vodních sportů. Poznejte tým za továrnou.'
+  keywords:
+    - 'tým afarera'
+    - 'námořní inženýři'
+    - 'výrobce nafukovacích SUP prken'
+    - 'tým SUP továrny'
+hero:
+  tagline: Náš tým
+  title: Lidé za afarer<br />— inženýrství svobody na vodě
+  subtitle: Založena v roce 2012 v Qingdao v Číně, afarer byla vybudována námořními inženýry, materiálovými vědci a nadšenci vodních sportů, kteří věřili ve zpřístupnění profesionálních nafukovacích plavidel po celém světě.
+  image:
+    src: /images/team-all.webp
+    alt: Společná fotografie celého týmu afarer — technici, výroba a vedení
+founding:
+  tagline: Založení společnosti
+  title: Z pobřežní dílny<br />do zařízení o rozloze 12 000 m²
+  subtitle: afarer byla založena týmem námořních inženýrů s desetiletími kombinovaných zkušeností v oblasti navrhování nafukovacích SUP prken, výroby PVC a globální výroby námořního vybavení.
+  items:
+    - title: 'Založeno: 2012'
+      description: Založena v Qingdao v Číně — významném námořním uzlu s hlubokým loďařským dědictvím.
+      icon: tabler:calendar
+    - title: Více než 200 zaměstnanců
+      description: Včetně 50+ R&D inženýrů, specialistů na kontrolu kvality a výrobních techniků.
+      icon: tabler:users
+    - title: Areál o rozloze 12,000 m²
+      description: Dedikovaný výrobní závod se 6 výrobními linkami pro nafukovací SUP prkna.
+      icon: tabler:building-factory
+    - title: 50+ zemí, do kterých dodáváme
+      description: Export do Evropy, Ameriky, Blízkého východu, Asie a Tichomoří a Afriky.
+      icon: tabler:globe
+leadership:
+  tagline: Vedení
+  title: Vedení a inženýrské vedení
+  subtitle: Náš vedoucí tým spojuje hluboké odborné znalosti v námořním inženýrství, mezinárodním obchodu a řízení kvality.
+  columns: 3
+  items:
+    - title: Zakladatel a CEO
+      name: Toby Liu
+      description: Více než 15 let v námořní výrobě. Dříve vedl výzkum a vývoj u významného čínského výrobce paddle vybavení. Je držitelem mnoha patentů v oblasti konstrukce nafukovacích SUP prken.
+      icon: tabler:crown
+      image: https://assets.afarer.com/images/afarer/team/afarer-toby-liu-team.webp
+    - title: Hlavní inženýr
+      name: Zhang Wei
+      description: Více než 20 let zkušeností s výrobou PVC a návrhem drop-stitch konstrukcí. Bývalý technický ředitel evropské značky paddle vybavení.
+      icon: tabler:engine
+      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
+    - title: Vedoucí výzkumu a vývoje
+      name: Chen Ming
+      description: PhD v materiálových vědách. Specializuje se na technologii drop-stitch a vysokofrekvenční svařování. 10+ let v textilních kompozitech.
+      icon: tabler:flask
+      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
+    - title: Ředitel výroby
+      name: Liu Qiang
+      description: Více než 18 let v štíhlé výrobě a optimalizaci výrobních linek. Six Sigma Black Belt. Zavedeny systémy kvality ISO 9001.
+      icon: tabler:settings
+      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
+    - title: Manažer kvality
+      name: Wang Fang
+      description: Více než 12 let v kontrole kvality námořních produktů. Certifikovaný auditor CE a ISO. Dohlíží na testování každé výrobní šarže.
+      icon: tabler:shield-check
+      image: data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"%3E%3Ccircle cx="64" cy="64" r="64" fill="%23e5e7eb"/%3E%3Ccircle cx="64" cy="48" r="18" fill="%239ca3af"/%3E%3Cellipse cx="64" cy="100" rx="32" ry="20" fill="%239ca3af"/%3E%3C/svg%3E
+    - title: Ředitel prodeje a provozu
+      name: Helen Lee
+      description: Více než 15 let v mezinárodním B2B obchodě. Vedení co-brand a distribučních partnerství ve více než 30 zemích. Plynulá znalost 4 jazyků.
+      icon: tabler:briefcase
+      image: https://assets.afarer.com/images/afarer/team/afarer-helen-contact-sales.webp
+philosophy:
+  tagline: Designová filozofie
+  title: Inženýrsky vedený design<br />— na každém detailu záleží
+  subtitle: Naše inženýrská filozofie se soustředí na tři principy, které řídí každý produkt, který stavíme.
+  list:
+    - 'Spolehlivost na prvním místě: Každý produkt afarer je testován tak, aby obstál v podmínkách reálného provozu — od záchranných akcí ve studené vodě až po půjčovny v tropických resortech. Tam, kde na tom nejvíce záleží, jdeme nad rámec běžných řešení.'
+    - 'Výrobní preciznost: Naše provozy využívají CNC řezání, vysokofrekvenční svařování a automatizované tlakové zkoušky. Každý šev, každý ventil a každá armatura odpovídá zdokumentovaným specifikacím.'
+    - 'Neustálé inovace: Náš tým výzkumu a vývoje průběžně vyhodnocuje nové materiály, výrobní metody a konstrukční vylepšení. Nečekáme na problémy — předvídáme je.'
+cta:
+  title: Chcete prodiskutovat projekt s naším týmem?
+  subtitle: Naši inženýři jsou připraveni poradit s výběrem produktu, přizpůsobením a kolekcemi co-brand.
+  actions:
+    - variant: primary
+      text: Kontaktujte náš tým
+      href: /contact/
+    - text: Zobrazit naše produkty
+      href: /products/

@@ -1,0 +1,97 @@
+meta:
+  title: SUP Einzelhandelspartnerprogramm | {SITE}
+  description: SUP-Großhandels-Partnerprogramm für Einzelhändler und Sportgeschäfte. Vollständige Produktpalette, Dropshipping-Optionen, wettbewerbsfähige Großhandelsmargen von 20–35 % und niedrige Mindestbestellmenge zum Start.
+hero:
+  tagline: Einzelhandelspartner
+  title: Verkaufen Sie aufblasbare Premium-SUP-Boards<br />mit Margen, die sich rechnen
+  subtitle: Werden Sie Einzelhandelspartner von Afarer — führen Sie die am schnellsten wachsende SUP-Marke in Ihrem Markt mit vollständigen Großhandelspreisen, Dropshipping, professionellem Marketingmaterial und dediziertem Support.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Afarer SUP-Boards, die in einem Einzelhandelsgeschäft ausgestellt sind
+margin_section:
+  title: Einzelhandelsmargen & Mindestbestellmenge
+  subtitle: Großhandelspreisstufen, die auf die Rentabilität des Einzelhandels ausgelegt sind.
+  items:
+    - tier: Basispartner
+      discount: 20%
+      moq: 500 Einheiten/Jahr
+      margin_note: ~150–250 $ Gewinn pro Brett
+      features:
+        - Zugang zur gesamten Produktpalette
+        - Marketingmaterialien-Paket
+        - E-Mail-Support
+        - Produktkatalogzugang
+    - tier: Premium-Partner
+      discount: "30\_%"
+      moq: 2.000 Einheiten/Jahr
+      margin_note: ~250–400 $ Gewinn pro Brett
+      features:
+        - Dedizierter Kundenbetreuer
+        - Exklusiver Gebietsschutz
+        - Individuelle Marketingunterstützung
+        - Erster Zugriff auf neue Produkte
+        - Mitarbeiterschulungen
+    - tier: Leitpartner
+      discount: 35%
+      moq: 5.000 Einheiten/Jahr
+      margin_note: "~350–500\_$ Gewinn pro Brett"
+      features:
+        - Co-Branding-Marketingkampagnen
+        - Unterstützung für Verkaufsflächenanzeigen
+        - Vor-Ort-Mitarbeiterschulung
+        - Gemeinsame Social-Media-Werbeaktionen
+        - Prioritätsproduktionszuweisung
+product_line:
+  title: Komplette Produktlinie
+  subtitle: Ein SUP-Board für jeden Kunden, der durch Ihre Tür kommt.
+  items:
+    - name: All-Round Series
+      description: Bestseller — passt 80 % der Kunden
+    - name: Touring Series
+      description: Leistungspaddler — höhere Marge
+    - name: Yoga Series
+      description: Nischenmarkt — Premium-Preisgestaltung
+    - name: Kids Series
+      description: Familienkunden — wiederkehrender Käufer
+    - name: Racing Series
+      description: Enthusiastenmarkt — Markenhalo
+    - name: Accessories
+      description: Hohe Gewinnmargen bei Zusatzartikeln (Paddel, Westen, Pumpen, Taschen)
+catalog:
+  title: Einzelhandelspartner-Ressourcen
+  subtitle: Laden Sie unser umfassendes Einzelhandelspartner-Kit herunter.
+  items:
+    - name: 2026 Product Catalog
+      desc: Vollständige Produktreihe mit Spezifikationen, Preisen und Bestellinformationen
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Marge-Rechner, Merchandising-Tipps und bewährte Verfahren
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Hochauflösende Produktfotos, Lifestyle-Bilder und POS-Materialien
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Einzelhandelspartner-Support
+  subtitle: Alles, was Sie brauchen, um selbstbewusst zu verkaufen.
+  items:
+    - Hochauflösende Produktbilder (professionelle Fotografie)
+    - Lifestyle-Fotos für soziale Medien, Website und Katalog
+    - Marketingmaterialien — Poster, Regalmacher, Banner
+    - Produktschulungsvideos für die Mitarbeiterschulung
+    - Social-Media-Inhaltspaket (wöchentliche Beiträge)
+    - SEO-optimierte Produktbeschreibungen
+    - Dropshipping-Option verfügbar — kein Inventarrisiko
+    - Zahlungsbedingungen netto 30
+cta:
+  title: Bereit, Afarer-Einzelhandelspartner zu werden?
+  subtitle: Bewerben Sie sich für eine Partnerschaft oder laden Sie unseren Einzelhandelskatalog herunter, um loszulegen.
+  actions:
+    - text: Auf Partnerschaft bewerben
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Einzelhandelskatalog herunterladen
+      href: /resources/download-catalog/
+      variant: secondary

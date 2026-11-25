@@ -1,0 +1,145 @@
+meta:
+  title: 'Contact — întrebări despre parteneriat și produse SUP | {SITE}'
+  description: 'Contactați afarer pentru întrebări despre parteneriat, co-brand și private label sau flote profesionale. Brand de plăci de SUP gonflabile, răspundem în 2 zile lucrătoare.'
+  keywords:
+    - 'contact afarer'
+    - 'întrebare distribuitor SUP'
+    - 'furnizor profesionist SUP'
+    - 'contact producător SUP'
+hero_text:
+  tagline: Contact
+  title: CONTACTAȚI-NE
+contact_form:
+  id: form
+  title: Trimiteți-ne un mesaj
+  subtitle: Pentru oferte, întrebări tehnice sau solicitări de parteneriat, scrieți-ne. Răspundem într-o zi lucrătoare.
+  email_to: info@afarer.com
+  submit_button: Trimite solicitarea → Obține o ofertă
+  success_message: Mulțumim! Mesajul dvs. a ajuns în căsuța noastră poștală. Vom răspunde într-o zi lucrătoare.
+  error_message: Ceva a mers greșit la trimiterea mesajului. Încercați din nou sau trimiteți-ne un e-mail direct.
+  default_country_code: '+1'
+  captcha:
+    label: 'Anti-spam: rezolvați următoarea cerință'
+  fields:
+    - name: country
+      label: Țară
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: Volum estimat al comenzii
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: Selectați volumul estimat...
+        - value: sample
+          label: Doar mostre / prototipuri
+        - value: '5-10'
+          label: 5–10 unități (MOQ standard)
+        - value: '100-500'
+          label: 100–500 de unități
+        - value: '500-plus'
+          label: 500+ unități (prețuri de volum)
+      step: 1
+    - name: customization
+      label: Aveți nevoie de personalizare?
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: Selectați tipul de personalizare...
+        - value: none
+          label: Produs standard (fără personalizare)
+        - value: logo
+          label: Doar logo / branding personalizat
+        - value: full
+          label: Co-Brand complet (dimensiune, culoare, grafică, ambalaj)
+        - value: consultation
+          label: Nu sunt sigur — am nevoie de consultanță
+      step: 1
+    - name: productInterest
+      label: Categorii de produse de interes
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: Selectați categoria de produse...
+        - value: all
+          label: Toate produsele / Catalog complet
+        - value: sup
+          label: Plăci SUP / Paddleboard-uri
+        - value: safety
+          label: Echipament de siguranță / Veste de salvare
+        - value: accessory
+          label: Accesorii (pompe, vâsle, saci)
+      step: 1
+    - name: firstName
+      label: Prenume
+      row: 1
+      step: 2
+    - name: lastName
+      label: Nume
+      row: 1
+      step: 2
+    - name: companyName
+      label: Numele companiei
+      row: 2
+      step: 2
+    - name: email
+      label: E-mail
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: Telefon
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: Adresă
+      row: 4
+      step: 2
+    - name: zip
+      label: Cod poștal
+      row: 5
+      step: 2
+    - name: subject
+      label: Subiect
+      row: 1
+      step: 3
+    - name: message
+      label: Mesaj
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: Alte modalități de a ne contacta
+  columns: 3
+  items:
+    - title: Întrebări despre vânzări
+      description: Oferte, configurații, cereri de distribuitor și comenzi în vrac.
+      icon: tabler:shopping-bag
+    - title: Suport tehnic
+      description: Garanție, reparații, piese de schimb și întrebări de operare.
+      icon: tabler:tool
+    - title: Presă și parteneriate
+      description: Kituri media, sponsorizări și colaborare industrială.
+      icon: tabler:news
+    - title: Telefon
+      description: +1 279 732 3333
+      icon: tabler:headset
+    - title: E-mail
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: Sediu central
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: Locația noastră
+  subtitle: Vizitați-ne la sediul central
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

@@ -1,0 +1,114 @@
+meta:
+  title: 'عن Afarer — علامة ألواح SUP القابلة للنفخ والرياضات المائية | {SITE}'
+  description: 'afarer هي علامة عالمية لألواح SUP القابلة للنفخ والرياضات المائية، تدار من خلال Aquafarer LLC (الولايات المتحدة) وتبنيها فريق عمليات تشينغداو لدينا. اكتشف قصتنا وهندستنا وجودتنا المعتمدة وبرامج شركاء الدول.'
+  keywords:
+    - 'علامة ألواح SUP القابلة للنفخ'
+    - 'علامة رياضات مائية'
+    - 'موزّع SUP حسب الدولة'
+    - 'مجموعات SUP مشتركة العلامة'
+hero:
+  tagline: عن الشركة
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: مصنع afarer ورشة العمل
+  title: |
+    هندسة بحرية، <br />
+    بطريقة <span class="text-accent dark:text-white">afarer</span>
+  subtitle: 'بدأنا في ورشة ساحلية بلوح واحد وإيمان راسخ: المنتجات البحرية يجب أن تُهندس كما لو كانت مهمة، لأنها كذلك. اليوم نشحن إلى أكثر من 40 دولة، لكن كل هيكل لا يزال يمر عبر نفس الأيدي التي بدأت الشركة.'
+stats:
+  title: بالأرقام
+  columns: 4
+  stats:
+    - title: هياكل تم تسليمها
+      amount: 2,400+
+    - title: دول تم الشحن إليها
+      amount: '40'
+    - title: سنوات الخبرة المشتركة
+      amount: '60'
+    - title: متوسط وقت الاستجابة للضمان (ساعات)
+      amount: '24'
+features3_what_we_build:
+  title: ما نبني
+  subtitle: خط إنتاجي مركّز نعرفه تماماً — لا تجارب نصف مكتملة، ولا هندسة شعارات.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: ألواح SUP
+      description: ألواح SUP قابلة للنفخ من 9 إلى 12 قدماً. مصممة للجولات واليوغا والصيد والاستخدام العائلي.
+      icon: tabler:ship
+    - title: ألواح SUP قابلة للنفخ
+      description: ألواح SUP قابلة للنفخ من PVC من 9 إلى 12 قدماً. خفيفة وقوية وسهلة التخزين.
+      icon: tabler:rowing
+    - title: حزم SUP فاخرة
+      description: ألواح SUP مدمجة عالية المواصفات مبنية حسب الطلب لتتناسب مع متطلبات علامتك التجارية أو أسطولك.
+      icon: tabler:crown
+features3_more:
+  columns: 3
+  isAfterContent: true
+  items:
+    - title: الإكسسوارات
+      description: مجاديف، مضخات، أغطية، حقائب جافة وإلكترونيات. جميعها متوافقة مع ألواحنا.
+      icon: tabler:package
+    - title: إصلاح وصيانة
+      description: إصلاح الألواح داخلياً، استبدال الوسائد وترقية الملحقات.
+      icon: tabler:tool
+    - title: تصنيع مخصص
+      description: تصميم حسب المشروع للعملاء التجاريين والعلميين والعسكريين.
+      icon: tabler:hammer
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    alt: مناقشة تصميم وهندسة الألواح
+steps2_values:
+  title: قيمنا
+  subtitle: ثلاثة مبادئ شكّلت كل منتج منذ اليوم الأول.
+  items:
+    - title: اصنع وكأنه يحمل عائلتك
+      description: كل هيكل ولحام ومثبت يُعالج وكأن عائلاتنا هي من ستستخدمه.
+      icon: tabler:heart
+    - title: اهندس قبل أن تبيع
+      description: إذا كانت المواصفة خاطئة، نغيّر المواصفة — وليس العميل.
+      icon: tabler:settings
+    - title: دعم يدوم أطول من الضمان
+      description: هياكل عمرها عشرون عاماً لا تزال تتصل بنا لطلب قطع الغيار، وما زلنا نرد.
+      icon: tabler:headset
+steps2_milestones:
+  title: محطات بارزة
+  subtitle: نسخة مختصرة من قصة afarer.
+  isReversed: true
+  items:
+    - title: تأسست في ورشة ساحلية
+      description: بدأها مهندسان بحريان بماكينة CNC وفكرة ثابتة.
+      icon: tabler:building-factory
+    - title: أول 1,000 هيكل تم تسليمها
+      description: تحقق في عامنا السابع، معظمه عن طريق الكلام الشفهي والعملاء المتكررين.
+      icon: tabler:circle-check
+    - title: برنامج التصدير الدولي
+      description: نشحن الآن إلى أكثر من 40 دولة مع شركاء دعم محليين في خمس قارات.
+      icon: tabler:world
+features2_locations:
+  title: مواقعنا
+  tagline: جدنا
+  columns: 3
+  items:
+    - title: المقر الرئيسي والورشة
+      description: مجمع صناعي ساحلي، مبنى 4 — مفتوح من الاثنين إلى الجمعة للزيارات بالموعد.
+    - title: مركز الخدمة الأوروبي
+      description: ألواح SUP قابلة للنفخ من 9 إلى 12 قدماً. مصممة للجولات واليوغا والصيد والاستخدام العائلي.
+    - title: شبكة شركاء آسيا والمحيط الهادئ
+      description: شركاء خدمة معتمدون في أستراليا واليابان وسنغافورة وهونغ كونغ.
+brand_hub_tagline: العلامة التجارية
+brand_hub_title: استكشف علامتنا التجارية
+brand_hub_subtitle: تعمّق أكثر في خبرتنا الهندسية في مجال ألواح SUP، وحضورنا العالمي، والمبادئ التي تدفعنا إلى الأمام.
+brand_hub_cards:
+  - title: الخبرة البحرية
+    desc: عقود من علوم المواد والتصنيع الدقيق والاختبار في العالم الحقيقي - من تصنيع PVC إلى تصميم بدن عميق V وتقنية غرزة السقوط.
+    link: /brand-marine-expertise/
+    link_label: تعرّفوا على المزيد
+  - title: التواجد العالمي
+    desc: الشحن إلى أكثر من 50 دولة من منشأتنا في تشينغداو مع شركاء خدمة معتمدين في جميع أنحاء أوروبا وآسيا والمحيط الهادئ والأمريكتين.
+    link: /brand-global-presence/
+    link_label: تعرّفوا على المزيد
+  - title: لماذا أفار
+    desc: علامة مبنية على جودة مُتحقق منها — شهادة مزدوجة (ISO 9001 + BSCI)، وامتثال CE، وشراكات حصرية حسب الدولة مع مجموعات محدودة مشتركة العلامة لشركات الرياضات المائية.
+    link: /brand-why-afarer/
+    link_label: تعرّفوا على المزيد

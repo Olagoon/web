@@ -1,0 +1,72 @@
+meta:
+  title: 'Maritieme Expertise — Engineering in Elke Romp | {SITE}'
+  description: 'Decennia aan maritieme engineering in elke romp. afarer beheerst drop stitch, maritiem PVC en professioneel ontwerp van opblaasbare SUPs.'
+  keywords:
+    - 'maritieme engineering'
+    - 'fabrikant opblaasbare SUP'
+    - 'paddle board productie'
+hero:
+  tagline: Maritieme expertise
+  title: Decennia van Maritieme Techniek<br />in Elk Romp
+  subtitle: afarer combineert diepgaande materiaalwetenschap, precisieproductie en praktijktesten om vaartuigen te produceren die presteren wanneer het erop aankomt.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: afarer maritieme engineering en R&D-team aan het werk
+expertise_materials:
+  tagline: Materiaalkunde
+  title: Het Juiste Materiaal Kiezen<br />voor Elke Toepassing
+  subtitle: We werken met twee kernmaterialen — elk geselecteerd voor specifieke gebruikssituaties en prestatie-eisen.
+  columns: 3
+  items:
+    - title: Marinekwaliteit PVC
+      description: 1100 denier PVC-stof — ons veelzijdigste materiaal. UV-gestabiliseerd, slijtvast en REACH-conform. Ideaal voor SUP-boards waar gewicht en kostenefficiëntie belangrijk zijn.
+      icon: tabler:droplet
+    - title: Glasvezel & Polyethyleen
+      description: Glasvezel-gelamineerde SUP's voor premium stijfheid en glijvermogen. Rotatiegegoten polyethyleen voor zwaar verhuur- en reddingsgebruik waar maximale slagvastheid vereist is.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Productiemogelijkheden
+  title: Precisieproductie<br />bij Elke Stap
+  subtitle: Onze 12.000 m² faciliteit is uitgerust met gespecialiseerde machines voor elke productiefase.
+  columns: 2
+  items:
+    - title: CNC-snijden
+      description: Computergestuurd snijden zorgt voor precieze, herhaalbare stofpanelen met minimaal afval. Elk stuk past precies zoals ontworpen.
+      icon: tabler:cpu
+    - title: Hogefrequentielassen
+      description: Industrieel HF-lassen creëert naden die sterker zijn dan het basismateriaal. Consistente temperatuur- en drukregeling zorgt voor luchtdichte afdichtingen bij elke productierun.
+      icon: tabler:bolt
+    - title: Drop Stitch Kernassemblage
+      description: Duizenden polyesterdraden verbinden de bovenste en onderste stoflagen, waardoor hogedrukinflatie (15-20 PSI) mogelijk is voor stijve, stabiele SUP-boards.
+      icon: tabler:building-arch
+    - title: Druktesten
+      description: Elk opblaasbaar product wordt voor verzending aan een druktest onderworpen. Boards worden getest op 1,25x de nominale druk — als het daar standhoudt, presteert het op het water.
+      icon: tabler:wind
+    - title: Naadsterkte testen
+      description: Willekeurige monsters van elke productiebatch ondergaan destructieve naadsterktetesten. Resultaten worden geregistreerd en zijn traceerbaar naar specifieke productieruns.
+      icon: tabler:files
+    - title: Watertesten
+      description: Elk SUP-model ondergaat zeeproeven vóór certificering. Praktijktesten in kustomstandigheden valideren prestaties, handling en stabiliteit.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Ontwerp & Techniek
+  title: Ontworpen voor Echte Omstandigheden
+  subtitle: Onze ontwerpfilosofie begint met hoe het board zal worden gebruikt — en bouwt vervolgens de engineering rond die gebruikssituatie.
+  items:
+    - title: Prestatiegericht Rompontwerp
+      description: Elke rompvorm is afgestemd op de gebruikssituatie — displacement-neuzen voor touring-glijvermogen, extra rocker voor wendbaarheid in de surf, platte stabiele profielen voor vissen en yoga.
+    - title: Drop-Stitch Veiligheid
+      description: Elk board heeft een stijve drop-stitch-kern met versterkte rails. Als een sectie beschadigd raakt, houdt de sterke drop-stitch-structuur het board bruikbaar.
+    - title: Ergonomische Deckindeling
+      description: Deckpad-zonering, positie van de draaggreep en bevestigingspunten zijn ontworpen rond het comfort van de rijder tijdens langdurig gebruik — of het nu touring, vissen of patrouilleren is.
+    - title: Aangepaste Configuratie
+      description: Railkleuren, deckpad-configuratie, accessoirebevestigingen, bagagecapaciteit — elk model kan worden aangepast aan specifieke operationele vereisten.
+cta:
+  title: Heeft u een specifieke toepassing in gedachten?
+  subtitle: Ons technische team kan adviseren over materiaalkeuze, ontwerp en productie voor uw project.
+  actions:
+    - variant: primary
+      text: Vraag het onze ingenieurs
+      href: /contact/
+    - text: Bekijk het assortiment
+      href: /products/

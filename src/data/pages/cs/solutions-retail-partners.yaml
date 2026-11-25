@@ -1,0 +1,97 @@
+meta:
+  title: Program pro maloobchodní partnery SUP | {SITE}
+  description: Velkoobchodní partnerský program SUP pro maloobchodníky a obchody se sportovními potřebami. Kompletní produktová řada, možnosti dropshippingu, konkurenceschopné velkoobchodní marže 20–35 % a nízká MOQ pro začátek.
+hero:
+  tagline: Maloobchodní partneři
+  title: Prodávejte prémiová nafukovací SUP prkna<br />s maržemi, které fungují
+  subtitle: Staňte se maloobchodním partnerem Afarer – vezměte do sortimentu nejrychleji rostoucí značku SUP na vašem trhu s kompletními velkoobchodními cenami, dropshippingem, profesionálními marketingovými materiály a vyhrazenou podporou.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: SUP prkna Afarer vystavená v maloobchodní prodejně
+margin_section:
+  title: Maloobchodní marže a MOQ
+  subtitle: Velkoobchodní cenové úrovně navržené pro ziskovost maloobchodu.
+  items:
+    - tier: Základní partner
+      discount: 20%
+      moq: 500 ks/rok
+      margin_note: Zisk ~$150–250 za prkno
+      features:
+        - Přístup k celé produktové řadě
+        - Balíček marketingových materiálů
+        - Podpora e-mailem
+        - Přístup do katalogu produktů
+    - tier: Prémiový partner
+      discount: 30%
+      moq: 2,000+ kusů/rok
+      margin_note: Zisk ~250–400 USD na prkno
+      features:
+        - Dedikovaný account manager
+        - Ochrana výhradního teritoria
+        - Vlastní marketingová podpora
+        - První přístup k novým produktům
+        - Školení personálu
+    - tier: Vlajkový partner
+      discount: 35%+
+      moq: 5 000+ ks/rok
+      margin_note: Zisk ~$350–500+ za prkno
+      features:
+        - Společné marketingové kampaně (co-branding)
+        - Podpora vystavení v prodejně
+        - Školení personálu na místě
+        - Společné promoakce na sociálních sítích
+        - Prioritní alokace výroby
+product_line:
+  title: Kompletní produktová řada
+  subtitle: SUP prkno pro každého zákazníka, který k vám vstoupí.
+  items:
+    - name: All-Round Series
+      description: Nejprodávanější — vyhovuje 80 % zákazníků
+    - name: Touring Series
+      description: Výkonnostní pádlovači — vyšší marže
+    - name: Yoga Series
+      description: Niche trh — prémiové ceny
+    - name: Kids Series
+      description: Rodinní zákazníci – opakovaný kupující
+    - name: Racing Series
+      description: Trh nadšenců — halo efekt značky
+    - name: Accessories
+      description: Doplňky s vysokou marží (pádla, vesty, pumpy, tašky)
+catalog:
+  title: Materiály pro maloobchodní partnery
+  subtitle: Stáhněte si náš komplexní balíček pro maloobchodní partnery.
+  items:
+    - name: 2026 Product Catalog
+      desc: Kompletní nabídka se specifikacemi, cenami a informacemi pro objednání
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Kalkulačka marží, tipy pro merchandising a osvědčené postupy
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Vysoce kvalitní produktové fotografie, lifestyle snímky a POS materiály
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Podpora maloobchodních partnerů
+  subtitle: Vše, co potřebujete, abyste prodávali s jistotou.
+  items:
+    - Produktové fotografie ve vysokém rozlišení (profesionální fotografie)
+    - Lifestyle fotografie pro sociální sítě, web a katalog
+    - Marketingové materiály — plakáty, stojánkové cedulky (shelf talkers), bannery
+    - Školicí videa k produktům pro školení personálu
+    - Balíček obsahu pro sociální sítě (týdenní příspěvky)
+    - SEO optimalizované popisy produktů
+    - Možnost dropshippingu — bez rizika skladových zásob
+    - Platební podmínky netto 30
+cta:
+  title: Připraveni stát se maloobchodním partnerem Afarer?
+  subtitle: Přihlaste se k partnerství nebo si stáhněte náš maloobchodní katalog a začněte.
+  actions:
+    - text: Přihlaste se k partnerství
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Stáhnout maloobchodní katalog
+      href: /resources/download-catalog/
+      variant: secondary

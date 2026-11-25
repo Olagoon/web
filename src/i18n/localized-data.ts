@@ -1,0 +1,344 @@
+import { guides } from '~/data/guides';
+import type { GuideRecord } from '~/data/guides';
+import { contentV2Records } from '~/data/content-v2';
+import type { ContentV2Record } from '~/data/content-v2';
+import { guidesFr } from '~/data/guides.fr';
+import { contentV2RecordsFr } from '~/data/content-v2.fr';
+import { guidesDe } from '~/data/guides.de';
+import { guidesEs } from '~/data/guides.es';
+import { guidesIt } from '~/data/guides.it';
+import { guidesPt } from '~/data/guides.pt';
+import { guidesNl } from '~/data/guides.nl';
+import { guidesDa } from '~/data/guides.da';
+import { guidesSv } from '~/data/guides.sv';
+
+import { guidesPl } from '~/data/guides.pl';
+
+import { guidesCs } from '~/data/guides.cs';
+import { guidesNo } from '~/data/guides.no';
+import { guidesFi } from '~/data/guides.fi';
+import { guidesRu } from '~/data/guides.ru';
+import { guidesTr } from '~/data/guides.tr';
+import { guidesAr } from '~/data/guides.ar';
+import { guidesEl } from '~/data/guides.el';
+import { guidesRo } from '~/data/guides.ro';
+import { guidesTh } from '~/data/guides.th';
+import { guidesHr } from '~/data/guides.hr';
+import { guidesHu } from '~/data/guides.hu';
+import { guidesSk } from '~/data/guides.sk';
+import { guidesBg } from '~/data/guides.bg';
+import { guidesSl } from '~/data/guides.sl';
+import { guidesSr } from '~/data/guides.sr';
+import { guidesId } from '~/data/guides.id';
+import { guidesHe } from '~/data/guides.he';
+import { guidesMs } from '~/data/guides.ms';
+import { guidesLt } from '~/data/guides.lt';
+import { guidesLv } from '~/data/guides.lv';
+import { guidesEt } from '~/data/guides.et';
+import { guidesTl } from '~/data/guides.tl';
+import { contentV2RecordsDe } from '~/data/content-v2.de';
+import { contentV2OverridesRo } from '~/data/content-v2.ro';
+import type { ContentV2Override } from '~/data/content-v2.ro';
+import { contentV2OverridesTh } from '~/data/content-v2.th';
+import { contentV2OverridesEs } from '~/data/content-v2.es';
+import { contentV2OverridesIt } from '~/data/content-v2.it';
+import { contentV2OverridesPt } from '~/data/content-v2.pt';
+import { contentV2OverridesNl } from '~/data/content-v2.nl';
+import { contentV2OverridesDa } from '~/data/content-v2.da';
+import { contentV2OverridesSv } from '~/data/content-v2.sv';
+import { contentV2OverridesPl } from '~/data/content-v2.pl';
+import { contentV2OverridesCs } from '~/data/content-v2.cs';
+import { contentV2OverridesNo } from '~/data/content-v2.no';
+import { contentV2OverridesFi } from '~/data/content-v2.fi';
+import { contentV2OverridesRu } from '~/data/content-v2.ru';
+
+import { contentV2OverridesTr } from '~/data/content-v2.tr';
+import { contentV2OverridesAr } from '~/data/content-v2.ar';
+import { contentV2OverridesEl } from '~/data/content-v2.el';
+import { contentV2OverridesHr } from '~/data/content-v2.hr';
+import { contentV2OverridesHe } from '~/data/content-v2.he';
+import { contentV2OverridesId } from '~/data/content-v2.id';
+import { contentV2OverridesTl } from '~/data/content-v2.tl';
+import { contentV2OverridesMs } from '~/data/content-v2.ms';
+import { contentV2OverridesHu } from '~/data/content-v2.hu';
+import { contentV2OverridesSk } from '~/data/content-v2.sk';
+import { contentV2OverridesBg } from '~/data/content-v2.bg';
+import { contentV2OverridesSl } from '~/data/content-v2.sl';
+import { contentV2OverridesSr } from '~/data/content-v2.sr';
+import { contentV2OverridesLt } from '~/data/content-v2.lt';
+import { contentV2OverridesLv } from '~/data/content-v2.lv';
+import { contentV2OverridesEt } from '~/data/content-v2.et';
+import { faqs } from '~/data/faq';
+import type { FaqRecord } from '~/data/faq';
+import { faqsFr } from '~/data/faq.fr';
+import { faqsDe } from '~/data/faq.de';
+import { faqsEs } from '~/data/faq.es';
+import { faqsIt } from '~/data/faq.it';
+import { faqsPt } from '~/data/faq.pt';
+import { faqsRu } from '~/data/faq.ru';
+import { faqsCs } from '~/data/faq.cs';
+import { faqsDa } from '~/data/faq.da';
+import { faqsNl } from '~/data/faq.nl';
+import { faqsNo } from '~/data/faq.no';
+import { faqsPl } from '~/data/faq.pl';
+import { faqsSv } from '~/data/faq.sv';
+import { faqsAr } from '~/data/faq.ar';
+import { faqsEl } from '~/data/faq.el';
+import { faqsFi } from '~/data/faq.fi';
+import { faqsRo } from '~/data/faq.ro';
+import { faqsTh } from '~/data/faq.th';
+import { faqsTr } from '~/data/faq.tr';
+import { faqsHr } from '~/data/faq.hr';
+import { faqsHu } from '~/data/faq.hu';
+import { faqsSk } from '~/data/faq.sk';
+import { faqsBg } from '~/data/faq.bg';
+import { faqsSl } from '~/data/faq.sl';
+import { faqsSr } from '~/data/faq.sr';
+import { faqsId } from '~/data/faq.id';
+import { faqsHe } from '~/data/faq.he';
+import { faqsMs } from '~/data/faq.ms';
+import { faqsLt } from '~/data/faq.lt';
+import { faqsLv } from '~/data/faq.lv';
+import { faqsEt } from '~/data/faq.et';
+import { faqsTl } from '~/data/faq.tl';
+
+export function getGuidesForLang(lang: string | undefined): GuideRecord[] {
+  if (lang === 'fr') {
+    return guidesFr;
+  }
+  if (lang === 'de') {
+    return guidesDe;
+  }
+  if (lang === 'es') {
+    return guidesEs;
+  }
+  if (lang === 'it') {
+    return guidesIt;
+  }
+  if (lang === 'pt') {
+    return guidesPt;
+  }
+  if (lang === 'nl') {
+    return guidesNl;
+  }
+  if (lang === 'da') {
+    return guidesDa;
+  }
+  if (lang === 'sv') {
+    return guidesSv;
+  }
+  if (lang === 'pl') {
+    return guidesPl;
+  }
+  if (lang === 'cs') {
+    return guidesCs;
+  }
+  if (lang === 'no') {
+    return guidesNo;
+  }
+  if (lang === 'fi') {
+    return guidesFi;
+  }
+  if (lang === 'ru') {
+    return guidesRu;
+  }
+  if (lang === 'tr') {
+    return guidesTr;
+  }
+  if (lang === 'ar') {
+    return guidesAr;
+  }
+  if (lang === 'el') {
+    return guidesEl;
+  }
+  if (lang === 'ro') {
+    return guidesRo;
+  }
+  if (lang === 'th') {
+    return guidesTh;
+  }
+  if (lang === 'hr') {
+    return guidesHr;
+  }
+  if (lang === 'hu') {
+    return guidesHu;
+  }
+  if (lang === 'sk') {
+    return guidesSk;
+  }
+  if (lang === 'bg') {
+    return guidesBg;
+  }
+  if (lang === 'sl') {
+    return guidesSl;
+  }
+  if (lang === 'sr') {
+    return guidesSr;
+  }
+  if (lang === 'id') {
+    return guidesId;
+  }
+  if (lang === 'he') {
+    return guidesHe;
+  }
+  if (lang === 'ms') {
+    return guidesMs;
+  }
+  if (lang === 'lt') {
+    return guidesLt;
+  }
+  if (lang === 'lv') {
+    return guidesLv;
+  }
+  if (lang === 'et') {
+    return guidesEt;
+  }
+  if (lang === 'tl') {
+    return guidesTl;
+  }
+  return guides;
+}
+
+export function getContentV2ForLang(lang: string | undefined): ContentV2Record[] {
+  if (lang === 'fr') {
+    return contentV2RecordsFr;
+  }
+  if (lang === 'de') {
+    return contentV2RecordsDe;
+  }
+  if (lang === 'ro') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesRo);
+  }
+  if (lang === 'th') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesTh);
+  }
+  if (lang === 'es') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesEs);
+  }
+  if (lang === 'it') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesIt);
+  }
+  if (lang === 'pt') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesPt);
+  }
+  if (lang === 'nl') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesNl);
+  }
+  if (lang === 'da') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesDa);
+  }
+  if (lang === 'sv') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesSv);
+  }
+  if (lang === 'pl') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesPl);
+  }
+  if (lang === 'cs') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesCs);
+  }
+  if (lang === 'no') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesNo);
+  }
+  if (lang === 'fi') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesFi);
+  }
+  if (lang === 'ru') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesRu);
+  }
+  if (lang === 'tr') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesTr);
+  }
+  if (lang === 'ar') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesAr);
+  }
+  if (lang === 'el') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesEl);
+  }
+  if (lang === 'hr') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesHr);
+  }
+  if (lang === 'he') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesHe);
+  }
+  if (lang === 'id') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesId);
+  }
+  if (lang === 'tl') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesTl);
+  }
+  if (lang === 'ms') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesMs);
+  }
+  if (lang === 'hu') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesHu);
+  }
+  if (lang === 'sk') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesSk);
+  }
+  if (lang === 'bg') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesBg);
+  }
+  if (lang === 'sl') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesSl);
+  }
+  if (lang === 'sr') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesSr);
+  }
+  if (lang === 'lt') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesLt);
+  }
+  if (lang === 'lv') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesLv);
+  }
+  if (lang === 'et') {
+    return mergeV2BySlug(contentV2Records, contentV2OverridesEt);
+  }
+  return contentV2Records;
+}
+
+function mergeV2BySlug(base: ContentV2Record[], overrides: ContentV2Override[]): ContentV2Record[] {
+  const bySlug = new Map(overrides.map((o) => [o.slug, o]));
+  return base.map((b) => {
+    const o = bySlug.get(b.slug);
+    return o ? { ...b, ...o } : b;
+  });
+}
+
+const faqsByLang: Record<string, FaqRecord[]> = {
+  en: faqs,
+  fr: faqsFr,
+  de: faqsDe,
+  es: faqsEs,
+  it: faqsIt,
+  pt: faqsPt,
+  ru: faqsRu,
+  cs: faqsCs,
+  da: faqsDa,
+  nl: faqsNl,
+  no: faqsNo,
+  pl: faqsPl,
+  sv: faqsSv,
+  ar: faqsAr,
+  el: faqsEl,
+  fi: faqsFi,
+  ro: faqsRo,
+  th: faqsTh,
+  tr: faqsTr,
+  hr: faqsHr,
+  hu: faqsHu,
+  sk: faqsSk,
+  bg: faqsBg,
+  sl: faqsSl,
+  sr: faqsSr,
+  id: faqsId,
+  he: faqsHe,
+  ms: faqsMs,
+  lt: faqsLt,
+  lv: faqsLv,
+  et: faqsEt,
+  tl: faqsTl,
+};
+
+export function getFaqsForLang(lang: string | undefined): FaqRecord[] {
+  return (lang ? faqsByLang[lang] : undefined) ?? faqs;
+}

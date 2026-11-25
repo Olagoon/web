@@ -1,0 +1,108 @@
+meta:
+  title: 'Bilgi — SUP Rehberleri | {SITE}'
+  description: 'afarer bilgi tabanı: markalar ve profesyoneller için şişme SUP, paddle board malzemeleri, tahta seçimi ve sektör içgörüleri rehberleri.'
+  keywords:
+    - 'SUP bilgisi'
+    - 'şişme SUP rehberi'
+    - 'paddle board malzemeleri'
+    - 'SUP sektör içgörüleri'
+hero:
+  tagline: Bilgi Grafiği
+  title: Su Keşif Bilgisi
+  subtitle: |
+    Şişme SUP teknolojisi, su güvenliği, tahta mühendisliği<br />
+    ve macera planlamasını kapsayan yapılandırılmış bir bilgi tabanı.
+  taglineSection: Keşfedin. Öğrenin. Güvenle gidin.
+clusters:
+  tagline: Bilgi Kümeleri
+  title: Konuya göre keşfedin
+  subtitle: Her afarer ürününün arkasındaki teknoloji, güvenlik ve becerilere derinlemesine dalışlar.
+  items:
+    - title: SUP Satın Alma Rehberleri
+      description: İlk boardınızı seçmekten ileri tur tekniklerine kadar — stand-up paddle hakkında her şey.
+      icon: tabler:lifebuoy
+      topics:
+        - İlk şişme SUP'inizi nasıl seçersiniz
+        - SUP boyut ve ağırlık kapasitesi rehberi
+        - Yeni başlayanlar, tur, yoga ve yarış için en iyi SUP
+        - Kaçınılması gereken yaygın SUP satın alma hataları
+        - Şişme vs sert tahta karşılaştırması
+    - title: SUP Mühendisliği ve Teknolojisi
+      description: Şişirilebilir SUP tahtaları hakkında teknik rehberler — malzemeler, yapım yöntemleri ve üretim süreçleri.
+      icon: tabler:microscope
+      topics:
+        - Drop-stitch teknolojisi derinlemesine
+        - Askeri sınıf PVC özellikleri
+        - Füzyon laminasyon vs. yapıştırma
+        - EVA köpük teknolojisi ve artwork yöntemleri
+        - SUP vana tipleri ve yüzgeç sistemleri
+
+    - title: SUP Güvenliği ve Bakımı
+      description: Her kürekçi için temel güvenlik bilgisi — can yeleği seçiminden hava durumu okumaya ve tahta bakımı ile onarıma kadar.
+      icon: tabler:shield
+      topics:
+        - SUP güvenlik kontrol listesi ve PFD gereksinimleri
+        - Uzak sular için çok odacıklı güvenlik
+        - SUP şişirme PSI rehberi
+        - Tahta depolama ve kış bakımı
+        - Şişme ürün onarım teknikleri
+    - title: SUP Becerileri ve Teknikleri
+      description: Tüm beceri seviyeleri için kürek çekme teknikleri, tur becerileri ve fitness antrenmanı.
+      icon: tabler:sailboat
+      topics:
+        - Yeni başlayanlar için kürek teknikleri
+        - Orta seviye kürek çekme ustalığı
+        - Tur ve sefer planlaması
+        - SUP fitness ve yarış antrenmanı
+        - Beyaz su ve nehir üzerinde gidme becerileri
+    - title: SUP Yaşam Tarzı ve Özel Kullanımlar
+      description: Özel SUP aktiviteleri — yoga, balıkçılık, köpekler, aileler ve seyahat ipuçları.
+      icon: tabler:heart
+      topics:
+        - Suda SUP yogası ve meditasyonu
+        - Şişirilebilir SUP'tan Balık Tutma
+        - Köpekler ve çocuklarla kürek sörfü
+        - SUP'unuzla hava ve karayoluyla seyahat
+        - SUP aksesuarları ve ekipman temelleri
+    - title: SUP Karşılaştırmaları ve Referansları
+      description: Bilinçli kararlar vermenize yardımcı olacak yan yana karşılaştırmalar.
+      icon: tabler:chart-bar
+      topics:
+        - SUP mu kayak mı — hangisi sizin için doğru?
+        - PVC malzeme sınıfları açıklaması
+        - Tek odacık vs çok odacık güvenlik
+        - SUP tahtası malzemeleri açıklaması
+        - UV baskı vs EVA blok artwork
+featured_guides:
+  tagline: Öne Çıkan Rehberler
+  title: En popüler bilgi kaynakları
+  items:
+    - title: SUP Temelleri
+      href: /learn/sup/
+    - title: Şişme vs Sert Board
+      href: /compare/inflatable-vs-hardboard/
+    - title: Su Güvenlik Rehberi
+      href: /learn/water-safety/
+    - title: Malzeme Referansı
+      href: /learn/materials/
+    - title: SUP Satın Alma Rehberi
+      href: /guides/how-to-choose-your-sup/
+    - title: SUP Boyut Kılavuzu
+      href: /guides/sup-size-guide/
+    - title: SUP Teknoloji Merkezi
+      href: /research/
+    - title: SUP Bakımı
+      href: /guides/sup-maintenance/
+    - title: Tur Rehberi
+      href: /guides/sup-for-touring/
+    - title: Paddle Teknikleri
+      href: /guides/paddling-techniques/
+cta:
+  title: Keşfetmeye başlayın
+  subtitle: Bilgi tabanımıza dalın ve bir sonraki su maceranız için ihtiyacınız olan bilgileri alın.
+  actions:
+    - variant: primary
+      text: Tüm rehberlere göz atın
+      href: /academy/
+    - text: Bilgi Grafiğini Keşfedin
+      href: /knowledge/

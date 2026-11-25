@@ -1,0 +1,34 @@
+meta:
+  title: 'Brandet afarer — Marine Engineering & Partnerskab | {SITE}'
+  description: 'afarer: et oppusteligt marinebrand, der samarbejder med vandsportsbrands, distributører, nautiske klubber og virksomheder gennem co-brand-kollektioner, private label og landsdækkende distributionsprogrammer.'
+  keywords:
+    - 'brandet afarer'
+    - 'producent af oppustelige SUP'
+    - 'SUP-fabrik Kina'
+hero:
+  tagline: Mærke
+  title: '{BRAND}'
+  subtitle: Ocean-ydeevne til enhver surfer
+  cta: Udforsk udstyret →
+  cta_link: /products/
+  secondary_cta: Lær at surfe
+  secondary_cta_link: /guides/
+position:
+  tagline: Stilling
+  subtitle: Ocean-ydeevne til enhver surfer
+products_section:
+  tagline: Produkter
+  cta: Alle produkter →
+  cta_link: /products/
+global_section:
+  tagline: Globalt
+  title: Fås i {count} regioner
+social_section:
+  tagline: Sociale medier
+  title: Det, surferne læser
+  read_guide: Læs guiden →
+cta_section:
+  title: Begynd din oceanrejse
+  subtitle: Ethvert produkt CE-certificeret. Dækket af garanti. Designet til ægte surf.
+  cta_suffix: →
+  secondary_cta: Om {BRAND}

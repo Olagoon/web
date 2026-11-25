@@ -1,0 +1,97 @@
+meta:
+  title: SUP Perakende Ortaklık Programı | {SITE}
+  description: Perakendeciler ve spor malzemeleri mağazaları için SUP toptan satış ortaklık programı. Tam ürün yelpazesi, dropshipping seçenekleri, %20–35 rekabetçi toptan satış marjları ve başlamak için düşük MOQ.
+hero:
+  tagline: Perakende Ortakları
+  title: "İşe yarayan marjlarla<br />premium şişme SUP'ler satın"
+  subtitle: Afarer perakende ortağı olun — pazarınızın en hızlı büyüyen SUP markasını tam toptan satış fiyatları, dropshipping, profesyonel pazarlama materyalleri ve özel destekle satın.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Perakende mağazada sergilenen Afarer SUP panelleri
+margin_section:
+  title: Perakende Marjları ve MOQ
+  subtitle: Perakende kârlılığı için tasarlanmış toptan fiyatlandırma kademeleri.
+  items:
+    - tier: Temel Ortağ
+      discount: 20%
+      moq: 500 ünite/yıl
+      margin_note: Tahta başına ~$150–250 kâr
+      features:
+        - Tam ürün hattına erişim
+        - Pazarlama materyali paketi
+        - E-posta desteği
+        - Ürün kataloğuna erişim
+    - tier: Premium Ortağınız
+      discount: 30%
+      moq: Yılda 2.000+ birim
+      margin_note: Tahta başına ~$250–400 kâr
+      features:
+        - Özel hesap yöneticisi
+        - Münhasır bölge koruması
+        - Özel pazarlama desteği
+        - Yeni ürünlere ilk erişim
+        - Personel eğitim oturumları
+    - tier: Amiral Gemisi Ortağı
+      discount: '%35+'
+      moq: 5.000+ adet/yıl
+      margin_note: Tahta başına ~$350–500+ kâr
+      features:
+        - Ortak markalı pazarlama kampanyaları
+        - Mağaza içi teşhir desteği
+        - Yerinde personel eğitimi
+        - Ortak sosyal medya promosyonları
+        - Öncelikli üretim tahsisi
+product_line:
+  title: Tam Ürün Yelpazesi
+  subtitle: Kapınızdan içeri giren her müşteri için bir SUP panosu.
+  items:
+    - name: All-Round Series
+      description: En çok satan — müşterilerin %80'ine uyar
+    - name: Touring Series
+      description: Performans kürekçileri — daha yüksek kâr marjı
+    - name: Yoga Series
+      description: Niş pazar — prim fiyatlandırma
+    - name: Kids Series
+      description: Aile müşterileri — tekrar alıcı
+    - name: Racing Series
+      description: Meraklı pazarı — marka etkisi
+    - name: Accessories
+      description: Yüksek kar marjılı ek ürünler (kürekler, yelekler, pompalar, çantalar)
+catalog:
+  title: Perakende Ortağı Kaynakları
+  subtitle: Kapsamlı perakende ortaklık kitimizi indirin.
+  items:
+    - name: 2026 Product Catalog
+      desc: Teknik özellikler, fiyatlandırma ve sipariş bilgileriyle tam ürün yelpazesi
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Marj hesaplayıcı, vitrin düzeni ipuçları ve en iyi uygulamalar
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Yüksek çözünürlü ürün fotoğrafları, yaşam tarzı görselleri ve POS malzemeleri
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Perakende İş Ortağı Desteği
+  subtitle: Güvenle satmanız için ihtiyacınız olan her şey.
+  items:
+    - Yüksek çözünürlüklü ürün görselleri (profesyonel fotoğrafçılık)
+    - Sosyal medya, web sitesi ve katalog için yaşam tarzı fotoğrafları
+    - Pazarlama materyalleri — posterler, raf etiketleri, bannerlar
+    - Personel eğitimi için ürün eğitim videoları
+    - Sosyal medya içerik paketi (haftalık paylaşımlar)
+    - SEO uyumlu ürün açıklamaları
+    - Doğrudan gönderim seçeneği mevcut — stok riski yok
+    - Net 30 ödeme koşulları
+cta:
+  title: Afarer perakende ortağı olmaya hazır mısınız?
+  subtitle: Ortaklık için başvurun veya başlamak için perakende kataloğumuzu indirin.
+  actions:
+    - text: Ortaklık Başvurusu
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Perakende Kataloğunu İndirin
+      href: /resources/download-catalog/
+      variant: secondary

@@ -1,0 +1,72 @@
+meta:
+  title: 'Wiedza morska — technika w każdym kadłubie | {SITE}'
+  description: 'Dekady techniki morskiej w każdym kadłubie. afarer opanował konstrukcję drop stitch, morski PVC i profesjonalne projektowanie nadmuchiwanych desek SUP.'
+  keywords:
+    - 'technika morska'
+    - 'producent nadmuchiwanych desek SUP'
+    - 'produkcja paddle boardów'
+hero:
+  tagline: Ekspertyza morska
+  title: Dziesięciolecia inżynierii morskiej<br />w każdym kadłubie
+  subtitle: afarer łączy głęboką wiedzę o materiałach, precyzyjną produkcję i rzeczywiste testy, aby tworzyć jednostki pływające, które sprawdzają się, gdy ma to znaczenie.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: zespół inżynierii morskiej i badań i rozwoju Afarer przy pracy
+expertise_materials:
+  tagline: Nauka o materiałach
+  title: Wybór odpowiedniego materiału<br />do każdego zastosowania
+  subtitle: Pracujemy z dwoma podstawowymi materiałami — każdy wybrany do konkretnych przypadków użycia i wymagań wydajnościowych.
+  columns: 3
+  items:
+    - title: PVC klasy morskiej
+      description: Tkanina PVC 1100 denier — nasz najbardziej wszechstronny materiał. Stabilizowany UV, odporny na ścieranie i zgodny z REACH. Idealny do desek SUP, gdzie liczą się waga i efektywność kosztowa.
+      icon: tabler:droplet
+    - title: Włókno szklane i polietylen
+      description: SUP-y laminowane włóknem szklanym zapewniają premium sztywność i poślizg. Polietylen formowany rotacyjnie do ciężkiej pracy w wypożyczalniach i zastosowań ratowniczych wymagających maksymalnej odporności na uderzenia.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Możliwości produkcyjne
+  title: Precyzyjna produkcja<br />na każdym etapie
+  subtitle: Nasz zakład o powierzchni 12 000 m² jest wyposażony w specjalistyczne maszyny na każdym etapie produkcji.
+  columns: 2
+  items:
+    - title: Cięcie CNC
+      description: Cięcie sterowane komputerowo zapewnia precyzyjne, powtarzalne panele tkaniny z minimalną ilością odpadów. Każdy element pasuje dokładnie tak, jak zaprojektowano.
+      icon: tabler:cpu
+    - title: Spawanie wysokoczęstotliwościowe
+      description: Przemysłowe zgrzewanie HF tworzy szwy mocniejsze niż materiał bazowy. Stała kontrola temperatury i ciśnienia zapewnia szczelne połączenia w każdej serii produkcyjnej.
+      icon: tabler:bolt
+    - title: Zespół rdzenia Drop Stitch
+      description: Tysiące poliestrowych nici łączy górne i dolne warstwy tkaniny, umożliwiając nadmuchiwanie pod wysokim ciśnieniem (15-20 PSI) dla sztywnych, stabilnych desek SUP.
+      icon: tabler:building-arch
+    - title: Testowanie ciśnienia
+      description: Każdy produkt nadmuchiwany jest testowany ciśnieniowo przed wysyłką. Deski są testowane przy 1,25-krotnym ciśnieniu nominalnym — jeśli wytrzymają tam, będą działać na wodzie.
+      icon: tabler:wind
+    - title: Test wytrzymałości szwu
+      description: Losowe próbki z każdej partii produkcyjnej przechodzą niszczące testy wytrzymałości szwów. Wyniki są rejestrowane i możliwe do prześledzenia do konkretnych serii produkcyjnych.
+      icon: tabler:files
+    - title: Testowanie wody
+      description: Każdy model SUP przechodzi próby morskie przed certyfikacją. Testy w rzeczywistych warunkach przybrzeżnych potwierdzają wydajność, prowadzenie i stabilność.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Projektowanie i Inżynieria
+  title: Zaprojektowane do rzeczywistych warunków
+  subtitle: Nasza filozofia projektowania zaczyna się od tego, jak deska będzie używana — a następnie buduje inżynierię wokół tego przypadku użycia.
+  items:
+    - title: Wydajne projektowanie kadłuba
+      description: Każdy kształt kadłuba jest dostrojony do jego zastosowania — nosy wypornościowe dla poślizgu turystycznego, dodatkowy rocker dla zwinności w falach, płaskie stabilne profile do wędkowania i jogi.
+    - title: Bezpieczeństwo Drop-Stitch
+      description: Każda deska ma sztywny rdzeń drop-stitch ze wzmocnionymi burtami. Jeśli któraś sekcja zostanie uszkodzona, wysokowytrzymała konstrukcja drop-stitch utrzymuje deskę w stanie użytkowania.
+    - title: Ergonomiczny układ pokładu
+      description: Strefowanie pada pokładowego, pozycja uchwytu transportowego i punkty montażowe są zaprojektowane z myślą o komforcie pływaka podczas długiego użytkowania — podczas turystyki, wędkowania czy patrolowania.
+    - title: Konfiguracja niestandardowa
+      description: Kolory burt, konfiguracja pada pokładowego, mocowania akcesoriów, pojemność na sprzęt — każdy model można dostosować do konkretnych wymagań operacyjnych.
+cta:
+  title: Masz na myśli konkretne zastosowanie?
+  subtitle: Nasz zespół inżynieryjny może doradzić w zakresie doboru materiałów, projektowania i produkcji dla Twojego projektu.
+  actions:
+    - variant: primary
+      text: Zapytaj naszych inżynierów
+      href: /contact/
+    - text: Zobacz asortyment produktów
+      href: /products/

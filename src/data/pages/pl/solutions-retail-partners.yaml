@@ -1,0 +1,97 @@
+meta:
+  title: Program Partnerski SUP Retail | {SITE}
+  description: Hurtowy program partnerski SUP dla detalistów i sklepów sportowych. Pełna linia produktów, opcje dropshippingu, konkurencyjne marże hurtowe 20–35% i niskie MOQ na start.
+hero:
+  tagline: Partnerzy detaliczni
+  title: Sprzedawaj pompowane SUP-y premium<br />z marżami, które się opłacają
+  subtitle: Zostań partnerem detalicznym Afarer — wprowadź na swój rynek najszybciej rosnącą markę SUP z pełnym cennikiem hurtowym, dropshippingiem, profesjonalnymi materiałami marketingowymi i dedykowanym wsparciem.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Deski SUP Afarer wystawione w sklepie detalicznym
+margin_section:
+  title: Marże detaliczne i MOQ
+  subtitle: Hurtowe poziomy cenowe zaprojektowane z myślą o rentowności detalicznej.
+  items:
+    - tier: Podstawowy Partner
+      discount: 20%
+      moq: 500 jednostek/rok
+      margin_note: ~150–250 USD zysku na deskę
+      features:
+        - Dostęp do pełnej linii produktów
+        - Pakiet materiałów marketingowych
+        - Wsparcie e-mail
+        - Dostęp do katalogu produktów
+    - tier: Partner Premium
+      discount: 30%
+      moq: 2 000 jednostek/rok
+      margin_note: ~250–400 USD zysku na deskę
+      features:
+        - Dedykowany opiekun klienta
+        - Wyłączna ochrona terytorialna
+        - Indywidualne wsparcie marketingowe
+        - Pierwszy dostęp do nowych produktów
+        - Szkolenia dla pracowników
+    - tier: Partner flagowy
+      discount: 35%
+      moq: 5 000 jednostek/rok
+      margin_note: ~350–500 USD zysku na płytce
+      features:
+        - Wspólne kampanie marketingowe
+        - Wsparcie ekspozycji w sklepie
+        - Szkolenie personelu na miejscu
+        - Wspólne promocje w mediach społecznościowych
+        - Priorytetowa alokacja produkcji
+product_line:
+  title: Kompletna linia produktów
+  subtitle: Deska SUP dla każdego klienta, który przekroczy Twoje drzwi.
+  items:
+    - name: All-Round Series
+      description: Bestseller — pasuje do 80% klientów
+    - name: Touring Series
+      description: Paddleboarderzy wyczynowi — wyższa marża
+    - name: Yoga Series
+      description: Rynek niszowy — ceny premium
+    - name: Kids Series
+      description: Klienci rodzinni — powracający kupujący
+    - name: Racing Series
+      description: Rynek entuzjastów — aureola marki
+    - name: Accessories
+      description: Dodatki o wysokiej marży (wiosła, kamizelki, pompy, torby)
+catalog:
+  title: Zasoby partnera detalicznego
+  subtitle: Pobierz nasz kompleksowy zestaw dla partnerów detalicznych.
+  items:
+    - name: 2026 Product Catalog
+      desc: Pełna oferta wraz ze specyfikacjami, cenami i informacjami o zamówieniach
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Kalkulator marży, wskazówki merchandisingowe i najlepsze praktyki
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Zdjęcia produktów w wysokiej rozdzielczości, zdjęcia lifestyle'owe i materiały POS
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Wsparcie partnerów detalicznych
+  subtitle: Wszystko, czego potrzebujesz, aby sprzedawać pewnie.
+  items:
+    - Wysokiej rozdzielczości zdjęcia produktów (profesjonalna fotografia)
+    - Zdjęcia lifestyle'owe do mediów społecznościowych, strony internetowej i katalogu
+    - Materiały marketingowe — plakaty, wieszaki na półki, banery
+    - Filmy szkoleniowe o produktach dla edukacji personelu
+    - Pakiet treści do mediów społecznościowych (cotygodniowe posty)
+    - Opisy produktów zoptymalizowane pod kątem SEO
+    - Opcja dropshippingu dostępna — brak ryzyka związanego z magazynowaniem
+    - Warunki płatności netto 30 dni
+cta:
+  title: Gotowy, aby zostać partnerem detalicznym Afarer?
+  subtitle: Złóż wniosek o partnerstwo lub pobierz nasz katalog detaliczny, aby zacząć.
+  actions:
+    - text: Złóż wniosek o partnerstwo
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Pobierz katalog detaliczny
+      href: /resources/download-catalog/
+      variant: secondary

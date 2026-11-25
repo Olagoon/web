@@ -1,0 +1,66 @@
+meta:
+  title: Rozwiązania dla Floty Wynajmu SUP | {SITE}
+  description: Deski SUP o wysokiej rotacji, zaprojektowane do codziennego wynajmu. PVC odporny na promieniowanie UV, wzmocnione szwy, szybkoschnące materiały. Rozwiń swój biznes wynajmu z Afarer.
+hero:
+  tagline: Operatorzy wynajmu
+  title: Rozwijaj swój biznes wynajmu<br />Z pewnością siebie
+  subtitle: Deski SUP o wysokiej rotacji zaprojektowane do codziennego wynajmu, 365 dni w roku. Twoje przychody nigdy nie biorą dnia wolnego.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Zajęty kiosk wynajmu z deskami SUP gotowymi dla gości
+features:
+  title: Stworzony do wynajmu
+  subtitle: Każda deska jest zaprojektowana na 500 cykli wynajmu przy minimalnej konserwacji.
+  items:
+    - title: 500 Wynajem Rowerów
+      description: Przetestowano pod kątem wytrzymałości przy codziennym użytkowaniu w słonej wodzie, słońcu i piasku.
+      icon: tabler:shield-check
+    - title: Tkanina odporna na promieniowanie UV
+      description: Brak blaknięcia ani degradacji po 1 roku przechowywania na zewnątrz.
+      icon: tabler:sun
+    - title: Wzmocnione szwy
+      description: 3 razy mocniejsza niż standardowa konstrukcja dmuchanej deski.
+      icon: tabler:layers-intersect
+    - title: Materiały szybkoschnące
+      description: Deski gotowe do kolejnego wynajmu w mniej niż 30 minut.
+      icon: tabler:droplet
+    - title: Stosowalne pojemniki do przechowywania
+      description: Kompaktowa konstrukcja — przechowuj o 40% więcej desek w tej samej przestrzeni.
+      icon: tabler:stack
+    - title: Rozmiary kodowane kolorami
+      description: Personel natychmiast chwyta odpowiednią tablicę według kodowania kolorami rozmiarów.
+      icon: tabler:color-swatch
+stats:
+  title: Metryki operacyjne
+  stats:
+    - title: Rotacja zarządu
+      amount: < 5 minut
+    - title: Coroczna konserwacja
+      amount: ~15 min/deska
+    - title: Wysyłka części
+      amount: 48 godz.
+    - title: Wskaźnik wadliwości
+      amount: < 0,5%
+fleet_guide:
+  title: Przewodnik po wielkości floty
+  subtitle: Oszacuj wielkość floty i potencjał przychodowy dla Twojej działalności wynajmu.
+  tiers:
+    - label: Mały kiosk
+      boards: 15-20
+      revenue: $XX,XXX/rok
+    - label: Operacja średniej wielkości
+      boards: 30-50
+      revenue: $XX,XXX/rok
+    - label: Duży wynajem przy plaży
+      boards: 50-100
+      revenue: $XXX,XXX/rok
+cta:
+  title: Gotowy, aby rozwijać swój biznes wynajmu?
+  subtitle: Uzyskaj ceny wynajmu lub porównaj modele desek dla swojej działalności.
+  actions:
+    - text: Sprawdź ceny wynajmu
+      href: /contact/?package=rental
+      variant: primary
+    - text: Porównaj modele płyty
+      href: /compare/
+      variant: secondary

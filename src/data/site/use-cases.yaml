@@ -1,0 +1,48 @@
+cases:
+  - id: beginner
+    title: Beginner Water Sports
+    desc: Stable SUP boards for first-time users.
+    scenario: >-
+      A family visiting a lake for the weekend wants to try paddle boarding.
+      They need stable, easy-to-launch equipment with clear safety guidance.
+    solution: >-
+      The SUP Explorer 11 provides wide-body stability for beginners. The Life
+      Vest Classic ensures CE-certified flotation. The Dual-Action Pump inflates
+      both boards in about 15–20 minutes.
+    products:
+      - SUP Explorer 11
+      - Life Vest Classic
+      - Dual-Action Pump
+    image: https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp
+
+  - id: outdoor
+    title: Outdoor Exploration
+    desc: Portable SUP boards for rivers, lakes, and coastal trips.
+    scenario: >-
+      An outdoor enthusiast plans a week-long river trip and needs a board that
+      packs small, inflates at camp, and handles varying currents.
+    solution: >-
+      The SUP Explorer 11 packs into a backpack and inflates in about 8–12 minutes with the
+      included Dual-Action Pump. Its
+      drop-stitch construction handles lakes, slow rivers, and coastal paddling.
+    products:
+      - SUP Explorer 11
+      - Carbon Paddle
+      - Life Vest Classic
+    image: https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-app-1-1200w.webp
+
+  - id: family
+    title: Family Recreation
+    desc: Stable SUP boards for day trips and watersports.
+    scenario: >-
+      A family of four wants stable SUP boards for weekend lake outings and
+      paddling together.
+    solution: >-
+      The SUP Explorer 11 provides stable, wide-body boards for all ages. The
+      Life Vest Classic keeps everyone safe. The Dual-Action Pump inflates
+      all boards in about 15–20 minutes.
+    products:
+      - SUP Explorer 11
+      - Life Vest Classic
+      - Dual-Action Pump
+    image: https://assets.afarer.com/images/afarer/products/sup-series/sup-cheetah-surge-1-1200w.webp

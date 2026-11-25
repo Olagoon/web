@@ -1,0 +1,68 @@
+meta:
+  title: 'Laboratorio di Qualità — Test e Garanzia di Qualità | {SITE}'
+  description: 'Laboratorio di qualità indipendente con processi ISO 9001 in afarer: ogni unità testata prima della spedizione per garantire la qualità dei SUP gonfiabili.'
+  keywords:
+    - 'controllo qualità SUP'
+    - 'laboratorio test paddle board'
+    - 'fabbrica SUP ISO 9001'
+    - 'qualità SUP gonfiabile'
+hero:
+  tagline: Laboratorio di controllo qualità
+  title: Laboratorio di Collaudo e Garanzia Qualità
+  subtitle: Laboratorio di qualità indipendente con processi ISO 9001 — ogni unità testata prima della spedizione
+intro: >-
+  Afarer gestisce un laboratorio di controllo qualità dedicato che opera in modo indipendente dalla produzione. Ogni lotto di materie prime e ogni tavola finita passa attraverso protocolli di ispezione documentati prima del rilascio. Il nostro team di QC riporta direttamente alla direzione,
+  garantendo decisioni sulla qualità imparziali.
+highlights:
+  - value: 100%
+    label: Unità sottoposte a collaudo di pressione
+    detail: Ogni camera, ogni tavola
+  - value: 24–48 h
+    label: Durata del test di tenuta all'aria
+    detail: A 1,25× la pressione nominale
+  - value: <5%
+    label: Caduta di pressione massima consentita
+    detail: Periodo di attesa di 24–48 ore
+  - value: AQL 2,5
+    label: Soglia di difetto maggiore
+    detail: Per campionamento ISO 2859
+test_procedures:
+  - title: Ispezione delle materie prime
+    description: >-
+      Ogni lotto in arrivo di PVC, tessuto drop-stitch e componenti hardware viene testato prima dell'accettazione. Vengono verificati la resistenza a trazione (ASTM D751), la resistenza allo strappo (ISO 4674) e la resistenza ai raggi UV. I materiali non conformi vengono messi in quarantena e
+      restituiti.
+    standards:
+      - ASTM D751 (trazione)
+      - ISO 4674 (strappo)
+      - ISO 4892 (UV)
+  - title: Punti di Controllo QC in Processo
+    description: Gli operatori di produzione eseguono l'auto-ispezione a ogni fase. Gli auditor QC eseguono campionamenti casuali durante tutto il turno. I test di scollamento delle saldature vengono eseguiti ogni 50 unità. I controlli dimensionali avvengono su ogni 20° pannello.
+    standards:
+      - ASTM D751 (strappo)
+      - Lista di controllo interna a 100 punti
+      - campionamento ISO 2859
+  - title: Test di Ritenzione dell'Aria di 24–48 Ore
+    description: Ogni camera del tubo viene gonfiata al 125% della pressione nominale e mantenuta per 24–48 ore. I sensori di pressione registrano continuamente con compensazione della temperatura. Qualsiasi camera che supera una perdita di pressione del 5% attiva il riesame automatico del lotto.
+    standards:
+      - EN ISO 25649
+      - CE 2013/53/UE
+  - title: Test di carico e bilanciamento
+    description: Le tavole completate vengono testate alla massima capacità nominale per stabilità e rigidità. Ogni tavola viene sottoposta a test in acqua prima dell'approvazione dell'ispezione finale.
+    standards:
+      - ISO 12217
+      - CE 2013/53/UE
+equipment:
+  - name: Macchina universale di prova (trazione)
+    spec: 5 kN, conforme a ASTM D751
+  - name: Pressure Decay Tester
+    spec: Multicanale, 0–50 psi, registrazione dati
+  - name: UV Weathering Chamber
+    spec: ISO 4892, cicli di 1.000 ore
+  - name: Misuratore di spessore (digitale)
+    spec: Risoluzione di 0,01 mm
+  - name: Peel Tester (weld)
+    spec: Motorizzato, capacità 50 N
+  - name: Temperature Chamber
+    spec: '-40 °C a 100 °C'
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, illuminato

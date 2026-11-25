@@ -1,0 +1,180 @@
+meta:
+  title: 'Förtroende — kvalitet, standarder & rykte | {SITE}'
+  description: 'Varför lita på afarer: CE- och ISO-certifieringar, integrerad fabrik, globala referenser och garanti. En professionell tillverkare av uppblåsbara SUP:ar.'
+  keywords:
+    - 'pålitlig SUP-tillverkare'
+    - 'certifierad paddle board fabrik'
+    - 'tillförlitlig SUP-leverantör'
+    - 'certifierad SUP-fabrik'
+hero:
+  tagline: Byggt enligt standarder som betyder något
+  title: Lita på afarer
+  subtitle: |
+    Varje produkt vi bygger är CE-certifierad — testad för säkerhet,<br />
+    hållbarhet och prestanda. Inga genvägar. Inga undantag.
+  taglineSection: Certifierad. Testad. Bevisad.
+  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+  imageAlt: afarer-produkt genomgår kvalitetstestning
+stats:
+  title: afarer i siffror
+  stats:
+    - title: CE-certifierad
+      description: Alla rekreationsprodukter uppfyller EU:s säkerhetsstandarder
+    - title: ISO 9001
+      description: Kvalitetsledningssystem sedan 2012
+    - title: BSCI och REACH
+      description: Etisk tillverkning och materialefterlevnad
+    - title: 3 års garanti
+      description: På varje afarer-produkt — utan frågor
+features3_certifications:
+  title: Certifieringar och efterlevnad
+  subtitle: Varje produkt är oberoende testad och certifierad enligt internationella standarder.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: CE-certifiering
+      description: Alla afarer SUP uppfyller den europeiska CE-säkerhetsstandarden för fritidsbruk. Varje produkt genomgår tryck-, flyt- och lasttestning innan den lämnar fabriken.
+      icon: tabler:certificate
+    - title: ISO 9001
+      description: Vår 12.000 m² Qingdao-anläggning arbetar under ett kvalitetsledningssystem enligt ISO 9001. Varje produktionsbatch är spårbar, dokumenterad och inspekterad.
+      icon: tabler:clipboard-check
+    - title: BSCI social efterlevnad
+      description: Vi är BSCI-certifierade, vilket säkerställer etiska arbetsmetoder, säkra arbetsförhållanden och miljöansvar i hela vår leveranskedja.
+      icon: tabler:users
+    - title: REACH och RoHS
+      description: Alla material — PVC, EVA-skum, lim — uppfyller EU:s REACH- och RoHS-föreskrifter. Inga begränsade ämnen, inga kompromisser.
+      icon: tabler:flask
+    - title: Materialtestningslaboratorium
+      description: Internt materiallaboratorium testar dragstyrka, UV-beständighet, sömintegritet och nötning för varje tygbatch före produktion.
+      icon: tabler:microscope
+    - title: 3 års garanti
+      description: Varje afarer-produkt levereras med tre års garanti mot tillverkningsfel. Vi står för det vi bygger.
+      icon: tabler:shield-check
+testimonials:
+  tagline: Kundförtroende
+  title: Vad våra kunder säger
+  subtitle: Från förstagångspaddlare till professionella flottoperatörer — se varför de litar på afarer.
+  items:
+    - content: Vi utrustade hela vår uthyrningsflotta med afarer SUP. Två säsonger in, noll fel. CE-certifieringen gjorde försäkringsgodkännande sömlöst.
+      name: Marco V.
+      title: Turarrangör, Kroatien
+    - content: Som förstagångsköpare var jag nervös för kvaliteten. ISO-dokumentationen och testrapporterna de delade gav mig fullt förtroende.
+      name: James T.
+      title: SUP Explorer 11-ägare, Kanada
+    - content: Vi samarbetar med afarer för våra kustpatruljenheter. Deras QC-process är konsekvent över varje batch — den pålitligheten betyder något i uppdragskritiska operationer.
+      name: Lt. Cmdr. Andres
+      title: Statlig upphandling, Filippinerna
+steps2_manufacturing:
+  title: Hur vi säkerställer kvalitet
+  subtitle: Från råvaruinspektion till slutlig trycktestning — varje produkt genomgår en rigorös kvalitetskedja.
+  items:
+    - title: Råvaruinspektion
+      description: Varje rulle PVC-tyg testas för tjocklek, dragstyrka och UV-beständighet innan den går in i produktion.
+      icon: tabler:search
+    - title: Pågående QC
+      description: Svetsfogar, ventilinstallationer och kammaranslutningar inspekteras vid varje station under montering.
+      icon: tabler:eye
+    - title: Trycktestning
+      description: Varje uppblåsbar produkt pumpas upp till 1,25x nominellt PSI och hålls i 24–48 timmar för att verifiera luftretention och sömintegritet.
+      icon: tabler:wind
+    - title: Slutinspektion
+      description: Varje enhet inspekteras för finish, hårdvara och förpackning innan den godkänns för leverans. Batchprover går till vårt laboratorium för destruktiv testning.
+      icon: tabler:clipboard-check
+factory_audit:
+  title: Fabriksgranskning och social efterlevnad
+  subtitle: Vår 12 000 m² anläggning i Qingdao står öppen för tredjepartsrevisioner. Vi bibehåller BSCI-certifiering för socialt ansvar och välkomnar kunders besiktningar.
+  stats:
+    - value: 12 000 m²
+      label: Produktionsanläggning
+    - value: 200+
+      label: Skickliga arbetare
+    - value: 15 000+
+      label: Årlig enhetskapacitet
+    - value: BSCI
+      label: Social efterlevnad
+  highlights:
+    - title: BSCI-certifierad
+      desc: amfori BSCI-certifiering för social efterlevnad — etisk arbetsmiljö, säkra förhållanden, miljöansvar.
+      link: /certifications/
+    - title: Öppet för inspektion
+      desc: Vi välkomnar kunders fabriksrevisioner. Boka en besökning eller en virtuell rundtur i våra tillverkningslinjer i Qingdao.
+      link: /factory/
+    - title: Fullständig spårbarhet
+      desc: Varje produktionsatsning dokumenteras och kan spåras — från råmaterialpartier till slutlig QC-godkännande.
+    - title: ISO 9001:2015
+      desc: Kvalitetshanteringssystem certifierat av SGS. Våra processer uppfyller internationella tillverkningsstandarder.
+      link: /certifications/
+warranty_section:
+  title: Garanti och eftersäljningsstöd
+  subtitle: Vi står bakom varje produkt med tydliga garantivillkor, snabb reklamationshantering och äkta reservedelar.
+  items:
+    - title: 3-års produktgaranti
+      desc: Alla Afarer-produkter har 3 års garanti mot tillverkningsfel – sömmisslyckanden, ventilfel och materialdelaminering under normal användning.
+    - title: Livstidsstöd för delar
+      desc: Äkta reservdelar — ventiler, reparationssatser, fenor, D-ringar — tillgängliga för alla modeller. Vi underhåller formar och verktyg i minst 5 år efter produktionsavslutning.
+    - title: 48-timmars reklamationsvar
+      desc: Garantianmälan bekräftas inom 48 timmar. Ersättningsbrädor skickas inom 10 arbetsdagar för godkända ärenden.
+    - title: Globalt reparationssnätverk
+      desc: Auktoriserade reparationsservicecenter i 15+ länder. Reparationskit tillgängliga för fjärran verksamheter. Självgörande reparationsguider för mindre skador.
+    - title: OEM-kundsupport
+      desc: Dedikerade kontoansvariga för B2B-partner. Kvartalsvis affärsgranskning, lagerplanering och gemensam marknadsföringsstöd.
+    - title: Certifieringspaket
+      desc: Komplett efterlevnadsdokumentation medföljer varje leverans — CE-förklaring, provningsrapporter, material säkerhetsdatablad.
+      link: /contact/
+trust_resources:
+  title: Tillitsresurser
+  subtitle: Ladda ner vårt certifieringsportfölj, QC-rapporter och efterlevnadsdokumentation.
+  items:
+    - title: Certifieringsportfölj
+      desc: CE, ISO 9001, BSCI, REACH, RoHS, AS 1799-certifikat i ett enda paket.
+    - title: QC-testningsstandarderapport
+      desc: 24–48-timmars tryckhållningstester, UV-åldrande enligt ISO, draghållfasthetsvalidering — komplett metodik.
+    - title: Fabriksprofil och revisionsrapport
+      desc: Översikt över 12 000 m² anläggning med produktionslinjefoton och sammanfattning av tredjepartsrevision.
+    - title: Garantipolicydokument
+      desc: Fullständiga garantivillkor, reklamationsprocess och prislista för reservdelar.
+  cta_text: Begär pålitlighetsresurser
+  cta_link: /contact/
+faqs_sup:
+  title: SUP-brädor FAQ
+  subtitle: Vanliga frågor om våra paddleboard.
+  columns: 2
+  items:
+    - title: Vilka SUP-brädstorlekar finns tillgängliga?
+      description: Vi erbjuder SUP-brädor från 9 ft till 12 ft, inklusive all-round, touring, yoga och specialdesigner. Våra bästsäljande modeller inkluderar Tropical Breeze (10 ft) och Ocean Voyager (11 ft).
+    - title: Vad är drop-stitch-konstruktion?
+      description: Drop-stitch-konstruktion använder tusentals polyestertrådar som ansluter brädets topp- och bottenlager, vilket gör att det kan hålla högt lufttryck (15–20 PSI) och uppnå en styv, stabil plattform. Detta är industristandarden för premium uppblåsbara SUP.
+    - title: Vad är viktgränsen för SUP-brädor?
+      description: Våra SUP-brädor stödjer upp till 150 kg beroende på modell och volym. Leviathan Wake är vår modell med högst kapacitet, designad för större användare och yogabruk.
+    - title: Erbjuder du kompletta SUP-paket?
+      description: Ja. Varje SUP-bräde levereras med ett komplett paket inklusive 3-delad aluminiumpaddel, högtrycks handpump, spiralkoppel, reseryggsäck och reparationssats. Vissa modeller inkluderar även ett avtagbart fen-set.
+    - title: Vad är garantin på SUP-brädor?
+      description: Alla afarer SUP-brädor har tre års garanti mot tillverkningsfel, inklusive sömfel, ventilfel och materialdelaminering under normal användning.
+    - title: Hur lång tid tar det att pumpa upp ett SUP-bräde?
+      description: Med den medföljande handpumpen tar full uppumpning till 15 PSI cirka 8–12 minuter. För snabbare uppumpning rekommenderar vi vår afarer 12V elektriska pump, som pumpar upp ett bräde på under 4 minuter.
+faqs_materials:
+  title: SUP-material och skötsel – Vanliga frågor
+  subtitle: Vanliga frågor om våra uppblåsbara SUP-material, skötsel och lagring.
+  columns: 2
+  items:
+    - title: Vilka material används i Afarers uppblåsbara SUP-brädor?
+      description: Vi använder militärklassad PVC (1 100 denier) med UV-stabiliserad, slitstark konstruktion, i enlighet med EU REACH- och RoHS-förordningarna.
+    - title: Hur länge håller uppblåsbara SUP-brädor?
+      description: Med rätt underhåll varar en uppblåsbar kvalitets-PVC-SUP i 5–10 år. Regelmässig rengöring, UV-skydd och korrekt förvaring förlänger avsevärt livslängden.
+    - title: Vilket underhåll krävs för en oppblåsbar SUP?
+      description: Grundunderhåll innebär sköljning med färskt vatten efter varje användning (särskilt i saltvatten), torkning innan förvaring, årlig kontroll av ventiltätningar och undvikande av långvarig solexponering vid icke-användning.
+    - title: Kan uppblåsbara SUP:er användas i saltvatten?
+      description: Ja. Alla afarer uppblåsbara SUP:ar är designade för användning i både sötvatten och saltvatten. Vi rekommenderar att skölja med rent vatten och torka noggrant efter saltvattensexponering.
+    - title: Hur förvarar jag en uppblåsbar SUP?
+      description: Töm, rengör och torka brädan helt före lagring. Rulla löst (undvik strama veck), förvara i ett svalt, torrt rum bortom direkt solljus och håll bort från betonggolv för att hindra fuktabsorption.
+    - title: Vilken viktkapacitet har afarer inflerbara SUP-brädor?
+      description: Viktkapaciteten varierar från 100 kg för våra minsta modeller till över 200 kg för större brädor. Varje produktsida anger maximala lastkapaciteten för din specifika modell.
+cta:
+  title: Vill du se certifieringarna själv?
+  subtitle: Begär vår certifieringsportfölj, fabriksrevisionsrapporter eller materialefterlevnadsdokumentation. Ingen NDA krävs.
+  actions:
+    - variant: primary
+      text: Begär certifieringsdokument
+      href: /contact/
+    - text: Besök vår fabrikssida
+      href: /factory/

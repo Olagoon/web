@@ -1,0 +1,110 @@
+meta:
+  title: Fabricação de SUP de Marca Própria | {SITE}
+  description: Lance sua própria marca de SUP com a Afarer. Da ideia ao mercado — serviço completo de OEM/ODM incluindo design, prototipagem, produção e logística global.
+hero:
+  tagline: Construa Sua Própria Marca
+  title: Lance Sua Própria<br />Marca de SUP
+  subtitle: Você tem a visão. Nós temos a fábrica, a experiência e a cadeia de suprimentos. Juntos, construiremos uma marca que se destaca.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Prancha de SUP personalizada com marca na água
+process:
+  title: A Jornada da Sua Marca
+  subtitle: Da ideia ao mercado em 5 fases.
+  steps:
+    - phase: Fase 1
+      title: Ideia
+      period: Semana 1-2
+      items:
+        - Pesquisa de mercado e análise da concorrência
+        - Definição do cliente-alvo
+        - Oficina de posicionamento de marca
+        - Estratégia de linha de produtos
+    - phase: Fase 2
+      title: Design
+      period: Semana 3-6
+      items:
+        - Formato da prancha e design gráfico
+        - Combinação de cores e seleção de materiais
+        - Especificação do acessório
+        - Design de embalagem e rótulo
+    - phase: Fase 3
+      title: Protótipo
+      period: Semana 7-10
+      items:
+        - Produção de amostra
+        - Teste de qualidade (pressão, flutuabilidade, UV)
+        - Ajustes de design
+        - Aprovação final
+    - phase: Fase 4
+      title: Produção
+      period: Semana 11-14
+      items:
+        - Fabricação em massa
+        - Inspeção de QC (por unidade)
+        - Frete marítimo / frete aéreo
+        - Documentos de desembaraço aduaneiro
+    - phase: Fase 5
+      title: Lançar
+      period: Semana 15-16
+      items:
+        - Fotografia de produto
+        - Feed de produtos do site
+        - Materiais de marketing
+        - Suporte de lançamento
+packages:
+  title: Pacotes de Inicialização
+  subtitle: Pacotes projetados para cada estágio do crescimento da marca.
+  items:
+    - name: Starter Brand
+      tagline: 50-100 unidades · 2 modelos de placa
+      features:
+        - Impressão básica de logotipo
+        - Embalagem padrão
+        - Suporte por e-mail
+    - name: Growing Brand
+      tagline: 300-1.000 unidades · 3-5 modelos de placa
+      features:
+        - Logo de cor personalizada
+        - Embalagem personalizada
+        - Fotos do produto
+        - Gerente dedicado
+    - name: Established Brand
+      tagline: 1.000 unidades · Linha completa de produtos
+      features:
+        - Personalização completa
+        - Embalagem premium
+        - Materiais de marketing
+        - Produção prioritária
+features:
+  title: Por Que as Marcas Escolhem a Afarer
+  subtitle: 10 anos de experiência em OEM, certificação completa e o menor MOQ do setor.
+  items:
+    - title: 10 Anos de Experiência como OEM
+      description: 2.400 cascos entregues a marcas em todo o mundo.
+      icon: tabler:clock
+    - title: Certificação Completa
+      description: CE / ISO / UKCA / BSCI / REACH — todos certificados.
+      icon: tabler:certificate
+    - title: Prazo de 30 dias
+      description: Mais rápido que a média do setor do pedido ao envio.
+      icon: tabler:truck-delivery
+    - title: Baixo MOQ
+      description: A partir de 50 unidades — o menor da indústria.
+      icon: tabler:package
+    - title: Design Interno
+      description: Apoio completo ao design, do conceito à arte final.
+      icon: tabler:palette
+    - title: Logística Global
+      description: Frete marítimo, frete aéreo e suporte para desembaraço aduaneiro.
+      icon: tabler:world
+cta:
+  title: Pronto para lançar sua marca?
+  subtitle: Comece sua jornada de marca ou baixe nosso guia OEM.
+  actions:
+    - text: Comece Sua Jornada de Marca
+      href: /contact/?package=oem
+      variant: primary
+    - text: Baixar Guia OEM
+      href: /resources/download-catalog/
+      variant: secondary

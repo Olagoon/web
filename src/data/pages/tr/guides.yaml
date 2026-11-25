@@ -1,0 +1,25 @@
+meta:
+  title: 'SUP Rehberleri — Satın al, seç, antrenman yap | {SITE}'
+  description: "afarer'ın SUP rehberleri: paddleboard'ı nasıl satın alacağınız, seçeceğiniz ve antrenman yapacağınız. Yeni başlayanlar ve profesyoneller için boyutlar, malzemeler ve uzman ipuçları."
+  keywords:
+    - 'SUP satın alma rehberi'
+    - 'SUP nasıl seçilir'
+    - 'SUP boyut rehberi'
+    - 'şişme paddle board ipuçları'
+hero:
+  tagline: Rehberler
+  title: SUP'a yeni mi başladınız?
+  subtitle: Şişme SUP board seçimini, kullanımını ve keyfini çıkarmasını yardımcı olacak pratik kılavuzlar.
+size_guide:
+  tagline: Boyut ve Teknik Özellikler
+  title: İhtiyacınız İçin Doğru Boyutu Bulun
+  desc: SUP tahta boyutlarını, ağırlık kapasitelerini ve önerilen kullanımları karşılaştırın. Bir tur SUP'ı, yoga tahtası veya çok amaçlı bir SUP'a ihtiyacınız olsun — boyut rehberimiz doğru seçimi yapmanıza yardımcı olur.
+  link_label: Ürün özellikleriyle tam boyut rehberi —
+  link: /size-guide/
+  cards:
+    - title: SUP Boardları
+      desc: Ağırlığınıza ve kullanım amacınıza göre uzunluk seçin. Daha geniş tahtalar (32"+) daha fazla denge sağlar. Daha uzun tahtalar (11–12 ft) gezi için daha iyi iz takibi sağlar.
+    - title: Gezi SUP'ları
+      desc: Daha uzun tahtalar (11–12 ft) mesafe kat etmek ve düz iz sürmek için. Ekipmanla tur için yeterince stabil. Her zaman ağırlık kapasitesini kontrol edin.
+    - title: Çok Amaçlı SUP'lar
+      desc: Uzunluğu binicinin ağırlığına ve kullanım amacına göre seçin. Daha geniş boardlar (32"+) stabilite sağlar. Rekreasyon ve fitness için çok yönlüdür.

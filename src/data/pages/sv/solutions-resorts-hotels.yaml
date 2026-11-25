@@ -1,0 +1,111 @@
+meta:
+  title: Resort SUP-flottlösningar | {SITE}
+  description: Kompletta SUP-flottelösningar för resorter och hotell. Kommersiella brädor, anpassad märkning, personalutbildning och ROI-optimerade paket från 20 till 100+ brädor.
+hero:
+  tagline: Resorts och hotell
+  title: Förvandla din strandfront till ett intäktscenter<br />med premium SUP-flottor
+  subtitle: Afarer utrustar resorts världen över med uppblåsbara SUP-flottor i kommersiell kvalitet – från startpaket med 20 tavlor till flagship-program med 100+ tavlor. Skräddarsydd varumärkesprofil, personalutbildning och reservdelar ingår.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Resortgäster som njuter av SUP-på en orörd strand
+roi_section:
+  title: Resortens SUP-intäktsmodell
+  subtitle: Hur resorts generar $50 000–$200 000+ årlig SUP-uthyrningsinkomst med en enda investering.
+  metrics:
+    - metric: $50K–$200K+
+      label: Årlig SUP-intäkt
+      detail: Per resort, baserat på flottans storlek och beläggning
+    - metric: 4–6 månader
+      label: Genomsnittlig återbetalningstid
+      detail: Återhämta hela flottinvesteringen inom en säsong
+    - metric: 40%
+      label: Intäktsökning
+      detail: Genomsnittlig förbättring efter byte till Afarer-flottor
+    - metric: 500+
+      label: Uthyrningscykler per bräda
+      detail: Kommersiell hållbarhet för dagligt bruk
+packages:
+  title: Resortpaketssystem
+  subtitle: Välj det paket som passar din gästkapacitet och dina intäktsmål. Alla paket innehåller 12 månaders garanti och CE-certificering.
+  items:
+    - name: Startpaket
+      tagline: För boutique-resorts, upp till 20 gäster/dag
+      features:
+        - 20 SUP-tavlor (3 storlekar för vuxna/barn)
+        - 20 paddlar (justerbara) + 20 flytvästar
+        - 4 dubbelverkande pumpar (elektriskt valfritt)
+        - 2 förvaringsställ + reparationskit
+        - Eget logotryck på tavlor
+        - 12 månaders garanti + CE-certifierad
+      revenue: $50K–$80K potentiell årlig intäkt
+      cta_text: Skaffa startpaket
+    - name: Premium-paket
+      tagline: För stora resorts, 50-100 gäster/dag
+      features:
+        - 50 SUP-tavlor (5 storlekar, blandad flotta)
+        - 50 paddlar + 50 livsvästar
+        - 10 dubbelverkande pumpar + 2 elektriska pumpar
+        - 5 förvaringsställ + 2 rullvagnar
+        - Fullständig varumärkesprofil (tavlor, paddlar, väskor)
+        - Personalutbildning (online)
+        - Reservedelsutskick inom 48 timmar
+        - 12 månaders garanti + CE-certifierad
+      revenue: $120 000–$200 000+ i årlig intäktspotential
+      popular: true
+      cta_text: Skaffa premium-paket
+    - name: Flaggskeppspaket
+      tagline: För ultra-premium-resorts, 100+ gäster/dag
+      features:
+        - 100+ SUP-tavlor (full storleksuppsättning)
+        - Komplett tillbehörssats (paddlar, västar, pumpar, vagnar)
+        - Personalutbildning på plats (2 dagar)
+        - Dedikerad kontoansvarig
+        - Prioriterade reservdelar (24 h expediering)
+        - Fullständig varumärkesprofil (tavlor + tillbehör)
+        - Marknadsfoto- och videopaket
+        - 24 månaders garanti + CE-certifierad
+      revenue: $200K+ potentiell årsintäkt
+      cta_text: Skaffa Flaggskeppspaket
+case_study:
+  quote: Sedan vi bytte till Afarer har vår SUP-uthyrningsintäkt ökat med 40 %. Kostnaderna för bräduppsättning minskade med 60 %. Vi återfick hela flottinvesteringen på 4 månader.
+  author: Vattenaktivitetsansvarig
+  location: 5-stjärnig resort, Maldiverna
+  results:
+    - label: Intäktsökning
+      value: +40 %
+    - label: Kostnadssänkning
+      value: '-60 %'
+    - label: Återbetalningstid
+      value: 4 månader
+features:
+  title: Varför resorter väljer Afarer
+  subtitle: Kommersiell hållbarhet, global logistik och en partner som förstår hotellbranschen.
+  items:
+    - title: 500+ uthyrningscykler
+      description: Varje bräda testas för att klara 500+ uthyrningscykler i havsvatten, sol och sand.
+      icon: tabler:shield-check
+    - title: 48 timmars delarutskick
+      description: Reservedelsfrakt inom 48 timmar — din uthyrningsinkomst stoppas aldrig.
+      icon: tabler:truck-delivery
+    - title: Anpassat varumärke
+      description: Anpassa ditt resort-utseende med anpassade färger och logotyp på varje bräda.
+      icon: tabler:palette
+    - title: Personalutbildning
+      description: Online- och platsbundna utbildningsprogram för ditt aktivitetsteam.
+      icon: tabler:school
+    - title: Global logistik
+      description: Frakt till 50+ länder med konsoliderade fraktalternativ.
+      icon: tabler:world
+    - title: CE-certifierad
+      description: All utrustning CE-certifierad, ISO 9001:2015 — säkerhet och kvalitet garanterade.
+      icon: tabler:certificate
+cta:
+  title: Redo att förvandla din strandfront till ett intäktscenter?
+  subtitle: Få offert på ditt resortpaket eller ladda ner vår kompletta resortkatalog.
+  actions:
+    - text: Skaffa resortpaket
+      href: /contact/?package=resort
+      variant: primary
+    - text: Ladda ned resortkatalog
+      href: /resources/download-catalog/
+      variant: secondary

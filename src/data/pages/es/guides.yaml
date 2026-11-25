@@ -1,0 +1,25 @@
+meta:
+  title: 'Guías de SUP — Comprar, Elegir, Practicar | {SITE}'
+  description: 'Guías de SUP de afarer: cómo comprar, elegir y practicar paddle surf. Tallas, materiales y consejos de expertos para principiantes y profesionales.'
+  keywords:
+    - 'guía de compra de SUP'
+    - 'cómo elegir SUP'
+    - 'guía de tallas de SUP'
+    - 'consejos de paddle surf hinchable'
+hero:
+  tagline: Guías
+  title: ¿Nuevo en SUP?
+  subtitle: Guías prácticas para ayudarte a elegir, usar y disfrutar de las tablas SUP inflables.
+size_guide:
+  tagline: Tamaño y especificaciones
+  title: Encuentra el tamaño adecuado para tus necesidades
+  desc: Compara las dimensiones de las tablas de SUP, las capacidades de peso y los usos recomendados. Ya sea que necesites un SUP de turismo, una tabla de yoga o un SUP polivalente, nuestra guía de tallas te ayuda a elegir la opción adecuada.
+  link_label: Guía de tamaño completo con especificaciones del producto →
+  link: /size-guide/
+  cards:
+    - title: Tablas de SUP
+      desc: Elige la longitud según tu peso y el uso previsto. Las tablas más anchas (32") ofrecen más estabilidad. Las tablas más largas (11–12 pies) son mejores para el turismo.
+    - title: SUPs de turismo
+      desc: Tablas más largas (11–12 pies) para cubrir distancias y mantener la trayectoria recta. Lo suficientemente estables para recorrer con equipo. Siempre verifica la capacidad de peso.
+    - title: SUPs Todo Terreno
+      desc: Elige la longitud según el peso del ciclista y su uso. Tablas más anchas (32") para mayor estabilidad. Versátil para la recreación y el fitness.

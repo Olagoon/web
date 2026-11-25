@@ -1,0 +1,49 @@
+meta:
+  title: Recursos e Downloads B2B | {SITE}
+  description: Baixe guias de fabricação OEM, catálogos de produtos, relatórios de qualidade e calculadoras de ROI para negócios de SUP inflável.
+hero:
+  tagline: Centro de Recursos
+  title: Ferramentas e Recursos<br />Para Parceiros de Negócios SUP
+  subtitle: Baixe guias OEM, catálogos de produtos, relatórios de qualidade e use nossa calculadora de ROI para planejar seu investimento em frota de SUP.
+resources:
+  - title: Catálogo de Produtos OEM/ODM 2026
+    description: Linha completa de produtos com especificações, faixas de preços, quantidade mínima de pedido (MOQ) e opções de personalização para parceiros B2B.
+    icon: tabler:file-text
+    type: catalog
+    link: /media/
+    cta: Baixar Catálogo
+  - title: Guia da Marca de SUP de Marca Própria
+    description: Guia passo a passo para lançar sua própria marca de SUP — desde pesquisa de mercado e design até produção e entrega global.
+    icon: tabler:book
+    type: guide
+    link: /news/private-label-sup-oem-guide/
+    cta: Ler Guia
+  - title: Calculadora de ROI da Frota SUP
+    description: Estime o investimento na frota de SUP do seu resort ou clube, a receita projetada e o período de retorno com nossa calculadora interativa.
+    icon: tabler:calculator
+    type: tool
+    link: '#roi-calculator'
+    cta: Calcular ROI
+  - title: Relatório de Qualidade e Certificação
+    description: Documentos de certificação CE, gestão da qualidade ISO 9001, resultados de testes de envelhecimento UV e dados de teste de retenção de pressão.
+    icon: tabler:certificate
+    type: report
+    link: /evidence/
+    cta: Visualizar Relatórios
+  - title: Catálogo de Capacidade da Fábrica
+    description: Tour virtual de nossa instalação de fabricação de 12.000 m² com detalhes da linha de produção e processos de controle de qualidade.
+    icon: tabler:building-factory
+    type: brochure
+    link: /factory/
+    cta: Fábrica de Turismo
+  - title: Guia de Receita da Frota do Resort
+    description: Análise de ROI da frota comercial de SUP com modelos de precificação, taxas de utilização e resultados de estudo de caso real de resorts 5 estrelas.
+    icon: tabler:chart-bar
+    type: guide
+    link: /news/commercial-sup-fleet-roi-resorts/
+    cta: Ler Guia
+cta:
+  title: Precisa de ajuda para encontrar o recurso?
+  subtitle: Contacte nossa equipe para orientação sobre produtos, OEM ou especificações.
+  button: Contatar a Equipe de Vendas
+  link: /contact/?source=resources

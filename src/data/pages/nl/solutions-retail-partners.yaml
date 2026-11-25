@@ -1,0 +1,97 @@
+meta:
+  title: SUP Retail Partner Programma | {SITE}
+  description: SUP-groothandelspartnerprogramma voor detailhandelaren en sportwinkels. Volledig productassortiment, dropshipping-opties, concurrerende groothandelsmarges van 20–35% en lage MOQ om te starten.
+hero:
+  tagline: Detailhandelpartners
+  title: "Verkoop premium opblaasbare SUP's<br />met marges die werken"
+  subtitle: Word detailhandelpartner van Afarer — voer het snelst groeiende SUP-merk in uw markt met volledige groothandelsprijzen, dropshipping, professionele marketingmaterialen en toegewijde ondersteuning.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Afarer SUP-boards die in een winkel worden tentoongesteld
+margin_section:
+  title: Retailmarges & MOQ
+  subtitle: Groothandelsprijsniveaus ontworpen voor detailhandelsrendement.
+  items:
+    - tier: Basispartner
+      discount: 20%
+      moq: 500 eenheden/jaar
+      margin_note: ~$150–250 winst per plank
+      features:
+        - Toegang tot het volledige productassortiment
+        - Marketingmaterialenpakket
+        - E-mailondersteuning
+        - Toegang tot productcatalogus
+    - tier: Premium Partner
+      discount: 30%
+      moq: 2.000 eenheden/jaar
+      margin_note: ~$250–400 winst per plank
+      features:
+        - Toegewijde accountmanager
+        - Exclusieve territoriumbescherming
+        - Aangepaste marketingondersteuning
+        - Eerste toegang tot nieuwe producten
+        - Personeelstraining sessies
+    - tier: Vlaggenschippartner
+      discount: 35%
+      moq: 5.000 eenheden/jaar
+      margin_note: ~$350–500 winst per bord
+      features:
+        - Co-branded marketingcampagnes
+        - Ondersteuning bij winkeldisplays
+        - Opleiding van personeel ter plaatse
+        - Gezamenlijke promoties op sociale media
+        - Prioritaire productieallocatie
+product_line:
+  title: Complete productlijn
+  subtitle: Een SUP-board voor elke klant die bij je binnenkomt.
+  items:
+    - name: All-Round Series
+      description: Bestseller — past bij 80% van de klanten
+    - name: Touring Series
+      description: Prestatiepeddelaars — hogere marge
+    - name: Yoga Series
+      description: Nichemarkt — premiumprijsstelling
+    - name: Kids Series
+      description: Familieklanten — terugkerende koper
+    - name: Racing Series
+      description: Enthousiaste markt — merkhalo
+    - name: Accessories
+      description: Hoogmarge-add-ons (peddels, vesten, pompen, tassen)
+catalog:
+  title: Middelen voor detailhandelpartners
+  subtitle: Download ons uitgebreide retailpartnerspakket.
+  items:
+    - name: 2026 Product Catalog
+      desc: Volledige lineup met specificaties, prijzen en bestelgegevens
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Winstmargecalculator, merchandisingtips en beste praktijken
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Hoge resolutie productfoto's, lifestyle-afbeeldingen en POS-materiaal
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Ondersteuning voor retailpartners
+  subtitle: Alles wat je nodig hebt om vol vertrouwen te verkopen.
+  items:
+    - Hoge-resolutie productafbeeldingen (professionele fotografie)
+    - Lifestylefoto's voor sociale media, website en catalogus
+    - Marketingmaterialen — posters, schapkaartjes, banners
+    - Producttrainingsvideo's voor personeelsonderwijs
+    - Pakket voor sociale mediacontent (wekelijkse berichten)
+    - SEO-geoptimaliseerde productbeschrijvingen
+    - Dropshipping-optie beschikbaar — geen voorraadrisico
+    - Netto 30 betaalvoorwaarden
+cta:
+  title: Klaar om Afarer-detailhandelpartner te worden?
+  subtitle: Meld u aan voor een partnerschap of download onze detailhandelcatalogus om te beginnen.
+  actions:
+    - text: Aanmelden voor partnerschap
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Download detailhandelcatalogus
+      href: /resources/download-catalog/
+      variant: secondary

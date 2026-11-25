@@ -1,0 +1,111 @@
+meta:
+  title: Soluții de flotă SUP pentru stațiuni | {SITE}
+  description: Soluții complete de flote SUP pentru stațiuni și hoteluri. Plăci de calitate comercială, branding personalizat, instruirea personalului și pachete optimizate pentru ROI, de la 20 la peste 100 de plăci.
+hero:
+  tagline: Stațiuni și hoteluri
+  title: Transformați zona de pe malul apei într-un centru de venituri<br />cu flote SUP premium
+  subtitle: Afarer echipează resorturile din întreaga lume cu flote SUP gonflabile de calitate comercială — de la pachete de start cu 20 de table la programe flagship cu 100+ de table. Personalizare a mărcii, instruirea personalului și piesele de schimb incluse.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Oaspeți ai unui resort care se bucură de plăci SUP pe o plajă curată
+roi_section:
+  title: Modelul de venituri pentru SUP în stațiuni
+  subtitle: Cum generează resorturile un venit anual de $50,000 - $200,000+ din închirierea SUP cu o singură investiție.
+  metrics:
+    - metric: $50K–$200K+
+      label: Venit anual din SUP
+      detail: Per resort, în funcție de dimensiunea flotei și de gradul de ocupare
+    - metric: 4–6 luni
+      label: Perioada Medie de Recuperare
+      detail: Recuperați integral investiția în flotă într-un singur sezon
+    - metric: 40%
+      label: Creșterea veniturilor
+      detail: Creștere medie după trecerea la flotele Afarer
+    - metric: 500+
+      label: Cicluri de închiriere per placă
+      detail: Durabilitate de calitate comercială pentru utilizare zilnică
+packages:
+  title: Sistem de pachete pentru stațiuni
+  subtitle: Alegeți pachetul potrivit capacității dvs. de cazare și obiectivelor de venituri. Toate pachetele includ garanție de 12 luni și certificare CE.
+  items:
+    - name: Pachet de Start
+      tagline: Pentru resorturi boutique, până la 20 de oaspeți/zi
+      features:
+        - 20 de table SUP (3 mărimi pentru adulți/copii)
+        - 20 de vâsle (reglabile) + 20 de veste de salvare
+        - 4 pompe cu acțiune dublă (electrică opțional)
+        - 2 suporturi de stocare + kit de reparații
+        - Imprimare logo personalizat pe table
+        - Garanție de 12 luni + certificat CE
+      revenue: Potențial de venit anual de $50K–$80K
+      cta_text: Obțineți pachetul de start
+    - name: Pachet Premium
+      tagline: Pentru resorturi mari, 50-100 de oaspeți/zi
+      features:
+        - 50 de table SUP (5 mărimi, flotă mixtă)
+        - 50 de vâsle + 50 de veste de salvare
+        - 10 pompe cu acțiune dublă + 2 pompe electrice
+        - 5 suporturi de stocare + 2 cărucioare
+        - Personalizare completă a mărcii (table, vâsle, genți)
+        - Sesiune de instruire a personalului (online)
+        - Expedierea pieselor de schimb în 48 de ore
+        - Garanție de 12 luni + certificat CE
+      revenue: Potențial de venit anual $120K–$200K+
+      popular: true
+      cta_text: Obține pachetul Premium
+    - name: Pachet Flagship
+      tagline: Pentru resorturi ultra-premium, 100+ de oaspeți/zi
+      features:
+        - 100+ de table SUP (gamă completă de mărimi)
+        - Set complet de accesorii (vâsle, veste, pompe, cărucioare)
+        - Instruire a personalului la fața locului (2 zile)
+        - Manager de cont dedicat
+        - Piese de schimb prioritare (expediere în 24h)
+        - Personalizare completă a mărcii (table + accesorii)
+        - Pachet foto/video de marketing
+        - Garanție de 24 de luni + certificare CE
+      revenue: Potențial de venituri anuale de $200K+
+      cta_text: Obține Pachetul Flagship
+case_study:
+  quote: De când am trecut la Afarer, veniturile din închirierea plăcilor SUP au crescut cu 40%. Costurile de înlocuire a plăcilor au scăzut cu 60%. Ne-am recuperat integral investiția în flotă în 4 luni.
+  author: Manager de activități acvatice
+  location: Rezort de 5 stele, Maldive
+  results:
+    - label: Creșterea veniturilor
+      value: +40%
+    - label: Reducerea costurilor
+      value: '-60%'
+    - label: Perioada de recuperare a investiției
+      value: 4 luni
+features:
+  title: De ce aleg resorturile afarer
+  subtitle: Durabilitate de nivel comercial, logistică globală și un partener care înțelege industria hotelieră.
+  items:
+    - title: Peste 500 de cicluri de închiriere
+      description: Fiecare placă este testată pentru a rezista la 500+ cicluri de închiriere în apă sărată, soare și nisip.
+      icon: tabler:shield-check
+    - title: Expediere piese în 48h
+      description: Piese de schimb expediate în termen de 48 de ore — veniturile tale din închiriere nu se opresc niciodată.
+      icon: tabler:truck-delivery
+    - title: Branding personalizat
+      description: Potriviți identitatea resortului dvs. cu culori și logo personalizate pe fiecare placă.
+      icon: tabler:palette
+    - title: Instruirea personalului
+      description: Programe de instruire online și la fața locului pentru echipa dumneavoastră de activități.
+      icon: tabler:school
+    - title: Logistică globală
+      description: Livrare în peste 50 de țări, cu opțiuni de transport consolidat.
+      icon: tabler:world
+    - title: Certificat CE
+      description: Toate echipamentele certificate CE, ISO 9001:2015 — siguranță și calitate garantate.
+      icon: tabler:certificate
+cta:
+  title: Sunteți gata să transformați zona de pe malul apei într-un centru de venituri?
+  subtitle: Solicitați o ofertă pentru pachetul de rezort sau descărcați catalogul nostru complet pentru rezorturi.
+  actions:
+    - text: Obțineți pachetul pentru stațiuni
+      href: /contact/?package=resort
+      variant: primary
+    - text: Descărcați catalogul pentru stațiuni
+      href: /resources/download-catalog/
+      variant: secondary

@@ -1,0 +1,265 @@
+meta:
+  title: 'Werk & Fertigung — aufblasbarer SUP-OEM | {SITE}'
+  description: 'Besichtigen Sie die afarer-Fabrik: 12.000-m²-Anlage mit Zuschnitt, HF-Schweißen, Druck, Montage und Qualitätslabor für OEM/ODM-Fertigung aufblasbarer SUPs.'
+  keywords:
+    - 'SUP-Fabrik China'
+    - 'Fabrik für aufblasbare Paddleboards'
+    - 'OEM-SUP-Hersteller'
+    - 'Fertigung aufblasbarer SUPs'
+hero:
+  tagline: Fabrik
+  title: Fabrik & Fertigung
+  subtitle: 12.000 m² integrierte Fertigung — vom Rohmaterial bis zum fertigen Board
+intro:
+  - >-
+    Als Fabrikmarke der **Qingdao Vatrad Group Co., Ltd.** kontrolliert afarer jede Produktionsstufe — vom Eingang der rohen PVC- und Glasfasermaterialien bis zur endgültigen Vorversandinspektion des fertigen Boards. Unsere Fertigungsanlage in der Qingdao Economic Development Zone erstreckt sich über
+    12.000 Quadratmeter und beherbergt spezielle Werkstätten für PVC-Zuschnitt, Schlauchwärmeverbindung, GFK-Formenbau, SUP-Digitaldruck, Endmontage und Qualitätsprüfung.
+  - >-
+    Durch die Integration von Design, Technik, Prototyping, Fertigung und Prüfung unter einem Dach eliminieren wir die Ineffizienzen der Auftragsfertigung und behalten die direkte Kontrolle über Bauqualität, Materialauswahl und Liefertermine. Jedes Board, das unsere Werkstatt verlässt, wird von
+    unseren Leuten, auf unserer Ausrüstung, nach unseren Standards gebaut.
+stats:
+  - value: 12.000 m²
+    label: Fertigungsfläche
+  - value: 200+
+    label: Facharbeiter
+  - value: 15.000+
+    label: Jährlich produzierte SUP-Boards
+  - value: ISO 9001
+    label: Qualitätszertifiziert
+intelligence_tagline: Fabrikintelligenz
+intelligence_title: Entdecken Sie unsere Fertigungsmöglichkeiten
+intelligence_cards:
+  - title: Produktionskapazität
+    icon: C
+    icon_bg: blue
+    desc: 12.000 m² Anlage mit Produktion von 15.000+ SUPs/Jahr über SUP-Board- und Sicherheitsausrüstungslinien. 200+ Mitarbeiter, 2 Schichten.
+    metrics:
+      - label: Mindestbestellmenge
+        value: 'SUP: 5–10'
+      - label: Lieferzeit
+        value: 30–45 Tage
+    link: /factory/capacity/
+    link_label: Kapazitätsdetails →
+  - title: Qualitätslabor & Prüfung
+    icon: Q
+    icon_bg: green
+    desc: 'Unabhängiges QS-Labor mit 4 Prüfstufen: Rohmaterialprüfung (Zug, Weiterreiß, UV), 24–48h Druckhaltetest bei 1,25x Nenndruck, Nahtschältest und Last-/Gleichgewichtsprüfung.'
+    metrics:
+      - label: Laborausrüstung
+        value: Zugprüfgerät, Temperaturkammer, Lecktank
+      - label: Normen
+        value: ISO 9001, CE, AS 1799
+    link: /factory/quality-lab/
+    link_label: Labormethoden & Ausrüstung →
+  - title: OEM/ODM-Fähigkeit
+    icon: O
+    icon_bg: purple
+    desc: 'End-to-End-OEM/ODM-Services: kundenspezifisches Formendesign, Private-Label-Verpackung, individuelle Boardfarben, Deckgrafiken (Digital- & Siebdruck) und Drop-Ship-Logistik.'
+    metrics:
+      - label: Zertifizierungen
+        value: ISO 9001, BSCI, CE, REACH
+      - label: Versand
+        value: FOB, CIF, DDP in über 50 Länder
+    link: /factory/oem-capability/
+    link_label: Komplette OEM-Services →
+workshops_section:
+  tagline: Werkstätten
+  title: Fertigungswerkstätten
+  workshops:
+    - title: PVC-Zuschnitt & Materialvorbereitung
+      description: Automatische CNC-Schneidemaschinen bearbeiten PVC und Drop-Stitch-Gewebe mit submillimetergenauer Präzision. Computeroptimierte Verschachtelung minimiert Materialabfall und stellt sicher, dass jede Platte vor dem Schweißen ihre Maßvorgaben erfüllt.
+      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    - title: Schlauchschweißen & Heißsiegeln
+      description: Spezielle Schweißwerkstatt mit Heißsiegelmaschinen und HF-Dielektrikumspressen. Heißluftschweißgeräte verbinden und verschmelzen PVC-Schlauchkammern, während HF-Schweißungen hochfeste luftdichte Nähte erzeugen, die die EN-ISO-25649-Anforderungen übertreffen.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    - title: GFK-Formen & Verbundfertigung
+      description: Kundenspezifische GFK-Formen für SUP-Komponenten, hergestellt im Handlaminier-Glasfaserverfahren mit Polyester- und Vinylesterharzsystemen. Jede Schicht wird von Hand gerollt und vakuumverpackt für gleichbleibende Qualität. Die Gelcoat-Spritzkabine sorgt für eine hochglänzende, UV-beständige Marineoberfläche.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+    - title: SUP-Druck & Dekoration
+      description: SUP-Boards werden mit Digitaldruck für Vollfarbgrafiken und Siebdruck für Logos und sich wiederholende Muster dekoriert. Digitaldrucker produzieren fotorealistische Deckdesigns, während Siebdruck haltbare, lebendige Markenzeichen liefert.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+    - title: Endmontage & Rigging
+      description: Montagelinie, in der Drop-Stitch-Kerne mit Rails fertiggestellt, EVA-Decks aufgebracht sowie Finnen, Ventile und Zubehör montiert werden. Jedes Board folgt einer 100-Punkte-Montagecheckliste, die vom Teamleiter abgezeichnet wird.
+      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+    - title: Qualitätsprüfung & Kontrolle
+      description: Jedes fertige Board durchläuft vor dem Versand eine obligatorische Luftdichtheitsprüfung, Nahtschälprüfung und vollständige Systemkontrolle. Unser Qualitätslabor arbeitet unabhängig von der Produktion und berichtet direkt an das Management.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+equipment_section:
+  tagline: Ausrüstung
+  title: Wichtige Fertigungsausrüstung
+  view_full: Vollständige Ausrüstungsliste anzeigen →
+  view_full_link: /factory/equipment/
+  items:
+    - name: Automatische PVC-Schneidemaschine
+      spec: CNC-gesteuert, 0,1 mm Genauigkeit
+    - name: Heißsiegelmaschine
+      spec: Heißluft, 200–300 °C, für Schlauchverbindung
+    - name: HF-Dielektrikumsschweißpresse
+      spec: 15 kW, luftdichte Nahtschweißung
+    - name: Glasfaser-Handlaminierformen
+      spec: SUP-Board-Formen bis 14 ft
+    - name: Digitaldrucker
+      spec: Vollfarb-SUP-Deckgrafiken
+    - name: Siebdruckmaschine
+      spec: Mehrfarbiger Logodruck
+qc_section:
+  tagline: Qualitätskontrolle
+  title: Prüf- & Qualitätssicherungsprozess
+  subtitle: Jedes Board durchläuft vor dem Versand obligatorische Tests. Unser Qualitätslabor arbeitet unabhängig von der Produktion und berichtet direkt an das Management.
+  steps:
+    - step: '1'
+      title: Rohmaterialprüfung
+      desc: PVC- und Drop-Stitch-Gewebe werden einer Zugprüfung (ASTM D751), einer Weiterreißprüfung und einer UV-Beständigkeitsprüfung unterzogen, bevor eine Charge in die Produktion geht.
+    - step: '2'
+      title: 24–48-Stunden-Luftdichtheitstest
+      desc: Jede Schlauchkammer wird auf 125 % des Nenndrucks aufgepumpt und 24–48 Stunden gehalten. Ein Druckabfall von mehr als 5 % löst automatische Ablehnung und Nahtnachprüfung aus.
+    - step: '3'
+      title: Last- & Gleichgewichtsprüfung
+      desc: Fertige Boards werden bis zur maximalen Nennkapazität beladen und auf Stabilität und Steifigkeit geprüft. Jedes Board wird vor der Endkontrolle einem Wassertest unterzogen.
+oem_section:
+  tagline: OEM-Projekte
+  title: Marken- & OEM-Partnerschaftsfallstudien
+  subtitle: Vom Konzept bis zum Container — wie wir globalen Marken helfen, ihre aufblasbaren SUP-Linien zu starten und zu skalieren.
+  cases:
+    - challenge: Ein europäischer Outdoor-Händler benötigte eine Private-Label-SUP-Linie mit einzigartigen Deckgrafiken, umweltfreundlichem PVC und verkaufsfertiger Verpackung — alles innerhalb von 60 Tagen.
+      solution: Entwicklung kundenspezifischer digitaler Druckdateien, Beschaffung REACH-konformen PVCs und Komprimierung der Bemusterung von 3 Runden auf 1 durch Zusammenlegung des Designteams in unserer Qingdao-Fabrik.
+      result: 55 Tage von unterzeichneter Bestellung bis FOB. 2.400 Einheiten in 4 SKUs. Folgeauftrag vor Ankunft des ersten Containers.
+    - challenge: Ein US-Wassersport-Startup benötigte einen leistungsstarken Drop-Stitch-SUP mit kundenspezifischer Rumpfform, Co-Branding-Verpackung und BSCI-Zertifizierung für den Einzelhandel.
+      solution: Anpassung einer bestehenden Drop-Stitch-SUP-Form mit modifizierter Kontur, Entwicklung von Co-Branding-Verpackungsgrafiken und Bereitstellung vollständiger BSCI-Auditdokumentation.
+      result: Erfolgreich in 3 großen US-Outdoor-Ketten gelistet. 5.000+ Einheiten im ersten Jahr mit 98 % Durchverkaufsrate.
+    - challenge: Ein australischer Distributor benötigte eine CE-zertifizierte SUP-Palette mit kundenspezifischen Farben und Konformität mit australischen Standards.
+      solution: Produktion von Vorserienmustern mit 4 Farbvarianten und Koordination der Konformitätsprüfung durch Dritte.
+      result: 3-modellige SUP-Palette auf dem AU/NZ-Markt eingeführt. Gefolgt von einem Regierungsauftrag für 12 Patrouillen-SUPs.
+faq_section:
+  tagline: Häufig gestellte Fragen
+  title: B2B- & OEM-häufig gestellte Fragen
+  questions:
+    - q: Wie hoch ist die Mindestbestellmenge (MOQ) für OEM-aufblasbare SUP-Boards?
+      a: Die MOQ beginnt bei 5–10 Einheiten für Standard-OEM-Modelle. Kundenspezifische Formen und Private-Label-Projekte erfordern je nach Komplexität mindestens 200 Einheiten. Probebestellungen und Musterläufe sind für neue Marken erhältlich.
+    - q: Besitzt afarer eine BSCI-Zertifizierung?
+      a: Ja. Unser Werk unterhält eine gültige BSCI-Social-Compliance-Zertifizierung (Prüfbericht auf Anfrage erhältlich). Wir besitzen auch ISO 9001 für Qualitätsmanagement und alle Produkte tragen die CE-Zertifizierung. REACH- und RoHS-Konformitätsdokumentation wird mit jeder OEM-Sendung bereitgestellt.
+    - q: Wie ist die typische Lieferzeit für einen OEM-Auftrag?
+      a: Die Standardlieferzeit beträgt 30–45 Tage ab bestätigter Bestellung und Anzahlung für die OEM-Serienproduktion. Für die Entwicklung kundenspezifischer Formen kommen 15–20 Tage für den Werkzeugbau hinzu. Für dringende Aufträge und saisonale Spitzen ist eine beschleunigte Produktion verfügbar. Prototypenmuster werden in der Regel innerhalb von 15–20 Tagen versendet.
+    - q: Können Sie FOB Qingdao oder CIF zu unserem Hafen versenden?
+      a: Ja. Wir versenden FOB Qingdao, CIF zu großen globalen Häfen und DDP für qualifizierte Partner. Unser Logistikteam übernimmt Containerbuchung, Exportedokumentation und Zollabfertigung. Wir versenden in 50+ Länder in den Märkten EU, USA, AU und Asien.
+b2b_moq: 'Standard-Mindestbestellmenge (MOQ): 5–10 Einheiten pro Modell (SUP/Drop-Stitch). SUP-MOQ: 2–5 Einheiten. Probebestellungen für neue Partnerschaften willkommen.'
+production_flow:
+  tagline: Produktionsfluss
+  title: Vom Material zum fertigen Board
+  subtitle: Jedes Board durchläuft 6 Produktionsstufen mit Qualitätskontrollpunkten bei jedem Schritt. Keine Abkürzungen, keine übersprungenen Inspektionen.
+  stages:
+    - stage: '01'
+      title: Materialeingang & Wareneingangsprüfung
+      description: Alle eingehenden Materialien werden nach Chargen-/Losnummer in unserem ERP-System erfasst. PVC-Stoffrollen, Drop-Stitch-Kerne, Ventile, Klebstoffe und Zubehör werden bis zur Freigabe durch die Qualitätskontrolle unter Quarantäne gestellt.
+      qc_check: Zugfestigkeit (ASTM D751), Reißfestigkeit (ISO 4674), Dickenmessgerät, Klebstoffviskosität, visuelle Fehlerprüfung
+      qc_threshold: 100 % der geprüften Chargen. Ablehnen, wenn die Zugfestigkeit < 90 % der Spezifikation, die Reißfestigkeit < Spezifikationsminimum oder irgendein sichtbarer Mangel vorhanden ist
+      responsibility: Eingehendes QC-Team (3 Prüfer)
+    - stage: '02'
+      title: CNC-Schneiden & Materialvorbereitung
+      description: Computer-optimiertes Nesting legt Platten auf PVC-Rohmaterial aus, um Abfall zu minimieren. Automatische CNC-Schneidemaschinen halten eine Positionsgenauigkeit von 0,1 mm.
+      qc_check: Dimensionale Überprüfung an CAD-DXF-Dateien, Kantengüteprüfung, Plattenanzahlüberprüfung
+      qc_threshold: Jedes 20. Paneel wird gemessen. Toleranz ±0,5 mm. Charge verwerfen, wenn >2% außerhalb der Toleranz liegen
+      responsibility: Leiter der Schneidwerkstatt
+    - stage: '03'
+      title: Schweißen & Drop-Stitch-Verbindung
+      description: Drop-Stitch-Kerne werden durch Hitzelaminierung mit äußeren PVC-Laminaten verbunden. Rohrkammern werden durch RF-Schweißen oder Heißluftschweißen verschweißt. Schienenbänder werden dreilagig verschmolzen.
+      qc_check: Abziehprüfung alle 50 Einheiten (ASTM D751), Schweißbreitenmessung, Überprüfung des Heizlufttemperaturprotokolls, visuelle Nahtinspektion unter Hintergrundbeleuchtung
+      qc_threshold: Abziehfestigkeit mindestens 8 N/cm. Schweißnahtbreite Toleranz ±1 mm. Jegliche sichtbare Kanalisierung = ablehnen
+      responsibility: Schweißeprüfung (2 Prüfer pro Schicht)
+    - stage: '04'
+      title: Montage & Takelage
+      description: 'Boards gehen zur Endmontage, wo alle Komponenten zusammengefügt werden: geklebte und verschweißte Rails, installierte Ventile, D-Ringe, Griffe, Finnenkästen und Tragetaschenbefestigung. Jede Einheit durchläuft eine 100-Punkte-Montagecheckliste.'
+      qc_check: 100-Punkte-Checkliste pro Einheit, Ventilfunktionsprüfung (10 Öffnungs-/Schließzyklen), Überprüfung des Hardware-Drehmoments, Sichtprüfung
+      qc_threshold: 'Null-Fehler-Politik bei sicherheitskritischen Teilen (Ventile, D-Ringe, Griffe). Geringfügige kosmetische Mängel: AQL 2,5 (ISO 2859)'
+      responsibility: Leiter Montageteam + Linien-QC
+    - stage: '05'
+      title: Druckprüfung & Qualitätskontrolle
+      description: Jede Kammer wird auf das 1,25-fache des Nenndrucks aufgepumpt (typischerweise 20–25 PSI) und für 24–48 Stunden gehalten. Drucksensoren protokollieren kontinuierlich. Kammern, die einen Druckabfall von mehr als 5 % aufweisen, werden abgelehnt und zur Nahtnachprüfung geschickt.
+      qc_check: 24–48-Stunden-Druckhaltelog, Sensor-Kalibrierung täglich überprüft, temperaturkompensierte Druckanzeige, Nahtnachprüfung nach Reparatur
+      qc_threshold: Maximal 5% Druckabfall über 24–48 Stunden bei stabiler Temperatur. Jede Kammer, die dies überschreitet = 100% Nachprüfung der gesamten Produktionscharge
+      responsibility: Qualitätslabor (unabhängig von der Produktion, berichtet an die Geschäftsleitung)
+    - stage: '06'
+      title: Endkontrolle & Verpackung
+      description: Endkontrolle der visuellen und funktionalen Eigenschaften. Oberflächenmängel, Farbgleichmäßigkeit, Etiketten-/BIN-Überprüfung, Verpackungsintegrität und Vollständigkeit des Zubehörs. Die Einheiten sind vakuumverpackt, in Kartons verpackt und für den Containertransport auf Paletten gestellt.
+      qc_check: Vollständige Sichtprüfung, Zubehör-Checkliste pro SKU, Verpackungs-Falltest (1 m, Zufallsprobe), Etiketten-/Barcode-Scan-Überprüfung
+      qc_threshold: AQL 2,5 für Hauptmängel, AQL 4,0 für Nebelmängel. Null Toleranz bei Sicherheitsmängeln. 100% der Einheiten werden visuell überprüft
+      responsibility: Endkontrollteam (4 Prüfer) + Verpackungsteamleiter
+workforce:
+  tagline: Unser Volk
+  title: Belegschaft & Fachwissen
+  engineers: '25+'
+  engineers_detail: Ingenieure in Forschung und Entwicklung, Werkzeugbau, Materiallabor und Produktionsingenieurwesen. Durchschnittlich 7 Jahre Erfahrung in der Herstellung von aufblasbaren Produkten.
+  shift_pattern: 2 Schichten/Tag (07:00–15:30, 15:30–00:00). Optionale Nachtschicht für dringende Aufträge.
+  training: Monatliches QC-Training, vierteljährliche Sicherheitsübungen, jährliche Kompetenzbewertung. Neue Mitarbeiter absolvieren eine 40-stündige Einführung, bevor sie an der Produktionslinie arbeiten.
+  departments:
+    - name: R&D & Engineering
+      count: '25+'
+      role: Produktdesign, Werkzeugtechnik, Materiallabor
+    - name: Cutting & Material Prep
+      count: 15
+      role: CNC-Schneiden, Plattenvorbereitung, Materialhandhabung
+    - name: Welding & Lamination
+      count: 40
+      role: HF-Schweißen, Heißluftschweißen, Drop-Stitch-Verklebung
+    - name: SUP Core Bonding
+      count: 30
+      role: Drop-Stitch-Laminierung, Heißverklebung, Schienenbandfusion
+    - name: Assembly & Rigging
+      count: 35
+      role: Endmontage, Hardwareinstallation, Systemprüfung
+    - name: Quality Control
+      count: 12
+      role: Eingehende Qualitätskontrolle, laufende Qualitätskontrolle, Endkontrolle, Labortests
+    - name: Logistics & Packing
+      count: 20
+      role: Verpackung, Beladung von Containern, Exportdokumentation
+    - name: Management & Admin
+      count: 15
+      role: Vertrieb, Beschaffung, Personalwesen, Finanzen, Compliance
+material_traceability:
+  tagline: Rückverfolgbarkeit
+  title: Materialverfolgung & Chargenkontrolle
+  description: >-
+    Jede Charge von Rohmaterial wird in unserem ERP-System mit einer eindeutigen Losnummer versehen. Vom Eintreffen über die Produktion bis zum fertigen Produkt ist jede Stückliste eines Loses mit der ursprünglichen Lieferantencharge verknüpft. Dies ermöglicht eine vollständige Rückverfolgbarkeit
+    nach oben für jede Qualitäts- oder Compliance-Anfrage.
+  system: Benutzerdefiniertes ERP (internes System der Qingdao Vatrad Group) + physische Chargenetiketten auf jedem Arbeitsauftrag
+  coverage: 100 % der Produktionsmaterialien — PVC, Drop-Stitch-Gewebe, Klebstoffe, Ventile, Beschläge, Verpackungen
+  records_retained: 10 Jahre (gemäß CE 2013/53/EU-Anforderung)
+  suppliers:
+    - material: Marine-PVC
+      source: Chinesische und koreanische Lieferanten
+      certified: ISO 9001, REACH, RoHS
+    - material: Drop-Stitch-Gewebe
+      source: Interne Weberei + externer Partner
+      certified: Interne Qualitätskontrolle Lieferant ISO 9001
+    - material: Ventile & Hardware
+      source: Chinesische OEM-Lieferanten
+      certified: ISO 9001, Materialzeugnisse pro Charge
+qc_dashboard:
+  tagline: QC nach Zahlen
+  title: Qualitätskontrollmetriken
+  subtitle: Echte Bestehen/Nichtbestehen-Daten von unserer Produktionslinie. Unser Qualitätslabor arbeitet unabhängig von der Produktion und berichtet direkt an die Geschäftsleitung.
+  stats:
+    - value: 100%
+      label: Einheiten druckgeprüft
+      detail: Jedes Board, jede Kammer, jede Charge
+    - value: <5%
+      label: Maximal zulässiger Druckabfall
+      detail: Über 24–48 Stunden bei 1,25× Nennendruck
+    - value: AQL 2,5
+      label: Schwelle für wesentliche Mängel
+      detail: Nach ISO 2859 Prüfstandard
+    - value: 24–48h
+      label: Druckhaltezeit
+      detail: Abhängig von der Produktkategorie
+    - value: 1,25×
+      label: Prüfdruck vs Nennwert
+      detail: Sicherheitsmarge in jeder Kammer
+    - value: 0%
+      label: Toleranz bei Sicherheitsmängeln
+      detail: Ventile, D-Ringe, Nähte, Auftrieb
+process_cta:
+  title: Unseren Fertigungsprozess ansehen
+  desc: Verfolgen Sie ein Board durch jede Produktionsstufe — vom Rohmaterial bis zum wasserfertigen Board.
+  label: Produktionsprozess anzeigen →
+  link: /factory/process/

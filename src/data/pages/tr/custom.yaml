@@ -1,0 +1,85 @@
+meta:
+  title: "Custom Lab — Özel şişme paddle board'lar | {SITE}"
+  description: "Özel şişme paddle board'lar: kişiye özel tasarım, logo, kendi kalıbınız ve üretim. Özel etiketli SUP ortağı, MOQ 50 adet, CE sertifikalı."
+  keywords:
+    - 'özel paddle board üreticisi'
+    - 'özel şişme SUP'
+    - 'logolu paddle board'
+    - 'özel etiketli şişme SUP'
+    - 'paddle board üretimi'
+hero:
+  tagline: afarer Özel Laboratuvar
+  title: Kendi SUP Tahtanızı<br />Tasarlayın
+  subtitle: İşletmeler için ortak marka, özel etiket ve özel SUP üretimine yönelik özel SUP ortağı. Tek bir prototipten tam üretim serisine.
+  cta: Projeye Başlayın
+  footer_link: /contact/
+steps_section:
+  tagline: Nasıl Çalışır
+  title: Konseptten Üretime
+  subtitle: Fikrinizden denize hazır, bitmiş bir ürüne dört adım.
+  steps:
+    - num: '01'
+      title: Bir Tahta Seçin
+      desc: Temel SUP modellerimizden seçim yapın — çok amaçlı, tur, yoga, spor veya çocuk. Boyut, malzeme ve rengi belirleyin.
+    - num: '02'
+      title: Tasarımınızı Gönderin
+      desc: Logonuzu, grafiklerinizi veya marka yönergelerinizi bize gönderin. Tasarım ekibimiz dijital bir prova hazırlayacak.
+    - num: '03'
+      title: AI Maket İncelemesi
+      desc: Üretim başlamadan önce özel tahtanızın AI tarafından oluşturulmuş fotogerçekçi maketini görün.
+    - num: '04'
+      title: Üretim ve Teslimat
+      desc: Onayınızdan sonra siparişiniz üretim hattımıza girer. Teslim süresi 30 günden itibaren.
+services_section:
+  tagline: Hizmetler
+  title: Küresel Markalar İçin Üretim Hizmetleri
+  subtitle: Sözleşmeli üretimden anahtar teslim marka oluşturmaya kadar esnek iş birliği modelleri.
+  items:
+    - title: Ortak Marka Üretimi
+      desc: Kendi spesifikasyonlarınıza göre üretim — sizin fikri mülkiyetiniz, sizin çizimleriniz, sizin kalite standartlarınız. Tam Gizlilik Sözleşmesi (NDA) koruması.
+      icon: ⚙️
+    - title: Tasarım Çözümleri
+      desc: 50'den fazla kanıtlanmış platform arasından seçim yapın ve boyut, renk, grafik ve ambalajı özelleştirin.
+      icon: 🎨
+    - title: Özel Marka (Private Label)
+      desc: Ürünlerimizde sizin markanız — logo, ambalaj, askı etiketleri, kullanım kılavuzları. Kutudan çıktığı gibi satışa hazır.
+      icon: 🎨
+    - title: Özel Markalama
+      desc: Deste pedi baskısı, gövde grafikleri, tüp çıkartmaları ve özel etiketler — tam marka entegrasyonu.
+      icon: ⚙️
+capabilities_section:
+  tagline: Yetenekler
+  title: Üretim ve Özelleştirme Yetenekleri
+  subtitle: Sipariş vermeden önce bilmeniz gereken her şey.
+  capabilities:
+    - label: Sipariş Hacmi
+      value: MOQ 50 adet (SUP)
+    - label: Teslim Süresi
+      value: Standart 30–45 gün; prototipler için 15–20 gün
+    - label: Özelleştirme
+      value: Boyut, şekil, renk, grafik, ambalaj, donanım
+    - label: Malzemeler
+      value: PVC, drop-stitch, EVA, alüminyum
+    - label: Baskı
+      value: Dijital (CMYK), serigrafi, termal transfer, sublimasyon
+    - label: Sertifikasyon
+      value: CE, UKCA, FCC (küresel uyumluluk desteği)
+why_section:
+  tagline: Neden afarer
+  title: Tek fabrika. Tek standart. Sıfır taviz.
+  points:
+    - text: 12.000 m² entegre üretim tesisi
+      highlight: 12.000 m²
+    - text: 200'den fazla nitelikli çalışan ve mühendis
+      highlight: 200+
+    - text: Yılda 15.000'den fazla SUP tahtası üretimi
+      highlight: 15.000+
+    - text: ISO 9001 sertifikalı kalite yönetim sistemi
+      highlight: ISO 9001
+    - text: AB pazarı için CE sertifikalı ürünler
+      highlight: CE
+  cta: Fabrika Detaylarını Görün
+  cta_link: /factory/
+  contact:
+    title: Projenizi görüşmeye hazır mısınız?
+    desc: Ekibimiz 24 saat içinde ön fiyat teklifiyle yanıt verir.

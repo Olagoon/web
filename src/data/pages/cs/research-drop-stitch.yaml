@@ -1,0 +1,83 @@
+meta:
+  title: Jak funguje technologie Drop Stitch — inženýrství za nafukovacími tuhými jádry | {SITE}
+  description: 'Podrobný pohled na technologii drop stitch: jak tisíce vnitřních vláken proměňují flexibilní PVC v tuhé jádro pro vysoký tlak, které vydrží 15–20 PSI. Způsoby konstrukce, materiály, ukazatele kvality a využití u SUP a kajaků.'
+back_text: Zpět na výzkum
+hero:
+  tagline: Technologie
+  title: Jak funguje drop stitch — inženýrství za tuhými nafukovacími jádry
+  subtitle: Délka čtení 8 min
+content_html: >
+  <h2>Co je to Drop Stitch?</h2>
+
+  <p>Drop stitch (také nazývaná „drop-stitch tkanina" nebo „drop-stitch jádro") je výrobní metoda, při níž tisíce jednotlivých polyesterových nití spojují horní a spodní vrstvu textilního pláště. Po nafouknutí pláště tyto nitě fungují jako vnitřní tahové prvky — zabraňují vypouknutí horního a
+  spodního panelu do kulatého tvaru a nutí panel zůstat plochý a tuhý.</p>
+
+  <p>Výsledkem je lehká, přenosná konstrukce, která vydrží vnitřní tlak 15 – 20 PSI — srovnatelný s tuhostí prkna s pevnou skořepinou, ale plně vyfouknutelná pro skladování a přepravu.</p>
+
+
+  <h2>Jak to funguje: Fyzika</h2>
+
+  <p>U konvenční nafukovací konstrukce (jako je balón nebo matrace) působí vnitřní tlak vzduchu rovnoměrně všemi směry. Bez vnitřního zpevnění se konstrukce stává válcovitou nebo kulovou. Drop stitch tento problém řeší zavedením tahového zpevnění:</p>
+
+  <ul>
+    <li>Tisíce nití spojují horní a spodní vrstvy tkaniny</li>
+    <li>Po nafouknutí se tlak vzduchu snaží horní a spodní vrstvu oddálit</li>
+    <li>Nitě tomuto oddělování odolávají a přenášejí zatížení do tahu podél osy nitě</li>
+    <li>Výsledkem je plochý, tuhý panel odolný proti ohybu</li>
+  </ul>
+
+
+  <h2>Výrobní proces</h2>
+
+  <ol>
+    <li><strong>Tkaní:</strong> Polyesterové nitě se tkají současně do dvou samostatných vrstev základní tkaniny (obvykle 1,100 DTEX nebo 1,680 DTEX polyester s PVC povlakem). Nitě jsou mezi vrstvami tkané smyčkami pod úhlem 90&deg;.</li>
+    <li><strong>Povlakování:</strong> Utkaná základní tkanina se potahuje PVC (nebo příležitostně TPU) procesem nanášení nožem nebo kalandrováním. Tím se utěsní nitě a vytvoří vzduchotěsná membrána.</li>
+    <li><strong>Spojení vrstev:</strong> Jádro drop-stitch se spojuje s vnějšími laminovanými vrstvami (obvykle PVC o tloušťce 0.9 mm nebo 1.2 mm) tepelnou laminací nebo lepidlem.</li>
+    <li><strong>Svařování:</strong> Boční pásy se svařují podél okrajů svařováním horkým vzduchem, RF svařováním nebo vysokofrekvenčním svařováním, čímž vznikají boční stěny prkna.</li>
+    <li><strong>Instalace ventilů:</strong> Instalují se ventily Boston nebo Halkey-Roberts, obvykle s pojistkou proti přehuštění.</li>
+  </ol>
+
+
+  <h2>Klíčové ukazatele kvality</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Parametr</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Vstupní úroveň</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Premium</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Hustota nití</td><td class="p-3 border">1 nit / sq in</td><td class="p-3 border">2 nitě / sq in</td></tr>
+      <tr><td class="p-3 border">Základní tkanina</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
+      <tr><td class="p-3 border">Max. tlak</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
+      <tr><td class="p-3 border">Tloušťka PVC</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
+      <tr><td class="p-3 border">Konstrukce bočních pásů</td><td class="p-3 border">Skládané &amp; lepené</td><td class="p-3 border">Svařované &amp; tavené</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Použití</h2>
+
+  <ul>
+    <li><strong>SUP prkna:</strong> tloušťka 4" – 6", 15 – 20 PSI, 1 – 2 nitě / sq in</li>
+    <li><strong>Kajaky:</strong> Drop-stitch podlaha + nafukovací boční komory, podlaha 10 – 15 PSI</li>
+  </ul>
+
+
+  <h2>Drop Stitch vs. Air Deck (sklolaminátové nebo dřevěné jádro)</h2>
+
+  <p>Prkna s pevnou skořepinou používají pěnová jádra EPS s výztuhami ze sklolaminátu nebo dřeva. Jsou lehčí, tužší a citlivější — ale nelze je vyfouknout. Drop stitch vymění část tuhosti za plnou přenositelnost. Pro většinu rekreačních uživatelů jsou moderní drop-stitch SUP prkna při 20 PSI z
+  hlediska tuhosti k nerozeznání od vstupních prken s pevnou skořepinou.</p>
+
+
+  <h2>Jak afarer využívá technologii Drop Stitch</h2>
+
+  <p>Společnost afarer používá jádro drop-stitch o hustotě 1,680 DTEX napříč celou řadou SUP prken, se 2 nitěmi na čtvereční palec a vnějším laminátem PVC o tloušťce 1.2 mm. Prkna jsou dimenzována na 20 PSI a před odesláním procházejí 24–48hodinovou zkouškou udržení tlaku na 1,25násobku jmenovitého
+  tlaku. Boční pásy jsou svařovány horkým vzduchem s trojvrstvým spojením a přetlakové ventily jsou standardem u všech modelů.</p>
+cta:
+  title: Chcete se dozvědět více o drop-stitch?
+  subtitle: Kontaktujte nás pro technické specifikace a poptávky OEM.
+  button_text: Kontaktujte obchodní oddělení
+  button_link: /contact/

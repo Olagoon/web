@@ -1,0 +1,268 @@
+﻿---
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
+import '~/assets/styles/tailwind.css';
+
+import { I18N, SITE_SETTINGS } from 'astrowind:config';
+
+import CommonMeta from '~/components/common/CommonMeta.astro';
+import Favicons from '~/components/Favicons.astro';
+import CustomStyles from '~/components/CustomStyles.astro';
+import ApplyColorMode from '~/components/common/ApplyColorMode.astro';
+import Metadata from '~/components/common/Metadata.astro';
+import Analytics from '~/components/common/Analytics.astro';
+import BasicScripts from '~/components/common/BasicScripts.astro';
+import AIChat from '~/components/widgets/AIChat.astro';
+import WhatsAppFloat from '~/components/widgets/WhatsAppFloat.astro';
+import { getWhatsAppLink, getWhatsAppLabel } from '~/utils/whatsapp';
+import JsonLd from '~/components/common/JsonLd.astro';
+import AiSignal from '~/components/common/AiSignal.astro';
+import { getAboutSchema } from '~/lib/geo-seo/intent';
+
+// Comment the line below to disable View Transitions
+import { ClientRouter } from 'astro:transitions';
+
+import type { MetaData as MetaDataType } from '~/types';
+import { getSeoSettings } from '~/utils/seo-settings';
+import langData from '~/data/site/languages.yaml';
+import { defaultLang, setLang } from '~/i18n/config';
+import { getLangFromUrl, removeLang, localizePath } from '~/i18n/utils';
+import { localizeHref } from '~/i18n/routing';
+import { getUiForLang } from '~/i18n/generated/ui-all';
+// Static route manifest from the previous build (scripts/_gen-route-manifest.cjs);
+// used to emit hreflang alternates only for languages where the page exists.
+import routeManifest from '~/i18n/generated/route-manifest.json';
+export interface Props {
+  metadata?: MetaDataType;
+}
+
+const { metadata = {} } = Astro.props;
+const { textDirection: defaultTextDir } = I18N;
+
+const seo = await getSeoSettings();
+
+const orgName = seo.organizationName || SITE_SETTINGS.organization?.name || SITE_SETTINGS.siteName;
+const orgLogo =
+  seo.organizationLogo || SITE_SETTINGS.organization?.logo || new URL('/favicon.ico', seo.siteUrl).toString();
+const sameAs = (seo.socialLinks || [])
+  .map((s) => s?.url)
+  .filter((u): u is string => typeof u === 'string' && u.length > 0);
+
+const siteUrlTrimmed = seo.siteUrl.replace(/\/+$/, '');
+
+const enabledLangs = (Array.isArray(langData) ? langData : []).filter((l: any) => l.enabled !== false);
+
+const pathname = Astro.url.pathname;
+const pathWithoutLang = removeLang(pathname);
+const currentLang = getLangFromUrl(Astro.url);
+const language = currentLang;
+// hreflang alternates: only for languages where this page was actually generated.
+const availableRoutes: Set<string> = new Set(routeManifest);
+const normalizePath = (p: string): string => (p !== '/' && p.endsWith('/') ? p.slice(0, -1) : p);
+const hreflangAlternates: Array<{ locale: string; target: string }> = enabledLangs
+  .map((l: any) => ({ locale: l.locale as string, target: normalizePath(localizePath(pathWithoutLang, l.locale)) }))
+  .filter((a: { locale: string; target: string }) => availableRoutes.has(a.target));
+const xDefaultTarget = normalizePath(localizePath(pathWithoutLang, defaultLang));
+if (!availableRoutes.has(xDefaultTarget)) {
+  // default-lang page missing but the un-prefixed root page exists (e.g. root-only EN guides)
+  if (availableRoutes.has(normalizePath(pathWithoutLang))) {
+    hreflangAlternates.push({ locale: 'x-default', target: normalizePath(pathWithoutLang) });
+  }
+}
+// Populate the generated per-language UI strings (small per-language modules,
+// statically imported in src/i18n/generated/ui-all.ts) for all components.
+setLang(currentLang);
+
+// Emit hreflang URLs in the live 200 (directory) form: the route manifest is
+// slashless, so re-append the trailing slash after the membership check. The
+// EN homepage is served at the site root ("/en" and "/en/" 308 to "/"), so
+// its alternate URL is the bare site root.
+const defaultLangRoot = `/${defaultLang}`;
+const hreflangUrl = (target: string): string => {
+  if (target === defaultLangRoot) return `${siteUrlTrimmed}/`;
+  return `${siteUrlTrimmed}${target}/`;
+};
+const textDirection = language === 'ar' || language === 'he' ? 'rtl' : defaultTextDir || 'ltr';
+const mobileUi = getUiForLang(currentLang);
+const mobileT = (key: string, fallback: string): string => mobileUi?.[key] || fallback;
+---
+
+<!doctype html>
+<html lang={language} dir={textDirection} class="2xl:text-[20px]">
+  <head>
+    <CommonMeta />
+    <Favicons />
+    <CustomStyles />
+    <ApplyColorMode />
+    <Metadata {...metadata} seoSettings={seo} />
+    <Analytics id={seo.googleAnalyticsId} />
+    <script is:inline>
+      // Capture landing UTM tags once per session so inquiry forms can attach
+      // attribution when the visitor later submits from any page.
+      (function () {
+        try {
+          const p = new URLSearchParams(window.location.search);
+          const s = p.get('utm_source');
+          const m = p.get('utm_medium');
+          const c = p.get('utm_campaign');
+          if (s || m || c) {
+            sessionStorage.setItem('afarer_utm', JSON.stringify({ s: s || '', m: m || '', c: c || '', t: Date.now() }));
+          }
+        } catch {
+          /* ignore */
+        }
+      })();
+    </script>
+    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin />
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+    <link rel="preconnect" href="https://assets.afarer.com" crossorigin />
+
+    {hreflangAlternates.map((a) => <link rel="alternate" hreflang={a.locale} href={hreflangUrl(a.target)} />)}
+    {
+      availableRoutes.has(xDefaultTarget) && (
+        <link rel="alternate" hreflang="x-default" href={hreflangUrl(xDefaultTarget)} />
+      )
+    }
+
+    <JsonLd
+      type="Organization"
+      data={{
+        name: orgName,
+        alternateName: 'Afarer Water Adventure Equipment',
+        url: seo.siteUrl,
+        logo: orgLogo,
+        description: SITE_SETTINGS.siteDescription,
+        slogan: 'Engineering Reliable Adventures On Water',
+        foundingDate: '2012',
+        foundingLocation: {
+          '@type': 'Place',
+          name: 'Qingdao Economic Development Zone',
+          address: {
+            '@type': 'PostalAddress',
+            addressLocality: 'Qingdao',
+            addressRegion: 'Shandong',
+            addressCountry: 'CN',
+          },
+        },
+        numberOfEmployees: {
+          '@type': 'QuantitativeValue',
+          minValue: 200,
+          maxValue: 300,
+        },
+        parentOrganization: {
+          '@type': 'Organization',
+          name: 'Aquafarer LLC',
+        },
+        brand: {
+          '@type': 'Brand',
+          name: 'Afarer',
+        },
+        knowsAbout: [
+          'Inflatable SUP board design and manufacturing',
+          'Water adventure and exploration equipment',
+          'Drop-stitch and marine-grade PVC technology',
+          'Inflatable SUP engineering and design',
+          'Marine safety and CE certified products',
+        ],
+        industry: ['Water Adventure Equipment', 'Marine Recreation', 'Outdoor Sports'],
+        areaServed: ['US', 'EU', 'ASIA', 'GLOBAL', 'AU', 'UK'],
+        ...(seo.organizationEmail ? { email: seo.organizationEmail } : {}),
+        ...(seo.organizationPhone ? { telephone: seo.organizationPhone } : {}),
+        ...(seo.organizationAddress ? { address: seo.organizationAddress } : {}),
+        ...(sameAs.length > 0 ? { sameAs } : {}),
+      }}
+    />
+    <JsonLd
+      type="WebSite"
+      data={{
+        name: SITE_SETTINGS.siteName || orgName,
+        url: seo.siteUrl,
+        description: SITE_SETTINGS.siteDescription,
+        about: getAboutSchema(pathname),
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: {
+            '@type': 'EntryPoint',
+            urlTemplate: `${siteUrlTrimmed}/search?q={search_term_string}`,
+          },
+          'query-input': 'required name=search_term_string',
+        },
+      }}
+    />
+
+    <AiSignal />
+
+    <!-- Comment the line below to disable View Transitions -->
+    <ClientRouter fallback="swap" />
+  </head>
+
+  <body class="antialiased text-default bg-page tracking-tight">
+    <slot />
+
+    <BasicScripts />
+    <AIChat />
+    <WhatsAppFloat />
+
+    <div
+      id="mobile-cta"
+      class="fixed bottom-0 left-0 right-0 z-40 bg-white dark:bg-slate-900 border-t border-gray-200 dark:border-slate-700 px-4 py-3 flex items-center gap-3 md:hidden shadow-2xl translate-y-full transition-transform duration-300"
+    >
+      {
+        getWhatsAppLink() && (
+          <a
+            href={getWhatsAppLink()}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label={getWhatsAppLabel(currentLang)}
+            class="flex items-center justify-center gap-2 px-4 py-2.5 bg-[#25D366] hover:bg-[#1EBE5D] text-white font-semibold rounded-xl text-sm transition-colors"
+          >
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true">
+              <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413Z" />
+            </svg>
+            WhatsApp
+          </a>
+        )
+      }
+      <a
+        href={localizeHref('/contact', currentLang)}
+        class="flex-1 text-center px-4 py-2.5 bg-sky-600 hover:bg-sky-700 text-white font-semibold rounded-xl text-sm transition-colors"
+        >{mobileT('cta.quote', 'Get a Quote')}</a
+      >
+    </div>
+    <script is:inline>
+      (function () {
+        const cta = document.getElementById('mobile-cta');
+        if (!cta) return;
+        let shown = false;
+        window.addEventListener('scroll', function () {
+          if (shown) return;
+          if (window.scrollY > 400) {
+            shown = true;
+            cta.classList.remove('translate-y-full');
+          }
+        });
+      })();
+    </script>
+    <script>
+      (function () {
+        if (!window.IntersectionObserver) return;
+        const e = document.querySelectorAll('.reveal');
+        if (!e.length) return;
+        const o = new IntersectionObserver(
+          function (n) {
+            n.forEach(function (n) {
+              if (n.isIntersecting) {
+                n.target.classList.add('visible');
+                o.unobserve(n.target);
+              }
+            });
+          },
+          { threshold: 0.15 }
+        );
+        e.forEach(function (e) {
+          o.observe(e);
+        });
+      })();
+    </script>
+  </body>
+</html>

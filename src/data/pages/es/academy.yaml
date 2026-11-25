@@ -1,0 +1,176 @@
+meta:
+  title: 'Academia — Guías de SUP y Entrenamiento de Remo | {SITE}'
+  description: 'Academia afarer: guías de paddle surf hinchable, técnicas de stand up paddle, seguridad náutica y conocimiento de materiales para principiantes y profesionales.'
+  keywords:
+    - 'aprender stand up paddle'
+    - 'guía para principiantes de SUP'
+    - 'fundamentos del paddle surf'
+    - 'técnica de SUP'
+    - 'clases de SUP'
+hero:
+  tagline: Academia afarer
+  title: Centro de aprendizaje
+  subtitle: Guías y tutoriales para cada nivel de habilidad — desde los conceptos básicos del SUP hasta técnicas avanzadas de rescate
+categories:
+  - level: Principiante
+    color: de-verde-500 a-esmeralda-600
+    badge: bg-verde-100 texto-verde-700
+    guides:
+      - title: Fundamentos del SUP
+        desc: Aprende los fundamentos del paddle surf — postura, técnica de remada y equilibrio.
+        slug: beginner-sup-guide
+      - title: Técnicas de remada
+        desc: Remada frontal, remada de barrido, remada de arrastre y apoyo bajo — domina los movimientos esenciales de la pala.
+        slug: sup-paddle-guide
+      - title: La seguridad primero
+        desc: Prácticas de seguridad esenciales que incluyen comprobación del tiempo, uso del PFD, normas del leash y autorrescate.
+        slug: sup-safety-guide
+  - level: Intermedio
+    color: de-azul-500 a-índigo-600
+    badge: bg-azul-100 texto-azul-700
+    guides:
+      - title: Fundamentos del touring
+        desc: Planificación de travesías de varias horas — navegación, hidratación, ritmo y lectura de pronósticos de viento.
+        slug: touring-sup-guide
+      - title: Lectura del tiempo
+        desc: Interpreta los pronósticos marinos, identifica patrones de nubes y comprende los efectos del viento sobre el agua.
+        slug: weather-planning-water-sports
+      - title: Fundamentos de navegación
+        desc: Lectura de cartas, uso de la brújula, waypoints de GPS y planificación de rutas para remar en la costa.
+        slug: sup-navigation-guide
+      - title: Conciencia de las mareas
+        desc: Comprender los ciclos de las mareas, las corrientes y cómo afectan al momento de salida y a la ruta.
+        slug: understanding-tides
+  - level: Avanzado
+    color: de-púrpura-500 a-violeta-600
+    badge: bg-purple-100 text-purple-700
+    guides:
+      - title: Planificación de travesías de varios días
+        desc: Logística de expedición — selección de equipo, planificación de comidas, protocolos de seguridad y contactos de emergencia.
+        slug: sup-travel-guide
+      - title: Técnicas de rescate
+        desc: Autorrescate, rescate en T, rescate esquimal para SUPs y protocolos de remolque para aguas abiertas.
+        slug: sup-self-rescue
+      - title: Remar de noche
+        desc: Navegación después del anochecer — requisitos de iluminación, memoria de la ruta, comunicación en grupo y conciencia de los peligros.
+        slug: ocean-safety-basics
+  - level: Mantenimiento
+    color: de-ámbar-500 a-naranja-600
+    badge: bg-ámbar-100 texto-ámbar-700
+    guides:
+      - title: Limpieza y cuidado
+        desc: Enjuague con agua dulce, protección UV, prevención del moho y técnicas de secado adecuadas después de cada sesión.
+        slug: inflatable-sup-maintenance
+      - title: Guía de almacenamiento
+        desc: Mejores prácticas para almacenar tablas inflables de SUP — desinflado, plegado, control de temperatura y vida útil.
+        slug: inflatable-sup-storage
+      - title: Fundamentos de reparación
+        desc: Repara pequeños pinchazos, fugas en las costuras y problemas de válvulas con kits de reparación de PVC y técnicas de parcheo.
+        slug: inflatable-sup-repair
+      - title: Mantenimiento de válvulas
+        desc: Identifica los tipos de válvula (Halkey-Roberts, Boston, Leafield), limpia los residuos y reemplaza los vástagos defectuosos.
+        slug: sup-pump-guide
+knowledge_center_tagline: Centro de Conocimiento
+knowledge_center_title: Equipos Marinos y Guías de la Industria
+knowledge_center_subtitle: Conocimientos expertos y guías de compra para profesionales del sector marítimo, operadores de flotas y entusiastas de los deportes acuáticos.
+knowledge_sections:
+  - title: Conocimiento sobre la tabla SUP
+    tagline: Guías de Paddleboard de Pie
+    desc: 'Todo sobre las tablas de SUP: diseño de la tabla, materiales, selección de tamaño, mantenimiento y consejos de compra para uso recreativo y comercial.'
+    guides:
+      - title: Cómo elegir la tabla de SUP adecuada
+        desc: 'Guía completa para seleccionar un SUP: tamaño, volumen, material, forma y uso previsto.'
+        href: /learn/sup/
+      - title: SUP inflable vs rígido
+        desc: 'SUP inflable vs tabla dura de epoxi: comparación de portabilidad, durabilidad, rendimiento y valor.'
+        href: /compare/inflatable-vs-hardboard/
+      - title: SUP All-Around vs Touring vs Yoga
+        desc: 'Diferentes tipos de tablas de SUP: estándares de construcción, formas, tamaños y usos recomendados.'
+        href: /learn/sup/
+      - title: Confección Drop-Stitch vs Tradicional
+        desc: Compara la construcción drop-stitch y la tradicional para tablas SUP en cuanto a peso, costo, durabilidad y rigidez.
+        href: /learn/drop-stitch-core/
+  - title: Guía de SUP inflable
+    tagline: Conocimiento sobre SUP inflable
+    desc: 'Guías completas sobre SUP inflables: materiales de PVC, construcción con costura en caída, normas de seguridad y mejores prácticas de mantenimiento.'
+    guides:
+      - title: Guía de Material PVC
+        desc: Guía definitiva sobre los materiales de PVC utilizados en la construcción de tablas SUP inflables.
+        href: /learn/materials/
+      - title: Cómo se fabrican los SUP inflables
+        desc: 'Proceso de fabricación: corte de material, unión del núcleo de punto de caída, construcción de costuras, prueba de presión y control de calidad.'
+        href: /learn/inflatable-technology/
+      - title: Guía de seguridad de SUP
+        desc: Normas de seguridad, capacidad de carga, inflado adecuado, verificaciones antes de la salida y procedimientos de emergencia.
+        href: /learn/water-safety/
+      - title: Mantenimiento de SUP
+        desc: Limpieza, almacenamiento, protección UV y reparación de tablas SUP inflables.
+        href: /v2/inflatable-sup-maintenance/
+  - title: Conocimiento sobre la tabla SUP
+    tagline: Centro de Tablas SUP
+    desc: Guías técnicas que cubren tipos de tablas de SUP, materiales, métodos de construcción, mantenimiento y seguridad.
+    guides:
+      - title: Tipos de tablas de SUP
+        desc: 'SUPs para todo uso, de travesía, yoga, deporte y para niños: aprende las diferencias y elige el adecuado.'
+        href: /learn/sup/
+      - title: Tecnología de punto caído
+        desc: Cómo miles de hilos internos crean estructuras inflables rígidas de alta presión.
+        href: /learn/drop-stitch-core/
+      - title: Referencia de materiales
+        desc: Clasificaciones de denier de PVC, pesos de tela, resistencia a los rayos UV y materiales de grado marino explicados.
+        href: /learn/materials/
+      - title: Guía de compra de SUP
+        desc: Compara diferentes tipos de tablas de SUP para distintos casos de uso y niveles de habilidad.
+        href: /learn/sup/
+  - title: Conocimiento de SUP
+    tagline: Guías de Paddleboard de Pie
+    desc: 'Todo sobre las tablas de SUP: inflables vs rígidas, dimensiones de la tabla, tecnología de materiales y consejos de expertos para todos los niveles de habilidad.'
+    guides:
+      - title: SUP inflable vs rígido
+        desc: Compara los iSUP y las tablas duras de epoxi en cuanto a portabilidad, durabilidad, rendimiento y valor.
+        href: /learn/sup/
+      - title: Guía de Dimensiones de Tablas SUP
+        desc: Cómo la longitud, el ancho y el grosor afectan la estabilidad, la velocidad y la maniobrabilidad.
+        href: /learn/sup/
+      - title: Mantenimiento y cuidado del SUP
+        desc: Consejos para la limpieza, almacenamiento, protección UV y reparación de tablas de SUP inflables.
+        href: /v2/inflatable-sup-maintenance/
+      - title: Elegir tu primer SUP
+        desc: Guía para principiantes para seleccionar la tabla de paddle surf adecuada según tu peso, nivel de habilidad y uso previsto.
+        href: /learn/sup/
+  - title: Guía de Operaciones de Alquiler
+    tagline: Gestión de flotas para negocios de alquiler
+    desc: Guías sobre la construcción y gestión de flotas de alquiler de SUP para quioscos de playa, centros de deportes acuáticos y propiedades hoteleras.
+    guides:
+      - title: Construyendo su flota de alquiler
+        desc: 'Cómo elegir las tablas de SUP adecuadas para tu negocio de alquiler: durabilidad, tamaño y consideraciones de ROI.'
+        href: /solutions/rental-operators/
+      - title: Guía de Mantenimiento de Flotas
+        desc: Prácticas esenciales de mantenimiento para maximizar la vida útil de las tablas y minimizar el tiempo de inactividad de las flotas de alquiler.
+        href: /solutions/rental-operators/
+  - title: Guía de Resorts y Hospitalidad
+    tagline: Actividades acuáticas para la hospitalidad
+    desc: Guías sobre cómo lanzar y gestionar programas de SUP para resorts, hoteles y destinos frente al agua.
+    guides:
+      - title: Iniciando un Programa de SUP en un Resort
+        desc: 'Factores a considerar al lanzar actividades de SUP para invitados: dimensionamiento de la flota, personal y modelado de ingresos.'
+        href: /solutions/resorts-hotels/
+      - title: SUP frente a otras actividades acuáticas
+        desc: Compare los programas de SUP con otros deportes acuáticos en cuanto a la experiencia del huésped y la eficiencia operativa.
+        href: /learn/sup/
+  - title: Guía de Venta y Distribución
+    tagline: Asociaciones Comerciales SUP
+    desc: 'Guías sobre cómo convertirse en un socio minorista o distribuidor de SUP: planificación de inventario, posicionamiento en el mercado y estrategias de crecimiento.'
+    guides:
+      - title: Convertirse en un minorista de SUP
+        desc: Cómo elegir líneas de productos, gestionar el inventario y comercializar tablas SUP en tu tienda minorista.
+        href: /solutions/retail-partners/
+      - title: SUP para Operaciones Comerciales
+        desc: Por qué los SUP inflables son un producto versátil para flotas comerciales, negocios de alquiler y operadores profesionales.
+        href: /solutions/rental-operators/
+read_guide: Leer la guía →
+cta:
+  title: ¿No sabes por dónde empezar?
+  desc: Realiza nuestro cuestionario de evaluación de habilidades para encontrar las guías y el equipo adecuados para tu nivel.
+  label: Contáctanos →
+  link: /contact/

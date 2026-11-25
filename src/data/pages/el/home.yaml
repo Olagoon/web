@@ -1,0 +1,104 @@
+meta:
+  title: Φουσκωτά Paddleboards Afarer | Πήγαινε πιο μακριά. Κώπα πιο δυνατά.
+  description: Ανακάλυψε τα φουσκωτά paddleboards Afarer για all-around κωπηλασία, touring, yoga, ψάρεμα και υπαίθριες περιπέτειες. Βρες το τέλειο SUP για σένα και εξερεύνησε περισσότερα στο νερό.
+  keywords:
+    - φουσκωτό paddleboard
+    - φουσκωτό sup
+    - all-around sup
+    - touring sup
+    - sup yoga
+    - sup ψαρέματος
+    - οικογενειακό paddleboard
+    - φορητό paddleboard
+hero:
+  tagline: Φουσκωτά Paddleboards
+  title: Φουσκωτά Paddleboards για Κάθε Περιπέτεια
+  slogan: Πήγαινε πιο μακριά. Κώπα πιο δυνατά.
+  subtitle: Ανακάλυψε την ελευθερία της κωπηλασίας με την Afarer. Εξερεύνησε μελετημένα φουσκωτά SUP για χαλαρές μέρες στη λίμνη, παραλιακές περιπέτειες, γυμναστική και όλα όσα ενδιάμεσα.
+  taglineSection: Κατασκευασμένο για εμπιστοσύνη. Σχεδιασμένο να ξεχωρίζει.
+  actions:
+    - variant: primary
+      text: Βρες το Board σου
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Εξερεύνησε SUP
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Γιατί Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Φουσκωτά paddleboards Afarer να γλιστρούν σε ήρεμα νερά στην ανατολή — φτιαγμένα για κάθε περιπέτεια
+who_we_serve:
+  tagline: Κωπηλάτησε Μαζί Μας
+  title: Βρες τον Δρόμο σου στο Νερό
+  subtitle: Κάθε κωπηλάτης έχει διαφορετική ιδέα για την περιπέτεια. Ανακάλυψε ένα SUP Afarer σχεδιασμένο με βάση τον τρόπο που κινηθείς.
+  items:
+    - title: Αρχάριοι & Κωπηλάτες Αναψυχής
+      keywords: φουσκωτό sup για αρχάριους, all-around paddleboard, σταθερό sup
+      description: Φαρδιά, σταθερά all-around boards που κάνουν την πρώτη κουπιά να νιώθει φυσική και σε συνοδεύουν καθώς βελτιώνεσαι.
+      icon: tabler:users
+      cta: Βρες το Πρώτο σου Board
+      link: /all-around-sup/
+    - title: Touring & Περιπέτεια
+      keywords: touring sup, paddleboard μεγάλων αποστάσεων, sup εκδρομών
+      description: Μακριά, στενά boards που κρατούν πορεία, γλιστρούν πιο μακριά και μεταφέρουν εξοπλισμό για πολυήμερα ταξίδια.
+      icon: tabler:building
+      cta: Εξερεύνησε Touring SUP
+      link: /touring-sup/
+    - title: Yoga & Fitness
+      keywords: sup yoga, fitness paddleboard, φαρδύ σταθερό sup
+      description: Φαρδιές, σταθερές πλατφόρμες με χώρο για κίνηση — για flows στην ανατολή, προπονήσεις και ισορροπία σε ήρεμα νερά.
+      icon: tabler:heart
+      cta: Εξερεύνησε SUP Yoga
+      link: /yoga-sup/
+    - title: Ψάρεμα & Οικογένεια
+      keywords: sup ψαρέματος, οικογενειακό paddleboard, σταθερή πλατφόρμα ψαρέματος
+      description: Σταθερές, πρακτικές πλατφόρμες για ψάρεμα, βόλτες με τα παιδιά και μεγάλες χαλαρές μέρες στο νερό.
+      icon: tabler:users
+      cta: Εξερεύνησε SUP Ψαρέματος
+      link: /fishing-sup/
+proof_points:
+  title: Δοκιμασμένο πέρα από το showroom
+  subtitle: Σχεδιασμός, απόδοση και ποιότητα που μπορείτε να επαληθεύσετε — στο νερό και στους αριθμούς.
+  items:
+    - metric: 10+
+      label: Χρόνια Σχεδιασμού για το Νερό
+      detail: Από το 2012, βελτιωμένο σανίδα με σανίδα
+    - metric: 50+
+      label: Χώρες στο Νερό
+      detail: Κωπηλάτες και συνεργάτες σε όλο τον κόσμο
+    - metric: 12–15
+      label: Πυρήνας Drop-Stitch PSI
+      detail: Άκαμπτο εκεί όπου χρειάζεται, εύκολο στη συσκευασία
+    - metric: 100%
+      label: Δοκιμές Πίεσης Σανίδα με Σανίδα
+      detail: Επιθεωρείται πριν από την αποστολή
+business_solutions:
+  tagline: Γιατί Κινείται Διαφορετικά
+  title: Απόδοση που Νιώθεις από την Πρώτη Κουπιά
+  subtitle: Τέσσερις πυλώνες διαμορφωμένοι από το αληθινό νερό — απόδοση, σχεδιασμός, κατασκευή και ποιότητα.
+  items:
+    - title: Απόδοση στο Νερό
+      description: Σχήματα κουρδισμένα για σταθερότητα, γλίστρημα και σιγουριά στο κύμα — κάθε κουπιά μένει δεμένη με το νερό.
+      icon: tabler:shield-check
+    - title: Εκφραστικός Σχεδιασμός
+      description: Συλλογές εμπνευσμένες από παλίρροιες, τη θαλάσσια ζωή και την ενέργεια της ακτής — boards που θέλεις να σε βλέπουν.
+      icon: tabler:package
+    - title: Αποδεδειγμένη Κατασκευή
+      description: Πυρήνες drop-stitch υψηλής πυκνότητας, ενισχυμένα πλαϊνά και ραφές laminate σύντηξης για επαναλαμβανόμενη χρήση.
+      icon: tabler:headset
+    - title: Επαληθευμένη Ποιότητα
+      description: Δοκιμασμένα σε πίεση, οπτικά ελεγμένα και με σαφή εγγύηση και ανταποκριτική after-sales υποστήριξη.
+      icon: tabler:truck-delivery
+cta:
+  title: Βρες το επόμενο board σου.
+  subtitle: Από την πρώτη σου κουπιά ως το μακρύτερο ταξίδι σου — θα σε βγάλουμε στο νερό.
+  actions:
+    - variant: primary
+      text: Εξερεύνησε τη Συλλογή
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Ζήτησε τον Κατάλογο
+      href: /resources/download-catalog/

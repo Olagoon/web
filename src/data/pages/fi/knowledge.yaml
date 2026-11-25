@@ -1,0 +1,108 @@
+meta:
+  title: 'Tietopankki — SUP-oppaat | {SITE}'
+  description: 'afarerin tietopankki: oppaita täytettävistä SUP-laudoista, paddle board -materiaaleista, lautavalinnasta ja alan oivalluksista brändeille ja ammattilaisille.'
+  keywords:
+    - 'SUP-tietopankki'
+    - 'täytettävä SUP-opas'
+    - 'paddle board -materiaalit'
+    - 'SUP-alan oivallukset'
+hero:
+  tagline: Tietokartta
+  title: Vesilläliikkumisen tietämys
+  subtitle: |
+    Jäsennelty tietopohja, joka kattaa kumilauta-SUP-teknologian,<br />
+    vesiturvallisuuden, lautatekniikan ja seikkailusuunnittelun.
+  taglineSection: Tutki. Opi. Liiku luottavaisesti.
+clusters:
+  tagline: Tietoklusterit
+  title: Tutki aiheen mukaan
+  subtitle: Syväsukellukset teknologiaan, turvallisuuteen ja taitoihin jokaisen afarer-tuotteen takana.
+  items:
+    - title: SUP-tietämys
+      description: Ensimmäisen laudan valinnasta edistyneisiin retkeilytekniikoihin — kaikki seisomamelonnasta.
+      icon: tabler:lifebuoy
+      topics:
+        - Kuinka valita ensimmäinen kumilauta SUP
+        - Paras SUP-koko aloittelijoille
+        - Kuinka vaikeaa seisomamelonta on?
+        - Kumilauta vs kova lauta vertailu
+        - SUP-turvallisuustarkistuslista
+    - title: SUP-tekniikka ja -teknologia
+      description: Tekniset oppaat ilmavatuisista SUP-laudoista — materiaalit, rakennusmenetelmät ja valmistusprosessit.
+      icon: tabler:microscope
+      topics:
+        - Drop-stitch-teknologian syväsukellus
+        - Sotilasluokan PVC-määrittelyt
+        - Fuusiolaminointi vs. liimattu liitos
+        - EVA-vaahtoteknologia ja kuvioinnit
+        - SUP-venttiilityypit ja eväjärjestelmät
+
+    - title: Turvallisuustietämys
+      description: Olennaista turvallisuustietoa jokaiselle melojalle — PFD-valinnasta säätilan lukemiseen ja itsensä pelastamiseen.
+      icon: tabler:shield
+      topics:
+        - SUP-turvallisuustarkistuslista
+        - Tarvitsetko pelastusliivejä?
+        - Merialueella melomisen turvallisuusopas
+        - Korjaustekniikat ilmavatuille tuotteille
+        - Sää- ja vesiolosuhteiden tiedostaminen
+    - title: Teknologia
+      description: Tekniikka afarer-tuotteiden takana — materiaalit, valmistusmenetelmät ja laadun testaus.
+      icon: tabler:microscope
+      topics:
+        - Merilaatuinen PVC-teknologia
+        - Drop-stitch -ydin selitettynä
+        - Miksi PSI:llä on väliä kumilauta-SUPeille
+        - RF-hitsaus vs liimaus
+        - Laadun testaus ja sertifiointi
+    - title: SUP-elämäntapa ja erityiskäyttö
+      description: Erityis-SUP-toimintaa — jooga, kalastus, koirat, perheet ja matkailuvinkit.
+      icon: tabler:heart
+      topics:
+        - SUP-jooga ja meditaatio veden päällä
+        - Kalastus laukeavalla SUP:lla
+        - Melontaa koirien ja lasten kanssa
+        - Matkustaminen SUP-laudallasi lentokoneella ja autolla
+        - SUP-lisävarusteet ja perusvarusteet
+    - title: SUP-vertailut ja viitteet
+      description: Rinnakkaisvertailut, jotka auttavat sinua tekemään tietoisia päätöksiä.
+      icon: tabler:chart-bar
+      topics:
+        - SUP vai kajakki — kumpi sopii sinulle?
+        - PVC-materiaaliluokat selitettynä
+        - Yksikammioinen vs. monikammioinen turvallisuus
+        - SUP-lautan materiaalit selitetään
+        - UV-tulostus vs EVA-lohkokuvitus
+featured_guides:
+  tagline: Esitellyt oppaat
+  title: Suosituimmat tietolähteet
+  items:
+    - title: SUP-perusteet
+      href: /learn/sup/
+    - title: Kumilauta vs kova lauta
+      href: /compare/inflatable-vs-hardboard/
+    - title: Vesiturvallisuusopas
+      href: /learn/water-safety/
+    - title: Materiaaliviite
+      href: /learn/materials/
+    - title: SUP-koko-opas
+      href: /size-guide/
+    - title: SUP-koko-opas
+      href: /guides/sup-size-guide/
+    - title: SUP-tekniikkakeskus
+      href: /research/
+    - title: SUP-lautojen huolto
+      href: /guides/sup-maintenance/
+    - title: Matkaopas
+      href: /guides/sup-for-touring/
+    - title: Soututekniikat
+      href: /guides/paddling-techniques/
+cta:
+  title: Aloita tutkiminen
+  subtitle: Sukella tietopohjaamme ja hanki tarvitsemasi tiedot seuraavaa vesi seikkailuasi varten.
+  actions:
+    - variant: primary
+      text: Selaa kaikkia oppaita
+      href: /academy/
+    - text: Tutki tietokarttaa
+      href: /knowledge/

@@ -1,0 +1,85 @@
+meta:
+  title: 'Custom Lab — paddleboardy na míru | {SITE}'
+  description: 'Nafukovací paddleboardy na míru: vlastní design, logo, vlastní forma a výroba. Partner SUP privátní značky, MOQ 50 kusů, certifikace CE.'
+  keywords:
+    - 'výrobce paddleboardů na míru'
+    - 'nafukovací SUP na míru'
+    - 'paddleboard s logem'
+    - 'nafukovací SUP privátní značky'
+    - 'výroba paddleboardů'
+hero:
+  tagline: afarer Custom Lab
+  title: Navrhněte si vlastní<br />SUP prkno
+  subtitle: Služby co-brand, privátní značky a výroba paddleboardů na míru pro firmy po celém světě. Od jediného prototypu až po plné výrobní série.
+  cta: Zahajte svůj projekt
+  footer_link: /contact/
+steps_section:
+  tagline: Jak to funguje
+  title: Od konceptu po výrobu
+  subtitle: Čtyři kroky od vašeho nápadu k hotovému produktu připravenému na moře.
+  steps:
+    - num: '01'
+      title: Vyberte si své prkno
+      desc: Vyberte si z našich hlavních SUP modelů — all-around, touring, joga, sport nebo dětské. Zvolte velikost, materiál a barvu.
+    - num: '02'
+      title: Nahrajte svůj design
+      desc: Pošlete nám své logo, grafické podklady nebo pokyny pro značku. Náš designérský tým připraví digitální náhled.
+    - num: '03'
+      title: AI kontrola vizualizací
+      desc: Před zahájením výroby si prohlédněte fotorealistický návrh své vlastní desky vygenerovaný umělou inteligencí.
+    - num: '04'
+      title: Výroba a dodávka
+      desc: Po schválení vaše objednávka vstoupí do naší výrobní linky. Dodací lhůty od 30 dnů.
+services_section:
+  tagline: Služby
+  title: Výrobní služby pro globální značky
+  subtitle: Flexibilní modely spolupráce — od zakázkové výroby až po vybudování značky na klíč.
+  items:
+    - title: Co-Brand výroba
+      desc: Vaše návrhy vyrábíme přesně podle specifikace – vaše IP, vaše výkresy, vaše standardy kvality. Plná ochrana NDA.
+      icon: ⚙️
+    - title: Designová řešení
+      desc: Vyberte si z více než 50 osvědčených modelů a upravte velikost, barvu, grafiku i balení.
+      icon: 🎨
+    - title: Privátní značka
+      desc: Vaše značka na našich produktech — logo, balení, visačky, manuály. Připraveno k prodeji hned z krabice.
+      icon: 🎨
+    - title: Zakázkový branding
+      desc: Potisk deck padů, grafika trupu, nálepky na komory a vlastní štítky – plná integrace značky.
+      icon: ⚙️
+capabilities_section:
+  tagline: Naše kompetence
+  title: Možnosti výroby a úprav na míru
+  subtitle: Vše, co potřebujete vědět, než zadáte objednávku.
+  capabilities:
+    - label: Objem objednávek
+      value: MOQ 50 jednotek (SUP)
+    - label: Dodací lhůta
+      value: 30–45 dní standardně; 15–20 dní pro prototypy
+    - label: Přizpůsobení
+      value: Velikost, tvar, barva, grafika, balení, příslušenství
+    - label: Materiály
+      value: PVC, drop-stitch, EVA, hliník
+    - label: Potisk
+      value: Digitální tisk (CMYK), sítotisk, termotransfer, sublimace
+    - label: Certifikace
+      value: CE, UKCA, FCC (podpora globální shody)
+why_section:
+  tagline: Proč afarer
+  title: Jedna továrna. Jeden standard. Nulové kompromisy.
+  points:
+    - text: Integrovaný výrobní závod o rozloze 12 000 m²
+      highlight: 12 000 m²
+    - text: Více než 200 zkušených pracovníků a inženýrů
+      highlight: 200+
+    - text: Ročně vyrobíme 15 000+ SUP prken
+      highlight: 15,000+
+    - text: ISO 9001 certifikované řízení kvality
+      highlight: ISO 9001
+    - text: Produkty s certifikací CE pro trh EU
+      highlight: CE
+  cta: Zobrazit podrobnosti o továrně
+  cta_link: /factory/
+  contact:
+    title: Připraveni probrat váš projekt?
+    desc: Náš tým odpoví do 24 hodin s předběžnou cenovou nabídkou.

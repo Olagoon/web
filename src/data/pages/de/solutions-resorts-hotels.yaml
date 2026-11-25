@@ -1,0 +1,111 @@
+meta:
+  title: Resort SUP Flottenlösungen | {SITE}
+  description: Komplette SUP-Flottenlösungen für Resorts und Hotels. Boards in Gewerbequalität, individuelles Branding, Mitarbeiterschulungen und ROI-optimierte Pakete von 20 bis 100 Boards.
+hero:
+  tagline: Resorts und Hotels
+  title: Machen Sie aus Ihrer Uferlage ein Einnahmezentrum<br />mit Premium-SUP-Flotten
+  subtitle: Afarer stattet Resorts weltweit mit aufblasbaren SUP-Flotten in kommerzieller Qualität aus — von 20-Board-Starterpaketen bis zu Flaggschiff-Programmen mit 100+ Boards. Individuelles Branding, Mitarbeiterschulungen und Ersatzteile inklusive.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Resortgäste beim Stand-Up-Paddeln an einem unberührten Strand
+roi_section:
+  title: Das Einnahmenmodell für Resort-SUP
+  subtitle: Wie Resorts mit einer einzigen Investition 50.000 bis 200.000 $ jährliches SUP-Mieteinkommen erzielen.
+  metrics:
+    - metric: "50.000–200.000+\_$"
+      label: Jährlicher SUP-Umsatz
+      detail: Pro Resort, basierend auf Flottengröße und Belegung
+    - metric: 4–6 Monate
+      label: Durchschnittliche Amortisationsdauer
+      detail: Vollständige Flotteninvestition innerhalb einer Saison zurückgewinnen
+    - metric: 40%
+      label: Umsatzsteigerung
+      detail: Durchschnittlicher Schub nach dem Wechsel zu Afarer-Flotten
+    - metric: '500+'
+      label: Verleihzyklen pro Board
+      detail: Kommerzielle Haltbarkeit für den täglichen Gebrauch
+packages:
+  title: Resort-Paket-System
+  subtitle: Wählen Sie das Paket, das zu Ihrer Gästekapazität und Ihren Umsatzzielen passt. Alle Pakete enthalten eine 12-monatige Garantie und CE-Zertifizierung.
+  items:
+    - name: Starter-Paket
+      tagline: Für Boutique-Resorts, bis zu 20 Gäste/Tag
+      features:
+        - 20 SUP-Boards (3 Größen für Erwachsene/Kinder)
+        - 20 Paddel (verstellbar) + 20 Schwimmwesten
+        - 4 Doppelhubpumpen (Elektro optional)
+        - 2 Boardständer + Reparaturkit
+        - Individueller Logo-Druck auf den Boards
+        - 12-monatige Garantie + CE-zertifiziert
+      revenue: Jährliches Umsatzpotenzial von 50.000 bis 80.000 USD
+      cta_text: Starter-Paket erhalten
+    - name: Premium-Paket
+      tagline: Für große Resorts, 50-100 Gäste/Tag
+      features:
+        - 50 SUP-Boards (5 Größen, gemischte Flotte)
+        - 50 Paddel + 50 Schwimmwesten
+        - 10 Doppelhubpumpen + 2 Elektro-Pumpen
+        - 5 Boardständer + 2 Rollerwagen
+        - Umfassendes Custom-Branding (Boards, Paddel, Taschen)
+        - Mitarbeiterschulung (online)
+        - Ersatzteilversand innerhalb von 48 Stunden
+        - 12-monatige Garantie + CE-zertifiziert
+      revenue: $120.000–$200.000 jährliches Umsatzpotenzial
+      popular: true
+      cta_text: Premium-Paket erhalten
+    - name: Flaggschiff-Paket
+      tagline: Für Ultra-Premium-Resorts, 100+ Gäste/Tag
+      features:
+        - 100+ SUP-Boards (komplette Größenabdeckung)
+        - Komplettes Zubehör-Set (Paddel, Westen, Pumpen, Wagen)
+        - Mitarbeiterschulung vor Ort (2 Tage)
+        - Dedizierter Kundenbetreuer
+        - Prioritäts-Ersatzteile (24h Versand)
+        - Umfassendes Custom-Branding (Boards + Zubehör)
+        - Marketing-Foto-/Videopaket
+        - 24-monatige Garantie + CE-zertifiziert
+      revenue: $200.000 jährliches Umsatzpotenzial
+      cta_text: Flaggschiff-Paket erhalten
+case_study:
+  quote: Seit dem Wechsel zu Afarer ist unser SUP-Vermietungsumsatz um 40 % gestiegen. Die Kosten für den Austausch der Boards sanken um 60 %. Wir haben unsere gesamten Investitionen in die Flotte in 4 Monaten wieder hereingeholt.
+  author: Leiter für Wasseraktivitäten
+  location: 5-Sterne-Resort, Malediven
+  results:
+    - label: Umsatzwachstum
+      value: +40%
+    - label: Kostenreduzierung
+      value: '-60%'
+    - label: Amortisationszeit
+      value: 4 Monate
+features:
+  title: Warum Resorts Afarer wählen
+  subtitle: Gewerbliche Haltbarkeit, globale Logistik und ein Partner, der Gastfreundschaft versteht.
+  items:
+    - title: 500 Mietzyklen
+      description: Jedes Brett wird getestet, um 500 Vermietungszyklen in Salzwasser, Sonne und Sand zu überstehen.
+      icon: tabler:shield-check
+    - title: 48h Teileversand
+      description: Ersatzteile werden innerhalb von 48 Stunden versandt — Ihr Mieteinnahmen hören nie auf.
+      icon: tabler:truck-delivery
+    - title: Benutzerdefiniertes Branding
+      description: Passen Sie Ihre Resort-Identität mit benutzerdefinierten Farben und Logo auf jedem Board an.
+      icon: tabler:palette
+    - title: Mitarbeiterschulung
+      description: Online- und Vor-Ort-Schulungsprogramme für Ihr Aktivitätsteam.
+      icon: tabler:school
+    - title: Globale Logistik
+      description: Versand in über 50 Länder mit konsolidierten Frachtoptionen.
+      icon: tabler:world
+    - title: CE-zertifiziert
+      description: Alle Geräte CE-zertifiziert, ISO 9001:2015 — Sicherheit und Qualität garantiert.
+      icon: tabler:certificate
+cta:
+  title: Bereit, Ihre Uferlage in ein Einnahmezentrum zu verwandeln?
+  subtitle: Holen Sie sich Ihr Angebot für das Resort-Paket oder laden Sie unseren vollständigen Resort-Katalog herunter.
+  actions:
+    - text: Resort-Paket buchen
+      href: /contact/?package=resort
+      variant: primary
+    - text: Resort-Katalog herunterladen
+      href: /resources/download-catalog/
+      variant: secondary

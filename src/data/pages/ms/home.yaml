@@ -1,0 +1,104 @@
+meta:
+  title: Papan Paddle Tiup Afarer | Pergi Lebih Jauh. Kayuh Lebih Kuat.
+  description: Temui papan paddle tiup Afarer untuk kayuhan serbaguna, touring, yoga, memancing dan pengembaraan luar rumah. Cari SUP yang sempurna dan terokai lebih banyak di air.
+  keywords:
+    - papan paddle tiup
+    - sup tiup
+    - sup serbaguna
+    - sup touring
+    - sup yoga
+    - sup memancing
+    - papan paddle keluarga
+    - papan paddle mudah alih
+hero:
+  tagline: Papan Paddle Tiup
+  title: Papan Paddle Tiup untuk Setiap Pengembaraan
+  slogan: Pergi Lebih Jauh. Kayuh Lebih Kuat.
+  subtitle: Temui kebebasan berkayuh bersama Afarer. Terokai SUP tiup yang direka dengan teliti untuk hari santai di tasik, pengembaraan pesisiran, kecergasan dan segalanya di antaranya.
+  taglineSection: Dibina untuk keyakinan. Direka untuk menonjol.
+  actions:
+    - variant: primary
+      text: Cari Papan Anda
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Terokai SUP
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Mengapa Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Papan paddle tiup Afarer meluncur di air tenang ketika matahari terbit — dibina untuk setiap pengembaraan
+who_we_serve:
+  tagline: Kayuh Bersama Kami
+  title: Temui Laluan Anda di Air
+  subtitle: Setiap pengayuh mempunyai idea pengembaraan yang berbeza. Temui SUP Afarer yang direka mengikut gaya kayuhan anda.
+  items:
+    - title: Pemula & Pengayuh Rekreasi
+      keywords: sup tiup untuk pemula, papan paddle serbaguna, sup stabil
+      description: Papan serbaguna yang lebar dan stabil menjadikan kayuhan pertama terasa semula jadi dan terus menemani anda berkembang.
+      icon: tabler:users
+      cta: Cari Papan Pertama Anda
+      link: /all-around-sup/
+    - title: Touring & Pengembaraan
+      keywords: sup touring, papan paddle jarak jauh, sup ekspedisi
+      description: Papan yang lebih panjang dan sempit yang mengekalkan arah, meluncur lebih jauh dan membawa kelengkapan untuk laluan beberapa hari.
+      icon: tabler:building
+      cta: Terokai SUP Touring
+      link: /touring-sup/
+    - title: Yoga & Kecergasan
+      keywords: sup yoga, papan paddle kecergasan, sup lebar dan stabil
+      description: Platform lebar dan stabil dengan ruang untuk bergerak — untuk aliran waktu matahari terbit, latihan dan keseimbangan di air tenang.
+      icon: tabler:heart
+      cta: Terokai SUP Yoga
+      link: /yoga-sup/
+    - title: Memancing & Keluarga
+      keywords: sup memancing, papan paddle keluarga, platform memancing stabil
+      description: Platform stabil dan praktikal untuk memancing, berkayuh bersama anak-anak dan hari santai yang panjang di air.
+      icon: tabler:users
+      cta: Terokai SUP Memancing
+      link: /fishing-sup/
+proof_points:
+  title: Diuji Melebihi Bilik Pameran
+  subtitle: Reka bentuk, prestasi dan kualiti yang boleh anda sahkan — di atas air dan dalam angka.
+  items:
+    - metric: 10+
+      label: Tahun Mereka Bentuk untuk Air
+      detail: Sejak 2012, diperhalusi papan demi papan
+    - metric: 50+
+      label: Negara di Atas Air
+      detail: Pendayung dan rakan kongsi di seluruh dunia
+    - metric: 12–15
+      label: Teras Drop-Stitch PSI
+      detail: Kaku saat penting, mudah dibungkus
+    - metric: 100%
+      label: Diuji Tekanan Papan demi Papan
+      detail: Diperiksa sebelum dihantar
+business_solutions:
+  tagline: Mengapa Rasanya Berbeza
+  title: Prestasi yang Anda Rasai dari Kayuhan Pertama
+  subtitle: Empat tunjang yang dibentuk oleh air sebenar — prestasi, reka bentuk, pembinaan dan kualiti.
+  items:
+    - title: Prestasi di Air
+      description: Bentuk ditala untuk kestabilan, luncuran dan keyakinan di air bergelora — setiap kayuhan kekal bersambung dengan air.
+      icon: tabler:shield-check
+    - title: Reka Bentuk Ekspresif
+      description: Koleksi terinspirasi daripada pasang surut, hidupan liar dan tenaga pesisiran — papan yang anda mahu dilihat bersamanya.
+      icon: tabler:package
+    - title: Pembinaan Terbukti
+      description: Teras drop-stitch ketumpatan tinggi, rel diperkukuh dan jahitan laminasi fusi untuk penggunaan berulang.
+      icon: tabler:headset
+    - title: Kualiti Disahkan
+      description: Diuji tekanan, diperiksa visual dan disokong waranti yang jelas serta sokongan selepas jualan yang responsif.
+      icon: tabler:truck-delivery
+cta:
+  title: Cari papan anda seterusnya.
+  subtitle: Sama ada kayuhan pertama atau laluan terjauh anda — kami akan membawa anda ke air.
+  actions:
+    - variant: primary
+      text: Terokai Koleksi
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Minta Katalog
+      href: /resources/download-catalog/

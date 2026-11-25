@@ -1,0 +1,66 @@
+meta:
+  title: โซลูชันกองเรือเช่า SUP | {SITE}
+  description: บอร์ด SUP ที่ใช้งานหมุนเวียนสูง ออกแบบทางวิศวกรรมสำหรับการใช้งานให้เช่ารายวัน PVC ทนรังสี UV ตะเข็บเสริมความแข็งแรง วัสดุแห้งเร็ว ขยายธุรกิจให้เช่าของคุณไปกับ Afarer
+hero:
+  tagline: ผู้ประกอบการธุรกิจให้เช่า
+  title: ขยายธุรกิจเช่าของคุณ<br />ด้วยความมั่นใจ
+  subtitle: บอร์ด SUP ที่ใช้งานหมุนเวียนสูง ออกแบบวิศวกรรมมาเพื่อให้บริการเช่ารายวัน 365 วันต่อปี รายได้ของคุณไม่เคยหยุดพัก
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: จุดให้เช่าที่คึกคัก พร้อมบอร์ด SUP ให้บริการแขก
+features:
+  title: สร้างมาเพื่อรองรับการใช้งานหนักในธุรกิจให้เช่า
+  subtitle: บอร์ดทุกใบถูกออกแบบมาสำหรับการให้เช่ามากกว่า 500 รอบ โดยแทบไม่ต้องบำรุงรักษา
+  items:
+    - title: รอบการเช่า 500+ ครั้ง
+      description: ผ่านการทดสอบเพื่อรองรับการใช้งานประจำวันในน้ำทะเล แดด และทราย
+      icon: tabler:shield-check
+    - title: ผ้ากันรังสียูวี (UV-Resistant)
+      description: ไม่ซีดจางหรือเสื่อมสภาพหลังการจัดเก็บกลางแจ้งเป็นเวลา 1 ปี
+      icon: tabler:sun
+    - title: รอยเชื่อมเสริมความแข็งแรง
+      description: แข็งแรงกว่าบอร์ดเป่าลมมาตรฐาน 3 เท่า
+      icon: tabler:layers-intersect
+    - title: วัสดุแห้งเร็ว
+      description: บอร์ดพร้อมให้เช่าครั้งถัดไปในเวลาไม่ถึง 30 นาที
+      icon: tabler:droplet
+    - title: การจัดเก็บแบบซ้อนกันได้
+      description: การออกแบบประหยัดพื้นที่ — จัดเก็บบอร์ดได้เพิ่มขึ้น 40% ในพื้นที่เท่าเดิม
+      icon: tabler:stack
+    - title: ขนาดรหัสสี
+      description: พนักงานหยิบบอร์ดที่ถูกต้องได้ทันทีด้วยระบบรหัสสีบอกขนาด
+      icon: tabler:color-swatch
+stats:
+  title: ตัวชี้วัดการดำเนินงาน
+  stats:
+    - title: อัตราการหมุนเวียนบอร์ด
+      amount: < 5 min
+    - title: การดูแลรักษาประจำปี
+      amount: ~15 นาที/บอร์ด
+    - title: การจัดส่งอะไหล่
+      amount: 48h
+    - title: อัตราสินค้าบกพร่อง
+      amount: < 0.5%
+fleet_guide:
+  title: คู่มือการกำหนดขนาดกองเรือ
+  subtitle: ประเมินขนาดกองเรือและศักยภาพรายได้สำหรับธุรกิจให้เช่าของคุณ
+  tiers:
+    - label: คีออสขนาดเล็ก
+      boards: 15-20
+      revenue: $XX,XXX/yr
+    - label: กิจการขนาดกลาง
+      boards: 30-50
+      revenue: $XX,XXX/yr
+    - label: ผู้ให้เช่าชายหาดรายใหญ่
+      boards: 50-100
+      revenue: $XXX,XXX/yr
+cta:
+  title: พร้อมที่จะขยายธุรกิจให้เช่าของคุณแล้วหรือยัง?
+  subtitle: รับข้อมูลราคาเช่าหรือเปรียบเทียบรุ่นบอร์ดสำหรับธุรกิจของคุณ
+  actions:
+    - text: ขอราคาเช่า
+      href: /contact/?package=rental
+      variant: primary
+    - text: เปรียบเทียบรุ่นบอร์ด
+      href: /compare/
+      variant: secondary

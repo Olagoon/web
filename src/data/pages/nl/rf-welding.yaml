@@ -1,0 +1,107 @@
+meta:
+  title: RF Lascentrum — Dielectrisch Lijmen voor Luchtdichte Naden | {SITE}
+  description: Radiofrequentielastrtechnologie die flexibele luchtdichte naden levert. Scheurtests, validatie van luchtdichtheid en aangepaste naadspecificaties.
+back_text: Terug naar R&D Centrum
+home_label: Home
+hero:
+  tagline: Lab 03
+  title: RF Lascentrum
+  subtitle: Dielectrische hechttechnologie voor lassen die druk kunnen weerstaan
+  image: https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp
+  image_alt: Afarer RF-lassen dielektrisch verbindingsproces
+intro: >-
+  Een opblaasbare SUP is slechts zo betrouwbaar als zijn naden. Een enkele zwakke las kan een hele kamer in gevaar brengen — en op zee is het falen van een kamer geen ongemak; het is een veiligheidsrisico. Bij Afarer hebben we geïnvesteerd in een speciaal Radio-Frequentie (RF) Lascentrum dat
+  industriële dielektrische laspersen combineert met rigoureuze procescontrole en testen na het lassen. Elke naad die we produceren is gedocumenteerd, traceerbaar en gecertificeerd om te voldoen aan of de vereisten van de Europese norm EN ISO 25649 voor opblaasbare vrijetijdsuitrusting te overtreffen.
+content_html: >
+  <h2>De wetenschap achter de lasnaad</h2>
+
+  <p>RF-lassen gebruikt hoogfrequente elektromagnetische energie (doorgaans 27.12 MHz) om de polaire moleculen in met PVC gecoat weefsel te exciteren, waardoor er precies op het materiaalcontactvlak warmte ontstaat. In tegenstelling tot hete-lucht- of hete-wig lassen creëert RF-lassen een
+  echte moleculaire verbinding — de twee weefsellagen versmelten in de laszone tot één homogeen materiaal, waardoor een verbinding ontstaat die net zo sterk is als het oorspronkelijke materiaal zelf.</p>
+
+
+  <h2>Lasapparatuur en procesbeheersing</h2>
+
+  <p>Ons lascentrum is uitgerust met:</p>
+
+  <table>
+    <thead><tr><th>Machine</th><th>Vermogen / Capaciteit</th><th>Toepassing</th></tr></thead>
+    <tbody>
+      <tr><td>Diëlektrische RF-pers 1</td><td>15 kW, plaat 2000 × 600 mm</td><td>Belangrijkste langsnaden, rail-naar-romp verbindingen</td></tr>
+      <tr><td>Diëlektrische RF-pers 2</td><td>10 kW, plaat 1500 × 500 mm</td><td>Schotlassen, sluitnaden van rails, ventielverstevigingen</td></tr>
+      <tr><td>CNC-gestuurde RF-lasser</td><td>8 kW, XY-tafel 2500 × 1200 mm</td><td>Gebogen naden, reliëf op logo/panelen, precisiepatches</td></tr>
+      <tr><td>Automatische hete-wig lasser</td><td>Variabele temperatuur, max. 1.2 m/min</td><td>Back-upmethode voor dik railweefsel van PVC en reparatiewerk</td></tr>
+    </tbody>
+  </table>
+
+  <p>Elke RF-pers is uitgerust met bewaking van temperatuur en druk in een gesloten kringloop. Lasparameters — vermogen, perstijd, koeltijd, elektrodedruk — worden per materiaalsoort geprogrammeerd en vastgelegd in ons Manufacturing Execution System (MES) voor volledige traceerbaarheid.</p>
+
+
+  <h2>Laskwaliteitstests — elke naad, elk board</h2>
+
+  <p>De laskwaliteit wordt geverifieerd aan de hand van een verplicht protocol van vier tests:</p>
+
+  <ol>
+    <li><strong>Visuele inspectie</strong> — 100 % van de naden wordt visueel geïnspecteerd op doorsmelting, verkeerde positionering, verontreiniging of onvolledige fusie. Grenswaarde voor afkeur: 0.5 % van de lopende meters.</li>
+    <li><strong>Peel test</strong> — Uit een met elke productiebatch meegelaste testcoupon wordt een strook van 25 mm breed gesneden. Minimale peelkracht: 120 N/25 mm voor PVC 1100 dtex.</li>
+    <li><strong>Luchtdichtheidstest</strong> — Elke voltooide kamer wordt onder druk gezet tot 1.5 × werkdruk en gedurende 30 minuten vastgehouden. De drukval mag niet meer dan 2 % bedragen.</li>
+    <li><strong>Thermische cyclustest</strong> — Testcoupons worden 50 cycli van -20 °C tot +60 °C ondergaan en daarna opnieuw aan een peel test onderworpen. Toelaatbaar sterkteverlies: &lt; 10 %.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Vergelijking peelsterkte — RF vs hete-lucht lassen (PVC 1100 dtex)</p>
+    <div class="space-y-3">
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">RF-las</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">184 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Hete lucht</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">130 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Min.</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-green-500 rounded" style="width:48%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">96 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Met RF-lassen wordt consequent 90-95 % van de sterkte van het oorspronkelijke materiaal bereikt, ruim boven het minimum.</p>
+  </div>
+
+
+  <h2>Professionele expertise</h2>
+
+  <p>Ons lassersteam wordt geleid door een senior procesingenieur met 11 jaar ervaring in het diëlektrisch lassen van gecoat textiel. Elke operator voltooit een certificeringsprogramma van 6 maanden in eigen huis voordat hij aan productienaden mag werken. Her-certificering is jaarlijks vereist,
+  inclusief een praktische lastest die wordt beoordeeld aan de hand van onze interne Grade-A norm (peelsterkte ≥ 160 N/25 mm).</p>
+
+
+  <h2>Maatwerklassoplossingen voor bijzondere vereisten</h2>
+
+  <p>We begrijpen dat één lasspecificatie niet voor elke toepassing geschikt is. Ons RF-lascentrum ontwikkelt routinematig op maat gemaakte lasconfiguraties voor klanten met bijzondere vereisten:</p>
+
+  <ul>
+    <li><strong>Meerlaagse verstevigingspatches</strong> — voor slijtagegevoelige zones zoals de rails van neus en staart ontwikkelen we meerdoorgangs-RF-lassen met een geïntegreerde slijtvaste buitenlaag, zonder concessies aan de flexibiliteit.</li>
+    <li><strong>Geleidende of RF-ondoorzichtige naden</strong> — voor militaire of surveillancetoepassingen die elektromagnetische afscherming vereisen, lassen we geleidende gaaslagen in de opbouw van de naad.</li>
+    <li><strong>Lassen van tweekleurige panelen</strong> — tweekleurige weefselpanelen (bijv. oranje romp + grijs dek) worden gelast met een verborgen overlap om de merkaesthetiek te behouden zonder een zichtbare laslijn.</li>
+  </ul>
+
+
+  <h2>Onze toezegging aan u</h2>
+
+  <p>Elk board dat wij leveren draagt onze laskwaliteitsgarantie: als een naad bij normaal gebruik binnen de garantieperiode bezwijkt, repareren of vervangen we de betreffende kamer kosteloos en wordt er een grondoorzaakanalyse uitgevoerd om herhaling te voorkomen. Dit is niet zomaar een garantie —
+  het is een toezegging tot continue verbetering, gestuurd door operationele data uit de praktijk.</p>
+
+  <p>Wanneer u voor Afarer kiest, kiest u voor naden die zijn ontwikkeld, getest en gedocumenteerd — niet zomaar gelast. Dat is het verschil tussen een board dat drijft en een board dat presteert.</p>
+cta:
+  title: Bespreek uw lasvereisten
+  subtitle: Aangepaste naadafspraken, materiaalle compatibiliteit of procesvalidatie.
+  button_text: Neem contact op met ons lasteam
+  button_link: /contact/

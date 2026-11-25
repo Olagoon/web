@@ -1,0 +1,99 @@
+meta:
+  title: 'Be om tilbud — OEM-SUP-produksjon | {SITE}'
+  description: 'Be om et detaljert tilbud for ditt oppblåsbare SUP-prosjekt. OEM/ODM-produksjon, private label eller tilpassede flåter — vi svarer innen 2 virkedager.'
+  keywords:
+    - 'be om SUP-tilbud'
+    - 'OEM paddle board tilbud'
+    - 'SUP-fabrikk tilbud'
+    - 'pris oppblåsbar SUP'
+hero_text:
+  tagline: Få et tilbud
+  title: Be om et tilbud<br />for ditt prosjekt
+  subtitle: Fortell oss om dine krav, så svarer teamet vårt med et detaljert tilbud innen 2 virkedager.
+steps2_process:
+  title: Slik fungerer det
+  subtitle: Fire enkle steg fra forespørsel til tilbud.
+  items:
+    - title: 'Steg 1: Send inn dine krav'
+      description: Fyll ut skjemaet nedenfor med produkttype, mengde og spesifikasjoner. Jo mer detalj du oppgir, desto mer nøyaktig blir tilbudet ditt.
+      icon: tabler:file-text
+    - title: 'Trinn 2: Vi vurderer og gir råd'
+      description: Vårt ingeniørteam gjennomgår dine krav og kan kontakte deg for avklaring. Vi gir anbefalinger om produktkonfigurasjon og alternativer.
+      icon: tabler:users
+    - title: 'Trinn 3: Motta ditt tilbud'
+      description: Du mottar et detaljert tilbud inkludert enhetspris, MOQ, ledetid, betalingsbetingelser og fraktalternativer. Vanligvis innen 48 timer.
+      icon: tabler:currency-dollar
+    - title: 'Trinn 4: Prøve og produksjon'
+      description: Etter tilbudsgodkjennelse går vi videre til prøveproduksjon (hvis aktuelt) eller direkte til masseproduksjon. Regelmessige oppdateringer gjennom hele prosessen.
+      icon: tabler:building-factory
+content_form:
+  tagline: Tilbudsforespørsel
+  title: Fortell oss om prosjektet ditt
+  subtitle: Alle felt med * er påkrevd.
+  contact_fields:
+    firstName: Fornavn
+    lastName: Etternavn
+    companyName: Bedrift
+    email: E-post
+  fields:
+    - name: Produktkategori
+      type: select
+      options:
+        - SUP-brett
+        - Oppblåsbar SUP
+        - Oppblåsbart SUP-brett
+        - Redningsvest
+        - Marint tilbehør
+        - Skreddersydd OEM/ODM
+    - name: Bruksområde
+      type: select
+      options:
+        - Dykkesenter
+        - Fiske
+        - Marin turisme / resort
+        - Søk og redning
+        - Statlig / militært
+        - OEM / eget merke
+        - Personlig / Fritid
+        - Annet
+    - name: Antall
+      type: text
+      placeholder: f.eks. 50 enheter
+    - name: Målmarked
+      type: text
+      placeholder: f.eks. Europa, Nord-Amerika, Midtøsten
+    - name: Leveringsland
+      type: text
+      placeholder: f.eks. Italia, UAE, USA, Australia
+    - name: Materialpreferanse
+      type: select
+      options:
+        - Ingen preferanse
+        - Marin-grade PVC (1100 dtex)
+        - Glassfiberskrog
+        - Aluminiumsskrog
+    - name: Motorbehov
+      type: text
+      placeholder: f.eks. standard padleoppsett, elektrisk pumpe, tilpassede farger
+    - name: Ønsket tilpasning
+      type: text
+      placeholder: f.eks. tilpassede farger, merkevare/logo, emballasje, spesielle tilbehør
+    - name: Leveringstid
+      type: text
+      placeholder: f.eks. levering innen 90 dager
+    - name: Ytterligere krav
+      type: textarea
+      placeholder: Beskriv din applikasjon, tekniske spesifikasjoner eller eventuelle spesielle krav — inkluder referansetegninger, spesifikasjoner eller lenker hvis tilgjengelig
+    - name: Last opp spesifikasjon
+      type: file
+      placeholder: Last opp spesifikasjonsarket, tegningen eller referansedokumentet ditt (PDF, DWG, DXF)
+    - name: Last opp logo / grafikk
+      type: file
+      placeholder: Last opp logoen eller grafikken din for tilpasset merking (AI, EPS, PNG)
+cta:
+  title: Foretrekker du å diskutere via e-post?
+  subtitle: Send din henvendelse direkte til vårt salgsteam, så svarer vi innen 24 timer.
+  actions:
+    - variant: primary
+      text: Send oss en e-post direkte
+      href: /contact/

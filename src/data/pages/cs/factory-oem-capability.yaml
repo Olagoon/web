@@ -1,0 +1,55 @@
+meta:
+  title: 'Výroba OEM a privátních značek | {SITE}'
+  description: 'Od konceptu ke kontejneru: přizpůsobte každý detail vaší nafukovací řady SUP. Kompletní služba OEM/ODM pro značky paddleboardů privátních značek.'
+  keywords:
+    - 'výroba SUP OEM'
+    - 'privátní značka paddleboard'
+    - 'OEM nafukovací SUP'
+    - 'SUP továrna na míru'
+hero:
+  tagline: OEM/ODM výroba
+  title: Výroba OEM a pod vlastní značkou
+  subtitle: Od konceptu ke kontejneru — přizpůsobte každý detail vaší nafukovací řady SUP
+intro: >-
+  Společnost afarer nabízí komplexní služby OEM a ODM pro značky, distributory a státní instituce po celém světě. Díky více než 10 letům zkušeností s exportem a továrně s certifikací ISO 9001 a BSCI o rozloze 12 000 m² zajišťujeme vše od návrhu produktu a vývoje forem až po sériovou výrobu, balení a
+  logistiku.
+highlight:
+  - value: 10+
+    label: Let zkušeností s OEM výrobou
+    detail: Od roku 2012
+  - value: 50+
+    label: Exportní země
+    detail: Globální dosah
+  - value: 200+
+    label: Dodané zakázkové projekty
+    detail: Napříč všemi produktovými řadami
+  - value: 30–45
+    label: Standardní dodací lhůta (dny)
+    detail: Od objednávky (PO) po dodání FOB
+services:
+  - title: Design a konstrukce produktů
+    description: Náš interní tým výzkumu a vývoje zpracuje váš koncept nebo specifikaci do podoby CAD výkresů, 3D modelů a prototypů. Nabízíme návrh forem, optimalizaci tvaru trupu a poradenství při výběru materiálů.
+  - title: Vlastní branding a grafika
+    description: Plnobarevný digitální tisk, sítotisk, embosování a možnosti etiket. Vytváříme grafiku palub na míru značky, potisk komor a maloobchodně připravené balení.
+  - title: Úprava materiálu a specifikací
+    description: Vybírejte z konstrukcí PVC (standardní, ekologická, nehořlavá), drop-stitch a hybridních konstrukcí. Možnosti vlastních barev komor, gramáží tkanin a zesílení.
+  - title: Balení a logistika
+    description: Vlastní maloobchodní balení, krabice s vlastní značkou, vakuové balení, paletizace a nakládka kontejnerů. K dispozici jsou dodací podmínky FOB Qingdao, CIF nebo DDP.
+moq_table:
+  - product: Nafukovací SUP prkna
+    standard_moq: 5–10 kusů
+    custom_moq: 200+ jednotek
+    lead_time: 30–45 days
+  - product: Záchranné vesty a bezpečnost
+    standard_moq: 100–200 kusů
+    custom_moq: 1,000+ kusů
+    lead_time: 20–30 dní
+why_us:
+  - title: Vertikální integrace
+    description: Vlastníme továrnu, formy i dodavatelský řetězec — žádné mezičlánky, žádní subdodavatelé. Díky tomu máme pod kontrolou kvalitu, náklady i dodací termíny.
+  - title: Dvojí certifikace
+    description: Certifikace systému řízení kvality ISO 9001 a sociální shody BSCI. Protokoly z továrních auditů k dispozici na vyžádání.
+  - title: Shoda s CE
+    description: Všechny standardní modely mají certifikaci CE 2013/53/EU. Vlastní modely lze certifikovat v rámci našeho zavedeného procesu.
+  - title: Nízké MOQ
+    description: Začněte už s pouhými 5 kusy u standardních modelů. Pomáháme začínajícím značkám vstoupit na trh, aniž by musely nadměrně vázat zásoby.

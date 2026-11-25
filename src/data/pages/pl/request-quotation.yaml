@@ -1,0 +1,99 @@
+meta:
+  title: 'Poproś o wycenę — produkcja SUP OEM | {SITE}'
+  description: 'Poproś o szczegółową wycenę swojego projektu nadmuchiwanego SUP. Produkcja OEM/ODM, private label lub floty na zamówienie — odpowiadamy w ciągu 2 dni roboczych.'
+  keywords:
+    - 'poproś o wycenę SUP'
+    - 'wycena paddle board OEM'
+    - 'wycena fabryki SUP'
+    - 'cena nadmuchiwanego SUP'
+hero_text:
+  tagline: Uzyskaj wycenę
+  title: Poproś o wycenę<br />dla swojego projektu
+  subtitle: Opowiedz nam o swoich wymaganiach, a nasz zespół odpowie szczegółową wyceną w ciągu 2 dni roboczych.
+steps2_process:
+  title: Jak to działa
+  subtitle: Cztery proste kroki od zapytania do wyceny.
+  items:
+    - title: 'Krok 1: Prześlij swoje wymagania'
+      description: Wypełnij poniższy formularz, podając typ produktu, ilość i specyfikacje. Im więcej szczegółów podasz, tym dokładniejsza będzie Twoja wycena.
+      icon: tabler:file-text
+    - title: 'Krok 2: Przeglądamy i doradzamy'
+      description: Nasz zespół inżynieryjny analizuje Twoje wymagania i może skontaktować się z Tobą w celu wyjaśnienia. Zapewniamy rekomendacje dotyczące konfiguracji i opcji produktu.
+      icon: tabler:users
+    - title: 'Krok 3: Otrzymaj swoją wycenę'
+      description: Otrzymujesz szczegółową wycenę zawierającą ceny jednostkowe, MOQ, czas realizacji, warunki płatności i opcje wysyłki. Zwykle w ciągu 48 godzin.
+      icon: tabler:currency-dollar
+    - title: 'Krok 4: Próbka i produkcja'
+      description: Po akceptacji wyceny przechodzimy do produkcji próbnej (jeśli dotyczy) lub bezpośrednio do produkcji masowej. Regularne aktualizacje przez cały proces.
+      icon: tabler:building-factory
+content_form:
+  tagline: Formularz wyceny
+  title: Opowiedz nam o swoim projekcie
+  subtitle: Wszystkie pola z * są wymagane.
+  contact_fields:
+    firstName: Imię
+    lastName: Nazwisko
+    companyName: Firma
+    email: Email
+  fields:
+    - name: Kategoria produktu
+      type: select
+      options:
+        - Deska SUP
+        - Dmuchany SUP
+        - Dmuchana deska SUP
+        - Kamizelka ratunkowa
+        - Akcesorium morskie
+        - OEM/ODM na zamówienie
+    - name: Zastosowanie
+      type: select
+      options:
+        - Centrum nurkowe
+        - Wędkarstwo
+        - Turystyka morska / kurort
+        - Poszukiwanie i ratownictwo
+        - Rząd / Wojsko
+        - OEM / Marka własna
+        - Osobiste / Rekreacyjne
+        - Inny
+    - name: Ilość
+      type: text
+      placeholder: np. 50 szt.
+    - name: Rynek docelowy
+      type: text
+      placeholder: np. Europa, Ameryka Północna, Bliski Wschód
+    - name: Kraj dostawy
+      type: text
+      placeholder: np. Włochy, ZEA, USA, Australia
+    - name: Preferowany materiał
+      type: select
+      options:
+        - Brak preferencji
+        - PVC klasy morskiej (1100 dtex)
+        - Kadłub z włókna szklanego
+        - Kadłub aluminiowy
+    - name: Wymagania dotyczące silnika
+      type: text
+      placeholder: np. standardowy zestaw wiosła, pompka elektryczna, niestandardowe kolory
+    - name: Wymagane dostosowanie
+      type: text
+      placeholder: np. niestandardowe kolory, branding/logo, opakowanie, specjalne okucia
+    - name: Harmonogram
+      type: text
+      placeholder: np. dostawa w ciągu 90 dni
+    - name: Dodatkowe wymagania
+      type: textarea
+      placeholder: Opisz swoją aplikację, specyfikacje techniczne lub wszelkie specjalne wymagania — dołącz rysunki referencyjne, specyfikacje lub linki, jeśli są dostępne
+    - name: Prześlij specyfikację
+      type: file
+      placeholder: Prześlij swoją kartę specyfikacji, rysunek lub dokument referencyjny (PDF, DWG, DXF)
+    - name: Prześlij logo / grafikę
+      type: file
+      placeholder: Prześlij swoje logo lub grafikę do niestandardowego brandingu (AI, EPS, PNG)
+cta:
+  title: Wolisz rozmawiać przez e-mail?
+  subtitle: Wyślij swoje zapytanie bezpośrednio do naszego zespołu sprzedaży, a my odpowiemy w ciągu 24 godzin.
+  actions:
+    - variant: primary
+      text: Wyślij nam e-mail bezpośrednio
+      href: /contact/

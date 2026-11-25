@@ -1,0 +1,112 @@
+meta:
+  title: 'O Afarer — Značka nafukovacích SUP a vodních sportů | {SITE}'
+  description: 'Afarer je globální značka nafukovacích SUP a vodních sportů, kterou provozuje Aquafarer LLC a buduje náš operační tým v Qingdao. Poznejte náš příběh, inženýrství, certifikovanou kvalitu a programy partnerství pro jednotlivé země.'
+  keywords:
+    - 'značka nafukovacích sup prken'
+    - 'značka vodních sportů'
+    - 'zemský distributor sup'
+    - 'co-branded kolekce sup'
+hero:
+  tagline: O nás
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Továrna a dílny afarer
+  title: O afarer
+  subtitle: 'Začínali jsme v přímořské dílně s jedním prknem a neochvějným přesvědčením: námořní výrobky by měly být konstruovány tak, jako by na nich skutečně záleželo — protože záleží. Dnes dodáváme do více než 40 zemí, ale každý trup stále prochází rukama týchž lidí, kteří firmu založili.'
+stats:
+  title: V číslech
+  columns: 4
+  stats:
+    - title: Dodané trupy
+      amount: 2 400+
+    - title: Země, do kterých dodáváme
+      amount: '40'
+    - title: Roky kombinovaných zkušeností
+      amount: '60'
+    - title: Průměrná doba reakce na reklamaci (hodiny)
+      amount: '24'
+features3_what_we_build:
+  title: Co stavíme
+  subtitle: 'Začínali jsme v přímořské dílně s jedním prknem a neochvějným přesvědčením: námořní výrobky by měly být konstruovány tak, jako by na nich skutečně záleželo — protože záleží. Dnes dodáváme do více než 40 zemí, ale každý trup stále prochází rukama týchž lidí, kteří firmu založili.'
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: SUP prkna
+      description: Nafukovací SUP prkna od 9 do 12 stop. Navržena pro túry, jógu, rybaření a rodinné použití.
+      icon: tabler:ship
+    - title: Nafukovací SUP
+      description: Nafukovací SUP prkna z PVC o délce od 9 do 12 stop. Lehká, odolná a snadno skladovatelná.
+      icon: tabler:rowing
+    - title: Prémiové SUP balíčky
+      description: Kompaktní SUP prkna s vysokou specifikací, vyrobená na míru vaší značce nebo flotile.
+      icon: tabler:crown
+features3_more:
+  columns: 3
+  isAfterContent: true
+  items:
+    - title: Příslušenství
+      description: Pádla, pumpy, obaly, nepromokavé vaky a elektronika. Vše sladěné s našimi prkny.
+      icon: tabler:package
+    - title: Opravy a servis
+      description: Opravy prken, výměna podložek a upgrade příslušenství v našich vlastních dílnách.
+      icon: tabler:tool
+    - title: Zakázkové stavby
+      description: Návrh řešení projekt od projektu pro komerční, vědecké a vojenské zákazníky.
+      icon: tabler:hammer
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    alt: Návrh prken a technické řešení
+steps2_values:
+  title: Naše hodnoty
+  subtitle: Tři principy, které od prvního dne formují každý náš produkt.
+  items:
+    - title: Postaveno tak, aby uneslo vaši rodinu
+      description: Každý trup, svár a spojovací prvek zpracováváme tak, jako by jej měla používat naše vlastní rodina.
+      icon: tabler:heart
+    - title: Konstruujeme dřív, než prodáváme
+      description: Nafukovací SUP prkna od 9 do 12 stop. Navržena pro túry, jógu, rybaření a rodinné použití.
+      icon: tabler:settings
+    - title: Podpora, která vydrží déle než záruka
+      description: Dvacet let staré trupy nám stále volají pro náhradní díly – a my stále zvedáme telefon.
+      icon: tabler:headset
+steps2_milestones:
+  title: Milníky
+  subtitle: Krátká verze příběhu značky afarer.
+  isReversed: true
+  items:
+    - title: Založeno v přímořské dílně
+      description: Založili ji dva námořní inženýři s CNC frézkou a tvrdohlavou myšlenkou.
+      icon: tabler:building-factory
+    - title: Prvních 1,000 dodaných trupů
+      description: Dosaženo v našem sedmém roce působení, a to především díky doporučením a stálým zákazníkům.
+      icon: tabler:circle-check
+    - title: Mezinárodní exportní program
+      description: Nyní dodáváme do více než 40 zemí s místními podpůrnými partnery na pěti kontinentech.
+      icon: tabler:world
+features2_locations:
+  title: Naše pobočky
+  tagline: Najdete nás
+  columns: 3
+  items:
+    - title: Sídlo společnosti a dílna
+      description: Nafukovací SUP prkna od 9 do 12 stop. Navržena pro túry, jógu, rybaření a rodinné použití.
+    - title: Servisní centrum pro EU
+      description: Nafukovací SUP prkna od 9 do 12 stop. Navržena pro túry, jógu, rybaření a rodinné použití.
+    - title: Partnerská síť v regionu APAC
+      description: Autorizovaní servisní partneři v Austrálii, Japonsku, Singapuru a Hongkongu.
+brand_hub_tagline: Značka
+brand_hub_title: Poznejte naši značku
+brand_hub_subtitle: Ponořte se hlouběji do naší inženýrské odbornosti v oblasti SUP, naší globální přítomnosti a principů, které nás pohánějí.
+brand_hub_cards:
+  - title: Námořní odbornost
+    desc: Desítky let výzkumu materiálů, přesné výroby a testování v reálných podmínkách — od zpracování PVC po konstrukci trupu deep-V a technologii drop-stitch.
+    link: /brand-marine-expertise/
+    link_label: Zjistit více →
+  - title: Globální přítomnost
+    desc: Zasíláme do více než 50 zemí z našeho závodu v Qingdao, s autorizovanými servisními partnery v Evropě, asijsko-pacifickém regionu a Americe.
+    link: /brand-global-presence/
+    link_label: Zjistit více →
+  - title: Proč afarer
+    desc: 'Značka postavená na ověřené kvalitě — dvojitá certifikace (ISO 9001 + BSCI), soulad s CE a exkluzivní partnerství pro jednotlivé země s limitovanými co-branded kolekcemi pro vodní sportovní podniky.'
+    link: /brand-why-afarer/
+    link_label: Zjistit více →

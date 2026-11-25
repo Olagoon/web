@@ -1,0 +1,42 @@
+meta:
+  title: 'Teknologi — drop stitch & marin PVC | {SITE}'
+  description: 'afars teknologier: drop stitch-konstruksjon, marin PVC, dobbeltlags konstruksjoner og høyt trykk. Innovasjon fra en profesjonell produsent av oppblåsbare SUPer.'
+  keywords:
+    - 'SUP-teknologi'
+    - 'drop stitch konstruksjon'
+    - 'høytrykk SUP'
+    - 'oppblåsbare SUP materialer'
+hero:
+  tagline: Teknologi
+  title: Vår teknologi
+  subtitle: afarer-produkter er designet med avanserte materialer og innovativ ingeniørkunst for å levere eksepsjonell ytelse, holdbarhet og bærbarhet.
+sections:
+  - title: Drop-stitch-kjerne
+    description: Tusenvis av indre polyestertråder forbinder topp- og bunnlagene, og skaper en stiv struktur ved 12–15 PSI. Dette er samme teknologi som brukes i profesjonelle padlebord og oppblåsbare racings UP-er.
+    imageAlt: DS kjerne diagram
+  - title: Marin-grade PVC
+    description: Flerlags laminert PVC-stoff vurdert for marine miljøer. Hvert lag er sveiset i stedet for limt, noe som eliminerer risikoen for laminatløsning. Testet for UV-bestandighet, saltvannskorrosjon og slitasje.
+    imageAlt: PVC-lag
+  - title: Militærgrad PVC
+    description: Brukt på alle SUP-modeller. Premium PVC gir overlegen UV- og kjemisk resistens. Beholder fleksibilitet i ekstreme temperaturer og motstår nedbrytning.
+    imageAlt: PVC
+  - title: Air Deck-gulv
+    description: Høytrykks oppblåsbar drop-stitch-konstruksjon som gir eksepsjonell rigiditet for stående, fiske og yoga. Reduserer oppsettid, totalvekt og lagringsvolum.
+    imageAlt: Air Deck
+related:
+  title: Relatert
+  links:
+    - text: FoU-senter
+      url: /randdcenter
+    - text: Kvalitetstesting
+      url: /quality
+    - text: Sikkerhetsstandarder
+      url: /safety
+    - text: Garanti
+      url: /warranty
+    - text: Turisme og fritid
+      url: /use-cases/tourism-recreation
+    - text: Veiledninger
+      url: /guides
+    - text: Produkter
+      url: /products

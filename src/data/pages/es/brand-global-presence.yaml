@@ -1,0 +1,86 @@
+meta:
+  title: 'Presencia Global — Fabricante de SUP para 50+ Países | {SITE}'
+  description: 'afarer exporta SUP inflables a más de 50 países en todos los continentes. Fabricante y proveedor profesional para marcas, distribuidores y flotas.'
+  keywords:
+    - 'fabricante global de SUP'
+    - 'exportador de paddle surf'
+    - 'fábrica de SUP en China'
+    - 'proveedor profesional de SUP'
+hero:
+  tagline: Presencia Global
+  title: Sirviendo a 50+ Países<br />en Cada Continente
+  subtitle: Desde operadores de patrulla costera europeos hasta distribuidores australianos de deportes acuáticos y equipos de rescate de Oriente Medio — las tablas afarer están en el agua en todo el mundo.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarer fabricación y distribución marina global
+stats:
+  title: Alcance Global
+  stats:
+    - title: Países
+      amount: '50+'
+    - title: Mercados de exportación
+      amount: Europa, Américas, Asia, Oriente Medio, Oceanía
+    - title: Producción
+      amount: Qingdao, China
+    - title: "Almacén en EE.\_UU."
+      amount: Montclair, CA
+features3_markets:
+  tagline: Mercados clave
+  title: Experiencia Regional<br />para Requisitos Locales
+  subtitle: Entendemos que los mercados tienen diferentes requisitos y preferencias.
+  isBeforeContent: false
+  columns: 4
+  items:
+    - title: Europa y Reino Unido
+      description: Productos certificados CE. Fuerte demanda de tablas SUP en los mercados de la UE. Los distribuidores británicos valoran nuestra rápida respuesta.
+      icon: tabler:map-pin
+    - title: América del Norte
+      description: Fabricación aprobada por USCG. Almacén en Montclair, CA.
+      icon: tabler:map-pin
+    - title: Australia y Oceanía
+      description: Fuerte mercado de tablas SUP y accesorios de deportes acuáticos. Los distribuidores australianos valoran nuestra construcción de PVC resistente a los rayos UV bajo sol intenso. Envío rápido desde nuestra instalación en Asia.
+      icon: tabler:map-pin
+    - title: Medio Oriente
+      description: Demanda creciente de equipos de aventura acuática. Nuestros SUP de grado comercial y equipos de seguridad son populares entre operadores turísticos y centros de alquiler. Configuraciones personalizadas para entornos de altas temperaturas.
+      icon: tabler:map-pin
+features3_distribution:
+  tagline: Red de Distribución
+  title: Asociándose con Distribuidores<br />Mundialmente
+  subtitle: Trabajamos con distribuidores de equipos marinos, marcas de deportes acuáticos y agencias.
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Programas Co-Brand
+      description: Fabricación de marca blanca para marcas globales. Todo del diseño al drop-shipping.
+      icon: tabler:building
+    - title: Red de Distribuidores
+      description: Distribuidores autorizados en 20+ países con stock y soporte local.
+      icon: tabler:users
+    - title: Gobierno e Institucional
+      description: Suministro directo a guardacostas, organizaciones de rescate y programas militares.
+      icon: tabler:building-community
+steps2_logistics:
+  title: Logística y Soporte Global
+  subtitle: De la fábrica al destino – gestionamos toda la cadena.
+  items:
+    - title: Opciones de envío
+      description: Flete marítimo (FOB Qingdao), aéreo para urgente, mensajería para muestras.
+      icon: tabler:truck-delivery
+    - title: "Almacén en EE.\_UU."
+      description: Stock en Montclair, CA para entrega rápida en Norteamérica.
+      icon: tabler:building-warehouse
+    - title: Piezas de repuesto
+      description: Piezas originales afarer en stock todo el año.
+      icon: tabler:package
+    - title: Soporte técnico
+      description: Línea directa a nuestro equipo de ingeniería para preguntas técnicas.
+      icon: tabler:headset
+cta:
+  title: ¿Quiere ser distribuidor?
+  subtitle: Estamos expandiendo activamente nuestra red de distribución.
+  actions:
+    - variant: primary
+      text: Consulta de asociación
+      href: /contact/
+    - text: Ver nuestra gama de productos
+      href: /products/

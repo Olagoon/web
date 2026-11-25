@@ -1,0 +1,108 @@
+meta:
+  title: 'Cunoștințe — ghiduri SUP | {SITE}'
+  description: 'Baza de cunoștințe afarer: ghiduri despre plăci de SUP gonflabile, materiale pentru paddle board, alegerea plăcilor și informații din industrie pentru mărci și profesioniști.'
+  keywords:
+    - 'cunoștințe SUP'
+    - 'ghid SUP gonflabil'
+    - 'materiale paddle board'
+    - 'informații din industria SUP'
+hero:
+  tagline: Graficul Cunoașterii
+  title: Cunoașterea Explorării Apei
+  subtitle: |
+    O bază de cunoștințe structurată care acoperă tehnologia SUP gonflabil,<br />
+    siguranța pe apă, ingineria plăcilor și planificarea aventurilor.
+  taglineSection: Explorează. Învață. Mergi cu încredere.
+clusters:
+  tagline: Grupuri de Cunoaștere
+  title: Explorează pe subiect
+  subtitle: Scufundări profunde în tehnologia, siguranța și abilitățile din spatele fiecărui produs afarer.
+  items:
+    - title: Cunoaștere SUP
+      description: De la alegerea primei plăci la tehnici avansate de turism — totul despre paddleboarding.
+      icon: tabler:lifebuoy
+      topics:
+        - Cum să alegi primul tău SUP gonflabil
+        - Cea mai bună dimensiune SUP pentru începători
+        - Cât de dificil este paddleboarding-ul?
+        - Comparație între placă gonflabilă și placă rigidă
+        - Listă de verificare siguranță SUP
+    - title: Inginerie și tehnologie SUP
+      description: Ghiduri tehnice despre plăci SUP gonflabile — materiale, metode de construcție și procese de fabricație.
+      icon: tabler:microscope
+      topics:
+        - Aprofundare în tehnologia drop-stitch
+        - Specificații PVC de clasă militară
+        - Laminare prin fuziune vs. lipire adezivă
+        - Tehnologia spumei EVA și metodele de grafică
+        - Tipuri de valve SUP și sisteme de aripioare
+
+    - title: Cunoaștere Siguranță
+      description: Cunoștințe esențiale de siguranță pentru fiecare vâslaș — de la alegerea PFD la citirea vremii și tehnici de auto-salvare.
+      icon: tabler:shield
+      topics:
+        - Listă de verificare siguranță SUP
+        - Ai nevoie de vestă de salvare?
+        - Ghid de siguranță pentru vâslit în ocean
+        - Tehnici de reparare pentru produse gonflabile
+        - Conștientizarea vremii și condițiilor apei
+    - title: Tehnologie
+      description: Ingineria din spatele produselor afarer — materiale, metode de construcție și testare a calității.
+      icon: tabler:microscope
+      topics:
+        - Tehnologie PVC de calitate marină
+        - Miezul drop-stitch explicat
+        - De ce contează PSI-ul pentru SUP-urile gonflabile
+        - Sudare RF vs lipire adezivă
+        - Testare calitate și certificare
+    - title: Stil de viață SUP & utilizări speciale
+      description: Activități SUP specializate — yoga, pescuit, câini, familii și sfaturi de călătorie.
+      icon: tabler:heart
+      topics:
+        - Yoga SUP și meditație pe apă
+        - Pescuit de pe o placă SUP gonflabilă
+        - Paddle boarding cu câini și copii
+        - Călătoriți cu SUP-ul dvs. cu avionul și cu mașina
+        - Accesorii SUP și echipament esențial
+    - title: Comparații și referințe SUP
+      description: Comparații una lângă alta, pentru a vă ajuta să luați decizii informate.
+      icon: tabler:chart-bar
+      topics:
+        - SUP vs kayak — care este potrivit pentru dumneavoastră?
+        - Clasele de materiale PVC, explicate
+        - Siguranța cu cameră unică vs. cu camere multiple
+        - Materialele pentru plăci SUP, explicate
+        - Imprimare UV vs. design EVA block
+featured_guides:
+  tagline: Ghiduri Recomandate
+  title: Cele mai populare resurse de cunoștințe
+  items:
+    - title: Bazele SUP
+      href: /learn/sup/
+    - title: Placă gonflabilă vs placă rigidă
+      href: /compare/inflatable-vs-hardboard/
+    - title: Ghid de siguranță pe apă
+      href: /learn/water-safety/
+    - title: Referință materiale
+      href: /learn/materials/
+    - title: Ghid dimensiuni SUP
+      href: /size-guide/
+    - title: Ghid de dimensiuni SUP
+      href: /guides/sup-size-guide/
+    - title: Centru Tehnologic SUP
+      href: /research/
+    - title: Întreținerea plăcilor SUP
+      href: /guides/sup-maintenance/
+    - title: Ghid de Touring
+      href: /guides/sup-for-touring/
+    - title: Tehnici de vâslit
+      href: /guides/paddling-techniques/
+cta:
+  title: Începe să explorezi
+  subtitle: Scufundă-te în baza noastră de cunoștințe și obține informațiile de care ai nevoie pentru următoarea ta aventură pe apă.
+  actions:
+    - variant: primary
+      text: Vizionează toate ghidurile
+      href: /academy/
+    - text: Explorează graficul de cunoaștere
+      href: /knowledge/

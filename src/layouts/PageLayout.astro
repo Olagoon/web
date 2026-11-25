@@ -1,0 +1,54 @@
+---
+import Layout from '~/layouts/Layout.astro';
+import Header from '~/components/widgets/Header.astro';
+import Footer from '~/components/widgets/Footer.astro';
+import Announcement from '~/components/widgets/Announcement.astro';
+
+import Breadcrumbs from '~/components/common/Breadcrumbs.astro';
+import JsonLd from '~/components/common/JsonLd.astro';
+
+import { headerData, footerData } from '~/navigation';
+
+import type { MetaData } from '~/types';
+import type { Crumb } from '~/components/common/Breadcrumbs.astro';
+import { getLangFromUrl } from '~/i18n/utils';
+import { getUiForLang } from '~/i18n/generated/ui-all';
+
+export interface Props {
+  metadata?: MetaData;
+  breadcrumbs?: Crumb[];
+}
+
+const { metadata, breadcrumbs } = Astro.props;
+
+const pageLang = getLangFromUrl(Astro.url);
+const homeLabel = getUiForLang(pageLang)?.['breadcrumb.home'] || 'Home';
+const localizedCrumbs = (breadcrumbs || []).map((c) => (c.name === 'Home' ? { ...c, name: homeLabel } : c));
+---
+
+<Layout metadata={metadata}>
+  {
+    localizedCrumbs.length > 0 && (
+      <JsonLd type="BreadcrumbList" breadcrumbs={localizedCrumbs.map((c) => ({ name: c.name, href: c.href }))} />
+    )
+  }
+  <slot name="announcement">
+    <Announcement />
+  </slot>
+  <slot name="header">
+    <Header {...headerData} isSticky showSearch showToggleTheme showTopBar />
+  </slot>
+  <main>
+    {
+      localizedCrumbs.length > 0 && (
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 w-full">
+          <Breadcrumbs crumbs={localizedCrumbs} />
+        </div>
+      )
+    }
+    <slot />
+  </main>
+  <slot name="footer">
+    <Footer {...footerData} />
+  </slot>
+</Layout>

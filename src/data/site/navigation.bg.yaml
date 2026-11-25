@@ -1,0 +1,141 @@
+header:
+  topBar: []
+  links:
+    - text: Продукти
+      links:
+        - text: SUP дъски
+          href: /inflatable-sup/
+        - text: Универсални SUP
+          href: /all-around-sup/
+        - text: Туристически SUP
+          href: /touring-sup/
+        - text: Йога SUP
+          href: /yoga-sup/
+        - text: Детски SUP
+          href: /kids-sup/
+        - text: Риболовни SUP
+          href: /fishing-sup/
+        - text: SUP за бързи води
+          href: /whitewater-sup/
+        - text: Свръхстабилни SUP
+          href: /ultra-stable-sup/
+        - text: Аксесоари
+          href: /sup-accessories/
+    - text: По предназначение
+      links:
+        - text: За начинаещи
+          href: /use-cases/beginner/
+        - text: Туринг & дълги разстояния
+          href: /use-cases/touring/
+        - text: Риболов на SUP
+          href: /use-cases/fishing/
+        - text: Семейна почивка
+          href: /use-cases/family-recreation/
+        - text: Речни турове
+          href: /use-cases/river-touring/
+        - text: Туризъм & отдих
+          href: /use-cases/tourism-recreation/
+        - text: Всички предназначения
+          href: /use-cases/
+    - text: Разгледайте Afarer
+      links:
+        - text: Защо Afarer
+          href: /afarer-story/
+        - text: Технологии и материали
+          href: /technology/
+        - text: Качество и безопасност
+          href: /quality/
+        - text: Истории и ръководства
+          href: /journal/
+        - text: За Afarer
+          href: /about/
+    - text: Поддръжка
+      links:
+        - text: Гаранция и рекламации
+          href: /warranty/
+        - text: ЧЗВ
+          href: /faq/
+        - text: Изтегляния и ръководства
+          href: /resources/download-catalog/
+        - text: Свържете се с поддръжката
+          href: /contact/
+  actions:
+    - text: Где да купя
+      href: /where-to-buy/
+      variant: primary
+footer:
+  links:
+    - title: Продукти
+      links:
+        - text: SUP дъски
+          href: /inflatable-sup/
+        - text: Универсални SUP
+          href: /all-around-sup/
+        - text: Туристически SUP
+          href: /touring-sup/
+        - text: Йога SUP
+          href: /yoga-sup/
+        - text: Детски SUP
+          href: /kids-sup/
+        - text: Риболовни SUP
+          href: /fishing-sup/
+        - text: SUP за бързи води
+          href: /whitewater-sup/
+        - text: Свръхстабилни SUP
+          href: /ultra-stable-sup/
+        - text: Аксесоари
+          href: /sup-accessories/
+    - title: Разгледайте Afarer
+      links:
+        - text: Защо Afarer
+          href: /afarer-story/
+        - text: Технологии и материали
+          href: /technology/
+        - text: Качество и безопасност
+          href: /quality/
+        - text: Истории и ръководства
+          href: /journal/
+        - text: За Afarer
+          href: /about/
+    - title: Поддръжка
+      links:
+        - text: Где да купя
+          href: /where-to-buy/
+        - text: Гаранция и рекламации
+          href: /warranty/
+        - text: ЧЗВ
+          href: /faq/
+        - text: Изтегляния и ръководства
+          href: /resources/download-catalog/
+        - text: Свържете се с поддръжката
+          href: /contact/
+    - title: За бизнес партньори
+      links:
+        - text: Съвместна марка с Afarer
+          href: /co-brand/
+        - text: За клубове и курорти
+          href: /solutions/resorts-hotels/
+        - text: за търговски партньори
+          href: /solutions/retail-partners/
+        - text: Намерете дистрибутор
+          href: /distributor-program/
+        - text: За дистрибутори
+          href: /solutions/distributors/
+  secondaryLinks:
+    - text: Условия
+      href: /terms/
+    - text: Политика за поверителност
+      href: /privacy/
+    - text: Медицинска декларация
+      href: /disclaimer/
+  socialLinks:
+    - text: YouTube
+      href: https://www.youtube.com/@afarer
+    - text: X
+      href: https://x.com/afarer
+    - text: Instagram
+      href: https://www.instagram.com/afarer_watersports/
+    - text: Facebook
+      href: https://www.facebook.com/profile.php?id=61572404318679
+    - text: RSS
+      href: /rss.xml

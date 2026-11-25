@@ -1,0 +1,111 @@
+meta:
+  title: Resort SUP-vlootoplossingen | {SITE}
+  description: Complete SUP-vlootoplossingen voor resorts en hotels. Boards van commerciële kwaliteit, aangepaste branding, training van personeel en ROI-geoptimaliseerde pakketten van 20 tot 100 boards.
+hero:
+  tagline: Resorts & hotels
+  title: Maak van uw waterfront een inkomstencentrum<br />met premium SUP-vloten
+  subtitle: "Afarer levert resorts wereldwijd opblaasbare SUP-vloten van commerciële kwaliteit — van startpakketten met 20 borden tot flagship-programma's met 100+ borden. Inclusief merkpersonalisatie, personeelstraining en vervangingsonderdelen."
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Resortgasten die van SUP-boarden genieten op een ongerept strand
+roi_section:
+  title: Het Resort SUP-inkomensmodel
+  subtitle: Hoe resorts $50.000 - $200.000 aan jaarlijkse SUP-verhuurinkomsten genereren met een enkele investering.
+  metrics:
+    - metric: $50K–$200K+
+      label: Jaarlijkse SUP-omzet
+      detail: Per resort, op basis van vlootgrootte en bezetting
+    - metric: 4–6 maanden
+      label: Gemiddelde Terugverdientijd
+      detail: Haal de volledige vlootinvestering binnen één seizoen terug
+    - metric: 40%
+      label: Omzetstijging
+      detail: Gemiddelde boost na overstap naar Afarer-vloten
+    - metric: '500+'
+      label: Verhuurfietsen per bord
+      detail: Commerciële duurzaamheid voor dagelijks gebruik
+packages:
+  title: Resortpakketsysteem
+  subtitle: Kies het pakket dat past bij uw gastencapaciteit en omzetdoelen. Alle pakketten bevatten 12 maanden garantie en CE-certificering.
+  items:
+    - name: Startpakket
+      tagline: Voor boutique-resorts, tot 20 gasten/dag
+      features:
+        - 20 SUP-borden (3 maten voor volwassenen/kinderen)
+        - 20 peddels (verstelbaar) + 20 reddingsvesten
+        - 4 dubbelwerkende pompen (elektrisch optioneel)
+        - 2 opslagrekken + reparatiekit
+        - Eigen logodruk op de borden
+        - 12 maanden garantie + CE-gecertificeerd
+      revenue: $50K–$80K jaarlijkse omzetpotentie
+      cta_text: Startpakket krijgen
+    - name: Premiumpakket
+      tagline: Voor grote resorts, 50-100 gasten/dag
+      features:
+        - 50 SUP-borden (5 maten, gemengde vloot)
+        - 50 peddels + 50 reddingsvesten
+        - 10 dubbelwerkende pompen + 2 elektrische pompen
+        - 5 opslagrekken + 2 rolwagens
+        - Volledige merkpersonalisatie (borden, peddels, tassen)
+        - Personeelstraining sessie (online)
+        - Verzending van vervangingsonderdelen binnen 48 uur
+        - 12 maanden garantie + CE-gecertificeerd
+      revenue: $120K–$200K potentiële jaarlijkse omzet
+      popular: true
+      cta_text: Premiumpakket krijgen
+    - name: Vlaggenschippakket
+      tagline: Voor ultra-premium resorts, 100+ gasten/dag
+      features:
+        - 100+ SUP-borden (volledige maatvoering)
+        - Complete accessoire-set (peddels, vesten, pompen, wagens)
+        - Personeelstraining op locatie (2 dagen)
+        - Toegewijde accountmanager
+        - Prioritaire vervangingsonderdelen (verzending binnen 24 uur)
+        - Volledige merkpersonalisatie (borden + accessoires)
+        - Marketing foto/video pakket
+        - 24 maanden garantie + CE-gecertificeerd
+      revenue: $200K jaarlijkse omzetpotentieel
+      cta_text: Ontvang vlaggenschippakket
+case_study:
+  quote: Sinds we zijn overgestapt op Afarer, is onze SUP-verhuurinkomsten met 40% gestegen. De kosten voor het vervangen van boards zijn met 60% gedaald. We hebben onze volledige vlootinvestering in 4 maanden terugverdiend.
+  author: Wateractiviteitenbeheerder
+  location: 5-sterrenresort, Maldiven
+  results:
+    - label: Omzetgroei
+      value: +40%
+    - label: Kostenreductie
+      value: '-60%'
+    - label: Terugverdientijd
+      value: 4 maanden
+features:
+  title: Waarom Resorts Voor Afarer Kiezen
+  subtitle: Commerciële duurzaamheid, wereldwijde logistiek en een partner die gastvrijheid begrijpt.
+  items:
+    - title: 500 Verhuur Fietsen
+      description: Elk board wordt getest om 500 verhuurcycli in zout water, zon en zand te overleven.
+      icon: tabler:shield-check
+    - title: Onderdelen verzending binnen 48 uur
+      description: Vervangingsonderdelen worden binnen 48 uur verzonden — uw huurinkomsten stoppen nooit.
+      icon: tabler:truck-delivery
+    - title: Aangepaste merkidentiteit
+      description: Stem de identiteit van uw resort af op aangepaste kleuren en logo op elk bord.
+      icon: tabler:palette
+    - title: Personeelstraining
+      description: Online en on-site trainingsprogramma's voor uw activiteitenteam.
+      icon: tabler:school
+    - title: Wereldwijde Logistiek
+      description: Verzending naar meer dan 50 landen met geconsolideerde vrachtopties.
+      icon: tabler:world
+    - title: CE-gecertificeerd
+      description: Alle apparatuur CE-gecertificeerd, ISO 9001:2015 — veiligheid en kwaliteit gegarandeerd.
+      icon: tabler:certificate
+cta:
+  title: Klaar om uw waterfront om te toveren tot inkomstencentrum?
+  subtitle: Krijg uw offerte voor het resortpakket of download onze volledige resortcatalogus.
+  actions:
+    - text: Vakantiepakket boeken
+      href: /contact/?package=resort
+      variant: primary
+    - text: Download Resortcatalogus
+      href: /resources/download-catalog/
+      variant: secondary

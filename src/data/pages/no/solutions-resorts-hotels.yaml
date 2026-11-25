@@ -1,0 +1,111 @@
+meta:
+  title: Resort SUP-flåteløsninger | {SITE}
+  description: Komplette SUP-flåteløsninger for resorts og hoteller. Kommersielle brett, tilpasset merking, opplæring av personell og avkastningsoptimaliserte pakker fra 20 til 100+ brett.
+hero:
+  tagline: Resorter og hoteller
+  title: Gjør strandfronten din om til et inntektssenter<br />med premium SUP-flåter
+  subtitle: Afarer utstyrer resorter over hele verden med oppblåsbare SUP-flåter i kommersiell kvalitet — fra startpakker med 20 brett til flagship-programmer med 100+ brett. Skreddersydd merkevareprofil, personopplæring og reservedeler inkludert.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Gjester på feriesteder som nyter SUP-padling på en uberørt strand
+roi_section:
+  title: Resortens SUP-inntjeningsmodell
+  subtitle: Hvordan resorter genererer $50 000 – $200 000+ årlig SUP-leieinntekt med én enkelt investering.
+  metrics:
+    - metric: $50K–$200K+
+      label: Årlig SUP-omsetning
+      detail: Per resort, basert på flottastørrelse og belegg
+    - metric: 4–6 måneder
+      label: Gjennomsnittlig tilbakebetalingstid
+      detail: Tjen inn full flåteinvestering innen én sesong
+    - metric: 40%
+      label: Inntektsøkning
+      detail: Gjennomsnittlig økning etter overgang til Afarer-flåter
+    - metric: 500+
+      label: Utleiesykler per brett
+      detail: Kommersiell holdbarhet for daglig bruk
+packages:
+  title: Resort-pakkesystem
+  subtitle: Velg pakken som passer til gjestekapasiteten og inntektsmålene dine. Alle pakker inkluderer 12 måneders garanti og CE-sertifisering.
+  items:
+    - name: Startpakke
+      tagline: For boutique-resorter, opptil 20 gjester/dag
+      features:
+        - 20 SUP-brett (3 størrelser for voksne/barn)
+        - 20 padleårer (justerbare) + 20 redningsvester
+        - 4 dobbeltvirkende pumper (elektrisk valgfritt)
+        - 2 oppbevaringsstativ + reperasjonssett
+        - Eget logotrykk på brettene
+        - 12 måneders garanti + CE-sertifisert
+      revenue: $50K–$80K årlig inntektspotensiale
+      cta_text: Få startpakke
+    - name: Premium-pakke
+      tagline: For store resorter, 50-100 gjester/dag
+      features:
+        - 50 SUP-brett (5 størrelser, blandet flåte)
+        - 50 årer + 50 redningsvester
+        - 10 dobbeltvirkende pumper + 2 elektriske pumper
+        - 5 oppbevaringsstativ + 2 rulletraller
+        - Fullstendig merkevareprofil (brett, padleårer, vesker)
+        - Personopplæringssesjon (online)
+        - Reservedelsutsendelse innen 48 timer
+        - 12 måneders garanti + CE-sertifisert
+      revenue: 120 000–200 000+ USD årlig inntektspotensial
+      popular: true
+      cta_text: Få premium-pakken
+    - name: Flagship-pakke
+      tagline: For ultra-premium-resorter, 100+ gjester/dag
+      features:
+        - 100+ SUP-brett (fullt størrelsesspekter)
+        - Komplett tilbehørssett (padleårer, vester, pumper, traller)
+        - Personopplæring på stedet (2 dager)
+        - Dedikert kontaktperson
+        - Prioriterte reservedeler (24 timers utsendelse)
+        - Fullstendig merkevareprofil (brett + tilbehør)
+        - Markedsføringsfoto-/videopakke
+        - 24 måneders garanti + CE-sertifisert
+      revenue: 200 000 USD+ potensiell årsinntekt
+      cta_text: Få Flagship-pakken
+case_study:
+  quote: Siden vi byttet til Afarer, har SUP-utleieinntekten økt med 40 %. Erstatningskostnadene for brett har sunket med 60 %. Vi har tilbakebetalt hele flåteinvesteringen i løpet av 4 måneder.
+  author: Ansvarlig for vannaktiviteter
+  location: 5-stjerners feriested, Maldivene
+  results:
+    - label: Omsetningsvekst
+      value: +40 %
+    - label: Kostnadsreduksjon
+      value: '-60 %'
+    - label: Tilbakebetalingstid
+      value: 4 måneder
+features:
+  title: Hvorfor resorter velger Afarer
+  subtitle: Kommersiell holdbarhet, global logistikk og en partner som forstår gjestfrihet.
+  items:
+    - title: 500+ utleiesykluser
+      description: Hvert brett er testet for å overleve 500+ utleiesykluser i saltvann, sol og sand.
+      icon: tabler:shield-check
+    - title: 48 timers delutlevering
+      description: Erstatningsdeler sendt innen 48 timer — leieinntektene dine stopper aldri.
+      icon: tabler:truck-delivery
+    - title: Tilpasset merking
+      description: Tilpass resort-identiteten din med tilpassede farger og logo på hvert brett.
+      icon: tabler:palette
+    - title: Personelltrening
+      description: Online og stedbaserte opplæringsprogrammer for ditt aktivitetsteam.
+      icon: tabler:school
+    - title: Global logistikk
+      description: Frakt til 50+ land med konsoliderte fraktalternativer.
+      icon: tabler:world
+    - title: CE-sertifisert
+      description: Alt utstyr CE-sertifisert, ISO 9001:2015 — sikkerhet og kvalitet garantert.
+      icon: tabler:certificate
+cta:
+  title: Klar til å gjøre strandfronten din om til et inntektssenter?
+  subtitle: Få tilbud på resortpakken eller last ned vår komplette resortkatalog.
+  actions:
+    - text: Få resort-pakken
+      href: /contact/?package=resort
+      variant: primary
+    - text: Last ned resortkatalog
+      href: /resources/download-catalog/
+      variant: secondary

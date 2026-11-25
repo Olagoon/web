@@ -1,0 +1,102 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Headline from '~/components/blog/Headline.astro';
+import Pagination from '~/components/blog/Pagination.astro';
+import Timeline from '~/components/blog/Timeline.astro';
+
+import { fetchPosts, fetchPostsForLang, blogPostsPerPage, blogCategoryRobots } from '~/utils/blog';
+import { getPageContent, setPageContentData } from '~/i18n/page-content';
+import __pageData from '~/i18n/generated/pages/news';
+import { getUiForLang } from '~/i18n/generated/ui-all';
+import type { Post } from '~/types';
+import { languages } from '~/i18n/config';
+import { withTrailingSlash } from '~/i18n/routing';
+
+export const prerender = true;
+
+export const getStaticPaths = async () => {
+  const posts = await fetchPosts();
+  const pageSize = blogPostsPerPage;
+  const paths: {
+    params: { lang: string; category: string; page: string[] | undefined };
+    props: { paginatedPosts: Post[]; currentPage: number; totalPages: number; categoryTitle: string };
+  }[] = [];
+  for (const lang of Object.keys(languages)) {
+    const categories = new Map<string, { slug: string; title: string; posts: Post[] }>();
+    for (const post of posts) {
+      if (post.category?.slug) {
+        if (!categories.has(post.category.slug)) {
+          categories.set(post.category.slug, { slug: post.category.slug, title: post.category.title, posts: [] });
+        }
+        categories.get(post.category.slug)!.posts.push(post);
+      }
+    }
+    for (const { slug, title, posts: catPosts } of categories.values()) {
+      const totalPages = Math.ceil(catPosts.length / pageSize);
+      for (let i = 0; i < totalPages; i++) {
+        const n = i + 1;
+        paths.push({
+          params: { lang, category: slug, page: n > 1 ? [String(n)] : undefined },
+          props: {
+            paginatedPosts: catPosts.slice(i * pageSize, (i + 1) * pageSize),
+            currentPage: n,
+            totalPages,
+            categoryTitle: title,
+          },
+        });
+      }
+    }
+  }
+  return paths;
+};
+
+const { lang, category: categorySlug } = Astro.params;
+const t = (k: string) => getUiForLang(lang)?.[k] || getUiForLang('en')?.[k] || '';
+const { currentPage, categoryTitle } = Astro.props;
+
+// Locale entries under content/news/<lang>/ win; EN fallback for untranslated locales.
+const localizedPosts = (await fetchPostsForLang(lang)).filter((p) => p.category?.slug === categorySlug);
+const pageSize = blogPostsPerPage;
+const totalPages = Math.ceil(localizedPosts.length / pageSize);
+const paginatedPosts = localizedPosts.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+
+setPageContentData(__pageData);
+const newsMeta = getPageContent(lang, 'news')?.meta;
+const newsDescription = newsMeta?.description ? String(newsMeta.description).replace('{SITE}', 'Afarer') : '';
+
+const prevUrl =
+  currentPage > 1
+    ? currentPage === 2
+      ? `/${lang}/news/category/${categorySlug}/`
+      : `/${lang}/news/category/${categorySlug}/${currentPage - 1}/`
+    : undefined;
+const nextUrl = currentPage < totalPages ? `/${lang}/news/category/${categorySlug}/${currentPage + 1}/` : undefined;
+
+const metadata = {
+  title: `${t('blog.category')} '${categoryTitle}'${currentPage > 1 ? ` — ${t('blog.page')} ${currentPage}` : ''}`,
+  description: newsDescription ? `${categoryTitle} — ${newsDescription}` : undefined,
+  robots: {
+    index: blogCategoryRobots?.index,
+    follow: blogCategoryRobots?.follow,
+  },
+};
+---
+
+<Layout
+  metadata={metadata}
+  breadcrumbs={[
+    { name: t('nav.home'), href: `/${lang}/` },
+    { name: t('nav.news'), href: withTrailingSlash(`/${lang}/news`) },
+    { name: categoryTitle },
+  ]}
+>
+  <section class="section-premium mx-auto max-w-4xl px-6">
+    <Headline>{categoryTitle}</Headline>
+    <div class="mt-16">
+      <Timeline posts={paginatedPosts} />
+    </div>
+    <div class="mt-16 text-center">
+      <Pagination prevUrl={prevUrl} nextUrl={nextUrl} />
+    </div>
+  </section>
+</Layout>

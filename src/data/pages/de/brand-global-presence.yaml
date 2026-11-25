@@ -1,0 +1,86 @@
+meta:
+  title: 'Globale Präsenz — SUP-Hersteller für 50+ Länder | {SITE}'
+  description: 'afarer exportiert aufblasbare SUPs in über 50 Länder auf allen Kontinenten. Professioneller Hersteller und Lieferant für Marken, Händler und Flotten.'
+  keywords:
+    - 'globaler SUP-Hersteller'
+    - 'Paddleboard-Exporteur'
+    - 'SUP-Fabrik China'
+    - 'professioneller SUP-Lieferant'
+hero:
+  tagline: Globale Präsenz
+  title: Über 50 Länder betreuen<br />Auf jedem Kontinent
+  subtitle: Von europäischen Küstenpatrouillenbetreibern bis zu australischen Wassersportvertrieben und Nahost-Rettungsteams – afarer-Boards sind weltweit auf dem Wasser.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarer globale Marinefertigung und -vertrieb
+stats:
+  title: Globale Reichweite
+  stats:
+    - title: Länder
+      amount: '50+'
+    - title: Exportmärkte
+      amount: Europa, Amerikas, Asien, Naher Osten, Ozeanien
+    - title: Produktion
+      amount: Qingdao, China
+    - title: US-Lager
+      amount: Montclair, Kalifornien
+features3_markets:
+  tagline: Schlüsselmärkte
+  title: Regionale Expertise<br />für lokale Anforderungen
+  subtitle: Wir verstehen, dass verschiedene Märkte unterschiedliche Anforderungen und Vorlieben haben.
+  isBeforeContent: false
+  columns: 4
+  items:
+    - title: Europa & Großbritannien
+      description: CE-zertifizierte Produkte. Starke Nachfrage nach SUP-Boards in EU-Märkten. UK-Distributoren schätzen unsere schnelle Umsetzung.
+      icon: tabler:map-pin
+    - title: Nordamerika
+      description: USCG-zugelassene Fertigung. US-Lager in Montclair, CA für schnelle Lieferung.
+      icon: tabler:map-pin
+    - title: Australien & Ozeanien
+      description: Starker Markt für SUP-Bretter und Wassersportzubehör. Australische Distributoren schätzen unsere UV-beständige PVC-Konstruktion.
+      icon: tabler:map-pin
+    - title: Naher Osten
+      description: Wachsende Nachfrage nach Wassersport-Ausrüstung. Unsere gewerblichen SUPs und Sicherheitsausrüstung sind bei Touranbietern und Verleihstationen beliebt. Individuelle Konfigurationen für Hochtemperaturumgebungen.
+      icon: tabler:map-pin
+features3_distribution:
+  tagline: Vertriebsnetz
+  title: Partnerschaft mit Vertriebspartnern<br />Weltweit
+  subtitle: Wir arbeiten mit etablierten Marinevertrieben, Wassersportmarken und Behörden zusammen.
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Co-Brand-Programme
+      description: Private-Label-Fertigung für globale Wassersportmarken. Alles von Design bis Drop-Shipping.
+      icon: tabler:building
+    - title: Vertriebsnetz
+      description: Autorisierte Vertriebspartner in 20+ Ländern mit Lagerbestand und lokatem Support.
+      icon: tabler:users
+    - title: Regierung & Institutionen
+      description: Direktbelieferung von Küstenwachen, Such- und Rettungsorganisationen und Militär.
+      icon: tabler:building-community
+steps2_logistics:
+  title: Globale Logistik & Support
+  subtitle: Vom Werk zum Zielort – wir verwalten die gesamte Lieferkette.
+  items:
+    - title: Versandoptionen
+      description: Seefracht (FOB Qingdao), Luftfracht für Eilaufträge, Expresskurier für Muster.
+      icon: tabler:truck-delivery
+    - title: US-Lager
+      description: Lagerbestand in Montclair, CA für schnelle Lieferung in Nordamerika.
+      icon: tabler:building-warehouse
+    - title: Ersatzteile
+      description: Original afarer-Ersatzteile ganzjährig auf Lager. Gängige Teile in 24 Stunden.
+      icon: tabler:package
+    - title: Technischer Support
+      description: Direkte Leitung zu unserem Engineering-Team. Wir unterstützen Boards, die wir vor 20 Jahren gebaut haben.
+      icon: tabler:headset
+cta:
+  title: Möchten Sie Vertriebspartner werden?
+  subtitle: Wir bauen unser Vertriebsnetz aktiv aus. Kontaktieren Sie unser Exportteam.
+  actions:
+    - variant: primary
+      text: Partnerschaftsanfrage
+      href: /contact/
+    - text: Unsere Produktpalette ansehen
+      href: /products/

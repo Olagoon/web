@@ -1,0 +1,110 @@
+meta:
+  title: Private label SUP-fabricage | {SITE}
+  description: Start je eigen SUP-merk met Afarer. Van idee tot markt — volledige OEM/ODM-service inclusief ontwerp, prototyping, productie en wereldwijde logistiek.
+hero:
+  tagline: Bouw je eigen merk
+  title: Start je eigen<br />SUP-merk
+  subtitle: Jij hebt de visie. Wij hebben de fabriek, de expertise en de toeleveringsketen. Samen zullen we een merk opbouwen dat opvalt.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Op maat gemaakte SUP-board met merk op het water
+process:
+  title: Je Merkreis
+  subtitle: Van idee tot markt in 5 fasen.
+  steps:
+    - phase: Fase 1
+      title: Idee
+      period: Week 1-2
+      items:
+        - Marktonderzoek & concurrentieanalyse
+        - Doelklantdefinitie
+        - Workshop merkpositionering
+        - Productlijnstrategie
+    - phase: Fase 2
+      title: Ontwerp
+      period: Week 3-6
+      items:
+        - Bordvorm & grafisch ontwerp
+        - Kleurmatching & materiaalkeuze
+        - Accessoirespecificatie
+        - Verpakking- en etikettenontwerp
+    - phase: Fase 3
+      title: Prototype
+      period: Week 7-10
+      items:
+        - Voorbeeldproductie
+        - Kwaliteitstest (druk, drijfvermogen, UV)
+        - Ontwerpaanpassingen
+        - Eindgoedkeuring
+    - phase: Fase 4
+      title: Productie
+      period: Week 11-14
+      items:
+        - Grootschalige productie
+        - QC-inspectie (per eenheid)
+        - Zeevracht / luchtvracht
+        - Douanedocumenten
+    - phase: Fase 5
+      title: Lanceren
+      period: Week 15-16
+      items:
+        - Productfotografie
+        - Website-productfeed
+        - Marketingmateriaal
+        - Lancering ondersteuning
+packages:
+  title: Startuppakketten
+  subtitle: Pakketten ontworpen voor elke fase van merkontwikkeling.
+  items:
+    - name: Starter Brand
+      tagline: 50-100 eenheden · 2 bordmodellen
+      features:
+        - Basis logo-afdruk
+        - Standaardverpakking
+        - E-mailondersteuning
+    - name: Growing Brand
+      tagline: 300-1.000 eenheden · 3-5 boardmodellen
+      features:
+        - Aangepast kleurlogo
+        - Aangepaste verpakking
+        - Productfoto's
+        - Toegewijde manager
+    - name: Established Brand
+      tagline: 1.000 eenheden · Volledige productlijn
+      features:
+        - Volledige aanpassing
+        - Premiumverpakking
+        - Marketingmateriaal
+        - Prioriteitsproductie
+features:
+  title: Waarom merken voor Afarer kiezen
+  subtitle: 10 jaar OEM-ervaring, volledige certificering en de laagste MOQ in de sector.
+  items:
+    - title: 10 jaar OEM-ervaring
+      description: 2.400 rompen geleverd aan merken wereldwijd.
+      icon: tabler:clock
+    - title: Volledige certificering
+      description: CE / ISO / UKCA / BSCI / REACH — allemaal gecertificeerd.
+      icon: tabler:certificate
+    - title: Levertijd van 30 dagen
+      description: Sneller dan het gemiddelde in de sector van bestelling tot verzending.
+      icon: tabler:truck-delivery
+    - title: Lage MOQ
+      description: Vanaf 50 eenheden — het laagste in de sector.
+      icon: tabler:package
+    - title: Interne Ontwerp
+      description: Volledige ontwerpondersteuning van concept tot eindwerk.
+      icon: tabler:palette
+    - title: Wereldwijde Logistiek
+      description: Zeetransport, luchtvracht en ondersteuning bij douaneafhandeling.
+      icon: tabler:world
+cta:
+  title: Klaar om je merk te lanceren?
+  subtitle: Begin je merkreis of download onze OEM-handleiding.
+  actions:
+    - text: Begin je merkreis
+      href: /contact/?package=oem
+      variant: primary
+    - text: OEM-gids downloaden
+      href: /resources/download-catalog/
+      variant: secondary

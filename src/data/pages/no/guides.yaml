@@ -1,0 +1,25 @@
+meta:
+  title: 'SUP-guider — kjøpe, velge, trene | {SITE}'
+  description: 'afars SUP-guider: hvordan du kjøper, velger og trener paddle boarding. Størrelser, materialer og eksperttips for nybegynnere og proffer.'
+  keywords:
+    - 'SUP kjøpsguide'
+    - 'hvordan velge SUP'
+    - 'SUP størrelsesguide'
+    - 'oppblåsbart paddle board tips'
+hero:
+  tagline: Veiledninger
+  title: Ny innen SUP?
+  subtitle: Praktiske guider som hjelper deg med å velge, bruke og nyte oppblåsbare SUP-brett.
+size_guide:
+  tagline: Størrelse og spesifikasjoner
+  title: Finn riktig størrelse for dine behov
+  desc: Sammenlign SUP-brett-dimensjoner, vektkapasiteter og anbefalte bruksområder. Enten du trenger en touring-SUP, et yogabrett eller et allround-SUP — vår størrelsesguide hjelper deg med å velge riktig.
+  link_label: Fullstendig størrelsesguide med produktspesifikasjoner →
+  link: /size-guide/
+  cards:
+    - title: SUP-brett
+      desc: Velg lengde ut fra din vekt og tiltenkte bruk. Bredere brett (32"+) gir mer stabilitet. Lengre brett (11–12 ft) sporer bedre for touring.
+    - title: Touring-SUP-er
+      desc: Lengre brett (11–12 ft) for å dekke avstand og holde retningen. Stabile nok for touring med utstyr. Kontroller alltid vektkapasiteten.
+    - title: Allround-SUP-er
+      desc: Velg lengde etter rytterens vekt og bruk. Bredere brett (32"+) for stabilitet. Allsidig for fritid og trening.

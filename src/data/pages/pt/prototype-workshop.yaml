@@ -1,0 +1,110 @@
+meta:
+  title: Oficina de Protótipos — Prototipagem em Escala Real de SUP e Provas de Mar | {SITE}
+  description: De CAD a prancha pronta para a água em 8-12 semanas. Nossa Oficina de Protótipos constrói, equipa e realiza provas de mar de SUPs infláveis personalizados. Comece seu projeto de protótipo hoje.
+back_text: De volta ao Centro de P&D
+home_label: Início
+hero:
+  tagline: Laboratório 05
+  title: Oficina de Protótipos
+  subtitle: Do modelo CAD à prancha pronta para a água — construída, equipada e comprovada
+  image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+  image_alt: Fabricação de pranchas em oficina protótipo Afarer
+intro: >-
+  Um modelo CAD, não importa o quão detalhado, não pode revelar como uma prancha realmente se comportará até encontrar a água. É por isso que nossa Oficina de Protótipos é projetada para traduzir dados de engenharia em uma prancha física pronta para a água o mais rápida e precisamente possível. Cada novo
+  modelo Afarer — e cada construção personalizada significativa — passa por esta oficina antes que as ferramentas de produção sejam definidas.
+content_html: >
+  <h2>Onde o design se torna realidade</h2>
+
+  <p>A oficina está totalmente equipada para a fabricação simultânea de casco, trilhos e aparelhagem. Essa abordagem de fluxo de trabalho paralelo reduz o prazo de entrega do protótipo para 8-12 semanas a partir da liberação de engenharia, em comparação com a norma do setor de 16-20 semanas. Quando
+  sua aplicação exige uma solução especializada, podemos passar do conceito à validação na água em menos de três meses.</p>
+
+
+  <h2>Capacidades da oficina</h2>
+
+  <table>
+    <thead><tr><th>Posto de trabalho</th><th>Equipamento</th><th>Finalidade</th></tr></thead>
+    <tbody>
+      <tr><td>Fabricação de casco</td><td>Cortador de tecido CNC, prensa de laminação a calor, estação de preparação de núcleo drop-stitch</td><td>Produção de cascos em escala real nos três tipos de construção</td></tr>
+      <tr><td>Montagem de trilhos e câmaras</td><td>Prensa de soldagem RF, estação de pontoagem a ar quente, gabarito de teste de inflação</td><td>Fabricação de conjuntos de trilhos e câmaras em tamanho real com todos os defletores e válvulas</td></tr>
+      <tr><td>Aparelhagem e montagem</td><td>Gabarito de usinagem de caixas de quilha, fixadores de soldagem de suportes de carga e alças, estação de corte de almofada de convés</td><td>Equipamento completo: quilhas, suportes de carga, pontos de leash, alças, almofadas de convés, válvulas</td></tr>
+      <tr><td>Baião de instrumentação</td><td>Sensor de velocidade GPS, transdutores de pressão, acelerômetros, conjunto de termopares, registrador de dados</td><td>Instalação e calibração da instrumentação de provas de mar</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>A jornada do protótipo — passo a passo</h2>
+
+  <ol>
+    <li><strong>Entrega de engenharia</strong> — O pacote de projeto (modelo 3D, relatório FEA, lista de materiais, cronograma de laminação) é formalmente revisado pelo líder da oficina e pelo engenheiro de projeto. Quaisquer preocupações de fabricação são sinalizadas e resolvidas antes do início do corte.</li>
+    <li><strong>Produção do casco</strong> — O casco é construído de acordo com a especificação de engenharia. Para construção de camada única: o núcleo drop-stitch é laminado com a capa de PVC especificada. Para construção de camada dupla: a capa adicional é aplicada sobre o laminado base antes do corte do padrão. Para construção fundida: os parâmetros de laminação são carregados da ficha de processo aprovada e verificados em uma amostra inicial.</li>
+    <li><strong>Fabricação dos trilhos</strong> — O tecido é cortado com gabaritos de padrão CNC e depois soldado por RF em trilhos e câmaras de tamanho real. Cada câmara é inflada à pressão de teste e deixada por 24 h para estabilização inicial.</li>
+    <li><strong>Montagem e aparelhagem</strong> — Casco e trilhos são unidos. Caixas de quilha e suportes de carga são instalados, pontos de leash e alças de transporte são montados, a válvula de inflação é apertada e a almofada de convés é aplicada e alinhada.</li>
+    <li><strong>Testes estáticos</strong> — Antes de a prancha entrar na água, ela passa por: verificação de flutuabilidade (carga total + 30 % de reserva), teste de retenção de pressão das câmaras, teste de vazamento das válvulas, teste de tração de alças e suportes.</li>
+    <li><strong>Programa de provas de mar</strong> — 20 horas de testes na água, detalhadas abaixo.</li>
+    <li><strong>Revisão do protótipo</strong> — É realizada uma reunião formal de aprovação com as equipes de engenharia, produção e qualidade. Quaisquer alterações de projeto necessárias são documentadas e incorporadas à liberação de produção.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Programa de Provas de Mar de 20 Horas — Cronograma de Testes</p>
+    <div class="space-y-2 text-sm">
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Familiarização em águas calmas — rastreio em baixa velocidade, viradas, verificação de postura e trim</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">4 h</span>
+        <span class="flex-1">Prova de velocidade — velocidade máxima verificada por GPS, velocidade de cruzeiro, ritmo sustentado em 3 cadências de remada</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Teste de viragem — raio de virada por pivô e varredura, resposta da prancha, bombordo e estibordo</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Teste de mar picado — passagens repetidas por mar picado de 0.5–1.0 m; acelerômetro na posição de postura do praticante</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Teste de estabilidade — ângulo de inclinação estático com 4 praticantes de pesos variados, carga deslocada a estibordo</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">3 h</span>
+        <span class="flex-1">Prova de resistência — 3 h contínuas em ritmo de cruzeiro; monitoramento da pressão das câmaras, temperatura dos trilhos e fadiga do praticante</span>
+      </div>
+      <div class="flex items-center gap-3 p-2 rounded bg-white dark:bg-gray-950">
+        <span class="w-12 text-xs font-bold text-blue-600">2 h</span>
+        <span class="flex-1">Inspeção final — inspeção pós-prova de todos os componentes, aperto/verificação de todos os fixadores, documentação das constatações</span>
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Prototipagem personalizada para aplicações exclusivas</h2>
+
+  <p>A Oficina de Protótipos é onde resolvemos os problemas que as pranchas de produção padrão não conseguem resolver. Exemplos recentes incluem:</p>
+
+  <ul>
+    <li>Um SUP de resgate de alta visibilidade para uma organização de busca e salvamento, exigindo alças de agarre integradas, suportes de equipamento para materiais de resgate e um casco de alta flutuabilidade para recuperação de vítimas — tudo prototipado, instalado e testado em nossa unidade.</li>
+    <li>Um SUP de touring expedição para uma contratada de levantamento hidrográfico, com mastro de instrumentos removível, portas de equipamento seladas e suporte de transdutor de perfil baixo projetado para minimizar o arrasto.</li>
+    <li>Um SUP de pesca compacto para uma frota de resort, onde o protótipo foi usado para validar estabilidade, aparelhagem de equipamentos e durabilidade sob uso diário de aluguel antes de o cliente se comprometer com uma frota de quatro.</li>
+  </ul>
+
+
+  <h2>Nossa equipe de prototipagem</h2>
+
+  <p>A oficina conta com oito técnicos marítimos multiqualificados, cada um com treinamento cruzado em pelo menos duas das três disciplinas principais (casco, trilho, aparelhagem). O líder da equipe é um mestre fabricante com 16 anos de experiência, desde construções personalizadas únicas
+  até séries de produção. Cada protótipo recebe um engenheiro de projeto dedicado que atua como ponto único de contato para o cliente durante todo o processo de construção e provas.</p>
+
+
+  <h2>Participação do cliente</h2>
+
+  <p>Incentivamos ativamente nossos clientes a participar dos marcos importantes durante a construção do protótipo — especialmente a revisão inicial de equipagem e as provas de mar. Seu feedback operacional durante essas etapas é inestimável para ajustar a prancha antes de ela entrar em produção.
+  Não construímos no vácuo; construímos em parceria com você.</p>
+
+  <p>As provas de mar de 20 horas também são uma oportunidade para sua equipe se familiarizar com o manuseio da prancha, o layout do convés e os requisitos de manutenção, garantindo uma transição tranquila para o serviço quando as pranchas de produção forem entregues.</p>
+cta:
+  title: Comece seu projeto protótipo
+  subtitle: Conte-nos sobre a prancha que você precisa e nós proporemos um plano de desenvolvimento de protótipo.
+  button_text: Entre em contato com nossa equipe de prototipagem
+  button_link: /contact/

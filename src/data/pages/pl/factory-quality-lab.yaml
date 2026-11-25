@@ -1,0 +1,66 @@
+meta:
+  title: 'Laboratorium jakości — testowanie i kontrola jakości | {SITE}'
+  description: 'Niezależne laboratorium jakości z procesami ISO 9001 w afararze: każda jednostka jest testowana przed wysyłką, aby zagwarantować jakość nadmuchiwanych desek SUP.'
+  keywords:
+    - 'kontrola jakości SUP'
+    - 'laboratorium testowe paddle boardów'
+    - 'fabryka SUP ISO 9001'
+    - 'jakość nadmuchiwanych SUP'
+hero:
+  tagline: Laboratorium Kontroli Jakości
+  title: Laboratorium Testowe i Zapewnienie Jakości
+  subtitle: Niezależne laboratorium jakości z procesami ISO 9001 — każda jednostka testowana przed wysyłką
+intro: >-
+  Afarer prowadzi dedykowane laboratorium kontroli jakości, które działa niezależnie od produkcji. Każda partia surowca i każda gotowa deska przechodzi przez udokumentowane protokoły inspekcji przed dopuszczeniem do użytku. Nasz zespół kontroli jakości raportuje bezpośrednio do zarządu, zapewniając
+  bezstronne decyzje dotyczące jakości.
+highlights:
+  - value: 100%
+    label: Jednostki poddane próbie ciśnieniowej
+    detail: Każda komora, każda deska
+  - value: 24–48 godz.
+    label: Czas trwania testu szczelności powietrza
+    detail: Przy 1,25× ciśnieniu znamionowym
+  - value: <5%
+    label: Maksymalna dopuszczalna strata ciśnienia
+    detail: 24–48-godzinny okres oczekiwania
+  - value: AQL 2,5
+    label: Próg poważnej wady
+    detail: Próbkowanie zgodnie z normą ISO 2859
+test_procedures:
+  - title: Kontrola surowców
+    description: Każda przychodząca partia PVC, tkaniny drop-stitch i osprzętu jest testowana przed akceptacją. Sprawdza się wytrzymałość na rozciąganie (ASTM D751), odporność na rozdarcie (ISO 4674) oraz odporność na promieniowanie UV. Materiały niespełniające wymagań są kwarantannowane i zwracane.
+    standards:
+      - ASTM D751 (rozciąganie)
+      - ISO 4674 (rozdarcie)
+      - ISO 4892 (UV)
+  - title: Punkty kontrolne QC w trakcie procesu
+    description: Operatorzy produkcji przeprowadzają samoinspekcję na każdym etapie. Audytorzy kontroli jakości przeprowadzają losowe testy próbne w ciągu całej zmiany. Testy odklejania spoin spawalniczych przeprowadzane są co 50 jednostek. Kontrole wymiarowe odbywają się na każdym 20. panelu.
+    standards:
+      - ASTM D751 (odrywalność)
+      - Wewnętrzna lista kontrolna 100 punktów
+      - Próbkowanie ISO 2859
+  - title: 24–48-godzinny test utrzymania powietrza
+    description: Każda komora rurki jest napompowana do 125% nominalnego ciśnienia i utrzymywana przez 24–48 godzin. Czujniki ciśnienia rejestrują dane ciągle z kompensacją temperatury. Każda komora, której spadek ciśnienia przekracza 5%, uruchamia automatyczną ponowną kontrolę partii.
+    standards:
+      - EN ISO 25649
+      - CE 2013/53/UE
+  - title: Testowanie obciążenia i równoważenia
+    description: Gotowe deski są testowane przy maksymalnej ładowności nominalnej pod względem stabilności i sztywności. Każda deska przechodzi testy wodne przed ostateczną akceptacją inspekcyjną.
+    standards:
+      - ISO 12217
+      - CE 2013/53/UE
+equipment:
+  - name: Uniwersalna maszyna do badań (rozciąganie)
+    spec: 5 kN, zgodny z ASTM D751
+  - name: Pressure Decay Tester
+    spec: Wielokanałowy, 0–50 psi, rejestrowanie danych
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1 000-godzinne cykle
+  - name: Miernik grubości (cyfrowy)
+    spec: rozdzielczość 0,01 mm
+  - name: Peel Tester (weld)
+    spec: Zmotoryzowany, o nośności 50 N
+  - name: Temperature Chamber
+    spec: '-40 °C do 100 °C'
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, oświetlone

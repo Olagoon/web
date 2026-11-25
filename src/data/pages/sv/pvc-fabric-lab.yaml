@@ -1,0 +1,121 @@
+meta:
+  title: PVC-tyglaboratorium — Materialtestning för uppblåsbara SUP:ar | {SITE}
+  description: Vetenskaplig materialprovning från fiber till färdigt bräde. Dragstyrka, UV-aging, lågtemperaturflexibilitet och slitagebeständighet för PVC-tyger. Kontakta vårt labbteam för en anpassad tygspecifikation.
+back_text: Tillbaka till FoU-centrum
+home_label: Hem
+hero:
+  tagline: Lab 01
+  title: PVC-vävlaboratorium
+  subtitle: Vetenskaplig materialtestning — från fiber till färdigt bräde
+  image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+  image_alt: Afarers laboratorium för testning av PVC-tygsmaterial
+intro: >-
+  Däck- och kanttyget är det enskilt mest kritiska materialet i en uppblåsbar SUP. Det måste tåla konstant UV-exponering, upprepade uppblåsningscykler, slitage mot bryggor och flytande föremål samt extrema temperatursvängningar — allt medan den bibehåller sin strukturella integritet under många år. Vid
+  Afarer är vårt PVC-tyglabb dedikerat uteslutande till karaktärisering, validering och kontinuerlig förbättring av de dukar vi använder i varje bräde vi bygger.
+content_html: >
+  <h2>Grunden till varje uppblåsbar SUP</h2>
+
+  <p>Vi litar inte enbart på leverantörers datablad. Varje sats PVC-tyg som kommer in i vår verkstad testas oberoende internt. Detta garanterar att den materialSpecifikation vi publicerar är den materialprestanda du får — sats efter sats, år efter år.</p>
+
+
+  <h2>Standardiserad testutrustning</h2>
+
+  <p>Vårt tyglabb är utrustat med industriella instrument som överensstämmer med ISO-, ASTM- och EN-testmetoder:</p>
+
+  <table>
+    <thead><tr><th>Utrustning</th><th>Mätta parametrar</th><th>Standard</th></tr></thead>
+    <tbody>
+      <tr><td>Universell dragprovare (50 kN)</td><td>Brytkraft, sträckning vid brott, tårsspridning</td><td>ISO 1421 / ASTM D751</td></tr>
+      <tr><td>Xenonbågskammare för väderbeständighet</td><td>UV-motstånd (färgförändring, styrkebibehållande efter 2 000 h)</td><td>ISO 4892 / ASTM G155</td></tr>
+      <tr><td>Lågtemp-flexprovare</td><td>Sprickpunkt vid -30 °C till -50 °C</td><td>ISO 4675 / ASTM D2136</td></tr>
+      <tr><td>Taber-slipprovare</td><td>Viktförlust efter 1 000 cykler (CS-10-hjul)</td><td>ASTM D3389 / ISO 5470-1</td></tr>
+      <tr><td>Tjockleksmätare (digital, 0,001 mm upplösning)</td><td>Enhetslighet över rullens bredd</td><td>ISO 2286-3</td></tr>
+      <tr><td>Hydrostatiskt huvudprovare</td><td>Vatteninträngningsmotstånd</td><td>ISO 811</td></tr>
+    </tbody>
+  </table>
+
+  <p class="text-sm text-gray-500">* All utrustning kalibreras årligen av ackrediterade tredjepartslaboratorier.</p>
+
+
+  <h2>Från data till beslut: en typisk testarbetsprocess</h2>
+
+  <p>När ett nytt tygkandidat anländer följer det en standardiserad sjustegs kvalificeringsprocess:</p>
+
+  <ol>
+    <li><strong>Mottagningsinspektion</strong> — visuell kontroll av ytdefekter, småhål och dimensionell efterlevnad.</li>
+    <li><strong>Tjocklekskartering</strong> — 20-punktsmätning över rullen; CV &lt; 3 % krävs för godkännande.</li>
+    <li><strong>Dragprovning</strong> — 5 provstycken i varp- och inslagsriktning. Minsta 3 500 N/50 mm för 1 100 dtex PVC.</li>
+    <li><strong>UV-konditionering</strong> — 1 000 h exponering i xenonbågskammare; minsta 80 % styrkebibehållande krävs.</li>
+    <li><strong>Kallsprickning</strong> — 4 h vid -35 °C, därefter 180° böjning över en 25 mm mal. Ingen synlig sprickbildning.</li>
+    <li><strong>Slibbeständighet</strong> — 1 000 cykler, viktförlust ≤ 0,05 g.</li>
+    <li><strong>Godkännande</strong> — först efter att alla sju kontrollstationer passerats frigörs tyget för produktion.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Typiskt PVC 1100 dtex — Draghållfasthet efter UV-exponering</p>
+    <div class="flex items-end gap-3 h-40">
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-600 rounded-t" style="height:100%"></div>
+        <span class="text-xs mt-1">0 h<br />100%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-500 rounded-t" style="height:95%"></div>
+        <span class="text-xs mt-1">500 h<br />95%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-400 rounded-t" style="height:88%"></div>
+        <span class="text-xs mt-1">1000 h<br />88%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-300 rounded-t" style="height:82%"></div>
+        <span class="text-xs mt-1">2000 h<br />82%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-gray-300 rounded-t" style="height:65%"></div>
+        <span class="text-xs mt-1">Konkurrent<br />~65%</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Vårt PVC 1100 dtex-tyg bevarar &gt; 80 % draghållfasthet efter 2 000 h xenonbågsexponering, jämfört med typiska industrigrader som sjunker under 70 %.</p>
+  </div>
+
+
+  <h2>Vårt professionella team</h2>
+
+  <p>Labbet bemannas av två materialingenjörer på heltid, var och en med examen i polymer- eller textilingenjörsvetenskap med minst sex års branscherfarenhet. De stöds av tre tekniker som utför daglig provning och datainsamling. Teamet deltar regelbundet i interlaboratoriella round-robin-provningar
+  organiserade av International Organization for Standardization (ISO) för att validera noggrannheten i våra testmetoder.</p>
+
+
+  <h2>Lösa dina tuffaste materialutmaningar</h2>
+
+  <p>Varje marint miljö är olika. En uthyrnings-SUP i tropisk sol möter väldigt annorlunda UV- och temperaturbelastningar än ett sjöbräde på nordliga breddgrader. Vårt tyglabb hjälper dig att välja — eller utveckla — en tygspecifikation som är optimerad för din driftprofil.</p>
+
+  <p>Senaste anpassade lösningarna inkluderar:</p>
+
+  <ul>
+    <li>En slittålig PVC-blandning för en militär kund vars brädor regelbundet sjösätts från korall- och klippstränder (+40 % slitagelivslängd).</li>
+    <li>En lågtemperatur-PVC-formulering för en arktisk expedition, testad till -50 °C utan sprödhet.</li>
+    <li>Ett färgstabiliserat orange tyg för en sök- och räddningsflotta, bibehåller synlighet efter 3 års tropisk sol-exponering.</li>
+  </ul>
+
+  <p>Vi säljer inte "färdiga" tyg och hoppas att de fungerar. Vi testar, validerar och rekommenderar — eller skapar — en skräddarsydd lösning för din specifika uppdragsprofil. Så skillnad gör Afarer.</p>
+
+
+  <h2>Hur vi betjänar dig</h2>
+
+  <p>När du kommer till oss med en materialutmaning, här är vad du kan förvänta dig:</p>
+
+  <ol>
+    <li><strong>Konsultation</strong> — vi diskuterar din driftmiljö, prestandamål och budget.</li>
+    <li><strong>Förslag</strong> — en testplan upprättas med tydliga godkännande/underkännandekriterier och en tidsplan.</li>
+    <li><strong>Genomförande</strong> — vårt labb kör testerna och producerar en detaljerad rapport med rådata och jämförande analys.</li>
+    <li><strong>Rekommendation</strong> — vi presenterar en tygspecifikation, inklusive alternativa alternativ om flera material uppfyller dina krav.</li>
+    <li><strong>Uppföljning</strong> — efter leverans finns vi tillgängliga för att stödja eventuella frågor om material under drift.</li>
+  </ol>
+
+  <p>Vårt mål är inte enbart att sälja dig ett bräde. Det är att säkerställa att det bräde du får presterar tillförlitligt i de förhållanden du paddlar i — och det börjar med tyget.</p>
+cta:
+  title: Behöver ni en anpassad tygspecifikation?
+  subtitle: Kontakta vårt materialtekniska team för att diskutera dina behov.
+  button_text: Kontakta vårt labbteam
+  button_link: /contact/

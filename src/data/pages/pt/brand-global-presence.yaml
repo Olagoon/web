@@ -1,0 +1,86 @@
+meta:
+  title: 'Presença Global — Fabricante de SUP que Atende 50+ Países | {SITE}'
+  description: 'A afarer exporta SUPs infláveis para mais de 50 países em todos os continentes. Fabricante e fornecedor profissional para marcas, distribuidores e frotas.'
+  keywords:
+    - 'fabricante global de SUP'
+    - 'exportador de paddle board'
+    - 'fábrica de SUP na China'
+    - 'fornecedor profissional de SUP'
+hero:
+  tagline: Presença Global
+  title: Atendendo 50+ Países<br />em Cada Continente
+  subtitle: De operadores de patrulha costeira europeus a distribuidores australianos de esportes aquáticos a equipes de resgate do Oriente Médio — as pranchas afarer estão na água no mundo todo.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: fabricação e distribuição marítima global afarer
+stats:
+  title: Alcance Global
+  stats:
+    - title: Países
+      amount: '50+'
+    - title: Mercados de Exportação
+      amount: Europa, Américas, Ásia, Oriente Médio, Oceania
+    - title: Produção
+      amount: Qingdao, China
+    - title: Armazém dos EUA
+      amount: Montclair, CA
+features3_markets:
+  tagline: Principais Mercados
+  title: Expertise Regional<br />para Requisitos Locais
+  subtitle: Entendemos que mercados têm diferentes requisitos e preferências.
+  isBeforeContent: false
+  columns: 4
+  items:
+    - title: Europa e Reino Unido
+      description: Produtos certificados CE. Forte demanda por pranchas SUP nos mercados da UE.
+      icon: tabler:map-pin
+    - title: América do Norte
+      description: Fabricação aprovada pela USCG. Armazém em Montclair, CA.
+      icon: tabler:map-pin
+    - title: Austrália e Oceania
+      description: Mercado forte para pranchas SUP e acessórios de desportos aquáticos. Os distribuidores australianos valorizam a nossa construção em PVC resistente aos UV.
+      icon: tabler:map-pin
+    - title: Oriente Médio
+      description: Procura crescente de equipamento de desportos aquáticos. Os nossos SUPs de grau comercial e equipamento de segurança são populares entre operadores turísticos e centros de aluguer. Configurações personalizadas para ambientes de alta temperatura.
+      icon: tabler:map-pin
+features3_distribution:
+  tagline: Rede de Distribuição
+  title: Parceria com Distribuidores<br />Mundialmente
+  subtitle: Trabalhamos com distribuidores de equipamentos marinhos, marcas de esportes aquáticos e agências.
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Programas Co-Brand
+      description: Fabricação de marca própria para marcas globais. Tudo do design ao drop-shipping.
+      icon: tabler:building
+    - title: Rede de Distribuidores
+      description: Distribuidores autorizados em 20+ países com estoque e suporte local.
+      icon: tabler:users
+    - title: Governo e Institucional
+      description: Fornecimento direto a guardas costeiras, organizações de resgate e programas militares.
+      icon: tabler:building-community
+steps2_logistics:
+  title: Logística & Suporte Global
+  subtitle: Da fábrica ao destino – gerenciamos toda a cadeia.
+  items:
+    - title: Opções de envio
+      description: Frete marítimo (FOB Qingdao), aéreo para urgências, courier para amostras.
+      icon: tabler:truck-delivery
+    - title: Armazém dos EUA
+      description: Estoque em Montclair, CA para entrega rápida na América do Norte.
+      icon: tabler:building-warehouse
+    - title: Peças de reposição
+      description: Peças originais afarer em estoque o ano todo.
+      icon: tabler:package
+    - title: Suporte Técnico
+      description: Linha direta para nossa equipe de engenharia para perguntas técnicas.
+      icon: tabler:headset
+cta:
+  title: Quer se tornar distribuidor?
+  subtitle: Estamos expandindo ativamente nossa rede de distribuição.
+  actions:
+    - variant: primary
+      text: Consulta de parceria
+      href: /contact/
+    - text: Veja nossa linha de produtos
+      href: /products/

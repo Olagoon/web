@@ -1,0 +1,104 @@
+meta:
+  title: Plăci de Paddle Inflabile Afarer | Mergi mai departe. Vâslește mai puternic.
+  description: Descoperă plăcile de paddle inflabile Afarer pentru vâslit all-around, touring, yoga, pescuit și aventuri în natură. Găsește SUP-ul perfect și explorează mai mult pe apă.
+  keywords:
+    - placă de paddle inflabilă
+    - sup inflabil
+    - sup all-around
+    - sup de touring
+    - sup de yoga
+    - sup de pescuit
+    - placă de paddle de familie
+    - placă de paddle portabilă
+hero:
+  tagline: Plăci de Paddle Inflabile
+  title: Plăci de Paddle Inflabile pentru Fiecare Aventură
+  slogan: Mergi mai departe. Vâslește mai puternic.
+  subtitle: Descoperă libertatea vâslitului cu Afarer. Explorează SUP-uri inflabile gândite cu atenție pentru zile relaxante pe lac, aventuri pe coastă, fitness și tot ce e între.
+  taglineSection: Construit pentru încredere. Creat să iasă în evidență.
+  actions:
+    - variant: primary
+      text: Găsește Placa Ta
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Explorează SUP-uri
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: De Ce Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Plăcile de paddle inflabile Afarer alunecă pe apă calmă la răsărit — construite pentru fiecare aventură
+who_we_serve:
+  tagline: Vâslește Cu Noi
+  title: Găsește-ți Drumul pe Apă
+  subtitle: Fiecare vâslaș are altă idee despre aventură. Descoperă un SUP Afarer proiectat în jurul modului tău de a vâsli.
+  items:
+    - title: Începători & Vâslași de Agrement
+      keywords: sup inflabil pentru începători, placă de paddle all-around, sup stabil
+      description: Plăci all-around late și stabile care fac prima ta lovitură de vâslă să pară naturală și care țin pasul cu tine pe măsură ce progresezi.
+      icon: tabler:users
+      cta: Găsește Prima Ta Placă
+      link: /all-around-sup/
+    - title: Touring & Aventură
+      keywords: sup de touring, placă de paddle pentru distanțe lungi, sup de expediție
+      description: Plăci mai lungi și mai înguste, construite să țină direcția, să alunece mai departe și să care echipament pentru trasee de mai multe zile.
+      icon: tabler:building
+      cta: Explorează SUP-urile de Touring
+      link: /touring-sup/
+    - title: Yoga & Fitness
+      keywords: sup de yoga, placă de paddle fitness, sup lat și stabil
+      description: Platforme late și stabile cu spațiu de mișcare — pentru fluxurile de la răsărit, antrenamente și echilibru pe apă liniștită.
+      icon: tabler:heart
+      cta: Explorează SUP-ul de Yoga
+      link: /yoga-sup/
+    - title: Pescuit & Familie
+      keywords: sup de pescuit, placă de paddle de familie, platformă de pescuit stabilă
+      description: Platforme stabile și practice pentru pescuit, plimbări cu copiii și zile lungi și relaxante pe apă.
+      icon: tabler:users
+      cta: Explorează SUP-ul de Pescuit
+      link: /fishing-sup/
+proof_points:
+  title: Testat dincolo de showroom
+  subtitle: Design, performanță și calitate pe care le puteți verifica — pe apă și în cifre.
+  items:
+    - metric: 10+
+      label: Ani de design pentru apă
+      detail: Din 2012, rafinat placă cu placă
+    - metric: 50+
+      label: Țări pe apă
+      detail: Paddleri și parteneri din întreaga lume
+    - metric: 12–15
+      label: Nucleu drop-stitch în PSI
+      detail: Rigid unde contează, ușor de împachetat
+    - metric: 100%
+      label: Testat la presiune, placă cu placă
+      detail: Inspectat înainte de expediere
+business_solutions:
+  tagline: De Ce Merge Diferit
+  title: Performanță pe Care o Simți la Prima Lovitură de Vâslă
+  subtitle: Patru piloni formați de apa reală — performanță, design, construcție și calitate.
+  items:
+    - title: Performanță pe Apă
+      description: Forme reglate pentru stabilitate, alunecare și încredere în valuri — fiecare lovitură rămâne conectată la apă.
+      icon: tabler:shield-check
+    - title: Design Expresiv
+      description: Colecții inspirate din maree, viața sălbatică și energia țărmului — plăci cu care vrei să fii văzut.
+      icon: tabler:package
+    - title: Construcție Dovedită
+      description: Nuclee drop-stitch de densitate mare, borduri întărite și cusături laminate prin fuziune, pentru utilizare repetată.
+      icon: tabler:headset
+    - title: Calitate Verificată
+      description: Testate la presiune, inspectate vizual și susținute de o garanție clară și suport post-vânzare receptiv.
+      icon: tabler:truck-delivery
+cta:
+  title: Găsește următoarea ta placă.
+  subtitle: Fie că e prima ta lovitură de vâslă, fie cel mai lung traseu — te punem pe apă.
+  actions:
+    - variant: primary
+      text: Explorează Colecția
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Cere Catalogul
+      href: /resources/download-catalog/

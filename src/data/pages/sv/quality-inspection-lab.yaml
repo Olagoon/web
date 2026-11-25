@@ -1,0 +1,139 @@
+meta:
+  title: Kvalitets- och inspektionslabb — ISO-kompatibel SUP-testning och certifiering | {SITE}
+  description: Oberoende kvalitetsverifiering för uppblåsbara SUP:ar. Dragprovning, lufttätighetscykling, sömavdragningstester och materialcertifiering. Kontakta vårt kvalitetslaboratorium för tredjepartsprovning.
+back_text: Tillbaka till FoU-centrum
+home_label: Hem
+hero:
+  tagline: Laboratorium 06
+  title: Kvalitets- och inspektionslaboratorium
+  subtitle: Oberoende verifiering — varje test godkänt före leverans
+  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+  image_alt: Afarares kvalitetsinspektionslaboratorium UV-testning
+intro: >-
+  Varje bräde som lämnar vår verkstad bär certifieringen att den har passerat en definierad uppsättning kvalitetsinspektioner och materialprov. Vårt kvalitets- och inspektionslaboratorium är en oberoende funktion inom organisationen — det rapporterar direkt till verkställande direktören, inte till
+  produktionen — vilket säkerställer att inget kommersiellt tryck kan kompromettera inspektionsporten. Om ett materialparti eller ett färdigt bräde inte uppfyller den publicerade specifikationen har laboratoriet behörighet att stoppa leveransen till dess att avvikelsen är åtgärdad.
+content_html: >-
+  <h2>Tro, men verifiera</h2>
+
+  <p>Laboratoriet arbetar under ett kvalitetsstyrningssystem som är anpassat efter principer, och våra provningsmetoder är baserade på ISO-, ASTM- och EN-standarder där tillämpbart. Vi för detaljerade register över varje provning som utförs och skapar en fullständig spårbarhetskedja från
+  råmaterialmottagning till slutlig brädleverans.</p>
+
+
+  <h2>Provutrustning och förmåga</h2>
+
+  <table>
+    <thead><tr><th>Utrustning</th><th>Genomförda prov</th><th>Standard / metod</th></tr></thead>
+    <tbody>
+      <tr><td>Universell provningsmaskin (50 kN)</td><td>Draghållfasthet (tyg), lossningsmotstånd (sömmar), rivspridning</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Lufttäthetsprovstativ (programmerbart)</td><td>1 000-cykels uppblåsnings-/tömningshållfasthet, 30 min tryckhållbarhetstest</td><td>EN ISO 25649 (intern)</td></tr>
+      <tr><td>Sömlosningsprovdon (motoriserat 180° peel)</td><td>Svetsade och limmade sömmars losningsstyrka vid 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatisk huvudprovnare</td><td>Tygens vattenpenetrationsmotstånd (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digital tjockleksmätare och mikrometer</td><td>Tygtjocklek, rörväggstjocklek, limfilmstjocklek</td><td>ISO 2286-3</td></tr>
+      <tr><td>Miljökammare</td><td>Temperaturkonditionering (-40 °C till +80 °C) för kallbrytning och värmeäldringstester</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Färgspektrofotometer</td><td>Delta-E färgmätning efter UV-exponering</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Kontrollpunkter — från material till leverans</h2>
+
+  <p>Varje bräde följer en definierad kvalitetsplan med obligatoriska kontrollpunkter. Inget bräde kan hoppa över en kontroll; varje kontrollpunkt måste godkännas av en kvalitetsinspektör innan nästa produktionssteg påbörjas.</p>
+
+
+  <div class="not-prose my-8">
+    <div class="relative">
+      <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
+      <div class="space-y-6 relative">
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Kontrollpunkt 1</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Mottagningskontroll av material</p>
+            <p class="text-xs text-gray-500 mt-1">Tygparti, limparti, hårdvara — allt kontrolleras mot inkommande specifikation innan frigivning till produktion.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Kontrollpunkt 2</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Kontroll av svetsning under bearbetning</p>
+            <p class="text-xs text-gray-500 mt-1">Första svetsprovet provas (losning + visuell) vid starten av varje produktionskift.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Kontrollpunkt 3</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Kammarluftprovning</p>
+            <p class="text-xs text-gray-500 mt-1">Varje kammare trycksätts till 1,5 gånger arbetstryck och hålls i 30 min. Data loggas per serienummer.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Kontrollpunkt 4</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Kontroll före leverans</p>
+            <p class="text-xs text-gray-500 mt-1">Helt bräde inspekteras: alla fästen åtdragna, beslag funktionsdugliga, inga kosmetiska fel. 100-punkts checklista.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Kontrollpunkt 5</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Slutcertifiering</p>
+            <p class="text-xs text-gray-500 mt-1">Provrapporter sammanställda, kontrollregister granskade, överensstämmelseintyg utfärdade.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Nyckelkvalitetsmätningar (rörligt medelvärde 2025)</h2>
+
+  <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">99,7 %</span>
+      <span class="text-xs text-gray-500">Första provningen godkänd (tygparti)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">&lt; 0,2 %</span>
+      <span class="text-xs text-gray-500">Svetsavvisningsfrekvens (linjär meter)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">100 %</span>
+      <span class="text-xs text-gray-500">Kammare luftprovade innan montering</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
+      <span class="text-xs text-gray-500">Designkategorins överensstämmelse</span>
+    </div>
+  </div>
+
+
+  <h2>Vårt kvalitetsteam</h2>
+
+  <p>Laboratoriet är bemättat av en kvalitetschef (10 år inom marinkvalitet, ASQ-certifierad kvalitetsingenjör), två kvalitetsinspektörer (båda med NDT-nivå 2-certifiering i visuell provning) och en materialtekniker ansvarig för all fysisk provning. Teamet genomgår årliga kompetensprovningar genom
+  en oberoende tredjeleverantör för att säkerställa att våra provningsresultat förblir korrekta och reproducerbara.</p>
+
+
+  <h2>Oberoende provning för kunder</h2>
+
+  <p>Vårt Kvalitets- och inspektionslaboratorium är tillgängligt för oberoende provningstjänster. Om du behöver verifiera en tygspecifikation, validera ett nytt limsystem eller erhålla en tredje parts provningsrapport för en inköpskvalificering kan vi genomföra provningarna enligt tillämplig
+  standard och utfärda ett certifierat provningsrapport.</p>
+
+  <p>Exempel på senaste tredjepartsprovningar:</p>
+
+  <ul>
+    <li>Jämförelse av losningsstyrka för fem konkurrerande limfilmsprodukter för ett europeiskt militärt inköpsprogram.</li>
+    <li>Accelererad äldringsstudie (UV + termisk cykling) för en ny orange PVC-formulering med regelbundna mellanliggande mätningar med 500 timmars intervall.</li>
+    <li>Lufttäthetsvalidering av 50 prototypskottventiler för en ny högtryckskammardesign.</li>
+  </ul>
+
+
+  <h2>Vårt åtagande för dig</h2>
+
+  <p>När du tar emot ett Afarer-bräde får du även dess kvalitetsdossier — en sammanställning av de provningsresultat som gäller för just ditt bräde. Tygparticertifikat, svetslosningsprov, kammarluftprovningar och kontrollista före leverans. Varje siffra är spårbar. Varje inspektör är identifierad.
+  Detta är inte bara pappersarbete — det är vår löften om att det vi levererade är det vi specificerade.</p>
+
+  <p>Om du någonsin har en kvalitetsfråga kan du kontakta laboratoriet direkt — kontaktuppgifterna är tryckta på ditt överensstämmelseintyg. Vi tar varje fråga på allvar och åtar på oss att genomföra en formell utredning inom 48 timmar.</p>
+cta:
+  title: Behöver du oberoende provning eller kvalitetsverifiering?
+  subtitle: Vårt laboratorium tar emot tredjeparts testuppdrag — kontakta oss med era krav.
+  button_text: Kontakta kvalitetslaboratoriet
+  button_link: /contact/

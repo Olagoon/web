@@ -1,0 +1,117 @@
+meta:
+  title: 'Country Partners — One Country, One Official Afarer Distributor | {SITE}'
+  description: 'Apply to become the official Afarer distributor for your country. One authorized partner per market, territory protection, direct-factory margins, annual rebates, and a 10-module country partner support program for global SUP and water sports distributors.'
+  keywords:
+    - 'country partnership program'
+    - 'become a distributor'
+    - 'SUP distributorship'
+    - 'one country one distributor'
+    - 'stand up paddle distributor'
+    - 'water sports distribution'
+    - 'country partnership application'
+hero:
+  tagline: 'Country Partnership'
+  title: 'One Country.<br />One Official Afarer Distributor.'
+  subtitle: 'Afarer appoints a single authorized country distributor for each approved market. Exclusive territory, dealer pricing with annual rebates, and a full distributor support program — in exchange for a signed agreement and a real commitment to build the market.'
+  actions:
+    - text: 'Apply for Country Partnership'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Find Your Local Distributor'
+      href: /distributor-program/
+      variant: secondary
+    - text: 'Request Dealer Price List'
+      href: /contact/?subject=Dealer Price List
+      variant: secondary
+stats:
+  - value: '1'
+    label: 'Official distributor per country or region'
+  - value: '100–300'
+    label: 'Minimum first order (Country / Regional)'
+  - value: '50+'
+    label: 'Countries served globally'
+  - value: '12–16'
+    label: 'Weeks standard lead time (FOB Qingdao)'
+features:
+  title: 'Why Partner With Afarer'
+  subtitle: 'A one-country-one-distributor model with the support structure to make the territory pay. Exclusivity is earned and maintained — not a permanent right.'
+  columns: 3
+  items:
+    - title: 'Territory Exclusivity'
+      description: 'One authorized distributor per country or region. No parallel imports, no internal competition. Your investment builds your own moat.'
+      icon: 'tabler:shield-check'
+    - title: 'Channel Conflict Protection'
+      description: 'Direct orders from your region are routed through you, and pricing protects your margin. Afarer does not sell around its country partners.'
+      icon: 'tabler:users'
+    - title: 'Direct-Factory Margins & Rebates'
+      description: 'Dealer price list with rebates on committed volumes. No middlemen. FOB Qingdao shipping with full export documentation.'
+      icon: 'tabler:coins'
+    - title: '10-Module Partner Support Program'
+      description: 'Onboarding, go-to-market, training, marketing and joint market funding, spare parts and after-sales, warranty, ordering tools, and a partner portal — covered in your Distribution Agreement.'
+      icon: 'tabler:rocket'
+    - title: 'Marketing & Joint Market Funds'
+      description: 'Localized campaign assets, dealer POS materials, event kits, digital content in multiple languages, and co-marketing support for launch seasons.'
+      icon: 'tabler:mood-smile'
+    - title: 'Product, Sales & Technical Training'
+      description: 'Structured onboarding sessions on product, sales, and technical knowledge, with updated materials as the range evolves.'
+      icon: 'tabler:presentation'
+    - title: 'Spare Parts & After-Sales Support'
+      description: 'Spare parts supply, warranty registration and claims handling, and product datasheets and manuals for your local service team.'
+      icon: 'tabler:settings'
+    - title: 'Dedicated Account Manager & Partner Portal'
+      description: 'A personal distributor manager plus access to price lists, order status, and marketing resources through the Afarer partner portal.'
+      icon: 'tabler:user-check'
+table:
+  title: 'Partnership Tiers, MOQ & Order Terms'
+  subtitle: 'Choose the tier that matches your market potential. All prices in USD, FOB Qingdao.'
+  caption: 'Sample and trial orders (5–30 units) carry no territorial protection. Country exclusivity applies only to signed Country / Regional Distributor agreements — it is maintained by first-order completion, annual purchase targets, local stock, after-sales capability, and continued market investment, and is not a permanent or perpetual right.'
+  head:
+    - Program Tier
+    - Minimum Order (units)
+    - Lead Time
+    - Payment
+  rows:
+    - [Sample / Product Evaluation, 5–10, 15–20 working days, 100% prepaid]
+    - [Trial Order, 10–30, 15–20 working days, 100% prepaid]
+    - [Authorized Dealer, 30–50, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 10–14 weeks, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 12–16 weeks, 30% deposit / 70% before shipment]
+    - [Deep Custom (new molds, packaging), 200+, 12–16 weeks + 15–20 days tooling, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 10–14 weeks, 30% deposit / 70% before shipment]
+faqs:
+  title: 'Country Partnership — FAQ'
+  subtitle: 'The questions serious country partners ask before applying.'
+  items:
+    - title: 'What does one-country-one-distributor really mean?'
+      description: 'Afarer appoints a single authorized distributor with exclusive rights for a defined territory. We do not sell from our global or regional channels into a protected country. Your territory ownership holds for as long as the Distribution Agreement is met.'
+    - title: 'Is the territory exclusive forever?'
+      description: 'No. Exclusivity is conditional, not perpetual. It is maintained through a signed Distribution Agreement, completion of your first order, annual purchase targets, local stock, after-sales capability, and continued market investment. If these are not met, the territory can be renegotiated or reassigned.'
+    - title: 'What is the minimum first order?'
+      description: 'Country and regional distributors start at 100–300 units; authorized dealers at 30–50 units; trial orders from 10–30 units let you validate the market first (trial and sample orders carry no territory protection). Custom and private-label programs follow separate MOQs listed in the tiers above.'
+    - title: 'What support is included in the 10-module support program?'
+      description: 'Tiers and qualification, territory protection, MOQ / pricing / annual rebates, inventory and order execution, marketing assets and joint market funds, product / sales / technical training, spare parts and after-sales, warranty registration, the partner portal, and product datasheets, marketing asset library, annual rebate schedule, and shipping and packing lists.'
+    - title: 'How does Afarer protect me from channel conflict?'
+      description: 'Each territory has exactly one authorized distributor. Inquiries and direct orders from your region are routed through you, website forms are forwarded toward the local partner where one exists, and the global team only escalates when a partner does not respond.'
+    - title: 'What are the shipping and payment terms?'
+      description: 'Orders ship FOB Qingdao with full export documentation. Production orders are 30% deposit with 70% before shipment; trial and sample orders are prepaid. Production runs take 12–16 weeks at 50–100 units, 10–14 weeks at 300–1,000 units, and 8–12 weeks above 1,000 units; sample runs ship in 15–20 working days.'
+    - title: 'How do I apply?'
+      description: 'Send your application via the contact form with market details. We review market fit, retail presence, and logistics capability, then respond within 3 business days with next steps and a sample Distribution Agreement.'
+cta:
+  title: 'Own your market.'
+  subtitle: 'Apply for the Afarer Country Partnership and get a response within 3 business days.'
+  actions:
+    - text: 'Apply for Country Partnership'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Download the Program Overview'
+      href: /distributor-program/
+      variant: secondary
+geo:
+  tagline: 'Who We Partner With'
+  sentence: 'Afarer partners with established marine, outdoor, and sports distributors who serve retail chains, rental fleets, water sports schools, resorts, and government buyers with premium inflatable SUP boards and watercraft — and who commit to building the Afarer brand in their country.'
+  audiences:
+    - 'Marine & Paddle Sports Distributors'
+    - 'Outdoor & Sports Retail'
+    - 'Rental & Resort Operators'
+    - 'Water Sports Schools'
+    - 'Ocean Sports Communities'

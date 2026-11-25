@@ -1,0 +1,225 @@
+---
+import merge from 'lodash.merge';
+import { SEO } from 'astro-seo';
+
+import type { SEOProps } from 'astro-seo';
+
+import { SITE, METADATA } from 'astrowind:config';
+import { getLangFromUrl, removeLang } from '~/i18n/utils';
+import type { MetaData, MetaDataOpenGraph } from '~/types';
+import { getCanonical } from '~/utils/permalinks';
+import { seoPageMeta } from '~/i18n/generated/seo-meta';
+
+import { adaptOpenGraphImages } from '~/utils/images';
+
+export interface Props extends MetaData {
+  dontUseTitleTemplate?: boolean;
+  seoSettings?: {
+    siteUrl?: string;
+    defaultOgImage?: { src?: string; alt?: string } | null;
+    keywords?: string[];
+    robotsIndex?: boolean;
+    robotsFollow?: boolean;
+    twitterHandle?: string;
+    twitterSite?: string;
+    twitterCardType?: string;
+  };
+}
+
+const {
+  title,
+  ignoreTitleTemplate = false,
+  canonical = String(getCanonical(String(Astro.url.pathname))),
+  robots = {},
+  description,
+  openGraph = {},
+  twitter = {},
+  seoSettings = {},
+} = Astro.props;
+
+const currentLang = getLangFromUrl(Astro.url);
+
+// The EN homepage is built at /en/ but served at the site root (edge middleware
+// rewrites "/" -> "/en/" and 308s "/en" + "/en/" -> "/"). Point canonical and
+// og:url at the 200 URL ("https://afarer.com/") instead of a redirecting one.
+const siteRoot = `${SITE.site}/`;
+const canonicalUrl = canonical === `${siteRoot}en/` ? siteRoot : canonical;
+
+// og:locale must reflect the page content language in xx_XX form. Only the 21
+// translated locales get their own value; EN-fallback locales (bg, et, he, hr,
+// hu, id, lt, lv, ms, sk, sl, sr, tl) serve English content -> en_US.
+const OG_LOCALE: Record<string, string> = {
+  en: 'en_US',
+  fr: 'fr_FR',
+  de: 'de_DE',
+  es: 'es_ES',
+  pt: 'pt_PT',
+  ar: 'ar_AR',
+  it: 'it_IT',
+  ja: 'ja_JP',
+  ko: 'ko_KR',
+  ru: 'ru_RU',
+  pl: 'pl_PL',
+  nl: 'nl_NL',
+  sv: 'sv_SE',
+  no: 'nb_NO',
+  el: 'el_GR',
+  tr: 'tr_TR',
+  fi: 'fi_FI',
+  cs: 'cs_CZ',
+  da: 'da_DK',
+  ro: 'ro_RO',
+  th: 'th_TH',
+  hr: 'hr_HR',
+  hu: 'hu_HU',
+  sk: 'sk_SK',
+  bg: 'bg_BG',
+  sl: 'sl_SI',
+  sr: 'sr_RS',
+  id: 'id_ID',
+  he: 'he_IL',
+  ms: 'ms_MY',
+  lt: 'lt_LT',
+  lv: 'lv_LV',
+  et: 'et_EE',
+  tl: 'tl_PH',
+};
+
+// Localized page meta (title/description/keywords) from the per-page YAML
+// `meta:` blocks, keyed by lang + path. When a page defines its own meta for
+// the current language, it takes precedence over route-level hardcoded values.
+const routePath = removeLang(Astro.url.pathname);
+const pageMeta = seoPageMeta?.[`${currentLang}${routePath}`];
+
+const resolveTitle = (): string => {
+  if (pageMeta?.title) return String(pageMeta.title).replace('{SITE}', SITE?.name || 'Afarer');
+  return title || METADATA?.title?.default || '';
+};
+const resolveDescription = (): string => {
+  if (pageMeta?.description) return String(pageMeta.description).replace('{SITE}', SITE?.name || 'Afarer');
+  return description || METADATA?.description || '';
+};
+const resolveKeywords = (): string[] => {
+  if (pageMeta?.keywords?.length) return pageMeta.keywords;
+  if (Astro.props.keywords?.length) return Astro.props.keywords;
+  return seoSettings?.keywords || [];
+};
+
+const resolvedTitle = resolveTitle();
+const resolvedDescription = resolveDescription();
+const resolvedKeywords = resolveKeywords();
+
+const mergedOg: MetaDataOpenGraph = merge(
+  {
+    url: canonicalUrl,
+    siteName: SITE?.name,
+    images: [],
+    locale: currentLang || 'en',
+    type: 'website',
+  },
+  METADATA?.openGraph,
+  { url: canonicalUrl, ...openGraph }
+);
+// METADATA.openGraph.locale (en_US in config.yaml) would otherwise override the
+// per-page language via the merge above — resolve the page's own og:locale last.
+mergedOg.locale = openGraph.locale || OG_LOCALE[currentLang || ''] || 'en_US';
+
+const adaptedOg = await adaptOpenGraphImages(mergedOg, Astro.site);
+
+const firstImage = adaptedOg?.images?.[0];
+
+function buildOpenGraph(og: MetaDataOpenGraph): SEOProps['openGraph'] | undefined {
+  if (!og) return undefined;
+
+  const imageUrl = firstImage?.url || '';
+  if (!imageUrl) return undefined;
+
+  return {
+    basic: {
+      title: resolvedTitle || METADATA?.title?.default || '',
+      type: og.type || 'website',
+      image: imageUrl,
+      url: og.url,
+    },
+    optional: {
+      description: resolvedDescription || METADATA?.description,
+      locale: og.locale,
+      siteName: og.siteName,
+    },
+    image: {
+      url: imageUrl,
+      width: firstImage?.width,
+      height: firstImage?.height,
+      alt: resolvedTitle || METADATA?.title?.default || '',
+    },
+  };
+}
+
+const mergedTwitter = merge(
+  {
+    card: (adaptedOg?.images?.length ? 'summary_large_image' : 'summary') as 'summary_large_image' | 'summary',
+  },
+  METADATA?.twitter
+    ? {
+        card: METADATA.twitter.cardType as 'summary_large_image' | 'summary' | undefined,
+        site: METADATA.twitter.site,
+        creator: METADATA.twitter.handle,
+      }
+    : {},
+  twitter
+    ? {
+        card: twitter.cardType as 'summary_large_image' | 'summary' | undefined,
+        site: twitter.site,
+        creator: twitter.handle,
+      }
+    : {},
+  seoSettings?.twitterCardType || seoSettings?.twitterHandle || seoSettings?.twitterSite
+    ? {
+        card: (seoSettings.twitterCardType || 'summary_large_image') as 'summary_large_image' | 'summary',
+        site: seoSettings.twitterSite,
+        creator: seoSettings.twitterHandle,
+      }
+    : {}
+);
+
+const resolveNoindex = (): boolean => {
+  if (typeof robots?.index === 'boolean') return !robots.index;
+  if (typeof METADATA?.robots?.index === 'boolean') return !METADATA.robots.index;
+  if (typeof seoSettings?.robotsIndex === 'boolean') return !seoSettings.robotsIndex;
+  return false;
+};
+const resolveNofollow = (): boolean => {
+  if (typeof robots?.follow === 'boolean') return !robots.follow;
+  if (typeof METADATA?.robots?.follow === 'boolean') return !METADATA.robots.follow;
+  if (typeof seoSettings?.robotsFollow === 'boolean') return !seoSettings.robotsFollow;
+  return false;
+};
+
+// Avoid double-branding: if the title already contains the site name,
+// skip the template (e.g. "OARS Pump Set — Afarer" + "%s — Afarer"
+// would produce "OARS Pump Set — Afarer — Afarer").
+const siteBrand = SITE?.name || 'Afarer';
+const rawTitle = resolvedTitle;
+const titleAlreadyBranded = rawTitle.includes(siteBrand);
+
+const seoProps: SEOProps = {
+  title: rawTitle,
+  titleTemplate: ignoreTitleTemplate || titleAlreadyBranded ? '%s' : METADATA?.title?.template || '%s',
+  canonical: canonicalUrl,
+  noindex: resolveNoindex(),
+  nofollow: resolveNofollow(),
+  description: resolvedDescription,
+  openGraph: buildOpenGraph(adaptedOg),
+  twitter: mergedTwitter,
+  surpressWarnings: true,
+  extend: {
+    meta: [
+      { name: 'theme-color', content: '#0f172a' },
+      { name: 'format-detection', content: 'telephone=no' },
+      ...(resolvedKeywords.length > 0 ? [{ name: 'keywords', content: resolvedKeywords.join(', ') }] : []),
+    ],
+  },
+};
+---
+
+<SEO {...seoProps} />

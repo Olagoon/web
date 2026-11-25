@@ -1,0 +1,111 @@
+meta:
+  title: OEM-køberguide – indkøb af oppustelige fartøjer fra Asien | {SITE}
+  description: "Omfattende guide til sourcing af oppustelige SUP'er og kajakker hos asiatiske producenter: tjekliste til fabriksevaluering, QC-protokoller, verifikation af overholdelse, MOQ-forhandling, leveringsbetingelser og almindelige faldgruber."
+back_text: Tilbage til Forskning
+hero:
+  tagline: Indkøb
+  title: OEM-køberguide — indkøb af oppustelige fartøjer fra Asien
+  subtitle: 12 minutters læsetid
+content_html: >
+  <h2>1. Prækvalifikation: Hvad du skal kigge efter hos en fabrik</h2>
+
+
+  <h3>Compliance-certifikater</h3>
+
+  <ul>
+    <li><strong>ISO 9001:2015</strong> – Kvalitetsledelsessystem</li>
+    <li><strong>CE-certificering</strong> – Verificér det bemyndigede organs (Notified Body) nummer</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Sociale compliance-audits</li>
+    <li><strong>REACH / RoHS</strong> – Materiale-complianceerklæringer</li>
+  </ul>
+
+
+  <h3>Produktionskapaciteter</h3>
+
+  <ul>
+    <li>Vævning af drop-stitch-kernen internt vs. outsourcet</li>
+    <li>PVC-coating-/lamineringslinje</li>
+    <li>RF-svejse- og varmluftssvejseudstyr</li>
+    <li>Intern formfremstilling (CNC-bearbejdning)</li>
+    <li>Testlaboratorium (tryktest, UV-ældning, trækprøvning)</li>
+  </ul>
+
+
+  <h3>Verifikation af erfaring</h3>
+
+  <ul>
+    <li>År med produktion af oppustelige vandfartøjer (minimum 5 år)</li>
+    <li>Antal ansatte ingeniører</li>
+    <li>Eksisterende OEM/ODM-kunder (anmod om referencer)</li>
+    <li>Eksportdestinationer – leverer de allerede til dit målemarked?</li>
+  </ul>
+
+
+  <h2>2. Kvalitetskontrolprotokoller</h2>
+
+  <p>Indgående kvalitetskontrol af materialer: trækstyrke (ASTM D751 eller ISO 1421), rivestyrke (ASTM D2261 eller ISO 4674), vedhæftningsstyrke og stikprøvekontrol af UV-ældning.</p>
+
+  <p>Kvalitetskontrol under produktionen: overvågning af sømstyrke for hver 50. enhed, verifikation af ventilens tilspænding, kontrol af drop-stitch-trådtæthed og målkontrol mod CAD-tegninger.</p>
+
+  <p>Slutkontrol: 100 % oppustningstest (24 timer, maks. 5 % trykfald), visuel inspektion, funktionstest af ventiler og tilfældig stikprøvetestning (AQL 2,5 eller 4,0 i henhold til ISO 2859).</p>
+
+
+  <h2>3. Tjekliste for compliance-dokumentation</h2>
+
+  <ul>
+    <li>Overensstemmelseserklæring (DoC), der henviser til det korrekte EU-direktiv</li>
+    <li>CE-certifikat fra et bemyndiget organ</li>
+    <li>Testrapport fra et akkrediteret laboratorium</li>
+    <li>Sikkerhedsdatablade for materialer (MSDS)</li>
+    <li>REACH-complianceerklæring</li>
+    <li>Stykliste med sporbarhed til leverandører</li>
+    <li>Fabriksinspektionsrapport</li>
+  </ul>
+
+
+  <h2>4. Forhandling af MOQ</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Produkttype</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Standard MOQ</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Forhandlingsramme</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">SUP-brætter</td><td class="p-3 border">50 – 100 enheder</td><td class="p-3 border">5 – 10 enheder (prøveordre)</td></tr>
+      <tr><td class="p-3 border">Kajakker</td><td class="p-3 border">50 – 100 enheder</td><td class="p-3 border">5 – 10 enheder (prøveordre)</td></tr>
+      <tr><td class="p-3 border">Oppustelige SUP'er</td><td class="p-3 border">50 – 100 enheder</td><td class="p-3 border">2 – 5 enheder (prøveordre)</td></tr>
+      <tr><td class="p-3 border">Sikkerheds-/tilbehør</td><td class="p-3 border">200 – 500 enheder</td><td class="p-3 border">50 – 100 enheder (prøveordre)</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>5. Logistik og forsendelse</h2>
+
+  <p>Almindelige Incoterms: <strong>FOB</strong> (fabrikken leverer til afgangshavnen – mest almindeligt), <strong>EXW</strong> (køber arrangerer al forsendelse fra fabriksdøren), <strong>CIF</strong> (fabrikken betaler fragt og forsikring til bestemmelseshavnen).</p>
+
+  <p>Oppustelige produkter har lav vægt, men stort volumen – volumenvægten (DIM) afgør ofte forsendelsesomkostningen. Anmod om vakuumpakket emballage for at reducere volumenet med 50–60 %. Havfragt fra Kina til EU: 25–35 dage; til USA's vestkyst: 15–20 dage.</p>
+
+
+  <h2>6. Almindelige faldgruber</h2>
+
+  <ul>
+    <li><strong>Ingen fabriksaudit:</strong> Udfør eller bestil altid en tredjepartsaudit (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Kun mundtlige specifikationer:</strong> Detaljeret teknisk specifikationsblad underskrevet af begge parter</li>
+    <li><strong>Spring prøvegodkendelsen over:</strong> Skriftlig godkendelse af prøver inden masseproduktion</li>
+    <li><strong>Ingen kvalitetskontrol under produktionen:</strong> Tredjepartsinspektion under produktionen (DUPRO) og inden forsendelse (PSI)</li>
+    <li><strong>Ignorerer compliance:</strong> Verificér CE/UKCA-certificering inden produktion</li>
+  </ul>
+
+
+  <h2>7. Hvorfor Afarer</h2>
+
+  <p>Afarer har fremstillet OEM/ODM-oppustelige vandfartøjer siden 2012. Med et ISO 9001-certificeret anlæg på 12.000 m&sup2;, 25+ ingeniører og CE-certificering på tværs af alle produktlinjer opfylder vi hvert kriterium i denne guide. Vi tilbyder prøve-MOQ'er for nye partnere og komplette pakker
+  med compliance-dokumentation.</p>
+cta:
+  title: Klar til at starte sourcing?
+  subtitle: Kontakt vores OEM-team for at drøfte dine projektkrav.
+  button_text: Anmod om tilbud
+  button_link: /contact/

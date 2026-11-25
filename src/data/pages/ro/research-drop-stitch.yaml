@@ -1,0 +1,86 @@
+meta:
+  title: Cum funcționează Drop Stitch — ingineria din spatele miezurilor rigide pneumatice | {SITE}
+  description: 'Analiză detaliată a tehnologiei drop stitch: modul în care mii de fire interne transformă PVC-ul flexibil într-un miez rigid, de înaltă presiune, capabil de 15-20 PSI. Metode de construcție, materiale, indicatori de calitate și aplicații în plăcile SUP și caiacuri.'
+back_text: Înapoi la cercetare
+hero:
+  tagline: Tehnologie
+  title: Cum Funcționează Drop Stitch — Ingineria din Spatele Miezurilor Rigide Gonflabile
+  subtitle: 8 min de citire
+content_html: >
+  <h2>Ce este drop stitch?</h2>
+
+  <p>Drop stitch (numit și "drop-stitch fabric" sau "drop-stitch core") este o metodă de construcție în care mii de fire individuale de poliester leagă stratul superior și stratul inferior ale unei carcase din material textil. Când carcasa este umflată, aceste fire acționează ca elemente interne de
+  tracțiune — împiedică panourile superioare și inferioare să se bombeze spre exterior într-o formă rotundă, forțând panoul să rămână plat și rigid.</p>
+
+  <p>Rezultatul este o structură ușoară și portabilă, capabilă să reziste la o presiune internă de 15 – 20 PSI — comparabilă ca rigiditate cu o placă cu carcasă dură, dar complet dezumflabilă pentru depozitare și transport.</p>
+
+
+  <h2>Cum funcționează: fizica din spate</h2>
+
+  <p>Într-o structură gonflabilă convențională (cum ar fi un balon sau o saltea de aer), presiunea aerului interior împinge egal în toate direcțiile. Fără o constrângere internă, structura devine cilindrică sau sferică. Drop stitch rezolvă această problemă prin introducerea unei armături de
+  tracțiune:</p>
+
+  <ul>
+    <li>Mii de fire leagă stratul superior și inferior de material textil</li>
+    <li>Când este umflată, presiunea aerului încearcă să îndepărteze partea superioară de cea inferioară</li>
+    <li>Firele rezistă acestei separări, transferând sarcina în tracțiune de-a lungul axei firului</li>
+    <li>Rezultatul este un panou plat și rigid care rezistă la încovoiere</li>
+  </ul>
+
+
+  <h2>Procesul de construcție</h2>
+
+  <ol>
+    <li><strong>Țesere:</strong> Firele de poliester sunt țesute simultan în două straturi separate de țesătură de bază (de obicei poliester acoperit cu PVC de 1,100 DTEX sau 1,680 DTEX). Firele sunt țesute în bucle între straturi, la un unghi de 90&deg;.</li>
+    <li><strong>Acoperire:</strong> Țesătura de bază este acoperită cu PVC (sau, ocazional, TPU) printr-un proces de acoperire cu cuțit sau cu calandru. Acest lucru etanșează firele și creează membrana etanșă la aer.</li>
+    <li><strong>Legarea straturilor:</strong> Miezul drop-stitch este lipit de straturile exterioare laminate (de obicei PVC de 0.9 mm sau 1.2 mm) prin laminare termică sau cu adeziv.</li>
+    <li><strong>Sudare:</strong> Benzile de margine (rail bands) sunt sudate de-a lungul marginilor prin sudare cu aer cald, sudare RF sau sudare de înaltă frecvență, pentru a crea pereții laterali ai plăcii.</li>
+    <li><strong>Instalarea supapelor:</strong> Supapele Boston sau Halkey-Roberts sunt instalate, de obicei cu un mecanism de eliberare a presiunii pentru a preveni supraumflarea.</li>
+  </ol>
+
+
+  <h2>Indicatori-cheie de calitate</h2>
+
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Parametru</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Nivel de intrare</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Premium</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Densitatea firelor</td><td class="p-3 border">1 fir / inch pătrat</td><td class="p-3 border">2 fire / inch pătrat</td></tr>
+      <tr><td class="p-3 border">Țesătură de bază</td><td class="p-3 border">1,100 DTEX</td><td class="p-3 border">1,680 DTEX</td></tr>
+      <tr><td class="p-3 border">Presiune maximă</td><td class="p-3 border">12 – 15 PSI</td><td class="p-3 border">18 – 22 PSI</td></tr>
+      <tr><td class="p-3 border">Grosime PVC</td><td class="p-3 border">0.6 – 0.9 mm</td><td class="p-3 border">1.0 – 1.2 mm</td></tr>
+      <tr><td class="p-3 border">Construcția marginilor</td><td class="p-3 border">Îndoită &amp; lipită</td><td class="p-3 border">Sudată &amp; fuzionată</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Aplicații</h2>
+
+  <ul>
+    <li><strong>Plăci SUP:</strong> grosime de 4" – 6", 15 – 20 PSI, 1 – 2 fire/inch pătrat</li>
+    <li><strong>Caiacuri:</strong> podea drop-stitch + camere laterale gonflabile, podea de 10 – 15 PSI</li>
+    <li><strong>Podele RIB:</strong> podele drop-stitch pentru tendere RIB ușoare și ușor de împachetat, 12 – 18 PSI</li>
+    <li><strong>Parasocuri (fenders):</strong> drop stitch de joasă presiune pentru parasocuri conturate, cu fețe plate</li>
+  </ul>
+
+
+  <h2>Drop stitch vs. punte cu aer (miez din fibră de sticlă sau lemn)</h2>
+
+  <p>Plăcile cu carcasă dură folosesc miezuri din spumă EPS, cu întărire cu stringer din fibră de sticlă sau lemn. Sunt mai ușoare, mai rigide și mai receptive — dar nu pot fi dezumflate. Drop stitch sacrifică o parte din rigiditate în schimbul portabilității complete. Pentru majoritatea
+  utilizatorilor recreaționali, plăcile SUP moderne cu drop-stitch la 20 PSI sunt imposibil de deosebit de plăcile dure de nivel de intrare în ceea ce privește rigiditatea.</p>
+
+
+  <h2>Cum folosește afarer tehnologia drop stitch</h2>
+
+  <p>Afarer folosește un miez drop-stitch de 1,680 DTEX în întreaga gamă de plăci SUP, cu 2 fire pe inch pătrat și o laminare exterioară din PVC de 1.2 mm. Plăcile sunt evaluate la 20 PSI și sunt supuse unui test de menținere a presiunii de 24–48 de ore la 1.25x presiunea nominală, înainte de expediere.
+  Benzile de margine sunt sudate cu aer cald, cu fuziune pe trei straturi, iar supapele de eliberare a presiunii sunt standard pe toate modelele.</p>
+cta:
+  title: Doriți să aflați mai multe despre drop stitch?
+  subtitle: Contactați-ne pentru specificații tehnice și solicitări OEM.
+  button_text: Contactați departamentul de vânzări
+  button_link: /contact/

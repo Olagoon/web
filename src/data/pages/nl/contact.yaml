@@ -1,0 +1,145 @@
+meta:
+  title: 'Contact — Partnerschap- & productvragen | {SITE}'
+  description: 'Neem contact op met afarer voor partnerschap-, co-brand- en private label-vragen of professionele vloten. Fabrikant van opblaasbare SUPs en boten, we reageren binnen 2 werkdagen.'
+  keywords:
+    - 'contact afarer'
+    - 'SUP distributeur offerte'
+    - 'professionele SUP-leverancier'
+    - 'SUP-fabrikant contact'
+hero_text:
+  tagline: Contact
+  title: NEEM CONTACT MET ONS OP
+contact_form:
+  id: form
+  title: Stuur een bericht
+  subtitle: Voor offertes, technische vragen of samenwerking — stuur ons een bericht. We reageren binnen één werkdag.
+  email_to: info@afarer.com
+  submit_button: Aanvraag verzenden → Offerte aanvragen
+  success_message: Bedankt! Je bericht is ontvangen. We reageren binnen één werkdag.
+  error_message: Er is een fout opgetreden bij het verzenden. Probeer het opnieuw of stuur een e-mail rechtstreeks.
+  default_country_code: '+1'
+  captcha:
+    label: 'Antispam: los de volgende som op'
+  fields:
+    - name: country
+      label: Land
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: Geschat bestelvolume
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: Selecteer uw geschatte volume...
+        - value: sample
+          label: Alleen monsters / prototypes
+        - value: '5-10'
+          label: 5–10 eenheden (Standaard MOQ)
+        - value: '100-500'
+          label: 100–500 eenheden
+        - value: '500-plus'
+          label: 500+ eenheden (volumeprijzen)
+      step: 1
+    - name: customization
+      label: Maatwerk nodig?
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: Selecteer aanpassingstype...
+        - value: none
+          label: Standaardproduct (geen aanpassing)
+        - value: logo
+          label: Alleen aangepast logo / branding
+        - value: full
+          label: Volledige co-brand (maat, kleur, grafische afbeeldingen, verpakking)
+        - value: consultation
+          label: Niet zeker — overleg nodig
+      step: 1
+    - name: productInterest
+      label: Interessante productcategorieën
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: Selecteer productcategorie...
+        - value: all
+          label: Alle producten / Volledige catalogus
+        - value: sup
+          label: SUP-boards / Paddleboards
+        - value: safety
+          label: Veiligheidsuitrusting / Reddingsvesten
+        - value: accessory
+          label: Accessoires (pompen, roeiriemen, tassen)
+      step: 1
+    - name: firstName
+      label: Voornaam
+      row: 1
+      step: 2
+    - name: lastName
+      label: Achternaam
+      row: 1
+      step: 2
+    - name: companyName
+      label: Bedrijf
+      row: 2
+      step: 2
+    - name: email
+      label: E-mail
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: Telefoon
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: Adres
+      row: 4
+      step: 2
+    - name: zip
+      label: Postcode
+      row: 5
+      step: 2
+    - name: subject
+      label: Onderwerp
+      row: 1
+      step: 3
+    - name: message
+      label: Bericht
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: Andere contactmogelijkheden
+  columns: 3
+  items:
+    - title: Verkoopvragen
+      description: Offertes, configuraties, dealeraanvragen en groothandelsbestellingen.
+      icon: tabler:shopping-bag
+    - title: Technische ondersteuning
+      description: Garantie, reparaties, onderdelen en operationele vragen.
+      icon: tabler:tool
+    - title: Pers en partnerschappen
+      description: Mediapakketten, sponsoring en branche-samenwerking.
+      icon: tabler:news
+    - title: Telefoon
+      description: '+1 279 732 3333'
+      icon: tabler:headset
+    - title: E-mail
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: Hoofdkantoor
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: Onze locatie
+  subtitle: Bezoek ons
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

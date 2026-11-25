@@ -1,0 +1,127 @@
+meta:
+  title: Centro de P&D | {SITE}
+  description: Pesquisa & Desenvolvimento — Testes de tecido de PVC, engenharia de casco, soldagem por RF, testes hidrodinâmicos e controle de qualidade. Serviços personalizados de P&D disponíveis.
+hero:
+  tagline: Centro de P&D
+  title: Centro de P&D
+  subtitle: Focado no Progresso
+intro:
+  - >-
+    O Centro de Pesquisa e Desenvolvimento (P&D) da afarer é a força motriz por trás de nossa missão de revolucionar os equipamentos para esportes aquáticos. Capacitamos entusiastas de esportes aquáticos em todo o mundo com produtos mais seguros, confortáveis e agradáveis por meio de inovação
+    incessante em pranchas infláveis de stand-up paddle (SUPs). Nossa equipe dedicada de engenheiros, designers e especialistas apaixonados por esportes aquáticos está moldando o futuro da indústria, elevando consistentemente o padrão de qualidade, desempenho e sustentabilidade.
+  - >-
+    Nossa instalação de P&D reúne cientistas de materiais, engenheiros marítimos e engenheiros de produção sob o mesmo teto. Desde a formulação de materiais e simulação do casco até o desenvolvimento de processos de soldagem e testes em escala real no mar, cada etapa do desenvolvimento do produto é
+    guiada por dados e validada por testes.
+mission:
+  tagline: Nossa Missão
+  title: Inovando o Futuro dos Esportes Aquáticos
+  pillars:
+    - icon: lightning
+      title: Avanço Tecnológico
+      desc: Pioneirismo em novos materiais, designs e fabricação para desempenho e durabilidade superiores do produto.
+    - icon: design
+      title: Design Centrado no Usuário
+      desc: Compreender profundamente e superar as necessidades dos usuários por meio de um design de produto ergonômico e intuitivo.
+    - icon: globe
+      title: Práticas Sustentáveis
+      desc: Minimizando nossa pegada ambiental utilizando materiais e processos ecológicos.
+    - icon: shield
+      title: Segurança Intransigente
+      desc: Garantindo os mais altos padrões de segurança por meio de testes rigorosos e certificação.
+pillars:
+  - title: Avanço Tecnológico
+    desc: Inovando em novos materiais, designs e processos de fabricação para oferecer desempenho superior do produto e longevidade.
+    icon: tech
+  - title: Materiais Avançados
+    desc: Investigando PVC de ponta, compósitos e alternativas sustentáveis para características aprimoradas do produto.
+    icon: materials
+  - title: Sustentabilidade
+    desc: 'Um Compromisso Central: Estamos dedicados à gestão ambiental por meio de manufatura sustentável e materiais recicláveis.'
+    icon: sustainability
+capabilities:
+  tagline: Capacidades
+  title: Capacidades de P&D
+  subtitle: Quatro disciplinas principais que nos dão controle de ponta a ponta sobre o desenvolvimento de produtos — desde a pesquisa de matérias-primas até a certificação final.
+  groups:
+    - title: Ciência dos Materiais e Tecnologia de Tecidos
+      items:
+        - Análise e otimização da formulação de PVC
+        - Desenvolvimento de estabilização UV, retardância à chama e aditivos antimicrobianos
+        - Engenharia de laminação e adesão de tecidos em múltiplas camadas
+        - Teste de envelhecimento acelerado (UV, térmico, umidade, spray de sal)
+    - title: Engenharia de Casco e Hidrodinâmica
+      items:
+        - Design paramétrico de casco 3D e otimização CFD
+        - Análise por elementos finitos para cargas estruturais e de impacto
+        - Testes em tanque de reboque de modelo em escala e validação de desempenho
+        - Desenvolvimento de casco personalizado para perfis de missão especiais
+    - title: Tecnologia de Soldagem e União
+      items:
+        - Desenvolvimento e otimização do processo de soldagem dielétrica por RF
+        - Métodos de soldagem por ar quente, cunha quente e ultrassônica
+        - Qualificação de colagem adesiva e fita de costura
+        - Modelagem da resistência de solda e previsão de vida útil
+    - title: Testes, Certificação e Conformidade
+      items:
+        - Gestão da qualidade e testes de conformidade CE
+        - Suporte de testes e certificação por terceiros independentes
+        - Desenvolvimento de protocolo de teste personalizado para qualificação de aquisição
+        - Análise de falhas em serviço e investigação da causa raiz
+rd_numbers:
+  tagline: Inovação
+  title: P&D pelos Números
+  stats:
+    - value: '14'
+      label: Engenheiros e cientistas de P&D
+    - value: '8'
+      label: Patentes ativas e requerimentos
+    - value: '6'
+      label: Laboratórios especializados
+    - value: 12 anos
+      label: Experiência média da equipe
+rd_services:
+  tagline: P&D Personalizado
+  title: Serviços de P&D para Parceiros
+  services:
+    - title: Desenvolvimento de Material Personalizado
+      desc: Nós desenvolvemos formulações de tecidos personalizadas, camadas de laminados e sistemas adesivos adaptados ao seu ambiente operacional e aos seus objetivos de desempenho.
+    - title: Engenharia de Produto OEM / ODM
+      desc: Nós desenvolvemos formulações de tecidos personalizadas, camadas de laminados e sistemas adesivos adaptados ao seu ambiente operacional e aos seus objetivos de desempenho.
+    - title: Testes e Certificação por Terceiros
+      desc: Use nossas instalações de teste compatíveis com a ISO para testes independentes de materiais, validação de produtos e suporte à certificação.
+  cta: Discuta seus requisitos de P&D →
+  cta_link: /contact/
+vision:
+  tagline: Nossa Visão
+  title: Moldando o Futuro dos Esportes Aquáticos
+  body: >-
+    Afarer se esforça para liderar a indústria de SUP inflável por meio da inovação contínua, qualidade inabalável e um compromisso firme com a segurança e a sustentabilidade — enriquecendo, em última análise, as experiências dos entusiastas de esportes aquáticos em todo o mundo. O Centro
+    de P&D da Afarer é onde a paixão encontra a inovação, estabelecendo novos padrões para a indústria de esportes aquáticos.
+labs_section:
+  tagline: Laboratórios
+  title: Nossos Laboratórios
+  labs:
+    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+      title: Laboratório de Tecido de PVC
+      description: Pesquisa e testes contínuos de tecidos de convés de PVC para resistência à tração, resistência aos raios UV, abrasão e flexibilidade em baixas temperaturas para garantir confiabilidade a longo prazo em ambientes marinhos.
+      href: /randdcenter/pvc-fabric-lab/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+      title: Estúdio de Engenharia Hull
+      description: Design conduzido por CAD e análise por elementos finitos de cascos de HDPE, alumínio e fibra de vidro. Cada casco é simulado digitalmente para distribuição de tensão e resistência a impactos antes que o primeiro protótipo seja construído.
+      href: /randdcenter/hull-engineering/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+      title: Centro de Soldagem RF
+      description: Instalação dedicada de soldagem por radiofrequência com controle preciso de temperatura e pressão, produzindo costuras resistentes e herméticas que atendem aos padrões da indústria marítima para produtos infláveis.
+      href: /randdcenter/rf-welding/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+      title: Tanque de Teste Hidrodinâmico
+      description: Teste em escala reduzida em nosso tanque de testes interno para otimizar a forma do casco, desempenho em planeio, estabilidade e eficiência de combustível em uma variedade de cargas e condições do mar.
+      href: /randdcenter/hydrodynamic-test-tank/
+    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      title: Oficina de Protótipos
+      description: Instalação de prototipagem e preparação em escala completa onde novos modelos são construídos, ajustados e testados no mar. Cada protótipo passa por um programa de teste mínimo de 20 horas na água antes da aprovação para produção.
+      href: /randdcenter/prototype-workshop/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+      title: Laboratório de Qualidade e Inspeção
+      description: Laboratório de garantia de qualidade dedicado realizando testes de tração, ciclos de retenção de ar, testes de descolamento de costura e certificação de materiais para garantir que cada prancha que sai da oficina atenda às nossas especificações publicadas.
+      href: /randdcenter/quality-inspection-lab/

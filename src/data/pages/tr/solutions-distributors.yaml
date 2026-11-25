@@ -1,0 +1,50 @@
+meta:
+  title: SUP Distribütörlük Programı | {SITE}
+  description: Afarer'in küresel dağıtım ağına katılın. Münhasır bölgeler, eksiksiz ürün portföyü, rekabetçi toptan fiyatlandırma ve özel hesap yönetimi.
+hero:
+  tagline: Distribütörler
+  title: Küresel<br />Dağıtım Ağımıza Katılın
+  subtitle: Münhasır bölgeler. Kapsamlı ürün portföyü. Dünya standartlarında destek. Afarer 50'den fazla ülkeye sevkiyat yapmaktadır ve köklü denizcilik ve su sporları dağıtıcıları arıyoruz.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Afarer küresel dağıtım ve sevkiyat operasyonları
+benefits:
+  title: Distribütörler Ne Elde Eder
+  subtitle: Pazarda başarılı olmanız için ihtiyacınız olan her şey.
+  items:
+    - Münhasır bölge hakları
+    - Tam ürün kataloğu (SUP, aksesuarlar, yedek parçalar)
+    - Rekabetçi toptan fiyatlandırma
+    - Pazarlama ve satış materyalleri (çevirilmiş)
+    - Eğitim programı (ürün, satış, bakım)
+    - Fuar desteği
+    - Numune programı
+    - Drop-ship yeteneği
+    - Atanmış distribütör hesap yöneticisi
+    - 45-60 gün ödeme koşulları
+coverage:
+  title: Mevcut Dağıtım
+  subtitle: Afarer şu anda bu pazarlara doğrudan hizmet vermektedir.
+  regions:
+    - name: Avrupa
+      countries: Fransa, Almanya, UK, İspanya, İtalya, Hollanda, İsveç, Norveç, Polonya, Yunanistan
+    - name: Asya
+      countries: Japonya, Güney Kore, Çin, Tayland, Singapur
+    - name: Orta Doğu
+      countries: BAE, Suudi Arabistan
+    - name: Amerika
+      countries: ABD, Kanada, Brezilya, Meksika
+    - name: Okyanusya
+      countries: Avustralya, Yeni Zelanda
+    - name: Afrika
+      countries: Güney Afrika, Fas
+cta:
+  title: Distribütör olmaya hazır mısınız?
+  subtitle: Bayi programımıza başvurun veya bayi bilgi kitimizi indirin.
+  actions:
+    - text: Distribütör Programı İçin Başvurun
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Distribütör Kiti İndir
+      href: /resources/download-catalog/
+      variant: secondary

@@ -1,0 +1,97 @@
+meta:
+  title: SUP-detaljhandelspartnerskap | {SITE}
+  description: SUP-grossistpartnerprogram för detaljhandlare och sportbutiker. Komplett produktsortiment, dropshipping-alternativ, konkurrenskraftiga grossistmarginaler på 20–35 % och låg MOQ för att komma igång.
+hero:
+  tagline: Handelspartners
+  title: Sälj premium uppblåsbara SUP:ar<br />med marginaler som fungerar
+  subtitle: Bli Afarer-detaljhandelspartner – för den snabbast växande SUP-varumärket på din marknad med fullständiga grossistpriser, dropshipping, professionellt marknadsföringsmaterial och dedikerat stöd.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Afarares SUP-brädor utställda i en butik
+margin_section:
+  title: Detaljhandelsmarginaler och minimiordervolym
+  subtitle: Grossistprisnivåer utformade för lönsamhet i detaljhandel.
+  items:
+    - tier: Grundpartners
+      discount: 20%
+      moq: 500 enheter/år
+      margin_note: ~$150–250 vinst per bräda
+      features:
+        - Tillgång till hela produktlinjen
+        - Marknadsföringsmaterialspaket
+        - E-postsupport
+        - Tillgång till produktkatalog
+    - tier: Premiumpartner
+      discount: 30%
+      moq: 2 000+ enheter/år
+      margin_note: ~250–400 USD vinst per bräda
+      features:
+        - Dedikerad kontoansvarig
+        - Exklusivt territoriumskydd
+        - Anpassat marknadsföringsstöd
+        - Först tillgång till nya produkter
+        - Utbildningssessioner för personal
+    - tier: Flaggskeppspartner
+      discount: 35 %+
+      moq: 5 000+ enheter/år
+      margin_note: ~350–500+ USD vinst per bräda
+      features:
+        - Gemensamma marknadsföringskampanjer
+        - Stöd för butiksexponering
+        - Personalutbildning på plats
+        - Gemensamma sociala medier-kampanjer
+        - Prioriterad produktionsallokering
+product_line:
+  title: Komplett produktsortiment
+  subtitle: En SUP-bräda för varje kund som träder inom era dörrar.
+  items:
+    - name: All-Round Series
+      description: Bästsäljare – passar 80 % av kunderna
+    - name: Touring Series
+      description: Prestationspaddlare — högre marginal
+    - name: Yoga Series
+      description: Nischmarknad — premieprissättning
+    - name: Kids Series
+      description: Familjekunder — återköpare
+    - name: Racing Series
+      description: Entusiastmarknad — varumärkeseffekt
+    - name: Accessories
+      description: Högmarginaltillbehör (paddlar, västar, pumpar, väskor)
+catalog:
+  title: Handelspartnerresurser
+  subtitle: Ladda ned vårt omfattande detaljhandelspartnerkit.
+  items:
+    - name: 2026 Product Catalog
+      desc: Fullständig sortiment med specifikationer, priser och beställningsinformation
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Marginalberäknare, merchandisingtips och bästa praxis
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Högupplösta produktbilder, livsstilsbilder och POS-material
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Stöd för detaljhandelspartners
+  subtitle: Allt du behöver för att sälja med självförtroende.
+  items:
+    - Högupplösta produktbilder (professionell fotografering)
+    - Livsstilsbilder för sociala medier, webbplats och katalog
+    - Marknadsföringsmaterial — affischer, hylltexter, banner
+    - Produktutbildningsvideor för personalutbildning
+    - Innehållspaket för sociala medier (veckovis inlägg)
+    - SEO-optimerade produktbeskrivningar
+    - Dropshipping-alternativ tillgängligt — ingen lagerföringsrisk
+    - Netto 30 betalningsvillkor
+cta:
+  title: Redo att bli Afarer-detaljhandelspartner?
+  subtitle: Ansök om partnerskap eller ladda ned vår detaljkatalog för att komma igång.
+  actions:
+    - text: Ansök om partnerskap
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Ladda ned detaljkatalog
+      href: /resources/download-catalog/
+      variant: secondary

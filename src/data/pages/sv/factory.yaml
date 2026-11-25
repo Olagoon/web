@@ -1,0 +1,263 @@
+meta:
+  title: 'Fabrik & tillverkning — uppblåsbar SUP-OEM | {SITE}'
+  description: 'Besök afars fabrik: anläggning på 12 000 m² med skärning, HF-svetsning, tryck, montering och kvalitetslabb för OEM/ODM-tillverkning av uppblåsbara SUP:ar.'
+  keywords:
+    - 'SUP-fabrik Kina'
+    - 'uppblåsbar paddle board fabrik'
+    - 'OEM SUP-tillverkare'
+    - 'uppblåsbar SUP tillverkning'
+hero:
+  tagline: Fabrik
+  title: Fabrik och produktion
+  subtitle: 12 000 m² integrerad produktion — från råmaterial till färdig bräda
+intro:
+  - >-
+    Som ett fabriksmärke under **Qingdao Vatrad Group Co., Ltd.** kontrollerar afarer varje steg i produktionen — från mottagning av rå PVC- och glasfibermaterial till slutkontroll före frakt av färdig bräda. Vår produktionsanläggning i Qingdao Economic Development Zone täcker 12 000 kvadratmeter och
+    rymmer dedikerade verkstäder för PVC-skärning, rörsvetsning, FRP-formtillverkning, digitalt SUP-tryck, slutmontering och kvalitetstestning.
+  - >-
+    Genom att integrera design, ingenjörskonst, prototyptillverkning, produktion och testning under ett tak eliminerar vi ineffektiviteten i kontraktstillverkning och upprätthåller direkt kontroll över utförandekvalitet, materialval och leveranstider. Varje bräda som lämnar vår verkstad är byggd av
+    våra människor, på vår utrustning, enligt våra standarder.
+stats:
+  - value: 12 000 m²
+    label: Produktionsyta
+  - value: 200+
+    label: Kvalificerade arbetare
+  - value: 15 000+
+    label: SUP-brädor producerade årligen
+  - value: ISO 9001
+    label: Kvalitetscertifierad
+intelligence_tagline: Fabriksintelligens
+intelligence_title: Utforska våra tillverkningsförmågor
+intelligence_cards:
+  - title: Produktionskapacitet
+    icon: C
+    icon_bg: blue
+    desc: Anläggning på 12 000 m² som producerar 15 000+ SUP per år på SUP-board- och säkerhetsutrustningslinjer. 200+ arbetare, 2 skift.
+    metrics:
+      - label: MOQ
+        value: 'SUP: 5–10'
+      - label: Leveranstid
+        value: 30–45 dagar
+    link: /factory/capacity/
+    link_label: Fullständiga kapacitetsuppgifter →
+  - title: Kvalitetslaboratorium och provning
+    icon: Q
+    icon_bg: green
+    desc: 'Oberoende kvalitetskontrolllaboratorium med 4 testfaser: råvarukontroll (drag-, riv- och UV-test), 24–48 timmar tryckhållning vid 1,25 × nominellt tryck, sömavdragstest samt last- och balansverifiering på varje bräda.'
+    metrics:
+      - label: Laboratorieutrustning
+        value: Dragprovare, kammare, läckagetank
+      - label: Standarder
+        value: ISO 9001, CE, AS 1799
+    link: /factory/quality-lab/
+    link_label: Laboratorieprocedurer och utrustning →
+  - title: OEM/ODM-förmåga
+    icon: O
+    icon_bg: purple
+    desc: 'OEM/ODM-tjänster hela vägen: design av kundanpassade formar, private label-förpackning, kundanpassade brädfärger, däckgrafik (digitaltryck och sikttryck) samt drop ship-logistik.'
+    metrics:
+      - label: Certifieringar
+        value: ISO 9001, BSCI, CE, REACH
+      - label: Frakt
+        value: FOB, CIF, DDP till 50+ länder
+    link: /factory/oem-capability/
+    link_label: Fullständiga OEM-tjänster →
+workshops_section:
+  tagline: Verkstäder
+  title: Produktionsverkstäder
+  workshops:
+    - title: PVC-skärning och materialförberedelse
+      description: Automatiska CNC-skärmaskiner bearbetar PVC- och drop-stitch-tyger med submillimeterprecision. Datoroptimerad placering minimerar materialsvinn och säkerställer att varje panel uppfyller sina dimensionsspecifikationer före svetsning.
+      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    - title: Rörsvetsning och värmegeförsegling
+      description: Dedikerad svetsverkstad med varmluftsförseglingsmaskiner och dielektriska RF-pressar. Varmluftssvetsar fogar samman och smälter PVC-rörkammare, medan RF-förseglare skapar höghållfasta, lufttäta sömmar som överträffar EN ISO 25649-kraven.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    - title: FRP-formar och komposittillverkning
+      description: Kundanpassade FRP-formar för SUP-komponenter, tillverkade med handuppläggning av glasfiber med polyester- och vinylesterhartser. Varje lager handrullas och vakuumpackas för jämn kvalitet. Gelcoat-sprutbox ger en högglansig, UV-beständig marin yta.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+    - title: SUP-tryck och dekor
+      description: SUP-brädor dekoreras med digitaltryck för helfärgsgrafik och screentryck för logotyper och återkommande mönster. Digitala skrivare skapar fotokvalitets däckdesign, medan screentryck levererar hållbara, livfulla varumärkesmärken.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    - title: Slutmontering och riggning
+      description: Monteringslinje där drop-stitch-kärnor färdigställs med rails, EVA-däck appliceras samt fenor, ventiler och tillbehör installeras. Varje bräda följer en 100-punkts monteringschecklista som godkänns av teamledaren.
+      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+    - title: Kvalitetstestning och inspektion
+      description: Varje färdig bräda genomgår obligatoriska lufttäthetstester, sömhållfasthetsverifiering och full systemkontroll före frakt. Vårt kvalitetslaboratorium arbetar oberoende av produktionen och rapporterar direkt till ledningen.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+equipment_section:
+  tagline: Utrustning
+  title: Viktig produktionsutrustning
+  view_full: Se fullständig utrustningslista →
+  view_full_link: /factory/equipment/
+  items:
+    - name: Automatisk PVC-skärmaskin
+      spec: CNC-styrd, 0,1 mm noggrannhet
+    - name: Varmluftsförseglingsmaskin
+      spec: Varmluft, 200–300 °C, för rörsammanfogning
+    - name: Dielektrisk RF-press
+      spec: 15 kW, lufttät sömsvetsning
+    - name: Handuppläggningsformar i glasfiber
+      spec: SUP-brädformar upp till 14 fot
+    - name: Digital skrivare
+      spec: Helfärgad SUP-däckgrafik
+    - name: Screentrycksmaskin
+      spec: Flerfärgad logotryck
+qc_section:
+  tagline: Kvalitetskontroll
+  title: Testning och kvalitetssäkringsprocess
+  subtitle: Varje bräda genomgår obligatoriska tester före frakt. Vårt kvalitetslaboratorium arbetar oberoende av produktionen och rapporterar direkt till ledningen.
+  steps:
+    - step: '1'
+      title: Inspektion av råmaterial
+      desc: PVC- och drop-stitch-tyger genomgår draghållfasthetstestning (ASTM D751), rivspridningstest och UV-beständighetsverifiering innan någon batch släpps till produktion.
+    - step: '2'
+      title: 24–48-timmars lufttäthetstest
+      desc: Varje rörkammare blåses upp till 125 % av nominellt tryck och hålls i 24–48 timmar. Tryckfall över 5 % leder till automatisk underkännande och fönyad söminspektion.
+    - step: '3'
+      title: Belastnings- och balanstest
+      desc: Färdiga brädor belastas till maximalt nominell kapacitet och testas för stabilitet och styvhet. Varje bräda vattentestas före slutinspektion.
+oem_section:
+  tagline: OEM-projekt
+  title: Varumärkes- och OEM-partnerskapsfallstudier
+  subtitle: Från koncept till container — hur vi hjälper globala varumärken att lansera och skala upp linjer med uppblåsbara SUP:ar.
+  cases:
+    - challenge: En europeisk utomhusåterförsäljare behövde en private label SUP-linje med unik däckgrafik, miljövänlig PVC och detaljhandelsfärdig förpackning — allt levererat på 60 dagar.
+      solution: Vi utvecklade anpassade digitaltrycksfiler, anskaffade REACH-kompatibel PVC och komprimerade provtagningen från 3 omgångar till 1 genom att placera designteamet på vår fabrik i Qingdao.
+      result: 55 dagar från PO till FOB. 2 400 enheter i 4 SKU. Återbeställning lades innan första containern anlände.
+    - challenge: En amerikansk vattenstartup behövde en högpresterande drop-stitch-SUP med anpassad form, gemensam varumärkesförpackning och BSCI-certifiering för detaljhandelsplacering.
+      solution: Vi anpassade en befintlig drop-stitch-SUP-form med modifierad rockerprofil, utvecklade gemensam varumärkesförpackning och levererade fullständig BSCI-revisionsdokumentation.
+      result: Framgångsrikt lanserad i 3 stora amerikanska utomhuskedjor. Över 5 000 enheter första året med 98 % försäljningsgrad.
+    - challenge: En australisk distributör behövde en CE-certifierad SUP-serie med anpassade färger och överensstämmelse med australiska standarder.
+      solution: Vi tillverkade förproduktionsprover med 4 färgvarianter och samordnade tredjepartsefterlevnadstester.
+      result: Serie med 3 SUP-modeller lanserad på AU/NZ-marknaden. Därefter vunnen statlig upphandling för 12 patrull-SUP:ar.
+faq_section:
+  tagline: Vanliga frågor
+  title: Vanliga B2B- och OEM-frågor
+  questions:
+    - q: Vad är minsta beställningskvantitet (MOQ) för OEM av uppblåsbara SUP-brädor?
+      a: MOQ börjar från 5–10 enheter för standard OEM-modeller. Anpassade formar och private label-projekt kräver minimum 200 enheter, beroende på komplexitet. Provbeställningar och testserier finns tillgängliga för nya varumärken.
+    - q: Är afarer BSCI-certifierat?
+      a: Ja. Vår fabrik har ett giltigt BSCI-intyg om social regelefterlevnad (revisionsrapport tillgänglig på begäran). Vi är även certifierade enligt ISO 9001 för kvalitetsledning, och alla produkter är CE-certifierade. REACH- och RoHS-efterlevnadsdokumentation medföljer varje OEM-leverans.
+    - q: Vad är typisk ledtid för en OEM-beställning?
+      a: Standardledtiden är 30–45 dagar från bekräftad order och deposition för OEM-serieproduktion. Utveckling av anpassade formar tillför 15–20 dagar för verktygstillverkning. Accelererad produktion finns tillgänglig för brådskande order och säsongstoppar. Prototypexemplar skickas normalt inom 15–20 dagar.
+    - q: Kan ni skicka FOB Qingdao eller CIF till vår hamn?
+      a: Ja. Vi skickar FOB Qingdao, CIF till större världshamnar och DDP för kvalificerade partners. Vårt logistikteam hanterar containerbokning, exportdokumentation och tullklarering. Vi skeppar till över 50 länder på EU-, USA-, AU- och Asienmarknaderna.
+b2b_moq: 'Standard MOQ: 5–10 enheter per modell. Provbeställningar välkomna för nya partnerskap.'
+production_flow:
+  tagline: Produktionsflöde
+  title: Från råvara till färdig bräda
+  subtitle: Varje bräda genomgår sex produktionssteg med QC-kontrollpunkter vid varje steg. Inga genvägar, inga överhoppade inspektioner.
+  stages:
+    - stage: '01'
+      title: Materialmottagning och inkommande kvalitetskontroll
+      description: Alla inkommande material loggas efter parti/lottnummer i vårt ERP-system. PVC-filmrullar, drop-stitch-kärnor, ventiler, lim och hårdvarukomponenter sätts i karantän tills QC har godkänt dem.
+      qc_check: Draghållfasthet (ASTM D751), rivhållfasthet (ISO 4674), tjockleksmätning, limviskositet, visuell defektskanning
+      qc_threshold: 100 % av partierna provas. Avvisning vid dragfasthet < 90 % av specifikation, rivning < specifikationens minimum, eller synliga defekter
+      responsibility: Mottagnings-QC-team (3 inspektörer)
+    - stage: '02'
+      title: CNC-skärning och materialberedning
+      description: Datoroptimerad läggning placerar paneler på PVC-lager för att minimera spill. Automatiska CNC-skärningsmaskiner håller 0,1 mm positionsg precision.
+      qc_check: Dimensionell kontroll mot CAD DXF-filer, kantkvalitetsinspektion, panelantalverifiering
+      qc_threshold: Varje 20:de panel mäts. Tolerans ±0,5 mm. Avvisa parti om >2% utanför tolerans
+      responsibility: Ledare för skärverkstaden
+    - stage: '03'
+      title: Svetsning och drop-stitch-bondning
+      description: Drop-stitch-kärnor bindsamman med yttre PVC-laminat genom värmelaminering. Rörkammare RF-svetsas eller hetluftsvetsas. Railband fusionlamineras i tre lager.
+      qc_check: Skaltest var 50:e enhet (ASTM D751), svejsbreddsmätning, granskning av varmluftstemperaturlogg, visuell söminspektion mot bakgrundsljus
+      qc_threshold: Draghäftning min. 8 N/cm. Svetsbreddstolerans ±1 mm. Synlig kanalbildning = avvisning
+      responsibility: Svetsningskontroll (2 inspektörer per skift)
+    - stage: '04'
+      title: Montering och utrustning
+      description: 'Brädor flyttas till slutmontering där alla komponenter sammanfogas: rails limmas och svetsas, ventiler installeras, D-ringar, handtag, fenlädor och bärväska. Varje enhet följer en 100-punkts monteringschecklista.'
+      qc_check: Godkännande av 100-punkters checklista per enhet, ventilverkningstest (10 öppnings/stängningscykler), hårdvarumomentverifiering, visuell inspektion
+      qc_threshold: 'Nollfel-policy för säkerhetskritiska komponenter (ventiler, D-ringar, handtag). Mindre kosmetiska fel: AQL 2,5 (ISO 2859)'
+      responsibility: Montageteamledare + linje-QC
+    - stage: '05'
+      title: Tryckprovning och kvalitetshållning
+      description: Varje kammare fylls till 1,25× märkt tryck (vanligen 20–25 PSI) och hålls i 24–48 timmar. Trycksensorer loggar kontinuerligt. Kammare som överskrider 5 % tryckfall avvisas och skickas för sömombesiktning.
+      qc_check: 24–48-timmars tryckhållningslogg, sensorkalibrering verifieras dagligen, temperaturkompenserad tryckavläsning, sömtester efter reparation
+      qc_threshold: Max. 5 % tryckfall över 24–48 h vid stabil temperatur. Varje kammare som överskrider detta = 100 % omprovning av hela produktionspartiet.
+      responsibility: Kvalitetslaboratorium (oberoende av produktion, rapporterar till ledningen)
+    - stage: '06'
+      title: Slutkontroll och förpackning
+      description: Slutlig visuell och funktionell kontroll. Ytdefekter, färgkonsekvens, etikett-/BIN-verifiering, förpackningsintegritet och tillbehörsfullständighet. Enheter vakuumpackas, låd-packas och palles för containertilladdning.
+      qc_check: Fullständig visuell inspektion, tillbehörschecklista per SKU, packningsdropptest (1 m, slumpmässigt urval), märkning/streckkodsscanningsverifiering
+      qc_threshold: AQL 2,5 för allvarliga defekter, AQL 4,0 för mindre allvarliga. Nolltolerans på säkerhetsdefekter. 100 % av enheterna visuellt inspekterade
+      responsibility: Slutlig QC-grupp (4 inspektörer) + packningsgruppsledare
+workforce:
+  tagline: Våra medarbetare
+  title: Arbetskraft och kompetens
+  engineers: 25+
+  engineers_detail: Ingenjörer inom FoU, formdesign, materiallaboratorium och produktionsteknik. Genomsnittlig erfarenhet på 7+ år inom tillverkning av uppblåsbara produkter.
+  shift_pattern: 2 skift/dag (07:00–15:30, 15:30–00:00). Valfri nattskift för akuta beställningar.
+  training: Månadlig QC-utbildning, kvartalsvisa säkerhetsövningar, årlig kompetensbedömning. Nya anställda genomgår 40 timmars introduktion innan de arbetar i produktionslinjen.
+  departments:
+    - name: R&D & Engineering
+      count: 25+
+      role: Produktutveckling, formteknik, materiallaboratorium
+    - name: Cutting & Material Prep
+      count: 15
+      role: CNC-skärning, panelberedning, materialhantering
+    - name: Welding & Lamination
+      count: 40
+      role: RF-svetsning, varmluftssvetsning, drop-stitch-bondning
+    - name: SUP Core Bonding
+      count: 30
+      role: Drop-stitch-laminering, värmelimning, railbandfogening
+    - name: Assembly & Rigging
+      count: 35
+      role: Slutmontering, hårdvarinstallering, systemkontroll
+    - name: Quality Control
+      count: 12
+      role: Inkommande QC, QC i process, slutinspektion, laboratorietestning
+    - name: Logistics & Packing
+      count: 20
+      role: Förpackning, containerlastning, exportdokumentation
+    - name: Management & Admin
+      count: 15
+      role: Försäljning, inköp, personal, ekonomi, efterlevnad
+material_traceability:
+  tagline: Spårbarhet
+  title: Materialspårning och partikontroll
+  description: Varje råvaruparti tilldelas ett unikt partinummer i vårt ERP-system. Från ankomst genom produktion till färdig produkt kopplas varje brädas materialfaktura tillbaka till ursprungliga leverantörspartiet. Detta möjliggör fullständig spårbarhet uppströms för alla kvalitets- och efterlevnadsfrågor.
+  system: Anpassat ERP-system (Qingdao Vatrad Groups internt system) + fysiska partietiketter på varje arbetsorder
+  coverage: 100 % av produktionsmaterialen — PVC, drop-stitch-tyg, lim, ventiler, beslag, förpackning
+  records_retained: 10 år (enligt CE 2013/53/EU)
+  suppliers:
+    - material: Marin PVC
+      source: Kinesiska och koreanska leverantörer
+      certified: ISO 9001, REACH, RoHS
+    - material: Drop-stitch-väv
+      source: Internt vävning + extern partner
+      certified: Intern QC + leverantörs-ISO 9001
+    - material: Ventiler och hårdvara
+      source: Kinesiska OEM-leverantörer
+      certified: ISO 9001, materialcertifikat per parti
+qc_dashboard:
+  tagline: Kvalitetskontroll i siffror
+  title: Kvalitetskontrollmätvärden
+  subtitle: Verkligt godkänt/underkänt data från vår produktionslinje. Vårt kvalitetslaboratorium arbetar oberoende från produktionen och rapporterar direkt till ledningen.
+  stats:
+    - value: 100%
+      label: Enheter trycktestade
+      detail: Varje bräda, varje kammare, varje parti
+    - value: <5%
+      label: Max tillåten tryckfall
+      detail: Över 24–48 timmar vid 1,25 × betryck
+    - value: AQL 2,5
+      label: Tröskelvärde för allvarliga fel
+      detail: Enligt ISO 2859 provningsstandard
+    - value: 24–48 h
+      label: Tryckhållningstid
+      detail: Beroende på produktkategori
+    - value: 1.25×
+      label: Testtryck vs. nominellt tryck
+      detail: Säkerhetsmarginal för varje kammare
+    - value: 0%
+      label: Tolerans för säkerhetsdefekter
+      detail: Ventiler, D-ringar, sömmar, oppdrift
+process_cta:
+  title: Se vår produktionsprocess
+  desc: Följ en bräda genom varje produktionssteg — från råmaterial till vattenklar bräda.
+  label: Se produktionsprocessen →
+  link: /factory/process/

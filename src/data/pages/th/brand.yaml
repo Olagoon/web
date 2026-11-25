@@ -1,0 +1,35 @@
+meta:
+  title: 'แบรนด์ afarer — วิศวกรรมทางเรือและความร่วมมือ | {SITE}'
+  description: 'afarer: สร้างความเป็นหุ้นส่วนร่วมกับแบรนด์กีฬาทางน้ำ ตัวแทนจำหน่าย ชมรมเรือยอชท์ และธุรกิจ ผ่านคอลเลคชันร่วมแบรนด์ แบรนด์ส่วนตัว และโปรแกรมการจัดจำหน่ายรายประเทศ'
+  keywords:
+    - 'แบรนด์ afarer'
+    - 'ผู้ผลิตบอร์ด SUP แบบสูบลม'
+    - 'ผู้ผลิตเรือพอง'
+    - 'ความร่วมมือแบรนด์ SUP'
+hero:
+  tagline: แบรนด์
+  title: '{BRAND}'
+  subtitle: สมรรถนะระดับมหาสมุทรสำหรับนักเล่นทุกคน
+  cta: สำรวจอุปกรณ์ →
+  cta_link: /products/
+  secondary_cta: เรียนโต้คลื่น
+  secondary_cta_link: /guides/
+position:
+  tagline: ตำแหน่ง
+  subtitle: สมรรถนะระดับมหาสมุทรสำหรับนักเล่นทุกคน
+products_section:
+  tagline: สินค้า
+  cta: สินค้าทั้งหมด →
+  cta_link: /products/
+global_section:
+  tagline: ทั่วโลก
+  title: ให้บริการใน {count} ภูมิภาค
+social_section:
+  tagline: โซเชียล
+  title: บทความที่นักเล่นเซิร์ฟกำลังอ่าน
+  read_guide: อ่านคู่มือ →
+cta_section:
+  title: เริ่มต้นการเดินทางในมหาสมุทรของคุณ
+  subtitle: ผลิตภัณฑ์ทุกชิ้นได้รับการรับรอง CE มาพร้อมการรับประกัน ออกแบบมาสำหรับการโต้คลื่นจริง
+  cta_suffix: →
+  secondary_cta: เกี่ยวกับ {BRAND}

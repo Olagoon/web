@@ -1,0 +1,85 @@
+meta:
+  title: 'Custom Lab — Tilpassede oppustelige paddle boards | {SITE}'
+  description: 'Tilpassede oppustelige paddle boards: skræddersyet design, logo, egen form og produktion. Private-label-SUP-partner, MOQ 50 enheder, CE-certificeret.'
+  keywords:
+    - 'tilpasset paddle board producent'
+    - 'tilpasset oppustelig SUP'
+    - 'paddle board med logo'
+    - 'private label oppustelig SUP'
+    - 'paddle board produktion'
+hero:
+  tagline: afarer Custom Lab
+  title: Design dit eget<br />SUP-board
+  subtitle: Co-brand, private label og skræddersyet paddle board-produktion for virksomheder verden over. Fra en enkelt prototype til fulde produktionsserier.
+  cta: Start dit projekt
+  footer_link: /contact/
+steps_section:
+  tagline: Sådan fungerer det
+  title: Fra koncept til produktion
+  subtitle: Fire trin fra din idé til et færdigt, søklart produkt.
+  steps:
+    - num: '01'
+      title: Vælg dit bræt
+      desc: Vælg blandt vores kernemodeller af SUP — all-around, touring, yoga, sport eller børn. Vælg størrelse, materiale og farve.
+    - num: '02'
+      title: Upload dit design
+      desc: Send os dit logo, din grafik eller dine brandretningslinjer. Vores designteam forbereder et digitalt prøveudkast.
+    - num: '03'
+      title: AI-mockup-gennemgang
+      desc: Se en fotorealistisk AI-genereret mockup af dit tilpassede board, før produktionen går i gang.
+    - num: '04'
+      title: Produktion & levering
+      desc: Når ordren er godkendt, går den ind i vores produktionslinje. Leveringstid fra 30 dage.
+services_section:
+  tagline: Serviceydelser
+  title: Fremstillingsservices for globale brands
+  subtitle: Fleksible samarbejdsmodeller — fra kontraktproduktion til fuldservice-opbygning af dit brand.
+  items:
+    - title: Co-brand-fremstilling
+      desc: Vi producerer dine designs præcist efter specifikation — din IP, dine tegninger, dine kvalitetsstandarder. Fuld NDA-beskyttelse.
+      icon: ⚙️
+    - title: Designløsninger
+      desc: Vælg blandt over 50 gennemprøvede platforme, og tilpas størrelse, farve, grafik og emballage.
+      icon: 🎨
+    - title: Private label
+      desc: Dit brand på vores produkter — logo, emballage, hængemærker, manualer. Detailklar lige ud af kassen.
+      icon: 🎨
+    - title: Skræddersyet branding
+      desc: Tryk på dæksmåtte, grafiske design på skrog, dekaler på kammertube og specialfremstillede labels — fuld brandintegration.
+      icon: ⚙️
+capabilities_section:
+  tagline: Kapaciteter
+  title: Produktions- og tilpasningsmuligheder
+  subtitle: Alt, hvad du skal vide, inden du afgiver din ordre.
+  capabilities:
+    - label: Ordrevolumen
+      value: MOQ 50 enheder (SUP)
+    - label: Leveringstid
+      value: 30–45 dage standard; 15–20 dage for prototyper
+    - label: Tilpasning
+      value: Størrelse, form, farve, grafik, emballage, hardware
+    - label: Materialer
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Tryk
+      value: Digital (CMYK), serigrafi, varmeoverførsel, sublimering
+    - label: Certificering
+      value: CE, UKCA, FCC (støtte til global overholdelse)
+why_section:
+  tagline: Hvorfor afarer
+  title: Én fabrik. Én standard. Nul kompromiser.
+  points:
+    - text: 12.000 kvm integreret produktionsfacilitet
+      highlight: 12.000 kvm
+    - text: 200+ kvalificerede medarbejdere og ingeniører
+      highlight: 200+
+    - text: 15.000+ SUP-brædder produceres årligt
+      highlight: 15.000+
+    - text: ISO 9001-certificeret kvalitetsstyring
+      highlight: ISO 9001
+    - text: CE-certificerede produkter til EU-markedet
+      highlight: CE
+  cta: Se fabriksdetaljer
+  cta_link: /factory/
+  contact:
+    title: Klar til at drøfte dit projekt?
+    desc: Vores team svarer inden for 24 timer med et foreløbigt tilbud.

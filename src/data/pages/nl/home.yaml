@@ -1,0 +1,104 @@
+meta:
+  title: Afarer Opblaasbare Paddleboards | Ga verder. Ride harder.
+  description: Ontdek Afarer opblaasbare paddleboards voor allround paddelen, touring, yoga, vissen en outdooravonturen. Vind jouw perfecte SUP en ontdek meer op het water.
+  keywords:
+    - opblaasbaar paddleboard
+    - opblaasbare sup
+    - allround sup
+    - touring sup
+    - yoga sup
+    - vis sup
+    - familie paddleboard
+    - draagbaar paddleboard
+hero:
+  tagline: Opblaasbare Paddleboards
+  title: Opblaasbare Paddleboards voor Elk Avontuur
+  slogan: Ga verder. Ride harder.
+  subtitle: Ontdek de vrijheid van paddelen met Afarer. Verken doordachte opblaasbare SUPs voor ontspannen dagen op het meer, kustavonturen, fitness en alles daartussen.
+  taglineSection: Gebouwd voor vertrouwen. Ontworpen om op te vallen.
+  actions:
+    - variant: primary
+      text: Vind Jouw Board
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Ontdek SUPs
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Waarom Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Afarer opblaasbare paddleboards glijden bij zonsopgang over rustig water — gebouwd voor elk avontuur
+who_we_serve:
+  tagline: Ride Met Ons Mee
+  title: Vind Jouw Weg op Het Water
+  subtitle: Elke paddelaar heeft een eigen idee van avontuur. Ontdek een Afarer SUP ontworpen rond jouw manier van paddelen.
+  items:
+    - title: Beginners & Recreatieve Paddelaars
+      keywords: opblaasbare sup voor beginners, allround paddleboard, stabiele sup
+      description: Brede, stabiele allround boards die je eerste slag natuurlijk laten voelen en met je meegroeien.
+      icon: tabler:users
+      cta: Vind Je Eerste Board
+      link: /all-around-sup/
+    - title: Touring & Avontuur
+      keywords: touring sup, paddleboard lange afstand, expeditie sup
+      description: Langere, smalle boards die rechtuit lopen, verder glijden en bagage meenemen voor meerdaagse routes.
+      icon: tabler:building
+      cta: Ontdek Touring SUPs
+      link: /touring-sup/
+    - title: Yoga & Fitness
+      keywords: yoga sup, fitness paddleboard, brede stabiele sup
+      description: Brede, stabiele platforms met ruimte om te bewegen — voor zonsopgangflows, workouts en balans op rustig water.
+      icon: tabler:heart
+      cta: Ontdek Yoga SUPs
+      link: /yoga-sup/
+    - title: Vissen & Familie
+      keywords: vis sup, familie paddleboard, stabiel visplatform
+      description: Stabiele, praktische platforms om te vissen, te varen met de kids en lange ontspannen dagen op het water.
+      icon: tabler:users
+      cta: Ontdek Vis SUPs
+      link: /fishing-sup/
+proof_points:
+  title: Getest, verder dan de showroom
+  subtitle: Ontwerp, prestaties en kwaliteit die u kunt verifiëren — op het water en in de cijfers.
+  items:
+    - metric: 10+
+      label: Jaren ontwerpen voor het water
+      detail: Sinds 2012, board voor board verfijnd
+    - metric: 50+
+      label: Landen op het water
+      detail: Paddelaars en partners wereldwijd
+    - metric: 12–15
+      label: PSI drop-stitch kern
+      detail: Stijf waar het telt, makkelijk op te bergen
+    - metric: 100%
+      label: Drukgetest, board voor board
+      detail: Gecontroleerd voor verzending
+business_solutions:
+  tagline: Waarom Het Anders Vaart
+  title: Prestatie die Je bij de Eerste Slag Voelt
+  subtitle: Vier pijlers gevormd door echt water — prestatie, design, constructie en kwaliteit.
+  items:
+    - title: Prestatie op het Water
+      description: Vormen afgestemd op stabiliteit, glijvermogen en vertrouwen in deining — elke slag blijft verbonden met het water.
+      icon: tabler:shield-check
+    - title: Expressief Design
+      description: Collecties geïnspireerd op getijden, wildlife en de energie van de kust — boards waar je mee gezien wilt worden.
+      icon: tabler:package
+    - title: Bewezen Constructie
+      description: Drop-stitch kernen van hoge dichtheid, versterkte rails en fusiegelamineerde naden voor herhaald gebruik.
+      icon: tabler:headset
+    - title: Gecontroleerde Kwaliteit
+      description: Drukgetest, visueel geïnspecteerd en gedekt door een heldere garantie en snelle after-sales service.
+      icon: tabler:truck-delivery
+cta:
+  title: Vind je volgende board.
+  subtitle: Of het nu je eerste slag is of je langste route — wij krijgen je op het water.
+  actions:
+    - variant: primary
+      text: Ontdek de Collectie
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Catalogus Aanvragen
+      href: /resources/download-catalog/

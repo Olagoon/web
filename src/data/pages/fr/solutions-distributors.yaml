@@ -1,0 +1,55 @@
+meta:
+  title: 'Distribution — Réseau Mondial SUP | {SITE}'
+  description: 'Rejoignez le réseau de distribution mondial afarer : territoires exclusifs, portefeuille complet de SUP gonflables et tarifs grossistes compétitifs.'
+  keywords:
+    - 'réseau distribution SUP'
+    - 'grossiste paddle gonflable'
+    - 'importateur paddle gonflable'
+    - 'fournisseur paddle gonflable'
+hero:
+  tagline: Distributeurs
+  title: Rejoignez Notre Réseau<br />Mondial de Distribution
+  subtitle: Territoires exclusifs. Portefeuille produit complet. Support de classe mondiale. afarer expédie vers 50+ pays et recherche des distributeurs marins et sports nautiques établis.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Opérations mondiales de distribution et d'expédition Afarer
+benefits:
+  title: Ce Que les Distributeurs Obtiennent
+  subtitle: Tout ce dont vous avez besoin pour réussir dans votre marché.
+  items:
+    - Droits territoriaux exclusifs
+    - Catalogue produit complet (SUP, accessoires, pièces)
+    - Tarifs de gros compétitifs
+    - Supports marketing et vente (traduits)
+    - Programme de formation (produit, vente, maintenance)
+    - Support salon professionnel
+    - Programme d'échantillons
+    - Capacité d'expédition directe
+    - Gestionnaire de compte distributeur dédié
+    - Conditions de paiement 45-60 jours
+coverage:
+  title: Distribution Actuelle
+  subtitle: afarer dessert actuellement ces marchés directement.
+  regions:
+    - name: Europe
+      countries: France, Allemagne, Royaume-Uni, Espagne, Italie, Pays-Bas, Suède, Norvège, Pologne, Grèce
+    - name: Asie
+      countries: Japon, Corée du Sud, Chine, Thaïlande, Singapour
+    - name: Moyen-Orient
+      countries: Émirats Arabes Unis, Arabie Saoudite
+    - name: Amériques
+      countries: États-Unis, Canada, Brésil, Mexique
+    - name: Océanie
+      countries: Australie, Nouvelle-Zélande
+    - name: Afrique
+      countries: Afrique du Sud, Maroc
+cta:
+  title: Prêt à devenir distributeur ?
+  subtitle: Postulez à notre programme de distribution ou téléchargez notre kit d'information.
+  actions:
+    - text: Postuler au Programme Distributeur
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Télécharger le Kit Distributeur
+      href: /resources/download-catalog/
+      variant: secondary

@@ -1,0 +1,117 @@
+meta:
+  title: 'Partner di Paese — un Paese, un unico Distributore Ufficiale Afarer | {SITE}'
+  description: 'Candidati a diventare il distributore ufficiale Afarer del tuo paese. Un unico partner autorizzato per mercato, protezione territoriale, margini diretti di fabbrica, sconti annuali e un programma di supporto in 10 moduli per i distributori globali di SUP e sport acquatici.'
+  keywords:
+    - 'programma di partnership di paese'
+    - 'diventa un distributore'
+    - 'distribuzione SUP'
+    - 'un paese un distributore'
+    - 'distributore stand up paddle'
+    - 'distribuzione sport acquatici'
+    - 'candidatura partnership di paese'
+hero:
+  tagline: 'Partner di Paese'
+  title: 'Un Paese.<br />Un unico Distributore Ufficiale Afarer.'
+  subtitle: 'Afarer nomina un unico distributore autorizzato di paese per ogni mercato approvato. Territorio esclusivo, prezzi rivenditore con sconti annuali e un programma completo di supporto ai distributori — in cambio di un accordo firmato e di un impegno reale a far crescere il mercato.'
+  actions:
+    - text: 'Candidati come Partner di Paese'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Trova il tuo distributore locale'
+      href: /distributor-program/
+      variant: secondary
+    - text: 'Richiedi il Listino Prezzi Rivenditore'
+      href: /contact/?subject=Dealer Price List
+      variant: secondary
+stats:
+  - value: '1'
+    label: 'Distributore ufficiale per paese o regione'
+  - value: '100–300'
+    label: 'Primo ordine minimo (paese / regionale)'
+  - value: '50+'
+    label: 'Paesi serviti nel mondo'
+  - value: '30–45'
+    label: 'Tempi di consegna standard (FOB Qingdao)'
+features:
+  title: 'Perché Collaborare con Afarer'
+  subtitle: 'Un modello un-paese-un-distributore con la struttura di supporto per rendere redditizio il territorio. L’esclusività si conquista e si mantiene — non è un diritto permanente.'
+  columns: 3
+  items:
+    - title: 'Esclusività Territoriale'
+      description: 'Un unico distributore autorizzato per paese o regione. Niente importazioni parallele, niente concorrenza interna. Il tuo investimento costruisce la tua fossa.'
+      icon: 'tabler:shield-check'
+    - title: 'Protezione dal Conflitto di Canale'
+      description: 'Gli ordini diretti dalla tua regione passano attraverso di te e i prezzi proteggono il tuo margine. Afarer non vende aggirando i propri partner di paese.'
+      icon: 'tabler:users'
+    - title: 'Margini Diretti di Fabbrica e Sconti'
+      description: 'Listino rivenditore con sconti sui volumi impegnati. Nessun intermediario. Spedizione FOB Qingdao con documentazione export completa.'
+      icon: 'tabler:coins'
+    - title: 'Programma di Supporto Partner in 10 Moduli'
+      description: 'Onboarding, go-to-market, formazione, marketing e fondi comuni di mercato, ricambi e assistenza post-vendita, garanzia, strumenti di ordinazione e portale partner — tutto incluso nel tuo Distribution Agreement.'
+      icon: 'tabler:rocket'
+    - title: 'Marketing e Fondi Comuni di Mercato'
+      description: 'Materiali per campagne localizzati, materiali POS per i rivenditori, kit per eventi, contenuti digitali in più lingue e supporto di co-marketing per le stagioni di lancio.'
+      icon: 'tabler:mood-smile'
+    - title: 'Formazione su Prodotto, Vendite e Tecnica'
+      description: 'Sessioni di onboarding strutturate su prodotto, vendite e conoscenze tecniche, con materiali aggiornati man mano che la gamma evolve.'
+      icon: 'tabler:presentation'
+    - title: 'Ricambi e Assistenza Post-Vendita'
+      description: 'Fornitura di ricambi, registrazione della garanzia e gestione dei reclami, oltre a schede prodotto e manuali per il tuo team di assistenza locale.'
+      icon: 'tabler:settings'
+    - title: 'Account Manager Dedicato e Portale Partner'
+      description: 'Un manager personale per i distributori più l’accesso a listini, stato degli ordini e risorse di marketing tramite il portale partner Afarer.'
+      icon: 'tabler:user-check'
+table:
+  title: 'Livelli di Partnership, MOQ e Condizioni d’Ordine'
+  subtitle: 'Scegli il livello che corrisponde al potenziale del tuo mercato. Tutti i prezzi in USD, FOB Qingdao.'
+  caption: 'Gli ordini campione e di prova (5–30 unità) non godono di protezione territoriale. L’esclusiva di paese si applica solo agli accordi firmati da Country / Regional Distributor — si mantiene completando il primo ordine, raggiungendo i target annuali di acquisto, mantenendo stock locale, capacità post-vendita e investimento continuo sul mercato, e non costituisce un diritto permanente o perpetuo.'
+  head:
+    - Livello del Programma
+    - Ordine Minimo (unità)
+    - Tempi di Consegna
+    - Pagamento
+  rows:
+    - [Campione / Valutazione Prodotto, 5–10, 15–20 giorni lavorativi, 100% prepaid]
+    - [Ordine di Prova, 10–30, 30–45 giorni lavorativi, 100% prepaid]
+    - [Authorized Dealer, 30–50, 30–45 giorni lavorativi, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 30–45 giorni lavorativi, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 30–45 giorni lavorativi, 30% deposit / 70% before shipment]
+    - [Deep Custom (nuovi stampi, packaging), 200+, 45–60 giorni lavorativi, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 60–90 giorni lavorativi, 30% deposit / 70% before shipment]
+faqs:
+  title: 'Partner di Paese — FAQ'
+  subtitle: 'Le domande che i partner di paese seri si pongono prima di candidarsi.'
+  items:
+    - title: 'Cosa significa davvero un paese, un distributore?'
+      description: 'Afarer nomina un unico distributore autorizzato con diritti esclusivi su un territorio definito. Non vendiamo dai nostri canali globali o regionali verso un paese protetto. Il tuo possesso del territorio resta valido finché il Distribution Agreement viene rispettato.'
+    - title: 'Il territorio è esclusivo per sempre?'
+      description: 'No. L’esclusività è condizionata, non perpetua. Si mantiene attraverso un Distribution Agreement firmato, il completamento del primo ordine, target annuali di acquisto, stock locale, capacità post-vendita e investimento continuo sul mercato. Se questi requisiti non vengono rispettati, il territorio può essere rinegoziato o riassegnato.'
+    - title: 'Qual è il primo ordine minimo?'
+      description: 'I distributori di paese e regionali partono da 100–300 unità; i rivenditori autorizzati da 30–50; gli ordini di prova da 10–30 unità ti permettono di validare prima il mercato (gli ordini di prova e campione non hanno protezione territoriale). I programmi Custom e private-label seguono MOQ separati elencati nei livelli sopra indicati.'
+    - title: 'Che cosa comprende il programma di supporto in 10 moduli?'
+      description: 'Livelli e qualifica, protezione territoriale, MOQ / prezzi / sconti annuali, gestione di inventario e ordini, asset marketing e fondi comuni di mercato, formazione su prodotto / vendite / tecnica, ricambi e post-vendita, registrazione della garanzia, portale partner e schede prodotto, libreria degli asset marketing, calendario degli sconti annuali e liste di spedizione e imballaggio.'
+    - title: 'Come mi protegge Afarer dal conflitto di canale?'
+      description: 'Ogni territorio ha esattamente un distributore autorizzato. Le richieste e gli ordini diretti dalla tua regione passano attraverso di te, i moduli del sito vengono inoltrati al partner locale dove esiste, e il team globale interviene solo se un partner non risponde.'
+    - title: 'Quali sono le condizioni di spedizione e pagamento?'
+      description: 'Gli ordini partono FOB Qingdao con documentazione export completa. Gli ordini di produzione richiedono un acconto del 30% e il 70% prima della spedizione; gli ordini di prova e campione sono pagati in anticipo. Il tempo di consegna standard è di 30–45 giorni lavorativi, con 15–20 giorni lavorativi per le linee campione.'
+    - title: 'Come faccio domanda?'
+      description: 'Invia la tua candidatura tramite il modulo di contatto con i dettagli del mercato. Valutiamo l’adattamento al mercato, la presenza nel retail e la capacità logistica, poi rispondiamo entro 3 giorni lavorativi con i prossimi passi e un Distribution Agreement di esempio.'
+cta:
+  title: 'Possiedi il tuo mercato.'
+  subtitle: 'Candidati come Partner di Paese di Afarer e ricevi una risposta entro 3 giorni lavorativi.'
+  actions:
+    - text: 'Candidati come Partner di Paese'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Scarica la panoramica del programma'
+      href: /distributor-program/
+      variant: secondary
+geo:
+  tagline: 'Con Chi Collaboriamo'
+  sentence: 'Afarer collabora con distributori affermati dei settori nautico, outdoor e sportivo che servono catene retail, flotte a noleggio, scuole di sport acquatici, resort e acquirenti governativi con tavole SUP gonfiabili premium e natanti — e che si impegnano a costruire il marchio Afarer nel proprio paese.'
+  audiences:
+    - 'Distributori Marini e Nautici'
+    - 'Retail Outdoor e Sport'
+    - 'Operatori di Noleggio e Resort'
+    - 'Scuole di Sport Acquatici'
+    - 'Comunità di Sport Oceanici'

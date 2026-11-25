@@ -1,0 +1,97 @@
+meta:
+  title: SUP-jälleenmyyjäkumppaniohjelma | {SITE}
+  description: SUP-tukkukumppanuusohjelma vähittäismyyjille ja urheilukaupoille. Kattava tuotevalikoima, dropshipping-vaihtoehdot, kilpailukykyiset tukkukatteet 20–35 % ja matala MOQ aloitukseen.
+hero:
+  tagline: Vähittäiskaupan kumppanit
+  title: Myy premium-ilmatäytettäviä SUP-lautoja<br />katteilla, jotka toimivat
+  subtitle: Ryhdy Afarerin vähittäismyyjäkumppaniksi — tarjoa markkinoidesi nopeimmin kasvava SUP-brändi kattavilla tukkuhinnoilla, dropshippingillä, ammattimaisella markkinointimateriaalilla ja omistautuneella tuella.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Afarer SUP -lautoja esillä vähittäismyymälässä
+margin_section:
+  title: Vähittäismyynnin katteet ja MOQ
+  subtitle: Tukkuhintaportaat, jotka on suunniteltu vähittäismyynnin kannattavuutta ajatellen.
+  items:
+    - tier: Peruskumppani
+      discount: 20%
+      moq: 500 kpl/vuodessa
+      margin_note: ~$150–250 voitto per lauta
+      features:
+        - Pääsy koko tuotevalikoimaan
+        - Markkinointimateriaalipaketti
+        - Sähköpostituki
+        - Pääsy tuoteluetteloon
+    - tier: Premium-kumppani
+      discount: 30%
+      moq: 2 000+ yksikköä/vuosi
+      margin_note: ~$250–400 voittoa laudalta
+      features:
+        - Omistettu asiakaspäällikkö
+        - Yksinoikeus alueen suojaan
+        - Räätälöity markkinointituki
+        - Ennakkooikeus uusiin tuotteisiin
+        - Henkilökunnan koulutustilaisuudet
+    - tier: Lippulaivakumppani
+      discount: 35%+
+      moq: Yli 5 000 kpl/vuosi
+      margin_note: ~$350–500+ voittoa lautaa kohden
+      features:
+        - Yhteisbrändätyt markkinointikampanjat
+        - Kaupan näyttötuki
+        - Paikan päällinen henkilökoulutus
+        - Yhteiset sosiaalisen median kampanjat
+        - Tuotantokapasiteetin etusijakohdistus
+product_line:
+  title: Kattava tuotevalikoima
+  subtitle: SUP-lauta jokaiselle ovestasi sisään astuvalle asiakkaalle.
+  items:
+    - name: All-Round Series
+      description: Myydyin — sopii 80 %:lle asiakkaista
+    - name: Touring Series
+      description: Suorituskykymelojat — korkeampi marginaali
+    - name: Yoga Series
+      description: Nisäryhmä — premium-hinnasto
+    - name: Kids Series
+      description: Perheasiakkaat — toistuvat ostajat
+    - name: Racing Series
+      description: Harrastajamarkkina – brändihalo
+    - name: Accessories
+      description: Korkeamarginaaliset lisävarusteet (melot, liivit, pumput, laukut)
+catalog:
+  title: Vähittäiskumppanin resurssit
+  subtitle: Lataa kattava vähittäiskumppanipaketti.
+  items:
+    - name: 2026 Product Catalog
+      desc: Täydellinen mallisto erittelyillä, hinnoittella ja tilaus tiedoilla
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Kateprosenttilaskuri, myymälämarkkinointivinkit ja parhaat käytännöt
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Teräväpiirtotuotekuvat, lifestyle-kuvat ja POS-materiaalit
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Jälleenmyyjäkumppanin tuki
+  subtitle: Kaikki mitä tarvitset varmaan myyntiin.
+  items:
+    - Korkealaatuiset tuotekuvat (ammatillinen valokuvaus)
+    - Elämäntapakuvia sosiaalisessa mediassa, verkkokaupalla ja luettelolla
+    - Markkinointimateriaalit — julisteet, hyllytarrat, liput
+    - Tuotekoulutusvideoita henkilökunnan koulutusta varten
+    - Sosiaalisen median sisältöpaketti (viikoittaiset julkaisut)
+    - SEO-optimoituja tuotekuvauksia
+    - Dropshipping-vaihtoehto saatavilla — ei varastoriskiä
+    - Netto 30 -maksuehdot
+cta:
+  title: Valmiina ryhtymään Afarerin vähittäismyyjäkumppaniksi?
+  subtitle: Hae kumppanuutta tai lataa jälleenmyyntiluettelomme aloittaaksesi.
+  actions:
+    - text: Hae kumppaniksi
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Lataa jälleenmyyntiluettelo
+      href: /resources/download-catalog/
+      variant: secondary

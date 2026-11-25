@@ -1,0 +1,55 @@
+meta:
+  title: 'Produzione OEM e a Marchio Privato | {SITE}'
+  description: 'Dal concept al container: personalizza ogni dettaglio della tua linea di SUP gonfiabile. Servizio OEM/ODM completo per marchi di paddle board a etichetta privata.'
+  keywords:
+    - 'produzione OEM SUP'
+    - 'paddle board a marchio privato'
+    - 'SUP gonfiabile OEM'
+    - 'fabbrica SUP personalizzata'
+hero:
+  tagline: Produzione OEM/ODM
+  title: Produzione OEM e a Marchio Privato
+  subtitle: Dal concept al container — personalizza ogni dettaglio della tua linea di SUP gonfiabile
+intro: >-
+  Afarer offre servizi completi OEM e ODM per marchi, distributori e agenzie governative in tutto il mondo. Con 10 anni di esperienza nell'export e una fabbrica di 12.000 m² certificata ISO 9001 e BSCI, gestiamo tutto, dalla progettazione del prodotto e sviluppo degli stampi alla produzione su larga
+  scala, confezionamento e logistica.
+highlight:
+  - value: '10+'
+    label: Anni di esperienza OEM
+    detail: Dal 2012
+  - value: '50+'
+    label: Paesi esportatori
+    detail: Portata globale
+  - value: '200+'
+    label: Progetti personalizzati consegnati
+    detail: In tutte le linee di prodotti
+  - value: 30–45
+    label: Tempi di consegna standard (giorni)
+    detail: Da PO a FOB
+services:
+  - title: Progettazione e Ingegneria del Prodotto
+    description: Il nostro team interno di R&S lavora con il vostro concetto o specifica per sviluppare disegni CAD, modelli 3D e prototipi. Offriamo progettazione di stampi, ottimizzazione della forma dello scafo e consulenza sulla selezione dei materiali.
+  - title: Branding e Grafiche Personalizzate
+    description: Stampa digitale a colori completi, serigrafia, rilievo e opzioni di etichettatura. Sviluppiamo grafiche dei mazzi specifiche per il marchio, branding dei tubi e confezioni pronte per il retail.
+  - title: Personalizzazione dei Materiali e delle Specifiche
+    description: Scegli tra PVC (standard, ecologico, ignifugo), drop-stitch e costruzioni ibride. Colori dei tubi personalizzati, pesi dei tessuti e opzioni di rinforzo.
+  - title: Imballaggio e Logistica
+    description: Confezionamento al dettaglio personalizzato, scatole a marchio privato, confezionamento sottovuoto, palletizzazione e carico dei container. Termini di spedizione FOB Qingdao, CIF o DDP disponibili.
+moq_table:
+  - product: Tavole SUP gonfiabili
+    standard_moq: 5–10 unità
+    custom_moq: 200 unità
+    lead_time: 30–45 giorni
+  - product: Giubbotti di salvataggio e sicurezza
+    standard_moq: 100–200 unità
+    custom_moq: 1.000 unità
+    lead_time: 20–30 giorni
+why_us:
+  - title: Integrazione verticale
+    description: Possediamo la nostra fabbrica, gli stampi e la catena di distribuzione — nessun intermediario, nessun subappaltatore. Questo ci dà il controllo sulla qualità, sui costi e sulla consegna.
+  - title: Doppia Certificazione
+    description: Certificazione di gestione della qualità ISO 9001 e conformità sociale BSCI. Rapporti di audit della fabbrica disponibili su richiesta.
+  - title: Conformità CE
+    description: Tutti i modelli standard possiedono la certificazione CE 2013/53/UE. I modelli personalizzati possono essere certificati CE tramite il nostro processo consolidato.
+  - title: MOQ basso
+    description: Inizia con appena 5 unità per i modelli standard. Aiutiamo i marchi emergenti a lanciare senza impegnare eccessivamente l'inventario.

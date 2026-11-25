@@ -1,0 +1,34 @@
+meta:
+  title: 'Značka afarer — Námořní inženýrství a partnerství | {SITE}'
+  description: 'afarer: nafukovací námořní značka spolupracující se značkami vodních sportů, distributory, nautickými kluby a firmami prostřednictvím kolekcí co-brand, privátních značek a programů tuzemské distribuce.'
+  keywords:
+    - 'značka afarer'
+    - 'nafukovací značka SUP'
+    - 'výrobce SUP z Číny'
+hero:
+  tagline: Značka
+  title: '{BRAND}'
+  subtitle: Oceánský výkon pro každého surfaře
+  cta: Prozkoumat vybavení →
+  cta_link: /products/
+  secondary_cta: Naučte se surfovat
+  secondary_cta_link: /guides/
+position:
+  tagline: Pozice
+  subtitle: Oceánský výkon pro každého surfaře
+products_section:
+  tagline: Produkty
+  cta: Všechny produkty →
+  cta_link: /products/
+global_section:
+  tagline: Celosvětově
+  title: Dostupné ve {count} regionech
+social_section:
+  tagline: Sociální sítě
+  title: Co čtou surfaři
+  read_guide: Přečtěte si průvodce →
+cta_section:
+  title: Vydejte se na svou oceánskou cestu
+  subtitle: Každý produkt je certifikovaný CE. Krytý zárukou. Navržený pro skutečné vlny.
+  cta_suffix: →
+  secondary_cta: O značce {BRAND}

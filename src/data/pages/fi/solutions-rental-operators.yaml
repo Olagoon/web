@@ -1,0 +1,66 @@
+meta:
+  title: SUP vuokralaivasto-ratkaisut | {SITE}
+  description: Suuren käyntimäärän kaupalliset SUP-laudat, suunniteltu päivittäiseen vuokrauskäyttöön. UV-suojaava PVC, vahvistetut saumat, nopeasti kuivuvat materiaalit. Kasvata vuokraustoimintoasi Afarerin avulla.
+hero:
+  tagline: Vuokraajat
+  title: Kasvata vuokrausliiketoimintaasi<br />Varmuudella
+  subtitle: Korkeakierteiset SUP-laudat suunniteltu päivittäiseen vuokrauskäyttöön, 365 päivää vuodessa. Tulosi ei koskaan lepää päivääkään.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Ruuhkainen vuokrauskioski, SUP-laudat valmiina vieraille
+features:
+  title: Rakennettu vuokrauksen arkeen
+  subtitle: Jokainen lauta on suunniteltu 500+ vuokrausjaksoon vähimmällä huollolla.
+  items:
+    - title: 500+ vuokrakertaa
+      description: Testattu kestämään päivittäistä käyttöä suolavedessä, auringossa ja hiekassa.
+      icon: tabler:shield-check
+    - title: UV-kestävä kangas
+      description: Ei haalistumista tai heikkenemistä vuoden ulkosäilytyksen jälkeen.
+      icon: tabler:sun
+    - title: Vahvistetut saumat
+      description: 3 kertaa vahvempi kuin standardi laukeavan lautan rakenne.
+      icon: tabler:layers-intersect
+    - title: Nopeakuivuvat materiaalit
+      description: Laudat valmiina seuraavaan vuokraukseen alle 30 minuutissa.
+      icon: tabler:droplet
+    - title: Pinottava varastointi
+      description: Tilansäästävä suunnittelu — tallenna 40 % enemmän lautoja samassa tilassa.
+      icon: tabler:stack
+    - title: Värikoodatut koot
+      description: Henkilökunta valitsee oikean laudan heti värikoodatun koon avulla.
+      icon: tabler:color-swatch
+stats:
+  title: Toimintamittarit
+  stats:
+    - title: Lautojen vaihtuvuus
+      amount: < 5 min
+    - title: Vuosihuolto
+      amount: ~15 min/laudalle
+    - title: Varaa lähetys
+      amount: 48h
+    - title: Viallisuusaste
+      amount: < 0,5 %
+fleet_guide:
+  title: Laivaston koko-opas
+  subtitle: Arvioi vuokraustoiminnan laivastokoko ja tulopotentiaali.
+  tiers:
+    - label: Pieni kioski
+      boards: 15–20
+      revenue: $XX,XXX/vuosi
+    - label: Keskikokoinen toiminta
+      boards: 30-50
+      revenue: $XX,XXX/vuosi
+    - label: Suuri rantavuokraamo
+      boards: 50-100
+      revenue: $XXX,XXX/vuodessa
+cta:
+  title: Valmis skaalamaan vuokrilaitastasi?
+  subtitle: Hanki vuokraushinnasto tai vertaile lautasmalleja toimintasi tarpeisiin.
+  actions:
+    - text: Hae vuokrahintoja
+      href: /contact/?package=rental
+      variant: primary
+    - text: Vertaa lautamalleja
+      href: /compare/
+      variant: secondary

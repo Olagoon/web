@@ -1,0 +1,25 @@
+meta:
+  title: 'Guides SUP — Acheter, Choisir, Pratiquer | {SITE}'
+  description: 'Guides du paddle gonflable : comment choisir son SUP, guide des tailles, SUP gonflable vs rigide, entretien et techniques. Ressources pour débutants et experts.'
+  keywords:
+    - 'guide paddle gonflable'
+    - 'meilleur paddle gonflable'
+    - 'quel paddle gonflable choisir'
+    - 'guide achat SUP'
+hero:
+  tagline: Guides
+  title: Nouveau en SUP ?
+  subtitle: Guides pratiques pour vous aider à choisir, utiliser et profiter des planches SUP gonflables.
+size_guide:
+  tagline: Tailles et Spécifications
+  title: Trouvez la Bonne Taille pour Vos Besoins
+  desc: Comparez les dimensions, les capacités de charge et les usages recommandés. Que vous cherchiez un SUP de touring, une planche de yoga ou un SUP polyvalent — notre guide des tailles vous aide à choisir la planche adaptée.
+  link_label: Guide des tailles complet avec spécifications →
+  link: /size-guide/
+  cards:
+    - title: Planches SUP
+      desc: Choisissez la longueur selon votre poids et votre usage prévu. Les planches plus larges (32"+) offrent plus de stabilité. Les planches plus longues (11–12 ft) gardent mieux leur cap en touring.
+    - title: SUP de Randonnée
+      desc: Planches plus longues (11–12 ft) pour couvrir de la distance et garder le cap. Assez stables pour la randonnée avec équipement. Vérifiez toujours la capacité de poids.
+    - title: SUP Polyvalents
+      desc: Choisissez la longueur selon le poids et l'usage. Des planches plus larges (32"+) pour la stabilité. Polyvalentes pour la récréation et le fitness.

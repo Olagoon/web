@@ -1,0 +1,55 @@
+meta:
+  title: "Üretim Süreci — Hammaddeden SUP'a | {SITE}"
+  description: "Hammaddeden suya hazır SUP tahtasına: afarer'ın üretim sürecinin her adımı, kesme ve kaynaktan teste kadar kontrolümüz altındadır."
+  keywords:
+    - 'SUP üretim süreci'
+    - 'şişme SUP fabrikası'
+    - 'paddle board üretim adımları'
+    - 'PVC kaynak SUP'
+hero:
+  tagline: Süreç
+  title: Üretim Süreci
+  subtitle: Ham maddeden suya hazır tahtaya — her adım bizim kontrolümüzde
+  back_label: Fabrikaya Dön
+  back_link: /factory/
+intro: >-
+  Üretimi üçüncü taraf fabrikalara yaptıran markaların aksine afarer, tüm üretim zincirinin sahibidir ve işletir. Bu dikey entegrasyon, her aşamada sıkı kalite kontrolü sağlamamıza, özel taleplere hızlı yanıt vermemize ve partiden partiye tutarlı ürün kalitesi sunmamıza olanak tanır. İşte
+  tesisimizde bir tahtanın nasıl inşa edildiği.
+steps:
+  - step: '01'
+    title: Malzeme Kabul ve Muayene
+    description: Gelen her PVC kumaş, fiberglas keçe, reçine ve donanım partisi spesifikasyonlara göre incelenir. Kumaş numuneleri, üretime kabul edilmeden önce çekme mukavemeti, kalınlık homojenliği ve UV direnci açısından test edilir. Uygun olmayan malzemeler karantinaya alınır ve iade edilir.
+    duration: 1–2 gün
+  - step: '02'
+    title: Otomatik PVC Kesim
+    description: >-
+      Onaylanan kumaşlar, otomatik CNC kesim makinesine serilir ve milimetre altı hassasiyetle kesilir. Bilgisayar destekli optimizasyon, panelleri atığı en aza indirecek şekilde yerleştirir — tipik olarak %5'in altında. Kesilen paneller, tahta modeli ve odasına göre etiketlenir ve kaynak atölyesine
+      aktarılmak üzere paketlenir.
+    duration: Tahta seti başına 2–4 saat
+  - step: '03'
+    title: Boru Kaynağı ve Birleştirme
+    description: >-
+      Paneller, kontrollü 200–300 °C sıcaklıklarda sıcak hava kaynak makineleri ile teyellenir ve birleştirilir. Ana dikişler, hava geçirmez, yüksek mukavemetli bağlantılar için dielektrik RF kaynağı ile güçlendirilir. Bitmiş odalar, 30 dakikalık hava tutma doğrulaması için çalışma basıncının 1,5
+      katına şişirilir.
+    duration: Tahta başına 1–2 gün
+  - step: '04'
+    title: SUP Baskı ve Dekorasyon
+    description: SUP tahtası güverte grafikleri, tam renkli, fotoğraf kalitesinde desenler için dijital baskı ve dayanıklı logolar ile tekrarlayan desenler için serigrafi baskı ile uygulanır. Baskılar, UV ve aşınma direnci için kürlenir ve sızdırmaz hale getirilir.
+    duration: 1–2 gün
+  - step: '05'
+    title: Son Montaj ve Donanım
+    description: Tahtalar, finler, vanalar, EVA desteler ve aksesuarlarla montaj hattında donatılır. Her ünite, her aşamada zorunlu onay içeren 100 maddelik bir montaj kontrol listesini izler.
+    duration: 2–4 gün
+  - step: '06'
+    title: Kalite Testi ve Muayene
+    description: 'Tamamlanan her tahta zorunlu kalite aşamalarından geçer: oda hava tutma testi, donanım fonksiyonel kontrolü, bağlantı elemanı tork doğrulaması ve kozmetik muayene. Özel ve prototip tasarımlar ayrıca stabilite ve kullanımı kapsayan suda denemelerden geçer.'
+    duration: 1–2 gün
+  - step: '07'
+    title: Paketleme ve Sevkiyat
+    description: Tahtaların havası alınır, prosedüre göre katlanır, sağlam kumaş veya kontrplak sandıklara paketlenir ve nakliye için yüklenir. Her paket, model, seri numarası ve varış yeri ile etiketlenir. Dünya çapında FCL ve LCL konteyner gönderileri için nakliyecilerle koordinasyon sağlarız.
+    duration: 1 gün
+cta:
+  title: Ekipman ve makinelerimizi görün
+  desc: Her afarer tahtasının arkasındaki endüstriyel ekipmanı keşfedin.
+  label: Ekipmanı Görün →
+  link: /factory/equipment/

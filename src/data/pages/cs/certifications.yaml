@@ -1,0 +1,68 @@
+meta:
+  title: 'Certifikace — CE, ISO 9001 a shoda | {SITE}'
+  description: 'Certifikace kvality afarera: CE (EN ISO 25649), ISO 9001:2015, BSCI. Shoda a bezpečnost pro výrobce nafukovacích SUP prken.'
+  keywords:
+    - 'certifikace CE paddleboard'
+    - 'ISO 9001 paddleboard'
+    - 'námořní shoda'
+    - 'certifikace paddleboardů'
+hero:
+  tagline: Certifikace a normy
+  title: Certifikáty kvality<br />a normy shody
+  subtitle: Výroba SUP prken afarer je certifikována podle mezinárodních námořních bezpečnostních norem, systémů řízení kvality a ekologických předpisů — CE, ISO 9001, UKCA, BSCI a REACH.
+  image:
+    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
+    alt: Certifikáty kvality afarer a dokumentace o souladu s předpisy
+content_certifications:
+  tagline: Naše certifikace
+  title: Certifikovaná kvalita,<br />celosvětově uznávaná
+  subtitle: Každý produkt afarer je podložen certifikáty, které dokládají náš závazek ke kvalitě, bezpečnosti a environmentální odpovědnosti.
+  items:
+    - title: Certifikace CE
+      description: Všechny produkty afarer splňují evropské požadavky na označení CE pro rekreační plavidla, čímž je zajištěno splnění norem bezpečnosti, zdraví a ochrany životního prostředí.
+      icon: tabler:certificate
+    - title: ISO 9001:2015
+      description: Náš systém řízení kvality je certifikován dle ISO 9001:2015, pokrývá návrh, výrobu a distribuci nafukovacích plavidel a námořního vybavení.
+      icon: tabler:clipboard-check
+    - title: Označeno značkou UKCA
+      description: Výrobky prodávané na trhu Spojeného království nesou označení UKCA, které potvrzuje shodu s britskými předpisy pro námořní vybavení a osobní plavidla.
+      icon: tabler:shield
+    - title: V souladu se standardy BSCI
+      description: afarer je auditován podle BSCI (Business Social Compliance Initiative), což dokládá etické výrobní postupy, spravedlivé pracovní podmínky a odpovědnost v dodavatelském řetězci.
+      icon: tabler:heart-handshake
+    - title: V souladu s nařízením REACH
+      description: Všechny materiály používané v produktech afarer jsou v souladu s nařízeními EU REACH o chemické bezpečnosti, což zaručuje, že v našem PVC, EVA nebo součástech nejsou žádné omezené látky.
+      icon: tabler:flask
+    - title: Testování materiálů
+      description: Tkaniny jsou testovány na pevnost v tahu, odolnost proti protržení, UV degradaci a odolnost proti praskání za studena. Každá výrobní šarže je vzorkována a ověřena.
+      icon: tabler:test-pipe
+content_factory:
+  tagline: Tovární standardy
+  title: Výrobní dokonalost<br />— vyrobeno podle specifikace
+  subtitle: Naše zařízení o rozloze 12 000 m² pracuje podle přísných protokolů kontroly kvality v každé fázi výroby.
+  list:
+    - 'Vstupní kontrola materiálů: Všechny suroviny — PVC tkanina, EVA pěna, lepidla, kování — jsou před vstupem do výroby testovány oproti specifikacím.'
+    - 'Kontrola kvality v průběhu výroby: Každá výrobní fáze má zdokumentované kontrolní body QC. Pevnost svarů, přesnost švů, montáž ventilů a utahovací moment armatur jsou ověřovány přímo na lince.'
+    - 'Tlakové zkoušky: Každá nafukovací komora je po dobu 24–48 hodin tlakově zkoušena při 1.25× jmenovitém tlaku. Pro úspěšné absolvování zkoušky musí pokles tlaku zůstat pod 5 %.'
+    - 'Konečná kontrola: Hotové výrobky jsou před odesláním kontrolovány na rozměrovou přesnost, vzhledové provedení, kompletnost příslušenství a integritu balení.'
+    - 'Sledovatelnost šarží: Každý výrobek nese výrobní číslo propojené se záznamy o výrobní šarži, což umožňuje plnou sledovatelnost od suroviny až po hotový výrobek.'
+content_safety:
+  tagline: Normy námořní bezpečnosti
+  title: Bezpečnost především<br />— navrženo pro spolehlivý provoz
+  subtitle: Produkty afarer jsou navrženy a testovány tak, aby splňovaly mezinárodní námořní bezpečnostní standardy pro komerční a rekreační použití.
+  items:
+    - title: EN ISO 25649
+      description: Nafukovací SUP prkna splňují normy EN ISO 25649 pro konstrukci, stabilitu, vztlak a nosnost.
+      icon: tabler:sailboat
+    - title: Shoda se SOLAS
+      description: Bezpečnostní vybavení a záchranné prostředky splňují požadavky SOLAS (Safety of Life at Sea), pokud jsou použitelné.
+      icon: tabler:lifebuoy
+cta:
+  title: Potřebujete certifikované produkty pro svůj projekt?
+  subtitle: Kontaktujte náš tým, abyste prodiskutovali požadavky na certifikaci, dokumentaci a shodu pro váš trh.
+  actions:
+    - variant: primary
+      text: Vyžádat certifikační dokumenty
+      href: /contact/
+    - text: Zobrazit naši stránku kvality
+      href: /quality/

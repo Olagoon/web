@@ -1,0 +1,104 @@
+meta:
+  title: Afarer Felfújható Paddleboardok | Menj távolabbra. Evezd erősebben.
+  description: Fedezd fel az Afarer felfújható paddleboardokat all-around evezéshez, túrázáshoz, jógához, horgászathoz és szabadtéri kalandokhoz. Találd meg a tökéletes SUP-ot és fedezz fel többet a vízen.
+  keywords:
+    - felfújható paddleboard
+    - felfújható sup
+    - all-around sup
+    - túra sup
+    - jóga sup
+    - horgász sup
+    - családi paddleboard
+    - hordozható paddleboard
+hero:
+  tagline: Felfújható Paddleboardok
+  title: Felfújható Paddleboardok Minden Kalandhoz
+  slogan: Menj távolabbra. Evezd erősebben.
+  subtitle: Fedezd fel az evezés szabadságát az Afarerrel. Fedezz fel átgondolt felfújható SUP-okat nyugodt tavas napokhoz, tengerparti kalandokhoz, fitneszhez és minden máshoz.
+  taglineSection: Bizalomra építve. Kiválóságra tervezve.
+  actions:
+    - variant: primary
+      text: Találd Meg a Tábládat
+      href: /size-guide/
+      icon: tabler:compass
+    - text: SUP-ok Felfedezése
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Miért Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Afarer felfújható paddleboardok suhannak a nyugodt vízen napkeltkor — minden kalandhoz
+who_we_serve:
+  tagline: Evezz Velünk
+  title: Találd Meg a Saját Utad a Vízen
+  subtitle: Minden evezősnek más a kalandozásról alkotott képe. Fedezz fel egy Afarer SUP-ot, amely a te stílusodra lett tervezve.
+  items:
+    - title: Kezdők és Szabadidős Evezősök
+      keywords: felfújható sup kezdőknek, all-around paddleboard, stabil sup
+      description: Széles, stabil all-around táblák, amelyektől az első evezőcsapás természetes érzés, és veled együtt fejlődnek.
+      icon: tabler:users
+      cta: Találd Meg az Első Tábládat
+      link: /all-around-sup/
+    - title: Túrázás és Kaland
+      keywords: túra sup, hosszú távú paddleboard, expedíciós sup
+      description: Hosszabb, keskenyebb táblák, amelyek egyenesen tartanak, messzebb siklanak és felszerelést visznek többnapos útvonalakra.
+      icon: tabler:building
+      cta: Túra SUP-ok Felfedezése
+      link: /touring-sup/
+    - title: Jóga és Fitnesz
+      keywords: jóga sup, fitnesz paddleboard, széles stabil sup
+      description: Széles, stabil platformok mozgástérrel — napkeltés gyakorlatsorokhoz, edzésekhez és egyensúlyhoz nyugodt vízen.
+      icon: tabler:heart
+      cta: Jóga SUP Felfedezése
+      link: /yoga-sup/
+    - title: Horgászat és Család
+      keywords: horgász sup, családi paddleboard, stabil horgászplatform
+      description: Stabil, gyakorlatias platformok horgászathoz, gyerekekkel való evezéshez és hosszú, nyugodt napokhoz a vízen.
+      icon: tabler:users
+      cta: Horgász SUP Felfedezése
+      link: /fishing-sup/
+proof_points:
+  title: A szalonon túl is tesztelve
+  subtitle: Dizájn, teljesítmény és minőség, amelyet ellenőrizhet — a vízen és a számokban.
+  items:
+    - metric: 10+
+      label: Év a vízre tervezésben
+      detail: 2012 óta, lapról lapra finomítva
+    - metric: 50+
+      label: Ország a vízen
+      detail: Evezők és partnerek világszerte
+    - metric: 12–15
+      label: PSI Drop-Stitch mag
+      detail: Merev, ahol számít, könnyen csomagolható
+    - metric: 100%
+      label: Lapról lapra nyomástesztelve
+      detail: Szállítás előtt ellenőrizve
+business_solutions:
+  tagline: Miért Evez Másképp
+  title: Teljesítmény, amit az Első Csapásnál Érzel
+  subtitle: Négy pillér, amelyeket a valódi víz formált — teljesítmény, dizájn, konstrukció és minőség.
+  items:
+    - title: Teljesítmény a Vizen
+      description: Stabilitásra, siklásra és magabiztosságra hangolt formák — minden csapás kapcsolatban marad a vízzel.
+      icon: tabler:shield-check
+    - title: Kifejező Dizájn
+      description: Az árapályból, a vadonból és a part energiájából merítő kollekciók — táblák, amelyekkel látni akarod magad.
+      icon: tabler:package
+    - title: Bizonyított Konstrukció
+      description: Nagy sűrűségű drop-stitch magok, megerősített oldalak és fúziós laminálású varratok ismételt használatra.
+      icon: tabler:headset
+    - title: Ellenőrzött Minőség
+      description: Nyomásvizsgált, vizuálisan ellenőrzött, világos garanciával és gyors értékesítés utáni támogatással.
+      icon: tabler:truck-delivery
+cta:
+  title: Találd meg a következő tábládat.
+  subtitle: Akár az első csapásod, akár a leghosszabb útvonalad — vízre segítünk.
+  actions:
+    - variant: primary
+      text: Kollekció Felfedezése
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Katalógus Kérése
+      href: /resources/download-catalog/

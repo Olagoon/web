@@ -1,0 +1,139 @@
+meta:
+  title: Kvalitets- og inspektionslaboratorium — ISO-kompatibel SUP-test og -certificering | {SITE}
+  description: Uafhængig kvalitetsverifikation af oppustelige SUP'er. Trækprøvning, cyklisk lufttryktest, skræltest af sømme og materialecertificering. Kontakt vores kvalitetslaboratorium for tredjepartstest.
+back_text: Tilbage til R&D-center
+home_label: Forside
+hero:
+  tagline: Laboratorium 06
+  title: Kvalitets- og inspektionslaboratorium
+  subtitle: Uafhængig verifikation – alle test bestået før levering
+  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+  image_alt: UV-testning i Afarers kvalitetsinspektionslaboratorium
+intro: >-
+  Ethvert board, der forlader vores værksted, er certificeret til at have bestået et fast defineret sæt kvalitetsinspektioner og materialetest. Vores Quality & Inspection Lab er en uafhængig funktion i organisationen — det refererer direkte til administrerende direktør, ikke til produktionen — hvilket
+  sikrer, at intet kommercielt pres kan kompromittere inspektionsporten. Hvis et materialeparti eller et færdigt board ikke lever op til den offentliggjorte specifikation, har laboratoriet bemyndigelse til at standse forsendelsen, indtil afvigelsen er løst.
+content_html: >
+  <h2>Stol, men kontrollér</h2>
+
+  <p>Laboratoriet arbejder under et kvalitetsstyringssystem, der er i overensstemmelse med principperne, og vores testmetoder er baseret på ISO-, ASTM- og EN-standarder, hvor det er relevant. Vi fører detaljerede registreringer af alle udførte tests, hvilket skaber en komplet sporbarhedskæde fra
+  modtagelse af råmaterialer til endelig levering af boardet.</p>
+
+
+  <h2>Testudstyr og -kapaciteter</h2>
+
+  <table>
+    <thead><tr><th>Udstyr</th><th>Udførte tests</th><th>Standard / metode</th></tr></thead>
+    <tbody>
+      <tr><td>Universalprøvemaskine (50 kN)</td><td>Trækstyrke (stof), peel-modstand (sømme), rivningsudbredelse</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Programmerbart lufttæthedstestanlæg</td><td>1000-cyklus udholdenhedstest med oppustning/tømning, 30 min trykholdbarhedstest</td><td>EN ISO 25649 (intern)</td></tr>
+      <tr><td>Sømpeel-armatur (motoriseret 180° peel)</td><td>Peel-styrke for svejsede og limede sømme ved 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatisk tryktester</td><td>Stoffets modstand mod vandgennemtrængning (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digital tykkelsesmåler &amp; mikrometer</td><td>Stoftykke, slangevægtykkelse, tykkelse af klæbefilm</td><td>ISO 2286-3</td></tr>
+      <tr><td>Klimaskab</td><td>Temperaturkonditionering (-40 °C til +80 °C) til kulde-rift- og varmeældningstest</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Farvespektrofotometer</td><td>Delta-E-farvemåling efter UV-eksponering</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Inspektionsgaterne — fra materiale til levering</h2>
+
+  <p>Hvert board følger en fastlagt kvalitetsplan med obligatoriske inspektionspunkter. Intet board kan springe en gate over; hver gate skal godkendes af en kvalitetsinspektør, før næste produktionsfase kan begynde.</p>
+
+
+  <div class="not-prose my-8">
+    <div class="relative">
+      <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
+      <div class="space-y-6 relative">
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 1</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Inspektion af indgående materialer</p>
+            <p class="text-xs text-gray-500 mt-1">Stofbatch, klæbebatch og hardware — alt kontrolleres mod modtagelsesspecifikationen, før det frigives til produktion.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 2</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Svejseinspektion under produktion</p>
+            <p class="text-xs text-gray-500 mt-1">Første svejseprøveemne testes (peel + visuel kontrol) ved starten af hvert produktionsskift.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 3</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Lufttest af kamre</p>
+            <p class="text-xs text-gray-500 mt-1">Hvert kammer tryksættes til 1,5 x arbejdstryk og holdes i 30 min. Data registreres pr. serienummer.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Kontrol før levering</p>
+            <p class="text-xs text-gray-500 mt-1">Hele boardet inspiceres: alle fastgørelser er efterspændt, beslagene fungerer, og der er ingen kosmetiske fejl. 100-punkts-tjekliste.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 5</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Endelig certificering</p>
+            <p class="text-xs text-gray-500 mt-1">Testrapporter samles, inspektionsregistreringer gennemgås, og der udstedes en overensstemmelsesattest.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Centrale kvalitetsmålinger (2025 rullende gennemsnit)</h2>
+
+  <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">99.7 %</span>
+      <span class="text-xs text-gray-500">Førstegangsudbytte (stofbatch)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">&lt; 0.2 %</span>
+      <span class="text-xs text-gray-500">Svejsekassationsrate (løbende meter)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">100 %</span>
+      <span class="text-xs text-gray-500">Kamre lufttestet før samling</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
+      <span class="text-xs text-gray-500">Overensstemmelse med designkategori</span>
+    </div>
+  </div>
+
+
+  <h2>Vores kvalitetsteam</h2>
+
+  <p>Laboratoriet bemandes af en kvalitetschef (10 års erfaring med kvalitetssikring i marineindustrien, ASQ-certificeret Quality Engineer), to kvalitetsinspektører (begge med niveau-2 NDT-certificering i visuel testning) og en materialetekniker med ansvar for al fysisk testning. Teamet gennemgår
+  årlige dygtighedsprøver hos en uafhængig tredjepartsudbyder for at sikre, at vores testresultater forbliver præcise og reproducerbare.</p>
+
+
+  <h2>Uafhængig test for kunder</h2>
+
+  <p>Vores kvalitets- &amp; inspektionslaboratorium er til rådighed for uafhængige testydelser. Hvis du skal verificere en stoftspecifikation, validere et nyt klæbesystem eller bruge en tredjeparts testrapport til en indkøbsgodkendelse, kan vi udføre testene efter den relevante standard og udstede
+  en certificeret testrapport.</p>
+
+  <p>Eksempler på nylige tredjepartstestopgaver:</p>
+
+  <ul>
+    <li>Peel-styrkesammenligning af fem konkurrerende klæbefilmprodukter til et europæisk militært indkøbsprogram.</li>
+    <li>Accelereret ældningstest (UV + termiske cyklusser) af en ny PVC-formulering med orange pigment og løbende målinger med 500 timers mellemrum.</li>
+    <li>Validering af lufttætheden i 50 prototype-gitterventiler til et nyt højtryksslangedesign.</li>
+  </ul>
+
+
+  <h2>Vores løfte til dig</h2>
+
+  <p>Når du modtager et Afarer-board, modtager du også dets kvalitetsdossier — en samlet registrering af de testresultater, der gælder for netop dit board. Stofbatchcertifikat, peel-tests af svejsninger, lufttestlogfiler for kamre og kontroltjekliste før levering. Alle tal kan spores. Alle
+  inspektører er identificeret. Det er ikke kun papirarbejde — det er vores løfte om, at det, vi leverer, er det, vi har specificeret.</p>
+
+  <p>Hvis du nogensinde har en bekymring om kvaliteten, kan du kontakte laboratoriet direkte — kontaktoplysningerne er trykt på din overensstemmelsesattest. Vi tager enhver henvendelse alvorligt og forpligter os til en formel undersøgelse inden for 48 timer.</p>
+cta:
+  title: Har du brug for uafhængig test eller kvalitetsverificering?
+  subtitle: Vores laboratorium tager imod tredjepartsopgaver – kontakt os med dine behov.
+  button_text: Kontakt kvalitetslaboratoriet
+  button_link: /contact/

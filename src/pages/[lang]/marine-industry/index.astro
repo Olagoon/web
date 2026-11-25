@@ -1,0 +1,578 @@
+---
+export const prerender = true;
+
+import Layout from '~/layouts/PageLayout.astro';
+import JsonLd from '~/components/common/JsonLd.astro';
+import AiQuickAnswer from '~/components/common/AiQuickAnswer.astro';
+
+import { languages } from '~/i18n/config';
+import { SITE } from 'astrowind:config';
+import { getUiForLang } from '~/i18n/generated/ui-all';
+import { landingI18n as __landing } from '~/i18n/generated/landing/marine-industry';
+import { withTrailingSlash } from '~/i18n/routing';
+
+export async function getStaticPaths() {
+  return Object.keys(languages).map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const t = (k: string) => getUiForLang(lang)?.[k] || getUiForLang('en')?.[k] || '';
+const __lt = __landing[lang || ''] || {};
+const fr = (en: string, francais: string) => __lt[en] || (lang === 'fr' ? francais : en);
+
+const frArr = (en: string[], francais: string[]) => (lang === 'fr' ? francais : en.map((s) => __lt[s] || s));
+
+const SECTION_IDS = ['types', 'construction', 'materials', 'selection', 'safety', 'maintenance', 'applications'];
+
+const metadata = {
+  title: (
+    t('marineIndustry.metaTitle') ||
+    fr(
+      'Inflatable SUP & Water Sports Guide — Materials, Selection & Safety',
+      'Guide SUP Gonflable & Sports Nautiques — Matériaux, Sélection & Sécurité'
+    )
+  ).replace(/\{SITE\}/g, SITE.name),
+  description:
+    t('marineIndustry.metaDesc') ||
+    fr(
+      'A comprehensive guide to inflatable SUPs and water sports equipment covering types, construction methods, materials comparison, selection criteria, safety standards, and maintenance.',
+      'Un guide complet des SUP gonflables et des équipements de sports nautiques couvrant les types, méthodes de construction, comparaison des matériaux, critères de sélection, normes de sécurité et entretien.'
+    ),
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <JsonLd
+    type="Article"
+    article={{
+      headline: fr('Inflatable SUP & Water Sports Guide', 'Guide SUP Gonflable & Sports Nautiques'),
+      description: fr(
+        'A comprehensive guide to inflatable SUPs and water sports equipment covering types, construction methods, materials comparison, selection criteria, safety standards, and maintenance.',
+        'Un guide complet des SUP gonflables et des équipements de sports nautiques couvrant les types, méthodes de construction, comparaison des matériaux, critères de sélection, normes de sécurité et entretien.'
+      ),
+      datePublished: '2026-07-07',
+    }}
+    data={{ url: 'https://afarer.com/marine-industry/' }}
+  />
+
+  <JsonLd
+    type="BreadcrumbList"
+    breadcrumbs={[
+      { name: t('nav.home'), href: `/${lang}/` },
+      { name: fr('Marine Industry', 'Industrie Marine'), href: withTrailingSlash(`/${lang}/marine-industry`) },
+      { name: fr('SUP & Water Sports Guide', 'Guide SUP & Sports Nautiques'), href: `/${lang}/marine-industry/` },
+    ]}
+  />
+
+  <AiQuickAnswer
+    entityType="Guide"
+    quickAnswer={fr(
+      'An inflatable SUP is a portable stand-up paddle board constructed with a drop-stitch core and PVC fabric shells filled with pressurized air. Modern iSUPs use military-grade PVC fabrics with RF welding, achieving rigidity comparable to hard boards at 12-15 PSI. They are lightweight, packable, and suitable for recreation, touring, yoga, and fishing.',
+      'Un SUP gonflable est une planche à pagaie debout portable construite avec un cœur drop-stitch et des enveloppes en tissu PVC remplies d’air sous pression. Les iSUP modernes utilisent des tissus PVC de qualité militaire avec soudure RF, atteignant une rigidité comparable aux planches rigides à 12-15 PSI. Légères et pliables, elles conviennent à la récréation, au touring, au yoga et à la pêche.'
+    )}
+    facts={[
+      { label: fr('Global Market Size', 'Taille du Marché Mondial'), value: '$1.2B (2026)' },
+      { label: fr('Primary Materials', 'Matériaux Principaux'), value: 'Drop-Stitch PVC' },
+      { label: fr('Lifespan Range', 'Durée de Vie'), value: '5-12 years' },
+      { label: fr('CE Certification', 'Certification CE'), value: fr('Required (EU)', 'Exigée (UE)') },
+    ]}
+  />
+
+  <section class="max-w-4xl mx-auto py-16 px-6">
+    <h1 class="text-4xl font-semibold text-gray-900">
+      {fr('Inflatable SUP & Water Sports Guide', 'Guide SUP Gonflable & Sports Nautiques')}
+    </h1>
+    <p class="mt-4 text-lg text-gray-500">
+      {
+        fr(
+          'The definitive resource on inflatable stand-up paddle boards — from all-around recreational boards to touring, yoga, and fishing SUPs.',
+          'La ressource de référence sur les planches à pagaie debout gonflables — des planches récréatives polyvalentes aux SUP de touring, yoga et pêche.'
+        )
+      }
+    </p>
+
+    <nav class="mt-8 flex flex-wrap gap-2">
+      {
+        frArr(
+          ['Types', 'Construction', 'Materials', 'Selection', 'Safety', 'Maintenance', 'Applications'],
+          ['Types', 'Construction', 'Matériaux', 'Sélection', 'Sécurité', 'Entretien', 'Applications']
+        ).map((section, i) => (
+          <a
+            href={`#${SECTION_IDS[i]}`}
+            class="px-4 py-2 bg-gray-100 hover:bg-gray-200 rounded-full text-sm font-medium text-gray-700 transition"
+          >
+            {section}
+          </a>
+        ))
+      }
+    </nav>
+
+    <section id="types" class="mt-16">
+      <h2 class="text-2xl font-semibold text-gray-900">
+        {fr('Types of Inflatable SUPs', 'Types de SUP Gonflables')}
+      </h2>
+      <div class="mt-8 grid gap-6">
+        {
+          [
+            {
+              title: fr('All-Around SUP', 'SUP Polyvalent'),
+              desc: fr(
+                'The most versatile category. 10-11 ft length, 32-34" width. Stable, forgiving shape ideal for beginners, recreational paddling on lakes, rivers, and sheltered coastal waters. The best choice for a single-board quiver.',
+                'La catégorie la plus polyvalente. 10-11 pieds de long, 32-34" de large. Forme stable et indulgente, idéale pour les débutants et la pagaie récréative sur lacs, rivières et eaux côtières abritées. Le meilleur choix pour une planche unique.'
+              ),
+              icon: '🏄',
+            },
+            {
+              title: fr('Touring SUP', 'SUP de Touring'),
+              desc: fr(
+                'Longer (11-14 ft) and narrower (30-32") for distance paddling. Displacement nose improves tracking and glide efficiency. Designed for fitness paddling, exploration, and multi-day trips.',
+                'Plus longue (11-14 pieds) et plus étroite (30-32") pour la pagaie de distance. Le nez à déplacement améliore le suivi de cap et l’efficacité de glisse. Conçue pour la pagaie fitness, l’exploration et les sorties de plusieurs jours.'
+              ),
+              icon: '🌊',
+            },
+            {
+              title: fr('Yoga / Fitness SUP', 'SUP Yoga / Fitness'),
+              desc: fr(
+                'Extra-wide platform (34-36") maximizing stability for on-water yoga, Pilates, and fitness. Full-length EVA deck pad for comfort. D-rings for accessory attachment.',
+                'Plateforme extra-large (34-36") maximisant la stabilité pour le yoga, le Pilates et le fitness sur l’eau. Pad de pont EVA sur toute la longueur pour le confort. Anneaux en D pour fixer les accessoires.'
+              ),
+              icon: '🧘',
+            },
+            {
+              title: fr('Fishing SUP', 'SUP de Pêche'),
+              desc: fr(
+                'Wide stable boards with bungee cargo decks for gear storage. Rod holder and fishfinder mounting options. Silent approach for accessing shallow waters without spooking fish.',
+                'Planches larges et stables avec ponts de chargement élastiques pour ranger le matériel. Options de fixation de porte-cannes et sondeurs. Approche silencieuse pour accéder aux eaux peu profondes sans effrayer les poissons.'
+              ),
+              icon: '🎣',
+            },
+            {
+              title: fr('Surf SUP', 'SUP de Surf'),
+              desc: fr(
+                'Shorter (8-10 ft) with rounded nose and pulled-in tail for wave riding. Rocker profile for surf performance. Narrower rail profile.',
+                'Plus courte (8-10 pieds) avec un nez arrondi et un arrière resserré pour surfer. Profil de rocker pour la performance en surf. Rails plus étroits.'
+              ),
+              icon: '🏄‍♂️',
+            },
+          ].map((item) => (
+            <div class="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-200">
+              <span class="text-2xl flex-shrink-0">{item.icon}</span>
+              <div>
+                <h3 class="font-semibold text-gray-900">{item.title}</h3>
+                <p class="mt-1 text-sm text-gray-600">{item.desc}</p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <section id="construction" class="mt-16">
+      <h2 class="text-2xl font-semibold text-gray-900">{fr('Construction Methods', 'Méthodes de Construction')}</h2>
+      <div class="mt-8 grid md:grid-cols-2 gap-6">
+        <div class="p-6 rounded-xl border border-gray-200">
+          <h3 class="font-semibold text-gray-900">{fr('Drop-Stitch Core', 'Cœur Drop-Stitch')}</h3>
+          <p class="mt-2 text-sm text-gray-600">
+            {
+              fr(
+                'Thousands of polyester threads connect top and bottom PVC layers, enabling high-pressure inflation (12-15 PSI) for rigid performance. Thread density determines rigidity and weight. This is the defining technology of modern iSUPs.',
+                'Des milliers de fils de polyester relient les couches PVC supérieure et inférieure, permettant un gonflage haute pression (12-15 PSI) pour une performance rigide. La densité des fils détermine la rigidité et le poids. C’est la technologie déterminante des iSUP modernes.'
+              )
+            }
+          </p>
+        </div>
+        <div class="p-6 rounded-xl border border-gray-200">
+          <h3 class="font-semibold text-gray-900">
+            {fr('RF Welding (High-Frequency)', 'Soudure RF (Haute Fréquence)')}
+          </h3>
+          <p class="mt-2 text-sm text-gray-600">
+            {
+              fr(
+                'Uses electromagnetic energy to fuse PVC layers at molecular level. Creates the strongest airtight seams. Common in high-quality SUPs. Requires specialized machinery and skilled operation.',
+                'Utilise l’énergie électromagnétique pour fusionner les couches PVC au niveau moléculaire. Crée les soudures étanches les plus résistantes. Courante dans les SUP de haute qualité. Nécessite des machines spécialisées et une main-d’œuvre qualifiée.'
+              )
+            }
+          </p>
+        </div>
+        <div class="p-6 rounded-xl border border-gray-200">
+          <h3 class="font-semibold text-gray-900">{fr('Heat Welding', 'Soudure à Chaud')}</h3>
+          <p class="mt-2 text-sm text-gray-600">
+            {
+              fr(
+                'Hot air welding used for seams and reinforcements. Common for rail bands and attachment points. Effective for mid-range PVC fabrics.',
+                'Soudure à air chaud utilisée pour les soudures et les renforts. Courante pour les bandes de rail et les points d’attache. Efficace pour les tissus PVC de milieu de gamme.'
+              )
+            }
+          </p>
+        </div>
+        <div class="p-6 rounded-xl border border-gray-200">
+          <h3 class="font-semibold text-gray-900">{fr('Adhesive Bonding', 'Collage Adhésif')}</h3>
+          <p class="mt-2 text-sm text-gray-600">
+            {
+              fr(
+                'Two-part PVC adhesive bonds fabric panels. Used for deck pad attachment and some seam applications. Less common in modern production due to lower bond strength.',
+                'Un adhésif PVC bicomposant lie les panneaux de tissu. Utilisé pour la fixation des pads de pont et certaines soudures. Moins courant dans la production moderne en raison d’une résistance de liaison inférieure.'
+              )
+            }
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="materials" class="mt-16">
+      <h2 class="text-2xl font-semibold text-gray-900">{fr('Materials Comparison', 'Comparaison des Matériaux')}</h2>
+      <div class="mt-6 overflow-x-auto">
+        <table class="w-full text-sm border-collapse">
+          <thead>
+            <tr class="bg-gray-50 border-b-2 border-gray-200">
+              <th class="px-4 py-3 text-left font-semibold text-gray-700">{fr('Property', 'Propriété')}</th>
+              <th class="px-4 py-3 text-center font-semibold text-sky-700">{fr('Standard PVC', 'PVC Standard')}</th>
+              <th class="px-4 py-3 text-center font-semibold text-emerald-700">
+                {fr('Military-Grade PVC', 'PVC de Qualité Militaire')}
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              [
+                [
+                  fr('Relative Cost', 'Coût Relatif'),
+                  fr('$ (budget)', '$ (budget)'),
+                  fr('$$ (premium)', '$$ (premium)'),
+                ],
+                [
+                  fr('UV Resistance', 'Résistance UV'),
+                  fr('Good (with coating)', 'Bonne (avec revêtement)'),
+                  fr('Excellent (stabilized)', 'Excellente (stabilisée)'),
+                ],
+                [
+                  fr('Abrasion Resistance', 'Résistance à l’Abrasion'),
+                  fr('Moderate', 'Modérée'),
+                  fr('Good-Excellent', 'Bonne-Excellente'),
+                ],
+                [
+                  fr('Tensile Strength', 'Résistance à la Traction'),
+                  fr('800-1100 dtex', '800-1100 dtex'),
+                  fr('1100-1670 dtex', '1100-1670 dtex'),
+                ],
+                [
+                  fr('Cold Flexibility', 'Flexibilité à Froid'),
+                  fr('Stiffens below 0°C', 'Se rigidifie sous 0°C'),
+                  fr('Flexible to -10°C', 'Flexible jusqu’à -10°C'),
+                ],
+                [fr('Lifespan', 'Durée de Vie'), fr('3-5 years', '3-5 ans'), fr('5-12 years', '5-12 ans')],
+                [
+                  fr('Seam Method', 'Méthode de Soudure'),
+                  fr('Heat welding', 'Soudure à chaud'),
+                  fr('RF welding / fusion', 'Soudure RF / fusion'),
+                ],
+                [
+                  fr('Repair', 'Réparation'),
+                  fr('PVC glue (easy)', 'Colle PVC (facile)'),
+                  fr('PVC glue (easy)', 'Colle PVC (facile)'),
+                ],
+              ].map((row, i) => (
+                <tr class={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
+                  {row.map((cell, j) => (
+                    <td
+                      class={`px-4 py-3 border-b border-gray-200 ${j === 0 ? 'font-medium text-gray-700' : 'text-center text-gray-600'}`}
+                    >
+                      {cell}
+                    </td>
+                  ))}
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+      <p class="mt-4 text-sm text-gray-500">
+        {
+          fr(
+            'Military-grade PVC (1100-1670 dtex) offers superior durability for frequent paddlers at a moderate price premium. Standard PVC is sufficient for occasional recreational use.',
+            'Le PVC de qualité militaire (1100-1670 dtex) offre une durabilité supérieure pour les pagayeurs fréquents à un prix modérément supérieur. Le PVC standard suffit pour un usage récréatif occasionnel.'
+          )
+        }
+      </p>
+    </section>
+
+    <section id="selection" class="mt-16">
+      <h2 class="text-2xl font-semibold text-gray-900">
+        {fr('How to Choose an Inflatable SUP', 'Comment Choisir un SUP Gonflable')}
+      </h2>
+      <div class="mt-8 grid md:grid-cols-3 gap-6">
+        <div class="p-6 bg-sky-50 rounded-xl border border-sky-200">
+          <h3 class="font-semibold text-gray-900">{fr('1. Define Your Use Case', '1. Définissez Votre Usage')}</h3>
+          <ul class="mt-3 space-y-2 text-sm text-gray-600">
+            {
+              frArr(
+                [
+                  'Recreation: All-around SUP',
+                  'Fitness: Yoga or touring SUP',
+                  'Travel: Ultra-compact SUP',
+                  'Adventure: Touring SUP',
+                  'Surfing: Surf-specific SUP',
+                ],
+                [
+                  'Loisirs : SUP polyvalent',
+                  'Fitness : SUP yoga ou touring',
+                  'Voyage : SUP ultra-compact',
+                  'Aventure : SUP touring',
+                  'Surf : SUP spécialisé surf',
+                ]
+              ).map((li) => <li>{li}</li>)
+            }
+          </ul>
+        </div>
+        <div class="p-6 bg-sky-50 rounded-xl border border-sky-200">
+          <h3 class="font-semibold text-gray-900">{fr('2. Set Your Budget', '2. Fixez Votre Budget')}</h3>
+          <ul class="mt-3 space-y-2 text-sm text-gray-600">
+            {
+              frArr(
+                [
+                  '$200-$400: Entry-level SUP',
+                  '$400-$700: Mid-range SUP',
+                  '$700-$1,200: Premium SUP',
+                  '$1,200+: Professional SUP',
+                ],
+                [
+                  '200-400 $ : SUP d’entrée de gamme',
+                  '400-700 $ : SUP milieu de gamme',
+                  '700-1 200 $ : SUP premium',
+                  '1 200 $+ : SUP professionnel',
+                ]
+              ).map((li) => <li>{li}</li>)
+            }
+          </ul>
+        </div>
+        <div class="p-6 bg-sky-50 rounded-xl border border-sky-200">
+          <h3 class="font-semibold text-gray-900">
+            {fr('3. Consider Key Factors', '3. Considérez les Facteurs Clés')}
+          </h3>
+          <ul class="mt-3 space-y-2 text-sm text-gray-600">
+            {
+              frArr(
+                [
+                  'Board width: Stability vs speed',
+                  'Board thickness: Rigidity vs weight',
+                  'Drop-stitch density: 15-50 threads/cm²',
+                  'Fabric weight: 1100-1670 dtex',
+                  'PVC quality: Military-grade preferred',
+                ],
+                [
+                  'Largeur de planche : stabilité vs vitesse',
+                  'Épaisseur de planche : rigidité vs poids',
+                  'Densité drop-stitch : 15-50 fils/cm²',
+                  'Poids du tissu : 1100-1670 dtex',
+                  'Qualité PVC : qualité militaire de préférence',
+                ]
+              ).map((li) => <li>{li}</li>)
+            }
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="safety" class="mt-16">
+      <h2 class="text-2xl font-semibold text-gray-900">{fr('Safety & Standards', 'Sécurité & Normes')}</h2>
+      <div class="mt-8 grid md:grid-cols-2 gap-6">
+        <div class="p-6 rounded-xl border border-gray-200">
+          <h3 class="font-semibold text-gray-900">{fr('CE Certification', 'Certification CE')}</h3>
+          <p class="mt-2 text-sm text-gray-600">
+            {
+              fr(
+                'Inflatable SUPs sold in the EU may require CE marking under applicable directives. Certification covers design, buoyancy, stability, and load capacity. afarer SUPs are CE-certified for recreational use.',
+                'Les SUP gonflables vendus dans l’UE peuvent nécessiter le marquage CE conformément aux directives applicables. La certification couvre la conception, la flottabilité, la stabilité et la capacité de charge. Les SUP afarer sont certifiés CE pour un usage récréatif.'
+              )
+            }
+          </p>
+        </div>
+        <div class="p-6 rounded-xl border border-gray-200">
+          <h3 class="font-semibold text-gray-900">
+            {fr('Essential Safety Equipment', 'Équipement de Sécurité Essentiel')}
+          </h3>
+          <p class="mt-2 text-sm text-gray-600">
+            {
+              fr(
+                'Life jackets/PFDs (CE 12402), coil leash, whistle or signaling device, and a phone in a waterproof case. For open water, consider a VHF radio and navigation light.',
+                'Gilets de sauvetage/VFI (CE 12402), leash spiralé, sifflet ou dispositif de signalisation et téléphone dans une coque étanche. En eau libre, envisagez une radio VHF et un feu de navigation.'
+              )
+            }
+          </p>
+        </div>
+        <div class="p-6 rounded-xl border border-gray-200">
+          <h3 class="font-semibold text-gray-900">{fr('Safe Operation', 'Utilisation en Toute Sécurité')}</h3>
+          <p class="mt-2 text-sm text-gray-600">
+            {
+              fr(
+                'Always wear a leash. Check inflation pressure before launch. Know your limits and wind conditions. File a float plan. Take a SUP safety course.',
+                'Portez toujours un leash. Vérifiez la pression de gonflage avant le départ. Connaissez vos limites et les conditions de vent. Établissez un plan de navigation. Suivez un cours de sécurité SUP.'
+              )
+            }
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="maintenance" class="mt-16">
+      <h2 class="text-2xl font-semibold text-gray-900">{fr('Maintenance & Care', 'Entretien & Soins')}</h2>
+      <div class="mt-8 space-y-4 text-sm text-gray-600">
+        <div class="flex items-start gap-3 p-4 bg-gray-50 rounded-xl">
+          <span class="text-sky-600 font-bold flex-shrink-0">1.</span><span
+            >{
+              fr(
+                'Rinse with fresh water after every saltwater use. Dry completely before storage.',
+                'Rincez à l’eau douce après chaque usage en eau salée. Séchez complètement avant stockage.'
+              )
+            }</span
+          >
+        </div>
+        <div class="flex items-start gap-3 p-4 bg-gray-50 rounded-xl">
+          <span class="text-sky-600 font-bold flex-shrink-0">2.</span><span
+            >{
+              fr(
+                'Store partially inflated in a cool, dry place away from direct sunlight and extreme temperatures.',
+                'Stockez partiellement gonflé dans un endroit frais et sec, à l’abri du soleil direct et des températures extrêmes.'
+              )
+            }</span
+          >
+        </div>
+        <div class="flex items-start gap-3 p-4 bg-gray-50 rounded-xl">
+          <span class="text-sky-600 font-bold flex-shrink-0">3.</span><span
+            >{
+              fr(
+                'Check valves and seams before each season. Apply silicone lubricant to valve cores annually.',
+                'Vérifiez les valves et soudures avant chaque saison. Appliquez un lubrifiant silicone sur les noyaux de valve chaque année.'
+              )
+            }</span
+          >
+        </div>
+        <div class="flex items-start gap-3 p-4 bg-gray-50 rounded-xl">
+          <span class="text-sky-600 font-bold flex-shrink-0">4.</span><span
+            >{
+              fr(
+                'Clean with mild soap and water. Never use solvents, bleach, or pressure washers on fabric.',
+                'Nettoyez avec un savon doux et de l’eau. N’utilisez jamais de solvants, d’eau de Javel ou de nettoyeur haute pression sur le tissu.'
+              )
+            }</span
+          >
+        </div>
+        <div class="flex items-start gap-3 p-4 bg-gray-50 rounded-xl">
+          <span class="text-sky-600 font-bold flex-shrink-0">5.</span><span
+            >{
+              fr(
+                'Repair punctures promptly with a PVC patch kit. For larger damage, use manufacturer-recommended repair materials.',
+                'Réparez rapidement les perforations avec un kit de rustines PVC. Pour les dommages plus importants, utilisez les matériaux de réparation recommandés par le fabricant.'
+              )
+            }</span
+          >
+        </div>
+        <div class="flex items-start gap-3 p-4 bg-gray-50 rounded-xl">
+          <span class="text-sky-600 font-bold flex-shrink-0">6.</span><span
+            >{
+              fr(
+                'Replace valves every 3-5 years. Replace fabric at end of service life (visible wear, porosity, seam separation).',
+                'Remplacez les valves tous les 3-5 ans. Remplacez le tissu en fin de vie utile (usure visible, porosité, séparation des soudures).'
+              )
+            }</span
+          >
+        </div>
+      </div>
+    </section>
+
+    <section id="applications" class="mt-16">
+      <h2 class="text-2xl font-semibold text-gray-900">{fr('Applications', 'Applications')}</h2>
+      <div class="mt-8 grid md:grid-cols-3 gap-4">
+        {
+          [
+            {
+              title: fr('Recreational SUP', 'SUP Récréatif'),
+              desc: fr(
+                'Family outings, fitness paddling, yoga, fishing, and leisure touring on lakes, rivers, and coastal waters.',
+                'Sorties en famille, pagaie fitness, yoga, pêche et touring de loisir sur lacs, rivières et eaux côtières.'
+              ),
+            },
+            {
+              title: fr('Fishing', 'Pêche'),
+              desc: fr(
+                'Anglers using stable SUP platforms for silent access to shallow waters and casting.',
+                'Pêcheurs utilisant des plateformes SUP stables pour un accès silencieux aux eaux peu profondes et la pêche au lancer.'
+              ),
+            },
+            {
+              title: fr('Touring & Expedition', 'Touring & Expédition'),
+              desc: fr(
+                'Long-distance SUP touring, multi-day expeditions, and open-water crossings where durability and performance are critical.',
+                'Touring SUP longue distance, expéditions pluriquotidiennes et traversées en eau libre où la durabilité et la performance sont cruciales.'
+              ),
+            },
+            {
+              title: fr('Fitness & Yoga', 'Fitness & Yoga'),
+              desc: fr(
+                'Stand-up paddle boarding for full-body workouts, yoga on water, and low-impact cross-training.',
+                'Stand-up paddle pour des entraînements complets du corps, du yoga sur l’eau et du cross-training à faible impact.'
+              ),
+            },
+            {
+              title: fr('Travel & Adventure', 'Voyage & Aventure'),
+              desc: fr(
+                'Ultra-compact SUPs that pack into backpacks for travel, camping, and adventure tourism.',
+                'SUP ultra-compacts qui se rangent dans un sac à dos pour les voyages, le camping et le tourisme d’aventure.'
+              ),
+            },
+            {
+              title: fr('OEM Manufacturing', 'Fabrication OEM'),
+              desc: fr(
+                'Custom private-label SUP production for brands, retailers, and specialized operators seeking unique specifications.',
+                'Production de SUP marque privée sur mesure pour les marques, détaillants et opérateurs spécialisés recherchant des spécifications uniques.'
+              ),
+            },
+          ].map((app) => (
+            <div class="p-4 bg-gray-50 rounded-xl border border-gray-200">
+              <h3 class="font-semibold text-sm text-gray-900">{app.title}</h3>
+              <p class="mt-1 text-xs text-gray-500">{app.desc}</p>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="mt-16 bg-gradient-to-br from-sky-50 to-blue-50 rounded-2xl p-8 border border-sky-200">
+      <h2 class="text-xl font-semibold text-gray-900">
+        {fr('Explore Afarer Inflatable SUPs', 'Découvrez les SUP Gonflables afarer')}
+      </h2>
+      <p class="mt-4 text-sm text-gray-600">
+        {
+          fr(
+            'Afarer designs and manufactures CE-certified inflatable SUPs and water sports equipment for recreational, professional, and OEM markets. All products built with military-grade PVC using advanced drop-stitch core technology.',
+            'afarer conçoit et fabrique des SUP gonflables certifiés CE et des équipements de sports nautiques pour les marchés récréatif, professionnel et OEM. Tous les produits sont fabriqués en PVC de qualité militaire avec une technologie avancée de cœur drop-stitch.'
+          )
+        }
+      </p>
+      <div class="mt-6 flex gap-4 flex-wrap">
+        <a
+          href={withTrailingSlash(`/${lang}/products`)}
+          class="px-6 py-3 bg-gray-900 text-white rounded-full text-sm font-medium hover:bg-gray-800 transition"
+          >{fr('View Products', 'Voir les Produits')}</a
+        >
+        <a
+          href={withTrailingSlash(`/${lang}/academy`)}
+          class="px-6 py-3 border border-gray-200 text-gray-700 rounded-full text-sm font-medium hover:border-gray-400 transition"
+          >{fr('Learning Center', 'Centre d’Apprentissage')}</a
+        >
+      </div>
+    </section>
+  </section>
+
+  <section class="sr-only" data-ai-block="definition" aria-hidden="true">
+    <p>
+      {
+        fr(
+          'Comprehensive inflatable SUP guide covering types (all-around, touring, yoga, fishing, surf), construction methods (drop-stitch core, RF welding, heat welding, adhesive bonding), materials (PVC, military-grade PVC), selection criteria (use case, budget, materials), safety standards (CE certification, essential equipment), maintenance (cleaning, storage, repairs, valve care), and industry applications (recreational, tourism, fitness, fishing, surfing, OEM).',
+          'Guide complet du SUP gonflable couvrant les types (polyvalent, touring, yoga, pêche, surf), les méthodes de construction (cœur drop-stitch, soudure RF, soudure à chaud, collage adhésif), les matériaux (PVC, PVC de qualité militaire), les critères de sélection (usage, budget, matériaux), les normes de sécurité (certification CE, équipement essentiel), l’entretien (nettoyage, stockage, réparations, soin des valves) et les applications (récréatif, tourisme, fitness, pêche, surf, OEM).'
+        )
+      }
+    </p>
+  </section></Layout
+>

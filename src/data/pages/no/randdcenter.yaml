@@ -1,0 +1,125 @@
+meta:
+  title: FoU-senter | {SITE}
+  description: Forskning og utvikling – PVC-stofftesting, skrogteknikk, RF-sveising, hydrodynamisk testing og kvalitetskontroll. Tilpassede FoU-tjenester tilgjengelig.
+hero:
+  tagline: FoU-senter
+  title: FoU-senter
+  subtitle: Fokusert på fremgang
+intro:
+  - >-
+    afarers forsknings- og utviklingsavdeling (R&D) er drivkraften bak vårt oppdrag å revolusjonere vannsportsutstyr. Vi gir vannsportsentusiaster over hele verden sikrere, mer komfortable og mer fornøyelige produkter gjennom utrettelig innovasjon innen oppblåsbare padlebrett (SUP-er). Vårt
+    dedikerte team av ingeniører, designere og lidenskapelige vannsportseksperter former fremtiden for bransjen og hever stadig listen for kvalitet, ytelse og bærekraft.
+  - Vår FoU-fasilitet samler materialvitenskapsfolk, marineingeniører og produksjonsingeniører under ett tak. Fra stoffformulering og skrogsimulering til sveiseprosessutvikling og fullskala sjøforsøk, hvert stadium av produktutviklingen drives av data og valideres gjennom testing.
+mission:
+  tagline: Vår misjon
+  title: Innovasjon av fremtiden for vannsport
+  pillars:
+    - icon: lightning
+      title: Teknologisk utvikling
+      desc: Pionervirksomhet innen nye materialer, design og produksjon for overlegen ytelse og levetid.
+    - icon: design
+      title: Brukersentrert design
+      desc: Dyp forståelse og overgåelse av brukerbehov gjennom ergonomisk og intuitiv produktdesign.
+    - icon: globe
+      title: Bærekraftig praksis
+      desc: Minimering av vårt miljøavtrykk ved bruk av miljøvennlige materialer og prosesser.
+    - icon: shield
+      title: Kompromissløs sikkerhet
+      desc: Sikrer de høyeste sikkerhetsstandardene gjennom grundig testing og sertifisering.
+pillars:
+  - title: Teknologisk utvikling
+    desc: Pionervirksomhet innen nye materialer, design og produksjonsprosesser for å levere overlegen ytelse og levetid.
+    icon: tech
+  - title: Avanserte materialer
+    desc: Utforskning av banebrytende PVC, kompositter og bærekraftige alternativer for forbedrede produktegenskaper.
+    icon: materials
+  - title: Bærekraft
+    desc: 'En kjerneforpliktelse: Vi er dedikert til miljøansvar gjennom bærekraftig produksjon og resirkulerbare materialer.'
+    icon: sustainability
+capabilities:
+  tagline: Ferdigheter
+  title: FoU-kapasiteter
+  subtitle: Fire kjerneområder som gir oss full kontroll over produktutvikling — fra råmaterialforskning til sluttsertifisering.
+  groups:
+    - title: Materialvitenskap og tekstilteknologi
+      items:
+        - PVC-formuleringsoptimalisering og -analyse
+        - UV-stabilisering, flammehemming og utvikling av antimikrobielle tilsetningsstoffer
+        - Flerlags stofflaminering og vedheftingsteknologi
+        - Akselerert aldringstesting (UV, termisk, fuktighet, saltspray)
+    - title: Skrogteknikk og hydrodynamikk
+      items:
+        - Parametrisk 3D-skrogdesign og CFD-optimalisering
+        - Endelig elementanalyse for strukturelle og støtbelastninger
+        - Modelltowingtank-testing og ytelsesvalidering
+        - Tilpasset skrogutvikling for spesielle oppdragsprofiler
+    - title: Sveiseteknologi og sammenføyingsteknologi
+      items:
+        - RF-dielektrisk sveise prosessutvikling og optimalisering
+        - Varmluft-, varmkile- og ultralyd-sveise metoder
+        - Limbinding og sømteipkvalifisering
+        - Modellering av sveiseholdbarhet og levetidsforutsigelse
+    - title: Testing, sertifisering og etterlevelse
+      items:
+        - Kvalitetsledelse og CE-samsvarstesting
+        - Uavhengig tredjepartstesting og sertifiseringsstøtte
+        - Utvikling av tilpassede testprotokoller for innkjøpskvalifisering
+        - Driftsfeilanalyse og årsaksundersøkelse
+rd_numbers:
+  tagline: Innovasjon
+  title: F&U i tall
+  stats:
+    - value: '14'
+      label: FoU-ingeniører og forskere
+    - value: '8'
+      label: Aktive patenter og søknader
+    - value: '6'
+      label: Spesialiserte laboratorier
+    - value: 12 år
+      label: Gjennomsnittlig teamerfaring
+rd_services:
+  tagline: Skreddersydd FoU
+  title: F&U-tjenester for partnere
+  services:
+    - title: Tilpasset materialutvikling
+      desc: Vi utvikler tilpassede stoffformuleringer, laminatstakker og limsystemer skreddersydd for ditt driftsmiljø og ytelsesmål.
+    - title: OEM / ODM-produktutvikling
+      desc: Vi utvikler tilpassede stoffformuleringer, laminatstakker og limsystemer skreddersydd for ditt driftsmiljø og ytelsesmål.
+    - title: Tredjepartstesting og sertifisering
+      desc: Benytt våre ISO-sertifiserte testfasiliteter for uavhengig materialtesting, produktvalidering og sertifiseringsstøtte.
+  cta: Diskuter dine F&U-krav →
+  cta_link: /contact/
+vision:
+  tagline: Vår visjon
+  title: Forme fremtiden for vannsport
+  body: >-
+    afarer arbeider for å lede industrien for oppblåsbare SUP-er gjennom kontinuerlig innovasjon, urokkelig kvalitet og et ubrytelig engasjement for sikkerhet og bærekraft – og beriker dermed opplevelsene til vannsportentusiaster over hele verden. afarer FoU-senteret er der lidenskap møter
+    innovasjon, og setter nye standarder for vannsportsindustrien.
+labs_section:
+  tagline: Laboratorier
+  title: Våre laboratorier
+  labs:
+    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+      title: PVC-stofflaboratorium
+      description: Kontinuerlig forskning og testing av PVC-dekkstoffer for trekkfasthet, UV-resistens, slitasje og fleksibilitet ved lave temperaturer for å sikre langsiktig pålitelighet i marine miljøer.
+      href: /randdcenter/pvc-fabric-lab/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+      title: Skrogteknisk studio
+      description: CAD-drevet design og endelig elementanalyse av HDPE-, aluminiums- og glassfiberskrog. Hvert skrog simuleres digitalt for spenningsfordeling og støtmotstand før den første prototypen bygges.
+      href: /randdcenter/hull-engineering/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+      title: RF-sveisesenter
+      description: Dedikert sveiseanlegg for radiofrekvenssveising med presis temperatur- og trykkontroll, som produserer høyfester tetteste sommer som oppfyller marineindustriens standarder for oppblåsbare farkoster.
+      href: /randdcenter/rf-welding/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+      title: Hydrodynamisk testtank
+      description: Modelltesting i vår interne testtank for å optimalisere skrogform, planeytelse, stabilitet og drivstoffeffektivitet under ulike last- og sjøforhold.
+      href: /randdcenter/hydrodynamic-test-tank/
+    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      title: Prototypverksted
+      description: Fullskala prototyping og utrustning der nye modeller bygges, utrustes og prøvekjøres. Hver prototype gjennomgår minimum 20 timers vanntest før produksjonsgodkjenning.
+      href: /randdcenter/prototype-workshop/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+      title: Kvalitets- og inspeksjonslaboratorium
+      description: Dedikert kvalitetssikringslaboratorium som utfører trekktesting, luftretensjonssykling, sømskalltester og materialgodkjenning for å sikre at hvert brett som forlater verkstedet oppfyller våre publiserte spesifikasjoner.
+      href: /randdcenter/quality-inspection-lab/

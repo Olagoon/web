@@ -1,0 +1,110 @@
+meta:
+  title: Private Label SUP Üretimi | {SITE}
+  description: Afarer ile kendi SUP markanızı başlatın. Fikirden pazara — tasarım, prototipleme, üretim ve küresel lojistik dahil tam OEM/ODM hizmeti.
+hero:
+  tagline: Kendi Markanızı Oluşturun
+  title: Kendi<br />SUP Markanızı Başlatın
+  subtitle: Siz vizyonunuzu sunun. Biz fabrikamızı, uzmanlığımızı ve tedarik zincirimizi sunalım. Birlikte öne çıkan bir marka yaratalım.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Özel markalı SUP tahtası suda
+process:
+  title: Marka Yolculuğunuz
+  subtitle: Fikirden pazara 5 aşamada.
+  steps:
+    - phase: Faz 1
+      title: Fikir
+      period: Hafta 1-2
+      items:
+        - Pazar araştırması ve rakip analizi
+        - Hedef müşteri tanımı
+        - Marka konumlandırma atölyesi
+        - Ürün hattı stratejisi
+    - phase: 2. Aşama
+      title: Tasarım
+      period: 3-6. Hafta
+      items:
+        - Board şekli ve grafik tasarım
+        - Renk eşleştirme ve malzeme seçimi
+        - Aksesuar teknik özelliği
+        - Ambalaj ve etiket tasarımı
+    - phase: Faz 3
+      title: Prototip
+      period: Hafta 7-10
+      items:
+        - Numune üretimi
+        - Kalite testleri (basınç, yüzerlik, UV)
+        - Tasarım ayarlamaları
+        - Son onay
+    - phase: Faz 4
+      title: Üretim
+      period: Hafta 11-14
+      items:
+        - Toplu üretim
+        - Kalite kontrol muayenesi (ünite başına)
+        - Deniz yolu / hava yolu
+        - Gümrükleme belgeleri
+    - phase: Faz 5
+      title: Lansman
+      period: Hafta 15-16
+      items:
+        - Ürün fotoğrafçılığı
+        - Web sitesi ürün beslemesi
+        - Pazarlama materyalleri
+        - Lansman desteği
+packages:
+  title: Başlangıç Paketleri
+  subtitle: Marka büyümesinin her aşaması için tasarlanmış paketler.
+  items:
+    - name: Starter Brand
+      tagline: 50-100 ünite · 2 panel modeli
+      features:
+        - Temel logo baskısı
+        - Standart paketleme
+        - E-posta desteği
+    - name: Growing Brand
+      tagline: 300-1.000 ünite · 3-5 tahta modeli
+      features:
+        - Özel renk + logo
+        - Özel paketleme
+        - Ürün fotoğrafları
+        - Atanmış müdür
+    - name: Established Brand
+      tagline: 1.000+ adet · Tam ürün yelpazesi
+      features:
+        - Tam özelleştirme
+        - Premium ambalaj
+        - Pazarlama materyalleri
+        - Öncelikli üretim
+features:
+  title: Markalar Neden Afarer'i Seçiyor
+  subtitle: 10 yılı aşkın OEM deneyimi, eksiksiz sertifikasyon ve sektördeki en düşük MOQ.
+  items:
+    - title: 10+ Yıl OEM Deneyimi
+      description: Dünya genelinde markalara 2.400'den fazla gövde teslim edildi.
+      icon: tabler:clock
+    - title: Tam Sertifikasyon
+      description: CE / ISO / UKCA / BSCI / REACH — tamamı sertifikalı.
+      icon: tabler:certificate
+    - title: 30 Günlük Teslim Süresi
+      description: Siparişten sevkiyata sektör ortalamasından daha hızlı.
+      icon: tabler:truck-delivery
+    - title: Düşük MOQ
+      description: 50 birimden itibaren — sektördeki en düşük.
+      icon: tabler:package
+    - title: İç Tasarım
+      description: Konseptten nihai çizime kadar tam tasarım desteği.
+      icon: tabler:palette
+    - title: Küresel Lojistik
+      description: Deniz yolu, hava yolu ve gümrükleme desteği.
+      icon: tabler:world
+cta:
+  title: Markanızı başlatmaya hazır mısınız?
+  subtitle: Marka yolculuğunuza başlayın veya OEM rehberimizi indirin.
+  actions:
+    - text: Marka Yolculuğunuza Başlayın
+      href: /contact/?package=oem
+      variant: primary
+    - text: OEM Rehberini İndirin
+      href: /resources/download-catalog/
+      variant: secondary

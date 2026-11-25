@@ -1,0 +1,117 @@
+meta:
+  title: 'Landenpartnerschappen — Eén land, één officiële Afarer-distributeur | {SITE}'
+  description: 'Solliciteer om de officiële Afarer-distributeur voor uw land te worden. Eén geautoriseerde partner per markt, territoriumbescherming, rechtstreekse fabrieksmarges, jaarlijkse kortingen en een ondersteuningsprogramma voor landenpartners met 10 modules voor wereldwijde SUP- en watersportdistributeurs.'
+  keywords:
+    - 'landenpartnerschapsprogramma'
+    - 'distributeur worden'
+    - 'SUP-distributie'
+    - 'één land één distributeur'
+    - 'stand up paddle distributeur'
+    - 'watersportdistributie'
+    - 'landenpartnerschap aanvragen'
+hero:
+  tagline: 'Landenpartnerschap'
+  title: 'Eén land.<br />Eén officiële Afarer-distributeur.'
+  subtitle: 'Afarer wijst voor elke goedgekeurde markt één enkele geautoriseerde landendistributeur aan. Exclusief territorium, dealerprijzen met jaarlijkse kortingen en een volledig distributeur-ondersteuningsprogramma — in ruil voor een ondertekende overeenkomst en een echte toewijding om de markt op te bouwen.'
+  actions:
+    - text: 'Solliciteer voor landenpartnerschap'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Vind uw lokale distributeur'
+      href: /distributor-program/
+      variant: secondary
+    - text: 'Dealerprijslijst aanvragen'
+      href: /contact/?subject=Dealer Price List
+      variant: secondary
+stats:
+  - value: '1'
+    label: 'Officiële distributeur per land of regio'
+  - value: '100–300'
+    label: 'Minimale eerste bestelling (Country / Regional)'
+  - value: '50+'
+    label: 'Landen wereldwijd bediend'
+  - value: '30–45'
+    label: 'Standaard levertijd in dagen (FOB Qingdao)'
+features:
+  title: 'Waarom een partnerschap met Afarer'
+  subtitle: 'Een één-land-één-distributeurmodel met de ondersteuningsstructuur om het territorium rendabel te maken. Exclusiviteit wordt verdiend en onderhouden — geen permanent recht.'
+  columns: 3
+  items:
+    - title: 'Territoriumexclusiviteit'
+      description: 'Eén geautoriseerde distributeur per land of regio. Geen parallelimport, geen interne concurrentie. Uw investering bouwt uw eigen vesting.'
+      icon: 'tabler:shield-check'
+    - title: 'Bescherming tegen kanaalconflicten'
+      description: 'Directe bestellingen uit uw regio lopen via u, en de prijzen beschermen uw marge. Afarer verkoopt niet om zijn landenpartners heen.'
+      icon: 'tabler:users'
+    - title: 'Directe Fabrieksmarges & kortingen'
+      description: 'Dealerprijslijst met kortingen op gecommitteerde volumes. Geen tussenpersonen. FOB Qingdao-verzending met volledige exportdocumentatie.'
+      icon: 'tabler:coins'
+    - title: 'Ondersteuningsprogramma met 10 modules'
+      description: 'Onboarding, go-to-market, training, marketing en gezamenlijke marktfinanciering, reserveonderdelen en after-sales, garantie, besteltools en een partnerportaal — gedekt in uw Distribution Agreement.'
+      icon: 'tabler:rocket'
+    - title: 'Marketing & gezamenlijke marktfondsen'
+      description: 'Gelokaliseerde campagne-assets, dealer-POS-materialen, evenementkits, digitale content in meerdere talen en co-marketingondersteuning voor de lanceringsseizoenen.'
+      icon: 'tabler:mood-smile'
+    - title: 'Product-, verkoop- & technische training'
+      description: 'Gestructureerde onboarding-sessies over product-, verkoop- en technische kennis, met bijgewerkte materialen naarmate het assortiment evolueert.'
+      icon: 'tabler:presentation'
+    - title: 'Reserveonderdelen & after-salesondersteuning'
+      description: 'Levering van reserveonderdelen, garantieregistratie en afhandeling van garantieclaims en productdatasheets en handleidingen voor uw lokale serviceteam.'
+      icon: 'tabler:settings'
+    - title: 'Dedicated accountmanager & partnerportaal'
+      description: 'Een persoonlijke distributeurmanager plus toegang tot prijslijsten, orderstatus en marketingbronnen via het Afarer-partnerportaal.'
+      icon: 'tabler:user-check'
+table:
+  title: 'Partnerschapsniveaus, MOQ & ordervoorwaarden'
+  subtitle: 'Kies het niveau dat past bij uw marktpotentieel. Alle prijzen in USD, FOB Qingdao.'
+  caption: 'Monster- en proefbestellingen (5–30 stuks) bieden geen territoriale bescherming. Landexclusiviteit geldt alleen voor ondertekende Country / Regional Distributor-overeenkomsten — deze wordt onderhouden door het voltooien van de eerste bestelling, jaarlijkse inkoopdoelen, lokale voorraad, after-salescapaciteit en voortdurende marktinvestering, en is geen permanent of eeuwigdurend recht.'
+  head:
+    - Programmaniveau
+    - Minimum bestelling (stuks)
+    - Levertijd
+    - Betaling
+  rows:
+    - [Sample / Product Evaluation, 5–10, 15–20 werkdagen, 100% prepaid]
+    - [Trial Order, 10–30, 30–45 werkdagen, 100% prepaid]
+    - [Authorized Dealer, 30–50, 30–45 werkdagen, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 30–45 werkdagen, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (Standard), 50+, 30–45 werkdagen, 30% deposit / 70% before shipment]
+    - [Deep Custom (nieuwe mallen, verpakking), 200+, 45–60 werkdagen, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 60–90 werkdagen, 30% deposit / 70% before shipment]
+faqs:
+  title: 'Landenpartnerschap — FAQ'
+  subtitle: 'De vragen die serieuze landenpartners stellen vóór hun aanvraag.'
+  items:
+    - title: 'Wat betekent één-land-één-distributeur echt?'
+      description: 'Afarer wijst één enkele geautoriseerde distributeur aan met exclusieve rechten voor een afgebakend territorium. We verkopen niet vanuit onze globale of regionale kanalen in een beschermd land. Uw territorium blijft van u zolang de Distribution Agreement wordt nageleefd.'
+    - title: 'Is het territorium voor altijd exclusief?'
+      description: 'Nee. Exclusiviteit is voorwaardelijk, niet permanent. Die wordt onderhouden via een ondertekende Distribution Agreement, het voltooien van uw eerste bestelling, jaarlijkse inkoopdoelen, lokale voorraad, after-salescapaciteit en voortdurende marktinvestering. Worden deze niet gehaald, dan kan het territorium worden heronderhandeld of opnieuw toegewezen.'
+    - title: 'Wat is de minimale eerste bestelling?'
+      description: "Landelijke en regionale distributeurs starten vanaf 100–300 stuks; Authorized Dealers vanaf 30–50 stuks; proefbestellingen vanaf 10–30 stuks laten u eerst de markt valideren (proef- en monsterbestellingen bieden geen territoriale bescherming). Custom- en private-labelprogramma's volgen aparte MOQs zoals vermeld in de niveaus hierboven."
+    - title: 'Welke ondersteuning omvat het ondersteuningsprogramma met 10 modules?'
+      description: 'Niveaus en kwalificaties, territoriumbescherming, MOQ / prijzen / jaarlijkse kortingen, voorraad en orderuitvoering, marketingassets en gezamenlijke marktfondsen, product- / verkoop- / technische training, reserveonderdelen en after-sales, garantieregistratie, het partnerportaal en productdatasheets, marketing-assetbibliotheek, jaarlijkse kortingsregeling en verzend- en paklijsten.'
+    - title: 'Hoe beschermt Afarer mij tegen kanaalconflicten?'
+      description: 'Elk territorium heeft precies één geautoriseerde distributeur. Inquiries en directe bestellingen uit uw regio lopen via u, websiteformulieren worden doorgestuurd naar de lokale partner als die er is, en het wereldwijde team escaleert alleen wanneer een partner niet reageert.'
+    - title: 'Wat zijn de verzend- en betalingsvoorwaarden?'
+      description: 'Bestellingen worden verzonden FOB Qingdao met volledige exportdocumentatie. Productieorders zijn 30% aanbetaling met 70% vóór verzending; proef- en monsterbestellingen worden vooraf betaald. De standaard levertijd is 30–45 werkdagen, met 15–20 werkdagen voor monsterruns.'
+    - title: 'Hoe solliciteer ik?'
+      description: 'Stuur uw sollicitatie via het contactformulier met marktdetails. We beoordelen marktfit, retailaanwezigheid en logistieke capaciteit en reageren binnen 3 werkdagen met de volgende stappen en een voorbeeld van een Distribution Agreement.'
+cta:
+  title: 'Eigen uw markt.'
+  subtitle: 'Solliciteer voor het Afarer-landenpartnerschap en krijg binnen 3 werkdagen een reactie.'
+  actions:
+    - text: 'Solliciteer voor landenpartnerschap'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Download het programma-overzicht'
+      href: /distributor-program/
+      variant: secondary
+geo:
+  tagline: 'Met wie we partnerschappen aangaan'
+  sentence: 'Afarer werkt samen met gevestigde maritieme, outdoor- en sportdistributeurs die retailketens, verhuurvloten, watersportscholen, resorts en overheidskopers bedienen met premium opblaasbare SUP-boards en vaartuigen — en die zich committeren aan het opbouwen van het Afarer-merk in hun land.'
+  audiences:
+    - 'Marine- & botendistributeurs'
+    - 'Outdoor- & sportretail'
+    - 'Verhuur- & resortoperators'
+    - 'Watersportscholen'
+    - 'Oceaan-sportgemeenschappen'

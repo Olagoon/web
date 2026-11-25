@@ -1,0 +1,104 @@
+meta:
+  title: Nafukovacie Paddleboardy Afarer | Zajdi ďalej. Pádluj silnejšie.
+  description: Objavte nafukovacie paddleboardy Afarer na všestranné pádlovanie, touring, jogu, rybolov a dobrodružstvá v prírode. Nájdite svoj dokonalý SUP a objavujte na vode viac.
+  keywords:
+    - nafukovací paddleboard
+    - nafukovacie sup
+    - všestranný sup
+    - touring sup
+    - sup na jogu
+    - rybársky sup
+    - rodinný paddleboard
+    - prenosný paddleboard
+hero:
+  tagline: Nafukovacie Paddleboardy
+  title: Nafukovacie Paddleboardy na Každé Dobrodružstvo
+  slogan: Zajdi ďalej. Pádluj silnejšie.
+  subtitle: Objavte slobodu pádlovania s Afarer. Preskúmajte premyslené nafukovacie SUPy na pokojné dni pri jazere, dobrodružstvá na pobreží, fitness a všetko medzi tým.
+  taglineSection: Postavené na istotu. Navrhnuté, aby vynikali.
+  actions:
+    - variant: primary
+      text: Nájdite Svoju Dosku
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Preskúmať SUPy
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Prečo Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Nafukovacie paddleboardy Afarer kĺžu po pokojnej vode za úsvitu — postavené na každé dobrodružstvo
+who_we_serve:
+  tagline: Pádlujte s Nami
+  title: Nájdite Svoju Cestu po Vode
+  subtitle: Každý pádlař má inú predstavu o dobrodružstve. Objavte SUP Afarer navrhnutý pre váš štýl jazdenia.
+  items:
+    - title: Začiatočníci a Rekreační Pádlaři
+      keywords: nafukovací sup pre začiatočníkov, všestranný paddleboard, stabilný sup
+      description: Široké, stabilné všestranné dosky, pri ktorých sa prvý záber pádlom cíti prirodzene a ktoré rastú s vami.
+      icon: tabler:users
+      cta: Nájdite Svoju Prvú Dosku
+      link: /all-around-sup/
+    - title: Touring a Dobrodružstvo
+      keywords: touring sup, paddleboard na dlhé trate, expedičný sup
+      description: Dlhšie, užšie dosky, ktoré držia smer, kĺžu ďalej a vezú vybavenie na viacdňové trasy.
+      icon: tabler:building
+      cta: Preskúmať Touring SUPy
+      link: /touring-sup/
+    - title: Joga a Fitness
+      keywords: sup na jogu, fitness paddleboard, široký stabilný sup
+      description: Široké, stabilné plošiny s priestorom na pohyb — pre ranné flow, tréningy a rovnováhu na pokojnej vode.
+      icon: tabler:heart
+      cta: Preskúmať SUP na Jogu
+      link: /yoga-sup/
+    - title: Rybolov a Rodina
+      keywords: rybársky sup, rodinný paddleboard, stabilná rybárska plošina
+      description: Stabilné, praktické plošiny na rybolov, jazdenie s deťmi a dlhé pokojné dni na vode.
+      icon: tabler:users
+      cta: Preskúmať Rybárske SUPy
+      link: /fishing-sup/
+proof_points:
+  title: Otestované nad rámec showroomu
+  subtitle: Dizajn, výkon a kvalita, ktoré viete overiť — na vode a v číslach.
+  items:
+    - metric: 10+
+      label: Rokov navrhovania pre vodu
+      detail: Od roku 2012, zdokonaľované dosku po doske
+    - metric: 50+
+      label: Krajín na vode
+      detail: Pádlári a partneri po celom svete
+    - metric: 12–15
+      label: PSI drop-stitch jadro
+      detail: Tuhé tam, kde záleží, ľahko baliteľné
+    - metric: 100%
+      label: Tlakové testy každej dosky
+      detail: Skontrolované pred odoslaním
+business_solutions:
+  tagline: Prečo Sa Jazdí Inak
+  title: Výkon, ktorý Cítite od Prvého Záberu
+  subtitle: Štyri piliere formované skutočnou vodou — výkon, dizajn, konštrukcia a kvalita.
+  items:
+    - title: Výkon na Vode
+      description: Tvary ladené na stabilitu, kĺzavosť a istotu vo vlnách — každý záber zostáva v spojení s vodou.
+      icon: tabler:shield-check
+    - title: Výrazný Dizajn
+      description: Kolekcie inšpirované prílivom, divokou prírodou a energiou pobrežia — dosky, s ktorými chcete byť videní.
+      icon: tabler:package
+    - title: Overená Konštrukcia
+      description: Drop-stitch jadrá s vysokou hustotou, zosilnené boky a fúzne laminované švy na opakované použitie.
+      icon: tabler:headset
+    - title: Overená Kvalita
+      description: Testované tlakom, vizuálne kontrolované a kryté jasnou zárukou a pohotovým popredajným servisom.
+      icon: tabler:truck-delivery
+cta:
+  title: Nájdite svoju ďalšiu dosku.
+  subtitle: Prvý záber alebo najdlhšia trasa — dostaneme vás na vodu.
+  actions:
+    - variant: primary
+      text: Preskúmať Kolekciu
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Vyžiadať Katalóg
+      href: /resources/download-catalog/

@@ -1,0 +1,104 @@
+meta:
+  title: Afarer Şişme Paddleboard’lar | Daha uzağa git. Daha güçlü kürek çek.
+  description: Afarer şişme paddleboard’ları all-around kürek çekme, tur, yoga, balıkçılık ve açık hava maceraları için keşfedin. Size uygun SUP’ı bulun ve suda daha fazlasını keşfedin.
+  keywords:
+    - şişme paddleboard
+    - şişme sup
+    - all-around sup
+    - tur sup
+    - yoga sup
+    - balıkçılık sup
+    - aile paddleboard
+    - taşınabilir paddleboard
+hero:
+  tagline: Şişme Paddleboard’lar
+  title: Her Macera için Şişme Paddleboard’lar
+  slogan: Daha uzağa git. Daha güçlü kürek çek.
+  subtitle: Afarer ile kürek çekmenin özgürlüğünü keşfedin. Gölet başındaki huzurlu günler, kıyı maceraları, fitness ve daha fazlası için özenle tasarlanmış şişme SUP’ları keşfedin.
+  taglineSection: Güven için üretildi. Farklılaşmak için tasarlandı.
+  actions:
+    - variant: primary
+      text: Boardını Bul
+      href: /size-guide/
+      icon: tabler:compass
+    - text: SUP’ları Keşfet
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Neden Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Afarer şişme SUP’ları gün doğumunda sakin suda süzülüyor — her macera için üretildi
+who_we_serve:
+  tagline: Bizimle Kürek Çekin
+  title: Sudaki Yolunu Bul
+  subtitle: Her kürekçinin maceradan farklı bir ideası vardır. Sizin sürüşünüze uygun tasarlanmış bir Afarer SUP keşfedin.
+  items:
+    - title: Yeni Başlayanlar ve Amatör Kürekçiler
+      keywords: yeni başlayanlar için şişme sup, all-around paddleboard, stabil sup
+      description: İlk kürek çekişinizi doğal hissettiren ve gelişirken yanınızda olan geniş, stabil all-around boardlar.
+      icon: tabler:users
+      cta: İlk Boardını Bul
+      link: /all-around-sup/
+    - title: Tur ve Macera
+      keywords: tur supı, uzun mesafe paddleboard, seyahat supı
+      description: Daha uzun, daha dar, düz giden, daha uzağa gliden ve çok günlü rotalar için ekipman taşıyan boardlar.
+      icon: tabler:building
+      cta: Tur SUP’larını Keşfet
+      link: /touring-sup/
+    - title: Yoga ve Fitness
+      keywords: yoga supı, fitness paddleboard, geniş stabil sup
+      description: Hareket alanı sunan geniş, stabil platformlar — gün doğumu akışları, antrenmanlar ve sakin suda denge için.
+      icon: tabler:heart
+      cta: Yoga SUP’larını Keşfet
+      link: /yoga-sup/
+    - title: Balıkçılık ve Aile
+      keywords: balıkçılık supı, aile paddleboard, stabil balıkçılık platformu
+      description: Olta atmak, çocuklarla kürek çekmek ve suda uzun huzurlu günler için stabil, pratik platformlar.
+      icon: tabler:users
+      cta: Balıkçılık SUP’larını Keşfet
+      link: /fishing-sup/
+proof_points:
+  title: Showroom ötesinde test edildi
+  subtitle: Tasarım, performans ve kaliteyi doğrulayabilirsiniz — suda ve rakamlarda.
+  items:
+    - metric: 10+
+      label: Su için tasarım yılları
+      detail: 2012'den beri, tahta tahta geliştirildi
+    - metric: 50+
+      label: Sudaki ülkeler
+      detail: Kürekçiler ve iş ortakları dünya genelinde
+    - metric: 12–15
+      label: PSI drop-stitch çekirdek
+      detail: Gerektiği yerde rijit, katlanması kolay
+    - metric: 100%
+      label: Tahta tahta basınç testi
+      detail: Sevkiyat öncesi denetlenir
+business_solutions:
+  tagline: Neden Farklı Sürer
+  title: İlk Kürekte Hissettiğiniz Performans
+  subtitle: Gerçek sudan şekillenen dört temel — performans, tasarım, konstrüksiyon ve kalite.
+  items:
+    - title: Suda Performans
+      description: Stabilite, glidi ve dalgada güven için ayarlanmış formlar — her kürek suda bağlantıda kalır.
+      icon: tabler:shield-check
+    - title: İfade Edici Tasarım
+      description: Gelgitlerden, yaban hayattan ve kıyının enerjisinden ilham alan koleksiyonlar — görülmek istediğiniz boardlar.
+      icon: tabler:package
+    - title: Kanıtlanmış Konstrüksiyon
+      description: Yüksek yoğunluklu drop-stitch çekirdekler, takviyeli kenarlar ve tekrarlı kullanım için füzyonla lamines dikişler.
+      icon: tabler:headset
+    - title: Doğrulanmış Kalite
+      description: Basınç testli, görsel denetimli, net garanti ve hızlı satış sonrası destekle.
+      icon: tabler:truck-delivery
+cta:
+  title: Sıradaki boardınızı bulun.
+  subtitle: İlk küreğiniz ya da en uzun rotanız — sizi suya çıkarıyoruz.
+  actions:
+    - variant: primary
+      text: Koleksiyonu Keşfet
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Katalog İsteyin
+      href: /resources/download-catalog/

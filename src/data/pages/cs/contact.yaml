@@ -1,0 +1,145 @@
+meta:
+  title: 'Kontakt — dotazy na partnerství a produkty | {SITE}'
+  description: 'Kontaktujte afarera s dotazy na partnerství, co-brand a privátní značky nebo ohledně profesionálních flotil. Nafukovací značka SUP, odpovídáme do 2 pracovních dnů.'
+  keywords:
+    - 'kontakt afarer'
+    - 'nabídka pro distributora SUP'
+    - 'profesionální dodavatel SUP'
+    - 'kontakt výrobce SUP'
+hero_text:
+  tagline: Kontakt
+  title: KONTAKTUJTE NÁS
+contact_form:
+  id: form
+  title: Pošlete nám zprávu
+  subtitle: Pro poptávky, technické dotazy nebo partnerské dotazy nám napište. Odpovíme do jednoho pracovního dne.
+  email_to: info@afarer.com
+  submit_button: Odeslat poptávku → Získat nabídku
+  success_message: Děkujeme! Vaše zpráva dorazila do naší schránky. Odpovíme do jednoho pracovního dne.
+  error_message: Při odesílání zprávy došlo k chybě. Zkuste to znovu nebo nám napište přímo e-mail.
+  default_country_code: '+1'
+  captcha:
+    label: 'Ochrana proti spamu: vyřešte následující'
+  fields:
+    - name: country
+      label: Země
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: Odhadovaný objem objednávky
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: Vyberte odhadovaný objem...
+        - value: sample
+          label: Pouze vzorky / prototypy
+        - value: '5-10'
+          label: 5–10 kusů (standardní MOQ)
+        - value: '100-500'
+          label: 100–500 kusů
+        - value: '500-plus'
+          label: 500+ kusů (velkoobchodní ceny)
+      step: 1
+    - name: customization
+      label: Potřebujete úpravy?
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: Vyberte typ přizpůsobení...
+        - value: none
+          label: Standardní produkt (bez úprav na míru)
+        - value: logo
+          label: Pouze vlastní logo / branding
+        - value: full
+          label: Plný Co-Brand (velikost, barva, grafika, balení)
+        - value: consultation
+          label: Nejsem si jistý — potřebuji konzultaci
+      step: 1
+    - name: productInterest
+      label: Kategorie produktů
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: Vyberte kategorii produktu...
+        - value: all
+          label: Všechny produkty / Kompletní katalog
+        - value: sup
+          label: SUP prkna / paddleboardy
+        - value: safety
+          label: Bezpečnostní vybavení / záchranné vesty
+        - value: accessory
+          label: Příslušenství (pumpy, pádla, tašky)
+      step: 1
+    - name: firstName
+      label: Jméno
+      row: 1
+      step: 2
+    - name: lastName
+      label: Příjmení
+      row: 1
+      step: 2
+    - name: companyName
+      label: Název společnosti
+      row: 2
+      step: 2
+    - name: email
+      label: E-mail
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: Telefon
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: Adresa
+      row: 4
+      step: 2
+    - name: zip
+      label: PSČ
+      row: 5
+      step: 2
+    - name: subject
+      label: Předmět
+      row: 1
+      step: 3
+    - name: message
+      label: Zpráva
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: Další způsoby, jak nás kontaktovat
+  columns: 3
+  items:
+    - title: Prodejní dotazy
+      description: Nabídky, konfigurace, dealerské přihlášky a velkoobchodní objednávky.
+      icon: tabler:shopping-bag
+    - title: Technická podpora
+      description: Záruka, opravy, náhradní díly a provozní dotazy.
+      icon: tabler:tool
+    - title: Média a partnerství
+      description: Mediální sady, sponzoring a průmyslová spolupráce.
+      icon: tabler:news
+    - title: Telefon
+      description: +1 279 732 3333
+      icon: tabler:headset
+    - title: E-mail
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: Sídlo společnosti
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: Naše poloha
+  subtitle: Navštivte nás v našem sídle
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

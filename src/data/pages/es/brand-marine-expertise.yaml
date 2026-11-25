@@ -1,0 +1,72 @@
+meta:
+  title: 'Experiencia Marina — Ingeniería en Cada Casco | {SITE}'
+  description: 'Décadas de ingeniería marina en cada casco. afarer domina el drop stitch, el PVC marino y el diseño profesional de SUP inflables.'
+  keywords:
+    - 'ingeniería marina'
+    - 'fabricante de SUP hinchable'
+    - 'fabricación de paddle surf'
+hero:
+  tagline: Experiencia Marina
+  title: Décadas de Ingeniería Marina<br />en Cada Casco
+  subtitle: afarer combina ciencia de materiales, fabricación de precisión y pruebas reales.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: equipo de ingeniería marítima y I+D de Afarer en el trabajo
+expertise_materials:
+  tagline: Ciencia de los materiales
+  title: Elegir el Material Correcto<br />para Cada Aplicación
+  subtitle: Trabajamos con dos materiales principales – cada uno seleccionado para casos de uso específicos y requisitos de rendimiento.
+  columns: 3
+  items:
+    - title: PVC de grado marino
+      description: Tela de PVC de 1100 denier — nuestro material más versátil. Estabilizado contra UV, resistente a la abrasión y conforme con REACH. Ideal para tablas SUP donde el peso y la eficiencia de costos importan.
+      icon: tabler:droplet
+    - title: Fibra de vidrio y polietileno
+      description: SUP laminados de fibra de vidrio para rigidez y deslizamiento premium. Polietileno rotomoldeado para uso intensivo de alquiler y rescate que requiere máxima resistencia al impacto.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Capacidades de Fabricación
+  title: Fabricación de Precisión<br />en Cada Paso
+  subtitle: Nuestra instalación de 12.000 m² está equipada con maquinaria especializada.
+  columns: 2
+  items:
+    - title: Corte CNC
+      description: El corte controlado por computadora garantiza paneles precisos y repetibles.
+      icon: tabler:cpu
+    - title: Soldadura de alta frecuencia
+      description: La soldadura HF industrial crea uniones más fuertes que el material base.
+      icon: tabler:bolt
+    - title: Ensamblaje del núcleo de puntada suelta
+      description: Miles de hilos de poliéster conectan capas para inflado a alta presión (15-20 PSI).
+      icon: tabler:building-arch
+    - title: Prueba de presión
+      description: Cada producto inflable se prueba bajo presión antes del envío.
+      icon: tabler:wind
+    - title: Prueba de resistencia de costura
+      description: Muestras aleatorias se someten a pruebas destructivas de resistencia.
+      icon: tabler:files
+    - title: Pruebas de agua
+      description: Cada modelo SUP se somete a pruebas de mar antes de la certificación.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Diseño e Ingeniería
+  title: Diseñado para Condiciones Reales
+  subtitle: Nuestra filosofía de diseño comienza con cómo se usará la tabla — y luego construye la ingeniería en torno a ese caso de uso.
+  items:
+    - title: Diseño de casco de rendimiento
+      description: Cada forma de casco está ajustada a su caso de uso — proas de desplazamiento para un deslizamiento de travesía, rocker adicional para agilidad en el surf, perfiles planos y estables para pesca y yoga.
+    - title: Seguridad drop-stitch
+      description: Cada tabla cuenta con un núcleo rígido de drop-stitch con rieles reforzados. Si una sección se daña, la estructura de drop-stitch de alta tensión mantiene la tabla operativa.
+    - title: Cubierta ergonómica
+      description: La zonificación de la almohadilla de cubierta, la posición del asa de transporte y los puntos de montaje están diseñados para la comodidad del rider durante uso prolongado — ya sea en travesía, pesca o patrulla.
+    - title: Configuración Personalizada
+      description: Colores de rieles, configuración de la almohadilla de cubierta, soportes para accesorios, capacidad de carga – cada modelo puede personalizarse para adaptarse a requisitos operativos específicos.
+cta:
+  title: ¿Tiene una aplicación específica?
+  subtitle: Nuestro equipo de ingeniería asesora sobre materiales, diseño y fabricación.
+  actions:
+    - variant: primary
+      text: Pregunta a nuestros ingenieros
+      href: /contact/
+    - text: Ver gama de productos
+      href: /products/

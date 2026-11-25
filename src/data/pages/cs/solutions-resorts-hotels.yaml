@@ -1,0 +1,111 @@
+meta:
+  title: Řešení SUP flotil pro resorty | {SITE}
+  description: Kompletní řešení SUP flotil pro resorty a hotely. Komerční prkna, vlastní branding, školení personálu a balíčky optimalizované z hlediska návratnosti investic od 20 do 100+ prken.
+hero:
+  tagline: Resorty a hotely
+  title: Proměňte své pobřežní umístění v zdroj příjmů<br />s prémiovými SUP flotilami
+  subtitle: Afarer vybavuje resorty po celém světě nafukovacími SUP flotilami komerční kvality – od startovacích balíčků s 20 deskami po vlajkové programy se 100+ deskami. Přizpůsobená brandová identita, školení personálu a náhradní díly v ceně.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Hosté resortu si užívají pádlování na SUP na nedotčené pláži
+roi_section:
+  title: Model výnosů z SUP pro resorty
+  subtitle: Jak resorty generují roční příjem z pronájmu SUP ve výši $50,000 - $200,000+ jedinou investicí.
+  metrics:
+    - metric: $50K–$200K+
+      label: Roční tržby ze SUP
+      detail: Za resort, podle velikosti flotily a obsazenosti
+    - metric: 4–6 měsíců
+      label: Průměrná doba návratnosti
+      detail: Vraťte plnou investici do flotily během jedné sezóny
+    - metric: 40%
+      label: Růst tržeb
+      detail: Průměrný nárůst po přechodu na flotily Afarer
+    - metric: 500+
+      label: Počet zápůjček na prkno
+      detail: Odolnost pro komerční provoz a každodenní použití
+packages:
+  title: Systém resortních balíčků
+  subtitle: Vyberte balíček, který odpovídá vaší kapacitě hostů a příjmovým cílům. Všechny balíčky zahrnují 12měsíční záruku a certifikaci CE.
+  items:
+    - name: Startovací balíček
+      tagline: Pro boutique resorty, až 20 hostů/den
+      features:
+        - 20 SUP desek (3 velikosti pro dospělé/děti)
+        - 20 pádel (nastavitelná) + 20 záchranných vest
+        - 4 pumpy s dvojím účinkem (elektrická volitelně)
+        - 2 stojany na desky + opravná sada
+        - Vlastní tisk loga na deskách
+        - 12měsíční záruka + certifikace CE
+      revenue: Potenciál ročního výnosu $50K–$80K
+      cta_text: Získejte startovací balíček
+    - name: Prémiový balíček
+      tagline: Pro velké resorty, 50-100 hostů/den
+      features:
+        - 50 SUP desek (5 velikostí, smíšená flotila)
+        - 50 pádel + 50 záchranných vest
+        - 10 pump s dvojím účinkem + 2 elektrické pumpy
+        - 5 stojanů na desky + 2 pojízdné vozíky
+        - Kompletní přizpůsobená brandová identita (desky, pádla, tašky)
+        - Školení personálu (online)
+        - Expedice náhradních dílů do 48 hodin
+        - 12měsíční záruka + certifikace CE
+      revenue: Potenciál ročních tržeb 120 000–200 000+ USD
+      popular: true
+      cta_text: Získat prémiový balíček
+    - name: Vlajkový balíček
+      tagline: Pro ultra-premium resorty, 100+ hostů/den
+      features:
+        - 100+ SUP desek (kompletní sortiment velikostí)
+        - Kompletní sada příslušenství (pádla, vesty, pumpy, vozíky)
+        - Školení personálu na místě (2 dny)
+        - Dedikovaný account manager
+        - Náhradní díly přednostně (expedice do 24 h)
+        - Kompletní přizpůsobená brandová identita (desky + příslušenství)
+        - Marketingový balíček foto/video
+        - 24měsíční záruka + certifikace CE
+      revenue: Potenciál ročních tržeb přes 200 000 USD
+      cta_text: Získejte vlajkový balíček
+case_study:
+  quote: Od přechodu na Afarer vzrostly naše tržby z půjčovny SUP o 40 %. Náklady na výměnu prken klesly o 60 %. Investici do celé flotily jsme splatili za 4 měsíce.
+  author: Manažer vodních aktivit
+  location: 5hvězdičkový resort, Maledivy
+  results:
+    - label: Růst tržeb
+      value: +40%
+    - label: Snížení nákladů
+      value: '-60%'
+    - label: Doba návratnosti
+      value: 4 měsíce
+features:
+  title: Proč resorty volí Afarer
+  subtitle: Odolnost komerční třídy, globální logistika a partner, který rozumí pohostinství.
+  items:
+    - title: 500+ cyklů pronájmu
+      description: Každé prkno je testováno tak, aby vydrželo 500+ výpůjčních cyklů ve slané vodě, na slunci a v písku.
+      icon: tabler:shield-check
+    - title: Expedice náhradních dílů do 48 hodin
+      description: Náhradní díly expedujeme do 48 hodin — váš příjem z pronájmu se nikdy nezastaví.
+      icon: tabler:truck-delivery
+    - title: Zakázkový branding
+      description: Přizpůsobte každé prkno identitě vašeho resortu vlastními barvami a logem.
+      icon: tabler:palette
+    - title: Školení personálu
+      description: Online i prezenční školicí programy pro váš tým aktivit.
+      icon: tabler:school
+    - title: Globální logistika
+      description: Dodáváme do více než 50 zemí s možností sdružené přepravy.
+      icon: tabler:world
+    - title: Certifikace CE
+      description: Veškeré vybavení s certifikací CE a ISO 9001:2015 — bezpečnost a kvalita zaručeny.
+      icon: tabler:certificate
+cta:
+  title: Připraveni proměnit své pobřežní umístění ve zdroj příjmů?
+  subtitle: Získejte cenovou nabídku resortního balíčku nebo si stáhněte náš kompletní resortní katalog.
+  actions:
+    - text: Získat balíček pro resort
+      href: /contact/?package=resort
+      variant: primary
+    - text: Stáhnout katalog pro resorty
+      href: /resources/download-catalog/
+      variant: secondary

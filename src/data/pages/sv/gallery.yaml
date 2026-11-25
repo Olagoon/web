@@ -1,0 +1,31 @@
+meta:
+  title: 'Galleri — uppblåsbara SUP:ar | {SITE}'
+  description: 'Utforska afars galleri: bilder på uppblåsbara SUP-brädor, fabrik och produktion från vår professionella paddle board-fabrik.'
+  keywords:
+    - 'SUP-foton'
+    - 'uppblåsbar SUP galleri'
+    - 'paddle board bilder'
+    - 'uppblåsbara SUP-foton'
+hero:
+  tagline: Galleri
+  title: Galleri
+  subtitle: Produktbilder, fabriksgolv och äventyr på vattnet
+albums:
+  - title: SUP-brädor
+    desc: Uppblåsbara SUP-brädor med drop-stitch-teknik för tur, surfing, yoga och fiske.
+    images:
+      - https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      - https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+      - https://assets.afarer.com/images/afarer/hero/afarer-hero-design-concept.webp
+  - title: Fabrik och verkstad
+    desc: Vår produktionsanläggning på 12 000 m² i Qingdao, Kina.
+    images:
+      - https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+      - https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+cta:
+  title: Vill du se mer?
+  desc: Följ oss i sociala medier för att hålla dig uppdaterad om produktnyheter, fabriksuppdateringar och kundäventyr.
+  instagram: Instagram
+  youtube: YouTube

@@ -1,0 +1,50 @@
+meta:
+  title: Program de parteneri de distribuție SUP | {SITE}
+  description: Alăturați-vă rețelei globale de distribuție Afarer. Teritorii exclusive, portofoliu complet de produse, prețuri angro competitive și management de cont dedicat.
+hero:
+  tagline: Distribuitori
+  title: Alăturați-vă rețelei noastre globale<br />de distribuție
+  subtitle: Teritorii exclusive. Portofoliu complet de produse. Asistență de clasă mondială. Afarer livrează în peste 50 de țări și căutăm distribuitori consacrați din domeniul nautic și al sporturilor de apă.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Operațiunile globale de distribuție și transport Afarer
+benefits:
+  title: Ce primesc distribuitorii
+  subtitle: Tot ce aveți nevoie pentru a reuși pe piața dumneavoastră.
+  items:
+    - Drepturi exclusive de teritoriu
+    - Catalog complet de produse (SUP, accesorii, piese)
+    - Prețuri en-gros competitive
+    - Materiale de marketing și vânzări (traduse)
+    - Program de instruire (produs, vânzări, întreținere)
+    - Suport pentru participarea la târguri
+    - Program de mostre
+    - Capacitate de drop-shipping
+    - Manager de cont dedicat pentru distribuitori
+    - Condiții de plată la 45-60 de zile
+coverage:
+  title: Distribuția actuală
+  subtitle: Afarer deservește în prezent aceste piețe în mod direct.
+  regions:
+    - name: Europa
+      countries: Franța, Germania, Regatul Unit, Spania, Italia, Țările de Jos, Suedia, Norvegia, Polonia, Grecia
+    - name: Asia
+      countries: Japonia, Coreea de Sud, China, Thailanda, Singapore
+    - name: Orientul Mijlociu
+      countries: UAE, Arabia Saudită
+    - name: Americi
+      countries: SUA, Canada, Brazilia, Mexic
+    - name: Oceania
+      countries: Australia, Noua Zeelandă
+    - name: Africa
+      countries: Africa de Sud, Maroc
+cta:
+  title: Pregătiți să deveniți distribuitor?
+  subtitle: Aplică pentru programul nostru de distribuție sau descarcă kitul nostru informativ pentru distribuitori.
+  actions:
+    - text: Aplicați pentru Programul de Distribuitor
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Descarcă Kitul de Distribuitor
+      href: /resources/download-catalog/
+      variant: secondary

@@ -1,0 +1,176 @@
+meta:
+  title: 'Academia — ghiduri SUP și antrenament de vâslit | {SITE}'
+  description: 'Academia afarer: ghiduri pentru paddle board-uri gonflabile, tehnici stand up paddle, siguranță nautică și cunoștințe despre materiale pentru începători și profesioniști.'
+  keywords:
+    - 'învățați stand up paddle'
+    - 'ghid SUP pentru începători'
+    - 'bazele paddle board-ului'
+    - 'tehnici SUP'
+    - 'lecții SUP'
+hero:
+  tagline: afarer Academy
+  title: Centru de învățare
+  subtitle: Ghiduri și tutoriale pentru orice nivel de experiență — de la noțiunile de bază despre SUP la tehnici avansate de salvare
+categories:
+  - level: Începător
+    color: from-green-500 to-emerald-600
+    badge: bg-green-100 text-green-700
+    guides:
+      - title: Bazele SUP
+        desc: Învață fundamentele stand-up paddleboarding — postura, tehnica vâslirii și echilibrul.
+        slug: beginner-sup-guide
+      - title: Tehnici de vâslit
+        desc: Vâslirea înainte, vâslirea circulară, vâslirea de tragere și sprijinul jos — stăpânește mișcările esențiale de vâslit.
+        slug: sup-paddle-guide
+      - title: Siguranța pe primul loc
+        desc: Practici esențiale de siguranță, inclusiv verificarea condițiilor meteo, utilizarea dispozitivelor de flotabilitate (PFD), regulile lesei de siguranță și auto-salvarea.
+        slug: sup-safety-guide
+  - level: Intermediar
+    color: from-blue-500 to-indigo-600
+    badge: bg-blue-100 text-blue-700
+    guides:
+      - title: Esențiale pentru touring
+        desc: Planificarea sesiunilor de vâslit de mai multe ore — navigație, hidratare, ritm și citirea prognozelor meteo.
+        slug: touring-sup-guide
+      - title: Lectura condițiilor meteo
+        desc: Interpretați prognozele marine, identificați tiparele norilor și înțelegeți efectele vântului asupra apei.
+        slug: weather-planning-water-sports
+      - title: Elemente de bază pentru navigație
+        desc: Citirea hărților, utilizarea busolei, punctele de traseu GPS și planificarea rutei pentru canotajul de coastă.
+        slug: sup-navigation-guide
+      - title: Conștientizarea mareelor
+        desc: Înțelegerea ciclurilor mareelor, a curenților și a modului în care acestea influențează momentul lansării și ruta.
+        slug: understanding-tides
+  - level: Avansat
+    color: from-purple-500 to-violet-600
+    badge: bg-purple-100 text-purple-700
+    guides:
+      - title: Planificarea excursiilor de mai multe zile
+        desc: Logistica expedițiilor — selecția echipamentului, planificarea alimentației, protocoalele de siguranță și contactele de urgență.
+        slug: sup-travel-guide
+      - title: Tehnici de salvare
+        desc: Protocoale de auto-salvare, salvare tip T și remorcare pentru ape deschise.
+        slug: sup-self-rescue
+      - title: Vâslit pe timp de noapte
+        desc: Navigarea pe întuneric — cerințe de iluminare, memorarea traseului, comunicarea în grup și conștientizarea pericolelor.
+        slug: ocean-safety-basics
+  - level: Întreținere
+    color: from-amber-500 to-orange-600
+    badge: bg-amber-100 text-amber-700
+    guides:
+      - title: Curățare și Întreținere
+        desc: Clătire cu apă dulce, protecție UV, prevenirea mucegaiului și tehnici corecte de uscare după fiecare sesiune.
+        slug: inflatable-sup-maintenance
+      - title: Ghid de depozitare
+        desc: Cele mai bune practici pentru depozitarea plăcilor SUP gonflabile — deflație, pliere, controlul temperaturii și durata de viață.
+        slug: inflatable-sup-storage
+      - title: Bazele reparațiilor
+        desc: Reparați perforațiile mici, scurgerile de la cusături și problemele cu supapele cu ajutorul kiturilor de reparare PVC și al tehnicilor de plasturi.
+        slug: inflatable-sup-repair
+      - title: Întreținerea supapelor
+        desc: Identificați tipurile de supape (Halkey-Roberts, Boston, Leafield), curățați resturile și înlocuiți tijele defecte.
+        slug: sup-pump-guide
+knowledge_center_tagline: Centru de cunoștințe
+knowledge_center_title: Echipamente marine & ghiduri din industrie
+knowledge_center_subtitle: Cunoștințe de specialitate și ghiduri de achiziție pentru profesioniști din domeniul marin, operatori de flote și pasionați de sporturi nautice.
+knowledge_sections:
+  - title: Cunoștințe despre plăcile SUP
+    tagline: Ghiduri pentru stand-up paddleboard
+    desc: Totul despre plăcile SUP — design, materiale, alegerea dimensiunii, întreținere și sfaturi de achiziție pentru uz recreațional și comercial.
+    guides:
+      - title: Cum să alegi placa SUP potrivită
+        desc: Ghid complet pentru selectarea unui SUP — dimensiune, volum, material, formă și utilizare prevăzută.
+        href: /learn/sup/
+      - title: SUP gonflabil vs. SUP rigid
+        desc: SUP gonflabil vs. placă rigidă din epoxy — portabilitate, durabilitate, performanță și valoare, comparate.
+        href: /compare/inflatable-vs-hardboard/
+      - title: SUP All-Around vs. Touring vs. Yoga
+        desc: Diferite tipuri de plăci SUP — standarde de construcție, forme, dimensiuni și utilizări recomandate.
+        href: /learn/sup/
+      - title: Construcție Drop-Stitch vs. construcție tradițională
+        desc: Comparați construcția drop-stitch cu cea tradițională pentru plăcile SUP în ceea ce privește greutatea, costul, durabilitatea și rigiditatea.
+        href: /learn/drop-stitch-core/
+  - title: Ghid SUP gonflabil
+    tagline: Cunoștințe despre SUP-urile gonflabile
+    desc: Ghiduri complete despre SUP-urile gonflabile — materiale PVC, construcție drop-stitch, standarde de siguranță și cele mai bune practici de întreținere.
+    guides:
+      - title: Ghidul materialelor PVC
+        desc: Ghid definitiv privind materialele PVC utilizate la fabricarea plăcilor SUP gonflabile.
+        href: /learn/materials/
+      - title: Cum sunt fabricate plăcile SUP gonflabile
+        desc: Procesul de fabricație — tăierea materialului, lipirea miezului drop-stitch, construcția cusăturilor, testarea la presiune și controlul calității.
+        href: /learn/inflatable-technology/
+      - title: Ghidul de siguranță SUP
+        desc: Standarde de siguranță, capacitate de încărcare, umflare corectă, verificări înainte de plecare și proceduri de urgență.
+        href: /learn/water-safety/
+      - title: Întreținerea plăcilor SUP
+        desc: Curățare, depozitare, protecție UV și reparații pentru plăcile SUP gonflabile.
+        href: /v2/inflatable-sup-maintenance/
+  - title: Cunoștințe despre plăcile SUP
+    tagline: Centru de plăci SUP
+    desc: Ghiduri tehnice despre tipurile de plăci SUP, materiale, metode de construcție, întreținere și siguranță.
+    guides:
+      - title: Tipuri de plăci SUP
+        desc: SUP-uri all-around, de turism, pentru yoga, sport și copii — aflați diferențele și alegeți modelul potrivit.
+        href: /learn/sup/
+      - title: Tehnologia Drop-Stitch
+        desc: Cum mii de fibre interne creează structuri gonflabile rigide, de înaltă presiune.
+        href: /learn/drop-stitch-core/
+      - title: Referință materiale
+        desc: Valorile denier ale PVC-ului, greutățile materialului, rezistența la UV și materialele de calitate marină, explicate.
+        href: /learn/materials/
+      - title: Ghid de achiziție SUP
+        desc: Comparați diferite tipuri de plăci SUP pentru diferite utilizări și niveluri de experiență.
+        href: /learn/sup/
+  - title: Cunoștințe despre SUP
+    tagline: Ghiduri pentru stand-up paddleboard
+    desc: Totul despre plăcile SUP — gonflabile vs rigide, dimensiunile plăcilor, tehnologia materialelor și sfaturi de specialitate pentru toate nivelurile de experiență.
+    guides:
+      - title: SUP gonflabil vs. SUP rigid
+        desc: Comparați plăcile iSUP cu plăcile rigide din epoxy în privința portabilității, durabilității, performanței și a raportului calitate-preț.
+        href: /learn/sup/
+      - title: Ghidul dimensiunilor plăcilor SUP
+        desc: Cum influențează lungimea, lățimea și grosimea stabilitatea, viteza și manevrabilitatea.
+        href: /learn/sup/
+      - title: Întreținerea și îngrijirea SUP
+        desc: Curățare, depozitare, protecție UV și sfaturi de reparații pentru plăcile SUP gonflabile.
+        href: /v2/inflatable-sup-maintenance/
+      - title: Alegerea primului tău SUP
+        desc: Ghid pentru începători privind alegerea paddleboard-ului potrivit în funcție de greutatea dumneavoastră, nivelul de îndemânare și utilizarea prevăzută.
+        href: /learn/sup/
+  - title: Ghid pentru operațiunile de închiriere
+    tagline: Gestionarea flotei pentru afacerile de închiriere
+    desc: Ghiduri pentru construirea și gestionarea flotelor de închiriere SUP pentru chioșcuri de plajă, centre de sporturi acvatice și unități hoteliere.
+    guides:
+      - title: Construirea flotei dvs. de închiriere
+        desc: Cum să alegeți plăcile SUP potrivite pentru afacerea dumneavoastră de închirieri — durabilitate, dimensiuni și considerații legate de ROI.
+        href: /solutions/rental-operators/
+      - title: Ghid de întreținere a flotei
+        desc: Practici esențiale de întreținere pentru a maximiza durata de viață a plăcilor și a minimiza timpul de nefuncționare pentru flotele de închirieri.
+        href: /solutions/rental-operators/
+  - title: Ghid pentru stațiuni și ospitalitate
+    tagline: Activități acvatice pentru industria hotelieră
+    desc: Ghiduri pentru lansarea și gestionarea programelor de SUP în stațiuni, hoteluri și destinații de pe malul apei.
+    guides:
+      - title: Pornirea unui program SUP pentru stațiuni
+        desc: Factori de luat în considerare la lansarea activităților SUP pentru oaspeți — dimensiunea flotei, personalul și modelarea veniturilor.
+        href: /solutions/resorts-hotels/
+      - title: SUP vs. alte activități acvatice
+        desc: Compară programele SUP cu alte sporturi acvatice pentru experiența oaspeților și eficiența operațională.
+        href: /learn/sup/
+  - title: Ghid de retail și distribuție
+    tagline: Parteneriate de afaceri SUP
+    desc: Ghiduri despre cum să deveniți partener retail sau distribuitor SUP — planificarea stocurilor, poziționarea pe piață și strategii de creștere.
+    guides:
+      - title: Cum să deveniți retailer SUP
+        desc: Cum să alegeți gamele de produse, să gestionați stocurile și să promovați plăcile SUP în magazinul dumneavoastră.
+        href: /solutions/retail-partners/
+      - title: SUP pentru operațiuni comerciale
+        desc: De ce plăcile SUP gonflabile sunt un produs versatil pentru flote comerciale, afaceri de închiriere și operatori profesioniști.
+        href: /solutions/rental-operators/
+read_guide: Citiți ghidul →
+cta:
+  title: Nu sunteți sigur de unde să începeți?
+  desc: Realizați testul nostru de evaluare a nivelului pentru a găsi ghidurile și echipamentul potrivite nivelului dvs.
+  label: Contactați-ne →
+  link: /contact/

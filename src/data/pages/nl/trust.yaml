@@ -1,0 +1,180 @@
+meta:
+  title: 'Vertrouwen — Kwaliteit, Normen & Reputatie | {SITE}'
+  description: "Waarom afarer vertrouwen: CE- en ISO-certificeringen, geïntegreerde fabriek, wereldwijde referenties en garantie. Een professionele fabrikant van opblaasbare SUP's."
+  keywords:
+    - 'betrouwbare SUP-fabrikant'
+    - 'gecertificeerde paddle board fabriek'
+    - 'betrouwbare SUP-leverancier'
+    - 'gecertificeerde SUP-fabriek'
+hero:
+  tagline: Gebouwd volgens normen die ertoe doen
+  title: Vertrouw afarer
+  subtitle: |
+    Elk product dat we bouwen is CE-gecertificeerd — getest op veiligheid,<br />
+    duurzaamheid en prestaties. Geen shortcuts. Geen uitzonderingen.
+  taglineSection: Gecertificeerd. Getest. Bewezen.
+  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+  imageAlt: afarer product ondergaat kwaliteitstesten
+stats:
+  title: afarer in cijfers
+  stats:
+    - title: CE-gecertificeerd
+      description: Alle recreatieve producten voldoen aan EU-veiligheidsnormen
+    - title: ISO 9001
+      description: Kwaliteitsmanagementsysteem sinds 2012
+    - title: BSCI & REACH
+      description: Ethische productie en materiaalconformiteit
+    - title: 3 Jaar Garantie
+      description: Op elk afarer product — geen vragen gesteld
+features3_certifications:
+  title: Certificeringen & Conformiteit
+  subtitle: Elk product wordt onafhankelijk getest en gecertificeerd volgens internationale normen.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: CE-certificering
+      description: Alle afarer SUPs voldoen aan de Europese CE-veiligheidsnorm voor recreatieve vaartuigen. Elk product ondergaat druk-, drijfvermogen- en belastingtests voordat het de fabriek verlaat.
+      icon: tabler:certificate
+    - title: ISO 9001
+      description: Onze 12.000 m² faciliteit in Qingdao werkt onder een kwaliteitsmanagementsysteem volgens ISO 9001. Elke productiebatch is traceerbaar, gedocumenteerd en geïnspecteerd.
+      icon: tabler:clipboard-check
+    - title: BSCI Sociale Conformiteit
+      description: We zijn BSCI-gecertificeerd en waarborgen ethische arbeidspraktijken, veilige werkomstandigheden en milieuverantwoordelijkheid in onze hele toeleveringsketen.
+      icon: tabler:users
+    - title: REACH & RoHS
+      description: Alle materialen — PVC, EVA-schuim, lijmen — voldoen aan EU REACH- en RoHS-regelgeving. Geen verboden stoffen, geen compromissen.
+      icon: tabler:flask
+    - title: Materiaal Testlab
+      description: Ons interne laboratorium test treksterkte, UV-bestendigheid, naadintegriteit en slijtvastheid voor elke stofbatch vóór productie.
+      icon: tabler:microscope
+    - title: 3 Jaar Garantie
+      description: Elk afarer product wordt geleverd met een driejarige garantie tegen productiefouten. We staan achter wat we bouwen.
+      icon: tabler:shield-check
+testimonials:
+  tagline: Klantvertrouwen
+  title: Wat onze klanten zeggen
+  subtitle: Van beginnende peddelaars tot professionele vlootbeheerders — zie waarom ze afarer vertrouwen.
+  items:
+    - content: We hebben onze hele verhuurvloot uitgerust met afarer SUPs. Twee seizoenen, nul storingen. De CE-certificering maakte verzekeringsgoedkeuring naadloos.
+      name: Marco V.
+      title: Tourist operator, Kroatië
+    - content: Als eerste koper was ik bezorgd over kwaliteit. De ISO-documentatie en testrapporten die ze deelden gaven me volledig vertrouwen.
+      name: James T.
+      title: SUP Explorer 11 eigenaar, Canada
+    - content: We werken met afarer voor onze kustpatrouille-eenheden. Hun QC-proces is consistent over elke batch — die betrouwbaarheid telt in missie-kritieke operaties.
+      name: Lt. Cmdr. Andres
+      title: Overheidsinkoop, Filipijnen
+steps2_manufacturing:
+  title: Hoe we kwaliteit waarborgen
+  subtitle: Van grondstoffinspectie tot de uiteindelijke druktest — elk product doorloopt een rigoureuze kwaliteitsketen.
+  items:
+    - title: Grondstoffinspectie
+      description: Elke rol PVC-stof wordt getest op dikte, treksterkte en UV-bestendigheid voordat het in productie gaat.
+      icon: tabler:search
+    - title: Proces-QC
+      description: Lasnaden, klepinstallaties en kamerverbindingen worden bij elk station geïnspecteerd tijdens montage.
+      icon: tabler:eye
+    - title: Druktest
+      description: Elk opblaasbaar product wordt opgeblazen tot 1,25x de nominale PSI en 24–48 uur vastgehouden om luchtdichtheid en naadintegriteit te verifiëren.
+      icon: tabler:wind
+    - title: Eindinspectie
+      description: Elke eenheid wordt geïnspecteerd op afwerking, beslag en verpakking voordat het wordt goedgekeurd voor verzending. Batchmonsters gaan naar het lab voor destructieve tests.
+      icon: tabler:clipboard-check
+factory_audit:
+  title: Fabrieksaudit & Sociale Naleving
+  subtitle: Onze faciliteit van 12.000 m² in Qingdao staat open voor audits door derden. We behouden BSCI-certificering voor sociale naleving en verwelkomen klantinspecties.
+  stats:
+    - value: 12.000 m²
+      label: Productiefaciliteit
+    - value: '200+'
+      label: Vakbekwame Werknemers
+    - value: '15.000+'
+      label: Jaarlijkse eenheidscapaciteit
+    - value: BSCI
+      label: Sociale naleving
+  highlights:
+    - title: BSCI Gecertificeerd
+      desc: amfori BSCI sociale nalevingscertificering — ethische arbeid, veilige omstandigheden, milieubewustzijn.
+      link: /certifications/
+    - title: Open voor inspectie
+      desc: We verwelkomen klantfabriekinspecties. Plan een bezoek of virtuele rondleiding van onze productielijnen in Qingdao.
+      link: /factory/
+    - title: Volledige traceerbaarheid
+      desc: Elke productiebatch wordt gedocumenteerd en is traceerbaar — van de lotnummers van grondstoffen tot de definitieve kwaliteitscontrolegoedkeuring.
+    - title: ISO 9001:2015
+      desc: Kwaliteitsmanagementsysteem gecertificeerd door SGS. Onze processen voldoen aan internationale productienormen.
+      link: /certifications/
+warranty_section:
+  title: Garantie & Klantenservice na aankoop
+  subtitle: We staan achter elk product met duidelijke garantievoorwaarden, snelle afhandeling van claims en echte vervangingsonderdelen.
+  items:
+    - title: 3 jaar productgarantie
+      desc: Alle Afarer-producten hebben een garantie van 3 jaar tegen fabricagefouten — het falen van naden, klepdefecten en het loslaten van materiaal bij normaal gebruik.
+    - title: Levenslange onderdelenondersteuning
+      desc: Echte vervangingsonderdelen — kleppen, reparatiesets, vinnen, D-ringen — beschikbaar voor alle modellen. We behouden mallen en gereedschappen gedurende minimaal 5 jaar na het einde van de productie.
+    - title: 48-Uurs claimreactie
+      desc: Garantiekwesties worden binnen 48 uur erkend. Vervangende borden worden binnen 10 werkdagen verzonden voor goedgekeurde claims.
+    - title: Globaal Reparatienetwerk
+      desc: Geautoriseerde reparatiecentra in 15 landen. Reparatiesets voor veldwerk beschikbaar voor operaties op afstand. Doe-het-zelf reparatiehandleidingen voor kleine schade.
+    - title: OEM Klantenservice
+      desc: Toegewijde accountmanagers voor B2B-partners. Kwartaalreviews van de bedrijfsvoering, voorraadsplanning en co-branded marketingondersteuning.
+    - title: Certificeringspakket
+      desc: Volledige nalevingsdocumentatie wordt bij elke verzending geleverd — CE-verklaring, testrapporten, veiligheidsinformatiebladen van materialen.
+      link: /contact/
+trust_resources:
+  title: Vertrouwensbronnen
+  subtitle: Download ons certificeringsportfolio, QC-rapporten en nalevingsdocumentatie.
+  items:
+    - title: Certificeringsportfolio
+      desc: CE-, ISO 9001-, BSCI-, REACH-, RoHS- en AS 1799-certificaten in één pakket.
+    - title: QC-testnormenrapport
+      desc: 24–48-uurs drukvastheidstests, UV-veroudering volgens ISO, treksterktevalidatie — complete methodologie.
+    - title: Fabrieksprofiel & Auditrapport
+      desc: Overzicht van een faciliteit van 12.000 m² met foto’s van de productielijn en samenvatting van een audit door derden.
+    - title: Garantiebeleid Document
+      desc: Volledige garantievoorwaarden, claimproces en prijzen van vervangingsonderdelen.
+  cta_text: Verzoek vertrouwensbronnen
+  cta_link: /contact/
+faqs_sup:
+  title: SUP Board FAQ
+  subtitle: Veelgestelde vragen over onze stand-up paddle boards.
+  columns: 2
+  items:
+    - title: Welke SUP board maten zijn beschikbaar?
+      description: We bieden SUP boards van 9 ft tot 12 ft, inclusief all-round, touring, yoga en speciale ontwerpen. Onze bestverkochte modellen zijn de Tropical Breeze (10 ft) en Ocean Voyager (11 ft).
+    - title: Wat is drop-stitch constructie?
+      description: Drop-stitch constructie gebruikt duizenden polyesterdraden die de bovenste en onderste lagen van het board verbinden, waardoor het hoge luchtdruk (15–20 PSI) kan vasthouden en een stijf, stabiel platform biedt. Dit is de industrienorm voor premium opblaasbare SUPs.
+    - title: Wat is de gewichtslimiet voor SUP boards?
+      description: Onze SUP boards ondersteunen tot 150 kg, afhankelijk van het model en volume. De Leviathan Wake is ons model met de hoogste capaciteit, ontworpen voor grotere rijders en yogagebruik.
+    - title: Bieden u complete SUP-pakketten?
+      description: Ja. Elk SUP board wordt geleverd met een compleet pakket inclusief een 3-delige aluminium peddel, hogedruk handpomp, spiraallijn, reisrugzak en reparatieset. Sommige modellen bevatten ook een verwijderbare vinenset.
+    - title: Wat is de garantie op SUP boards?
+      description: Alle afarer SUP boards hebben een driejarige garantie tegen productiefouten, inclusief naadfalen, klepdefecten en materiaaldelaminatie onder normaal gebruik.
+    - title: Hoe lang duurt het om een SUP board op te blazen?
+      description: Met de meegeleverde handpomp duurt een volledige inflatie tot 15 PSI ongeveer 8–12 minuten. Voor snellere inflatie raden we onze afarer 12V elektrische pomp aan, die een board in minder dan 4 minuten ophlaast.
+faqs_materials:
+  title: SUP Materiaal & Verzorging Veelgestelde Vragen
+  subtitle: Veelgestelde vragen over onze opblaasbare SUP-materialen, verzorging en opslag.
+  columns: 2
+  items:
+    - title: Welke materialen worden gebruikt in Afarer opblaasbare SUP's?
+      description: We gebruiken PVC van militaire kwaliteit (1100 denier) met UV-gestabiliseerde, slijtvaste constructie, in overeenstemming met EU REACH- en RoHS-regelgeving.
+    - title: Hoe lang gaan opblaasbare SUP's mee?
+      description: Bij goed onderhoud gaat een kwalitatieve PVC-opblaasbare SUP 5–10 jaar mee. Regelmatig schoonmaken, UV-bescherming en correcte opslag verlengen de levensduur aanzienlijk.
+    - title: Welk onderhoud is vereist voor een opblaasbare SUP?
+      description: Basisonderhoud omvat het spoelen met schoon water na elk gebruik (vooral in zout water), drogen voor opslag, jaarlijks controleren van de klepafdichtingen en het vermijden van langdurige blootstelling aan de zon wanneer het niet in gebruik is.
+    - title: Kunnen opblaasbare SUP's in zout water worden gebruikt?
+      description: Ja. Alle Afarer opblaasbare SUP's zijn ontworpen voor gebruik in zowel zoet- als zoutwater. We raden aan om na blootstelling aan zout water af te spoelen met zoet water en grondig te laten drogen.
+    - title: Hoe bewaar ik een opblaasbare SUP?
+      description: Laat de plank volledig leeglopen, schoonmaken en drogen voordat u deze opbergt. Rol losjes op (vermijd strakke vouwen), bewaar op een koele, droge plaats uit direct zonlicht en houd van betonnen vloeren om vochtopname te voorkomen.
+    - title: Wat is de draagkracht van Afarer opblaasbare SUP's?
+      description: Het gewichtscapaciteit varieert van 100 kg voor onze kleinste modellen tot meer dan 200 kg voor grotere boards. Op elke productpagina staat de maximale draagkracht voor uw specifieke model vermeld.
+cta:
+  title: Wilt u de certificeringen zelf zien?
+  subtitle: Vraag onze certificeringsportfolio, fabrieksauditrapporten of materiaalconformiteitsdocumentatie aan. Geen NDA vereist.
+  actions:
+    - variant: primary
+      text: Vraag certificeringsdocumenten aan
+      href: /contact/
+    - text: Bezoek onze fabriekspagina
+      href: /factory/

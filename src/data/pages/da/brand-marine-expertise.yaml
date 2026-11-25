@@ -1,0 +1,72 @@
+meta:
+  title: 'Marin Ekspertise — Teknik i hvert skrog | {SITE}'
+  description: 'Årtiers marinteknik i hvert skrog. afarer mestrer drop stitch, marint PVC og professionelt design af oppustelige SUP-brædder.'
+  keywords:
+    - 'marinteknik'
+    - 'producent af oppustelige SUP'
+    - 'paddle board produktion'
+hero:
+  tagline: Marin ekspertise
+  title: Årtiers marineingeniørarbejde<br />i hvert skrog
+  subtitle: afarer kombinerer dyb materialvidenskab, præcisionsfremstilling og virkelighedstestning for at producere fartøjer, der yder når det tæller.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: afarers marine engineering- og R&D-team i arbejde
+expertise_materials:
+  tagline: Materialevidenskab
+  title: Vælg det rigtige materiale<br />til hver anvendelse
+  subtitle: Vi arbejder med to kernematerialer — hver valgt til specifikke anvendelsestilfælde og ydelseskrav.
+  columns: 3
+  items:
+    - title: PVC af marinekvalitet
+      description: 1100 denier PVC-stof — vores mest alsidige materiale. UV-stabiliseret, slidstærkt og REACH-compliant. Ideelt til SUP-brætter, hvor vægt og omkostningseffektivitet er vigtig.
+      icon: tabler:droplet
+    - title: Fiberglas og polyethylen
+      description: Fiberglaslaminerede SUP'er til premiumstivhed og glide. Rotationsstøbt polyethylen til krævende udlejnings- og redningsbrug, der kræver maksimal stødbestandighed.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Produktionskapacitet
+  title: Præcisionsfremstilling<br />ved hvert trin
+  subtitle: Vores 12.000 m² facilitet er udstyret med specialiseret maskineri til hvert produktionstrin.
+  columns: 2
+  items:
+    - title: CNC-skæring
+      description: Computerstyret skæring sikrer præcise, gentagelige stofpaneler med minimalt spild. Hvert stykke passer nøjagtigt som designet.
+      icon: tabler:cpu
+    - title: Højfrekvenssvejsning
+      description: Industriel HF-svejsning skaber sømme stærkere end basismaterialet. Konsekvent temperatur- og trykkontrol sikrer lufttætte forseglinger på tværs af hver produktionskørsel.
+      icon: tabler:bolt
+    - title: Samling af drop stitch-kerner
+      description: Tusindvis af polyestertråde forbinder øvre og nedre stoflag, hvilket muliggør højtryksoppustning (15-20 PSI) til stive, stabile SUP-brædder.
+      icon: tabler:building-arch
+    - title: Tryktestning
+      description: Hvert oppusteligt produkt trykprøves før forsendelse. Boards testes ved 1,25x nominelt tryk — hvis det holder der, vil det præstere på vandet.
+      icon: tabler:wind
+    - title: Test af sømstyrke
+      description: Tilfældige prøver fra hver produktionsbatch gennemgår destruktiv sømstyrketestning. Resultater logges og kan spores til specifikke produktionskørsler.
+      icon: tabler:files
+    - title: Vandtest
+      description: Hver SUP-model gennemgår søprøver før certificering. Virkelighedstestning i kystforhold validerer ydelse, håndtering og stabilitet.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Design & engineering
+  title: Konstrueret til virkelige forhold
+  subtitle: Vores designfilosofi starter med, hvordan boardet skal bruges — derefter bygger vi konstruktionen omkring det anvendelsestilfælde.
+  items:
+    - title: Ydelsesoptimeret skrogdesign
+      description: Hver skrogform er afstemt til sit anvendelsestilfælde — fortrængningsstævn til touring-glide, ekstra rocker til surf-bevægelighed, flade stabile profiler til fiskeri og yoga.
+    - title: Drop-stitch-sikkerhed
+      description: Hvert board har en stiv drop-stitch-kerne med forstærkede rælinger. Hvis en sektion beskadiges, holder den højtrækstærke drop-stitch-struktur boardet operativt.
+    - title: Ergonomisk dækslayout
+      description: Dækpudezonering, bærehåndtagets placering og monteringspunkter er designet omkring rytterens komfort under længere tids brug — hvad enten det er touring, fiskeri eller patruljering.
+    - title: Specialtilpasset konfiguration
+      description: Rælingsfarver, dækpudekonfiguration, tilbehørsbeslag, udstyrskapacitet — hver model kan tilpasses til at matche specifikke operationelle krav.
+cta:
+  title: Har du en specifik applikation i tankerne?
+  subtitle: Vores ingeniørteam kan rådgive om materialvalg, design og fremstilling til dit projekt.
+  actions:
+    - variant: primary
+      text: Spørg vores ingeniører
+      href: /contact/
+    - text: Se produktsortimentet
+      href: /products/

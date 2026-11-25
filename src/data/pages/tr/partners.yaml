@@ -1,0 +1,72 @@
+meta:
+  title: 'Ortaklar — Dağıtım ve toptan satış | {SITE}'
+  description: 'afarer ortağı olun: distribütör ağları, toptan fiyatlar, OEM/özel etiket programları ve dünya genelindeki paddle board şirketleri için destek.'
+  keywords:
+    - 'SUP dağıtım ortağı'
+    - 'paddle board toptan'
+    - 'şişme SUP distribütörü'
+    - 'SUP ortaklığı'
+hero:
+  tagline: Ortaklar ve Dağıtım
+  title: Daha Uzak Bir İş Ortağı Olun<br />— Küresel Dağıtım Ağı
+  subtitle: Afarer'in küresel ortak ağına katılın. 50'den fazla ülkede denizcilik distribütörleri, kürek sporları bayileri, ekipman perakendecileri ve marka ortaklarıyla çalışıyoruz.
+  image:
+    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
+    alt: afarer küresel partner ve distribütör ağı
+content_programs:
+  tagline: Ortak Programları
+  title: İş Ortağı Programları<br />Büyümeye Yönelik Geliştirildi
+  subtitle: İster distribütör, ister bayi, ister marka ortağı olun, afarer işinizi desteklemek için tasarlanmış programlar sunar.
+  columns: 3
+  items:
+    - title: Distributor Programı
+      description: Toplu fiyatlandırma, pazarlama desteği ve doğrudan fabrika erişimi ile özel bölge dağıtımı. Bölge büyüklüğüne göre gereken minimum taahhüt.
+      icon: tabler:world
+    - title: Bayi Programı
+      description: Perakende satış noktaları ve çevrimiçi mağazalar için doğrudan bayi fiyatlandırması, ürün eğitimi, pazarlama materyalleri ve garanti desteği.
+      icon: tabler:building-store
+    - title: OEM/ODM Ortaklığı
+      description: Özel markalama, paketleme ve ürün özellikleriyle tam hizmet OEM ve ODM üretimi. Konseptten konteynere.
+      icon: tabler:certificate
+    - title: Marka Ortaklığı
+      description: Denizcilik ve açık hava rekreasyon alanlarında yerleşik markalar için ortak markalama, özel etiket ve özel model programları.
+      icon: tabler:stars
+    - title: Devlet ve Kurumsal
+      description: Devlet kurumları, sahil güvenlik, askeri ve insani kuruluşlar için tercih edilen tedarikçi programları. İhaleye hazır belgeler.
+      icon: tabler:building-community
+    - title: Tatil Köyü ve Kiralama Ortağı
+      description: Dünya çapındaki tatil köyleri, dalış merkezleri ve kiralama operasyonları için filo fiyatlandırması, tutarlı kalite ve özel markalama.
+      icon: tabler:sun
+content_benefits:
+  tagline: Neden Bizimle Ortak Olmalısınız?
+  title: İş Ortakları Neden Daha Uzakları Seçiyor?
+  subtitle: Ortaklarımız gerçek üretim kapasitesinden, tutarlı kaliteden ve hızlı yanıt veren destekten yararlanır.
+  list:
+    - 'Doğrudan Fabrika Erişimi: Üretim ekibimizle doğrudan çalışın — aracı yok. Daha hızlı yanıtlar, daha iyi fiyatlandırma ve üretime tam görünürlük.'
+    - 'Özelleştirmeye Hazır: Ürünlerinizi özel renkler, logolar, ambalaj ve teknik özelliklerle markalayın. Pazarınıza uygun minimum sipariş miktarları.'
+    - 'Kalite Garantisi: CE, UKCA ve BSCI uyumlu ISO 9001 sertifikalı üretim. Her ürün sevk öncesi test edilir.'
+    - "Küresel Lojistik: Çin'den Qingdao'dan FOB, CIF ve DDP seçenekleriyle sevkiyat. Kuzey Amerika dağıtımı için ABD'de Montclair, CA'da depo."
+    - 'Pazarlama Desteği: Satış çabalarınızı destekleyen ürün katalogları, fotoğrafçılık, teknik dokümantasyon ve dijital varlıklar.'
+    - 'Eğitim ve Destek: Satış ekibiniz için ürün eğitimi, müşterileriniz için teknik destek ve garanti hizmeti koordinasyonu.'
+content_process:
+  tagline: Nasıl Ortak Olunur?
+  title: Basit Ortaklık Süreci
+  subtitle: Ortaklık sürecimiz basittir; daha uzaktaki ürünleri hızlı bir şekilde satmanızı sağlamak için tasarlanmıştır.
+  items:
+    - title: 'Adım 1: Başvuru Gönderin'
+      description: İş ortağı başvuru formumuzu şirket profiliniz, hedef pazarınız ve ürün ilgi alanlarınızla doldurun.
+    - title: '2. Adım: Nitelendirme İncelemesi'
+      description: Ortaklık ekibimiz başvurunuzu inceler ve fırsatları görüşmek üzere 3 iş günü içinde sizinle iletişime geçer.
+    - title: '3. Adım: Anlaşma ve Kurulum'
+      description: Bir ortaklık sözleşmesi imzalayın, hesabınızı oluşturun ve iş ortağı fiyatlarını, pazarlama materyallerini ve ürün örneklerini alın.
+    - title: 'Adım 4: Eğitim ve Lansman'
+      description: Ürün eğitimi, satış desteği ve pazarlama teminatları sağlanır. Satışa başlamaya hazırsınız.
+cta:
+  title: Daha uzak bir ortak olmaya hazır mısınız?
+  subtitle: Ortaklık başvurusunda bulunun ve ekibimiz 3 iş günü içinde yanıt verecektir.
+  actions:
+    - variant: primary
+      text: Ortaklık başvurusunda bulunun
+      href: /contact/
+    - text: Ürünlerimizi görüntüle
+      href: /products/

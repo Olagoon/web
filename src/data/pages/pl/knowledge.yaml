@@ -1,0 +1,108 @@
+meta:
+  title: 'Wiedza — poradniki SUP | {SITE}'
+  description: 'Baza wiedzy afarera: poradniki o nadmuchiwanych deskach SUP, materiałach na paddle boardy, wyborze deski i wiedzy branżowej dla marek i profesjonalistów.'
+  keywords:
+    - 'wiedza o SUP'
+    - 'poradnik nadmuchiwany SUP'
+    - 'materiały na paddle boardy'
+    - 'wiedza branżowa SUP'
+hero:
+  tagline: Graf wiedzy
+  title: Wiedza o eksploracji wody
+  subtitle: |
+    Ustrukturyzowana baza wiedzy obejmująca technologię nadmuchiwanych SUP,<br />
+    bezpieczeństwo wodne, inżynierię desek i planowanie przygód.
+  taglineSection: Odkrywaj. Ucz się. Ruszaj z pewnością.
+clusters:
+  tagline: Klastry wiedzy
+  title: Odkrywaj według tematu
+  subtitle: Dogłębne spojrzenie na technologię, bezpieczeństwo i umiejętności stojące za każdym produktem afarer.
+  items:
+    - title: Wiedza o SUP
+      description: Od wyboru pierwszej deski po zaawansowane techniki turystyczne — wszystko o wiosłowaniu na stojąco.
+      icon: tabler:lifebuoy
+      topics:
+        - Jak wybrać pierwszy nadmuchiwany SUP
+        - Najlepszy rozmiar SUP dla początkujących
+        - Jak trudne jest wiosłowanie na stojąco?
+        - Porównanie nadmuchiwanego i sztywnego SUP
+        - Lista kontrolna bezpieczeństwa SUP
+    - title: Inżynieria i technologia SUP
+      description: Poradniki techniczne dotyczące dmuchanych desk SUP — materiały, metody konstrukcyjne i procesy produkcyjne.
+      icon: tabler:microscope
+      topics:
+        - Dogłębna analiza technologii drop-stitch
+        - Specyfikacje PVC klasy wojskowej
+        - Laminacja fuzyjna vs. klejenie
+        - Technologia pianki EVA i metody grafiki
+        - Typy zaworów SUP i systemy płetw
+
+    - title: Wiedza o bezpieczeństwie
+      description: Niezbędna wiedza o bezpieczeństwie dla każdego wioślarza — od wyboru kamizelki ratunkowej po odczytywanie pogody i techniki samoratownicze.
+      icon: tabler:shield
+      topics:
+        - Lista kontrolna bezpieczeństwa SUP
+        - Czy potrzebujesz kamizelki ratunkowej?
+        - Przewodnik bezpieczeństwa wiosłowania oceanicznego
+        - Techniki naprawy produktów nadmuchiwanych
+        - Świadomość pogody i warunków wodnych
+    - title: Technologia
+      description: Inżynieria stojąca za produktami afarer — materiały, metody konstrukcyjne i testowanie jakości.
+      icon: tabler:microscope
+      topics:
+        - Technologia PVC klasy morskiej
+        - Wyjaśnienie rdzenia drop-stitch
+        - Dlaczego PSI ma znaczenie dla nadmuchiwanych SUP
+        - Zgrzewanie RF vs łączenie klejowe
+        - Testowanie jakości i certyfikacja
+    - title: Styl życia SUP i zastosowania specjalne
+      description: Specjalistyczne aktywności na SUP — joga, wędkarstwo, psy, rodziny i porady dotyczące podróży.
+      icon: tabler:heart
+      topics:
+        - Joga SUP i medytacja na wodzie
+        - Łowienie ryb z dmuchanego SUP
+        - Pływanie na desce z psami i dziećmi
+        - Podróżowanie z twoim SUP samolotem i samochodem
+        - Nieodłączne akcesoria i wyposażenie do SUP
+    - title: Porównania i odniesienia SUP
+      description: Porównania obok siebie, które pomogą Ci podejmować świadome decyzje.
+      icon: tabler:chart-bar
+      topics:
+        - SUP kontra kajak — który jest dla Ciebie odpowiedni?
+        - Wyjaśnienie klas materiałów PVC
+        - Bezpieczeństwo jednoprzegrodowe vs wieloprzedziałowe
+        - Wyjaśnienie materiałów do desek SUP
+        - Druk UV kontra grafika na bloku EVA
+featured_guides:
+  tagline: Polecane przewodniki
+  title: Najpopularniejsze zasoby wiedzy
+  items:
+    - title: Podstawy SUP
+      href: /learn/sup/
+    - title: Nadmuchiwany vs sztywny SUP
+      href: /compare/inflatable-vs-hardboard/
+    - title: Przewodnik bezpieczeństwa wodnego
+      href: /learn/water-safety/
+    - title: Referencje materiałowe
+      href: /learn/materials/
+    - title: Przewodnik rozmiarów SUP
+      href: /size-guide/
+    - title: Przewodnik po rozmiarach SUP
+      href: /guides/sup-size-guide/
+    - title: Centrum Technologii SUP
+      href: /research/
+    - title: Konserwacja SUP
+      href: /guides/sup-maintenance/
+    - title: Przewodnik turystyczny
+      href: /guides/sup-for-touring/
+    - title: Techniki wiosłowania
+      href: /guides/paddling-techniques/
+cta:
+  title: Rozpocznij odkrywanie
+  subtitle: Zanurz się w naszej bazie wiedzy i zdobądź informacje potrzebne do następnej wodnej przygody.
+  actions:
+    - variant: primary
+      text: Przeglądaj wszystkie przewodniki
+      href: /academy/
+    - text: Odkryj graf wiedzy
+      href: /knowledge/

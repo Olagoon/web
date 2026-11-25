@@ -1,0 +1,116 @@
+meta:
+  title: 'Fallstudien — Partnerschafts- & Co-Brand-Projekte | {SITE}'
+  description: 'Echte Projekte, echte Ergebnisse: SUP-Flotten für Resorts, Eigenmarken, Vertrieb und Rettung. Sehen Sie, wie afarer seine Partner unterstützt.'
+  keywords:
+    - 'SUP-Fallstudien'
+    - 'Paddleboard-Partnerschaftsprojekte'
+    - 'SUP-Hersteller Referenzen'
+    - 'Nautische Projektbeispiele'
+hero:
+  tagline: Fallstudien
+  title: Echte Projekte, echte Ergebnisse<br />— afarer in Aktion
+  subtitle: Erfahren Sie, wie afarer mit Distributoren, Marken und Betreibern weltweit zusammenarbeitet, um maßgeschneiderte Marine-Lösungen für jede Anwendung zu liefern.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarer Fallstudien — kundenspezifische Marinefertigungsprojekte
+features3_cases:
+  tagline: Ausgewählte Fälle
+  title: Maßgeschneiderte Lösungen<br />für echte Herausforderungen
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Europäische Tauchcenter-Flotte
+      customer: BlueMed Tauchzentren
+      country: Griechenland
+      industry: Tauchen & Maritimer Tourismus
+      challenge: >-
+        Benötigt wurden 12 tauchkonfigurierte SUPs für eine Kette von Tauchzentren auf mehreren griechischen Inseln. Jedes Board musste eine maßgeschneiderte Ausrüstungsbefestigung, Stauraum für 8 Tanks und eine stabile Plattform für den Einstieg von Tauchern im offenen Wasser haben. Die Flotte
+        sollte innerhalb von 60 Tagen zum Beginn der Touristensaison eintreffen.
+      solution: >-
+        12 SUP Voyager Dive-Modelle mit integrierten Ausrüstungsregalen, stabilen Plattformen und extra breiter Drop-Stitch-Konstruktion für Boarding-Stabilität hergestellt. Jedes Board wurde mit dem Kundenflotten-Design gebrandet. Alle 12 Boards wurden einem Drucktest unterzogen und innerhalb von
+        55 Tagen von Qingdao verschickt.
+      product: SUP Voyager Tauchgang
+      results: Alle 12 Bretter wurden rechtzeitig für die Touristensaison geliefert. Die Flotte ist seit 18 Monaten im täglichen Betrieb ohne Materialausfälle. Der Kunde bestellte im zweiten Jahr 6 zusätzliche Einheiten.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Die SUP Voyager Dive ist das Rückgrat unserer täglichen Tauchaktivitäten. Die Stabilität ist ausgezeichnet, und die Anordnung der Ausrüstungsaufbewahrung hält das Deck für unsere Gäste sauber und sicher.
+      icon: tabler:lifebuoy
+    - title: Australisches Distributor-Co-Brand-Programm
+      customer: Pacific Watersports GmbH
+      country: Australien
+      industry: Co-Brand- & Partnerschaftsprogramm
+      challenge: >-
+        Ein australischer Vertriebspartner benötigte eine private Marke von SUP-Boards zu wettbewerbsfähigen Preisen, um mit chinesischen Direktvertriebsmarken konkurrieren zu können. Gefordert waren 8 einzigartige Modelle, die von Anfängern bis zu Fortgeschrittenen reichen, mit benutzerdefinierten
+        Grafiken, benutzerdefinierter Verpackung und Direktversand an Einzelhandelsgeschäfte.
+      solution: >-
+        Entwickelte 8 SUP-Modelle (All-Around, Touring, Yoga, Kinder, Sport, Ultra-Kompakt, Ultra-Stabil, Wildwasser) mit exklusivem australischen Grafikpaket. Kundenspezifische Einzelhandelsverpackung mit QR-Codes, die zu Einrichtungsvideos führen. Drop-Ship-Logistik vom Hafen Qingdao direkt zu
+        australischen Einzelhandelsgeschäften konfiguriert.
+      product: Maßgeschneiderte SUP-Linie (8 Modelle)
+      results: Vom Konzept bis zur ersten Lieferung in 90 Tagen. Einzelhandelsverkaufsquote von 85 % in der ersten Saison. Der Distributor erweiterte die Partnerschaft im zweiten Jahr um zusätzliche SUP-Modelle.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Ein Seefahrer lieferte in 90 Tagen eine komplette SUP-Linie — vom ersten Design bis zum Verkaufsregal. Die Qualität entspricht der von Marken, die zum doppelten Preis verkaufen.
+      icon: tabler:currency-dollar
+    - title: Rettungsausrüstungslieferung Nahost
+      customer: Nationale Zivilschutzbehörde
+      country: Vereinigte Arabische Emirate
+      industry: Suche & Rettung
+      challenge: Die zivile Verteidigungsorganisation benötigte 20 patrouillenbereite SUPs für Küstenrettung, Hafensicherheit und Hochwasserbekämpfung. Gefordert waren hochsichtbare Boards, vollständige Sicherheitstechnik und die Einhaltung lokaler maritimer Vorschriften.
+      solution: >-
+        Geliefert 20 SUP-Patrouillenmodelle mit hochsichtbarer Orange-Double-Stitch-Konstruktion, vollständigen Sicherheitsausstattungen, SOLAS-reflektierendem Band und verstärkter Bauweise. Jedes Board war CE-zertifiziert und nach den geltenden Normen geprüft. Das Dokumentationspaket enthielt
+        Konformitätszertifikate für die lokale Registrierung.
+      product: SUP-Patrouille
+      results: Flotte wurde über 5 Küstenstationen eingesetzt. Die Geräte arbeiten bei extremer Hitze (45°C) ohne Verschlechterung. Leistung und Haltbarkeit übertrafen die Spezifikationen.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Das SUP-Patrouillenbrett übertraf unsere betrieblichen Anforderungen. Bei extremen Hitze- Bedingungen zeigen die Boards nach 24-monatiger täglicher Nutzung keine Anzeichen von UV-Abbau.
+      icon: tabler:alert-triangle
+    - title: Europäische Co-Brand-Partnerschaft
+      customer: North Sea Marine Equipment BV
+      country: Niederlande
+      industry: Co-Brand- & Partnerschaftsprogramm
+      challenge: >-
+        Eine etablierte europäische Meeresmarke wollte in den SUP-Markt expandieren, ohne in Produktionsanlagen zu investieren. Es wurde ein White-Label-Partner benötigt, der in der Lage ist, 5 SUP-Modelle (von 9 ft bis 12 ft) mit eigenem Branding, CE-Zertifizierung und exklusiven Vertriebsrechten
+        in der EU herzustellen.
+      solution: >-
+        Etablierte White-Label-Fertigungsvereinbarung für 5 SUP-Modelle. Jedes Modell ist mit Kundenlogos und Farbschema gebrandet. CE-Zertifizierungsdokumentation für jedes Modell vorbereitet. Exklusive Vertriebsrechte für die EU mit Mindestbestellverpflichtungen gewährt. Technische Dokumentation
+        für das lokale Servicenetz bereitgestellt.
+      product: Maßgeschneiderte SUP-Linie (5 Modelle)
+      results: Mehrjahresvereinbarung unterzeichnet. Erste Produktionsreihe von 50 Einheiten innerhalb von 75 Tagen versandt. Marke auf großer Fachmesse eingeführt, mit positiver Händlerresonanz.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Die Zusammenarbeit mit afarer ermöglichte es uns, in den SUP-Markt einzutreten, ohne eine Fabrik zu bauen — sie lieferten eine schlüsselfertige Lösung mit CE-Zertifizierung und Unterlagen zur Händlerunterstützung.
+      icon: tabler:building
+    - title: Karibik-Resort-Flotte
+      customer: Paradise Island Resorts GmbH
+      country: Bahamas
+      industry: Marine Tourismus & Gastgewerbe
+      challenge: >-
+        Luxusresort benötigte eine vollständige Ausstattung an Wassersportgeräten für Gästetätigkeiten: 40 SUP-Boards für geführte Touren, 20 zusätzliche SUPs zur Erkundung der Lagune, 10 SUP-Boards für Gästeausflüge sowie Zubehör. Die gesamte Ausrüstung musste mit individuellem Resort-Branding
+        versehen sein und vor der Hochsaison geliefert werden.
+      solution: >-
+        Produziertes komplettes SUP-Paket: 40 SUP Voyager-Boards (All-Around-Modell), 20 SUP Explorer-Boards, 10 SUP Touring-Boards, plus Schwimmwesten, Paddel, Pumpen und Reparatursets. Alle Ausrüstungen mit Resort-Logo und tropischem Farbdesign bedruckt. Versand in Containern mit vollständigem
+        Inventarverzeichnis.
+      product: Vollständiges SUP-Paket (70 Einheiten)
+      results: Die Flotte traf 6 Wochen vor der Hochsaison ein. Die Gästebewertungen für Wassersportaktivitäten stiegen im Jahresvergleich um 40 %. Die Ausrüstung hält seit 3 Saisons mit nur routinemäßiger Wartung.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Der Ansatz des Komplettpakets bedeutete, dass wir alles, was wir brauchten, in einer Lieferung erhielten — Bretter und Zubehör, alle gebrandet und bereit für die Nutzung durch Gäste. Unsere Gäste lieben die Qualität der Ausrüstung.
+      icon: tabler:beach
+    - title: US-Küstenpatrouillenvertrag
+      customer: Atlantische Küsten-Sicherheitsagentur
+      country: Vereinigte Staaten
+      industry: Maritime Sicherheit und Rechtsdurchsetzung
+      challenge: Die US-Küstenwache benötigte robuste Patrouillen-SUPs für Operationen auf offenem Wasser. Benötigt wurden leistungsstarke Boards mit militärspezifischer Ausrüstung und Einhaltung der Vorschriften der US-Küstenwache.
+      solution: >-
+        Konstruiertes SUP-Patrouillenbrett mit verstärkter Drop-Stitch-Konstruktion, gut sichtbaren Farbschemata, Halterungen für verschlüsselte Kommunikationsausrüstung und integrierten Befestigungspunkten für Ausrüstung. Boards für den Schwerlastbetrieb verstärkt. USCG-Konformitätsdokumentation
+        bereitgestellt.
+      product: SUP-Patrouille
+      results: Die Agentur berichtete über eine Einsatzbereitschaftsrate von 95 % in den ersten 12 Monaten. Eine zusätzliche Bestellung für 8 Einheiten wurde aufgegeben.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      quote: Das SUP-Patrouillenboard bietet unseren Crews die Leistung, die für Operationen im offenen Gewässer erforderlich ist. Die verstärkte Konstruktion sorgt für entscheidende Haltbarkeit, ohne das Handling zu beeinträchtigen.
+      icon: tabler:shield
+cta:
+  title: Haben Sie ein Projekt, das Sie besprechen möchten?
+  subtitle: Jede Partnerschaft mit afarer beginnt mit einem Gespräch. Teilen Sie uns Ihre Anforderungen mit und wir entwickeln eine Lösung.
+  actions:
+    - variant: primary
+      text: Starten Sie Ihr Projekt
+      href: /contact/
+    - text: Sehen Sie unsere Fähigkeiten
+      href: /brand-marine-expertise/

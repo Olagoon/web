@@ -1,0 +1,139 @@
+meta:
+  title: Kwaliteit & Inspectie Laboratorium — ISO-Conforme SUP-Testen & Certificering | {SITE}
+  description: Onafhankelijke kwaliteitscontrole voor opblaasbare SUP's. Trekproeven, luchtopslagcyclustests, naadafschiltest en materiaalc-ertificering. Neem contact op met ons kwaliteitslaboratorium voor tests door derden.
+back_text: Terug naar R&D Centrum
+home_label: Home
+hero:
+  tagline: Lab 06
+  title: Kwaliteit & Inspectie Lab
+  subtitle: Onafhankelijke verificatie — elke test geslaagd vóór levering
+  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+  image_alt: Afarer kwaliteitsinspectie laboratorium UV-test
+intro: >-
+  Elk board dat onze werkplaats verlaat, draagt de certificering dat deze een gedefinieerde set kwaliteitscontroles en materiaalspecificatietests heeft doorstaan. Ons Kwaliteits- en Inspectielab is een onafhankelijke functie binnen de organisatie — het rapporteert rechtstreeks aan de algemeen
+  directeur, niet aan de productie — zodat geen commerciële druk het inspectiepunt kan beïnvloeden. Als een materiaalbatch of een voltooid board niet voldoet aan de gepubliceerde specificatie, heeft het lab de bevoegdheid om verzending stop te zetten totdat de afwijking is opgelost.
+content_html: >
+  <h2>Vertrouwen, maar verifiëren</h2>
+
+  <p>Het laboratorium werkt onder een kwaliteitsmanagementsysteem dat is afgestemd op de uitgangspunten, en onze testmethoden zijn waar van toepassing gebaseerd op ISO-, ASTM- en EN-normen. We houden gedetailleerde dossiers bij van elke uitgevoerde test, waardoor een volledige traceerbaarheidsketen
+  ontstaat van de ontvangst van grondstoffen tot de uiteindelijke levering van het board.</p>
+
+
+  <h2>Testapparatuur en -mogelijkheden</h2>
+
+  <table>
+    <thead><tr><th>Apparatuur</th><th>Uitgevoerde tests</th><th>Norm / methode</th></tr></thead>
+    <tbody>
+      <tr><td>Universele testmachine (50 kN)</td><td>Trekkracht (weefsel), pelsterkte (naden), scheurpropagatie</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Luchtdichtheidstestopstelling (programmeerbaar)</td><td>Uithoudingsvermogen van 1000 cycli opblazen/leeglaten, drukvasttest van 30 min</td><td>EN ISO 25649 (intern)</td></tr>
+      <tr><td>Naadpelapparaat (gemotoriseerde 180°-pel)</td><td>Pelsterkte van gelaste en verlijmde naden bij 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Hydrostatische waterdruktester</td><td>Weerstand tegen waterdoordringing van het weefsel (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Digitale diktemeter &amp; micrometer</td><td>Weefseldikte, railwanddikte, dikte van lijmfilm</td><td>ISO 2286-3</td></tr>
+      <tr><td>Klimaatkast</td><td>Temperatuurconditionering (-40 °C tot +80 °C) voor koudscheur- en warmteverouderingstests</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Kleurspektrofotometer</td><td>Delta-E-kleurmeting na UV-belichting</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>De inspectiepoorten — van materiaal tot levering</h2>
+
+  <p>Elk board volgt een vastgelegd kwaliteitsplan met verplichte inspectiemomenten. Geen enkel board kan een poort overslaan; elke poort moet worden goedgekeurd door een kwaliteitsinspecteur voordat de volgende productiefase begint.</p>
+
+
+  <div class="not-prose my-8">
+    <div class="relative">
+      <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
+      <div class="space-y-6 relative">
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 1</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Inkomende materiaalinspectie</p>
+            <p class="text-xs text-gray-500 mt-1">Weefselbatch, lijmbatch en beslag — alles wordt vóór vrijgave voor productie gecontroleerd volgens de inkomende specificatie.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 2</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Lasinspectie tijdens productie</p>
+            <p class="text-xs text-gray-500 mt-1">Het eerste lasmonster van elke productieploeg wordt getest (pel + visueel).</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 3</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Luchttest van het compartiment</p>
+            <p class="text-xs text-gray-500 mt-1">Elk compartiment wordt opgeblazen tot 1.5 x werkdruk en 30 min vastgehouden. Gegevens worden per serienummer geregistreerd.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 4</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Inspectie vóór levering</p>
+            <p class="text-xs text-gray-500 mt-1">Het volledige board wordt geïnspecteerd: alle bevestigingen aangedraaid, fittingen functioneel en geen cosmetische gebreken. Controlelijst met 100 punten.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Gate 5</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Eindcertificering</p>
+            <p class="text-xs text-gray-500 mt-1">Testrapporten worden samengesteld, inspectieregistraties worden beoordeeld en een conformiteitsverklaring wordt afgegeven.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Belangrijkste kwaliteitscijfers (2025 voortschrijdend gemiddelde)</h2>
+
+  <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">99.7 %</span>
+      <span class="text-xs text-gray-500">First-pass opbrengst (weefselbatch)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">&lt; 0.2 %</span>
+      <span class="text-xs text-gray-500">Lasafkeurpercentage (per strekkende meter)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">100 %</span>
+      <span class="text-xs text-gray-500">Compartimenten luchtdicht getest vóór assemblage</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
+      <span class="text-xs text-gray-500">Naleving van de ontwerpcategorie</span>
+    </div>
+  </div>
+
+
+  <h2>Ons kwaliteitsteam</h2>
+
+  <p>Het laboratorium wordt bemand door een kwaliteitsmanager (10 jaar ervaring in maritieme QA, ASQ Certified Quality Engineer), twee kwaliteitsinspecteurs (elk met NDT-certificering niveau 2 in visueel testen) en een materialentechnicus die verantwoordelijk is voor alle fysieke testen. Het team
+  ondergaat jaarlijks bekwaamheidsproeven via een onafhankelijke externe aanbieder om te waarborgen dat onze testresultaten nauwkeurig en reproduceerbaar blijven.</p>
+
+
+  <h2>Onafhankelijk testen voor klanten</h2>
+
+  <p>Ons kwaliteits- &amp; inspectielaboratorium is beschikbaar voor onafhankelijke testdiensten. Als u een weefselspecificatie wilt verifiëren, een nieuw lijmsysteem wilt valideren of een testrapport van derden wilt verkrijgen voor een inkoopkwalificatie, dan kunnen wij de tests uitvoeren volgens
+  de toepasselijke norm en een gecertificeerd testrapport afgeven.</p>
+
+  <p>Voorbeelden van recent testwerk voor derden:</p>
+
+  <ul>
+    <li>Pelsterktevergelijking van vijf concurrerende lijmfolieproducten voor een Europees militair inkoopprogramma.</li>
+    <li>Versnelde verouderingsstudie (UV + thermische cycli) voor een nieuwe oranjegepigmenteerde PVC-formulering, met regelmatige tussenmetingen op intervallen van 500 uur.</li>
+    <li>Validatie van de luchtdichtheid van 50 prototypeschotelkleppen voor een nieuw hogedrukkamerontwerp.</li>
+  </ul>
+
+
+  <h2>Onze belofte aan u</h2>
+
+  <p>Wanneer u een Afarer-board ontvangt, ontvangt u ook het bijbehorende kwaliteitsdossier — een samengesteld overzicht van de testresultaten die van toepassing zijn op uw specifieke board. Weefselbatchcertificaat, laspelproeven, luchttestlogs van compartimenten en de inspectielijst vóór
+  levering. Elk cijfer is traceerbaar. Elke inspecteur is geïdentificeerd. Dit is niet zomaar papierwerk — het is onze belofte dat wat we hebben geleverd overeenkomt met wat we hebben gespecificeerd.</p>
+
+  <p>Als u ooit een kwaliteitsprobleem heeft, kunt u rechtstreeks contact opnemen met het laboratorium — de contactgegevens staan op uw conformiteitsverklaring. We nemen elke vraag serieus en verbinden ons ertoe om binnen 48 uur een formeel onderzoek te starten.</p>
+cta:
+  title: Heeft u onafhankelijke tests of kwaliteitscontrole nodig?
+  subtitle: Ons laboratorium accepteert tests van derden — neem contact met ons op met uw wensen.
+  button_text: Neem contact op met het kwaliteitslab
+  button_link: /contact/

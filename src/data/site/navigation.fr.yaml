@@ -1,0 +1,141 @@
+header:
+  topBar: []
+  links:
+    - text: Produits
+      links:
+        - text: Planches SUP
+          href: /inflatable-sup/
+        - text: SUP polyvalent
+          href: /all-around-sup/
+        - text: SUP de randonnée
+          href: /touring-sup/
+        - text: SUP yoga
+          href: /yoga-sup/
+        - text: SUP pour enfants
+          href: /kids-sup/
+        - text: SUP de pêche
+          href: /fishing-sup/
+        - text: SUP eau vive
+          href: /whitewater-sup/
+        - text: SUP ultra-stable
+          href: /ultra-stable-sup/
+        - text: Accessoires
+          href: /sup-accessories/
+    - text: Par cas d’usage
+      links:
+        - text: Débutants
+          href: /use-cases/beginner/
+        - text: Randonnée & distance
+          href: /use-cases/touring/
+        - text: Pêche en SUP
+          href: /use-cases/fishing/
+        - text: Loisirs en famille
+          href: /use-cases/family-recreation/
+        - text: Randonnée fluviale
+          href: /use-cases/river-touring/
+        - text: Tourisme & loisirs
+          href: /use-cases/tourism-recreation/
+        - text: Tous les cas d’usage
+          href: /use-cases/
+    - text: Explorer afarer
+      links:
+        - text: Pourquoi afarer
+          href: /afarer-story/
+        - text: Technologie & matériaux
+          href: /technology/
+        - text: Qualité & sécurité
+          href: /quality/
+        - text: Articles & guides
+          href: /journal/
+        - text: À propos d’afarer
+          href: /about/
+    - text: Assistance
+      links:
+        - text: Garantie & réclamations
+          href: /warranty/
+        - text: FAQ
+          href: /faq/
+        - text: Téléchargements & manuels
+          href: /resources/download-catalog/
+        - text: Contacter l’assistance
+          href: /contact/
+  actions:
+    - text: Where to Buy
+      href: /where-to-buy/
+      variant: primary
+footer:
+  links:
+    - title: Produits
+      links:
+        - text: Planches SUP
+          href: /inflatable-sup/
+        - text: SUP polyvalent
+          href: /all-around-sup/
+        - text: SUP de randonnée
+          href: /touring-sup/
+        - text: SUP yoga
+          href: /yoga-sup/
+        - text: SUP pour enfants
+          href: /kids-sup/
+        - text: SUP de pêche
+          href: /fishing-sup/
+        - text: SUP eau vive
+          href: /whitewater-sup/
+        - text: SUP ultra-stable
+          href: /ultra-stable-sup/
+        - text: Accessoires
+          href: /sup-accessories/
+    - title: Explorer afarer
+      links:
+        - text: Pourquoi afarer
+          href: /afarer-story/
+        - text: Technologie & matériaux
+          href: /technology/
+        - text: Qualité & sécurité
+          href: /quality/
+        - text: Articles & guides
+          href: /journal/
+        - text: À propos d’afarer
+          href: /about/
+    - title: Assistance
+      links:
+        - text: Where to Buy
+          href: /where-to-buy/
+        - text: Garantie & réclamations
+          href: /warranty/
+        - text: FAQ
+          href: /faq/
+        - text: Téléchargements & manuels
+          href: /resources/download-catalog/
+        - text: Contacter l’assistance
+          href: /contact/
+    - title: For Business Partners
+      links:
+        - text: Co-Brand With Afarer
+          href: /co-brand/
+        - text: For Clubs & Resorts
+          href: /solutions/resorts-hotels/
+        - text: For Retail Partners
+          href: /solutions/retail-partners/
+        - text: Find a Distributor
+          href: /distributor-program/
+        - text: For Distributors
+          href: /solutions/distributors/
+  secondaryLinks:
+    - text: Conditions
+      href: /terms/
+    - text: Politique de confidentialité
+      href: /privacy/
+    - text: Avis de non-responsabilité médicale
+      href: /disclaimer/
+  socialLinks:
+    - text: YouTube
+      href: https://www.youtube.com/@afarer
+    - text: X
+      href: https://x.com/afarer
+    - text: Instagram
+      href: https://www.instagram.com/afarer_watersports/
+    - text: Facebook
+      href: https://www.facebook.com/profile.php?id=61572404318679
+    - text: RSS
+      href: /rss.xml

@@ -1,0 +1,180 @@
+meta:
+  title: 'Confiança — Qualidade, Normas e Reputação | {SITE}'
+  description: 'Por que confiar na afarer: certificações CE e ISO, fábrica integrada, referências globais e garantia. Um fabricante profissional de SUP inflável.'
+  keywords:
+    - 'fabricante de SUP confiável'
+    - 'fábrica de paddle board certificada'
+    - 'fornecedor confiável de SUP'
+    - 'fábrica de SUP certificada'
+hero:
+  tagline: Construído para padrões que importam
+  title: Confie na afarer
+  subtitle: |
+    Cada produto que construímos é certificado CE — testado para segurança,<br />
+    durabilidade e desempenho. Sem atalhos. Sem exceções.
+  taglineSection: Certificado. Testado. Comprovado.
+  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+  imageAlt: Produto afarer passando por teste de qualidade
+stats:
+  title: afarer em números
+  stats:
+    - title: Certificado CE
+      description: Todos os produtos recreativos atendem às normas de segurança da UE
+    - title: ISO 9001
+      description: Sistema de gestão da qualidade desde 2012
+    - title: BSCI e REACH
+      description: Fabricação ética e conformidade de materiais
+    - title: Garantia de 3 Anos
+      description: Em cada produto afarer — sem perguntas
+features3_certifications:
+  title: Certificações e Conformidade
+  subtitle: Cada produto é testado e certificado de forma independente de acordo com os padrões internacionais.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: Certificação CE
+      description: Todos os SUPs afarer atendem ao padrão europeu de segurança CE para uso recreativo. Cada produto passa por testes de pressão, flutuabilidade e carga antes de sair da fábrica.
+      icon: tabler:certificate
+    - title: ISO 9001
+      description: Nossa instalação de 12.000 m² em Qingdao opera sob um sistema de gestão da qualidade ISO 9001. Cada lote de produção é rastreável, documentado e inspecionado.
+      icon: tabler:clipboard-check
+    - title: Conformidade Social BSCI
+      description: Somos certificados BSCI, garantindo práticas trabalhistas éticas, condições de trabalho seguras e responsabilidade ambiental em toda a nossa cadeia de suprimentos.
+      icon: tabler:users
+    - title: REACH e RoHS
+      description: Todos os materiais — PVC, espuma EVA, adesivos — cumprem os regulamentos REACH e RoHS da UE. Sem substâncias restritas, sem concessões.
+      icon: tabler:flask
+    - title: Laboratório de Testes de Materiais
+      description: O laboratório de materiais interno testa resistência à tração, resistência UV, integridade de juntas e abrasão para cada lote de tecido antes da produção.
+      icon: tabler:microscope
+    - title: Garantia de 3 Anos
+      description: Cada produto afarer vem com garantia de três anos contra defeitos de fabricação. Apoiamos o que construímos.
+      icon: tabler:shield-check
+testimonials:
+  tagline: Confiança do Cliente
+  title: O que nossos clientes dizem
+  subtitle: De remadores iniciantes a operadores de frota profissionais — veja por que eles confiam na afarer.
+  items:
+    - content: Equipamos toda a nossa frota de aluguel com SUPs afarer. Duas temporadas, zero falhas. A certificação CE tornou a aprovação do seguro simples.
+      name: Marco V.
+      title: Operador turístico, Croácia
+    - content: Como comprador de primeira viagem, estava nervoso com a qualidade. A documentação ISO e os relatórios de teste que compartilharam me deram total confiança.
+      name: James T.
+      title: Proprietário do SUP Explorer 11, Canadá
+    - content: Trabalhamos com a afarer para nossas unidades de patrulha costeira. O processo de controle de qualidade deles é consistente em todos os lotes — essa confiabilidade é importante em operações críticas de missão.
+      name: Tenente-Cmdr. Andres
+      title: Aquisição governamental, Filipinas
+steps2_manufacturing:
+  title: Como garantimos a qualidade
+  subtitle: Da inspeção de matéria-prima ao teste final de pressão — cada produto passa por uma cadeia de qualidade rigorosa.
+  items:
+    - title: Inspeção de Matéria-Prima
+      description: Cada rolo de tecido PVC é testado quanto à espessura, resistência à tração e resistência UV antes de entrar em produção.
+      icon: tabler:search
+    - title: CQ em Processo
+      description: Juntas soldadas, instalações de válvulas e uniões de câmara são inspecionados em cada estação durante a montagem.
+      icon: tabler:eye
+    - title: Teste de Pressão
+      description: Cada produto inflável é inflado a 1,25x o PSI nominal e mantido por 24–48 horas para verificar a retenção de ar e a integridade das juntas.
+      icon: tabler:wind
+    - title: Inspeção Final
+      description: Cada unidade é inspecionada quanto ao acabamento, hardware e embalagem antes de ser aprovada para envio. Amostras de lotes vão para nosso laboratório para testes destrutivos.
+      icon: tabler:clipboard-check
+factory_audit:
+  title: Auditoria de Fábrica e Conformidade Social
+  subtitle: Nossa instalação de 12.000 m² em Qingdao está aberta a auditorias de terceiros. Mantemos a certificação de conformidade social BSCI e recebemos inspeções de clientes.
+  stats:
+    - value: 12.000 m²
+      label: Instalação de Produção
+    - value: '200+'
+      label: Trabalhadores Qualificados
+    - value: '15.000+'
+      label: Capacidade Anual da Unidade
+    - value: BSCI
+      label: Conformidade Social
+  highlights:
+    - title: Certificado BSCI
+      desc: Certificação de conformidade social amfori BSCI — trabalho ético, condições seguras, responsabilidade ambiental.
+      link: /certifications/
+    - title: Aberto para Inspeção
+      desc: Recebemos auditorias de fábrica de clientes. Agende uma visita ou um tour virtual de nossas linhas de produção em Qingdao.
+      link: /factory/
+    - title: Rastreabilidade Completa
+      desc: Cada lote de produção é documentado e rastreável — desde os números dos lotes de matéria-prima até a aprovação final do Controle de Qualidade.
+    - title: ISO 9001:2015
+      desc: Sistema de gestão da qualidade certificado pela SGS. Nossos processos atendem aos padrões internacionais de fabricação.
+      link: /certifications/
+warranty_section:
+  title: Garantia e Suporte Pós-Venda
+  subtitle: Nós apoiamos cada produto com termos de garantia claros, processamento rápido de reivindicações e peças de reposição genuínas.
+  items:
+    - title: Garantia do Produto de 3 Anos
+      desc: Todos os produtos Afarer possuem garantia de 3 anos contra defeitos de fabricação — falha de costura, defeitos na válvula e delaminação do material sob uso normal.
+    - title: Suporte de Peças Vitalício
+      desc: Peças de reposição genuínas — válvulas, kits de reparo, aletas, anéis em D — disponíveis para todos os modelos. Mantemos moldes e ferramentas por no mínimo 5 anos após o término da produção.
+    - title: Resposta à Reivindicação em 48 Horas
+      desc: Reclamações de garantia reconhecidas em até 48 horas. Placas de substituição enviadas em até 10 dias úteis para reclamações aprovadas.
+    - title: Rede Global de Reparos
+      desc: Centros de reparo autorizados em 15 países. Kits de reparo de campo disponíveis para operações remotas. Guias de reparo faça você mesmo para danos menores.
+    - title: Suporte ao Cliente OEM
+      desc: Gerentes de conta dedicados para parceiros B2B. Revisões de negócios trimestrais, planejamento de inventário e suporte de marketing co-branded.
+    - title: Pacote de Certificação
+      desc: Documentação completa de conformidade fornecida com cada remessa — Declaração CE, relatórios de teste, fichas de dados de segurança de materiais.
+      link: /contact/
+trust_resources:
+  title: Recursos de Confiança
+  subtitle: Baixe nosso portfólio de certificações, relatórios de controle de qualidade e documentação de conformidade.
+  items:
+    - title: Portfólio de Certificação
+      desc: Certificados CE, ISO 9001, BSCI, REACH, RoHS, AS 1799 em um único pacote.
+    - title: Relatório de Padrões de Teste de QC
+      desc: Testes de resistência à pressão de 24–48 horas, envelhecimento por UV conforme ISO, validação da resistência à tração — metodologia completa.
+    - title: Perfil da Fábrica e Relatório de Auditoria
+      desc: Visão geral de instalação de 12.000 m² com fotos da linha de produção e resumo de auditoria de terceiros.
+    - title: Documento da Política de Garantia
+      desc: Termos completos da garantia, processo de reclamações e preços de peças de reposição.
+  cta_text: Solicitar Recursos do Trust
+  cta_link: /contact/
+faqs_sup:
+  title: FAQs sobre Pranchas SUP
+  subtitle: Perguntas comuns sobre nossas pranchas de stand-up paddle.
+  columns: 2
+  items:
+    - title: Quais tamanhos de prancha SUP estão disponíveis?
+      description: Oferecemos pranchas SUP de 9 pés a 12 pés, incluindo designs versáteis, de travessia, ioga e especializados. Nossos modelos mais vendidos incluem o Tropical Breeze (10 pés) e o Ocean Voyager (11 pés).
+    - title: O que é construção drop-stitch?
+      description: A construção drop-stitch usa milhares de fios de poliéster conectando as camadas superior e inferior da prancha, permitindo que ela mantenha alta pressão de ar (15–20 PSI) e alcance uma plataforma rígida e estável. Este é o padrão da indústria para SUPs infláveis premium.
+    - title: Qual é o limite de peso para pranchas SUP?
+      description: Nossas pranchas SUP suportam até 150 kg, dependendo do modelo e volume. A prancha Leviathan Wake é nosso modelo de maior capacidade, projetada para pilotos maiores e uso de ioga.
+    - title: Vocês oferecem pacotes completos de SUP?
+      description: Sim. Cada prancha SUP é enviada com um pacote completo incluindo remo de alumínio de 3 peças, bomba manual de alta pressão, leash de coil, mochila de viagem e kit de reparo. Alguns modelos também incluem um conjunto de barbatanas removível.
+    - title: Qual é a garantia das pranchas SUP?
+      description: Todas as pranchas SUP afarer têm garantia de três anos contra defeitos de fabricação, incluindo falha de junta, defeitos de válvula e delaminação de material sob uso normal.
+    - title: Quanto tempo leva para inflar uma prancha SUP?
+      description: Usando a bomba manual incluída, uma inflagem completa a 15 PSI leva aproximadamente 8 a 12 minutos. Para inflagem mais rápida, recomendamos nossa bomba elétrica afarer 12V, que infla uma prancha em menos de 4 minutos.
+faqs_materials:
+  title: FAQs sobre Material e Cuidados com SUP
+  subtitle: Perguntas comuns sobre os materiais, cuidados e armazenamento do nosso SUP inflável.
+  columns: 2
+  items:
+    - title: Quais materiais são usados nos SUPs infláveis afarer?
+      description: Usamos PVC de grau militar (1100 denier) com construção resistente à abrasão e estabilizada contra UV, conforme os regulamentos REACH e RoHS da UE.
+    - title: Quanto tempo duram os SUPs infláveis?
+      description: Com os cuidados adequados, um SUP inflável de PVC de qualidade dura de 5 a 10 anos. Limpeza regular, proteção contra UV e armazenamento adequado aumentam significativamente a vida útil.
+    - title: Qual manutenção é necessária para um SUP inflável?
+      description: A manutenção básica inclui enxaguar com água doce após cada uso (especialmente em água salgada), secar antes de guardar, verificar as vedações das válvulas anualmente e evitar a exposição prolongada ao sol quando não estiver em uso.
+    - title: Os SUPs infláveis podem ser usados em água salgada?
+      description: Sim. Todos os SUPs infláveis da afarer são projetados para uso em água doce e salgada. Recomendamos enxaguar com água doce e secar completamente após a exposição à água salgada.
+    - title: Como eu guardo um SUP inflável?
+      description: Desflaute, limpe e seque completamente a prancha antes de guardá-la. Enrole de forma frouxa (evite dobras apertadas), armazene em um local fresco e seco, longe da luz solar direta, e mantenha longe de pisos de concreto para evitar a absorção de umidade.
+    - title: Qual é a capacidade de peso dos SUPs infláveis da Afarer?
+      description: As capacidades de peso variam de 100 kg para nossos modelos menores a mais de 200 kg para os modelos maiores. Cada página de produto lista a classificação de carga máxima para o seu modelo específico.
+cta:
+  title: Quer ver as certificações pessoalmente?
+  subtitle: Solicite nosso portfólio de certificações, relatórios de auditoria de fábrica ou documentação de conformidade de materiais. Sem necessidade de NDA.
+  actions:
+    - variant: primary
+      text: Solicitar documentos de certificação
+      href: /contact/
+    - text: Visite nossa página da fábrica
+      href: /factory/

@@ -1,0 +1,85 @@
+meta:
+  title: 'Custom Lab — paddle board-uri gonflabile personalizate | {SITE}'
+  description: 'Paddle board-uri gonflabile personalizate: design propriu, logo, formă proprie și producție. Partener de SUP cu marcă privată, MOQ 50 de unități, certificat CE.'
+  keywords:
+    - 'producător de paddle board-uri personalizate'
+    - 'SUP gonflabil personalizat'
+    - 'paddle board cu logo'
+    - 'SUP gonflabil cu marcă privată'
+    - 'producție paddle board'
+hero:
+  tagline: afarer Custom Lab
+  title: Proiectează-ți Propria<br />Placă SUP
+  subtitle: Servicii co-brand, private label și branding personalizat pentru companii din întreaga lume. De la un singur prototip până la serii complete de producție.
+  cta: Începeți proiectul dvs.
+  footer_link: /contact/
+steps_section:
+  tagline: Cum funcționează
+  title: De la concept la producție
+  subtitle: Patru pași de la ideea dumneavoastră până la un produs finit, gata de a ieși pe mare.
+  steps:
+    - num: '01'
+      title: Alegeți-vă placa
+      desc: Alegeți dintre modelele noastre SUP de bază — all-around, touring, yoga, sport sau copii. Selectați dimensiunea, materialul și culoarea.
+    - num: '02'
+      title: Încărcați designul dumneavoastră
+      desc: Trimiteți-ne logo-ul, materialele grafice sau ghidul de brand. Echipa noastră de design pregătește o probă digitală.
+    - num: '03'
+      title: Revizuire mockup cu AI
+      desc: Vizualizați o machetă fotorrealistă generată de AI a plăcii dvs. personalizate înainte de începerea producției.
+    - num: '04'
+      title: Producție și livrare
+      desc: Odată aprobată, comanda dumneavoastră intră în linia noastră de producție. Termene de livrare de la 30 de zile.
+services_section:
+  tagline: Servicii
+  title: Servicii de producție pentru branduri globale
+  subtitle: Modele flexibile de colaborare — de la fabricație în regim contract manufacturing la construirea completă a unui brand.
+  items:
+    - title: Producție Co-Brand
+      desc: Producem proiectele dvs. conform specificațiilor — proprietatea dvs. intelectuală, desenele dvs., standardele dvs. de calitate. Protecție integrală prin NDA.
+      icon: ⚙️
+    - title: Soluții de Design
+      desc: Alegeți dintre peste 50 de platforme dovedite și personalizați dimensiunea, culoarea, grafica și ambalajul.
+      icon: 🎨
+    - title: Marcă proprie (Private Label)
+      desc: Marca dumneavoastră pe produsele noastre — logo, ambalaj, etichete de agățat, manuale. Gata pentru retail, direct din cutie.
+      icon: 🎨
+    - title: Branding personalizat
+      desc: Printare pe deck pad, grafică pe carenă, decalcomanii pe tuburi și etichete personalizate — integrare completă a brandului.
+      icon: ⚙️
+capabilities_section:
+  tagline: Capabilități
+  title: Capabilități de producție și personalizare
+  subtitle: Tot ce trebuie să știți înainte de a plasa comanda.
+  capabilities:
+    - label: Volumul comenzii
+      value: MOQ 50 unități (SUP)
+    - label: Termen de livrare
+      value: 30–45 zile standard; 15–20 zile pentru prototipuri
+    - label: Personalizare
+      value: Dimensiune, formă, culoare, grafică, ambalaj, accesorii
+    - label: Materiale
+      value: PVC, drop-stitch, EVA, aluminiu
+    - label: Imprimare
+      value: Digital (CMYK), serigrafie, transfer termic, sublimare
+    - label: Certificare
+      value: CE, UKCA, FCC (suport pentru conformitate la nivel global)
+why_section:
+  tagline: De ce afarer
+  title: O singură fabrică. Un singur standard. Zero compromisuri.
+  points:
+    - text: Unitate de producție integrată de 12.000 mp
+      highlight: 12.000 mp
+    - text: Peste 200 de muncitori calificați și ingineri
+      highlight: 200+
+    - text: Peste 15.000 de plăci SUP produse anual
+      highlight: 15,000+
+    - text: management al calității certificat ISO 9001
+      highlight: ISO 9001
+    - text: Produse certificate CE pentru piața UE
+      highlight: CE
+  cta: Vezi detalii despre fabrică
+  cta_link: /factory/
+  contact:
+    title: Pregătiți să discutăm despre proiectul dumneavoastră?
+    desc: Echipa noastră răspunde în termen de 24 de ore cu o ofertă preliminară.

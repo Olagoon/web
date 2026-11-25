@@ -1,0 +1,59 @@
+meta:
+  title: 'Proces produkcji — od surowca do deski SUP | {SITE}'
+  description: 'Od surowca do deski SUP gotowej do wody: każdy etap procesu produkcyjnego afarera jest pod naszą kontrolą, od cięcia i spawania do testowania.'
+  keywords:
+    - 'proces produkcji SUP'
+    - 'fabryka nadmuchiwanych SUP'
+    - 'etapy produkcji paddle boardów'
+    - 'spawanie PVC SUP'
+hero:
+  tagline: Proces
+  title: Proces produkcyjny
+  subtitle: Od surowca do gotowej do wody deski — każdy krok pod naszą kontrolą
+  back_label: Powrót do fabryki
+  back_link: /factory/
+intro: >-
+  W przeciwieństwie do marek, które zlecają produkcję fabrykom stron trzecich, afarer posiada i obsługuje cały swój łańcuch produkcyjny. Ta pionowa integracja pozwala nam utrzymać ścisłą kontrolę jakości na każdym etapie, szybko reagować na niestandardowe wymagania i dostarczać stałą jakość
+  produktów partia po partii. Oto jak budowana jest deska w naszym zakładzie.
+steps:
+  - step: '01'
+    title: Przyjęcie i inspekcja materiałów
+    description: >-
+      Każda przychodząca partia tkaniny PVC, maty z włókna szklanego, żywicy i osprzętu jest sprawdzana zgodnie ze specyfikacją. Próbki tkanin są testowane pod kątem wytrzymałości na rozciąganie, jednorodności grubości i odporności na UV przed dopuszczeniem do produkcji. Materiały niezgodne są
+      kwarantannowane i zwracane.
+    duration: 1–2 dni
+  - step: '02'
+    title: Automatyczne cięcie PVC
+    description: >-
+      Zatwierdzone tkaniny są układane na automatycznej maszynie tnącej CNC i cięte z dokładnością poniżej milimetra. Komputerowo zoptymalizowane układanie rozmieszcza panele w celu minimalizacji odpadów — zazwyczaj poniżej 5%. Cięte panele są oznaczane modelem deski i komorą, a następnie pakowane do
+      transferu do warsztatu spawalniczego.
+    duration: 2–4 godziny na zestaw deski
+  - step: '03'
+    title: Zgrzewanie rur i spawanie
+    description: >-
+      Panele są sczepiane i łączone za pomocą zgrzewarek  zgrzewających gorącym powietrzem w kontrolowanych temperaturach 200–300 °C. Główne szwy są wzmacniane zgrzewaniem dielektrycznym RF dla szczelnych, wysokowytrzymałych połączeń. Gotowe komory są napompowane do 1,5× ciśnienia roboczego na
+      30-minutową walidację zatrzymywania powietrza.
+    duration: 1–2 dni na deskę
+  - step: '04'
+    title: Druk SUP i dekoracja
+    description: Grafika decku deski SUP jest nakładana za pomocą druku cyfrowego dla pełnokolorowych, fotograficznej jakości wzorów oraz sitodruku dla trwałych logo i powtarzalnych wzorów. Nadruki są utwardzane i uszczelniane dla odporności na UV i ścieranie.
+    duration: 1–2 dni
+  - step: '05'
+    title: Montaż końcowy i wyposażanie
+    description: Deski są wyposażane na linii montażowej w płetwy, zawory, pokłady EVA i akcesoria. Każda jednostka przechodzi 100-punktową listę kontrolną montażu z obowiązkowym zatwierdzeniem na każdym etapie.
+    duration: 2–4 dni
+  - step: '06'
+    title: Testy jakości i inspekcja
+    description: >-
+      Każda ukończona deska przechodzi obowiązkową bramkę jakości: test zatrzymywania powietrza w komorach, kontrolę funkcjonalną osprzętu, weryfikację momentu dokręcenia elementów złącznych i inspekcję kosmetyczną. Niestandardowe i prototypowe konstrukcje przechodzą również próby w wodzie
+      obejmujące stabilność i prowadzenie.
+    duration: 1–2 dni
+  - step: '07'
+    title: Pakowanie i wysyłka
+    description: Deski są spuszczane z powietrzem, składane zgodnie z procedurą, pakowane w wytrzymałe torby z tkaniny lub skrzynie ze sklejki i ładowane do wysyłki. Każda paczka jest oznaczona modelem, numerem seryjnym i miejscem przeznaczenia. Koordynujemy z przewoźnikami przesyłki FCL i LCL na całym świecie.
+    duration: 1 dzień
+cta:
+  title: Zobacz nasz sprzęt i maszyny
+  desc: Poznaj sprzęt przemysłowy stojący za każdą deską afarer.
+  label: Zobacz sprzęt →
+  link: /factory/equipment/

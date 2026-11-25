@@ -1,0 +1,108 @@
+meta:
+  title: 'Kunskap — SUP-guider | {SITE}'
+  description: 'afars kunskapsbas: guider om uppblåsbara SUP:ar, paddle board-material, brädval och branschinsikter för varumärken och proffs.'
+  keywords:
+    - 'SUP kunskap'
+    - 'uppblåsbar SUP guide'
+    - 'paddle board material'
+    - 'SUP branschinsikter'
+hero:
+  tagline: Kunskapsgraf
+  title: Vattenutforskningskunskap
+  subtitle: |
+    En strukturerad kunskapsbas som täcker uppblåsbar SUP-teknik,<br />
+    vattensäkerhet, brädengineering och äventyrsplanering.
+  taglineSection: Utforska. Lär dig. Gå med förtroende.
+clusters:
+  tagline: Kunskapskluster
+  title: Utforska efter ämne
+  subtitle: Djupdyk i tekniken, säkerheten och färdigheterna bakom varje afarer-produkt.
+  items:
+    - title: SUP-köpguider
+      description: Från att välja ditt första bräde till avancerade turtekniker — allt om paddleboarding.
+      icon: tabler:lifebuoy
+      topics:
+        - Hur du väljer din första uppblåsbara SUP
+        - SUP-storleks- och viktkapacitetsguide
+        - Bästa SUP för nybörjare, touring, yoga och racing
+        - Vanliga SUP-köpmisstag att undvika
+        - Jämförelse uppblåsbart vs hårt bräde
+    - title: SUP-teknik och teknologi
+      description: Tekniska guider om uppblåsbara SUP-brädor — material, konstruktionsmetoder och tillverkningsprocesser.
+      icon: tabler:microscope
+      topics:
+        - Drop-stitch-teknik på djupet
+        - PVC-specifikationer i militär kvalitet
+        - Fusionlaminering vs. limning
+        - EVA-skumteknologi och tryckmetoder
+        - SUP-ventiltyper och finsystem
+
+    - title: SUP-säkerhet och underhåll
+      description: Viktig säkerhetskunskap för varje paddlare — från PFD-val till väderavläsning till brädvård och reparation.
+      icon: tabler:shield
+      topics:
+        - SUP-säkerhetschecklista och PFD-krav
+        - Flerkammarsäkerhet för avlägsna vatten
+        - SUP-uppblåsnings-PSI-guide
+        - Brädförvaring och vintervård
+        - Reparationstekniker för uppblåsbara produkter
+    - title: SUP-färdigheter och tekniker
+      description: Padlingstekniker, turfärdigheter och konditionsträning för alla nivåer.
+      icon: tabler:sailboat
+      topics:
+        - Padlingstekniker för nybörjare
+        - Färdighetsträning på mellannivå
+        - Tur- och expeditionsplanering
+        - SUP-kondition och racingträning
+        - Färdigheter för fors och flodpaddling
+    - title: SUP-livsstil och specialanvändningar
+      description: Specialiserade SUP-aktiviteter — yoga, fiske, hundar, familjer och restips.
+      icon: tabler:heart
+      topics:
+        - SUP-yoga och meditation på vatten
+        - Fiske från en uppblåsbar SUP
+        - Paddelbrädåkning med hundar och barn
+        - Resa med din SUP med flyg och bil
+        - SUP-tillbehör och viktigaste utrustningen
+    - title: SUP-jämförelser och referenser
+      description: Sidovis jämförelser för att hjälpa dig fatta välgrundade beslut.
+      icon: tabler:chart-bar
+      topics:
+        - SUP vs kajak — vilken passar dig?
+        - PVC-materialgrader förklarade
+        - Enkelt kammer vs flerkammarsäkerhet
+        - Förklaring av SUP-brädans material
+        - UV-tryck mot EVA-blockgrafik
+featured_guides:
+  tagline: Utvalda guider
+  title: Mest populära kunskapsresurser
+  items:
+    - title: SUP-grunderna
+      href: /learn/sup/
+    - title: Uppblåsbart vs hårt bräde
+      href: /compare/inflatable-vs-hardboard/
+    - title: Vattensäkerhetsguide
+      href: /learn/water-safety/
+    - title: Materialreferens
+      href: /learn/materials/
+    - title: SUP-köpguide
+      href: /guides/how-to-choose-your-sup/
+    - title: SUP-storleksguide
+      href: /guides/sup-size-guide/
+    - title: SUP Tech Center
+      href: /research/
+    - title: SUP-underhåll
+      href: /guides/sup-maintenance/
+    - title: Turguide
+      href: /guides/sup-for-touring/
+    - title: Paddletekniker
+      href: /guides/paddling-techniques/
+cta:
+  title: Börja utforska
+  subtitle: Dyk in i vår kunskapsbas och få informationen du behöver för ditt nästa vattenäventyr.
+  actions:
+    - variant: primary
+      text: Bläddra bland alla guider
+      href: /academy/
+    - text: Utforska kunskapsgraf
+      href: /knowledge/

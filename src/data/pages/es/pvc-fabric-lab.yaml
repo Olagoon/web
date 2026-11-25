@@ -1,0 +1,125 @@
+meta:
+  title: Laboratorio de Tela de PVC — Pruebas de Material para SUP Inflables | {SITE}
+  description: >-
+    Pruebas de materiales científicas desde la fibra hasta la tabla terminada. Resistencia a la tracción, envejecimiento por rayos UV, flexibilidad a bajas temperaturas y resistencia a la abrasión para tejidos de PVC. Contacte a nuestro equipo de laboratorio para una especificación de tejido
+    personalizada.
+back_text: De vuelta al Centro de I+D
+home_label: Inicio
+hero:
+  tagline: Laboratorio 01
+  title: Laboratorio de Tela de PVC
+  subtitle: Pruebas científicas de materiales — desde la fibra hasta la tabla terminada
+  image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+  image_alt: Laboratorio de pruebas de material de tela PVC Afarer
+intro: >-
+  El tejido de la cubierta y los rieles es el material más crítico en un SUP inflable. Debe soportar la exposición constante a los rayos UV, múltiples ciclos de inflado, la abrasión contra muelles y escombros, y cambios extremos de temperatura, todo mientras mantiene su integridad estructural durante años. En
+  Afarer, nuestro Laboratorio de Tejidos de PVC está dedicado exclusivamente a la caracterización, validación y mejora continua de los tejidos que usamos en cada tabla que construimos.
+content_html: >-
+  <h2>La base de todo SUP inflable</h2>
+
+  <p>No nos basamos únicamente en las hojas de datos de los proveedores. Cada lote de tela de PVC que ingresa a nuestro taller se prueba de forma independiente en nuestras instalaciones. Esto garantiza que la especificación del material que publicamos sea el rendimiento del material que
+  usted recibe — lote tras lote, año tras año.</p>
+
+
+  <h2>Equipos de prueba estandarizados</h2>
+
+  <p>Nuestro laboratorio de telas está equipado con instrumentos de grado industrial que cumplen con los métodos de prueba ISO, ASTM y EN:</p>
+
+  <table>
+    <thead><tr><th>Equipo</th><th>Parámetros medidos</th><th>Norma</th></tr></thead>
+    <tbody>
+      <tr><td>Máquina de tracción universal (50 kN)</td><td>Fuerza de ruptura, elongación a la ruptura, propagación de desgarro</td><td>ISO 1421 / ASTM D751</td></tr>
+      <tr><td>Cámara de envejecimiento por arco de xenón</td><td>Resistencia a los rayos UV (cambio de color, retención de resistencia tras 2000 h)</td><td>ISO 4892 / ASTM G155</td></tr>
+      <tr><td>Máquina de flexión a baja temperatura</td><td>Punto de fisuración de -30 °C a -50 °C</td><td>ISO 4675 / ASTM D2136</td></tr>
+      <tr><td>Máquina de abrasión Taber</td><td>Pérdida de peso tras 1000 ciclos (rueda CS-10)</td><td>ASTM D3389 / ISO 5470-1</td></tr>
+      <tr><td>Medidor de espesor (digital, resolución 0,001 mm)</td><td>Uniformidad a lo ancho del rollo</td><td>ISO 2286-3</td></tr>
+      <tr><td>Máquina de presión hidrostática</td><td>Resistencia a la penetración de agua</td><td>ISO 811</td></tr>
+    </tbody>
+  </table>
+
+  <p class="text-sm text-gray-500">* Todo el equipo es calibrado anualmente por laboratorios acreditados independientes.</p>
+
+
+  <h2>De los datos a la decisión: un flujo de trabajo de pruebas típico</h2>
+
+  <p>Cuando llega un nuevo candidato a tejido, sigue un proceso de calificación estandarizado de siete pasos:</p>
+
+  <ol>
+    <li><strong>Inspección de recepción</strong> — verificación visual de defectos superficiales, poros y cumplimiento dimensional.</li>
+    <li><strong>Mapeo de espesor</strong> — medición en 20 puntos a lo ancho del rollo; se requiere CV &lt; 3 % para su aceptación.</li>
+    <li><strong>Prueba de tracción</strong> — 5 especímenes en direcciones de urdimbre y trama. Mínimo 3500 N/50 mm para PVC de 1100 dtex.</li>
+    <li><strong>Acondicionamiento UV</strong> — 1000 h de exposición en cámara de arco de xenón; se requiere mínimo 80 % de retención de resistencia.</li>
+    <li><strong>Ruptura en frío</strong> — 4 h a -35 °C, luego flexión de 180° sobre un mandril de 25 mm. Sin fisuras visibles.</li>
+    <li><strong>Resistencia a la abrasión</strong> — 1000 ciclos, pérdida de peso ≤ 0,05 g.</li>
+    <li><strong>Aprobación y liberación</strong> — solo después de superar las siete etapas se libera el tejido para producción.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">PVC típico 1100 dtex — Retención de tracción después de exposición UV</p>
+    <div class="flex items-end gap-3 h-40">
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-600 rounded-t" style="height:100%"></div>
+        <span class="text-xs mt-1">0 h<br />100%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-500 rounded-t" style="height:95%"></div>
+        <span class="text-xs mt-1">500 h<br />95%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-400 rounded-t" style="height:88%"></div>
+        <span class="text-xs mt-1">1000 h<br />88%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-blue-300 rounded-t" style="height:82%"></div>
+        <span class="text-xs mt-1">2000 h<br />82%</span>
+      </div>
+      <div class="flex-1 flex flex-col items-center">
+        <div class="w-full bg-gray-300 rounded-t" style="height:65%"></div>
+        <span class="text-xs mt-1">Competidor<br />~65%</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Nuestro tejido PVC de 1100 dtex conserva &gt; 80 % de resistencia a la tracción después de 2000 h de exposición al arco de xenón, en comparación con grados industriales típicos que caen por debajo del 70 %.</p>
+  </div>
+
+
+  <h2>Nuestro equipo profesional</h2>
+
+  <p>El laboratorio está dotado con dos ingenieros de materiales a tiempo completo, cada uno con un título en ciencia de polímeros o ingeniería textil con un mínimo de seis años de experiencia en la industria. Son respaldados por tres técnicos que realizan pruebas y registro de datos diariamente. El
+  equipo participa regularmente en pruebas interlaboratorios organizadas por la Organización Internacional de Normalización (ISO) para validar la exactitud de nuestros métodos de prueba.</p>
+
+
+  <h2>Resolviendo sus desafíos de materiales más difíciles</h2>
+
+  <p>Cada entorno marino es diferente. Un SUP de alquiler que opera bajo sol tropical enfrenta cargas de UV y temperatura vastamente diferentes a las de una tabla de lago en latitudes norteñas. Nuestro Laboratorio de Tejidos le ayuda a seleccionar — o desarrollar — una especificación de
+  tejido optimizada para su perfil operativo.</p>
+
+  <p>Soluciones personalizadas recientes incluyen:</p>
+
+  <ul>
+    <li>Una mezcla de PVC de alta abrasión para un cliente militar cuyas tablas se botan regularmente desde playas de coral y rocosas (+40 % de vida útil a la abrasión).</li>
+    <li>Una formulación de PVC para baja temperatura para una expedición ártica, probada a -50 °C sin fragilización.</li>
+    <li>Un tejido naranja estabilizado en color para una flota de tablas de salvamento y rescate, manteniendo la visibilidad después de 3 años de exposición solar tropical.</li>
+  </ul>
+
+  <p>No vendemos tejidos "estándar" y esperamos que funcionen. Probamos, validamos y recomendamos — o creamos — una solución personalizada para su perfil de misión específico. Esa es la diferencia de Afarer.</p>
+
+
+  <h2>Cómo le servimos</h2>
+
+  <p>Cuando nos trae un desafío de materiales, esto es lo que puede esperar:</p>
+
+  <ol>
+    <li><strong>Consulta</strong> — discutimos su entorno operativo, objetivos de rendimiento y presupuesto.</li>
+    <li><strong>Propuesta</strong> — se redacta un plan de pruebas con criterios claros de aprobado/rechazo y un cronograma.</li>
+    <li><strong>Ejecución</strong> — nuestro laboratorio realiza las pruebas y produce un informe detallado con datos brutos y análisis comparativo.</li>
+    <li><strong>Recomendación</strong> — presentamos una especificación de tejido, incluyendo opciones alternativas si múltiples materiales cumplen sus requisitos.</li>
+    <li><strong>Seguimiento</strong> — después de la entrega, permanecemos disponibles para respaldar cualquier consulta sobre el material en servicio.</li>
+  </ol>
+
+  <p>Nuestro objetivo no es simplemente venderle una tabla. Es asegurar que la tabla que recibe funcione de manera confiable en las condiciones en las que rema — y eso comienza con el tejido.</p>
+cta:
+  title: ¿Necesita una especificación de tela personalizada?
+  subtitle: Contacte a nuestro equipo de ingeniería de materiales para discutir sus requisitos.
+  button_text: Contacta a nuestro equipo de laboratorio
+  button_link: /contact/

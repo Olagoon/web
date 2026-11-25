@@ -1,0 +1,114 @@
+meta:
+  title: SUP-uitrusting en vlootoplossingen voor paddleclubs | {SITE}
+  description: "Complete SUP-vlootprogramma's voor paddleclubs en scholen. Startpakketten, professionele vloot, wedstrijdborden, kits voor trainingscentra en ondersteuning met vervangingsonderdelen."
+hero:
+  tagline: Paddleclubs en Scholen
+  title: Start, run en groei je paddleclub<br />met SUP-vloten van commerciële kwaliteit
+  subtitle: SUP-uitruster voor paddleclubs en SUP-scholen wereldwijd — duurzame commerciële borden, volumeprijzen voor clubs, merkpersonalisatie en snelle vervangingsonderdelen, zodat je je kunt richten op de groei van je community.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Peddelclubleden op bijpassende Afarer SUP-boards
+benefits:
+  title: Clubvlootvoordelen
+  subtitle: Waarom peddelclubs in meer dan 50 landen Afarer kiezen als hun uitrustingspartner.
+  items:
+    - metric: 40%+
+      label: Vlootkostenbesparingen
+      detail: Vs. detailhandelprijzen met kortingen bij bulkclubs
+    - metric: 48u
+      label: Onderdelenvervanging
+      detail: Minimale stilstand voor uw huurvloot
+    - metric: '500+'
+      label: Verhuurcycli
+      detail: Commerciële duurzaamheid per bord
+    - metric: 5+ jaar
+      label: Vlootlevensduur
+      detail: Met goed onderhoud en zorg
+packages:
+  title: "Clubvlootprogramma's"
+  subtitle: Kies het vlootprogramma dat past bij de grootte en ambitie van uw club.
+  items:
+    - name: Startpakket
+      tagline: Voor nieuwe clubs, tot 30 leden
+      features:
+        - 10 SUP-borden (mix all-round + touring)
+        - 10 peddels + 10 reddingsvesten
+        - 2 dubbelwerkende pompen + reparatiekit
+        - Clubbranding op de borden (logodruk)
+        - Lanceringsgids + veiligheidschecklist
+        - CE-gecertificeerd — alle apparatuur
+      cta_text: Start je club
+    - name: Professionele Vloot
+      tagline: Voor gevestigde clubs, 50-100 leden
+      features:
+        - 30 SUP-borden (3 maatopties)
+        - 30 peddels + 30 reddingsvesten
+        - 5 pompen + 2 reparatiekits + opslagrek
+        - Aangepaste clubkleuren + logo op de borden
+        - Programma vervangingsonderdelen (15% korting)
+        - Personeelstraining sessie (online)
+        - CE-gecertificeerd — alle apparatuur
+      popular: true
+      cta_text: Bouw je vloot
+    - name: Wedstrijdvloot
+      tagline: Voor raceclubs, evenementen, competities
+      features:
+        - 50+ race- / prestatieborden
+        - Complete accessoire-set (peddels, vesten, pompen)
+        - Ondersteuningskit voor evenementen (startboeien, markeringen)
+        - Prioritaire onderdelen (24u verzending)
+        - Toegewijde accountmanager
+        - Optie voor aangepaste teamuniformen
+        - CE-gecertificeerd — alle apparatuur
+      cta_text: Krijg Concurrentievloot
+training:
+  title: Trainingscentrum Pakketten
+  subtitle: Alles wat een SUP-school nodig heeft om professionele certificeringscursussen te geven.
+  items:
+    - name: Starterset voor instructeurs
+      features:
+        - 5 premium SUP-borden (instructeurklasse)
+        - 5 koolstofpeddels voor demonstraties
+        - 5 reddingsvesten (instructeur pasvorm)
+        - Trainingscurriculumgids
+        - CE-gecertificeerde apparatuur
+    - name: Complete set voor scholen
+      features:
+        - 20 SUP-boards (mix van studenten en instructeurs)
+        - 20 peddels + 20 zwemvesten (verschillende maten)
+        - 10 drijfhulpmiddelen voor beginners
+        - 4 pompen + reparatiesets
+        - Opleidingscurriculum & certificeringsondersteuning
+        - CE-gecertificeerde apparatuur
+features:
+  title: Waarom clubs Afarer kiezen
+  subtitle: Consistente kwaliteit, snelle onderdelen en bulkprijzen ontworpen voor groeiende clubs.
+  items:
+    - title: 500 Verhuur Fietsen
+      description: Commerciële kwaliteit borden overleven seizoenen van dagelijks gebruik.
+      icon: tabler:shield-check
+    - title: Aangepaste kleuren
+      description: Stem de identiteit van je club af op aangepaste bordkleuren en logo.
+      icon: tabler:palette
+    - title: Korting bij afname in bulk
+      description: Hoeveelheidskortingen voor vlootbestellingen van 10 borden.
+      icon: tabler:discount
+    - title: Snelle Onderdelen
+      description: Vervangende onderdelen worden binnen 48 uur verzonden.
+      icon: tabler:truck-delivery
+    - title: Ondersteuning voor clubgroei
+      description: Advies over lidmaatschapsprogramma's, prijzen en het organiseren van evenementen.
+      icon: tabler:trending-up
+    - title: CE-gecertificeerd
+      description: Alle apparatuur voldoet aan internationale veiligheidsnormen.
+      icon: tabler:certificate
+cta:
+  title: Klaar om je paddleclub te bouwen?
+  subtitle: Krijg uw offerte voor clubvloot of download onze clubstartergids.
+  actions:
+    - text: Aanmelden voor de clubvloot
+      href: /contact/?package=club
+      variant: primary
+    - text: Clubgids downloaden
+      href: /resources/download-catalog/
+      variant: secondary

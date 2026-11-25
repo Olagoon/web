@@ -1,0 +1,86 @@
+meta:
+  title: 'Présence Mondiale — Fabricant de SUP dans 50+ Pays | {SITE}'
+  description: 'afarer exporte des SUP gonflables dans plus de 50 pays sur tous les continents. Fabricant et fournisseur professionnel pour marques, distributeurs et flottes.'
+  keywords:
+    - 'fabricant SUP mondial'
+    - 'exportateur paddle'
+    - 'usine SUP Chine'
+    - 'fournisseur SUP professionnel'
+hero:
+  tagline: Présence mondiale
+  title: Présent dans 50+ Pays<br />Sur Chaque Continent
+  subtitle: Des opérateurs de patrouille côtière européens aux distributeurs australiens de sports nautiques en passant par les équipes de sauvetage du Moyen-Orient — les planches afarer sont sur l’eau dans le monde entier.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Fabrication et distribution marine mondiale afarer
+stats:
+  title: Portée Mondiale
+  stats:
+    - title: Pays
+      amount: 50+
+    - title: Marchés d'Exportation
+      amount: Europe, Amériques, Asie, Moyen-Orient, Océanie
+    - title: Production
+      amount: Qingdao, Chine
+    - title: Entrepôt US
+      amount: Montclair, Californie
+features3_markets:
+  tagline: Marchés clés
+  title: Expertise Régionale<br />pour des Exigences Locales
+  subtitle: Nous comprenons que différents marchés ont des exigences réglementaires, des préférences et des cas d’utilisation différents.
+  isBeforeContent: false
+  columns: 4
+  items:
+    - title: Europe et Royaume-Uni
+      description: Produits certifiés CE. Forte demande pour les SUP sur les marchés européens. Les distributeurs britanniques apprécient notre rapidité d'exécution.
+      icon: tabler:map-pin
+    - title: Amérique du Nord
+      description: Fabrication approuvée par la Garde côtière américaine. Entrepôt américain à Montclair, CA pour une livraison rapide sur la côte Ouest. Demande croissante de SUP de pêche, de sauvetage et récréatifs.
+      icon: tabler:map-pin
+    - title: Australie et Océanie
+      description: Marché fort pour les planches SUP et les accessoires de sports nautiques. Les distributeurs australiens apprécient notre construction PVC résistante aux UV dans des conditions d’ensoleillement intense. Expédition rapide depuis notre installation en Asie.
+      icon: tabler:map-pin
+    - title: Moyen-Orient
+      description: Demande croissante d’équipement d’aventure nautique. Nos SUP de qualité commerciale et nos équipements de sécurité sont populaires auprès des opérateurs touristiques et des centres de location. Configurations personnalisées pour environnements à haute température.
+      icon: tabler:map-pin
+features3_distribution:
+  tagline: Réseau de distribution
+  title: Partenariat avec des Distributeurs<br />dans le Monde Entier
+  subtitle: Nous travaillons avec des distributeurs maritimes établis, des marques de sports nautiques et des agences gouvernementales.
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Programmes Co-Brand
+      description: Fabrication marque de distributeur pour marques de sports nautiques mondiales. Nous gérons tout, du design à la production en passant par le drop-shipping.
+      icon: tabler:building
+    - title: Réseau de Distributeurs
+      description: Distributeurs agréés dans 20+ pays avec stock et support local. Nouvelles demandes de distributeurs bienvenues.
+      icon: tabler:users
+    - title: Gouvernement et Institutionnel
+      description: Fourniture directe aux garde-côtes, organisations de sauvetage et programmes d'approvisionnement militaires.
+      icon: tabler:building-community
+steps2_logistics:
+  title: Logistique et Support Mondiaux
+  subtitle: De l'usine à la destination — nous gérons toute la chaîne d'approvisionnement.
+  items:
+    - title: Options d'Expédition
+      description: Fret maritime (FOB Qingdao), fret aérien pour les commandes urgentes et coursier express pour les échantillons et les pièces de rechange.
+      icon: tabler:truck-delivery
+    - title: Entrepôt US
+      description: 'Stock détenu à Montclair, CA pour une livraison rapide en Amérique du Nord. Côte Ouest : 2-3 jours, Centre : 3-4 jours, Côte Est : 4-5 jours.'
+      icon: tabler:building-warehouse
+    - title: Pièces de rechange
+      description: Pièces de rechange afarer authentiques stockées toute l'année. Expédition sous 24 heures.
+      icon: tabler:package
+    - title: Support Technique
+      description: Ligne directe avec notre équipe d'ingénierie pour les questions techniques, les conseils de réparation et le support de pièces de rechange. Nous assurons le support des planches construites il y a 20 ans.
+      icon: tabler:headset
+cta:
+  title: Vous voulez devenir distributeur ?
+  subtitle: Nous élargissons activement notre réseau de distribution. Contactez notre équipe export.
+  actions:
+    - variant: primary
+      text: Demande de partenariat
+      href: /contact/
+    - text: Voir notre gamme de produits
+      href: /products/

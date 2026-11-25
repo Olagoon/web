@@ -1,0 +1,99 @@
+meta:
+  title: 'Teklif İste — OEM SUP üretimi | {SITE}'
+  description: 'Şişme SUP projeniz için ayrıntılı bir teklif isteyin. OEM/ODM üretimi, özel etiket veya özel filolar — 2 iş günü içinde yanıt veriyoruz.'
+  keywords:
+    - 'SUP teklif iste'
+    - 'OEM paddle board teklifi'
+    - 'SUP fabrikası teklifi'
+    - 'şişme SUP fiyatı'
+hero_text:
+  tagline: Teklif Alın
+  title: Projeniz için<br />Teklif İsteyin
+  subtitle: İhtiyaçlarınızı bize bildirin; ekibimiz 2 iş günü içinde ayrıntılı bir teklifle yanıt verecektir.
+steps2_process:
+  title: Nasıl Çalışır
+  subtitle: Talepten teklife dört basit adım.
+  items:
+    - title: 'Adım 1: Gereksinimlerinizi Gönderin'
+      description: Aşağıdaki formu ürün tipinizi, miktarını ve özelliklerini belirterek doldurun. Ne kadar ayrıntılı bilgi verirseniz teklifiniz o kadar doğru olur.
+      icon: tabler:file-text
+    - title: 'Adım 2: İnceleme ve Tavsiye'
+      description: Mühendislik ekibimiz gereksinimlerinizi inceler ve açıklama için sizinle iletişime geçebilir. Ürün konfigürasyonu ve seçenekleri hakkında öneriler sunuyoruz.
+      icon: tabler:users
+    - title: '3. Adım: Teklifinizi Alın'
+      description: Birim fiyatlandırma, MOQ, teslim süresi, ödeme koşulları ve gönderim seçeneklerini içeren ayrıntılı bir teklif alırsınız. Genellikle 48 saat içinde.
+      icon: tabler:currency-dollar
+    - title: 'Adım 4: Numune ve Üretim'
+      description: Teklif kabulünün ardından numune üretimine (varsa) veya doğrudan seri üretime geçiyoruz. Süreç boyunca düzenli güncellemeler.
+      icon: tabler:building-factory
+content_form:
+  tagline: Teklif Formu
+  title: Bize Projenizden Bahsedin
+  subtitle: '* içeren tüm alanların doldurulması zorunludur.'
+  contact_fields:
+    firstName: Ad
+    lastName: Soyad
+    companyName: Şirket
+    email: E-posta
+  fields:
+    - name: Ürün kategorisi
+      type: select
+      options:
+        - SUP Tahtası
+        - Şişme SUP
+        - Şişme SUP Tahtası
+        - Can Yeleği
+        - Deniz Aksesuarı
+        - Özel OEM/ODM
+    - name: Uygulama
+      type: select
+      options:
+        - Dalış Merkezi
+        - Balıkçılık
+        - Deniz Turizmi / Tatil Köyü
+        - Arama ve Kurtarma
+        - Hükümet / Askeri
+        - OEM / Özel Marka
+        - Kişisel / Eğlence
+        - Diğer
+    - name: Miktar
+      type: text
+      placeholder: örn. 50 adet
+    - name: Hedef pazar
+      type: text
+      placeholder: örn. Avrupa, Kuzey Amerika, Orta Doğu
+    - name: Teslimat ülkesi
+      type: text
+      placeholder: örn. İtalya, BAE, ABD, Avustralya
+    - name: Malzeme tercihi
+      type: select
+      options:
+        - Tercih Yok
+        - Deniz Sınıfı PVC (1100 dtex)
+        - Fiberglas Gövde
+        - Alüminyum Gövde
+    - name: Motor gereksinimi
+      type: text
+      placeholder: örn. standart kürek donanımı, elektrikli pompa, özel renkler
+    - name: Gerekli özelleştirme
+      type: text
+      placeholder: örn. özel renkler, marka/logo, ambalaj, özel donanımlar
+    - name: Teslimat süresi
+      type: text
+      placeholder: ör. 90 gün içinde teslimat
+    - name: Ek gereksinimler
+      type: textarea
+      placeholder: Uygulamanızı, teknik özelliklerinizi veya özel gereksinimlerinizi tanımlayın — mümkünse referans çizimleri, özellikler veya bağlantılar dahil edin
+    - name: Spesifikasyon yükle
+      type: file
+      placeholder: Teknik özellik sayfanızı, çiziminizi veya referans belgenizi yükleyin (PDF, DWG, DXF)
+    - name: Logo / tasarım yükle
+      type: file
+      placeholder: Özel markalama için logonuzu veya tasarımınızı yükleyin (AI, EPS, PNG)
+cta:
+  title: E-posta ile tartışmayı tercih eder misiniz?
+  subtitle: Sorgunuzu doğrudan satış ekibimize gönderin, 24 saat içinde yanıt vereceğiz.
+  actions:
+    - variant: primary
+      text: Bize doğrudan e-posta gönderin
+      href: /contact/

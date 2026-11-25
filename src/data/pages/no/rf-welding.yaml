@@ -1,0 +1,107 @@
+meta:
+  title: RF-sveisesenter — dielektrisk binding for tetteste sommer | {SITE}
+  description: Radiofrekvens sveiseteknologi som gir kompatible lufttette sømmer. Peelingstesting, luftretensjonsvalidering og tilpassede sømspesifikasjoner.
+back_text: Tilbake til FoU-senteret
+home_label: Hjem
+hero:
+  tagline: Lab 03
+  title: RF-sveisesenter
+  subtitle: Dielektrisk bondingsteknologi for sveiser som holder under trykk
+  image: https://assets.afarer.com/images/afarer/products/sup-series/sup-jungle-mandala-1-1200w.webp
+  image_alt: Afarer RF-sveising dielektrisk binding
+intro: >-
+  Et oppblåsbart SUP-brett er bare så pålitelig som sømmene dets. Et enkelt svakt sveis kan kompromittere et helt kammer — og til sjøs er en kammerfeil ikke bare et irritasjonsmoment; det er en sikkerhetsrisiko. Hos Afarer har vi investert i et dedikert radiofrekvens (RF) sveisesenter som kombinerer
+  industrigrad dielektriske sveise presser med streng prosesskontroll og sveise-testing. Hver søm vi produserer er dokumentert, sporet og sertifisert for å møte eller overgå kravene til EN ISO 25649 — den europeiske standarden for oppblåsbart fritidsutstyr.
+content_html: >
+  <h2>Vitenskapen bak sømmen</h2>
+
+  <p>RF-sveising bruker høyfrekvent elektromagnetisk energi (typisk 27,12 MHz) for å eksitere de polare molekylene i PVC-belagt stoff, og genererer varme presist ved materiellgrensesnittet. I motsetning til varmlufts- eller varmkile-sveising, skaper RF-sveising en sann molekylær
+  binding — de to stofflagene smelter sammen til et ensartet homogent materiale i sveiseområdet, og produserer en skjøt som er like sterk som base materialet selv.</p>
+
+
+  <h2>Sveiseutstyr og prosesskontroll</h2>
+
+  <p>Vårt sveisesenter er utstyrt med:</p>
+
+  <table>
+    <thead><tr><th>Maskin</th><th>Effekt / Kapasitet</th><th>Anvendelse</th></tr></thead>
+    <tbody>
+      <tr><td>Dielektrisk RF-presse 1</td><td>15 kW, plate 2000 × 600 mm</td><td>Hovedlongitudinale sømmer, rail-til-skrog-sammenføyninger</td></tr>
+      <tr><td>Dielektrisk RF-presse 2</td><td>10 kW, plate 1500 × 500 mm</td><td>Skilleveggsveisinger, kjeglefester, ventilplaster</td></tr>
+      <tr><td>CNC-kontrollert RF-sveiser</td><td>8 kW, XY-bord 2500 × 1200 mm</td><td>Kurvesømmer, logo-/panelpreget, presisjonslappverk</td></tr>
+      <tr><td>Varmkile automatisk sveiser</td><td>Variable temperaturer, maks. 1,2 m/min</td><td>Reservemetode for tykt PVC-kantstoff og reparasjonsarbeid</td></tr>
+    </tbody>
+  </table>
+
+  <p>Alle RF-presser er utstyrt med lukket sløyfe-temperatur- og trykkovervåking. Sveiseparametere — effekt, pressetid, kjøletid, elektrodetrykk — programmeres per materialtype og registreres i vårt produksjonsutførelsessystem (MES) for full sporing.</p>
+
+
+  <h2>Sveisekvalitetstester — hver søm, hvert brett</h2>
+
+  <p>Sveiseintegritet verifiseres gjennom en obligatorisk fire-testprotokoll:</p>
+
+  <ol>
+    <li><strong>Visuell inspeksjon</strong> — 100 % av sømmene inspiseres visuelt for gjennomslag, feilplassering, forurensning eller ufullstendig sammensmeltning. Avvisningsrate terskel: 0,5 % av lineære meter.</li>
+    <li><strong>Skalltest</strong> — Et 25 mm bredt bånd klippes fra et teststykke sveist med hvert produksjonsparti. Minimum skallkraft: 120 N/25 mm for PVC 1100 dtex.</li>
+    <li><strong>Luftretensjonstest</strong> — Hvert fullført kammer overtrykkes til 1,5 × arbeidstrykk og holdes i 30 minutter. Trykkfall må ikke overstige 2 %.</li>
+    <li><strong>Termisk syklingstest</strong> — Teststykker sykles fra –20 °C til +60 °C i 50 sykluser, og skalltestes deretter igjen. Akseptabelt styrketap: &lt; 10 %.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Sammenligning av skallstyrke — RF vs varmluftssveising (PVC 1100 dtex)</p>
+    <div class="space-y-3">
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">RF-sveising</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:92%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">184 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Varmluft</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-gray-400 rounded" style="width:65%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">130 N</span>
+      </div>
+      <div class="flex items-center gap-3">
+        <span class="w-24 text-xs font-medium">Min.</span>
+        <div class="flex-1 h-6 bg-gray-200 dark:bg-gray-700 rounded">
+          <div class="h-full bg-green-500 rounded" style="width:48%"></div>
+        </div>
+        <span class="text-xs font-bold w-12 text-right">96 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">RF-sveising oppnår konsekvent 90–95 % av basematerialets styrke, godt over minimumskravet.</p>
+  </div>
+
+
+  <h2>Profesjonell ekspertise</h2>
+
+  <p>Vårt sveiseteam ledes av en senior prosessingeniør med 11 års erfaring med dielektrisk sveising av belagte tekstiler. hver operatør fullfører et 6-måneders internt sertifiseringsprogram før de får lov til å arbeide med produksjonssømmer. Resertifisering kreves årlig, inkludert en praktisk
+  sveisetest vurdert mot vår interne A-klasse-standard (skallstyrke ≥ 160 N/25 mm).</p>
+
+
+  <h2>Tilpassede sveiseløsninger for unike behov</h2>
+
+  <p>Vi forstår at en sveisespesifikasjon ikke passer for alle anvendelser. Vårt RF-sveisesenter utvikler rutinemessig tilpassede sømkonfigurasjoner for kunder med spesielle krav:</p>
+
+  <ul>
+    <li><strong>Flerlags forsterkningsplaster</strong> — for slitesterke områder som slitekanter og baugkjegler, utvikler vi flerpas RF-sveisinger som integrerer et slitesterkt ytre lag uten å compromise fleksibiliteten.</li>
+    <li><strong>Konduktive eller RF-uigjennomsiktige sømmer</strong> — for militære eller overvåkningsfartøy som krever elektromagnetisk skjerming, sveiser vi konduktive mesh-lag i sømoppbyggingen.</li>
+    <li><strong>Fargeendrende panelsveising</strong> — tofargede stoffpaneler (f.eks. oransje skrog + grå overbygning) sveiset med skjult overlap for å opprettholde merkeestetikken uten synlig sammenføyning.</li>
+  </ul>
+
+
+  <h2>Vårt engasjement overfor deg</h2>
+
+  <p>Hvert brett vi leverer bærer vår sveisekvalitetsgaranti: hvis en søm mislykkes i normal tjeneste innen garantiperioden, reparerer eller erstatter vi det berørte kammeret uten kostnad, og en rotårsaksundersøkelse utføres for å forhindre gjentakelse. Dette er ikke bare en garanti — det er et
+  engasjement for kontinuerlig forbedring drevet av data fra virkelig drift.</p>
+
+  <p>Når du velger Afarer, velger du sømmer som er ingeniørmessig utformet, testet og dokumentert — ikke bare sveist. Det er forskjellen mellom et brett som flyter og et brett som presterer.</p>
+cta:
+  title: Diskuter dine sveisekrav
+  subtitle: Tilpassede sømspesifikasjoner, materialkompatibilitet eller prosessvalidering.
+  button_text: Kontakt sveise-teamet vårt
+  button_link: /contact/

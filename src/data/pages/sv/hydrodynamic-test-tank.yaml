@@ -1,0 +1,127 @@
+meta:
+  title: Hydrodynamisk testtank — Skalmodellsläp och skroptimering | {SITE}
+  description: Validera prestandan för ditt skrov med vår hydrodynamiska testtank. Skalmodellsläpning, planeringsanalys och glideffektivitetstester. Boka en tanktestsession idag.
+back_text: Tillbaka till FoU-centrum
+home_label: Hem
+hero:
+  tagline: Lab 04
+  title: Hydrodynamisk testtank
+  subtitle: Validering av prestanda före den första fullskaleprototypen
+  image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+  image_alt: Afarers prestandatestning i hydrodynamisk testtank
+intro: >-
+  Det är en vanlig missuppfattning att hydrodynamisk testning är reserverad för oceanfartyg. I verkligheten är prestanda för ett litet planande skrov – som en uppblåsbar SUP – lika beroende av sin undervattensform som en tankfartyg är av sin bulbösa förlig. Trimvinkel, våtyta, spraygenerering och
+  ventilation har alla en dramatisk effekt på glid, hastighet och körkomfort. Hos Afarer driver vi en dedikerad hydrodynamisk testtank som låter oss kvantifiera dessa effekter i modellskala – innan vi binder tyg och verktyg vid en prototyp i fullskala.
+content_html: >
+  <h2>Varför tank-testa en paddle board?</h2>
+
+  <p>Provning i modellskala (normalt 1:3 till 1:5) ger oss möjlighet att snabbt och kostnadseffektivt iterera skrovformer. En vecka i tanken kan generera samma prestandadata som skulle kräva månaders helskalad testverksamhet — och till en bråkdel av kostnaden.</p>
+
+
+  <h2>Facilitetsspecifikationer</h2>
+
+  <table>
+    <thead><tr><th>Parameter</th><th>Specifikation</th></tr></thead>
+    <tbody>
+      <tr><td>Tankmått</td><td>35 m (L) × 3,5 m (B) × 1,8 m (D)</td></tr>
+      <tr><td>Dragvagn</td><td>Elektrisk servodriven, max. hastighet 12 m/s (23 kn), hastighetsnoggrannhet ± 0,5 %</td></tr>
+      <tr><td>Våggenerator</td><td>Klafftyp, programmerbara regelbundna &amp; oregelbundna havsförhållanden, Hs upp till 0,3 m i modellskala</td></tr>
+      <tr><td>Instrumentering</td><td>6-komponents dynamometer (motstånd, sidekraft, gagningsmoment), accelerometer, inklinometer, vågsonder</td></tr>
+      <tr><td>Datainsamling</td><td>Samplning med 1 000 Hz per kanal, realtidsdisplay + efterbehandlingspaket</td></tr>
+      <tr><td>Modelltillverkning</td><td>Egen CNC-fräsning och 3D-printing för modellskrov upp till 1,8 m LOA</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Vårt testprogram</h2>
+
+  <p>Ett standardutvecklingsprogram för skrov i vår tank följer följande sekvens:</p>
+
+  <ol>
+    <li><strong>Modellbygge</strong> — En 1:3,5-skalamodell CNC-fräsas från högdensitetsskum och förses med glasfiber för styvhet. Vikt och tyngdpunkt justeras för att matcha Froude‑skalad hellaststatus.</li>
+    <li><strong>Motståndsprov</strong> — Modellen dras vid 8–10 hastigheter inom operativområdet. Totalt motstånd mäts och dekomponeras i friktions- och residualkomponenter med ITTC‑1957-metoden.</li>
+    <li><strong>Lutning &amp; sänkmätning</strong> — Lopplutning och sänkning registreras vid varje hastighet. En optimal lutningsvinkel på 4–6° för planande skrov är målet.</li>
+    <li><strong>Vågundersökning</strong> — Tvärvågsektioner mäts vid två hastigheter för att bedöma våggenererat motstånd och identifiera tvärvågsinteraktioner som kan orsaka akterstörningar.</li>
+    <li><strong>Sjöhållbarhet (valfritt)</strong> — Motsjö- och medsjölopp i regelbundna vågar för att mäta ökat motstånd, vertikal acceleration och sannolikhet för planingsslag.</li>
+    <li><strong>Dataanalys &amp; rekommendationer</strong> — En komplett rapport levereras med jämförelsediagram, hastighets/effekt‑kurvor och specifika designrekommendationer för det helskalade skrovet.</li>
+  </ol>
+
+
+  <div class="not-prose my-10 p-6 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+    <p class="text-sm font-semibold text-gray-500 mb-3 uppercase tracking-wider">Typiska tanktestresultat — Motstånd vs. hastighet (tur-SUP-skrov, 1:3,5-skala)</p>
+    <div class="space-y-2">
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">5 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:18%"></div>
+        </div>
+        <span class="w-16 text-right">42 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">10 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:35%"></div>
+        </div>
+        <span class="w-16 text-right">81 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">15 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:52%"></div>
+        </div>
+        <span class="w-16 text-right">121 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">20 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:68%"></div>
+        </div>
+        <span class="w-16 text-right">158 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">25 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:85%"></div>
+        </div>
+        <span class="w-16 text-right">197 N</span>
+      </div>
+      <div class="flex items-center gap-2 text-xs">
+        <span class="w-20">30 kn (1:1)</span>
+        <div class="flex-1 bg-gray-200 dark:bg-gray-700 h-5 rounded">
+          <div class="h-full bg-blue-600 rounded" style="width:100%"></div>
+        </div>
+        <span class="w-16 text-right">232 N</span>
+      </div>
+    </div>
+    <p class="text-xs text-gray-400 mt-2">Modellskalat motstånd (N) vid Froude‑skalade hastigheter. Helskalad effektförutsägelse följer ITTC‑1978 prestandaförutsägelsemetod.</p>
+  </div>
+
+
+  <h2>Experterna</h2>
+
+  <p>Vår tank drivs av en hydrodynamiker med doktorsexamen i strömningsmekanik och 8 års erfarenhet av släptanksprovning vid ett stort europeiskt maritimt forskningsinstitut. Han stöds av en tekniker som förbereder alla modeller och instrument. Teamet följer ITTC (International Towing Tank
+  Conference) rekommenderade procedurer för att säkerställa att varje test är upprepbart, spårbart och internationellt försvarbart.</p>
+
+
+  <h2>Tanktest för anpassad skrovutveckling</h2>
+
+  <p>Vår tank används inte bara för egendesignade skrov — vi genomför regelbundna testprogram för kunder som vill validera en anpassad skrovform eller undersöka ett prestandaproblem:</p>
+
+  <ul>
+    <li><strong>Skrovformjämförelse</strong> — Två eller flera kandidatskrov testas under identiska förhållanden och ger en objektiv jämförelse av motstånd/hastighet/stabilitet som stöd för designvalet.</li>
+    <li><strong>Tillbehörsoptimering</strong> — Fenoconfigurationer, railprofiler och rockervarianter kan testas i olika kombinationer för att kvantifiera deras enskilda bidrag till motståndsminskning.</li>
+    <li><strong>Glideffektivitetsstudie</strong> — Motståndsdata omvandlas till en glideffektivitetskurva, vilket gör det möjligt att balansera skrovvolym, rocker och styvhet för din målpaddelhastighet och last.</li>
+  </ul>
+
+
+  <h2>Varför testa med oss?</h2>
+
+  <p>Vi ger dig inte bara en uppsättning råtal. Våra rapporter översätter tankdata till handlingskraftiga tekniska rekommendationer: "Lägg till 8 mm nosrocker för att minska våtytan vid lugn fart", "Minska akterrockern med 3° för att förlänga vattenlinjen vid turfart"
+  eller "Flytta den bredaste punkten 150 mm akterut för förbättrad spårning". Ni lämnar med en tydlig förståelse för vad som bör ändras och varför.</p>
+
+  <p>Vår tank är också tillgänglig för oberoende tredjepartsprovning på betalbasis. Om ni utvecklar ett skrov och vill ha en opartisk, professionellt genomförd hydrodynamisk bedömning, välkomnar vi er förfrågan.</p>
+cta:
+  title: Boka en tanktestsession
+  subtitle: Oavsett om du behöver ett komplett utvecklingsprogram eller ett enskilt jämförande prov kan vi anpassa oss efter din tidsplan.
+  button_text: Kontakta vårt hydrodynamikteam
+  button_link: /contact/

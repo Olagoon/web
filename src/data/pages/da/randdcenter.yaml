@@ -1,0 +1,125 @@
+meta:
+  title: R&D-center | {SITE}
+  description: Forskning og udvikling — test af PVC-stof, skrogkonstruktion, RF-svejsning, hydrodynamisk testning og kvalitetskontrol. Skræddersyede R&D-services er tilgængelige.
+hero:
+  tagline: F&U-center
+  title: R & D-center
+  subtitle: Fokuseret på fremgang
+intro:
+  - >-
+    afarer’s forsknings- og udviklingscenter (R&D) er drivkraften bag vores mission om at revolutionere udstyr til vandsport. Vi giver vandsportsentusiaster over hele verden sikrere, mere komfortable og mere fornøjelige produkter gennem vedholdende innovation inden for oppustelige stand-up
+    paddleboards (SUP). Vores dedikerede team af ingeniører, designere og passionerede vandsportseksperter former branchens fremtid og hæver konstant barren for kvalitet, ydeevne og bæredygtighed.
+  - Vores R&D-facilitet samler materialeforskere, marineingeniører og produktionsingeniører under ét tag. Fra stofformulering og skrogsimulering til udvikling af svejseprocesser og fuldskala søforsøg — hvert trin i produktudviklingen er datadrevet og valideret gennem testning.
+mission:
+  tagline: Vores mission
+  title: Vi innoverer fremtiden for vandsport
+  pillars:
+    - icon: lightning
+      title: Teknologisk udvikling
+      desc: Vi er pionerer inden for nye materialer, designs og fremstilling med fokus på overlegen ydeevne og lang levetid.
+    - icon: design
+      title: Brugercentreret design
+      desc: Vi forstår og overgår brugernes behov gennem ergonomisk og intuitivt produktdesign.
+    - icon: globe
+      title: Bæredygtig praksis
+      desc: Vi minimerer vores miljøaftryk ved at anvende miljøvenlige materialer og processer.
+    - icon: shield
+      title: Kompromisløs sikkerhed
+      desc: Vi sikrer de højeste sikkerhedsstandarder gennem grundig testning og certificering.
+pillars:
+  - title: Teknologisk udvikling
+    desc: Vi baner vejen for nye materialer, designs og produktionsprocesser for at levere overlegen ydeevne og lang levetid.
+    icon: tech
+  - title: Avancerede materialer
+    desc: Vi undersøger banebrydende PVC, kompositmaterialer og bæredygtige alternativer for forbedrede produktegenskaber.
+    icon: materials
+  - title: Bæredygtighed
+    desc: 'En kerneforpligtelse: Vi er dedikerede til miljøansvar gennem bæredygtig produktion og genanvendelige materialer.'
+    icon: sustainability
+capabilities:
+  tagline: Kapaciteter
+  title: R&D-kapaciteter
+  subtitle: Fire kernekompetencer, der giver os fuld kontrol over produktudviklingen fra ende til anden — fra råmaterialeforskning til endelig certificering.
+  groups:
+    - title: Materialevidenskab & stofteknologi
+      items:
+        - Analyse og optimering af PVC-formuleringer
+        - Udvikling af UV-stabilisering, flammehæmning og antibakterielle additiver
+        - Laminering af flerlagsstof og adhæsionsteknologi
+        - Accelereret ældningstest (UV, varme, fugt, saltvandståge)
+    - title: Skrogkonstruktion og hydrodynamik
+      items:
+        - Parametrisk 3D-skrogdesign og CFD-optimering
+        - Finite element-analyse for strukturelle og stødbelastninger
+        - Slæbetanktest med skalamodeller og validering af ydeevne
+        - Udvikling af specialskrog til særlige missionsprofiler
+    - title: Svejse- og samlingsteknologi
+      items:
+        - Udvikling og optimering af RF-dielektrisk svejseproces
+        - Varmluft-, varmkile- og ultralydssvejsemetoder
+        - Kvalificering af limning og sømtape
+        - Modellering af svejsestyrke og forudsigelse af levetid
+    - title: Testning, certificering & overensstemmelse
+      items:
+        - Kvalitetsstyring og CE-overensstemmelsestest
+        - Uafhængig tredjepartstestning og certificeringssupport
+        - Udvikling af skræddersyede testprotokoller til indkøbskvalificering
+        - Analyse af fejl i drift og undersøgelse af grundårsager
+rd_numbers:
+  tagline: Innovation
+  title: F&U i tal
+  stats:
+    - value: '14'
+      label: FoU-ingeniører og -forskere
+    - value: '8'
+      label: Aktive patenter og patentansøgninger
+    - value: '6'
+      label: Specialiserede laboratorier
+    - value: 12 år
+      label: Gennemsnitlig teamerfaring
+rd_services:
+  tagline: Skræddersyet R&D
+  title: R&D-services til partnere
+  services:
+    - title: Skræddersyet materialeudvikling
+      desc: Vi udvikler skræddersyede stofsammensætninger, laminatopbygninger og limesystemer, der er tilpasset dit driftsmiljø og dine præstationsmål.
+    - title: OEM / ODM-produktteknik
+      desc: Vi udvikler skræddersyede stofsammensætninger, laminatopbygninger og limesystemer, der er tilpasset dit driftsmiljø og dine præstationsmål.
+    - title: Tredjeparts testning & certificering
+      desc: Brug vores ISO-kompatible testfaciliteter til uafhængig materialetestning, produktvalidering og certificeringssupport.
+  cta: Drøft dine R&D-krav →
+  cta_link: /contact/
+vision:
+  tagline: Vores vision
+  title: Vi former fremtiden for vandsport
+  body: >-
+    afarer stræber efter at føre an i branchen for oppustelige SUP gennem løbende innovation, uforbeholden kvalitet og en urokkelig forpligtelse til sikkerhed og bæredygtighed — og dermed berige vandsportsentusiasters oplevelser verden over. afarer R&D Center er, hvor passion møder
+    innovation, og hvor der sættes nye standarder for vandsportsbranchen.
+labs_section:
+  tagline: Laboratorier
+  title: Vores laboratorier
+  labs:
+    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+      title: PVC-stoflaboratorium
+      description: Løbende forskning og test af PVC-dækstoffer med hensyn til trækstyrke, UV-bestandighed, slidstyrke og fleksibilitet ved lave temperaturer for at sikre langsigtet pålidelighed i marine miljøer.
+      href: /randdcenter/pvc-fabric-lab/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+      title: Skrog-engineeringstudio
+      description: CAD-baseret design og finite element-analyse af HDPE-, aluminium- og glasfiberskrog. Ethvert skrog simuleres digitalt for spændingsfordeling og slagfasthed, før det første prototype er bygget.
+      href: /randdcenter/hull-engineering/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+      title: RF-svejsecenter
+      description: Dedikeret radiofrekvenssvejsefacilitet med præcis temperatur- og trykstyring, der producerer stærke, lufttætte sømme, som lever op til den maritime industris standarder for oppustelige produkter.
+      href: /randdcenter/rf-welding/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+      title: Hydrodynamisk testtank
+      description: Test med skalamodeller i vores egen testtank for at optimere skrogform, planingsevne, stabilitet og brændstofeffektivitet under forskellige last- og søforhold.
+      href: /randdcenter/hydrodynamic-test-tank/
+    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      title: Prototypeværksted
+      description: Fuldskala-facilitet til prototyping og rigging, hvor nye modeller bygges, udstyres og søprøves. Hver prototype gennemgår et testprogram på mindst 20 timer på vandet, før produktionen godkendes.
+      href: /randdcenter/prototype-workshop/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+      title: Kvalitets- og inspektionslaboratorium
+      description: Dedikeret kvalitetssikringslaboratorium, der udfører træktest, luftretentionscyklusser, sømpeeling-test og materialecertificering for at sikre, at hvert board, der forlader værkstedet, lever op til vores offentliggjorte specifikationer.
+      href: /randdcenter/quality-inspection-lab/

@@ -1,0 +1,145 @@
+meta:
+  title: 'İletişim — Ortaklık ve ürün soruları | {SITE}'
+  description: 'Ortaklık, ortak marka ve özel etiket soruları veya profesyonel filolar için afarer ile iletişime geçin. Şişme SUP tahtası markası, 2 iş günü içinde yanıt veriyoruz.'
+  keywords:
+    - 'afarer iletişim'
+    - 'SUP distribütör teklifi'
+    - 'profesyonel SUP tedarikçisi'
+    - 'SUP üreticisi iletişim'
+hero_text:
+  tagline: İletişim
+  title: BİZE ULAŞIN
+contact_form:
+  id: form
+  title: Mesaj Gönderin
+  subtitle: Fiyat teklifi, teknik sorular veya iş birliği için bize yazın. Bir iş günü içinde yanıtlıyoruz.
+  email_to: info@afarer.com
+  submit_button: Talep gönder → Teklif al
+  success_message: Teşekkürler! Mesajınız alındı. Bir iş günü içinde yanıtlayacağız.
+  error_message: Gönderim sırasında bir hata oluştu. Lütfen tekrar deneyin veya doğrudan e-posta adresine yazın.
+  default_country_code: '+1'
+  captcha:
+    label: 'Anti-spam: aşağıdaki işlemi çözün'
+  fields:
+    - name: country
+      label: Ülke
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: Tahmini Sipariş Hacmi
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: Tahmini hacminizi seçin...
+        - value: sample
+          label: Yalnızca Numune / Prototip
+        - value: '5-10'
+          label: 5–10 birim (Standart MOQ)
+        - value: '100-500'
+          label: 100–500 adet
+        - value: '500-plus'
+          label: 500+ adet (Toplu fiyatlandırma)
+      step: 1
+    - name: customization
+      label: Özelleştirme gerekli mi?
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: Özelleştirme türünü seçin...
+        - value: none
+          label: Standart ürün (özelleştirme yok)
+        - value: logo
+          label: Yalnızca Özel Logo / Markalama
+        - value: full
+          label: Tam Ortak Marka (boyut, renk, grafik, paketleme)
+        - value: consultation
+          label: Emin değilim — danışmanlık gerekiyor
+      step: 1
+    - name: productInterest
+      label: İlgilenilen Ürün Kategorileri
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: Ürün kategorisi seçin...
+        - value: all
+          label: Tüm ürünler / Tam katalog
+        - value: sup
+          label: SUP Tahtaları / Kürekli Tahtalar
+        - value: safety
+          label: Güvenlik Ekipmanları / Can Yelekleri
+        - value: accessory
+          label: Aksesuarlar (pompalar, kürekler, çantalar)
+      step: 1
+    - name: firstName
+      label: Ad
+      row: 1
+      step: 2
+    - name: lastName
+      label: Soyad
+      row: 1
+      step: 2
+    - name: companyName
+      label: Şirket
+      row: 2
+      step: 2
+    - name: email
+      label: E-posta
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: Telefon
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: Adres
+      row: 4
+      step: 2
+    - name: zip
+      label: Posta Kodu
+      row: 5
+      step: 2
+    - name: subject
+      label: Konu
+      row: 1
+      step: 3
+    - name: message
+      label: Mesaj
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: Diğer İletişim Yolları
+  columns: 3
+  items:
+    - title: Satış Soruları
+      description: Fiyat teklifleri, konfigürasyonlar, bayi başvuruları ve toptan siparişler.
+      icon: tabler:shopping-bag
+    - title: Teknik Destek
+      description: Garanti, onarım, yedek parça ve kullanım soruları.
+      icon: tabler:tool
+    - title: Basın ve Ortaklıklar
+      description: Medya kitleri, sponsorluk ve sektör iş birlikleri.
+      icon: tabler:news
+    - title: Telefon
+      description: +1 279 732 3333
+      icon: tabler:headset
+    - title: E-posta
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: Genel Merkez
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: Konumumuz
+  subtitle: Bizi Ziyaret Edin
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

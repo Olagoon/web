@@ -1,0 +1,110 @@
+meta:
+  title: Produzione di SUP a Marchio Privato | {SITE}
+  description: Lancia il tuo marchio di SUP con Afarer. Dall'idea al mercato — servizio completo OEM/ODM che include progettazione, prototipazione, produzione e logistica globale.
+hero:
+  tagline: Costruisci il tuo marchio
+  title: Lancia il tuo marchio<br />di SUP
+  subtitle: Hai la visione. Noi abbiamo la fabbrica, l'esperienza e la catena di approvvigionamento. Insieme, costruiremo un marchio che si distingue.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Tavola SUP personalizzata con marchio sull'acqua
+process:
+  title: Il tuo viaggio del marchio
+  subtitle: Dall'idea al mercato in 5 fasi.
+  steps:
+    - phase: Fase 1
+      title: Idea
+      period: Settimana 1-2
+      items:
+        - Ricerca di mercato e analisi dei concorrenti
+        - Definizione del cliente target
+        - Workshop sul posizionamento del brand
+        - Strategia della linea di prodotti
+    - phase: Fase 2
+      title: Design
+      period: Settimana 3-6
+      items:
+        - Forma della tavola e design grafico
+        - Abbinamento dei colori e selezione dei materiali
+        - Specifica dell'accessorio
+        - Progettazione di imballaggi e etichette
+    - phase: Fase 3
+      title: Prototipo
+      period: Settimana 7-10
+      items:
+        - Produzione campione
+        - Test di qualità (pressione, galleggiamento, UV)
+        - Regolazioni del design
+        - Approvazione finale
+    - phase: Fase 4
+      title: Produzione
+      period: Settimana 11-14
+      items:
+        - Produzione in serie
+        - Ispezione QC (per unità)
+        - Trasporto marittimo / trasporto aereo
+        - Documenti per lo sdoganamento
+    - phase: Fase 5
+      title: Lancio
+      period: Settimana 15-16
+      items:
+        - Fotografia di prodotto
+        - Feed di prodotti del sito web
+        - Materiali di marketing
+        - Supporto al lancio
+packages:
+  title: Pacchetti per startup
+  subtitle: Pacchetti progettati per ogni fase della crescita del marchio.
+  items:
+    - name: Starter Brand
+      tagline: 50-100 unità · 2 modelli di scheda
+      features:
+        - Stampa di loghi di base
+        - Confezionamento standard
+        - Supporto via email
+    - name: Growing Brand
+      tagline: 300-1.000 unità · 3-5 modelli di schede
+      features:
+        - Logo colore personalizzato
+        - Confezionamento personalizzato
+        - Foto del prodotto
+        - Manager dedicato
+    - name: Established Brand
+      tagline: 1.000 unità · Linea di prodotti completa
+      features:
+        - Personalizzazione completa
+        - Confezionamento premium
+        - Materiale di marketing
+        - Produzione prioritaria
+features:
+  title: Perché i brand scelgono Afarer
+  subtitle: 10 anni di esperienza OEM, piena certificazione e il MOQ più basso del settore.
+  items:
+    - title: 10 anni di esperienza OEM
+      description: 2.400 scafi consegnati a marchi in tutto il mondo.
+      icon: tabler:clock
+    - title: Certificazione Completa
+      description: CE / ISO / UKCA / BSCI / REACH — tutti certificati.
+      icon: tabler:certificate
+    - title: Tempo di consegna di 30 giorni
+      description: Più veloce della media del settore dall'ordine alla spedizione.
+      icon: tabler:truck-delivery
+    - title: MOQ basso
+      description: Da 50 unità — il più basso del settore.
+      icon: tabler:package
+    - title: Progettazione interna
+      description: Supporto completo di progettazione dal concetto all'opera finale.
+      icon: tabler:palette
+    - title: Logistica Globale
+      description: Spedizione marittima, spedizione aerea e supporto per lo sdoganamento.
+      icon: tabler:world
+cta:
+  title: Pronto a lanciare il tuo marchio?
+  subtitle: Inizia il tuo percorso di brand o scarica la nostra guida OEM.
+  actions:
+    - text: Inizia il tuo percorso di marca
+      href: /contact/?package=oem
+      variant: primary
+    - text: Scarica la Guida OEM
+      href: /resources/download-catalog/
+      variant: secondary

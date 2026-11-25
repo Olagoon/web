@@ -1,0 +1,50 @@
+meta:
+  title: Program distribučních partnerů SUP | {SITE}
+  description: Připojte se ke globální distribuční síti afarer. Exkluzivní teritoria, kompletní produktové portfolio, konkurenceschopné velkoobchodní ceny a vyhrazený account manager.
+hero:
+  tagline: Distributoři
+  title: Připojte se k naší globální<br />distribuční síti
+  subtitle: Exkluzivní území. Kompletní produktové portfolio. Podpora světové úrovně. Afarer dodává do více než 50 zemí a hledáme zavedené distributory pro námořní a vodní sporty.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Globální distribuce a přepravní operace afarer
+benefits:
+  title: Co získají distributoři
+  subtitle: Vše, co potřebujete k úspěchu na vašem trhu.
+  items:
+    - Výhradní práva k území
+    - Kompletní katalog produktů (SUP, příslušenství, díly)
+    - Konkurenceschopné velkoobchodní ceny
+    - Marketingové a prodejní materiály (přeložené)
+    - Školicí program (produkt, prodej, údržba)
+    - Podpora na veletrzích
+    - Vzorkovací program
+    - Možnost drop-shippingu
+    - Vyhrazený account manager pro distributory
+    - Platební podmínky 45-60 dnů
+coverage:
+  title: Současná distribuce
+  subtitle: Společnost afarer v současnosti obsluhuje tyto trhy přímo.
+  regions:
+    - name: Evropa
+      countries: Francie, Německo, Velká Británie, Španělsko, Itálie, Nizozemsko, Švédsko, Norsko, Polsko, Řecko
+    - name: Asie
+      countries: Japonsko, Jižní Korea, Čína, Thajsko, Singapur
+    - name: Blízký východ
+      countries: SAE, Saúdská Arábie
+    - name: Amerika
+      countries: USA, Kanada, Brazílie, Mexiko
+    - name: Oceánie
+      countries: Austrálie, Nový Zéland
+    - name: Afrika
+      countries: Jižní Afrika, Maroko
+cta:
+  title: Jste připraveni stát se distributorem?
+  subtitle: Přihlaste se do našeho distributorského programu nebo si stáhněte informační balíček pro distributory.
+  actions:
+    - text: Přihlaste se do distribučního programu
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Stáhnout sadu pro distributory
+      href: /resources/download-catalog/
+      variant: secondary

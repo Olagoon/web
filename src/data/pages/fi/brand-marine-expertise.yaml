@@ -1,0 +1,72 @@
+meta:
+  title: 'Merellinen osaaminen — tekniikkaa jokaisessa rungossa | {SITE}'
+  description: 'Vuosikymmenten meritekniikkaa jokaisessa rungossa. afarer hallitsee drop stitch -rakenteen, meri-PVC:n ja ammattimaisen täytettävien SUP-lautojen suunnittelun.'
+  keywords:
+    - 'meritekniikka'
+    - 'täytettävien SUP-lautojen valmistaja'
+    - 'paddle board -valmistus'
+hero:
+  tagline: Meriasiantuntemus
+  title: Vuosikymmenten meritekniikka<br />jokaisessa rungossa
+  subtitle: afarer yhdistää syvällisen materiaalitieteen, tarkkuusvalmistuksen ja todellisen maailman testauksen tuottaakseen vesikulkuneuvoja, jotka suoriutuvat kun sillä on merkitystä.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: afarerin meritekniikan ja tuotekehityksen tiimi työssä
+expertise_materials:
+  tagline: Materiaalitiede
+  title: Oikean materiaalin valinta<br />jokaiseen käyttötarkoitukseen
+  subtitle: Työskentelemme kahden ydinmateriaalin kanssa — jokainen valittu tiettyihin käyttötapauksiin ja suorituskykyvaatimuksiin.
+  columns: 3
+  items:
+    - title: Meriluokan PVC
+      description: 1100 denierin PVC-kangas — monipuolisin materiaalimme. UV-stabilisoitu, hankauksenkestävä ja REACH-vaatimustenmukainen. Ihanteellinen SUP-lautoihin, joissa paino ja kustannustehokkuus ratkaisevat.
+      icon: tabler:droplet
+    - title: Lasikuitu ja polyeteeni
+      description: Lasikuitulaminoidut SUP-laudat premium-jäykkyyteen ja liukumiseen. Rotaatiovaluttu polyeteeni raskaaseen vuokraus- ja pelastuskäyttöön, joka vaatii maksimaalista iskunkestävyyttä.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Valmistuskyvyt
+  title: Tarkkuusvalmistus<br />joka vaiheessa
+  subtitle: 12 000 m² laitoksemme on varustettu erikoistuneilla koneilla jokaista tuotantovaihetta varten.
+  columns: 2
+  items:
+    - title: CNC-leikkaus
+      description: Tietokoneohjattu leikkaus varmistaa tarkat, toistettavat kangaspaneelit mahdollisimman vähällä hukalla. Jokainen osa sopii täsmälleen suunnitellusti.
+      icon: tabler:cpu
+    - title: Korkeataajuushitsaus
+      description: Teollinen HF-hitsaus luo saumoja, jotka ovat vahvempia kuin perusmateriaali. Tasainen lämpötilan ja paineen säätö varmistaa ilmatiiviit tiivisteet jokaisessa tuotantoerässä.
+      icon: tabler:bolt
+    - title: Drop-stitch-ydinkokoonpano
+      description: Tuhannet polyesterlangat yhdistävät kankaan ylä- ja alakerroksen mahallistaen korkeapainetäytön (15-20 PSI) jäykille, vakaille SUP-laudoille.
+      icon: tabler:building-arch
+    - title: Paineentestaus
+      description: Jokainen kumituote painetestataan ennen lähetystä. Laudat testataan 1,25-kertaisella nimellispaineella — jos se kestää siellä, se suoriutuu vedellä.
+      icon: tabler:wind
+    - title: Hiontakestävyyden testaus
+      description: Satunnaiset näytteet jokaisesta tuotantoerästä käyvät läpi tuhoavan saumanlujuustestauksen. Tulokset kirjataan ja ovat jäljitettävissä tiettyihin tuotantoeriin.
+      icon: tabler:files
+    - title: Veden testaus
+      description: Jokainen SUP-malli käy läpi merikokeet ennen sertifiointia. Todellisen maailman testaus rannikko-olosuhteissa vahvistaa suorituskyvyn, käsiteltävyyden ja vakauden.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Suunnittelu ja suunnittelu
+  title: Suunniteltu todellisiin olosuhteisiin
+  subtitle: Suunnittelufilosofiamme lähtee siitä, miten lautaa käytetään — sitten rakennamme tekniikan sen käyttötapauksen ympärille.
+  items:
+    - title: Suorituskykyrungon suunnittelu
+      description: Jokaisen rungon muoto on viritetty käyttötarkoitukseensa — siirtokeulat retkeilyliukuun, lisätty rocker surffiketteryyteen, tasaiset vakaat profiilit kalastukseen ja joogaan.
+    - title: Drop-stitch-turvallisuus
+      description: Jokaisessa laudassa on jäykkä drop-stitch-ydin vahvistetuilla reunoilla. Jos osa vaurioituu, suurvetolujuuksinen drop-stitch-rakenne pitää laudan toimintakuntoisena.
+    - title: Ergonominen kansirakenne
+      description: Kansipehmusteiden zonitus, kantokahvan sijainti ja kiinnityskohdat on suunniteltu melojan mukavuuden ympärille pitkäkestoiseen käyttöön — olipa kyse retkeilystä, kalastuksesta tai partiointista.
+    - title: Mukautettu kokoonpano
+      description: Reunojen värit, kansipehmusteen kokoonpano, lisävarustekiinnikkeet, varustekapasiteetti — jokainen malli voidaan räätälöidä vastaamaan tiettyjä toiminnallisia vaatimuksia.
+cta:
+  title: Onko sinulla tietty sovellus mielessä?
+  subtitle: Insinööritiimimme voi neuvoa materiaalien valinnassa, suunnittelussa ja valmistuksessa projektiisi.
+  actions:
+    - variant: primary
+      text: Kysy insinööreiltämme
+      href: /contact/
+    - text: Katso tuotevalikoima
+      href: /products/

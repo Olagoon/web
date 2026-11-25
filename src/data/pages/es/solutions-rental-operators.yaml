@@ -1,0 +1,66 @@
+meta:
+  title: Soluciones de Flota de Alquiler de SUP | {SITE}
+  description: Tablas de SUP de alta rotación diseñadas para uso diario en alquiler. PVC resistente a los rayos UV, costuras reforzadas, materiales de secado rápido. Amplía tu negocio de alquiler con Afarer.
+hero:
+  tagline: Operadores de alquiler
+  title: Haz crecer tu negocio de alquiler<br />Con confianza
+  subtitle: Tablas de SUP de alta rotación diseñadas para uso diario de alquiler, los 365 días del año. Tus ingresos nunca se toman un día libre.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Quisco de alquiler ocupado con tablas de SUP listas para los huéspedes
+features:
+  title: Construido para la rutina del alquiler
+  subtitle: Cada tablero está diseñado para 500 ciclos de alquiler con un mantenimiento mínimo.
+  items:
+    - title: 500 Ciclos de Alquiler
+      description: Probado para sobrevivir al uso diario en agua salada, sol y arena.
+      icon: tabler:shield-check
+    - title: Tela resistente a los rayos UV
+      description: Sin decoloración ni degradación después de 1 año de almacenamiento en exteriores.
+      icon: tabler:sun
+    - title: Costuras reforzadas
+      description: 3 veces más fuerte que la construcción estándar de tablas inflables.
+      icon: tabler:layers-intersect
+    - title: Materiales de secado rápido
+      description: Tablas listas para el próximo alquiler en menos de 30 minutos.
+      icon: tabler:droplet
+    - title: Almacenamiento apilable
+      description: 'Diseño que ahorra espacio: almacena un 40% más de tablas en el mismo espacio.'
+      icon: tabler:stack
+    - title: Tamaños codificados por color
+      description: El personal agarra instantáneamente la tabla correcta con un tamaño codificado por colores.
+      icon: tabler:color-swatch
+stats:
+  title: Métricas de Operaciones
+  stats:
+    - title: Rotación de la junta
+      amount: < 5 min
+    - title: Mantenimiento Anual
+      amount: ~15 min/tablero
+    - title: Despacho de piezas
+      amount: 48 h
+    - title: Tasa de defectos
+      amount: < 0,5%
+fleet_guide:
+  title: Guía de Dimensionamiento de Flotas
+  subtitle: Estime el tamaño de la flota y el potencial de ingresos de su operación de alquiler.
+  tiers:
+    - label: Pequeño quiosco
+      boards: 15-20
+      revenue: $XX,XXX/año
+    - label: Operación de tamaño medio
+      boards: 30-50
+      revenue: $XX,XXX/año
+    - label: Gran alquiler en la playa
+      boards: 50-100
+      revenue: $XXX,XXX/año
+cta:
+  title: ¿Listo para escalar tu negocio de alquiler?
+  subtitle: Obtenga precios de alquiler o compare modelos de placas para su operación.
+  actions:
+    - text: Obtener precios de alquiler
+      href: /contact/?package=rental
+      variant: primary
+    - text: Comparar modelos de placa
+      href: /compare/
+      variant: secondary

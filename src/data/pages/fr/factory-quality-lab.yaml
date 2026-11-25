@@ -1,0 +1,64 @@
+meta:
+  title: 'Laboratoire Qualité — Tests & Assurance Qualité | {SITE}'
+  description: "Laboratoire d'essais et assurance qualité afarer : tests de pression, vieillissement UV, résistance à la traction pour garantir la qualité des SUP gonflables."
+  keywords:
+    - 'contrôle qualité SUP'
+    - 'test SUP gonflable'
+    - 'qualité paddle gonflable'
+    - 'laboratoire qualité nautique'
+hero:
+  tagline: Laboratoire de Contrôle Qualité
+  title: Laboratoire d'Essais et Assurance Qualité
+  subtitle: Laboratoire qualité indépendant avec processus ISO 9001 — chaque unité testée avant expédition
+intro: afarer exploite un laboratoire de contrôle qualité dédié qui opère indépendamment de la production. Chaque lot de matière première et chaque planche finie passe par des protocoles d'inspection documentés avant la sortie. Notre équipe QC rapporte directement à la direction, garantissant des décisions qualité impartiales.
+highlights:
+  - value: 100 %
+    label: Units pressure-tested
+    detail: Chaque chambre, chaque planche
+  - value: 24–48 h
+    label: Durée du test de rétention d'air
+    detail: À 1,25× la pression nominale
+  - value: '&lt;5%'
+    label: Chute de pression maximale autorisée
+    detail: Période de maintien de 24 à 48 heures
+  - value: AQL 2,5
+    label: Major defect threshold
+    detail: Échantillonnage selon ISO 2859
+test_procedures:
+  - title: Inspection des Matières Premières
+    description: Chaque lot entrant de PVC, de tissu drop-stitch et de quincaillerie est testé avant acceptation. La résistance à la traction (ASTM D751), la résistance au déchirement (ISO 4674) et la résistance aux UV sont vérifiées. Les matériaux non conformes sont mis en quarantaine et retournés.
+    standards:
+      - ASTM D751 (traction)
+      - ISO 4674 (déchirure)
+      - ISO 4892 (UV)
+  - title: Points de Contrôle Qualité en Cours
+    description: Les opérateurs de production effectuent une auto-inspection à chaque étape. Les auditeurs QC effectuent des échantillonnages aléatoires tout au long du poste. Les tests de pelage des soudures sont effectués toutes les 50 unités. Les contrôles dimensionnels ont lieu tous les 20 panneaux.
+    standards:
+      - ASTM D751 (pelage)
+      - Liste de contrôle interne de 100 points
+      - Échantillonnage ISO 2859
+  - title: Test de Rétention d'Air 24–48 Heures
+    description: Chaque chambre est gonflée à 125 % de la pression nominale et maintenue pendant 24 à 48 heures. Les capteurs de pression enregistrent en continu avec compensation de température. Toute chambre dont la chute de pression dépasse 5 % déclenche une réinspection automatique du lot.
+    standards:
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Test de Charge et d'Équilibre
+    description: Les planches terminées sont testées à la capacité nominale maximale pour la stabilité et la rigidité. Chaque planche passe des essais en eau avant l'approbation de l'inspection finale.
+    standards:
+      - ISO 12217
+      - CE 2013/53/EU
+equipment:
+  - name: Machine d’Essai Universelle (traction)
+    spec: 5 kN, conforme ASTM D751
+  - name: Testeur de Décompression
+    spec: Multicanal, 0–50 psi, enregistrement de données
+  - name: Chambre de Vieillissement UV
+    spec: ISO 4892, cycles de 1 000 h
+  - name: Jauge d’épaisseur (numérique)
+    spec: Résolution 0,01 mm
+  - name: Testeur de Pelage (soudure)
+    spec: Motorisé, capacité 50 N
+  - name: Chambre de Température
+    spec: –40 °C à +100 °C
+  - name: Bassin de Détection de Fuites
+    spec: 6 m × 2 m, éclairé

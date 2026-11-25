@@ -1,0 +1,127 @@
+meta:
+  title: T&K-keskus | {SITE}
+  description: Tutkimus ja tuotekehitys — PVC-kangastestaus, rungonsuunnittelu, RF-hitsaus, hydrodynaaminen testaus ja laadunvalvonta. Räätälöityjä T&K-palveluita saatavilla.
+hero:
+  tagline: T&K-keskus
+  title: Tutkimus- ja kehityskeskus
+  subtitle: Keskittynyt edistymiseen
+intro:
+  - >-
+    afarerin Tutkimus- ja kehittämiskeskus (R&D) on voima, joka ajaa missiötämme vallankumouksellisesti muuttaa vesilajien välineitä. Autamme vesilajien harrastajia ympäri maailmaa tarjoamalla turvallisempia, mukavampia ja nautittavampia tuotteita jatkuvalla innovaatiolla ilmatäytettävien
+    SUP-lautojen saralla. Innokas insinööri-, suunnittelija- ja asiantuntijatiimimme muotoilee alan tulevaisuutta ja nostaa jatkuvasti rimaa laadun, suorituskyvyn ja kestävyyden osalta.
+  - >-
+    Tuotekehityslaitoksemme kokoaa materiaalitiedemiehiä, meri-insinöörejä ja tuotantoinsinöörejä saman katon alle. Kankaan koostumuksesta ja runkosimulaatiosta hitsausprosessin kehittämiseen ja täysmittaisiin meritestauksiin, jokainen tuotekehityksen vaihe on dataa ohjaama ja testausta
+    vahvistama.
+mission:
+  tagline: Meidän missiomme
+  title: Vesiurheilun tulevaisuuden innovointi
+  pillars:
+    - icon: lightning
+      title: Teknologinen kehitys
+      desc: Uusien materiaalien, suunnittelujen ja valmistusmenetelmien edelläkävijä tuotteiden suorituskyvyn ja kestävyyden parantamiseksi.
+    - icon: design
+      title: Keskitetty käyttäjän suunnittelu
+      desc: Käyttäjien tarpeiden syvällinen ymmärtäminen ja ylittäminen ergonomisella ja intuitiivisella tuotesuunnittelulla.
+    - icon: globe
+      title: Kestävät käytännöt
+      desc: Pienennämme ympäristöjalanjälkeämme ympäristöystävällisiä materiaaleja ja prosesseja käyttämällä.
+    - icon: shield
+      title: Tinkimätön turvallisuus
+      desc: Turvallisimman tason varmistaminen tiukan testauksen ja sertifioinnin kautta.
+pillars:
+  - title: Teknologinen kehitys
+    desc: Uusien materiaalien, suunnittelujen ja valmistusprosessien edelläkävijä tuotteen erinomaisen suorituskyvyn ja pitkäikäisyyden varmistamiseksi.
+    icon: tech
+  - title: Edistyneet materiaalit
+    desc: Tutkimelemme edistyneintä PVC:ää, komposiitteja ja kestäviä vaihtoehtoja tuotteiden parantamiseksi.
+    icon: materials
+  - title: Kestävyys
+    desc: 'Perussitoumus: Omistaudumme ympäristönvastuullisuuteen kestävän tuotannon ja kierrätettävien materiaalien avulla.'
+    icon: sustainability
+capabilities:
+  tagline: Valmiudet
+  title: Tutkimus- ja kehityskyvyt
+  subtitle: Neljä ydintoimintoa, jotka antavat meille kattavan hallinnan tuotekehitykseen — raaka-ainetutkimuksesta lopulliseen sertifiointiin.
+  groups:
+    - title: Materiaalitiede ja kangasteknologia
+      items:
+        - PVC-formulaatioiden analyysi ja optimointi
+        - UV-stabiloinnin, palonsuojan ja antimikrobisten lisäaineiden kehitys
+        - Monikerroskangan liimuman ja liimauksen insinööriotos
+        - Kiikeytetty ikääntymistestaus (UV, lämpötila, kosteus, suolalöyly)
+    - title: Rungon suunnittelu ja dynamiikka
+      items:
+        - Parametrinen 3D-rungonsuunnittelu ja CFD-optimoiminen
+        - Raja-elementtianalyysi rakenteellisille ja iskukuormille
+        - Mittakaavamallien vetoallas-testaus ja suorituskyvyn validointi
+        - Mukautetun rungon kehitys erityistehtäville
+    - title: Hitsaus- ja yhdistämistekniikka
+      items:
+        - RF-dielektrisen hitsausprosessin kehittäminen ja optimointi
+        - Kuumailma-, kuumakiila- ja ultraäänihitsausmenetelmät
+        - Liimauksen ja saumanauhan kelpoisuustestaus
+        - Hitsauslujuuden mallintaminen ja käyttöiän ennustaminen
+    - title: Testaus, sertifiointi ja vaatimustenmukaisuus
+      items:
+        - Laadunhallinto ja CE-vaatimustenmukaisuustesti
+        - Riippumaton kolmannen osapuolen testaus ja sertifiointituki
+        - Oman testiprotokolan kehittäminen hankintakvalifikaatioon
+        - Käyttövika-analyysi ja juurisyynen tutkimus
+rd_numbers:
+  tagline: Innovaatio
+  title: Tutkimus ja kehitys lukuina
+  stats:
+    - value: '14'
+      label: Tutkimus- ja kehitysinsinöörit ja tutkijat
+    - value: '8'
+      label: Voimassa olevat patentit ja patenttihakemukset
+    - value: '6'
+      label: Erikoistuneet laboratoriot
+    - value: 12 vuotta
+      label: Tiimin keskimääräinen kokemus
+rd_services:
+  tagline: Oma tutkimus ja kehitys
+  title: Tutkimus- ja kehityspalvelut kumppaneille
+  services:
+    - title: Mukautettu materiaalin kehitys
+      desc: Kehitämme räätälöityjä kangasmuotoiluja, laminaattipinoja ja liimajärjestelmiä, jotka on suunniteltu toimintaympäristöön ja suorituskykytavoitteisi sopivaksi.
+    - title: OEM / ODM -tuotesuunnittelu
+      desc: Kehitämme räätälöityjä kangasmuotoiluja, laminaattipinoja ja liimajärjestelmiä, jotka on suunniteltu toimintaympäristöön ja suorituskykytavoitteisi sopivaksi.
+    - title: Kolmannen osapuolen testaus ja sertifikaatio
+      desc: Käytä ISO-normien mukaisia testauslaitteitamme riippumattomaan materiaalitestaukseen, tuotevahvistukseen ja sertifointitukeen.
+  cta: Keskustele tutkimus- ja kehitystarpeistasi –
+  cta_link: /contact/
+vision:
+  tagline: Visioimme
+  title: Vesiuheilun tulevaisuuden muovaaminen
+  body: >-
+    afarer pyrkii johtamaan täytettävien SUP-lautojen toimialaa jatkuvan innovoinnin, horjumattoman laadun sekä lujan turvallisuus- ja kestävyyssitoumuksen kautta — rikastaen lopulta vesiliikuntaharrastajien kokemuksia maailmanlaajuisesti. Afarerin tutkimus- ja tuotekehityskeskus on
+    paikka, jossa intohimo kohtaa innovaation ja jossa asetetaan uusia standardeja vesiliikunta-alalle.
+labs_section:
+  tagline: Laboratoriot
+  title: Laboratoriomme
+  labs:
+    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+      title: PVC-kangaslaboratorio
+      description: Jatkuva tutkimus ja testaus PVC-kankauksissa vetolujuuden, UV-säilyvyyden, kohoutuksen ja matalan lämpötilan joustavuuden takaamiseksi meriympäristössä.
+      href: /randdcenter/pvc-fabric-lab/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+      title: Rungon suunnittelustudio
+      description: CAD-ohjaussuunnittelu ja rajattomeen elementtimenetelmään perustuva HDPE-, alumiini- ja lasikuiturunkojen analyysi. Jokainen runko digitaalisimuloidaan jännitysjakauman ja iskunkestävyyden osalta ennen ensimmäisen prototyyppin rakentamista.
+      href: /randdcenter/hull-engineering/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+      title: RF-hitsauskeskus
+      description: Oma radiotaajuushitsauslaitos tarkalla lämpötila- ja paineensäädöllä, joka tuottaa korkealujuuisia, tiiviitä liitoksia, jotka täyttävät ilmatäytteisiä vesikulkuneuvoja koskevat meriteollisuuden standardit.
+      href: /randdcenter/rf-welding/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+      title: Dynaaminen testiallas
+      description: Mittakaavamallien testaus sisäisessä testialtaassamme runkomuodon, suorituskyvyn, vakauden ja polttoainetehokkuuden optimoimiseksi eri kuormitus- ja merioloissa.
+      href: /randdcenter/hydrodynamic-test-tank/
+    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      title: Prototyyppipaja
+      description: Täysmittakaavan prototyyppi- ja varustuslaitos, jossa uudet mallit rakennetaan, asennetaan ja meritestataan. Jokainen prototyyppi suorittaa vähintään 20 tunnin vesitestiohjelman ennen tuotantohyväksyntää.
+      href: /randdcenter/prototype-workshop/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+      title: Laatu- ja tarkastuslaboratorio
+      description: Omistettu laadunvarmistuslaboratorio suorittaa venymätestaus, ilmanpidättesyklit, saumojen irrotustestit ja materiaalisertifikaation, joka varmistaa, että jokainen työpajalta lähtevä lauta täyttää julkaistut erittelymme.
+      href: /randdcenter/quality-inspection-lab/

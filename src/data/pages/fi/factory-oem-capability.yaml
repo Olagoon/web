@@ -1,0 +1,55 @@
+meta:
+  title: 'OEM- ja omamerkkituotanto | {SITE}'
+  description: 'Konseptista konttiin: räätälöi täytettävän SUP-sarjasi jokainen yksityiskohta. Täysi OEM/ODM-palvelu omamerkkisille paddle board -brändeille.'
+  keywords:
+    - 'OEM SUP-valmistus'
+    - 'omamerkki paddle board'
+    - 'OEM täytettävä SUP'
+    - 'räätälöity SUP-tehdas'
+hero:
+  tagline: OEM/ODM-valmistus
+  title: OEM- ja Private Label -valmistus
+  subtitle: Konseptista konttiin — räätälöi täytettävän SUP-sarjasi jokainen yksityiskohta
+intro: >-
+  Afarer tarjoaa kattavat OEM- ja ODM-palvelut brändeille, jakajille ja viranomaisille ympäri maailmaa. Yli 10 vuoden vientikokemuksella ja 12 000 m²:n ISO 9001- ja BSCI-sertifioidulla tehtaalla hoidamme kaiken tuotesuunnittelusta ja muun kehityksestä täysimittaiseen tuotantoon, pakkaamiseen ja
+  logistiikkaan.
+highlight:
+  - value: 10+
+    label: Vuotta OEM-kokemusta
+    detail: Vuodesta 2012
+  - value: 50+
+    label: Vientimaat
+    detail: Maailmanlaajuinen ulottuvuus
+  - value: 200+
+    label: Toimitetut räätälöidyt projektit
+    detail: Kaikissa tuotelinjoissa
+  - value: 30–45
+    label: Normaali toimitusaika (päivää)
+    detail: PO:sta FOB:hen
+services:
+  - title: Tuotesuunnittelu ja tekniikka
+    description: Sisäinen tutkimus- ja kehitysryhmämme työskentelee kanssanne käsitteenne tai tarkennuksenne kehittääkseen CAD-piirustukset, 3D-mallit ja prototyypit. Tarjoamme muovin suunnittelun, keulamuodon optimoinnin ja materiaalinvalinnan ohjauksen.
+  - title: Oma brändäys ja grafiikka
+    description: Värit digitaletulostus, silkkipaino, kohopaino ja etikettivaihtoehdot. Kehitämme merkille ominaiset kansigrafiikat, putkibrändäykset ja vähittäismyynnille valmiit pakkaukset.
+  - title: Materiaali- ja erittelyräätälöinti
+    description: Valitse PVC (standardi, ympäristöystävällinen, palonkestävä), drop-stitch ja hybridirakenteet. Mukautetut putkien värit, kangaspainot ja vahvistusvaihtoehdot.
+  - title: Pakkaus ja logistiikka
+    description: Mukautettu vähittäispakkaus, omalla nimellä varustetut laatikot, tyhjöpakkaus, palettikäsittely ja konttiin lastaus. FOB Qingdao, CIF tai DDP toimitusehdot saatavilla.
+moq_table:
+  - product: Puhallettavat SUP-laudat
+    standard_moq: 5–10 units
+    custom_moq: Yli 200 kappaletta
+    lead_time: 30–45 päivää
+  - product: Pelastusliivit ja turvallisuus
+    standard_moq: 100–200 kpl
+    custom_moq: 1 000+ kappaletta
+    lead_time: 20–30 päivää
+why_us:
+  - title: Vertikaalinen integraatio
+    description: Omistamme tehtaamme, muotimme ja toimitusketjun — ei välittäjiä, ei alihankkijoita. Tämä antaa meille hallinnan laadusta, kustannuksista ja toimituksista.
+  - title: Kaksoissertifikaatio
+    description: ISO 9001 laatujohtaminen ja BSCI sosiaalisen vastuun sertifikaatio. Tehtaan tarkastusraportit saatavilla pyynnöstä.
+  - title: CE-noudattavuus
+    description: Kaikki vakiomallit ovat CE 2013/53/EU -sertifioituja. Räätälöidyt mallit voidaan CE-sertifioida vakiintuneen prosessimme kautta.
+  - title: Pieni MOQ
+    description: Aloita jo viidellä yksiköllä vakio-malleissa. Autamme kasvavia brändejä lanseeraamaan ilman liian suurta varastositoutumista.

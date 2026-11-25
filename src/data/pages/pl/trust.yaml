@@ -1,0 +1,180 @@
+meta:
+  title: 'Zaufanie — jakość, standardy i reputacja | {SITE}'
+  description: 'Dlaczego warto zaufać afarerowi: certyfikaty CE i ISO, zintegrowana fabryka, globalne referencje i gwarancja. Profesjonalny producent nadmuchiwanych desek SUP.'
+  keywords:
+    - 'niezawodny producent SUP'
+    - 'certyfikowana fabryka paddle boardów'
+    - 'niezawodny dostawca SUP'
+    - 'certyfikowana fabryka SUP'
+hero:
+  tagline: Zbudowane według standardów, które mają znaczenie
+  title: Zaufaj afarer
+  subtitle: |
+    Każdy produkt, który budujemy, jest certyfikowany CE — testowany pod kątem bezpieczeństwa,<br />
+    trwałości i wydajności. Żadnych skrótów. Żadnych wyjątków.
+  taglineSection: Certyfikowane. Przetestowane. Sprawdzone.
+  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+  imageAlt: Produkt afarer przechodzący testy jakości
+stats:
+  title: afarer w liczbach
+  stats:
+    - title: Certyfikat CE
+      description: Wszystkie produkty rekreacyjne spełniają normy bezpieczeństwa UE
+    - title: ISO 9001:2015
+      description: System zarządzania jakością od 2012
+    - title: BSCI i REACH
+      description: Etyczna produkcja i zgodność materiałowa
+    - title: 3-letnia gwarancja
+      description: Na każdy produkt afarer — bez zadawania pytań
+features3_certifications:
+  title: Certyfikaty i zgodność
+  subtitle: Każdy produkt jest niezależnie testowany i certyfikowany zgodnie z międzynarodowymi normami.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: Certyfikat CE
+      description: Wszystkie SUP-y afarer spełniają europejską normę bezpieczeństwa CE dla rekreacyjnych jednostek pływających. Każdy produkt przechodzi testy ciśnienia, wyporności i obciążenia przed opuszczeniem fabryki.
+      icon: tabler:certificate
+    - title: ISO 9001:2015
+      description: Nasz zakład w Qingdao o powierzchni 12 000 m² działa w ramach systemu zarządzania jakością ISO 9001:2015. Każda partia produkcyjna jest identyfikowalna, udokumentowana i kontrolowana.
+      icon: tabler:clipboard-check
+    - title: Zgodność społeczna BSCI
+      description: Jesteśmy certyfikowani BSCI, co zapewnia etyczne praktyki pracy, bezpieczne warunki pracy i odpowiedzialność środowiskową w całym naszym łańcuchu dostaw.
+      icon: tabler:users
+    - title: REACH i RoHS
+      description: Wszystkie materiały — PVC, pianka EVA, kleje — są zgodne z przepisami UE REACH i RoHS. Żadnych substancji zabronionych, żadnych kompromisów.
+      icon: tabler:flask
+    - title: Laboratorium testowania materiałów
+      description: Wewnętrzne laboratorium materiałowe testuje wytrzymałość na rozciąganie, odporność na UV, integralność szwów i ścieralność każdej partii tkaniny przed produkcją.
+      icon: tabler:microscope
+    - title: 3-letnia gwarancja
+      description: Każdy produkt afarer jest objęty trzyletnią gwarancją na wady produkcyjne. Ręczymy za to, co budujemy.
+      icon: tabler:shield-check
+testimonials:
+  tagline: Zaufanie klientów
+  title: Co mówią nasi klienci
+  subtitle: Od początkujących wioślarzy po profesjonalnych operatorów floty — zobacz, dlaczego ufają afarer.
+  items:
+    - content: Wyposażyliśmy całą naszą flotę wynajmu w SUP-y afarer. Dwa sezony, zero awarii. Certyfikat CE sprawił, że zatwierdzenie ubezpieczenia przebiegło bezproblemowo.
+      name: Marco V.
+      title: Organizator wycieczek, Chorwacja
+    - content: Jako kupujący po raz pierwszy, obawiałem się jakości. Dokumentacja ISO i raporty z testów, które udostępnili, dały mi pełną pewność.
+      name: James T.
+      title: Właściciel SUP Explorer 11, Kanada
+    - content: Współpracujemy z afarer w zakresie naszych przybrzeżnych jednostek patrolowych. Ich proces kontroli jakości jest spójny w każdej partii — ta niezawodność ma znaczenie w operacjach krytycznych.
+      name: Kmdr ppor. Andres
+      title: Zamówienia morskie, Filipiny
+steps2_manufacturing:
+  title: Jak zapewniamy jakość
+  subtitle: Od kontroli surowców po końcowe testy ciśnieniowe — każdy produkt przechodzi rygorystyczny łańcuch jakości.
+  items:
+    - title: Kontrola surowców
+      description: Każda rolka tkaniny PVC jest testowana pod kątem grubości, wytrzymałości na rozciąganie i odporności na UV przed dopuszczeniem do produkcji.
+      icon: tabler:search
+    - title: Kontrola jakości w procesie
+      description: Szwy spawalnicze, montaże zaworów i wiązania komór są kontrolowane na każdym stanowisku podczas montażu.
+      icon: tabler:eye
+    - title: Test ciśnieniowy
+      description: Każdy produkt nadmuchiwany jest pompowany do 1,25x nominalnego PSI i utrzymywany przez 24–48 godzin w celu weryfikacji zatrzymywania powietrza i integralności szwów.
+      icon: tabler:wind
+    - title: Kontrola końcowa
+      description: Każda jednostka jest kontrolowana pod kątem wykończenia, osprzętu i opakowania przed zatwierdzeniem do wysyłki. Próbki partii trafiają do naszego laboratorium w celu testów niszczących.
+      icon: tabler:clipboard-check
+factory_audit:
+  title: Audyt fabryki i zgodność społeczna
+  subtitle: Nasz obiekt w Qingdao o powierzchni 12 000 m² jest otwarty na audyty osób trzecich. Utrzymujemy certyfikat zgodności społecznej BSCI i witamy inspekcje klientów.
+  stats:
+    - value: 12 000 m²
+      label: Zakład produkcyjny
+    - value: '200+'
+      label: Wykwalifikowani pracownicy
+    - value: 15 000+
+      label: Roczna pojemność jednostki
+    - value: BSCI
+      label: Zgodność społeczna
+  highlights:
+    - title: Certyfikowany BSCI
+      desc: Certyfikat zgodności społecznej amfori BSCI — etyczna praca, bezpieczne warunki, odpowiedzialność wobec środowiska.
+      link: /certifications/
+    - title: Otwarte do inspekcji
+      desc: Zapraszamy klientów do przeprowadzania audytów w naszej fabryce. Umów się na wizytę lub wirtualną wycieczkę po naszych liniach produkcyjnych w Qingdao.
+      link: /factory/
+    - title: Pełna możliwość śledzenia
+      desc: Każda partia produkcyjna jest dokumentowana i możliwa do śledzenia — od numerów serii surowców po ostateczne zatwierdzenie kontroli jakości.
+    - title: ISO 9001:2015
+      desc: System zarządzania jakością certyfikowany przez SGS. Nasze procesy spełniają międzynarodowe standardy produkcji.
+      link: /certifications/
+warranty_section:
+  title: Gwarancja i wsparcie posprzedażowe
+  subtitle: Stojymy za każdym produktem z jasnymi warunkami gwarancji, szybkim rozpatrywaniem roszczeń i oryginalnymi częściami zamiennymi.
+  items:
+    - title: 3-letnia gwarancja na produkt
+      desc: Wszystkie produkty afarer objęte są 3-letnią gwarancją na wady produkcyjne — pęknięcia szwów, wady zaworów oraz rozwarstwienie materiału przy normalnym użytkowaniu.
+    - title: Wsparcie części przez całe życie
+      desc: Oryginalne części zamienne — zawory, zestawy naprawcze, płetwy, pierścienie D — dostępne dla wszystkich modeli. Utrzymujemy formy i narzędzia przez co najmniej 5 lat po zakończeniu produkcji.
+    - title: Odpowiedź na roszczenie w ciągu 48 godzin
+      desc: Roszczenia gwarancyjne rozpatrywane w ciągu 48 godzin. Płyty zastępcze wysyłane w ciągu 10 dni roboczych dla zatwierdzonych roszczeń.
+    - title: Globalna Sieć Napraw
+      desc: Autoryzowane centra serwisowe w 15 krajach. Zestawy naprawcze w terenie dostępne do operacji w odległych miejscach. Przewodniki do samodzielnej naprawy dla drobnych uszkodzeń.
+    - title: Wsparcie klienta OEM
+      desc: Dedykowani menedżerowie kont dla partnerów B2B. Kwartalne przeglądy biznesowe, planowanie zapasów i wsparcie marketingowe we współpracy przy wspólnej marce.
+    - title: Pakiet certyfikacyjny
+      desc: Pełna dokumentacja zgodności dostarczana z każdą przesyłką — Deklaracja CE, raporty z badań, karty charakterystyki materiałów niebezpiecznych.
+      link: /contact/
+trust_resources:
+  title: Zasoby zaufania
+  subtitle: Pobierz nasze portfolio certyfikatów, raporty kontroli jakości oraz dokumentację zgodności.
+  items:
+    - title: Portfolio certyfikacyjne
+      desc: Certyfikaty CE, ISO 9001, BSCI, REACH, RoHS, AS 1799 w jednym pakiecie.
+    - title: Raport ze standardów testowania kontroli jakości
+      desc: 24–48-godzinne testy utrzymania ciśnienia, starzenie UV zgodnie z ISO, walidacja wytrzymałości na rozciąganie — kompletna metodologia.
+    - title: Profil fabryki i raport z audytu
+      desc: Przegląd obiektu o powierzchni 12 000 m² ze zdjęciami linii produkcyjnej i podsumowaniem audytu osoby trzeciej.
+    - title: Dokument Polityki Gwarancyjnej
+      desc: Pełne warunki gwarancji, procedura składania reklamacji oraz ceny części zamiennych.
+  cta_text: Żądanie zasobów zaufania
+  cta_link: /contact/
+faqs_sup:
+  title: FAQ dotyczące desek SUP
+  subtitle: Często zadawane pytania dotyczące naszych desek do wiosłowania na stojąco.
+  columns: 2
+  items:
+    - title: Jakie rozmiary desek SUP są dostępne?
+      description: Oferujemy deski SUP od 9 stóp do 12 stóp, w tym modele uniwersalne, turystyczne, do jogi i specjalistyczne. Nasze najlepiej sprzedające się modele to Tropical Breeze (10 stóp) i Ocean Voyager (11 stóp).
+    - title: Czym jest konstrukcja drop-stitch?
+      description: Konstrukcja drop-stitch wykorzystuje tysiące poliestrowych nici łączących górną i dolną warstwę deski, umożliwiając utrzymanie wysokiego ciśnienia powietrza (15–20 PSI) i uzyskanie sztywnej, stabilnej platformy. Jest to standard branżowy dla najwyższej jakości nadmuchiwanych SUP.
+    - title: Jaki jest limit wagi dla desek SUP?
+      description: Nasze deski SUP obsługują do 150 kg w zależności od modelu i objętości. Leviathan Wake to nasz model o największej pojemności, zaprojektowany dla większych wioślarzy i do jogi.
+    - title: Czy oferujecie kompletne pakiety SUP?
+      description: Tak. Każda deska SUP jest wysyłana z kompletnym pakietem zawierającym 3-częściowe wiosło aluminiowe, ręczną pompkę wysokociśnieniową, linkę spiralną, plecak podróżny i zestaw naprawczy. Niektóre modele zawierają również wymienny zestaw stateczników.
+    - title: Jaka jest gwarancja na deski SUP?
+      description: Wszystkie deski SUP afarer są objęte roczną gwarancją na wady produkcyjne, w tym pęknięcia szwów, wady zaworów i delaminację materiału przy normalnym użytkowaniu.
+    - title: Ile czasu zajmuje pompowanie deski SUP?
+      description: Przy użyciu dołączonej pompki ręcznej, pełne napompowanie do 15 PSI zajmuje około 8–12 minut. Aby przyspieszyć pompowanie, zalecamy naszą elektryczną pompkę afarer 12V, która pompuje deskę w mniej niż 4 minuty.
+faqs_materials:
+  title: FAQ dotyczące materiału i pielęgnacji SUP
+  subtitle: Częste pytania dotyczące materiałów naszych dmuchanych desek SUP, pielęgnacji i przechowywania.
+  columns: 2
+  items:
+    - title: Jakie materiały są używane w nadmuchiwanych SUP-ach firmy Afarer?
+      description: Używamy wojskowej klasy PVC (1100 denier) o konstrukcji odpornej na ścieranie i stabilizowanej na działanie promieni UV, zgodnej z przepisami UE REACH i RoHS.
+    - title: Jak długo wytrzymują nadmuchiwane deski SUP?
+      description: Przy odpowiedniej pielęgnacji wysokiej jakości dmuchany SUP z PVC wytrzymuje 5–10 lat. Regularne czyszczenie, ochrona przed promieniowaniem UV i właściwe przechowywanie znacznie wydłużają jego żywotność.
+    - title: Jakie czynności konserwacyjne są wymagane dla nadmuchiwanego SUP-a?
+      description: Podstawowa konserwacja obejmuje płukanie świeżą wodą po każdym użyciu (szczególnie w wodzie słonej), suszenie przed przechowywaniem, coroczną kontrolę uszczelek zaworów oraz unikanie długotrwałego narażenia na słońce, gdy nie jest używane.
+    - title: Czy dmuchane deski SUP mogą być używane w wodzie słonej?
+      description: Tak. Wszystkie dmuchane SUP-y Afarer są przeznaczone do używania zarówno w wodzie słodkiej, jak i słonej. Zalecamy spłukanie świeżą wodą i dokładne osuszenie po kontakcie z wodą słoną.
+    - title: Jak przechowywać nadmuchiwany SUP?
+      description: Spuść powietrze, oczyść i całkowicie wysusz deskę przed przechowywaniem. Zwiń luźno (unikaj ciasnych zgięć), przechowuj w chłodnym, suchym miejscu z dala od bezpośredniego światła słonecznego i trzymaj z dala od betonowych podłóg, aby zapobiec wchłanianiu wilgoci.
+    - title: Jaka jest nośność dmuchanych desek SUP marki afarer?
+      description: Nośność waha się od 100 kg dla naszych najmniejszych modeli do ponad 200 kg dla większych desek. Na każdej stronie produktu znajduje się informacja o maksymalnym obciążeniu dla konkretnego modelu.
+cta:
+  title: Chcesz zobaczyć certyfikaty osobiście?
+  subtitle: Poproś o nasze portfolio certyfikatów, raporty z audytu fabryki lub dokumentację zgodności materiałowej. NDA nie jest wymagane.
+  actions:
+    - variant: primary
+      text: Poproś o dokumentację certyfikatów
+      href: /contact/
+    - text: Odwiedź naszą stronę fabryki
+      href: /factory/

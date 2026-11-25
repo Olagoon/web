@@ -1,0 +1,55 @@
+meta:
+  title: 'OEM ve Özel Etiket Üretimi | {SITE}'
+  description: 'Konseptten konteynere: şişme SUP serinizin her ayrıntısını özelleştirin. Özel etiket paddle board markaları için eksiksiz OEM/ODM hizmeti.'
+  keywords:
+    - 'OEM SUP üretimi'
+    - 'özel etiket paddle board'
+    - 'OEM şişme SUP'
+    - 'özel SUP fabrikası'
+hero:
+  tagline: OEM/ODM Üretim
+  title: OEM ve Private Label Üretimi
+  subtitle: Konseptten konteynere — şişme SUP serinizin her ayrıntısını özelleştirin
+intro: >-
+  afarer, dünya genelindeki markalar, distribütörler ve devlet kurumları için kapsamlı OEM ve ODM hizmetleri sunmaktadır. 10 yılı aşkın ihracat deneyimi ve 12.000 m² ISO 9001 & BSCI sertifikalı fabrikamızla, ürün tasarımından kalıp geliştirmeye, tam ölçekli üretimden ambalaj ve lojistiğe kadar her
+  şeyi yönetiyoruz.
+highlight:
+  - value: 10+
+    label: Yıl OEM deneyimi
+    detail: 2012'den Beri
+  - value: 50+
+    label: İhracat ülkeleri
+    detail: Küresel erişim
+  - value: 200+
+    label: Özel projeler teslim edildi
+    detail: Tüm ürün hatları genelinde
+  - value: 30–45
+    label: Standart termin süresi (gün)
+    detail: PO'dan FOB'a
+services:
+  - title: Ürün Tasarımı ve Mühendislik
+    description: Kendi iç Ar-Ge ekibimiz konseptiniz veya teknik spesifikasyonunuzla çalışarak CAD çizimleri, 3D modeller ve prototipler geliştirir. Kalıp tasarımı, gövde şekli optimizasyonu ve malzeme seçimi rehberliği sunuyoruz.
+  - title: Özel Marka ve Grafik Çalışmaları
+    description: Tam renkli dijital baskı, serigrafi, kabartma ve etiket seçenekleri. Markaya özel güverte grafikleri, tüp markalama ve perakendeye hazır ambalaj geliştiriyoruz.
+  - title: Malzeme ve Teknik Özellik Özelleştirmesi
+    description: PVC (standart, çevre dostu, yangın geciktirici), drop-stitch ve hibrit yapılardan seçim yapın. Özel tüp renkleri, kumaş ağırlıkları ve güçlendirme seçenekleri.
+  - title: Ambalaj ve Lojistik
+    description: Özel perakende ambalaj, özel markalı kutular, vakum paketleme, paletleme ve konteyner yükleme. FOB Qingdao, CIF veya DDP sevkiyat koşulları mevcuttur.
+moq_table:
+  - product: Şişirilebilir SUP Tahtaları
+    standard_moq: 5–10 adet
+    custom_moq: 200+ birim
+    lead_time: 30–45 gün
+  - product: Can Yelekleri ve Güvenlik
+    standard_moq: 100–200 adet
+    custom_moq: 1.000+ adet
+    lead_time: 20–30 gün
+why_us:
+  - title: Dikey Entegrasyon
+    description: Fabrikamızı, kalıplarımızı ve tedarik zincirimize sahibiz — aracılara, alt yüklenicilere gerek yok. Bu bize kalite, maliyet ve teslimat üzerinde kontrol sağlar.
+  - title: Çift Sertifikasyon
+    description: ISO 9001 kalite yönetimi ve BSCI sosyal uyumluluk sertifikası. Fabrika denetim raporları talep üzerine mevcuttur.
+  - title: CE Uyumluluğu
+    description: Tüm standart modeller CE 2013/53/EU sertifikasına sahiptir. Özel modeller, yerleşik süreçlerimiz aracılığıyla CE sertifikası alabilir.
+  - title: Düşük MOQ
+    description: Standart modeller için 5 adet kadar az sayıda başlayabilirsiniz. Yeni markaların aşırı stok taahhüdü olmadan piyasaya sürülmesine yardımcı oluyoruz.

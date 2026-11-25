@@ -1,0 +1,99 @@
+meta:
+  title: 'Demande de Devis — Fabricant SUP OEM | {SITE}'
+  description: 'Demandez un devis détaillé pour votre projet de SUP gonflable. Fabrication OEM/ODM, marque privée ou flottes personnalisées — nous répondons sous 2 jours ouvrés.'
+  keywords:
+    - 'demande de devis SUP'
+    - 'devis OEM paddle'
+    - 'devis usine SUP'
+    - 'fabricant SUP professionnel'
+hero_text:
+  tagline: Obtenir un devis
+  title: Demander un Devis<br />pour Votre Projet
+  subtitle: Parlez-nous de vos exigences et notre équipe répondra avec un devis détaillé sous 2 jours ouvrés.
+steps2_process:
+  title: Comment ça fonctionne
+  subtitle: Quatre étapes simples de la demande au devis.
+  items:
+    - title: 'Étape 1 : Soumettez Vos Exigences'
+      description: Remplissez le formulaire ci-dessous avec votre type de produit, votre quantité et vos spécifications. Plus vous fournissez de détails, plus votre devis sera précis.
+      icon: tabler:file-text
+    - title: 'Étape 2 : Nous Examinons et Conseillons'
+      description: Notre équipe d’ingénierie examine vos exigences et peut vous contacter pour des éclaircissements. Nous fournissons des recommandations sur la configuration et les options du produit.
+      icon: tabler:users
+    - title: 'Étape 3 : Recevez Votre Devis'
+      description: Vous recevez un devis détaillé incluant le prix unitaire, le MOQ, le délai, les conditions de paiement et les options d'expédition. Généralement sous 48 heures.
+      icon: tabler:currency-dollar
+    - title: 'Étape 4 : Échantillon et Production'
+      description: Après acceptation du devis, nous procédons à la production d'échantillons (si applicable) ou directement à la production en série. Mises à jour régulières tout au long du processus.
+      icon: tabler:building-factory
+content_form:
+  tagline: Formulaire de demande de devis
+  title: Parlez-Nous de Votre Projet
+  subtitle: Tous les champs avec * sont obligatoires.
+  contact_fields:
+    firstName: Prénom
+    lastName: Nom
+    companyName: Nom de l'entreprise
+    email: E-mail
+  fields:
+    - name: Catégorie de produit
+      type: select
+      options:
+        - Planche SUP
+        - SUP gonflable
+        - Planche SUP Gonflable
+        - Gilet de sauvetage
+        - Accessoire marin
+        - OEM/ODM personnalisé
+    - name: Application
+      type: select
+      options:
+        - Centre de plongée
+        - Pêche
+        - Tourisme marin / Complexe
+        - Recherche et Sauvetage
+        - Gouvernement / Militaire
+        - OEM / Marque blanche
+        - Personnel / Loisir
+        - Autre
+    - name: Quantité
+      type: text
+      placeholder: p. ex. 50 unités
+    - name: Marché cible
+      type: text
+      placeholder: p. ex. Europe, Amérique du Nord, Moyen-Orient
+    - name: Pays de livraison
+      type: text
+      placeholder: p. ex. Italie, EAU, États-Unis, Australie
+    - name: Préférence de matériau
+      type: select
+      options:
+        - Aucune préférence
+        - PVC qualité marine (1100 dtex)
+        - Coque en Fibre de Verre
+        - Coque en Aluminium
+    - name: Spécification Moteur
+      type: text
+      placeholder: p. ex. configuration paddle standard, pompe électrique, couleurs personnalisées
+    - name: Personnalisation requise
+      type: text
+      placeholder: p. ex. couleurs personnalisées, marque/logo, emballage, accessoires spéciaux
+    - name: Calendrier
+      type: text
+      placeholder: p. ex. livraison sous 90 jours
+    - name: Exigences supplémentaires
+      type: textarea
+      placeholder: Décrivez votre application, vos spécifications techniques ou toute exigence particulière — joignez des plans de référence, des spécifications ou des liens si disponibles
+    - name: Télécharger le cahier des charges
+      type: file
+      placeholder: Téléchargez votre fiche technique, dessin ou document de référence (PDF, DWG, DXF)
+    - name: Télécharger le logo / visuel
+      type: file
+      placeholder: Téléchargez votre logo ou artwork pour un branding personnalisé (AI, EPS, PNG)
+cta:
+  title: Vous préférez discuter par email ?
+  subtitle: Envoyez votre demande directement à notre équipe commerciale et nous répondrons sous 24 heures.
+  actions:
+    - variant: primary
+      text: Envoyez-nous un email directement
+      href: /contact/

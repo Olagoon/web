@@ -1,0 +1,22 @@
+meta:
+  title: 'Journal — Nautische Artikelen & Gidsen | {SITE}'
+  description: 'Het afarer journal: artikelen en gidsen over opblaasbare SUPs, paddle boarding, boten en de nautische industrie.'
+  keywords:
+    - 'SUP journal'
+    - 'paddle board artikelen'
+    - 'opblaasbare SUP blog'
+    - 'nautische gidsen'
+hero:
+  title: afarer Dagboek
+  subtitle: Laatste nieuws, zeilavonturen en productverhalen van het afarer-team.
+latest:
+  tagline: Laatste
+  title: Gidsen & Vergelijkingen
+  browse_all: Blader door alle 20 →
+  read: Lezen →
+social_section:
+  tagline: Inhoud × Sociaal
+  title: Elke gids wordt 5 sociale berichten
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — van elk artikel.
+  pipeline_cta: Sociale pijplijn →
+  guides_cta: Bekijk Gidsen

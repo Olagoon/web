@@ -1,0 +1,68 @@
+meta:
+  title: 'Certifications — CE, ISO 9001 & BSCI | {SITE}'
+  description: "Certifications qualité d'afarer : CE (EN ISO 25649), ISO 9001:2015, BSCI. Conformité et sécurité pour un fabricant de SUP gonflables."
+  keywords:
+    - 'certification CE SUP'
+    - 'ISO 9001 SUP'
+    - 'conformité nautique'
+    - 'certification paddle gonflable'
+hero:
+  tagline: Certifications et Normes
+  title: Certifications Qualité<br />et Normes de Conformité
+  subtitle: Les produits afarer sont fabriqués conformément aux normes internationales de sécurité maritime.
+  image:
+    src: https://assets.afarer.com/images/afarer/certifications/certifications-hero.webp
+    alt: certifications qualité afarer et documentation de conformité
+content_certifications:
+  tagline: Nos Certifications
+  title: Qualité Certifiée,<br />Reconnue Mondialement
+  subtitle: Chaque produit afarer est soutenu par des certifications attestant de notre engagement envers la qualité et la sécurité.
+  items:
+    - title: Certifié CE
+      description: Tous les produits afarer sont conformes aux exigences de marquage CE pour les embarcations de loisir, garantissant la sécurité et la protection de l'environnement.
+      icon: tabler:certificate
+    - title: ISO 9001:2015
+      description: Notre système de gestion de la qualité est certifié ISO 9001:2015, couvrant la conception, la fabrication et la distribution d’embarcations gonflables et d’équipements marins.
+      icon: tabler:clipboard-check
+    - title: Marquage UKCA
+      description: Les produits vendus sur le marché britannique portent le marquage UKCA, confirmant la conformité aux règlements britanniques pour les équipements marins et les embarcations personnelles.
+      icon: tabler:shield
+    - title: Conforme BSCI
+      description: afarer est audité BSCI (Initiative de Conformité Sociale des Entreprises), démontrant des pratiques de fabrication éthiques, des conditions de travail équitables et une responsabilité de la chaîne d'approvisionnement.
+      icon: tabler:heart-handshake
+    - title: Conforme REACH
+      description: Tous les matériaux utilisés dans les produits afarer sont conformes au règlement européen REACH pour la sécurité chimique.
+      icon: tabler:flask
+    - title: Tests des Matériaux
+      description: Les tissus sont testés pour la résistance à la traction, la résistance à la déchirure, la dégradation UV et les performances de fissuration à froid. Chaque lot de production est échantillonné et vérifié.
+      icon: tabler:test-pipe
+content_factory:
+  tagline: Factory Standards
+  title: Excellence de Fabrication<br />— Conforme aux Spécifications
+  subtitle: Notre usine de 12 000 m² fonctionne sous des protocoles de contrôle qualité stricts à chaque étape.
+  list:
+    - 'Inspection des Matières Entrantes : Toutes les matières premières — tissu PVC, mousse EVA, adhésifs, quincaillerie — sont testées par rapport aux spécifications avant d’entrer en production.'
+    - 'Contrôle Qualité en Cours de Processus : Chaque étape de production a des points de contrôle qualité documentés. La résistance de la soudure, l’alignement des joints, l’installation des valves et le couple de serrage sont vérifiés en ligne.'
+    - 'Test de Pression : Chaque chambre gonflable est testée sous pression à 1,25 fois la pression nominale pendant 24 à 48 heures. La chute de pression doit rester inférieure à 5 % pour obtenir une note de passage.'
+    - 'Inspection Finale : Les produits finis sont inspectés pour la précision dimensionnelle, la finition esthétique, l’intégralité des accessoires et l’intégrité de l’emballage avant expédition.'
+    - 'Traçabilité des lots : chaque produit porte un numéro de série lié aux enregistrements des lots de production, permettant une traçabilité complète de la matière première au produit fini.'
+content_safety:
+  tagline: Marine Safety Standards
+  title: Sécurité Avant Tout<br />— Conçu pour un Fonctionnement Fiable
+  subtitle: Les produits afarer sont conçus et testés selon les normes de sécurité maritime internationales.
+  items:
+    - title: EN ISO 25649
+      description: Les SUP gonflables sont conformes aux normes EN ISO 25649 pour la construction, la stabilité, la flottabilité et la capacité de charge.
+      icon: tabler:sailboat
+    - title: Conformité SOLAS
+      description: Les équipements de sécurité et dispositifs de sauvetage répondent aux exigences SOLAS (Sécurité de la Vie en Mer) le cas échéant.
+      icon: tabler:lifebuoy
+cta:
+  title: Besoin de produits certifiés pour votre projet ?
+  subtitle: Contactez notre équipe pour discuter des exigences de certification et de conformité pour votre marché.
+  actions:
+    - variant: primary
+      text: Demander les documents de certification
+      href: /contact/
+    - text: Voir notre page qualité
+      href: /quality/

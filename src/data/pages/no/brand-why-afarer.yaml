@@ -1,0 +1,72 @@
+meta:
+  title: 'Hvorfor afarer — 7 grunner til at globale merker velger oss | {SITE}'
+  description: 'Hvorfor globale merker velger afarer: CE- og ISO-sertifiseringer, fleksibel MOQ, tilpassede former og 30 dagers leveringstid fra en profesjonell SUP-fabrikk.'
+  keywords:
+    - 'hvorfor velge afarer'
+    - 'produsent av oppblåsbare SUP'
+    - 'SUP-fabrikk Kina'
+    - 'leverandør av oppblåsbare paddle boards'
+hero:
+  tagline: Hvorfor afarer
+  title: Syv grunner til hvorfor globale merkevarer<br />velger afarer
+  subtitle: Ikke alle produsenter er like. Her er hva som gjør afarer til den foretrukne partneren for distributører, merkevarer og operatører over hele verden.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: afarers produksjonskvalitet og ekspertise
+stats:
+  title: Stol på tallene
+  stats:
+    - title: År i drift
+      amount: Siden 2012
+    - title: Brett bygget
+      amount: 15 000+
+    - title: Gjentakende kunder
+      amount: 85%
+    - title: Reklamasjoner og garantikrav
+      amount: <2%
+features3_reasons:
+  tagline: Hvorfor velge afarer
+  title: Syv grunner til å samarbeide med oss
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: 1. Ekte produksjon, ikke handel
+      description: Vi eier og driver en 12.000 m² fabrikk. Når du samarbeider med afarer, jobber du direkte med folkene som designer, konstruerer og bygger produktene dine — uten mellomledd.
+      icon: tabler:building-factory
+    - title: 2. Ingeniørdrevet tilnærming
+      description: Designprosessen vår starter med bruksområdet, ikke produktkategorien. Vi optimaliserer skrogform, materialvalg og konfigurasjon for hvordan brettet faktisk skal brukes.
+      icon: tabler:engine
+    - title: 3. Sertifisert kvalitet
+      description: CE-sertifisert, ISO-kvalitetssystem, BSCI-overholdelse, REACH-overholdelse, USCG-godkjent. Hvert produkt oppfyller internasjonale standarder — ikke bare påstander.
+      icon: tabler:certificate
+    - title: 4. Fleksibel co-branding
+      description: Rørfarger, konsollayout, merkevarebygging, emballasje — vi tilpasser til dine spesifikasjoner. Ingen minimum ordrepress. Start med en prototype, skaler med tillit.
+      icon: tabler:adjustments
+    - title: 5. Global logistikk
+      description: US-lager i California, direktforsendelse fra Qingdao, luftfrakt for hasteordre. Vi håndterer tollpapirer og dokumentasjon.
+      icon: tabler:truck-delivery
+    - title: 6. Livslang støtte
+      description: Vi støtter brett vi bygget for 20 år siden. Ekte reservedeler, tekniske råd, reparasjonsveiledning — teamet vårt er tilgjengelig når du trenger oss.
+      icon: tabler:lifebuoy
+    - title: 7. Ærlige spesifikasjoner
+      description: Virkelige lastklassifiseringer, virkelige dimensjoner, virkelig vekt. Ingen markedsføringsinflasjon. Det vi publiserer er hva du får — verifisert av uavhengig testing.
+      icon: tabler:ruler-measure
+testimonials:
+  tagline: Betrodd av merker over hele verden
+  title: Hva våre partnere sier
+  items:
+    - content: Vi har arbeidet med flere produsenter i Kina, men afarer skiller seg ut med sin tekniske støtte og konsekvente kvalitet. De behandler vårt merke som sitt eget.
+      name: — Co-brand-partner, europeisk merke for vannsport
+    - content: Deres SUP-brett har vært i drift med vår flåte i over 5 år. Minimalt vedlikehold, utmerket UV-motstand. 5 års garanti gir oss trygghet.
+      name: — Flåteoperatør, resortgruppe fra Midtøsten
+    - content: Afars team hjalp oss med å utvikle et tilpasset SUP-brettdesign fra konsept til produksjon på 90 dager. Kvaliteten overgikk forventningene våre.
+      name: — Distributør, australsk vannsport
+cta:
+  title: Klar til å oppleve forskjellen?
+  subtitle: Kontakt teamet vårt for å diskutere prosjektet ditt. Ingen forpliktelse kreves — bare ærlige råd om produksjon.
+  actions:
+    - variant: primary
+      text: Snakk med teamet vårt
+      href: /contact/
+    - text: Last ned produktkatalog
+      href: /resources/download-catalog/

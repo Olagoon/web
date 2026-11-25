@@ -1,0 +1,89 @@
+meta:
+  title: Guida per Acquirenti OEM — Approvvigionamento di Mezzi d'Acqua Gonfiabili dall'Asia | {SITE}
+  description: "Guida completa per l'approvvigionamento di SUP gonfiabili e kayak dai produttori asiatici: checklist di valutazione della fabbrica, protocolli di controllo qualità, verifica della conformità, negoziazione del MOQ, termini di spedizione e insidie comuni."
+back_text: Torna alla ricerca
+hero:
+  tagline: Approvvigionamento
+  title: Guida all'acquirente OEM — Approvvigionamento di mezzi d'acqua gonfiabili dall'Asia
+  subtitle: 12 minuti di lettura
+content_html: |-
+  <h2>1. Pre-qualificazione: cosa cercare in una fabbrica</h2>
+
+  <h3>Certificati di conformità</h3>
+  <ul>
+    <li><strong>ISO 9001:2015</strong> – Sistema di gestione della qualità</li>
+    <li><strong>Certificazione CE</strong> – Verificare il numero dell'organismo notificato</li>
+    <li><strong>BSCI / SMETA / SEDEX</strong> – Audit di conformità sociale</li>
+    <li><strong>REACH / RoHS</strong> – Dichiarazioni di conformità dei materiali</li>
+  </ul>
+
+  <h3>Capacità produttive</h3>
+  <ul>
+    <li>Tessitura del nucleo drop-stitch in-house o in outsourcing</li>
+    <li>Linea di rivestimento / laminazione PVC</li>
+    <li>Attrezzature per saldatura RF e saldatura ad aria calda</li>
+    <li>Produzione di stampi in-house (lavorazione CNC)</li>
+    <li>Laboratorio di prova (prove di pressione, invecchiamento UV, prove di trazione)</li>
+  </ul>
+
+  <h3>Verifica dell'esperienza</h3>
+  <ul>
+    <li>Anni di esperienza nella produzione di mezzi d'acqua gonfiabili (minimo 5+ anni)</li>
+    <li>Numero di ingegneri in organico</li>
+    <li>Clienti OEM/ODM esistenti (richiedere referenze)</li>
+    <li>Destinazioni di esportazione – stanno già spedendo al tuo mercato di riferimento?</li>
+  </ul>
+
+  <h2>2. Protocolli di controllo qualità</h2>
+  <p>QC dei materiali in ingresso: resistenza alla trazione (ASTM D751 o ISO 1421), resistenza alla lacerazione (ASTM D2261 o ISO 4674), resistenza dell'adesione, controlli a campione dell'invecchiamento UV.</p>
+  <p>QC in processo: monitoraggio della resistenza delle giunzioni ogni 50 unità, verifica della coppia di serraggio delle valvole, controlli della densità dei fili drop-stitch, controlli dimensionali rispetto ai disegni CAD.</p>
+  <p>Ispezione finale: test di tenuta del gonfiaggio al 100% (24 ore, max 5% di calo), ispezione visiva, test di funzionamento delle valvole, test a campione casuale (AQL 2.5 o 4.0 secondo ISO 2859).</p>
+
+  <h2>3. Checklist della documentazione di conformità</h2>
+  <ul>
+    <li>Dichiarazione di conformità (DoC) che fa riferimento alla corretta direttiva UE</li>
+    <li>Certificato CE dell'organismo notificato</li>
+    <li>Rapporto di prova di un laboratorio accreditato</li>
+    <li>Schede di sicurezza dei materiali (MSDS)</li>
+    <li>Dichiarazione di conformità REACH</li>
+    <li>Distinta dei materiali con tracciabilità dei fornitori</li>
+    <li>Rapporto di ispezione della fabbrica</li>
+  </ul>
+
+  <h2>4. Negoziazione del MOQ</h2>
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Tipo di prodotto</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">MOQ standard</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Intervallo negoziabile</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Tavole SUP</td><td class="p-3 border">50 – 100 unità</td><td class="p-3 border">5 – 10 unità (prova)</td></tr>
+      <tr><td class="p-3 border">Kayak</td><td class="p-3 border">50 – 100 unità</td><td class="p-3 border">5 – 10 unità (prova)</td></tr>
+      <tr><td class="p-3 border">SUP gonfiabili</td><td class="p-3 border">50 – 100 unità</td><td class="p-3 border">2 – 5 unità (prova)</td></tr>
+      <tr><td class="p-3 border">Sicurezza / Accessori</td><td class="p-3 border">200 – 500 unità</td><td class="p-3 border">50 – 100 unità (prova)</td></tr>
+    </tbody>
+  </table>
+
+  <h2>5. Logistica e spedizioni</h2>
+  <p>Incoterms comuni: <strong>FOB</strong> (la fabbrica consegna al porto di partenza – il più comune), <strong>EXW</strong> (l'acquirente organizza tutta la spedizione a partire dalla porta della fabbrica), <strong>CIF</strong> (la fabbrica paga il trasporto e l'assicurazione fino al porto di destinazione).</p>
+  <p>I prodotti gonfiabili hanno peso ridotto e volume elevato – il peso volumetrico (DIM) spesso determina il costo di spedizione. Richiedere un imballaggio sottovuoto per ridurre il volume del 50–60%. Trasporto marittimo dalla Cina all'UE: 25–35 giorni; verso la costa occidentale degli USA: 15–20 giorni.</p>
+
+  <h2>6. Errori comuni</h2>
+  <ul>
+    <li><strong>Nessun audit della fabbrica:</strong> eseguire o commissionare sempre un audit di terze parti (QIMA, SGS, Bureau Veritas)</li>
+    <li><strong>Solo specifiche verbali:</strong> scheda tecnica dettagliata firmata da entrambe le parti</li>
+    <li><strong>Saltare l'approvazione dei campioni:</strong> approvazione scritta dei campioni prima della produzione in serie</li>
+    <li><strong>Nessun QC durante la produzione:</strong> ispezione di terze parti durante la produzione (DUPRO) e prima della spedizione (PSI)</li>
+    <li><strong>Ignorare la conformità:</strong> verificare la certificazione CE/UKCA prima della produzione</li>
+  </ul>
+
+  <h2>7. Perché Afarer</h2>
+  <p>Afarer produce mezzi d'acqua gonfiabili OEM/ODM dal 2012. Con una struttura certificata ISO 9001 di 12,000 m&sup2;, oltre 25 ingegneri e la certificazione CE su tutte le linee di prodotto, soddisfiamo ogni criterio di questa guida. Offriamo MOQ di prova per i nuovi partner e pacchetti completi di documentazione di conformità.</p>
+cta:
+  title: Pronto a iniziare a reperire?
+  subtitle: Contatta il nostro team OEM per discutere i requisiti del tuo progetto.
+  button_text: Richiedi un preventivo
+  button_link: /contact/

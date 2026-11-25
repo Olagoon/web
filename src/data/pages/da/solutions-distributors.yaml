@@ -1,0 +1,50 @@
+meta:
+  title: SUP-distributionspartnerprogram | {SITE}
+  description: Bliv en del af Afarers globale distributionsnetværk. Eksklusive territorier, komplet produktportefølje, konkurrencedygtige engrospriser og dedikeret kundehåndtering.
+hero:
+  tagline: Distributører
+  title: Bliv en del af vores globale<br />distributionsnetværk
+  subtitle: Eksklusive territorier. Komplet produktsortiment. Support i verdensklasse. Afarer leverer til 50+ lande, og vi søger etablerede distributører inden for marine og vandsport.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Afarers globale distributions- og forsendelsesaktiviteter
+benefits:
+  title: Hvad distributører får
+  subtitle: Alt, hvad du skal bruge for at få succes på dit marked.
+  items:
+    - Eksklusive territorierettigheder
+    - Komplet produktkatalog (SUP, tilbehør, reservedele)
+    - Konkurrencedygtige engrospriser
+    - Marketing- og salgsmaterialer (oversat)
+    - Træningsprogram (produkt, salg, vedligeholdelse)
+    - Messesupport
+    - Prøveprogram
+    - Drop-ship-mulighed
+    - Dedikeret account manager til distributører
+    - Betalingsvilkår på 45-60 dage
+coverage:
+  title: Nuværende distribution
+  subtitle: Afarer betjener i øjeblikket disse markeder direkte.
+  regions:
+    - name: Europa
+      countries: Frankrig, Tyskland, Storbritannien, Spanien, Italien, Holland, Sverige, Norge, Polen, Grækenland
+    - name: Asien
+      countries: Japan, Sydkorea, Kina, Thailand, Singapore
+    - name: Mellemøsten
+      countries: UAE, Saudi-Arabien
+    - name: Amerika
+      countries: USA, Canada, Brasilien, Mexico
+    - name: Oceanien
+      countries: Australien, New Zealand
+    - name: Afrika
+      countries: Sydafrika, Marokko
+cta:
+  title: Klar til at blive distributør?
+  subtitle: Ansøg om vores distributørprogram eller hent vores informationspakke til distributører.
+  actions:
+    - text: Ansøg om forhandlerprogram
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Hent distributørkit
+      href: /resources/download-catalog/
+      variant: secondary

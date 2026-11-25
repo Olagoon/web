@@ -1,0 +1,86 @@
+meta:
+  title: 'Wereldwijde Aanwezigheid — SUP-fabrikant actief in 50+ Landen | {SITE}'
+  description: 'afarer exporteert opblaasbare SUPs naar meer dan 50 landen op elk continent. Professionele fabrikant en leverancier voor merken, distributeurs en vloten.'
+  keywords:
+    - 'wereldwijde SUP-fabrikant'
+    - 'paddle board exporteur'
+    - 'SUP-fabriek China'
+    - 'professionele SUP-leverancier'
+hero:
+  tagline: Wereldwijde aanwezigheid
+  title: Actief in 50+ Landen<br />op Elk Continent
+  subtitle: Van Europese kustpatrouilleoperators tot Australische watersportdistributeurs tot reddingsteams in het Midden-Oosten — afarer-boards zijn wereldwijd op het water te vinden.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarer wereldwijd maritiem productie en distributie
+stats:
+  title: Wereldwijde Bereik
+  stats:
+    - title: Landen
+      amount: '50+'
+    - title: Exportmarkten
+      amount: Europa, Amerika's, Azië, Midden-Oosten, Oceanië
+    - title: Productie
+      amount: Qingdao, China
+    - title: VS-magazijn
+      amount: Montclair, CA
+features3_markets:
+  tagline: Belangrijke Markten
+  title: Regionale Expertise<br />voor Lokale Vereisten
+  subtitle: We begrijpen dat verschillende markten verschillende wettelijke vereisten, voorkeuren en gebruikssituaties hebben.
+  isBeforeContent: false
+  columns: 4
+  items:
+    - title: Europa & VK
+      description: CE-gecertificeerde producten. Sterke vraag naar SUP-boards in EU-markten. Britse distributeurs waarderen onze snelle doorlooptijd.
+      icon: tabler:map-pin
+    - title: Noord-Amerika
+      description: Door de US Coast Guard goedgekeurde productie. Magazijn in Montclair, CA voor snelle levering aan de westkust. Groeiende vraag naar vissen, redding en recreatieve SUP's.
+      icon: tabler:map-pin
+    - title: Australië & Oceanië
+      description: Sterke markt voor SUP-boards en watersportaccessoires. Australische distributeurs waarderen onze UV-bestendige PVC-constructie onder zware zonneomstandigheden. Snelle verzending vanuit onze faciliteit in Azië.
+      icon: tabler:map-pin
+    - title: Midden-Oosten
+      description: Groeiende vraag naar wateravontuuruitrusting. Onze SUP's van commerciële kwaliteit en veiligheidsuitrusting zijn populair bij touroperators en verhuurcentra. Aangepaste configuraties voor omgevingen met hoge temperaturen.
+      icon: tabler:map-pin
+features3_distribution:
+  tagline: Distributienetwerk
+  title: Samenwerken met Distributeurs<br />Wereldwijd
+  subtitle: We werken samen met gevestigde distributeurs van maritieme apparatuur, watersportmerken en overheidsinkoopdiensten.
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Co-brandprogramma's
+      description: Private label productie voor wereldwijde watersportmerken. Wij regelen alles van ontwerp tot productie tot drop-shipping.
+      icon: tabler:building
+    - title: Distributeursnetwerk
+      description: Geautoriseerde distributeurs in 20+ landen voeren voorraad en bieden lokale ondersteuning. Nieuwe distributeursaanvragen zijn welkom.
+      icon: tabler:users
+    - title: Overheid & Instellingen
+      description: Directe levering aan kustwachten, zoek- en reddingsorganisaties en militaire inkoopprogramma's. Naleving van institutionele inkoopvereisten.
+      icon: tabler:building-community
+steps2_logistics:
+  title: Wereldwijde Logistiek & Ondersteuning
+  subtitle: Van fabriek tot bestemming — we beheren de hele toeleveringsketen.
+  items:
+    - title: Verzendopties
+      description: Zeevracht (FOB Qingdao), luchtvracht voor spoedorders en expreskoerier voor monsters en reserveonderdelen.
+      icon: tabler:truck-delivery
+    - title: VS-magazijn
+      description: 'Voorraad in Montclair, CA voor snelle levering in Noord-Amerika. Westkust: 2-3 dagen, Centraal: 3-4 dagen, Oostkust: 4-5 dagen.'
+      icon: tabler:building-warehouse
+    - title: Reserveonderdelen
+      description: Echte afarer-onderdelen en verbruiksartikelen het hele jaar door op voorraad. Veelvoorkomende onderdelen worden binnen 24 uur verzonden.
+      icon: tabler:package
+    - title: Technische ondersteuning
+      description: Directe lijn naar ons engineeringteam voor technische vragen, reparatieadvies en ondersteuning bij vervangingsonderdelen. We ondersteunen boards die we 20 jaar geleden hebben gebouwd.
+      icon: tabler:headset
+cta:
+  title: Wilt u distributeur worden?
+  subtitle: We zijn actief ons distributienetwerk aan het uitbreiden. Neem contact op met ons exportteam om samenwerkingsmogelijkheden te bespreken.
+  actions:
+    - variant: primary
+      text: Partnerschapsaanvraag
+      href: /contact/
+    - text: Bekijk ons productassortiment
+      href: /products/

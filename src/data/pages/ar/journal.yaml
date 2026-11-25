@@ -1,0 +1,22 @@
+meta:
+  title: 'المجلة — مقالات وأدلة بحرية | {SITE}'
+  description: 'مجلة afarer: مقالات وأدلة عن ألواح SUP القابلة للنفخ، والتجديف على الألواح، والصناعة البحرية.'
+  keywords:
+    - 'مجلة SUP'
+    - 'مقالات ألواح التجديف'
+    - 'مدونة SUP القابلة للنفخ'
+    - 'أدلة بحرية'
+hero:
+  title: مجلة afarer
+  subtitle: آخر الأخبار والمغامرات البحرية وقصص المنتجات من فريق afarer.
+latest:
+  tagline: الأحدث
+  title: الأدلة والمقارنات
+  browse_all: تصفح جميع الـ 20 →
+  read: اقرأ ←
+social_section:
+  tagline: المحتوى × الاجتماعي
+  title: كل دليل يتحول إلى 5 منشورات على وسائل التواصل الاجتماعي
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — من كل مقال.
+  pipeline_cta: خط أنابيب التواصل الاجتماعي ←
+  guides_cta: تصفح الأدلة

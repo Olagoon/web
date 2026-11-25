@@ -1,0 +1,66 @@
+meta:
+  title: 'Kwaliteitslab — Testen & Kwaliteitsborging | {SITE}'
+  description: 'Onafhankelijk kwaliteitslab met ISO 9001-processen bij afarer: elke eenheid wordt getest vóór verzending om de kwaliteit van opblaasbare SUPs te garanderen.'
+  keywords:
+    - 'SUP kwaliteitscontrole'
+    - 'paddle board testlab'
+    - 'ISO 9001 SUP fabriek'
+    - 'kwaliteit opblaasbare SUP'
+hero:
+  tagline: Kwaliteitscontrolelaboratorium
+  title: Testlaboratorium & Kwaliteitsborging
+  subtitle: Onafhankelijk kwaliteitslaboratorium met ISO 9001-processen — elke eenheid getest vóór verzending
+intro: >-
+  Afarer exploiteert een speciaal laboratorium voor kwaliteitscontrole dat onafhankelijk van de productie functioneert. Elke partij grondstof en elke voltooide board doorloopt gedocumenteerde inspectieprotocollen voordat ze worden vrijgegeven. Ons QC-team rapporteert rechtstreeks aan het management,
+  wat onbevooroordeelde kwaliteitsbeslissingen waarborgt.
+highlights:
+  - value: 100%
+    label: Eenheden drukgetest
+    detail: Elke kamer, elk board
+  - value: 24–48 u
+    label: Duur van de luchtdichtheidstest
+    detail: Bij 1,25× de nominale druk
+  - value: <5%
+    label: Maximaal toegestane drukval
+    detail: Over een bewaartermijn van 24–48 uur
+  - value: AQL 2,5
+    label: Drempelwaarde voor groot defect
+    detail: Per ISO 2859 steekproefname
+test_procedures:
+  - title: Grondstoffeninspectie
+    description: Elke binnenkomende partij PVC, drop-stitch stof en hardware wordt getest vóór acceptatie. Trekvastheid (ASTM D751), scheurweerstand (ISO 4674) en UV-bestendigheid worden gecontroleerd. Niet-conforme materialen worden in quarantaine geplaatst en geretourneerd.
+    standards:
+      - ASTM D751 (treksterkte)
+      - ISO 4674 (scheur)
+      - ISO 4892 (UV)
+  - title: In-proces QC-controlepunten
+    description: Productieoperatoren voeren zelfinspectie uit bij elke fase. QC-auditors voeren willekeurige steekproeven uit gedurende de shift. Lasafschiltest worden elke 50 eenheden uitgevoerd. Dimensionale controles vinden plaats bij elk 20e paneel.
+    standards:
+      - ASTM D751 (afpellen)
+      - Interne checklist van 100 punten
+      - ISO 2859 steekproeven
+  - title: 24–48-uurs luchtretentietest
+    description: Elke buiskamer wordt opgeblazen tot 125% van de nominale druk en gedurende 24–48 uur vastgehouden. Druksensoren registreren continu met temperatuurcompensatie. Elke kamer die een drukval van meer dan 5% vertoont, veroorzaakt een automatische herinspectie van het batch.
+    standards:
+      - EN ISO 25649
+      - CE 2013/53/EU
+  - title: Laden- en balanstesten
+    description: Voltooide boards worden getest bij de maximaal opgegeven capaciteit op stabiliteit en stijfheid. Elk board ondergaat watertesten voordat de definitieve inspectie wordt goedgekeurd.
+    standards:
+      - ISO 12217
+      - CE 2013/53/EU
+equipment:
+  - name: Universele testmachine (trek)
+    spec: 5 kN, conform ASTM D751
+  - name: Pressure Decay Tester
+    spec: Meerkanaals, 0–50 psi, datalogging
+  - name: UV Weathering Chamber
+    spec: ISO 4892, 1.000 uur cycli
+  - name: Diktemeter (digitaal)
+    spec: 0,01 mm resolutie
+  - name: Peel Tester (weld)
+    spec: Gemotoriseerd, 50 N capaciteit
+  - name: Temperature Chamber
+    spec: '-40 °C tot 100 °C'
+  - name: Leak Detection Tank
+    spec: 6 m × 2 m, verlicht

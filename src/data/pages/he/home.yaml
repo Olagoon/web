@@ -1,0 +1,104 @@
+meta:
+  title: מגשי פאדל נפוחים Afarer | לכו רחוק יותר. חתרו חזק יותר.
+  description: גלו את מגשי הפאדל הנפוחים של Afarer לחתירה כלל-מטרתית, טיולים, יוגה, דיג והרפתקאות בטבע. מצאו את ה-SUP המושלם שלכם וחקרו עוד על המים.
+  keywords:
+    - מגש פאדל נפוח
+    - sup נפוח
+    - sup כל מטרה
+    - sup טיולים
+    - sup יוגה
+    - sup דיג
+    - מגש פאדל משפחתי
+    - מגש פאדל נייד
+hero:
+  tagline: מגשי פאדל נפוחים
+  title: מגשי פאדל נפוחים לכל הרפתקה
+  slogan: לכו רחוק יותר. חתרו חזק יותר.
+  subtitle: גלו את חופש החתירה עם Afarer. חקרו מגשי SUP נפוחים המתוכננים בקפידה לימים רגועים באגם, הרפתקאות חוף, כושר וכל מה שביניהם.
+  taglineSection: נבנה לביטחון. תוכנן לבלוט.
+  actions:
+    - variant: primary
+      text: מצאו את המגש שלכם
+      href: /size-guide/
+      icon: tabler:compass
+    - text: גלו מגשי SUP
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: למה Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: מגשי פאדל נפוחים Afarer מחליקים על מים שקטים בזריחה — נבנו לכל הרפתקה
+who_we_serve:
+  tagline: חתרו איתנו
+  title: מצאו את דרככם על המים
+  subtitle: לכל חותר יש רעיון שונה להרפתקה. גלו SUP Afarer שתוכנן סביב האופן שבו אתם חותרים.
+  items:
+    - title: מתחילים וחותרים חובבים
+      keywords: sup נפוח למתחילים, מגש פאדל כל מטרה, sup יציב
+      description: מגשים רחבים ויציבים שהופכים את החתירה הראשונה לטבעית ומלווים אתכם כשאתם מתקדמים.
+      icon: tabler:users
+      cta: מצאו את המגש הראשון שלכם
+      link: /all-around-sup/
+    - title: טיולים והרפתקאות
+      keywords: sup טיולים, מגש פאדל למרחקים ארוכים, sup מסע
+      description: מגשים ארוכים וצרים יותר ששומרים על כיוון, מחליקים רחוק יותר ונושאים ציוד למסלולים של כמה ימים.
+      icon: tabler:building
+      cta: גלו מגשי טיולים
+      link: /touring-sup/
+    - title: יוגה וכושר
+      keywords: sup יוגה, מגש פאדל כושר, sup רחב ויציב
+      description: פלטפורמות רחבות ויציבות עם מרחב לתנועה — לזרימות בזריחה, אימונים ושיווי משקל על מים שקטים.
+      icon: tabler:heart
+      cta: גלו SUP יוגה
+      link: /yoga-sup/
+    - title: דיג ומשפחה
+      keywords: sup דיג, מגש פאדל משפחתי, פלטפורמת דיג יציבה
+      description: פלטפורמות יציבות ומעשיות לדיג, חתירה עם הילדים וימים ארוכים ורגועים על המים.
+      icon: tabler:users
+      cta: גלו SUP דיג
+      link: /fishing-sup/
+proof_points:
+  title: נבדק מעבר לחדר התצוגה
+  subtitle: עיצוב, ביצועים ואיכות שאפשר לאמת — במים ובמספרים.
+  items:
+    - metric: 10+
+      label: שנים של תכנון למים
+      detail: מאז 2012, משופר לוח אחר לוח
+    - metric: 50+
+      label: מדינות על המים
+      detail: חותרים ושותפים בכל העולם
+    - metric: 12–15
+      label: ליבת Drop-Stitch ב-PSI
+      detail: קשיח היכן שחשוב, קל לאריזה
+    - metric: 100%
+      label: בדיקת לחץ לכל לוח בנפרד
+      detail: נבדק לפני המשלוח
+business_solutions:
+  tagline: למה זה מרגיש אחרת
+  title: ביצועים שמרגישים מהחתירה הראשונה
+  subtitle: ארבעה עמודים שעוצבו במים אמיתיים — ביצועים, עיצוב, בנייה ואיכות.
+  items:
+    - title: ביצועים על המים
+      description: צורות שכוונו ליציבות, החלקה וביטחון בגלים — כל חתירה נשארת מחוברת למים.
+      icon: tabler:shield-check
+    - title: עיצוב מבטא
+      description: אוספים ששאבו השראה מהגאות, חיות הבר והאנרגיה של קו החוף — מגשים שכיף להיראות איתם.
+      icon: tabler:package
+    - title: בנייה מוכחת
+      description: ליבות drop-stitch בצפיפות גבוהה, דפנות מחוזקות ותפרים מולחמים בהיתוך לשימוש חוזר.
+      icon: tabler:headset
+    - title: איכות מאומתת
+      description: נבדקים בלחץ, נצפים ויזואלית ומגובים באחריות ברורה ושירות לקוחות קשוב.
+      icon: tabler:truck-delivery
+cta:
+  title: מצאו את המגש הבא שלכם.
+  subtitle: חתירה ראשונה או המסלול הארוך ביותר — נוציא אתכם אל המים.
+  actions:
+    - variant: primary
+      text: גלו את האוסף
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: בקשו קטלוג
+      href: /resources/download-catalog/

@@ -1,0 +1,22 @@
+meta:
+  title: 'Журнал — морские статьи и руководства | {SITE}'
+  description: 'Журнал afarera: статьи и руководства о надувных SUP-досках, paddle boarding и морской отрасли.'
+  keywords:
+    - 'журнал SUP'
+    - 'статьи о paddle board'
+    - 'блог надувных SUP'
+    - 'морские руководства'
+hero:
+  title: Журнал afarer
+  subtitle: Руководства по серфингу, сравнения снаряжения и истории океана — написано для реальных условий.
+latest:
+  tagline: Последний
+  title: Руководства и сравнения
+  browse_all: Просмотреть все 20 →
+  read: Читать →
+social_section:
+  tagline: Контент × Социальные
+  title: Каждое руководство превращается в 5 социальных постов
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — из каждой статьи.
+  pipeline_cta: Социальный конвейер →
+  guides_cta: Просмотреть руководства

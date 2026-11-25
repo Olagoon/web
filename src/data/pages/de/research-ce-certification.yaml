@@ -1,0 +1,57 @@
+meta:
+  title: Wie die CE-Zertifizierung für aufblasbare Wasserfahrzeuge funktioniert | {SITE}
+  description: Vollständiger Leitfaden zur CE-Kennzeichnung für aufblasbare SUPs und Kajaks. Anwendbare Richtlinien (2013/53/EU RCD, PSA 2016/425), Prüfprotokolle, benannte Stellen, Anforderungen an die technische Dokumentation und Verpflichtungen des Herstellers.
+back_text: Zurück zur Forschung
+hero:
+  tagline: Compliance
+  title: Wie die CE-Zertifizierung für aufblasbare Wasserfahrzeuge funktioniert
+  subtitle: 7 Min. Lesezeit
+content_html: |-
+  <h2>Was ist die CE-Zertifizierung?</h2>
+  <p>Die CE-Kennzeichnung (Conformit&eacute; Europ&eacute;enne) zeigt an, dass ein Produkt die Gesundheits-, Sicherheits- und Umweltanforderungen der EU erf&uuml;llt. Bei aufblasbaren Wasserfahrzeugen h&auml;ngt der relevante Regulierungsrahmen von der Produktkategorie ab.</p>
+
+  <h2>Geltende Richtlinien</h2>
+
+  <h3>Richtlinie &uuml;ber Freizeitwasserfahrzeuge (2013/53/EU)</h3>
+  <p>Die wichtigste Richtlinie f&uuml;r Freizeitwasserfahrzeuge in der EU. Aufblasbare SUPs unter 2,4 m fallen nicht in ihren Geltungsbereich und werden stattdessen nach EN ISO 25649 zertifiziert.</p>
+
+  <h3>Verordnung &uuml;ber pers&ouml;nliche Schutzausr&uuml;stung (2016/425)</h3>
+  <p>Schwimmwesten, Auftriebshilfen und Sicherheitsausr&uuml;stung, die mit Wasserfahrzeugen geliefert werden, m&uuml;ssen die Anforderungen der PSA-Verordnung erf&uuml;llen, einschlie&szlig;lich Baumusterpr&uuml;fung (Modul B) durch eine benannte Stelle und Produktionsqualit&auml;tssicherung (Modul D oder E).</p>
+
+  <h2>Der Zertifizierungsprozess</h2>
+  <ol>
+    <li>Produktklassifizierung: Baukategorie des Fahrzeugs bestimmen (A &ndash; D gem&auml;&szlig; ISO 8666)</li>
+    <li>Geltende Normen: EN ISO 25649, EN ISO 10087 (HIN), EN ISO 14945 (Herstellerschild)</li>
+    <li>Erstellung der technischen Unterlagen: Konstruktionszeichnungen, St&uuml;ckliste, Materialzertifikate, Risikobewertung</li>
+    <li>Baumusterpr&uuml;fung: Auftrieb, Stabilit&auml;t, Tragf&auml;higkeit, Materialpr&uuml;fung, Nahtfestigkeit, Luftdichtheit</li>
+    <li>Fertigungskontrolle: Audit der Fertigungsprozesse durch die benannte Stelle</li>
+    <li>Konformit&auml;tserkl&auml;rung: Hersteller unterzeichnet die Konformit&auml;tserkl&auml;rung (DoC) und bringt die CE-Kennzeichnung an</li>
+  </ol>
+
+  <h2>Benannte Stellen f&uuml;r aufblasbare Wasserfahrzeuge</h2>
+  <p>H&auml;ufige benannte Stellen sind Bureau Veritas (Frankreich), DNV GL (Deutschland), RINA (Italien), T&Uuml;V Rheinland / T&Uuml;V S&Uuml;D (Deutschland).</p>
+
+  <h2>Zeitplan und Kosten</h2>
+  <table class="w-full text-sm border-collapse">
+    <thead>
+      <tr class="bg-gray-100">
+        <th class="p-3 text-left font-semibold text-gray-900 border">Phase</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Dauer</th>
+        <th class="p-3 text-left font-semibold text-gray-900 border">Typische Kosten (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="p-3 border">Erstellung der technischen Unterlagen</td><td class="p-3 border">2 &ndash; 4 Wochen</td><td class="p-3 border">2,000 &ndash; 5,000</td></tr>
+      <tr><td class="p-3 border">Baumusterpr&uuml;fung</td><td class="p-3 border">4 &ndash; 8 Wochen</td><td class="p-3 border">8,000 &ndash; 20,000</td></tr>
+      <tr><td class="p-3 border">Werksaudit</td><td class="p-3 border">1 &ndash; 2 Tage (vor Ort)</td><td class="p-3 border">3,000 &ndash; 6,000</td></tr>
+      <tr><td class="p-3 border">Gesamt (erstes Produkt)</td><td class="p-3 border">8 &ndash; 14 Wochen</td><td class="p-3 border">13,000 &ndash; 31,000</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Was das f&uuml;r K&auml;ufer bedeutet</h2>
+  <p>Beim Kauf CE-zertifizierter aufblasbarer SUPs sollten Sie stets pr&uuml;fen, dass die CE-Kennzeichnung auf dem Herstellerschild angebracht ist, eine g&uuml;ltige Konformit&auml;tserkl&auml;rung (DoC) vorliegt, die Nummer der benannten Stelle aufgef&uuml;hrt ist und die Bedienungsanleitung Sicherheitshinweise in Ihrer Landessprache enth&auml;lt. Alle Afarer-Produkte tragen die CE-Zertifizierung mit vollst&auml;ndiger R&uuml;ckverfolgbarkeit zu den Auditberichten der benannten Stellen.</p>
+cta:
+  title: Brauchen Sie Unterstützung bei der CE-Zertifizierung?
+  subtitle: Wir kümmern uns um die Zertifizierung für OEM-Partner weltweit.
+  button_text: Den Zertifizierungsprozess starten
+  button_link: /contact/

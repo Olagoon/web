@@ -1,0 +1,55 @@
+meta:
+  title: 'OEM- & private label-produksjon | {SITE}'
+  description: 'Fra konsept til container: tilpass hver detalj i din oppblåsbare SUP-serie. Komplett OEM/ODM-tjeneste for private label paddle board-merker.'
+  keywords:
+    - 'OEM SUP-produksjon'
+    - 'paddle board under eget merke'
+    - 'OEM oppblåsbar SUP'
+    - 'tilpasset SUP-fabrikk'
+hero:
+  tagline: OEM/ODM-produksjon
+  title: OEM- og Private Label-produksjon
+  subtitle: Fra konsept til container — tilpass hver detalj i din oppblåsbare SUP-serie
+intro: >-
+  afarer tilbyr omfattende OEM- og ODM-tjenester for merker, distributører og statlige etater over hele verden. Med over 10 års erfaring med eksport og en 12 000 m² ISO 9001- og BSCI-sertifisert fabrikk, håndterer vi alt fra produktdesign og moldutvikling til fullskala produksjon, emballasje og
+  logistikk.
+highlight:
+  - value: 10+
+    label: Års erfaring med OEM
+    detail: Siden 2012
+  - value: 50+
+    label: Eksportland
+    detail: Global tilstedeværelse
+  - value: 200+
+    label: Tilpassede prosjekter levert
+    detail: På tvers av alle produktlinjer
+  - value: 30–45
+    label: Standard leveringstid (dager)
+    detail: Fra PO til FOB
+services:
+  - title: Produktutvikling og ingeniørtjenester
+    description: Vårt interne FoU-team arbeider med ditt konsept eller spesifikasjon for å utvikle CAD-tegninger, 3D-modeller og prototyper. Vi tilbyr formutforming, skrogoptimalisering og veiledning i materialvalg.
+  - title: Tilpasset merking og grafikk
+    description: Fargefull digital utskrift, silketrykk, preging og etikettalternativer. Vi utvikler merkevarespesifikke dekkgrafikk, rørbetong og detaljistklar emballasje.
+  - title: Material- og spesifikasjonstilpasning
+    description: Velg mellom PVC (standard, miljøvennlig, brannhemmende), drop-stitch og hybride konstruksjoner. Tilpassede rørfarger, stoffvekter og forsterkningsalternativer.
+  - title: Emballasje og logistikk
+    description: Tilpasset forpakning, merkevareesker, vakuumpakking, palletering og containerlasting. FOB Qingdao, CIF eller DDP-leveringsbetingelser tilgjengelig.
+moq_table:
+  - product: Oppblåsbare SUP-brett
+    standard_moq: 5–10 enheter
+    custom_moq: 200+ enheter
+    lead_time: 30–45 dager
+  - product: Redningsvester og sikkerhet
+    standard_moq: 100–200 enheter
+    custom_moq: 1 000+ enheter
+    lead_time: 20–30 dager
+why_us:
+  - title: Vertikal integrasjon
+    description: Vi eier egen fabrikk, verktøy og forsyningskjede — ingen mellomledd, ingen underleverandører. Dette gir oss kontroll over kvalitet, kostnad og levering.
+  - title: Dobbelsertifisering
+    description: ISO 9001 kvalitetsstyring og BSCI-sertifisering for sosialt ansvar. Fabrikkauditerapporter tilgjengelig på forespørsel.
+  - title: CE-overholdelse
+    description: Alle standardmodeller har CE 2013/53/EU-sertifisering. Tilpassede modeller kan CE-sertifiseres gjennom vår etablerte prosess.
+  - title: Lavt minimumsordreantall
+    description: Begynn med så få som 5 enheter for standardmodeller. Vi hjelper nye merker med å lansere uten å overforplikte lagerbeholdning.

@@ -1,0 +1,104 @@
+meta:
+  title: Pranchas de Paddle Infláveis Afarer | Vá mais longe. Reme mais forte.
+  description: Descubra as pranchas de paddle infláveis Afarer para paddling versátil, touring, yoga, pesca e aventuras ao ar livre. Encontre seu SUP perfeito e explore mais na água.
+  keywords:
+    - prancha de paddle inflável
+    - sup inflável
+    - sup versátil
+    - sup de touring
+    - sup de yoga
+    - sup de pesca
+    - prancha de paddle familiar
+    - prancha de paddle portátil
+hero:
+  tagline: Pranchas de Paddle Infláveis
+  title: Pranchas de Paddle Infláveis para Cada Aventura
+  slogan: Vá mais longe. Reme mais forte.
+  subtitle: Descubra a liberdade do paddle com a Afarer. Explore SUPs infláveis cuidadosamente projetados para dias relaxantes no lago, aventuras costeiras, fitness e tudo o mais.
+  taglineSection: Projetado para confiança. Feito para se destacar.
+  actions:
+    - variant: primary
+      text: Encontre Sua Prancha
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Explorar SUPs
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Por Que Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Pranchas de paddle infláveis Afarer deslizando sobre água calma ao nascer do sol — feitas para cada aventura
+who_we_serve:
+  tagline: Reme Conosco
+  title: Encontre Seu Caminho na Água
+  subtitle: Cada remador tem uma ideia diferente de aventura. Descubra um SUP Afarer projetado para o seu jeito de remar.
+  items:
+    - title: Iniciantes & Remadores Recreativos
+      keywords: SUP inflável para iniciantes, prancha de paddle versátil, SUP estável
+      description: Pranchas versáteis largas e estáveis que tornam sua primeira remada natural e acompanham sua evolução.
+      icon: tabler:users
+      cta: Encontre Sua Primeira Prancha
+      link: /all-around-sup/
+    - title: Touring & Aventura
+      keywords: SUP de touring, prancha de longa distância, SUP de expedição
+      description: Pranchas mais longas e estreitas feitas para manter o rumo, deslizar mais longe e carregar equipamento para rotas de vários dias.
+      icon: tabler:building
+      cta: Explorar SUPs de Touring
+      link: /touring-sup/
+    - title: Yoga & Fitness
+      keywords: SUP de yoga, prancha de paddle fitness, SUP largo e estável
+      description: Plataformas largas e estáveis com espaço para se mover — para seus fluxos ao amanhecer, treinos e equilíbrio em águas calmas.
+      icon: tabler:heart
+      cta: Explorar SUP de Yoga
+      link: /yoga-sup/
+    - title: Pesca & Família
+      keywords: SUP de pesca, prancha de paddle familiar, plataforma de pesca estável
+      description: Plataformas estáveis e práticas para pescar, passear com as crianças e desfrutar de longos dias relaxantes na água.
+      icon: tabler:users
+      cta: Explorar SUP de Pesca
+      link: /fishing-sup/
+proof_points:
+  title: Testado além do showroom
+  subtitle: Design, desempenho e qualidade que pode verificar — na água e nos números.
+  items:
+    - metric: 10+
+      label: Anos a projetar para a água
+      detail: Desde 2012, refinado prancha por prancha
+    - metric: 50+
+      label: Países na água
+      detail: Paddlers e parceiros em todo o mundo
+    - metric: 12–15
+      label: Núcleo drop-stitch em PSI
+      detail: Rígido onde importa, fácil de embalar
+    - metric: 100%
+      label: Testado sob pressão, prancha por prancha
+      detail: Inspecionado antes do envio
+business_solutions:
+  tagline: Por Que Rema Diferente
+  title: Desempenho que Você Sente na Primeira Remada
+  subtitle: Quatro pilares moldados pela água real — desempenho, design, construção e qualidade.
+  items:
+    - title: Desempenho na Água
+      description: Formas ajustadas para estabilidade, deslize e confiança na agitação — cada remada permanece conectada à água.
+      icon: tabler:shield-check
+    - title: Design Expressivo
+      description: Coleções inspiradas nas marés, na vida marinha e na energia do litoral — pranchas com que você quer ser visto.
+      icon: tabler:package
+    - title: Construção Comprovada
+      description: Núcleos drop-stitch de alta densidade, trilhos reforçados e costuras laminadas por fusão para uso repetido.
+      icon: tabler:headset
+    - title: Qualidade Verificada
+      description: Testadas sob pressão, inspecionadas visualmente e respaldadas por garantia clara e pós-venda atento.
+      icon: tabler:truck-delivery
+cta:
+  title: Encontre sua próxima prancha.
+  subtitle: Seja sua primeira remada ou sua rota mais longa — nós colocamos você na água.
+  actions:
+    - variant: primary
+      text: Explorar a Coleção
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Solicitar o Catálogo
+      href: /resources/download-catalog/

@@ -1,0 +1,110 @@
+meta:
+  title: Hvitvaremerkeproduksjon av SUP | {SITE}
+  description: Lanser ditt eget SUP-merke med Afarer. Fra idé til marked — komplett OEM/ODM-tjeneste inkludert design, prototyping, produksjon og global logistikk.
+hero:
+  tagline: Bygg ditt eget merke
+  title: Lanser ditt eget<br />SUP-merke
+  subtitle: Du har visjonen. Vi har fabrikken, ekspertisen og forsyningskjeden. Sammen bygger vi et merke som skiller seg ut.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Tilpasset merket SUP-bord på vann
+process:
+  title: Din merkevarereise
+  subtitle: Fra idé til marked i 5 faser.
+  steps:
+    - phase: Fase 1
+      title: Idé
+      period: Uke 1–2
+      items:
+        - Markedsanalyse og konkurrentanalyse
+        - Målgruppedefinisjon
+        - Verksted for merkeposisjonering
+        - Produktlinjestrategi
+    - phase: Fase 2
+      title: Design
+      period: Uke 3-6
+      items:
+        - Brettform og grafisk design
+        - Fargematching og materialvalg
+        - Tilbehørsspesifikasjon
+        - Pakking og etikettdesign
+    - phase: Fase 3
+      title: Prototype
+      period: Uke 7–10
+      items:
+        - Prøveproduksjon
+        - Kvalitetstesting (trykk, oppdrift, UV)
+        - Designjusteringer
+        - Endelig godkjenning
+    - phase: Fase 4
+      title: Produksjon
+      period: Uke 11-14
+      items:
+        - Storskalaproduksjon
+        - QC-inspeksjon (per enhet)
+        - Sjøfrakt / luftfrakt
+        - Tolldokumenter
+    - phase: Fase 5
+      title: Lansering
+      period: Uke 15-16
+      items:
+        - Produktfotografering
+        - Nettstedets produktfeed
+        - Markedsføringsmateriell
+        - Lanseringsstøtte
+packages:
+  title: Oppstartspakker
+  subtitle: Pakker designet for hvert stadium av merkevekst.
+  items:
+    - name: Starter Brand
+      tagline: 50-100 enheter · 2 brettmodeller
+      features:
+        - Grunnleggende logotrykk
+        - Standard emballasje
+        - E-postsupport
+    - name: Growing Brand
+      tagline: 300–1 000 enheter · 3–5 brettmodeller
+      features:
+        - Tilpasset farge + logo
+        - Tilpasset emballasje
+        - Produktbilder
+        - Dedikert leder
+    - name: Established Brand
+      tagline: 1 000+ enheter · fullstendig produktlinje
+      features:
+        - Full tilpasning
+        - Premium emballasje
+        - Markedsføringsmateriell
+        - Prioritert produksjon
+features:
+  title: Hvorfor merker velger Afarer
+  subtitle: 10+ års OEM-erfaring, full sertifisering og den laveste MOQ-en i bransjen.
+  items:
+    - title: 10+ år med OEM-erfaring
+      description: 2 400+ skrog levert til merker over hele verden.
+      icon: tabler:clock
+    - title: Fullstendig sertifisering
+      description: CE / ISO / UKCA / BSCI / REACH — alt sertifisert.
+      icon: tabler:certificate
+    - title: 30 dagers ledetid
+      description: Raskere enn bransjegjennomsnittet fra bestilling til forsendelse.
+      icon: tabler:truck-delivery
+    - title: Lavt minimumsordreantall
+      description: Fra 50 enheter — lavest i bransjen.
+      icon: tabler:package
+    - title: Interndesign
+      description: Full designstøtte fra konsept til ferdig grafikk.
+      icon: tabler:palette
+    - title: Global logistikk
+      description: Sjøfrakt, luftfrakt og tollbehandlingsstøtte.
+      icon: tabler:world
+cta:
+  title: Klar til å lansere ditt merke?
+  subtitle: Start din merkevare-reise eller last ned vår OEM-guide.
+  actions:
+    - text: Start din merkevare-reise
+      href: /contact/?package=oem
+      variant: primary
+    - text: Last ned OEM-guide
+      href: /resources/download-catalog/
+      variant: secondary

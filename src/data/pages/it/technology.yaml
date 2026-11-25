@@ -1,0 +1,42 @@
+meta:
+  title: 'Tecnologia — Drop Stitch e PVC Marino | {SITE}'
+  description: 'Tecnologie afarer: costruzione drop stitch, PVC marino, strutture a doppio strato e alta pressione. Innovazione di un produttore professionale di SUP gonfiabili.'
+  keywords:
+    - 'tecnologia SUP'
+    - 'costruzione drop stitch'
+    - 'SUP ad alta pressione'
+    - 'materiali SUP gonfiabile'
+hero:
+  tagline: Tecnologia
+  title: La nostra tecnologia
+  subtitle: I prodotti afarer sono progettati con materiali avanzati e ingegneria innovativa per offrire prestazioni, durata e portabilità eccezionali.
+sections:
+  - title: Nucleo a punto caduto
+    description: Migliaia di fili interni in poliestere collegano gli strati superiore e inferiore, creando una struttura rigida a 12-15 PSI. Questa è la stessa tecnologia utilizzata nelle tavole da paddle professionali e nei SUP da gara gonfiabili.
+    imageAlt: Diagramma Core DS
+  - title: PVC di qualità marina
+    description: Tessuto in PVC laminato multistrato, classificato per ambienti marini. Ogni strato è saldato a fusione anziché incollato, eliminando i rischi di delaminazione. Testato per resistenza ai raggi UV, corrosione da acqua salata e abrasione.
+    imageAlt: Strato di PVC
+  - title: PVC di grado militare
+    description: Usato su tutti i modelli SUP, il PVC premium offre una resistenza superiore ai raggi UV e agli agenti chimici. Mantiene la flessibilità a temperature estreme e resiste al degrado.
+    imageAlt: PVC
+  - title: Pavimento del ponte aereo
+    description: Costruzione gonfiabile a punto di caduta ad alta pressione che offre rigidità eccezionale per stare in piedi, pescare e fare yoga. Riduce i tempi di montaggio, il peso complessivo e il volume di stoccaggio.
+    imageAlt: Ponte aereo
+related:
+  title: Correlato
+  links:
+    - text: Centro R&S
+      url: /randdcenter
+    - text: Controllo qualità
+      url: /quality
+    - text: Norme di sicurezza
+      url: /safety
+    - text: Garanzia
+      url: /warranty
+    - text: Turismo e Ricreazione
+      url: /use-cases/tourism-recreation
+    - text: Guide
+      url: /guides
+    - text: Prodotti
+      url: /products

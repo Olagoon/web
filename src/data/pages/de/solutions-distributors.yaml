@@ -1,0 +1,50 @@
+meta:
+  title: SUP-Distributionspartnerprogramm | {SITE}
+  description: Treten Sie Afarers globalem Vertriebsnetz bei. Exklusive Gebiete, komplettes Produktportfolio, wettbewerbsfähige Großhandelspreise und engagiertes Account-Management.
+hero:
+  tagline: Vertriebspartner
+  title: Treten Sie unserem globalen<br />Vertriebsnetz bei
+  subtitle: Exklusive Gebiete. Komplettes Produktportfolio. Weltklasse-Support. Afarer liefert in über 50 Länder und wir suchen etablierte Händler für Marine- und Wassersport.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: Afarer globale Vertriebs- und Versandoperationen
+benefits:
+  title: Was Distributoren erhalten
+  subtitle: Alles, was Sie benötigen, um in Ihrem Markt erfolgreich zu sein.
+  items:
+    - Exklusive Gebietsrechte
+    - Vollständiger Produktkatalog (SUP, Zubehör, Ersatzteile)
+    - Wettbewerbsfähige Großhandelspreise
+    - Marketing- und Verkaufsmaterialien (übersetzt)
+    - Schulungsprogramm (Produkt, Vertrieb, Wartung)
+    - Messeunterstützung
+    - Beispielprogramm
+    - Drop-Shipping-Fähigkeit
+    - Engagierter Vertriebsaccount-Manager
+    - Zahlungsbedingungen 45-60 Tage
+coverage:
+  title: Aktuelle Verteilung
+  subtitle: Afarer bedient derzeit diese Märkte direkt.
+  regions:
+    - name: Europa
+      countries: Frankreich, Deutschland, Vereinigtes Königreich, Spanien, Italien, Niederlande, Schweden, Norwegen, Polen, Griechenland
+    - name: Asien
+      countries: Japan, Südkorea, China, Thailand, Singapur
+    - name: Mittlerer Osten
+      countries: VAE, Saudi-Arabien
+    - name: Amerika
+      countries: USA, Kanada, Brasilien, Mexiko
+    - name: Ozeanien
+      countries: Australien, Neuseeland
+    - name: Afrika
+      countries: Südafrika, Marokko
+cta:
+  title: Bereit, Distributor zu werden?
+  subtitle: Bewerben Sie sich für unser Distributor-Programm oder laden Sie unser Distributor-Informationspaket herunter.
+  actions:
+    - text: Für das Vertriebsprogramm bewerben
+      href: /contact/?partner=distributor
+      variant: primary
+    - text: Distributor-Kit herunterladen
+      href: /resources/download-catalog/
+      variant: secondary

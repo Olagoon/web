@@ -1,0 +1,267 @@
+meta:
+  title: 'Fabbrica e Produzione — OEM di SUP Gonfiabile | {SITE}'
+  description: 'Visita la fabbrica afarer: impianto di 12.000 m² con taglio, saldatura RF, stampa, assemblaggio e laboratorio di qualità per la produzione OEM/ODM di SUP gonfiabili.'
+  keywords:
+    - 'fabbrica SUP Cina'
+    - 'fabbrica di paddle board gonfiabili'
+    - 'produttore OEM di SUP'
+    - 'produzione di SUP gonfiabili'
+hero:
+  tagline: Fabbrica
+  title: Fabbrica & Produzione
+  subtitle: 12.000 m² di produzione integrata — dalla materia prima alla tavola finita
+intro:
+  - >-
+    Come braccio produttivo di **Aquafarer LLC**, il team operativo di Qingdao di afarer controlla ogni fase della produzione — dall'arrivo delle materie prime PVC e fibra di vetro all''ispezione finale pre-spedizione della tavola finita. Il nostro impianto produttivo nella Zona di Sviluppo Economico di
+    Qingdao si estende per 12.000 metri quadrati e ospita officine dedicate per taglio PVC, termosaldatura tubolari, fabbricazione stampi FRP, stampa digitale SUP, assemblaggio finale e test qualità.
+  - >-
+    Integrando design, ingegneria, prototipazione, produzione e test sotto lo stesso tetto, eliminiamo le inefficienze della produzione conto terzi e manteniamo il controllo diretto sulla qualità costruttiva, la selezione dei materiali e i tempi di consegna. Ogni tavola che lascia la nostra
+    officina è costruita dalla nostra gente, sulle nostre attrezzature, secondo i nostri standard.
+stats:
+  - value: 12.000 m²
+    label: Superficie produttiva
+  - value: 200+
+    label: Lavoratori qualificati
+  - value: 15.000+
+    label: Tavole SUP prodotte annualmente
+  - value: ISO 9001
+    label: Certificato qualità
+intelligence_tagline: Intelligenza della fabbrica
+intelligence_title: Esplora le nostre capacità produttive
+intelligence_cards:
+  - title: Capacità produttiva
+    icon: C
+    icon_bg: blue
+    desc: Struttura da 12.000 m² che produce 15.000+ SUP/anno su linee di tavole SUP e attrezzature di sicurezza. 200+ operai, 2 turni.
+    metrics:
+      - label: MOQ
+        value: 'SUP: 5–10'
+      - label: Tempo di consegna
+        value: 30–45 giorni
+    link: /factory/capacity/
+    link_label: Dettagli completi sulla capacità →
+  - title: Laboratorio e Test di Qualità
+    icon: Q
+    icon_bg: green
+    desc: 'Laboratorio indipendente di controllo qualità con 4 fasi di test: ispezione delle materie prime (trazione, strappo, UV), mantenimento della pressione per 24–48h a 1,25 volte la pressione nominale, test di sbucciamento delle cuciture e verifica del carico/equilibrio su ogni tavola.'
+    metrics:
+      - label: Attrezzatura da laboratorio
+        value: Provetta di trazione, camera termica, serbatoio di perdita
+      - label: Standard
+        value: ISO 9001, CE, AS 1799
+    link: /factory/quality-lab/
+    link_label: Procedure di laboratorio e attrezzature →
+  - title: Capacità OEM/ODM
+    icon: O
+    icon_bg: purple
+    desc: 'Servizi OEM/ODM completi: progettazione di stampi personalizzati, confezionamento a marca privata, colori personalizzati delle tavole, grafiche del ponte (stampa digitale e serigrafica) e logistica drop-ship.'
+    metrics:
+      - label: Certificazioni
+        value: ISO 9001, BSCI, CE, REACH
+      - label: Spedizione
+        value: FOB, CIF, DDP verso oltre 50 paesi
+    link: /factory/oem-capability/
+    link_label: Servizi OEM completi →
+workshops_section:
+  tagline: Officine
+  title: Officine di Produzione
+  workshops:
+    - title: Taglio PVC & Preparazione Materiali
+      description: Macchine di taglio CNC automatiche lavorano tessuti PVC e drop-stitch con precisione submillimetrica. L'annidamento ottimizzato al computer minimizza lo scarto di materiale e garantisce che ogni pannello rispetti le specifiche dimensionali prima della saldatura.
+      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    - title: Saldatura Tubolari & Termosaldatura
+      description: Officina saldatura dedicata con macchine termosaldatrici e presse dielettriche RF. Le termosaldatrici ad aria calda legano e fondono le camere dei tubolari PVC, mentre le saldature RF producono giunture ermetiche ad alta resistenza che superano i requisiti EN ISO 25649.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    - title: Stampi FRP e Fabbricazione di Compositi
+      description: >-
+        Stampi FRP personalizzati per componenti SUP, prodotti mediante stampaggio in fibra di vetro a stratificazione manuale con sistemi resina poliestere e vinylestere. Ogni strato è rullato a mano e insaccato sottovuoto per qualità costante. La cabina di spruzzatura gelcoat fornisce una finitura marina lucida e
+        resistente ai UV.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+    - title: Stampa & Decorazione SUP
+      description: Le tavole SUP sono decorate mediante stampa digitale per grafica a colori e serigrafia per loghi e motivi ripetuti. Le stampanti digitali producono design ponte fotorealistici, mentre la serigrafia offre marchi di marca durevoli e vivaci.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+    - title: Assemblaggio Finale & Allestimento
+      description: Linea di assemblaggio dove i nuclei drop-stitch vengono rifiniti con i longheroni, i ponti in EVA vengono applicati e vengono installate pinne, valvole e accessori. Ogni tavola segue una checklist di assemblaggio in 100 punti firmata dal caposquadra.
+      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+    - title: Test Qualità & Ispezione
+      description: Ogni tavola finita subisce test obbligatori di ritenzione aria, verifica pelatura giunture e controllo completo sistemi prima della spedizione. Il nostro laboratorio qualità opera indipendentemente dalla produzione e riporta direttamente alla direzione.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+equipment_section:
+  tagline: Attrezzatura
+  title: Attrezzatura Produttiva Chiave
+  view_full: Vedi elenco completo attrezzatura →
+  view_full_link: /factory/equipment/
+  items:
+    - name: Macchina Taglio PVC Automatica
+      spec: Controllo CNC, precisione 0,1 mm
+    - name: Macchina Termosaldatrice
+      spec: Aria calda, 200–300 °C, per legame tubolari
+    - name: Pressa Saldatura Dielettrica RF
+      spec: 15 kW, saldatura giunture ermetiche
+    - name: Stampi a Stratificazione Manuale in Fibra di Vetro
+      spec: Stampi per tavole SUP fino a 14 ft
+    - name: Stampante Digitale
+      spec: Grafica colore per ponti SUP
+    - name: Macchina Serigrafia
+      spec: Stampa logo multicolore
+qc_section:
+  tagline: Controllo Qualità
+  title: Processo di Test e Garanzia Qualità
+  subtitle: Ogni tavola subisce test obbligatori prima della spedizione. Il nostro laboratorio qualità opera indipendentemente dalla produzione e riporta direttamente alla direzione.
+  steps:
+    - step: '1'
+      title: Ispezione Materie Prime
+      desc: I tessuti PVC e drop-stitch subiscono test di trazione (ASTM D751), propagazione strappo e verifica resistenza UV prima che qualsiasi lotto entri in produzione.
+    - step: '2'
+      title: Test Ritenzione Aria 24–48 Ore
+      desc: Ogni camera tubolare è gonfiata al 125% della pressione nominale e mantenuta per 24–48 ore. Un calo di pressione oltre il 5% attiva il rigetto automatico e la reispezione delle giunture.
+    - step: '3'
+      title: Test Carico e Bilanciamento
+      desc: Le tavole finite sono caricate alla massima capacità nominale e testate per stabilità e rigidità. Ogni tavola è testata in acqua prima dell'ispezione finale.
+oem_section:
+  tagline: Progetti OEM
+  title: Casi Studio Partnership Marchio e OEM
+  subtitle: Dal concept al container — come aiutiamo i marchi globali a lanciare e scalare le loro linee di SUP gonfiabili.
+  cases:
+    - challenge: Un rivenditore europeo di outdoor necessitava di una linea SUP a marchio private label con grafica ponte unica, PVC ecologico e imballaggio pronto per la vendita al dettaglio — tutto consegnato in 60 giorni.
+      solution: Sviluppo di file stampa digitale personalizzati, approvvigionamento PVC conforme REACH e compressione della campionatura da 3 turni a 1 co-localizzando il team di design nella nostra fabbrica di Qingdao.
+      result: 55 giorni dall'ordine firmato al FOB. 2.400 unità su 4 SKU. Ordine ripetuto prima dell'arrivo del primo container.
+    - challenge: Una startup americana di sport acquatici necessitava di un SUP drop-stitch ad alte prestazioni con forma personalizzata, imballaggio co-branded e certificazione BSCI per il posizionamento al dettaglio.
+      solution: Adattamento dello stampo SUP esistente con sagoma modificata, sviluppo grafica imballaggio co-branded e fornitura documentazione completa audit BSCI.
+      result: Elencato con successo in 3 grandi catene outdoor USA. 5.000+ unità nel primo anno con 98% tasso di sell-through.
+    - challenge: Un distributore australiano richiedeva una gamma SUP certificata CE con colori personalizzati e conformità agli standard australiani.
+      solution: Produzione campioni pre-produzione con 4 varianti colore e coordinamento test di conformità di terze parti.
+      result: Gamma SUP di 3 modelli lanciata sul mercato AU/NZ. Seguita da vincita gara d'appalto governativa per 12 SUP da pattuglia.
+faq_section:
+  tagline: Domande Frequenti
+  title: Domande Frequenti B2B e OEM
+  questions:
+    - q: Qual è la quantità minima d'ordine (MOQ) per tavole SUP gonfiabili OEM?
+      a: La MOQ inizia a 5–10 unità per modelli OEM standard. Stampi personalizzati e progetti private label richiedono un minimo di 200 unità a seconda della complessità. Ordini di prova e campionature sono disponibili per lanci di nuovi marchi.
+    - q: afarer possiede la certificazione BSCI?
+      a: Sì. La nostra fabbrica mantiene una certificazione conformità sociale BSCI valida (rapporto audit disponibile su richiesta). Deteniamo anche ISO 9001 per la gestione qualità e tutti i prodotti portano la certificazione CE. La documentazione conformità REACH e RoHS è fornita con ogni spedizione OEM.
+    - q: Qual è il tempo di consegna tipico per un ordine OEM?
+      a: Il tempo di consegna standard è di 30–45 giorni dall'ordine confermato e dal deposito per la produzione OEM in serie. Lo sviluppo di stampi personalizzati aggiunge 15–20 giorni per la realizzazione degli stampi. È disponibile una produzione accelerata per ordini urgenti e picchi stagionali. I campioni prototipo vengono in genere spediti entro 15–20 giorni.
+    - q: Potete spedire FOB Qingdao o CIF al nostro porto?
+      a: Sì. Spediamo FOB Qingdao, CIF verso i principali porti globali e DDP per partner qualificati. Il nostro team logistico gestisce prenotazione container, documentazione export e sdoganamento. Spediamo in 50+ paesi nei mercati UE, USA, AU e Asia.
+b2b_moq: 'MOQ standard: 5–10 unità per modello. Ordini di prova benvenuti per nuove partnership.'
+production_flow:
+  tagline: Flusso di produzione
+  title: Dal materiale alla tavola finita
+  subtitle: Ogni tavola passa attraverso 6 fasi di produzione con punti di controllo qualità ad ogni passaggio. Nessuna scorciatoia, nessuna ispezione saltata.
+  stages:
+    - stage: '01'
+      title: Ricezione Materiale e Controllo Qualità in Entrata
+      description: Tutti i materiali in arrivo sono registrati per numero di lotto nel nostro sistema ERP. Rotoli di tessuto in PVC, nuclei drop-stitch, valvole, adesivi e componenti hardware sono messi in quarantena fino alla firma del controllo qualità.
+      qc_check: Resistenza alla trazione (ASTM D751), resistenza alla lacerazione (ISO 4674), spessore, viscosità dell'adesivo, controllo visivo dei difetti
+      qc_threshold: 100% dei lotti testati. Rifiutare se la resistenza alla trazione < 90% della specifica, lo strappo < minimo della specifica, o qualsiasi difetto visivo
+      responsibility: Squadra QC in arrivo (3 ispettori)
+    - stage: '02'
+      title: Taglio CNC e preparazione dei materiali
+      description: Il nesting ottimizzato dal computer dispone i pannelli sul materiale di PVC per minimizzare gli sprechi. Le macchine da taglio CNC automatiche mantengono una precisione di posizionamento di 0,1 mm.
+      qc_check: Controllo dimensionale rispetto ai file CAD DXF, ispezione della qualità dei bordi, verifica del conteggio dei pannelli
+      qc_threshold: Ogni 20° pannello misurato. Tolleranza ±0,5 mm. Scartare il lotto se >2% fuori tolleranza
+      responsibility: Responsabile del laboratorio di taglio
+    - stage: '03'
+      title: Saldatura e incollaggio drop-stitch
+      description: I nuclei drop-stitch sono legati ai laminati esterni in PVC mediante laminazione a caldo. Le camere dei tubi sono saldate a RF o saldate ad aria calda. Le bande dei longheroni sono saldate a fusione a tre strati.
+      qc_check: Test di strappo ogni 50 unità (ASTM D751), misurazione della larghezza della saldatura, revisione del registro della temperatura dell'aria calda, ispezione visiva della cucitura sotto retroilluminazione
+      qc_threshold: Forza di adesione minima 8 N/cm. Tolleranza della larghezza di saldatura ±1 mm. Qualsiasi canalizzazione visibile = scarto
+      responsibility: Controllo di qualità della saldatura (2 ispettori per turno)
+    - stage: '04'
+      title: Assemblaggio e montaggio
+      description: "Le tavole vengono trasferite all'assemblaggio finale dove tutti i componenti vengono uniti: longheroni incollati e saldati, valvole installate, D-ring, maniglie, scatole per pinne e fissaggio del sacco da trasporto. Ogni unità segue una lista di controllo di assemblaggio a 100 punti."
+      qc_check: Approvazione della checklist a 100 punti per unità, test della funzione della valvola (10 cicli apertura/chiusura), verifica della coppia dell'hardware, ispezione visiva
+      qc_threshold: 'Politica di zero difetti su elementi critici per la sicurezza (valvole, anelli a D, maniglie). Difetti cosmetici minori: AQL 2,5 (ISO 2859)'
+      responsibility: Capo squadra di assemblaggio + controllo qualità di linea
+    - stage: '05'
+      title: Verifica della Pressione e Controllo Qualità
+      description: Ogni camera viene gonfiata a 1,25× la pressione nominale (tipicamente 20–25 PSI) e mantenuta per 24–48 ore. I sensori di pressione registrano continuamente. Le camere che superano il 5% di perdita di pressione vengono respinte e inviate per una nuova ispezione delle cuciture.
+      qc_check: Registro della pressione per 24–48 ore, calibrazione del sensore verificata quotidianamente, lettura della pressione compensata per la temperatura, ri-test della giunzione dopo la riparazione
+      qc_threshold: Perdita di pressione massima del 5% in 24–48 ore a temperatura stabile. Qualsiasi camera che superi questo valore = nuovo test completo del lotto di produzione al 100%
+      responsibility: Laboratorio qualità (indipendente dalla produzione, riferisce alla direzione)
+    - stage: '06'
+      title: Ispezione finale e imballaggio
+      description: Ispezione finale visiva e funzionale. Difetti della superficie, uniformità del colore, verifica dell'etichetta/BIN, integrità dell'imballaggio e completezza degli accessori. Le unità sono sottovuoto, confezionate in scatole e palletizzate per il carico sul container.
+      qc_check: Ispezione visiva completa, checklist degli accessori per SKU, test di caduta del confezionamento (1 m, campione casuale), verifica della scansione dell'etichetta/codice a barre
+      qc_threshold: AQL 2,5 per difetti gravi, AQL 4,0 per difetti minori. Tolleranza zero per difetti di sicurezza. Il 100% delle unità viene ispezionato visivamente
+      responsibility: Team di QC finale (4 ispettori) + Capo squadra imballaggio
+workforce:
+  tagline: La Nostra Gente
+  title: Forza lavoro e competenze
+  engineers: '25+'
+  engineers_detail: Ingegneri in R&S, progettazione stampi, laboratorio dei materiali e ingegneria di produzione. Media di 7 anni nella produzione di gonfiabili.
+  shift_pattern: 2 turni/giorno (07:00–15:30, 15:30–00:00). Turno di notte opzionale per ordini urgenti.
+  training: Formazione QC mensile, esercitazioni di sicurezza trimestrali, valutazione delle competenze annuale. I nuovi assunti completano un'induzione di 40 ore prima di lavorare sulla linea di produzione.
+  departments:
+    - name: R&D & Engineering
+      count: '25+'
+      role: Progettazione del prodotto, ingegneria degli stampi, laboratorio dei materiali
+    - name: Cutting & Material Prep
+      count: 15
+      role: Taglio CNC, preparazione dei pannelli, movimentazione dei materiali
+    - name: Welding & Lamination
+      count: 40
+      role: Saldatura RF, saldatura ad aria calda, incollaggio drop-stitch
+    - name: SUP Core Bonding
+      count: 30
+      role: Laminazione drop-stitch, legame a caldo, fusione della banda dei longheroni
+    - name: Assembly & Rigging
+      count: 35
+      role: Assemblaggio finale, installazione dell'hardware, controllo dei sistemi
+    - name: Quality Control
+      count: 12
+      role: Controllo qualità in arrivo, controllo qualità in corso, ispezione finale, test di laboratorio
+    - name: Logistics & Packing
+      count: 20
+      role: Imballaggio, caricamento dei contenitori, documentazione per l'esportazione
+    - name: Management & Admin
+      count: 15
+      role: Vendite, approvvigionamento, risorse umane, finanza, conformità
+material_traceability:
+  tagline: Tracciabilità
+  title: Tracciamento dei Materiali e Controllo dei Lotti
+  description: >-
+    Ogni lotto di materia prima riceve un numero di lotto unico nel nostro sistema ERP. Dall'arrivo, attraverso la produzione fino al prodotto finito, l'elenco dei materiali di ogni tavola si collega al lotto del fornitore originale. Ciò consente una completa tracciabilità a monte per
+    qualsiasi richiesta di qualità o conformità.
+  system: ERP personalizzato (sistema interno del Gruppo Qingdao Vatrad) + etichette di lotto fisiche su ogni ordine di lavoro
+  coverage: Il 100% dei materiali di produzione — PVC, tessuto drop-stitch, adesivi, valvole, componenti hardware, imballaggi
+  records_retained: 10 anni (secondo il requisito CE 2013/53/UE)
+  suppliers:
+    - material: PVC di qualità marina
+      source: Fornitori cinesi e coreani
+      certified: ISO 9001, REACH, RoHS
+    - material: Tessuto drop-stitch
+      source: Tessitura interna + partner esterno
+      certified: Controllo qualità interno fornitore ISO 9001
+    - material: Valvole e Hardware
+      source: Fornitori OEM cinesi
+      certified: ISO 9001, certificati dei materiali per lotto
+qc_dashboard:
+  tagline: QC per Numeri
+  title: Metriche di controllo qualità
+  subtitle: Dati reali di superamento/insuccesso dalla nostra linea di produzione. Il nostro laboratorio di qualità opera in modo indipendente dalla produzione e riporta direttamente alla direzione.
+  stats:
+    - value: 100%
+      label: Unità sottoposte a collaudo di pressione
+      detail: Ogni tavola, ogni camera, ogni lotto
+    - value: <5%
+      label: Caduta di pressione massima consentita
+      detail: Su 24–48 ore a 1,25× pressione nominale
+    - value: AQL 2,5
+      label: Soglia di difetto maggiore
+      detail: Secondo lo standard di campionamento ISO 2859
+    - value: 24–48h
+      label: Durata della pressione
+      detail: A seconda della categoria di prodotto
+    - value: 1,25×
+      label: Pressione di prova vs pressione nominale
+      detail: Margine di sicurezza su ogni camera
+    - value: 0%
+      label: Tolleranza sui difetti di sicurezza
+      detail: Valvole, anelli a D, cuciture, galleggiabilità
+process_cta:
+  title: Vedi il nostro processo produttivo
+  desc: Segui una tavola attraverso ogni fase della produzione — dalla materia prima alla tavola pronta per l'acqua.
+  label: Vedi processo produttivo →
+  link: /factory/process/

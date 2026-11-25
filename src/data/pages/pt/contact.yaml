@@ -1,0 +1,145 @@
+meta:
+  title: 'Contato — Consultas de Parceria e Produtos | {SITE}'
+  description: 'Contate a afarer para consultas de parceria, co-brand e marca própria, ou frotas profissionais. Marca de SUP inflável, respondemos em 2 dias úteis.'
+  keywords:
+    - 'contatar a afarer'
+    - 'orçamento distribuidor de SUP'
+    - 'fornecedor profissional de SUP'
+    - 'contatar fabricante de SUP'
+hero_text:
+  tagline: Contacto
+  title: ENTRE EM CONTACTO
+contact_form:
+  id: form
+  title: Envie-nos uma mensagem
+  subtitle: Para orçamentos, questões técnicas ou propostas de parceria, escreva-nos. Respondemos num dia útil.
+  email_to: info@afarer.com
+  submit_button: Enviar solicitação → Obter cotação
+  success_message: Obrigado! A sua mensagem chegou à nossa caixa de entrada. Responderemos num dia útil.
+  error_message: Ocorreu um erro ao enviar a sua mensagem. Tente novamente ou envie-nos um e-mail diretamente.
+  default_country_code: '+1'
+  captcha:
+    label: 'Anti-spam: por favor, resolva o seguinte'
+  fields:
+    - name: country
+      label: País
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: Volume estimado do pedido
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: Selecione seu volume estimado...
+        - value: sample
+          label: Apenas amostras / protótipos
+        - value: '5-10'
+          label: 5–10 unidades (MOQ padrão)
+        - value: '100-500'
+          label: 100–500 unidades
+        - value: '500-plus'
+          label: 500+ unidades (Preços por volume)
+      step: 1
+    - name: customization
+      label: Precisa de personalização?
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: Selecione o tipo de personalização...
+        - value: none
+          label: Produto padrão (sem personalização)
+        - value: logo
+          label: Apenas Logotipo / Marca Personalizada
+        - value: full
+          label: Co-brand completo (tamanho, cor, gráficos, embalagem)
+        - value: consultation
+          label: Não tenho certeza — preciso de consulta
+      step: 1
+    - name: productInterest
+      label: Categorias de produtos de interesse
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: Selecione a categoria do produto...
+        - value: all
+          label: Todos os produtos / Catálogo completo
+        - value: sup
+          label: Pranchas de SUP / Pranchas de Stand Up Paddle
+        - value: safety
+          label: Equipamento de Segurança / Coletes Salva-vidas
+        - value: accessory
+          label: Acessórios (bombas, remos, bolsas)
+      step: 1
+    - name: firstName
+      label: Primeiro Nome
+      row: 1
+      step: 2
+    - name: lastName
+      label: Último Nome
+      row: 1
+      step: 2
+    - name: companyName
+      label: Nome da Empresa
+      row: 2
+      step: 2
+    - name: email
+      label: E-mail
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: TEL
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: Morada
+      row: 4
+      step: 2
+    - name: zip
+      label: Código Postal
+      row: 5
+      step: 2
+    - name: subject
+      label: Assunto
+      row: 1
+      step: 3
+    - name: message
+      label: Mensagem
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: Outras formas de nos contactar
+  columns: 3
+  items:
+    - title: Vendas
+      description: Orçamentos, configurações, candidaturas a distribuidor e encomendas em volume.
+      icon: tabler:shopping-bag
+    - title: Apoio técnico
+      description: Garantia, reparações, peças sobresselentes e questões de operação.
+      icon: tabler:tool
+    - title: Imprensa e parcerias
+      description: Kits de imprensa, patrocínios e colaboração no setor.
+      icon: tabler:news
+    - title: Telefone
+      description: '+1 279 732 3333'
+      icon: tabler:headset
+    - title: E-mail
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: Sede
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: A nossa localização
+  subtitle: Visite-nos na nossa sede
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

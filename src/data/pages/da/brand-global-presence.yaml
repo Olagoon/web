@@ -1,0 +1,86 @@
+meta:
+  title: 'Global Tilstedeværelse — SUP-producent i 50+ lande | {SITE}'
+  description: "afarer eksporterer oppustelige SUP'er til over 50 lande på alle kontinenter. Professionel producent og leverandør til brands, distributører og flåder."
+  keywords:
+    - 'global SUP-producent'
+    - 'paddle board eksportør'
+    - 'SUP-fabrik Kina'
+    - 'professionel SUP-leverandør'
+hero:
+  tagline: Global tilstedeværelse
+  title: Betjener 50+ lande<br />over alle kontinenter
+  subtitle: Fra europæiske kystpatruljeoperatører til australske vandsportsdistributører til redningsteams i Mellemøsten — afarer-boards er på vandet verden over.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarer global produktion og distribution af marineprodukter
+stats:
+  title: Global rækkevidde
+  stats:
+    - title: Lande
+      amount: 50+
+    - title: Eksportmarkeder
+      amount: Europa, Amerika, Asien, Mellemøsten, Oceanien
+    - title: Produktion
+      amount: Qingdao, Kina
+    - title: US-lager
+      amount: Montclair, CA
+features3_markets:
+  tagline: Centrale markeder
+  title: Regional ekspertise<br />til lokale krav
+  subtitle: Vi forstår at forskellige markeder har forskellige regulatoriske krav, præferencer og anvendelsestilfælde.
+  isBeforeContent: false
+  columns: 4
+  items:
+    - title: Europa og Storbritannien
+      description: CE-certificerede produkter. Stor efterspørgsel efter SUP-brædder på EU-markeder. Britiske distributører sætter pris på vores hurtige ekspedition.
+      icon: tabler:map-pin
+    - title: Nordamerika
+      description: US Coast Guard godkendt fremstilling. US-lager i Montclair, CA til hurtig levering til vestkysten. Voksende efterspørgsel efter fiskeri-, rednings- og rekreative SUP'er.
+      icon: tabler:map-pin
+    - title: Australien & Oceanien
+      description: Stærkt marked for SUP-brædder og vandsportstilbehør. Australske distributører værdsætter vores UV-bestandige PVC-konstruktion under barske solforhold. Hurtig forsendelse fra vores asiatiske facilitet.
+      icon: tabler:map-pin
+    - title: Mellemøsten
+      description: Voksende efterspørgsel efter vandsports- og eventyrudstyr. Vores SUP'er i kommerciel klasse og sikkerhedsudstyr er populære hos touroperatører og udlejningscentre. Tilpassede konfigurationer til højtemperaturmiljøer.
+      icon: tabler:map-pin
+features3_distribution:
+  tagline: Distributionsnetværk
+  title: Samarbejder med distributører<br />verden over
+  subtitle: Vi samarbejder med etablerede marine udstyrsdistributører, vandsportsbrands og offentlige indkøbsmyndigheder.
+  isBeforeContent: false
+  columns: 3
+  items:
+    - title: Co-brand-programmer
+      description: Private label-fremstilling til globale vandsportsmærker. Vi håndterer alt fra design til produktion til drop-shipping.
+      icon: tabler:building
+    - title: Distributørnetværk
+      description: Autoriserede distributører i 20+ lande har lager og yder lokal support. Nye distributørforespørgsler er velkomne.
+      icon: tabler:users
+    - title: Offentlige myndigheder og institutioner
+      description: Direkte forsyning til kystvagter, søge- og redningsorganisationer og militære indkøbsprogrammer. Overholdelse af institutionelle indkøbskrav.
+      icon: tabler:building-community
+steps2_logistics:
+  title: Global logistik & support
+  subtitle: Fra fabrik til destination — vi håndterer hele forsyningskæden.
+  items:
+    - title: Forsendelsesmuligheder
+      description: Søfragt (FOB Qingdao), luftfragt til hasteordrer og ekspresbud til prøver og reservedele.
+      icon: tabler:truck-delivery
+    - title: US-lager
+      description: 'Lager i Montclair, CA til hurtig levering på tværs af Nordamerika. Vestkysten: 2-3 dage, Centralt: 3-4 dage, Østkysten: 4-5 dage.'
+      icon: tabler:building-warehouse
+    - title: Reservedele
+      description: Ægte afarer-reservedele og forbrugsvarer på lager året rundt. Almindelige dele sendes inden for 24 timer.
+      icon: tabler:package
+    - title: Teknisk support
+      description: Direkte linje til vores ingeniørteam for tekniske spørgsmål, reparationsråd og support til reservedele. Vi støtter boards, vi byggede for 20 år siden.
+      icon: tabler:headset
+cta:
+  title: Vil du blive distributør?
+  subtitle: Vi udvider aktivt vores distributionsnetværk. Kontakt vores eksportteam for at diskutere partnerskabsmuligheder.
+  actions:
+    - variant: primary
+      text: Partnerskabsforespørgsel
+      href: /contact/
+    - text: Se vores produktsortiment
+      href: /products/

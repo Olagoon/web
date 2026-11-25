@@ -1,0 +1,97 @@
+meta:
+  title: SUP-forhandlerpartnerprogram | {SITE}
+  description: SUP-grossistpartnerprogram for detaljhandlere og sportsbutikker. Komplett produktlinje, dropshipping-alternativer, konkurransedyktige grossistmarginer på 20–35 % og lav MOQ for å komme i gang.
+hero:
+  tagline: Detaljhandelspartnere
+  title: Selg premium oppblåsbare SUP-er<br />med marginer som fungerer
+  subtitle: Bli detaljhandelspartner hos Afarer — før det raskest voksende SUP-merket i ditt marked med fulle grossistpriser, dropshipping, profesjonelt markedsføringsmateriell og dedikert support.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Afarer SUP-brett vist i en butikk
+margin_section:
+  title: Detaljhandelsmarginer og minimumsordreantall
+  subtitle: Grossistpristrinn designet for lønnsomhet i detaljhandelen.
+  items:
+    - tier: Grunnleggende partner
+      discount: 20%
+      moq: 500 enheter/år
+      margin_note: ~150–250 USD fortjeneste per brett
+      features:
+        - Tilgang til fullstendig produktlinje
+        - Markedsføringsmateriell-pakke
+        - E-postsupport
+        - Tilgang til produktkatalog
+    - tier: Premium-partner
+      discount: 30%
+      moq: 2 000+ enheter/år
+      margin_note: Ca. $250–400 fortjeneste per brett
+      features:
+        - Dedikert kontaktperson
+        - Eksklusiv territoriebeskyttelse
+        - Skreddersydd markedsføringsstøtte
+        - Først tilgang til nye produkter
+        - Ansattopplæring
+    - tier: Flaggskip-partner
+      discount: 35 %+
+      moq: 5 000+ enheter/år
+      margin_note: ~350–500+ USD fortjeneste per brett
+      features:
+        - Co-brandede markedsføringskampanjer
+        - Støtte for butikkdisplay
+        - Opplæring av personell på stedet
+        - Felles kampanjer i sosiale medier
+        - Prioritert produksjonsallokering
+product_line:
+  title: Komplett produktlinje
+  subtitle: Et SUP-brett for hver kunde som setter din terskel.
+  items:
+    - name: All-Round Series
+      description: Bestselger — passer 80 % av kundene
+    - name: Touring Series
+      description: Prestasjonspadlere — høyere margin
+    - name: Yoga Series
+      description: Nisjemarked – premiumpriser
+    - name: Kids Series
+      description: Familiekunder — gjentatte kjøpere
+    - name: Racing Series
+      description: Entusiastmarked — merkevareglorie
+    - name: Accessories
+      description: Høymargintillegg (padler, vester, pumper, bagger)
+catalog:
+  title: Ressurser for detaljhandelspartnere
+  subtitle: Last ned vårt omfattende forhandlerpakke.
+  items:
+    - name: 2026 Product Catalog
+      desc: Fullt sortiment med spesifikasjoner, priser og bestillingsinformasjon
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Marginkalkulator, vareplasseringstips og beste praksis
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Høyoppløste produktbilder, livsstilsbilder og POS-materiell
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Støtte for detaljhandelspartnere
+  subtitle: Alt du trenger for å selge med selvtillit.
+  items:
+    - Høyoppløselige produktbilder (profesjonell fotografering)
+    - Livsstilsbilder for sosiale medier, nettside og katalog
+    - Markedsføringsmateriell — plakater, hylledekorasjoner, bannere
+    - Produkt opplæringsvideoer for personalopplæring
+    - Sosiale medier-innholdspakke (ukentlige innlegg)
+    - SEO-optimaliserte produktbeskrivelser
+    - Dropshipping-alternativ tilgjengelig — ingen lager risiko
+    - Netto 30 betalingsbetingelser
+cta:
+  title: Klar til å bli Afarer-detaljhandelspartner?
+  subtitle: Søk om partnerskap eller last ned vår detaljhandelskatalog for å komme i gang.
+  actions:
+    - text: Søk om partnerskap
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Last ned detaljhandelskatalog
+      href: /resources/download-catalog/
+      variant: secondary

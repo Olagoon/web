@@ -1,0 +1,127 @@
+meta:
+  title: Centro R&S | {SITE}
+  description: Ricerca e Sviluppo — Test dei tessuti in PVC, ingegneria dello scafo, saldatura a radiofrequenza, test idrodinamici e controllo qualità. Servizi personalizzati di R&S disponibili.
+hero:
+  tagline: Centro R&S
+  title: Centro R&S
+  subtitle: Concentrato sul progresso
+intro:
+  - >-
+    Il Centro di Ricerca e Sviluppo (R&S) di Afarer's è la forza trainante dietro la nostra missione di rivoluzionare l'attrezzatura per sport acquatici. Offriamo agli appassionati di sport acquatici di tutto il mondo prodotti più sicuri, confortevoli e divertenti attraverso un'innovazione
+    incessante nelle tavole paddle gonfiabili (SUP). Il nostro team dedicato di ingegneri, designer ed esperti appassionati di sport acquatici sta plasmando il futuro del settore, alzando costantemente gli standard di qualità, prestazioni e sostenibilità.
+  - >-
+    Il nostro centro di R&S riunisce sotto un unico tetto scienziati dei materiali, ingegneri navali e ingegneri di produzione. Dalla formulazione dei materiali e dalla simulazione dello scafo allo sviluppo dei processi di saldatura e alle prove in mare a grandezza naturale, ogni fase dello
+    sviluppo del prodotto è guidata dai dati e validata dai test.
+mission:
+  tagline: La nostra missione
+  title: Innovare il futuro degli sport acquatici
+  pillars:
+    - icon: lightning
+      title: Avanzamento tecnologico
+      desc: Pionieristica di nuovi materiali, design e processi produttivi per prestazioni e longevità superiori del prodotto.
+    - icon: design
+      title: Progettazione incentrata sull'utente
+      desc: Comprendere profondamente e superare le esigenze degli utenti attraverso un design del prodotto ergonomico e intuitivo.
+    - icon: globe
+      title: Pratiche Sostenibili
+      desc: Minimizzare la nostra impronta ambientale utilizzando materiali e processi ecocompatibili.
+    - icon: shield
+      title: Sicurezza senza compromessi
+      desc: Garantire i massimi standard di sicurezza tramite test e certificazioni rigorosi.
+pillars:
+  - title: Avanzamento tecnologico
+    desc: Pionieristici nuovi materiali, design e processi di produzione per offrire prestazioni superiori del prodotto e longevità.
+    icon: tech
+  - title: Materiali Avanzati
+    desc: Indagare PVC all'avanguardia, compositi e alternative sostenibili per caratteristiche del prodotto migliorate.
+    icon: materials
+  - title: Sostenibilità
+    desc: 'Un Impegno Fondamentale: Siamo dedicati alla gestione ambientale attraverso la produzione sostenibile e materiali riciclabili.'
+    icon: sustainability
+capabilities:
+  tagline: Capacità
+  title: Capacità di R&S
+  subtitle: Quattro discipline principali che ci danno il controllo completo sullo sviluppo del prodotto — dalla ricerca delle materie prime alla certificazione finale.
+  groups:
+    - title: Scienza dei Materiali e Tecnologia dei Tessuti
+      items:
+        - Analisi e ottimizzazione delle formulazioni di PVC
+        - Stabilizzazione UV, ritardanza di fiamma e sviluppo di additivi antimicrobici
+        - Ingegneria della laminazione e adesione dei tessuti multistrato
+        - Test di invecchiamento accelerato (UV, termico, umidità, nebbia salina)
+    - title: Ingegneria degli Scafi e Idrodinamica
+      items:
+        - Progettazione parametrica di scafi 3D e ottimizzazione CFD
+        - Analisi agli elementi finiti per carichi strutturali e da impatto
+        - Test in vasca di traino su modello in scala e convalida delle prestazioni
+        - Sviluppo di scafi su misura per profili di missione speciali
+    - title: Tecnologia di saldatura e giunzione
+      items:
+        - Sviluppo e ottimizzazione del processo di saldatura dielettrica RF
+        - Metodi di saldatura ad aria calda, a cuneo caldo e a ultrasuoni
+        - Qualifica dell'incollaggio adesivo e del nastro per giunzioni
+        - Modellazione della resistenza delle saldature e previsione della durata
+    - title: Verifica, Certificazione e Conformità
+      items:
+        - Gestione della qualità e test di conformità CE
+        - Supporto per test e certificazioni da parte di terzi indipendenti
+        - Sviluppo di protocolli di test personalizzati per la qualificazione degli approvvigionamenti
+        - Analisi dei guasti in servizio e indagine sulla causa principale
+rd_numbers:
+  tagline: Innovazione
+  title: R&S per Numeri
+  stats:
+    - value: '14'
+      label: Ingegneri e scienziati R&S
+    - value: '8'
+      label: Brevetti attivi e domande di brevetto
+    - value: '6'
+      label: Laboratori specializzati
+    - value: 12 anni
+      label: Esperienza media del team
+rd_services:
+  tagline: Ricerca e sviluppo personalizzata
+  title: Servizi di R&S per i Partner
+  services:
+    - title: Sviluppo di Materiale Personalizzato
+      desc: Sviluppiamo formulazioni di tessuti personalizzate, stratificazioni laminate e sistemi adesivi su misura per il vostro ambiente operativo e gli obiettivi di prestazioni.
+    - title: Ingegneria di prodotto OEM / ODM
+      desc: Sviluppiamo formulazioni di tessuti personalizzate, stratificazioni laminate e sistemi adesivi su misura per il vostro ambiente operativo e gli obiettivi di prestazioni.
+    - title: Test e certificazione da parte di terzi
+      desc: Utilizza le nostre strutture di prova conformi alle ISO per test indipendenti dei materiali, validazione dei prodotti e supporto alla certificazione.
+  cta: Discuti i tuoi requisiti di R&S →
+  cta_link: /contact/
+vision:
+  tagline: La nostra visione
+  title: Plasmare il futuro degli sport acquatici
+  body: >-
+    afarer si sforza di guidare l'industria dei SUP gonfiabili attraverso un'innovazione continua, una qualità incrollabile e un impegno costante per la sicurezza e la sostenibilità — arricchendo in ultima analisi le esperienze degli appassionati di sport acquatici in tutto il mondo.
+    Il Centro R&S di afarer è il luogo dove la passione incontra l'innovazione, stabilendo nuovi standard per l'industria degli sport acquatici.
+labs_section:
+  tagline: Laboratori
+  title: I nostri laboratori
+  labs:
+    - image: https://assets.afarer.com/images/afarer/randd/afarer-pvc-material-lab.webp
+      title: Laboratorio di Tessuti in PVC
+      description: Ricerca e test continui di tessuti in PVC per il ponte per resistenza alla trazione, resistenza ai raggi UV, abrasione e flessibilità a basse temperature per garantire affidabilità a lungo termine negli ambienti marini.
+      href: /randdcenter/pvc-fabric-lab/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+      title: Studio di Ingegneria Hull
+      description: Progettazione basata su CAD e analisi agli elementi finiti di scafi in HDPE, alluminio e fibra di vetro. Ogni scafo viene simulato digitalmente per la distribuzione dello stress e la resistenza agli urti prima che venga costruito il primo prototipo.
+      href: /randdcenter/hull-engineering/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-sup-manufacturing-3.webp
+      title: Centro di Saldatura RF
+      description: Struttura dedicata alla saldatura a radiofrequenza con controllo preciso della temperatura e della pressione, producendo giunzioni ad alta resistenza e a tenuta stagna che soddisfano gli standard dell'industria nautica per i mezzi gonfiabili.
+      href: /randdcenter/rf-welding/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-original.webp
+      title: Vasca di prova idrodinamica
+      description: Prove su modelli in scala nel nostro bacino di prova interno per ottimizzare la forma dello scafo, le prestazioni in planata, la stabilità e l'efficienza del carburante in una gamma di condizioni di carico e di mare.
+      href: /randdcenter/hydrodynamic-test-tank/
+    - image: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+      title: Officina di Prototipi
+      description: Struttura completa per prototipazione e attrezzaggio dove vengono costruiti, montati e collaudati in mare nuovi modelli. Ogni prototipo viene sottoposto a un programma di prova in acqua della durata minima di 20 ore prima dell'approvazione alla produzione.
+      href: /randdcenter/prototype-workshop/
+    - image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+      title: Laboratorio di Qualità e Ispezione
+      description: Laboratorio di controllo qualità dedicato che esegue test di trazione, cicli di ritenzione dell'aria, test di sbucciatura delle cuciture e certificazione dei materiali per garantire che ogni tavola che lascia l'officina soddisfi le nostre specifiche pubblicate.
+      href: /randdcenter/quality-inspection-lab/

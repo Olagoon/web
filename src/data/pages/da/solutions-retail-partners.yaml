@@ -1,0 +1,97 @@
+meta:
+  title: SUP-partnerprogram for detailhandel | {SITE}
+  description: SUP-engrospartnerprogram til detailhandlere og sportsbutikker. Komplet produktserie, dropshipping-muligheder, konkurrencedygtige engrosmargener på 20–35 % og lav MOQ til at starte.
+hero:
+  tagline: Detailpartnere
+  title: Sælg premium oppustelige SUPs<br />med margener, der virker
+  subtitle: Bliv detailpartner hos Afarer — før den hurtigst voksende SUP-brand på dit marked med fulde engrospriser, dropshipping, professionelt markedsføringsmateriale og dedikeret support.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Afarer SUP boards udstillet i en detailforretning
+margin_section:
+  title: Detailmargener og MOQ
+  subtitle: Engrosprisniveauer designet til detailhandlens rentabilitet.
+  items:
+    - tier: Basispartner
+      discount: 20%
+      moq: 500 enheder/år
+      margin_note: ~$150–250 fortjeneste pr. bræt
+      features:
+        - Adgang til hele produktlinjen
+        - Pakke med markedsføringsmaterialer
+        - E-mail-support
+        - Adgang til produktkataloget
+    - tier: Premium-partner
+      discount: 30%
+      moq: 2.000+ enheder/år
+      margin_note: ~$250–400 i fortjeneste pr. bræt
+      features:
+        - Dedikeret kundeansvarlig
+        - Eksklusiv beskyttelse af salgsområde
+        - Skræddersyet marketingstøtte
+        - Første adgang til nye produkter
+        - Træningssessioner for personalet
+    - tier: Flagship-partner
+      discount: 35%+
+      moq: 5.000+ enheder/år
+      margin_note: ~$350–500+ i fortjeneste pr. board
+      features:
+        - Co-branded marketingkampagner
+        - Støtte til butiksdisplays
+        - Træning af personale på stedet
+        - Fælles markedsføring på sociale medier
+        - Prioriteret produktionskapacitet
+product_line:
+  title: Komplet produktserie
+  subtitle: Et SUP-bræt til enhver kunde, der træder ind ad din dør.
+  items:
+    - name: All-Round Series
+      description: Bestseller — passer til 80 % af kunderne
+    - name: Touring Series
+      description: Performance-paddlere — højere margin
+    - name: Yoga Series
+      description: Nichemarked – premiumpriser
+    - name: Kids Series
+      description: Familiekunder — tilbagevendende købere
+    - name: Racing Series
+      description: Entusiastmarkedet — brand-halo
+    - name: Accessories
+      description: Tilbehør med høj margin (årer, veste, pumper, tasker)
+catalog:
+  title: Ressourcer til detailpartnere
+  subtitle: Hent vores omfattende retail-partnerkit.
+  items:
+    - name: 2026 Product Catalog
+      desc: Fuldt udvalg med specifikationer, priser og ordreoplysninger
+      icon: tabler:file-text
+      link: /resources/download-catalog/
+    - name: Retail Partner Guide
+      desc: Marginberegner, merchandising-tips og bedste praksis
+      icon: tabler:book
+      link: /resources/download-catalog/
+    - name: Marketing Asset Pack
+      desc: Hi-res produktbilleder, lifestyle-billeder og POS-materialer
+      icon: tabler:photo
+      link: /media/
+support:
+  title: Support til detailpartnere
+  subtitle: Alt, hvad du har brug for til at sælge med selvtillid.
+  items:
+    - Produktfotos i høj opløsning (professionel fotografering)
+    - Lifestyle-fotos til sociale medier, hjemmeside og katalog
+    - Markedsføringsmaterialer — plakater, hyldeskilte, bannere
+    - Produkttræningsvideoer til personaleuddannelse
+    - Indholdspakke til sociale medier (ugentlige opslag)
+    - SEO-optimerede produktbeskrivelser
+    - Dropshipping-mulighed – ingen lagerrisiko
+    - 'Betalingsbetingelser: netto 30 dage'
+cta:
+  title: Klar til at blive Afarer-detailpartner?
+  subtitle: Ansøg om partnerskab eller download vores detailkatalog for at komme i gang.
+  actions:
+    - text: Ansøg om partnerskab
+      href: /contact/?partner=retail
+      variant: primary
+    - text: Hent detailkatalog
+      href: /resources/download-catalog/
+      variant: secondary

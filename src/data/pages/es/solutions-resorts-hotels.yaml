@@ -1,0 +1,111 @@
+meta:
+  title: Soluciones de Flota de SUP para Resorts | {SITE}
+  description: Soluciones completas de flota de SUP para resorts y hoteles. Tablas de grado comercial, personalización de marca, capacitación del personal y paquetes optimizados para ROI de 20 a 100 tablas.
+hero:
+  tagline: Resorts y Hoteles
+  title: Convierta su zona costera en un centro de ingresos<br />con flotas SUP premium
+  subtitle: Afarer equipa a los resorts de todo el mundo con flotas SUP inflables de calidad comercial — desde paquetes iniciales de 20 tablas hasta programas insignia de 100+ tablas. Personalización de marca, capacitación del personal y piezas de repuesto incluidas.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Huéspedes del resort disfrutando del paddle surf en una playa prístina
+roi_section:
+  title: El Modelo de Ingresos de SUP del Resort
+  subtitle: Cómo los resorts generan entre $50,000 y $200,000 anuales de ingresos por alquiler de SUP con una sola inversión.
+  metrics:
+    - metric: $50,000–$200,000+
+      label: Ingresos anuales por SUP
+      detail: Por resort, basado en el tamaño de la flota y la ocupación
+    - metric: 4–6 meses
+      label: Periodo de recuperación promedio
+      detail: Recuperar la inversión total de la flota en una temporada
+    - metric: 40%
+      label: Aumento de ingresos
+      detail: Aumento promedio después de cambiar a las flotas Afarer
+    - metric: 500+
+      label: Ciclos de Alquiler por Tablero
+      detail: Durabilidad de grado comercial para uso diario
+packages:
+  title: Sistema de Paquetes del Resort
+  subtitle: Elija el paquete que se adapte a su capacidad de huéspedes y a sus objetivos de ingresos. Todos los paquetes incluyen garantía de 12 meses y certificación CE.
+  items:
+    - name: Paquete de Inicio
+      tagline: Para resorts boutique, hasta 20 huéspedes/día
+      features:
+        - 20 tablas SUP (3 tamaños para adultos/niños)
+        - 20 remos (ajustables) + 20 chalecos salvavidas
+        - 4 bombas de doble acción (eléctrica opcional)
+        - 2 soportes de almacenamiento + kit de reparación
+        - Impresión de logo personalizado en las tablas
+        - Garantía de 12 meses + Certificado CE
+      revenue: Potencial de ingresos anuales de $50K–$80K
+      cta_text: Obtener paquete de inicio
+    - name: Paquete Premium
+      tagline: Para resorts grandes, 50-100 huéspedes/día
+      features:
+        - 50 tablas SUP (5 tamaños, flota mixta)
+        - 50 remos + 50 chalecos salvavidas
+        - 10 bombas de doble acción + 2 bombas eléctricas
+        - 5 soportes de almacenamiento + 2 carritos
+        - Personalización de marca completa (tablas, remos, bolsas)
+        - Sesión de capacitación del personal (en línea)
+        - Envío de piezas de repuesto en 48 horas
+        - Garantía de 12 meses + Certificado CE
+      revenue: Potencial de ingresos anual de $120K–$200K
+      popular: true
+      cta_text: Obtener paquete premium
+    - name: Paquete Principal
+      tagline: Para resorts ultra premium, 100+ huéspedes/día
+      features:
+        - 100+ tablas SUP (gama completa de tamaños)
+        - Set completo de accesorios (remos, chalecos, bombas, carritos)
+        - Capacitación del personal en el sitio (2 días)
+        - Gerente de cuenta dedicado
+        - Piezas de repuesto prioritarias (despacho en 24 h)
+        - Personalización de marca completa (tablas + accesorios)
+        - Paquete de fotos/videos de marketing
+        - Garantía de 24 meses + Certificado CE
+      revenue: Potencial de ingresos anuales de $200,000
+      cta_text: Obtener el paquete principal
+case_study:
+  quote: Desde que cambiamos a Afarer, nuestros ingresos por alquiler de SUP aumentaron un 40%. Los costos de reemplazo de la tabla disminuyeron un 60%. Recuperamos toda nuestra inversión en la flota en 4 meses.
+  author: Gerente de Actividades Acuáticas
+  location: Resort de 5 estrellas, Maldivas
+  results:
+    - label: Crecimiento de ingresos
+      value: +40%
+    - label: Reducción de Costos
+      value: '-60%'
+    - label: Periodo de recuperación
+      value: 4 meses
+features:
+  title: Por qué los resorts eligen Afarer
+  subtitle: Durabilidad de nivel comercial, logística global y un socio que entiende la hospitalidad.
+  items:
+    - title: 500 Ciclos de Alquiler
+      description: Cada tabla se prueba para resistir 500 ciclos de alquiler en agua salada, sol y arena.
+      icon: tabler:shield-check
+    - title: Envío de piezas en 48 h
+      description: 'Piezas de repuesto enviadas en 48 horas: sus ingresos por alquiler nunca se detienen.'
+      icon: tabler:truck-delivery
+    - title: Marca personalizada
+      description: Combina la identidad de tu resort con colores personalizados y logotipo en cada tablero.
+      icon: tabler:palette
+    - title: Capacitación del personal
+      description: Programas de capacitación en línea y presenciales para su equipo de actividades.
+      icon: tabler:school
+    - title: Logística Global
+      description: Envío a más de 50 países con opciones de flete consolidado.
+      icon: tabler:world
+    - title: Certificado CE
+      description: Todo el equipo certificado CE, ISO 9001:2015 — seguridad y calidad garantizadas.
+      icon: tabler:certificate
+cta:
+  title: ¿Listo para convertir su zona costera en un centro de ingresos?
+  subtitle: Obtenga su cotización del paquete de resort o descargue nuestro catálogo completo de resorts.
+  actions:
+    - text: Obtener paquete de resort
+      href: /contact/?package=resort
+      variant: primary
+    - text: Descargar catálogo del resort
+      href: /resources/download-catalog/
+      variant: secondary

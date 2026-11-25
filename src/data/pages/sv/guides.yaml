@@ -1,0 +1,25 @@
+meta:
+  title: 'SUP-guider — köpa, välja, träna | {SITE}'
+  description: 'afars SUP-guider: hur du köper, väljer och tränar paddle boarding. Storlekar, material och experttips för nybörjare och proffs.'
+  keywords:
+    - 'SUP köpguide'
+    - 'hur väljer man SUP'
+    - 'SUP storleksguide'
+    - 'uppblåsbart paddle board tips'
+hero:
+  tagline: Guider
+  title: Ny med SUP?
+  subtitle: Praktiska guider som hjälper dig att välja, använda och njuta av uppblåsbara SUP-brädor.
+size_guide:
+  tagline: Storlek och specifikationer
+  title: Hitta rätt storlek för dina behov
+  desc: Jämför SUP-brädans mått, viktkapacitet och rekommenderade användningsområden. Oavsett om du behöver en touring-SUP, en yogabräda eller en allround-SUP — vår storleksguide hjälper dig att välja rätt.
+  link_label: Fullständig storleksguide med produktspecifikationer →
+  link: /size-guide/
+  cards:
+    - title: SUP-bräder
+      desc: Välj längd baserat på din vikt och avsedda användning. Bredare brädor (32"+) ger mer stabilitet. Längre brädor (11–12 ft) följer bättre spår vid touring.
+    - title: Touring SUP:ar
+      desc: Längre brädor (11–12 ft) för att täcka sträckor och hålla en rak kurs. Tillräckligt stabila för turutrustning. Kontrollera alltid viktkapaciteten.
+    - title: Allround-SUPs
+      desc: Välj längd efter ryttarens vikt och användning. Bredare brädor (32"+) för stabilitet. Mångsidig för rekreation och träning.

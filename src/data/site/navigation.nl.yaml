@@ -1,0 +1,141 @@
+header:
+  topBar: []
+  links:
+    - text: Products
+      links:
+        - text: SUP Boards
+          href: /inflatable-sup/
+        - text: All-Around SUP
+          href: /all-around-sup/
+        - text: Touring SUP
+          href: /touring-sup/
+        - text: Yoga SUP
+          href: /yoga-sup/
+        - text: Kids SUP
+          href: /kids-sup/
+        - text: Fishing SUP
+          href: /fishing-sup/
+        - text: Whitewater SUP
+          href: /whitewater-sup/
+        - text: Ultra-Stable SUP
+          href: /ultra-stable-sup/
+        - text: Accessories
+          href: /sup-accessories/
+    - text: Per toepassing
+      links:
+        - text: Beginners
+          href: /use-cases/beginner/
+        - text: Touring & afstand
+          href: /use-cases/touring/
+        - text: 'SUP-vissen'
+          href: /use-cases/fishing/
+        - text: Familierecreatie
+          href: /use-cases/family-recreation/
+        - text: Riviertochten
+          href: /use-cases/river-touring/
+        - text: Toerisme & recreatie
+          href: /use-cases/tourism-recreation/
+        - text: Alle toepassingen
+          href: /use-cases/
+    - text: Explore Afarer
+      links:
+        - text: Why Afarer
+          href: /afarer-story/
+        - text: Technology & Materials
+          href: /technology/
+        - text: Quality & Safety
+          href: /quality/
+        - text: Stories & Guides
+          href: /journal/
+        - text: About Afarer
+          href: /about/
+    - text: Support
+      links:
+        - text: Warranty & Claims
+          href: /warranty/
+        - text: FAQ
+          href: /faq/
+        - text: Downloads & Manuals
+          href: /resources/download-catalog/
+        - text: Contact Support
+          href: /contact/
+  actions:
+    - text: Where to Buy
+      href: /where-to-buy/
+      variant: primary
+footer:
+  links:
+    - title: Products
+      links:
+        - text: SUP Boards
+          href: /inflatable-sup/
+        - text: All-Around SUP
+          href: /all-around-sup/
+        - text: Touring SUP
+          href: /touring-sup/
+        - text: Yoga SUP
+          href: /yoga-sup/
+        - text: Kids SUP
+          href: /kids-sup/
+        - text: Fishing SUP
+          href: /fishing-sup/
+        - text: Whitewater SUP
+          href: /whitewater-sup/
+        - text: Ultra-Stable SUP
+          href: /ultra-stable-sup/
+        - text: Accessories
+          href: /sup-accessories/
+    - title: Explore Afarer
+      links:
+        - text: Why Afarer
+          href: /afarer-story/
+        - text: Technology & Materials
+          href: /technology/
+        - text: Quality & Safety
+          href: /quality/
+        - text: Stories & Guides
+          href: /journal/
+        - text: About Afarer
+          href: /about/
+    - title: Support
+      links:
+        - text: Where to Buy
+          href: /where-to-buy/
+        - text: Warranty & Claims
+          href: /warranty/
+        - text: FAQ
+          href: /faq/
+        - text: Downloads & Manuals
+          href: /resources/download-catalog/
+        - text: Contact Support
+          href: /contact/
+    - title: For Business Partners
+      links:
+        - text: Co-Brand With Afarer
+          href: /co-brand/
+        - text: For Clubs & Resorts
+          href: /solutions/resorts-hotels/
+        - text: For Retail Partners
+          href: /solutions/retail-partners/
+        - text: Find a Distributor
+          href: /distributor-program/
+        - text: For Distributors
+          href: /solutions/distributors/
+  secondaryLinks:
+    - text: Terms
+      href: /terms/
+    - text: Privacy Policy
+      href: /privacy/
+    - text: Medical Disclaimer
+      href: /disclaimer/
+  socialLinks:
+    - text: YouTube
+      href: https://www.youtube.com/@afarer
+    - text: X
+      href: https://x.com/afarer
+    - text: Instagram
+      href: https://www.instagram.com/afarer_watersports/
+    - text: Facebook
+      href: https://www.facebook.com/profile.php?id=61572404318679
+    - text: RSS
+      href: /rss.xml

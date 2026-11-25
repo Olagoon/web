@@ -1,0 +1,42 @@
+meta:
+  title: 'Technologie — drop stitch a námořní PVC | {SITE}'
+  description: 'Technologie afarera: konstrukce drop stitch, námořní PVC, dvouvrstvé konstrukce a vysoký tlak. Inovace od profesionálního výrobce nafukovacích SUP prken.'
+  keywords:
+    - 'technologie SUP'
+    - 'konstrukce drop stitch'
+    - 'vysokotlaké SUP'
+    - 'materiály nafukovacích SUP'
+hero:
+  tagline: Technologie
+  title: Postaveno pro výkon
+  subtitle: Každé prkno afarer je navrženo s precizními materiály a výrobními metodami testovanými pro námořní prostředí.
+sections:
+  - title: Drop-stitch jádro
+    description: Tisíce vnitřních polyesterových vláken spojují horní a spodní vrstvy a vytvářejí tuhou strukturu při 12-15 PSI. Jedná se o stejnou technologii používanou v profesionálních paddleboardech a nafukovacích závodních SUP.
+    imageAlt: Schéma DS jádra
+  - title: Námořní PVC
+    description: Vícevrstvá laminovaná PVC tkanina dimenzovaná pro námořní prostředí. Každá vrstva je svařena tavením, nikoli lepena, čímž se eliminuje riziko delaminace. Testováno na odolnost proti UV, korozi slanou vodou a oděru.
+    imageAlt: PVC vrstva
+  - title: Vojensky odolné PVC
+    description: Používá se u všech modelů SUP — prémiové PVC poskytuje vynikající odolnost proti UV a chemikáliím. Udržuje flexibilitu v extrémních teplotách a odolává degradaci.
+    imageAlt: PVC
+  - title: Nafukovací podlaha Air Deck
+    description: Vysokotlaká nafukovací konstrukce z drop-stitch poskytující výjimečnou tuhost pro stání, rybaření a jógu. Snižuje dobu přípravy, celkovou hmotnost a objem při skladování.
+    imageAlt: Air Deck
+related:
+  title: Související
+  links:
+    - text: Výzkumné a vývojové centrum
+      url: /randdcenter
+    - text: Testování kvality
+      url: /quality
+    - text: Bezpečnostní normy
+      url: /safety
+    - text: Záruka
+      url: /warranty
+    - text: Cestovní ruch a rekreace
+      url: /use-cases/tourism-recreation
+    - text: Průvodci
+      url: /guides
+    - text: Produkty
+      url: /products

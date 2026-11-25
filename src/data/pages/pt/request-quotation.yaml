@@ -1,0 +1,99 @@
+meta:
+  title: 'Solicitar Cotação — Fabricação OEM de SUP | {SITE}'
+  description: 'Solicite uma cotação detalhada para o seu projeto de SUP inflável. Fabricação OEM/ODM, marca própria ou frotas personalizadas — respondemos em 2 dias úteis.'
+  keywords:
+    - 'solicitar cotação de SUP'
+    - 'cotação OEM de paddle board'
+    - 'cotação de fábrica de SUP'
+    - 'preço de SUP inflável'
+hero_text:
+  tagline: Obter um Orçamento
+  title: Solicite um Orçamento<br />para seu Projeto
+  subtitle: Conte-nos seus requisitos. Respondemos com orçamento detalhado em 2 dias úteis.
+steps2_process:
+  title: Como Funciona
+  subtitle: Quatro etapas simples da consulta ao orçamento.
+  items:
+    - title: 'Etapa 1: Envie seus requisitos'
+      description: Preencha o formulário com tipo de produto, quantidade e especificações.
+      icon: tabler:file-text
+    - title: 'Etapa 2: Revisamos & aconselhamos'
+      description: Nossa equipe de engenharia analisa seus requisitos e recomenda configurações.
+      icon: tabler:users
+    - title: 'Etapa 3: Receba seu orçamento'
+      description: Você recebe um orçamento detalhado com preços, MOQ, prazos, condições de pagamento e envio. Geralmente em 48 horas.
+      icon: tabler:currency-dollar
+    - title: 'Etapa 4: Amostra & Produção'
+      description: Após aceitação do orçamento, seguimos para produção de amostras ou diretamente para
+      icon: tabler:building-factory
+content_form:
+  tagline: Formulário de Cotação
+  title: Fale sobre seu projeto
+  subtitle: Todos os campos com * são obrigatórios.
+  contact_fields:
+    firstName: Primeiro Nome
+    lastName: Último Nome
+    companyName: Nome da Empresa
+    email: E-mail
+  fields:
+    - name: Categoria de Produto
+      type: select
+      options:
+        - Prancha SUP
+        - SUP Inflável
+        - Prancha SUP Inflável
+        - Colete Salva-Vidas
+        - Acessório Marítimo
+        - OEM/ODM Personalizado
+    - name: Aplicação
+      type: select
+      options:
+        - Centro de Mergulho
+        - Pesca
+        - Turismo Marítimo / Resort
+        - Busca e Resgate
+        - Governo / Militar
+        - OEM / Marca Própria
+        - Pessoal / Recreativo
+        - Outro
+    - name: Quantidade
+      type: text
+      placeholder: 'ex.: 50 unidades'
+    - name: Mercado-Alvo
+      type: text
+      placeholder: 'ex.: Europa, América do Norte, Oriente Médio'
+    - name: País de Entrega
+      type: text
+      placeholder: 'ex.: Itália, EAU, EUA, Austrália'
+    - name: Preferência de Material
+      type: select
+      options:
+        - Sem preferência
+        - PVC Grau Marinho (1100 dtex)
+        - Casco de fibra de vidro
+        - Casco de Alumínio
+    - name: Requisito de Motor
+      type: text
+      placeholder: por exemplo, configuração padrão de remo, bomba elétrica, cores personalizadas
+    - name: Personalização Necessária
+      type: text
+      placeholder: por exemplo, cores personalizadas, marca/logo, embalagem, acessórios especiais
+    - name: Prazo de Entrega
+      type: text
+      placeholder: por exemplo, entrega em até 90 dias
+    - name: Requisitos Adicionais
+      type: textarea
+      placeholder: Descreva sua aplicação, especificações técnicas ou quaisquer requisitos especiais — inclua desenhos de referência, especificações ou links, se disponíveis
+    - name: Enviar Especificação
+      type: file
+      placeholder: Envie sua folha de especificações, desenho ou documento de referência (PDF, DWG, DXF)
+    - name: Enviar Logo / Arte
+      type: file
+      placeholder: Envie seu logo ou arte para personalização de marca (AI, EPS, PNG)
+cta:
+  title: Prefere discutir por e-mail?
+  subtitle: Envie sua consulta diretamente à nossa equipe de vendas. Respondemos em 24 horas.
+  actions:
+    - variant: primary
+      text: Envie-nos um e-mail diretamente
+      href: /contact/

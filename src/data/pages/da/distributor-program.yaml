@@ -1,0 +1,117 @@
+meta:
+  title: 'Landepartnerskaber — Ét land, én officiel Afarer-distributør | {SITE}'
+  description: 'Ansøg om at blive den officielle Afarer-distributør for dit land. Én autoriseret partner pr. marked, territoriebeskyttelse, direkte fabriksmargener, årlige rabatter og et supportprogram for landepartnere med 10 moduler til globale SUP- og vandsportsdistributører.'
+  keywords:
+    - 'landepartnerskabsprogram'
+    - 'bliv distributør'
+    - 'SUP-distribution'
+    - 'ét land én distributør'
+    - 'stand up paddle-distributør'
+    - 'vandsportsdistribution'
+    - 'landepartnerskabsansøgning'
+hero:
+  tagline: 'Landepartnerskab'
+  title: 'Ét land.<br />Én officiel Afarer-distributør.'
+  subtitle: 'Afarer udpeger én enkelt autoriseret landdistributør for hvert godkendt marked. Eksklusivt territorium, forhandlerpriser med årlige rabatter og et fuldt distributørsupportprogram — mod en underskrevet aftale og et reelt engagement i at opbygge markedet.'
+  actions:
+    - text: 'Ansøg om landepartnerskab'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Find din lokale distributør'
+      href: /distributor-program/
+      variant: secondary
+    - text: 'Anmod om forhandlerprisliste'
+      href: /contact/?subject=Dealer Price List
+      variant: secondary
+stats:
+  - value: '1'
+    label: 'Officiel distributør pr. land eller region'
+  - value: '100–300'
+    label: 'Minimum første ordre (Country / Regional)'
+  - value: '50+'
+    label: 'Lande betjent globalt'
+  - value: '30–45'
+    label: 'Standard leveringstid i dage (FOB Qingdao)'
+features:
+  title: 'Hvorfor et partnerskab med Afarer'
+  subtitle: 'En ét-land-én-distributør-model med den støttestruktur, der får territoriet til at betale sig. Eksklusivitet tjenes og fastholdes — ikke en permanent ret.'
+  columns: 3
+  items:
+    - title: 'Territorie-eksklusivitet'
+      description: 'Én autoriseret distributør pr. land eller region. Ingen parallelimport, ingen intern konkurrence. Din investering bygger din egen voldgrav.'
+      icon: 'tabler:shield-check'
+    - title: 'Beskyttelse mod kanalkonflikter'
+      description: 'Direkte ordrer fra din region går gennem dig, og prisfastsættelsen beskytter din margin. Afarer sælger ikke uden om sine landepartnere.'
+      icon: 'tabler:users'
+    - title: 'Direkte fabriksmargener & rabatter'
+      description: 'Forhandlerprisliste med rabatter på aftalte volumener. Ingen mellemmænd. FOB Qingdao-forsendelse med fuld eksportdokumentation.'
+      icon: 'tabler:coins'
+    - title: 'Supportprogram med 10 moduler'
+      description: 'Onboarding, go-to-market, træning, marketing og fælles markedsfinansiering, reservedele og eftersalg, garanti, bestillingsværktøjer og et partnerportal — dækket i din Distribution Agreement.'
+      icon: 'tabler:rocket'
+    - title: 'Marketing & fælles markedsfonde'
+      description: 'Lokaliserede kampagnematerialer, forhandler-POS-materialer, event-kits, digitalt indhold på flere sprog og co-marketingstøtte til lanceringssæsonerne.'
+      icon: 'tabler:mood-smile'
+    - title: 'Produkt-, salgs- & teknisk træning'
+      description: 'Strukturerede onboarding-sessioner om produkt-, salgs- og teknisk viden, med opdaterede materialer, efterhånden som sortimentet udvikler sig.'
+      icon: 'tabler:presentation'
+    - title: 'Reservedele & eftersalgsstøtte'
+      description: 'Forsyning med reservedele, garantiregistrering og behandling af garantikrav samt produktdatablade og manualer til dit lokale serviceteam.'
+      icon: 'tabler:settings'
+    - title: 'Dedikeret account manager & partnerportal'
+      description: 'En personlig distributørmanager plus adgang til prislister, ordrestatus og marketingressourcer via Afarer-partnerportalen.'
+      icon: 'tabler:user-check'
+table:
+  title: 'Partnerskabsniveauer, MOQ & ordrevilkår'
+  subtitle: 'Vælg det niveau, der matcher dit markedspotentiale. Alle priser i USD, FOB Qingdao.'
+  caption: 'Prøve- og testordrer (5–30 enheder) giver ingen territorial beskyttelse. Landeeksklusivitet gælder kun for underskrevne Country / Regional Distributor-aftaler — den fastholdes gennem gennemførelse af den første ordre, årlige indkøbsmål, lokalt lager, eftersalgskapacitet og fortsat markedsinvestering og er ikke en permanent eller evig ret.'
+  head:
+    - Programniveau
+    - Minimumsordre (enheder)
+    - Leveringstid
+    - Betaling
+  rows:
+    - [Prøve / Produktevaluering, 5–10, 15–20 arbejdsdage, 100% prepaid]
+    - [Testordre, 10–30, 30–45 arbejdsdage, 100% prepaid]
+    - [Authorized Dealer, 30–50, 30–45 arbejdsdage, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 30–45 arbejdsdage, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (Standard), 50+, 30–45 arbejdsdage, 30% deposit / 70% before shipment]
+    - [Deep Custom (nye former, emballage), 200+, 45–60 arbejdsdage, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1.000', 60–90 arbejdsdage, 30% deposit / 70% before shipment]
+faqs:
+  title: 'Landepartnerskab — FAQ'
+  subtitle: 'De spørgsmål, som seriøse landepartnere stiller, før de ansøger.'
+  items:
+    - title: 'Hvad betyder ét-land-én-distributør egentlig?'
+      description: 'Afarer udpeger én enkelt autoriseret distributør med eksklusive rettigheder for et afgrænset territorium. Vi sælger ikke fra vores globale eller regionale kanaler ind i et beskyttet land. Dit territorium gælder, så længe Distribution Agreement overholdes.'
+    - title: 'Er territoriet eksklusivt for evigt?'
+      description: 'Nej. Eksklusivitet er betinget, ikke permanent. Den fastholdes gennem en underskrevet Distribution Agreement, gennemførelse af din første ordre, årlige indkøbsmål, lokalt lager, eftersalgskapacitet og fortsat markedsinvestering. Hvis disse ikke overholdes, kan territoriet genforhandles eller tildeles en anden.'
+    - title: 'Hvad er minimum første ordre?'
+      description: 'Lands- og regionaldistributører starter ved 100–300 enheder; Authorized Dealers ved 30–50 enheder; testordrer fra 10–30 enheder lader dig validere markedet først (test- og prøveordrer giver ingen territorial beskyttelse). Custom- og private-label-programmer følger separate MOQs som anført i niveauerne ovenfor.'
+    - title: 'Hvilken støtte omfatter supportprogrammet med 10 moduler?'
+      description: 'Niveauer og kvalifikation, territoriebeskyttelse, MOQ / priser / årlige rabatter, lager og ordreudførelse, marketingmaterialer og fælles markedsfonde, produkt- / salgs- / teknisk træning, reservedele og eftersalg, garantiregistrering, partnerportalen samt produktdatablade, marketingmaterialebibliotek, årlig rabatplan og forsendelses- og pakkelister.'
+    - title: 'Hvordan beskytter Afarer mig mod kanalkonflikter?'
+      description: 'Hvert territorium har præcis én autoriseret distributør. Henvendelser og direkte ordrer fra din region går gennem dig, websiteformularer videresendes til den lokale partner, hvis der findes en, og det globale team eskalerer kun, når en partner ikke svarer.'
+    - title: 'Hvad er forsendelses- og betalingsvilkårene?'
+      description: 'Ordrer sendes FOB Qingdao med fuld eksportdokumentation. Produktionsordrer er 30% depositum med 70% inden forsendelse; test- og prøveordrer er forudbetalt. Standard leveringstid er 30–45 arbejdsdage, med 15–20 arbejdsdage for prøvekørsler.'
+    - title: 'Hvordan ansøger jeg?'
+      description: 'Send din ansøgning via kontaktformularen med markedsoplysninger. Vi vurderer markedstilpasning, detailtilstedeværelse og logistikkapacitet og svarer inden for 3 arbejdsdage med de næste skridt og en eksempel-Distribution Agreement.'
+cta:
+  title: 'Ejer dit marked.'
+  subtitle: 'Ansøg om Afarer-landepartnerskabet og få svar inden for 3 arbejdsdage.'
+  actions:
+    - text: 'Ansøg om landepartnerskab'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Hent programoversigten'
+      href: /distributor-program/
+      variant: secondary
+geo:
+  tagline: 'Hvem vi indgår partnerskab med'
+  sentence: 'Afarer samarbejder med etablerede marine-, outdoor- og sportsdistributører, der betjener detailkæder, udlejningsflåder, vandssportsskoler, resorts og offentlige købere med premium-opblåselige SUP-brædder og fartøjer — og som forpligter sig til at opbygge Afarer-mærket i deres land.'
+  audiences:
+    - 'Marine- & paddlesportsdistributører'
+    - 'Outdoor- & sportsdetail'
+    - 'Udlejnings- & resortoperatører'
+    - 'Vandssportsskoler'
+    - 'Ocean-sportsfællesskaber'

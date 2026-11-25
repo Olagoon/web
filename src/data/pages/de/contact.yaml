@@ -1,0 +1,145 @@
+meta:
+  title: 'Kontakt — Partnerschafts- & Produktanfragen | {SITE}'
+  description: 'Kontaktieren Sie afarer für Partnerschafts-, Co-Brand- und Private-Label-Anfragen oder professionelle Flotten. Marke aufblasbarer SUPs — Antwort innerhalb von 2 Werktagen.'
+  keywords:
+    - 'afarer kontaktieren'
+    - 'SUP-Distributor-Angebot'
+    - 'professioneller SUP-Lieferant'
+    - 'SUP-Hersteller kontaktieren'
+hero_text:
+  tagline: Kontakt
+  title: NEHMEN SIE KONTAKT AUF
+contact_form:
+  id: form
+  title: Senden Sie uns eine Nachricht
+  subtitle: Für Angebote, technische Fragen oder Partnerschaftsanfragen schreiben Sie uns. Wir antworten innerhalb eines Werktags.
+  email_to: info@afarer.com
+  submit_button: Anfrage senden → Angebot anfordern
+  success_message: Vielen Dank! Ihre Nachricht ist in unserem Posteingang gelandet. Wir werden innerhalb eines Werktags antworten.
+  error_message: Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt eine E-Mail.
+  default_country_code: '+1'
+  captcha:
+    label: 'Anti-Spam: Bitte lösen Sie die folgende Aufgabe'
+  fields:
+    - name: country
+      label: Land
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: Geschätztes Bestellvolumen
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: Wählen Sie Ihr geschätztes Volumen...
+        - value: sample
+          label: Nur Muster / Prototypen
+        - value: '5-10'
+          label: 5–10 Einheiten (Standard-MOQ)
+        - value: '100-500'
+          label: 100–500 Einheiten
+        - value: '500-plus'
+          label: 500+ Einheiten (Mengenpreis)
+      step: 1
+    - name: customization
+      label: Anpassung erforderlich?
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: Wählen Sie den Anpassungstyp...
+        - value: none
+          label: Standardprodukt (keine Anpassung)
+        - value: logo
+          label: Nur benutzerdefiniertes Logo / Branding
+        - value: full
+          label: Vollständiger Co-Brand (Größe, Farbe, Grafik, Verpackung)
+        - value: consultation
+          label: Nicht sicher — brauche Beratung
+      step: 1
+    - name: productInterest
+      label: Produktkategorien von Interesse
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: Produktkategorie auswählen...
+        - value: all
+          label: Alle Produkte / Gesamtkatalog
+        - value: sup
+          label: SUP-Boards / Stand-Up-Paddleboards
+        - value: safety
+          label: Sicherheitsausrüstung / Rettungswesten
+        - value: accessory
+          label: Zubehör (Pumpen, Paddel, Taschen)
+      step: 1
+    - name: firstName
+      label: Vorname
+      row: 1
+      step: 2
+    - name: lastName
+      label: Nachname
+      row: 1
+      step: 2
+    - name: companyName
+      label: Unternehmen
+      row: 2
+      step: 2
+    - name: email
+      label: E-Mail
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: TEL
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: Adresse
+      row: 4
+      step: 2
+    - name: zip
+      label: PLZ / Postleitzahl
+      row: 5
+      step: 2
+    - name: subject
+      label: Betreff
+      row: 1
+      step: 3
+    - name: message
+      label: Nachricht
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: Weitere Möglichkeiten, uns zu erreichen
+  columns: 3
+  items:
+    - title: Verkaufsanfragen
+      description: Angebote, Konfigurationen, Händlerbewerbungen und Großbestellungen.
+      icon: tabler:shopping-bag
+    - title: Technischer Support
+      description: Garantie, Reparaturen, Ersatzteile und Betriebsfragen.
+      icon: tabler:tool
+    - title: Presse & Partnerschaften
+      description: Medienpakete, Sponsoring und Branchenkooperationen.
+      icon: tabler:news
+    - title: Telefon
+      description: '+1 279 732 3333'
+      icon: tabler:headset
+    - title: E-Mail
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: Hauptsitz
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: Unser Standort
+  subtitle: Besuchen Sie uns am Hauptsitz
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

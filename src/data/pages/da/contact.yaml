@@ -1,0 +1,145 @@
+meta:
+  title: 'Kontakt — Partnerskabs- & produkthenvendelser | {SITE}'
+  description: 'Kontakt afarer for partnerskab-, co-brand- og private label-henvendelser eller professionelle flåder. Producent af oppustelige SUP-brædder, vi svarer inden for 2 arbejdsdage.'
+  keywords:
+    - 'kontakt afarer'
+    - 'SUP distributør tilbud'
+    - 'professionel SUP-leverandør'
+    - 'kontakt SUP-producent'
+hero_text:
+  tagline: Kontakt
+  title: KONTAKT OS
+contact_form:
+  id: form
+  title: Send os en besked
+  subtitle: Tilbud, tekniske spørgsmål eller partnerskabshenvendelser — skriv til os. Vi svarer inden for én arbejdsdag.
+  email_to: info@afarer.com
+  submit_button: Send forespørgsel → Få et tilbud
+  success_message: Tak! Din besked er landet i vores indbakke. Vi svarer inden for én arbejdsdag.
+  error_message: Noget gik galt ved afsendelse af din besked. Prøv igen eller send os en e-mail direkte.
+  default_country_code: '+1'
+  captcha:
+    label: 'Anti-spam: løs venligst følgende'
+  fields:
+    - name: country
+      label: Land
+      row: 1
+      type: select
+      optionsKey: countries
+      step: 1
+    - name: orderVolume
+      label: Forventet ordremængde
+      row: 2
+      type: select
+      options:
+        - value: ''
+          label: Vælg dit forventede volumen...
+        - value: sample
+          label: Kun prøver/prototyper
+        - value: '5-10'
+          label: 5–10 enheder (standard-MOQ)
+        - value: '100-500'
+          label: 100–500 enheder
+        - value: '500-plus'
+          label: 500+ enheder (mængdepriser)
+      step: 1
+    - name: customization
+      label: Brug for tilpasning?
+      row: 3
+      type: select
+      options:
+        - value: ''
+          label: Vælg tilpasningstype...
+        - value: none
+          label: Standardprodukt (uden tilpasning)
+        - value: logo
+          label: Kun tilpasset logo / branding
+        - value: full
+          label: Fuld co-brand (størrelse, farve, grafik, emballage)
+        - value: consultation
+          label: Ikke sikker — har brug for rådgivning
+      step: 1
+    - name: productInterest
+      label: Produktkategorier af interesse
+      row: 4
+      type: select
+      options:
+        - value: ''
+          label: Vælg produktkategori...
+        - value: all
+          label: Alle produkter / Fuld katalog
+        - value: sup
+          label: SUP-boards / paddleboards
+        - value: safety
+          label: Sikkerhedsudstyr / redningsveste
+        - value: accessory
+          label: Tilbehør (pumper, årer, tasker)
+      step: 1
+    - name: firstName
+      label: Fornavn
+      row: 1
+      step: 2
+    - name: lastName
+      label: Efternavn
+      row: 1
+      step: 2
+    - name: companyName
+      label: Virksomhedsnavn
+      row: 2
+      step: 2
+    - name: email
+      label: E-mail
+      row: 3
+      type: email
+      step: 2
+    - name: tel
+      label: Telefon
+      row: 3
+      type: tel
+      withCountryCode: true
+      step: 2
+    - name: address
+      label: Adresse
+      row: 4
+      step: 2
+    - name: zip
+      label: Postnummer
+      row: 5
+      step: 2
+    - name: subject
+      label: Emne
+      row: 1
+      step: 3
+    - name: message
+      label: Besked
+      row: 2
+      type: textarea
+      rows: 6
+      step: 3
+features2_other_ways:
+  title: Andre måder at kontakte os
+  columns: 3
+  items:
+    - title: Salgshenvendelser
+      description: Tilbud, konfigurationer, forhandleransøgninger og bulkordrer.
+      icon: tabler:shopping-bag
+    - title: Teknisk support
+      description: Garanti, reparationer, reservedele og driftsrelaterede spørgsmål.
+      icon: tabler:tool
+    - title: Presse og partnerskaber
+      description: Mediesæt, sponsorater og branchesamarbejde.
+      icon: tabler:news
+    - title: Telefon
+      description: +1 279 732 3333
+      icon: tabler:headset
+    - title: E-mail
+      description: info@afarer.com
+      icon: tabler:mail
+    - title: Hovedkontor
+      description: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+      icon: tabler:map-pin
+map:
+  title: Vores beliggenhed
+  subtitle: Besøg os på hovedkontoret
+  address: 1209 Mountain Road PL NE STE N, Albuquerque, NM 87110, USA
+  zoom: 15

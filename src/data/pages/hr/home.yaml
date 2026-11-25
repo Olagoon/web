@@ -1,0 +1,104 @@
+meta:
+  title: Afarer Napuhivi Paddleboardi | Idi dalje. Veslaj jače.
+  description: Otkrijte Afarer napuhive paddleboarde za svestrano veslanje, touring, yogu, ribolov i avanture u prirodi. Pronađite svoj savršen SUP i istražite više na vodi.
+  keywords:
+    - napuhivi paddleboard
+    - napuhivi sup
+    - svestran sup
+    - touring sup
+    - sup za yogu
+    - sup za ribolov
+    - obiteljski paddleboard
+    - prenosivi paddleboard
+hero:
+  tagline: Napuhivi Paddleboardi
+  title: Napuhivi Paddleboardi za Svaku Avanturu
+  slogan: Idi dalje. Veslaj jače.
+  subtitle: Otkrijte slobodu veslanja s Afarerom. Istražite promišljeno dizajnirane napuhive SUP-ove za opuštene dane na jezeru, obalne avanture, fitness i sve između.
+  taglineSection: Konstruirano za samopouzdanje. Dizajnirano da se istakne.
+  actions:
+    - variant: primary
+      text: Pronađi Svoj Board
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Istraži SUP-ove
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Zašto Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Afarer napuhivi paddleboardi klize po mirnoj vodi u zoru — izrađeni za svaku avanturu
+who_we_serve:
+  tagline: Veslajte s Nama
+  title: Pronađite Svoj Put po Vodi
+  subtitle: Svaki veslač ima drugačiju predodžbu avanture. Otkrijte SUP Afarer dizajniran za vaš stil vožnje.
+  items:
+    - title: Početnici i Rekreativni Veslači
+      keywords: napuhivi sup za početnike, svestrani paddleboard, stabilni sup
+      description: Široke, stabilne svestrane daske koje prvi zamah čine prirodnim i rastu s vama.
+      icon: tabler:users
+      cta: Pronađite Svoju Prvu Dasku
+      link: /all-around-sup/
+    - title: Touring i Avantura
+      keywords: touring sup, paddleboard za duge udaljenosti, ekspedicijski sup
+      description: Duže, uže daske koje drže smjer, klize dalje i nose opremu za višednevne rute.
+      icon: tabler:building
+      cta: Istražite Touring SUP-ove
+      link: /touring-sup/
+    - title: Yoga i Fitness
+      keywords: sup za yogu, fitness paddleboard, široki stabilni sup
+      description: Široke, stabilne platforme s prostorom za kretanje — za jutarnje tokove, treninge i ravnotežu na mirnoj vodi.
+      icon: tabler:heart
+      cta: Istražite SUP za Yogu
+      link: /yoga-sup/
+    - title: Ribolov i Obitelj
+      keywords: sup za ribolov, obiteljski paddleboard, stabilna ribolovna platforma
+      description: Stabilne, praktične platforme za ribolov, vožnju s djecom i dugačke opuštene dane na vodi.
+      icon: tabler:users
+      cta: Istražite SUP za Ribolov
+      link: /fishing-sup/
+proof_points:
+  title: Testirano izvan izloga
+  subtitle: Dizajn, performanse i kvaliteta koje možete provjeriti — na vodi i u brojkama.
+  items:
+    - metric: 10+
+      label: Godina dizajniranja za vodu
+      detail: Od 2012., usavršavano daska po daska
+    - metric: 50+
+      label: Zemalja na vodi
+      detail: Veslači i partneri širom svijeta
+    - metric: 12–15
+      label: PSI drop-stitch jezgra
+      detail: Kruto tamo gdje je važno, lako za pakiranje
+    - metric: 100%
+      label: Testirano na tlak daska po daska
+      detail: Kontrolirano prije otpreme
+business_solutions:
+  tagline: Zašto Vozi Drugačije
+  title: Performansa koju Osjetite Prvim Zamahom
+  subtitle: Četiri stupa oblikovana stvarnom vodom — performansa, dizajn, konstrukcija i kvaliteta.
+  items:
+    - title: Performansa na Vodi
+      description: Oblici podešeni za stabilnost, klizanje i samopouzdanje na valovima — svaki zamah ostaje povezan s vodom.
+      icon: tabler:shield-check
+    - title: Ekspresivni Dizajn
+      description: Kolekcije nadahnute plimom, divljinom i energijom obale — daske s kojima želite biti viđeni.
+      icon: tabler:package
+    - title: Dokazana Konstrukcija
+      description: Drop-stitch jezgre visoke gustoće, ojačani rubovi i fuzijski laminirani šavovi za višekratnu upotrebu.
+      icon: tabler:headset
+    - title: Potvrđena Kvaliteta
+      description: Testirani pod tlakom, vizualno pregledani i pokriveni jasnim jamstvom i responzivnom podrškom nakon prodaje.
+      icon: tabler:truck-delivery
+cta:
+  title: Pronađite svoju sljedeću dasku.
+  subtitle: Prvi zamah ili najduža ruta — izvest ćemo vas na vodu.
+  actions:
+    - variant: primary
+      text: Istražite Kolekciju
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Zatražite Katalog
+      href: /resources/download-catalog/

@@ -1,0 +1,104 @@
+meta:
+  title: Mga Inflatable Paddle Board ng Afarer | Magpunta nang Mas Malayo. Mas Malakas na Paddle.
+  description: Tuklasin ang mga inflatable paddle board ng Afarer para sa all-around paddling, touring, yoga, pangingisda, at mga outdoor adventure. Hanapin ang perpektong SUP mo at tuklasin ang higit pa sa tubig.
+  keywords:
+    - inflatable paddle board
+    - inflatable sup
+    - all around sup
+    - touring sup
+    - yoga sup
+    - fishing sup
+    - family paddle board
+    - portable paddle board
+hero:
+  tagline: Mga Inflatable Paddle Board
+  title: Mga Inflatable Paddle Board para sa Bawat Adventure
+  slogan: Magpunta nang Mas Malayo. Mas Malakas na Paddle.
+  subtitle: Tuklasin ang kalayaan ng pag-paddle kasama ang Afarer. Galugarin ang mga maingat na dinisenyong inflatable SUP para sa mga relaxing na araw sa lawa, mga coastal adventure, fitness, at lahat ng nasa pagitan.
+  taglineSection: Binuo para sa kumpiyansa. Dinisenyo para tumayo.
+  actions:
+    - variant: primary
+      text: Hanapin ang Board Mo
+      href: /size-guide/
+      icon: tabler:compass
+    - text: Galugarin ang mga SUP
+      href: /inflatable-sup/
+      icon: tabler:waves
+    - text: Bakit Afarer
+      href: /afarer-story/
+      icon: tabler:heart
+  image:
+    src: ~/assets/images/hero-image.webp
+    alt: Mga inflatable paddle board ng Afarer na dumadausdos sa kalmadong tubig sa pagsikat ng araw — binuo para sa bawat adventure
+who_we_serve:
+  tagline: Mag-paddle Kasama Namin
+  title: Hanapin ang Daan Mo sa Tubig
+  subtitle: May kanya-kanyang ideya ng adventure ang bawat paddler. Tuklasin ang isang Afarer SUP na dinisenyo para sa paraan ng pag-paddle mo.
+  items:
+    - title: Mga Baguhan at Rekreyasyonal na Paddler
+      keywords: inflatable sup para sa mga baguhan, all around paddle board, matatag na sup
+      description: Mga malapad at matatag na all-around board na nagpaparamdam ng natural sa unang stroke at sumasabay habang nag-iimprove ka.
+      icon: tabler:users
+      cta: Hanapin ang Unang Board Mo
+      link: /all-around-sup/
+    - title: Touring at Adventure
+      keywords: touring sup, long distance paddle board, expedition sup
+      description: Mga mas mahaba at makitid na board na tumatahak nang tuwid, dumadausdos nang mas malayo, at nagdadala ng gamit para sa multi-day na ruta.
+      icon: tabler:building
+      cta: Galugarin ang mga Touring Board
+      link: /touring-sup/
+    - title: Yoga at Fitness
+      keywords: yoga sup, fitness paddle board, malapad na matatag na sup
+      description: Mga malapad at matatag na platform na may espasyo para gumalaw — para sa sunrise flows, workout, at balanse sa kalmadong tubig.
+      icon: tabler:heart
+      cta: Galugarin ang mga Yoga SUP
+      link: /yoga-sup/
+    - title: Pangingisda at Pamilya
+      keywords: fishing sup, family paddle board, matatag na fishing platform
+      description: Mga matatag at praktikal na platform para sa pangingisda, pag-paddle kasama ang mga bata, at mahahabang relaxing na araw sa tubig.
+      icon: tabler:users
+      cta: Galugarin ang mga Fishing SUP
+      link: /fishing-sup/
+proof_points:
+  title: Sinubukan Higit Pa sa Showroom
+  subtitle: Disenyo, pagganap, at kalidad na mabeberipika mo — sa tubig at sa mga numero.
+  items:
+    - metric: 10+
+      label: Taon ng Pagdidisenyo para sa Tubig
+      detail: Mula pa noong 2012, pinahuhusay board bawat board
+    - metric: 50+
+      label: Mga Bansa sa Tubig
+      detail: Mga paddler at partner sa buong mundo
+    - metric: 12–15
+      label: PSI Drop-Stitch Core
+      detail: Rigid kung saan mahalaga, madaling i-pack
+    - metric: 100%
+      label: Pressure-Tested Board Bawat Board
+      detail: Sinspeksyunan bago ipadala
+business_solutions:
+  tagline: Kung Bakit Iba ang Pakiramdam
+  title: Performance na Maramdaman sa Unang Stroke
+  subtitle: Apat na haligi na hinubog ng tunay na tubig — performance, design, construction, at quality.
+  items:
+    - title: Performance sa Tubig
+      description: Mga hugis na naka-tune para sa stability, glide, at kumpiyansa sa chop — bawat stroke ay nananatiling konektado sa tubig.
+      icon: tabler:shield-check
+    - title: Expressive na Design
+      description: Mga koleksyon na hango sa mga daloy, wildlife, at enerhiya ng baybayin — mga board na gusto mong makita kang kasama.
+      icon: tabler:package
+    - title: Patunay na Construction
+      description: Mataas na density na drop-stitch core, pinalakas na rails, at fusion-laminated na seams para sa paulit-ulit na paggamit.
+      icon: tabler:headset
+    - title: Beripikadong Kalidad
+      description: Pressure-tested, biswal na inspeksyonado, at may malinaw na warranty at mabilis na sumasagot na after-sales support.
+      icon: tabler:truck-delivery
+cta:
+  title: Hanapin ang susunod mong board.
+  subtitle: Unang stroke mo man o pinakamahabang ruta — ilalapit ka namin sa tubig.
+  actions:
+    - variant: primary
+      text: Galugarin ang Koleksyon
+      href: /inflatable-sup/
+      icon: tabler:send
+    - text: Humiling ng Katalogo
+      href: /resources/download-catalog/

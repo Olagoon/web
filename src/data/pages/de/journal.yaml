@@ -1,0 +1,22 @@
+meta:
+  title: 'Journal — Nautische Artikel & Guides | {SITE}'
+  description: 'Das afarer-Journal: Artikel und Guides über aufblasbare SUPs, Paddleboarding und die Nautikbranche.'
+  keywords:
+    - 'SUP-Journal'
+    - 'Paddleboard-Artikel'
+    - 'Blog aufblasbarer SUPs'
+    - 'nautische Guides'
+hero:
+  title: Das afarer Journal
+  subtitle: Die neuesten Nachrichten, nautische Abenteuer und Produktgeschichten vom afarer-Team.
+latest:
+  tagline: Neueste
+  title: Anleitungen & Vergleiche
+  browse_all: Alle 20 durchsuchen →
+  read: Lesen →
+social_section:
+  tagline: Inhalt × Sozial
+  title: Jeder Leitfaden wird zu 5 Social-Media-Beiträgen
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — aus jedem Artikel.
+  pipeline_cta: Soziale Pipeline →
+  guides_cta: Durchsuchen Sie Anleitungen

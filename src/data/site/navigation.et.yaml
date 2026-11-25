@@ -1,0 +1,141 @@
+header:
+  topBar: []
+  links:
+    - text: Tooted
+      links:
+        - text: SUP lauad
+          href: /inflatable-sup/
+        - text: Universaalsed SUP-id
+          href: /all-around-sup/
+        - text: Tuurimise SUP-id
+          href: /touring-sup/
+        - text: Jooga SUP-id
+          href: /yoga-sup/
+        - text: SUP-id lastele
+          href: /kids-sup/
+        - text: Kalastamise SUP-id
+          href: /fishing-sup/
+        - text: SUP-id mägijõgedele
+          href: /whitewater-sup/
+        - text: Eriti stabiilsed SUP-id
+          href: /ultra-stable-sup/
+        - text: Tarvikud
+          href: /sup-accessories/
+    - text: Kasutuse järgi
+      links:
+        - text: Algajale
+          href: /use-cases/beginner/
+        - text: Matkasõit & vahemaad
+          href: /use-cases/touring/
+        - text: 'Kalapüük SUP-il'
+          href: /use-cases/fishing/
+        - text: Perepuhkus
+          href: /use-cases/family-recreation/
+        - text: Jõematkad
+          href: /use-cases/river-touring/
+        - text: Turism & vaba aeg
+          href: /use-cases/tourism-recreation/
+        - text: Kõik kasutused
+          href: /use-cases/
+    - text: Avastage Afarer
+      links:
+        - text: Miks Afarer
+          href: /afarer-story/
+        - text: Tehnoloogiad ja materjalid
+          href: /technology/
+        - text: Kvaliteet ja ohutus
+          href: /quality/
+        - text: Lood ja juhendid
+          href: /journal/
+        - text: Afarerist
+          href: /about/
+    - text: Tugi
+      links:
+        - text: Garantii ja kaebused
+          href: /warranty/
+        - text: KKK
+          href: /faq/
+        - text: Allalaadimised ja juhendid
+          href: /resources/download-catalog/
+        - text: Võtke toega ühendust
+          href: /contact/
+  actions:
+    - text: Kust osta
+      href: /where-to-buy/
+      variant: primary
+footer:
+  links:
+    - title: Tooted
+      links:
+        - text: SUP lauad
+          href: /inflatable-sup/
+        - text: Universaalsed SUP-id
+          href: /all-around-sup/
+        - text: Tuurimise SUP-id
+          href: /touring-sup/
+        - text: Jooga SUP-id
+          href: /yoga-sup/
+        - text: SUP-id lastele
+          href: /kids-sup/
+        - text: Kalastamise SUP-id
+          href: /fishing-sup/
+        - text: SUP-id mägijõgedele
+          href: /whitewater-sup/
+        - text: Eriti stabiilsed SUP-id
+          href: /ultra-stable-sup/
+        - text: Tarvikud
+          href: /sup-accessories/
+    - title: Avastage Afarer
+      links:
+        - text: Miks Afarer
+          href: /afarer-story/
+        - text: Tehnoloogiad ja materjalid
+          href: /technology/
+        - text: Kvaliteet ja ohutus
+          href: /quality/
+        - text: Lood ja juhendid
+          href: /journal/
+        - text: Afarerist
+          href: /about/
+    - title: Tugi
+      links:
+        - text: Kust osta
+          href: /where-to-buy/
+        - text: Garantii ja kaebused
+          href: /warranty/
+        - text: KKK
+          href: /faq/
+        - text: Allalaadimised ja juhendid
+          href: /resources/download-catalog/
+        - text: Võtke toega ühendust
+          href: /contact/
+    - title: Äripartneritele
+      links:
+        - text: Ühine bränd Afareriga
+          href: /co-brand/
+        - text: Klubidele ja kuurortidele
+          href: /solutions/resorts-hotels/
+        - text: Jaekaubanduspartneritele
+          href: /solutions/retail-partners/
+        - text: Leidke edasimüüja
+          href: /distributor-program/
+        - text: Edasimüüjatele
+          href: /solutions/distributors/
+  secondaryLinks:
+    - text: Tingimused
+      href: /terms/
+    - text: Privaatsuspoliitika
+      href: /privacy/
+    - text: Meditsiinilise vastutuse piirang
+      href: /disclaimer/
+  socialLinks:
+    - text: YouTube
+      href: https://www.youtube.com/@afarer
+    - text: X
+      href: https://x.com/afarer
+    - text: Instagram
+      href: https://www.instagram.com/afarer_watersports/
+    - text: Facebook
+      href: https://www.facebook.com/profile.php?id=61572404318679
+    - text: RSS
+      href: /rss.xml

@@ -1,0 +1,22 @@
+meta:
+  title: 'Journal — merellisiä artikkeleita ja oppaita | {SITE}'
+  description: 'afarerin journal: artikkeleita ja oppaita täytettävistä SUP-laudoista, paddle boardingista ja merialan teollisuudesta.'
+  keywords:
+    - 'SUP-journal'
+    - 'paddle board -artikkelit'
+    - 'täytettävien SUP-lautojen blogi'
+    - 'merelliset oppaat'
+hero:
+  title: Päiväkirja
+  subtitle: Surffausoppaat, varustevertailut ja meritarinat — kirjoitettu todellisiin olosuhteisiin.
+latest:
+  tagline: Uusimmat
+  title: Oppaat & vertailut
+  browse_all: Selaa kaikkia 20 →
+  read: Lue →
+social_section:
+  tagline: Sisältö × some
+  title: Jokaisesta oppaasta tulee 5 somepostia
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — jokaisesta artikkelista.
+  pipeline_cta: Someputki →
+  guides_cta: Selaa oppaita

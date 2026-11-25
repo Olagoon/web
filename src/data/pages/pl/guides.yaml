@@ -1,0 +1,25 @@
+meta:
+  title: 'Poradniki SUP — kup, wybierz, trenuj | {SITE}'
+  description: 'Poradniki SUP afarera: jak kupić, wybrać i trenować paddleboarding. Rozmiary, materiały i wskazówki ekspertów dla początkujących i profesjonalistów.'
+  keywords:
+    - 'poradnik zakupu SUP'
+    - 'jak wybrać SUP'
+    - 'przewodnik po rozmiarach SUP'
+    - 'wskazówki dotyczące nadmuchiwanego paddle boarda'
+hero:
+  tagline: Przewodniki
+  title: Nowy w SUP?
+  subtitle: Praktyczne przewodniki, które pomogą Ci wybrać, używać i cieszyć się nadmuchiwanymi deskami SUP.
+size_guide:
+  tagline: Rozmiar i specyfikacje
+  title: Znajdź odpowiedni rozmiar dla swoich potrzeb
+  desc: Porównaj wymiary deski SUP, nośność i zalecane zastosowania. Niezależnie od tego, czy potrzebujesz deski SUP do turystyki, deski do jogi, czy uniwersalnej SUP — nasz przewodnik po rozmiarach pomoże Ci wybrać odpowiedni model.
+  link_label: Pełny przewodnik rozmiarów z danymi produktu →
+  link: /size-guide/
+  cards:
+    - title: Deski SUP
+      desc: Wybierz długość w zależności od wagi i przeznaczenia. Szersze deski (32") zapewniają większą stabilność. Dłuższe deski (11–12 stopy) lepiej pasują do tras.
+    - title: SUP-y turystyczne
+      desc: Dłuższe deski (11–12 stopy) do pokonywania dystansu i jazdy na wprost. Wystarczająco stabilne do turystyki z bagażem. Zawsze sprawdzaj nośność.
+    - title: Deski SUP uniwersalne
+      desc: Wybierz długość według wagi i użytkowania jeźdźca. Szersze deski (32") dla stabilności. Uniwersalne do rekreacji i fitnessu.

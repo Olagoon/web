@@ -1,0 +1,23 @@
+name = "afarer-contact"
+main = "index.ts"
+compatibility_date = "2026-07-08"
+compatibility_flags = ["nodejs_compat"]
+
+routes = [{ pattern = "afarer.com/api/contact*", zone_name = "afarer.com" }]
+
+[vars]
+# Destination inbox for contact form submissions (public address, also rendered on the site).
+# Overrides: set a CONTACT_EMAIL_TO secret in the Cloudflare dashboard to redirect.
+CONTACT_EMAIL_TO = "info@afarer.com"
+
+# Anti-spam: TURNSTILE_SECRET (Cloudflare Turnstile widget secret) is synced from the
+# repo secret CONTACT_TURNSTILE_SECRET by .github/workflows/deploy.yml. When absent,
+# the worker skips Turnstile verification and falls back to honeypot + heuristics.
+
+# Inquiry archive (source of truth before email notification). The database_id
+# placeholder is injected by CI (deploy.yml "Ensure D1 database" step) via sed;
+# locally it stays a placeholder and only affects `wrangler deploy --dry-run`.
+[[d1_databases]]
+binding = "DB"
+database_name = "afarer-inquiries"
+database_id = "__D1_DATABASE_ID__"

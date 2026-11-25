@@ -1,0 +1,63 @@
+meta:
+  title: 'Yritysratkaisut — SUP jokaiselle yritykselle | {SITE}'
+  description: 'afarerin yritysratkaisut: SUP-kalustot lomakohteisiin, kerhoihin, vuokraamoihin, jakeluun ja omamerkkeihin. Ammattimainen merellisten laitteiden toimittaja B2B-markkinoille.'
+  keywords:
+    - 'SUP-yritysratkaisut'
+    - 'täytettävien paddle boardien toimittaja'
+    - 'merelliset laitteet B2B'
+    - 'täytettävien SUP-lautojen valmistaja'
+hero:
+  tagline: Yritysratkaisut
+  title: SUP-ratkaisut<br />Jokaiselle liiketoiminnalle
+  subtitle: Lomakohteista vähittäiskauppaan ja vuokrausyrityksistä globaaleihin jakelijoihin — Afarer tarjoaa täydelliset SUP-ratkaisut liiketoimintamalliisi räätälöitynä.
+  image:
+    src: https://assets.afarer.com/images/afarer/products/sup-series/sup-ocean-voyager-1-1200w.webp
+    alt: Afarer SUP-lauta bisneksessä ja ammattkäytössä
+stats:
+  title: Afarer ytimekästi
+  stats:
+    - title: Vuosien kokemus
+      amount: Vuodesta 2012
+    - title: Mukautetut ratkaisut
+      amount: 100+
+    - title: Palvellut markkinat
+      amount: 50+
+    - title: Toimitetut laudat
+      amount: 15 000+
+features3_solutions:
+  tagline: Ratkaisut liiketoiminnan tyypin mukaan
+  title: Tarkoitukseen suunnitellut SUP-laudat<br />liiketoimintaasi varten
+  isBeforeContent: false
+  columns: 2
+  items:
+    - title: Lomakohteet ja hotellit
+      description: Täydelliset SUP-laivasto-ohjelmat majoitusyrityksille – kestävät laudat, mukautettu brändäys ja henkilökunnan koulutustuki.
+      icon: tabler:building
+      link: /solutions/resorts-hotels/
+    - title: Soutuseurat
+      description: Luotettavat SUP-kalustot melontaseuroille, opetusohjelmille ja jäsenyystoimintaan — ammattikäyttöön suunnitellut laudat seuroille edulliseen hintaan.
+      icon: tabler:users
+      link: /solutions/paddle-clubs/
+    - title: Vuokraajat
+      description: Kovaan käyttöön suunnitellut SUP-laudat päivittäiseen vuokrauskäyttöön. UV-kestävät, nopeasti kuivuvat ja pinottavat — suunniteltu vuokraustoiminnan rasitukseen.
+      icon: tabler:currency-dollar
+      link: /solutions/rental-operators/
+    - title: Vähittäiskaupan kumppanit
+      description: Myy markkinasi nopeimmin kasvavaa SUP-brändiä. Täysi tuotevalikoima, markkinointimateriaalit, dropshipping ja kilpailukykyiset katteet.
+      icon: tabler:shopping-cart
+      link: /solutions/retail-partners/
+    - title: Jakelijat
+      description: Yksinoikeudelliset alueet, kattava tuotevalikoima ja omistautunut asiakkuudenhoito. Liity globaaliin jakeluverkostoomme 50+ maassa.
+      icon: tabler:world
+      link: /solutions/distributors/
+    - title: Rakenna oma brändisi
+      description: End-to-end OEM/ODM SUP-valmistus — suunnittelu, prototyypit, massatuotanto ja logistiikka. Käynnistä merkkisi Afarerin kera.
+      icon: tabler:package
+      link: /solutions/build-your-own-brand/
+cta:
+  title: Emme tiedä, mikä ratkaisu sopii tarpeisiisi?
+  subtitle: Kuvaile sovellustasi tiimillemme, niin suosittelemme oikean kokoonpanon.
+  actions:
+    - variant: primary
+      text: Hae suositus
+      href: /contact/

@@ -1,0 +1,117 @@
+meta:
+  title: 'Maakumppanuus — Yksi maa, yksi virallinen Afarer-jakelija | {SITE}'
+  description: 'Hae maasi viralliseksi Afarer-jakelijaksi. Yksi valtuutettu kumppani markkinaa kohden, alueellinen suoja, suorat tehdashinnat, vuosittaiset alennukset ja 10-moduulinen maakumppanin tukiohjelma maailmanlaajuisille SUP- ja vesiurheilujakelijoille.'
+  keywords:
+    - 'maakumppanuusohjelma'
+    - 'ryhdy jakelijaksi'
+    - 'SUP-jakelu'
+    - 'yksi maa yksi jakelija'
+    - 'stand up paddle -jakelija'
+    - 'vesiurheilun jakelu'
+    - 'maakumppanuushakemus'
+hero:
+  tagline: 'Maakumppanuus'
+  title: 'Yksi maa.<br />Yksi virallinen Afarer-jakelija.'
+  subtitle: 'Afarer nimittää yhden valtuutetun majakelijan kutakin hyväksyttyä markkinaa kohden. Yksinoikeus alueeseen, jälleenmyyntihinnat vuosialennuksin ja kattava jakelijoiden tukiohjelma — vastineeksi allekirjoitetusta sopimuksesta ja aidosta sitoutumisesta markkinan rakentamiseen.'
+  actions:
+    - text: 'Hae maakumppanuutta'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Löydä paikallinen jakelijasi'
+      href: /distributor-program/
+      variant: secondary
+    - text: 'Pyydä jälleenmyyjähinnasto'
+      href: /contact/?subject=Dealer Price List
+      variant: secondary
+stats:
+  - value: '1'
+    label: 'Virallinen jakelija maata tai aluetta kohden'
+  - value: '100–300'
+    label: 'Vähimmäisensimmäinen tilaus (maa / alue)'
+  - value: '50+'
+    label: 'Palvellut maat maailmanlaajuisesti'
+  - value: '30–45'
+    label: 'Vakio toimitusaika päivinä (FOB Qingdao)'
+features:
+  title: 'Miksi Kumppanuus Afarerin Kanssa'
+  subtitle: 'Malli, jossa yhdellä maalla on yksi jakelija ja tukirakenne, joka tekee alueesta kannattavan. Yksinoikeus ansaitaan ja säilytetään — se ei ole pysyvä oikeus.'
+  columns: 3
+  items:
+    - title: 'Alueellinen Yksinoikeus'
+      description: 'Yksi valtuutettu jakelija maata tai aluetta kohden. Ei rinnakkaistuontia, ei sisäistä kilpailua. Sijoituksesi rakentaa oman vallihautasi.'
+      icon: 'tabler:shield-check'
+    - title: 'Suojaus Kanavaristiriidoilta'
+      description: 'Alueesi suorat tilaukset ohjataan sinun kauttasi, ja hinnoittelu suojaa marginaalisi. Afarer ei myy maakumppaniensa ohi.'
+      icon: 'tabler:users'
+    - title: 'Suorat Tehdasmarginaalit & Alennukset'
+      description: 'Jälleenmyyntihinnasto alennuksin sovituista volyymeista. Ei välikäsiä. FOB Qingdao -toimitus täydellä vientidokumentaatiolla.'
+      icon: 'tabler:coins'
+    - title: '10-Moduulinen Kumppanin Tukiohjelma'
+      description: 'Perehdytys, go-to-market, koulutus, markkinointi ja yhteinen markkinarahoitus, varaosat ja jälkimarkkinointi, takuu, tilausvälineet ja kumppaniportaali — kaikki sisältyy Distribution Agreement -sopimukseesi.'
+      icon: 'tabler:rocket'
+    - title: 'Markkinointi & Yhteiset Markkinarahastot'
+      description: 'Lokalisoidut kampanjamateriaalit, jälleenmyyjän myyntipistemateriaalit, tapahtumasarjat, monikielinen digitaalinen sisältö ja yhteismarkkinointituki lanseeraussesonkeihin.'
+      icon: 'tabler:mood-smile'
+    - title: 'Tuote-, Myynti- & Tekninen Koulutus'
+      description: 'Jäsennellyt perehdytyskerrat tuote-, myynti- ja tekniseen osaamiseen sekä päivitetyt materiaalit tuotevalikoiman kehittyessä.'
+      icon: 'tabler:presentation'
+    - title: 'Varaosat & Jälkimarkkinatuki'
+      description: 'Varaosien toimitus, takuurekisteröinti ja reklamaatioiden käsittely sekä tuotetietolomakkeet ja käyttöohjeet paikalliselle huoltotiimillesi.'
+      icon: 'tabler:settings'
+    - title: 'Omistettu Asiakkuuspäällikkö & Kumppaniportaali'
+      description: 'Henkilökohtainen jakelupäällikkö sekä pääsy hinnastoihin, tilauksen tilaan ja markkinointiresursseihin Afarerin kumppaniportaalin kautta.'
+      icon: 'tabler:user-check'
+table:
+  title: 'Kumppanuustasot, MOQ & Tilausehdot'
+  subtitle: 'Valitse taso, joka vastaa markkinapotentiaaliasi. Kaikki hinnat USD, FOB Qingdao.'
+  caption: 'Näyte- ja koe-erätilaukset (5–30 kpl) eivät anna alueellista suojaa. Maayksinoikeus koskee vain allekirjoitettuja Country / Regional Distributor -sopimuksia — se säilytetään ensimmäisen tilauksen toteutuksella, vuosittaisilla ostotavoitteilla, paikallisella varastolla, jälkimarkkinakapasiteetilla ja jatkuvalla markkinasijoituksella, eikä se ole pysyvä tai ikuinen oikeus.'
+  head:
+    - Ohjelman Taso
+    - Vähimmäistilaus (kpl)
+    - Toimitusaika
+    - Maksu
+  rows:
+    - [Näyte / Tuotearviointi, 5–10, 15–20 työpäivää, 100% prepaid]
+    - [Koe-erä, 10–30, 30–45 työpäivää, 100% prepaid]
+    - [Authorized Dealer, 30–50, 30–45 työpäivää, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 30–45 työpäivää, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 30–45 työpäivää, 30% deposit / 70% before shipment]
+    - [Deep Custom (uudet muotit, pakkaus), 200+, 45–60 työpäivää, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1 000', 60–90 työpäivää, 30% deposit / 70% before shipment]
+faqs:
+  title: 'Maakumppanuus — UKK'
+  subtitle: 'Kysymykset, joita vakavasti asiaan suhtautuvat maarumppaanit kysyvät ennen hakemista.'
+  items:
+    - title: 'Mitä yksi maa, yksi jakelija todella tarkoittaa?'
+      description: 'Afarer nimittää yhden valtuutetun jakelijan, jolla on yksinoikeus määriteltyyn alueeseen. Emme myy globaaleista tai alueellisista kanavistamme suojattuun maahan. Alueesi pysyy sinulla niin kauan kuin Distribution Agreement -sopimuksen ehdot täyttyvät.'
+    - title: 'Onko alue yksinomainen ikuisesti?'
+      description: 'Ei. Yksinoikeus on ehdollinen, ei ikuinen. Se säilytetään allekirjoitetulla Distribution Agreement -sopimuksella, ensimmäisen tilauksen toteutuksella, vuosittaisilla ostotavoitteilla, paikallisella varastolla, jälkimarkkinakapasiteetilla ja jatkuvalla markkinasijoituksella. Jos näitä ehtoja ei täyty, alue voidaan neuvotella uudelleen tai myöntää toiselle osapuolelle.'
+    - title: 'Mikä on vähimmäisensimmäinen tilaus?'
+      description: 'Maa- ja aluejakelijat aloittavat 100–300 kappaleesta; valtuutetut jälleenmyyjät 30–50 kappaleesta; koe-erät 10–30 kappaleesta antavat sinun testata markkinaa ensin (koe- ja näytetilaukset eivät tuota alueellista suojaa). Custom- ja private-label-ohjelmissa on omat MOQ-rajansa yllä olevien tasojen mukaisesti.'
+    - title: 'Mitä 10-moduulinen tukiohjelma sisältää?'
+      description: 'Tasot ja kelpoisuus, alueellinen suoja, MOQ / hinnoittelu / vuosialennukset, varastonhallinta ja tilausprosessi, markkinointimateriaalit ja yhteiset markkinarahastot, tuote-/myynti-/tekninen koulutus, varaosat ja jälkimarkkinat, takuurekisteröinti, kumppaniportaali sekä tuotetietolomakkeet, markkinointimateriaalikirjasto, vuosittainen alennustaulukko sekä kuljetus- ja pakkausluettelot.'
+    - title: 'Miten Afarer suojaa minut kanavaristiriidoilta?'
+      description: 'Jokaisella alueella on täsmälleen yksi valtuutettu jakelija. Alueesi tiedustelut ja suorat tilaukset ohjataan sinun kauttasi, verkkolomakkeet ohjataan paikalliselle kumppanille, kun sellainen on olemassa, ja globaali tiimi eskaloituu vain, jos kumppani ei vastaa.'
+    - title: 'Mitkä ovat toimitus- ja maksuehdot?'
+      description: 'Tilaukset toimitetaan FOB Qingdao täydellä vientidokumentaatiolla. Tuotantotilaukset 30% käsirahalla ja 70% ennen toimitusta; koe- ja näytetilaukset maksetaan etukäteen. Vakio toimitusaika on 30–45 työpäivää, näyte-erillä 15–20 työpäivää.'
+    - title: 'Miten haen?'
+      description: 'Lähetä hakemuksesi yhteydenottolomakkeella markkinatietoineen. Arvioimme markkinasopivuuden, vähittäisnäkyvyyden ja logistiikkakyvykkyyden ja vastaamme 3 työpäivän kuluessa seuraavista vaiheista ja luonnoksesta Distribution Agreement -sopimukseksi.'
+cta:
+  title: 'Omista markkinasi.'
+  subtitle: 'Hae Afarer-maakumppanuutta ja saat vastauksen 3 työpäivän kuluessa.'
+  actions:
+    - text: 'Hae maakumppanuutta'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Lataa ohjelman esittely'
+      href: /distributor-program/
+      variant: secondary
+geo:
+  tagline: 'Kenen Kanssa Teemme Yhteistyötä'
+  sentence: 'Afarer tekee yhteistyötä vakiintuneiden meri-, ulkoilu- ja urheilualan jakelijoiden kanssa, jotka palvelevat kauppaketjuja, vuokrakalustoja, vesiurheilukouluja, lomakohteita ja julkisia ostajia premium-täytettävillä SUP-laudoilla ja vesikulkuneuvoilla — ja jotka sitoutuvat rakentamaan Afarer-brändiä maassaan.'
+  audiences:
+    - 'Meri- & melontaurheilujakelijat'
+    - 'Ulkoilu- & Urheiluvähittäiskauppa'
+    - 'Vuokraus- & Lomakohdeoperaattorit'
+    - 'Vesiurheilukoulut'
+    - 'Meriurheiluyhteisöt'

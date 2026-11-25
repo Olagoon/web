@@ -1,0 +1,73 @@
+meta:
+  title: 'Marin Expertis — Teknik i varje skrov | {SITE}'
+  description: 'Decennier av marin teknik i varje skrov. afarer behärskar drop stitch, marin PVC och professionell design av uppblåsbara SUP:ar.'
+  keywords:
+    - 'marin teknik'
+    - 'tillverkare av uppblåsbara SUP:ar'
+    - 'tillverkare av uppblåsbara SUP'
+    - 'paddle board tillverkning'
+hero:
+  tagline: Marin kompetens
+  title: Årtionden av marinteknik<br />i varje skrov
+  subtitle: afarer kombinerar djup materialvetenskap, precisionstillverkning och verklighetstestning för att producera vattenfarkoster som presterar när det räknas.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: afarers marina ingenjörs- och FoU-team i arbete
+expertise_materials:
+  tagline: Materialvetenskap
+  title: Välj rätt material<br />för varje tillämpning
+  subtitle: Vi arbetar med två kärnmaterial — varje valt för specifika användningsfall och prestandakrav.
+  columns: 3
+  items:
+    - title: Marinklass PVC
+      description: 1100 denier PVC-tyg – vårt mest mångsidiga material. UV-stabiliserat, slitstarkt och REACH-kompatibelt. Idealiskt för SUP-brädor där vikt och kostnadseffektivitet spelar roll.
+      icon: tabler:droplet
+    - title: Glasfiber och polyeten
+      description: Glasfiberlaminerade SUP:ar för premiumstyvhet och glid. Roteringsgjuten polyeten för tung uthyrning och räddningsbruk som kräver maximal stötbeständighet.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Tillverkningskapacitet
+  title: Precisionstillverkning<br />i varje steg
+  subtitle: Vår 12 000 m² anläggning är utrustad med specialiserad maskineri för varje produktionssteg.
+  columns: 2
+  items:
+    - title: CNC-skärning
+      description: Datorstyrd skärning säkerställer precisa, repeterbara tygpaneler med minimalt spill. Varje bit passar exakt som designad.
+      icon: tabler:cpu
+    - title: Högfrekvenssvetsning
+      description: Industriell HF-svetsning skapar sömmar starkare än basmaterialet. Konsekvent temperatur- och tryckkontroll säkerställer lufttäta förseglingar i varje produktionskörning.
+      icon: tabler:bolt
+    - title: Montering av drop-stitch-kärna
+      description: Tusentals polyestertrådar ansluter tygets övre och nedre lager, vilket möjliggör högtrycksuppblåsning (15-20 PSI) för styva, stabila SUP-brädor.
+      icon: tabler:building-arch
+    - title: Tryckprovning
+      description: Varje uppblåsbar produkt trycktestas före leverans. Brädor testas vid 1,25x nominellt tryck — om det håller där kommer det att presterar på vattnet.
+      icon: tabler:wind
+    - title: Provning av sömsstärka
+      description: Slumpmässiga prover från varje produktionsbatch genomgår destruktiv sömhållfasthetstestning. Resultaten loggas och är spårbara till specifika produktionskörningar.
+      icon: tabler:files
+    - title: Vattentestning
+      description: Varje modell genomgår sjöprov innan certifiering. Verklighetstestning i kustförhållanden validerar prestanda, hantering och stabilitet.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Design och ingenjörsvetenskap
+  title: Konstruerad för verkliga förhållanden
+  subtitle: Vår designfilosofi börjar med hur brädan kommer att användas — sedan bygger vi konstruktionen runt det användningsfallet.
+  items:
+    - title: Prestandaskrovdesign
+      description: Varje skrovform är avstämd för sitt användningsfall — deplacerande stävar för touringglid, extra rocker för surfrörlighet, platta stabila profiler för fiske och yoga.
+    - title: Drop-stitch-säkerhet
+      description: Varje bräda har en styv drop-stitch-kärna med förstärkta lister. Om en sektion skadas håller den höghållfasta drop-stitch-strukturen brädan funktionsduglig.
+    - title: Ergonomisk däcklayout
+      description: Zonindelning av däckdyna, bärhandtagets position och fästpunkter är designade kring åkarens komfort vid längre användning — oavsett om det gäller touring, fiske eller patrullering.
+    - title: Anpassad konfiguration
+      description: Listfärger, däckdynskonfiguration, tillbehörsfästen, lastkapacitet — varje modell kan anpassas för att matcha specifika operativa krav.
+cta:
+  title: Har du en specifik tillämpning i åtanke?
+  subtitle: Vårt ingenjörsteam kan ge råd om materialval, design och tillverkning för ditt projekt.
+  actions:
+    - variant: primary
+      text: Fråga våra ingenjörer
+      href: /contact/
+    - text: Visa produktsortiment
+      href: /products/

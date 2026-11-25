@@ -1,0 +1,55 @@
+meta:
+  title: 'Fabricação OEM e de Marca Própria | {SITE}'
+  description: 'Do conceito ao contêiner: personalize cada detalhe da sua linha de SUP inflável. Serviço OEM/ODM completo para marcas de paddle board de marca própria.'
+  keywords:
+    - 'fabricação OEM de SUP'
+    - 'paddle board de marca própria'
+    - 'SUP inflável OEM'
+    - 'fábrica de SUP personalizada'
+hero:
+  tagline: Fabricação OEM/ODM
+  title: Fabricação OEM e Marca Própria
+  subtitle: Do conceito ao contêiner — personalize cada detalhe da sua linha de SUP inflável
+intro: >-
+  A afarer oferece serviços abrangentes de OEM e ODM para marcas, distribuidores e agências governamentais em todo o mundo. Com 10 anos de experiência em exportação e uma fábrica de 12.000 m² certificada ISO 9001 e BSCI, cuidamos de tudo, desde o design do produto e desenvolvimento de moldes até a
+  produção em larga escala, embalagem e logística.
+highlight:
+  - value: '10+'
+    label: Anos de experiência em OEM
+    detail: Desde 2012
+  - value: '50+'
+    label: Países exportadores
+    detail: Alcance global
+  - value: '200+'
+    label: Projetos personalizados entregues
+    detail: Em todas as linhas de produtos
+  - value: 30–45
+    label: Prazo padrão de entrega (dias)
+    detail: De PO para FOB
+services:
+  - title: Design e Engenharia de Produto
+    description: Nossa equipe de P&D interna trabalha com seu conceito ou especificação para desenvolver desenhos CAD, modelos 3D e protótipos. Oferecemos design de moldes, otimização do formato do casco e orientação na seleção de materiais.
+  - title: Marca Personalizada e Gráficos
+    description: Impressão digital em cores, serigrafia, relevo e opções de rótulos. Desenvolvemos gráficos de baralho específicos para a marca, branding de tubos e embalagens prontas para varejo.
+  - title: Personalização de Material e Especificação
+    description: Escolha entre PVC (padrão, ecológico, retardante de fogo), drop-stitch e construções híbridas. Cores personalizadas dos tubos, pesos de tecido e opções de reforço.
+  - title: Embalagem e Logística
+    description: Embalagem personalizada para varejo, caixas de marca própria, embalagem a vácuo, paletização e carregamento de contêineres. Termos de envio FOB Qingdao, CIF ou DDP disponíveis.
+moq_table:
+  - product: Pranchas de SUP Infláveis
+    standard_moq: 5–10 unidades
+    custom_moq: 200 unidades
+    lead_time: 30–45 dias
+  - product: Coletes Salva-vidas e Segurança
+    standard_moq: 100–200 unidades
+    custom_moq: 1.000 unidades
+    lead_time: 20–30 dias
+why_us:
+  - title: Integração Vertical
+    description: Possuímos nossa fábrica, moldes e cadeia de suprimentos — sem intermediários, sem subcontratados. Isso nos dá controle sobre qualidade, custo e entrega.
+  - title: Certificação Dupla
+    description: Certificação de gestão da qualidade ISO 9001 e conformidade social BSCI. Relatórios de auditoria da fábrica disponíveis mediante solicitação.
+  - title: Conformidade CE
+    description: Todos os modelos padrão possuem certificação CE 2013/53/EU. Modelos personalizados podem ser certificados CE através do nosso processo estabelecido.
+  - title: Baixo MOQ
+    description: Comece com apenas 5 unidades para modelos padrão. Ajudamos marcas emergentes a lançar sem comprometer demais o estoque.

@@ -1,0 +1,114 @@
+meta:
+  title: 'afarer Hakkında — Şişme SUP & Su Sporları Markası | {SITE}'
+  description: 'afarer, Aquafarer LLC (ABD) tarafından yönetilen ve Qingdao operasyon ekibimiz tarafından geliştirilen küresel bir şişme SUP ve su sporları markasıdır. Hikayemizi, mühendisliğimizi, sertifikalı kalitemizi ve ülke ortaklık programlarımızı keşfedin.'
+  keywords:
+    - 'şişme sup markası'
+    - 'su sporları markası'
+    - 'ülke sup distribütörü'
+    - 'co-branded sup koleksiyonları'
+hero:
+  tagline: Hakkımızda
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-factory-building.webp
+    alt: afarer Atölyesi
+  title: |
+    Deniz mühendisliğini <br />
+    <span class="text-accent dark:text-white">afarer</span> tarzıyla buluşturuyoruz
+  subtitle: "Bir sahil atölyesinde, tek bir tahta ve sarsılmaz bir inançla başladık: deniz ürünleri, önemliymiş gibi mühendislikle geliştirilmelidir — çünkü öyledir. Bugün 40'tan fazla ülkeye teslimat yapıyoruz, ancak her gövde hâlâ şirketi kuran aynı ellerden geçiyor."
+stats:
+  title: Rakamlarla
+  columns: 4
+  stats:
+    - title: Teslim Edilen Gövde
+      amount: 2.400+
+    - title: Teslimat Yapılan Ülke
+      amount: '40'
+    - title: Toplam Deneyim (yıl)
+      amount: '60'
+    - title: Ortalama Yanıt Süresi (s)
+      amount: '24'
+features3_what_we_build:
+  title: Ne Üretiyoruz
+  subtitle: "Bir sahil atölyesinde, tek bir tahta ve sarsılmaz bir inançla başladık: deniz ürünleri, önemliymiş gibi mühendislikle geliştirilmelidir — çünkü öyledir. Bugün 40'tan fazla ülkeye teslimat yapıyoruz, ancak her gövde hâlâ şirketi kuran aynı ellerden geçiyor."
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: SUP Tahtaları
+      description: 9 ft'den 12 ft'ye kadar şişme SUP tahtaları. Tur, yoga, balıkçılık ve aile kullanımı için tasarlanmıştır.
+      icon: tabler:ship
+    - title: Şişme SUP'lar
+      description: 9 ft'den 12 ft'ye kadar PVC şişme SUP tahtaları. Hafif, dayanıklı ve kolay saklanabilir.
+      icon: tabler:rowing
+    - title: Premium SUP Paketleri
+      description: Markanıza veya filo ihtiyaçlarınıza göre özel üretilmiş kompakt, yüksek spesifikasyonlu SUP'lar.
+      icon: tabler:crown
+features3_more:
+  columns: 3
+  isAfterContent: true
+  items:
+    - title: Aksesuarlar
+      description: Kürekler, pompalar, örtüler, su geçirmez çantalar ve elektronik. Tamamı tahtalarımızla uyumlu.
+      icon: tabler:package
+    - title: Onarım ve Servis
+      description: Atölye içinde tahta onarımı, pad değişimi ve aksesuar yükseltmeleri.
+      icon: tabler:tool
+    - title: Özel Üretimler
+      description: Ticari, bilimsel ve askeri müşteriler için proje bazında tasarım.
+      icon: tabler:hammer
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-design-discussion-2.webp
+    alt: Tahta tasarımı ve mühendislik tartışması
+steps2_values:
+  title: Değerlerimiz
+  subtitle: İlk günden itibaren her ürünü şekillendiren üç ilke.
+  items:
+    - title: Ailenizi taşıyormuş gibi inşa et
+      description: Her gövde, her kaynak ve her bağlantı elemanı, kendi ailemiz kullanacakmış gibi işlenir.
+      icon: tabler:heart
+    - title: Satıştan Önce Mühendislik
+      description: 9 ft'den 12 ft'ye kadar şişme SUP tahtaları. Tur, yoga, balıkçılık ve aile kullanımı için tasarlanmıştır.
+      icon: tabler:settings
+    - title: Garanti Ötesi Destek
+      description: Yirmi yıllık gövdeler hâlâ yedek parça için arar — biz de hâlâ yanıtlarız.
+      icon: tabler:headset
+steps2_milestones:
+  title: Kilometre Taşları
+  subtitle: afarer hikayesinin kısa versiyonu.
+  isReversed: true
+  items:
+    - title: Sahil atölyesinde kuruldu
+      description: Bir CNC freze makinesi ve sarsılmaz bir vizyona sahip iki deniz mühendisi.
+      icon: tabler:building-factory
+    - title: İlk 1.000 gövde teslimatı
+      description: Yedinci yılda, ağırlıklı olarak ağızdan ağıza ve tekrar eden müşteriler sayesinde ulaşıldı.
+      icon: tabler:circle-check
+    - title: Uluslararası ihracat programı
+      description: Beş kıtada yerel servis ortaklarıyla 40+ ülkeye teslimat.
+      icon: tabler:world
+features2_locations:
+  title: Lokasyonlarımız
+  tagline: Bizi Nerede Bulabilirsiniz
+  columns: 3
+  items:
+    - title: Genel Merkez ve Atölye
+      description: 9 ft'den 12 ft'ye kadar şişme SUP tahtaları. Tur, yoga, balıkçılık ve aile kullanımı için tasarlanmıştır.
+    - title: AB Servis Merkezi
+      description: 9 ft'den 12 ft'ye kadar şişme SUP tahtaları. Tur, yoga, balıkçılık ve aile kullanımı için tasarlanmıştır.
+    - title: APAC Ortak Ağı
+      description: Avustralya, Japonya, Singapur ve Hong Kong'da yetkili servis ortakları.
+brand_hub_tagline: Marka
+brand_hub_title: Markamızı Keşfedin
+brand_hub_subtitle: SUP mühendislik uzmanlığımıza, küresel varlığımıza ve bizi yönlendiren ilkelere daha derinlemesine dalın.
+brand_hub_cards:
+  - title: Denizcilik Uzmanlığı
+    desc: Malzeme bilimi, hassas üretim ve gerçek dünya testlerinde onlarca yıllık deneyim — PVC üretiminden derin-V gövde tasarımına ve drop-stitch teknolojisine kadar.
+    link: /brand-marine-expertise/
+    link_label: Daha Fazla Bilgi →
+  - title: Küresel Varlık
+    desc: Qingdao tesisimizden Avrupa, Asya-Pasifik ve Amerika genelinde yetkili servis ortaklarımızla 50'den fazla ülkeye teslimat yapıyoruz.
+    link: /brand-global-presence/
+    link_label: Daha Fazla Bilgi →
+  - title: Neden afarer
+    desc: 'Doğrulanmış kalite üzerine kurulu bir marka — çift sertifikasyon (ISO 9001 + BSCI), CE uyumluluğu ve su sporu işletmeleri için sınırlı co-branded koleksiyonlarla ülkeye özel münhasır ortaklıklar.'
+    link: /brand-why-afarer/
+    link_label: Daha Fazla Bilgi →

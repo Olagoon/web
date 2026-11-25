@@ -1,0 +1,66 @@
+meta:
+  title: SUP Verhuurvloot Oplossingen | {SITE}
+  description: SUP-boards met hoge rotatie, ontworpen voor dagelijks verhuurgebruik. UV-bestendig PVC, versterkte naden, snel drogende materialen. Schaal uw verhuizaken uit met Afarer.
+hero:
+  tagline: Verhuuroperators
+  title: Schaal uw verhuurbedrijf<br />Met vertrouwen
+  subtitle: High-rotatie SUP-boards ontwikkeld voor dagelijks verhuurgebruik, 365 dagen per jaar. Uw inkomsten nemen nooit een vrije dag.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Drukke verhuurkiosk met SUP-borden klaar voor gasten
+features:
+  title: Gemaakt voor het verhuurwerk
+  subtitle: Elk board is ontworpen voor 500 huurcycli met minimaal onderhoud.
+  items:
+    - title: 500 Verhuur Fietsen
+      description: Getest om dagelijks gebruik in zout water, zon en zand te overleven.
+      icon: tabler:shield-check
+    - title: UV-bestendig textiel
+      description: Geen vervaging of achteruitgang na 1 jaar opslag buitenshuis.
+      icon: tabler:sun
+    - title: Versterkte naden
+      description: 3x sterker dan de standaardconstructie van opblaasbare boards.
+      icon: tabler:layers-intersect
+    - title: Sneldrogende materialen
+      description: Borden klaar voor de volgende verhuur in minder dan 30 minuten.
+      icon: tabler:droplet
+    - title: Stapelbare Opberging
+      description: Ruimtebesparend ontwerp — berg 40% meer borden op in hetzelfde gebied.
+      icon: tabler:stack
+    - title: Kleurgecodeerde maten
+      description: Het personeel pakt onmiddellijk het juiste bord met kleurgecodeerde maten.
+      icon: tabler:color-swatch
+stats:
+  title: Operationele statistieken
+  stats:
+    - title: Bestuursomzet
+      amount: < 5 min
+    - title: Jaarlijks Onderhoud
+      amount: ~15 min/bord
+    - title: Onderdelenverzending
+      amount: 48u
+    - title: Foutpercentage
+      amount: < 0,5%
+fleet_guide:
+  title: Gids voor het Bepalen van Vlootgrootte
+  subtitle: Schat de vloottgrootte en het omzetpotentieel voor uw verhuurbedrijf.
+  tiers:
+    - label: Kleine kiosk
+      boards: 15-20
+      revenue: $XX.XXX/jaar
+    - label: Middelgrote operatie
+      boards: 30-50
+      revenue: $XX.XXX/jaar
+    - label: Grote strandverhuur
+      boards: 50-100
+      revenue: $XXX.XXX/jaar
+cta:
+  title: Klaar om je verhuurbedrijf uit te breiden?
+  subtitle: Krijg huurprijzen of vergelijk bordmodellen voor uw operatie.
+  actions:
+    - text: Bekijk huurprijzen
+      href: /contact/?package=rental
+      variant: primary
+    - text: Vergelijk bordmodellen
+      href: /compare/
+      variant: secondary

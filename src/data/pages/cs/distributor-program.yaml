@@ -1,0 +1,117 @@
+meta:
+  title: 'Zemští partneři — jedna země, jeden oficiální distributor Afarer | {SITE}'
+  description: 'Požádejte a staňte se oficiálním distributorem Afarer pro svou zemi. Jeden autorizovaný partner na trh, územní ochrana, marže přímo z továrny, roční rabaty a 10modulový program podpory zemních partnerů pro globální distributory SUP a vodních sportů.'
+  keywords:
+    - 'program partnerských zemí'
+    - 'staňte se distributorem'
+    - 'distribuce SUP'
+    - 'jedna země jeden distributor'
+    - 'distributor stand up paddle'
+    - 'distribuce vodních sportů'
+    - 'žádost o partnerství pro zemi'
+hero:
+  tagline: 'Partnerství pro Zemi'
+  title: 'Jedna země.<br />Jeden oficiální distributor Afarer.'
+  subtitle: 'Afarer jmenuje jediného autorizovaného distributora pro každý schválený trh. Exkluzivní území, dealerské ceny s ročními rabaty a kompletní program podpory distributorů — výměnou za podepsanou smlouvu a skutečný závazek vybudovat trh.'
+  actions:
+    - text: 'Požádat o partnerství pro zemi'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Najděte svého místního distributora'
+      href: /distributor-program/
+      variant: secondary
+    - text: 'Vyžádat dealerský ceník'
+      href: /contact/?subject=Dealer Price List
+      variant: secondary
+stats:
+  - value: '1'
+    label: 'Oficiální distributor pro zemi nebo region'
+  - value: '100–300'
+    label: 'Minimální první objednávka (země / regionální)'
+  - value: '50+'
+    label: 'Obsluhované země na světě'
+  - value: '30–45'
+    label: 'Dnů standardní dodací lhůty (FOB Qingdao)'
+features:
+  title: 'Proč Spolupracovat s Afarer'
+  subtitle: 'Model jedna-země-jeden-distributor se strukturou podpory, díky které je území ziskové. Exkluzivita se získává a udržuje — není trvalým právem.'
+  columns: 3
+  items:
+    - title: 'Územní Exkluzivita'
+      description: 'Jeden autorizovaný distributor pro zemi nebo region. Žádný paralelní dovoz, žádná vnitřní konkurence. Vaše investice buduje váš vlastní příkop.'
+      icon: 'tabler:shield-check'
+    - title: 'Ochrana Před Kanálovými Konflikty'
+      description: 'Přímé objednávky z vašeho regionu jdou přes vás a ceny chrání vaši marži. Afarer neprodává kolem svých zemních partnerů.'
+      icon: 'tabler:users'
+    - title: 'Přímé Tovární Marže a Rabaty'
+      description: 'Dealerský ceník s rabaty za odsouhlasené objemy. Žádní prostředníci. Dodávka FOB Qingdao s úplnou exportní dokumentací.'
+      icon: 'tabler:coins'
+    - title: '10modulový Program Podpory Partnerů'
+      description: 'Onboarding, go-to-market, školení, marketing a společné tržní fondy, náhradní díly a poprodejní servis, záruka, nástroje pro objednávky a partnerský portál — vše obsaženo ve vaší Distribution Agreement.'
+      icon: 'tabler:rocket'
+    - title: 'Marketing a Společné Tržní Fondy'
+      description: 'Lokalizované kampaně, materiály POS pro dealery, eventové sady, digitální obsah ve více jazycích a podpora co-marketingu pro sezóny uvedení na trh.'
+      icon: 'tabler:mood-smile'
+    - title: 'Produktová, Prodejní a Technická Školení'
+      description: 'Strukturovaná zaškolování v oblasti produktu, prodeje a technických znalostí s aktualizovanými materiály, jak se sortiment vyvíjí.'
+      icon: 'tabler:presentation'
+    - title: 'Náhradní Díly a Poprodejní Podpora'
+      description: 'Dodávky náhradních dílů, registrace záruk a vyřizování reklamací, plus produktové datasheety a manuály pro váš místní servisní tým.'
+      icon: 'tabler:settings'
+    - title: 'Dedikovaný Account Manager a Partnerský Portál'
+      description: 'Osobní distributor manager plus přístup k ceníkům, stavu objednávek a marketingovým zdrojům přes partnerský portál Afarer.'
+      icon: 'tabler:user-check'
+table:
+  title: 'Úrovně Partnerství, MOQ a Podmínky Objednávek'
+  subtitle: 'Vyberte úroveň, která odpovídá potenciálu vašeho trhu. Všechny ceny v USD, FOB Qingdao.'
+  caption: 'Vzorkové a zkušební objednávky (5–30 kusů) nemají územní ochranu. Zemská exkluzivita se vztahuje pouze na podepsané smlouvy Country / Regional Distributor — je udržována dokončením první objednávky, ročními nákupními cíli, místními zásobami, poprodejní schopností a dalšími investicemi do trhu a není trvalým ani věčným právem.'
+  head:
+    - Úroveň Programu
+    - Minimální Objednávka (ks)
+    - Dodací Lhůta
+    - Platba
+  rows:
+    - [Vzorek / Hodnocení produktu, 5–10, 15–20 pracovních dnů, 100% prepaid]
+    - [Zkušební Objednávka, 10–30, 30–45 pracovních dnů, 100% prepaid]
+    - [Authorized Dealer, 30–50, 30–45 pracovních dnů, 30% deposit / 70% before shipment]
+    - [Country / Regional Distributor, 100–300, 30–45 pracovních dnů, 30% deposit / 70% before shipment]
+    - [Custom & Private Label (standard), 50+, 30–45 pracovních dnů, 30% deposit / 70% before shipment]
+    - [Deep Custom (nové formy, balení), 200+, 45–60 pracovních dnů, 30% deposit / 70% before shipment]
+    - [Full Product Line Rights, '300–1,000', 60–90 pracovních dnů, 30% deposit / 70% before shipment]
+faqs:
+  title: 'Partnerství pro Zemi — FAQ'
+  subtitle: 'Otázky, které si seriózní zemní partneři kladou, než požádají.'
+  items:
+    - title: 'Co vlastně znamená jedna země, jeden distributor?'
+      description: 'Afarer jmenuje jediného autorizovaného distributora s výhradními právy pro vymezené území. Neprodáváme z našich globálních ani regionálních kanálů do chráněné země. Vaše právo na území platí, dokud je plněn Distribution Agreement.'
+    - title: 'Je území exkluzivní navždy?'
+      description: 'Ne. Exkluzivita je podmíněná, ne věčná. Je udržována podepsaným Distribution Agreement, dokončením první objednávky, ročními nákupními cíli, místními zásobami, poprodejní schopností a dalšími investicemi do trhu. Pokud tyto podmínky nejsou splněny, území může být znovu projednáno nebo přiděleno jinému partnerovi.'
+    - title: 'Jaká je minimální první objednávka?'
+      description: 'Zemští a regionální distributoři začínají na 100–300 kusech; autorizovaní dealeri na 30–50 kusech; zkušební objednávky od 10–30 kusů vám umožní nejprve ověřit trh (zkušební a vzorkové objednávky nemají územní ochranu). Programy Custom a private-label se řídí samostatnými MOQ uvedenými v úrovních výše.'
+    - title: 'Jakou podporu zahrnuje 10modulový program podpory?'
+      description: 'Úrovně a kvalifikace, územní ochrana, MOQ / ceny / roční rabaty, správa zásob a realizace objednávek, marketingové materiály a společné tržní fondy, produktová / prodejní / technická školení, náhradní díly a poprodejní servis, registrace záruky, partnerský portál a produktové datasheety, knihovna marketingových materiálů, harmonogram ročních rabatů a přepravní a balicí listy.'
+    - title: 'Jak mě Afarer chrání před kanálovými konflikty?'
+      description: 'Každé území má přesně jednoho autorizovaného distributora. Dotazy a přímé objednávky z vašeho regionu jdou přes vás, formuláře na webu jsou přeposílány místnímu partnerovi, pokud existuje, a globální tým eskaluje jen tehdy, když partner neodpovídá.'
+    - title: 'Jaké jsou přepravní a platební podmínky?'
+      description: 'Objednávky se odesílají FOB Qingdao s úplnou exportní dokumentací. Výrobní objednávky jsou za 30% zálohu a 70% před odesláním; zkušební a vzorkové objednávky jsou hrazeny předem. Standardní dodací lhůta je 30–45 pracovních dnů, u zkušebních sérií 15–20 pracovních dnů.'
+    - title: 'Jak požádám?'
+      description: 'Pošlete žádost přes kontaktní formulář s údaji o trhu. Posuzujeme tržní vhodnost, maloobchodní zastoupení a logistické schopnosti, pak odpovíme do 3 pracovních dnů s dalšími kroky a vzorovým Distribution Agreement.'
+cta:
+  title: 'Vlastněte svůj trh.'
+  subtitle: 'Požádejte o partnerství pro zemi u značky Afarer a odpověď obdržíte do 3 pracovních dnů.'
+  actions:
+    - text: 'Požádat o partnerství pro zemi'
+      href: /contact/?subject=Country Partnership Application
+      variant: primary
+    - text: 'Stáhnout přehled programu'
+      href: /distributor-program/
+      variant: secondary
+geo:
+  tagline: 'S Kým Spolupracujeme'
+  sentence: 'Afarer spolupracuje s etablovanými námořními, outdoorovými a sportovními distributory, kteří obsluhují maloobchodní řetězce, výpůjční flotily, školy vodních sportů, resorty a vládní kupující prémiovými nafukovacími SUP prkny a plavidly — a kteří se zavazují budovat značku Afarer ve své zemi.'
+  audiences:
+    - 'Distributoři námořních a pádlových sportů'
+    - 'Outdoor a Sportovní Maloobchod'
+    - 'Provozovatelé Půjčoven a Resortů'
+    - 'Školy Vodních Sportů'
+    - 'Komunity Oceánských Sportů'

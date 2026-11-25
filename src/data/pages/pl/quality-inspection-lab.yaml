@@ -1,0 +1,140 @@
+meta:
+  title: Laboratorium Jakości i Inspekcji — Testowanie i Certyfikacja SUP zgodne z ISO | {SITE}
+  description: Niezależna weryfikacja jakości dla nadmuchiwanych desek SUP. Testy rozciągania, cykliczne próby utrzymywania powietrza, testy odrywania szwów i certyfikacja materiałów. Skontaktuj się z naszym laboratorium jakości w celu przeprowadzenia testów przez stronę trzecią.
+back_text: Powrót do Centrum Badań i Rozwoju
+home_label: Dom
+hero:
+  tagline: Laboratorium 06
+  title: Laboratorium Jakości i Kontroli
+  subtitle: Niezależna weryfikacja — każdy test zaliczony przed dostawą
+  image: https://assets.afarer.com/images/afarer/factory/afarer-uv-resistance-testing.webp
+  image_alt: Laboratorium kontroli jakości Afarer Badanie UV
+intro: >-
+  Każda deska, która opuszcza nasz warsztat, posiada certyfikat potwierdzający, że przeszła określony zestaw inspekcji jakości i testów materiałowych. Nasze Laboratorium Jakości i Inspekcji jest niezależną funkcją w ramach organizacji — raportuje bezpośrednio do dyrektora zarządzającego, a nie do
+  produkcji — co zapewnia, że żaden nacisk biznesowy nie może wpłynąć na proces kontroli. Jeśli partia materiału lub gotowa deska nie spełnia opublikowanej specyfikacji, laboratorium ma uprawnienia do wstrzymania wysyłki, aż do usunięcia niezgodności.
+content_html: >
+  <h2>Ufaj, ale weryfikuj</h2>
+
+  <p>Laboratorium działa w ramach systemu zarządzania jakością zgodnego z uznanymi zasadami, a nasze metody badawcze są oparte na normach ISO, ASTM i EN wszędzie tam, gdzie ma to zastosowanie. Prowadzimy szczegółową dokumentację każdego wykonanego badania, tworząc kompletny łańcuch
+  identyfikowalności od przyjęcia surowca do końcowej dostawy deski.</p>
+
+
+  <h2>Wyposażenie badawcze i możliwości</h2>
+
+  <table>
+    <thead><tr><th>Wyposażenie</th><th>Wykonywane badania</th><th>Norma / Metoda</th></tr></thead>
+    <tbody>
+      <tr><td>Uniwersalna maszyna wytrzymałościowa (50 kN)</td><td>Wytrzymałość na rozciąganie (tkanina), odporność na odrywanie (spawy), propagacja rozdarć</td><td>ISO 1421, ISO 4674</td></tr>
+      <tr><td>Programowalne stanowisko do badania szczelności</td><td>Wytrzymałość na 1000 cykli napompowania/opróżnienia, 30-minutowy test utrzymania ciśnienia</td><td>EN ISO 25649 (wewnętrznie)</td></tr>
+      <tr><td>Przyrząd do odrywania spawów (zmotoryzowany, odrywanie 180°)</td><td>Wytrzymałość na odrywanie spawów i klejonych szwów przy 100 mm/min</td><td>ISO 1421 / ASTM D1876</td></tr>
+      <tr><td>Stanowisko do pomiaru ciśnienia hydrostatycznego</td><td>Odporność tkaniny na przenikanie wody (0–1000 mbar)</td><td>ISO 811</td></tr>
+      <tr><td>Cyfrowy miernik grubości i mikrometr</td><td>Grubość tkaniny, grubość ścianki komory, grubość warstwy kleju</td><td>ISO 2286-3</td></tr>
+      <tr><td>Komora klimatyczna</td><td>Kondycjonowanie temperaturowe (–40 °C do +80 °C) dla testów pękania na zimno i starzenia cieplnego</td><td>ISO 188, ISO 4675</td></tr>
+      <tr><td>Spektrofotometr koloru</td><td>Pomiar różnicy kolorów Delta-E po ekspozycji na promieniowanie UV</td><td>ISO 105-A05 / ASTM D2244</td></tr>
+    </tbody>
+  </table>
+
+
+  <h2>Punkty kontroli — od materiału do dostawy</h2>
+
+  <p>Każda deska przechodzi przez zdefiniowany plan jakości z obowiązkowymi punktami kontroli. Żadna deska nie może pominąć punktu kontroli; każdy punkt musi zostać zatwierdzony przez inspektora jakości przed rozpoczęciem kolejnego etapu produkcji.</p>
+
+
+  <div class="not-prose my-8">
+    <div class="relative">
+      <div class="absolute left-4 top-0 bottom-0 w-0.5 bg-blue-200 dark:bg-blue-800"></div>
+      <div class="space-y-6 relative">
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Punkt kontroli 1</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Kontrola materiałów przychodzących</p>
+            <p class="text-xs text-gray-500 mt-1">Partia tkaniny, partia kleju, osprzęt — wszystkie elementy są sprawdzane pod kątem zgodności ze specyfikacją wejściową przed przekazaniem do produkcji.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Punkt kontroli 2</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Kontrola spawów w procesie</p>
+            <p class="text-xs text-gray-500 mt-1">Próbka pierwszego spawu (odrywanie + badanie wizualne) testowana na początku każdej zmiany produkcyjnej.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Punkt kontroli 3</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Próba ciśnieniowa komory</p>
+            <p class="text-xs text-gray-500 mt-1">Każda komora jest naprężana do 1,5-krotności ciśnienia roboczego i utrzymywana przez 30 minut. Dane rejestrowane dla każdego numeru seryjnego.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Punkt kontroli 4</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Kontrola przed dostawą</p>
+            <p class="text-xs text-gray-500 mt-1">Kontrola kompletnej deski: wszystkie elementy złączne dokręcone, osprzęt sprawny, brak wad wizualnych. Lista kontrolna obejmująca 100 punktów.</p>
+          </div>
+        </div>
+        <div class="flex gap-4">
+          <div class="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold z-10">Punkt kontroli 5</div>
+          <div class="flex-1 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800">
+            <p class="text-sm font-semibold">Certyfikacja końcowa</p>
+            <p class="text-xs text-gray-500 mt-1">Raporty z badań skompilowane, dokumentacja kontroli zweryfikowana, wydany certyfikat zgodności.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Kluczowe wskaźniki jakości (średnia krocząca 2025)</h2>
+
+  <div class="not-prose my-8 grid grid-cols-2 md:grid-cols-4 gap-4">
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">99.7 %</span>
+      <span class="text-xs text-gray-500">Wydajność pierwszego przejścia (partia tkaniny)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">&lt; 0.2 %</span>
+      <span class="text-xs text-gray-500">Wskaźnik odrzuconych spawów (metr bieżący)</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">100 %</span>
+      <span class="text-xs text-gray-500">Komory przetestowane ciśnieniowo przed montażem</span>
+    </div>
+    <div class="p-4 rounded-lg border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 text-center">
+      <span class="block text-2xl font-bold text-blue-600">EN ISO 25649</span>
+      <span class="text-xs text-gray-500">Zgodność z kategorią projektową</span>
+    </div>
+  </div>
+
+
+  <h2>Nasz zespół ds. jakości</h2>
+
+  <p>W laboratorium pracują kierownik ds. jakości (10 lat w kontroli jakości w przemyśle morskim, certyfikat ASQ Certified Quality Engineer), dwóch inspektorów jakości (każdy z certyfikacją NDT poziomu 2 w badaniach wizualnych) oraz technolog materiałowy odpowiedzialny za wszystkie badania fizyczne.
+  Zespół corocznie uczestniczy w badaniach biegłości prowadzonych przez niezależnego dostawcę zewnętrznego, aby nasze wyniki badań pozostały dokładne i powtarzalne.</p>
+
+
+  <h2>Niezależne badania dla klientów</h2>
+
+  <p>Nasze laboratorium kontroli jakości i badań jest dostępne do świadczenia niezależnych usług badawczych. Jeśli potrzebujesz zweryfikować specyfikację tkaniny, zatwierdzić nowy system klejenia lub uzyskać raport z badań strony trzeciej do kwalifikacji zakupowej, możemy wykonać badania zgodnie z
+  właściwą normą i wydać certyfikowany raport.</p>
+
+  <p>Przykłady niedawnych prac badawczych dla stron trzecich:</p>
+
+  <ul>
+    <li>Porównanie wytrzymałości na odrywanie pięciu konkurencyjnych folii klejących dla europejskiego programu zamówień wojskowych.</li>
+    <li>Badanie przyspieszonego starzenia (promieniowanie UV + cykle termiczne) nowej formuły pomarańczowego PVC, z regularnymi pomiarami pośrednimi w odstępach 500 h.</li>
+    <li>Walidacja szczelności 50 prototypowych zaworów przegrodowych dla nowej konstrukcji komór wysokociśnieniowych.</li>
+  </ul>
+
+
+  <h2>Nasze zobowiązanie wobec Ciebie</h2>
+
+  <p>Otrzymując deskę Afarer, otrzymujesz również jej dossier jakości — kompletny zapis wyników badań dotyczących Twojej konkretnej deski. Certyfikat partii tkaniny, badania odrywania spawów, dzienniki prób ciśnieniowych komór oraz lista kontrolna z kontroli przed dostawą. Każda liczba jest
+  możliwa do prześledzenia. Każdy inspektor jest zidentyfikowany. To nie jest tylko papierologia — to nasza obietnica, że to, co dostarczyliśmy, jest zgodne z tym, co zostało określone w specyfikacji.</p>
+
+  <p>Jeśli kiedykolwiek będziesz mieć wątpliwości co do jakości, możesz skontaktować się bezpośrednio z laboratorium — dane kontaktowe są wydrukowane na Twoim certyfikacie zgodności. Każde zapytanie traktujemy poważnie i zobowiązujemy się do przeprowadzenia formalnego postępowania wyjaśniającego w
+  ciągu 48 godzin.</p>
+cta:
+  title: Potrzebne niezależne testy lub weryfikacja jakości?
+  subtitle: Nasze laboratorium przyjmuje zlecenia testów od firm zewnętrznych — skontaktuj się z nami ze swoimi wymaganiami.
+  button_text: Skontaktuj się z laboratorium jakości
+  button_link: /contact/

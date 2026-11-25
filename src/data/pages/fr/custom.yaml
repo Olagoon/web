@@ -1,0 +1,85 @@
+meta:
+  title: 'Custom Lab — Paddle Gonflable Personnalisé | {SITE}'
+  description: 'Paddle gonflable personnalisé : design sur mesure, logo, moule custom et production. Partenaire SUP en marque privée, MOQ 50 unités, certifié CE.'
+  keywords:
+    - 'paddle personnalisé fabricant'
+    - 'planche paddle personnalisée'
+    - 'paddle avec logo personnalisé'
+    - 'paddle gonflable marque privée'
+    - 'fabrication paddle gonflable'
+hero:
+  tagline: afarer Custom Lab
+  title: Concevez Votre Propre<br />Planche SUP
+  subtitle: Services de co-brand, marque privée et fabrication sur mesure de paddle boards pour les entreprises du monde entier. D’un prototype unique aux séries de production complètes.
+  cta: Lancer votre projet
+  footer_link: /contact/
+steps_section:
+  tagline: Comment ça fonctionne
+  title: Du concept à la production
+  subtitle: Quatre étapes de votre idée à un produit fini prêt pour la mer.
+  steps:
+    - num: '01'
+      title: Choisissez Votre Planche
+      desc: Choisissez parmi nos modèles SUP principaux — polyvalent, randonnée, yoga, sport ou enfants. Sélectionnez taille, matériau et couleur.
+    - num: '02'
+      title: Téléchargez Votre Design
+      desc: Envoyez-nous votre logo, vos visuels ou votre charte. Notre équipe design prépare un BAT numérique.
+    - num: '03'
+      title: Révision de Maquette IA
+      desc: Visualisez une maquette photoréaliste générée par IA de votre planche personnalisée avant production.
+    - num: '04'
+      title: Production et Livraison
+      desc: Une fois approuvée, votre commande entre dans notre ligne de production. Délais à partir de 30 jours.
+services_section:
+  tagline: Services
+  title: Services de fabrication pour marques mondiales
+  subtitle: Modèles d'engagement flexibles — de la sous-traitance à la construction de marque complète.
+  items:
+    - title: Production Co-Brand
+      desc: Nous produisons vos designs selon les spécifications — votre PI, vos dessins, vos normes de qualité. Protection NDA complète.
+      icon: ⚙️
+    - title: Solutions de Design
+      desc: Choisissez parmi 50+ plateformes éprouvées et personnalisez taille, couleur, graphismes et emballage.
+      icon: 🎨
+    - title: Marque de Distributeur
+      desc: Votre marque sur nos produits — logo, emballage, étiquettes, manuels. Prêt à vendre en magasin.
+      icon: 🎨
+    - title: Branding Personnalisé
+      desc: Impression du deck, graphismes coque, autocollants et étiquettes personnalisées — intégration complète de la marque.
+      icon: ⚙️
+capabilities_section:
+  tagline: Capacités
+  title: Capacités de production et personnalisation
+  subtitle: Tout ce que vous devez savoir avant de passer commande.
+  capabilities:
+    - label: Volume de commande
+      value: MOQ 50 unités (SUP)
+    - label: Délai de production
+      value: 30–45 jours standard ; 15–20 jours pour prototypes
+    - label: Personnalisation
+      value: Taille, forme, couleur, graphismes, emballage, quincaillerie
+    - label: Matériaux
+      value: PVC, drop-stitch, EVA, aluminium
+    - label: Impression
+      value: Numérique (CMYK), sérigraphie, transfert thermique, sublimation
+    - label: Certification
+      value: CE, UKCA, FCC (support pour conformité mondiale)
+why_section:
+  tagline: Pourquoi afarer
+  title: Une usine. Un standard. Zéro compromis.
+  points:
+    - text: Installation de fabrication intégrée de 12 000 m²
+      highlight: 12 000 m²
+    - text: 200+ ouvriers qualifiés et ingénieurs
+      highlight: 200+
+    - text: 15 000+ unités produites par an
+      highlight: 15 000+
+    - text: gestion de la qualité certifiée ISO 9001
+      highlight: ISO 9001
+    - text: Produits certifiés CE pour le marché UE
+      highlight: CE
+  cta: Voir les détails de l'usine
+  cta_link: /factory/
+  contact:
+    title: Prêt à discuter de votre projet ?
+    desc: Notre équipe répond sous 24 heures avec un devis préliminaire.

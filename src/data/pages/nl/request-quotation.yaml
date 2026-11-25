@@ -1,0 +1,99 @@
+meta:
+  title: 'Offerte Aanvragen — OEM-SUP-productie | {SITE}'
+  description: 'Vraag een gedetailleerde offerte aan voor jouw opblaasbare SUP-project. OEM/ODM-productie, private label of aangepaste vloten: we reageren binnen 2 werkdagen.'
+  keywords:
+    - 'SUP offerte aanvragen'
+    - 'OEM paddle board offerte'
+    - 'SUP-fabriek offerte'
+    - 'prijs opblaasbare SUP'
+hero_text:
+  tagline: Vraag een offerte aan
+  title: Vraag een Offerte Aan<br />voor Uw Project
+  subtitle: Vertel ons uw wensen en ons team reageert binnen 2 werkdagen met een gedetailleerde offerte.
+steps2_process:
+  title: Hoe Het Werkt
+  subtitle: Vier eenvoudige stappen van aanvraag tot offerte.
+  items:
+    - title: 'Stap 1: Diens Uw Wensen In'
+      description: Vul het onderstaande formulier in met uw producttype, hoeveelheid en specificaties. Hoe meer detail u verstrekt, hoe nauwkeuriger uw offerte.
+      icon: tabler:file-text
+    - title: 'Stap 2: Wij Beoordelen & Adviseren'
+      description: Ons technische team beoordeelt uw wensen en neemt mogelijk contact met u op voor verduidelijking. Wij geven aanbevelingen over productconfiguratie en opties.
+      icon: tabler:users
+    - title: 'Stap 3: Ontvang Uw Offerte'
+      description: U ontvangt een gedetailleerde offerte inclusief eenheidsprijs, MOQ, levertijd, betalingsvoorwaarden en verzendopties. Doorgaans binnen 48 uur.
+      icon: tabler:currency-dollar
+    - title: 'Stap 4: Monster & Productie'
+      description: Na acceptatie van de offerte gaan we over tot monsterproductie (indien van toepassing) of direct tot massaproductie. Regelmatige updates gedurende het hele proces.
+      icon: tabler:building-factory
+content_form:
+  tagline: Offerteformulier
+  title: Vertel Ons Over Uw Project
+  subtitle: Alle velden met * zijn verplicht.
+  contact_fields:
+    firstName: Voornaam
+    lastName: Achternaam
+    companyName: Bedrijf
+    email: E-mail
+  fields:
+    - name: Productcategorie
+      type: select
+      options:
+        - SUP-board
+        - Opblaasbare SUP
+        - Opblaasbaar SUP-board
+        - Reddingsvest
+        - Maritiem accessoire
+        - OEM/ODM op maat
+    - name: Toepassing
+      type: select
+      options:
+        - Duikcentrum
+        - Vissen
+        - Marine Toerisme / Resort
+        - Zoek- en reddingsoperaties
+        - Overheid / Militair
+        - OEM / Eigen merk
+        - Persoonlijk / Recreatief
+        - Overige
+    - name: Aantal
+      type: text
+      placeholder: bijv. 50 stuks
+    - name: Doelmarkt
+      type: text
+      placeholder: bijv. Europa, Noord-Amerika, Midden-Oosten
+    - name: Leveringsland
+      type: text
+      placeholder: bijv. Italië, VAE, VS, Australië
+    - name: Materiaalvoorkeur
+      type: select
+      options:
+        - Geen voorkeur
+        - Marine-kwaliteit PVC (1100 dtex)
+        - GFK-romp
+        - Aluminium romp
+    - name: Motorvereisten
+      type: text
+      placeholder: bijv. standaard peddelsetup, elektrische pomp, aangepaste kleuren
+    - name: Benodigde aanpassingen
+      type: text
+      placeholder: bijv. aangepaste kleuren, branding/logo, verpakking, speciale bevestigingen
+    - name: Levertijd
+      type: text
+      placeholder: bijv. levering binnen 90 dagen
+    - name: Aanvullende vereisten
+      type: textarea
+      placeholder: Beschrijf uw toepassing, technische specificaties of eventuele speciale vereisten — voeg indien beschikbaar referentietekeningen, specificaties of links toe
+    - name: Specificatie uploaden
+      type: file
+      placeholder: Upload uw specificatieblad, tekening of referentiedocument (PDF, DWG, DXF)
+    - name: Logo / artwork uploaden
+      type: file
+      placeholder: Upload uw logo of kunstwerk voor aangepaste branding (AI, EPS, PNG)
+cta:
+  title: Liever per e-mail bespreken?
+  subtitle: Stuur uw aanvraag rechtstreeks naar ons verkoopteam en wij reageren binnen 24 uur.
+  actions:
+    - variant: primary
+      text: Stuur ons direct een e-mail
+      href: /contact/

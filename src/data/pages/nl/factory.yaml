@@ -1,0 +1,265 @@
+meta:
+  title: 'Fabriek & Productie — Opblaasbare SUP-OEM | {SITE}'
+  description: 'Bezoek de afarer-fabriek: een bedrijf van 12.000 m² met snijden, HF-lassen, printen, assembleren en een kwaliteitslab voor OEM/ODM-productie van opblaasbare SUPs.'
+  keywords:
+    - 'SUP-fabriek China'
+    - 'opblaasbare paddle board fabriek'
+    - 'OEM SUP-fabrikant'
+    - 'opblaasbare SUP productie'
+hero:
+  tagline: Fabriek
+  title: Fabriek & Productie
+  subtitle: 12.000 m² geïntegreerde productie — van grondstof tot afgewerkt board
+intro:
+  - >-
+    Als fabrieksmerk van **Qingdao Vatrad Group Co., Ltd.** controleert afarer elke fase van de productie — van de aankomst van ruw PVC en glasvezel tot de laatste keuring voor vertrek van het afgewerkte board. Onze productiefaciliteit in de Qingdao Economic Development Zone beslaat 12.000 vierkante
+    meter en huisvest speciale werkplaatsen voor PVC-snijden, buis heatsealing, FRP-malproductie, SUP-digitaal printen, eindmontage en kwaliteitstesten.
+  - >-
+    Door ontwerp, engineering, prototyping, productie en testen onder één dak te integreren, elimineren we de inefficiënties van contractproductie en behouden we directe controle over bouwkwaliteit, materiaalkeuze en levertijden. Elk board dat onze werkplaats verlaat, wordt gebouwd door onze mensen,
+    op onze apparatuur, volgens onze normen.
+stats:
+  - value: 12.000 m²
+    label: Productievloer
+  - value: 200+
+    label: Geschoolde werknemers
+  - value: 15.000+
+    label: Jaarlijks geproduceerde SUP-boards
+  - value: ISO 9001
+    label: Kwaliteit gecertificeerd
+intelligence_tagline: Fabrieksintelligentie
+intelligence_title: Verken Onze Fabricagemogelijkheden
+intelligence_cards:
+  - title: Productiecapaciteit
+    icon: C
+    icon_bg: blue
+    desc: Faciliteit van 12.000 m² die 15.000+ SUPs per jaar produceert op SUP-board- en veiligheidsuitrustingslijnen. 200+ medewerkers, 2 ploegen.
+    metrics:
+      - label: MOQ
+        value: 'SUP: 5–10'
+      - label: Levertijd
+        value: 30–45 dagen
+    link: /factory/capacity/
+    link_label: Volledige capaciteitsdetails →
+  - title: Kwaliteitslaboratorium & Testen
+    icon: Q
+    icon_bg: green
+    desc: 'Onafhankelijk QC-lab met 4 testfasen: grondstoffinspectie (treksterkte, scheur, UV), 24–48u drukvasthouding bij 1,25x nominale druk, naadpelting en belasting-/balansverificatie op elk board.'
+    metrics:
+      - label: Laboratoriumapparatuur
+        value: Trekbank, temperatuurkamer, lektank
+      - label: Normen
+        value: ISO 9001, CE, AS 1799
+    link: /factory/quality-lab/
+    link_label: Labprocedures & apparatuur →
+  - title: OEM/ODM-capaciteit
+    icon: O
+    icon_bg: purple
+    desc: 'End-to-end OEM/ODM-diensten: aangepaste malontwerp, private-label verpakking, aangepaste boardkleuren, dekgraphics (digitaal & zeefdruk) en drop-ship logistiek.'
+    metrics:
+      - label: Certificeringen
+        value: ISO 9001, BSCI, CE, REACH
+      - label: Verzending
+        value: FOB, CIF, DDP naar 50+ landen
+    link: /factory/oem-capability/
+    link_label: Volledige OEM-diensten →
+workshops_section:
+  tagline: Werkplaatsen
+  title: Productiewerkplaatsen
+  workshops:
+    - title: PVC Snijden & Materiaalvoorbereiding
+      description: Automatische CNC-snijmachines verwerken PVC- en drop-stitch stoffen met submillimeterprecisie. Computergeoptimaliseerd nesten minimaliseert materiaalverspilling en zorgt dat elk paneel voldoet aan zijn maatspecificatie vóór het lassen.
+      image: https://assets.afarer.com/images/afarer/hero/production-dept.webp
+    - title: Buislassen & Heatsealen
+      description: Speciale laswerkplaats met heatseal-machines en RF-dielektrische persen. Hetelucht heatsealers verbinden en versmelten PVC-buiskamers, terwijl RF-lassen hogesterkte-luchtdichte naden produceren die de EN ISO 25649-vereisten overtreffen.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    - title: FRP-mallen & Composietfabricage
+      description: Op maat gemaakte FRP-mallen voor SUP-componenten, geproduceerd met handlamineren van glasvezel met polyester- en vinylesterharssystemen. Elke laag wordt met de hand gerold en vacuümgezakt voor consistente kwaliteit. Een gelcoat-spuitcabine zorgt voor een hoogglanzende, UV-bestendige maritieme afwerking.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-warehouse-storage.webp
+    - title: SUP-printen & Decoratie
+      description: SUP-planken worden gedecoreerd met digitaal printen voor fullcolour graphics en zeefdruk voor logo's en herhalende patronen. Digitale printers produceren fotokwaliteit dekontwerpen, terwijl zeefdruk duurzame, levendige merktekens levert.
+      image: https://assets.afarer.com/images/afarer/products/sup-series/sup-medusa-glow-1-1200w.webp
+    - title: Eindmontage & Tuigage
+      description: Montagelijn waar drop-stitch-kernen worden afgewerkt met rails, EVA-dekken worden aangebracht en vinnen, kleppen en accessoires worden geïnstalleerd. Elk board volgt een 100-punts montagechecklist die wordt afgetekend door de teamleider.
+      image: https://assets.afarer.com/images/afarer/hero/factory-gate.webp
+    - title: Kwaliteitstesten & Keuring
+      description: Elk voltooid board ondergaat verplichte luchtretentietesten, naadpeelverificatie en een volledige systeemcontrole vóór verzending. Ons kwaliteitslaboratorium werkt onafhankelijk van de productie en rapporteert rechtstreeks aan het management.
+      image: https://assets.afarer.com/images/afarer/factory/afarer-pressure-testing.webp
+equipment_section:
+  tagline: Apparatuur
+  title: Belangrijkste Productieapparatuur
+  view_full: Bekijk volledige apparatuurlijst →
+  view_full_link: /factory/equipment/
+  items:
+    - name: Automatische PVC-snijmachine
+      spec: CNC-gestuurd, 0,1 mm nauwkeurigheid
+    - name: Heatseal-machine
+      spec: Hetelucht, 200–300 °C, voor buisverbinding
+    - name: RF-dielektrische laspers
+      spec: 15 kW, luchtdicht naadlassen
+    - name: Glasvezel handlamineer mallen
+      spec: SUP-rompen tot 6 m
+    - name: Digitale printer
+      spec: Fullcolour SUP-dekgraphics
+    - name: Zeefdrukmachine
+      spec: Meerkleurig logoprinten
+qc_section:
+  tagline: Kwaliteitscontrole
+  title: Test- & Kwaliteitsborgingsproces
+  subtitle: Elk board ondergaat verplichte testen vóór verzending. Ons kwaliteitslaboratorium werkt onafhankelijk van de productie en rapporteert rechtstreeks aan het management.
+  steps:
+    - step: '1'
+      title: Grondstoffenkeuring
+      desc: PVC- en drop-stitch stoffen ondergaan trekproeven (ASTM D751), scheurpropagatie en UV-bestendigheidsverificatie voordat een partij in productie gaat.
+    - step: '2'
+      title: 24–48-uurs Luchtretentietest
+      desc: Elke buiskamer wordt opgeblazen tot 125% van de nominale druk en 24–48 uur vastgehouden. Drukdaling van meer dan 5% leidt automatisch tot afkeuring en naadherkeuring.
+    - step: '3'
+      title: Laad- & Balanstest
+      desc: Voltooide boards worden beladen tot maximale nominale capaciteit en getest op stabiliteit en stijfheid. Elk board wordt watergetest vóór de eindkeuring.
+oem_section:
+  tagline: OEM-projecten
+  title: Merk- & OEM-partnerschap Casestudies
+  subtitle: Van concept tot container — hoe we wereldwijde merken helpen hun lijnen van opblaasbare vaartuigen te lanceren en schalen.
+  cases:
+    - challenge: Een Europese outdoor retailer had een private-label SUP-lijn nodig met unieke dek graphics, milieuvriendelijk PVC en retail-ready verpakking — alles geleverd in 60 dagen.
+      solution: Ontwikkelde aangepaste digitale printbestanden, betrok REACH-conform PVC en verkortte sampling van 3 rondes naar 1 door het designteam op onze Qingdao-fabriek te plaatsen.
+      result: 55 dagen van getekende PO tot FOB. 2.400 eenheden verspreid over 4 SKU's. Herhalingsorder geplaatst vóór aankomst van de eerste container.
+    - challenge: Een Amerikaanse watersportstartup had een hoogwaardige drop-stitch SUP nodig met een aangepaste rompvorm, co-branded verpakking en BSCI-certificering voor retailplaatsing.
+      solution: Paste de bestaande drop-stitch SUP-mal aan met een gewijzigd rockerprofiel, ontwikkelde co-branded verpakkings artwork en leverde volledige BSCI-auditdocumentatie.
+      result: Succesvol vermeld in 3 grote Amerikaanse outdoor-ketens. 5.000+ eenheden in het eerste jaar met 98% sell-through.
+    - challenge: Een Australische distributeur had een CE-gecertificeerd SUP-assortiment nodig met aangepaste kleuren en naleving van de Australische normen.
+      solution: Produceerde preproductiemonsters met 4 kleurvarianten en coördineerde externe nalevingstesten.
+      result: 3-model SUP-assortiment gelanceerd in de AU/NZ-markt. Gevolgd door een overheidsaanbesteding voor 12 patrouille-SUP's.
+faq_section:
+  tagline: Veelgestelde vragen
+  title: B2B & OEM Veelgestelde Vragen
+  questions:
+    - q: Wat is de minimale bestelhoeveelheid (MOQ) voor OEM opblaasbare SUP-planken?
+      a: MOQ begint bij 5–10 eenheden voor standaard OEM-modellen. Aangepaste mallen en private-label projecten vereisen minimaal 200 eenheden, afhankelijk van de complexiteit. Proefbestellingen en voorbeeldruns zijn beschikbaar voor nieuwe merkintroducties.
+    - q: Heeft afarer een BSCI-certificering?
+      a: Ja. Onze fabriek beschikt over een geldige BSCI sociale nalevingscertificering (auditrapport op verzoek beschikbaar). We hebben ook ISO 9001 voor kwaliteitsmanagement en alle producten hebben CE-certificering. REACH- en RoHS-nalevingsdocumentatie wordt bij elke OEM-zending geleverd.
+    - q: Wat is de typische levertijd voor een OEM-bestelling?
+      a: De standaardlevertijd is 30–45 dagen na bevestigde order en aanbetaling voor serie-OEM-productie. De ontwikkeling van aangepaste mallen voegt 15–20 dagen voor gereedschapsbouw toe. Versnelde productie is beschikbaar voor dringende orders en seizoenspieken. Prototype-monsters worden doorgaans binnen 15–20 dagen verzonden.
+    - q: Kunt u FOB Qingdao of CIF naar onze haven verzenden?
+      a: Ja. We verzenden FOB Qingdao, CIF naar grote wereldhavens en DDP voor gekwalificeerde partners. Ons logistieke team beheert containerboekingen, exportdocumentatie en douaneafhandeling. We verzenden naar 50+ landen in de EU, VS, AU en Azië.
+b2b_moq: 'Standaard MOQ: 5–10 eenheden per model (SUP/drop-stitch). SUP MOQ: 2–5 eenheden. Proefbestellingen welkom voor nieuwe samenwerkingen.'
+production_flow:
+  tagline: Productiestroom
+  title: Van materiaal tot afgewerkt board
+  subtitle: Elk board doorloopt 6 productiefasen met kwaliteitscontrolepunten bij elke stap. Geen kortere routes, geen overgeslagen inspecties.
+  stages:
+    - stage: '01'
+      title: Materiaalontvangst & inkomende kwaliteitscontrole
+      description: Alle binnenkomende materialen worden per batch/lotsnummer geregistreerd in ons ERP-systeem. PVC-stofrollen, drop-stitch-cores, kleppen, lijmen en hardware worden in quarantaine geplaatst totdat de QC goedkeuring geeft.
+      qc_check: Treksterkte (ASTM D751), scheurweerstand (ISO 4674), diktemaat, lijmviscositeit, visuele defectinspectie
+      qc_threshold: 100% van de batches getest. Afkeuren als de treksterkte < 90% van de specificatie, scheur < specificatie minimum, of enig visueel defect
+      responsibility: Binnenkomend QC-team (3 inspecteurs)
+    - stage: '02'
+      title: CNC-snijden & materiaalvoorbereiding
+      description: Computer-geoptimaliseerde nesting legt panelen op PVC-voorraad om afval te minimaliseren. Automatische CNC-snijdmachines behouden een positionele nauwkeurigheid van 0,1 mm.
+      qc_check: Dimensionale controle tegen CAD DXF-bestanden, controle van randkwaliteit, verificatie van het aantal panelen
+      qc_threshold: Elke 20e paneel gemeten. Tolerantie ±0,5 mm. Afkeur batch als >2% buiten toleranties
+      responsibility: Leidinggevende snijwerkplaats
+    - stage: '03'
+      title: Lassen & Drop-stitch bevestiging
+      description: Drop-stitch-kernen worden met hittegelaminering aan buitenste PVC-laminaten verbonden. Buiskamers worden RF-gelast of hete-lucht gelast. Railbanden zijn drievoudig gelamineerd door fusie.
+      qc_check: Peeltest elke 50 eenheden (ASTM D751), lasbreedtemeting, beoordeling van het logboek van de hete-lucht temperatuur, visuele naadinspectie onder tegenlicht
+      qc_threshold: Hechtsterkte minimaal 8 N/cm. Lastebreedte tolerantie ±1 mm. Elke zichtbare kanaalvorming = afkeuren
+      responsibility: Lassen QC (2 inspecteurs per ploeg)
+    - stage: '04'
+      title: Montage & Touwen
+      description: 'Boards gaan naar de eindassemblage waar alle componenten worden samengevoegd: rails gelijmd en gelast, kleppen geïnstalleerd, D-ringen, handvatten, vindozen en draagtasbevestiging. Elke eenheid volgt een assemblagechecklist van 100 punten.'
+      qc_check: 100-punten checklist goedkeuring per eenheid, klepfunctietest (10 open/sluit cycli), hardware koppelcontrole, visuele inspectie
+      qc_threshold: 'Zero-defect beleid voor veiligheidkritieke onderdelen (kleppen, D-ringen, handvatten). Kleine cosmetische gebreken: AQL 2,5 (ISO 2859)'
+      responsibility: Leidinggevende assemblageteam + lijn QC
+    - stage: '05'
+      title: Druktesten & Kwaliteitsbehoud
+      description: Elke kamer wordt opgeblazen tot 1,25× de nominale druk (meestal 20–25 PSI) en gedurende 24–48 uur vastgehouden. Druksensoren registreren continu. Kamers die een drukval van meer dan 5% vertonen, worden afgekeurd en ter herinspectie van de naden gestuurd.
+      qc_check: 24–48uurs drukvasthoudingslog, sensorcalibratie dagelijks geverifieerd, temperatuurgecompenseerde drukmeting, na reparatie opnieuw naden testen
+      qc_threshold: Maximaal 5% drukverlies over 24–48 uur bij een stabiele temperatuur. Elke kamer die dit overschrijdt = 100% her-test van de gehele productiebatch
+      responsibility: Kwaliteitslaboratorium (onafhankelijk van productie, rapporteert aan het management)
+    - stage: '06'
+      title: Eindinspectie & Verpakking
+      description: Eindvisuele en functionele inspectie. Oppervlaktefouten, kleurconsistentie, label/BIN-verificatie, verpakkingintegriteit en volledigheid van accessoires. Eenheden zijn vacuüm verpakt, in dozen geplaatst en op pallets gezet voor containerlading.
+      qc_check: Volledige visuele inspectie, accessoirecontrolelijst per SKU, verpakkingsvaltest (1 m, willekeurige steekproef), label-/streepjescodescanverificatie
+      qc_threshold: AQL 2,5 voor grote gebreken, AQL 4,0 voor kleine gebreken. Nultolerantie voor veiligheidsgebreken. 100% van de eenheden visueel geïnspecteerd
+      responsibility: Eind-QC team (4 inspecteurs) + Verpakkingsploeg leider
+workforce:
+  tagline: Ons Volk
+  title: Werknemersbestand & Expertise
+  engineers: '25+'
+  engineers_detail: Ingenieurs in R&D, matrijzenontwerp, materialenlaboratorium en productie-engineering. Gemiddeld 7 jaar ervaring in opblaasbare productie.
+  shift_pattern: 2 diensten per dag (07:00–15:30, 15:30–00:00). Optionele nachtdienst voor dringende bestellingen.
+  training: Maandelijkse QC-training, driemaandelijkse veiligheidsoefeningen, jaarlijkse vaardigheidstoets. Nieuwe medewerkers voltooien een introductie van 40 uur voordat ze op de productielijn werken.
+  departments:
+    - name: R&D & Engineering
+      count: '25+'
+      role: Productontwerp, matrijzenengineering, materialenlab
+    - name: Cutting & Material Prep
+      count: 15
+      role: CNC-snijden, paneelvoorbereiding, materiaalbehandeling
+    - name: Welding & Lamination
+      count: 40
+      role: RF-lassen, hete-luchtlassen, drop-stitch verbinding
+    - name: SUP Core Bonding
+      count: 30
+      role: Drop-stitch laminering, warmtebinding, railbandfusie
+    - name: Assembly & Rigging
+      count: 35
+      role: Eindmontage, hardware-installatie, systeemcontrole
+    - name: Quality Control
+      count: 12
+      role: Inkomende QC, in-proces QC, eindinspectie, labtesten
+    - name: Logistics & Packing
+      count: 20
+      role: Verpakking, laden van containers, exportdocumentatie
+    - name: Management & Admin
+      count: 15
+      role: Verkoop, inkoop, HR, financiën, naleving
+material_traceability:
+  tagline: Traceerbaarheid
+  title: Materiaaltracking & Batchcontrole
+  description: >-
+    Elke partij grondstof krijgt een uniek lotnummer toegewezen in ons ERP-systeem. Van aankomst tot productie en het eindproduct, koppelt de stuklijst van elke batch terug naar de oorspronkelijke leverancierspartij. Dit maakt volledige traceerbaarheid stroomopwaarts mogelijk voor elke kwaliteits-
+    of nalevingsvraag.
+  system: Op maat gemaakte ERP (intern systeem van Qingdao Vatrad Group) + fysieke batchlabels op elke werkorder
+  coverage: 100% van de productiematerialen — PVC, drop-stitch stof, lijmen, ventielen, hardware, verpakking
+  records_retained: 10 jaar (volgens CE 2013/53/EU vereiste)
+  suppliers:
+    - material: Marineklasse PVC
+      source: Chinese en Koreaanse leveranciers
+      certified: ISO 9001, REACH, RoHS
+    - material: Drop-stitch stof
+      source: Interne weving + externe partner
+      certified: Interne QC leverancier ISO 9001
+    - material: Kleppen & Hardware
+      source: Chinese OEM-leveranciers
+      certified: ISO 9001, materiaalc ertificaten per batch
+qc_dashboard:
+  tagline: QC in cijfers
+  title: Kwaliteitscontrolemaatregelen
+  subtitle: Echte slaag-/faalgegevens van onze productielijn. Ons kwaliteitslab werkt onafhankelijk van de productie en rapporteert rechtstreeks aan het management.
+  stats:
+    - value: 100%
+      label: Eenheden drukgetest
+      detail: Elk board, elke kamer, elke batch
+    - value: <5%
+      label: Maximaal toelaatbare drukval
+      detail: Over 24–48 uur bij 1,25× de nominale druk
+    - value: AQL 2,5
+      label: Drempelwaarde voor groot defect
+      detail: Volgens ISO 2859-staalmethode
+    - value: 24–48u
+      label: Druk vasthoudtijd
+      detail: Afhankelijk van de productcategorie
+    - value: 1,25×
+      label: Testdruk versus nominale druk
+      detail: Veiligheidsmarge op elke kamer
+    - value: 0%
+      label: Tolerantie voor veiligheidsgebreken
+      detail: Kleppen, D-ringen, naden, drijfvermogen
+process_cta:
+  title: Bekijk ons productieproces
+  desc: Volg een board door elke productiefase — van grondstof tot waterklaar board.
+  label: Bekijk productieproces →
+  link: /factory/process/

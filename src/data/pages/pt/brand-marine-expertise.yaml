@@ -1,0 +1,72 @@
+meta:
+  title: 'Especialização Marítima — Engenharia em Cada Casco | {SITE}'
+  description: 'Décadas de engenharia marítima em cada casco. A afarer domina drop stitch, PVC marinho e design profissional de SUP inflável.'
+  keywords:
+    - 'engenharia marítima'
+    - 'fabricante de SUP inflável'
+    - 'fabricação de paddle board'
+hero:
+  tagline: Especialização Marítima
+  title: Décadas de Engenharia Marítima<br />em Cada Casco
+  subtitle: A afarer combina ciência profunda dos materiais, fabricação de precisão e testes em condições reais para produzir embarcações que performam quando importa.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: uma equipe de engenharia marítima e P&D da Afarer em trabalho
+expertise_materials:
+  tagline: Ciência dos Materiais
+  title: Escolher o Material Certo<br />para Cada Aplicação
+  subtitle: Trabalhamos com dois materiais principais – cada um selecionado para casos de uso específicos e requisitos de desempenho.
+  columns: 3
+  items:
+    - title: PVC Grau Marinho
+      description: Tecido de PVC 1100 denier — nosso material mais versátil. Estabilizado contra UV, resistente à abrasão e em conformidade com o REACH. Ideal para pranchas SUP onde peso e eficiência de custos importam.
+      icon: tabler:droplet
+    - title: Fibra de Vidro e Polietileno
+      description: SUPs laminados em fibra de vidro para rigidez e deslize premium. Polietileno rotomoldado para uso intensivo de aluguel e resgate que requer máxima resistência a impacto.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Capacidades de Fabricação
+  title: Fabricação de Precisão<br />em Cada Etapa
+  subtitle: Nossa instalação de 12.000 m² é equipada com máquinas especializadas.
+  columns: 2
+  items:
+    - title: Corte CNC
+      description: O corte controlado por computador garante painéis precisos e repetíveis.
+      icon: tabler:cpu
+    - title: Soldagem de Alta Frequência
+      description: A soldagem HF industrial cria juntas mais fortes que o material base.
+      icon: tabler:bolt
+    - title: Montagem do Núcleo de Ponto Solto
+      description: Milhares de fios de poliéster conectam camadas para inflação de alta pressão (15-20 PSI).
+      icon: tabler:building-arch
+    - title: Teste de Pressão
+      description: Cada produto inflável é testado sob pressão antes do envio.
+      icon: tabler:wind
+    - title: Teste de Resistência da Costura
+      description: Amostras aleatórias passam por testes destrutivos de resistência.
+      icon: tabler:files
+    - title: Teste de Água
+      description: Cada modelo SUP passa por testes de mar antes da certificação.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Design e Engenharia
+  title: Projetado para Condições Reais
+  subtitle: Nossa filosofia de design começa com como a prancha será usada — e depois constrói a engenharia em torno desse caso de uso.
+  items:
+    - title: Design de Casco de Desempenho
+      description: Cada formato de casco é ajustado para seu caso de uso — proas de deslocamento para deslize em touring, mais rocker para agilidade no surfe, perfis planos e estáveis para pesca e yoga.
+    - title: Segurança Drop-Stitch
+      description: Cada prancha possui um núcleo drop-stitch rígido com bordas reforçadas. Se uma seção for danificada, a estrutura drop-stitch de alta resistência à tração mantém a prancha operacional.
+    - title: Layout Ergonômico do Deck
+      description: O zoneamento do deck pad, a posição da alça de transporte e os pontos de montagem são projetados para o conforto do praticante durante uso prolongado — seja em touring, pesca ou patrulha.
+    - title: Configuração Personalizada
+      description: Cores das bordas, configuração do deck pad, suportes para acessórios, capacidade de carga – cada modelo pode ser personalizado para corresponder a requisitos operacionais específicos.
+cta:
+  title: Tem uma aplicação específica?
+  subtitle: Nossa equipe de engenharia aconselha sobre materiais, design e fabricação.
+  actions:
+    - variant: primary
+      text: Pergunte aos nossos engenheiros
+      href: /contact/
+    - text: Ver gama de produtos
+      href: /products/

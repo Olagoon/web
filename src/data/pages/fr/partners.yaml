@@ -1,0 +1,72 @@
+meta:
+  title: 'Partenaires — Distribution & Grossiste | {SITE}'
+  description: 'Rejoignez le réseau de distribution afarer : distributeurs, grossistes et importateurs de SUP gonflables. Conditions avantageuses et portefeuille complet.'
+  keywords:
+    - 'partenaire afarer'
+    - 'réseau distribution'
+    - 'grossiste paddle gonflable'
+    - 'importateur paddle gonflable'
+hero:
+  tagline: Partenaires et Distribution
+  title: Devenez Partenaire afarer<br />— Réseau de Distribution Mondial
+  subtitle: Rejoignez le réseau mondial d'afarer. Nous collaborons avec des distributeurs maritimes, des concessionnaires nautiques, des détaillants d’équipements et des partenaires de marque dans plus de 50 pays.
+  image:
+    src: https://assets.afarer.com/images/afarer/partners/partners-hero.webp
+    alt: réseau mondial de partenaires et de distributeurs afarer
+content_programs:
+  tagline: Programmes Partenaires
+  title: Programmes Partenaires<br />Conçus pour la Croissance
+  subtitle: Distributeur, revendeur ou partenaire de marque, afarer propose des programmes adaptés à votre activité.
+  columns: 3
+  items:
+    - title: Programme Distributeur
+      description: Distribution exclusive avec tarifs dégressifs, support marketing et accès direct à l'usine. Engagement minimum selon le territoire.
+      icon: tabler:world
+    - title: Programme Revendeur
+      description: Tarifs revendeur, formation produit, supports marketing et garantie pour magasins et boutiques en ligne.
+      icon: tabler:building-store
+    - title: Partenariat OEM/ODM
+      description: Fabrication OEM/ODM complète avec marque, emballage et spécifications personnalisés. Du concept au conteneur.
+      icon: tabler:certificate
+    - title: Partenariat de Marque
+      description: Co-marquage, marque blanche et modèles exclusifs pour les marques établies du nautisme et des loisirs.
+      icon: tabler:stars
+    - title: Gouvernement et Institutionnel
+      description: Programmes fournisseur privilégié pour agences gouvernementales, garde-côtes et organisations humanitaires.
+      icon: tabler:building-community
+    - title: Partenaire Resort et Location
+      description: Tarifs flotte, qualité constante et marque personnalisée pour resorts et centres de plongée du monde entier.
+      icon: tabler:sun
+content_benefits:
+  tagline: Pourquoi Devenir Partenaire
+  title: Pourquoi les Partenaires Choisissent afarer
+  subtitle: Nos partenaires bénéficient d'une capacité de fabrication réelle, d'une qualité constante et d'un support réactif.
+  list:
+    - "Accès direct à l'usine : travaillez directement avec notre équipe — sans intermédiaires."
+    - 'Personnalisation prête : marquez vos produits avec vos couleurs, logos et spécifications.'
+    - 'Qualité garantie : production certifiée ISO 9001 avec conformité CE, UKCA et BSCI.'
+    - 'Logistique mondiale : expédition de Qingdao en FOB, CIF ou DDP. Entrepôt US en Californie.'
+    - 'Support marketing : catalogues, photos, documentation technique et actifs numériques.'
+    - 'Formation et support : formation produit, support technique et coordination de la garantie.'
+content_process:
+  tagline: Comment Devenir Partenaire
+  title: Processus de Partenariat Simple
+  subtitle: Notre processus est simple — conçu pour vous permettre de vendre rapidement.
+  items:
+    - title: 'Étape 1 : Soumettre une Candidature'
+      description: Remplissez notre formulaire avec votre profil d'entreprise et vos centres d'intérêt.
+    - title: 'Étape 2 : Examen de Qualification'
+      description: Notre équipe examine votre candidature et vous contacte sous 3 jours ouvrés.
+    - title: 'Étape 3 : Accord et Configuration'
+      description: Signez l'accord, configurez votre compte et recevez tarifs, supports et échantillons.
+    - title: 'Étape 4 : Formation et Lancement'
+      description: Formation produit, support commercial et documentation fournis. Prêt à vendre.
+cta:
+  title: Prêt à devenir partenaire afarer ?
+  subtitle: Postulez et notre équipe répondra sous 3 jours ouvrés.
+  actions:
+    - variant: primary
+      text: Postuler comme partenaire
+      href: /contact/
+    - text: Voir nos produits
+      href: /products/

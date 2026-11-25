@@ -1,0 +1,111 @@
+meta:
+  title: Tatil Köyü SUP Filo Çözümleri | {SITE}
+  description: Tatil köyleri ve oteller için eksiksiz SUP filo çözümleri. Ticari sınıf boardlar, özel markalama, personel eğitimi ve 20'den 100+ boarda kadar yatırım getirisi optimizeli paketler.
+hero:
+  tagline: Tatil Köyleri ve Oteller
+  title: Su kenarınızı bir gelir merkezine dönüştürün<br />premium SUP filolarıyla
+  subtitle: Afarer, dünyadaki tatil köylerini ticari kalitede şişme SUP filolarıyla donatır — 20 tahtalık başlangıç paketlerinden 100+ tahtalık amiral programlarına kadar. Marka özelleştirmesi, personel eğitimi ve yedek parçalar dahildir.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: Bozulmamış bir plajda SUP keyfi yapan tatil köyü misafirleri
+roi_section:
+  title: Tatil Köyü SUP Gelir Modeli
+  subtitle: Tek bir yatırımla tatil köylerinin nasıl 50.000$ - 200.000$+ yıllık SUP kira geliri elde ettiğini öğrenin.
+  metrics:
+    - metric: $50K–$200K+
+      label: Yıllık SUP Geliri
+      detail: Tesis başına, filo boyutuna ve doluluk oranına göre
+    - metric: 4–6 Ay
+      label: Ortalama Geri Ödeme Süresi
+      detail: Tüm filo yatırımını bir sezon içinde geri kazanın
+    - metric: 40%
+      label: Gelir Artışı
+      detail: Afarer filolarına geçişten sonra ortalama artış
+    - metric: 500+
+      label: Board Başına Kiralama Döngüsü
+      detail: Günlük kullanım için ticari düzeyde dayanıklılık
+packages:
+  title: Tatil Köyü Paket Sistemi
+  subtitle: Misafir kapasitenize ve gelir hedeflerinize uygun paketi seçin. Tüm paketler 12 ay garanti ve CE sertifikası içerir.
+  items:
+    - name: Başlangıç Paketi
+      tagline: Butik tatil köyleri için, günde 20 misafire kadar
+      features:
+        - 20 SUP tahtası (yetişkinler/çocuklar için 3 boyut)
+        - 20 kürek (ayarlanabilir) + 20 can yeleği
+        - 4 çift etkili pompa (elektrikli opsiyonel)
+        - 2 saklama rafı + tamir kiti
+        - Tahtalarda özel logo baskısı
+        - 12 ay garanti + CE sertifikalı
+      revenue: $50K–$80K yıllık gelir potansiyeli
+      cta_text: Başlangıç Paketini Alın
+    - name: Premium Paketi
+      tagline: Büyük tatil köyleri için, günde 50-100 misafir
+      features:
+        - 50 SUP tahtası (5 boyut, karma filo)
+        - 50 kürek + 50 can yeleği
+        - 10 çift etkili pompa + 2 elektrikli pompa
+        - 5 saklama rafı + 2 el arabası
+        - Tam marka özelleştirmesi (tahtalar, kürekler, çantalar)
+        - Personel eğitimi oturumu (çevrimiçi)
+        - 48 saat içinde yedek parça sevkiyatı
+        - 12 ay garanti + CE sertifikalı
+      revenue: $120K–$200K+ yıllık gelir potansiyeli
+      popular: true
+      cta_text: Premium Paketi Alın
+    - name: Bayrak Ürün Paketi
+      tagline: Ultra premium tatil köyleri için, günde 100+ misafir
+      features:
+        - 100+ SUP tahtası (tam boyut yelpazesi)
+        - Eksiksiz aksesuar seti (kürekler, yelekler, pompalar, arabalar)
+        - Yerinde personel eğitimi (2 gün)
+        - Özel hesap yöneticisi
+        - Öncelikli yedek parçalar (24 saat sevkiyat)
+        - Tam marka özelleştirmesi (tahtalar + aksesuarlar)
+        - Pazarlama fotoğraf/video paketi
+        - 24 ay garanti + CE sertifikalı
+      revenue: 200K$+ yıllık gelir potansiyeli
+      cta_text: Bayrak Ürün Paketini Edinin
+case_study:
+  quote: Afarer'e geçtiğimizden beri SUP kira gelirimiz %40 arttı. Panel yenileme maliyetleri %60 düştü. Tam filo yatırımımızı 4 ayda geri kazandık.
+  author: Su Aktiviteleri Yöneticisi
+  location: 5 yıldızlı tatil köyü, Maldivler
+  results:
+    - label: Gelir Büyümesi
+      value: +40%
+    - label: Maliyet Azaltma
+      value: '-%60'
+    - label: Geri Ödeme Süresi
+      value: 4 Ay
+features:
+  title: Tatil Köyleri Neden Afarer'i Seçiyor
+  subtitle: Ticari sınıf dayanıklılık, küresel lojistik ve konukseverliği anlayan bir ortak.
+  items:
+    - title: 500+ Kiralama Döngüsü
+      description: Her tahta tuzlu su, güneş ve kumda 500+ kiralama döngüsüne dayanacak şekilde test edilir.
+      icon: tabler:shield-check
+    - title: 48 Saat Parça Sevkiyatı
+      description: Yedek parçalar 48 saat içinde sevk edilir — kira geliriniz hiç durmaz.
+      icon: tabler:truck-delivery
+    - title: Özel Markalama
+      description: Her boardda özel renkler ve logo ile resort kimliğinize uyum sağlayın.
+      icon: tabler:palette
+    - title: Personel Eğitimi
+      description: Etkinlik ekibiniz için çevrimiçi ve yerinde eğitim programları.
+      icon: tabler:school
+    - title: Küresel Lojistik
+      description: Birleşik nakliye seçenekleriyle 50'den fazla ülkeye gönderim.
+      icon: tabler:world
+    - title: CE Sertifikalı
+      description: Tüm ekipmanlar CE sertifikalı, ISO 9001:2015 — güvenlik ve kalite garanti edilir.
+      icon: tabler:certificate
+cta:
+  title: Su kenarınızı bir gelir merkezine dönüştürmeye hazır mısınız?
+  subtitle: Tesis paketi teklifinizi alın veya eksiksiz tesis kataloğumuzu indirin.
+  actions:
+    - text: Tatil Köyü Paketini Alın
+      href: /contact/?package=resort
+      variant: primary
+    - text: Tatil Köyü Kataloğunu İndirin
+      href: /resources/download-catalog/
+      variant: secondary

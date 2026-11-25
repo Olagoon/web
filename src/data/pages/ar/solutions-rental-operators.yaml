@@ -1,0 +1,66 @@
+meta:
+  title: حلول أساطيل تأجير ألواح SUP | {SITE}
+  description: ألواح SUP عالية الدوران مصممة للاستخدام اليومي في التأجير. PVC مقاوم للأشعة فوق البنفسجية، ولحامات معززة، ومواد سريعة الجفاف. وسّع أعمال التأجير الخاصة بك مع Afarer.
+hero:
+  tagline: مشغلو التأجير
+  title: وسّع نشاطك الإيجاري<br />بالثقة
+  subtitle: ألواح SUP عالية التناوب صُممت للاستخدام اليومي في التأجير طوال 365 يومًا في السنة. إيراداتك لا تأخذ يوم عطلة.
+  image:
+    src: https://assets.afarer.com/images/afarer/lifestyle/afarer-lifestyle-1.webp
+    alt: كشك تأجير نشط بألواح SUP جاهزة للنزلاء
+features:
+  title: مصمم ليتحمل ضغط التأجير
+  subtitle: كل لوح هندسيًا مصمم لأكثر من 500 دورة تأجير بأقل صيانة ممكنة.
+  items:
+    - title: 500+ دورة تأجير
+      description: مختبرة لتحمل الاستخدام اليومي في المياه المالحة والشمس والرمال.
+      icon: tabler:shield-check
+    - title: قماش مقاوم للأشعة فوق البنفسجية
+      description: لا بهتان ولا تدهور بعد عام واحد من التخزين في الهواء الطلق.
+      icon: tabler:sun
+    - title: لحامات مدعمة
+      description: أقوى بثلاث مرات من تصنيع الألواح القابلة للنفخ القياسية.
+      icon: tabler:layers-intersect
+    - title: مواد سريعة الجفاف
+      description: ألواح جاهزة للإيجار التالي في أقل من 30 دقيقة.
+      icon: tabler:droplet
+    - title: تخزين قابل للتكديس
+      description: تصميم موفر للمساحة — خزّن ألواحًا أكثر بنسبة 40% في المساحة نفسها.
+      icon: tabler:stack
+    - title: مقاسات مرمّزة بالألوان
+      description: يلتقط الموظفون اللوح المناسب فوراً بفضل مقاسات مرمّزة بالألوان.
+      icon: tabler:color-swatch
+stats:
+  title: مؤشرات التشغيل
+  stats:
+    - title: معدل استبدال الألواح
+      amount: < 5 دقائق
+    - title: الصيانة السنوية
+      amount: ~15 دقيقة/لوح
+    - title: شحن القطع
+      amount: 48h
+    - title: معدل العيوب
+      amount: < 0.5%
+fleet_guide:
+  title: دليل تحديد حجم الأسطول
+  subtitle: قدّر حجم الأسطول والعائد المحتمل لنشاط التأجير لديك.
+  tiers:
+    - label: كشك صغير
+      boards: 15-20
+      revenue: $XX,XXX/yr
+    - label: منشأة متوسطة الحجم
+      boards: 30-50
+      revenue: $XX,XXX/yr
+    - label: تأجير شاطئي كبير
+      boards: 50-100
+      revenue: $XXX,XXX/yr
+cta:
+  title: هل أنت مستعد لتوسيع أعمال التأجير لديك؟
+  subtitle: احصل على أسعار التأجير أو قارن بين موديلات الألواح المناسبة لعملك.
+  actions:
+    - text: احصل على أسعار التأجير
+      href: /contact/?package=rental
+      variant: primary
+    - text: قارن موديلات الألواح
+      href: /compare/
+      variant: secondary

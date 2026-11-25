@@ -1,0 +1,22 @@
+meta:
+  title: 'Revista — Artigos e Guias Náuticos | {SITE}'
+  description: 'A revista afarer: artigos e guias sobre SUPs infláveis, paddle boarding e a indústria náutica.'
+  keywords:
+    - 'revista de SUP'
+    - 'artigos de paddle board'
+    - 'blog de SUP inflável'
+    - 'guias náuticos'
+hero:
+  title: O diário afarer
+  subtitle: Últimas notícias, aventuras náuticas e histórias de produtos da equipa afarer.
+latest:
+  tagline: Último
+  title: Guias e Comparações
+  browse_all: Navegar por todos os 20 →
+  read: Ler →
+social_section:
+  tagline: Conteúdo × Social
+  title: Cada guia se torna 5 postagens sociais
+  subtitle: TikTok · Instagram · X · Pinterest · Reddit — de todos os artigos.
+  pipeline_cta: Pipeline Social →
+  guides_cta: Navegar por Guias

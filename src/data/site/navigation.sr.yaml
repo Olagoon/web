@@ -1,0 +1,141 @@
+header:
+  topBar: []
+  links:
+    - text: Производи
+      links:
+        - text: SUP даске
+          href: /inflatable-sup/
+        - text: Вишенаменске SUP
+          href: /all-around-sup/
+        - text: Туринг SUP
+          href: /touring-sup/
+        - text: Јога SUP
+          href: /yoga-sup/
+        - text: Дечје SUP
+          href: /kids-sup/
+        - text: Риболовне SUP
+          href: /fishing-sup/
+        - text: SUP за дивље воде
+          href: /whitewater-sup/
+        - text: Ултра стабилне SUP
+          href: /ultra-stable-sup/
+        - text: Опрема
+          href: /sup-accessories/
+    - text: Према намени
+      links:
+        - text: За почетнике
+          href: /use-cases/beginner/
+        - text: Туринг & даљине
+          href: /use-cases/touring/
+        - text: 'Риболов на SUP-у'
+          href: /use-cases/fishing/
+        - text: Породична рекреација
+          href: /use-cases/family-recreation/
+        - text: Речни спустови
+          href: /use-cases/river-touring/
+        - text: Туризам & рекреација
+          href: /use-cases/tourism-recreation/
+        - text: Све намене
+          href: /use-cases/
+    - text: Откријте Afarer
+      links:
+        - text: Зашто Afarer
+          href: /afarer-story/
+        - text: Технологија и материјали
+          href: /technology/
+        - text: Квалитет и безбедност
+          href: /quality/
+        - text: Приче и водичи
+          href: /journal/
+        - text: О Afarer
+          href: /about/
+    - text: Подршка
+      links:
+        - text: Гаранција и рекламације
+          href: /warranty/
+        - text: FAQ
+          href: /faq/
+        - text: Преузимања и приручници
+          href: /resources/download-catalog/
+        - text: Контактирајте подршку
+          href: /contact/
+  actions:
+    - text: Где купити
+      href: /where-to-buy/
+      variant: primary
+footer:
+  links:
+    - title: Производи
+      links:
+        - text: SUP даске
+          href: /inflatable-sup/
+        - text: Вишенаменске SUP
+          href: /all-around-sup/
+        - text: Туринг SUP
+          href: /touring-sup/
+        - text: Јога SUP
+          href: /yoga-sup/
+        - text: Дечје SUP
+          href: /kids-sup/
+        - text: Риболовне SUP
+          href: /fishing-sup/
+        - text: SUP за дивље воде
+          href: /whitewater-sup/
+        - text: Ултра стабилне SUP
+          href: /ultra-stable-sup/
+        - text: Опрема
+          href: /sup-accessories/
+    - title: Откријте Afarer
+      links:
+        - text: Зашто Afarer
+          href: /afarer-story/
+        - text: Технологија и материјали
+          href: /technology/
+        - text: Квалитет и безбедност
+          href: /quality/
+        - text: Приче и водичи
+          href: /journal/
+        - text: О Afarer
+          href: /about/
+    - title: Подршка
+      links:
+        - text: Где купити
+          href: /where-to-buy/
+        - text: Гаранција и рекламације
+          href: /warranty/
+        - text: FAQ
+          href: /faq/
+        - text: Преузимања и приручници
+          href: /resources/download-catalog/
+        - text: Контактирајте подршку
+          href: /contact/
+    - title: За пословне партнере
+      links:
+        - text: Заједнички бренд са Afarer
+          href: /co-brand/
+        - text: За клубове и одмаралишта
+          href: /solutions/resorts-hotels/
+        - text: За малопродајне партнере
+          href: /solutions/retail-partners/
+        - text: Пронађите дистрибутера
+          href: /distributor-program/
+        - text: За дистрибутере
+          href: /solutions/distributors/
+  secondaryLinks:
+    - text: Услови
+      href: /terms/
+    - text: Политика приватности
+      href: /privacy/
+    - text: Медицинска изјава
+      href: /disclaimer/
+  socialLinks:
+    - text: YouTube
+      href: https://www.youtube.com/@afarer
+    - text: X
+      href: https://x.com/afarer
+    - text: Instagram
+      href: https://www.instagram.com/afarer_watersports/
+    - text: Facebook
+      href: https://www.facebook.com/profile.php?id=61572404318679
+    - text: RSS
+      href: /rss.xml

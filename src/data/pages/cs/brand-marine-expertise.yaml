@@ -1,0 +1,72 @@
+meta:
+  title: 'Námořní odbornost — technika v každém trupu | {SITE}'
+  description: 'Desítky let námořní techniky v každém trupu. afarer ovládá konstrukci drop stitch, námořní PVC a profesionální návrh nafukovacích SUP prken.'
+  keywords:
+    - 'námořní technika'
+    - 'výrobce nafukovacích SUP prken'
+    - 'výroba paddleboardů'
+hero:
+  tagline: Námořní odbornost
+  title: Desetiletí námořního inženýrství<br />v každém trupu
+  subtitle: afarer kombinuje hlubokou materiálovou vědu, precizní výrobu a testování v reálných podmínkách k výrobě plavidel, která fungují, když na tom záleží.
+  image:
+    src: https://assets.afarer.com/images/afarer/factory/afarer-production-department.webp
+    alt: Tým námořního inženýrství a výzkumu a vývoje společnosti afarer při práci
+expertise_materials:
+  tagline: Věda o materiálech
+  title: Výběr správného materiálu<br />pro každou aplikaci
+  subtitle: Pracujeme se dvěma základními materiály — každý je vybrán pro konkrétní případy použití a požadavky na výkon.
+  columns: 3
+  items:
+    - title: PVC námořní kvality
+      description: PVC tkanina 1100 denier – náš nejvšestrannější materiál. UV-stabilizovaný, odolný proti oděru a v souladu s REACH. Ideální pro SUP prkna, kde záleží na hmotnosti a nákladové efektivitě.
+      icon: tabler:droplet
+    - title: Sklolaminát a polyetylén
+      description: Sklolaminátem laminovaná SUP prkna pro prémiovou tuhost a kluznost. Rotovaný polyetylén pro náročné půjčovny a záchranářské použití vyžadující maximální odolnost proti nárazu.
+      icon: tabler:building-arch
+expertise_manufacturing:
+  tagline: Výrobní kapacity
+  title: Precizní výroba<br />v každém kroku
+  subtitle: Naše zařízení o rozloze 12 000 m² je vybaveno specializovanými stroji pro každou fázi výroby.
+  columns: 2
+  items:
+    - title: CNC řezání
+      description: Počítačem řízené řezání zajišťuje přesné, opakovatelné panely tkaniny s minimálním odpadem. Každý díl přesně odpovídá návrhu.
+      icon: tabler:cpu
+    - title: Vysokofrekvenční svařování
+      description: Průmyslové HF svařování vytváří švy pevnější než základní materiál. Stálá regulace teploty a tlaku zajišťuje vzduchotěsné spoje v každé výrobní sérii.
+      icon: tabler:bolt
+    - title: Montáž drop stitch jádra
+      description: Tisíce polyesterových vláken spojuje horní a spodní vrstvy tkaniny, což umožňuje nafouknutí pod vysokým tlakem (15-20 PSI) pro tuhá, stabilní SUP prkna.
+      icon: tabler:building-arch
+    - title: Tlakové zkoušky
+      description: Každý nafukovací produkt je před odesláním testován tlakem. Prkna jsou testována při 1,25násobném jmenovitém tlaku — pokud to vydrží, bude to fungovat na vodě.
+      icon: tabler:wind
+    - title: Testování pevnosti švů
+      description: Náhodné vzorky z každé výrobní šarže procházejí destruktivním testováním pevnosti švů. Výsledky jsou zaznamenány a dohledatelné ke konkrétním výrobním sériím.
+      icon: tabler:files
+    - title: Testování na vodě
+      description: Každý model SUP prochází námořními zkouškami před certifikací. Testování v reálných pobřežních podmínkách ověřuje výkon, ovladatelnost a stabilitu.
+      icon: tabler:droplet
+expertise_design:
+  tagline: Design a inženýrství
+  title: Navrženo pro reálné podmínky
+  subtitle: Naše designová filozofie začíná tím, jak bude prkno používáno — pak staví inženýrství kolem tohoto případu použití.
+  items:
+    - title: Konstrukce výkonnostního trupu
+      description: Každý tvar trupu je laděn pro svůj případ použití — displacement nose pro kluznost při túrách, přidaný rocker pro obratnost ve surfu, ploché stabilní profily pro rybaření a jógu.
+    - title: Bezpečnost drop-stitch
+      description: Každé prkno má tuhé drop-stitch jádro se zesílenými bočnicemi. Pokud je poškozena část, vysoce pevná drop-stitch konstrukce udrží prkno v provozu.
+    - title: Ergonomické uspořádání paluby
+      description: Členění deck padu, poloha madla pro přenos a montážní body jsou navrženy s ohledem na pohodlí jezdce při dlouhodobém používání — ať už při túrách, rybaření nebo hlídkování.
+    - title: Individuální konfigurace
+      description: Barvy bočnic, konfigurace deck padu, úchyty příslušenství, kapacita vybavení — každý model lze upravit podle konkrétních provozních požadavků.
+cta:
+  title: Máte na mysli konkrétní aplikaci?
+  subtitle: Náš inženýrský tým může poradit s výběrem materiálu, designem a výrobou pro váš projekt.
+  actions:
+    - variant: primary
+      text: Zeptejte se našich inženýrů
+      href: /contact/
+    - text: Zobrazit sortiment
+      href: /products/

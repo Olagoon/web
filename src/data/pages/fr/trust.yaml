@@ -1,0 +1,179 @@
+meta:
+  title: 'Confiance — Qualité, Normes & Réputation | {SITE}'
+  description: 'Pourquoi faire confiance à afarer : certifications CE et ISO, usine intégrée, références mondiales et garantie. Fabricant professionnel de SUP gonflables.'
+  keywords:
+    - 'confiance fabricant SUP'
+    - 'certifications qualité'
+    - 'fabricant fiable'
+    - 'usine certifiée'
+hero:
+  tagline: Construit selon des normes qui comptent
+  title: Faites confiance à afarer
+  subtitle: |
+    Chaque produit que nous construisons est certifié CE — testé pour la sécurité,<br />la durabilité et les performances. Aucun compromis. Aucune exception.
+  taglineSection: Certifié. Testé. Prouvé.
+  image: https://assets.afarer.com/images/afarer/hero/tech-meeting-small.webp
+  imageAlt: Produit afarer en cours de test qualité
+stats:
+  title: afarer en chiffres
+  stats:
+    - title: Certifié CE
+      description: Tous les produits de loisir respectent les normes de sécurité UE
+    - title: ISO 9001
+      description: Système de management de la qualité depuis 2012
+    - title: BSCI et REACH
+      description: Fabrication éthique et conformité des matériaux
+    - title: Garantie 3 ans
+      description: Sur chaque produit afarer — sans exception
+features3_certifications:
+  title: Certifications et Conformité
+  subtitle: Chaque produit est testé et certifié indépendamment selon les normes internationales.
+  columns: 3
+  isBeforeContent: true
+  items:
+    - title: Certification CE
+      description: Tous les SUP afarer respectent la norme CE européenne. Chaque produit subit des tests de pression, flottabilité et charge.
+      icon: tabler:certificate
+    - title: ISO 9001
+      description: Notre installation de 12 000 m² à Qingdao fonctionne sous un système de gestion de la qualité. Chaque lot de production est traçable, documenté et inspecté.
+      icon: tabler:clipboard-check
+    - title: Conformité Sociale BSCI
+      description: Nous sommes certifiés BSCI, garantissant des pratiques de travail éthiques, des conditions de travail sûres et une responsabilité environnementale dans toute notre chaîne d'approvisionnement.
+      icon: tabler:users
+    - title: REACH et RoHS
+      description: Tous les matériaux — PVC, mousse EVA, adhésifs — sont conformes aux règlements REACH et RoHS de l'UE. Aucune substance restreinte, aucun compromis.
+      icon: tabler:flask
+    - title: Laboratoire de Test des Matériaux
+      description: Le laboratoire interne teste la traction, résistance UV, intégrité des soudures et abrasion pour chaque lot.
+      icon: tabler:microscope
+    - title: Garantie 3 ans
+      description: Chaque produit afarer bénéficie d'une garantie de trois ans contre les défauts de fabrication.
+      icon: tabler:shield-check
+testimonials:
+  tagline: Confiance Client
+  title: Ce que disent nos clients
+  subtitle: Des pagayeurs débutants aux opérateurs de flottes professionnels — découvrez pourquoi ils font confiance à afarer.
+  items:
+    - content: Nous avons équipé toute notre flotte de location avec les SUP afarer. Deux saisons, zéro défaillance. La certification CE a facilité l'approbation d'assurance.
+      name: Marco V.
+      title: Opérateur touristique, Croatie
+    - content: En tant qu'acheteur novice, j'étais inquiet pour la qualité. La documentation ISO et les rapports de test m'ont donné une entière confiance.
+      name: James T.
+      title: Propriétaire SUP Explorer 11, Canada
+    - content: Nous travaillons avec afarer pour nos unités de patrouille côtière. Leur processus CQ est cohérent sur chaque lot — cette fiabilité est cruciale.
+      name: Lt. Cmdr. Andres
+      title: Achats navals, Philippines
+steps2_manufacturing:
+  title: Comment nous assurons la qualité
+  subtitle: De l'inspection des matières premières au test de pression final — chaque produit passe par une chaîne qualité rigoureuse.
+  items:
+    - title: Inspection des Matières Premières
+      description: Chaque rouleau de tissu PVC est testé pour l'épaisseur, la résistance à la traction et aux UV avant d'entrer en production.
+      icon: tabler:search
+    - title: CQ en cours
+      description: Les soudures, installations de valves et liaisons de chambres sont inspectées à chaque poste d'assemblage.
+      icon: tabler:eye
+    - title: Test de Pression
+      description: Chaque produit gonflable est gonflé à 1,25x le PSI nominal et maintenu pendant 24 à 48 heures pour vérifier la rétention d'air et l'intégrité des soudures.
+      icon: tabler:wind
+    - title: Inspection finale
+      description: Chaque unité est inspectée pour la finition, le matériel et l'emballage avant d'être approuvée pour l'expédition. Des échantillons de lot partent à notre laboratoire pour des essais destructifs.
+      icon: tabler:clipboard-check
+factory_audit:
+  title: Audit d'Usine et Conformité Sociale
+  subtitle: Notre installation de 12 000 m² à Qingdao est ouverte aux audits tiers. Nous maintenons la certification BSCI et accueillons les inspections clients.
+  stats:
+    - value: 12 000 m²
+      label: Installation de Production
+    - value: 200+
+      label: Travailleurs Qualifiés
+    - value: 15 000+
+      label: Capacité Annuelle
+    - value: BSCI
+      label: Conformité Sociale
+  highlights:
+    - title: Certifié BSCI
+      desc: Certification de conformité sociale amfori BSCI — travail éthique, conditions sûres, responsabilité environnementale.
+      link: /certifications/
+    - title: Ouvert à l'inspection
+      desc: Nous accueillons les audits d'usine clients. Planifiez une visite ou une visite virtuelle de nos lignes de production à Qingdao.
+      link: /factory/
+    - title: Traçabilité complète
+      desc: Chaque lot de production est documenté et traçable — des numéros de lot des matières premières à la validation finale du CQ.
+    - title: ISO 9001:2015
+      desc: Système de management de la qualité certifié SGS. Nos processus répondent aux normes internationales.
+      link: /certifications/
+warranty_section:
+  title: Garantie et Service Après-Vente
+  subtitle: Nous soutenons chaque produit avec des conditions de garantie claires, un traitement rapide des réclamations et des pièces de rechange d'origine.
+  items:
+    - title: Garantie produit 3 ans
+      desc: Tous les produits afarer bénéficient d'une garantie de 3 ans contre les défauts de fabrication — défaillance des soudures, valves et délaminage.
+    - title: Support pièces à vie
+      desc: Pièces de rechange d’origine — valves, kits de réparation, ailerons, anneaux en D — disponibles pour tous les modèles. Nous conservons les moules et l’outillage pendant au moins 5 ans après la fin de la production.
+    - title: Réponse sous 48h
+      desc: Réclamations sous garantie accusées sous 48h. Planches de remplacement expédiées sous 10 jours ouvrés.
+    - title: Réseau de réparation mondial
+      desc: Centres de réparation agréés dans 15+ pays. Kits de réparation de terrain disponibles. Guides de réparation DIY.
+    - title: Support client OEM
+      desc: Gestionnaires de compte dédiés pour partenaires B2B. Revues trimestrielles, planification des stocks et support marketing co-marqué.
+    - title: Pack certification
+      desc: Documentation de conformité complète fournie — Déclaration CE, rapports de test, fiches de données de sécurité.
+      link: /contact/
+trust_resources:
+  title: Ressources de Confiance
+  subtitle: Téléchargez notre portfolio de certifications, rapports CQ et documentation de conformité.
+  items:
+    - title: Portefeuille de certifications
+      desc: Certificats CE, ISO 9001, BSCI, REACH, RoHS, AS 1799 dans un seul package.
+    - title: Rapport normes tests CQ
+      desc: Tests de maintien de pression de 24 à 48 h, vieillissement UV selon ISO, validation de résistance à la traction — méthodologie complète.
+    - title: Profil usine et rapport d'audit
+      desc: Aperçu de l'installation de 12 000 m² avec photos des lignes de production et résumé d'audit tiers.
+    - title: Document politique de garantie
+      desc: Conditions de garantie complètes, processus de réclamation et tarifs des pièces de rechange.
+  cta_text: Demander ressources confiance
+  cta_link: /contact/
+faqs_sup:
+  title: FAQ Planches SUP
+  subtitle: Questions fréquentes sur nos planches de paddle.
+  columns: 2
+  items:
+    - title: Quelles tailles de planches SUP afarer propose-t-il ?
+      description: Nous proposons des planches SUP de 9 ft à 12 ft, couvrant tout, des planches polyvalentes compactes aux designs de randonnée et spécialisés. Chaque modèle est disponible avec de multiples options de configuration.
+    - title: Quelle est la différence entre un SUP gonflable et un SUP rigide ?
+      description: Un SUP gonflable utilise une construction drop-stitch avec des milliers de fils internes permettant une haute pression d'air, tandis qu'un SUP rigide utilise de l'époxy ou de la fibre de verre. Les SUP gonflables offrent portabilité et commodité de rangement sans sacrifier la rigidité.
+    - title: Quel est le poids maximum pour les planches SUP ?
+      description: Nos planches SUP supportent jusqu’à 150 kg selon le modèle et le volume. Chaque page produit indique la charge maximale pour votre modèle spécifique.
+    - title: Les SUP afarer sont-ils certifiés CE ?
+      description: Oui. Tous les modèles SUP récréatifs sont certifiés CE selon les normes européennes applicables.
+    - title: Quelle est la garantie sur les planches SUP ?
+      description: Tous les SUP afarer bénéficient d'une garantie standard de trois ans contre les défauts de fabrication, couvrant les défaillances de joints, les défauts de valves et le délaminage.
+    - title: Combien de temps faut-il pour gonfler une planche SUP ?
+      description: Avec la pompe manuelle incluse, un gonflage complet à 15 PSI prend environ 8 à 12 minutes. Pour un gonflage plus rapide, nous recommandons notre pompe électrique afarer 12V, qui gonfle une planche en moins de 4 minutes.
+faqs_materials:
+  title: FAQ sur les Matériaux et l'Entretien des SUP
+  subtitle: Questions fréquentes sur les matériaux, l'entretien et le stockage de nos SUP gonflables.
+  columns: 2
+  items:
+    - title: Quels matériaux sont utilisés dans les SUP gonflables afarer ?
+      description: Nous utilisons du PVC de qualité militaire (1100 deniers) avec construction stabilisée UV et résistante à l’abrasion, conforme aux règlements UE REACH et RoHS.
+    - title: Combien de temps durent les SUP gonflables ?
+      description: Avec un entretien approprié, un SUP gonflable en PVC de qualité dure 5 à 10 ans. Un nettoyage régulier, une protection UV et un stockage adapté prolongent considérablement la durée de vie.
+    - title: Quel entretien est requis pour un SUP gonflable ?
+      description: L'entretien de base comprend le rinçage à l'eau douce après chaque utilisation (surtout en eau salée), le séchage avant stockage, la vérification annuelle des valves et l'évitement d'une exposition prolongée au soleil.
+    - title: Les SUP gonflables peuvent-ils être utilisés en eau salée ?
+      description: Oui. Tous les SUP gonflables afarer sont conçus pour une utilisation en eau douce et en eau salée. Nous recommandons de rincer à l'eau douce et de sécher soigneusement après une exposition à l'eau salée.
+    - title: Comment stocker un SUP gonflable ?
+      description: Dégonflez, nettoyez et séchez complètement la planche avant stockage. Roulez sans serrer (évitez les plis serrés), rangez dans un endroit frais et sec à l'abri de la lumière directe du soleil, et tenez à l'écart des sols en béton pour éviter la remontée d'humidité.
+    - title: Quelle est la capacité de poids des SUP gonflables afarer ?
+      description: Les capacités de poids vont de 100 kg pour nos plus petits modèles à plus de 200 kg pour les planches plus grandes. Chaque page produit indique la charge maximale pour votre modèle spécifique.
+cta:
+  title: Vous voulez voir les certifications vous-même ?
+  subtitle: Demandez notre portfolio de certifications, rapports d'audit d'usine ou documentation de conformité. Aucun NDA requis.
+  actions:
+    - variant: primary
+      text: Demander les documents de certification
+      href: /contact/
+    - text: Visiter notre page usine
+      href: /factory/
