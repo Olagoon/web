@@ -1,104 +1,168 @@
 meta:
-  title: Papan Paddle Tiup OLagoon | Pergi Lebih Jauh. Kayuh Lebih Kuat.
-  description: Temui papan paddle tiup OLagoon untuk kayuhan serbaguna, touring, yoga, memancing dan pengembaraan luar rumah. Cari SUP yang sempurna dan terokai lebih banyak di air.
+  title: OLagoon Drop-Stitch Inflatable Pools | Your Backyard Lagoon, Engineered Like a Yacht
+  description: >-
+    OLagoon drop-stitch inflatable pools bring yacht-grade engineering to your backyard — rigid
+    20 cm walls at 10–15 PSI, integrated sand filtration, and 15-minute setup. Three sizes from
+    2 m to 5 m, shipped free in the contiguous US.
   keywords:
-    - papan paddle tiup
-    - sup tiup
-    - sup serbaguna
-    - sup touring
-    - sup yoga
-    - sup memancing
-    - papan paddle keluarga
-    - papan paddle mudah alih
+    - drop-stitch inflatable pool
+    - inflatable pool
+    - backyard inflatable pool
+    - plunge pool
+    - family pool
+    - portable swimming pool
+    - rigid inflatable pool
 hero:
-  tagline: Papan Paddle Tiup
-  title: Papan Paddle Tiup untuk Setiap Pengembaraan
-  slogan: Pergi Lebih Jauh. Kayuh Lebih Kuat.
-  subtitle: Temui kebebasan berkayuh bersama OLagoon. Terokai SUP tiup yang direka dengan teliti untuk hari santai di tasik, pengembaraan pesisiran, kecergasan dan segalanya di antaranya.
-  taglineSection: Dibina untuk keyakinan. Direka untuk menonjol.
+  tagline: Drop-Stitch Inflatable Pools
+  title: Your Backyard Lagoon, Engineered Like a Yacht.
+  slogan: Rigid at 15 PSI. Ready in an afternoon.
+  subtitle: >-
+    OLagoon pools inflate to yacht-tender pressure with 20 cm sit-on walls, integrated sand
+    filtration, and none of the digging, permits, or five-figure budgets of a built-in pool.
+  bullets:
+    - 10–15 PSI drop-stitch walls
+    - 20 cm sit-on rigid walls
+    - 15-minute setup
+    - 2-year structural warranty
   actions:
     - variant: primary
-      text: Cari Papan Anda
+      text: Explore the Pools
+      href: /products/
+    - text: Find Your Size
       href: /size-guide/
-      icon: tabler:compass
-    - text: Terokai SUP
-      href: /products/
-      icon: tabler:waves
-    - text: Mengapa OLagoon
-      href: /olagoon-story/
-      icon: tabler:heart
+    - text: Why OLagoon
+      href: /about/
   image:
-    src: ~/assets/images/hero-image.webp
-    alt: Papan paddle tiup OLagoon meluncur di air tenang ketika matahari terbit — dibina untuk setiap pengembaraan
+    src: /images/olagoon/hero/pool-lagoon-hero.webp
+    alt: An OLagoon drop-stitch inflatable pool set up on a sunny backyard lawn
+collection:
+  tagline: The Pool Collection
+  title: Three Lagoons. Pick Your Size.
+  subtitle: >-
+    From a two-person plunge to a 5-metre party lagoon — the same drop-stitch engineering and
+    rigid walls, in three footprints.
+  cta:
+    text: Compare All Models
+    href: /products/compare/
 who_we_serve:
-  tagline: Kayuh Bersama Kami
-  title: Temui Laluan Anda di Air
-  subtitle: Setiap pengayuh mempunyai idea pengembaraan yang berbeza. Temui SUP OLagoon yang direka mengikut gaya kayuhan anda.
+  tagline: Which Lagoon Fits?
+  title: Find the Pool That Fits Your Backyard
+  subtitle: Start with your space and who is swimming — every OLagoon pool shares the same yacht-grade core.
   items:
-    - title: Pemula & Pengayuh Rekreasi
-      keywords: sup tiup untuk pemula, papan paddle serbaguna, sup stabil
-      description: Papan serbaguna yang lebar dan stabil menjadikan kayuhan pertama terasa semula jadi dan terus menemani anda berkembang.
+    - title: Small Patios & Cold Plunges
+      keywords: plunge pool, compact inflatable pool, cold plunge
+      description: >-
+        A 2 m × 1.5 m plunge pool with sit-on walls — big enough for two, small enough for a
+        patio, deck, or garden corner.
+      icon: tabler:ripple
+      cta: View the Compact Plunge
+      link: /products/compact-plunge/
+    - title: Family Backyards
+      keywords: family pool, kids pool, backyard swimming
+      description: >-
+        The best-selling 3 m × 2 m family pool — real swimming for 4–6 people, filtered water,
+        and walls the adults can sit on.
       icon: tabler:users
-      cta: Cari Papan Pertama Anda
-      link: /products/
-    - title: Touring & Pengembaraan
-      keywords: sup touring, papan paddle jarak jauh, sup ekspedisi
-      description: Papan yang lebih panjang dan sempit yang mengekalkan arah, meluncur lebih jauh dan membawa kelengkapan untuk laluan beberapa hari.
-      icon: tabler:building
-      cta: Terokai SUP Touring
-      link: /products/
-    - title: Yoga & Kecergasan
-      keywords: sup yoga, papan paddle kecergasan, sup lebar dan stabil
-      description: Platform lebar dan stabil dengan ruang untuk bergerak — untuk aliran waktu matahari terbit, latihan dan keseimbangan di air tenang.
-      icon: tabler:heart
-      cta: Terokai SUP Yoga
-      link: /products/
-    - title: Memancing & Keluarga
-      keywords: sup memancing, papan paddle keluarga, platform memancing stabil
-      description: Platform stabil dan praktikal untuk memancing, berkayuh bersama anak-anak dan hari santai yang panjang di air.
-      icon: tabler:users
-      cta: Terokai SUP Memancing
-      link: /products/
-proof_points:
-  title: Diuji Melebihi Bilik Pameran
-  subtitle: Reka bentuk, prestasi dan kualiti yang boleh anda sahkan — di atas air dan dalam angka.
-  items:
-    - metric: 10+
-      label: Tahun Mereka Bentuk untuk Air
-      detail: Sejak 2012, diperhalusi papan demi papan
-    - metric: 50+
-      label: Negara di Atas Air
-      detail: Pendayung dan rakan kongsi di seluruh dunia
-    - metric: 12–15
-      label: Teras Drop-Stitch PSI
-      detail: Kaku saat penting, mudah dibungkus
-    - metric: 100%
-      label: Diuji Tekanan Papan demi Papan
-      detail: Diperiksa sebelum dihantar
+      cta: View the Family Oasis
+      link: /products/family-oasis/
+    - title: Full-Size Entertaining
+      keywords: party pool, large inflatable pool, 5m pool
+      description: >-
+        A flagship 5 m × 2.5 m lagoon for pool parties and entertaining — space for 8–10
+        swimmers and the whole summer crew.
+      icon: tabler:beach
+      cta: View the Grand Lagoon
+      link: /products/grand-lagoon/
 business_solutions:
-  tagline: Mengapa Rasanya Berbeza
-  title: Prestasi yang Anda Rasai dari Kayuhan Pertama
-  subtitle: Empat tunjang yang dibentuk oleh air sebenar — prestasi, reka bentuk, pembinaan dan kualiti.
+  tagline: Engineered Like a Yacht
+  title: Yacht-Grade Construction, Backyard-Sized
+  subtitle: >-
+    The same drop-stitch technology that keeps yacht tenders rigid at sea keeps OLagoon walls
+    ruler-straight in your garden.
   items:
-    - title: Prestasi di Air
-      description: Bentuk ditala untuk kestabilan, luncuran dan keyakinan di air bergelora — setiap kayuhan kekal bersambung dengan air.
+    - title: High-Density Drop-Stitch Core
+      description: >-
+        Thousands of polyester threads lock the top and bottom PVC layers together, so the pool
+        runs hard at 10–15 PSI without bulging.
+      icon: tabler:grid-dots
+    - title: 20 cm Sit-On Walls
+      description: >-
+        Rigid, flat-topped walls rated for seated adults — benches built into the pool, not
+        sagging vinyl rings.
+      icon: tabler:layout-navbar
+    - title: Integrated Filtration
+      description: >-
+        Matched plumbing ports accept the OLagoon sand-filter pump, keeping thousands of litres
+        clear all season without cartridge refills.
+      icon: tabler:filter
+    - title: Tested Before It Ships
+      description: >-
+        Every pool is pressure-tested and inspected before packing, and backed by a 2-year
+        structural warranty.
       icon: tabler:shield-check
-    - title: Reka Bentuk Ekspresif
-      description: Koleksi terinspirasi daripada pasang surut, hidupan liar dan tenaga pesisiran — papan yang anda mahu dilihat bersamanya.
-      icon: tabler:package
-    - title: Pembinaan Terbukti
-      description: Teras drop-stitch ketumpatan tinggi, rel diperkukuh dan jahitan laminasi fusi untuk penggunaan berulang.
-      icon: tabler:headset
-    - title: Kualiti Disahkan
-      description: Diuji tekanan, diperiksa visual dan disokong waranti yang jelas serta sokongan selepas jualan yang responsif.
-      icon: tabler:truck-delivery
+proof_points:
+  title: Numbers That Hold Water
+  subtitle: Engineering and quality you can verify — on the label and in the backyard.
+  items:
+    - metric: 10–15 PSI
+      label: Operating Pressure
+      detail: Yacht-tender pressure class
+    - metric: 20 cm
+      label: Rigid Wall Thickness
+      detail: Straight, sit-on strong
+    - metric: 15 min
+      label: Setup Time
+      detail: Unroll, inflate, fill
+    - metric: 2-year
+      label: Structural Warranty
+      detail: On every pool
+accessories:
+  tagline: Pool Essentials
+  title: Everything Your Lagoon Needs
+  subtitle: >-
+    Filtration, heat retention, base protection, and safe entry — designed to pair with every
+    OLagoon pool.
+faqs:
+  title: Backyard Pool FAQs
+  subtitle: Common questions from OLagoon owners about setup, care, and storage.
+  items:
+    - q: How long does setup take?
+      a: >-
+        About 15 minutes to inflate with the electric pump, then 1–3 hours to fill depending on
+        your water pressure. No tools, no professional installation — unroll, inflate, connect
+        the filter, and fill with a garden hose.
+    - q: How rigid are the walls really?
+      a: >-
+        OLagoon pools run at 10–15 PSI — the same pressure class as inflatable yacht tenders.
+        Thousands of drop-stitch threads lock the wall layers together, so the 20 cm walls stay
+        ruler-straight and adults can sit on the edge.
+    - q: What does maintenance involve?
+      a: >-
+        The sand-filter pump circulates and cleans the water; backwash it about once a week with
+        the 6-way valve. Keep the thermal cover on between swims to keep debris out. The filter
+        sand lasts about 5 seasons — no cartridge refills.
+    - q: Can I leave it up all summer?
+      a: >-
+        Yes. The UV-resistant PVC fabric is rated for full-season exposure. Use the included
+        ground mat on any surface, keep filtration running, and cover the pool overnight to
+        retain warmth and keep it clean.
+    - q: What surface can it go on?
+      a: >-
+        Any firm, level surface — lawn, pavers, or a concrete pad. Remove stones and sharp
+        objects first and lay the protective ground mat underneath. Filled pools are heavy, so
+        confirm decks are rated for a similar water volume.
+    - q: What happens in winter?
+      a: >-
+        Drain, deflate, and fold the pool into its storage bag for indoor storage. That is the
+        point of drop-stitch: a full-size pool that packs into a box and comes back next summer.
 cta:
-  title: Cari papan anda seterusnya.
-  subtitle: Sama ada kayuhan pertama atau laluan terjauh anda — kami akan membawa anda ke air.
+  title: Ready to Build Your Backyard Lagoon?
+  subtitle: >-
+    Pick your size, add filtration, and be swimming this weekend — free shipping in the
+    contiguous US.
   actions:
     - variant: primary
-      text: Terokai Koleksi
+      text: Shop the Pools
       href: /products/
-      icon: tabler:send
-    - text: Minta Katalog
-      href: /resources/download-catalog/
+    - text: Contact Us
+      href: /contact/

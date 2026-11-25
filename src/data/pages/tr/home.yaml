@@ -1,104 +1,168 @@
 meta:
-  title: OLagoon Şişme Paddleboard’lar | Daha uzağa git. Daha güçlü kürek çek.
-  description: OLagoon şişme paddleboard’ları all-around kürek çekme, tur, yoga, balıkçılık ve açık hava maceraları için keşfedin. Size uygun SUP’ı bulun ve suda daha fazlasını keşfedin.
+  title: OLagoon Drop-Stitch Inflatable Pools | Your Backyard Lagoon, Engineered Like a Yacht
+  description: >-
+    OLagoon drop-stitch inflatable pools bring yacht-grade engineering to your backyard — rigid
+    20 cm walls at 10–15 PSI, integrated sand filtration, and 15-minute setup. Three sizes from
+    2 m to 5 m, shipped free in the contiguous US.
   keywords:
-    - şişme paddleboard
-    - şişme sup
-    - all-around sup
-    - tur sup
-    - yoga sup
-    - balıkçılık sup
-    - aile paddleboard
-    - taşınabilir paddleboard
+    - drop-stitch inflatable pool
+    - inflatable pool
+    - backyard inflatable pool
+    - plunge pool
+    - family pool
+    - portable swimming pool
+    - rigid inflatable pool
 hero:
-  tagline: Şişme Paddleboard’lar
-  title: Her Macera için Şişme Paddleboard’lar
-  slogan: Daha uzağa git. Daha güçlü kürek çek.
-  subtitle: OLagoon ile kürek çekmenin özgürlüğünü keşfedin. Gölet başındaki huzurlu günler, kıyı maceraları, fitness ve daha fazlası için özenle tasarlanmış şişme SUP’ları keşfedin.
-  taglineSection: Güven için üretildi. Farklılaşmak için tasarlandı.
+  tagline: Drop-Stitch Inflatable Pools
+  title: Your Backyard Lagoon, Engineered Like a Yacht.
+  slogan: Rigid at 15 PSI. Ready in an afternoon.
+  subtitle: >-
+    OLagoon pools inflate to yacht-tender pressure with 20 cm sit-on walls, integrated sand
+    filtration, and none of the digging, permits, or five-figure budgets of a built-in pool.
+  bullets:
+    - 10–15 PSI drop-stitch walls
+    - 20 cm sit-on rigid walls
+    - 15-minute setup
+    - 2-year structural warranty
   actions:
     - variant: primary
-      text: Boardını Bul
+      text: Explore the Pools
+      href: /products/
+    - text: Find Your Size
       href: /size-guide/
-      icon: tabler:compass
-    - text: SUP’ları Keşfet
-      href: /products/
-      icon: tabler:waves
-    - text: Neden OLagoon
-      href: /olagoon-story/
-      icon: tabler:heart
+    - text: Why OLagoon
+      href: /about/
   image:
-    src: ~/assets/images/hero-image.webp
-    alt: OLagoon şişme SUP’ları gün doğumunda sakin suda süzülüyor — her macera için üretildi
+    src: /images/olagoon/hero/pool-lagoon-hero.webp
+    alt: An OLagoon drop-stitch inflatable pool set up on a sunny backyard lawn
+collection:
+  tagline: The Pool Collection
+  title: Three Lagoons. Pick Your Size.
+  subtitle: >-
+    From a two-person plunge to a 5-metre party lagoon — the same drop-stitch engineering and
+    rigid walls, in three footprints.
+  cta:
+    text: Compare All Models
+    href: /products/compare/
 who_we_serve:
-  tagline: Bizimle Kürek Çekin
-  title: Sudaki Yolunu Bul
-  subtitle: Her kürekçinin maceradan farklı bir ideası vardır. Sizin sürüşünüze uygun tasarlanmış bir OLagoon SUP keşfedin.
+  tagline: Which Lagoon Fits?
+  title: Find the Pool That Fits Your Backyard
+  subtitle: Start with your space and who is swimming — every OLagoon pool shares the same yacht-grade core.
   items:
-    - title: Yeni Başlayanlar ve Amatör Kürekçiler
-      keywords: yeni başlayanlar için şişme sup, all-around paddleboard, stabil sup
-      description: İlk kürek çekişinizi doğal hissettiren ve gelişirken yanınızda olan geniş, stabil all-around boardlar.
+    - title: Small Patios & Cold Plunges
+      keywords: plunge pool, compact inflatable pool, cold plunge
+      description: >-
+        A 2 m × 1.5 m plunge pool with sit-on walls — big enough for two, small enough for a
+        patio, deck, or garden corner.
+      icon: tabler:ripple
+      cta: View the Compact Plunge
+      link: /products/compact-plunge/
+    - title: Family Backyards
+      keywords: family pool, kids pool, backyard swimming
+      description: >-
+        The best-selling 3 m × 2 m family pool — real swimming for 4–6 people, filtered water,
+        and walls the adults can sit on.
       icon: tabler:users
-      cta: İlk Boardını Bul
-      link: /products/
-    - title: Tur ve Macera
-      keywords: tur supı, uzun mesafe paddleboard, seyahat supı
-      description: Daha uzun, daha dar, düz giden, daha uzağa gliden ve çok günlü rotalar için ekipman taşıyan boardlar.
-      icon: tabler:building
-      cta: Tur SUP’larını Keşfet
-      link: /products/
-    - title: Yoga ve Fitness
-      keywords: yoga supı, fitness paddleboard, geniş stabil sup
-      description: Hareket alanı sunan geniş, stabil platformlar — gün doğumu akışları, antrenmanlar ve sakin suda denge için.
-      icon: tabler:heart
-      cta: Yoga SUP’larını Keşfet
-      link: /products/
-    - title: Balıkçılık ve Aile
-      keywords: balıkçılık supı, aile paddleboard, stabil balıkçılık platformu
-      description: Olta atmak, çocuklarla kürek çekmek ve suda uzun huzurlu günler için stabil, pratik platformlar.
-      icon: tabler:users
-      cta: Balıkçılık SUP’larını Keşfet
-      link: /products/
-proof_points:
-  title: Showroom ötesinde test edildi
-  subtitle: Tasarım, performans ve kaliteyi doğrulayabilirsiniz — suda ve rakamlarda.
-  items:
-    - metric: 10+
-      label: Su için tasarım yılları
-      detail: 2012'den beri, tahta tahta geliştirildi
-    - metric: 50+
-      label: Sudaki ülkeler
-      detail: Kürekçiler ve iş ortakları dünya genelinde
-    - metric: 12–15
-      label: PSI drop-stitch çekirdek
-      detail: Gerektiği yerde rijit, katlanması kolay
-    - metric: 100%
-      label: Tahta tahta basınç testi
-      detail: Sevkiyat öncesi denetlenir
+      cta: View the Family Oasis
+      link: /products/family-oasis/
+    - title: Full-Size Entertaining
+      keywords: party pool, large inflatable pool, 5m pool
+      description: >-
+        A flagship 5 m × 2.5 m lagoon for pool parties and entertaining — space for 8–10
+        swimmers and the whole summer crew.
+      icon: tabler:beach
+      cta: View the Grand Lagoon
+      link: /products/grand-lagoon/
 business_solutions:
-  tagline: Neden Farklı Sürer
-  title: İlk Kürekte Hissettiğiniz Performans
-  subtitle: Gerçek sudan şekillenen dört temel — performans, tasarım, konstrüksiyon ve kalite.
+  tagline: Engineered Like a Yacht
+  title: Yacht-Grade Construction, Backyard-Sized
+  subtitle: >-
+    The same drop-stitch technology that keeps yacht tenders rigid at sea keeps OLagoon walls
+    ruler-straight in your garden.
   items:
-    - title: Suda Performans
-      description: Stabilite, glidi ve dalgada güven için ayarlanmış formlar — her kürek suda bağlantıda kalır.
+    - title: High-Density Drop-Stitch Core
+      description: >-
+        Thousands of polyester threads lock the top and bottom PVC layers together, so the pool
+        runs hard at 10–15 PSI without bulging.
+      icon: tabler:grid-dots
+    - title: 20 cm Sit-On Walls
+      description: >-
+        Rigid, flat-topped walls rated for seated adults — benches built into the pool, not
+        sagging vinyl rings.
+      icon: tabler:layout-navbar
+    - title: Integrated Filtration
+      description: >-
+        Matched plumbing ports accept the OLagoon sand-filter pump, keeping thousands of litres
+        clear all season without cartridge refills.
+      icon: tabler:filter
+    - title: Tested Before It Ships
+      description: >-
+        Every pool is pressure-tested and inspected before packing, and backed by a 2-year
+        structural warranty.
       icon: tabler:shield-check
-    - title: İfade Edici Tasarım
-      description: Gelgitlerden, yaban hayattan ve kıyının enerjisinden ilham alan koleksiyonlar — görülmek istediğiniz boardlar.
-      icon: tabler:package
-    - title: Kanıtlanmış Konstrüksiyon
-      description: Yüksek yoğunluklu drop-stitch çekirdekler, takviyeli kenarlar ve tekrarlı kullanım için füzyonla lamines dikişler.
-      icon: tabler:headset
-    - title: Doğrulanmış Kalite
-      description: Basınç testli, görsel denetimli, net garanti ve hızlı satış sonrası destekle.
-      icon: tabler:truck-delivery
+proof_points:
+  title: Numbers That Hold Water
+  subtitle: Engineering and quality you can verify — on the label and in the backyard.
+  items:
+    - metric: 10–15 PSI
+      label: Operating Pressure
+      detail: Yacht-tender pressure class
+    - metric: 20 cm
+      label: Rigid Wall Thickness
+      detail: Straight, sit-on strong
+    - metric: 15 min
+      label: Setup Time
+      detail: Unroll, inflate, fill
+    - metric: 2-year
+      label: Structural Warranty
+      detail: On every pool
+accessories:
+  tagline: Pool Essentials
+  title: Everything Your Lagoon Needs
+  subtitle: >-
+    Filtration, heat retention, base protection, and safe entry — designed to pair with every
+    OLagoon pool.
+faqs:
+  title: Backyard Pool FAQs
+  subtitle: Common questions from OLagoon owners about setup, care, and storage.
+  items:
+    - q: How long does setup take?
+      a: >-
+        About 15 minutes to inflate with the electric pump, then 1–3 hours to fill depending on
+        your water pressure. No tools, no professional installation — unroll, inflate, connect
+        the filter, and fill with a garden hose.
+    - q: How rigid are the walls really?
+      a: >-
+        OLagoon pools run at 10–15 PSI — the same pressure class as inflatable yacht tenders.
+        Thousands of drop-stitch threads lock the wall layers together, so the 20 cm walls stay
+        ruler-straight and adults can sit on the edge.
+    - q: What does maintenance involve?
+      a: >-
+        The sand-filter pump circulates and cleans the water; backwash it about once a week with
+        the 6-way valve. Keep the thermal cover on between swims to keep debris out. The filter
+        sand lasts about 5 seasons — no cartridge refills.
+    - q: Can I leave it up all summer?
+      a: >-
+        Yes. The UV-resistant PVC fabric is rated for full-season exposure. Use the included
+        ground mat on any surface, keep filtration running, and cover the pool overnight to
+        retain warmth and keep it clean.
+    - q: What surface can it go on?
+      a: >-
+        Any firm, level surface — lawn, pavers, or a concrete pad. Remove stones and sharp
+        objects first and lay the protective ground mat underneath. Filled pools are heavy, so
+        confirm decks are rated for a similar water volume.
+    - q: What happens in winter?
+      a: >-
+        Drain, deflate, and fold the pool into its storage bag for indoor storage. That is the
+        point of drop-stitch: a full-size pool that packs into a box and comes back next summer.
 cta:
-  title: Sıradaki boardınızı bulun.
-  subtitle: İlk küreğiniz ya da en uzun rotanız — sizi suya çıkarıyoruz.
+  title: Ready to Build Your Backyard Lagoon?
+  subtitle: >-
+    Pick your size, add filtration, and be swimming this weekend — free shipping in the
+    contiguous US.
   actions:
     - variant: primary
-      text: Koleksiyonu Keşfet
+      text: Shop the Pools
       href: /products/
-      icon: tabler:send
-    - text: Katalog İsteyin
-      href: /resources/download-catalog/
+    - text: Contact Us
+      href: /contact/

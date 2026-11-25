@@ -1,104 +1,168 @@
 meta:
-  title: Mga Inflatable Paddle Board ng OLagoon | Magpunta nang Mas Malayo. Mas Malakas na Paddle.
-  description: Tuklasin ang mga inflatable paddle board ng OLagoon para sa all-around paddling, touring, yoga, pangingisda, at mga outdoor adventure. Hanapin ang perpektong SUP mo at tuklasin ang higit pa sa tubig.
+  title: OLagoon Drop-Stitch Inflatable Pools | Your Backyard Lagoon, Engineered Like a Yacht
+  description: >-
+    OLagoon drop-stitch inflatable pools bring yacht-grade engineering to your backyard — rigid
+    20 cm walls at 10–15 PSI, integrated sand filtration, and 15-minute setup. Three sizes from
+    2 m to 5 m, shipped free in the contiguous US.
   keywords:
-    - inflatable paddle board
-    - inflatable sup
-    - all around sup
-    - touring sup
-    - yoga sup
-    - fishing sup
-    - family paddle board
-    - portable paddle board
+    - drop-stitch inflatable pool
+    - inflatable pool
+    - backyard inflatable pool
+    - plunge pool
+    - family pool
+    - portable swimming pool
+    - rigid inflatable pool
 hero:
-  tagline: Mga Inflatable Paddle Board
-  title: Mga Inflatable Paddle Board para sa Bawat Adventure
-  slogan: Magpunta nang Mas Malayo. Mas Malakas na Paddle.
-  subtitle: Tuklasin ang kalayaan ng pag-paddle kasama ang OLagoon. Galugarin ang mga maingat na dinisenyong inflatable SUP para sa mga relaxing na araw sa lawa, mga coastal adventure, fitness, at lahat ng nasa pagitan.
-  taglineSection: Binuo para sa kumpiyansa. Dinisenyo para tumayo.
+  tagline: Drop-Stitch Inflatable Pools
+  title: Your Backyard Lagoon, Engineered Like a Yacht.
+  slogan: Rigid at 15 PSI. Ready in an afternoon.
+  subtitle: >-
+    OLagoon pools inflate to yacht-tender pressure with 20 cm sit-on walls, integrated sand
+    filtration, and none of the digging, permits, or five-figure budgets of a built-in pool.
+  bullets:
+    - 10–15 PSI drop-stitch walls
+    - 20 cm sit-on rigid walls
+    - 15-minute setup
+    - 2-year structural warranty
   actions:
     - variant: primary
-      text: Hanapin ang Board Mo
+      text: Explore the Pools
+      href: /products/
+    - text: Find Your Size
       href: /size-guide/
-      icon: tabler:compass
-    - text: Galugarin ang mga SUP
-      href: /products/
-      icon: tabler:waves
-    - text: Bakit OLagoon
-      href: /olagoon-story/
-      icon: tabler:heart
+    - text: Why OLagoon
+      href: /about/
   image:
-    src: ~/assets/images/hero-image.webp
-    alt: Mga inflatable paddle board ng OLagoon na dumadausdos sa kalmadong tubig sa pagsikat ng araw — binuo para sa bawat adventure
+    src: /images/olagoon/hero/pool-lagoon-hero.webp
+    alt: An OLagoon drop-stitch inflatable pool set up on a sunny backyard lawn
+collection:
+  tagline: The Pool Collection
+  title: Three Lagoons. Pick Your Size.
+  subtitle: >-
+    From a two-person plunge to a 5-metre party lagoon — the same drop-stitch engineering and
+    rigid walls, in three footprints.
+  cta:
+    text: Compare All Models
+    href: /products/compare/
 who_we_serve:
-  tagline: Mag-paddle Kasama Namin
-  title: Hanapin ang Daan Mo sa Tubig
-  subtitle: May kanya-kanyang ideya ng adventure ang bawat paddler. Tuklasin ang isang OLagoon SUP na dinisenyo para sa paraan ng pag-paddle mo.
+  tagline: Which Lagoon Fits?
+  title: Find the Pool That Fits Your Backyard
+  subtitle: Start with your space and who is swimming — every OLagoon pool shares the same yacht-grade core.
   items:
-    - title: Mga Baguhan at Rekreyasyonal na Paddler
-      keywords: inflatable sup para sa mga baguhan, all around paddle board, matatag na sup
-      description: Mga malapad at matatag na all-around board na nagpaparamdam ng natural sa unang stroke at sumasabay habang nag-iimprove ka.
+    - title: Small Patios & Cold Plunges
+      keywords: plunge pool, compact inflatable pool, cold plunge
+      description: >-
+        A 2 m × 1.5 m plunge pool with sit-on walls — big enough for two, small enough for a
+        patio, deck, or garden corner.
+      icon: tabler:ripple
+      cta: View the Compact Plunge
+      link: /products/compact-plunge/
+    - title: Family Backyards
+      keywords: family pool, kids pool, backyard swimming
+      description: >-
+        The best-selling 3 m × 2 m family pool — real swimming for 4–6 people, filtered water,
+        and walls the adults can sit on.
       icon: tabler:users
-      cta: Hanapin ang Unang Board Mo
-      link: /products/
-    - title: Touring at Adventure
-      keywords: touring sup, long distance paddle board, expedition sup
-      description: Mga mas mahaba at makitid na board na tumatahak nang tuwid, dumadausdos nang mas malayo, at nagdadala ng gamit para sa multi-day na ruta.
-      icon: tabler:building
-      cta: Galugarin ang mga Touring Board
-      link: /products/
-    - title: Yoga at Fitness
-      keywords: yoga sup, fitness paddle board, malapad na matatag na sup
-      description: Mga malapad at matatag na platform na may espasyo para gumalaw — para sa sunrise flows, workout, at balanse sa kalmadong tubig.
-      icon: tabler:heart
-      cta: Galugarin ang mga Yoga SUP
-      link: /products/
-    - title: Pangingisda at Pamilya
-      keywords: fishing sup, family paddle board, matatag na fishing platform
-      description: Mga matatag at praktikal na platform para sa pangingisda, pag-paddle kasama ang mga bata, at mahahabang relaxing na araw sa tubig.
-      icon: tabler:users
-      cta: Galugarin ang mga Fishing SUP
-      link: /products/
-proof_points:
-  title: Sinubukan Higit Pa sa Showroom
-  subtitle: Disenyo, pagganap, at kalidad na mabeberipika mo — sa tubig at sa mga numero.
-  items:
-    - metric: 10+
-      label: Taon ng Pagdidisenyo para sa Tubig
-      detail: Mula pa noong 2012, pinahuhusay board bawat board
-    - metric: 50+
-      label: Mga Bansa sa Tubig
-      detail: Mga paddler at partner sa buong mundo
-    - metric: 12–15
-      label: PSI Drop-Stitch Core
-      detail: Rigid kung saan mahalaga, madaling i-pack
-    - metric: 100%
-      label: Pressure-Tested Board Bawat Board
-      detail: Sinspeksyunan bago ipadala
+      cta: View the Family Oasis
+      link: /products/family-oasis/
+    - title: Full-Size Entertaining
+      keywords: party pool, large inflatable pool, 5m pool
+      description: >-
+        A flagship 5 m × 2.5 m lagoon for pool parties and entertaining — space for 8–10
+        swimmers and the whole summer crew.
+      icon: tabler:beach
+      cta: View the Grand Lagoon
+      link: /products/grand-lagoon/
 business_solutions:
-  tagline: Kung Bakit Iba ang Pakiramdam
-  title: Performance na Maramdaman sa Unang Stroke
-  subtitle: Apat na haligi na hinubog ng tunay na tubig — performance, design, construction, at quality.
+  tagline: Engineered Like a Yacht
+  title: Yacht-Grade Construction, Backyard-Sized
+  subtitle: >-
+    The same drop-stitch technology that keeps yacht tenders rigid at sea keeps OLagoon walls
+    ruler-straight in your garden.
   items:
-    - title: Performance sa Tubig
-      description: Mga hugis na naka-tune para sa stability, glide, at kumpiyansa sa chop — bawat stroke ay nananatiling konektado sa tubig.
+    - title: High-Density Drop-Stitch Core
+      description: >-
+        Thousands of polyester threads lock the top and bottom PVC layers together, so the pool
+        runs hard at 10–15 PSI without bulging.
+      icon: tabler:grid-dots
+    - title: 20 cm Sit-On Walls
+      description: >-
+        Rigid, flat-topped walls rated for seated adults — benches built into the pool, not
+        sagging vinyl rings.
+      icon: tabler:layout-navbar
+    - title: Integrated Filtration
+      description: >-
+        Matched plumbing ports accept the OLagoon sand-filter pump, keeping thousands of litres
+        clear all season without cartridge refills.
+      icon: tabler:filter
+    - title: Tested Before It Ships
+      description: >-
+        Every pool is pressure-tested and inspected before packing, and backed by a 2-year
+        structural warranty.
       icon: tabler:shield-check
-    - title: Expressive na Design
-      description: Mga koleksyon na hango sa mga daloy, wildlife, at enerhiya ng baybayin — mga board na gusto mong makita kang kasama.
-      icon: tabler:package
-    - title: Patunay na Construction
-      description: Mataas na density na drop-stitch core, pinalakas na rails, at fusion-laminated na seams para sa paulit-ulit na paggamit.
-      icon: tabler:headset
-    - title: Beripikadong Kalidad
-      description: Pressure-tested, biswal na inspeksyonado, at may malinaw na warranty at mabilis na sumasagot na after-sales support.
-      icon: tabler:truck-delivery
+proof_points:
+  title: Numbers That Hold Water
+  subtitle: Engineering and quality you can verify — on the label and in the backyard.
+  items:
+    - metric: 10–15 PSI
+      label: Operating Pressure
+      detail: Yacht-tender pressure class
+    - metric: 20 cm
+      label: Rigid Wall Thickness
+      detail: Straight, sit-on strong
+    - metric: 15 min
+      label: Setup Time
+      detail: Unroll, inflate, fill
+    - metric: 2-year
+      label: Structural Warranty
+      detail: On every pool
+accessories:
+  tagline: Pool Essentials
+  title: Everything Your Lagoon Needs
+  subtitle: >-
+    Filtration, heat retention, base protection, and safe entry — designed to pair with every
+    OLagoon pool.
+faqs:
+  title: Backyard Pool FAQs
+  subtitle: Common questions from OLagoon owners about setup, care, and storage.
+  items:
+    - q: How long does setup take?
+      a: >-
+        About 15 minutes to inflate with the electric pump, then 1–3 hours to fill depending on
+        your water pressure. No tools, no professional installation — unroll, inflate, connect
+        the filter, and fill with a garden hose.
+    - q: How rigid are the walls really?
+      a: >-
+        OLagoon pools run at 10–15 PSI — the same pressure class as inflatable yacht tenders.
+        Thousands of drop-stitch threads lock the wall layers together, so the 20 cm walls stay
+        ruler-straight and adults can sit on the edge.
+    - q: What does maintenance involve?
+      a: >-
+        The sand-filter pump circulates and cleans the water; backwash it about once a week with
+        the 6-way valve. Keep the thermal cover on between swims to keep debris out. The filter
+        sand lasts about 5 seasons — no cartridge refills.
+    - q: Can I leave it up all summer?
+      a: >-
+        Yes. The UV-resistant PVC fabric is rated for full-season exposure. Use the included
+        ground mat on any surface, keep filtration running, and cover the pool overnight to
+        retain warmth and keep it clean.
+    - q: What surface can it go on?
+      a: >-
+        Any firm, level surface — lawn, pavers, or a concrete pad. Remove stones and sharp
+        objects first and lay the protective ground mat underneath. Filled pools are heavy, so
+        confirm decks are rated for a similar water volume.
+    - q: What happens in winter?
+      a: >-
+        Drain, deflate, and fold the pool into its storage bag for indoor storage. That is the
+        point of drop-stitch: a full-size pool that packs into a box and comes back next summer.
 cta:
-  title: Hanapin ang susunod mong board.
-  subtitle: Unang stroke mo man o pinakamahabang ruta — ilalapit ka namin sa tubig.
+  title: Ready to Build Your Backyard Lagoon?
+  subtitle: >-
+    Pick your size, add filtration, and be swimming this weekend — free shipping in the
+    contiguous US.
   actions:
     - variant: primary
-      text: Galugarin ang Koleksyon
+      text: Shop the Pools
       href: /products/
-      icon: tabler:send
-    - text: Humiling ng Katalogo
-      href: /resources/download-catalog/
+    - text: Contact Us
+      href: /contact/
